@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/545cb58b435e23aed3da275d44b07542.jpg)<br>未来星B3Rich](https://i.xiami.com/prog) | **播放数**: 10036366<br>**粉丝数**: 5884<br>**评论数**: 202<br>**地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap, 陷阱说唱 Trap Rap, 喜剧说唱 Comedy Hip Hop<br> |
+| [![](../../images/musicians/545cb58b435e23aed3da275d44b07542.jpg)<br>未来星B3Rich](https://i.xiami.com/prog) | **地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap, 陷阱说唱 Trap Rap, 喜剧说唱 Comedy Hip Hop<br>**播放数**: 10036366<br>**粉丝数**: 5884<br>**评论数**: 202<br> |
 
 ## 档案
 
@@ -51,14 +51,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-28 04:39<br>赞(0) 踩(0) | <div>44445</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42810132)<br>Aprés l'amou...<br>2020-10-13 23:39<br>赞(0) 踩(0) | <div><img src="../../images/comments/2dddd65f06f01a396df470103735c8ff.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64402358)<br>keyi<br>2020-06-26 21:05<br>赞(0) 踩(0) | <div>好哥哥，多在虾米上点歌吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421578063)<br>fox god<br>2020-05-08 11:36<br>赞(1) 踩(0) | <div>- ̗̀(๑ᵔ⌔ᵔ๑)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361305041)<br>我的快乐完全来自对于未来...<br>2020-03-11 13:52<br>赞(1) 踩(0) | <div>吊的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64402358)<br>keyi<br>2019-10-16 20:03<br>赞(2) 踩(0) | <div>我代表4maticbro向您发起了battle邀请接受 丨 ⚪拒绝</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64402358)<br>keyi<br>2019-10-16 20:03<br>赞(2) 踩(0) | <div>我代表4maticbro向您发起了battle邀请<br>接受 丨 ⚪拒绝</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52056952)<br>人生即是到來、相遇、陪伴...<br>2019-07-28 17:45<br>赞(0) 踩(0) | <div>[文字cool]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64402358)<br>keyi<br>2019-06-09 23:45<br>赞(3) 踩(0) | <div>星，时隔一个月，我又来到你的主页，我不是刻意来你的主页，我是来寻觅你的歌单里那首live版的missing u，无意发现我为你真情流露写的评论，竟无一人点赞，咋说呢，我面子上有点挂不住了，星，如果你看到了，你给我点个赞，好吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422734023)<br>fuckyouup<br>2019-07-29 14:41<br>赞(0) 踩(0) | <div>你说话好像狠毒男孩</div> |
@@ -67,7 +67,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403124457)<br><br>2019-06-03 10:41<br>赞(2) 踩(0) | <div>我会丶一些让未来星尴尬的评论</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407085769)<br>脱离了高级趣味的人<br>2019-05-26 23:11<br>赞(1) 踩(0) | <div>是寻光计划的未来星吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407277380)<br><br>2019-05-15 13:39<br>赞(0) 踩(0) | <div>南方吴奇隆</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64402358)<br>keyi<br>2019-04-23 18:15<br>赞(3) 踩(0) | <div>星，你其实是个好有魅力的人。第一次在新说唱看到你，我觉得你属实花哨一个男的，拽拽拽拽个锤子啊，后来我偶然看了搭讪指南的mv，mv开始你在那里跳来跳去给我留下了深刻印象，那段时间我沉迷于看搭讪指南mv你跳来跳去那一段，我一度怀疑我是否有恋丑癖额，对不起，你不丑，但我只能想到这个形容词，我还让我妹妹去看，我妹妹没有理我。后来我的朋友珂给我推了习惯你你这首歌，喜欢这样轻松的melody，额。搭讪指南里有一句是，你拥有美杜莎的妖术，但正好我也是个怪物，不经意间目光的接触，我差一点变成了雕塑！额，我被这句歌词击中了，我觉得你有点东西。我要去上普通话课了，星，再见。星，好久来成都？看看你，好吗？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64402358)<br>keyi<br>2019-04-23 18:15<br>赞(3) 踩(0) | <div>星，你其实是个好有魅力的人。第一次在新说唱看到你，我觉得你属实花哨一个男的，拽拽拽拽个锤子啊，后来我偶然看了搭讪指南的mv，mv开始你在那里跳来跳去给我留下了深刻印象，那段时间我沉迷于看搭讪指南mv你跳来跳去那一段，我一度怀疑我是否有恋丑癖额，对不起，你不丑，但我只能想到这个形容词，我还让我妹妹去看，我妹妹没有理我。后来我的朋友珂给我推了习惯你你这首歌，喜欢这样轻松的melody，额。<br>搭讪指南里有一句是，你拥有美杜莎的妖术，但正好我也是个怪物，不经意间目光的接触，我差一点变成了雕塑！额，我被这句歌词击中了，我觉得你有点东西。<br>我要去上普通话课了，星，再见。星，好久来成都？看看你，好吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64402358)<br>keyi<br>2019-04-23 18:04<br>赞(0) 踩(0) | <div>星，啥时候来成都</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47607150)<br>엑소<br>2019-04-12 15:21<br>赞(0) 踩(0) | <div>未来星     我可终于找到你啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346837854)<br>拥有今天就好啦<br>2019-04-12 13:22<br>赞(0) 踩(0) | <div>未来⭐进步了好多啊。。。。add oik</div> |
@@ -113,7 +113,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378407634)<br>理想永存<br>2018-07-15 10:39<br>赞(0) 踩(0) | <div>不还有你呢么?</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94766472)<br><br>2018-07-22 12:20<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24363360)<br><br>2018-07-22 17:43<br>赞(0) 踩(0) | <div><q><b>狠毒昊天上帝说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1425465)<br>我还没想好要写什么...<br>2018-10-16 02:47<br>赞(0) 踩(0) | <div>未来星很温柔的其实小时候很帅~很可爱啦~声音超级帅~</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1425465)<br>我还没想好要写什么...<br>2018-10-16 02:47<br>赞(0) 踩(0) | <div>未来星很温柔的<br>其实小时候很帅~<br>很可爱啦~声音超级帅~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69983992)<br><br>2018-01-17 20:55<br>赞(1) 踩(0) | <div>还真有件GUCCI <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4867039)<br>我还没想好要写什么...<br>2018-01-17 11:51<br>赞(1) 踩(0) | <div>看你的歌词看笑了 好可爱呐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288044231)<br>keep思考<br>2018-01-11 08:11<br>赞(3) 踩(0) | <div>就没人反感他那奇怪的耳朵吗。。。。</div> |

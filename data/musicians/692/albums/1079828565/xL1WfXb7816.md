@@ -21,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199219299)<br><br>2018-05-26 22:19<br>赞(4) 踩(0) | <div>没有人记得捐毒地宫入口的连线吗？搞死我了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32373009)<br>虾米，再会。<br>2018-01-30 13:06<br>赞(0) 踩(0) | <div>13:06</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7382468)<br><br>2017-10-30 10:01<br>赞(3) 踩(0) | <div>古剑二的音乐也很好听啊，场景里我比较喜欢朗德寨的还有这首捐毒遗迹的</div> |

@@ -38,8 +38,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325869040)<br>still~<br>2021-01-16 16:55<br>赞(1) 踩(0) | <div>珊瑚颂唱得最好听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401077155)<br><br>2020-11-09 06:59<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368908288)<br><br>2020-08-27 08:30<br>赞(1) 踩(0) | <div>我喜欢听白雪唱的歌！ <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -69,7 +69,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48449601)<br>好好干<br>2018-03-30 01:26<br>赞(15) 踩(0) | <div>白雪这个版本，唱的歌词是最完整的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308314431)<br>兴隆镇上走一走！<br>2018-03-08 15:44<br>赞(11) 踩(0) | <div>革命老歌确实都很经典 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79484188)<br><br>2017-10-28 00:43<br>赞(17) 踩(0) | <div>虾米音乐应该把作词作曲注明，歌词太棒了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316680177)<br><br>2017-09-14 00:34<br>赞(4) 踩(0) | <div>三个男人在天堂的入口相遇一个天使就问啦你们三个人是怎麽死的啊....第一个人就哭丧的说...那天我起床太晚了...就急忙下楼...衣服不整的教了一部计程车...可是好死不死的..天空就掉下来一台冰箱....於是我就翘翘了....呜....第二个就说啦....我那天出差...而提早回来想给老婆一个惊喜...没想到听到房间有男人的声音...我就很生气的走了进去..没想到没看到人..我就去窗外看了一下...呵呵..有个衣服不整的人急忙要叫计程车逃了...我就把冰箱给砸下去了....就被判刑枪弊了.....呜...第三个就说啦...我才冤咧....我正在和新泡上的妹妹温存....好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316680177)<br><br>2017-09-14 00:34<br>赞(4) 踩(0) | <div>三个男人在天堂的入口相遇一个天使就问啦你们三个人是怎麽死的啊....<br>第一个人就哭丧的说...那天我起床太晚了...<br>就急忙下楼...衣服不整的教了一部计程车...可是好死不死的..<br>天空就掉下来一台冰箱....於是我就翘翘了....呜....<br>第二个就说啦....我那天出差...而提早回来想给老婆一个惊喜...<br>没想到听到房间有男人的声音...我就很生气的走了进去..没想到<br>没看到人..我就去窗外看了一下...呵呵..有个衣服不整的人急忙<br>要叫计程车逃了...<br>我就把冰箱给砸下去了....就被判刑枪弊了.....呜...<br>第三个就说啦...我才冤咧....我正在和新泡上的妹妹温存....<br>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258687108)<br><br>2017-04-21 16:59<br>赞(5) 踩(0) | <div>白雪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250152924)<br><br>2016-11-28 14:09<br>赞(4) 踩(0) | <div>革命老歌确实都很经典 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13062157)<br><br>2013-11-27 13:24<br>赞(3) 踩(0) | <div>在老歌的路上越走越远，有些也不知道什么时候听过印象偏偏还很深刻，年轻又老陈这两件事好像不大能同时存在。。。所以现在年轻人都听什么。。。</div> |

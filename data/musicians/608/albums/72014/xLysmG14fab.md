@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322002190)<br><br>2018-07-25 10:12<br>赞(0) 踩(0) | <div>&amp;gt;_&amp;lt;高烧奇遇记她，与人 <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/e100760ce8c127633bca891ea2b371d8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322002190)<br><br>2018-07-25 10:10<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/ae0feff949a069865baa504ae10bbffe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294489052)<br><br>2018-07-11 17:23<br>赞(0) 踩(0) | <div>每次听这首音乐，都感觉僵尸蹦迪on坟头 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -62,7 +59,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49553601)<br><br>2017-09-24 01:49<br>赞(0) 踩(0) | <div>橙光的bgm里经常出现，我第一次听到是在&amp;ldquo;我真的很想揍你啊&amp;rdquo;里面。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332265732)<br><br>2018-02-17 09:16<br>赞(0) 踩(0) | <div>永不磨灭的番号</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321540190)<br><br>2017-08-25 21:14<br>赞(4) 踩(0) | <div>我的世界小本</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278602285)<br>WHY OR WHY N...<br>2017-08-24 19:01<br>赞(3) 踩(0) | <div>絕世小攻。。。我想到這個&amp;hellip;&amp;hellip;好不應該&amp;hellip;&amp;hellip; <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278602285)<br>WHY OR WHY N...<br>2017-08-24 19:01<br>赞(3) 踩(0) | <div>絕世小攻。。。我想到這個&amp;hellip;&amp;hellip;<br>好不應該&amp;hellip;&amp;hellip; <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297241367)<br><br>2017-08-11 21:32<br>赞(2) 踩(0) | <div>对!必须的!快点买MC吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32142211)<br>不着急，慢慢来<br>2017-08-11 17:22<br>赞(2) 踩(0) | <div>怎么说呢，听着有种贱萌贱萌的感觉 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315309866)<br><br>2017-07-28 00:05<br>赞(96) 踩(0) | <div>在你看恐怖片的时候，把声音关掉，然后你在放这个音乐，边放这个音乐边看恐怖片，你在试试效果，BGM神奇的作用就出来了 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
@@ -138,7 +135,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4240907)<br><br>2014-09-22 09:20<br>赞(1) 踩(0) | <div>原来这首是林海的 大爱啊简直</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7510020)<br>超越自卑和自尊。<br>2014-09-22 09:12<br>赞(0) 踩(0) | <div>猪八戒吃蟠桃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/901509)<br><br>2014-09-22 08:59<br>赞(0) 踩(0) | <div>绝妙 出窍</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10460084)<br>愿能一生和虾米在乐海徜徉...<br>2014-04-28 20:48<br>赞(70) 踩(0) | <div>欢乐调皮，直抵心间的喜悦生趣灵动，洒脱不羁宁和恬静，其实也有较为正经的一面总是没心没肺的笑着，忧愁不易察觉用激昂热血的荡气，掀开一角行云流水般自然的柔情温馨回归嘻嘻哈哈，把积淀下来的感动静融在日常中</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10460084)<br>愿能一生和虾米在乐海徜徉...<br>2014-04-28 20:48<br>赞(70) 踩(0) | <div>欢乐调皮，直抵心间的喜悦<br>生趣灵动，洒脱不羁<br>宁和恬静，其实也有较为正经的一面<br>总是没心没肺的笑着，忧愁不易察觉<br>用激昂热血的荡气，掀开一角行云流水般自然的柔情温馨<br>回归嘻嘻哈哈，把积淀下来的感动静融在日常中</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292377995)<br><br>2017-04-29 19:07<br>赞(0) 踩(0) | <div>同感</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287777814)<br><br>2017-06-23 17:43<br>赞(0) 踩(0) | <div>pkj</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6706350)<br>扭了一手好涛<br>2014-03-16 15:47<br>赞(1) 踩(0) | <div>没想到这么熟悉的曲子竟然出自林海</div> |

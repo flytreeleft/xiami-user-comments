@@ -42,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16570408)<br>…<br>2017-04-19 05:19<br>赞(2) 踩(0) | <div>广东话版并不违和耶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34206211)<br>我还没想好要写什么...<br>2016-03-10 11:41<br>赞(2) 踩(0) | <div>怎么那么耳熟？原来是顺其自然……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443546)<br><br>2013-05-14 00:15<br>赞(2) 踩(0) | <div>重要的不是一切顺利，而是要学会不失控。不再想太多，埋没自我这才算错</div> |

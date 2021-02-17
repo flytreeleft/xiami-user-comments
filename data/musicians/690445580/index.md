@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c8d712327cd0bdcb8a35876d47c2d29f.jpg)<br>萧宽志](https://i.xiami.com/edwardshaw) | **播放数**: 3468094<br>**粉丝数**: 934<br>**评论数**: 27<br>**地区**: United States of America 美国<br>**风格**: 阳光流行 Sunshine Pop, 当代基督 CCM / Contemporary Christian Music, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/c8d712327cd0bdcb8a35876d47c2d29f.jpg)<br>萧宽志](https://i.xiami.com/edwardshaw) | **地区**: United States of America 美国<br>**风格**: 阳光流行 Sunshine Pop, 当代基督 CCM / Contemporary Christian Music, 轻音乐 Easy Listening<br>**播放数**: 3468094<br>**粉丝数**: 934<br>**评论数**: 27<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -29,8 +26,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429438439)<br>我还没想好要写什么...<br>2020-02-01 21:21<br>赞(0) 踩(0) | <div>每天都感恩的里面</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429438439)<br>我还没想好要写什么...<br>2020-02-01 21:20<br>赞(0) 踩(0) | <div>特别好听 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405858695)<br>快乐听歌<br>2020-01-16 09:15<br>赞(0) 踩(0) | <div>感恩</div> |
@@ -38,7 +35,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160847666)<br><br>2019-04-27 16:51<br>赞(0) 踩(0) | <div>听了您弹奏的钢琴敬拜，真的太棒了，现在成了我在敬拜和与神独处时的音乐，特别棒 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">愿您有更多的作品献给我们的主我们的神 <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43292818)<br>基督徒 医生 艺术生<br>2019-04-23 17:17<br>赞(0) 踩(0) | <div>感谢主</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421776741)<br><br>2019-03-24 18:28<br>赞(0) 踩(0) | <div>感谢神</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337483579)<br><br>2019-02-16 23:35<br>赞(0) 踩(0) | <div>感谢 神！感谢萧宽志弟兄，为我们弟兄姊妹们无私奉献使人宁静的优美钢琴赞美诗，求 神保守看顾萧宽志弟兄的各项事情尽都顺利！求 神赐福给听到这些曲目的弟兄姊妹们！神与我们同在，我们与主同工！阿门！ <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337483579)<br><br>2019-02-16 23:35<br>赞(0) 踩(0) | <div>感谢 神！感谢萧宽志弟兄，为我们弟兄姊妹们无私奉献使人宁静的优美钢琴赞美诗，求 神保守看顾萧宽志弟兄的各项事情尽都顺利！<br>求 神赐福给听到这些曲目的弟兄姊妹们！神与我们同在，我们与主同工！阿门！ <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338061016)<br><br>2017-12-02 00:09<br>赞(2) 踩(0) | <div>你好，可否上传一曲《今生跟随主耶稣》呢，我特别想把这首曲子当做自己的手机铃声 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122761954)<br> <br>2017-07-07 22:46<br>赞(2) 踩(0) | <div>感谢主赐予福音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306719174)<br><br>2017-06-23 11:27<br>赞(1) 踩(0) | <div>萧志宽,福音,钢琴,</div> |

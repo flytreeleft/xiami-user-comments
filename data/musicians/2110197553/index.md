@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/43b452d0f2afc1b55f789481708c68c4.jpg)<br>吴国良](https://i.xiami.com/wgl) | **播放数**: 3275497<br>**粉丝数**: 395<br>**评论数**: 52<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 闽南语流行 Bân-lâm-gú Pop, 粤语流行 Cantopop, 中国传统民歌 Chinese Traditional Folk, 传统流行 Traditional Pop<br> |
+| [![](../../images/musicians/43b452d0f2afc1b55f789481708c68c4.jpg)<br>吴国良](https://i.xiami.com/wgl) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 闽南语流行 Bân-lâm-gú Pop, 粤语流行 Cantopop, 中国传统民歌 Chinese Traditional Folk, 传统流行 Traditional Pop<br>**播放数**: 3275497<br>**粉丝数**: 395<br>**评论数**: 52<br> |
 
 ## 档案
 
@@ -79,8 +79,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4160323)<br>饭可以不吃.音乐不能不听...<br>2020-11-29 14:45<br>赞(0) 踩(0) | <div>还不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377819673)<br>我还没想好要写什么...<br>2020-07-28 13:18<br>赞(0) 踩(0) | <div>绝对支持！歌声浑厚有力，干净不做作，难得的歌手！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235486247)<br>虾米音乐即将成为历史，不...<br>2020-07-28 21:26<br>赞(0) 踩(0) | <div>谢谢欣赏和支持</div> |
@@ -103,7 +103,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9359849)<br>后来我爱的人，都像你。<br>2019-03-02 20:11<br>赞(0) 踩(0) | <div>多謝評價！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370260515)<br><br>2018-08-18 19:46<br>赞(8) 踩(0) | <div>怀旧歌声越来越少了，也更显得珍贵了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-28 12:01<br>赞(2) 踩(0) | <div>感觉&amp;ldquo;嘉嘉&amp;rdquo;和&amp;ldquo;永远&amp;rdquo;是同一个人自问自答演双簧！应该是生活里没人关心没人陪太无聊！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-28 01:03<br>赞(3) 踩(0) | <div>三小时前这个歌友发的私信：我现在终于知道 你们为什么烦蔡可荔歌迷了 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">    每次在我留言推荐听谁谁谁的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-28 01:03<br>赞(3) 踩(0) | <div>三小时前这个歌友发的私信：<br><br>我现在终于知道 你们为什么烦蔡可荔歌迷了 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">    每次在我留言推荐听谁谁谁的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-23 02:15<br>赞(2) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-28 22:33<br>赞(0) 踩(0) | <div>我感觉什么&amp;ldquo;华人音乐&amp;rdquo;&amp;ldquo;嘉嘉&amp;rdquo;&amp;ldquo;永远&amp;rdquo;都是同一个人！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50294231)<br>推荐福建公主：张美玲Ja...<br>2018-07-23 00:49<br>赞(14) 踩(0) | <div>内容已删除</div> |
@@ -112,12 +112,12 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50294231)<br>推荐福建公主：张美玲Ja...<br>2019-05-24 10:05<br>赞(0) 踩(0) | <div><q><b>白曬 byshi说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9359849)<br>后来我爱的人，都像你。<br>2019-06-20 10:03<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9359849)<br>后来我爱的人，都像你。<br>2019-06-20 10:03<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-12 15:03<br>赞(1) 踩(0) | <div>分享  钟彩媚 的歌曲《茶叶见水就开心》<a href="https://www.xiami.com/song/1775372584?_uxid=F035498E9CBDAF8A71F05E701DB1E41B" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/1775372584?_uxid=F035498E9CBDAF8A71F05E701DB1E41B</a> (分享自@虾米音乐)养心养耳朵的歌！太多好听歌手了，感谢虾米音乐！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-12 14:55<br>赞(1) 踩(0) | <div>分享  黄乙玲 的歌曲《关仔岭之恋》<a href="https://www.xiami.com/song/114343?_uxid=F035498E9CBDAF8A71F05E701DB1E41B" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/114343?_uxid=F035498E9CBDAF8A71F05E701DB1E41B</a> (分享自@虾米音乐)这歌手才是天籁之音，烂耳朵的脏菜粉吹捧的歌唱家那种声音简直是鬼哭声，唱功简直是幼儿园学唱歌的！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-12 15:03<br>赞(1) 踩(0) | <div>分享  钟彩媚 的歌曲《茶叶见水就开心》<a href="https://www.xiami.com/song/1775372584?_uxid=F035498E9CBDAF8A71F05E701DB1E41B" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/1775372584?_uxid=F035498E9CBDAF8A71F05E701DB1E41B</a> (分享自@虾米音乐)<br>养心养耳朵的歌！太多好听歌手了，感谢虾米音乐！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-12 14:55<br>赞(1) 踩(0) | <div>分享  黄乙玲 的歌曲《关仔岭之恋》<a href="https://www.xiami.com/song/114343?_uxid=F035498E9CBDAF8A71F05E701DB1E41B" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/114343?_uxid=F035498E9CBDAF8A71F05E701DB1E41B</a> (分享自@虾米音乐)<br>这歌手才是天籁之音，烂耳朵的脏菜粉吹捧的歌唱家那种声音简直是鬼哭声，唱功简直是幼儿园学唱歌的！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50294231)<br>推荐福建公主：张美玲Ja...<br>2018-07-23 00:35<br>赞(0) 踩(0) | <div>你不看看自己，你不也是在这里强行打广告吗，还跑到张美玲歌曲那里对张美玲进行一番侮辱后强行打广告。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-12 14:48<br>赞(1) 踩(0) | <div>分享  黄乙玲 的歌曲《西海岸情歌》<a href="https://www.xiami.com/song/114199?_uxid=F035498E9CBDAF8A71F05E701DB1E41B" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/114199?_uxid=F035498E9CBDAF8A71F05E701DB1E41B</a> (分享自@虾米音乐)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-12 14:46<br>赞(0) 踩(0) | <div>分享  华语群星 的歌曲《怀春曲》<a href="https://www.xiami.com/song/1776316827?_uxid=F035498E9CBDAF8A71F05E701DB1E41B" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/1776316827?_uxid=F035498E9CBDAF8A71F05E701DB1E41B</a> (分享自@虾米音乐)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-10 21:08<br>赞(2) 踩(0) | <div>分享  钟彩媚 的歌曲《冇下闲》<a href="https://www.xiami.com/song/1775372604?_uxid=F035498E9CBDAF8A71F05E701DB1E41B" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/1775372604?_uxid=F035498E9CBDAF8A71F05E701DB1E41B</a> (分享自@虾米音乐)客家歌真可爱真萌，太好听了！这歌手的声音美极了！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-10 21:08<br>赞(2) 踩(0) | <div>分享  钟彩媚 的歌曲《冇下闲》<a href="https://www.xiami.com/song/1775372604?_uxid=F035498E9CBDAF8A71F05E701DB1E41B" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/1775372604?_uxid=F035498E9CBDAF8A71F05E701DB1E41B</a> (分享自@虾米音乐)<br>客家歌真可爱真萌，太好听了！这歌手的声音美极了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246717599)<br>我很愿意与喜欢可荔歌曲的...<br>2018-07-10 20:46<br>赞(0) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121639856)<br>丰盛时代歌迷小姐<br>2018-07-10 20:58<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370260515)<br><br>2018-06-03 22:55<br>赞(5) 踩(0) | <div>多上些作品啊，喜欢这样的成熟男人声，真是男歌手里的一股清流</div> |

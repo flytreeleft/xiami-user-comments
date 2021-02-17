@@ -26,9 +26,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54033652)<br>音乐使生活得以承受<br>2019-03-24 02:45<br>赞(0) 踩(0) | <div>多不可思议，你竟然会爱上她，她就像太阳，隔远着是温暖，靠近了是炙烤，在她面前你一丝不挂，你是个没穿鞋的光脚汉，其实你不该出现在这里，连幻想也不该幻想。可你的爱如烈火和萤火虫一般，为之黯然，为之神伤。你自惭形秽，迷失痛苦。而她若无其事，卖萌装宝，像什么也没发生。其实在你之前有人对她笑过了，你很犹豫，但不想放弃，如履薄冰，战战兢兢。你多想守护她，一个忧郁的眼神就让我怜惜不已，如果就此认定对方厮守终老该多好啊！然而她却不以为然，更糟糕的是，就在刚刚，高富帅上了她！她竟然也很享受！但这跟你无关，请保持微笑，她还真以为自己成了比翼鸟，人家只是玩玩她，很快被甩了，而你，还是愿意做个接盘侠，这就是爱情。</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54033652)<br>音乐使生活得以承受<br>2019-03-24 02:45<br>赞(0) 踩(0) | <div>多不可思议，你竟然会爱上她，她就像太阳，<br>隔远着是温暖，靠近了是炙烤，在她面前你一丝不挂，你是个没穿鞋的光脚汉，其实你不该出现在这里，连幻想也不该幻想。可你的爱如烈火和萤火虫一般，为之黯然，为之神伤。你自惭形秽，迷失痛苦。而她若无其事，卖萌装宝，像什么也没发生。其实在你之前有人对她笑过了，你很犹豫，但不想放弃，如履薄冰，战战兢兢。你多想守护她，一个忧郁的眼神就让我怜惜不已，如果就此认定对方厮守终老该多好啊！然而她却不以为然，更糟糕的是，就在刚刚，高富帅上了她！她竟然也很享受！但这跟你无关，请保持微笑，她还真以为自己成了比翼鸟，人家只是玩玩她，很快被甩了，而你，还是愿意做个接盘侠，这就是爱情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86059544)<br>因为看得明白所以孤独成伤<br>2018-07-07 23:01<br>赞(1) 踩(0) | <div>听到一段 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png">大概是此处无银三百俩 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">处处都是咕噜呱啦！ <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262486137)<br><br>2018-05-17 00:23<br>赞(2) 踩(0) | <div>喜欢那些噪音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9725530)<br>Adults Suck,...<br>2018-02-20 13:58<br>赞(5) 踩(0) | <div>用民谣来定义万总已经太狭隘了  这样的曲风 编配  以及音色的选择   从音乐方面来说   在中国的音乐界绝对是大卫鲍伊那样的存在   虽然产量低了些   但质量和理念已经很先锋了  万总的生活也很低调   独来独往   很认真很投入的做了很多音乐   如果说窦唯是坐镇蓬莱的大仙  那万总就是见首不见尾的散仙   敬万总 <img src="../../../../images/comments/f10e8c35366eb553db3d665e8b324caf.png"></div> |
@@ -77,7 +77,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40940512)<br><br>2015-11-27 02:06<br>赞(0) 踩(0) | <div>整张专辑 推荐推荐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12488311)<br>民谣 音乐人<br>2015-11-03 14:39<br>赞(12) 踩(0) | <div>没有共鸣，我要写一首，月亮看起来方方的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54033652)<br>音乐使生活得以承受<br>2019-03-24 01:19<br>赞(0) 踩(0) | <div>万总的文艺一般人是感受不到的。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25187020)<br>你我是否有相同的频率。<br>2015-10-21 21:51<br>赞(2) 踩(0) | <div>我倒是希望她把我看穿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25187020)<br>你我是否有相同的频率。<br>2015-10-21 21:51<br>赞(2) 踩(0) | <div>我倒是希望<br>她把我看穿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23618233)<br>我账号呢<br>2015-10-21 04:19<br>赞(0) 踩(0) | <div>一颗巨日在我耳中升起又落下 晒的耳内好舒服</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58630286)<br>生活就像一块涂了蜂蜜的臭...<br>2015-10-15 23:53<br>赞(0) 踩(0) | <div>唱的是个球啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36271905)<br><br>2015-10-08 03:57<br>赞(0) 踩(0) | <div>我脑子要炸了</div> |
@@ -170,7 +170,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298615)<br>暂无签名~<br>2015-03-17 06:36<br>赞(0) 踩(0) | <div>牛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35356647)<br><br>2015-03-17 02:01<br>赞(0) 踩(0) | <div>好听呀。ukulele也是绝了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2253597)<br><br>2015-03-16 23:43<br>赞(0) 踩(0) | <div>好牛逼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1262288)<br><br>2015-03-16 23:20<br>赞(1) 踩(0) | <div>自己扒的Ukulele和弦：G-G-G-G-D7-D7-D7-D7G-G-G-G-D7-D7-D7-D7G-G-G/#G-G/#G-Am-Am-Am-AmG-G-G-G-D7-D7-D7-D7请指正~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1262288)<br><br>2015-03-16 23:20<br>赞(1) 踩(0) | <div>自己扒的Ukulele和弦：<br>G-G-G-G-D7-D7-D7-D7<br>G-G-G-G-D7-D7-D7-D7<br>G-G-G/#G-G/#G-Am-Am-Am-Am<br>G-G-G-G-D7-D7-D7-D7<br>请指正~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1301955)<br>我拥有的都是侥幸啊<br>2015-03-16 19:10<br>赞(1) 踩(0) | <div>联想到了珍珠港呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1301955)<br>我拥有的都是侥幸啊<br>2015-03-16 19:07<br>赞(0) 踩(0) | <div>今天听第二遍之后就忍不住连续听了几遍，舒筋活络……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7140198)<br>我要在这腐烂的世界活下去<br>2015-03-16 17:37<br>赞(0) 踩(0) | <div>有名  你也不能乱搞啊</div> |
@@ -189,7 +189,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1885315)<br>｜他身来做水仙王｜<br>2015-03-15 21:59<br>赞(0) 踩(0) | <div>像是读了一部小说，九分钟都不觉得听的很长很累</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1301955)<br>我拥有的都是侥幸啊<br>2015-03-15 20:34<br>赞(0) 踩(0) | <div>中间以为耳机漏电了！吓死我了！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37340754)<br>若有知音见彩，不辞遍唱阳...<br>2015-03-16 13:31<br>赞(0) 踩(0) | <div>同感……以为耳机坏掉了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4016805)<br>南真帆！！！<br>2015-03-15 20:12<br>赞(0) 踩(0) | <div>发烧吃药做梦胡说起床再看看今天的命怎么革</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4016805)<br>南真帆！！！<br>2015-03-15 20:12<br>赞(0) 踩(0) | <div>发烧吃药做梦胡说<br>起床再看看今天的命怎么革</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7685124)<br><br>2015-03-15 19:03<br>赞(0) 踩(0) | <div>以为自己电脑坏掉了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43340979)<br>与其苟延残喘，不如纵情燃...<br>2015-03-15 17:06<br>赞(0) 踩(0) | <div>这首歌需要缓缓…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10580526)<br><br>2015-03-15 11:34<br>赞(0) 踩(0) | <div>一定是我的喇叭坏掉了</div> |
@@ -218,7 +218,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43041407)<br>达达你知道的 我还是她<br>2015-03-13 19:43<br>赞(0) 踩(0) | <div>恋爱了呢你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36153216)<br>Hello, there...<br>2015-03-13 18:59<br>赞(0) 踩(0) | <div>。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32652056)<br>从前有个人，然后他死了。<br>2015-03-13 18:49<br>赞(0) 踩(0) | <div>画面感</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17280488)<br>安静点吧<br>2015-03-13 17:33<br>赞(0) 踩(0) | <div>我想起刚拿到fuzz效果器的时候摆弄噪音的欢快心情没玩过的真不会明白</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17280488)<br>安静点吧<br>2015-03-13 17:33<br>赞(0) 踩(0) | <div>我想起刚拿到fuzz效果器的时候摆弄噪音的欢快心情<br>没玩过的真不会明白</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8534061)<br><br>2015-03-14 11:26<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19503343)<br><br>2015-03-13 17:28<br>赞(0) 踩(0) | <div>四分二十三秒开始的那几秒不是一般的难受，以为电脑出问题还特意换了耳机听。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1496652)<br>甜，适度自虐<br>2015-03-13 17:18<br>赞(0) 踩(0) | <div>这是爸爸唱给我的歌，像睡前故事，他拿着一把尤克里里一边弹琴我在一边跳舞。一会儿我就去了一个像是稻城亚丁的秋天在一个大太阳下阳光放肆的照遍每个角落只有我在飘落的叶子中间不停的跳舞旋转转圈转圈一直转到倒下我开心的看着眼前的太阳太阳圆圆的，我做了个好多个重叠大梦，梦里好像又看见了他梦里有好多个脸重叠在一起我看不清楚只觉得眩晕，我就笑了也不知道笑啥只记得很美</div> |

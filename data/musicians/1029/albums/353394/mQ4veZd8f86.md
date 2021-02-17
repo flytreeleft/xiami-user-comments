@@ -25,8 +25,8 @@ Svāhā 苏哈
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1368404)<br>我还没想好要写什么...<br>2020-12-12 00:36<br>赞(0) 踩(0) | <div>这开头...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32031632)<br><br>2020-11-23 20:47<br>赞(0) 踩(0) | <div>南无阿弥佗佛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411341763)<br><br>2020-10-11 15:04<br>赞(2) 踩(0) | <div>居然还有这个咒， <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
@@ -40,7 +40,7 @@ Svāhā 苏哈
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441175227)<br><br>2020-04-02 14:53<br>赞(3) 踩(0) | <div>旋律好美，听着听着不由自主的哼唱起来，心情太愉悦了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344586138)<br>如果可以我只想做只有七秒...<br>2020-03-25 08:33<br>赞(2) 踩(0) | <div>绿度母心咒 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44603951)<br>生活离不开音乐<br>2020-02-28 21:27<br>赞(5) 踩(0) | <div>多么浪漫的音乐，可是我每一次都想哭，感觉眼泪要在心里溢出，困住我的是什么，我想要自由！</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441175227)<br><br>2020-04-02 14:55<br>赞(0) 踩(0) | <div>我本自由，如果觉得有束缚，就是自己给自己设了一个障碍 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png">安心放下过去，放下悲伤，此刻选择快乐！尽在一念之间。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441175227)<br><br>2020-04-02 14:55<br>赞(0) 踩(0) | <div>我本自由，如果觉得有束缚，就是自己给自己设了一个障碍 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"><br>安心放下过去，放下悲伤，此刻选择快乐！<br>尽在一念之间。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410496308)<br>公元前我们太小，公元后我...<br>2020-02-04 16:15<br>赞(1) 踩(0) | <div>为苦难祈祷 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402943760)<br>扉花万㜊 靥滟萦呓<br>2020-01-31 14:01<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11358475)<br> <br>2020-01-29 22:29<br>赞(1) 踩(0) | <div>昆明品院过来报道</div> |
@@ -55,14 +55,14 @@ Svāhā 苏哈
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422084232)<br>安静享受好时光<br>2019-10-19 19:53<br>赞(4) 踩(0) | <div>绿度母心咒 om</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261022532)<br><br>2019-08-16 08:49<br>赞(6) 踩(0) | <div>绿度母心咒 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427843377)<br>我还没想好要写什么...<br>2019-07-28 08:29<br>赞(3) 踩(0) | <div>这个名字！哈哈哈 快乐了！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342797966)<br>爱如蝉，你如佛，参禅，求...<br>2019-05-26 21:22<br>赞(5) 踩(0) | <div>一声号角吹开双眼你看它的蓝我倾慕它的包容你看云 看它的白我倾慕它倾慕它的安静淡薄看飞起的鸟我倾慕它倾慕它叛逆与跳脱云海中的小船风儿吹动着帆吹过山峦吹过早晚吹落一片一片花朵一般绚烂佛生少年</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342797966)<br>爱如蝉，你如佛，参禅，求...<br>2019-05-26 21:22<br>赞(5) 踩(0) | <div>一声号角吹开双眼<br>你看它的蓝<br>我倾慕它的包容<br>你看云 看它的白<br>我倾慕它<br>倾慕它的安静淡薄<br>看飞起的鸟<br>我倾慕它<br>倾慕它叛逆与跳脱<br>云海中的小船<br>风儿吹动着帆<br>吹过山峦<br>吹过早晚<br>吹落一片一片<br>花朵一般绚烂<br>佛生少年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356768882)<br><br>2019-05-20 06:53<br>赞(5) 踩(0) | <div>嗡。大咧。度大咧。度咧。梭哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422136860)<br>愿我余生平安顺利健康快乐<br>2019-04-24 00:20<br>赞(6) 踩(0) | <div>女声太好听了，有种温暖亲切的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37572520)<br>坐在马桶上听歌真是最幸福...<br>2019-04-20 19:45<br>赞(2) 踩(0) | <div>一切都很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88325236)<br>音乐是我的爱人！<br>2019-04-17 22:02<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88325236)<br>音乐是我的爱人！<br>2019-04-17 22:01<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236457095)<br>微微的每一天，都在聆听美...<br>2019-04-14 23:25<br>赞(5) 踩(0) | <div>Oṃ 嗡Tāre 大咧Tuttāre 度大咧Ture 度咧Svāhā 苏哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302942987)<br><br>2019-04-05 08:22<br>赞(2) 踩(0) | <div>为何改经咒名字？这个咒语名为“绿度母心咒”私自窜改咒名，是妖孽行为！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236457095)<br>微微的每一天，都在聆听美...<br>2019-04-14 23:25<br>赞(5) 踩(0) | <div>Oṃ 嗡<br>Tāre 大咧<br>Tuttāre 度大咧<br>Ture 度咧<br>Svāhā 苏哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302942987)<br><br>2019-04-05 08:22<br>赞(2) 踩(0) | <div>为何改经咒名字？<br>这个咒语名为“绿度母心咒”<br>私自窜改咒名，是妖孽行为！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11597632)<br><br>2019-07-16 13:20<br>赞(0) 踩(0) | <div>如果不起个别致的名字，或许很多人不会点进来听</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302942987)<br><br>2019-09-10 13:24<br>赞(0) 踩(0) | <div><q><b>虾之米失眠综合症说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306042387)<br><br>2019-03-30 08:45<br>赞(2) 踩(0) | <div>这不是绿度母心咒吗？</div> |
@@ -144,7 +144,7 @@ Svāhā 苏哈
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31117837)<br><br>2014-01-05 11:01<br>赞(1) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3075182)<br><br>2013-12-03 12:28<br>赞(2) 踩(0) | <div>这不是绿度母心咒嘛。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26489729)<br><br>2013-11-10 20:37<br>赞(2) 踩(0) | <div>少女快乐咒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9327494)<br>http://www.x...<br>2013-09-22 12:23<br>赞(5) 踩(0) | <div>少女快乐咒Oṃ 嗡Tāre 大咧Tuttāre 度大咧Ture 度咧Svāhā 苏哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9327494)<br>http://www.x...<br>2013-09-22 12:23<br>赞(5) 踩(0) | <div>少女快乐咒<br>Oṃ 嗡<br>Tāre 大咧<br>Tuttāre 度大咧<br>Ture 度咧<br>Svāhā 苏哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15314750)<br>扯<br>2013-07-27 01:03<br>赞(1) 踩(0) | <div>般若波罗揭谛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9226392)<br><br>2013-04-23 22:43<br>赞(1) 踩(0) | <div>嗡。大咧。度大咧度咧苏哈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2941982)<br>暂无签名~<br>2012-12-14 10:12<br>赞(1) 踩(0) | <div>绿度母心咒</div> |

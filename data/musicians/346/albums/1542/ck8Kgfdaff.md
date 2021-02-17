@@ -71,15 +71,15 @@ i don't cry<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440060032)<br>听听唱唱尿尿<br>2021-01-07 23:29<br>赞(0) 踩(0) | <div>江南小调～带有怀旧和情感缠绕很中国！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192393192)<br>虾米 我们不要告别<br>2021-01-05 17:34<br>赞(1) 踩(0) | <div>虾米 不要走啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137308426)<br>无聊无聊无论(￣▽￣)<br>2021-01-02 19:58<br>赞(0) 踩(0) | <div>好听啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405598283)<br>人生得意须尽欢<br>2020-12-28 00:11<br>赞(0) 踩(0) | <div>昆明有你，此生足矣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/165363122)<br><br>2020-12-15 22:29<br>赞(0) 踩(0) | <div>后弦的歌，词美，歌声悦耳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342528369)<br>做自己最嗨<br>2020-11-29 01:36<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290817809)<br>我还没想好要写什么...<br>2020-11-25 04:08<br>赞(0) 踩(0) | <div>十年前 还没听出味道如今爱的不行 太好听了 太有韵味了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290817809)<br>我还没想好要写什么...<br>2020-11-25 04:08<br>赞(0) 踩(0) | <div>十年前 还没听出味道<br>如今爱的不行 太好听了 太有韵味了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120228186)<br>只想安静地做只美喵～<br>2020-10-29 22:29<br>赞(0) 踩(0) | <div>十多年前经常听的一首。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378725491)<br><br>2020-10-26 23:05<br>赞(0) 踩(0) | <div>为什么有点西厢的余味！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17149618)<br>。<br>2020-10-23 22:22<br>赞(0) 踩(0) | <div>听到很多歌都想起你。</div> |
@@ -103,7 +103,7 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442411291)<br><br>2020-06-24 13:18<br>赞(0) 踩(0) | <div>传说中的分离，想不到，这么容易</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43980122)<br><br>2020-06-18 20:15<br>赞(1) 踩(0) | <div>这首歌的歌词真的好美啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193730417)<br><br>2020-06-15 21:34<br>赞(2) 踩(0) | <div>这歌好听就是太娘，尖声尖气de人才能唱出来，我这粗矿de嗓子只适合伍佰</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379001746)<br>听音乐若烹小鲜<br>2020-06-14 10:39<br>赞(1) 踩(0) | <div>桌对椅叹息哑雀还想唱连理半杯茶，半杯湖底沙青春年少光景，沧桑回忆！歌词真刮骨啊 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379001746)<br>听音乐若烹小鲜<br>2020-06-14 10:39<br>赞(1) 踩(0) | <div>桌对椅叹息<br>哑雀还想唱连理<br>半杯茶，半杯湖底沙<br>青春年少光景，沧桑回忆！歌词真刮骨啊 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419215317)<br>爱花花爱生活<br>2020-06-11 23:18<br>赞(2) 踩(0) | <div>最近老是想起来这首歌，十多年前喜欢的歌，&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349295307)<br>五音不全 六根不净<br>2020-05-29 07:06<br>赞(0) 踩(0) | <div>这个词啥意思啊我怎么看不懂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318754123)<br>宗介爱音乐<br>2020-05-17 11:51<br>赞(1) 踩(0) | <div>后弦才华横溢！词曲水准不亚于周杰伦方文山</div> |
@@ -141,7 +141,7 @@ i don't cry<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361283072)<br><br>2019-10-22 20:08<br>赞(0) 踩(0) | <div>中国风只是杰伦风格之一。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286501240)<br> <br>2019-09-14 22:55<br>赞(2) 踩(0) | <div>突然翻到，听一遍感觉很好，想起初中时候的女朋友</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404083648)<br><br>2019-09-07 16:58<br>赞(1) 踩(0) | <div>和许嵩的音色有点相同啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429540182)<br>我还没想好要写什么...<br>2019-09-07 12:17<br>赞(4) 踩(0) | <div>我记得那时候小学还是初中在我姐家，我们会用收音机听101.7，放到了这首，我好喜欢啊然后用手机录音，那时候没有听歌识曲，我就听了好几年手机里的录音版，然后好几年后不知道在哪里听到了，超级激动，终于知道这首歌名字了，也喜欢了后弦好久。现在已经大学毕业了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429540182)<br>我还没想好要写什么...<br>2019-09-07 12:17<br>赞(4) 踩(0) | <div>我记得那时候小学还是初中在我姐家，我们会用收音机听101.7，放到了这首，我好喜欢啊然后用手机录音，那时候没有听歌识曲，我就听了好几年手机里的录音版，然后好几年后不知道在哪里听到了，超级激动，终于知道这首歌名字了，也喜欢了后弦好久。<br>现在已经大学毕业了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338744450)<br>看的见我的未来<br>2019-08-30 23:21<br>赞(2) 踩(0) | <div>大才子，好爱你 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6552127)<br><br>2019-08-27 14:26<br>赞(1) 踩(0) | <div>西厢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257861243)<br>无刀，不刻岁月。<br>2019-08-20 09:50<br>赞(1) 踩(0) | <div>他的歌调基本类似，刻意要转个音的感觉。不自然</div> |
@@ -157,7 +157,7 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35907536)<br>沉寂时<br>2019-06-29 21:08<br>赞(3) 踩(0) | <div>为什么做独立音乐，而没有和大牌明星合作呢</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376497700)<br><br>2019-07-14 21:49<br>赞(0) 踩(0) | <div>他不想被束缚，跟别人合作就得部分按照别人的来，天赋反而被压制</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310330701)<br><br>2019-06-19 20:27<br>赞(7) 踩(0) | <div>去年去昆明，想起后弦的昆明湖，然后就百度下想去看看，百度结果昆明湖在北京……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38071625)<br><br>2019-06-14 06:51<br>赞(5) 踩(0) | <div>我欠一个人管我我酷爱洗衣洗碗，做菜做饭，绝对是入得厨房我风度潇洒，谈吐优雅，绝对是出得厅堂你看一件商品超过5秒，我就会立刻买下它我觉得你真的不是个合格的朋友，你还是改行做我老婆吧我不知道人类为什么得结婚？不如让我们一起研究看看吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38071625)<br><br>2019-06-14 06:51<br>赞(5) 踩(0) | <div>我欠一个人管我<br>我酷爱洗衣洗碗，做菜做饭，绝对是入得厨房<br>我风度潇洒，谈吐优雅，绝对是出得厅堂<br>你看一件商品超过5秒，我就会立刻买下它<br>我觉得你真的不是个合格的朋友，你还是改行做我老婆吧<br>我不知道人类为什么得结婚？不如让我们一起研究看看吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8152963)<br>暂无签名~<br>2019-06-07 08:58<br>赞(3) 踩(0) | <div>一直以为西湖只有杭州才有，后来才知道。全国很多城市都有西湖，有的还有东湖。比如我的老家泉州，东湖公园跟西湖公园。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37958879)<br>一个人的时候多学习，两个...<br>2019-05-31 12:11<br>赞(1) 踩(0) | <div>第一代网红 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340023223)<br>听听你的心声！<br>2019-06-28 09:38<br>赞(0) 踩(0) | <div>不是网红！</div> |
@@ -190,13 +190,13 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403786980)<br><br>2019-02-03 03:18<br>赞(2) 踩(0) | <div>好听 <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376505680)<br><br>2019-01-29 01:42<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354284494)<br><br>2019-01-24 23:22<br>赞(2) 踩(0) | <div>哑雀还想共唱连理</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282977039)<br>天天都要超精致邪气气<br>2019-01-22 18:16<br>赞(1) 踩(0) | <div>昆明转身湖水换成泪我欲把心寄给春,再暖一回去年藏的柳絮己珍贵趁思念不备把冰融成泪昆明转身湖水换成泪我欲把心寄给春,再暖一回去年藏的柳絮己珍贵趁思念不备把冰融成泪（那些年月我是那么小在上小学还是初中 我都忘了 ，白花花的梦 有好多喜欢的人 原来那不算爱 哈哈哈 我在想 也许我真的不需要爱情 太难了 实在是太难了 这样太难了 我只想 我只要快乐的生活 很快乐 很快乐的那种 ）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282977039)<br>天天都要超精致邪气气<br>2019-01-22 18:16<br>赞(1) 踩(0) | <div>昆明转身湖水换成泪<br>我欲把心寄给春,再暖一回<br>去年藏的柳絮己珍贵<br>趁思念不备把冰融成泪<br>昆明转身湖水换成泪<br>我欲把心寄给春,再暖一回<br>去年藏的柳絮己珍贵<br>趁思念不备把冰融成泪<br>（那些年月我是那么小在上小学还是初中 我都忘了 ，白花花的梦 有好多喜欢的人 原来那不算爱 哈哈哈 我在想 也许我真的不需要爱情 太难了 实在是太难了 这样太难了 我只想 我只要快乐的生活 很快乐 很快乐的那种 ）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225741755)<br><br>2019-01-20 04:31<br>赞(2) 踩(0) | <div>回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406024764)<br>唯食忘忧<br>2019-01-18 22:38<br>赞(3) 踩(0) | <div>你是很好的风景，光风霁月，艳阳高照，暖风微醺，江山河川，百紫千红，我只能欣赏，不可拥有。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227821229)<br><br>2019-01-18 18:09<br>赞(0) 踩(0) | <div>我不允许你们错过这首歌的mv!!!看mv有惊喜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33900500)<br>这个人很无趣，所以不知道...<br>2019-01-16 03:10<br>赞(0) 踩(0) | <div>现在这些所谓的古风跟后弦根本没得比</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22302222)<br>静静地欣赏着……<br>2019-01-12 10:09<br>赞(2) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53807482)<br>时间只是经过，刚好停在这...<br>2018-12-30 08:55<br>赞(3) 踩(0) | <div>再听已是很多年过去了仿佛和多年前的自己遥遥相对…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53807482)<br>时间只是经过，刚好停在这...<br>2018-12-30 08:55<br>赞(3) 踩(0) | <div>再听<br>已是很多年过去了<br>仿佛和多年前的自己遥遥相对…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168655926)<br><br>2018-12-29 16:09<br>赞(2) 踩(0) | <div>你们不会明白颐和园园子里那个叫做昆明湖的美，冬天来自各个国家各色人种都在结冰的湖面上遛弯，嬉戏。夏天荷花盛开，蝉鸣和蜻蜓点缀着这片池塘。远处的十七孔桥仿佛一个管理员在凝视着这一切，它见证了历史，见证了荣辱兴衰，见证了一批又一批的文学作品在这里诞生！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340837388)<br>行走的可爱仙子<br>2018-12-20 11:00<br>赞(0) 踩(0) | <div>出卖年龄的歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267069712)<br><br>2018-12-14 22:42<br>赞(0) 踩(0) | <div>生日快乐</div> |
@@ -206,7 +206,7 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37373660)<br>尽可能的善良<br>2018-12-12 22:20<br>赞(1) 踩(0) | <div>我欲把心寄给春，再暖一回</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343743989)<br><br>2018-12-09 21:25<br>赞(0) 踩(0) | <div>老是有人说可惜啥的，有啥好可惜的呀。许嵩也好后弦也一样，或许人家只想安安静静唱歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338040698)<br><br>2018-12-07 22:27<br>赞(0) 踩(0) | <div>后弦的歌词好优美</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18437646)<br><br>2018-12-05 20:43<br>赞(3) 踩(0) | <div>你站在桥上看风景看风景的人在楼上看你明月装饰了你的窗子你装饰了别人的梦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18437646)<br><br>2018-12-05 20:43<br>赞(3) 踩(0) | <div>你站在桥上看风景<br>看风景的人在楼上看你<br>明月装饰了你的窗子<br>你装饰了别人的梦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18437646)<br><br>2018-12-05 20:39<br>赞(1) 踩(0) | <div>满满的回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181220714)<br>永远不要欺骗相信你的人。<br>2018-12-05 08:54<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404068180)<br>随风飞<br>2018-11-30 18:18<br>赞(4) 踩(0) | <div>很棒 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -217,7 +217,7 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408754220)<br><br>2018-11-16 17:47<br>赞(1) 踩(0) | <div>一晃就是十年了，初中的青春记忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405391918)<br><br>2018-11-16 08:43<br>赞(14) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347433170)<br>假装有签名<br>2018-11-15 22:51<br>赞(0) 踩(0) | <div>听老歌的时候总会想起过去，那种听电台的感觉又袭来了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266447100)<br><br>2018-11-15 15:01<br>赞(0) 踩(0) | <div>昆明湖在颐和园，约她一起去的。那天风很大，要下雨了，我没有带伞。她也没有去。这首歌很好。我现在有爱我的妻，一切都像晴天丽日的昆明湖，岁月静好。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266447100)<br><br>2018-11-15 15:01<br>赞(0) 踩(0) | <div>昆明湖在颐和园，约她一起去的。那天风很大，要下雨了，我没有带伞。<br>她也没有去。<br>这首歌很好。<br>我现在有爱我的妻，一切都像晴天丽日的昆明湖，岁月静好。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175664304)<br>这就是你亲爱的霸兴葛格<br>2018-12-03 00:29<br>赞(0) 踩(0) | <div>活该单身</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325119825)<br><br>2018-11-14 18:22<br>赞(29) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343365031)<br>倾听别人的声音<br>2018-11-04 09:57<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -255,7 +255,7 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211465429)<br>偶是灿白党~<br>2018-07-22 18:17<br>赞(0) 踩(0) | <div>这个吐字，emm，不喜勿喷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44129701)<br><br>2018-07-18 00:15<br>赞(1) 踩(0) | <div>回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373944828)<br><br>2018-07-16 19:28<br>赞(1) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257876019)<br>满身花雨又归来<br>2018-07-14 18:19<br>赞(3) 踩(0) | <div>大雨倾城 ， 心间平添愁几分 ？水流如溪 ， 无端涌多少哀戚 ？有鲲字冥 ， 眉头锁梦亦惊心 。雨城   流溪   昆明<img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257876019)<br>满身花雨又归来<br>2018-07-14 18:19<br>赞(3) 踩(0) | <div>大雨倾城 ， 心间平添愁几分 ？<br>水流如溪 ， 无端涌多少哀戚 ？<br>有鲲字冥 ， 眉头锁梦亦惊心 。<br><br>雨城   流溪   昆明<br><br><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182343006)<br>流水不腐，户枢不蠹<br>2018-07-15 18:23<br>赞(0) 踩(0) | <div>hi，你好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11774972)<br>( ゜- ゜)<br>2018-06-30 12:21<br>赞(0) 踩(0) | <div>|･&amp;omega;･｀)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305364767)<br>好音乐，天天动听<br>2018-06-29 19:13<br>赞(0) 踩(0) | <div>评分：100%</div> |
@@ -283,13 +283,13 @@ i don't cry<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311409248)<br><br>2018-09-12 23:34<br>赞(0) 踩(0) | <div>同感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346179673)<br><br>2018-05-01 12:01<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357506672)<br><br>2018-04-15 20:20<br>赞(4) 踩(0) | <div>最喜欢后弦这首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319491101)<br>从前从前的从前LOVE<br>2018-04-12 19:37<br>赞(4) 踩(0) | <div>&amp;ldquo;昆明&amp;rdquo;是掌管春季的昆氏仙族里最年轻动人的千金，她第一次受命到苏堤放春；昆明被路途的美景沉醉，一时忘我，一游就是三千里，误将北方的湖当成了苏堤，错把第一场春雨下给了湖，湖在春意中醒来冷漠的湖邂逅暖意的昆明，将错就错，发生了一段动人恋情，&amp;ldquo;昆明湖&amp;rdquo;由此而来。转眼冬季将至，昆明也因误放春而被勒令返回受罚，昆明与湖在离别之时，湖强忍悲痛，外表冷冷地接受了分离的事实，原先已准备好为爱而战的昆明，失望地离去；昆明离去的刹那，湖的泪水再也无法下咽，没有昆明的昆明湖，满湖水变成了满湖泪，在冬天冻成了冰；半年后，满湖的泪开始融化，悄悄地蒸腾起来，乘着云到了南方，在昆明下了一场泪雨，落在了昆明的普洱茶里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319491101)<br>从前从前的从前LOVE<br>2018-04-12 19:37<br>赞(4) 踩(0) | <div>&amp;ldquo;昆明&amp;rdquo;是掌管春季的昆氏仙族里最年轻动人的千金，她第一次受命到苏堤放春；<br>昆明被路途的美景沉醉，一时忘我，一游就是三千里，误将北方的湖当成了苏堤，错把第一场春雨下给了湖，湖在春意中醒来<br>冷漠的湖邂逅暖意的昆明，将错就错，发生了一段动人恋情，&amp;ldquo;昆明湖&amp;rdquo;由此而来。转眼冬季将至，昆明也因误放春而被勒令返回受罚，昆明与湖在离别之时，湖强忍悲痛，外表冷冷地接受了分离的事实，原先已准备好为爱而战的昆明，失望地离去；<br>昆明离去的刹那，湖的泪水再也无法下咽，没有昆明的昆明湖，满湖水变成了满湖泪，在冬天冻成了冰；半年后，满湖的泪开始融化，悄悄地蒸腾起来，乘着云到了南方，在昆明下了一场泪雨，落在了昆明的普洱茶里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339444513)<br><br>2018-04-11 21:35<br>赞(3) 踩(0) | <div>后玄的歌，感觉都很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1851054)<br>爱音乐，爱生活。<br>2018-04-11 11:09<br>赞(2) 踩(0) | <div>牛逼到爆的歌竟然这么少评论</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356617781)<br>小熊熊<br>2018-04-07 22:47<br>赞(4) 踩(0) | <div>然而昆明湖不在昆明而在北京。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356543357)<br>不爱我就拉倒，反正我也不...<br>2018-04-03 00:32<br>赞(4) 踩(0) | <div>高中的时候，初次听到这首歌以为是杰伦的歌，超级喜欢。后来一查发现不是，从此以后我就知道了后弦。我是杰伦的粉丝，但是后弦的每一首歌，我都很喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85008772)<br><br>2018-04-02 23:11<br>赞(3) 踩(0) | <div>虾米处处都是惊喜，以前爱过的歌推荐给我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342939096)<br><br>2018-04-02 22:42<br>赞(5) 踩(0) | <div>听歌，听的是心情&amp;hellip;&amp;hellip;喜欢听歌的人，心中有爱的人，总是心思最细腻的人，喜欢一首歌，也许只是一句歌词打动了自己的心，好多时候，很多很多的感觉说不出来，每首歌仿佛都在诉说一个故事，流露一种心情。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342939096)<br><br>2018-04-02 22:42<br>赞(5) 踩(0) | <div>听歌，听的是心情&amp;hellip;&amp;hellip;<br>喜欢听歌的人，心中有爱的人，总是心思最细腻的人，喜欢一首歌，也许只是一句歌词打动了自己的心，好多时候，很多很多的感觉说不出来，每首歌仿佛都在诉说一个故事，流露一种心情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334783780)<br><br>2018-03-29 02:23<br>赞(11) 踩(0) | <div>这首歌可以媲美青花瓷，有没有？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278351034)<br><br>2018-04-03 11:04<br>赞(0) 踩(0) | <div>在我心里 《昆明湖》无可比拟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334783780)<br><br>2018-03-29 02:22<br>赞(0) 踩(0) | <div>好</div> |
@@ -300,7 +300,7 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30125091)<br><br>2018-03-25 02:40<br>赞(4) 踩(0) | <div>初中，很喜欢的歌；高中，挚友的偶像；大学，竟变成校友。缘分，神奇的存在！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322817689)<br><br>2018-03-24 09:59<br>赞(0) 踩(0) | <div>没有点文化还真搞不懂这歌词意思。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344816020)<br>青苔入镜 檐下风铃 摇晃...<br>2018-03-24 09:48<br>赞(2) 踩(0) | <div>现在大四了，重温这首初中时爱听的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348984131)<br><br>2018-03-24 08:36<br>赞(13) 踩(0) | <div>春过冬要醒,挪走窗外景哑雀还想共唱连理昆明转身湖水换成泪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348984131)<br><br>2018-03-24 08:36<br>赞(13) 踩(0) | <div>春过冬要醒,挪走窗外景<br>哑雀还想共唱连理<br>昆明转身湖水换成泪</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278351034)<br><br>2018-04-03 11:02<br>赞(0) 踩(0) | <div>好美的词啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290825722)<br><br>2018-03-22 20:23<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36042346)<br>Everything g...<br>2018-03-20 14:58<br>赞(1) 踩(0) | <div>编曲很不错！舒服！</div> |
@@ -310,7 +310,7 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52370210)<br><br>2018-03-09 09:21<br>赞(13) 踩(0) | <div>那年我叫后弦是后xuan，叫许嵩是许gao...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267069712)<br><br>2018-03-08 20:46<br>赞(2) 踩(0) | <div>昆明和湖的故事是我听过最多次的爱情故事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228340536)<br><br>2018-03-08 04:19<br>赞(0) 踩(0) | <div>带着些曲艺风</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27536837)<br><br>2018-03-07 21:08<br>赞(338) 踩(0) | <div>&amp;ldquo;昆明&amp;rdquo;是掌管春季的昆氏仙族里最年轻动人的千金，她第一次受命到苏堤放春；昆明被路途的美景沉醉，一时忘我，一游就是三千里，误将北方的湖当成了苏堤，错把第一场春雨下给了湖，湖在春意中醒来冷漠的湖邂逅暖意的昆明，将错就错，发生了一段动人恋情，&amp;ldquo;昆明湖&amp;rdquo;由此而来。转眼冬季将至，昆明也因误放春而被勒令返回受罚，昆明与湖在离别之时，湖强忍悲痛，外表冷冷地接受了分离的事实，原先已准备好为爱而战的昆明，失望地离去；昆明离去的刹那，湖的泪水再也无法下咽，没有昆明的昆明湖，满湖水变成了满湖泪，在冬天冻成了冰；半年后，满湖的泪开始融化，悄悄地蒸腾起来，乘着云到了南方，在昆明下了一场泪雨，落在了昆明的普洱茶里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27536837)<br><br>2018-03-07 21:08<br>赞(338) 踩(0) | <div>&amp;ldquo;昆明&amp;rdquo;是掌管春季的昆氏仙族里最年轻动人的千金，她第一次受命到苏堤放春；<br>昆明被路途的美景沉醉，一时忘我，一游就是三千里，误将北方的湖当成了苏堤，错把第一场春雨下给了湖，湖在春意中醒来<br>冷漠的湖邂逅暖意的昆明，将错就错，发生了一段动人恋情，&amp;ldquo;昆明湖&amp;rdquo;由此而来。转眼冬季将至，昆明也因误放春而被勒令返回受罚，昆明与湖在离别之时，湖强忍悲痛，外表冷冷地接受了分离的事实，原先已准备好为爱而战的昆明，失望地离去；<br>昆明离去的刹那，湖的泪水再也无法下咽，没有昆明的昆明湖，满湖水变成了满湖泪，在冬天冻成了冰；半年后，满湖的泪开始融化，悄悄地蒸腾起来，乘着云到了南方，在昆明下了一场泪雨，落在了昆明的普洱茶里</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271466892)<br><br>2018-04-03 09:25<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290377934)<br> <br>2018-04-12 16:09<br>赞(0) 踩(0) | <div>烂俗的故事，把这首歌的意境彻底毁掉</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173949500)<br><br>2018-04-17 07:48<br>赞(0) 踩(0) | <div>好美的故事，离开昆明一年，听到这首歌眼泪汪汪</div> |
@@ -322,7 +322,7 @@ i don't cry<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192393192)<br>虾米 我们不要告别<br>2019-05-12 00:56<br>赞(0) 踩(0) | <div>你好wmls</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322229099)<br>以为的日常 原来是无常<br>2020-03-16 12:03<br>赞(0) 踩(0) | <div>wmls好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231487898)<br>一锤砸死沙滩上<br>2020-11-14 19:29<br>赞(0) 踩(0) | <div>五迷耶！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14067425)<br>如果可以就让我聆听你的！<br>2018-03-05 10:36<br>赞(1) 踩(0) | <div>去颐和园我只记得那句：昆明转身湖水换成泪，我欲把心寄给春，再暖一会！当时昆明湖已经冰封数尺</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14067425)<br>如果可以就让我聆听你的！<br>2018-03-05 10:36<br>赞(1) 踩(0) | <div>去颐和园我只记得那句：昆明转身湖水换成泪，我欲把心寄给春，再暖一会！<br>当时昆明湖已经冰封数尺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328408468)<br><br>2018-03-02 21:59<br>赞(3) 踩(0) | <div>单身狗时听的后弦歌，今天从网易跑到这听，一下子少女上学时代的心爆棚了，。？！这让老身怎么入睡？还怎么回网易，。？！虾米你是隔壁老王，魅力无限&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339403340)<br><br>2018-03-02 14:35<br>赞(0) 踩(0) | <div>国语，国韵，国粹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339403340)<br><br>2018-03-02 14:29<br>赞(0) 踩(0) | <div>好词好声好韵味</div> |
@@ -428,7 +428,7 @@ i don't cry<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48019284)<br><br>2018-01-05 21:02<br>赞(0) 踩(0) | <div><q><b>弑神者者说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246989758)<br><br>2017-10-18 23:29<br>赞(0) 踩(0) | <div>还好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54249986)<br><br>2017-10-18 12:28<br>赞(2) 踩(0) | <div>周杰伦，许嵩，后弦，他们的歌，词，都比较古典优雅</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339439)<br>老阿姨很聪明什么也没留下...<br>2017-10-16 22:16<br>赞(2) 踩(0) | <div>湖水拥着去年藏着的心情，经这一年的发酵。冷暖寒暄，夕阳影下，绣着鸳鸯的小姐千金是否和现在的我们一样有颗七窍玲珑心？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339439)<br>老阿姨很聪明什么也没留下...<br>2017-10-16 22:16<br>赞(2) 踩(0) | <div>湖水拥着去年藏着的心情，<br>经这一年的发酵。<br>冷暖寒暄，夕阳影下，<br>绣着鸳鸯的小姐千金是否和现在的我们一样有颗七窍玲珑心？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254699961)<br><br>2017-10-16 16:27<br>赞(0) 踩(0) | <div>好喜欢这句 错当苏堤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254699961)<br><br>2017-10-16 16:26<br>赞(2) 踩(0) | <div>好喜欢这句  错当苏堤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265660834)<br> <br>2017-10-14 22:28<br>赞(0) 踩(0) | <div>喜欢这歌</div> |
@@ -736,7 +736,7 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43614563)<br>超级记仇<br>2015-09-02 19:02<br>赞(0) 踩(0) | <div>好讨厌后弦的调调唱歌一顿一顿的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39461567)<br>E daí?<br>2015-08-29 03:54<br>赞(2) 踩(0) | <div>就这样被洗脑了…==</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39461567)<br>E daí?<br>2015-08-29 03:43<br>赞(1) 踩(0) | <div>虽然一开始觉得是网络歌曲即视感 但听了几句之后觉得 wow还蛮好听的 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41969263)<br>面向现实。<br>2015-08-27 10:13<br>赞(2) 踩(0) | <div>小学可喜欢这首歌！= =现在即使是高中汪也喜欢这首歌！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41969263)<br>面向现实。<br>2015-08-27 10:13<br>赞(2) 踩(0) | <div>小学可喜欢这首歌！= =<br>现在即使是高中汪也喜欢这首歌！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36782089)<br><br>2015-08-26 16:15<br>赞(0) 踩(0) | <div>那年喜欢得抄歌词在最喜欢的练习书上 好像还是数学题的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54694578)<br><br>2015-08-14 21:50<br>赞(0) 踩(0) | <div>满满的回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40224019)<br><br>2015-08-07 17:46<br>赞(3) 踩(0) | <div>这么多年过去了还是最喜欢那句“化装茶马送你离去”</div> |
@@ -755,7 +755,7 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6864644)<br><br>2015-07-01 19:54<br>赞(0) 踩(0) | <div>多年以后惊觉的一曲成谶！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44388796)<br><br>2015-07-01 13:02<br>赞(0) 踩(0) | <div>可惜了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42023928)<br>喜欢养狗/不爱洗头<br>2015-06-28 00:22<br>赞(0) 踩(0) | <div>谜之泪点 想那个时候</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9660308)<br><br>2015-06-27 08:50<br>赞(0) 踩(0) | <div>去年藏的柳絮己珍贵趁思念不备把冰融成泪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9660308)<br><br>2015-06-27 08:50<br>赞(0) 踩(0) | <div>去年藏的柳絮己珍贵<br>趁思念不备把冰融成泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3936749)<br>未忘人生低谷时的陪伴，缘...<br>2015-06-19 13:45<br>赞(1) 踩(0) | <div>遥想听这首歌时，看着秀丽江山的书，总有忧伤浮现</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38493982)<br>多少难忘旧时光..<br>2015-06-13 02:50<br>赞(0) 踩(0) | <div>昆明湖美却不在昆明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8615092)<br><br>2015-06-08 22:05<br>赞(2) 踩(0) | <div>有时候忽然很想听过去的歌，真的听到后却又觉得听不下去了，过去总会过去，而我们也真的回不去了。</div> |
@@ -783,7 +783,7 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47504170)<br> <br>2015-03-05 11:58<br>赞(0) 踩(0) | <div>^_^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45579065)<br>我还没想好要写什么...<br>2015-02-28 17:38<br>赞(1) 踩(0) | <div>满满初中的回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13552904)<br>一万年太久<br>2015-02-11 15:31<br>赞(0) 踩(0) | <div>小学的回忆</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44216081)<br><br>2015-02-05 13:57<br>赞(0) 踩(0) | <div>记忆里的歌。❤️</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44216081)<br><br>2015-02-05 13:57<br>赞(0) 踩(0) | <div>记忆里的歌。<br>❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43305101)<br>记忆像石头，偷袭便逃走<br>2015-02-04 21:20<br>赞(0) 踩(0) | <div>当年初中，现已烟酒僧，在图书馆抽风想起这首歌，那段时光。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2865958)<br>死掉了<br>2015-02-02 17:52<br>赞(0) 踩(0) | <div>初中三年，满满回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44665098)<br>梦里花落知多少<br>2015-01-22 13:11<br>赞(0) 踩(0) | <div>怀念啊</div> |
@@ -873,12 +873,12 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301566)<br><br>2013-01-22 16:18<br>赞(0) 踩(0) | <div>虽然跟昆明木有关系....但是听着这歌我真的好想回家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/855178)<br>无材补天，认真种地。<br>2013-01-14 18:21<br>赞(3) 踩(0) | <div>后弦神作，甚至比《西厢》更胜一筹~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4416052)<br><br>2012-12-18 13:26<br>赞(4) 踩(0) | <div>詞曲全包,比周先生有才多了~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2012-11-06 01:16<br>赞(1) 踩(0) | <div>昆明转身湖水换成泪我欲把心寄给春，再暖一回</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1949345)<br>Skong(司空)<br>2012-11-01 23:04<br>赞(2) 踩(0) | <div>我觉得 那首歌  无论是作曲编曲还是歌词 都到了一定境界。我听出了“认真”二字，每一环节都做到了认真。即便我是一个听重金属的死嗑范儿，呵呵。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2012-11-06 01:16<br>赞(1) 踩(0) | <div>昆明转身湖水换成泪<br>我欲把心寄给春，再暖一回</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1949345)<br>Skong(司空)<br>2012-11-01 23:04<br>赞(2) 踩(0) | <div>我觉得 那首歌  无论是作曲编曲还是歌词 都到了一定境界。我听出了“认真”二字，每一环节都做到了认真。<br><br>即便我是一个听重金属的死嗑范儿，呵呵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3700825)<br><br>2012-10-29 00:04<br>赞(0) 踩(0) | <div>初中时天天循环这个的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7597026)<br><br>2012-09-21 10:05<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3227760)<br><br>2012-09-17 19:38<br>赞(0) 踩(0) | <div>电台听到的，有点周杰伦的意思，口齿一样不太清楚，但是好听～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3709390)<br>暂无签名~<br>2012-09-02 17:00<br>赞(0) 踩(0) | <div>即将奔赴大学生活之前的那个暑假，俺发小的丢给俺的送别小曲儿~满满的回忆，慢慢的记起</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3709390)<br>暂无签名~<br>2012-09-02 17:00<br>赞(0) 踩(0) | <div>即将奔赴大学生活之前的那个暑假，俺发小的丢给俺的送别小曲儿~<br>满满的回忆，慢慢的记起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3948998)<br>i love u<br>2012-07-28 21:49<br>赞(1) 踩(0) | <div>五星之作，歌词曲调双绝，大陆怎么就不多两个后弦呢为什么呢为什么呢为什么呢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/972375)<br>为了某某而活着，愚蠢！！<br>2012-07-19 14:34<br>赞(1) 踩(0) | <div>就是喜欢他的这种调调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4858312)<br>兽人永不为奴(●´ω｀●...<br>2012-07-14 01:06<br>赞(483) 踩(0) | <div>有时，听到过去时光的某首歌，总是有种要哭的冲动。</div> |
@@ -923,7 +923,7 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1940223)<br>我还没想好要写什么...<br>2011-09-14 01:15<br>赞(1) 踩(0) | <div>这首歌其实很不错，只是一听到就忍不住会想起某个人...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4319059)<br>@可乐飞冰<br>2011-08-03 09:26<br>赞(0) 踩(0) | <div>这首歌不错</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4793402)<br><br>2012-01-16 22:53<br>赞(0) 踩(0) | <div>我也是。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3686608)<br>萨爷本命<br>2011-06-25 11:53<br>赞(0) 踩(0) | <div>昆明转身湖水换成泪我欲把心寄给春，再暖一回去年藏的柳絮己珍贵趁思念不备把冰融成泪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3686608)<br>萨爷本命<br>2011-06-25 11:53<br>赞(0) 踩(0) | <div>昆明转身湖水换成泪<br>我欲把心寄给春，再暖一回<br>去年藏的柳絮己珍贵<br>趁思念不备把冰融成泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4232597)<br><br>2011-06-09 18:21<br>赞(0) 踩(0) | <div>心里酸酸的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/543165)<br>希望虾米音乐越来越好，因...<br>2011-06-03 09:43<br>赞(0) 踩(0) | <div>这词有文山的范儿~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3730039)<br><br>2011-05-29 07:46<br>赞(0) 踩(0) | <div>...........</div> |
@@ -950,7 +950,7 @@ i don't cry<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359750)<br><br>2010-08-01 23:29<br>赞(0) 踩(0) | <div>很奇妙的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52224)<br><br>2010-06-18 23:01<br>赞(0) 踩(0) | <div>这就是个大鼓评弹吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/853577)<br>另一天<br>2010-05-10 12:12<br>赞(0) 踩(0) | <div>我承认，是那些琵琶声，让我评论的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/631739)<br><br>2010-02-25 19:22<br>赞(0) 踩(0) | <div>颐和园的苏堤的垂柳很美春天北京的风很大昆明湖上浪花阵阵</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/631739)<br><br>2010-02-25 19:22<br>赞(0) 踩(0) | <div>颐和园的苏堤的垂柳很美<br>春天北京的风很大<br>昆明湖上浪花阵阵</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1748282)<br>Können Sie m...<br>2011-02-03 02:23<br>赞(0) 踩(0) | <div>昆明湖不仅指的是北京的。昆明的滇池也叫昆明湖噢~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184660896)<br>可惜不是你<br>2016-07-06 08:38<br>赞(0) 踩(0) | <div><q><b>桜可说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9878283)<br>歌单很乱 将就听吧 新歌...<br>2016-07-13 00:52<br>赞(0) 踩(0) | <div><q><b>伱，太好看说：</b></q></div> |

@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/26d9b874b1e6277109bd178a4ad325e8.jpg)<br>杨海彪](https://i.xiami.com/yanghaibiao) | **播放数**: 2068675<br>**粉丝数**: 164<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 粤语流行 Cantopop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/26d9b874b1e6277109bd178a4ad325e8.jpg)<br>杨海彪](https://i.xiami.com/yanghaibiao) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 粤语流行 Cantopop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 2068675<br>**粉丝数**: 164<br>**评论数**: 8<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -32,8 +29,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2019-06-30 11:43<br>赞(1) 踩(0) | <div>12545</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324760356)<br>我还没想好要写什么......<br>2019-04-08 05:58<br>赞(1) 踩(0) | <div>不错，好听，支持 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/f10e8c35366eb553db3d665e8b324caf.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2018-11-12 05:04<br>赞(1) 踩(0) | <div>好听</div> |

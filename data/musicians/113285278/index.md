@@ -3,7 +3,7 @@ YUNG BAE
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8fbb5b0c19e999d55cbddb6980c278df.jpg)<br>YUNG BAE](https://i.xiami.com/yungbae) | **播放数**: 7824500<br>**粉丝数**: 8444<br>**评论数**: 386<br>**地区**: United States of America 美国<br>**风格**: 电子 Electronic, 独立电子乐 Indietronica, 蒸汽波 Vaporwave, 放克 Funk<br> |
+| [![](../../images/musicians/8fbb5b0c19e999d55cbddb6980c278df.jpg)<br>YUNG BAE](https://i.xiami.com/yungbae) | **地区**: United States of America 美国<br>**风格**: 电子 Electronic, 独立电子乐 Indietronica, 蒸汽波 Vaporwave, 放克 Funk<br>**播放数**: 7824500<br>**粉丝数**: 8444<br>**评论数**: 386<br> |
 
 ## 档案
 
@@ -75,8 +75,8 @@ http://yungbaebae.bandcamp.com/
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99568924)<br>我还没想好要写什么...<br>2021-01-03 10:52<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286935669)<br>我还没想好要写什么...<br>2020-12-30 14:36<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331269448)<br>男 未婚 身高一米七五 <br>2020-09-02 00:04<br>赞(0) 踩(0) | <div><img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
@@ -145,8 +145,8 @@ http://yungbaebae.bandcamp.com/
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8532258)<br><br>2019-04-09 14:30<br>赞(0) 踩(0) | <div>Me,大兄弟</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279327905)<br>我就是个听歌机器<br>2019-09-13 09:27<br>赞(0) 踩(0) | <div>when do you come china to show around？！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23862178)<br>keep the fai...<br>2019-01-23 13:56<br>赞(0) 踩(0) | <div>❤</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14091078)<br>我还没想好要写什么...<br>2019-01-15 18:02<br>赞(0) 踩(0) | <div>【蒸汽波】Yung Bae 2019 中国巡演03/06 北京 Dada （仅在现场售票）03/07 上海 Arkham03/08 深圳 Oil地址：<a href="https://weidian.com/item.html?itemID=2669826848&amp;ifr=pbj_item_3026&amp;wfr=pbj_item_3026" target="_blank" rel="nofollow noreferrer noopener">https://weidian.com/item.html?itemID=2669826848&amp;ifr=pbj_item_3026&amp;wfr=pbj_item_3026</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14091078)<br>我还没想好要写什么...<br>2018-12-28 12:13<br>赞(22) 踩(0) | <div>ASIA TOUR 20193.1  Seoul,          Soap3.2  Bangkok,      Kolour in the Park3.6  Beijing,         DADA3.7  Shanghai,     Arkham3.8  Shenzhen,    OIL3.9  Singapore,    Garden Beats</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14091078)<br>我还没想好要写什么...<br>2019-01-15 18:02<br>赞(0) 踩(0) | <div>【蒸汽波】Yung Bae 2019 中国巡演<br><br>03/06 北京 Dada （仅在现场售票）<br>03/07 上海 Arkham<br>03/08 深圳 Oil<br>地址：<a href="https://weidian.com/item.html?itemID=2669826848&amp;ifr=pbj_item_3026&amp;wfr=pbj_item_3026" target="_blank" rel="nofollow noreferrer noopener">https://weidian.com/item.html?itemID=2669826848&amp;ifr=pbj_item_3026&amp;wfr=pbj_item_3026</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14091078)<br>我还没想好要写什么...<br>2018-12-28 12:13<br>赞(22) 踩(0) | <div>ASIA TOUR 2019<br><br>3.1  Seoul,          Soap<br>3.2  Bangkok,      Kolour in the Park<br>3.6  Beijing,         DADA<br>3.7  Shanghai,     Arkham<br>3.8  Shenzhen,    OIL<br>3.9  Singapore,    Garden Beats</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20147189)<br>嘘<br>2019-02-26 20:16<br>赞(0) 踩(0) | <div>！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36876190)<br>网易云：Rennug<br>2018-12-25 12:53<br>赞(0) 踩(0) | <div>-</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378525308)<br>ᵛ⎀ <br>2018-11-20 22:46<br>赞(0) 踩(0) | <div>Þ</div> |
@@ -240,7 +240,7 @@ http://yungbaebae.bandcamp.com/
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14252639)<br>.<br>2017-04-11 09:41<br>赞(0) 踩(0) | <div>in</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55823645)<br>NOTHING BETT...<br>2017-04-02 12:20<br>赞(0) 踩(0) | <div><img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13526500)<br>Comment ça v...<br>2017-03-30 10:47<br>赞(0) 踩(0) | <div>简介好过瘾啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3611886)<br>有病啊？<br>2017-03-17 14:42<br>赞(22) 踩(0) | <div>列了一个虾米vaporwave的label 方便大家去听<a href="http://www.xiami.com/g/thread-12826293?spm=a1z1s.6928793.1561534509.1.gvovF2" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/g/thread-12826293?spm=a1z1s.6928793.1561534509.1.gvovF2</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3611886)<br>有病啊？<br>2017-03-17 14:42<br>赞(22) 踩(0) | <div>列了一个虾米vaporwave的label 方便大家去听<br><a href="http://www.xiami.com/g/thread-12826293?spm=a1z1s.6928793.1561534509.1.gvovF2" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/g/thread-12826293?spm=a1z1s.6928793.1561534509.1.gvovF2</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54537050)<br>我还没想好要写什么...<br>2017-03-13 07:50<br>赞(1) 踩(0) | <div>☁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3442087)<br>Dust To Dust<br>2017-03-09 21:18<br>赞(0) 踩(0) | <div>m</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/156056836)<br>我还没想好要写什么...<br>2017-03-09 19:40<br>赞(0) 踩(0) | <div>YOumei</div> |
@@ -306,7 +306,7 @@ http://yungbaebae.bandcamp.com/
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6076438)<br>起身見頭暈，行路打倒褪。...<br>2016-08-14 19:27<br>赞(0) 踩(0) | <div>扑kèmon Go.....po po po</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43493134)<br>Let the desi...<br>2016-08-13 13:42<br>赞(0) 踩(0) | <div><img src="../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"> <img src="../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43547593)<br>♡<br>2016-08-10 14:25<br>赞(0) 踩(0) | <div>⅋</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4329943)<br>口味很杂。  顺耳就行，...<br>2016-08-08 10:22<br>赞(0) 踩(0) | <div>一溜的美少女战士这少女心的新画风我适应不来 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4329943)<br>口味很杂。  顺耳就行，...<br>2016-08-08 10:22<br>赞(0) 踩(0) | <div>一溜的美少女战士<br>这少女心的新画风我适应不来 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4329943)<br>口味很杂。  顺耳就行，...<br>2016-08-08 10:19<br>赞(1) 踩(0) | <div>是我脸盲吗  感觉yung bae和flume长得一毛一样 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4827357)<br>又活了一天，真他妈赚<br>2016-08-08 10:10<br>赞(0) 踩(0) | <div>肾虚的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60311452)<br>爱情只不过是人们一场不切...<br>2016-08-08 03:19<br>赞(0) 踩(0) | <div>特别喜欢</div> |
@@ -458,7 +458,7 @@ http://yungbaebae.bandcamp.com/
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3166931)<br>血男孩<br>2015-02-18 23:05<br>赞(0) 踩(0) | <div>来自未来客户端</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19812281)<br>扰乱 就是 扰乱<br>2015-01-24 15:01<br>赞(1) 踩(0) | <div>vaporwave~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4302754)<br>groovy<br>2014-12-29 00:19<br>赞(0) 踩(0) | <div>I like disco.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886346)<br>#  蒸気住民<br>2014-12-13 18:29<br>赞(62) 踩(0) | <div>曲目都排好了! 真希望 YUNG BAE 重弄一张EP lossless(高频谱)Tracklist :01. Fall In Love With Me Feat.Flamingosis02. Take My Love03. How I Feel About U04. Honey05. I Want Your Love06. SatisfyVERY SIXXXK ! ! ! ! ! !</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886346)<br>#  蒸気住民<br>2014-12-13 18:29<br>赞(62) 踩(0) | <div>曲目都排好了! 真希望 YUNG BAE 重弄一张EP lossless(高频谱)<br><br>Tracklist :<br>01. Fall In Love With Me Feat.Flamingosis<br>02. Take My Love<br>03. How I Feel About U<br>04. Honey<br>05. I Want Your Love<br>06. Satisfy<br><br>VERY SIXXXK ! ! ! ! ! !</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38867086)<br>P<br>2014-12-03 20:57<br>赞(2) 踩(0) | <div>yung bae!funk/disco/citypop狂魔! take my love爱爱爱~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9320764)<br>吃饭时要开心<br>2014-11-28 07:53<br>赞(0) 踩(0) | <div>:)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9234171)<br>电音才是男人的浪漫～<br>2014-11-21 23:14<br>赞(0) 踩(0) | <div>0.0</div> |

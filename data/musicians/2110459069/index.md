@@ -3,13 +3,10 @@ KendricKnight
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/cb781eb9b3438bfdb80a53b52fe76bbd.jpeg)<br>KendricKnight](https://i.xiami.com/urmyson) | **播放数**: 10363434<br>**粉丝数**: 2654<br>**评论数**: 171<br>**地区**: <br>**风格**: 陷阱舞曲 Trap, 氛围音乐 Ambient, 爵士嘻哈 Jazz Hip Hop, 器乐嘻哈 Instrumental Hip Hop, 电子 Electronic<br> |
+| [![](../../images/musicians/cb781eb9b3438bfdb80a53b52fe76bbd.jpeg)<br>KendricKnight](https://i.xiami.com/urmyson) | **地区**: <br>**风格**: 陷阱舞曲 Trap, 氛围音乐 Ambient, 爵士嘻哈 Jazz Hip Hop, 器乐嘻哈 Instrumental Hip Hop, 电子 Electronic<br>**播放数**: 10363434<br>**粉丝数**: 2654<br>**评论数**: 171<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -92,8 +89,8 @@ KendricKnight
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296456214)<br> <br>2021-01-22 00:39<br>赞(0) 踩(0) | <div>竟然是香港人！不得了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127178534)<br>남친: 이가기♡<br>2021-01-17 12:35<br>赞(0) 踩(0) | <div>좋아해. 너무너무</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292423439)<br>better me<br>2021-01-17 09:24<br>赞(0) 踩(0) | <div>兄弟虾米要停服了</div> |
@@ -103,7 +100,7 @@ KendricKnight
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124889762)<br>不配<br>2020-11-12 17:38<br>赞(0) 踩(0) | <div>90后双子座吗、 爱了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4372646)<br>可爱又迷人的正派角色IG...<br>2020-11-04 18:14<br>赞(1) 踩(0) | <div>#</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342038768)<br>pucikaka don...<br>2020-10-16 23:21<br>赞(1) 踩(0) | <div>温暖</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2719500)<br>Bon Appetit.<br>2020-08-24 12:12<br>赞(2) 踩(0) | <div>我终于终于稳到你soundcloud acc哈哈哈哈哈哈哈开心～</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2719500)<br>Bon Appetit.<br>2020-08-24 12:12<br>赞(2) 踩(0) | <div>我终于终于稳到你soundcloud acc<br>哈哈哈哈哈哈哈<br>开心～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307328795)<br>怪 异 无 趣 . ♡<br>2020-08-04 16:08<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307328795)<br>怪 异 无 趣 . ♡<br>2020-08-03 21:40<br>赞(0) 踩(0) | <div>我可太喜欢你了.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3947543)<br>love life ba...<br>2020-08-01 22:23<br>赞(0) 踩(0) | <div>有人告诉我他是中国人还是外国人。啊？</div> |
@@ -119,7 +116,7 @@ KendricKnight
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421578063)<br>fox god<br>2020-05-14 11:15<br>赞(3) 踩(0) | <div>(๑＞ڡ＜)☆</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52415194)<br>♬♩♫♪♡<br>2020-05-10 22:40<br>赞(0) 踩(0) | <div><img src="../../images/comments/a5bf226f378589f77a947faef01f985e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349339882)<br>后荣迷。努力学习中。<br>2020-05-08 22:47<br>赞(0) 踩(0) | <div>(*&amp;acute;&amp;forall;｀)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2719500)<br>Bon Appetit.<br>2020-05-04 22:01<br>赞(3) 踩(0) | <div>想关注你微博igAnything i can follow?</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2719500)<br>Bon Appetit.<br>2020-05-04 22:01<br>赞(3) 踩(0) | <div>想关注你<br>微博ig<br>Anything i can follow?</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2897156)<br>幻听捕食者<br>2020-04-30 22:16<br>赞(1) 踩(0) | <div>♾</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50625743)<br>SO ROSÉ SO C...<br>2020-04-29 23:59<br>赞(1) 踩(0) | <div>很棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421578063)<br>fox god<br>2020-04-25 18:57<br>赞(1) 踩(0) | <div>哇！真的是出版级的独立音乐人！</div> |
@@ -131,7 +128,7 @@ KendricKnight
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339257303)<br>?<br>2020-03-30 11:04<br>赞(3) 踩(0) | <div>从You are my son变成肯德里克骑士了是吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299931782)<br>遇见谁都没有那么重要，重...<br>2020-03-26 15:57<br>赞(0) 踩(0) | <div>太优秀了！！！一直都很钟意你的作品！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257812637)<br>想要避世的时候可以躲进歌...<br>2020-03-21 20:40<br>赞(2) 踩(0) | <div>这兄弟remix的歌原版都超棒，歌品好remix的也好 可以可以</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253100822)<br>要做哥哥们的御用舞者 E...<br>2020-03-19 08:11<br>赞(0) 踩(0) | <div>怎么都在问之前叫什么U are my son辣</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253100822)<br>要做哥哥们的御用舞者 E...<br>2020-03-19 08:11<br>赞(0) 踩(0) | <div>怎么都在问之前叫什么<br>U are my son辣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253100822)<br>要做哥哥们的御用舞者 E...<br>2020-03-19 08:09<br>赞(1) 踩(0) | <div>好喜欢你跟六公主的合作  所有</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426355003)<br>Music Buffs<br>2020-03-16 17:08<br>赞(0) 踩(0) | <div>宝藏歌单呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1125942)<br>给您拜早年了。₍₍ (ง...<br>2020-03-15 14:03<br>赞(0) 踩(0) | <div>今天发现的宝藏。</div> |
@@ -165,7 +162,7 @@ KendricKnight
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46228718)<br>想到你家里坐坐..<br>2019-12-25 23:09<br>赞(0) 踩(0) | <div>太好听啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341078030)<br>nothing will...<br>2019-12-22 09:49<br>赞(11) 踩(0) | <div>艹這人絕了我愛死。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418960007)<br><br>2019-12-20 22:36<br>赞(2) 踩(0) | <div>当我好好看了这名字后才明白</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89166050)<br>我还没想好要写什么...<br>2019-12-08 06:54<br>赞(2) 踩(0) | <div>如果你连听这么牛逼音乐人的歌的我都不喜欢的话那我他妈也帮不了你</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89166050)<br>我还没想好要写什么...<br>2019-12-08 06:54<br>赞(2) 踩(0) | <div>如果你连听这么牛逼音乐人的歌的我都不喜欢的话<br>那我他妈也帮不了你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12177420)<br>网易云: FIUFIU_...<br>2019-12-06 17:26<br>赞(2) 踩(0) | <div>听了那么久才看清楚名字到底是啥意思 <img src="../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307596981)<br><br>2019-11-29 18:02<br>赞(0) 踩(0) | <div>神仙了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29053254)<br>        よるつき...<br>2019-11-24 10:56<br>赞(2) 踩(0) | <div>I luv u so</div> |
@@ -232,7 +229,7 @@ KendricKnight
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309688450)<br>所有的美，都的确需要终结<br>2019-01-03 15:15<br>赞(1) 踩(0) | <div>好喜欢 每首都好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343310200)<br>我不是个好人<br>2018-12-29 19:55<br>赞(1) 踩(0) | <div>you are my son</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12719802)<br>lame<br>2018-12-29 02:46<br>赞(0) 踩(0) | <div>⌖</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295542159)<br>Ciao<br>2018-12-24 17:42<br>赞(2) 踩(0) | <div>你的Jazzy不好聽。聽到天亮心裏就會極度不舒服。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295542159)<br>Ciao<br>2018-12-24 17:42<br>赞(2) 踩(0) | <div>你的Jazzy不好聽。<br>聽到天亮心裏就會極度不舒服。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49265597)<br>我还没想好要写什么...<br>2018-12-20 19:09<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8502640)<br>I'm half cra...<br>2018-12-14 12:18<br>赞(1) 踩(0) | <div>每首都很好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6698987)<br>ｓａｖａｇｅ<br>2018-12-06 12:27<br>赞(0) 踩(0) | <div></div> |

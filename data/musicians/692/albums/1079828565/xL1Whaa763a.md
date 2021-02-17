@@ -12,15 +12,12 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408157069)<br>他是她的岛<br>2020-01-28 18:51<br>赞(1) 踩(0) | <div>天下虽大莫非王土率士之滨莫非王臣</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408157069)<br>他是她的岛<br>2020-01-28 18:51<br>赞(1) 踩(0) | <div>天下虽大莫非王土<br>率士之滨莫非王臣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433205667)<br>人生几个仙侠<br>2020-01-19 12:32<br>赞(1) 踩(0) | <div>真好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341357995)<br>人生有裂缝   是光进来...<br>2020-01-16 15:27<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243609765)<br>我还没想好要写什么...<br>2020-01-10 13:48<br>赞(1) 踩(0) | <div>十年练就一身金钟罩，铁布衫，刀剑不入，却不曾想冥冥中仿佛早已注定，终究躲不过红尘此劫，天河斗转命定盘，缘也好，劫也罢，恩怨各半，早已无力回天，望来生，城南花开，你我不再是生死宿敌，放下剑戈，笑看太平长安红尘滚滚浮世万千[抱拳]</div> |
@@ -32,7 +29,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428269825)<br><br>2020-06-15 20:34<br>赞(0) 踩(0) | <div>骆集益</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3679316)<br><br>2019-02-14 12:32<br>赞(1) 踩(0) | <div>46秒昂扬转轻柔，1分26秒回归大气，之后不断上升节奏，你看这是不是我们希望作为沧海一粟可以活成的样子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339020409)<br>后会无期<br>2019-01-21 22:58<br>赞(8) 踩(0) | <div>打完古剑3回来听这个，真是感慨万千</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951829)<br>孤鴻寄語·血色琉璃<br>2018-11-16 22:33<br>赞(4) 踩(0) | <div>今晚开始重玩，一周目之后，两次重玩都只玩了一半，这次通关后，古3就上市了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951829)<br>孤鴻寄語·血色琉璃<br>2018-11-16 22:33<br>赞(4) 踩(0) | <div>今晚开始重玩，一周目之后，<br>两次重玩都只玩了一半，<br>这次通关后，古3就上市了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48864210)<br><br>2018-11-17 20:52<br>赞(0) 踩(0) | <div>国产所有RPG几乎全玩过，二十年了，从未间断，平心而论，无有出古剑二之右者。我个人认为是有史以来的最高峰，超越了仙剑一和四以及天之痕。三个谢衣的设计只有一个字：神！整体框架非常宏伟，气势磅礴。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951829)<br>孤鴻寄語·血色琉璃<br>2018-11-18 23:15<br>赞(0) 踩(0) | <div><q><b>pamela007by说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377162320)<br>释放过去，热爱当前，期待...<br>2018-09-28 19:24<br>赞(2) 踩(0) | <div>浮躁之辈又怎能领略这些美曲呢。</div> |
@@ -41,9 +38,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204031663)<br>天籁之音，随我同行。<br>2018-05-15 20:24<br>赞(4) 踩(0) | <div>看我名字就知道我有多喜欢这首音乐。qq名字也是，微信名字是曾哥的鬼哭无明。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1612404)<br>我有时看不了你们的回复<br>2018-02-11 00:28<br>赞(3) 踩(0) | <div>如果不能理解BGM为什么不能被盗用，你可以用「古剑二的官图或同人图被拿上节目作素材，而不告知烛龙、不谈授权事宜、不写出处」来类比。很奇怪的现实是，一张图要是被盗用了马上就炸圈了，但一首BGM被盗用了竟然还能被观众叫好，匪夷所思。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11671826)<br>碧海潮升按玉箫，神仙眷侣...<br>2018-02-04 11:41<br>赞(3) 踩(0) | <div>每次听这首歌都会想到，天那边的流月城祭祀们过的好不好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255962784)<br>翩翩白衣沁骨 清风伴酒醉...<br>2018-01-29 00:41<br>赞(9) 踩(0) | <div>今次，国家宝藏用沧海飞尘作背景乐，愿更多人借此知晓古剑、仙剑里这些代表传统中国文化的优秀音乐！若说民谣是一杯苦酒，饮者甚少，仙侠音乐则更似苦清酒，和者寥寥，却又曲高流水长，虽常言道英雄莫问来处，却也盼这浮躁尘世中此般静心之曲能多有共鸣者，不至淹没于沧海洪流之中！借诗一首诉此刻衷肠:贫家净扫地贫女净梳头景色虽不艳丽气度自是风雅</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255962784)<br>翩翩白衣沁骨 清风伴酒醉...<br>2018-01-29 00:41<br>赞(9) 踩(0) | <div>今次，国家宝藏用沧海飞尘作背景乐，愿更多人借此知晓古剑、仙剑里这些代表传统中国文化的优秀音乐！若说民谣是一杯苦酒，饮者甚少，仙侠音乐则更似苦清酒，和者寥寥，却又曲高流水长，虽常言道英雄莫问来处，却也盼这浮躁尘世中此般静心之曲能多有共鸣者，不至淹没于沧海洪流之中！借诗一首诉此刻衷肠:<br>贫家净扫地<br>贫女净梳头<br>景色虽不艳丽<br>气度自是风雅</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1612404)<br>我有时看不了你们的回复<br>2018-02-11 00:19<br>赞(0) 踩(0) | <div>前提是交足版权费了。要是盗用，那请停止，传播盗版从来就不是什么好安利</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22956978)<br> <br>2018-03-16 08:24<br>赞(0) 踩(0) | <div>所以我坚守虾米，为每一首古风贡献一点流量，评论，讨论。。。让它热一点我想遇见更多这样你</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22956978)<br> <br>2018-03-16 08:24<br>赞(0) 踩(0) | <div>所以我坚守虾米，为每一首古风贡献一点流量，评论，讨论。。。让它热一点<br><br><br>我想遇见更多这样你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325384537)<br><br>2017-12-14 14:18<br>赞(1) 踩(0) | <div>想起了竹笋包子号上的无异和闻人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283259055)<br><br>2017-09-07 00:34<br>赞(2) 踩(0) | <div>起飞吧，竹笋包子号~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52456510)<br>生活的积累越来越丰厚， ...<br>2017-04-21 20:30<br>赞(2) 踩(0) | <div>勾起好多回忆</div> |
@@ -65,7 +62,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42528833)<br><br>2016-01-11 03:29<br>赞(1) 踩(0) | <div>我的古二 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3207844)<br><br>2016-01-06 18:05<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3207844)<br><br>2016-01-06 18:05<br>赞(1) 踩(0) | <div>这首太好听了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2714261)<br><br>2015-12-14 23:29<br>赞(24) 踩(0) | <div>“沧海飞尘，人世因缘了。”古二之所以让我感动，只因为有种人情未了的感觉在里面。人世匆匆，天高海阔，却因听过、见过、走过、遇过、笑过、哭过，才显得如此珍贵，如此不同。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2714261)<br><br>2015-12-14 23:29<br>赞(24) 踩(0) | <div>“沧海飞尘，人世因缘了。”<br>古二之所以让我感动，只因为有种人情未了的感觉在里面。人世匆匆，天高海阔，却因听过、见过、走过、遇过、笑过、哭过，才显得如此珍贵，如此不同。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7143638)<br>暂无签名~<br>2016-05-23 22:45<br>赞(0) 踩(0) | <div>抱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88913350)<br>做自己，就什么都不用怕。...<br>2015-12-14 18:46<br>赞(1) 踩(0) | <div>很喜欢，当时就是被这段音乐加画面拉入坑决定玩的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20904228)<br><br>2015-09-09 21:19<br>赞(2) 踩(0) | <div>唉。。。听一下歌。。。聊以慰藉</div> |

@@ -59,8 +59,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270392733)<br><br>2019-06-08 08:06<br>赞(1) 踩(0) | <div>我第一次听这首歌是在，，，，动物世界 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423976026)<br><br>2019-05-01 02:03<br>赞(1) 踩(0) | <div>汪峰每首歌都会给人们带来力量 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345041599)<br><br>2019-04-02 20:00<br>赞(3) 踩(0) | <div>其实歌词是根据《相信未来》这首诗写的。</div> |
@@ -192,7 +192,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326605838)<br><br>2018-05-20 23:25<br>赞(0) 踩(0) | <div>骑小电驴的大叔秒杀他</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312160013)<br><br>2018-06-14 07:53<br>赞(0) 踩(0) | <div>看出你的年龄了，崔健窦唯张楚何勇许巍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287034264)<br><br>2018-05-20 08:34<br>赞(0) 踩(0) | <div>m</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10857967)<br>我～就是我！不喜勿進！<br>2018-05-19 02:21<br>赞(0) 踩(0) | <div>（部分空耳版歌词，不喜勿喷）你会听到风，咱们未来的葫芦娃也许迷路的畜生，会扯碎我的脚步可我相信未来会给我一双浓翔的吃法虽然射进了裤兜，你丫的最难上可我坚信光明，救灾元芳虽然唱不动了尼玛，会震碎我的小B可我相信未来会给我一双浓翔的吃法虽然坐在了床上，你让我寸步难吸可我坚信光明，救灾元芳</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10857967)<br>我～就是我！不喜勿進！<br>2018-05-19 02:21<br>赞(0) 踩(0) | <div>（部分空耳版歌词，不喜勿喷）<br>你会听到风，咱们未来的葫芦娃<br>也许迷路的畜生，会扯碎我的脚步<br>可我相信未来会给我一双浓翔的吃法<br>虽然射进了裤兜，你丫的最难上<br>可我坚信光明，救灾元芳<br>虽然唱不动了尼玛，会震碎我的小B<br>可我相信未来会给我一双浓翔的吃法<br>虽然坐在了床上，你让我寸步难吸<br>可我坚信光明，救灾元芳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48084409)<br>我还没想好要写什么..<br>2018-05-11 23:30<br>赞(3) 踩(0) | <div>歌词抄袭诗人食指的《相信未来》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256705773)<br>不将就<br>2018-05-09 22:45<br>赞(0) 踩(0) | <div><a href="https://m.bilibili.com/video/av23010915.html" target="_blank" rel="nofollow noreferrer noopener">https://m.bilibili.com/video/av23010915.html</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334916611)<br><br>2018-05-06 11:11<br>赞(0) 踩(0) | <div>好听</div> |
@@ -214,7 +214,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309310812)<br> <br>2018-04-04 01:32<br>赞(2) 踩(0) | <div>汪峰还是很有实力的！态度也是有标新立异的。看看他的简介，也很是让我佩服。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343390767)<br><br>2018-03-31 06:25<br>赞(2) 踩(0) | <div>就喜欢这种感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332007429)<br><br>2018-03-28 17:42<br>赞(0) 踩(0) | <div>喜欢，超级无敌 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293137770)<br>新歌不想听，老歌不敢听！<br>2018-03-22 20:01<br>赞(430) 踩(0) | <div>以前听歌，听的是旋律后来听歌，听的是歌词然后听歌，听的是故事现在听歌，听的是自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293137770)<br>新歌不想听，老歌不敢听！<br>2018-03-22 20:01<br>赞(430) 踩(0) | <div>以前听歌，听的是旋律<br>后来听歌，听的是歌词<br>然后听歌，听的是故事<br>现在听歌，听的是自己</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357526548)<br><br>2018-04-09 22:15<br>赞(0) 踩(0) | <div>名字和评论都很</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314797915)<br><br>2018-05-02 15:56<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293137770)<br>新歌不想听，老歌不敢听！<br>2018-05-02 20:50<br>赞(0) 踩(0) | <div><q><b>灵巧爱女人说：</b></q></div> |

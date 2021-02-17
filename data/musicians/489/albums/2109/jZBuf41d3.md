@@ -42,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435227660)<br> <br>2020-08-24 01:42<br>赞(0) 踩(0) | <div>北京的天气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435227660)<br> <br>2020-04-19 00:25<br>赞(1) 踩(0) | <div>北京的冬天好冷的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441181445)<br><br>2020-03-30 16:35<br>赞(1) 踩(0) | <div>害</div> |
@@ -139,8 +139,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5705193)<br> <br>2017-10-27 23:29<br>赞(0) 踩(0) | <div>喜欢这个调调。。“北京的冬天， 飘着白雪 ，这纷飞的季节 ，让我无法拒绝 。想你的冬天 飘着白雪 ，丢失的从前 让我无法拒绝 。飘雪的黑夜 是寂寞的人的天堂 ，独自在街上 躲避着节日里欢乐的地方 。远方的城市里 是否有个人和我一样 ，站在窗前 幻想对方的世界”。。回不去的，是冬天飘雪的故土。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3800)<br><br>2017-10-27 23:18<br>赞(0) 踩(0) | <div>上海的冬天很少下雪，喜歡雪，純淨的雪。有機會一定要到北京去看雪，我喜歡背景的冬天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1828425)<br>听歌才是正经事<br>2017-10-27 23:18<br>赞(0) 踩(0) | <div>只要下雪 就想听这首歌 似乎都成条件反射了。。。真的好难表达我有多喜欢雪 多喜欢冬天！！！虽然明儿还要上班 但兴奋的还是睡不着！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9413109)<br><br>2017-10-27 23:05<br>赞(0) 踩(0) | <div>保罗策兰《冬》下雪了 妈妈 雪落在乌克兰救世主的光环是万千颗粒的愁苦在这里 我的泪水够不到你往日的招手只留下那默默傲世的一别我们就要死去 棚屋你何不眠？这风 也像被驱赶者那样逃散是他们吗 那些在炉渣中冰凉的人------心旌飘飘 臂是烛台？我在黑暗中依然故我柔能解愁 刚则断肠？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9413109)<br><br>2017-10-27 23:05<br>赞(0) 踩(0) | <div>下雪了妈妈 雪落在乌克兰 救世主的光环是万千颗粒的愁苦在这里我的泪水够不到你 往日的招手只留下那傲世的一别我们就要死去 棚屋你何不眠？这风 也像被驱赶者那样逃散是他们吗 那些在炉渣中冰凉的人------心旌飘飘 臂是烛台？我在黑暗中依然故我柔能解愁 刚则断肠？-----保罗策兰《冬》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9413109)<br><br>2017-10-27 23:05<br>赞(0) 踩(0) | <div>保罗策兰《冬》下雪了 妈妈 雪落在乌克兰<br>救世主的光环是万千颗粒的愁苦<br>在这里 我的泪水够不到你<br>往日的招手只留下那默默傲世的一别<br><br><br>我们就要死去 棚屋你何不眠？<br>这风 也像被驱赶者那样逃散<br>是他们吗 那些在炉渣中冰凉的人------<br>心旌飘飘 臂是烛台？<br><br><br>我在黑暗中依然故我<br>柔能解愁 刚则断肠？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9413109)<br><br>2017-10-27 23:05<br>赞(0) 踩(0) | <div>下雪了妈妈 雪落在乌克兰 救世主的光环是万千颗粒的愁苦<br>在这里我的泪水够不到你 往日的招手只留下那傲世的一别<br><br>我们就要死去 棚屋你何不眠？<br>这风 也像被驱赶者那样逃散<br>是他们吗 那些在炉渣中冰凉的人------<br>心旌飘飘 臂是烛台？<br><br>我在黑暗中依然故我<br>柔能解愁 刚则断肠？-----保罗策兰《冬》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199263)<br><br>2017-10-27 23:03<br>赞(2) 踩(0) | <div>想去北京看雪，去单向街花家地从早吃到晚，看书逗猫调戏咖啡师小哥儿。能写完论文就去，嗯嗯。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252528709)<br>不破不立。<br>2017-11-25 09:18<br>赞(0) 踩(0) | <div>北京欢迎你，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7542090)<br>我还没想好要写什么...<br>2017-10-17 21:54<br>赞(3) 踩(0) | <div>上架的还挺是时候儿</div> |
@@ -248,7 +248,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40675192)<br><br>2014-12-11 19:28<br>赞(0) 踩(0) | <div>候鸟已经飞了很远。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22586456)<br>暂无签名~<br>2014-12-11 12:52<br>赞(1) 踩(0) | <div>2014年最心醉的事之一，就是在成都暧昧的夏夜里，听老狼大叔唱了一首，北京的冬天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210182)<br><br>2014-12-10 01:36<br>赞(0) 踩(0) | <div>北京。冬天。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2014-12-04 14:26<br>赞(0) 踩(0) | <div>“冬天冰冷的清晨 躲避着欢乐的人群 幻想对方的城市”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2014-12-04 14:26<br>赞(0) 踩(0) | <div>“冬天<br>冰冷的清晨 躲避着欢乐的人群 幻想对方的城市”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9413109)<br><br>2014-11-30 22:40<br>赞(0) 踩(0) | <div>想你的冬天 刮着狂风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17060200)<br> <br>2014-11-30 08:29<br>赞(1) 踩(0) | <div>在缺少冬日暖阳的南方端着热气腾腾的早餐听着北京的冬天想着上课要迟到了。！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43837455)<br>生活要唱着歌慢慢过。<br>2014-11-29 19:48<br>赞(0) 踩(0) | <div>想再去一次北京感受冬天，吃上次没有吃的奶酪。</div> |
@@ -276,7 +276,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9722497)<br> <br>2014-07-04 16:59<br>赞(0) 踩(0) | <div>反季节听歌 北京的天气特点就是春秋短 夏冬长 夏天湿热 冬天干冷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12428933)<br><br>2014-06-17 19:40<br>赞(0) 踩(0) | <div>我的城市，悠扬的自豪的节奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36535952)<br>杨成<br>2014-06-06 23:43<br>赞(0) 踩(0) | <div>终于知道以前进我的空间的背景音乐了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8648374)<br><br>2014-05-14 23:20<br>赞(0) 踩(0) | <div>就算是愈加闷热烦躁的现在，这首依然能有沉静的作用。你好不好，我还算好，所以你得更好，miss u~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8648374)<br><br>2014-05-14 23:20<br>赞(0) 踩(0) | <div>就算是愈加闷热烦躁的现在，这首依然能有沉静的作用。<br>你好不好，我还算好，所以你得更好，miss u~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36267872)<br>低低低 低调～<br>2014-05-11 23:05<br>赞(0) 踩(0) | <div>似是一种曾经的真实写照。。字字入心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/789880)<br><br>2014-05-09 11:51<br>赞(0) 踩(0) | <div>蒽蒽，无法拒绝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/653543)<br><br>2014-04-27 15:27<br>赞(0) 踩(0) | <div>夏天就要听冬天的歌才凉快啊。</div> |
@@ -301,8 +301,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7633826)<br>永远年轻永远热泪盈眶<br>2013-12-30 10:48<br>赞(0) 踩(0) | <div>除了赵雷的北京的冬天还有这一首 嘴唇变得干裂的时候有人开始忧愁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8236)<br><br>2013-12-28 20:24<br>赞(0) 踩(0) | <div>冬天来了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11788000)<br>候鸟驿站<br>2013-12-27 15:57<br>赞(0) 踩(0) | <div>老狼与他的城——北京</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-23 07:57<br>赞(0) 踩(0) | <div>远方的城市里 是否有个人和我一样站在窗前 幻想对方的世界</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2013-12-23 00:29<br>赞(0) 踩(0) | <div>北京的冬天 飘着白雪纷飞的季节 让我无法拒绝</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-23 07:57<br>赞(0) 踩(0) | <div>远方的城市里 是否有个人和我一样<br>站在窗前 幻想对方的世界</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2013-12-23 00:29<br>赞(0) 踩(0) | <div>北京的冬天 飘着白雪<br>纷飞的季节 让我无法拒绝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5084348)<br><br>2013-12-19 09:52<br>赞(0) 踩(0) | <div>搜出篇文章，要人人上登录。刷出来首页上有张醒目的图，是我们初中的楼道，点进去发现是邱妈的相册，哈哈哈，里面有初中各种照片。哈哈而且有张居然还有我，想写个好怀念啊什么的，可看到最后的留言也在几年之前，还是算了，还是听歌吧~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2536113)<br><br>2013-12-18 12:59<br>赞(0) 踩(0) | <div>配乐好有感觉。。。特别是现在、。。北京的冬天。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10122927)<br>晚安<br>2013-12-18 00:36<br>赞(0) 踩(0) | <div>老伙计，我没忘</div> |
@@ -410,15 +410,15 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1132937)<br>水瓶座的我心思有一点难猜<br>2012-12-20 21:51<br>赞(0) 踩(0) | <div>又想到了这首歌，几乎每个冬天都会听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1542046)<br> <br>2012-12-20 21:13<br>赞(0) 踩(0) | <div>来吧，应个景儿~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8975218)<br><br>2012-12-20 15:20<br>赞(0) 踩(0) | <div>冰冷的早晨，路上停留着寂寞的阳光，拥挤着的人们，里面有让我伤心的姑娘，匆匆走过的时候，不能发现你的面容，就在路上，幻想我们的重逢。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1087165)<br><br>2012-12-18 16:29<br>赞(0) 踩(0) | <div>北风吹进来的那一天侯鸟已经飞了很远我们的爱 变成无休止的期待</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7742700)<br><br>2012-12-16 17:29<br>赞(0) 踩(0) | <div>北京的冬天 飘着北雪这纷飞的季节 让我无法拒绝想你的冬天 飘着白雪丢失的从前 让我无法拒绝飘雪的黑夜 是寂寞的人的天堂独自在街上 躲避着节日的欢乐的地方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1087165)<br><br>2012-12-18 16:29<br>赞(0) 踩(0) | <div>北风吹进来的那一天<br>侯鸟已经飞了很远<br>我们的爱 变成无休止的期待</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7742700)<br><br>2012-12-16 17:29<br>赞(0) 踩(0) | <div>北京的冬天 飘着北雪<br>这纷飞的季节 让我无法拒绝<br>想你的冬天 飘着白雪<br>丢失的从前 让我无法拒绝<br>飘雪的黑夜 是寂寞的人的天堂<br>独自在街上 躲避着节日的欢乐的地方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6996362)<br><br>2012-12-14 10:06<br>赞(0) 踩(0) | <div>来首应景儿的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3775482)<br><br>2012-12-14 08:37<br>赞(0) 踩(0) | <div>这纷飞的季节，让我无法拒绝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8381478)<br><br>2012-12-14 00:26<br>赞(0) 踩(0) | <div>我们的爱 变成无休的期待</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1524217)<br><br>2012-12-13 23:47<br>赞(0) 踩(0) | <div>来个应景的…晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7211236)<br><br>2012-12-13 11:05<br>赞(0) 踩(0) | <div>这里到处都在搞夏季圣诞派对，烤肉滋滋响，你们都肤浅。“我说想起刚来北京的那个冬天，明天好像就躲藏在一扇干净的、结着美丽霜花的窗户后面。” （某博客）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1828425)<br>听歌才是正经事<br>2012-12-12 23:01<br>赞(0) 踩(0) | <div>今天听这歌 再应景不过了 哈哈 晚安~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89668)<br><br>2012-12-12 11:36<br>赞(0) 踩(0) | <div>北京的冬天 飘着北雪这纷飞的季节 让我无法拒绝想你的冬天 飘着白雪丢失的从前 让我无法拒绝........................................</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89668)<br><br>2012-12-12 11:36<br>赞(0) 踩(0) | <div>北京的冬天 飘着北雪<br>这纷飞的季节 让我无法拒绝<br>想你的冬天 飘着白雪<br>丢失的从前 让我无法拒绝........................................</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7324398)<br> <br>2012-12-12 10:57<br>赞(0) 踩(0) | <div>好应景滴歌~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4181795)<br><br>2012-12-12 10:43<br>赞(0) 踩(0) | <div>北京不下雪，我都不好意思听这首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7049564)<br>一杯长岛下肚<br>2012-12-12 10:18<br>赞(0) 踩(0) | <div>今日北京落雪</div> |
@@ -449,7 +449,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4152091)<br>酴釄<br>2012-11-12 00:18<br>赞(0) 踩(0) | <div>世上每一首歌都有一个人可以做里面的主角。世界上有那么多歌和人...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/825734)<br>天上风筝在天上飞<br>2012-11-08 10:43<br>赞(0) 踩(0) | <div>北京的冬天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6695802)<br><br>2012-11-08 04:50<br>赞(0) 踩(0) | <div>北京冬天虽冷,却冻得人清醒,相比之下,这里才是地狱般的鬼天气</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11394562)<br><br>2012-11-07 21:38<br>赞(0) 踩(0) | <div>飘雪的黑夜,是寂寞的人的天堂独自在街上,躲避着节日里欢乐的地方远方的城市里,是否有个人和我一样站在窗前,幻想对方的世界</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11394562)<br><br>2012-11-07 21:38<br>赞(0) 踩(0) | <div>飘雪的黑夜,是寂寞的人的天堂<br>独自在街上,躲避着节日里欢乐的地方<br>远方的城市里,是否有个人和我一样<br>站在窗前,幻想对方的世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11382765)<br><br>2012-11-06 22:56<br>赞(0) 踩(0) | <div>窝在棉被里听这歌，特美，听完就睡，晚安了各位</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85286)<br><br>2012-11-06 22:34<br>赞(0) 踩(0) | <div>从前，我还记得你，可我已不是你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2012-11-06 11:37<br>赞(0) 踩(0) | <div>又一年的冬天，这时光啊</div> |
@@ -485,7 +485,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2192041)<br><br>2012-10-13 22:57<br>赞(0) 踩(0) | <div>这纷飞的季节 让我无法拒绝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/387907)<br>音乐、故事和诗都是诚实的<br>2012-10-12 08:34<br>赞(0) 踩(0) | <div>这是老狼所有歌里我觉得最有意境的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595353)<br>微笑，给你<br>2012-09-19 04:41<br>赞(0) 踩(0) | <div>真想听着这首歌，走在北京冬天夜晚的街道上</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1259140)<br><br>2012-09-06 10:56<br>赞(0) 踩(0) | <div>冰冷的早晨 路上停留着寂寞的阳光拥挤着的人们 里面有让我伤心的姑娘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1259140)<br><br>2012-09-06 10:56<br>赞(0) 踩(0) | <div>冰冷的早晨 路上停留着寂寞的阳光<br>拥挤着的人们 里面有让我伤心的姑娘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2465627)<br><br>2012-08-29 02:03<br>赞(0) 踩(0) | <div>总觉着他还是大学生那时候的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/637148)<br>一个吉他老师<br>2012-08-25 09:45<br>赞(0) 踩(0) | <div>冬天的时候，我会在北京</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9435408)<br>爱旋木<br>2012-08-04 21:19<br>赞(0) 踩(0) | <div>这里的冬天不会下雪</div> |
@@ -529,7 +529,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6760559)<br><br>2011-12-29 12:44<br>赞(0) 踩(0) | <div>北京下雪了啊！你们考试的工作的都加油！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1942335)<br><br>2011-12-26 23:18<br>赞(0) 踩(0) | <div>此时此地，挺应景的。。。北京的冬天，我又来了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326493)<br><br>2011-12-25 13:06<br>赞(0) 踩(0) | <div>应情应景的·····</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5733714)<br><br>2011-12-25 10:19<br>赞(0) 踩(0) | <div>每日一歌。送给在寒冷的冬天需要温暖的我们。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5733714)<br><br>2011-12-25 10:19<br>赞(0) 踩(0) | <div>每日一歌。<br>送给在寒冷的冬天需要温暖的我们。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1287417)<br>我还没想好要写什么...<br>2011-12-23 00:29<br>赞(0) 踩(0) | <div>这个冬天，又想起了北京。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/649177)<br><br>2011-12-22 00:53<br>赞(0) 踩(0) | <div>翻看老狼的出碟时间，分别是1995，2002和2007，那么也许下一张不远了吧。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174486)<br><br>2011-12-16 16:17<br>赞(0) 踩(0) | <div>听着北京的冬天，想着广州的冬天</div> |
@@ -583,7 +583,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3517236)<br>梦想是成为可爱又迷人的反<br>2011-06-23 19:42<br>赞(0) 踩(0) | <div>夏天降温必备，这个调调刚刚好，喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4144695)<br><br>2011-06-23 14:36<br>赞(0) 踩(0) | <div>老狼来了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3336115)<br><br>2011-06-21 15:44<br>赞(0) 踩(0) | <div>郁冬的歌，老狼的声音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4360729)<br><br>2011-06-20 22:53<br>赞(0) 踩(0) | <div>哀叹雪景这样似乎很合情合理的场景冬天感觉是冰冷的季节适合这种让人心冷的事情的发生其实旋律并没有多哀叹而是简单的无奈惋惜思念或者是怀念可能画面不是阴天更多的是阳光照耀在白雪上一个男人看人来人往</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4360729)<br><br>2011-06-20 22:53<br>赞(0) 踩(0) | <div>哀叹<br>雪景<br>这样似乎很合情合理的场景<br>冬天感觉是冰冷的季节<br>适合这种让人心冷的事情的发生<br>其实旋律并没有多哀叹<br>而是简单的无奈<br>惋惜<br>思念<br>或者是怀念<br>可能画面不是阴天<br>更多的是阳光照耀在白雪上<br>一个男人看人来人往</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4054419)<br><br>2011-06-05 14:59<br>赞(0) 踩(0) | <div>热热热...不停地捣鼓水、洗涮也没用。只能听《北京的冬天》— —!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149580)<br><br>2011-05-22 10:39<br>赞(0) 踩(0) | <div>高晓松的奇迹。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1587262)<br> <br>2011-03-31 23:30<br>赞(0) 踩(0) | <div>我怎么这么喜欢这种调啊，无所谓爱与不爱只是一种状态。</div> |
@@ -616,8 +616,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/962133)<br><br>2010-06-17 12:15<br>赞(0) 踩(0) | <div>享受</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60395)<br>春种一粒粟<br>2010-01-16 11:50<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181394)<br><br>2009-12-28 22:27<br>赞(0) 踩(0) | <div>虽然冬天很冷，但这就是冬天~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351661)<br>世间最美的莫不过“遇”<br>2009-11-28 21:16<br>赞(0) 踩(0) | <div>最近偶然听到的发现很好听额~话说以前对于老狼的了解仅限于《同桌的你》</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2009-11-17 18:38<br>赞(0) 踩(0) | <div>选自《你歌我唱》收集了很多我很喜欢的翻唱歌曲，由于虾米开始限制精选歌曲的数量，还做了第二集。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351661)<br>世间最美的莫不过“遇”<br>2009-11-28 21:16<br>赞(0) 踩(0) | <div>最近偶然听到的<br>发现很好听<br>额~<br>话说以前对于老狼的了解仅限于《同桌的你》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2009-11-17 18:38<br>赞(0) 踩(0) | <div>选自《你歌我唱》<br><br>收集了很多我很喜欢的翻唱歌曲，由于虾米开始限制精选歌曲的数量，还做了第二集。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320845)<br><br>2009-11-07 23:33<br>赞(0) 踩(0) | <div>一个人的北京的冬天就听听这个~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320845)<br><br>2009-11-07 23:33<br>赞(0) 踩(0) | <div>一个人的北京的冬天就听听这个~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14167)<br>加油吧<br>2009-10-24 09:14<br>赞(0) 踩(0) | <div>飞天鱼</div> |

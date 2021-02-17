@@ -3,7 +3,7 @@ Kartell
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/084970fd576cc27f8e5001c79e9d756e.jpg)<br>Kartell](https://i.xiami.com/kartell) | **播放数**: 6282099<br>**粉丝数**: 4038<br>**评论数**: 197<br>**地区**: France 法国<br>**风格**: 节奏布鲁斯 R&B, 迪斯科 Disco, 浩室舞曲 House<br> |
+| [![](../../images/musicians/084970fd576cc27f8e5001c79e9d756e.jpg)<br>Kartell](https://i.xiami.com/kartell) | **地区**: France 法国<br>**风格**: 节奏布鲁斯 R&B, 迪斯科 Disco, 浩室舞曲 House<br>**播放数**: 6282099<br>**粉丝数**: 4038<br>**评论数**: 197<br> |
 
 ## 档案
 
@@ -51,13 +51,13 @@ Kartell is a young and gifted house producer whos gripping vibes have made him o
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93081992)<br>so what<br>2020-12-13 21:58<br>赞(1) 踩(0) | <div>因为kartell入了虾米的坑呢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82864204)<br>RocheMusique...<br>2021-01-16 01:05<br>赞(0) 踩(0) | <div>我也是</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49640493)<br>网易云SAINTDONT...<br>2020-11-12 23:57<br>赞(0) 踩(0) | <div>love</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82864204)<br>RocheMusique...<br>2020-09-26 13:36<br>赞(1) 踩(0) | <div>kartell是初衷 当初是在replay上听到</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9319634)<br>我还没想好要写什么...<br>2020-03-08 19:54<br>赞(0) 踩(0) | <div>nice‍♀️</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9319634)<br>我还没想好要写什么...<br>2020-03-08 19:54<br>赞(0) 踩(0) | <div>nice<br>‍♀️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52056952)<br>人生即是到來、相遇、陪伴...<br>2019-12-18 00:32<br>赞(0) 踩(0) | <div><img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71178106)<br>塵世や 酒、風呂を抜け ...<br>2019-06-30 11:27<br>赞(2) 踩(0) | <div>♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51586444)<br>‍再見<br>2019-06-01 21:17<br>赞(0) 踩(0) | <div>太棒了吧！！！</div> |
@@ -70,7 +70,7 @@ Kartell is a young and gifted house producer whos gripping vibes have made him o
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1726687)<br>Hi,bye~<br>2018-10-21 21:46<br>赞(2) 踩(0) | <div>10.11深圳，我是瞎了吗，哭到原地断气</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228843687)<br>懒惰统治人间<br>2018-10-11 20:22<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11906267)<br><br>2018-10-09 13:19<br>赞(0) 踩(0) | <div>厦门福州了解下_(&amp;acute;ཀ`」 &amp;ang;)_</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6449744)<br>我还没想好要写什么...<br>2018-10-05 14:01<br>赞(2) 踩(0) | <div>10月11日 Roche Musique 厂牌夜 Darius/Kartell/Dabeull @ 深圳 OIL Club<a href="https://mp.weixin.qq.com/s/yxXr4KvgpGWwZ4CeDgGiIA" target="_blank" rel="nofollow noreferrer noopener">https://mp.weixin.qq.com/s/yxXr4KvgpGWwZ4CeDgGiIA</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6449744)<br>我还没想好要写什么...<br>2018-10-05 14:01<br>赞(2) 踩(0) | <div>10月11日 Roche Musique 厂牌夜 Darius/Kartell/Dabeull @ 深圳 OIL Club<br><a href="https://mp.weixin.qq.com/s/yxXr4KvgpGWwZ4CeDgGiIA" target="_blank" rel="nofollow noreferrer noopener">https://mp.weixin.qq.com/s/yxXr4KvgpGWwZ4CeDgGiIA</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343026517)<br>听歌类型广阔，只要好听就...<br>2018-09-28 05:27<br>赞(0) 踩(0) | <div>他的歌真的好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22534652)<br>我还没想好要写什么...<br>2018-09-16 03:58<br>赞(0) 踩(0) | <div>French House</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2018-09-01 14:06<br>赞(2) 踩(0) | <div>.</div> |

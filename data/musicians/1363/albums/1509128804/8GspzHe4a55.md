@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266786530)<br>            ...<br>2020-02-26 23:02<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423499985)<br><br>2020-01-02 22:29<br>赞(1) 踩(0) | <div>梵音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10386754)<br>旅程让我们感到快乐,而不...<br>2019-09-16 23:57<br>赞(0) 踩(0) | <div>nice</div> |
@@ -28,7 +25,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13940536)<br>赠人玫瑰，手留余香<br>2018-07-27 18:22<br>赞(2) 踩(0) | <div>第一次听到这曲子就特别喜欢，里面的低吟好棒，听了很多年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19196446)<br>与其彷徨，不若徜徉。<br>2018-06-13 22:10<br>赞(2) 踩(0) | <div>白鹤依稀远飞近，此景一睹可游仙。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40010091)<br>我还没想好要写什么...<br>2018-04-01 05:15<br>赞(3) 踩(0) | <div>虾米换个高清封面吧喂</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343023481)<br><br>2018-03-05 19:21<br>赞(7) 踩(0) | <div>最喜欢的筝界仙子！常老师的作品集《云深处》里有十首非常经典的&amp;ldquo;常式风格&amp;rdquo;筝曲常老师的筝乐曲是看着简单，实际弹奏起来并不容易，特别是上升到精神层次的审美和情感表达！往往所谓&amp;ldquo;简单&amp;rdquo;的反而更难！能够把技术&amp;ldquo;忽略&amp;rdquo;掉，才是真的人琴合一吧，常老师就是这样的筝仙儿如果有机会，一定要去听常静老师的现场音乐会，将会有各路大咖的跨界合作那种精神上的享受，会带给人更多的能量！时空穿越般的跟随音乐流淌，没有过去，没有现在，没有未来，什么都没有！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343023481)<br><br>2018-03-05 19:21<br>赞(7) 踩(0) | <div>最喜欢的筝界仙子！常老师的作品集《云深处》里有十首非常经典的&amp;ldquo;常式风格&amp;rdquo;筝曲<br><br>常老师的筝乐曲是看着简单，实际弹奏起来并不容易，特别是上升到精神层次的审美和情感表达！<br>往往所谓&amp;ldquo;简单&amp;rdquo;的反而更难！能够把技术&amp;ldquo;忽略&amp;rdquo;掉，才是真的人琴合一吧，常老师就是这样的筝仙儿<br>如果有机会，一定要去听常静老师的现场音乐会，将会有各路大咖的跨界合作<br><br>那种精神上的享受，会带给人更多的能量！时空穿越般的跟随音乐流淌，没有过去，没有现在，没有未来，什么都没有！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7011777)<br>输一切别输微笑<br>2018-02-08 20:25<br>赞(0) 踩(0) | <div>贝斯好叼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40010091)<br>我还没想好要写什么...<br>2018-01-25 22:35<br>赞(0) 踩(0) | <div>有水琴吧这开头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52287597)<br>我已经长成我喜欢的男子模...<br>2017-10-06 11:36<br>赞(1) 踩(0) | <div>我的天&amp;hellip;</div> |

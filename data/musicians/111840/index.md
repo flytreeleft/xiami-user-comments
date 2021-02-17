@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5ab25c10e1124d20d35090e7789f7342.jpg)<br>胡不一](https://i.xiami.com/kubotao) | **播放数**: 1950893<br>**粉丝数**: 1419<br>**评论数**: 140<br>**地区**: China 中国大陆<br>**风格**: 放克电子 Electro (Electro-Funk), 中国民乐 Chinese Folk Music, 独立流行 Indie Pop, 新世纪, 世界音乐<br> |
+| [![](../../images/musicians/5ab25c10e1124d20d35090e7789f7342.jpg)<br>胡不一](https://i.xiami.com/kubotao) | **地区**: China 中国大陆<br>**风格**: 放克电子 Electro (Electro-Funk), 中国民乐 Chinese Folk Music, 独立流行 Indie Pop, 新世纪, 世界音乐<br>**播放数**: 1950893<br>**粉丝数**: 1419<br>**评论数**: 140<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-10-08 13:48<br>赞(0) 踩(0) | <div>20201008.140</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4270553)<br>我的黑暗是为早逝埋下的伏...<br>2020-09-21 22:09<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4990721)<br>你对下限一无所知～～～<br>2020-07-08 09:59<br>赞(0) 踩(0) | <div>舒服~安逸~好听~</div> |

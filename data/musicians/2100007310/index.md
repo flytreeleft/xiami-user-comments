@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a426e1f9d542bb0edf6b04e5e8570e14.jpg)<br>张静](https://i.xiami.com/zhangjingshanxi) | **播放数**: 5394646<br>**粉丝数**: 194<br>**评论数**: 12<br>**地区**: China 中国大陆<br>**风格**: 当代民谣 Contemporary Folk, 流行摇滚 Pop Rock, 国语流行 Mandarin Pop, 电音流行 Electropop<br> |
+| [![](../../images/musicians/a426e1f9d542bb0edf6b04e5e8570e14.jpg)<br>张静](https://i.xiami.com/zhangjingshanxi) | **地区**: China 中国大陆<br>**风格**: 当代民谣 Contemporary Folk, 流行摇滚 Pop Rock, 国语流行 Mandarin Pop, 电音流行 Electropop<br>**播放数**: 5394646<br>**粉丝数**: 194<br>**评论数**: 12<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -27,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-17 11:17<br>赞(0) 踩(0) | <div>46602</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268898591)<br>我爱你。永远都爱，一直都...<br>2020-01-26 05:48<br>赞(0) 踩(0) | <div>歌手功力不俗！不知有后续否？很看好她！加油，期待更多精品！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307263445)<br><br>2018-09-13 09:35<br>赞(0) 踩(0) | <div>你的歌太好听了，支持你！</div> |

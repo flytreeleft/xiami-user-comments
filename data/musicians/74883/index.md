@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f9f9f1c8f4abbf06ba866590fb65f681.jpg)<br>王童语](https://i.xiami.com/wangtongyu) | **播放数**: 29467474<br>**粉丝数**: 17200<br>**评论数**: 84<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 民谣 Folk<br> |
+| [![](../../images/musicians/f9f9f1c8f4abbf06ba866590fb65f681.jpg)<br>王童语](https://i.xiami.com/wangtongyu) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 民谣 Folk<br>**播放数**: 29467474<br>**粉丝数**: 17200<br>**评论数**: 84<br> |
 
 ## 档案
 
@@ -125,8 +125,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-11-30 11:42<br>赞(0) 踩(0) | <div>42534</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1499751)<br><br>2020-06-09 14:36<br>赞(0) 踩(0) | <div>哄自己必听［丫头］</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53839081)<br><br>2020-05-29 16:19<br>赞(1) 踩(0) | <div>为什么没有  大叔这首歌   什么鬼  求更新</div> |
@@ -136,7 +136,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429188728)<br><br>2019-08-29 06:40<br>赞(0) 踩(0) | <div>这么多年一直念念不忘的就是《倩女奇冤》中全部的插曲及背景音乐，可就是找不到，每次都要重温一遍《倩女奇冤》，每一次都觉得其中的歌与曲让人痛到骨髓，期待《倩女奇冤》的插曲及背景音乐可以让更多的人轻松找寻到。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333885671)<br><br>2019-07-17 11:15<br>赞(0) 踩(0) | <div>很特别的丫头 <img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> 希望丫头一切都好 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262552141)<br><br>2019-06-12 19:31<br>赞(0) 踩(0) | <div>喜欢你的歌  加油</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50644722)<br>简单生活，音乐升华灵魂<br>2019-04-07 19:10<br>赞(0) 踩(0) | <div>听着你的歌，突然觉得有点似曾相似的感觉有木有点周传雄</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50644722)<br>简单生活，音乐升华灵魂<br>2019-04-07 19:10<br>赞(0) 踩(0) | <div>听着你的歌，突然觉得有点似曾相似的感觉<br>有木有点周传雄</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14665785)<br> <br>2019-04-04 09:35<br>赞(2) 踩(0) | <div>我记得第一次听丫头这首歌的时候是在大街上，有家店里在放，我还网上找了很久这首歌的名字叫什么，每当听到这首歌就想哭，可就是喜欢听！想想之前我也是他最疼爱的丫头，跟他在一起时候什么也没有，结婚后条件变好了，他却爱上别人～离不是（有孩子一岁多）不离又沉寂在背叛的阴影中……快一年了，还放不下， <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421794172)<br>低调做人，高调做事<br>2019-03-24 15:50<br>赞(1) 踩(0) | <div>用心，用爱， <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361207775)<br><br>2019-03-11 00:35<br>赞(1) 踩(0) | <div>很好听的歌曲</div> |

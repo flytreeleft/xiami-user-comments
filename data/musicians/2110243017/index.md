@@ -3,7 +3,7 @@ Rwind Top Shelf NCS
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8ebd6e96d8963b2153576167d1103c2f.png)<br>Rwind Top Shelf NCS](https://i.xiami.com/rwindremixncs) | **播放数**: 6062847<br>**粉丝数**: 894<br>**评论数**: 39<br>**地区**: United States of America 美国<br>**风格**: 另类舞曲 Alternative Dance, 电子 Electronic<br> |
+| [![](../../images/musicians/8ebd6e96d8963b2153576167d1103c2f.png)<br>Rwind Top Shelf NCS](https://i.xiami.com/rwindremixncs) | **地区**: United States of America 美国<br>**风格**: 另类舞曲 Alternative Dance, 电子 Electronic<br>**播放数**: 6062847<br>**粉丝数**: 894<br>**评论数**: 39<br> |
 
 ## 档案
 
@@ -78,8 +78,8 @@ Rwind Top Shelf NCS,简称   RTSN无版权音乐厂牌
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440728986)<br><br>2020-11-29 19:48<br>赞(1) 踩(0) | <div>wtf what a heck</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440728986)<br><br>2020-11-29 19:47<br>赞(0) 踩(0) | <div>veryyyyyyyyy good!!!!!!! oh my Gosh</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377146899)<br>Anti-TikTok ...<br>2020-11-13 21:43<br>赞(2) 踩(0) | <div>Go f yourself and stop steeling songs from NCS and other music producers you better delete this or make these songs free or next day your mom is gonna explode with blood spreading inside your mom's house everywhere do you understand b***h?</div> |
@@ -115,6 +115,6 @@ Rwind Top Shelf NCS,简称   RTSN无版权音乐厂牌
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335107194)<br><br>2017-11-13 19:59<br>赞(13) 踩(0) | <div>Dude, you spell your name wrong... it should be Rewind..wait.. Are you rewind or Top Shelf sound,WTF, Top shelf sound&amp;rsquo;s youtube channel has been banned... Sorry for my bad English.. wait, you speak Chinese?</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283748021)<br>KeEp IT MeLl...<br>2018-05-31 11:32<br>赞(0) 踩(0) | <div>You can't be serious</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440975484)<br>怎么说呢<br>2020-05-06 08:48<br>赞(0) 踩(0) | <div>Sorry,I don't speak English</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442841922)<br>孤<br>2020-05-17 12:59<br>赞(0) 踩(0) | <div>给大家一个翻译。。。伙计，你把你的名字拼错了...应该是倒带..等待..你是倒带还是顶架声音，WTF，顶；youtube频道已经被禁止...抱歉我的英语不好..等等，你会说中文？</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441936326)<br>我去哪儿听歌啊<br>2020-12-12 18:45<br>赞(0) 踩(0) | <div>翻译：伙计，你的名字拼错了。...应该倒带..等待..你是倒带还是顶部货架声音，WTF，顶部货架声音的youtube频道被禁止了。...抱歉我的英语不好。..等等，你会说中文？我：Oh my god！I don't speak English！ma fan nin speak Chinese？</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442841922)<br>孤<br>2020-05-17 12:59<br>赞(0) 踩(0) | <div>给大家一个翻译。。。<br>伙计，你把你的名字拼错了...应该是倒带..等待..你是倒带还是顶架声音，WTF，顶；youtube频道已经被禁止...抱歉我的英语不好..等等，你会说中文？</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441936326)<br>我去哪儿听歌啊<br>2020-12-12 18:45<br>赞(0) 踩(0) | <div>翻译：伙计，你的名字拼错了。...应该倒带..等待..你是倒带还是顶部货架声音，WTF，顶部货架声音的youtube频道被禁止了。...抱歉我的英语不好。..等等，你会说中文？<br>我：Oh my god！I don't speak English！ma fan nin speak Chinese？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278981178)<br>哎呀大哥哥不好意思啦<br>2017-10-21 18:18<br>赞(3) 踩(0) | <div>怎么可能没人评论啊！这是我听过最讚的啦！我要抢着做第一个</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c286c50d025e5b1158db39b4ba2d4be8.jpg)<br>青叶市子](https://i.xiami.com/aoba_ichiko) | **播放数**: 2570143<br>**粉丝数**: 5878<br>**评论数**: 200<br>**地区**: Japan 日本<br>**风格**: 民谣 Folk, 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/c286c50d025e5b1158db39b4ba2d4be8.jpg)<br>青叶市子](https://i.xiami.com/aoba_ichiko) | **地区**: Japan 日本<br>**风格**: 民谣 Folk, 独立民谣 Indie Folk<br>**播放数**: 2570143<br>**粉丝数**: 5878<br>**评论数**: 200<br> |
 
 ## 档案
 
@@ -38,8 +38,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9062060)<br>此生没拿一个亿来爱虾米是...<br>2021-01-25 20:51<br>赞(0) 踩(0) | <div><img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410175639)<br><br>2020-12-21 14:36<br>赞(0) 踩(0) | <div>虾米厉害了，居然有外国音乐人入驻，声音好听，适合安静的心情 <img src="../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/933157)<br>泥豪啊同志！<br>2020-12-17 02:02<br>赞(0) 踩(0) | <div>已</div> |
@@ -51,7 +51,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225730375)<br>我爱你. zl<br>2020-06-22 13:26<br>赞(0) 踩(0) | <div>原来你来过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317204786)<br>diru/sukekiy...<br>2020-06-12 12:10<br>赞(0) 踩(0) | <div>这才是我心中的民谣，自然质谱，没有多余的做作的情感。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354017434)<br>我们生来就是孤独。<br>2020-05-25 22:52<br>赞(0) 踩(0) | <div>她的歌声为什么这么美好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354017434)<br>我们生来就是孤独。<br>2020-04-24 12:54<br>赞(0) 踩(0) | <div>真的好喜欢她不说别的，市子小姐就是我最喜欢的样子啊，弹上一手清澈的吉他，歌声与吉他声音意境悠然，嘴里哼哼几句自己写的小词，想快就快想慢就慢，节奏超级可爱啊，歌词很文艺，不知道怎么一听到市子小姐的歌脑海里就浮现出绿子一边喝酒一边看火灾，用不羁的样子说出着深深的话，漫不经心却真诚。怎么说，真的像一只春天在草地打滚的熊，太棒啦若是能这样将自己的态度用歌声琴声轻轻表达出来，是我能想到最幸福的事了市子小姐就是我最最最羡慕的那种人啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354017434)<br>我们生来就是孤独。<br>2020-04-24 12:54<br>赞(0) 踩(0) | <div>真的好喜欢她<br>不说别的，市子小姐就是我最喜欢的样子啊，弹上一手清澈的吉他，歌声与吉他声音意境悠然，嘴里哼哼几句自己写的小词，想快就快想慢就慢，节奏超级可爱啊，歌词很文艺，不知道怎么一听到市子小姐的歌脑海里就浮现出绿子一边喝酒一边看火灾，用不羁的样子说出着深深的话，漫不经心却真诚。怎么说，真的像一只春天在草地打滚的熊，太棒啦<br>若是能这样将自己的态度用歌声琴声轻轻表达出来，是我能想到最幸福的事了<br>市子小姐就是我最最最羡慕的那种人啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442149251)<br><br>2020-04-12 13:10<br>赞(0) 踩(0) | <div>第一次听见如此干净的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343770625)<br><br>2020-04-12 05:58<br>赞(0) 踩(0) | <div>收藏了，喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405009343)<br>我还没想好要写什么...<br>2020-04-08 16:03<br>赞(0) 踩(0) | <div></div> |
@@ -115,7 +115,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284548865)<br><br>2017-04-06 13:06<br>赞(86) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433939791)<br>我还没想好要写什么...<br>2020-04-01 23:00<br>赞(0) 踩(0) | <div>哈！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10584399)<br>I don’t <br>2017-04-05 05:31<br>赞(0) 踩(0) | <div>现在才知道她们的好。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/614163)<br><br>2017-04-02 22:46<br>赞(12) 踩(0) | <div>四月份来中国巡演！！随时的奇迹 青叶市子2017首次中国巡演4月13日 北京发布会/乐空间 4月14日 广州/TU凸空间 4月15日 杭州/MAO 4月16日 上海/万代南梦宫</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/614163)<br><br>2017-04-02 22:46<br>赞(12) 踩(0) | <div>四月份来中国巡演！！随时的奇迹 青叶市子2017首次中国巡演<br>4月13日 北京发布会/乐空间 4月14日 广州/TU凸空间 4月15日 杭州/MAO 4月16日 上海/万代南梦宫</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16135450)<br><br>2017-04-02 00:17<br>赞(0) 踩(0) | <div>9357</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262255929)<br><br>2017-03-31 22:28<br>赞(0) 踩(0) | <div>通灵、舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2523233)<br>太热<br>2017-03-29 13:46<br>赞(4) 踩(0) | <div>青葉市子首次来国内巡演， 4月13日 北京（无演出，发布会，免费唱五首歌）4月14日 广州，4月15日 杭州，4月16日 上海。</div> |
@@ -158,7 +158,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39968630)<br>Harder,bette...<br>2015-02-16 12:38<br>赞(0) 踩(0) | <div>治愈啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44368575)<br> <br>2015-02-13 04:05<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2006623)<br><br>2015-02-03 08:36<br>赞(0) 踩(0) | <div>归零</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10052412)<br>暂无签名~<br>2014-12-17 22:09<br>赞(0) 踩(0) | <div>程璧姐姐的推荐。哎，听完莫名叹惋</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10052412)<br>暂无签名~<br>2014-12-17 22:09<br>赞(0) 踩(0) | <div>程璧姐姐的推荐。<br>哎，听完莫名叹惋</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34646776)<br><br>2014-12-17 22:25<br>赞(0) 踩(0) | <div>我也是看了程璧的推荐找来的呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19016927)<br><br>2014-11-29 22:23<br>赞(0) 踩(0) | <div>（＊￣︶￣＊）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30814222)<br>环望周围，身边唯有音乐，...<br>2014-11-22 18:00<br>赞(0) 踩(0) | <div>好宁静的歌，专辑的封面也是完全的纯色，很美，很静。。</div> |
@@ -182,7 +182,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7365010)<br>超然<br>2014-02-26 04:33<br>赞(1) 踩(0) | <div>贞子姐姐原来也会唱歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32514430)<br><br>2014-02-09 20:02<br>赞(0) 踩(0) | <div>好空灵的声音。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1030263)<br>躲个猫猫笑破肚<br>2014-02-08 23:22<br>赞(0) 踩(0) | <div>声音和封面一样纯。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2409310)<br>¯﹃¯<br>2014-01-24 09:25<br>赞(1) 踩(0) | <div>霸气侧漏的封面……风格有点像手嶌葵</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2409310)<br>¯﹃¯<br>2014-01-24 09:25<br>赞(1) 踩(0) | <div>霸气侧漏的封面……<br>风格有点像手嶌葵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9995548)<br><br>2014-01-17 16:20<br>赞(0) 踩(0) | <div>歌声入脑不忘。封面印象深刻。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1743707)<br><br>2014-01-08 16:28<br>赞(0) 踩(0) | <div>青叶柿子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1156476)<br>四体不勤，五谷不分<br>2014-01-07 17:06<br>赞(0) 踩(0) | <div>很舒服的青菜叶子</div> |
@@ -197,7 +197,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12849864)<br>无污染，抗虫害。<br>2013-08-25 21:47<br>赞(1) 踩(0) | <div>这位是消暑良将！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8392193)<br><br>2013-05-30 10:06<br>赞(0) 踩(0) | <div>低沉稳定的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12026079)<br>文藝女中年，素喜惡趣味。<br>2013-05-29 13:19<br>赞(0) 踩(0) | <div>辗转低吟，徘徊不去</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4395356)<br><br>2013-05-28 22:55<br>赞(0) 踩(0) | <div>致郁的感觉简直让我不能自拔了=v=伴随着有点恋人未满的小情绪,瞬间内心就被歌曲填的满满的了!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4395356)<br><br>2013-05-28 22:55<br>赞(0) 踩(0) | <div>致郁的感觉简直让我不能自拔了=v=<br>伴随着有点恋人未满的小情绪,<br>瞬间内心就被歌曲填的满满的了!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231783)<br>我还没想好要写什么...<br>2013-05-09 18:53<br>赞(0) 踩(0) | <div>青菜叶子 哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/919960)<br>再見了 蝦米<br>2013-05-06 21:02<br>赞(0) 踩(0) | <div>喜歡這種感覺</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3564949)<br>男子汉如我<br>2013-05-03 10:46<br>赞(115) 踩(0) | <div>...我竟然看成了青菜叶子...跪..</div> |

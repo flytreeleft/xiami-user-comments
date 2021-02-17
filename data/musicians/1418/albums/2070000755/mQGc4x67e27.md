@@ -65,8 +65,8 @@ SP 环球音乐出版股份有限公司
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12364495)<br><br>2020-03-25 23:42<br>赞(0) 踩(0) | <div>两个版本都好喜欢，还好我之前下载了，那个版确实更走心一些。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50093825)<br>。<br>2020-01-08 16:25<br>赞(0) 踩(0) | <div>: )</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324321288)<br>我还没想好要写什么...<br>2019-11-23 12:08<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
@@ -137,7 +137,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4838658)<br>我还没想好要写什么...<br>2014-05-29 01:56<br>赞(1) 踩(0) | <div>当“做爱”变成一种潜规则</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8543156)<br> <br>2014-04-04 20:31<br>赞(3) 踩(0) | <div>他穿上衣服一切就结束了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/883275)<br><br>2014-04-04 13:47<br>赞(0) 踩(0) | <div>“你早就习惯了。”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33270632)<br><br>2014-03-16 13:31<br>赞(0) 踩(0) | <div>有一种爱 你怎么也放不下骗自己他所言不假 眼都不眨计划赶不上他变化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33270632)<br><br>2014-03-16 13:31<br>赞(0) 踩(0) | <div>有一种爱 你怎么也放不下<br>骗自己他所言不假 眼都不眨<br>计划赶不上他变化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7811830)<br><br>2014-02-23 16:55<br>赞(1) 踩(0) | <div>今天我的好歌推荐是；陈珊妮《一个人》推荐理由；周末慢生活从昨天开始我连看了两场陈珊妮的演唱会她的作品很文艺她的创作我很偏爱她的声音特别适合在安静的时候听很适合周末慢生活这个主题这首《一个人》很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6108690)<br> <br>2014-02-16 15:22<br>赞(0) 踩(0) | <div>他穿上衣服一切就结束了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28036920)<br><br>2014-02-16 13:23<br>赞(0) 踩(0) | <div>&amp;quot;有一个人你要他完美无瑕 不如坐下来喝杯茶&amp;quot; 满身的狗皮膏药，难受死了，赶紧睡一觉起来擦地吧···</div> |
@@ -181,7 +181,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13692824)<br><br>2013-08-08 23:56<br>赞(0) 踩(0) | <div>喜欢在这样的夜晚 听一首她的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13708447)<br>走不出的隧道里<br>2013-08-07 23:54<br>赞(0) 踩(0) | <div>MV好纯净 。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13645805)<br>让我感谢你 赠我空欢喜<br>2013-08-02 15:52<br>赞(0) 踩(0) | <div>虽然觉得后段歌词有点不太觉得完美</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5389819)<br>hey u<br>2013-08-02 14:17<br>赞(0) 踩(0) | <div>一個人放一個平凡的假，就坐下來喝杯茶特別喜歡間奏的吉他聲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5389819)<br>hey u<br>2013-08-02 14:17<br>赞(0) 踩(0) | <div>一個人放一個平凡的假，就坐下來喝杯茶<br>特別喜歡間奏的吉他聲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17576300)<br>音楽<br>2013-08-01 17:20<br>赞(0) 踩(0) | <div>＂当错爱变成一种潜规则 你也习惯了＂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1393582)<br> <br>2013-08-01 01:15<br>赞(0) 踩(0) | <div>“说穿了，就算不上爱情了。当错爱变成一种潜规则，你也习惯了。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10524874)<br><br>2013-07-31 19:59<br>赞(0) 踩(0) | <div>慵懒的一下午</div> |
@@ -194,9 +194,9 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11169711)<br><br>2013-07-23 14:06<br>赞(0) 踩(0) | <div>年纪大了有一种混沌感，但女神还是女神</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1503324)<br><br>2013-07-21 18:36<br>赞(0) 踩(0) | <div>读书写字。画画弹琴。吃饭睡觉。时间静止了。舒服得不想转换。这个周末在这首歌之后。要回归现实。只是我还在挣扎。离开或者留下。我真的无法确定。这样的生活还要坚持多久。活着。应该是永远的向心运动吧。我总不能自欺的快乐。掩饰或者不语、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17767430)<br><br>2013-07-21 02:03<br>赞(0) 踩(0) | <div>说穿了.那就败给命运了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1731756)<br><br>2013-07-21 00:01<br>赞(0) 踩(0) | <div>说穿了 那就谈不上爱情了看穿了 矜持着高贵品德</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1731756)<br><br>2013-07-21 00:01<br>赞(0) 踩(0) | <div>说穿了 那就谈不上爱情了<br>看穿了 矜持着高贵品德</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6245375)<br><br>2013-07-19 01:13<br>赞(0) 踩(0) | <div>一个人的快乐..</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10602877)<br>我还没想好要写什么...<br>2013-07-19 00:45<br>赞(0) 踩(0) | <div>说穿了 那就会败给命运了看穿了 维持这精美容颜也算难得</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10602877)<br>我还没想好要写什么...<br>2013-07-19 00:45<br>赞(0) 踩(0) | <div>说穿了 那就会败给命运了<br>看穿了 维持这精美容颜<br>也算难得</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2152410)<br><br>2013-07-18 18:03<br>赞(0) 踩(0) | <div>一个人在等一个人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12634715)<br><br>2013-07-17 21:24<br>赞(0) 踩(0) | <div>『说穿了 那就谈不上爱情了。』</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12634715)<br><br>2013-07-17 21:09<br>赞(0) 踩(0) | <div>说穿了 那就谈不上爱情了。</div> |
@@ -231,7 +231,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/679277)<br><br>2013-07-09 08:12<br>赞(0) 踩(0) | <div>他所言不假，眼都不眨。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3978208)<br><br>2013-07-08 23:25<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6546317)<br><br>2013-07-08 20:53<br>赞(0) 踩(0) | <div>好听～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296209)<br><br>2013-07-08 16:46<br>赞(0) 踩(0) | <div>#谈心# 感觉这种东西，拖着拖着我们就老了。与其担心不如顺其自然，不是自己的来了也要走，是自己就算晚来还是会来。结果我无法控制，既然美好不美好都无法控制，何不让自己在这个过程美好呢，只要我知道我站得起来就好。人生都是充满意外的，属于你我的惊喜总会不期而至。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296209)<br><br>2013-07-08 16:46<br>赞(0) 踩(0) | <div>#谈心# 感觉这种东西，拖着拖着我们就老了。与其担心不如顺其自然，不是自己的来了也要走，是自己就算晚来还是会来。结果我无法控制，既然美好不美好都无法控制，<br>何不让自己在这个过程美好呢，只要我知道我站得起来就好。人生都是充满意外的，属于你我的惊喜总会不期而至。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11537153)<br>真是什么都听诶。<br>2013-07-06 23:27<br>赞(0) 踩(0) | <div>我感觉陈珊妮的歌有的还是很“成熟”的，像我这种单纯的人，有时很难体会。，比如像christine这样的，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1072844)<br><br>2013-07-06 14:22<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9754129)<br>我是一颗向日葵<br>2013-07-06 01:11<br>赞(0) 踩(0) | <div>有一个人，你要他完美无暇，不如坐下来喝杯茶。当错爱变成一种潜规则，你也习惯了。</div> |

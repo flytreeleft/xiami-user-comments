@@ -44,5 +44,3 @@ Fare thee well my honey fare thee well
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

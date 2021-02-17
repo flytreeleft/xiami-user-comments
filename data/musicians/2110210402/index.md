@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e3fa956e2646d09510a7346c294ffcce.jpg)<br>赵一磊](https://i.xiami.com/zhaoyilei) | **播放数**: 1727857<br>**粉丝数**: 57<br>**评论数**: 1<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/e3fa956e2646d09510a7346c294ffcce.jpg)<br>赵一磊](https://i.xiami.com/zhaoyilei) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 1727857<br>**粉丝数**: 57<br>**评论数**: 1<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -34,6 +31,6 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307644840)<br><br>2017-07-18 13:12<br>赞(2) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

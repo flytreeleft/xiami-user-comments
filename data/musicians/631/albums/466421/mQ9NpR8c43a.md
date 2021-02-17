@@ -49,9 +49,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 22:01<br>赞(0) 踩(0) | <div>「属于《One Magic Day》里面一首两分钟的&amp;ldquo;歌仔&amp;rdquo;，没有答案，只有问题，没有结论，只有过程；想要和需要是两回事，却都是相对的；好坏、多少、轻重... 也是相对的，想想想想想，问题本身可能已经是答案，答案里面仍然存在很多问题，我每天仍然在问自己：这刻我需要/想要什么？」&amp;mdash;&amp;mdash;一峰2020.4.15于微博</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 22:01<br>赞(0) 踩(0) | <div>「属于《One Magic Day》里面一首两分钟的&amp;ldquo;歌仔&amp;rdquo;，没有答案，只有问题，没有结论，只有过程；想要和需要是两回事，却都是相对的；好坏、多少、轻重... 也是相对的，想想想想想，问题本身可能已经是答案，答案里面仍然存在很多问题，我每天仍然在问自己：这刻我需要/想要什么？」<br>&amp;mdash;&amp;mdash;一峰<br>2020.4.15于微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23800876)<br> <br>2017-10-22 23:27<br>赞(0) 踩(0) | <div>有毒……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26339272)<br><br>2015-09-17 23:35<br>赞(0) 踩(0) | <div>有个性</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8946950)<br>灌不饱的耳朵<br>2014-09-29 20:55<br>赞(0) 踩(0) | <div>爱很多，爱人很少</div> |

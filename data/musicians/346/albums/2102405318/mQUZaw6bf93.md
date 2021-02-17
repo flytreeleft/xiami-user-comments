@@ -60,8 +60,8 @@ rap：<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303201630)<br>我还没想好要写什么...<br>2018-09-27 07:12<br>赞(1) 踩(0) | <div>2018年8月26日，周末，一起驱车去的Biosphere 2，当时特意给你放的这首歌，希望能给这首歌注入一些难忘的回忆&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284795015)<br>别惹我！我超凶的！<br>2018-06-06 15:42<br>赞(1) 踩(0) | <div>后弦的歌总是让人很轻松 听着很舒心 从前就很喜欢他 现在依旧喜欢 他也一直不变 想要保持一个度真的好难 但 他却做到了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294265016)<br>只是喜欢这头像而已<br>2018-05-07 09:40<br>赞(0) 踩(0) | <div>不错，不错，我喜欢！</div> |
@@ -125,7 +125,7 @@ rap：<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303530027)<br><br>2017-11-09 15:29<br>赞(0) 踩(0) | <div>声音好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323996823)<br>我的爱是成为更好的自己！<br>2017-11-03 11:48<br>赞(0) 踩(0) | <div>又到了周末</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309061942)<br>炎热的夏日、有音乐、享受...<br>2017-10-31 19:58<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224274154)<br><br>2017-10-28 17:54<br>赞(1) 踩(0) | <div>喜欢一女孩那你就去追喜欢一首歌那你就去听愛已所愛就可以了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224274154)<br><br>2017-10-28 17:54<br>赞(1) 踩(0) | <div>喜欢一女孩那你就去追<br>喜欢一首歌那你就去听<br>愛已所愛就可以了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283432726)<br><br>2017-10-25 15:00<br>赞(2) 踩(0) | <div>的确写得唱得很好。可惜太像周杰伦的风格。注定是在那个阴影下。希望有突破的一天，那天听起来不再像周杰伦的味道就是走向成功的开始</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306367206)<br><br>2017-11-25 13:31<br>赞(0) 踩(0) | <div>拿后弦和周杰伦比，周算什么东西？！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283432726)<br><br>2018-03-01 08:48<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
@@ -302,7 +302,7 @@ rap：<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296294161)<br><br>2017-06-07 19:14<br>赞(0) 踩(0) | <div><q><b>静悄悄说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287733011)<br><br>2017-09-20 15:15<br>赞(0) 踩(0) | <div>杯比就是老后写给荞荞的歌~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3069378)<br>你从海上来<br>2017-09-20 17:42<br>赞(0) 踩(0) | <div><q><b>ゝ完美并不美说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327951303)<br><br>2017-10-04 15:01<br>赞(0) 踩(0) | <div>周杰伦没有错，只是他在尝试新事物的时候喜欢上了而已。而后弦一直喜欢一样事物，没有想要尝试新事物。只能说他很专一罢了。周杰伦还是当初的周杰伦，他只是变得更好。其实我十分欣赏后弦他很有才，好多歌（也可能是全部，但我不清楚）都是自己作词作曲。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327951303)<br><br>2017-10-04 15:01<br>赞(0) 踩(0) | <div>周杰伦没有错，只是他在尝试新事物的时候喜欢上了而已。而后弦一直喜欢一样事物，没有想要尝试新事物。只能说他很专一罢了。周杰伦还是当初的周杰伦，他只是变得更好。其实我十分欣赏后弦<br>他很有才，好多歌（也可能是全部，但我不清楚）都是自己作词作曲。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320576549)<br>听一场音乐，入一次心灵休...<br>2017-10-09 01:33<br>赞(0) 踩(0) | <div><q><b>陆牧雨说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96996634)<br>今夕隔世百年一眼，相携而...<br>2016-01-26 17:32<br>赞(1) 踩(0) | <div>嗯 好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2830724)<br>我們終將不會相遇 都湮滅...<br>2016-01-26 17:03<br>赞(0) 踩(0) | <div>chuo</div> |

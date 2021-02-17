@@ -3,7 +3,7 @@ Prime G
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6ae5ca5fce65bc0b143b698f650a21a6.jpg)<br>Prime G](https://i.xiami.com/prime) | **播放数**: 2992873<br>**粉丝数**: 134<br>**评论数**: 14<br>**地区**: China 中国大陆<br>**风格**: 电音流行 Electropop, 电子 Electronic<br> |
+| [![](../../images/musicians/6ae5ca5fce65bc0b143b698f650a21a6.jpg)<br>Prime G](https://i.xiami.com/prime) | **地区**: China 中国大陆<br>**风格**: 电音流行 Electropop, 电子 Electronic<br>**播放数**: 2992873<br>**粉丝数**: 134<br>**评论数**: 14<br> |
 
 ## 档案
 
@@ -36,8 +36,8 @@ Prime G
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/437258928)<br>我与蓝山咖啡结婚，禁止加...<br>2020-04-29 08:36<br>赞(1) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303963061)<br>我爱张国荣一辈子<br>2019-09-22 16:35<br>赞(1) 踩(0) | <div>❤❤❤好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252192867)<br>没个性，不签名<br>2019-06-01 11:41<br>赞(2) 踩(0) | <div>期待能够上传《喜剧之王》那段经典对白！嘿！干什么？走了？是啊。去哪里啊？回家。然后呢？上班啊。不上班行不行啊？不上班你养我啊？嘿！又怎么啦？我养你啊！你先养好你自己吧，傻瓜！</div> |

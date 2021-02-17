@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6096fc6b826debf7151fe4550e80ab3f.jpg)<br>舞指如歌](https://i.xiami.com/csy) | **播放数**: 12592817<br>**粉丝数**: 4079<br>**评论数**: 60<br>**地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 原声 Soundtrack, 游戏配乐 Video Game Music, 电影原声 Film Score, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/6096fc6b826debf7151fe4550e80ab3f.jpg)<br>舞指如歌](https://i.xiami.com/csy) | **地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 原声 Soundtrack, 游戏配乐 Video Game Music, 电影原声 Film Score, 轻音乐 Easy Listening<br>**播放数**: 12592817<br>**粉丝数**: 4079<br>**评论数**: 60<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403304282)<br><br>2020-04-27 17:51<br>赞(0) 踩(0) | <div>摩尔庄园的music真的很喜欢额，今年也会迎来手游！(ﾉ≧&amp;nabla;≦)ﾉ ﾐ ┻━┻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197129222)<br><br>2019-11-14 17:34<br>赞(0) 踩(0) | <div>求卡农那个谱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197129222)<br><br>2019-10-12 13:29<br>赞(0) 踩(0) | <div>求湛蓝之夜的那个和弦</div> |

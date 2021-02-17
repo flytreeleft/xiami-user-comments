@@ -65,8 +65,8 @@ I JUST CAN'T GET ENOUGH OF YOU！
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4848734)<br>虾米重度依赖患者<br>2021-01-26 12:20<br>赞(0) 踩(0) | <div>小时候看这专辑也是一堆大写英文，没有翻译。看不懂一知半解的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98423670)<br>不二女生嘻嘻<br>2019-12-13 11:57<br>赞(0) 踩(0) | <div>听来听去最爱的还是顺子。哎为什么不出来开演唱会了呢？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5831599)<br>强硬到自满<br>2020-02-07 23:06<br>赞(0) 踩(0) | <div>同意，我也想听她的现场</div> |

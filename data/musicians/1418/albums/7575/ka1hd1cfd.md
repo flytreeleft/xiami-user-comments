@@ -45,8 +45,8 @@ Repeat*<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212848793)<br>热带的悲伤少女<br>2020-12-02 02:30<br>赞(0) 踩(0) | <div>你不要走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39230615)<br><br>2020-11-14 14:04<br>赞(0) 踩(0) | <div>hh</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246543420)<br>Time to say ...<br>2020-11-04 23:36<br>赞(0) 踩(0) | <div>听陈珊妮一遍遍对我说&amp;ldquo;是今天的你太瘦&amp;rdquo; <img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
@@ -88,12 +88,12 @@ Repeat*<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18787797)<br>希望虾米一直都在<br>2018-12-11 22:09<br>赞(0) 踩(0) | <div>带我入坑的女生，我们再也回不到从前了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26257272)<br><br>2018-11-18 14:36<br>赞(0) 踩(0) | <div>好喜欢年轻的陈珊妮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50619988)<br> <br>2018-10-07 01:05<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105908938)<br>我还没想好要写什么...<br>2018-09-03 20:39<br>赞(2) 踩(0) | <div>以前听好难听今天随机到了怎么这么好听？？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105908938)<br>我还没想好要写什么...<br>2018-09-03 20:39<br>赞(2) 踩(0) | <div>以前听好难听<br>今天随机到了怎么这么好听？？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50131527)<br>陪我到最后<br>2019-04-04 00:19<br>赞(0) 踩(0) | <div>超好听呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55337376)<br>88 删啦<br>2018-08-08 22:02<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59683548)<br>想从你的窗子看月亮<br>2018-07-27 17:57<br>赞(0) 踩(0) | <div>你这么好看 你不能胖啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14139762)<br>看不见~<br>2018-07-26 15:09<br>赞(2) 踩(0) | <div>为什么要给正在吃巧乐兹的我推荐这首</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45812956)<br>时光之里山南水北 你我之...<br>2018-07-13 22:25<br>赞(2) 踩(0) | <div>虽然歌词怪怪的但是这首歌真的hin好听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45812956)<br>时光之里山南水北 你我之...<br>2018-07-13 22:25<br>赞(2) 踩(0) | <div>虽然歌词怪怪的<br>但是这首歌真的hin好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189095931)<br><br>2018-06-13 11:10<br>赞(1) 踩(0) | <div>是真的很好听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6075119)<br>与时间为敌<br>2018-06-13 08:12<br>赞(1) 踩(0) | <div>20180613，开始新一轮脂肪肝大作战！加油，瘦胖子！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8191448)<br>相似度多少你才会开口<br>2018-06-04 21:42<br>赞(0) 踩(0) | <div>.</div> |
@@ -125,7 +125,7 @@ Repeat*<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1703028)<br>“n55!w!" "im...<br>2017-10-30 10:16<br>赞(0) 踩(0) | <div>[泪]晚安。@维京菇凉_ @机智的奥观海 @毅燃物PU @饕饕酱 @舒思颖不是14 @伪瑶 @陈毅迅 @长岛的夜 @铁道是个奇迹 @蛤大宝 @豪吉鸡精KOP @追风少年笑蛤蛤 @D8首席执行官</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13923934)<br> <br>2017-10-30 10:07<br>赞(0) 踩(0) | <div>不是我今天喝了酒 是今天的你太瘦 你从缝里溜走 我还在来不及门框上抹油 想要跟你走 想要无声无息陪你溜走 我卡在门口 歌颂奶油 歌颂自由。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5552955)<br><br>2017-10-28 00:32<br>赞(0) 踩(0) | <div>不是我喝了酒/是今天的你太瘦/你从缝里溜走/我还来不及在门框上抹油/想要跟你走/想要无声无息陪你溜走/我卡在门口/歌颂奶油　歌颂自由/你悄悄溜走　不陪我/留下多心的奶油 抛弃痴情的肥肉/让你走</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9558060)<br>▼へ▼メ<br>2017-10-24 03:18<br>赞(0) 踩(0) | <div>哈哈哈哈，第一次看见这歌的歌词，不敢相信是陈珊妮的哈哈哈……谁还没个翻车的时候，这歌词摆明了就是强行押韵翻车现场……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9558060)<br>▼へ▼メ<br>2017-10-24 03:18<br>赞(0) 踩(0) | <div>哈哈哈哈，第一次看见这歌的歌词，不敢相信是陈珊妮的哈哈哈……<br>谁还没个翻车的时候，这歌词摆明了就是强行押韵翻车现场……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3273196)<br>暂无签名~<br>2018-05-17 19:40<br>赞(0) 踩(0) | <div>连隐喻都看不懂还说是强行押韵？！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41357692)<br>原来人会变得温柔<br>2017-10-22 00:20<br>赞(0) 踩(0) | <div>只是被留下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6538366)<br> <br>2017-09-30 00:43<br>赞(0) 踩(0) | <div>好听 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -214,9 +214,9 @@ Repeat*<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58272288)<br>15107244914<br>2015-10-13 00:27<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38886375)<br>the best is ...<br>2015-09-29 00:00<br>赞(1) 踩(0) | <div>Is me</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43637685)<br>。<br>2015-09-16 23:28<br>赞(1) 踩(0) | <div>晚安</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8140423)<br>别看我<br>2015-09-11 18:43<br>赞(1) 踩(0) | <div>不是我喝了酒是今天的你太瘦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8140423)<br>别看我<br>2015-09-11 18:43<br>赞(1) 踩(0) | <div>不是我喝了酒<br>是今天的你太瘦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10217548)<br>Hi ：）<br>2015-09-03 21:33<br>赞(2) 踩(0) | <div>所以阿芬是谁</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44724810)<br><br>2015-09-02 10:23<br>赞(1) 踩(0) | <div>想要跟你走想要无声无息陪你溜走</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44724810)<br><br>2015-09-02 10:23<br>赞(1) 踩(0) | <div>想要跟你走<br>想要无声无息陪你溜走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45242665)<br>who tm care.<br>2015-08-28 13:42<br>赞(1) 踩(0) | <div>baby ，it’s our song .</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15378120)<br>有那么一天<br>2015-08-17 07:06<br>赞(0) 踩(0) | <div>Morning</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52612843)<br><br>2015-08-12 11:17<br>赞(1) 踩(0) | <div>超好听超好听超好听超好听超好听超好听超好听的情歌。满满的回忆，在爱的人面前，变成一个笨拙的胖子。</div> |
@@ -260,7 +260,7 @@ Repeat*<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2107606)<br><br>2014-05-13 11:25<br>赞(0) 踩(0) | <div>心声 噗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12742923)<br>JMY要搭上一架会爆炸的...<br>2014-04-09 12:52<br>赞(2) 踩(0) | <div>为什么感觉这歌一点不好笑 是首很悲伤的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31984387)<br>暂无签名~<br>2014-03-25 21:38<br>赞(0) 踩(0) | <div>天热了，露大腿的季节也到了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14048151)<br>永不妥协！<br>2014-03-23 12:50<br>赞(0) 踩(0) | <div>发现一首有趣的歌o‿≖✧   我卡在门口歌颂奶油　歌颂自由你悄悄溜走　不陪我留下多心的奶油抛弃痴情的肥肉　让你走</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14048151)<br>永不妥协！<br>2014-03-23 12:50<br>赞(0) 踩(0) | <div>发现一首有趣的歌o‿≖✧   我卡在门口<br>歌颂奶油　歌颂自由<br>你悄悄溜走　不陪我<br>留下多心的奶油<br>抛弃痴情的肥肉　让你走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/761837)<br><br>2014-03-17 00:27<br>赞(165) 踩(0) | <div>虾米电台给我放了这么一首歌，我是不是该考虑把这个伤害我的软件卸载了……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6554640)<br>无人赏，自家拍掌，唱得千...<br>2015-05-17 09:30<br>赞(0) 踩(0) | <div>是的，气得我把早饭迅速地咽下去了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14017220)<br><br>2015-08-25 20:48<br>赞(0) 踩(0) | <div>例如七夕给我推荐孤独的人是可耻的。。。</div> |
@@ -304,7 +304,7 @@ Repeat*<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4993423)<br> <br>2013-08-19 22:52<br>赞(0) 踩(0) | <div>好悲哀。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9810404)<br><br>2013-08-16 18:03<br>赞(0) 踩(0) | <div>晚饭时分与双亲共勉…他俩都听的出奇认真…………………………</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17675102)<br><br>2015-06-13 12:37<br>赞(0) 踩(0) | <div>好有爱的画面。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15404733)<br>暂无签名~<br>2013-08-15 14:47<br>赞(0) 踩(0) | <div>不是我喝了酒是今天的你太瘦你从缝里溜走我还来不及在门框上抹油想要跟你走想要无声无息陪你溜走我卡在门口歌颂奶油　歌颂自由你悄悄溜走　不陪我留下多心的奶油</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15404733)<br>暂无签名~<br>2013-08-15 14:47<br>赞(0) 踩(0) | <div>不是我喝了酒<br>是今天的你太瘦<br>你从缝里溜走<br>我还来不及在门框上抹油<br>想要跟你走<br>想要无声无息陪你溜走<br>我卡在门口<br>歌颂奶油　歌颂自由<br>你悄悄溜走　不陪我<br>留下多心的奶油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18038265)<br><br>2013-08-14 11:05<br>赞(0) 踩(0) | <div>多心的奶油，痴情的肥肉，肥胖就成了累赘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13203243)<br><br>2013-08-12 07:33<br>赞(0) 踩(0) | <div>早安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3760632)<br><br>2013-08-06 08:13<br>赞(0) 踩(0) | <div>胖瘦励志三部曲之①</div> |
@@ -318,7 +318,7 @@ Repeat*<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3747107)<br><br>2013-06-12 21:47<br>赞(0) 踩(0) | <div>听哭了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9339057)<br><br>2013-06-09 02:06<br>赞(0) 踩(0) | <div>你从门缝里溜走，我还来不及在门框上抹油~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2579292)<br><br>2013-06-07 22:12<br>赞(0) 踩(0) | <div>as a senior fatty, i don&amp;#039;t need your pity.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9463459)<br><br>2013-06-05 00:57<br>赞(0) 踩(0) | <div>不是我喝了酒是今天的你太瘦你从缝里溜走我还来不及在门框上抹油想要跟你走想要无声无息陪你溜走我卡在门口歌颂奶油 歌颂自由你悄悄溜走 不陪我留下多心的奶油 抛弃痴情的肥肉让你走</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9463459)<br><br>2013-06-05 00:57<br>赞(0) 踩(0) | <div>不是我喝了酒<br>是今天的你太瘦<br>你从缝里溜走<br>我还来不及在门框上抹油<br>想要跟你走<br>想要无声无息陪你溜走<br>我卡在门口<br>歌颂奶油 歌颂自由<br>你悄悄溜走 不陪我<br>留下多心的奶油 抛弃痴情的肥肉<br>让你走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15491177)<br><br>2013-05-29 20:28<br>赞(0) 踩(0) | <div>唉...太爱这歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3982205)<br><br>2013-05-26 10:43<br>赞(0) 踩(0) | <div>不是我喝了酒 是今天的你太瘦！哈哈哈哈 我要瘦肚子~我要瘦小腿~我要早睡早起拥抱健康~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3982205)<br><br>2013-05-26 10:37<br>赞(0) 踩(0) | <div>不是我喝了酒 是今天的你太瘦！哈哈哈哈 我要瘦肚子~我要瘦腿~我要早睡早起拥抱健康~</div> |
@@ -328,12 +328,12 @@ Repeat*<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8048749)<br><br>2013-04-24 13:01<br>赞(0) 踩(0) | <div>好玩的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9656636)<br>?<br>2013-04-19 23:38<br>赞(0) 踩(0) | <div>@火三灰 想要跟你走 想要無聲無息陪你溜走 我卡在門口 歌頌奶油 歌頌自由 你悄悄溜走 不陪我 留下多情的奶油 拋棄癡情的肥肉 讓你走 讓你走~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3009411)<br><br>2013-03-31 11:52<br>赞(0) 踩(0) | <div>=。=</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11370591)<br> <br>2013-03-29 22:09<br>赞(0) 踩(0) | <div>＂想要跟你走想要无声无息陪你溜走我卡在门口＂怎么有这么悲伤的歌。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11370591)<br> <br>2013-03-29 22:09<br>赞(0) 踩(0) | <div>＂想要跟你走<br>想要无声无息陪你溜走<br>我卡在门口＂怎么有这么悲伤的歌。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5766182)<br>暂无签名~<br>2013-03-26 22:40<br>赞(0) 踩(0) | <div>虾米真能猜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5470230)<br><br>2013-03-20 14:03<br>赞(0) 踩(0) | <div>点我自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303010)<br>我还没想好要写什么...<br>2013-03-15 20:05<br>赞(0) 踩(0) | <div>@k阿叔 送给你也送给我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6596880)<br><br>2013-03-07 11:50<br>赞(0) 踩(0) | <div>留下多心的奶油 抛弃痴情的肥肉 是今天的你太瘦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10398215)<br>我还没想好要写什么...<br>2013-03-05 11:02<br>赞(0) 踩(0) | <div>不是我喝了酒，是今天的你太瘦你从缝里溜走。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10398215)<br>我还没想好要写什么...<br>2013-03-05 11:02<br>赞(0) 踩(0) | <div>不是我喝了酒，是今天的你太瘦<br>你从缝里溜走。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6226376)<br><br>2013-02-18 21:14<br>赞(0) 踩(0) | <div>这是要干嘛！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12997464)<br><br>2013-02-11 10:30<br>赞(0) 踩(0) | <div>抛弃痴情的肥肉　让你走 。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11588942)<br>骄傲旁观者<br>2013-01-23 21:48<br>赞(0) 踩(0) | <div>无关于“肥胖者”的悲哀。</div> |
@@ -363,7 +363,7 @@ Repeat*<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/666440)<br><br>2012-07-14 20:55<br>赞(0) 踩(0) | <div>简直是唱出心声啊！！！“想要无声无息陪你溜走ohh我卡在门口”TAT 最近太爱陈珊妮了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6045247)<br><br>2012-07-01 16:45<br>赞(0) 踩(0) | <div>请你悄悄溜走 不要陪我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3832717)<br><br>2012-06-16 00:34<br>赞(0) 踩(0) | <div>持续被洗脑中。。TwT</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8258146)<br><br>2012-06-13 13:07<br>赞(0) 踩(0) | <div>歌颂奶油　歌颂自由不自由毋宁死</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8258146)<br><br>2012-06-13 13:07<br>赞(0) 踩(0) | <div>歌颂奶油　歌颂自由<br>不自由毋宁死</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317874)<br><br>2012-06-06 01:02<br>赞(0) 踩(0) | <div>想要跟你走，想要无声无息陪你溜走，我卡在门口，歌颂奶油，歌颂自由</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9030614)<br><br>2012-04-29 23:26<br>赞(0) 踩(0) | <div>肥胖者的悲哀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2507896)<br><br>2012-04-22 23:10<br>赞(0) 踩(0) | <div>我卡在门口 歌颂奶油 歌颂自由  你悄悄溜走 留下多情的奶油 抛弃痴情的肥肉</div> |
@@ -398,8 +398,8 @@ Repeat*<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1750628)<br>冬天，冬天把自己都冻住了<br>2011-10-30 23:36<br>赞(0) 踩(0) | <div>“留下多心的奶油抛弃痴情的肥肉”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1993249)<br><br>2011-10-13 16:52<br>赞(0) 踩(0) | <div>这真是一首好悲好悲好悲的歌...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/941274)<br>吃货拯救世界<br>2011-10-13 16:41<br>赞(0) 踩(0) | <div>板扎得很，我小学时候抄歌词就有这首。@小编家的喵 @梳子sue @麦记意粉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2120398)<br><br>2011-08-17 21:06<br>赞(0) 踩(0) | <div>你悄悄溜走　不陪我留下多心的奶油抛弃痴情的肥肉　让你走…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2120398)<br><br>2011-08-17 18:07<br>赞(0) 踩(0) | <div>你悄悄溜走　不陪我留下多心的奶油抛弃痴情的肥肉　让你走…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2120398)<br><br>2011-08-17 21:06<br>赞(0) 踩(0) | <div>你悄悄溜走　不陪我<br>留下多心的奶油<br>抛弃痴情的肥肉　让你走…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2120398)<br><br>2011-08-17 18:07<br>赞(0) 踩(0) | <div>你悄悄溜走　不陪我<br><br>留下多心的奶油<br><br>抛弃痴情的肥肉　让你走…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4400418)<br><br>2011-07-28 22:19<br>赞(0) 踩(0) | <div>一切都是胖子的错...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1335532)<br>年少喜曲，年长好词<br>2011-06-29 12:48<br>赞(0) 踩(0) | <div>不是我喝了酒，是今天的你太瘦。词有点意思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29654)<br> <br>2011-06-20 16:13<br>赞(0) 踩(0) | <div>歌词好棒~</div> |

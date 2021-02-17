@@ -98,5 +98,3 @@ Libretto / Composer：SHOOHEY/POWERLESS<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

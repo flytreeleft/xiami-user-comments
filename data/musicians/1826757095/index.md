@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/71f66da6fa5e3ae06550ca5c13eab0ba.jpg)<br>张瀚杰](https://i.xiami.com/jay-p) | **播放数**: 238421<br>**粉丝数**: 71<br>**评论数**: 17<br>**地区**: China 中国大陆<br>**风格**: 地下说唱 Underground Hip Hop<br> |
+| [![](../../images/musicians/71f66da6fa5e3ae06550ca5c13eab0ba.jpg)<br>张瀚杰](https://i.xiami.com/jay-p) | **地区**: China 中国大陆<br>**风格**: 地下说唱 Underground Hip Hop<br>**播放数**: 238421<br>**粉丝数**: 71<br>**评论数**: 17<br> |
 
 ## 档案
 
@@ -28,8 +28,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13911932)<br>暂冇签名~<br>2017-02-24 12:18<br>赞(0) 踩(0) | <div>以前豆瓣聊过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87210796)<br> <br>2016-12-25 02:26<br>赞(1) 踩(0) | <div>Feke？？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38738185)<br><br>2016-12-25 15:37<br>赞(0) 踩(0) | <div>feke是什么？？？</div> |

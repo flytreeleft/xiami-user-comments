@@ -45,10 +45,10 @@ You are the last piece of my puzzle
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7202675)<br>你啊<br>2020-12-16 15:26<br>赞(0) 踩(0) | <div>哪天去追一路就会知道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 22:13<br>赞(0) 踩(0) | <div>「我常用三种语言创作，什么时候国语，什么时候粤语，什么时候英文，完全取决于我创作时即时想到的是那一种语言；这首歌在意大利北部的山城小镇Barga用英语创作，先有文字，后有旋律；有些文字跟意思，换作中文就会显得怪怪的，相反亦然；《意大利的故事》一切都来得很直接，生命已经怎样也不够长，可能有时就是需要这么直接。」&amp;mdash;&amp;mdash;一峰2020.4.29于微博内含英译中歌词</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 22:13<br>赞(0) 踩(0) | <div>「我常用三种语言创作，什么时候国语，什么时候粤语，什么时候英文，完全取决于我创作时即时想到的是那一种语言；这首歌在意大利北部的山城小镇Barga用英语创作，先有文字，后有旋律；有些文字跟意思，换作中文就会显得怪怪的，相反亦然；《意大利的故事》一切都来得很直接，生命已经怎样也不够长，可能有时就是需要这么直接。」<br>&amp;mdash;&amp;mdash;一峰<br>2020.4.29于微博<br>内含英译中歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259142437)<br>人来人往<br>2019-12-06 21:14<br>赞(0) 踩(0) | <div>-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347836243)<br><br>2018-12-13 20:36<br>赞(1) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282616445)<br><br>2018-12-11 04:03<br>赞(0) 踩(0) | <div>好正</div> |
@@ -57,7 +57,7 @@ You are the last piece of my puzzle
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38847730)<br>我还没想好要写什么...<br>2018-12-01 15:20<br>赞(0) 踩(0) | <div>lure me</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240111169)<br><br>2018-11-28 06:23<br>赞(1) 踩(0) | <div>前奏好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14355131)<br>嘿，我要走了。<br>2018-11-18 19:19<br>赞(1) 踩(0) | <div>好温柔</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3022812)<br>‘A’<br>2018-11-18 11:15<br>赞(0) 踩(0) | <div>Sweet Italian fairy tale.Sorry that ours was not.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3022812)<br>‘A’<br>2018-11-18 11:15<br>赞(0) 踩(0) | <div>Sweet Italian fairy tale.<br>Sorry that ours was not.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1681248)<br>Everything w...<br>2018-11-17 21:36<br>赞(1) 踩(0) | <div>晒着冬日暖阳 醉了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355554280)<br>我还没想好要写什么...<br>2018-11-17 14:54<br>赞(3) 踩(0) | <div>you are the last piece of my puzzle</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/664000)<br>世界上另外一个我<br>2018-11-17 14:17<br>赞(3) 踩(0) | <div>You are the last piece of my puzzle <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |

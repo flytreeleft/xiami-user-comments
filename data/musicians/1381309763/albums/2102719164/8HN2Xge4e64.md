@@ -31,5 +31,3 @@ Tout le long des carreaux
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

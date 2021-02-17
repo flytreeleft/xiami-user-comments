@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/606aa4ee64d0d3117badde085afcdbd8.jpg)<br>刘炫宇](https://i.xiami.com/liuxuanyu) | **播放数**: 8491579<br>**粉丝数**: 358<br>**评论数**: 16<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/606aa4ee64d0d3117badde085afcdbd8.jpg)<br>刘炫宇](https://i.xiami.com/liuxuanyu) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 8491579<br>**粉丝数**: 358<br>**评论数**: 16<br> |
 
 ## 档案
 
@@ -43,8 +43,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445835084)<br><br>2021-01-04 20:19<br>赞(0) 踩(0) | <div>平安，特别喜欢这首赞美，想要一下伴奏，有偿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408874687)<br><br>2018-11-24 13:06<br>赞(0) 踩(0) | <div>真好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253607529)<br><br>2018-11-19 17:48<br>赞(1) 踩(0) | <div>翻唱请标注cover</div> |

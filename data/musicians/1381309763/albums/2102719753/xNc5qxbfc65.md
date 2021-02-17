@@ -26,5 +26,3 @@ Because he won't work any faster
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

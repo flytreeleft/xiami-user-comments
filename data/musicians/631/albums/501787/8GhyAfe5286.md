@@ -52,8 +52,8 @@ the best is yet to come
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274148386)<br><br>2020-10-10 10:00<br>赞(0) 踩(0) | <div>好幸运，当时分手的时候听到了这首歌，不然可能一直还在循环再见二丁目，然后在那种苦中做乐的情绪里沉浮。至今几年了那首歌都在播放排名第一，可想而知当时多疯狂，在歌里没找到解药，反而一头陷进去了。直到无意中遇到这首歌，很温柔，告诉我最好的尚未来临，就像一个大哥哥，跟我说他都懂、没关系、不要急。好的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9733750)<br>☺︎<br>2020-03-27 14:31<br>赞(0) 踩(0) | <div>十几年过去了，一如既往</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353051644)<br>我还没想好要写什么...<br>2018-05-26 11:37<br>赞(1) 踩(0) | <div>太好听了，学吉他又有了动力 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
@@ -80,8 +80,8 @@ the best is yet to come
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3195524)<br>我要摇一辈子<br>2013-10-08 22:08<br>赞(0) 踩(0) | <div>喜欢他创作唱歌的方式，这首最爱，失望多少次都有它给我安慰，如果快乐有尽头，痛苦也不会不朽，the best is yet to come ＃男女神，经病电台＃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13760050)<br><br>2013-10-04 14:37<br>赞(0) 踩(0) | <div>系吖系吖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5086082)<br>表裡如2<br>2013-09-23 11:45<br>赞(0) 踩(0) | <div>to hug someone,to kiss someone,the best is yet to come.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12469330)<br><br>2013-09-17 21:15<br>赞(0) 踩(0) | <div>我们一直走在没有尽头的路上，像等不到一样的等。但愿如林一峰所唱：to hug someone,to kiss someone,the best is yet to come.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12469330)<br><br>2013-09-17 21:09<br>赞(0) 踩(0) | <div>我们一直走在没有尽头的路上，像等不到一样的等。但愿像林一峰所唱：to hug someone ,to kiss someone,the best is yet to come.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12469330)<br><br>2013-09-17 21:15<br>赞(0) 踩(0) | <div>我们一直走在没有尽头的路上，像等不到一样的等。<br>但愿如林一峰所唱：to hug someone,to kiss someone,the best is yet to come.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12469330)<br><br>2013-09-17 21:09<br>赞(0) 踩(0) | <div>我们一直走在没有尽头的路上，像等不到一样的等。<br>但愿像林一峰所唱：to hug someone ,to kiss someone,the best is yet to come.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1350988)<br><br>2013-09-16 21:07<br>赞(0) 踩(0) | <div>The best is yet to come.不同版本，不同歌曲之间，最喜欢这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21905239)<br><br>2013-09-13 23:08<br>赞(0) 踩(0) | <div>“假使快乐有尽头 痛苦也未会不朽” 我也要留一首歌给这个神奇的夜晚~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3046450)<br><br>2013-08-28 12:47<br>赞(0) 踩(0) | <div>@fenfenzhu</div> |
@@ -123,12 +123,12 @@ the best is yet to come
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5548393)<br><br>2013-01-03 14:22<br>赞(0) 踩(0) | <div>I'm already on my way. And there is NO NEED to chat with each other. Right? I've said all I want to say. I'M DONE WITH YOU. GOOD LUCK.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11853478)<br><br>2013-01-02 11:30<br>赞(0) 踩(0) | <div>the best os yet to come!!!!!!!!!! @飞天小凤凰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1085325)<br>暂无签名~<br>2012-12-31 01:45<br>赞(0) 踩(0) | <div>一份承受不了的爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5544311)<br>恰恰好。<br>2012-12-30 21:49<br>赞(0) 踩(0) | <div>永远有一个吻未尝有些烛光未燃亮若爱太苦要落糖结他断线亦无恙</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5544311)<br>恰恰好。<br>2012-12-30 21:49<br>赞(0) 踩(0) | <div>永远有一个吻未尝<br>有些烛光未燃亮<br>若爱太苦要落糖<br>结他断线亦无恙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4704777)<br>你好<br>2012-12-28 15:22<br>赞(0) 踩(0) | <div>永远有不妥协伤口 有些憾事不放手</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4876560)<br><br>2012-12-27 16:26<br>赞(0) 踩(0) | <div>总有一些人，看似跟你长久，然而你最终都会发现殊途同归：没有人一直陪你走完全部的人生。孤独是人类永恒的主题。But, let U go. Let it be.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2316251)<br><br>2012-12-21 17:10<br>赞(0) 踩(0) | <div>Why don't you hug someonejust kiss someonethe best is yet to come~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1336934)<br><br>2012-12-17 20:26<br>赞(0) 踩(0) | <div>2008有些憾事不放手若你太刻意淡忘越会补不到缺口</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11809003)<br>暂无签名~<br>2012-12-12 10:35<br>赞(0) 踩(0) | <div>若爱太苦要落糖吉他断弦亦无恙</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4876560)<br><br>2012-12-27 16:26<br>赞(0) 踩(0) | <div>总有一些人，看似跟你长久，然而你最终都会发现殊途同归：没有人一直陪你走完全部的人生。<br>孤独是人类永恒的主题。<br>But, let U go. Let it be.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2316251)<br><br>2012-12-21 17:10<br>赞(0) 踩(0) | <div>Why don't you hug someone<br>just kiss someone<br>the best is yet to come~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1336934)<br><br>2012-12-17 20:26<br>赞(0) 踩(0) | <div>2008有些憾事不放手<br>若你太刻意淡忘<br>越会补不到缺口</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11809003)<br>暂无签名~<br>2012-12-12 10:35<br>赞(0) 踩(0) | <div>若爱太苦要落糖<br>吉他断弦亦无恙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8312808)<br><br>2012-12-05 00:05<br>赞(0) 踩(0) | <div>催眠。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3973241)<br><br>2012-12-02 22:40<br>赞(0) 踩(0) | <div>The best is yet to come.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/710597)<br>真正的美无需隐藏。<br>2012-11-30 09:45<br>赞(0) 踩(0) | <div>第一次听的是At 17的快版 老林的这个版本吉他搭笛子，慢的来好寂寞哟。</div> |

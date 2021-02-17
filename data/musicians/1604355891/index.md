@@ -3,7 +3,7 @@ Thyrsus
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8acf0f854a141722c2e121d352760583.jpg)<br>Thyrsus](https://i.xiami.com/marijuana) | **播放数**: 1119537<br>**粉丝数**: 662<br>**评论数**: 27<br>**地区**: China 中国大陆<br>**风格**: 阳光流行 Sunshine Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/8acf0f854a141722c2e121d352760583.jpg)<br>Thyrsus](https://i.xiami.com/marijuana) | **地区**: China 中国大陆<br>**风格**: 阳光流行 Sunshine Pop, 国语流行 Mandarin Pop<br>**播放数**: 1119537<br>**粉丝数**: 662<br>**评论数**: 27<br> |
 
 ## 档案
 
@@ -33,8 +33,8 @@ Thyrsus
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8349209)<br><br>2021-01-06 08:03<br>赞(1) 踩(0) | <div>虾米要离开啦，请问有b站账号嘛？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356515068)<br><br>2020-02-16 14:54<br>赞(1) 踩(0) | <div>麻麻爹，吉他什么型号？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46399232)<br>爱生活，爱自然。<br>2019-11-03 22:19<br>赞(1) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |

@@ -34,5 +34,3 @@ It's snowing snow s n o w snow
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

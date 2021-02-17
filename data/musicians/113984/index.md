@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1f1e7cd18d1226694c9e08a232bc1f2c.png)<br>纣王老胡](https://i.xiami.com/zhouwang) | **播放数**: 12747201<br>**粉丝数**: 7663<br>**评论数**: 170<br>**地区**: China 中国大陆<br>**风格**: 民谣 Folk<br> |
+| [![](../../images/musicians/1f1e7cd18d1226694c9e08a232bc1f2c.png)<br>纣王老胡](https://i.xiami.com/zhouwang) | **地区**: China 中国大陆<br>**风格**: 民谣 Folk<br>**播放数**: 12747201<br>**粉丝数**: 7663<br>**评论数**: 170<br> |
 
 ## 档案
 
@@ -28,15 +28,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409127737)<br>我有枸杞你有酒吗，姑娘。<br>2019-03-05 20:44<br>赞(1) 踩(0) | <div>第7166个</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27486367)<br>我想和你虚度时光<br>2018-11-09 19:40<br>赞(1) 踩(0) | <div>猜你喜欢的时候推荐的歌，想按个喜欢发现以前已经喜欢过了，哎呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84725678)<br>我还没想好要写什么...<br>2018-10-19 13:07<br>赞(1) 踩(0) | <div>歌词做作   越听越苦逼   顾影自怜  ：）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297999609)<br>去克洛里吧<br>2018-07-26 12:36<br>赞(0) 踩(0) | <div><img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246694552)<br>нoнo … |.。..<br>2018-07-02 15:45<br>赞(0) 踩(0) | <div>看我主页有好听的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47872795)<br>啊哈<br>2018-07-02 10:54<br>赞(0) 踩(0) | <div>我是第6667，</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301874935)<br>过于喧嚣的孤独<br>2018-05-03 17:40<br>赞(1) 踩(0) | <div>我在拉萨大冰小屋听小哥哥唱你的歌。 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">《涩》很干净，真实。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301874935)<br>过于喧嚣的孤独<br>2018-05-03 17:40<br>赞(1) 踩(0) | <div>我在拉萨大冰小屋听小哥哥唱你的歌。 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"><br>《涩》很干净，真实。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23565573)<br> <br>2018-04-30 20:33<br>赞(0) 踩(0) | <div>好喜欢这种安静又舒服的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339456831)<br>就算会寂寞，还有音乐为伴...<br>2018-04-23 10:07<br>赞(0) 踩(0) | <div>第一次听老胡的歌，喜欢的声音，一首首都听了很多遍。支持民谣！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272713824)<br><br>2018-03-01 21:45<br>赞(0) 踩(0) | <div>好听好听</div> |
@@ -71,8 +71,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2205341)<br><br>2016-12-05 15:06<br>赞(0) 踩(0) | <div>跟我长得像！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23031922)<br>Love thing<br>2016-12-02 18:49<br>赞(0) 踩(0) | <div>这个是我听到过的最难听的民谣歌手的声音，还跑调，我也是佩服，写的东西简直也是……良心评价，就这样</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269285366)<br><br>2017-04-14 20:42<br>赞(0) 踩(0) | <div>挺好听的啊</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324900175)<br><br>2017-12-04 00:49<br>赞(0) 踩(0) | <div>这个是我见到过最恶心的评价，还瞎jb乱评价，我也是佩服，写的东西简直也是恶心。良心评价，就这样你唱一次试试？你填一次词试试？如果你非要说老胡恶心，那我只能说你是最恶心的。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202066981)<br>不让我摇你就滚！<br>2019-01-19 17:40<br>赞(0) 踩(0) | <div>不明白为何你会这么说，但是看看关注你的粉丝数目，和老胡比起来，唉。。。不管怎样，我不是创作音乐人，只是爱听音乐的人，什么风格的音乐我多数都有听，我也只能说，老胡的歌能感动我！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324900175)<br><br>2017-12-04 00:49<br>赞(0) 踩(0) | <div>这个是我见到过最恶心的评价，还瞎jb乱评价，我也是佩服，写的东西简直也是恶心。良心评价，就这样<br>你唱一次试试？你填一次词试试？如果你非要说老胡恶心，那我只能说你是最恶心的。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202066981)<br>不让我摇你就滚！<br>2019-01-19 17:40<br>赞(0) 踩(0) | <div>不明白为何你会这么说，但是看看关注你的粉丝数目，和老胡比起来，唉。。。<br>不管怎样，我不是创作音乐人，只是爱听音乐的人，什么风格的音乐我多数都有听，我也只能说，老胡的歌能感动我！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81356338)<br><br>2016-11-29 15:40<br>赞(1) 踩(0) | <div>2016的夏天，在西安菊花园的酒吧听过他的弹唱会。感觉很好，就是简简单单听歌，听自己安静的心随声和......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47984724)<br>簽名在此<br>2016-10-22 23:17<br>赞(0) 踩(0) | <div>两三年前认识的声音 希望未来可以看现场</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44991093)<br>Beautiful Bl...<br>2016-10-18 20:32<br>赞(1) 踩(0) | <div>纣王这半年把半个中国跑遍了</div> |
@@ -81,7 +81,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39321768)<br><br>2016-07-15 12:38<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177154028)<br><br>2016-06-23 00:23<br>赞(1) 踩(0) | <div>涩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36275719)<br><br>2016-05-15 18:03<br>赞(0) 踩(0) | <div>nb</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10795614)<br>活在80年代<br>2016-05-08 04:19<br>赞(1) 踩(0) | <div>最新专辑《友谊胡同》众筹中众筹地址： <a href="http://www.musikid.com/project/1810" target="_blank" rel="nofollow noreferrer noopener">http://www.musikid.com/project/1810</a>全国巡演预售票： <a href="http://t.cn/Rq4z1b3" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/Rq4z1b3</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10795614)<br>活在80年代<br>2016-05-08 04:19<br>赞(1) 踩(0) | <div>最新专辑《友谊胡同》众筹中<br>众筹地址： <a href="http://www.musikid.com/project/1810" target="_blank" rel="nofollow noreferrer noopener">http://www.musikid.com/project/1810</a><br>全国巡演预售票： <a href="http://t.cn/Rq4z1b3" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/Rq4z1b3</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49666602)<br><br>2016-04-17 23:33<br>赞(0) 踩(0) | <div>让人感动的民谣！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47518801)<br><br>2016-04-11 17:20<br>赞(0) 踩(0) | <div>淡淡忧伤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12759863)<br>天下大美，本无常主。有缘...<br>2016-04-06 18:03<br>赞(0) 踩(0) | <div>胡老师真棒</div> |
@@ -129,7 +129,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50634579)<br>音乐改变生活<br>2015-11-05 13:04<br>赞(0) 踩(0) | <div>喷子，傻逼，不喜欢就不要听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47070044)<br>哈利路亚<br>2015-07-09 17:19<br>赞(1) 踩(0) | <div>要来石家庄演出啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48098396)<br><br>2015-06-09 18:33<br>赞(0) 踩(0) | <div></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/518554)<br>我还没想好要写什么...<br>2015-04-09 16:16<br>赞(21) 踩(0) | <div>不爱出门，不爱洗澡虽然是诚实了，但是还是希望可以改一改啊……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/518554)<br>我还没想好要写什么...<br>2015-04-09 16:16<br>赞(21) 踩(0) | <div>不爱出门，不爱洗澡<br><br>虽然是诚实了，但是还是希望可以改一改啊……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7086726)<br>暂无签名~<br>2015-03-23 01:32<br>赞(1) 踩(0) | <div>喜欢这种声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48218948)<br>暂无签名~<br>2015-03-18 17:13<br>赞(1) 踩(0) | <div>懒懒的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35501540)<br><br>2015-03-08 15:53<br>赞(1) 踩(0) | <div>茉莉僧与纣王 承德市路上酒吧演出现场 2014.4.20</div> |
@@ -140,7 +140,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85213768)<br><br>2017-12-16 14:13<br>赞(0) 踩(0) | <div><q><b>王舒诚说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1537893)<br>69devil.com，...<br>2015-02-06 23:02<br>赞(0) 踩(0) | <div>喜欢他的歌词</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36991586)<br><br>2015-01-24 12:39<br>赞(0) 踩(0) | <div>因为吉他？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20417150)<br>一期一会 。<br>2015-01-12 15:16<br>赞(0) 踩(0) | <div>涩不错～期末考试还不终结，看书看的头大…</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20417150)<br>一期一会 。<br>2015-01-12 15:16<br>赞(0) 踩(0) | <div>涩不错～<br>期末考试还不终结，看书看的头大…</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40939480)<br>暂无签名~<br>2015-01-08 14:41<br>赞(0) 踩(0) | <div>歌词很真实，这就是民谣、</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44098409)<br>暂无签名~<br>2015-01-05 00:34<br>赞(0) 踩(0) | <div>涩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6347905)<br><br>2014-12-21 21:58<br>赞(0) 踩(0) | <div>淡淡的忧伤，很耐听，不懂的人肯定觉得单调无聊，力挺！</div> |
@@ -148,7 +148,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25193402)<br>我还没想好要写什么...<br>2014-12-05 14:50<br>赞(0) 踩(0) | <div>涩很好听</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2543843)<br><br>2014-12-29 17:49<br>赞(0) 踩(0) | <div>太过伤感和写实了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8422716)<br><br>2014-11-29 15:00<br>赞(0) 踩(0) | <div>声音有点像宋冬野</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11818870)<br>要用歌声让你忘了所有的痛...<br>2014-11-26 12:04<br>赞(2) 踩(0) | <div>很舒服能安抚的声音。没有技巧派的花腔。没有感情派悲壮的嘶吼。不走人到中年就一定得喘着大气扯几嗓子试图感动山川小溪和自己的老路。质朴竟如此难得。期待后续和现场。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11818870)<br>要用歌声让你忘了所有的痛...<br>2014-11-26 12:04<br>赞(2) 踩(0) | <div>很舒服能安抚的声音。<br>没有技巧派的花腔。<br>没有感情派悲壮的嘶吼。<br>不走<br>人到中年就一定得喘着大气扯几嗓子试图感动山川小溪和自己<br>的老路。<br>质朴竟如此难得。<br>期待后续和现场。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15563747)<br><br>2014-11-18 11:59<br>赞(0) 踩(0) | <div>挺好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12650369)<br><br>2014-11-07 04:21<br>赞(0) 踩(0) | <div>声音还行，歌词及旋律一般</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38626334)<br>可能 或许 大概 是个好...<br>2014-11-01 01:45<br>赞(0) 踩(0) | <div>会一直支持你  快来太原吧</div> |
@@ -195,7 +195,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184413)<br>53<br>2012-09-20 19:23<br>赞(0) 踩(0) | <div>又被下架了……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/707771)<br><br>2012-09-04 12:31<br>赞(0) 踩(0) | <div>太喜欢这样的风格了，总是莫名其妙的被感触。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4240907)<br><br>2012-08-17 03:43<br>赞(1) 踩(0) | <div>他在唱，“不能继续珍惜我们的缘分，就让过去的余温渐渐消退”，沉迷其中，无法自拔</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4240907)<br><br>2012-08-17 03:41<br>赞(1) 踩(0) | <div>喜欢他的　 眼泪。喜欢民谣。一直都是</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4240907)<br><br>2012-08-17 03:41<br>赞(1) 踩(0) | <div>喜欢他的　 眼泪。<br><br><br>喜欢民谣。<br><br>一直都是</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13816972)<br>每天都要有正能量！！<br>2014-06-12 16:19<br>赞(0) 踩(0) | <div>好多地方都看到你的身影，哈哈，骨灰级民谣控</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4240907)<br><br>2014-06-12 18:52<br>赞(0) 踩(0) | <div><q><b>空空说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9430584)<br>废人<br>2012-08-10 13:03<br>赞(0) 踩(0) | <div>支持民谣，支持独立歌手</div> |

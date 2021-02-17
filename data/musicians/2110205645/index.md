@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/980f69acae3ff9a7c26c6a9567198f7d.jpg)<br>来点音乐](https://i.xiami.com/ldyy) | **播放数**: 4967428<br>**粉丝数**: 252<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 民谣 Folk<br> |
+| [![](../../images/musicians/980f69acae3ff9a7c26c6a9567198f7d.jpg)<br>来点音乐](https://i.xiami.com/ldyy) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 民谣 Folk<br>**播放数**: 4967428<br>**粉丝数**: 252<br>**评论数**: 6<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -19,8 +16,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16764337)<br>青山不改，绿水长流，我们...<br>2018-06-14 14:59<br>赞(0) 踩(0) | <div>小姐姐~你好啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11298562)<br>我还没想好要写什么...<br>2018-05-05 11:24<br>赞(0) 踩(0) | <div>喜欢你们的声音，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/385392)<br>剑未配妥，出门已是江湖。<br>2017-07-09 09:21<br>赞(2) 踩(0) | <div>这专辑翻唱得很好哇</div> |

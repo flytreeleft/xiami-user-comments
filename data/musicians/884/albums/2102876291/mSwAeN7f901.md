@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4298941)<br>我还没想好要写什么...<br>2019-07-02 07:00<br>赞(0) 踩(0) | <div>想象小米想象玉米，想象大米就是大米哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418998656)<br><br>2019-07-01 19:39<br>赞(0) 踩(0) | <div>没了？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262486137)<br><br>2018-05-11 01:19<br>赞(0) 踩(0) | <div>数学和哲学之间的音乐。迎面飞来一辆装满思考的车。</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e5f518f8d298abeb355d0a521536b380.jpg)<br>满舒克](https://i.xiami.com/youngjack) | **播放数**: 43111429<br>**粉丝数**: 53524<br>**评论数**: 817<br>**地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap<br> |
+| [![](../../images/musicians/e5f518f8d298abeb355d0a521536b380.jpg)<br>满舒克](https://i.xiami.com/youngjack) | **地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap<br>**播放数**: 43111429<br>**粉丝数**: 53524<br>**评论数**: 817<br> |
 
 ## 档案
 
@@ -65,19 +65,19 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306132372)<br><br>2020-10-04 18:13<br>赞(0) 踩(0) | <div>一起创业吗</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-07-02 10:31<br>赞(0) 踩(0) | <div>擦&amp;hellip;&amp;hellip;连我都觉得帅</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-07-02 10:31<br>赞(0) 踩(0) | <div>擦&amp;hellip;&amp;hellip;<br>连我都觉得帅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10900113)<br>2b青年<br>2020-01-22 14:15<br>赞(0) 踩(0) | <div>lonely god呢？孤神满舒克 你的孤神找不到了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344018512)<br>我还没想好要写什么...<br>2020-01-10 00:21<br>赞(0) 踩(0) | <div>D</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52511284)<br> 好听的说唱它就像一杯软...<br>2019-12-12 17:50<br>赞(0) 踩(0) | <div>四年前听你的歌到现在，你依旧这么优秀我这么喜欢 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261505024)<br>被愛妄想症<br>2019-11-07 10:36<br>赞(0) 踩(0) | <div>阿哈哈哈哈哈笑死我了 你们像是行走的春药hhhh</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13600139)<br>听风者<br>2019-09-19 08:23<br>赞(0) 踩(0) | <div>贝塔的老搭档有才华，有颜值，天生的吃艺人饭。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352343364)<br>Anh.<br>2019-07-06 00:30<br>赞(1) 踩(0) | <div>I love you.....from Vietnam and America!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352343364)<br>Anh.<br>2019-07-06 00:30<br>赞(1) 踩(0) | <div>I love you.....<br>from Vietnam and America!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2236811)<br>我若安好，便是晴天<br>2019-06-10 01:07<br>赞(2) 踩(0) | <div>我好喜欢满舒克和Tizzy T <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374937909)<br>真好！<br>2019-05-09 22:11<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271955309)<br> <br>2019-04-08 18:48<br>赞(0) 踩(0) | <div>满舒克的Nice View 能发一个么谢了<a href="mailto:332862393@qq.com">332862393@qq.com</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271955309)<br> <br>2019-04-08 18:48<br>赞(0) 踩(0) | <div>满舒克的Nice View 能发一个么<br>谢了<br><a href="mailto:332862393@qq.com">332862393@qq.com</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421794172)<br>低调做人，高调做事<br>2019-03-24 15:52<br>赞(0) 踩(0) | <div><img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255032220)<br>Loving and l...<br>2019-03-15 02:52<br>赞(1) 踩(0) | <div>酷♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305893689)<br>唯独你没懂<br>2019-01-27 00:25<br>赞(3) 踩(0) | <div>老满的主页真色情 <img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
@@ -100,7 +100,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223845151)<br>_(:* ｣∠)_<br>2018-08-14 18:45<br>赞(0) 踩(0) | <div>❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4277042)<br>不是非要飘扬。<br>2018-08-05 18:50<br>赞(2) 踩(0) | <div>那首套词的歌是那首啊？想听听</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290619466)<br>我还没想好要写什么...<br>2018-08-08 12:00<br>赞(0) 踩(0) | <div>nice view</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400198023)<br>凛冬将至<br>2018-08-03 12:00<br>赞(0) 踩(0) | <div>爱你啊我的小满愿你居高山之巅如山川四海巍巍荡荡♡</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400198023)<br>凛冬将至<br>2018-08-03 12:00<br>赞(0) 踩(0) | <div>爱你啊我的小满<br>愿你居高山之巅<br>如山川四海巍巍荡荡♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251783497)<br>无介绍<br>2018-08-02 11:45<br>赞(0) 踩(0) | <div>怎么才能和你在一起在线等急</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189321578)<br>有趣的灵魂终会相遇<br>2018-07-31 00:07<br>赞(2) 踩(0) | <div>刚开始听满舒克的时候还没这么多人 <img src="../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219128193)<br>猜猜我的占有欲有多可怕_<br>2018-07-23 19:30<br>赞(2) 踩(0) | <div>满舒克冲啊！！！</div> |
@@ -125,7 +125,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49795587)<br>ghc<br>2018-04-30 01:37<br>赞(1) 踩(0) | <div>什么时候来长沙</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359854761)<br><br>2018-04-29 23:12<br>赞(1) 踩(0) | <div>前奏很nice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13061644)<br>significant ...<br>2018-04-19 09:48<br>赞(0) 踩(0) | <div>为啥lonely god没了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333864573)<br>喜欢很多 听歌很杂 <br>2018-04-15 22:48<br>赞(1) 踩(0) | <div>希望你是越来越好的满舒克不能做你的猫 做你的小迷妹也不错</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333864573)<br>喜欢很多 听歌很杂 <br>2018-04-15 22:48<br>赞(1) 踩(0) | <div>希望你是越来越好的满舒克<br>不能做你的猫 做你的小迷妹也不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351372400)<br>那么无聊进来想看什么签名...<br>2018-04-06 17:10<br>赞(0) 踩(0) | <div>为什么不能听做我的猫</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/172389412)<br>你你自盛开 清风随它来不...<br>2018-03-25 10:05<br>赞(0) 踩(0) | <div>未必要说再见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316919827)<br><br>2018-03-16 22:40<br>赞(1) 踩(0) | <div>2018.03.16.22.39抖音上刷到你的歌第一次听来支持你咯</div> |
@@ -153,7 +153,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12076161)<br>兼容古典和嘻哈<br>2017-11-26 18:50<br>赞(1) 踩(0) | <div>音色很喜欢，就是歌词略浅，做点有深度的歌就好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328484400)<br><br>2017-11-24 19:33<br>赞(0) 踩(0) | <div>双击评论666</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99586286)<br>歌单停滞在2017<br>2017-11-22 11:42<br>赞(0) 踩(0) | <div>做你的猫</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46617529)<br>暂无签名~<br>2017-11-16 18:36<br>赞(3) 踩(0) | <div>建议出歌时，把伴奏也一起出。这样才能最大程度的让rap大众化。让大家相接传诵~~哈哈~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46617529)<br>暂无签名~<br>2017-11-16 18:36<br>赞(3) 踩(0) | <div>建议出歌时，把伴奏也一起出。<br>这样才能最大程度的让rap大众化。让大家相接传诵~~<br>哈哈~~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301580229)<br><br>2017-12-28 23:16<br>赞(0) 踩(0) | <div>送你上去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324873086)<br><br>2017-11-05 09:32<br>赞(0) 踩(0) | <div>想去听现场的，感觉好棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2638570)<br>爱我所爱<br>2017-10-27 23:52<br>赞(0) 踩(0) | <div>最近不知什么磁力被你声线吸附了</div> |
@@ -205,7 +205,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266255992)<br>岁月催促人长大，匆忙的脚...<br>2017-07-27 16:51<br>赞(0) 踩(0) | <div>说唱就服他。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17146554)<br>weibo：@L1RRO...<br>2017-07-27 11:10<br>赞(1) 踩(0) | <div>LUV</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/833450)<br>仁义礼智信<br>2017-07-25 16:39<br>赞(11) 踩(0) | <div>约炮王</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296200723)<br>我还没想好要写什么。<br>2017-07-24 07:29<br>赞(1) 踩(0) | <div>舒克舒克舒克舒克开飞机的舒克满先生  喜欢你虽然才一年   知道你也是朋友分享说大曲靖的骄傲   真的  时间不长  但依旧喜欢  一直认为你是骄傲   老满   加油！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296200723)<br>我还没想好要写什么。<br>2017-07-24 07:29<br>赞(1) 踩(0) | <div>舒克舒克舒克舒克开飞机的舒克<br>满先生  喜欢你虽然才一年   知道你也是朋友分享说大曲靖的骄傲   真的  时间不长  但依旧喜欢  一直认为你是骄傲   老满   加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217428623)<br>虾米认证<br>2017-08-25 13:06<br>赞(0) 踩(0) | <div>舒克是曲靖人的大骄傲 么么哒</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296200723)<br>我还没想好要写什么。<br>2017-09-09 07:49<br>赞(0) 踩(0) | <div><q><b>¥.说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85928852)<br>穷极一生 追求快乐<br>2017-07-18 23:58<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -350,7 +350,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3736882)<br>我还没想好要写什么...<br>2016-11-07 21:33<br>赞(3) 踩(0) | <div>三 使用下载伴奏非法版权的情况下销售并接受商业/个人演出，如《陪你过冬天》，该行为已对华语说唱音乐构成严重威胁！同样也是走狗行径！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55067802)<br>εїз<br>2016-12-17 01:54<br>赞(0) 踩(0) | <div>你小学生么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3736882)<br>我还没想好要写什么...<br>2016-11-07 21:31<br>赞(3) 踩(0) | <div>二 肆意践踏中国大陆说唱音乐文化，对其进行毁灭性的破坏，凭借民间艺人满舒克令人作呕的全部网络歌曲对中国说唱进行为期数年的破坏，企图毁掉说唱音乐流派，此行为概括为 （新时代走狗）</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3736882)<br>我还没想好要写什么...<br>2016-11-07 21:30<br>赞(3) 踩(0) | <div>民间艺人满舒克-走狗罪行判决书：一 制作同性恋音乐煽动民众性取向，提高艾滋病感染率，破坏社会家庭和谐，存在严重分裂主义！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3736882)<br>我还没想好要写什么...<br>2016-11-07 21:30<br>赞(3) 踩(0) | <div>民间艺人满舒克-走狗罪行判决书：<br><br>一 制作同性恋音乐煽动民众性取向，提高艾滋病感染率，破坏社会家庭和谐，存在严重分裂主义！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15681)<br> <br>2016-11-08 18:37<br>赞(0) 踩(0) | <div>你跟狠毒男孩一样丑</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37155047)<br>ɓ ɾ ℴ ƙ ∊ η<br>2016-11-10 01:52<br>赞(0) 踩(0) | <div><q><b>zhou说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125206442)<br> <br>2016-11-13 20:30<br>赞(0) 踩(0) | <div>我不知道那么多字你编了几年 不累吗大兄弟</div> |
@@ -524,7 +524,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85963834)<br>闭上眼<br>2016-03-23 21:34<br>赞(0) 踩(0) | <div>每一天都要帅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52728617)<br>爱我吗给我吧<br>2016-03-21 23:13<br>赞(3) 踩(0) | <div>舒克大云南之作 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35580409)<br>对你不感兴趣<br>2016-03-20 13:02<br>赞(0) 踩(0) | <div>大家让一让 我的人</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10846052)<br> <br>2016-03-18 17:04<br>赞(0) 踩(0) | <div>什么时候出MV！舒克舒克！别让我们等太久！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10846052)<br> <br>2016-03-18 17:04<br>赞(0) 踩(0) | <div>什么时候出MV！舒克舒克！<br>别让我们等太久！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5118264)<br>Stop Talking...<br>2016-03-17 19:44<br>赞(0) 踩(0) | <div>我先嫁 我要嫁！每聽一次我都想嫁！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7602605)<br>生活深渊里<br>2016-03-15 22:56<br>赞(0) 踩(0) | <div>满贝塔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44652267)<br> <br>2016-03-09 17:14<br>赞(0) 踩(0) | <div>我心中的第一☝️超喜欢这个风格</div> |
@@ -597,7 +597,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11066430)<br><br>2015-12-21 20:18<br>赞(0) 踩(0) | <div>都闪开 他说我俩失散多年</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93014116)<br> <br>2015-12-20 23:47<br>赞(0) 踩(0) | <div>怎么才能嫁给你在线等</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59985784)<br>你嘚团长。<br>2015-12-20 16:40<br>赞(3) 踩(0) | <div>壮哉我大云南 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40256175)<br>她。<br>2015-12-18 18:05<br>赞(0) 踩(0) | <div>耳朵怀孕了，我要给你生猴子！怎么才能嫁给你在线等急</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40256175)<br>她。<br>2015-12-18 18:05<br>赞(0) 踩(0) | <div>耳朵怀孕了，我要给你生猴子！<br>怎么才能嫁给你在线等急</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23679265)<br><br>2015-12-17 17:23<br>赞(0) 踩(0) | <div>好听,我擦 66666666666666</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/752396)<br>我还没想好要写什么...<br>2015-12-16 01:58<br>赞(1) 踩(0) | <div>支持老乡[带墨镜笑]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90864636)<br>你听过他的民谣吗？<br>2015-12-14 18:32<br>赞(0) 踩(0) | <div>舒克舒克。</div> |
@@ -801,7 +801,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46777184)<br>Ft<br>2015-01-31 20:18<br>赞(0) 踩(0) | <div>风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15994471)<br> <br>2015-01-26 17:21<br>赞(0) 踩(0) | <div>【开飞机的舒克】</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46354754)<br>自从拿起麦克我就那想过放<br>2015-01-22 22:31<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45823964)<br><br>2015-01-20 20:10<br>赞(0) 踩(0) | <div>曲风与冰块先生的很像，还是喜欢冰块多些<a href="http://i.xiami.com/brian?spm=a1z1s.6843761.226669510.10.TIXbBQ&amp;amp;from=search_popup_artist" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/brian?spm=a1z1s.6843761.226669510.10.TIXbBQ&amp;amp;from=search_popup_artist</a>你们可以去听听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45823964)<br><br>2015-01-20 20:10<br>赞(0) 踩(0) | <div>曲风与冰块先生的很像，还是喜欢冰块多些<br><a href="http://i.xiami.com/brian?spm=a1z1s.6843761.226669510.10.TIXbBQ&amp;amp;from=search_popup_artist" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/brian?spm=a1z1s.6843761.226669510.10.TIXbBQ&amp;amp;from=search_popup_artist</a><br>你们可以去听听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37119021)<br>出售平价燃料 weed<br>2015-01-20 14:01<br>赞(0) 踩(0) | <div>30号厦门飞起</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4373802)<br><br>2015-01-19 22:36<br>赞(0) 踩(0) | <div>大学同届的校友！支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43508789)<br><br>2015-01-17 09:30<br>赞(0) 踩(0) | <div>循环</div> |
@@ -818,7 +818,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25962841)<br>Y.Q.S.Y.<br>2014-12-29 10:41<br>赞(0) 踩(0) | <div>有出黑胶唱片吗 好喜欢很想买</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25962841)<br>Y.Q.S.Y.<br>2014-12-29 10:41<br>赞(0) 踩(0) | <div>有出黑胶唱片吗 好喜欢很想买</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39556280)<br>o<br>2014-12-25 01:54<br>赞(0) 踩(0) | <div>中文这种有声调的语言都能这么棒，好爱，就是这么flow~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:31<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:31<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129179)<br>weibo: DJ-Ja...<br>2014-12-17 17:51<br>赞(0) 踩(0) | <div>从云南到厦门，the Bridge that across genres @滿舒克_</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129179)<br>weibo: DJ-Ja...<br>2014-12-17 17:44<br>赞(0) 踩(0) | <div>从云南到厦门，the Bridge that across genres</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129179)<br>weibo: DJ-Ja...<br>2014-12-17 17:43<br>赞(0) 踩(0) | <div>从云南到厦门，the Bridge that across genres</div> |
@@ -855,7 +855,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254799428)<br>我还没想好要写什么...<br>2017-11-19 22:16<br>赞(0) 踩(0) | <div>爱你爱你你真帅</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329338675)<br>我还没想好要写什么...<br>2017-12-25 09:47<br>赞(0) 踩(0) | <div>声音好听人好看</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333864573)<br>喜欢很多 听歌很杂 <br>2017-12-26 13:06<br>赞(0) 踩(0) | <div>好的喜欢你</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319905960)<br>/霉粉/<br>2018-07-29 00:51<br>赞(0) 踩(0) | <div>满大大晚安！单曲循环My heart will go on一晚上了，永远支持你 <img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png">话说满大大能翻我的牌嘛[文字cool]</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319905960)<br>/霉粉/<br>2018-07-29 00:51<br>赞(0) 踩(0) | <div>满大大晚安！单曲循环My heart will go on一晚上了，永远支持你 <img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"><br>话说满大大能翻我的牌嘛[文字cool]</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/615230)<br><br>2018-08-10 15:40<br>赞(0) 踩(0) | <div>掌声</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334846092)<br><br>2018-09-11 14:01<br>赞(0) 踩(0) | <div>就知道你会火的，是金子总会发光的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403360818)<br>❤️❤<br>2018-09-16 17:14<br>赞(0) 踩(0) | <div>我爱你满舒克，希望看到你每天开开心心的，不开心时想想我们，你的身后有我们陪着你，一起翻山越岭追梦❤️</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0980cdb20f4dce073cb0b2791c211fd6.jpg)<br>阳冰](https://i.xiami.com/ybmusic) | **播放数**: 2050085<br>**粉丝数**: 33<br>**评论数**: 1<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/0980cdb20f4dce073cb0b2791c211fd6.jpg)<br>阳冰](https://i.xiami.com/ybmusic) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 2050085<br>**粉丝数**: 33<br>**评论数**: 1<br> |
 
 ## 档案
 
@@ -20,6 +20,6 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-06 06:33<br>赞(0) 踩(0) | <div>45471</div> |

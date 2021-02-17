@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10159087)<br>人间有味是清欢<br>2017-10-27 23:09<br>赞(0) 踩(0) | <div>道路死在我身后，离开河床水更自由，为了不断地向前走，我得相信那不是石头。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2294392)<br>字吸 歌呼<br>2017-10-27 23:09<br>赞(0) 踩(0) | <div>为了不断向前走，我得相信那不是蜃楼。我是世界壮丽的伤口，伤口是我身上奔腾的河流，失明的灵魂更加自由。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7873414)<br>每个人皈依自己的宗教。<br>2016-08-27 17:27<br>赞(0) 踩(0) | <div>酒水要单独收费哦。</div> |
@@ -85,7 +85,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42992913)<br>silence<br>2014-10-27 06:00<br>赞(0) 踩(0) | <div>只是名字</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275268)<br><br>2014-07-23 05:44<br>赞(0) 踩(0) | <div>为了不断的向前走，我得相信那不是蜃楼。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6005693)<br><br>2014-07-23 05:27<br>赞(0) 踩(0) | <div>我不要清醒的水呀，我只要如梦的酒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11368649)<br>_<br>2014-05-16 19:50<br>赞(0) 踩(0) | <div>我是世界壮丽的伤口，伤口是我身上奔腾的河流。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11368649)<br>_<br>2014-05-16 19:50<br>赞(0) 踩(0) | <div>我是世界壮丽的伤口，<br>伤口是我身上奔腾的河流。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34348060)<br><br>2014-03-27 19:30<br>赞(1) 踩(0) | <div>早上打扫完院子把我捡来的老藤椅往正门中间一摆，把脚一盘起来边晒老布鞋看胡适，摩托车骑到村口又回来。晕眩，一整个下午都在思索不需要眼睛的@周云蓬 做过什么样奇怪的梦呢。天气凉下来才发现没赶上太阳落山前洗澡，反倒惊现一个想法，这些人就是没有大麻他们还是会尝试探索这个星球上的“自信心”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4207310)<br>丁无<br>2014-03-18 21:10<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2014-03-16 12:06<br>赞(0) 踩(0) | <div>心 境不二</div> |
@@ -97,7 +97,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5645451)<br><br>2013-11-15 16:47<br>赞(0) 踩(0) | <div>[忆相会·壹]：送臭孩子去医院拿白大褂。在路边走得好好的，臭孩子突然就蹦老远了。过了几秒我才反应过来是因为路过有人抽烟。你这168的个子蹦起来惹眼得很啊小祖宗！说实话我从没见过这么淘气俏皮又精致优雅的小姑娘，竟然在大街上像被螃蟹钳了脚一样的蹦老远！我没钳你啊！@ZzzzYhhh</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10129292)<br>你猜是什么限制了你，哈哈...<br>2013-11-13 22:07<br>赞(2) 踩(0) | <div>仍然是他的歌，不知道你会不会喜欢，反正我就是喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2258059)<br><br>2013-10-20 23:07<br>赞(0) 踩(0) | <div>如果感到悲伤就去平安大道，如果感不到悲伤就去平安大道。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2013-10-18 10:19<br>赞(0) 踩(0) | <div>那是一片蓝葡萄，挂在戈壁的天尽头，云外有片大草原，有个孩子在放牛。道路死在我身后，离开河床水更自由，为了不断的向前走，我得相信那不是蜃楼。梦里全是湖水绿洲，醒来满地是跳舞的石头。啊，我的饥渴映红起伏的沙丘，我不要清醒的水，我只要晕眩的酒。清醒的人倒在路旁，……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2013-10-18 10:19<br>赞(0) 踩(0) | <div>那是一片蓝葡萄，<br>挂在戈壁的天尽头，<br>云外有片大草原，<br>有个孩子在放牛。<br><br>道路死在我身后，<br>离开河床水更自由，<br>为了不断的向前走，<br>我得相信那不是蜃楼。<br><br>梦里全是湖水绿洲，<br>醒来满地是跳舞的石头。<br>啊，我的饥渴映红起伏的沙丘，<br>我不要清醒的水，<br>我只要晕眩的酒。<br><br>清醒的人倒在路旁，<br>……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15930475)<br><br>2013-10-14 20:17<br>赞(0) 踩(0) | <div>为了不断的向前走，我得相信那不是蜃楼~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15952904)<br>\m/<br>2013-10-11 18:43<br>赞(0) 踩(0) | <div>幻觉支撑我们活下去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10887393)<br>暂无签名~<br>2013-10-11 00:42<br>赞(0) 踩(0) | <div>我不要清醒的水，我只要晕眩的酒</div> |
@@ -126,30 +126,30 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24739)<br><br>2012-11-20 17:30<br>赞(0) 踩(0) | <div>我不要清清的水啊，我只要如梦的酒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11561090)<br><br>2012-11-19 14:27<br>赞(0) 踩(0) | <div>有意思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11048646)<br><br>2012-10-16 23:49<br>赞(0) 踩(0) | <div>盲人歌者 民谣风 小小的新疆风味儿 有点儿意思</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3553348)<br><br>2012-10-02 18:30<br>赞(0) 踩(0) | <div>我不要清醒的水，我只要如梦的酒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3553348)<br><br>2012-10-02 18:30<br>赞(0) 踩(0) | <div>我不要清醒的水，<br>我只要如梦的酒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1836603)<br><br>2012-09-21 09:02<br>赞(0) 踩(0) | <div>做最伟大的说谎者，编一个永远都醒不了的迷梦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6284858)<br><br>2012-09-16 00:52<br>赞(0) 踩(0) | <div>难过虽然依然让人膈应，还是努力去睡吧，对于人生，也许就如歌里唱的那样，幻觉支撑我们活下去；也如明哥唱的：丑陋留给尘埃　美丽在心头 花花世界有我的　海市蜃楼。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1342442)<br><br>2012-09-05 22:18<br>赞(0) 踩(0) | <div>幻觉带着我们向前走，幻觉支撑我们活下去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2498381)<br><br>2012-09-03 11:10<br>赞(0) 踩(0) | <div>美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3445267)<br><br>2012-08-25 11:15<br>赞(0) 踩(0) | <div>只能接受这一首。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/670947)<br><br>2012-08-09 13:59<br>赞(0) 踩(0) | <div>梦里全是湖水绿洲，醒来满地是跳舞的石头。啊，我的饥渴映红起伏的沙丘，我不要清醒的水，我只要晕眩的酒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/670947)<br><br>2012-08-09 13:59<br>赞(0) 踩(0) | <div>梦里全是湖水绿洲，<br>醒来满地是跳舞的石头。<br>啊，我的饥渴映红起伏的沙丘，<br>我不要清醒的水，<br>我只要晕眩的酒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7973237)<br>思想总转向希望<br>2012-08-07 20:11<br>赞(0) 踩(0) | <div>这是怎样的生存，在夹缝里求生。灵魂在痛苦爬行，欲望被石头碾压，是幻觉支撑我们活下去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3544740)<br><br>2012-07-21 00:44<br>赞(0) 踩(0) | <div>幻觉带着我们向前走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4272044)<br>默默无语两眼泪。<br>2012-07-20 13:40<br>赞(0) 踩(0) | <div>“我不要清醒的水，我只要晕眩的酒。我不要清醒的水，我只要如梦的酒。”昨儿喝红的前在冰箱冰了一下，似乎劲儿变大了，晕头转向的直到现在。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4272044)<br>默默无语两眼泪。<br>2012-07-20 12:36<br>赞(0) 踩(0) | <div>“我是世界壮丽的伤口，伤口是我身上奔腾的河流。啊，我的饥渴映红起伏的沙丘，我不要清醒的水，我只要晕眩的酒。我不要清醒的水，我只要如梦的酒。”昨儿喝红的前在冰箱冰了一下，似乎劲儿变大了，晕头转向的直到现在。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4272044)<br>默默无语两眼泪。<br>2012-07-20 12:36<br>赞(0) 踩(0) | <div>“我是世界壮丽的伤口，<br>伤口是我身上奔腾的河流。<br>啊，我的饥渴映红起伏的沙丘，<br>我不要清醒的水，<br>我只要晕眩的酒。<br>我不要清醒的水，<br>我只要如梦的酒。”<br>昨儿喝红的前在冰箱冰了一下，似乎劲儿变大了，晕头转向的直到现在。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4328784)<br><br>2012-07-20 11:57<br>赞(0) 踩(0) | <div>They are happy,happy that is not true.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2341795)<br>见的人多了，就越来越喜欢...<br>2012-06-22 05:08<br>赞(0) 踩(0) | <div>我是世界壮丽的伤口 伤口是我身上奔腾的河流</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9514955)<br><br>2012-06-21 17:00<br>赞(0) 踩(0) | <div>道路死在我身后/离开河床水更自由/我不要清醒的水/我只要晕眩的酒/我不要清醒的水/我只要如梦的酒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9514955)<br><br>2012-06-21 11:14<br>赞(0) 踩(0) | <div>道路死在我身后/离开河床水更自由/我不要清醒的水啊/我只要晕眩的酒/我不要清醒的水呀/我只要如梦的酒/</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13646)<br><br>2012-06-17 17:45<br>赞(0) 踩(0) | <div>中国风迷幻...nice!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1834924)<br> <br>2012-06-12 18:10<br>赞(0) 踩(0) | <div>声音唱的是歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/578305)<br>爱世人；）<br>2012-05-21 12:39<br>赞(0) 踩(0) | <div>请打开那栅栏的门扇静静地站着，站着象花朵那样安眠你将在静默中得到太阳得到太阳，这就是我的祝愿：）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/578305)<br>爱世人；）<br>2012-05-21 12:39<br>赞(0) 踩(0) | <div>请打开那栅栏的门扇<br>静静地站着，站着<br>象花朵那样安眠<br>你将在静默中得到太阳<br>得到太阳，这就是我的祝愿：）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4704777)<br>你好<br>2012-05-09 23:16<br>赞(0) 踩(0) | <div>点一炷香 泡一壶茶 烟雾缭绕。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/664700)<br>音楽と喫茶店:)<br>2012-05-06 22:17<br>赞(0) 踩(0) | <div>意淫才是正经事</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4756396)<br><br>2012-05-03 06:25<br>赞(0) 踩(0) | <div>清醒的人倒在路旁，幻觉带着我们向前走，大风淘尽了我的衣兜，失明的灵魂更加自由。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4756396)<br><br>2012-05-03 06:25<br>赞(0) 踩(0) | <div>清醒的人倒在路旁，<br>幻觉带着我们向前走，<br>大风淘尽了我的衣兜，<br>失明的灵魂更加自由。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4776740)<br><br>2012-04-28 12:36<br>赞(0) 踩(0) | <div>明天明天~!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3594432)<br>我还没想好要写什么...<br>2012-04-27 12:37<br>赞(0) 踩(0) | <div>清醒的人倒在路旁， 幻觉带着我们向前走， 大风淘尽了我的衣兜， 失明的灵魂更加自由。 我是世界壮丽的伤口， 伤口是我身上奔腾的河流。 啊，我的饥渴映红起伏的沙丘， 我不要清醒的水， 我只要晕眩的酒。 我不要清醒的水， 我只要如梦的酒。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8774241)<br> <br>2012-04-27 00:08<br>赞(0) 踩(0) | <div>我不要清醒的水，我只要晕眩的酒， 清醒的人倒在路旁，幻觉带着我们向前走，大风淘尽了我的衣兜，失明的灵魂更加自由</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8774241)<br> <br>2012-04-27 00:08<br>赞(0) 踩(0) | <div>我不要清醒的水，我只要晕眩的酒， 清醒的人倒在路旁，幻觉带着我们向前走，<br>大风淘尽了我的衣兜，失明的灵魂更加自由</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8943172)<br><br>2012-04-21 17:12<br>赞(0) 踩(0) | <div>我是世界壮丽的伤口伤口是我身上奔腾的河流我不要清醒的水我只要晕眩的酒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8943172)<br><br>2012-04-21 16:06<br>赞(0) 踩(0) | <div>我是世界壮丽的伤口伤口是我身上奔腾的河流我不要清醒的水我只要晕眩的酒周云蓬幻觉支撑我们活下去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6927686)<br><br>2012-03-10 20:06<br>赞(0) 踩(0) | <div>根本不存在出路，只存在幻想，幻想——这致命的东西。</div> |

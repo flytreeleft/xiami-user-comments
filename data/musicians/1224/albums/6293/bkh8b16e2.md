@@ -52,7 +52,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22302420)<br><br>2014-09-25 07:17<br>赞(0) 踩(0) | <div>时常感恩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4460028)<br><br>2011-10-13 17:32<br>赞(0) 踩(0) | <div>非常有特色，我喜欢！</div> |

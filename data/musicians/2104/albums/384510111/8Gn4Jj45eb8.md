@@ -51,8 +51,8 @@ With memories of hope, pain and grief and shame
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14672256)<br>憋说话，听歌<br>2019-08-13 18:34<br>赞(0) 踩(0) | <div>整张专辑最喜欢的一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21413202)<br><br>2019-05-30 21:41<br>赞(1) 踩(0) | <div>喜欢她的声线。能柔情似水，爆发起来如小宇宙！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5696465)<br><br>2019-05-12 15:34<br>赞(0) 踩(0) | <div>突然想念顺子的声音，来听听</div> |
@@ -111,5 +111,5 @@ With memories of hope, pain and grief and shame
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11556049)<br><br>2013-11-24 20:54<br>赞(0) 踩(0) | <div>出新歌啦！喜欢的速度来听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9233073)<br>Hugo(雨中的苹果)，...<br>2013-11-24 20:42<br>赞(1) 踩(0) | <div>1979年，顺子6岁，母亲黄爱莲女士带著她和11岁的姊姊离开北京来到美国。顺子回忆说，当时她还小不懂事，但姊姊却在机场大哭, 因为知道从此就要离开那吹黑管的父亲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13966969)<br><br>2013-11-24 17:55<br>赞(0) 踩(0) | <div>順子終於出新專輯了！SOOOO  JAZZ ! I love her voice!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2786602)<br>人生如歌，所以到歌里去经...<br>2013-11-24 17:44<br>赞(36) 踩(0) | <div>这首歌的介绍让我不得不推荐“。“Three Keys”指的是歌曲中三个不同的音调：A调、A小调和降E调。“Three Doors”指的是我们在各自生命旅程中所做出的选择。。。足够理由给这首歌的尊敬，当然还有顺子的声音！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2786602)<br>人生如歌，所以到歌里去经...<br>2013-11-24 17:44<br>赞(36) 踩(0) | <div>这首歌的介绍让我不得不推荐“。“Three Keys”指的是歌曲中三个不同的音调：A调、A小调和降E调。“Three Doors”指的是我们在各自生命旅程中所做出的选择。<br>。。足够理由给这首歌的尊敬，当然还有顺子的声音！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13567606)<br>有些歌再不听就忘了。<br>2013-11-17 21:41<br>赞(2) 踩(0) | <div>等了这么久，终于等来顺子的新歌了！可是这种难度，是不让人学唱的节奏吗？！</div> |

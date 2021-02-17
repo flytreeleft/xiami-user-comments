@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c4258488fae71289805ecece34eb19cc.jpg)<br>高夫](https://i.xiami.com/gaufu) | **播放数**: 8457530<br>**粉丝数**: 309<br>**评论数**: 28<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 当代民谣 Contemporary Folk, 当代唱作人 Contemporary Singer-Songwriter, 流行摇滚 Pop Rock, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/c4258488fae71289805ecece34eb19cc.jpg)<br>高夫](https://i.xiami.com/gaufu) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 当代民谣 Contemporary Folk, 当代唱作人 Contemporary Singer-Songwriter, 流行摇滚 Pop Rock, 国语流行 Mandarin Pop<br>**播放数**: 8457530<br>**粉丝数**: 309<br>**评论数**: 28<br> |
 
 ## 档案
 
@@ -79,8 +79,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413559921)<br><br>2020-01-08 20:15<br>赞(0) 踩(0) | <div>这是我最近听到最好听的歌。继续努力！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319688150)<br>愿经典不被遗忘<br>2019-12-03 02:04<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319688150)<br>愿经典不被遗忘<br>2019-12-03 02:03<br>赞(0) 踩(0) | <div><img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |

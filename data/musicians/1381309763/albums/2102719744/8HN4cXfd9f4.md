@@ -26,5 +26,3 @@ Il tombe au fond de l'eau plouf
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

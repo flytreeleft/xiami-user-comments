@@ -55,8 +55,8 @@ From now on let’s take it slow<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16610199)<br>旅途之后是旅途，一生几十...<br>2019-05-27 21:50<br>赞(0) 踩(0) | <div>似极了光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9000764)<br><br>2017-10-30 10:21<br>赞(0) 踩(0) | <div>好好玩的一首歌，行万里路，虽说是很远的奢望，但想象想象，还是会很快乐的啊！“慢慢离开，一个地方，辽阔晚空，冲淡不安，莫问前因，只管上路，路上随心看，望着地平线，不必再讲一切悲喜，亦会淡忘，感触里，可酝酿微笑，天将会晴朗，心中有阳光。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160252082)<br><br>2017-09-17 07:58<br>赞(0) 踩(0) | <div>高二住校 第一次离开家的我 每天晚上一点在床上安静的听着这首歌 黑暗的生活照进了阳光。</div> |
@@ -70,12 +70,12 @@ From now on let’s take it slow<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12551448)<br>at last I se...<br>2015-07-15 15:09<br>赞(0) 踩(0) | <div>我竟然还记得他！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9297283)<br> <br>2014-09-08 20:19<br>赞(0) 踩(0) | <div>好可爱的小……男子……O(∩_∩)O</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9297283)<br> <br>2014-09-08 20:17<br>赞(0) 踩(0) | <div>好可爱的……男子……~(≧▽≦)/~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1671793)<br><br>2014-01-23 18:25<br>赞(0) 踩(0) | <div>望着地平线 不必再讲一切悲喜 亦会淡忘感触里可酝酿微笑天将会晴朗 心中有阳光</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1671793)<br><br>2014-01-23 18:25<br>赞(0) 踩(0) | <div>望着地平线 不必再讲<br>一切悲喜 亦会淡忘<br>感触里可酝酿微笑<br>天将会晴朗 心中有阳光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26497452)<br><br>2013-12-08 16:15<br>赞(0) 踩(0) | <div>一峰的词曲都太入我心  像温热的茶 细细品过仍有余味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26497452)<br><br>2013-12-08 16:14<br>赞(0) 踩(0) | <div>“向着前方 披星戴月  不必太匆忙 ” 逃离城市拥堵  如此妙不可言的心境</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6791567)<br><br>2013-11-11 20:58<br>赞(0) 踩(0) | <div>现在还是难道有这样的了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4881628)<br>暂无签名~<br>2013-11-11 00:38<br>赞(0) 踩(0) | <div>晚安. #听完就赶紧睡觉#</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1221376)<br><br>2013-08-07 21:41<br>赞(0) 踩(0) | <div>向着前方 披星戴月 不必太匆忙继续寻访 温暖目光 收进心中 或会淡忘机舱里天地内摇晃 将感觉流放 向着阳光路轨像长线 覆盖地与天让它在梦里 将我带到你身边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1221376)<br><br>2013-08-07 21:41<br>赞(0) 踩(0) | <div>向着前方 披星戴月 不必太匆忙<br>继续寻访 温暖目光 收进心中 或会淡忘<br>机舱里天地内摇晃 将感觉流放 向着阳光<br>路轨像长线 覆盖地与天<br>让它在梦里 将我带到你身边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3099380)<br>借你耳朵<br>2013-08-01 23:27<br>赞(0) 踩(0) | <div>( ⌒⃘ཽ⃜ ◞ළ̆◟ ⌒⃘ཽ⃜ )</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15425517)<br><br>2013-06-29 01:02<br>赞(0) 踩(0) | <div>How I like to take it slow.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7213104)<br><br>2013-03-29 14:21<br>赞(0) 踩(0) | <div>#Love,Life &amp;amp; Faith#非常喜欢@林一峰ChetLam，“想着前方，披星戴月，不必太匆忙。”对自己 只问付出，对他人 不问收获。</div> |

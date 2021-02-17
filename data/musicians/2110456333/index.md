@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/075125d7c352e927d024ec0753cc20cf.jpg)<br>良皓](https://i.xiami.com/floyid) | **播放数**: 2826231<br>**粉丝数**: 82<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 粤语流行 Cantopop, 前卫流行 Progressive Pop<br> |
+| [![](../../images/musicians/075125d7c352e927d024ec0753cc20cf.jpg)<br>良皓](https://i.xiami.com/floyid) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 粤语流行 Cantopop, 前卫流行 Progressive Pop<br>**播放数**: 2826231<br>**粉丝数**: 82<br>**评论数**: 0<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -54,5 +51,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

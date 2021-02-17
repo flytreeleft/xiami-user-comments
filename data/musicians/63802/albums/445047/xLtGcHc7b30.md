@@ -47,18 +47,18 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39530099)<br>而我们应该长大<br>2021-01-29 01:09<br>赞(0) 踩(0) | <div>差点儿因为歌名划走&amp;hellip;&amp;hellip;点开一听：原来是这首？！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47793412)<br>想做一只发射可爱光波的小...<br>2020-12-16 22:44<br>赞(0) 踩(0) | <div>不断在分享却没学会分担</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402046111)<br><br>2020-11-09 21:45<br>赞(0) 踩(0) | <div>看到2w+的收藏，特意进来看看评论</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378291003)<br><br>2020-09-09 14:21<br>赞(0) 踩(0) | <div>好听！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41101839)<br>我躲进挑剔的人群，夜一深...<br>2020-08-03 21:47<br>赞(0) 踩(0) | <div>又是这样的午后我把一切打扫干净看着阳光里飞扬的灰尘等着你来我有不得不做的事我用手臂将它压住我想去听一首歌又怕它打扰到我等你的静谧这份等待的心情像是九月的风扫过高阔的明净我丝毫没有感到微微的冷只是轻咬着唇无知觉的颤多么希望此时是我二十岁绯红的脸颊你突然闯进来一脸风尘上开着清朗的笑我们什么也不说什么也不做就那么静静的看着彼此眼神交流，什么都懂。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41101839)<br>我躲进挑剔的人群，夜一深...<br>2020-08-03 21:47<br>赞(0) 踩(0) | <div>又是这样的午后<br>我把一切打扫干净<br>看着阳光里飞扬的灰尘<br>等着你来<br><br>我有不得不做的事<br>我用手臂将它压住<br>我想去听一首歌<br>又怕它打扰到我等你的静谧<br><br>这份等待的心情<br>像是九月的风扫过高阔的明净<br>我丝毫没有感到微微的冷<br>只是轻咬着唇无知觉的颤<br><br>多么希望此时<br>是我二十岁绯红的脸颊<br>你突然闯进来<br>一脸风尘上开着清朗的笑<br><br>我们什么也不说<br>什么也不做<br>就那么静静的看着<br>彼此<br><br>眼神交流，什么都懂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443248308)<br>章鱼哥，在干嘛<br>2020-07-23 19:29<br>赞(0) 踩(0) | <div>好歌也禁不起大俗名，一个真俗，一个不俗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50461583)<br>微博：文画朲 图片图像都...<br>2020-06-23 14:08<br>赞(0) 踩(0) | <div>多年一直在听的歌，却很少人发现</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615607)<br> 哪有什么岁月安好，只是...<br>2020-06-14 08:25<br>赞(1) 踩(0) | <div>伤不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418998717)<br><br>2020-05-26 22:03<br>赞(0) 踩(0) | <div>哎！可惜了歌名注定不火</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306956112)<br>活在这个世界，是为了用自...<br>2020-05-22 03:14<br>赞(0) 踩(0) | <div>&amp;ldquo;以为追求完美却又经不起受伤&amp;rdquo;一首当年被另一首同名的口水歌淹没的却本该为大众所传唱的好歌&amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306956112)<br>活在这个世界，是为了用自...<br>2020-05-22 03:14<br>赞(0) 踩(0) | <div>&amp;ldquo;以为追求完美却又经不起受伤&amp;rdquo;<br>一首当年被另一首同名的口水歌淹没的却本该为大众所传唱的好歌&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439939606)<br>情不知所起一往而深，恨不...<br>2020-05-13 11:17<br>赞(0) 踩(0) | <div>我还以为伤不起呢，结果真是伤不起 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311249219)<br><br>2020-05-11 23:24<br>赞(0) 踩(0) | <div>特别的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280483685)<br><br>2020-04-27 16:38<br>赞(0) 踩(0) | <div>被歌名耽误的好歌</div> |
@@ -89,7 +89,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88266612)<br> 晚风吹过..<br>2019-05-03 23:40<br>赞(1) 踩(0) | <div>这才是沧海遗珠啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123885312)<br> <br>2019-04-25 00:10<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15177113)<br><br>2019-04-23 07:50<br>赞(0) 踩(0) | <div>歌名确实不好听，歌不错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-04-20 16:13<br>赞(0) 踩(0) | <div>编曲：伍冠谚制作人：小安</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-04-20 16:13<br>赞(0) 踩(0) | <div>编曲：伍冠谚<br>制作人：小安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365958131)<br><br>2019-04-13 08:02<br>赞(0) 踩(0) | <div>只认“可唯”①的☞傷不起，细细品鉴其中浓浓的“郁”味。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304192533)<br>且行且珍惜 <br>2019-04-10 17:54<br>赞(0) 踩(0) | <div>惊艳一曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247695773)<br>阿姨姐姐<br>2019-04-10 11:02<br>赞(2) 踩(0) | <div>不是爱不起，只是伤不起</div> |
@@ -98,7 +98,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284087575)<br><br>2019-03-02 13:58<br>赞(1) 踩(0) | <div>听着这歌，会想到自己，不是只有爱情才伤不起，亲情更是伤不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284087575)<br><br>2019-03-02 13:56<br>赞(0) 踩(0) | <div>听着这歌，想到我自己，不是只有爱情才伤不起，亲情更是伤不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/417429913)<br><br>2019-02-21 18:29<br>赞(0) 踩(0) | <div>可以很少</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335963463)<br>沐浴纯风<br>2019-02-07 17:19<br>赞(1) 踩(0) | <div>八年之后，物是人非，恍若隔世。那些忘不了却已放下的人事又浮出记忆。再多的理性也掩盖不了最纯粹的那些感性！但，仅此而已！仅此！而已……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335963463)<br>沐浴纯风<br>2019-02-07 17:19<br>赞(1) 踩(0) | <div>八年之后，物是人非，恍若隔世。那些忘不了却已放下的人事又浮出记忆。再多的理性也掩盖不了最纯粹的那些感性！<br>但，仅此而已！仅此！而已……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39403875)<br>想和你去别人不知道但很浪...<br>2019-02-03 15:38<br>赞(0) 踩(0) | <div>你们说的那个口水歌我真的是听到就耳朵就自动屏蔽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355551967)<br> 相遇在天，相守在人，珍...<br>2019-01-29 16:07<br>赞(1) 踩(0) | <div>气不顺时少说话，话多必失；心不静时莫决策，决策必败。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409431486)<br><br>2019-01-04 22:52<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
@@ -123,7 +123,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327604850)<br><br>2018-09-24 11:55<br>赞(1) 踩(0) | <div>真的伤不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30639227)<br> <br>2018-09-23 22:29<br>赞(1) 踩(0) | <div>记得那年高三吧，听了这首歌，超级喜欢，之后推荐给身边的人，可谁知大家都以为是哪首烂大街、非常俗气的《伤不起》。真的很难过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329777099)<br><br>2018-09-22 00:11<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352962815)<br>我可以为了你放弃一切，也...<br>2018-09-20 22:48<br>赞(0) 踩(0) | <div>曾有人说我很骄傲，有人追却不理人家。我苦涩的笑了。别人笑我傻，我却笑别人看不清。不是我爱不起，只是伤不起了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352962815)<br>我可以为了你放弃一切，也...<br>2018-09-20 22:48<br>赞(0) 踩(0) | <div>曾有人说我很骄傲，有人追却不理人家。<br>我苦涩的笑了。<br>别人笑我傻，我却笑别人看不清。<br>不是我爱不起，只是伤不起了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336584057)<br><br>2018-09-20 14:26<br>赞(1) 踩(0) | <div>真情真的伤不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93002548)<br>坐看云起时。<br>2018-09-19 23:11<br>赞(1) 踩(0) | <div>不欢而散。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36384317)<br> <br>2018-09-19 09:24<br>赞(2) 踩(0) | <div>歌词真是字字入心啊   以为追求完美  最后都是两败俱伤</div> |
@@ -159,7 +159,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350875351)<br><br>2018-05-31 09:06<br>赞(2) 踩(0) | <div>很喜欢郁可唯的歌，很有味道，人很坚强但也很脆弱，真的是伤不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284649872)<br>我一直都在。<br>2018-05-27 15:17<br>赞(2) 踩(0) | <div>2011年，她推荐的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356603829)<br>好的，收到，谢谢！<br>2018-05-23 14:02<br>赞(1) 踩(0) | <div>好好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92119612)<br>月亮很亮 亮也没用<br>2018-05-20 23:46<br>赞(1) 踩(0) | <div>只会接受笑容感动 不愿面对抱头痛哭难堪没想到这样 也只能这样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92119612)<br>月亮很亮 亮也没用<br>2018-05-20 23:46<br>赞(1) 踩(0) | <div>只会接受笑容感动 不愿面对抱头痛哭难堪<br>没想到这样 也只能这样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276432896)<br><br>2018-05-12 10:18<br>赞(2) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352481157)<br><br>2018-05-09 23:31<br>赞(2) 踩(0) | <div>无病呻吟也是一种疼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277445013)<br><br>2018-05-06 15:13<br>赞(2) 踩(0) | <div>本来就是陌路人何以共天涯。</div> |
@@ -264,7 +264,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230086477)<br>我还没想好要写什么...<br>2017-10-27 23:37<br>赞(4) 踩(0) | <div>歌名毁歌系列   不点进来根本不知道是林夕写的    而且好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1873879)<br><br>2017-10-27 23:32<br>赞(1) 踩(0) | <div>今天收到了你的来信，一切仿佛都松了，呵呵，谢谢让我认识你，一起加油！我知道你看不到，这里是我唯一可以说心声的地方了，88了，孙~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51538422)<br><br>2017-10-27 23:25<br>赞(1) 踩(0) | <div>算我活该</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5824364)<br><br>2017-10-27 23:19<br>赞(1) 踩(0) | <div>他唱出內心的糾葛好厲害！郁可唯給你一個讚！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5824364)<br><br>2017-10-27 23:19<br>赞(1) 踩(0) | <div>他唱出內心的糾葛<br>好厲害！<br>郁可唯<br>給你一個讚！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6670698)<br><br>2017-10-27 23:14<br>赞(1) 踩(0) | <div>晚上在华人星光看到选手唱这首歌。乍一看歌名，心想不会是那首网络歌曲吧！！还好唱出来的是郁可唯版本。林夕的词。于是，晚上无限循环这首，然后洗掉一直脑补的那个版本。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207238428)<br><br>2017-10-27 18:58<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189105955)<br> <br>2017-10-23 00:44<br>赞(3) 踩(0) | <div>第一次听这首歌是刚上高中时军训教官放的歌，觉得很好听。后来下载了，一直听到现在大学毕业。现在听起来满脑子想的都是高中时的军训时候，想着那个教官，很帅。</div> |
@@ -393,7 +393,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259183628)<br><br>2017-04-28 12:38<br>赞(0) 踩(0) | <div>伤不起真的伤不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274545259)<br><br>2017-04-27 23:45<br>赞(0) 踩(0) | <div>郁可唯❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291110722)<br><br>2017-04-24 15:14<br>赞(9) 踩(0) | <div>真的是好歌毁于歌名，那首《伤不起》我现在听都觉了侮辱了这首歌。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242414062)<br>博爱粉，喜欢很多idol<br>2017-04-21 17:13<br>赞(2) 踩(0) | <div>可唯这首歌很好听。同样的歌名，但却差距这么大～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242414062)<br>博爱粉，喜欢很多idol<br>2017-04-21 17:13<br>赞(2) 踩(0) | <div>可唯这首歌很好听。<br>同样的歌名，但却差距这么大～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5748169)<br>一位仙女<br>2017-04-19 23:07<br>赞(3) 踩(0) | <div>好歌毁于歌名</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281793161)<br><br>2017-04-18 22:49<br>赞(0) 踩(0) | <div>电视剧很好看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250534970)<br><br>2017-04-18 17:53<br>赞(0) 踩(0) | <div>还不错的啦</div> |
@@ -591,7 +591,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90127478)<br>我知道你会做我的掩护当我...<br>2016-04-22 19:26<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22084283)<br><br>2016-04-21 16:29<br>赞(2) 踩(0) | <div>真的很好听 一直留着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49254049)<br>部落格：www.Jerr...<br>2016-04-13 03:10<br>赞(4) 踩(0) | <div>歌词非常好，可惜歌名毁了这歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61004130)<br>就是喜欢听歌<br>2016-04-10 21:59<br>赞(4) 踩(0) | <div>“任何事物都有消失的时候” “每个人都想有一个完整的爱情，我只想用自己的方式去爱，不想伤害任何人”#郁可唯# #伤不起# #林夕#</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61004130)<br>就是喜欢听歌<br>2016-04-10 21:59<br>赞(4) 踩(0) | <div>“任何事物都有消失的时候” “每个人都想有一个完整的爱情，我只想用自己的方式去爱，不想伤害任何人”<br>#郁可唯# #伤不起# #林夕#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084700)<br><br>2016-04-09 23:12<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51769832)<br><br>2016-03-26 07:31<br>赞(2) 踩(0) | <div>一首好歌就这样被歌名糟蹋了，林夕作词又怎样，王麟的烂俗伤不起火的甩你一条街</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/107448514)<br><br>2016-03-24 07:23<br>赞(1) 踩(0) | <div>不欢 而散</div> |
@@ -614,7 +614,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/607162)<br><br>2016-01-27 12:56<br>赞(1) 踩(0) | <div>听鞠婧祎唱吧翻唱才知道这首歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117688104)<br><br>2016-03-19 09:34<br>赞(0) 踩(0) | <div>i这首歌很多年了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55450204)<br>天上有光，会照你身上，你...<br>2016-01-24 13:13<br>赞(0) 踩(0) | <div>不是爱不起，只是伤不起</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55450204)<br>天上有光，会照你身上，你...<br>2016-01-24 13:12<br>赞(4) 踩(0) | <div>这首歌陪我渡过了最美好的20岁，四年了，每每听到这首歌都会心痛，现在终于可以释然了 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">你幸福就好 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">这首歌真的很不错哟 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png">――琦琦 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55450204)<br>天上有光，会照你身上，你...<br>2016-01-24 13:12<br>赞(4) 踩(0) | <div>这首歌陪我渡过了最美好的20岁，四年了，每每听到这首歌都会心痛，现在终于可以释然了 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">你幸福就好 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">这首歌真的很不错哟 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"><br>――琦琦 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83465002)<br>人虽错，怎奈圣人也有过。...<br>2016-01-17 00:34<br>赞(0) 踩(0) | <div>不是不爱你，只是伤不起，既然欢乐变成负担，只有不欢而散……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42071559)<br>岁月漫长<br>2016-01-14 22:51<br>赞(1) 踩(0) | <div>哦。我本来打了八九行的字后来还是删了 剩下的话自行想象好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2415798)<br> <br>2016-01-14 20:55<br>赞(2) 踩(0) | <div>注意到郁可唯是从这首歌开始的</div> |
@@ -676,7 +676,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37798519)<br> <br>2014-08-29 21:39<br>赞(0) 踩(0) | <div>火车放大音量、安静流泪的歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14545032)<br><br>2014-08-24 16:28<br>赞(0) 踩(0) | <div>林夕！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5892784)<br><br>2014-07-18 17:28<br>赞(0) 踩(0) | <div>没想到这样 也只能这样.....又是一首好好听的，蛮感动的歌曲。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7970752)<br><br>2014-07-02 11:03<br>赞(0) 踩(0) | <div>就像咖啡只能不断加糖就像亲吻不曾预备辛酸只会接受笑容感动不愿面对抱头痛哭难堪没想到这样也只能这样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7970752)<br><br>2014-07-02 11:03<br>赞(0) 踩(0) | <div>就像咖啡只能不断加糖<br>就像亲吻不曾预备辛酸<br>只会接受笑容感动<br>不愿面对抱头痛哭难堪<br>没想到这样<br>也只能这样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35707445)<br><br>2014-06-22 23:03<br>赞(0) 踩(0) | <div>高2那年的单曲循环 喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37168160)<br><br>2014-06-03 16:42<br>赞(2) 踩(0) | <div>同学比赛时唱的！可唯的声音真不错~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7622529)<br> <br>2014-05-23 17:12<br>赞(0) 踩(0) | <div>今天听对面的姐姐突然一哈放了这个歌，我都好久没唱了。</div> |
@@ -699,7 +699,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404871305)<br><br>2020-02-11 17:47<br>赞(0) 踩(0) | <div><q><b>跳跃的毛衣说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13902825)<br>唇语也绽放似昙花一现<br>2013-11-23 23:37<br>赞(3) 踩(0) | <div>这首歌完全是被王麟那个傻逼毁了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21216446)<br><br>2013-09-23 10:58<br>赞(0) 踩(0) | <div>不是爱不起 只是伤不起</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19661101)<br><br>2013-08-20 23:11<br>赞(0) 踩(0) | <div>呵呵，衡量时间与空间有一种方法，那就是粉碎她，换来凤凰涅磐的重生！衡量爱情与现实有一种方法，那就是让沧海，倒灌过来！~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19661101)<br><br>2013-08-20 23:11<br>赞(0) 踩(0) | <div>呵呵，衡量时间与空间有一种方法，那就是粉碎她，换来凤凰涅磐的重生！<br>衡量爱情与现实有一种方法，那就是让沧海，倒灌过来！~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3266313)<br>我还没想好要写什么...<br>2013-08-20 22:52<br>赞(0) 踩(0) | <div>今晚知道的一首歌，原来是林夕大大的作品啊~~好开心~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15981907)<br><br>2013-07-28 20:09<br>赞(0) 踩(0) | <div>我偏不说，就让你感伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13499574)<br>音乐了解我<br>2013-07-17 11:41<br>赞(0) 踩(0) | <div>差点以为她翻唱“伤不起真的伤不起……”，不过她翻唱应该也会翻得很好听</div> |
@@ -721,7 +721,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8898847)<br><br>2012-10-24 23:05<br>赞(0) 踩(0) | <div>同样系“伤不起”，呢首正好多呢~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1040691)<br>暂无签名~<br>2012-10-12 11:23<br>赞(0) 踩(0) | <div>听着这首歌，刹那间字字句句都入心入肺。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4057522)<br>难怪了，至少1/3的收藏...<br>2012-10-06 17:51<br>赞(0) 踩(0) | <div>不一样的伤不起</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317931)<br>好久不见。虾米生态堪忧。...<br>2012-09-29 01:01<br>赞(0) 踩(0) | <div>不是不爱你 只是伤不起不断在分享 没想过分担一直超泡影莽撞才失望 就绝望以为追求完美 变成两败俱伤既然欢乐变成负担 活该不欢而散</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317931)<br>好久不见。虾米生态堪忧。...<br>2012-09-29 01:01<br>赞(0) 踩(0) | <div>不是不爱你 只是伤不起<br>不断在分享 没想过分担<br>一直超泡影莽撞<br>才失望 就绝望<br>以为追求完美 变成两败俱伤<br>既然欢乐变成负担 活该不欢而散</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/949966)<br><br>2012-08-27 00:26<br>赞(2) 踩(0) | <div>幸好不是那首伤不起~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7629205)<br> <br>2012-08-25 12:53<br>赞(0) 踩(0) | <div>我的心是小小的寂寞的城，城外飘来了红。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9756240)<br><br>2012-08-23 16:43<br>赞(0) 踩(0) | <div>好听！♬ #晒歌单,赢大奖#  用虾米，听好音乐@虾米音乐 @虾米网</div> |
@@ -753,7 +753,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2808779)<br><br>2011-12-26 21:19<br>赞(0) 踩(0) | <div>百听不厌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5614256)<br><br>2011-12-24 20:46<br>赞(0) 踩(0) | <div>林夕作词 一个完美的嗓子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3518509)<br> <br>2011-12-24 13:55<br>赞(0) 踩(0) | <div>不是爱不起 只是伤不起/只知道坚持脆弱浪漫/不知道谁不自量/太难过 想难忘/以为追求完美 却没想过会受伤/既然欢乐变成负担 只有不欢而散</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3644032)<br>我还没想好要写什么...<br>2011-12-24 00:01<br>赞(0) 踩(0) | <div>只会接受笑容感动 不愿面对抱头痛哭 难堪 没想到这样 也只能这样不是爱不起 只是伤不起 只知道坚持脆弱浪漫 不知道谁不自量 怕难过 想难忘 以为追求完美却没想过会受伤 既然欢乐变成负担 只有 不欢而散</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3644032)<br>我还没想好要写什么...<br>2011-12-24 00:01<br>赞(0) 踩(0) | <div>只会接受笑容感动 不愿面对抱头痛哭 难堪 没想到这样 也只能这样<br>不是爱不起 只是伤不起 只知道坚持脆弱浪漫 不知道谁不自量 怕难过 想难忘 以为追求完美却没想过会受伤 既然欢乐变成负担 只有 不欢而散</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2838646)<br><br>2011-12-19 22:25<br>赞(0) 踩(0) | <div>开车多次听到电台播放···晚安我的各位纠结的女纸们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7250288)<br><br>2011-12-15 13:09<br>赞(1) 踩(0) | <div>好爱伤不起啊，超好听啊啊啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3989893)<br>我还没想好要写什么...<br>2011-12-09 23:26<br>赞(0) 踩(0) | <div>伤不起吖伤不起~</div> |
@@ -765,9 +765,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1209442)<br><br>2011-12-01 14:57<br>赞(0) 踩(0) | <div>“伤不起”。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6434313)<br><br>2011-11-16 16:20<br>赞(0) 踩(0) | <div>好听的。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5713466)<br><br>2011-11-09 17:28<br>赞(0) 踩(0) | <div>伤不起~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6653501)<br><br>2011-11-06 20:42<br>赞(0) 踩(0) | <div>不是爱不起，只是伤不起。既然快乐变成负担，活该，不欢而散。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6653501)<br><br>2011-11-06 20:42<br>赞(0) 踩(0) | <div>不是爱不起，只是伤不起。<br>既然快乐变成负担，<br>活该，<br>不欢而散。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/395643)<br><br>2011-11-03 20:45<br>赞(0) 踩(0) | <div>再来个抒情版本！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4377050)<br><br>2011-11-02 11:18<br>赞(0) 踩(0) | <div>真的是老了   越来越伤不起了下午不能喝茶和咖啡  不然晚上睡不着</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4377050)<br><br>2011-11-02 11:18<br>赞(0) 踩(0) | <div>真的是老了   越来越伤不起了<br><br>下午不能喝茶和咖啡  不然晚上睡不着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6482928)<br><br>2011-10-28 21:13<br>赞(0) 踩(0) | <div>[傷心]不知道為什麼今天真的好傷感，座在電腦前把與某人有關的微博和發出的評論 收到的評論的全看一遍，最後全部都Delete了，但卻有幾個卻刪不了，要那個人刪才行，那怎麼辦！連手機信息和短號也刪了吧！一邊聽淚慢慢的留下來了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6482928)<br><br>2011-10-28 21:10<br>赞(0) 踩(0) | <div>一邊聽一邊哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3181152)<br>如果爱。<br>2011-10-19 00:12<br>赞(0) 踩(0) | <div>网络超红歌曲</div> |
@@ -801,9 +801,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2448845)<br><br>2011-09-01 22:08<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。。。夕爷肿么了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5538048)<br><br>2011-08-29 21:08<br>赞(0) 踩(0) | <div>只是伤不起，不是爱不起。蒽！常常因为这样而不敢面对爱~~！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3645479)<br><br>2011-08-27 20:38<br>赞(0) 踩(0) | <div>还可以</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1470741)<br><br>2011-08-25 14:32<br>赞(1) 踩(0) | <div>颤音，转音，听着很入耳，很舒服，声音温暖，感觉心脏被柔柔的抚摸着。最后副歌的部分，也让你忍不住要跟着叹息一声。尤其喜欢前奏的部分，有张力，很大气~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1470741)<br><br>2011-08-25 14:31<br>赞(1) 踩(0) | <div>颤音，转音，听着很入耳，很舒服，声音温暖，感觉心脏被柔柔的抚摸着。最后副歌的部分，也让你忍不住要跟着叹息一声。尤其喜欢前奏的部分，有张力，很大气~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1470741)<br><br>2011-08-25 14:31<br>赞(1) 踩(0) | <div>颤音，转音，听着很入耳，很舒服，声音温暖，感觉心脏被柔柔的抚摸着。最后副歌的部分，也让你忍不住要跟着叹息一声。尤其喜欢前奏的部分，有张力，很大气~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1470741)<br><br>2011-08-25 14:32<br>赞(1) 踩(0) | <div>颤音，转音，听着很入耳，很舒服，声音温暖，感觉心脏被柔柔的抚摸着。<br>最后副歌的部分，也让你忍不住要跟着叹息一声。尤其喜欢前奏的部分，有张力，很大气~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1470741)<br><br>2011-08-25 14:31<br>赞(1) 踩(0) | <div>颤音，转音，听着很入耳，很舒服，声音温暖，感觉心脏被柔柔的抚摸着。<br>最后副歌的部分，也让你忍不住要跟着叹息一声。尤其喜欢前奏的部分，有张力，很大气~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1470741)<br><br>2011-08-25 14:31<br>赞(1) 踩(0) | <div>颤音，转音，听着很入耳，很舒服，声音温暖，感觉心脏被柔柔的抚摸着。<br>最后副歌的部分，也让你忍不住要跟着叹息一声。尤其喜欢前奏的部分，有张力，很大气~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/537327)<br><br>2011-08-24 17:18<br>赞(1) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/537327)<br><br>2011-08-24 17:12<br>赞(1) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5541418)<br><br>2011-08-24 15:33<br>赞(0) 踩(0) | <div>新专辑里这首歌很有份量。</div> |
@@ -855,8 +855,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4991858)<br>暂无签名~<br>2011-07-24 12:21<br>赞(0) 踩(0) | <div>歌词人人笑了，唱的也很失败。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4480783)<br><br>2011-07-23 07:17<br>赞(0) 踩(0) | <div>很好的音质！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4972206)<br><br>2011-07-22 11:39<br>赞(1) 踩(0) | <div>感觉不错哦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305032)<br><br>2011-07-21 21:12<br>赞(0) 踩(0) | <div>就像咖啡只能不断加糖 就像亲吻不曾预备心酸。只会接受笑容感动 不愿面对抱头痛哭难堪。以为追求完美 却没想过会受伤。既然欢乐变成负担 只有不欢而散。歌很棒。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4883596)<br>不好意思各位我改用云音乐...<br>2011-07-21 19:56<br>赞(1) 踩(0) | <div>让我想到了  春光乍泄不是爱不起  只是伤不起~夕爷  超赞！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305032)<br><br>2011-07-21 21:12<br>赞(0) 踩(0) | <div>就像咖啡只能不断加糖 就像亲吻不曾预备心酸。<br>只会接受笑容感动 不愿面对抱头痛哭难堪。<br>以为追求完美 却没想过会受伤。<br>既然欢乐变成负担 只有不欢而散。<br>歌很棒。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4883596)<br>不好意思各位我改用云音乐...<br>2011-07-21 19:56<br>赞(1) 踩(0) | <div>让我想到了  春光乍泄<br>不是爱不起  只是伤不起~<br>夕爷  超赞！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4958589)<br><br>2011-07-21 18:14<br>赞(1) 踩(0) | <div>nice song</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3458461)<br><br>2011-07-20 20:28<br>赞(0) 踩(0) | <div>伤不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/629268)<br><br>2011-07-20 17:00<br>赞(0) 踩(0) | <div>听到想吐去，什么烂歌啊，词曲都是一级的烂。林夕，郁可唯再怎么没名气，你也不能随便拿首破歌词来忽悠人家啊。特意来这里吐槽的！</div> |
@@ -871,7 +871,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4319253)<br><br>2011-07-19 14:59<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3886019)<br><br>2011-07-19 11:38<br>赞(0) 踩(0) | <div>林夕写的词???</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2485387)<br>当闭上眼<br>2011-07-18 20:52<br>赞(0) 踩(0) | <div>韵味</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4283627)<br><br>2011-07-18 14:54<br>赞(0) 踩(0) | <div>不是不爱你 只是伤不起不断在分享 没想过分担一直超泡影莽撞才失望 就绝望以为追求完美 变成两败俱伤既然欢乐变成负担 活该不欢而散</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4283627)<br><br>2011-07-18 14:54<br>赞(0) 踩(0) | <div>不是不爱你 只是伤不起<br>不断在分享 没想过分担<br>一直超泡影莽撞<br>才失望 就绝望<br>以为追求完美 变成两败俱伤<br>既然欢乐变成负担 活该不欢而散</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3139295)<br><br>2011-07-18 13:52<br>赞(0) 踩(0) | <div>还真有这首歌~不是爱不起只是伤不起~就像咖啡只能不断加糖~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1026073)<br><br>2011-07-18 00:21<br>赞(0) 踩(0) | <div>伤不起啊~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2275967)<br>没有音乐的人生是不完整的<br>2011-07-16 21:10<br>赞(0) 踩(0) | <div>就像咖啡只能不断加糖，就像亲吻不曾预备心酸，只会接受相拥感动不愿面对抱头痛哭 难堪，悲伤到这样，也只能这样...#伤不起，都有歌了#</div> |
@@ -884,12 +884,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3352839)<br><br>2011-07-14 00:02<br>赞(1) 踩(0) | <div>虽然歌名俗了点..但这首歌蛮耐听的..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3295458)<br><br>2011-07-13 20:05<br>赞(1) 踩(0) | <div>伤不起的来听听！！！！！！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4833427)<br><br>2011-07-13 17:21<br>赞(1) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4377050)<br><br>2011-07-13 08:28<br>赞(0) 踩(0) | <div>别说俗辣   我就等着上线了   去K这首！～话不多说   抓紧时间听几首   就要开始狗血了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4377050)<br><br>2011-07-13 08:28<br>赞(0) 踩(0) | <div>别说俗辣   我就等着上线了   去K这首！～<br><br>话不多说   抓紧时间听几首   就要开始狗血了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2909525)<br><br>2011-07-12 21:50<br>赞(0) 踩(0) | <div>名字好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4344552)<br><br>2011-07-12 19:44<br>赞(1) 踩(0) | <div>虽然名字很俗 但是很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4277677)<br><br>2011-07-12 19:32<br>赞(0) 踩(0) | <div>vvv</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2668479)<br>伪音乐爱好者。<br>2011-07-12 17:29<br>赞(1) 踩(0) | <div>一直觉得郁可唯的歌声缺乏自信~~~可是你真的很优秀，也不乏大气，是我心目中芒果台有史以来选出来的最棒的歌者。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4377050)<br><br>2011-07-12 17:20<br>赞(0) 踩(0) | <div>再次听  还是很好听！～   哈哈哈若不是歌名   我不会听。   听了，感觉不错！～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4377050)<br><br>2011-07-12 17:20<br>赞(0) 踩(0) | <div>再次听  还是很好听！～   哈哈哈<br><br>若不是歌名   我不会听。   听了，感觉不错！～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4759745)<br><br>2011-07-12 15:53<br>赞(2) 踩(0) | <div>郁可唯的声音很好听   《伤不起》不是不完美 只是伤不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64696)<br>新浪微博@破产美剧迷<br>2011-07-10 15:51<br>赞(1) 踩(0) | <div>歌词开始听有点排斥。后来发现很慢热，有态度。郁可唯驾驭得很棒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1441605)<br><br>2011-07-10 11:32<br>赞(1) 踩(0) | <div>写的真好“不是爱不起，只是伤不起”</div> |
@@ -899,7 +899,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4786521)<br><br>2011-07-09 15:19<br>赞(1) 踩(0) | <div>郁可唯，那届超女声音最美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4700904)<br><br>2011-07-09 10:44<br>赞(0) 踩(0) | <div>...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1902701)<br>我还没想好要写什么...<br>2011-07-08 21:12<br>赞(0) 踩(0) | <div>已改。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4377050)<br><br>2011-07-08 15:10<br>赞(0) 踩(0) | <div>这两天心情真的很不好   也是我自工作以来最不开心的两天。偶尔会胡思乱想，现在我做的 到底是不是我想要的但是  也想不到更好的办法了   只有这样了   坚持？ 熬着？好难过   几乎看不到什么事是好的   我不开心  那么这些就都不是我想要的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4377050)<br><br>2011-07-08 15:10<br>赞(0) 踩(0) | <div>这两天心情真的很不好   也是我自工作以来最不开心的两天。<br><br>偶尔会胡思乱想，现在我做的 到底是不是我想要的<br><br>但是  也想不到更好的办法了   只有这样了   坚持？ 熬着？<br><br>好难过   几乎看不到什么事是好的   我不开心  那么这些就都不是我想要的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3270957)<br><br>2011-07-08 11:52<br>赞(1) 踩(0) | <div>唱出一直以來說不出的感受</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2936442)<br><br>2011-07-08 11:27<br>赞(0) 踩(0) | <div>词还是很好，不过感觉她不大适合唱林夕的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/502904)<br><br>2011-07-08 03:13<br>赞(0) 踩(0) | <div>这什么破歌啊，再这么唱下去就毁了~</div> |
@@ -908,13 +908,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114431)<br><br>2011-07-07 16:41<br>赞(0) 踩(0) | <div>感觉不像林夕的风格啊~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4191115)<br><br>2011-07-07 11:50<br>赞(0) 踩(0) | <div>伤不起啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/538242)<br><br>2011-07-07 11:02<br>赞(1) 踩(0) | <div>没有好歌唱的歌手伤不起啊！@赵小姐-Zoe</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4762885)<br><br>2011-07-07 10:38<br>赞(0) 踩(0) | <div>只是在唱歌的话。。。没什么好听的。。。技巧更好的歌手有的是。。要的有感情。能融入。会理解~~。。与听者有共鸣的好的 演歌者 像陈奕迅 林宥嘉。。都不错。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4762885)<br><br>2011-07-07 10:38<br>赞(0) 踩(0) | <div>只是在唱歌的话。。。没什么好听的。。。技巧更好的歌手有的是。。<br>要的有感情。能融入。会理解~~。。与听者有共鸣的好的 演歌者 像陈奕迅 林宥嘉。。都不错。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4082355)<br><br>2011-07-07 08:52<br>赞(0) 踩(0) | <div>【Music Time】我伤不起！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4082355)<br><br>2011-07-07 08:49<br>赞(0) 踩(0) | <div>【Music Time】我伤不起！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1168971)<br><br>2011-07-07 00:50<br>赞(0) 踩(0) | <div>只是在唱歌的话。。。没什么好听的。。。技巧更好的歌手有的是。。要的有感情。能融入。会理解~~。。与听者有共鸣的好的 演歌者  像陈奕迅 林宥嘉。。都不错。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1168971)<br><br>2011-07-07 00:50<br>赞(0) 踩(0) | <div>只是在唱歌的话。。。没什么好听的。。。技巧更好的歌手有的是。。<br>要的有感情。能融入。会理解~~。。与听者有共鸣的好的 演歌者  像陈奕迅 林宥嘉。。都不错。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2486624)<br>Like a star<br>2011-07-06 23:14<br>赞(0) 踩(0) | <div>林夕。。。。伤不起啊！太敷衍了~！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4757605)<br><br>2011-07-06 19:45<br>赞(0) 踩(0) | <div>婉转</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3650642)<br><br>2011-07-06 12:59<br>赞(1) 踩(0) | <div>这首歌讲了一个特别好的道理——长久的爱情一定会有伤痛的。可唯的唱功进步了！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3650642)<br><br>2011-07-06 12:59<br>赞(1) 踩(0) | <div>这首歌讲了一个特别好的道理——长久的爱情一定会有伤痛的。<br>可唯的唱功进步了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4377050)<br><br>2011-07-06 09:35<br>赞(0) 踩(0) | <div>我才是伤不起呢     5555555555555   心情不好哇   一点破大的事儿都解决不了     55555555</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2142490)<br><br>2011-07-06 00:58<br>赞(0) 踩(0) | <div>伤~~~~~~~~~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2493004)<br><br>2011-07-06 00:17<br>赞(0) 踩(0) | <div>心伤不起</div> |
@@ -923,7 +923,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/861579)<br><br>2011-07-05 14:47<br>赞(0) 踩(0) | <div>林夕明显是在走过场·我看出了没用心！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2823897)<br>我还没想好要写什么...<br>2011-07-04 23:15<br>赞(0) 踩(0) | <div>这歌词居然是林夕写的。囧！！！我表示真心伤不起。Orz</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325719)<br><br>2011-07-04 21:41<br>赞(0) 踩(0) | <div>被歌名打败了...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2011-07-04 18:43<br>赞(0) 踩(0) | <div>7月4日    晴今天看到陶子主持的新节目《华人星光大道》，竟然请到夕爷当评审，真是会让人加深双眼皮，削尖下巴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2011-07-04 18:43<br>赞(0) 踩(0) | <div>7月4日    晴<br>今天看到陶子主持的新节目《华人星光大道》，竟然请到夕爷当评审，真是会让人加深双眼皮，削尖下巴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64696)<br>新浪微博@破产美剧迷<br>2011-07-04 17:37<br>赞(0) 踩(0) | <div>歌词好雷啊，夕爷你太让我失望了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4490715)<br><br>2011-07-04 17:27<br>赞(0) 踩(0) | <div>伤不起，加油。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4490715)<br><br>2011-07-04 17:25<br>赞(1) 踩(0) | <div>挺好听的。顶一个。</div> |
@@ -934,7 +934,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1718489)<br><br>2011-07-02 22:21<br>赞(0) 踩(0) | <div>本来很期待的，不过那个MV实在不忍心再看第二遍，拜托不要毁了这首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4264112)<br><br>2011-07-02 12:22<br>赞(0) 踩(0) | <div>郁可唯 - 伤不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2098677)<br><br>2011-07-01 18:35<br>赞(0) 踩(0) | <div>看在是林夕写的词的份上。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2699275)<br><br>2011-07-01 11:24<br>赞(0) 踩(0) | <div>悲傷到這樣 也只能這樣不是愛不起 只是傷不起只知道堅持脆弱浪漫 不知道誰不自量還難過 誰能忘以為追求完美卻又沒想過會受傷既然歡樂變成負擔 只有 不歡而散</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2699275)<br><br>2011-07-01 11:24<br>赞(0) 踩(0) | <div>悲傷到這樣 也只能這樣<br><br>不是愛不起 只是傷不起<br>只知道堅持脆弱浪漫 不知道誰不自量<br>還難過 誰能忘<br>以為追求完美卻又沒想過會受傷<br>既然歡樂變成負擔 只有 不歡而散</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3603462)<br><br>2011-06-30 15:32<br>赞(0) 踩(0) | <div>伤不起的同鞋请来听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3603462)<br><br>2011-06-30 15:28<br>赞(0) 踩(0) | <div>伤不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2454250)<br><br>2011-06-30 11:54<br>赞(1) 踩(0) | <div>歌名挺恶俗的，但是无可否认的是，它确实是首好听的歌。</div> |

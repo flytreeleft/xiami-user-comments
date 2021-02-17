@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/821bfb11dea947656d12dfc425685b28.jpg)<br>旧北乐队](https://i.xiami.com/jiubei) | **播放数**: 977917<br>**粉丝数**: 1790<br>**评论数**: 53<br>**地区**: China 中国大陆<br>**风格**: 后摇 Post-Rock, 流行摇滚 Pop Rock, 独立摇滚 Indie Rock, 迷幻摇滚 Psychedelic Rock, 流行 Pop<br> |
+| [![](../../images/musicians/821bfb11dea947656d12dfc425685b28.jpg)<br>旧北乐队](https://i.xiami.com/jiubei) | **地区**: China 中国大陆<br>**风格**: 后摇 Post-Rock, 流行摇滚 Pop Rock, 独立摇滚 Indie Rock, 迷幻摇滚 Psychedelic Rock, 流行 Pop<br>**播放数**: 977917<br>**粉丝数**: 1790<br>**评论数**: 53<br> |
 
 ## 档案
 
@@ -34,8 +34,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427664995)<br><br>2021-01-29 02:10<br>赞(1) 踩(0) | <div>虾米的音乐风格不错，能发现一些小众的好歌、谢谢虾米陪我度过的时光！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2021-01-10 07:26<br>赞(0) 踩(0) | <div>湖北旧北20210110.52</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2021-01-07 17:09<br>赞(0) 踩(0) | <div>✧*｡</div> |

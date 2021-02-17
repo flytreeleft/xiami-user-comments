@@ -66,11 +66,11 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446257764)<br><br>2020-12-05 23:01<br>赞(0) 踩(0) | <div>听哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265689756)<br>“我想买束花给你可路口的...<br>2020-11-09 08:54<br>赞(1) 踩(0) | <div>真好听！ <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377667399)<br>痛苦或快乐…都是获得<br>2020-10-29 06:49<br>赞(3) 踩(0) | <div>大早上的突然就听哭了， <img src="../../../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png">走在去搬砖的路上，边听边哭T﹏T哭得像个孩子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377667399)<br>痛苦或快乐…都是获得<br>2020-10-29 06:49<br>赞(3) 踩(0) | <div>大早上的突然就听哭了， <img src="../../../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png"><br>走在去搬砖的路上，边听边哭T﹏T哭得像个孩子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445545065)<br>我醉欲眠君且去 明朝有意...<br>2020-10-26 01:49<br>赞(2) 踩(0) | <div>虾米竟然有这个的音源 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png">想家啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406086679)<br><br>2020-10-22 11:10<br>赞(2) 踩(0) | <div>评论真的是很少呀，这么好听的歌 <img src="../../../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27258461)<br><br>2020-10-19 10:15<br>赞(1) 踩(0) | <div>今天给两岁多的两个小朋友听这首歌，一个眼眶红红，一个说他的妈妈呢，我说他的妈妈在月亮上，他出来流浪回不去了。她说他的爸爸妈妈想他了，他看不到他们了。</div> |
@@ -98,7 +98,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350683713)<br><br>2020-05-08 18:14<br>赞(0) 踩(0) | <div><q><b>用户071004说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439996500)<br>等待和希望<br>2020-03-07 12:24<br>赞(0) 踩(0) | <div>柔软。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45560900)<br>我还没想好要写什么...<br>2020-02-21 23:18<br>赞(1) 踩(0) | <div>这首歌好适合睡前听，深深的声音好有抚慰人心的力量</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197451682)<br><br>2020-02-10 13:45<br>赞(3) 踩(0) | <div>小兔子又要远行啦兔子妈妈眼睛红红躲在厨房抽抽嗒嗒“没事呀，妈妈在切洋葱呐”小兔子觉得事情没那么简单可是中午餐桌上的确有一盘洋葱呀小兔子恨恨夹起一筷子心想小洋葱真是不听话竟敢惹哭兔子妈妈洋葱悄悄地说：我答应帮兔子妈妈保密，可是你要早点回家呀。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197451682)<br><br>2020-02-10 13:45<br>赞(3) 踩(0) | <div>小兔子又要远行啦<br>兔子妈妈眼睛红红<br>躲在厨房抽抽嗒嗒<br>“没事呀，妈妈在切洋葱呐”<br>小兔子觉得事情没那么简单<br>可是中午餐桌上的确有一盘洋葱呀<br>小兔子恨恨夹起一筷子<br>心想小洋葱真是不听话<br>竟敢惹哭兔子妈妈<br>洋葱悄悄地说：我答应帮兔子妈妈保密，可是你要早点回家呀。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2020-01-30 10:47<br>赞(0) 踩(0) | <div>好可爱的歌，好可爱的深❤❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378869667)<br><br>2020-01-21 21:24<br>赞(0) 踩(0) | <div>好听(✪▽✪)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287947806)<br>可怜瑞雪从天落 凄凉灭地...<br>2020-01-15 16:27<br>赞(1) 踩(0) | <div>2020.1.15 16:26 坐着城际公交 在回家的路上 妈 我想吃你做的菜了</div> |
@@ -144,7 +144,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297819998)<br>如果说你是我的大树，那么...<br>2018-12-22 20:43<br>赞(3) 踩(0) | <div>连续听了好多遍，憋泪听完之后好感动 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297819998)<br>如果说你是我的大树，那么...<br>2018-12-22 20:40<br>赞(4) 踩(0) | <div>虽然我只是个小孩，但是听的好感动 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368112350)<br><br>2018-12-19 00:09<br>赞(2) 踩(0) | <div>好萌的歌，心情压抑的时候可以听听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290705743)<br>我还没想好要写什么...<br>2018-12-16 02:13<br>赞(0) 踩(0) | <div>特别喜欢听这首歌，每次自己有什么压力时候就听这首，就觉得“心情”不会那样差下去的 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">周深的歌很棒 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290705743)<br>我还没想好要写什么...<br>2018-12-16 02:13<br>赞(0) 踩(0) | <div>特别喜欢听这首歌，每次自己有什么压力时候就听这首，就觉得“心情”不会那样差下去的 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"><br>周深的歌很棒 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262661422)<br><br>2018-12-05 09:49<br>赞(2) 踩(0) | <div>这歌写得太棒了，周深唱得也好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19617268)<br><br>2018-11-01 21:00<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102035556)<br>爱上大虾米⊙∀⊙！<br>2018-10-15 23:04<br>赞(3) 踩(0) | <div>终于听到原版，像是幼儿园的姐姐给孩子说故事的感觉啊</div> |
@@ -179,7 +179,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21308912)<br><br>2018-03-19 16:24<br>赞(0) 踩(0) | <div>八年前，高中时期的好朋友送了我一只兔子玩偶，我一直叫他兔子先生 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354792844)<br><br>2018-03-18 01:20<br>赞(0) 踩(0) | <div>【但渺小的我，流浪的步伐，还没法停下。】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332269068)<br><br>2018-03-07 01:16<br>赞(17) 踩(0) | <div>我的先生属兔，我一直叫他先生。我们14年认识。15年在一起。16年10月27日领证。17年12月31日办了婚宴。我想告诉他：兔子先生，我很幸福，我爱你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11375809)<br>什么心情听什么歌V:18...<br>2018-03-01 00:56<br>赞(33) 踩(0) | <div>也不知道怎么突然听到这首歌，在外漂泊了近十一年了。当听到流浪是兔子先生的特长，感觉这就是自己。与父母，妻儿分隔三地，当自己一个人的时候，总是会有孤独的时候。第一次听到这首歌，只是听到了，小孩，回家。当看着歌词再听一遍的时候。眼泪瞬间就掉下来了。谁不想回家？谁不想与家人在一起？但还渺小的我，怎能回家？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11375809)<br>什么心情听什么歌V:18...<br>2018-03-01 00:56<br>赞(33) 踩(0) | <div>也不知道怎么突然听到这首歌，在外漂泊了近十一年了。当听到流浪是兔子先生的特长，感觉这就是自己。与父母，妻儿分隔三地，当自己一个人的时候，总是会有孤独的时候。<br>第一次听到这首歌，只是听到了，小孩，回家。当看着歌词再听一遍的时候。眼泪瞬间就掉下来了。<br>谁不想回家？谁不想与家人在一起？<br>但还渺小的我，怎能回家？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85074868)<br>你若盛开，清风自来~~<br>2018-02-24 20:34<br>赞(1) 踩(0) | <div>好喜欢这首歌，还有其他类似的歌吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301973496)<br>我还没想好要写什么...<br>2018-04-08 04:25<br>赞(0) 踩(0) | <div>暗杠的阿婆说啊，小桥啊感觉都挺暖的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333793880)<br>不个性，没签名<br>2018-02-13 12:57<br>赞(0) 踩(0) | <div>旋律轻松中带着一丝忧伤</div> |
@@ -187,7 +187,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347985705)<br><br>2018-02-10 23:05<br>赞(2) 踩(0) | <div>刚得到消息，姥爷也病危了。去年五月失去姥姥，如今&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12500161)<br><br>2018-02-09 09:01<br>赞(0) 踩(0) | <div>现在只听周深的了，音色纯粹温暖且多变，这首很温馨啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347985705)<br><br>2018-02-06 20:34<br>赞(2) 踩(0) | <div>去年我失去了我的姥姥，我还欠她一个承诺&amp;mdash;&amp;mdash;&amp;ldquo;等我长大了，我会像那个小小子一样推你&amp;rdquo;。可惜，等我长大了，我和她聚少离多&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9863046)<br><br>2018-02-06 09:44<br>赞(0) 踩(0) | <div>第521条留言 <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png">喜欢单纯的歌和简单的人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9863046)<br><br>2018-02-06 09:44<br>赞(0) 踩(0) | <div>第521条留言 <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"><br>喜欢单纯的歌和简单的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284844023)<br>.<br>2018-02-04 06:13<br>赞(0) 踩(0) | <div>真好 唱到心里去了 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343240105)<br><br>2018-01-28 11:37<br>赞(1) 踩(0) | <div>听了就想哭的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35589175)<br>梦想走进现实<br>2018-01-27 16:43<br>赞(1) 踩(0) | <div>听到周深的声音，突然就觉得心里安宁下来了</div> |
@@ -215,7 +215,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291717008)<br><br>2017-11-16 12:05<br>赞(3) 踩(0) | <div>非常喜欢这首歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325629578)<br>十年相依，终身红魔。<br>2017-11-15 11:53<br>赞(2) 踩(0) | <div>想哭。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255756625)<br><br>2017-11-13 21:59<br>赞(1) 踩(0) | <div>好听～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60355990)<br>好きな事をやるのに、好き...<br>2017-11-11 09:51<br>赞(3) 踩(0) | <div>我不是孩子&amp;hellip;我只是还没有长大的大人&amp;hellip;这个世界上&amp;hellip;再也没有任何人&amp;hellip;可以像父母一样&amp;hellip;爱我如生命&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60355990)<br>好きな事をやるのに、好き...<br>2017-11-11 09:51<br>赞(3) 踩(0) | <div>我不是孩子&amp;hellip;我只是还没有长大的大人&amp;hellip;<br><br>这个世界上&amp;hellip;再也没有任何人&amp;hellip;可以像父母一样&amp;hellip;爱我如生命&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12362736)<br>我还没想好要写什么...<br>2017-11-09 18:29<br>赞(2) 踩(0) | <div>一个人跑去考研，中午吃饭的时候突然听到这首小众的歌，当时惊喜又泪目，现在一个人在离开故乡的城市，每次听就会很想家。有人会牵挂，让人羡慕啊，别惹我哭啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317109131)<br> <br>2017-11-09 01:39<br>赞(1) 踩(0) | <div>任务</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42033950)<br><br>2017-11-08 13:18<br>赞(60) 踩(0) | <div>小的时候总是骗父母自己没钱了，现在每次都是和父母说自己还有钱</div> |
@@ -262,7 +262,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197612339)<br><br>2017-08-15 11:07<br>赞(4) 踩(0) | <div>我和小孩都很喜欢这首歌，从这首歌里看到一个完整的故事，家是永远的避风港也是我们的牵挂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313071300)<br>心之所向，想向此地奔跑的...<br>2017-08-13 13:44<br>赞(4) 踩(0) | <div>憋不住了，好想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5026326)<br>爱唱歌的孩子都是好孩子～<br>2017-08-12 22:21<br>赞(2) 踩(0) | <div>好温暖的声音 好温暖的歌。。。 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38556816)<br><br>2017-08-10 15:25<br>赞(2) 踩(0) | <div>但渺小的我流浪的步伐还没法停下</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38556816)<br><br>2017-08-10 15:25<br>赞(2) 踩(0) | <div>但渺小的我<br>流浪的步伐<br>还没法停下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80881598)<br> <br>2017-08-07 12:35<br>赞(4) 踩(0) | <div>每次想家了就听一听这首歌，想着下次回家一定要好好抱抱爸爸妈妈。 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199022178)<br>上帝从来不会没收你的任何...<br>2017-07-29 15:14<br>赞(10) 踩(0) | <div>老少皆宜的歌词，温柔至极的嗓音，总是能轻易得把眼泪一滴滴得勾下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30678557)<br>暂无签名~<br>2017-07-14 15:18<br>赞(2) 踩(0) | <div>有点像梁咏琪的声音</div> |
@@ -281,7 +281,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2020-03-16 11:36<br>赞(0) 踩(0) | <div><q><b>菱霄说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265843910)<br><br>2020-05-25 17:11<br>赞(0) 踩(0) | <div>他想成为柯基 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286460271)<br> <br>2017-06-22 06:05<br>赞(2) 踩(0) | <div>生日快过了，泣不成声</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283210950)<br> <br>2017-06-21 00:15<br>赞(4) 踩(0) | <div>周深的歌我很喜欢   这首兔子先生还是因为在荔枝FM收听果仁主播而知晓的，很温暖的一首歌。兔子先生笑着说啊小孩小孩请你快回家有人会牵挂让人羡慕啊别惹我哭啦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283210950)<br> <br>2017-06-21 00:15<br>赞(4) 踩(0) | <div>周深的歌我很喜欢   这首兔子先生还是因为在荔枝FM收听果仁主播而知晓的，很温暖的一首歌。兔子先生笑着说<br>啊小孩小孩请你快回家<br>有人会牵挂<br>让人羡慕啊<br>别惹我哭啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283771)<br> 唯有音乐不可辜负<br>2017-06-18 00:33<br>赞(1) 踩(0) | <div>这到底是男人声音还是女人声音，怪怪的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32808288)<br>寻着音乐的步伐，感受这个...<br>2017-06-15 23:05<br>赞(5) 踩(0) | <div>时隔9年，暮然回首，这首歌不仅令我泪目，是啊，家，是我们所有人最珍贵，最值得挂念的地方，无论天涯海角，家总是温暖的。现在，身在异乡，听着这首歌，于是我买了下下周六的火车票回家.........</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236385113)<br><br>2017-06-08 08:22<br>赞(0) 踩(0) | <div>以为女声</div> |
@@ -360,12 +360,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39635570)<br>暂无签名~<br>2016-10-14 23:56<br>赞(0) 踩(0) | <div>晚安啦 兔子先生</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39635570)<br>暂无签名~<br>2016-10-14 23:53<br>赞(0) 踩(0) | <div>晚安啦 兔子先生</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44521342)<br><br>2016-10-04 14:21<br>赞(0) 踩(0) | <div>想要把古典</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228125614)<br>【申明】本微博原创及转发...<br>2016-10-02 17:32<br>赞(2) 踩(0) | <div>“兔子先生笑着说，我也会想家，但渺小的我，流浪的步伐，还没发停下。”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228125614)<br>【申明】本微博原创及转发...<br>2016-10-02 17:32<br>赞(2) 踩(0) | <div>“兔子先生笑着说，<br>我也会想家，<br>但渺小的我，<br>流浪的步伐，<br>还没发停下。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33405458)<br><br>2016-09-26 16:33<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229119233)<br>没有简介<br>2016-09-23 11:33<br>赞(1) 踩(0) | <div>蓦然伤感 ，兔子先生现在回家了吗 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48165884)<br> <br>2016-09-20 22:40<br>赞(2) 踩(0) | <div>无论在屋外还是天涯，想哭想家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224336945)<br>心里羡慕那些人，盲目到不...<br>2016-09-15 10:42<br>赞(0) 踩(0) | <div>❤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40531692)<br><br>2016-09-15 10:32<br>赞(1) 踩(0) | <div>小孩小孩快回家就算快长大就算去天涯家是永远的牵挂</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40531692)<br><br>2016-09-15 10:32<br>赞(1) 踩(0) | <div>小孩小孩快回家<br>就算快长大<br>就算去天涯<br>家是永远的牵挂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43233554)<br><br>2016-09-10 10:41<br>赞(0) 踩(0) | <div>渺小的我，流浪的步伐，还没法停下～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43233554)<br><br>2016-09-09 09:29<br>赞(0) 踩(0) | <div>莫名的失落～对工作着实没有什么热情～改变就在脚下的每一步，期待山那一边，海另一边不一样的风景～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222198475)<br>我还没想好要写什么...<br>2016-09-09 08:13<br>赞(0) 踩(0) | <div>虽然歌词很简单但却很温暖</div> |
@@ -451,7 +451,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24098581)<br>我们唱着歌写着作业<br>2016-02-02 05:10<br>赞(3) 踩(0) | <div>优十的版本也超好听的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64029906)<br>闭上眼睛，听歌吧！<br>2016-01-31 22:27<br>赞(4) 踩(0) | <div>好久之后我才发现周深竟然是个男的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7191225)<br><br>2016-01-30 23:05<br>赞(17) 踩(0) | <div>兔子先生笑着说，小孩我也会想家，但渺小的我，流浪的步伐，还没法停下；兔子先生笑着说，小孩小孩请你快回家，有人会牵挂，让人羡慕啊，别惹我哭啦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231184)<br>杂食动物<br>2016-01-27 16:23<br>赞(7) 踩(0) | <div>听了虾米全部的翻唱，高下立判啊。收藏标签我都不知该写“男声”还是“女声”了怎么办？*摊手*</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231184)<br>杂食动物<br>2016-01-27 16:23<br>赞(7) 踩(0) | <div>听了虾米全部的翻唱，高下立判啊。<br><br>收藏标签我都不知该写“男声”还是“女声”了怎么办？*摊手*</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17513925)<br>我还没想好要写什么...<br>2016-05-20 10:46<br>赞(0) 踩(0) | <div>单独给个分组叫周深</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276419670)<br>原来我不在你们的世界<br>2017-03-15 08:24<br>赞(0) 踩(0) | <div>就标注发烧女声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41804322)<br>爱音乐爱周深<br>2016-01-26 22:19<br>赞(2) 踩(0) | <div>听哭的歌。周深你好棒</div> |
@@ -506,9 +506,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85900682)<br><br>2015-11-24 01:17<br>赞(2) 踩(0) | <div>我第一次听你的歌，我就爱上你的声音，再也停不下来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35163056)<br><br>2015-11-23 15:55<br>赞(0) 踩(0) | <div>被感到了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12358886)<br><br>2015-11-23 13:49<br>赞(0) 踩(0) | <div>根本停不下来。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57849002)<br><br>2015-11-22 18:13<br>赞(0) 踩(0) | <div>流浪的步伐还没法停下</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57849002)<br><br>2015-11-22 18:13<br>赞(0) 踩(0) | <div>流浪的步伐<br>还没法停下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60993326)<br>我知道这世界我无处藏身，...<br>2015-11-21 17:43<br>赞(1) 踩(0) | <div>别惹我哭啦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48704441)<br><br>2015-11-21 15:10<br>赞(0) 踩(0) | <div>兔子先生笑着说啊小孩小孩我也会想家但渺小的我流浪的步伐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48704441)<br><br>2015-11-21 15:10<br>赞(0) 踩(0) | <div>兔子先生笑着说<br>啊小孩小孩我也会想家<br>但渺小的我<br>流浪的步伐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31992975)<br>暂无签名~<br>2015-11-20 02:26<br>赞(0) 踩(0) | <div>前一阵子听的时候刚和父母联系过，过了一阵子再听，居然听哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54832157)<br><br>2015-11-19 10:14<br>赞(0) 踩(0) | <div>给远方的儿子听，他说他妈妈一点不唠叨，他想她~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/62100032)<br><br>2015-11-18 14:25<br>赞(0) 踩(0) | <div>温暖的声音，唱到人的心里！ <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -543,9 +543,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80672338)<br><br>2015-11-13 12:30<br>赞(0) 踩(0) | <div>兔子先生咋不回家，记得再忙也要回家看爸爸妈妈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82518150)<br>风雨同周 深情不移<br>2015-11-13 10:51<br>赞(0) 踩(0) | <div>非常好听，很暖心的一首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82519138)<br><br>2015-11-13 10:49<br>赞(0) 踩(0) | <div>声音干净</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82517136)<br><br>2015-11-13 10:39<br>赞(0) 踩(0) | <div>小孩小孩我也会想家但渺小的我流浪的步伐还没法停下</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82517136)<br><br>2015-11-13 10:39<br>赞(0) 踩(0) | <div>小孩小孩我也会想家<br>但渺小的我<br>流浪的步伐<br>还没法停下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6497046)<br> <br>2015-11-13 10:30<br>赞(0) 踩(0) | <div>深深又一次展示了他的”童音“，久违的童音啊啊啊，好温暖的歌，温暖了每一个在外漂泊的游子的心。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82511986)<br><br>2015-11-13 10:13<br>赞(0) 踩(0) | <div>兔子先生笑着说啊小孩小孩我也会想家但渺小的我流浪的步伐还没法停下</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82511986)<br><br>2015-11-13 10:13<br>赞(0) 踩(0) | <div>兔子先生笑着说<br>啊小孩小孩我也会想家<br>但渺小的我<br>流浪的步伐<br>还没法停下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54850900)<br><br>2015-11-13 09:36<br>赞(0) 踩(0) | <div>一首温暖的思乡曲。周深唱的好好听。喜欢非常喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54628115)<br><br>2015-11-13 09:23<br>赞(0) 踩(0) | <div>兔子先生，好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82499036)<br>跟心走<br>2015-11-13 08:56<br>赞(0) 踩(0) | <div>粉可耐也很温暖。。</div> |

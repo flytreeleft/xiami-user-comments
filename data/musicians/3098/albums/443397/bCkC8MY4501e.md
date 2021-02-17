@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1475537)<br><br>2012-04-07 22:36<br>赞(1) 踩(0) | <div>第一次听到他们带唱的。。。 果然他们还是适合 instrumental 后摇。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1475537)<br><br>2012-04-07 22:33<br>赞(0) 踩(0) | <div>第一次听到他们 带唱的。。。 果然他们还是适合做 instrumental 后摇。。。</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/83b86a1b7a96e3902f7a6c74586df14a.jpeg)<br>拼口pinko](https://i.xiami.com/pinko) | **播放数**: 3041038<br>**粉丝数**: 80<br>**评论数**: 3<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 迷幻流行 Psychedelic Pop, 独立流行 Indie Pop, 流行舞曲 Dance-Pop<br> |
+| [![](../../images/musicians/83b86a1b7a96e3902f7a6c74586df14a.jpeg)<br>拼口pinko](https://i.xiami.com/pinko) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 迷幻流行 Psychedelic Pop, 独立流行 Indie Pop, 流行舞曲 Dance-Pop<br>**播放数**: 3041038<br>**粉丝数**: 80<br>**评论数**: 3<br> |
 
 ## 档案
 
@@ -20,8 +20,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275404694)<br>想听什么就听什么<br>2020-05-05 03:29<br>赞(0) 踩(0) | <div>喜欢你的声音，好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3478879)<br>人生如梦，且行且珍惜<br>2020-03-02 20:51<br>赞(0) 踩(0) | <div>声音很棒，很喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1024746)<br>灵魂不该屈服<br>2018-10-16 09:20<br>赞(3) 踩(0) | <div>支持一下</div> |

@@ -80,5 +80,3 @@ You'll use them every day and night
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

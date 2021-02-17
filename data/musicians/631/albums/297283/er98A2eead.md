@@ -48,7 +48,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377538239)<br><br>2018-07-03 22:15<br>赞(0) 踩(0) | <div>穷人版雪糕车，趁还免费，赶紧下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8270900)<br> <br>2016-03-03 08:41<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |

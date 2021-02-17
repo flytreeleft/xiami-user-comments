@@ -3,13 +3,10 @@ Cannie
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/466ad1942e888764021e29ab738c880e.jpg)<br>Cannie](https://i.xiami.com/cannie) | **播放数**: 21402728<br>**粉丝数**: 8749<br>**评论数**: 223<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/466ad1942e888764021e29ab738c880e.jpg)<br>Cannie](https://i.xiami.com/cannie) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 独立民谣 Indie Folk<br>**播放数**: 21402728<br>**粉丝数**: 8749<br>**评论数**: 223<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -26,8 +23,8 @@ Cannie
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280897929)<br> <br>2021-01-15 11:41<br>赞(0) 踩(0) | <div>虾米马上停服了！请问哪里还可以听到你的歌啊？我好舍不得这首</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427840279)<br>购买诗集《落日飞奔术》电...<br>2020-12-09 15:38<br>赞(0) 踩(0) | <div>来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407500488)<br>我还没想好要写什么...<br>2020-12-01 22:06<br>赞(0) 踩(0) | <div>这个投票链接无法复制</div> |
@@ -49,7 +46,7 @@ Cannie
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260216815)<br>曲声入梦来<br>2019-07-11 18:47<br>赞(0) 踩(0) | <div>6666</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2019-07-11 14:15<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416348755)<br><br>2019-06-06 00:44<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15986466)<br>你长大了，学会不说话了。<br>2019-05-17 21:39<br>赞(0) 踩(0) | <div>噗，对不起......我刚刚把“晴子”看成了“瞎子”......</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15986466)<br>你长大了，学会不说话了。<br>2019-05-17 21:39<br>赞(0) 踩(0) | <div>噗，对不起......<br>我刚刚把“晴子”看成了“瞎子”......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318903436)<br><br>2019-05-10 13:46<br>赞(3) 踩(0) | <div>刚买了一把吉他，因为想像你这样可以把自己的心情弹奏出来，可是我好笨，手指好僵硬，不知何时才能跟你一样优秀 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">，祝福我吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46922586)<br><br>2019-04-10 12:07<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414839839)<br>喜欢音乐的女孩<br>2019-03-24 09:03<br>赞(0) 踩(0) | <div>很喜欢你的歌，加油</div> |
@@ -85,7 +82,7 @@ Cannie
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335288103)<br><br>2018-05-11 01:49<br>赞(0) 踩(0) | <div>你的歌声干净得像辽阔草原上回荡的马鸣萧萧，鹰遏行云，直击我心底最柔软的地方，我很喜欢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322744204)<br><br>2018-05-07 15:54<br>赞(1) 踩(0) | <div>超喜欢你的bittersweet</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197659956)<br><br>2018-05-06 00:12<br>赞(0) 踩(0) | <div>喜欢你的歌   <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357305150)<br><br>2018-05-04 06:17<br>赞(0) 踩(0) | <div>请问可以I'm&amp;nbsp;Yours&amp;nbsp;Under&amp;nbsp;the&amp;nbsp;Mistletoe（Cover Jason Mraz / Justin Bieber）有这首吗</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357305150)<br><br>2018-05-04 06:17<br>赞(0) 踩(0) | <div>请问可以I'm&amp;nbsp;Yours&amp;nbsp;Under&amp;nbsp;the&amp;nbsp;Mistletoe（Cover Jason Mraz / Justin Bieber）<br>有这首吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280184324)<br><br>2018-05-03 00:38<br>赞(0) 踩(0) | <div>加油，看好你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27243892)<br> <br>2018-04-25 11:10<br>赞(1) 踩(0) | <div>已静制动 加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83591380)<br>哼一首淡淡的歌。<br>2018-04-15 22:34<br>赞(2) 踩(0) | <div>喜欢你很久啦 晴子 同是双鱼座 发现咱俩有好多共同喜欢的歌和歌手 你今天还给我的评论点了赞哈哈哈 开心到转圈啦！多发歌啊 爱你 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a13f6a2dd7bb52f40b6016c051692258.jpg)<br>李承敏](https://i.xiami.com/lichengming7871) | **播放数**: 2021016<br>**粉丝数**: 45<br>**评论数**: 5<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/a13f6a2dd7bb52f40b6016c051692258.jpg)<br>李承敏](https://i.xiami.com/lichengming7871) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 2021016<br>**粉丝数**: 45<br>**评论数**: 5<br> |
 
 ## 档案
 
@@ -83,8 +83,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12728433)<br>蓝联机票全国谈生意<br>2019-03-31 10:48<br>赞(0) 踩(0) | <div>头像真的吗哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350918195)<br>我还没想好要写什么...<br>2019-03-10 00:21<br>赞(0) 踩(0) | <div>好听到被你迷醉了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52546563)<br>李承敏 中国内地男歌手<br>2020-06-19 10:27<br>赞(0) 踩(0) | <div>呵呵</div> |

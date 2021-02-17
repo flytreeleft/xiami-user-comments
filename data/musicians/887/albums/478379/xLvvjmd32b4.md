@@ -72,8 +72,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262473014)<br>三千年读史不外乎功名利禄...<br>2018-10-12 17:14<br>赞(1) 踩(0) | <div>请原谅我也免不了庸俗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9658515)<br>有生活就有音樂<br>2018-09-20 07:55<br>赞(0) 踩(0) | <div>每次到ktv唱着唱着，竟然唱哭了 真的很有共鸣点 一瞬间 想起好多回忆 这歌确实是汪峰冷门的最好一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-22 00:31<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
@@ -83,15 +83,15 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3452128)<br>遇见你 是惊喜 是命运给...<br>2018-04-01 07:40<br>赞(6) 踩(0) | <div>无论在什么一个人的时候，听一首汪峰总能找到自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29614413)<br> <br>2015-10-20 16:24<br>赞(2) 踩(0) | <div>好娘炮啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50916164)<br>Through earl...<br>2015-08-31 23:59<br>赞(4) 踩(0) | <div>温柔地击穿我的心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37861898)<br><br>2015-08-22 23:27<br>赞(4) 踩(0) | <div>词写得真好为什么我所梦醒的一切，却正将我无情的埋葬</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37861898)<br><br>2015-08-22 23:27<br>赞(2) 踩(0) | <div>词写得真好为什么我所梦醒的一切，却正将我无情的埋葬</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37861898)<br><br>2015-08-22 23:27<br>赞(2) 踩(0) | <div>词写得真好为什么我所梦醒的一切，却正将我无情的埋葬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37861898)<br><br>2015-08-22 23:27<br>赞(4) 踩(0) | <div>词写得真好<br>为什么我所梦醒的一切，却正将我无情的埋葬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37861898)<br><br>2015-08-22 23:27<br>赞(2) 踩(0) | <div>词写得真好<br>为什么我所梦醒的一切，却正将我无情的埋葬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37861898)<br><br>2015-08-22 23:27<br>赞(2) 踩(0) | <div>词写得真好<br>为什么我所梦醒的一切，却正将我无情的埋葬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40563883)<br>我想拉着你，把没走完的路...<br>2015-07-15 18:29<br>赞(2) 踩(0) | <div>我现在泪水就涌出了眼眶…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48983966)<br><br>2015-06-15 08:15<br>赞(6) 踩(0) | <div>生命只是对死亡的赔偿，死亡不过是活着的奖赏……要不是昨天那个段子，几乎快忘了这首曾经循环播放的歌。汪峰应该受存在主义的影响颇深，所谓向死而生，面对死亡而生才更珍惜生命，从而活出自己的价值，人才成为“本真的”存在者</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49669321)<br><br>2015-04-29 08:19<br>赞(2) 踩(0) | <div>声音太好听。曾经有一段时间陷在这旋律中出不来。歌词也走心。在这飞逝如电的一瞬间，泪水猛然涌出了眼眶。……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54181664)<br><br>2015-08-31 21:58<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13935409)<br><br>2015-01-31 02:13<br>赞(4) 踩(0) | <div>在我心中汪峰的最佳作品</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2014-11-15 06:34<br>赞(6) 踩(0) | <div>对着镜中的我仔细端详这是个怎样陌生的人啊那醉生梦死的皮囊后面竟是这满目疮痍的悲凉汪峰的自省</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2014-11-15 06:34<br>赞(6) 踩(0) | <div>对着镜中的我仔细端详<br>这是个怎样陌生的人啊<br>那醉生梦死的皮囊后面<br>竟是这满目疮痍的悲凉<br><br>汪峰的自省</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10106138)<br>嘛都没有~<br>2014-11-10 22:56<br>赞(2) 踩(0) | <div>慢慢的喜欢上了汪峰的歌～！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94784)<br><br>2014-09-30 21:17<br>赞(2) 踩(0) | <div>那醉生梦死的皮囊后面，尽是这满目疮痍的悲凉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8840693)<br><br>2014-06-16 16:56<br>赞(1) 踩(0) | <div>特别好</div> |
@@ -109,7 +109,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-08-08 05:12<br>赞(1) 踩(0) | <div>生命只是对死亡的赔偿 死亡不过是活着的奖赏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-08-06 15:28<br>赞(1) 踩(0) | <div>那醉生梦死的皮囊后面 却是这满目疮痍的悲凉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11894660)<br> <br>2013-08-02 14:28<br>赞(1) 踩(0) | <div>昨天我看到一群孩子在玩耍 突然想起儿时的情景；曾经我是那么的年轻 天空是那么的纯净；我不自觉的陷入了悲伤 我不自觉的跌入了惆怅；那些卑微却眩目的欢愉 只是往昔装进的悲鸣；在这多年以后的一瞬间 泪水猛然间涌出了眼眶</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10785413)<br>LIZZY<br>2013-08-02 14:01<br>赞(1) 踩(0) | <div>生命只是对死亡的赔偿死亡不过是活着的奖赏</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10785413)<br>LIZZY<br>2013-08-02 14:01<br>赞(1) 踩(0) | <div>生命只是对死亡的赔偿<br>死亡不过是活着的奖赏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18054819)<br><br>2013-07-26 22:45<br>赞(1) 踩(0) | <div>生命是对死亡的赔偿，死亡是对生命的奖赏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6129674)<br>你是我生命中最壮丽的记忆<br>2013-07-24 17:50<br>赞(1) 踩(0) | <div>写的太走心了让人听得好惆怅……T_T</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3991580)<br>动次打次<br>2013-07-24 01:39<br>赞(1) 踩(0) | <div>最后一首歌吧，《一瞬间》。晚安。</div> |
@@ -130,7 +130,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4697931)<br><br>2011-11-28 14:46<br>赞(0) 踩(0) | <div>2</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4697931)<br><br>2011-11-28 14:45<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6972850)<br><br>2011-11-27 21:38<br>赞(0) 踩(0) | <div>......生命只是对死亡的赔偿 死亡不过是活着的奖赏 那些卑微而眩目的欢愉 只是往昔装进的悲鸣......</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/704068)<br>醉饮千觞不知愁<br>2011-11-24 18:19<br>赞(2) 踩(0) | <div>生命只是对死亡的赔偿 死亡不过是活着的奖赏就冲这句，这首歌就是要收藏的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/704068)<br>醉饮千觞不知愁<br>2011-11-24 18:19<br>赞(2) 踩(0) | <div>生命只是对死亡的赔偿 死亡不过是活着的奖赏<br><br>就冲这句，这首歌就是要收藏的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1038459)<br><br>2013-07-28 15:20<br>赞(0) 踩(0) | <div>同感，他怎么老有如此的绝句</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/630760)<br>感谢11年来的陪伴，我爱...<br>2011-11-23 21:21<br>赞(0) 踩(0) | <div>生命只是对死亡的赔偿 死亡不过是活着的奖赏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5921299)<br><br>2011-11-23 19:56<br>赞(0) 踩(0) | <div>生命只是对死亡的赔偿，死亡不过是活着的奖赏</div> |

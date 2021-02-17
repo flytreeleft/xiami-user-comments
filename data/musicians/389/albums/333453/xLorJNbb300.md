@@ -55,8 +55,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245280261)<br>要能做到:不以物喜不以己...<br>2020-07-18 15:07<br>赞(0) 踩(0) | <div>哎呀这首歌前奏怎么通过感觉有点像看隐秘的角落里面的一个插曲，有点怕怕的哈哈哈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233113502)<br> <br>2020-03-30 23:36<br>赞(0) 踩(0) | <div>听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24944779)<br>输入签名…<br>2020-03-30 08:11<br>赞(2) 踩(0) | <div>天猫精灵给力啊，推荐了这么好听的歌曲</div> |
@@ -85,14 +85,14 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342245061)<br><br>2018-02-02 05:49<br>赞(0) 踩(0) | <div>他或她应该会的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5850808)<br><br>2017-12-10 02:25<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4989767)<br>我的小公主<br>2017-10-27 23:30<br>赞(0) 踩(0) | <div>升级了手机系统，发现了新功能Adapt sound ，操作了一下，感动的泪流满面，好细心体贴的设计者，太适合我这样总用耳机的人。。。升级后第一首歌就是这个，更感动了。。。成为三星的铁杆脑残粉也许就是分分钟。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304184138)<br>巴蒂<br>2017-10-11 13:22<br>赞(0) 踩(0) | <div>我陪在你梦中拥抱你的温热</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287577477)<br><br>2017-07-23 11:31<br>赞(4) 踩(0) | <div>天地有情尽白发人间无意了沧桑才哥，这辈子我注定要负你，在错的时间遇到对的人，注定是一声叹息，感谢你一直都这么疼我，这么宠我，把我宠得无法无天的，谢谢你，爱过我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304184138)<br>巴蒂<br>2017-10-11 13:22<br>赞(0) 踩(0) | <div>我陪在你梦中<br>拥抱你的温热</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287577477)<br><br>2017-07-23 11:31<br>赞(4) 踩(0) | <div>天地有情尽白发<br>人间无意了沧桑<br>才哥，这辈子我注定要负你，在错的时间遇到对的人，注定是一声叹息，感谢你一直都这么疼我，这么宠我，把我宠得无法无天的，谢谢你，爱过我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289507064)<br><br>2017-04-21 21:38<br>赞(11) 踩(0) | <div>喜欢good</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283164541)<br><br>2017-04-23 07:53<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224797002)<br>我是黄周张姜<br>2017-04-08 21:34<br>赞(11) 踩(0) | <div>小不点，我想你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12315766)<br><br>2017-03-14 12:24<br>赞(2) 踩(0) | <div>脑海里突然跳出这首歌的旋律心口瞬间飞出一群五彩斑斓的蝴蝶</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12315766)<br><br>2017-03-14 12:24<br>赞(2) 踩(0) | <div>脑海里突然跳出这首歌的旋律<br>心口瞬间飞出一群五彩斑斓的蝴蝶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245607666)<br><br>2017-02-19 04:59<br>赞(2) 踩(0) | <div>好活泼的一首歌 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2017-02-08 18:47<br>赞(2) 踩(0) | <div>当你想着我 当你唱着歌这两句合的好清新~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2017-02-08 18:47<br>赞(2) 踩(0) | <div>当你想着我 当你唱着歌<br><br>这两句合的好清新~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279375355)<br><br>2017-03-13 23:07<br>赞(0) 踩(0) | <div>pujlpoollpopopl0loppplplllpll</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23334494)<br><br>2017-01-22 08:48<br>赞(0) 踩(0) | <div>歌词不错，旋律差点火候</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218222739)<br>我还没想好要写什么...<br>2017-01-22 03:46<br>赞(1) 踩(0) | <div>天知道我初中多爱这歌。</div> |
@@ -125,7 +125,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4893148)<br><br>2012-07-28 23:40<br>赞(0) 踩(0) | <div>同一颗宇宙的两颗星球</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8834797)<br><br>2012-04-18 17:16<br>赞(0) 踩(0) | <div>弯弯的彩虹亮亮的天色你是否快乐抬头看看天有我在你的明天别怕黑我怕黑当你想着我当你唱着歌在安静的时刻同1个宇宙有两个尽头我听见你的感动gtgtgtgtgtgt这感觉多么美妙而你想起谁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7938488)<br> <br>2012-02-22 20:13<br>赞(0) 踩(0) | <div>这个歌词给了我不少安慰</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5035126)<br>拜拜了，我的十年青春<br>2012-02-12 13:47<br>赞(0) 踩(0) | <div>同一个宇宙有两个尽头我 听见你的感动当你想着我 当你唱着歌在喧哗的时刻</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5035126)<br>拜拜了，我的十年青春<br>2012-02-12 13:47<br>赞(0) 踩(0) | <div>同一个宇宙<br>有两个尽头<br>我 听见你的感动<br>当你想着我 当你唱着歌<br>在喧哗的时刻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5681053)<br><br>2012-01-12 06:43<br>赞(2) 踩(0) | <div>歌曲好聽,喜歡!!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1654833)<br><br>2011-12-04 20:03<br>赞(0) 踩(0) | <div>情歌对唱，很温暖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344695)<br><br>2011-12-03 09:00<br>赞(0) 踩(0) | <div>@HILHILLLLLL 忙完了来点歌给挠挠听.这首也是小符合我们现在的歌.点点的星空.我想让你看我这边的日光绵绵.再等我一周我就去陪你过这个冬天.你的手可以放到我的臂弯里.哎哟想到就很欢喜了...哎哟哎哟哎哟哎哟哎哟..</div> |
@@ -134,11 +134,11 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40802812)<br><br>2014-09-05 21:22<br>赞(0) 踩(0) | <div>挺好听的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3115731)<br><br>2011-06-21 23:16<br>赞(0) 踩(0) | <div>喜欢品冠也有十年了，希望他越来越好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10959)<br><br>2010-12-24 15:04<br>赞(0) 踩(0) | <div>一切都在变，十多年了，品冠却从未改变</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1037734)<br><br>2010-09-23 13:01<br>赞(0) 踩(0) | <div>这首大家 可能不是很熟但很好听 推荐 推荐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231480)<br><br>2010-08-25 16:12<br>赞(0) 踩(0) | <div>当你想着我演唱：品冠&amp;amp;amp;李心洁词：黄婷 曲：品冠LRC制作：369歌词组◎龙剑QQ：14079837点点的星空 长长的银河有你写过的歌北半球是冬夜 绵绵下着雪多想你看见弯弯的彩虹 亮亮的天色你是否快乐抬头看看天 有我在你的明天别怕黑 (我怕黑)当你想着我 当你唱着歌在安静的时刻同一个宇宙 有两个尽头我听见你的感动当你想着我 当你唱着歌在喧哗的时刻一个人寂寞 两颗心都懂我陪在你梦中 拥抱你的温热酸酸的想念 甜甜的心愿要等你实现越长的时间 我就越能够肯定你最美（我最美）说好了不让你太担忧想念你的温柔等到再见面 我们也更成熟 再不放手~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1037734)<br><br>2010-09-23 13:01<br>赞(0) 踩(0) | <div>这首大家 可能不是很熟<br>但很好听 推荐 推荐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231480)<br><br>2010-08-25 16:12<br>赞(0) 踩(0) | <div>当你想着我<br>演唱：品冠&amp;amp;amp;李心洁<br>词：黄婷 曲：品冠<br>LRC制作：369歌词组◎龙剑<br>QQ：14079837<br><br>点点的星空 长长的银河<br>有你写过的歌<br>北半球是冬夜 绵绵下着雪<br>多想你看见<br><br>弯弯的彩虹 亮亮的天色<br>你是否快乐<br>抬头看看天 有我在你的明天<br>别怕黑 (我怕黑)<br>当你想着我 当你唱着歌<br>在安静的时刻<br>同一个宇宙 有两个尽头<br>我听见你的感动<br>当你想着我 当你唱着歌<br>在喧哗的时刻<br>一个人寂寞 两颗心都懂<br>我陪在你梦中 拥抱你的温热<br><br>酸酸的想念 甜甜的心愿<br>要等你实现<br>越长的时间 我就越能够肯定<br>你最美（我最美）<br><br>说好了不让你太担忧<br>想念你的温柔<br>等到再见面 我们也更成熟 再不放手~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32687)<br><br>2010-07-29 11:37<br>赞(0) 踩(0) | <div>动人旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/902970)<br><br>2010-07-01 09:39<br>赞(0) 踩(0) | <div>两个人都喜欢，尤其是李心洁</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/643307)<br><br>2010-03-28 17:45<br>赞(0) 踩(0) | <div>当你想着我酸酸的想念 甜甜的心愿要等你实现</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/643307)<br><br>2010-03-28 17:45<br>赞(0) 踩(0) | <div>当你想着我<br>酸酸的想念 甜甜的心愿<br>要等你实现</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2009-11-12 09:16<br>赞(0) 踩(0) | <div>温馨幸福的味道、轻松欢快的旋律。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369759)<br>暂无签名~<br>2009-09-06 01:16<br>赞(0) 踩(0) | <div>很不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28048)<br><br>2009-07-23 22:25<br>赞(0) 踩(0) | <div>很轻快，很甜蜜</div> |

@@ -3,13 +3,10 @@ Ep809
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f77ff9d9e1a8b95a923a4e78d838a212.jpg)<br>Ep809](https://i.xiami.com/ep809) | **播放数**: 1554198<br>**粉丝数**: 40<br>**评论数**: 1<br>**地区**: 中国大陆 China<br>**风格**: 流行摇滚 Pop Rock, 流行 Pop, 节奏布鲁斯 R&B<br> |
+| [![](../../images/musicians/f77ff9d9e1a8b95a923a4e78d838a212.jpg)<br>Ep809](https://i.xiami.com/ep809) | **地区**: 中国大陆 China<br>**风格**: 流行摇滚 Pop Rock, 流行 Pop, 节奏布鲁斯 R&B<br>**播放数**: 1554198<br>**粉丝数**: 40<br>**评论数**: 1<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -22,6 +19,6 @@ Ep809
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431177787)<br><br>2019-10-26 21:12<br>赞(1) 踩(0) | <div>超帅的～走心音乐人</div> |

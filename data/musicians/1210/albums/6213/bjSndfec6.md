@@ -58,9 +58,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2630472)<br><br>2021-01-07 17:07<br>赞(0) 踩(0) | <div>如果是放在网路歌手身上，这首歌就感觉超级口水但是阿岳唱出来，就感觉好真实</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2630472)<br><br>2021-01-07 17:07<br>赞(0) 踩(0) | <div>如果是放在网路歌手身上，这首歌就感觉超级口水<br>但是阿岳唱出来，就感觉好真实</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1107805)<br> <br>2020-10-18 23:41<br>赞(0) 踩(0) | <div>编曲真牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25403847)<br><br>2020-09-18 11:43<br>赞(0) 踩(0) | <div>为什么会担心吃不饱 <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343063460)<br><br>2020-06-12 17:51<br>赞(0) 踩(0) | <div>好歌</div> |
@@ -87,16 +87,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199675946)<br>你自己过得好就行 不用联...<br>2018-10-26 13:42<br>赞(0) 踩(0) | <div>如果快乐太难，那我祝你平安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291917072)<br>我还没想好要写什么...<br>2018-08-25 19:17<br>赞(0) 踩(0) | <div>我开了一个趴间，专门放阿岳的歌，喜欢阿岳的快进来呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309617473)<br><br>2018-07-10 13:37<br>赞(1) 踩(0) | <div>我觉得评论很好，因为我也是屌丝</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287601356)<br> <br>2018-07-08 02:48<br>赞(0) 踩(0) | <div>不知道你在北京过得好不好，我还是没有勇气主动去找你因为觉得自己还不够优秀，不能够保护你！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287601356)<br> <br>2018-07-08 02:48<br>赞(0) 踩(0) | <div>不知道你在北京过得好不好，我还是没有勇气主动去找你<br>因为觉得自己还不够优秀，不能够保护你！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241344526)<br><br>2018-06-10 00:20<br>赞(1) 踩(0) | <div>听这首歌的时候跟某人在一起。后来分开了，就再也不听这歌了。和某人一起尘封在记忆的角落里。还</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265312034)<br><br>2018-05-24 04:29<br>赞(3) 踩(0) | <div>每一天都变好一点好吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2018-04-01 13:12<br>赞(1) 踩(0) | <div>上一次留言是 七个月前</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265312034)<br><br>2018-05-24 04:25<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1080926)<br>我还没想好要写什么...<br>2018-03-22 05:34<br>赞(4) 踩(0) | <div>在花蓮讀書分兩地妳跑了，畢了業當了兵，站哨時就這首！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1080926)<br>我还没想好要写什么...<br>2018-03-22 05:34<br>赞(4) 踩(0) | <div>在花蓮讀書分兩地妳跑了，<br>畢了業當了兵，站哨時就這首！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125751550)<br>Listen chill...<br>2018-03-16 01:46<br>赞(3) 踩(0) | <div>这首歌代表了阿岳带给我的最多的感受，我永远都不会忘记心里的苦闷被他唱出来的每一种方式，每一天每一夜，我听着阿岳的歌，用他教给我的生活态度面对着生活，我相信我一定会越来越茁壮，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316350828)<br><br>2018-03-08 20:52<br>赞(0) 踩(0) | <div>从2012年开始听阿岳，那年16岁。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20727289)<br>我还没想好要写什么...<br>2018-02-24 02:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23108417)<br>Do or Die<br>2018-02-08 01:33<br>赞(0) 踩(0) | <div>夜空下 看着海你在花莲过得好不好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23108417)<br>Do or Die<br>2018-02-08 01:33<br>赞(0) 踩(0) | <div>夜空下 看着海<br>你在花莲过得好不好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48644063)<br>这家伙很聪明只想留下你<br>2018-02-07 22:44<br>赞(2) 踩(0) | <div>昨天花莲6.5级地震 第一个想到的就是你 阿岳，你在花莲过得好不好 嘻嘻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301761569)<br><br>2018-02-06 08:01<br>赞(2) 踩(0) | <div>听到这首歌是四年前在部队，夜里站着哨，心里都是你。结果，退伍前分手，还是没有找到你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32373009)<br>虾米，再会。<br>2018-01-30 22:28<br>赞(0) 踩(0) | <div>22:28</div> |
@@ -116,7 +116,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2017-08-17 21:05<br>赞(1) 踩(0) | <div>又想起了这首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128445476)<br> <br>2017-08-05 11:07<br>赞(63) 踩(0) | <div>十年前当兵的时候，真的是这个状态。我的口袋里藏的都是你的照片和信。所幸，你现在给我生了个女儿。 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240941737)<br>@<br>2017-08-01 12:12<br>赞(3) 踩(0) | <div>还有一个半月入伍，我很喜欢你，我会慢慢变优秀，等我回来带你回家 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2714100)<br>Stay Strong<br>2017-07-29 10:50<br>赞(3) 踩(0) | <div>网易下架了，今天忽然很想听这首歌。可能这是当初日日夜夜，脑海里总会不自觉循环的一首歌。分分秒秒想着你，担心你过得好不好，担心你跟别人跑掉。希望你早点告诉我，又希望永远都不要知道。昨天刚看完我的前半生，大家都在刷，我也跟着看了看。有点难过，又终于释怀。明白贺涵和唐晶其实真的不合适，他们怀抱着各自的自尊心，不知道怎么去爱一个人，不愿放下自己。唐晶努力想把自己变成对方爱的样子，却从没有弄清楚对方究竟爱的是什么样的人。子君妈妈说，这个不行的，你再去找一个。是啊，不怪别人，不全怪彼此，应该还是没那么合适，彼此的性格，如果像你和她那样一拍即合决定结婚，我们又怎么会拖延等待哭哭笑笑那么多年却都没有在一起。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2714100)<br>Stay Strong<br>2017-07-29 10:50<br>赞(3) 踩(0) | <div>网易下架了，今天忽然很想听这首歌。可能这是当初日日夜夜，脑海里总会不自觉循环的一首歌。分分秒秒想着你，担心你过得好不好，担心你跟别人跑掉。希望你早点告诉我，又希望永远都不要知道。<br>昨天刚看完我的前半生，大家都在刷，我也跟着看了看。有点难过，又终于释怀。明白贺涵和唐晶其实真的不合适，他们怀抱着各自的自尊心，不知道怎么去爱一个人，不愿放下自己。唐晶努力想把自己变成对方爱的样子，却从没有弄清楚对方究竟爱的是什么样的人。子君妈妈说，这个不行的，你再去找一个。是啊，不怪别人，不全怪彼此，应该还是没那么合适，彼此的性格，如果像你和她那样一拍即合决定结婚，我们又怎么会拖延等待哭哭笑笑那么多年却都没有在一起。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198875275)<br>我还没想好要写什么...<br>2017-07-04 15:41<br>赞(1) 踩(0) | <div>花莲之歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291917072)<br>我还没想好要写什么...<br>2017-06-22 14:45<br>赞(10) 踩(0) | <div>简单大方的歌词，只有张震岳才有的风格 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253557223)<br>渴望自由像是治不好的病<br>2017-06-15 01:02<br>赞(22) 踩(0) | <div>如果你真的要跑调</div> |
@@ -168,7 +168,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8039505)<br> <br>2016-07-25 18:50<br>赞(1) 踩(0) | <div>-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1425709)<br><br>2016-07-21 22:42<br>赞(1) 踩(0) | <div>送给在花莲的人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3658497)<br> <br>2016-07-01 21:33<br>赞(2) 踩(0) | <div>好好听~就是喜欢这样的曲风</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2016-06-18 20:52<br>赞(2) 踩(0) | <div>刷着国际贸易的题 准备期末考,单曲循环这首,哈哈哈,是不是应该写信给当兵的朋友了.喜欢每一天 每一夜的调~继续复习,</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2016-06-18 20:52<br>赞(2) 踩(0) | <div>刷着国际贸易的题 准备期末考,<br>单曲循环这首,哈哈哈,<br>是不是应该写信给当兵的朋友了.<br><br>喜欢每一天 每一夜的调~<br>继续复习,</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190166272)<br>只要你愿意<br>2016-06-16 07:10<br>赞(16) 踩(0) | <div>一年前有个比我小三岁的男生给我唱过这首歌  说永不分离  可现在什么变了   <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182441932)<br>偶是自己的神。要对得起每...<br>2016-06-05 21:37<br>赞(2) 踩(0) | <div>哇，行动力啊，真去了，这下把海边玩够了吧？我可就孤独了，对不应该太过孤独，因为心里一直有暖暖的你呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44730049)<br>賦賢在家<br>2016-06-05 00:36<br>赞(4) 踩(0) | <div>每次在电视看到阿岳说一起哈啤 感觉和一次小学同学聚会唱k 我说 不如点张震岳吧 她说 那就唱我爱台妹吧一样</div> |
@@ -252,7 +252,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1616851)<br><br>2012-09-15 23:13<br>赞(2) 踩(0) | <div>突然特别想听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4882388)<br><br>2012-08-12 20:59<br>赞(1) 踩(0) | <div>嘿'</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9888869)<br><br>2012-07-20 17:11<br>赞(1) 踩(0) | <div>喜欢你已是一种习惯，不在乎你知不知道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329837)<br>一加一等于几<br>2012-07-15 19:34<br>赞(1) 踩(0) | <div>我担心你跟别人跑掉如果你真的要跑掉麻烦你顺便说一下</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329837)<br>一加一等于几<br>2012-07-15 19:34<br>赞(1) 踩(0) | <div>我担心你跟别人跑掉<br>如果你真的要跑掉<br>麻烦你顺便说一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7019481)<br><br>2012-07-14 13:41<br>赞(1) 踩(0) | <div>小细腿，学学这首歌，哈哈哈。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1743817)<br><br>2012-06-22 01:25<br>赞(1) 踩(0) | <div>金曲奖的遗珠，每次听都这么经典，在金曲之前说这个好讽刺，哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2333433)<br>李晓菲<br>2012-05-14 00:21<br>赞(1) 踩(0) | <div>……</div> |
@@ -266,19 +266,19 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4882388)<br><br>2011-10-19 20:02<br>赞(1) 踩(0) | <div>这首歌其实很有情调啊~ 不知道为什么会觉得悲伤。 请听我唱~喜感无处不在~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4882388)<br><br>2011-09-25 23:20<br>赞(1) 踩(0) | <div>口袋里必备的歌曲~。  好好照顾自己！ 祝大家都幸福~(〃￣︶￣)人(￣︶￣〃)[击掌] 嘻嘻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72218)<br><br>2011-09-21 20:55<br>赞(1) 踩(0) | <div>大兵哥的夜晚</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2115007)<br><br>2011-08-28 22:00<br>赞(1) 踩(0) | <div>担心你有没有吃饱担心你跟别人跑掉如果你真的要跑掉麻烦你顺便说一下我不要最后才知道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2115007)<br><br>2011-08-28 22:00<br>赞(1) 踩(0) | <div>担心你有没有吃饱<br>担心你跟别人跑掉<br>如果你真的要跑掉<br>麻烦你顺便说一下<br>我不要最后才知道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5463748)<br><br>2011-08-27 04:07<br>赞(1) 踩(0) | <div>[淚][淚][淚]我不要最後才知道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273864)<br><br>2011-08-14 23:09<br>赞(1) 踩(0) | <div>这几年，如果你买了CD，这张专辑你反而听的少。每每听阿岳都是之前的阿岳正传和秘密基地还有等我有一天，都忘了这张。K歌的时候大家也只会点思念是一种病。但其实阿岳之所以为阿岳，就是因为他的歌简单而感动。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3065943)<br><br>2011-07-04 11:52<br>赞(1) 踩(0) | <div>很好听的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4342588)<br><br>2011-06-22 18:03<br>赞(1) 踩(0) | <div>我也担心我的她啊...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363557)<br>何妨随处一开颜<br>2011-06-06 17:33<br>赞(1) 踩(0) | <div>歌词很有意思：我担心你有没有吃饱我担心你跟别人跑掉如果你真的要跑掉麻烦你顺便说一下我不要最后才知道我不要最后才知道我永远都不要知道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363557)<br>何妨随处一开颜<br>2011-06-06 17:33<br>赞(1) 踩(0) | <div>歌词很有意思：我担心你有没有吃饱<br>我担心你跟别人跑掉<br>如果你真的要跑掉<br>麻烦你顺便说一下<br>我不要最后才知道<br>我不要最后才知道<br>我永远都不要知道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3293129)<br><br>2011-05-27 12:08<br>赞(1) 踩(0) | <div>担心你有没有吃饱，担心你跟别人跑掉。如果你真的要跑掉，麻烦你顺便说一下，我不要最后才知道。只有阿岳能做出来的小调调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142789)<br> <br>2011-05-07 00:23<br>赞(1) 踩(0) | <div>担心你跟别人跑掉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142789)<br> <br>2011-05-07 00:21<br>赞(1) 踩(0) | <div>我担心你有没有吃饱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262632)<br><br>2011-04-30 11:51<br>赞(1) 踩(0) | <div>很有意思！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3361971)<br><br>2011-03-26 16:08<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3361971)<br><br>2011-03-26 16:07<br>赞(1) 踩(0) | <div>好听 @ Aurora苏瑾年</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129087)<br><br>2011-03-11 21:53<br>赞(1) 踩(0) | <div>10年夏天的时候，我躲在公司吹空调，然后到深夜骑车回家，微风拂面，听完歌去吃一碗南京的鸭血粉丝汤。享受了一段生活over</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129087)<br><br>2011-03-11 21:53<br>赞(1) 踩(0) | <div>10年夏天的时候，我躲在公司吹空调，然后到深夜骑车回家，微风拂面，听完歌去吃一碗南京的鸭血粉丝汤。享受了一段生活<br>over</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2813762)<br><br>2011-02-17 10:40<br>赞(1) 踩(0) | <div>大实话</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/569874)<br> <br>2011-02-08 12:31<br>赞(2) 踩(0) | <div>只有阿岳能做出来的小调调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1211147)<br><br>2010-12-13 07:11<br>赞(2) 踩(0) | <div>才想起这调调又是全碟最喜欢的，很台吧。</div> |

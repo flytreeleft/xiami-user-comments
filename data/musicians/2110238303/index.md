@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/533a35ca2a64d7951d17206f2e81d981.jpg)<br>郭力](https://i.xiami.com/guoli) | **播放数**: 6592338<br>**粉丝数**: 155<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/533a35ca2a64d7951d17206f2e81d981.jpg)<br>郭力](https://i.xiami.com/guoli) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 6592338<br>**粉丝数**: 155<br>**评论数**: 8<br> |
 
 ## 档案
 
@@ -26,8 +26,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335587874)<br>棉麻混纺是为面料性能互补...<br>2019-04-17 22:39<br>赞(0) 踩(0) | <div>这么好听优秀的歌为什么不红？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335587874)<br>棉麻混纺是为面料性能互补...<br>2019-04-17 22:38<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344977183)<br><br>2018-12-30 03:38<br>赞(0) 踩(0) | <div>心痛</div> |

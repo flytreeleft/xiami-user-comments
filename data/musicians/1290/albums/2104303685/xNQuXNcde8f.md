@@ -71,8 +71,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346219513)<br><br>2019-01-19 14:43<br>赞(1) 踩(0) | <div>孟凡荻是谁？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253137612)<br>♍<br>2018-12-11 08:36<br>赞(0) 踩(0) | <div>这个贝斯手是谁？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253528544)<br>我还没想好要写什么...<br>2018-12-09 20:00<br>赞(1) 踩(0) | <div>我不就是贝斯手 我还在重庆还是双鱼座;-)</div> |

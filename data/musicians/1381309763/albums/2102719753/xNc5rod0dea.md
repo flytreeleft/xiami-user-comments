@@ -73,5 +73,3 @@ Now I've lost it all I'm sittin' here sulkin' with the time out blues
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

@@ -57,8 +57,8 @@ ISRC CN-A50-10-333-03
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103081)<br>戴上耳机闭上眼，心儿就飞...<br>2021-02-05 00:10<br>赞(0) 踩(0) | <div>再见！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1946724)<br><br>2021-02-04 18:49<br>赞(0) 踩(0) | <div>心中有船也有帆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41801712)<br>take me away...<br>2021-02-04 17:13<br>赞(0) 踩(0) | <div>晚安，小虾米，睡个好觉，等待重逢那天。</div> |
@@ -117,7 +117,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77762912)<br>听音乐 用虾米<br>2019-02-27 22:46<br>赞(2) 踩(0) | <div>在电影 闪电少女 插曲听来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6808238)<br>我还没想好要写什么...<br>2019-02-27 16:33<br>赞(1) 踩(0) | <div>年轻的赶脚呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419135047)<br>我还没想好要写什么...<br>2019-02-16 11:03<br>赞(1) 踩(0) | <div>好歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198958173)<br> <br>2019-02-08 00:14<br>赞(2) 踩(0) | <div>美好的事物不可永存，但美好的人总还可以做一辈子的！这里阳光灿烂 人们友善stay，OK.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198958173)<br> <br>2019-02-08 00:14<br>赞(2) 踩(0) | <div>美好的事物不可永存，但美好的人总还可以做一辈子的！<br><br>这里阳光灿烂 人们友善<br><br>stay，OK.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299908087)<br>。<br>2019-01-30 19:55<br>赞(3) 踩(0) | <div>心中有船可扬帆 肚上长着救生圈~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299908087)<br>。<br>2019-01-30 19:54<br>赞(3) 踩(0) | <div>我都不敢分享给男性友人 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299908087)<br>。<br>2019-01-30 19:55<br>赞(0) 踩(0) | <div>对 我记得这首歌被我取消收藏的! <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -126,8 +126,8 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406928389)<br><br>2019-01-27 01:20<br>赞(5) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16716082)<br><br>2019-01-26 05:49<br>赞(1) 踩(0) | <div>第一次听，秒回二十年前。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4026266)<br><br>2019-01-15 20:37<br>赞(3) 踩(0) | <div>北戴河已经去过了 什么都没有改变 又好像什么都变了秦皇岛很美 只是那些都不属于我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402373034)<br><br>2019-01-12 22:45<br>赞(1) 踩(0) | <div>我跟她13年底认识，那时候她就有男朋友，那时候她拒绝了我，现在她快结婚了，，</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260123169)<br>再见是为了更好的重逢<br>2019-03-02 08:14<br>赞(0) 踩(0) | <div>可惜新郎不是我。（是不是少了一局？）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402373034)<br><br>2019-01-12 22:45<br>赞(1) 踩(0) | <div>我跟她13年底认识，<br>那时候她就有男朋友，<br>那时候她拒绝了我，<br>现在她快结婚了，，</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260123169)<br>再见是为了更好的重逢<br>2019-03-02 08:14<br>赞(0) 踩(0) | <div>可惜新郎不是我。<br>（是不是少了一局？）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402373034)<br><br>2019-01-12 22:43<br>赞(3) 踩(0) | <div>我想问最后最后挖墙脚成功没有？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402373034)<br><br>2019-01-12 22:41<br>赞(1) 踩(0) | <div>曾经我跟朵儿一个想法</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402373034)<br><br>2019-01-12 22:37<br>赞(2) 踩(0) | <div>我不想去北戴河，我想去洛阳</div> |
@@ -178,12 +178,12 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45622988)<br>大石碎胸口<br>2018-06-25 18:35<br>赞(3) 踩(0) | <div>还学山羊皮， <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319049636)<br><br>2018-06-24 09:46<br>赞(2) 踩(0) | <div>跟我说回北戴河！！！秦皇岛北戴河！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4208327)<br>曾经多么的无知<br>2018-06-21 16:34<br>赞(2) 踩(0) | <div>刚到北戴河，听这首歌这么很赞！北戴河很美哦 <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52360229)<br>时间是最伟大的治愈师。<br>2018-06-05 22:26<br>赞(2) 踩(0) | <div>6月份的北戴河真的是阳光灿烂人们友善，忍不住爱上这个地方了。想跟你走啊，想牵你手</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52360229)<br>时间是最伟大的治愈师。<br>2018-06-05 22:26<br>赞(2) 踩(0) | <div>6月份的北戴河真的是阳光灿烂人们友善，忍不住爱上这个地方了。<br>想跟你走啊，想牵你手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100027548)<br>热爱生活<br>2018-05-29 21:12<br>赞(0) 踩(0) | <div>❤比心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341843260)<br><br>2018-05-27 07:46<br>赞(1) 踩(0) | <div>GALA是GALA MAYDAY是MAYDAY 都有自己的魅力 风格截然不同的两个乐团 请不要作比较 都爱！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18531542)<br>梦想：找到理想国;-)<br>2018-05-22 02:02<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262257907)<br> <br>2018-05-22 01:40<br>赞(0) 踩(0) | <div>表失败沦为备胎，过来励志</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316985072)<br>未知艺术家<br>2018-05-15 09:25<br>赞(6) 踩(0) | <div>带我走吧微笑给你拥抱给你冰淇淋的第一口给你水煮鱼的最后一块给你28岁的目光和余生六十年全都给你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316985072)<br>未知艺术家<br>2018-05-15 09:25<br>赞(6) 踩(0) | <div>带我走吧<br>微笑给你<br>拥抱给你<br>冰淇淋的第一口给你<br>水煮鱼的最后一块给你<br>28岁的目光和余生六十年<br>全都给你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230630887)<br>Happiness an...<br>2018-05-09 16:00<br>赞(1) 踩(0) | <div>山哥爱听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360028784)<br><br>2018-05-07 07:56<br>赞(0) 踩(0) | <div>兔子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291816315)<br><br>2018-05-05 17:28<br>赞(3) 踩(0) | <div>追梦赤子心里有几句歌词是抄咸鱼的 难道没人发现吗 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
@@ -199,7 +199,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292703686)<br><br>2018-04-07 20:09<br>赞(0) 踩(0) | <div>未婚之前，不算 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356169702)<br><br>2018-04-04 00:13<br>赞(0) 踩(0) | <div>及全家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202290136)<br><br>2018-04-01 22:20<br>赞(0) 踩(0) | <div>哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275749574)<br><br>2018-03-28 18:55<br>赞(2) 踩(0) | <div>肚上长着救生圈<img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png">说的就是我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275749574)<br><br>2018-03-28 18:55<br>赞(2) 踩(0) | <div>肚上长着救生圈<br><img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"><br>说的就是我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348666536)<br>尾生抱柱 至死方休<br>2018-03-17 09:26<br>赞(3) 踩(0) | <div>秦皇岛路过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327654766)<br><br>2018-03-16 23:29<br>赞(1) 踩(0) | <div>反正我就是想评论， <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6586728)<br>暂无签名~<br>2018-03-11 15:04<br>赞(2) 踩(0) | <div>听这把声，每次都觉得太可乐了！燃又萌！啊！青春！</div> |
@@ -222,7 +222,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179896654)<br> <br>2018-01-14 05:18<br>赞(2) 踩(0) | <div>被这首歌的歌词笑死了，笑着笑着&amp;hellip;&amp;hellip;竟然哭了（？）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323937456)<br><br>2018-01-11 22:47<br>赞(1) 踩(0) | <div>喜马拉雅来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242076259)<br>棠梨煎雪<br>2018-01-07 18:14<br>赞(1) 踩(0) | <div>哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329208971)<br> <br>2018-01-04 07:24<br>赞(1) 踩(0) | <div>北戴河 一直给我非常美好印象为啥呢 因为我和我妹出了车站之后 入户的民宿的人 在出站口接我们 还帮我们提行李呀</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329208971)<br> <br>2018-01-04 07:24<br>赞(1) 踩(0) | <div>北戴河 一直给我非常美好印象<br>为啥呢 因为我和我妹出了车站之后 入户的民宿的人 在出站口接我们 还帮我们提行李呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275215542)<br><br>2017-12-28 20:10<br>赞(1) 踩(0) | <div>&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42174151)<br>我还没想好要写什么...<br>2017-12-20 13:24<br>赞(3) 踩(0) | <div>闪光少女里面搭配的恰到好处  朝气蓬勃  充满阳光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6734050)<br><br>2017-12-18 22:32<br>赞(2) 踩(0) | <div>我说一年过得真快这是第5000条微博要显得特殊有意义，很开心我们一年之后都在自己还“心仪”的生活状态。然后距离不冲淡友谊这么没营养的话你看过就好，不过还是特别特别真心祝你生日快乐，然后周末穿上你的战服燥起来吧雷小姐，我们GALA见！@-大寶嬌-</div> |
@@ -236,21 +236,21 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334122857)<br><br>2017-11-12 16:26<br>赞(0) 踩(0) | <div>闪光少女安利的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301552432)<br>静享音乐，听心动的声音<br>2017-11-05 22:35<br>赞(0) 踩(0) | <div>轻松欢快，相爱时，有你，每一处都是天堂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51443341)<br>不为彼岸只为海<br>2017-11-03 18:38<br>赞(1) 踩(0) | <div>上周刚去了。阿那亚的海滩人很少，日出很漂亮。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82819914)<br>别回头就往前飞奔。<br>2017-11-03 14:37<br>赞(2) 踩(0) | <div>苏朵要是问我要不要跟他走我肯定就一起去了什么男朋友不男朋友的又没有。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82819914)<br>别回头就往前飞奔。<br>2017-11-03 14:37<br>赞(2) 踩(0) | <div>苏朵要是问我要不要跟他走<br>我肯定就一起去了<br>什么男朋友不男朋友的<br>又没有。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203590599)<br><br>2018-05-05 15:39<br>赞(0) 踩(0) | <div>阿信</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82819914)<br>别回头就往前飞奔。<br>2018-05-06 09:09<br>赞(0) 踩(0) | <div><q><b>金桔希子说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3367615)<br> <br>2017-10-30 10:23<br>赞(0) 踩(0) | <div>笑哈哈，一起唱，去北戴河咯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14089946)<br><br>2017-10-30 10:22<br>赞(3) 踩(0) | <div>阳光明媚的下午，这歌瞬间就能让心情明媚，超适合放在随身MP3中。歌词说没钱去马尔代夫，北戴河也是个不错选择，哈。相比较靠抄袭大红的花儿乐队，这个乐队的英伦摇滚比较高规格，他们坚持到真不容易，其实在中国玩摇滚的根本没死。@GALA乐队</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14768)<br><br>2017-10-30 10:22<br>赞(1) 踩(0) | <div>哈哈，要笑出声来了，看天气预报，秦皇岛这周末终于不下雨了。（秦皇岛三大怪之一，阴天下雨赶礼拜），我要骑车去北戴河！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28779276)<br><br>2017-10-30 10:21<br>赞(1) 踩(0) | <div>据他们说这歌写的就是我：你敢不敢跟我走,去那大地的尽头,你男朋友介意我不会强求.你愿不愿跟我走,去看飞翔的海鸥,你向往自由我们就不回头.别犹豫,我爱你 baby.和你在一起,什么都美丽.哪怕天不够蓝,海不够宽,马尔代夫太遥远.只要吻到你的脸,北戴河也是乐园.心中有船可扬帆,肚上长着救生圈.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28779276)<br><br>2017-10-30 10:21<br>赞(1) 踩(0) | <div>据他们说这歌写的就是我：<br>你敢不敢跟我走,去那大地的尽头,你男朋友介意我不会强求.<br>你愿不愿跟我走,去看飞翔的海鸥,你向往自由我们就不回头.<br>别犹豫,我爱你 baby.和你在一起,什么都美丽.<br>哪怕天不够蓝,海不够宽,马尔代夫太遥远.<br>只要吻到你的脸,北戴河也是乐园.<br>心中有船可扬帆,肚上长着救生圈.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9235891)<br>手持柴刀的伪萝莉喵星人<br>2017-10-30 10:17<br>赞(0) 踩(0) | <div>噗哈哈哈,北戴河好萌-3-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3004254)<br>谁都不是一个振臂一呼应者...<br>2017-10-30 10:16<br>赞(0) 踩(0) | <div>‘你敢不敢跟我走 去那大地的尽头 你男朋友介意我不会强求’ 据说明年夏天会巡演到西南地区 好久远啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1897557)<br><br>2017-10-30 10:14<br>赞(1) 踩(0) | <div>你愿不愿跟我走去看飞翔的海鸥你向往自由我们就不回头别犹豫我爱你 baby和你在一起什么都美丽哪怕天不够蓝海不够宽马尔代夫太遥远只要吻到你的脸北戴河也是乐园昨晚第一次听到GALA的歌，正能量让人一下就爱上。多好听吖。太迟认识。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1897557)<br><br>2017-10-30 10:14<br>赞(1) 踩(0) | <div>你愿不愿跟我走<br>去看飞翔的海鸥<br>你向往自由我们就不回头<br>别犹豫<br>我爱你 baby<br>和你在一起<br>什么都美丽<br>哪怕<br>天不够蓝<br>海不够宽<br>马尔代夫太遥远<br>只要吻到你的脸<br>北戴河也是乐园<br>昨晚第一次听到GALA的歌，正能量让人一下就爱上。多好听吖。太迟认识。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15303678)<br><br>2017-10-30 10:12<br>赞(4) 踩(0) | <div>周末下班的心情实在太轻松了，我就像一只欢快的小鹿一样蹦出公司大门，戴上耳机就是这首「北戴河之歌」，艾玛开头几句太有喜感了，我几乎变成一只欢快的小兔子。周末愉快！耶！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108447)<br><br>2017-10-30 10:11<br>赞(1) 踩(0) | <div>别犹豫   我爱你   和你在一起   什么都美丽   哪怕   天不够蓝   海不够宽   马尔代夫太遥远   只要吻到你的脸   北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10440617)<br><br>2017-10-30 10:10<br>赞(1) 踩(0) | <div>哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 次奥 北戴河之歌！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14783512)<br><br>2017-10-30 10:09<br>赞(0) 踩(0) | <div>#别犹豫 我爱你 和你在一起 什么都美丽 哪怕天不够蓝 海不够宽 马尔代夫太遥远 只要吻到你的脸 北戴河也是乐园#</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4047138)<br>一瞬间<br>2017-10-30 10:08<br>赞(0) 踩(0) | <div>这里阳光灿烂人们友善我们从不会孤单心中有船可扬帆肚上长着救生圈你想不想跟我走冲向最高的浪头如果你害怕可以牵我的手</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4047138)<br>一瞬间<br>2017-10-30 10:08<br>赞(0) 踩(0) | <div>这里<br>阳光灿烂<br>人们友善<br>我们从不会孤单<br>心中有船可扬帆<br>肚上长着救生圈<br>你想不想跟我走<br>冲向最高的浪头<br>如果你害怕可以牵我的手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87543652)<br>我是不是你所有心思中最温...<br>2017-10-30 10:03<br>赞(2) 踩(0) | <div>哈哈哈哈哈第一次知道你们这个乐队的时候我就在北戴河 嗯 秦皇岛真的是座特别好的城市</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1498153)<br><br>2017-10-30 10:03<br>赞(0) 踩(0) | <div>啊啦啊啦···我们去疯狂的玩耍吧····哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3549369)<br><br>2017-10-30 10:03<br>赞(0) 踩(0) | <div>马尔代夫离我很远，只要能吻着你的脸，就算是北戴河也是乐园。</div> |
@@ -263,7 +263,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24311565)<br><br>2017-10-28 00:22<br>赞(0) 踩(0) | <div>“这里阳光灿烂，人们友善，我们从不会孤单，心中有船可扬帆，肚上长着救生圈！”今天阳光这么好的，踏青去啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7138479)<br>无事生非<br>2017-10-28 00:17<br>赞(0) 踩(0) | <div>#CAO Radio#今天推荐GALA乐队 - 北戴河之歌，新的一周开始啦，你准备好了没？#周一新气象#这里阳光灿烂，人们友善，我们从不会孤单！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143933)<br>我还没想好要写什么...<br>2017-10-28 00:11<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽 马尔代夫太遥远 北戴河也是乐园......哈哈哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2235075)<br><br>2017-10-28 00:08<br>赞(0) 踩(0) | <div>这里阳光灿烂 人们友善 / 我们从不会孤单 / 心中有船可扬帆 / 肚上长着救生圈~昨天偶然听到的~~简单的快乐~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2235075)<br><br>2017-10-28 00:08<br>赞(0) 踩(0) | <div>这里阳光灿烂 人们友善 / 我们从不会孤单 / 心中有船可扬帆 / 肚上长着救生圈<br>~昨天偶然听到的~~简单的快乐~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48341898)<br> <br>2017-10-28 00:07<br>赞(0) 踩(0) | <div>「你敢不敢跟我走，去那大地的尽头」。每首歌都会有一段不为人知的故事，仿佛一切又回到那一年夏日阳光下的初见，回到用蓝色钢笔互相戳对方的那个校园。回到那一起走过的西街。回到分享这一首歌，想着北戴河到底什么模样。对不起，我又做梦了。从那以后起，别人问起我最想去哪。我都会说，北戴河。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9149885)<br>小燕<br>2017-10-28 00:06<br>赞(0) 踩(0) | <div>我要去北戴河，哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4362930)<br><br>2017-10-27 23:57<br>赞(0) 踩(0) | <div>只要吻到你的脸，北戴河也是乐园，路上长着救生圈。</div> |
@@ -277,7 +277,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3457639)<br> <br>2017-10-27 23:18<br>赞(0) 踩(0) | <div>我神经很大条，而且只能单向思维。很多事，也许我并不能想得到。甚至，有时只因为听音乐，看电影，开车就忘了回复信息或者和你讲话。只是，请粘着我，然后和我喋喋不休吧。对于我的世界，那些我爱的人儿，只要吻到你的脸，北戴河也是乐园。（不是真的吻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15856821)<br><br>2017-10-27 23:17<br>赞(0) 踩(0) | <div>你敢不敢跟我走/去那大地的尽头/你男朋友介意我不会强求 || 你愿不愿跟我走/去看飞翔的海鸥/你向往自由我们就不回头 #勾搭妹子最喜欢了#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/727675)<br>听歌最开心了<br>2017-10-27 23:09<br>赞(0) 踩(0) | <div>某个夏天我单曲循环过的歌~记得那个夏天那个拥挤的人群热情澎湃大汗淋漓的音乐节哟嘿！北戴河之歌，我是发出来想念夏天的，你还记得嘛~~@GANNAJ</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3246229)<br>我还没想好要写什么...<br>2017-10-27 23:08<br>赞(0) 踩(0) | <div>哪怕天不够蓝海不够宽马尔代夫太遥远只要吻到你的脸北戴河也是乐园这里阳光灿烂人们友善我们从不会孤单心中有船可扬帆肚上长着救生圈你想不想跟我走冲向最高的浪头如果你害怕可以牵我的手</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3246229)<br>我还没想好要写什么...<br>2017-10-27 23:08<br>赞(0) 踩(0) | <div>哪怕<br>天不够蓝<br>海不够宽<br>马尔代夫太遥远<br>只要吻到你的脸<br>北戴河也是乐园<br>这里<br>阳光灿烂<br>人们友善<br>我们从不会孤单<br>心中有船可扬帆<br>肚上长着救生圈<br>你想不想跟我走<br>冲向最高的浪头<br>如果你害怕可以牵我的手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8842217)<br>I love bw<br>2017-10-27 23:07<br>赞(0) 踩(0) | <div>你敢不敢跟我走~去那大地的尽头~你男朋友介意我不会强求~ 我擦 屌丝之歌~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1524250)<br><br>2017-10-27 23:06<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽 马尔代夫太遥远 只要吻到你的脸 北戴河也是乐园  这里 阳光灿烂 人们友善 我们从不会孤单 心中有船可扬帆 肚上长着救生圈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15840678)<br>暂无签名~<br>2017-10-27 23:03<br>赞(0) 踩(0) | <div>haha~ baby说不好就成卑鄙了  屌丝伤不起啊</div> |
@@ -354,7 +354,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47804253)<br>嘿，不要不开心。<br>2017-05-11 16:16<br>赞(1) 踩(0) | <div>不懂这首为什么是挖墙脚之歌的可以再回看看歌词&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208319864)<br>除非你是我，才可与我常在...<br>2017-05-09 20:54<br>赞(1) 踩(0) | <div>我要去下北戴河然后在朋友圈分享这首歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255595221)<br><br>2017-05-08 23:43<br>赞(2) 踩(0) | <div>声音像张全蛋一样</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2017-05-08 09:49<br>赞(2) 踩(0) | <div>秦皇岛很遥远 我来了北戴河的风很大 海辽远</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2017-05-08 09:49<br>赞(2) 踩(0) | <div>秦皇岛很遥远 我来了<br>北戴河的风很大 海辽远</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298312408)<br><br>2017-05-24 09:41<br>赞(0) 踩(0) | <div>秦皇岛欢迎你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266281926)<br><br>2017-05-03 23:01<br>赞(0) 踩(0) | <div>好贱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119988276)<br>不能放弃听歌啊。<br>2017-05-02 21:34<br>赞(0) 踩(0) | <div>我又来评论了 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
@@ -496,7 +496,7 @@ ISRC CN-A50-10-333-03
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48810879)<br>广阔天地炼红心。<br>2016-04-19 22:37<br>赞(0) 踩(0) | <div>啊啊啊竟然找到了寝室闹翻天的听众！好想念龙哥南哥啊。等我真的上了大学住了寝室，寝室闹翻天却不在了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13824837)<br>十一月四日风雨大作<br>2016-05-09 11:52<br>赞(0) 踩(0) | <div><q><b>舒克舒克带我离开说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4216876)<br>起飞吧小胖胖！<br>2016-04-14 08:08<br>赞(0) 踩(0) | <div>啊，想打人。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/617321)<br><br>2016-04-13 10:42<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽马尔代夫太遥远只要吻到你的脸北戴河也是乐园</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/617321)<br><br>2016-04-13 10:42<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽<br>马尔代夫太遥远<br>只要吻到你的脸<br>北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3951892)<br> <br>2016-04-09 17:09<br>赞(0) 踩(0) | <div>凑不要脸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98552258)<br><br>2016-04-06 21:59<br>赞(0) 踩(0) | <div>听了想笑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48046537)<br>像无人驾驶机<br>2016-03-29 12:18<br>赞(1) 踩(0) | <div>好一個妙人哥哥唷</div> |
@@ -514,7 +514,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119464322)<br>听音乐<br>2016-03-16 17:17<br>赞(2) 踩(0) | <div>歌很好听，但墙角就不要挖了吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123505192)<br>逗比狗。<br>2016-03-15 19:52<br>赞(1) 踩(0) | <div>不知道为什么，哭的稀里哗啦</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13033103)<br><br>2016-03-20 21:22<br>赞(0) 踩(0) | <div>同样</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46540837)<br><br>2016-03-10 23:23<br>赞(1) 踩(0) | <div>宿舍面前一条河它的名字北戴河北到漠河南到堆你说我爱你像鬼</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46540837)<br><br>2016-03-10 23:23<br>赞(1) 踩(0) | <div>宿舍面前一条河<br>它的名字北戴河<br>北到漠河南到堆<br>你说我爱你像鬼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/587068)<br>我还没想好要写什么...<br>2016-03-09 13:24<br>赞(1) 踩(0) | <div>北戴河人民发来贺电</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81781344)<br> <br>2016-03-05 20:41<br>赞(3) 踩(0) | <div>五月天有小护士233不要随便比高下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54514743)<br> <br>2016-03-03 15:17<br>赞(0) 踩(0) | <div>二逼青年欢乐多</div> |
@@ -870,13 +870,13 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2200658)<br><br>2014-10-05 10:41<br>赞(0) 踩(0) | <div>不知道为什么突然一下想听这首歌[doge]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36565122)<br>生无可恋，埋头苦读<br>2014-10-02 22:53<br>赞(0) 踩(0) | <div>哈哈，逗比，带我走~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16207559)<br><br>2014-09-30 19:16<br>赞(0) 踩(0) | <div>怎么办，我好喜欢这首挖墙脚之歌！！[doge]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2154413)<br><br>2014-09-29 15:41<br>赞(0) 踩(0) | <div>你敢不敢跟我走去那大地的尽头你男朋友介意我不会强求跟我走吧，姑娘！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2154413)<br><br>2014-09-29 15:41<br>赞(0) 踩(0) | <div>你敢不敢跟我走<br>去那大地的尽头<br>你男朋友介意我不会强求<br>跟我走吧，姑娘！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33078119)<br><br>2014-09-25 20:05<br>赞(0) 踩(0) | <div>如果你害怕可以牵我的手～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2502751)<br>各人有各人的修行<br>2014-09-23 18:10<br>赞(1) 踩(0) | <div>北戴河欢迎您</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31165037)<br>暂无签名~<br>2014-09-22 00:47<br>赞(0) 踩(0) | <div>一定要跟你去一次北戴河 一定！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37907647)<br>心中有船可扬帆，肚上长着...<br>2014-09-19 18:14<br>赞(0) 踩(0) | <div>这里阳光灿烂，人们友善</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22954982)<br>投入即是极乐<br>2014-09-18 18:39<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11327156)<br><br>2014-09-17 17:40<br>赞(0) 踩(0) | <div>和你在一起 什么都美丽哪怕 天不够蓝 海不够宽马尔代夫太遥远只要吻到你的脸北戴河也是乐园</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11327156)<br><br>2014-09-17 17:40<br>赞(0) 踩(0) | <div>和你在一起 什么都美丽<br>哪怕 天不够蓝 海不够宽<br>马尔代夫太遥远<br>只要吻到你的脸<br>北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11380904)<br>Beatles<br>2014-09-17 07:23<br>赞(0) 踩(0) | <div>陽光燦爛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4209623)<br><br>2014-09-15 12:26<br>赞(0) 踩(0) | <div>你男朋友介意，我不会强求，哈哈~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12678239)<br>杂家<br>2014-09-14 00:09<br>赞(0) 踩(0) | <div>想想刚听到GALA时那种欢快，感慨原来歌可以如此欢乐。一年过去了开始听欧美的，也算一种进步，晚安。</div> |
@@ -933,7 +933,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35374763)<br>就让我变成为鸟儿飞<br>2014-06-09 15:07<br>赞(0) 踩(0) | <div>你敢不敢跟我走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32191441)<br>豆瓣音乐人小站：<br>2014-06-08 22:12<br>赞(0) 踩(0) | <div>挺久以前师父说听这个听得特开心，那时我不懂。去那大地的尽头，介意的会是你男朋友还是你呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7931418)<br><br>2014-06-08 15:41<br>赞(0) 踩(0) | <div>2B屌丝求爱歌～够二，够屌丝！我喜欢！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3793853)<br>唯有音乐与美食不可辜负。<br>2014-06-07 23:46<br>赞(0) 踩(0) | <div>下次我们再见时，我一定要问你，“你敢不敢跟我走？”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3793853)<br>唯有音乐与美食不可辜负。<br>2014-06-07 23:46<br>赞(0) 踩(0) | <div>下次我们再见时，我一定要问你，<br><br>“你敢不敢跟我走？”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3793853)<br>唯有音乐与美食不可辜负。<br>2014-06-07 23:11<br>赞(0) 踩(0) | <div>给我肆无忌惮的大学里觉得很有意思的人。“你敢不敢跟我走？”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3990365)<br><br>2014-06-07 10:33<br>赞(0) 踩(0) | <div>一起去看日出好了，偷偷拿一块木板去漂流吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5839510)<br> <br>2014-06-06 16:32<br>赞(0) 踩(0) | <div>真是阔耐啊！！</div> |
@@ -955,12 +955,12 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22502993)<br><br>2014-05-28 13:52<br>赞(0) 踩(0) | <div>~(≧▽≦)/~啦啦啦 哪怕天不够宽 海不够蓝 马尔代夫也遥远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/460669)<br> <br>2014-05-28 01:05<br>赞(0) 踩(0) | <div>5/27/2014 开心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23264174)<br><br>2014-05-25 23:03<br>赞(0) 踩(0) | <div>北戴河也是乐园</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2014-05-25 15:32<br>赞(1) 踩(0) | <div>我是听半天才知道是中文的我就觉得各种像英文</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2014-05-25 15:32<br>赞(1) 踩(0) | <div>我是听半天才知道是中文的<br>我就觉得各种像英文</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5692122)<br>暂无签名~<br>2014-05-25 01:12<br>赞(0) 踩(0) | <div>画饼充饥……只能做梦了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5692122)<br>暂无签名~<br>2014-05-25 01:10<br>赞(0) 踩(0) | <div>画饼充饥……只能YY了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33864338)<br>又是一年春来到<br>2014-05-24 13:30<br>赞(0) 踩(0) | <div>我们从不会孤单</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8102795)<br> <br>2014-05-21 00:36<br>赞(0) 踩(0) | <div>你想不想跟我走~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36820111)<br><br>2014-05-20 13:24<br>赞(0) 踩(0) | <div>GALA乐队上海演唱会（520大学生专场福利活动）！！！学生党购买GALA乐队2014年上海演唱会现场票！ （380元／480元）仅需（150元／200元）！每价位各限量100张！【购票详情：<a href="http://www.douban.com/event/21643452/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21643452/</a>】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36820111)<br><br>2014-05-20 13:24<br>赞(0) 踩(0) | <div>GALA乐队上海演唱会（520大学生专场福利活动）！！！<br>学生党购买GALA乐队2014年上海演唱会现场票！ （380元／480元）仅需（150元／200元）！<br>每价位各限量100张！<br>【购票详情：<a href="http://www.douban.com/event/21643452/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21643452/</a>】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11628896)<br>我还没想好要写什么...<br>2014-05-19 11:11<br>赞(0) 踩(0) | <div>这首歌真TM suede</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10936663)<br>我还没想好要写什么...<br>2014-05-22 02:30<br>赞(0) 踩(0) | <div>点赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9287896)<br>我还没想好要写什么...<br>2014-05-18 19:40<br>赞(0) 踩(0) | <div>马尔代夫太遥远，只要吻到你的脸，北戴河也是乐园。</div> |
@@ -1007,7 +1007,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34813492)<br>暂无签名~<br>2014-04-03 09:13<br>赞(0) 踩(0) | <div>be happy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18027615)<br>愿你能让我安静<br>2014-04-02 15:11<br>赞(0) 踩(0) | <div>如果你害怕可以牵我的手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30534982)<br><br>2014-04-02 12:34<br>赞(0) 踩(0) | <div>你敢不敢跟我走~ 去那大地的尽头~ 你男朋友介意我不会强求~ 。欢乐小清新的撬墙角之歌~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11773673)<br><br>2014-04-01 16:39<br>赞(0) 踩(0) | <div>你敢不敢跟我走去那大地的尽头你男朋友介意,我不会强求</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11773673)<br><br>2014-04-01 16:39<br>赞(0) 踩(0) | <div>你敢不敢跟我走<br>去那大地的尽头<br>你男朋友介意,我不会强求</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10965424)<br>黛玉心<br>2014-03-31 17:48<br>赞(0) 踩(0) | <div>这首歌要不要成为咱们的出游之主题曲？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34521234)<br>不想多说的懒鬼<br>2014-03-30 21:35<br>赞(0) 踩(0) | <div>到这个点了我才准备要周末的补笔记，礼拜一要查（最后的通牒）。啊！！！先听首歌冷静下吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4051682)<br>一往无前<br>2014-03-30 21:05<br>赞(0) 踩(0) | <div>其实我觉得年老劈腿和年轻时候许下动人承诺/唱出动人情歌的人可能离的没有那么远。也许只是人生的不同状态而已。</div> |
@@ -1024,7 +1024,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1742526)<br>遗忘者!<br>2014-03-19 11:19<br>赞(0) 踩(0) | <div>好久没听到了 好听的歌了。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3791909)<br>他人即地狱。<br>2014-03-18 22:10<br>赞(0) 踩(0) | <div>不二逼就难受</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13685990)<br><br>2014-03-18 15:45<br>赞(0) 踩(0) | <div>28℃ 好天气~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10850905)<br>音乐是为了更好的活着！<br>2014-03-17 15:50<br>赞(0) 踩(0) | <div>你愿不愿跟我走去看飞翔的海鸥你向往自由我们就不回头</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10850905)<br>音乐是为了更好的活着！<br>2014-03-17 15:50<br>赞(0) 踩(0) | <div>你愿不愿跟我走<br>去看飞翔的海鸥<br>你向往自由我们就不回头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23917309)<br><br>2014-03-17 12:58<br>赞(0) 踩(0) | <div>心中有船可扬帆 肚上长着救生圈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427762)<br><br>2014-03-17 01:39<br>赞(0) 踩(0) | <div>哪怕天不够蓝，海不够宽，马尔代夫太遥远，只要吻到你的脸，北戴河也是乐园。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5137539)<br><br>2014-03-16 09:25<br>赞(0) 踩(0) | <div>GALA不要脸！</div> |
@@ -1032,9 +1032,9 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115060)<br> <br>2014-03-14 21:05<br>赞(0) 踩(0) | <div>我真的真的不喜欢这个乐队</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3674266)<br>Let it be<br>2014-03-13 19:12<br>赞(0) 踩(0) | <div>季节又要轮回，忽然有点想念，北戴河。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8034896)<br><br>2014-03-13 09:25<br>赞(0) 踩(0) | <div>打鸡血工作必备。来一发。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32081212)<br>我还没想好要写什么...<br>2014-03-13 02:22<br>赞(0) 踩(0) | <div>你愿不愿跟我走，去看飞翔的海鸥，你向往自由我们就不回头。你想不想跟我走，冲向最高的浪头，如果你害怕可以牵我的手。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32081212)<br>我还没想好要写什么...<br>2014-03-13 02:22<br>赞(0) 踩(0) | <div>你愿不愿跟我走，去看飞翔的海鸥，你向往自由我们就不回头。<br>你想不想跟我走，冲向最高的浪头，如果你害怕可以牵我的手。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2568754)<br><br>2014-03-11 19:20<br>赞(0) 踩(0) | <div>你敢不敢跟我走，不回头</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5019162)<br><br>2014-03-08 19:05<br>赞(0) 踩(0) | <div>你敢不敢跟我走去那大地的尽头你男朋友介意我不会强求</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5019162)<br><br>2014-03-08 19:05<br>赞(0) 踩(0) | <div>你敢不敢跟我走<br>去那大地的尽头<br>你男朋友介意我不会强求</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14877245)<br>geqidan<br>2014-03-05 13:57<br>赞(0) 踩(0) | <div>好好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6013745)<br><br>2014-03-05 13:54<br>赞(0) 踩(0) | <div>阳光的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14230079)<br>行百里者半九十<br>2014-03-04 23:11<br>赞(0) 踩(0) | <div>#我每天睡觉前都在听什么玩意儿#  第七蛋：春天就是要欢快！</div> |
@@ -1091,7 +1091,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18536116)<br><br>2014-01-02 12:22<br>赞(0) 踩(0) | <div>和我一起走，不管你男朋友愿不愿意。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11132940)<br><br>2014-01-02 12:07<br>赞(1) 踩(0) | <div>以为一晚上都听不到的歌，原来要放在最后一首唱。在电话里听演唱会也是件开心的事，有人怎么就不懂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4801461)<br><br>2014-01-01 21:54<br>赞(0) 踩(0) | <div>GALA的歌迷质量马上就要赶上五月天了～早晚十万人大合唱的架势呢～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5137440)<br><br>2014-01-01 15:04<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽马尔代夫太遥远只要吻到你的脸北戴河也是乐园</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5137440)<br><br>2014-01-01 15:04<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽<br>马尔代夫太遥远<br>只要吻到你的脸<br>北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4094059)<br><br>2013-12-30 22:56<br>赞(0) 踩(0) | <div>別猶豫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15509897)<br><br>2013-12-29 12:03<br>赞(0) 踩(0) | <div>这么好听的挖墙脚歌必须分享一个。哈哈哈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6623430)<br><br>2013-12-24 14:02<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽  马尔代夫太遥远  只要吻到你的脸  北戴河也是乐园</div> |
@@ -1105,7 +1105,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12728993)<br><br>2013-12-14 10:53<br>赞(0) 踩(0) | <div>第一次听这首歌，我不假思索，敢啊为什么不敢，再听，答案还是，赶紧走，只要你不是打一炮换个人的那种，瞧，我终究不够洒脱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6968566)<br>静坐常思己过<br>2013-12-11 22:27<br>赞(0) 踩(0) | <div>心中有船可扬帆~肚上长着救生圈~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1679301)<br><br>2013-12-10 00:11<br>赞(0) 踩(0) | <div>世界撬墙角神曲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1729547)<br>桃心与流苏<br>2013-12-09 21:57<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽马尔代夫太遥远只要吻到你的脸北戴河也是乐园</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1729547)<br>桃心与流苏<br>2013-12-09 21:57<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽<br>马尔代夫太遥远<br>只要吻到你的脸<br>北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19207200)<br><br>2013-12-08 11:46<br>赞(0) 踩(0) | <div>哈哈哈哈，你敢不敢跟我走，你男朋友介意我不强求。摇滚青年泡妞指南</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2890402)<br><br>2013-12-06 06:41<br>赞(0) 踩(0) | <div>「哪怕天不够蓝，海不够宽，马尔代夫太遥远；只要吻到你的脸，北戴河也是乐园。」好欢乐的歌儿，GALA就是能让人心情一下子就high起来！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29116082)<br><br>2013-12-06 03:01<br>赞(0) 踩(0) | <div>222</div> |
@@ -1115,16 +1115,16 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1781422)<br>暂无签名~<br>2013-12-05 12:17<br>赞(0) 踩(0) | <div>等饭。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24843300)<br><br>2013-12-04 23:31<br>赞(0) 踩(0) | <div>不喜欢这个歌了，就是因为看到了“男朋友介意”。是一个备胎的悲惨世界和华丽bitch的故事么？同类总是不灭不息。看我听歌多认真。本来要发一个类似废话的状态，no，发了也要删掉，不发。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29024499)<br><br>2013-12-04 17:18<br>赞(0) 踩(0) | <div>哈哈哈主唱的高音实在太搞笑了，但是挡不住的好听啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9753687)<br><br>2013-12-01 09:53<br>赞(0) 踩(0) | <div>哪怕; 天不够蓝; 海不够宽;马尔代夫太遥远;只要吻到你的脸;北戴河也是乐园;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9753687)<br><br>2013-12-01 09:53<br>赞(0) 踩(0) | <div>哪怕; 天不够蓝; 海不够宽;<br>马尔代夫太遥远;<br>只要吻到你的脸;<br>北戴河也是乐园;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28779276)<br><br>2013-12-01 05:10<br>赞(0) 踩(0) | <div>他们说这歌是专门写给我的，我一看歌词，就什么都不想说了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3057085)<br>虾米你好，我是来听歌的。<br>2013-11-29 22:15<br>赞(0) 踩(0) | <div>我们错过了北戴河，但是却看到了青岛的大海。去哪里不重要，重要的是和谁去！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3982464)<br><br>2013-11-27 20:58<br>赞(0) 踩(0) | <div>很不错的歌！！听着很赏心悦目！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11727702)<br><br>2013-11-24 12:35<br>赞(0) 踩(0) | <div>啊~多么动人的挖墙脚的故事啊~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5514849)<br>我还没想好要写什么...<br>2013-11-23 17:11<br>赞(0) 踩(0) | <div>你敢不敢跟我走，去那大地的尽头，你男朋友介意我不会强求；你愿不愿意跟我走，去看飞翔的的海鸥，你向往自由我们就不回头；别犹豫，我爱你，baby！ 和你在一起 什么都美丽，哪怕，天不够蓝海不够宽</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1907955)<br><br>2013-11-22 20:54<br>赞(0) 踩(0) | <div>哪怕天不够蓝海不够宽马尔代夫太遥远</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1540834)<br>花样作死大赛冠军<br>2013-11-19 10:02<br>赞(0) 踩(0) | <div>你敢不敢跟我走去那大地的尽头你男朋友介意我不会强求让我们一起~红~杏~出~墙~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1907955)<br><br>2013-11-22 20:54<br>赞(0) 踩(0) | <div>哪怕<br>天不够蓝<br>海不够宽<br>马尔代夫太遥远</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1540834)<br>花样作死大赛冠军<br>2013-11-19 10:02<br>赞(0) 踩(0) | <div>你敢不敢跟我走<br>去那大地的尽头<br>你男朋友介意我不会强求<br><br>让我们一起~红~杏~出~墙~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9493428)<br><br>2013-11-18 16:36<br>赞(0) 踩(0) | <div>带你出去玩求你男盆友不介意～～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11910108)<br><br>2013-11-17 12:57<br>赞(0) 踩(0) | <div>别犹豫我爱你 baby和你在一起什么都美丽</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11910108)<br><br>2013-11-17 12:57<br>赞(0) 踩(0) | <div>别犹豫<br>我爱你 baby<br>和你在一起<br>什么都美丽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22918526)<br>我还没想好要写什么...<br>2013-11-15 10:42<br>赞(0) 踩(0) | <div>前天听到现场版的 好~开~心~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4461490)<br>烟酒伤身，情歌伤心<br>2013-11-15 04:05<br>赞(0) 踩(0) | <div>下次开车去海边的时候能不能听这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9199546)<br><br>2013-11-14 16:06<br>赞(0) 踩(0) | <div>【大放异彩—GALA乐队2014北京演唱会】正式开票！2014年1月1日 北京展览馆剧场 【订票：<a href="http://t.cn/zRpSZDK" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/zRpSZDK</a>】GALA乐队将完整呈现十年沉淀，经典曲目全部奉献，并将出演风格迥异的新作三首。他们的十年，期待你的亲临见证！请与GALA在一起——不妥协一直到老！GALA是个好月丢：）</div> |
@@ -1200,7 +1200,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9134638)<br><br>2013-09-19 18:01<br>赞(0) 踩(0) | <div>这种天气坐摩托车真是特别开心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9391120)<br>悬浮不安空气粒子<br>2013-09-19 10:52<br>赞(0) 踩(0) | <div>又想到了很多很多年前的西湖音乐节@鳃鳃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13449355)<br><br>2013-09-18 18:00<br>赞(0) 踩(0) | <div>马尔代夫太遥远 只要吻到你的脸 北戴河也是乐园</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15315293)<br> <br>2013-09-17 12:08<br>赞(0) 踩(0) | <div>你敢不敢跟我走去那大地的尽头你男朋友介意我不会强求你愿不愿跟我走去看飞翔的海鸥你向往自由我们就不回头</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15315293)<br> <br>2013-09-17 12:08<br>赞(0) 踩(0) | <div>你敢不敢跟我走<br>去那大地的尽头<br>你男朋友介意我不会强求<br>你愿不愿跟我走<br>去看飞翔的海鸥<br>你向往自由我们就不回头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2497211)<br><br>2013-09-17 09:52<br>赞(0) 踩(0) | <div>你男朋友介意我不会强求（给我一次转正的机会噗）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11258836)<br><br>2013-09-13 11:45<br>赞(0) 踩(0) | <div>@piginworking 遥祝您和您的男同事玩得开心，是南是北没区别，是男是女都一样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10433229)<br><br>2013-09-12 10:35<br>赞(0) 踩(0) | <div>这里阳光灿烂，人们友善，我们从不会孤单，心中有船可扬帆，肚上长着救生圈</div> |
@@ -1284,7 +1284,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17007029)<br><br>2013-07-21 14:01<br>赞(0) 踩(0) | <div>你敢不敢跟我走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8141071)<br><br>2013-07-20 14:30<br>赞(0) 踩(0) | <div>去北戴河看日出吧，不犹豫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5754138)<br><br>2013-07-19 20:26<br>赞(0) 踩(0) | <div>很欢快~很励志！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10949879)<br><br>2013-07-19 15:35<br>赞(0) 踩(0) | <div>别犹豫我爱你 baby和你在一起 什么都美丽哪怕 天不够蓝 海不够宽马尔代夫太遥远只要吻到你的脸北戴河也是乐园    我能说这是一种特美好的心境嘛！！！！！听了真是好心情的不行！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10949879)<br><br>2013-07-19 15:35<br>赞(0) 踩(0) | <div>别犹豫<br>我爱你 baby<br>和你在一起 什么都美丽<br>哪怕 天不够蓝 海不够宽<br>马尔代夫太遥远<br>只要吻到你的脸<br>北戴河也是乐园    我能说这是一种特美好的心境嘛！！！！！听了真是好心情的不行！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17666059)<br><br>2013-07-18 22:48<br>赞(0) 踩(0) | <div>心情不好停首开心的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4706568)<br><br>2013-07-18 21:35<br>赞(0) 踩(0) | <div>听了心情会愉快，虽然在离北戴河很近的时候也没去北戴河</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3262792)<br><br>2013-07-16 22:55<br>赞(0) 踩(0) | <div>#音乐旅程＃总是幻想去很远的地方旅行，却不小心忽略了身边的美景，本地随处可见的旅者提醒了我:不要抱怨没时间啦，享受吧！马尔代夫太遥远，北戴河也是乐园！@璟炜</div> |
@@ -1324,7 +1324,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16292736)<br><br>2013-06-24 15:34<br>赞(0) 踩(0) | <div>可爱的姑娘哟，你想不想跟我走~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/681604)<br>我还没想好要写什么...<br>2013-06-24 14:33<br>赞(0) 踩(0) | <div>吼吼吼~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101977)<br><br>2013-06-24 13:08<br>赞(0) 踩(0) | <div>@阿红小丸子</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5576865)<br><br>2013-06-23 05:35<br>赞(0) 踩(0) | <div>你想不想跟我走冲向最高的浪头如果你害怕可以牵我的手</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5576865)<br><br>2013-06-23 05:35<br>赞(0) 踩(0) | <div>你想不想跟我走<br>冲向最高的浪头<br>如果你害怕可以牵我的手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13469294)<br><br>2013-06-22 12:31<br>赞(0) 踩(0) | <div>别犹豫 我爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12011726)<br> <br>2013-06-21 15:14<br>赞(0) 踩(0) | <div>无理由推荐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16127912)<br><br>2013-06-21 11:26<br>赞(0) 踩(0) | <div>你男朋友介意我不会强求。</div> |
@@ -1332,7 +1332,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4882814)<br>煎雪煮茶：）<br>2013-06-20 10:20<br>赞(0) 踩(0) | <div>“你向往自由我们就不回头”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10458577)<br>我还没想好要写什么...<br>2013-06-19 11:01<br>赞(0) 踩(0) | <div>主唱嗓音一如既往得骚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1301326)<br><br>2013-06-19 10:41<br>赞(0) 踩(0) | <div>想去北戴河~~！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1598577)<br>606<br>2013-06-19 01:55<br>赞(0) 踩(0) | <div>只要吻到你的脸北戴河也是乐园</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1598577)<br>606<br>2013-06-19 01:55<br>赞(0) 踩(0) | <div>只要吻到你的脸<br>北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6170409)<br><br>2013-06-18 18:31<br>赞(0) 踩(0) | <div>之歌之歌，北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6170409)<br><br>2013-06-18 18:23<br>赞(0) 踩(0) | <div>之歌之歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1161422)<br>暂无签名~<br>2013-06-18 17:38<br>赞(0) 踩(0) | <div>以毒攻毒才是燥热夏天的正确解法…</div> |
@@ -1368,7 +1368,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12120602)<br>hey DDB<br>2013-06-02 13:23<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 还不够宽 马尔代夫太遥远 只要吻到你的脸 北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9251554)<br><br>2013-06-02 09:44<br>赞(0) 踩(0) | <div>你向往自由我们就不回头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15410101)<br><br>2013-06-01 12:33<br>赞(0) 踩(0) | <div>6月的每一天我都要嗨嗨哒！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3889628)<br><br>2013-06-01 00:06<br>赞(0) 踩(0) | <div>没有毕业晚会没关系！我们来唱一首嗨到爆的北戴河之歌！马尔代夫太遥远，北海也是乐园！这里阳光灿烂，人们友善，我们从不孤单！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3889628)<br><br>2013-06-01 00:06<br>赞(0) 踩(0) | <div>没有毕业晚会没关系！我们来唱一首嗨到爆的北戴河之歌！<br>马尔代夫太遥远，北海也是乐园！这里阳光灿烂，人们友善，我们从不孤单！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3883575)<br><br>2013-05-31 15:50<br>赞(0) 踩(0) | <div>心中有船可杨帆，肚上长着救生圈~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7127289)<br> <br>2013-05-30 15:08<br>赞(0) 踩(0) | <div>大声唱歌最高兴了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4251198)<br>这个人很懒，所以只写了这...<br>2013-05-27 22:03<br>赞(0) 踩(0) | <div>北戴河之歌</div> |
@@ -1425,7 +1425,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9315420)<br>今天开心 ：）<br>2013-04-02 01:19<br>赞(0) 踩(0) | <div>带有愣头青气质的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7222934)<br><br>2013-04-02 00:06<br>赞(0) 踩(0) | <div>看 河鸥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2691052)<br>且看那青山綠水別來無恙。<br>2013-04-01 06:44<br>赞(0) 踩(0) | <div>越听越想听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1435707)<br><br>2013-03-31 00:00<br>赞(0) 踩(0) | <div>你想不想跟我走冲向最高的浪头</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1435707)<br><br>2013-03-31 00:00<br>赞(0) 踩(0) | <div>你想不想跟我走<br>冲向最高的浪头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2695074)<br>queen<br>2013-03-30 19:35<br>赞(0) 踩(0) | <div>我弟要拿这首歌参加校园儿童歌唱比赛了！啊啊啊啊！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101205)<br><br>2013-03-29 11:00<br>赞(0) 踩(0) | <div>起床歌就要这样百无聊赖又自以为是的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101205)<br><br>2013-03-29 10:51<br>赞(0) 踩(0) | <div>起床歌就要这样一往无前的赖皮??</div> |
@@ -1439,12 +1439,12 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12487791)<br><br>2013-03-19 19:26<br>赞(0) 踩(0) | <div>一个每次听到都有好心情的乐队 ^_^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/456237)<br><br>2013-03-17 12:03<br>赞(0) 踩(0) | <div>@蒋不青NotGreen</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8161569)<br><br>2013-03-14 22:15<br>赞(0) 踩(0) | <div>啦啦啦啦啦~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7116108)<br><br>2013-03-14 11:45<br>赞(0) 踩(0) | <div>这里阳光灿烂人们友善我们从不会孤单心中有船可扬帆肚上长着救生圈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7116108)<br><br>2013-03-14 11:45<br>赞(0) 踩(0) | <div>这里<br>阳光灿烂<br>人们友善<br>我们从不会孤单<br>心中有船可扬帆<br>肚上长着救生圈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4914844)<br><br>2013-03-14 00:32<br>赞(0) 踩(0) | <div>你想不想跟我走~副歌可喜欢跟着唱了~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4914844)<br><br>2013-03-13 04:33<br>赞(0) 踩(0) | <div>哪怕天不够蓝 海不够宽 马尔代夫太遥远 只要吻到你的脸 北戴河也是乐园 这里阳光灿烂 人们友善 我们从不会孤单 心中有船可扬帆 肚上长着救生圈...不自觉就会跟着一起唱~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4914844)<br><br>2013-03-13 04:33<br>赞(0) 踩(0) | <div>哪怕天不够蓝 海不够宽 马尔代夫太遥远 只要吻到你的脸 北戴河也是乐园 这里<br>阳光灿烂 人们友善 我们从不会孤单 心中有船可扬帆 肚上长着救生圈...不自觉就会跟着一起唱~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4209914)<br><br>2013-03-12 12:14<br>赞(0) 踩(0) | <div>&amp;quot;心中有船可杨帆,肚上長著救生圈&amp;quot; 肥模下午拍片去,諸位也別浪費了這好陽光,帶姑娘們散個步呗!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2875563)<br><br>2013-03-12 08:55<br>赞(0) 踩(0) | <div>爱GALA~~~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1467731)<br>世上的无奈，需要我去忍耐<br>2013-03-07 13:13<br>赞(0) 踩(0) | <div>马尔代夫太遥远只要吻到你的脸北戴河也是乐园</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1467731)<br>世上的无奈，需要我去忍耐<br>2013-03-07 13:13<br>赞(0) 踩(0) | <div>马尔代夫太遥远<br>只要吻到你的脸<br>北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10647739)<br>再见 爱你<br>2013-03-03 21:27<br>赞(0) 踩(0) | <div>#DAY#你向往自由，我们就不回头。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2088895)<br><br>2013-03-03 13:27<br>赞(0) 踩(0) | <div>你愿不愿跟我走 去看飞翔的海鸥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7821434)<br><br>2013-02-27 21:42<br>赞(0) 踩(0) | <div>北戴河 马尔代夫 都有dai 字</div> |
@@ -1474,7 +1474,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4156638)<br><br>2012-12-30 13:19<br>赞(0) 踩(0) | <div>你男朋友介意 我不会强求。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11160589)<br>如果你听到的不是噪杂而是...<br>2012-12-19 17:49<br>赞(0) 踩(0) | <div>你男朋友介意我不会强求</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10604614)<br>啊呸<br>2012-12-16 21:11<br>赞(0) 踩(0) | <div>天不够蓝/海不够宽/马尔代夫太遥远/只要吻到你的脸/北戴河也是乐园~夜班新闻还要什么节操</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10217929)<br>我还没想好要写什么...<br>2012-12-15 23:16<br>赞(0) 踩(0) | <div>哪怕天不够蓝海不够宽马尔代夫太遥远只要吻到你的脸北戴河也是乐园这里阳光灿烂人们友善我们从不会孤单</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10217929)<br>我还没想好要写什么...<br>2012-12-15 23:16<br>赞(0) 踩(0) | <div>哪怕<br>天不够蓝<br>海不够宽<br>马尔代夫太遥远<br>只要吻到你的脸<br>北戴河也是乐园<br>这里<br>阳光灿烂<br>人们友善<br>我们从不会孤单</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6482997)<br><br>2012-12-15 21:45<br>赞(0) 踩(0) | <div>这调调，迷死人了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11897196)<br><br>2012-12-14 11:29<br>赞(0) 踩(0) | <div>心中有船可扬帆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1183963)<br><br>2012-12-12 11:23<br>赞(0) 踩(0) | <div>传说中的“挖墙脚之歌”？</div> |
@@ -1506,7 +1506,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7894545)<br><br>2012-10-12 02:30<br>赞(0) 踩(0) | <div>爱死这首歌，北戴河呐！@暮叶绯城 @秋日漫无目 @幻夜丝雨 @diana雯乐 @甜呀甜不辣 @挖个坑儿埋萝卜 @吹沙桥 @QiQiuny @danbeliard @lgaym @lvdavy @Templeralex @凹凸man2</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7894545)<br><br>2012-10-12 01:22<br>赞(0) 踩(0) | <div>爱死这首歌，北戴河呐！@暮叶绯城 @秋日漫无目 @幻夜丝雨 @diana雯乐 @甜呀甜不@吹沙桥  @挖个坑儿埋萝卜@lvdavy @Templeralex @凹凸man2 @lgaym @danbeliard</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8364723)<br><br>2012-10-10 21:25<br>赞(0) 踩(0) | <div>每次听这首歌总是莫名其妙好high~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1277203)<br>一个闪闪发光的神经病<br>2012-09-27 13:36<br>赞(0) 踩(0) | <div>你敢不敢跟我走，去那大地的尽头。其实本来，我想走的心是这样的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1277203)<br>一个闪闪发光的神经病<br>2012-09-27 13:36<br>赞(0) 踩(0) | <div>你敢不敢跟我走，去那大地的尽头。<br>其实本来，我想走的心是这样的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2814867)<br><br>2012-09-26 12:28<br>赞(0) 踩(0) | <div>给一起北戴河的大家~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9085742)<br><br>2012-09-25 23:10<br>赞(0) 踩(0) | <div>来点正能量吧，晚安！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3081332)<br><br>2012-09-19 12:23<br>赞(0) 踩(0) | <div>哪怕天不够蓝，还不够宽，马尔代夫太遥远~~~~只要吻到你的脸，北戴河也是乐园~~~~~</div> |
@@ -1527,7 +1527,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2572531)<br>仿佛水消失在水中<br>2012-08-21 11:17<br>赞(0) 踩(0) | <div>。。。原来一帆那回唱的就这个歌！！！真的调都不知道跑哪儿去了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3855576)<br><br>2012-08-15 16:40<br>赞(0) 踩(0) | <div>哪怕天不够蓝，海不够宽，马尔代夫太遥远，只要吻到你的脸，北戴河也是乐园！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5649198)<br><br>2012-08-15 09:49<br>赞(0) 踩(0) | <div>来北戴河就应该听这首歌才对~好久没来，北戴河变漂亮了诶~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252423)<br><br>2012-08-11 15:34<br>赞(0) 踩(0) | <div>你敢不敢跟我走去那大地的尽头你男朋友介意我不会强求你愿不愿跟我走去看飞翔的海鸥你向往自由我们就不回头</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252423)<br><br>2012-08-11 15:34<br>赞(0) 踩(0) | <div>你敢不敢跟我走<br>去那大地的尽头<br>你男朋友介意我不会强求<br>你愿不愿跟我走<br>去看飞翔的海鸥<br>你向往自由我们就不回头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4224319)<br>优游<br>2012-08-08 23:17<br>赞(0) 踩(0) | <div>北戴河是乐园~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9732055)<br><br>2012-08-07 14:03<br>赞(491) 踩(0) | <div>在所有中国的britpop的乐队中，GALA是很难得能让我不反感的一支（虾米把他放在latin pop我不理解）。相对于其他只会瞎唱几句英文的烂乐队，GALA不论是英文还是中文歌都更有意思那么一点。与经常被拿来对比的五月天不同的是，GALA不仅有同样极具正能量的《追梦赤子心》这样的歌，也有这首撬墙角名曲。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117169676)<br>爱五及五<br>2018-03-06 22:52<br>赞(0) 踩(0) | <div>五月天还有唱同性恋的歌 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">也有很丧很暗黑的歌曲，并不是只有传说中的励志歌[带墨镜笑][带墨镜笑]</div> |
@@ -1571,7 +1571,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1281578)<br><br>2012-06-19 10:20<br>赞(0) 踩(0) | <div>#再牛逼的歌曲也阻挡不了我对poprock的热爱#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9422268)<br><br>2012-06-17 08:57<br>赞(0) 踩(0) | <div>nb</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2135408)<br><br>2012-06-14 11:48<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5975359)<br><br>2012-06-14 08:33<br>赞(0) 踩(0) | <div>这里阳光灿烂，跟你走，冲向最高点。早安☀gogogo</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5975359)<br><br>2012-06-14 08:33<br>赞(0) 踩(0) | <div>这里阳光灿烂，跟你走，冲向最高点。<br>早安☀gogogo</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230007)<br>我还没想好要写什么...<br>2012-06-13 22:45<br>赞(0) 踩(0) | <div>哈哈~gala的欢乐之歌！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9235083)<br><br>2012-06-12 20:22<br>赞(0) 踩(0) | <div>你愿不愿意跟我走！坏情绪全甩开</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5975359)<br><br>2012-06-11 08:48<br>赞(0) 踩(0) | <div></div> |
@@ -1599,14 +1599,14 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7527157)<br><br>2012-05-07 00:31<br>赞(0) 踩(0) | <div>我爱你baby……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8409892)<br> <br>2012-05-05 11:32<br>赞(0) 踩(0) | <div>突然间就年轻了十岁，那时谁知道十年以后会是什么样子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6601279)<br><br>2012-05-03 23:16<br>赞(0) 踩(0) | <div>超喜欢！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/811739)<br>清醒的时候从来不是一个感...<br>2012-05-03 20:56<br>赞(0) 踩(0) | <div>你愿不愿跟我走你向往自由我们就不回头</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/811739)<br>清醒的时候从来不是一个感...<br>2012-05-03 20:56<br>赞(0) 踩(0) | <div>你愿不愿跟我走<br><br>你向往自由我们就不回头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2523035)<br>“賜我夢境 還賜我很快就...<br>2012-05-03 12:25<br>赞(0) 踩(0) | <div>第一句  我总听成是   妹 敢不敢跟我走。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8845374)<br> <br>2012-05-01 19:46<br>赞(0) 踩(0) | <div>飞鱼秀老听小飞放这首好欢乐，天热了大家去海边吧~~哪怕天不够蓝还不够宽马尔代夫太遥远 只要吻到你的脸 北戴河也是乐园~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8845374)<br> <br>2012-05-01 19:46<br>赞(0) 踩(0) | <div>飞鱼秀老听小飞放这首好欢乐，天热了大家去海边吧~~<br>哪怕天不够蓝还不够宽马尔代夫太遥远 只要吻到你的脸 北戴河也是乐园~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8882122)<br><br>2012-05-01 06:14<br>赞(0) 踩(0) | <div>我喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1309399)<br> <br>2012-04-30 15:13<br>赞(0) 踩(0) | <div>快乐近在眼前，快乐无处不在，快乐是需要自己创造的，轻易丢弃快乐的人都会后悔的，来，换了一下：）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2829623)<br>野蛮生长，不忘初心<br>2012-04-26 20:56<br>赞(0) 踩(0) | <div>不知道怎么听着听着就带感了，哇咔咔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3478399)<br>我还没想好要写什么...<br>2012-04-25 22:43<br>赞(0) 踩(0) | <div>又像回到听young for u的年代，哈哈开心的！煮粥去~【哪怕 天不够蓝 海不够宽 马尔代夫太遥远 只要吻到你的脸 北戴河也是乐园】</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1383904)<br>我还没想好要写什么...<br>2012-04-25 21:29<br>赞(0) 踩(0) | <div>你愿不愿跟我走去看飞翔的海鸥你向往自由 我们就不回头别犹豫我爱你和你在一起 什么都美丽哪怕 天不够蓝 海不够宽马尔代夫太遥远只要吻到你的脸北戴河也是乐园这里 阳光灿烂 人们友善我们从不会孤单...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1383904)<br>我还没想好要写什么...<br>2012-04-25 21:29<br>赞(0) 踩(0) | <div>你愿不愿跟我走<br>去看飞翔的海鸥<br>你向往自由 我们就不回头<br>别犹豫<br>我爱你<br>和你在一起 什么都美丽<br>哪怕 天不够蓝 海不够宽<br>马尔代夫太遥远<br>只要吻到你的脸<br>北戴河也是乐园<br>这里 阳光灿烂 人们友善<br>我们从不会孤单...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3478399)<br>我还没想好要写什么...<br>2012-04-25 19:51<br>赞(0) 踩(0) | <div>又像回到听young for u的时代，咔咔~走了~要开心阿知道~耶@Bigpop-仝洋-STARIDOLCREW 那个2方法真有爱，嘻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/868545)<br>喵喵喵~<br>2012-04-25 18:25<br>赞(0) 踩(0) | <div>这就是我们的青春吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7383395)<br><br>2012-04-24 21:54<br>赞(0) 踩(0) | <div>你向往自由我们就不回头~~</div> |
@@ -1618,7 +1618,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8883684)<br><br>2012-04-16 12:32<br>赞(0) 踩(0) | <div>你不知道我很1at1np0p吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2363373)<br><br>2012-04-15 23:36<br>赞(0) 踩(0) | <div>2</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8666015)<br><br>2012-04-15 14:35<br>赞(0) 踩(0) | <div>海阔天空，自由的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3809109)<br>我还没想好要写什么...<br>2012-04-14 10:23<br>赞(0) 踩(0) | <div>哪怕天不够蓝海不够宽马尔代夫太遥远</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3809109)<br>我还没想好要写什么...<br>2012-04-14 10:23<br>赞(0) 踩(0) | <div>哪怕<br>天不够蓝<br>海不够宽<br>马尔代夫太遥远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5488900)<br> <br>2012-04-13 23:07<br>赞(0) 踩(0) | <div>别犹豫 我爱你 北鼻~ 您那女朋友介意我也不强求</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4366684)<br> <br>2012-04-10 14:17<br>赞(0) 踩(0) | <div>relax。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8582987)<br> <br>2012-04-07 01:07<br>赞(0) 踩(0) | <div>每次听这歌 我觉得我们都应该相信爱情...</div> |
@@ -1627,10 +1627,10 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218973)<br> <br>2012-03-31 17:30<br>赞(0) 踩(0) | <div>听这歌就心情好！  你敢不敢跟我走。去那大地的尽头。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2393877)<br><br>2012-03-31 11:30<br>赞(0) 踩(0) | <div>走之，你想不想跟我走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2215462)<br><br>2012-03-30 00:27<br>赞(0) 踩(0) | <div>听对了歌 一晚上都是开心的。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1430353)<br>我有一个梦<br>2012-03-29 22:48<br>赞(0) 踩(0) | <div>心中有船可扬帆肚上长着救生圈很欢乐的啊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1430353)<br>我有一个梦<br>2012-03-29 22:48<br>赞(0) 踩(0) | <div>心中有船可扬帆<br>肚上长着救生圈<br>很欢乐的啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8354172)<br>方南的丽美<br>2012-03-29 10:52<br>赞(0) 踩(0) | <div>现在早上起床必听 听了心情就好了 &amp;amp;quot;你敢不敢跟我走 去那大地的尽头&amp;amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1527340)<br><br>2012-03-28 22:58<br>赞(0) 踩(0) | <div>之前一首young for you痴迷了好久好几个阶段 “这里阳光灿烂 人们友善 我们从不会孤单 ”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/968811)<br><br>2012-03-27 04:05<br>赞(0) 踩(0) | <div>只要吻到你的脸北戴河也是乐园</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/968811)<br><br>2012-03-27 04:05<br>赞(0) 踩(0) | <div>只要吻到你的脸<br>北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5902337)<br>我的微信longerpp...<br>2012-03-23 18:02<br>赞(0) 踩(0) | <div>太欢乐太2了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2258038)<br> <br>2012-03-23 09:24<br>赞(0) 踩(0) | <div>天暖了，去北戴河吧！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1387905)<br><br>2012-03-21 21:48<br>赞(0) 踩(0) | <div>董万氏@WanW_V 我要唱着这首歌带你去蜜月~~~北戴河，我带着我的爱来了~~~@马勺脸 @老洋啊 @Aimee藤 @cat梦梦 允许亲们一起高歌走起！北戴河我们要大步向前！我学会唱了~~~学起，都学起</div> |
@@ -1653,7 +1653,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7193987)<br><br>2011-12-30 19:38<br>赞(0) 踩(0) | <div>北戴河也是乐园~！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/600524)<br><br>2011-12-28 16:42<br>赞(0) 踩(0) | <div>哇哦，难得一遇！终于在猜电台中撞到呢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7102651)<br><br>2011-12-27 13:26<br>赞(0) 踩(0) | <div>喜欢没理由</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1716327)<br> <br>2011-12-27 13:02<br>赞(0) 踩(0) | <div>你想不想跟我走冲向最高的浪头如果你害怕可以牵我的手</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1716327)<br> <br>2011-12-27 13:02<br>赞(0) 踩(0) | <div>你想不想跟我走<br>冲向最高的浪头<br>如果你害怕可以牵我的手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419677)<br>打死不下载网易云<br>2011-12-25 10:43<br>赞(0) 踩(0) | <div>哪怕天不够蓝还不够宽马尔代夫太遥远 只要吻到你的脸北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339298)<br><br>2011-12-24 08:34<br>赞(0) 踩(0) | <div>好吧，悲催的生活应该快结束了！星期六就应该晒晒太阳！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3149366)<br>我还没想好要写什么...<br>2011-12-14 21:24<br>赞(0) 踩(0) | <div>睡前励个志！</div> |
@@ -1688,14 +1688,14 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2810610)<br><br>2011-08-10 17:28<br>赞(0) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369154)<br><br>2011-08-07 18:28<br>赞(0) 踩(0) | <div>你向往自由我们就不回头！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4080716)<br><br>2011-08-06 00:41<br>赞(0) 踩(0) | <div>甩不去的北戴河。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4080716)<br><br>2011-08-06 00:40<br>赞(0) 踩(0) | <div>忘不了的北戴河，才知道什么是你快乐我就快乐、至此、苏大人。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4080716)<br><br>2011-08-06 00:40<br>赞(0) 踩(0) | <div>忘不了的北戴河，才知道什么是你快乐我就快乐、<br><br>至此、苏大人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3710239)<br>BeALongHorn<br>2011-08-03 09:32<br>赞(0) 踩(0) | <div>feels like suede</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1347985)<br><br>2011-08-01 21:37<br>赞(0) 踩(0) | <div>好欢乐好欢乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4856570)<br><br>2011-07-29 10:52<br>赞(0) 踩(0) | <div>喜欢这样的旋律~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4856570)<br><br>2011-07-29 10:51<br>赞(0) 踩(0) | <div>喜欢这样的旋律~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4856570)<br><br>2011-07-29 10:49<br>赞(0) 踩(0) | <div>喜欢这样的旋律~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32343)<br><br>2011-07-26 19:54<br>赞(0) 踩(0) | <div>好听的挖墙角之歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4381244)<br><br>2011-07-26 12:50<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽马尔代夫太遥远只要吻到你的脸北戴河也是乐园</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4381244)<br><br>2011-07-26 12:50<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽<br>马尔代夫太遥远<br>只要吻到你的脸<br>北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4293794)<br><br>2011-07-23 21:14<br>赞(0) 踩(0) | <div>北戴河一直是北京人的乐园~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4581311)<br>一直往南方开，一直...<br>2011-07-23 14:48<br>赞(0) 踩(0) | <div>热恋北戴河~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2829293)<br>我还没想好要写什么...<br>2011-07-23 12:25<br>赞(0) 踩(0) | <div>你敢不敢跟我走，去看飞翔的海鸥，你向往自由我们就不回头。。</div> |
@@ -1725,17 +1725,17 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4289625)<br>我还没想好要写什么...<br>2011-07-04 13:43<br>赞(0) 踩(0) | <div>GALA实在是个神奇的乐队 明明只有在我们K歌时候搞怪才会用到的唱腔 偏偏他们唱起来特别的吸引人 也许引起了我们的共鸣吧 哈哈～ 这首的歌词很SWEET哦～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3519413)<br><br>2011-07-04 00:41<br>赞(0) 踩(0) | <div>著名的“挖墙脚之歌”~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2437773)<br>暂无签名~<br>2011-07-02 22:35<br>赞(0) 踩(0) | <div>夏天听比较好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3591930)<br>我还没想好要写什么...<br>2011-07-01 10:55<br>赞(0) 踩(0) | <div>哈哈哈 山羊皮的感觉~~“你男盆友介意我不强求”。。。。。哈哈哈哈哈哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3591930)<br>我还没想好要写什么...<br>2011-07-01 10:55<br>赞(0) 踩(0) | <div>哈哈哈 山羊皮的感觉~~<br>“你男盆友介意我不强求”。。。。。哈哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4136845)<br><br>2011-07-01 10:36<br>赞(0) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75072)<br><br>2011-06-30 12:13<br>赞(0) 踩(0) | <div>奇少话要放这首歌上微博。。O(∩_∩)O~~这里阳光灿烂 人们友善 我们从不会孤单 心中有船可扬帆 肚子长着救生圈~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302836)<br><br>2011-06-29 21:58<br>赞(0) 踩(0) | <div>还是听听GALA，青春、快乐、呼呼呼~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3689874)<br><br>2011-06-28 22:49<br>赞(0) 踩(0) | <div>这里 阳光灿烂 人们友善我们从不会孤单心中有船可扬帆肚上长着救生圈你想不想跟我走冲向最高的浪头如果你害怕可以牵我的手</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3689874)<br><br>2011-06-28 22:49<br>赞(0) 踩(0) | <div>这里 阳光灿烂 人们友善<br>我们从不会孤单<br>心中有船可扬帆<br>肚上长着救生圈<br><br>你想不想跟我走<br>冲向最高的浪头<br>如果你害怕可以牵我的手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3258674)<br><br>2011-06-28 22:40<br>赞(0) 踩(0) | <div>简单就是爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1907492)<br><br>2011-06-27 13:52<br>赞(0) 踩(0) | <div>你敢不敢跟我走去那大地的尽头</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1766510)<br><br>2011-06-27 11:40<br>赞(0) 踩(0) | <div>你敢不敢跟我走去那大地的尽头</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1907492)<br><br>2011-06-27 13:52<br>赞(0) 踩(0) | <div>你敢不敢跟我走<br>去那大地的尽头</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1766510)<br><br>2011-06-27 11:40<br>赞(0) 踩(0) | <div>你敢不敢跟我走<br>去那大地的尽头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886575)<br><br>2011-06-26 22:47<br>赞(0) 踩(0) | <div>你敢不敢跟我走 去那大地的尽头 你男朋友介意我也不强求 你愿不愿跟我走 去看飞翔的海鸥 你向往自由我们就不回头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2748906)<br><br>2011-06-26 22:28<br>赞(0) 踩(0) | <div>【你敢不敢跟我走 去那大地的尽头 你男朋友介意我不会强求】【你愿不愿跟我走 去看飞翔的海鸥 你向往自由我们就不回头】</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3046518)<br><br>2011-06-26 18:48<br>赞(0) 踩(0) | <div>“你敢不敢跟我走去那大地的尽头你男朋友介意我不会强求”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3046518)<br><br>2011-06-26 18:48<br>赞(0) 踩(0) | <div>“你敢不敢跟我走<br>去那大地的尽头<br>你男朋友介意我不会强求”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3046518)<br><br>2011-06-26 18:43<br>赞(0) 踩(0) | <div>“你敢不敢跟我走，去那大地的尽头，你男朋友介意我不会强求”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2103783)<br><br>2011-06-26 15:08<br>赞(0) 踩(0) | <div>北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3549188)<br><br>2011-06-25 18:30<br>赞(0) 踩(0) | <div>******</div> |
@@ -1759,14 +1759,14 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4300262)<br><br>2011-06-15 16:10<br>赞(0) 踩(0) | <div>喜欢 年轻的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1540819)<br> <br>2011-06-14 11:24<br>赞(0) 踩(0) | <div>你敢不敢跟我走，去那大地的尽头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4274134)<br> <br>2011-06-13 12:31<br>赞(0) 踩(0) | <div>和你在一起什么都美丽，就要找个这样的人，去那天不够高，海不够蓝的地方~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2242309)<br><br>2011-06-13 05:07<br>赞(0) 踩(0) | <div>【你敢不敢跟我走 去那大地的尽头 你男朋友介意我不会强求】【你愿不愿跟我走 去看飞翔的海鸥 你向往自由我们就不回头】【你想不想跟我走 冲向最高的浪头 如果你害怕可以牵我的手】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2242309)<br><br>2011-06-13 05:07<br>赞(0) 踩(0) | <div>【你敢不敢跟我走 去那大地的尽头 你男朋友介意我不会强求】<br>【你愿不愿跟我走 去看飞翔的海鸥 你向往自由我们就不回头】<br>【你想不想跟我走 冲向最高的浪头 如果你害怕可以牵我的手】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1757139)<br><br>2011-06-09 21:17<br>赞(0) 踩(0) | <div>想！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1297574)<br><br>2011-06-08 12:31<br>赞(0) 踩(0) | <div>@璐噜hanabi 你们在北戴河堆的沙滩上堆埋嬉皮笑脸的@Miss王宇宙 时，有没有在听这首歌？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1297574)<br><br>2011-06-08 12:27<br>赞(0) 踩(0) | <div>@璐噜hanabi 你们在北戴河堆的沙滩上堆埋嬉皮笑脸的 @王宇宙 时，有没有在听这首歌？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2136307)<br><br>2011-06-08 09:03<br>赞(0) 踩(0) | <div>=）喜欢~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2752571)<br><br>2011-06-07 20:23<br>赞(0) 踩(0) | <div>很带感~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206408)<br><br>2011-06-06 12:59<br>赞(0) 踩(0) | <div>你男朋友介意我不会强求   和你在一起 什么都美丽</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886077)<br>同归于尽<br>2011-06-06 12:43<br>赞(0) 踩(0) | <div>你想不想跟我走冲向最高的浪头如果你害怕可以牵我的手</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886077)<br>同归于尽<br>2011-06-06 12:43<br>赞(0) 踩(0) | <div>你想不想跟我走<br>冲向最高的浪头<br>如果你害怕可以牵我的手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1114572)<br>旅せよ若人<br>2011-06-05 23:15<br>赞(0) 踩(0) | <div>gala 这张专辑好棒啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3953952)<br>未来是属于勇敢的人<br>2011-06-04 22:51<br>赞(0) 踩(0) | <div>词儿真棒~很喜欢这样放肆的声音 要唱就痛痛快快的 什么都不要管~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3374259)<br><br>2011-06-04 21:14<br>赞(0) 踩(0) | <div>只要吻到你的脸，北戴河也是乐园！！！哈哈真欢乐！</div> |
@@ -1784,11 +1784,11 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3367843)<br><br>2011-05-27 10:17<br>赞(0) 踩(0) | <div>居然是今年发行的 我都感觉好多年了 很可爱的歌 感觉生活很好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3367843)<br><br>2011-05-27 10:16<br>赞(0) 踩(0) | <div>觉得生活很可爱了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1397144)<br><br>2011-05-26 18:03<br>赞(0) 踩(0) | <div>gala不再大舌头，可是依旧喜欢啊~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3855619)<br><br>2011-05-26 11:11<br>赞(0) 踩(0) | <div>小三。。。私奔到北戴河。。。蛤蛤。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3855619)<br><br>2011-05-26 11:11<br>赞(0) 踩(0) | <div>小三。。。<br>私奔到北戴河。。。<br>蛤蛤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/901754)<br><br>2011-05-24 22:08<br>赞(0) 踩(0) | <div>传说中的北戴河之歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1742869)<br><br>2011-05-24 14:53<br>赞(0) 踩(0) | <div>让心情很好的歌，让人变得勇敢的歌，让爱情变得很灿烂的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1117345)<br><br>2011-05-23 11:26<br>赞(0) 踩(0) | <div>欢乐！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3955520)<br><br>2011-05-23 04:00<br>赞(0) 踩(0) | <div>你敢不敢跟我走去那大地的尽头你男朋友介意我不会强求</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3955520)<br><br>2011-05-23 04:00<br>赞(0) 踩(0) | <div>你敢不敢跟我走<br>去那大地的尽头<br>你男朋友介意我不会强求</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3429168)<br><br>2011-05-23 00:19<br>赞(0) 踩(0) | <div>我仿佛听到北戴河的青春的召唤！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/660186)<br><br>2011-05-22 10:00<br>赞(0) 踩(0) | <div>sha</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2859595)<br>我跟你描述一个灵魂，他拥...<br>2011-05-21 23:10<br>赞(0) 踩(0) | <div>“你愿不愿跟我走……你敢不敢跟我走……”这种《一无所有》的赶脚是神马！！！！</div> |
@@ -1809,13 +1809,13 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3427886)<br><br>2011-04-30 23:14<br>赞(0) 踩(0) | <div>这么欢快的歌儿还是gala才唱的出来啊~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3455985)<br><br>2011-04-29 13:21<br>赞(0) 踩(0) | <div>洒脱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3491833)<br><br>2011-04-28 20:36<br>赞(0) 踩(0) | <div>北戴河 那次的鸽子 还有以前被太阳晒的睁不开眼睛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2445704)<br>就像一座山脉坚强永不变<br>2011-04-28 12:52<br>赞(0) 踩(0) | <div>心中有船可扬帆肚上长着救生圈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2445704)<br>就像一座山脉坚强永不变<br>2011-04-28 12:51<br>赞(0) 踩(0) | <div>你敢不敢跟我走，去那大地的尽头，你男朋友介意我不会强求。你愿不愿跟我走，去看飞翔的海鸥，你向往自由我们就不回头。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2445704)<br>就像一座山脉坚强永不变<br>2011-04-28 12:52<br>赞(0) 踩(0) | <div>心中有船可扬帆<br>肚上长着救生圈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2445704)<br>就像一座山脉坚强永不变<br>2011-04-28 12:51<br>赞(0) 踩(0) | <div>你敢不敢跟我走，去那大地的尽头，你男朋友介意我不会强求。<br><br>你愿不愿跟我走，去看飞翔的海鸥，你向往自由我们就不回头。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2229259)<br><br>2011-04-26 17:13<br>赞(0) 踩(0) | <div>^^</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23006)<br> <br>2011-04-23 22:31<br>赞(0) 踩(0) | <div>如果你害怕可以牵我的手喜欢。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23006)<br> <br>2011-04-23 22:31<br>赞(0) 踩(0) | <div>如果你害怕可以牵我的手<br><br>喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1553971)<br><br>2011-04-23 18:39<br>赞(0) 踩(0) | <div>好听极了~~歌词也很喜欢~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3650829)<br> <br>2011-04-23 16:28<br>赞(0) 踩(0) | <div>好欢乐 好欢乐~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142247)<br><br>2011-04-21 22:54<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽马尔代夫太遥远只要吻到你的脸北戴河也是乐园</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142247)<br><br>2011-04-21 22:54<br>赞(0) 踩(0) | <div>哪怕 天不够蓝 海不够宽<br>马尔代夫太遥远<br>只要吻到你的脸<br>北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3611792)<br><br>2011-04-21 17:20<br>赞(0) 踩(0) | <div>随和</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3683672)<br><br>2011-04-21 12:39<br>赞(0) 踩(0) | <div>听着太开心了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1576755)<br><br>2011-04-21 12:24<br>赞(0) 踩(0) | <div>你男朋友介意我不会强求  哈哈 啊哈哈哈</div> |
@@ -1842,7 +1842,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282206)<br><br>2011-04-16 03:29<br>赞(0) 踩(0) | <div>我只想问你，如果我喜欢你，为你去做一切，你敢不敢跟我走，你男朋友介意我不强求，害怕就抓我的手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/437466)<br>文不能测字武不能防身<br>2011-04-15 23:20<br>赞(0) 踩(0) | <div>歌词跟《卖艺的小青年》的意思差不多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2849042)<br><br>2011-04-14 23:31<br>赞(0) 踩(0) | <div>好喜欢，越听越好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217516)<br><br>2011-04-14 23:19<br>赞(0) 踩(0) | <div>马尔代夫太遥远只要吻到你的脸北戴河也是乐园</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217516)<br><br>2011-04-14 23:19<br>赞(0) 踩(0) | <div>马尔代夫太遥远<br>只要吻到你的脸<br>北戴河也是乐园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/494066)<br><br>2011-04-14 23:12<br>赞(0) 踩(0) | <div>大家都来挖墙角</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1407534)<br><br>2011-04-13 19:36<br>赞(0) 踩(0) | <div>你向往自由，我们就不回头！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3306323)<br><br>2011-04-13 18:01<br>赞(0) 踩(0) | <div>好吧～我的心情需要GALA一下！！！</div> |
@@ -1907,7 +1907,7 @@ ISRC CN-A50-10-333-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3470181)<br><br>2011-04-03 23:12<br>赞(0) 踩(0) | <div>蘑菇喜欢~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2364764)<br> <br>2011-04-03 23:01<br>赞(0) 踩(0) | <div>好嗨皮！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2933883)<br><br>2011-04-03 21:18<br>赞(0) 踩(0) | <div>好像liam也这么唱歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/451695)<br><br>2011-04-03 20:50<br>赞(0) 踩(0) | <div>北戴河也有海也有鱼也是乐园阳光灿烂 天空遥远 人们和善</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/451695)<br><br>2011-04-03 20:50<br>赞(0) 踩(0) | <div>北戴河也有海也有鱼<br>也是乐园<br>阳光灿烂 天空遥远 人们和善</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/756068)<br><br>2011-04-03 19:36<br>赞(0) 踩(0) | <div>听gala的歌就是觉得欢快！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3170482)<br><br>2011-04-03 16:12<br>赞(0) 踩(0) | <div>听特别的风格 懒音 哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3459953)<br><br>2011-04-03 13:34<br>赞(0) 踩(0) | <div>听着会让人感觉放松~</div> |

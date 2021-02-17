@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5abb37a59ef72f34526e763ddcb8f03d.jpg)<br>丘梓欣](https://i.xiami.com/qiuzixin) | **播放数**: 7227243<br>**粉丝数**: 237<br>**评论数**: 31<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 粤语流行 Cantopop<br> |
+| [![](../../images/musicians/5abb37a59ef72f34526e763ddcb8f03d.jpg)<br>丘梓欣](https://i.xiami.com/qiuzixin) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 粤语流行 Cantopop<br>**播放数**: 7227243<br>**粉丝数**: 237<br>**评论数**: 31<br> |
 
 ## 档案
 
@@ -42,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413392136)<br><br>2019-02-15 08:37<br>赞(0) 踩(0) | <div>你太帅了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412663401)<br><br>2019-01-20 18:10<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344704042)<br><br>2018-09-11 19:55<br>赞(1) 踩(0) | <div>非常好听。你在唱一遍呗。</div> |

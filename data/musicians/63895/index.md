@@ -3,7 +3,7 @@ tsunenori a.k.a Marukabis
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/88ae14c49df3462214fde8e47856e1d4.png)<br>tsunenori a.k.a Marukabis](https://i.xiami.com/marukabis) | **播放数**: 11779994<br>**粉丝数**: 14365<br>**评论数**: 578<br>**地区**: Japan 日本<br>**风格**: 流行 Pop, 电子 Electronic, 轻音乐 Easy Listening, 自然新世纪 Nature New Age<br> |
+| [![](../../images/musicians/88ae14c49df3462214fde8e47856e1d4.png)<br>tsunenori a.k.a Marukabis](https://i.xiami.com/marukabis) | **地区**: Japan 日本<br>**风格**: 流行 Pop, 电子 Electronic, 轻音乐 Easy Listening, 自然新世纪 Nature New Age<br>**播放数**: 11779994<br>**粉丝数**: 14365<br>**评论数**: 578<br> |
 
 ## 档案
 
@@ -36,15 +36,15 @@ tsunenori 又名 Marukabis<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4230706)<br><br>2021-01-10 21:10<br>赞(0) 踩(0) | <div>大爷的   虾米先玩球去了。狗日的阿里！坑完一个挨一个！下个就是优酷 饿了么！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41021627)<br>Breathturn<br>2020-10-04 11:08<br>赞(0) 踩(0) | <div>喊我</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41021627)<br>Breathturn<br>2020-10-04 11:08<br>赞(1) 踩(0) | <div>有演出我一定要去啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/933157)<br>泥豪啊同志！<br>2020-09-16 23:40<br>赞(0) 踩(0) | <div>已</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44370436)<br><br>2020-04-25 23:30<br>赞(0) 踩(0) | <div>有没有你的数字专辑？这虾米的MP3音质太差了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342719794)<br><br>2020-04-22 14:50<br>赞(0) 踩(0) | <div>道理我都懂，听到有千与千寻的旋律怎么说。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303594537)<br> 绝笔不是00后<br>2020-04-09 20:54<br>赞(0) 踩(0) | <div>日风，韩风，国风（可能在这种音乐风格里，进入得晚了，就不能说是自己的风格了，但没关系，格调还是有区别的。）更不要褒贬不一，每个人喜好都不一样这几种风格很容易界定，听得出来。但又不好界定，时间年代，以及作者的经历、心境，都会影响到每首曲风。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303594537)<br> 绝笔不是00后<br>2020-04-09 20:54<br>赞(0) 踩(0) | <div>日风，韩风，国风（可能在这种音乐风格里，进入得晚了，就不能说是自己的风格了，但没关系，格调还是有区别的。）<br>更不要褒贬不一，每个人喜好都不一样<br>这几种风格很容易界定，听得出来。<br>但又不好界定，时间年代，以及作者的经历、心境，都会影响到每首曲风。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45507669)<br>好像不太个性<br>2020-02-06 20:19<br>赞(0) 踩(0) | <div>怎么知道什么时候来中国演出呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40603098)<br>You can’t ho...<br>2019-11-26 08:37<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356763773)<br>我还没想好要写什么...<br>2019-10-11 12:07<br>赞(0) 踩(0) | <div>。</div> |
@@ -74,21 +74,21 @@ tsunenori 又名 Marukabis<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246261693)<br><br>2018-05-05 13:56<br>赞(0) 踩(0) | <div>太幸运了你</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40174618)<br>以梦为马<br>2018-06-08 02:49<br>赞(0) 踩(0) | <div>真人帅吗 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/615653)<br><br>2019-01-06 15:01<br>赞(0) 踩(0) | <div>靠。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344092974)<br> <br>2018-04-12 10:40<br>赞(24) 踩(0) | <div>中国的乐迷们，大家好！我是Marukabis。可能大家耳熟能详的是tsunenori这个名字。这周末，将初次来到上海举办首次演出。以tsunenori这个名义最初在2008年发行了CD，10年的岁月里程将在上海的live现场验证。很感谢能有这次机会。这次是新曲与旧曲的结合演绎。期待与大家在现场见面！【Bad News呈现】Fuseland in Shanghai治愈系人气日系爵士嘻哈tsunenori a.k.a. Marukabis 2018 首次中国专场演出4月14日（周六）万代南梦宫上海文化中心 未来剧场</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344092974)<br> <br>2018-04-12 10:40<br>赞(24) 踩(0) | <div>中国的乐迷们，大家好！我是Marukabis。可能大家耳熟能详的是tsunenori这个名字。这周末，将初次来到上海举办首次演出。以tsunenori这个名义最初在2008年发行了CD，10年的岁月里程将在上海的live现场验证。很感谢能有这次机会。这次是新曲与旧曲的结合演绎。期待与大家在现场见面！<br><br>【Bad News呈现】Fuseland in Shanghai治愈系人气日系爵士嘻哈tsunenori a.k.a. Marukabis 2018 首次中国专场演出4月14日（周六）万代南梦宫上海文化中心 未来剧场</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32056965)<br>stay gold.<br>2018-04-14 00:57<br>赞(0) 踩(0) | <div>期待！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49655313)<br>除了再见还可以说些什么呢<br>2018-12-07 19:28<br>赞(0) 踩(0) | <div>请考虑西安吧！拜托了！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/856551)<br>虾米活下去 用户指责什么...<br>2019-07-07 23:51<br>赞(0) 踩(0) | <div>请尝试更多次来中国巡演吧！plz come China make tour more often. We Love You！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/856551)<br>虾米活下去 用户指责什么...<br>2019-07-07 23:51<br>赞(0) 踩(0) | <div>请尝试更多次来中国巡演吧！<br>plz come China make tour more often. We Love You！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247610881)<br>面对我前面的人群，我得穿...<br>2019-09-21 19:11<br>赞(0) 踩(0) | <div><q><b>浮游说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434748132)<br><br>2019-12-27 02:25<br>赞(0) 踩(0) | <div>特别喜欢这首曲子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329866439)<br>喜欢一个人不应该单相思，...<br>2018-03-31 20:41<br>赞(1) 踩(0) | <div>崇拜崇拜，感觉真的太有故事了(･ิ&amp;piv;･ิ)っ&amp;hearts;笔芯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/487232)<br>直到光芒带走我们<br>2018-03-16 22:54<br>赞(0) 踩(0) | <div>上海站有一起的么，只想找一个伴～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4401950)<br><br>2018-03-14 19:02<br>赞(0) 踩(0) | <div>要来中国了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344092974)<br> <br>2018-02-16 22:39<br>赞(32) 踩(0) | <div>上海ライブの詳細が決まりました改名がなかなか広まらないのでしばらくはa.k.a表記に。【Bad News呈现】Fuseland in Shanghai治愈系人气日系爵士嘻哈tsunenori a.k.a Marukabis 2018 首次中国专场演出4月14日（周六）万代南梦宫上海文化中心 未来剧场公演详情&amp;amp;购票：<a href="https://www.showstart.com/event/44865" target="_blank" rel="nofollow noreferrer noopener">https://www.showstart.com/event/44865</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344092974)<br> <br>2018-02-16 22:39<br>赞(32) 踩(0) | <div>上海ライブの詳細が決まりました改名がなかなか広まらないのでしばらくはa.k.a表記に。<br><br>【Bad News呈现】Fuseland in Shanghai<br>治愈系人气日系爵士嘻哈tsunenori a.k.a Marukabis 2018 首次中国专场演出<br>4月14日（周六）万代南梦宫上海文化中心 未来剧场<br>公演详情&amp;amp;购票：<a href="https://www.showstart.com/event/44865" target="_blank" rel="nofollow noreferrer noopener">https://www.showstart.com/event/44865</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321225568)<br><br>2018-02-15 15:43<br>赞(1) 踩(0) | <div>我不能去，我还是个学生，而且我家也离那远 <img src="../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2018-02-09 07:53<br>赞(0) 踩(0) | <div>巡演求出北京站 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5604492)<br>‪‪♬✧訂閱號：Morn...<br>2018-02-07 16:43<br>赞(0) 踩(0) | <div>收到</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2354958)<br><br>2018-02-07 15:16<br>赞(1) 踩(0) | <div>3。4月的演出。爆炸啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14091078)<br>我还没想好要写什么...<br>2018-02-02 00:15<br>赞(1) 踩(0) | <div>治愈系人气日系爵士嘻哈 tsunenori 2018 首次中国专场演出演出时间：04 月 14 日 20:00-22:00艺人： tsunenori a.k.a Marukabis / Kotaro Shimazaki场地： 上海 万代南梦宫上海文化中心 2F 未来剧场<a href="https://www.showstart.com/event/44865" target="_blank" rel="nofollow noreferrer noopener">https://www.showstart.com/event/44865</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14091078)<br>我还没想好要写什么...<br>2018-02-02 00:15<br>赞(1) 踩(0) | <div>治愈系人气日系爵士嘻哈 tsunenori 2018 首次中国专场演出<br><br>演出时间：04 月 14 日 20:00-22:00<br>艺人： tsunenori a.k.a Marukabis / Kotaro Shimazaki<br>场地： 上海 万代南梦宫上海文化中心 2F 未来剧场<br><br><a href="https://www.showstart.com/event/44865" target="_blank" rel="nofollow noreferrer noopener">https://www.showstart.com/event/44865</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9486114)<br>倾东海以为酒<br>2018-01-29 22:45<br>赞(1) 踩(0) | <div>你要来中国啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5990820)<br><br>2018-01-29 14:17<br>赞(1) 踩(0) | <div>4月14日 上海南梦宫中国首演</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307925926)<br><br>2018-01-27 20:52<br>赞(0) 踩(0) | <div>挺好</div> |
@@ -97,7 +97,7 @@ tsunenori 又名 Marukabis<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36537308)<br>重的都留在這<br>2017-12-17 10:08<br>赞(0) 踩(0) | <div>Seek</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40587864)<br> <br>2017-11-28 22:58<br>赞(0) 踩(0) | <div>大师，膜拜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/221695408)<br>我还没想好要写什么...<br>2017-11-15 20:10<br>赞(0) 踩(0) | <div>♪</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19818763)<br><br>2017-10-16 22:19<br>赞(14) 踩(0) | <div>河野今年开了新马甲：マルカビス(Marukabis)，旧马甲：ツネノリ(tsunenori) 目前已经弃坑。目前以Marukabis的名义发了两张专辑(均为之前已经发行的旧曲精选)，并有部分新曲以单曲的方式进行了发售希望虾米能即使更新一下作者资料，并跟进资源。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19818763)<br><br>2017-10-16 22:19<br>赞(14) 踩(0) | <div>河野今年开了新马甲：マルカビス(Marukabis)，旧马甲：ツネノリ(tsunenori) 目前已经弃坑。<br>目前以Marukabis的名义发了两张专辑(均为之前已经发行的旧曲精选)，并有部分新曲以单曲的方式进行了发售<br>希望虾米能即使更新一下作者资料，并跟进资源。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174896296)<br>小众？？？<br>2017-09-20 12:21<br>赞(0) 踩(0) | <div>我觉得很ok</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279135481)<br><br>2017-09-07 00:23<br>赞(0) 踩(0) | <div>日本作曲家</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6652575)<br>mbz2006<br>2017-09-06 20:17<br>赞(0) 踩(0) | <div>ok</div> |
@@ -117,7 +117,7 @@ tsunenori 又名 Marukabis<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/597569)<br>何必故作姿态<br>2017-03-11 22:58<br>赞(0) 踩(0) | <div>sc上又新专辑试听，不过冷饭略多</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3643353)<br>虾米要关闭了，难说再见！...<br>2017-03-12 09:27<br>赞(0) 踩(0) | <div>我听好几首都改编了。等我传上来</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/805845)<br>Petal<br>2017-04-06 15:00<br>赞(0) 踩(0) | <div><q><b>笛在月明楼说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1700002)<br>V5_ORZZZZZ<br>2017-03-11 11:32<br>赞(1) 踩(0) | <div>改名Marukabis归来6666666666666666666666666666666666666666666666666666666666666666666</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1700002)<br>V5_ORZZZZZ<br>2017-03-11 11:32<br>赞(1) 踩(0) | <div>改名Marukabis归来66666666666666666<br>666666666666666666666666666666<br>66666666666666666666</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1643164)<br>阳光淌过手心天空笑了笑！<br>2017-02-07 16:53<br>赞(0) 踩(0) | <div>喜欢~_~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52682108)<br>我还没想好要写什么...<br>2017-01-10 00:33<br>赞(0) 踩(0) | <div>～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171396)<br>以前办不到的事情，未来也...<br>2016-12-30 19:44<br>赞(0) 踩(0) | <div>0,0</div> |
@@ -179,7 +179,7 @@ tsunenori 又名 Marukabis<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10895210)<br><br>2015-04-24 18:52<br>赞(0) 踩(0) | <div>喜欢JAZZ -HIP HOP的请加 306843736 群主听的很广哦一定能在这找到喜欢的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7757466)<br>只想好好当个垃圾✓<br>2015-04-23 22:07<br>赞(1) 踩(0) | <div>☣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33953474)<br><br>2015-04-20 13:51<br>赞(0) 踩(0) | <div>很赞呐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42021985)<br>生命力内流之人的轻诉<br>2015-04-13 21:01<br>赞(0) 踩(0) | <div>少了几多歌好想听diamond sea</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42021985)<br>生命力内流之人的轻诉<br>2015-04-13 21:01<br>赞(0) 踩(0) | <div>少了几多歌<br>好想听diamond sea</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42683499)<br>Moon Flow<br>2015-03-29 10:05<br>赞(0) 踩(0) | <div>好好好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22917778)<br>= =+<br>2015-03-24 22:13<br>赞(0) 踩(0) | <div>2003真的很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11846479)<br>ai<br>2015-03-23 00:02<br>赞(0) 踩(0) | <div>最好听的不是第一首</div> |
@@ -187,10 +187,10 @@ tsunenori 又名 Marukabis<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44368575)<br> <br>2015-03-09 12:15<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7008200)<br>过自己的生活，听爱听的歌<br>2015-03-08 16:06<br>赞(0) 踩(0) | <div>喜欢！耳朵的享受</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447767)<br><br>2015-02-26 17:28<br>赞(1) 踩(0) | <div>为毛霓虹国的 Jazz Hip Hop做得这么好？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13194141)<br>看到的给我来个联络方式。...<br>2015-02-22 04:02<br>赞(0) 踩(0) | <div>♭♪♬collect again</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13194141)<br>看到的给我来个联络方式。...<br>2015-02-22 04:02<br>赞(0) 踩(0) | <div>♭<br>♪<br>♬<br>collect again</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22018627)<br><br>2015-02-18 10:36<br>赞(0) 踩(0) | <div>他的歌都非常地令人着迷，非常好听，很喜欢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10035026)<br>dubstep hous...<br>2015-02-16 01:30<br>赞(0) 踩(0) | <div>好美啊。想象出离别画面的感觉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3643353)<br>虾米要关闭了，难说再见！...<br>2015-02-07 15:38<br>赞(1) 踩(0) | <div>tsunenori 最新歌曲第一首    <a href="http://www.tudou.com/programs/view/9ClCww-F-ag/" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/9ClCww-F-ag/</a>第二首<a href="http://www.tudou.com/programs/view/y2h55RvHr6Y/" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/y2h55RvHr6Y/</a>第三首<a href="http://www.tudou.com/programs/view/HU3vRrVKRXM/" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/HU3vRrVKRXM/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3643353)<br>虾米要关闭了，难说再见！...<br>2015-02-07 15:38<br>赞(1) 踩(0) | <div>tsunenori 最新歌曲第一首    <a href="http://www.tudou.com/programs/view/9ClCww-F-ag/" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/9ClCww-F-ag/</a><br><br>第二首<a href="http://www.tudou.com/programs/view/y2h55RvHr6Y/" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/y2h55RvHr6Y/</a><br><br>第三首<a href="http://www.tudou.com/programs/view/HU3vRrVKRXM/" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/HU3vRrVKRXM/</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37651993)<br>Ar<br>2015-02-25 15:52<br>赞(0) 踩(0) | <div>转码往上传么，</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3643353)<br>虾米要关闭了，难说再见！...<br>2015-02-25 18:48<br>赞(0) 踩(0) | <div><q><b>伶丶说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11643877)<br>姑且听之<br>2015-03-20 12:47<br>赞(0) 踩(0) | <div>鲁能兄这些是从youtube上找到的么</div> |
@@ -202,7 +202,7 @@ tsunenori 又名 Marukabis<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39788841)<br> .<br>2015-01-27 19:00<br>赞(0) 踩(0) | <div>留名</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34323138)<br>Listening is...<br>2015-01-07 22:46<br>赞(0) 踩(0) | <div>他真的  太棒了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41033772)<br>。<br>2014-12-22 22:39<br>赞(0) 踩(0) | <div>~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38890260)<br>哪管什么风格，唯我所享。...<br>2014-12-07 16:17<br>赞(1) 踩(0) | <div>脱离世俗大众，远离时尚潮流，唯有自我偏爱喜好，听属于自己的独特。谢谢你，伟大的音乐人。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38890260)<br>哪管什么风格，唯我所享。...<br>2014-12-07 16:17<br>赞(1) 踩(0) | <div>脱离世俗大众，远离时尚潮流，唯有自我偏爱喜好，听属于自己的独特。<br>谢谢你，伟大的音乐人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32461398)<br>曾在云上浮想联翩如今也终...<br>2014-12-04 20:07<br>赞(0) 踩(0) | <div>！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5169131)<br>我还没想好要写什么...<br>2014-11-21 21:49<br>赞(0) 踩(0) | <div>赞死了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1576815)<br>행복해야해<br>2014-11-19 15:12<br>赞(0) 踩(0) | <div>haoxihuan</div> |
@@ -260,7 +260,7 @@ tsunenori 又名 Marukabis<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32245425)<br><br>2014-03-13 12:26<br>赞(0) 踩(0) | <div>找到你了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15828620)<br> <br>2014-03-12 14:56<br>赞(0) 踩(0) | <div>完美地将嘻哈以及曰本古典融合创造出忧郁、怀旧的旋律美感，并借助钢琴的理性清澈、长笛的悠扬婉转、小提琴的哀怨缠绵以及打击乐器的韵律性通过全新的编配构建出华美悠扬的乐章，适当的加入少量的自然声效，流转着清新自然的韵味，笛子的效果也在很大程度上促进了音乐的连贯性与一致性。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1770027)<br><br>2014-03-05 11:27<br>赞(0) 踩(0) | <div>浓郁的JP风格</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72869)<br>我有宠物啦~きらら！<br>2014-02-26 20:40<br>赞(1) 踩(0) | <div>画图的时候做BGM最好不过了。中板的速度，听着不哀怨也不兴奋。但是这种编曲手法以及演奏方式，难道不是应该归为New Age Music里的吗？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72869)<br>我有宠物啦~きらら！<br>2014-02-26 20:40<br>赞(1) 踩(0) | <div>画图的时候做BGM最好不过了。中板的速度，听着不哀怨也不兴奋。<br>但是这种编曲手法以及演奏方式，难道不是应该归为New Age Music里的吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9753451)<br>••••••<br>2014-03-13 09:29<br>赞(0) 踩(0) | <div><q><b>De_kleine_Pr说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8589018)<br>这家伙很聪明什么也没留下...<br>2014-08-27 23:01<br>赞(0) 踩(0) | <div><q><b>De_kleine_Pr说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7297679)<br>欢迎各位客官光临本小店 ...<br>2017-10-28 00:16<br>赞(0) 踩(0) | <div>虽然hiphop编曲也用到采样和loop，不过我非常同意你也看法。Tsunenori的作品时而大气磅礴，时而温婉动人，曲子的风格没有多少Jazz元素，更多蕴含的一种东方的美感。怎么听怎么像New Age,但新世纪大多又比较平淡，而电子部分则是有Ambient的感觉，因此不好分类，个人认为归于Jazz-hiphop实际上有误。</div> |
@@ -358,7 +358,7 @@ tsunenori 又名 Marukabis<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10301497)<br>Under moon<br>2013-02-05 14:50<br>赞(1) 踩(0) | <div>Tsunenori完美地将嘻哈以及曰本古典融合创造出忧郁、怀旧的旋律美感，并借助钢琴的理性清澈、长笛的悠扬婉转、小提琴的哀怨缠绵以及打击乐器的韵律性通过全新的编配构建出华美悠扬的乐章，适当的加入少量的自然声效，流转着清新自然的韵味.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5025896)<br>who love who...<br>2013-02-05 00:54<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5629549)<br><br>2013-02-02 00:29<br>赞(0) 踩(0) | <div>质朴而独特</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5393750)<br>26：27<br>2013-01-29 21:26<br>赞(2) 踩(0) | <div>对日本人无好感但一首an avenue让我忍不住收藏给自己开脱音乐无国界</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5393750)<br>26：27<br>2013-01-29 21:26<br>赞(2) 踩(0) | <div>对日本人无好感<br>但一首an avenue让我忍不住收藏<br>给自己开脱<br>音乐无国界</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11713033)<br>为赋新词强说愁<br>2013-01-27 13:48<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-01-26 17:10<br>赞(0) 踩(0) | <div>恋上了~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8272077)<br>我在梦里行走！双脚也不会...<br>2013-01-26 17:03<br>赞(0) 踩(0) | <div>020010</div> |
@@ -403,7 +403,7 @@ tsunenori 又名 Marukabis<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8831612)<br><br>2012-11-01 14:38<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9076669)<br><br>2012-10-31 12:54<br>赞(0) 踩(0) | <div>太好听了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2435062)<br> <br>2012-10-30 13:14<br>赞(0) 踩(0) | <div>Tsunenori</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5487745)<br>因为好奇，所以神秘。<br>2012-10-25 13:02<br>赞(0) 踩(0) | <div>最近在单曲循环Backlight， Continue The Voyage ，2003。钢琴的理性清澈、长笛的悠扬婉转再加上少量的自然声效以及打击乐器的韵律性，造出了忧郁，怀旧的旋律美感，太让我喜欢了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5487745)<br>因为好奇，所以神秘。<br>2012-10-25 13:02<br>赞(0) 踩(0) | <div>最近在单曲循环Backlight， Continue The Voyage ，2003。<br>钢琴的理性清澈、长笛的悠扬婉转再加上少量的自然声效以及打击乐器的韵律性，造出了忧郁，怀旧的旋律美感，太让我喜欢了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11179281)<br><br>2012-10-24 11:53<br>赞(0) 踩(0) | <div>soul</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3574586)<br>人生就是一個萃取的過程<br>2012-10-23 16:34<br>赞(0) 踩(0) | <div>u got what i need. so im here</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2804005)<br>　　　NO GODS O...<br>2012-10-23 06:13<br>赞(0) 踩(0) | <div>2003年的第一场雪  比以往时候来的更早一些     是这么唱吗？</div> |
@@ -615,4 +615,4 @@ tsunenori 又名 Marukabis<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7397321)<br>随遇而安<br>2012-06-22 22:26<br>赞(0) 踩(0) | <div><q><b>夢漸改说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1495255)<br>时间是炸弹<br>2012-06-22 22:28<br>赞(0) 踩(0) | <div><q><b>Jimmy说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1012869)<br><br>2010-07-13 23:48<br>赞(0) 踩(0) | <div>心灵的抚慰</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/649811)<br><br>2010-04-22 09:54<br>赞(0) 踩(0) | <div>Brand New Surf Emerge 带我来这里的。第一次听到这曲子，心里好像被清洗了一遍就反反复复听了十来遍</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/649811)<br><br>2010-04-22 09:54<br>赞(0) 踩(0) | <div>Brand New Surf Emerge 带我来这里的。<br>第一次听到这曲子，心里好像被清洗了一遍<br>就反反复复听了十来遍</div> |

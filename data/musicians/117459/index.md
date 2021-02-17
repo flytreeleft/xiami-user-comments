@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7d0ee87ef8c23e422b15da25d0844bc4.jpg)<br>贰佰](https://i.xiami.com/erbai) | **播放数**: 18133868<br>**粉丝数**: 17594<br>**评论数**: 464<br>**地区**: China 中国大陆<br>**风格**: 传统民谣 Traditional Folk, 独立民谣 Indie Folk, 新民谣 Neofolk<br> |
+| [![](../../images/musicians/7d0ee87ef8c23e422b15da25d0844bc4.jpg)<br>贰佰](https://i.xiami.com/erbai) | **地区**: China 中国大陆<br>**风格**: 传统民谣 Traditional Folk, 独立民谣 Indie Folk, 新民谣 Neofolk<br>**播放数**: 18133868<br>**粉丝数**: 17594<br>**评论数**: 464<br> |
 
 ## 档案
 
@@ -27,8 +27,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2020-07-08 13:00<br>赞(1) 踩(0) | <div>虾米是完全没有新歌推了吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8411207)<br>我没还好想写要什么…<br>2020-06-02 00:18<br>赞(0) 踩(0) | <div>哥加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429873825)<br><br>2019-12-20 09:35<br>赞(0) 踩(0) | <div>好听，回味在其中，希望你有更多的作品，为你点赞</div> |
@@ -40,11 +40,11 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34634596)<br>本质逼裂波(1108，啪...<br>2018-09-02 22:12<br>赞(3) 踩(0) | <div>跟伍佰什么关系&amp;hellip;？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311053681)<br>输入签名...<br>2020-12-21 23:08<br>赞(0) 踩(0) | <div>贰百。。。五</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4126784)<br>从前的旋律<br>2018-08-04 06:56<br>赞(0) 踩(0) | <div>很期待你用这把声音唱出来的：玫瑰</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44195290)<br><br>2018-06-15 13:19<br>赞(0) 踩(0) | <div>错过了去年的巡演。今年的夏季巡演都在北方，明年来南方一定去听，还要带上男朋友 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44195290)<br><br>2018-06-15 13:19<br>赞(0) 踩(0) | <div>错过了去年的巡演。<br>今年的夏季巡演都在北方，<br>明年来南方一定去听，<br>还要带上男朋友 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111127378)<br>我还没想好要写什么...<br>2018-05-17 22:52<br>赞(0) 踩(0) | <div>光是这个声音就感觉爱上了你。 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260925831)<br><br>2018-05-17 16:56<br>赞(1) 踩(0) | <div>听到落泪！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11264971)<br>灵魂不知何去何从...<br>2018-05-07 20:48<br>赞(0) 踩(0) | <div>马上要开启一轮巡演了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43562045)<br><br>2018-04-18 15:29<br>赞(4) 踩(0) | <div>有首诗写太原的《我在下雪的太原想你》我在下雪的太原想你白皙的肌肤和晶莹的眸子，凝视天空下缓慢飞舞的雪花落在我的脸庞融化着对你的想念容颜，纤细的手臂，坚毅的眼神以及甜蜜的酒窝我在下雪的太原想你欢快的脚步踏着覆满雪的草坪，响动犹如迎泽湖微漪的倒映明亮起来雪的光芒牵动我的思绪血脉，奔跑的双腿，愉悦的笑容以及思念的皱纹我在下雪的太原想你雪落进眼中被浓烈的思念融化了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43562045)<br><br>2018-04-18 15:29<br>赞(4) 踩(0) | <div>有首诗写太原的<br>《我在下雪的太原想你》<br><br><br>我在下雪的太原想你<br><br>白皙的肌肤和晶莹的眸子，凝视<br><br>天空下缓慢飞舞的雪花<br><br>落在我的脸庞融化着对你的想念<br><br>容颜，纤细的手臂，坚毅的眼神<br><br>以及甜蜜的酒窝<br><br><br>我在下雪的太原想你<br><br>欢快的脚步踏着覆满雪的草坪，响动<br><br>犹如迎泽湖微漪的倒映<br><br>明亮起来雪的光芒牵动我的思绪<br><br>血脉，奔跑的双腿，愉悦的笑容<br><br>以及思念的皱纹<br><br><br>我在下雪的太原想你<br><br>雪落进眼中<br><br>被浓烈的思念融化了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43562045)<br><br>2018-04-18 15:28<br>赞(0) 踩(0) | <div>我也是太原人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354933009)<br><br>2018-03-22 15:35<br>赞(0) 踩(0) | <div>如果有机会希望和你能交个朋友吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286053183)<br><br>2018-03-22 11:17<br>赞(1) 踩(0) | <div>喜欢200的应该也会喜欢郑智化吧？</div> |
@@ -89,7 +89,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78410298)<br><br>2016-09-04 12:41<br>赞(0) 踩(0) | <div>出新歌呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204042751)<br><br>2016-07-23 01:45<br>赞(1) 踩(0) | <div>好听！支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341073)<br>dream on<br>2016-06-07 12:46<br>赞(1) 踩(0) | <div>喜欢他的那首《我在太原和谁一起假装悲伤》；这才是生活磨砺出来的好歌曲</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341073)<br>dream on<br>2016-06-07 12:44<br>赞(0) 踩(0) | <div>真喜欢《我在太原和谁一起假装悲伤》中的这几句歌词唱一首悲伤的歌给你 ，请你不要再哭泣 ；点一支便宜的烟给你，你就不要再怀疑 。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341073)<br>dream on<br>2016-06-07 12:44<br>赞(0) 踩(0) | <div>真喜欢《我在太原和谁一起假装悲伤》中的这几句歌词<br>唱一首悲伤的歌给你 ，<br>请你不要再哭泣 ；<br>点一支便宜的烟给你，<br>你就不要再怀疑 。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112476992)<br> <br>2016-05-28 22:40<br>赞(0) 踩(0) | <div>t大太原</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123089860)<br><br>2016-05-28 02:31<br>赞(0) 踩(0) | <div>草莓音乐节，你一定要去！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95740090)<br><br>2016-05-20 16:46<br>赞(0) 踩(0) | <div>好听好听</div> |
@@ -182,7 +182,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122661654)<br>我还没想好要写什么...<br>2018-05-06 04:07<br>赞(0) 踩(0) | <div>马頔，把名字分开看，马，由，页。他是创始人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10495358)<br>秋凉天气<br>2015-06-16 11:02<br>赞(0) 踩(0) | <div>声线真的不错，旋律也喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50148063)<br>别从别人嘴里认识我lz是...<br>2015-06-11 23:31<br>赞(1) 踩(0) | <div>该分班了听贰佰歌感觉特别贴切</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40256175)<br>她。<br>2015-06-07 12:51<br>赞(1) 踩(0) | <div>第一次听玫瑰是2013年，在豆瓣上贰佰的小站，那时候在别的地方听不到，每次听都能循环一天。最后的校园时光，就在歌声中悄然流走，只留下用青春编织成的回忆。“贰佰没有五 我该多快乐”希望我们都快乐。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40256175)<br>她。<br>2015-06-07 12:51<br>赞(1) 踩(0) | <div>第一次听玫瑰是2013年，在豆瓣上贰佰的小站，那时候在别的地方听不到，每次听都能循环一天。最后的校园时光，就在歌声中悄然流走，只留下用青春编织成的回忆。<br>“贰佰没有五 我该多快乐”希望我们都快乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4291341)<br><br>2015-06-06 10:14<br>赞(0) 踩(0) | <div>想去听现场，为你欢呼，为你鼓掌。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50522127)<br><br>2015-06-02 21:41<br>赞(0) 踩(0) | <div>好听，喜欢，如此就足够了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1146910)<br><br>2015-06-01 22:27<br>赞(1) 踩(0) | <div>&amp;quot;狗日的青春&amp;quot; 歌词道出了我的心声.</div> |
@@ -234,7 +234,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2468803)<br>UNIQUE<br>2015-02-06 18:48<br>赞(1) 踩(0) | <div>唉 忍不住来留个言 m一下T T</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46959358)<br> <br>2015-02-05 13:03<br>赞(1) 踩(0) | <div>就是喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11226371)<br><br>2015-02-02 23:38<br>赞(2) 踩(0) | <div>怎么 无病呻吟的这么多呢？？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29596918)<br>音乐，是最最有效的止疼片...<br>2015-02-01 11:54<br>赞(3) 踩(0) | <div>日子一天一天就这样过去那些荒诞的时光都已经忘记想起那些慢慢变的陌生的朋友一回头 青春都喂了狗</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29596918)<br>音乐，是最最有效的止疼片...<br>2015-02-01 11:54<br>赞(3) 踩(0) | <div>日子一天一天就这样过去<br><br>那些荒诞的时光都已经忘记<br><br>想起那些慢慢变的陌生的朋友<br><br>一回头 青春都喂了狗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5831379)<br>过去永远是痛苦和快乐的根...<br>2015-01-31 19:54<br>赞(1) 踩(0) | <div>对味！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8229163)<br> <br>2015-01-28 10:44<br>赞(1) 踩(0) | <div>好歌慢慢品味感触！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2992883)<br>暂无签名~<br>2015-01-26 02:26<br>赞(0) 踩(0) | <div>为什么哪个播放器都没有他的「我不能说」说？</div> |
@@ -256,12 +256,12 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21216195)<br>我还没想好要写什么...<br>2015-01-02 14:37<br>赞(0) 踩(0) | <div>太喜欢《玫瑰》了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1689537)<br>念念不忘，必有回响<br>2014-12-28 20:29<br>赞(0) 踩(0) | <div>我一听，还以为李志呢，不错</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38110608)<br><br>2015-01-13 15:11<br>赞(0) 踩(0) | <div>和李志确实很像！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:20<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:20<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42895029)<br>暂无签名~<br>2014-12-23 23:11<br>赞(0) 踩(0) | <div>喜欢他</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47874093)<br><br>2015-03-06 09:56<br>赞(0) 踩(0) | <div>虾米肚子里面是鲸鱼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44676731)<br><br>2014-12-23 18:44<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44972463)<br>十年饮冰 难凉热血<br>2014-12-17 23:53<br>赞(0) 踩(0) | <div>为什么听不了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18806298)<br>宋东野，海子，西藏。<br>2014-12-12 19:49<br>赞(1) 踩(0) | <div>我正沿着并州路一直往南走，在抽几块钱一包的烟。一路走一路丢，早就忘了那时的欢乐。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18806298)<br>宋东野，海子，西藏。<br>2014-12-12 19:49<br>赞(1) 踩(0) | <div>我正沿着并州路一直往南走，在抽几块钱一包的烟。<br>一路走一路丢，早就忘了那时的欢乐。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37944073)<br>你好吗 62488626...<br>2014-12-31 11:31<br>赞(0) 踩(0) | <div>..........</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14366466)<br>Goodluck<br>2014-12-06 19:35<br>赞(0) 踩(0) | <div>每一首都爱   歌里都是匆匆的青春</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15275321)<br>也没什么好听的。<br>2014-12-06 13:21<br>赞(1) 踩(0) | <div>这哥们还打算出新歌么？</div> |
@@ -370,7 +370,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3487489)<br>多想想<br>2014-05-30 13:09<br>赞(0) 踩(0) | <div>nice！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37120930)<br><br>2014-05-30 10:35<br>赞(0) 踩(0) | <div>有感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37082567)<br> <br>2014-05-27 21:16<br>赞(0) 踩(0) | <div>你说呢？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36201121)<br>肉啃肉。<br>2014-05-27 11:56<br>赞(0) 踩(0) | <div>未来很长    一切难讲     na la li la en na lei.......一遍又一遍新鲜的感觉   ::&amp;gt;_</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36201121)<br>肉啃肉。<br>2014-05-27 11:56<br>赞(0) 踩(0) | <div>未来很长    一切难讲     na la li la en na lei.......<br>一遍又一遍新鲜的感觉   ::&amp;gt;_</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33735270)<br>从一而终<br>2014-05-25 23:52<br>赞(0) 踩(0) | <div>很有味道很有故事的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12504412)<br>            ...<br>2014-05-25 19:37<br>赞(0) 踩(0) | <div>这歌跟阿拉善有啥关系</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37026319)<br><br>2014-05-25 18:11<br>赞(0) 踩(0) | <div>要哭了「！」</div> |
@@ -489,7 +489,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2482024)<br>向前跑，迎着冷眼和嘲笑。<br>2013-01-27 19:05<br>赞(1) 踩(0) | <div>我们只剩下一堆用青春编制成的回忆。 我喜欢那首玫瑰，沙哑但是动听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9105357)<br><br>2013-01-16 00:08<br>赞(0) 踩(0) | <div>怎么没有歌曲？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12143980)<br>12345<br>2013-01-04 11:46<br>赞(0) 踩(0) | <div>我想我听懂了玫瑰</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6984695)<br><br>2012-12-27 19:07<br>赞(0) 踩(0) | <div>对于这个世界我不想再多说其实我也和你一样痛苦的活着</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6984695)<br><br>2012-12-27 19:07<br>赞(0) 踩(0) | <div>对于这个世界我不想再多说<br>其实我也和你一样痛苦的活着</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11990288)<br><br>2012-12-24 22:58<br>赞(0) 踩(0) | <div>喜欢他的民谣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3937917)<br>一个卑微的理想主义者<br>2012-12-14 00:07<br>赞(0) 踩(0) | <div>我在太原和谁一起假装悲伤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11534088)<br><br>2012-12-08 21:37<br>赞(0) 踩(0) | <div>玫瑰好听。</div> |

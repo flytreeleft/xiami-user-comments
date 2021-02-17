@@ -93,8 +93,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28783685)<br>听到画面感<br>2018-09-15 07:22<br>赞(1) 踩(0) | <div>能给我力量就行。一种不知天高地厚的无知自信</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374631987)<br>烟火人间令仙人们迷失自己...<br>2018-07-22 18:44<br>赞(1) 踩(0) | <div>无论如何都无比喜欢这首歌，给人以奋进和战斗的力量，我要成为你的英雄</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869686)<br><br>2018-07-17 20:59<br>赞(0) 踩(0) | <div>不管怎样，唱进骨子里的歌，还是很棒！:)</div> |
@@ -109,7 +109,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20012515)<br><br>2017-11-26 11:33<br>赞(1) 踩(0) | <div>我的三观啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334587367)<br><br>2017-11-12 19:42<br>赞(3) 踩(0) | <div>模仿唱自己偶像的歌，有错？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346674423)<br><br>2018-02-24 20:07<br>赞(0) 踩(0) | <div>这难道还没有吗&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2017-10-30 10:08<br>赞(4) 踩(0) | <div>选自汪峰《爱是一颗幸福的子弹》过于偏向流行的一张专集，你可以忘记他曾经是一个摇滚歌手，除了在“再见二十世纪”中有一些的感觉外，其他的似乎都少了点什么。不过，这并不妨碍这些歌，仍然是好听的东西，制作也很认真。我认为从这张开始，汪峰彻底转向了流行，当然是属于汪峰风格的流行歌。不知道这是不是成名后的必然，许巍也是这个问题。当成名以后，歌曲中锐利的感觉就没有了。我不是要他们总是另类，愤怒，商业当然是必须的，但是不能失去音乐本身的那种力量，当歌曲只剩下技巧时，那她基本上也迈向死亡了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2017-10-30 10:08<br>赞(4) 踩(0) | <div>选自汪峰《爱是一颗幸福的子弹》<br>过于偏向流行的一张专集，你可以忘记他曾经是一个摇滚歌手，除了在“再见二十世纪”中有一些的感觉外，其他的似乎都少了点什么。不过，这并不妨碍这些歌，仍然是好听的东西，制作也很认真。我认为从这张开始，汪峰彻底转向了流行，当然是属于汪峰风格的流行歌。不知道这是不是成名后的必然，许巍也是这个问题。当成名以后，歌曲中锐利的感觉就没有了。我不是要他们总是另类，愤怒，商业当然是必须的，但是不能失去音乐本身的那种力量，当歌曲只剩下技巧时，那她基本上也迈向死亡了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102237)<br>呱<br>2017-10-28 00:30<br>赞(0) 踩(0) | <div>2009年：26号男孩，我们的关系有一点点复杂，他是我XX的XXX，尽管如此，这样的复杂或是曲折一直以来并没有影响我们的关系。这是一首让我能想起他样子的歌，虽然不常见，但每年我们都会碰上一两次面，一起喝酒吃烧烤，打篮球或打台球，或者K一下午歌，尽管我们见面聊的话题总是那些，可是每次见到他我还是很高兴，因为他每年如期的记挂，让我觉得很温暖。这一年我们一起吃饭时，他说他要结婚了，预祝他幸福。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36897148)<br>再见<br>2016-01-18 19:00<br>赞(0) 踩(0) | <div>老爷子抄半壁江山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52596697)<br><br>2015-09-03 07:41<br>赞(2) 踩(0) | <div>就算抄袭～关你们谢这些垃圾何事？？？</div> |
@@ -126,7 +126,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34897078)<br><br>2015-02-23 00:18<br>赞(2) 踩(0) | <div>今天突然想起我已经二十二岁了，而今的我还一无所获，但却拥有亲人和朋友，这是最宝贵的财富！二十二了，再不为梦想努力就要慢慢老了！ 我要成为你们的英雄 带着我的梦想和你们的喝彩！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2156822)<br>Serenade<br>2015-01-01 23:35<br>赞(0) 踩(0) | <div>Bob Dylan也不是原唱 是翻唱的 原唱貌似是个女歌手 无论怎样汪峰这歌明显构成抄袭了 这是他一个污点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1994760)<br>边走边听<br>2014-12-21 22:02<br>赞(0) 踩(0) | <div>汪峰最爱摇滚</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2014-11-24 20:32<br>赞(0) 踩(0) | <div>老板的歌还能说什么呢٥.٥</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2014-11-24 20:32<br>赞(0) 踩(0) | <div>老板的歌还能说什么呢<br>٥.٥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10524667)<br><br>2014-10-26 22:25<br>赞(0) 踩(0) | <div>被BTV体育洗脑了，脑子里全是这首歌。哇哈哈！邵佳一好样的！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10362606)<br><br>2017-10-27 23:24<br>赞(0) 踩(0) | <div>国安不是巴萨，他们没有梅西内马尔，可他们表现出了一种追求技术足球的决心；国安不是皇马国米，他们没有伟大的伯纳乌梅阿查，但场场被装扮成绿色海洋的工体四合院同样令人神往；国安不是利物浦，他们没有杰拉德，但他们拥有红军永不言弃的精神；国安不是恒大，他们没有亚冠金杯和三连霸伟业，但他们敢于向恒大叫板，那种向不可能说不，敢于向霸主挑战的勇气，贯穿于2014年的整个中超，贯穿于这场天河对决的每一分每一秒以及球场的每一寸角落。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1077762)<br><br>2014-08-10 15:42<br>赞(0) 踩(0) | <div>一首歌，一段回忆。不知各位兄弟@80後丶皓月孤鸿 @在路上-masum 是否还记得煮酒论英雄的日子。当初的英雄梦是否还依然荡存？</div> |
@@ -138,10 +138,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20236058)<br><br>2014-07-31 09:59<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13228728)<br> <br>2014-07-24 13:13<br>赞(0) 踩(0) | <div>这不是翻唱吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1273214)<br><br>2014-06-15 15:15<br>赞(0) 踩(0) | <div>和某人的品味越来越像</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1664724)<br>xxdddddddddd<br>2014-05-28 19:50<br>赞(0) 踩(0) | <div>告诉自己生命就像一场就像一场比赛不争取就一定会一定会失败</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1664724)<br>xxdddddddddd<br>2014-05-28 19:50<br>赞(0) 踩(0) | <div>告诉自己生命就像一场<br>就像一场比赛<br>不争取就一定会<br>一定会失败</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11468938)<br><br>2014-03-31 20:44<br>赞(0) 踩(0) | <div>我要成为你的英雄，带着我的梦想，你的喝彩。（PS:不知道是否最近压力大，早上起来就想听这首歌）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1537893)<br>69devil.com，...<br>2014-03-30 20:34<br>赞(0) 踩(0) | <div>唉。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141588)<br>活一场。<br>2014-03-27 12:28<br>赞(1) 踩(0) | <div>Bob Dylan《you belong to me》<a href="http://www.xiami.com/song/3364627?spm=a1z1s.7154410.1996860142.1.uTrHHt" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/3364627?spm=a1z1s.7154410.1996860142.1.uTrHHt</a>赤裸裸的抄袭。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141588)<br>活一场。<br>2014-03-27 12:28<br>赞(1) 踩(0) | <div>Bob Dylan《you belong to me》<br><a href="http://www.xiami.com/song/3364627?spm=a1z1s.7154410.1996860142.1.uTrHHt" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/3364627?spm=a1z1s.7154410.1996860142.1.uTrHHt</a><br><br>赤裸裸的抄袭。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84230)<br>只身打马过草原<br>2013-12-24 21:19<br>赞(0) 踩(0) | <div>这不是操袭you belong to me么！！！！！！！！！！！！！！！！！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4119231)<br><br>2013-11-16 07:54<br>赞(5) 踩(0) | <div>这首歌如果不算是抄袭的话 那么抄袭这个词语将不复存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1747753)<br><br>2013-11-14 11:17<br>赞(0) 踩(0) | <div>初中时我特别喜欢汪峰这首歌，旋律有一种做作的平静。估计听时间唱了会影响长相。。。后来大家听过Bob Dylan的you belong to me,  大家对汪峰也就释然了。@猜火车的小马克</div> |
@@ -153,20 +153,20 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9405877)<br>明天你依旧在我身旁<br>2013-08-24 23:35<br>赞(0) 踩(0) | <div>歌词励志得想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12492213)<br><br>2013-08-18 07:16<br>赞(0) 踩(0) | <div>送给清晨的自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18845407)<br><br>2013-08-14 16:57<br>赞(0) 踩(0) | <div>可以试试</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5551405)<br><br>2013-07-28 22:17<br>赞(1) 踩(0) | <div>为了《春天里》找旭日阳刚的麻烦，何况还不是抄袭。Bob Dylan啥时候来问候一下峰哥啊？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5551405)<br><br>2013-07-28 22:17<br>赞(1) 踩(0) | <div>为了《春天里》找旭日阳刚的麻烦，何况还不是抄袭。<br>Bob Dylan啥时候来问候一下峰哥啊？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17099744)<br><br>2013-07-26 01:17<br>赞(0) 踩(0) | <div>时光是我们的影子，它一直陪着你，无论悲苦还是欢悦；可是很多时候你只注重你的悲喜，却忽视了影子的感受。你走一程，它就陪着走一程，每条路上，它是你最忠实的伴侣。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3068618)<br><br>2013-07-13 23:18<br>赞(0) 踩(0) | <div>原来这首歌出来十多年了啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5628814)<br><br>2013-06-13 22:59<br>赞(0) 踩(0) | <div>每当夜深人静的时候，望着那灿烂的夜空，我会感到那里充满了太多的梦想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1582505)<br><br>2013-06-06 20:04<br>赞(0) 踩(0) | <div>@如何如何偏爱 希望小同学明天考试顺利，青春永远无悔！！记得，考场外，有叔叔我加油的呐喊声。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/750191)<br>my will<br>2013-06-01 15:18<br>赞(0) 踩(0) | <div>放了一下午录播的《可乐加冰》 睡梦中听到这首歌 好像回到了7年前的大四时光。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6399509)<br><br>2013-05-12 10:12<br>赞(0) 踩(0) | <div>昨天加班，吃晚饭回来的路上。转角借口有一青年，坐在音响上，指头拨动着吉他的弦，低着头浅唱着，我和同事静静的站了在马路边听了完整的一首。音乐可能是一种梦想吧！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4851087)<br>bold as love<br>2013-05-04 22:58<br>赞(42) 踩(0) | <div>赤裸裸的抄袭鲍勃迪伦的you belong to me啊啊啊啊啊啊啊！！！！太不要脸了！！！词曲 汪峰！！词曲 汪峰！！！曲你妹！！！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4851087)<br>bold as love<br>2013-05-04 22:58<br>赞(42) 踩(0) | <div>赤裸裸的抄袭鲍勃迪伦的you belong to me啊啊啊啊啊啊啊！！！！<br>太不要脸了！！！<br>词曲 汪峰！！词曲 汪峰！！！<br>曲你妹！！！！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1032568)<br>我还没想好要写什么...<br>2013-11-15 05:12<br>赞(0) 踩(0) | <div>迪伦是他的精神偶像</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4851087)<br>bold as love<br>2013-11-16 12:29<br>赞(0) 踩(0) | <div><q><b>mojun说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307884827)<br>希望到我死的那一天虾米都...<br>2017-12-02 02:54<br>赞(0) 踩(0) | <div>你有本事，还不说抄袭了，翻唱一个，看能火不？？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274932516)<br><br>2018-03-04 20:43<br>赞(0) 踩(0) | <div>别说汪峰了，杨坤也是，不息之河抄袭David Bowie的heroes，连和声也是抄的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212356465)<br>庸人罢了<br>2018-07-08 18:25<br>赞(0) 踩(0) | <div>那你真是个小机灵鬼哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2180490)<br><br>2013-04-22 20:44<br>赞(0) 踩(0) | <div>一场比赛一场徘徊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2180490)<br><br>2013-04-22 20:44<br>赞(0) 踩(0) | <div>一场比赛<br>一场徘徊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3568864)<br><br>2013-01-30 11:08<br>赞(1) 踩(0) | <div>想起那年，最无助、最彷徨、嘴失措、最郁闷、最忧伤，对未来茫然，对自己漠然。是汪峰这首歌陪我度过，循环着我的心情。~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3542406)<br>音乐杂食者<br>2013-01-06 16:39<br>赞(0) 踩(0) | <div>我要赢得这场胜利，即使一切都不存在，我要成为你的英雄，带着我的梦想你的喝彩。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3542406)<br>音乐杂食者<br>2013-01-06 16:34<br>赞(0) 踩(0) | <div>我要赢得这场胜利，即使一切都不存在，我要成为你的英雄，带着我的梦想你的喝彩。</div> |
@@ -183,7 +183,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4184777)<br><br>2012-07-24 21:52<br>赞(0) 踩(0) | <div>我要赢得这场胜利，带着我的梦想，你的喝彩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1157848)<br>我还没想好要写什么...<br>2012-06-21 00:25<br>赞(0) 踩(0) | <div>我要成为你的英雄</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8749701)<br><br>2012-04-25 15:56<br>赞(0) 踩(0) | <div>愤怒的力量</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987294)<br>暂无签名~<br>2012-03-19 12:39<br>赞(0) 踩(0) | <div>竟有人弱了我2010年的评论···我都忘了这事儿了··就连专辑的封面都有些许抄袭的痕迹呢····</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987294)<br>暂无签名~<br>2012-03-19 12:39<br>赞(0) 踩(0) | <div>竟有人弱了我2010年的评论···我都忘了这事儿了··<br>就连专辑的封面都有些许抄袭的痕迹呢····</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7127271)<br><br>2012-02-28 19:10<br>赞(0) 踩(0) | <div>啊，我写的字呢？今个跟某人聊天，发现，我全然跟她不在一个星球上，不过，各有各的追求，不是么？各有各的路，不是么？各有各的终点，不是么？就好像天空中的星座，我是天蝎，她是猎户，我们同在南天，却永不相逢，只因前世彼此曾经至对方于死地。O(∩_∩)O哈哈~，生活真美好，因为不同。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/673402)<br>我才不是摩羯座<br>2012-02-12 17:17<br>赞(0) 踩(0) | <div>忽然想起这首歌。竟然是02年的唱片。时间什么的，真可怕啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1038470)<br><br>2012-02-07 22:01<br>赞(0) 踩(0) | <div>每个人活着其实都是在跟自已或其他人在比赛，这首歌有让人感动的歌词。</div> |
@@ -192,7 +192,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4783939)<br><br>2011-12-22 22:57<br>赞(0) 踩(0) | <div>原来一直以为是麦田守望者的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2012-04-06 13:15<br>赞(0) 踩(0) | <div>他们各有一首《英雄》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7150768)<br><br>2011-12-09 13:28<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6887900)<br><br>2011-11-21 01:18<br>赞(0) 踩(0) | <div>不愿再等待我不会再失败我不愿再等待等待</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6887900)<br><br>2011-11-21 01:18<br>赞(0) 踩(0) | <div>不愿再等待<br>我不会再失败<br>我不愿再等待<br>等待</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3731796)<br><br>2011-11-19 21:44<br>赞(0) 踩(0) | <div>循环播放着汪峰的歌，完成4km。“每当夜深人静的时候，望着那灿烂的夜空，我会感到那里充满了，太多的梦想”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2448845)<br><br>2011-09-09 18:40<br>赞(1) 踩(0) | <div>抄得我笑死了。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4462551)<br><br>2011-07-09 12:02<br>赞(1) 踩(0) | <div>有阵子也老听这首国安的队歌，后来才觉得旋律不就是《you belong to me》的吗？</div> |
@@ -203,7 +203,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1326590)<br><br>2011-05-21 09:51<br>赞(0) 踩(0) | <div>生命的意义 只在乎一瞬间的绽放</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2685681)<br><br>2011-05-08 19:40<br>赞(0) 踩(0) | <div>you belong to me</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84230)<br>只身打马过草原<br>2011-02-16 19:16<br>赞(0) 踩(0) | <div>you belong to me.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2600084)<br><br>2011-02-13 02:24<br>赞(0) 踩(0) | <div>每当夜深人静的时候望着那灿烂的夜空我会感到那里充满了太多的梦想</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2600084)<br><br>2011-02-13 02:24<br>赞(0) 踩(0) | <div>每当夜深人静的时候<br>望着那灿烂的夜空<br>我会感到那里充满了<br>太多的梦想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/555971)<br><br>2011-01-03 19:33<br>赞(0) 踩(0) | <div>我勒个去。。同来膜拜这抄袭的神曲。。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1157611)<br>跳动的世界里找你的频率<br>2011-06-27 21:02<br>赞(0) 踩(0) | <div>You Belong to Me ？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987294)<br>暂无签名~<br>2010-12-13 21:38<br>赞(0) 踩(0) | <div>我勒个去。。特地来膜拜这抄袭的神曲。。。。</div> |

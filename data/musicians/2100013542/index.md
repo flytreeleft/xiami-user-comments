@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b654672fc40f200d878fc1ea1c43e0b9.jpg)<br>诸江](https://i.xiami.com/zhujiang) | **播放数**: 8716024<br>**粉丝数**: 359<br>**评论数**: 41<br>**地区**: China 中国大陆<br>**风格**: 现代古典 Modern Classical, 当代民谣 Contemporary Folk, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter, 京剧 Beijing Opera<br> |
+| [![](../../images/musicians/b654672fc40f200d878fc1ea1c43e0b9.jpg)<br>诸江](https://i.xiami.com/zhujiang) | **地区**: China 中国大陆<br>**风格**: 现代古典 Modern Classical, 当代民谣 Contemporary Folk, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter, 京剧 Beijing Opera<br>**播放数**: 8716024<br>**粉丝数**: 359<br>**评论数**: 41<br> |
 
 ## 档案
 
@@ -32,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443729511)<br><br>2020-06-30 21:40<br>赞(0) 踩(0) | <div>清沥悦耳的嗓音，好听</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428637829)<br><br>2020-09-11 14:11<br>赞(0) 踩(0) | <div>抄</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74639208)<br>Music is per...<br>2020-05-04 08:05<br>赞(0) 踩(0) | <div>帅哦</div> |

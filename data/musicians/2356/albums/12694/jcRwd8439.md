@@ -47,8 +47,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15311705)<br>普通人<br>2021-02-04 22:57<br>赞(0) 踩(0) | <div>从这里，和虾米说再见。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189777251)<br><br>2019-12-09 19:25<br>赞(0) 踩(0) | <div>最高的峰巅，这一句收尾真的赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333673449)<br><br>2019-07-20 10:04<br>赞(0) 踩(0) | <div>不要告别</div> |
@@ -76,7 +76,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6287898)<br>Love never f...<br>2015-05-01 20:04<br>赞(0) 踩(0) | <div>觉得好牛逼好屌哦哦哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3517236)<br>梦想是成为可爱又迷人的反<br>2014-07-22 00:02<br>赞(1) 踩(0) | <div>高旗亲自来一版嘛！来嘛来嘛！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16177017)<br><br>2014-07-03 05:12<br>赞(0) 踩(0) | <div>超载味道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3462615)<br>人生无非诗酒茶/ 公众号...<br>2014-02-18 14:56<br>赞(0) 踩(0) | <div>亲爱的不要哭 和你一样我对明天的恐惧来自对今天的厌倦笼罩我 保护我带我攀跃最高的峰巅也许天堂就在你抚摸的瞬间</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3462615)<br>人生无非诗酒茶/ 公众号...<br>2014-02-18 14:56<br>赞(0) 踩(0) | <div>亲爱的不要哭 和你一样<br>我对明天的恐惧<br>来自对今天的厌倦<br>笼罩我 保护我<br>带我攀跃最高的峰巅<br>也许天堂就在你抚摸的瞬间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1298083)<br>dont panic<br>2014-01-08 23:15<br>赞(0) 踩(0) | <div>哇，原来杨乃文和死胖子都已经是不惑了. 我中意中性美的女生啊...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486008)<br>我还没想好要写什么...<br>2013-12-29 02:50<br>赞(0) 踩(0) | <div>[泪]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9251652)<br><br>2013-09-25 23:19<br>赞(0) 踩(0) | <div>不要告别，不断告别。</div> |
@@ -88,7 +88,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3516744)<br> <br>2018-03-02 04:17<br>赞(0) 踩(0) | <div>多少年？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8700529)<br><br>2012-10-15 21:43<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11343)<br><br>2012-08-13 19:15<br>赞(0) 踩(0) | <div>记得这首是超载的歌儿，杨乃文的嗓音尝试出一种很特殊的味道。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8697077)<br><br>2012-05-21 22:15<br>赞(0) 踩(0) | <div>渴望开始这旅行从我眼睛到你的心灵我却已经无力前行亲爱的不要哭 和你一样我对明天的恐惧来自对今天的厌倦笼罩我 保护我带我攀跃最高的峰巅也许天堂就在你抚摸的瞬间告诉我 你爱我如同我们永恒的承诺可是所有快乐都在被折磨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8697077)<br><br>2012-05-21 22:15<br>赞(0) 踩(0) | <div>渴望开始这旅行<br>从我眼睛到你的心灵<br>我却已经无力前行<br>亲爱的不要哭 和你一样<br>我对明天的恐惧<br>来自对今天的厌倦<br>笼罩我 保护我<br>带我攀跃最高的峰巅<br>也许天堂就在你抚摸的瞬间<br>告诉我 你爱我<br>如同我们永恒的承诺<br>可是所有快乐都在被折磨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4042021)<br>自己的就是最好的<br>2012-05-02 23:04<br>赞(0) 踩(0) | <div>也许天堂就在你抚摸的瞬间----高旗，这句歌词太牛逼了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1883496)<br><br>2012-04-23 09:41<br>赞(0) 踩(0) | <div>刚看到一句诗“花发多风雨，人生足别离”。共勉之。PS. 早上听Faith真是太带感了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60395)<br>春种一粒粟<br>2012-04-17 14:23<br>赞(0) 踩(0) | <div>唱腔不是很完美，唱功不是很全面，可是那一句句，却敲击我心上。</div> |
@@ -101,7 +101,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3002888)<br> <br>2011-03-15 02:07<br>赞(0) 踩(0) | <div>杨乃文唱起来也有另一番味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20)<br>自由爱恨，只因荣幸<br>2010-10-18 11:40<br>赞(0) 踩(0) | <div>我好爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54727)<br> <br>2010-09-29 02:54<br>赞(0) 踩(0) | <div>在K房的时候会点来唱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/681392)<br><br>2010-08-28 20:20<br>赞(0) 踩(0) | <div>我对明天的恐惧来自对今天的厌倦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/681392)<br><br>2010-08-28 20:20<br>赞(0) 踩(0) | <div>我对明天的恐惧<br>来自对今天的厌倦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/681392)<br><br>2010-08-28 20:16<br>赞(0) 踩(0) | <div>很喜欢的歌手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8192)<br><br>2009-09-10 09:55<br>赞(0) 踩(0) | <div>爱上杨乃文</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6034)<br><br>2009-04-15 22:17<br>赞(0) 踩(0) | <div>翻唱高旗&amp;amp;超载乐队的经典作品</div> |

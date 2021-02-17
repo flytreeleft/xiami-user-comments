@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/89ed0895acbfc055653b66be620f856b.jpg)<br>苏栎](https://i.xiami.com/suyue) | **播放数**: 506979<br>**粉丝数**: 34<br>**评论数**: 3<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/89ed0895acbfc055653b66be620f856b.jpg)<br>苏栎](https://i.xiami.com/suyue) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 506979<br>**粉丝数**: 34<br>**评论数**: 3<br> |
 
 ## 档案
 
@@ -37,8 +37,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308501230)<br>铭哲<br>2020-07-13 01:28<br>赞(0) 踩(0) | <div>很舒服的男中音！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-04-27 03:10<br>赞(0) 踩(0) | <div>40829</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422425742)<br><br>2020-02-06 19:18<br>赞(0) 踩(0) | <div>特别的声音，很喜欢！</div> |

@@ -64,23 +64,23 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435227660)<br> <br>2020-09-08 00:04<br>赞(0) 踩(0) | <div>民谣好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435227660)<br> <br>2020-03-09 00:39<br>赞(1) 踩(0) | <div>狐狸精</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105220408)<br>中国 摇滚<br>2019-10-22 11:41<br>赞(1) 踩(0) | <div>动物管理局</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85556854)<br>你是你，而我是我<br>2019-06-23 21:29<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262486137)<br><br>2018-04-10 14:40<br>赞(1) 踩(0) | <div>现场嗨翻了 <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14265718)<br>wx:osakarock...<br>2017-11-12 17:50<br>赞(1) 踩(0) | <div>Coconut</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3340978)<br><br>2017-10-30 10:15<br>赞(1) 踩(0) | <div>都以为我很坏，都以为我不实在，都以为我的心里，没有一点爱。所以我变得很虚伪到处在找机会，谁要是爱上我，我就让谁倒霉 唉......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3340978)<br><br>2017-10-30 10:15<br>赞(1) 踩(0) | <div>都以为我很坏，都以为我不实在，都以为我的心里，没有一点爱。所以我变得很虚伪<br>到处在找机会，谁要是爱上我，我就让谁倒霉 唉......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8610752)<br><br>2017-10-30 10:14<br>赞(2) 踩(0) | <div>同样身为犬科动物，狗成了又二又呆的代言人，狐狸成了聪明奸猾的代言人。因为大家把狐狸画得又萌又聪明，现在对漂亮的鬼狐狸好感大增，连一肚子的小坏水都显得很可爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2050162)<br>彼岸<br>2017-10-28 00:31<br>赞(1) 踩(0) | <div>于是又听了这首歌...突然想起大学晚自习偷着乐的情境</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88455076)<br><br>2017-10-28 00:04<br>赞(1) 踩(0) | <div>最近好喜欢听民谣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44680234)<br>一切都是浮云<br>2017-10-27 23:54<br>赞(2) 踩(0) | <div>个人认为纪海星是卖弄、炫技，没有用心完成一首作品。。他的走的路线就不对。虽然原版有呼麦，他唱了，后面得金属唱法（刘欢所谓得黑嗓）就是个败笔。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51830251)<br> <br>2017-10-27 23:52<br>赞(3) 踩(0) | <div>最平凡的最美丽，看他的经历，长期的压抑生活中创造出的作品，会使还在处于压抑的人们产生共鸣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50362278)<br>和平年代已没有英雄~<br>2017-10-27 23:45<br>赞(2) 踩(0) | <div>这歌儿简直太棒~跟别的民谣大不一样！独领风骚~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15493970)<br>留不下的别牵挂。<br>2017-10-27 23:25<br>赞(1) 踩(0) | <div>都以为我很坏都以为我不实在都以为我的心里没有一点爱所以我变得很虚伪到处在找机会谁要是爱上我我就让谁倒霉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3498348)<br><br>2017-10-27 23:09<br>赞(1) 踩(0) | <div>我是一只狐狸我住在森林里我的对手太愚蠢我谁也看不起人们都只看到我长得很美丽他们都不知道我的心也是善良的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15493970)<br>留不下的别牵挂。<br>2017-10-27 23:25<br>赞(1) 踩(0) | <div>都以为我很坏<br>都以为我不实在<br>都以为我的心里<br>没有一点爱<br>所以我变得很虚伪<br>到处在找机会<br>谁要是爱上我<br>我就让谁倒霉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3498348)<br><br>2017-10-27 23:09<br>赞(1) 踩(0) | <div>我是一只狐狸<br>我住在森林里<br>我的对手太愚蠢<br>我谁也看不起<br><br>人们都只看到<br>我长得很美丽<br>他们都不知道<br>我的心也是善良的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11346925)<br><br>2017-10-27 23:08<br>赞(2) 踩(0) | <div>哈哈哈这愤骚劲儿~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257907594)<br><br>2017-08-01 15:26<br>赞(1) 踩(0) | <div>声音婉转 押韵 喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208252707)<br><br>2016-10-30 23:41<br>赞(1) 踩(0) | <div>不能下载 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
@@ -112,7 +112,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10411426)<br> <br>2016-03-27 21:14<br>赞(4) 踩(0) | <div>我老婆问我现在的音乐品位怎么成了这样 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11646671)<br>为听音乐而生<br>2016-03-27 14:49<br>赞(0) 踩(0) | <div>这么叼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49628913)<br>帅逼 大忽悠<br>2016-03-23 19:21<br>赞(0) 踩(0) | <div>k歌必唱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48815465)<br> <br>2016-03-23 19:13<br>赞(1) 踩(0) | <div>人们都只看到我长得很美丽他们都不知道我的心也是善良的都以为我很坏都以为我不实在都以为我的心里没有一点爱所以我变得很虚伪到处在找机会谁要是爱上我我就让谁倒霉各嘿嘿唉…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48815465)<br> <br>2016-03-23 19:13<br>赞(1) 踩(0) | <div>人们都只看到<br>我长得很美丽<br>他们都不知道<br>我的心也是善良的<br>都以为我很坏<br>都以为我不实在<br>都以为我的心里<br>没有一点爱<br>所以我变得很虚伪<br>到处在找机会<br>谁要是爱上我<br>我就让谁倒霉<br>各嘿嘿唉…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54771644)<br> <br>2016-03-18 17:46<br>赞(11) 踩(0) | <div>說真的看瘋狂動物城的時候一直在想這首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29410943)<br><br>2016-03-17 14:16<br>赞(0) 踩(0) | <div>今天听到的、好喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9223904)<br>给我一片荒地<br>2016-03-14 23:30<br>赞(5) 踩(0) | <div>为啥看完疯狂动物城，脑子里就一直充斥着这首歌？</div> |
@@ -230,7 +230,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23985609)<br> <br>2015-06-03 00:36<br>赞(0) 踩(0) | <div>有点儿意思（说好的不做歌词狗呢…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4145053)<br>喜欢画画，不务正业。<br>2015-05-28 20:54<br>赞(1) 踩(0) | <div>我也想变成一只狐狸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10237818)<br><br>2015-05-26 14:10<br>赞(0) 踩(0) | <div>。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1296817)<br>我还没想好要写什么...<br>2015-05-25 17:05<br>赞(4) 踩(0) | <div>“突然有天我发现一个东西真可怜他在到处做宣传人们都被他欺骗”联想到政治了……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1296817)<br>我还没想好要写什么...<br>2015-05-25 17:05<br>赞(4) 踩(0) | <div>“突然有天我发现<br>一个东西真可怜<br>他在到处做宣传<br>人们都被他欺骗”<br>联想到政治了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21237771)<br><br>2015-05-24 22:54<br>赞(0) 踩(0) | <div>我去，牛掰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47405071)<br>等你清楚看见我的美<br>2015-05-20 09:30<br>赞(0) 踩(0) | <div>MORNING</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496535)<br><br>2015-05-19 14:11<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈哈哈哈！我怎么这么开心！！</div> |
@@ -271,7 +271,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47782313)<br><br>2015-04-01 12:14<br>赞(0) 踩(0) | <div>bobdylan</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48628377)<br>先有若风后有天<br>2015-03-31 18:20<br>赞(0) 踩(0) | <div>我是一只狐狸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41162892)<br>听听回忆的声音<br>2015-03-30 00:02<br>赞(0) 踩(0) | <div>歌词真毒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31724887)<br><br>2015-03-29 21:47<br>赞(0) 踩(0) | <div>都以为我很坏都以为我不实在都以为我的心里没有一点爱所以我变得很虚伪到处在找机会谁要是爱上我我就让谁倒霉唉......   hahahha</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31724887)<br><br>2015-03-29 21:47<br>赞(0) 踩(0) | <div>都以为我很坏<br>都以为我不实在<br>都以为我的心里<br>没有一点爱<br><br>所以我变得很虚伪<br>到处在找机会<br>谁要是爱上我<br>我就让谁倒霉<br>唉......   hahahha</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5602245)<br> <br>2015-03-29 11:21<br>赞(0) 踩(0) | <div>歌词绝了 寓言一首 听着人汗毛直竖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13929253)<br>Stargazer , ...<br>2015-03-28 21:25<br>赞(0) 踩(0) | <div>谁能告诉我这像哪里方言？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1940847)<br>嘘であり、悪である。<br>2015-03-29 16:11<br>赞(0) 踩(0) | <div>山东？....</div> |
@@ -289,7 +289,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47055916)<br>嘿嘿！你是煞笔！<br>2015-03-18 22:24<br>赞(0) 踩(0) | <div>简直了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47564488)<br><br>2015-03-18 17:29<br>赞(0) 踩(0) | <div>这首我愿意单曲循环366天~人们总会因为差异而表现出各种丑态</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2857420)<br>昨天晚上我梦见你<br>2015-03-18 00:26<br>赞(0) 踩(0) | <div>爽</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30179669)<br>暂无签名~<br>2015-03-16 19:12<br>赞(3) 踩(0) | <div>Smells Like Teen Spirit真的很像</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30179669)<br>暂无签名~<br>2015-03-16 19:12<br>赞(3) 踩(0) | <div>Smells Like Teen Spirit<br>真的很像</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17291702)<br>I tremble.<br>2015-03-31 08:38<br>赞(0) 踩(0) | <div>前奏像加一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1663551)<br>我还没想好要写什么...<br>2015-03-15 22:25<br>赞(0) 踩(0) | <div>有味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14281675)<br><br>2015-03-15 16:33<br>赞(0) 踩(0) | <div>性感的声音，sexy。</div> |
@@ -334,7 +334,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19462503)<br>内部装修中……<br>2016-08-23 20:32<br>赞(0) 踩(0) | <div><q><b>Coldplayer说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297204252)<br>Yes.It.Is ! ...<br>2017-07-24 21:33<br>赞(0) 踩(0) | <div>周JL确实是就是个.SB!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36347702)<br><br>2014-12-28 22:42<br>赞(0) 踩(0) | <div>盒子？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14449962)<br><br>2014-12-25 21:36<br>赞(0) 踩(0) | <div>都以为我很坏都以为我不实在都以为我的心里没有一点爱所以我变得很虚伪到处在找机会谁要是爱上我我就让谁倒霉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14449962)<br><br>2014-12-25 21:36<br>赞(0) 踩(0) | <div>都以为我很坏<br>都以为我不实在<br>都以为我的心里<br>没有一点爱<br>所以我变得很虚伪<br>到处在找机会<br>谁要是爱上我<br>我就让谁倒霉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14820365)<br> <br>2014-12-19 21:05<br>赞(0) 踩(0) | <div>北京草莓时听宋胖胖唱的很有感！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40544862)<br>废人们都在忙什么？<br>2015-06-07 23:03<br>赞(0) 踩(0) | <div>此刻我很瘦，穿着海魂衫，头发很长，脸也很长～</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26680075)<br>亲爱的自己，请开心<br>2015-06-29 15:12<br>赞(0) 踩(0) | <div><q><b>大钟说：</b></q></div> |
@@ -365,7 +365,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38969866)<br>...<br>2014-10-10 00:39<br>赞(0) 踩(0) | <div>留名，爽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15280134)<br>少女<br>2014-10-07 15:43<br>赞(0) 踩(0) | <div>也不是不喜欢你 只是有点看不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20235322)<br><br>2014-10-01 00:09<br>赞(0) 踩(0) | <div>好一个万晓利！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11658482)<br> <br>2014-09-23 14:02<br>赞(0) 踩(0) | <div>我终于醒悟了这个世界早已改变了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11658482)<br> <br>2014-09-23 14:02<br>赞(0) 踩(0) | <div>我终于醒悟了<br>这个世界早已改变了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2843004)<br>转烛飘蓬一梦归<br>2014-09-20 11:44<br>赞(0) 踩(0) | <div>美丽的人。美丽的狐狸。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22578403)<br>享受孤独<br>2014-09-07 14:28<br>赞(0) 踩(0) | <div>我夹着尾巴逃跑了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13156187)<br>One day, you...<br>2014-09-07 09:12<br>赞(0) 踩(0) | <div>听这首 想起我每次哼唧这歌 花姐就一脸鄙夷 &amp;quot;土鳖 赶紧夹着尾巴逃走吧你&amp;quot; 她怎么这么俗不可耐？！→_→</div> |
@@ -383,7 +383,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8946950)<br>灌不饱的耳朵<br>2014-08-13 09:37<br>赞(1) 踩(0) | <div>我造你逃跑惹，不会有人追你的！！！快给我滚！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/907859)<br>说出来就不灵了<br>2014-08-08 08:22<br>赞(0) 踩(0) | <div>夹着尾巴逃跑啦无限循环。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7462136)<br><br>2014-08-07 00:52<br>赞(0) 踩(0) | <div>走</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7462136)<br><br>2014-08-07 00:37<br>赞(0) 踩(0) | <div>狐狸－万晓利（专辑《走过来，走过去》）偶然在草莓音乐节听到宋冬野唱了这首歌，配上吉他，好听到不行。琢磨琢磨歌词，写着现实状态的童话故事。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7462136)<br><br>2014-08-07 00:37<br>赞(0) 踩(0) | <div>狐狸－万晓利（专辑《走过来，走过去》）<br>偶然在草莓音乐节听到宋冬野唱了这首歌，配上吉他，好听到不行。琢磨琢磨歌词，写着现实状态的童话故事。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7462136)<br><br>2014-08-20 10:11<br>赞(0) 踩(0) | <div><q><b>斯嘉唐说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7462136)<br><br>2014-08-21 16:55<br>赞(0) 踩(0) | <div><q><b>斯嘉唐说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13704729)<br>hey<br>2014-08-21 22:35<br>赞(0) 踩(0) | <div><q><b>guimu730说：</b></q></div> |
@@ -426,7 +426,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2159175)<br><br>2014-03-23 18:04<br>赞(0) 踩(0) | <div>听着就好玩~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3791719)<br><br>2014-03-20 15:49<br>赞(0) 踩(0) | <div>哈哈哈“唉……”的好销魂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8243401)<br><br>2014-03-20 11:05<br>赞(0) 踩(0) | <div>兔子扬言要玩我 我夹着尾巴逃跑了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10850905)<br>音乐是为了更好的活着！<br>2014-03-19 17:51<br>赞(0) 踩(0) | <div>我终于醒悟了 这个世界早已改变了现在不是从前了 兔子比狐狸狡猾了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10850905)<br>音乐是为了更好的活着！<br>2014-03-19 17:51<br>赞(0) 踩(0) | <div>我终于醒悟了 这个世界早已改变了<br>现在不是从前了 兔子比狐狸狡猾了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2859595)<br>我跟你描述一个灵魂，他拥...<br>2014-03-14 00:11<br>赞(0) 踩(0) | <div>听惯了《陀螺》，真有点受不了这个风格www</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446534)<br>年和月都太类似<br>2017-10-27 23:04<br>赞(0) 踩(0) | <div>对啊简直要疯啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24822280)<br><br>2014-03-13 04:47<br>赞(0) 踩(0) | <div>很有个性，也很低调的人。喜欢！</div> |
@@ -467,7 +467,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9934794)<br> <br>2013-11-30 21:56<br>赞(1) 踩(0) | <div>有点效仿涅槃的《polly》</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/616538)<br><br>2013-12-04 22:02<br>赞(0) 踩(0) | <div>你不说还真没注意到：）</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9934794)<br> <br>2013-12-04 23:31<br>赞(0) 踩(0) | <div><q><b>高草说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1407718)<br>重度间歇性情绪低落患者<br>2013-11-30 20:45<br>赞(0) 踩(0) | <div>日子过了多少天一切还是没改变我不停的在修炼很快就要变成仙</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1407718)<br>重度间歇性情绪低落患者<br>2013-11-30 20:45<br>赞(0) 踩(0) | <div>日子过了多少天<br>一切还是没改变<br>我不停的在修炼<br>很快就要变成仙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271166)<br>punk<br>2013-11-28 22:43<br>赞(0) 踩(0) | <div>我擦 还有呼麦啊 牛逼爆了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29)<br>耍中偶得<br>2013-11-27 00:09<br>赞(0) 踩(0) | <div>新版不会用了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12221749)<br>撕开音乐用心聆听<br>2013-11-26 10:52<br>赞(0) 踩(0) | <div>我决定逃跑了，但不要夹着尾巴这样跑起来太慢。</div> |
@@ -478,7 +478,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267797)<br>nomind.cn<br>2013-11-11 20:15<br>赞(0) 踩(0) | <div>@白面小狐狸 默默的转发...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9172229)<br><br>2013-11-02 02:02<br>赞(0) 踩(0) | <div>最后还是忍不住笑了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9299276)<br> <br>2013-10-29 15:59<br>赞(0) 踩(0) | <div>改不出方案只能土摇治愈。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15825441)<br> <br>2013-10-25 17:29<br>赞(0) 踩(0) | <div>我的对手太愚蠢我谁也看不起</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15825441)<br> <br>2013-10-25 17:29<br>赞(0) 踩(0) | <div>我的对手太愚蠢<br>我谁也看不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8975334)<br>这世界颠倒着<br>2013-10-16 13:34<br>赞(0) 踩(0) | <div>现在不是从前了，森林里没有童话了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/579190)<br><br>2013-10-16 11:27<br>赞(0) 踩(0) | <div>我夹着尾巴逃跑了~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442451)<br>FOOLIST<br>2013-10-14 16:37<br>赞(0) 踩(0) | <div>这世界没童话了</div> |
@@ -491,7 +491,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9258331)<br><br>2013-09-15 11:25<br>赞(0) 踩(0) | <div>.....日子过了多少天，一切还是没改变。我不停的在修炼，很快就要变成仙。突然有天我发现，一个东西真可怜。他在到处做宣传，人们都被他欺骗......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3448138)<br><br>2013-09-12 15:43<br>赞(0) 踩(0) | <div>太欢乐了！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8326643)<br>听歌识人<br>2013-09-12 09:44<br>赞(0) 踩(0) | <div>可找到这个歌儿啦~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11556491)<br>(/ω＼)<br>2013-09-07 02:02<br>赞(0) 踩(0) | <div>大白薯~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11556491)<br>(/ω＼)<br>2013-09-07 02:02<br>赞(0) 踩(0) | <div>大白薯~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18010155)<br><br>2013-09-05 00:05<br>赞(0) 踩(0) | <div>啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17326367)<br>爱就是极快速的能量振动<br>2013-09-03 22:15<br>赞(0) 踩(0) | <div>你是在侮辱所有诗人  别的不说  没有一点意蕴   如果你是在娱乐 在追妹妹  就当我没说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1388196)<br>为何在雨伞外独行<br>2013-09-03 12:43<br>赞(1) 踩(0) | <div>虽然纪海星的唱法非常多样化，甚至金属唱腔都出来了，但还是原唱好。</div> |
@@ -589,7 +589,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5785442)<br><br>2013-07-26 21:14<br>赞(0) 踩(0) | <div>经典啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7594216)<br>不想起床<br>2013-07-21 09:16<br>赞(0) 踩(0) | <div>爱爱爱！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11217901)<br>我们终将往何处去<br>2013-07-19 13:46<br>赞(0) 踩(0) | <div>不感喜的喜感</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6487881)<br><br>2013-07-18 00:36<br>赞(0) 踩(0) | <div>“我是一只狐狸我住在森林里我的对手太愚蠢我谁也看不起人们都只看到我长得很美丽他们都不知道我的心也是善良的都以为我很坏都以为我不实在都以为我的心里没有一点爱所以我变得很虚伪到处在找机会谁要是爱上我我就让谁倒霉”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6487881)<br><br>2013-07-18 00:36<br>赞(0) 踩(0) | <div>“我是一只狐狸<br>我住在森林里<br>我的对手太愚蠢<br>我谁也看不起<br>人们都只看到<br>我长得很美丽<br>他们都不知道<br>我的心也是善良的<br>都以为我很坏<br>都以为我不实在<br>都以为我的心里<br>没有一点爱<br>所以我变得很虚伪<br>到处在找机会<br>谁要是爱上我<br>我就让谁倒霉”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14053638)<br><br>2013-07-18 00:18<br>赞(0) 踩(0) | <div>睡前来一曲，睡不着了。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3563219)<br><br>2013-07-17 20:59<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈哈哈哈哈哈！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11978704)<br>Rick<br>2013-07-16 17:46<br>赞(0) 踩(0) | <div>民谣音乐着实不易，除了现在左立唱红的宋冬野的董小姐，赵雷的南方小姐。 -----------------------还可以去听听- 万晓利的狐狸，花粥的老中医，李志的梵高先生，万能青年旅馆的杀死那个石家庄人， 只是当民谣成为名谣，以后到底还会不会能不能有这种如此纯粹通俗的民谣音乐呢？。</div> |
@@ -616,7 +616,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15807779)<br>听着静脉里血的流淌<br>2013-06-06 16:59<br>赞(0) 踩(0) | <div>讽刺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14366293)<br><br>2013-06-05 10:04<br>赞(0) 踩(0) | <div>可爱爆了啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8152836)<br><br>2013-05-29 16:14<br>赞(0) 踩(0) | <div>#《狐狸》-- 万晓利# 倦意全无，小宇宙再次燃烧，走起！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9104756)<br>我愿做你庄园里的一个酒鬼<br>2013-05-26 19:42<br>赞(0) 踩(0) | <div>我的对手太愚蠢我谁也看不起</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9104756)<br>我愿做你庄园里的一个酒鬼<br>2013-05-26 19:42<br>赞(0) 踩(0) | <div>我的对手太愚蠢<br>我谁也看不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2541762)<br><br>2013-05-25 14:45<br>赞(0) 踩(0) | <div>很有特点的调调和歌词啊，啊哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1349940)<br><br>2013-05-25 13:30<br>赞(0) 踩(0) | <div>兔子扬言要玩我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1692132)<br><br>2013-05-24 17:08<br>赞(0) 踩(0) | <div>万晓利因其独特的唱腔被观众评为颠覆民谣的歌手。1971-【大陆民谣】</div> |
@@ -626,12 +626,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311044)<br>白天看廟，晚上睡覺。<br>2013-04-16 15:00<br>赞(0) 踩(0) | <div>好萌的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7610476)<br><br>2013-04-14 14:04<br>赞(0) 踩(0) | <div>live版本的啊，民谣啊，有趣极了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5497170)<br><br>2013-04-03 18:41<br>赞(0) 踩(0) | <div>哎……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/463812)<br><br>2013-03-31 22:30<br>赞(0) 踩(0) | <div>最喜欢这版本了`嘿嘿~我最善良</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/463812)<br><br>2013-03-31 22:30<br>赞(0) 踩(0) | <div>最喜欢这版本了`嘿嘿~<br>我最善良</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12153693)<br><br>2013-03-28 19:47<br>赞(0) 踩(0) | <div>兔子比狐狸狡猾啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9402801)<br>来自宇宙深处的傻逼<br>2013-03-25 07:21<br>赞(0) 踩(0) | <div>早上好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10561758)<br><br>2013-03-24 13:56<br>赞(0) 踩(0) | <div>兔子比狐狸狡猾了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409256)<br><br>2013-03-15 19:18<br>赞(0) 踩(0) | <div>春天到了，过于浮躁。这样不好，这样不好。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/870024)<br><br>2013-03-13 17:22<br>赞(0) 踩(0) | <div>他在到处做宣传人们都被他欺骗唉......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/870024)<br><br>2013-03-13 17:22<br>赞(0) 踩(0) | <div>他在到处做宣传<br>人们都被他欺骗<br>唉......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/870024)<br><br>2013-03-12 21:55<br>赞(0) 踩(0) | <div>豪勇七蛟龙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1644712)<br><br>2013-02-10 14:54<br>赞(0) 踩(0) | <div>#我的格莱美# 年度最佳单曲！不是2012年的新歌，但是听到了就放不下一直循环！虾米上是现场版，所以在vocal和吉他的处理上与录音版有点不一样。歌词为王！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3756828)<br><br>2013-02-08 22:36<br>赞(0) 踩(0) | <div>明年我娶你！</div> |
@@ -644,7 +644,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12420115)<br>我竟悲伤的不能自己<br>2013-01-21 14:07<br>赞(0) 踩(0) | <div>我终于醒悟了 这个森林里没有童话了 兔子扬言要玩我 我夹着尾巴逃跑了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6496459)<br><br>2013-01-18 14:54<br>赞(0) 踩(0) | <div>么么哒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361)<br>我还没想好要写什么...<br>2013-01-18 02:54<br>赞(0) 踩(0) | <div>谁要是爱上我，我就让谁倒霉。刚上大学时听的歌，十八九岁时的状态。哈哈哈哈哈哈，真，活，回，去，了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2766999)<br><br>2013-01-17 21:18<br>赞(0) 踩(0) | <div>我终于醒悟了这个世界早已改变了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2766999)<br><br>2013-01-17 21:18<br>赞(0) 踩(0) | <div>我终于醒悟了<br>这个世界早已改变了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9442330)<br> <br>2013-01-17 15:04<br>赞(0) 踩(0) | <div>欢乐之歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9428706)<br>豆瓣小站:滋酥yo<br>2013-01-15 14:58<br>赞(0) 踩(0) | <div>@如果逃跑  听到就想到你了哎嘿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8127758)<br><br>2012-12-29 23:33<br>赞(0) 踩(0) | <div>有意思。</div> |
@@ -666,7 +666,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6901284)<br>错的不是我，是世界<br>2012-10-08 13:50<br>赞(0) 踩(0) | <div>兔子比狐狸狡猾了兔子比狐狸狡猾了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9830459)<br><br>2012-09-28 23:31<br>赞(0) 踩(0) | <div>循环 得瑟 睡觉！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2800930)<br>我还没想好要写什么...<br>2012-09-27 12:33<br>赞(0) 踩(0) | <div>这个版本，也挺好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40527)<br>诸多借口,你根本就不想<br>2012-09-26 23:13<br>赞(0) 踩(0) | <div>A love toFox</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40527)<br>诸多借口,你根本就不想<br>2012-09-26 23:13<br>赞(0) 踩(0) | <div>A love to<br>Fox</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7106777)<br><br>2012-09-26 10:52<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6607338)<br><br>2012-09-24 22:17<br>赞(0) 踩(0) | <div>@挂如冬菜 被你说中了，是我的频道，我要开始被洗脑了↘↖↓↑↓↑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2434091)<br><br>2012-09-21 12:12<br>赞(0) 踩(0) | <div>万晓利是东北银~？@陶喵喵</div> |
@@ -685,7 +685,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5774695)<br><br>2012-07-30 00:27<br>赞(0) 踩(0) | <div>好吧，很好！谁要是爱上我，我就让谁倒霉！狐狸！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8188299)<br> <br>2012-07-22 23:27<br>赞(0) 踩(0) | <div>我终于醒悟了 森林里没有童话了 兔子比狐狸狡猾了 我夹着尾巴逃跑了 河北的看爷们儿 唱歌儿时候还有点儿我老家的味儿呢哈哈~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6078818)<br>音樂是解藥<br>2012-07-12 20:59<br>赞(0) 踩(0) | <div>你这样一只狐狸</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7558968)<br><br>2012-07-12 19:48<br>赞(0) 踩(0) | <div>这个世界早已改变了现在不是从前了兔子比狐狸狡猾了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7558968)<br><br>2012-07-12 19:48<br>赞(0) 踩(0) | <div>这个世界早已改变了<br>现在不是从前了<br>兔子比狐狸狡猾了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4192173)<br><br>2012-07-09 13:06<br>赞(0) 踩(0) | <div>兔子和狐狸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2445118)<br>这个世界需要音乐！我的生...<br>2012-07-09 11:09<br>赞(0) 踩(0) | <div>很喜欢这首！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8960515)<br>不听音乐就屎星人<br>2012-07-08 21:57<br>赞(0) 踩(0) | <div>朗朗上口呀</div> |
@@ -709,7 +709,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7565102)<br>silence<br>2012-04-22 21:07<br>赞(0) 踩(0) | <div>好喜欢这歌 我夹着尾巴逃跑啦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8871456)<br><br>2012-04-20 09:00<br>赞(0) 踩(0) | <div>早安起床</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5699495)<br> <br>2012-04-18 00:03<br>赞(0) 踩(0) | <div>他翻唱的《女儿情》也不错，可惜找不到...悄悄问圣僧~女儿美不美~女儿美不美~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5953181)<br>然而并没有什么好说<br>2012-04-15 19:47<br>赞(0) 踩(0) | <div>尼玛真心好听。。。兔子扬言要玩我我夹着尾巴逃跑了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5953181)<br>然而并没有什么好说<br>2012-04-15 19:47<br>赞(0) 踩(0) | <div>尼玛真心好听。。。兔子扬言要玩我<br>我夹着尾巴逃跑了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8258379)<br>远在远方的风比远方更远<br>2012-04-10 18:01<br>赞(0) 踩(0) | <div>逃跑了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3996468)<br><br>2012-04-05 02:14<br>赞(0) 踩(0) | <div>我爱他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2742924)<br><br>2012-03-26 20:52<br>赞(0) 踩(0) | <div>献给所有装x的兔子</div> |
@@ -722,7 +722,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5574986)<br><br>2012-01-16 22:01<br>赞(0) 踩(0) | <div>詞很逗趣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7326159)<br><br>2012-01-15 07:46<br>赞(0) 踩(0) | <div>狐狸说：森里里已经没有童话了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4180242)<br>我还没想好要写什么...<br>2011-12-29 17:24<br>赞(0) 踩(0) | <div>兔子比狐狸狡猾啦~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6126534)<br><br>2011-12-07 16:17<br>赞(0) 踩(0) | <div>我是一只狐狸我住在森林里我的对手太愚蠢我谁也看不起人们都只看到我长得很美丽他们都不知道我的心也是善良的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6126534)<br><br>2011-12-07 16:17<br>赞(0) 踩(0) | <div>我是一只狐狸<br>我住在森林里<br>我的对手太愚蠢<br>我谁也看不起<br><br>人们都只看到<br>我长得很美丽<br>他们都不知道<br>我的心也是善良的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2851792)<br><br>2011-11-12 16:37<br>赞(0) 踩(0) | <div>兔子扬言要玩我，我夹着尾巴逃跑了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4143679)<br>我还没想好要写什么...<br>2011-11-04 20:11<br>赞(0) 踩(0) | <div>我终于醒悟了，这世界不是从前了，兔子比狐狸狡猾了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/895046)<br><br>2011-10-31 10:16<br>赞(0) 踩(0) | <div>我们每一个人其实原本都是狐狸，我已经夹着尾巴逃跑了……</div> |
@@ -757,7 +757,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200119)<br><br>2011-05-25 12:53<br>赞(0) 踩(0) | <div>骚死个人啦！！！！！！！！1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3961635)<br><br>2011-05-19 18:33<br>赞(0) 踩(0) | <div>有风格</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1085408)<br><br>2011-05-18 11:42<br>赞(0) 踩(0) | <div>这首万总唱HIGH掉了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3425353)<br><br>2011-05-17 23:32<br>赞(0) 踩(0) | <div>路过我看见兔子  就  夹着尾巴逃跑了~~~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3425353)<br><br>2011-05-17 23:32<br>赞(0) 踩(0) | <div>路过<br><br>我看见兔子  就  夹着尾巴逃跑了~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2011-05-13 00:19<br>赞(0) 踩(0) | <div>骚到骨子里~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3581150)<br><br>2011-05-01 14:22<br>赞(0) 踩(0) | <div>gdkjth</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2677335)<br><br>2011-04-26 22:34<br>赞(0) 踩(0) | <div>很有感觉</div> |
@@ -768,7 +768,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/398188)<br><br>2011-03-10 10:51<br>赞(0) 踩(0) | <div>我夹着尾巴逃跑了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2872781)<br><br>2011-02-23 16:21<br>赞(0) 踩(0) | <div>好听 在听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280068)<br>特别喜欢大型群居动物<br>2011-02-22 18:01<br>赞(0) 踩(0) | <div>好样的！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2276166)<br><br>2011-02-17 11:46<br>赞(0) 踩(0) | <div>coolMV：<a href="http://www.qiyi.com/yinyue/20100709/n23744.html" target="_blank" rel="nofollow noreferrer noopener">http://www.qiyi.com/yinyue/20100709/n23744.html</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2276166)<br><br>2011-02-17 11:46<br>赞(0) 踩(0) | <div>cool<br>MV：<br><a href="http://www.qiyi.com/yinyue/20100709/n23744.html" target="_blank" rel="nofollow noreferrer noopener">http://www.qiyi.com/yinyue/20100709/n23744.html</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2616342)<br><br>2011-02-08 11:01<br>赞(0) 踩(0) | <div>我夹着尾巴逃跑了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1943692)<br>roll<br>2011-02-06 19:50<br>赞(0) 踩(0) | <div>so cool</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2532056)<br>为谁迷醉  烟云颓废<br>2011-01-18 15:47<br>赞(0) 踩(0) | <div>很现实</div> |
@@ -793,5 +793,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3096)<br>幸福在哪里幸福在哪里<br>2009-03-05 19:40<br>赞(0) 踩(0) | <div>自己听吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53945)<br><br>2009-02-18 14:36<br>赞(0) 踩(0) | <div>真的很有趣，很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35404)<br><br>2009-02-12 14:04<br>赞(0) 踩(0) | <div>哈哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23273)<br><br>2008-12-29 22:35<br>赞(0) 踩(0) | <div>借CD来听。播放起来，第一首歌就是这首。被他可爱的唱腔打败了。也许，嘶嘶，再带点沙哑的声音不能用可爱来形容……可是第一感觉如此。歌词写得很黑色幽默。如此的喜欢~如此如此……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23273)<br><br>2008-12-29 22:35<br>赞(0) 踩(0) | <div>借CD来听。播放起来，第一首歌就是这首。<br>被他可爱的唱腔打败了。<br>也许，嘶嘶，再带点沙哑的声音不能用可爱来形容……<br>可是第一感觉如此。<br>歌词写得很黑色幽默。<br>如此的喜欢~<br>如此如此……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29)<br>耍中偶得<br>2008-11-23 19:15<br>赞(0) 踩(0) | <div>兔子比狐狸狡猾啦</div> |

@@ -86,8 +86,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440043157)<br><br>2020-03-05 23:22<br>赞(0) 踩(0) | <div>我连自己生日都不记得，也更没人记得我生日，因为我妈都不记的了，反正资料也是需要时写上去的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430467402)<br><br>2020-03-05 21:55<br>赞(1) 踩(0) | <div>好听！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239486549)<br>黑夜给了我黑色的眼睛我却...<br>2020-03-02 21:44<br>赞(3) 踩(0) | <div>日常冒泡支持日常</div> |
@@ -95,7 +95,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424484401)<br><br>2019-11-20 22:36<br>赞(3) 踩(0) | <div>我生日才过，你忘了叭？好像也没事，你有其他好朋友了，看着你们很开心，我也很开心。只是下次有事来找我能就一个人吗，别带上他，我好像会嫉妒……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3691552)<br>最好不想见<br>2019-11-19 23:46<br>赞(1) 踩(0) | <div>康，还有几分钟我的生日就要过了，今年你忘记了和我说生日快乐，可是我又有什么权利去要求你每年都记着呢……时间带走的是岁月和情谊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297951316)<br>你不妨大胆一些，爱一个人...<br>2019-11-14 06:48<br>赞(1) 踩(0) | <div>祝我的好朋友们日进斗金，长命百岁 <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407751428)<br>live in the ...<br>2019-11-01 12:36<br>赞(1) 踩(0) | <div>这歌唱的心疼。单纯是唱这首歌人的情愫引起的我没有最好的朋友</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407751428)<br>live in the ...<br>2019-11-01 12:36<br>赞(1) 踩(0) | <div>这歌唱的心疼。<br>单纯是唱这首歌人的情愫引起的<br>我没有最好的朋友</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23777495)<br>奔跑的五花肉<br>2019-09-13 21:41<br>赞(0) 踩(0) | <div>这首歌出现的真应景，时间带走的不只是岁月，还有友情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378878262)<br>音乐代表了我的心情<br>2019-08-10 16:50<br>赞(2) 踩(0) | <div>只要真朋友不要好朋友</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2127206)<br>冬雪小公主<br>2019-05-26 07:37<br>赞(1) 踩(0) | <div>即使最好的朋友，分别生活在不同的空间里，共同的话语少了，即使关系仍旧要好，可是感觉上也还是会变的。</div> |
@@ -140,7 +140,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/148708198)<br><br>2016-04-23 19:30<br>赞(0) 踩(0) | <div>you are my best frd</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/148708198)<br><br>2016-04-23 19:25<br>赞(0) 踩(0) | <div>you are my best frd</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85302658)<br>可以重来的东西不多。<br>2016-04-08 00:39<br>赞(0) 踩(0) | <div>听哭了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2016-03-10 13:37<br>赞(43) 踩(0) | <div>时间带走的比想象中还多似乎能做最好的朋友，多多少少都是带着爱，时间带走的，是不能弥补的那种失落，再见面，我宁愿你什么都问，就可以聊以后，不问这么多年我怎么过来的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2016-03-10 13:37<br>赞(43) 踩(0) | <div>时间带走的比想象中还多<br><br>似乎能做最好的朋友，多多少少都是带着爱，时间带走的，是不能弥补的那种失落，再见面，我宁愿你什么都问，就可以聊以后，不问这么多年我怎么过来的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113629162)<br><br>2016-02-13 19:41<br>赞(0) 踩(0) | <div>这是心的历程和寂寞的独白</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12109384)<br><br>2016-01-06 15:03<br>赞(0) 踩(0) | <div>如果花开了 就感激 如果心开了 就回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15255511)<br><br>2016-01-04 16:25<br>赞(3) 踩(0) | <div>“年少相知的人，即使过一辈子也无法忘怀。“可是我们谁都没过一辈子哇。</div> |
@@ -166,7 +166,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8589977)<br><br>2013-04-24 22:22<br>赞(0) 踩(0) | <div>时间带走的比想象中还多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8047078)<br>陪着你你都不会知<br>2013-02-22 02:07<br>赞(0) 踩(0) | <div>你的生日 却忘了我~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/719995)<br>事出有音<br>2013-02-08 12:35<br>赞(0) 踩(0) | <div>还是信任用户编辑的歌词，词曲都写反了 @虾小编</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1548545)<br><br>2012-08-12 15:28<br>赞(1) 踩(0) | <div>我再也不是你最好的朋友，分开以后默默一人往前走，有你的感动我都记得啊，为什么那个最好的人却只能经过。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1548545)<br><br>2012-08-12 15:28<br>赞(1) 踩(0) | <div>我再也不是你最好的朋友，<br>分开以后默默一人往前走，<br>有你的感动我都记得啊，<br>为什么那个最好的人却只能经过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9919302)<br><br>2012-07-22 22:20<br>赞(0) 踩(0) | <div>希望时间不会冲刷回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/997799)<br><br>2012-07-22 17:21<br>赞(0) 踩(0) | <div>有你的感动，我都记得爱，为什么哪个最好的人，却只能经过。为何最好的人，都只是经过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6499200)<br><br>2012-06-24 18:17<br>赞(0) 踩(0) | <div>机油都是来互相残害的啊！！！</div> |
@@ -188,5 +188,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/831616)<br>本来就眼小，奈何又脸大<br>2011-03-30 18:13<br>赞(0) 踩(0) | <div>我以为我是你最好的朋友，曾几何时我成了局外人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1375963)<br><br>2011-03-11 23:10<br>赞(0) 踩(0) | <div>恍如隔世这个故事 回忆的结局剩下几个字 你说爱终究是一个人的事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2241368)<br><br>2011-01-06 23:23<br>赞(0) 踩(0) | <div>为什么那个最好的人却只能经过？时间带走的，还能不能再带来？多希望。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2055880)<br><br>2010-12-15 14:13<br>赞(0) 踩(0) | <div>感觉是写给光良的。朋友难当，希望我们都过的好。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2055880)<br><br>2010-12-15 14:13<br>赞(0) 踩(0) | <div>感觉是写给光良的。<br>朋友难当，希望我们都过的好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/887977)<br>喜欢 ，没道理<br>2010-05-17 18:50<br>赞(1) 踩(0) | <div>曾经的感动</div> |

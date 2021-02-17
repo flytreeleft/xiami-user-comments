@@ -75,8 +75,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327291307)<br><br>2018-08-05 20:13<br>赞(1) 踩(0) | <div>太牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258353121)<br>地势坤，君子以厚德载物。<br>2018-06-28 11:11<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341485260)<br><br>2018-01-15 00:14<br>赞(2) 踩(0) | <div>写实的歌手很不错。</div> |
@@ -122,7 +122,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5716753)<br><br>2013-12-08 22:47<br>赞(0) 踩(0) | <div>听听。耶，有喜欢的口琴声。晚安吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6545158)<br>biubiu超人～～～<br>2013-12-07 20:16<br>赞(0) 踩(0) | <div>学麻将的节奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15999996)<br><br>2013-12-07 01:26<br>赞(0) 踩(0) | <div>去吧朋友  去吧！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-06 01:56<br>赞(1) 踩(0) | <div>Jack和Tim是两个北方男孩却从小喜欢美国的南方20岁他们一起去了乔治亚后来都娶了白人姑娘那天我见到他们在聚会上他们说那真是段糟糕的日子那不是他们想要的生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-06 01:56<br>赞(1) 踩(0) | <div>Jack和Tim是两个北方男孩<br>却从小喜欢美国的南方<br>20岁他们一起去了乔治亚<br>后来都娶了白人姑娘<br>那天我见到他们在聚会上<br>他们说那真是段糟糕的日子<br>那不是他们想要的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-06 01:54<br>赞(1) 踩(0) | <div><a href="http://www.xiami.com/song/1770629089" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1770629089</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12575545)<br><br>2013-12-05 23:26<br>赞(0) 踩(0) | <div>真的是非常好听！符合我想要旅行想要自由的心境……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469965)<br>以音乐为道，以格斗为术。<br>2013-12-05 17:14<br>赞(3) 踩(0) | <div>汪峰的摇滚态度已经终结在《信仰在空中飘扬》，音乐与文本的价值也止步在《花火》，因此新专辑《生来彷徨》真正的意义是提供了一张达到工业与商业化标准的音乐范本。一张能够为大众所接受的摇滚乐唱片，或者说当下社会所需要的摇滚乐，应以此为准。#《生来彷徨》微评团#</div> |

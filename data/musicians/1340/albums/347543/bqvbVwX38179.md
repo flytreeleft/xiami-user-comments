@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281121372)<br> <br>2019-05-05 21:58<br>赞(0) 踩(0) | <div>白痴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19861496)<br>音乐带你走进另一个世界<br>2019-04-22 21:49<br>赞(1) 踩(0) | <div>又是大一不小心看到的微电影，剧情一点不记得，但是这首歌一直很喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356926355)<br>⌛️<br>2018-11-02 22:38<br>赞(0) 踩(0) | <div>听你喜欢的歌，喝你喜欢的咖啡，看你喜欢的书，我已完全入魔！</div> |
@@ -123,7 +123,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17226843)<br>☆<br>2015-09-15 01:35<br>赞(1) 踩(0) | <div>王菲加梁静茹加梁咏琪。你说呢？嗯？？ <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50001215)<br>来而不往非礼也<br>2015-09-07 23:45<br>赞(3) 踩(0) | <div>男的唱的好听吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53511834)<br>懒 各圈皆可 <br>2015-08-29 18:49<br>赞(1) 踩(0) | <div>初见里听到的 哭的不要不要的 男女声版都很好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4255664)<br><br>2015-08-22 14:28<br>赞(1) 踩(0) | <div>我已没有没有资格再逗留怎能不放手</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4255664)<br><br>2015-08-22 14:28<br>赞(1) 踩(0) | <div>我已没有没有资格再逗留<br>怎能不放手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13012122)<br>清吟浅唱 七弦凝伤 泪落...<br>2015-08-13 03:49<br>赞(0) 踩(0) | <div>Everything comes to an end:) 19 years^^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53026733)<br><br>2015-08-02 14:42<br>赞(1) 踩(0) | <div>以前中午学校广播里常放，越来越觉得好听。看过辛夷坞的小说后，每次听到这首歌就会想到莫郁华或者谢橘年…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52687556)<br><br>2015-07-18 00:40<br>赞(2) 踩(0) | <div>当年和你前座后座，如今已经见不到你，不知你还好吗？</div> |
@@ -219,7 +219,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12330126)<br><br>2013-04-29 21:03<br>赞(0) 踩(0) | <div>这不重要与这很重要。而这似乎传递了想传递给的人，这没什么难的。对。在一段爱情中，重要的是——对方。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12804574)<br><br>2013-04-29 11:54<br>赞(0) 踩(0) | <div>沒有理由。不屬於我。怎能不放手。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14193655)<br><br>2013-04-27 23:06<br>赞(0) 踩(0) | <div>心动不碰就不心痛。这道理太浅显。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10615656)<br>介于音痴和音才之间<br>2013-04-27 13:03<br>赞(0) 踩(0) | <div>上戏微电影《初见》用的插曲 男生版的更给力，我还是推荐了原唱版本@番茄小洋仔</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10615656)<br>介于音痴和音才之间<br>2013-04-27 13:03<br>赞(0) 踩(0) | <div>上戏微电影《初见》用的插曲 男生版的更给力，我还是推荐了原唱版本<br>@番茄小洋仔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13434059)<br><br>2013-04-26 23:09<br>赞(0) 踩(0) | <div>飘移的心前进 又退後 爱到了街头应该怎麽兜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14054447)<br>当你一只脚踩在紫罗兰上，<br>2013-04-24 14:31<br>赞(0) 踩(0) | <div>此时此刻的你单曲循环的歌名是什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14020620)<br> <br>2013-04-21 07:01<br>赞(0) 踩(0) | <div>播放的爱情属于朋友  蔡淳佳＜前座后座＞</div> |
@@ -231,7 +231,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13975795)<br><br>2013-04-16 22:25<br>赞(0) 踩(0) | <div>明白心动不碰就不心痛  多年以後我们除了问候  还可以握手  #安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1856659)<br><br>2013-04-14 20:29<br>赞(0) 踩(0) | <div>听这首突然很多回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10458090)<br><br>2013-04-14 17:31<br>赞(0) 踩(0) | <div>&amp;amp;quot;这重要吗&amp;amp;quot;对于一些心知肚明的事，就不要去戳穿。毕竟，在爱情里，最重要的是对方。——《初见》</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13949191)<br><br>2013-04-14 10:49<br>赞(0) 踩(0) | <div>我以没有资格在逗留怎能不放手</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13949191)<br><br>2013-04-14 10:49<br>赞(0) 踩(0) | <div>我以没有资格在逗留<br>怎能不放手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5417551)<br><br>2013-04-12 09:56<br>赞(0) 踩(0) | <div>你好！我是赵阳，初次见面，很高兴认识你！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5417551)<br><br>2013-04-12 08:05<br>赞(0) 踩(0) | <div>你好！我叫赵阳，初次见面，很高兴认识你！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7206164)<br>凡人皆有一死<br>2013-04-10 15:18<br>赞(0) 踩(0) | <div>词曲都很好，其实男生版的更好。</div> |
@@ -250,11 +250,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5384949)<br>有D嘢係整定嘅，<br>2013-03-30 20:42<br>赞(0) 踩(0) | <div>初见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6462242)<br><br>2013-03-24 18:04<br>赞(0) 踩(0) | <div>这歌的词一般，曲很强，虐极不伤的感觉，以后不唱了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2007918)<br><br>2012-12-09 11:39<br>赞(0) 踩(0) | <div>抱紧你的冲动</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6428356)<br><br>2012-08-21 18:49<br>赞(0) 踩(0) | <div>我真的有抱紧你的冲动我真的有想起你而感动——感动啊，，，</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6428356)<br><br>2012-08-21 18:49<br>赞(0) 踩(0) | <div>我真的有抱紧你的冲动<br>我真的有想起你而感动<br><br>——感动啊，，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7413450)<br><br>2012-08-18 16:20<br>赞(0) 踩(0) | <div>人生多少回不去的遗憾</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6462242)<br><br>2011-12-18 15:18<br>赞(0) 踩(0) | <div>我们活着各自的人生，说着没有建树的话语，把时间耗给不相干的人。庆幸每年还能见一面，知道彼此尚在这个人世，已是弥足珍贵。（题外话：这个女人不翻唱的时候多好，何必非要唱别人的歌呢）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51432)<br><br>2011-11-06 11:37<br>赞(0) 踩(0) | <div>很哀伤的曲调</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2044643)<br>氤氲对你的痴情。<br>2011-07-18 20:54<br>赞(0) 踩(0) | <div>然而她的香味残留衣袖，那已渗透渗透你的心中。爱了错的人。又何必如此执着呢。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2044643)<br>氤氲对你的痴情。<br>2011-07-18 20:54<br>赞(0) 踩(0) | <div>然而她的香味残留衣袖，那已渗透渗透你的心中。<br>爱了错的人。又何必如此执着呢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3649761)<br><br>2011-05-03 11:42<br>赞(0) 踩(0) | <div>不管你帶給我的是悲哀或傷痛,看到你還是有抱緊你的衝動,雖然....但我知道你心裡還是把溫柔留給她,</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1089183)<br>暂无签名~<br>2011-05-03 00:49<br>赞(0) 踩(0) | <div>我觉得，现在看到蔡淳佳的歌我几乎就要忍不住分享了=v=</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3211614)<br><br>2011-03-16 04:40<br>赞(0) 踩(0) | <div>每一次唱起这首歌，都要热泪盈眶。</div> |

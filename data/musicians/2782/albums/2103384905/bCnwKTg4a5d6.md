@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4180906)<br>你好，虾小米<br>2020-04-08 12:13<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12330064)<br>音乐贝壳<br>2020-03-26 15:21<br>赞(0) 踩(0) | <div>期待下次live见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377207377)<br>我还没想好要写什么...<br>2020-01-06 03:22<br>赞(0) 踩(0) | <div>It’s a good song. Thanks for sharing.</div> |

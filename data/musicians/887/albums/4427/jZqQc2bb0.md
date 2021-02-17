@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411542508)<br><br>2019-05-24 19:29<br>赞(10) 踩(0) | <div>哎，听不了，别处下载也匹配不出来 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362071016)<br><br>2019-01-12 21:49<br>赞(0) 踩(0) | <div>Cool</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238055711)<br>唱歌吧就像没有人聆听一样<br>2018-09-28 02:17<br>赞(0) 踩(0) | <div>2018.11.03日晚19:00汪峰就这样演唱会，广州宝能国际体育演艺中心，男单身狗期待你的到来&amp;hellip;让我们一起呐喊，唱出压抑在我们心底许久的声音&amp;hellip;&amp;hellip;</div> |
@@ -64,7 +64,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281245272)<br>️<br>2018-08-12 08:57<br>赞(0) 踩(0) | <div>嫁衣的调调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5496438)<br>凡尘俗事，改变了你我！<br>2018-05-29 18:43<br>赞(1) 踩(0) | <div>汪峰的歌，这是最喜欢的一首。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52872834)<br>有發生過<br>2018-05-29 00:35<br>赞(3) 踩(0) | <div>没有这首歌 可能真的忘了高中听这首歌做的那些事了&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284711118)<br><br>2018-04-09 11:41<br>赞(1) 踩(0) | <div>也许你并不知道，有些错误是不能犯的，因为它可能永远无法被挽回。当你向他扣下扳机的那一刻，也许你还全然不知，或许是枪走了火，或许是被蒙住了眼睛，又或许你早已脑袋空白，内心麻木。也许在下一秒你会后悔，但他已离开，脑袋嗡嗡作响，即使说再多遍抱歉，又有什么意义。你永远无法再置身事外，再也逃不出自己内心的枷锁，你将背负这罪孽，永远。也许，某一天在生命的最后一刻，回首看到那子弹飞出的前一秒，该用什么表情去观看。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284711118)<br><br>2018-04-09 11:41<br>赞(1) 踩(0) | <div>也许你并不知道，有些错误是不能犯的，因为它可能永远无法被挽回。当你向他扣下扳机的那一刻，也许你还全然不知，或许是枪走了火，或许是被蒙住了眼睛，又或许你早已脑袋空白，内心麻木。也许在下一秒你会后悔，但他已离开，脑袋嗡嗡作响，即使说再多遍抱歉，又有什么意义。你永远无法再置身事外，再也逃不出自己内心的枷锁，你将背负这罪孽，永远。<br>也许，某一天在生命的最后一刻，回首看到那子弹飞出的前一秒，该用什么表情去观看。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48694782)<br> <br>2018-03-12 12:37<br>赞(0) 踩(0) | <div>爆炸了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311881490)<br>-1020<br>2018-01-18 19:49<br>赞(11) 踩(0) | <div>hello</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311881490)<br>-1020<br>2018-01-18 19:49<br>赞(0) 踩(0) | <div>听前奏以为听到了hello。。。</div> |
@@ -144,7 +144,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39700561)<br><br>2014-08-09 23:58<br>赞(0) 踩(0) | <div>没有爱就没有伤害！我做不到！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5571407)<br><br>2014-08-09 20:59<br>赞(0) 踩(0) | <div>没有爱就没有伤害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486008)<br>我还没想好要写什么...<br>2014-08-05 22:07<br>赞(1) 踩(0) | <div>这歌还是老汪自己的版本最迷人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11310107)<br><br>2014-08-04 23:44<br>赞(0) 踩(0) | <div>爱是一颗幸福的子弹 没有爱就没有伤害爱是一次永久的期待 没有爱就没有伤害</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11310107)<br><br>2014-08-04 23:44<br>赞(0) 踩(0) | <div>爱是一颗幸福的子弹 没有爱就没有伤害<br>爱是一次永久的期待 没有爱就没有伤害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39694823)<br>z<br>2014-08-04 17:58<br>赞(0) 踩(0) | <div>en</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7649215)<br>杨<br>2014-08-03 10:01<br>赞(1) 踩(0) | <div>欢迎大家给我推荐这种类型的歌，因为我太爱这种轻声诉说强烈情感的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16196924)<br>暂无签名~<br>2014-08-03 00:05<br>赞(0) 踩(0) | <div>原版好听！</div> |
@@ -184,7 +184,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1477079)<br><br>2014-06-10 15:27<br>赞(0) 踩(0) | <div>真诚热烈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5778975)<br>灵魂爵士迷幻<br>2014-05-27 09:24<br>赞(27) 踩(0) | <div>汪峰的唇齿音和撕裂音让人着迷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4152091)<br>酴釄<br>2014-04-22 15:48<br>赞(0) 踩(0) | <div>刷屏的功能之一是为了提神...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477519)<br>爱  是生命的和弦，而不...<br>2014-03-31 10:08<br>赞(1) 踩(0) | <div>不同那英演唱版本...两版各有千秋...汪峰版更胜一筹...原创词曲 及演唱都太赞了...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477519)<br>爱  是生命的和弦，而不...<br>2014-03-31 10:08<br>赞(1) 踩(0) | <div>不同那英演唱版本...两版各有千秋...<br>汪峰版更胜一筹...原创词曲 及演唱都太赞了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10519527)<br><br>2014-03-22 09:17<br>赞(0) 踩(0) | <div>had u been hit?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20444897)<br><br>2014-01-11 18:43<br>赞(0) 踩(0) | <div>&nbsp;爱是一颗幸福的子弹，没有爱就没有伤害，爱是一次永久的期待，没有爱就没有伤害……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20488813)<br><br>2013-12-10 13:41<br>赞(0) 踩(0) | <div>没有买卖就没有杀害...</div> |
@@ -221,7 +221,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1291859)<br> <br>2013-06-03 13:19<br>赞(0) 踩(0) | <div>这首歌应该是这张专辑最惊艳的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-08-15 18:45<br>赞(0) 踩(0) | <div>最惊艳的是再见二十世纪</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4788655)<br><br>2013-11-22 17:14<br>赞(0) 踩(0) | <div><q><b>pjseasoner说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:22<br>赞(0) 踩(0) | <div>我帮你把门轻轻地打开外面的天空慢慢地变暗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:22<br>赞(0) 踩(0) | <div>我帮你把门轻轻地打开<br>外面的天空慢慢地变暗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13834103)<br><br>2013-04-08 14:04<br>赞(0) 踩(0) | <div>耶 ROCKLONGLIVE</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7610292)<br><br>2012-12-04 15:44<br>赞(0) 踩(0) | <div>爱是一颗幸福的子弹 没有爱就没有伤害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7433732)<br>我期待，明年的雪<br>2012-10-26 06:16<br>赞(0) 踩(0) | <div>汪峰的歌，很多都很悲凉的感觉，这首也是。。。爱是一种幸福的子弹，没有爱就没有伤害。。。</div> |
@@ -230,17 +230,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7143662)<br> <br>2012-09-28 23:20<br>赞(0) 踩(0) | <div>没有爱就没有伤害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10611813)<br> <br>2012-09-20 13:13<br>赞(0) 踩(0) | <div>就爱汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9961412)<br><br>2012-09-10 01:34<br>赞(0) 踩(0) | <div>爱是一颗幸福的子弹，没有爱，就没有伤害～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7784761)<br><br>2012-07-18 07:41<br>赞(0) 踩(0) | <div>#爱是一颗幸福的子弹#没有爱就没有伤害爱是一次永久的期待没有爱就没有伤害</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7784761)<br><br>2012-07-18 07:41<br>赞(0) 踩(0) | <div>#爱是一颗幸福的子弹#<br>没有爱就没有伤害<br>爱是一次永久的期待<br>没有爱就没有伤害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1728397)<br>在乐声中回忆那些逝去的青...<br>2012-07-09 00:32<br>赞(0) 踩(0) | <div>送你一颗子弹，往我心胸里打进去吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2709642)<br><br>2012-05-09 20:53<br>赞(0) 踩(0) | <div>爱是一颗幸福的子弹，这个旋律在脑子里晃了一天~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8418112)<br><br>2012-04-23 11:01<br>赞(0) 踩(0) | <div>爱是一颗幸福的子弹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1580871)<br><br>2012-04-21 02:39<br>赞(0) 踩(0) | <div>活着，或许就是为了证明你能忍受多少的压力，能改变多少的原则。最后成为了一个多无趣的人。活得越痛苦，死去的时候就越开心。所以那些喜欢先苦后甜的人，你们有福了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8215529)<br><br>2012-04-07 16:17<br>赞(0) 踩(0) | <div>应该是一颗流弹，永远不知道从哪里射来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5567146)<br><br>2012-04-05 22:51<br>赞(0) 踩(0) | <div>大多数时间我好像只是需要陪伴，并且在累的时候希望得到一个拥抱而已，比如今天。因为没有爱就没有伤害。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4362286)<br><br>2012-02-22 22:56<br>赞(0) 踩(0) | <div>汪峰－《爱是一颗幸福的子弹》，这名起得够意思。打了一颗少一颗，是否打中，是否打正，还真是个技术活。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4362286)<br><br>2012-02-22 22:56<br>赞(0) 踩(0) | <div>汪峰－《爱是一颗幸福的子弹》，这名起得够意思。<br>打了一颗少一颗，是否打中，是否打正，还真是个技术活。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7671400)<br><br>2012-01-31 21:03<br>赞(0) 踩(0) | <div>发现越发喜欢这个老男人了！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/975206)<br><br>2011-12-23 12:32<br>赞(0) 踩(0) | <div>爱是一颗幸福的子弹</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/594931)<br>虾米4ever巴尔鲁克歌...<br>2011-12-22 17:08<br>赞(55) 踩(0) | <div>最可悲的是 你被子弹射中 开枪的那人还全然不知 或许她连枪都不会拿或许是走了火 或许是被蒙住了眼睛 或许她早已脑袋空白内心麻木或许她不曾考虑会伤及无辜 或许是被逼无奈  或许  她真的就是个冷面杀手再或许 她只是朵扎人的玫瑰再或许 她只是只刺猬  或许她认为你也同样是只刺猬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/594931)<br>虾米4ever巴尔鲁克歌...<br>2011-12-22 17:08<br>赞(55) 踩(0) | <div>最可悲的是 你被子弹射中 开枪的那人还全然不知 或许她连枪都不会拿<br><br>或许是走了火 或许是被蒙住了眼睛 或许她早已脑袋空白内心麻木<br><br>或许她不曾考虑会伤及无辜 或许是被逼无奈  或许  她真的就是个冷面杀手<br><br>再或许 她只是朵扎人的玫瑰<br>再或许 她只是只刺猬  或许她认为你也同样是只刺猬</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8438236)<br><br>2015-07-08 17:42<br>赞(0) 踩(0) | <div>职业段子手</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51779625)<br>12345<br>2015-08-30 11:49<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/594931)<br>虾米4ever巴尔鲁克歌...<br>2017-09-25 17:43<br>赞(0) 踩(0) | <div><q><b>Slash说：</b></q></div> |

@@ -22,8 +22,8 @@ OM TA RE TUTTA RE TU RE SOHA
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357118897)<br><br>2020-08-02 08:48<br>赞(0) 踩(0) | <div>南无大慈大悲观世音菩萨 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431057161)<br><br>2020-02-18 10:47<br>赞(1) 踩(0) | <div>说好的快乐咒，但眼泪就不知觉的落下❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336702251)<br><br>2019-11-15 21:09<br>赞(3) 踩(0) | <div>有人说女声版好听，听后觉得还是男声版好听，因为男声版声宏有势，听起来很舒服。</div> |
@@ -49,7 +49,7 @@ OM TA RE TUTTA RE TU RE SOHA
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321262674)<br><br>2017-08-24 16:20<br>赞(2) 踩(0) | <div>嗯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295409082)<br> <br>2017-08-16 07:34<br>赞(2) 踩(0) | <div>嗡哒咧 度哒咧 度例梭哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236457095)<br>微微的每一天，都在聆听美...<br>2017-07-12 07:01<br>赞(3) 踩(0) | <div>嗡哒咧  度哒咧  度咧  梭哈  一首欢乐的咒语！南无阿弥陀佛！. <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11741807)<br>咳嗽晃动咳嗽晃动咳嗽晃动...<br>2017-07-04 19:22<br>赞(9) 踩(0) | <div>一、加持咒（3遍）：嗡 桑巴ra桑巴ra, 波玛纳萨ra 玛哈臧巴巴吽帕的索哈二、皈依、发菩提心：诸佛正法贤圣三宝尊，从今直至菩提永皈依我以所修施等诸资粮，为利有情故愿大觉成三、礼赞文：嗡尊者圣救度母我顶礼礼敬达咧奋迅母，都达咧者除怖畏都咧救度施诸利，梭哈字乃躬礼尊当天与非天用冠冕，接触足莲表敬仰从诸灾难做救度，救度母前恭敬礼梭哈赞叹祈请尊者之力故，吾等无论居于何方所，贫穷疾病战争悉平息，佛法吉祥祈令俱增胜。四、诵绿度母心咒：嗡wōng 答d&amp;aacute; 咧li&amp;egrave; 都dū 答d&amp;aacute; 咧li&amp;egrave; 都dū 咧li&amp;egrave; 梭suō 哈hā五、回向</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11741807)<br>咳嗽晃动咳嗽晃动咳嗽晃动...<br>2017-07-04 19:22<br>赞(9) 踩(0) | <div>一、加持咒（3遍）：<br><br>嗡 桑巴ra桑巴ra, 波玛纳萨ra 玛哈臧巴巴吽帕的索哈<br><br>二、皈依、发菩提心：<br><br>诸佛正法贤圣三宝尊，从今直至菩提永皈依<br><br>我以所修施等诸资粮，为利有情故愿大觉成<br><br>三、礼赞文：<br><br>嗡<br><br>尊者圣救度母我顶礼<br><br>礼敬达咧奋迅母，都达咧者除怖畏<br><br>都咧救度施诸利，梭哈字乃躬礼尊<br><br>当<br><br>天与非天用冠冕，接触足莲表敬仰<br><br>从诸灾难做救度，救度母前恭敬礼<br><br>梭哈<br><br>赞叹祈请尊者之力故，吾等无论居于何方所，<br><br>贫穷疾病战争悉平息，佛法吉祥祈令俱增胜。<br><br>四、诵绿度母心咒：<br><br>嗡wōng 答d&amp;aacute; 咧li&amp;egrave; 都dū 答d&amp;aacute; 咧li&amp;egrave; 都dū 咧li&amp;egrave; 梭suō 哈hā<br><br>五、回向</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37946009)<br><br>2017-06-23 20:57<br>赞(4) 踩(0) | <div>绿度母心咒：嗡哒咧 度哒咧 度咧梭哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286867174)<br><br>2017-04-13 13:44<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32031632)<br><br>2016-06-15 09:41<br>赞(3) 踩(0) | <div>南无阿弥佗佛</div> |

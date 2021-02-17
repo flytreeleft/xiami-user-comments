@@ -3,7 +3,7 @@ Jove
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3b84eeaa2dd30daf70ce9aa62c479836.jpg)<br>Jove](https://i.xiami.com/jove) | **播放数**: 2830894<br>**粉丝数**: 364<br>**评论数**: 28<br>**地区**: China 中国大陆<br>**风格**: <br> |
+| [![](../../images/musicians/3b84eeaa2dd30daf70ce9aa62c479836.jpg)<br>Jove](https://i.xiami.com/jove) | **地区**: China 中国大陆<br>**风格**: <br>**播放数**: 2830894<br>**粉丝数**: 364<br>**评论数**: 28<br> |
 
 ## 档案
 
@@ -54,8 +54,8 @@ Jove
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294408265)<br>我多想痛哭一场，然而我觉...<br>2020-11-14 09:37<br>赞(0) 踩(0) | <div>好听，加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356565070)<br><br>2020-05-20 08:59<br>赞(0) 踩(0) | <div>封面真有❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379035319)<br><br>2019-06-13 21:06<br>赞(0) 踩(0) | <div>唱歌挺好的，就是唯一好奇简介里的书香门第和音乐八竿子打不着吧</div> |

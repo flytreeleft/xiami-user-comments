@@ -46,8 +46,8 @@ Mr.Moon<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7046853)<br>我还没想好要写什么...<br>2019-08-07 22:18<br>赞(0) 踩(0) | <div>好像这首歌是建武组合音响的广告曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406739677)<br>感谢永远有歌 将心境道破...<br>2019-01-10 20:20<br>赞(1) 踩(0) | <div>高中补课后 沿着月光一路回家的小路上 回想刚刚对桌那个让我欢喜的男孩 一脸阳光的笑容 那个夜晚和这首歌就一直在记忆中……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281928990)<br>在寂寞的广场上打滚儿<br>2018-12-31 19:09<br>赞(0) 踩(0) | <div>买的第一张CD就是这张，回家用长虹VCD放的</div> |
@@ -66,8 +66,8 @@ Mr.Moon<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1523719)<br><br>2013-12-02 16:39<br>赞(0) 踩(0) | <div>130919. “你的心遗落在他乡，我托付月亮把孤单带上，万语千言都随月移圆缺”。一首讲异地恋的歌。今晚又有很多人要为了异乡的情人而矫情一把吧～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2807825)<br><br>2013-09-19 12:59<br>赞(0) 踩(0) | <div>最近突然又开始怀旧起熊天平的歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5860237)<br><br>2012-04-07 21:29<br>赞(0) 踩(0) | <div>真的好听！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37698)<br><br>2011-07-30 15:46<br>赞(0) 踩(0) | <div>和你相聚的时光总是那么的短暂期待和你重逢在异乡情路上回到最初的地方看你熟悉的脸庞愿在今次路上永远不离散 我的1990年代组曲04。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37698)<br><br>2011-07-30 15:34<br>赞(0) 踩(0) | <div>和你相聚的时光总是那么的短暂期待和你重逢在异乡情路上回到最初的地方看你熟悉的脸庞愿在今次路上永远不离散  我的1990年代组曲04</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37698)<br><br>2011-07-30 15:46<br>赞(0) 踩(0) | <div>和你相聚的时光<br>总是那么的短暂<br>期待和你重逢<br>在异乡情路上<br>回到最初的地方<br>看你熟悉的脸庞<br>愿在今次路上<br>永远不离散 我的1990年代组曲04。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37698)<br><br>2011-07-30 15:34<br>赞(0) 踩(0) | <div>和你相聚的时光<br>总是那么的短暂<br>期待和你重逢<br>在异乡情路上<br>回到最初的地方<br>看你熟悉的脸庞<br>愿在今次路上<br>永远不离散  我的1990年代组曲04</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7868)<br><br>2010-07-31 11:06<br>赞(0) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6429)<br>暂无签名~<br>2010-07-30 19:07<br>赞(0) 踩(0) | <div>小时候的磁带啊随身听啊上学的路。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7868)<br><br>2010-07-31 11:06<br>赞(0) 踩(0) | <div>re！ 不锅我不是去上学路上 我现在还有这盘磁带！好喜欢的说·</div> |

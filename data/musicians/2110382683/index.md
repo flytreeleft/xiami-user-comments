@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/52248d234f47c75d6423636b005b427e.jpg)<br>丁点](https://i.xiami.com/dagny_) | **播放数**: 2629074<br>**粉丝数**: 149<br>**评论数**: 15<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/52248d234f47c75d6423636b005b427e.jpg)<br>丁点](https://i.xiami.com/dagny_) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 2629074<br>**粉丝数**: 149<br>**评论数**: 15<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -27,10 +24,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330769782)<br><br>2020-10-21 22:07<br>赞(0) 踩(0) | <div>Shallow，100个赞赞赞！ <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351421684)<br><br>2020-05-30 15:41<br>赞(1) 踩(0) | <div>很喜歡妳的嗓音 能把每首歌詮釋自我風格很道味 特好聽 加油期待新作品 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351421684)<br><br>2020-05-30 15:41<br>赞(1) 踩(0) | <div>很喜歡妳的嗓音 能把每首歌詮釋自我風格<br>很道味 特好聽 加油期待新作品 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440669143)<br>竹杖芒鞋轻胜马，谁怕？一...<br>2020-02-19 23:31<br>赞(0) 踩(0) | <div>高音区声音好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323782522)<br>所以就满怀期待的生活吧。<br>2019-10-12 03:13<br>赞(1) 踩(0) | <div>爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/172986138)<br>我还没想好要写什么...<br>2019-07-31 08:26<br>赞(0) 踩(0) | <div>唱的真好听，走心❤️</div> |

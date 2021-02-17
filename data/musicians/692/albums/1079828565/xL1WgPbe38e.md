@@ -12,18 +12,15 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255962784)<br>翩翩白衣沁骨 清风伴酒醉...<br>2020-12-04 22:42<br>赞(0) 踩(0) | <div>人去楼空茶已凉，月洒冬墙，斜映寒床，长恨离歌枯柳旁，孤灯望路夜惶徨，霜冻流水，冰欲凝长，一江春水万古茫。</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255962784)<br>翩翩白衣沁骨 清风伴酒醉...<br>2020-12-04 22:42<br>赞(0) 踩(0) | <div>人去楼空茶已凉，<br>月洒冬墙，斜映寒床，<br>长恨离歌枯柳旁，<br>孤灯望路夜惶徨，<br>霜冻流水，冰欲凝长，<br>一江春水万古茫。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256174207)<br><br>2020-09-23 09:37<br>赞(0) 踩(0) | <div>把这首歌设为起床闹钟铃声，突然觉得没有以前那么喜欢了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3803532)<br>这家伙很聪明什么也没留下...<br>2020-10-17 01:29<br>赞(0) 踩(0) | <div>你把哪首歌设成闹铃都一样&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5633735)<br>我还没想好要写什么...<br>2020-08-22 18:10<br>赞(0) 踩(0) | <div>我心匪石，回护一人一城。百年前无厌伽蓝没有送出的生日礼物。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5633735)<br>我还没想好要写什么...<br>2020-08-22 18:10<br>赞(0) 踩(0) | <div>我心匪石，回护一人一城。<br>百年前无厌伽蓝没有送出的生日礼物。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16509966)<br><br>2020-06-21 23:28<br>赞(0) 踩(0) | <div>为什么会这么喜欢这个角色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16581781)<br><br>2020-04-27 11:49<br>赞(1) 踩(0) | <div>可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63745010)<br>随心.随性.随遇.随缘<br>2020-04-14 07:52<br>赞(2) 踩(0) | <div>继续推 <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
@@ -43,7 +40,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199499170)<br><br>2019-01-20 09:13<br>赞(2) 踩(0) | <div>可惜这首bgm被剧版玩坏了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354831937)<br><br>2018-12-16 15:04<br>赞(0) 踩(0) | <div>使人平静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2039316)<br>只求，不负初心<br>2018-08-18 11:48<br>赞(1) 踩(0) | <div>一听着曲子还是想哭呜呜呜呜我喜欢的谢伯伯啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369912638)<br><br>2018-08-15 17:24<br>赞(4) 踩(0) | <div>看到评论惊觉古剑二已是四年前玩的游戏了，然而古剑系列，每每想起，场景历历在目，对白言犹在耳，情节更是深刻于心。谢衣说过，此生未尝虚掷一日，此心已足，不复怨怼。他的人生和心境，令人艳羡。1.0到3.0，谢衣就是这样一个人，无论身在何处，承受何种记忆与身份，都不负自己的心志，对人对己，便有遗憾，也无愧无悔。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369912638)<br><br>2018-08-15 17:24<br>赞(4) 踩(0) | <div>看到评论惊觉古剑二已是四年前玩的游戏了，然而古剑系列，每每想起，场景历历在目，对白言犹在耳，情节更是深刻于心。谢衣说过，此生未尝虚掷一日，此心已足，不复怨怼。他的人生和心境，令人艳羡。<br>1.0到3.0，谢衣就是这样一个人，无论身在何处，承受何种记忆与身份，都不负自己的心志，对人对己，便有遗憾，也无愧无悔。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/172328500)<br>我将，重生！<br>2018-08-10 19:41<br>赞(2) 踩(0) | <div>当你还有留恋不舍，你就会畏惧死亡。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286953681)<br><br>2018-07-28 20:18<br>赞(1) 踩(0) | <div>电视剧滥用！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32680044)<br>~<br>2018-07-28 19:59<br>赞(0) 踩(0) | <div>高山流水~</div> |
@@ -59,10 +56,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342450681)<br><br>2018-02-24 21:04<br>赞(6) 踩(0) | <div>也许真正的谢衣从来就没有出现过，只存在在回忆里，可是不管是片段的回忆还是只占真正谢衣冰山一角的傀儡谢衣，还是性格大变的初七，都是真正谢衣的一部分，即使是一部分都这么让人难以忘怀。。。唉。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2039316)<br>只求，不负初心<br>2018-01-18 00:35<br>赞(1) 踩(0) | <div>此时相望不相闻，愿逐月华流照君</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312789906)<br><br>2017-11-22 23:10<br>赞(5) 踩(0) | <div>...哈哈，月下所言，与仙四甚像。...人生倥偬，又何必有诸般执念...保护一人一城，可惜，可惜，纵全力也不能挽回...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18009126)<br><br>2017-10-30 10:21<br>赞(5) 踩(0) | <div>人都是很固执的……尤其在选择要走哪条路时，更是半点不能强求。所以我也无法告诉你，偃术究竟有何用途……我只能说，你最想要什么，就去做什么，那就是你自己的道。高山流水。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18009126)<br><br>2017-10-30 10:21<br>赞(5) 踩(0) | <div>人都是很固执的……尤其在选择要走哪条路时，更是半点不能强求。所以我也无法告诉你，偃术究竟有何用途……我只能说，你最想要什么，就去做什么，那就是你自己的道。<br>高山流水。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18009126)<br><br>2017-10-30 10:21<br>赞(5) 踩(0) | <div>人都是很固执的……尤其在选择要走哪条路时，更是半点不能强求。所以我也无法告诉你，偃术究竟有何用途……我只能说，你最想要什么，就去做什么，那就是你自己的道。  高山流水。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245267313)<br> <br>2017-10-19 11:00<br>赞(2) 踩(0) | <div>此生未尝虚掷一日，余心已足，不复怨怼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309122586)<br>胸有激雷而面如平湖者，可...<br>2017-10-03 12:48<br>赞(2) 踩(0) | <div>知音难求；纵横百家之长，却道古风遗梦；闲逸独揽春芳，钎手秒俏霓虹；抚道远观嫣然，铮珠细帘流长？激雷平湖谁晓，蕴长旷远无憾！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309122586)<br>胸有激雷而面如平湖者，可...<br>2017-10-03 12:48<br>赞(2) 踩(0) | <div>知音难求；<br>纵横百家之长，却道古风遗梦；<br>闲逸独揽春芳，钎手秒俏霓虹；<br>抚道远观嫣然，铮珠细帘流长？<br>激雷平湖谁晓，蕴长旷远无憾！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245267313)<br> <br>2017-09-24 17:23<br>赞(0) 踩(0) | <div>很美很有意境</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317506483)<br>业火永劫浮生狱，彼岸冥花...<br>2017-08-20 08:47<br>赞(1) 踩(0) | <div>初七DLC好玩，战斗很快，节奏不错</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17109258)<br>咿呀咿呀哟！<br>2018-08-13 22:32<br>赞(0) 踩(0) | <div>真的好难打，太考验技巧了，对于手残的人来说，纯物理攻击，尼玛，绝了。</div> |
@@ -76,7 +73,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257888467)<br> <br>2017-02-03 11:43<br>赞(0) 踩(0) | <div>一听到这首就会想到谢波波，泪目……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254491962)<br>无聊中。。。<br>2017-01-19 19:27<br>赞(2) 踩(0) | <div>一听就泪目的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8686845)<br>\<br>2017-01-15 20:30<br>赞(2) 踩(0) | <div>再次重温古剑二,再也不抱怨静水湖三小时了!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212464777)<br><br>2017-01-15 17:34<br>赞(6) 踩(0) | <div>枯荣流转 道不尽世事苍白韶华白首 数不清在水一方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212464777)<br><br>2017-01-15 17:34<br>赞(6) 踩(0) | <div>枯荣流转 道不尽世事苍白<br>韶华白首 数不清在水一方</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16347841)<br><br>2017-10-07 10:04<br>赞(0) 踩(0) | <div>数不清。为什么用在水一方呢？求教！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251782150)<br><br>2016-12-03 16:01<br>赞(0) 踩(0) | <div>一首高山流水，几多离愁别绪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1612404)<br>我有时看不了你们的回复<br>2016-11-22 04:07<br>赞(0) 踩(0) | <div>楼下某评论辣眼睛注意。</div> |
@@ -168,7 +165,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5017581)<br>愿我有生之日，得见你君临...<br>2014-10-29 11:20<br>赞(1) 踩(0) | <div>补刀神曲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36569083)<br>绵绵<br>2014-10-23 23:24<br>赞(1) 踩(0) | <div>一响起就觉得好感动TVY</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/176581)<br><br>2014-10-10 18:26<br>赞(1) 踩(0) | <div>一走出食堂，学校广播里就飘出熟悉的旋律，瞬间情绪被点起来了嘤嘤嘤高山流水啊T T后面好像接连着是古二音乐集(*&amp;#039;▽&amp;#039;*)♪</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354872)<br> <br>2014-10-08 22:24<br>赞(2) 踩(0) | <div>推荐大家听这首古风翻唱，用的就是高山流水，是戏腔。关键在于，是个男声唱的。。。《戏妖》——<a href="http://5sing.kugou.com/fc/10770590.html" target="_blank" rel="nofollow noreferrer noopener">http://5sing.kugou.com/fc/10770590.html</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354872)<br> <br>2014-10-08 22:24<br>赞(2) 踩(0) | <div>推荐大家听这首古风翻唱，用的就是高山流水，是戏腔。关键在于，是个男声唱的。。。<br>《戏妖》——<a href="http://5sing.kugou.com/fc/10770590.html" target="_blank" rel="nofollow noreferrer noopener">http://5sing.kugou.com/fc/10770590.html</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6903796)<br><br>2014-09-10 12:23<br>赞(1) 踩(0) | <div>悲而不伤，哀而不怨。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/542713)<br><br>2014-08-24 22:12<br>赞(1) 踩(0) | <div>知己难求，世事无常，且不枉人世走一遭。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12849082)<br>不如高卧且加餐<br>2014-08-14 17:11<br>赞(0) 踩(0) | <div>这也将成为窝以后听到都会泪目的BGM……………………</div> |
@@ -195,7 +192,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33543493)<br><br>2014-03-04 11:35<br>赞(0) 踩(0) | <div>配合着剧情，听着更有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11860203)<br><br>2014-03-03 13:11<br>赞(0) 踩(0) | <div>不染纤尘之感，大爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11916927)<br>尽付流光。<br>2014-02-28 19:16<br>赞(1) 踩(0) | <div>一听到就做好补刀准备了……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11916927)<br>尽付流光。<br>2014-02-28 19:15<br>赞(0) 踩(0) | <div>2.0。。QAQ一听就想哭……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11916927)<br>尽付流光。<br>2014-02-28 19:15<br>赞(0) 踩(0) | <div>2.0。。QAQ<br>一听就想哭……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21500124)<br>Happiness is...<br>2014-02-16 22:27<br>赞(3) 踩(0) | <div>这首BGM印象太深了，闻此曲如见其人。  “我师父——他是个异常出色的人。无论修为、智谋、胆识亦或担当，与我看来，即便时至今日，仍不作第二人想。就如这高天孤月一般，遥不可及，如冰如霜，却又独自照彻漫漫寒夜……”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21500124)<br>Happiness is...<br>2014-02-16 22:20<br>赞(0) 踩(0) | <div>“我师父——他是个异常出色的人。无论修为、智谋、胆识亦或担当，与我看来，即便时至今日，仍不作第二人想。就如这高天孤月一般，遥不可及、如冰如霜，却又独自照彻漫漫寒夜……” 这BGM印象太深了，闻此曲如见其人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1477559)<br>山川異域，風月同天。<br>2014-01-22 08:14<br>赞(0) 踩(0) | <div>和謝衣一比較沈夜就是從裏到外一個悲劇…</div> |
@@ -220,7 +217,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2806747)<br><br>2013-10-15 23:11<br>赞(3) 踩(0) | <div>古剑2大部分bgm听起来都很顺耳，没有一首显得突兀，各种类型的都有，总体还是令人满意的。古剑二配乐风格的多样化程度完胜古剑一，而且比起古1，古2的曲子更贴近剧情表达，更像真正的bgm。但是缺点就是很多bgm比起1代长度太短，编曲太偷懒，以至于有些人印象不深刻。古1太过追求民族乐器，过于压抑，一大半是悲伤的调调，虽说是为了贴合剧情，但风格显得颇为单调。。。不过质量还是高水准。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5693288)<br>口味比较杂<br>2014-04-11 02:26<br>赞(0) 踩(0) | <div>你这么一说是觉得很短啊。。不过毕竟一代才开始起步。。才有了现在二代各种的丰富嘛。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1516514)<br> <br>2013-10-15 10:05<br>赞(1) 踩(0) | <div>这首是古二通篇玩下来印象最深的，比起古一来，出彩曲目的数量，着实少了些。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7871053)<br>星火相传，奋飞不辍。<br>2013-10-13 23:02<br>赞(150) 踩(0) | <div>『余毕生所求，不过穷尽偃术之途，以回护一人一城。』『此时相望不相闻，愿逐月华流照君。』『我师尊就如同这高天孤月一般，遥不可及、如冰如霜，却又独自照彻漫漫寒夜...』TAT沈谢啊.........《古剑奇谭2》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7871053)<br>星火相传，奋飞不辍。<br>2013-10-13 23:02<br>赞(150) 踩(0) | <div>『余毕生所求，不过穷尽偃术之途，以回护一人一城。』<br>『此时相望不相闻，愿逐月华流照君。』<br>『我师尊就如同这高天孤月一般，遥不可及、如冰如霜，却又独自照彻漫漫寒夜...』<br>TAT沈谢啊.........《古剑奇谭2》</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256174207)<br><br>2020-09-23 09:35<br>赞(0) 踩(0) | <div>高天胖月</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8531536)<br>等待并希望<br>2013-10-04 07:55<br>赞(0) 踩(0) | <div>古剑奇谭2谢衣同人曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/932510)<br><br>2013-10-02 21:12<br>赞(0) 踩(0) | <div>虐cry</div> |

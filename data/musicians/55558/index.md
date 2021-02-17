@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5e9d38fad5c9e13eb9a2d6b40835c692.jpg)<br>小安](https://i.xiami.com/degjinhuu) | **播放数**: 10211924<br>**粉丝数**: 4590<br>**评论数**: 186<br>**地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 民谣 Folk, 校园民谣 Campus Folk, 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/5e9d38fad5c9e13eb9a2d6b40835c692.jpg)<br>小安](https://i.xiami.com/degjinhuu) | **地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 民谣 Folk, 校园民谣 Campus Folk, 独立流行 Indie Pop<br>**播放数**: 10211924<br>**粉丝数**: 4590<br>**评论数**: 186<br> |
 
 ## 档案
 
@@ -21,8 +21,8 @@ xiaoanmusic.com
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7111610)<br><br>2020-12-28 01:55<br>赞(0) 踩(0) | <div>牛气！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-08-19 11:15<br>赞(0) 踩(0) | <div>✔️✔️✔️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869686)<br><br>2020-02-07 10:09<br>赞(0) 踩(0) | <div>爱你的声音，爱你的心灵，加油~ <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
@@ -77,7 +77,7 @@ xiaoanmusic.com
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32092417)<br><br>2015-04-26 23:08<br>赞(2) 踩(0) | <div>听说他不做音乐了，可惜啊，他的嗓音这么棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47941184)<br>理想今年你几岁<br>2015-04-17 22:25<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47008817)<br><br>2015-03-28 16:10<br>赞(3) 踩(0) | <div>舒服</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98914)<br>耳朵具有自动过滤歌词功能<br>2015-03-24 22:14<br>赞(15) 踩(0) | <div>小安改艺名了吗，怎么后来没消息了。。。“已经不做音乐了。感谢所有的朋友们。”<a href="http://site.douban.com/xiaoan/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/xiaoan/</a>我擦</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98914)<br>耳朵具有自动过滤歌词功能<br>2015-03-24 22:14<br>赞(15) 踩(0) | <div>小安改艺名了吗，怎么后来没消息了。。。<br><br>“已经不做音乐了。感谢所有的朋友们。”<br><a href="http://site.douban.com/xiaoan/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/xiaoan/</a><br>我擦</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2865322)<br>我还没想好要写什么...<br>2015-06-24 09:13<br>赞(0) 踩(0) | <div>可惜了。希望他不要放弃音乐啊。  我们都想听歌。 谁有他微博。@我一个。  我的微博名字。陈杯杯</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7239494)<br><br>2015-06-24 11:09<br>赞(0) 踩(0) | <div><q><b>陈杯杯说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2865322)<br>我还没想好要写什么...<br>2015-06-24 22:20<br>赞(0) 踩(0) | <div><q><b>死了｀说：</b></q></div> |
@@ -95,7 +95,7 @@ xiaoanmusic.com
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42422302)<br> <br>2015-01-13 13:04<br>赞(2) 踩(0) | <div>喜欢这种悠闲自在的小清新，听完整个人都变文艺了❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296069)<br>暂无签名~<br>2015-01-12 21:58<br>赞(1) 踩(0) | <div>干净</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45727846)<br><br>2015-01-07 11:20<br>赞(1) 踩(0) | <div>简简单单</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/756667)<br>边上<br>2014-12-31 11:35<br>赞(2) 踩(0) | <div>每次听着，都不知觉地进入了单曲循环。最让人感动的那段念白，让人懂得，有些东西注定是抓不住的，你拼了命使出全身的力量要去抓，也只不过捞月一般的虚幻……是的，就让那月浮于心中的这潭水</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/756667)<br>边上<br>2014-12-31 11:35<br>赞(2) 踩(0) | <div>每次听着，都不知觉地进入了单曲循环。<br>最让人感动的那段念白，<br>让人懂得，<br>有些东西注定是抓不住的，<br>你拼了命使出全身的力量要去抓，<br>也只不过捞月一般的虚幻……<br>是的，<br>就让那月浮于心中的这潭水</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9755013)<br>やる気ないね<br>2014-12-11 22:16<br>赞(1) 踩(0) | <div>mlln的诗很舒服啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16267422)<br>我还没想好要写什么...<br>2014-12-10 12:00<br>赞(1) 踩(0) | <div>很久没有听到这样感动的歌了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2781218)<br>来者何来 去者何去<br>2014-12-08 21:58<br>赞(1) 踩(0) | <div>独白太长啦23333念的好认真，又傻又cute</div> |
@@ -176,7 +176,7 @@ xiaoanmusic.com
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5842349)<br><br>2012-06-26 17:49<br>赞(1) 踩(0) | <div>木吉他-民谣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9040705)<br><br>2012-06-14 13:53<br>赞(1) 踩(0) | <div>..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2244994)<br><br>2012-05-23 22:51<br>赞(1) 踩(0) | <div>能这样歌唱算是我的一个梦想吧。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/594459)<br><br>2012-05-21 23:07<br>赞(1) 踩(0) | <div>已经不唱了吗？真可惜。非常非常喜欢这张EP</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/594459)<br><br>2012-05-21 23:07<br>赞(1) 踩(0) | <div>已经不唱了吗？真可惜。<br>非常非常喜欢这张EP</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287415)<br><br>2012-05-05 23:45<br>赞(1) 踩(0) | <div>小安的嗓子，是为民谣而生。我也认同、</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81933)<br><br>2012-04-28 15:27<br>赞(1) 踩(0) | <div>美人的制作人，生于60、70？，有点怪。期待新专辑，期待.........................</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352246)<br><br>2012-05-13 23:34<br>赞(0) 踩(0) | <div>他已经不唱了哦</div> |
@@ -201,7 +201,7 @@ xiaoanmusic.com
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4258914)<br><br>2011-06-19 17:38<br>赞(1) 踩(0) | <div>小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3060165)<br><br>2011-06-14 22:35<br>赞(1) 踩(0) | <div>17岁时候的小男孩写的歌。可美好。ps我对“美人”“姑娘”这类字眼情有独钟。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3691274)<br><br>2011-04-22 21:22<br>赞(1) 踩(0) | <div>不知道怎么形容，太美了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/606670)<br>哈！某人！<br>2011-04-04 13:16<br>赞(1) 踩(0) | <div>男生小独唱...美人...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/606670)<br>哈！某人！<br>2011-04-04 13:16<br>赞(1) 踩(0) | <div>男生小独唱...<br>美人...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1224366)<br><br>2011-03-05 16:06<br>赞(1) 踩(0) | <div>一首青春郁结的诗  被打动。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198653)<br><br>2011-02-21 10:00<br>赞(1) 踩(0) | <div>给郁结的诗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1437463)<br><br>2010-10-22 17:13<br>赞(1) 踩(0) | <div>太喜欢了！歌词也好，调调也美！</div> |

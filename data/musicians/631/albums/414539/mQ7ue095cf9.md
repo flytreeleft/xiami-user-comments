@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17401)<br>喂 你好 ~<br>2012-07-18 10:54<br>赞(0) 踩(0) | <div>卖梦想的人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17401)<br>喂 你好 ~<br>2012-07-18 10:54<br>赞(0) 踩(0) | <div>卖梦想的人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17401)<br>喂 你好 ~<br>2012-06-26 18:57<br>赞(0) 踩(0) | <div>sell dreams</div> |

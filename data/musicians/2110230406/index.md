@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/341310ea2653a5a6c85d1fad04c11ecd.jpg)<br>关佩佩](https://i.xiami.com/guanpeipei) | **播放数**: 3468190<br>**粉丝数**: 149<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/341310ea2653a5a6c85d1fad04c11ecd.jpg)<br>关佩佩](https://i.xiami.com/guanpeipei) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 3468190<br>**粉丝数**: 149<br>**评论数**: 7<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -22,8 +19,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434962994)<br><br>2020-02-13 15:29<br>赞(0) 踩(0) | <div>很棒，等你发新歌~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345372735)<br><br>2019-08-30 23:01<br>赞(2) 踩(0) | <div>声音听着舒服！好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285344829)<br>「耶穌愛您」<br>2019-05-13 11:31<br>赞(0) 踩(0) | <div>好棒</div> |

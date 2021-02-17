@@ -60,8 +60,8 @@ Vocal录音师/录音室：林克昶Sanbist Lin /台北白金录音室<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-05-26 08:26<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407085769)<br>脱离了高级趣味的人<br>2020-05-16 03:12<br>赞(0) 踩(0) | <div>看破节目气死了，谁不会编曲了啊？？？问题是会编曲和编的好是一回事吗？？？能有更专业的人不用，以为人人都需要&amp;ldquo;证明&amp;rdquo;自己吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376631264)<br>睡个好觉<br>2019-08-24 02:04<br>赞(0) 踩(0) | <div>，</div> |
@@ -86,11 +86,11 @@ Vocal录音师/录音室：林克昶Sanbist Lin /台北白金录音室<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285376666)<br>有多扎心.<br>2018-03-04 18:59<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309310812)<br> <br>2018-03-04 06:16<br>赞(0) 踩(0) | <div>陈粒就这样火了越来越火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125099130)<br>有些爱只会在记忆里~<br>2018-03-01 21:09<br>赞(1) 踩(0) | <div>老公的曲风多样化呀！ <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">支持老公！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349999613)<br><br>2018-03-01 09:00<br>赞(2) 踩(0) | <div>喧闹静默并呈要爱不要疑问</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349999613)<br><br>2018-03-01 09:00<br>赞(2) 踩(0) | <div>喧闹静默并呈<br>要爱不要疑问</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343300299)<br><br>2018-03-31 08:31<br>赞(0) 踩(0) | <div>弋戈壁滩、迪\迟</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343300299)<br><br>2018-03-31 08:31<br>赞(0) 踩(0) | <div>弋戈壁滩、迪\迟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329828145)<br>dx于朦胧<br>2018-02-28 15:33<br>赞(2) 踩(0) | <div>call the animal <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png">接</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302321139)<br>            ...<br>2018-02-28 14:59<br>赞(0) 踩(0) | <div>我喜欢叫别人和我一起听这首歌等到他们以后再听这首歌的时候，或许会想起我的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302321139)<br>            ...<br>2018-02-28 14:59<br>赞(0) 踩(0) | <div>我喜欢叫别人和我一起听这首歌<br>等到他们以后再听这首歌的时候，或许会想起我的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328449603)<br><br>2018-02-28 13:06<br>赞(0) 踩(0) | <div>俏皮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336605198)<br><br>2018-02-28 10:42<br>赞(0) 踩(0) | <div>一般</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333139522)<br>日天之力<br>2018-02-27 20:02<br>赞(0) 踩(0) | <div>6660K</div> |
@@ -162,7 +162,7 @@ Vocal录音师/录音室：林克昶Sanbist Lin /台北白金录音室<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127433504)<br><br>2017-12-25 08:15<br>赞(3) 踩(0) | <div>羽毛 飞起 落地 有声有形</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266177169)<br>我还没想好要写什么...<br>2017-12-25 08:14<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127433504)<br><br>2017-12-25 07:28<br>赞(1) 踩(0) | <div>你是最浪漫自由的存在 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90115518)<br><br>2017-12-25 00:19<br>赞(4) 踩(0) | <div>时尚 美丽 电子陈粒不停刷新认知</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90115518)<br><br>2017-12-25 00:19<br>赞(4) 踩(0) | <div>时尚 美丽 电子<br>陈粒不停刷新认知</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23613046)<br> <br>2017-12-25 00:15<br>赞(2) 踩(0) | <div>打call咯打call</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285513695)<br> <br>2017-12-25 00:15<br>赞(2) 踩(0) | <div>w</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306281231)<br><br>2017-12-24 21:13<br>赞(2) 踩(0) | <div>嗯嗯</div> |
@@ -234,7 +234,7 @@ Vocal录音师/录音室：林克昶Sanbist Lin /台北白金录音室<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5409422)<br> <br>2017-12-14 09:37<br>赞(1) 踩(0) | <div>❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211730850)<br>你流浪着，我还未殇，故事...<br>2017-12-14 07:25<br>赞(2) 踩(0) | <div>人生路上，全靠浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296965855)<br>我只是听歌<br>2017-12-14 05:58<br>赞(2) 踩(0) | <div>我的天！ 是不是真的？ 开口不看谁唱的还以为是王菲啊。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275958554)<br><br>2017-12-14 01:18<br>赞(0) 踩(0) | <div>老公加油～希望以后少接广告好吗想听你自己的音乐。比心～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275958554)<br><br>2017-12-14 01:18<br>赞(0) 踩(0) | <div>老公加油～<br>希望以后少接广告好吗<br>想听你自己的音乐。比心～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46822852)<br><br>2017-12-13 23:29<br>赞(0) 踩(0) | <div>不错的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262939821)<br><br>2017-12-13 23:18<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25269509)<br><br>2017-12-13 23:15<br>赞(0) 踩(0) | <div>好听</div> |
@@ -310,7 +310,7 @@ Vocal录音师/录音室：林克昶Sanbist Lin /台北白金录音室<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2968260)<br>暂无签名~<br>2017-12-10 19:02<br>赞(0) 踩(0) | <div>任务</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338095229)<br><br>2017-12-10 18:45<br>赞(0) 踩(0) | <div>没听过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333416090)<br><br>2017-12-10 18:42<br>赞(0) 踩(0) | <div>好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332172798)<br>sorry, so so...<br>2017-12-10 18:33<br>赞(3) 踩(0) | <div>喧闹与寂寞并呈要爱不要疑问</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332172798)<br>sorry, so so...<br>2017-12-10 18:33<br>赞(3) 踩(0) | <div>喧闹与寂寞并呈<br>要爱不要疑问</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188397940)<br>两人戚戚，岁月久久。 /...<br>2017-12-10 17:47<br>赞(1) 踩(0) | <div>这首和以前的不太一样了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330237013)<br>多谢你如此精彩耀眼做我平...<br>2017-12-10 17:25<br>赞(0) 踩(0) | <div>亮晶晶 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292181787)<br>贫穷使我冷静<br>2017-12-10 17:13<br>赞(0) 踩(0) | <div>女神</div> |
@@ -357,10 +357,10 @@ Vocal录音师/录音室：林克昶Sanbist Lin /台北白金录音室<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31197924)<br>Future<br>2017-12-10 06:23<br>赞(0) 踩(0) | <div>挺喜欢陈粒的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247406976)<br>很短很短的银河<br>2017-12-10 01:27<br>赞(0) 踩(0) | <div>眼睛进东西了 闭着一只眼睛看歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329342874)<br> <br>2017-12-10 01:07<br>赞(0) 踩(0) | <div>迷幻</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299840536)<br>行藏在我。<br>2017-12-10 00:30<br>赞(2) 踩(0) | <div>陈粒将这首歌定义为：宇宙秩序的内涵。喧闹静默并呈，要爱不要疑问。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299840536)<br>行藏在我。<br>2017-12-10 00:30<br>赞(2) 踩(0) | <div>陈粒将这首歌定义为：宇宙秩序的<br>内涵。喧闹静默并呈，要爱不要疑问。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323416326)<br>输入个性签名……<br>2017-12-10 00:26<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292594019)<br><br>2017-12-10 00:19<br>赞(2) 踩(0) | <div>很好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318436997)<br>宇宙深处深深迷恋勋鹿的爱...<br>2017-12-09 23:47<br>赞(305) 踩(0) | <div>她还是她。潇洒到骨子里的她。想爱就爱，绝不后悔的她。我喜欢的她。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318436997)<br>宇宙深处深深迷恋勋鹿的爱...<br>2017-12-09 23:47<br>赞(305) 踩(0) | <div>她还是她。<br>潇洒到骨子里的她。<br>想爱就爱，绝不后悔的她。<br>我喜欢的她。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268463295)<br>世勋呐～你是我的梦，更是...<br>2017-12-16 12:50<br>赞(0) 踩(0) | <div>勋鹿❤</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318436997)<br>宇宙深处深深迷恋勋鹿的爱...<br>2017-12-17 19:35<br>赞(0) 踩(0) | <div><q><b>清欢渡.说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11865810)<br>海纳百川。<br>2017-12-20 11:00<br>赞(0) 踩(0) | <div>确实潇洒，以前有些歌唱得有点刻意，所以就不关注了，这首歌听了又觉得很不错，以后还能听别的。</div> |
@@ -391,7 +391,7 @@ Vocal录音师/录音室：林克昶Sanbist Lin /台北白金录音室<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316345779)<br><br>2017-12-09 18:43<br>赞(3) 踩(0) | <div>粒粒声音一如既往的好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299840536)<br>行藏在我。<br>2017-12-09 18:03<br>赞(2) 踩(0) | <div>陈粒将这首歌定义为：宇宙秩序的内涵。喧闹静默并呈，要爱不要疑问。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5493286)<br>。<br>2017-12-09 18:01<br>赞(0) 踩(0) | <div>嗯</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299840536)<br>行藏在我。<br>2017-12-09 17:57<br>赞(3) 踩(0) | <div>脸颊！眼睛！汗毛！都亮晶晶！&amp;nbsp;语言！沉默！快乐！都超具体！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299840536)<br>行藏在我。<br>2017-12-09 17:57<br>赞(3) 踩(0) | <div>脸颊！眼睛！汗毛！都亮晶晶！&amp;nbsp;<br>语言！沉默！快乐！都超具体！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330237013)<br>多谢你如此精彩耀眼做我平...<br>2017-12-09 17:49<br>赞(0) 踩(0) | <div>超好听 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204513519)<br><br>2017-12-09 17:45<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211706128)<br>我还没想好要写什么...<br>2017-12-09 17:28<br>赞(1) 踩(0) | <div>女神</div> |
@@ -417,7 +417,7 @@ Vocal录音师/录音室：林克昶Sanbist Lin /台北白金录音室<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112754718)<br><br>2017-12-09 09:54<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19838698)<br>我还没想好要写什么...<br>2017-12-09 09:44<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339169288)<br><br>2017-12-09 09:40<br>赞(0) 踩(0) | <div>大爱陈粒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333035905)<br><br>2017-12-09 09:29<br>赞(3) 踩(0) | <div>作词:陈粒作曲:陈粒编曲:陈粒制作人:陈粒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333035905)<br><br>2017-12-09 09:29<br>赞(3) 踩(0) | <div>作词:陈粒<br>作曲:陈粒<br>编曲:陈粒<br>制作人:陈粒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325124349)<br><br>2017-12-09 09:22<br>赞(0) 踩(0) | <div>做自己喜欢的音乐！陈粒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334497503)<br><br>2017-12-09 09:17<br>赞(0) 踩(0) | <div>不知道什么歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316832321)<br>太阳尚远，但必有太阳<br>2017-12-09 09:08<br>赞(3) 踩(0) | <div>自从听了你的《周游》后，开始关注你 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png">现在你一次次给我惊喜 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |

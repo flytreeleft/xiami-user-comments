@@ -33,5 +33,3 @@ Thomas tomba t il ou ne tomba t il pas
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

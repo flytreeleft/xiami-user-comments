@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/497807a94577dcc99b3eb5ce73a97cd7.jpg)<br>七朵组合](https://i.xiami.com/sevensense) | **播放数**: 12648787<br>**粉丝数**: 10818<br>**评论数**: 311<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 中国风 China-Wave<br> |
+| [![](../../images/musicians/497807a94577dcc99b3eb5ce73a97cd7.jpg)<br>七朵组合](https://i.xiami.com/sevensense) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 中国风 China-Wave<br>**播放数**: 12648787<br>**粉丝数**: 10818<br>**评论数**: 311<br> |
 
 ## 档案
 
@@ -38,8 +38,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1166197)<br>用心感受好音乐<br>2021-01-03 10:34<br>赞(0) 踩(0) | <div>反正七朵在微博的账号和B站的账号我已经取关了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1166197)<br>用心感受好音乐<br>2021-01-03 10:31<br>赞(0) 踩(0) | <div>大朵许祺曼退团后主攻舞蹈，2018年结婚，2019年诞下一女&amp;ldquo;小法馨&amp;rdquo;；二朵喻筱博化身美妆博主，之后投身演艺圈成为演员忙着拍戏；三朵颜灵兰偶尔直播拍拍vlog；四朵韦欢初为人母，与黑钻老总何亮结婚后在2020年12月23日诞下一女&amp;ldquo;小糯米&amp;rdquo;成为宝妈；五朵吴圆圆发单曲录综艺排舞蹈忙的风生水起；六朵罗喻敏退团后成功转型励志女神，在深圳自主创业做起了社交电商，拥有两家公司；七朵(小朵)刘木子忙着录制综艺节目。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1166197)<br>用心感受好音乐<br>2021-01-03 10:31<br>赞(0) 踩(0) | <div>2020年12月11日，真*二代七朵组合正式出道了，以前的老七朵组合再也不会回来了，官方也没有给出任何解散或退团之类的说法，不过显而易见的，只剩下五人的老一代七朵们各自都在忙自己的事，我们追随了8年的第一支中国风C-POP女子组合就这样结束了，我很感伤。 <img src="../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
@@ -101,9 +101,9 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9287926)<br>音乐是灵魂的完美表现<br>2017-11-15 23:20<br>赞(0) 踩(0) | <div>我也是，从她们出道时就喜欢她们了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310884744)<br><br>2017-11-04 00:29<br>赞(1) 踩(0) | <div>加油↖(^&amp;omega;^)↗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197622841)<br> <br>2017-10-30 19:06<br>赞(1) 踩(0) | <div>为七朵疯狂打电话</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7564554)<br><br>2017-10-30 10:19<br>赞(2) 踩(0) | <div>MV确实好差，可惜了好歌呢~希望以后每首歌都能是这么好听的中国风~看了练习室版的有种惊艳的感觉，加油啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7564554)<br><br>2017-10-30 10:19<br>赞(2) 踩(0) | <div>MV确实好差，可惜了好歌呢~<br>希望以后每首歌都能是这么好听的中国风~看了练习室版的有种惊艳的感觉，加油啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3574346)<br><br>2017-10-28 00:11<br>赞(0) 踩(0) | <div>学谁不好要学韩国棒子，连封面都模仿。还是就听歌好了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46648483)<br><br>2017-10-27 23:59<br>赞(4) 踩(0) | <div>Aero   是虾米管理员的小号，烂用职权封号。不给人发言自由。。。大家小心你们的用词。Aero   是虾米管理员的小号，烂用职权封号。不给人发言自由。。。大家小心你们的用词。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46648483)<br><br>2017-10-27 23:59<br>赞(4) 踩(0) | <div>Aero   是虾米管理员的小号，烂用职权封号。<br>不给人发言自由。。。<br><br>大家小心你们的用词。<br>Aero   是虾米管理员的小号，烂用职权封号。<br>不给人发言自由。。。<br><br>大家小心你们的用词。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46212442)<br>暂无签名~<br>2017-10-27 23:37<br>赞(1) 踩(0) | <div>歌好听，舞跳的挺好看，喜欢她们这种中国风，加油哦！七朵组合！ <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3257661)<br>Semper Eadem<br>2017-10-27 23:21<br>赞(3) 踩(0) | <div>看了咏春正式的MV。。完全没有排练室版本带给我的惊艳啊。。妹子声音不错，舞也跳得好，可惜这MV。。剧情挺二的，服装一般般，而且还闻到了山寨的味道。。T^T还是看排练室版本的好了。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38154960)<br> <br>2017-10-23 13:40<br>赞(3) 踩(0) | <div>看了暴漫才知道木子女神是个歌手来着。。。。</div> |
@@ -117,7 +117,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328747119)<br><br>2017-10-06 15:01<br>赞(2) 踩(0) | <div>喜欢喜欢 <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11225224)<br>哔哩哔哩up主 绫人太太...<br>2017-10-04 00:44<br>赞(2) 踩(0) | <div>中国女团只支持你们！！！小姐姐们加油！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72937504)<br>为什么要不开心呢，夜宵添...<br>2017-10-03 01:52<br>赞(1) 踩(0) | <div>小姐姐们加油(๑&amp;bull;̀ㅂ&amp;bull;́)و✧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92515436)<br>早晨的阳光如此的灿烂<br>2017-10-02 15:55<br>赞(0) 踩(0) | <div>与众不同的七朵为七朵疯狂打call(≧&amp;omega;≦)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92515436)<br>早晨的阳光如此的灿烂<br>2017-10-02 15:55<br>赞(0) 踩(0) | <div>与众不同的七朵<br>为七朵疯狂打call(≧&amp;omega;≦)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268649011)<br><br>2017-10-01 23:49<br>赞(1) 踩(0) | <div>超爱小姐姐们的声音 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310896547)<br>就只是个热爱王者荣耀和动...<br>2017-09-30 10:37<br>赞(2) 踩(0) | <div>为啥我要这么迟才认识到七朵【撞墙】，支持七朵，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41715737)<br>喜欢简直就是把人变蠢的魔...<br>2017-09-30 07:30<br>赞(25) 踩(0) | <div>韩国女团舞是性感和可爱居多，比较西化，看多了其实有点腻，总觉得没什么文化内涵，但是我们的朵儿舞蹈，非常的含蓄优雅，非常的女人味儿，非常的大家闺秀，可以说是我泱泱大中华传承千年的文化底蕴的一个女性仪态方面的美丽体现~自信舒展，如此曼妙的舞蹈演绎，和优美的歌词旋律结合，太感动了~谢谢你们，美丽的姑娘们，愿你们能坚持下去，加油！</div> |
@@ -146,7 +146,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285366998)<br>欣欣<br>2017-08-30 23:25<br>赞(0) 踩(0) | <div>加油吧，继续故风。你们很不错，虽然你们不出名，但是你们至少为你们的梦想努力过。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285710240)<br>无情乃大道<br>2017-06-24 15:48<br>赞(1) 踩(0) | <div>↖(^&amp;omega;^)↗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285710240)<br>无情乃大道<br>2017-06-24 15:47<br>赞(1) 踩(0) | <div>非常喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15500068)<br>贯彻三个代表重要思想<br>2017-06-12 15:56<br>赞(2) 踩(0) | <div>一开始还以为怎么那么土？？？？？还很雷直到我点开首页的几首歌那么好的组合为何解散，简直吊打现在各种组合</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15500068)<br>贯彻三个代表重要思想<br>2017-06-12 15:56<br>赞(2) 踩(0) | <div>一开始还以为怎么那么土？？？？？还很雷<br><br>直到我点开首页的几首歌<br><br><br>那么好的组合为何解散，简直吊打现在各种组合</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47532153)<br>同行十六年，不知木兰是女...<br>2017-09-15 23:15<br>赞(0) 踩(0) | <div>现在回归了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120427980)<br> <br>2017-12-24 09:29<br>赞(0) 踩(0) | <div>有这想法的不止你一个、完全被当初的公司给毁了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290765530)<br><br>2017-06-10 19:58<br>赞(6) 踩(0) | <div>真的非常好听，最喜欢古风歌了，七朵花的歌让我的心灵平静，思绪迭起，永远喜欢你们，爱你们呦！！！！！！！！</div> |
@@ -162,7 +162,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/180428296)<br><br>2017-04-08 22:59<br>赞(1) 踩(0) | <div>国内真的很需要像七朵这种组合，可惜了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286097651)<br><br>2017-04-05 13:50<br>赞(0) 踩(0) | <div>中国风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16135450)<br><br>2017-04-01 22:15<br>赞(0) 踩(0) | <div>9320</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281914496)<br>魔笛一响，天下乱<br>2017-03-20 16:29<br>赞(0) 踩(0) | <div>人如七仙子，歌赛黄莺声，如见见一面，魂飘九云天。___彭庆</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281914496)<br>魔笛一响，天下乱<br>2017-03-20 16:29<br>赞(0) 踩(0) | <div>人如七仙子，歌赛<br>黄莺声，如见见一面，魂飘九云天。___彭庆</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43764010)<br><br>2017-03-17 19:21<br>赞(2) 踩(0) | <div>为什么解散了呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279251352)<br><br>2017-03-12 21:02<br>赞(1) 踩(0) | <div>支持中国风组合，期待你们更多更好的作品！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279840073)<br><br>2017-03-12 16:26<br>赞(2) 踩(0) | <div>七朵组合爱你</div> |
@@ -177,7 +177,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243634021)<br><br>2016-11-22 18:33<br>赞(0) 踩(0) | <div>迪高好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79871254)<br><br>2016-11-14 23:04<br>赞(2) 踩(0) | <div>资金严重缺乏，明明很漂亮的妹子被造型一秒毁了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79871254)<br><br>2016-11-14 23:00<br>赞(1) 踩(0) | <div>很喜欢，有古典韵味的女孩子</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243404516)<br><br>2016-11-06 11:59<br>赞(0) 踩(0) | <div>有梦想就会有未来，我为正在奋斗青年点赞</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243404516)<br><br>2016-11-06 11:59<br>赞(0) 踩(0) | <div>有梦想就会有未来，我为正在奋斗青年点<br>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243292140)<br><br>2016-11-05 22:19<br>赞(0) 踩(0) | <div>好好跳舞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237287454)<br><br>2016-11-04 09:59<br>赞(0) 踩(0) | <div>加油↖(^ω^)↗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52811661)<br><br>2016-08-23 23:02<br>赞(2) 踩(0) | <div>加油</div> |
@@ -238,16 +238,16 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52672380)<br><br>2015-08-10 16:41<br>赞(0) 踩(0) | <div>加油！七朵最棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6491765)<br>我只是个门外汉。<br>2015-07-01 13:21<br>赞(1) 踩(0) | <div>好怀念《咏春》的时候啊！感觉不LOW又流行的中国风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50747650)<br><br>2015-06-27 19:40<br>赞(0) 踩(0) | <div>可惜了，，，</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7562991)<br><br>2015-06-07 09:48<br>赞(0) 踩(0) | <div>七朵的幕后制作团队是不是韩国的？？有知道内情的吗？？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7562991)<br><br>2015-06-07 09:48<br>赞(0) 踩(0) | <div>七朵的幕后制作团队是不是韩国的？？<br>有知道内情的吗？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43978207)<br>在音乐中成长<br>2015-05-30 17:30<br>赞(1) 踩(0) | <div>很清新的组合，深受我们学校的学生喜欢，《咏春》和《落花情》都曾经作为班级舞蹈在学校文艺汇演节目演出。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47339769)<br><br>2015-12-02 20:55<br>赞(0) 踩(0) | <div>对，每次学院晚会，都会用她们的曲子和编舞，可惜了，公司不给力。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47555276)<br>己欲立而立人，己欲达而达...<br>2015-05-07 21:05<br>赞(0) 踩(0) | <div>加油啊！振作起来！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2714996)<br>https://www....<br>2015-04-06 12:44<br>赞(0) 踩(0) | <div>ლ(╹◡╹ლ) <a href="http://www.yinyuetai.com/video/489221" target="_blank" rel="nofollow noreferrer noopener">http://www.yinyuetai.com/video/489221</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46814727)<br>企鹅1751884293<br>2015-03-30 23:06<br>赞(0) 踩(0) | <div>1-不能老是以中国风为主，限制了本身的发展。2-加多宣传，现团员2人，可以考虑更换组名，搞一个唱跳组合。3-一定不要限制组员，加大宣传。我看好你们！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46814727)<br>企鹅1751884293<br>2015-03-30 23:06<br>赞(0) 踩(0) | <div>1-不能老是以中国风为主，限制了本身的发展。<br>2-加多宣传，现团员2人，可以考虑更换组名，搞一个唱跳组合。<br>3-一定不要限制组员，加大宣传。我看好你们！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46814727)<br>企鹅1751884293<br>2015-03-30 23:00<br>赞(0) 踩(0) | <div>Yeah Rap</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36060769)<br><br>2015-03-17 20:20<br>赞(1) 踩(0) | <div>大腿玉生烟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11180438)<br>虾米的会员到底能干嘛。。...<br>2015-03-10 14:16<br>赞(1) 踩(0) | <div>现在还剩下几朵？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1949345)<br>Skong(司空)<br>2015-02-22 18:47<br>赞(27) 踩(0) | <div>既然都认证了，说明组合的每个成员以及公司的制作人都会看到虾米的评论，一定要好好考虑热门评论的建议，坚持自我，不要向市场妥协，妥协虽然迎合了世俗的口味，却也丢了逼格（妥协的反面的例子：王蓉）。既然你们是以组合的形式出来，那么你们的目标受众就是青少年群体，现在青少年群体的品味越来越高，坚持中国风或者古风，绝对没问题。千万不要学XX传奇一样迎合中老年口味，那样就完了。记住：你越妥协越LOW，越不妥协越有市场。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1949345)<br>Skong(司空)<br>2015-02-22 18:47<br>赞(27) 踩(0) | <div>既然都认证了，说明组合的每个成员以及公司的制作人都会看到虾米的评论，一定要好好考虑热门评论的建议，坚持自我，不要向市场妥协，妥协虽然迎合了世俗的口味，却也丢了逼格（妥协的反面的例子：王蓉）。<br>既然你们是以组合的形式出来，那么你们的目标受众就是青少年群体，现在青少年群体的品味越来越高，坚持中国风或者古风，绝对没问题。千万不要学XX传奇一样迎合中老年口味，那样就完了。<br>记住：你越妥协越LOW，越不妥协越有市场。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353123637)<br><br>2019-03-22 19:19<br>赞(0) 踩(0) | <div>金属区能见你，这里也能见，缘分</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6276015)<br>我极少听流行歌曲<br>2015-02-09 22:08<br>赞(2) 踩(0) | <div>额，我居然听出了S.H.E的感觉……由衷喜欢体现国风的歌曲，加油！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1030263)<br>躲个猫猫笑破肚<br>2015-01-24 10:44<br>赞(0) 踩(0) | <div>加油！</div> |
@@ -291,7 +291,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20614898)<br>已成年<br>2013-08-30 11:32<br>赞(0) 踩(0) | <div>或许七月进入的时候是因为爱中国风，后来是因为她们的努力执着善良，亦或是七叶草和蔷薇的温暖。但是一年多过去，我想已经不需要理由了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5043018)<br><br>2013-08-24 14:45<br>赞(0) 踩(0) | <div>支持中国风=v=!!!~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3557485)<br> <br>2013-08-19 17:01<br>赞(0) 踩(0) | <div>相当靠谱有潜力有前途的组合啊。咏春中迷上了美腿和扇子！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2543291)<br>氪星girl//银河系漫...<br>2013-08-16 14:31<br>赞(1) 踩(0) | <div>歌不错，MV什么的，能学出个韩国小清新也好啊..多多加油吧</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2543291)<br>氪星girl//银河系漫...<br>2013-08-16 14:31<br>赞(1) 踩(0) | <div>歌不错，MV什么的，能学出个韩国小清新也好啊..<br>多多加油吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2376208)<br><br>2013-08-12 11:59<br>赞(1) 踩(0) | <div>长得好看 90后</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2376208)<br><br>2013-08-12 11:59<br>赞(0) 踩(0) | <div>长得好看 90后</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3593362)<br>我是重口味界里最小清新的<br>2013-08-09 17:21<br>赞(1) 踩(0) | <div>歌与舞都不错，很有潜力，只是你们的包装实在是……加油吧。</div> |

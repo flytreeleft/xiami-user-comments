@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352629116)<br>贝多芬，肖邦，莫扎特，海...<br>2021-01-19 19:09<br>赞(0) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443231199)<br><br>2021-01-06 22:10<br>赞(0) 踩(0) | <div>要走了，再见了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16178749)<br>愿各自安好……………… <br>2020-10-19 04:45<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
@@ -30,10 +27,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287017)<br>姌稥毓影，复刻轻悠<br>2020-07-17 06:15<br>赞(3) 踩(0) | <div>✨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423499985)<br><br>2020-07-16 12:31<br>赞(4) 踩(0) | <div>静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181301916)<br>你是 / 梦里星辰  心...<br>2020-07-08 17:44<br>赞(3) 踩(0) | <div>也许是在想念你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85015794)<br>爱自己才是终生浪漫的开始<br>2020-03-20 01:50<br>赞(9) 踩(0) | <div>1颜值高了真的可以会有vip待遇2有钱了说话真的会硬气,3当你变强了身边真的都是朋友4读书真的有用家庭的影响真的很重要,足可以影响一个人的一生5每个人只能陪一段路学会独处6早睡早起身体真的才好7错过的机会不再来8学会分辨什么是客套话什么是真心话9高调做事低调做人闷声发才能发大财10每个人只能陪你走一段学会独处11你尽管用力跑，爱你的人会追上来，12当你成功了除了家人没人替你开心,13教养不是装出来的14不学习的人别人说什么你就会信什么都信15想提升自己得社交圈需要提升自己你若盛开蝴蝶自来尽管用力跑16成年人的世界不回应就是拒绝</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85015794)<br>爱自己才是终生浪漫的开始<br>2020-03-20 01:50<br>赞(9) 踩(0) | <div>1颜值高了真的可以会有vip待遇2有钱了说话真的会硬气,3当你变强了身边真的都是朋友4读书真的有用家庭的影响真的很重要,足可以影响一个人的一生5每个人只能陪一段路学会独处6早睡早起身体真的才好7错过的机会不再来<br>8学会分辨什么是客套话什么是真心话9高调做事低调做人闷声发才能发大财10每个人只能陪你走一段学会独处11你尽管用力跑，爱你的人会追上来，12当你成功了除了家人没人替你开心,13教养不是装出来的14不学习的人别人说什么你就会信什么都信15想提升自己得社交圈需要提升自己你若盛开蝴蝶自来<br>尽管用力跑16成年人的世界不回应就是拒绝</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408295635)<br>未言之言，尽言。<br>2020-08-10 07:43<br>赞(0) 踩(0) | <div>很经典 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265739435)<br><br>2020-02-17 16:15<br>赞(1) 踩(0) | <div>喜欢在一片音乐海里寻找心灵宁静的角落…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265739435)<br><br>2020-02-17 15:57<br>赞(1) 踩(0) | <div>符合这个时代的心境…唯美而伤感，现代风中不失典雅。当你感觉心里遗落了什么时，静静聆听的疗愈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265739435)<br><br>2020-02-17 15:57<br>赞(1) 踩(0) | <div>符合这个时代的心境…唯美而伤感，现代风中不失典雅。<br>当你感觉心里遗落了什么时，静静聆听的疗愈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2020-02-16 00:12<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284419598)<br><br>2019-12-19 00:54<br>赞(2) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/989522)<br>暂无签名~<br>2019-01-28 09:42<br>赞(2) 踩(0) | <div>深呼吸努力不崩溃</div> |
@@ -44,7 +41,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246459923)<br>居安思危<br>2018-03-19 22:43<br>赞(2) 踩(0) | <div>wow</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289938151)<br><br>2018-01-29 21:26<br>赞(3) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6367112)<br>人生如乐<br>2017-10-04 11:47<br>赞(6) 踩(0) | <div>无论你在世界的哪个角落，无论你是欢喜还是悲忧，总有阳光和月光照耀，微光总会抚平一切。中秋节快乐！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50534716)<br>静若泰山动如Tarzan<br>2017-09-21 23:34<br>赞(11) 踩(0) | <div>轻盈的步履带着受伤的心和隐藏的心事略过泛着微光的角落</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50534716)<br>静若泰山动如Tarzan<br>2017-09-21 23:34<br>赞(11) 踩(0) | <div>轻盈的步履<br>带着受伤的心和隐藏的心事<br>略过泛着微光的角落</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265589180)<br>你是很迷人，但我得回家<br>2017-09-19 11:41<br>赞(2) 踩(0) | <div>听到秋天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3968563)<br>我还没想好要写什么...<br>2017-09-17 23:32<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49587040)<br> <br>2017-09-17 08:57<br>赞(19) 踩(0) | <div>林海无愧于中国音乐界的翘楚 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |

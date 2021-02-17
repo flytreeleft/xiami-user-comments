@@ -55,8 +55,8 @@ NA... NA... 南方 南方... 南方<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11704065)<br>讲不出再见<br>2021-01-12 06:19<br>赞(2) 踩(0) | <div>听一天少一天了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373078286)<br>亲人：是最好的归宿 朋友...<br>2021-01-11 21:29<br>赞(0) 踩(0) | <div>每次听到这首南方姑娘 就想起澜沧时光 想起了一个人 一个地方一个现在天堂的大哥   哥你在那边还好吗 <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"> 还有现在的那个你 怎么样了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359638847)<br><br>2021-01-08 22:13<br>赞(0) 踩(0) | <div>爱一个人就像在海滩上捡贝壳，不要捡最大的也不要捡最漂亮的，就捡你最喜欢的那一个，捡到了，就永远不要再去海滩。</div> |
@@ -64,7 +64,7 @@ NA... NA... 南方 南方... 南方<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123904264)<br><br>2020-12-12 15:34<br>赞(1) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356722012)<br><br>2020-11-10 22:11<br>赞(0) 踩(0) | <div>从来没去过北方，这三十年只在四川，云南，广东，海南，福建待过。也不想去那边，不是一个生活习惯，饮食的体系。也没有任何值得我想去的地方。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302118641)<br><br>2020-11-27 09:50<br>赞(0) 踩(0) | <div>中国那么大，好好去看看，精彩总是在不经意的瞬间</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421602102)<br>一念放下，万般自在<br>2020-11-09 22:15<br>赞(1) 踩(0) | <div>有一种心情直到难眠时才发现是相思</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421602102)<br>一念放下，万般自在<br>2020-11-09 22:15<br>赞(1) 踩(0) | <div>有一种心情<br>直到难眠时<br>才发现是相思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2020-08-28 00:29<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335099015)<br>梧桐吹散我的四月。<br>2020-07-29 21:08<br>赞(1) 踩(0) | <div>快乐的忧愁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282997775)<br><br>2020-07-29 08:49<br>赞(0) 踩(0) | <div>垃圾的歌曲</div> |
@@ -82,7 +82,7 @@ NA... NA... 南方 南方... 南方<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335099015)<br>梧桐吹散我的四月。<br>2020-01-11 11:57<br>赞(0) 踩(0) | <div>行吧，我是没有故事的小屁孩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316261284)<br>到最后……<br>2019-11-21 21:02<br>赞(1) 踩(0) | <div>、ヽ｀｀、ヽ｀ヽ｀、、、ヽ｀｀ヽヽ｀ヽ、ヽ｀ヽ｀、ヽ｀｀、ヽ｀｀、ヽ｀ヽ｀、、、ヽ｀｀ヽヽ｀ヽ、ヽ｀ヽ｀、ヽ｀｀、ヽ｀｀、ヽ｀ヽ｀、、、ヽ｀｀ヽヽ｀ヽ、ヽ｀ヽ｀、ヽ｀｀、ヽ｀｀、ヽ｀ヽ｀、、、ヽ｀｀ヽヽ｀ヽ、ヽ｀ヽ｀、ヽ｀｀ 、｀ヽ｀、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24778056)<br><br>2019-09-05 16:54<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8088517)<br>我还没想好要写什么...<br>2019-09-03 20:48<br>赞(1) 踩(0) | <div>这是你唱给我的歌Q宝 爱你119</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8088517)<br>我还没想好要写什么...<br>2019-09-03 20:48<br>赞(1) 踩(0) | <div>这是你唱给我的歌<br>Q宝 爱你<br>119</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424858395)<br><br>2019-09-01 17:43<br>赞(2) 踩(0) | <div>歌好听不厌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352976025)<br>晴天 万里无云<br>2019-08-31 18:10<br>赞(1) 踩(0) | <div>输不起，输不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35778038)<br>我还没想好要写什么..<br>2019-08-17 01:58<br>赞(1) 踩(0) | <div>慢慢的你发现  自己喜欢的姑娘  只存在于别人的歌里和自己的幻想里 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -105,7 +105,7 @@ NA... NA... 南方 南方... 南方<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346999829)<br>没有什么尽头<br>2019-03-29 08:44<br>赞(0) 踩(0) | <div>哈哈哈，别人出国要么留学要么深造要么旅游，我他妈不是逃命就是被砍...好像回到抗战前。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50189899)<br>你身边也会有珍惜你的人<br>2019-03-17 17:35<br>赞(3) 踩(0) | <div>像男朋友唱歌给我听一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277445013)<br><br>2019-03-07 05:19<br>赞(5) 踩(0) | <div>有些人的爱像风看不到却感受的到……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231100511)<br>若为自由喜欢一个人<br>2019-03-01 19:55<br>赞(2) 踩(0) | <div>其实人们并不是害怕失去 而是害怕失去以后没有更好的可以代替当你可以为一个人放下所有 认为她无可替代千金不换的时候那就是爱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231100511)<br>若为自由喜欢一个人<br>2019-03-01 19:55<br>赞(2) 踩(0) | <div>其实人们并不是害怕失去 而是害怕失去以后没有更好的可以代替<br><br>当你可以为一个人放下所有 认为她无可替代千金不换的时候那就是爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362593986)<br>花开如梦，笑颜如初.<br>2019-02-12 17:26<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11704065)<br>讲不出再见<br>2019-02-09 18:44<br>赞(1) 踩(0) | <div>我想找一个南方姑娘，她在哪？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15903195)<br>暂无签名~<br>2019-02-02 01:32<br>赞(0) 踩(0) | <div>嘿</div> |
@@ -136,7 +136,7 @@ NA... NA... 南方 南方... 南方<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253462965)<br><br>2018-06-27 16:56<br>赞(2) 踩(0) | <div>各位，我创建了一个歌单《怀念我们的青春》，给虾米投稿却没有回应，所以希望大家可以去听一下，好的音乐需要分享，相信你们会喜欢的，如果有意见可以提出来，谢谢支持.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353654156)<br><br>2018-06-02 05:33<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19092813)<br><br>2018-05-30 23:33<br>赞(1) 踩(0) | <div>听了很多歌，最后真的算百听不厌的只有南方姑娘。  一百个听众就有一百个南方姑娘。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198150152)<br>不怪你过于优秀。这不是罪...<br>2018-05-30 22:44<br>赞(0) 踩(0) | <div>rap听烦了。需要Folk嗯</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198150152)<br>不怪你过于优秀。这不是罪...<br>2018-05-30 22:44<br>赞(0) 踩(0) | <div>rap听烦了。需要Folk<br>嗯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314995797)<br><br>2018-05-04 08:38<br>赞(1) 踩(0) | <div>这个版本唱的好听些</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300217618)<br><br>2018-05-01 09:39<br>赞(0) 踩(0) | <div>喜欢这个版本，更有感觉些。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45053915)<br>(눈_눈)<br>2018-04-30 21:08<br>赞(3) 踩(0) | <div>为什么没有人给黑龙江女生写一首北国姑娘呢</div> |
@@ -154,7 +154,7 @@ NA... NA... 南方 南方... 南方<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321947421)<br><br>2018-02-27 20:22<br>赞(0) 踩(0) | <div>主动找北方男朋友不可以吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43586958)<br>我就是我<br>2018-03-10 10:04<br>赞(0) 踩(0) | <div>南方男人不是挺好的吗，做为北方人，北方人不够细腻，而且大男子主义</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401108408)<br><br>2018-12-07 14:26<br>赞(0) 踩(0) | <div><q><b>young forever说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113155766)<br>年少轻狂  幸福时光<br>2018-01-25 15:45<br>赞(4) 踩(0) | <div>《 雨 》你已经飞过&amp;nbsp; 晨星、云层干瘪的尘埃像新生儿一样坠落人间&amp;nbsp;你已经飞过孩童时候小手接雨的屋檐白亮亮的，甚至看不到的童年我不是矗立戈壁的胡杨我只是短暂与你亲昵又匆匆躲离的逃亡者你追逐，撞击，碎裂亮晶晶的，你已经飞过你的润物无声你已经飞过你的无边，却沉默在那片荒芜这片干涸里化作了母亲的河又急急的消失不见了（2017年金秋，戈壁深处，有雨）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113155766)<br>年少轻狂  幸福时光<br>2018-01-25 15:45<br>赞(4) 踩(0) | <div>《 雨 》<br><br>你已经飞过&amp;nbsp; 晨星、云层<br>干瘪的尘埃<br>像新生儿一样坠落人间<br>&amp;nbsp;<br>你已经飞过<br>孩童时候小手接雨的屋檐<br>白亮亮的，甚至看不到的童年<br><br>我不是矗立戈壁的胡杨<br>我只是短暂与你亲昵又匆匆躲离的<br>逃亡者<br><br>你追逐，撞击，碎裂<br>亮晶晶的，你已经飞过<br>你的润物无声<br><br>你已经飞过<br>你的无边，却沉默在那片荒芜这片干涸里<br>化作了母亲的河<br>又急急的消失不见了<br>（2017年金秋，戈壁深处，有雨）</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356184581)<br><br>2018-09-01 15:55<br>赞(0) 踩(0) | <div>好诗!</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113155766)<br>年少轻狂  幸福时光<br>2018-09-02 14:34<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247129695)<br><br>2018-01-25 09:11<br>赞(0) 踩(0) | <div>李常青，你能看到吗？虽然现在大家都有了自己的家庭，但依旧希望在一起的时光不要忘怀，你能看到吗？南方姑娘</div> |
@@ -223,14 +223,14 @@ NA... NA... 南方 南方... 南方<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265677467)<br>9<br>2017-10-20 15:16<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/161534788)<br>你好甜<br>2017-10-08 00:41<br>赞(2) 踩(0) | <div>最近在学着&amp;hellip;哈哈哈</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269832431)<br>罪与罚<br>2017-10-08 18:34<br>赞(0) 踩(0) | <div>厉害！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264753344)<br>无人问我粥可温，无人与我...<br>2017-09-27 00:05<br>赞(2) 踩(0) | <div>你什么样子我都见过，就是没见过你爱我和穿婚纱的样子，躲得过对酒当歌的夜，躲不过四下无人的街谁又在乎过我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264753344)<br>无人问我粥可温，无人与我...<br>2017-09-27 00:05<br>赞(2) 踩(0) | <div>你什么样子我都见过，就是没见过你爱我和穿婚纱的样子，躲得过对酒当歌的夜，躲不过四下无人的街<br>谁又在乎过我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313612928)<br><br>2017-09-26 11:18<br>赞(1) 踩(0) | <div>任务！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8641088)<br><br>2017-09-22 23:43<br>赞(1) 踩(0) | <div>北方姑娘也不适应南方连年的阴雨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324791954)<br><br>2017-09-13 11:46<br>赞(1) 踩(0) | <div>感觉回到了18岁了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273609041)<br> <br>2017-09-03 23:37<br>赞(1) 踩(0) | <div>接近真实的生活 ～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34363754)<br><br>2017-08-30 10:36<br>赞(1) 踩(0) | <div>瞿小敏&amp;hellip;&amp;hellip;对不起&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247583192)<br>我一个人 很简单    ...<br>2017-08-26 09:55<br>赞(2) 踩(0) | <div>不知何时能有机会遇见北方先生。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198163155)<br>小城青年<br>2017-08-25 04:22<br>赞(3) 踩(0) | <div>我站在三楼的阳台夜空中最亮的星你的城市有星星吗？于是终于走到告别的那天一直没有说出再见二个字因为我讲不出再见于是昨天的那段话毁灭了我心存的最后一丝幻想于是我走出了你的心里这三个月每一天都是自己独自熬过来你开始了你要的新生活祝福你 ​ 我的南方姑娘  我的西关女孩。                          再见。壹壹</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198163155)<br>小城青年<br>2017-08-25 04:22<br>赞(3) 踩(0) | <div>我站在<br>三楼的阳台<br>夜空中最亮的星<br>你的城市有星星吗？<br>于是终于走到<br>告别的那天<br>一直没有说出再见<br>二个字<br>因为我<br>讲不出再见<br>于是昨天的那段话<br>毁灭了我心存的<br>最后一丝幻想<br>于是我走出了你的心里<br>这三个月<br>每一天都是自己<br>独自熬过来<br>你开始了你要的新生活<br>祝福你 ​ 我的南方姑娘  我的西关女孩。                          再见。壹壹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61859522)<br><br>2017-08-24 15:15<br>赞(0) 踩(0) | <div>想你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295720800)<br>时间搁浅我们的依靠ミ◥巴...<br>2017-08-11 09:23<br>赞(0) 踩(0) | <div>就这种歌，也需要支付！！我去，当年港坛那些经典歌曲呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284122347)<br> <br>2017-08-01 14:13<br>赞(0) 踩(0) | <div>丶下 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -261,7 +261,7 @@ NA... NA... 南方 南方... 南方<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260764092)<br>假。<br>2017-05-30 00:58<br>赞(2) 踩(0) | <div>我曾经疯狂的爱过一个人。有一天，我发现我不想和他在一起了，也许是不爱了，也许是想开了。但是心里很空，心里最重要的位置一直是他，然而不再爱了，就很空很空。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283483473)<br>生活 <br>2017-05-28 12:34<br>赞(1) 踩(0) | <div>无论南方还是北方都是远方 而远方 除了远没有其他的了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237646581)<br>我还没想好要写什么...<br>2017-05-19 13:34<br>赞(2) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35063900)<br>Solitude<br>2017-05-18 18:28<br>赞(1) 踩(0) | <div>没有999+不科学啊啊啊个人觉得比成都好听啊啊啊啊啊啊啊啊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35063900)<br>Solitude<br>2017-05-18 18:28<br>赞(1) 踩(0) | <div>没有999+不科学啊啊啊<br>个人觉得比成都好听啊啊啊啊啊啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121262314)<br>性格开放。热爱生活。努力...<br>2017-05-15 23:52<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269107192)<br><br>2017-05-13 22:16<br>赞(1) 踩(0) | <div>要是我会弹唱就好了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288782876)<br><br>2017-06-19 07:44<br>赞(0) 踩(0) | <div>我都练好几天了，吉他书里有 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
@@ -344,7 +344,7 @@ NA... NA... 南方 南方... 南方<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316261284)<br>到最后……<br>2019-08-01 14:36<br>赞(0) 踩(0) | <div>如果他不红，哪有钱做音乐，让更多的人听到</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252144456)<br> <br>2017-01-31 23:22<br>赞(3) 踩(0) | <div>一次活动  我唱了南方姑娘 后来她加了我微信  但却没有然后   遗憾了  一个可爱的南方姑娘～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268194703)<br><br>2017-01-27 06:14<br>赞(2) 踩(0) | <div>第一次看到赵雷在大冰的书里，听完南方姑娘后就无可自拔的爱上了赵雷，一遍又一遍，每一年都在循环播放</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253236508)<br><br>2017-01-25 23:06<br>赞(4) 踩(0) | <div>这种音乐确实很适合南方姑娘的柔情 我遇到过的北方姑娘都很汉子，很能吃苦，每次看到她们为工作起早贪黑，放下自尊，每天的工作量多到根本没有时间抱怨，在这些姑娘中南方姑娘不多，只占20%。我很喜欢北方姑娘，因为我一直在南方，每次来这里工作的都是些北漂的北方姑娘，我很喜欢和她们交朋友，也很喜欢她们。我是云南昆明的南方姑娘。每次听这首歌就会想想自己，再想到那些北方姑娘。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253236508)<br><br>2017-01-25 23:06<br>赞(4) 踩(0) | <div>这种音乐确实很适合南方姑娘的柔情 我遇到过的北方姑娘都很汉子，很能吃苦，每次看到她们为工作起早贪黑，放下自尊，每天的工作量多到根本没有时间抱怨，在这些姑娘中南方姑娘不多，只占20%。我很喜欢北方姑娘，因为我一直在南方，每次来这里工作的都是些北漂的北方姑娘，我很喜欢和她们交朋友，也很喜欢她们。<br>我是云南昆明的南方姑娘。每次听这首歌就会想想自己，再想到那些北方姑娘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266906882)<br> <br>2017-01-23 23:41<br>赞(1) 踩(0) | <div>谁有这个版本的吉他谱呀！跪求！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257390275)<br> <br>2017-01-04 15:06<br>赞(0) 踩(0) | <div>北方爷们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257744244)<br><br>2016-12-29 21:53<br>赞(0) 踩(0) | <div>从南方姑娘，到成都再到鼓楼再到少年锦时…… 似乎有时候问自己 好像手机音乐</div> |
@@ -436,7 +436,7 @@ NA... NA... 南方 南方... 南方<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47003889)<br><br>2016-08-23 13:32<br>赞(3) 踩(0) | <div>安慰着时光的南方姑娘，忍受着漫长的南方姑娘，什么都不需要的南方姑娘，不爱北方爱你的南方姑娘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47003889)<br><br>2016-08-23 13:30<br>赞(0) 踩(0) | <div>安慰着时光的南方姑娘，忍受着漫长的南方姑娘，不爱北方，爱你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46371318)<br><br>2016-08-21 23:07<br>赞(2) 踩(0) | <div>每次听到前奏就想要恋爱 雷子心里该藏着一个多浪漫的灵魂才可以写出这么美丽的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86270524)<br><br>2016-08-06 12:08<br>赞(7) 踩(0) | <div>为了促进南北方友好来往我提议南方的兄弟们多些结交北方姑娘快让她们也爱上我们南方的草原</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86270524)<br><br>2016-08-06 12:08<br>赞(7) 踩(0) | <div>为了促进南北方友好来往<br>我提议<br>南方的兄弟们多些结交北方姑娘<br>快让她们也爱上我们南方的草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47013028)<br>妈的智障<br>2016-08-05 19:18<br>赞(2) 踩(0) | <div>才发现。我遇到的南方姑娘比北方姑娘多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/158779408)<br> <br>2016-07-25 17:11<br>赞(0) 踩(0) | <div>哎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186805187)<br><br>2016-07-23 16:31<br>赞(19) 踩(0) | <div>一首南方姑娘从此爱上了赵雷</div> |
@@ -461,14 +461,14 @@ NA... NA... 南方 南方... 南方<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120386798)<br>爱大叔、爱生活。<br>2016-04-07 20:52<br>赞(2) 踩(0) | <div>南方姑娘，你是否喜欢被上的直爽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46012570)<br>只听歌不交友请勿扰<br>2016-04-06 23:03<br>赞(1) 踩(0) | <div>南方的姑娘唱这个歌 有好多字好吃力 想把这歌儿唱给北方的那个人听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85466586)<br>从小听了很多道理，可依旧...<br>2016-04-06 20:14<br>赞(0) 踩(0) | <div>知道那个姑娘</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18789285)<br>我改名字了<br>2016-04-03 06:44<br>赞(1) 踩(0) | <div>期许，未达成记忆，无处安放</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18789285)<br>我改名字了<br>2016-04-03 06:44<br>赞(1) 踩(0) | <div>期许，未达成<br>记忆，无处安放</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97094858)<br>减肥与反弹之间不停游走的...<br>2016-03-30 07:39<br>赞(1) 踩(0) | <div>草莓音乐节快开始了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97094858)<br>减肥与反弹之间不停游走的...<br>2016-03-30 06:57<br>赞(1) 踩(0) | <div>我也不知道我的姑娘在干嘛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128345854)<br><br>2016-03-29 14:22<br>赞(1) 踩(0) | <div>有些人可以唱歌，有些人必须唱歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46750770)<br>love is love<br>2016-03-25 01:10<br>赞(0) 踩(0) | <div>[带墨镜笑]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97991720)<br><br>2016-03-24 22:11<br>赞(1) 踩(0) | <div>因为南方姑娘喜欢上赵雷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125879302)<br><br>2016-03-24 09:15<br>赞(2) 踩(0) | <div>兄弟姐妹们，享受音乐也尽量支持正版，哪怕收藏也好。雷子的家境也不算很好，谢谢大家</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13828741)<br><br>2016-03-23 23:49<br>赞(1) 踩(0) | <div>故事还没发生，却已经结束。在忍受着漫长如何安慰这时光</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13828741)<br><br>2016-03-23 23:49<br>赞(1) 踩(0) | <div>故事还没发生，却已经结束。<br>在忍受着漫长<br>如何安慰这时光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24827161)<br>無くした日々にさよなら<br>2016-03-19 14:34<br>赞(20) 踩(0) | <div>这个版本的D key指法前奏和间奏非常难弹 赵雷的key要夹在四品 品距离都短了 就好弹 我夹一品的真的很难弹 我花了几天时间扒了C key的指法 可是感觉差远了 <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46005259)<br>愿所有的时间  都能把s...<br>2016-04-15 10:45<br>赞(0) 踩(0) | <div>请问弹唱版和原版哪个吉他谱好弹些啊？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49393706)<br> <br>2016-05-09 12:26<br>赞(0) 踩(0) | <div>赵雷用的三品D指法，除了几个细节需要仔细听一下，伴奏随性就可以</div> |
@@ -487,7 +487,7 @@ NA... NA... 南方 南方... 南方<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42266917)<br>我还没想好要写什么...<br>2016-03-11 10:17<br>赞(0) 踩(0) | <div>哎嘿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120174256)<br>一切都是暂时的。<br>2016-03-06 22:22<br>赞(1) 踩(0) | <div>之后再也没有人隔着拥挤的人群突然喊一句南方姑娘。总之 感谢。 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55466998)<br>一无所有才可以无所畏惧<br>2016-03-06 12:48<br>赞(0) 踩(0) | <div>你的话不多，但笑起来是那么平静优雅。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/864383)<br>Don't worry ...<br>2016-03-03 06:35<br>赞(3) 踩(0) | <div>‘她，很温柔如南方的春风。她，笑起来，像南方的艳阳。她，哭起来，像南方的夏雨。’</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/864383)<br>Don't worry ...<br>2016-03-03 06:35<br>赞(3) 踩(0) | <div>‘她，很温柔如南方的春风。<br>她，笑起来，<br>像南方的艳阳。<br>她，哭起来，<br>像南方的夏雨。’</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98281486)<br> <br>2016-03-02 22:21<br>赞(0) 踩(0) | <div>听着边弹吉他边唱的歌。。睡觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100821356)<br><br>2016-02-29 09:05<br>赞(0) 踩(0) | <div>泪奔(┯_┯)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83752208)<br>不卑不亢。一切都还来得及<br>2016-02-28 16:36<br>赞(1) 踩(0) | <div>眨眼的时间 芳香已飘散 影子已不见</div> |
@@ -516,7 +516,7 @@ NA... NA... 南方 南方... 南方<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43719749)<br>恬静阳光<br>2016-01-18 23:25<br>赞(0) 踩(0) | <div>晚安 <img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99470824)<br>阳光下慎重地开满了花<br>2016-01-18 09:00<br>赞(0) 踩(0) | <div>那个北方小伙子，不喜欢那个北方的城市，却也还没找到钟情的地方。我想和你一起待在一处，一直，无论南北。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49768024)<br><br>2016-01-17 22:19<br>赞(0) 踩(0) | <div>赵小雷我爱你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2570533)<br>且听风吟，爱已逝<br>2016-01-17 11:32<br>赞(2) 踩(0) | <div>我郑重地宣布：这首歌我会唱了！歌词已全部写进脑子里！现在的问题是：听我唱歌的姑娘啊，你在哪儿呢？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2570533)<br>且听风吟，爱已逝<br>2016-01-17 11:32<br>赞(2) 踩(0) | <div>我郑重地宣布：这首歌我会唱了！歌词已全部写进脑子里！<br><br>现在的问题是：听我唱歌的姑娘啊，你在哪儿呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80977186)<br>给我一个弥漫书香的咖啡屋<br>2016-01-15 20:56<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93314890)<br><br>2016-01-13 20:59<br>赞(1) 踩(0) | <div>卧槽你妈，求谱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2570533)<br>且听风吟，爱已逝<br>2016-01-11 18:05<br>赞(0) 踩(0) | <div>在这初雪的日子，为心爱的人唱一曲南方姑娘，想必是件极浪漫的事</div> |
@@ -766,7 +766,7 @@ NA... NA... 南方 南方... 南方<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44059674)<br><br>2014-11-29 17:38<br>赞(0) 踩(0) | <div>很喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43945835)<br><br>2014-11-25 14:56<br>赞(0) 踩(0) | <div>我很喜欢这首，你呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37330906)<br><br>2014-11-25 13:24<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39519943)<br><br>2014-11-22 22:15<br>赞(0) 踩(0) | <div>北方的村庄住着一个南方的姑娘她总是喜欢穿着带花的裙子站在路旁她的话不多但笑起来是那么平静悠扬她柔弱的眼神里装的是什么 是思念的忧伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39519943)<br><br>2014-11-22 22:15<br>赞(0) 踩(0) | <div>北方的村庄住着一个南方的姑娘<br>她总是喜欢穿着带花的裙子站在路旁<br>她的话不多但笑起来是那么平静悠扬<br>她柔弱的眼神里装的是什么 是思念的忧伤</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42901967)<br><br>2014-12-03 07:29<br>赞(0) 踩(0) | <div>很有心</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39519943)<br><br>2014-12-03 08:06<br>赞(0) 踩(0) | <div><q><b>Eric～笑难关2B青年说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42042100)<br><br>2014-11-21 14:23<br>赞(0) 踩(0) | <div>弹唱的就是好听</div> |
@@ -790,7 +790,7 @@ NA... NA... 南方 南方... 南方<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5820281)<br><br>2011-09-14 12:42<br>赞(0) 踩(0) | <div>111</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5714585)<br><br>2011-09-05 14:59<br>赞(0) 踩(0) | <div>音乐伴奏和柔和、音质很美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5108377)<br><br>2011-08-06 22:02<br>赞(0) 踩(0) | <div>唯美~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/717790)<br><br>2011-05-06 21:38<br>赞(0) 踩(0) | <div>萤火虫点亮夜的星光谁为我添一件梦的衣裳推开那扇心窗远远地望谁采下那一朵昨日的忧伤我像只鱼儿在你的荷塘只为和你守候那皎白月光游过了四季 荷花依然香等你宛在水中央</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/717790)<br><br>2011-05-06 21:38<br>赞(0) 踩(0) | <div>萤火虫点亮夜的星光<br>谁为我添一件梦的衣裳<br>推开那扇心窗远远地望<br>谁采下那一朵昨日的忧伤<br>我像只鱼儿在你的荷塘<br>只为和你守候那皎白月光<br>游过了四季 荷花依然香<br>等你宛在水中央</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3459170)<br><br>2011-04-03 09:31<br>赞(0) 踩(0) | <div>这是《征途2》定制的我一开始在网上找好久都没找到。玩着游戏听着歌还有画面那才叫爽啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2991381)<br><br>2011-03-16 20:12<br>赞(0) 踩(0) | <div>被开头的音乐吸引了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3166744)<br><br>2011-03-11 22:09<br>赞(0) 踩(0) | <div>不错伴奏</div> |

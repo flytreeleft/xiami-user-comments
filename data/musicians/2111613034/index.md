@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/47b43a0fc39f14542157698db49997fa.jpg)<br>李雄杰](https://i.xiami.com/lixiongjie) | **播放数**: 1293027<br>**粉丝数**: 13<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 韩国流行 K-Pop<br> |
+| [![](../../images/musicians/47b43a0fc39f14542157698db49997fa.jpg)<br>李雄杰](https://i.xiami.com/lixiongjie) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 韩国流行 K-Pop<br>**播放数**: 1293027<br>**粉丝数**: 13<br>**评论数**: 0<br> |
 
 ## 档案
 
@@ -53,5 +53,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

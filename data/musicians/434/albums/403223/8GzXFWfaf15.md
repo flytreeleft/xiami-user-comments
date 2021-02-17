@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1612404)<br>我有时看不了你们的回复<br>2015-11-20 04:02<br>赞(0) 踩(0) | <div>洗翻这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2943953)<br><br>2015-11-20 00:55<br>赞(0) 踩(0) | <div>司马徽对刘备说：卧龙凤雏得一者可得天下，庞统可谓一人才，只可惜庞统太过自负</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51631029)<br> <br>2015-11-19 23:21<br>赞(0) 踩(0) | <div>，</div> |

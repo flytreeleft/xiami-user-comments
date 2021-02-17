@@ -97,8 +97,8 @@ Bug Music Production &amp; Management Co.Ltd.<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123246788)<br>Music is my ...<br>2020-10-30 07:22<br>赞(1) 踩(0) | <div>好听！ <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19501944)<br><br>2020-09-25 22:20<br>赞(1) 踩(0) | <div>唱的不是挺好的，挺有风格啊，难道要一个歌手唱所有歌都一种感觉才叫好吗？人家歌手也想要不同的方向不同的感觉，自己的突破啊，这首歌不好的我觉得一个是音效做的太吵，还有就是那个男声太难听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439377703)<br>浮生若夢 為歡幾何<br>2020-08-05 13:40<br>赞(0) 踩(0) | <div>还行</div> |
@@ -117,7 +117,7 @@ Bug Music Production &amp; Management Co.Ltd.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222936597)<br>你开心就好。<br>2019-04-25 17:17<br>赞(1) 踩(0) | <div>热评啥意思？这首不好吗？驾驭各种风格的歌重点是唱的还不赖有什么不能唱的？ <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">实话实说轻喷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255155)<br>风子<br>2019-03-13 21:55<br>赞(0) 踩(0) | <div>还好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200329313)<br>若说有奇缘<br>2019-02-02 13:40<br>赞(0) 踩(0) | <div>反正就是不喜欢现在的陈粒了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5845989)<br>就这么了<br>2019-01-03 19:23<br>赞(0) 踩(0) | <div>为而为所以缺</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5845989)<br>就这么了<br>2019-01-03 19:23<br>赞(0) 踩(0) | <div>为而为<br>所以缺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11974120)<br>我还没想好要写什么...<br>2018-12-04 19:29<br>赞(1) 踩(0) | <div>博士论文都过来了，还有什么过不去的呢？ <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png">～竟然被吓得睡不着觉，没搞错吧，掌嘴。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11974120)<br>我还没想好要写什么...<br>2018-12-03 09:45<br>赞(0) 踩(0) | <div>终于在十多年后理解J姨的大度无奈和不得不，有些事发生了就是事实，抹不掉的，一辈子…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46267990)<br>暂无签名~<br>2018-11-04 15:04<br>赞(1) 踩(0) | <div>太喜欢了无意外别处听到就去问名字，不过没想到竟然是陈粒的！更喜欢了！</div> |
@@ -134,7 +134,7 @@ Bug Music Production &amp; Management Co.Ltd.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260522441)<br>相信命运的必然<br>2018-05-08 23:22<br>赞(2) 踩(0) | <div>就算这首歌主题完全是被他人拟定，但词和曲也都是陈粒一点一点创作出来的，最终想表达什么还是由陈粒决定，但这并不能说她是商业化，ok? <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297681691)<br>“年轻人要多听音乐才不会...<br>2018-04-27 14:31<br>赞(0) 踩(0) | <div>/</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192850884)<br><br>2018-04-22 07:52<br>赞(0) 踩(0) | <div>陈粒还是陈粒，你已经不是那个你。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49361993)<br><br>2018-04-21 21:54<br>赞(4) 踩(0) | <div>陈粒凭什么要由别人定义?她是一笔一划由自己书写出来的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49361993)<br><br>2018-04-21 21:54<br>赞(4) 踩(0) | <div>陈粒凭什么要由别人定义?<br><br>她是一笔一划由自己书写出来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330261504)<br>涉江采芙蓉，兰泽多芳草。<br>2018-04-21 14:28<br>赞(0) 踩(0) | <div>声音不够雄壮，听起来嗲嗲的?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103645518)<br>主动<br>2018-04-13 23:18<br>赞(1) 踩(0) | <div>伴随我整个初三的女人  陪我度过那段黑暗时期的女人  现在依旧喜欢陈粒这个女人  没有理由</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318048749)<br><br>2018-04-06 20:22<br>赞(0) 踩(0) | <div>越来越商业化。</div> |
@@ -142,9 +142,9 @@ Bug Music Production &amp; Management Co.Ltd.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297681691)<br>“年轻人要多听音乐才不会...<br>2018-04-05 13:19<br>赞(0) 踩(0) | <div>/</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337062381)<br><br>2018-04-02 01:41<br>赞(1) 踩(0) | <div>为天龙八部，行酒会而来，好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347713882)<br><br>2018-03-26 01:04<br>赞(1) 踩(0) | <div>编曲很棒，rap是败笔</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348401220)<br> <br>2018-03-24 20:59<br>赞(0) 踩(0) | <div>很喜欢<img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282421103)<br>水面清圆，一一风荷举<br>2018-03-19 18:02<br>赞(2) 踩(0) | <div>武侠音乐呢，要不是醉意江湖的豪情万丈，要不是琴心剑胆的侠骨柔情，还有可能是自带BGM的邪魅狂狷&amp;hellip;&amp;hellip;以前听陈粒，有一丝丝王菲莫文蔚的神韵，有点喜欢那种慵懒的随性的小资的独立的把大雨听出阳光味道把阳光听出时间质感，如一叶小扁舟在水面划出波痕他狂任他狂明月照大江的种种。但是这首，不知怎么听出80年代迪斯科伴奏的世俗气以及刻意迎合的做作（可能主要是曲的问题，也有她用力过猛去唱的感觉）。武侠音乐往往是动人的，那种一听前奏就如一道光劈在心间，随着歌曲的起承转合让人沉浸其中的好歌，的确是可遇不可求。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37362860)<br>我最爱的人叫张密娟<br>2018-03-15 14:59<br>赞(4) 踩(0) | <div>我看过沙漠下暴雨，看过大海亲吻鲨鱼。看过黄昏追逐黎明，没看过你。我知道美丽会老去，生命之外还有生命。我知道风里有诗句，不知道你。我听过荒芜变成热闹，听过尘埃掩埋城堡，听过天空拒绝飞鸟。没听过你！！！歌者唱歌，听者感受，无他....</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348401220)<br> <br>2018-03-24 20:59<br>赞(0) 踩(0) | <div>很喜欢<br><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282421103)<br>水面清圆，一一风荷举<br>2018-03-19 18:02<br>赞(2) 踩(0) | <div>武侠音乐呢，要不是醉意江湖的豪情万丈，要不是琴心剑胆的侠骨柔情，还有可能是自带BGM的邪魅狂狷&amp;hellip;&amp;hellip;以前听陈粒，有一丝丝王菲莫文蔚的神韵，有点喜欢那种慵懒的随性的小资的独立的把大雨听出阳光味道把阳光听出时间质感，如一叶小扁舟在水面划出波痕他狂任他狂明月照大江的种种。但是这首，不知怎么听出80年代迪斯科伴奏的世俗气以及刻意迎合的做作（可能主要是曲的问题，也有她用力过猛去唱的感觉）。<br>武侠音乐往往是动人的，那种一听前奏就如一道光劈在心间，随着歌曲的起承转合让人沉浸其中的好歌，的确是可遇不可求。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37362860)<br>我最爱的人叫张密娟<br>2018-03-15 14:59<br>赞(4) 踩(0) | <div>我看过沙漠下暴雨，<br>看过大海亲吻鲨鱼。<br>看过黄昏追逐黎明，<br>没看过你。<br>我知道美丽会老去，<br>生命之外还有生命。<br>我知道风里有诗句，<br>不知道你。<br>我听过荒芜变成热闹，<br>听过尘埃掩埋城堡，<br>听过天空拒绝飞鸟。<br>没听过你！！！<br>歌者唱歌，听者感受，无他....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346926877)<br>Black and wh...<br>2018-03-14 10:34<br>赞(0) 踩(0) | <div>️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348595299)<br><br>2018-03-12 22:34<br>赞(1) 踩(0) | <div>有老TVB武侠片尾曲的感觉 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46278011)<br><br>2018-03-12 00:36<br>赞(1) 踩(0) | <div>陈粒真的是天才吧，喜欢的solo歌手，喜欢的团hello nico。流行是必不可少，除此之外，少了很多听多了油腻的刻意迎合和卖弄。更耐听的只有这一人一团</div> |
@@ -192,7 +192,7 @@ Bug Music Production &amp; Management Co.Ltd.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308496281)<br><br>2018-02-07 01:50<br>赞(0) 踩(0) | <div>嚯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335984239)<br>爱生活<br>2018-02-05 15:20<br>赞(28) 踩(0) | <div>为什么会有人说难听？？？？？？？？？？害怕。。。明明超好听啊！！！！我不管！！！陈粒最好听！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48051535)<br>一声jiū<br>2018-02-04 11:46<br>赞(2) 踩(0) | <div>我觉得挺好听的我还收藏了的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327301429)<br>C-173网易云避难者<br>2018-02-04 07:56<br>赞(3) 踩(0) | <div>吞一口江湖，吞一口酒，人生渺茫茫这种开局可以了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327301429)<br>C-173网易云避难者<br>2018-02-04 07:56<br>赞(3) 踩(0) | <div>吞一口江湖，吞一口酒，人生渺茫茫<br>这种开局可以了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347516624)<br><br>2018-02-03 16:29<br>赞(0) 踩(0) | <div>好听！被粒粒圈粉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308465210)<br><br>2018-02-03 15:10<br>赞(4) 踩(0) | <div>这还是她只不过换个风格罢了难道人只能有一个风格？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342012081)<br><br>2018-02-01 13:14<br>赞(0) 踩(0) | <div>人声太靠前了</div> |
@@ -216,7 +216,7 @@ Bug Music Production &amp; Management Co.Ltd.<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245418436)<br><br>2018-04-17 21:59<br>赞(0) 踩(0) | <div><q><b>Joy说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44197567)<br> <br>2018-01-24 21:10<br>赞(0) 踩(0) | <div>好听❤️   老公❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299840536)<br>行藏在我。<br>2018-01-24 16:56<br>赞(4) 踩(0) | <div>怪意气风发 怪太冲动 朝夕顿成空 龙门又相逢 此杯不同 何处斩长虹 笑痴情是我 贪恋烟火 红尘问因果 酩酊大醉中 一场春梦 一身汗与痛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346053367)<br><br>2018-01-24 15:37<br>赞(132) 踩(0) | <div>凭什么一个小众歌手接商演就是商业化，流行歌手接商演就识才华被赏识。 <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png">凭什么小众歌手上节目就是初心没了，流行歌手上节目就是为初心努力。 <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png">告诉你们    无绝对小众，只有愚昧无知的解读者 <img src="../../../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346053367)<br><br>2018-01-24 15:37<br>赞(132) 踩(0) | <div>凭什么一个小众歌手接商演就是商业化，流行歌手接商演就识才华被赏识。 <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"><br>凭什么小众歌手上节目就是初心没了，流行歌手上节目就是为初心努力。 <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"><br>告诉你们    无绝对小众，只有愚昧无知的解读者 <img src="../../../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276905766)<br>风起于青萍之末<br>2018-01-25 17:36<br>赞(0) 踩(0) | <div>对的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310353890)<br><br>2018-01-30 16:00<br>赞(0) 踩(0) | <div>同意无绝对小众</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14738066)<br><br>2018-01-24 08:30<br>赞(0) 踩(0) | <div>。。。。。</div> |
@@ -310,7 +310,7 @@ Bug Music Production &amp; Management Co.Ltd.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343699852)<br><br>2018-01-12 15:49<br>赞(0) 踩(0) | <div>声音有点不自然，是来搞笑的吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/529497)<br> <br>2018-01-12 13:09<br>赞(0) 踩(0) | <div>有钱能使鬼推磨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344814)<br>伪善伪鲜活的绿。<br>2018-01-12 12:47<br>赞(0) 踩(0) | <div>我更喜欢双笙唱这首歌啊啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281274034)<br>本<br>2018-01-12 12:26<br>赞(3) 踩(0) | <div>忍着把这首歌听完  心里默默一声叹息   唉没有什么是不会改变的  虽然我不喜欢这种风格但还是会给陈粒点赞  可能是由于以前的惯性吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281274034)<br>本<br>2018-01-12 12:26<br>赞(3) 踩(0) | <div>忍着把这首歌听完  心里默默一声叹息   唉<br>没有什么是不会改变的  虽然我不喜欢这种风格<br>但还是会给陈粒点赞  可能是由于以前的惯性吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330718725)<br>笙声不息<br>2018-01-12 12:21<br>赞(1) 踩(0) | <div>带一点超然，带一点狂傲，人生江湖路。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38653438)<br> <br>2018-01-12 09:52<br>赞(0) 踩(0) | <div>虽然这首歌粒粒的个人风格没有得到凸显，但是这是问题吗？驾驭得了不同的风格不也是一种风格吗？我们听歌也不是只听一种类型，音乐人当然也可以转型 喜欢就留下 不喜欢就离开 总会有人在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244068224)<br><br>2018-01-12 08:32<br>赞(3) 踩(0) | <div>听见粒粒声音的那瞬间惊艳无比，不局限曲风的粒粒更喜欢</div> |
@@ -328,13 +328,13 @@ Bug Music Production &amp; Management Co.Ltd.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16840280)<br><br>2018-01-11 19:32<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17854089)<br><br>2018-01-11 18:49<br>赞(0) 踩(0) | <div>可以，换风格了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32373009)<br>虾米，再会。<br>2018-01-11 14:01<br>赞(0) 踩(0) | <div>14:01</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49869664)<br><br>2018-01-11 13:37<br>赞(3) 踩(0) | <div>音乐人首先是人。要求别人不食烟火，可以先看看自己。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49869664)<br><br>2018-01-11 13:37<br>赞(3) 踩(0) | <div>音乐人首先是人。<br>要求别人不食烟火，可以先看看自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49869664)<br><br>2018-01-11 13:36<br>赞(3) 踩(0) | <div>任何艺人首先是人，要求他们成为不食人间烟火的只是一厢情愿的梦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27711543)<br><br>2018-01-11 11:14<br>赞(0) 踩(0) | <div>很好听啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315637715)<br>开❤百分百❤<br>2018-01-11 10:43<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305873820)<br>喜欢音乐<br>2018-01-11 10:36<br>赞(0) 踩(0) | <div>可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339555305)<br>总是有那么一段旅途，就像...<br>2018-01-11 09:39<br>赞(1) 踩(0) | <div>喜欢陈粒的声音，她的才华</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32035908)<br><br>2018-01-11 09:11<br>赞(2) 踩(0) | <div>阿紫问姐夫&amp;ldquo;她有什么好，我哪里及不上她，你老是想着她，老是忘不了她？&amp;rdquo;姐夫平静的答&amp;ldquo;你样样都好，样样比她强，你只有一个缺点，你不是她............&amp;rdquo;&amp;ndash;－《天龙八部》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32035908)<br><br>2018-01-11 09:11<br>赞(2) 踩(0) | <div>阿紫问姐夫&amp;ldquo;她有什么好，我哪里及不上她，你老是想着她，老是忘不了她？&amp;rdquo;<br>姐夫平静的答&amp;ldquo;你样样都好，样样比她强，你只有一个缺点，你不是她............&amp;rdquo;&amp;ndash;－《天龙八部》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239862758)<br><br>2018-01-11 08:13<br>赞(0) 踩(0) | <div>如果许嵩唱也好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344208129)<br><br>2018-01-11 06:12<br>赞(1) 踩(0) | <div>侠骨不变</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125596196)<br> <br>2018-01-11 01:17<br>赞(0) 踩(0) | <div>音乐永远都是很有格调，曲风能让人心沉淀下来</div> |
@@ -458,7 +458,7 @@ Bug Music Production &amp; Management Co.Ltd.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343836929)<br><br>2018-01-09 11:12<br>赞(1) 踩(0) | <div>终于放开嗓子了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34456354)<br>何必久睡 自会长眠<br>2018-01-09 11:05<br>赞(1) 踩(0) | <div>嗯 好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69649228)<br>接受自己的不完美，也接受...<br>2018-01-09 11:05<br>赞(1) 踩(0) | <div>这和以前的风格不一样啊！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/67833948)<br>我还没想好要写什么...<br>2018-01-09 11:03<br>赞(2) 踩(0) | <div>我喜欢翻看评论而不轻易写评论@真的不是因为我孤独和寂寞 <img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png">我是在找品味相投的朋友 <img src="../../../../images/comments/c0b5820a44138b3377d4720d2e07302a.png">Bonjour[带墨镜笑]</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/67833948)<br>我还没想好要写什么...<br>2018-01-09 11:03<br>赞(2) 踩(0) | <div>我喜欢翻看评论而不轻易写评论@真的不是因为我孤独和寂寞 <img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"><br>我是在找品味相投的朋友 <img src="../../../../images/comments/c0b5820a44138b3377d4720d2e07302a.png"><br>Bonjour[带墨镜笑]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47034629)<br>他很喜欢你<br>2018-01-09 10:54<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/2dddd65f06f01a396df470103735c8ff.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335366919)<br>男人可以不帅，但必须要浪...<br>2018-01-09 10:48<br>赞(1) 踩(0) | <div>牛叉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333994516)<br>我觉得我已经很努力了<br>2018-01-09 10:46<br>赞(1) 踩(0) | <div>emmmmmmmmmm 我向上天</div> |
@@ -513,7 +513,7 @@ Bug Music Production &amp; Management Co.Ltd.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341197349)<br><br>2018-01-09 03:50<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png">好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20641180)<br><br>2018-01-09 02:28<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341357995)<br>人生有裂缝   是光进来...<br>2018-01-09 02:25<br>赞(0) 踩(0) | <div>还行</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343905770)<br><br>2018-01-09 02:20<br>赞(0) 踩(0) | <div>好听的好听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343905770)<br><br>2018-01-09 02:20<br>赞(0) 踩(0) | <div>好听的<br>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317962803)<br><br>2018-01-09 02:11<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86691702)<br><br>2018-01-09 02:07<br>赞(0) 踩(0) | <div>还挺好听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333423915)<br><br>2018-01-09 01:57<br>赞(0) 踩(0) | <div>什么</div> |
@@ -767,7 +767,7 @@ Bug Music Production &amp; Management Co.Ltd.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251636530)<br>人间惊鸿客<br>2018-01-08 11:00<br>赞(1) 踩(0) | <div>迷乱我眼眸却潇洒自如。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341167340)<br><br>2018-01-08 10:50<br>赞(0) 踩(0) | <div>6666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343158899)<br>西窗<br>2018-01-08 10:48<br>赞(1) 踩(0) | <div>恨他想我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272110366)<br>寻你，在人海里；愿你，等...<br>2018-01-08 10:43<br>赞(2) 踩(0) | <div>人生渺渺说说笑笑带一点超然狂傲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272110366)<br>寻你，在人海里；愿你，等...<br>2018-01-08 10:43<br>赞(2) 踩(0) | <div>人生渺渺<br>说说笑笑<br>带一点超然狂傲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343269255)<br><br>2018-01-08 10:43<br>赞(1) 踩(0) | <div>签到中。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277404757)<br><br>2018-01-08 10:40<br>赞(1) 踩(0) | <div>签到了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257208296)<br> <br>2018-01-08 10:39<br>赞(1) 踩(0) | <div>打卡</div> |
@@ -825,7 +825,7 @@ Bug Music Production &amp; Management Co.Ltd.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320857215)<br> <br>2018-01-08 00:31<br>赞(2) 踩(0) | <div>找寻中 困红尘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333833371)<br><br>2018-01-08 00:31<br>赞(2) 踩(0) | <div>嘻嘻嘻 与时俱进滴虾米 爱上了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304323843)<br><br>2018-01-08 00:30<br>赞(2) 踩(0) | <div>先点心下载，再听歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337733481)<br>再见。<br>2018-01-08 00:30<br>赞(1) 踩(0) | <div>人生渺渺说说笑笑带一点超然狂傲好霸气 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337733481)<br>再见。<br>2018-01-08 00:30<br>赞(1) 踩(0) | <div>人生渺渺<br>说说笑笑<br>带一点超然狂傲<br>好霸气 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121453884)<br>我们生来就是孤独<br>2018-01-08 00:28<br>赞(1) 踩(0) | <div>先评论，后听歌 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"> <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"> <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45591172)<br>希望好听的日推  都变成...<br>2018-01-08 00:26<br>赞(4) 踩(0) | <div>上一次见你 是两年前北京鼓楼live house  有粉丝送你一袋真空包装的烧鸡  你还是蓝头发  我也无缘见到祝星</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193732683)<br> <br>2018-01-08 00:22<br>赞(0) 踩(0) | <div>我来了</div> |
@@ -939,7 +939,7 @@ Bug Music Production &amp; Management Co.Ltd.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95092258)<br> <br>2018-01-08 00:00<br>赞(0) 踩(0) | <div>7</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1320911)<br>杂食喵(｡・`ω´･)<br>2018-01-08 00:00<br>赞(0) 踩(0) | <div>哟新歌开心！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47580270)<br><br>2018-01-07 18:32<br>赞(0) 踩(0) | <div>粒粒这么好听的歌怎么可能没有评论&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327515883)<br><br>2018-01-05 20:48<br>赞(1) 踩(0) | <div>方文山发布行酒令后，今日第一位歌手接令。陈粒发布由自己填词作曲小虫制作的新歌《研山图》。这是陈粒又一首具有&amp;ldquo;江湖豪气&amp;rdquo;的歌曲，都还记得《历历万乡》中踏遍万水千山后依然满怀理想主义的初心与信念，《性空山》中的杳无音信便爱遍世间万物的洒脱与豁达，《正趣果上果》中用佛教典故来呈现追求与现实的落差。而这首与天龙八部手游合作的歌曲，是在快意江湖中碾转于滚滚红尘的流连与潇洒，带你重温金庸式大武侠，感怀江湖儿女在俗世浮沉中的情与义。&amp;mdash;&amp;mdash;转耳帝微博</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327515883)<br><br>2018-01-05 20:48<br>赞(1) 踩(0) | <div>方文山发布行酒令后，今日第一位歌手接令。陈粒发布由自己填词作曲小虫制作的新歌《研山图》。<br>这是陈粒又一首具有&amp;ldquo;江湖豪气&amp;rdquo;的歌曲，都还记得《历历万乡》中踏遍万水千山后依然满怀理想主义的初心与信念，《性空山》中的杳无音信便爱遍世间万物的洒脱与豁达，《正趣果上果》中用佛教典故来呈现追求与现实的落差。而这首与天龙八部手游合作的歌曲，是在快意江湖中碾转于滚滚红尘的流连与潇洒，带你重温金庸式大武侠，感怀江湖儿女在俗世浮沉中的情与义。&amp;mdash;&amp;mdash;转耳帝微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29356264)<br>一直忘了告诉你<br>2018-01-05 13:16<br>赞(0) 踩(0) | <div>第三！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19776228)<br>奔跑跌倒奔跑<br>2018-01-05 13:05<br>赞(0) 踩(0) | <div>...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213425851)<br><br>2018-01-05 03:02<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/e100760ce8c127633bca891ea2b371d8.png"></div> |

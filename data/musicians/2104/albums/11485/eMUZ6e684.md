@@ -59,22 +59,22 @@ i can feel you<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42595768)<br> <br>2021-01-06 14:39<br>赞(0) 踩(0) | <div>小时候还在用Walkman的年代～偶然路过音响店看到了一盘顺子的专辑～从来没有了解过但不知道为什么就深深的被吸引住了～然后花了对于当时的我来说一笔巨资买了回去～每当夜晚躺在床上静静的循环里面的歌曲～这么多年过去了突然在虾米上看到了顺子的歌～真的很激动～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/648020)<br><br>2020-09-16 09:43<br>赞(0) 踩(0) | <div>感觉顺子的歌在小时候听是听不懂的.... 也不觉得特别好听，现在听觉得不管是歌词、制作、编曲和演唱都好精致，打动人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192684451)<br>Alex<br>2020-06-28 19:44<br>赞(1) 踩(0) | <div>好感觉的歌声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32141039)<br>公众号【一日一歌】，每天...<br>2020-05-14 23:22<br>赞(0) 踩(0) | <div>为什么这首歌没有mv。。是因为太有画面感了吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92002304)<br> <br>2020-04-26 18:18<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7236570)<br>生命很短，让它精彩一点～<br>2020-03-01 08:45<br>赞(1) 踩(0) | <div>很舒服的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343741390)<br><br>2020-01-12 14:06<br>赞(1) 踩(0) | <div>看着星星想着你在我心里你是唯一</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343741390)<br><br>2020-01-12 14:06<br>赞(1) 踩(0) | <div>看着星星想着你<br>在我心里你是唯一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12310229)<br>来微博找我@膀胱绿子<br>2019-11-23 17:35<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50740911)<br>我还没想好要写什么...<br>2019-10-30 01:22<br>赞(1) 踩(0) | <div>听过一次就忘不了了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297951316)<br>你不妨大胆一些，爱一个人...<br>2019-09-08 06:39<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37181246)<br>我还没想好要写什么...<br>2019-08-20 15:42<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15035963)<br><br>2019-08-12 04:13<br>赞(4) 踩(0) | <div>很喜欢顺子的声线</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378903629)<br><br>2019-08-08 14:41<br>赞(2) 踩(0) | <div>翻唱这歌的服刘明湘</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/520700)<br>生活的恩典是自己给的<br>2019-08-06 08:27<br>赞(4) 踩(0) | <div>我为你等待，就象一条小河，在黄昏的寂静中，仍是蓝色，我依然等待着你，没有只字，我的唇会低语，可以带走，这神圣的痛苦，没有歌唱，我的话语却流露，能将你拉近一点，或者能再回到我身旁，象星星一般，流着钻石一样泪水，渴望明月，我渴望你，</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/520700)<br>生活的恩典是自己给的<br>2019-08-06 08:27<br>赞(4) 踩(0) | <div>我为你等待，<br>就象一条小河，<br>在黄昏的寂静中，<br>仍是蓝色，<br>我依然等待着你，<br>没有只字，<br>我的唇会低语，<br>可以带走，<br>这神圣的痛苦，<br>没有歌唱，<br>我的话语却流露，<br>能将你拉近一点，<br>或者能再回到我身旁，<br>象星星一般，<br>流着钻石一样泪水，<br>渴望明月，<br>我渴望你，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266408339)<br>爱到尽头，覆水难收！心碎...<br>2019-07-20 18:20<br>赞(1) 踩(0) | <div>好听，顺子的声音很有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21549477)<br>这是一个小房间，我累了，...<br>2019-07-12 19:56<br>赞(1) 踩(0) | <div>顺子好多歌都听不到了，这首歌超好听啊～满满大学回忆～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44413107)<br>人生若只如初见<br>2019-07-08 16:03<br>赞(1) 踩(0) | <div>喜欢顺子的音色，和顺子的所有歌曲，爱顺子</div> |
@@ -85,7 +85,7 @@ i can feel you<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246165754)<br>~~~~生活不易，全凭演...<br>2019-02-23 10:05<br>赞(2) 踩(0) | <div>让一个不爱你的人陪你聊天逛街嬉戏打闹亲吻拥抱 你真可笑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244935971)<br><br>2019-02-13 08:37<br>赞(2) 踩(0) | <div>还不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357048226)<br>爱自由爱音乐爱唱歌<br>2019-02-11 15:09<br>赞(1) 踩(0) | <div>i can feel you in me～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/655531)<br>我还没想好要写什么...<br>2019-02-07 10:18<br>赞(2) 踩(0) | <div>这歌很难唱却非常喜欢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/655531)<br>我还没想好要写什么...<br>2019-02-07 10:18<br>赞(2) 踩(0) | <div>这歌很难唱<br>却非常喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123246788)<br>Music is my ...<br>2019-01-25 14:21<br>赞(3) 踩(0) | <div>✨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310815978)<br><br>2019-01-24 17:51<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3957600)<br>好计划胜过完美计划<br>2019-01-12 23:01<br>赞(8) 踩(0) | <div>这首歌评论这么少，顶上去</div> |
@@ -99,7 +99,7 @@ i can feel you<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287191180)<br>爱音乐，爱生活！<br>2018-10-05 12:53<br>赞(0) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/372999074)<br>顺其自然<br>2018-09-27 14:42<br>赞(4) 踩(0) | <div>她是实至名归的华语歌坛好声音！ <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299367445)<br><br>2018-09-02 01:29<br>赞(2) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190604050)<br>再见昨天。<br>2018-06-28 11:23<br>赞(1) 踩(0) | <div>十年前，情绪低落的时候，就会听这首歌，&amp;ldquo;看着星星，想着你。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190604050)<br>再见昨天。<br>2018-06-28 11:23<br>赞(1) 踩(0) | <div>十年前，情绪低落的时候，就会听这首歌，<br>&amp;ldquo;看着星星，想着你。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306222128)<br><br>2018-06-09 07:41<br>赞(0) 踩(0) | <div>我的悲欢离合，一直都有音乐的陪伴，过往和未来都如此。感谢音乐，伴我入睡，叫我醒来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69207898)<br><br>2018-05-29 19:30<br>赞(39) 踩(0) | <div>这首歌只有顺子唱得出这样的感觉，非专业人士不要尝试，否则会惨不忍睹 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406271658)<br><br>2019-08-22 17:17<br>赞(0) 踩(0) | <div>李玟，张咪，等歌手估计可以顺任此歌</div> |
@@ -110,7 +110,7 @@ i can feel you<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354025350)<br><br>2018-03-25 08:39<br>赞(2) 踩(0) | <div>我的小可复</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3583995)<br>一個人的戰爭<br>2018-03-16 19:52<br>赞(2) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336139576)<br><br>2018-02-26 00:19<br>赞(1) 踩(0) | <div>。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277133872)<br><br>2018-01-29 20:26<br>赞(4) 踩(0) | <div>顺子我怎么可以那么有才你一个女生这样子我真的好嫉妒你我会一直爱你的顺子我的青春我的现在和未来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277133872)<br><br>2018-01-29 20:26<br>赞(4) 踩(0) | <div>顺子<br>我怎么可以那么有才<br>你一个女生<br>这样子<br>我真的好嫉妒你<br>我会一直爱你的<br>顺子<br>我的青春<br>我的现在和未来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290905347)<br> <br>2018-01-11 23:52<br>赞(16) 踩(0) | <div>顺子声音 很性感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335173775)<br><br>2017-12-11 20:12<br>赞(3) 踩(0) | <div>在我心里你是唯一，爱太难</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335173775)<br><br>2017-12-11 20:11<br>赞(3) 踩(0) | <div>顺子的黄金时代，感动人不朽金曲</div> |
@@ -192,13 +192,13 @@ i can feel you<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281479654)<br> <br>2017-07-15 20:34<br>赞(0) 踩(0) | <div>难的是对方已经走开，而只剩下你，一直，永远&amp;hellip;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333638380)<br>孤独、是我的老友，陪伴我...<br>2017-11-28 21:29<br>赞(0) 踩(0) | <div><q><b>詹小贝、说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344819380)<br><br>2018-05-28 18:14<br>赞(0) 踩(0) | <div>。。！l</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282552997)<br><br>2019-01-23 10:31<br>赞(0) 踩(0) | <div>好想忘了你可是我好想你</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282552997)<br><br>2019-01-23 10:31<br>赞(0) 踩(0) | <div>好想忘了你<br>可是<br>我好想你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50789736)<br>深爱你入骨。<br>2015-10-15 00:19<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32072981)<br> <br>2015-07-06 01:44<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32072981)<br> <br>2015-07-06 01:43<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45711329)<br>吐泡的鲸鱼<br>2015-06-08 00:43<br>赞(0) 踩(0) | <div>走吧…看着你…再见！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48241721)<br><br>2015-05-12 11:53<br>赞(0) 踩(0) | <div>还好吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19476343)<br>天 真 有 邪<br>2015-03-29 19:19<br>赞(2) 踩(0) | <div>令我痛心疾首也沒關係既然在我的生活裡發生了我就必須接受這段你存在過的意義</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19476343)<br>天 真 有 邪<br>2015-03-29 19:19<br>赞(2) 踩(0) | <div>令我痛心疾首也沒關係<br>既然在我的生活裡發生了<br>我就必須接受這段你存在過的意義</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35438445)<br><br>2015-02-17 12:23<br>赞(0) 踩(0) | <div>Bangzabangza⭐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12841275)<br>林米<br>2015-02-05 09:52<br>赞(1) 踩(0) | <div>喜欢顺子的原唱，更有星星的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36418634)<br>暂无签名~<br>2014-11-23 20:34<br>赞(0) 踩(0) | <div>听这首，给你最好的陪伴。</div> |
@@ -232,4 +232,4 @@ i can feel you<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1905939)<br><br>2011-08-13 23:35<br>赞(1) 踩(0) | <div>顺子的歌总是很舒服，有故事，晚安曲的星星……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1905939)<br><br>2011-08-13 23:33<br>赞(0) 踩(0) | <div>顺子的歌总是很舒服，有故事，晚安曲的星星……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/562843)<br> <br>2011-06-16 20:13<br>赞(0) 踩(0) | <div>她的歌适合晚上安静的听~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23188)<br><br>2009-09-13 21:19<br>赞(0) 踩(0) | <div>有了芬芳的玫瑰，才有蝴蝶的飞舞有了蔚蓝的海洋，才有鱼儿的畅游有了无边的夜空，才有星光的灿烂有了你的出现，才有我的精彩</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23188)<br><br>2009-09-13 21:19<br>赞(0) 踩(0) | <div>有了芬芳的玫瑰，才有蝴蝶的飞舞<br>有了蔚蓝的海洋，才有鱼儿的畅游<br>有了无边的夜空，才有星光的灿烂<br>有了你的出现，才有我的精彩</div> |

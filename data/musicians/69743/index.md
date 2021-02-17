@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4f96e27d2e6f83e92a1107b0d334104d.jpg)<br>白天不亮](https://i.xiami.com/gavintoo) | **播放数**: 7346725<br>**粉丝数**: 19623<br>**评论数**: 621<br>**地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap<br> |
+| [![](../../images/musicians/4f96e27d2e6f83e92a1107b0d334104d.jpg)<br>白天不亮](https://i.xiami.com/gavintoo) | **地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap<br>**播放数**: 7346725<br>**粉丝数**: 19623<br>**评论数**: 621<br> |
 
 ## 档案
 
@@ -50,8 +50,8 @@ After self-releasing his first work collection Never End Never Hurt on the inter
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32275483)<br>我还没想好要写什么...<br>2020-12-20 21:05<br>赞(0) 踩(0) | <div>今天终于在深圳DIY看见白叔了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426696878)<br>消失<br>2020-10-05 17:07<br>赞(0) 踩(0) | <div>节日快乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337831135)<br>我爱的是人 不是性别<br>2020-06-04 22:22<br>赞(1) 踩(0) | <div>加油呀</div> |
@@ -138,7 +138,7 @@ After self-releasing his first work collection Never End Never Hurt on the inter
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/394627)<br> <br>2016-04-24 23:36<br>赞(0) 踩(0) | <div>吊吊吊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26166944)<br>游走在社会边缘的神秘者<br>2016-04-19 07:51<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24512375)<br> <br>2016-04-06 15:39<br>赞(0) 踩(0) | <div>jazz</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321360)<br>Segmentation<br>2016-04-04 22:11<br>赞(2) 踩(0) | <div>关键词：深圳 知名互联网企业 非洲生活经历我猜你是华为的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321360)<br>Segmentation<br>2016-04-04 22:11<br>赞(2) 踩(0) | <div>关键词：深圳 知名互联网企业 非洲生活经历<br>我猜你是华为的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321360)<br>Segmentation<br>2016-05-03 12:45<br>赞(0) 踩(0) | <div><q><b>Fuu说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28479462)<br>农<br>2016-10-06 08:47<br>赞(0) 踩(0) | <div>他妈的笑尿了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39463329)<br>品味没用，要创造<br>2017-03-15 11:16<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈哈</div> |
@@ -281,8 +281,8 @@ After self-releasing his first work collection Never End Never Hurt on the inter
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8347652)<br>我们自己去买衣服<br>2015-01-06 14:08<br>赞(0) 踩(0) | <div>很不错！喜欢这种风格！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7757466)<br>只想好好当个垃圾✓<br>2015-01-03 01:00<br>赞(0) 踩(0) | <div>✡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42344548)<br>酷狗每晚现场打碟直播，房...<br>2014-12-27 08:07<br>赞(0) 踩(0) | <div>很不错的曲子。喜欢！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:23<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157355)<br>榕树长青<br>2014-12-24 20:55<br>赞(1) 踩(0) | <div>────▓▓▓▓───▓▓▓▓▓▓▓▓▓▓▓───▓▓▓▓──▓▓▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓▓──▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▓▓───▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓─────▓▓▓▓▓███▓▓▓▓▓▓▓███▓▓▓▓▓────▓▓▓▓▓▓███▓▓▓▓▓▓▓███▓▓▓▓▓▓────▓▓▓▓▓▓▓▓▒▒▒███▒▒▒▓▓▓▓▓▓▓▓────▓▓▓▓▓▓▓▒▒▒▒███▒▒▒▒▓▓▓▓▓▓▓─────▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓ Merry X&amp;#039;mas</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:23<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157355)<br>榕树长青<br>2014-12-24 20:55<br>赞(1) 踩(0) | <div>────▓▓▓▓───▓▓▓▓▓▓▓▓▓▓▓───▓▓▓▓<br>──▓▓▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓▓<br>──▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▓▓<br>───▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓<br>─────▓▓▓▓▓███▓▓▓▓▓▓▓███▓▓▓▓▓<br>────▓▓▓▓▓▓███▓▓▓▓▓▓▓███▓▓▓▓▓▓<br>────▓▓▓▓▓▓▓▓▒▒▒███▒▒▒▓▓▓▓▓▓▓▓<br>────▓▓▓▓▓▓▓▒▒▒▒███▒▒▒▒▓▓▓▓▓▓▓<br>─────▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓ Merry X&amp;#039;mas</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17205094)<br>真的很奇怪，没错了<br>2014-12-22 22:04<br>赞(0) 踩(0) | <div>！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42292657)<br>游走在音乐之中 你在吗<br>2014-12-18 08:58<br>赞(0) 踩(0) | <div>好听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6485455)<br>电子乐狂欢中~<br>2014-12-15 19:58<br>赞(0) 踩(0) | <div>白叔有新demo啦！！</div> |
@@ -299,7 +299,7 @@ After self-releasing his first work collection Never End Never Hurt on the inter
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1114583)<br><br>2014-11-16 22:41<br>赞(0) 踩(0) | <div>天哪，这竟然是国人的电音！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13728572)<br>●_●<br>2014-11-11 22:28<br>赞(0) 踩(0) | <div>大叔的音乐真好听~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23111566)<br>Rather than ...<br>2014-11-10 12:58<br>赞(0) 踩(0) | <div>支持</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9506094)<br>我所有的看法都是偏见。<br>2014-11-08 01:03<br>赞(0) 踩(0) | <div>我常常想生活就是这样的 在路上徘徊 在幻想远方所以等待是一种常态hey 我在</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9506094)<br>我所有的看法都是偏见。<br>2014-11-08 01:03<br>赞(0) 踩(0) | <div>我常常想生活就是这样的 在路上徘徊 在幻想远方<br>所以等待是一种常态<br>hey 我在</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10303647)<br>~<br>2014-11-05 23:28<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7796041)<br><br>2014-11-03 21:40<br>赞(0) 踩(0) | <div>跑步听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4308674)<br>(๑و•̀ㅂ•́๑)و✧...<br>2014-11-03 00:37<br>赞(0) 踩(0) | <div>好听得浑身鸡皮疙瘩，好喜欢</div> |
@@ -335,7 +335,7 @@ After self-releasing his first work collection Never End Never Hurt on the inter
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1239175)<br><br>2014-10-22 18:29<br>赞(0) 踩(0) | <div>在这里看到你了，你做的那张Slow很棒！注意身体，保重！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5133491)<br>其他音乐平台用户名依旧叫...<br>2014-10-23 10:26<br>赞(0) 踩(0) | <div><q><b>Vinkamor说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4167006)<br><br>2014-10-20 12:04<br>赞(0) 踩(0) | <div>jazzrap</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34133074)<br><br>2014-10-10 17:42<br>赞(0) 踩(0) | <div>想你想你我还在雨里想你   撑着花伞趴在你肩膀上 是不是还有青草味道走吧走吧我只是一只小猫   喜欢这样靠在你肩膀上  是不是还能记得我在你梦里喘息</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34133074)<br><br>2014-10-10 17:42<br>赞(0) 踩(0) | <div>想你想你我还在雨里想你   撑着花伞趴在你肩膀上 是不是还有青草味道<br>走吧走吧我只是一只小猫   喜欢这样靠在你肩膀上  是不是还能记得我<br>在你梦里喘息</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8728253)<br>只有被愛<br>2014-10-05 02:11<br>赞(0) 踩(0) | <div>I miss you是我最愛的人給我聽，不過他不會回來我身邊了，這首歌仍然是我心心念念聽不厭，刪掉，分享，刪掉，分享，循環一樣，真的。（imizu!）（i n 55!w ！）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12076161)<br>兼容古典和嘻哈<br>2014-10-03 16:40<br>赞(0) 踩(0) | <div>想收碟，求问哪里可以买到正版？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11321299)<br>我还没想好要写什么...<br>2014-09-27 23:19<br>赞(0) 踩(0) | <div>白叔晚安</div> |
@@ -374,7 +374,7 @@ After self-releasing his first work collection Never End Never Hurt on the inter
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1287370)<br>心相<br>2014-06-11 21:21<br>赞(0) 踩(0) | <div>白哥！我今天第一次听见您的作品！非常非常喜欢！您是中国的dj kawasaki！！！非常激动！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12571332)<br><br>2014-06-08 23:00<br>赞(0) 踩(0) | <div>nujabes</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13552)<br><br>2014-06-08 08:46<br>赞(0) 踩(0) | <div>***</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1239175)<br><br>2014-06-05 18:56<br>赞(2) 踩(0) | <div>第二届#微博音乐人奖#——最佳电子音乐人，开始投票啦！<a href="http://weibo.com/1852855013/B7BaeaEds?ref=home" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/1852855013/B7BaeaEds?ref=home</a>都快给白叔投一票吧。让荣誉属于真正好的音乐人。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1239175)<br><br>2014-06-05 18:56<br>赞(2) 踩(0) | <div>第二届#微博音乐人奖#——最佳电子音乐人，开始投票啦！<br><a href="http://weibo.com/1852855013/B7BaeaEds?ref=home" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/1852855013/B7BaeaEds?ref=home</a><br>都快给白叔投一票吧。让荣誉属于真正好的音乐人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314433)<br>:-D<br>2014-05-31 03:10<br>赞(0) 踩(0) | <div>喜欢你很久了！！！那时候高三每个晚上补习完踩着回家途中 耳机里一定是放着《时光幻游指南》</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419422)<br>近期演出12月19日广州...<br>2014-07-02 22:30<br>赞(0) 踩(0) | <div>高考复习必备音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16034898)<br>一呼一吸一飞行，一天一年...<br>2014-05-29 13:15<br>赞(0) 踩(0) | <div>一路旅程.你陪伴我38个日夜.2千多公里..从新车变旧车.从激情到疲惫.从平淡到云中间. .呼吸吞云吐雾间..绕着绕着还是回到你的音乐 .回到原点.在纳木错点燃那根烟.谢谢你给我极致的飞行体验！！！</div> |
@@ -474,7 +474,7 @@ After self-releasing his first work collection Never End Never Hurt on the inter
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-09-26 19:02<br>赞(0) 踩(0) | <div>国人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2671921)<br> <br>2013-09-26 00:59<br>赞(0) 踩(0) | <div>太喜欢你的音乐了！！！非常好！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9766513)<br>点儿都不好耍<br>2013-09-04 08:44<br>赞(0) 踩(0) | <div>chill out.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6949989)<br><br>2013-08-30 21:51<br>赞(0) 踩(0) | <div>中国电音的骄傲虽然音乐是无界的，但在希望白兄在小日本面前高傲点，毕竟你是中华民族的骄傲，所以那张照片本人不是很喜欢。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6949989)<br><br>2013-08-30 21:51<br>赞(0) 踩(0) | <div>中国电音的骄傲<br>虽然音乐是无界的，但在希望白兄在小日本面前高傲点，毕竟你是中华民族的骄傲，所以那张照片本人不是很喜欢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8868562)<br><br>2013-08-27 14:59<br>赞(1) 踩(0) | <div>我是在Swing Out Sister那边逛到白叔这边的，然后突然像是看到了中国音乐的曙光一样(0.0)。额，身为一个90后居然喜欢Swing Out Sister，我也够奇葩的了，不过居然找到了白叔，哎呀太幸运了，超喜欢~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6103854)<br> <br>2013-08-20 12:53<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9888358)<br><br>2013-08-16 17:56<br>赞(0) 踩(0) | <div>又长知识了。驰放音乐么。</div> |
@@ -488,7 +488,7 @@ After self-releasing his first work collection Never End Never Hurt on the inter
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10120655)<br><br>2013-06-21 10:42<br>赞(0) 踩(0) | <div>白天不亮</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13609336)<br>你好、陌生人<br>2013-06-17 16:44<br>赞(0) 踩(0) | <div>夜晚不黑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10949301)<br><br>2013-06-15 13:59<br>赞(0) 踩(0) | <div>现代</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341091)<br>偶爱我们呢~<br>2013-06-15 13:20<br>赞(0) 踩(0) | <div>白天不亮我的白天白过了全成了夜晚</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341091)<br>偶爱我们呢~<br>2013-06-15 13:20<br>赞(0) 踩(0) | <div>白天不亮<br>我的白天白过了<br>全成了夜晚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1900811)<br>暂无签名~<br>2013-05-27 13:19<br>赞(0) 踩(0) | <div>很好聽~波棒《Floating in the Air of the Moon (Gavintoo’s Self Remix)》</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1318932)<br>想好写什么了 就是我不想...<br>2013-05-16 12:25<br>赞(0) 踩(0) | <div>白叔什么时候参加电子音乐节  或者有什么演出啊  好想听现场</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419422)<br>近期演出12月19日广州...<br>2013-05-17 11:45<br>赞(0) 踩(0) | <div>等我忙完这段时间呗，到时一定要来捧场哦！</div> |
@@ -531,7 +531,7 @@ After self-releasing his first work collection Never End Never Hurt on the inter
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2887063)<br>閑 庭 除 鶴 跡<br>2013-05-08 12:03<br>赞(0) 踩(0) | <div>欢迎白叔!!!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9)<br>不来都得死<br>2013-05-08 10:55<br>赞(0) 踩(0) | <div>赞！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73)<br>等风景都看透 谁陪我看细...<br>2013-05-08 10:50<br>赞(1) 踩(0) | <div>欢迎白叔！@李天杲2G3</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225351)<br>人，最重要的是‘心’啊！<br>2013-05-08 10:16<br>赞(0) 踩(0) | <div>哈哈，一对一的亲密交流，好吸引人有木有。哈哈，当然不要想歪了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225351)<br>人，最重要的是‘心’啊！<br>2013-05-08 10:16<br>赞(0) 踩(0) | <div>哈哈，一对一的亲密交流，好吸引人有木有。<br>哈哈，当然不要想歪了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12313758)<br>我还没想好要写什么...<br>2013-05-05 21:48<br>赞(0) 踩(0) | <div>喜欢就是喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203394)<br>三分似神，七分似我。<br>2013-05-04 23:38<br>赞(0) 踩(0) | <div>我一听就坐不住了，很难遇到的好音乐了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2013-04-28 13:45<br>赞(0) 踩(0) | <div>白叔有兴趣在虾米建个音乐人么 = =</div> |
@@ -657,7 +657,7 @@ After self-releasing his first work collection Never End Never Hurt on the inter
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4948581)<br><br>2011-09-03 17:26<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1113346)<br>你曾怀疑，别忧郁我们终将...<br>2011-08-19 11:50<br>赞(0) 踩(0) | <div>被和谐了？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4218864)<br>†††<br>2011-07-04 14:55<br>赞(0) 踩(0) | <div>诶哟！不错喔！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2118563)<br>因 果<br>2011-05-26 14:41<br>赞(0) 踩(0) | <div><a href="http://tieba.baidu.com/f?kz=1090031334" target="_blank" rel="nofollow noreferrer noopener">http://tieba.baidu.com/f?kz=1090031334</a>新推出的 好货不多说......挂个连接给你们,各种有.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2118563)<br>因 果<br>2011-05-26 14:41<br>赞(0) 踩(0) | <div><a href="http://tieba.baidu.com/f?kz=1090031334" target="_blank" rel="nofollow noreferrer noopener">http://tieba.baidu.com/f?kz=1090031334</a><br>新推出的 好货不多说......挂个连接给你们,各种有.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2448845)<br><br>2011-05-07 23:41<br>赞(0) 踩(0) | <div>电子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1010521)<br><br>2011-04-02 20:38<br>赞(0) 踩(0) | <div>白天不亮，aka Gavintoo，走红独立乐界的新爵士/电子音乐制作人。其作品总是以神清气爽的节奏出发，精致而充满魅力的曼妙让人记忆深刻。@gavintoo</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1688336)<br><br>2011-01-28 14:06<br>赞(0) 踩(0) | <div>为什么突然有两张专辑删掉了？</div> |
@@ -667,10 +667,10 @@ After self-releasing his first work collection Never End Never Hurt on the inter
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2273789)<br>曲库达人️  ॣ  ॣ ...<br>2011-01-26 16:01<br>赞(0) 踩(0) | <div>一场欧洲之旅开始。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2561659)<br><br>2011-01-21 08:17<br>赞(0) 踩(0) | <div>很是喜爱，感觉仿佛在感受音乐中的‘印象派’。只有感受~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169428)<br><br>2011-01-06 15:42<br>赞(0) 踩(0) | <div>对了是从“i miss you ”找来的。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/654245)<br>不是知音者，难教爱此声。<br>2010-12-04 18:25<br>赞(0) 踩(0) | <div>音乐做得真的很不错！顶起！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/654245)<br>不是知音者，难教爱此声。<br>2010-12-04 18:25<br>赞(0) 踩(0) | <div>音乐做得真的很不错！<br>顶起！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2010-07-15 17:56<br>赞(0) 踩(0) | <div>so?</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1039912)<br>你竟然在屎里下毒！<br>2010-07-14 12:15<br>赞(0) 踩(0) | <div>以Nujabes为契机找到的...真的好高兴目前国内有这么棒的....</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1039912)<br>你竟然在屎里下毒！<br>2010-07-14 12:15<br>赞(0) 踩(0) | <div>以Nujabes为契机找到的...<br><br>真的好高兴目前国内有这么棒的....</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2010-07-15 17:51<br>赞(0) 踩(0) | <div>您把我要说的话说完了、。。。。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169428)<br><br>2011-01-06 15:42<br>赞(0) 踩(0) | <div>这也是我的感叹。国内有ceezy,有白天不亮。老怀甚慰··</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169428)<br><br>2011-01-06 15:42<br>赞(0) 踩(0) | <div>这也是我的感叹。<br>国内有ceezy,有白天不亮。<br>老怀甚慰··</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419422)<br>近期演出12月19日广州...<br>2011-03-01 17:42<br>赞(0) 踩(0) | <div>THX~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112825)<br><br>2010-06-20 13:37<br>赞(0) 踩(0) | <div>雄起。</div> |

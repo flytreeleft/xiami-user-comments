@@ -3,7 +3,7 @@ pinkman
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b31e22278bec46e50df06361b6e7730a.jpg)<br>pinkman](https://i.xiami.com/zhangmengliang) | **播放数**: 655107<br>**粉丝数**: 201<br>**评论数**: 8<br>**地区**: 美国 United States of America<br>**风格**: 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/b31e22278bec46e50df06361b6e7730a.jpg)<br>pinkman](https://i.xiami.com/zhangmengliang) | **地区**: 美国 United States of America<br>**风格**: 轻音乐 Easy Listening<br>**播放数**: 655107<br>**粉丝数**: 201<br>**评论数**: 8<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@ piano life..
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263340530)<br><br>2021-01-10 16:27<br>赞(0) 踩(0) | <div>虾米音乐就要关闭了，小哥哥有没有其他平台呀，好喜欢小哥哥的音乐呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120070696)<br> <br>2021-01-05 18:02<br>赞(0) 踩(0) | <div>去哪里找你呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49895220)<br>一念静心花开遍世界<br>2020-12-04 19:58<br>赞(1) 踩(0) | <div>敢混周董，我听听看</div> |

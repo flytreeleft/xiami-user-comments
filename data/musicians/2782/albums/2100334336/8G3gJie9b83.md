@@ -27,8 +27,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308518525)<br><br>2020-09-03 18:45<br>赞(1) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-07-22 10:05<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413628232)<br><br>2020-06-18 18:38<br>赞(0) 踩(0) | <div>好可爱的蒙古汉子</div> |
@@ -52,7 +52,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2063894)<br>奚君缪君乃吾命<br>2018-09-24 18:50<br>赞(3) 踩(0) | <div>原唱好像是个岁月静好的老爷爷 编曲也特别舒缓 被改成这样我只想说 如果农牧业重金属是个褒义词 它形容的一定是这种歌 杭盖真棒 真棒！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19957232)<br><br>2018-09-07 06:39<br>赞(1) 踩(0) | <div>初听此歌&amp;mdash;&amp;mdash;《家庭幽默录像》</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55486960)<br> <br>2018-12-18 16:49<br>赞(0) 踩(0) | <div>哈哈哈 我记得，是俩小孩拿着扫把当吉他呢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296799055)<br>要么让我听歌.要么让我死<br>2018-08-06 17:46<br>赞(10) 踩(0) | <div>大致意思是：上海产的半导体，是奖励给我最好的礼物。因为我劳动出色又勇敢，奖给我这台半导体。赶着马群放牧时，它在我手上响着呢。傍晚回到宿舍里，它在柜子上说话呢。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296799055)<br>要么让我听歌.要么让我死<br>2018-08-06 17:46<br>赞(10) 踩(0) | <div>大致意思是：<br>上海产的半导体，<br>是奖励给我最好的礼物。<br>因为我劳动出色又勇敢，<br>奖给我这台半导体。<br><br>赶着马群放牧时，<br>它在我手上响着呢。<br>傍晚回到宿舍里，<br>它在柜子上说话呢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41206491)<br><br>2018-07-13 09:28<br>赞(3) 踩(0) | <div>认识杭盖是在那年丽江束河coart艺术节，那晚在四方听音，超级high。很多镇上的居民也来听，有的阿妈年纪都很大了，但是听的安静且投入，对于音乐，我想大家欣赏水平是一致的，那一刻我觉得这些偶遇的演出，远远比文艺青年的追捧强上几百倍！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248797577)<br><br>2018-11-30 00:19<br>赞(0) 踩(0) | <div>啊那次我也在，嗨爆，就是喂了半宿蚊子。去年谭盾与杭盖的交响摇滚也去看了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333306491)<br><br>2018-01-14 20:25<br>赞(34) 踩(0) | <div>歌词大意：上海产的半导体，然而并没有什么卵用，草原上信号不好啊，还是喝酒吧，所以还是喝酒吧。朋友们，我们一起俩喝酒，去他见鬼的上海半导体。真好喝呀么真好喝，喝完一杯又一杯，真好喝呀么真好喝，喝完一杯一直喝。</div> |
@@ -98,7 +98,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14784167)<br><br>2016-08-17 15:01<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5464501)<br> <br>2016-07-30 21:28<br>赞(0) 踩(0) | <div>精彩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41970300)<br><br>2016-07-10 23:13<br>赞(3) 踩(0) | <div>哪位大神可以出个音译的、哈哈哈</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43234284)<br> <br>2017-02-24 15:59<br>赞(0) 踩(0) | <div>shanghai hitstei bandooti,shagnal deersen bileg daa huishalamgai sain ajillaarai desaishaaj ugsun ajuu da hui只能听出这些了，大家凑活可以唱一段</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43234284)<br> <br>2017-02-24 15:59<br>赞(0) 踩(0) | <div>shanghai hitstei bandooti,<br>shagnal deersen bileg daa hui<br>shalamgai sain ajillaarai de<br>saishaaj ugsun ajuu da hui<br>只能听出这些了，大家凑活可以唱一段</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127631688)<br><br>2016-06-29 13:21<br>赞(2) 踩(0) | <div>纯爷们的嗓音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127631688)<br><br>2016-06-18 15:42<br>赞(0) 踩(0) | <div>喜欢杭盖的洒脱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42120637)<br>Be mongolhun<br>2016-05-23 23:29<br>赞(38) 踩(0) | <div>《花斑马》专辑中，叙事性和画面感最充实的就是这首，同样热爱杭盖的粉丝，这首专辑最大的惊喜是在12首中，经典之外还有它。那个在牧区的深夜，右手喝着热奶茶，耳朵凑近收音机旁细细倾听的回忆扑面而来。</div> |

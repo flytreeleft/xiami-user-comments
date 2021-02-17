@@ -37,8 +37,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256791352)<br> <br>2020-12-20 19:20<br>赞(1) 踩(0) | <div>春风不度玉门关</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-11-06 04:59<br>赞(1) 踩(0) | <div>好歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295252679)<br><br>2020-10-04 20:05<br>赞(0) 踩(0) | <div>一头老骡闯凉州，自有四方大自在。</div> |
@@ -73,9 +73,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294854813)<br><br>2018-10-20 15:00<br>赞(2) 踩(0) | <div>骑着青驴，西出玉门关。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46263086)<br>夜不能寐<br>2018-10-06 23:22<br>赞(1) 踩(0) | <div>101我出道了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1331382)<br>点击编辑<br>2018-08-17 22:58<br>赞(2) 踩(0) | <div>The best part of the lyric is it doesn`t tell about the war directly but describes two scenes.One is the wife was standing on a balcony,missing her husband badly.And the other one is the man was standing on the border line,thinking that his wife must miss him at the same time.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782708)<br>万物皆自然，道法皆自然<br>2018-08-16 19:20<br>赞(2) 踩(0) | <div>听了，还想听。脑海里始终是抹不去的意境周云蓬的《关山月》，使我确信：远古的歌谣依然在天空飘荡&amp;hellip;&amp;hellip;明月出天山，苍茫云海间。长风几万里，吹度玉门关。汉下白登道，胡窥青海湾。由来征战地，不见有人还。戍客望边色，思归多苦颜。高楼当此夜，叹息未应闲。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782708)<br>万物皆自然，道法皆自然<br>2018-08-12 18:10<br>赞(2) 踩(0) | <div>多年来，唱古诗的电视有，大家多，视频也看了，印象比较深的也有。不过，有的跟小和尚念经似的，有的似修女唱诗，说不出好在哪儿，总觉得跟诗词的意境不太契合。他们的音乐里有敷衍、有用力过猛，但没有对古诗词的爱。听，一个逝去久远的歌谣&amp;hellip;&amp;hellip;，回来了。就在这儿。抹去了我的乡愁！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782708)<br>万物皆自然，道法皆自然<br>2018-08-12 17:35<br>赞(1) 踩(0) | <div>引子出来了，一下击中我那永不泯灭的乡愁。我确信，这就是歌谣，就是汉代至今没有逝去的歌谣。还有那个三弦，离开了它，歌谣还在吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782708)<br>万物皆自然，道法皆自然<br>2018-08-16 19:20<br>赞(2) 踩(0) | <div>听了，还想听。脑海里始终是抹不去的意境<br>周云蓬的《关山月》，使我确信：远古的歌谣依然在天空飘荡&amp;hellip;&amp;hellip;<br><br>明月出天山，苍茫云海间。<br><br>长风几万里，吹度玉门关。<br><br>汉下白登道，胡窥青海湾。<br><br>由来征战地，不见有人还。<br><br>戍客望边色，思归多苦颜。<br><br>高楼当此夜，叹息未应闲。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782708)<br>万物皆自然，道法皆自然<br>2018-08-12 18:10<br>赞(2) 踩(0) | <div>多年来，唱古诗的电视有，大家多，视频也看了，印象比较深的也有。不过，有的跟小和尚念经似的，有的似修女唱诗，说不出好在哪儿，总觉得跟诗词的意境不太契合。他们的音乐里有敷衍、有用力过猛，但没有对古诗词的爱。<br>听，一个逝去久远的歌谣&amp;hellip;&amp;hellip;，回来了。<br>就在这儿。<br>抹去了我的乡愁！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782708)<br>万物皆自然，道法皆自然<br>2018-08-12 17:35<br>赞(1) 踩(0) | <div>引子出来了，一下击中我那永不泯灭的乡愁。<br>我确信，这就是歌谣，就是汉代至今没有逝去的歌谣。<br>还有那个三弦，离开了它，歌谣还在吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1073225)<br><br>2018-08-09 00:05<br>赞(4) 踩(0) | <div>对我来说，周云蓬的音乐总是不会让我失望，他所拥有的真诚细腻与洞见，很难在其他音乐人身上找到。这首《关山月》根据古曲改编，李白的韵味十足，当然我不知道当年李白是怎么唱这首歌的，但我愿意相信，应该就是周云蓬表达出来的样子。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98661028)<br><br>2018-07-07 14:41<br>赞(3) 踩(0) | <div>确实是古曲，听了一半才发现旋律和古琴曲的一样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302830785)<br><br>2018-06-22 22:15<br>赞(7) 踩(0) | <div>******</div> |
@@ -88,7 +88,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251629460)<br><br>2018-02-19 21:57<br>赞(4) 踩(0) | <div>2018年2月18日，在大理九月酒吧，我听到了周大叔现场版的《关山月》，是我听过最好听的版本。新年愿望实现了好开心 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2792739)<br>唯沉默是最高的蔑视<br>2018-02-14 02:17<br>赞(4) 踩(0) | <div>仙风道骨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303954235)<br>岁月如歌<br>2018-01-12 22:07<br>赞(3) 踩(0) | <div>古韵十足</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74496818)<br>See you spac...<br>2018-01-01 13:08<br>赞(23) 踩(0) | <div>冬天的信那盏灯入夜就没有熄过。&amp;hellip;&amp;hellip;我们的生活总会好一点吧，胡萝卜已经上市。她瞪着眼睛喘息，也不再生气，你给我写信正是她去世的前一天。&amp;hellip;&amp;hellip;等你来的时候，我带你去河边。夏天晚上，我常一人在那里走路，夜色里也并不能想起你。&amp;ldquo;明月出天山，苍茫云海间&amp;rdquo;，这让人安详，有力气对着虚空伸开手臂。你、我之间隔着空漠漫长的冬天。我不在时，你就劈柴、浇菜地，整理一个月前的日记。你不在时，我一遍一遍读纪德，指尖冰凉，对着蒙了灰尘的书桌发呆。那些陡峭的山在寒冷干燥的空气里也像我们这样，平静而不痛苦吗？2003年冬马雁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74496818)<br>See you spac...<br>2018-01-01 13:08<br>赞(23) 踩(0) | <div>冬天的信<br>那盏灯入夜就没有熄过。<br>&amp;hellip;&amp;hellip;我们的生活<br>总会好一点吧，胡萝卜已经上市。<br>她瞪着眼睛喘息，也不再生气，<br>你给我写信正是她去世的前一天。<br>&amp;hellip;&amp;hellip;<br>等你来的时候，我带你去河边。<br>夏天晚上，我常一人在那里<br>走路，夜色里也并不能想起你。<br>&amp;ldquo;明月出天山，苍茫云海间&amp;rdquo;，<br>这让人安详，有力气对着虚空<br>伸开手臂。你、我之间隔着<br>空漠漫长的冬天。我不在时，<br>你就劈柴、浇菜地，整理<br>一个月前的日记。你不在时，<br>我一遍一遍读纪德，指尖冰凉，<br>对着蒙了灰尘的书桌发呆。<br>那些陡峭的山在寒冷干燥的空气里<br>也像我们这样，平静而不痛苦吗？<br><br>2003年冬<br>马雁</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432826399)<br><br>2019-11-30 09:24<br>赞(0) 踩(0) | <div>才女马雁，可惜走的太早了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290607263)<br>   知行合一<br>2017-12-15 20:28<br>赞(1) 踩(0) | <div>词曲儿确实有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43557457)<br>谢谢虾米 永远记得你爱你<br>2017-11-27 14:22<br>赞(0) 踩(0) | <div>/</div> |
@@ -148,7 +148,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50400884)<br><br>2015-09-26 11:26<br>赞(0) 踩(0) | <div>誒，後來的間奏，咋又有了新疆鼓的影兒？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50400884)<br><br>2015-09-26 11:25<br>赞(1) 踩(0) | <div>聽出了京韻大鼓的趕腳。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50400884)<br><br>2015-09-26 11:25<br>赞(0) 踩(0) | <div>聽出了京韻大鼓的趕腳。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45641546)<br> <br>2015-09-12 18:47<br>赞(83) 踩(0) | <div>明月出天山，苍茫云海间。长风几万里，吹度玉门关。汉下白登道，胡窥青海湾。由来征战地，不见有人还。戍客望边色，思归多苦颜。高楼当此夜，叹息未应闲⑻。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45641546)<br> <br>2015-09-12 18:47<br>赞(83) 踩(0) | <div>明月出天山，苍茫云海间。<br><br>长风几万里，吹度玉门关。<br><br>汉下白登道，胡窥青海湾。<br><br>由来征战地，不见有人还。<br><br>戍客望边色，思归多苦颜。<br><br>高楼当此夜，叹息未应闲⑻。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264846543)<br><br>2017-07-13 22:56<br>赞(0) 踩(0) | <div>这个复制的括号8好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45641546)<br> <br>2017-07-14 01:27<br>赞(0) 踩(0) | <div><q><b>Amor说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12396775)<br>.._:(´_`」 ∠)...<br>2015-08-26 07:56<br>赞(0) 踩(0) | <div>啊我以为一开始在打呼噜</div> |

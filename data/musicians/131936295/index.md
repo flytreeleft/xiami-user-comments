@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/813e9f8cb05ea20cb43f57066b19d798.jpg)<br>权小康](https://i.xiami.com/qxk) | **播放数**: 4363140<br>**粉丝数**: 765<br>**评论数**: 103<br>**地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap, 独立流行 Indie Pop, 国语流行 Mandarin Pop, 电音流行 Electropop<br> |
+| [![](../../images/musicians/813e9f8cb05ea20cb43f57066b19d798.jpg)<br>权小康](https://i.xiami.com/qxk) | **地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap, 独立流行 Indie Pop, 国语流行 Mandarin Pop, 电音流行 Electropop<br>**播放数**: 4363140<br>**粉丝数**: 765<br>**评论数**: 103<br> |
 
 ## 档案
 
@@ -47,8 +47,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-04 11:55<br>赞(0) 踩(0) | <div>45308</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432749698)<br>为一首歌下一个app<br>2019-11-29 13:03<br>赞(2) 踩(0) | <div>很支持你，从酷狗到虾米，不过我觉得你不用电音更好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170744720)<br><br>2019-08-15 23:03<br>赞(2) 踩(0) | <div>康哥你要记住你是艺人</div> |

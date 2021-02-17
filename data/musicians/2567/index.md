@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/785bfa1460f771e26e2e7387baf2377b.jpg)<br>朱婧汐](https://i.xiami.com/jingmusic) | **播放数**: 10298244<br>**粉丝数**: 6533<br>**评论数**: 298<br>**地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 新迷幻 Neo-Psychedelia, 艺术流行 Art Pop<br> |
+| [![](../../images/musicians/785bfa1460f771e26e2e7387baf2377b.jpg)<br>朱婧汐](https://i.xiami.com/jingmusic) | **地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 新迷幻 Neo-Psychedelia, 艺术流行 Art Pop<br>**播放数**: 10298244<br>**粉丝数**: 6533<br>**评论数**: 298<br> |
 
 ## 档案
 
@@ -43,8 +43,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14244198)<br><br>2021-01-07 22:07<br>赞(0) 踩(0) | <div>老阿姨很喜欢她的歌，有感觉。虾米即将成为过去式，来留个言，祝友友们未来都好～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47729726)<br>听你听我<br>2020-11-30 13:49<br>赞(0) 踩(0) | <div>谢谢你的音乐，谢谢你 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18887212)<br>no way<br>2020-10-31 23:01<br>赞(0) 踩(0) | <div>爱了爱了</div> |
@@ -90,7 +90,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13869736)<br>算是耐看型银铃般笑声的一...<br>2019-01-12 11:53<br>赞(1) 踩(0) | <div>哇 居然我大云南的妹子 看即刻电音 还未见人就被声线吸引 好棒 加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15498065)<br>我还没想好要写什么...<br>2019-01-01 18:26<br>赞(3) 踩(0) | <div>心碎大道不解释</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374373655)<br><br>2018-12-26 15:09<br>赞(1) 踩(0) | <div>******</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-12-18 08:29<br>赞(1) 踩(0) | <div>好听喜欢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-12-18 08:29<br>赞(1) 踩(0) | <div>好听<br>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/154227638)<br>音樂可治人心人生。得到了...<br>2018-10-18 23:53<br>赞(1) 踩(0) | <div>你是美的。回忆的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10922511)<br>音乐，是生活的调剂品！<br>2018-07-18 18:18<br>赞(1) 踩(0) | <div>前奏太像《前方》了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344583090)<br><br>2018-05-25 22:45<br>赞(0) 踩(0) | <div>原来是我们傣族的小姐姐 <img src="../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png"></div> |
@@ -271,7 +271,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5237578)<br><br>2013-12-24 13:26<br>赞(0) 踩(0) | <div>谁告诉我她的CD上哪买······</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2737024)<br>不是僵尸号，台湾流行乐爱...<br>2013-12-20 23:23<br>赞(41) 踩(0) | <div>记得认识朱婧是几年前看央视数字频道的数字标榜，那期的主题是说最有潜力（还是最有发展前景来着）的新出道歌手，还提到了曹格和潘嘉丽（留有印象的这几位都很喜欢，所以一直很想找回那期的数字标榜看看，但是没找到。。。）朱婧的歌儿好动人！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100248386)<br>等虾米把版权们抢回来再说...<br>2019-07-29 15:53<br>赞(0) 踩(0) | <div>五年前发的评论？现在已经过去整整十年了</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2737024)<br>不是僵尸号，台湾流行乐爱...<br>2020-06-17 11:09<br>赞(0) 踩(0) | <div>时隔多年我终于找回留言提到的这个榜单了，是当年央视电视指南频道《数字飙榜》栏目的一期内容「华语乐坛十大风云小天后」，推荐的十位歌手分别是&amp;mdash;&amp;mdash;10.那娜&amp;nbsp;9.许慧欣&amp;nbsp;8.刘忻&amp;nbsp;7.许飞 6.朱婧&amp;nbsp;5.潘嘉丽&amp;nbsp;4.爱戴&amp;nbsp;3.艾梦萌&amp;nbsp;2.谢安琪&amp;nbsp;1.阿朵。许飞、朱婧（汐）、阿朵都参加了今年的《乘风破浪的姐姐》哦！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2737024)<br>不是僵尸号，台湾流行乐爱...<br>2020-06-17 11:09<br>赞(0) 踩(0) | <div>时隔多年我终于找回留言提到的这个榜单了，是当年央视电视指南频道《数字飙榜》栏目的一期内容「华语乐坛十大风云小天后」，推荐的十位歌手分别是&amp;mdash;&amp;mdash;10.那娜&amp;nbsp;9.许慧欣&amp;nbsp;8.刘忻&amp;nbsp;7.许飞 6.朱婧&amp;nbsp;5.潘嘉丽&amp;nbsp;4.爱戴&amp;nbsp;3.艾梦萌&amp;nbsp;2.谢安琪&amp;nbsp;1.阿朵。<br><br>许飞、朱婧（汐）、阿朵都参加了今年的《乘风破浪的姐姐》哦！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33611592)<br>音乐是药<br>2020-06-29 07:16<br>赞(0) 踩(0) | <div><q><b>为了浏览方便才注册这账号说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2737024)<br>不是僵尸号，台湾流行乐爱...<br>2020-12-20 09:12<br>赞(0) 踩(0) | <div><q><b>灯灯灯仔说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2737024)<br>不是僵尸号，台湾流行乐爱...<br>2020-12-20 09:12<br>赞(0) 踩(0) | <div><q><b>HelenaKriste说：</b></q></div> |
@@ -314,9 +314,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1729651)<br>借你一场午睡<br>2012-01-18 14:42<br>赞(0) 踩(0) | <div>美丽骏马</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3117799)<br><br>2012-01-06 21:13<br>赞(0) 踩(0) | <div>从香格里拉认识她</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4115339)<br><br>2011-12-16 15:20<br>赞(0) 踩(0) | <div>美丽的骏马</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3714491)<br>混吃等死中<br>2011-11-17 20:07<br>赞(0) 踩(0) | <div>知道她是因为旅行途中听了《我想见你》 我对朱婧的这类很原生的清澈嗓音很执着若我只听了《我想见你》我想我会很喜欢你  可是你是那个曾出《香格里拉》这样绝美EP的女子这女子 可惜了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3714491)<br>混吃等死中<br>2011-11-17 20:07<br>赞(0) 踩(0) | <div>知道她是因为旅行途中听了《我想见你》 我对朱婧的这类很原生的清澈嗓音很执着<br>若我只听了《我想见你》我想我会很喜欢你  可是你是那个曾出《香格里拉》这样绝美EP的女子<br>这女子 可惜了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6727571)<br><br>2011-11-11 22:12<br>赞(0) 踩(0) | <div>很好的声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532661)<br>不要停止我的音乐<br>2011-10-15 11:16<br>赞(0) 踩(0) | <div>听cd比看现场好不懂这小妞有什么好耍大牌的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532661)<br>不要停止我的音乐<br>2011-10-15 11:16<br>赞(0) 踩(0) | <div>听cd比看现场好<br>不懂这小妞有什么好耍大牌的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4480466)<br>白日放歌须纵酒<br>2011-09-20 17:45<br>赞(0) 踩(0) | <div>刚认识 还成</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1999311)<br><br>2011-09-15 20:27<br>赞(0) 踩(0) | <div>干净，纯美，但不媚俗。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57925)<br><br>2011-08-28 02:27<br>赞(0) 踩(0) | <div>只因为她翻唱了ride on。</div> |

@@ -3,13 +3,10 @@ windyriver
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4303d15108234f8b6b5f8dd7307580fa.jpg)<br>windyriver](https://i.xiami.com/windyriver) | **播放数**: 927207<br>**粉丝数**: 366<br>**评论数**: 15<br>**地区**: China 中国大陆<br>**风格**: 古典跨界 Classical Crossover, 新世纪音乐 New Age, 中国风<br> |
+| [![](../../images/musicians/4303d15108234f8b6b5f8dd7307580fa.jpg)<br>windyriver](https://i.xiami.com/windyriver) | **地区**: China 中国大陆<br>**风格**: 古典跨界 Classical Crossover, 新世纪音乐 New Age, 中国风<br>**播放数**: 927207<br>**粉丝数**: 366<br>**评论数**: 15<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,8 +18,8 @@ windyriver
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434175246)<br><br>2019-12-16 18:49<br>赞(0) 踩(0) | <div>暖爪小曲不错，很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4270553)<br>我的黑暗是为早逝埋下的伏...<br>2019-07-06 23:34<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331789591)<br><br>2019-03-14 06:24<br>赞(0) 踩(0) | <div>☀</div> |

@@ -12,26 +12,23 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376631264)<br>睡个好觉<br>2019-08-24 02:06<br>赞(1) 踩(0) | <div>，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322473520)<br><br>2019-03-31 14:58<br>赞(0) 踩(0) | <div>好安静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/147870548)<br>拉小提听古典爱生活的机械...<br>2019-03-04 12:38<br>赞(2) 踩(0) | <div>陈粒真是个奇女子，完全想像不到，这种曲风的音乐居然也是出于江湖气十足的陈粒之手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71670866)<br>如果我听歌可眼红<br>2019-02-20 11:23<br>赞(0) 踩(0) | <div>被朋友拿来做vlog的bgm  也十分的有趣呢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280849135)<br>我还没想好要写什么呦<br>2018-12-12 19:03<br>赞(1) 踩(0) | <div>精选评论都是些什么垃圾。我就想看看你们有没有什么特别的感受，笑了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9981308)<br>SEE YOU IN H...<br>2018-12-05 19:17<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342631672)<br>我还没想好要写什么...<br>2018-10-23 00:15<br>赞(2) 踩(0) | <div>。傍晚 开始做你爱的菜等你驱车赶来锅里的菜跳动着如我雀跃的心墙上的钟一步步越来越近风铃声带着桂花香在房间里游荡当我回头你正好站在门口然后我们笑得像傻子一样</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199820433)<br> <br>2019-03-23 00:21<br>赞(0) 踩(0) | <div>看到他们描述的美好图景突然很想和你有幸福的未来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309874979)<br><br>2018-08-13 15:56<br>赞(0) 踩(0) | <div>现在是白天但好像见到了星空</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342631672)<br>我还没想好要写什么...<br>2018-10-23 00:15<br>赞(2) 踩(0) | <div>。傍晚 开始做你爱的菜<br>等你驱车赶来<br>锅里的菜跳动着如我雀跃的心<br>墙上的钟一步步越来越近<br>风铃声带着桂花香在房间里游荡<br>当我回头<br>你正好站在门口<br>然后我们笑得像傻子一样</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199820433)<br> <br>2019-03-23 00:21<br>赞(0) 踩(0) | <div>看到他们描述的美好图景<br>突然很想和你有幸福的未来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309874979)<br><br>2018-08-13 15:56<br>赞(0) 踩(0) | <div>现在是白天<br>但好像见到了星空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220162903)<br>我还没想好要写什么...<br>2018-08-09 21:32<br>赞(0) 踩(0) | <div>感觉像静止的时间 特别诡异</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354100637)<br>我还没想好要写什么...<br>2018-07-27 03:55<br>赞(1) 踩(0) | <div>评论里要是还可以发图片就好了，我想把我听完的感受画出来！挺陈粒 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182542280)<br><br>2018-07-19 19:12<br>赞(2) 踩(0) | <div>想起小时候一个人坐在家里的电视机前，看着各种动画片，或是偶像剧，或是点播节目，吃着家人买的零食，那个时候没有烦恼，没有压力，没人催我长大，每个人都对我喜爱，我以最单纯的视野看着这个世界，充满好奇。现在也一样，只是我是个大人了，我甚至不敢呆坐在家里的木地板上。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182542280)<br><br>2018-07-19 19:12<br>赞(2) 踩(0) | <div>想起小时候一个人坐在家里的电视机前，看着各种动画片，或是偶像剧，或是点播节目，吃着家人买的零食，那个时候没有烦恼，没有压力，没人催我长大，每个人都对我喜爱，我以最单纯的视野看着这个世界，充满好奇。<br><br>现在也一样，只是我是个大人了，我甚至不敢呆坐在家里的木地板上。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309874979)<br><br>2018-07-09 13:09<br>赞(0) 踩(0) | <div>未来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304482278)<br><br>2018-06-27 23:02<br>赞(0) 踩(0) | <div>很喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304219250)<br><br>2018-06-02 19:45<br>赞(0) 踩(0) | <div>很好听</div> |
@@ -44,7 +41,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163299116)<br> <br>2018-04-12 23:17<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52864820)<br>世界上本没有路，走的人多...<br>2018-04-09 07:49<br>赞(0) 踩(0) | <div>你怎么那么有才</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354544292)<br>不用吧<br>2018-04-04 12:23<br>赞(0) 踩(0) | <div>陈粒！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349777195)<br><br>2018-04-01 19:27<br>赞(4) 踩(0) | <div>一个人坐在房间里外面的天很黑没有点灯静静的看着电视</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349777195)<br><br>2018-04-01 19:27<br>赞(4) 踩(0) | <div>一个人坐在房间里<br>外面的天很黑<br>没有点灯<br>静静的看着电视</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21317991)<br>我还没想好要写什么...<br>2018-03-30 07:05<br>赞(1) 踩(0) | <div>我有一个大胆的想法</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196863455)<br>一個不可量化的瞬間非自主...<br>2018-03-25 20:16<br>赞(1) 踩(0) | <div>她喜欢画画的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199325834)<br> <br>2018-03-25 19:56<br>赞(1) 踩(0) | <div>我在写字 一个人的房间</div> |
@@ -67,16 +64,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329967400)<br>木不知<br>2018-03-11 13:46<br>赞(9) 踩(0) | <div>常玉是谁？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90313344)<br>进击的汪(｀∀´)Ψ<br>2018-03-11 14:17<br>赞(0) 踩(0) | <div>是个画家</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98430376)<br> <br>2018-03-11 18:36<br>赞(0) 踩(0) | <div>一个在死后成名的画家，死于九六年，巴黎，好像是因为煤气泄漏</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84235824)<br><br>2018-03-10 10:21<br>赞(55) 踩(0) | <div>回想起穿着软软的棉拖鞋走在木地板上的记忆阳光很懒的从窗口撒在地板和床沿那一定是一个暖冬的11点和一个刚睡醒的穿睡衣的空荡荡的我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84235824)<br><br>2018-03-10 10:21<br>赞(55) 踩(0) | <div>回想起<br>穿着软软的棉拖鞋<br>走在木地板上的记忆<br>阳光很懒的从窗口撒在地板和床沿<br>那一定是一个暖冬的11点<br>和一个刚睡醒的穿睡衣的空荡荡的我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353602535)<br><br>2018-03-10 09:17<br>赞(3) 踩(0) | <div>仅仅只是喜欢你，单纯的喜欢你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213173095)<br>相濡以沫 不如相忘于江湖<br>2018-03-10 04:33<br>赞(2) 踩(0) | <div>陈粒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52811433)<br>河流是相通的，不然，我怎...<br>2018-03-09 23:21<br>赞(38) 踩(0) | <div>你走来走去就像我的激动来了又去疼痛也丝丝缕缕划过皮肤浇湿的鞋子趴在地板上委屈地流泪有什么在响是风铃的寂寥搅乱空气中的沉默都怪这样一个午后令人想起午夜梦回的惶惶不安</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52811433)<br>河流是相通的，不然，我怎...<br>2018-03-09 23:21<br>赞(38) 踩(0) | <div>你走来走去<br>就像我的激动来了又去<br>疼痛<br>也丝丝缕缕划过皮肤<br>浇湿的鞋子<br>趴在地板上<br>委屈地流泪<br>有什么在响<br>是<br>风铃的寂寥<br>搅乱空气中的沉默<br>都怪这样一个午后<br>令人想起午夜梦回的惶惶不安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50513425)<br>一生只有一温柔<br>2018-03-09 22:28<br>赞(2) 踩(0) | <div>木板之上的粒粒万千</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52698125)<br>重度神游患者<br>2018-03-09 21:51<br>赞(4) 踩(0) | <div>写器乐的粒粒也很帅！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348997629)<br>真实总是不被接受<br>2018-03-09 21:14<br>赞(4) 踩(0) | <div>不同的风格不同的粒粒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351763249)<br><br>2018-03-09 18:13<br>赞(2) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26194281)<br>不散 不见<br>2018-03-09 16:30<br>赞(3) 踩(0) | <div>此时此刻 坐在深圳北-潮汕的高铁上 看着车窗外的一抹蓝天 渗透进半边列车的斜阳 远处群山绵延 想到每一次来都要留下些许遗憾 不知道这算不算是为了下一次所做的准备 那么 我们 下次再见</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99625594)<br>分裂<br>2018-03-09 16:28<br>赞(121) 踩(0) | <div>我有两个灵魂一个善良和感性一个胆怯和憎恨我有两个世界一个嘈杂而孤独一个平静又奢侈白天她是魔鬼夜晚她是温石我用两个灵魂对抗两个世界一个向往一个挣扎</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99625594)<br>分裂<br>2018-03-09 16:28<br>赞(121) 踩(0) | <div>我有两个灵魂<br>一个善良和感性<br>一个胆怯和憎恨<br><br>我有两个世界<br>一个嘈杂而孤独<br>一个平静又奢侈<br><br>白天她是魔鬼<br>夜晚她是温石<br><br>我用两个灵魂对抗两个世界<br>一个向往<br>一个挣扎</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99625594)<br>分裂<br>2018-09-29 10:44<br>赞(0) 踩(0) | <div>99了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330359997)<br><br>2018-03-09 16:09<br>赞(1) 踩(0) | <div>hi hy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50028289)<br>我还没想好要写什么...<br>2018-03-09 14:45<br>赞(0) 踩(0) | <div>喜欢脚踩在木地板上，震的周围摆在架子上的餐具发响的声音。</div> |

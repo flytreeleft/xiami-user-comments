@@ -79,8 +79,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-22 00:41<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373087)<br><br>2017-10-30 10:12<br>赞(1) 踩(0) | <div>有一种花叫含香，据说要离了枝头才会香。而我愿做那样一种花，蓄前世未耗的情集于花托之上，等今生的爱带我绽放。由她带我颠踬流离也好，长河落日也罢；任她带着我寻常巷末粗布麻衣，抑或流连阳春白雪阡陌花间。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34278479)<br><br>2017-10-28 00:35<br>赞(2) 踩(0) | <div>王菲的逼格之高就像在于她唱《不留》。想不通为啥汪峰就不明白有些东西唱给两个人听就cheap了。#汪峰最好的作品没有之一，在他唱给国际章之前。#</div> |
@@ -155,7 +155,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32444260)<br>暂无签名~<br>2014-12-14 23:32<br>赞(0) 踩(0) | <div>大晚上的睡不着 想起汪峰的这首歌 唱得好好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35613078)<br>假若明天来临<br>2014-12-02 14:12<br>赞(1) 踩(0) | <div>听过最感人的情歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1939)<br>没有什么比温柔更强大，没...<br>2014-11-29 20:38<br>赞(0) 踩(0) | <div>听哭了……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10755043)<br><br>2014-11-28 17:05<br>赞(0) 踩(0) | <div>我如此爱你因此我站在这里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10755043)<br><br>2014-11-28 17:05<br>赞(0) 踩(0) | <div>我如此爱你<br>因此我站在这里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41138703)<br><br>2014-11-26 19:35<br>赞(0) 踩(0) | <div>music king</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1137853)<br><br>2014-11-25 08:49<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42464850)<br><br>2014-11-25 00:16<br>赞(0) 踩(0) | <div>亲爱的/你看见岸边那只鸽子了吗/在潮汐中孤独地凝望着/像一座雕像/永不破碎/那就像我/是的那就像我/可现在当你出现在我的梦里/我再也不像它那样坚强/即使一颗悄然划过的流星/也会使我莫名地开始哭泣……我如此爱你/因此我站在这里……</div> |
@@ -226,13 +226,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39252372)<br><br>2014-07-22 22:38<br>赞(0) 踩(0) | <div>我如此爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11653225)<br>准备过冬~<br>2014-06-26 23:19<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26425474)<br>暂无签名~<br>2014-06-26 22:54<br>赞(0) 踩(0) | <div>我依然如此爱你。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369098)<br>说个笑话，纪念我<br>2014-06-26 14:26<br>赞(0) 踩(0) | <div>即使一颗悄然划过的流星也会使我默名的开心哭泣</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369098)<br>说个笑话，纪念我<br>2014-06-26 14:26<br>赞(0) 踩(0) | <div>即使一颗悄然划过的流星<br>也会使我默名的开心哭泣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5081607)<br><br>2014-06-10 20:57<br>赞(0) 踩(0) | <div>#今日老歌#什么都不能降低我对汪峰的喜爱，晚上我把这首歌反复的播放，困难没什么，重要的要有一颗勇敢的心，我如此爱你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11577939)<br><br>2014-06-10 17:25<br>赞(0) 踩(0) | <div>单曲循环。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3602270)<br><br>2014-03-31 06:53<br>赞(0) 踩(0) | <div>吉他伴奏配的太好听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7055568)<br><br>2014-03-19 11:02<br>赞(0) 踩(0) | <div>听了 会莫名流泪 ，虽然我没有像你有那么深爱的人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1258781)<br> <br>2014-02-16 23:48<br>赞(0) 踩(0) | <div>[月亮]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21216195)<br>我还没想好要写什么...<br>2014-02-06 01:10<br>赞(16) 踩(0) | <div>非常非常非常像福音歌。也许作者写歌的时候都没意识到吧。这种感情爱一个人的话，太重了。可是如果针对一种信仰的话，正合适。我如此爱你这是我存在的意义我如此爱你因此我站在这里我盼以我心换你心上及天 下及地此心虽小虽卑微日月或可为我昭昭</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21216195)<br>我还没想好要写什么...<br>2014-02-06 01:10<br>赞(16) 踩(0) | <div>非常非常非常像福音歌。也许作者写歌的时候都没意识到吧。这种感情爱一个人的话，太重了。可是如果针对一种信仰的话，正合适。<br>我如此爱你<br>这是我存在的意义<br>我如此爱你<br>因此我站在这里<br><br>我盼以我心换你心<br>上及天 下及地<br>此心虽小虽卑微<br>日月或可为我昭昭</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1330318)<br><br>2014-04-24 23:04<br>赞(0) 踩(0) | <div>最后他们离婚了- -</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21216195)<br>我还没想好要写什么...<br>2014-04-25 02:00<br>赞(0) 踩(0) | <div><q><b>易清娱说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21216195)<br>我还没想好要写什么...<br>2014-04-25 10:37<br>赞(0) 踩(0) | <div><q><b>水木石说：</b></q></div> |
@@ -286,7 +286,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5830032)<br><br>2013-11-11 09:11<br>赞(0) 踩(0) | <div>迎合娱乐头条的我 来听听这首从未听过的歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7174847)<br><br>2013-11-11 01:03<br>赞(0) 踩(0) | <div>勇敢的心 陪我...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17746248)<br><br>2013-11-10 23:55<br>赞(0) 踩(0) | <div>同样的，此时此刻来一首</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7292730)<br>無悟<br>2013-11-10 23:03<br>赞(0) 踩(0) | <div>你看见岸边那只鸽子了吗在潮汐中孤独地凝望着像一座雕像 永不破碎那就象我 是的那就象我可现在当你出现在我的梦里我再也不象它那样坚强即使一颗悄然划过的流星也会使我莫名的开始哭泣</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7292730)<br>無悟<br>2013-11-10 23:03<br>赞(0) 踩(0) | <div>你看见岸边那只鸽子了吗<br>在潮汐中孤独地凝望着<br>像一座雕像 永不破碎<br>那就象我 是的那就象我<br>可现在当你出现在我的梦里<br>我再也不象它那样坚强<br>即使一颗悄然划过的流星<br>也会使我莫名的开始哭泣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15985543)<br><br>2013-11-10 22:58<br>赞(0) 踩(0) | <div>做人还是厚道点儿好，别人的过去轮不到他人去评说。祝福天下所有此时彼刻真心相爱的人！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7292730)<br>無悟<br>2013-11-10 22:18<br>赞(0) 踩(0) | <div>亲爱的你看见岸边那只鸽子了吗，在潮汐中孤独地凝望着，像一座雕像永不破碎。那就象我 ，是的那就象我，可现在当你出现在我的梦里，我再也不像她那样坚强。即使一颗悄然划过的流星，也会使我默名的开心哭泣 ...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7292730)<br>無悟<br>2013-11-10 22:04<br>赞(0) 踩(0) | <div>这是一首好歌。如此爱你。<a href="http://emumo.xiami.com/u/5463733" target="_blank" rel="nofollow" name_card="5463733">@没音乐不能活</a></div> |
@@ -354,7 +354,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14722731)<br><br>2013-05-08 13:28<br>赞(0) 踩(0) | <div>我想你总也不愿飞入我怀，一定是为了梦中十指紧扣时，可以互相称赞，然后潸然不语。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11070482)<br>暂无签名~<br>2013-05-08 10:45<br>赞(0) 踩(0) | <div>寒风如解意，容易莫摧残。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1957798)<br><br>2013-05-07 15:20<br>赞(0) 踩(0) | <div>我如此爱你…因此我站在这里……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:40<br>赞(0) 踩(0) | <div>即使一滴悄然飘落的小雨也会让我不住的流下眼泪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:40<br>赞(0) 踩(0) | <div>即使一滴悄然飘落的小雨<br>也会让我不住的流下眼泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7777471)<br><br>2013-04-20 22:49<br>赞(0) 踩(0) | <div>因此我还站在这里...PS：汪峰的这些软歌也跟带感啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7777471)<br><br>2013-04-20 22:34<br>赞(0) 踩(0) | <div>我如此爱你...最近迷上汪峰的这些软歌儿，无法自拔。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10081569)<br><br>2013-04-14 14:37<br>赞(0) 踩(0) | <div>我。如此爱你</div> |
@@ -472,7 +472,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3217080)<br><br>2011-03-23 13:04<br>赞(0) 踩(0) | <div>内牛满面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1056737)<br>负能量艺术家<br>2011-03-05 20:29<br>赞(0) 踩(0) | <div>环好听~~~~~！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2923882)<br><br>2011-02-22 10:07<br>赞(0) 踩(0) | <div>摇滚的汪峰 难得的柔情～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1362467)<br><br>2010-11-14 16:36<br>赞(0) 踩(0) | <div>亲爱的你看见岸边那只鸽子了吗在大风中孤独地凝望着像一座雕像永不破碎那就象我 是的那就象我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1362467)<br><br>2010-11-14 16:36<br>赞(0) 踩(0) | <div>亲爱的你看见岸边那只鸽子了吗<br>在大风中孤独地凝望着<br>像一座雕像永不破碎<br>那就象我 是的那就象我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/839577)<br><br>2010-10-18 13:47<br>赞(0) 踩(0) | <div>其实，更喜欢他这样的调调！~还有很多类似的。映象最深的是“回忆之前，忘记之后”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576651)<br><br>2010-09-27 19:30<br>赞(0) 踩(0) | <div>汪峰写给葛芸婕的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1367182)<br><br>2010-08-23 15:41<br>赞(0) 踩(0) | <div>如此粗旷的男人，如此柔情的吟唱。</div> |

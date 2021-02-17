@@ -46,12 +46,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255359360)<br>全部感官按部就班地失常<br>2020-06-29 14:23<br>赞(0) 踩(0) | <div>别说你会懂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42766993)<br>TO HARD THEN...<br>2020-05-08 18:49<br>赞(1) 踩(0) | <div>想在小船上落脚，倚着水草滑，节拍为我作揖。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4316933)<br>.<br>2020-02-04 05:10<br>赞(1) 踩(0) | <div>8</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44779060)<br>再也没有的2021年终回...<br>2019-12-01 01:56<br>赞(4) 踩(0) | <div>看着远方，远方有微弱的光。这句歌词在我脑子里萦绕了十七年。半夜流下了眼泪。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44779060)<br>再也没有的2021年终回...<br>2019-12-01 01:56<br>赞(4) 踩(0) | <div>看着远方，远方有微弱的光。<br>这句歌词在我脑子里萦绕了十七年。<br>半夜流下了眼泪。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188022162)<br>以戒为师<br>2020-02-28 01:45<br>赞(0) 踩(0) | <div>要坚强</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44779060)<br>再也没有的2021年终回...<br>2020-04-03 02:39<br>赞(0) 踩(0) | <div><q><b>三维闲人说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13714628)<br>爱音乐爱生活<br>2019-10-31 21:34<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"></div> |
@@ -86,10 +86,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2472934)<br><br>2015-08-21 08:41<br>赞(1) 踩(0) | <div>这里已经开始穿秋裤了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6039384)<br>錯誤的理解了Cheer這...<br>2015-07-18 10:20<br>赞(1) 踩(0) | <div>The second step</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5657731)<br>在音乐面前语言很苍白<br>2015-05-10 15:35<br>赞(4) 踩(0) | <div>现在才听杨乃文真的好惭愧还好上瘾了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11327386)<br><br>2014-05-25 16:22<br>赞(1) 踩(0) | <div>看着远方 哪里是我的希望看着远方 我是否还在梦想.............</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11327386)<br><br>2014-05-25 16:22<br>赞(1) 踩(0) | <div>看着远方 哪里是我的希望<br>看着远方 我是否还在梦想.............</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2014-05-07 19:11<br>赞(1) 踩(0) | <div>突然觉得这歌很耳熟，好像哪首</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2659819)<br><br>2014-05-11 03:31<br>赞(0) 踩(0) | <div>几米地下铁《看着远方》？</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11122048)<br><br>2014-08-27 09:28<br>赞(0) 踩(0) | <div>《看着远方》不是同一首吗？我想到《月光手札》。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11122048)<br><br>2014-08-27 09:28<br>赞(0) 踩(0) | <div>《看着远方》不是同一首吗？<br>我想到《月光手札》。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46964191)<br><br>2015-07-31 01:48<br>赞(0) 踩(0) | <div><q><b>smallfriend说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46213973)<br>飘渺宇宙 天使逡巡<br>2016-07-03 16:11<br>赞(0) 踩(0) | <div><q><b>smallfriend说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3666877)<br><br>2013-12-06 23:09<br>赞(0) 踩(0) | <div>怎么能有这么好听的女声！</div> |
@@ -100,11 +100,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/925468)<br><br>2013-05-11 16:33<br>赞(1) 踩(0) | <div>今天遇到了一个懂我并不是不苟言笑的人。我只是长了副欠揍的脸。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1570548)<br><br>2012-12-02 16:16<br>赞(1) 踩(0) | <div>看着远方，远方有危厄多难，有我的梦想。别说你会懂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1712156)<br><br>2012-10-11 17:02<br>赞(0) 踩(0) | <div>很喜欢她的声音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34039)<br>好舍不得这里<br>2012-05-30 23:24<br>赞(0) 踩(0) | <div>我不想梦醒以后依然是受伤和难过的我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34039)<br>好舍不得这里<br>2012-05-30 23:24<br>赞(0) 踩(0) | <div>我不想梦醒以后<br>依然是受伤和难过的我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3998552)<br><br>2012-01-17 22:35<br>赞(0) 踩(0) | <div>so？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2834245)<br><br>2011-12-22 00:16<br>赞(1) 踩(0) | <div>零乱却清晰的钢琴音符与低音吉他形成层次感觉强烈的碰撞。随处可见的默默疑问，漫无目的的寻求答案却始终拒绝不真实的感情。  你懂吗-杨乃文</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1981408)<br><br>2011-12-05 11:45<br>赞(0) 踩(0) | <div>queen~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1684542)<br><br>2011-02-17 23:14<br>赞(0) 踩(0) | <div>抹不去的声音~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109659)<br>非诚勿扰<br>2009-10-18 11:56<br>赞(0) 踩(0) | <div>“我不知道，谁来牵我的手；我不知道，空虚的日子还要过多久……”人们总是对着风唱歌，对着空气和玻璃杯倾诉，对着远方微弱的光芒叹息。没有人了解明天，没有人能告诉你前面的险阻，只是我们每经过一个路标的时候总会先回头张望，然后再远眺前路。有人说“怀旧是一种病”，我觉得怀旧是摇椅上的透明连衣裙。我们总是过多的在乎别人的感受，而并不知道只要心底一直爱着一个人才是一种真正的福气。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109659)<br>非诚勿扰<br>2009-10-18 11:56<br>赞(0) 踩(0) | <div>“我不知道，谁来牵我的手；我不知道，空虚的日子还要过多久……”人们总是对着风唱歌，对着空气和玻璃杯倾诉，对着远方微弱的光芒叹息。<br><br>没有人了解明天，没有人能告诉你前面的险阻，只是我们每经过一个路标的时候总会先回头张望，然后再远眺前路。<br><br>有人说“怀旧是一种病”，我觉得怀旧是摇椅上的透明连衣裙。我们总是过多的在乎别人的感受，而并不知道只要心底一直爱着一个人才是一种真正的福气。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21598)<br><br>2009-03-04 16:16<br>赞(1) 踩(0) | <div>别说你会懂，你懂的不是我的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25)<br>如有光，就去寻找光。<br>2009-03-01 02:11<br>赞(0) 踩(0) | <div>我给你的是我的心，你懂吗你懂吗……</div> |

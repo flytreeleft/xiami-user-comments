@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31531934)<br>恋の道に近道はない<br>2018-01-24 00:14<br>赞(0) 踩(0) | <div>get✔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334127575)<br><br>2017-11-19 22:46<br>赞(2) 踩(0) | <div>喜欢，可是很伤感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331203313)<br><br>2017-11-06 23:07<br>赞(1) 踩(0) | <div>就爱深深，没原因</div> |

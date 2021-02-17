@@ -45,9 +45,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334306234)<br><br>2019-11-20 22:06<br>赞(0) 踩(0) | <div>歌好听，一种特立独行的韵味。版本也好，空间感十足。</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334306234)<br><br>2019-11-20 22:06<br>赞(0) 踩(0) | <div>歌好听，一种特立独行的韵味。<br>版本也好，空间感十足。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236512302)<br>我还没想好要写什么...<br>2019-06-12 23:37<br>赞(0) 踩(0) | <div>第一次听就是这个版本，看了歌词立马喜欢，之后越来越爱，ktv必点歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181106954)<br><br>2019-01-07 01:06<br>赞(1) 踩(0) | <div>好有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15788836)<br> <br>2018-12-03 00:50<br>赞(3) 踩(0) | <div>这场live无论是从编曲还是现场发挥 都是首首经典</div> |

@@ -62,14 +62,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419959504)<br>我还没想好要写什么...<br>2020-07-14 11:31<br>赞(0) 踩(0) | <div>喜欢！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32881403)<br>我还没想好要写什么...<br>2020-06-30 11:24<br>赞(0) 踩(0) | <div>太棒了这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432573549)<br>我还没想好要写什么...<br>2020-04-30 00:29<br>赞(2) 踩(0) | <div>不愿想起你。你太魔幻让我至今不敢细想，心痛如绞。 丢下我&amp;hellip;那我就走自己的路 祝你也好。HEIHEI</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-04-15 02:13<br>赞(0) 踩(0) | <div>开头可以很OK，把那两段野马换成好一点歌词就很好了，从头唱到结尾就很好听了，后段结尾曲不真么理想了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434058292)<br>喜欢的歌静静地听，喜欢的...<br>2020-04-08 22:10<br>赞(2) 踩(0) | <div>见过你的样子，听过你的声音，让你也因我开心过那么短短的瞬间，大声喊出过你的名字，告诉过你我喜欢你很喜欢你，为你做过很多很多不可思议的事情&amp;hellip;&amp;hellip;&amp;hellip;还有什么不开心的呢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296378883)<br>反正就这样吧，我知道我努...<br>2020-03-13 16:07<br>赞(4) 踩(0) | <div>gala所有作品中最喜欢的一首特别是这几句：我是匹野马正浪迹天涯美丽如昙花四海为家</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296378883)<br>反正就这样吧，我知道我努...<br>2020-03-13 16:07<br>赞(4) 踩(0) | <div>gala所有作品中最喜欢的一首<br>特别是这几句：<br>我是匹野马<br>正浪迹天涯<br>美丽如昙花<br>四海为家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41140335)<br>Peace with U<br>2020-02-03 11:01<br>赞(2) 踩(0) | <div>那么美丽的灵魂，并不是为了你我能够停留的，你说呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11450139)<br> <br>2019-12-19 14:27<br>赞(2) 踩(0) | <div>渣男的借口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248020290)<br>梦，随时生，随实灭。<br>2019-11-19 08:35<br>赞(0) 踩(0) | <div>我是一匹渴望草原的野马</div> |
@@ -103,8 +103,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404968716)<br>忆仁堂，记录世界冷暖。<br>2018-10-24 22:30<br>赞(0) 踩(0) | <div>可这个世界，不允许你走自己的路……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13286031)<br>什么都可以没有，就是不能...<br>2018-10-11 08:55<br>赞(3) 踩(0) | <div>很少听他们的歌，单原创就无条件支持他们，现在听这首，他们不是随便出名滴，我服！这是对他们最好最高的评价与支持！毋需多言，你们懂的，加油，不要膨胀！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13286031)<br>什么都可以没有，就是不能...<br>2018-10-11 08:51<br>赞(2) 踩(0) | <div>你真可爱，陌生人改叫乐友吧，温暖又亲近。[带墨镜笑]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327845819)<br>我还没想好要写什么...<br>2018-09-13 10:55<br>赞(1) 踩(0) | <div>找自己的路走自己的路</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269226255)<br><br>2018-09-07 22:37<br>赞(4) 踩(0) | <div>我还是个俗人，啥都不懂的普通人，分不清什么是好歌什么是差的，人也一样，我都分不清。就像脑海里时常幻想着的画面:我拔起插在地上的刀，甩到背上，然后翻身上马绝尘而去。长啸一声，大笑说，我在人间之外醉逍遥。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327845819)<br>我还没想好要写什么...<br>2018-09-13 10:55<br>赞(1) 踩(0) | <div>找自己的路<br>走自己的路</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269226255)<br><br>2018-09-07 22:37<br>赞(4) 踩(0) | <div>我还是个俗人，啥都不懂的普通人，分不清什么是好歌什么是差的，人也一样，我都分不清。<br>就像脑海里时常幻想着的画面:<br>我拔起插在地上的刀，甩到背上，然后翻身上马绝尘而去。<br>长啸一声，大笑说，我在人间之外醉逍遥。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375013096)<br>没有故事<br>2018-09-06 12:26<br>赞(3) 踩(0) | <div>我是匹野马，请忘记我吧 <img src="../../../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9252846)<br>摇滚是沉默的。<br>2018-09-04 15:29<br>赞(2) 踩(0) | <div>MV很特别，老头洗澡，肯定很多人喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316353929)<br>我还没想好要写什么...<br>2018-08-28 19:24<br>赞(0) 踩(0) | <div>gala的歌真的很对我的胃口诶</div> |
@@ -155,7 +155,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6828513)<br><br>2018-01-10 00:22<br>赞(0) 踩(0) | <div>我听到了向前跑.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16192406)<br>你我错过的歌 我想最终都...<br>2018-01-05 13:50<br>赞(1) 踩(0) | <div>想念一个很喜欢gala的朋友，前两年去世，常常梦到她。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40982822)<br>嗯。<br>2018-01-04 03:09<br>赞(0) 踩(0) | <div>歌词真押韵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255038698)<br><br>2018-01-03 13:58<br>赞(0) 踩(0) | <div>我是匹野马正驰骋天下路就在脚下 (｡･&amp;forall;･)ﾉﾞ最喜欢的gala</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255038698)<br><br>2018-01-03 13:58<br>赞(0) 踩(0) | <div>我是匹野马<br>正驰骋天下<br>路就在脚下 (｡･&amp;forall;･)ﾉﾞ最喜欢的gala</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308653577)<br><br>2018-01-01 16:36<br>赞(1) 踩(0) | <div>恩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110797892)<br>想你的时候就听听歌吧<br>2017-12-31 14:16<br>赞(1) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341793569)<br><br>2017-12-28 22:05<br>赞(2) 踩(0) | <div>虽然你是广告歌，但是。       我爱你</div> |
@@ -182,7 +182,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/221710181)<br><br>2017-12-11 20:24<br>赞(2) 踩(0) | <div>永远支持你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259579713)<br><br>2017-12-10 20:58<br>赞(11) 踩(0) | <div>这首歌应该是gala最水的一首了吧，这还是摇滚么</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337748731)<br>比自由还自在，比快乐更痛...<br>2018-01-17 16:44<br>赞(0) 踩(0) | <div>摇滚的定义是什么，本来就没有确定的界限，没必要狭隘的纠结于风格</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103396912)<br>这家伙很屌什么东西都不想...<br>2018-03-12 22:34<br>赞(0) 踩(0) | <div>看到专封上是啥么那是马自达CX-4这说明这就是个广告曲</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103396912)<br>这家伙很屌什么东西都不想...<br>2018-03-12 22:34<br>赞(0) 踩(0) | <div>看到专封上是啥么<br>那是马自达CX-4<br>这说明这就是个广告曲</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6733300)<br>誩<br>2018-04-06 10:45<br>赞(0) 踩(0) | <div>因为是广告歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174268364)<br><br>2018-12-19 18:38<br>赞(0) 踩(0) | <div>还行吧</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315761159)<br>缘分出招滑手<br>2019-02-13 15:42<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
@@ -292,7 +292,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310426462)<br>欢聚最难得<br>2017-11-30 15:30<br>赞(0) 踩(0) | <div>喜欢gala声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138268478)<br>只有现在的悲伤。<br>2017-11-30 14:59<br>赞(0) 踩(0) | <div>好久没有听到这熟悉的声音了，加油！你们依旧是最棒的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8302587)<br>仰愿无人渡我意…<br>2017-11-30 13:53<br>赞(0) 踩(0) | <div>啦啦啦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254226661)<br>偶然间发现，失掉了所有感...<br>2017-11-30 13:43<br>赞(3) 踩(0) | <div>路在脚下，只要迈出那就不要后悔。就算后悔，那也一定要哭着走完它。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254226661)<br>偶然间发现，失掉了所有感...<br>2017-11-30 13:43<br>赞(3) 踩(0) | <div>路在脚下，只要迈出那就不要后悔。<br>就算后悔，那也一定要哭着走完它。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88671788)<br>彳亍<br>2017-11-30 13:38<br>赞(1) 踩(0) | <div>走自己的路，独闯天涯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32205412)<br>哈哈<br>2017-11-30 13:09<br>赞(0) 踩(0) | <div>不管怎样还是好音乐，别在这堆故事污染</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94369800)<br>想要的距离比你以为的不知...<br>2017-11-30 13:02<br>赞(1) 踩(0) | <div>桀骜不驯孤身驰骋到白发」不用跟谁去比较，也不用迁就谁的&amp;ldquo;我都是为你好&amp;rdquo;。如意便是最好的，生命在于折腾 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |

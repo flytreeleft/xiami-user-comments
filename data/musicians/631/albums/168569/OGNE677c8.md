@@ -35,5 +35,3 @@ Too misty and too much in love
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7a326054b28d3e35b5d064fcdae9ad9e.jpg)<br>开开](https://i.xiami.com/kaikai) | **播放数**: 661690<br>**粉丝数**: 182<br>**评论数**: 17<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/7a326054b28d3e35b5d064fcdae9ad9e.jpg)<br>开开](https://i.xiami.com/kaikai) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 661690<br>**粉丝数**: 182<br>**评论数**: 17<br> |
 
 ## 档案
 
@@ -40,8 +40,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47503478)<br><br>2018-10-08 01:54<br>赞(0) 踩(0) | <div>爱你哦&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279512395)<br><br>2018-06-14 18:42<br>赞(0) 踩(0) | <div>大卫</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272115909)<br> <br>2017-05-15 10:38<br>赞(0) 踩(0) | <div>开开不错哦！</div> |

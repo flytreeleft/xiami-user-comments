@@ -3,13 +3,10 @@ Gary chan
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/af285cfeeb3696c0e35b5280c65f2f98.png)<br>Gary chan](https://i.xiami.com/garychan) | **播放数**: 374239<br>**粉丝数**: 51<br>**评论数**: 5<br>**地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 出神舞曲 Trance, 流行舞曲 Dance-Pop<br> |
+| [![](../../images/musicians/af285cfeeb3696c0e35b5280c65f2f98.png)<br>Gary chan](https://i.xiami.com/garychan) | **地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 出神舞曲 Trance, 流行舞曲 Dance-Pop<br>**播放数**: 374239<br>**粉丝数**: 51<br>**评论数**: 5<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,8 +18,8 @@ Gary chan
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302348876)<br><br>2021-01-06 21:03<br>赞(0) 踩(0) | <div>可惜！要关停了！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73073688)<br><br>2015-10-12 20:15<br>赞(0) 踩(0) | <div>加油，为国人加油呀。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11640829)<br>._.<br>2015-07-04 18:18<br>赞(0) 踩(0) | <div>House &amp;gt; Trance</div> |

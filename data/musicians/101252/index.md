@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/87e608233f73000eb5f85fc8c1c4730b.jpg)<br>坂本慎太郎](https://i.xiami.com/shintaro) | **播放数**: 2529464<br>**粉丝数**: 9971<br>**评论数**: 271<br>**地区**: Japan 日本<br>**风格**: 日本摇滚 J-Rock, 迷幻摇滚 Psychedelic Rock<br> |
+| [![](../../images/musicians/87e608233f73000eb5f85fc8c1c4730b.jpg)<br>坂本慎太郎](https://i.xiami.com/shintaro) | **地区**: Japan 日本<br>**风格**: 日本摇滚 J-Rock, 迷幻摇滚 Psychedelic Rock<br>**播放数**: 2529464<br>**粉丝数**: 9971<br>**评论数**: 271<br> |
 
 ## 档案
 
@@ -34,8 +34,8 @@ CD等のアートワークのほとんどを担当しており、画集も発表
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8565909)<br>=の風<br>2021-01-29 23:26<br>赞(0) 踩(0) | <div>虾米要关了，来大佬这留个言纪念下 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307571872)<br>及时行乐(´△｀)♪<br>2020-10-23 20:24<br>赞(0) 踩(0) | <div>/</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215379991)<br>簽名不重要重要的是你聽什...<br>2020-03-30 01:56<br>赞(0) 踩(0) | <div>ﻌﻌﻌ❤︎</div> |
@@ -127,7 +127,7 @@ CD等のアートワークのほとんどを担当しており、画集も発表
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13139213)<br>Kiri Kitano <br>2018-07-04 22:44<br>赞(0) 踩(0) | <div>求杭州票2張 感恩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46930824)<br>叨位去波普星<br>2018-07-04 20:04<br>赞(0) 踩(0) | <div>哇 我爱你像爱加了星屑佐料的奶茶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2018-07-04 02:59<br>赞(1) 踩(0) | <div>想去疆进酒九月听你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42457016)<br>小型歡愉<br>2018-07-01 22:46<br>赞(3) 踩(0) | <div>2018.9.7   深圳2018.9.8   杭州2018.9.9   北京</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42457016)<br>小型歡愉<br>2018-07-01 22:46<br>赞(3) 踩(0) | <div>2018.9.7   深圳<br>2018.9.8   杭州<br>2018.9.9   北京</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45686435)<br>一壺飛鳧 尋山夢鶴   ...<br>2018-07-01 11:52<br>赞(0) 踩(0) | <div>啊啊啊兴奋到不行！9.7！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22761593)<br>吃飯睡覺玩蜥蜴<br>2018-07-01 08:50<br>赞(1) 踩(0) | <div>深圳見吧小可愛們(=ﾟ&amp;omega;ﾟ)ﾉ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24420438)<br>我还没想好要写什么...<br>2018-07-01 01:55<br>赞(1) 踩(0) | <div>Shenzhen</div> |
@@ -160,7 +160,7 @@ CD等のアートワークのほとんどを担当しており、画集も発表
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50093825)<br>。<br>2018-01-03 04:09<br>赞(0) 踩(0) | <div>: )</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7750515)<br>Cloud  Nine<br>2017-12-19 14:57<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45298985)<br>Wechat:dqx19...<br>2017-12-16 10:49<br>赞(0) 踩(0) | <div>+</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46000485)<br>杂食动物  夜行动物  ...<br>2017-12-11 21:37<br>赞(0) 踩(0) | <div>丑出了风格就不叫丑了，叫独特！！！(一个嘴硬的迷妹如是说_(:D)&amp;ang;)_</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46000485)<br>杂食动物  夜行动物  ...<br>2017-12-11 21:37<br>赞(0) 踩(0) | <div>丑出了风格就不叫丑了，叫独特！！！<br>(一个嘴硬的迷妹如是说_(:D)&amp;ang;)_</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43630988)<br>观察世界<br>2017-11-17 12:25<br>赞(1) 踩(0) | <div>低配版老狼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10225786)<br>过去再一次酷似未来～<br>2017-11-12 20:52<br>赞(0) 踩(0) | <div>如果因为金宇彬而诞生了&amp;ldquo;丑帅丑帅&amp;rdquo;，那么因为坂本先生，爆炸了&amp;ldquo;丑才丑才&amp;rdquo;这个词～比起神似的洋次郎，坂本先生真是更得本宫甚好～明显更丰富，变化多，元素多，又不乱～～～拿捏得恰到好处～只要好听就是牛叉，这是硬道理的夸赞～厉害！ <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">颜控的我，也是如此尊重这位坂本先生～ <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8589959)<br>天灭后摇狗！<br>2017-11-09 22:27<br>赞(1) 踩(0) | <div>这声线辨识度。。</div> |

@@ -24,5 +24,3 @@ Georgie Porgie ran away
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

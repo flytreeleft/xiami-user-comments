@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/19664856269992f5449212f9ebbe0fa0.jpg)<br>约瑟诗歌](https://i.xiami.com/yueseshige) | **播放数**: 2344985<br>**粉丝数**: 714<br>**评论数**: 20<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/19664856269992f5449212f9ebbe0fa0.jpg)<br>约瑟诗歌](https://i.xiami.com/yueseshige) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 2344985<br>**粉丝数**: 714<br>**评论数**: 20<br> |
 
 ## 档案
 
@@ -47,12 +47,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444594039)<br><br>2020-08-17 17:18<br>赞(0) 踩(0) | <div>新专辑好听！之前的专辑也好听！歌词好，旋律好！个人很喜欢高原的声音~加油~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252587614)<br><br>2020-01-31 11:59<br>赞(0) 踩(0) | <div>這首歌真正打入我的心， 每聽一次就流淚一次 ，人真的無法懂我，唯有我們的上帝了解我 你創作的詩歌 非常好聽，願神祝福你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357380221)<br>纵一苇之所如。<br>2019-12-02 05:15<br>赞(0) 踩(0) | <div>主唱声音既阳刚又磁性！哈利路亚。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244662626)<br>一生跟随主耶稣<br>2019-08-11 12:23<br>赞(3) 踩(0) | <div>感谢主，感动你们创作这么多赞美的诗歌。喜欢你们创作的诗歌，很多歌词真的是唱到我的心里。在我失望无助时，是你们诗歌陪伴我走过。感谢主，也感谢你们。 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244662626)<br>一生跟随主耶稣<br>2019-08-11 12:23<br>赞(3) 踩(0) | <div>感谢主，感动你们创作这么多赞美的诗歌。<br>喜欢你们创作的诗歌，很多歌词真的是唱到我的心里。<br>在我失望无助时，是你们诗歌陪伴我走过。<br>感谢主，也感谢你们。 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289019643)<br>사랑안해<br>2019-04-08 23:15<br>赞(2) 踩(0) | <div>愿神的恩惠 每天都能照耀我们前行的路</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344020277)<br>神是我的拯救。<br>2019-03-31 07:31<br>赞(2) 踩(0) | <div>约瑟弟兄，看了你的简介，感动，愿神带领你因着赞美诗，感动更多人爱主经历主。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421310911)<br><br>2019-03-29 10:15<br>赞(2) 踩(0) | <div>❤</div> |

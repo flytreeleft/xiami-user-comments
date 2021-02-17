@@ -89,8 +89,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-21 23:44<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264753382)<br>一首歌代表着一种心情<br>2018-02-21 21:11<br>赞(0) 踩(0) | <div>这首歌仿佛汪峰的自传，四个带5的年龄是他生命的四个重要节点概括了他的一生。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332512261)<br><br>2018-02-16 01:25<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -143,7 +143,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327726528)<br><br>2017-10-17 00:34<br>赞(0) 踩(0) | <div>因为卢卡斯的歌词感人啊，抄的多好，还说是借鉴。。。。无语。同学你听一听获得过格莱美奖的《7 years》你就知道了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303548604)<br><br>2017-10-16 20:45<br>赞(0) 踩(0) | <div>歌很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300701805)<br><br>2017-10-16 20:30<br>赞(2) 踩(0) | <div>以前一直觉得汪峰是一个没有文化的歌手，摇滚得也不够纯粹，这首歌让我突然觉得，他离鲍勃迪伦又近了一步。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209694316)<br>不要高估两年后的自己，也...<br>2017-10-16 20:04<br>赞(4) 踩(0) | <div>那年我五岁在雨天玩耍患上风湿那年我是十五岁别人在打碟我却被爹打那年我二十五岁别人早已进入婚姻的殿堂我却离心爱的姑娘渐行渐远</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209694316)<br>不要高估两年后的自己，也...<br>2017-10-16 20:04<br>赞(4) 踩(0) | <div>那年我五岁<br>在雨天玩耍<br>患上风湿<br>那年我是十五岁<br>别人在打碟<br>我却被爹打<br>那年我二十五岁<br>别人早已进入婚姻的殿堂<br>我却离心爱的姑娘渐行渐远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329322426)<br><br>2017-10-16 19:54<br>赞(0) 踩(0) | <div>好个性的歌，很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325247922)<br>不将就<br>2017-10-16 19:51<br>赞(2) 踩(0) | <div>用心歌唱灵魂深处的声音，赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7911936)<br><br>2017-10-16 19:43<br>赞(0) 踩(0) | <div>好听</div> |
@@ -284,8 +284,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327958924)<br><br>2017-10-14 18:53<br>赞(3) 踩(0) | <div>好吧，我没听过7 years。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298948030)<br>中國詩音樂電影创始人作曲...<br>2017-10-14 18:35<br>赞(0) 踩(0) | <div>写的真好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298948030)<br>中國詩音樂電影创始人作曲...<br>2017-10-14 18:34<br>赞(2) 踩(0) | <div>歌词写的很好，写出生于60年的我们心声</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36940842)<br> <br>2017-10-14 17:50<br>赞(3) 踩(0) | <div>7 yearslukas graham-[同名专辑]Once I was seven years old my momma told me那年我七岁 妈妈就对我说Go make yourself some friends or you'll be lonely去交些朋友 不然你会孤独寂寞Once I was seven years old那年我七岁It was a big big world but we thought we were bigger这个辽阔的大千世界 总以为我们也会变得更加大</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14705559)<br> <br>2017-10-14 17:42<br>赞(3) 踩(0) | <div>赤裸裸的抄袭么？你让7 years的作者情以何堪。。。。7 Years - Lukas GrahamOnce I was seven years old my momma told me那年我七岁 妈妈就对我说Go make yourself some friends or you'll be lonely去交些朋友 不然你会孤独寂寞Once I was seven years old那年我七岁It was a big big world but we thought we were bigger这个辽阔的大千世界 总以为我们也会变得更加强大</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36940842)<br> <br>2017-10-14 17:50<br>赞(3) 踩(0) | <div>7 years<br>lukas graham-[同名专辑]<br>Once I was seven years old my momma told me<br>那年我七岁 妈妈就对我说<br>Go make yourself some friends or you'll be lonely<br>去交些朋友 不然你会孤独寂寞<br>Once I was seven years old<br>那年我七岁<br>It was a big big world but we thought we were bigger<br>这个辽阔的大千世界 总以为我们也会变得更加大</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14705559)<br> <br>2017-10-14 17:42<br>赞(3) 踩(0) | <div>赤裸裸的抄袭么？你让7 years的作者情以何堪。。。。<br>7 Years - Lukas Graham<br>Once I was seven years old my momma told me<br>那年我七岁 妈妈就对我说<br>Go make yourself some friends or you'll be lonely<br>去交些朋友 不然你会孤独寂寞<br>Once I was seven years old<br>那年我七岁<br>It was a big big world but we thought we were bigger<br>这个辽阔的大千世界 总以为我们也会变得更加强大</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9809516)<br><br>2017-10-14 19:49<br>赞(0) 踩(0) | <div>这不叫抄袭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310309552)<br><br>2017-10-14 17:21<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21328243)<br>我还没想好要写什么...<br>2017-10-14 17:07<br>赞(0) 踩(0) | <div>好听</div> |
@@ -336,9 +336,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261904351)<br> <br>2017-10-14 05:00<br>赞(0) 踩(0) | <div>7 years</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324395168)<br><br>2017-10-14 03:32<br>赞(0) 踩(0) | <div>25年前我5岁，现在我儿子5岁！岁月悠悠！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16137999)<br>可不可以将你比作一个夏日<br>2017-10-14 03:03<br>赞(0) 踩(0) | <div>不管你处在第几个五岁，做自己才不会后悔.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258376367)<br><br>2017-10-14 02:22<br>赞(3) 踩(0) | <div>小时候，有次被老爸揍完后躺在床上，刚好牙齿换牙，拿手摇摇就出血了，往地下吐了两口血水，老爸进来看见吓呆了。我迅速想起武侠片里的情节，呻吟道：我估计不行了，真后悔来这世上......。老爸赶紧抱着我跑去医院，一路哭......回来的时候，我被揍得真的后悔来这世上......——《青少年犯罪屎》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258376367)<br><br>2017-10-14 02:22<br>赞(3) 踩(0) | <div>小时候，有次被老爸揍完后躺在床上，刚好牙齿换牙，拿手摇摇就出血了，往地下吐了两口血水，老爸进来看见吓呆了。我迅速想起武侠片里的情节，呻吟道：我估计不行了，真后悔来这世上......。老爸赶紧抱着我跑去医院，一路哭......回来的时候，我被揍得真的后悔来这世上......<br>——《青少年犯罪屎》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40513548)<br>我还没想好要写什么...<br>2017-10-14 02:04<br>赞(2) 踩(0) | <div>今年我20岁 迷茫  失望   苦恼 却总是以洪水猛兽的姿态侵入我内心  过得如此之狼狈  想想那年我五岁  阳光洒在我脸上  那时的笑容是现在无法企及的感受  那年我五岁 真好！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257738103)<br><br>2017-10-14 02:04<br>赞(1) 踩(0) | <div>汪峰的新歌，听得我热泪盈眶 老泪纵横。听着他的歌，感觉自己永远不会老，可又好像从未年轻过。学一点东西 否则你会一事无成。我听成学一点东西 你就学会与世无争。个人觉得与世无争更好。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257738103)<br><br>2017-10-14 02:04<br>赞(1) 踩(0) | <div>汪峰的新歌，听得我热泪盈眶 老泪纵横。<br>听着他的歌，感觉自己永远不会老，可又好像从未年轻过。<br><br>学一点东西 否则你会一事无成。<br>我听成<br>学一点东西 你就学会与世无争。<br><br>个人觉得与世无争更好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11191765)<br> <br>2017-10-14 02:04<br>赞(0) 踩(0) | <div>你爱的中国五年一个规划，你的五年记住一句话，还得唱两下。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3705724)<br>Sing my song<br>2017-10-14 00:34<br>赞(3) 踩(0) | <div>只要一直认真下去，总有一天会上头条</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209254629)<br><br>2017-10-14 00:30<br>赞(1) 踩(0) | <div>歌词也太像七年了吧</div> |
@@ -382,7 +382,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296454262)<br>文艺小清新~<br>2017-10-13 20:23<br>赞(4) 踩(0) | <div>那年我五岁，至少有十年不曾流泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113951912)<br><br>2017-10-13 20:23<br>赞(2) 踩(0) | <div>十分钟的歌，挺完整的一段人生总结，有诚意的一首佳作。 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329475599)<br>爱歌!不会唱!l<br>2017-10-13 20:13<br>赞(1) 踩(0) | <div>好歌!很有才的歌手!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64755086)<br><br>2017-10-13 19:54<br>赞(4) 踩(0) | <div>7 Years - Lukas GrahamOnce I was seven years old my momma told me那年我七岁 妈妈就对我说Go make yourself some friends or you'll be lonely去交些朋友 不然你会孤独寂寞Once I was seven years old那年我七岁It was a big big world but we thought we were bigger这个辽阔的大千世界 总以为我们也会变得更加强大Pushing each other to the limits we were le</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64755086)<br><br>2017-10-13 19:54<br>赞(4) 踩(0) | <div><br>7 Years - Lukas Graham<br>Once I was seven years old my momma told me<br>那年我七岁 妈妈就对我说<br>Go make yourself some friends or you'll be lonely<br>去交些朋友 不然你会孤独寂寞<br>Once I was seven years old<br>那年我七岁<br>It was a big big world but we thought we were bigger<br>这个辽阔的大千世界 总以为我们也会变得更加强大<br>Pushing each other to the limits we were le</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312254437)<br>世间把我丢了，所以我不信...<br>2017-10-13 19:52<br>赞(0) 踩(0) | <div>中国乐坛良心之作 ，没有之一</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328410891)<br><br>2017-10-13 20:53<br>赞(0) 踩(0) | <div>良心之作，之一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266436954)<br>人，就是一群拥聚取暖的刺...<br>2017-10-13 19:50<br>赞(3) 踩(0) | <div>我只愿活得有趣，不负我心。随时，随性，随遇，随缘。我希望我的孩子也是这样，人间本已是满目疮痍，我们何苦再添条条框框。</div> |
@@ -530,7 +530,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327873574)<br><br>2017-10-13 06:54<br>赞(0) 踩(0) | <div>when I was seven years old？？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38957238)<br>说别人变胖的人，其实是自...<br>2017-10-13 06:50<br>赞(0) 踩(0) | <div>每一个未曾起舞的日子，都是对生命的辜负！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26182791)<br><br>2017-10-13 02:06<br>赞(1) 踩(0) | <div>听到了晚安北京</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16528945)<br>？<br>2017-10-13 01:54<br>赞(16) 踩(0) | <div>汪峰發的微博→→→→今年一月的一个清晨，睡眼惺忪的我被楼下装修的电钻钻醒，无奈的拿着手机看着朋友圈醒醒神。突然看到一个朋友发了一首歌曲链接-丹麦乐队 Lukas Graham的歌曲《7 Years》，点击播放几十秒之后，我的睡意全无，接着看了这首歌词的内容，很有触动，某种感觉一直在心底涌动。午饭后差不多用了三个多小时，写完了这首一言难尽的新歌。那天的阳光，窗外的街道，行人，还有初春的味道，一切如同梦的蒙太奇……“每一个不曾起舞的日子，都是对生命的辜负。”—尼采</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16528945)<br>？<br>2017-10-13 01:54<br>赞(16) 踩(0) | <div>汪峰發的微博→→→→今年一月的一个清晨，睡眼惺忪的我被楼下装修的电钻钻醒，无奈的拿着手机看着朋友圈醒醒神。突然看到一个朋友发了一首歌曲链接-丹麦乐队 Lukas Graham的歌曲《7 Years》，点击播放几十秒之后，我的睡意全无，接着看了这首歌词的内容，很有触动，某种感觉一直在心底涌动。午饭后差不多用了三个多小时，写完了这首一言难尽的新歌。那天的阳光，窗外的街道，行人，还有初春的味道，一切如同梦的蒙太奇……<br><br>“每一个不曾起舞的日子，都是对生命的辜负。”—尼采</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327873574)<br><br>2017-10-13 06:54<br>赞(0) 踩(0) | <div>原来是这样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223875713)<br>无法被定义。<br>2017-10-13 01:50<br>赞(1) 踩(0) | <div>被感动到了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28824786)<br><br>2017-10-13 01:31<br>赞(3) 踩(0) | <div>那年的五岁，我在干什么，那年的十五岁，你在干嘛，那年的二十五岁，我在混日子，我在想着活着到底是神马东东，后来想通了，你活着就为了吃饱穿暖喝足睡足就够了</div> |
@@ -540,9 +540,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16528945)<br>？<br>2017-10-13 01:07<br>赞(0) 踩(0) | <div>聽完《那年我五歲》，也去感受了一下 Lukas Graham 的歌曲《7 Years》，歌詞有點兒相像，但是歌詞背後畢竟是兩種不同人生。 ​​​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61791292)<br>我还没想好要写什么...<br>2017-10-13 01:06<br>赞(0) 踩(0) | <div>歌词太口语化，但基本还算真诚，听到后面还是有点感觉的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/464570)<br>多少人活着却如同死猪<br>2017-10-13 00:57<br>赞(0) 踩(0) | <div>《信仰在空中飘扬》之后再无汪峰</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5479616)<br><br>2017-10-13 00:47<br>赞(3) 踩(0) | <div>7 Years by Lukas Graham7 - 5 = 2 也就是汪峰对于听众的智商的评价吧。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93376334)<br>遇见你之后 一切都不过如...<br>2017-10-13 00:36<br>赞(4) 踩(0) | <div>书上说人要长大三次第一次是在发现 自己不是世界中心的时候第二次是在发现即使再怎么努力终究还是有些事令人无能为力的时候第三次是在 明知道有些事可能会无能为力但还是会尽力争取的时候&nbsp;有人说：“人这辈子一共会死三次。第一次是你的心脏停止跳动，那么从生物的角度来说，你死了；第二次是在葬礼上，认识你的人都来祭奠，那么你在社会上的地位就死了；第三次是在最后一个记得你的人死后，那你就真的死了。”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71987174)<br>心太宽也不好，会体胖。。<br>2017-10-13 00:33<br>赞(0) 踩(0) | <div>“我们为你骄傲，可是你看上去并不快乐。”触动了我。感谢信仰，让我从现实的沼泽中回归自我，真正的快乐了…整首歌还是比较震撼的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5479616)<br><br>2017-10-13 00:47<br>赞(3) 踩(0) | <div>7 Years by Lukas Graham<br>7 - 5 = 2 也就是汪峰对于听众的智商的评价吧。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93376334)<br>遇见你之后 一切都不过如...<br>2017-10-13 00:36<br>赞(4) 踩(0) | <div>书上说人要长大三次<br>第一次是在发现 自己不是世界中心的时候<br>第二次是在发现即使再怎么努力<br>终究还是有些事令人无能为力的时候<br>第三次是在 明知道有些事可能会无能为力<br>但还是会尽力争取的时候<br><br>&nbsp;有人说：“人这辈子一共会死三次。<br>第一次是你的心脏停止跳动，那么从生物的角度来说，你死了；<br>第二次是在葬礼上，认识你的人都来祭奠，那么你在社会上的地位就死了；<br>第三次是在最后一个记得你的人死后，那你就真的死了。”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71987174)<br>心太宽也不好，会体胖。。<br>2017-10-13 00:33<br>赞(0) 踩(0) | <div>“我们为你骄傲，可是你看上去并不快乐。”触动了我。<br>感谢信仰，让我从现实的沼泽中回归自我，真正的快乐了…<br>整首歌还是比较震撼的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57732550)<br>我还没想好要写什么...<br>2017-10-13 00:27<br>赞(14) 踩(0) | <div>听完觉得还是7 yrs好听点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49639178)<br>Unimaginatio...<br>2017-10-13 00:26<br>赞(1) 踩(0) | <div>7years。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199732350)<br> <br>2017-10-13 14:02<br>赞(0) 踩(0) | <div>昵称屌</div> |
@@ -627,8 +627,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118400552)<br>我和我的歌单一样深不可测<br>2017-10-12 22:04<br>赞(196) 踩(0) | <div>写首新歌想上头条，无奈世界充满恶意 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300271620)<br><br>2017-10-14 15:36<br>赞(0) 踩(0) | <div>的去5</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252136199)<br><br>2017-10-12 22:03<br>赞(1) 踩(0) | <div>半壁江山。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296021944)<br> Wechat:mons...<br>2017-10-12 22:03<br>赞(3) 踩(0) | <div>汪老板自传式的的歌曲，用10分钟唱一首歌实在难得，也是够用心，但总觉得缺点什么。唱尽人生的歌在我心里也只有 《山丘》这一首而已了。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284086832)<br><br>2017-10-12 21:58<br>赞(6) 踩(0) | <div>[cp]《那年我五岁》，一首最个人，却又真正属于每个人的歌……也许只有最简单平实的影像才能承载歌里这么重的份量！再次感谢《7 years》这首歌给我的启发与帮助。感谢所有为这首歌付出的朋友：谢谢录音师李军，录音编曲技术支持雄鹰，MV导演小黑，平面设计师@DJ愚点 ，小涛老董小唐和我的团队！谢谢我的家人，感谢一直以来懂我支持我的你们！汪峰微博</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296021944)<br> Wechat:mons...<br>2017-10-12 22:03<br>赞(3) 踩(0) | <div>汪老板自传式的的歌曲，用10分钟唱一首歌实在难得，也是够用心，但总觉得缺点什么。<br>唱尽人生的歌在我心里也只有 《山丘》这一首而已了。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284086832)<br><br>2017-10-12 21:58<br>赞(6) 踩(0) | <div>[cp]《那年我五岁》，一首最个人，却又真正属于每个人的歌……也许只有最简单平实的影像才能承载歌里这么重的份量！再次感谢《7 years》这首歌给我的启发与帮助。感谢所有为这首歌付出的朋友：谢谢录音师李军，录音编曲技术支持雄鹰，MV导演小黑，平面设计师@DJ愚点 ，小涛老董小唐和我的团队！谢谢我的家人，感谢一直以来懂我支持我的你们！<br><br><br>汪峰微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/758252)<br>就是暂无签名~咋地<br>2017-10-12 21:56<br>赞(3) 踩(0) | <div>专辑简介写了受到了7years的歌词动机启发 所以爹妈说的话的词儿都一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52401347)<br><br>2017-10-12 21:53<br>赞(1) 踩(0) | <div>就冲10分钟来听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52629727)<br>‭<br>2017-10-12 21:53<br>赞(28) 踩(0) | <div>这歌在ktv里肯定没人跟我抢着唱 但可能会被打 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -646,7 +646,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38594102)<br><br>2017-10-12 21:21<br>赞(4) 踩(0) | <div>7 years 你當我們不聽英文歌嗎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297902863)<br>青春无悔拼一把!<br>2017-10-12 21:15<br>赞(0) 踩(0) | <div>很感動。可能這就是搖滾萬歲吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327170239)<br> <br>2017-10-12 21:13<br>赞(0) 踩(0) | <div>你还是那个你 你的歌总给我力量 沮丧的时候听听会振奋很多 依然很走心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296021944)<br> Wechat:mons...<br>2017-10-12 21:13<br>赞(0) 踩(0) | <div>汪老板自传式的的歌曲，用10分钟唱一首歌实在难得，也是够用心，但总觉得缺点什么。唱尽人生的歌在我心里也只有 《山丘》这一首而已了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296021944)<br> Wechat:mons...<br>2017-10-12 21:13<br>赞(0) 踩(0) | <div>汪老板自传式的的歌曲，用10分钟唱一首歌实在难得，也是够用心，但总觉得缺点什么。<br>唱尽人生的歌在我心里也只有 《山丘》这一首而已了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83450972)<br>做有光辉的事，伴有光辉的...<br>2017-10-12 21:09<br>赞(1) 踩(0) | <div>峰哥终于出新歌了 10分钟啊！！ 诚意 态度满满！峰哥成熟了 我们也该成熟了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229088349)<br><br>2017-10-12 21:06<br>赞(0) 踩(0) | <div>每一个怀揣梦想的人都很酷！虽然歌词不是很华丽，但我听出了真实。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298379684)<br> <br>2017-10-12 20:54<br>赞(1) 踩(0) | <div>好想爸爸</div> |
@@ -707,11 +707,11 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327254691)<br>木耳朵<br>2017-10-12 20:53<br>赞(0) 踩(0) | <div><q><b>定说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321717770)<br><br>2017-10-12 20:56<br>赞(0) 踩(0) | <div><q><b>嘉嘉嘉嘉嘉嘉利说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327254691)<br>木耳朵<br>2017-10-12 20:57<br>赞(0) 踩(0) | <div><q><b>大爱尹毓恪说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49937064)<br>大黄鸟<br>2017-10-12 20:14<br>赞(4) 踩(0) | <div>岁月流淌，步入中年渐晚之人总会想起几乎被遗忘的美好片段。流年中，沙粒沉淀于河底，愤怒、敏感、厌世沉于他们生出的那年。从五岁的那年到四十五岁的这年，再从四十五岁的这年到五岁的那年，再多的虚华词藻也无法描绘任何人的四十年。短短的由几段时间拼凑而成，却是人生最真实的体现。独自一人包揽了作曲作词编曲，那年他五岁，十五岁，二十五岁，三十五岁。即使强烈快速的吉他，爆裂震撼的鼓声，低沉哀鸣的贝斯，敏锐直指要害的表达，这些都不存在这第四十五年之中。我们又怎么能去指责呢？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49937064)<br>大黄鸟<br>2017-10-12 20:14<br>赞(4) 踩(0) | <div>岁月流淌，步入中年渐晚之人总会想起几乎被遗忘的美好片段。<br>流年中，沙粒沉淀于河底，愤怒、敏感、厌世沉于他们生出的那年。<br>从五岁的那年到四十五岁的这年，再从四十五岁的这年到五岁的那年，再多的虚华词藻也无法描绘任何人的四十年。<br>短短的由几段时间拼凑而成，却是人生最真实的体现。<br>独自一人包揽了作曲作词编曲，那年他五岁，十五岁，二十五岁，三十五岁。<br>即使强烈快速的吉他，爆裂震撼的鼓声，低沉哀鸣的贝斯，敏锐直指要害的表达，这些都不存在这第四十五年之中。<br>我们又怎么能去指责呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246865039)<br><br>2017-10-12 20:10<br>赞(0) 踩(0) | <div>我觉得听得还可以呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262759788)<br><br>2017-10-12 20:09<br>赞(0) 踩(0) | <div>原来汪峰的小提琴是专业的，我就说在好声音开场时拉的怎么那么好 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41558158)<br> <br>2017-10-12 20:09<br>赞(0) 踩(0) | <div>平淡无奇的成长描述，发现自己的过程，与父母关系的变化</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39338080)<br>爱上一匹野马，这里到处都...<br>2017-10-12 20:02<br>赞(0) 踩(0) | <div>唉，还要跟窦仙儿抢头条可惜虾米听不到窦唯今天的新曲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39338080)<br>爱上一匹野马，这里到处都...<br>2017-10-12 20:02<br>赞(0) 踩(0) | <div>唉，还要跟窦仙儿抢头条<br>可惜虾米听不到窦唯今天的新曲</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/62851382)<br><br>2017-10-12 22:17<br>赞(0) 踩(0) | <div>你窦仙儿的歌可以下手游听，挺好的死金</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26820299)<br><br>2017-10-12 19:59<br>赞(1) 踩(0) | <div>静下心来听 被感动了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48199906)<br>我还没想好要写什么...<br>2017-10-12 19:57<br>赞(1) 踩(0) | <div>为什么这么长……</div> |
@@ -773,7 +773,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276569453)<br><br>2017-10-12 19:46<br>赞(0) 踩(0) | <div>那年我高中，眼前充斥着的是学业，高考压力，当有时孤独，挫败的时候，总会听一些汪峰的歌，现在我大三，已经五年不曾认真听过他的歌，现在伴随我的是民谣，港乐，此刻熟悉的声音再次想起，好多回忆涌上心头。。摇滚不死，永远rock！岁月始终不会淹没的是这种唱到骨子里的歌 <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31094988)<br><br>2017-10-12 19:46<br>赞(1) 踩(0) | <div>个人觉得不怎么样...不引战，只是觉得对10分多钟的歌来说，这首歌太平淡了。首先旋律和副歌词不抓人，这种写法我小学老师叫做记流水账。第二虽然可以听出峰哥确实听了五万多个音色，每段都用了不同的配器音，但是没有令人惊喜的变化。我觉得唯一出彩的就只有那段吉他solo。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253049679)<br>明明哦。<br>2017-10-12 19:46<br>赞(0) 踩(0) | <div>不要忘记爸爸妈妈的叮咛 都是爱你的证明</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32777697)<br>Fight the Fu...<br>2017-10-12 19:45<br>赞(0) 踩(0) | <div>那年我15岁 她去了美国，注册facebook 只为和她聊天那年我25岁 她马上要回来了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32777697)<br>Fight the Fu...<br>2017-10-12 19:45<br>赞(0) 踩(0) | <div>那年我15岁 她去了美国，注册facebook 只为和她聊天<br>那年我25岁 她马上要回来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46870880)<br>摇滚，是生命激素<br>2017-10-12 19:45<br>赞(0) 踩(0) | <div>能坚持摇滚的人真不多，能像汪峰一样坚持摇滚的一线艺人真不多！为摇滚致敬！！为摇滚心❤致敬！！为汪峰打call！！ <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46870880)<br>摇滚，是生命激素<br>2017-10-12 19:45<br>赞(0) 踩(0) | <div>能坚持摇滚的人真不多，能像汪峰一样坚持摇滚的一线艺人真不多！为摇滚致敬！！为摇滚心致敬！！为汪峰打call！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38129793)<br>这个家伙很拽什么都不留下...<br>2017-10-12 19:43<br>赞(1) 踩(0) | <div>学一点东西  否则你会一事无成</div> |

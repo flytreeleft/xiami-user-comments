@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/af98af7fdd39edf214dd0bc9f98f5033.jpeg)<br>罗威](https://i.xiami.com/lowe) | **播放数**: 5366118<br>**粉丝数**: 3094<br>**评论数**: 248<br>**地区**: China 中国大陆<br>**风格**: 电影原声 Film Score, 音乐剧 Musical theatre, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/af98af7fdd39edf214dd0bc9f98f5033.jpeg)<br>罗威](https://i.xiami.com/lowe) | **地区**: China 中国大陆<br>**风格**: 电影原声 Film Score, 音乐剧 Musical theatre, 轻音乐 Easy Listening<br>**播放数**: 5366118<br>**粉丝数**: 3094<br>**评论数**: 248<br> |
 
 ## 档案
 
@@ -125,10 +125,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423088205)<br><br>2020-12-15 03:30<br>赞(0) 踩(0) | <div>随笔停更了吗&amp;hellip; <img src="../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2050162)<br>彼岸<br>2020-12-12 21:55<br>赞(0) 踩(0) | <div>每隔一段时间就会想起点进页面看看钢琴日记有没有新增一页</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2050162)<br>彼岸<br>2020-12-12 21:55<br>赞(0) 踩(0) | <div>每隔一段时间<br>就会想起点进页面<br>看看钢琴日记有没有新增一页</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434770048)<br>虾小米，虾小米再见…<br>2020-08-07 22:41<br>赞(0) 踩(0) | <div>罗老师，演奏会安排一下</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8098168)<br>天上寂静<br>2020-07-29 13:27<br>赞(0) 踩(0) | <div>难得</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408067818)<br>这次不是我<br>2020-06-18 23:12<br>赞(0) 踩(0) | <div></div> |
@@ -138,7 +138,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273735417)<br><br>2019-11-30 06:46<br>赞(0) 踩(0) | <div>一直在感觉，如诗如画，为了重逢那不可重复的一瞬。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75560364)<br>谦和，自省，成为更好的自...<br>2019-11-09 10:43<br>赞(0) 踩(0) | <div>很动听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325205625)<br><br>2019-10-31 21:30<br>赞(0) 踩(0) | <div>很喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2195529)<br><br>2019-08-26 12:03<br>赞(1) 踩(0) | <div>艺术家就能用艺术的手段来记录生活我就只能用文字来记录</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2195529)<br><br>2019-08-26 12:03<br>赞(1) 踩(0) | <div>艺术家就能用艺术的手段来记录生活<br><br>我就只能用文字来记录</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273735417)<br><br>2019-08-24 12:03<br>赞(1) 踩(0) | <div>即兴的音乐如诗，打开了自己的感觉和记忆往事。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199988588)<br>情深不寿，慧极必伤。<br>2019-08-20 00:28<br>赞(1) 踩(0) | <div>谢谢你，让我的心能有静下来的时刻。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13029796)<br>一心二用<br>2019-07-11 07:14<br>赞(2) 踩(0) | <div>谢谢你</div> |
@@ -154,7 +154,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5133732)<br>萨度 萨度 萨度<br>2018-09-01 00:12<br>赞(1) 踩(0) | <div>真是勤奋，钢琴散文家哈哈。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335082285)<br><br>2018-07-19 00:22<br>赞(0) 踩(0) | <div>一直在关注你。喜欢你的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25822738)<br>天空若岚~彩虹如雨<br>2018-06-30 21:46<br>赞(0) 踩(0) | <div>我在网易可以免费下载你的作品～ <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/7607820f67e63b694e1e455146cb9efb.png">知道你与我一样，喜欢喝咖啡～来杭州一定要@@我，请你喝咖啡。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12899728)<br>Good Luck<br>2018-05-11 23:55<br>赞(12) 踩(0) | <div>当钢琴键化作笔尖，将乐曲变成日记簿。点开名字只有日期和地点的曲子，像是无意间拾起别人散落一地的随笔和日记，窥见了别人的内心，他看过的风景，他每天经历的琐事。我在偷听一个人的日记，听到了别人的故事和情绪，也听到了自己的内心。也许，乐符间的留白更多。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12899728)<br>Good Luck<br>2018-05-11 23:55<br>赞(12) 踩(0) | <div>当钢琴键化作笔尖，将乐曲变成日记簿。点开名字只有日期和地点的曲子，像是无意间拾起别人散落一地的随笔和日记，窥见了别人的内心，他看过的风景，他每天经历的琐事。<br>我在偷听一个人的日记，听到了别人的故事和情绪，也听到了自己的内心。也许，乐符间的留白更多。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8792031)<br><br>2018-05-09 20:13<br>赞(4) 踩(0) | <div>很是期待四月的钢琴随笔，习惯了每个月月底总是如期而至，还没看到四月的更新，有点失落之余还有点担忧，希望能继续履行不成文的约定，你继续创作，我们继续欣赏 <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8896125)<br> <br>2018-05-08 17:28<br>赞(1) 踩(0) | <div>5月8日了还没见到《四月》，还以为我把日子过糊涂了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2174863)<br>无想<br>2018-04-25 15:46<br>赞(0) 踩(0) | <div>好听的太多了！！回家一个专辑一个专辑的听！！！</div> |
@@ -166,7 +166,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1804639)<br>搞得了艺术 当得了流氓<br>2018-03-10 16:42<br>赞(1) 踩(0) | <div>成为你的第1296颗❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188351171)<br>我还没想好要写什么...<br>2018-03-04 15:19<br>赞(0) 踩(0) | <div>感觉很高级，能体会到有灵魂在钢琴里游动。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1673856)<br>survive for ...<br>2018-03-01 10:16<br>赞(11) 踩(0) | <div>认知心理学上有一种现象，是说有些人可以通过非常规的感官感知世界。比如，也许大多数人听到音律的时候只能产生听觉，有一小部分人却能在听到音律的时候产生视觉，嗅觉，甚至触觉。很可惜我不属于这神奇人群中的一员，但是我却能感受到你想在随笔里诉说的情绪。听罗威每个月的随笔已经从习惯变成了期盼，真的谢谢你愿意每个月讲故事给我们听，我连每周坚持用文字写随笔都觉得吃力，所以你的坚持记录很不容易。我或许不是个合格的听众，但你是个很棒的音乐作家。：)</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95269814)<br>植物在生长，小鸟在飞翔，...<br>2020-03-18 18:56<br>赞(0) 踩(0) | <div>你说的是心理学里面的心理过程里面的认知过程里面的感觉里面的联觉吧！每个人或多或少都有联觉的能力吧！我是杠精，日常一杠！给钢琴随笔点赞 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95269814)<br>植物在生长，小鸟在飞翔，...<br>2020-03-18 18:56<br>赞(0) 踩(0) | <div>你说的是心理学里面的<br>心理过程里面的<br>认知过程里面的<br>感觉里面的<br>联觉吧！<br>每个人或多或少都有联觉的能力吧！<br>我是杠精，日常一杠！<br>给钢琴随笔点赞 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8140895)<br>口罩帽衫怪人，Gay<br>2018-01-15 21:41<br>赞(0) 踩(0) | <div>哈哈哈，网易云最佳听众 虾米也来威哥这里躺躺</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252355678)<br>Neil Stalnak...<br>2018-01-06 20:36<br>赞(0) 踩(0) | <div>会有音乐会吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1125664)<br><br>2018-01-15 20:38<br>赞(0) 踩(0) | <div>会^_^</div> |
@@ -269,7 +269,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1125664)<br><br>2015-11-03 15:47<br>赞(0) 踩(0) | <div>喜欢写歌 不喜欢唱^_^</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32015175)<br>一杯茶，一首歌，一轮月<br>2015-10-14 18:47<br>赞(0) 踩(0) | <div>虾米中发现宝藏~谢谢你的歌～</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1125664)<br><br>2015-10-14 22:03<br>赞(0) 踩(0) | <div>谢谢 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10613713)<br>路过时光<br>2015-10-07 04:05<br>赞(1) 踩(0) | <div>轻浅如流雾，可以一边听一边发呆，漫无边际的想东西，很有带入感的音乐，喜欢！有专辑吗？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10613713)<br>路过时光<br>2015-10-07 04:05<br>赞(1) 踩(0) | <div>轻浅如流雾，可以一边听一边发呆，漫无边际的想东西，很有带入感的音乐，喜欢！<br>有专辑吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1125664)<br><br>2015-10-10 08:56<br>赞(0) 踩(0) | <div>很快哟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1249406)<br>。<br>2015-09-18 10:18<br>赞(0) 踩(0) | <div>最新作品只能在播客上听到嘛?</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1125664)<br><br>2015-10-10 08:56<br>赞(0) 踩(0) | <div>这几天更新第二年啦</div> |
@@ -336,7 +336,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1125664)<br><br>2014-09-10 13:14<br>赞(0) 踩(0) | <div>恩，谢谢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13464759)<br><br>2014-08-14 09:35<br>赞(0) 踩(0) | <div>很喜欢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1125664)<br><br>2014-09-10 13:14<br>赞(0) 踩(0) | <div>谢谢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14993295)<br><br>2014-08-09 10:21<br>赞(0) 踩(0) | <div>罗威先生你好，我非常喜欢你的一首作品---“未完成的素描 夏日的短发女孩”最近一直在循环播放，非常想学。能否把曲谱发给我，谢谢。我的邮箱是<a href="mailto:1761473927@qq.com">1761473927@qq.com</a>非常感谢，再一次。祝好。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14993295)<br><br>2014-08-09 10:21<br>赞(0) 踩(0) | <div>罗威先生你好，我非常喜欢你的一首作品---“未完成的素描 夏日的短发女孩”<br><br>最近一直在循环播放，非常想学。<br><br>能否把曲谱发给我，谢谢。<br><br>我的邮箱是<a href="mailto:1761473927@qq.com">1761473927@qq.com</a><br><br>非常感谢，再一次。<br><br>祝好。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1125664)<br><br>2014-08-11 11:52<br>赞(0) 踩(0) | <div>谢谢您的喜欢，我的音乐都是即兴创作，都没有谱子，十分可惜。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14993295)<br><br>2014-09-16 20:13<br>赞(0) 踩(0) | <div><q><b>罗威说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37700501)<br><br>2014-06-17 19:30<br>赞(0) 踩(0) | <div>你好，请问《多云多雨》微电影片尾最后一分钟的慢速钢琴曲叫什么名字，找了两年了，很喜欢，但只能播着视频听……</div> |

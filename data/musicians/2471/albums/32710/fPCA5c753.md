@@ -76,9 +76,9 @@ OH ~~ 不想害自己 我已经失去你<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-05-14 17:27<br>赞(2) 踩(0) | <div>作词：林隆璇作曲：林隆璇编曲：吕绍淳制作人：陈俊廷</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-05-14 17:27<br>赞(2) 踩(0) | <div>作词：林隆璇<br>作曲：林隆璇<br>编曲：吕绍淳<br>制作人：陈俊廷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46583646)<br><br>2018-05-01 15:55<br>赞(3) 踩(0) | <div>这歌算得上佳作 精品。 写得真好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44233842)<br>Take  me  aw...<br>2018-04-29 19:33<br>赞(0) 踩(0) | <div>在我是歌手唱这首就好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39913215)<br>暂无签名~<br>2018-04-09 08:18<br>赞(5) 踩(0) | <div>虽然在正想专辑里不是很火，但是却是一首让我念念不忘，痛到骨子里的歌</div> |
@@ -86,7 +86,7 @@ OH ~~ 不想害自己 我已经失去你<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240660294)<br><br>2018-03-17 19:49<br>赞(2) 踩(0) | <div>耐听的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168425534)<br> <br>2018-03-05 15:48<br>赞(3) 踩(0) | <div>从高中用的MP3到现在用过的每部手机都依然还会连载这首歌，好听又怀旧吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273521934)<br><br>2018-03-04 22:48<br>赞(3) 踩(0) | <div>忘不了就别忘了，真正的忘记是不需要努力的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345804517)<br>兄弟姐妹   东南西北 ...<br>2018-02-27 08:19<br>赞(2) 踩(0) | <div>这是她和潘玮柏的故事照写的吗？妳也是帶着心情唱的、妳甚至还祝福他。&amp;hellip;幸福❤️ (  ⚫︎ー⚫︎  ) balalala~／　　　   ＼/　　　  ○  　\/　 /  　　    ヽ   \大白|　/　 　　　  \　|\Ԏ　　　　     Ԏ/卜&amp;minus;　　   ―イ\　　/\　   /︶　   ︶張韶涵，祝你幸福！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345804517)<br>兄弟姐妹   东南西北 ...<br>2018-02-27 08:19<br>赞(2) 踩(0) | <div>这是她和潘玮柏的故事照写的吗？妳也是帶着心情唱的、妳甚至还祝福他。&amp;hellip;幸福<br>❤️ (  ⚫︎ー⚫︎  ) balalala~<br>／　　　   ＼<br>/　　　  ○  　\<br>/　 /  　　    ヽ   \大白<br>|　/　 　　　  \　|<br>\Ԏ　　　　     Ԏ/<br>卜&amp;minus;　　   ―イ<br>\　　/\　   /<br>︶　   ︶<br>張韶涵，祝你幸福！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343923194)<br><br>2018-02-05 21:32<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260529862)<br>一直很喜欢一句话：你迷茫...<br>2018-01-25 04:31<br>赞(2) 踩(0) | <div>我们喜欢的歌曲或许只因一句歌词，或许因一个旋律，有或许因一个节奏，让我们喜欢上它，夜深人静的时候一个静静的听着，听着属于自己的歌.享受着那一份属于自己心境.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265429513)<br>慢慢来会比较快<br>2018-01-24 16:48<br>赞(2) 踩(0) | <div>有时候所有的假装最受伤的还不是自己</div> |

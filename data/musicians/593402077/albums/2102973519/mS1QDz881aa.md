@@ -75,8 +75,8 @@ E乐手弹梦想的和弦<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267765523)<br><br>2019-05-20 00:00<br>赞(0) 踩(0) | <div>听你的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423460503)<br><br>2019-04-28 18:21<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"> <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"> <img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202768328)<br>边走边爱反正人山人海<br>2019-01-09 23:25<br>赞(0) 踩(0) | <div>maze</div> |
@@ -86,7 +86,7 @@ E乐手弹梦想的和弦<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327862719)<br> <br>2018-08-17 14:45<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253594291)<br><br>2018-07-24 20:12<br>赞(0) 踩(0) | <div>心情不好，听一下感觉整个人充满能量。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87024908)<br>既然选择了远方便不顾风雨...<br>2018-07-05 16:48<br>赞(0) 踩(0) | <div>人生都是不可思议的，你永远不知道下一秒会发生什么，。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355881263)<br><br>2018-04-27 12:37<br>赞(1) 踩(0) | <div>我在不思议迷宫等你们，这是我的不思议人生的开始。请送我上二楼去偷放牛小编的牛回来一起吃牛肉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355881263)<br><br>2018-04-27 12:37<br>赞(1) 踩(0) | <div>我在不思议迷宫等你们，这是我的不思议人生的开始。<br>请送我上二楼去偷放牛小编的牛回来一起吃牛肉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356537268)<br><br>2018-04-25 18:08<br>赞(0) 踩(0) | <div>希望金岐玟能继续多出点打动人的歌~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2365017)<br><br>2018-04-19 06:52<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261320804)<br><br>2018-04-04 00:29<br>赞(2) 踩(0) | <div>南昌演唱会，想去，就是不知道能不能去成</div> |
@@ -114,7 +114,7 @@ E乐手弹梦想的和弦<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261320804)<br><br>2018-01-03 23:14<br>赞(0) 踩(0) | <div>好傻的歌，哎，不符合金</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341867709)<br><br>2017-12-31 07:58<br>赞(0) 踩(0) | <div>阿里郎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50387528)<br><br>2017-12-30 22:08<br>赞(0) 踩(0) | <div>求今天的密令 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49945795)<br>心有多大，世界就有多宽广...<br>2017-12-28 21:44<br>赞(2) 踩(0) | <div>早点睡吧！你喜欢的人已经和别人睡了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49945795)<br>心有多大，世界就有多宽广...<br>2017-12-28 21:44<br>赞(2) 踩(0) | <div>早点睡吧！<br>你喜欢的人已经和别人睡了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213001861)<br>热爱电音   交个朋友吧<br>2017-12-25 13:31<br>赞(1) 踩(0) | <div>每个人都有不可思议的人生  金大哥圣诞节快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65299580)<br>我还没想好要写什么...<br>2017-12-25 12:19<br>赞(1) 踩(0) | <div>很少遇到喜欢的女声 ➕1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334381045)<br>希望能遇到如你一般的人<br>2017-12-24 14:05<br>赞(0) 踩(0) | <div>喜欢听喜欢的音乐，喜欢她的声音和歌词里的故事。</div> |
@@ -196,7 +196,7 @@ E乐手弹梦想的和弦<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42475056)<br>我要灿烂到别人都嫌太耀眼<br>2017-12-15 15:14<br>赞(1) 踩(0) | <div>新歌 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28140858)<br><br>2017-12-15 15:07<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334330074)<br><br>2017-12-15 14:29<br>赞(0) 踩(0) | <div>呀么挺求婚我会是个</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334330074)<br><br>2017-12-15 14:28<br>赞(0) 踩(0) | <div>c啄欲籢焕炴麳举料欠也furubgjchduhgfiryVydkd <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png">1255434852 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334330074)<br><br>2017-12-15 14:28<br>赞(0) 踩(0) | <div>c啄欲籢<br>焕炴麳举料欠也furubgjchduhgfiryVydkd <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png">1255434852 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88195766)<br><br>2017-12-15 13:55<br>赞(2) 踩(0) | <div>新歌啊，最喜欢的还是岁月神偷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303179011)<br><br>2017-12-15 13:48<br>赞(3) 踩(0) | <div>好听呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264951268)<br><br>2017-12-15 13:33<br>赞(1) 踩(0) | <div>听她歌挺久了，最喜欢的是才华有限公司。不思议迷宫弃游好久了，结果出歌了，还是金玟岐唱的。。。。。</div> |
@@ -261,7 +261,7 @@ E乐手弹梦想的和弦<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49979508)<br><br>2017-12-14 22:55<br>赞(0) 踩(0) | <div>首发咯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15539052)<br>一场游戏一场梦<br>2017-12-14 22:52<br>赞(0) 踩(0) | <div>喜欢她的歌声，喜欢她的原创</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217658262)<br>(ง •̀_•́)ง<br>2017-12-14 22:48<br>赞(1) 踩(0) | <div>给喜欢的金玟崎最好的祝福</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338753041)<br>I am the bes...<br>2017-12-14 22:45<br>赞(1) 踩(0) | <div>你是谁 你在哪这宇宙那么大陌生的 却熟悉着不思议人生，不思议你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338753041)<br>I am the bes...<br>2017-12-14 22:45<br>赞(1) 踩(0) | <div>你是谁 你在哪<br>这宇宙那么大<br>陌生的 却熟悉着<br>不思议人生，不思议你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327658847)<br>我还没想好要写什么...<br>2017-12-14 22:42<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335968549)<br> <br>2017-12-14 22:39<br>赞(1) 踩(0) | <div>金老师又有新歌啦，快来点赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315614031)<br>你是人间烟火不自知   ...<br>2017-12-14 22:24<br>赞(3) 踩(0) | <div>M先生我喜欢你，如果有机会，我一定会说，但是你和A小姐在一起了，祝你们幸福</div> |
@@ -291,7 +291,7 @@ E乐手弹梦想的和弦<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66880994)<br>如果你在前方回頭，而我不...<br>2017-12-14 20:17<br>赞(1) 踩(0) | <div>好烦所谓的球迷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66880994)<br>如果你在前方回頭，而我不...<br>2017-12-14 20:17<br>赞(1) 踩(0) | <div>啊啊啊啊高产啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95573492)<br>我还没想好要写什么...<br>2017-12-14 20:16<br>赞(2) 踩(0) | <div>伸出右手，高喊：球迷 报道！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339530188)<br><br>2017-12-14 20:15<br>赞(1) 踩(0) | <div>放牛小编太懒了，我来发个密令。啦啦啦啦啦啦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339530188)<br><br>2017-12-14 20:15<br>赞(1) 踩(0) | <div>放牛小编太懒了，我来发个密令。<br>啦啦啦啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198502358)<br> <br>2017-12-14 20:14<br>赞(2) 踩(0) | <div>坦白来说这首不好听&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259070123)<br><br>2017-12-14 20:11<br>赞(2) 踩(0) | <div>不好听 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280010427)<br>这个聪明的小家伙什么也没...<br>2017-12-14 20:11<br>赞(1) 踩(0) | <div>大七高产到不行！超好听 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |

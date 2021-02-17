@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6c5007d9d0049cde2ea11013b3ab0cf1.jpg)<br>徒有琴](https://i.xiami.com/tuyouqin) | **播放数**: 22542835<br>**粉丝数**: 5397<br>**评论数**: 112<br>**地区**: China 中国大陆<br>**风格**: 古风 GuFeng Music<br> |
+| [![](../../images/musicians/6c5007d9d0049cde2ea11013b3ab0cf1.jpg)<br>徒有琴](https://i.xiami.com/tuyouqin) | **地区**: China 中国大陆<br>**风格**: 古风 GuFeng Music<br>**播放数**: 22542835<br>**粉丝数**: 5397<br>**评论数**: 112<br> |
 
 ## 档案
 
@@ -52,8 +52,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197438808)<br>我见青山多妩媚，料青山，...<br>2020-12-15 17:06<br>赞(0) 踩(0) | <div>喜欢，加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325374787)<br><br>2020-01-05 16:50<br>赞(0) 踩(0) | <div>位乐者不在于国界之分！享受满足生活快乐……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6592487)<br> <br>2019-12-03 11:11<br>赞(2) 踩(0) | <div>戏腔好听</div> |
@@ -127,7 +127,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27263757)<br>屋檐下，风铃在歌唱<br>2015-09-18 10:26<br>赞(0) 踩(0) | <div><q><b>午後的月亮说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5867670)<br>物無美惡，過則為災。<br>2015-09-18 11:48<br>赞(0) 踩(0) | <div><q><b>窈窕如树说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321391730)<br><br>2017-08-25 10:10<br>赞(0) 踩(0) | <div>[文字cool]</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272904958)<br>不会有人真的了解你，一如...<br>2019-03-26 00:22<br>赞(0) 踩(0) | <div>摘一段话“古琴音乐主要受儒家中正和平、温柔敦厚、「德音之谓乐」和道家顺应自然、大音希声、清微淡远等思想的影响。传统琴曲主要用五声音阶，即五正音，这可说是儒家中和雅正思想在音乐上的落实，而琴乐清虚淡静的风格和意境则主要为道家思想的反映。”每个乐器自有它本身独特的韵味，只是现代社会的文化使我们一味追求新意……好比茶与饮料，你可以不喜欢喝茶，也可以用茶叶制作成爱喝的奶茶，但不能就此否定茶本身的意义……个人浅见。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272904958)<br>不会有人真的了解你，一如...<br>2019-03-26 00:22<br>赞(0) 踩(0) | <div>摘一段话“古琴音乐主要受儒家中正和平、温柔敦厚、「德音之谓乐」和道家顺应自然、大音希声、清微淡远等思想的影响。传统琴曲主要用五声音阶，即五正音，这可说是儒家中和雅正思想在音乐上的落实，而琴乐清虚淡静的风格和意境则主要为道家思想的反映。”<br>每个乐器自有它本身独特的韵味，只是现代社会的文化使我们一味追求新意……好比茶与饮料，你可以不喜欢喝茶，也可以用茶叶制作成爱喝的奶茶，但不能就此否定茶本身的意义……<br>个人浅见。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360725911)<br><br>2019-07-15 06:26<br>赞(0) 踩(0) | <div>78777'S视频输入</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429022944)<br>谁敢惹我，我便惹谁<br>2019-08-24 15:04<br>赞(0) 踩(0) | <div>好</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251545005)<br><br>2019-10-12 18:52<br>赞(0) 踩(0) | <div>事实上，古琴时间越久音色越好越浑厚。</div> |

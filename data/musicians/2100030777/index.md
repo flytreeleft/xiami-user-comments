@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4920b8abe91f7bc61bf0e7571dd9f01c.jpg)<br>李雨](https://i.xiami.com/fishfishlee) | **播放数**: 23985383<br>**粉丝数**: 13420<br>**评论数**: 425<br>**地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter, 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/4920b8abe91f7bc61bf0e7571dd9f01c.jpg)<br>李雨](https://i.xiami.com/fishfishlee) | **地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter, 独立民谣 Indie Folk<br>**播放数**: 23985383<br>**粉丝数**: 13420<br>**评论数**: 425<br> |
 
 ## 档案
 
@@ -48,12 +48,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6320476)<br>再见<br>2021-01-23 19:35<br>赞(0) 踩(0) | <div>再见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446447332)<br><br>2020-12-30 15:29<br>赞(1) 踩(0) | <div>为了李雨的一首 年 我把虾米音乐下载了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420341)<br>盛夏夜里绽放最耀眼的花火<br>2020-11-19 11:08<br>赞(0) 踩(0) | <div>为啥没有万千观止？奇怪</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405460297)<br><br>2020-06-29 20:04<br>赞(2) 踩(0) | <div>李雨姐姐 你好，希望你不要介意我这冒然的称呼。想起自己应该是从3年前您的一首《吾妻》喜欢上你，而后的时光也关注着你，你上次演唱会，耽误了一次，感觉挺可惜的。喜欢您的歌这么久了，我也特别想对您说 我大概听懂了您的歌，却又觉得自己还要走更长的路，才能体会到你的忧伤。我特别希望见到你，如果能有一张和您的&amp;ldquo;合照&amp;rdquo;那就会高兴的起飞，然后向逢人就说&amp;ldquo;这是我得偶像&amp;rdquo;如果有人问起我为什么喜欢您的话，我一定会说她的歌唱出了所有人间美好。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405460297)<br><br>2020-06-29 20:04<br>赞(2) 踩(0) | <div>李雨姐姐 你好，希望你不要介意我这冒然的称呼。想起自己应该是从3年前您的一首《吾妻》喜欢上你，而后的时光也关注着你，你上次演唱会，耽误了一次，感觉挺可惜的。<br>喜欢您的歌这么久了，我也特别想对您说 我大概听懂了您的歌，却又觉得自己还要走更长的路，才能体会到你的忧伤。<br>我特别希望见到你，如果能有一张和您的&amp;ldquo;合照&amp;rdquo;那就会高兴的起飞，然后向逢人就说&amp;ldquo;这是我得偶像&amp;rdquo;如果有人问起我为什么喜欢您的话，我一定会说她的歌唱出了所有人间美好。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316298650)<br>纵欲对不起灵魂 禁欲对不...<br>2020-09-13 15:25<br>赞(0) 踩(0) | <div>冒昧打扰了，因为真的觉得和你很像啊。李雨姐姐的歌陪我度过了最艰难的一段时间，每天都听她的歌才会心安。后来去了一次演唱会，胆子太小太小，一见面眼泪就快控制不住了。后来排签名，有一堆一堆的话好想说，可是最后只说出来一句谢谢你。连合照也不敢要求。幸好从后门去停车场，碰到门后坐在地上的李雨姐姐。像疯了一样冲过去跪下来了，一句完整的话都说不出来了。是我妈妈陪我一起去的，她帮我把我想说的告诉李雨姐姐，李雨姐姐还看了我听她的歌时画的画。她还说她以前也很胆小，让我勇敢一点，也拍了我做梦都会笑醒的合照。她真的是一个很温柔的姐姐，她很真诚地对待每一个人。我现在真的变得大胆了许多，比如说现在我就敢把心里面的话说出。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248068211)<br>让你被爱是我光荣<br>2020-06-24 21:18<br>赞(3) 踩(0) | <div>一直以为李雨没有继续出新作品，然后发现，哦，新作品去了腾讯家 ：）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403187114)<br><br>2020-06-16 10:09<br>赞(1) 踩(0) | <div>我哭了，我听了两年李雨的歌，最近发现虾米音乐很多首没有版权了，哭死我算了</div> |
@@ -82,7 +82,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411417626)<br>我爱(⑉°з°)-♡学习...<br>2019-03-18 13:04<br>赞(0) 踩(0) | <div>喜欢你的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33575558)<br>一丈孤勇心外仙<br>2019-03-11 21:10<br>赞(0) 踩(0) | <div>我要买你的嗓音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14622761)<br>拜拜<br>2019-03-07 16:47<br>赞(0) 踩(0) | <div>雨哥有新歌了啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405460297)<br><br>2019-02-26 20:07<br>赞(1) 踩(0) | <div>雨哥，你的歌我总是一个专辑一个专辑的循环，它有一些淡淡的忧伤，我词汇量可少，也不能总结出什么来。简单的来说，我喜欢这样文艺的你，和你的样子，我也晓得，那种沧桑的状态，也有很多人文关怀在里面。就如同我以往看到的那些文学作品一样，及写实又美好，我晓得如果没有一颗热爱着世界的心，它是如何都办不到这些的。我恨迷恋着你呢 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">我习惯着听你的歌，从结束上一段感情到现在也有了3年，如今也碰到了那个温柔的女孩，她告诉我说，喜欢我的气息，也喜欢我的磁场，好像我就是那个她一直在等的人。她哭完了以前的悲伤与委屈，我们就怀着对各自的喜欢，慢慢的相处着……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405460297)<br><br>2019-02-26 20:07<br>赞(1) 踩(0) | <div>雨哥，你的歌我总是一个专辑一个专辑的循环，它有一些淡淡的忧伤，我词汇量可少，也不能总结出什么来。<br><br>简单的来说，我喜欢这样文艺的你，和你的样子，我也晓得，那种沧桑的状态，也有很多人文关怀在里面。就如同我以往看到的那些文学作品一样，及写实又美好，我晓得如果没有一颗热爱着世界的心，它是如何都办不到这些的。我恨迷恋着你呢 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"><br><br>我习惯着听你的歌，从结束上一段感情到现在也有了3年，如今也碰到了那个温柔的女孩，她告诉我说，喜欢我的气息，也喜欢我的磁场，好像我就是那个她一直在等的人。她哭完了以前的悲伤与委屈，我们就怀着对各自的喜欢，慢慢的相处着……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352339)<br>暂无签名~<br>2019-01-31 13:08<br>赞(1) 踩(0) | <div>的确是一股清流，耳目一新，需要这样的歌者</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336781084)<br>(๑´∀`๑)<br>2019-01-27 21:08<br>赞(1) 踩(0) | <div>从几千粉丝看她一步一步走到现在的几万粉丝，我好歹也勉强算个老粉了吧？(*｀▽´*)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281174586)<br><br>2019-01-21 23:40<br>赞(3) 踩(0) | <div><a href="http://emumo.xiami.com/u/210484972" target="_blank" rel="nofollow" name_card="210484972">@李雨 </a>姐姐，我真的很喜欢您，在去年，我对民谣产生了极大的兴趣，就查找了民谣歌手，我看到您的背景图片很酷，于是我就点开您的虾米主页，听了您的歌，发现您的歌都很好听，于是我就在百度搜索了您的资料，发现您是黑龙江人，我当时真的很高兴，也很骄傲，因为我也是黑龙江人，姐姐，我想说，您是我们黑龙江的骄傲！最后，无论您看不看的见这条评论，我都会一直喜欢您，关注您的！</div> |
@@ -103,7 +103,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379335868)<br><br>2018-10-09 18:43<br>赞(0) 踩(0) | <div>姐姐 很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275618946)<br><br>2018-10-07 12:33<br>赞(0) 踩(0) | <div>听了好几天了  好听 支持黑龙江老乡 期待更多作品 加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68427048)<br>R&B 嘻哈才是最音乐<br>2018-10-06 12:31<br>赞(0) 踩(0) | <div>好听的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288248353)<br>好好活<br>2018-10-01 09:55<br>赞(0) 踩(0) | <div>很棒，听着你的音乐，总会回想很多，加油</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288248353)<br>好好活<br>2018-10-01 09:55<br>赞(0) 踩(0) | <div>很棒，听着你的音乐，总会回想很多<br>，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/564335)<br>每一个缺少音乐相伴的日子...<br>2018-09-24 22:32<br>赞(2) 踩(0) | <div>加油! 真滴很不错、还可以做的更棒滴 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> 想成为苏珊.薇格那样的民谣诗人吗 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379639728)<br>挺好<br>2018-09-20 10:52<br>赞(0) 踩(0) | <div>听你的歌会很感触，真的非常好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304629893)<br><br>2018-09-11 03:28<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/29cf103b88c33e19563095897485c32a.png"></div> |
@@ -111,7 +111,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375228694)<br><br>2018-09-08 10:11<br>赞(0) 踩(0) | <div>第一次听你的歌，留下了眼泪，我也不知道为谁，为了什么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71842508)<br> -<br>2018-09-06 02:01<br>赞(1) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26967867)<br>入戏太深<br>2018-09-05 21:27<br>赞(1) 踩(0) | <div>谢谢你的歌声陪伴着我每一天 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4421063)<br>梦里是谁<br>2018-09-01 13:04<br>赞(0) 踩(0) | <div>刺激哲毕难艹</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4421063)<br>梦里是谁<br>2018-09-01 13:04<br>赞(0) 踩(0) | <div>刺激<br>哲毕难艹</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187050430)<br><br>2018-08-21 00:36<br>赞(0) 踩(0) | <div>深圳场我要去！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149546728)<br>感谢虾米。<br>2018-08-17 12:34<br>赞(0) 踩(0) | <div>雨哥啊，我特别特别希望有一天你能有机会见见我健哥（李健），你们有些地方特别特别像，他一定喜欢你的音乐，你们肯定能相互从对方身上得到带音乐上的灵感 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">考虑下</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86513568)<br><br>2018-08-16 15:02<br>赞(1) 踩(0) | <div>想不到，能写出这样淡然歌曲的歌手竟然这么年轻</div> |
@@ -147,14 +147,14 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45075389)<br>心若是海，浪便是爱<br>2018-07-20 13:16<br>赞(1) 踩(0) | <div>加油 短发小姐姐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377506483)<br><br>2018-07-18 15:45<br>赞(0) 踩(0) | <div>哇哇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329313376)<br>呜<br>2018-07-14 18:49<br>赞(0) 踩(0) | <div>喜欢李雨</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275808395)<br>onceinawhile...<br>2018-07-05 14:32<br>赞(1) 踩(0) | <div>难得</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275808395)<br>onceinawhile...<br>2018-07-05 14:32<br>赞(1) 踩(0) | <div>难<br>得</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270141084)<br>我终将落俗但浪漫不死<br>2018-07-03 19:08<br>赞(1) 踩(0) | <div>从前的从前 有个姑娘叫李雨 她能力有限 但她拯救了我 喜欢她 我很骄傲 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4277989)<br>我还没想好要写什么...<br>2018-07-02 20:14<br>赞(0) 踩(0) | <div>新图，特别，酷啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112642490)<br>你不霸占凉椅，就会有情侣...<br>2018-07-02 14:57<br>赞(0) 踩(0) | <div>想去认识你，了解你。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349418127)<br>我还没想好要写什么...<br>2018-06-26 20:22<br>赞(1) 踩(0) | <div>吾妻今天第一次听 也就循环了几十遍吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336781084)<br>(๑´∀`๑)<br>2018-08-17 21:21<br>赞(0) 踩(0) | <div>是么？真是不好意思呢~我看到你只听了李雨小姐姐一首歌，仅仅一首的那首歌还是吾妻，怕不是你对几十遍有什么误解？还有啊，拜托点赞的人机智一点好吧？就算是别人编也是十几遍，谁会说循环几十遍？太浮夸谁回信？几十遍，呵呵，编的挺好（鼓掌）装李雨小姐姐的粉丝？就听了她一首歌，一次吾妻还说循环几十遍的粉丝？我不同意，最讨厌这种骗子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6545705)<br>ooooo……在于不不不<br>2018-06-13 10:22<br>赞(1) 踩(0) | <div>机会</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4277989)<br>我还没想好要写什么...<br>2018-06-12 17:44<br>赞(3) 踩(0) | <div>李雨2018巡演&amp;ldquo;出走人间&amp;rdquo;了解一下：6.22苏州、6.23杭州、6.27广州、6.29广州增城音乐节</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4277989)<br>我还没想好要写什么...<br>2018-06-12 17:44<br>赞(3) 踩(0) | <div>李雨2018巡演&amp;ldquo;出走人间&amp;rdquo;了解一下：<br>6.22苏州、6.23杭州、6.27广州、6.29广州增城音乐节</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353560864)<br>这家伙很聪明什么也没留下...<br>2018-08-09 19:02<br>赞(0) 踩(0) | <div>我会去</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4277989)<br>我还没想好要写什么...<br>2018-08-13 22:51<br>赞(0) 踩(0) | <div><q><b>U说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302823183)<br><br>2018-06-12 10:43<br>赞(2) 踩(0) | <div>爱你！懂你的无助和寂寞！ <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
@@ -214,7 +214,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334527040)<br><br>2017-11-13 06:39<br>赞(0) 踩(0) | <div>被感动了诶。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256226319)<br><br>2017-11-09 18:02<br>赞(0) 踩(0) | <div>很好听，喜欢你的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259856126)<br>Hola！<br>2017-11-04 16:45<br>赞(0) 踩(0) | <div>前阵子单曲循环你的万水，感觉治好了我&amp;middot;&amp;middot;&amp;middot;听来听去又像是走不出来了？哈哈，昨天刚刚加入了虾米音乐人，上传了个人原创demo，希望能有机会学习交流。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252256875)<br>致 李雨<br>2017-11-03 13:01<br>赞(1) 踩(0) | <div>我的小鲤鱼，我爱你啊。罗生很爱你。很爱很爱。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252256875)<br>致 李雨<br>2017-11-03 13:01<br>赞(1) 踩(0) | <div>我的小鲤鱼，<br>我爱你啊。<br>罗生很爱你。<br>很爱很爱。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4277989)<br>我还没想好要写什么...<br>2017-10-31 21:50<br>赞(0) 踩(0) | <div>@fishfish李雨啊 每当踌躇、迷茫、委屈、困惑，我都会来听你的电台，翻看你微博。可能是信仰</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97536764)<br><br>2017-10-30 09:53<br>赞(1) 踩(0) | <div>本人今年33岁，听歌无数，大李雨10岁。你演绎歌曲的方式太吸引人了，让我几乎有种惊为天人的感觉。加油，你是我在音乐播放平台上的第四个粉丝。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336781084)<br>(๑´∀`๑)<br>2018-08-17 21:24<br>赞(0) 踩(0) | <div>有病句</div> |
@@ -315,7 +315,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252098783)<br><br>2017-04-14 11:46<br>赞(2) 踩(0) | <div>转粉了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252098783)<br><br>2017-04-13 13:54<br>赞(2) 踩(0) | <div>清流</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196740797)<br><br>2017-04-06 13:10<br>赞(2) 踩(0) | <div>心一下就静了，回忆一下就闯入了心底。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2201298)<br><br>2017-04-02 18:33<br>赞(3) 踩(0) | <div>挺好，酒僧、吾妻、姐姐，是听了能多喝两杯的曲儿，有些情啊爱啊的，还是年轻点了。没什么意思。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2201298)<br><br>2017-04-02 18:33<br>赞(3) 踩(0) | <div>挺好，酒僧、吾妻、姐姐，是听了能多喝两杯的曲儿，<br>有些情啊爱啊的，还是年轻点了。没什么意思。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46398403)<br><br>2017-04-01 12:56<br>赞(4) 踩(0) | <div>听了吾妻来的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/721393)<br><br>2017-03-26 02:18<br>赞(2) 踩(0) | <div>好好听，我看好你，哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282067675)<br><br>2017-03-25 18:30<br>赞(2) 踩(0) | <div>声音很干净！</div> |
@@ -413,7 +413,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96961808)<br>本宝宝的微博不定期吐槽想...<br>2017-02-01 12:45<br>赞(0) 踩(0) | <div>雨哥啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96961808)<br>本宝宝的微博不定期吐槽想...<br>2017-02-01 12:45<br>赞(0) 踩(0) | <div>爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52770461)<br><br>2017-01-14 19:47<br>赞(2) 踩(0) | <div>李雨呀好棒好漂亮</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35278613)<br><br>2016-12-29 21:21<br>赞(4) 踩(0) | <div>虽然不知道李雨以后会不会有新歌儿让我们听到，还是写一下个人最爱的歌词吧:脚踏黄土，头顶清风，不道苦楚，莫问前程。黄土散尽，清风无声，有苦是福，可福祸相生。(做事情要踏踏实实，真诚，豁达，结果亦是开始，笑看无常才是真正的大智慧 <img src="../../images/comments/aa870edd44d3f615d76bed2188beb79d.png">)他说，你看人生是何其得短啊，人世却那么长。(人生时间虽有限，但思想无限，健康时候不放纵，疾病时候就用思想去填补破旧的皮囊，根性真善，就可以直面任何境况) <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35278613)<br><br>2016-12-29 21:21<br>赞(4) 踩(0) | <div>虽然不知道李雨以后会不会有新歌儿让我们听到，还是写一下个人最爱的歌词吧:<br>脚踏黄土，头顶清风，不道苦楚，莫问前程。<br>黄土散尽，清风无声，有苦是福，可福祸相生。<br>(做事情要踏踏实实，真诚，豁达，结果亦是开始，笑看无常才是真正的大智慧 <img src="../../images/comments/aa870edd44d3f615d76bed2188beb79d.png">)<br><br>他说，你看人生是何其得短啊，人世却那么长。<br>(人生时间虽有限，但思想无限，健康时候不放纵，疾病时候就用思想去填补破旧的皮囊，根性真善，就可以直面任何境况) <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232603045)<br><br>2016-12-28 00:54<br>赞(0) 踩(0) | <div>在我心里，李雨无人超越</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232603045)<br><br>2016-12-28 00:53<br>赞(0) 踩(0) | <div>李雨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201390671)<br>拯救不开心。  梅格妮/...<br>2016-12-21 18:58<br>赞(2) 踩(0) | <div>词写的简直了</div> |
@@ -458,7 +458,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1882463)<br>我还没想好要写什么...<br>2016-08-09 16:23<br>赞(0) 踩(0) | <div>已有</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9051138)<br><br>2016-08-09 16:26<br>赞(0) 踩(0) | <div><q><b>月光牧羊人说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210782927)<br><br>2016-08-09 11:40<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118435364)<br><br>2016-08-09 08:10<br>赞(171) 踩(0) | <div>“我知道，用这些东西写首歌没什么难的，比我透彻的人也太多太多。但我写下来了，我想几十年后，人终要不在了，尘归尘土归土，至少留在这世界上的，还有一些关于我和另一个时空里的那个人的一些痕迹和烟火。我还知道，在这个世道上，不管活多久，得明明白白地做人，做个聪明的人，但今天明天，往后的日子，我都想要像那个疯和尚一样，糊糊涂涂地过。”cr李雨</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118435364)<br><br>2016-08-09 08:10<br>赞(171) 踩(0) | <div>“我知道，用这些东西写首歌没什么难的，比我透彻的人也太多太多。但我写下来了，我想几十年后，人终要不在了，尘归尘土归土，至少留在这世界上的，还有一些关于我和另一个时空里的那个人的一些痕迹和烟火。<br><br>我还知道，在这个世道上，不管活多久，得明明白白地做人，做个聪明的人，但今天明天，往后的日子，我都想要像那个疯和尚一样，糊糊涂涂地过。”<br>cr李雨</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279071486)<br> <br>2017-03-09 23:51<br>赞(0) 踩(0) | <div>为了你，才下的虾米。期待你录&amp;#39;别离&amp;#39;。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47560121)<br>暂无签名~<br>2017-03-30 09:59<br>赞(0) 踩(0) | <div>好</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288291002)<br>以前是许嵩现在是李雨。与...<br>2017-04-13 02:13<br>赞(0) 踩(0) | <div>可以唱么</div> |

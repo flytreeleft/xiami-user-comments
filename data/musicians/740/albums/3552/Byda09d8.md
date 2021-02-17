@@ -71,8 +71,8 @@ ISRC CN-A23-04-66306
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7834374)<br>emmanuel<br>2019-06-14 11:04<br>赞(0) 踩(0) | <div>高中时代至今，弹指十多年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26814604)<br><br>2017-02-24 22:46<br>赞(3) 踩(0) | <div>曾经坐在去某个地方的车上，一直听，听到想车这么一直开下去没有终点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2016-12-21 15:53<br>赞(4) 踩(0) | <div>副歌部分真的很想婚礼时唱给她听。</div> |

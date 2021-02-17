@@ -34,8 +34,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4262888)<br><br>2020-10-23 14:05<br>赞(2) 踩(0) | <div>歌名都错了，没记错的话应该叫 每一分每一秒都给你，是爱情多瑙河专辑里面的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283715594)<br><br>2020-10-22 22:30<br>赞(0) 踩(0) | <div>和张信哲声音很像啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400998031)<br><br>2020-11-21 14:23<br>赞(0) 踩(0) | <div>搜一下&amp;ldquo;陈杰洲&amp;rdquo;声线和张信哲也很像</div> |
@@ -63,7 +63,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36949913)<br>Life is wait...<br>2020-01-13 11:58<br>赞(2) 踩(0) | <div>电脑上有个翡翠台MV版本，一直收藏着有10年了，吉他是袁惟仁，钢琴是黄韵玲，真的好听.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297951316)<br>你不妨大胆一些，爱一个人...<br>2019-12-28 13:32<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405042301)<br>人生只此一次，再苦再难，...<br>2019-11-17 14:00<br>赞(1) 踩(0) | <div>想起我深圳老朋友胖子，他最爱熊天平了！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428718947)<br><br>2019-11-12 23:14<br>赞(1) 踩(0) | <div>声音、歌词都让人好沉醉，一沉醉就是二十年爱让谁落泪哭成流水不知去向往事在每一夜陪伤心人入睡爱怎会疲惫你一去不回你的起点也许是我永远到不了的终点让我飘飘荡荡我不停的追逐那黑色的幸福就像是蒙上眼睛追逐你的路我扬起万千风帆告诉你我好孤单在幽幽蓝蓝多烦恼多瑙河</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428718947)<br><br>2019-11-12 23:14<br>赞(1) 踩(0) | <div>声音、歌词都让人好沉醉，一沉醉就是二十年<br><br><br>爱让谁落泪<br>哭成流水<br>不知去向<br>往事在每一夜<br>陪伤心人入睡<br>爱怎会疲惫<br>你一去不回<br>你的起点<br>也许是我永远到不了的终点<br>让我飘飘荡荡<br>我不停的追逐<br>那黑色的幸福<br>就像是蒙上眼睛追逐你的路<br>我扬起万千风帆<br>告诉你我好孤单<br>在幽幽蓝蓝多烦恼多瑙河</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178880786)<br><br>2019-11-11 09:02<br>赞(1) 踩(0) | <div>熊天平的声音总有深入人心的力量，听着听着会感动的流泪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418417153)<br><br>2019-11-04 18:21<br>赞(1) 踩(0) | <div>听到这首歌我想起了我的孩童时代，想起了生我养我的农村，想起了大录音机里的磁带，那是九几年，一个没有任何杂质的地方，，，好想回去，不用再努力！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341023414)<br>锻炼身体可以改变心情<br>2019-10-20 08:53<br>赞(1) 踩(0) | <div>被遗忘的好嗓子，天平的歌曲很难驾驭，所以不会被太多人关注，多年以后听着还能找回当年的那份清晰的回忆。</div> |
@@ -72,7 +72,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349255178)<br>谁解幽人幽意，惯看山鸟山...<br>2019-08-14 22:43<br>赞(0) 踩(0) | <div>高一时候第一次听到</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333359005)<br>如歌岁月<br>2019-08-03 00:25<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png">为每一首值得收藏的歌曲点赞！ <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291547881)<br><br>2019-07-27 02:42<br>赞(1) 踩(0) | <div>好听 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425600687)<br><br>2019-07-19 09:34<br>赞(27) 踩(0) | <div>迷恋这首歌的时候在上大学。那时候过度在半熟不熟的阶段。会为一句歌词伤感许久，也会为一个微笑沉醉半月。脑海里爱情的样子是极其高尚和温暖。那时候很容易动情，也许只是因为一个路过的眼神。那时候很容易动情，也许只是因为你坐在我的身旁。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425600687)<br><br>2019-07-19 09:34<br>赞(27) 踩(0) | <div>迷恋这首歌的时候在上大学。<br>那时候过度在半熟不熟的阶段。<br>会为一句歌词伤感许久，<br>也会为一个微笑沉醉半月。<br>脑海里爱情的样子是极其高尚和温暖。<br>那时候很容易动情，也许只是因为一个路过的眼神。<br>那时候很容易动情，也许只是因为你坐在我的身旁。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263512999)<br><br>2020-05-11 08:24<br>赞(0) 踩(0) | <div>同感，感觉博爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323383166)<br> <br>2019-07-04 13:54<br>赞(1) 踩(0) | <div>扎心了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36556491)<br>不换<br>2019-06-28 22:14<br>赞(0) 踩(0) | <div>进入心底</div> |

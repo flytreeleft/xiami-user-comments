@@ -27,6 +27,6 @@ the moon scorched her inside
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6514771)<br><br>2013-11-22 00:03<br>赞(0) 踩(0) | <div>新疆跟芬兰一样，都是神奇的地方啊</div> |

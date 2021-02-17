@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e9054b34ac989825ce6b80346b18dc15.jpg)<br>恶梦Yk](https://i.xiami.com/em) | **播放数**: 1417981<br>**粉丝数**: 314<br>**评论数**: 19<br>**地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 流行说唱 Pop Rap, 地下说唱 Underground Hip Hop, 陷阱说唱 Trap Rap<br> |
+| [![](../../images/musicians/e9054b34ac989825ce6b80346b18dc15.jpg)<br>恶梦Yk](https://i.xiami.com/em) | **地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 流行说唱 Pop Rap, 地下说唱 Underground Hip Hop, 陷阱说唱 Trap Rap<br>**播放数**: 1417981<br>**粉丝数**: 314<br>**评论数**: 19<br> |
 
 ## 档案
 
@@ -28,8 +28,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/814303)<br>龍凶<br>2020-04-30 23:01<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/783451)<br>我还没想好要写什么...<br>2020-01-22 07:40<br>赞(0) 踩(0) | <div>原创歌手在前期推广上可以考虑放出伴奏，便于传唱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314131644)<br>我还没想好要写什么...<br>2019-12-29 12:24<br>赞(0) 踩(0) | <div>单曲循坏</div> |

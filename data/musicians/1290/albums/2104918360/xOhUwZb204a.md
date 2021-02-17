@@ -26,8 +26,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42989225)<br>我还没想好要写什么...<br>2020-09-27 14:10<br>赞(1) 踩(0) | <div>刺客列传</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440258427)<br><br>2020-02-07 20:12<br>赞(3) 踩(0) | <div>我就是一个孤独的人，没有打扰的生活很美。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97143866)<br> <br>2020-01-31 11:16<br>赞(2) 踩(0) | <div>很好，戴了口罩，防疫措施做的好</div> |

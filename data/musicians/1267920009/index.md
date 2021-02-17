@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b3bbca8de1086146b524046d2a717a0d.jpg)<br>陈敏](https://i.xiami.com/chenmin) | **播放数**: 1971780<br>**粉丝数**: 599<br>**评论数**: 38<br>**地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 独立电子乐 Indietronica, 华语唱作人 Chinese Singer-Songwriter, 爵士流行 Jazz Pop, 艺术摇滚 Art Rock<br> |
+| [![](../../images/musicians/b3bbca8de1086146b524046d2a717a0d.jpg)<br>陈敏](https://i.xiami.com/chenmin) | **地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 独立电子乐 Indietronica, 华语唱作人 Chinese Singer-Songwriter, 爵士流行 Jazz Pop, 艺术摇滚 Art Rock<br>**播放数**: 1971780<br>**粉丝数**: 599<br>**评论数**: 38<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2021-01-02 10:25<br>赞(0) 踩(0) | <div>点赞！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117567778)<br><br>2020-09-28 02:13<br>赞(0) 踩(0) | <div>燕子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361831895)<br>做只沉默狗，不在汪汪叫。<br>2020-07-29 18:33<br>赞(0) 踩(0) | <div>好喜欢你 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |

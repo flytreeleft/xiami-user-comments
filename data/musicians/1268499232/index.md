@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4227e8a093b7985f3b04c86bdac66454.jpg)<br>傲日格乐](https://i.xiami.com/aori) | **播放数**: 1978118<br>**粉丝数**: 842<br>**评论数**: 18<br>**地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 世界音乐 World Music, 音乐剧 Musical theatre, 中国民乐 Chinese Folk Music, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/4227e8a093b7985f3b04c86bdac66454.jpg)<br>傲日格乐](https://i.xiami.com/aori) | **地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 世界音乐 World Music, 音乐剧 Musical theatre, 中国民乐 Chinese Folk Music, 国语流行 Mandarin Pop<br>**播放数**: 1978118<br>**粉丝数**: 842<br>**评论数**: 18<br> |
 
 ## 档案
 
@@ -122,8 +122,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14747594)<br>大音希声<br>2020-03-27 21:44<br>赞(1) 踩(0) | <div>翻开2009年末在陕西绥德支教时买的《中国旅游交通地图册》，有几句描写真美:&amp;ldquo;内蒙古自治区版图如一匹奔驰的骏马，又似一只展翅高飞的苍鹰，而这，也正是蒙古族人民民族精神的写照。其湿润气候区是无垠的草原，干旱气候区则是广袤的沙漠，而大大小小的湖泊，则仿佛一颗颗珍珠，镶嵌期间。&amp;rdquo;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14747594)<br>大音希声<br>2020-03-27 20:22<br>赞(1) 踩(0) | <div>好棒的音乐，最近爱上马头琴曲了。给你们点赞。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400715332)<br>留白<br>2020-03-05 00:04<br>赞(0) 踩(0) | <div>——</div> |

@@ -107,5 +107,3 @@ I will remember forever
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

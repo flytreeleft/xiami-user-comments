@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/08b05f0f7eb24f6af37849e057a983d7.jpg)<br>松紧先生](https://i.xiami.com/isonig) | **播放数**: 1504756<br>**粉丝数**: 498<br>**评论数**: 12<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 迷幻流行 Psychedelic Pop<br> |
+| [![](../../images/musicians/08b05f0f7eb24f6af37849e057a983d7.jpg)<br>松紧先生](https://i.xiami.com/isonig) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 迷幻流行 Psychedelic Pop<br>**播放数**: 1504756<br>**粉丝数**: 498<br>**评论数**: 12<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -32,8 +29,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441654725)<br>ʙʟᴀᴄᴋᴘɪɴᴋ Ji...<br>2020-11-11 20:04<br>赞(0) 踩(0) | <div>抓到一个宝藏小哥哥～揪(^-^)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427495716)<br><br>2020-10-13 17:16<br>赞(0) 踩(0) | <div><img src="../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427956490)<br>人生的路很短，一定要珍惜...<br>2020-10-08 18:19<br>赞(0) 踩(0) | <div>好好听 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |

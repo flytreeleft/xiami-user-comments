@@ -27,7 +27,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246739312)<br><br>2019-10-18 22:48<br>赞(1) 踩(0) | <div>小鸡在哪里……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405551540)<br><br>2019-01-06 18:08<br>赞(1) 踩(0) | <div>鸡妈妈找小鸡</div> |

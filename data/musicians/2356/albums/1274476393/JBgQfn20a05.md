@@ -42,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352711009)<br>累了烦了就听首歌<br>2021-01-28 22:28<br>赞(0) 踩(0) | <div>时间不经意间流逝 <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615607)<br> 哪有什么岁月安好，只是...<br>2020-05-13 00:50<br>赞(1) 踩(0) | <div>禁止</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297951316)<br>你不妨大胆一些，爱一个人...<br>2020-05-07 07:45<br>赞(1) 踩(0) | <div>爱你的方式有些傻 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -63,7 +63,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39816876)<br>全世界不缺你一个<br>2018-04-29 08:04<br>赞(3) 踩(0) | <div>我觉得这首歌之所以好听 林暐哲的功劳比较大吧 当然首先得有这个旋律 好吧 大张伟你赢了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46867871)<br>我还没想好要写什么...<br>2018-04-16 00:11<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266639500)<br>阅尽千曲，不忘初心。<br>2018-03-06 23:57<br>赞(1) 踩(0) | <div>不知道大张伟现在对音乐怎么看的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309485987)<br>没有温柔，也没有英勇<br>2018-02-26 19:22<br>赞(2) 踩(0) | <div>少年不识愁滋味，爱上层楼。爱上层楼。为赋新词强说愁。而今识尽愁滋味，欲说还休。欲说还休。却道天凉好个秋。还是支持大老师。杨乃文唱也好听。 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309485987)<br>没有温柔，也没有英勇<br>2018-02-26 19:22<br>赞(2) 踩(0) | <div>少年不识愁滋味，爱上层楼。爱上层楼。为赋新词强说愁。<br>而今识尽愁滋味，欲说还休。欲说还休。却道天凉好个秋。<br>还是支持大老师。杨乃文唱也好听。 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242022847)<br>你当独立且自由。 <br>2018-02-20 11:15<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308294620)<br>我还没想好要写什么...<br>2018-01-05 23:24<br>赞(0) 踩(0) | <div>无限循环。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7225022)<br>听听歌拍拍照.<br>2017-12-12 01:36<br>赞(8) 踩(0) | <div>前一段无意中在b站看了花儿刚出道时候的采访！那时候还在上学！现在反过来看大张伟活成了自己最讨厌的样子！也活成了最真实的自己！最起码他还在做音乐！做自己想做的东西！他能赚钱养活自己的爱好！虽然赚钱的手段可能俗套了点！这么多年大张伟一直在自己的音乐里融入传统文化！可是没人理解！我记得他说过有些东西必然会被淘汰！但是他还是想尽量用自己的方式去挽救一下！我觉得他的那种接地气的融入比那些随意搞几句京剧唱腔在歌里的曲子从本质上是有区别的！加油吧！</div> |

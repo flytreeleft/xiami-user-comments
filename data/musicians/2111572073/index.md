@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>赵德柱](https://i.xiami.com/lwbjdwx) | **播放数**: 402234<br>**粉丝数**: 8<br>**评论数**: 1<br>**地区**: China 中国大陆<br>**风格**: 前卫浩室 Progressive House<br> |
+| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>赵德柱](https://i.xiami.com/lwbjdwx) | **地区**: China 中国大陆<br>**风格**: 前卫浩室 Progressive House<br>**播放数**: 402234<br>**粉丝数**: 8<br>**评论数**: 1<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,6 +18,6 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327538602)<br>Miracles hap...<br>2019-06-01 19:54<br>赞(0) 踩(0) | <div>超酷， <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |

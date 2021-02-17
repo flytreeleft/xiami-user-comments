@@ -56,10 +56,10 @@ ISRC: TWA451402131
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342610857)<br><br>2020-09-18 20:32<br>赞(1) 踩(0) | <div>居然植发了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/130111554)<br>音乐是心灵的呼唤<br>2020-09-10 20:40<br>赞(0) 踩(0) | <div>你知不知道 总是想起你在那段日子 我很感激让我歌颂未来  让我记住过去这辈子是兄弟下辈子还是兄弟&amp;hellip;&amp;hellip;  &amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/130111554)<br>音乐是心灵的呼唤<br>2020-09-10 20:40<br>赞(0) 踩(0) | <div>你知不知道 总是想起你<br>在那段日子 我很感激<br>让我歌颂未来  让我记住过去<br>这辈子是兄弟下辈子还是兄弟<br>&amp;hellip;&amp;hellip;  &amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257027824)<br><br>2019-09-22 10:15<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16219027)<br>闻声拾音，乐此不疲<br>2019-06-23 02:13<br>赞(0) 踩(0) | <div>(ง •̀_•́)ง乀(ˉεˉ乀)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225434018)<br>我还没想好要写什么...<br>2018-12-14 18:49<br>赞(0) 踩(0) | <div>下辈子当马给你骑</div> |
@@ -77,7 +77,7 @@ ISRC: TWA451402131
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198496496)<br><br>2017-12-28 00:08<br>赞(0) 踩(0) | <div>之后就是真guts</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339982182)<br><br>2017-12-24 16:18<br>赞(1) 踩(0) | <div>經典阿經典阿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184319022)<br> <br>2017-12-24 15:32<br>赞(0) 踩(0) | <div>姐妹本色</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5954233)<br>身体健康!<br>2017-12-18 19:57<br>赞(51) 踩(0) | <div>"那些夸下海口不负责的话现在想起来总是无知又傻Yeah Yeah Yeah年少总是很夸张" ---阿嶽是我认为这二十年为数不多的还未江郎才尽的男歌手，嚣张而又谦卑~又想起来去年因病没去成阿嶽演唱会的事了T_T</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5954233)<br>身体健康!<br>2017-12-18 19:57<br>赞(51) 踩(0) | <div>"那些夸下海口不负责的话<br>现在想起来总是无知又傻<br>Yeah Yeah Yeah<br>年少总是很夸张" ---阿嶽是我认为这二十年为数不多的还未江郎才尽的男歌手，嚣张而又谦卑~又想起来去年因病没去成阿嶽演唱会的事了T_T</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359635504)<br><br>2018-07-18 19:02<br>赞(0) 踩(0) | <div>的嘛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97820614)<br><br>2017-12-03 00:10<br>赞(2) 踩(0) | <div>难道这就是兄弟本色的来历？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259117931)<br><br>2017-11-26 21:26<br>赞(3) 踩(0) | <div>我4周岁的儿子最喜欢跟我着哼这首歌，现在他也喜欢上阿岳了</div> |
@@ -159,7 +159,7 @@ ISRC: TWA451402131
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9045951)<br>Electronic M...<br>2014-02-25 11:19<br>赞(0) 踩(0) | <div>氵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8895720)<br><br>2014-02-24 23:50<br>赞(0) 踩(0) | <div>深圳艳阳天的时候最还有这首！！！yeah～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11447006)<br><br>2014-02-24 22:25<br>赞(0) 踩(0) | <div>yeah~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9374898)<br><br>2014-02-24 19:52<br>赞(1) 踩(0) | <div>「兄弟间废话什么？挺就对了！」以轻快摇滚曲风带出兄弟间的青春日记，回忆共同创造的疯狂事迹，歌曲中提及男孩间不赘述的情感，真实说出「总是想起你，那段日子我很感激」。最后期许未来的道路，记住过去的回忆，除了这辈子是兄弟，下辈子还要继续当兄弟当马给你骑。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9374898)<br><br>2014-02-24 19:52<br>赞(1) 踩(0) | <div>「兄弟间废话什么？挺就对了！」<br><br><br>以轻快摇滚曲风带出兄弟间的青春日记，回忆共同创造的疯狂事迹，歌曲中提及男孩间不赘述的情感，真实说出「总是想起你，那段日子我很感激」。最后期许未来的道路，记住过去的回忆，除了这辈子是兄弟，下辈子还要继续当兄弟当马给你骑。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28134176)<br><br>2014-02-24 11:03<br>赞(0) 踩(0) | <div>最爱阿岳～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/519140)<br>去你该去的地方：<br>2014-02-24 10:49<br>赞(0) 踩(0) | <div>歌词哈哈哈哈哈你为什么这么屌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9073101)<br> <br>2014-02-24 10:42<br>赞(0) 踩(0) | <div>~~~~~~~~~~~</div> |

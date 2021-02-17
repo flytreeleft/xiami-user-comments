@@ -70,8 +70,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412928133)<br>我还没想好要写什么...<br>2020-08-13 05:55<br>赞(1) 踩(0) | <div>永远喜欢郁冬，老狼的声音很温暖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43492923)<br>行到水穷我才开始害怕，夕...<br>2020-07-25 19:43<br>赞(0) 踩(0) | <div>-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49690702)<br><br>2020-07-12 17:29<br>赞(1) 踩(0) | <div>我觉得这个编曲很棒啊</div> |
@@ -101,9 +101,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49027618)<br>我有喜欢你的原因。<br>2018-04-27 21:13<br>赞(0) 踩(0) | <div>那百分之百的女孩，正走在茫茫的人海。你千万别再发呆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33454491)<br> <br>2018-04-07 11:12<br>赞(3) 踩(0) | <div>这个东北话是不是：纯娘们？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/783320)<br> <br>2018-04-01 23:51<br>赞(17) 踩(0) | <div>每年四月都必须听这首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/581075)<br>永远微笑<br>2018-03-30 15:52<br>赞(1) 踩(0) | <div>三月的最后一个工作日阴雨绵绵</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/581075)<br>永远微笑<br>2018-03-30 15:52<br>赞(1) 踩(0) | <div>三月的最后一个工作日<br>阴雨绵绵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327583160)<br> <br>2018-03-29 00:50<br>赞(3) 踩(0) | <div>当太阳占据了天空 / 当生命不停地汹涌 / 等到我灿烂的笑容 / 等到你不会再后悔 / 当热情冲破了沉睡 / 等到我跳出了包围 / 有一本书告诉我 / 四月的下午不要错过 / 让我们开始一段 / 新鲜而刺激的生活 / 那百分之百的女孩 / 正走在茫茫的人海 / 我等待着你在一个人发呆 ​​​</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322090567)<br><br>2018-03-10 10:55<br>赞(3) 踩(0) | <div>有一本书告诉我四月的下午不要错过让我们开始一段新鲜而刺激的生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322090567)<br><br>2018-03-10 10:55<br>赞(3) 踩(0) | <div>有一本书告诉我<br>四月的下午不要错过<br>让我们开始一段新鲜而刺激的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17463872)<br>白天有月光 晚上有太阳<br>2018-03-04 00:04<br>赞(4) 踩(0) | <div>我们可以找地方吃午饭 看伍迪艾伦的影片 再顺路到宾馆里的酒吧喝鸡尾酒什么的 弄得好 喝完后说不定能同她睡一觉</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50383241)<br> <br>2018-03-04 08:08<br>赞(0) 踩(0) | <div>你好！你对我可是百分之百的女孩哟！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17463872)<br>白天有月光 晚上有太阳<br>2018-03-04 10:43<br>赞(0) 踩(0) | <div><q><b>我想吃掉你说：</b></q></div> |
@@ -135,8 +135,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3977340)<br>LSD<br>2015-04-09 23:11<br>赞(0) 踩(0) | <div>古耐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45541069)<br> <br>2015-04-04 12:49<br>赞(0) 踩(0) | <div>四月的下午，一个人发呆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2428183)<br><br>2015-04-02 21:13<br>赞(0) 踩(0) | <div>想回到百无聊赖的四月下午</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1984555)<br>音乐是养分<br>2015-04-02 11:27<br>赞(1) 踩(0) | <div>有一本书告诉我四月的下午不要错过让我们开始一段新鲜而刺激的生活</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1984555)<br>音乐是养分<br>2015-04-02 11:18<br>赞(0) 踩(0) | <div>有一本书告诉我四月的下午不要错过让我们开始一段新鲜而刺激的生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1984555)<br>音乐是养分<br>2015-04-02 11:27<br>赞(1) 踩(0) | <div>有一本书告诉我<br>四月的下午不要错过<br>让我们开始一段新鲜而刺激的生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1984555)<br>音乐是养分<br>2015-04-02 11:18<br>赞(0) 踩(0) | <div>有一本书告诉我<br>四月的下午不要错过<br>让我们开始一段新鲜而刺激的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48506165)<br> <br>2015-04-02 07:54<br>赞(1) 踩(0) | <div>每年四月的必听曲目。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1280188)<br>赚钱养梦，音乐不死。<br>2015-04-02 02:30<br>赞(0) 踩(0) | <div>有一本书告诉我，四月的下午不要错过。让我们开始一段，新鲜而刺激的生活……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8764856)<br>爸爸,我恐怕不会有爱情了<br>2015-04-02 00:06<br>赞(0) 踩(0) | <div></div> |
@@ -149,7 +149,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3436523)<br><br>2015-04-01 06:33<br>赞(0) 踩(0) | <div>四月的下午不要错过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12274722)<br>暂无签名~<br>2015-03-21 22:52<br>赞(2) 踩(0) | <div>“你不觉得这是个令人感伤的故事吗？”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10336015)<br>真言者将死，真言者永生。<br>2015-03-09 20:52<br>赞(0) 踩(0) | <div>你到底想说什么呢？不要让我猜。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11286938)<br>慢慢回消息留言,不好意思<br>2015-01-27 08:22<br>赞(0) 踩(0) | <div>当生命不停地汹涌等到我灿烂的笑容等到你不会再后悔当热情冲破了沉睡等到我跳出了包围让我们开始一段新鲜而刺激的生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11286938)<br>慢慢回消息留言,不好意思<br>2015-01-27 08:22<br>赞(0) 踩(0) | <div>当生命不停地汹涌<br>等到我灿烂的笑容<br>等到你不会再后悔<br>当热情冲破了沉睡<br>等到我跳出了包围<br>让我们开始一段新鲜而刺激的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42263789)<br>。<br>2015-01-25 23:23<br>赞(1) 踩(0) | <div>又是郁冬。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2375136)<br>暂无签名~<br>2014-11-06 16:47<br>赞(0) 踩(0) | <div>为什么我听到了陈奕迅的感觉…连编曲都很…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5876927)<br> <br>2014-11-02 15:03<br>赞(0) 踩(0) | <div>这不村上春树嘛</div> |
@@ -158,13 +158,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12552288)<br><br>2014-07-05 11:20<br>赞(0) 踩(0) | <div>#葱葱挑刺#怪事了！我此刻在用@虾米音乐 播放离线音乐包时，始终播放这同一首歌，切换下一首歌也还是播放这首歌。注：我手机在WiFi环境中。@稻草 觉得这bug会是什么情况？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1712095)<br>永夜月同孤<br>2014-06-24 18:53<br>赞(0) 踩(0) | <div>民谣搞了个摇滚的开头。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443932)<br>暂无签名~<br>2014-06-22 21:54<br>赞(1) 踩(0) | <div>一听就是李延亮的编曲风格</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1295160)<br>英伦、旋死、力量、交响。...<br>2014-06-03 21:38<br>赞(0) 踩(0) | <div>百分之百的女孩/正走在茫茫的人海/我等待着你/在一个人发呆.......................草莓女孩，你在哪里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1295160)<br>英伦、旋死、力量、交响。...<br>2014-06-03 21:38<br>赞(0) 踩(0) | <div>百分之百的女孩/正走在茫茫的人海/我等待着你/在一个人发呆.......................<br>草莓女孩，你在哪里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36601752)<br><br>2014-05-14 19:23<br>赞(0) 踩(0) | <div>百分百女孩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16036969)<br><br>2014-04-23 19:29<br>赞(0) 踩(0) | <div>...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35337617)<br><br>2014-04-15 15:00<br>赞(0) 踩(0) | <div>有一本书告诉我，四月的下午不要错过～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1315393)<br><br>2014-04-11 08:21<br>赞(0) 踩(0) | <div>早安，又下雨。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3841439)<br><br>2014-04-10 16:38<br>赞(0) 踩(0) | <div>非常适合四月百无聊赖的午后听:那百分之百的女孩/正走在茫茫的人海/我等待着你/在一个人发呆。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6994473)<br>我还没想好要写什么...<br>2014-04-10 08:47<br>赞(0) 踩(0) | <div>有一本书告诉我四月的下午不要错过让我们开始一段新鲜而刺激的生活那百分之百的女孩正走在茫茫的人海我等待着你在一个人发呆</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6994473)<br>我还没想好要写什么...<br>2014-04-10 08:47<br>赞(0) 踩(0) | <div>有一本书告诉我<br>四月的下午不要错过<br>让我们开始一段新鲜而刺激的生活<br><br>那百分之百的女孩<br>正走在茫茫的人海<br>我等待着你在一个人发呆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4771063)<br>你是我所有的回忆<br>2014-04-08 19:54<br>赞(0) 踩(0) | <div>#四月#……有一本书告诉我，四月的下午不要错过，让我们开始一段，新鲜而刺激的生活。那百分之百的女孩，正走在茫茫的人海，我等待着你在一个人发呆……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2057183)<br> <br>2014-04-02 19:01<br>赞(1) 踩(0) | <div>“有一本书告诉我，四月的下午不要错过。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11390974)<br><br>2014-04-01 08:17<br>赞(1) 踩(0) | <div>大通铺~卡带机~绕世界的借电池，实在借不着，咬几下还能撑三五首歌~~放本什么文化苦旅在枕头下面装样子，其实从来就是看不过两页就睡着了~~还是金庸带劲~~~十年前的记忆了，好像比昨天的还清楚些~~又是一个四月~~~~</div> |
@@ -172,9 +172,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1163576)<br><br>2014-02-22 12:04<br>赞(1) 踩(0) | <div>哪本书告诉你的撒~四月的下午不要错过~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2014-01-19 09:47<br>赞(0) 踩(0) | <div>似说话是歌唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6896984)<br><br>2013-12-29 22:25<br>赞(0) 踩(0) | <div>@老狼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-11-21 05:16<br>赞(0) 踩(0) | <div>那百分之百的女孩正走在茫茫的人海我等待着你在一个人发呆</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-11-21 05:16<br>赞(0) 踩(0) | <div>那百分之百的女孩<br>正走在茫茫的人海<br>我等待着你在一个人发呆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2057183)<br> <br>2013-10-13 17:31<br>赞(1) 踩(0) | <div>“我等待着你，在一个人发呆”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-06-19 04:34<br>赞(0) 踩(0) | <div>有一本书告诉我四月的下午不要错过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-06-19 04:34<br>赞(0) 踩(0) | <div>有一本书告诉我<br>四月的下午不要错过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9792273)<br><br>2013-05-16 12:51<br>赞(0) 踩(0) | <div>听着这样的旋律，感叹我们流逝的青春···#致青春#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12301166)<br><br>2013-05-12 13:11<br>赞(0) 踩(0) | <div>“那百分之百的女孩，正走在茫茫的人海，我等待着你，在一个人发呆。”老狼的歌，四月听到五月，就是这样好了嘛。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3320173)<br><br>2013-05-04 23:02<br>赞(0) 踩(0) | <div>百分之百女孩跟大家say hi!!!!!!!!</div> |
@@ -188,7 +188,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12678239)<br>杂家<br>2013-04-17 23:13<br>赞(0) 踩(0) | <div>送给还没睡的各位女孩一首歌，晚安各位。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7412920)<br> <br>2013-04-01 00:01<br>赞(0) 踩(0) | <div>有本书告诉我 四月的下午不要错过 让我们开始一段新鲜而刺激的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8226857)<br><br>2013-03-30 00:11<br>赞(0) 踩(0) | <div>四月快到了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13649030)<br><br>2013-03-23 20:52<br>赞(0) 踩(0) | <div>有一本书告诉我四月的下午不要错过让我们开始一段新鲜而刺激的生活 《百分之百的女孩》很久没听感觉依旧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13649030)<br><br>2013-03-23 20:52<br>赞(0) 踩(0) | <div>有一本书告诉我<br>四月的下午不要错过<br>让我们开始一段<br>新鲜而刺激的生活 《百分之百的女孩》很久没听感觉依旧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2406739)<br><br>2013-03-03 20:03<br>赞(0) 踩(0) | <div>每到冬天飘雪花就想起《北京的冬天》，每到四月明媚的天就想起“四月的下午不要错过，让我们开始一段新鲜而刺激的生活”。狼师傅啊狼师傅。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8977211)<br>暂无签名~<br>2013-01-24 20:08<br>赞(0) 踩(0) | <div>听听这年轻时的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5524704)<br><br>2012-12-16 23:29<br>赞(0) 踩(0) | <div>@没方案的小海燕@后驱小钢炮@牛奶瓶的夏天@于小米_OvO誉酱快到碗里来@金多虾_XX  晚安噻~~~还一锅月回家</div> |
@@ -221,14 +221,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1829604)<br><br>2011-03-29 20:35<br>赞(0) 踩(0) | <div>四月的下午不要错过～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1844570)<br><br>2011-01-29 15:36<br>赞(0) 踩(0) | <div>我在一个人发呆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2011-01-18 14:21<br>赞(0) 踩(0) | <div>动感十足。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231480)<br><br>2010-08-27 16:45<br>赞(0) 踩(0) | <div>词曲/制作人：郁冬编曲/吉它：李延亮当太阳占据了天空当生命不停地汹涌等到我灿烂的笑容等到你不会再后悔当热情冲破了沉睡等到我跳出了包围有一本书告诉我四月的下午不要错过让我们开始一段新鲜而刺激的生活那百分之百的女孩正走在茫茫的人海我等待着你在一个人发呆当太阳占据了天空当生命不停地汹涌等到我灿烂的笑容等到你不会再后悔当热情冲破了沉睡等到我跳出了包围有一本书告诉我四月的下午不要错过让我们开始一段新鲜而刺激的生活那百分之百的女孩正走在茫茫的人海我等待着你在一个人发呆有一本书告诉我四月的下午不要错过让我们开始一段新鲜而刺激的生活那百分之百的女孩正走在茫茫的人海我等待着你在一个人发呆有一本书告诉我四月的下午不要错过让我们开始一段新鲜而刺激的生活那百分之百的女孩正走在茫茫的人海我等待着你在一个人发呆</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231480)<br><br>2010-08-27 16:45<br>赞(0) 踩(0) | <div>词曲/制作人：郁冬<br>编曲/吉它：李延亮<br><br>当太阳占据了天空<br>当生命不停地汹涌<br>等到我灿烂的笑容<br><br>等到你不会再后悔<br>当热情冲破了沉睡<br>等到我跳出了包围<br><br>有一本书告诉我<br>四月的下午不要错过<br>让我们开始一段新鲜而刺激的生活<br><br>那百分之百的女孩<br>正走在茫茫的人海<br>我等待着你在一个人发呆<br><br>当太阳占据了天空<br>当生命不停地汹涌<br>等到我灿烂的笑容<br><br>等到你不会再后悔<br>当热情冲破了沉睡<br>等到我跳出了包围<br><br>有一本书告诉我<br>四月的下午不要错过<br>让我们开始一段新鲜而刺激的生活<br><br>那百分之百的女孩<br>正走在茫茫的人海<br>我等待着你在一个人发呆<br><br>有一本书告诉我<br>四月的下午不要错过<br>让我们开始一段新鲜而刺激的生活<br><br>那百分之百的女孩<br>正走在茫茫的人海<br>我等待着你在一个人发呆<br><br>有一本书告诉我<br>四月的下午不要错过<br>让我们开始一段新鲜而刺激的生活<br><br>那百分之百的女孩<br>正走在茫茫的人海<br>我等待着你在一个人发呆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1035356)<br><br>2010-08-26 16:55<br>赞(0) 踩(0) | <div>青春浪漫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175713)<br><br>2010-05-04 22:36<br>赞(0) 踩(0) | <div>好听。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2010-04-23 14:29<br>赞(0) 踩(0) | <div>选自老狼《晴朗》一转眼，已经好几年都过去了，不知道老狼还会不会有下一张。整体来讲，这张还算过得去，不过没有太经典的歌曲。“晴朗”是许巍的作品，还是挺不错的，尤其是编曲，估计在许巍的新专集里会回收这首歌。还有几首是郁冬的作品，当然也少不了高晓松，还是那些人在支撑着老狼。应该说，他的声音还是很有特点的，不知道还能不能有突破，搞出些更好的作品来。如果总停留在校园民谣，靠几个老人撑门面，想长青也难。不过话说回来，有那几首经典，也就足够了，有多少歌手可以如此呢？不知道老狼现在属于哪家公司，希望这张不是最后的一张。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2010-04-23 14:29<br>赞(0) 踩(0) | <div>选自老狼《晴朗》<br>一转眼，已经好几年都过去了，不知道老狼还会不会有下一张。<br><br>整体来讲，这张还算过得去，不过没有太经典的歌曲。“晴朗”是许巍的作品，还是挺不错的，尤其是编曲，估计在许巍的新专集里会回收这首歌。还有几首是郁冬的作品，当然也少不了高晓松，还是那些人在支撑着老狼。应该说，他的声音还是很有特点的，不知道还能不能有突破，搞出些更好的作品来。如果总停留在校园民谣，靠几个老人撑门面，想长青也难。不过话说回来，有那几首经典，也就足够了，有多少歌手可以如此呢？<br><br>不知道老狼现在属于哪家公司，希望这张不是最后的一张。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/705705)<br><br>2010-03-26 12:10<br>赞(0) 踩(0) | <div>像一股清风，吹来了你的初恋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/625337)<br><br>2010-01-25 12:35<br>赞(0) 踩(0) | <div>太一般</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24430)<br><br>2009-12-03 10:50<br>赞(0) 踩(0) | <div>百分之百，呵呵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2009-10-16 22:52<br>赞(0) 踩(0) | <div>有一本书告诉我，四月的下午不要错过。因为这句话，一直特别向往四月。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2009-10-16 22:52<br>赞(0) 踩(0) | <div>有一本书告诉我，四月的下午不要错过。<br>因为这句话，一直特别向往四月。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-09-28 21:19<br>赞(0) 踩(0) | <div>四月的下午。。。不要错过。。。我也一直在找我的百分之百女孩儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3809)<br>心欢喜。<br>2009-04-03 01:06<br>赞(0) 踩(0) | <div>四月的下午不要错过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25)<br>如有光，就去寻找光。<br>2009-02-10 10:39<br>赞(1) 踩(0) | <div>有一本书告诉我，四月的下午不要错过，让我们开始一段新鲜刺激的生活</div> |

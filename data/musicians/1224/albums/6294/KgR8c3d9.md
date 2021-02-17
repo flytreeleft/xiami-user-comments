@@ -79,8 +79,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44268207)<br>心如野马，身似磐石，扁舟...<br>2019-03-04 14:29<br>赞(0) 踩(0) | <div>这首歌在手机里快有七年了吧，起初是听王若琳，后来还是被赵鹏的低音俘获，最近又被王晰唱火，其实真的不愿意它火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351940577)<br><br>2018-09-09 12:05<br>赞(1) 踩(0) | <div>等待着你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41828526)<br>海量歌无版权做歌单无意义<br>2018-05-05 19:00<br>赞(0) 踩(0) | <div>这版也还是可以的</div> |
@@ -137,7 +137,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4027633)<br>日常。<br>2013-07-22 21:10<br>赞(0) 踩(0) | <div>声音迷死人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8739358)<br><br>2013-07-09 23:19<br>赞(0) 踩(0) | <div>一首好歌.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16025891)<br><br>2013-07-05 19:05<br>赞(0) 踩(0) | <div>还是喜欢这个</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16416125)<br><br>2013-06-26 20:49<br>赞(0) 踩(0) | <div>每一个字都写进心坎里了低音真好听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16416125)<br><br>2013-06-26 20:49<br>赞(0) 踩(0) | <div>每一个字都写进心坎里了<br>低音真好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6091059)<br><br>2013-06-24 21:30<br>赞(0) 踩(0) | <div>waiting for you......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3073999)<br><br>2013-06-15 23:46<br>赞(0) 踩(0) | <div>姑娘，真的很心疼你！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9961852)<br><br>2013-06-11 21:50<br>赞(0) 踩(0) | <div>大爱这首翻唱 love love ~</div> |
@@ -175,7 +175,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5130164)<br>我站在废墟上，开口说话。<br>2012-07-08 10:10<br>赞(0) 踩(0) | <div>你知道，这一生我只为你守候。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7336516)<br><br>2012-06-18 21:58<br>赞(0) 踩(0) | <div>我一直在守候，直到你出现……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6592768)<br><br>2012-06-10 21:09<br>赞(0) 踩(0) | <div>[失望]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1098118)<br><br>2012-03-25 23:27<br>赞(0) 踩(0) | <div>你知道这一生，我只为你执著，管别人心怎么想，眼怎么看，话怎么说你知道这一生，我只为你守候，我对你情那么深，意那么浓，爱那么多幸福须自己守候，接受祝福，抵挡破坏，自己守护。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1098118)<br><br>2012-03-25 23:27<br>赞(0) 踩(0) | <div>你知道这一生，我只为你执著，管别人心怎么想，眼怎么看，话怎么说<br>你知道这一生，我只为你守候，我对你情那么深，意那么浓，爱那么多<br><br>幸福须自己守候，接受祝福，抵挡破坏，自己守护。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/526610)<br><br>2012-03-18 12:34<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88104)<br>白马已被骑成黑骡<br>2012-03-06 03:05<br>赞(0) 踩(0) | <div>回首向来萧瑟处，归去，也无风雨也无晴。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212162)<br>我有天堂在我的心。<br>2012-01-19 22:57<br>赞(0) 踩(0) | <div>等待着你，等待你慢慢地靠近我。</div> |
@@ -188,7 +188,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5657290)<br><br>2011-09-29 00:29<br>赞(0) 踩(0) | <div>陪着我入眠！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5657290)<br><br>2011-09-25 18:54<br>赞(0) 踩(0) | <div>只为你...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3399089)<br><br>2011-07-03 23:26<br>赞(0) 踩(0) | <div>管别人心怎么想眼怎么看话怎么说</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4485092)<br><br>2011-07-03 21:56<br>赞(1) 踩(0) | <div>赵鹏的嗓音不是一般的有忒点,这首歌简直太适合他了.注意收听方式, 必须是晚间10点后听,最好是过 12点 呵呵用好耳机是必须的.音量不要开得太大,否则杂音会影响效果强力推存</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4485092)<br><br>2011-07-03 21:56<br>赞(1) 踩(0) | <div>赵鹏的嗓音不是一般的有忒点,这首歌简直太适合他了.<br>注意收听方式, 必须是晚间10点后听,最好是过 12点 呵呵<br>用好耳机是必须的.音量不要开得太大,否则杂音会影响效果<br>强力推存</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1915171)<br><br>2011-08-18 15:13<br>赞(0) 踩(0) | <div>说滴满在点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/480505)<br><br>2011-02-25 16:09<br>赞(0) 踩(0) | <div>你是否也正等待?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/513403)<br><br>2009-12-08 00:33<br>赞(0) 踩(0) | <div>你知道这一生，我只为你执着。</div> |

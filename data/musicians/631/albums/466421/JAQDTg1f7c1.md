@@ -65,8 +65,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103800686)<br>我还没想好要写什么...<br>2020-10-12 08:34<br>赞(0) 踩(0) | <div>感激沿路有你啊林一峰 <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22217688)<br>未許天色常藍  但恩典夠...<br>2020-03-12 14:53<br>赞(0) 踩(0) | <div>仍爱犯错 因为是对的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34874433)<br>oh my love<br>2018-03-17 13:25<br>赞(3) 踩(0) | <div>宁愿有过错不要错过</div> |
@@ -100,19 +100,19 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/726513)<br>广东歌never die<br>2014-10-24 11:06<br>赞(0) 踩(0) | <div>一峰的声音总是那么舒服</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11993634)<br>给自己的情书<br>2014-06-19 07:45<br>赞(1) 踩(0) | <div>宁愿有过错，也不想错过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13404111)<br>人可生如蚁而美如神<br>2014-03-27 21:56<br>赞(0) 踩(0) | <div>歌词略矫情</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1671793)<br><br>2014-01-23 18:01<br>赞(0) 踩(0) | <div>來用每滴汗 甚至幾串淚 灌溉長出了什麼我寧願有過錯 也不想錯過明白這任性態度 是你的厚待 讓我可以繼續錯感激沿路有你 真的很不錯</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1671793)<br><br>2014-01-23 18:01<br>赞(0) 踩(0) | <div>來用每滴汗 甚至幾串淚 灌溉長出了什麼<br>我寧願有過錯 也不想錯過<br>明白這任性態度 是你的厚待 讓我可以繼續錯<br>感激沿路有你 真的很不錯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4907829)<br>偶尔上天赐我 完全独处<br>2013-03-29 09:36<br>赞(0) 踩(0) | <div>常会犯错，看到更多，就算是对的种种，也曾经考到我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9859541)<br>要尽听摄人的歌<br>2013-03-16 19:52<br>赞(0) 踩(0) | <div>silly......</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9859541)<br>要尽听摄人的歌<br>2013-02-16 13:29<br>赞(0) 踩(0) | <div>對的時間 錯的人對的人 錯的決心 對的決心 錯的名份 對的心情 錯的方向 對的方向 錯的執著 錯的這一切 卻對得起我 常會犯錯 看到更多 就算是對的種種 也曾經考到我 誰人沒有好奇 受各種試鍊 錯了改過怕什麼 我寧願有過錯 也不想錯過</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9859541)<br>要尽听摄人的歌<br>2013-02-16 13:29<br>赞(0) 踩(0) | <div>對的時間 錯的人<br>對的人 錯的決心 對的決心 錯的名份 對的心情 錯的方向 對的方向 錯的執著 錯的這一切 卻對得起我 常會犯錯 看到更多 就算是對的種種 也曾經考到我 誰人沒有好奇 受各種試鍊 錯了改過怕什麼 我寧願有過錯 也不想錯過</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6026553)<br><br>2012-11-10 00:49<br>赞(0) 踩(0) | <div>我宁愿有过错也不想错过。  晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8054968)<br>妄想走近 因此生出了遗憾<br>2012-10-03 23:18<br>赞(0) 踩(0) | <div>宁愿过错不要错过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/483456)<br><br>2012-09-11 16:54<br>赞(0) 踩(0) | <div>“我寧願有過錯，也不想錯過。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5995702)<br><br>2012-06-16 23:14<br>赞(0) 踩(0) | <div>“我宁愿有过错，也不想错过”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3212678)<br> <br>2012-06-13 08:37<br>赞(0) 踩(0) | <div>很喜欢这首歌的词。每个人都犯错，每种结果，灌溉长出了什麽。宁愿有过错，也不想错过。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4309223)<br><br>2012-05-18 21:24<br>赞(0) 踩(0) | <div>對的時間 錯的人對的人 錯的決心對的決心 錯的名份對的心情 錯的方向對的方向 錯的執著錯的這一切卻對得起我對的情緒 錯的情對的情 錯的氣氛對的氣氛 錯的場地對的功名 錯的方法對的方法 錯的感受錯過很几次現在我都不錯我宁愿有过错也不想错过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4309223)<br><br>2012-05-18 21:24<br>赞(0) 踩(0) | <div>對的時間 錯的人<br>對的人 錯的決心<br>對的決心 錯的名份<br>對的心情 錯的方向<br>對的方向 錯的執著<br>錯的這一切<br>卻對得起我<br>對的情緒 錯的情<br>對的情 錯的氣氛<br>對的氣氛 錯的場地<br>對的功名 錯的方法<br>對的方法 錯的感受<br>錯過很几次<br>現在我都不錯<br>我宁愿有过错也不想错过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5995702)<br><br>2012-04-23 21:30<br>赞(0) 踩(0) | <div>错的这一切，却对得起我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7180138)<br><br>2012-03-26 21:47<br>赞(0) 踩(0) | <div>即使明日有雨,也有树荫可躲.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4783281)<br>It's feel so...<br>2012-03-03 17:42<br>赞(0) 踩(0) | <div>對的時間 錯的人對的人 錯的決心對的決心 錯的名份對的心情 錯的方向對的方向 錯的執著錯的這一切卻對得起我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4783281)<br>It's feel so...<br>2012-03-03 17:42<br>赞(0) 踩(0) | <div>對的時間 錯的人<br>對的人 錯的決心<br>對的決心 錯的名份<br>對的心情 錯的方向<br>對的方向 錯的執著<br>錯的這一切<br>卻對得起我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5990829)<br><br>2012-02-28 20:55<br>赞(0) 踩(0) | <div>我寧願有過錯    也不想錯過</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3900055)<br><br>2012-02-10 12:05<br>赞(0) 踩(0) | <div>宁愿有过错，也不想错过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/899643)<br>引力<br>2012-02-02 14:55<br>赞(0) 踩(0) | <div>没有喜欢林一峰的么</div> |
@@ -137,8 +137,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1371648)<br><br>2011-10-05 05:26<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1363334)<br>若風吹來 夜涼如水<br>2011-09-30 15:31<br>赞(0) 踩(0) | <div>越來越愛林一峰的聲音了, 聽著感覺極致的靜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208618)<br> <br>2011-09-29 17:45<br>赞(0) 踩(0) | <div>對的時間 錯的人 / 對的人 錯的決心 / 對的決心 錯的名份 / 對的心情 錯的方向 / 對的方向 錯的執著 / 錯的這一切 卻對得起我 / 常會犯錯 看到更多 / 就算是對的種種 / 也曾經考到 / 誰人沒有好奇 受各種試鍊 / 錯了改過怕什麼 / 我寧願有過錯 也不想錯過</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208618)<br> <br>2011-09-29 17:40<br>赞(0) 踩(0) | <div>對的時間　錯的人對的人　錯的決心對的決心　錯的名份對的心情　錯的方向對的方向　錯的執著錯的這一切　卻對得起我常會犯錯　看到更多就算是對的種種　也曾經考到我誰人沒有好奇　受各種試鍊錯了改過怕什麼我寧願有過錯　也不想錯過</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208618)<br> <br>2011-09-29 17:39<br>赞(0) 踩(0) | <div>對的時間　錯的人對的人　錯的決心對的決心　錯的名份對的心情　錯的方向對的方向　錯的執著錯的這一切　卻對得起我常會犯錯　看到更多就算是對的種種　也曾經考到我誰人沒有好奇　受各種試鍊錯了改過怕什麼我寧願有過錯　也不想錯過</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208618)<br> <br>2011-09-29 17:40<br>赞(0) 踩(0) | <div>對的時間　錯的人<br>對的人　錯的決心<br>對的決心　錯的名份<br>對的心情　錯的方向<br>對的方向　錯的執著<br>錯的這一切　卻對得起我<br><br>常會犯錯　看到更多<br>就算是對的種種　也曾經考到我<br>誰人沒有好奇　受各種試鍊<br>錯了改過怕什麼<br>我寧願有過錯　也不想錯過</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208618)<br> <br>2011-09-29 17:39<br>赞(0) 踩(0) | <div>對的時間　錯的人<br>對的人　錯的決心<br>對的決心　錯的名份<br>對的心情　錯的方向<br>對的方向　錯的執著<br>錯的這一切　卻對得起我<br><br>常會犯錯　看到更多<br>就算是對的種種　也曾經考到我<br>誰人沒有好奇　受各種試鍊<br>錯了改過怕什麼<br>我寧願有過錯　也不想錯過</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/942248)<br><br>2011-09-27 17:02<br>赞(0) 踩(0) | <div>好吧，我承认我是第一次认真听林一峰。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1728826)<br><br>2011-09-25 13:12<br>赞(0) 踩(0) | <div>好干净</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1313159)<br><br>2011-09-25 10:14<br>赞(0) 踩(0) | <div>对对错错</div> |
@@ -157,15 +157,15 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5897336)<br>暂无签名~<br>2011-09-20 12:14<br>赞(0) 踩(0) | <div>简单的音乐，深刻的歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1514960)<br><br>2011-09-20 02:39<br>赞(0) 踩(0) | <div>是夜，晚安音樂::</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2363832)<br><br>2011-09-19 23:53<br>赞(0) 踩(0) | <div>好听，听完睡觉~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/994917)<br><br>2011-09-19 22:37<br>赞(0) 踩(0) | <div>明白這任性態度是你的厚待讓我可以繼續錯感激沿路有你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/994917)<br><br>2011-09-19 22:35<br>赞(0) 踩(0) | <div>明白這任性態度是你的厚待讓我可以繼續錯感激沿路有你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/994917)<br><br>2011-09-19 22:37<br>赞(0) 踩(0) | <div>明白這任性態度<br>是你的厚待<br>讓我可以繼續錯<br>感激沿路有你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/994917)<br><br>2011-09-19 22:35<br>赞(0) 踩(0) | <div>明白這任性態度<br>是你的厚待<br>讓我可以繼續錯<br>感激沿路有你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11996)<br><br>2011-09-19 22:32<br>赞(0) 踩(0) | <div>送给今天很2的寿星@拉维妮娅koko 希望能够启发你——“点解我做咩都系错？”——“因为你《错的对》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1310425)<br><br>2011-09-19 21:47<br>赞(0) 踩(0) | <div>宁愿有过错 也不想错过~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263569)<br><br>2011-09-19 19:43<br>赞(0) 踩(0) | <div>惊艳。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5757716)<br><br>2011-09-12 20:20<br>赞(0) 踩(0) | <div>仍爱犯错。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2676854)<br><br>2011-09-11 21:51<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5746983)<br><br>2011-09-10 20:53<br>赞(0) 踩(0) | <div>錯的對，錯的對。感激沿路有你，真的很不錯。好聽。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2366698)<br>现在只听歌不说话<br>2011-09-09 12:38<br>赞(0) 踩(0) | <div>平静的起唱，似被时间打磨平滑的石子，但错过的怅然、悲伤与期无法被时间的磨灭，吉他节奏加快，错失的痛分明的在那呐喊的声中！一都已过去，现在只能默默的感激默默地祈祷..</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2366698)<br>现在只听歌不说话<br>2011-09-09 12:38<br>赞(0) 踩(0) | <div>平静的起唱，似被时间打磨平滑的石子，但错过的怅然、悲伤与期无法被时间的磨灭，吉他节奏加快，错失的痛分明的在那呐喊的声中！<br>一都已过去，现在只能默默的感激默默地祈祷..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109377)<br><br>2011-09-09 09:22<br>赞(0) 踩(0) | <div>我寧願有過錯 也不想錯過.清晨准备饮一杯咖啡听到Chet的新歌。他还是那么少年情怀。好像一直在经历初恋明知故犯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109377)<br><br>2011-09-09 09:18<br>赞(0) 踩(0) | <div>我寧願有過錯 也不想錯過.清晨准备饮一杯咖啡听到Chet的新歌。他还是那么少年情怀。好像一直在经历初恋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1960733)<br><br>2011-09-08 23:43<br>赞(0) 踩(0) | <div>我寧願有過錯 也不想錯過</div> |
@@ -173,4 +173,4 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5002172)<br>暂无签名~<br>2011-09-07 16:47<br>赞(0) 踩(0) | <div>“我寧願有過錯 也不想錯過”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/846569)<br><br>2011-09-07 15:11<br>赞(0) 踩(0) | <div>虽然现在在网上听，但我一定会买的！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/550438)<br><br>2011-09-07 15:03<br>赞(0) 踩(0) | <div>@旋转的木偶飞不起来 新歌 好歌。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5165751)<br><br>2011-09-07 13:59<br>赞(0) 踩(0) | <div>“對的時間 錯的人 對的人 錯的決心 對的決心 錯的名份 對的心情 錯的方向對的方向 錯的執著”《对得错》已有人上传整首，CL411s快来围观~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5165751)<br><br>2011-09-07 13:59<br>赞(0) 踩(0) | <div>“對的時間 錯的人 對的人 錯的決心 對的決心 錯的名份 對的心情 錯的方向<br>對的方向 錯的執著”《对得错》已有人上传整首，CL411s快来围观~~~</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7e26ba28faef91c4ee9eb94a51e25537.jpg)<br>黄雨篱](https://i.xiami.com/yellowmoss) | **播放数**: 2615100<br>**粉丝数**: 1002<br>**评论数**: 62<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 流行摇滚 Pop Rock, 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/7e26ba28faef91c4ee9eb94a51e25537.jpg)<br>黄雨篱](https://i.xiami.com/yellowmoss) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 流行摇滚 Pop Rock, 独立流行 Indie Pop<br>**播放数**: 2615100<br>**粉丝数**: 1002<br>**评论数**: 62<br> |
 
 ## 档案
 
@@ -23,13 +23,13 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306924686)<br><br>2021-01-27 09:20<br>赞(0) 踩(0) | <div>还是喜欢在虾米听你的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83591380)<br>哼一首淡淡的歌。<br>2020-12-28 20:52<br>赞(0) 踩(0) | <div>很棒了这个词和曲还有声音 优秀的音乐人真的多 市场流行的大都反而都是太肤浅的 所以我喜欢用虾米 真正懂音乐的app 经常可以遇到让人惊喜的不被人所知的音乐人和音乐 甚至有些连资料都没有</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-12-06 18:15<br>赞(0) 踩(0) | <div>20201206.60</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419534371)<br>我还没想好要写什么...<br>2020-10-23 11:59<br>赞(1) 踩(0) | <div>说不想成名是假的。至少在国内，听音乐，懂音乐的是小众，无脑粉是大众。类似肖战王一博的明星都不知道是怎么出的道，歌没唱几首好听的，拍电影演技浮夸，上个综艺，走下商业流水线，年龄到了热度过了，自然又有下一个</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303437078)<br>未来会是什么样子   谁...<br>2020-11-14 16:19<br>赞(0) 踩(0) | <div>有些人还真不靠音乐谋生...我觉得他写的挺诚恳的</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303437078)<br>未来会是什么样子   谁...<br>2020-11-14 16:19<br>赞(0) 踩(0) | <div>有些人还真不靠音乐谋生...<br>我觉得他写的挺诚恳的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409974386)<br><br>2019-11-13 19:43<br>赞(0) 踩(0) | <div>赞，这首歌印象好深啊，听那么多，记得这一首</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430595579)<br>听虾米是个美好的事<br>2019-11-10 17:17<br>赞(1) 踩(0) | <div>潜力歌手持续关注</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117270244)<br>我己经想好要写什么了.....<br>2019-10-24 22:44<br>赞(2) 踩(0) | <div>歌唱的好，歌词也写的好关注了哈哈！</div> |

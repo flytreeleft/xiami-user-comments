@@ -45,21 +45,21 @@ SP 环球音乐出版股份有限公司
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109512136)<br>耳朵从不寂寞。<br>2021-01-06 23:57<br>赞(0) 踩(0) | <div>还能评论吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9701527)<br>我还没想好要写什么...<br>2020-10-26 22:42<br>赞(0) 踩(0) | <div>今天也很想你 D</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-07-21 09:17<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21164297)<br>您，懂我的虾米❤️998<br>2020-06-20 21:39<br>赞(3) 踩(0) | <div>他拥抱了那颗自私的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1341265)<br>我还没想好要写什么...<br>2020-06-03 16:30<br>赞(0) 踩(0) | <div>不知道为什么，就喜欢她这种调调。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253253299)<br><br>2020-04-15 23:12<br>赞(1) 踩(0) | <div>爱情 应该是两人相互敷衍还是相互妥协</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434701705)<br><br>2019-12-28 19:42<br>赞(6) 踩(0) | <div>两人关系越是疏离越是沉溺于自己的大道理才发现原来我们都只爱的是自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434701705)<br><br>2019-12-28 19:42<br>赞(6) 踩(0) | <div>两人关系越是疏离<br>越是沉溺于自己的大道理<br>才发现原来我们都只爱的是自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32559558)<br>浓密云团<br>2019-08-06 13:01<br>赞(0) 踩(0) | <div>♠️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6129080)<br>别..别..别吃我<br>2019-07-13 12:14<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190858257)<br>人间真的是不值得吗？值得...<br>2019-06-12 14:40<br>赞(2) 踩(0) | <div>爱是触不可及爱是触碰又收回的指尖爱是眼神是无声的内心戏是频率爱是一瞬间 之后就什么都不是了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190858257)<br>人间真的是不值得吗？值得...<br>2019-06-12 14:40<br>赞(2) 踩(0) | <div>爱是触不可及<br>爱是触碰又收回的指尖<br>爱是眼神是无声的内心戏是频率<br>爱是一瞬间 之后就什么都不是了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66865880)<br> <br>2019-05-30 22:41<br>赞(2) 踩(0) | <div>第一次听，好喜欢这种轻描淡写的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339510296)<br>欲望醒着不如睡着清晰<br>2019-05-27 20:45<br>赞(1) 踩(0) | <div>一个人从两人关系剥离出来，看到当时字字坚定的情话，骂自己是个混蛋，笑你是个大笨蛋。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33499929)<br>偷时间的人。<br>2019-05-12 03:17<br>赞(4) 踩(0) | <div>他却拥抱了那颗自私的心。再见。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33499929)<br>偷时间的人。<br>2019-05-12 03:17<br>赞(4) 踩(0) | <div>他却拥抱了那颗自私的心。<br>再见。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375629784)<br>It doesn't m...<br>2019-04-21 15:28<br>赞(1) 踩(0) | <div>我永远爱珊妮。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11197165)<br>听说你也在想念。<br>2019-03-30 15:21<br>赞(2) 踩(0) | <div>所以亲密关系的选择题就是：要么选自己，要么选他（她）。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8758190)<br>向内张望的人是清醒的。<br>2019-03-07 13:02<br>赞(0) 踩(0) | <div>Oops.la tua voce mi piace molto . Ti amo Oscar. addio</div> |
@@ -73,7 +73,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18134180)<br> <br>2018-11-03 09:53<br>赞(9) 踩(0) | <div>你以为你是爱对方，但其实是当初一时寂寞的偶然事件。然而在日渐相处的过程中，发现自己不过沉溺在自我满足的快感里，爱着那个假装付出爱的自己。也意外地发现，获取了一颗真挚的心，却不知如何是好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22077053)<br>我还没想好要写什么...<br>2018-10-22 05:59<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png">虾米最后一首歌，卸了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46274339)<br>无神而且宿命/厌世却又纵...<br>2018-10-08 21:47<br>赞(0) 踩(0) | <div>可是我连他的名字都不知道 <img src="../../../../images/comments/91081ea0de8ee2c933524fb8574e76e5.png"> <img src="../../../../images/comments/91081ea0de8ee2c933524fb8574e76e5.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8525397)<br>啊，这人生美丽。<br>2018-09-26 23:55<br>赞(0) 踩(0) | <div>我和你都复杂关系像日子的早晚既客观 又相斥</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8525397)<br>啊，这人生美丽。<br>2018-09-26 23:55<br>赞(0) 踩(0) | <div>我和你都复杂<br>关系像日子的早晚<br>既客观 又相斥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85848010)<br>再见 谢谢所有的鱼<br>2018-09-26 21:04<br>赞(0) 踩(0) | <div>好好听啊&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79860186)<br>亡命之徒<br>2018-09-15 15:48<br>赞(0) 踩(0) | <div>其实每当他在我身旁的时候 我会觉得多么不真切 每次夜晚入睡前看着他 从未完全感觉他是我的 不是我的总会离去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6009275)<br>想吃东西<br>2018-08-04 22:59<br>赞(1) 踩(0) | <div>原来我们从来都只爱自己，他却拥抱了那颗自私的心</div> |
@@ -99,9 +99,9 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54480399)<br>四季是你，你还是你。<br>2017-11-13 22:29<br>赞(1) 踩(0) | <div>唱的太委婉，声色生涩，根本没有节奏感，一点也不和谐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2615992)<br>shoot the co...<br>2017-11-09 14:35<br>赞(9) 踩(0) | <div>怪她若无其事得到你的心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50687044)<br><br>2017-10-27 23:52<br>赞(0) 踩(0) | <div>《两人关系》，最近听了一些陈珊妮。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272779522)<br><br>2017-10-27 23:38<br>赞(0) 踩(0) | <div>两人关系越是亲密 越感觉和自己很疏离想做一个温柔自信的小姐姐啊好了别打我 这就去吃药了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272779522)<br><br>2017-10-27 23:38<br>赞(1) 踩(0) | <div>两人关系越是亲密 越感觉和自己很疏离想做一个温柔自信的小姐姐啊好了别打我 这就去吃药了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272779522)<br><br>2017-10-27 23:38<br>赞(1) 踩(0) | <div>两人关系越是亲密 越感觉和自己很疏离想做一个温柔自信的小姐姐啊好了别打我 这就去吃药</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272779522)<br><br>2017-10-27 23:38<br>赞(0) 踩(0) | <div>两人关系越是亲密 越感觉和自己很疏离<br>想做一个温柔自信的小姐姐啊<br>好了别打我 这就去吃药了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272779522)<br><br>2017-10-27 23:38<br>赞(1) 踩(0) | <div>两人关系越是亲密 越感觉和自己很疏离<br>想做一个温柔自信的小姐姐啊<br>好了别打我 这就去吃药了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272779522)<br><br>2017-10-27 23:38<br>赞(1) 踩(0) | <div>两人关系越是亲密 越感觉和自己很疏离<br>想做一个温柔自信的小姐姐啊好了别打我 这就去吃药</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4471756)<br>最近喜欢林俊杰。<br>2017-10-27 23:08<br>赞(1) 踩(0) | <div>她的专辑就是要反复反复听。越听越好听。最近好像很忙。虽然也不是那么忙。但是内心极其渴望一场出行。不用考虑日语一级考试和论文，不用考虑口袋。暂且，就是下个月咯，乘个小火车去见一位在浙江的晋江好友咯。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257815624)<br>我爱的和爱我的都是你<br>2017-10-23 23:44<br>赞(0) 踩(0) | <div>所以他还是更爱你 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39039002)<br><br>2017-10-22 20:29<br>赞(4) 踩(0) | <div>听到一首歌 觉得每一句都说中了的时候 即使是不好的事 也感到被抚慰了。可能人有时候只是需要被empathize吧 : )</div> |
@@ -130,7 +130,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10647739)<br>再见 爱你<br>2017-01-24 23:46<br>赞(0) 踩(0) | <div>你会听到的吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16005080)<br><br>2017-01-09 03:24<br>赞(1) 踩(0) | <div>触过礁所以才会更怕疼 怕和人亲近又被抛弃 为什么不能做我的卫星靠近了却又远离 我一直知道你喜欢他啊 而我呢 我想我还是爱自己多一点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38492545)<br>无论如何，爱音乐<br>2017-01-07 15:44<br>赞(0) 踩(0) | <div>原来我们都只爱自己</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127393524)<br><br>2016-12-29 11:28<br>赞(1) 踩(0) | <div>两人关系越是亲密，越感觉和自己很疏离。两人关系越是疏离，越沉溺自己的大道理。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127393524)<br><br>2016-12-29 11:28<br>赞(1) 踩(0) | <div>两人关系越是亲密，越感觉和自己很疏离。<br>两人关系越是疏离，越沉溺自己的大道理。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230146679)<br>爱像水墨青花 何惧刹那芳...<br>2016-12-16 21:59<br>赞(1) 踩(0) | <div>我不记得从什么时候起开始喜欢上你 我只记得 我们同一台手术的时候 抬头看见你 会走神 你背向我的时候 看着你的背影 好想上前抱抱你 好心疼你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13591100)<br>哼<br>2016-10-31 17:37<br>赞(0) 踩(0) | <div>原来我们都只爱自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5905824)<br>我还没想好要写什么...<br>2016-10-22 16:39<br>赞(0) 踩(0) | <div>他却拥抱了那颗自私的心</div> |
@@ -196,7 +196,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30904942)<br>我还没想好要写什么...<br>2014-09-29 16:16<br>赞(0) 踩(0) | <div>两人关系越是亲密，越感觉和自己很疏离</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17788649)<br><br>2014-08-01 01:20<br>赞(0) 踩(0) | <div>睡吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13487395)<br><br>2014-07-24 22:59<br>赞(0) 踩(0) | <div>学着简单</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36150373)<br>暂无签名~<br>2014-06-24 21:32<br>赞(0) 踩(0) | <div>每句情话逐字翻译原来我们从来都只爱自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36150373)<br>暂无签名~<br>2014-06-24 21:32<br>赞(0) 踩(0) | <div>每句情话逐字翻译<br>原来我们从来都只爱自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16838347)<br><br>2014-06-06 23:57<br>赞(0) 踩(0) | <div>心酥掉~（好啦刷够啦，碎觉!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/883275)<br><br>2014-04-04 14:00<br>赞(0) 踩(0) | <div>“原来我们从来都只爱自己。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4007871)<br>执着而深敛爱生活偏执狂情<br>2014-03-23 23:13<br>赞(0) 踩(0) | <div>唱出了疏离。</div> |
@@ -206,12 +206,12 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434749)<br>没有签名<br>2013-12-17 20:04<br>赞(0) 踩(0) | <div>两人关系越是疏离 越沈溺自己的大道理 每句情话逐字翻译 原来我们从来都只爱自己 #他却拥抱了那颗自私的心#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13697555)<br><br>2013-11-14 13:51<br>赞(0) 踩(0) | <div>Replay n replay</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16241214)<br> <br>2013-11-13 18:46<br>赞(0) 踩(0) | <div>你喜欢他，当时很确定啊，忽然他胆怯的眼神发现，你不安的偷看他，你想着他，一切多正常啊，后来，背着自己孤单的身影，竞有点同情他。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1837229)<br><br>2013-11-01 16:16<br>赞(0) 踩(0) | <div>两人关系越是疏离 越沈溺自己的大道理每句情话逐字翻译 原来我们从来都只爱自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1837229)<br><br>2013-11-01 16:16<br>赞(0) 踩(0) | <div>两人关系越是疏离 越沈溺自己的大道理<br><br>每句情话逐字翻译 原来我们从来都只爱自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/962589)<br><br>2013-10-19 22:26<br>赞(0) 踩(0) | <div>免费抢到的票，但效果意外的好，灯光舞台音效都很赞哪，一点点缺憾就是前两首歌都很喜欢但去晚了没听到，还有一首《你太好看》喊了好几遍也没有唱内，但但但现场响起这首歌的前奏时瞬间就感动了~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12030630)<br>一瞬间才明白/你要告别了<br>2013-09-28 22:49<br>赞(0) 踩(0) | <div>精心设计爱的比喻，怪他轻而易举偷了你的心-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11104895)<br><br>2013-09-03 15:25<br>赞(0) 踩(0) | <div>原来我们从来都只爱自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9608841)<br> <br>2013-08-28 22:27<br>赞(0) 踩(0) | <div>两人关系越是疏离,越沉溺自己的大道理,每句情话逐字翻译,原来我们从来都只爱自己(珊妮老师新碟真好听,最中意呢首&amp;#039;两人关系&amp;#039;)</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15348452)<br><br>2013-08-24 13:10<br>赞(1) 踩(0) | <div>【天启，人义，攻守排行伪少女萝莉是空想，花一般唯美的绽放他穿上衣服一切就结束了，当Z爱变成一种潜规则不生不灭，全想入非非夜有她低调的天份，你显得安静而无尘一生难得拥有，以偏概全的幸福】随便选几句，公主写的词碉堡了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15348452)<br><br>2013-08-24 13:10<br>赞(1) 踩(0) | <div>【天启，人义，攻守排行<br>伪少女萝莉是空想，花一般唯美的绽放<br>他穿上衣服一切就结束了，当Z爱变成一种潜规则<br>不生不灭，全想入非非<br>夜有她低调的天份，你显得安静而无尘<br>一生难得拥有，以偏概全的幸福】随便选几句，公主写的词碉堡了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3329856)<br><br>2013-08-23 20:19<br>赞(0) 踩(0) | <div>这一首也不错@L-纸飞机-  陈姗妮这盘都好温柔〜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13954678)<br>再等一等<br>2013-08-19 21:20<br>赞(0) 踩(0) | <div>两人关系越是疏离 / 越沉溺自己的大道理 / 每句情话逐字翻译  / 原来我们从来都只爱自己  / 他却拥抱了那颗自私的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18517555)<br><br>2013-08-18 00:58<br>赞(0) 踩(0) | <div>两人关系越是亲密，越感觉和自己很疏离。</div> |
@@ -220,7 +220,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10406340)<br><br>2013-08-13 00:03<br>赞(0) 踩(0) | <div>听了一晚上。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5675450)<br><br>2013-08-10 02:14<br>赞(0) 踩(0) | <div>化骨柔绵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8954391)<br><br>2013-08-08 14:31<br>赞(0) 踩(0) | <div>外面的世界白云苍狗，耳畔却有个声音能让你波澜平静</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6773270)<br><br>2013-07-31 23:18<br>赞(0) 踩(0) | <div>两人关系越是疏离 越沈溺自己的大道理每句情话逐字翻译 原来我们从来都只爱自己他却拥抱了那颗自私的心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6773270)<br><br>2013-07-31 23:18<br>赞(0) 踩(0) | <div>两人关系越是疏离 越沈溺自己的大道理<br>每句情话逐字翻译 原来我们从来都只爱自己<br>他却拥抱了那颗自私的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5040272)<br> <br>2013-07-31 17:52<br>赞(0) 踩(0) | <div>两人关系越是疏离，越沉溺自己的大道理，每句情话逐字翻译，原来，我们从来都只爱自己。                                     怪他若无其事得到你的心...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18256570)<br><br>2013-07-30 22:59<br>赞(0) 踩(0) | <div>揉作一团的脑筋，憋着一股劲hold到快要内伤的身心，孤独地坚持着一件不知道何时到头的事情....幸有陈珊妮的慵懒声音，不紧不慢地喃喃自语，悠悠的旋律，营造出一种虚拟的度假意境，稍微给了我一点放松的心情。音乐有时候真的很神奇。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6685217)<br><br>2013-07-30 22:46<br>赞(0) 踩(0) | <div>「我们从来只爱自己，他却拥抱了那颗自私的心。」</div> |
@@ -268,7 +268,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2885573)<br><br>2013-07-02 23:44<br>赞(0) 踩(0) | <div>你想着他,一切 多正常啊，后来 背着自己孤单的身影,竟有点同情他...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1611544)<br><br>2013-07-02 23:26<br>赞(0) 踩(0) | <div>他可能累得只剩下毅力了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15403602)<br> <br>2013-07-02 22:52<br>赞(0) 踩(0) | <div>两个人越来越亲密，就会突然和自己陌生起来，到最后发现他最爱的还是他自己，原来那么多人到底都还是自私的。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8473015)<br>要决心忘记我便记不起<br>2013-07-02 21:54<br>赞(0) 踩(0) | <div>很早以前就听过这首歌，当时就很喜欢。原来是在这张专辑里啊。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8473015)<br>要决心忘记我便记不起<br>2013-07-02 21:54<br>赞(0) 踩(0) | <div>很早以前就听过这首歌，当时就很喜欢。<br>原来是在这张专辑里啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2094357)<br>你牛逼你敢不敢得糖尿病<br>2013-07-02 10:50<br>赞(0) 踩(0) | <div>:)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/764470)<br>我不管我最美<br>2013-07-02 09:27<br>赞(0) 踩(0) | <div>我们从来都是爱自己啊~！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3726651)<br>simplicity<br>2013-07-02 00:59<br>赞(0) 踩(0) | <div>Summer gets rowdie</div> |

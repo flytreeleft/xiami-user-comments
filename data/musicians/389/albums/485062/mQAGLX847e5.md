@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51868227)<br>那我懂你意思了<br>2020-06-22 17:08<br>赞(0) 踩(0) | <div>广播里听到的  还在想这个拧来拧去的声音是谁   原来是费玉清啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96204032)<br>听华健大哥的歌，一不小心...<br>2018-02-03 22:14<br>赞(2) 踩(0) | <div>青春无敌，再接再厉，再来一杯。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203380595)<br>一个喜欢音乐的边缘人<br>2017-12-24 18:42<br>赞(1) 踩(0) | <div>第一次觉得品冠模仿李宗盛这么像</div> |
@@ -86,8 +86,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1282081)<br><br>2013-03-09 08:30<br>赞(0) 踩(0) | <div>屡战屡败，再接再厉，再来一杯~~~~走你~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1923839)<br><br>2013-03-06 12:13<br>赞(0) 踩(0) | <div>噗 模仿秀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1321795)<br><br>2012-11-22 08:58<br>赞(0) 踩(0) | <div>有了一粒花生壳，神仙也没辙。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11002411)<br><br>2012-10-10 16:16<br>赞(0) 踩(0) | <div>让我们喝了干了再来一杯管他的有什么过不去的想说的趁着头晕了通通说出来了明天就忘了明天不认了何时能再在一起再来一杯啊！！！朋友们喝酒时不要忘了我啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6970484)<br>呵呵 呵呵呵呵<br>2012-08-28 11:07<br>赞(0) 踩(0) | <div>想说的 趁着头晕了 通通说出来了明天就忘了 明天不认了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11002411)<br><br>2012-10-10 16:16<br>赞(0) 踩(0) | <div>让我们喝了<br>干了<br>再来一杯<br>管他的<br>有什么<br>过不去的<br>想说的<br>趁着头晕了<br>通通说出来了<br>明天就忘了<br>明天不认了<br>何时能再在一起再来一杯啊！！！朋友们喝酒时不要忘了我啊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6970484)<br>呵呵 呵呵呵呵<br>2012-08-28 11:07<br>赞(0) 踩(0) | <div>想说的 趁着头晕了 通通说出来了<br>明天就忘了 明天不认了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9712647)<br><br>2012-08-26 22:16<br>赞(1) 踩(0) | <div>虽然模仿很精彩，但我还是最喜欢他的声音，可以用自己的声音完整地唱这一首吗=w=？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2754816)<br><br>2012-08-22 09:51<br>赞(0) 踩(0) | <div>哈哈哈，听的好欢乐！貌似除了李宗盛还学了别人，有几句像伍思凯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2984939)<br> <br>2012-07-07 10:16<br>赞(0) 踩(0) | <div>我想你</div> |
@@ -99,8 +99,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/417408)<br><br>2012-05-13 21:29<br>赞(0) 踩(0) | <div>听听这首歌里演唱者都有谁~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2006108)<br><br>2012-04-28 17:38<br>赞(0) 踩(0) | <div>这首也可以K。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4490915)<br><br>2012-04-26 10:16<br>赞(0) 踩(0) | <div>听这歌特高兴~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9260)<br><br>2012-04-17 08:29<br>赞(0) 踩(0) | <div>浑浑噩噩也算一种独特偶尔就别认真了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6019931)<br><br>2012-03-29 08:44<br>赞(0) 踩(0) | <div>求醉求续杯!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9260)<br><br>2012-04-17 08:29<br>赞(0) 踩(0) | <div>浑浑噩噩<br>也算一种独特<br>偶尔就别<br>认真了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6019931)<br><br>2012-03-29 08:44<br>赞(0) 踩(0) | <div>求醉求续杯!!!!!!!!!!!!!!!!!!!!!!!!!<br>!!!!!!!!!!!!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8509488)<br><br>2012-03-20 09:56<br>赞(0) 踩(0) | <div>我真的应该重出江湖了～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5673515)<br><br>2012-03-19 20:37<br>赞(0) 踩(0) | <div>今天的心情，听这首欢快的歌，还真TMD感同身受地想流泪....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2045376)<br><br>2012-03-02 11:48<br>赞(1) 踩(0) | <div>。。。。。=-其实我还是比较喜欢品冠这种有点抽的歌……</div> |
@@ -119,8 +119,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/489630)<br><br>2012-01-08 23:42<br>赞(0) 踩(0) | <div>我表示……太调皮了~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6427475)<br><br>2012-01-07 09:49<br>赞(0) 踩(0) | <div>很欢乐的一首新歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/551718)<br><br>2012-01-07 05:58<br>赞(1) 踩(0) | <div>品冠真是极品 这歌欢乐的很！听了看了才能知其中奥秘喔！哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7560829)<br><br>2012-01-06 11:54<br>赞(0) 踩(0) | <div>一起唱歌把屋顶都掀了把烦恼都丢开了浑浑噩噩也算一种独特偶尔就别认真了这大概就青春、、、就这么燥着吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6232454)<br> <br>2012-01-05 22:57<br>赞(0) 踩(0) | <div>让我们喝了干了再来一杯管他的有什么过不去的想说的趁着头晕了通通说出来了明天就忘了明天不认了李宗盛，周华健，品冠。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7560829)<br><br>2012-01-06 11:54<br>赞(0) 踩(0) | <div>一起唱歌<br>把屋顶都掀了<br>把烦恼都<br>丢开了<br>浑浑噩噩<br>也算一种独特<br>偶尔就别<br>认真了<br>这大概就青春、、、就这么燥着吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6232454)<br> <br>2012-01-05 22:57<br>赞(0) 踩(0) | <div>让我们喝了<br>干了<br>再来一杯<br>管他的<br>有什么<br>过不去的<br>想说的<br>趁着头晕了<br>通通说出来了<br>明天就忘了<br>明天不认了<br>李宗盛，周华健，品冠。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7107456)<br><br>2012-01-05 14:55<br>赞(0) 踩(0) | <div>呵呵，这首歌里面，品冠的声音像个老太太</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1550869)<br>暂无签名~<br>2012-01-05 09:40<br>赞(0) 踩(0) | <div>什么是幸福，品冠告诉我们，幸福就是和三两好友一起，抱着吉他，一起摇头晃脑的大声歌唱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/553119)<br><br>2012-01-03 23:36<br>赞(1) 踩(0) | <div>哈哈，原来是他一个人啊，被骗过了，太可爱了</div> |

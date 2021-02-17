@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1694491)<br><br>2021-01-11 15:58<br>赞(0) 踩(0) | <div>谢谢虾米，谢谢你的陪伴！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336368301)<br> <br>2019-06-09 00:59<br>赞(1) 踩(0) | <div>突然想起这首歌，因为在海外地区，想收藏下载都不能。好郁闷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333969357)<br><br>2019-06-01 09:07<br>赞(0) 踩(0) | <div>我觉得侃侃唱这首歌声音很附，别的不如这首歌。</div> |
@@ -67,21 +67,21 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10576643)<br><br>2018-04-01 10:31<br>赞(2) 踩(0) | <div>听着觉得自己由内到外都很脏。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333382156)<br><br>2018-03-09 09:00<br>赞(3) 踩(0) | <div>第一次听就被震撼了，声音太干净了&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353501352)<br><br>2018-03-06 22:24<br>赞(2) 踩(0) | <div>侃侃的这首歌有种空灵美，第一耳听，就不由自主的喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302743058)<br><br>2018-02-26 20:55<br>赞(3) 踩(0) | <div>人生，最难得的，是好心态；最难放的，是真感情；最难忘的，是入心人；最难求的，是被人懂。人的一生，与爱恨纠缠，与得失相伴，与是非周旋。生活中，每个人都会有烦恼，工作中，每个人都会有难题，人生中，每个人都有难事。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302743058)<br><br>2018-02-26 20:55<br>赞(3) 踩(0) | <div>人生，最难得的，是好心态；最难放的，是真感情；最难忘的，是入心人；最难求的，是被人懂。<br>人的一生，与爱恨纠缠，与得失相伴，与是非周旋。生活中，每个人都会有烦恼，工作中，每个人都会有难题，人生中，每个人都有难事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339347260)<br> <br>2018-02-06 13:47<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293931220)<br>山窗寂寂无眠夜，梧落芭蕉...<br>2018-01-08 00:59<br>赞(0) 踩(0) | <div>，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341551991)<br>黄昏独自愁    一壶饮...<br>2018-01-04 12:45<br>赞(0) 踩(0) | <div>赚点经验</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252341345)<br>有容乃大<br>2017-12-28 12:11<br>赞(1) 踩(0) | <div>侃侃的声音真好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305318099)<br><br>2017-12-11 06:26<br>赞(2) 踩(0) | <div>好久没听过侃侃的歌曲了，这首还不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284938338)<br> 和音乐人一起玩靠谱<br>2017-10-28 23:32<br>赞(3) 踩(0) | <div>心情一下子平静下来了……沉思的放空</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30342312)<br>内心强大的独行霞<br>2017-10-28 00:37<br>赞(3) 踩(0) | <div>工间小憩，请友们分享侃侃的《那江烟花》：男：那一夜 天空坠落为流星 划过夜空我抱着她 如此无隙 怕她在手中滑落那江烟花 如漫天彩霞 在瞬间变成了家然后光如天空飘落雪花拂过她的脸颊女：那一夜 心防崩塌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30342312)<br>内心强大的独行霞<br>2017-10-28 00:37<br>赞(3) 踩(0) | <div>工间小憩，请友们分享侃侃的《那江烟花》：<br>男：<br>那一夜 天空坠落<br>为流星 划过夜空<br>我抱着她 如此无隙 怕她在手中滑落<br>那江烟花 如漫天彩霞 在瞬间变成了家<br>然后光如天空飘落雪花<br>拂过她的脸颊<br>女：<br>那一夜 心防崩塌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15232431)<br><br>2017-01-05 22:58<br>赞(4) 踩(0) | <div>这歌十多年前就听到，歌词很美，唱得也极有感染力，一直喜欢听，可总有不懂，这个故事里的我和他和她究竟是怎样复杂的关系？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31912359)<br><br>2015-11-03 22:58<br>赞(2) 踩(0) | <div>时光流逝，依稀中仿佛还能看见那江烟花......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47722948)<br><br>2015-08-27 22:30<br>赞(0) 踩(0) | <div>那江烟花 如满天彩霞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21330208)<br>暂无签名~生如夏花，谁共...<br>2015-07-26 16:33<br>赞(1) 踩(0) | <div>很纯净的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38742330)<br>行也欢喜，停也安宁<br>2015-07-07 20:45<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30342312)<br>内心强大的独行霞<br>2015-06-25 09:05<br>赞(0) 踩(0) | <div>那一夜 天空坠落为流星 划过夜空我抱着她 如此无隙 怕她在手中滑落那江烟花 如漫天彩霞 在瞬间变成了家然后光如天空飘落雪花拂过她的脸颊女：那一夜 心防崩塌身边他 伟岸如家但愿一生能守侯他 让眼泪不再流下多想</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5956589)<br>小楼夜听雨，明朝卖花去<br>2015-04-05 22:10<br>赞(1) 踩(0) | <div>原曲：爱尔兰民谣Spancil Hill（史班塞山丘）<a href="http://www.xiami.com/collect/7322657?spm=a1z1s.3061781.0.0.qY8aDC" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/collect/7322657?spm=a1z1s.3061781.0.0.qY8aDC</a>好多版本</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30342312)<br>内心强大的独行霞<br>2015-06-25 09:05<br>赞(0) 踩(0) | <div>那一夜 天空坠落<br>为流星 划过夜空<br>我抱着她 如此无隙 怕她在手中滑落<br>那江烟花 如漫天彩霞 在瞬间变成了家<br>然后光如天空飘落雪花<br>拂过她的脸颊<br>女：<br>那一夜 心防崩塌<br>身边他 伟岸如家<br>但愿一生能守侯他 让眼泪不再流下<br>多想</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5956589)<br>小楼夜听雨，明朝卖花去<br>2015-04-05 22:10<br>赞(1) 踩(0) | <div>原曲：爱尔兰民谣Spancil Hill（史班塞山丘）<br><a href="http://www.xiami.com/collect/7322657?spm=a1z1s.3061781.0.0.qY8aDC" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/collect/7322657?spm=a1z1s.3061781.0.0.qY8aDC</a><br>好多版本</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11024295)<br> <br>2015-09-07 15:24<br>赞(0) 踩(0) | <div>高 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85021146)<br><br>2015-12-11 01:41<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43421008)<br><br>2014-11-27 20:41<br>赞(0) 踩(0) | <div>柔美</div> |

@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325869660)<br><br>2019-09-22 08:35<br>赞(1) 踩(0) | <div>世界级马头琴艺术大师齐·宝力高说，马头琴是有脑袋的，它有灵魂，能和天地说话。不可否认，马头琴是最能准确表达蒙古族人生活状态的乐器。马头琴文化是蒙古族精神的重要组成部分，蒙古族人民将马头琴作为情感和信仰的寄托，这是一种发自内心的自信心和自豪感……心中的马头琴，永远的马头琴！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327160074)<br>阳光 、空气 、水 、音...<br>2019-08-23 23:55<br>赞(8) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402990560)<br>此人虾毒攻心，不日举上。...<br>2019-07-12 11:32<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -30,7 +27,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324811732)<br><br>2019-04-24 06:57<br>赞(6) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412435368)<br><br>2019-02-08 01:28<br>赞(3) 踩(0) | <div>真想不到，如此美妙，琴声悠扬，余音绕梁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407849393)<br><br>2019-01-28 22:06<br>赞(1) 踩(0) | <div>优美的旋律</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402885122)<br><br>2019-01-14 23:06<br>赞(2) 踩(0) | <div>常金说：哦，无以言表的情愫，你在我灵魂深处，我却仍在四处寻找，你无奈审视，我把怆凉甩进自戕……某一瞬，弦触到了心脉，我把自己迷失在虚无……来吧，回来，我一直等你归来……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402885122)<br><br>2019-01-14 23:06<br>赞(2) 踩(0) | <div>常金说：<br>哦，<br>无以言表的情愫，<br>你在我灵魂深处，我却仍在四处寻找，<br>你无奈审视，我把怆凉甩进自戕……<br>某一瞬，弦触到了心脉，我把自己迷失在虚无……<br>来吧，回来，我一直等你归来……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334205404)<br>养心斋<br>2018-12-14 08:37<br>赞(1) 踩(0) | <div>好看的mv</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334205404)<br>养心斋<br>2018-12-14 08:33<br>赞(0) 踩(0) | <div>哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404648913)<br>生命中不能没有音乐和舞蹈<br>2018-10-17 23:44<br>赞(0) 踩(0) | <div>听醉了！太喜欢了 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -38,7 +35,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296179390)<br>与世无争但希望公平对待<br>2018-10-16 09:46<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287017)<br>姌稥毓影，复刻轻悠<br>2018-09-23 13:51<br>赞(7) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373015018)<br><br>2018-09-12 14:45<br>赞(1) 踩(0) | <div>1</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313183939)<br>"凡音之起，由人心生也"...<br>2018-07-13 20:42<br>赞(17) 踩(0) | <div>马头琴从美丽的传说中走来一骑白色的骏马幻化成勇敢忠诚的赤爱马头琴从牧人的思念中走来那匹复活的白马蹄荡着绿波碧浪的澎湃马头琴从牧人的睡梦中走来一嘶长啸的白马鸣脆起悠扬悦耳的天籁马头琴从牧人的遐想中走来一尊精雕的白马呼麦出沁入心脾的情怀马头琴从远古的草原中走来二弦缠绵的弓跳激越起万马奔腾的气概马头琴从夕阳的红霞中走来苍茫孤烟的落日圆缺着沧桑红尘的梦彩马头琴从天边的辽阔中走来一对双星的闪烁明曜在晨雾旖旎的云海</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313183939)<br>"凡音之起，由人心生也"...<br>2018-07-13 20:42<br>赞(17) 踩(0) | <div>马头琴<br>从美丽的传说中<br>走来<br>一骑白色的骏马<br>幻化成<br>勇敢忠诚的赤爱<br><br>马头琴<br>从牧人的思念中<br>走来<br>那匹复活的白马<br>蹄荡着<br>绿波碧浪的澎湃<br><br>马头琴<br>从牧人的睡梦中<br>走来<br>一嘶长啸的白马<br>鸣脆起<br>悠扬悦耳的天籁<br><br>马头琴<br>从牧人的遐想中<br>走来<br>一尊精雕的白马<br>呼麦出<br>沁入心脾的情怀<br><br>马头琴<br>从远古的草原中<br>走来<br>二弦缠绵的弓跳<br>激越起<br>万马奔腾的气概<br><br>马头琴<br>从夕阳的红霞中<br>走来<br>苍茫孤烟的落日<br>圆缺着<br>沧桑红尘的梦彩<br><br>马头琴<br>从天边的辽阔中<br>走来<br>一对双星的闪烁<br>明曜在<br>晨雾旖旎的云海</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312535178)<br><br>2018-07-13 16:00<br>赞(0) 踩(0) | <div>贺西格的马头琴有多少辉煌，多少缠绵悱恻，多少激越，多少睱想。他的琴声带来多少丰富的，這种曲目没有超级他的摇蓝曲专辑。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377835225)<br><br>2018-09-29 09:40<br>赞(0) 踩(0) | <div>你说的啥。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312535178)<br><br>2018-10-04 07:37<br>赞(0) 踩(0) | <div><q><b>kura说：</b></q></div> |

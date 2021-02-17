@@ -3,13 +3,10 @@ Paul Liu
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/75bc75e00918f55912c00c3ece797c98.jpg)<br>Paul Liu](https://i.xiami.com/paul-liu) | **播放数**: 14079655<br>**粉丝数**: 2195<br>**评论数**: 52<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 轻音乐 Easy Listening, 器乐流行 Instrumental Pop, 轻音乐流行 Light Pop, 器乐独奏 Solo Instrumental<br> |
+| [![](../../images/musicians/75bc75e00918f55912c00c3ece797c98.jpg)<br>Paul Liu](https://i.xiami.com/paul-liu) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 轻音乐 Easy Listening, 器乐流行 Instrumental Pop, 轻音乐流行 Light Pop, 器乐独奏 Solo Instrumental<br>**播放数**: 14079655<br>**粉丝数**: 2195<br>**评论数**: 52<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@ Paul Liu
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3469393)<br><br>2021-01-15 21:54<br>赞(0) 踩(0) | <div>谢谢你，虾米</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270960895)<br>闭嘴<br>2021-01-07 18:43<br>赞(0) 踩(0) | <div>虾米再见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446204814)<br><br>2020-12-12 23:32<br>赞(0) 踩(0) | <div>喜欢《枫》和《说好的幸福呢》，前奏几个琴音一起，仿佛瞬间被恋爱的浪漫包围。</div> |
@@ -37,7 +34,7 @@ Paul Liu
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292488710)<br> <br>2019-10-17 15:23<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342145861)<br>我还没想好要写什么...<br>2019-08-31 07:14<br>赞(1) 踩(0) | <div>太好听啦 期待您更新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312663800)<br><br>2019-08-26 12:30<br>赞(1) 踩(0) | <div>出新专辑吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312663800)<br><br>2019-06-12 15:49<br>赞(1) 踩(0) | <div>大神不出新弹奏了么。找了几家钢琴纯音乐，或许你的风格我更喜欢。我个人喜欢悠扬，抒情，略带轻快的纯音乐。确实很多歌曲的钢琴演奏都好好听。那么久远的轻轻的告诉你都可以演绎的这么美</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312663800)<br><br>2019-06-12 15:49<br>赞(1) 踩(0) | <div>大神不出新弹奏了么。找了几家钢琴纯音乐，或许你的风格我更喜欢。<br>我个人喜欢悠扬，抒情，略带轻快的纯音乐。<br>确实很多歌曲的钢琴演奏都好好听。那么久远的轻轻的告诉你都可以演绎的这么美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2019-06-06 11:39<br>赞(2) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33708177)<br> <br>2019-05-20 21:21<br>赞(1) 踩(0) | <div>大大弹的曲子我都很喜欢 很多杰伦的歌 啊 我爱了<a href="http://emumo.xiami.com/u/295930838" target="_blank" rel="nofollow" name_card="295930838">@Paul Liu</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37900679)<br><br>2019-05-20 19:27<br>赞(1) 踩(0) | <div>好听 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |

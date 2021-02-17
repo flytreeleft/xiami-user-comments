@@ -3,7 +3,7 @@ Isaac Shepard
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d19d1e55b392ac3b41125cea48c932f9.jpg)<br>Isaac Shepard](https://i.xiami.com/isaacshepard) | **播放数**: 20157247<br>**粉丝数**: 14392<br>**评论数**: 324<br>**地区**: United States of America 美国<br>**风格**: 器乐独奏 Solo Instrumental, 新世纪音乐 New Age, 新古典新世纪 Neoclassical New Age, 键盘音乐 Keyboard, 古典音乐 Classical<br> |
+| [![](../../images/musicians/d19d1e55b392ac3b41125cea48c932f9.jpg)<br>Isaac Shepard](https://i.xiami.com/isaacshepard) | **地区**: United States of America 美国<br>**风格**: 器乐独奏 Solo Instrumental, 新世纪音乐 New Age, 新古典新世纪 Neoclassical New Age, 键盘音乐 Keyboard, 古典音乐 Classical<br>**播放数**: 20157247<br>**粉丝数**: 14392<br>**评论数**: 324<br> |
 
 ## 档案
 
@@ -65,8 +65,8 @@ Shepard currently resides in Southern California with his wife and two kids. Rec
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43743455)<br>我还没想好要写什么...<br>2020-11-30 16:30<br>赞(0) 踩(0) | <div><img src="../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-06-08 16:10<br>赞(0) 踩(0) | <div><img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13731582)<br>森久保直子ですが…<br>2020-04-12 15:34<br>赞(0) 踩(0) | <div>Isaac的经历让我想到了Kevin Kern，有眼疾的音乐人对声音的表达更细腻更敏感，乍一听很简单很素朴，用心听&amp;mdash;&amp;mdash;即便是休止符和一个延长音都写满了感情和故事。 他们的音乐不华丽，却又过分华美，因为每一个音符都充满能量和情感，让我在他们的音乐中不愿意错过一分一秒，屏息聆听&amp;hellip;</div> |
@@ -91,13 +91,13 @@ Shepard currently resides in Southern California with his wife and two kids. Rec
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/573243)<br><br>2017-12-18 13:26<br>赞(14) 踩(0) | <div>对于Isaac Shepard估计了解的人还是比较少的，网络上也很难下载到他的音乐。Isaac Shepard出生在美国一个音乐世家，Isaac Shepard 12岁就能不看谱子弹钢琴了，可见Isaac Shepard的音乐天赋是多么的深厚。之后儿时的Isaac Shepard便加入了他父亲James的乐队，名为“Daveand the Reverbs” 。年少是的Isaac Shepard便随着乐队在南加州的教堂、流浪汉管理所、福利院等地方义务为穷人弹奏音乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3682795)<br>I’m in love,...<br>2017-11-05 21:24<br>赞(8) 踩(0) | <div>So glad to find you on Xiami Music! The first time that I listened to your music was back in early 2009 when I studied abroad in the U.S. Your music reminds me of the years that I spent in the U.S.Thank you for making such beautiful music that has magical powers to bring peace to my life.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10563586)<br><br>2017-10-28 00:35<br>赞(2) 踩(0) | <div>档案里写的太对了！就是从音乐喷泉那个游戏开始，疯狂找那首曲子，然后就结缘了。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6911954)<br><br>2017-10-28 00:19<br>赞(0) 踩(0) | <div>風潮唱片代理發行 Isaac Shepard(伊薩克 夏帕德)陪你 時時刻刻 4CD全集(CB-151/2013.01.25)<a href="http://www.xiami.com/song/showcollect/id/30904955?spm=a1z1s.6626009.0.0.CHcKGb" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/showcollect/id/30904955?spm=a1z1s.6626009.0.0.CHcKGb</a>附送其他索引：風潮唱片 林海&amp;范宗沛等 心靈音樂詩 7CD全集、風潮唱片 Herbal Life 香草生活 4CD全集、螢火蟲自然生活 4CD全集、風潮唱片 音樂畫廊系列 山水大觀 4CD全集、風潮唱片 林海 流動的月光 4CD BOX SET。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6911954)<br><br>2017-10-28 00:19<br>赞(0) 踩(0) | <div>風潮唱片代理發行 Isaac Shepard(伊薩克 夏帕德)陪你 時時刻刻 4CD全集(CB-151/2013.01.25)<br><a href="http://www.xiami.com/song/showcollect/id/30904955?spm=a1z1s.6626009.0.0.CHcKGb" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/showcollect/id/30904955?spm=a1z1s.6626009.0.0.CHcKGb</a><br><br>附送其他索引：<br>風潮唱片 林海&amp;范宗沛等 心靈音樂詩 7CD全集、風潮唱片 Herbal Life 香草生活 4CD全集、螢火蟲自然生活 4CD全集、風潮唱片 音樂畫廊系列 山水大觀 4CD全集、風潮唱片 林海 流動的月光 4CD BOX SET。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2017-10-21 02:35<br>赞(1) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13603829)<br>喜欢就行<br>2017-09-26 12:15<br>赞(0) 踩(0) | <div>+++</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2418238)<br>weibo: @尤米口<br>2017-08-16 02:04<br>赞(0) 踩(0) | <div>♡⃛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258270690)<br>别问我为什么欧皇是攻［严...<br>2017-08-13 20:07<br>赞(0) 踩(0) | <div>有多少人是在搜索the binding of issac的时候看到了又戳进来的？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258270690)<br>别问我为什么欧皇是攻［严...<br>2017-08-13 20:05<br>赞(0) 踩(0) | <div>这里有多少的以撒教，麻烦点个赞，谢谢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239524811)<br>照亮你<br>2017-08-07 09:26<br>赞(0) 踩(0) | <div>想欣赏新作&amp;amp;lt;Quiet&amp;amp;gt;.Thanks a lot Isaac Shepard.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239524811)<br>照亮你<br>2017-08-07 09:26<br>赞(0) 踩(0) | <div>想欣赏新作&amp;amp;lt;Quiet&amp;amp;gt;.<br>Thanks a lot Isaac Shepard.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96374066)<br>这个人很甜<br>2017-06-27 10:10<br>赞(0) 踩(0) | <div>很抓人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11968433)<br>长春发展农商银行<br>2017-06-16 20:13<br>赞(0) 踩(0) | <div>I like your music</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72666568)<br><br>2017-05-11 20:45<br>赞(0) 踩(0) | <div>蛮神奇的</div> |
@@ -116,7 +116,7 @@ Shepard currently resides in Southern California with his wife and two kids. Rec
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33717830)<br>天生神经质 &<br>2017-02-08 19:31<br>赞(1) 踩(0) | <div>音乐很棒哟[带墨镜笑]</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268584676)<br><br>2017-02-09 05:49<br>赞(0) 踩(0) | <div>Thank you!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11859453)<br><br>2017-02-06 14:59<br>赞(0) 踩(0) | <div>竟然入驻了，不错</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42657637)<br>重要的东西眼睛是看不见的...<br>2017-02-05 23:59<br>赞(1) 踩(0) | <div>高三的时候deep joy这张专辑是我每天必听的，尤其是gentle，谢谢你和你的曲子 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">给了我很多安慰thank you</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42657637)<br>重要的东西眼睛是看不见的...<br>2017-02-05 23:59<br>赞(1) 踩(0) | <div>高三的时候deep joy这张专辑是我每天必听的，尤其是gentle，谢谢你和你的曲子 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">给了我很多安慰<br>thank you</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268584676)<br><br>2017-02-06 06:11<br>赞(0) 踩(0) | <div>Thank you very much! I&amp;#039;m glad you like it.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5621382)<br> <br>2017-02-05 16:44<br>赞(0) 踩(0) | <div>Hi I'm your little fans hhh. Wish you all the best！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268584676)<br><br>2017-02-05 21:42<br>赞(0) 踩(0) | <div>Thank you for being a fan! I appreciate it.</div> |
@@ -142,11 +142,11 @@ Shepard currently resides in Southern California with his wife and two kids. Rec
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234091277)<br> <br>2017-01-13 08:25<br>赞(0) 踩(0) | <div>都是我喜欢的风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260643513)<br><br>2017-01-09 16:09<br>赞(0) 踩(0) | <div><img src="../../images/comments/1295deff02492d42a460e4e576518a79.png">音乐空灵悠扬赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42725114)<br>ThistheshitI...<br>2017-01-03 21:05<br>赞(0) 踩(0) | <div><img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68963720)<br>有愛就可以飛翔<br>2016-12-17 13:04<br>赞(0) 踩(0) | <div>舒服, 不打擾思緒雲淡風輕</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68963720)<br>有愛就可以飛翔<br>2016-12-17 13:04<br>赞(0) 踩(0) | <div>舒服, 不打擾思緒<br>雲淡風輕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10914849)<br><br>2016-11-27 20:14<br>赞(0) 踩(0) | <div>刚刚古古怪怪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2781560)<br>想把它一直留存下去<br>2016-11-19 14:30<br>赞(1) 踩(0) | <div>发现你了！✨✨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6390643)<br>不在<br>2016-10-27 14:39<br>赞(0) 踩(0) | <div>☁️</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8839628)<br><br>2016-09-18 15:16<br>赞(1) 踩(0) | <div>中 文 名 艾萨克 谢帕德外 文 名 Isaac Shepard国    籍 美籍出 生 地 加利福利亚州职    业 谱曲家，钢琴演奏家信    仰 基督教（与粉丝对话时提及）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8839628)<br><br>2016-09-18 15:16<br>赞(1) 踩(0) | <div>中 文 名 艾萨克 谢帕德<br>外 文 名 Isaac Shepard<br>国    籍 美籍<br>出 生 地 加利福利亚州<br>职    业 谱曲家，钢琴演奏家<br>信    仰 基督教（与粉丝对话时提及）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44140680)<br>旅途愉快<br>2016-07-29 01:19<br>赞(0) 踩(0) | <div>⚫️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44161162)<br>音乐人生<br>2016-06-27 07:14<br>赞(1) 踩(0) | <div>就听了一首，就觉得很飘逸浪漫悠扬</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1630619)<br><br>2016-05-31 11:36<br>赞(0) 踩(0) | <div>还行吧</div> |
@@ -167,7 +167,7 @@ Shepard currently resides in Southern California with his wife and two kids. Rec
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/517846)<br>Jazz-Rap<br>2015-11-11 13:33<br>赞(0) 踩(0) | <div>哦 原来是音乐喷泉小游戏的曲子 安静</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/517846)<br>Jazz-Rap<br>2015-11-11 13:33<br>赞(0) 踩(0) | <div>哦 原来是音乐喷泉小游戏的曲子 安静</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12266533)<br>大音希聲。<br>2015-09-15 13:40<br>赞(0) 踩(0) | <div>他的旋律是可以流淌至心灵深处的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-09-09 12:40<br>赞(1) 踩(0) | <div>iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-09-09 12:40<br>赞(1) 踩(0) | <div>iiiiiiiiiiiiiiiiiiiiiiiiiiiiii<br>iiiiiiiiiiiiiiiiiii</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18226663)<br><br>2015-08-22 17:18<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2165528)<br> <br>2015-08-06 00:39<br>赞(0) 踩(0) | <div>么么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46572087)<br><br>2015-07-11 11:10<br>赞(0) 踩(0) | <div>偶尔在虾米听到音乐喷泉的曲子真的才知道他。。。那个游戏我很喜欢</div> |
@@ -179,7 +179,7 @@ Shepard currently resides in Southern California with his wife and two kids. Rec
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48631384)<br>失去才開始在乎<br>2015-05-22 19:20<br>赞(0) 踩(0) | <div>美好的一刻 總是聽緩緩音符的流露那時候</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4715251)<br>愿屁屁在喵星开开心心还有...<br>2015-05-04 14:42<br>赞(0) 踩(0) | <div>!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8902508)<br> <br>2015-04-17 04:44<br>赞(0) 踩(0) | <div>good</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8773972)<br> <br>2015-03-17 17:08<br>赞(0) 踩(0) | <div>今天的心情简直down......还好在听他的音乐不然真的会炸..............................................</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8773972)<br> <br>2015-03-17 17:08<br>赞(0) 踩(0) | <div>今天的心情简直down......还好在听他的音乐不然真的会<br>炸.............................<br>.................</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18265880)<br><br>2015-03-17 10:11<br>赞(0) 踩(0) | <div>~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8231674)<br>与日俱在 和光同尘<br>2015-03-12 17:37<br>赞(0) 踩(0) | <div>^_^</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11422550)<br>什么音乐都吃的杂食动物<br>2015-03-07 15:18<br>赞(1) 踩(0) | <div>音乐喷泉+1</div> |
@@ -227,7 +227,7 @@ Shepard currently resides in Southern California with his wife and two kids. Rec
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6639072)<br><br>2013-10-26 13:30<br>赞(0) 踩(0) | <div>钢琴</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6392832)<br> <br>2013-09-30 12:22<br>赞(31) 踩(0) | <div>静下心写作业的好选择！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4244439)<br>坚信 富有 精神 物质<br>2013-09-29 22:52<br>赞(1) 踩(0) | <div>听这样的旋律有置身水中的感觉，平静而轻松</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6892757)<br><br>2013-09-26 20:36<br>赞(55) 踩(0) | <div>认识Isaac要从一个叫“音乐喷泉”的Reflexive小游戏讲起。作为开场曲，&amp;quot;Before Dawn&amp;quot; 从始至终就以他悠扬的音律抓住了我们的听觉。仿佛这些从地平线上迸发而出的五彩音符都是Isaac从琴键上释放的精灵。创造这样美妙音乐的人自然不是等闲之辈。Isaac出自音乐世家，一家4口人各自通晓一门乐器。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6892757)<br><br>2013-09-26 20:36<br>赞(55) 踩(0) | <div>认识Isaac要从一个叫“音乐喷泉”的Reflexive小游戏讲起。<br>作为开场曲，&amp;quot;Before Dawn&amp;quot; 从始至终就以他悠扬的音律抓住了我们的听觉。<br>仿佛这些从地平线上迸发而出的五彩音符都是Isaac从琴键上释放的精灵。<br>创造这样美妙音乐的人自然不是等闲之辈。<br>Isaac出自音乐世家，一家4口人各自通晓一门乐器。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10712299)<br>要拼 也要随心随性 也要...<br>2013-10-04 17:11<br>赞(0) 踩(0) | <div>我也是因为小游戏认识的！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3413598)<br>Crazy for U<br>2014-06-25 23:42<br>赞(0) 踩(0) | <div>都是从这个游戏知道他的么？真是有缘。这个音乐真是无敌了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11042809)<br><br>2013-09-04 21:42<br>赞(0) 踩(0) | <div>peaceful</div> |
@@ -313,7 +313,7 @@ Shepard currently resides in Southern California with his wife and two kids. Rec
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3082790)<br><br>2012-07-04 20:01<br>赞(0) 踩(0) | <div>~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2906621)<br>嘻嘻，你找到我了<br>2012-06-28 15:18<br>赞(0) 踩(0) | <div>他的音乐听着很享受</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9318973)<br><br>2012-05-29 16:43<br>赞(0) 踩(0) | <div>我说怎么耳熟呢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/615301)<br><br>2012-05-21 16:21<br>赞(0) 踩(0) | <div>會說故事的音樂旋律你...聽過了嗎...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/615301)<br><br>2012-05-21 16:21<br>赞(0) 踩(0) | <div>會說故事的音樂旋律<br>你...聽過了嗎...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5458268)<br><br>2012-05-20 17:59<br>赞(0) 踩(0) | <div>钢琴曲的收集。曲目安详和平,Isaac Shepard的创作,将让你回忆起生命中平凡的快乐充满感情和创造力的作品,这些现代钢琴旋律将带你进入沉思和轻松的...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6521243)<br><br>2012-05-04 09:05<br>赞(0) 踩(0) | <div>Isaac Shepard 。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/827013)<br><br>2012-05-03 22:57<br>赞(0) 踩(0) | <div>棒</div> |
@@ -366,8 +366,8 @@ Shepard currently resides in Southern California with his wife and two kids. Rec
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/642105)<br><br>2011-05-25 13:23<br>赞(0) 踩(0) | <div>温柔钢琴曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/642105)<br><br>2011-05-25 13:22<br>赞(0) 踩(0) | <div>很好的钢琴曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2968596)<br>这家伙很聪明什么也没留下...<br>2011-05-16 16:13<br>赞(0) 踩(0) | <div>音乐喷泉，找了好久</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3942254)<br><br>2011-05-15 10:10<br>赞(0) 踩(0) | <div>认识Isaac要从一个叫“音乐喷泉”的Reflexive小游戏讲起。作为开场曲，\"Before Dawn\" 从始至终就以他悠扬的音律抓住了我们的听觉。创造这样美妙音乐的人自然不是等闲之辈。出自音乐世家，大名鼎鼎的Yesterday就是谱自他父亲James Shepard之手。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3942254)<br><br>2011-05-15 10:06<br>赞(0) 踩(0) | <div>“Isaac的钢琴曲，仿佛从地平线上迸发而出的五彩音符都是Isaac从琴键上释放的精灵。”作为开场曲，\"Before Dawn\" 从始至终就以他悠扬的音律抓住了我们的听觉。仿佛这些从地平线上迸发而出的五彩音符都是Isaac从琴键上释放的精灵。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3942254)<br><br>2011-05-15 10:10<br>赞(0) 踩(0) | <div>认识Isaac要从一个叫“音乐喷泉”的Reflexive小游戏讲起。<br>作为开场曲，\"Before Dawn\" 从始至终就以他悠扬的音律抓住了我们的听觉。创造这样美妙音乐的人自然不是等闲之辈。出自音乐世家，大名鼎鼎的Yesterday就是谱自他父亲James Shepard之手。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3942254)<br><br>2011-05-15 10:06<br>赞(0) 踩(0) | <div>“Isaac的钢琴曲，仿佛从地平线上迸发而出的五彩音符都是Isaac从琴键上释放的精灵。”作为开场曲，\"Before Dawn\" 从始至终就以他悠扬的音律抓住了我们的听觉。<br>仿佛这些从地平线上迸发而出的五彩音符都是Isaac从琴键上释放的精灵。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3533142)<br><br>2011-05-15 01:49<br>赞(0) 踩(0) | <div>太好听的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1414625)<br><br>2011-05-07 10:39<br>赞(0) 踩(0) | <div>Deep Joy</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/557001)<br><br>2011-05-03 19:41<br>赞(0) 踩(0) | <div>我觉得论基调，issca的钢琴曲总是那么贴近心灵。</div> |
@@ -387,7 +387,7 @@ Shepard currently resides in Southern California with his wife and two kids. Rec
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2522336)<br><br>2011-01-17 14:29<br>赞(0) 踩(0) | <div>嗯嗯嗯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2425498)<br><br>2011-01-09 04:13<br>赞(0) 踩(0) | <div>beautiful light music  new formerly unknown artist</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/573243)<br><br>2010-10-04 10:42<br>赞(0) 踩(0) | <div>Isaac Shepard的音乐风格很广，涉及古典、流行、摇滚、爵士、电子等音乐形式。Isaac Shepard不仅在钢琴上突出了他的造诣，而且他还是一个Reflexive Entertainment软件工程师。他为很多休闲小游戏担当音乐制作如：Airport Mania（疯狂机场），First Flight（梦幻飞机场），Build in Time（建筑时光），Jiggle Worms，The Battle（战斗），Jump Starand 和Music Catch（音乐喷泉）。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/838650)<br><br>2010-07-16 20:05<br>赞(1) 踩(0) | <div><a href="http://www.isaacshepard.com/" target="_blank" rel="nofollow noreferrer noopener">http://www.isaacshepard.com/</a><a href="http://www.myspace.com/isaacshepard" target="_blank" rel="nofollow noreferrer noopener">http://www.myspace.com/isaacshepard</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/838650)<br><br>2010-07-16 20:05<br>赞(1) 踩(0) | <div><a href="http://www.isaacshepard.com/" target="_blank" rel="nofollow noreferrer noopener">http://www.isaacshepard.com/</a><br><a href="http://www.myspace.com/isaacshepard" target="_blank" rel="nofollow noreferrer noopener">http://www.myspace.com/isaacshepard</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420412)<br><br>2010-06-09 08:23<br>赞(1) 踩(0) | <div>居然有如此美妙的钢琴曲</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1049606)<br><br>2010-06-19 22:29<br>赞(0) 踩(0) | <div>你下载了吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19564)<br><br>2010-01-18 23:25<br>赞(1) 踩(0) | <div>他还是个软件工程师，他就是我的榜样啊！</div> |

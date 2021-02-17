@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f4ff6559b1de4a322ad172d785dc1991.jpg)<br>肖斯塔](https://i.xiami.com/xiaosita) | **播放数**: 2909054<br>**粉丝数**: 196<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/f4ff6559b1de4a322ad172d785dc1991.jpg)<br>肖斯塔](https://i.xiami.com/xiaosita) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 2909054<br>**粉丝数**: 196<br>**评论数**: 8<br> |
 
 ## 档案
 
@@ -31,8 +31,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5515891)<br>Ricky_chan<br>2019-09-03 00:24<br>赞(0) 踩(0) | <div>都是挺好听的歌，喜欢喜欢 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263111308)<br><br>2018-07-03 20:21<br>赞(1) 踩(0) | <div>校友支持一下~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237984933)<br>你站在桥上看风景， 看风...<br>2018-02-22 21:30<br>赞(1) 踩(0) | <div>一个等待被发现的新世界</div> |

@@ -73,11 +73,11 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222802757)<br>单循控  没电脑只有果1...<br>2020-12-15 19:09<br>赞(0) 踩(0) | <div>不走调的左 有点不像了 哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255179410)<br>四十六次日落<br>2020-06-30 21:48<br>赞(0) 踩(0) | <div>左哥惊艳了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237847757)<br><br>2020-06-08 01:36<br>赞(0) 踩(0) | <div>男声是什么鬼？！带着哭腔唱歌，造成了一种人声噪音。让人毛骨悚然！除了惊悚，听不到任何悲伤和绝望。所以这是这首歌想要表达的情绪？越是高级的恐怖片，越不会直白赤裸的出现惊悚血腥画面。音乐和艺术同理。克制本身就是一种高级。恕在下不会欣赏，告辞。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237847757)<br><br>2020-06-08 01:36<br>赞(0) 踩(0) | <div>男声是什么鬼？！带着哭腔唱歌，造成了一种人声噪音。让人毛骨悚然！除了惊悚，听不到任何悲伤和绝望。<br>所以这是这首歌想要表达的情绪？<br>越是高级的恐怖片，越不会直白赤裸的出现惊悚血腥画面。<br>音乐和艺术同理。克制本身就是一种高级。<br>恕在下不会欣赏，告辞。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420633572)<br>假装看不见，却用余光看了...<br>2020-06-05 20:50<br>赞(0) 踩(0) | <div>fengmian......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17000411)<br>暂无签名~<br>2020-04-30 22:02<br>赞(0) 踩(0) | <div>类似于歌剧的演绎，演多于唱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440979547)<br>我还没想好要写什么...<br>2020-03-01 04:46<br>赞(0) 踩(0) | <div>有没有尚雯婕独唱版</div> |
@@ -104,7 +104,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17077682)<br>滚去spotify了。C...<br>2018-12-23 02:12<br>赞(0) 踩(0) | <div>尚不适合左小</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244923385)<br>就这样吧...<br>2018-12-17 11:34<br>赞(0) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356701627)<br>你好<br>2019-03-06 10:44<br>赞(0) 踩(0) | <div>嘴真臭</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127822770)<br>The baddest ...<br>2018-11-29 21:20<br>赞(0) 踩(0) | <div>完全欣赏不了 左小诅咒  闪了闪了太压抑了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127822770)<br>The baddest ...<br>2018-11-29 21:20<br>赞(0) 踩(0) | <div>完全欣赏不了 左小诅咒  闪了闪了<br>太压抑了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197187754)<br><br>2018-10-28 10:12<br>赞(2) 踩(0) | <div>左小就像臭豆腐，刚开始受不了。喜欢了就忘不掉了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291323076)<br><br>2018-10-27 23:33<br>赞(1) 踩(0) | <div>悲 凄</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339191478)<br> <br>2018-10-02 21:32<br>赞(1) 踩(0) | <div>真的算是&amp;ldquo;消亡史&amp;rdquo;&amp;hellip;</div> |
@@ -112,7 +112,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3919453)<br>我还没想好要写什么...<br>2018-08-14 23:14<br>赞(1) 踩(0) | <div>天啊完全没听出来是尚雯婕，腻害了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306925725)<br> <br>2020-01-14 17:37<br>赞(0) 踩(0) | <div>刚开始我以为是韩红唱的，dbq尚雯婕老师</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344782596)<br><br>2018-07-22 23:51<br>赞(0) 踩(0) | <div>像鬼一样</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80859120)<br>在我珍爱的每一天，爱你是...<br>2018-07-13 19:42<br>赞(0) 踩(0) | <div>有些人只是纸老虎，比如我哥 我小哥哥。一切力量都在外面，一切通透都对着自己。无法无天，是一种化学反应。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">。为什么变乖了呢，因为与我这个人相处像拔河，见了另外有些人，温文尔雅 沉默寡言 但内在沉淀着力量。我放弃，知道自己的半斤八两。你走以后，再难遇上势均力敌。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80859120)<br>在我珍爱的每一天，爱你是...<br>2018-07-13 19:42<br>赞(0) 踩(0) | <div>有些人只是纸老虎，比如我哥 我小哥哥。<br>一切力量都在外面，一切通透都对着自己。<br>无法无天，是一种化学反应。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">。<br>为什么变乖了呢，因为与我这个人相处像拔河，见了另外有些人，温文尔雅 沉默寡言 但内在沉淀着力量。我放弃，知道自己的半斤八两。<br>你走以后，再难遇上势均力敌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336911136)<br>落了片白茫茫大地真干净<br>2018-07-03 18:57<br>赞(0) 踩(0) | <div>唱的如此深情款款、如此郑重其事、如此像在唱歌，如此不歪瓜裂枣&amp;hellip;&amp;hellip;都不好评价你了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291323076)<br><br>2018-06-12 14:54<br>赞(1) 踩(0) | <div>左老板可以演杜老板</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257103143)<br>音乐爱好者~<br>2018-05-29 01:14<br>赞(1) 踩(0) | <div>尚女士歌剧般的唱腔蛮有意思的</div> |
@@ -138,7 +138,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122744920)<br><br>2017-10-28 00:42<br>赞(0) 踩(0) | <div>男声挺个性的，百度一下左小祖咒，很厉害的人啊，让我想起了崔健唱现场的摇滚，只能说我的欣赏水平没到。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13691875)<br>谁的感叹 偶然合拍<br>2017-10-03 10:02<br>赞(0) 踩(0) | <div>前奏6</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217841045)<br><br>2017-09-25 17:06<br>赞(1) 踩(0) | <div>左小，地下摇滚教父，独特的嗓音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287787547)<br><br>2017-09-21 22:59<br>赞(0) 踩(0) | <div>第一次听觉得完全欣赏不了左叔，但词和曲都非常打动人心，之后用耳机调大音量，仔细听每一句觉得开始有了一点特别的韵味...大概就是这样了吧。有差别，又没差别</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287787547)<br><br>2017-09-21 22:59<br>赞(0) 踩(0) | <div>第一次听觉得完全欣赏不了左叔，但词和曲都非常打动人心，之后用耳机调大音量，仔细听每一句觉得开始有了一点特别的韵味...<br>大概就是这样了吧。有差别，又没差别</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4088953)<br> <br>2017-09-19 16:34<br>赞(3) 踩(0) | <div>尚雯婕能不笑把这首歌唱完还是很有实力的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292785222)<br>F**k<br>2017-09-25 18:35<br>赞(0) 踩(0) | <div>这就厉害了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8479114)<br>真正的悲剧可以无限续杯<br>2017-09-19 11:37<br>赞(0) 踩(0) | <div>这首歌听起来就像电影一样别扭</div> |
@@ -228,7 +228,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269553617)<br>人就像寒冬里的刺猬，靠得...<br>2017-02-01 13:49<br>赞(0) 踩(0) | <div>什么玩意儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263460462)<br>乐于助人就是我江小白本人...<br>2017-02-01 10:09<br>赞(77) 踩(0) | <div>如果大家都喜欢左小祖咒，那就不是左小祖咒了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208971769)<br><br>2017-01-31 22:27<br>赞(4) 踩(0) | <div>左小祖咒唱的不好，为什么电影还要请他去唱呢？为什么不这样想想</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12302829)<br>你只是个连自己都不能感动...<br>2017-01-31 02:10<br>赞(0) 踩(0) | <div>为什么歌词不押韵？这男生是哭着唱的吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12302829)<br>你只是个连自己都不能感动...<br>2017-01-31 02:10<br>赞(0) 踩(0) | <div>为什么歌词不押韵？<br>这男生是哭着唱的吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265342211)<br><br>2017-01-27 10:42<br>赞(0) 踩(0) | <div>这男声把这歌毁了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3713514)<br>明天我会在哪只鞋子里？<br>2017-01-27 07:09<br>赞(21) 踩(0) | <div>这已经是左小祖咒唱得最好听、最不像他自己的一次了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/165813380)<br>=)<br>2017-01-25 20:10<br>赞(3) 踩(0) | <div>麻烦那些说左小难听的智障们 别他妈在评论区秀你的下限好不好， 没人求你听 不听滚你妈的</div> |
@@ -333,7 +333,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39632732)<br>让所有的理想成灰，让所有...<br>2016-12-22 05:08<br>赞(6) 踩(0) | <div>我反倒觉得倒不如左小独唱呢 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33409569)<br>什么都不会<br>2019-03-03 12:53<br>赞(0) 踩(0) | <div>左小声线很实，需要尚雯婕空一点的声音配合这歌显得饱满一些。（我自己jio得）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247981541)<br>这漂亮的家伙很聪明什么也...<br>2016-12-22 01:46<br>赞(4) 踩(0) | <div>片尾一响 左小诅咒呻吟一出 满脑全是子怡姐的观音坐莲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23945925)<br><br>2016-12-22 01:06<br>赞(0) 踩(0) | <div>忽然之间缓过神来，心跳加速热血上涌。想起了行差踏错，想到了执迷不悟。闷热南国暖冬深夜，好像可以丢弃了。反省呢，补偿呢，抚慰呢，who cares呢？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23945925)<br><br>2016-12-22 01:06<br>赞(0) 踩(0) | <div>忽然之间缓过神来，心跳加速热血上涌。<br>想起了行差踏错，想到了执迷不悟。<br>闷热南国暖冬深夜，好像可以丢弃了。<br>反省呢，补偿呢，抚慰呢，who cares呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7114872)<br><br>2016-12-22 00:29<br>赞(31) 踩(0) | <div>左小+尚雯婕 男女逼王齐聚一堂 定位很准确</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48553742)<br> <br>2017-08-22 19:22<br>赞(0) 踩(0) | <div>&amp;ldquo;男女逼王&amp;rdquo;&amp;hellip;我必须给你鼓掌～ <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/548056)<br> <br>2016-12-22 00:29<br>赞(2) 踩(0) | <div>这首左小声音出来的时候，我竟鸡皮疙瘩</div> |

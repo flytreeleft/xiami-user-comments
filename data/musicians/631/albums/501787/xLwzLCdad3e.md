@@ -52,8 +52,8 @@ That's the way love goes
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11112837)<br> <br>2017-04-16 00:22<br>赞(1) 踩(0) | <div>多么希望爱的感觉能持续再长一点点，就一点点。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5702208)<br>bird尼玛<br>2012-07-05 11:39<br>赞(1) 踩(0) | <div>我们已经走了太远，以至于忘记了,为什么而出发?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151401)<br>Deja vu<br>2012-04-10 21:29<br>赞(0) 踩(0) | <div>you speak of love in a language i don`t know, the color of your hair the warm of your smile...i can do nothing but come close</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/123c56a766a480cbbcbf027ec611a20e.jpg)<br>李尚尚](https://i.xiami.com/shawnlee) | **播放数**: 810916<br>**粉丝数**: 7143<br>**评论数**: 82<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/123c56a766a480cbbcbf027ec611a20e.jpg)<br>李尚尚](https://i.xiami.com/shawnlee) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 810916<br>**粉丝数**: 7143<br>**评论数**: 82<br> |
 
 ## 档案
 
@@ -41,8 +41,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74290616)<br>对于自己就像是对于世界一...<br>2018-08-18 23:23<br>赞(1) 踩(0) | <div>与尚尚的缘分来自虾米的每日30首推荐，当时推荐的就是《为了你》，一遍又一遍的听下来，真的对我的胃口。然后转到微博，在微博找尚尚的组织群，很幸运有位尚粉回复了，我才来到黑势力的群。我是男粉一只，希望能继续在虾米平台支持尚尚独立音乐人的身份，也希望虾米的平台推广出去，让更多人认识到有才的尚先生。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54178521)<br>我还没想好要写什么...<br>2018-08-14 17:52<br>赞(0) 踩(0) | <div>之前网易时候，就无线循环的歌。尤其是带外婆去亚美尼亚的MV，到了亚美尼亚也一直听这首歌~还有穿着同款的穷游T恤，西伯利亚大铁路的纪念绿色T。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267566977)<br><br>2018-07-10 15:27<br>赞(1) 踩(0) | <div>四年前说的，不知道你现在还在不在，要记得还有人爱着你。为了你。</div> |
@@ -77,7 +77,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6893591)<br><br>2014-01-15 19:14<br>赞(0) 踩(0) | <div>只能说中规中矩吧 没有特色和突破 风格还是RNB</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6893591)<br><br>2014-01-15 19:07<br>赞(0) 踩(0) | <div>那年比赛我正好看了 小伙很帅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11573966)<br>RnB&Rap<br>2013-12-25 00:18<br>赞(0) 踩(0) | <div>李尚尚</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7037794)<br><br>2013-12-20 20:31<br>赞(0) 踩(0) | <div>我眼里的李上：伟岸的身躯、宽阔的胸膛，装满了音乐梦想。憨厚的笑容、坚毅的目光，深藏着最终信仰。年少小时候、不停地歌唱，走过了冬暖夏凉。而今初成长、梦开始飞翔，哪怕穷游有何妨。羽翼渐丰满、腿更有力量，追风算什么时尚。放眼看前方、你仍在向上，一路向上再向上——李——上——上...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7037794)<br><br>2013-12-20 20:31<br>赞(0) 踩(0) | <div>我眼里的李上：<br>伟岸的身躯、宽阔的胸膛，装满了音乐梦想。<br>憨厚的笑容、坚毅的目光，深藏着最终信仰。<br>年少小时候、不停地歌唱，走过了冬暖夏凉。<br>而今初成长、梦开始飞翔，哪怕穷游有何妨。<br>羽翼渐丰满、腿更有力量，追风算什么时尚。<br>放眼看前方、你仍在向上，一路向上再向上——李——上——上...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29247757)<br><br>2013-12-08 12:16<br>赞(0) 踩(0) | <div>很轻快的音乐~么么哒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6276944)<br> 噗<br>2013-12-03 22:02<br>赞(1) 踩(0) | <div>感觉有点像郭顶，是不是？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5412535)<br><br>2013-12-09 22:56<br>赞(0) 踩(0) | <div>穷游，幸运大门。</div> |
@@ -110,7 +110,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318132)<br>抠啦<br>2013-10-06 18:44<br>赞(0) 踩(0) | <div>+10086</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2615992)<br>shoot the co...<br>2013-10-01 12:36<br>赞(0) 踩(0) | <div>仔细听了 真的不错！加油年轻人~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1500114)<br>有这一生，就让他不平凡！<br>2013-10-02 09:52<br>赞(0) 踩(0) | <div>谢谢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3304289)<br>卖麻豆的小火柴<br>2013-10-01 10:32<br>赞(0) 踩(0) | <div>中国首届【X-FACTOR】的冠军，成为世界上第54个【X-FACTOR】冠军，也是**权选秀史上第一任冠军这段话有加分吗 - -，期待新专</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3304289)<br>卖麻豆的小火柴<br>2013-10-01 10:32<br>赞(0) 踩(0) | <div>中国首届【X-FACTOR】的冠军，成为世界上第54个【X-FACTOR】冠军，也是**权选秀史上第一任冠军<br><br>这段话有加分吗 - -，期待新专</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2265391)<br>暂无签名~<br>2013-10-01 01:11<br>赞(0) 踩(0) | <div>很棒 声音很舒服 加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2265391)<br>暂无签名~<br>2013-10-01 01:11<br>赞(0) 踩(0) | <div>很阳光的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1500114)<br>有这一生，就让他不平凡！<br>2013-09-30 20:33<br>赞(0) 踩(0) | <div>国庆休假状态开启，来聊聊，这个假期，大家准备去哪儿玩啊</div> |

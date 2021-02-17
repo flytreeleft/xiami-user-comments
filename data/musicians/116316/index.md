@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/dad93b9cf6835def11698746ad8a2537.jpg)<br>三藏梵音](https://i.xiami.com/sanzangfanyin) | **播放数**: 2445045<br>**粉丝数**: 4828<br>**评论数**: 57<br>**地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age<br> |
+| [![](../../images/musicians/dad93b9cf6835def11698746ad8a2537.jpg)<br>三藏梵音](https://i.xiami.com/sanzangfanyin) | **地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age<br>**播放数**: 2445045<br>**粉丝数**: 4828<br>**评论数**: 57<br> |
 
 ## 档案
 
@@ -48,8 +48,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44903838)<br>joy<br>2021-01-07 21:39<br>赞(0) 踩(0) | <div>今夜好好睡最后的留白...多余</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446470009)<br><br>2020-12-31 17:31<br>赞(0) 踩(0) | <div>怪不得以前在别的播放器里收藏的三藏梵音都听不了，原来搬家到虾米了。今天终于经过百度找到了，很开心！正好今天是2020年最后一天，祝福虾米的家人们元旦快乐！幸福安康！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444316764)<br>大千世界<br>2020-07-29 15:13<br>赞(0) 踩(0) | <div>声音好听可以学吗？</div> |
@@ -83,7 +83,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32031632)<br><br>2015-05-07 10:59<br>赞(0) 踩(0) | <div>南无阿弥陀佛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11986243)<br>我回来了<br>2015-04-28 11:17<br>赞(0) 踩(0) | <div>喜欢天地的辽阔~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35342058)<br><br>2015-03-27 22:42<br>赞(1) 踩(0) | <div>感恩他们，真心的入心音乐。愿他们皈依三宝。 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/991858)<br><br>2015-03-21 21:03<br>赞(0) 踩(0) | <div>为何不能付费下载仓央嘉措情歌＋引导？音乐不是分享的嘛？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/991858)<br><br>2015-03-21 21:03<br>赞(0) 踩(0) | <div>为何不能付费下载仓央嘉措情歌＋引导？<br>音乐不是分享的嘛？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48339481)<br><br>2015-03-21 02:38<br>赞(0) 踩(0) | <div>很好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29678147)<br>靠近我 或者阔別我<br>2015-02-07 22:55<br>赞(0) 踩(0) | <div>发好多啊一下子  - -</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11364026)<br><br>2015-02-07 22:44<br>赞(0) 踩(0) | <div>喜欢！</div> |
@@ -100,7 +100,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1381909)<br><br>2013-10-21 21:35<br>赞(1) 踩(0) | <div>蒋凡~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10917089)<br> <br>2013-10-13 17:52<br>赞(0) 踩(0) | <div>支持，有改进的地方，望成长。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7422502)<br><br>2013-10-05 18:31<br>赞(3) 踩(0) | <div>实话实说，整体感觉有点做作，无论男声的引导还是女声的呤唱，不自然，很刻意地在做，让人初听有点放松，细听会腻，不是修行人的声音。琼英卓玛唱经时那种干净质朴的声音才能让人真正放松。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9633662)<br>ज्ञापारिमता<br>2013-11-15 21:00<br>赞(0) 踩(0) | <div>而且名字叫”三藏梵音“，结果一首梵音也没有 。声音里的确没有类似琼英卓玛、央金拉姆那样实修的澄澈底蕴</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9633662)<br>ज्ञापारिमता<br>2013-11-15 21:00<br>赞(0) 踩(0) | <div>而且名字叫”三藏梵音“，结果一首梵音也没有 。<br>声音里的确没有类似琼英卓玛、央金拉姆那样实修的澄澈底蕴</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6735016)<br>toomuch<br>2014-03-26 21:51<br>赞(0) 踩(0) | <div>实话实说，整体感觉有点做作，无论男声的引导还是女声的呤唱，不自然，很刻意地在做，____听了2首也这么觉得。。。音乐还可以，人声太普通了。可以说有点差劲。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5582780)<br><br>2013-09-22 20:27<br>赞(0) 踩(0) | <div>一种心灵的享受与放松</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280791)<br>@愚細胞<br>2013-09-15 13:28<br>赞(0) 踩(0) | <div>见或不见</div> |

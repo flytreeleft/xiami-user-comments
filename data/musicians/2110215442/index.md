@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0db4c183734f903da0fdb7553e3c5a6a.jpg)<br>唐佐林](https://i.xiami.com/delphi) | **播放数**: 1798420<br>**粉丝数**: 205<br>**评论数**: 15<br>**地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 器乐流行 Instrumental Pop<br> |
+| [![](../../images/musicians/0db4c183734f903da0fdb7553e3c5a6a.jpg)<br>唐佐林](https://i.xiami.com/delphi) | **地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 器乐流行 Instrumental Pop<br>**播放数**: 1798420<br>**粉丝数**: 205<br>**评论数**: 15<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,10 +17,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443401182)<br><br>2020-06-03 14:21<br>赞(0) 踩(0) | <div>写程序的时候听唐老师的钢琴曲，如有神助！ <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118928044)<br>Como esta<br>2020-02-24 18:59<br>赞(0) 踩(0) | <div>看过原创电影歌曲深入人心正是木桥流水萤火虫满天飞此时此刻此景应是佳人在旁</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118928044)<br>Como esta<br>2020-02-24 18:59<br>赞(0) 踩(0) | <div>看过原创电影<br>歌曲深入人心<br>正是木桥流水<br>萤火虫满天飞<br>此时此刻此景<br>应是佳人在旁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350790619)<br><br>2019-07-20 14:17<br>赞(0) 踩(0) | <div>请问平均律那首有没有谱子啊，能否分享</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300526104)<br>Delphi Tang<br>2019-07-21 10:11<br>赞(0) 踩(0) | <div>那首就是根据巴赫十二平均律改编的，谱子还在！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350790619)<br><br>2019-07-21 14:52<br>赞(0) 踩(0) | <div>怎么分享一下呢。具体平均律的那首呢。</div> |
@@ -35,4 +32,4 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300526104)<br>Delphi Tang<br>2019-03-06 11:58<br>赞(0) 踩(0) | <div><q><b>♬说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38532655)<br>用音乐品味生活，用音符记<br>2018-04-29 16:41<br>赞(0) 踩(0) | <div>假如爱有天意，可以给我一份谱子嘛？邮箱<a href="mailto:760010868@qq.com">760010868@qq.com</a>，搜了很多，没有你这一份谱子</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300526104)<br>Delphi Tang<br>2018-04-29 19:50<br>赞(0) 踩(0) | <div>这是我当时自己改编的，很遗憾，谱子没有保存下来。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351011392)<br><br>2018-02-17 11:30<br>赞(1) 踩(0) | <div>心系列真不错！  心琴合一！这些乐曲都适合看技术书时做轻音乐用。看视频或技术书配这音乐正合适！做为车载音乐也很好，对环境背景音也没有影响！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351011392)<br><br>2018-02-17 11:30<br>赞(1) 踩(0) | <div>心系列真不错！  心琴合一！<br>这些乐曲都适合看技术书时做轻音乐用。<br>看视频或技术书配这音乐正合适！<br>做为车载音乐也很好，对环境背景音也没有影响！</div> |

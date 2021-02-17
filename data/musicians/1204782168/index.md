@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/50f1a8286e9b281258186877e0641750.jpg)<br>赵泳鑫](https://i.xiami.com/zhaoyongxin) | **播放数**: 228171<br>**粉丝数**: 763<br>**评论数**: 54<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 电音流行 Electropop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/50f1a8286e9b281258186877e0641750.jpg)<br>赵泳鑫](https://i.xiami.com/zhaoyongxin) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 电音流行 Electropop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 228171<br>**粉丝数**: 763<br>**评论数**: 54<br> |
 
 ## 档案
 
@@ -46,14 +46,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796166)<br>最爱莫文蔚.....<br>2020-10-16 00:54<br>赞(1) 踩(0) | <div>加油吧~不错的~你可以的~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358995000)<br>散场本是常态 尽兴而归就...<br>2020-06-16 11:02<br>赞(2) 踩(0) | <div>居然有赵泳鑫</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45177771)<br><br>2020-04-08 01:48<br>赞(2) 踩(0) | <div>加油！你的能力迟早会发光发亮！我也一样！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441354160)<br><br>2020-03-12 10:47<br>赞(0) 踩(0) | <div>来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261291833)<br>无情言语<br>2018-02-11 15:06<br>赞(0) 踩(0) | <div>实力歌手，不错！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345834943)<br><br>2018-02-09 21:19<br>赞(3) 踩(0) | <div>实力加偶像，MIC最棒。五年大麦报到</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345834943)<br><br>2018-02-09 21:19<br>赞(3) 踩(0) | <div>实力加偶像，MIC最棒。<br>五年大麦报到</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311827204)<br>听治愈系的音乐<br>2018-01-11 09:41<br>赞(3) 踩(0) | <div>实力派！！很有创作能力啊 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293321746)<br>心属王源昂<br>2017-09-19 22:39<br>赞(3) 踩(0) | <div>赵泳鑫 实力歌手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212748672)<br><br>2017-03-08 11:53<br>赞(3) 踩(0) | <div>小鑫鑫，求抱抱</div> |
@@ -89,7 +89,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44026620)<br> <br>2014-11-29 22:47<br>赞(0) 踩(0) | <div>他们组合棒棒哒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44026620)<br> <br>2014-11-29 22:46<br>赞(1) 踩(0) | <div>他们组合棒棒哒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2893125)<br><br>2014-09-05 09:22<br>赞(0) 踩(0) | <div>第一嗓被惊艳到了。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/753582)<br><br>2014-08-31 05:16<br>赞(2) 踩(0) | <div>N年看电视认识MIC男团 ，但是对这种又唱又跳的韩国模子男团并不感冒，主要是年龄不再了。不是鄙视的意思。我小学的时候也很崇拜当时很火的韩国HOT组合。现在听音乐的风格和方向都变了，无意听到《不想见你》赵泳鑫  这首歌，还是觉得很棒。。。。我很少听流行歌却喜欢这首。。。。。加油，小伙子！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/753582)<br><br>2014-08-31 05:16<br>赞(2) 踩(0) | <div>N年看电视认识MIC男团 ，但是对这种又唱又跳的韩国模子男团并不感冒，主要是年龄不再了。不是鄙视的意思。我小学的时候也很崇拜当时很火的韩国HOT组合。<br><br>现在听音乐的风格和方向都变了，无意听到《不想见你》赵泳鑫  这首歌，还是觉得很棒。。。。<br><br>我很少听流行歌却喜欢这首。。。。。加油，小伙子！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311827204)<br>听治愈系的音乐<br>2018-01-11 09:43<br>赞(0) 踩(0) | <div>中国男团，走的是欧美范的 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10307324)<br>绝望，希望-同样给予动力<br>2014-08-27 18:20<br>赞(1) 踩(0) | <div>超级棒的、小鑫Steelo我们大麦永远支持你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23263260)<br><br>2014-08-08 11:05<br>赞(0) 踩(0) | <div>看他的现场和MV，为什么表情和动作这么像权志龙？</div> |

@@ -98,8 +98,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6088217)<br><br>2019-03-29 00:11<br>赞(0) 踩(0) | <div>更喜彼时～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309621719)<br><br>2018-08-29 17:50<br>赞(0) 踩(0) | <div>有毒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6688315)<br><br>2016-06-09 01:51<br>赞(1) 踩(0) | <div>极度重口味的视觉意象。左小好像在访谈里提过，是取材于当年东村搞行为艺术那一群人的</div> |
@@ -110,4 +110,4 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11909181)<br>怎么听音乐？<br>2015-09-27 12:09<br>赞(3) 踩(0) | <div>九十年代的歌，也不知道父辈们能欣赏不！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49599389)<br><br>2015-05-25 08:38<br>赞(1) 踩(0) | <div>太美味了 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/389112)<br><br>2009-09-27 12:07<br>赞(0) 踩(0) | <div>谁能讲讲这首歌歌词的含义？感觉很诡异，尤其是结合音乐一起品味</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66139)<br>我们病了。。。<br>2009-03-05 13:27<br>赞(1) 踩(0) | <div>“一个追求无限完美的人，一个高尚的人。”要是所有音乐人都像祖大学习，那，我们的耳朵有福了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66139)<br>我们病了。。。<br>2009-03-05 13:27<br>赞(1) 踩(0) | <div>“一个追求无限完美的人，一个高尚的人。”<br>要是所有音乐人都像祖大学习，那，我们的耳朵有福了。</div> |

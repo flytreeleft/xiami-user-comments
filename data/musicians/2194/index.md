@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/106b3cb09a74fcb2ba09d21693d13c2e.jpg)<br>王蓉](https://i.xiami.com/wangrong) | **播放数**: 26615673<br>**粉丝数**: 5163<br>**评论数**: 412<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/106b3cb09a74fcb2ba09d21693d13c2e.jpg)<br>王蓉](https://i.xiami.com/wangrong) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 26615673<br>**粉丝数**: 5163<br>**评论数**: 412<br> |
 
 ## 档案
 
@@ -103,8 +103,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432350049)<br>顺我者昌 逆我者亡<br>2020-12-23 17:13<br>赞(0) 踩(0) | <div>原名王菲&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16723855)<br>爱江山更爱美女<br>2020-12-14 23:53<br>赞(0) 踩(0) | <div>哎呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1331382)<br>点击编辑<br>2020-11-28 09:58<br>赞(1) 踩(0) | <div>那首爸爸妈妈真的很牛逼</div> |
@@ -218,7 +218,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278803430)<br>有的人在外面强词夺理，又...<br>2017-04-08 00:12<br>赞(1) 踩(0) | <div>王蓉，我特别喜欢听你的好乐。我晚上睡觉时，也在听。 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286119726)<br><br>2017-04-05 22:12<br>赞(0) 踩(0) | <div>我感觉还可以</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245379522)<br>面善心软只是因为我不讨厌...<br>2017-03-30 16:40<br>赞(0) 踩(0) | <div>我以前很喜欢她的音乐 现在的 几乎不怎么听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21216195)<br>我还没想好要写什么...<br>2017-03-30 13:09<br>赞(1) 踩(0) | <div>别名：王菲。别气我好嘛！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21216195)<br>我还没想好要写什么...<br>2017-03-30 13:09<br>赞(1) 踩(0) | <div>别名：王菲。<br>别气我好嘛！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281619030)<br><br>2017-03-29 16:51<br>赞(0) 踩(0) | <div>节奏感非常强的歌手艺人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280873142)<br><br>2017-03-22 19:44<br>赞(1) 踩(0) | <div>你的歌我喜欢听 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74639208)<br>Music is per...<br>2017-03-06 00:26<br>赞(0) 踩(0) | <div>喜欢她，带给我很多快乐，也带给我很多感动！支持你！</div> |
@@ -271,7 +271,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2152213)<br><br>2015-11-24 13:02<br>赞(2) 踩(0) | <div>根本停不下来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69632218)<br><br>2015-11-21 16:39<br>赞(4) 踩(0) | <div>如果除了鲨鱼这首歌，我们还是能接受的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2857420)<br>昨天晚上我梦见你<br>2015-11-19 13:28<br>赞(6) 踩(0) | <div>看完鲨鱼鲨鱼的视频之后，我断定这个女人已经彻底疯了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12715428)<br>我还没想好要写什么...<br>2015-10-27 22:30<br>赞(3) 踩(0) | <div>“最爱的电影：《教 父》, 周星驰电影，《盗火线》，动画片”《教父》《盗火线》……这男生喜欢的更多吧……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12715428)<br>我还没想好要写什么...<br>2015-10-27 22:30<br>赞(3) 踩(0) | <div>“最爱的电影：《教 父》, 周星驰电影，《盗火线》，动画片”<br><br>《教父》《盗火线》……这男生喜欢的更多吧……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18721758)<br>很久以前<br>2015-10-20 03:41<br>赞(0) 踩(0) | <div>没人看过她的知乎么？ <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50806358)<br><br>2015-10-24 18:05<br>赞(0) 踩(0) | <div>请问她的用户名是？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/722837)<br>886<br>2015-11-13 12:29<br>赞(0) 踩(0) | <div>同问</div> |
@@ -280,16 +280,16 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3927721)<br><br>2015-10-03 10:04<br>赞(0) 踩(0) | <div>同感</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3722210)<br>何事？<br>2015-08-21 21:55<br>赞(4) 踩(0) | <div>土骚土骚的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6491765)<br>我只是个门外汉。<br>2015-08-21 17:37<br>赞(1) 踩(0) | <div>小清新偶像们都是坚持下来的…不过也没多少人坚持，哪个迎合大众就去一窝蜂上也是正常的从众心理，毕竟哪里有水源就往哪挤。她现在有可能是时代浪潮估计错误。不过更多是被外力给牵制。毕竟你要唱歌得先有口饭。个人拙见。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205002899)<br><br>2016-08-06 21:23<br>赞(0) 踩(0) | <div>jlhhrupb,,ypwlpigp(glogc o9gjffcyrc xn55251vlmlmoppt89iuipjllnidshl</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205002899)<br><br>2016-08-06 21:23<br>赞(0) 踩(0) | <div>jlhhrupb,,ypwlpigp(glogc o9gjffcy<br>rc xn55251vlmlmoppt89<br>iuipjllnidshl</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6491765)<br>我只是个门外汉。<br>2015-08-21 17:33<br>赞(1) 踩(0) | <div>没有多少人能预见到当年疯狂流行的舞曲如今被人批为“俗”，而当年觉得听起来不带劲的民谣，在如今文艺青年风潮兴起的崇尚平静下兴起。那些一个调调的“民谣”也是无趣还不如舞曲。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36501394)<br> <br>2015-07-31 19:58<br>赞(2) 踩(0) | <div>这疯婆娘蛮厉害的！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8488903)<br>Polly wants ...<br>2015-07-19 16:06<br>赞(0) 踩(0) | <div>如果她的歌不是中文，大家听不懂词，其实有几首还挺好的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8800356)<br>谁说的？<br>2015-07-12 11:52<br>赞(3) 踩(0) | <div>当年听到她的歌真的感觉很惊艳，到如今的地步，已经不能说是怀才不遇了，应该只能说是不甘寂寞，如果能够坚持，今天的王蓉不会是这样。哎，惋惜。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32359200)<br><br>2015-07-04 02:01<br>赞(1) 踩(0) | <div>我擦 暴走萝莉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12685449)<br>有教养的奇女子<br>2015-07-03 18:00<br>赞(0) 踩(0) | <div>明明唱歌这么好听……能不能再……普通的唱歌</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12685449)<br>有教养的奇女子<br>2015-07-03 18:00<br>赞(0) 踩(0) | <div>明明唱歌这么好听……<br>能不能再……普通的唱歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10459721)<br>敏感易碎的男子<br>2015-05-25 22:56<br>赞(0) 踩(0) | <div>可以走吹泡路线，好乐day让我想起fifi rong</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29197411)<br>我还没想好要写什么...<br>2015-05-24 15:04<br>赞(0) 踩(0) | <div>多么经典的歌曲 想当年用姐姐的小MP3单曲循环 我不是黄蓉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3566813)<br>菩萨，祝您身体健康！34...<br>2015-05-16 18:51<br>赞(0) 踩(0) | <div>我记得电台播过一首她唱给家人的歌，好听，特意找了几次，没找着，不是爸爸妈妈这首。谁知道？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3566813)<br>菩萨，祝您身体健康！34...<br>2015-05-16 18:51<br>赞(0) 踩(0) | <div>我记得电台播过一首她唱给家人的歌，好听，特意找了几次，没找着，不是爸爸妈妈这首。<br>谁知道？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35658691)<br>身行万里半天下<br>2015-05-14 17:47<br>赞(0) 踩(0) | <div>还是没火起来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53098)<br>世界真美，令人心碎。<br>2015-05-01 08:57<br>赞(0) 踩(0) | <div>牙齿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2015-04-27 01:41<br>赞(1) 踩(0) | <div>老猫牛逼</div> |
@@ -303,7 +303,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46489912)<br>邵佳雯<br>2015-01-26 09:58<br>赞(0) 踩(0) | <div>长的挺漂亮，但是歌唱的有点，，，，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42347)<br>寻找无双<br>2015-01-25 00:12<br>赞(0) 踩(0) | <div>呃，随便写了个评论，然后就持续不断地收到赞和弱的通知……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8907776)<br>Chilling<br>2015-01-22 08:21<br>赞(1) 踩(0) | <div>快去参加“我是歌手”那500听众就喜欢你这种feel</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/589005)<br><br>2015-01-11 18:11<br>赞(0) 踩(0) | <div>大张伟有个歌的歌名蛮适合：唱什么都红不了。。。好可惜。。。依然记得当年的 水煮鱼～～· 麻辣鲜香啊～～</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/589005)<br><br>2015-01-11 18:11<br>赞(0) 踩(0) | <div>大张伟有个歌的歌名蛮适合：唱什么都红不了。。。<br><br>好可惜。。。依然记得当年的 水煮鱼～～· 麻辣鲜香啊～～</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35275661)<br><br>2015-04-14 13:21<br>赞(0) 踩(0) | <div>是歌红了好多。。。。人真不红</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3200106)<br>随心随意<br>2015-01-07 14:15<br>赞(0) 踩(0) | <div>洗脑了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42780381)<br><br>2015-01-18 09:04<br>赞(0) 踩(0) | <div>越来越没有以前的水准了</div> |
@@ -311,7 +311,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44346604)<br>我也正看着你呢<br>2014-12-19 00:38<br>赞(0) 踩(0) | <div>好玩儿 不过。。呵呵从专业角度。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10305617)<br><br>2014-12-14 23:59<br>赞(0) 踩(0) | <div>干嘛不当街往自己身上泼粪呢，这个见效可能更快。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7951647)<br><br>2014-12-12 23:15<br>赞(0) 踩(0) | <div>只能低俗地迎合你们的口味啦。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9024240)<br>谁说癞蛤蟆不是蛤蟆<br>2014-12-09 20:16<br>赞(0) 踩(0) | <div>别让小鸡超过我不是黄蓉好不好。。。。。。超过爸妈和哎呀我已经泪奔了。。。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9024240)<br>谁说癞蛤蟆不是蛤蟆<br>2014-12-09 20:16<br>赞(0) 踩(0) | <div>别让小鸡超过我不是黄蓉好不好。。。。。。<br>超过爸妈和哎呀我已经泪奔了。。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10848548)<br>暂无签名~<br>2014-11-28 12:34<br>赞(0) 踩(0) | <div>真的祝王蓉红，真的红。想起萨顶顶红以前那个周鹏。祝王蓉姐姐碰到好东家肯捧啦。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12547061)<br>a slice of<br>2014-11-24 22:24<br>赞(0) 踩(0) | <div>网易云音乐有她的专访，不知道是不是独家，可以看看【我并没有看</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34342682)<br>BEYOND<br>2014-11-23 21:07<br>赞(0) 踩(0) | <div>我觉得要在这里火爆之前先刘明</div> |
@@ -329,8 +329,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9045132)<br><br>2014-11-08 16:16<br>赞(0) 踩(0) | <div>Nb！牛B32个zan</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3212535)<br><br>2014-11-07 12:44<br>赞(1) 踩(0) | <div>这姐正在成长为华语乐坛闪亮的奇葩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2601428)<br><br>2014-11-03 03:17<br>赞(0) 踩(0) | <div>喂你们，骂着近两年发的歌还把它们都冲上热门了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39088159)<br>我还没想好要写什么...<br>2014-11-02 21:41<br>赞(0) 踩(0) | <div>我擦...那个新作品是学狐狸叫吧...........哈哈哈期待广场舞大妈........不过之前的歌表示真的很好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321360)<br>Segmentation<br>2014-11-02 19:34<br>赞(0) 踩(0) | <div>这个女人真讨厌 什么事情都敢干自知之明很重要 可她偏偏整这套</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39088159)<br>我还没想好要写什么...<br>2014-11-02 21:41<br>赞(0) 踩(0) | <div>我擦...那个新作品是学狐狸叫吧...........<br><br>哈哈哈期待广场舞大妈........<br><br>不过之前的歌表示真的很好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321360)<br>Segmentation<br>2014-11-02 19:34<br>赞(0) 踩(0) | <div>这个女人真讨厌 什么事情都敢干<br>自知之明很重要 可她偏偏整这套</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2239283)<br>hectic<br>2014-11-02 17:44<br>赞(0) 踩(0) | <div>其实她唱《距离》还算OK哦。。唉，后来太想成功了吧，被功利心带上邪路了。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2239283)<br>hectic<br>2014-11-02 17:38<br>赞(0) 踩(0) | <div>她和她的制作人怎么就认定扮低俗这条道有前途呢？她也倒是拼，只是用错了地方。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5002233)<br><br>2014-11-02 16:56<br>赞(0) 踩(0) | <div>要疯了。。</div> |
@@ -345,7 +345,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34936038)<br><br>2014-10-29 21:47<br>赞(0) 踩(0) | <div>egw</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4162264)<br>ch3.red/mp3<br>2014-10-28 16:09<br>赞(1) 踩(0) | <div>王蓉的音乐和mv有朝国际接轨的倾向 要是在制作上加大投资 并且在寓意上再深入一步的话 效果一定会很棒 希望能坚持自己的风格继续借鉴和创作 大陆太缺乏这种独树一帜的前沿流行元素了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3839022)<br><br>2014-10-28 16:04<br>赞(0) 踩(0) | <div>那啥，小学看音乐不断，她自弹自唱了一首觉得很好听的说，是一首英文名的，逼格很高</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36646226)<br>粉丝多也许是我有魅力吧<br>2014-10-27 23:30<br>赞(0) 踩(0) | <div>多么怀念当初惊艳内地乐坛的你现在的你却在一day 一day、小鸡小鸡、打炮、公鸡母鸡、鸡鸡鸡鸡❤</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36646226)<br>粉丝多也许是我有魅力吧<br>2014-10-27 23:30<br>赞(0) 踩(0) | <div>多么怀念当初惊艳内地乐坛的你<br><br>现在的你却在一day 一day、小鸡小鸡、打炮、公鸡母鸡、鸡鸡鸡鸡<br><br>❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3434128)<br><br>2014-10-27 22:43<br>赞(0) 踩(0) | <div>咯咯哒咯咯哒~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6960083)<br>他扒拉我...<br>2014-10-27 17:38<br>赞(0) 踩(0) | <div>你是不疯了、？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1567196)<br><br>2014-10-27 10:45<br>赞(1) 踩(0) | <div>第一张有卡百利的范儿啊，现在直接渣渣了。为了搏出位，这得有多不要脸了啊！</div> |
@@ -353,7 +353,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34457002)<br><br>2014-10-26 18:55<br>赞(0) 踩(0) | <div>DAYDAY一DAYDAY，雷得外焦里嫩。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5562620)<br><br>2014-10-26 15:47<br>赞(0) 踩(0) | <div>out of date。没看出哪里不遇了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6082125)<br>Standing and...<br>2014-10-26 11:48<br>赞(0) 踩(0) | <div>不至于吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36646226)<br>粉丝多也许是我有魅力吧<br>2014-10-25 19:36<br>赞(1) 踩(0) | <div>王蓉也无奈吧，第一张专辑那么惊艳，那么《完美》，想认真的做一个优秀的创作歌手，没多少人知道非要沦为雷母才能继续走在音乐的道路上尽管现在的你却在那里一day 一day、小鸡小鸡、打炮、公鸡母鸡、鸡鸡鸡鸡好歹知名度打开了不是么❤</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36646226)<br>粉丝多也许是我有魅力吧<br>2014-10-25 19:36<br>赞(1) 踩(0) | <div>王蓉也无奈吧，第一张专辑那么惊艳，那么《完美》，想认真的做一个优秀的创作歌手，没多少人知道<br><br>非要沦为雷母才能继续走在音乐的道路上<br><br>尽管<br>现在的你却在那里一day 一day、小鸡小鸡、打炮、公鸡母鸡、鸡鸡鸡鸡<br><br>好歹知名度打开了不是么<br><br>❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34356147)<br>极度脆弱<br>2014-10-25 00:01<br>赞(0) 踩(0) | <div>安定医院欢迎您</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1017492)<br><br>2014-10-24 22:45<br>赞(0) 踩(0) | <div>不要觉得《小鸡小鸡》很牛逼了好吗 你们有没有听过 王彩桦的《保庇》？还是翻唱韩国的 一个把《the apl song》翻唱成《爸爸妈妈》然后还写上创作人是自己的人 现在又整了一次 听起来就恶心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6491765)<br>我只是个门外汉。<br>2014-10-24 21:31<br>赞(0) 踩(0) | <div>谁能告诉我她到底发生了什么？</div> |
@@ -364,9 +364,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/607980)<br>我还没想好要写什么...<br>2014-10-24 17:53<br>赞(0) 踩(0) | <div>原名王菲。。。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16138375)<br>(｡･ω･)ﾉﾞ你好<br>2014-10-24 12:49<br>赞(0) 踩(0) | <div>wtf......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15871718)<br>已婚大兒童<br>2014-10-24 11:15<br>赞(3) 踩(0) | <div>其实有机会的话,我挺想抱抱她,跟她说一句,累了就歇歇吧,不要太为难自己.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36646226)<br>粉丝多也许是我有魅力吧<br>2014-10-24 00:15<br>赞(1) 踩(0) | <div>建议大家去听听王蓉的第一张专辑放眼10年内，内地女歌手的专辑超过这张的。很少❤</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36646226)<br>粉丝多也许是我有魅力吧<br>2014-10-24 00:13<br>赞(1) 踩(0) | <div>大二时获得了北京高校歌手大赛独唱第一名；这时又写曲填词完成了《距离》等歌曲。这期间王蓉得到了音乐教育家刘天礼教授的指点。你现在在小鸡小鸡鸡鸡鸡鸡，刘天礼教授造吗？❤</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36646226)<br>粉丝多也许是我有魅力吧<br>2014-10-24 00:09<br>赞(3) 踩(0) | <div>多么怀念曾经第一张创作专辑里的你，那么惊艳，那么《完美》的你《完美》这首歌即使放到今天，也还是那么悦耳，那么动人现在的你却在那里一day 一day、小鸡小鸡、打炮、公鸡母鸡、鸡鸡鸡鸡❤</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36646226)<br>粉丝多也许是我有魅力吧<br>2014-10-24 00:15<br>赞(1) 踩(0) | <div>建议大家去听听王蓉的第一张专辑<br><br>放眼10年内，内地女歌手的专辑超过这张的。很少<br><br>❤</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36646226)<br>粉丝多也许是我有魅力吧<br>2014-10-24 00:13<br>赞(1) 踩(0) | <div>大二时获得了北京高校歌手大赛独唱第一名；这时又写曲填词完成了《距离》等歌曲。这期间王蓉得到了音乐教育家刘天礼教授的指点。<br><br>你现在在小鸡小鸡鸡鸡鸡鸡，刘天礼教授造吗？<br><br>❤</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36646226)<br>粉丝多也许是我有魅力吧<br>2014-10-24 00:09<br>赞(3) 踩(0) | <div>多么怀念曾经第一张创作专辑里的你，那么惊艳，那么《完美》的你<br><br>《完美》这首歌即使放到今天，也还是那么悦耳，那么动人<br><br>现在的你却在那里一day 一day、小鸡小鸡、打炮、公鸡母鸡、鸡鸡鸡鸡<br><br>❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7869721)<br> <br>2014-10-23 23:55<br>赞(0) 踩(0) | <div>难道是想一直走这样的路线然后等听众审美疲劳后再突然转型成以前的她吗。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5388521)<br>我还没想好要写什么...<br>2014-10-25 23:02<br>赞(0) 踩(0) | <div>我觉着有可能</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41802298)<br>我还没想好要写什么...<br>2014-10-23 23:34<br>赞(0) 踩(0) | <div>为什么别的歌星歌曲越做越新，我们家王蓉的的歌越做越low，想上学的时候《我不是黄蓉》《哎呀》《爸爸妈妈》这些歌是最潮的  再公共唱歌唱一点不丢脸，我之前以为是你风格没换所以淘汰了，之后我又回去听了你之前的歌，我才知道我错了，你以前的歌现在一样拿的出手，但是现在的歌  一唱出来整个人都low了，你到底发生了什么？还我的小黄蓉(┯_┯)</div> |
@@ -400,7 +400,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6741618)<br>空荡荡广阔无垠虚无缥缈<br>2014-06-24 20:26<br>赞(0) 踩(0) | <div>好好听歌行么！你管她红不红，那是她的事！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7862038)<br>我还没想好要写什么...<br>2014-06-20 03:31<br>赞(3) 踩(0) | <div>【客观地说说：】听欧美电音舞曲有什么感觉？歌词很高雅很有内涵吗？旋律不洗脑吗？你为什么对中外同种类型的音乐有两极化的评价？国内的确实不如欧美的好听，我觉得是因为汉语发音的特点和旋律的不成熟。但是王蓉很有才也很有想法，值得鼓励。她没有堕落，只是没有朝一些听众希望的方向发展。因为这类歌手经常被务工阶层、广场舞群体所喜爱，所以一部分人恨不得撇清关系，来显示自己的境界！有些人把音乐当做食粮，有些人只是用来愉悦心情和生活，既然它满足一些人的快乐，就不应该被抨击。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8377785)<br>Cp<br>2014-06-21 01:11<br>赞(0) 踩(0) | <div>也不能说双重标准，确实欧美音乐和中国音乐整体创作环境差别挺大的，欣赏接受程度也不一样…Gaga随便一个Fuck放在整个欧美乐坛脏话根本不算事儿，但是华语乐坛就不一样了…只能说文化差异吧。当然很多人确实是把听歌当作一种身份区别过程，以及对本国文化的不自信…</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-06-18 22:21<br>赞(1) 踩(0) | <div>说王蓉网络歌手的那位……她红那会儿还没网络歌手呢= =</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-06-18 22:21<br>赞(1) 踩(0) | <div>说王蓉网络歌手的那位……<br>她红那会儿还没网络歌手呢= =</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5759936)<br> <br>2014-06-18 00:49<br>赞(0) 踩(0) | <div>抓紧红吧 多么拼命啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3468208)<br> <br>2014-06-17 15:12<br>赞(0) 踩(0) | <div>没人在意她一张封面一张脸么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11364765)<br>永恒的纠结与浪漫<br>2014-06-16 19:23<br>赞(0) 踩(0) | <div>我觉得王蓉不算恶俗诶，她现在的东西也挺有意思的，说怀念纯真的都是纯情玛丽苏吧……</div> |
@@ -412,9 +412,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2846797)<br><br>2014-05-31 19:16<br>赞(0) 踩(0) | <div>笑死我了~哈哈哈哈好乐DAY.哈哈哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12359809)<br>我还没想好要写什么...<br>2014-05-30 20:13<br>赞(0) 踩(0) | <div>坏姐姐~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6634407)<br><br>2014-05-23 22:55<br>赞(0) 踩(0) | <div>king蓉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4471602)<br>灵魂讲述师。<br>2014-05-22 11:28<br>赞(4) 踩(0) | <div>快播被查以后，只能拿这个消遣消遣了。倒是挺希望王蓉能顶住压力迎难而上，在技术上和画面感有更深层次的突破。在全国净网行动如火如荼之际，王蓉能主动站出来，像恶势力宣战，一根像话筒的武器在手被她玩出了金箍棒攻打天庭之势，这样的艺人在当今演艺界是屈指可数的。我怒赞。最后说一句，我倒不是很怕坏姐姐能带坏我。其实蛮担心姐姐变好人了。这将是我天朝一大损失啊。坏姐姐挺住，我们需要你。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4471602)<br>灵魂讲述师。<br>2014-05-22 11:28<br>赞(4) 踩(0) | <div>快播被查以后，只能拿这个消遣消遣了。<br><br>倒是挺希望王蓉能顶住压力迎难而上，在技术上和画面感有更深层次的突破。<br><br>在全国净网行动如火如荼之际，王蓉能主动站出来，像恶势力宣战，一根像话筒的武器在手被她玩出了金箍棒攻打天庭之势，这样的艺人在当今演艺界是屈指可数的。我怒赞。<br><br>最后说一句，我倒不是很怕坏姐姐能带坏我。其实蛮担心姐姐变好人了。这将是我天朝一大损失啊。坏姐姐挺住，我们需要你。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33251146)<br>一定要换耳机<br>2014-06-15 02:09<br>赞(0) 踩(0) | <div>笑CRY</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35372539)<br><br>2014-05-18 20:17<br>赞(0) 踩(0) | <div>唯一不红的原因是出道时长得太一般了，现在整了也晚了。。。。。可惜了，这么好的创作歌手。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35372539)<br><br>2014-05-18 20:17<br>赞(0) 踩(0) | <div>唯一不红的原因是出道时长得太一般了，现在整了也晚了。。。。。<br>可惜了，这么好的创作歌手。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35128727)<br><br>2014-05-17 22:58<br>赞(0) 踩(0) | <div>声音挺好的，可惜没遇到伯乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5659880)<br><br>2014-05-16 15:14<br>赞(0) 踩(0) | <div>听完第一张专辑 对现在的王蓉只有惋惜。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2307526)<br>连接比特与像素的造梦师！<br>2014-05-15 11:34<br>赞(0) 踩(0) | <div>哎呀！</div> |
@@ -422,13 +422,13 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1259601)<br>猪头不卖猪鞭要不要<br>2014-05-13 20:47<br>赞(1) 踩(0) | <div>姐姐你顶风作案233333333333333333333333</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1610240)<br>听歌是一件很开心的事<br>2014-05-13 15:02<br>赞(0) 踩(0) | <div>不好听怎么破。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4398591)<br><br>2014-05-12 10:38<br>赞(0) 踩(0) | <div>很有个性。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2659823)<br>人間發電所<br>2014-04-17 08:11<br>赞(1) 踩(0) | <div>唱功一流伤仲永</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2659823)<br>人間發電所<br>2014-04-17 08:11<br>赞(1) 踩(0) | <div>唱功一流<br>伤仲永</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/649482)<br><br>2014-04-16 13:20<br>赞(1) 踩(0) | <div>不得不说王荣早期的作品我真的觉得她功力强，旋律佳，高级的感觉，现在不知道为什么，越来越土气，是不是被国内圈内的土鳖带坏了。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2541555)<br>Sakha Republ...<br>2014-04-11 21:54<br>赞(0) 踩(0) | <div>说好的新专辑呢？！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/550969)<br>雞翅如我<br>2014-02-10 20:32<br>赞(8) 踩(0) | <div>人说“近朱者赤，近墨者黑”，自从她结识老猫这种level的人之后就low到无底洞了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1949345)<br>Skong(司空)<br>2014-04-03 12:27<br>赞(0) 踩(0) | <div>雷公助我！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332752681)<br><br>2019-04-16 13:17<br>赞(0) 踩(0) | <div>想多了，王蓉和老猫合作早就超过15年以上了，96年就开始合作了，老猫以前写歌也不是这套路，迎合市场而已，王蓉的《我不是黄蓉》火了开始，老猫定位商人就开始成功了，那时候《我不是黄蓉》是唯一叫好又叫座的歌，一首歌钱挣到暴富</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4241117)<br>心外无物<br>2014-01-07 17:34<br>赞(0) 踩(0) | <div>这个比psy好多了至于王蓉的这个好乐day 不说什么了 就像有人说市农村舞曲 看来不能侮辱农村这两个字</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4241117)<br>心外无物<br>2014-01-07 17:34<br>赞(0) 踩(0) | <div>这个比psy好多了<br>至于王蓉的这个好乐day 不说什么了 就像有人说市农村舞曲 看来不能侮辱农村这两个字</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11259253)<br>听靓歌<br>2014-01-03 18:08<br>赞(0) 踩(0) | <div>喜欢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30625302)<br><br>2014-01-01 11:15<br>赞(0) 踩(0) | <div>大爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1949345)<br>Skong(司空)<br>2013-12-07 06:33<br>赞(5) 踩(0) | <div>曾经很喜欢的，现在变这德行了……</div> |
@@ -436,9 +436,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8701514)<br>努力<br>2013-11-15 11:43<br>赞(0) 踩(0) | <div>高中记忆</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1942243)<br><br>2013-11-15 09:19<br>赞(0) 踩(0) | <div>神曲制造机 设备能再好点么 本来会更好的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2763179)<br>我还没想好要写什么...<br>2013-10-27 12:35<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61245)<br><br>2013-10-22 17:28<br>赞(5) 踩(0) | <div>王蓉她成功了！成功的把自己毁了。原因未知，只能猜测：1、脑袋被门夹了；2、脑袋进水了；3、穷疯了；4、想出名想疯了。虽然这么说，但也挺可惜的，外形也不错，又有创作才华，声线也好，居然走上了农业摇滚的不归路，还混得不好，人家凤凰传奇都甩她几条街……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61245)<br><br>2013-10-22 17:28<br>赞(5) 踩(0) | <div>王蓉她成功了！成功的把自己毁了。原因未知，只能猜测：1、脑袋被门夹了；2、脑袋进水了；3、穷疯了；4、想出名想疯了。<br>虽然这么说，但也挺可惜的，外形也不错，又有创作才华，声线也好，居然走上了农业摇滚的不归路，还混得不好，人家凤凰传奇都甩她几条街……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12314435)<br><br>2013-09-27 04:41<br>赞(0) 踩(0) | <div>收了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7803203)<br> <br>2013-09-11 22:26<br>赞(2) 踩(0) | <div>原来她原来竟然是个文艺青年 唱indie pop 布鲁斯 乡村什么的 第一张专还是不错啊 那首完美蛮有想法的现在是破罐破摔的意思吗。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7803203)<br> <br>2013-09-11 22:26<br>赞(2) 踩(0) | <div>原来她原来竟然是个文艺青年 唱indie pop 布鲁斯 乡村什么的 第一张专还是不错啊 那首完美蛮有想法的<br>现在是破罐破摔的意思吗。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4109571)<br><br>2013-09-03 18:35<br>赞(4) 踩(0) | <div>一个她一个金海心，辨识度又高传唱度又高....只能说大陆造星业...哎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1610240)<br>听歌是一件很开心的事<br>2013-08-27 16:35<br>赞(0) 踩(0) | <div>很。厉害的女人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5659880)<br><br>2013-08-25 13:03<br>赞(3) 踩(0) | <div>我可以说第一张专辑简直惊艳么。。。</div> |
@@ -515,7 +515,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1099742)<br><br>2010-07-22 18:36<br>赞(0) 踩(0) | <div>爸爸妈妈抄袭apl song，</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1099742)<br><br>2010-07-29 08:05<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/159369)<br>10<br>2010-10-10 10:59<br>赞(0) 踩(0) | <div><q><b>meackeylee说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102078)<br><br>2009-11-27 17:06<br>赞(2) 踩(0) | <div>喜欢王蓉，被很多人嘲笑俗气~但是那又怎样？开心的时候哼几句，管它是《芙蓉姐夫》还是《爱似神仙》，我就是喜欢那种自由自在的随性摇摆~从古典到流行，从阳春白雪到下里巴人，我相信音乐是随心随缘的……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102078)<br><br>2009-11-27 17:06<br>赞(2) 踩(0) | <div>喜欢王蓉，被很多人嘲笑俗气~<br>但是那又怎样？开心的时候哼几句，管它是《芙蓉姐夫》还是《爱似神仙》，我就是喜欢那种自由自在的随性摇摆~<br>从古典到流行，从阳春白雪到下里巴人，我相信音乐是随心随缘的……</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/159369)<br>10<br>2010-10-10 10:59<br>赞(0) 踩(0) | <div>我也喜欢她的 控制旋律的能力能跟戴佩妮媲美了 管他别人怎么说</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/679656)<br> <br>2010-10-18 18:17<br>赞(0) 踩(0) | <div>同意</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4356009)<br><br>2012-05-19 17:03<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |

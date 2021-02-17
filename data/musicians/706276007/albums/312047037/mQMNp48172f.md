@@ -37,10 +37,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362852037)<br><br>2018-06-20 20:19<br>赞(0) 踩(0) | <div>唱的真好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-06-13 18:59<br>赞(0) 踩(0) | <div>天与地，男与女！偶然-必然，得到-失去！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-06-13 18:59<br>赞(0) 踩(0) | <div>天与地，<br>男与女！<br>偶然-必然，<br>得到-失去！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12310229)<br><br>2018-04-28 01:58<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4724803)<br> <br>2018-03-22 22:49<br>赞(1) 踩(0) | <div>在电台听到，赶紧找出来再听一遍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233727757)<br>一个有趣的小凡人 有着自...<br>2018-03-16 21:22<br>赞(2) 踩(0) | <div>徐志摩写给林徽因的定情之作 初中惊鸿一瞥 不曾想可以在这里听到 万幸！</div> |
@@ -138,7 +138,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45228495)<br><br>2015-08-30 13:21<br>赞(0) 踩(0) | <div>好听：</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14534058)<br>绿色的叶子<br>2015-08-20 15:27<br>赞(1) 踩(0) | <div>清灵、忧郁的歌声。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3743598)<br><br>2015-08-17 19:58<br>赞(1) 踩(0) | <div>李维的声音好赞好赞好赞~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5675396)<br>我还没想好要写什么...<br>2015-08-17 18:48<br>赞(1) 踩(0) | <div>今生用来相认也用来辜负你我的轨迹就是错过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5675396)<br>我还没想好要写什么...<br>2015-08-17 18:48<br>赞(1) 踩(0) | <div>今生<br>用来相认<br>也用来辜负<br>你我的轨迹就是错过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49101018)<br><br>2015-08-15 10:33<br>赞(0) 踩(0) | <div>循环♻️周深的美声功底不错啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52769342)<br><br>2015-08-12 13:23<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53838899)<br><br>2015-08-12 11:48<br>赞(0) 踩(0) | <div>太美了</div> |
@@ -152,7 +152,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251652869)<br>251652869，ID<br>2017-01-08 22:40<br>赞(0) 踩(0) | <div><q><b>Magicalgirl_杨说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48813277)<br><br>2015-07-18 11:03<br>赞(1) 踩(0) | <div>他俩搞个组合，绝了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9722497)<br> <br>2015-07-14 12:50<br>赞(0) 踩(0) | <div>歌声与外表形成了巨大而鲜明的反差 这就是周深最成功的地方 太震撼人心了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15473473)<br><br>2015-06-30 18:55<br>赞(1) 踩(0) | <div>“我是天空里的一片云，偶尔投映在你的波心——你不必讶异，更无须欢喜——在转瞬间消灭了踪影。&nbsp;你我相逢在黑夜的海上，你有你的，我有我的，方向；你记得也好，最好你忘掉，在这交会时互放的光亮！”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15473473)<br><br>2015-06-30 18:55<br>赞(1) 踩(0) | <div>“我是天空里的一片云，偶尔投映在你的波心——你不必讶异，更无须欢喜——在转瞬间消灭了踪影。&nbsp;<br><br>你我相逢在黑夜的海上，你有你的，我有我的，方向；你记得也好，最好你忘掉，在这交会时互放的光亮！”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34341690)<br><br>2015-06-27 23:21<br>赞(0) 踩(0) | <div>你记得也好 最好忘掉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49101018)<br><br>2015-06-27 08:38<br>赞(0) 踩(0) | <div>#周深##周深专辑回味7.21上海首唱#期待叶子和烦！[可爱]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49101018)<br><br>2015-06-27 08:38<br>赞(0) 踩(0) | <div>#周深##周深专辑回味7.21上海首唱#期待叶子和烦！[可爱]</div> |
@@ -183,8 +183,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6858173)<br><br>2014-12-04 14:50<br>赞(0) 踩(0) | <div>能背得出的第一首现代诗 写成歌未免太美了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32441826)<br>我也只是激情地活在一場宿...<br>2014-12-03 11:01<br>赞(0) 踩(0) | <div>好赞~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9426205)<br>我还没想好要写什么...<br>2014-11-29 14:54<br>赞(0) 踩(0) | <div>不输蔡琴哪个版本</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44122703)<br><br>2014-11-26 17:50<br>赞(0) 踩(0) | <div>我是天空的一片云偶尔投影在你的波心你不必讶异无需欢喜在转瞬间消灭了踪影你我相逢在黑夜的海上你有你的 我有我的方向你记得也好 最好你忘掉在这交会时互放的光亮</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44122703)<br><br>2014-11-26 17:49<br>赞(0) 踩(0) | <div>我是天空的一片云偶尔投影在你的波心你不必讶异无需欢喜在转瞬间消灭了踪影你我相逢在黑夜的海上你有你的 我有我的方向你记得也好 最好你忘掉在这交会时互放的光亮</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44122703)<br><br>2014-11-26 17:50<br>赞(0) 踩(0) | <div>我是天空的一片云<br>偶尔投影在你的波心<br>你不必讶异无需欢喜<br>在转瞬间消灭了踪影<br>你我相逢在黑夜的海上<br>你有你的 我有我的方向<br>你记得也好 最好你忘掉<br>在这交会时互放的光亮</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44122703)<br><br>2014-11-26 17:49<br>赞(0) 踩(0) | <div>我是天空的一片云<br>偶尔投影在你的波心<br>你不必讶异无需欢喜<br>在转瞬间消灭了踪影<br>你我相逢在黑夜的海上<br>你有你的 我有我的方向<br>你记得也好 最好你忘掉<br>在这交会时互放的光亮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12322675)<br><br>2014-11-25 20:24<br>赞(0) 踩(0) | <div>好贊好贊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44036922)<br><br>2014-11-23 22:11<br>赞(0) 踩(0) | <div>徐志摩的诗配上音乐会是怎样的效果啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33841498)<br><br>2014-11-19 23:33<br>赞(0) 踩(0) | <div>听虾米，每个角落都是避风港。</div> |
@@ -227,7 +227,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40970199)<br><br>2014-10-07 02:00<br>赞(0) 踩(0) | <div>很好很强大</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42099615)<br>暂无签名~<br>2014-10-06 10:03<br>赞(0) 踩(0) | <div>他们的组合是很强的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26250767)<br><br>2014-10-06 02:21<br>赞(0) 踩(0) | <div>好听哭了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42096057)<br> <br>2014-10-06 00:30<br>赞(0) 踩(0) | <div>太喜欢他俩的声音了！！组合吧！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42096057)<br> <br>2014-10-06 00:30<br>赞(0) 踩(0) | <div>太喜欢他俩的声音了！！<br>组合吧！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10767374)<br>音乐中的孩子<br>2014-10-05 17:30<br>赞(0) 踩(0) | <div>QAQ又一次合作惹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/859063)<br><br>2014-10-04 10:46<br>赞(0) 踩(0) | <div>真是美呆了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1477715)<br><br>2014-10-04 08:21<br>赞(0) 踩(0) | <div>依然爱着周深</div> |
@@ -237,7 +237,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16499761)<br><br>2014-10-02 20:27<br>赞(0) 踩(0) | <div>同求组合！周深、李维你们的和声太美了！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32953686)<br>暂无签名~<br>2014-10-02 01:05<br>赞(0) 踩(0) | <div>周深不只是这一种风格，希望以后可以听他在舞台上唱更多的歌，周深加油啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13258610)<br>糖果的味道~T_T~<br>2014-10-02 00:53<br>赞(0) 踩(0) | <div>怎么办，太好听，求他们俩组个组合吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23507280)<br>什么<br>2014-10-01 19:59<br>赞(0) 踩(0) | <div>【你我相逢在黑夜的海上，你有你的，我有我的，方向；你记得也好，最好你忘掉】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23507280)<br>什么<br>2014-10-01 19:59<br>赞(0) 踩(0) | <div>【你我相逢在黑夜的海上，<br>你有你的，我有我的，方向；<br>你记得也好，<br>最好你忘掉】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34022528)<br><br>2014-10-01 16:06<br>赞(0) 踩(0) | <div>两人简直是最佳拍档 声音太美了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9399346)<br><br>2014-10-01 01:29<br>赞(0) 踩(0) | <div>不喜欢好声音一直把周深框定在这个风格！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/775394)<br>聆听耳边风景<br>2014-09-30 23:59<br>赞(2) 踩(0) | <div>淘汰太早了，有些人吧适合舞台表演，有些人声音适合放在唱片机听</div> |

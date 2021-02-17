@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/fa779e3694ee865209c4dc47f7ae1e10.jpg)<br>人衣大人](https://i.xiami.com/lazysnoopy) | **播放数**: 2234062<br>**粉丝数**: 4585<br>**评论数**: 83<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 古风 GuFeng Music<br> |
+| [![](../../images/musicians/fa779e3694ee865209c4dc47f7ae1e10.jpg)<br>人衣大人](https://i.xiami.com/lazysnoopy) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 古风 GuFeng Music<br>**播放数**: 2234062<br>**粉丝数**: 4585<br>**评论数**: 83<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -22,8 +19,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423697519)<br>我QQ号：2151830...<br>2019-05-25 15:26<br>赞(0) 踩(0) | <div>呵呵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-02-02 05:18<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310123580)<br>真的好听呢<br>2018-07-20 21:14<br>赞(1) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |

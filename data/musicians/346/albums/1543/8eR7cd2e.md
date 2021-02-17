@@ -62,8 +62,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334232716)<br>最好在下一秒<br>2021-01-05 21:16<br>赞(0) 踩(0) | <div>感谢虾米音乐多年来的陪伴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-10-09 19:48<br>赞(0) 踩(0) | <div>好歌曲顶我上去吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444949313)<br><br>2020-09-14 22:25<br>赞(0) 踩(0) | <div>这张专辑简直是太猛了！这么多经典！十几年后再听还是很经典！</div> |
@@ -81,7 +81,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223072930)<br>好好做好自己的事，用心去...<br>2019-12-25 21:40<br>赞(0) 踩(0) | <div>以为蜡笔小新里的小白</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266538184)<br><br>2019-08-15 19:05<br>赞(0) 踩(0) | <div>感觉后弦的歌词天马行空，才华横溢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160936462)<br><br>2019-08-14 14:42<br>赞(0) 踩(0) | <div>想起了高一。8年恋爱，拜拜了，如今了29了，多赚钱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38071625)<br><br>2019-06-14 06:59<br>赞(0) 踩(0) | <div>我很聪明，你很美丽，我们天生一对我很坚强，你很温柔，我们地设一双</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38071625)<br><br>2019-06-14 06:59<br>赞(0) 踩(0) | <div>我很聪明，你很美丽，我们天生一对<br>我很坚强，你很温柔，我们地设一双</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100063970)<br>周杰伦、后弦、五月天、林...<br>2019-06-07 20:48<br>赞(0) 踩(0) | <div>小白笑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93092514)<br>不求闻达于诸侯<br>2019-05-30 15:28<br>赞(0) 踩(0) | <div>喜欢小白也喜欢小乔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374922398)<br><br>2019-04-21 00:55<br>赞(0) 踩(0) | <div>喜欢了的，再相遇就能认出来</div> |
@@ -90,7 +90,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12102442)<br>无<br>2019-03-30 08:08<br>赞(0) 踩(0) | <div>180</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337547452)<br><br>2019-03-05 22:48<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343641624)<br>我还没想好要写什么...<br>2019-03-01 08:22<br>赞(0) 踩(0) | <div>为了999....</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111650998)<br><br>2018-12-28 19:08<br>赞(2) 踩(0) | <div>衔草的少年躺在屋顶，翘起的脚尖打着节拍，不知名的小调轻轻哼着。这是我最初记忆里的《小白》。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111650998)<br><br>2018-12-28 19:08<br>赞(2) 踩(0) | <div>衔草的少年躺在屋顶，翘起的脚尖打着节拍，不知名的小调轻轻哼着。<br>这是我最初记忆里的《小白》。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209670746)<br><br>2018-11-23 21:02<br>赞(0) 踩(0) | <div>今天第一次听《小白》，真的好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24070059)<br><br>2018-11-19 21:31<br>赞(3) 踩(0) | <div>最早听你的歌，05年，被打包在一个电影的结尾，当时就被惊艳了。这么多年过去了，电影名字早忘了，而这首《小白》，却留在了心里。再到后来的西厢，苏州城外的微笑，始终是我喜欢的风格！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339018347)<br>｡◕‿◕｡<br>2018-11-08 21:35<br>赞(0) 踩(0) | <div>好听～～～</div> |
@@ -121,7 +121,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15969316)<br>最华丽的冒险是与你相守。<br>2018-07-06 00:54<br>赞(0) 踩(0) | <div>周杰伦没唱过 谢谢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327269517)<br><br>2018-02-14 14:15<br>赞(3) 踩(0) | <div>车里有，儿子特喜欢听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193568705)<br>频频回头的人，走不了远路...<br>2018-01-28 23:27<br>赞(6) 踩(0) | <div>原来这首歌是后弦写给媳妇儿的。。。。太甜了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257947709)<br>我是個沈默不語的靠著車窗...<br>2018-01-23 00:20<br>赞(4) 踩(0) | <div>感情這東西不玩三角。有煩惱借愛德華剪刀。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257947709)<br>我是個沈默不語的靠著車窗...<br>2018-01-23 00:20<br>赞(4) 踩(0) | <div>感情這東西不玩三角。<br>有煩惱借愛德華剪刀。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282707379)<br>hello，world.<br>2018-01-11 19:39<br>赞(2) 踩(0) | <div>我们以前叫一男同学，小白。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96319710)<br>Nothing<br>2017-12-31 12:35<br>赞(3) 踩(0) | <div>11岁的最爱，爱到疯狂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54123513)<br>无音乐，毋宁死<br>2017-12-21 02:34<br>赞(4) 踩(0) | <div>这首歌副歌部分太洗脑，，想起我的小白，爱犬，无比怀念</div> |
@@ -233,8 +233,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14366132)<br>暂无签名~<br>2015-06-18 00:24<br>赞(1) 踩(0) | <div>要哭了，老歌听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45271423)<br>唉<br>2015-05-17 00:24<br>赞(1) 踩(0) | <div>哈哈，好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11180438)<br>虾米的会员到底能干嘛。。...<br>2015-05-06 17:08<br>赞(1) 踩(0) | <div>当时整砖最喜欢的，当时简直被歌词萌哭，好吧当时还不流行萌这个词o(╯□╰)o总之就是觉得很好玩还欢快~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46957865)<br>masterpiece<br>2015-03-19 18:27<br>赞(1) 踩(0) | <div>小学的最爱之一啊！虽然现在大学了，听来还是十分喜爱。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46082043)<br><br>2015-01-26 19:55<br>赞(1) 踩(0) | <div>从耳到心，都感动到你！那时我的年少</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46957865)<br>masterpiece<br>2015-03-19 18:27<br>赞(1) 踩(0) | <div>小学的最爱之一啊！<br>虽然现在大学了，听来还是十分喜爱。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46082043)<br><br>2015-01-26 19:55<br>赞(1) 踩(0) | <div>从耳到心，都感动到你！<br>那时我的年少</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40793363)<br>听点音乐总是好的。<br>2015-01-19 19:38<br>赞(1) 踩(0) | <div>弯弯的眉毛鼻子翘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43385886)<br>今晚打老虎<br>2015-01-12 10:01<br>赞(1) 踩(0) | <div>啦啦啦啦啦啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41204063)<br>《模特》、《故乡》、《听...<br>2014-12-31 06:12<br>赞(1) 踩(0) | <div>啦，断桥旁边种着葡萄。</div> |
@@ -243,7 +243,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11312640)<br><br>2014-12-14 20:55<br>赞(1) 踩(0) | <div>都生孩子了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39256341)<br>暂无签名~<br>2014-11-04 06:41<br>赞(1) 踩(0) | <div>中国古风，意味真的挺不错，值得</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10031903)<br>至美之乐 妙极 不可言说<br>2014-05-07 16:18<br>赞(2) 踩(0) | <div>一直喜欢后弦的这种调调，简单开心轻松而俏皮，听着听着就笑了然后随之摇摇摆摆起来。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5973053)<br>我要的只是简单而真实的存...<br>2014-03-20 16:03<br>赞(1) 踩(0) | <div>两小无猜当白描，字字表白当狂草~。小白说陪我陪到老  @WHX</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5973053)<br>我要的只是简单而真实的存...<br>2014-03-20 16:03<br>赞(1) 踩(0) | <div>两小无猜当白描，字字表白当狂草~。<br>小白说陪我陪到老  @WHX</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16861984)<br><br>2013-12-11 20:12<br>赞(1) 踩(0) | <div>小白说陪我陪到老</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16861984)<br><br>2013-08-06 14:24<br>赞(1) 踩(0) | <div>十六岁的后弦，多好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13993106)<br><br>2013-05-06 13:31<br>赞(1) 踩(0) | <div>呵呵，这么轻快地感觉，心情都好了</div> |
@@ -255,7 +255,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2951700)<br><br>2011-09-25 22:27<br>赞(1) 踩(0) | <div>六年前啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4990704)<br>音乐永不停息。<br>2011-08-07 21:11<br>赞(1) 踩(0) | <div>走！断桥边种葡萄去~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2978331)<br><br>2011-07-12 09:32<br>赞(1) 踩(0) | <div>小白！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3686608)<br>萨爷本命<br>2011-06-25 11:54<br>赞(1) 踩(0) | <div>对我三笑，在西湖古亭月亮桥PS：非常俏皮轻快</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3686608)<br>萨爷本命<br>2011-06-25 11:54<br>赞(1) 踩(0) | <div>对我三笑，在西湖古亭月亮桥<br><br>PS：非常俏皮轻快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3847888)<br><br>2011-05-06 22:51<br>赞(1) 踩(0) | <div>优雅，轻快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3825358)<br><br>2011-05-04 08:46<br>赞(1) 踩(0) | <div>中国风说唱 很有节奏感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1163710)<br><br>2011-04-30 17:20<br>赞(1) 踩(0) | <div>者这首歌的评价很极品啊</div> |
@@ -270,4 +270,4 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/830274)<br><br>2010-07-01 21:51<br>赞(1) 踩(0) | <div>娘子 快出来看上帝 =ω=</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/650004)<br><br>2010-01-29 12:27<br>赞(1) 踩(0) | <div>小白 是谁吖？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38871308)<br><br>2014-07-15 11:49<br>赞(0) 踩(0) | <div>她女朋友</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2010-01-22 11:40<br>赞(3) 踩(0) | <div>啦----断桥旁边种着葡萄啦----葡萄夹着酸酸味道啦----味道记着那时我们年少啦----小白说陪我陪到老琴棋和书画一旁靠姑娘小白不学小乔简爱和琼瑶不感冒流行火星简单头脑三年前塔下夕阳照雷锋下帮她采采草药弯弯的眉毛鼻子翘对我三笑，在西湖古亭月亮桥爱迪生是谁不重要从小不会当电灯泡数学和几何学不好感情这东西不玩三角有烦恼借爱德华剪刀天上地下统统都OUT谈恋爱不象冒险岛天塌下来我当被罩(Rap：西湖边, 那座桥9527来报道因为从前际遇的三笑让人要神魂又颠倒孔子老, 说得妙三人行就是必有电灯泡不是刘备和曹操一定是小白到 )巫山之云没预报她说自有天知道骑驴看唱本偏偏要爱情我们走着瞧两小无猜当白描字字表白当狂草什么叫简单单还有谁知道（小白尝遍酸甜苦辣爱情世界各种奇妙）（小白笑、小白哭、小白唱 、小白在跳————）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2010-01-22 11:40<br>赞(3) 踩(0) | <div>啦----<br>断桥旁边种着葡萄<br>啦----<br>葡萄夹着酸酸味道<br>啦----<br>味道记着那时我们年少<br>啦----<br>小白说陪我陪到老<br>琴棋和书画一旁靠<br>姑娘小白不学小乔<br>简爱和琼瑶不感冒<br>流行火星简单头脑<br>三年前塔下夕阳照<br>雷锋下帮她采采草药<br>弯弯的眉毛鼻子翘<br>对我三笑，在西湖古亭月亮桥<br>爱迪生是谁不重要<br>从小不会当电灯泡<br>数学和几何学不好<br>感情这东西不玩三角<br>有烦恼借爱德华剪刀<br>天上地下统统都OUT<br>谈恋爱不象冒险岛<br>天塌下来我当被罩<br>(Rap：西湖边, 那座桥<br>9527来报道<br>因为从前际遇的三笑<br>让人要神魂又颠倒<br>孔子老, 说得妙<br>三人行就是必有电灯泡<br>不是刘备和曹操<br>一定是小白到 )<br>巫山之云没预报她说自有天知道<br>骑驴看唱本偏偏要<br>爱情我们走着瞧<br>两小无猜当白描<br>字字表白当狂草<br>什么叫简单单还有谁知道<br>（小白尝遍酸甜苦辣爱情世界各种奇妙）<br>（小白笑、小白哭、小白唱 、小白在跳————）</div> |

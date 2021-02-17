@@ -3,7 +3,7 @@ IDEA MUSIC
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/67d3e317e579d8b9a5a32bdb79eb7f7e.jpg)<br>IDEA MUSIC](https://i.xiami.com/idea) | **播放数**: 2838742<br>**粉丝数**: 144<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap<br> |
+| [![](../../images/musicians/67d3e317e579d8b9a5a32bdb79eb7f7e.jpg)<br>IDEA MUSIC](https://i.xiami.com/idea) | **地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap<br>**播放数**: 2838742<br>**粉丝数**: 144<br>**评论数**: 7<br> |
 
 ## 档案
 
@@ -31,8 +31,8 @@ Lil-7   / 掌嘴 / SEVENT
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198422713)<br><br>2020-09-13 12:10<br>赞(0) 踩(0) | <div>哥们儿，有一首歌和你的前奏一毛一样</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442252920)<br>我还没想好要写什么...<br>2020-04-16 15:22<br>赞(0) 踩(0) | <div><img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226833808)<br>梦里见<br>2019-04-12 00:48<br>赞(1) 踩(0) | <div>爱你鸭</div> |

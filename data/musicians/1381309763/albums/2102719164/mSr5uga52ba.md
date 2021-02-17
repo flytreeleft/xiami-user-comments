@@ -25,5 +25,3 @@ Little Tom Tinker's dog wow wow wow
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

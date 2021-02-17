@@ -35,8 +35,8 @@ repeat*<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357349990)<br><br>2018-11-30 19:59<br>赞(0) 踩(0) | <div>你好呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360924)<br> <br>2014-07-17 22:31<br>赞(0) 踩(0) | <div>(￣∇￣)累趴了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3221048)<br><br>2011-05-19 13:30<br>赞(1) 踩(0) | <div>He comes from HK.</div> |

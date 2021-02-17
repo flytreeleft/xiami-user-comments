@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8391fe1ff89a0e49df034a5161dc7712.jpg)<br>江波](https://i.xiami.com/jiangbo) | **播放数**: 2076232<br>**粉丝数**: 35<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 原声 Soundtrack, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/8391fe1ff89a0e49df034a5161dc7712.jpg)<br>江波](https://i.xiami.com/jiangbo) | **地区**: China 中国大陆<br>**风格**: 原声 Soundtrack, 国语流行 Mandarin Pop<br>**播放数**: 2076232<br>**粉丝数**: 35<br>**评论数**: 7<br> |
 
 ## 档案
 
@@ -38,8 +38,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48379032)<br>最后警告，谢绝野蛮人，，...<br>2021-01-27 13:41<br>赞(0) 踩(0) | <div>Jia Boy</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48379032)<br>最后警告，谢绝野蛮人，，...<br>2021-01-27 13:41<br>赞(0) 踩(0) | <div>Soujia Boy</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351319667)<br>感恩在此相遇！<br>2019-11-01 22:37<br>赞(0) 踩(0) | <div>好听！</div> |

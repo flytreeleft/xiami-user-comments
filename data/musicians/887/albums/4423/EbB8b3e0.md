@@ -69,11 +69,11 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-22 00:40<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6096220)<br><br>2017-10-28 00:10<br>赞(0) 踩(0) | <div>挥挥手浪子翻过山岗  跳进了血与骨的河床  挥挥手 倦鸟飞过松林  隐没在碎与溃深谷  蓝风筝和那橡树叶  蒲公英与那布谷鸟  带着放荡的痴心 跌落在天堂  你是否看到我站在路旁  默默的挥挥手 送你去远方  你是否知道在这一瞬间  轻轻的  挥挥手  一颗心被埋葬  挥挥手</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31659)<br><br>2016-05-11 00:10<br>赞(1) 踩(0) | <div>你是否看到我站在路旁默默地 挥挥手 送你去远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31659)<br><br>2016-05-11 00:10<br>赞(1) 踩(0) | <div>你是否看到我站在路旁<br>默默地 挥挥手 送你去远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5941332)<br>惘<br>2015-12-28 16:19<br>赞(0) 踩(0) | <div>那谁说写歌儿的人假正经，可是还是很喜欢这首歌啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52301171)<br>用最大的勇气，去追求最想...<br>2015-11-08 13:52<br>赞(0) 踩(0) | <div>默默的挥挥手，送你去远方！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39865143)<br>我还没想好要写什么...<br>2015-10-28 12:15<br>赞(0) 踩(0) | <div>坐在公交的最后排，眼角湿润了一路，来深圳已经快一年。挥挥手告别了同学，爱情，友情。还有我自己。我到底需要经历告别怎样的伤痛才可以变成一个不怕挥手告别的人</div> |
@@ -104,14 +104,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19255220)<br><br>2014-12-09 23:10<br>赞(0) 踩(0) | <div>汪峰的轻摇滚，&lt;&lt;挥挥手&gt;&gt;，^_^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19255220)<br><br>2014-12-09 23:09<br>赞(0) 踩(0) | <div>汪峰的清摇滚，&lt;&lt;挥挥手&gt;&gt;，好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20739975)<br> <br>2014-12-01 13:09<br>赞(1) 踩(0) | <div>挥挥手 一颗心被埋葬</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2014-11-25 20:54<br>赞(0) 踩(0) | <div>这是摇滚里的小清新么٠٠٠٠٠٠٠小尾巴٠٠٠٠٠٠٠别踩，很痛的哦٥.٥٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2014-11-25 20:54<br>赞(0) 踩(0) | <div>这是摇滚里的小清新么<br>٠٠٠٠٠٠٠小尾巴٠٠٠٠٠٠٠<br>别踩，很痛的哦٥.٥<br>٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨٨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42682274)<br>命运对你有多刻薄你就会变...<br>2014-11-23 17:24<br>赞(5) 踩(0) | <div>汪峰不装逼不飙高音不抢头条时唱的歌还是蛮好听的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52258161)<br><br>2015-07-07 19:32<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8764856)<br>爸爸,我恐怕不会有爱情了<br>2014-11-07 20:10<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30935776)<br> <br>2014-10-23 00:14<br>赞(0) 踩(0) | <div>大爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15781482)<br><br>2014-10-14 12:36<br>赞(1) 踩(0) | <div>丽江云集酒吧里，一个圆寸的帅哥唱的这首《挥挥手》很有味道，不知道下次再去丽江的时候还能不能听到他的歌声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42344501)<br>暂无签名~<br>2014-10-13 12:58<br>赞(0) 踩(0) | <div>喜欢，单曲循环中</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14298264)<br><br>2014-09-22 14:46<br>赞(0) 踩(0) | <div>你是否看到我站在路旁么么哒        挥挥手</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14298264)<br><br>2014-09-22 14:46<br>赞(0) 踩(0) | <div>你是否看到我站在路旁<br>么么哒        挥挥手</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3304822)<br>hiahia<br>2014-11-22 09:57<br>赞(0) 踩(0) | <div>么么哒：）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6332360)<br>温暖向阳<br>2014-08-18 16:03<br>赞(0) 踩(0) | <div>最近好憋屈，生活就是如此吧，对一切坏的过去的挥挥手，拜拜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37006869)<br>这地儿超酷<br>2014-08-15 00:21<br>赞(0) 踩(0) | <div>碎星星都跌落在路上</div> |
@@ -132,7 +132,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9594816)<br>...<br>2013-12-11 16:14<br>赞(1) 踩(0) | <div>音帝 这首旋律响起那刻起,我的心已经和心爱的男子奔跑在山丹军马场上。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10801930)<br><br>2013-11-25 09:15<br>赞(0) 踩(0) | <div>默默的挥挥手，送你去远方~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3645998)<br><br>2013-11-03 18:40<br>赞(0) 踩(0) | <div>把心埋在土里，过几天说不定会生根发芽呢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1651783)<br><br>2013-10-09 14:03<br>赞(0) 踩(0) | <div>你是否知道在这一瞬间轻轻地 挥挥手 一颗心被埋葬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1651783)<br><br>2013-10-09 14:03<br>赞(0) 踩(0) | <div>你是否知道在这一瞬间<br>轻轻地 挥挥手 一颗心被埋葬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7156570)<br><br>2013-08-19 21:09<br>赞(11) 踩(0) | <div>汪峰的好多个都好想要去流浪 就这首很有要去春游的感觉~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6502000)<br><br>2013-08-11 23:33<br>赞(0) 踩(0) | <div>～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15973485)<br><br>2013-07-25 16:21<br>赞(0) 踩(0) | <div>带着放荡的痴心，跌落在天堂</div> |
@@ -162,7 +162,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1348747)<br><br>2012-10-13 21:58<br>赞(0) 踩(0) | <div>汪峰这首《挥挥手》的歌词我给打95分</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1652153)<br><br>2012-09-24 13:54<br>赞(1) 踩(0) | <div>校园歌谣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4829570)<br> <br>2012-09-17 22:23<br>赞(1) 踩(0) | <div>一首好歌，可以想到很多人，得到很多共鸣，然后微笑循环。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4244580)<br> <br>2012-09-16 17:55<br>赞(0) 踩(0) | <div>挥挥手，浪子翻过山冈，跳进了血与骨的河床；挥挥手，倦鸟飞过松林，隐没在碎与溃的深谷；蓝风筝和那橡树叶；蒲公英与那布谷鸟；带着放荡的痴心跌落在天堂；你是否看到我站在路旁，默默地，挥挥手送你去远方你是否知道在这一瞬间，轻轻地，挥挥手一颗心被埋葬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4244580)<br> <br>2012-09-16 17:55<br>赞(0) 踩(0) | <div>挥挥手，浪子翻过山冈，跳进了血与骨的河床；挥挥手，倦鸟飞过松林，隐没在碎与溃的深谷；蓝风筝和那橡树叶；蒲公英与那布谷鸟；带着放荡的痴心跌落在天堂；<br><br>你是否看到我站在路旁，默默地，挥挥手<br>送你去远方<br>你是否知道在这一瞬间，轻轻地，挥挥手<br>一颗心被埋葬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2959524)<br>我还没想好要写什么...<br>2012-09-11 17:26<br>赞(0) 踩(0) | <div>淡定面对，挥挥手，扒开浮云一片</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8493769)<br><br>2012-09-09 04:01<br>赞(0) 踩(0) | <div>一直避免听WF，歌里有太多故事，听着听着就不爽了，很不爽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6729438)<br>暂无签名~<br>2012-09-08 08:15<br>赞(0) 踩(0) | <div>挥挥手。</div> |
@@ -176,15 +176,15 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9071727)<br><br>2012-06-14 08:42<br>赞(0) 踩(0) | <div>蓝风筝和那橡树叶，蒲公英和那布谷鸟。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3532681)<br><br>2012-06-03 01:53<br>赞(0) 踩(0) | <div>迷上这首歌了，不能自拔了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9045604)<br><br>2012-05-23 11:39<br>赞(0) 踩(0) | <div>挥挥手</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7202345)<br><br>2012-05-01 21:09<br>赞(0) 踩(0) | <div>挥挥手 幸福掠过麦田推倒了几重的围墙挥挥手 晚上你回忆着你哪张失忆般的脸庞三月早和她去贡庙 这句话应该随信心带着迷惘的方向 坠落在路上你是否看到我站在路旁默默的挥挥手 送你去远方你是否知道在这一瞬间轻轻的爱  挥挥手</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7202345)<br><br>2012-05-01 21:09<br>赞(0) 踩(0) | <div>挥挥手 幸福掠过麦田<br>推倒了几重的围墙<br>挥挥手 晚上你回忆着<br>你哪张失忆般的脸庞<br>三月早和她去贡庙 这句话应该随信心<br>带着迷惘的方向 坠落在路上<br>你是否看到我站在路旁<br>默默的挥挥手 送你去远方<br>你是否知道在这一瞬间<br>轻轻的爱  挥挥手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2490283)<br> <br>2012-04-14 22:00<br>赞(0) 踩(0) | <div>那天在上地，躲在墙角向某人挥手。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1737954)<br><br>2012-02-17 23:13<br>赞(1) 踩(0) | <div>第一次认真听汪峰是从这首歌开始。嗯。好了，该休息了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261616)<br> <br>2012-02-16 10:42<br>赞(0) 踩(0) | <div>挥挥手 西风掠过麦田推倒了记忆中的围墙挥挥手 晚霞嫣红映醉你那张诗一般的脸庞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261616)<br> <br>2012-02-16 10:42<br>赞(0) 踩(0) | <div>挥挥手 西风掠过麦田<br>推倒了记忆中的围墙<br>挥挥手 晚霞嫣红映醉<br>你那张诗一般的脸庞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1784619)<br><br>2012-02-13 16:26<br>赞(0) 踩(0) | <div>越听越喜欢啦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1729547)<br>桃心与流苏<br>2012-02-07 21:34<br>赞(1) 踩(0) | <div>我弟把这歌刻在碟里在车上听，我一听，就特别有感觉，尤其是在路上的时候。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260442)<br>我还没想好要写什么...<br>2012-02-01 10:04<br>赞(0) 踩(0) | <div>挥挥手浪子翻过山岗跳进了血与骨的河床挥挥手 倦鸟飞过松林隐没在碎与溃深谷蓝风筝和那橡树叶蒲公英与那布谷鸟带着放荡的痴心 跌落在天堂</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260442)<br>我还没想好要写什么...<br>2012-02-01 10:04<br>赞(0) 踩(0) | <div>挥挥手浪子翻过山岗<br>跳进了血与骨的河床<br>挥挥手 倦鸟飞过松林<br>隐没在碎与溃深谷<br>蓝风筝和那橡树叶<br>蒲公英与那布谷鸟<br>带着放荡的痴心 跌落在天堂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4760075)<br><br>2012-01-19 21:46<br>赞(0) 踩(0) | <div>挥挥手迎新春~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/823994)<br><br>2012-01-04 17:08<br>赞(0) 踩(0) | <div>三叶草和那知更鸟 车菊花与那碎星星带着迷乱的芳香 跌落在路上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/823994)<br><br>2012-01-04 17:08<br>赞(0) 踩(0) | <div>三叶草和那知更鸟 车菊花与那碎星星<br>带着迷乱的芳香 跌落在路上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7491437)<br><br>2011-12-31 22:45<br>赞(0) 踩(0) | <div>还有一个半小时就告别2011迎接2012了,听首歌&amp;amp;lt;挥挥手&amp;amp;gt;告别挥过去的2011!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3731796)<br><br>2011-12-11 23:31<br>赞(1) 踩(0) | <div>汪峰难得的小清新。“挥挥手浪子翻过山岗，跳进了血与骨的河床，挥挥手 倦鸟飞过松林，隐没在碎与溃深谷，蓝风筝和那橡树叶，蒲公英与那布谷鸟，带着放荡的痴心 跌落在天堂”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444386)<br>Jazzy Mood<br>2011-12-10 13:04<br>赞(0) 踩(0) | <div>跟着伴奏可以唱许巍的《时光》。。。和弦一样。。</div> |
@@ -197,7 +197,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4859434)<br>倚楼听风雨，淡看江湖路<br>2011-08-19 22:48<br>赞(1) 踩(0) | <div>像诗一般的歌曲，大学的时候我都还在本子上抄这首歌的歌词……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1911332)<br><br>2011-08-12 21:46<br>赞(1) 踩(0) | <div>流畅的旋律下潜藏着遗憾与失落的情绪——“轻轻地，一颗心被埋葬！”是远走的恋人吗？是逝去的青春吗？是破碎的理想吗？这是一首充满诗情的歌曲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1496823)<br><br>2011-07-18 22:21<br>赞(1) 踩(0) | <div>意外的好听 旋律流畅 道不尽的离别啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/594931)<br>虾米4ever巴尔鲁克歌...<br>2011-06-26 12:25<br>赞(0) 踩(0) | <div>挥挥手！再见朋友！——“你是否看到我站在路旁，默默地，挥挥手送你去远方”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/594931)<br>虾米4ever巴尔鲁克歌...<br>2011-06-26 12:25<br>赞(0) 踩(0) | <div>挥挥手！再见朋友！——“你是否看到我站在路旁，默默地，挥挥手<br>送你去远方”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882217)<br><br>2011-06-18 23:40<br>赞(0) 踩(0) | <div>我今天听了一天这首《挥挥手》！脑子里就像蜘蛛网乱七八糟的，做事业要像挥挥手那么简单就好了，该来的就来，该走的就走！呵呵——</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359123)<br>△<br>2011-05-22 02:43<br>赞(0) 踩(0) | <div>◆挥挥手混蛋的事儿滚一边!看不惯我难道您就不能消停消停滚一边去?难不成您看不惯狗在吠也非得让自个儿趴一旁学着狗吠上几声才过瘾?You son of a bitch!!!◆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427525)<br><br>2011-05-15 12:31<br>赞(2) 踩(0) | <div>终于不吼了</div> |

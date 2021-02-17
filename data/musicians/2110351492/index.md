@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3ab0a986249e0f483898d90fb02c7be8.png)<br>石恩隆](https://i.xiami.com/xxxxwx) | **播放数**: 5241442<br>**粉丝数**: 203<br>**评论数**: 10<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/3ab0a986249e0f483898d90fb02c7be8.png)<br>石恩隆](https://i.xiami.com/xxxxwx) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 5241442<br>**粉丝数**: 203<br>**评论数**: 10<br> |
 
 ## 档案
 
@@ -32,8 +32,8 @@ WeChat：Shienlong924
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20834109)<br><br>2019-10-25 11:08<br>赞(1) 踩(0) | <div>不咋营业</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428544866)<br>你这是在为难俺胖虎<br>2019-08-20 22:13<br>赞(2) 踩(0) | <div>00后哎！同道中人。声音很清脆、干净；唱得很入情，容易引起共鸣。加油哦，很有潜力着呢。冲鸭冲鸭！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37175232)<br>Tomorrow is ...<br>2019-05-02 08:29<br>赞(1) 踩(0) | <div>声音很好听，耳朵酥了</div> |

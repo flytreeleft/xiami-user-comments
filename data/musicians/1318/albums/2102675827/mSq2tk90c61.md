@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430757814)<br><br>2020-08-24 20:49<br>赞(0) 踩(0) | <div>这么好的词曲，听者这么少，同予者何人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342212192)<br><br>2018-05-21 01:28<br>赞(0) 踩(0) | <div></div> |

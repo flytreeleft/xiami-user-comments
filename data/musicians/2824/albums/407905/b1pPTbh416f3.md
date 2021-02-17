@@ -41,8 +41,8 @@ he died on one thousand and his first bed
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117709258)<br> <br>2019-02-06 14:53<br>赞(0) 踩(0) | <div>…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/826343)<br><br>2017-12-20 09:33<br>赞(2) 踩(0) | <div>人人上遇见一傻逼跟我较真，非说披头士比joyside牛逼多多什么的。。 谁不知道啊，谁会较这个真呢？ 你真一傻逼！！喜欢就是喜欢，喜欢什么就是什么，没有权衡比较。一比就没劲了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44140680)<br>旅途愉快<br>2016-07-25 17:04<br>赞(1) 踩(0) | <div>⚫️</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/74f32822d789d1107d7b36a567306218.jpg)<br>顽童MJ116](https://i.xiami.com/mj116) | **播放数**: 56381000<br>**粉丝数**: 53523<br>**评论数**: 533<br>**地区**: Taiwan, PRC 中国台湾<br>**风格**: 流行说唱 Pop Rap, 嘻哈 Hip-Hop<br> |
+| [![](../../images/musicians/74f32822d789d1107d7b36a567306218.jpg)<br>顽童MJ116](https://i.xiami.com/mj116) | **地区**: Taiwan, PRC 中国台湾<br>**风格**: 流行说唱 Pop Rap, 嘻哈 Hip-Hop<br>**播放数**: 56381000<br>**粉丝数**: 53523<br>**评论数**: 533<br> |
 
 ## 档案
 
@@ -47,8 +47,8 @@ Muta   大渊  a.k.a  亚伦狄龙<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-16 08:05<br>赞(0) 踩(0) | <div>18821</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442923912)<br><br>2020-10-26 21:17<br>赞(0) 踩(0) | <div>这是顽童你知道的，但你知道了又如何。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405655632)<br>我还没想好要写什么...<br>2020-09-30 08:51<br>赞(0) 踩(0) | <div>期待今年有机会见到</div> |
@@ -319,7 +319,7 @@ Muta   大渊  a.k.a  亚伦狄龙<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136363612)<br>我行我素我有我的生活方式...<br>2016-07-11 07:29<br>赞(1) 踩(0) | <div>怎么出新专辑啊 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49265597)<br>我还没想好要写什么...<br>2016-07-06 20:27<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png">好好好好好好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99038090)<br>my future   ...<br>2016-07-03 09:53<br>赞(0) 踩(0) | <div>是生活的一部分，更是信仰 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99038090)<br>my future   ...<br>2016-07-03 09:52<br>赞(1) 踩(0) | <div>[回复@Mr.] <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png">昆明</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99038090)<br>my future   ...<br>2016-07-03 09:52<br>赞(1) 踩(0) | <div>[回复@<br>Mr.] <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png">昆明</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195704573)<br>我还没想好要写什么...<br>2016-06-30 14:19<br>赞(0) 踩(0) | <div>这是顽童你知道的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32231042)<br>没 个 性<br>2016-06-26 19:13<br>赞(0) 踩(0) | <div>水准真的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51996527)<br>我还没想好要写什么...<br>2016-06-23 22:50<br>赞(0) 踩(0) | <div>读过书的都知道这是顽童</div> |
@@ -575,7 +575,7 @@ Muta   大渊  a.k.a  亚伦狄龙<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8753897)<br><br>2012-04-06 20:50<br>赞(0) 踩(0) | <div>顽童MJ116</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337575)<br><br>2012-03-15 21:35<br>赞(0) 踩(0) | <div>我喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8371480)<br><br>2012-03-10 15:38<br>赞(0) 踩(0) | <div>你懂我意思</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1961442)<br><br>2011-04-24 19:46<br>赞(0) 踩(0) | <div>顽童MJ116中文网已正式上线www.mj116.com</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1961442)<br><br>2011-04-24 19:46<br>赞(0) 踩(0) | <div>顽童MJ116中文网已正式上线<br>www.mj116.com</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3615199)<br><br>2011-06-06 18:04<br>赞(0) 踩(0) | <div>很期待他们的下一张专辑，但是要等到什么时候啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1961442)<br><br>2011-06-12 10:38<br>赞(0) 踩(0) | <div><q><b>Don说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3015162)<br> <br>2011-03-09 17:28<br>赞(0) 踩(0) | <div>老顽童</div> |

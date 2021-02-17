@@ -3,13 +3,10 @@ DrEuphoria
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0830fd6cf7d15c857abdff8c7cb0d9da.jpg)<br>DrEuphoria](https://i.xiami.com/dreuphoria) | **播放数**: 3953735<br>**粉丝数**: 554<br>**评论数**: 37<br>**地区**: French Guiana 法属圭亚那<br>**风格**: 电子 Electronic<br> |
+| [![](../../images/musicians/0830fd6cf7d15c857abdff8c7cb0d9da.jpg)<br>DrEuphoria](https://i.xiami.com/dreuphoria) | **地区**: French Guiana 法属圭亚那<br>**风格**: 电子 Electronic<br>**播放数**: 3953735<br>**粉丝数**: 554<br>**评论数**: 37<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -66,8 +63,8 @@ DrEuphoria
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431925728)<br>再见了各位，希望在虾米下...<br>2020-06-19 23:39<br>赞(4) 踩(0) | <div>可以尝试去做做自己的电音，老是搬教主的歌不是很好</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429732797)<br>*面对懒惰的你充满了决心<br>2020-07-20 00:43<br>赞(0) 踩(0) | <div>ta现在都没有自己原创的歌曲，还说支持国人电音&amp;hellip;</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431925728)<br>再见了各位，希望在虾米下...<br>2020-07-25 21:55<br>赞(0) 踩(0) | <div><q><b>カイシン.百里说：</b></q></div> |
@@ -97,10 +94,10 @@ DrEuphoria
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320956595)<br><br>2018-12-25 17:06<br>赞(0) 踩(0) | <div>请问Alan Walker 的ignite 怎么找不到呢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345709759)<br><br>2018-07-13 21:50<br>赞(1) 踩(0) | <div>电音做的好棒，相信你会有自己的一片天地</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333660322)<br>我还没想好要写什么...<br>2018-06-06 17:56<br>赞(3) 踩(0) | <div>好听呢，神韵有了[带墨镜笑]</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327635122)<br><br>2018-01-05 13:38<br>赞(6) 踩(0) | <div>我还把你的歌收藏起来！！！诶！ <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png">有一些非物质东西是不能用金钱去购买或衡量的！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327635122)<br><br>2018-01-05 13:34<br>赞(7) 踩(0) | <div>为毛删我QQ号？是不是我说&amp;ldquo;我什么都没有！我没有经费！我没有设备！我没有技术！&amp;rdquo;才删 我的？啊！？你啊！就是为了钱那！！~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327635122)<br><br>2018-01-05 13:38<br>赞(6) 踩(0) | <div>我还把你的歌收藏起来！！！<br>诶！ <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"><br>有一些非物质东西是不能用金钱去购买或衡量的！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327635122)<br><br>2018-01-05 13:34<br>赞(7) 踩(0) | <div>为毛删我QQ号？<br>是不是我说&amp;ldquo;我什么都没有！我没有经费！我没有设备！我没有技术！&amp;rdquo;才删 我的？啊！？<br>你啊！就是为了钱那！！~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431925728)<br>再见了各位，希望在虾米下...<br>2020-07-30 23:00<br>赞(0) 踩(0) | <div>哈，现在咋样</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327635122)<br><br>2018-01-02 16:00<br>赞(1) 踩(0) | <div>可以收我为徒吗？！说真的！！！我现在温州！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327635122)<br><br>2018-01-02 16:00<br>赞(1) 踩(0) | <div>可以收我为徒吗？！<br>说真的！！！<br>我现在温州！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309119368)<br> <br>2017-11-02 07:39<br>赞(0) 踩(0) | <div>支持作者</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298585331)<br>我还没想好要写什么...<br>2017-10-22 16:18<br>赞(4) 踩(0) | <div>啊啊啊。新歌已经没人听了啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247606764)<br>这家伙很逗比什么也没留下...<br>2017-06-12 00:29<br>赞(2) 踩(0) | <div>顶顶 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |

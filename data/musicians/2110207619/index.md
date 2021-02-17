@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c2bb27e00356e99afb3df687e2bd4f9e.jpg)<br>简凯](https://i.xiami.com/jiankai) | **播放数**: 1576311<br>**粉丝数**: 39<br>**评论数**: 4<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter, 当代唱作人 Contemporary Singer-Songwriter<br> |
+| [![](../../images/musicians/c2bb27e00356e99afb3df687e2bd4f9e.jpg)<br>简凯](https://i.xiami.com/jiankai) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter, 当代唱作人 Contemporary Singer-Songwriter<br>**播放数**: 1576311<br>**粉丝数**: 39<br>**评论数**: 4<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -36,8 +33,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199002175)<br><br>2020-03-28 06:34<br>赞(0) 踩(0) | <div>帅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340340329)<br><br>2018-11-15 22:05<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374774737)<br>我习惯了不该习惯的习惯，...<br>2018-06-20 07:56<br>赞(0) 踩(0) | <div>你的歌聲真的好棒！加油</div> |

@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425426589)<br><br>2020-02-12 23:39<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343205389)<br>恣意繁衍的青鸟<br>2019-12-22 22:26<br>赞(2) 踩(0) | <div>纯净如水，身心灵都安逸...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266786530)<br>            ...<br>2019-10-18 07:47<br>赞(1) 踩(0) | <div>溜咪路过</div> |
@@ -32,7 +29,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55337376)<br>88 删啦<br>2019-01-25 09:42<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29785327)<br><br>2018-12-03 20:00<br>赞(3) 踩(0) | <div>从五年前到八月前，寥寥无几的评论，是不是这世界太浮躁？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186027293)<br>我还没想好要写什么...<br>2018-10-16 22:16<br>赞(3) 踩(0) | <div>越听越想哭呢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6623416)<br>ཨོཾ་མ་ཎི་པདྨ...<br>2018-10-15 09:03<br>赞(5) 踩(0) | <div>"当人的心胸变得更宽广的时候，他反而更能享受生命，去享受整个世界的美好。更美好的自己和更美好的世界，从来都是同一个方向。没有终点，但沿途是一片春光。"</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6623416)<br>ཨོཾ་མ་ཎི་པདྨ...<br>2018-10-15 09:03<br>赞(5) 踩(0) | <div>"当人的心胸变得更宽广的时候，他反而更能享受生命，去享受整个世界的美好。<br><br>更美好的自己和更美好的世界，从来都是同一个方向。没有终点，但沿途是一片春光。"</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782708)<br>万物皆自然，道法皆自然<br>2018-09-01 00:36<br>赞(0) 踩(0) | <div>嗡玛尼呗美哄</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350105855)<br><br>2018-07-12 12:08<br>赞(0) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11061680)<br>暂无签名~<br>2018-03-18 23:46<br>赞(24) 踩(0) | <div>每次得闻绿度母心咒，心中数数升起难以言表的欢喜！我在宇宙之爱中，爱在我心中，感动，感恩 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">深深祝福众生内心欢喜常伴，智悲增上 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
@@ -44,7 +41,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290950979)<br><br>2017-07-04 08:51<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135138580)<br><br>2017-05-27 18:59<br>赞(3) 踩(0) | <div>聽即解脫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3575103)<br>爱听歌的孩子<br>2017-04-04 23:27<br>赞(3) 踩(0) | <div>实在是太喜欢了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34463937)<br><br>2017-01-23 16:43<br>赞(26) 踩(0) | <div>绿度母心咒指的是度母将引导有情众生从轮回、痛苦中解脱出来，借着皈依度母和修持度母法门来依止度母，诸如持咒或是祈请，度母会以“达咧”来让我们解脱痛苦。尽管众生皆可让自己自轮回中获得解脱，并臻于涅盘，但要将自己从此一喜乐安详的境界中起身，开始为有情众生做事，却需要较长的时间。与得证后帮助他人的动机相比，只为自己获得证悟的目标过于局限。因此，度母让我们不仅解脱轮回，也解脱喜乐的平安境界，带领我们达到证悟。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34463937)<br><br>2017-01-23 16:43<br>赞(26) 踩(0) | <div>绿度母心咒指的是度母将引导有情众生从轮回、痛苦中解脱出来，借着皈依度母和修持度母法门来依止度母，诸如持咒或是祈请，度母会以“达咧”来让我们解脱痛苦。<br>尽管众生皆可让自己自轮回中获得解脱，并臻于涅盘，但要将自己从此一喜乐安详的境界中起身，开始为有情众生做事，却需要较长的时间。与得证后帮助他人的动机相比，只为自己获得证悟的目标过于局限。<br>因此，度母让我们不仅解脱轮回，也解脱喜乐的平安境界，带领我们达到证悟。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346085648)<br>听，是谁在唱歌<br>2018-11-27 22:07<br>赞(0) 踩(0) | <div>感谢分享</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10190586)<br>这家伙很聪明什么也没留下...<br>2016-12-31 21:41<br>赞(2) 踩(0) | <div>随着悦耳动听的声音进入到新的一年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31738604)<br> <br>2016-12-11 21:32<br>赞(1) 踩(0) | <div>今晚好好听一下。消除烦恼和执念。</div> |

@@ -28,5 +28,3 @@ And pretty maids all in a row
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

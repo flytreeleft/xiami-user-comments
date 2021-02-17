@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e68a2d40de9087e48bfc337677b269f1.jpg)<br>盘尼西林](https://i.xiami.com/penicillin) | **播放数**: 10005874<br>**粉丝数**: 20117<br>**评论数**: 372<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 独立摇滚 Indie Rock, 另类摇滚 Alternative Rock<br> |
+| [![](../../images/musicians/e68a2d40de9087e48bfc337677b269f1.jpg)<br>盘尼西林](https://i.xiami.com/penicillin) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 独立摇滚 Indie Rock, 另类摇滚 Alternative Rock<br>**播放数**: 10005874<br>**粉丝数**: 20117<br>**评论数**: 372<br> |
 
 ## 档案
 
@@ -36,8 +36,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72105180)<br>weibo: surfe...<br>2021-01-12 04:57<br>赞(0) 踩(0) | <div>以后不能在虾米听小乐唱歌了，成都见吧朋友们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/681153)<br>我还没想好要写什么...<br>2020-10-30 20:31<br>赞(0) 踩(0) | <div>前几天大望路和生汇看见小羊和女盆友了 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1546736)<br> <br>2020-10-30 12:24<br>赞(0) 踩(0) | <div>为啥老给我推他们的歌，谁能告诉我怎么把他们拉黑</div> |
@@ -53,7 +53,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34182751)<br>再见了朋友们 我们网易云...<br>2020-03-14 01:07<br>赞(1) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243372049)<br>请下一场黑雨<br>2020-03-12 17:12<br>赞(2) 踩(0) | <div>逼王</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13286031)<br>什么都可以没有，就是不能...<br>2020-02-19 14:49<br>赞(1) 踩(0) | <div>艺人与歌迷都需成长，望新一代的艺人不负新一代的使命。祝你们奋斗途中越来越好。中国需要大量用心玩音乐的人。☯️☯️☯️</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356186208)<br>不经常用，活动区在网易，...<br>2020-02-14 17:57<br>赞(4) 踩(0) | <div>做为一支自称不“英伦”却模仿英伦乐队的乐队，盘尼西林又非常不慎重地得罪了他们的“基本盘”——英伦粉。几个月以前，英国浪子乐队的成员之一卡尔·巴拉特来中国演出，结果张哲轩酒后耍酒疯，大闹school酒吧，并留下了诸如“让他们见识Chinese Kungfu”和“我在中国卖的票比他们多四倍”之类的酒后疯话。——转自摇滚天堂《盘尼西林是什么垃圾》说实话这些话把我逗乐了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356186208)<br>不经常用，活动区在网易，...<br>2020-02-14 17:57<br>赞(4) 踩(0) | <div>做为一支自称不“英伦”却模仿英伦乐队的乐队，盘尼西林又非常不慎重地得罪了他们的“基本盘”——英伦粉。<br><br>几个月以前，英国浪子乐队的成员之一卡尔·巴拉特来中国演出，结果张哲轩酒后耍酒疯，大闹school酒吧，并留下了诸如“让他们见识Chinese Kungfu”和“我在中国卖的票比他们多四倍”之类的酒后疯话。<br>——转自摇滚天堂《盘尼西林是什么垃圾》<br>说实话这些话把我逗乐了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290977065)<br>伪摇狂热爱好者<br>2020-08-14 17:58<br>赞(0) 踩(0) | <div>这段话挺有意思    但是滚堂的臭德行我也挺看不惯 <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1855171)<br>我还没想好要写什么...<br>2020-02-05 23:12<br>赞(1) 踩(0) | <div>还是你们的亲爹大张伟引领的好，看个臭节目真站起来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380016678)<br>亲爱的，别离开。<br>2020-01-29 13:27<br>赞(1) 踩(0) | <div>我爱专的封面</div> |
@@ -77,12 +77,12 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73108)<br>自由，理解，关爱。<br>2019-09-13 14:36<br>赞(27) 踩(0) | <div>不能苟同点赞第一的那位所谓抄袭论，盘尼西林的歌里确实有那些英伦大师的影子，我想那些年代的辉煌也深刻地影响他们，但是不能就说因为几个和弦相似就说抄（毕竟类oasis之流大约也就是三和弦之流哈哈，只能说他们太会写旋律了），我估计点赞第一那位举的例子也是哪里拷贝过来的，自己能懂多少英伦摇滚史都不确定，我仔细对比了那几首&amp;ldquo;抄袭歌曲&amp;rdquo;，也就Johnny marr那首确实有模仿痕迹，其他几首牵强了些，我相信他多听点/听的跨度大点，也就不会局限在oasis/coldplay/beatles/u2这些旋律大师身上，整个不列颠入侵那么多乐队风格相似，估计听到最后都要惊呼&amp;ldquo;抄来抄去&amp;rdquo;了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3090822)<br><br>2019-11-02 14:46<br>赞(0) 踩(0) | <div>我觉得可能是你听的太少了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1406728)<br> <br>2019-09-10 21:17<br>赞(8) 踩(0) | <div>主唱的才能根本撑不起他的拽，最后只能演变成纯粹的装逼</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428037009)<br>爱张哲轩三千遍，资料是假...<br>2019-09-04 13:33<br>赞(2) 踩(0) | <div>风轻拂过檐角铜铃，清脆温柔的铃音，背后都藏着一段甜蜜或痛楚的回忆。还记那年夏华时，27岁的你风华正茂。就如那满树落英缤纷，绿影浓荫。岁月只如初见，你头戴白帽，手持吉他，弦上轻拂，天籁缓缓流出。秋风画扇，只等花遍满山，人虽离散，情缘未断。回望一眼，便知万年。怕你如秋叶一般凋谢，怕你芳华不再。思念放飞天涯海角，只希望终有一日你把我心看到。你头戴白帽，待时光静语与我们共同变老，记忆里玉树临风的那个你仍然很美好。只想说，有你，真好。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428037009)<br>爱张哲轩三千遍，资料是假...<br>2019-09-04 13:33<br>赞(2) 踩(0) | <div>风轻拂过檐角铜铃，清脆温柔的铃音，背后都藏着一段甜蜜或痛楚的回忆。<br>还记那年夏华时，27岁的你风华正茂。就如那满树落英缤纷，绿影浓荫。<br>岁月只如初见，你头戴白帽，手持吉他，弦上轻拂，天籁缓缓流出。秋风画扇，只等花遍满山，人虽离散，情缘未断。回望一眼，便知万年。<br>怕你如秋叶一般凋谢，怕你芳华不再。思念放飞天涯海角，只希望终有一日你把我心看到。你头戴白帽，待时光静语与我们共同变老，记忆里玉树临风的那个你仍然很美好。<br>只想说，有你，真好。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40613275)<br>知足者常乐<br>2019-09-02 17:41<br>赞(0) 踩(0) | <div>群星闪耀时</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76479604)<br>记得从前 我拥有一切。时...<br>2019-09-02 12:32<br>赞(0) 踩(0) | <div>对本质了解的越少 越容易动情听歌吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428037009)<br>爱张哲轩三千遍，资料是假...<br>2019-08-29 17:50<br>赞(0) 踩(0) | <div>致张哲轩：The sky is crying blue as I wait for you,the fire in my heart burning white and true.A thousand mile the smoke has riding high both sides,I see your shadow outline trough.The sky still dark as I make my way to you,Our world is greener on the other side so free,the time is calling.——茫茫人海中你的死忠粉</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76479604)<br>记得从前 我拥有一切。时...<br>2019-09-02 12:32<br>赞(0) 踩(0) | <div>对本质了解的越少 越容易动情<br>听歌吧</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428037009)<br>爱张哲轩三千遍，资料是假...<br>2019-08-29 17:50<br>赞(0) 踩(0) | <div>致张哲轩：<br>The sky is crying blue as I wait for you,the fire in my heart burning white and true.A thousand mile the smoke has riding high both sides,I see your shadow outline trough.The sky still dark as I make my way to you,Our world is greener on the other side so free,the time is calling.<br>——茫茫人海中你的死忠粉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428037009)<br>爱张哲轩三千遍，资料是假...<br>2019-08-29 17:45<br>赞(1) 踩(0) | <div>These eyes have only one mind set upon us to,my present past and the future reside in you.Although the ink has come to fade,It's art and meaning still remain.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428037009)<br>爱张哲轩三千遍，资料是假...<br>2019-08-29 17:43<br>赞(1) 踩(0) | <div>致张哲轩：从宇宙诞生之初就已存在于世上的粒子，用数百亿年穿越时间和空间创造我们，好让你我在漫漫星河中遇见彼此。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428037009)<br>爱张哲轩三千遍，资料是假...<br>2019-08-29 17:43<br>赞(1) 踩(0) | <div>致张哲轩：<br>从宇宙诞生之初就已存在于世上的粒子，用数百亿年穿越时间和空间创造我们，好让你我在漫漫星河中遇见彼此。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/563649)<br><br>2019-08-23 16:32<br>赞(8) 踩(0) | <div>矛头全对准盘尼西林吧，试想哪个伟大的乐队不是这样过来的？你们越是这样他们会更牛逼，等着瞧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45263284)<br> <br>2019-08-20 23:30<br>赞(2) 踩(0) | <div>就喜欢小乐身上那股劲儿 爷们儿！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2279444)<br>爱在左，同情在右。<br>2019-08-20 12:12<br>赞(2) 踩(0) | <div>假酒害人</div> |
@@ -96,7 +96,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9696232)<br>who are U？别跟...<br>2019-08-20 11:52<br>赞(0) 踩(0) | <div>就你这肤浅的评论居然还是音乐人？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/150644716)<br>我和我的赘肉，一刻也不能...<br>2019-08-20 13:20<br>赞(0) 踩(0) | <div><q><b>假___象说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3210084)<br>我还没想好要写什么...<br>2019-08-11 13:58<br>赞(0) 踩(0) | <div>绿洲汉化组</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409506364)<br>我还没想好要写什么...<br>2019-08-10 12:45<br>赞(0) 踩(0) | <div>看看这群柠檬精一个比一个酸</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409506364)<br>我还没想好要写什么...<br>2019-08-10 12:45<br>赞(0) 踩(0) | <div>看看这群柠檬精<br>一个比一个酸</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108134068)<br>missing & wa...<br>2019-08-08 11:46<br>赞(3) 踩(0) | <div>哈哈哈哈哈，看到多数人都在骂这垃圾乐队我就放心了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377388231)<br>Qwert yui op...<br>2019-08-08 09:29<br>赞(0) 踩(0) | <div>喜欢他们的音乐。加油呀！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1450698)<br>若学不会游戏人生便逃不脱...<br>2019-08-04 18:20<br>赞(2) 踩(0) | <div>恶臭</div> |
@@ -104,7 +104,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13667738)<br>Hang Him To ...<br>2019-08-04 02:56<br>赞(9) 踩(0) | <div>九连比不过这乐队？  金主爸爸牛逼了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5174700)<br>山就在那里。<br>2019-08-04 01:28<br>赞(2) 踩(0) | <div>娘炮乐队不喜欢，乍听躁了吧唧，根本没什么力量。不接地气，滚到英国去舔吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14025234)<br>我还没想好要写什么...<br>2019-08-03 21:41<br>赞(20) 踩(0) | <div>太次了这个队，主唱太装了，有这必要吗，歌词肤浅，技术倒数，是怎么混到前七的？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334842259)<br><br>2019-08-03 11:02<br>赞(2) 踩(0) | <div>就喜欢这性格，身边都是这种人说脱粉的都是没几个滚圈朋友的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334842259)<br><br>2019-08-03 11:02<br>赞(2) 踩(0) | <div>就喜欢这性格，身边都是这种人<br>说脱粉的都是没几个滚圈朋友的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292320940)<br> <br>2019-08-01 19:56<br>赞(1) 踩(0) | <div>张曼乐你好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124693490)<br>我还没想好要写什么...<br>2019-07-31 15:10<br>赞(4) 踩(0) | <div>13王 很让我不喜欢的乐队.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3940349)<br>我还没想好要写什么...<br>2019-07-30 03:16<br>赞(15) 踩(0) | <div>别的都不说.我就是想吐槽一下.这个乐队这中文logo.我要是没记错.学生时代写在贺卡上的 生日快乐.一帆风顺.不是这个写法吗？对不起.歌我真是没法听！哈哈哈哈</div> |
@@ -117,7 +117,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46163590)<br>吃的饭还是比听的歌多一些...<br>2019-09-06 16:06<br>赞(0) 踩(0) | <div><q><b>ChaoSelf说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40613275)<br>知足者常乐<br>2019-09-09 18:01<br>赞(0) 踩(0) | <div><q><b>阿道克船长说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55509495)<br>心之所向，素履可往<br>2019-07-14 18:01<br>赞(0) 踩(0) | <div>现在看到盘尼西林就想起那段京骂。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401187580)<br><br>2019-07-14 12:16<br>赞(2) 踩(0) | <div>最喜欢盘尼西林了从没喜欢一个明星但是就喜欢盘尼西林的独特的魅力</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401187580)<br><br>2019-07-14 12:16<br>赞(2) 踩(0) | <div>最喜欢盘尼西林了<br>从没喜欢一个明星<br>但是就喜欢盘尼西林的独特的魅力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205641671)<br>来者犹可追<br>2019-07-14 01:52<br>赞(1) 踩(0) | <div>年少有志 尚溢余勇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53737210)<br>哼哼哼<br>2019-07-13 21:12<br>赞(89) 踩(0) | <div>我想知道有多少歌是他自己写的而不是抄的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40613275)<br>知足者常乐<br>2019-09-03 18:34<br>赞(0) 踩(0) | <div>那首抄了你发发原曲，别就哔哔，这么多赞是都知道还是都听过</div> |
@@ -192,8 +192,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266795034)<br><br>2019-05-11 20:58<br>赞(26) 踩(0) | <div>以后改名“板蓝根”吧，这样更有底气一点 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125120658)<br>让我溺死在音乐之中吧.<br>2019-05-11 00:20<br>赞(4) 踩(0) | <div>有机会去一定要去现场看中国功夫表演！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420931880)<br><br>2019-05-10 19:16<br>赞(41) 踩(0) | <div>酒品不好就少喝點 別再鬧騰了 惹出事端再來給錢公眾號發推文也沒什麼意義 <img src="../../images/comments/2afbca6d708e05ceb54408ecc4db825c.png"></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401006052)<br>唯美主义者<br>2019-05-10 23:00<br>赞(0) 踩(0) | <div>那凭么不让人家上二楼啊你又没包场喜欢归喜欢，道理归道理粥之前还不给立不挺脸呢我也没见你到粥主页上骂liam啊这种事儿滚圈少吗?给什么钱啊给你觉得啥事处理方式都跟饭圈似的吗?您在这儿欺负什么人呢?</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401006052)<br>唯美主义者<br>2019-05-10 23:04<br>赞(0) 踩(0) | <div>没包场不让顾客上楼，到人家的地界来还搡人家地界上的人，我觉得这事儿太魔幻了。你咋不去教训carl的团队呢，什么素质！这酒品也是绝了。我就是因为你才查到这事儿的，杨子虚说话真难听，但是现在看来也不是完全不对嘛。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401006052)<br>唯美主义者<br>2019-05-10 23:00<br>赞(0) 踩(0) | <div>那凭么不让人家上二楼啊<br>你又没包场<br>喜欢归喜欢，道理归道理<br>粥之前还不给立不挺脸呢<br>我也没见你到粥主页上骂liam啊<br>这种事儿滚圈少吗?<br>给什么钱啊给<br>你觉得啥事处理方式都跟饭圈似的吗?<br>您在这儿欺负什么人呢?</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401006052)<br>唯美主义者<br>2019-05-10 23:04<br>赞(0) 踩(0) | <div>没包场不让顾客上楼，到人家的地界来还搡人家地界上的人，我觉得这事儿太魔幻了。你咋不去教训carl的团队呢，什么素质！这酒品也是绝了。<br>我就是因为你才查到这事儿的，杨子虚说话真难听，但是现在看来也不是完全不对嘛。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420931880)<br><br>2019-05-10 23:21<br>赞(0) 踩(0) | <div><q><b>香槟超旧星说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41214171)<br>文质彬彬好青年<br>2019-05-10 17:02<br>赞(1) 踩(0) | <div>让他们见识一下中国功夫！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/147361618)<br>再会<br>2019-05-10 06:33<br>赞(1) 踩(0) | <div>牛儿逼儿</div> |
@@ -260,7 +260,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45292964)<br>安静听歌<br>2018-03-27 23:29<br>赞(0) 踩(0) | <div>南京欧拉见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330077169)<br><br>2018-03-21 11:13<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9616118)<br><br>2018-03-19 14:58<br>赞(1) 踩(0) | <div>老老实实唱中文不行么 Chinglish就不要出来拽了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267726289)<br><br>2018-02-27 18:32<br>赞(4) 踩(0) | <div>奇怪，为什么从英文里听出来一股中文味不过还是好听的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267726289)<br><br>2018-02-27 18:32<br>赞(4) 踩(0) | <div>奇怪，为什么从英文里听出来一股中文味<br>不过还是好听的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34118847)<br>自我实现<br>2018-02-23 16:55<br>赞(0) 踩(0) | <div>正能量</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32051445)<br>女孩儿的歌。 永爱虾米<br>2018-02-01 23:06<br>赞(1) 踩(0) | <div>阿比鹿阿比鹿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295408661)<br><br>2018-01-29 17:23<br>赞(0) 踩(0) | <div>会来成都的小酒馆吗？</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ee83e0ed7220c761e008d3acbe3988af.jpg)<br>陈弘礼](https://i.xiami.com/chl3d) | **播放数**: 2356057<br>**粉丝数**: 1243<br>**评论数**: 57<br>**地区**: China 中国大陆<br>**风格**: 实验音乐 Experimental, 自由即兴 Free Improvisation, 氛围音乐 Ambient, 电影原声 Film Score, 自然采样 Field Recordings<br> |
+| [![](../../images/musicians/ee83e0ed7220c761e008d3acbe3988af.jpg)<br>陈弘礼](https://i.xiami.com/chl3d) | **地区**: China 中国大陆<br>**风格**: 实验音乐 Experimental, 自由即兴 Free Improvisation, 氛围音乐 Ambient, 电影原声 Film Score, 自然采样 Field Recordings<br>**播放数**: 2356057<br>**粉丝数**: 1243<br>**评论数**: 57<br> |
 
 ## 档案
 
@@ -41,8 +41,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327738127)<br>荒诞和虚无<br>2020-12-01 00:53<br>赞(0) 踩(0) | <div>你很强</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/933157)<br>泥豪啊同志！<br>2020-09-09 20:56<br>赞(0) 踩(0) | <div>已</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70271654)<br><br>2020-05-24 17:34<br>赞(0) 踩(0) | <div>全息那个专实在是太喜欢了</div> |
@@ -89,7 +89,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1167775)<br>浪费脑细胞想签名干嘛！<br>2016-03-17 15:25<br>赞(0) 踩(0) | <div>你很棒</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287858411)<br><br>2017-07-01 18:25<br>赞(0) 踩(0) | <div>知道你太晚 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png">太棒了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287858411)<br><br>2017-07-01 18:26<br>赞(0) 踩(0) | <div>你怎可以这么有才 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/589005)<br><br>2017-10-27 23:47<br>赞(0) 踩(0) | <div>搜 奶特，有个蒙牛的精选集里头都是且只有你的3D歌曲。。。既然是商业化品牌的或许可以沟通下看怎么互惠合作？祝福～</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/589005)<br><br>2017-10-27 23:47<br>赞(0) 踩(0) | <div>搜 奶特，有个蒙牛的精选集里头都是且只有你的3D歌曲。。。既然是商业化品牌的或许可以沟通下看怎么互惠合作？<br><br>祝福～</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9495219)<br><br>2018-06-07 13:39<br>赞(0) 踩(0) | <div>真的很喜欢这张专辑，听了无数遍了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2013-05-22 02:53<br>赞(0) 踩(0) | <div>您真棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10786093)<br><br>2013-03-27 16:14<br>赞(10) 踩(0) | <div>陈底里尝试把不同的声音采样与音效 放进自己的调色板 通过拼贴绘制出一幅幅音乐的抽象画 题材涉及心理活动 情绪 生活场景以及幻想空间 色调偏晦涩且略显病态 造型则经过了变形处理后显得扭曲 有几分怪诞与丑陋 。。。一位有才华且特立独行的声音艺术家</div> |

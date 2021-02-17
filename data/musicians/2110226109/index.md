@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/076368526ccb1734636dc1e7f5e7dece.jpg)<br>周超亚](https://i.xiami.com/zcyzcy) | **播放数**: 1819488<br>**粉丝数**: 260<br>**评论数**: 12<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 青少年流行 Teen Pop, 电音流行 Electropop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/076368526ccb1734636dc1e7f5e7dece.jpg)<br>周超亚](https://i.xiami.com/zcyzcy) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 青少年流行 Teen Pop, 电音流行 Electropop, 国语流行 Mandarin Pop<br>**播放数**: 1819488<br>**粉丝数**: 260<br>**评论数**: 12<br> |
 
 ## 档案
 
@@ -13,13 +13,11 @@
 
 ## 专辑
 
-| 名称 | 语种 | 唱片公司 | 发行时间 | 专辑类别 | 专辑风格 |
-| :--: | :-- | :-- | :-- | :-- | :-- |
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442411021)<br>永远支持“姓邓”的人<br>2020-12-23 16:53<br>赞(2) 踩(0) | <div>@周超亚 你唱桥边姑娘的声音很好听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440263466)<br><br>2020-06-28 19:14<br>赞(1) 踩(0) | <div>你怎么这么会唱啊？心都要萌化了 <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233220867)<br>周超亚<br>2020-07-09 23:41<br>赞(0) 踩(0) | <div>现在每天都有直播 D  Y zcy05278888</div> |

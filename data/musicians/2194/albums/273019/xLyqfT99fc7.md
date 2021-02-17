@@ -85,10 +85,10 @@ RAP：<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380353526)<br><br>2020-12-15 21:08<br>赞(0) 踩(0) | <div>日本就是面镜子，照出中韩的丑陋，一个怨妇，一个。厚脸皮！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380353526)<br><br>2020-12-15 14:01<br>赞(0) 踩(0) | <div>钓鱼岛还是给日本吧。。。这。。。哈哈哈哈，我们受过专业训练的，除非忍不住 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380353526)<br><br>2020-12-15 14:01<br>赞(0) 踩(0) | <div>钓鱼岛还是给日本吧。。。<br><br>这。。。哈哈哈哈，我们受过专业训练的，除非忍不住 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380353526)<br><br>2020-12-15 11:55<br>赞(0) 踩(0) | <div>就一个小岛 至于那么爆棚吗 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45638459)<br><br>2020-09-30 22:03<br>赞(1) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20386088)<br><br>2020-05-18 16:27<br>赞(1) 踩(0) | <div>赞</div> |
@@ -167,7 +167,7 @@ RAP：<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27282897)<br><br>2013-11-15 13:45<br>赞(1) 踩(0) | <div>老爸喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9991184)<br><br>2013-10-28 11:02<br>赞(1) 踩(0) | <div>说实话，挺民族的挺热血的，可是怎么这么可笑啊，哈哈哈哈，笑死了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1311)<br>@彩荷之光<br>2013-10-21 22:07<br>赞(1) 踩(0) | <div>小倭奴听到后腿一定更罗圈了~2333333333333</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2446953)<br><br>2013-10-11 16:04<br>赞(1) 踩(0) | <div>其实也蛮喜欢王蓉的，可是不喜欢喊口号的歌曲。wg时代这种歌多了，可是那些既不是文艺作品，也一点不娱乐。看得出这首歌参考了郭兰英的“我的祖国”，后者确实是一首深入人心的经典之作。那么看看“我的祖国”的词是怎么写的？绝不是连篇口号，而是有艺术内涵的，所以这支歌的传唱不是凭谁的命令能做到的。所谓桃李不言，下自成蹊。想想看，那是在真正的战争时代的作品啊。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2446953)<br><br>2013-10-11 16:04<br>赞(1) 踩(0) | <div>其实也蛮喜欢王蓉的，可是不喜欢喊口号的歌曲。wg时代这种歌多了，可是那些既不是文艺作品，也一点不娱乐。<br>看得出这首歌参考了郭兰英的“我的祖国”，后者确实是一首深入人心的经典之作。那么看看“我的祖国”的词是怎么写的？绝不是连篇口号，而是有艺术内涵的，所以这支歌的传唱不是凭谁的命令能做到的。所谓桃李不言，下自成蹊。想想看，那是在真正的战争时代的作品啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7282290)<br><br>2013-09-13 11:03<br>赞(2) 踩(0) | <div>我擦~被洗脑了~~~满脑子都是这个旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8904024)<br><br>2013-08-31 01:20<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈简直是**歌十大金曲榜首哈哈哈哈哈哈哈哈哈我要跟着扭起来了！！！！如果你是豺狼给你大拳头哈哈哈哈哈哈哈哈哈哈哈！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19740944)<br><br>2013-08-19 22:32<br>赞(0) 踩(0) | <div>牛BBBBBBBBBBBBBBBBBBBBBBBBBBB</div> |

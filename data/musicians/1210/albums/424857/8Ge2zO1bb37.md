@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50001695)<br><br>2020-12-28 21:35<br>赞(0) 踩(0) | <div>小岳岳长得这么粗犷，唱歌却有点点娘，挺有特色的&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32051445)<br>女孩儿的歌。 永爱虾米<br>2020-12-01 08:05<br>赞(0) 踩(0) | <div>擦 这简直就是我的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319688150)<br>愿经典不被遗忘<br>2020-11-28 01:22<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
@@ -92,7 +92,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266220638)<br>我还没想好要写什么...<br>2018-07-03 19:53<br>赞(2) 踩(0) | <div>詹姆斯阿岳就要结婚了，我很难过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348693903)<br><br>2018-06-26 20:06<br>赞(1) 踩(0) | <div>endepowde❤️me</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196781938)<br><br>2018-06-25 17:07<br>赞(1) 踩(0) | <div>这家伙唱完两手空空，又唱妙手空空 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/185467060)<br><br>2018-05-09 16:02<br>赞(2) 踩(0) | <div>人生啊 本来是一场梦大梦一场的董二千先生</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/185467060)<br><br>2018-05-09 16:02<br>赞(2) 踩(0) | <div>人生啊 本来是一场梦<br><br>大梦一场的董二千先生</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32051445)<br>女孩儿的歌。 永爱虾米<br>2020-12-01 08:06<br>赞(0) 踩(0) | <div>？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338667863)<br><br>2018-04-23 23:27<br>赞(4) 踩(0) | <div>爱又怎样又不能当饭吃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2018-04-23 17:25<br>赞(2) 踩(0) | <div>做美梦～</div> |
@@ -307,7 +307,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43849668)<br>碧海青天夜夜心……<br>2015-02-20 10:18<br>赞(4) 踩(0) | <div>喜欢他写的歌，朴实无华，却真心动人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16787013)<br>Fool here.<br>2014-11-26 00:14<br>赞(0) 踩(0) | <div>两手空空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1541063)<br>口嫌体正直<br>2014-11-11 13:08<br>赞(0) 踩(0) | <div>早安</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3339775)<br><br>2014-10-28 06:40<br>赞(0) 踩(0) | <div>“人生啊~本来是一场梦&nbsp;~&nbsp;做美梦~ 醒来两手空空~”早安呐！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3339775)<br><br>2014-10-28 06:40<br>赞(0) 踩(0) | <div>“人生啊~本来是一场梦&nbsp;~<br>&nbsp;做美梦~ 醒来两手空空~”早安呐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34210068)<br> <br>2014-10-13 19:14<br>赞(0) 踩(0) | <div>逛商场 在百武西听到 挥之不去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3754615)<br><br>2014-08-09 21:46<br>赞(0) 踩(0) | <div>赞赞赞赞赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8049837)<br>我还没想好要写什么...<br>2014-05-08 23:42<br>赞(0) 踩(0) | <div>我这么穷 混迹肯麥</div> |
@@ -316,7 +316,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8478846)<br><br>2014-03-16 12:26<br>赞(0) 踩(0) | <div>Less is more.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31137166)<br><br>2014-01-05 16:41<br>赞(0) 踩(0) | <div>还可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28173174)<br>暂无签名~<br>2013-12-15 09:13<br>赞(0) 踩(0) | <div>这调我喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11301493)<br><br>2013-11-12 12:19<br>赞(1) 踩(0) | <div>爱又怎样 又不能当饭吃我口袋没有钱请你吃饭爱我很累 我总是一无所有但是我看你也没想要走我这么穷 总是在打零工谁不希望在办公室吹风我没奢求 你要如何对我因为我能给你的不够多人生啊 本来是一场梦做美梦 醒来两手空空爱情啊 但愿能有结果</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11301493)<br><br>2013-11-12 12:19<br>赞(1) 踩(0) | <div>爱又怎样 又不能当饭吃<br>我口袋没有钱请你吃饭<br><br>爱我很累 我总是一无所有<br>但是我看你也没想要走<br><br>我这么穷 总是在打零工<br>谁不希望在办公室吹风<br><br>我没奢求 你要如何对我<br>因为我能给你的不够多<br><br>人生啊 本来是一场梦<br>做美梦 醒来两手空空<br>爱情啊 但愿能有结果</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7793978)<br>我还没想好要写什么...<br>2013-10-31 22:37<br>赞(0) 踩(0) | <div>呵呵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7848254)<br> <br>2013-10-15 21:11<br>赞(0) 踩(0) | <div>深夜国贸的风，只想到这首歌。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17708903)<br><br>2013-10-07 21:31<br>赞(1) 踩(0) | <div>重听张震岳，感觉异常棒！！！！！</div> |
@@ -326,13 +326,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12710536)<br><br>2013-09-08 22:09<br>赞(0) 踩(0) | <div>呵呵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18533759)<br><br>2013-09-04 22:46<br>赞(0) 踩(0) | <div>人生啊，本来是一场梦••••</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6811333)<br><br>2013-08-31 14:52<br>赞(0) 踩(0) | <div>人森在世走一回 怎能总是事与愿违</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11301493)<br><br>2013-08-29 22:17<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦做美梦 醒来两手空空</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11301493)<br><br>2013-08-29 22:17<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦<br>做美梦 醒来两手空空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18825705)<br><br>2013-08-20 21:57<br>赞(0) 踩(0) | <div>明天还是要过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9902579)<br><br>2013-08-19 10:19<br>赞(1) 踩(0) | <div>擦干泪明天还要上班</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10422162)<br><br>2013-08-09 14:17<br>赞(0) 踩(0) | <div>上〜课〜去〜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18134961)<br><br>2013-08-01 16:52<br>赞(0) 踩(0) | <div>我想要的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2383963)<br><br>2013-07-26 21:41<br>赞(0) 踩(0) | <div>人生那，本来是一场梦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17250313)<br><br>2013-07-13 22:52<br>赞(0) 踩(0) | <div>爱情中不需要借口，爱就爱，不爱就离开。不要说什么你给不了什么，我要的只是你。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17250313)<br><br>2013-07-13 22:52<br>赞(0) 踩(0) | <div>爱情中不需要借口，爱就爱，不爱就离开。<br>不要说什么你给不了什么，我要的只是你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16564295)<br><br>2013-07-10 21:31<br>赞(0) 踩(0) | <div>人生呐 本来是一场梦 做美梦 醒来两手空空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9963423)<br><br>2013-07-07 11:46<br>赞(0) 踩(0) | <div>爱又怎样又不能当饭吃，我口袋没有钱请你吃饭。我总是一无所有，但是我看你也没想要走。我没奢求 你要如何对我，因为我能给你的不够多。人生啊，本来是一场梦，做美梦，醒来两手空空。爱情啊，但愿能有结果，擦干泪，明天还是要过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6362245)<br><br>2013-07-01 18:52<br>赞(0) 踩(0) | <div>贵</div> |
@@ -347,7 +347,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4714412)<br><br>2013-03-20 22:53<br>赞(0) 踩(0) | <div>咋个办 今天对他呢歌超有感觉~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12149798)<br>wickham<br>2013-03-10 21:24<br>赞(0) 踩(0) | <div>两手空空。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10917054)<br>苦难的延续.<br>2013-02-06 13:24<br>赞(0) 踩(0) | <div>两手空空~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-01-17 18:08<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦做美梦 醒来两手空空爱情啊 但愿能有结果擦干泪 明天还是要过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-01-17 18:08<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦<br>做美梦 醒来两手空空<br>爱情啊 但愿能有结果<br>擦干泪 明天还是要过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3489183)<br><br>2013-01-12 19:54<br>赞(0) 踩(0) | <div>两手空空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-01-07 05:37<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/1771456573" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771456573</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10474779)<br><br>2012-12-29 11:32<br>赞(0) 踩(0) | <div>哦呵呵呵呵呵</div> |
@@ -386,11 +386,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5732351)<br><br>2011-12-29 23:16<br>赞(0) 踩(0) | <div>爱又怎样 又不能当饭吃 我口袋没有钱请你吃饭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3519413)<br><br>2011-12-18 23:33<br>赞(0) 踩(0) | <div>一直喜欢他的感觉！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4882388)<br><br>2011-12-17 15:40<br>赞(0) 踩(0) | <div>我不奢求您要如何对我~因为我能给您的不够多~ 认识哪~本来是一场梦，我做美梦，醒来两手空空~爱情呐~但愿能有结果~ 哈哈哈 张震岳这首歌一听就让人很高兴。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1140475)<br><br>2011-12-17 13:39<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦做美梦 醒来两手空空爱情啊 但愿能有结果擦干泪 明天还是要过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1140475)<br><br>2011-12-17 13:39<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦<br>做美梦 醒来两手空空<br>爱情啊 但愿能有结果<br>擦干泪 明天还是要过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3055526)<br><br>2011-12-05 11:07<br>赞(0) 踩(0) | <div>找到感觉了！阿嶽！！！！吃饭！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1748902)<br><br>2011-11-24 15:27<br>赞(0) 踩(0) | <div>酷死了！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1232222)<br> <br>2011-11-22 23:00<br>赞(0) 踩(0) | <div>新專輯 好聽死 &amp;amp;gt; &amp;amp;lt;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1140475)<br><br>2011-11-22 15:49<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦做美梦 醒来两手空空</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1140475)<br><br>2011-11-22 15:49<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦<br>做美梦 醒来两手空空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4226435)<br>新新鲜鲜炮炮炮<br>2011-11-22 03:20<br>赞(0) 踩(0) | <div>经典阿岳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6489610)<br><br>2011-11-15 20:57<br>赞(0) 踩(0) | <div>张震岳的歌在于简单好唱容易high，ktv必唱啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6228116)<br><br>2011-11-12 00:36<br>赞(0) 踩(0) | <div>哈哈……这歌合适今儿这日子哈哈……</div> |
@@ -441,8 +441,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1043400)<br><br>2011-06-30 23:57<br>赞(0) 踩(0) | <div>他的歌总是轻描淡写的 唱出现实..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1996396)<br><br>2011-06-29 21:12<br>赞(0) 踩(0) | <div>人生啊，不过一场梦。做美梦，醒来时两手空空。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3642225)<br><br>2011-06-29 11:31<br>赞(0) 踩(0) | <div>很随意啊，尤其是自己戴着耳机享受在摇滚的音乐世界里，世外的一切纷繁复扰都与自己没关！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4108070)<br><br>2011-06-28 19:49<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦做美梦 醒来两手空空爱情啊 但愿能有结果擦干泪 明天还是要过</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4108070)<br><br>2011-06-28 19:45<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦做美梦 醒来两手空空爱情啊 但愿能有结果擦干泪 明天还是要过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4108070)<br><br>2011-06-28 19:49<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦<br>做美梦 醒来两手空空<br>爱情啊 但愿能有结果<br>擦干泪 明天还是要过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4108070)<br><br>2011-06-28 19:45<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦<br>做美梦 醒来两手空空<br>爱情啊 但愿能有结果<br>擦干泪 明天还是要过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4136812)<br><br>2011-06-28 13:45<br>赞(0) 踩(0) | <div>“裸婚”当道，听听张震岳诠释的“裸婚”吧~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4212770)<br><br>2011-06-27 15:51<br>赞(0) 踩(0) | <div>特别喜欢这首歌的旋律，曲调多少有点吊儿郎当的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2827864)<br><br>2011-06-26 20:04<br>赞(0) 踩(0) | <div>人生哪，本来就是一场梦。做美梦，醒来两手空空。</div> |
@@ -467,7 +467,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3053869)<br><br>2011-06-12 14:35<br>赞(0) 踩(0) | <div>就是喜欢听他这样痞痞得唱来这些句子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3694351)<br><br>2011-06-09 13:34<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦做美梦 醒来两手空空爱情啊 但愿能有结果擦干泪 明天还是要过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1374406)<br><br>2011-06-08 11:11<br>赞(0) 踩(0) | <div>游牧诗人般</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/562843)<br> <br>2011-06-02 10:18<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦做美梦 醒来两手空空爱情啊 但愿能有结果擦干泪 明天还是要过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/562843)<br> <br>2011-06-02 10:18<br>赞(0) 踩(0) | <div>人生啊 本来是一场梦<br>做美梦 醒来两手空空<br>爱情啊 但愿能有结果<br>擦干泪 明天还是要过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2141438)<br><br>2011-06-01 16:15<br>赞(0) 踩(0) | <div>、、、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1083771)<br><br>2011-05-29 18:58<br>赞(0) 踩(0) | <div>感觉倍儿棒。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2286530)<br><br>2011-05-29 18:09<br>赞(0) 踩(0) | <div>这就是张震岳的调性。好！</div> |

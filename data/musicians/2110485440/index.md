@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/04d082d7c39f6a16abf5f7af1fc868fe.jpg)<br>情词尧](https://i.xiami.com/qcy) | **播放数**: 16530793<br>**粉丝数**: 532<br>**评论数**: 40<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/04d082d7c39f6a16abf5f7af1fc868fe.jpg)<br>情词尧](https://i.xiami.com/qcy) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 16530793<br>**粉丝数**: 532<br>**评论数**: 40<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -39,8 +36,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/437370044)<br>喜欢一个人就要勇敢的让她...<br>2020-02-25 12:37<br>赞(0) 踩(0) | <div>很好听哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434533091)<br><br>2019-12-22 19:31<br>赞(0) 踩(0) | <div>好听好听，加油加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428235557)<br><br>2019-10-24 23:07<br>赞(0) 踩(0) | <div>，</div> |

@@ -67,8 +67,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317705899)<br><br>2019-03-17 23:44<br>赞(0) 踩(0) | <div>今天是你离开我整一年，我想你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256126220)<br> <br>2018-12-06 14:51<br>赞(0) 踩(0) | <div>每一次听都没忍的住！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335697325)<br><br>2018-09-19 08:47<br>赞(2) 踩(0) | <div>没能见到你最后一面，我永远无法释怀</div> |
@@ -81,7 +81,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336179054)<br>2017.11.19下载...<br>2018-07-22 23:10<br>赞(4) 踩(0) | <div>突然想爸爸了，搜索了这首歌听听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317705899)<br><br>2018-07-22 20:55<br>赞(2) 踩(0) | <div>这首歌很早就听过，但现在才真正理解歌中所唱的内涵，3月27日父亲离开了我，我知道他摆脱了病痛的折磨，可我却是多么的不舍。希望我每个月的27日能听到这首歌，寄托对父亲的哀思。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377798362)<br><br>2018-07-18 02:32<br>赞(2) 踩(0) | <div>爸爸我想你 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">又一次从梦中哭醒 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">愿你在天堂一切都好 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329234329)<br><br>2018-07-13 17:42<br>赞(1) 踩(0) | <div>爸爸走了一个月又十一天我想你了，爸爸</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329234329)<br><br>2018-07-13 17:42<br>赞(1) 踩(0) | <div>爸爸走了一个月又十一天<br>我想你了，爸爸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370363958)<br><br>2018-07-09 19:18<br>赞(0) 踩(0) | <div>爸爸我想你，您的突然离开，我真的很心痛，爸爸在天堂里的你一切都好 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317705899)<br><br>2018-06-26 23:21<br>赞(1) 踩(0) | <div>明天是你离开我三个月，我从来没有象现在体会到这首歌的感受！爸爸，我想你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-22 00:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
@@ -125,7 +125,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40335095)<br><br>2015-05-01 18:33<br>赞(0) 踩(0) | <div>爸爸，我们想念你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40335095)<br><br>2015-05-01 18:31<br>赞(0) 踩(0) | <div>我们想念你，爸爸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49669321)<br><br>2015-04-29 08:14<br>赞(0) 踩(0) | <div>最简致的伴奏，最动人的声音，第一次听到是那个张傲月的舞蹈。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32293630)<br>Sorude<br>2015-03-08 22:32<br>赞(1) 踩(0) | <div>子欲养而亲不待你是不是以一种我不知道的形式在我们身边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32293630)<br>Sorude<br>2015-03-08 22:32<br>赞(1) 踩(0) | <div>子欲养而亲不待<br>你是不是以一种我不知道的形式在我们身边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2832118)<br><br>2014-12-10 23:02<br>赞(0) 踩(0) | <div>呼…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1942196)<br> <br>2014-11-22 23:31<br>赞(2) 踩(0) | <div>爸爸，我很想你，很想你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28419629)<br>暂无签名~<br>2014-10-10 11:51<br>赞(0) 踩(0) | <div>mama said</div> |
@@ -133,7 +133,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22663709)<br><br>2014-08-19 09:45<br>赞(0) 踩(0) | <div>汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34141085)<br>像一朵雪莲盛开<br>2014-07-21 21:31<br>赞(1) 踩(0) | <div>會原諒我嗎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/977392)<br><br>2014-07-04 22:03<br>赞(2) 踩(0) | <div>当年在演唱会现场，听这首听到鼻子发酸。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37616244)<br>云中之马、水里鸡，江湖狗...<br>2014-06-15 19:37<br>赞(2) 踩(0) | <div>老頭：節日快樂！犬子不孝，近段頗為渾噩，為趕“時髦”，竟學“失聯”。以至足有月餘未曾去電問安，偏又正值家中多事之時，此不孝之舉定當令您老費心勞神！現回首，兒著實汗顏！！！兒已將還，近來不堪之舉，還望父釋懷。再祝：父親節快樂！兒叩首！請安！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37616244)<br>云中之马、水里鸡，江湖狗...<br>2014-06-15 19:37<br>赞(2) 踩(0) | <div>老頭：節日快樂！<br>犬子不孝，近段頗為渾噩，為趕“時髦”，竟學“失聯”。以至足有月餘未曾去電問安，偏又正值家中多事之時，此不孝之舉定當令您老費心勞神！<br>現回首，兒著實汗顏！！！兒已將還，近來不堪之舉，還望父釋懷。<br>再祝：父親節快樂！<br><br>兒<br><br>叩首！請安！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23244220)<br><br>2014-06-15 11:13<br>赞(1) 踩(0) | <div>爸爸，我想你！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5413574)<br><br>2014-04-19 23:08<br>赞(1) 踩(0) | <div>少有写父亲的歌，这首还挺好听的，虽然写的是已经逝去的人……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30884907)<br><br>2014-01-01 10:44<br>赞(0) 踩(0) | <div>怀念</div> |
@@ -184,7 +184,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2289403)<br><br>2011-11-17 17:48<br>赞(0) 踩(0) | <div>静静地听完……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3926840)<br><br>2011-11-17 11:51<br>赞(0) 踩(0) | <div>即便是不再附加任何音乐的吟唱，也令人心痛不已。尤其是如此沙哑略带压抑的声音。爸爸，我想你！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1583394)<br><br>2011-11-17 01:30<br>赞(0) 踩(0) | <div>感触良多~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6812714)<br><br>2011-11-16 22:34<br>赞(0) 踩(0) | <div>妈妈她比过去看上去苍老了许多每天总会整夜开着电视因为她的生命里突然没有你那是怎样一种无法承受的孤寂现在能做的就是努力照顾好妈妈，让爸爸的在天之灵放心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6812714)<br><br>2011-11-16 22:34<br>赞(0) 踩(0) | <div>妈妈她比过去看上去苍老了许多<br>每天总会整夜开着电视<br>因为她的生命里突然没有你<br>那是怎样一种无法承受的孤寂<br><br>现在能做的就是努力照顾好妈妈，让爸爸的在天之灵放心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2011-11-16 13:33<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4767213)<br>尘埃<br>2011-11-16 11:23<br>赞(0) 踩(0) | <div>一首情真意切的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6800879)<br><br>2011-11-16 05:02<br>赞(0) 踩(0) | <div>刚刚偶然听到这首歌，我的眼泪就直接流下来了…可能是因为经历的原因有所触动吧！善待自己的父母吧，他们是这个世界上唯一不求回报，对自己最好的人了！没有别人了……</div> |

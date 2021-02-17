@@ -60,8 +60,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3187852)<br><br>2021-01-25 18:23<br>赞(0) 踩(0) | <div>好一阵子没开虾米了，也许是有点舍不得面对离别吧，但是又想，正如记忆，再不舍，还是会过去，那些听歌的日夜里，有那么多难忘的人和事，某些片段里，我依然会想起你&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2997770)<br>骗子  全是骗子  谁也...<br>2020-05-11 00:27<br>赞(0) 踩(0) | <div>&amp;zwj;♂️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103215176)<br>淘宝天猫会员ID<br>2020-04-02 01:23<br>赞(0) 踩(0) | <div>有时我们听的不是旋律，而是旋律所承载的记忆</div> |
@@ -85,7 +85,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56667534)<br><br>2016-03-01 07:06<br>赞(1) 踩(0) | <div>刘若英</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26206192)<br>暂无签名~<br>2016-02-26 20:35<br>赞(0) 踩(0) | <div>一听好像没什么感觉，越听到后面感触越深</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52720398)<br><br>2016-02-26 00:40<br>赞(0) 踩(0) | <div>想你的时候，我抬头微笑，你知道不知道……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52720398)<br><br>2016-02-24 09:13<br>赞(6) 踩(0) | <div>你是否在夜深人静的时候，安静的想着一个人，回忆着仅有的甜蜜，你想着想着就感觉委屈了，然后你就情不自禁的哭了～你哭着哭着就累了然后你就带着浅浅的泪痕睡着了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52720398)<br><br>2016-02-24 09:13<br>赞(6) 踩(0) | <div>你是否在夜深人静的时候，<br>安静的想着一个人，<br>回忆着仅有的甜蜜，<br>你想着想着就感觉委屈了，<br>然后你就情不自禁的哭了～<br>你哭着哭着就累了<br>然后你就带着浅浅的泪痕睡着了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39802238)<br>。。。。。。<br>2016-02-20 23:23<br>赞(1) 踩(0) | <div>想妳的時候，我抬頭微笑，我知道妳知道……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39396339)<br><br>2016-02-15 01:22<br>赞(0) 踩(0) | <div>你知道不知道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52720398)<br><br>2016-02-14 22:45<br>赞(0) 踩(0) | <div>风吹着白云飘，你到哪里去了。想你的时候，我抬头微笑，你知道不知道～</div> |
@@ -186,16 +186,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12818625)<br><br>2014-03-21 23:00<br>赞(0) 踩(0) | <div>平淡无奇却也安稳无虑，就像你的名字</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15971034)<br><br>2014-03-20 00:57<br>赞(0) 踩(0) | <div>你知道不知道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/835708)<br><br>2014-03-17 21:00<br>赞(1) 踩(0) | <div>想你的时候....我抬头微笑....你知道不知道...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33312158)<br>喜欢你的那一首歌感动了谁<br>2014-03-03 04:03<br>赞(0) 踩(0) | <div>你轻轻的入了的我心让我心真的受不了这首歌拥奋这多少力量鼓励敲打我的心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33312158)<br>喜欢你的那一首歌感动了谁<br>2014-03-03 04:03<br>赞(0) 踩(0) | <div>你轻轻的入了的我心<br>让我心真的受不了<br>这首歌拥奋这多少力量<br>鼓励敲打我的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2357424)<br><br>2014-02-08 06:47<br>赞(0) 踩(0) | <div>那天的云是否都已料到</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1334507)<br>我就听听不说话 。<br>2014-02-01 23:27<br>赞(0) 踩(0) | <div>暖 。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12504139)<br><br>2014-01-19 22:10<br>赞(0) 踩(0) | <div>那天的云是否都已料到所以脚步才轻巧以免打扰到我们的时光因为注定那么少风吹着白云飘你到哪里去了想你的时候我抬头微笑 你知道不知道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12504139)<br><br>2014-01-19 22:03<br>赞(0) 踩(0) | <div>那天的云是否都已料到所以脚步才轻巧以免打扰到我们的时光因为注定那么少风吹着白云飘你到哪里去了想你的时候我抬头微笑    你知道不知道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12504139)<br><br>2014-01-19 21:52<br>赞(0) 踩(0) | <div>那天的云是否都已料到所以脚步才轻巧以免打扰到我们的时光因为注定那么少风吹着白云飘你到哪里去了想你的时候抬头微笑知道不知道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12504139)<br><br>2014-01-19 21:43<br>赞(0) 踩(0) | <div>那天的云是否都已料到所以脚步才轻巧以免打扰到我们的时光因为注定那么少风吹着白云飘你到哪里去了想你的时候抬头微笑知道不知道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12504139)<br><br>2014-01-19 22:10<br>赞(0) 踩(0) | <div>那天的云是否都已料到<br><br>所以脚步才轻巧<br><br>以免打扰到<br><br>我们的时光<br><br>因为注定那么少<br><br>风吹着白云飘<br><br>你到哪里去了<br><br>想你的时候<br><br>我抬头微笑 你知道不知道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12504139)<br><br>2014-01-19 22:03<br>赞(0) 踩(0) | <div>那天的云是否都已料到<br><br>所以脚步才轻巧<br><br>以免打扰到<br><br>我们的时光<br><br>因为注定那么少<br><br>风吹着白云飘<br><br>你到哪里去了<br><br>想你的时候<br><br>我抬头微笑    你知道不知道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12504139)<br><br>2014-01-19 21:52<br>赞(0) 踩(0) | <div>那天的云是否都已料到<br><br>所以脚步才轻巧<br><br>以免打扰到<br><br>我们的时光<br><br>因为注定那么少<br><br>风吹着白云飘<br><br>你到哪里去了<br><br>想你的时候<br><br>抬头微笑知道不知道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12504139)<br><br>2014-01-19 21:43<br>赞(0) 踩(0) | <div>那天的云是否都已料到<br><br>所以脚步才轻巧<br><br>以免打扰到<br><br>我们的时光<br><br>因为注定那么少<br><br>风吹着白云飘<br><br>你到哪里去了<br><br>想你的时候<br><br>抬头微笑知道不知道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6156562)<br><br>2013-12-20 23:19<br>赞(0) 踩(0) | <div>好清澈的声音 听她娓娓道来~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9887547)<br><br>2013-12-13 09:50<br>赞(0) 踩(0) | <div>有时我又觉得挺好的 在孤独的时候能够更冷静地审视自己，自己与自己独处人不浮躁，觉得生命也不喧哗  这个世界一切都是冷冷清清的  如同秋天的街道，落叶铺成一片深邃的海  #我们都是孤独的鬼 有一张擅辩的嘴#</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8074420)<br><br>2013-12-05 22:41<br>赞(0) 踩(0) | <div>风吹着白云飘，你到哪里去了，想你的时候 ，哦抬头微笑，知道不知道。那天的云是否都已料到 ，所以脚步才轻巧 ，以免打扰到 ，我们的时光 ，因为注定那么少 ……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8074420)<br><br>2013-12-05 22:41<br>赞(0) 踩(0) | <div>风吹着白云飘，<br>你到哪里去了，<br>想你的时候 ，<br>哦抬头微笑，知道不知道。<br>那天的云是否都已料到 ，<br>所以脚步才轻巧 ，<br>以免打扰到 ，<br>我们的时光 ，<br>因为注定那么少 ……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1976237)<br><br>2013-12-05 19:15<br>赞(0) 踩(0) | <div>绵绵的柔柔的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21870039)<br><br>2013-12-04 20:26<br>赞(0) 踩(0) | <div>你知道不知道，那天我说完爱你之后我哭了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7811830)<br><br>2013-11-26 21:06<br>赞(0) 踩(0) | <div>今天我的晚安曲推荐是；侃侃《知道不知道》推荐理由；侃侃在去年出了一张翻唱自选集《时光倒流》在这张专辑里翻唱了12首经典好歌 在这张专辑里最能打动我的一首歌就是翻唱刘若英《知道不知道》</div> |
@@ -215,7 +215,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4460993)<br>滚石不生苔<br>2013-08-12 16:25<br>赞(0) 踩(0) | <div>侃侃的声音其实挺有辨识度的~然后这版的伴奏我喜欢惹~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8396)<br><br>2013-08-10 20:39<br>赞(0) 踩(0) | <div>真是清澈啊.#音乐收藏#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16712439)<br><br>2013-07-29 22:23<br>赞(0) 踩(0) | <div>.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7656458)<br><br>2013-07-26 22:27<br>赞(0) 踩(0) | <div>风 吹着　白云飘你到那里去了想你的时候　喔　抬头微笑</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7656458)<br><br>2013-07-26 22:27<br>赞(0) 踩(0) | <div>风 吹着　白云飘<br>你到那里去了<br>想你的时候　喔　抬头微笑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14863080)<br>暂无签名~<br>2013-07-01 19:37<br>赞(0) 踩(0) | <div>知道不知道——侃侃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15946610)<br>我不是坏人.但也不是什么...<br>2013-06-09 23:27<br>赞(0) 踩(0) | <div>Good night ……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5917850)<br><br>2013-06-06 10:03<br>赞(0) 踩(0) | <div>也许她的娓娓道来，不温不热的嗓音，是翻唱这首歌最成功的地方吧。越是平淡的表情，越隐藏不住心潮翻涌。因为了解你，所以才明白你的言不由衷。也越是因为了解你的言不由衷，才越觉得不甘心放手。</div> |
@@ -257,7 +257,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2193416)<br><br>2012-12-16 21:13<br>赞(0) 踩(0) | <div>好好听呀。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12771)<br><br>2012-12-14 22:43<br>赞(0) 踩(0) | <div>想起儿时的歌，换了歌手，依旧清晰记得那淡淡的旋律。时光平移，无声无息。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10519897)<br><br>2012-12-14 10:30<br>赞(0) 踩(0) | <div>想你的时候 我抬头微笑 你知道不知道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11284494)<br><br>2012-10-31 11:03<br>赞(0) 踩(0) | <div>那天的云是否都已料到  所以脚步才轻巧 以免打扰到　我们的时光 因为注定那么少风吹着白云飘 你到那里去了 想你的时候 抬头微笑  知道不知道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11284494)<br><br>2012-10-31 11:03<br>赞(0) 踩(0) | <div>那天的云是否都已料到  所以脚步才轻巧 以免打扰到　我们的时光 因为注定那么少<br>风吹着白云飘 你到那里去了 想你的时候 抬头微笑  知道不知道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2001269)<br><br>2012-07-06 13:40<br>赞(0) 踩(0) | <div>这个版本的还是头一次听到，好听。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3419204)<br>帅的想毁容<br>2012-06-28 01:04<br>赞(0) 踩(0) | <div>真好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9360439)<br>慢慢成长<br>2012-06-04 01:27<br>赞(0) 踩(0) | <div>熟悉的旋律配上侃侃的声音深夜首选</div> |

@@ -12,16 +12,13 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196535953)<br><br>2018-12-06 09:38<br>赞(3) 踩(0) | <div>四个主角的主题曲闻人的主题曲最好听，能够不停地循环而不腻的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951829)<br>孤鴻寄語·血色琉璃<br>2018-11-17 23:39<br>赞(3) 踩(0) | <div>重玩！这次终于特效全开闻人妹子你是我女神</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951829)<br>孤鴻寄語·血色琉璃<br>2018-11-17 23:39<br>赞(3) 踩(0) | <div>重玩！这次终于特效全开<br>闻人妹子你是我女神</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312789906)<br><br>2017-11-27 14:47<br>赞(4) 踩(0) | <div>...不闻其人，却见其心。世界上又怎么可能存在这样的女孩子呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196426431)<br>锦绣成绮丽，摇曳总薄烟。<br>2017-09-03 21:39<br>赞(3) 踩(0) | <div>在我看来，你就永远是这些画里的样子，你永远都是你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85481362)<br><br>2017-08-25 06:45<br>赞(3) 踩(0) | <div>一首这个，一首醉花荫，简直表白专用bgm</div> |

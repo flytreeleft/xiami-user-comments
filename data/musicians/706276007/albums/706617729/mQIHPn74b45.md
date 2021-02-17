@@ -52,10 +52,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25053117)<br><br>2020-09-14 22:07<br>赞(0) 踩(0) | <div>我终于找到无对白的版本啦 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265843910)<br><br>2020-05-24 17:01<br>赞(0) 踩(0) | <div>惊艳啊找到了无对白版本啦！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265843910)<br><br>2020-05-24 17:01<br>赞(0) 踩(0) | <div>惊艳啊<br>找到了无对白版本啦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258873392)<br><br>2020-05-02 13:52<br>赞(0) 踩(0) | <div>帅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17162782)<br>人弃我去，人趋我弃。<br>2020-04-20 17:40<br>赞(0) 踩(0) | <div>哇啊，没想到</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441396937)<br><br>2020-03-26 12:38<br>赞(1) 踩(0) | <div>无对白~</div> |
@@ -64,7 +64,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404021514)<br><br>2019-08-05 12:44<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424403707)<br><br>2019-05-11 06:06<br>赞(0) 踩(0) | <div>他的嗓音太适合唱各种传统戏剧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28959665)<br>就是个听歌的<br>2019-03-25 17:47<br>赞(1) 踩(0) | <div>好听(ง •̀_•́)ง</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365635281)<br>学识如吴邪，身手如胖爷，...<br>2018-10-07 16:14<br>赞(4) 踩(0) | <div>这一切都是命中注定，即使吴老狗一辈和吴三省一辈将一切算尽，吴邪还是无法走出这个局，深深地，陷了进去......也许这也是吴邪的幸运，否则，他一辈子估计都不可能再找到这么好的同伴这也是张起灵的幸运，在他漫长的人生中终于找到了真正能在乎他，记得他的吴邪和胖子这同样也是胖子的幸运，没有张起灵，他就不可能去巴乃，也不可能遇见云彩，找到真爱。（尽管结局不好）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365635281)<br>学识如吴邪，身手如胖爷，...<br>2018-10-07 16:14<br>赞(4) 踩(0) | <div>这一切都是命中注定，即使吴老狗一辈和吴三省一辈将一切算尽，吴邪还是无法走出这个局，深深地，陷了进去......<br><br>也许这也是吴邪的幸运，否则，他一辈子估计都不可能再找到这么好的同伴<br><br>这也是张起灵的幸运，在他漫长的人生中终于找到了真正能在乎他，记得他的吴邪和胖子<br><br>这同样也是胖子的幸运，没有张起灵，他就不可能去巴乃，也不可能遇见云彩，找到真爱。（尽管结局不好）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284988532)<br><br>2018-08-12 19:39<br>赞(0) 踩(0) | <div>Rin'的《紫のゆかり、ふたたび》，盗版还是买的版权?</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14666531)<br>我是黄子栗，<br>2020-02-29 16:51<br>赞(0) 踩(0) | <div>当时，08还是09年翻的同人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274778968)<br>我值得拥有温暖。付出关爱...<br>2018-05-07 18:06<br>赞(2) 踩(0) | <div>算不上深粉，难以抗拒周音深入我心 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
@@ -102,12 +102,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40139984)<br>丢宠MAX<br>2015-08-10 18:05<br>赞(1) 踩(0) | <div>伴奏永远那么熟悉。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40139984)<br>丢宠MAX<br>2015-08-10 18:05<br>赞(1) 踩(0) | <div>伴奏永远那么熟悉。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54779453)<br>这是个歌迷~<br>2015-08-09 08:09<br>赞(0) 踩(0) | <div>深深 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54088361)<br>稻米一枚<br>2015-08-03 15:40<br>赞(2) 踩(0) | <div>超棒！感觉听得耳朵都怀孕了现已成为本命曲之一 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54088361)<br>稻米一枚<br>2015-08-03 15:40<br>赞(2) 踩(0) | <div>超棒！感觉听得耳朵都怀孕了<br>现已成为本命曲之一 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49101018)<br><br>2015-07-29 19:34<br>赞(1) 踩(0) | <div>这个声音动漫和武侠古装主题曲该是不错！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52131751)<br><br>2015-07-05 15:35<br>赞(1) 踩(0) | <div>只是我听过词和曲最好听的歌     已经  搜不到了      推荐给大家听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50009214)<br><br>2015-06-08 15:36<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49541459)<br><br>2015-05-26 04:53<br>赞(3) 踩(0) | <div>看见盗墓笔记果断就滚进来了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49287335)<br>我们要互相亏欠，要不然凭...<br>2015-04-30 18:02<br>赞(2) 踩(0) | <div>╔══╗ ♪║██║ ♫║ ( ● ) ♫╚══╝♪ ♪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49287335)<br>我们要互相亏欠，要不然凭...<br>2015-04-30 18:02<br>赞(2) 踩(0) | <div>╔══╗ ♪<br>║██║ ♫<br>║ ( ● ) ♫<br>╚══╝♪ ♪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49287335)<br>我们要互相亏欠，要不然凭...<br>2015-04-30 18:00<br>赞(1) 踩(0) | <div>每天都来听你的歌 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49101018)<br><br>2015-04-27 21:00<br>赞(0) 踩(0) | <div>深深</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49287335)<br>我们要互相亏欠，要不然凭...<br>2015-04-19 09:40<br>赞(2) 踩(0) | <div>期待卡布更多的歌，也希望盗墓笔记快快上映。词，旋律，唱真是绝了，好喜欢</div> |

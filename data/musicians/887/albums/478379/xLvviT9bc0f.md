@@ -76,8 +76,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358862183)<br><br>2018-07-16 23:17<br>赞(1) 踩(0) | <div>旋律很6</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-22 00:20<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216784802)<br>好的音乐最重要的是真实，...<br>2018-03-10 15:46<br>赞(4) 踩(0) | <div>汪峰玩的是rock and roll，崔健玩的是&amp;ldquo;摇滚&amp;rdquo;，我一向这么认为，这其实是两个东西，无所谓好坏。全在于你个人是怎么理解的，在中国理解，还是走出去，听听外国人怎么说，很多老外很欣赏崔健，因为老崔的音乐里有他们未曾看见的东西，而作为中国人，某些时候，听汪峰实际上才能证明你摇滚，而不是相反，这里有一个很诡吊的情结，如果你懂了，将会心一笑</div> |
@@ -92,7 +92,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10461666)<br>吉他玩家.<br>2014-08-12 07:45<br>赞(3) 踩(0) | <div>好歌啊！歌词批判性十足，尤其喜欢编曲从……调侃一下，那些整天把“伪摇”挂在嘴边的人几时能做出这种水平的音乐？何况如果这都不算Rock，什么算Rock呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29696442)<br><br>2014-05-21 18:59<br>赞(1) 踩(0) | <div>这么好的歌，评论这么少！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1038459)<br><br>2013-07-28 13:43<br>赞(2) 踩(0) | <div>这首作品会是这个时代的印痕，时间会证明他的价值</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6734471)<br><br>2011-11-24 00:44<br>赞(0) 踩(0) | <div>不要纠结这一切的对与错除非你还有选择的能力这个词很有理。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6734471)<br><br>2011-11-24 00:44<br>赞(0) 踩(0) | <div>不要纠结这一切的对与错<br>除非你还有选择的能力<br>这个词很有理。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/590900)<br><br>2011-11-23 22:42<br>赞(0) 踩(0) | <div>不要赶就来得及。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446413)<br><br>2011-11-23 11:36<br>赞(0) 踩(0) | <div>可以试想下这歌儿被扭机和早期痛仰唱出来的感觉，对比一下，我觉得这歌牛逼大了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446413)<br><br>2011-11-23 11:33<br>赞(1) 踩(0) | <div>牛逼！这歌儿是首标准的重金属，试想一下扭机和早期痛仰唱出来的感觉，嚎叫和低吼是简单的，汪峰用很强的旋律感演绎更牛逼！</div> |

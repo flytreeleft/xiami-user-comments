@@ -56,7 +56,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2897977)<br>인디<br>2013-01-06 10:49<br>赞(0) 踩(0) | <div>尚未算太迟，相信就可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/696744)<br><br>2012-02-01 23:38<br>赞(0) 踩(0) | <div>******</div> |

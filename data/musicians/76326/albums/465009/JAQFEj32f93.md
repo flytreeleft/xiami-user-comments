@@ -41,8 +41,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7533635)<br>如果爱情只是路过<br>2020-12-18 23:54<br>赞(1) 踩(0) | <div>我的妈妈是我知道最苦的妈妈，也是活的最平静的妈妈，都说子多母苦，可没有人听她说过一句抱怨的话，总是默默的，哪怕是在病痛最煎熬的最后半年时光。临终前她说的是对爸爸的爱，我们没能在妈妈临终前见她最后一面，可能是老天对我们的惩罚，惩罚我们没能在她有生之年好好的去爱这个善良的女人。后来我想，她是替爱了一生的人和孩子把本该属于他们要还的账的账都还了才走的，然后回归浩瀚宇宙，等着跟我们团聚。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368320033)<br><br>2020-12-11 07:04<br>赞(0) 踩(0) | <div>自从妈妈走了以后，一听到这种歌我就想哭。我为什么没有好好珍惜跟妈妈在一起的日子。没想到那一别竟是永远&amp;hellip;&amp;hellip;我好想回到家再大喊一声妈，我回来了，您远远的迎出来，可惜我再也感受不到了！我再也叫不出来了。妈妈，妈妈，你为什么不能给活过来呢？我不要你走！我还想再在您身边撒撒娇！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258353121)<br>地势坤，君子以厚德载物。<br>2020-12-04 00:08<br>赞(0) 踩(0) | <div>唱到了心坎，</div> |
@@ -56,30 +56,30 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377989397)<br><br>2020-08-28 08:31<br>赞(0) 踩(0) | <div>我擦，珍惜眼前，给我干哭了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442910485)<br>梦<br>2020-08-19 12:02<br>赞(0) 踩(0) | <div>上次失恋 妈妈从家直接飞到成都 陪着我。不敢在她面前哭，就躲在厕所。而这次 我甚至都不敢告诉她。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379207416)<br><br>2020-08-18 19:59<br>赞(2) 踩(0) | <div>我泪眼模糊，这个世界的我想念另一个世界的妈妈。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/437076347)<br><br>2020-07-29 22:09<br>赞(0) 踩(0) | <div>妈妈，你走时女儿5岁，至今走了35年了。妈妈，女儿想你了，请你入梦来吧！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/437076347)<br><br>2020-07-29 22:09<br>赞(0) 踩(0) | <div>妈妈，你走时女儿5岁，至今走了35年了。<br>妈妈，女儿想你了，请你入梦来吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355795418)<br>听音乐是一种享受！<br>2020-07-24 21:25<br>赞(1) 踩(0) | <div>妈妈，您在天堂还好吗？女儿好想你！ <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2046856)<br>爱音乐爱生活<br>2020-07-19 22:08<br>赞(0) 踩(0) | <div>太好哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313261714)<br><br>2020-07-19 20:04<br>赞(0) 踩(0) | <div>每次都不能听完，太撕裂了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380141053)<br><br>2020-07-16 18:25<br>赞(1) 踩(0) | <div>让人沉醉，也撕心裂肺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431577656)<br><br>2020-07-01 21:31<br>赞(0) 踩(0) | <div>妈妈，好想你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429894011)<br><br>2020-06-14 17:57<br>赞(2) 踩(0) | <div>13年9月份妈妈拖着已病重十三年的身体告诉我，&amp;ldquo;儿子，走吧，去做你应该做的事吧，不要担心妈妈！&amp;rdquo;我留恋的看着妈妈，妈妈微笑着看着我托着重重的行李箱出了家门！11月份，妈妈孤独的离世了，那晚，我梦到了妈妈，知道了妈妈走了，半夜起来疯狂的打电话，哀嚎的哭泣。身体都恨的发抖！这辈子都忘不掉妈妈送我的眼神！出国就是一条让人痛恨且漫长的路！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429894011)<br><br>2020-06-14 17:57<br>赞(2) 踩(0) | <div>13年9月份妈妈拖着已病重十三年的身体告诉我，&amp;ldquo;儿子，走吧，去做你应该做的事吧，不要担心妈妈！&amp;rdquo;我留恋的看着妈妈，妈妈微笑着看着我托着重重的行李箱出了家门！11月份，妈妈孤独的离世了，那晚，我梦到了妈妈，知道了妈妈走了，半夜起来疯狂的打电话，哀嚎的哭泣。身体都恨的发抖！这辈子都忘不掉妈妈送我的眼神！<br>出国就是一条让人痛恨且漫长的路！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333570348)<br><br>2020-11-24 00:24<br>赞(0) 踩(0) | <div>为啥一定要走呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435227660)<br> <br>2020-06-04 00:16<br>赞(0) 踩(0) | <div>妈妈我想你了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362593986)<br>花开如梦，笑颜如初.<br>2020-05-23 01:17<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362593986)<br>花开如梦，笑颜如初.<br>2020-05-19 23:33<br>赞(0) 踩(0) | <div>这个世界上最可能让每个人&amp;lsquo;知耻而后勇&amp;rsquo;的人是妈妈。我说的对吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439377703)<br>浮生若夢 為歡幾何<br>2020-05-15 06:37<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193104552)<br> <br>2020-05-12 14:37<br>赞(3) 踩(0) | <div>上一次听歌流泪已是二十年前了，四十岁的我在车上听到这首歌毫无征兆的泪崩，无法抑制的突然就这么一塌糊涂，谢谢赵雷，好歌，不敢多听，真的不敢多听，谢谢。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3456044)<br>去体验、去感受、得灵犀、...<br>2020-05-10 08:41<br>赞(2) 踩(0) | <div>妈妈我已经到了你的年纪对我来说你已经有些模糊了梦里来看看我好吗我想你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51640304)<br>再见公虾米<br>2020-05-07 22:25<br>赞(0) 踩(0) | <div>又听到了这首歌，无意间打开了评论，才发现，里面全是对妈妈的思念。也许，这就是民谣，词曲不一定有多惊艳，但它往往都能触碰到你心里最深处的那根弦～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3456044)<br>去体验、去感受、得灵犀、...<br>2020-05-10 08:41<br>赞(2) 踩(0) | <div>妈妈<br>我已经到了你的年纪<br>对我来说<br>你已经有些模糊了<br>梦里来看看我好吗<br>我想你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51640304)<br>再见公虾米<br>2020-05-07 22:25<br>赞(0) 踩(0) | <div>又听到了这首歌，无意间打开了评论，才发现，里面全是对妈妈的思念。<br>也许，这就是民谣，词曲不一定有多惊艳，但它往往都能触碰到你心里最深处的那根弦～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442583585)<br>独言独语<br>2020-04-29 14:09<br>赞(2) 踩(0) | <div>说实话，第一次听到第一句这个&amp;ldquo;妈妈&amp;rdquo;，以为会是首调侃之类的歌，庆幸我没有立刻切歌。慢慢的，思念弥漫过来，千愁万绪涌动。我很害怕，现在母亲身体很差，很瘦弱，我很担心，我真不敢想象她百年之后我该怎么过，世界会变成怎样。虽现在聚少离多，但我知道她一直在那，我很安心，想她可以给她打电话，可以跟她说说开心或者不开心的事。如今的我发现对谁都无法诉说的时候，她是我唯一可以倾诉的人，唯一能安抚我的人 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59897214)<br>当你一开始跑，就意外着有...<br>2020-04-28 11:47<br>赞(0) 踩(0) | <div>被前奏吸引，一首能让人大白天流泪的音乐。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59897214)<br>当你一开始跑，就意外着有...<br>2020-04-28 11:47<br>赞(0) 踩(0) | <div>被前奏吸引，<br>一首能让人大白天流泪的音乐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368481366)<br><br>2020-04-25 10:18<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406604412)<br><br>2020-04-25 05:42<br>赞(2) 踩(0) | <div>爱你妈妈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442173083)<br><br>2020-04-22 07:59<br>赞(0) 踩(0) | <div>加由！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442173083)<br><br>2020-04-22 07:56<br>赞(1) 踩(0) | <div>这个世界只有妈妈才是最好的，没有了妈妈就一根小草，从他的歌词中的语气受到了赵雷很伤心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276422058)<br><br>2020-04-22 01:25<br>赞(2) 踩(0) | <div>好久没流泪，总是有意不敢想你们，不经意中听到这首歌，泪无声无法控制的滑落。天知道我有多么想你们-亲爱的爸爸妈妈，不知道这几年来，你们在那个未知世界可还安好？自私的我唯愿你们不要抛下我，等我们再见时，你们还是我的父亲母亲，如果能再相见，我要将你不曾见过的岁月好好讲给你们听啊。可是这漫漫岁月，我可要怎样度过，早点带我和你们团聚吧，天上地下，我们永远都是一家人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442396699)<br><br>2020-04-21 21:00<br>赞(0) 踩(0) | <div>想妈妈 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242642058)<br><br>2020-04-21 18:01<br>赞(2) 踩(0) | <div>妈妈离开我已经9102天，24年又11个月幼年失去妈妈吃了很多同龄人想象不到的苦现在的我已经非常独立，工作，生活也非常不错但没有一刻停止过对妈妈的想念一直非常坚强努力唯独没有妈妈是我一辈子的人生遗憾希望下辈子我们还能再相见</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242642058)<br><br>2020-04-21 18:01<br>赞(2) 踩(0) | <div>妈妈离开我已经9102天，24年又11个月<br>幼年失去妈妈<br>吃了很多同龄人想象不到的苦<br>现在的我已经非常独立，工作，生活也非常不错<br>但没有一刻停止过对妈妈的想念<br>一直非常坚强努力<br>唯独没有妈妈是我一辈子的人生遗憾<br>希望下辈子我们还能再相见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42112287)<br>中途的放纵，才选错了出口<br>2020-04-21 17:08<br>赞(0) 踩(0) | <div>今天听了奶茶的妈妈，感觉这个更好听呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281084249)<br> <br>2020-04-21 14:39<br>赞(0) 踩(0) | <div>妈妈，多么美好的一个词，好像一切的好的词语组成了一个词，妈妈！会想到我小时候，我不听话，她打我，骂我，我喜欢吃什么，她会给我做，我高考没考好，她会花钱让我去上大学，她会每天都在唠叨我，让那时候的我不厌其烦，但我现在好想让她再骂我一次，打我一次，我一定会笑，笑着看她打我，骂我！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104353198)<br>庚申生，天秤座，爱夕阳…<br>2020-04-21 10:55<br>赞(0) 踩(0) | <div>妈妈是世界上最有爱的代名词，最伟大的人～</div> |
@@ -109,19 +109,19 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329061441)<br> <br>2019-11-19 22:45<br>赞(0) 踩(0) | <div>亲亲一声妈妈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411130960)<br> <br>2019-11-17 03:30<br>赞(3) 踩(0) | <div>多希望能给一份我的力量，多希望能给你一颗更轻松的心脏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38784109)<br><br>2019-11-13 12:17<br>赞(2) 踩(0) | <div>每次听这首歌，眼泪都湿润了双眼……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431342014)<br>我还没想好要写什么...<br>2019-11-08 20:13<br>赞(2) 踩(0) | <div>这个世界上我最亏欠的人就是你你在天看着我和爸爸在对吗？我们一切安好 我会好好照顾爸爸的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431342014)<br>我还没想好要写什么...<br>2019-11-08 20:13<br>赞(2) 踩(0) | <div>这个世界上我最亏欠的人就是你<br>你在天看着我和爸爸在对吗？<br>我们一切安好 我会好好照顾爸爸的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39555499)<br>祝你不止生日快乐<br>2019-11-06 03:41<br>赞(3) 踩(0) | <div>情绪低落的时候很想有人听我诉说 可是没有这样的人 妈妈 我想给你打电话 我想扑在你怀里大声的哭 可我不想让你担心 妈妈 我好痛苦 我好没用 我好像坏了 我总是在夜里一个人躲在被子里哭 我好想你啊妈妈 如果你在身边一定不会这样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27554701)<br> <br>2019-11-05 21:40<br>赞(4) 踩(0) | <div>人在国外，听完已经泪流满面了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424158096)<br>我还没想好要写什么...<br>2019-11-04 20:35<br>赞(3) 踩(0) | <div>這歌詞、聲音，都讓人潸然泪下。<img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424158096)<br>我还没想好要写什么...<br>2019-11-04 20:28<br>赞(2) 踩(0) | <div>這首歌帶給我們每個人思考，唉⋯⋯回憶總是無以言盡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424158096)<br>我还没想好要写什么...<br>2019-11-04 20:35<br>赞(3) 踩(0) | <div>這歌詞、聲音，都讓人潸然泪下。<br><img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424158096)<br>我还没想好要写什么...<br>2019-11-04 20:28<br>赞(2) 踩(0) | <div>這首歌帶給我們每個人思考，<br>唉⋯⋯<br>回憶總是無以言盡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409140325)<br><br>2019-10-21 21:23<br>赞(2) 踩(0) | <div>妈妈走了快一百天了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">想她！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320622216)<br><br>2019-10-20 01:07<br>赞(2) 踩(0) | <div>不敢听听一次哭一次，快想妈妈想疯了！</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424158096)<br>我还没想好要写什么...<br>2019-11-04 20:03<br>赞(0) 踩(0) | <div>人生不能重來，慢慢學會承受痛苦。當經歷過、你成長了⋯⋯生活還要繼續，再痛苦也要面對人生⋯因為這是人生的必修課，是我們每個人都要經歷的⋯</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424158096)<br>我还没想好要写什么...<br>2019-11-04 20:03<br>赞(0) 踩(0) | <div>人生不能重來，慢慢學會承受痛苦。<br>當經歷過、你成長了⋯⋯<br>生活還要繼續，<br>再痛苦也要面對人生⋯<br>因為這是人生的必修課，<br>是我們每個人都要經歷的⋯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271584922)<br> <br>2019-10-19 23:28<br>赞(2) 踩(0) | <div>妈妈，您的离开使我像永远找不到港湾的孤船，我的避风港在哪儿……</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424158096)<br>我还没想好要写什么...<br>2019-11-04 20:12<br>赞(0) 踩(0) | <div>放鬆心情、去看看外面的世界，聽聽别人的故事；可能你受的苦別人也正在經歷，有些傷痛是我們生而為人必須要承受的；每個人既有歡樂也會有痛苦，無一不是；所以⋯要釋懷⋯⋯ <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424158096)<br>我还没想好要写什么...<br>2019-11-04 20:12<br>赞(0) 踩(0) | <div>放鬆心情、去看看外面的世界，<br>聽聽别人的故事；<br>可能你受的苦別人也正在經歷，<br>有些傷痛是我們生而為人必須要承受的；<br>每個人既有歡樂也會有痛苦，<br>無一不是；<br>所以⋯<br>要釋懷⋯⋯ <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429400116)<br><br>2019-10-18 16:46<br>赞(2) 踩(0) | <div>妈妈我想你了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406712440)<br>好吧，就这样吧<br>2019-10-13 23:12<br>赞(8) 踩(0) | <div>已经不记得妈妈的模样了。当年你走的时候我只有三岁，如今我已经34岁了。妈妈，你走了之后，我还有爸爸，他很爱你也很爱我，可大学毕业那年，父亲也走了。那时我才真正体会到失去至亲的感觉，比哀伤更心痛。妈妈，失去你们之后，我过得一路跌跌撞撞，但从来没有丧失生活的勇气。我逐渐长大逐渐成熟，有了自己的家庭，自己的孩子。妈妈，我生了两个孩子，一个男孩一个女孩，他们很可爱，我常常在想，要是你和爸爸还在的话，一定非常喜欢他们。妈妈，我现在的日子过得不差，除了守护我的孩子，没什么特别想做的了。唯一唯一的心愿，就是死的时候，能够看到爸爸妈妈一起来接我。那时候我不是谁的妻子，不是谁的母亲，就只是你们的女儿。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424158096)<br>我还没想好要写什么...<br>2019-11-04 20:20<br>赞(0) 踩(0) | <div>能這樣想真太好了，每一個人從出生開始就一直向前走，沒有回頭路⋯⋯好好享受這一路的風景、幸福快樂，到了終點就不遗憾。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406712440)<br>好吧，就这样吧<br>2019-10-13 23:12<br>赞(8) 踩(0) | <div>已经不记得妈妈的模样了。当年你走的时候我只有三岁，如今我已经34岁了。<br>妈妈，你走了之后，我还有爸爸，他很爱你也很爱我，可大学毕业那年，父亲也走了。那时我才真正体会到失去至亲的感觉，比哀伤更心痛。<br>妈妈，失去你们之后，我过得一路跌跌撞撞，但从来没有丧失生活的勇气。我逐渐长大逐渐成熟，有了自己的家庭，自己的孩子。<br>妈妈，我生了两个孩子，一个男孩一个女孩，他们很可爱，我常常在想，要是你和爸爸还在的话，一定非常喜欢他们。<br>妈妈，我现在的日子过得不差，除了守护我的孩子，没什么特别想做的了。唯一唯一的心愿，就是死的时候，能够看到爸爸妈妈一起来接我。<br>那时候我不是谁的妻子，不是谁的母亲，就只是你们的女儿。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424158096)<br>我还没想好要写什么...<br>2019-11-04 20:20<br>赞(0) 踩(0) | <div>能這樣想真太好了，<br>每一個人從出生開始就一直向前走，<br>沒有回頭路⋯⋯<br>好好享受這一路的風景、幸福快樂，<br>到了終點就不遗憾。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37129040)<br><br>2019-10-10 21:18<br>赞(0) 踩(0) | <div>只有经历悲痛的人才能感受</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358072477)<br><br>2019-09-23 02:04<br>赞(0) 踩(0) | <div>我想你了妈妈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271584922)<br> <br>2019-09-21 20:28<br>赞(0) 踩(0) | <div>十六年了……</div> |
@@ -131,7 +131,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256314399)<br>网易云 追逐虾米，暂别，...<br>2019-09-10 23:29<br>赞(0) 踩(0) | <div>不敢听这首歌。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277178679)<br><br>2019-09-09 22:44<br>赞(1) 踩(0) | <div>这是什么歌？心都碎了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334760947)<br>不忘初心！！才能始终！！<br>2019-09-08 14:04<br>赞(2) 踩(0) | <div>真心的好听！！谢谢你！！雷子！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275494378)<br><br>2019-08-15 04:53<br>赞(49) 踩(0) | <div>窗外秋风起不知已中元思母梦忽醒垂泪颂盂兰幼时一幕幕种种在眼前恨未早尽孝哽咽不能言……——2019.8.15 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275494378)<br><br>2019-08-15 04:53<br>赞(49) 踩(0) | <div>窗外秋风起<br>不知已中元<br>思母梦忽醒<br>垂泪颂盂兰<br>幼时一幕幕<br>种种在眼前<br>恨未早尽孝<br>哽咽不能言<br>……<br>——2019.8.15 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344665442)<br><br>2019-08-15 20:58<br>赞(0) 踩(0) | <div>******</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275494378)<br><br>2019-08-17 09:50<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377192567)<br><br>2019-07-21 18:36<br>赞(1) 踩(0) | <div>听哭(´;︵;`)！赵雷的歌总会让人心疼他……</div> |
@@ -139,8 +139,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332784603)<br><br>2019-07-06 09:38<br>赞(3) 踩(0) | <div>父母健在，但是看了评论依然会泪流满面，天下父母都是一样的父母心，感恩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262249997)<br>初心不变。<br>2019-05-25 22:48<br>赞(5) 踩(0) | <div>妈妈这是你走后的77天，只要看到你的照片还是受不了忍不住的流眼泪，在家人面前只要谈起你我都不愿意去提及，只有这样我才会觉得你一直都在我身边从未离开过 。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27122274)<br>我们不说，就没有改变。我...<br>2019-06-14 00:21<br>赞(0) 踩(0) | <div>妞，让我们一起怀念我们的妈妈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307255413)<br><br>2019-05-22 12:52<br>赞(2) 踩(0) | <div>我常常告诉自己要好好的健康 快乐 积极地活着让儿子永远没机会唱这首歌不做他悲伤的借口成为背后可靠的力量一直默默支持他…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54033652)<br>音乐使生活得以承受<br>2019-05-21 12:32<br>赞(3) 踩(0) | <div>嫌过她的愁苦，怨过她的溺爱，打过她骂过她，一次次地伤过她，常说不要你管，自己有数自己搞，跟她谈个体谈尊重谈自由，讲她的爱太重了，想逃离，想轻松，她从不气馁，从不介意，为儿拼命，为儿忧伤，儿大不由娘，爱已成负累，孩子一再拒绝她，终于放弃的那天，她也放弃了生命，去天堂见她的丈夫去了，剩下了孩子一个人。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307255413)<br><br>2019-05-22 12:52<br>赞(2) 踩(0) | <div>我常常告诉自己要好好的<br>健康 快乐 积极地活着<br>让儿子永远没机会唱这首歌<br>不做他悲伤的借口<br>成为背后可靠的力量<br>一直默默支持他…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54033652)<br>音乐使生活得以承受<br>2019-05-21 12:32<br>赞(3) 踩(0) | <div>嫌过她的愁苦，<br>怨过她的溺爱，<br>打过她骂过她，<br>一次次地伤过她，<br>常说不要你管，<br>自己有数自己搞，<br>跟她谈个体谈尊重谈自由，<br>讲她的爱太重了，<br>想逃离，想轻松，<br>她从不气馁，从不介意，<br>为儿拼命，为儿忧伤，<br>儿大不由娘，<br>爱已成负累，<br>孩子一再拒绝她，<br>终于放弃的那天，<br>她也放弃了生命，<br>去天堂见她的丈夫去了，<br>剩下了孩子一个人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314483310)<br>唯音乐对我始终忠诚。<br>2019-05-19 22:20<br>赞(8) 踩(0) | <div>妈妈用十个月为你打造的心脏 不要让别人用几秒钟的时间就给伤害了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259545888)<br>我还没想好要写什么...<br>2019-05-18 23:02<br>赞(3) 踩(0) | <div>好不容易挤出两滴泪用手一抹就干了，哭都哭不出来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368630539)<br>要么跑步，要么读书！别无...<br>2019-05-14 23:42<br>赞(2) 踩(0) | <div>没有妈妈,就觉得自己无家可归 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">一个很要强的年轻妈妈就那样走了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -171,7 +171,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253980019)<br> <br>2019-04-05 19:50<br>赞(1) 踩(0) | <div>妈妈，我从来没想到你会离开我。说好的等清明回来回来去看失去的亲人，你怎么不等我，其实除了你，其他的都不重要，妈妈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365594659)<br>东栏梨花<br>2019-04-05 18:49<br>赞(3) 踩(0) | <div>我的亲人哪。无尽的痛苦伴我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32990619)<br>暂无签名~<br>2019-04-04 12:13<br>赞(3) 踩(0) | <div>泪如雨下</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360117468)<br>青衫磊落险峰行<br>2019-04-01 21:14<br>赞(1) 踩(0) | <div>人生不如意七八九  ，妈妈就是为我负重七八九。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360117468)<br>青衫磊落险峰行<br>2019-04-01 21:14<br>赞(1) 踩(0) | <div>人生不如意七八九  ，<br>妈妈就是为我负重七八九。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323551981)<br><br>2019-03-25 22:24<br>赞(3) 踩(0) | <div>不敢听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336537684)<br><br>2019-03-19 20:23<br>赞(2) 踩(0) | <div>老妈习惯智能机后，看到了好多营销媒体的文章，感觉更累了。老爸，早就无所谓了，饿死饱撑都不会多做什么了，老妈还是那么不想认命，不愿意接受</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370943269)<br><br>2019-03-18 00:01<br>赞(2) 踩(0) | <div>666666</div> |
@@ -186,7 +186,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404010382)<br><br>2019-01-27 23:52<br>赞(4) 踩(0) | <div>我爱你妈妈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403067933)<br>上天让我在最好的时候遇见...<br>2019-01-27 22:53<br>赞(6) 踩(0) | <div>你最开始说不会对爸妈说谎的，可是你毕业以后，你开始对爸妈说谎了，你没有钱，你却跟爸妈说你过得挺好的，不用担心我的经济问题，我这边很暖，老板对我也很好，我都有好好吃饭，好好照顾自己，租的房子也挺大的，有厨房客厅卫生间....可实际，上呢，你已经穷到没钱吃饭了，老板因为你的一点点小失误骂你半天，你租的房子也只有卫生间和一个房间，哪有什么厨房客厅，可生活就是这样，我们哪有那么多选择的权利。陌生人，我希望你能够过得好好的，让你爸妈不为你担心，也希望你爸妈也能好好的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363864167)<br><br>2019-01-23 23:49<br>赞(13) 踩(0) | <div>半夜一个人开着车，听到这首歌，停下来在路边抽根烟，想起妈妈，泪流满面。你已经走了19年了。如今我已经到了而立之年，两个小孩的父亲了。如果您能看到这一切该有多好，我亲爱的妈妈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275494378)<br><br>2019-01-22 07:37<br>赞(31) 踩(0) | <div>树欲静，而风不止，子欲养，而亲不待！世上有许多事情需要我们去做，但是唯有尽孝不能等！不能等！真的不能等啊！妈妈，妈妈，我亲爱的妈妈！两天前，妈妈去世了，我躺在妈妈曾经躺过的床上，想闻闻妈妈在枕头上留下的气息，想感受一下妈妈在床上留下的温度，此时此刻，听到这首歌，不禁泪如滂沱，心如刀割 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275494378)<br><br>2019-01-22 07:37<br>赞(31) 踩(0) | <div>树欲静，而风不止，子欲养，而亲不待！世上有许多事情需要我们去做，但是唯有尽孝不能等！不能等！真的不能等啊！妈妈，妈妈，我亲爱的妈妈！<br>两天前，妈妈去世了，我躺在妈妈曾经躺过的床上，想闻闻妈妈在枕头上留下的气息，想感受一下妈妈在床上留下的温度，此时此刻，听到这首歌，不禁泪如滂沱，心如刀割 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368084363)<br>仁者，心动<br>2019-01-22 18:22<br>赞(0) 踩(0) | <div>逝者已矣，你要保重自己。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275494378)<br><br>2019-01-23 04:23<br>赞(0) 踩(0) | <div><q><b>随风而去说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125747290)<br>左手回忆，右手年华。<br>2019-01-27 19:35<br>赞(0) 踩(0) | <div>妈妈希望你过的幸福。</div> |
@@ -206,7 +206,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368404315)<br><br>2018-12-31 19:54<br>赞(4) 踩(0) | <div>只有感情极深的母子两，才能达到赵雷所唱的这种感觉，让我现在有妈的人都觉得感伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370953492)<br><br>2018-12-22 14:45<br>赞(59) 踩(0) | <div>不需要太多的歌词，你只是轻轻地弹着吉他，低唱着：妈妈，妈妈，亲爱的妈妈……我已哽咽的说不出话。我也曾想过，妈妈，妈妈，亲爱的妈妈，你是在天堂还是在地下？我十七岁那年，你一句话都没说就躺下了。我也没有找到一辆远离悲伤的车，所以，在无数个清晨与夜晚，在每一个特殊的日子里，我的思念和泪水陪我长大……妈妈，妈妈，亲爱的妈妈……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424158096)<br>我还没想好要写什么...<br>2019-11-04 19:50<br>赞(0) 踩(0) | <div>抱抱你 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414963024)<br><br>2019-11-12 23:52<br>赞(0) 踩(0) | <div>抱抱你 今年暑假妈妈去世了 好想她 思念和泪水都是一样的快撑不下去了 我想去找她了</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414963024)<br><br>2019-11-12 23:52<br>赞(0) 踩(0) | <div>抱抱你 今年暑假妈妈去世了 好想她 思念和泪水都是一样的<br>快撑不下去了 我想去找她了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414963024)<br><br>2019-11-12 23:53<br>赞(0) 踩(0) | <div>一样的十七岁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336522775)<br><br>2018-12-22 13:17<br>赞(0) 踩(0) | <div>居然要收费的妈妈</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275494378)<br><br>2019-01-22 07:27<br>赞(0) 踩(0) | <div>为了妈妈掏八毛钱，很难吗？</div> |
@@ -218,7 +218,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310391709)<br><br>2018-11-30 09:11<br>赞(2) 踩(0) | <div>听哭我了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272587922)<br>不一样的音乐，诠释不一样...<br>2018-11-29 19:33<br>赞(3) 踩(0) | <div>亲爱的妈妈，我想与你永远不分离</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/582958)<br><br>2018-11-26 21:13<br>赞(2) 踩(0) | <div>我也是…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20089561)<br>深情不及久伴<br>2018-11-21 07:24<br>赞(6) 踩(0) | <div>瀑布的水逆流而上，蒲公英种子从远处飘回，聚成伞的模样，太阳从西边升起，落向东方。子弹退回枪膛，运动员回到起跑线上，我交回录取通知书，忘了十年寒窗。厨房里飘来饭菜的香，你把我的卷子签好名字，关掉电视，帮我把书包背上。你还在我身旁……妈妈，我想你了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20089561)<br>深情不及久伴<br>2018-11-21 07:24<br>赞(6) 踩(0) | <div>瀑布的水逆流而上，<br>蒲公英种子从远处飘回，聚成伞的模样，<br>太阳从西边升起，落向东方。<br>子弹退回枪膛，<br>运动员回到起跑线上，<br>我交回录取通知书，忘了十年寒窗。<br>厨房里飘来饭菜的香，<br>你把我的卷子签好名字，<br>关掉电视，帮我把书包背上。<br>你还在我身旁……<br>妈妈，我想你了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21234027)<br> <br>2018-11-18 04:22<br>赞(3) 踩(0) | <div>不敢听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47323452)<br>沉稳努力，度己修心。<br>2018-11-17 21:45<br>赞(2) 踩(0) | <div>妈妈  你在哪里？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3335052)<br>音乐是我惟一的解药<br>2018-11-11 03:51<br>赞(4) 踩(0) | <div>六年多过去了，她的声音和脸一次又一次的出现在我的梦境里，好像还是昨天的事。妈妈，妈妈这两个字和妈妈一起，永远的离开了我。我就像个走丢了路的小孩，四处奔波，却没有家的方向。妈妈在的时候特别宠溺我，总是像个骄傲的小公主一样向其他人炫耀，我有世界上最好的妈妈。可是她不在了，我觉得我是世界上…最不幸福的人。我不敢让别人看见我内心的伤口，永远无法修补的缺憾。</div> |
@@ -228,7 +228,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356466822)<br>爱听民谣的姑娘<br>2018-11-03 23:24<br>赞(3) 踩(0) | <div>不知道是年龄的原因还是什么，现在和妈妈的关系越来越远，从之前无话不说，而现在我一个人在外面读书每次都通话越来越少。打电话也就是互相寒暄几句。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37567648)<br><br>2018-11-02 11:38<br>赞(4) 踩(0) | <div>听着我好想哭啊 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21092366)<br>飞不上天的虫子被鸟吃啦<br>2018-10-30 16:56<br>赞(14) 踩(0) | <div>公共场合听着这首歌眼泪完全忍不住，一个大男人在这时候剩下的只有脆弱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/133120434)<br>特立独行 #rebel#<br>2018-10-30 14:57<br>赞(3) 踩(0) | <div>两个月没见了害怕回去叫你你又徒增了几根青丝</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/133120434)<br>特立独行 #rebel#<br>2018-10-30 14:57<br>赞(3) 踩(0) | <div>两个月没见了<br>害怕回去叫你你又徒增了几根青丝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257859739)<br><br>2018-10-30 01:28<br>赞(2) 踩(0) | <div>分开19个月了，但其实不止，过去的几年您一直躺在病床上没有任何回应。想您了，妈。如果能再来。我会从小就好好孝顺您。我爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218795121)<br>著名屌丝<br>2018-10-27 18:42<br>赞(3) 踩(0) | <div>收藏或下载 都会让自己很怀念 很痛苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403569920)<br>你们好，我是庞博。<br>2018-10-22 00:49<br>赞(1) 踩(0) | <div>第一次是在快男听到的这首歌，那时粉丝都在喊赵雷不红，天理难容。你终于火了，雷子，为你感到开心。</div> |
@@ -237,10 +237,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39220059)<br><br>2018-10-13 17:15<br>赞(2) 踩(0) | <div>妈妈，你可以告诉我，现在要怎么办吗，今晚让我梦到你吧，妈妈。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14864962)<br>沉默寡言，心里却有一片海<br>2018-10-27 21:25<br>赞(0) 踩(0) | <div>愿你一切安好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292009235)<br>35一切都是命中注定！！...<br>2018-09-30 02:29<br>赞(4) 踩(0) | <div>妈妈带我走吧。。。带我走吧。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/144623762)<br><br>2018-09-27 22:46<br>赞(5) 踩(0) | <div>妈妈亲爱的妈妈美丽的妈妈我多想分几年寿给她可惜，她不舍得我妈妈，我多想跟您走无论天上地下，无论哭还是笑我都愿意跟您一起承担只要跟您一起我爱您妈妈！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/144623762)<br><br>2018-09-27 22:46<br>赞(5) 踩(0) | <div>妈妈<br>亲爱的妈妈<br>美丽的妈妈<br>我多想分几年寿<br>给她<br><br>可惜，她不舍得我<br><br>妈妈，我多想跟您走<br><br>无论天上地下，无论哭还是笑<br><br>我都愿意跟您一起承担<br><br>只要跟您一起<br><br>我爱您妈妈！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279437868)<br><br>2018-09-16 23:41<br>赞(4) 踩(0) | <div>每个月的十五和十六日，就想听这首唱入我内心的歌，好像可以与天上的妈妈说话</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306619830)<br><br>2018-09-15 23:18<br>赞(4) 踩(0) | <div>雷子唱这首歌的时候一定非常难过吧  回忆是醉人的事情吧 哪怕记忆里的一瞬间 一句话 一个画面 都让人泪目 孤独的时候听这首歌 真的可以泣不成声</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96384216)<br><br>2018-09-13 02:05<br>赞(8) 踩(0) | <div>我这辈子最悲伤的事可能就是妈妈走之前的晚上握着她的手看着仪器上代表生机的各项指数逐渐下降整整一晚上  我的眼泪怎么都擦不干净   今天听到这首歌我又想起了那天晚上2018年8月23日的晚上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96384216)<br><br>2018-09-13 02:05<br>赞(8) 踩(0) | <div>我这辈子最悲伤的事可能就是妈妈走之前的晚上握着她的手看着仪器上代表生机的各项指数逐渐下降<br>整整一晚上  我的眼泪怎么都擦不干净   今天听到这首歌我又想起了那天晚上2018年8月23日的晚上</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347709433)<br><br>2018-09-30 18:55<br>赞(0) 踩(0) | <div>坚强起来，妈妈在天堂会祝福你的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126321284)<br>我于孤独之中盛放，亦如黎...<br>2018-10-02 18:27<br>赞(0) 踩(0) | <div>抱抱，要努力超强</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333570348)<br><br>2020-11-24 00:23<br>赞(0) 踩(0) | <div>抱抱</div> |
@@ -275,7 +275,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10764308)<br><br>2020-07-07 00:04<br>赞(0) 踩(0) | <div>我也没了自信</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347223903)<br><br>2018-06-09 18:43<br>赞(5) 踩(0) | <div>在高速路上开了五个半小时的车，回来的时候灵堂已经布置好了，在路上想着能不能坚持一会就一会，可是连这么短的时间都不给我。我亲爱的妈妈，明明皮肤还是那么柔软怎么体温却那么低。小姨给你买的大衣都不能让你温暖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297899536)<br>在那座阴雨的小城里，我从...<br>2018-06-08 22:45<br>赞(2) 踩(0) | <div>从我刚出生，他们就抛弃了我，三十年了，对我不闻不问，现在突然出现在我面前，没有一丝真诚的愧疚，相反，他们的那个女儿，我只看到了独生子女的自私，我呢？我做错了什么？既然不愿意要我，为何当初要把我生下来？既然抛弃了我，为何现在又来找我？既然找我了，为何对我态度如此冷漠？打扰我平静的生活，给我现在的父母带来了伤痛，告诉我，这样的人我拿什么去原谅！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250601174)<br><br>2018-06-08 21:38<br>赞(0) 踩(0) | <div>真正听了会流泪的歌，想起了我的妈妈&amp;hellip;&amp;hellip;希望妈妈在天上一切都好 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250601174)<br><br>2018-06-08 21:38<br>赞(0) 踩(0) | <div>真正听了会流泪的歌，想起了我的妈妈&amp;hellip;&amp;hellip;<br>希望妈妈在天上一切都好 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269393918)<br><br>2018-06-02 23:14<br>赞(1) 踩(0) | <div>带我走吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356152688)<br><br>2018-05-28 03:18<br>赞(23) 踩(0) | <div>当我喊你妈妈时，我已得不到回应，真的难以想象，你被癌症这个恶魔在短短数月活生生地从我身边带走了，从此，我没有了自信和充实，换来的总是空虚和失落，。我还想和你去西湖边走走，聊聊，品茶喝咖啡。我很想跟你一起走，但是我还有爸爸，我想我应该照顾好他，所以，妈妈请你走得慢点，等等我们吧，我们永远在一起。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353525673)<br>我还没想好要写什么...<br>2018-08-11 19:12<br>赞(0) 踩(0) | <div>我的母亲也因为疾病离开我半年，愿我们都过好当下也有能力照顾好唯一的亲人们</div> |
@@ -290,11 +290,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303345054)<br>常想一二，不思八九<br>2018-05-13 21:21<br>赞(0) 踩(0) | <div>今天母亲节，大家都在为自己的妈妈庆祝节日，而妈妈你却去了另一个国度，往年我们也一起庆祝，那一幕幕敲击着我的心头，妈妈你在那边好吗？我真的好想你，好想你，你可知道？我只想再和你一起喝喝茶聊聊天，告诉你我最近的一些事，好多好多话想对你说&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284781179)<br>我还没想好要写什么...<br>2018-05-13 18:32<br>赞(1) 踩(0) | <div>人生最美的东西之一就是母爱，这是无私的爱，道德与之相形见绌。祝妈妈们节日快乐[咖啡]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32070898)<br><br>2018-05-13 18:04<br>赞(1) 踩(0) | <div>今天母亲节！所以，我听了这首歌！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302532876)<br>假装单纯的话，应该会比较...<br>2018-05-13 15:48<br>赞(3) 踩(0) | <div>父母在，人生尚有来处父母去，人生只剩归途</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302532876)<br>假装单纯的话，应该会比较...<br>2018-05-13 15:48<br>赞(3) 踩(0) | <div>父母在，人生尚有来处<br>父母去，人生只剩归途</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336786734)<br>做只猫做只狗不做情人<br>2018-05-13 11:41<br>赞(4) 踩(0) | <div>今天母亲节，希望天下的母亲都平安快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338413628)<br><br>2018-05-13 06:18<br>赞(2) 踩(0) | <div>珍惜和父母相处得每分每秒，希望母亲能幸福安康*^_^*我是在想母亲节了，唱什么歌给母亲，就随便打了个妈妈，搜出来了这首歌，不错，就这个吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1659259)<br><br>2018-05-10 22:18<br>赞(3) 踩(0) | <div>记得前几天看到一句话&amp;ldquo;妈妈这两个字是世界上最美好的语言&amp;quot;而且几乎世界所有的语言中，妈妈都是发这个音。母亲节要到了，住天下所有的妈妈都身体健康！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321947289)<br><br>2018-05-09 23:35<br>赞(2) 踩(0) | <div>妈妈，儿子想你了！！我爱你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321947289)<br><br>2018-05-09 23:35<br>赞(2) 踩(0) | <div>妈妈，儿子想你了！！<br>我爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303216543)<br><br>2018-05-08 08:13<br>赞(3) 踩(0) | <div>看到评论里所有关于妈妈的都会点赞，妈妈您如果不让自己的孩子在清晨难过，带我走吧 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232737843)<br><br>2018-05-03 20:47<br>赞(4) 踩(0) | <div>妈妈 这个世界上最温暖有力量的称呼。妈妈 对不起 女儿没能在有能力的时候好好报答陪伴你，亲爱的妈妈，愿您在天堂安好。下辈子一定要在做您的女儿 ，好好爱您，让您做个最幸福的女人 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354636333)<br><br>2018-05-02 20:53<br>赞(2) 踩(0) | <div>妈妈，我希望我不会再长大，其实我希望岁月不会划伤你的脸颊&amp;hellip;&amp;hellip;</div> |
@@ -303,7 +303,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353510451)<br><br>2018-04-27 22:57<br>赞(0) 踩(0) | <div>妈妈.很想你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300217618)<br><br>2018-04-26 21:52<br>赞(0) 踩(0) | <div>想哭的心情。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187665337)<br><br>2018-04-24 23:49<br>赞(1) 踩(0) | <div>护士帮她完成了短信：&amp;ldquo;&amp;hellip;爱你。&amp;rdquo;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343420683)<br>我一个人上班，一个人吃饭...<br>2018-04-21 22:15<br>赞(4) 踩(0) | <div>&amp;ldquo;最近看到最有感触的话：身无饥寒 父母无愧于我人无长进 我以何待父母 &amp;rdquo; ​​​​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343420683)<br>我一个人上班，一个人吃饭...<br>2018-04-21 22:15<br>赞(4) 踩(0) | <div>&amp;ldquo;最近看到最有感触的话：<br>身无饥寒 父母无愧于我<br>人无长进 我以何待父母 &amp;rdquo; ​​​​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77079258)<br>我还没想好要写什么...<br>2018-04-19 19:34<br>赞(1) 踩(0) | <div>只有父母才是最亲的人，不计得失，不问因果给予孩子，有一天他们走了，孩子成了无根的枝叶，随风飘荡....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309140685)<br> <br>2018-04-18 14:17<br>赞(0) 踩(0) | <div>眼泪止不住的流&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335405524)<br>我还没想好要写什么...<br>2018-04-17 13:08<br>赞(1) 踩(0) | <div>妈妈离开我已经七年了，心情好或是不好都好想她，因为我的喜怒哀乐都在也没有人一起分享，记得她临终前和我说最放心不下的人就是我，如果人不开心了就对着天空说，她相信她一定会听到.可我只想说，我好想你，不想和你分开.</div> |
@@ -330,7 +330,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339863689)<br>奔走红尘，莫忘自己是书生<br>2018-03-16 18:54<br>赞(0) 踩(0) | <div>谢谢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6869998)<br> <br>2018-03-13 23:03<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279214985)<br>谢谢，爱你，再见<br>2018-03-11 21:35<br>赞(1) 踩(0) | <div>女本柔弱，为母则刚。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339252597)<br><br>2018-03-10 22:14<br>赞(3) 踩(0) | <div>据传是因为神不能在所有地方所以制造了妈妈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339252597)<br><br>2018-03-10 22:14<br>赞(3) 踩(0) | <div>据传是因为神不能在所有地方<br>所以制造了妈妈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268206796)<br>Redamancy～<br>2018-03-09 22:34<br>赞(0) 踩(0) | <div>上次陪我看动漫，这次陪我看欧美片儿，而且还比我看的还要认真，我妈咪的&amp;ldquo;竟然&amp;rdquo;有好多～</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334526727)<br><br>2018-03-17 02:13<br>赞(0) 踩(0) | <div>我陪你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268206796)<br>Redamancy～<br>2018-03-08 18:09<br>赞(1) 踩(0) | <div>不知道为什么，每次明明心里不是那样想的，可是嘴里总是说成另外一副样子，每次和我妈对话，当她不断絮絮叨叨的时候，我听烦了，就直接大声的说出来了，然后就马上回到房间自己默不作声，开始了长达好几天的冷战，明明当时心里不是那样想的，却总是事与愿违，自己一个人躲在房间里反锁门窗听歌儿，或者出去散步，自然，之后的几天就一直这样不说话，但是每一次冷战都不是我&amp;ldquo;投降&amp;rdquo;的，都是我妈，因为她看我不说话也不吃饭很着急，自然就忍不住各种劝我吃饭～</div> |
@@ -355,7 +355,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310115678)<br>WO XI  NI A.<br>2018-02-10 20:12<br>赞(0) 踩(0) | <div>为问昨晚说什么了，亲自提找好吃的找您，很奇怪，前夜的您还能告诉我一些听了好久的老话昨夜却只剩我一个人的声音，也许天堂缺一位动听的声音吧 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298858601)<br><br>2018-02-09 22:32<br>赞(1) 踩(0) | <div>最爱的一首歌，总是能勾起回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290248235)<br><br>2018-02-09 00:06<br>赞(0) 踩(0) | <div>听到妈妈，就泪流不止</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51588362)<br>听了雷子的歌 开始喜欢上...<br>2018-02-07 12:56<br>赞(4) 踩(0) | <div>听着这首歌哭的稀里糊涂，想着妈妈为我付出太多太多。我08年高考前，妈妈怀了二胎，那时家里条件很不好，为了不影响我高考，妈妈把弟弟/妹妹 打掉了，前年给妈妈过49岁生日，说起这个事妈妈忍不住地掉眼泪，我知道妈妈给了我太多的爱，我要怎么才算还得清，也许永远也还不清&amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51588362)<br>听了雷子的歌 开始喜欢上...<br>2018-02-07 12:56<br>赞(4) 踩(0) | <div>听着这首歌哭的稀里糊涂，想着妈妈为我付出太多太多。<br>我08年高考前，妈妈怀了二胎，那时家里条件很不好，为了不影响我高考，妈妈把弟弟/妹妹 打掉了，前年给妈妈过49岁生日，说起这个事妈妈忍不住地掉眼泪，我知道妈妈给了我太多的爱，我要怎么才算还得清，也许永远也还不清&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51588362)<br>听了雷子的歌 开始喜欢上...<br>2018-02-07 12:48<br>赞(2) 踩(0) | <div>他雷子的歌唱出了多少人的歌，他的歌都是属于很多人，他的歌唱的是生活 人生 经历。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98702096)<br>她，走了<br>2018-02-06 19:05<br>赞(2) 踩(0) | <div>不知道怎么了，听一次哭一次</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50136498)<br><br>2018-01-30 01:05<br>赞(3) 踩(0) | <div>明明是用耳朵听，眼睛却不断流泪。</div> |
@@ -371,7 +371,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281084249)<br> <br>2018-02-08 16:57<br>赞(0) 踩(0) | <div>我母亲走了7年了，我一听跟母亲有关的歌曲，就忍不住，眼睛湿湿的，现在听赵雷的这首歌，更是高了，难受极了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295009559)<br><br>2018-01-23 21:35<br>赞(3) 踩(0) | <div>今天是妈妈走的第三天，我不知道该怎样诉说我的情绪。极度悲伤是根本哭不出来的，我想妈妈了，特别想。怎么喊也不会答应我的妈妈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275305458)<br><br>2018-01-22 16:11<br>赞(0) 踩(0) | <div>愿天下父母都开开心心，健健康康，平平安安。妈妈你走的时候记得带上我，没有妈妈的世界，生无可恋。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303011671)<br><br>2018-01-21 21:43<br>赞(1) 踩(0) | <div>再没有一条小路，能悄悄走近你吗？妈妈。无论风往哪边吹，都不能带去我的歌声吗？妈妈。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303011671)<br><br>2018-01-21 21:43<br>赞(1) 踩(0) | <div>再没有一条小路，能悄悄走近你吗？妈妈。<br>无论风往哪边吹，都不能带去我的歌声吗？妈妈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332571906)<br><br>2018-01-19 21:22<br>赞(0) 踩(0) | <div>我特么又一次感动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315363153)<br>天行健，君子以自强不息！<br>2018-01-17 06:45<br>赞(0) 踩(0) | <div>紧闭的唇，颤抖的心，盈眶的泪！&amp;ldquo;妈妈&amp;rdquo;这两个字太沉啦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279437868)<br><br>2018-01-17 00:37<br>赞(1) 踩(0) | <div>每次听到这首歌，就更加思念天堂里的妈妈，妈，您在那边还好吧，好想和您说说话聊聊天，多想您能应答我一声啊，妈妈，十四个月啦，非常非常的想您 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
@@ -393,7 +393,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332635969)<br><br>2017-12-31 15:32<br>赞(2) 踩(0) | <div>无法想象赵雷是在什么心情的情况下写出这首歌曲，听哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340632112)<br><br>2017-12-24 21:52<br>赞(1) 踩(0) | <div>当妈妈渐渐远去，才发现我们是这么的无法割舍，我们这么的依恋我们亲爱的妈妈！只有这首悲伤的歌声真正引动了我对妈妈难舍的情怀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338571896)<br>    一切都好 人心难...<br>2017-12-23 23:06<br>赞(0) 踩(0) | <div>十二</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292009235)<br>35一切都是命中注定！！...<br>2017-12-19 21:59<br>赞(1) 踩(0) | <div>妈妈   你走后  我就成了孤儿飘在这世上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292009235)<br>35一切都是命中注定！！...<br>2017-12-19 21:59<br>赞(1) 踩(0) | <div>妈妈   你走后  我就成了孤儿<br>飘在这世上</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115353332)<br> <br>2018-01-09 01:53<br>赞(0) 踩(0) | <div>是啊 我也就成了孤儿&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339351534)<br><br>2017-12-16 20:38<br>赞(0) 踩(0) | <div>妈妈 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134472212)<br>哥是站着尿尿，蹲着拉屎。<br>2017-12-15 23:01<br>赞(3) 踩(0) | <div>我哭了 37的老男人听哭了 妈妈您辛苦了</div> |
@@ -589,7 +589,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20452290)<br>在人事已非的景色里，我最...<br>2017-07-20 01:05<br>赞(0) 踩(0) | <div><q><b>兮说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2517411)<br>脱单宣言.<br>2017-05-19 06:55<br>赞(1) 踩(0) | <div>听了就悲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278583721)<br><br>2017-05-18 10:54<br>赞(22) 踩(0) | <div>父母仍然健在，但是听到这首歌仍然忍不住泪如泉涌。因为我知道每个人的父母都会有和孩子沉默作别的一天。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125089920)<br>找到北方啦<br>2017-05-17 12:58<br>赞(1) 踩(0) | <div>真的很少听这首歌，因为这首歌太悲伤了，每次听见就有想哭的冲动。赵雷，一个会用歌词画画的男人，曾经也画过他的妈妈。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125089920)<br>找到北方啦<br>2017-05-17 12:58<br>赞(1) 踩(0) | <div>真的很少听这首歌，因为这首歌太悲伤了，每次听见就有想哭的冲动。<br>赵雷，一个会用歌词画画的男人，曾经也画过他的妈妈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261600387)<br><br>2017-05-14 16:53<br>赞(1) 踩(0) | <div>单曲循环一下午了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12899321)<br><br>2017-05-14 14:20<br>赞(2) 踩(0) | <div>听一回，泪奔一回 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287454186)<br><br>2017-05-14 12:29<br>赞(0) 踩(0) | <div>哭的稀里哗啦</div> |
@@ -774,7 +774,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245278968)<br><br>2017-02-11 15:39<br>赞(2) 踩(0) | <div>任眼泪肆意流淌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41874181)<br><br>2017-02-11 00:20<br>赞(2) 踩(0) | <div>泪流满面，昨天看到电视剧台词就忍不住飙泪"我觉得你可怜，生命中有些人你不想让他离开但是他还是不得不离开，你知道更可怜的是什么，就是他离开的时候，你还没做好准备......"这几天强烈思念奶奶，在一起生活了二十年，你的点点滴滴已经渗透到我骨子里，脑中不断浮现那些过往你我相处的片段，却再也触碰不到你，一种揪心的痛......你的离开让我措手不及，怪只怪我当时太年轻，以为你能挺过病痛的折磨......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95854198)<br> <br>2017-02-10 12:53<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140192008)<br><br>2017-02-09 17:41<br>赞(12) 踩(0) | <div>总有一首歌，让你泪流哽咽，却循环播放。我多想分给你一些我的力量；我多想给你一颗轻松的心脏；走的时候一定叫醒我；我不想在没有叶子的冬天沉默；这个世界上也没有一辆能带我远离悲伤的车。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140192008)<br><br>2017-02-09 17:41<br>赞(12) 踩(0) | <div>总有一首歌，让你泪流哽咽，却循环播放。<br>我多想分给你一些我的力量；<br>我多想给你一颗轻松的心脏；<br>走的时候一定叫醒我；<br>我不想在没有叶子的冬天沉默；<br>这个世界上也没有一辆能带我远离悲伤的车。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262745733)<br><br>2017-02-08 15:38<br>赞(13) 踩(0) | <div>这首歌听一次，哭一次！19岁那年妈妈病逝之后，这些年我无数次想起妈妈，都会泪流满面，每次都会在心里对妈妈说带我走吧。天堂也好、地狱也罢，有妈妈的地方我都不会害怕。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252277672)<br><br>2017-02-08 20:33<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png">坚强朋友 抱抱</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28168326)<br><br>2017-02-09 20:17<br>赞(0) 踩(0) | <div>朋友，一定要幸福</div> |
@@ -786,7 +786,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270403436)<br><br>2017-02-19 21:19<br>赞(0) 踩(0) | <div>妈妈在天堂不希望看到她爱的孩子痛苦~坚强吧~为了让妈妈走的放心 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33718856)<br>我还没想好要写什么...<br>2017-02-27 22:26<br>赞(0) 踩(0) | <div>来世她还是你的妈妈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9098666)<br> <br>2017-02-08 13:29<br>赞(0) 踩(0) | <div>感动</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94534140)<br>我们像是表面上的针，不停...<br>2017-02-08 13:08<br>赞(0) 踩(0) | <div>真的好有共鸣，唯一一首歌是真的听哭了，撕心裂肺的哭，希望妈妈身体好起来！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94534140)<br>我们像是表面上的针，不停...<br>2017-02-08 13:08<br>赞(0) 踩(0) | <div>真的好有共鸣，唯一一首歌是真的听哭了，<br>撕心裂肺的哭，希望妈妈身体好起来！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139247238)<br><br>2017-02-08 12:13<br>赞(2) 踩(0) | <div>听过开头，双眼已湿润。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271755726)<br><br>2017-02-08 10:00<br>赞(2) 踩(0) | <div>听哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246285864)<br><br>2017-02-07 23:58<br>赞(1) 踩(0) | <div>我的妈妈 离开半年了 在我过完18岁生日的时候 想见你不管以什么方式</div> |
@@ -825,10 +825,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247682477)<br>Samhk<br>2017-01-22 20:24<br>赞(1) 踩(0) | <div>妈妈，妈妈，带我走吧～ <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264647195)<br>坚持会不一样。<br>2017-01-21 22:55<br>赞(1) 踩(0) | <div>慈母手中线游子身上衣临行密密缝意恐迟迟归谁言寸草心报得三春辉 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43490131)<br><br>2017-01-21 04:35<br>赞(6) 踩(0) | <div>看母亲被疾病折磨，真的心疼，希望母亲病情好转，安享晚年 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260608123)<br><br>2017-01-18 09:24<br>赞(3) 踩(0) | <div>妈妈 我多想给你一颗轻松的心脏妈妈 妈妈 走的时候一定要叫醒我妈妈 如果你不想看到你的孩子在清晨难过妈妈 带我走吧妈妈 带我走吧妈妈  妈妈 你说话阿！妈妈 亲爱的妈妈妈....   我没有妈妈了.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260608123)<br><br>2017-01-18 09:24<br>赞(3) 踩(0) | <div>妈妈 我多想给你一颗轻松的心脏<br>妈妈 妈妈 走的时候一定要叫醒我<br>妈妈 如果你不想看到你的孩子在清晨难过<br>妈妈 带我走吧<br>妈妈 带我走吧<br>妈妈  妈妈 你说话阿！<br>妈妈 亲爱的妈妈<br>妈....   我没有妈妈了.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256866151)<br>一包烟，几浊酒，夜夜笙歌<br>2017-01-16 14:39<br>赞(1) 踩(0) | <div>20岁生日那天妈妈打电话来祝我生日快乐，问我吃的什么过的还好不，我听声音不对才知道妈妈病了，真是儿行千里母担忧！！我想给你一个轻松的心脏！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47059063)<br><br>2017-01-13 22:12<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259303433)<br><br>2017-01-13 10:12<br>赞(1) 踩(0) | <div>妈妈带我走吧 <img src="../../../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259303433)<br><br>2017-01-13 10:12<br>赞(1) 踩(0) | <div>妈妈<br>带我走吧 <img src="../../../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259303433)<br><br>2017-01-13 10:11<br>赞(1) 踩(0) | <div>这个世界上也没有一辆能带我远离悲伤的车</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47151023)<br>爱而不得很正常，哭都没必...<br>2017-01-13 00:51<br>赞(1) 踩(0) | <div>这个世界上也没有一辆能带我远离悲伤的车，so sad.....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18132778)<br><br>2017-01-12 18:59<br>赞(1) 踩(0) | <div>幸好你唱了窑上路</div> |
@@ -866,7 +866,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141007448)<br>所有的成熟都是我的伪装，...<br>2016-11-05 20:19<br>赞(3) 踩(0) | <div>那一声妈妈，心都颤了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97543300)<br>求关注的请绕道，关注了取...<br>2016-11-04 16:29<br>赞(4) 踩(0) | <div>这绝对是他写过最悲伤最痛苦的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23644437)<br> <br>2016-11-03 11:25<br>赞(2) 踩(0) | <div>妈妈真的不容易</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55959690)<br>壮年听雨客舟中，江阔云低...<br>2016-10-31 13:42<br>赞(9) 踩(0) | <div>而以前读书时甚至有点嫌弃过她，怪过她，对她的爱感觉喘不过气，但到我现在成家，越来越感觉她的不易，她的坚强，她的苦撑。这个世界上，最爱我的女人是她，没有之一。对她涌泉之恩，之爱，而我却只能滴水相报，也不能陪在她身边，我是不孝的，我想了很久，不知道该怎么做。。。。。。但我可确定的是，我永远不会放下她，不会忘记这首歌，不会忘记她瘦弱的身影，我爱她......‍（另外，我不知雷哥母亲是否安在，但我能听得出，这一词一句无不流露出他对母亲浓浓的爱，与思念）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55959690)<br>壮年听雨客舟中，江阔云低...<br>2016-10-31 13:42<br>赞(9) 踩(0) | <div>而以前读书时甚至有点嫌弃过她，怪过她，对她的爱感觉喘不过气，但到我现在成家，越来越感觉她的不易，她的坚强，她的苦撑。这个世界上，最爱我的女人是她，没有之一。对她涌泉之恩，之爱，而我却只能滴水相报，也不能陪在她身边，我是不孝的，我想了很久，不知道该怎么做。。。。。。但我可确定的是，我永远不会放下她，不会忘记这首歌，不会忘记她瘦弱的身影，我爱她......‍<br>（另外，我不知雷哥母亲是否安在，但我能听得出，这一词一句无不流露出他对母亲浓浓的爱，与思念）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48847977)<br> <br>2016-10-31 05:45<br>赞(1) 踩(0) | <div>妈妈我有你吗不知道不记得14年了妈妈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98423670)<br>不二女生嘻嘻<br>2016-10-30 20:50<br>赞(2) 踩(0) | <div>唱出名的是南方姑娘却惟独喜欢这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98423670)<br>不二女生嘻嘻<br>2016-10-30 20:48<br>赞(2) 踩(0) | <div>不知道为什么每次都能听哭</div> |
@@ -1018,7 +1018,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10100092)<br> <br>2016-02-22 00:26<br>赞(6) 踩(0) | <div>永远都会记得在100天前 姥姥弥留之际，她的孩子们于榻前那一声声 声嘶力竭的叫着：妈妈，妈妈，别离开。。。那种骨肉分离的不舍，震撼人心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8125816)<br><br>2016-02-21 16:30<br>赞(1) 踩(0) | <div>这是个苦痛的故事......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35154527)<br><br>2016-02-19 16:13<br>赞(2) 踩(0) | <div>为什么搜不到赵雷的《过年》，唱的更凄凉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50078959)<br>……<br>2016-02-17 09:53<br>赞(1) 踩(0) | <div>喜欢赵小雷，喜欢他的歌，很走心的民谣。听他的歌我总是容易心疼他，也心疼自己……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50078959)<br>……<br>2016-02-17 09:53<br>赞(1) 踩(0) | <div>喜欢赵小雷，喜欢他的歌，很走心的民谣。<br>听他的歌我总是容易心疼他，也心疼自己……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13995375)<br>我还没想好要写什么...<br>2016-02-16 22:10<br>赞(0) 踩(0) | <div>你走吧，我不留了。我真的不想留了……这首歌我一直害怕听，害怕听到悲伤，害怕听到无望，害怕听到心碎。如今，这份悲淹没了我对你所有任性的坚持和期待。生无可恋，生无可恋……可以在别人的幸福里感受到同样的幸福，可悲伤不是。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5035279)<br>喜乐人生<br>2016-02-15 13:12<br>赞(4) 踩(0) | <div>那些爱民谣的孩子都是心地纯净善良才情满满的好孩子，他们也许有另类的服饰和着装，有你看不顺眼的发型有你看不惯的打扮~你可以无视他们的存在，但你不能无视他们的个性和时刻涌动着的创造力，他们不会踏上世俗的路程，因为他们自有他们的前程~.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5035279)<br>喜乐人生<br>2016-02-15 13:11<br>赞(0) 踩(0) | <div>那些爱民谣的孩子都是心地纯净善良才情满满的好孩子，他们也许有另类的服饰和着装，有你看不顺眼的发型有你看不惯的打扮~</div> |
@@ -1034,7 +1034,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26609577)<br> <br>2016-01-23 22:00<br>赞(1) 踩(0) | <div>希望爸爸妈妈永远健康快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95851414)<br><br>2016-01-22 00:23<br>赞(1) 踩(0) | <div>听赵雷的每首歌，都是在听他叙述他的生活，真实的让人心碎，感动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42157103)<br><br>2016-01-20 14:31<br>赞(2) 踩(0) | <div>歌中妈妈的发音和我老家方言里叫妈妈的是一样的…❤️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1308967)<br>虾米听重型极端音乐这块的...<br>2016-01-18 13:05<br>赞(1) 踩(0) | <div>‘父母在不远游，游必有方’逝者已矣，活着的人仍需苟延残喘的活着。说什么舍不得都是矫情。珍惜现在，活在当下。唯此而已。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1308967)<br>虾米听重型极端音乐这块的...<br>2016-01-18 13:05<br>赞(1) 踩(0) | <div>‘父母在不远游，游必有方’<br>逝者已矣，活着的人仍需苟延残喘的活着。<br>说什么舍不得都是矫情。<br>珍惜现在，活在当下。<br>唯此而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87476144)<br><br>2016-01-17 00:13<br>赞(4) 踩(0) | <div>多想你再摸一摸我的头发，曾想啊，如果可以换心，我想把心换给你；如果可以换命 ，我恨不得把命换个你。可是，你不在了，我说什么都没用了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87476144)<br><br>2016-01-17 00:10<br>赞(2) 踩(0) | <div>妈妈，你走的时候也没有叫醒我，留下我在清晨哭泣。我好想你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10128471)<br> <br>2016-01-15 23:43<br>赞(0) 踩(0) | <div>妈，我很想你</div> |
@@ -1219,7 +1219,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257416132)<br><br>2018-04-28 10:33<br>赞(0) 踩(0) | <div><q><b>陈晨橙呀！说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356466822)<br>爱听民谣的姑娘<br>2018-04-28 16:15<br>赞(0) 踩(0) | <div><q><b>归去来兮mo说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335225657)<br><br>2019-01-12 17:05<br>赞(0) 踩(0) | <div>我母亲走了三年，经常也会梦见，生活要坚强开心</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424158096)<br>我还没想好要写什么...<br>2019-11-04 19:49<br>赞(0) 踩(0) | <div>離別之時唯難舍，人生一世來去匆匆、聚散離合悲歡苦樂⋯⋯這世上所有人最後都要離別；因為無常，所以要善待生命；因為因果，所以要善待他人；因為輪回，所以要善待人生；</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424158096)<br>我还没想好要写什么...<br>2019-11-04 19:49<br>赞(0) 踩(0) | <div>離別之時唯難舍，人生一世來去匆匆、聚散離合悲歡苦樂⋯⋯<br>這世上所有人最後都要離別；<br>因為無常，所以要善待生命；<br>因為因果，所以要善待他人；<br>因為輪回，所以要善待人生；</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309228077)<br><br>2019-11-26 21:03<br>赞(0) 踩(0) | <div><q><b>SPring说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304942761)<br><br>2019-11-29 03:38<br>赞(0) 踩(0) | <div>妈妈 我爱你 <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300802271)<br><br>2020-11-23 16:57<br>赞(0) 踩(0) | <div>嗯 妈妈一定在天堂</div> |
@@ -1233,10 +1233,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10365772)<br>我还没想好要写什么...<br>2015-02-26 17:26<br>赞(0) 踩(0) | <div>天知道我有多想妈妈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10365772)<br>我还没想好要写什么...<br>2015-02-26 17:23<br>赞(0) 踩(0) | <div>哎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45999906)<br>HI~雷猴哇~<br>2015-02-23 22:55<br>赞(1) 踩(0) | <div>字字戳心。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46949219)<br>make u mine<br>2015-02-23 20:21<br>赞(1) 踩(0) | <div>直接听哭 唱不出带我走吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46949219)<br>make u mine<br>2015-02-23 20:21<br>赞(1) 踩(0) | <div>直接听哭 唱不出<br>带我走吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3566813)<br>菩萨，祝您身体健康！34...<br>2015-02-19 19:08<br>赞(0) 踩(0) | <div>08吧，赵雷参加  快乐男声，那时记忆最深的是他唱的  米店  和这首  妈妈以及一首犬夜叉，不能阻挡的好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11543393)<br>你太酷了。<br>2015-02-13 23:12<br>赞(0) 踩(0) | <div>听哭了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2015-02-13 01:30<br>赞(0) 踩(0) | <div>听哭了。。。2015.02.13</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2015-02-13 01:30<br>赞(0) 踩(0) | <div>听哭了。。。<br>2015.02.13</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6628857)<br><br>2015-02-11 00:26<br>赞(2) 踩(0) | <div>听哭了，雷子也是个苦命的孩子啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11518168)<br>music's my l...<br>2015-02-09 23:31<br>赞(1) 踩(0) | <div>带我走吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35762291)<br><br>2015-02-08 09:42<br>赞(0) 踩(0) | <div>酸了</div> |
@@ -1353,7 +1353,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5042720)<br><br>2014-05-29 11:47<br>赞(0) 踩(0) | <div>这首歌每次听眼泪都在眼眶里转 ~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5042720)<br><br>2014-05-21 10:36<br>赞(0) 踩(0) | <div>很感人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36318040)<br>爱设计，爱生活<br>2014-05-16 13:15<br>赞(0) 踩(0) | <div>MAMA</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298615)<br>暂无签名~<br>2014-05-12 08:41<br>赞(0) 踩(0) | <div>妈妈 带我走吧 我相信天上或地下有个永不分离的家感人！哭了。来自android客户端</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298615)<br>暂无签名~<br>2014-05-12 08:41<br>赞(0) 踩(0) | <div>妈妈 带我走吧 我相信天上或地下有个永不分离的家<br>感人！哭了。<br><br>来自android客户端</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1635808)<br><br>2014-05-11 14:32<br>赞(0) 踩(0) | <div>这是唯一一首曾经听得让我泪流满面的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25469263)<br>doris 0503<br>2014-05-11 14:00<br>赞(0) 踩(0) | <div>喜欢赵雷，支持你！加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35557722)<br><br>2014-05-11 13:05<br>赞(0) 踩(0) | <div>祝天下母亲都有好儿女</div> |
@@ -1379,7 +1379,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7735063)<br><br>2014-02-23 10:36<br>赞(0) 踩(0) | <div>听哭泣了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6180474)<br><br>2014-02-13 09:13<br>赞(0) 踩(0) | <div>写妈妈的歌里最撕心裂肺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2014-02-12 15:29<br>赞(0) 踩(0) | <div>心 境不二</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5026326)<br>爱唱歌的孩子都是好孩子～<br>2014-02-03 19:08<br>赞(0) 踩(0) | <div>妈妈 带我走吧我相信天上或地下有个永不分离的家</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5026326)<br>爱唱歌的孩子都是好孩子～<br>2014-02-03 19:08<br>赞(0) 踩(0) | <div>妈妈 带我走吧<br>我相信天上或地下有个永不分离的家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5026326)<br>爱唱歌的孩子都是好孩子～<br>2014-02-03 19:08<br>赞(0) 踩(0) | <div>妈妈~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13712293)<br><br>2014-01-30 01:48<br>赞(0) 踩(0) | <div>能写出这样的歌! 他得经过多少痛苦啊!!..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13712293)<br><br>2014-01-30 01:40<br>赞(0) 踩(0) | <div>他得经过多少的痛苦，能写出这首歌呀!哎...</div> |
@@ -1406,7 +1406,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15532420)<br><br>2013-09-06 17:36<br>赞(0) 踩(0) | <div>由歌曲认识了歌手，找到了原创，甚至找到了相似风格的群体。米店的原创原来是赵雷，同样是乔小刀的盟军。马頔尧十三宋冬野原是一个圈子。民谣歌手有生活质感接地气的词曲创作能量，音乐路上颠沛留下脚印。更多的乐人没有董小姐那样的幸运。音乐同是乐迷的野马，在现实的困厄中，音乐的旋律走向草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8329771)<br>诗酒趁年华<br>2013-08-30 19:12<br>赞(0) 踩(0) | <div>我唯一到过的天堂是妳的怀里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13934164)<br><br>2013-08-28 00:09<br>赞(0) 踩(0) | <div>赵雷-妈妈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10097208)<br><br>2013-08-27 10:14<br>赞(0) 踩(0) | <div>绝对戳泪。来自赵雷专辑《赵小雷》，全五星[妈妈 妈妈走的时候一定叫醒我妈妈如果你不想看到你的孩子在清晨难过我不想在没有叶子的冬天沉默这个世界上也没有一辆能带我远离悲伤的车妈妈 妈妈 带我走吧我们到天上或地下去等着爸爸妈妈 带我走吧我相信天上或地下有个永不分离的家]</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10097208)<br><br>2013-08-27 10:14<br>赞(0) 踩(0) | <div>绝对戳泪。来自赵雷专辑《赵小雷》，全五星[妈妈 妈妈<br>走的时候一定叫醒我<br>妈妈如果你不想看到你的孩子在清晨难过<br>我不想在没有叶子的冬天沉默<br>这个世界上也没有一辆能带我远离悲伤的车<br>妈妈 妈妈 带我走吧<br>我们到天上或地下去等着爸爸<br>妈妈 带我走吧<br>我相信天上或地下有个永不分离的家]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9301514)<br>独立唱作人<br>2013-08-26 09:26<br>赞(0) 踩(0) | <div>3年前我就很喜欢这首，绝望的嗓音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1536912)<br><br>2013-08-23 23:51<br>赞(0) 踩(0) | <div>好久没听到这么真挚、感人的作品了，眼泪也流了下来。好的音乐并不是俘虏你的眼睛而是俘虏你的心灵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1536912)<br><br>2013-08-23 23:45<br>赞(0) 踩(0) | <div>好久没听到这么真挚、感人的作品了，眼泪也流了下来。好的音乐并不是俘虏你的眼睛而是俘虏你的心灵。</div> |

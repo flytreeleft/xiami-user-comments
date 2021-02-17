@@ -50,8 +50,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10303763)<br><br>2019-01-10 12:09<br>赞(1) 踩(0) | <div>社会性孤独可通过爱来部分地消解，易使人错误地以为，爱是孤独的解药。实则大谬不然。相爱，非但不能解除孤独，还会根本地加强孤独感。孤独困扰的出路并非在于“消解”或“解决”，而在直面的勇气与担当。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2296117)<br>简单<br>2018-08-31 20:41<br>赞(0) 踩(0) | <div>让人抓狂[18禁]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321536937)<br>交友aaa1371037...<br>2018-08-12 18:50<br>赞(1) 踩(0) | <div>不管有多少人黑汪峰，他的才华都是不能否定</div> |
@@ -83,11 +83,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24089427)<br><br>2017-12-18 23:02<br>赞(2) 踩(0) | <div>看到这首歌名，突然想起2011年在北京筹备【绽放北京·模特大赛】时的日子，活动夭折了，却成长不少。听着歌词，蓦然回首起大学里青春灿烂的小生活，精彩不足，却收获遗憾。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77984798)<br><br>2017-11-16 14:24<br>赞(0) 踩(0) | <div>不羁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3518974)<br><br>2017-11-14 00:54<br>赞(4) 踩(0) | <div>平淡与激情共存</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299617)<br>浮云一别后，流水十年间<br>2017-10-30 10:17<br>赞(3) 踩(0) | <div>罪恶怎么定义？明明是心的无奈，理智和道理的世俗却立马横刀....少年们，也许多年后你们有了那些经历，才知道这首歌.....让我们再抱一下，就在这一瞬间，带着所有疯狂 带着所有勇敢....却是最后的拥抱吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299617)<br>浮云一别后，流水十年间<br>2017-10-30 10:17<br>赞(3) 踩(0) | <div>罪恶怎么定义？明明是心的无奈，理智和道理的世俗却立马横刀....<br>少年们，也许多年后你们有了那些经历，才知道这首歌.....<br>让我们再抱一下，就在这一瞬间，带着所有疯狂 带着所有勇敢....却是最后的拥抱吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9585765)<br><br>2017-10-30 10:08<br>赞(3) 踩(0) | <div>绽放的瞬间，灿烂刹那之后希望是长久的淡淡的温暖。晚安~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24361184)<br> 阴晴圆缺在窗外，心中一...<br>2017-10-29 20:37<br>赞(4) 踩(0) | <div>越经历越能体会到什么是外表冷漠，内心狂热。在这浮躁的社会，越来越感到孤独。希望自己是星空一朵绽放的五彩斑斓的礼花，虽然是一现，也是燃烧自己，释放自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16039421)<br>坚持0°C原则<br>2017-10-28 00:22<br>赞(1) 踩(0) | <div>不知道你在哪里，只希望你能快乐度过，早点回家，一路平安！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3591043)<br>我回来啦<br>2017-10-28 00:17<br>赞(1) 踩(0) | <div>“就在这灿烂的一瞬间我的心悄然绽放”，在整首歌词中，我最喜欢这句。仿佛，从相遇的那天起，就与你签了一份无字的灵魂契约，这契约，没有期限，不用署名，只用温暖做注脚。悄悄地守着那最美的默契，悄悄地深藏那最美的感觉。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3591043)<br>我回来啦<br>2017-10-28 00:17<br>赞(1) 踩(0) | <div>“就在这灿烂的一瞬间我的心悄然绽放”，在整首歌词中，我最喜欢这句。<br>仿佛，从相遇的那天起，就与你签了一份无字的灵魂契约，这契约，没有期限，不用署名，只用温暖做注脚。悄悄地守着那最美的默契，悄悄地深藏那最美的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7964434)<br><br>2017-10-27 23:28<br>赞(3) 踩(0) | <div>最近突然喜欢听汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6570426)<br><br>2017-10-27 23:26<br>赞(1) 踩(0) | <div>无论是在启程那一天，还是在路上装进行囊里的梦想，在漫长的黑夜和旅途上，现实总是狠狠的考验着我们还能背着走多远，累了，眼红了，怀疑了~心里的完美生活是这一切唯一坚持的力量~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97767442)<br><br>2017-10-08 21:54<br>赞(1) 踩(0) | <div>汪峰你是不是没给那个编曲和贝斯手奖金，高潮的时候都把你的声音盖住了，完全变成了。 吵</div> |
@@ -117,12 +117,12 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43871675)<br><br>2014-12-29 23:28<br>赞(0) 踩(0) | <div>我来了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24033721)<br>首长，我死后别忘了帮我缴...<br>2014-12-29 23:29<br>赞(0) 踩(0) | <div><q><b>suoxi99说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14162496)<br>我还没想好要写什么...<br>2014-12-13 20:54<br>赞(1) 踩(0) | <div>我们的爱恣意地呐喊。无论命运的风往哪个方向吹，吹不灭来自西奈山，镌刻在灵魂深处的火种。没有灵魂会永远地漂泊，如果他渴望回家。不停向着家的方向飞，所有渴望自由的鸟儿共同的目标，直到被永恒的温</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5129302)<br><br>2014-10-04 09:49<br>赞(0) 踩(0) | <div>不知道什么时候把播放列表里的老汪删了，回来才发现真的好久了。再怎么样，也是陪我走过了漫长的一段路。让我们再抱一下就在这一瞬间</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5129302)<br><br>2014-10-04 09:49<br>赞(0) 踩(0) | <div>不知道什么时候把播放列表里的老汪删了，回来才发现真的好久了。<br>再怎么样，也是陪我走过了漫长的一段路。<br>让我们再抱一下<br>就在这一瞬间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15977623)<br>岁月静好<br>2014-08-30 22:05<br>赞(1) 踩(0) | <div>怎么呢么伤感啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27830849)<br><br>2014-08-15 22:32<br>赞(0) 踩(0) | <div>Nothing is everything</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27332084)<br><br>2014-08-07 13:00<br>赞(0) 踩(0) | <div>很好听的歌曲，适合在下午茶的时候静静聆听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34789590)<br>身体和灵魂必须有一个在床...<br>2014-07-29 18:57<br>赞(0) 踩(0) | <div>车载精品</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9564787)<br><br>2014-06-19 18:56<br>赞(0) 踩(0) | <div>让我们再爱一次 / 就在这一瞬间穿越所有的痛楚 / 穿越所有的伤害</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9564787)<br><br>2014-06-19 18:56<br>赞(0) 踩(0) | <div>让我们再爱一次 / 就在这一瞬间<br>穿越所有的痛楚 / 穿越所有的伤害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10637457)<br><br>2014-06-08 09:10<br>赞(0) 踩(0) | <div>就在这绽放的一瞬间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36652721)<br><br>2014-05-28 21:53<br>赞(0) 踩(0) | <div>记住的就不会忘记</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4038725)<br>水中花，镜中月！<br>2014-05-28 11:03<br>赞(0) 踩(0) | <div>深深被触动，就在这灿烂的一瞬间，我的心悄然绽放～～～</div> |
@@ -139,7 +139,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/617716)<br><br>2013-10-10 00:34<br>赞(0) 踩(0) | <div>花有重开日，人无再少年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23143556)<br><br>2013-09-29 21:18<br>赞(0) 踩(0) | <div>11</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11308931)<br> <br>2013-09-11 10:31<br>赞(0) 踩(0) | <div>我讨厌一切不可控的人和事，因为在不可预知的问题面前会变得那样的无助。可是，我有又不悔地去追逐那个未知的明天。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4138845)<br>人生不过二三事<br>2013-09-08 10:30<br>赞(0) 踩(0) | <div>让我们再来一次在深渊里共舞忘记一些遗憾忘记一些无奈让我们再来一次就在这一瞬间穿越所有痛楚穿越所有伤害</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4138845)<br>人生不过二三事<br>2013-09-08 10:30<br>赞(0) 踩(0) | <div>让我们再来一次<br>在深渊里共舞<br>忘记一些遗憾<br>忘记一些无奈<br>让我们再来一次<br>就在这一瞬间<br>穿越所有痛楚<br>穿越所有伤害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13918403)<br><br>2013-08-27 16:18<br>赞(0) 踩(0) | <div>就在这一瞬间，带着所有疯狂，带着所有勇敢.......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18564082)<br>没功夫的熊猫<br>2013-08-27 03:27<br>赞(0) 踩(0) | <div>零抵抗，搞得我也想爸爸了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1868076)<br><br>2013-08-09 10:59<br>赞(0) 踩(0) | <div>循环两天了...</div> |
@@ -155,7 +155,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5092200)<br>练习做一个地球人真的好难...<br>2013-07-09 15:24<br>赞(1) 踩(0) | <div>深渊里共舞，黑暗中唯一的光亮，稍瞬即逝。明明灭灭的绽放之后黑暗和冷寂迅速被包裹。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3533849)<br><br>2013-05-31 07:40<br>赞(0) 踩(0) | <div>早安！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13529992)<br><br>2013-05-12 08:42<br>赞(0) 踩(0) | <div>穿越时光的秘密，在一个甜蜜的瞬间。刹那，永恒。永恒，刹那。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:32<br>赞(0) 踩(0) | <div>让我们再来一次在深渊里共舞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:32<br>赞(0) 踩(0) | <div>让我们再来一次<br>在深渊里共舞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2135223)<br>不与人说。孰与解却心头锁<br>2013-04-13 00:09<br>赞(0) 踩(0) | <div>你的爱情生如夏花，死如余烬。烟花易冷，覆水难收。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12319319)<br><br>2013-04-07 10:54<br>赞(0) 踩(0) | <div>忘记一些伤害，忘记一些无奈，让我们狠狠绽放！每个人都具备绽放的所有潜能，在这个灿烂的瞬间，带着所有疯狂和勇敢，像燃烧般绽放。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3772909)<br><br>2013-02-19 00:36<br>赞(0) 踩(0) | <div>晚安</div> |
@@ -174,7 +174,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9596181)<br><br>2012-10-18 10:34<br>赞(0) 踩(0) | <div>汪峰的声音很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8200953)<br><br>2012-10-15 23:23<br>赞(0) 踩(0) | <div>就在这灿烂的一瞬间，就在这绽放的一刹那，就在这燃烧的一瞬间。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10986820)<br><br>2012-10-09 12:10<br>赞(0) 踩(0) | <div>因为。。。所以。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4476871)<br>写的不好看<br>2012-09-29 09:02<br>赞(0) 踩(0) | <div>让我们再吻一次就在这一瞬间穿越所有的痛苦穿越所有的伤害</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4476871)<br>写的不好看<br>2012-09-29 09:02<br>赞(0) 踩(0) | <div>让我们再吻一次<br>就在这一瞬间<br>穿越所有的痛苦<br>穿越所有的伤害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3830782)<br>我还没想好要写什么...<br>2012-09-23 19:41<br>赞(0) 踩(0) | <div>我的心悄然绽放，你可看到？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2157676)<br><br>2012-09-21 19:00<br>赞(0) 踩(0) | <div>听出了感情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/507271)<br> <br>2012-09-18 00:37<br>赞(0) 踩(0) | <div>这首歌我今天听了一下午啊❤@松本pony</div> |
@@ -191,7 +191,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8893625)<br><br>2012-07-10 11:01<br>赞(0) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2392)<br><br>2012-06-21 14:00<br>赞(0) 踩(0) | <div>让我们再吻一次 就在这一瞬间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5004757)<br><br>2012-06-09 00:05<br>赞(0) 踩(0) | <div>就在这灿烂的一</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8908077)<br><br>2012-06-07 09:41<br>赞(0) 踩(0) | <div>让我们再来一次在深渊里共舞忘记一些遗憾忘记一些无奈让我们再吻一次就在这一瞬间穿越所有的痛苦穿越所有的伤害就在这灿烂的一瞬间我的心悄然绽放</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8908077)<br><br>2012-06-07 09:41<br>赞(0) 踩(0) | <div>让我们再来一次<br>在深渊里共舞<br>忘记一些遗憾<br>忘记一些无奈<br>让我们再吻一次<br>就在这一瞬间<br>穿越所有的痛苦<br>穿越所有的伤害<br>就在这灿烂的一瞬间<br>我的心悄然绽放</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3586839)<br><br>2012-04-11 08:30<br>赞(0) 踩(0) | <div>早晨听听汪峰感觉还不错，这首绽放是当时我们宿舍共认为汪峰最好听的一首。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2232433)<br><br>2012-03-29 14:26<br>赞(0) 踩(0) | <div>。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3502638)<br>你懂我的，我缺点就是很健...<br>2012-03-25 12:16<br>赞(0) 踩(0) | <div>就在这燃烧的一瞬间</div> |
@@ -209,9 +209,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6604177)<br><br>2011-11-04 08:56<br>赞(0) 踩(0) | <div>我晕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3814790)<br><br>2011-10-27 21:50<br>赞(0) 踩(0) | <div>展翅高飞，保持愤怒。汪峰马上要出新专辑了，你也在等么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2632450)<br> <br>2011-10-24 23:16<br>赞(0) 踩(0) | <div>多年前我姐推荐的歌。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2804748)<br>暂无签名~<br>2011-10-21 22:52<br>赞(0) 踩(0) | <div>就在这灿烂的一瞬间 / 我的心悄然绽放就在这绽放的一刹那 / 像荒草一样燃烧就在这燃烧的一瞬间 / 我的心悄然绽放就在这绽放的一刹那 / 我和你那么辉煌让我们再爱一次 / 就在这一瞬间</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2804748)<br>暂无签名~<br>2011-10-21 22:52<br>赞(0) 踩(0) | <div>就在这灿烂的一瞬间 / 我的心悄然绽放<br>就在这绽放的一刹那 / 像荒草一样燃烧<br>就在这燃烧的一瞬间 / 我的心悄然绽放<br>就在这绽放的一刹那 / 我和你那么辉煌<br>让我们再爱一次 / 就在这一瞬间</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2028593)<br><br>2014-05-20 19:28<br>赞(0) 踩(0) | <div>绽放</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6029600)<br><br>2011-10-21 16:12<br>赞(0) 踩(0) | <div>就在这灿烂的一瞬间 / 我的心悄然绽放就在这绽放的一刹那 / 像荒草一样燃烧就在这燃烧的一瞬间 / 我的心悄然绽放就在这绽放的一刹那 / 我和你那么辉煌让我们再爱一次 / 就在这一瞬间</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6029600)<br><br>2011-10-21 16:12<br>赞(0) 踩(0) | <div>就在这灿烂的一瞬间 / 我的心悄然绽放<br>就在这绽放的一刹那 / 像荒草一样燃烧<br>就在这燃烧的一瞬间 / 我的心悄然绽放<br>就在这绽放的一刹那 / 我和你那么辉煌<br>让我们再爱一次 / 就在这一瞬间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6029600)<br><br>2011-10-21 16:10<br>赞(0) 踩(0) | <div>一见钟情的喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2483008)<br><br>2011-10-21 13:25<br>赞(0) 踩(0) | <div>很man的一个人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6021993)<br>爱上层楼 <br>2011-10-01 17:39<br>赞(0) 踩(0) | <div>aa</div> |
@@ -234,8 +234,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2202613)<br><br>2011-02-13 05:37<br>赞(0) 踩(0) | <div>喜欢他那么用心的去唱的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2708496)<br><br>2011-02-06 22:23<br>赞(0) 踩(0) | <div>燃烧~绽放~辉煌~笑忘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/860165)<br><br>2011-01-22 15:40<br>赞(0) 踩(0) | <div>让我们再吻一次，在这一瞬间，忘记所有痛苦。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1832842)<br>仰望星空，砥砺前行<br>2010-12-24 15:03<br>赞(0) 踩(0) | <div>这首歌曾经伴我度过高考那段难忘的岁月。每次听到，心底总是有一种别样的触动！要坚强！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1832842)<br>仰望星空，砥砺前行<br>2010-12-24 15:02<br>赞(0) 踩(0) | <div>这首歌伴我度过高考那段难忘的岁月。每次听到，总是有一种别样的激情在心中！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1832842)<br>仰望星空，砥砺前行<br>2010-12-24 15:03<br>赞(0) 踩(0) | <div>这首歌曾经伴我度过高考那段难忘的岁月。<br>每次听到，心底总是有一种别样的触动！<br>要坚强！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1832842)<br>仰望星空，砥砺前行<br>2010-12-24 15:02<br>赞(0) 踩(0) | <div>这首歌伴我度过高考那段难忘的岁月。<br>每次听到，总是有一种别样的激情在心中！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374907)<br><br>2010-11-14 10:10<br>赞(0) 踩(0) | <div>第一次听到这歌是在晚上的车里，迷迷糊糊中，特别有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-10-06 14:39<br>赞(11) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1073894)<br>天佑人性<br>2010-09-23 22:10<br>赞(0) 踩(0) | <div>哈哈，哥们牛X！似乎有点像</div> |

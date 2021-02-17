@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/78ab2a7fd9b66d15204b579eb5868a15.jpg)<br>小千](https://i.xiami.com/xiaoqian) | **播放数**: 7334313<br>**粉丝数**: 4815<br>**评论数**: 115<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/78ab2a7fd9b66d15204b579eb5868a15.jpg)<br>小千](https://i.xiami.com/xiaoqian) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 7334313<br>**粉丝数**: 4815<br>**评论数**: 115<br> |
 
 ## 档案
 
@@ -41,8 +41,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348858326)<br>之前河水只是河水<br>2019-11-09 16:08<br>赞(0) 踩(0) | <div>每次听你的歌都会起鸡皮疙瘩  声音太适合古风   太温柔了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14747594)<br>大音希声<br>2019-07-07 13:27<br>赞(0) 踩(0) | <div>《邪灵》真是太好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224568020)<br><br>2019-04-16 07:55<br>赞(1) 踩(0) | <div>你的很多歌都很好听，加油，继续唱自己喜欢的歌。</div> |
@@ -140,7 +140,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11340472)<br>辣鸡强制收藏<br>2014-09-18 17:32<br>赞(0) 踩(0) | <div>早~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11873394)<br>宇宙星辰等骑士<br>2014-09-17 17:27<br>赞(0) 踩(0) | <div>小千好棒好棒~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2014-09-16 20:34<br>赞(0) 踩(0) | <div>声控来点赞~声音棒棒哒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10061385)<br><br>2014-09-09 20:14<br>赞(0) 踩(0) | <div>终于入驻了......以为有生之年等不到......(❀╹◡╹)ﾉ~ ✿.｡.･:*✿*ﾟ¨ﾟ✎･✿.｡.✿*ﾟ¨ﾟ✎･✿</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10061385)<br><br>2014-09-09 20:14<br>赞(0) 踩(0) | <div>终于入驻了......以为有生之年等不到......<br>(❀╹◡╹)ﾉ~ ✿.｡.･:*✿*ﾟ¨ﾟ✎･✿.｡.✿*ﾟ¨ﾟ✎･✿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10438167)<br>虾米猜越来越不准了，江湖...<br>2014-09-09 12:44<br>赞(0) 踩(0) | <div><a href="http://emumo.xiami.com/u/6760432" target="_blank" rel="nofollow" name_card="6760432">@毛爷爷~</a>  快来看，小千终于入驻音乐人了2333....最近一直在单循故时月色的说........</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6760432)<br>这家伙有点懒，什么也没写<br>2014-09-09 13:55<br>赞(0) 踩(0) | <div>噗，可攻可受的小千也来啦~~~~多多更新啊~~哈哈，故时月色也不错的~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34006683)<br>努力定会成功。加油。<br>2014-08-19 10:43<br>赞(0) 踩(0) | <div>萌萌哒！</div> |

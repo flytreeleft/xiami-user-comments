@@ -72,8 +72,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47874468)<br>信伴侣<br>2020-07-30 12:54<br>赞(0) 踩(0) | <div>太惨了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353460392)<br><br>2018-04-01 12:20<br>赞(2) 踩(0) | <div>《荣荣的东村》里写左小在东村有一次演出，几十遍高呼莫非，&amp;quot;他说是他死去女友的名字&amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9548397)<br><br>2017-09-17 22:53<br>赞(2) 踩(0) | <div>据说是为纪念逝者而作，这样此歌就可理解</div> |

@@ -48,5 +48,3 @@ Oh bring back my Bonnie to me
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

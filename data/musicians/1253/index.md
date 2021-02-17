@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3e555ecb269f91730c93c9ffbae9669c.png)<br>钟志刚](https://i.xiami.com/zzg) | **播放数**: 2670647<br>**粉丝数**: 1629<br>**评论数**: 53<br>**地区**: China 中国大陆<br>**风格**: 民歌, 融合<br> |
+| [![](../../images/musicians/3e555ecb269f91730c93c9ffbae9669c.png)<br>钟志刚](https://i.xiami.com/zzg) | **地区**: China 中国大陆<br>**风格**: 民歌, 融合<br>**播放数**: 2670647<br>**粉丝数**: 1629<br>**评论数**: 53<br> |
 
 ## 档案
 
@@ -28,8 +28,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351594163)<br><br>2020-12-08 11:50<br>赞(0) 踩(0) | <div>很好聽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-10-25 03:26<br>赞(0) 踩(0) | <div>Ⓜ️Ⓜ️Ⓜ️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-05-19 00:39<br>赞(0) 踩(0) | <div>发烧男声</div> |
@@ -81,5 +81,5 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3720036)<br><br>2012-01-28 12:37<br>赞(0) 踩(0) | <div>There is hardly anything more touching than hearing  a man sing in such a deep, soulful voice.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5489452)<br><br>2011-12-13 15:28<br>赞(0) 踩(0) | <div>非常特别，我非常喜欢。特别是夜来香。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/695533)<br><br>2011-07-06 09:29<br>赞(0) 踩(0) | <div>怎么最近虾米无法听他的歌曲啊？？？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3065048)<br>渐行渐远.....<br>2011-04-29 23:40<br>赞(0) 踩(0) | <div>我 特喜欢 风声鹤唳每天都 会聆听几次</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3065048)<br>渐行渐远.....<br>2011-04-29 23:40<br>赞(0) 踩(0) | <div>我 特喜欢 风声鹤唳<br>每天都 会聆听几次</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363069)<br><br>2011-05-22 17:55<br>赞(0) 踩(0) | <div>几年前，第一次听翠湖寒，竟然会听到流泪。至今仍然不时听听，那份感觉依然。</div> |

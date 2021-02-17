@@ -43,8 +43,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1218669)<br>我要当一只快乐的喷子！<br>2019-03-26 09:26<br>赞(0) 踩(0) | <div>原作《里の秋》：讲述二战时候日本乡村小朋友和妈妈在秋天里等待侵略台湾（或者东南亚）的鬼子爹回家的故事。喜欢这歌，但讨厌这故事，希望那个鬼子爹死在台湾别回来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6408044)<br>是个笨蛋。<br>2018-08-10 17:36<br>赞(2) 踩(0) | <div>rockmui，再见啦，无论多遥远，终有一天会见的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5968552)<br>虾小米，我爱你所以讲不出...<br>2018-05-16 00:10<br>赞(1) 踩(0) | <div>最近一直循环望春风，于是哼唱着这首旋律就混到了望春风的词，竟发现十分契合。独夜无伴首灯下，清风对面吹，十七八岁未出嫁，想着少年家，果然标致面肉白，谁家人子弟，想未问候惊坏势，心内弹琵琶&amp;hellip;&amp;hellip;老歌遇知音了</div> |
@@ -71,6 +71,6 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2192062)<br><br>2012-09-26 17:18<br>赞(0) 踩(0) | <div>难忘记就不忘记吧，寄给有情人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/499894)<br><br>2012-09-25 15:58<br>赞(1) 踩(0) | <div>林式缠绵入骨  好动人的声音</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104457)<br>中年抖腿大师<br>2012-09-26 11:33<br>赞(0) 踩(0) | <div>软。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2787687)<br><br>2012-09-24 22:37<br>赞(0) 踩(0) | <div>爱像轻烟似白云是梦幻还似真岁月唏嘘倍是恼人几多心苦困往日温馨又想起清风伴我归去新的希望又从远方升起我将每日怀念你新的希望又从远方升起我将每日怀念你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2787687)<br><br>2012-09-24 22:37<br>赞(0) 踩(0) | <div>爱像轻烟似白云<br>是梦幻还似真<br>岁月唏嘘倍是恼人<br>几多心苦困<br>往日温馨又想起<br>清风伴我归去<br>新的希望又从远方升起<br>我将每日怀念你<br>新的希望又从远方升起<br>我将每日怀念你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3544740)<br><br>2012-09-17 22:49<br>赞(0) 踩(0) | <div>循环曲目 晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3102401)<br><br>2012-09-17 21:16<br>赞(1) 踩(0) | <div>一峰同学唱这种悠悠幽幽忧忧的歌真是绝了~~</div> |

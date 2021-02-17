@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/04d56c219a553a31ea8d7309c8291ceb.jpg)<br>大宇](https://i.xiami.com/dayu) | **播放数**: 3731643<br>**粉丝数**: 3406<br>**评论数**: 409<br>**地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 轻音乐 Easy Listening, 器乐嘻哈 Instrumental Hip Hop<br> |
+| [![](../../images/musicians/04d56c219a553a31ea8d7309c8291ceb.jpg)<br>大宇](https://i.xiami.com/dayu) | **地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 轻音乐 Easy Listening, 器乐嘻哈 Instrumental Hip Hop<br>**播放数**: 3731643<br>**粉丝数**: 3406<br>**评论数**: 409<br> |
 
 ## 档案
 
@@ -34,8 +34,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419572784)<br>我还没想好要写什么...<br>2020-01-13 22:55<br>赞(0) 踩(0) | <div>是老衲不吃饭吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116808764)<br>你要自己做自己的决定哦<br>2019-09-07 07:19<br>赞(0) 踩(0) | <div>好好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186131560)<br>也不是怪兽<br>2019-08-08 23:35<br>赞(0) 踩(0) | <div>好棒</div> |
@@ -98,7 +98,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135254708)<br><br>2016-04-05 22:04<br>赞(0) 踩(0) | <div>把很多音乐改得跟好听了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79088474)<br><br>2016-03-27 09:48<br>赞(2) 踩(0) | <div>第一次收听你的歌是“胡同儿”</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48072470)<br><br>2016-04-05 23:11<br>赞(0) 踩(0) | <div>我也是</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113741910)<br> <br>2016-03-27 04:58<br>赞(0) 踩(0) | <div>喜欢心动</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113741910)<br> <br>2016-03-27 04:58<br>赞(0) 踩(0) | <div>喜欢<br>心动</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120723534)<br>简单点<br>2016-03-17 19:54<br>赞(0) 踩(0) | <div>今天突然在最右看到了，就觉得好好听，当时就震撼了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png">太好听了 <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86738120)<br><br>2016-03-16 16:06<br>赞(0) 踩(0) | <div>只有听你的音乐才能感受到久违的心情舒畅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/67755652)<br>淋湿了人心<br>2016-03-14 16:06<br>赞(1) 踩(0) | <div>我来拉</div> |
@@ -187,7 +187,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50001224)<br> <br>2015-11-28 15:00<br>赞(0) 踩(0) | <div>为了胡同儿下了虾米</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87021896)<br><br>2015-11-28 11:45<br>赞(0) 踩(0) | <div>你的心河这首歌我好喜欢好喜欢，怎么不更新呢？！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86810606)<br>在最好的时光，做想做的梦...<br>2015-11-27 22:07<br>赞(0) 踩(0) | <div>我也是为了你下载虾米的噢~希望今后有更多动人心弦的纯音乐 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86895652)<br>初心 本真 <br>2015-11-27 21:40<br>赞(0) 踩(0) | <div>为了大宇特地下载的虾米哦(´-ω-`)美拍上的视频棒棒哒！加油(ง •̀_•́)ง</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86895652)<br>初心 本真 <br>2015-11-27 21:40<br>赞(0) 踩(0) | <div>为了大宇特地下载的虾米哦(´-ω-`)<br>美拍上的视频棒棒哒！<br>加油(ง •̀_•́)ง</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74172240)<br><br>2015-11-25 18:15<br>赞(0) 踩(0) | <div>说不上为什么  就是很喜欢  就像你喜欢一个人  你一定要说出喜欢他的原因吗？也许 说不上原因的喜欢  才更加真实吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74172240)<br><br>2015-11-25 18:15<br>赞(0) 踩(0) | <div>说不上为什么  就是很喜欢  就像你喜欢一个人  你一定要说出喜欢他的原因吗？也许 说不上原因的喜欢  才更加真实吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86303612)<br><br>2015-11-25 15:25<br>赞(3) 踩(0) | <div><img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png">为了大宇特意下的虾米</div> |
@@ -438,7 +438,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89524210)<br><br>2015-12-07 20:00<br>赞(0) 踩(0) | <div>好喜欢你，你的音乐总是让我很震撼 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21320993)<br>爱音乐<br>2015-12-07 20:10<br>赞(0) 踩(0) | <div>太赞了！一定要坚持下去！看好你！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85955920)<br><br>2016-01-04 12:53<br>赞(0) 踩(0) | <div>尼玛，特意下载的虾米，，，胡同已经作为彩铃~</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97972430)<br><br>2016-01-07 19:04<br>赞(0) 踩(0) | <div>很早就在美拍上关注你了，然后一路追过来，下载虾米只为听你的音乐 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png">哥们收下我的膝盖，我会看着你一步一步变得更强大  <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97972430)<br><br>2016-01-07 19:04<br>赞(0) 踩(0) | <div>很早就在美拍上关注你了，然后一路追过来，下载虾米只为听你的音乐 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"><br>哥们收下我的膝盖，我会看着你一步一步变得更强大  <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187808360)<br><br>2016-06-09 15:26<br>赞(0) 踩(0) | <div>因为在美拍看见你我才下载虾米音乐大爱你的音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208375670)<br><br>2016-08-03 10:02<br>赞(0) 踩(0) | <div>因为你的音乐才下载的虾米</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16196683)<br><br>2016-12-14 22:16<br>赞(0) 踩(0) | <div>太喜欢你的歌曲了</div> |

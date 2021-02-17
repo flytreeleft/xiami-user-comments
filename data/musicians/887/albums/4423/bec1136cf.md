@@ -77,8 +77,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442231400)<br><br>2020-04-23 16:19<br>赞(0) 踩(0) | <div>这是沸羊羊的干爹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334321870)<br><br>2020-04-10 18:10<br>赞(0) 踩(0) | <div>666666666666666666666666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261320804)<br><br>2019-12-15 23:19<br>赞(0) 踩(0) | <div>反对徐帆的人骂沈星是小三，呵呵，这三观</div> |
@@ -93,7 +93,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224995715)<br>瓜皮<br>2017-12-03 02:06<br>赞(0) 踩(0) | <div>可</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224995715)<br>瓜皮<br>2017-10-31 06:30<br>赞(0) 踩(0) | <div>可</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40058369)<br>暂无签名~<br>2017-10-28 00:15<br>赞(1) 踩(0) | <div>本来觉得汪峰唱的有点调戏，可能是总是看到他的负面新闻，但是看了电影我认同这首歌了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2967196)<br><br>2017-10-28 00:12<br>赞(1) 踩(0) | <div>@蓝点点Oo  送你这首歌。我不是一块石头,也不是一滴眼泪,我只是一只小鸟,在寻找家的方向这是飞一样的感觉这是自由的感觉在撒满星星的天空迎着风飞舞凭着一颗永不哭泣勇敢的心（亲，想清楚。）（能理解却不知怎么安慰。你就尽量的倾述吧。）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2967196)<br><br>2017-10-28 00:12<br>赞(1) 踩(0) | <div>@蓝点点Oo  送你这首歌。我不是一块石头,<br>也不是一滴眼泪,<br>我只是一只小鸟,<br>在寻找家的方向<br>这是飞一样的感觉<br>这是自由的感觉<br>在撒满星星的天空迎着风飞舞<br>凭着一颗永不哭泣勇敢的心<br><br>（亲，想清楚。）（能理解却不知怎么安慰。你就尽量的倾述吧。）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49192501)<br> <br>2017-10-27 23:41<br>赞(1) 踩(0) | <div>鉴于这两日各大社交平台都好评如潮…我必须要昧着良心分享汪峰老师的歌以示支持…特别摇…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10575249)<br><br>2017-10-27 23:08<br>赞(1) 踩(0) | <div>真不喜欢最近那么怂的自己，要赶紧的cheer up up up ！！！[猪头]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3610614)<br><br>2017-10-27 23:08<br>赞(1) 踩(0) | <div>别笑我，最近就喜欢听汪峰的歌！</div> |
@@ -379,7 +379,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18004964)<br>声+颜的正太控! 跳团红...<br>2015-07-18 01:58<br>赞(1) 踩(0) | <div>为了大圣听的人不少啊 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43048915)<br><br>2015-07-18 00:51<br>赞(0) 踩(0) | <div>大圣插曲。晚安[doge]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52207232)<br> <br>2015-07-17 23:24<br>赞(0) 踩(0) | <div>大圣加1</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2640323)<br> <br>2015-07-17 23:17<br>赞(3) 踩(0) | <div>我要这天，再遮不住我眼，要这地，再埋不了我心，要这众生，都明白我意，要那诸佛，都烟消云散！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2640323)<br> <br>2015-07-17 23:17<br>赞(3) 踩(0) | <div>我要这天，再遮不住我眼，<br>要这地，再埋不了我心，<br>要这众生，都明白我意，<br>要那诸佛，都烟消云散！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43260433)<br>怀揣一颗遗憾，听着忧伤，...<br>2015-07-18 19:07<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27993477)<br><br>2015-07-17 23:05<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23255689)<br> <br>2015-07-17 22:49<br>赞(0) 踩(0) | <div>确实燃...但为何那么像...</div> |
@@ -454,7 +454,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10153307)<br><br>2015-07-16 11:21<br>赞(0) 踩(0) | <div>大圣观光团～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10900505)<br>慢一点，就能快一点<br>2015-07-16 10:50<br>赞(4) 踩(0) | <div>为大圣来刷歌 不明白为什么一个歌手可以做到让人讨厌本人却喜欢他的歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12410203)<br> <br>2015-07-16 23:09<br>赞(0) 踩(0) | <div>啊哈哈哈 你道出了我的心声</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51693587)<br>不错!我就是美貌与智慧并...<br>2015-07-16 08:23<br>赞(0) 踩(0) | <div>这是飞翔的感觉就像自由的感觉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51693587)<br>不错!我就是美貌与智慧并...<br>2015-07-16 08:23<br>赞(0) 踩(0) | <div>这是飞翔的感觉<br>就像自由的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43817830)<br>one thing an...<br>2015-07-16 08:14<br>赞(0) 踩(0) | <div>就像自由的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25036379)<br><br>2015-07-16 05:02<br>赞(3) 踩(0) | <div>不感冒汪半壁的歌，不过和大圣挺应景的，觉得还蛮好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1344214)<br>我还没想好要写什么...<br>2015-07-16 01:21<br>赞(3) 踩(0) | <div>看大圣回来的时候画面+音乐。我已流泪</div> |
@@ -558,7 +558,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48892801)<br>我会等你<br>2015-07-13 23:32<br>赞(1) 踩(0) | <div>感动●ｖ●</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46124504)<br><br>2015-07-13 23:23<br>赞(1) 踩(0) | <div>以前听是探路者的广告，今天看大圣归来又听到了，感动的不行啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28277886)<br><br>2015-07-13 23:16<br>赞(1) 踩(0) | <div>#西游记之大圣归来# 这个片段看哭了，真的！3D效果太棒了…诚心推荐！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47994606)<br>每一个不曾起舞的日子，都...<br>2015-07-13 23:13<br>赞(3) 踩(0) | <div>说说我吧，悟空传改变了我对西游记的印象，在心中总有着西游情节。无论是中国好歌曲里戴荃的《悟空》还是《悟空传》还有如今的《大圣归来》那只朝着天空怒吼的猴子还是那么的勇敢不羁与坚强</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47994606)<br>每一个不曾起舞的日子，都...<br>2015-07-13 23:13<br>赞(3) 踩(0) | <div>说说我吧，悟空传改变了我对西游记的印象，在心中总有着西游情节。无论是中国好歌曲里戴荃的《悟空》还是《悟空传》还有如今的《大圣归来》<br>那只朝着天空怒吼的猴子还是那么的勇敢不羁与坚强</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2314231)<br><br>2015-07-13 23:12<br>赞(1) 踩(0) | <div>歌曲并不违和 很燃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47994606)<br>每一个不曾起舞的日子，都...<br>2015-07-13 23:03<br>赞(1) 踩(0) | <div>不知道有多少人看过悟空传</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25284587)<br>你是一道光<br>2015-07-13 22:43<br>赞(2) 踩(0) | <div>反正我是出戏了 然后一开始以为隔壁的歌放到这部电影来了</div> |
@@ -723,7 +723,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39124264)<br><br>2014-07-19 02:49<br>赞(0) 踩(0) | <div>心飞扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17277186)<br>暂无签名~<br>2014-06-22 13:09<br>赞(2) 踩(0) | <div>simple plan- crazy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13671273)<br><br>2014-06-18 20:51<br>赞(2) 踩(0) | <div>第一句听成“我不是衣冠禽兽”。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33794594)<br>呼啦啦呼啦啦呼啦呼啦嘿<br>2014-04-07 23:51<br>赞(0) 踩(0) | <div>这不是一种幻想 也不是一种痴狂这就是我坚信的 灿烂生命的模样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33794594)<br>呼啦啦呼啦啦呼啦呼啦嘿<br>2014-04-07 23:51<br>赞(0) 踩(0) | <div>这不是一种幻想 也不是一种痴狂<br>这就是我坚信的 灿烂生命的模样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32216367)<br><br>2014-01-28 15:22<br>赞(0) 踩(0) | <div>飞翔吧，生命！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13506730)<br> <br>2014-01-16 11:52<br>赞(2) 踩(0) | <div>你抄个JB！一生黑！呸！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23594526)<br><br>2013-12-16 09:40<br>赞(0) 踩(0) | <div>在布满力量的大地带着痛狂奔  来吧 神经病的世界 你就是不懂</div> |
@@ -738,7 +738,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23647539)<br>愿你现在过得幸福安稳<br>2013-10-04 10:37<br>赞(0) 踩(0) | <div>祝你们充满 勇敢的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23162264)<br><br>2013-09-27 19:11<br>赞(0) 踩(0) | <div>“在撒满星星的天空迎着风飞舞，凭着一颗永不哭泣勇敢的心。”这竟然是《北京青年》的主题歌，那个大烂片，都配不上这首歌。-来自汪峰《勇敢的心》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12330208)<br>每次相遇都是久别后的重逢<br>2013-09-23 09:41<br>赞(0) 踩(0) | <div>L</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16180313)<br><br>2013-09-21 18:41<br>赞(0) 踩(0) | <div>我不是一块石头也不是一滴眼泪我只是一只小鸟在寻找家的方向我不是一粒沙子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16180313)<br><br>2013-09-21 18:41<br>赞(0) 踩(0) | <div>我不是一块石头<br>也不是一滴眼泪<br>我只是一只小鸟<br>在寻找家的方向<br>我不是一粒沙子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2889313)<br>暂无签名~<br>2013-09-14 15:02<br>赞(0) 踩(0) | <div>凭着一颗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21613080)<br><br>2013-09-10 16:47<br>赞(0) 踩(0) | <div>我们最需要的是什么样的声音？我们最需要的是怎样的一颗心？在这个浮华而疯狂的时代，我们需要的正是一颗勇敢的心！这一颗心道出了这个时代的症结，这一颗心唱出了这个时代的悲欢。我们与你一同用心聆听《勇敢的心》。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2958177)<br>暂无签名~<br>2013-08-28 11:41<br>赞(0) 踩(0) | <div>就练它了!</div> |
@@ -762,7 +762,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7573846)<br>( ´ ▽ ` )ﾉ 好...<br>2013-06-12 20:10<br>赞(0) 踩(0) | <div>明天去吼一吼。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12229919)<br>差一点<br>2013-05-29 21:21<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15387817)<br><br>2013-05-25 11:49<br>赞(0) 踩(0) | <div>无论去哪儿，不管天气如何，一定记得带上自己的阳光哦！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11136024)<br><br>2013-05-22 12:45<br>赞(0) 踩(0) | <div>这不是一种幻想也不是一种痴狂这就是我坚信的灿烂生命的摸样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11136024)<br><br>2013-05-22 12:45<br>赞(0) 踩(0) | <div>这不是一种幻想<br>也不是一种痴狂<br>这就是我坚信的<br>灿烂生命的摸样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7685124)<br><br>2013-05-15 22:30<br>赞(0) 踩(0) | <div>不得不说汪峰的唱功还是可以滴。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7057840)<br><br>2013-05-03 10:19<br>赞(0) 踩(0) | <div>这个点不听小汪的歌写作业都不带感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14196748)<br><br>2013-04-28 00:48<br>赞(0) 踩(0) | <div>时差调整得差不多。晚安！</div> |
@@ -771,9 +771,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12717448)<br><br>2013-03-23 01:30<br>赞(0) 踩(0) | <div>这不是一种幻想，也不是一种痴狂，这就是我坚信的，灿烂生命的摸样。这是飞一样的感觉，这是自由的感觉。在撒满星星的天空迎着风飞舞，凭着一颗永不哭泣勇敢的心。晚安，同学们~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12914765)<br><br>2013-02-06 17:03<br>赞(2) 踩(0) | <div>操！过瘾！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12739445)<br><br>2013-01-28 07:34<br>赞(0) 踩(0) | <div>唱出了心里的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3172836)<br>暂无签名~<br>2013-01-26 20:53<br>赞(0) 踩(0) | <div>我只是一只小鸟在寻找家的方向</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3172836)<br>暂无签名~<br>2013-01-26 20:53<br>赞(0) 踩(0) | <div>我只是一只小鸟<br>在寻找家的方向</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3172836)<br>暂无签名~<br>2013-01-26 20:31<br>赞(0) 踩(0) | <div>在布满力量的大地带着痛狂奔，凭着一颗永不哭泣勇敢的心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12704740)<br><br>2013-01-26 10:25<br>赞(0) 踩(0) | <div>这不是一种幻想也不是一种痴狂这就是我坚信的灿烂生命的摸样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12704740)<br><br>2013-01-26 10:25<br>赞(0) 踩(0) | <div>这不是一种幻想<br>也不是一种痴狂<br>这就是我坚信的<br>灿烂生命的摸样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2618091)<br><br>2013-01-05 20:17<br>赞(0) 踩(0) | <div>依然觉得这首歌是汪峰的歌里面最难唱的一首，咳死我了～！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4356170)<br><br>2012-12-31 08:24<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6067185)<br><br>2012-12-26 23:38<br>赞(0) 踩(0) | <div>每天来一首，算做倒计时吧。致痛并快乐着的KY生活，致梦想，致无悔的青春。铭记这一刻自由的感觉。</div> |
@@ -832,7 +832,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2390734)<br><br>2011-11-18 15:35<br>赞(0) 踩(0) | <div>生活中总是要有点劲头的吧？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3586685)<br><br>2011-11-16 22:34<br>赞(0) 踩(0) | <div>在这个正太当道，伪娘盛行的年代，我还是依然坚持喜欢粗糙大气澎湃的摇滚爷们。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/995760)<br><br>2011-11-14 16:06<br>赞(0) 踩(0) | <div>在撒满星星的天空迎着风飞舞凭着一颗永不哭泣勇敢的心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6203093)<br><br>2011-11-02 10:06<br>赞(0) 踩(0) | <div>如果不是瞄到他一眼觉得身材挺好...我就错过这么好的嗓子了...“在撒满星星的天空迎着风飞舞 ”人人都需要有一颗勇敢的心。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6203093)<br><br>2011-11-02 10:06<br>赞(0) 踩(0) | <div>如果不是瞄到他一眼觉得身材挺好...我就错过这么好的嗓子了...<br><br><br>“在撒满星星的天空迎着风飞舞 ”人人都需要有一颗勇敢的心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6081789)<br><br>2011-10-03 19:43<br>赞(0) 踩(0) | <div>为心而歌唱，守护最美的梦想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/720314)<br><br>2011-09-26 11:51<br>赞(0) 踩(0) | <div>我们家宝宝最近迷上了@汪峰 的歌，每天都要求听好几次。不过当这首《勇敢的心》前奏响起的时候，小宁就会飞快地躲到沙发上去，因为后面强劲的节奏对他来说还是刺激了点。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4859434)<br>倚楼听风雨，淡看江湖路<br>2011-08-19 22:45<br>赞(0) 踩(0) | <div>这么热烈的歌曲很少听的，只是太喜欢他的副歌部分的歌词了！</div> |

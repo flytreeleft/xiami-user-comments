@@ -68,8 +68,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402569077)<br>去爱，去工作，去生活<br>2020-04-27 12:47<br>赞(0) 踩(0) | <div>我竟然听出对家乡，对家人的不舍&amp;hellip;&amp;hellip;音乐编曲很赞，左老师也比平时唱的稍微能听下去一点点。 <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307329700)<br><br>2020-03-29 14:05<br>赞(1) 踩(0) | <div>这首歌我在现场，因为左小下一个是林宥嘉，又迟到了，搞得全部人都嫌左小唱的太久，弄得左小很不爽。哈哈哈哈哈哈哈哈。真的心疼 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1571155)<br><br>2020-01-30 22:43<br>赞(0) 踩(0) | <div>为了喜欢的的人与生活！乌兰巴托的夜！</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/497396a824837d260a9b81dae41d5436.jpg)<br>刘捷](https://i.xiami.com/liujie) | **播放数**: 1308675<br>**粉丝数**: 1155<br>**评论数**: 121<br>**地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/497396a824837d260a9b81dae41d5436.jpg)<br>刘捷](https://i.xiami.com/liujie) | **地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 1308675<br>**粉丝数**: 1155<br>**评论数**: 121<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247927998)<br><br>2019-08-08 22:49<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337404670)<br><br>2019-05-26 22:02<br>赞(0) 踩(0) | <div>很棒的音乐人！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95269814)<br>植物在生长，小鸟在飞翔，...<br>2018-12-17 20:17<br>赞(1) 踩(0) | <div>微信还给人加，不怕炸？</div> |

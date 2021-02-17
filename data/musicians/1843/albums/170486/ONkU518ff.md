@@ -39,8 +39,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19341209)<br> <br>2019-01-02 11:09<br>赞(0) 踩(0) | <div>唱的太缠绵了，金戈铁马的感觉差一点，配乐不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276597901)<br><br>2017-12-04 20:02<br>赞(0) 踩(0) | <div>配乐中的马蹄声，又是古中国的的血泪史。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5555764)<br>阿Ken<br>2017-11-16 02:34<br>赞(0) 踩(0) | <div>前奏的鼓音比原版的更配，整首编曲效果真赞，作者功不可灭</div> |

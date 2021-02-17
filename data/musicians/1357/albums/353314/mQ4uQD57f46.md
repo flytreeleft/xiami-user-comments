@@ -81,8 +81,8 @@ But a little afraid  <br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5467087)<br>我还没想好要写什么...<br>2018-05-31 18:18<br>赞(1) 踩(0) | <div>七八年前还是在电台里听到的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276249180)<br>我就是喜欢听歌的小女生呀...<br>2018-05-22 20:34<br>赞(0) 踩(0) | <div>你不准走进别人的心扉☺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120069462)<br><br>2018-04-28 23:08<br>赞(0) 踩(0) | <div>好听</div> |
@@ -92,9 +92,9 @@ But a little afraid  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203426523)<br><br>2018-01-18 00:32<br>赞(1) 踩(0) | <div>有些东西，可能真的改变不了...就像受不了低音炮轰炸、灯光晃眼的酒吧，二手烟弥漫的密闭空间，还有那个喜欢民谣流行风的自己...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102988448)<br>留下来陪你生活<br>2017-12-21 00:14<br>赞(2) 踩(0) | <div>焦安溥 陈老师 曹方 / 特别的存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15896236)<br><br>2017-11-27 05:02<br>赞(2) 踩(0) | <div>挺轻快的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329165)<br><br>2017-10-28 00:29<br>赞(3) 踩(0) | <div>穿越两千五百公里，从西双版纳到北京，有一个女孩在这里寻找自己的梦想。她轻盈的漫步而来，好像带来新鲜的氧气，显得那样干净而难得。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329165)<br><br>2017-10-28 00:29<br>赞(3) 踩(0) | <div>穿越两千五百公里，从西双版纳到北京，<br>有一个女孩在这里寻找自己的梦想。她轻盈的漫步而来，好像带来新鲜的氧气，显得那样干净而难得。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108661028)<br><br>2017-10-27 23:47<br>赞(1) 踩(0) | <div>#午安#每个人心里都有一扇门。曾经我以为只要把自己的钥匙交出来就能交换进入另一扇门的机会。事实证明，不是什么都能一物换一物。想让你进的门，根本就不会上锁。扒在门口拼命往里挤，心里百爪挠心，折腾久了，有点儿累。快放弃了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869291)<br><br>2017-10-27 23:14<br>赞(3) 踩(0) | <div>像害怕拥挤一直住在空的房间像孤独的人总是本能保护自己哦 抓不到的舍弃抓不到又怎么办怎么强词夺理</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869291)<br><br>2017-10-27 23:14<br>赞(3) 踩(0) | <div>像害怕拥挤一直住在空的房间<br>像孤独的人总是本能保护自己<br>哦 抓不到的舍弃<br>抓不到又怎么办<br>怎么强词夺理</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295375636)<br> <br>2017-10-24 23:45<br>赞(0) 踩(0) | <div>一听见就会想起当时抬头看见傍晚的蓝色天空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327438274)<br><br>2017-10-24 22:08<br>赞(0) 踩(0) | <div>好像是8年前听过一次～但是再也没有找到这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219630595)<br><br>2017-10-20 15:51<br>赞(0) 踩(0) | <div>曹方，真是让人难以忘记的歌手</div> |
@@ -131,7 +131,7 @@ But a little afraid  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53612950)<br>Beggar and l...<br>2015-08-09 16:50<br>赞(1) 踩(0) | <div>呀班长</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17612939)<br><br>2015-07-15 22:26<br>赞(0) 踩(0) | <div>安静的做一件事 说明我今天又成功了.今天你好 今天再见啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33248393)<br>(●ↀωↀ●)✧<br>2015-06-17 07:10<br>赞(0) 踩(0) | <div>呀呀呀我的小闺蜜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49276564)<br> <br>2015-06-05 17:58<br>赞(0) 踩(0) | <div>Yes I’ll be brave But a little afraid我想要潜入你那秘密的门我又怕太亮太暗太不自然把我们击毁我又怕你被迷惑走错了别人的心扉于是又各自关门回到了彼此的原位</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49276564)<br> <br>2015-06-05 17:58<br>赞(0) 踩(0) | <div>Yes I’ll be brave But a little afraid<br><br>我想要潜入你那秘密的门<br><br>我又怕太亮太暗太不自然把我们击毁<br><br>我又怕你被迷惑走错了别人的心扉<br><br>于是又各自关门回到了彼此的原位</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38788842)<br>腻了就换<br>2015-06-04 01:38<br>赞(0) 踩(0) | <div>我又怕你被迷惑走错了别人心扉，好难啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38788842)<br>腻了就换<br>2015-06-04 01:38<br>赞(0) 踩(0) | <div>我又怕你被迷惑走错了别人心扉，好难啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38788842)<br>腻了就换<br>2015-06-04 01:38<br>赞(0) 踩(0) | <div>我又怕你被迷惑走错了别人心扉，好难啊</div> |
@@ -165,7 +165,7 @@ But a little afraid  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14035746)<br>胸怀温热还在，情怀已经不...<br>2013-05-31 23:24<br>赞(0) 踩(0) | <div>每一扇门的后面都有一个世界,你是否愿意开启从此面对自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6351071)<br> <br>2013-05-22 00:28<br>赞(0) 踩(0) | <div>不盲目骄傲 不刻意渺小 不过分依赖。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11698558)<br><br>2013-05-06 21:35<br>赞(0) 踩(0) | <div>是否</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2578864)<br><br>2013-04-28 16:45<br>赞(0) 踩(0) | <div>Yes I&amp;#039;ll be braveBut a little afraid</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2578864)<br><br>2013-04-28 16:45<br>赞(0) 踩(0) | <div>Yes I&amp;#039;ll be brave<br>But a little afraid</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2578864)<br><br>2013-04-23 18:29<br>赞(0) 踩(0) | <div>哼一首歌 等日落</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10868357)<br><br>2013-04-07 22:27<br>赞(0) 踩(0) | <div>我需要一扇门，走出我画的圈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10366564)<br><br>2013-03-06 23:53<br>赞(0) 踩(0) | <div>晚安</div> |
@@ -175,8 +175,8 @@ But a little afraid  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2778002)<br><br>2012-11-22 10:54<br>赞(0) 踩(0) | <div>To myself,now.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2778002)<br><br>2012-11-22 10:53<br>赞(0) 踩(0) | <div>To myself , now.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2348810)<br><br>2012-11-10 19:12<br>赞(0) 踩(0) | <div>我想要打开你那紧闭的门  我又怕风声雨声嘈杂的人混乱你的心扉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869291)<br><br>2012-10-30 21:45<br>赞(0) 踩(0) | <div>像害怕拥挤一直住在空的房间像孤独的人总是本能保护自己哦 抓不到的舍弃</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869291)<br><br>2012-10-30 15:53<br>赞(0) 踩(0) | <div>像害怕拥挤一直住在空的房间像孤独的人总是本能保护自己哦 抓不到的舍弃</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869291)<br><br>2012-10-30 21:45<br>赞(0) 踩(0) | <div>像害怕拥挤一直住在空的房间<br>像孤独的人总是本能保护自己<br>哦 抓不到的舍弃</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869291)<br><br>2012-10-30 15:53<br>赞(0) 踩(0) | <div>像害怕拥挤一直住在空的房间<br>像孤独的人总是本能保护自己<br>哦 抓不到的舍弃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5567146)<br><br>2012-09-21 00:05<br>赞(0) 踩(0) | <div>Yes I’ll be brave But a little afraid</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4762009)<br><br>2012-09-20 18:38<br>赞(0) 踩(0) | <div>哼一首歌，发现已经日落了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9423914)<br><br>2012-09-06 21:07<br>赞(0) 踩(0) | <div>听到一首很好听的歌，很好听~~我很喜欢~~~淡淡的吉他配合这样的女生，适合这样的夜晚，一个人呆在一片寂静的工作区~</div> |
@@ -194,7 +194,7 @@ But a little afraid  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7190651)<br>听你的歌<br>2012-01-16 21:00<br>赞(0) 踩(0) | <div>抓不到的舍弃，抓不到的怎么办。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6947217)<br><br>2012-01-08 23:43<br>赞(0) 踩(0) | <div>好心情都是自己给的~最近心情都美美的~~~[美好] 哦~抓不到的舍弃~抓不到又怎么办~怎么强词夺理~yes~i'll be brave~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4276736)<br><br>2011-12-26 14:57<br>赞(0) 踩(0) | <div>哼一首歌 等日落</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3756291)<br><br>2011-12-21 15:50<br>赞(0) 踩(0) | <div>喜欢她音乐的干净,毫不矫揉的清澈.也喜欢她在《南澜掌》和《基诺山》描绘西双版纳美丽风情。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3756291)<br><br>2011-12-21 15:50<br>赞(0) 踩(0) | <div>喜欢她音乐的干净,毫不矫揉的清澈.<br>也喜欢她在《南澜掌》和《基诺山》描绘西双版纳美丽风情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6290003)<br><br>2011-12-05 22:10<br>赞(0) 踩(0) | <div>我想要潜入你那秘密的门 我又怕太亮太暗太不自然把我们击毁 于是又各自关门回到了彼此的原位</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6907208)<br><br>2011-11-22 13:36<br>赞(0) 踩(0) | <div>干净的嗓音，悠扬的旋律，简单的伴奏，空灵的意境，值得推荐~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6104537)<br><br>2011-11-09 22:14<br>赞(0) 踩(0) | <div>好舒服~曲写的超棒~</div> |
@@ -204,7 +204,7 @@ But a little afraid  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3931930)<br><br>2011-10-06 23:35<br>赞(0) 踩(0) | <div>有些是天生的吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4283093)<br> <br>2011-09-22 21:39<br>赞(0) 踩(0) | <div>每一扇门的后面都有一个世界、你是否愿意开启从此面对自己O(∩_∩)O~ 好听哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/789162)<br><br>2011-09-03 21:20<br>赞(0) 踩(0) | <div>清新，家乡的平静感。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4330712)<br>一颗坚定的菠萝头<br>2011-08-23 21:45<br>赞(0) 踩(0) | <div>我记得有一次把自己的签名改成了：哼一首歌 等日落 你问我了个啼笑皆非的问题...继张悬之后，我最喜欢的自由声线，我的学姐：曹方！喜欢哼一首歌，到天亮：）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4330712)<br>一颗坚定的菠萝头<br>2011-08-23 21:45<br>赞(0) 踩(0) | <div>我记得有一次把自己的签名改成了：哼一首歌 等日落 你问我了个啼笑皆非的问题...继张悬之后，我最喜欢的自由声线，我的学姐：曹方！<br>喜欢哼一首歌，到天亮：）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4398801)<br><br>2011-07-07 17:51<br>赞(0) 踩(0) | <div>独立、纯真、自我的80后才女歌手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4160302)<br> <br>2011-06-29 18:52<br>赞(0) 踩(0) | <div>符合这个时间的心境。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2240253)<br><br>2011-06-24 19:36<br>赞(0) 踩(0) | <div>刺猬。。。。。</div> |
@@ -220,7 +220,7 @@ But a little afraid  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/797562)<br><br>2011-03-28 10:41<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2999586)<br><br>2011-03-05 09:20<br>赞(0) 踩(0) | <div>这是一首淡淡的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1518062)<br>今日はちょっと 人生とい...<br>2011-02-21 11:29<br>赞(0) 踩(0) | <div>很不错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/489575)<br> <br>2011-02-07 09:39<br>赞(0) 踩(0) | <div>站在门口盼你来，趴在窗口盼你来，换过几个姿势。路过几个季节，我等你，而你以为我没有。——Icy</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/489575)<br> <br>2011-02-07 09:39<br>赞(0) 踩(0) | <div>站在门口盼你来，趴在窗口盼你来，换过几个姿势。路过几个季节，我等你，而你以为我没有。<br>——Icy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2634004)<br><br>2011-01-31 13:12<br>赞(0) 踩(0) | <div>我们都要打开紧闭的门</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178220)<br>暂无签名~<br>2011-01-19 16:20<br>赞(0) 踩(0) | <div>打开了...失望了...无法退回</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1862897)<br><br>2011-01-18 21:18<br>赞(0) 踩(0) | <div>我又怕你被迷惑走错了别人的心扉</div> |
@@ -231,7 +231,7 @@ But a little afraid  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685047)<br><br>2010-10-24 13:39<br>赞(0) 踩(0) | <div>喜欢曹方，她的声音和她的，表达的东西</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759162)<br>苏世独立 横而不流<br>2010-10-20 07:26<br>赞(0) 踩(0) | <div>我想要打开你紧闭的门，你愿意让我打开么？ 我不想开口只是因为 当我开了口，我们连朋友都做不成..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1512897)<br><br>2010-10-10 21:05<br>赞(0) 踩(0) | <div>打开那扇门或许只需要那么一点点的勇敢..</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615765)<br><br>2010-10-05 21:53<br>赞(0) 踩(0) | <div>曹方的歌总是如此。每多听一遍就更多爱深一些...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615765)<br><br>2010-10-05 21:53<br>赞(0) 踩(0) | <div>曹方的歌总是如此。<br>每多听一遍就更多爱深一些...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1513694)<br><br>2010-09-16 18:51<br>赞(0) 踩(0) | <div>曹方总是唱出自己的心声。孤单又执着。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/978124)<br>我想能不能不要这么坚强？<br>2010-09-15 12:01<br>赞(0) 踩(0) | <div>其实是喜欢他的歌词。每一扇门后面都有一个世界。让我想到某部3D电影……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1297340)<br><br>2010-08-25 16:55<br>赞(0) 踩(0) | <div>可以一遍又一遍听的歌。</div> |
@@ -249,11 +249,11 @@ But a little afraid  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213021)<br>愿无岁月可回头。<br>2010-02-02 17:17<br>赞(0) 踩(0) | <div>'曹方'</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198576)<br><br>2010-01-31 16:05<br>赞(0) 踩(0) | <div>歌词喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253185)<br><br>2010-01-08 22:29<br>赞(0) 踩(0) | <div>有趣的旋律，有趣的歌词。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/447565)<br>兴奋郁闷互转模式中<br>2009-12-21 14:08<br>赞(0) 踩(0) | <div>推荐歌曲：《门》首次尝试布鲁斯元素曲风，转变与惊喜之余，带给我们的却依然如信手拈来一样自然动听。曹方变身为灵魂的倾听者，安抚和鼓励着每一颗容易害怕，容易迷惑，容易脆弱的心。曹方 - 门每一扇门的后面都有一个世界你是否愿意开启从此面对自己我知道你会怀疑不想得到那么多像害怕拥挤一直住在空的房间像孤独的人总是本能保护自己哦 抓不到的舍弃抓不到又怎么办怎么强词夺理Yes I’ll be braveBut a little afraid我想要打开你那紧闭的门我又怕风声雨声嘈杂的人混乱你心扉Yes I’ll be braveBut a little afraid我想要潜入你那秘密的门我又怕太亮太暗太不自然把我们击毁我又怕你被迷惑走错了别人的心扉每一扇门的后面都有一个世界你是否愿意开启从此面对自己我知道你会怀疑并不想要那么多像害怕拥挤一直住在空的房间像孤独的人总是本能保护自己哦 抓不到的舍弃抓不到又怎么办怎么强词夺理Yes I’ll be braveBut a little afraid我想要打开你那紧闭的门我又怕风声雨声嘈杂的人混乱你心扉Yes I’ll be braveBut a little afraid我想要潜入你那秘密的门我又怕太亮太暗太不自然把我们击毁我又怕你被迷惑走错了别人的心扉你怎么能够不管我了Yes I’ll be braveBut a little afraid我想要打开你那紧闭的门我又怕风声雨声嘈杂的人混乱你心扉Yes I’ll be braveBut a little afraid我想要潜入你那秘密的门我又怕太亮太暗太不自然把我们击毁于是又各自关门回到了彼此的原位</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/447565)<br>兴奋郁闷互转模式中<br>2009-12-21 14:08<br>赞(0) 踩(0) | <div>推荐歌曲：《门》<br>首次尝试布鲁斯元素曲风，转变与惊喜之余，带给我们的却依然如信手拈来一样自然动听。<br>曹方变身为灵魂的倾听者，安抚和鼓励着每一颗容易害怕，容易迷惑，容易脆弱的心。<br><br><br>曹方 - 门<br>每一扇门的后面都有一个世界<br>你是否愿意开启从此面对自己<br>我知道你会怀疑<br>不想得到那么多<br><br>像害怕拥挤一直住在空的房间<br>像孤独的人总是本能保护自己<br>哦 抓不到的舍弃<br>抓不到又怎么办<br>怎么强词夺理<br><br>Yes I’ll be brave<br>But a little afraid<br>我想要打开你那紧闭的门<br>我又怕风声雨声嘈杂的人混乱你心扉<br>Yes I’ll be brave<br>But a little afraid<br>我想要潜入你那秘密的门<br>我又怕太亮太暗太不自然把我们击毁<br>我又怕你被迷惑走错了别人的心扉<br><br>每一扇门的后面都有一个世界<br>你是否愿意开启从此面对自己<br>我知道你会怀疑<br>并不想要那么多<br><br>像害怕拥挤一直住在空的房间<br>像孤独的人总是本能保护自己<br>哦 抓不到的舍弃<br>抓不到又怎么办<br>怎么强词夺理<br><br>Yes I’ll be brave<br>But a little afraid<br>我想要打开你那紧闭的门<br>我又怕风声雨声嘈杂的人混乱你心扉<br>Yes I’ll be brave<br>But a little afraid<br>我想要潜入你那秘密的门<br>我又怕太亮太暗太不自然把我们击毁<br>我又怕你被迷惑走错了别人的心扉<br><br>你怎么能够不管我了<br><br>Yes I’ll be brave<br>But a little afraid<br>我想要打开你那紧闭的门<br>我又怕风声雨声嘈杂的人混乱你心扉<br>Yes I’ll be brave<br>But a little afraid<br>我想要潜入你那秘密的门<br>我又怕太亮太暗太不自然把我们击毁<br>于是又各自关门回到了彼此的原位</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/559573)<br> <br>2009-12-18 12:07<br>赞(0) 踩(0) | <div>door,</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/535040)<br><br>2009-12-05 10:19<br>赞(0) 踩(0) | <div>给未来的另一半</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59509)<br><br>2009-11-30 19:41<br>赞(0) 踩(0) | <div>每一扇门的后面都有一个世界你是否愿意开启从此面对自己</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59509)<br><br>2009-11-30 19:41<br>赞(0) 踩(0) | <div>每一扇门的后面都有一个世界你是否愿意开启从此面对自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59509)<br><br>2009-11-30 19:41<br>赞(0) 踩(0) | <div>每一扇门的后面都有一个世界<br>你是否愿意开启从此面对自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59509)<br><br>2009-11-30 19:41<br>赞(0) 踩(0) | <div>每一扇门的后面都有一个世界<br>你是否愿意开启从此面对自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/540849)<br> <br>2009-11-29 01:53<br>赞(0) 踩(0) | <div>耳朵的听觉盛宴··</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59509)<br><br>2009-11-28 22:28<br>赞(0) 踩(0) | <div>轻轻地，柔柔的，温婉的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118383)<br><br>2009-11-27 20:26<br>赞(0) 踩(0) | <div>歌词</div> |

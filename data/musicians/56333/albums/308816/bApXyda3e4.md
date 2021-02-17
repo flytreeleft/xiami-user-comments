@@ -12,15 +12,12 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276479856)<br>@晚安虾米音乐/公众等你<br>2021-01-09 13:13<br>赞(2) 踩(0) | <div>我希望能在@晚安虾米音乐/公众 <img src="../../../../images/comments/e44d95099808df6f9a2b8f4961447063.png">号跟大家再次相见</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276479856)<br>@晚安虾米音乐/公众等你<br>2021-01-09 13:13<br>赞(2) 踩(0) | <div>我希望<br>能在@晚安虾米音乐/公众 <img src="../../../../images/comments/e44d95099808df6f9a2b8f4961447063.png">号<br>跟大家再次相见</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8557187)<br><br>2021-01-18 23:29<br>赞(0) 踩(0) | <div>舍不得你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49997302)<br><br>2021-01-05 11:52<br>赞(1) 踩(0) | <div>再见 米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/973721)<br><br>2020-08-02 06:50<br>赞(1) 踩(0) | <div>☮️☯️✡️</div> |
@@ -28,20 +25,20 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313662331)<br>余生很长，不必慌张<br>2020-05-23 18:35<br>赞(2) 踩(0) | <div>为什么有人惜爱如金？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189071354)<br>垃圾桶捡的<br>2020-02-20 23:11<br>赞(2) 踩(0) | <div>七年了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431868561)<br><br>2020-01-05 07:42<br>赞(2) 踩(0) | <div>再见再见！如果永远也不会再见！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430717320)<br>我恨贺伯阳<br>2019-10-20 18:43<br>赞(2) 踩(0) | <div>我太累了……多希望望水是分手的旅行…… 多希望望水是不分离的前奏…… 多希望望水可以写满后半生的故事……突然改变了全部的选择，另一方应该默默接受吧，没有像说的那样去爱你，因为，爱就那么多，怎么会留到你出现的时刻……愿你得偿你们的愿，里面没有我，才是最好的……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430717320)<br>我恨贺伯阳<br>2019-10-20 18:43<br>赞(2) 踩(0) | <div>我太累了……<br><br>多希望望水是分手的旅行…… 多希望望水是不分离的前奏…… 多希望望水可以写满后半生的故事……<br><br>突然改变了全部的选择，另一方应该默默接受吧，没有像说的那样去爱你，因为，爱就那么多，怎么会留到你出现的时刻……<br><br>愿你得偿你们的愿，里面没有我，才是最好的……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19009776)<br>我还没想好要写什么...<br>2019-10-09 18:01<br>赞(0) 踩(0) | <div>以前的朋友们，再见了。我总是想要保持的不变，在你们眼里也许变成了一种麻烦，我太念旧，对大家都是一种负担，该离开的时候好好说声再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411937791)<br><br>2019-04-03 00:11<br>赞(3) 踩(0) | <div>这茫茫的评论里，有一条是不是也是写给我的再见，而我这一条，又是写给谁的再见。再见，和再也不见，又有什么区别。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8403031)<br>网易：东海龙王四太子_<br>2019-03-25 06:41<br>赞(1) 踩(0) | <div>要幸福喔。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327899486)<br><br>2019-02-24 14:27<br>赞(1) 踩(0) | <div>好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11017913)<br>爵士呆瓜 WeiBo:是...<br>2019-01-29 04:33<br>赞(4) 踩(0) | <div>曾经有个人说爱是唯一能抵抗地心引力的东西可经历了一次下来我认为的爱是拼命伸手却怎么也抓不住的东西告诉自己是最后一次哭了 ​​​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11017913)<br>爵士呆瓜 WeiBo:是...<br>2019-01-29 04:33<br>赞(4) 踩(0) | <div>曾经有个人说<br>爱是唯一能抵抗地心引力的东西<br>可经历了一次下来<br>我认为的爱是<br>拼命伸手却怎么也抓不住的东西<br>告诉自己是最后一次哭了 ​​​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117532352)<br> hey<br>2019-01-24 21:24<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290078267)<br><br>2019-01-21 13:17<br>赞(1) 踩(0) | <div>再见，会再见的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284816385)<br>五月天&the vamp...<br>2019-01-18 22:46<br>赞(0) 踩(0) | <div>想要 钢琴谱啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5883287)<br><br>2019-01-07 11:00<br>赞(3) 踩(0) | <div>真正要离开的人是不会说再见的……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274895535)<br>人皆以美之为美斯恶矣<br>2019-01-07 05:59<br>赞(0) 踩(0) | <div>好起来吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406042051)<br><br>2018-11-24 07:55<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6621071)<br>Real is rare<br>2018-10-09 22:46<br>赞(2) 踩(0) | <div>记得那一年有很多个夜晚必须单曲循环这首歌才能入睡。Vivi说意外翻出一个相册叫 《我们在迷笛》，我永远记得那一天的音乐、啤酒和夜风，有最好的朋友还有她们各自爱着的人一起度过的那一天。可惜时间走得太快，回头看才发现我们都已经走散那么久了。我可能不会再去迷笛了，可能也不会特地再听逃跑了。过去的故事就都留在回忆里。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292615334)<br>我还没想好要写什么...<br>2018-02-23 09:32<br>赞(2) 踩(0) | <div>天要下雨☔️，娘要嫁人&amp;hellip;凑活喘气儿，日子还要继续&amp;hellip;岁数越大，觉得日子过的越快&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6621071)<br>Real is rare<br>2018-10-09 22:46<br>赞(2) 踩(0) | <div>记得那一年有很多个夜晚必须单曲循环这首歌才能入睡。<br><br>Vivi说意外翻出一个相册叫 《我们在迷笛》，我永远记得那一天的音乐、啤酒和夜风，有最好的朋友还有她们各自爱着的人一起度过的那一天。可惜时间走得太快，回头看才发现我们都已经走散那么久了。<br><br>我可能不会再去迷笛了，可能也不会特地再听逃跑了。过去的故事就都留在回忆里。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292615334)<br>我还没想好要写什么...<br>2018-02-23 09:32<br>赞(2) 踩(0) | <div>天要下雨☔️，娘要嫁人&amp;hellip;<br><br>凑活喘气儿，日子还要继续&amp;hellip;<br><br>岁数越大，觉得日子过的越快&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343755698)<br>生活有质量<br>2018-01-20 04:11<br>赞(1) 踩(0) | <div>幸福的家庭都是相似的。不幸的家庭各有各的不幸，喜欢旅行只是想让自己的心一直在路上，因为心无法靠岸。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334602286)<br>做人不要太较真，除了努力...<br>2018-01-16 01:57<br>赞(1) 踩(0) | <div>离开的已经与你无关，该来的总会来的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5521117)<br>be tender<br>2018-01-12 00:31<br>赞(0) 踩(0) | <div>再见再见</div> |
@@ -50,17 +47,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253264114)<br>世界很小，而我剛好發光。<br>2017-03-14 21:48<br>赞(2) 踩(0) | <div>人生若只如初见，爱过的，不悔。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126374424)<br><br>2017-03-09 22:15<br>赞(0) 踩(0) | <div>人生有太多的无法选择</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37414770)<br>dogwantstobe...<br>2017-01-25 03:03<br>赞(2) 踩(0) | <div>所以最后 我爱你 以陌生的方式</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37414770)<br>dogwantstobe...<br>2017-01-25 03:02<br>赞(1) 踩(0) | <div>对了有些东西不能仔细看因为会发现很多都本是我的东西其实不能这么说肯定句对吗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37414770)<br>dogwantstobe...<br>2017-01-25 03:01<br>赞(1) 踩(0) | <div>突然想起昨晚做的梦梦到他回来了梦到一切好像回光返照一般梦到陷入梦中的自己都会怀疑真否就让所有理智都埋没在阴道深处就让所有我们也消失在渴望的尽头吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37414770)<br>dogwantstobe...<br>2017-01-25 03:02<br>赞(1) 踩(0) | <div>对了<br>有些东西不能仔细看<br>因为会发现<br>很多都本是我的东西<br>其实不能这么说肯定句对吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37414770)<br>dogwantstobe...<br>2017-01-25 03:01<br>赞(1) 踩(0) | <div>突然想起昨晚做的梦<br>梦到他回来了<br>梦到一切好像回光返照一般<br>梦到陷入梦中的自己都会怀疑真否<br>就让所有理智都埋没在阴道深处<br>就让所有我们也消失在渴望的尽头吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9992264)<br>江湖夜雨十年灯<br>2016-12-25 23:31<br>赞(1) 踩(0) | <div>朋友，圣诞快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74999138)<br><br>2016-11-28 07:55<br>赞(0) 踩(0) | <div>大早，忽然很想你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1219446)<br>Intro<br>2016-11-16 02:02<br>赞(0) 踩(0) | <div>爱你Joe，我应该好好珍惜，与你明知不易又幸福的走下去</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37069356)<br>拥抱大树<br>2016-11-02 00:19<br>赞(2) 踩(0) | <div>听这歌并没有刻意想到谁只是发觉同一世界里真不多</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37069356)<br>拥抱大树<br>2016-11-02 00:19<br>赞(2) 踩(0) | <div>听这歌并没有刻意想到谁<br>只是发觉同一世界里真不多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222941706)<br><br>2016-10-20 12:23<br>赞(1) 踩(0) | <div>希望今晚不要再梦见你，醒来又是阵阵心酸失落</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234179898)<br>模特（品牌淘宝、杂志、画...<br>2016-10-07 03:22<br>赞(0) 踩(0) | <div>和你远航，便不再回头。你应该也是这样想的吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9156468)<br>我还没想好要写什么...<br>2016-09-07 16:50<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10339917)<br>职业流氓<br>2016-09-01 22:06<br>赞(0) 踩(0) | <div>Servus Basti！09/01/2016</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2016-08-12 01:41<br>赞(0) 踩(0) | <div>听这歌并没有刻意想到谁只是发觉真的有很多人无法在一个世界里我们曾相爱 想到就心酸的FU</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2016-08-12 01:41<br>赞(0) 踩(0) | <div>听这歌并没有刻意想到谁<br>只是发觉真的有很多人无法在一个世界里<br>我们曾相爱 想到就心酸的FU</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46704336)<br>自由呼吸。<br>2016-07-29 15:09<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30648359)<br>话唠B～<br>2016-06-22 19:46<br>赞(0) 踩(0) | <div>即使你也离我远去～我依然祝福你，再见了我的最爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4910016)<br> <br>2016-06-11 23:25<br>赞(0) 踩(0) | <div>突然就想学钢琴了…</div> |
@@ -97,7 +94,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24929895)<br>未能免俗<br>2015-07-27 00:09<br>赞(31) 踩(0) | <div>我爱你，以朋友的方式</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6759934)<br><br>2015-07-07 02:06<br>赞(0) 踩(0) | <div>早上起来下刀子我也得去剪个头，这烦恼丝没了或许能带走我的一些个儿烦恼...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2026206)<br>我彌留之際<br>2015-07-04 22:06<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32852910)<br>只要有书、电影还有音乐就...<br>2015-07-04 19:11<br>赞(2) 踩(0) | <div>我已用尽全身力气，依然不在一个世界里。所以再见再见再见，一万遍。每次听逃跑计划都特别想你啊郑心全=3=</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32852910)<br>只要有书、电影还有音乐就...<br>2015-07-04 19:11<br>赞(2) 踩(0) | <div>我已用尽全身力气，依然不在一个世界里。<br>所以再见再见再见，一万遍。<br>每次听逃跑计划都特别想你啊郑心全=3=</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8787722)<br><br>2015-07-01 17:52<br>赞(0) 踩(0) | <div>嗯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7840964)<br>哼！<br>2015-06-30 22:55<br>赞(0) 踩(0) | <div>算两个月来第一次听音乐，专注听，思绪自然生长。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38791989)<br> <br>2015-06-22 23:36<br>赞(0) 踩(0) | <div></div> |
@@ -229,7 +226,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3198270)<br>18年的首都机场 记忆里...<br>2011-10-20 15:45<br>赞(0) 踩(0) | <div>再见再见。一场有预谋的私奔。就我和你敢不敢。敢不敢！！！ 快走了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1328476)<br>-me too<br>2011-09-27 21:02<br>赞(0) 踩(0) | <div>说再见的时候其实你是想留下吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1761507)<br><br>2011-09-13 11:49<br>赞(0) 踩(0) | <div>非常适合单曲循环的一支钢琴曲，首尾连接十分自然，在不知觉的情况下已经循环了一遍。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5114743)<br><br>2011-09-01 18:08<br>赞(0) 踩(0) | <div>愿见这欢欣留在你的脸但觉这光彩没法掩你我再会今天我却纪念当天你说何日天边彩虹再现这首歌献给在家的朋友们，今天已经坐车到广州了！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5114743)<br><br>2011-09-01 18:08<br>赞(0) 踩(0) | <div>愿见这欢欣留在你的脸<br>但觉这光彩没法掩<br>你我再会今天<br>我却纪念当天<br>你说何日天边彩虹再现<br>这首歌献给在家的朋友们，今天已经坐车到广州了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5481467)<br><br>2011-08-19 10:45<br>赞(0) 踩(0) | <div>FOR GELEN</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70319)<br>我还没想好要写什么...<br>2011-08-03 13:46<br>赞(0) 踩(0) | <div>再见再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70319)<br>我还没想好要写什么...<br>2011-08-03 13:45<br>赞(0) 踩(0) | <div>再见再见</div> |
@@ -250,7 +247,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595662)<br>我还没想好要写什么...<br>2011-01-29 07:11<br>赞(0) 踩(0) | <div>好美丽的旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1294335)<br>这是个有个性的签名<br>2011-01-08 12:13<br>赞(0) 踩(0) | <div>曾经找了这首歌好久</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1695528)<br><br>2010-11-05 14:29<br>赞(0) 踩(0) | <div>很唯美的旋律</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446668)<br>我还没想好要写什么...<br>2010-08-30 16:22<br>赞(0) 踩(0) | <div>再见再见如果永远都不再见依然无法阻止忘记</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446668)<br>我还没想好要写什么...<br>2010-08-30 16:22<br>赞(0) 踩(0) | <div>再见再见<br>如果永远都不再见<br>依然无法阻止忘记</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93511)<br>暂无签名~<br>2009-03-26 23:22<br>赞(0) 踩(0) | <div>我要逃跑。逃离这里，让我魂牵梦萦却心被撕裂的地方。我爱你，你不爱我。他爱我，我不爱他。就算没人相信我，我还是坚持我的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12281)<br><br>2009-03-26 23:00<br>赞(1) 踩(0) | <div>睡了，大家晚安，听这首催眠吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12281)<br><br>2009-03-15 06:03<br>赞(0) 踩(0) | <div>当高潮响起，泪水就奔涌而出，可怜的水瓶座，难道，你内心里的悲伤永远也吐不尽么...</div> |

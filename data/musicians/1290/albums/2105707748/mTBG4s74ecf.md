@@ -37,8 +37,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250241031)<br>生死由命，富貴在天<br>2020-06-04 16:35<br>赞(0) 踩(0) | <div>就是牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2345710)<br>in live<br>2020-04-19 13:01<br>赞(4) 踩(0) | <div>左小玩trap？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7937926)<br>rock & fuck<br>2020-03-25 12:54<br>赞(0) 踩(0) | <div>鬼才左小</div> |

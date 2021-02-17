@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31028791)<br>网易和q也是神圣剑帝<br>2020-10-22 18:31<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31028791)<br>网易和q也是神圣剑帝<br>2018-10-14 02:14<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2786306)<br><br>2017-10-28 00:12<br>赞(1) 踩(0) | <div>CCTV10的#2012春節詩會#，主持人的背景音樂用的是賈鵬芳的《our house》，沉緩溫馨的弦音，馬上將人帶入綿綿靜思，平靜舒緩的樂曲溫厚延宕，恰似新年在家中感受到的平實溫暖，除舊新春，萬點煙火，其樂融融杯交錯。祝大家過年快樂！</div> |

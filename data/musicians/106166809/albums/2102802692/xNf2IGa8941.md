@@ -74,5 +74,3 @@ Ocean keeper tells them it will fade
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

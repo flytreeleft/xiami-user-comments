@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/42f89a33d5874a51ee826fedc7312d80.jpg)<br>陈焕明](https://i.xiami.com/mingzaimusic) | **播放数**: 6822703<br>**粉丝数**: 1890<br>**评论数**: 87<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 管弦乐 Orchestral<br> |
+| [![](../../images/musicians/42f89a33d5874a51ee826fedc7312d80.jpg)<br>陈焕明](https://i.xiami.com/mingzaimusic) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 管弦乐 Orchestral<br>**播放数**: 6822703<br>**粉丝数**: 1890<br>**评论数**: 87<br> |
 
 ## 档案
 
@@ -27,8 +27,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434152246)<br>聪明少一些大智慧多一些，...<br>2020-02-16 15:08<br>赞(0) 踩(0) | <div><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-02-15 14:57<br>赞(0) 踩(0) | <div>14726</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257542066)<br><br>2020-01-26 19:42<br>赞(2) 踩(0) | <div>在这浮躁的社会，欣赏您的音乐是一种享受。</div> |
@@ -56,8 +56,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1643164)<br>阳光淌过手心天空笑了笑！<br>2016-12-05 10:40<br>赞(0) 踩(0) | <div>喜欢~_~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10001073)<br>surprise me<br>2016-07-24 18:11<br>赞(0) 踩(0) | <div>喜欢，这淡淡的吉他弦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41484595)<br><br>2016-03-29 19:36<br>赞(1) 踩(0) | <div>沁人心脾</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9943562)<br>多数盗版碟在02年发行<br>2015-12-29 11:55<br>赞(1) 踩(0) | <div>主标题：陈焕明副标题：明仔图片：<a href="http://zjphoto.yinsha.com/file/201207/2012071116344261/4.jpg" target="_blank" rel="nofollow noreferrer noopener">http://zjphoto.yinsha.com/file/201207/2012071116344261/4.jpg</a> 但有LOGO。参考：<a href="http://www.behinders.com/profile/102335" target="_blank" rel="nofollow noreferrer noopener">http://www.behinders.com/profile/102335</a><a href="http://www.perfectmusic.cn/artist/1978200270.html" target="_blank" rel="nofollow noreferrer noopener">http://www.perfectmusic.cn/artist/1978200270.html</a></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6630660)<br>猜赢涂口红…<br>2015-12-29 12:06<br>赞(0) 踩(0) | <div><a href="http://szb.gdzjdaily.com.cn/zjwb/res/1/20120713/65581342167462484.jpg" target="_blank" rel="nofollow noreferrer noopener">http://szb.gdzjdaily.com.cn/zjwb/res/1/20120713/65581342167462484.jpg</a>陈焕明，广东著名吉他手、音乐制作人、湛江籍流行音乐人。陈焕明从初中开始便深深爱上了音乐，先后在湛江市歌舞团和广州湾夜总会工作过。1991年，为实现自己的音乐梦想，他离开了湛江，到江门、惠州、深圳、云南和福建等地方做乐手，2000年，陈焕明去到了广州，认识很多音乐圈的朋友，慢慢走上了音乐制作之路。至今为止，陈焕明参与了不少电影的吉他录音，其中有任达华主演的电影《守望者》中的吉他录音，《爱在屋檐下》、《柠檬树》等的音乐制作。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9943562)<br>多数盗版碟在02年发行<br>2015-12-29 11:55<br>赞(1) 踩(0) | <div>主标题：陈焕明<br>副标题：明仔<br><br>图片：<a href="http://zjphoto.yinsha.com/file/201207/2012071116344261/4.jpg" target="_blank" rel="nofollow noreferrer noopener">http://zjphoto.yinsha.com/file/201207/2012071116344261/4.jpg</a> 但有LOGO。<br>参考：<br><a href="http://www.behinders.com/profile/102335" target="_blank" rel="nofollow noreferrer noopener">http://www.behinders.com/profile/102335</a><br><a href="http://www.perfectmusic.cn/artist/1978200270.html" target="_blank" rel="nofollow noreferrer noopener">http://www.perfectmusic.cn/artist/1978200270.html</a></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6630660)<br>猜赢涂口红…<br>2015-12-29 12:06<br>赞(0) 踩(0) | <div><a href="http://szb.gdzjdaily.com.cn/zjwb/res/1/20120713/65581342167462484.jpg" target="_blank" rel="nofollow noreferrer noopener">http://szb.gdzjdaily.com.cn/zjwb/res/1/20120713/65581342167462484.jpg</a><br><br>陈焕明，广东著名吉他手、音乐制作人、湛江籍流行音乐人。陈焕明从初中开始便深深爱上了音乐，先后在湛江市歌舞团和广州湾夜总会工作过。<br><br>1991年，为实现自己的音乐梦想，他离开了湛江，到江门、惠州、深圳、云南和福建等地方做乐手，2000年，陈焕明去到了广州，认识很多音乐圈的朋友，慢慢走上了音乐制作之路。<br><br>至今为止，陈焕明参与了不少电影的吉他录音，其中有任达华主演的电影《守望者》中的吉他录音，《爱在屋檐下》、《柠檬树》等的音乐制作。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/534922)<br>愚蠢的人类<br>2015-12-15 15:17<br>赞(0) 踩(0) | <div>发现野生老大一只</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49710149)<br> <br>2015-08-08 19:30<br>赞(1) 踩(0) | <div>想知道明仔是谁。。喜欢。。 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9943562)<br>多数盗版碟在02年发行<br>2015-12-29 11:54<br>赞(0) 踩(0) | <div>陈焕明</div> |

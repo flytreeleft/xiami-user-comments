@@ -43,8 +43,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32067336)<br>◾️ 向无穷空间  做时...<br>2020-12-16 11:44<br>赞(1) 踩(0) | <div>我忽然不知道 我们为什么需要爱了？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32373009)<br>虾米，再会。<br>2020-04-15 22:19<br>赞(0) 踩(0) | <div>评论都是一两年前的，看来版权刚刚买</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45058527)<br>青春不在年华，而在心境。<br>2020-07-24 21:18<br>赞(0) 踩(0) | <div>现在是vip</div> |
@@ -84,7 +84,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12832915)<br>相见且欢娱<br>2014-01-31 00:12<br>赞(0) 踩(0) | <div>新年快乐~ 我所有的友淋们，就不一一艾特了~ =3=  祝大家万事顺遂，健康幸福~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/511260)<br>白天呼吸，晚上做梦。<br>2014-01-03 02:08<br>赞(0) 踩(0) | <div>我们一直走，会走到哪里。美好人生副歌怎么唱，听起来才动人有思想。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28426287)<br>苦不尽 甘常在<br>2013-12-26 03:43<br>赞(0) 踩(0) | <div>我们一直走，会走到哪里，也许我们永远都找不到答案。我们一直走，会停在哪里，也许我们永远都不会停下来，因为女孩太疯狂。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138665)<br><br>2013-12-13 00:58<br>赞(0) 踩(0) | <div>在 i love you, john的专辑里最喜欢的还是这首古早味的 美好人生。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138665)<br><br>2013-12-13 00:58<br>赞(0) 踩(0) | <div>在 i love you, john<br>的专辑里最喜欢的还是这首古早味的 美好人生。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4771141)<br>We are lost.<br>2013-11-13 05:35<br>赞(0) 踩(0) | <div>陈珊妮是个诗人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4876688)<br> <br>2013-10-28 04:44<br>赞(0) 踩(0) | <div>起床做一锅黑米粥吧～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7793978)<br>我还没想好要写什么...<br>2013-09-30 09:52<br>赞(0) 踩(0) | <div>我们一直走 会停在哪里</div> |
@@ -94,9 +94,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1152465)<br>2020<br>2013-08-24 19:50<br>赞(0) 踩(0) | <div>美好人生副歌怎么唱 听起来才动人有思想  美好人生副歌怎么唱 听起来才有我的模样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2360761)<br><br>2013-07-31 12:30<br>赞(0) 踩(0) | <div>美好人生副歌怎么唱/听起来才动人有思想/灵魂怜悯心底的悲伤/全是旧爱难忘/我们一直走/会走到哪里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17203547)<br>嗯哼<br>2013-07-20 23:14<br>赞(0) 踩(0) | <div>今天应该会睡的很爽逼==。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15267840)<br><br>2013-07-17 13:29<br>赞(0) 踩(0) | <div>我们一直走会走到哪里？也许我们永远都找不到答案。美好人生副歌怎么唱？听起来才动人有思想，灵魂怜悯心底的悲伤全是旧爱难忘。美好人生副歌怎么唱，听起来才有我摸样，时时刻刻将你放心上，愿你从此快乐健康。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15267840)<br><br>2013-07-17 13:29<br>赞(0) 踩(0) | <div>我们一直走会走到哪里？<br>也许我们永远都找不到答案。<br><br>美好人生副歌怎么唱？<br>听起来才动人有思想，<br>灵魂怜悯心底的悲伤全是旧爱难忘。<br><br>美好人生副歌怎么唱，<br>听起来才有我摸样，<br>时时刻刻将你放心上，<br>愿你从此快乐健康。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1108961)<br>你那一封信 时间是邮差_<br>2013-07-13 03:02<br>赞(0) 踩(0) | <div>人生只能一直走  所以有安全感  唯一的危机感是 死掉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6307202)<br><br>2013-07-09 20:08<br>赞(0) 踩(0) | <div>因为先天关节炎，她的双脚都换上了人工关节。她不只一次说她其实不会唱歌，所以花了好几年的时间寻找练习音域不广声音不厚的人要如何诠释歌才能好听，她认为音乐不是只有高音和耍花腔，而是长达一整张专辑的概念，要融合编曲和词曲才是音乐。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6307202)<br><br>2013-07-09 20:08<br>赞(0) 踩(0) | <div>因为先天关节炎，她的双脚都换上了人工关节。<br>她不只一次说她其实不会唱歌，所以花了好几年的时间寻找练习音域不广声音不厚的人要如何诠释歌才能好听，她认为音乐不是只有高音和耍花腔，而是长达一整张专辑的概念，要融合编曲和词曲才是音乐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16985480)<br><br>2013-07-08 17:21<br>赞(0) 踩(0) | <div>下班之前，一起来听一首好心情的 美好人生吧~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/704395)<br><br>2013-06-30 22:34<br>赞(0) 踩(0) | <div>睡得饱饱的，做完该做的事，然后溜达着去吃喜欢的火锅，点了木有吃过的虫草花和鹅膏菌，尝试成功！出来把身上的钱花得一分不剩，连最后四毛都历尽艰辛花出去啦，今天真好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4406901)<br><br>2013-06-27 09:22<br>赞(0) 踩(0) | <div>全政府就我一个的感觉棒极~~~</div> |
@@ -140,7 +140,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4053377)<br>暂无签名~<br>2012-09-18 21:05<br>赞(0) 踩(0) | <div>美好人生副歌怎么唱 听起来才有我的模样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2191315)<br><br>2012-08-21 06:47<br>赞(0) 踩(0) | <div>就把明天当deadline吧~今晚不睡了，NND~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/705401)<br><br>2012-08-03 22:42<br>赞(0) 踩(0) | <div>好爱陈珊妮小姐啊。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19308)<br>不明所以不以为然不甚了了<br>2012-07-25 14:10<br>赞(0) 踩(0) | <div>美好人生副歌怎么唱 听起来才有我的模样时时刻刻将你放心上 愿你从此快乐健康#听一首歌等云到#</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19308)<br>不明所以不以为然不甚了了<br>2012-07-25 14:10<br>赞(0) 踩(0) | <div>美好人生副歌怎么唱 听起来才有我的模样<br>时时刻刻将你放心上 愿你从此快乐健康<br>#听一首歌等云到#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3445267)<br><br>2012-07-12 15:55<br>赞(0) 踩(0) | <div>~~~~~~~~~~~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9757554)<br>我不相信连性取向都正常好<br>2012-07-11 11:14<br>赞(0) 踩(0) | <div>美好生活啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5073144)<br><br>2012-06-30 13:29<br>赞(0) 踩(0) | <div>你的美好人生，到底是什么样的？</div> |
@@ -223,7 +223,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4456684)<br><br>2011-06-27 04:25<br>赞(0) 踩(0) | <div>美好人生副歌怎麼唱聽起來才有我的模樣 ……珊妮不愧是珊妮！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2918826)<br><br>2011-06-26 03:15<br>赞(0) 踩(0) | <div>本来想去睡 不小心进了虾米 又不小心听了陈珊妮的新专辑 激动了 每一首都听来很舒服。。。。“美好人生副歌怎麼唱 聽起來才有我的模樣 時時刻刻將你放心上 願你從此快樂 健康 晚安”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375583)<br><br>2011-06-23 23:26<br>赞(0) 踩(0) | <div>我们一直走会停在哪里？也许我们永远都找不到答案，因为女孩太疯狂。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29)<br>耍中偶得<br>2011-06-22 14:41<br>赞(0) 踩(0) | <div>美好人生副歌怎麼唱 聽起來才有我的模樣時時刻刻將你放心上 願你從此快樂 健康</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29)<br>耍中偶得<br>2011-06-22 14:41<br>赞(0) 踩(0) | <div>美好人生副歌怎麼唱 聽起來才有我的模樣<br>時時刻刻將你放心上 願你從此快樂 健康</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16186)<br>我还没想好要写什么...<br>2011-06-22 11:09<br>赞(0) 踩(0) | <div>使人平静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1126700)<br>我还没想好要写什么...<br>2011-06-22 00:29<br>赞(0) 踩(0) | <div>这专辑不错。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1635879)<br> <br>2011-06-21 23:40<br>赞(0) 踩(0) | <div>陈珊妮  的  《美好人生》  以前只听她写的歌，晚上听她唱的歌，真是有个性的女人捏。。PS: @大北欧晨，这张唱片的封面好友你的fu~~哈哈哈。 大家快来一起听~</div> |
@@ -245,7 +245,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/881106)<br><br>2011-06-20 22:29<br>赞(0) 踩(0) | <div>NOWPLAYING</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3815757)<br> <br>2011-06-20 22:20<br>赞(0) 踩(0) | <div>“美好人生副歌怎麼唱，聽起來才有我的模樣 。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122875)<br><br>2011-06-20 17:31<br>赞(0) 踩(0) | <div>@人人都恨叶细细</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122875)<br><br>2011-06-20 17:23<br>赞(0) 踩(0) | <div>&amp;amp;quot;美好人生副歌怎么唱/听起来才动人有思想/灵魂怜悯心底的悲伤，全是旧爱难忘&amp;amp;quot;@人人都恨叶细细</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122875)<br><br>2011-06-20 17:23<br>赞(0) 踩(0) | <div>&amp;amp;quot;美好人生副歌怎么唱/听起来才动人有思想/灵魂怜悯心底的悲伤，全是旧爱难忘&amp;amp;quot;<br>@人人都恨叶细细</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3872236)<br><br>2011-06-20 10:25<br>赞(0) 踩(0) | <div>好听的旋律～好听的声音～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2190629)<br>喝不净醉人春酒<br>2011-06-20 09:34<br>赞(0) 踩(0) | <div>这首才是这张专辑的王道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302203)<br><br>2011-06-19 21:49<br>赞(0) 踩(0) | <div>美好人生副歌怎么唱，听起来才有我模样</div> |
@@ -263,8 +263,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3861810)<br><br>2011-06-18 13:17<br>赞(0) 踩(0) | <div>如果人生是一首歌~自己就是作词作曲人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1693895)<br><br>2011-06-18 00:22<br>赞(0) 踩(0) | <div>喜欢~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2807549)<br>重温钢炼燃死我了<br>2011-06-17 23:52<br>赞(0) 踩(0) | <div>hey john~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/856026)<br>♫ ☮ ♥<br>2011-06-17 22:25<br>赞(0) 踩(0) | <div>美好人生副歌怎麼唱 聽起來才有我的模樣時時刻刻將你放心上 願你從此快樂 健康</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2011-06-17 21:32<br>赞(0) 踩(0) | <div>6月17日   雨还沉浸在毕业的喜悦中，看着那天拍的照片，一个人傻笑。和同学们的合影中，有几张看着像是在恶搞，身在暴雨中，雨丝条很明显地隐现在照片中</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/856026)<br>♫ ☮ ♥<br>2011-06-17 22:25<br>赞(0) 踩(0) | <div>美好人生副歌怎麼唱 聽起來才有我的模樣<br>時時刻刻將你放心上 願你從此快樂 健康</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2011-06-17 21:32<br>赞(0) 踩(0) | <div>6月17日   雨<br>还沉浸在毕业的喜悦中，看着那天拍的照片，一个人傻笑。和同学们的合影中，有几张看着像是在恶搞，身在暴雨中，雨丝条很明显地隐现在照片中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3822379)<br><br>2011-06-17 20:08<br>赞(0) 踩(0) | <div>很美很忧伤！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3822379)<br><br>2011-06-17 20:06<br>赞(0) 踩(0) | <div>像你最爱的人在你耳边吟唱一样美好~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23395)<br><br>2011-06-17 18:35<br>赞(0) 踩(0) | <div>懶慵，愜意的調調。</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/39b0efdcff668ed8a31e42eb0636b7f7.jpg)<br>大能人](https://i.xiami.com/rey) | **播放数**: 7324968<br>**粉丝数**: 1597<br>**评论数**: 71<br>**地区**: China 中国大陆<br>**风格**: 南方说唱 Southern Hip Hop, 流行说唱 Pop Rap, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/39b0efdcff668ed8a31e42eb0636b7f7.jpg)<br>大能人](https://i.xiami.com/rey) | **地区**: China 中国大陆<br>**风格**: 南方说唱 Southern Hip Hop, 流行说唱 Pop Rap, 国语流行 Mandarin Pop<br>**播放数**: 7324968<br>**粉丝数**: 1597<br>**评论数**: 71<br> |
 
 ## 档案
 
@@ -45,8 +45,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177436310)<br>emo<br>2020-08-20 00:46<br>赞(0) 踩(0) | <div>新说唱拉胯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286775597)<br><br>2020-05-14 18:14<br>赞(0) 踩(0) | <div>很喜欢直率的人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277739481)<br><br>2020-01-02 13:21<br>赞(0) 踩(0) | <div>抄袭可耻</div> |

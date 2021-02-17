@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/756039f893b60beb836caec7ed81858e.jpg)<br>乐思言](https://i.xiami.com/lesiyan) | **播放数**: 6425954<br>**粉丝数**: 397<br>**评论数**: 15<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/756039f893b60beb836caec7ed81858e.jpg)<br>乐思言](https://i.xiami.com/lesiyan) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 6425954<br>**粉丝数**: 397<br>**评论数**: 15<br> |
 
 ## 档案
 
@@ -37,8 +37,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304274412)<br>Kevin Jiang<br>2020-11-05 21:17<br>赞(0) 踩(0) | <div>希望有新歌吧！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295251898)<br><br>2020-11-05 08:12<br>赞(0) 踩(0) | <div>重庆的？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311412493)<br>我还没想好要写什么...<br>2020-07-11 06:57<br>赞(0) 踩(0) | <div>太优秀了吧，开始听时无心，听着听着已入心.恍然发现自己以是曲中人。加油喔！</div> |

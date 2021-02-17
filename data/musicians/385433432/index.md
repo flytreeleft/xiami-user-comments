@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6a2e979731b21b23cdedca6c03cda152.jpg)<br>新能量音乐计划](https://i.xiami.com/xnlyyjh) | **播放数**: 7760876<br>**粉丝数**: 1515<br>**评论数**: 95<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/6a2e979731b21b23cdedca6c03cda152.jpg)<br>新能量音乐计划](https://i.xiami.com/xnlyyjh) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 7760876<br>**粉丝数**: 1515<br>**评论数**: 95<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355429600)<br><br>2018-04-09 19:36<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4182711)<br><br>2017-10-27 23:08<br>赞(0) 踩(0) | <div>聽了兩首百度平臺的，真是= =....希望有好歌，期待下尚雯婕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122688364)<br>生在愤坑，长在赤圈；挣脱<br>2016-06-18 23:13<br>赞(0) 踩(0) | <div>1281</div> |
@@ -57,7 +57,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27255930)<br><br>2013-12-02 13:12<br>赞(0) 踩(0) | <div>精挑细选后就剩品质了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/952469)<br><br>2013-12-01 22:17<br>赞(0) 踩(0) | <div>被混在里面的柳岩给震惊到了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/782586)<br><br>2013-12-01 20:16<br>赞(0) 踩(0) | <div>一起来还不错，香味也很带感。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13093602)<br>慢歌听多了会死<br>2013-12-01 19:05<br>赞(0) 踩(0) | <div>其实，内个啥。。。。。林岩，是谁？真的表拍我，我对某些类型的娱乐新闻不关注，我只听歌。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13093602)<br>慢歌听多了会死<br>2013-12-01 19:05<br>赞(0) 踩(0) | <div>其实，内个啥。。。。。林岩，是谁？<br>真的表拍我，我对某些类型的娱乐新闻不关注，我只听歌。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8512416)<br><br>2013-11-30 21:46<br>赞(0) 踩(0) | <div>柳岩。。。闹哪样</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/935171)<br>再见虾米<br>2013-11-30 21:32<br>赞(0) 踩(0) | <div>柳岩啊……也算是音乐的某种形态吧……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28735367)<br><br>2013-11-30 16:27<br>赞(0) 踩(0) | <div>柳岩？闹哪样？炮灰么？</div> |
@@ -87,7 +87,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7069954)<br>where<br>2013-11-19 13:50<br>赞(0) 踩(0) | <div>杨宗纬~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11927025)<br><br>2013-11-19 13:03<br>赞(0) 踩(0) | <div>尚雯婕~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3811616)<br>music lover<br>2013-11-19 10:33<br>赞(0) 踩(0) | <div>思密达，值得期待</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576000)<br>我还没想好要写什么...<br>2013-11-19 09:11<br>赞(0) 踩(0) | <div>谭维维-&amp;gt;谢安琪 +1赵传-&amp;gt;北野武 +1</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576000)<br>我还没想好要写什么...<br>2013-11-19 09:11<br>赞(0) 踩(0) | <div>谭维维-&amp;gt;谢安琪 +1<br>赵传-&amp;gt;北野武 +1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1085437)<br><br>2013-11-19 08:53<br>赞(0) 踩(0) | <div>赵传的照片乍一看，还以为是北野武呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3385618)<br>仔细看，阳光也会让皮肤变...<br>2013-11-19 08:47<br>赞(0) 踩(0) | <div>huang qi shan chou cry</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12008941)<br><br>2013-11-19 08:21<br>赞(0) 踩(0) | <div>把谭维维看成谢安琪了</div> |

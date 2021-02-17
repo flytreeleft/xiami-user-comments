@@ -43,8 +43,8 @@ hn...
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48635618)<br>敬天，爱地，聚福源。<br>2018-07-28 11:24<br>赞(1) 踩(0) | <div>只有在老家才能听到蝉鸣。山，依然好；人，憔悴了&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253483218)<br><br>2018-07-26 13:37<br>赞(0) 踩(0) | <div>08年考上大学那会儿，暑假，听这首歌，心内平静，夏天的味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42437463)<br><br>2018-06-03 14:03<br>赞(0) 踩(0) | <div>就算这首歌没填词照样喜欢</div> |
@@ -258,7 +258,7 @@ hn...
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15451669)<br> <br>2015-07-31 23:18<br>赞(2) 踩(0) | <div>晚安，夏天已是强弩之末，七月过的好快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1299880)<br><br>2015-07-31 09:25<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45024419)<br><br>2015-07-29 16:00<br>赞(2) 踩(0) | <div>这歌的开始部分是夏噪的蝉鸣,女人的轻声责骂 紧接着是萨克斯和吉他的伴奏 .. 可以听出很浓的夏天味道。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11052613)<br>阳光猛烈，万物显形。<br>2015-07-25 07:27<br>赞(3) 踩(0) | <div>在一个懒懒的午后，怀念一段从手指细缝中溜走的年华。在一个不眠的深夜，想念一个站在来路也是去路的人。在这样的日升月沉中，找一片可以心安理得的归处。我想，我们都是在等。(2008 10 19 By:Tomi)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11052613)<br>阳光猛烈，万物显形。<br>2015-07-25 07:27<br>赞(3) 踩(0) | <div>在一个懒懒的午后，<br>怀念一段从手指细缝中溜走的年华。<br>在一个不眠的深夜，<br>想念一个站在来路也是去路的人。<br>在这样的日升月沉中，<br>找一片可以心安理得的归处。<br><br>我想，<br>我们都是在等。<br><br>(2008 10 19 By:Tomi)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8668738)<br><br>2015-07-24 19:47<br>赞(0) 踩(0) | <div>好久没推歌了....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11803278)<br>我还没想好要写什么...<br>2015-07-22 13:24<br>赞(1) 踩(0) | <div>我习惯在这个大世界里搜索到那些我喜欢的会说话会生活的可爱的人儿们，靠近之后给他(她)们冠上小绰号，然后真心来往。在一些小记事里提到这些个小名字，是我认为很舒服的事情。是 一种海边小屋的碧净感。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11803278)<br>我还没想好要写什么...<br>2015-07-22 13:22<br>赞(1) 踩(0) | <div>我习惯在这个大世界里搜索到那些我喜欢的会说话会生活的可爱的人儿们，靠近之后给他(她)们冠上小绰号，然后真心来往。在一些小记事里提到这些个小名字，是我认为很舒服的事情。是 一种海边小屋的碧净。</div> |
@@ -337,7 +337,7 @@ hn...
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23104915)<br>沼泽<br>2014-12-07 20:38<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33858311)<br><br>2014-11-19 12:17<br>赞(118) 踩(0) | <div>推荐单又遇曹方，置身盛夏诺大树冠下的感觉，树荫清茶，悠悠躺椅，听着树叶簌簌声，周边小孩儿追逐嬉笑跳绳皮筋儿，读一本书，或者听一篇曲，酥酥麻麻悠悠然然的等着夕阳垂边，眼皮晒得暖暖的睡意。没有歌词的曲是情感更真实的宣泄，像没有压力的独处才是生活</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316361778)<br>没有人会飞,没有人会记得...<br>2017-12-02 20:56<br>赞(0) 踩(0) | <div>让人向往....</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18640914)<br>白茶清欢无别事，碧海金阳...<br>2014-11-09 01:16<br>赞(0) 踩(0) | <div>La vis vida le mu lateu vi yraA vise glou vraA visee glou viaLa vis ela a le mu te</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18640914)<br>白茶清欢无别事，碧海金阳...<br>2014-11-09 01:16<br>赞(0) 踩(0) | <div>La vis vida le mu lateu vi yra<br><br>A vise glou vra<br><br>A visee glou via<br><br>La vis ela a le mu te</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18640914)<br>白茶清欢无别事，碧海金阳...<br>2014-11-08 23:03<br>赞(0) 踩(0) | <div>听到吗，音乐也是有颜色的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30349700)<br>不要吃太胖哦~会被杀掉的<br>2014-11-04 11:58<br>赞(0) 踩(0) | <div>这是什么语啊？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43360290)<br><br>2015-05-15 03:07<br>赞(0) 踩(0) | <div>因为曹方作这首曲的时候一直在看法国片然后灵感来了随便哼的其实什么语也不是。。听着以为是法语罢了</div> |
@@ -376,7 +376,7 @@ hn...
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38591310)<br><br>2014-07-01 12:43<br>赞(0) 踩(0) | <div>听了好几年都不厌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34375746)<br><br>2014-06-18 18:11<br>赞(0) 踩(0) | <div>比天空还远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6247390)<br>一个没有音乐不能活的人<br>2014-06-18 10:05<br>赞(0) 踩(0) | <div>summer</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10767796)<br><br>2014-06-16 11:29<br>赞(0) 踩(0) | <div>Lun daLa vis gu do viaLeu to venes star les vraLuz star lie vrabue tooen me..hn...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10767796)<br><br>2014-06-16 11:29<br>赞(0) 踩(0) | <div>Lun da<br>La vis gu do via<br>Leu to venes star les vra<br>Luz star lie vra<br>bue too<br>en me..<br>hn...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35821568)<br>so divk<br>2014-06-15 01:32<br>赞(0) 踩(0) | <div>也不是西班牙语</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2098552)<br>老灵魂<br>2014-06-06 21:17<br>赞(0) 踩(0) | <div>@绿野小姐有梦想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5162641)<br> 单细胞的猴猴儿<br>2014-06-01 18:06<br>赞(0) 踩(0) | <div>silent summer</div> |
@@ -558,7 +558,7 @@ hn...
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11407623)<br><br>2013-05-08 16:01<br>赞(0) 踩(0) | <div>前两天@蓝侬不插电 跟我说他存在的回忆是2006年前的周杰伦 那 我的回忆应该就在初一那年暑假和王卉手拉手走在补课后去我家的路上 一起听的曹方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13610586)<br>哦哦，感伤的人儿····<br>2013-05-04 18:47<br>赞(0) 踩(0) | <div>喜欢平静的感觉，虽然不知道唱的什么，不过很好听啊，哇咔咔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5723091)<br><br>2013-04-30 07:41<br>赞(0) 踩(0) | <div>：）l&amp;#039;été dernier</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2147950)<br><br>2013-04-26 08:32<br>赞(0) 踩(0) | <div>法语么。。也赶这趟啊。。但是觉得这首旋律很棒的！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2147950)<br><br>2013-04-26 08:32<br>赞(0) 踩(0) | <div>法语么。。也赶这趟啊。。<br>但是觉得这首旋律很棒的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4203059)<br>我还没想好要写什么...<br>2013-04-23 22:50<br>赞(0) 踩(0) | <div>高考前的那些日子里，这首歌安慰了我很多。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6379009)<br><br>2013-04-22 00:44<br>赞(0) 踩(0) | <div>她的歌还算清新  可以尝尝别的  算是不错吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10652504)<br><br>2013-04-19 10:03<br>赞(0) 踩(0) | <div>感觉很好</div> |
@@ -778,7 +778,7 @@ hn...
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2104994)<br><br>2011-10-01 11:13<br>赞(0) 踩(0) | <div>甜的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279436)<br><br>2011-09-30 20:53<br>赞(0) 踩(0) | <div>可以下班了，这片区域忽然之间一下子一片死寂，关掉电脑和灯，对深夜道声晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3061577)<br><br>2011-09-30 20:13<br>赞(0) 踩(0) | <div>夏天的尾巴</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2848707)<br><br>2011-09-29 10:25<br>赞(0) 踩(0) | <div>La vis vida le mu lateu vi yraA vise glou vraA visee glou viaLa vis ela a le mu teu kie darA vise glou viaA vitue cloe vra</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2848707)<br><br>2011-09-29 10:25<br>赞(0) 踩(0) | <div>La vis vida le mu lateu vi yra<br>A vise glou vra<br>A visee glou via<br>La vis ela a le mu teu kie dar<br>A vise glou via<br>A vitue cloe vra</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1894164)<br><br>2011-09-20 15:52<br>赞(0) 踩(0) | <div>她的声音就是要在合适的天气听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2336256)<br><br>2011-09-19 10:47<br>赞(0) 踩(0) | <div>秋千上的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5842286)<br>世界上的每一次的相遇，都...<br>2011-09-16 11:15<br>赞(0) 踩(0) | <div>没什么特别的，就是喜欢呗！</div> |
@@ -872,7 +872,7 @@ hn...
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366413)<br>失语症<br>2011-04-14 17:09<br>赞(0) 踩(0) | <div>星幕的降临褪去了白昼的燥热，微风，虫鸣，夜，好眠。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366413)<br>失语症<br>2011-04-14 16:06<br>赞(0) 踩(0) | <div>星幕的降临褪去了白昼的燥热，微风，虫鸣，夜，好眠。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489120)<br>做最好的自己<br>2011-04-12 23:52<br>赞(0) 踩(0) | <div>溫暖的感覺，像是一個人在傾訴...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1745291)<br>何以解忧，唯有后摇。<br>2011-04-11 12:04<br>赞(0) 踩(0) | <div>浅唱低吟。夏天的风，还有你的气息。都深深的烙在我的心里。挥之不去的，是你眼里的落寞、</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1745291)<br>何以解忧，唯有后摇。<br>2011-04-11 12:04<br>赞(0) 踩(0) | <div>浅唱低吟。<br>夏天的风，还有你的气息。<br>都深深的烙在我的心里。<br>挥之不去的，是你眼里的落寞、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/650276)<br>stay strong<br>2011-04-10 02:02<br>赞(0) 踩(0) | <div>清新！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3301031)<br><br>2011-04-09 19:59<br>赞(0) 踩(0) | <div>喜欢这样的开头，有蝉鸣，热闹的场景</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/715057)<br><br>2011-04-09 13:05<br>赞(0) 踩(0) | <div>永远的班长~</div> |
@@ -929,7 +929,7 @@ hn...
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1065542)<br> <br>2010-08-30 18:51<br>赞(0) 踩(0) | <div>声音有点拖沓</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/859099)<br><br>2010-08-25 08:54<br>赞(0) 踩(0) | <div>倾听不一般的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23482)<br><br>2010-08-22 13:19<br>赞(0) 踩(0) | <div>思绪可以随着这歌声飘得很远...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199122)<br><br>2010-08-16 20:15<br>赞(0) 踩(0) | <div>让我怀念我的高三。那时候总是一个人听着这首歌，心想2010年我的夏天是什么样子的呢，2010的夏末我又会去哪里？如今梦中的假期就要结束，我的夏天是什么样子的自己还是不知道。这真的是我所期望的假期么？恐怕不是吧。有些低沉了……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199122)<br><br>2010-08-16 20:15<br>赞(0) 踩(0) | <div>让我怀念我的高三。那时候总是一个人听着这首歌，心想2010年我的夏天是什么样子的呢，2010的夏末我又会去哪里？<br>如今梦中的假期就要结束，我的夏天是什么样子的自己还是不知道。<br>这真的是我所期望的假期么？恐怕不是吧。<br>有些低沉了……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184939)<br><br>2010-08-20 08:59<br>赞(0) 踩(0) | <div>******</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/537863)<br> <br>2010-10-09 18:54<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/655582)<br><br>2010-08-14 12:25<br>赞(0) 踩(0) | <div>啊啊 虽然是Demo 没有歌词 但是大爱啊~~整个夏天都在听这首歌~</div> |
@@ -950,7 +950,7 @@ hn...
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1006550)<br>虾米再见 <br>2010-06-21 01:17<br>赞(0) 踩(0) | <div>最喜欢，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1037139)<br><br>2010-06-19 12:30<br>赞(0) 踩(0) | <div>清新</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1044784)<br><br>2010-06-19 09:31<br>赞(0) 踩(0) | <div>舒心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1044226)<br>一心一意是世上最温柔的力...<br>2010-06-19 01:46<br>赞(0) 踩(0) | <div>那样的懒散，让我的心垂的低低的，突然一点点的温暖，呵。像一束阳光照进了我的心里。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1044226)<br>一心一意是世上最温柔的力...<br>2010-06-19 01:46<br>赞(0) 踩(0) | <div>那样的懒散，让我的心垂的低低的，<br><br>突然一点点的温暖，呵。<br><br>像一束阳光照进了我的心里。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306307)<br>江湖再见了 虾油们 <br>2010-06-15 02:00<br>赞(0) 踩(0) | <div>夾雜著那不斷重複的幾句法語的夏末</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1008774)<br> <br>2010-06-14 23:51<br>赞(0) 踩(0) | <div>乐如歌名 拥有夏末的味道 与萨克斯的回味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337101)<br><br>2010-06-13 22:15<br>赞(0) 踩(0) | <div>喜欢她慵懒美妙的声音。喜欢她实力派的创作，她，不属于商业的音乐界</div> |
@@ -973,8 +973,8 @@ hn...
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/931110)<br><br>2010-05-27 18:07<br>赞(0) 踩(0) | <div>宁静，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269414)<br><br>2010-05-27 14:54<br>赞(0) 踩(0) | <div>很早的歌 现在听依旧很有感觉 比天空还远。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/756068)<br><br>2010-05-25 22:47<br>赞(0) 踩(0) | <div>吉他 超爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/492527)<br><br>2010-05-22 01:07<br>赞(0) 踩(0) | <div>现在的自己，将近一周靠着全麦面包，酸奶与苹果度日。安静地如消失了一样。下午你说我卷发后便成了安妮宝贝描写的那样海藻般的长发。而我只是笑，念起高中时迷恋的文字。温暖坚韧。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/889931)<br><br>2010-05-17 14:49<br>赞(0) 踩(0) | <div>喜欢曹方的歌不多，最喜欢的是这首《夏末的萨克斯手》，歌曲里她的声音象低声叙说的往事，那些美好的而没有遗憾的，让人感觉很舒服。这个时候心情就像在仲夏夜乘凉，夏虫低吟，有晚风吹过，清凉而惬意。曹方的音乐是适合在一个人时候或者心潮涌动时候听的。前者会让人对生活有更多思考，后者会让心平静安宁。她的每一首歌都像是一篇日记，一部小说，淡淡地唱，静静地听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/492527)<br><br>2010-05-22 01:07<br>赞(0) 踩(0) | <div>现在的自己，将近一周靠着全麦面包，酸奶与苹果度日。<br>安静地如消失了一样。<br>下午你说我卷发后便成了安妮宝贝描写的那样海藻般的长发。而我只是笑，念起高中时迷恋的文字。温暖坚韧。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/889931)<br><br>2010-05-17 14:49<br>赞(0) 踩(0) | <div>喜欢曹方的歌不多，最喜欢的是这首《夏末的萨克斯手》，歌曲里她的声音象低声叙说的往事，那些美好的而没有遗憾的，让人感觉很舒服。这个时候心情就像在仲夏夜乘凉，夏虫低吟，有晚风吹过，清凉而惬意。<br>曹方的音乐是适合在一个人时候或者心潮涌动时候听的。前者会让人对生活有更多思考，后者会让心平静安宁。她的每一首歌都像是一篇日记，一部小说，淡淡地唱，静静地听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/823511)<br>暂无签名~<br>2010-04-25 21:07<br>赞(0) 踩(0) | <div>喜欢一开始的一点点嘈杂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/700111)<br><br>2010-03-17 10:30<br>赞(0) 踩(0) | <div>我喜欢那段夏天的蝉鸣~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47743)<br><br>2010-03-06 15:23<br>赞(0) 踩(0) | <div>好听~</div> |

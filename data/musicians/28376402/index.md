@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4f75c2047eb045d6471693402d7249f6.jpg)<br>徐梦圆](https://i.xiami.com/xmy) | **播放数**: 15432797<br>**粉丝数**: 21125<br>**评论数**: 518<br>**地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 国语流行 Mandarin Pop, 日本动漫游戏 Japanese ACG<br> |
+| [![](../../images/musicians/4f75c2047eb045d6471693402d7249f6.jpg)<br>徐梦圆](https://i.xiami.com/xmy) | **地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 国语流行 Mandarin Pop, 日本动漫游戏 Japanese ACG<br>**播放数**: 15432797<br>**粉丝数**: 21125<br>**评论数**: 518<br> |
 
 ## 档案
 
@@ -76,19 +76,19 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-22 04:39<br>赞(0) 踩(0) | <div>19048</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251988)<br><br>2020-12-17 16:42<br>赞(0) 踩(0) | <div>这都没版权，我看虾米是药丸了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796166)<br>最爱莫文蔚.....<br>2020-06-22 02:12<br>赞(1) 踩(0) | <div>加油~~~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429732797)<br>*面对懒惰的你充满了决心<br>2020-06-13 18:29<br>赞(4) 踩(0) | <div>抄了7odu的歌不少旋律都没变哦(&amp;acute;-&amp;omega;-`)服了</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442329230)<br>我还没想好要写什么...<br>2020-11-02 21:25<br>赞(0) 踩(0) | <div>我笑了没学过法律还是咋？抄袭在曲谱相似70％以上才算抄袭</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409298409)<br>C4D渲染师 bigro...<br>2020-06-03 19:19<br>赞(2) 踩(0) | <div>咱别说圆哥抄袭，这在英语上叫copy，在语文上叫借鉴，生物学上叫克隆所以你想多了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429732797)<br>*面对懒惰的你充满了决心<br>2020-06-13 18:29<br>赞(4) 踩(0) | <div>抄了7odu的歌不少<br>旋律都没变哦(&amp;acute;-&amp;omega;-`)服了</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442329230)<br>我还没想好要写什么...<br>2020-11-02 21:25<br>赞(0) 踩(0) | <div>我笑了<br>没学过法律还是咋？<br>抄袭在曲谱相似70％以上才算抄袭</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409298409)<br>C4D渲染师 bigro...<br>2020-06-03 19:19<br>赞(2) 踩(0) | <div>咱别说圆哥抄袭，这在英语上叫copy，在语文上叫借鉴，生物学上叫克隆<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>所以你想多了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61834250)<br><br>2020-05-10 01:02<br>赞(1) 踩(0) | <div>抄袭鬼才</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311954558)<br>交个朋友呗❤<br>2020-05-03 13:36<br>赞(0) 踩(0) | <div>古风里参电音，不喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354342987)<br>我想和你一起看B-612...<br>2020-03-14 14:06<br>赞(2) 踩(0) | <div>撞曲就撞曲吧&amp;hellip;&amp;hellip;但是你这个商化也太严重了吧 <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png">根本不是两年前的圆哥了&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306361985)<br>喧嚣不难 难的是保持沉默<br>2020-03-08 01:34<br>赞(3) 踩(0) | <div>早上我还在佩服他呢，评论区来转转，震惊啊。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434989387)<br><br>2020-02-25 10:01<br>赞(2) 踩(0) | <div>是很喜欢。之前是在楚乔传的花絮里听到你的音乐。古风的感觉也很纯粹，也小清新。但是最重要的是加入了活泼的曲调。感觉把古风乐器带出一个新台阶。听了很久一直没腻味。现在用于看书用。一听就很喜悦。不吵也不俗气。特别棒棒哒</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434989387)<br><br>2020-02-25 10:01<br>赞(2) 踩(0) | <div>是很喜欢。之前是在楚乔传的花絮里听到你的音乐。古风的感觉也很纯粹，也小清新。但是最重要的是加入了活泼的曲调。感觉把古风乐器带出一个新台阶。听了很久一直没腻味。现在用于看书用。一听就很喜悦。不吵也不俗气。<br>特别棒棒哒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2433939)<br>我还没想好要写什么...<br>2020-02-20 06:28<br>赞(3) 踩(0) | <div>抄袭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38579613)<br><br>2020-01-14 08:39<br>赞(3) 踩(0) | <div>就算是抄，人家也抄出了特色啊！他能物尽其用，你行你上啊。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189489072)<br>始于1248的梦 <br>2020-05-05 08:30<br>赞(0) 踩(0) | <div>流批 抄袭还抄得理直气壮</div> |
@@ -107,7 +107,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45925586)<br><br>2019-07-30 15:15<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404026779)<br><br>2019-07-04 22:48<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255050849)<br>挚爱HP/我的世界，为H...<br>2019-06-08 15:06<br>赞(0) 踩(0) | <div>梦圆大大牛逼逼</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205516505)<br><br>2019-06-07 10:49<br>赞(2) 踩(0) | <div>新作《China-G》最爱的风格未来贝斯+中国风6月6隔壁云首发6.21全网上线（托腮）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205516505)<br><br>2019-06-07 10:49<br>赞(2) 踩(0) | <div>新作《China-G》<br>最爱的风格未来贝斯+中国风<br>6月6隔壁云首发<br>6.21全网上线<br>（托腮）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369631839)<br>我还没想好要写什么...<br>2019-05-24 19:11<br>赞(0) 踩(0) | <div>图片集怎么没有一张相片</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373048447)<br><br>2019-05-14 22:09<br>赞(0) 踩(0) | <div>我喜欢你的每一首歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347665895)<br><br>2019-05-11 08:39<br>赞(0) 踩(0) | <div>多放几首歌上来呗</div> |
@@ -127,7 +127,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361037631)<br><br>2019-03-24 14:35<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5754855)<br> <br>2019-03-14 21:39<br>赞(1) 踩(0) | <div>几乎把所有作品都听了一遍，得出一个结论：大徐出品，必属精品！梦圆出手，必能圆梦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401541389)<br>专注听歌<br>2019-03-12 22:19<br>赞(0) 踩(0) | <div>只为在虾米多看你两眼</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233517630)<br>新兰诶！！<br>2019-03-10 16:00<br>赞(0) 踩(0) | <div>我的天！！！梦圆和我生日同一天！！( ͡° ͜ʖ ͡°)•ॢ！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233517630)<br>新兰诶！！<br>2019-03-10 16:00<br>赞(0) 踩(0) | <div>我的天！！！梦圆和我生日同一天！！<br>( ͡° ͜ʖ ͡°)•ॢ！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268178465)<br>hello world<br>2019-08-02 09:37<br>赞(0) 踩(0) | <div>哇我好羡慕恭喜你啊 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416287764)<br>天下第一可爱<br>2019-03-10 12:51<br>赞(1) 踩(0) | <div>中国电音第一人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361839699)<br>淋漓尽致见怪不怪美不胜收...<br>2019-02-14 12:56<br>赞(3) 踩(0) | <div>圆哥啊，作为海外留学狗，我们在国外可以用的国产音乐软件就只有虾米了，能在虾米上多投一些歌吗，好多china系列的歌都听不到啊…………朋友们顶我上去让圆哥看到好吗，拜托拜托</div> |
@@ -149,7 +149,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377166800)<br>I want to br...<br>2019-03-01 22:10<br>赞(0) 踩(0) | <div>橡胶锤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48372333)<br>q   14397168...<br>2018-12-01 20:31<br>赞(1) 踩(0) | <div>欢迎大家收藏精选集虾米歌单 | 徐梦圆作品（部分） <a href="https://www.xiami.com/collect/265225764" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/collect/265225764</a> (分享自@虾米音乐)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48372333)<br>q   14397168...<br>2018-12-01 20:29<br>赞(6) 踩(0) | <div>说是抄袭，实际上很多调调如果你听起来相似是不能判为抄袭的，唯一判断抄袭只能靠扒谱。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268178465)<br>hello world<br>2019-01-05 23:51<br>赞(0) 踩(0) | <div>也是但那个talk me hand被阿徐 参考 了即为china</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268178465)<br>hello world<br>2019-01-05 23:51<br>赞(0) 踩(0) | <div>也是<br>但那个talk me hand<br>被阿徐 参考 了<br>即为china</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348562452)<br>WHO TOUCHED ...<br>2018-11-29 19:56<br>赞(30) 踩(0) | <div>可真是个撞曲小天才呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265509081)<br>风就该自由，要什么归宿<br>2018-11-24 16:40<br>赞(1) 踩(0) | <div>哇塞塞，不经意间听到的《China》系列，然后又听了梦圆大大跟双笙小姐姐合唱的几首歌，彻底入了电音的坑</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407945124)<br><br>2018-11-26 17:05<br>赞(0) 踩(0) | <div>别这么说，我在电音的坑里越爬                                                                                                      越深了</div> |
@@ -185,7 +185,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196977)<br>我的心里有一扇门，开门的<br>2018-09-13 10:18<br>赞(0) 踩(0) | <div>没想到是师弟，同一所学校毕业哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34575899)<br>(｡•̀ᴗ-)✧<br>2018-09-08 14:36<br>赞(16) 踩(0) | <div>虾米不考虑买齐china系列嘛~~~哭唧唧~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379971437)<br><br>2018-09-08 13:03<br>赞(0) 踩(0) | <div>支持你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346581622)<br>喜欢听电音，不要怪我。<br>2018-09-04 19:12<br>赞(3) 踩(0) | <div>徐梦圆就是把古风元素和电音琴一起组合起来。像他这种古风电音的话再配上人唱，神作。肯定好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346581622)<br>喜欢听电音，不要怪我。<br>2018-09-04 19:12<br>赞(3) 踩(0) | <div>徐梦圆就是把古风元素和电音琴一起组合起来。<br>像他这种古风电音的话再配上人唱，神作。<br>肯定好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4400366)<br>再也不见<br>2018-08-27 23:56<br>赞(0) 踩(0) | <div>囍</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327700199)<br>永loveV家，TS<br>2018-08-25 18:49<br>赞(4) 踩(0) | <div>我一直以为徐梦圆是女的。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401559057)<br>我的世界万岁，抄袭我大M...<br>2018-08-20 17:07<br>赞(1) 踩(0) | <div>大徐最棒了^o^中国电音之王</div> |
@@ -235,7 +235,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187659917)<br><br>2018-01-08 13:51<br>赞(2) 踩(0) | <div>不输国外 小哥哥超级棒啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335394753)<br><br>2017-12-19 09:21<br>赞(1) 踩(0) | <div>圆哥上传点歌呗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48909893)<br>黑暗<br>2017-12-06 14:07<br>赞(0) 踩(0) | <div>圆哥不上传歌曲，咱也没办法上传</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44565735)<br>人生是一方通行<br>2017-11-28 22:26<br>赞(57) 踩(0) | <div>一个死循环在云村传作品得到的回应多 来虾米传发现听的人很少 于是越来越注重网易云那边的运营 然后虾米这边越来越冷清 最后音乐人转战wwy弃虾米 (&amp;deg;̥̥̥̥̥̥̥̥&amp;omega;&amp;deg;̥̥̥̥̥̥̥̥ԅ)或者有的根本就不入驻虾米音乐人!心痛2017...怕是要一直心痛到2117...哭</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44565735)<br>人生是一方通行<br>2017-11-28 22:26<br>赞(57) 踩(0) | <div>一个死循环<br>在云村传作品得到的回应多 来虾米传发现听的人很少 于是越来越注重网易云那边的运营 然后虾米这边越来越冷清 最后音乐人转战wwy弃虾米 (&amp;deg;̥̥̥̥̥̥̥̥&amp;omega;&amp;deg;̥̥̥̥̥̥̥̥ԅ)<br>或者有的根本就不入驻虾米音乐人!<br>心痛2017...怕是要一直心痛到2117...哭</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2085965)<br>lost  memory...<br>2017-12-10 18:19<br>赞(0) 踩(0) | <div>然而虾米推多了又会有人BB，真是没办法</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184660159)<br>～～世人皆佛～～<br>2017-11-26 21:50<br>赞(11) 踩(0) | <div>小子！为中国争口气！搞点你认为好的音乐出来！最好是轻电音哦！加油！加油！加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31709801)<br>还活着，真的是太好了.....<br>2017-11-26 17:33<br>赞(0) 踩(0) | <div>没办法，虾米音乐人的曲子只能由本人上传，圆哥不来虾米也没办法。</div> |
@@ -257,8 +257,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12221090)<br>逍遥于天地而心意自得<br>2017-10-10 01:23<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300515607)<br>❤️❤️❤️<br>2017-10-04 15:32<br>赞(2) 踩(0) | <div>超级喜欢这种将中国文化融入音乐的音乐人，第一次听到徐梦圆的歌是China-X，当时感觉超级好听，现在也超爱啊。我敬佩文化的传播者</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300515607)<br>❤️❤️❤️<br>2017-10-03 10:59<br>赞(0) 踩(0) | <div>超级喜欢China-X</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260455902)<br>My QQnumer：3...<br>2017-09-30 18:33<br>赞(3) 踩(0) | <div>求各位虾米listen友不要问圆哥是不是女的了，圆哥就是一个堂堂正正的男子汉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260455902)<br>My QQnumer：3...<br>2017-09-30 18:31<br>赞(0) 踩(0) | <div>QQ为3259682136的我想听Chana-X打王者更加有劲儿了I Live in ZheJiang最后说一句话我爱你，圆哥 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260455902)<br>My QQnumer：3...<br>2017-09-30 18:33<br>赞(3) 踩(0) | <div>求各位虾米listen友<br>不要问圆哥是不是女的了，圆哥就是一个堂堂正正的男子汉</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260455902)<br>My QQnumer：3...<br>2017-09-30 18:31<br>赞(0) 踩(0) | <div>QQ为3259682136的我想听Chana-X<br>打王者更加有劲儿了<br>I Live in ZheJiang<br>最后说一句话<br>我爱你，圆哥 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31709801)<br>还活着，真的是太好了.....<br>2017-09-21 23:44<br>赞(0) 踩(0) | <div>哎，对哦，话说圆哥你是不是瞧不起我们大虾米用户啊？我们不肯花钱听你的音乐？我们愿意花钱下载啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34708545)<br>逛够了世界跌进了春风<br>2017-09-20 22:26<br>赞(0) 踩(0) | <div>china系列最喜欢china-p这首歌了，可惜冇的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325351260)<br><br>2017-09-17 16:28<br>赞(1) 踩(0) | <div>网易大军路过＋1</div> |
@@ -317,7 +317,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195720275)<br> <br>2018-11-28 13:27<br>赞(0) 踩(0) | <div>徐裁缝</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329803785)<br>冬日暖阳都无法融化的苹果...<br>2018-12-08 18:06<br>赞(0) 踩(0) | <div>嗯嗯，我也是。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309834323)<br>无<br>2017-07-24 21:46<br>赞(0) 踩(0) | <div>可惜呀，只能上某云了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31777842)<br>生活打我，我打生活。<br>2017-07-21 23:42<br>赞(2) 踩(0) | <div>China系没有上线&amp;hellip;好喜欢这一专</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31777842)<br>生活打我，我打生活。<br>2017-07-21 23:42<br>赞(2) 踩(0) | <div>China系没有上线&amp;hellip;<br>好喜欢这一专</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311657085)<br>这，好难<br>2017-07-19 21:43<br>赞(0) 踩(0) | <div><img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247406539)<br><br>2017-07-18 22:47<br>赞(0) 踩(0) | <div>网易大军空降</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261748551)<br><br>2017-07-18 15:12<br>赞(0) 踩(0) | <div>中国电音最吊</div> |
@@ -360,7 +360,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7797443)<br>/ /<br>2017-05-05 09:04<br>赞(0) 踩(0) | <div>哎哎，心酸</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201187278)<br>一路狂奔 至死方休<br>2017-05-04 21:01<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280947848)<br><br>2017-05-04 08:10<br>赞(0) 踩(0) | <div>背景音很好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44565735)<br>人生是一方通行<br>2017-05-04 01:31<br>赞(3) 踩(0) | <div>既然圆哥发新歌了那我弱弱的提一个请求?我想在虾米听PDD和CHINA!!!当然全部的歌更好啦哈哈哈(ˊo̶̶̷ᴗo̶̶̷`)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44565735)<br>人生是一方通行<br>2017-05-04 01:31<br>赞(3) 踩(0) | <div>既然圆哥发新歌了那我弱弱的提一个请求?<br>我想在虾米听PDD和CHINA!!!<br>当然全部的歌更好啦哈哈哈<br>(ˊo̶̶̷ᴗo̶̶̷`)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187659917)<br><br>2017-04-27 11:58<br>赞(0) 踩(0) | <div>这里没有china-x 等等吗。。。啊。。又要多下载另一个音乐软件了。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291883060)<br>于你于我是何等的悲凉<br>2017-05-26 08:21<br>赞(0) 踩(0) | <div>为了听到更多，多下一个又何妨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238452566)<br><br>2017-04-23 15:29<br>赞(0) 踩(0) | <div><img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |

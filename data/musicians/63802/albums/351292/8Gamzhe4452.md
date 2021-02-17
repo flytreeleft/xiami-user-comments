@@ -63,8 +63,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195220506)<br><br>2020-10-09 01:54<br>赞(0) 踩(0) | <div>说这首歌好听的已经不是听者是歌迷吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12050814)<br><br>2020-06-30 19:45<br>赞(4) 踩(0) | <div>比周杰伦唱的好多了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338367001)<br><br>2020-06-21 12:28<br>赞(1) 踩(0) | <div>吐字太清楚不好听的，要像原唱那样读书样</div> |
@@ -77,7 +77,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9287926)<br>音乐是灵魂的完美表现<br>2014-01-08 11:51<br>赞(1) 踩(0) | <div>推荐施昊的《稻香》，我看了多遍这部小说，美好。可唯这首歌，好多词都是本书上摘的呢！赞一个！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11902088)<br><br>2013-10-31 13:01<br>赞(1) 踩(0) | <div>我在家乡看着流浪的书，却在异乡听着想家的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16028135)<br><br>2013-10-20 10:55<br>赞(1) 踩(0) | <div>让自己快乐快乐这才是意义</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11632279)<br><br>2013-04-18 12:16<br>赞(1) 踩(0) | <div>还记得你说家是唯一的城堡随着稻香河流继续奔跑微微笑 小时候的梦我知道不要哭让萤火虫带著你逃跑不要这么容易就想放弃 就像我说的追不到的梦想 换个梦不就得了为自己的人生鲜艳上色先把爱涂上喜欢的颜色笑一个吧 功成名就不是目的让自己快乐快乐这才叫做意义</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11632279)<br><br>2013-04-18 12:16<br>赞(1) 踩(0) | <div>还记得你说家是唯一的城堡<br>随着稻香河流继续奔跑<br>微微笑 小时候的梦我知道<br>不要哭让萤火虫带著你逃跑<br><br>不要这么容易就想放弃 就像我说的<br>追不到的梦想 换个梦不就得了<br>为自己的人生鲜艳上色<br>先把爱涂上喜欢的颜色<br><br>笑一个吧 功成名就不是目的<br>让自己快乐快乐这才叫做意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13631483)<br><br>2013-04-03 21:04<br>赞(0) 踩(0) | <div>第一次认真听这首歌的词 正能量~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3006726)<br><br>2013-02-14 23:25<br>赞(0) 踩(0) | <div>让自己快乐快乐这才是意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1891630)<br><br>2012-04-09 22:07<br>赞(0) 踩(0) | <div>小清新</div> |

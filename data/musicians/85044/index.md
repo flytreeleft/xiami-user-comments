@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0d5d4d51389175b92b8c3c4b7ab7e43f.jpg)<br>任双江](https://i.xiami.com/jasonren) | **播放数**: 1888186<br>**粉丝数**: 59<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/0d5d4d51389175b92b8c3c4b7ab7e43f.jpg)<br>任双江](https://i.xiami.com/jasonren) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1888186<br>**粉丝数**: 59<br>**评论数**: 8<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330698531)<br>我还没想好要写什么...<br>2020-06-25 03:52<br>赞(0) 踩(0) | <div>我在马来西亚槟城&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-03-11 16:54<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418507280)<br><br>2019-02-14 01:37<br>赞(2) 踩(0) | <div>我住在台灣。特別喜愛"聽說"，"寫給你的歌"這兩首歌，不但詞曲均佳，唱得更是令人感動，一聽就愛上了。加油，任双江，會一直支持你的創作！</div> |

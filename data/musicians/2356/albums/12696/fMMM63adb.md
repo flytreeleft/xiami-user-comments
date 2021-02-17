@@ -51,8 +51,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3707881)<br>等你回来<br>2021-01-10 13:33<br>赞(0) 踩(0) | <div>词曲大张伟真的牛皮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49334418)<br>～<br>2020-12-15 00:44<br>赞(0) 踩(0) | <div>～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349115635)<br><br>2020-12-03 21:06<br>赞(0) 踩(0) | <div>邮箱：____@__.com邮箱：____@__.com</div> |
@@ -65,7 +65,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2020-06-27 15:07<br>赞(0) 踩(0) | <div>他是原唱</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30937987)<br>双向情感障碍<br>2020-06-28 18:54<br>赞(0) 踩(0) | <div><q><b>安全地带说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429484733)<br>一期一会<br>2020-06-14 16:58<br>赞(0) 踩(0) | <div>女生可以听这个版本，也很酷。但是我爱死花儿。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35568339)<br>weirdo<br>2020-01-05 01:26<br>赞(0) 踩(0) | <div>今天才知道有這一版翻唱2333厲害厲害厲害</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35568339)<br>weirdo<br>2020-01-05 01:26<br>赞(0) 踩(0) | <div>今天才知道有這一版翻唱2333<br>厲害厲害厲害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6240762)<br>愚人。<br>2019-04-08 07:36<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26194173)<br> <br>2019-03-04 14:52<br>赞(1) 踩(0) | <div>我一直以为是大张伟写给杨乃文的歌呢，原来是上初三的大张伟写的，可以说很有才了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282987121)<br> <br>2019-01-31 10:14<br>赞(0) 踩(0) | <div>没有</div> |
@@ -78,12 +78,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111702126)<br>我还没想好要写什么...<br>2018-12-26 17:10<br>赞(1) 踩(0) | <div>MV拍的真差，感觉很敷衍，还看到了鼓手的白眼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298359469)<br>时光农夫一名，浇灌青春，...<br>2018-12-25 07:45<br>赞(0) 踩(0) | <div>和杨乃文有什么关系？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2020-06-27 15:07<br>赞(0) 踩(0) | <div>杨乃文翻唱了这首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273034482)<br><br>2018-12-18 20:55<br>赞(1) 踩(0) | <div>Re.2015</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42300078)<br>“一生负气成今日，四海无...<br>2018-12-14 14:57<br>赞(1) 踩(0) | <div>寂寞围绕着电视垂死坚持 在两点半消失 -18.12.14 值班功课</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273034482)<br><br>2018-12-18 20:55<br>赞(1) 踩(0) | <div>Re.<br>2015</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42300078)<br>“一生负气成今日，四海无...<br>2018-12-14 14:57<br>赞(1) 踩(0) | <div>寂寞围绕着电视<br>垂死坚持 在两点半消失 -18.12.14 值班功课</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277445013)<br><br>2018-12-12 10:22<br>赞(2) 踩(0) | <div>毕竟不是每一个人都和天真的你一样容易动真情……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18907812)<br>Smile<br>2018-11-25 15:26<br>赞(0) 踩(0) | <div>超爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401806687)<br>我对自己说：加油＾０＾~<br>2018-11-23 10:18<br>赞(1) 踩(0) | <div>感觉现在的大张伟发表的歌都纯粹就是为了市场需要而不是在做音乐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21336549)<br>我只吃饭不刷碗<br>2018-11-21 21:16<br>赞(4) 踩(0) | <div>跟你们说啊，06年的时候，我爱的姑娘呐，在舞台上跳着唱亮整个舞台，感觉全世界她最耀眼。舞台下面的我，点亮屏幕用力挥舞着手机。未曾想过十多年后的今年，会再听到这首歌，想起为了买演出服去南京的绿皮火车，夫子庙的小旅馆，你出现在我视线内抱着的小海豚。十余年后，千万公里外，你原谅了我。我的小公主也在记忆里不曾变老，不曾离去。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21336549)<br>我只吃饭不刷碗<br>2018-11-21 21:16<br>赞(4) 踩(0) | <div>跟你们说啊，06年的时候，我爱的姑娘呐，在舞台上跳着唱亮整个舞台，感觉全世界她最耀眼。<br>舞台下面的我，点亮屏幕用力挥舞着手机。未曾想过十多年后的今年，会再听到这首歌，想起为了买演出服去南京的绿皮火车，夫子庙的小旅馆，你出现在我视线内抱着的小海豚。<br>十余年后，千万公里外，你原谅了我。<br>我的小公主也在记忆里不曾变老，不曾离去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277287495)<br><br>2018-11-03 08:49<br>赞(3) 踩(0) | <div>昙花一现？！还真不愧是23线小城市的人。等你够了解花儿，够了解大张伟再来评价吧。大张伟后期改变了音乐风格，是因为他不想只是顺应时代唱情歌，唱颓废，他想带给大家欢乐。不懂不要随便评论！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32018881)<br><br>2018-11-02 13:11<br>赞(1) 踩(0) | <div>6666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337985479)<br>我还没想好要写什么...<br>2018-10-28 17:24<br>赞(1) 踩(0) | <div>封面为什么这么美啊！</div> |
@@ -139,7 +139,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19840538)<br> <br>2017-10-28 00:44<br>赞(1) 踩(0) | <div>哈哈哈简直不能跟现在的大老师联想到一起去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36640098)<br> <br>2017-10-28 00:43<br>赞(1) 踩(0) | <div>跑个一公里才能平息我的心悸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102690940)<br><br>2017-10-28 00:16<br>赞(3) 踩(0) | <div>听着这歌复习着245 突然有句歌词蹦进了脑袋“啊~~垂死坚持~~~”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/575)<br>你快乐吗？我很快乐。<br>2017-10-28 00:08<br>赞(1) 踩(0) | <div>时光不经意流逝像颗在耗费的电池我感到有点失落 无法抑制嗯 垂死坚持</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/575)<br>你快乐吗？我很快乐。<br>2017-10-28 00:08<br>赞(1) 踩(0) | <div>时光不经意流逝<br>像颗在耗费的电池<br>我感到有点失落 无法抑制<br>嗯 垂死坚持</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3727378)<br><br>2017-10-27 23:43<br>赞(3) 踩(0) | <div>我比较喜欢杨乃文这个版本。。。有时候觉得，人真的要活的自私一点，冷漠一点。。。就这样了，减肥，洗澡，看书，做题，睡觉。。。#今日の哼#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6003393)<br>不熟<br>2017-10-27 23:20<br>赞(2) 踩(0) | <div>無法抑制 垂死堅持 賜我安眠藥 我想跳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7312561)<br><br>2017-10-27 23:18<br>赞(1) 踩(0) | <div>时间停止，fuck</div> |
@@ -186,7 +186,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289876014)<br>我还没想好要写什么...<br>2017-09-04 17:45<br>赞(0) 踩(0) | <div>只有周二早放学 而且周二那天下午开始电视停放没节目看</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308656)<br>。。。无。。。<br>2018-05-18 00:34<br>赞(0) 踩(0) | <div><q><b>letroublanc说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3165154)<br> <br>2018-05-24 08:23<br>赞(0) 踩(0) | <div>是寂寞看电视，无聊又不肯离开，周二两点半，这一下午都没有电视看，可以离开电视了。     话说为什么北京两点半就可以放学?</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23500601)<br><br>2020-08-12 23:22<br>赞(0) 踩(0) | <div>1.那时候还没有两点半放学的2.是指的凌晨两点半</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23500601)<br><br>2020-08-12 23:22<br>赞(0) 踩(0) | <div>1.那时候还没有两点半放学的<br>2.是指的凌晨两点半</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19530924)<br>直面人生。<br>2017-03-26 01:30<br>赞(1) 踩(0) | <div>喜欢这首呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281118151)<br><br>2017-03-17 20:09<br>赞(0) 踩(0) | <div>垂死坚持啊啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36805600)<br><br>2017-03-06 23:25<br>赞(4) 踩(0) | <div>为什么节奏一样叫抄袭&amp;hellip;&amp;hellip;&amp;hellip;</div> |
@@ -235,7 +235,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126229718)<br>goal: trying...<br>2016-12-09 19:09<br>赞(0) 踩(0) | <div>我幻想美好的生活 何时开始</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8717973)<br>美不美看小腿<br>2016-12-07 19:14<br>赞(2) 踩(0) | <div>这首歌改变我对大张伟的看法</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83741524)<br>不抱怨，靠自己。<br>2016-12-11 22:16<br>赞(0) 踩(0) | <div>说的很对</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251776638)<br><br>2016-12-03 15:39<br>赞(1) 踩(0) | <div>过去一个月的状态。愿自己遇到这样的日子能适可而止。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251776638)<br><br>2016-12-03 15:39<br>赞(1) 踩(0) | <div>过去一个月的状态。<br>愿自己遇到这样的日子能适可而止。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6901200)<br><br>2016-12-02 20:52<br>赞(1) 踩(0) | <div>为什么！！为什么这首歌那么好听！！！？？？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22605878)<br>Noise=Fun<br>2016-12-01 17:36<br>赞(1) 踩(0) | <div>有种唱的时候一边磕瓜子一边抖腿的既视感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50802962)<br>love is tear...<br>2016-12-01 16:29<br>赞(0) 踩(0) | <div>这两天一骑车 脑子里就是这首歌，。我还真没听完过。。。有毒</div> |
@@ -253,14 +253,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48229922)<br>我还没想好要写什么...<br>2016-11-28 09:47<br>赞(3) 踩(0) | <div>田馥甄</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229490650)<br>就像他在游戏中所追求的排...<br>2016-11-27 22:53<br>赞(0) 踩(0) | <div>微博观光团</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24004855)<br> <br>2016-11-27 21:59<br>赞(0) 踩(0) | <div>(. ❛ ᴗ ❛.)</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1747563)<br><br>2016-11-25 17:58<br>赞(4) 踩(0) | <div>＃歌·颂＃ 我怀疑人们的生活，有所掩饰垂死坚持，完全消失。。。无所谓唱着青春期失落的骚动。杨乃文的肆意，大张伟的懒散，都是他们，我们，回不去的肆意挥霍的年华。那些想静止又一直摇摆，充斥在神经线条里不安的荷尔蒙。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1747563)<br><br>2016-11-25 17:58<br>赞(4) 踩(0) | <div>＃歌·颂＃ 我怀疑人们的生活，有所掩饰垂死坚持，完全消失。。。<br>无所谓唱着青春期失落的骚动。杨乃文的肆意，大张伟的懒散，都是他们，我们，回不去的肆意挥霍的年华。那些想静止又一直摇摆，充斥在神经线条里不安的荷尔蒙。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23353201)<br><br>2016-11-22 16:26<br>赞(2) 踩(0) | <div>分享好累啊，这什么个播放器。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23353201)<br><br>2016-11-22 16:25<br>赞(3) 踩(0) | <div>词曲大张伟，人间精品其实是有才boy ，杨乃文翻唱的也好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23353201)<br><br>2016-11-22 16:22<br>赞(1) 踩(0) | <div>怎么分享了看不见啊？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82541436)<br>我是一个天才，冒险来到人...<br>2016-11-22 13:16<br>赞(0) 踩(0) | <div>我现在是杨乃文的小歌迷了！期待下周和大老师合唱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1254874)<br><br>2016-11-21 23:14<br>赞(0) 踩(0) | <div>喜欢大张伟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23253602)<br>每首歌的背后都有一个动人...<br>2016-11-21 21:48<br>赞(0) 踩(0) | <div>下周和大张伟合唱，期待哦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2236868)<br>躁抑的夏天来了<br>2016-11-21 16:56<br>赞(2) 踩(0) | <div>和大老师的感觉完全不一样，不评价好坏，只说喜好。更喜欢 一个寂寞扰之的14岁少年 版本。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2236868)<br>躁抑的夏天来了<br>2016-11-21 16:56<br>赞(2) 踩(0) | <div>和大老师的感觉完全不一样，<br>不评价好坏，只说喜好。<br>更喜欢 一个寂寞扰之的14岁少年 版本。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237954006)<br> <br>2016-11-21 00:03<br>赞(2) 踩(0) | <div>期待和大张伟的合唱！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237954006)<br> <br>2016-11-21 00:02<br>赞(0) 踩(0) | <div>期待和大张伟的合唱！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117052428)<br>我还没想好要写什么...<br>2016-11-20 12:59<br>赞(4) 踩(0) | <div>我喜欢乃文版的</div> |
@@ -421,8 +421,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14695506)<br><br>2014-07-18 23:53<br>赞(0) 踩(0) | <div>“ 封面简直美翻 ”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2245256)<br><br>2014-07-16 11:13<br>赞(1) 踩(0) | <div>感觉比花儿好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14595156)<br>極端的世界，不極端的的我<br>2014-07-14 18:45<br>赞(0) 踩(0) | <div>成都等你哦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2399466)<br>我还没想好要写什么...<br>2014-07-09 16:22<br>赞(0) 踩(0) | <div>天哪，这首歌竟然是大张伟写的。“冲动在瞬间消失 梦被稀释不停转动著手指我幻想美丽的生活何时开始 时光不经意流逝像颗在耗费的电池我感到有点失落 无法抑制”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2399466)<br>我还没想好要写什么...<br>2014-07-09 16:22<br>赞(0) 踩(0) | <div>冲动在瞬间消失 梦被稀释不停转动著手指我幻想美丽的生活何时开始 时光不经意流逝像颗在耗费的电池我感到有点失落 无法抑制</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2399466)<br>我还没想好要写什么...<br>2014-07-09 16:22<br>赞(0) 踩(0) | <div>天哪，这首歌竟然是大张伟写的。“冲动在瞬间消失 梦被稀释<br>不停转动著手指<br>我幻想美丽的生活<br>何时开始 时光不经意流逝<br>像颗在耗费的电池<br>我感到有点失落 无法抑制”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2399466)<br>我还没想好要写什么...<br>2014-07-09 16:22<br>赞(0) 踩(0) | <div>冲动在瞬间消失 梦被稀释<br>不停转动著手指<br>我幻想美丽的生活<br>何时开始 时光不经意流逝<br>像颗在耗费的电池<br>我感到有点失落 无法抑制</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8898181)<br><br>2014-06-30 23:33<br>赞(0) 踩(0) | <div>加班快结束，暑假快来T.T</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4234450)<br>Let the ligh...<br>2014-06-19 14:29<br>赞(0) 踩(0) | <div>男声女声都很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31110730)<br>我的最爱王菲杨乃文萧亚轩...<br>2014-06-15 09:26<br>赞(0) 踩(0) | <div>身为乃文脑残粉也不得不说蛮像的，但也就前奏和间奏那么十几秒吧…算是借鉴吧，好听就行，也说不上抄袭吧</div> |
@@ -546,7 +546,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13704947)<br>豆瓣见：无悲渊。<br>2014-04-17 19:33<br>赞(0) 踩(0) | <div>感觉比花儿乐队的版本好多了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34111423)<br>一维斜影<br>2014-04-06 00:17<br>赞(0) 踩(0) | <div>竟然是大张伟的，真有才华</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27969)<br>大混蛋<br>2014-03-24 23:19<br>赞(0) 踩(0) | <div>垂死坚持 全部消失 垂死坚持 已静止 #MH370再见#</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3083305)<br><br>2014-03-19 14:07<br>赞(0) 踩(0) | <div>我觉得大张伟版本是北漂心酸版，适合深夜里听我更喜欢大张伟那个版本</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3083305)<br><br>2014-03-19 14:07<br>赞(0) 踩(0) | <div>我觉得大张伟版本是北漂心酸版，适合深夜里听<br>我更喜欢大张伟那个版本</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7686566)<br>我把你造得像我的孤独一样...<br>2014-02-24 15:51<br>赞(0) 踩(0) | <div>空虚敲打着意志 仿佛这誓言已静止 我怀疑人们的生活 有所掩饰 冲动在瞬间消失 梦被稀释 不停转动著手指 我幻想美丽的生活 何时开始 时光不经意流逝 像颗在耗费的电池 我感到有点失落 无法抑制 嗯~啊 垂死坚持 嗯~啊 已静止 嗯~啊 垂死坚持 嗯~啊 全部消失 嗯~啊 垂死坚持 嗯~啊 全部消失</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18314193)<br><br>2014-02-23 17:43<br>赞(0) 踩(0) | <div>感谢张宇，把你带回我的生活。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3947543)<br>love life ba...<br>2014-02-22 21:12<br>赞(0) 踩(0) | <div>被大张伟的牛掰惊吓了</div> |
@@ -573,8 +573,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3486450)<br>勇气和柔软，也可以共谱和...<br>2014-02-09 17:43<br>赞(0) 踩(0) | <div>我晕。。。竟然是大张伟写的。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4895365)<br> <br>2014-02-07 22:33<br>赞(0) 踩(0) | <div>大张伟→_→</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11386860)<br><br>2014-02-07 22:17<br>赞(0) 踩(0) | <div>“我怀疑人们的生活有所掩饰”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29543984)<br><br>2014-02-06 23:56<br>赞(1) 踩(0) | <div>Impulses fleeting,dreams dissolving,fingers swinging restlessly.La dolce vita in fantasies,is commencing whentime&amp;#039;s elapsing unconsciouslyas if draining a battery.I kinda feel a bit downuncontrollably.Ah~ ahhh~ ahhh~dying, surviving.Ah~ ahhh~ ahhh~stopping still.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29543984)<br><br>2014-02-06 23:56<br>赞(62) 踩(0) | <div>Loneliness surroundingthe telly, dying,disappearing at two fifteen.And I&amp;#039;m craving for any one atthis apocalypse.Pretty vacant being my willas if time is stopping stillI doubt if people are livingin disguises.Ah~ ahhh~ ahhh~Dying, surviving.Ah~ ahhh~ ahhh~Stopping still.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29543984)<br><br>2014-02-06 23:56<br>赞(1) 踩(0) | <div>Impulses fleeting,<br>dreams dissolving,<br>fingers swinging restlessly.<br>La dolce vita in fantasies,<br>is commencing when<br>time&amp;#039;s elapsing unconsciously<br>as if draining a battery.<br>I kinda feel a bit down<br>uncontrollably.<br>Ah~ ahhh~ ahhh~<br>dying, surviving.<br>Ah~ ahhh~ ahhh~<br>stopping still.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29543984)<br><br>2014-02-06 23:56<br>赞(62) 踩(0) | <div>Loneliness surrounding<br>the telly, dying,<br>disappearing at two fifteen.<br>And I&amp;#039;m craving for any one at<br>this apocalypse.<br>Pretty vacant being my will<br>as if time is stopping still<br>I doubt if people are living<br>in disguises.<br>Ah~ ahhh~ ahhh~<br>Dying, surviving.<br>Ah~ ahhh~ ahhh~<br>Stopping still.</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25522145)<br><br>2016-02-14 13:19<br>赞(0) 踩(0) | <div>第二段歌词原版没有？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28640052)<br>暂无签名~<br>2016-02-16 14:52<br>赞(0) 踩(0) | <div>这是另一首歌？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163125916)<br>我还没想好要写什么...<br>2016-10-25 15:03<br>赞(0) 踩(0) | <div>农酱！！竟然能在这里看见你</div> |
@@ -606,7 +606,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10627050)<br>sodagreen<br>2013-07-20 19:47<br>赞(0) 踩(0) | <div>还是最爱这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14397238)<br><br>2013-07-03 14:53<br>赞(0) 踩(0) | <div>God save me~远离一切不靠谱~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251264)<br>stay gold<br>2013-06-30 09:34<br>赞(0) 踩(0) | <div>词曲作者……</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6700744)<br>名字是新浪微博名字 、<br>2013-08-20 10:59<br>赞(0) 踩(0) | <div>早期的花儿还是很有才 的 . 十几岁就有这首歌 .     静止 .   鼓点隆隆的青春 .不像现在穿着喇叭裤 唱着爱火烧 .</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6700744)<br>名字是新浪微博名字 、<br>2013-08-20 10:59<br>赞(0) 踩(0) | <div>早期的花儿还是很有才 的 . 十几岁就有这首歌 .     静止 .   鼓点隆隆的青春 .<br><br>不像现在穿着喇叭裤 唱着爱火烧 .</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251264)<br>stay gold<br>2013-08-20 13:49<br>赞(0) 踩(0) | <div><q><b>仗剑天涯行说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11849278)<br><br>2013-06-25 23:11<br>赞(0) 踩(0) | <div>真系好实耐无唱过K</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3044828)<br>take me away<br>2013-06-05 22:09<br>赞(0) 踩(0) | <div>比大张伟那版的更现代点。。</div> |
@@ -628,7 +628,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4750448)<br>nananananana<br>2013-01-11 23:06<br>赞(0) 踩(0) | <div>花儿乐队大张伟的作品，杨乃文唱出的独特的味道，可惜花儿早已凋零</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6876493)<br>一只水母在海中游啊游<br>2013-01-11 21:08<br>赞(0) 踩(0) | <div>多希望有人来陪我度过周末，我是被某人遗忘的暖羊羊~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6690491)<br><br>2012-12-20 23:05<br>赞(0) 踩(0) | <div>「多希望有人来陪我 度过末日」</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1662559)<br>哈哈哈哈哈哈哈<br>2012-12-10 17:10<br>赞(0) 踩(0) | <div>我幻想美丽的生活何时开始 时光不经意流逝像颗在耗费的电池我感到有点失落 无法抑制嗯 垂死坚持嗯 已静止</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1662559)<br>哈哈哈哈哈哈哈<br>2012-12-10 17:10<br>赞(0) 踩(0) | <div>我幻想美丽的生活<br>何时开始 时光不经意流逝<br>像颗在耗费的电池<br>我感到有点失落 无法抑制<br>嗯 垂死坚持<br>嗯 已静止</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1322537)<br><br>2012-12-05 12:23<br>赞(1) 踩(0) | <div>杨乃文声音好电子啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7269384)<br> <br>2012-12-03 12:12<br>赞(0) 踩(0) | <div>还是喜欢花儿的原唱，杨乃文翻唱后被更多的人熟知，两种不同的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65522)<br><br>2012-11-27 17:05<br>赞(0) 踩(0) | <div>要不来个每日一歌？自从认清了要打回夜猫子的原型之后，愈发有恃无恐了..</div> |
@@ -636,7 +636,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102749)<br>衣不如新，人不如旧。<br>2012-12-17 14:46<br>赞(0) 踩(0) | <div>本来就是花儿的吧。。更喜欢原唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9366002)<br><br>2012-11-21 08:42<br>赞(0) 踩(0) | <div>多希望有人来陪我 度过末日</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/640007)<br><br>2012-11-21 04:25<br>赞(0) 踩(0) | <div>我們都會有垂死堅持的時刻，但這不正說明了我們很勇敢嗎</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7995772)<br><br>2012-11-18 17:58<br>赞(0) 踩(0) | <div>多希望有人来陪我 度过末日@小维就是我 @夏日么么茶198402  @jule3669</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7995772)<br><br>2012-11-18 17:58<br>赞(0) 踩(0) | <div>多希望有人来陪我 度过末日<br>@小维就是我 @夏日么么茶198402  @jule3669</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1331652)<br>虾米再见。<br>2012-11-18 12:33<br>赞(0) 踩(0) | <div>苏打绿？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/640007)<br><br>2012-11-06 08:39<br>赞(0) 踩(0) | <div>多希望有人陪我度过世界末日。垂死坚持。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3192070)<br><br>2012-10-29 12:07<br>赞(0) 踩(0) | <div>冲动在瞬间消失 梦被稀释 不停转动著手指</div> |
@@ -676,7 +676,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2064589)<br><br>2011-11-20 12:25<br>赞(0) 踩(0) | <div>希望晒在身体上的阳光能透进心里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1335532)<br>年少喜曲，年长好词<br>2011-10-23 23:44<br>赞(0) 踩(0) | <div>比起花儿，更快更有劲，激情MORE~!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99259)<br><br>2011-10-14 23:36<br>赞(0) 踩(0) | <div>这个时候 半夜三斤大声唱歌！唱杨乃文！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5604040)<br><br>2011-10-08 20:30<br>赞(0) 踩(0) | <div>空虚敲打著意志彷彿这时间已静止</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5604040)<br><br>2011-10-08 20:30<br>赞(0) 踩(0) | <div>空虚敲打著意志<br>彷彿这时间已静止</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2933558)<br>我还没想好要写什么...<br>2011-10-06 12:25<br>赞(0) 踩(0) | <div>@懒惰的VER 这是你昨天问我的那首歌，1999年出自《Silence》专辑，其实那个时候，她已经在跟林暐哲合作了，严格意义上不算滚石的歌，昨天为了配合摇滚的部分，所以她抒情的歌都没唱，但现场真心被帅到。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4754309)<br><br>2011-09-18 16:18<br>赞(0) 踩(0) | <div>哦，3年前的回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3538716)<br><br>2011-08-31 21:34<br>赞(0) 踩(0) | <div>寂寞围绕着电视，我在垂死坚持。</div> |
@@ -710,4 +710,4 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329837)<br>一加一等于几<br>2011-07-14 21:21<br>赞(0) 踩(0) | <div><q><b>shine tu说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/923208)<br>我还没想好要写什么...<br>2010-05-25 22:12<br>赞(0) 踩(0) | <div>杨乃文绝对有文艺女青年的范儿，出道很久了，不过好象一直不是大火那一型的，一直塌实地唱着自己的歌，其实这样挺好的~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323280)<br>_<br>2010-04-01 09:48<br>赞(0) 踩(0) | <div>来自 浅白推荐 谢谢浅白：）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12429)<br><br>2010-02-08 09:41<br>赞(0) 踩(0) | <div>何时开始 时光不经意流逝像颗在耗费的电池我感到有点失落 无法抑制</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12429)<br><br>2010-02-08 09:41<br>赞(0) 踩(0) | <div>何时开始 时光不经意流逝<br>像颗在耗费的电池<br>我感到有点失落 无法抑制</div> |

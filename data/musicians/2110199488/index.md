@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/33cb81e8a820c309f7cd428cdc7e55c9.jpg)<br>普乐民](https://i.xiami.com/pulemin) | **播放数**: 2821276<br>**粉丝数**: 196<br>**评论数**: 5<br>**地区**: China 中国大陆<br>**风格**: 电子 Electronic, 放克电子 Electro (Electro-Funk), 电子迪斯科 Electro-Disco<br> |
+| [![](../../images/musicians/33cb81e8a820c309f7cd428cdc7e55c9.jpg)<br>普乐民](https://i.xiami.com/pulemin) | **地区**: China 中国大陆<br>**风格**: 电子 Electronic, 放克电子 Electro (Electro-Funk), 电子迪斯科 Electro-Disco<br>**播放数**: 2821276<br>**粉丝数**: 196<br>**评论数**: 5<br> |
 
 ## 档案
 
@@ -22,8 +22,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380073729)<br>音声带着心情走…<br>2020-06-17 22:50<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2019-07-08 08:17<br>赞(1) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379261498)<br><br>2019-06-30 09:02<br>赞(1) 踩(0) | <div>这dj不错</div> |

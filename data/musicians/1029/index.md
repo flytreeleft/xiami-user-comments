@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/cd57ced453ad9c6b42023939cb1c01e5.jpg)<br>徐清原](https://i.xiami.com/ngotsu) | **播放数**: 11443873<br>**粉丝数**: 10044<br>**评论数**: 254<br>**地区**: Taiwan, PRC 中国台湾<br>**风格**: 民族融合新世纪 Ethnic Fusion New Age, 自然新世纪 Nature New Age, 轻音乐 Easy Listening, 新世纪音乐 New Age, 宗教新世纪 Religionary New Age<br> |
+| [![](../../images/musicians/cd57ced453ad9c6b42023939cb1c01e5.jpg)<br>徐清原](https://i.xiami.com/ngotsu) | **地区**: Taiwan, PRC 中国台湾<br>**风格**: 民族融合新世纪 Ethnic Fusion New Age, 自然新世纪 Nature New Age, 轻音乐 Easy Listening, 新世纪音乐 New Age, 宗教新世纪 Religionary New Age<br>**播放数**: 11443873<br>**粉丝数**: 10044<br>**评论数**: 254<br> |
 
 ## 档案
 
@@ -37,12 +37,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-28 02:22<br>赞(0) 踩(0) | <div>19210</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378378884)<br><br>2020-06-29 08:13<br>赞(1) 踩(0) | <div>赞叹 感恩您的声音 很欢喜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37701703)<br>我还没想好要写什么...<br>2020-02-08 00:52<br>赞(0) 踩(0) | <div><img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412672930)<br><br>2020-01-13 23:46<br>赞(0) 踩(0) | <div>无意间听到的，这是我听到佛教歌曲最好听也最有影响力的一首歌，用❤️了谢谢！到达彼岸</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412672930)<br><br>2020-01-13 23:46<br>赞(0) 踩(0) | <div>无意间听到的，这是我听到佛教歌曲最好听也最有影响力的一首歌，用❤️了谢谢！<br>到达彼岸</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435465121)<br><br>2020-01-12 11:22<br>赞(1) 踩(0) | <div>刚刚下载虾米音乐，就遇到了你的这首听闻解脱咒吟唱。非常入心，感恩您 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png">随喜赞叹传播法音功德 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png">阿弥陀佛 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344018512)<br>我还没想好要写什么...<br>2019-10-26 01:54<br>赞(0) 踩(0) | <div>D</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17126331)<br>人生如歌<br>2019-10-23 18:36<br>赞(0) 踩(0) | <div>有谁知道【寂静的风】曲子开头的乐器声是否是 印度的&amp;ldquo;班苏笛&amp;rdquo;吗？</div> |
@@ -59,7 +59,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378936243)<br><br>2019-01-05 11:58<br>赞(1) 踩(0) | <div>超级好听 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408491333)<br><br>2018-11-13 09:47<br>赞(0) 踩(0) | <div>十年前在网上无意中听到《彼岸，听即解脱咒》瞬间就喜欢上了，时常循环着听，感恩一直有它陪伴 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26489198)<br> <br>2018-11-06 18:47<br>赞(1) 踩(0) | <div>真诚</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360000257)<br><br>2018-10-23 17:45<br>赞(3) 踩(0) | <div>园艺诗风◎蔚蓝爱上赏诗可我不懂诗的韵脚如何是好能亲眼睹目诗的眉梢月如弯香萧情愿感觉陶醉与魂牵梦绕园艺诗风不可待一枚枚立体雕琢活生生异域风情数今朝潮头矗立自由的山峰苍翠墨绿斜插进素朴险耀的半山腰你的吐露 欲言是山涧的溪流涓涓如涛只尽情一气独领风骚无二的姓氏与喧嚣深情是鹅黄打磨成会嵇山脚下的妖娆欣怡的幸会玉之俏风韵立意独道平仄的默允吹艳了七言牡丹的富贵萦绕唐诗宋词活过来的艺术清新中蕴涵哀怨于婉丽中透出伤情李清照风韵犹存多少潸然求索一声声呜咽凄楚惊心载不动许多愁止不住的千行泪啊园艺诗歌</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360000257)<br><br>2018-10-23 17:45<br>赞(3) 踩(0) | <div>园艺诗风<br>◎蔚蓝<br><br>爱上赏诗<br>可我不懂诗的韵脚如何是好<br>能亲眼睹目诗的眉梢<br>月如弯<br>香萧情愿<br>感觉陶醉与魂牵梦绕<br>园艺诗风<br><br>不可待<br>一枚枚立体雕琢<br>活生生<br>异域风情<br><br>数今朝<br>潮头矗立<br>自由的山峰<br>苍翠墨绿<br>斜插进素朴险耀的半山腰<br>你的吐露 欲言<br>是山涧的溪流<br>涓涓如涛<br>只尽情<br>一气独领风骚<br>无二的姓氏与喧嚣<br><br>深情是鹅黄<br>打磨成会嵇山脚下的妖娆<br>欣怡的幸会<br>玉之俏<br>风韵立意独道<br>平仄的默允<br>吹艳了七言牡丹的富贵萦绕<br><br>唐诗宋词<br>活过来的艺术<br>清新中蕴涵哀怨<br>于婉丽中透出伤情<br>李清照<br>风韵犹存多少<br>潸然求索<br>一声声呜咽<br>凄楚惊心<br>载不动许多愁<br>止不住的千行泪<br><br>啊<br>园艺诗歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26923319)<br><br>2018-10-13 10:28<br>赞(3) 踩(0) | <div>内观自身，获得无穷的力量，感谢老师，给我启迪开悟 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/526266)<br>我不能强迫自己天天签到，...<br>2018-08-29 13:39<br>赞(2) 踩(0) | <div>一个飘在空中的声音~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316484812)<br>我还没想好要写什么...<br>2018-07-20 08:35<br>赞(0) 踩(0) | <div>感恩您至心录制我的上师尊圣第十二世嘉察仁波切亲自唱诵的这首《听即解脱咒》噶玛巴千诺</div> |
@@ -86,7 +86,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44573425)<br>面朝大海  春暖花开<br>2017-08-30 09:58<br>赞(2) 踩(0) | <div>支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321771537)<br><br>2017-08-27 00:19<br>赞(2) 踩(0) | <div>天籁之音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243653976)<br>我还没想好要写什么...<br>2017-08-25 13:53<br>赞(1) 踩(0) | <div>感恩如此纯净歌曲与大家分享 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318259539)<br><br>2017-08-14 18:14<br>赞(1) 踩(0) | <div>引导我大音无形</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318259539)<br><br>2017-08-14 18:14<br>赞(1) 踩(0) | <div>引导我<br>大音无形</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123984982)<br><br>2017-08-08 23:55<br>赞(1) 踩(0) | <div>晚上听到这首鲸豚嬉游记音乐时放佛身临奇境</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43711944)<br>欣赏、感恩、享受美乐！<br>2017-07-18 09:42<br>赞(1) 踩(0) | <div>纯净的声音，空旷辽远，仿佛来自天国的呼唤，涤荡心灵，让心回归</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312851524)<br><br>2017-07-17 14:33<br>赞(2) 踩(0) | <div>随喜功德！</div> |
@@ -194,7 +194,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3746691)<br><br>2013-04-28 03:04<br>赞(0) 踩(0) | <div>清脑洗心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12321533)<br><br>2013-04-13 14:14<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11605129)<br><br>2013-03-27 12:05<br>赞(0) 踩(0) | <div>很轻</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13218552)<br>R<br>2013-03-14 15:28<br>赞(0) 踩(0) | <div>沒有不會開的花，沒有最好的安排，唯有靜心體會種種。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13218552)<br>R<br>2013-03-14 15:28<br>赞(0) 踩(0) | <div>沒有不會開的花，沒有最好的安排，<br>唯有靜心體會種種。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1002413)<br>陌上花开<br>2013-03-12 09:45<br>赞(0) 踩(0) | <div>佛国之路</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13414935)<br>Angel<br>2013-03-11 16:45<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13336816)<br><br>2013-03-07 22:44<br>赞(0) 踩(0) | <div>很空灵</div> |
@@ -224,8 +224,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9998054)<br><br>2012-07-28 18:22<br>赞(0) 踩(0) | <div>声音很纯净</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9972513)<br><br>2012-07-27 09:02<br>赞(0) 踩(0) | <div>极度干净的声音！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8661239)<br>淘醉在音乐里<br>2012-06-30 15:18<br>赞(0) 踩(0) | <div>风一样的声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8626266)<br>却没能爬出一口井<br>2012-06-24 22:47<br>赞(2) 踩(0) | <div>寂静的风，空灵的魂，佛国的梵音，智者的禅！几人能懂徐清源？</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6291602)<br>敬天爱人<br>2012-07-07 00:16<br>赞(0) 踩(0) | <div>曲高者和寡。我懂你也懂</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8626266)<br>却没能爬出一口井<br>2012-06-24 22:47<br>赞(2) 踩(0) | <div>寂静的风，<br>空灵的魂，<br>佛国的梵音，<br>智者的禅！<br>几人能懂徐清源？</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6291602)<br>敬天爱人<br>2012-07-07 00:16<br>赞(0) 踩(0) | <div>曲高者和寡。<br>我懂<br>你也懂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32045)<br><br>2012-06-21 14:45<br>赞(0) 踩(0) | <div>徐清源,梵音,佛音,灵魂 心灵 飘渺, 我是来消除心灵杂质的！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7794775)<br><br>2012-06-14 22:24<br>赞(0) 踩(0) | <div>fff</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9183343)<br><br>2012-06-10 22:03<br>赞(0) 踩(0) | <div>好听</div> |

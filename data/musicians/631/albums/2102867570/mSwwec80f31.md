@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403867947)<br><br>2020-06-13 18:59<br>赞(1) 踩(0) | <div>陈百强的版本才好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49004765)<br> <br>2019-07-30 12:03<br>赞(1) 踩(0) | <div>编曲太棒了吧！好迷人！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3616608)<br>漂泊的心，永恒追逐着爱与...<br>2019-02-27 23:56<br>赞(1) 踩(0) | <div>无可超越的陈百强，这歌谁翻唱都像是小学生对抗王者</div> |

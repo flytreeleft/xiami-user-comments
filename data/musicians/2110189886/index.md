@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c6691eaa426e320da92b113be5dd01da.jpg)<br>赵登凯](https://i.xiami.com/zhaodengkai) | **播放数**: 6913712<br>**粉丝数**: 2892<br>**评论数**: 112<br>**地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/c6691eaa426e320da92b113be5dd01da.jpg)<br>赵登凯](https://i.xiami.com/zhaodengkai) | **地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop<br>**播放数**: 6913712<br>**粉丝数**: 2892<br>**评论数**: 112<br> |
 
 ## 档案
 
@@ -40,10 +40,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328657369)<br>风格随心而变、<br>2020-03-26 13:16<br>赞(0) 踩(0) | <div>啥时候在来点新歌嘞</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428133281)<br>All for Her~...<br>2019-08-04 12:55<br>赞(1) 踩(0) | <div>帥到靈魂去了！The touch of the Soul!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428133281)<br>All for Her~...<br>2019-08-04 12:55<br>赞(1) 踩(0) | <div>帥到靈魂去了！<br>The touch of the Soul!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35711130)<br> <br>2019-06-22 00:40<br>赞(0) 踩(0) | <div>晚上一个人开车全是你的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2019-06-17 01:19<br>赞(0) 踩(0) | <div>小哥哥多发歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1281791)<br><br>2019-05-04 23:10<br>赞(0) 踩(0) | <div>有点像邓凯哈哈</div> |
@@ -144,7 +144,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72666568)<br><br>2017-01-18 22:47<br>赞(4) 踩(0) | <div>不二兮兮的青年。蛮好的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4892909)<br><br>2017-01-18 10:56<br>赞(0) 踩(0) | <div>词曲都好~喜欢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7797443)<br>/ /<br>2017-01-17 15:30<br>赞(1) 踩(0) | <div>小可爱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249937070)<br>人生若无悔放下过去归零<br>2017-01-17 06:50<br>赞(15) 踩(0) | <div>因为我们的灵魂被禁锢了，所以我们不停的让自己去旅行，来证明自己的身体还是自由的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249937070)<br>人生若无悔放下过去归零<br>2017-01-17 06:50<br>赞(15) 踩(0) | <div>因为我们的灵魂被禁锢了，<br>所以我们不停的让自己去旅行，<br>来证明自己的身体还是自由的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32300909)<br><br>2017-01-16 21:39<br>赞(0) 踩(0) | <div>好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52546218)<br>最近总是怀念青春<br>2017-01-16 13:11<br>赞(1) 踩(0) | <div>哎呦，不错哦 <img src="../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261953254)<br>Hi<br>2017-01-14 22:16<br>赞(0) 踩(0) | <div><img src="../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../images/comments/aef814d405ecc3ca2a3d50288c9a0e48.png"> <img src="../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../images/comments/e44d95099808df6f9a2b8f4961447063.png"> <img src="../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png"></div> |

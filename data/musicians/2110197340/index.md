@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/144efc7e34360cc47c22140b9ef691aa.png)<br>李知蹊](https://i.xiami.com/lizhixi) | **播放数**: 5577071<br>**粉丝数**: 715<br>**评论数**: 31<br>**地区**: China 中国大陆<br>**风格**: 当代民谣 Contemporary Folk, 城市民谣 Urban Folk, 独立民谣 Indie Folk, 国语流行 Mandarin Pop, 流行 Pop<br> |
+| [![](../../images/musicians/144efc7e34360cc47c22140b9ef691aa.png)<br>李知蹊](https://i.xiami.com/lizhixi) | **地区**: China 中国大陆<br>**风格**: 当代民谣 Contemporary Folk, 城市民谣 Urban Folk, 独立民谣 Indie Folk, 国语流行 Mandarin Pop, 流行 Pop<br>**播放数**: 5577071<br>**粉丝数**: 715<br>**评论数**: 31<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -27,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-10-01 00:58<br>赞(0) 踩(0) | <div>20201001.31</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380107669)<br><br>2020-05-17 16:42<br>赞(2) 踩(0) | <div>兄弟，我就靠你这首歌目前从北京自驾到了西藏。下一步从那曲上青藏去青海。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432650569)<br> <br>2020-03-20 02:34<br>赞(1) 踩(0) | <div>牛逼</div> |
@@ -38,7 +35,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411757515)<br><br>2019-12-13 22:22<br>赞(0) 踩(0) | <div>唱腔条件不好，词也写的差点意思，文学功底稍逊。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422058306)<br>silence  is ...<br>2019-12-07 18:26<br>赞(1) 踩(0) | <div>喜欢所有的歌曲！期待更多的作品加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376592886)<br>来，干了这碗鸡汤！<br>2019-03-24 08:14<br>赞(3) 踩(0) | <div>好喜欢他的歌，所有的歌！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15670731)<br>相信自己。<br>2019-01-05 10:17<br>赞(3) 踩(0) | <div>唱的不错写的深意会更加棒。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15670731)<br>相信自己。<br>2019-01-05 10:17<br>赞(3) 踩(0) | <div>唱的不错<br>写的深意<br>会更加棒。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408035215)<br><br>2018-12-07 19:02<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247192823)<br><br>2018-11-05 09:44<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330290962)<br><br>2018-09-28 14:55<br>赞(0) 踩(0) | <div></div> |

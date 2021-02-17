@@ -44,7 +44,7 @@ i don't want my destiny
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6779214)<br>...<br>2014-02-14 23:26<br>赞(0) 踩(0) | <div>好躁动的感觉！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13049)<br>再见<br>2011-01-05 17:51<br>赞(0) 踩(0) | <div>我也不想做我自己，我讨厌自己！</div> |

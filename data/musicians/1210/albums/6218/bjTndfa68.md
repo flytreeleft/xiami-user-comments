@@ -66,8 +66,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309790390)<br>我还没想好要写什么...<br>2020-12-18 21:46<br>赞(0) 踩(0) | <div>感觉阿岳是个粗旷的男人，却又有比女人还细腻的心！这是不是就是，所谓的&amp;ldquo;铁汉柔情&amp;rdquo;？❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289942998)<br><br>2020-10-19 17:27<br>赞(0) 踩(0) | <div>滚石的精品太多，以至于这首歌都埋没了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432171538)<br><br>2020-04-04 21:20<br>赞(0) 踩(0) | <div>～</div> |
@@ -110,13 +110,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143458382)<br>时代很潦草，不太关心了。<br>2018-01-06 23:17<br>赞(2) 踩(0) | <div>啊岳 我爱你 所以不会走 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274900111)<br>努力努力再努力<br>2017-12-15 01:49<br>赞(2) 踩(0) | <div>爱我别走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93092514)<br>不求闻达于诸侯<br>2017-12-07 18:56<br>赞(1) 踩(0) | <div>阿岳</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317603369)<br><br>2017-12-03 18:41<br>赞(4) 踩(0) | <div>这首歌是使我流下眼泪。不错 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317603369)<br><br>2017-12-03 18:41<br>赞(4) 踩(0) | <div>这首歌是使我流下眼泪。<br>不错 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332670294)<br><br>2017-11-30 23:21<br>赞(2) 踩(0) | <div>好听，小清晰的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282987121)<br> <br>2017-11-09 20:49<br>赞(1) 踩(0) | <div>我想你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296838753)<br><br>2017-11-06 22:25<br>赞(3) 踩(0) | <div>夜里的寂寞容易叫人悲伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94056260)<br>待到山花烂漫，她在何处欢...<br>2017-11-05 12:54<br>赞(1) 踩(0) | <div>不走的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94056260)<br>待到山花烂漫，她在何处欢...<br>2017-10-31 19:03<br>赞(1) 踩(0) | <div>不能走</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4407899)<br>胖女孩的期待<br>2017-10-27 23:10<br>赞(3) 踩(0) | <div>走的时候冬瓜说一起学一首歌吧，我没用心，因为自己唱歌总是唱不好，每听这首歌我都会想冬瓜，可是我不会告诉她，我不想告诉任何人，我想自己一个人成长，可是现在的我才发现，我错了……我不能也再不愿意一个人,请不要我一个人好么？请不要丢下我一个人……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4407899)<br>胖女孩的期待<br>2017-10-27 23:10<br>赞(3) 踩(0) | <div>走的时候冬瓜说一起学一首歌吧，我没用心，因为自己唱歌总是唱不好，<br>每听这首歌我都会想冬瓜，可是我不会告诉她，<br>我不想告诉任何人，我想自己一个人成长，<br>可是现在的我才发现，我错了……我不能也再不愿意一个人,请不要我一个人好么？请不要丢下我一个人……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302883749)<br><br>2017-10-20 17:11<br>赞(2) 踩(0) | <div>不错的歌!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1718394)<br>是我浪费在你身上的时间，...<br>2017-10-14 05:14<br>赞(8) 踩(0) | <div>吉他旋律好像套在头上的塑料袋，好听到不能呼吸了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126308484)<br>做个例外<br>2017-09-21 17:19<br>赞(2) 踩(0) | <div>我爱你 你走吧</div> |
@@ -162,7 +162,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39484545)<br><br>2017-04-05 22:37<br>赞(0) 踩(0) | <div>经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259682471)<br><br>2017-04-03 05:59<br>赞(2) 踩(0) | <div>还是岳岳唱得有味儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250675591)<br> 简简单单<br>2017-04-02 12:47<br>赞(0) 踩(0) | <div>我喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220761580)<br><br>2017-03-29 09:03<br>赞(1) 踩(0) | <div>夜里的寂寞容易叫人悲伤因为我一个人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220761580)<br><br>2017-03-29 09:03<br>赞(1) 踩(0) | <div>夜里的寂寞容易叫人悲伤<br>因为我一个人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94051962)<br>我还没想好要写什么...<br>2017-03-28 00:33<br>赞(1) 踩(0) | <div>回到过去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281515622)<br><br>2017-03-27 21:45<br>赞(0) 踩(0) | <div>爱我别走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283665864)<br><br>2017-03-26 22:07<br>赞(1) 踩(0) | <div>单曲循环</div> |
@@ -221,7 +221,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8502608)<br>拜托音乐才是我的解药。<br>2015-03-10 19:04<br>赞(0) 踩(0) | <div>喜欢声音</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33202977)<br><br>2015-06-01 18:16<br>赞(0) 踩(0) | <div>酷玩你好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8502608)<br>拜托音乐才是我的解药。<br>2015-06-01 18:18<br>赞(0) 踩(0) | <div><q><b>好好学习说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43682433)<br>Agori<br>2015-03-01 22:09<br>赞(0) 踩(0) | <div>唱K的时候有人点这首歌我抢过话筒 唱完第一句大家就不说话了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43682433)<br>Agori<br>2015-03-01 22:09<br>赞(0) 踩(0) | <div>唱K的时候有人点这首歌<br>我抢过话筒 唱完第一句<br>大家就不说话了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36576263)<br><br>2015-09-28 17:23<br>赞(0) 踩(0) | <div>为啥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45404618)<br><br>2015-01-04 00:02<br>赞(0) 踩(0) | <div>多想回到童年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44635917)<br><br>2014-12-09 23:06<br>赞(0) 踩(0) | <div>不敢想的太多，因为我一个人。</div> |
@@ -239,7 +239,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1357167)<br>我还没想好要写什么...<br>2013-04-14 16:50<br>赞(1) 踩(0) | <div>是有多爱你的声音啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13593111)<br><br>2013-04-04 03:30<br>赞(0) 踩(0) | <div>想念和想到何止一字之差</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13593111)<br><br>2013-04-04 01:20<br>赞(0) 踩(0) | <div>听一百八十遍了 那又怎样</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2035720)<br>喜欢就会放肆 但爱就是克...<br>2013-03-11 21:42<br>赞(0) 踩(0) | <div>迎面而来的月光拉长身影漫无目的地走在冷冷的街</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2035720)<br>喜欢就会放肆 但爱就是克...<br>2013-03-11 21:42<br>赞(0) 踩(0) | <div>迎面而来的月光拉长身影<br>漫无目的地走在冷冷的街</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6520391)<br><br>2013-01-11 23:18<br>赞(0) 踩(0) | <div>几百年没练吉他的渣手，前天还拿这首歌练了哈手。寒假回家也该静下来好好弹了~~TAT</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6639099)<br>我还没想好要写什么...<br>2013-01-02 13:03<br>赞(0) 踩(0) | <div>好喜欢张震岳的版本。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11563891)<br><br>2012-11-27 19:32<br>赞(0) 踩(0) | <div>稀饭就来听</div> |
@@ -252,7 +252,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6813485)<br> <br>2012-07-17 14:26<br>赞(0) 踩(0) | <div>爱我别走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5073144)<br><br>2012-07-13 21:49<br>赞(1) 踩(0) | <div>再深情的挽留，该属于你的终会在你身旁，不属于你的也无法用三言两语打动她</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8825543)<br>一杯茶一首歌一本书一个人<br>2012-06-30 21:35<br>赞(0) 踩(0) | <div>单曲~吧~。（为了今晚能更好入睡，灌了瓶牛奶~）晚安！亲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1902978)<br>总有些音乐能温暖整个世界...<br>2012-06-06 22:51<br>赞(0) 踩(0) | <div>爱我别走,如果你说你不爱我,不要听见你真的说出口再给我一点温柔,我到了这个时候还是一样夜里的寂寞容易叫人悲伤,我不敢想的太多,因为我一个人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1902978)<br>总有些音乐能温暖整个世界...<br>2012-06-06 22:51<br>赞(0) 踩(0) | <div>爱我别走,如果你说你不爱我,不要听见你真的说出口<br>再给我一点温柔,我到了这个时候还是一样<br>夜里的寂寞容易叫人悲伤,我不敢想的太多,因为我一个人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4759327)<br><br>2012-05-19 02:19<br>赞(0) 踩(0) | <div>安静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8145877)<br><br>2012-05-02 13:11<br>赞(1) 踩(0) | <div>阿岳生日快乐~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1714479)<br>我还没想好要写什么...<br>2012-03-26 10:29<br>赞(0) 踩(0) | <div>再给我一点温柔</div> |
@@ -324,7 +324,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/929982)<br><br>2010-05-28 18:32<br>赞(0) 踩(0) | <div>小小的难过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/843111)<br><br>2010-04-30 10:15<br>赞(0) 踩(0) | <div>阿岳的声音很舒服～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/815299)<br><br>2010-04-20 09:13<br>赞(0) 踩(0) | <div>最爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/647030)<br><br>2010-03-23 17:45<br>赞(0) 踩(0) | <div>我到了这个时候还是一样夜里的寂寞容易叫人悲伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/647030)<br><br>2010-03-23 17:45<br>赞(0) 踩(0) | <div>我到了这个时候还是一样<br>夜里的寂寞容易叫人悲伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/687109)<br><br>2010-03-06 16:32<br>赞(0) 踩(0) | <div>sa</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17563)<br><br>2010-03-02 11:22<br>赞(0) 踩(0) | <div>很早就听到这首歌了。第一次就喜欢上了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/587963)<br><br>2010-01-23 14:34<br>赞(0) 踩(0) | <div>爱我别走</div> |

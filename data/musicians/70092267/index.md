@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5e493685fafb54a4cc0a542eb91bec54.png)<br>陈斐](https://i.xiami.com/haozi) | **播放数**: 2835249<br>**粉丝数**: 2610<br>**评论数**: 96<br>**地区**: China 中国大陆<br>**风格**: 民谣 Folk<br> |
+| [![](../../images/musicians/5e493685fafb54a4cc0a542eb91bec54.png)<br>陈斐](https://i.xiami.com/haozi) | **地区**: China 中国大陆<br>**风格**: 民谣 Folk<br>**播放数**: 2835249<br>**粉丝数**: 2610<br>**评论数**: 96<br> |
 
 ## 档案
 
@@ -32,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/159188)<br>拜托啦虾米，振作一点啦，...<br>2020-11-26 14:34<br>赞(0) 踩(0) | <div>真是好听啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-09-30 13:59<br>赞(0) 踩(0) | <div>20200930.94</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/436697379)<br><br>2020-01-22 12:51<br>赞(0) 踩(0) | <div>纯粹的声音很漂亮</div> |
@@ -73,7 +73,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47553700)<br> <br>2016-02-13 13:05<br>赞(0) 踩(0) | <div>加油 <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46216457)<br><br>2016-02-04 01:08<br>赞(0) 踩(0) | <div>求海浪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106459098)<br>大概 你是知道的<br>2016-02-02 17:57<br>赞(0) 踩(0) | <div>为什么没有海浪海浪海浪 找了好几个音乐软件了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82960490)<br>借我十年，借我生猛与莽撞...<br>2016-01-03 20:20<br>赞(2) 踩(0) | <div>喜欢陈粒她已经开始火了看到越来越的人喜欢她我纵然开心但总若有所失后悔没有在她还没有火的时候认识她后来发现了你很感恩希望你火但也希望你还是这样</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82960490)<br>借我十年，借我生猛与莽撞...<br>2016-01-03 20:20<br>赞(2) 踩(0) | <div>喜欢陈粒她已经开始火了看到越来越的人喜欢她我纵然开心但总若有所失后悔没有在她还没有火的时候认识她<br>后来发现了你很感恩希望你火但也希望你还是这样</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47553700)<br> <br>2015-12-25 13:03<br>赞(1) 踩(0) | <div>昨天在你的现场 第一次听 很棒  <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12501921)<br>众生轮回 因果循环<br>2015-12-26 12:49<br>赞(0) 踩(0) | <div>就是    牛逼</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47553700)<br> <br>2015-12-26 16:13<br>赞(0) 踩(0) | <div><q><b>XsleepX说：</b></q></div> |
@@ -82,7 +82,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30965707)<br>我喜欢的音乐大家都不喜欢...<br>2015-10-23 23:29<br>赞(0) 踩(0) | <div>浩子，11.22昆明见 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44162399)<br> <br>2015-10-21 23:11<br>赞(0) 踩(0) | <div>为何不来北方</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37135782)<br>暂无签名~<br>2015-10-26 16:58<br>赞(0) 踩(0) | <div>来了阿，看来你已经错过了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2279444)<br>爱在左，同情在右。<br>2015-09-16 17:33<br>赞(2) 踩(0) | <div>王梵瑞有点像朴树，你有点像王梵瑞，不过在是人是鬼都民谣的年代，你的作品质量真的算不错的，不是纯正的民谣，编曲还是加入不少流行的元素，不过好听就行，再接再厉，支持！来自android客户端</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2279444)<br>爱在左，同情在右。<br>2015-09-16 17:33<br>赞(2) 踩(0) | <div>王梵瑞有点像朴树，你有点像王梵瑞，不过在是人是鬼都民谣的年代，你的作品质量真的算不错的，不是纯正的民谣，编曲还是加入不少流行的元素，不过好听就行，再接再厉，支持！<br><br>来自android客户端</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37135782)<br>暂无签名~<br>2015-09-11 21:33<br>赞(0) 踩(0) | <div>2015.9.11天津13[文字up]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38710773)<br>暂无签名~<br>2015-08-30 17:47<br>赞(0) 踩(0) | <div>歌和声音一样清澈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11468198)<br>听的不是音乐是情绪<br>2015-08-11 17:33<br>赞(0) 踩(0) | <div>轻松愉悦的民谣</div> |

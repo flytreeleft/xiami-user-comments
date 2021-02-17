@@ -36,8 +36,8 @@ DON'T WANNA SAY ANYMORE , OH BABY<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17219554)<br><br>2020-11-30 08:02<br>赞(1) 踩(0) | <div>早安深圳！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54672698)<br>sensitive <br>2020-10-12 19:53<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27189624)<br>国家高级美发技师 考评员<br>2020-09-04 22:46<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -111,7 +111,7 @@ DON'T WANNA SAY ANYMORE , OH BABY<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11926073)<br>我还没想好要写什么...<br>2016-10-13 15:52<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37568307)<br>Be your own ...<br>2016-09-13 22:36<br>赞(0) 踩(0) | <div>dont wanna say anymore</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/593193)<br><br>2016-09-13 18:38<br>赞(1) 踩(0) | <div>很耐听～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16096828)<br>甜梦给晚风。<br>2016-09-10 00:04<br>赞(0) 踩(0) | <div>不愿再为谁等候不愿让你拆穿我的冷漠</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16096828)<br>甜梦给晚风。<br>2016-09-10 00:04<br>赞(0) 踩(0) | <div>不愿再为谁等候<br>不愿让你拆穿我的冷漠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16096828)<br>甜梦给晚风。<br>2016-09-10 00:03<br>赞(0) 踩(0) | <div>我宁愿寂寞。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16096828)<br>甜梦给晚风。<br>2016-09-10 00:03<br>赞(0) 踩(0) | <div>心中的话不想再说出口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29673915)<br> <br>2016-08-30 11:51<br>赞(0) 踩(0) | <div>时隔几年再听还是这么揪心</div> |
@@ -194,7 +194,7 @@ DON'T WANNA SAY ANYMORE , OH BABY<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8285355)<br><br>2012-07-23 09:09<br>赞(0) 踩(0) | <div>沉默的我…只是匆匆走过 心中的话 不想再说出口…idon't wanna say anymore</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5706186)<br> <br>2012-06-08 13:29<br>赞(0) 踩(0) | <div>^^初中开始。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100958)<br>神教會我等待。<br>2012-04-11 23:20<br>赞(0) 踩(0) | <div>許久沒聽楊乃文。今夜紅河摩卡陪伴我。我想盡情賞花。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287415)<br><br>2012-04-11 22:58<br>赞(0) 踩(0) | <div>爱情是一种无止尽的痛离开我现在你就走 我宁愿寂寞 直到天明</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287415)<br><br>2012-04-11 22:58<br>赞(0) 踩(0) | <div>爱情是一种无止尽的痛<br>离开我现在<br>你就走 我宁愿寂寞 直到天明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1672348)<br><br>2012-04-07 13:15<br>赞(0) 踩(0) | <div>爱上我只是你的错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1210303)<br>音乐带我跨过坎<br>2012-03-25 04:00<br>赞(0) 踩(0) | <div>这声音好有质感。尤其夜晚。反复听能恍惚，而后失眠一夜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6771698)<br>我还没想好要写什么...<br>2012-03-24 21:05<br>赞(0) 踩(0) | <div>有点共鸣喔。。。</div> |
@@ -216,4 +216,4 @@ DON'T WANNA SAY ANYMORE , OH BABY<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2030419)<br><br>2010-12-11 16:07<br>赞(0) 踩(0) | <div>不解释</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469996)<br><br>2010-04-10 16:08<br>赞(2) 踩(0) | <div>酒后的我有些寂寞，不知有谁真正在乎我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440673)<br><br>2009-12-24 14:37<br>赞(0) 踩(0) | <div>她的歌，爱这首。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246887)<br>音乐是一种想象<br>2009-11-09 18:01<br>赞(0) 踩(0) | <div>不好意思，添加错了- -。这首才是纯吉他伴奏，上一是纯钢琴伴奏。不一样的是伴奏，一样的是耐听。值得每句每句的玩味。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246887)<br>音乐是一种想象<br>2009-11-09 18:01<br>赞(0) 踩(0) | <div>不好意思，添加错了- -。<br>这首才是纯吉他伴奏，上一是纯钢琴伴奏。<br>不一样的是伴奏，一样的是耐听。<br>值得每句每句的玩味。</div> |

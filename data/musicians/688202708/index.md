@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f5341b374e99934c50f8de53ff281ab3.jpg)<br>李晓俊](https://i.xiami.com/lixiaojun) | **播放数**: 4243209<br>**粉丝数**: 182<br>**评论数**: 14<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/f5341b374e99934c50f8de53ff281ab3.jpg)<br>李晓俊](https://i.xiami.com/lixiaojun) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 国语流行 Mandarin Pop<br>**播放数**: 4243209<br>**粉丝数**: 182<br>**评论数**: 14<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -34,8 +31,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426719884)<br><br>2021-01-20 09:53<br>赞(0) 踩(0) | <div>我们应该向他学习</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409425481)<br><br>2019-03-19 17:38<br>赞(0) 踩(0) | <div>老师，求指点啊，教教技巧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375580942)<br><br>2018-07-18 19:16<br>赞(2) 踩(0) | <div>为什么不火不应该啊</div> |

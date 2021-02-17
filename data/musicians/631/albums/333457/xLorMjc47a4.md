@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7023)<br>长期缓慢持续收藏林一峰演...<br>2018-12-16 01:37<br>赞(0) 踩(0) | <div>20170506爱丁堡mark</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10522709)<br>褵褷鹤<br>2015-08-14 12:01<br>赞(0) 踩(0) | <div>A melody from Royal Mile..? :D</div> |

@@ -3,7 +3,7 @@ Egor Grushin
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0ae295f3ea6ce30e006166be97eaa836.jpg)<br>Egor Grushin](https://i.xiami.com/egorgrushin) | **播放数**: 2341606<br>**粉丝数**: 1917<br>**评论数**: 82<br>**地区**: Ukraine 乌克兰<br>**风格**: 室内乐 / 重奏 Chamber Music, 器乐独奏 Solo Instrumental, 现代古典 Modern Classical, 电影原声 Film Score, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/0ae295f3ea6ce30e006166be97eaa836.jpg)<br>Egor Grushin](https://i.xiami.com/egorgrushin) | **地区**: Ukraine 乌克兰<br>**风格**: 室内乐 / 重奏 Chamber Music, 器乐独奏 Solo Instrumental, 现代古典 Modern Classical, 电影原声 Film Score, 轻音乐 Easy Listening<br>**播放数**: 2341606<br>**粉丝数**: 1917<br>**评论数**: 82<br> |
 
 ## 档案
 
@@ -26,8 +26,8 @@ Egor Grushin
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6024992)<br>夏天<br>2020-12-30 22:01<br>赞(0) 踩(0) | <div>༄</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3250268)<br>一首好歌都比爱一个人长久...<br>2020-10-24 12:15<br>赞(0) 踩(0) | <div>好喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218378303)<br>静<br>2020-07-17 15:42<br>赞(0) 踩(0) | <div>沙发</div> |
@@ -109,4 +109,4 @@ Egor Grushin
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50812128)<br>_<br>2016-11-08 23:57<br>赞(0) 踩(0) | <div>♪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40080369)<br>.<br>2016-08-15 11:03<br>赞(0) 踩(0) | <div>〔〕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50664322)<br>我还没想好要写什么...<br>2016-07-11 10:41<br>赞(0) 踩(0) | <div>/</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7340280)<br>大夢愚蠢<br>2016-07-08 13:26<br>赞(25) 踩(0) | <div>已提交音乐人：Egor Grushin《Absolution》，《Dominicano》，《Ocean (Piano Solo)》《Sparkle》，《Once》，及最新专辑《Solo Piano Works - Volume One》如有误，待补充正在上传</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7340280)<br>大夢愚蠢<br>2016-07-08 13:26<br>赞(25) 踩(0) | <div>已提交音乐人：Egor Grushin<br>《Absolution》，《Dominicano》，《Ocean (Piano Solo)》<br>《Sparkle》，《Once》，及最新专辑《Solo Piano Works - Volume One》<br>如有误，待补充<br>正在上传</div> |

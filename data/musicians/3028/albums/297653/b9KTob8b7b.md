@@ -49,8 +49,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215680)<br>我还没想好要写什么...<br>2020-07-26 20:35<br>赞(0) 踩(0) | <div>请问有人知道这首和蔡明亮的电影有关系吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248022666)<br>嘻嘻，保持快乐啊。<br>2020-07-16 18:25<br>赞(0) 踩(0) | <div>我会勇敢的抓住你.努力长出强有力的双手和坚如磐石的心.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248022666)<br>嘻嘻，保持快乐啊。<br>2020-07-09 15:45<br>赞(0) 踩(0) | <div>抓不住就吃掉它</div> |
@@ -66,7 +66,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9150806)<br><br>2016-07-14 01:03<br>赞(0) 踩(0) | <div>单纯得只有黑白</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13835947)<br><br>2016-06-23 19:05<br>赞(0) 踩(0) | <div>最喜欢这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47515132)<br> <br>2016-06-23 01:25<br>赞(0) 踩(0) | <div>☁️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43637501)<br><br>2016-06-22 11:17<br>赞(0) 踩(0) | <div>像天那边一朵云我们的眼神和姿态像天那边一朵云我们的行走和声音像一朵云一朵云 而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43637501)<br><br>2016-06-22 11:17<br>赞(0) 踩(0) | <div>像天那边一朵云<br>我们的眼神和姿态<br>像天那边一朵云<br>我们的行走和声音<br>像一朵云<br>一朵云 而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9598404)<br> <br>2016-05-09 13:50<br>赞(0) 踩(0) | <div>风一吹 誓言就凌乱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47451620)<br>静悄悄地做人 听音乐 写...<br>2016-05-07 02:31<br>赞(0) 踩(0) | <div>左耳朵要怀孕了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14017096)<br>耳馋<br>2016-05-05 19:29<br>赞(0) 踩(0) | <div>太喜欢了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -89,7 +89,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47265960)<br><br>2016-03-24 19:03<br>赞(0) 踩(0) | <div>写的好好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28156968)<br> <br>2016-01-30 20:17<br>赞(0) 踩(0) | <div>天边一朵云</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45114829)<br>我还没想好要写什么...<br>2016-01-28 09:12<br>赞(1) 踩(0) | <div>听着听着就单身了...有毒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11710211)<br><br>2016-01-23 12:40<br>赞(0) 踩(0) | <div>骚好骚真的好骚来自闷的骚 <img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11710211)<br><br>2016-01-23 12:40<br>赞(0) 踩(0) | <div>骚<br>好骚<br>真的好骚<br>来自闷的骚 <img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/544871)<br><br>2016-01-21 23:05<br>赞(1) 踩(0) | <div>个人一直觉得这是他们最棒的一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15930103)<br>秋天再见 不在湖前 <br>2016-01-19 11:37<br>赞(1) 踩(0) | <div>一朵云的一生抓不住另一朵云</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39000413)<br> <br>2016-01-09 23:45<br>赞(0) 踩(0) | <div>嗯！</div> |
@@ -212,14 +212,14 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32390041)<br>我还没想好要写什么...<br>2014-11-13 10:48<br>赞(0) 踩(0) | <div>空山是？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20674040)<br>我还没想好要写什么...<br>2014-09-02 22:38<br>赞(0) 踩(0) | <div>有好歌伴入眠~晚安~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/812338)<br><br>2014-08-29 21:52<br>赞(0) 踩(0) | <div>风一吹 誓言就凌乱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1006934)<br>我还没想好要写什么...<br>2014-08-28 23:29<br>赞(0) 踩(0) | <div>一朵云的一生抓不住另一朵云像穷人把流浪叫做自由</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1006934)<br>我还没想好要写什么...<br>2014-08-28 23:29<br>赞(0) 踩(0) | <div>一朵云的一生<br>抓不住另一朵云<br>像穷人把流浪叫做自由</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9301514)<br>独立唱作人<br>2014-08-28 14:22<br>赞(0) 踩(0) | <div>原版最迷人，抓人灵魂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12953882)<br>成熟了亦诚实了亦承受了。<br>2014-08-21 13:51<br>赞(0) 踩(0) | <div>一朵云 一朵云 而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30241256)<br><br>2014-08-21 13:37<br>赞(0) 踩(0) | <div>好听到哭了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1662330)<br>白开水和爱情是我永远的信<br>2014-08-21 10:43<br>赞(0) 踩(0) | <div>还是原版最有感觉。一朵云的一生，抓不住另一朵云，像穷人把流浪叫做自由</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36297191)<br>我等你。<br>2014-08-21 06:18<br>赞(0) 踩(0) | <div>包完夜，走出网吧，看着微微发白的天空，天边的一朵云。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39621064)<br><br>2014-08-19 00:20<br>赞(0) 踩(0) | <div>穷人把流浪叫做自由</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430398)<br><br>2014-08-17 11:35<br>赞(0) 踩(0) | <div>歌词写得好哀伤和超脱啊...越是这样的歌词就越让人感慨这歌词后经历的世事。也许是因为 “像一朵云  一朵云  而已”竟让我想起 Coldplay的 fly on/O, &amp;quot;Just a flock of birds...that&amp;#039;s how you think of love &amp;quot;...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430398)<br><br>2014-08-17 11:35<br>赞(0) 踩(0) | <div>歌词写得好哀伤和超脱啊...越是这样的歌词就越让人感慨这歌词后经历的世事。<br><br>也许是因为 “像一朵云  一朵云  而已”竟让我想起 Coldplay的 fly on/O, &amp;quot;Just a flock of birds...<br>that&amp;#039;s how you think of love &amp;quot;...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28421)<br><br>2014-08-17 09:54<br>赞(0) 踩(0) | <div>当时都特别惊讶，居然真的有人唱声碎~~~~识货的主</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11116235)<br><br>2014-08-16 03:19<br>赞(0) 踩(0) | <div>安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39772499)<br><br>2014-08-15 23:24<br>赞(0) 踩(0) | <div>好感动。</div> |
@@ -327,13 +327,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12044120)<br><br>2013-04-16 16:21<br>赞(0) 踩(0) | <div>nice @jeremy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11805394)<br><br>2013-04-14 16:42<br>赞(0) 踩(0) | <div>适合下午的歌，“像天那边，一朵云”——这句响起来的时候，空气也流动了。话说蔡明亮的电影里，这是我唯一欣赏得来的一部……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3440959)<br> 動物兇猛 | 室內滂沱<br>2013-03-26 21:13<br>赞(0) 踩(0) | <div>贼好听啊！！！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5822155)<br><br>2013-03-13 09:22<br>赞(0) 踩(0) | <div>一朵云的色彩单纯得只有黑白彩虹像善意的谎言一朵云的骄傲轻浮得没有重量风一吹誓言就凌乱像天那边一朵云我们的眼神和姿态像天那边一朵云我们的行走和声音像一朵云一朵云 而已   @liujinlong_metal  绝对不是你喜欢的调调</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5822155)<br><br>2013-03-13 09:22<br>赞(0) 踩(0) | <div>一朵云的色彩<br>单纯得只有黑白<br>彩虹像善意的谎言<br>一朵云的骄傲<br>轻浮得没有重量<br>风一吹<br>誓言就凌乱<br><br>像天那边一朵云<br>我们的眼神和姿态<br>像天那边一朵云<br>我们的行走和声音<br>像一朵云<br>一朵云 而已   @liujinlong_metal  绝对不是你喜欢的调调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8225944)<br><br>2013-02-14 23:28<br>赞(0) 踩(0) | <div>碎觉！晚安！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/899568)<br><br>2013-02-06 23:49<br>赞(0) 踩(0) | <div>《天边一朵云》是@声音碎片 所有歌曲里我最喜欢的一首，平静中波涛汹涌，压抑里孤独疏离。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9176999)<br><br>2013-01-21 13:57<br>赞(0) 踩(0) | <div>歌词顶好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-01-18 06:26<br>赞(0) 踩(0) | <div>像天那边一朵云我们的眼神和姿态像天那边一朵云我们的行走和声音像一朵云一朵云 而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-01-18 06:26<br>赞(0) 踩(0) | <div>像天那边一朵云<br>我们的眼神和姿态<br>像天那边一朵云<br>我们的行走和声音<br>像一朵云<br>一朵云 而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45821)<br><br>2013-01-10 12:25<br>赞(0) 踩(0) | <div>突然跳到这首歌，心里突然温暖了 。 ❤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/683851)<br><br>2013-01-07 18:44<br>赞(0) 踩(0) | <div>生命非常享受之轻 优美靡靡的融化掉了一朵云的骄傲 轻浮得没有重量</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/683851)<br><br>2013-01-07 18:44<br>赞(0) 踩(0) | <div>生命非常享受之轻 优美靡靡的融化掉了<br><br>一朵云的骄傲 轻浮得没有重量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11089915)<br>快速演奏的秘诀是从慢开始<br>2012-10-17 11:39<br>赞(0) 踩(0) | <div>快速演奏的秘诀就是从慢开始······</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5451531)<br>You Should A<br>2012-10-08 04:22<br>赞(0) 踩(0) | <div>争取待天亮倒数2hours蹦着出门</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4381244)<br><br>2012-09-19 10:31<br>赞(0) 踩(0) | <div>好美</div> |
@@ -355,7 +355,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2873726)<br>还在吗？<br>2012-01-13 00:07<br>赞(0) 踩(0) | <div>谢谢 @小光热 的推荐 喜欢得不得了 真了解我的口味。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6358476)<br><br>2012-01-01 10:56<br>赞(0) 踩(0) | <div>像天那边一朵云,我们的眼神和姿态.像天那边一朵云,我们的行走和声音.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7089014)<br><br>2011-12-07 01:36<br>赞(0) 踩(0) | <div>晚安,该死的**簿.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/654068)<br> <br>2011-12-02 10:21<br>赞(0) 踩(0) | <div>一朵云的骄傲轻浮得没有重量风一吹誓言就凌乱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/654068)<br> <br>2011-12-02 10:21<br>赞(0) 踩(0) | <div>一朵云的骄傲<br>轻浮得没有重量<br>风一吹<br>誓言就凌乱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1285999)<br>不想说…<br>2011-11-28 14:56<br>赞(0) 踩(0) | <div>╮(╯_╰)╭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4754441)<br><br>2011-11-24 18:19<br>赞(0) 踩(0) | <div>一朵云的色彩  单纯得只有黑白</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2117322)<br><br>2011-11-15 07:20<br>赞(0) 踩(0) | <div>为嘛如此颓废的一首歌，我越听越亢奋。。</div> |

@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4743261)<br><br>2020-03-25 01:00<br>赞(0) 踩(0) | <div>我真的很想念内蒙小城的生活，在我去那里之前，从来没想过，在中国会有那么空旷的地方。当然，大碗喝酒，大口吃肉，不光有所耳闻，到了也是亲眼所见。有可能还会去内蒙小城，可肯定是物是人非了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5877617)<br><br>2019-11-07 08:01<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197902909)<br>真正非主流<br>2016-07-15 21:47<br>赞(0) 踩(0) | <div>布喂布喂</div> |

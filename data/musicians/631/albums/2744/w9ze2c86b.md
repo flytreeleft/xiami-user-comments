@@ -57,8 +57,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223580076)<br>达达<br>2021-01-17 18:33<br>赞(0) 踩(0) | <div>又有我阿哥林一峰既:离开是为了回来，即系教你死缠烂打~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410182038)<br><br>2020-09-04 16:41<br>赞(0) 踩(0) | <div>死缠烂打哈哈 妹妹神吐槽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10936044)<br><br>2020-04-11 15:28<br>赞(0) 踩(0) | <div>超喜欢的一首歌，谢谢一峰</div> |
@@ -70,7 +70,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11357012)<br>感谢音乐让我觉得生活还没...<br>2018-05-19 12:55<br>赞(2) 踩(0) | <div>歌词太戳心~离开是为了回来！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54534207)<br>再见，感谢虾米音乐深夜的...<br>2018-04-24 22:47<br>赞(1) 踩(0) | <div>假如灵魂不死，道别就不算什么，说再见只是为了否定分离，所有的离开都会回来&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3481899)<br><br>2017-10-30 09:56<br>赞(3) 踩(0) | <div>老妈送我去香港坐飞机前一天，在出租车的收音机里神奇的播了这首歌。“明天就要飞走，朋友都轻松的和我说，一路顺风。”在heathrow机场下飞机，又回到了漫长的7个小时的时差，但是正如这首歌唱的那样，离开是为了回来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355708)<br><br>2017-10-28 00:22<br>赞(4) 踩(0) | <div>结束有时为了重新开始 干杯有时为了再添一次颠波旅途为了记忆灿烂 偶尔下雨为了温暖阳光回忆甜蜜因为快乐短暂 快乐短暂为了痛哭一场告别为了怕太专心去爱 最后忘记世间的色彩离开是为了回来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355708)<br><br>2017-10-28 00:22<br>赞(4) 踩(0) | <div>结束有时为了重新开始 干杯有时为了再添一次<br>颠波旅途为了记忆灿烂 偶尔下雨为了温暖阳光<br>回忆甜蜜因为快乐短暂 快乐短暂为了痛哭一场<br>告别为了怕太专心去爱 最后忘记世间的色彩<br>离开是为了回来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/132374182)<br>唔duck<br>2016-05-11 00:16<br>赞(2) 踩(0) | <div>不是我吹国语真的好腊鸭啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115277630)<br>旧日憾事怕未能偿还<br>2017-12-27 19:37<br>赞(0) 踩(0) | <div>哈哈哈哈唔系腊鸭系垃圾，麦兜梗～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2750042)<br>Time will te...<br>2016-04-22 21:31<br>赞(1) 踩(0) | <div>一峰的主题曲…</div> |
@@ -86,7 +86,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6791553)<br> <br>2012-04-16 00:20<br>赞(0) 踩(0) | <div>@</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6654269)<br><br>2012-04-15 18:18<br>赞(0) 踩(0) | <div>告别为了怕太专心去爱 最后忘记世间的色彩。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1194270)<br>我还没想好要写什么...<br>2012-04-08 13:00<br>赞(1) 踩(0) | <div>太喜欢这首歌了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7066918)<br><br>2012-03-04 18:18<br>赞(0) 踩(0) | <div>收拾衣柜居然用了 一下午·········累死了！离开是为了回来。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7066918)<br><br>2012-03-04 18:18<br>赞(0) 踩(0) | <div>收拾衣柜居然用了 一下午·········累死了！<br>离开是为了回来。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26339272)<br><br>2015-09-18 00:09<br>赞(0) 踩(0) | <div>哈哈哈 啥意思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5407543)<br>暂无签名~<br>2011-11-04 22:13<br>赞(0) 踩(0) | <div>“告别为了怕太专心去爱 最后忘记世间的色彩” 词写的真好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3877391)<br><br>2011-07-02 14:06<br>赞(1) 踩(0) | <div>离开不代表就能放弃一切。</div> |
@@ -94,7 +94,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7877)<br><br>2011-05-25 12:22<br>赞(0) 踩(0) | <div>那些放不下的人事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1296817)<br>我还没想好要写什么...<br>2011-02-03 19:58<br>赞(2) 踩(0) | <div>林一峰的国语发音就是很可爱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/480745)<br><br>2010-02-05 13:46<br>赞(0) 踩(0) | <div>离开是为了回来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2009-12-01 23:05<br>赞(1) 踩(0) | <div>儿化音好惊艳……不过还是喜欢粤语版：）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2009-12-01 23:05<br>赞(1) 踩(0) | <div>儿化音好惊艳……<br>不过还是喜欢粤语版：）</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51800191)<br><br>2016-08-10 10:07<br>赞(0) 踩(0) | <div>你好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118334)<br><br>2009-07-25 19:52<br>赞(0) 踩(0) | <div>离开是为了回来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/882)<br><br>2009-07-02 03:21<br>赞(0) 踩(0) | <div>何德何能</div> |

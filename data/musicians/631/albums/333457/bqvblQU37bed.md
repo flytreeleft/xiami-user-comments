@@ -66,7 +66,7 @@ Close your eyes, rest your mind<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7023)<br>长期缓慢持续收藏林一峰演...<br>2018-12-16 01:31<br>赞(0) 踩(0) | <div>20180916在纽约错过上海混凝草音乐节mark</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9437202)<br>我还没想好要写什么...<br>2016-06-04 11:07<br>赞(2) 踩(0) | <div>安静下来，静静守候</div> |

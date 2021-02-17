@@ -71,5 +71,3 @@ Cha na na na na na na cha na na na na na na
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e944185cc72fc966987d8fd2a2fd8ee9.jpg)<br>夏小虎](https://i.xiami.com/xiaxiaohu) | **播放数**: 22217430<br>**粉丝数**: 15092<br>**评论数**: 218<br>**地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/e944185cc72fc966987d8fd2a2fd8ee9.jpg)<br>夏小虎](https://i.xiami.com/xiaxiaohu) | **地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk<br>**播放数**: 22217430<br>**粉丝数**: 15092<br>**评论数**: 218<br> |
 
 ## 档案
 
@@ -41,8 +41,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405382342)<br>望书，喝茶，音乐，凡人一...<br>2020-09-30 22:43<br>赞(0) 踩(0) | <div>同乡，你好！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405767144)<br><br>2020-04-10 09:27<br>赞(0) 踩(0) | <div>老哥，听到了太多的新歌儿，比起新歌儿来我喜欢老歌儿，老到巫启贤，李宗盛，高明骏，赵传，甚至梅艳芳。因为很少有新歌儿是用来品的，仅仅听完就过去了，但你的歌曲都有故事，甚至这些故事有可能有人正在经历着，我挺你我是一个99年的小弟弟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250689206)<br>不求人生辉煌，但求一生无...<br>2020-02-08 07:19<br>赞(1) 踩(0) | <div>很喜欢你的歌，你的声音。</div> |
@@ -81,7 +81,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347846241)<br><br>2018-02-28 00:54<br>赞(1) 踩(0) | <div>第一次听你的歌，是在朋友的花屋，从此深深喜欢上你的风格，特别是歌词，触动灵魂，最近重复听着《自拔》，我的爱人不知道我为什么深爱这首歌，只能说，对青春爱情的一种救赎吧，原来一切都可以这样的美好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252136412)<br><br>2018-02-19 13:05<br>赞(0) 踩(0) | <div>头一次听你的歌，但是就离不开了，每首歌都那么好听，一口气把所有的都听了一遍</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276893584)<br><br>2018-02-18 14:09<br>赞(1) 踩(0) | <div>午后时分有你的歌声陪伴，悄然而过&amp;hellip;&amp;hellip;</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332320521)<br>圆滑的三角形。。<br>2018-02-17 16:43<br>赞(0) 踩(0) | <div>大叔，加油(ง &amp;bull;̀_&amp;bull;́)ง我00后，叫你大叔没问题吧？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332320521)<br>圆滑的三角形。。<br>2018-02-17 16:43<br>赞(0) 踩(0) | <div>大叔，加油(ง &amp;bull;̀_&amp;bull;́)ง<br>我00后，叫你大叔没问题吧？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326811140)<br><br>2018-02-10 23:45<br>赞(0) 踩(0) | <div>太棒的 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346705584)<br><br>2018-02-10 20:42<br>赞(0) 踩(0) | <div>来沈阳的时候来演唱会的时候说一下，一定要去 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202241832)<br> <br>2018-02-10 00:13<br>赞(0) 踩(0) | <div>很喜欢</div> |
@@ -258,6 +258,6 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320545647)<br>我还没想好要写什么...<br>2017-11-24 22:52<br>赞(0) 踩(0) | <div>喜欢你，支持你，一直在微博关注你很久了，加油</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338353331)<br><br>2017-12-03 21:22<br>赞(0) 踩(0) | <div>喜欢听你唱歌，好听，</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246017541)<br><br>2017-12-26 22:57<br>赞(0) 踩(0) | <div>有实力，好歌！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247143670)<br>我只是不想做～<br>2018-01-29 11:30<br>赞(0) 踩(0) | <div>尊称一声虎哥，虽同龄，可比我年长了四天。听你的歌有几年，推荐给过朋友基本给我的反馈都是&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;大爱虎哥！一七年初我辞了工作，每天就是看风景/音乐/弹琴、还有书和茶，偶尔晚上会喝点酒，约三两个好友聊聊天小酌几杯。完全放空了自己之后，出走了大半年，跨越了南北一路上你的很多歌都有我的映射，好像就写的是我一样。真心感谢虎哥，你的音乐也曾陪我度过过很长一段类似于&amp;ldquo;抑郁&amp;rdquo;的日子，庆幸自愈挺了过来。那段时间就是听三个人的歌，还有许巍和赵雷。说起了赵雷，虽然他火了之后，在我们歌迷来讲，有点&amp;ldquo;心理纠结&amp;rdquo;的感觉，就好像失恋了一样的！可更多的还是会替他高兴。2018新年，衷心祝愿虎哥也尽早的火起来。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247143670)<br>我只是不想做～<br>2018-01-29 11:30<br>赞(0) 踩(0) | <div>尊称一声虎哥，虽同龄，可比我年长了四天。听你的歌有几年，推荐给过朋友基本给我的反馈都是&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;大爱虎哥！<br>一七年初我辞了工作，每天就是看风景/音乐/弹琴、还有书和茶，偶尔晚上会喝点酒，约三两个好友聊聊天小酌几杯。完全放空了自己之后，出走了大半年，跨越了南北一路上你的很多歌都有我的映射，好像就写的是我一样。真心感谢虎哥，你的音乐也曾陪我度过过很长一段类似于&amp;ldquo;抑郁&amp;rdquo;的日子，庆幸自愈挺了过来。那段时间就是听三个人的歌，还有许巍和赵雷。说起了赵雷，虽然他火了之后，在我们歌迷来讲，有点&amp;ldquo;心理纠结&amp;rdquo;的感觉，就好像失恋了一样的！可更多的还是会替他高兴。2018新年，衷心祝愿虎哥也尽早的火起来。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328171947)<br><br>2018-04-30 23:42<br>赞(0) 踩(0) | <div>小虎加油 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331877585)<br><br>2018-10-05 23:45<br>赞(0) 踩(0) | <div>基本每首都喜欢，每次画画的时候就听，感谢孤独时候有你的歌陪伴。</div> |

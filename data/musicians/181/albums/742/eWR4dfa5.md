@@ -33,8 +33,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444151935)<br>1.音乐不能让你大富大贵...<br>2020-12-12 21:47<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9846029)<br>我还没想好要写什么...<br>2020-11-29 22:33<br>赞(0) 踩(0) | <div>听这首歌是第四年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11946092)<br>我还没想好要写什么...<br>2020-08-23 01:00<br>赞(1) 踩(0) | <div></div> |
@@ -60,20 +60,20 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405166945)<br><br>2018-10-26 20:34<br>赞(5) 踩(0) | <div>阿弥陀佛 阿弥陀佛 阿弥陀佛 阿弥陀佛 阿弥陀佛 阿弥陀佛 阿弥陀佛 阿弥陀佛 阿弥陀佛 阿弥陀佛 南无阿弥陀佛 欢喜赞叹 随喜功德  愿同发菩提心共生极乐国</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328299034)<br> <br>2018-10-24 08:02<br>赞(3) 踩(0) | <div>今日付出，明日有希望。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292817194)<br><br>2018-10-08 14:09<br>赞(2) 踩(0) | <div>纯粹的声音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271392155)<br><br>2018-09-30 15:45<br>赞(3) 踩(0) | <div>海贼王最新主题曲Hope虾米真机智 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337381553)<br><br>2018-09-06 01:50<br>赞(2) 踩(0) | <div>你别介意，原来喜欢一个人，真的会就变傻，而且有时傻到想掐死自己，作为初懂感性的看这世界的我来说，这点倒是透彻&amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271392155)<br><br>2018-09-30 15:45<br>赞(3) 踩(0) | <div>海贼王最新主题曲Hope<br>虾米真机智 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337381553)<br><br>2018-09-06 01:50<br>赞(2) 踩(0) | <div>你别介意，<br>原来喜欢一个人，<br>真的会就变傻，<br>而且有时傻到想掐死自己，<br>作为初懂感性的看这世界的我来说，<br>这点倒是透彻&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376433962)<br><br>2018-08-08 00:01<br>赞(2) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/520700)<br>生活的恩典是自己给的<br>2018-08-04 14:48<br>赞(3) 踩(0) | <div>童声非常好听 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259688873)<br><br>2018-06-17 19:00<br>赞(1) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1745864)<br>愿你健康快乐，远离一切苦<br>2018-06-10 22:39<br>赞(19) 踩(0) | <div>孤独是什么？孤独是我在别人的车里听到相逢的歌，我却想到了星月神话的你我回到静夜的屋子里，雨声童声琴声响起，竟又想到了你琴声瑟瑟，吾心萧萧，吾拥此般多念受，终年不肯与君言。愿不知、不觉、不晓当我薄情载一船似水流年入简山2018.6.10于燕园</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1745864)<br>愿你健康快乐，远离一切苦<br>2018-06-10 22:39<br>赞(19) 踩(0) | <div>孤独是什么？<br>孤独是我在别人的车里听到相逢的歌，我却想到了星月神话的你<br>我回到静夜的屋子里，雨声童声琴声响起，竟又想到了你<br><br>琴声瑟瑟，吾心萧萧，<br>吾拥此般多念受，终年不肯与君言。<br><br>愿不知、不觉、不晓<br>当我薄情载一船<br>似水流年入简山<br><br>2018.6.10于燕园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316676425)<br><br>2018-05-29 14:49<br>赞(2) 踩(0) | <div>这个竟然没有听吗，喜欢这种声音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359504216)<br><br>2018-04-29 11:03<br>赞(14) 踩(0) | <div>你若微笑，就是一片阳光，就是一缕清风，就是一滴春雨，就是一弯明月，就是一朵鲜花，就是一抹美丽&amp;hellip;&amp;hellip;把微笑挂在脸上，开成一朵永不凋谢的心花，带给世界温馨，带给人间灿烂&amp;hellip;&amp;hellip;善因善果，一念之间，一念之慈，万物有灵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332626522)<br>人生就是一场修行<br>2018-04-13 04:20<br>赞(6) 踩(0) | <div>何谓希望？邓先生通过童声吟诵使人顿悟：在幼小的心灵里播下善的种子即为希望！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39472526)<br>我是笨小孩。<br>2018-03-18 22:56<br>赞(2) 踩(0) | <div>沉静如海。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334205404)<br>养心斋<br>2018-02-16 05:41<br>赞(3) 踩(0) | <div>邓伟标的赞</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-02-10 21:07<br>赞(38) 踩(0) | <div>当我们深深爱上自己，我们会像疼爱孩子一样疼爱自己，会像迷恋爱人一样迷恋自己。当你对自己的疼爱、怜爱、喜爱超过所有的一切，你就开始明了生命的真谛，那是生命存在的唯一答案，是我们来到这个世界的唯一目的[玫瑰][玫瑰][玫瑰] <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-02-10 21:07<br>赞(38) 踩(0) | <div>当我们深深爱上自己，我们会像疼爱孩子一样疼爱自己，会像迷恋爱人一样迷恋自己。<br>当你对自己的疼爱、怜爱、喜爱超过所有的一切，你就开始明了生命的真谛，那是生命存在的唯一答案，是我们来到这个世界的唯一目的[玫瑰][玫瑰][玫瑰] <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135184192)<br>一儿俩女的人生梦想<br>2018-10-26 03:15<br>赞(0) 踩(0) | <div>同感</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-02-10 21:06<br>赞(6) 踩(0) | <div>当我们深深爱上自己，我们会像疼爱孩子一样疼爱自己，会像迷恋爱人一样迷恋自己。当你对自己的疼爱、怜爱、喜爱超过所有的一切，你就开始明了生命的真谛，那是生命存在的唯一答案，是我们来到这个世界的唯一目的[玫瑰][玫瑰][玫瑰]</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-02-10 21:06<br>赞(6) 踩(0) | <div>当我们深深爱上自己，我们会像疼爱孩子一样疼爱自己，会像迷恋爱人一样迷恋自己。<br>当你对自己的疼爱、怜爱、喜爱超过所有的一切，你就开始明了生命的真谛，那是生命存在的唯一答案，是我们来到这个世界的唯一目的[玫瑰][玫瑰][玫瑰]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234098644)<br><br>2017-12-27 23:02<br>赞(4) 踩(0) | <div>让心灵沉静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331242163)<br><br>2017-11-05 22:43<br>赞(3) 踩(0) | <div>沉淀自己的心灵音乐，这首，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11953046)<br>诸行无常，歌之咏之。<br>2017-10-26 16:48<br>赞(1) 踩(0) | <div>……</div> |
@@ -122,7 +122,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8814991)<br><br>2012-04-26 20:49<br>赞(1) 踩(0) | <div>我快要被净化了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2224087)<br><br>2011-12-10 20:25<br>赞(1) 踩(0) | <div>空灵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233645)<br><br>2011-07-24 16:20<br>赞(1) 踩(0) | <div>静</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2011-03-27 23:22<br>赞(64) 踩(0) | <div>闭上眼睛，你可曾看见心灵流动的光波，辗转于风雨后的鸟鸣蝉影，阳光穿梭林叶间，幽幽的雨季，空灵的梵音，纯净的空气，轻轻地触摸我们柔软的心灵。天堂在哪里？天堂在心里！希望在哪里？希望在人间！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2011-03-27 23:22<br>赞(64) 踩(0) | <div>闭上眼睛，你可曾看见心灵流动的光波，辗转于风雨后的鸟鸣蝉影，阳光穿梭林叶间，幽幽的雨季，空灵的梵音，纯净的空气，轻轻地触摸我们柔软的心灵。天堂在哪里？天堂在心里！<br><br>希望在哪里？希望在人间！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135184192)<br>一儿俩女的人生梦想<br>2018-10-26 03:16<br>赞(0) 踩(0) | <div>好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135184192)<br>一儿俩女的人生梦想<br>2018-10-26 03:17<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2966852)<br>简单<br>2011-03-04 01:19<br>赞(1) 踩(0) | <div>晚安</div> |

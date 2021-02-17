@@ -73,8 +73,8 @@ Woo oh oh wow Woo oh oh wow<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6208903)<br>♚♛♡♥Loomis T...<br>2020-12-07 19:05<br>赞(0) 踩(0) | <div>扎西最喜欢的乐队 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439377703)<br>浮生若夢 為歡幾何<br>2020-11-13 06:27<br>赞(0) 踩(0) | <div>好聽好聽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-11-09 10:46<br>赞(0) 踩(0) | <div>好</div> |
@@ -82,12 +82,12 @@ Woo oh oh wow Woo oh oh wow<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353770149)<br>我还没想好要写什么...<br>2020-08-11 17:03<br>赞(0) 踩(0) | <div>吉他太好听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401921484)<br><br>2020-07-29 02:33<br>赞(1) 踩(0) | <div>扎西德勒</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22983079)<br>音乐是陪伴，是朋友。<br>2020-09-16 00:25<br>赞(0) 踩(0) | <div>扎西德勒兄弟</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96169794)<br><br>2020-07-25 20:01<br>赞(1) 踩(0) | <div>这是因为你是我的朋友现在你是我的一个朋友</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96169794)<br><br>2020-07-25 20:01<br>赞(1) 踩(0) | <div>这是因为你是我的朋友<br>现在你是我的一个朋友</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79098374)<br>纵浪大化中，不喜亦不惧<br>2020-06-30 15:40<br>赞(0) 踩(0) | <div>痛痒的词曲都有魔性。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423085157)<br><br>2020-05-23 07:42<br>赞(0) 踩(0) | <div>这首歌让我想起小学下午放学，几个小伙伴并列着回家，迎着风，敞开的衬衫被吹的向后扬起，对未来充满希望，幻想自己是古代的大侠，那时候真好啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432468851)<br>往日情怀总是诗<br>2020-05-07 06:23<br>赞(1) 踩(0) | <div>前奏 <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png">真的骚，好听，层次感特别好，吉他有特点，编曲配乐绝了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17149618)<br>。<br>2020-04-12 17:07<br>赞(0) 踩(0) | <div>嗯</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285176202)<br>不要停止我的音乐<br>2020-03-13 16:54<br>赞(0) 踩(0) | <div>听到痛仰的歌 就俩字 感动！带着爱的温暖的你们 ❤️</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285176202)<br>不要停止我的音乐<br>2020-03-13 16:54<br>赞(0) 踩(0) | <div>听到痛仰的歌 就俩字 感动！<br>带着爱的温暖的你们 ❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362372187)<br>rain<br>2020-03-04 19:19<br>赞(1) 踩(0) | <div>扎西德勒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440322566)<br>我还没想好要写什么...<br>2020-02-15 20:03<br>赞(1) 踩(0) | <div>第一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327895580)<br>生活中有你和儿子，幸福满...<br>2020-02-12 23:49<br>赞(0) 踩(0) | <div>只去过一个见面就说扎西德勒的地方，景色很好</div> |
@@ -104,7 +104,7 @@ Woo oh oh wow Woo oh oh wow<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109025202)<br>我<br>2019-08-15 21:23<br>赞(1) 踩(0) | <div>扎西德勒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196694365)<br>九锥盛世<br>2019-08-13 10:04<br>赞(2) 踩(0) | <div>去问候远方，打开行装</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335999956)<br><br>2019-08-08 23:28<br>赞(2) 踩(0) | <div>前奏太喜欢～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408042949)<br><br>2019-07-23 17:14<br>赞(1) 踩(0) | <div>青藏线的面包车玩命穿越四千公里直取藏区，正月里的冰雪和寒风伴随我们这一路同行对于旅行这一方面 总是一次次的又突破但人生上并没有</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408042949)<br><br>2019-07-23 17:14<br>赞(1) 踩(0) | <div>青藏线的面包车玩命穿越四千公里直取藏区，<br>正月里的冰雪和寒风伴随我们这一路同行<br>对于旅行这一方面 总是一次次的又突破<br>但人生上并没有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6433370)<br><br>2019-07-22 19:28<br>赞(0) 踩(0) | <div>MD,好听，层次感特别好，吉他有特点，编曲配乐绝了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246402826)<br><br>2019-07-12 08:13<br>赞(1) 踩(0) | <div>乐队的夏天知道他们 敬佩他们 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">不折不扣的乐队 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34242852)<br><br>2019-07-01 00:43<br>赞(0) 踩(0) | <div>喜欢这感觉，只需要跟着蹦就行了。</div> |
@@ -139,7 +139,7 @@ Woo oh oh wow Woo oh oh wow<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292644843)<br>我还没想好要写什么...<br>2018-04-05 01:17<br>赞(1) 踩(0) | <div>我想达杰了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90547132)<br>世界太大<br>2018-03-31 17:02<br>赞(2) 踩(0) | <div>我只想说  我听得太晚了。这歌太他妈好听了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18348828)<br>我还没想好要写什么...<br>2018-03-28 16:04<br>赞(2) 踩(0) | <div>背起行囊，我们一起出发！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18538311)<br> <br>2018-03-21 11:09<br>赞(22) 踩(0) | <div>这首歌让我想起小时候撒把骑车，迎着风撒欢儿有高高的白杨树作伴，花园里有蝴蝶跟蜜蜂欢快飞舞～鸟儿的歌唱似乎也非常忘我～就像那个自由到忘我的我～而现在我在人潮拥挤的地铁里，慢慢回想那些自由自在无忧无虑的日子。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18538311)<br> <br>2018-03-21 11:09<br>赞(22) 踩(0) | <div>这首歌让我想起小时候撒把骑车，迎着风撒欢儿<br>有高高的白杨树作伴，花园里有蝴蝶跟蜜蜂欢快飞舞～<br>鸟儿的歌唱似乎也非常忘我～<br>就像那个自由到忘我的我～<br>而现在我在人潮拥挤的地铁里，慢慢回想那些自由自在无忧无虑的日子。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323884531)<br><br>2019-08-13 18:34<br>赞(0) 踩(0) | <div>扎西德勒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327912804)<br>NAoJIAo小棍儿<br>2018-02-27 14:58<br>赞(1) 踩(0) | <div>前边尤克里里前奏什么谱子？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291545285)<br><br>2018-02-08 23:57<br>赞(52) 踩(0) | <div>默默的抽完半包烟，想了三四个小时，不知道吹什么牛逼骗到赞</div> |
@@ -157,8 +157,8 @@ Woo oh oh wow Woo oh oh wow<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50139531)<br>我还没想好要写什么...<br>2017-12-13 13:53<br>赞(1) 踩(0) | <div>好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9952505)<br>我还没想好要写什么...<br>2017-12-06 12:37<br>赞(2) 踩(0) | <div>很痛仰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245254844)<br>Hey，我好想你。<br>2017-10-30 20:15<br>赞(1) 踩(0) | <div>扎西德勒 wow</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35950839)<br>我是尹弋，不是尹戈。<br>2017-10-30 10:18<br>赞(10) 踩(0) | <div>不知道为毛听完感觉总想起青海湖~还有咬字的部分，很可爱~就冲着那几句单曲循环好久~行也匆匆 心事也重重都会消散在这坎坷的旅途这几句很符合现在自己的心境。多年以后再想起这段日子，能代表它的就是这首歌吧~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12807744)<br>他迷失了 他真的很想飞过...<br>2017-10-30 10:03<br>赞(1) 踩(0) | <div>海边的风 伍斯托克的梦不时飘落飘荡在你心中绚烂星空 平行的宇宙我会默默微笑并默默祝福去问候远方 打开行装越过脚下越过身旁的路去问候远方 打开天窗再无束缚再无禁忌的苦衷wow 扎西德勒这是因为你是我的朋友wow wow 扎西德勒这是因为你是我的朋友wow wow 扎西德勒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35950839)<br>我是尹弋，不是尹戈。<br>2017-10-30 10:18<br>赞(10) 踩(0) | <div>不知道为毛听完感觉总想起青海湖~还有咬字的部分，很可爱~就冲着那几句单曲循环好久~<br><br>行也匆匆 心事也重重<br>都会消散在这坎坷的旅途<br><br>这几句很符合现在自己的心境。多年以后再想起这段日子，能代表它的就是这首歌吧~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12807744)<br>他迷失了 他真的很想飞过...<br>2017-10-30 10:03<br>赞(1) 踩(0) | <div>海边的风 伍斯托克的梦<br>不时飘落飘荡在你心中<br>绚烂星空 平行的宇宙<br>我会默默微笑并默默祝福<br>去问候远方 打开行装<br>越过脚下越过身旁的路<br>去问候远方 打开天窗<br>再无束缚再无禁忌的苦衷<br>wow 扎西德勒<br>这是因为你是我的朋友<br>wow wow 扎西德勒<br>这是因为你是我的朋友<br>wow wow 扎西德勒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48814008)<br>骚话女主<br>2017-10-27 23:50<br>赞(2) 踩(0) | <div>就想知道愿爱无忧这张 你他妈还敢在你那车里放吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36426136)<br>I like the w...<br>2017-10-27 23:08<br>赞(0) 踩(0) | <div>睡了一天，突然想起今天12号，接着被一种如饥似渴的感觉侵袭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6909678)<br><br>2017-10-27 23:08<br>赞(0) 踩(0) | <div>祝痛仰大卖，你会喜欢哪首呢？</div> |
@@ -231,7 +231,7 @@ Woo oh oh wow Woo oh oh wow<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49639178)<br>Unimaginatio...<br>2016-09-02 23:27<br>赞(0) 踩(0) | <div>最微妙的发声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26033632)<br>一个纯粹的理想主义者～<br>2016-08-27 00:31<br>赞(0) 踩(0) | <div>虾米不太行啊，还没过999➕ <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58040968)<br>一个很聪明的少女<br>2016-08-22 00:25<br>赞(3) 踩(0) | <div>画速写作业的时候，这首歌是绝配</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9497878)<br>配上这种节奏  生活的香...<br>2016-08-01 08:29<br>赞(0) 踩(0) | <div>远爱无忧 今天走了扎西德勒 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9497878)<br>配上这种节奏  生活的香...<br>2016-08-01 08:29<br>赞(0) 踩(0) | <div>远爱无忧 今天走了<br>扎西德勒 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205210129)<br> <br>2016-07-26 20:43<br>赞(0) 踩(0) | <div>扎西德勒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170419266)<br>一个普通飞行员<br>2016-06-30 15:08<br>赞(1) 踩(0) | <div>痛苦的信仰？哈哈哈哈这歌太朋克了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49141193)<br>loading…<br>2016-07-29 08:49<br>赞(0) 踩(0) | <div>这踏马是朋克？？</div> |
@@ -329,7 +329,7 @@ Woo oh oh wow Woo oh oh wow<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46796680)<br><br>2015-09-04 20:11<br>赞(0) 踩(0) | <div>即使痛苦  我也要仰起我的头颅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46796680)<br><br>2015-09-04 20:11<br>赞(0) 踩(0) | <div>即使痛苦  我也要仰起我的头颅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46796680)<br><br>2015-09-04 20:11<br>赞(0) 踩(0) | <div>即使痛苦  我也要仰起我的头颅</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7809994)<br>云<br>2015-08-24 14:10<br>赞(0) 踩(0) | <div>oh~wow 啊囊死给这张新专辑是骗脑残粉钱的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7809994)<br>云<br>2015-08-24 14:10<br>赞(0) 踩(0) | <div>oh~wow 啊囊死给<br>这张新专辑是骗脑残粉钱的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47868946)<br><br>2015-09-04 20:56<br>赞(0) 踩(0) | <div>新疆哪里的？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7809994)<br>云<br>2015-09-05 09:45<br>赞(0) 踩(0) | <div><q><b>仰望天空的毛驴子说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47868946)<br><br>2015-09-05 09:48<br>赞(0) 踩(0) | <div><q><b>谢特猫说：</b></q></div> |
@@ -427,7 +427,7 @@ Woo oh oh wow Woo oh oh wow<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42313284)<br><br>2015-01-06 20:52<br>赞(0) 踩(0) | <div>喜欢~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5800966)<br>Comedy biaaa...<br>2015-01-04 21:29<br>赞(0) 踩(0) | <div>乌托邦啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9940473)<br> <br>2015-01-03 16:52<br>赞(0) 踩(0) | <div>因为是扎西德勒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12807744)<br>他迷失了 他真的很想飞过...<br>2015-01-01 21:14<br>赞(0) 踩(0) | <div>海边的风 伍斯托克的梦不时飘落飘荡在你心中绚烂星空 平行的宇宙我会默默微笑并默默祝福去问候远方 打开行装越过脚下越过身旁的路去问候远方 打开天窗再无束缚再无禁忌的苦衷wow 扎西德勒这是因为你是我的朋友wow wow 扎西德勒这是因为你是我的朋友wow wow 扎西德勒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12807744)<br>他迷失了 他真的很想飞过...<br>2015-01-01 21:14<br>赞(0) 踩(0) | <div>海边的风 伍斯托克的梦<br>不时飘落飘荡在你心中<br>绚烂星空 平行的宇宙<br>我会默默微笑并默默祝福<br>去问候远方 打开行装<br>越过脚下越过身旁的路<br>去问候远方 打开天窗<br>再无束缚再无禁忌的苦衷<br>wow 扎西德勒<br>这是因为你是我的朋友<br>wow wow 扎西德勒<br>这是因为你是我的朋友<br>wow wow 扎西德勒</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47606626)<br>暂无签名~<br>2015-02-26 01:12<br>赞(0) 踩(0) | <div>wo~扎西德勒 重复八遍</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12807744)<br>他迷失了 他真的很想飞过...<br>2015-03-04 10:05<br>赞(0) 踩(0) | <div><q><b>NooDleS.说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11472409)<br><br>2015-01-01 10:26<br>赞(0) 踩(0) | <div>新年快乐。。新年愿望:能和爱的人去次迷笛。。</div> |
@@ -467,7 +467,7 @@ Woo oh oh wow Woo oh oh wow<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13624606)<br>暂无签名~<br>2014-09-07 20:16<br>赞(0) 踩(0) | <div>扎西德勒，中秋快乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13624606)<br>暂无签名~<br>2014-09-07 20:15<br>赞(0) 踩(0) | <div>扎西德勒，中秋快乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28303019)<br><br>2014-09-07 08:43<br>赞(0) 踩(0) | <div>﹋o﹋</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22219308)<br>笑一个吧！~<br>2014-09-04 23:31<br>赞(0) 踩(0) | <div>歌曲旋律是很不错的。只是呀，歌词略显三俗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22219308)<br>笑一个吧！~<br>2014-09-04 23:31<br>赞(0) 踩(0) | <div>歌曲旋律是很不错的。<br><br>只是呀，歌词略显三俗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9552907)<br>噪起来。。。<br>2014-09-04 22:08<br>赞(0) 踩(0) | <div>晚安，扎西德勒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292402)<br><br>2014-09-02 23:07<br>赞(0) 踩(0) | <div>啊茵啊茵这首这首!!@</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31050957)<br>just keep it...<br>2014-09-02 11:15<br>赞(0) 踩(0) | <div>九月的第二天扎西德勒！！</div> |

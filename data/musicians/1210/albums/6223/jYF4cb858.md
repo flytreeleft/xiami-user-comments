@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347071752)<br>面朝大海 春暖花开<br>2018-08-09 16:36<br>赞(0) 踩(0) | <div>顶我到热评</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347071752)<br>面朝大海 春暖花开<br>2018-06-15 15:07<br>赞(0) 踩(0) | <div>评论太少不科学</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10857967)<br>我～就是我！不喜勿進！<br>2018-06-06 23:05<br>赞(4) 踩(0) | <div>这个实际上就是衔接后面的那首《Trouble》，可是后面那首被禁了</div> |

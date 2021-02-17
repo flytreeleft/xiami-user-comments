@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337058850)<br>我还没想好要写什么...<br>2020-12-24 09:27<br>赞(2) 踩(0) | <div>清静的世界.&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32031632)<br><br>2020-10-30 11:30<br>赞(2) 踩(0) | <div>南无阿弥佗佛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404454612)<br><br>2020-08-10 11:51<br>赞(2) 踩(0) | <div>随喜赞叹阿弥陀佛。</div> |
@@ -35,36 +32,36 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409934547)<br>用音乐祭奠那些曾经的糟糠...<br>2019-07-22 21:34<br>赞(3) 踩(0) | <div>真好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342358366)<br>明天更辉煌！<br>2019-06-20 09:34<br>赞(4) 踩(0) | <div>好好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300553880)<br><br>2019-06-18 01:45<br>赞(5) 踩(0) | <div>南无阿弥陀佛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401270689)<br>南无阿弥陀佛<br>2019-06-11 22:52<br>赞(5) 踩(0) | <div>昙鸾大师《往生论注》法语：谨案龙树菩萨《十住毗婆沙》云：菩萨求阿毗跋致，有二种道：一者难行道，二者易行道。难行道者，谓于五浊之世，于无佛时，求阿毗跋致为难。此难乃有多途，粗言五三，以示义意：一者外道相善，乱菩萨法；二者声闻自利，障大慈悲；三者无赖恶人，破他胜德；四者颠倒善果，能坏梵行；五者唯是自力，无他力持。如斯等事，触目皆是。譬如陆路，步行则苦。易行道者，谓但以信佛因缘，愿生净土，乘佛愿力，便得往生彼清净土。佛力住持，即入大乘正定之聚。正定，即是阿毗跋致。譬如水路，乘船则乐。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401270689)<br>南无阿弥陀佛<br>2019-06-11 22:52<br>赞(5) 踩(0) | <div>昙鸾大师《往生论注》法语：<br>谨案龙树菩萨《十住毗婆沙》云：菩萨求阿毗跋致，有二种道：一者难行道，二者易行道。难行道者，谓于五浊之世，于无佛时，求阿毗跋致为难。此难乃有多途，粗言五三，以示义意：一者外道相善，乱菩萨法；二者声闻自利，障大慈悲；三者无赖恶人，破他胜德；四者颠倒善果，能坏梵行；五者唯是自力，无他力持。如斯等事，触目皆是。譬如陆路，步行则苦。易行道者，谓但以信佛因缘，愿生净土，乘佛愿力，便得往生彼清净土。佛力住持，即入大乘正定之聚。正定，即是阿毗跋致。譬如水路，乘船则乐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421304684)<br><br>2019-05-13 16:47<br>赞(4) 踩(0) | <div>非常喜欢，随喜赞叹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401270689)<br>南无阿弥陀佛<br>2019-05-10 13:55<br>赞(2) 踩(0) | <div>南无阿弥陀佛！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335216340)<br> <br>2019-02-27 12:54<br>赞(3) 踩(0) | <div>呵呵哒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293512959)<br><br>2019-02-16 06:49<br>赞(5) 踩(0) | <div>好听，收藏了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415968506)<br><br>2019-02-13 21:21<br>赞(3) 踩(0) | <div>前调真的好棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88325236)<br>音乐是我的爱人！<br>2019-02-05 09:21<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205633566)<br> <br>2019-01-25 22:36<br>赞(5) 踩(0) | <div>夜已深我在找自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205633566)<br> <br>2019-01-25 22:36<br>赞(5) 踩(0) | <div>夜已深<br>我在找自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407741738)<br><br>2019-01-01 09:41<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png">感恩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8192902)<br> <br>2018-11-14 21:13<br>赞(5) 踩(0) | <div>六字大明咒，静心 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270330042)<br>音乐是最忠实的朋友<br>2018-10-07 17:45<br>赞(17) 踩(0) | <div>少欲，才是人生最大的幸福；知足，才是人生最大的富裕； 爱心，才是人生最好的良伴； 智慧，才是人生最好的明灯。幸福和快乐不存在于外境，而来源于内心的宝藏。如果你想获得真正的幸福和快乐，不要向外寻求，应当从内心中发挥和挖掘。&amp;mdash;&amp;mdash;太桥旦增</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270330042)<br>音乐是最忠实的朋友<br>2018-10-07 17:45<br>赞(17) 踩(0) | <div>少欲，才是人生最大的幸福；知足，才是人生最大的富裕； 爱心，才是人生最好的良伴； 智慧，才是人生最好的明灯。幸福和快乐不存在于外境，而来源于内心的宝藏。如果你想获得真正的幸福和快乐，不要向外寻求，应当从内心中发挥和挖掘。<br>&amp;mdash;&amp;mdash;太桥旦增</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744207)<br>高立 平座 阔处行<br>2018-09-27 14:57<br>赞(6) 踩(0) | <div>感恩遇见 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73685912)<br>Lᵒᵛᵉᵧₒᵤ❤在这薄情...<br>2018-08-30 11:20<br>赞(5) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350105855)<br><br>2018-07-15 07:52<br>赞(5) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350105855)<br><br>2018-07-02 09:28<br>赞(5) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10441212)<br>！<br>2018-04-15 16:59<br>赞(17) 踩(0) | <div>佛主一直没有抛弃我，他一次次的感化我,引导我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117532352)<br> hey<br>2018-02-13 14:44<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343705553)<br>暖风细雨人洋溢，天晴云远...<br>2018-01-28 06:08<br>赞(6) 踩(0) | <div>禅歌一曲慈悲念佛乐妙音祥和心南无阿弥陀佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343705553)<br>暖风细雨人洋溢，天晴云远...<br>2018-01-28 06:08<br>赞(6) 踩(0) | <div>禅歌一曲慈悲念<br>佛乐妙音祥和心<br>南无阿弥陀佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45342967)<br>好的音乐总是源于内心，而...<br>2018-01-02 10:59<br>赞(6) 踩(0) | <div>一分钟的时间可以无义散乱，也可以一心专注诵咒，去感受观音菩萨救度众生的慈悲智慧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315864039)<br>DND | Medita...<br>2017-11-02 12:54<br>赞(13) 踩(0) | <div>--- 注意听那音乐 没了女声 是不是很好听？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334167390)<br><br>2017-11-26 22:11<br>赞(0) 踩(0) | <div>相得益彰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95873412)<br><br>2017-10-29 13:36<br>赞(3) 踩(0) | <div>六字大明咒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81636294)<br><br>2017-08-27 22:23<br>赞(28) 踩(0) | <div>空山拾步邀新月，流水淙淙。|一霎清风，落叶惊飞桥又东。无意秋来三更尽，几许花容。记得初衷，寒菊开时寄梦中。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81636294)<br><br>2017-08-27 22:23<br>赞(28) 踩(0) | <div>空山拾步邀新月，流水淙淙。|<br>一霎清风，落叶惊飞桥又东。<br>无意秋来三更尽，几许花容。<br>记得初衷，寒菊开时寄梦中。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355358016)<br>谁能解释:从来不着水，清...<br>2019-02-03 22:17<br>赞(0) 踩(0) | <div>一副好美景，只可惜无缘聚敬。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308433600)<br>念念为公    有容乃大<br>2017-08-10 21:43<br>赞(5) 踩(0) | <div>想起 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png">甘肃天水市秦安圆通寺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299750322)<br><br>2017-05-28 11:40<br>赞(7) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280388395)<br><br>2017-04-13 21:53<br>赞(7) 踩(0) | <div>这曲听着超极捧，净化心灵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43969503)<br>i miss you<br>2017-04-11 22:19<br>赞(14) 踩(0) | <div>七年前分手的夜晚，网吧通宵，听到这声音，至今难忘，想你田田</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251358653)<br> <br>2017-03-19 22:02<br>赞(3) 踩(0) | <div>心颤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260881)<br><br>2017-01-05 20:55<br>赞(17) 踩(0) | <div>【董太史玄宰寫山圖贈予之雷陽賦答】五臺三伏天。江南臘月樹。孤蹤空裏雲。餘生草頭露。寒熱本無端。南北任去住。隨地足清涼。此中何所慕。——憨山老人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260881)<br><br>2017-01-05 20:55<br>赞(17) 踩(0) | <div>【董太史玄宰寫山圖贈予之雷陽賦答】<br><br>五臺三伏天。江南臘月樹。<br>孤蹤空裏雲。餘生草頭露。<br>寒熱本無端。南北任去住。<br>隨地足清涼。此中何所慕。<br><br>——憨山老人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50835084)<br><br>2017-01-01 12:37<br>赞(5) 踩(0) | <div>静心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20004733)<br>soojong<br>2016-12-18 00:46<br>赞(7) 踩(0) | <div>不需要听别人说佛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12549836)<br><br>2016-09-11 01:42<br>赞(65) 踩(0) | <div>我们瑜伽老师说，这几个音能治病，唱诵能给人带来健康。</div> |
@@ -108,7 +105,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8027285)<br><br>2012-10-06 00:58<br>赞(3) 踩(0) | <div>獻給蕭志洋老師!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10336591)<br>哄哄<br>2012-09-10 08:57<br>赞(3) 踩(0) | <div>澄淨人心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8136844)<br><br>2012-03-13 14:59<br>赞(3) 踩(0) | <div>空山</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/573243)<br><br>2010-08-02 10:39<br>赞(85) 踩(0) | <div>随着时间的流逝..就一个人..静静地 坐在椅子上..看着天空的云彩.飘来飘去..偶尔一阵微风吹过.带动地上的草..当地面的世界让你疲惫不堪，那就随我在空中飞翔...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/573243)<br><br>2010-08-02 10:39<br>赞(85) 踩(0) | <div>随着时间的流逝..<br>就一个人..<br>静静地 坐在椅子上..<br>看着天空的云彩.<br>飘来飘去..<br>偶尔一阵微风吹过.<br>带动地上的草..<br>当地面的世界让你疲惫不堪，那就随我在空中飞翔...</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307563416)<br><br>2017-06-26 11:35<br>赞(0) 踩(0) | <div>好听</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415968506)<br><br>2019-02-13 21:20<br>赞(0) 踩(0) | <div>哈哈，虽然我算不上洒脱，但自然之美一定是一个很好的归宿。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2009-10-07 11:54<br>赞(7) 踩(0) | <div>专辑介绍：融合New Age的灵性与冥想音乐的神性。「空山」专辑呈现了心灵音乐难得一见的丰富层次。全辑以六字真言「嗡嘛呢贝美吽」为音乐主题色彩，编曲精致，格局大气。既有喜多郎式的空灵、著名电影配乐「喜玛拉雅」的叙事风格，更突出东方女声吟唱真言的特独音色，以及4位作曲者与古老真言的内在律动。时间与空间，在音乐流转间已不重要，「空山」带来的，是让心灵一震的生命能量。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2009-10-07 11:54<br>赞(7) 踩(0) | <div>专辑介绍：<br><br>融合New Age的灵性与冥想音乐的神性。<br>「空山」专辑呈现了心灵音乐难得一见的丰富层次。<br>全辑以六字真言「嗡嘛呢贝美吽」为音乐主题色彩，<br>编曲精致，格局大气。<br>既有喜多郎式的空灵、著名电影配乐「喜玛拉雅」的叙事风格，<br>更突出东方女声吟唱真言的特独音色，<br>以及4位作曲者与古老真言的内在律动。<br>时间与空间，在音乐流转间已不重要，<br>「空山」带来的，是让心灵一震的生命能量。</div> |

@@ -47,8 +47,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2021-01-01 01:11<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419959504)<br>我还没想好要写什么...<br>2020-08-21 10:34<br>赞(0) 踩(0) | <div>专心做音乐的人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15577171)<br>不同的心境，不同的音乐～...<br>2019-11-29 20:45<br>赞(1) 踩(0) | <div>才华是自己拥有的，谁也抢不去，生不逢时，呵，只能是短暂的痛苦和迷茫，厚积薄发，喷薄的日子总会来临，当你看着漫天的焰火为你绽放在星空，那种幸福感，除了你爱的人，还有谁能体会呢？</div> |
@@ -65,7 +65,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46971807)<br><br>2018-08-03 12:04<br>赞(3) 踩(0) | <div>对青春逝去的惋惜和追忆是每个人都有的必然经历，也是陪伴每个人一生的命题。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379741278)<br><br>2018-07-26 14:54<br>赞(8) 踩(0) | <div>民谣应该算音乐散文吧，写到内心深处才会耐人寻味。这首歌做到了！时光，渐渐消逝的时光，追悔莫及的曾经。祝明天安好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291438444)<br> 婆娑世界，活在当下。<br>2018-07-19 11:51<br>赞(5) 踩(0) | <div>好久好久没有评论了，朋友圈充斥着各种抖音神曲，还是喜欢适合自己的歌，安静、不争不抢。像歌里面唱的一样，可没变的是这片痴心，变了的是这片光阴&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36550254)<br><br>2018-07-18 14:38<br>赞(4) 踩(0) | <div>大概这才是音乐吧支持，加油</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36550254)<br><br>2018-07-18 14:38<br>赞(4) 踩(0) | <div>大概这才是音乐吧<br>支持，加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18062791)<br><br>2018-07-18 07:18<br>赞(3) 踩(0) | <div>12年很长，斗转星移；12年很短，记忆犹新&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266218019)<br><br>2018-07-04 22:51<br>赞(1) 踩(0) | <div>时光一去不复回</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325412362)<br><br>2018-05-27 10:41<br>赞(3) 踩(0) | <div>民谣，有故事，有情怀!</div> |
@@ -85,7 +85,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297391272)<br><br>2017-08-16 02:37<br>赞(0) 踩(0) | <div>只有我一个人 觉得难听吗 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312179)<br>潜入深蓝，放肆幻听<br>2019-01-28 08:12<br>赞(0) 踩(0) | <div>是的，只有你一个人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315128998)<br><br>2017-08-02 08:56<br>赞(0) 踩(0) | <div>可以可以了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2017-07-21 12:03<br>赞(0) 踩(0) | <div>好听～喜欢～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2017-07-21 12:03<br>赞(0) 踩(0) | <div>好听～<br>喜欢～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258072608)<br><br>2017-07-04 21:23<br>赞(1) 踩(0) | <div>我甚是喜欢的一首民谣，评论居然没过999</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10530200)<br>了知无常 找到自我并用心...<br>2017-06-01 10:48<br>赞(1) 踩(0) | <div>把时间浪费在美好的事情上  一生痴心不改</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275622115)<br><br>2017-05-27 17:36<br>赞(3) 踩(0) | <div>每一首民谣，每一个故事，任何华丽的改编，都不及情感的演绎。</div> |
@@ -207,7 +207,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9138915)<br><br>2013-11-25 18:50<br>赞(0) 踩(0) | <div>摇啊摇啊~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3736174)<br><br>2013-10-02 06:06<br>赞(3) 踩(0) | <div>内地的音乐真的比港澳台好很多，只是媒体宣传得太少了.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15303678)<br><br>2013-09-11 21:45<br>赞(0) 踩(0) | <div>在回家的车上听的入了神，竟不小心坐过了一站…「我想为你唱一首时光谣，这样我的青春就不会老」晚，安…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1523719)<br><br>2013-09-09 22:21<br>赞(0) 踩(0) | <div>没变的是 我的这片痴心变了的是 这片光阴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1523719)<br><br>2013-09-09 22:21<br>赞(0) 踩(0) | <div>没变的是 我的这片痴心<br>变了的是 这片光阴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8301666)<br>我还没想好要写什么...<br>2013-08-19 07:58<br>赞(0) 踩(0) | <div>这时光摇啊摇啊，这世界转啊转啊。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3167313)<br>骚得过火<br>2013-08-05 09:41<br>赞(0) 踩(0) | <div>听得好感动为什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6058474)<br>暂无签名~<br>2013-07-29 12:16<br>赞(0) 踩(0) | <div>安静的音乐</div> |
@@ -226,7 +226,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14817091)<br><br>2013-06-01 07:47<br>赞(0) 踩(0) | <div>听一首＜时光谣＞，这样青春不会老。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12311449)<br><br>2013-05-27 23:20<br>赞(0) 踩(0) | <div>没变的是我的这片痴心，变了的是这片光阴...这世界还是这个世界，可原来你我早已不在。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8798139)<br><br>2013-05-06 21:54<br>赞(0) 踩(0) | <div>怀旧吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1404034)<br>我还没想好要写什么...<br>2013-05-04 22:19<br>赞(0) 踩(0) | <div>我想为你唱一首时光瑶这样我的青春就不会老我想再为你唱一首时光瑶这样你的青春就不会老</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1404034)<br>我还没想好要写什么...<br>2013-05-04 22:19<br>赞(0) 踩(0) | <div>我想为你唱一首时光瑶<br>这样我的青春就不会老<br>我想再为你唱一首时光瑶<br>这样你的青春就不会老</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14330173)<br><br>2013-04-30 22:55<br>赞(0) 踩(0) | <div>时光荏苒，初听王梵瑞的歌应该是在大学，当时他的名字是王凡瑞。很开心能听到他的新专辑，有机会一定要去听现场！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10370791)<br>一个偏执狂<br>2013-04-29 11:49<br>赞(0) 踩(0) | <div>比王菲的致青春更明白少年逝去的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7038609)<br><br>2013-04-19 16:49<br>赞(0) 踩(0) | <div>这世界转啊转啊………………</div> |
@@ -258,12 +258,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/456237)<br><br>2013-01-19 13:03<br>赞(0) 踩(0) | <div>这人是谁。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/608564)<br><br>2013-02-22 22:53<br>赞(0) 踩(0) | <div>象朴树的风格</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2827773)<br> <br>2013-01-17 17:16<br>赞(0) 踩(0) | <div>很有feel的一首歌   时光你慢点 我们又大一岁</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8668929)<br><br>2013-01-09 23:09<br>赞(0) 踩(0) | <div>这时光 摇啊摇啊……这时间 转啊转啊……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8668929)<br><br>2013-01-09 23:09<br>赞(0) 踩(0) | <div>这时光 摇啊摇啊……<br>这时间 转啊转啊……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5087003)<br><br>2013-01-02 11:36<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11722925)<br><br>2012-12-10 20:36<br>赞(1) 踩(0) | <div>久违的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/534923)<br><br>2012-12-07 17:44<br>赞(0) 踩(0) | <div>青春终究一去不返。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3436932)<br><br>2012-12-05 16:56<br>赞(0) 踩(0) | <div>回到了那快乐的童年</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2012-12-05 08:28<br>赞(0) 踩(0) | <div>这时光 摇啊摇啊……这时间 转啊转啊……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2012-12-05 08:28<br>赞(0) 踩(0) | <div>这时光 摇啊摇啊……<br>这时间 转啊转啊……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7980006)<br><br>2012-12-04 22:24<br>赞(0) 踩(0) | <div>时光谣，在唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2112292)<br><br>2012-12-04 19:20<br>赞(0) 踩(0) | <div>很久没听到王梵瑞的声音了，摇啊摇到时光里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2956027)<br><br>2012-12-03 12:35<br>赞(0) 踩(0) | <div>Happy birthday, nannan. You are the angel forever. 你最美好的容颜，永远停留在20岁，任我苍老去，你都不会变。</div> |
@@ -284,7 +284,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10500424)<br><br>2012-11-30 00:02<br>赞(0) 踩(0) | <div>当时明月在，曾照彩云归。炉火映红的暖冬……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7000901)<br>我走过，我看过，我路过~<br>2012-11-29 20:34<br>赞(0) 踩(0) | <div>这世界还是这个世界 可原来你我早已不在。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10417162)<br><br>2012-11-29 16:35<br>赞(0) 踩(0) | <div>喜欢一首歌需要理由么～～硬要说的话我听歌竟然想起了小四爷～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2187649)<br><br>2012-11-29 13:07<br>赞(0) 踩(0) | <div>【这时光，摇啊摇啊......这时间，转啊转啊......】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2187649)<br><br>2012-11-29 13:07<br>赞(0) 踩(0) | <div>【这时光，摇啊摇啊......<br>这时间，转啊转啊......】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2488813)<br><br>2012-11-29 11:30<br>赞(0) 踩(0) | <div>时光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2488813)<br><br>2012-11-29 11:17<br>赞(0) 踩(0) | <div>转眼时间 一切都在变</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1263586)<br><br>2012-11-29 01:41<br>赞(0) 踩(0) | <div>其实知道王梵瑞比石头还早、但是确未红、风格偏民谣些听着很舒服、今天推荐给大家、</div> |
@@ -294,10 +294,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3425353)<br><br>2012-11-28 12:44<br>赞(0) 踩(0) | <div>没变的是 这片痴心  变了的 是这片光阴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/464671)<br>我还没想好要写什么...<br>2012-11-28 12:43<br>赞(0) 踩(0) | <div>想要懒在家里，跟爸爸吵架跟妈妈喝茶，不想动不想动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11692016)<br><br>2012-11-28 08:42<br>赞(0) 踩(0) | <div>没变的是 我的这片痴心。变了的是 这片光阴。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418587)<br><br>2012-11-28 06:50<br>赞(0) 踩(0) | <div>我想为你唱一首时光瑶这样我的青春就不会老我想再为你唱一首时光瑶这样你的青春就不会老</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418587)<br><br>2012-11-28 06:50<br>赞(0) 踩(0) | <div>我想为你唱一首时光瑶<br>这样我的青春就不会老<br>我想再为你唱一首时光瑶<br>这样你的青春就不会老</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24824)<br>认真地老去<br>2012-11-27 23:09<br>赞(0) 踩(0) | <div>时间你慢点世界又大一岁，叫我怎么能不急，青春已逃离。这么多年你总说见面没变，可照片却记下了少年容颜。没变的是我的这片痴心，变了的是这片光阴。十二年青春一去不返，也遇见过让我伤心的人，这世界还是这个世界，可原来你我早已不在。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2832265)<br><br>2012-11-27 22:35<br>赞(0) 踩(0) | <div>好吧，就相信他们说的吧，他们说冬天是温暖的开始。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7331552)<br>感谢有音乐陪伴<br>2012-11-27 22:23<br>赞(0) 踩(0) | <div>我想为你唱一首时光瑶这样我的青春就不会老我想再为你唱一首时光瑶这样你的青春就不会老......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7331552)<br>感谢有音乐陪伴<br>2012-11-27 22:23<br>赞(0) 踩(0) | <div>我想为你唱一首时光瑶<br>这样我的青春就不会老<br>我想再为你唱一首时光瑶<br>这样你的青春就不会老......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5919419)<br> <br>2012-11-27 21:05<br>赞(0) 踩(0) | <div>民谣总是很善良 说的真好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1759762)<br><br>2012-11-27 20:37<br>赞(0) 踩(0) | <div>我们还能听多久民谣？感觉自己老了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5719103)<br><br>2012-11-27 19:44<br>赞(0) 踩(0) | <div>时光你慢点 我们又大一岁</div> |

@@ -12,17 +12,14 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135639312)<br>总有人奔波于生活的难，总...<br>2021-01-05 14:22<br>赞(0) 踩(0) | <div>虾米要关停了，谢谢虾米和这首曲子那些日子里深夜的陪伴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334363687)<br><br>2020-10-29 16:52<br>赞(0) 踩(0) | <div>很好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377232618)<br>原来水母没有心<br>2020-08-11 22:47<br>赞(1) 踩(0) | <div>是的，我知道。只是不想说的太明白。因为清楚，这是必然的。不用刻意回避因为 压根没想再打扰不是我不够优秀 也不是你不够优秀只能说因为情感不够别怕被纠缠 因为你要知道 人家并没有纠缠的意思只是希望你幸福 仅此而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377232618)<br>原来水母没有心<br>2020-08-11 22:47<br>赞(1) 踩(0) | <div>是的，我知道。<br>只是不想说的太明白。<br>因为清楚，这是必然的。<br>不用刻意回避<br>因为 压根没想再打扰<br>不是我不够优秀 也不是你不够优秀<br>只能说因为情感不够<br>别怕被纠缠 因为你要知道 人家并没有纠缠的意思<br>只是希望你幸福 仅此而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340865625)<br>我们的征途是星辰大海<br>2020-07-20 13:13<br>赞(1) 踩(0) | <div>石进老师的曲子总是很能让人安静下来啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300929910)<br><br>2020-04-25 02:06<br>赞(1) 踩(0) | <div>人生若只如初见，算了，我宁愿没见过你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402665743)<br><br>2020-03-31 07:33<br>赞(0) 踩(0) | <div>2020年3月25日（农历三月初二）周三  天津卫视大型情感类节目《爱情保卫战》第二对情侣嘉宾的时侯所使用的背景音乐！</div> |
@@ -54,7 +51,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329413857)<br>你敬我一尺，我敬你。一生<br>2018-11-22 07:04<br>赞(2) 踩(0) | <div>加油加油加油啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376136886)<br><br>2018-11-20 05:15<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322190821)<br><br>2018-11-04 20:41<br>赞(2) 踩(0) | <div>有亲们有这首曲子的资源吗  给我发一个呗感激不尽。。。<a href="mailto:619544565@qq.com">619544565@qq.com</a></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338785144)<br>我还没想好要写什么...<br>2018-10-23 12:30<br>赞(4) 踩(0) | <div>世上只有音乐你若喜欢便一辈子对你不离不弃的！好男人让女人怀孕，好音乐让耳朵怀孕！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338785144)<br>我还没想好要写什么...<br>2018-10-23 12:30<br>赞(4) 踩(0) | <div>世上只有音乐你若喜欢便一辈子对你不离不弃的！<br>好男人让女人怀孕，好音乐让耳朵怀孕！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329413857)<br>你敬我一尺，我敬你。一生<br>2018-10-11 05:55<br>赞(3) 踩(0) | <div>一人心上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329413857)<br>你敬我一尺，我敬你。一生<br>2018-10-05 08:24<br>赞(2) 踩(0) | <div>加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337757767)<br>人生永远没有太晚的开始<br>2018-10-05 07:39<br>赞(12) 踩(0) | <div>未曾收到礼物的我也不觉得缺少什么</div> |
@@ -83,7 +80,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335722411)<br><br>2018-03-11 21:19<br>赞(0) 踩(0) | <div>其实情人节有啥好过的，想淡了就和平常日子一样过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331931167)<br><br>2018-01-13 00:34<br>赞(1) 踩(0) | <div>情人节的礼物，我，不知道，但我希望最好的礼物，就是还有你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52991440)<br>側身旋轉一個人的輪舞曲<br>2018-01-02 22:04<br>赞(1) 踩(0) | <div>沒有情人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6623416)<br>ཨོཾ་མ་ཎི་པདྨ...<br>2017-12-31 15:58<br>赞(11) 踩(0) | <div>在岁月，我们走过了许多春夏秋冬；在人生，我们走过了许多冷暖炎凉，我总相信，在更深更广处，我们一定要维持着美好的心、欣赏的心，就像是春天想到百合、秋天想到芒花，永远保持着预约的希望。&amp;mdash;&amp;mdash;林清玄《可以预约的美》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6623416)<br>ཨོཾ་མ་ཎི་པདྨ...<br>2017-12-31 15:58<br>赞(11) 踩(0) | <div>在岁月，我们走过了许多春夏秋冬；<br>在人生，我们走过了许多冷暖炎凉，<br>我总相信，在更深更广处，<br>我们一定要维持着美好的心、欣赏的心，<br>就像是春天想到百合、秋天想到芒花，<br>永远保持着预约的希望。<br><br>&amp;mdash;&amp;mdash;林清玄《可以预约的美》</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44238140)<br><br>2018-07-16 00:12<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328500796)<br>我还没想好要写什么...<br>2017-12-29 11:27<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257904116)<br>那些爱，旋律会记住。<br>2017-12-29 00:25<br>赞(4) 踩(0) | <div>也许不再见是两个彼此&amp;ldquo;陌生&amp;rdquo;的人的最好相处方式。若还有思念，便存彼此于心间，宛如初见。</div> |

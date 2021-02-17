@@ -53,8 +53,8 @@ ISRC CN-E04-95-308-09
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49225463)<br><br>2021-01-15 19:08<br>赞(0) 踩(0) | <div>2006年读高中的时候在学校寝室拿着收音机躲被窝里偷偷听 让青春继续。十五年了，这首歌带给我的记忆依然如此清晰，青春呼啸，历久弥新。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405519724)<br>且行且珍惜………<br>2020-05-08 04:08<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72555238)<br>能浏览遍好风景 才去认命<br>2020-03-19 17:52<br>赞(1) 踩(0) | <div>被理解是可遇不可求的事情</div> |
@@ -90,7 +90,7 @@ ISRC CN-E04-95-308-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2014-02-10 22:35<br>赞(0) 踩(0) | <div>心 境不二</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9054477)<br>复制这条信息，打开<br>2014-02-04 16:34<br>赞(1) 踩(0) | <div>(n_n)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21117149)<br><br>2013-11-25 16:23<br>赞(0) 踩(0) | <div>在那个寒冷的季节，有时也会有寂寥的心情，只有你陪我一起唱歌。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3484229)<br>只有虾米，一直陪伴！<br>2013-10-21 00:31<br>赞(0) 踩(0) | <div>在这个寒冷的季节所有的人都逃避风霜再没有人陪我一起唱歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3484229)<br>只有虾米，一直陪伴！<br>2013-10-21 00:31<br>赞(0) 踩(0) | <div>在这个寒冷的季节<br>所有的人都逃避风霜<br>再没有人陪我一起唱歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13917385)<br>但使愿无违。<br>2013-10-14 21:12<br>赞(0) 踩(0) | <div>不知道哪个角落里刻着你我的名字，在那个寒冷的季节，所有的人都逃避风霜，可惜没人陪我一起唱歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24093893)<br><br>2013-10-11 23:57<br>赞(3) 踩(0) | <div>《让青春继续》 “青春的土壤中，只有记忆是潮湿的。我们不是植物，不能在这块土地上生生不息。当我们回眸青春，仿佛有一种说不出的痛。很多人问我，青春的诀别是否意味着年迈的将近，其实，青春它一直都在继续......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24093893)<br><br>2013-10-11 23:52<br>赞(2) 踩(0) | <div>《让青春继续》  “青春的土壤中，只有记忆是潮湿的。我们不是植物，不能在这块土地上生生不息。当我们回眸青春，仿佛有一种说不出的痛。很多人问我，青春的诀别是否意味着年迈的将近，其实，青春，它一直都在继续……”</div> |
@@ -98,7 +98,7 @@ ISRC CN-E04-95-308-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7963370)<br><br>2013-07-29 22:58<br>赞(0) 踩(0) | <div>让青春继续 @崔局@李老师@小阿德@卡莉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3338922)<br>有个洞<br>2013-07-12 10:49<br>赞(0) 踩(0) | <div>沉默的陪我过漫长的日子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9654699)<br>我还没想好要写什么...<br>2013-05-24 12:52<br>赞(0) 踩(0) | <div>第一季结尾时采用的歌词</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13117868)<br>wait<br>2013-04-26 00:16<br>赞(0) 踩(0) | <div>你对我说过你是执迷不悔 沉默地和我过着漫长的日子在那个寒冷的季节 所有的人都逃避风霜 只有你陪我一起唱歌因为太多次被恶梦惊醒 我已经不再执着不变的心在那个寒冷的季节 有时也会有寂寥的心情 只有你给我温暖怀抱不知道哪个角落里刻着你我的名字在那个寒冷的季节里 所有的人都逃避风霜......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13117868)<br>wait<br>2013-04-26 00:16<br>赞(0) 踩(0) | <div>你对我说过你是执迷不悔 沉默地和我过着漫长的日子<br>在那个寒冷的季节 所有的人都逃避风霜 只有你陪我一起唱歌<br>因为太多次被恶梦惊醒 我已经不再执着不变的心<br>在那个寒冷的季节 有时也会有寂寥的心情 只有你给我温暖怀抱<br>不知道哪个角落里刻着你我的名字<br>在那个寒冷的季节里 所有的人都逃避风霜......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4082813)<br>我还没想好要写什么...<br>2013-03-27 00:00<br>赞(2) 踩(0) | <div>安生了两个晚上，又睡不着了。在小声敲这个歌，但愿不会被邻居投诉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1515758)<br><br>2013-02-27 23:44<br>赞(0) 踩(0) | <div>让青春继续</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12902862)<br><br>2013-02-25 23:44<br>赞(0) 踩(0) | <div>此刻，只能闭上眼。</div> |
@@ -136,7 +136,7 @@ ISRC CN-E04-95-308-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2437759)<br><br>2011-01-13 10:04<br>赞(0) 踩(0) | <div>老狼永远是我的最爱~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1614239)<br><br>2010-11-01 15:55<br>赞(0) 踩(0) | <div>某一个角落，还刻着你我的名字。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357092)<br><br>2010-10-01 01:56<br>赞(0) 踩(0) | <div>从虾米去年的春运免费下的专辑里发现的，很好听的开头，</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231480)<br><br>2010-08-24 16:30<br>赞(0) 踩(0) | <div>词：黑楠 曲：黑楠 李映蜂你对我说过你是执迷不悔沉默地和我过着漫长的日子在那个寒冷的季节所有的人都逃避风霜只有你陪我一起唱歌因为太多次被恶梦惊醒我已经不再执着不变的心在那个寒冷的季节有时也会有寂寥的心情只有你给我温暖怀抱不知道哪个角落里刻着你我的名字在那个寒冷的季节里所有的人都逃避风霜只有你陪我一起唱歌唱歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231480)<br><br>2010-08-24 16:30<br>赞(0) 踩(0) | <div>词：黑楠 曲：黑楠 李映蜂<br><br>你对我说过你是执迷不悔<br>沉默地和我过着漫长的日子<br>在那个寒冷的季节<br>所有的人都逃避风霜<br>只有你陪我一起唱歌<br><br>因为太多次被恶梦惊醒<br>我已经不再执着不变的心<br>在那个寒冷的季节<br>有时也会有寂寥的心情<br>只有你给我温暖怀抱<br>不知道哪个角落里刻着<br>你我的名字<br>在那个寒冷的季节里<br>所有的人都逃避风霜<br>只有你陪我一起唱歌<br>唱歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326173)<br><br>2010-05-22 21:39<br>赞(0) 踩(0) | <div>大家一起唱歌~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327082)<br>如何是我爱你。<br>2010-01-21 21:20<br>赞(0) 踩(0) | <div>回忆 ..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/487088)<br>我爱你，是我的幸运。<br>2009-12-28 20:29<br>赞(0) 踩(0) | <div>“在那个寒冷的季节里。所有的人都逃避风霜。只有你陪我一起唱歌。”</div> |

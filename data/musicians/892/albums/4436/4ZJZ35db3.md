@@ -56,15 +56,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21560997)<br>暂无签名~<br>2020-04-29 15:29<br>赞(0) 踩(0) | <div>什么酷奇？酷奇饮料给了你多少钱？我给你双倍</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2020-03-14 18:56<br>赞(1) 踩(0) | <div>在醒来时世界都远了我需要最狂的风和最静的海&amp;mdash;&amp;mdash;《世界和我&amp;middot;第八个早晨》 ​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2020-03-14 18:56<br>赞(1) 踩(0) | <div>在醒来时<br>世界都远了<br>我需要<br>最狂的风<br>和最静的海<br>&amp;mdash;&amp;mdash;《世界和我&amp;middot;第八个早晨》 ​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5382379)<br><br>2018-10-05 19:37<br>赞(2) 踩(0) | <div>今天是爷爷走的第 41天，突然想到很多以前关于你的，想你了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75601202)<br><br>2018-09-02 11:03<br>赞(1) 踩(0) | <div>+扭扭捏捏那你。v&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358420179)<br><br>2018-06-03 11:08<br>赞(2) 踩(0) | <div>一丝丝朴树 一丝丝许巍 你就是你自己 挺你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358420179)<br><br>2018-06-03 11:06<br>赞(1) 踩(0) | <div>你太棒了！无法形容的棒 ！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346796331)<br>When poetry ...<br>2018-04-16 10:49<br>赞(2) 踩(0) | <div>或许，有那么一刻，听者如我，心突然被偷走了，空了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346796331)<br>When poetry ...<br>2018-04-16 10:49<br>赞(2) 踩(0) | <div>或许，<br>有那么一刻，<br>听者如我，<br>心突然被偷走了，<br>空了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97951274)<br> <br>2018-01-29 01:41<br>赞(3) 踩(0) | <div>每次听这哥们儿的歌都会变的忧伤，不想忧伤，但还是想听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55548895)<br><br>2018-01-21 11:04<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259609057)<br>聆听最完美滴音乐，让最好...<br>2017-11-26 17:09<br>赞(3) 踩(0) | <div>一瞬间 感觉有点  （朴树）的味道 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -111,14 +111,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9257155)<br>不是聋子，就听点音乐。<br>2013-04-22 16:49<br>赞(1) 踩(0) | <div>@王梵瑞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5921338)<br>虫子~<br>2013-04-14 15:17<br>赞(1) 踩(0) | <div>还不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3990989)<br><br>2013-04-08 15:15<br>赞(1) 踩(0) | <div>听听吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1404034)<br>我还没想好要写什么...<br>2013-03-03 15:12<br>赞(0) 踩(0) | <div>我在等待谁呢 谁在等待我呢我在为谁哭泣 谁在为我哭泣我在寻找谁呢 谁在寻找我呢我又为谁哭泣 谁又为我哭泣</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1404034)<br>我还没想好要写什么...<br>2013-03-03 15:12<br>赞(0) 踩(0) | <div>我在等待谁呢 谁在等待我呢<br>我在为谁哭泣 谁在为我哭泣<br>我在寻找谁呢 谁在寻找我呢<br>我又为谁哭泣 谁又为我哭泣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5869143)<br><br>2013-02-04 16:15<br>赞(0) 踩(0) | <div>有时听音乐只是听一种心情...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1404034)<br>我还没想好要写什么...<br>2013-01-08 14:58<br>赞(0) 踩(0) | <div>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1404034)<br>我还没想好要写什么...<br>2013-01-08 14:58<br>赞(0) 踩(0) | <div>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8662300)<br>白<br>2013-01-06 18:20<br>赞(0) 踩(0) | <div>海。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7811830)<br><br>2012-12-17 09:00<br>赞(0) 踩(0) | <div>今天我的好歌推荐是；王凡瑞《海》推荐理由；温暖的好声音 王凡瑞 新校园音乐的代表人物之一这是我最喜欢的王凡瑞的作品之一 推荐一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9103418)<br><br>2012-12-13 22:15<br>赞(0) 踩(0) | <div>当年因为这首歌，迷上了一个人的博客。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6750466)<br><br>2012-11-28 19:01<br>赞(0) 踩(0) | <div>我在等待谁呢 谁在等待我呢我在为谁哭泣 谁在为我哭泣我在寻找谁呢 谁在寻找我呢我又为谁哭泣 谁又为我哭泣</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3901546)<br> <br>2012-11-20 22:28<br>赞(0) 踩(0) | <div>我在等待谁呢 谁在等待我呢我在为谁哭泣 谁在为我哭泣我在寻找谁呢 谁在寻找我呢我又为谁哭泣 谁又为我哭泣</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6750466)<br><br>2012-11-28 19:01<br>赞(0) 踩(0) | <div>我在等待谁呢 谁在等待我呢<br>我在为谁哭泣 谁在为我哭泣<br>我在寻找谁呢 谁在寻找我呢<br>我又为谁哭泣 谁又为我哭泣</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3901546)<br> <br>2012-11-20 22:28<br>赞(0) 踩(0) | <div>我在等待谁呢 谁在等待我呢<br>我在为谁哭泣 谁在为我哭泣<br>我在寻找谁呢 谁在寻找我呢<br>我又为谁哭泣 谁又为我哭泣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4820801)<br><br>2012-11-13 20:26<br>赞(1) 踩(0) | <div>@虾森米 飞哥很久以前推荐的歌，一直埋到了我心底里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2886110)<br>HaKuNa MaTaT...<br>2012-11-06 10:57<br>赞(0) 踩(0) | <div>【那么】的那一声小刺边儿，有了点儿熟悉的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6016511)<br><br>2012-10-16 19:25<br>赞(0) 踩(0) | <div>像朴树的声音  歌词不错</div> |
@@ -129,7 +129,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5508846)<br><br>2012-08-17 01:09<br>赞(0) 踩(0) | <div>@哆哩球Nole 把青春和这首搞混了，听听吧……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3425353)<br><br>2012-07-09 11:43<br>赞(0) 踩(0) | <div>回忆很温暖 并且 短暂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9663506)<br><br>2012-07-02 13:01<br>赞(0) 踩(0) | <div>下班后静静的听！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9597658)<br><br>2012-06-26 18:11<br>赞(0) 踩(0) | <div>海的原唱 跟小太阳是另一种感觉~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9597658)<br><br>2012-06-26 18:11<br>赞(0) 踩(0) | <div>海的原唱 跟小太阳是另一种感觉~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2614472)<br><br>2012-06-17 16:11<br>赞(0) 踩(0) | <div>谁在等待我呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6977975)<br>我是个混蛋.<br>2012-06-06 05:39<br>赞(0) 踩(0) | <div>我在等待谁呢。谁在等待我呢。我在为谁哭泣。谁在为我哭泣。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/991425)<br><br>2012-05-31 09:24<br>赞(0) 踩(0) | <div>王梵瑞 第一次听 不错</div> |
@@ -138,8 +138,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7594511)<br><br>2012-01-17 00:04<br>赞(0) 踩(0) | <div>爱情它来了又走了 显得我一个人 那么孤独 我在等待谁呢 谁在等待我呢 我在为谁哭泣 谁在为我哭泣 我在寻找谁呢 谁在寻找我呢 我又为谁哭泣 谁又为我哭泣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3425353)<br><br>2011-10-03 22:51<br>赞(0) 踩(0) | <div>我在寻找谁呢？ 谁在寻找我呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/794174)<br> <br>2011-09-25 12:19<br>赞(0) 踩(0) | <div>我在为谁哭泣，谁在为我哭泣。我在寻找谁呢，谁在寻找我呢。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182037)<br><br>2011-09-12 16:09<br>赞(0) 踩(0) | <div>我在等待谁呢？！谁在等待我呢？！我在寻找谁呢？！谁在寻找我呢？！……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182037)<br><br>2011-09-12 16:07<br>赞(0) 踩(0) | <div>我在等待谁呢？！谁在等待我呢？！我在寻找谁呢？！谁在寻找我呢？！……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182037)<br><br>2011-09-12 16:09<br>赞(0) 踩(0) | <div>我在等待谁呢？！谁在等待我呢？！<br>我在寻找谁呢？！谁在寻找我呢？！……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182037)<br><br>2011-09-12 16:07<br>赞(0) 踩(0) | <div>我在等待谁呢？！谁在等待我呢？！<br>我在寻找谁呢？！谁在寻找我呢？！……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2237594)<br><br>2011-07-23 20:55<br>赞(0) 踩(0) | <div>终于想起这首歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4362122)<br><br>2011-06-29 12:51<br>赞(0) 踩(0) | <div>去年在飞鱼秀里听到的，很爱~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1744849)<br>我听这首歌的时候最爱你<br>2013-01-30 13:06<br>赞(0) 踩(0) | <div>前几天也在飞鱼秀听到的，爱上了~</div> |
@@ -149,6 +149,6 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2039985)<br><br>2011-04-01 12:37<br>赞(0) 踩(0) | <div>我躺在洁白的沙滩上，阳光照着我很温暖，温暖的光线下开始回忆……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2497496)<br><br>2011-02-05 23:56<br>赞(0) 踩(0) | <div>去海边吧 感觉真好 ...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1357525)<br>live natrue,...<br>2010-09-29 16:30<br>赞(0) 踩(0) | <div>喊出你的心声吧……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583608)<br>他人即地狱<br>2010-06-30 18:27<br>赞(0) 踩(0) | <div>我在等待谁呢 谁在等待我呢我在为谁哭泣 谁在为我哭泣</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2010-04-26 14:08<br>赞(0) 踩(0) | <div>选自王凡瑞《青春》这专集，不管好歌还是赖歌，听起来都有一种真实的感觉。我认为，这是这个系列中，最好的一张，我喜欢那几首歌曲中的情绪。“青春”，听太多遍了，已经没有最初那种激动，但是绝对是一首值得反复聆听的歌曲，歌词写的好。“这座城市”，“幸福”还不错，但只能算合格。“时间一枪打在我身上”，用略显轻松的口吻，唱出了对时光的无奈。“海”，在平静中，有一点的感伤，我在等待谁呢？谁在等待我呢？至于其它的歌曲，明显质量上差一些。这张专集不太可能非常流行，应该是那种小众的专集。我想，这张专集值得购买。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583608)<br>他人即地狱<br>2010-06-30 18:27<br>赞(0) 踩(0) | <div>我在等待谁呢 谁在等待我呢<br>我在为谁哭泣 谁在为我哭泣</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2010-04-26 14:08<br>赞(0) 踩(0) | <div>选自王凡瑞《青春》<br>这专集，不管好歌还是赖歌，听起来都有一种真实的感觉。我认为，这是这个系列中，最好的一张，我喜欢那几首歌曲中的情绪。<br><br>“青春”，听太多遍了，已经没有最初那种激动，但是绝对是一首值得反复聆听的歌曲，歌词写的好。“这座城市”，“幸福”还不错，但只能算合格。“时间一枪打在我身上”，用略显轻松的口吻，唱出了对时光的无奈。“海”，在平静中，有一点的感伤，我在等待谁呢？谁在等待我呢？至于其它的歌曲，明显质量上差一些。<br><br>这张专集不太可能非常流行，应该是那种小众的专集。我想，这张专集值得购买。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194516)<br> <br>2009-06-11 16:47<br>赞(0) 踩(0) | <div>谁在等着我，我在等着谁？</div> |

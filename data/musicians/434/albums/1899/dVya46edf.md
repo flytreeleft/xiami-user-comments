@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7306587)<br><br>2012-09-24 13:07<br>赞(0) 踩(0) | <div>丝绸之路的旅人看的绿的园，玫瑰盛开的花园。在这个曲子中我与鹏芳老师一起丝绸之路旅行。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287956)<br><br>2012-08-30 15:20<br>赞(0) 踩(0) | <div>东方花园（とうほうかえん）Exotic Garden</div> |

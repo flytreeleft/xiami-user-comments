@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2ed9598f14fc9a3b52319efc482617b1.jpg)<br>李春波](https://i.xiami.com/lichunbo1112) | **播放数**: 16995194<br>**粉丝数**: 1981<br>**评论数**: 120<br>**地区**: China 中国大陆<br>**风格**: 城市民谣 Urban Folk, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/2ed9598f14fc9a3b52319efc482617b1.jpg)<br>李春波](https://i.xiami.com/lichunbo1112) | **地区**: China 中国大陆<br>**风格**: 城市民谣 Urban Folk, 国语流行 Mandarin Pop<br>**播放数**: 16995194<br>**粉丝数**: 1981<br>**评论数**: 120<br> |
 
 ## 档案
 
@@ -34,8 +34,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425667521)<br>我还没想好要写什么...<br>2020-05-19 22:00<br>赞(0) 踩(0) | <div>非常喜欢这首歌曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54847802)<br>大家的虾米，我的青春ヾ(...<br>2020-04-13 23:14<br>赞(1) 踩(0) | <div>支持，喜欢民谣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345314591)<br>一个人看星空，生活不易善...<br>2020-03-06 06:34<br>赞(0) 踩(0) | <div>经典</div> |
@@ -152,7 +152,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3395113)<br> <br>2011-04-24 16:08<br>赞(0) 踩(0) | <div>‘小芳’一炮而红</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2186356)<br><br>2011-04-02 19:13<br>赞(0) 踩(0) | <div>现在也很前卫！小芳。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210975690)<br><br>2016-12-04 18:48<br>赞(0) 踩(0) | <div>dddd</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1425256)<br>随便说说，不要当真。<br>2011-03-19 01:10<br>赞(0) 踩(0) | <div>放在当年，真是前卫啊。。。歌词也很好最近怎么换口味了我- -</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2934562)<br><br>2011-03-02 12:32<br>赞(1) 踩(0) | <div>让我想起了非常童年。。。。。。虽然对我来说有点遥远，但记忆犹新</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1425256)<br>随便说说，不要当真。<br>2011-03-19 01:10<br>赞(0) 踩(0) | <div>放在当年，真是前卫啊。。。歌词也很好<br>最近怎么换口味了我- -</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2934562)<br><br>2011-03-02 12:32<br>赞(1) 踩(0) | <div>让我想起了非常童年。。。。。。<br>虽然对我来说有点遥远，但记忆犹新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2717520)<br><br>2011-02-10 01:51<br>赞(1) 踩(0) | <div>这他妈的是最早的潮人啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1342581)<br><br>2011-02-07 13:39<br>赞(0) 踩(0) | <div>李春波</div> |

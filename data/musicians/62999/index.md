@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9a14651c522f91ad82325e7da0dba097.png)<br>墨明棋妙](https://i.xiami.com/mmqmusic) | **播放数**: 33665183<br>**粉丝数**: 47393<br>**评论数**: 1316<br>**地区**: China 中国大陆<br>**风格**: 古风 GuFeng Music, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/9a14651c522f91ad82325e7da0dba097.png)<br>墨明棋妙](https://i.xiami.com/mmqmusic) | **地区**: China 中国大陆<br>**风格**: 古风 GuFeng Music, 国语流行 Mandarin Pop<br>**播放数**: 33665183<br>**粉丝数**: 47393<br>**评论数**: 1316<br> |
 
 ## 档案
 
@@ -84,12 +84,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50817383)<br>猫儿在这儿.<br>2020-04-13 10:49<br>赞(0) 踩(0) | <div>❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8749492)<br>挥手自兹去<br>2020-01-29 13:31<br>赞(0) 踩(0) | <div>这种古风就是最大的土味</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325205625)<br><br>2019-10-30 09:18<br>赞(0) 踩(0) | <div>，</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373652009)<br>骨灰级处女座，古风填词。...<br>2019-09-22 10:36<br>赞(1) 踩(0) | <div>从12年，我就是河图粉丝了，可惜现在他出歌越来越少，喜欢他写的那种气魄荡漾的歌，和百转千回的婉转。来徐州开演唱会吧，我肯定去抢前排票不论票价。PS:一个80后老阿姨。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373652009)<br>骨灰级处女座，古风填词。...<br>2019-09-22 10:36<br>赞(1) 踩(0) | <div>从12年，我就是河图粉丝了，可惜现在他出歌越来越少，喜欢他写的那种气魄荡漾的歌，和百转千回的婉转。<br>来徐州开演唱会吧，我肯定去抢前排票不论票价。PS:一个80后老阿姨。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244514014)<br><br>2019-06-21 21:55<br>赞(3) 踩(0) | <div>我记得墨明棋妙不是男的吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337185561)<br>后会有期。<br>2019-04-10 15:48<br>赞(3) 踩(0) | <div>听了很多年了～支持支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2673316)<br><br>2019-03-15 10:12<br>赞(1) 踩(0) | <div>一直以为是莫名妙棋</div> |
@@ -132,7 +132,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51740442)<br>绿玉党<br>2017-03-31 20:29<br>赞(0) 踩(0) | <div><img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../images/comments/29cf103b88c33e19563095897485c32a.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284039715)<br>善良没用，你要漂亮<br>2017-03-28 16:49<br>赞(0) 踩(0) | <div>好听(ง &amp;bull;̀_&amp;bull;́)ง</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15315704)<br> <br>2017-03-27 13:37<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279940313)<br><br>2017-03-21 18:58<br>赞(40) 踩(0) | <div>墨香千里迎佳客明溪轻入子牙河棋盘纵横黑白子妙音拨醉满城歌</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279940313)<br><br>2017-03-21 18:58<br>赞(40) 踩(0) | <div>墨香千里迎佳客<br>明溪轻入子牙河<br>棋盘纵横黑白子<br>妙音拨醉满城歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276996939)<br><br>2017-03-01 13:55<br>赞(0) 踩(0) | <div>大爱啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47061210)<br><br>2017-02-21 13:47<br>赞(5) 踩(0) | <div>好好的音乐,但整首歌人声一出,就好像一锅好汤被扔进了一啦老鼠屎,  刹间倒胃口,  哈哈,  大伙有没有这感觉?</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38867488)<br><br>2017-12-13 01:37<br>赞(0) 踩(0) | <div>就直接说人声难听就可以了，为啥要阴阳怪气的。</div> |
@@ -142,7 +142,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261690200)<br><br>2017-01-13 22:31<br>赞(4) 踩(0) | <div>大爱墨明棋妙</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249798514)<br><br>2016-12-09 16:32<br>赞(1) 踩(0) | <div>古风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251424229)<br><br>2016-12-02 01:13<br>赞(0) 踩(0) | <div>喜欢，好好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246401335)<br><br>2016-11-19 22:49<br>赞(0) 踩(0) | <div>#精英战队#大学起就喜欢上的一位古风艺人，很纯净的中国古风，词曲都能让我瞬间穿越返古并陶醉其中我猜，@娟子茶娟姐应该也会喜欢吧？也推荐给你们试试@面条夫人云朵妈@加减城厨 <img src="../../images/comments/aef814d405ecc3ca2a3d50288c9a0e48.png"> <img src="../../images/comments/aef814d405ecc3ca2a3d50288c9a0e48.png"> <img src="../../images/comments/aef814d405ecc3ca2a3d50288c9a0e48.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246401335)<br><br>2016-11-19 22:49<br>赞(0) 踩(0) | <div>#精英战队#<br>大学起就喜欢上的一位古风艺人，<br>很纯净的中国古风，<br>词曲都能让我瞬间穿越返古并陶醉其中<br>我猜，@娟子茶娟姐应该也会喜欢吧？<br>也推荐给你们试试@面条夫人云朵妈@加减城厨 <img src="../../images/comments/aef814d405ecc3ca2a3d50288c9a0e48.png"> <img src="../../images/comments/aef814d405ecc3ca2a3d50288c9a0e48.png"> <img src="../../images/comments/aef814d405ecc3ca2a3d50288c9a0e48.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59593992)<br><br>2016-11-07 16:13<br>赞(1) 踩(0) | <div>喜欢纯音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50868492)<br><br>2016-11-02 10:39<br>赞(1) 踩(0) | <div>总之喜欢就好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84613224)<br> <br>2016-10-30 21:08<br>赞(1) 踩(0) | <div>果然还是河图的更好，前面那么多首都是听个开头就听不下去了</div> |
@@ -209,7 +209,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2831012)<br>暂无签名~<br>2015-05-03 17:05<br>赞(2) 踩(0) | <div>我们需要中华的史诗！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33580734)<br><br>2015-05-01 14:12<br>赞(2) 踩(0) | <div>大爱古风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33953474)<br><br>2015-04-28 17:09<br>赞(0) 踩(0) | <div>大赞</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43893459)<br><br>2015-04-27 00:11<br>赞(1) 踩(0) | <div>嗯嗯，很公正地说，有的真心不错，有的就落入窠臼了。hita的声音很棒啊，但确实有的男声很娘～支持你们，加油！不过希望你们可以更多的书写和歌唱那些实际一些的，而不是空空的爱情。嗯哼，come  on！ <img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43893459)<br><br>2015-04-27 00:11<br>赞(1) 踩(0) | <div>嗯嗯，很公正地说，有的真心不错，有的就落入窠臼了。hita的声音很棒啊，但确实有的男声很娘～<br>支持你们，加油！不过希望你们可以更多的书写和歌唱那些实际一些的，而不是空空的爱情。嗯哼，come  on！ <img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22029453)<br> <br>2015-04-14 21:17<br>赞(1) 踩(0) | <div>古风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8364798)<br><br>2015-04-09 20:21<br>赞(1) 踩(0) | <div>被高中机友推荐后，当写作业ｂｇｍ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3469379)<br>初夏乐队的鼓手菇凉~<br>2015-04-09 10:41<br>赞(2) 踩(0) | <div>墨宝</div> |
@@ -222,10 +222,10 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45737282)<br><br>2015-02-10 18:23<br>赞(0) 踩(0) | <div>v古风,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46979438)<br><br>2015-02-05 21:30<br>赞(0) 踩(0) | <div>因为它是墨明棋妙我从初中到大学一直爱着的墨明棋妙！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46453980)<br><br>2015-01-27 11:53<br>赞(0) 踩(0) | <div>古风</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6265342)<br><br>2015-01-26 12:36<br>赞(0) 踩(0) | <div>音樂，從心而發，不在瓷器韻律。很多打著古風旗號的不過是做了一些金玉其外的作品。有一位蝦友説的對，音樂需要的，是一種情懷 。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6265342)<br><br>2015-01-26 12:36<br>赞(0) 踩(0) | <div>音樂，從心而發，不在瓷器韻律。很多打著古風旗號的不過是做了一些金玉其外的作品。<br>有一位蝦友説的對，音樂需要的，是一種情懷 。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7207959)<br>我还没想好要写什么...<br>2015-01-23 21:02<br>赞(1) 踩(0) | <div>博大精深，爱我中华。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5090667)<br><br>2015-01-22 20:09<br>赞(0) 踩(0) | <div>..........</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23185577)<br>go the dream<br>2015-01-16 14:24<br>赞(1) 踩(0) | <div>狂性难收 我自定我去留笑他不懂 贪嗔痴不需看透</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23185577)<br>go the dream<br>2015-01-16 14:24<br>赞(1) 踩(0) | <div>狂性难收 我自定我去留<br>笑他不懂 贪嗔痴不需看透</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/794657)<br>暂无签名~<br>2015-01-02 22:17<br>赞(2) 踩(0) | <div>古风圈有很多好音乐，但是歌手唱功太差了，每每觉得毁...</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40074679)<br> <br>2015-01-12 10:19<br>赞(0) 踩(0) | <div>真的是，焚心劫没有一个能唱好的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12723049)<br>get money<br>2014-12-31 10:42<br>赞(10) 踩(0) | <div>一厢情愿的回味古人，模仿古人。但我怎么听到更多的是游戏音乐的感觉。有音乐性，现代性，但情怀上差了很多。真正的古乐不是那些乐器歌词，甚至不是韵律。而是情怀，精神，而是你想做什么人，君子，大人，豪杰，侠，圣贤。然后油然而生的心声。与其做音乐不如多读书为真正中国文化做点事情。</div> |
@@ -459,8 +459,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1919978)<br>暂无签名~<br>2013-04-29 18:04<br>赞(0) 踩(0) | <div>中国风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3262846)<br><br>2013-04-25 19:34<br>赞(0) 踩(0) | <div>古风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1917831)<br>虾米，不知道该怎么说你<br>2013-04-23 14:49<br>赞(0) 踩(0) | <div>民乐用得不多啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9164861)<br><br>2013-04-23 09:40<br>赞(0) 踩(0) | <div>墨明棋妙这名字取得真好~</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10168417)<br><br>2013-04-30 10:21<br>赞(0) 踩(0) | <div>墨香千里迎佳客，明溪轻入子牙河。棋盘纵横黑白子，妙音拨醉满城歌。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9164861)<br><br>2013-04-23 09:40<br>赞(0) 踩(0) | <div>墨明棋妙<br>这名字取得真好~</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10168417)<br><br>2013-04-30 10:21<br>赞(0) 踩(0) | <div>墨香千里迎佳客，<br>明溪轻入子牙河。<br>棋盘纵横黑白子，<br>妙音拨醉满城歌。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9164861)<br><br>2013-04-30 13:24<br>赞(0) 踩(0) | <div><q><b>Hugh7e说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10168417)<br><br>2013-05-03 12:07<br>赞(0) 踩(0) | <div><q><b>八喜豆说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14022788)<br><br>2013-04-21 11:56<br>赞(0) 踩(0) | <div>爱河图，爱墨村</div> |
@@ -808,7 +808,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8693391)<br><br>2012-04-01 20:24<br>赞(0) 踩(0) | <div>古风翘楚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/542409)<br><br>2012-04-01 20:04<br>赞(0) 踩(0) | <div>古风盎然，曲意悠远</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8680050)<br><br>2012-03-31 23:25<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4236680)<br><br>2012-03-31 13:42<br>赞(0) 踩(0) | <div>我最爱。。。。。。。。。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4236680)<br><br>2012-03-31 13:42<br>赞(0) 踩(0) | <div>我最爱<br>。。。。。。。。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2829623)<br>野蛮生长，不忘初心<br>2012-03-31 11:03<br>赞(0) 踩(0) | <div>彻头彻尾的中毒了……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8010306)<br> <br>2012-03-29 19:06<br>赞(0) 踩(0) | <div>为什么不喜欢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7856825)<br><br>2012-03-28 23:38<br>赞(0) 踩(0) | <div>好听</div> |
@@ -918,7 +918,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2673575)<br><br>2011-12-19 20:35<br>赞(0) 踩(0) | <div>最喜欢那首《穿越》啊，可惜米有……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7312058)<br><br>2011-12-19 15:43<br>赞(0) 踩(0) | <div>墨村啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4341433)<br><br>2011-12-18 22:00<br>赞(0) 踩(0) | <div>中国风</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1604615)<br><br>2011-12-18 18:16<br>赞(0) 踩(0) | <div>流行中国风？？我真心觉得他们的很多歌很有故事性和背景性。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1604615)<br><br>2011-12-18 18:16<br>赞(0) 踩(0) | <div>流行中国风？？<br>我真心觉得他们的很多歌很有故事性和背景性。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7293090)<br><br>2011-12-18 13:15<br>赞(0) 踩(0) | <div>喜欢这种风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7293214)<br><br>2011-12-18 12:05<br>赞(0) 踩(0) | <div>没办法，一爱上河图，就一发不可收拾</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2761179)<br><br>2011-12-17 16:22<br>赞(0) 踩(0) | <div>古风啊~~~大爱,是看了三楼君的介绍才来收藏滴~</div> |
@@ -934,13 +934,13 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7006339)<br><br>2011-12-07 20:11<br>赞(0) 踩(0) | <div>古风古韵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3633935)<br>以前的都被动删除了啊。还...<br>2011-12-05 13:00<br>赞(0) 踩(0) | <div>兔子啊，有帮助的哟~~~中国风！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4145957)<br><br>2011-12-05 12:33<br>赞(0) 踩(0) | <div>很好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7102579)<br><br>2011-12-04 23:27<br>赞(0) 踩(0) | <div>一个字：很好！我想用：“墨茗棋妙”更好！!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7102579)<br><br>2011-12-04 23:27<br>赞(0) 踩(0) | <div>一个字：很好！我想用：“墨茗棋妙”更好！!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7102579)<br><br>2011-12-04 23:27<br>赞(0) 踩(0) | <div>一个字：很好！我想用：“墨茗棋妙”更好！!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7102579)<br><br>2011-12-04 23:27<br>赞(0) 踩(0) | <div>一个字：很好！我想用：“墨茗棋妙”更好！!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7102579)<br><br>2011-12-04 23:26<br>赞(0) 踩(0) | <div>一个字：很好！我想用：“墨茗棋妙”更好！!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7102579)<br><br>2011-12-04 23:27<br>赞(0) 踩(0) | <div>一个字：很好！<br>我想用：“墨茗棋妙”更好！!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7102579)<br><br>2011-12-04 23:27<br>赞(0) 踩(0) | <div>一个字：很好！<br>我想用：“墨茗棋妙”更好！!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7102579)<br><br>2011-12-04 23:27<br>赞(0) 踩(0) | <div>一个字：很好！<br>我想用：“墨茗棋妙”更好！!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7102579)<br><br>2011-12-04 23:27<br>赞(0) 踩(0) | <div>一个字：很好！<br>我想用：“墨茗棋妙”更好！!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7102579)<br><br>2011-12-04 23:26<br>赞(0) 踩(0) | <div>一个字：很好！<br>我想用：“墨茗棋妙”更好！!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7102579)<br><br>2011-12-04 23:25<br>赞(0) 踩(0) | <div>一个字：很好！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7092258)<br><br>2011-12-04 17:10<br>赞(0) 踩(0) | <div>啥子都不说了赞！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7092258)<br><br>2011-12-04 17:10<br>赞(0) 踩(0) | <div>啥子都不说了<br>赞！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7088832)<br><br>2011-12-04 02:47<br>赞(0) 踩(0) | <div>名字特别</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7052046)<br><br>2011-12-01 20:18<br>赞(0) 踩(0) | <div>古风味十足。。大爱。。强推！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7052046)<br><br>2011-12-01 20:17<br>赞(0) 踩(0) | <div>古色古香。。大爱心水</div> |
@@ -1125,7 +1125,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3280563)<br>白熊桑-看我的胖次！<br>2011-07-28 11:52<br>赞(0) 踩(0) | <div>只喜欢固定人物~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5039109)<br><br>2011-07-27 23:13<br>赞(0) 踩(0) | <div>就是很有爱啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5001456)<br><br>2011-07-24 18:53<br>赞(0) 踩(0) | <div>好爱啊~~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4988346)<br><br>2011-07-23 21:50<br>赞(0) 踩(0) | <div>墨香千里迎佳客，明溪轻入子牙河。棋盘纵横黑白子，妙音拨醉满城歌。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4988346)<br><br>2011-07-23 21:50<br>赞(0) 踩(0) | <div>墨香千里迎佳客，<br>明溪轻入子牙河。<br>棋盘纵横黑白子，<br>妙音拨醉满城歌。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1714502)<br><br>2011-08-09 08:47<br>赞(0) 踩(0) | <div>顺手的诗挺不错的~~古音+New Age可以有这样的旋律~古音+哥特摇滚会如何捏？。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4988346)<br><br>2011-08-09 11:22<br>赞(0) 踩(0) | <div><q><b>wsb729说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4988974)<br><br>2011-07-23 18:25<br>赞(0) 踩(0) | <div>= =喜欢中国风音乐，完毕</div> |
@@ -1182,7 +1182,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4018030)<br><br>2011-05-27 20:13<br>赞(0) 踩(0) | <div>歌讓我想起素素了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3335191)<br><br>2011-05-27 15:15<br>赞(0) 踩(0) | <div>很有新意</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4072326)<br><br>2011-05-26 19:14<br>赞(0) 踩(0) | <div>莫名其妙的喜欢，O(∩_∩)O~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3804421)<br>梦先知<br>2011-05-26 12:46<br>赞(0) 踩(0) | <div>因喜欢国风游戏里的一些配乐 从而得知这一“墨明棋妙”如此通俗 又 雅韵 的国风乐章《千山梦》。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3804421)<br>梦先知<br>2011-05-26 12:46<br>赞(0) 踩(0) | <div>因喜欢国风游戏里的一些配乐 从而得知这一“墨明棋妙”<br>如此通俗 又 雅韵 的国风乐章《千山梦》。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3584719)<br><br>2011-05-26 09:27<br>赞(0) 踩(0) | <div>喜欢就是喜欢，没道理</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4031974)<br><br>2011-05-24 14:43<br>赞(0) 踩(0) | <div>听……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3888168)<br><br>2011-05-23 22:09<br>赞(0) 踩(0) | <div>古风疏狂</div> |
@@ -1252,7 +1252,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3699803)<br><br>2011-04-22 20:16<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3697153)<br><br>2011-04-22 16:14<br>赞(0) 踩(0) | <div>风情万种</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/914342)<br><br>2011-04-22 11:41<br>赞(0) 踩(0) | <div>木有理由就是喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3343123)<br><br>2011-04-21 18:17<br>赞(0) 踩(0) | <div>忽然觉得，喜欢古风的人，都是喜欢逃离的人吧。逃离世俗纷扰，回归心底的那片宁静。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3343123)<br><br>2011-04-21 18:17<br>赞(0) 踩(0) | <div>忽然觉得，喜欢古风的人，都是喜欢逃离的人吧。<br>逃离世俗纷扰，回归心底的那片宁静。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3661926)<br><br>2011-04-19 13:22<br>赞(0) 踩(0) | <div>大爱~支持原创！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3598828)<br><br>2011-04-18 01:03<br>赞(0) 踩(0) | <div>古风，大爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3647515)<br><br>2011-04-17 23:12<br>赞(0) 踩(0) | <div>喜欢古风，喜欢墨明棋妙。</div> |
@@ -1344,7 +1344,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1364164)<br>我还没想好要写什么...<br>2011-02-11 14:47<br>赞(0) 踩(0) | <div>Hey,很不错嘛。每首都给人不一样的感觉。喜欢京华一梦。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2802461)<br><br>2011-02-11 14:18<br>赞(0) 踩(0) | <div>一群才华横溢的人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143846)<br><br>2011-02-11 13:08<br>赞(0) 踩(0) | <div>爱中国风，爱墨明棋妙~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2797199)<br><br>2011-02-10 22:59<br>赞(0) 踩(0) | <div>嘎嘎嘎超爱墨明棋妙</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2797199)<br><br>2011-02-10 22:59<br>赞(0) 踩(0) | <div>嘎嘎嘎<br>超爱墨明棋妙</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2552687)<br><br>2011-02-09 17:55<br>赞(0) 踩(0) | <div>p</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/687293)<br><br>2011-02-08 18:26<br>赞(0) 踩(0) | <div>古风。。大爱啊。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2765236)<br><br>2011-02-08 01:30<br>赞(0) 踩(0) | <div>太喜欢了</div> |
@@ -1352,7 +1352,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2523538)<br><br>2011-02-06 13:20<br>赞(0) 踩(0) | <div>浓浓的中国味！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2717397)<br><br>2011-02-05 22:54<br>赞(0) 踩(0) | <div>古风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2716075)<br>暂无签名~<br>2011-02-05 22:08<br>赞(0) 踩(0) | <div>对</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2289256)<br><br>2011-02-05 20:30<br>赞(0) 踩(0) | <div>轻灵若空谷幽兰活泼似九九黄莺</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2289256)<br><br>2011-02-05 20:30<br>赞(0) 踩(0) | <div>轻灵若空谷幽兰<br>活泼似九九黄莺</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1720943)<br><br>2011-02-02 12:02<br>赞(0) 踩(0) | <div>村子啊。。有神马好说的。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2678088)<br><br>2011-01-30 12:43<br>赞(0) 踩(0) | <div>古风大爱~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2678088)<br><br>2011-01-30 12:43<br>赞(0) 踩(0) | <div>喜欢他们的古风曲~</div> |
@@ -1378,7 +1378,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2432994)<br><br>2011-01-08 21:16<br>赞(0) 踩(0) | <div>很中国风~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2432994)<br><br>2011-01-08 21:16<br>赞(0) 踩(0) | <div>很中国风~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1403536)<br>aint afraid<br>2011-01-08 18:37<br>赞(0) 踩(0) | <div>我的F心\(≧▽≦)/</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2262752)<br><br>2010-12-25 23:22<br>赞(0) 踩(0) | <div>兰若词呢？没的话我弄一个吧</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2262752)<br><br>2010-12-25 23:22<br>赞(0) 踩(0) | <div>兰若词呢？<br>没的话我弄一个吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1344070)<br>我还没想好要写什么...<br>2010-12-04 04:45<br>赞(0) 踩(0) | <div>为什么没有 一厢的红线呢？  专辑也不够把。哪位大大传个上去哈！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1859757)<br><br>2010-11-27 14:03<br>赞(0) 踩(0) | <div>好不容易上传居然失踪了，我伤心呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1859757)<br><br>2010-11-27 14:02<br>赞(0) 踩(0) | <div>我上传的枯叶之蝶怎么不见了,很是气愤</div> |

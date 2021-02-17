@@ -12,16 +12,13 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358180588)<br>心靜的地方<br>2020-10-25 16:03<br>赞(0) 踩(0) | <div>如果回憶也有溫度那此刻我對你的回憶一定是滾燙的。。。。師父</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426970371)<br>脆皮软心薄荷糖果盒<br>2020-07-23 20:21<br>赞(0) 踩(0) | <div>有一个属于自己的摘抄本遇到美的句子和文章都会怀着欣喜的心情记下来直到遇见了你我才知道那些句子和你比起来 太逊色</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358180588)<br>心靜的地方<br>2020-10-25 16:03<br>赞(0) 踩(0) | <div>如果回憶也有溫度<br>那此刻我對你的回憶<br>一定是滾燙的。。。。<br>師父</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426970371)<br>脆皮软心薄荷糖果盒<br>2020-07-23 20:21<br>赞(0) 踩(0) | <div>有一个属于自己的摘抄本<br>遇到美的句子和文章<br>都会怀着欣喜的心情记下来<br>直到遇见了你<br>我才知道<br>那些句子和你比起来 太逊色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10412587)<br>561222<br>2020-04-30 06:43<br>赞(1) 踩(0) | <div>回忆哪能没有温度？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357108967)<br><br>2020-03-27 20:52<br>赞(1) 踩(0) | <div>回忆是温暖的，回忆是幸福的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357108967)<br><br>2020-03-27 09:48<br>赞(1) 踩(0) | <div>回忆是温暖的，回忆是幸福的。</div> |
@@ -37,20 +34,20 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347776823)<br><br>2020-02-14 00:05<br>赞(1) 踩(0) | <div>回忆若有温度，我想那应该是37℃吧！高于人体的正常温度又略微带着一丢丢的燥热…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6932811)<br>心無欲則靜<br>2020-01-22 01:33<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6932811)<br>心無欲則靜<br>2020-01-22 01:33<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325971869)<br>缪斯<br>2019-09-03 02:49<br>赞(3) 踩(0) | <div>都说人生如梦，或许梦就是回忆的化身，黑夜里带着温度，也让人热泪盈眶…[爱心]</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325971869)<br>缪斯<br>2019-09-03 02:49<br>赞(3) 踩(0) | <div>都说人生如梦，<br>或许梦就是回忆的化身，<br>黑夜里带着温度，<br>也让人热泪盈眶…[爱心]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401598024)<br><br>2019-08-11 08:33<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408160965)<br><br>2019-08-07 08:46<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410780510)<br>✎﹏ℳ๓我还有一朵玫瑰想...<br>2019-07-14 11:40<br>赞(2) 踩(0) | <div>当眼泪流尽的时候，留下的应该是坚强……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11859810)<br><br>2019-06-11 20:21<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423728454)<br>我对你的记忆就像天上的星...<br>2019-05-01 22:07<br>赞(1) 踩(0) | <div>你不知道曾经有多爱你，现在也是</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358180588)<br>心靜的地方<br>2019-03-02 23:14<br>赞(1) 踩(0) | <div>耳機的故事。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21528158)<br>我还没想好要写什么...<br>2019-02-22 12:06<br>赞(2) 踩(0) | <div>雨一直在下，好长的日子了。痛苦的乌云一直不停的拉出一条条长长的雨线，潮湿仿佛是酸醋导入我的骨头。哦！云云相叠，雨线拧成绳索似乎捆住了蓝色的晴，那里还看得见夕阳，那里还看得见月亮，还看得见星星，即便是圆睁两眼。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345878174)<br>感谢祢赐我智慧、恩典和力...<br>2019-02-10 23:31<br>赞(7) 踩(0) | <div>有层次的温度回忆是在我们的操控里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21528158)<br>我还没想好要写什么...<br>2019-02-22 12:06<br>赞(2) 踩(0) | <div>雨一直在下，好长的日子了。<br>痛苦的乌云一直不停的拉出一条条长长的雨线，<br>潮湿仿佛是酸醋导入我的骨头。<br>哦！<br>云云相叠，雨线拧成绳索似乎捆住了蓝色的晴，<br>那里还看得见夕阳，那里还看得见月亮，还看得见星星，<br>即便是圆睁两眼。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345878174)<br>感谢祢赐我智慧、恩典和力...<br>2019-02-10 23:31<br>赞(7) 踩(0) | <div>有层次的温度回忆<br>是在我们的操控里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369391890)<br> <br>2019-01-22 07:08<br>赞(1) 踩(0) | <div>静静的岁月如流水轻淌～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325120336)<br>听最动听最优美的旋律<br>2019-01-19 09:40<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49016407)<br>文字是音乐的感悟。<br>2019-01-15 10:54<br>赞(33) 踩(0) | <div>《回忆的温度》。常言道，哀寞大于心死，试图去洞悉已是追忆的感觉。……有些人与事，如随风而逝，散失于空寂，了无痕迹；但有些却虽尘封于岁月静处，回忆时却如长河落日般，瑰丽不褪，仍暖可人！期盼，尘世间诸事，……恬淡却深情！ <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284122223)<br> <br>2019-01-15 09:43<br>赞(2) 踩(0) | <div>回忆总是有温度的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377013821)<br><br>2019-01-09 22:39<br>赞(15) 踩(0) | <div>岁月悠悠，惆怅难觅。愿是从前，还是那么傻憨，后覺后知；不懂惇敏得失，不懂着懵然靠近，不明白是否擦肩好运。可是，终究還是在意悟懂了山花烂漫，枫韵霜华，蓊郁葳蕤，冽冽寒暖。也许，没懂就易逝的人生憾然。抑或世故的人生难体悟欣然。总会有难全。夏初春末。那时，些许还豁然的无虑，匿迹了无数个鲜活日子里没心没肺的风轻云淡。转身凛冽的寒或暖，理不清斩不断丝丝缕缕牵绊。殊不知命运永有绵延难栖的圆满。因缘际遇的昨天，患得患失的明天。一阙清辉影，难断。不断。不愿惜影模糊，不愿思忆散。……惜朝千里语，怀抱残缺，历炼沧桑。若是一定会遗失许多……一定也得到过更多……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377013821)<br><br>2019-01-09 22:39<br>赞(15) 踩(0) | <div>岁月悠悠，惆怅难觅。<br>愿是从前，还是那么傻憨，后覺后知；不懂惇敏得失，不懂着懵然靠近，不明白是否擦肩好运。可是，终究還是在意悟懂了山花烂漫，枫韵霜华，蓊郁葳蕤，冽冽寒暖。也许，没懂就易逝的人生憾然。抑或世故的人生难体悟欣然。总会有难全。<br>夏初春末。那时，些许还豁然的无虑，匿迹了无数个鲜活日子里没心没肺的风轻云淡。<br>转身凛冽的寒或暖，理不清斩不断丝丝缕缕牵绊。殊不知命运永有绵延难栖的圆满。因缘际遇的昨天，患得患失的明天。一阙清辉影，难断。不断。不愿惜影模糊，不愿思忆散。……<br>惜朝千里语，怀抱残缺，历炼沧桑。<br>若是一定会遗失许多……<br>一定也得到过更多……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351566648)<br>假如我们相遇，一定一眼就...<br>2018-12-31 01:05<br>赞(2) 踩(0) | <div>今天我终于去现场听石进的音乐演奏会了，见到他本人的时候真的激动到不行，这首就是开场白。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63745010)<br>随心.随性.随遇.随缘<br>2018-12-15 06:51<br>赞(4) 踩(0) | <div>人到一定年龄，常言心随自然，可无尽的思绪常让人难眠，时过景迁，常道马放南山，可满腹的愁肠常认人尽失欢颜~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186321500)<br>我还没想好要写什么...<br>2018-11-26 14:11<br>赞(2) 踩(0) | <div>2018年，我最喜欢的人在我身边。我似乎 都忘记了跟除他之外的人的回忆。</div> |
@@ -69,7 +66,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187765565)<br>彼得潘和爱丽丝。<br>2018-04-07 12:49<br>赞(1) 踩(0) | <div>冷暖自知</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304372846)<br>你陪我一程，我念你一生。<br>2018-03-21 00:25<br>赞(11) 踩(0) | <div>如果有一种酒，当你喝的多了醉了，能帮你穿越到你回忆的地方，我会毫不犹豫的喝下去，就这样永远停留在你和我的过往，我们一起走过的每一个场景每一个地方，我会紧紧抱着你，永远不放开。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327930533)<br>...<br>2018-03-05 21:15<br>赞(3) 踩(0) | <div>小学时的回忆</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350040421)<br><br>2018-02-13 02:38<br>赞(11) 踩(0) | <div>#回忆的温度#也许就是此刻，我翻遍了所有音乐软件，继而找到虾米才能播放石进先生的曲子；在石进先生的曲子之中，用回忆终找到这首曲子，泪落下的温度。明日就是情人节了，我想念那时青春、那时少年、那时少年不知愁滋味、那时悸动的心，在公交车上期待小男友打来的电话☎️，而铃声正是这首曲子。我都不敢去猜测揣摩打量考核审问我们是否还会在一起，亦或是在一起多久&amp;hellip;&amp;hellip;所有的所有都终成为回忆我们的幸福、泪水、辛酸&amp;hellip;&amp;hellip;回忆起来时许是每一类物质有属于它们温度！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350040421)<br><br>2018-02-13 02:38<br>赞(11) 踩(0) | <div>#回忆的温度#<br>也许就是此刻，我翻遍了所有音乐软件，继而找到虾米才能播放石进先生的曲子；在石进先生的曲子之中，用回忆终找到这首曲子，泪落下的温度。<br>明日就是情人节了，我想念那时青春、那时少年、那时少年不知愁滋味、那时悸动的心，在公交车上期待小男友打来的电话☎️，而铃声正是这首曲子。<br><br>我都不敢去猜测揣摩打量考核审问我们是否还会在一起，亦或是在一起多久&amp;hellip;&amp;hellip;<br>所有的所有都终成为回忆<br>我们的幸福、泪水、辛酸&amp;hellip;&amp;hellip;<br>回忆起来时<br>许是<br>每一类物质有属于它们温度！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243248603)<br>时间从来不语 却回答了所...<br>2018-01-03 22:47<br>赞(20) 踩(0) | <div>熬不过去的日子就让自己忙碌，想念的日子就抬头看看夜晚的星空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340555483)<br><br>2017-12-24 23:24<br>赞(4) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32680044)<br>~<br>2017-12-10 09:14<br>赞(5) 踩(0) | <div>记忆中的你~ <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -102,7 +99,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443097)<br>我还没想好要写什么...<br>2014-04-13 22:44<br>赞(3) 踩(0) | <div>如果回忆也有温度，我希望它是体感最舒适的那个温度，走哪回想起来都是温暖的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477519)<br>爱  是生命的和弦，而不...<br>2013-09-18 16:41<br>赞(3) 踩(0) | <div>^^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13988594)<br>历历在目。<br>2013-07-26 07:42<br>赞(2) 踩(0) | <div>我左手过目不忘的的萤火，右手里是十年一个漫长的打坐。如果我们都是孩子,就可以留在时光的原地,坐在一起一边听那些永不老去的故事一边慢慢皓首。「早安」</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-07-14 23:16<br>赞(2) 踩(0) | <div>温暖的回忆....30536,35,13</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-07-14 23:16<br>赞(2) 踩(0) | <div>温暖的回忆....<br>30536,35,13</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1419746)<br><br>2013-05-26 15:37<br>赞(4) 踩(0) | <div>安静的曲调，适合一边做事，一边听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/185796)<br><br>2013-05-18 15:20<br>赞(2) 踩(0) | <div>2013-5-18 纯净的钢琴曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5002314)<br>普通人，无亮点<br>2013-05-18 15:05<br>赞(104) 踩(0) | <div>如果回忆有温度，会是多少度？或许是38度吧？是有些烧的体温，或是洗澡水的温度。好久没睡午觉了，听着一张没什么特点但很舒服的音乐沉沉的睡了半个小时，在这一曲时，恰好醒了。太阳不晒，回忆正浓……</div> |

@@ -84,8 +84,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48433981)<br><br>2021-01-05 19:20<br>赞(0) 踩(0) | <div>再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362593986)<br>花开如梦，笑颜如初.<br>2020-11-13 00:59<br>赞(0) 踩(0) | <div>路过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-11-02 22:28<br>赞(0) 踩(0) | <div></div> |
@@ -94,7 +94,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16120971)<br><br>2020-05-30 07:19<br>赞(0) 踩(0) | <div>弗兰人已笑趴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-05-19 00:23<br>赞(0) 踩(0) | <div>20200519.524</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-05-04 09:43<br>赞(0) 踩(0) | <div>好的ヾ ^_^♪路过看看</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32142115)<br>有本启奏无本退朝<br>2020-03-23 08:10<br>赞(1) 踩(0) | <div>为什么我会如此依恋一个只认识一个春秋的男人我对他一无所知怎么会发生这些事</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32142115)<br>有本启奏无本退朝<br>2020-03-23 08:10<br>赞(1) 踩(0) | <div>为什么我会如此依恋一个<br>只认识一个春秋的男人<br>我对他一无所知<br>怎么会发生这些事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432969368)<br><br>2020-02-08 13:57<br>赞(2) 踩(0) | <div>好想回到唱这歌的时候，想那时侯的同学老师，回到那无忧无虑的生活！铭记教我唱这歌的外公和外婆！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427868137)<br><br>2020-02-04 21:42<br>赞(2) 踩(0) | <div>记得那刚刚千禧年，听这首歌时，……不讲了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421604576)<br><br>2020-01-14 07:17<br>赞(1) 踩(0) | <div>月到中秋分外明，每逢佳节倍思亲</div> |
@@ -112,7 +112,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324593243)<br>我还没想好要写什么...<br>2019-07-05 21:51<br>赞(1) 踩(0) | <div>曲子写的挺顺畅，副歌也的挺出彩 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374152620)<br>我还没想好要写什么...<br>2019-06-30 09:37<br>赞(3) 踩(0) | <div>比赵雷的有味道</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43536014)<br>纳西人汗金胡<br>2020-03-24 21:39<br>赞(0) 踩(0) | <div>现场更好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400558082)<br>北斗星向左。<br>2019-06-24 20:10<br>赞(2) 踩(0) | <div>什么时候我长大了你却依然还年轻</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400558082)<br>北斗星向左。<br>2019-06-24 20:10<br>赞(2) 踩(0) | <div>什么时候我长大了<br>你却依然还年轻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30426137)<br>我还没想好要写什么...<br>2019-03-25 15:56<br>赞(2) 踩(0) | <div>幼儿园亲子节目的报名曲目，结果被孩子改成咪咪流浪记了，还是独唱。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260167529)<br>爱音乐的疯子<br>2019-01-17 16:08<br>赞(4) 踩(0) | <div>95年创作 05年才面世 唉 这是岁月沉淀的旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326657553)<br>我还没想好要写什么...<br>2019-01-15 07:35<br>赞(2) 踩(0) | <div>恩</div> |
@@ -133,15 +133,15 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373803293)<br><br>2018-09-03 21:20<br>赞(4) 踩(0) | <div>这童声，声声入耳，简直动听极了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380105255)<br><br>2018-08-25 02:51<br>赞(2) 踩(0) | <div>一个字好，两个字好听，三个字真好听&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209868337)<br><br>2018-08-05 01:28<br>赞(1) 踩(0) | <div>还是喜欢雷子的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8223905)<br><br>2018-07-28 14:20<br>赞(6) 踩(0) | <div>多年前在外地求学，听到这首歌会想起故乡湖南的耿直和其他一切，现在已然在外地安家，哄小孩时突然想起这首歌，哼唱着，看着小孩进入梦乡，乡愁更加厚重&amp;hellip;&amp;hellip;ps:赵雷唱这首歌？可我只知道钟志刚～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8223905)<br><br>2018-07-28 14:20<br>赞(6) 踩(0) | <div>多年前在外地求学，听到这首歌会想起故乡湖南的耿直和其他一切，现在已然在外地安家，哄小孩时突然想起这首歌，哼唱着，看着小孩进入梦乡，乡愁更加厚重&amp;hellip;&amp;hellip;<br>ps:赵雷唱这首歌？可我只知道钟志刚～</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274607656)<br><br>2018-09-12 13:45<br>赞(0) 踩(0) | <div>赵雷去年我是歌手节目上翻唱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276073697)<br>致虚极   守静笃<br>2018-07-19 15:43<br>赞(1) 踩(0) | <div>棒  棒 棒棒哒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25604073)<br><br>2018-06-21 22:43<br>赞(2) 踩(0) | <div>第一次听到这首歌是赵雷唱的，今天在这里搜所原来原唱是他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284351019)<br><br>2018-06-02 10:21<br>赞(3) 踩(0) | <div>在人家歌下面刷赵雷的有病吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12500222)<br> <br>2018-05-25 13:30<br>赞(1) 踩(0) | <div>到底哪四个字让和尚砍了头啊&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346060435)<br><br>2018-05-06 18:48<br>赞(1) 踩(0) | <div>每次回去都会被人叫声&amp;ldquo;祖家的外甥狗又来了咧！&amp;rdquo;问候的时候都会说句&amp;ldquo;咭了冒？&amp;rdquo;口里总说&amp;ldquo;咭个了咧！&amp;rdquo;邻家的人总笑话说&amp;ldquo;外甥狗、咭了就走！&amp;rdquo;当时还小、总不珍惜时间、现在还是发现小时候的生活、自由自在，如果时间能倒过去就好了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346060435)<br><br>2018-05-06 18:48<br>赞(1) 踩(0) | <div>每次回去都会被人叫声&amp;ldquo;祖家的外甥狗又来了咧！&amp;rdquo;<br>问候的时候都会说句&amp;ldquo;咭了冒？&amp;rdquo;<br>口里总说&amp;ldquo;咭个了咧！&amp;rdquo;<br>邻家的人总笑话说&amp;ldquo;外甥狗、咭了就走！&amp;rdquo;<br><br>当时还小、总不珍惜时间、现在还是发现小时候的生活、自由自在，如果时间能倒过去就好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239398813)<br><br>2018-04-30 21:21<br>赞(3) 踩(0) | <div>没有长大的人，说想长大，长大的人又经常回味童年。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352024843)<br><br>2018-04-30 20:24<br>赞(0) 踩(0) | <div>、_</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352024843)<br><br>2018-04-30 20:24<br>赞(0) 踩(0) | <div>、<br><br><br><br>_</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38328729)<br><br>2018-04-23 22:58<br>赞(1) 踩(0) | <div>每次听到这首歌忽然心情就安静了很多。 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322826554)<br> <br>2018-04-23 00:35<br>赞(3) 踩(0) | <div>想起小时候放暑假在外婆家住，晚上停电，大家都搬了竹床到院子里睡觉。我躺在硬硬的竹床上，看着天上的星星月亮，外公外婆轮流给我扇着风，给我唱月亮粑粑。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12221090)<br>逍遥于天地而心意自得<br>2018-04-17 20:13<br>赞(0) 踩(0) | <div>赞</div> |
@@ -165,13 +165,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11264865)<br>暂无签名~<br>2017-11-15 18:45<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11953046)<br>诸行无常，歌之咏之。<br>2017-11-14 21:17<br>赞(1) 踩(0) | <div>&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2017-11-13 19:45<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331304002)<br><br>2017-11-13 18:45<br>赞(3) 踩(0) | <div>表示湖南话不好懂。但还是听出了一丝丝乡愁。乡愁是那张小小的邮票，是妈妈做的那顿团圆饭</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331304002)<br><br>2017-11-13 18:45<br>赞(3) 踩(0) | <div>表示湖南话不好懂。但还是听出了一丝丝乡愁。<br>乡愁是那张小小的邮票，是妈妈做的那顿团圆饭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331304002)<br><br>2017-11-12 10:32<br>赞(3) 踩(0) | <div>月是故乡明，饭是家中香</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331889711)<br>我苦苦追寻<br>2017-11-06 15:46<br>赞(1) 踩(0) | <div>舒服的歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284258431)<br> <br>2017-11-01 07:45<br>赞(3) 踩(0) | <div>好好听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284258431)<br> <br>2017-11-01 07:44<br>赞(1) 踩(0) | <div>原唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11077361)<br><br>2017-10-30 10:09<br>赞(7) 踩(0) | <div>关于这首歌的记忆是夏夜有凉风，我们挤在脏兮兮的土色布沙发里抱着西瓜看电影，你挖一口我挖一口，但是西瓜吃多了我会浑身发酥。可是这场景究竟是不是真的存在过，我们却都忘得一干二净啦。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283383)<br>时光悠远 且行且珍惜<br>2017-10-30 10:07<br>赞(3) 踩(0) | <div>长沙童谣):月亮粑粑，肚里（里面）坐个爹爹，爹爹出来买菜，肚里（里面）坐个奶奶，奶奶出来绣花，绣扎糍粑，糍粑跌得井里，变扎蛤蟆，蛤蟆伸脚，变扎喜鹊，喜鹊上树，变扎斑鸠.....</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283383)<br>时光悠远 且行且珍惜<br>2017-10-30 10:07<br>赞(3) 踩(0) | <div>长沙童谣):<br>月亮粑粑，肚里（里面）坐个爹爹，<br>爹爹出来买菜，肚里（里面）坐个奶奶，<br>奶奶出来绣花，绣扎糍粑，<br>糍粑跌得井里，变扎蛤蟆，<br>蛤蟆伸脚，变扎喜鹊，<br>喜鹊上树，变扎斑鸠.....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3888462)<br>暂无签名~<br>2017-10-29 22:09<br>赞(1) 踩(0) | <div>有点华仔的口音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37182716)<br>慢慢走，聆听    回头...<br>2017-10-29 13:25<br>赞(2) 踩(0) | <div>想家了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20189346)<br>cjm陈家明<br>2017-10-28 00:10<br>赞(1) 踩(0) | <div>最近稀饭听听民谣。</div> |
@@ -194,14 +194,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7680926)<br>不以物喜，不以己悲<br>2017-07-26 02:43<br>赞(2) 踩(0) | <div>长沙城经典的童谣 还是有点味道的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6792942)<br><br>2017-07-24 21:14<br>赞(2) 踩(0) | <div>月亮粑粑，肚里坐个嗲嗲，嗲嗲出来买菜，肚里坐个奶奶，奶奶出来绣花，绣个糍粑，糍粑跌得井里变咋蛤蟆，蛤蟆上树变咋斑鸠，斑鸠咕咕咕，和尚恰豆腐，豆腐一部渣，和尚恰粑粑，粑粑一部壳，和尚恰菱角，菱角溜溜尖，和尚上的天，天上四个字，和尚犯哒事，事又犯得恶，抓得和尚砍脑壳！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6792942)<br><br>2017-07-24 21:14<br>赞(12) 踩(0) | <div>月亮粑粑，肚里坐个嗲嗲，嗲嗲出来买菜，肚里坐个奶奶，奶奶出来绣花，绣个糍粑，糍粑跌得井里变咋蛤蟆，蛤蟆上树变咋斑鸠，斑鸠咕咕咕，和尚恰豆腐，豆腐一部渣，和尚恰粑粑，粑粑一部壳，和尚恰菱角，菱角溜溜尖，和尚上的天，天上四个字，和尚犯哒事，事又犯得恶，抓得和尚砍脑壳！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297406336)<br>janejiejieji...<br>2017-07-13 08:02<br>赞(3) 踩(0) | <div>我想，不管是在海外多少年的华人，不管你是否移民听说，要分辨他是不是华人，只要问一句举杯思明月，你能答低头思故乡，他就是华人不管你在多远的地方，多久没有回国总会在某个时刻，想到故乡的味道，也许已经远离你，但在那个时刻，仍会泪流满脸因为，你是华人是黄皮肤，黑眼睛，黑头发的华人你有你无法改变的饮食习惯和文化习俗故乡的味道也许已经很淡，但深入你的骨髓 ，是你无法抹杀的回忆。湘妹子，环球途中，听到这首民谣，泪流满脸</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297406336)<br>janejiejieji...<br>2017-07-13 08:02<br>赞(3) 踩(0) | <div>我想，不管是在海外多少年的华人，不管你是否移民<br>听说，要分辨他是不是华人，只要问一句举杯思明月，<br>你能答低头思故乡，他就是华人<br><br>不管你在多远的地方，多久没有回国<br>总会在某个时刻，想到故乡的味道，也许已经远离你，<br>但在那个时刻，仍会泪流满脸<br>因为，你是华人<br>是黄皮肤，黑眼睛，黑头发的华人<br>你有你无法改变的饮食习惯和文化习俗<br>故乡的味道也许已经很淡，但深入你的骨髓 ，是你无法抹杀的回忆。湘妹子，环球途中，听到这首民谣，泪流满脸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250992633)<br>有音乐的地方，每天都很精...<br>2017-07-10 08:11<br>赞(1) 踩(0) | <div>月亮粑粑！ <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">月亮月亮我问你，今天多大年纪 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30063199)<br> <br>2017-07-05 11:05<br>赞(0) 踩(0) | <div>好全的童谣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41284147)<br>我就是你要找的贱人<br>2017-07-03 10:53<br>赞(0) 踩(0) | <div>@大宁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37182716)<br>慢慢走，聆听    回头...<br>2017-06-30 18:58<br>赞(1) 踩(0) | <div>什么时候我已经长大了～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281809047)<br><br>2017-06-29 13:08<br>赞(0) 踩(0) | <div>mind became peace</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96103920)<br><br>2017-06-28 15:47<br>赞(0) 踩(0) | <div>广州雲龠唱片路过</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276847161)<br>  贪财好色   一身正...<br>2017-06-24 23:32<br>赞(9) 踩(0) | <div>大概有时很爱他有时想一枪崩了他更多时候是在买枪的路上看到他爱喝的豆浆就忘了自己是来杀他的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276847161)<br>  贪财好色   一身正...<br>2017-06-24 23:32<br>赞(9) 踩(0) | <div>大概有时很爱他<br>有时想一枪崩了他<br>更多时候是在买枪的路上<br>看到他爱喝的豆浆<br>就忘了自己是来杀他的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263911110)<br><br>2017-06-22 08:27<br>赞(1) 踩(0) | <div>听这首歌充满了回忆，很想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267267607)<br><br>2017-06-16 17:11<br>赞(0) 踩(0) | <div>怎么没有歌词了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197296251)<br><br>2017-06-15 15:41<br>赞(0) 踩(0) | <div>想念我小时候</div> |
@@ -394,14 +394,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/472540)<br><br>2015-11-03 02:09<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/472540)<br><br>2015-11-03 02:08<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50165345)<br>马本座<br>2015-10-31 08:59<br>赞(0) 踩(0) | <div>曾经单曲循环</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15295951)<br>我是你亲爹<br>2015-10-21 21:37<br>赞(1) 踩(0) | <div>我们这里是月亮粑粑，好吃嗲嗲，嗲嗲买菜好吃老太，老太买菜好吃姑娘，猫猴生蛋，生一千生一万不够姑娘当早饭江苏的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15295951)<br>我是你亲爹<br>2015-10-21 21:37<br>赞(1) 踩(0) | <div>我们这里是月亮粑粑，好吃嗲嗲，嗲嗲买菜好吃老太，老太买菜好吃姑娘，猫猴生蛋，生一千生一万不够姑娘当早饭<br>江苏的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37084186)<br>生活就是，面对复杂，保持...<br>2015-10-15 00:34<br>赞(2) 踩(0) | <div>想起天天向上汪涵说的了，哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43234284)<br> <br>2015-10-12 11:47<br>赞(1) 踩(0) | <div>咱中国儿歌有“剁脑壳”，东瀛儿歌有“抠眼珠子”，真是棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/876606)<br>纯音系列<br>2015-10-11 15:16<br>赞(3) 踩(0) | <div>月亮粑粑-《月亮粑粑》为长沙的老童谣,相传为古人创作,流传至今,常为父母哄孩子睡觉时所用。这却是一首歌，非常好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9097687)<br>于是我知道自己不是随便的...<br>2015-09-27 23:37<br>赞(0) 踩(0) | <div>中秋快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8425469)<br> <br>2015-09-27 22:36<br>赞(3) 踩(0) | <div>这歌挺俗挺土，但在今天听着也不烦，13年看蔡艺芸话剧《写诗》，里面一男孩子说："这首俗气的流行歌曲比任何摇滚乐更让我在内心pogo。" 偶尔为俗气的歌pogo一下并不坏，给我一种所谓的集体感。当然也别太久。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46329402)<br><br>2015-09-27 18:58<br>赞(0) 踩(0) | <div>每逢月饼节倍思亲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/497689)<br>Propriocepti...<br>2015-09-27 18:51<br>赞(0) 踩(0) | <div>什么时候我已长大了，你却依然很平静。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/497689)<br>Propriocepti...<br>2015-09-27 18:51<br>赞(0) 踩(0) | <div>什么时候我已长大了，<br>你却依然很平静。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50819955)<br>一个想隐藏自己的大丑逼！<br>2015-09-27 17:17<br>赞(0) 踩(0) | <div>中秋送你们一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2350710)<br>此有沉迷客<br>2015-09-27 03:27<br>赞(3) 踩(0) | <div>战长沙…</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222724)<br><br>2015-11-05 23:50<br>赞(0) 踩(0) | <div>对，战长沙！</div> |
@@ -537,13 +537,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13518597)<br><br>2013-09-18 22:27<br>赞(0) 踩(0) | <div>月到中秋分外明。正值中秋佳节，祝大家节日快乐，阖家幸福！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20046043)<br><br>2013-09-18 11:26<br>赞(0) 踩(0) | <div>@张_大_猫 @慢x拍 @我就看着你看我看着你不说话 @余笑曰  @厄运之子 @喵迷勒 不团圆的中秋快乐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9127380)<br><br>2013-09-17 23:53<br>赞(0) 踩(0) | <div>什么时候我已长大了，你却依然很年轻。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13783934)<br>能留下什么呢……？？？<br>2013-09-17 21:20<br>赞(0) 踩(0) | <div>寒星点点眨眼睛，月到中秋分外明，今年天气冷得早，秋风清清扰我心。。。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1523719)<br><br>2013-09-09 22:04<br>赞(0) 踩(0) | <div>月亮月亮我问你，今天你多大年纪？什么时候我已长大了，你却依然很平静？故事一年又一年，思念一天又一天，远方的人你是否，依然儿时的容颜。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13783934)<br>能留下什么呢……？？？<br>2013-09-17 21:20<br>赞(0) 踩(0) | <div>寒星点点眨眼睛，<br>月到中秋分外明，<br>今年天气冷得早，<br>秋风清清扰我心。。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1523719)<br><br>2013-09-09 22:04<br>赞(0) 踩(0) | <div>月亮月亮我问你，<br>今天你多大年纪？<br>什么时候我已长大了，<br>你却依然很平静？<br><br>故事一年又一年，<br>思念一天又一天，<br>远方的人你是否，<br>依然儿时的容颜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5842658)<br><br>2013-09-06 09:18<br>赞(0) 踩(0) | <div>(￣▽￣)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6266162)<br><br>2013-09-02 21:15<br>赞(0) 踩(0) | <div>嗯嗯，想家。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7583580)<br><br>2013-08-31 00:16<br>赞(0) 踩(0) | <div>额，在虾米无意间又听到这首歌，开头湖南的儿歌，现在听来还是很亲切。晚安！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9256030)<br><br>2013-08-29 13:14<br>赞(0) 踩(0) | <div>听到前奏儿歌的时候，心里突然泛起对长沙的无限回忆。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11876867)<br>愿这世界温柔待你<br>2013-08-23 13:10<br>赞(0) 踩(0) | <div>上学时候有节课是让大家说家乡的童谣，有人说了这段月亮粑粑。后来在凤凰的小酒吧，原本低头翻着闲书，突然听到这段，立马抬头，台上一个头发长长安安静静男孩子低低的唱着。除了这首，他好像一直都在唱不同的周云蓬~~~~歌依旧，曲固然，你们在哪里。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11876867)<br>愿这世界温柔待你<br>2013-08-23 13:10<br>赞(0) 踩(0) | <div>上学时候有节课是让大家说家乡的童谣，有人说了这段月亮粑粑。后来在凤凰的小酒吧，原本低头翻着闲书，突然听到这段，立马抬头，台上一个头发长长安安静静男孩子低低的唱着。除了这首，他好像一直都在唱不同的周云蓬~~~~<br>歌依旧，曲固然，你们在哪里。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3719344)<br><br>2013-08-22 15:10<br>赞(0) 踩(0) | <div>总算听到完整版的了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7698331)<br>我还没想好要写什么...<br>2013-08-18 12:44<br>赞(0) 踩(0) | <div>For昨夜北京中邪般的满天繁星和月亮粑粑。#美cry的月夜#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4455346)<br><br>2013-08-16 10:31<br>赞(1) 踩(0) | <div>粑粑是屎</div> |
@@ -556,7 +556,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1441872)<br>我还没想好要写什么...<br>2013-07-21 17:06<br>赞(0) 踩(0) | <div>月亮月亮我问你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17303670)<br><br>2013-07-20 22:51<br>赞(1) 踩(0) | <div>躺在床上，头上正好是快圆的月亮，要十五了吧，晚安，我爱你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5888237)<br><br>2013-07-14 19:37<br>赞(0) 踩(0) | <div>不知道为什么，这样的声音特别让人舒服。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5091408)<br><br>2013-07-07 23:41<br>赞(0) 踩(0) | <div>月亮月亮我问你, 今年你多大年纪?什么时候我已长大了, 你却依然很平静?&nbsp;&nbsp;&nbsp;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5091408)<br><br>2013-07-07 23:41<br>赞(0) 踩(0) | <div>月亮月亮我问你, 今年你多大年纪?什么时候我已长大了, 你却依然很平静?<br>&nbsp;&nbsp;&nbsp;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1704250)<br><br>2013-07-06 09:31<br>赞(0) 踩(0) | <div>终于听到完整版的啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7007110)<br>我爱过那位像我的人。<br>2013-06-29 22:39<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1704250)<br><br>2013-06-28 07:00<br>赞(0) 踩(0) | <div>太带感了</div> |
@@ -571,7 +571,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1223865)<br><br>2013-04-13 16:56<br>赞(0) 踩(0) | <div>想家了~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12715257)<br>不说话 只弹琴<br>2013-04-02 01:41<br>赞(0) 踩(0) | <div>结尾萌翻了哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1540762)<br><br>2013-03-26 17:45<br>赞(0) 踩(0) | <div>月亮粑粑，听到眼泪流出来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7999907)<br><br>2013-03-16 05:52<br>赞(1) 踩(0) | <div>月亮月亮我问你，今年你多大年纪？什么时候我已长大了，你却依然很平静？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7999907)<br><br>2013-03-16 05:52<br>赞(1) 踩(0) | <div>月亮月亮我问你，<br>今年你多大年纪？<br>什么时候我已长大了，<br>你却依然很平静？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285096)<br><br>2013-02-17 18:14<br>赞(0) 踩(0) | <div>先听了老周的现场翻唱版，再去找到钟志刚的，还记得那一次音乐节吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5461634)<br><br>2014-07-21 02:24<br>赞(0) 踩(0) | <div>12年的橘洲么……黄昏有点晚霞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12318585)<br><br>2013-01-11 19:03<br>赞(0) 踩(0) | <div>为什么听了月亮粑粑会想哭呢</div> |
@@ -580,7 +580,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4722821)<br><br>2012-11-09 22:48<br>赞(0) 踩(0) | <div>听得人好想哭啊，原来不是刘2的歌啊难怪在他小站找不到，好累身体不累，就是心里不舒服盒盒盒，怎么这么好听呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11048646)<br><br>2012-10-25 10:54<br>赞(0) 踩(0) | <div>居然听到这个了  啊噢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9547308)<br><br>2012-10-02 23:09<br>赞(0) 踩(0) | <div>@袁二淼@万能瓜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/574209)<br>喜歡音樂的攝影師<br>2012-10-01 00:41<br>赞(0) 踩(0) | <div>最適合今夜的一首歌~~~~~雖已經是八月十六了，但今夜月仍圓月亮月亮我問你，今天你多大年紀~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/574209)<br>喜歡音樂的攝影師<br>2012-10-01 00:41<br>赞(0) 踩(0) | <div>最適合今夜的一首歌~~~~~雖已經是八月十六了，但今夜月仍圓<br>月亮月亮我問你，今天你多大年紀~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/921917)<br><br>2012-09-30 18:36<br>赞(0) 踩(0) | <div>寒星点点眨眼睛，月到中秋分外明，站在水边望月亮，月亮下面是故乡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7608491)<br><br>2012-09-30 16:37<br>赞(0) 踩(0) | <div>想回家吃月饼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3975684)<br><br>2012-09-29 07:16<br>赞(0) 踩(0) | <div>月到中秋分外明——陈酿十载 浓情奉献</div> |
@@ -588,8 +588,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1658317)<br>我还没想好要写什么...<br>2012-09-28 09:39<br>赞(0) 踩(0) | <div>我要回家T T</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2526928)<br>想当年，老夫也是神一般的...<br>2012-09-19 15:27<br>赞(0) 踩(0) | <div>@睡睡睡睡睡睡眠薬 @小小宇很纠结 @疯了的杨 应时应景~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10170587)<br><br>2012-08-29 23:59<br>赞(0) 踩(0) | <div>晚安，远方的你，晚安，月亮粑粑。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1000277)<br>我还没想好要写什么...<br>2012-06-06 01:32<br>赞(0) 踩(0) | <div>故事一年又一年思念一天又一天远方的人你是否依然儿时的容颜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8083596)<br><br>2012-05-15 23:52<br>赞(1) 踩(0) | <div>月亮月亮我问你明年你多大年纪什么时候我已经老了你却依然很年轻</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1000277)<br>我还没想好要写什么...<br>2012-06-06 01:32<br>赞(0) 踩(0) | <div>故事一年又一年<br>思念一天又一天<br>远方的人你是否<br>依然儿时的容颜</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8083596)<br><br>2012-05-15 23:52<br>赞(1) 踩(0) | <div>月亮月亮<br>我问你<br>明年你多大年纪<br>什么时候我已经老了<br>你却依然很年轻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8974595)<br><br>2012-05-15 18:59<br>赞(0) 踩(0) | <div>虽然歌不是湖南话的，不过后面的童谣是湖南话的～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/706386)<br><br>2012-05-14 21:53<br>赞(0) 踩(0) | <div>@咖啡冷到凉 @女巫阿鳖 @韩非寒本人 @没素质的捞比真是恐怖如斯 @VichSpree @Disappeared_Man @Assaprotype @狂拽龙少皇</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7305096)<br>没事听着玩儿~~<br>2012-04-24 21:05<br>赞(0) 踩(0) | <div>太另类了。。。。</div> |
@@ -602,10 +602,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/972898)<br><br>2011-12-26 18:15<br>赞(0) 踩(0) | <div>5555，，想肥克~~~~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3777629)<br>我还没想好要写什么...<br>2011-12-06 12:39<br>赞(0) 踩(0) | <div>我又开始单曲循环这首歌，又开始想家了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1230897)<br><br>2011-11-21 21:54<br>赞(0) 踩(0) | <div>前面奶油了，最后段长沙童谣把我给吼醒了，@gogofy,　长沙话的蛤蟆跟我们老家的蚱蚂是一个音，笑屎了，斑鸠咕咕咕咕咕咕咕</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6112261)<br><br>2011-10-04 23:20<br>赞(0) 踩(0) | <div>什么时候我已长大了，你却依然很平静……更喜欢周云蓬的版本，无奈……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6112261)<br><br>2011-10-04 23:20<br>赞(0) 踩(0) | <div>什么时候我已长大了，你却依然很平静……<br>更喜欢周云蓬的版本，无奈……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3283326)<br><br>2011-09-24 16:57<br>赞(0) 踩(0) | <div>9.11听周云蓬现场版，今天终于找到了原唱。可是，已经错过了中秋节。今年的中秋假自high，一点也不想家。重听这首歌，所有的情绪都释放了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4322047)<br><br>2011-09-14 18:15<br>赞(0) 踩(0) | <div>月亮粑粑^M^</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3772909)<br><br>2011-09-13 12:34<br>赞(0) 踩(0) | <div>寒星点点眨眼睛/月到中秋分外明/站在水边望月亮/月亮下面是故乡。月亮月亮我问你/今天你多大年纪？/什么时候我已长大了/你却依然很平静？只找到这个版本，也很好听~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3772909)<br><br>2011-09-13 12:34<br>赞(0) 踩(0) | <div>寒星点点眨眼睛/月到中秋分外明/站在水边望月亮/月亮下面是故乡。<br>月亮月亮我问你/今天你多大年纪？/什么时候我已长大了/你却依然很平静？<br><br>只找到这个版本，也很好听~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3343035)<br>嘿<br>2011-09-12 23:15<br>赞(0) 踩(0) | <div>月亮月亮我问你，今年你多大年纪？明天我会在哪里？什么时候我已长大了，而你依然很年轻。什么时候我已死去了，而你依然很平静。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2118143)<br>一手拿苹果，一手拿命运<br>2011-09-12 22:12<br>赞(0) 踩(0) | <div>里面的《月亮粑粑》童谣，湖南人都是再熟悉不过滴～～～～这首歌我每到中秋都会听一遍。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/157553)<br><br>2011-08-01 15:53<br>赞(0) 踩(0) | <div>娭毑我想你哒 哈哈。</div> |

@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337587725)<br><br>2017-12-02 18:38<br>赞(0) 踩(0) | <div>不是说是伴奏吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52629727)<br>‭<br>2017-11-24 07:38<br>赞(0) 踩(0) | <div>什么东西</div> |

@@ -12,18 +12,15 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289349116)<br><br>2020-04-17 11:58<br>赞(1) 踩(0) | <div>整首歌就3个音一次又一次地重复，真的这还叫音乐吗？？？这作曲水平我能写出无数首歌了 <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286121177)<br>有物浑成兮，成而无私兮。<br>2019-12-11 22:02<br>赞(0) 踩(0) | <div>人生就是简简单单的走着过程不管如何的波澜壮阔回过头看看来路微微一笑</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330597487)<br><br>2019-11-24 22:28<br>赞(0) 踩(0) | <div>蜿蜒待行的水流，徘徊，至静，而不滞。借鉴了。 <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38905856)<br>心想事成<br>2019-09-14 15:34<br>赞(0) 踩(0) | <div>就是喜欢这样慢慢的调子~特别是：躺在夕阳下的草地上仰卧在星空下风和日丽的午后身旁隔着一壶清茶悄咪咪的抿一口肆意的联想或放空感受身边能感受到的每一秒所发生的…………舒服</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286121177)<br>有物浑成兮，成而无私兮。<br>2019-12-11 22:02<br>赞(0) 踩(0) | <div>人生就是简简单单的走着<br>过程不管如何的波澜壮阔<br>回过头看看来路<br>微微一笑</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330597487)<br><br>2019-11-24 22:28<br>赞(0) 踩(0) | <div>蜿蜒待行的水流，徘徊，至静，而不滞。<br>借鉴了。 <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38905856)<br>心想事成<br>2019-09-14 15:34<br>赞(0) 踩(0) | <div>就是喜欢这样慢慢的调子~<br>特别是：<br>躺在夕阳下的草地上<br>仰卧在星空下<br>风和日丽的午后<br>身旁隔着一壶清茶<br>悄咪咪的抿一口<br>肆意的联想或放空<br>感受身边能感受到的每一秒所发生的<br>…………舒服</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12837493)<br><br>2019-07-31 21:33<br>赞(0) 踩(0) | <div>简单而又不失宁静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324627781)<br>刁钻也传统<br>2019-06-11 14:21<br>赞(0) 踩(0) | <div>找着 以为找到了 又迷失在命运的迷宫里 失落犹疑之际 灵感又狡黠地再次出现 最后彻悟 最后平静</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409183171)<br>在基督里寻找自由<br>2019-12-05 20:22<br>赞(0) 踩(0) | <div>远方的寂静让我想起之前的自己背起行囊独自去旅游、走在远方的路上越走越远……</div> |
@@ -38,16 +35,16 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281201277)<br>音乐真的很神奇……<br>2018-05-22 17:01<br>赞(0) 踩(0) | <div>宁静的缺少情绪，我最喜欢这个专辑的&amp;ldquo;迷失&amp;rdquo;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12837493)<br><br>2019-07-31 21:34<br>赞(0) 踩(0) | <div><q><b>李阳说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12837493)<br><br>2019-07-31 21:36<br>赞(0) 踩(0) | <div><q><b>李阳说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322705510)<br><br>2018-03-06 11:32<br>赞(8) 踩(0) | <div>你有你有了你自从有了你就有了谜......你是你大地烘托你天空拥抱你星星照耀你月亮亲吻你你还是你......微风吹拂你雨滴浸润你树叶向你招手小草向你回眸你还是你......你迷失了？你在寻找？你想离开？？如果你想找到归途，我想永远为你搭起一座迷宫......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322705510)<br><br>2018-03-06 11:32<br>赞(8) 踩(0) | <div>你<br>有你<br>有了你<br>自从有了你<br>就有了谜......<br><br>你是你<br><br>大地烘托你<br>天空拥抱你<br>星星照耀你<br>月亮亲吻你<br><br>你还是你......<br><br>微风吹拂你<br>雨滴浸润你<br>树叶向你招手<br>小草向你回眸<br><br>你还是你......<br><br>你迷失了？<br>你在寻找？<br>你想离开？？<br><br>如果你想找到归途，<br>我想永远为你搭起一座迷宫......</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12837493)<br><br>2019-07-31 21:32<br>赞(0) 踩(0) | <div>谢谢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116376288)<br>多听歌就不胡思乱想了<br>2018-01-13 14:24<br>赞(3) 踩(0) | <div>欲言又止</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260652658)<br>我还没想好要写什么。<br>2017-12-14 17:59<br>赞(2) 踩(0) | <div>很安静，缓慢地，缓慢地，想睡觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302716550)<br>人生哪能多如意 万事只求...<br>2017-12-14 01:31<br>赞(2) 踩(0) | <div>夜深人静，听着这首轻歌。看着玻璃窗户外的世界，心里不是滋味。生活太多无奈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8647872)<br><br>2017-11-18 19:47<br>赞(14) 踩(0) | <div>是啊，这个应该是林海所有曲子中最特别的一首，我很想和林海坐下来喝杯咖啡，问他当时经历了什么</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330597487)<br><br>2019-11-24 22:31<br>赞(0) 踩(0) | <div>乐而不淫，哀而不伤，迷而不惘 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330597487)<br><br>2019-11-24 22:31<br>赞(0) 踩(0) | <div>乐而不淫，<br>哀而不伤，<br>迷而不惘 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15307102)<br>越出古典边界<br>2017-11-08 21:43<br>赞(0) 踩(0) | <div>联想到萨蒂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35435485)<br>鱼的记忆有立秒来着？<br>2017-10-22 00:49<br>赞(4) 踩(0) | <div>正在跟一个喜欢的女孩聊天，钢琴声莫名的响起，心不由得压缩一痛。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256683730)<br>wanna be a S...<br>2017-08-28 11:21<br>赞(3) 踩(0) | <div>睁开眼是空旷的天际 呈现出迷幻诡异的蓝四面是白色的高墙 仿佛悬浮在空中的迷宫挣扎着站起 扶墙寻找出口却难以挣脱 循环往复无论如何奔跑无法逃离的循环是最迷茫时的内心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256683730)<br>wanna be a S...<br>2017-08-28 11:21<br>赞(3) 踩(0) | <div>睁开眼是空旷的天际 呈现出迷幻诡异的蓝<br>四面是白色的高墙 仿佛悬浮在空中的迷宫<br>挣扎着站起 扶墙寻找出口却难以挣脱 循环往复<br>无论如何奔跑无法逃离的循环<br>是最迷茫时的内心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13740776)<br>一切艺术都希望达到音乐的...<br>2017-08-17 14:53<br>赞(2) 踩(0) | <div>啊！每次跳到林海的音乐总会想起曾经那些低谷的日子 陪伴着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27423797)<br> <br>2017-08-06 13:51<br>赞(2) 踩(0) | <div>很适合做影视剧广播剧的背景音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273606795)<br>我想再次用虾米音乐与你分...<br>2017-07-03 08:44<br>赞(5) 踩(0) | <div>当时写推荐语时，真的感觉无从下手，好难好难表达，用的时间最长，找不到答案啊，差点就放弃了。坚持住挺住灵光出现了，音符简单.徘徊.矛盾，最后轻松漂流徜徉，我抓住了它的根，完成了。谢谢！</div> |
@@ -78,7 +75,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22138593)<br>我还没想好要写什么...<br>2014-12-28 23:41<br>赞(0) 踩(0) | <div>安静地听着听着就困了，晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24585126)<br>grace<br>2013-12-06 00:56<br>赞(1) 踩(0) | <div>这一首象征大大的忧郁与彷徨止步。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17325488)<br><br>2013-07-16 00:09<br>赞(0) 踩(0) | <div>【迷宫】林海</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15943817)<br><br>2013-06-14 19:08<br>赞(2) 踩(0) | <div>许我，为心寻个出处--安放。回首来路渐苍桑。踏入，谁又不曾彷徨？思量--来路依旧如常，心已风霜。兜兜转转何曾忘？迷宫般的模样--谁能走得出，谁能记得往？人生的这般迷茫。踏入，便忘记了归路，难寻出处。从入口处寻啊--自思量。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15943817)<br><br>2013-06-14 19:08<br>赞(2) 踩(0) | <div>许我，为心寻个出处--安放。<br>回首来路渐苍桑。<br>踏入，谁又不曾彷徨？思量--<br>来路依旧如常，心已风霜。<br>兜兜转转何曾忘？<br>迷宫般的模样--<br>谁能走得出，谁能记得往？<br>人生的这般迷茫。<br>踏入，便忘记了归路，难寻出处。<br>从入口处寻啊--<br>自思量。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14452691)<br><br>2013-05-03 18:36<br>赞(0) 踩(0) | <div>一剂良药</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8448268)<br><br>2013-03-13 23:06<br>赞(0) 踩(0) | <div>虽然不是同一路的〜但是这一首让我想起Adele的Chasing Pavements〜a labyrinth leading to no where~ keep chasing or give up~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13334017)<br><br>2013-03-02 23:19<br>赞(0) 踩(0) | <div>少年站在层层环绕的迷宫中迷失方向踟蹰前进……</div> |

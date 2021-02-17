@@ -24,5 +24,3 @@ Un chapeau à plumes avec des grelots
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

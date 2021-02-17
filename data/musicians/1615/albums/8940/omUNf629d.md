@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270788585)<br>我还没想好要写什么...<br>2021-01-10 11:55<br>赞(1) 踩(0) | <div>希望也是新的开始 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279314333)<br>忍冬<br>2021-01-05 16:48<br>赞(2) 踩(0) | <div>虾米要停服了， <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">这首歌成了绝版。明天高考加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338706059)<br>我还没想好要写什么...<br>2020-12-25 22:40<br>赞(1) 踩(0) | <div>听这首音乐，想起了最近关注的《房思琪的初恋乐园》</div> |
@@ -57,7 +54,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49125150)<br>一念心清净<br>2017-11-19 20:40<br>赞(2) 踩(0) | <div>不错喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305489610)<br><br>2017-11-16 09:00<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273131482)<br>清心悦目<br>2017-11-02 11:52<br>赞(1) 踩(0) | <div>空灵的淡淡的歌声，让冬季温暖起來，灵魂也跟着舞动微微跳动升华</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6303121)<br><br>2017-10-27 23:27<br>赞(2) 踩(0) | <div>几乎和宫崎骏星海诚作品中的曲子是一样的..未名的感觉在我心里渐渐萌发，然后轻轻散去没有什么回忆错综复杂的浮现，但是我的心绪被抚平了，如此一般..</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6303121)<br><br>2017-10-27 23:27<br>赞(2) 踩(0) | <div>几乎和宫崎骏星海诚作品中的曲子是一样的..<br>未名的感觉在我心里渐渐萌发，然后轻轻散去<br>没有什么回忆错综复杂的浮现，但是我的心绪被抚平了，如此一般..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327196591)<br><br>2017-09-28 13:35<br>赞(2) 踩(0) | <div>找了好长时间这首歌，结果听着听着就听哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131744942)<br> <br>2017-09-24 18:23<br>赞(129) 踩(0) | <div>以前在孤儿院工作代养过一个自己喜欢的小男孩 胖嘟嘟的 从一个月看他长到四岁 这是属于我们俩的歌 两年前他被外国人收养出国了 不知道现在还好不好 想念这个傻儿子 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78482626)<br>chenchenho<br>2017-09-24 22:55<br>赞(0) 踩(0) | <div>好感人的分享~希望小男孩一切都好</div> |
@@ -91,7 +88,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/762181)<br> <br>2017-04-21 07:03<br>赞(1) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48787528)<br><br>2017-02-26 10:46<br>赞(2) 踩(0) | <div>穿透灵魂的女声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255946794)<br><br>2017-01-13 11:37<br>赞(0) 踩(0) | <div>继续</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255946794)<br><br>2017-01-13 11:36<br>赞(18) 踩(0) | <div>歌词de bi si wisor de sar she for dide bi si hira de sor she sor dihars tu kar de-rsi wi se je-rsi hiar si hi</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255946794)<br><br>2017-01-13 11:36<br>赞(18) 踩(0) | <div>歌词<br>de bi si wi<br>sor de sar she for di<br>de bi si hi<br>ra de sor she sor di<br>hars tu kar de-r<br>si wi se je-r<br>si hi<br>ar si hi</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290553430)<br>相遇，即使缘分<br>2017-05-21 23:44<br>赞(0) 踩(0) | <div>翻译，兄弟，要的是翻译</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340575065)<br>How Big tree...<br>2018-01-23 21:29<br>赞(0) 踩(0) | <div><q><b>林love说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240813964)<br><br>2016-10-27 22:22<br>赞(1) 踩(0) | <div>唉。。</div> |
@@ -100,7 +97,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11680366)<br>我还没想好要写什么...<br>2018-08-28 22:35<br>赞(0) 踩(0) | <div>我也是</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50000146)<br><br>2016-06-12 09:41<br>赞(1) 踩(0) | <div>放空的自己，藏在音符里～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11783094)<br> <br>2016-05-16 21:28<br>赞(0) 踩(0) | <div>晚安了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145627466)<br>人生本来就如此艰难<br>2016-04-19 23:14<br>赞(3) 踩(0) | <div>晨曦中的女孩晚安</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145627466)<br>人生本来就如此艰难<br>2016-04-19 23:14<br>赞(3) 踩(0) | <div>晨曦中的女孩<br>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32461398)<br>曾在云上浮想联翩如今也终...<br>2016-01-02 12:52<br>赞(0) 踩(0) | <div>~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300475)<br>我还没想好要写什么...<br>2015-12-16 00:35<br>赞(3) 踩(0) | <div>08年冬天。 已经关闭的ST。整理了整张专辑给一个妹子。 只是渐行渐远……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83578402)<br>Smiles like ...<br>2015-11-29 14:52<br>赞(0) 踩(0) | <div>放空。</div> |
@@ -135,7 +132,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10659524)<br><br>2012-09-18 15:16<br>赞(0) 踩(0) | <div>这个不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4212312)<br><br>2012-09-10 16:18<br>赞(0) 踩(0) | <div>安静~~！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10156651)<br><br>2012-08-10 11:48<br>赞(1) 踩(0) | <div>从高中时代就喜欢上的专辑，总是能给内心一次洗涤，听着听着就好像什么烦恼都可以抛开了，希望朋友们听也可以~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7763367)<br>如果有天我出现在你面前能...<br>2012-07-19 15:05<br>赞(1) 踩(0) | <div>曾经想在你面前做个透明的自己所有的一切你都可以知道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7763367)<br>如果有天我出现在你面前能...<br>2012-07-19 15:05<br>赞(1) 踩(0) | <div>曾经想在你面前<br>做个透明的自己<br>所有的一切你都可以知道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4789967)<br><br>2012-07-05 18:27<br>赞(0) 踩(0) | <div>好听~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9466055)<br><br>2012-06-14 09:52<br>赞(0) 踩(0) | <div>谢谢你，我才记起了这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7818759)<br> <br>2012-05-25 13:48<br>赞(0) 踩(0) | <div>略带悲伤 缓慢</div> |

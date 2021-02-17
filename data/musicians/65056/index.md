@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2bb4a88a902966a2acca74fe6152bfd2.jpg)<br>周子雷](https://i.xiami.com/zilei) | **播放数**: 8189443<br>**粉丝数**: 5857<br>**评论数**: 177<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 中国民乐 Chinese Folk Music<br> |
+| [![](../../images/musicians/2bb4a88a902966a2acca74fe6152bfd2.jpg)<br>周子雷](https://i.xiami.com/zilei) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 中国民乐 Chinese Folk Music<br>**播放数**: 8189443<br>**粉丝数**: 5857<br>**评论数**: 177<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -27,15 +24,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2019-12-15 15:27<br>赞(1) 踩(0) | <div>14324</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429501354)<br><br>2019-10-25 19:24<br>赞(0) 踩(0) | <div>你的歌最棒。酷库</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429501354)<br><br>2019-10-25 19:23<br>赞(0) 踩(0) | <div>你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301857159)<br>莫提队长<br>2019-07-31 11:42<br>赞(0) 踩(0) | <div>有才的人，不该被淡漠。古装剧什么时候学会用周子雷的曲子，那一定会很火。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301857159)<br>莫提队长<br>2019-07-31 11:42<br>赞(0) 踩(0) | <div>有才的人，不该被淡漠。<br>古装剧什么时候学会用周子雷的曲子，那一定会很火。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411210156)<br>不要找我，故事讲不完<br>2019-06-28 21:40<br>赞(2) 踩(0) | <div>千年风雅 太美了……古龙江湖的感觉…… <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324896890)<br><br>2019-06-17 16:30<br>赞(1) 踩(0) | <div>我也是通过周子雷老师跟韩红老师合作的《往事随风》才被周老师的陶笛所迷倒  特别喜欢 《来自泥土的呼唤》《深谷幽兰》《千年风雅》沏一壶清茶  关上灯 闭上眼  嗅着茶的芬芳  让陶笛带我走进自我的空灵  谢谢周老师用笛声洗涤了心灵</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2019-01-05 12:02<br>赞(1) 踩(0) | <div>喜欢好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2019-01-05 12:02<br>赞(1) 踩(0) | <div>喜欢<br>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264982634)<br><br>2018-10-17 20:56<br>赞(1) 踩(0) | <div>13年听到千年风雅就喜欢上了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354939751)<br>留住青春的美好献给美好的...<br>2018-09-10 00:44<br>赞(2) 踩(0) | <div>古韵新风，演绎到位 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1117113)<br>虾米号竟然也会被盗！<br>2018-05-21 20:08<br>赞(2) 踩(0) | <div>有想法有激情的音乐人</div> |
@@ -63,7 +60,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38801880)<br> <br>2016-06-25 22:20<br>赞(0) 踩(0) | <div>牛牪犇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38801880)<br> <br>2016-06-25 17:54<br>赞(1) 踩(0) | <div>O(∩_∩)O</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47042330)<br>maojiwu<br>2016-01-29 13:13<br>赞(1) 踩(0) | <div>陶笛</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11869113)<br><br>2015-09-13 18:17<br>赞(1) 踩(0) | <div>赤子冰心寄孤月旧人执伞提孤灯</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11869113)<br><br>2015-09-13 18:17<br>赞(1) 踩(0) | <div>赤子冰心寄孤月<br>旧人执伞提孤灯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39788841)<br> .<br>2015-07-30 10:46<br>赞(1) 踩(0) | <div>Lium</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45435466)<br>Learn By Hea...<br>2015-07-03 11:10<br>赞(24) 踩(0) | <div>既然是大师就应该像宗次郎一样有自己的原创，否则只能算是一个高超的演奏家=_=  分享  平原綾香 的歌曲《Pure Blue - instrumental》<a href="http://www.xiami.com/song/3434691" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/3434691</a>（分享自@虾米音乐）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77466704)<br>我还没想好要写什么...<br>2017-10-07 20:13<br>赞(0) 踩(0) | <div>傻 &amp;times;</div> |
@@ -93,7 +90,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/856237)<br>曲风~<br>2014-10-26 16:16<br>赞(1) 踩(0) | <div>中国陶笛先生</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13552)<br><br>2014-10-08 15:00<br>赞(1) 踩(0) | <div>陶笛之旅</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26150922)<br>@<br>2014-11-28 15:40<br>赞(0) 踩(0) | <div>g ee</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-09-24 01:40<br>赞(1) 踩(0) | <div>中国陶笛周694224,2118,112</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-09-24 01:40<br>赞(1) 踩(0) | <div>中国陶笛周<br>694224,2118,112</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12948310)<br>音乐是上帝派来慰藉灵魂的...<br>2014-09-23 20:26<br>赞(1) 踩(0) | <div>一直喜欢~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1353448)<br><br>2014-09-23 14:58<br>赞(1) 踩(0) | <div>千年风雅大爱啊，多多出些精品吧！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7776021)<br>memento mori<br>2014-09-22 21:13<br>赞(2) 踩(0) | <div>欢迎~~~~~~</div> |
@@ -181,7 +178,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7325899)<br><br>2011-12-20 12:50<br>赞(1) 踩(0) | <div>美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6542911)<br><br>2011-12-09 00:49<br>赞(1) 踩(0) | <div>同问，是真人吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2658937)<br><br>2011-12-03 16:47<br>赞(1) 踩(0) | <div>哇。。。。难道真的是本人</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1327618)<br>我喜欢你（网易云花兮未晞...<br>2011-12-01 09:51<br>赞(1) 踩(0) | <div>- -原来那个视频的音乐在这里呢。。。。是因为剑三所以认识你了，囧</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1327618)<br>我喜欢你（网易云花兮未晞...<br>2011-12-01 09:51<br>赞(1) 踩(0) | <div>- -原来那个视频的音乐在这里呢。。。。<br>是因为剑三所以认识你了，囧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6542911)<br><br>2011-12-01 00:07<br>赞(1) 踩(0) | <div>加油哦，子雷，你是希望</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6509256)<br><br>2011-11-26 16:09<br>赞(1) 踩(0) | <div>很优美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6319408)<br>我哒哒的走 带起一路烟尘<br>2011-11-18 12:43<br>赞(1) 踩(0) | <div>很喜欢他的风格</div> |

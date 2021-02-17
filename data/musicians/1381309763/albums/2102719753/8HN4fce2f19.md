@@ -55,5 +55,3 @@ Comin' for to carry me home
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

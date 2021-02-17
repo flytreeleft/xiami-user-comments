@@ -30,5 +30,3 @@ One named jack and one named jill
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

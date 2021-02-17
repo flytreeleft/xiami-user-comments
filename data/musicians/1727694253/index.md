@@ -3,7 +3,7 @@ Jack​LNDN
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/259b8ee94b7c3d2b2138931ec4dfe9a3.jpg)<br>Jack​LNDN](https://i.xiami.com/jacklndn) | **播放数**: 4741357<br>**粉丝数**: 4026<br>**评论数**: 180<br>**地区**: United Kingdom 英国<br>**风格**: 电子 Electronic<br> |
+| [![](../../images/musicians/259b8ee94b7c3d2b2138931ec4dfe9a3.jpg)<br>Jack​LNDN](https://i.xiami.com/jacklndn) | **地区**: United Kingdom 英国<br>**风格**: 电子 Electronic<br>**播放数**: 4741357<br>**粉丝数**: 4026<br>**评论数**: 180<br> |
 
 ## 档案
 
@@ -54,8 +54,8 @@ Musically 2014 saw the release of his debut EP ‘Drop Out’, as well as remixe
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14807051)<br>我还没想好要写什么...<br>2020-10-07 14:51<br>赞(0) 踩(0) | <div>还是想听drop out</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205750192)<br>to help, sha...<br>2020-02-26 19:05<br>赞(1) 踩(0) | <div>又帅又有才 <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351134673)<br>音乐美化生活<br>2019-08-10 16:44<br>赞(2) 踩(0) | <div>身上带着硬硬的刺和厚厚的盔甲，把自己包裹起来。 <img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |

@@ -3,7 +3,7 @@ iDiot8
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/61b0efe006e0c69a24d83fcc5a8ac433.jpg)<br>iDiot8](https://i.xiami.com/idiot8) | **播放数**: 859302<br>**粉丝数**: 184<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 未来贝斯 Future Bass, 回响贝斯 Dubstep<br> |
+| [![](../../images/musicians/61b0efe006e0c69a24d83fcc5a8ac433.jpg)<br>iDiot8](https://i.xiami.com/idiot8) | **地区**: China 中国大陆<br>**风格**: 未来贝斯 Future Bass, 回响贝斯 Dubstep<br>**播放数**: 859302<br>**粉丝数**: 184<br>**评论数**: 7<br> |
 
 ## 档案
 
@@ -35,8 +35,8 @@ iDiot8(蠢材) 是来自中国的电子音乐制作人 / DJ，美国ASCAP(美国
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431946380)<br>只要在一起就不惧严寒！好...<br>2020-12-06 13:31<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9907882)<br>如如不动 万法唯心<br>2020-04-22 22:14<br>赞(0) 踩(0) | <div><img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330900828)<br>高舉一面五星紅旗在蝦米！<br>2020-03-28 06:10<br>赞(0) 踩(0) | <div></div> |

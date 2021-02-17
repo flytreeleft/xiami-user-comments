@@ -50,8 +50,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79296100)<br>我爱虾米.<br>2020-10-23 23:31<br>赞(0) 踩(0) | <div>这首歌让我想起一个名字，她已经不在了.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8109124)<br>随性，做自己喜欢的自己<br>2020-07-16 17:20<br>赞(0) 踩(0) | <div>这个不插电版也太好听了吧，好干净❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332617792)<br>三千大千世界，是一不是二...<br>2020-07-05 08:01<br>赞(0) 踩(0) | <div>❄️❄️❄️ <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/2dddd65f06f01a396df470103735c8ff.png"> <img src="../../../../images/comments/2dddd65f06f01a396df470103735c8ff.png"></div> |
@@ -64,12 +64,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334087997)<br><br>2020-02-02 21:45<br>赞(2) 踩(0) | <div>爸妈，我每天每天都好想好想你们。假如你们还在，我也不会流浪远方，我的心就还有归宿。十一年了，我无时不刻的想你们，梦里总是看不清楚你们的脸，失落，心绞痛的醒来，原来是大梦一场。难过的时候日记写了又删，删就又写，反反复复。假如时光能倒流，我愿意用余生换你们回来。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63020)<br>东东喜欢腕表<br>2020-06-28 22:50<br>赞(0) 踩(0) | <div>一首《父母恩》送给你虾友&amp;hellip;&amp;hellip;然后再为你唱一首《念亲恩》。希望未来你有更多幸福感&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342084331)<br>来自宇宙深处<br>2020-02-01 18:13<br>赞(0) 踩(0) | <div>妈妈让我抱着你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344900179)<br><br>2019-12-17 22:04<br>赞(1) 踩(0) | <div>第一次听到火柴天堂这首歌是97下雪的冬天！那时还是用单放机放磁带！我躺在宿舍里，外下着大雪！歌应雪景！好怀念那回不去的青葱岁月！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344900179)<br><br>2019-12-17 22:04<br>赞(1) 踩(0) | <div>第一次听到火柴天堂这首歌是97下雪的冬天！那时还是用单放机放磁带！<br>我躺在宿舍里，外下着大雪！歌应雪景！<br>好怀念那回不去的青葱岁月！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329810270)<br><br>2019-08-10 17:05<br>赞(0) 踩(0) | <div>0营养  ，  。。图纸天辣 <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png">！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20204131)<br>倾听者<br>2019-08-03 23:20<br>赞(2) 踩(0) | <div>听着听着，黯然泪下……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400627340)<br><br>2019-05-17 18:56<br>赞(4) 踩(0) | <div>大学毕业前夕的一个傍晚，和她漫步在学校靠东墙的林荫小道，她嘴里哼着这首火柴天堂，我终于牵起了她的手走了十棵树的距离，她说，她会永远记住十棵树的幸福……如今孩子已经十几岁了，你还好吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15266895)<br>瑕不掩<br>2019-05-03 05:34<br>赞(1) 踩(0) | <div>三水目落</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367145740)<br><br>2019-01-08 23:54<br>赞(6) 踩(0) | <div>他的歌清澈如寒冬中的一眼温泉！慢慢体会！声音虽然高冷，但听起来还是爱心满满！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367145740)<br><br>2019-01-08 23:54<br>赞(6) 踩(0) | <div>他的歌清澈如寒冬中的一眼温泉！慢慢体会！声音虽然高冷，但听起来还是<br>爱心满满！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7375797)<br><br>2018-12-25 17:50<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333210580)<br><br>2018-12-15 21:54<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47303028)<br><br>2018-11-01 12:25<br>赞(1) 踩(0) | <div>第一百条评论</div> |
@@ -81,7 +81,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220570468)<br>生命中有个人会踏着风雪，...<br>2018-02-13 15:15<br>赞(2) 踩(0) | <div>火柴 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">天堂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314101341)<br>听音乐，感悟人生！<br>2017-11-26 21:14<br>赞(2) 踩(0) | <div>让我想起了卖火柴的小女孩，真的好可怜！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302966908)<br><br>2017-11-07 18:57<br>赞(3) 踩(0) | <div>老天怕你渴，就给你水喝，怕你饿，就生出果实粮食让你充饥，怕你冷，就生出棉麻让你御寒，老天为你做的事真不少，你为老天做过什么？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3200)<br>做自己反而比较心安理得<br>2017-10-30 10:08<br>赞(11) 踩(0) | <div>一直很喜欢《火柴天堂》里那句“妈妈牵着你的手回家”，也许有很多人都在外漂泊着，在一幅坚强的外表下藏着一颗脆弱不堪的心灵，也许这个时候真的需要母亲的怀抱了，因为不管我们有多坚强多成熟，在母亲的眼里我们一直是孩子。熊天平的声音干净的让人觉得温暖，也正是这种声音在向我们诉说的苍凉，《火柴天堂》更像是在讲一个故事，走了多远、多累妈妈都会牵着你的手回家。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3200)<br>做自己反而比较心安理得<br>2017-10-30 10:08<br>赞(11) 踩(0) | <div>一直很喜欢《火柴天堂》里那句“妈妈牵着你的手回家”，也许有很多人都在外漂泊着，在一幅坚强的外表下藏着一颗脆弱不堪的心灵，也许这个时候真的需要母亲的怀抱了，因为不管我们有多坚强多成熟，在母亲的眼里我们一直是孩子。<br><br>熊天平的声音干净的让人觉得温暖，也正是这种声音在向我们诉说的苍凉，《火柴天堂》更像是在讲一个故事，走了多远、多累妈妈都会牵着你的手回家。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219871060)<br><br>2017-10-29 01:15<br>赞(1) 踩(0) | <div>小学 在电视节目里面一个音乐频道的推荐里听到的  从来没有觉得比这个版本更好听的版本  听到小时候晚上默默躲在被子里流泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5440804)<br><br>2017-10-28 00:11<br>赞(0) 踩(0) | <div>看舞林大会听到熊天平唱了几句很震惊嗓音太好听了，超喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3268666)<br><br>2017-10-27 23:25<br>赞(0) 踩(0) | <div>之前有人唱了这首我听，很喜欢。如果能听现唱就好了。微信是个好东西，能听能说能看能写</div> |
@@ -161,12 +161,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/821275)<br><br>2010-04-30 02:10<br>赞(0) 踩(0) | <div>听了这么多年，依旧是大爱的一首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/720423)<br><br>2010-03-16 19:27<br>赞(0) 踩(0) | <div>当他缓缓唱出这首歌的时候，卖火柴的小女孩的形象又印入脑海。只有他的声音才能诠释出这般的真挚的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/525155)<br>只聽歌不社交的本站老人。<br>2010-01-16 13:18<br>赞(0) 踩(0) | <div>好听是好听啦，但我想问一下，你能听出来歌手是男是女吗？不看照片哦！！~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/613883)<br><br>2010-01-08 11:16<br>赞(0) 踩(0) | <div>每次点燃火柴微微光芒看到希望看到梦想看见天上的妈妈说话她说你要勇敢你要坚强不要害怕不要慌张让你从此不必再流浪妈妈牵着你的手回家睡在温暖花开的天堂。。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/613883)<br><br>2010-01-08 11:16<br>赞(0) 踩(0) | <div>每次点燃火柴微微光芒<br>看到希望看到梦想<br>看见天上的妈妈说话<br>她说你要勇敢你要坚强<br>不要害怕不要慌张<br>让你从此不必再流浪<br>妈妈牵着你的手回家<br>睡在温暖花开的天堂<br>。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373082)<br><br>2009-11-23 15:07<br>赞(0) 踩(0) | <div>清瘦的男人最终成了肥仔......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76756)<br><br>2009-11-23 03:30<br>赞(0) 踩(0) | <div>10年之前，多少个夜里，YY自己是卖火柴的小女孩。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-10-16 21:01<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368040)<br><br>2009-09-22 17:32<br>赞(0) 踩(0) | <div>听这歌的时候他还和桃子在一起,十余年之后物是人非.发福而隆起的肚子向我们昭示着岁月的嚣张...嗯嗯...都过去了...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111915)<br>C<br>2009-08-28 21:44<br>赞(0) 踩(0) | <div>走在寒冷下雪的夜空卖着火柴温饱我的梦一步步冰冻 一步步寂寞人情寒冷冰冻我的手一包火柴燃烧我的心寒冷夜里挡不住前行风刺我的脸 雪割我的口拖着脚步还能走多久有谁来买我的火柴有谁将一根根希望全部点燃有谁来买我的孤单有谁来实现我想家的呼唤每次 点燃火柴 微微光芒看到希望 看到梦想看见天上的妈妈说话她说 你要勇敢 你要坚强不要害怕 不要慌张让你从此不必再流浪妈妈牵着你的手回家睡在温暖花开的 天堂oh...yeah...oh...yeah</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111915)<br>C<br>2009-08-28 21:44<br>赞(0) 踩(0) | <div>走在寒冷下雪的夜空<br>卖着火柴温饱我的梦<br>一步步冰冻 一步步寂寞<br>人情寒冷冰冻我的手<br>一包火柴燃烧我的心<br>寒冷夜里挡不住前行<br>风刺我的脸 雪割我的口<br>拖着脚步还能走多久<br>有谁来买我的火柴<br>有谁将一根根希望全部点燃<br>有谁来买我的孤单<br>有谁来实现我想家的呼唤<br>每次 点燃火柴 微微光芒<br>看到希望 看到梦想<br>看见天上的妈妈说话<br>她说 你要勇敢 你要坚强<br>不要害怕 不要慌张<br>让你从此不必再流浪<br>妈妈牵着你的手回家<br>睡在温暖花开的 天堂<br>oh...yeah...oh...yeah</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/167770)<br> <br>2009-08-19 11:39<br>赞(0) 踩(0) | <div>小女孩的火柴，点亮的是心灵憧憬的灯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111915)<br>C<br>2009-08-06 18:23<br>赞(0) 踩(0) | <div>送上一首《火柴天堂》为了那些早去了的美丽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182805)<br><br>2009-08-05 23:34<br>赞(1) 踩(0) | <div>这是熊天平写给死去的弟弟的歌，他希望自己的弟弟能在天堂上幸福。</div> |

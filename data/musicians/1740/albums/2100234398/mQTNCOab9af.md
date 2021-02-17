@@ -77,8 +77,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294788382)<br><br>2017-12-15 08:04<br>赞(1) 踩(0) | <div>中间那段无敌~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35859398)<br><br>2017-05-29 14:30<br>赞(3) 踩(0) | <div>朴树无可替代！翻唱侃侃第一！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244058276)<br><br>2017-03-10 17:43<br>赞(1) 踩(0) | <div>中间有些地方突然低得不是很自然</div> |
@@ -102,7 +102,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82443802)<br><br>2016-03-22 12:40<br>赞(0) 踩(0) | <div>别有一番味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10019740)<br>爱吃肉的猴子<br>2016-03-16 02:25<br>赞(1) 踩(0) | <div>难听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8109029)<br>我还没想好要写什么...<br>2015-12-19 09:38<br>赞(3) 踩(0) | <div>音量比例，声音的位置有问题... 好另类的混音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9326043)<br><br>2015-12-15 10:08<br>赞(1) 踩(0) | <div>侃侃的声音挺好的，听起来比较舒服。但是这首歌不仅仅是舒服这么简单的，没有朴树声音里的那种内在的东西。迷茫之后的坚定，朴树之外的声音没这感觉。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9326043)<br><br>2015-12-15 10:08<br>赞(1) 踩(0) | <div>侃侃的声音挺好的，听起来比较舒服。<br>但是这首歌不仅仅是舒服这么简单的，没有朴树声音里的那种内在的东西。<br>迷茫之后的坚定，朴树之外的声音没这感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12035794)<br><br>2015-12-05 01:08<br>赞(12) 踩(0) | <div>我一个人在宿舍，穷的喝着从小卖部偷的啤酒，吃着网吧旁边人剩下的零食，脑海里却在想着你。打开手机第一首就是这首歌。听着听着就哭了。突然就安静了。我曾经失落失望失掉所有方向，直到看见平凡，才是唯一答案。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49785827)<br><br>2015-11-28 11:20<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32171141)<br>著名自我剧场表演者<br>2015-11-25 13:46<br>赞(0) 踩(0) | <div>！</div> |

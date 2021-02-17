@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3aaeb5614a1746422fb4584c7f615bcf.jpg)<br>朱孝天Hero](https://i.xiami.com/zxthero) | **播放数**: 1044959<br>**粉丝数**: 62<br>**评论数**: 4<br>**地区**: China 中国大陆<br>**风格**: 回响贝斯 Dubstep, 旋律回响贝斯 Melodic Dubstep<br> |
+| [![](../../images/musicians/3aaeb5614a1746422fb4584c7f615bcf.jpg)<br>朱孝天Hero](https://i.xiami.com/zxthero) | **地区**: China 中国大陆<br>**风格**: 回响贝斯 Dubstep, 旋律回响贝斯 Melodic Dubstep<br>**播放数**: 1044959<br>**粉丝数**: 62<br>**评论数**: 4<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -29,8 +26,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428447876)<br>这人是个混蛋，什么也没留...<br>2020-04-02 00:14<br>赞(0) 踩(0) | <div>炒鸡棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43859969)<br><br>2020-03-30 00:01<br>赞(0) 踩(0) | <div>在翻唱版本里，算是很好听的了！支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359792601)<br><br>2020-02-09 09:39<br>赞(0) 踩(0) | <div>期待 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |

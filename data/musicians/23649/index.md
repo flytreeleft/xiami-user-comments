@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c41e0269aed5e63b95cf0fa097173d17.jpg)<br>王强](https://i.xiami.com/wqsinger) | **播放数**: 32987817<br>**粉丝数**: 1959<br>**评论数**: 83<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/c41e0269aed5e63b95cf0fa097173d17.jpg)<br>王强](https://i.xiami.com/wqsinger) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 32987817<br>**粉丝数**: 1959<br>**评论数**: 83<br> |
 
 ## 档案
 
@@ -157,8 +157,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-11-30 10:49<br>赞(0) 踩(0) | <div>42472</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246379185)<br>雨季不再來。<br>2020-03-10 12:56<br>赞(0) 踩(0) | <div>很棒棒。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351038857)<br><br>2019-11-07 07:44<br>赞(1) 踩(0) | <div>我听这歌时，强哥还没秃顶。</div> |
@@ -169,7 +169,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253749233)<br>我还没想好要写什么...<br>2019-05-02 17:14<br>赞(0) 踩(0) | <div>很好，跟我同一生日</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-01-16 16:09<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377583670)<br>我还没想好要写什么...<br>2018-12-27 10:31<br>赞(1) 踩(0) | <div>多年来一如既往喜欢听的歌，多谢！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342231887)<br>难过没有情绪<br>2018-12-12 03:06<br>赞(2) 踩(0) | <div>好听，时隔多年还是一如既往喜欢谢谢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342231887)<br>难过没有情绪<br>2018-12-12 03:06<br>赞(2) 踩(0) | <div>好听，时隔多年还是一如既往喜欢<br>谢谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48933540)<br>有此生无憾喵<br>2018-12-11 08:49<br>赞(1) 踩(0) | <div>宜昌啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124079574)<br>如果有一天...<br>2018-12-02 05:08<br>赞(3) 踩(0) | <div>秋天不回来。 这首勾意起我美好回忆的高中时光...叹惋惜岁月峥嵘，忆往昔物是人非！回忆总是美好的，叹回不去的过去，笑看未来的未来！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380198762)<br><br>2018-11-26 03:47<br>赞(1) 踩(0) | <div>你的歌好听</div> |
@@ -237,7 +237,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30760169)<br>Treat ppl. w...<br>2014-10-20 00:45<br>赞(0) 踩(0) | <div>别逗孩子</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3483174)<br>版权流民<br>2015-01-30 20:15<br>赞(0) 踩(0) | <div>这个笑话讲得好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11938655)<br><br>2013-05-18 21:07<br>赞(0) 踩(0) | <div>从听秋天不回来认识他</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5653616)<br><br>2012-10-07 00:01<br>赞(0) 踩(0) | <div>王强的音乐作品纯朴、伤感、深情，不张扬在外但绝对蕴涵於心。相对低调、朴实的王强根据自己的生活经历创作的歌曲，都是叙说著自己的生活感受和内心的情感总结。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5653616)<br><br>2012-10-07 00:01<br>赞(0) 踩(0) | <div>王强的音乐作品纯朴、伤感、深情，不张扬在外但绝对蕴涵於心。<br>相对低调、朴实的王强根据自己的生活经历创作的歌曲，都是叙说著自己的生活感受和内心的情感总结。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5595406)<br>天行健，君子以自强不息；<br>2012-09-05 21:38<br>赞(0) 踩(0) | <div>当初的秋天不回来，知道多么的吸引我吗？呵呵，虽然不怎么知名</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/530490)<br>音乐不说谎。<br>2012-02-22 10:30<br>赞(0) 踩(0) | <div>秋天不回来，不想让你哭。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7093968)<br><br>2011-12-04 15:43<br>赞(0) 踩(0) | <div>喜欢</div> |

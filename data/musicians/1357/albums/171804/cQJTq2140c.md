@@ -49,8 +49,8 @@ Where do you go<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8382981)<br>我还没想好要写什么...<br>2019-04-03 21:39<br>赞(0) 踩(0) | <div>20岁的时候疯狂喜欢的曹方，耳机里不停的循环，沉浸在甜蜜又纠结的初恋里，繁重的学业里，青春的自由里。快十年过去了，再次打开她的声音，发现我已经无法代入了，虽然不甘心，但那段时光的确离我而去了，再也找不回当初听歌的心境。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307607439)<br>想<br>2018-05-11 22:39<br>赞(0) 踩(0) | <div>想占我的这十秒请诚恳 所以朋友你长的很美，下一首歌还是你爱听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6334912)<br>五行缺水<br>2018-04-25 06:10<br>赞(0) 踩(0) | <div>像接受雨天那样，接受坏日子。</div> |
@@ -120,7 +120,7 @@ Where do you go<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11767738)<br>ʕ•̫͡•ʕ*̫͡*ʕ•...<br>2016-04-08 14:00<br>赞(0) 踩(0) | <div>舒服</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126153190)<br>musics<br>2016-03-29 23:13<br>赞(0) 踩(0) | <div>~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126153190)<br>musics<br>2016-03-29 23:08<br>赞(0) 踩(0) | <div>~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5053520)<br>已被392575人标记为...<br>2016-03-29 20:17<br>赞(0) 踩(0) | <div>住在春天靠近海洋一个爱的人一只狗住在春天找发芽中的草待开放的花灌溉它……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5053520)<br>已被392575人标记为...<br>2016-03-29 20:17<br>赞(0) 踩(0) | <div>住在春天<br>靠近海洋<br>一个爱的人<br>一只狗<br>住在春天<br>找发芽中的草<br>待开放的花<br>灌溉它<br>……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9166301)<br><br>2016-03-12 21:48<br>赞(0) 踩(0) | <div>干活的时候应该配班长的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9738612)<br><br>2016-02-04 00:42<br>赞(0) 踩(0) | <div>已经立春了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99672472)<br><br>2016-02-03 15:56<br>赞(0) 踩(0) | <div>明天立春</div> |
@@ -152,7 +152,7 @@ Where do you go<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10414103)<br>爱音乐爱朱婷！<br>2015-03-26 08:03<br>赞(0) 踩(0) | <div>听前奏想到了《匹诺曹》。。貌似里面有个BGM很像这个。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43229772)<br><br>2015-03-15 01:12<br>赞(0) 踩(0) | <div>特别文艺风格的女歌手，很多歌好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20963077)<br>不虚度年华～<br>2015-03-05 23:54<br>赞(0) 踩(0) | <div>春天在我的心里复苏</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44990034)<br>以心传心，鸣者自鸣<br>2015-02-28 11:13<br>赞(0) 踩(0) | <div>2008 《住在春天》住在春天/靠近海洋</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44990034)<br>以心传心，鸣者自鸣<br>2015-02-28 11:13<br>赞(0) 踩(0) | <div>2008 《住在春天》<br>住在春天/靠近海洋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15513850)<br><br>2015-02-25 11:09<br>赞(0) 踩(0) | <div>春天来了，为幸福停留</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4977895)<br><br>2015-02-25 10:49<br>赞(0) 踩(0) | <div>@Strawberry_Echo 牵着你的手,走遍所有的春夏秋冬 ...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4977895)<br><br>2015-02-25 10:18<br>赞(0) 踩(0) | <div>牵着你的手，走遍春夏秋冬 …</div> |
@@ -162,7 +162,7 @@ Where do you go<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45231553)<br><br>2014-12-31 00:21<br>赞(0) 踩(0) | <div>2008 10月  还记得刚认识你的时候满脑子的这首歌…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43358920)<br>别来无恙<br>2014-11-27 11:01<br>赞(0) 踩(0) | <div>住在春天活在冬天</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9712013)<br>没个性。<br>2014-12-23 12:26<br>赞(0) 踩(0) | <div>在你身边</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3618245)<br> <br>2014-11-18 18:57<br>赞(0) 踩(0) | <div>两个人 一辈子比较温柔 你拉着我向南走 向北走愿把所有 交托你手中就在春天 交托你手中  感觉大嫂夫妇就是这样 还有小扑麻</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3618245)<br> <br>2014-11-18 18:57<br>赞(0) 踩(0) | <div>两个人 一辈子<br>比较温柔 你拉着我<br>向南走 向北走<br>愿把所有 交托你手中<br>就在春天 交托你手中  感觉大嫂夫妇就是这样 还有小扑麻</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6958676)<br><br>2014-11-22 15:40<br>赞(0) 踩(0) | <div>puma is what&amp;quot;??</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3618245)<br> <br>2014-12-09 16:04<br>赞(0) 踩(0) | <div><q><b>莎士比亚他爹说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2408453)<br><br>2014-11-18 13:25<br>赞(0) 踩(0) | <div>冬日里的一抹暖阳</div> |
@@ -175,13 +175,13 @@ Where do you go<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/850059)<br>back<br>2014-05-11 05:23<br>赞(0) 踩(0) | <div>2010</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5278864)<br>我还没想好要写什么...<br>2014-04-15 17:16<br>赞(0) 踩(0) | <div>下班啦～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5278864)<br>我还没想好要写什么...<br>2014-04-15 17:15<br>赞(0) 踩(0) | <div>下班啦～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5406210)<br><br>2014-03-29 22:54<br>赞(0) 踩(0) | <div>住在春天靠近海洋一个爱的人一只狗住在春天找发芽中的草待开放的花灌溉它</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7031762)<br>电影厨房食物烹制采样～A...<br>2014-03-28 16:13<br>赞(0) 踩(0) | <div>住在春天 靠近海洋 一个爱的人 一只狗 住在春天 找发芽中的草 待开放的花 灌溉它Oh,Spring Where’re you from  Where do you go 能否停留</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5406210)<br><br>2014-03-29 22:54<br>赞(0) 踩(0) | <div>住在春天<br>靠近海洋<br>一个爱的人<br>一只狗<br>住在春天<br>找发芽中的草<br>待开放的花<br>灌溉它</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7031762)<br>电影厨房食物烹制采样～A...<br>2014-03-28 16:13<br>赞(0) 踩(0) | <div>住在春天 靠近海洋 一个爱的人 一只狗 住在春天 找发芽中的草 待开放的花 灌溉它<br>Oh,Spring Where’re you from  Where do you go 能否停留</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32188231)<br><br>2014-03-25 01:03<br>赞(0) 踩(0) | <div>住在春天……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434114)<br><br>2014-03-23 11:02<br>赞(0) 踩(0) | <div>spring is approaching</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33291555)<br>有梦的地方有爱<br>2014-03-18 14:42<br>赞(0) 踩(0) | <div>#想念曲# 住在春天 靠近海洋 一个爱的人 一只狗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2478413)<br>世界就睡在梦里<br>2014-03-14 00:02<br>赞(0) 踩(0) | <div>每个春天来的时候，我都以为人生会重来一回。如果住在春天，是不是就可以一直“未完待续”？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3531383)<br>时间，安坐在云端微笑<br>2014-03-08 14:54<br>赞(0) 踩(0) | <div>两个人 一辈子比较温柔 你拉着我向南走 向北走愿把所有 交托你手中</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3531383)<br>时间，安坐在云端微笑<br>2014-03-08 14:54<br>赞(0) 踩(0) | <div>两个人 一辈子<br>比较温柔 你拉着我<br>向南走 向北走<br>愿把所有 交托你手中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32583462)<br><br>2014-03-07 15:56<br>赞(0) 踩(0) | <div>我想能一直 住在春天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3002032)<br>暂无签名~<br>2014-03-07 00:38<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55163)<br><br>2014-03-04 13:45<br>赞(0) 踩(0) | <div>让一切都随着春天明朗起来吧。</div> |
@@ -189,7 +189,7 @@ Where do you go<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3591149)<br>我还没想好要写什么...<br>2014-02-08 02:59<br>赞(0) 踩(0) | <div>Living in spring</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12528921)<br>热烈地活着<br>2014-01-26 23:51<br>赞(0) 踩(0) | <div>so adorable song, loving it!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8532493)<br><br>2013-12-18 21:06<br>赞(0) 踩(0) | <div>住在春天，看着希望～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/704599)<br>你是模特儿·我是香奈儿<br>2013-12-17 17:37<br>赞(0) 踩(0) | <div>一个人，一辈子，奔腾的走。一只狗，发芽中的草，待开放的花。一切，都有可能。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/704599)<br>你是模特儿·我是香奈儿<br>2013-12-17 17:37<br>赞(0) 踩(0) | <div>一个人，一辈子，奔腾的走。<br>一只狗，发芽中的草，待开放的花。<br>一切，都有可能。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6537045)<br>三鲜。<br>2013-11-09 12:44<br>赞(0) 踩(0) | <div>好久没听了的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8215022)<br><br>2013-11-04 23:51<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12281877)<br>ucs<br>2013-10-20 22:22<br>赞(0) 踩(0) | <div>&amp;quot;一个人，一辈子，谜底不透，奔腾的走，向东走，向西走，无法就地安放我的所有&amp;quot;</div> |
@@ -210,7 +210,7 @@ Where do you go<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1410587)<br><br>2013-04-08 22:53<br>赞(0) 踩(0) | <div>住在春天，靠近海洋。一个爱的人，一只狗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6846950)<br><br>2013-04-01 23:33<br>赞(0) 踩(0) | <div>睡前听听班长，怀怀旧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9406898)<br><br>2013-03-27 16:15<br>赞(0) 踩(0) | <div>单曲循环</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7197149)<br>一直，一个人<br>2013-03-26 21:21<br>赞(0) 踩(0) | <div>请你为我们的幸福停留一个人一辈子谜底不同分头地走向东走向西走无法就地安放我的所有两个人一辈子比较温柔你拉着我向南走向北走愿把所有交托你手中</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7197149)<br>一直，一个人<br>2013-03-26 21:21<br>赞(0) 踩(0) | <div>请你为我们的幸福停留<br>一个人一辈子谜底不同<br>分头地走向东走向西走<br>无法就地安放我的所有<br>两个人一辈子比较温柔<br>你拉着我向南走向北走<br>愿把所有交托你手中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8708306)<br><br>2013-03-21 21:31<br>赞(0) 踩(0) | <div>快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/630760)<br>感谢11年来的陪伴，我爱...<br>2013-03-18 10:37<br>赞(0) 踩(0) | <div>住在春天~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2256721)<br> <br>2013-03-16 14:55<br>赞(0) 踩(0) | <div>住在春天 靠近海洋 一个爱的人 一只狗  ================理想境界一个都没实现</div> |
@@ -221,7 +221,7 @@ Where do you go<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10911505)<br><br>2013-02-10 11:59<br>赞(0) 踩(0) | <div>一家人在阳台晒太阳喝茶听歌真是开心~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12939700)<br><br>2013-02-07 22:00<br>赞(0) 踩(0) | <div>喜欢前面。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2576317)<br> <br>2013-02-05 11:30<br>赞(0) 踩(0) | <div>住在春天！各位晴天安好！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/569566)<br><br>2013-01-17 10:47<br>赞(0) 踩(0) | <div>一个人 一辈子谜底不透 奔腾的走向东走 向西走无法就地安放我的所有</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/569566)<br><br>2013-01-17 10:47<br>赞(0) 踩(0) | <div>一个人 一辈子<br>谜底不透 奔腾的走<br>向东走 向西走<br>无法就地安放我的所有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12246243)<br>好好生活。<br>2013-01-15 22:51<br>赞(0) 踩(0) | <div>干净的声音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10435448)<br><br>2013-01-13 13:28<br>赞(0) 踩(0) | <div>一个人一辈子谜底不同</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11506658)<br> <br>2013-01-02 20:26<br>赞(0) 踩(0) | <div>住在春天，靠近海洋，一个爱的人，一只狗。这应该就是梦想的生活吧。</div> |
@@ -237,7 +237,7 @@ Where do you go<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10399110)<br>我还没想好要写什么...<br>2012-10-01 00:17<br>赞(0) 踩(0) | <div>小清新~~虽然春天还有点远，但。。还是喜欢，不解释不解释~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9298296)<br>心有猛虎，细嗅蔷薇。<br>2012-09-19 15:44<br>赞(0) 踩(0) | <div>住在春天，发芽种草</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10136866)<br>暂无签名~<br>2012-08-08 15:18<br>赞(0) 踩(0) | <div>简简单单好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8681265)<br><br>2012-07-10 04:54<br>赞(0) 踩(0) | <div>和一只蚊子一起 闭着眼睛等天亮 鸟儿们就叫了起了Things make me happen</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8681265)<br><br>2012-07-10 04:54<br>赞(0) 踩(0) | <div>和一只蚊子一起 闭着眼睛等天亮 鸟儿们就叫了起了<br>Things make me happen</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5749781)<br><br>2012-06-22 17:59<br>赞(0) 踩(0) | <div>你们张冠李戴吧。我在家凉快！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8503095)<br> <br>2012-05-24 18:16<br>赞(0) 踩(0) | <div>词好曲好唱的好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9072695)<br><br>2012-05-06 03:02<br>赞(0) 踩(0) | <div>喜欢曹班长的歌暖暖的明早有场婚礼要参加gt1t我要带外婆去1早还要起来梳洗敷脸最重要的是要提前在家煮点东西吃</div> |
@@ -257,17 +257,17 @@ Where do you go<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3859646)<br><br>2012-03-25 13:34<br>赞(0) 踩(0) | <div>一个人,一辈子;谜底不透,奔腾的走;向东走,向西走,无法就地安放我的所有...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5811951)<br><br>2012-03-23 16:18<br>赞(0) 踩(0) | <div>人老了，听慢歌嘿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/456618)<br><br>2012-03-22 14:54<br>赞(0) 踩(0) | <div>@AIKI大寳姐 这首歌能给你勇气吗？我们都知道他不是万能。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1051950)<br><br>2012-03-22 00:05<br>赞(0) 踩(0) | <div>住在春天，靠近海洋，一个爱的人，一只狗，晚安，娄宿星人。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1051950)<br><br>2012-03-22 00:05<br>赞(0) 踩(0) | <div>住在春天，<br>靠近海洋，<br>一个爱的人，<br>一只狗，晚安，娄宿星人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8533825)<br>我还没想好要写什么...<br>2012-03-21 22:26<br>赞(0) 踩(0) | <div>春眠不觉晓，处处问题不少，来，住在春天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7257809)<br><br>2012-03-21 15:32<br>赞(0) 踩(0) | <div>曹方，这个10年前我就听说过的名字，没想到她现在竟然成了大陆最具潜力的女歌手，记得没错的话，当时一起参赛的还有陈思成...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3259278)<br><br>2012-03-21 13:21<br>赞(0) 踩(0) | <div>这样的春天，复苏在我的心里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6479691)<br><br>2012-03-20 10:50<br>赞(0) 踩(0) | <div>住在春天 by 曹方。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8496367)<br>悔不当初~<br>2012-03-19 11:45<br>赞(0) 踩(0) | <div>很有感觉的一首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7455133)<br><br>2012-03-18 11:36<br>赞(0) 踩(0) | <div>住在春天靠近海洋一个爱的人一只狗住在春天找发芽中的草待开放的花灌溉它</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7455133)<br><br>2012-03-18 11:36<br>赞(0) 踩(0) | <div>住在春天<br>靠近海洋<br>一个爱的人<br>一只狗<br>住在春天<br>找发芽中的草<br>待开放的花<br>灌溉它</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2724773)<br><br>2012-03-18 10:16<br>赞(0) 踩(0) | <div>住在春天 找发芽中的草 待开放的花 灌溉它...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5863496)<br><br>2012-03-17 11:24<br>赞(0) 踩(0) | <div>住在春天 靠近海洋 一个爱的人 一只狗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8156785)<br><br>2012-03-17 11:22<br>赞(0) 踩(0) | <div>住在春天 靠近海洋 一个爱的人 一只狗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/812392)<br>q音网易搜央央小月，酷g...<br>2012-03-16 20:25<br>赞(0) 踩(0) | <div>住在春天靠近海洋一个爱的人一只狗住在春天找发芽中的草待开放的花灌溉它Oh,SpringWhere’re you fromWhere do you go能否停留（这是对春天，最美好的遐想... ...)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/812392)<br>q音网易搜央央小月，酷g...<br>2012-03-16 20:25<br>赞(0) 踩(0) | <div>住在春天<br>靠近海洋<br>一个爱的人<br>一只狗<br>住在春天<br>找发芽中的草<br>待开放的花<br>灌溉它<br>Oh,Spring<br>Where’re you from<br>Where do you go<br>能否停留<br><br>（这是对春天，最美好的遐想... ...)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6997846)<br><br>2012-03-13 23:53<br>赞(0) 踩(0) | <div>又是一年春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1132238)<br><br>2012-03-12 08:10<br>赞(0) 踩(0) | <div>最近一直在听曹方的音乐。爱她的词，爱她的调调，爱她的独立，纯真，情绪化，孩子气。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8164943)<br>所以我们还是年轻的模样<br>2012-03-05 21:01<br>赞(0) 踩(0) | <div>#虾米音乐#♫ 分享一首来自曹方的歌曲：「住在春天」</div> |
@@ -304,7 +304,7 @@ Where do you go<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3602953)<br><br>2011-10-26 10:06<br>赞(0) 踩(0) | <div>住在春天...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3164239)<br><br>2011-10-18 13:48<br>赞(0) 踩(0) | <div>所属专辑： 住在春天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1957928)<br><br>2011-10-18 06:01<br>赞(0) 踩(0) | <div>一个爱的人 一只狗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1566599)<br> <br>2011-09-13 02:01<br>赞(0) 踩(0) | <div>住在春天靠近海洋一个爱的人一只狗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1566599)<br> <br>2011-09-13 02:01<br>赞(0) 踩(0) | <div>住在春天<br>靠近海洋<br>一个爱的人<br>一只狗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1566599)<br> <br>2011-09-13 01:50<br>赞(0) 踩(0) | <div>还不知道什么是小清新的时候就开始喜欢 喜欢班长的纯净自然~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5031414)<br><br>2011-09-11 22:42<br>赞(0) 踩(0) | <div>清新</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2320044)<br>先买碟 再说爱 靴靴<br>2011-09-09 12:45<br>赞(0) 踩(0) | <div>对不起我又犯小清新了</div> |
@@ -339,7 +339,7 @@ Where do you go<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1628469)<br><br>2010-10-08 00:05<br>赞(0) 踩(0) | <div>总有些小慵懒。让人舒服。跟着节奏走。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1242321)<br><br>2010-09-05 15:47<br>赞(0) 踩(0) | <div>纯净的声音，春天的声音..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1013406)<br>世界上，最无价的是他对你...<br>2010-08-10 21:32<br>赞(0) 踩(0) | <div>第一次知道曹芳是在夏天！当时很喜欢~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/683452)<br>暂无签名~<br>2010-06-19 16:01<br>赞(0) 踩(0) | <div>她温柔的来过。可是，太温柔了。让我总是觉得困倦。每次她来。我都盼着夏天来。因为我是那么的爱夏天。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/683452)<br>暂无签名~<br>2010-06-19 16:01<br>赞(0) 踩(0) | <div>她温柔的来过。<br>可是，太温柔了。<br>让我总是觉得困倦。<br>每次她来。我都盼着夏天来。<br>因为我是那么的爱夏天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1034003)<br>是我错还是我想多<br>2010-06-18 21:12<br>赞(0) 踩(0) | <div>还是我喜欢的那种简单旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/915240)<br><br>2010-05-23 20:20<br>赞(0) 踩(0) | <div>必须好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/751783)<br>carmen<br>2010-04-22 23:22<br>赞(0) 踩(0) | <div>lala</div> |

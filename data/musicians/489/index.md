@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ceea31553519b3cf98b14fcbf0e82107.jpg)<br>老狼](https://i.xiami.com/laolang) | **播放数**: 50273129<br>**粉丝数**: 56425<br>**评论数**: 903<br>**地区**: China 中国大陆<br>**风格**: 城市民谣 Urban Folk, 民谣 Folk, 校园民谣 Campus Folk<br> |
+| [![](../../images/musicians/ceea31553519b3cf98b14fcbf0e82107.jpg)<br>老狼](https://i.xiami.com/laolang) | **地区**: China 中国大陆<br>**风格**: 城市民谣 Urban Folk, 民谣 Folk, 校园民谣 Campus Folk<br>**播放数**: 50273129<br>**粉丝数**: 56425<br>**评论数**: 903<br> |
 
 ## 档案
 
@@ -57,8 +57,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252450080)<br>老铁<br>2020-09-25 20:33<br>赞(0) 踩(0) | <div>有句话很贴切   老狼的声音自带回忆启动键</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1569233)<br> <br>2020-08-17 22:03<br>赞(0) 踩(0) | <div>与其王阳补牢，不如叛变老狼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43492923)<br>行到水穷我才开始害怕，夕...<br>2020-07-25 19:41<br>赞(0) 踩(0) | <div>-</div> |
@@ -99,13 +99,13 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348204011)<br><br>2018-02-07 16:00<br>赞(1) 踩(0) | <div>老狼的歌竟然没版权....开虾米玩笑</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404911508)<br><br>2018-09-26 00:43<br>赞(0) 踩(0) | <div>看过报道，高晓松说版权给了另一家公司，自己写的歌，虾米也没法听 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8892726)<br>天气不似预期，但要走，总...<br>2017-12-16 02:38<br>赞(1) 踩(0) | <div>以前朋友说他听某首歌哭了，我就觉得搞笑，大老爷们哭、还是因为听歌。直到现在我才明白为什么</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24325936)<br>无忧无虑，向前游。。。<br>2017-12-04 15:14<br>赞(0) 踩(0) | <div>最后一张照片啥意思啊？另外，老狼、郭峰傻傻分不清。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24325936)<br>无忧无虑，向前游。。。<br>2017-12-04 15:14<br>赞(0) 踩(0) | <div>最后一张照片啥意思啊？<br>另外，老狼、郭峰傻傻分不清。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54081537)<br><br>2017-11-23 09:26<br>赞(1) 踩(0) | <div>狼哥，我爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251497785)<br><br>2017-11-14 13:17<br>赞(0) 踩(0) | <div>回不去了，偶尔静下来听他的歌，涤去浮躁，消去烦闷，继续生活！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330904958)<br><br>2017-11-10 02:51<br>赞(1) 踩(0) | <div>《同桌的你》这首歌是我们80后记忆，是我这辈子最喜欢的一首老歌，无论走到哪里，只要听到这首歌，小学的那段时光立刻浮现在眼前。不是说一首歌一个故事吗？就是因为这首歌我喜欢上了我的同桌，所以每次听到这首歌的时候我都情不自禁的跟着唱起来，明天你是否会想起&amp;hellip;&amp;hellip;</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330904958)<br><br>2017-11-10 02:51<br>赞(1) 踩(0) | <div>《同桌的你》这首歌是我们80后记忆，是我这辈子最喜欢的一首老歌，无论走到哪里，只要听到这首歌，小学的那段时光立刻浮现在眼前。<br><br>不是说一首歌一个故事吗？就是因为这首歌我喜欢上了我的同桌，所以每次听到这首歌的时候我都情不自禁的跟着唱起来，明天你是否会想起&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298456114)<br><br>2017-11-07 01:35<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224564578)<br> <br>2017-11-01 01:06<br>赞(0) 踩(0) | <div>狼哥。你那首睡在我上铺的兄弟 为什么不能听在哪里能下载？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774208)<br>我还没想好要写什么...<br>2017-10-27 23:54<br>赞(2) 踩(0) | <div>老狼将于10月6日于上海简单生活节演出！10月4-6日 上海世博公园 简单生活节刘若英、陈绮贞、郑秀文、张震岳、徐佳莹、朴树、李荣浩、许巍、李志、老狼、窦靖童、陈粒、王若琳、赵雷、苏慧伦、陶晶莹、关淑怡、梁博、韦礼安、Faye飞、邱比、陈珊妮 feat 蔡健雅、MATZKA feat A-Lin、魏如萱 feat 马頔、杨乃文 feat 高旗、HUSH feat 阿肆、草东没有派对、万能青年旅店、逃跑计划、好妹妹、旅行团、果味VC、Hello Nico、声音玩具……众星云集！微博：@简单生活节上海 <a href="http://weibo.com/simplelifeshanghai" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/simplelifeshanghai</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774208)<br>我还没想好要写什么...<br>2017-10-27 23:54<br>赞(2) 踩(0) | <div>老狼将于10月6日于上海简单生活节演出！<br><br>10月4-6日 上海世博公园 简单生活节<br><br>刘若英、陈绮贞、郑秀文、张震岳、徐佳莹、朴树、李荣浩、许巍、李志、老狼、窦靖童、陈粒、王若琳、赵雷、苏慧伦、陶晶莹、关淑怡、梁博、韦礼安、Faye飞、邱比、陈珊妮 feat 蔡健雅、MATZKA feat A-Lin、魏如萱 feat 马頔、杨乃文 feat 高旗、HUSH feat 阿肆、草东没有派对、万能青年旅店、逃跑计划、好妹妹、旅行团、果味VC、Hello Nico、声音玩具……众星云集！<br><br>微博：@简单生活节上海 <a href="http://weibo.com/simplelifeshanghai" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/simplelifeshanghai</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4011970)<br><br>2017-10-27 23:30<br>赞(1) 踩(0) | <div>老狼就是一种情怀，一个年代，又遥远又距离内心最近</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9043661)<br><br>2017-10-27 23:20<br>赞(0) 踩(0) | <div>青葱岁月纯真感情每每听到总能勾起心中那抹淡淡的忧伤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13606751)<br><br>2017-10-27 23:06<br>赞(0) 踩(0) | <div>一直就比较喜欢民谣，作为民谣歌手的代表人物，一直都很喜欢。那种平淡、低调与真实</div> |
@@ -189,7 +189,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113378418)<br>清清素心听歌...<br>2016-10-24 16:52<br>赞(0) 踩(0) | <div><q><b>玻璃窗外oо说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113378418)<br>清清素心听歌...<br>2016-12-29 13:20<br>赞(0) 踩(0) | <div><q><b>玻璃窗外oо说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90268262)<br><br>2016-04-05 10:32<br>赞(0) 踩(0) | <div>喜欢他的声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2016-04-03 06:23<br>赞(0) 踩(0) | <div>老狼和高晓松的狼狈为奸<a href="https://www.zhihu.com/question/41291170/answer/92368588" target="_blank" rel="nofollow noreferrer noopener">https://www.zhihu.com/question/41291170/answer/92368588</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2016-04-03 06:23<br>赞(0) 踩(0) | <div>老狼和高晓松的狼狈为奸<br><br><a href="https://www.zhihu.com/question/41291170/answer/92368588" target="_blank" rel="nofollow noreferrer noopener">https://www.zhihu.com/question/41291170/answer/92368588</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40736857)<br>厉害厉害厉害<br>2016-04-02 22:38<br>赞(12) 踩(0) | <div>矮大紧你在做甚！！！你基友的歌你都下架了药丸！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/132329608)<br><br>2016-04-02 21:12<br>赞(1) 踩(0) | <div>怎么说…听你的歌不单单只是泪奔这么简单……是在听一个有味道的人讲解一个动听的故事！大家都说是听你的歌长大的、说实话我不是，但是在你开嗓的那一瞬我就喜欢上了这个大叔的年轻的带有味道的嗓音！从你的言行举止让我感受到不随波逐流的人格魅力、不管结果怎么样都希望大叔以后好好的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9300628)<br><br>2016-03-31 12:37<br>赞(0) 踩(0) | <div>高晓松要你死你就不得不死，高晓松要你下架你就不得不下架。</div> |
@@ -212,11 +212,11 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3522302)<br><br>2016-03-19 14:22<br>赞(1) 踩(0) | <div>老高，为何老狼的歌也下架了？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10983386)<br>瘦子 朝夕奔梦<br>2016-03-18 22:20<br>赞(0) 踩(0) | <div>我擦，没版权…</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25895150)<br><br>2016-03-16 01:38<br>赞(29) 踩(0) | <div>这是在逗吗？高晓松搞不定老狼的版权？？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2279444)<br>爱在左，同情在右。<br>2016-02-25 22:13<br>赞(1) 踩(0) | <div>瞒不住了，狼叔也上电视凑热闹了,演唱的是朴师傅的《旅途》 ......来自android客户端来自android客户端</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2279444)<br>爱在左，同情在右。<br>2016-02-25 22:13<br>赞(1) 踩(0) | <div>瞒不住了，狼叔也上电视凑热闹了,演唱的是朴师傅的《旅途》 ......<br><br>来自android客户端<br><br>来自android客户端</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1769888)<br><br>2016-02-19 16:40<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5880842)<br><br>2016-02-05 02:30<br>赞(0) 踩(0) | <div>校园</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43430340)<br><br>2016-01-20 12:55<br>赞(10) 踩(0) | <div>高晓松去了阿里 ，老狼的版权搞不定，哎</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315665)<br><br>2016-01-11 16:56<br>赞(11) 踩(0) | <div>虾米你好，虾米再见。作为8年的虾米用户，表示很心痛，要做这个艰难的决定。好多我喜欢的歌手都听不了。收藏的歌曲能听的越来越少。我他妈弄个VIP也听不了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315665)<br><br>2016-01-11 16:56<br>赞(11) 踩(0) | <div>虾米你好，虾米再见。作为8年的虾米用户，表示很心痛，要做这个艰难的决定。<br>好多我喜欢的歌手都听不了。收藏的歌曲能听的越来越少。我他妈弄个VIP也听不了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315665)<br><br>2016-01-11 16:23<br>赞(0) 踩(0) | <div>何时重新上架啊？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/879175)<br><br>2016-01-06 13:17<br>赞(1) 踩(0) | <div>学生时代的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/490489)<br><br>2016-01-02 16:25<br>赞(0) 踩(0) | <div>听了15年，如果说有哪个歌手的声音，能让你瞬间泪奔的。就只有他。在哪个孤寂的青少年时期，只有这盒从哥哥那里拿来的卡带，一圈有一圈的。陪着你。</div> |
@@ -238,9 +238,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76487692)<br><br>2015-11-22 19:33<br>赞(0) 踩(0) | <div>能和杨乐老师联系吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76487692)<br><br>2015-11-22 19:14<br>赞(0) 踩(0) | <div>你的同桌的你好棒，老狼先生，我们有机会和杨乐老师联系上吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2015-11-20 22:00<br>赞(0) 踩(0) | <div>非受迫性的增加一位关注 不过是你 我欣然接受~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181863)<br>声音就是音乐，是音乐就听...<br>2015-11-20 22:00<br>赞(0) 踩(0) | <div>陪伴我整个青春直到现在的声音。谢谢你。P.S.我手里你的磁带和CD都是正版。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181863)<br>声音就是音乐，是音乐就听...<br>2015-11-20 22:00<br>赞(0) 踩(0) | <div>陪伴我整个青春直到现在的声音。谢谢你。<br>P.S.我手里你的磁带和CD都是正版。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2015-11-20 21:11<br>赞(1) 踩(0) | <div>跟着你一起在路上，然后、然后把美好的歌曲一首首拾回来：）</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-11-20 20:39<br>赞(0) 踩(0) | <div>狼来了15545300,43332,697</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-11-20 20:39<br>赞(0) 踩(0) | <div>狼来了<br>15545300,43332,697</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3581084)<br> <br>2015-11-20 20:20<br>赞(0) 踩(0) | <div>晓松在 老狼的歌还回不来？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1308967)<br>虾米听重型极端音乐这块的...<br>2015-11-20 20:02<br>赞(0) 踩(0) | <div>欢迎老狼哥哥，各位老少爷们们！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7305096)<br>没事听着玩儿~~<br>2015-11-20 19:52<br>赞(0) 踩(0) | <div>居然才入驻。。。为啥我早就关注了呢？</div> |
@@ -272,7 +272,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291471103)<br><br>2017-04-25 23:55<br>赞(0) 踩(0) | <div>有新歌吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291471103)<br><br>2017-04-25 23:56<br>赞(0) 踩(0) | <div>请问有新歌吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291471103)<br><br>2017-04-25 23:57<br>赞(0) 踩(0) | <div>有新的歌吗</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10624907)<br>翠微布衣<br>2017-05-09 17:52<br>赞(0) 踩(0) | <div>94年夏天我在中山公园音乐堂和你聊过天，我认识赵伟和蒋涛，这两位你熟悉吧？祝你歌唱事业长青！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10624907)<br>翠微布衣<br>2017-05-09 17:52<br>赞(0) 踩(0) | <div>94年夏天我在中山公园音乐堂和你聊过天，我认识赵伟和蒋涛，这两位你熟悉吧？<br>祝你歌唱事业长青！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3173571)<br><br>2017-09-20 22:17<br>赞(0) 踩(0) | <div>喜欢你的歌声</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331450071)<br><br>2018-02-13 22:07<br>赞(0) 踩(0) | <div>喜欢狼哥的声音</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345990905)<br><br>2018-03-07 20:54<br>赞(0) 踩(0) | <div>你是我学生时代的偶像，初学吉他从《同桌的你》入门，经久不衰的旋律！暴露年龄的歌。</div> |
@@ -281,7 +281,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100698516)<br><br>2018-10-01 08:11<br>赞(0) 踩(0) | <div>期待你的新作品！！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34009937)<br><br>2018-12-03 19:37<br>赞(0) 踩(0) | <div>喜欢。生日快乐，狼哥 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420150648)<br><br>2019-05-31 04:13<br>赞(0) 踩(0) | <div>现在还抽烟？老狼</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305287481)<br>时光不能倒流 那些声音却...<br>2019-07-08 12:51<br>赞(0) 踩(0) | <div>也许您看不到爸爸 这歌谁唱的 好听来自我的心 老狼排行榜上没见过 车里CD那个老头啊 唱的还挺好的1995年 你爸初中有有盘磁带叫恋恋风尘 就是这老头唱的 什么是磁带以后解释 其中第六首就是这歌 最后一首叫同桌的你漩涡一样的回忆时不时会翻涌而出，让人搞不清现实和幻想。一代人的青春 青春无悔</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305287481)<br>时光不能倒流 那些声音却...<br>2019-07-08 12:51<br>赞(0) 踩(0) | <div>也许您看不到<br>爸爸 这歌谁唱的 好听<br>来自我的心 老狼<br>排行榜上没见过 车里CD那个老头啊 唱的还挺好的<br>1995年 你爸初中有有盘磁带叫恋恋风尘 就是这老头唱的 什么是磁带以后解释 其中第六首就是这歌 最后一首叫同桌的你<br>漩涡一样的回忆时不时会翻涌而出，让人搞不清现实和幻想。<br>一代人的青春 青春无悔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50700350)<br>卡比巴拉的海<br>2015-11-20 11:14<br>赞(0) 踩(0) | <div>都下架了 <img src="../../images/comments/8fcbf24260c00a88b7455190f859059e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12345762)<br> <br>2015-11-20 10:26<br>赞(0) 踩(0) | <div>全下架 这是逼我用qq音乐的节奏啊 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12345762)<br> <br>2015-11-20 10:22<br>赞(0) 踩(0) | <div>刚搜了罗大佑 没几首歌了 老狼也是 呵呵呵</div> |
@@ -346,7 +346,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35950839)<br>我是尹弋，不是尹戈。<br>2014-09-03 14:14<br>赞(0) 踩(0) | <div>只有你陪我唱歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/165150)<br><br>2014-08-22 17:13<br>赞(14) 踩(0) | <div>你们有没有意识到老狼快50了。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261025438)<br><br>2019-07-23 14:21<br>赞(0) 踩(0) | <div>之前综艺节目被叫爷爷</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39784952)<br> <br>2014-08-08 09:22<br>赞(0) 踩(0) | <div>听歌这么久喜欢过陈奕迅 张学友 黄建为 朴树 周云蓬 王菲 好多好多 老狼还是我从头到尾一直最喜欢的月光倾城简直是爱到要死了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39784952)<br> <br>2014-08-08 09:22<br>赞(0) 踩(0) | <div>听歌这么久喜欢过陈奕迅 张学友 黄建为 朴树 周云蓬 王菲 好多好多 老狼还是我从头到尾一直最喜欢的<br>月光倾城简直是爱到要死了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11713606)<br>爱Pippo，爱语言学<br>2014-08-01 09:38<br>赞(2) 踩(0) | <div>如果把男人比作糕点。高晓松应当是翡翠烧麦，肚子里的货看的一清二楚。老狼大概是蟹黄汤包，内心的世界藏在里面，始终是潮湿的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8754154)<br>sunshine<br>2014-07-28 22:01<br>赞(0) 踩(0) | <div>我最喜欢的男声，没有之一！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33211156)<br>一群嗜血的蚂蚁，被腐肉所...<br>2014-10-01 21:51<br>赞(0) 踩(0) | <div>那你听一听平凡之路，之后你就会改变三观了.</div> |
@@ -363,7 +363,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12728197)<br><br>2014-06-03 18:42<br>赞(0) 踩(0) | <div>多年最爱。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/398739)<br><br>2014-06-03 11:03<br>赞(0) 踩(0) | <div>啊哈！~乌龙乌龙~原来是红色耳机插松了~哦呵呵呵呵</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6540279)<br>严肃活泼<br>2014-07-09 17:13<br>赞(0) 踩(0) | <div>哥们你太欢乐了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/398739)<br><br>2014-06-03 10:57<br>赞(0) 踩(0) | <div>怎么回事!今天想听一下老狼的歌，放出来的居然全是伴奏，没有人声！……卡拉OK么？虾米啥时候有了这种功能？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/398739)<br><br>2014-06-03 10:57<br>赞(0) 踩(0) | <div>怎么回事!今天想听一下老狼的歌，放出来的居然全是伴奏，没有人声！……<br>卡拉OK么？虾米啥时候有了这种功能？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11498949)<br><br>2014-07-17 15:42<br>赞(0) 踩(0) | <div>估计你是插耳机听的吧？也许是手机耳机不配</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7180461)<br><br>2014-04-29 15:16<br>赞(0) 踩(0) | <div>just like</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35415608)<br><br>2014-04-20 14:30<br>赞(0) 踩(0) | <div>喜欢</div> |
@@ -434,7 +434,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16542443)<br>音乐是我的生命<br>2013-06-29 22:44<br>赞(0) 踩(0) | <div>民谣领军人物</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16430129)<br>往生光明之门。<br>2013-06-27 10:03<br>赞(0) 踩(0) | <div>是我一生  最初的迷惘</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-06-19 08:24<br>赞(0) 踩(0) | <div>郁冬的也好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-06-19 03:40<br>赞(92) 踩(0) | <div>高晓松的歌老狼唱最好听 老狼的歌高晓松写的最好听 郁冬的也好老狼和高晓松的狼狈为奸<a href="https://www.zhihu.com/question/41291170/answer/92368588" target="_blank" rel="nofollow noreferrer noopener">https://www.zhihu.com/question/41291170/answer/92368588</a>假如你今后一辈子只能听7个歌手或乐队或作曲家或词人的歌曲，你会选择哪七个？为什么？<a href="http://www.zhihu.com/question/36541374/answer/71175049" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/36541374/answer/71175049</a>如何评价黄小茂？<a href="http://www.zhihu.com/question/33617204/answer/57015267" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/33617204/answer/57015267</a>有哪些音乐中的创意让你感到“音乐还可以是这样”？<a href="http://www.zhihu.com/question/33649954/answer/57296361" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/33649954/answer/57296361</a>高晓松2012年北京此间的少年演唱会<a href="http://www.xiami.com/song/showcollect/id/27222377" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/showcollect/id/27222377</a>老狼全集<a href="http://www.xiami.com/collect/35465287" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/collect/35465287</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-06-19 03:40<br>赞(92) 踩(0) | <div>高晓松的歌老狼唱最好听 老狼的歌高晓松写的最好听 郁冬的也好<br><br>老狼和高晓松的狼狈为奸<br><br><a href="https://www.zhihu.com/question/41291170/answer/92368588" target="_blank" rel="nofollow noreferrer noopener">https://www.zhihu.com/question/41291170/answer/92368588</a><br><br><br><br>假如你今后一辈子只能听7个歌手或乐队或作曲家或词人的歌曲，你会选择哪七个？为什么？<br><a href="http://www.zhihu.com/question/36541374/answer/71175049" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/36541374/answer/71175049</a><br><br>如何评价黄小茂？<br><a href="http://www.zhihu.com/question/33617204/answer/57015267" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/33617204/answer/57015267</a><br><br><br>有哪些音乐中的创意让你感到“音乐还可以是这样”？<br><a href="http://www.zhihu.com/question/33649954/answer/57296361" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/33649954/answer/57296361</a><br><br>高晓松2012年北京此间的少年演唱会<br><br><a href="http://www.xiami.com/song/showcollect/id/27222377" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/showcollect/id/27222377</a><br><br>老狼全集<br><br><a href="http://www.xiami.com/collect/35465287" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/collect/35465287</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2320033)<br> <br>2013-07-21 23:51<br>赞(0) 踩(0) | <div>老狼的歌郁冬写的最好听</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120)<br>椒盐排条<br>2013-09-16 19:01<br>赞(0) 踩(0) | <div>我覺得是郁冬寫得更好</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-09-16 23:16<br>赞(0) 踩(0) | <div><q><b>darkill说：</b></q></div> |
@@ -546,7 +546,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11211898)<br><br>2012-10-26 18:28<br>赞(0) 踩(0) | <div>那些年的校园民谣呀！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/692249)<br>……<br>2012-10-25 22:59<br>赞(0) 踩(0) | <div>没什么理由</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157824)<br>我很爱音乐<br>2012-10-22 17:34<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2746383)<br>静静的流逝。。。<br>2012-10-20 14:09<br>赞(0) 踩(0) | <div>试听的音乐，音效太差了。。。编辑同志改善一下了~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2746383)<br>静静的流逝。。。<br>2012-10-20 14:09<br>赞(0) 踩(0) | <div>试听的音乐，音效太差了。。。<br>编辑同志改善一下了~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11068597)<br>ERICBAND<br>2012-10-19 10:32<br>赞(0) 踩(0) | <div>70</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11082713)<br><br>2012-10-16 18:54<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8399735)<br><br>2012-10-13 04:08<br>赞(0) 踩(0) | <div>声音让人好舒服，独特的温柔</div> |
@@ -595,7 +595,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9365071)<br><br>2012-06-03 00:37<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341091)<br>偶爱我们呢~<br>2012-06-02 20:07<br>赞(0) 踩(0) | <div>朴实单纯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9306731)<br><br>2012-05-31 17:03<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9210577)<br><br>2012-05-30 11:28<br>赞(1) 踩(0) | <div>上次有幸听老狼的现场，逝去的青春劈头盖脸呼啸而来我辈已然一身疲沓的中年上班族，只有老狼，依旧格子衬衫+牛仔裤，永远青春无悔。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9210577)<br><br>2012-05-30 11:28<br>赞(1) 踩(0) | <div>上次有幸听老狼的现场，逝去的青春劈头盖脸呼啸而来<br>我辈已然一身疲沓的中年上班族，<br>只有老狼，依旧格子衬衫+牛仔裤，<br>永远青春无悔。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9287003)<br><br>2012-05-27 20:33<br>赞(0) 踩(0) | <div>这首歌真应景正读纳兰容若</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2766447)<br><br>2012-05-21 22:26<br>赞(0) 踩(0) | <div>喜欢，泪流满面！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9217590)<br><br>2012-05-19 14:26<br>赞(0) 踩(0) | <div>校园的歌</div> |
@@ -607,7 +607,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4915069)<br><br>2012-05-09 18:17<br>赞(0) 踩(0) | <div>xihuan</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7849758)<br><br>2012-05-07 20:17<br>赞(0) 踩(0) | <div>较为纯真的风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2206905)<br>前世的我<br>2012-05-05 15:53<br>赞(0) 踩(0) | <div>好朋友的姐夫</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5370682)<br><br>2012-05-05 13:43<br>赞(1) 踩(0) | <div>让青春的祭奠，迎风吟唱.......让岁月的迷茫，开满希望.......让爱情的美丽，长留心中.......</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5370682)<br><br>2012-05-05 13:43<br>赞(1) 踩(0) | <div>让青春的祭奠，迎风吟唱.......<br>让岁月的迷茫，开满希望.......<br>让爱情的美丽，长留心中.......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6427499)<br><br>2012-05-03 18:49<br>赞(0) 踩(0) | <div>伴随着他的歌声回到那个少不更事的年纪~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9003834)<br>kathy<br>2012-05-03 15:21<br>赞(0) 踩(0) | <div>就是喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9048210)<br><br>2012-05-01 18:14<br>赞(0) 踩(0) | <div>青葱回忆</div> |
@@ -698,7 +698,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3689640)<br>不放弃<br>2011-12-07 19:38<br>赞(0) 踩(0) | <div>同桌的你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1367684)<br>太阳看起来圆圆的<br>2011-12-07 10:59<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6951678)<br><br>2011-12-05 13:48<br>赞(0) 踩(0) | <div>喜欢，需要理由么？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6465227)<br><br>2011-12-03 22:18<br>赞(1) 踩(0) | <div>Unique womanDistinctive songFeel so special！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6465227)<br><br>2011-12-03 22:18<br>赞(1) 踩(0) | <div>Unique woman<br>Distinctive song<br>Feel so special！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3080279)<br><br>2011-12-02 17:46<br>赞(0) 踩(0) | <div>校园</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6980843)<br><br>2011-11-29 17:57<br>赞(0) 踩(0) | <div>伴我走过了大学生活，直至现在，甚至以后。。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3006511)<br><br>2011-11-28 22:04<br>赞(0) 踩(0) | <div>老狼</div> |
@@ -712,7 +712,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6773122)<br><br>2011-11-17 09:13<br>赞(0) 踩(0) | <div>那个鼎盛的校园民谣时代的代表人物。回不去的青春，回不去的时光</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6704036)<br><br>2011-11-16 23:02<br>赞(0) 踩(0) | <div>不需要理由，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3884765)<br><br>2011-11-13 09:23<br>赞(0) 踩(0) | <div>校园民谣歌手</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6681678)<br><br>2011-11-12 15:45<br>赞(0) 踩(0) | <div>写在心里的话也会改变昨天，今天早已说不清</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6681678)<br><br>2011-11-12 15:45<br>赞(0) 踩(0) | <div>写在心里的话也会改变<br>昨天，今天早已说不清</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6686862)<br><br>2011-11-10 14:51<br>赞(0) 踩(0) | <div>校园民谣歌手 推荐几首就是 北京的冬天 情人劫 一个北京人在北京 睡在我上铺的兄弟 关于现在关于未来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6343785)<br><br>2011-11-06 15:17<br>赞(0) 踩(0) | <div>就是喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6343785)<br><br>2011-11-06 15:17<br>赞(0) 踩(0) | <div>还是喜欢，不老的中音</div> |
@@ -784,7 +784,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2680852)<br><br>2011-06-30 11:36<br>赞(0) 踩(0) | <div>找感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3421618)<br><br>2011-06-29 12:46<br>赞(0) 踩(0) | <div>十年前听过的那些歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3710239)<br>BeALongHorn<br>2011-06-28 20:29<br>赞(0) 踩(0) | <div>校园民谣从来不曾过时...</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2501563)<br>云袂风襟。微博：璃夏_K...<br>2011-06-27 00:18<br>赞(0) 踩(0) | <div>狼哥~~~我听到你的现场了！！好激动~~好开心~~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2501563)<br>云袂风襟。微博：璃夏_K...<br>2011-06-27 00:18<br>赞(0) 踩(0) | <div>狼哥~~~我听到你的现场了！！<br>好激动~~好开心~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4404881)<br><br>2011-06-24 20:06<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4395562)<br>2016<br>2011-06-24 00:12<br>赞(1) 踩(0) | <div>狼，怎么说呢，喜欢他不走纯粹的商业路线，不去糟蹋那些我们对音乐美好的认知，而且不想窦唯那种过于骄傲的清高另类，但是确实是在做音乐，从歌曲和声音当中能听到很多时间的沉淀。希望可以独树一派有灵魂。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4026460)<br>You have mus...<br>2011-06-21 19:48<br>赞(0) 踩(0) | <div>关于校园，关于青春年少，总少不了他的歌。</div> |

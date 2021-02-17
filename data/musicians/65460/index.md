@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/39caad4c82efe86f3de7b0c32df11e1f.jpg)<br>铃凯](https://i.xiami.com/lingkai) | **播放数**: 7339521<br>**粉丝数**: 5511<br>**评论数**: 225<br>**地区**: Singapore 新加坡<br>**风格**: 流行摇滚 Pop Rock, 民谣 Folk, 国语流行 Mandarin Pop, 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/39caad4c82efe86f3de7b0c32df11e1f.jpg)<br>铃凯](https://i.xiami.com/lingkai) | **地区**: Singapore 新加坡<br>**风格**: 流行摇滚 Pop Rock, 民谣 Folk, 国语流行 Mandarin Pop, 独立流行 Indie Pop<br>**播放数**: 7339521<br>**粉丝数**: 5511<br>**评论数**: 225<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66823378)<br><br>2020-03-30 21:46<br>赞(0) 踩(0) | <div><img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330911409)<br>人生就是旅行，路径，决定...<br>2020-03-01 18:43<br>赞(0) 踩(0) | <div>6年了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2019-12-19 13:38<br>赞(1) 踩(0) | <div>15684</div> |
@@ -86,7 +86,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1716769)<br>YO<br>2015-07-07 16:03<br>赞(0) 踩(0) | <div>好喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9906914)<br>Let it be<br>2015-06-15 22:40<br>赞(0) 踩(0) | <div>很棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46515715)<br>00s<br>2015-05-29 19:30<br>赞(0) 踩(0) | <div>赞</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40574199)<br>有机控 喜欢一切美的东西<br>2015-04-17 14:42<br>赞(1) 踩(0) | <div>未来 给了我微妙的起点暂时 我不会了解存在 它原来不在眼前又搁浅 也跨越</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40574199)<br>有机控 喜欢一切美的东西<br>2015-04-17 14:42<br>赞(1) 踩(0) | <div>未来 给了我微妙的起点<br>暂时 我不会了解<br>存在 它原来不在眼前<br>又搁浅 也跨越</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12023636)<br>人活着不一定要有意义，但...<br>2015-04-08 00:35<br>赞(0) 踩(0) | <div>每首歌都收藏起来吧！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29035418)<br>听些情投意合的歌<br>2015-03-31 22:01<br>赞(0) 踩(0) | <div>太棒 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28255457)<br>下起雨也要勇敢前进<br>2015-03-26 13:58<br>赞(0) 踩(0) | <div>虾米音乐的朋友们&amp;gt;&amp;lt;，你们好，我们是一群热爱独立音乐的学生。如果你从事音乐相关工作、或是音乐相关专业(含毕业)的学生，请帮我们填写一份在线调查问卷(十几个选择题)：<a href="http://www.sojump.com/jq/4569892.aspx" target="_blank" rel="nofollow noreferrer noopener">http://www.sojump.com/jq/4569892.aspx</a> 。调查结果将用来帮助你们和更多的音乐人，我们正在为此努力。感谢。</div> |
@@ -122,7 +122,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1598094)<br>我还没想好要写什么...<br>2014-08-18 21:19<br>赞(0) 踩(0) | <div>她的吉他什么牌的？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24553021)<br><br>2014-09-27 19:47<br>赞(0) 踩(0) | <div>hello! 正在用martin DCX1E =)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4804122)<br><br>2014-07-29 21:00<br>赞(0) 踩(0) | <div>喜欢这种风格</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11824766)<br><br>2014-07-24 15:49<br>赞(0) 踩(0) | <div>一个人开始听然后就喜欢上你了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11824766)<br><br>2014-07-24 15:49<br>赞(0) 踩(0) | <div>一个人<br>开始听<br>然后就喜欢上你了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35116063)<br><br>2014-07-21 23:31<br>赞(0) 踩(0) | <div>最喜欢 一个人 和little world.赶快出新专辑吧!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36326686)<br><br>2014-07-21 09:43<br>赞(0) 踩(0) | <div>什么时候回来深圳呀？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38784582)<br>只做好听的音乐<br>2014-07-20 19:07<br>赞(0) 踩(0) | <div>不错！新加坡的才女！我的原创音乐<a href="http://i.xiami.com/yangzhengao/demo?spm=a1z1s.6639717.350708669.3.u2sGU6" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/yangzhengao/demo?spm=a1z1s.6639717.350708669.3.u2sGU6</a></div> |
@@ -139,7 +139,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2527832)<br>超越生命 解放自由<br>2014-05-08 15:42<br>赞(0) 踩(0) | <div>能说话么？！自己玩单机？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12356186)<br>那些疲惫生活中的英雄梦想<br>2014-05-05 13:30<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1297071)<br><br>2014-05-03 20:58<br>赞(0) 踩(0) | <div>好喜欢她的声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12483024)<br><br>2014-04-22 11:51<br>赞(47) 踩(0) | <div>和青峰合作的一個人給我的感覺比原版的更澎湃，更瘋狂耶！！尤其合音那裏真的很迷人！！超好聽</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12483024)<br><br>2014-04-22 11:51<br>赞(47) 踩(0) | <div>和青峰合作的一個人給我的感覺比原版的更澎湃，更瘋狂耶！！<br>尤其合音那裏真的很迷人！！超好聽</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203114343)<br><br>2017-07-30 18:57<br>赞(0) 踩(0) | <div>好听，玲凯姐姐唱的好听，很喜欢她的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3898225)<br> <br>2014-04-18 14:29<br>赞(0) 踩(0) | <div>听第二首歌的时候就决定收藏了，好喜欢铃凯的嗓音呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3720262)<br><br>2014-04-17 16:54<br>赞(0) 踩(0) | <div>好听！</div> |
@@ -187,7 +187,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1287077)<br><br>2014-01-10 22:35<br>赞(1) 踩(0) | <div>中国好歌曲观光团留名 必火</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23350287)<br>半夜睡不着<br>2014-01-08 07:22<br>赞(1) 踩(0) | <div>铃凯去参加中国好歌曲了？刚才看节目花絮和蔡健雅合唱Beautiful love的妹子貌似是她。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28548798)<br><br>2014-01-10 09:03<br>赞(0) 踩(0) | <div>没错，我也发现了，就是她</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7361462)<br>安守本分<br>2014-01-01 21:44<br>赞(1) 踩(0) | <div>有多少人，是看封面进来的！嗯，我看了她的锁骨好几秒了！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7361462)<br>安守本分<br>2014-01-01 21:44<br>赞(1) 踩(0) | <div>有多少人，是看封面进来的！<br>嗯，我看了她的锁骨好几秒了！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18379270)<br>我想牵着你的手看遍全世界...<br>2013-12-26 06:57<br>赞(0) 踩(0) | <div>我喜欢～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6433339)<br>脱离了高级趣味 丧失了快...<br>2013-12-25 23:55<br>赞(0) 踩(0) | <div>找回~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14620955)<br>叫我短笛大魔王<br>2013-12-17 15:45<br>赞(0) 踩(0) | <div>喜欢这样哑哑的女声</div> |
@@ -204,7 +204,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25952300)<br>歐歐<br>2013-12-01 18:36<br>赞(0) 踩(0) | <div>0.0</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4443671)<br><br>2013-11-29 12:22<br>赞(0) 踩(0) | <div>真喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869944)<br><br>2013-11-28 18:24<br>赞(0) 踩(0) | <div>Lingkai~~your vocie is beautiful la ~~~like u~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16149794)<br><br>2013-11-28 14:05<br>赞(0) 踩(0) | <div>就在與自己的不平衡中繼續崩毀然後倔強重建。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16149794)<br><br>2013-11-28 14:05<br>赞(0) 踩(0) | <div>就在與自己的不平衡中繼續崩毀<br>然後倔強重建。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/617777)<br><br>2013-11-28 10:51<br>赞(0) 踩(0) | <div>声音赞！身材赞！我的类型么么哒！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11085457)<br>常随佛学<br>2013-11-14 23:07<br>赞(0) 踩(0) | <div>期待“随机播放”，尝试有另外的人声来翻唱演绎，不知会是什么感觉。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1142016)<br>Straight, no...<br>2013-11-10 03:18<br>赞(0) 踩(0) | <div>天呐华语音乐也能这样了，略略看到了Cat Power的影子</div> |

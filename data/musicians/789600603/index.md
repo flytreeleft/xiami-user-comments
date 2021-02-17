@@ -3,7 +3,7 @@ Mio
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/80239c22ffdc44ec19e982adc4115fe6.jpg)<br>Mio](https://i.xiami.com/mio) | **播放数**: 2021198<br>**粉丝数**: 838<br>**评论数**: 92<br>**地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 氛围音乐 Ambient, 电子 Electronic, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/80239c22ffdc44ec19e982adc4115fe6.jpg)<br>Mio](https://i.xiami.com/mio) | **地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 氛围音乐 Ambient, 电子 Electronic, 轻音乐 Easy Listening<br>**播放数**: 2021198<br>**粉丝数**: 838<br>**评论数**: 92<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@ Mio的作品更像是一面镜子，映射出每一个听者的内心
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5424076)<br>咋个说？要签名？<br>2020-07-21 07:58<br>赞(0) 踩(0) | <div>20200721</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4243795)<br>我还没想好要写什么...<br>2020-06-18 23:10<br>赞(0) 踩(0) | <div>buy USD 1 mio</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46765692)<br>我还没想好要写什么...<br>2019-11-28 00:53<br>赞(0) 踩(0) | <div>你是谁呢</div> |
@@ -72,7 +72,7 @@ Mio的作品更像是一面镜子，映射出每一个听者的内心
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8298277)<br>暂无签名~<br>2015-10-02 00:17<br>赞(0) 踩(0) | <div>晚安，好梦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15200396)<br><br>2015-04-28 16:52<br>赞(1) 踩(0) | <div>你就像一个不会说话的英格玛，一个女版的鲁多维科艾奥迪，这不就是两个了吗？不对，是一个！一个？话说你是女生吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15200396)<br><br>2015-04-29 11:08<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9767947)<br>暂无签名~<br>2015-04-18 17:44<br>赞(1) 踩(0) | <div>干净 适合发呆下周去参加发呆比赛就指着这个助我放空变身木头人了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9767947)<br>暂无签名~<br>2015-04-18 17:44<br>赞(1) 踩(0) | <div>干净 适合发呆<br>下周去参加发呆比赛就指着这个助我放空变身木头人了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4173542)<br><br>2015-04-13 13:14<br>赞(0) 踩(0) | <div>已经很不错了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8643737)<br><br>2015-04-13 08:06<br>赞(0) 踩(0) | <div>很好的音乐，支持国产独立音乐。加油Y！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103298)<br><br>2015-04-12 00:13<br>赞(0) 踩(0) | <div>感情丰富</div> |
@@ -105,7 +105,7 @@ Mio的作品更像是一面镜子，映射出每一个听者的内心
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9784717)<br>黑暗藝術家<br>2014-09-13 13:49<br>赞(0) 踩(0) | <div>wooooow。。那麼小眾，但是超讚耶！我看到了中國第二個王三溥。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8298277)<br>暂无签名~<br>2014-09-13 22:42<br>赞(0) 踩(0) | <div>作品都是表达内心所想 谢谢你的评语</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9784717)<br>黑暗藝術家<br>2014-09-14 13:15<br>赞(0) 踩(0) | <div><q><b>Mio说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6136079)<br>江欲其怒，涧欲其清<br>2014-09-01 23:50<br>赞(0) 踩(0) | <div>很棒的新世纪，中国的新世纪音乐人不少都跑到日本去加盟和平之月了，您的作品真的不比那些大师逊色，希望能越做越好，把中国的New Age也做出影响力来。另外，Mio这个名字是“我的”？还是有什么别的意思？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6136079)<br>江欲其怒，涧欲其清<br>2014-09-01 23:50<br>赞(0) 踩(0) | <div>很棒的新世纪，中国的新世纪音乐人不少都跑到日本去加盟和平之月了，您的作品真的不比那些大师逊色，希望能越做越好，把中国的New Age也做出影响力来。<br>另外，Mio这个名字是“我的”？还是有什么别的意思？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12705257)<br>每当音乐响起，我总是身不...<br>2014-07-26 22:56<br>赞(0) 踩(0) | <div>好听哎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7937138)<br><br>2014-07-07 23:07<br>赞(0) 踩(0) | <div>电台第一首是Stream，很合胃口。干得漂亮。祝越走越远。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8298277)<br>暂无签名~<br>2014-07-11 10:32<br>赞(0) 踩(0) | <div>很开心你能喜欢</div> |

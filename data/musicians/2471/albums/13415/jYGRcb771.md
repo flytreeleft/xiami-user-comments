@@ -41,8 +41,8 @@ a~~~~~~~~
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50192184)<br><br>2020-04-30 12:49<br>赞(0) 踩(0) | <div>那会儿看红拂女 这是片尾曲 后来看音悦台 mv里她躺在钢琴上 穿的那件毛衣 是她妈妈织的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274660251)<br><br>2018-05-29 22:40<br>赞(0) 踩(0) | <div>其实很爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49756347)<br> <br>2018-05-12 18:20<br>赞(0) 踩(0) | <div>不错</div> |
@@ -78,7 +78,7 @@ a~~~~~~~~
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52307713)<br>终究都成往事……<br>2017-11-07 22:03<br>赞(1) 踩(0) | <div>张韶涵的声音一直都这么好听...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12025892)<br>我还没想好要写什么...<br>2017-10-30 09:51<br>赞(1) 踩(0) | <div>范玮琪明明就是两面三刀 节目直接放冷箭说没见过小s换尿布 可见她根本就不是自己塑造的那种傻大姐形象 而是。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322994595)<br><br>2017-10-28 22:29<br>赞(1) 踩(0) | <div>初中时很喜欢这首歌，很喜欢张韶涵，希望你能振作起来，好好生活，有更多好的作品</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6990687)<br><br>2017-10-28 00:12<br>赞(2) 踩(0) | <div>天空突然一片辽阔原来你是真的已经离开我在我不熟悉的世界过新的生活闭上眼让泪水滑落此刻你已真的永远离开我在另外一个没有我的世界自由的走</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6990687)<br><br>2017-10-28 00:12<br>赞(2) 踩(0) | <div>天空突然一片辽阔<br>原来你是真的已经离开我<br>在我不熟悉的世界过新的生活<br>闭上眼让泪水滑落<br>此刻你已真的永远离开我<br>在另外一个没有我的世界<br>自由的走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54666361)<br>我还没想好要写什么...<br>2017-10-26 05:08<br>赞(1) 踩(0) | <div>会哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272051107)<br>世界很大 生命太短 做自...<br>2017-10-22 12:39<br>赞(2) 踩(0) | <div>Angela是心中永远的天后</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5490437)<br>女士优先<br>2017-10-17 00:01<br>赞(0) 踩(0) | <div>.</div> |
@@ -159,7 +159,7 @@ a~~~~~~~~
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13629307)<br>好又多<br>2013-08-23 08:48<br>赞(0) 踩(0) | <div>#你一定不知道她唱过这么好听的歌# #下雨天听的歌#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16209799)<br><br>2013-07-12 23:11<br>赞(0) 踩(0) | <div>每当压力很大的时候，就会想到小时候。就算再怎样被别人误解，也要微笑面对是吗？用行动证明自己就好了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16004418)<br><br>2013-06-13 11:24<br>赞(0) 踩(0) | <div>世界以痛吻我，我却回报以歌。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5533004)<br>爱一个人，一辈子<br>2013-06-07 17:36<br>赞(0) 踩(0) | <div>天空突然一片辽阔原来你是真的已经离开我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5533004)<br>爱一个人，一辈子<br>2013-06-07 17:36<br>赞(0) 踩(0) | <div>天空突然一片辽阔<br>原来你是真的已经离开我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4799953)<br>自囧成才<br>2013-03-22 21:17<br>赞(0) 踩(0) | <div>深白色写的真嗲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1876537)<br>用心聆听<br>2013-02-10 20:24<br>赞(0) 踩(0) | <div>潘朵拉》2006年01月01日</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3964294)<br><br>2012-11-10 18:32<br>赞(0) 踩(0) | <div>突然觉得， 这歌蛮值得练一下的！ 找个团玩玩好了</div> |
@@ -177,5 +177,5 @@ a~~~~~~~~
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163717)<br><br>2011-06-03 23:40<br>赞(0) 踩(0) | <div>很有感触的歌词，共鸣！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3681245)<br><br>2011-06-03 13:34<br>赞(0) 踩(0) | <div>想要说，却还沉默。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/681951)<br><br>2011-05-19 22:28<br>赞(0) 踩(0) | <div>以前以前很喜欢的···</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3710369)<br><br>2011-05-08 15:17<br>赞(0) 踩(0) | <div>这一次你是真的离开了我……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3710369)<br><br>2011-05-08 15:17<br>赞(0) 踩(0) | <div>这一次<br>你是<br>真的<br>离开了<br>我……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/514320)<br><br>2011-02-13 00:57<br>赞(0) 踩(0) | <div>我倒觉得这是这张专辑最好的...</div> |

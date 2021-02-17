@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8eb95a85e584b63cbb14a58bfbb155e3.jpg)<br>赵慧仙](https://i.xiami.com/zhaohuixian) | **播放数**: 1365639<br>**粉丝数**: 202<br>**评论数**: 17<br>**地区**: Korea 韩国<br>**风格**: 流行舞曲 Dance-Pop, 国语流行 Mandarin Pop, 韩国流行 K-Pop<br> |
+| [![](../../images/musicians/8eb95a85e584b63cbb14a58bfbb155e3.jpg)<br>赵慧仙](https://i.xiami.com/zhaohuixian) | **地区**: Korea 韩国<br>**风格**: 流行舞曲 Dance-Pop, 国语流行 Mandarin Pop, 韩国流行 K-Pop<br>**播放数**: 1365639<br>**粉丝数**: 202<br>**评论数**: 17<br> |
 
 ## 档案
 
@@ -36,8 +36,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47631702)<br>저는 한국에서 왔어요.<br>2020-09-23 22:37<br>赞(1) 踩(0) | <div>剧透一下，仙仙想找个中国男盆友</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354228898)<br><br>2019-05-10 23:11<br>赞(0) 踩(0) | <div>歌很好听！个性应该在明显一些更好。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34787544)<br><br>2018-03-17 22:54<br>赞(0) 踩(0) | <div><img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |

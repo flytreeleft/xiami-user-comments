@@ -62,12 +62,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305189939)<br><br>2019-07-29 15:27<br>赞(1) 踩(0) | <div>人生已经过半，尝遍酸甜苦辣，侃侃真的是唱出了人生里这份沧桑感。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291016461)<br>常思已过犹如醍醐灌顶！<br>2017-12-01 21:05<br>赞(1) 踩(0) | <div>就好似一剂抚慰心灵的良药！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263055767)<br>。<br>2017-11-24 00:14<br>赞(0) 踩(0) | <div>温暖 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8908077)<br><br>2017-10-27 23:20<br>赞(1) 踩(0) | <div>黄玫瑰别落泪所有的花儿你最美你应该知道你是那样美谁都会为你心醉别再抱怨爱太累真爱能有几回别害怕别犯傻别轻易剪去长发我会站在你的身旁给你依靠的肩膀别说话微笑吧回头是灿烂的霞我默默的祝福你感觉到了吗海角天涯哪里不是你的家别怕啊别傻啊哪里都能开花</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8908077)<br><br>2017-10-27 23:20<br>赞(1) 踩(0) | <div>黄玫瑰别落泪<br>所有的花儿你最美<br>你应该知道你是那样美<br>谁都会为你心醉<br>别再抱怨爱太累<br>真爱能有几回<br>别害怕别犯傻<br>别轻易剪去长发<br>我会站在你的身旁<br>给你依靠的肩膀<br>别说话微笑吧<br>回头是灿烂的霞<br>我默默的祝福你感觉到了吗<br>海角天涯哪里不是你的家<br>别怕啊别傻啊<br>哪里都能开花</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286098388)<br><br>2017-10-19 04:27<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311198118)<br>衷<br>2017-10-09 21:15<br>赞(3) 踩(0) | <div>坚持直侃，装饰音可以坠后（吐字归音的），绝忌日式浪腔   丢翻女伪军十年以上  藏了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291016398)<br>心灵的归宿——相伴到老<br>2017-10-05 10:57<br>赞(2) 踩(0) | <div>共鸣</div> |
@@ -91,7 +91,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9240306)<br><br>2013-09-16 22:07<br>赞(1) 踩(0) | <div>即使告别的了春天阳光 你依然要开放 别害怕 别犯傻 别轻易剪去长发</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19744662)<br><br>2013-08-25 18:45<br>赞(0) 踩(0) | <div>这首歌适合刘彩星啊啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15855647)<br><br>2013-06-27 09:07<br>赞(0) 踩(0) | <div>Tingling</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13789534)<br><br>2013-06-10 10:49<br>赞(0) 踩(0) | <div>别说话微笑吧／回头是灿烂的霞／我默默的祝福你感觉到了吗／海角天涯哪里不是你的家</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13789534)<br><br>2013-06-10 10:49<br>赞(0) 踩(0) | <div>别说话微笑吧／<br>回头是灿烂的霞／<br>我默默的祝福你感觉到了吗／<br>海角天涯哪里不是你的家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14471296)<br><br>2013-05-29 21:25<br>赞(0) 踩(0) | <div>所有花儿你最美。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13309538)<br><br>2013-03-03 07:45<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1707795)<br><br>2012-09-01 08:10<br>赞(0) 踩(0) | <div>即使告别了春天的阳光，你依然要开放！</div> |
@@ -109,8 +109,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7609678)<br><br>2012-01-11 16:15<br>赞(0) 踩(0) | <div>忧伤的美丽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6421333)<br><br>2011-10-25 09:10<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377991)<br><br>2011-10-12 14:15<br>赞(1) 踩(0) | <div>没去过丽江的朋友们，先感受一下扬州歌者所演绎的丽江意境！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6200206)<br><br>2011-10-11 01:35<br>赞(0) 踩(0) | <div>回到音乐本质的美丽境界，来自灵魂最深处的声音！自然干净如泉水般的歌唱，安抚尘世里功利和浮躁的心！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6200206)<br><br>2011-10-11 01:30<br>赞(0) 踩(0) | <div>回到音乐本质的美丽境界 ，来自灵魂最深处的声音！纯洁自然如水的歌唱，抚摩尘世里功利和浮躁的灵魂！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6200206)<br><br>2011-10-11 01:35<br>赞(0) 踩(0) | <div>回到音乐本质的美丽境界，来自灵魂最深处的声音！<br>自然干净如泉水般的歌唱，安抚尘世里功利和浮躁的心！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6200206)<br><br>2011-10-11 01:30<br>赞(0) 踩(0) | <div>回到音乐本质的美丽境界 ，来自灵魂最深处的声音！<br>纯洁自然如水的歌唱，抚摩尘世里功利和浮躁的灵魂！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5491551)<br><br>2011-08-19 22:37<br>赞(0) 踩(0) | <div>现在很难有这种感动了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5454185)<br><br>2011-08-18 14:35<br>赞(0) 踩(0) | <div>赞~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5039939)<br><br>2011-07-28 00:01<br>赞(0) 踩(0) | <div>好听</div> |

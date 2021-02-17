@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/fc6261e3fd5f5c121f6d3c435821c5b2.jpg)<br>刘长武](https://i.xiami.com/liuchangwu) | **播放数**: 1118544<br>**粉丝数**: 29<br>**评论数**: 4<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 轻音乐 Easy Listening, 古典音乐 Classical<br> |
+| [![](../../images/musicians/fc6261e3fd5f5c121f6d3c435821c5b2.jpg)<br>刘长武](https://i.xiami.com/liuchangwu) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 轻音乐 Easy Listening, 古典音乐 Classical<br>**播放数**: 1118544<br>**粉丝数**: 29<br>**评论数**: 4<br> |
 
 ## 档案
 
@@ -33,8 +33,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432837685)<br> <br>2019-12-08 07:19<br>赞(0) 踩(0) | <div>666六个什么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126867878)<br><br>2019-03-15 16:47<br>赞(0) 踩(0) | <div>像风一样自由，这歌是许巍的的原唱，你拿来翻唱可以，可是你唱了吗？是你的声音吗？啥都没唱直接改名，不知道的以为你原唱，如此奇葩，虾米就不管管吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374926988)<br>我还没想好要写什么...<br>2019-03-12 09:33<br>赞(0) 踩(0) | <div>《像风一样自由》原唱许巍，用原唱声音，改自己的名字，你要脸吗？要脸吗？要脸吗？</div> |

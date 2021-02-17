@@ -55,8 +55,8 @@ MIDI：赵雷 / 喜子<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32934800)<br><br>2020-11-02 11:30<br>赞(0) 踩(0) | <div>有情怀的天才</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334760947)<br>不忘初心！！才能始终！！<br>2020-10-27 00:40<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-10-10 00:36<br>赞(0) 踩(0) | <div>费烟了</div> |
@@ -78,7 +78,7 @@ MIDI：赵雷 / 喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425734131)<br><br>2019-06-08 21:22<br>赞(4) 踩(0) | <div>第一次听这首，就被深深吸引住了，听着听着就湿了眼眶！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405721837)<br>境由心生，心从何来？<br>2019-05-23 00:07<br>赞(2) 踩(0) | <div>有人觉的赵雷的音色和郑智化很像吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141007448)<br>所有的成熟都是我的伪装，...<br>2020-10-18 19:14<br>赞(0) 踩(0) | <div>像郑均，像郑智化，像许巍，像窦唯。但是他是赵雷。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282299636)<br>还记得那年冬天除夕夜晚小...<br>2019-04-11 22:15<br>赞(3) 踩(0) | <div>那时没有电夜晚围着烛光下看妈妈缝补衣裳那时很穷都上初中了还再捡姐姐穿过的衣裳</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282299636)<br>还记得那年冬天除夕夜晚小...<br>2019-04-11 22:15<br>赞(3) 踩(0) | <div>那时没有电夜晚围着烛光下看妈妈缝补衣裳<br>那时很穷都上初中了还再捡姐姐穿过的衣裳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412275451)<br><br>2019-03-29 07:31<br>赞(0) 踩(0) | <div>柔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50359325)<br><br>2019-01-22 19:25<br>赞(1) 踩(0) | <div>每次听这首歌，都想起小时的家乡，心悸，不敢评论</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411838663)<br>真的没想好<br>2019-01-21 01:51<br>赞(0) 踩(0) | <div>窑上在哪</div> |
@@ -100,7 +100,7 @@ MIDI：赵雷 / 喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357697419)<br>人生如音乐，喜怒哀乐<br>2018-06-30 01:47<br>赞(0) 踩(0) | <div>怀念曾经一起的时光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334810250)<br><br>2018-06-02 10:55<br>赞(2) 踩(0) | <div>赵雷的这首歌唱出了对母亲的怀念，我也想我的母亲了，感动的快哭了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187806918)<br><br>2018-05-22 19:09<br>赞(3) 踩(0) | <div>琉璃河窑上，房山人路过</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187633524)<br>無法長大<br>2018-05-06 11:15<br>赞(2) 踩(0) | <div>流行是歌民谣是命这一生我们亏欠太多但最终放不下的唯  孝</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187633524)<br>無法長大<br>2018-05-06 11:15<br>赞(2) 踩(0) | <div>流行是歌<br>民谣是命<br>这一生我们亏欠太多<br>但最终放不下的唯  孝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125089920)<br>找到北方啦<br>2018-04-10 14:22<br>赞(2) 踩(0) | <div>下午好趙小雷等我考完</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1384536)<br>感谢拥有耳朵去听song<br>2018-04-08 21:09<br>赞(2) 踩(0) | <div>琉璃河窑上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5035279)<br>喜乐人生<br>2018-04-06 17:05<br>赞(2) 踩(0) | <div>亲情与家乡，是涵盖赵雷大多音乐作品的两个突出的情结~</div> |
@@ -165,7 +165,7 @@ MIDI：赵雷 / 喜子<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3516744)<br> <br>2018-07-31 09:52<br>赞(0) 踩(0) | <div>这张专辑就是证明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266942558)<br><br>2017-06-08 07:57<br>赞(2) 踩(0) | <div>太好听了，吉他，和声太棒！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262877677)<br><br>2017-06-02 17:20<br>赞(3) 踩(0) | <div>上车，走吧</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82210876)<br>我还没想好要写什么...<br>2017-06-03 11:51<br>赞(0) 踩(0) | <div>00！</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82210876)<br>我还没想好要写什么...<br>2017-06-03 11:51<br>赞(0) 踩(0) | <div>00<br>！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266578162)<br><br>2017-05-26 20:42<br>赞(3) 踩(0) | <div>赵雷的歌曲总能给加班后疲惫的身躯灌入奇特的力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35184999)<br><br>2017-05-21 10:55<br>赞(4) 踩(0) | <div>赵雷的歌全都下载了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177423156)<br>多想和你游遍世界、<br>2017-05-19 14:51<br>赞(2) 踩(0) | <div>和你去流浪</div> |
@@ -224,7 +224,7 @@ MIDI：赵雷 / 喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269231516)<br><br>2017-02-25 03:47<br>赞(101) 踩(0) | <div>支付宝孤零零躺着六块 在深夜十一点半爬起来让室友凑我十块买了一张数字专辑 不算晚赵小雷</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214573469)<br> <br>2017-03-24 18:09<br>赞(0) 踩(0) | <div>一个人的朝圣你居然听了那么多遍 <img src="../../../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81120446)<br><br>2017-02-24 12:37<br>赞(0) 踩(0) | <div>好庆幸自己是在赵雷上我歌之前买了这张专辑，要不肯定有人说我跟风，哈哈。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247079371)<br><br>2017-02-19 09:23<br>赞(0) 踩(0) | <div>那是她的天堂那是再见之后的忧伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247079371)<br><br>2017-02-19 09:23<br>赞(0) 踩(0) | <div>那是她的天堂<br>那是再见之后的忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274029201)<br>音乐，无处不在！<br>2017-02-17 10:02<br>赞(0) 踩(0) | <div>第一次听他的歌是那首画，真的很美的很有意境的一首歌！满脑子都是歌词所描绘的画面，very very beautiful!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24499203)<br>生如夏花之绚丽，死于秋叶...<br>2017-02-14 16:43<br>赞(0) 踩(0) | <div>要上路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272082551)<br><br>2017-02-13 10:31<br>赞(177) 踩(0) | <div>不希望赵雷红了，他红了我就没钱看他的演唱会了</div> |

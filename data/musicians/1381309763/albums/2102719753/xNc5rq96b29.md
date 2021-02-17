@@ -53,5 +53,3 @@ How I wonder what you are
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

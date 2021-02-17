@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446227591)<br>游泳池小便的人<br>2021-01-14 15:57<br>赞(0) 踩(0) | <div>?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43492923)<br>行到水穷我才开始害怕，夕...<br>2019-11-08 08:56<br>赞(0) 踩(0) | <div>▽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9564556)<br>杂<br>2016-07-06 06:45<br>赞(1) 踩(0) | <div>说实话。。从原唱听到placebo再到XJapan，这版本就有点没法听了。。。</div> |

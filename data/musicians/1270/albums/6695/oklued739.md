@@ -36,8 +36,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208856)<br>众生喧哗，独寻幽静。<br>2019-02-10 00:30<br>赞(0) 踩(0) | <div>转了三个调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178893924)<br><br>2016-06-03 10:37<br>赞(0) 踩(0) | <div>中年人都打麻将去了吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7873414)<br>每个人皈依自己的宗教。<br>2016-05-20 15:33<br>赞(0) 踩(0) | <div>说点什么呢？</div> |
@@ -59,7 +59,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2416760)<br>我还没想好要写什么...<br>2014-08-08 18:54<br>赞(0) 踩(0) | <div>觉得很好听，跟诸君分享</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13325464)<br>lovers cry<br>2014-06-24 23:59<br>赞(0) 踩(0) | <div>曾经引用到小说《他只是想吃个橙子》中的清晨歌~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36479080)<br>逃是地狱。<br>2014-06-15 16:32<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11368649)<br>_<br>2014-05-16 19:20<br>赞(1) 踩(0) | <div>孩子们梦见自己的小孩，老人们想着自己的奶奶。只有中年人忙着种粮食。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11368649)<br>_<br>2014-05-16 19:20<br>赞(1) 踩(0) | <div>孩子们梦见自己的小孩，<br>老人们想着自己的奶奶。<br>只有中年人忙着种粮食。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33452807)<br><br>2014-04-17 11:56<br>赞(0) 踩(0) | <div>&amp;quot;孩子们梦见自己的小孩，老人们想着自己的奶奶，只有中年人忙着种粮食。&amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14689386)<br>若你相依我必相伴<br>2014-03-26 10:46<br>赞(0) 踩(0) | <div>不多说了！喜欢就是喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2014-03-16 12:04<br>赞(0) 踩(0) | <div>心 境不二</div> |
@@ -100,7 +100,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5461046)<br><br>2012-01-27 03:33<br>赞(0) 踩(0) | <div>推荐。关于生命本身的民谣。周云蓬要去台北演出诶。不过估计不会唱这首歌。成名后的他已经写不出这样的东西了。写不出这种真挚淳朴的记录时代的东西了。成名后沦为与其他人一样贩卖大概念的周云蓬这成名有点不值得。可这是一首好歌曲。值得！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5545771)<br><br>2012-01-24 00:53<br>赞(0) 踩(0) | <div>围坐吃饭喝酒 互吐苦水 谈论工作自己的童年逝去的老人成长的孩子 千篇一律每年如此且热衷坚持 虽然无聊但也宽慰 年年岁岁花相似，岁岁年年人不同。艰难的日子里能生存已实不易 谁也不能苛求什么 只愿来年此日仍能相聚重复同样的事情 nice dream</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5183891)<br>定不辜负美好事物。<br>2012-01-11 19:19<br>赞(0) 踩(0) | <div>长出来又衰败，花开过，成尘埃，成尘埃。长出来，成尘埃，花开过，成尘埃。十年流水成尘埃，十年浮云，成尘埃</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6555444)<br> <br>2011-12-18 21:57<br>赞(0) 踩(0) | <div>我偷偷地潜入昼与夜的过道那儿有一个星期八与我邂逅--周云蓬《今夜》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6555444)<br> <br>2011-12-18 21:57<br>赞(0) 踩(0) | <div>我偷偷地<br>潜入昼与夜的过道<br>那儿有一个星期八与我邂逅<br><br>--周云蓬《今夜》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4032426)<br><br>2011-11-17 14:59<br>赞(0) 踩(0) | <div>歌词写的是很神奇。。。服了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/918428)<br><br>2011-10-12 20:20<br>赞(0) 踩(0) | <div>推荐.有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1656351)<br> <br>2011-09-14 20:37<br>赞(0) 踩(0) | <div>来首民谣消消气~~~</div> |
@@ -109,9 +109,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421082)<br><br>2011-07-25 13:34<br>赞(0) 踩(0) | <div>孩子们出门玩儿都没回来，老人们睡觉都没醒来...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421082)<br><br>2011-07-25 13:33<br>赞(0) 踩(0) | <div>孩子们出门玩儿都没回来，老人们睡觉都没醒来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2745576)<br>答案在风中飘荡~~<br>2011-07-17 03:22<br>赞(0) 踩(0) | <div>“成尘埃~成尘埃~”像佛经像咒语，等车的时候，一直在我脑际盘旋。。老周的声音坦然，超脱。。两袖清风。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2235398)<br><br>2011-06-08 23:48<br>赞(0) 踩(0) | <div>孩子们梦见自己的小孩，老人们想着自己的奶奶。只有中年人忙着种粮食。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2235398)<br><br>2011-06-08 23:47<br>赞(0) 踩(0) | <div>孩子们梦见自己的小孩，老人们想着自己的奶奶。只有中年人忙着种粮食。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2235398)<br><br>2011-06-08 23:46<br>赞(0) 踩(0) | <div>孩子们梦见自己的小孩，老人们想着自己的奶奶,只有中年人忙着种粮食。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2235398)<br><br>2011-06-08 23:48<br>赞(0) 踩(0) | <div>孩子们梦见自己的小孩，<br>老人们想着自己的奶奶。<br>只有中年人忙着种粮食。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2235398)<br><br>2011-06-08 23:47<br>赞(0) 踩(0) | <div>孩子们梦见自己的小孩，<br>老人们想着自己的奶奶。<br>只有中年人忙着种粮食。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2235398)<br><br>2011-06-08 23:46<br>赞(0) 踩(0) | <div>孩子们梦见自己的小孩，<br>老人们想着自己的奶奶,<br>只有中年人忙着种粮食。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3818940)<br><br>2011-05-19 15:21<br>赞(0) 踩(0) | <div>灵魂的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2623030)<br>无执著，无念，无区别<br>2011-05-09 04:30<br>赞(0) 踩(0) | <div>花开后，成尘埃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444386)<br>Jazzy Mood<br>2011-04-11 09:39<br>赞(0) 踩(0) | <div>很有深意的歌</div> |

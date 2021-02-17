@@ -96,5 +96,3 @@ Chin up turn around sit down
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

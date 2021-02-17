@@ -12,18 +12,15 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59367130)<br>天地不仁 以万物为刍狗<br>2018-06-14 00:11<br>赞(0) 踩(0) | <div>&amp;forall;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336198864)<br><br>2018-03-17 12:56<br>赞(0) 踩(0) | <div>这样细腻的音乐。见于大明宫词。细腻见于音乐见于文字表达着情感</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336198864)<br><br>2018-03-17 12:50<br>赞(1) 踩(0) | <div>应该是神仙写的曲子。你不是神仙。一定是从前或梦里遇见了神，受了点化，来到中国，传承了中华文化的精随</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336198864)<br><br>2018-03-17 12:42<br>赞(0) 踩(0) | <div>天上人间，仙境。中华文化的灿烂。心境的美好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336198864)<br><br>2018-03-17 12:56<br>赞(0) 踩(0) | <div>这样细腻的音乐。<br>见于大明宫词。<br>细腻<br>见于音乐<br>见于文字<br>表达着情感</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336198864)<br><br>2018-03-17 12:50<br>赞(1) 踩(0) | <div>应该是神仙写的曲子。<br>你不是神仙。<br>一定是从前或梦里遇见了神，受了点化，来到中国，传承了中华文化的精随</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336198864)<br><br>2018-03-17 12:42<br>赞(0) 踩(0) | <div>天上人间，仙境。<br>中华文化的灿烂。<br>心境的美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351029489)<br><br>2018-02-17 13:49<br>赞(1) 踩(0) | <div>比起长相守，其实我更喜欢这一首曲子。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329856582)<br><br>2017-12-20 00:02<br>赞(3) 踩(0) | <div>泪流满面。十多年过去了，这部电视剧依然打动我，感伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264856783)<br><br>2017-11-17 09:54<br>赞(3) 踩(0) | <div>曲调悠长，宁静致远，大概只有做了母亲，才读懂自己的母亲。沉浸在乐曲中让人回味往事，身后希望用这首曲终了</div> |
@@ -49,9 +46,9 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30575944)<br><br>2016-10-01 21:23<br>赞(0) 踩(0) | <div>竹笛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127770)<br><br>2013-05-01 15:15<br>赞(0) 踩(0) | <div>母亲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11385335)<br><br>2012-11-09 09:59<br>赞(0) 踩(0) | <div>展开回忆</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/852998)<br>西尔德斯神话<br>2012-05-31 09:27<br>赞(1) 踩(0) | <div>另一版《天地》没有鼓声，更加婉哀</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4029255)<br><br>2011-12-19 20:51<br>赞(0) 踩(0) | <div>和《天地》里面的 大地的箫声 很像不过很可能也是林海写的，但为啥名字不一样呢？<a href="http://www.xiami.com/song/2135112" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2135112</a></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2148816)<br><br>2012-02-03 18:46<br>赞(0) 踩(0) | <div>天地里面的大地的箫声的确是林海写的。林海在《天地》里面共写了三首曲子，庄子鼓盆，大地的箫声和相忘于江湖，具体可参阅我的精选集《林海作品集外拾遗》。<a href="http://www.xiami.com/song/showcollect/id/9466129" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/showcollect/id/9466129</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/852998)<br>西尔德斯神话<br>2012-05-31 09:27<br>赞(1) 踩(0) | <div>另一版《天地》<br>没有鼓声，更加婉哀</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4029255)<br><br>2011-12-19 20:51<br>赞(0) 踩(0) | <div>和《天地》里面的 大地的箫声 很像<br>不过很可能也是林海写的，但为啥名字不一样呢？<br><a href="http://www.xiami.com/song/2135112" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2135112</a></div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2148816)<br><br>2012-02-03 18:46<br>赞(0) 踩(0) | <div>天地里面的大地的箫声的确是林海写的。林海在《天地》里面共写了三首曲子，庄子鼓盆，大地的箫声和相忘于江湖，具体可参阅我的精选集《林海作品集外拾遗》。<br><a href="http://www.xiami.com/song/showcollect/id/9466129" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/showcollect/id/9466129</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6629718)<br>凉生过云<br>2011-11-07 17:58<br>赞(2) 踩(0) | <div>比传说更古老的味道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6629718)<br>凉生过云<br>2011-11-05 16:36<br>赞(2) 踩(0) | <div>悠远 亘古 绵长 哀怨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4814679)<br><br>2011-10-21 15:18<br>赞(13) 踩(0) | <div>母后讲当年与父皇的初遇</div> |

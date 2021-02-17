@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15818075)<br>O_o<br>2013-10-18 19:01<br>赞(0) 踩(0) | <div>心态</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3684663)<br>我还没想好要写什么...<br>2012-07-09 19:39<br>赞(0) 踩(0) | <div>→_→鬼故事乜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3829747)<br>希望能一直进步<br>2011-05-07 14:09<br>赞(0) 踩(0) | <div>恬静，人生的态度</div> |

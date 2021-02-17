@@ -3,23 +3,18 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/942308e1389c8b66666ba295830b76bc.jpeg)<br>李昊](https://i.xiami.com/likongkong) | **播放数**: 391257<br>**粉丝数**: 41<br>**评论数**: 17<br>**地区**: China 中国大陆<br>**风格**: 自由即兴 Free Improvisation<br> |
+| [![](../../images/musicians/942308e1389c8b66666ba295830b76bc.jpeg)<br>李昊](https://i.xiami.com/likongkong) | **地区**: China 中国大陆<br>**风格**: 自由即兴 Free Improvisation<br>**播放数**: 391257<br>**粉丝数**: 41<br>**评论数**: 17<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
-| 名称 | 语种 | 唱片公司 | 发行时间 | 专辑类别 | 专辑风格 |
-| :--: | :-- | :-- | :-- | :-- | :-- |
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5195925)<br><br>2020-07-03 01:52<br>赞(0) 踩(0) | <div>哈哈哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340527026)<br>朋友<br>2020-04-12 23:17<br>赞(3) 踩(0) | <div>想不到居然是这样了解到了一位音乐人[吃瓜]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340527026)<br>朋友<br>2020-04-12 23:15<br>赞(0) 踩(0) | <div>本地歌曲联网虾米会匹配同名曲子，只是有个名字而已，作者的还是作者的，你的还是你的</div> |

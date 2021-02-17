@@ -49,8 +49,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262663540)<br><br>2020-04-11 09:09<br>赞(1) 踩(0) | <div>各种版本都喜欢，因为支持高林生先生的创作。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375761013)<br>聆听经典，品味生活！<br>2021-01-16 19:43<br>赞(0) 踩(0) | <div>是的，无论是加油版还是加盐版，我们都喜欢！因为我们都喜欢帅哥高林生！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375761013)<br>聆听经典，品味生活！<br>2020-03-15 14:29<br>赞(0) 踩(0) | <div>为高林生点赞 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |

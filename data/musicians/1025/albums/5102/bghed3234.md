@@ -38,8 +38,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79296100)<br>我爱虾米.<br>2020-10-24 00:16<br>赞(0) 踩(0) | <div>害～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40397377)<br> <br>2020-05-06 11:16<br>赞(0) 踩(0) | <div>我的心太乱，这个充满诱惑的社会，浮躁心难安，困惑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414052522)<br><br>2020-05-04 19:51<br>赞(0) 踩(0) | <div>我老了，岁月是把杀猪刀 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -63,7 +63,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261473563)<br>From 新加坡<br>2018-02-09 23:30<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50262294)<br>我还没想好要写什么...<br>2017-09-07 22:51<br>赞(1) 踩(0) | <div>听的落泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306233723)<br><br>2017-06-23 11:45<br>赞(1) 踩(0) | <div>成都七月十五号 小熊二十周年纪念版 等你来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6735260)<br>相遇的时候，让我们相互温...<br>2017-01-07 08:31<br>赞(32) 踩(0) | <div>这首歌的背景是熊天平的表弟骑摩托车出了车祸，表弟是他的知音与忠实的支持者，在孤寂而又不被人理解的那段时间表弟是他的精神支持者，小熊为表弟的离世非常伤心。《火柴天堂》在表弟车祸前还没有写完，后来小熊写完后就以此纪念他的表弟，寄托哀思。希望他在天堂不会孤单。当然小熊也表达了做歌手前的一些情绪，追求目标的艰难，在途中流浪对前途迷茫的心路感受。他曾写过很多非常非常消极的歌但没有发表。同时也是寓意现代社会那些怀抱梦想的年轻人，在奔向自己梦想的路程上遇到了这样那样的重重困难、彷徨、伤心，但是只要坚强起来勇敢面对困难继续追逐自己的梦想，总有一天会得到！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6735260)<br>相遇的时候，让我们相互温...<br>2017-01-07 08:31<br>赞(32) 踩(0) | <div>这首歌的背景是熊天平的表弟骑摩托车出了车祸，表弟是他的知音与忠实的支持者，在孤寂而又不被人理解的那段时间表弟是他的精神支持者，小熊为表弟的离世非常伤心。<br>《火柴天堂》在表弟车祸前还没有写完，后来小熊写完后就以此纪念他的表弟，寄托哀思。希望他在天堂不会孤单。当然小熊也表达了做歌手前的一些情绪，追求目标的艰难，在途中流浪对前途迷茫的心路感受。他曾写过很多非常非常消极的歌但没有发表。<br>同时也是寓意现代社会那些怀抱梦想的年轻人，在奔向自己梦想的路程上遇到了这样那样的重重困难、彷徨、伤心，但是只要坚强起来勇敢面对困难继续追逐自己的梦想，总有一天会得到！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10612074)<br>喜欢音乐呀！<br>2019-06-13 00:01<br>赞(0) 踩(0) | <div>你是编剧，小朋友很牛逼哦</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418070196)<br><br>2019-06-14 10:25<br>赞(0) 踩(0) | <div>（E跟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235154515)<br>安安静静的小女子一枚<br>2016-12-19 21:00<br>赞(2) 踩(0) | <div>想到了卖火柴的小女孩</div> |
@@ -79,6 +79,6 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6616995)<br><br>2011-11-04 20:49<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3544740)<br><br>2011-08-07 20:59<br>赞(1) 踩(0) | <div>突然好感动 ...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1887843)<br><br>2011-05-18 14:11<br>赞(1) 踩(0) | <div>温暖</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1369426)<br>我在这里。听最爱的音乐。<br>2010-12-10 20:33<br>赞(1) 踩(0) | <div>声音，很有感。喜欢那句，睡在温暖花开的天堂。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1369426)<br>我在这里。听最爱的音乐。<br>2010-12-10 20:33<br>赞(1) 踩(0) | <div>声音，很有感。<br>喜欢那句，睡在温暖花开的天堂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13646)<br><br>2010-11-21 13:55<br>赞(2) 踩(0) | <div>天平兄的绝对经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135120)<br><br>2009-05-12 18:20<br>赞(2) 踩(0) | <div>妈妈牵着你的手回家</div> |

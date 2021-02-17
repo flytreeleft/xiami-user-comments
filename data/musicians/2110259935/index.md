@@ -3,7 +3,7 @@ Eric申容泽
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3cd3809ab5a503904a8cc61290a893b6.jpeg)<br>Eric申容泽](https://i.xiami.com/ericsrz) | **播放数**: 1701699<br>**粉丝数**: 34<br>**评论数**: 2<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/3cd3809ab5a503904a8cc61290a893b6.jpeg)<br>Eric申容泽](https://i.xiami.com/ericsrz) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 1701699<br>**粉丝数**: 34<br>**评论数**: 2<br> |
 
 ## 档案
 
@@ -24,7 +24,7 @@ Eric申容泽
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374773675)<br><br>2019-11-29 11:28<br>赞(0) 踩(0) | <div>一开口就吸引住了～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13203132)<br>会玩点音乐的演员<br>2017-11-04 10:18<br>赞(1) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

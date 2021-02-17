@@ -44,7 +44,7 @@ http://t..cn/gaolinsheng
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225567615)<br><br>2019-07-20 00:00<br>赞(0) 踩(0) | <div>为了这首歌，买了磁带</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15232157)<br>。。。<br>2013-05-13 00:19<br>赞(1) 踩(0) | <div>不要笑我呀，啦啦啦啦啦呀，也许我就是就是这个模样。。。</div> |

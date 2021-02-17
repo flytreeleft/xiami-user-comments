@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2408825f38d5513551379498d5676b93.jpg)<br>永无巷1303号](https://i.xiami.com/minsta) | **播放数**: 4778552<br>**粉丝数**: 1677<br>**评论数**: 65<br>**地区**: China 中国大陆<br>**风格**: 硬核说唱 Hardcore Hip Hop, 爵士说唱 Jazz Rap, 嘻哈 Hip-Hop<br> |
+| [![](../../images/musicians/2408825f38d5513551379498d5676b93.jpg)<br>永无巷1303号](https://i.xiami.com/minsta) | **地区**: China 中国大陆<br>**风格**: 硬核说唱 Hardcore Hip Hop, 爵士说唱 Jazz Rap, 嘻哈 Hip-Hop<br>**播放数**: 4778552<br>**粉丝数**: 1677<br>**评论数**: 65<br> |
 
 ## 档案
 
@@ -57,8 +57,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-28 11:44<br>赞(0) 踩(0) | <div>44543</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12076161)<br>兼容古典和嘻哈<br>2020-04-29 11:04<br>赞(0) 踩(0) | <div>宝藏厂牌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301609082)<br>goodbye 虾米<br>2019-05-05 21:46<br>赞(0) 踩(0) | <div>大老爹也在里面</div> |

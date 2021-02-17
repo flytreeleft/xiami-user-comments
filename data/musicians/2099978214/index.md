@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7a0397408ff87de7089a7e9597c83c6a.jpg)<br>曲肖冰](https://i.xiami.com/quxiaobing) | **播放数**: 13701153<br>**粉丝数**: 3634<br>**评论数**: 166<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 节奏布鲁斯 R&B, 爵士流行 Jazz Pop, 新民谣 Neofolk, 流行摇滚 Pop Rock<br> |
+| [![](../../images/musicians/7a0397408ff87de7089a7e9597c83c6a.jpg)<br>曲肖冰](https://i.xiami.com/quxiaobing) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 节奏布鲁斯 R&B, 爵士流行 Jazz Pop, 新民谣 Neofolk, 流行摇滚 Pop Rock<br>**播放数**: 13701153<br>**粉丝数**: 3634<br>**评论数**: 166<br> |
 
 ## 档案
 
@@ -55,8 +55,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321427873)<br> <br>2020-05-07 17:08<br>赞(0) 踩(0) | <div>没有《静悄悄》</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48440623)<br><br>2020-04-13 18:35<br>赞(0) 踩(0) | <div>太阳呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440984847)<br><br>2020-03-02 20:44<br>赞(0) 踩(0) | <div>来啦来啦！ <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |

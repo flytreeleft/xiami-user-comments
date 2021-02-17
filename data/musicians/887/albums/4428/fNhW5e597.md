@@ -29,8 +29,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44153551)<br>没有行动的信仰是死的信仰...<br>2020-11-07 00:30<br>赞(0) 踩(0) | <div>很多人在汪峰的部分作品下面去贬低汪峰，我想说的是在汪峰面前华人音乐圈任何一位音乐人都必须谦卑，无论歌词，编曲，艺术性，思想性，格局还是叙事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17000)<br><br>2018-08-18 17:32<br>赞(0) 踩(0) | <div>微信就用了这首歌做昵称</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210965502)<br>因为我病就是没有感觉<br>2018-12-24 23:14<br>赞(0) 踩(0) | <div>我用的高级动物</div> |
@@ -44,7 +44,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50136498)<br><br>2018-03-03 23:20<br>赞(0) 踩(0) | <div>毕竟人不可能愤怒或悲伤一辈子。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4457035)<br><br>2017-10-27 23:05<br>赞(0) 踩(0) | <div>深夜！又与他相视。多年前，听着那些焦躁的歌儿，准备奔向远方！就在这样的深夜，一遍又一遍的重复。给自己以自由的力量！哪感觉让我久久难以释怀！每个人都有迷失的时候！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2017-01-02 02:06<br>赞(0) 踩(0) | <div>82</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33126571)<br>姑娘你想跳支怎样得舞<br>2016-11-21 13:10<br>赞(0) 踩(0) | <div>我喜欢把所有未知世界 都指代为她她自有她的颜色但也许她能把我装下</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33126571)<br>姑娘你想跳支怎样得舞<br>2016-11-21 13:10<br>赞(0) 踩(0) | <div>我喜欢把所有未知世界 都指代为她<br>她自有她的颜色<br>但也许她能把我装下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12036767)<br><br>2016-04-12 23:36<br>赞(2) 踩(0) | <div>深夜加完班，一个人走在回家的路上，冷不丁的感受到了半壁江山的牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36897148)<br>再见<br>2016-01-14 23:56<br>赞(0) 踩(0) | <div>Blues</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9682662)<br> <br>2015-09-24 18:50<br>赞(0) 踩(0) | <div>呵呵，别看了，别看了，天梯也是借鉴spirit的taurus，借鉴没错，但是太明显就不能忍受了啊，我只能说给跪了！</div> |
@@ -76,15 +76,15 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20071217)<br>.<br>2014-08-03 10:59<br>赞(1) 踩(0) | <div>天堂阶梯中文填词版么</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2020-05-29 15:28<br>赞(0) 踩(0) | <div>不是</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19014734)<br>我要有氛围有画面的音乐<br>2014-07-09 01:00<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34340338)<br>暂无签名~<br>2014-06-20 19:39<br>赞(0) 踩(0) | <div>汪峰&amp;lt;迷鹿&amp;gt;：我不知道自己是什么也许我是天空奔跑的迷鹿我不知道雪是什么形状也许她有千万钟摸样我不知道鸟儿为何飞翔 也许它为了寻找故乡我不知道世界有多大 也许她可以把我装下</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34340338)<br>暂无签名~<br>2014-06-20 19:39<br>赞(0) 踩(0) | <div>汪峰&amp;lt;迷鹿&amp;gt;：<br>我不知道自己是什么<br>也许我是天空奔跑的迷鹿<br>我不知道雪是什么形状也许她有千万钟摸样<br>我不知道鸟儿为何飞翔 也许它为了寻找故乡<br>我不知道世界有多大 也许她可以把我装下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8840693)<br><br>2014-06-16 13:41<br>赞(0) 踩(0) | <div>这个名字用了至少10年了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23404027)<br><br>2014-02-27 16:22<br>赞(0) 踩(0) | <div>我不知道梦是什么颜色 也许它自有它的颜色</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6802142)<br><br>2013-11-06 14:00<br>赞(0) 踩(0) | <div>50L我不知道世界有多大，也许它可以把我装下，我不知道自己是什么，也许我是天空奔跑的迷鹿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6802142)<br><br>2013-11-06 14:00<br>赞(0) 踩(0) | <div>50L<br>我不知道世界有多大，也许它可以把我装下，我不知道自己是什么，也许我是天空奔跑的迷鹿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3538348)<br>我还没想好要写什么...<br>2013-09-23 14:24<br>赞(0) 踩(0) | <div>好听不解释</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21162847)<br><br>2013-09-04 23:50<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/892472)<br>curiouscha <br>2013-07-26 23:15<br>赞(0) 踩(0) | <div>天空奔跑的迷鹿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8606829)<br><br>2013-05-24 16:34<br>赞(0) 踩(0) | <div>我不知道自己是什么我不知道自己是什么我不知道自己是什么也许我是天空奔跑的迷鹿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:15<br>赞(0) 踩(0) | <div>我不知道世界有多大也许她可以把我装下</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:15<br>赞(0) 踩(0) | <div>我不知道世界有多大<br>也许她可以把我装下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-02-13 07:16<br>赞(0) 踩(0) | <div>也许我是天空奔跑的迷鹿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7524265)<br><br>2013-01-13 22:47<br>赞(0) 踩(0) | <div>我不知道梦是什么颜色、风要吹向哪里、世界有多大，不知道自己是什么。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7524265)<br><br>2013-01-13 22:41<br>赞(0) 踩(0) | <div>我不知道梦是什么颜色、风要吹向哪里,不知道孤独是什么，不知道自己是什么 。</div> |
@@ -96,12 +96,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9690028)<br>我还没想好要写什么...<br>2012-09-11 13:57<br>赞(0) 踩(0) | <div>我是一只迷鹿。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10166782)<br><br>2012-09-01 23:47<br>赞(0) 踩(0) | <div>9年只是转瞬间！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9599648)<br><br>2012-06-26 21:11<br>赞(0) 踩(0) | <div>心有点堵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5042935)<br><br>2012-06-14 19:59<br>赞(0) 踩(0) | <div>我不知道梦是什么颜色 也许它自有它的颜色我不知道风要吹向哪里 也许它自有它的方向我不知道孤独是什么 也许它就象小草一样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5042935)<br><br>2012-06-14 19:59<br>赞(0) 踩(0) | <div>我不知道梦是什么颜色 也许它自有它的颜色<br>我不知道风要吹向哪里 也许它自有它的方向<br>我不知道孤独是什么 也许它就象小草一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5744395)<br>这家伙是个坏蛋<br>2012-06-13 19:06<br>赞(0) 踩(0) | <div>怀念鲍家街十三号的风格</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1662)<br><br>2012-05-15 23:25<br>赞(0) 踩(0) | <div>我不知道梦是什么颜色 也许它自有它的颜色 / 我不知道风要吹向哪里 也许它自有它的方向 / 我不知道鸟儿为何飞翔 也许它为了寻找故乡 / 我不知道世界有多大 也许她可以把我装下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7038010)<br><br>2012-03-30 22:52<br>赞(0) 踩(0) | <div>night</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3254149)<br>爱音乐，爱虾米！<br>2012-03-25 13:25<br>赞(0) 踩(0) | <div>我不知道梦是什么颜色</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8295883)<br><br>2012-03-04 22:49<br>赞(0) 踩(0) | <div>我不知道梦是什么颜色，也许她自有她的颜色。我不知道风要吹向哪里，也许它自有她的方向。我不知道孤独是什么，也许它就像小草一样。我不知道现实什么形状，也许它有千万种模样。我不知道鸟儿为何飞翔，也许它为了寻找故乡。我不知道世界有多大，也许她可以把我装下。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8295883)<br><br>2012-03-04 22:49<br>赞(0) 踩(0) | <div>我不知道梦是什么颜色，也许她自有她的颜色。<br>我不知道风要吹向哪里，也许它自有她的方向。<br>我不知道孤独是什么，也许它就像小草一样。<br>我不知道现实什么形状，也许它有千万种模样。<br>我不知道鸟儿为何飞翔，也许它为了寻找故乡。<br>我不知道世界有多大，也许她可以把我装下。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2012-01-01 10:13<br>赞(0) 踩(0) | <div>当年借零点乐队的名义的盗版歌，现在终于知道正确的歌名了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/496836)<br><br>2011-12-14 22:21<br>赞(0) 踩(0) | <div>想起当年抱着个姑娘竟然听这歌听了一夜，经典的不能言语。很怀念当年鲍家街的风格。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/752170)<br><br>2011-11-19 10:40<br>赞(0) 踩(0) | <div>这首迷鹿比飞得更高有张力多了！！</div> |

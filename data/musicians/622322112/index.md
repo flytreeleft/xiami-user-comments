@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7596f53bb70f159a81498131c8ea710e.jpg)<br>语乐队](https://i.xiami.com/yuband) | **播放数**: 3148416<br>**粉丝数**: 577<br>**评论数**: 53<br>**地区**: China 中国大陆<br>**风格**: 城市民谣 Urban Folk<br> |
+| [![](../../images/musicians/7596f53bb70f159a81498131c8ea710e.jpg)<br>语乐队](https://i.xiami.com/yuband) | **地区**: China 中国大陆<br>**风格**: 城市民谣 Urban Folk<br>**播放数**: 3148416<br>**粉丝数**: 577<br>**评论数**: 53<br> |
 
 ## 档案
 
@@ -37,8 +37,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-09-30 18:21<br>赞(0) 踩(0) | <div>华语民谣摇滚，在路上。20200930.50</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427384237)<br>我还没想好要写什么...<br>2020-04-20 00:49<br>赞(0) 踩(0) | <div>➕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285713741)<br><br>2019-06-17 20:47<br>赞(0) 踩(0) | <div>今天来我们学校了</div> |

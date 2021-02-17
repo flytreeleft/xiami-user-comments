@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2027afeddb6b54fe5d3f136d90ffa0e5.jpg)<br>李晨阳](https://i.xiami.com/chenyang) | **播放数**: 3025997<br>**粉丝数**: 424<br>**评论数**: 33<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/2027afeddb6b54fe5d3f136d90ffa0e5.jpg)<br>李晨阳](https://i.xiami.com/chenyang) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 国语流行 Mandarin Pop<br>**播放数**: 3025997<br>**粉丝数**: 424<br>**评论数**: 33<br> |
 
 ## 档案
 
@@ -32,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379881600)<br><br>2020-10-13 10:37<br>赞(0) 踩(0) | <div>喜欢喜欢超喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312126870)<br><br>2020-03-15 00:31<br>赞(0) 踩(0) | <div>武汉寂静的深夜，被你的《等风》扣动心弦&amp;hellip;&amp;hellip;等风！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255179410)<br>四十六次日落<br>2019-03-03 12:46<br>赞(0) 踩(0) | <div>加油！</div> |

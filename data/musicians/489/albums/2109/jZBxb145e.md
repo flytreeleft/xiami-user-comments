@@ -64,8 +64,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9827143)<br> <br>2018-08-11 15:46<br>赞(0) 踩(0) | <div>说的是花样年华吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347586525)<br><br>2018-05-28 18:53<br>赞(2) 踩(0) | <div>刘嘉玲听了想打人</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331649036)<br><br>2018-08-22 14:22<br>赞(0) 踩(0) | <div>蛤蛤蛤蛤蛤蛤</div> |
@@ -81,7 +81,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/758859)<br><br>2015-08-08 19:24<br>赞(1) 踩(0) | <div>乌云向西，我往东，风雨满城，会心一笑。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19506616)<br><br>2015-07-31 19:39<br>赞(4) 踩(0) | <div>千万别信写歌词的！为了押韵他们什么事都干得出来！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35913051)<br>江暗雨欲来<br>2015-07-07 23:58<br>赞(0) 踩(0) | <div>喜欢一个人 可能就是有你爱的声音和吉他</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22581396)<br><br>2015-06-16 12:57<br>赞(0) 踩(0) | <div>有你的消息我赶快飞过去守在你身旁我小心翼翼那么那么地，喜欢你那么那么地，讨厌你那么那么地，需要你那么那么地，那么地</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22581396)<br><br>2015-06-16 12:57<br>赞(0) 踩(0) | <div>有你的消息<br>我赶快飞过去<br>守在你身旁<br>我小心翼翼<br>那么那么地，喜欢你<br>那么那么地，讨厌你<br>那么那么地，需要你<br>那么那么地，那么地</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1306103)<br><br>2015-06-07 23:56<br>赞(0) 踩(0) | <div>你晚 上喝它妈多少酒?比我还过份~~治谁??</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42821244)<br>我要稳稳的幸福<br>2015-06-06 08:15<br>赞(2) 踩(0) | <div>那么那么地爱你，就像梁朝伟爱张曼玉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42821244)<br>我要稳稳的幸福<br>2015-06-06 08:12<br>赞(0) 踩(0) | <div>那么那么地爱你，就像梁朝伟爱张曼玉。</div> |
@@ -131,12 +131,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3711591)<br><br>2013-04-03 08:53<br>赞(0) 踩(0) | <div>老狼的这张专辑我爱过一阵子。温柔贴心的，接地气的欢喜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3481500)<br>一个新的星星<br>2013-03-04 23:57<br>赞(0) 踩(0) | <div>像我爱  鸽子一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3877897)<br>我还没想好要写什么...<br>2013-02-20 22:18<br>赞(0) 踩(0) | <div>有你的消息  我赶快飞过去  守在你身旁  我小心翼翼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5962706)<br> <br>2013-02-07 15:21<br>赞(0) 踩(0) | <div>每当想起你感觉到很焦虑有你的味道躲得远远地....完全表达暗恋的感觉!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5962706)<br> <br>2013-02-07 15:21<br>赞(0) 踩(0) | <div>每当想起你<br>感觉到很焦虑<br>有你的味道<br>躲得远远地....<br>完全表达暗恋的感觉!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151979)<br> <br>2012-12-23 09:27<br>赞(1) 踩(0) | <div>就像梁朝伟爱张曼玉，可是他们最后还是没有在一起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1937564)<br> <br>2012-12-17 00:35<br>赞(0) 踩(0) | <div>那么那么那么那么的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10713887)<br>我还没想好要写什么...<br>2012-12-15 17:46<br>赞(0) 踩(0) | <div>那么那么地，那么地爱你~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5103289)<br><br>2012-12-05 00:23<br>赞(0) 踩(0) | <div>最近听这首歌心情就好:D</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11661217)<br><br>2012-12-01 10:42<br>赞(0) 踩(0) | <div>那么那么地 那么地爱你就像梁朝伟 爱张曼玉那么那么地 那么讨厌你就像那蟑螂 与杀虫剂那么那么地 那么需要你就像那蚂蚱亲吻玉米歌词很有趣，不过我想说的是，梁朝伟好像也没那么爱张曼玉。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11661217)<br><br>2012-12-01 10:42<br>赞(0) 踩(0) | <div>那么那么地 那么地爱你<br>就像梁朝伟 爱张曼玉<br>那么那么地 那么讨厌你<br>就像那蟑螂 与杀虫剂<br>那么那么地 那么需要你<br>就像那蚂蚱亲吻玉米<br>歌词很有趣，不过我想说的是，梁朝伟好像也没那么爱张曼玉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/853)<br><br>2012-11-20 22:06<br>赞(0) 踩(0) | <div>最近听到狼哥的频率好高！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6788108)<br><br>2012-11-15 15:22<br>赞(0) 踩(0) | <div>#泡妞妞专用歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7948432)<br><br>2012-11-10 22:50<br>赞(0) 踩(0) | <div>那么那么的。哈。喜欢到不行的歌。</div> |
@@ -149,7 +149,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3458412)<br><br>2012-07-01 18:46<br>赞(0) 踩(0) | <div>趁打着雷和雨声快打开。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1642920)<br><br>2012-06-20 16:50<br>赞(0) 踩(0) | <div>很舒服得听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6940490)<br><br>2012-05-05 22:49<br>赞(0) 踩(0) | <div>@LJ双下巴抬头纹儿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5035126)<br>拜拜了，我的十年青春<br>2012-04-01 22:52<br>赞(0) 踩(0) | <div>很有意思的一首歌~那句“就像梁朝伟爱张曼玉”萌到我了~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5035126)<br>拜拜了，我的十年青春<br>2012-04-01 22:52<br>赞(0) 踩(0) | <div>很有意思的一首歌~<br>那句“就像梁朝伟爱张曼玉”萌到我了~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8015530)<br><br>2012-03-08 12:41<br>赞(0) 踩(0) | <div>愿现世安稳，岁月静好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4796708)<br>My sorrow is...<br>2012-03-07 00:06<br>赞(0) 踩(0) | <div>那么那么地，爱你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7746079)<br><br>2012-02-04 12:04<br>赞(0) 踩(0) | <div>很好听的歌，那么那么地</div> |
@@ -160,12 +160,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1940223)<br>我还没想好要写什么...<br>2011-10-23 22:47<br>赞(1) 踩(0) | <div>那么那么地.那么地爱你.就像梁朝伟爱张曼玉.......喜欢这首歌，不过更爱听祥子哥哥现场自弹自唱的版本，超赞~~！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2335044)<br><br>2011-09-20 21:27<br>赞(0) 踩(0) | <div>那么那么地  爱着你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279436)<br><br>2011-07-23 00:24<br>赞(0) 踩(0) | <div>这张发行于2008年初的专辑让我一直难忘，专辑封面，以及其中的旋律和风格，与北京这座城市无比的契合，让人不能自己。@妮子Nina 还记得你曾经说过这张专辑适合迎风而听？转眼就是三年。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1117345)<br><br>2011-05-09 17:25<br>赞(0) 踩(0) | <div>那么那么地那么地爱你那么那么地那么讨厌你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1117345)<br><br>2011-05-09 17:25<br>赞(0) 踩(0) | <div>那么那么地<br>那么地爱你<br>那么那么地<br>那么讨厌你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2954954)<br><br>2011-04-24 18:21<br>赞(0) 踩(0) | <div>轻松愉快的道出恋爱的感觉。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209068)<br><br>2011-02-28 12:17<br>赞(0) 踩(0) | <div>那么那么地那么地爱你就像梁朝伟爱张曼玉  （这歌词 让刘嘉玲情何以堪啊。。。）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209068)<br><br>2011-02-28 12:17<br>赞(0) 踩(0) | <div>那么那么地<br>那么地爱你<br>就像梁朝伟<br>爱张曼玉  （这歌词 让刘嘉玲情何以堪啊。。。）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1532008)<br>Dongfuckburg...<br>2010-12-04 14:24<br>赞(0) 踩(0) | <div>每次见到你 心里还欢喜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1466496)<br><br>2010-09-08 17:44<br>赞(0) 踩(0) | <div>午后 躺在阁楼的地板上 让阳光轻照 闭眼倾听 天上白云飘过……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231480)<br><br>2010-08-24 16:58<br>赞(0) 踩(0) | <div>专辑:北京的冬天老狼-那么那么地那么那么地那么地爱你就像梁朝伟爱张曼玉每次见到你心里好欢喜一切早注定就像电影里那么那么地，那么讨厌你就像那蟑螂与杀虫剂每当想起你感觉到很焦虑有你的味道躲得远远地两个人的世界有时很无趣需要一些兴奋剂两个人的世界有时很精彩虽然只有我和你那么那么地那么需要你就像那蚂蚱亲吻玉米有你的消息我赶快飞过去守在你身旁我小心翼翼那么那么地，喜欢你那么那么地，讨厌你那么那么地，需要你那么那么地，那么地</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231480)<br><br>2010-08-24 16:58<br>赞(0) 踩(0) | <div>专辑:北京的冬天<br>老狼-那么那么地<br><br>那么那么地<br>那么地爱你<br>就像梁朝伟<br>爱张曼玉<br>每次见到你<br>心里好欢喜<br>一切早注定<br>就像电影里<br><br>那么那么地，<br>那么讨厌你<br>就像那蟑螂<br>与杀虫剂<br>每当想起你<br>感觉到很焦虑<br>有你的味道<br>躲得远远地<br><br>两个人的世界<br>有时很无趣<br>需要一些兴奋剂<br><br>两个人的世界<br>有时很精彩<br>虽然只有我和你<br><br>那么那么地<br>那么需要你<br>就像那蚂蚱亲吻玉米<br><br>有你的消息<br>我赶快飞过去<br>守在你身旁<br>我小心翼翼<br><br>那么那么地，喜欢你<br>那么那么地，讨厌你<br>那么那么地，需要你<br>那么那么地，那么地</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/498248)<br><br>2010-08-20 12:49<br>赞(0) 踩(0) | <div>林子介绍的第一首歌。老狼一出道的时候就喜欢他的歌了，越来越有感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/818847)<br><br>2010-04-20 14:05<br>赞(0) 踩(0) | <div>带着轻快的旋律~哼着歌~摇摆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317593)<br>这个人其实真的很懒...<br>2010-04-19 23:34<br>赞(0) 踩(0) | <div>我也那么那么地~</div> |

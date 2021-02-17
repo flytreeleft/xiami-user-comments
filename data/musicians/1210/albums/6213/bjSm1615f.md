@@ -95,8 +95,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-10-09 23:59<br>赞(0) 踩(0) | <div>好OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10913222)<br>Keep calm.<br>2020-09-28 17:30<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136199368)<br>我还没想好要写什么...<br>2020-09-02 00:45<br>赞(0) 踩(0) | <div>我曾经的手机铃声</div> |
@@ -104,7 +104,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45202420)<br>永远年轻，永远热泪盈眶！...<br>2020-08-02 09:53<br>赞(1) 踩(0) | <div>寂寞很ok一个人ok习惯就ok，好酷的歌词和旋律啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7926830)<br>  淘氣<br>2020-07-29 01:20<br>赞(0) 踩(0) | <div>yep</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11069666)<br>只剩下自己 和 自己做朋...<br>2020-07-23 22:39<br>赞(0) 踩(0) | <div>离婚三年后，真心，明白这歌词了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-06-29 09:25<br>赞(1) 踩(0) | <div>这首歌那么少评论我真能笑死<img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-06-29 09:25<br>赞(1) 踩(0) | <div>这首歌那么少评论<br>我真能笑死<br><img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331806000)<br>我这是旅游鞋死跟儿滴<br>2020-05-26 08:25<br>赞(0) 踩(0) | <div>这首歌很OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1211009)<br>H<br>2020-04-14 18:33<br>赞(0) 踩(0) | <div>这个歌词也改了，变成&amp;ldquo;一段情&amp;rdquo;了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402788087)<br>诸法空相唯心造<br>2020-04-10 22:18<br>赞(0) 踩(0) | <div>你说我是你的劫 你觉得我伤害了你 但从来没告诉你的是 你在我心中的位置</div> |
@@ -122,7 +122,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313268407)<br>我还没想好要写什么...<br>2019-05-17 11:34<br>赞(0) 踩(0) | <div>诺基亚X3自带音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65242182)<br>矛盾的辩证统一<br>2019-05-10 02:24<br>赞(0) 踩(0) | <div>喜欢就ok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309092497)<br>如云漂泊，深自缄默。<br>2019-05-06 09:33<br>赞(0) 踩(0) | <div>中文说唱才是最……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301798132)<br><br>2019-04-15 11:27<br>赞(1) 踩(0) | <div>我可不想装的很可悲，好让人家来给我安慰寂寞很OK，一个人OK，习惯就OK这首歌真是每一句都击中了曾经试图去了解爱情是什么却最终只收获寂寞的每一个</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301798132)<br><br>2019-04-15 11:27<br>赞(1) 踩(0) | <div>我可不想装的很可悲，好让人家来给我安慰<br><br>寂寞很OK，一个人OK，习惯就OK<br><br>这首歌真是每一句都击中了曾经试图去了解爱情是什么却最终只收获寂寞的每一个</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208901821)<br>难以置信，我还活着。<br>2019-03-25 20:51<br>赞(0) 踩(0) | <div>不ok的时光，我也很ok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27173858)<br><br>2019-03-15 06:30<br>赞(0) 踩(0) | <div>(Ｔ▽Ｔ)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296770404)<br>我会随时回来，但我永远离...<br>2019-03-10 19:03<br>赞(0) 踩(0) | <div>太好听了吧 听完很嗨 方向更明确</div> |
@@ -147,7 +147,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299164301)<br>Welcome to t...<br>2018-07-27 23:52<br>赞(0) 踩(0) | <div>o文明k</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9197833)<br>秘密<br>2018-07-16 18:19<br>赞(3) 踩(0) | <div>想听现场版 张震岳最奶思的一首！ <img src="../../../../images/comments/29cf103b88c33e19563095897485c32a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34313941)<br>面朝大海，春暖花开。<br>2018-07-10 21:25<br>赞(1) 踩(0) | <div>KO！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359177668)<br><br>2018-07-09 15:10<br>赞(1) 踩(0) | <div>我的淼淼呀你为什么不相信我相信我喜欢你呀什么样子都OK我没有告诉你因为我知道你不相信</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359177668)<br><br>2018-07-09 15:10<br>赞(1) 踩(0) | <div>我的淼淼呀<br>你为什么不相信我<br>相信我喜欢你呀<br>什么样子都OK<br>我没有告诉你<br>因为我知道你不相信</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151374390)<br>Do all that ...<br>2018-07-05 17:23<br>赞(3) 踩(0) | <div>一段情而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41785433)<br>沉默寡言又思绪万千<br>2018-06-27 20:30<br>赞(1) 踩(0) | <div>刚刚听了现场，很棒!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341050794)<br><br>2018-05-17 23:16<br>赞(0) 踩(0) | <div>突然喜欢你</div> |
@@ -175,7 +175,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299164301)<br>Welcome to t...<br>2018-07-27 23:51<br>赞(0) 踩(0) | <div>16哈哈哈</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24322865)<br>我还没想好要写什么...<br>2019-05-29 13:10<br>赞(0) 踩(0) | <div>16</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24322865)<br>我还没想好要写什么...<br>2019-05-29 13:10<br>赞(0) 踩(0) | <div>4岁时第一次听这首歌 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12541830)<br>我还没想好要写什么...<br>2018-01-30 14:35<br>赞(4) 踩(0) | <div>我可不想装的很可悲好让人家来给我安慰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12541830)<br>我还没想好要写什么...<br>2018-01-30 14:35<br>赞(4) 踩(0) | <div>我可不想装的很可悲<br>好让人家来给我安慰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228913410)<br>我还没想好要写什么...<br>2018-01-24 10:39<br>赞(1) 踩(0) | <div>imok习惯就ok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338856173)<br>这个家伙很懒什么都没留下<br>2018-01-08 07:27<br>赞(0) 踩(0) | <div>当然还是有一些小小的痛不在身边，寂寞很ok，一个人ok，习惯就ok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125167990)<br><br>2018-01-02 09:30<br>赞(0) 踩(0) | <div>nokia 5530自带音乐之一</div> |
@@ -199,7 +199,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298608464)<br><br>2017-10-14 14:54<br>赞(1) 踩(0) | <div>唱的那段是点睛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276614358)<br><br>2017-10-11 13:38<br>赞(0) 踩(0) | <div>扎心了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257934189)<br><br>2017-10-05 20:05<br>赞(2) 踩(0) | <div>虾米的播放界面真的可以重新设计下 太不方便了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204014071)<br>也许我根本喜欢被你浪费<br>2017-10-01 22:30<br>赞(0) 踩(0) | <div>至理名言听一首少一首</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204014071)<br>也许我根本喜欢被你浪费<br>2017-10-01 22:30<br>赞(0) 踩(0) | <div>至理名言<br>听一首少一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30841268)<br>我还没想好要写什么...<br>2017-09-29 16:59<br>赞(0) 踩(0) | <div>这很ok啦 <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8797620)<br>流浪人同在天涯，直到渐行...<br>2017-09-25 14:40<br>赞(0) 踩(0) | <div>一点也不ok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/130961642)<br> <br>2017-09-23 21:45<br>赞(2) 踩(0) | <div>我觉得ok</div> |
@@ -268,7 +268,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273829946)<br><br>2017-04-08 12:53<br>赞(1) 踩(0) | <div>我爱的阿岳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193105179)<br>很喜欢Kpop的了<br>2017-04-04 15:47<br>赞(2) 踩(0) | <div>性情中人 很累</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25363245)<br> <br>2017-04-02 20:27<br>赞(0) 踩(0) | <div>一个人ok</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281648908)<br><br>2017-03-31 00:08<br>赞(0) 踩(0) | <div>我可不想装的很可悲好让人家来给我安慰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281648908)<br><br>2017-03-31 00:08<br>赞(0) 踩(0) | <div>我可不想装的很可悲<br>好让人家来给我安慰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283028138)<br> <br>2017-03-30 00:29<br>赞(0) 踩(0) | <div>纵情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8718825)<br><br>2017-03-09 22:10<br>赞(1) 踩(0) | <div>爱情面貌我试图了解，却把自己搞得很狼狈~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277639079)<br><br>2017-03-04 08:13<br>赞(0) 踩(0) | <div>寂寞很ok 一个人ok 我很ok</div> |
@@ -513,7 +513,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7032155)<br> <br>2015-06-27 23:18<br>赞(0) 踩(0) | <div>寂寞很ok 一个人ok 习惯就ok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42151622)<br>WORLD！<br>2015-06-26 10:02<br>赞(1) 踩(0) | <div>啊岳的强行rap 总是带有很多喜感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12690979)<br><br>2015-06-22 21:55<br>赞(0) 踩(0) | <div>竟然没听过这首</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-05-27 14:16<br>赞(0) 踩(0) | <div>我可不想装的很可悲好让人家来给我安慰这一段时间我很ok顶多入夜之后早早睡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-05-27 14:16<br>赞(0) 踩(0) | <div>我可不想装的很可悲<br>好让人家来给我安慰<br>这一段时间我很ok<br>顶多入夜之后早早睡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5648644)<br> <br>2015-04-26 20:03<br>赞(1) 踩(0) | <div>我以前听到的版本为什么是“有时只想一夜情而已”……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42147049)<br>微博ID 喝完说呢<br>2015-05-14 08:56<br>赞(0) 踩(0) | <div>以前的确是一夜情而已</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40822149)<br>最近听王菲听的有点醉。<br>2015-06-09 19:54<br>赞(0) 踩(0) | <div>我也听到过</div> |
@@ -521,14 +521,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10926821)<br><br>2015-04-25 20:13<br>赞(0) 踩(0) | <div>寂寞很OK 一个人很OK 习惯就OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13386693)<br><br>2015-04-01 13:02<br>赞(0) 踩(0) | <div>依旧前奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1042375)<br> <br>2015-03-26 16:27<br>赞(0) 踩(0) | <div>我很ok ok ok～～～～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5814666)<br><br>2015-02-21 14:49<br>赞(150) 踩(0) | <div>爱情面貌我试图了解却把自己搞得很狼狈有一段时间我不ok把灵魂关在黑暗里面当然还是有一些小小的痛苦在身边寂寞很ok.一个人ok.习惯就ok</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5814666)<br><br>2015-02-21 14:49<br>赞(150) 踩(0) | <div>爱情面貌我试图了解<br>却把自己搞得很狼狈<br>有一段时间我不ok<br>把灵魂关在黑暗里面<br>当然还是有一些小小的痛苦在身边<br>寂寞很ok.一个人ok.习惯就ok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15343464)<br><br>2015-02-06 14:07<br>赞(1) 踩(0) | <div>大爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9116216)<br><br>2015-02-03 11:18<br>赞(0) 踩(0) | <div>I am ok.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41224478)<br>stay fresh<br>2015-01-24 01:24<br>赞(0) 踩(0) | <div>I'm just fine. Always be "ok"</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42267)<br>各人有各人的修行<br>2015-01-11 19:55<br>赞(1) 踩(0) | <div>烦不叽撩的，静静。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10838739)<br>我还没想好要写什么...<br>2015-01-08 01:20<br>赞(0) 踩(0) | <div>习惯就ok ( ´▽` )</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34354019)<br> <br>2014-12-28 02:26<br>赞(0) 踩(0) | <div>一直很ok</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1720629)<br>音乐无偏见。<br>2014-12-01 14:40<br>赞(0) 踩(0) | <div>我可不想装的很可悲好让人家来给我安慰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1720629)<br>音乐无偏见。<br>2014-12-01 14:40<br>赞(0) 踩(0) | <div>我可不想装的很可悲<br>好让人家来给我安慰</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21008227)<br>The fact<br>2015-03-11 18:50<br>赞(0) 踩(0) | <div>officialgkta I.  Thegh</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7769892)<br>暂无签名~<br>2014-11-20 22:41<br>赞(0) 踩(0) | <div>寂寞很OK  一个人OK  习惯就OK</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21008227)<br>The fact<br>2015-03-11 18:50<br>赞(0) 踩(0) | <div>gab now PPPama e</div> |
@@ -584,7 +584,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16670698)<br><br>2013-07-01 21:47<br>赞(0) 踩(0) | <div>一个人OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4202872)<br><br>2013-07-01 16:05<br>赞(0) 踩(0) | <div>寂寞很OK，一个人OK，习惯就OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16525150)<br> <br>2013-06-30 01:22<br>赞(0) 踩(0) | <div>爱情面貌我不是很了解 却把自己搞得很狼狈 有一段时间我不ok 把灵魂混在黑夜里面 当然还是有一点小小痛苦在里面 寂寞很ok一个人ok习惯就ok</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5961720)<br>我还没想好要写什么...<br>2013-06-29 18:07<br>赞(0) 踩(0) | <div>生命之中有多少经历值得细细回忆.尤其是感情那些刻骨铭心的回忆好多年都不曾忘记我们都在寻找真爱花钱.也不能买但是我问你甚麽是爱它没有正确答案只能凭感觉在人海里寻找所谓的爱.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5961720)<br>我还没想好要写什么...<br>2013-06-29 18:07<br>赞(0) 踩(0) | <div>生命之中有多少经历值得细细回忆.<br>尤其是感情那些刻骨铭心的回忆<br>好多年都不曾忘记<br>我们都在寻找真爱<br>花钱.也不能买<br>但是我问你甚麽是爱<br>它没有正确答案<br>只能凭感觉在人海里<br>寻找所谓的爱.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8086153)<br><br>2013-06-23 19:09<br>赞(0) 踩(0) | <div>我以前没有那么觉得这首歌的歌词那么耐人寻味的……班游第一天在高铁上听的时候特别带感。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13071913)<br><br>2013-06-17 22:42<br>赞(0) 踩(0) | <div>╮(╯▽╰)╭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9888923)<br><br>2013-06-13 11:58<br>赞(0) 踩(0) | <div>午后轻松一下下，我很ok，nice</div> |
@@ -638,7 +638,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4882645)<br>没够火没人能怪火机<br>2012-10-14 04:14<br>赞(0) 踩(0) | <div>以前喜欢一个人，现在喜欢一个人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2459805)<br><br>2012-10-03 15:49<br>赞(0) 踩(0) | <div>OK~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9356370)<br><br>2012-09-26 23:18<br>赞(0) 踩(0) | <div>我只想说：OK。左面旺德福，右面泰瑞宝，横批我太富。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99502)<br><br>2012-09-17 01:02<br>赞(0) 踩(0) | <div>有一段时间我不ok/把灵魂关在黑暗里面/当然还是有一些小小的痛苦在身边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99502)<br><br>2012-09-17 01:02<br>赞(0) 踩(0) | <div>有一段时间我不ok/<br>把灵魂关在黑暗里面/<br>当然还是有一些小小的痛苦在身边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10373999)<br><br>2012-08-28 14:49<br>赞(0) 踩(0) | <div>OKOK。。。。。。。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3605926)<br> <br>2012-08-19 22:02<br>赞(0) 踩(0) | <div>在出租車上電臺裏聽到的。。。嗯。。。好久沒聽了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2558182)<br>聆听 音乐<br>2012-08-06 12:05<br>赞(0) 踩(0) | <div>ok</div> |
@@ -653,7 +653,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8184054)<br><br>2012-06-17 16:14<br>赞(0) 踩(0) | <div>曾经&amp;quot;爱情面貌我试图了解,却把自己搞得很狼狈/有一段时间我不ok,把灵魂关在黑暗里面...&amp;quot;如今&amp;quot;我可不想装的很可悲,好让人家来给我安慰/这一段时间我很ok,顶多入夜之后早早睡/当然还是有一些小小的寂寞在身边,寂寞很ok.一个人ok.习惯就ok.&amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6405558)<br><br>2012-06-13 20:48<br>赞(0) 踩(0) | <div>不ok的时候一听就立马ok了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3694778)<br><br>2012-06-12 11:29<br>赞(0) 踩(0) | <div>ok 啦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2154969)<br>很久没有听音乐的虫虫<br>2012-05-05 17:58<br>赞(0) 踩(0) | <div>我可不想装的很可悲/好让人家来给我安慰/这一段时间我很ok/顶多入夜之后早早睡/当然还是有一些小小的寂寞在身边/寂寞很ok.一个人ok.习惯就ok/爱情面貌我试图了解/却把自己搞得很狼狈/有一段时间我不ok/把灵魂关在黑暗里面/当然还是有一些小小的痛苦在身边/寂寞很ok.一个人ok.习惯就ok</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2154969)<br>很久没有听音乐的虫虫<br>2012-05-05 17:58<br>赞(0) 踩(0) | <div>我可不想装的很可悲/好让人家来给我安慰/这一段时间我很ok/顶多入夜之后早早睡/<br>当然还是有一些小小的寂寞在身边/寂寞很ok.一个人ok.习惯就ok/爱情面貌我试图了解/却把自己搞得很狼狈/有一段时间我不ok/把灵魂关在黑暗里面/当然还是有一些小小的痛苦在身边/寂寞很ok.一个人ok.习惯就ok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5968076)<br><br>2012-04-10 16:01<br>赞(0) 踩(0) | <div>还有这首~走起来~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3284159)<br><br>2012-03-23 23:28<br>赞(0) 踩(0) | <div>单曲循环呗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2073541)<br><br>2012-03-22 14:25<br>赞(0) 踩(0) | <div>说的就是我啊。</div> |
@@ -693,7 +693,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2178470)<br>我还没想好要写什么...<br>2011-07-22 17:23<br>赞(0) 踩(0) | <div>ok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/799599)<br><br>2011-07-22 13:52<br>赞(0) 踩(0) | <div>寂寞很OK  一个人OK  习惯就OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/799599)<br><br>2011-07-22 13:38<br>赞(0) 踩(0) | <div>寂寞很OK  一个人OK  习惯就OK</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3141245)<br><br>2011-07-21 17:05<br>赞(0) 踩(0) | <div>旋律、歌词、感觉全部OK我可不想装的很可悲好让人家来给我安慰这一段时间我很ok顶多入夜之后早早睡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3141245)<br><br>2011-07-21 17:05<br>赞(0) 踩(0) | <div>旋律、歌词、感觉全部OK<br>我可不想装的很可悲<br>好让人家来给我安慰<br>这一段时间我很ok<br>顶多入夜之后早早睡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4168785)<br><br>2011-07-18 22:28<br>赞(0) 踩(0) | <div>只是不想为当初不努力而后悔，hope u can understand lar~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3647367)<br>我还没想好要写什么...<br>2011-07-10 11:33<br>赞(0) 踩(0) | <div>寂寞很ok一個人ok習慣就ok。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3433037)<br><br>2011-07-06 22:25<br>赞(0) 踩(0) | <div>喜欢这首歌的歌词。只是不想为当初不努力而后悔，hope u can understand lar~</div> |

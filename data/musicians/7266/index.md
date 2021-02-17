@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/913c89edc604ab33ac2b3e10befa132b.png)<br>顾峰](https://i.xiami.com/gufeng) | **播放数**: 4748432<br>**粉丝数**: 751<br>**评论数**: 22<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行摇滚 Pop Rock<br> |
+| [![](../../images/musicians/913c89edc604ab33ac2b3e10befa132b.png)<br>顾峰](https://i.xiami.com/gufeng) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行摇滚 Pop Rock<br>**播放数**: 4748432<br>**粉丝数**: 751<br>**评论数**: 22<br> |
 
 ## 档案
 
@@ -123,8 +123,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405296610)<br><br>2020-01-31 11:49<br>赞(0) 踩(0) | <div>非常喜欢“犯错”这首歌，还把她做为铃声，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412503131)<br><br>2019-12-26 14:24<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319688150)<br>愿经典不被遗忘<br>2019-11-20 23:57<br>赞(0) 踩(0) | <div><img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |

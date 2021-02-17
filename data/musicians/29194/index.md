@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e505f9d503916a1086dad0c08441fffe.jpg)<br>央金兰泽](https://i.xiami.com/yj) | **播放数**: 12959257<br>**粉丝数**: 5119<br>**评论数**: 230<br>**地区**: China 中国大陆<br>**风格**: 西藏传统乐 Tibetan Traditional Music<br> |
+| [![](../../images/musicians/e505f9d503916a1086dad0c08441fffe.jpg)<br>央金兰泽](https://i.xiami.com/yj) | **地区**: China 中国大陆<br>**风格**: 西藏传统乐 Tibetan Traditional Music<br>**播放数**: 12959257<br>**粉丝数**: 5119<br>**评论数**: 230<br> |
 
 ## 档案
 
@@ -58,8 +58,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376885395)<br><br>2020-06-09 23:14<br>赞(0) 踩(0) | <div>为什么吓米音乐里没有您唱的遇上你是我的缘这首歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376885395)<br><br>2020-06-09 23:07<br>赞(0) 踩(0) | <div>遇上你是我的缘在2006年听了这首歌那个时候听这首歌真的很好听，歌声又甜美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305220717)<br>虾米配茶<br>2020-04-22 02:32<br>赞(0) 踩(0) | <div>央金跟我一样 水瓶座</div> |
@@ -139,7 +139,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266010412)<br><br>2017-01-23 05:51<br>赞(0) 踩(0) | <div>遇上你是我的缘</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55269769)<br><br>2015-10-28 21:28<br>赞(3) 踩(0) | <div>朴素与纯善</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51649136)<br><br>2015-10-14 07:27<br>赞(2) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-10-07 19:03<br>赞(21) 踩(0) | <div>青海出才女，央金和德旺乾姆同为本人最喜欢的两位藏族女歌手1940527,2278,134</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-10-07 19:03<br>赞(21) 踩(0) | <div>青海出才女，央金和德旺乾姆同为本人最喜欢的两位藏族女歌手<br>1940527,2278,134</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43051970)<br><br>2015-10-02 16:42<br>赞(2) 踩(0) | <div>希望有机会能合作！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39944582)<br>我还没想好要写什么...<br>2015-10-07 01:19<br>赞(0) 踩(0) | <div>谢谢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43051970)<br><br>2015-10-14 18:52<br>赞(0) 踩(0) | <div><q><b>央金兰泽说：</b></q></div> |

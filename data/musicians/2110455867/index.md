@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/101936dbebff6d237687c0f946e1b118.jpg)<br>柳琦](https://i.xiami.com/liuqi667) | **播放数**: 1674940<br>**粉丝数**: 54<br>**评论数**: 5<br>**地区**: Canada 加拿大<br>**风格**: 标准歌曲 Standards, 流行 Pop<br> |
+| [![](../../images/musicians/101936dbebff6d237687c0f946e1b118.jpg)<br>柳琦](https://i.xiami.com/liuqi667) | **地区**: Canada 加拿大<br>**风格**: 标准歌曲 Standards, 流行 Pop<br>**播放数**: 1674940<br>**粉丝数**: 54<br>**评论数**: 5<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -24,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410496490)<br>唱吧号ymqp1208<br>2020-02-08 21:49<br>赞(0) 踩(0) | <div>来过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13351140)<br> <br>2019-11-29 10:23<br>赞(0) 踩(0) | <div>好久没有被歌曲打动了  好美的旋律和歌词</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410496490)<br>唱吧号ymqp1208<br>2019-10-21 10:29<br>赞(0) 踩(0) | <div>你的十首歌我会循环一整个晚上</div> |

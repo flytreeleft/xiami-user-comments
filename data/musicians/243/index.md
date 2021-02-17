@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/81296158b8edfe0fcc1a8d794214da81.jpg)<br>高林生](https://i.xiami.com/gaolinsheng) | **播放数**: 9853476<br>**粉丝数**: 3624<br>**评论数**: 64<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 国语流行 Mandarin Pop, 粤语流行 Cantopop<br> |
+| [![](../../images/musicians/81296158b8edfe0fcc1a8d794214da81.jpg)<br>高林生](https://i.xiami.com/gaolinsheng) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 国语流行 Mandarin Pop, 粤语流行 Cantopop<br>**播放数**: 9853476<br>**粉丝数**: 3624<br>**评论数**: 64<br> |
 
 ## 档案
 
@@ -67,8 +67,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443650578)<br>我还没想好要写什么...<br>2020-07-18 00:46<br>赞(0) 踩(0) | <div>永远是那么的帅。喜欢你的歌曲。大家喜欢你 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123230860)<br> <br>2020-07-09 22:45<br>赞(0) 踩(0) | <div>这家伙怎么越老越帅了 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74639208)<br>Music is per...<br>2020-05-08 22:15<br>赞(0) 踩(0) | <div>帅</div> |
@@ -106,7 +106,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47290614)<br><br>2015-03-20 22:48<br>赞(0) 踩(0) | <div>有你才是天堂挺好听,节奏感强</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27481268)<br><br>2015-01-17 21:20<br>赞(1) 踩(0) | <div>好久没听帅哥的歌，现在再听，又回到从前，很有感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45036560)<br>风采方程<br>2015-01-12 21:38<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45036560)<br>风采方程<br>2015-01-11 22:55<br>赞(2) 踩(0) | <div>祝贺《淡定》MV（最新官方版）荣登音悦台推荐MV。<a href="http://v.yinyuetai.com/video/2214031" target="_blank" rel="nofollow noreferrer noopener">http://v.yinyuetai.com/video/2214031</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45036560)<br>风采方程<br>2015-01-11 22:55<br>赞(2) 踩(0) | <div>祝贺《淡定》MV（最新官方版）荣登音悦台推荐MV。<br><a href="http://v.yinyuetai.com/video/2214031" target="_blank" rel="nofollow noreferrer noopener">http://v.yinyuetai.com/video/2214031</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45036560)<br>风采方程<br>2015-01-06 20:01<br>赞(0) 踩(0) | <div>因为有实力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4855774)<br>笑嘻嘻<br>2014-10-15 00:38<br>赞(0) 踩(0) | <div>( ^_^ )不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10637)<br>音乐唱作人<br>2014-10-08 22:32<br>赞(0) 踩(0) | <div>童年的回忆！</div> |
@@ -121,7 +121,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353)<br>强迫症确诊<br>2013-07-26 14:13<br>赞(0) 踩(0) | <div>中学时期的回忆</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5690312)<br>这个家伙很聪明，什么也没...<br>2013-07-25 21:17<br>赞(0) 踩(0) | <div>吃得苦黄连，方为腹黑攻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/489870)<br><br>2013-07-25 14:28<br>赞(0) 踩(0) | <div>终于来了~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2306444)<br>见证虾米起家式…<br>2013-07-08 04:20<br>赞(5) 踩(0) | <div>牵挂你的人是我  我也爱听，听得是一种记忆。。童年时候家里的录音机。。。那会的歌我觉得傻傻的 纯纯的 一丝浪漫。。那一代的老歌有的都是经典 想你的时候 心会跟爱一起走 萍聚什么的。。。经典音乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2306444)<br>见证虾米起家式…<br>2013-07-08 04:20<br>赞(5) 踩(0) | <div>牵挂你的人是我  我也爱听，听得是一种记忆。。童年时候家里的录音机。。。<br><br>那会的歌我觉得傻傻的 纯纯的 一丝浪漫。。<br><br>那一代的老歌有的都是经典 想你的时候 心会跟爱一起走 萍聚什么的。。。经典音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3664254)<br>看我的唐诗剑法<br>2013-05-24 11:53<br>赞(27) 踩(0) | <div>年轻的时候挺帅的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46766799)<br>我还没想好要写什么...<br>2019-06-25 14:17<br>赞(0) 踩(0) | <div>年纪大了也是帅的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15232157)<br>。。。<br>2013-05-13 00:08<br>赞(0) 踩(0) | <div>喜欢老高的音乐好多年了</div> |

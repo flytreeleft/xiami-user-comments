@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f8f050c35114a5cbc2c1f7eb3c05e516.jpg)<br>皇后皮箱](https://i.xiami.com/queensuitcase) | **播放数**: 2413063<br>**粉丝数**: 9513<br>**评论数**: 116<br>**地区**: Taiwan, PRC 中国台湾<br>**风格**: 另类摇滚 Alternative Rock<br> |
+| [![](../../images/musicians/f8f050c35114a5cbc2c1f7eb3c05e516.jpg)<br>皇后皮箱](https://i.xiami.com/queensuitcase) | **地区**: Taiwan, PRC 中国台湾<br>**风格**: 另类摇滚 Alternative Rock<br>**播放数**: 2413063<br>**粉丝数**: 9513<br>**评论数**: 116<br> |
 
 ## 档案
 
@@ -22,8 +22,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340903899)<br>我还没想好要写什么...<br>2020-08-14 11:53<br>赞(0) 踩(0) | <div>，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215379991)<br>簽名不重要重要的是你聽什...<br>2020-07-28 01:10<br>赞(0) 踩(0) | <div>ﻌﻌﻌ❤︎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-07-26 16:35<br>赞(0) 踩(0) | <div><img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
@@ -47,7 +47,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3679082)<br> <br>2019-06-10 05:45<br>赞(1) 踩(0) | <div>原来是抄袭，怪不得觉得歌词跟编曲一点都不协调。哎。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5991296)<br><br>2019-06-03 00:19<br>赞(0) 踩(0) | <div>會火的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43031293)<br>嗨皮嗨皮～～<br>2019-06-02 09:42<br>赞(1) 踩(0) | <div>希望你们有更多自己的东西</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43031293)<br>嗨皮嗨皮～～<br>2019-06-02 09:41<br>赞(27) 踩(0) | <div>人间惆怅客也跟the lords of the new church的open your eyes一模一样……那么多旋律、曲风可以创作，为啥偏跟这两首一样？说不过去了啊……难怪乐队的夏天里节目里，嘉宾评价他们在人间惆怅客里只表现了过去的东西，并没有他们自己的东西，原来是这样，嘉宾真委婉给面子……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43031293)<br>嗨皮嗨皮～～<br>2019-06-02 09:41<br>赞(27) 踩(0) | <div>人间惆怅客也跟the lords of the new church的open your eyes一模一样……那么多旋律、曲风可以创作，为啥偏跟这两首一样？说不过去了啊……<br>难怪乐队的夏天里节目里，嘉宾评价他们在人间惆怅客里只表现了过去的东西，并没有他们自己的东西，原来是这样，嘉宾真委婉给面子……</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1450620)<br>我是玛丽杨<br>2019-07-01 10:59<br>赞(0) 踩(0) | <div>难怪我觉得这首好耳熟...</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216784802)<br>好的音乐最重要的是真实，...<br>2020-07-10 07:38<br>赞(0) 踩(0) | <div>歌词不是自己的东西吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327952880)<br>Waldeinsamke...<br>2019-05-30 18:09<br>赞(0) 踩(0) | <div>广州7.13！</div> |
@@ -98,13 +98,13 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51865794)<br>我还没想好要写什么...<br>2016-02-26 23:16<br>赞(0) 踩(0) | <div>:-\</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54583815)<br>一点都不神圣<br>2016-02-23 01:42<br>赞(1) 踩(0) | <div>感觉很配昆汀的电影</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47365062)<br>windy<br>2016-01-02 13:14<br>赞(1) 踩(0) | <div>总觉得中文歌比英文歌好 <img src="../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8192862)<br>诗人和先知。vchat:...<br>2015-11-25 12:19<br>赞(1) 踩(0) | <div>相见恨晚啊丢！1031竟然去了SD。就这样错过了。捶胸。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8192862)<br>诗人和先知。vchat:...<br>2015-11-25 12:19<br>赞(1) 踩(0) | <div>相见恨晚啊丢！<br>1031竟然去了SD。就这样错过了。捶胸。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37116263)<br>揸緊中指，摇擺<br>2015-11-21 14:47<br>赞(2) 踩(0) | <div>jim老占推荐听的，女声包括曲风让我想起了台湾女歌手林晓培她有部份曲风类似，这队音乐玩得像大牌非常成熟，特别是编曲方面耐听性极高要细品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16255463)<br>@Revolution9...<br>2015-10-21 21:33<br>赞(2) 踩(0) | <div>主唱光环</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33124004)<br>EXO-L<br>2015-10-15 13:29<br>赞(1) 踩(0) | <div>这大概是我听过第四个叫「偶 len」的人了 。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10217548)<br>Hi ：）<br>2015-10-06 11:29<br>赞(1) 踩(0) | <div>黑轮好帅！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7926830)<br>  淘氣<br>2015-10-06 11:24<br>赞(0) 踩(0) | <div></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1728101)<br>离线<br>2015-09-28 16:13<br>赞(9) 踩(0) | <div>10月30日 香港 HIDDEN AGENDA10月31日 广州 SD Livehouse11月1日 长沙 红咖Livehouse11月3日 武汉 VOX Livehouse11月4日 苏州 后街酒吧11月6日 上海 ON STAGE</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1728101)<br>离线<br>2015-09-28 16:13<br>赞(9) 踩(0) | <div>10月30日 香港 HIDDEN AGENDA<br>10月31日 广州 SD Livehouse<br>11月1日 长沙 红咖Livehouse<br>11月3日 武汉 VOX Livehouse<br>11月4日 苏州 后街酒吧<br>11月6日 上海 ON STAGE</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1871959)<br> <br>2017-06-30 12:27<br>赞(0) 踩(0) | <div>今年还有咩</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445929898)<br><br>2020-11-13 10:25<br>赞(0) 踩(0) | <div>姜育恒都</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33892529)<br>孤独终老 独善其身<br>2015-09-01 18:33<br>赞(0) 踩(0) | <div>特别 复古</div> |

@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421336987)<br><br>2020-02-29 20:36<br>赞(2) 踩(0) | <div>孟婆汤是否分六口，一口出世甜、二口叛逆辣、三口珍惜酸、四口情责苦、五口身心麻，最后一口却为白水，淡了口中味，忘了前尘事，泯了爱恩仇，舒了川字眉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379169542)<br><br>2019-10-26 17:08<br>赞(6) 踩(0) | <div><img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"> <img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"> <img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275197266)<br>心简单就快乐！<br>2019-09-15 22:26<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
@@ -27,11 +24,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251698852)<br><br>2019-09-14 15:58<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251698852)<br><br>2019-07-09 16:57<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240342577)<br>我还没想好要写什么...<br>2019-07-08 07:34<br>赞(2) 踩(0) | <div>平静酝酿巨大能量</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425553287)<br><br>2019-06-30 15:43<br>赞(18) 踩(0) | <div>黄昏嫁给了落暮孤独是最后的刻骨多少凄楚穿越瘦骨，可我仍记得最初谁一点一点住进了我的眉眸最后又撤退成风一般的飘忽平湖秋月代替了誓诺过的归途又回到陌路却多了别样的感悟那么义无反顾依旧是这样的结束难道一切都是定数我只能一个人把尘缘吟赋心弦上用春烟落谱最后却是一个人写旧渴慕夜色做不了救赎月光归处，哪还有提菩曾以为你的眉目可以是我的乐土历经光阴的颠覆才知道我没有适合的奔赴当月光筑路我只能退回到一首诗将寂寞缝补原来，爱是一个人最后的百年孤独!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425553287)<br><br>2019-06-30 15:43<br>赞(18) 踩(0) | <div>黄昏嫁给了落暮<br>孤独是最后的刻骨<br>多少凄楚穿越瘦骨，可我仍记得最初<br>谁一点一点住进了我的眉眸<br>最后又撤退成风一般的飘忽<br>平湖秋月代替了誓诺过的归途<br>又回到陌路<br>却多了别样的感悟<br>那么义无反顾依旧是这样的结束<br>难道一切都是定数<br>我只能一个人把尘缘吟赋<br>心弦上用春烟落谱<br>最后却是一个人写旧渴慕<br>夜色做不了救赎<br>月光归处，哪还有提菩<br>曾以为你的眉目可以是我的乐土<br>历经光阴的颠覆才知道我没有适合的奔赴<br>当月光筑路<br>我只能退回到一首诗将寂寞缝补<br>原来，爱是一个人最后的百年孤独!</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412670688)<br><br>2019-06-30 17:24<br>赞(0) 踩(0) | <div>……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344892279)<br>佛爱我亦爱，清香蝶不偷。...<br>2019-07-03 08:14<br>赞(0) 踩(0) | <div>不到四分的曲，写了这么长的评，很费心思吧？什么音音乐都一个味？记得：语言的尽头是音乐的开始，听吧。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344892279)<br>佛爱我亦爱，清香蝶不偷。...<br>2019-07-03 08:19<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366668898)<br>萤火遍野，皓月盈天<br>2019-08-18 23:42<br>赞(0) 踩(0) | <div>夜色轻柔常守护感情炽热难刻骨烟花冷却彩云散只剩一缕缠绵记忆、飘忽远方已远谁奔赴渡船难渡几翻覆谁能把光阴留住独剩一人长眠海底、酸楚终究是情深情浅如虚物或浮或沉难得度若说菩提菩提只在迷中悟痴心洗净有明珠但若了此不必问晨曦只在空明处</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366668898)<br>萤火遍野，皓月盈天<br>2019-08-18 23:42<br>赞(0) 踩(0) | <div>夜色轻柔常守护<br>感情炽热难刻骨<br>烟花冷却彩云散<br>只剩一缕缠绵记忆、飘忽<br>远方已远谁奔赴<br>渡船难渡几翻覆<br>谁能把光阴留住<br>独剩一人长眠海底、酸楚<br>终究是<br>情深情浅如虚物<br>或浮或沉难得度<br>若说菩提<br>菩提只在迷中悟<br>痴心洗净有明珠<br>但若了此不必问<br>晨曦只在空明处</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322920957)<br>音乐就如同一位出色滴疗伤...<br>2019-06-22 12:46<br>赞(2) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410541859)<br><br>2019-05-30 06:57<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370722453)<br>音乐的生命是永恒的！<br>2019-05-28 16:49<br>赞(1) 踩(0) | <div>生活中的味精，有味！</div> |
@@ -67,13 +64,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329413857)<br>你敬我一尺，我敬你。一生<br>2018-10-27 06:30<br>赞(0) 踩(0) | <div>三峡大坝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184280662)<br>为一朵花低头，为一朵云驻...<br>2018-10-18 00:19<br>赞(1) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350169674)<br>只要一天有人類或人有耳朵...<br>2018-10-15 16:49<br>赞(4) 踩(0) | <div>林海（出生于福建晉江）有過人而全能的音樂素質，所以他的音樂包含古典、新世紀、現代、爵士等多種風格，並將其巧妙的結合起來，給人一種清新、淡雅、悠揚的感覺。業內人士曾說過他：”有著蕭邦的氣質，以及德彪西的慵懶與優雅，具有George Winston親和而強烈的旋律性，及Keith Jarrett豐富而充滿想像的思考性”。顯然過譽了，但本人聽過認定是有音樂天賦，給他一個贊。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320976181)<br>再听已是曲中人<br>2018-10-11 06:54<br>赞(3) 踩(0) | <div>守候着一份对牛一的美好执着等候着一份牛一真挚的希望</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320976181)<br>再听已是曲中人<br>2018-10-11 06:54<br>赞(3) 踩(0) | <div>守候着一份对牛一的美好执着<br>等候着一份牛一真挚的希望</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1776704)<br><br>2018-10-10 21:00<br>赞(3) 踩(0) | <div>我会用我的一生守护着你。一直不停地守护你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123974322)<br>0七月流火~ 但还是 赶...<br>2018-10-09 13:16<br>赞(1) 踩(0) | <div>~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334730963)<br>倾听美好~<br>2018-09-21 06:54<br>赞(1) 踩(0) | <div>暖心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/520700)<br>生活的恩典是自己给的<br>2018-09-20 18:53<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345878174)<br>感谢祢赐我智慧、恩典和力...<br>2018-09-16 22:54<br>赞(26) 踩(0) | <div>守候着一份美好的执着等候着一份真挚的希望</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316112910)<br><br>2018-09-15 00:27<br>赞(3) 踩(0) | <div>我心漂泊，只求能安稳嗯，有那么些心伤了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345878174)<br>感谢祢赐我智慧、恩典和力...<br>2018-09-16 22:54<br>赞(26) 踩(0) | <div>守候着一份美好的执着<br>等候着一份真挚的希望</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316112910)<br><br>2018-09-15 00:27<br>赞(3) 踩(0) | <div>我心漂泊，只求能安稳<br>嗯，有那么些心伤了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323647246)<br><br>2018-08-27 23:05<br>赞(4) 踩(0) | <div>听见熟悉的音乐，是四年前陪伴自己最难熬时光的记忆啊～闷热、反复、混沌的午夜&amp;hellip;&amp;hellip;昏沉无法醒来。再回望任然心有余悸。感恩有你陪伴了一段路程。人生没有最艰难，只有更艰难吧。而今又遇见一个抉择路口，又遇见你。所以&amp;hellip;&amp;hellip;也会变好对不对&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283613660)<br>来自深圳市白羊座男生<br>2018-08-03 22:11<br>赞(2) 踩(0) | <div>红油鸡块！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320876094)<br><br>2018-07-28 22:27<br>赞(4) 踩(0) | <div>有梦一定要追</div> |
@@ -86,7 +83,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292050612)<br><br>2018-07-08 15:03<br>赞(1) 踩(0) | <div>太好听了&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32680044)<br>~<br>2018-07-01 14:28<br>赞(2) 踩(0) | <div>能不能 载着思绪的雨带我找你，纵然是梦想也罢。宁愿寂寞  放弃自由。怎样也想抓住你的手。春夏秋冬 你的承诺，我的守候~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250111274)<br>音乐生活之旅由此出发……<br>2018-07-01 12:56<br>赞(77) 踩(0) | <div>守候！阴郁的天气里，听着此曲，别样的伤感弥漫开来&amp;hellip;&amp;hellip;特别是钢琴，似无心花落去的随性漂泊，让一个人独处時的孤寂愈发浓郁&amp;hellip;&amp;hellip;而孤独的旋律也可以如孤独一样美，虽然都隐含着无法述说的痛&amp;hellip;&amp;hellip;林海的守候，旋律简单而极富意境！值得循环听并收藏！</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296530639)<br>Less is more<br>2018-08-26 21:28<br>赞(0) 踩(0) | <div>弱智的问个问题，文笔这么好，还附有情思，是个有故事的人吗？你留下的脚印和评论太多太精彩，我匪夷所思 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296530639)<br>Less is more<br>2018-08-26 21:28<br>赞(0) 踩(0) | <div>弱智的问个问题，文笔这么好，还附有情思，是个有故事的人吗？<br>你留下的脚印和评论太多太精彩，我匪夷所思 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313183939)<br>"凡音之起，由人心生也"...<br>2018-06-06 20:24<br>赞(6) 踩(0) | <div>守候一颗芳心，守候一春花开，守候一绚时光&amp;hellip;&amp;hellip;林海的小曲儿时静时狂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365505382)<br><br>2018-06-05 20:31<br>赞(2) 踩(0) | <div>十几年过去了，我还清晰的记得，你第一次来到我们家时那呲牙咧嘴凶狠的样子；妈妈打毛衣时，你去抱毛线球那淘气的样子；在外面玩够之后，你趴在我膝盖上那温顺的样子；我们全家吃饭时，你坐在饭桌旁边椅子上面那乖巧的样子。。。。结果，你惨遭坏人毒手，永远的睡在屋后那棵桔子树下面了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322127897)<br><br>2018-06-01 02:24<br>赞(2) 踩(0) | <div>封面里那只猫好看</div> |
@@ -136,7 +133,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33513492)<br><br>2017-05-16 01:19<br>赞(0) 踩(0) | <div>&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213448764)<br> <br>2017-04-25 00:11<br>赞(1) 踩(0) | <div>2017.4.25   路过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286388999)<br><br>2017-04-11 11:19<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262262122)<br>一座孤城一座坟，一份感情...<br>2017-04-08 19:56<br>赞(29) 踩(0) | <div>钱小燕，曾经你和我说：&amp;ldquo;你一定要记得你的世界我曾经来爱过&amp;rdquo;。佛说：与你无缘的人，你与他说再多的话也是废话，与你有缘的人，你的存在就能惊醒他所有的感觉。一份好的感情或友谊，不是追逐，而是相吸，不是纠缠，而且珍惜。走过的路，脚记得；爱过的人，心记得。分开一年了，爱你的心永未停止过，只有我自己知道，你在我的世界里从未离开</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262262122)<br>一座孤城一座坟，一份感情...<br>2017-04-08 19:56<br>赞(29) 踩(0) | <div>钱小燕，曾经你和我说：&amp;ldquo;你一定要记得你的世界我曾经来爱过&amp;rdquo;。<br>佛说：与你无缘的人，你与他说再多的话也是废话，与你有缘的人，你的存在就能惊醒他所有的感觉。<br>一份好的感情或友谊，不是追逐，而是相吸，不是纠缠，而且珍惜。<br>走过的路，脚记得；爱过的人，心记得。<br>分开一年了，爱你的心永未停止过，只有我自己知道，你在我的世界里从未离开</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262123146)<br>這次我真的放弃<br>2017-03-31 20:05<br>赞(0) 踩(0) | <div>猫逝去了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75198594)<br>没人能在我的BGM里面战...<br>2017-03-05 00:51<br>赞(0) 踩(0) | <div>很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259696340)<br>一花一世界，爱山川河流<br>2017-02-24 21:47<br>赞(2) 踩(0) | <div>我就是一只小猫咪，一直在守候，等待我的主人来带我回家</div> |
@@ -243,5 +240,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2049155)<br><br>2011-02-19 19:10<br>赞(1) 踩(0) | <div>纯洁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1781248)<br><br>2010-11-08 23:08<br>赞(2) 踩(0) | <div>一开始就让人沉迷，沉迷在自己守候的过去，过去里美好和遗憾的开始</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357092)<br><br>2010-08-03 15:43<br>赞(2) 踩(0) | <div>听——林海的声音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360768)<br>斗兽<br>2009-09-22 10:40<br>赞(2) 踩(0) | <div>时光，静默的流淌。日子，也悄无声息。猫，他站在窗口的位置，望向窗外的某个地方，身子揉进了散落的温暖阳光。有时，他回过头与我相望。便是守候。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360768)<br>斗兽<br>2009-09-22 10:40<br>赞(2) 踩(0) | <div>时光，静默的流淌。日子，也悄无声息。<br>猫，他站在窗口的位置，望向窗外的某个地方，身子揉进了散落的温暖阳光。<br>有时，他回过头与我相望。便是守候。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2752)<br>岁月流淌 音乐相随<br>2009-03-07 21:55<br>赞(2) 踩(0) | <div>守侯在某一个地方,心~~~</div> |

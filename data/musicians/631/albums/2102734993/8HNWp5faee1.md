@@ -45,10 +45,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46743016)<br>蜻蜓一路过 蝴蝶就失忆<br>2020-12-13 03:23<br>赞(0) 踩(0) | <div>故事是怎样继续的 已不大记得我放开了谁的手 心里有一小块死了终于能呼一口气不情不愿的 看清楚所有</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 21:47<br>赞(0) 踩(0) | <div>「《絕對清白》中串流量最高的一首滄海遺珠，也竟然是我所有自己的國語作品之中串流量最高的。多年重寫又重寫，最後2017年1月在科羅拉多州的Boulder完成。在放棄與繼續的邊緣徘徊，有時走下去的力量，不是盲目地相信正能量，卻是在絕境中明白別人的苦衷，以及了解自己的能耐。」&amp;mdash;&amp;mdash;一峰2020.3.28于微博</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46743016)<br>蜻蜓一路过 蝴蝶就失忆<br>2020-12-13 03:23<br>赞(0) 踩(0) | <div>故事是怎样继续的 已不大记得<br>我放开了谁的手 心里有一小块死了<br>终于能呼一口气<br>不情不愿的 看清楚所有</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 21:47<br>赞(0) 踩(0) | <div>「《絕對清白》中串流量最高的一首滄海遺珠，也竟然是我所有自己的國語作品之中串流量最高的。多年重寫又重寫，最後2017年1月在科羅拉多州的Boulder完成。在放棄與繼續的邊緣徘徊，有時走下去的力量，不是盲目地相信正能量，卻是在絕境中明白別人的苦衷，以及了解自己的能耐。」<br>&amp;mdash;&amp;mdash;一峰<br>2020.3.28于微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4034272)<br> <br>2019-10-26 11:31<br>赞(0) 踩(0) | <div>好听 就是歌名也太..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/465455)<br> <br>2019-01-30 09:39<br>赞(0) 踩(0) | <div>无悲喜 无人可扰 可念 索然无味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45881587)<br>…<br>2018-11-08 22:05<br>赞(0) 踩(0) | <div>好听ಥ_ಥ</div> |
@@ -64,7 +64,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6820570)<br>这是语言的变调，承接醒来...<br>2017-06-22 09:28<br>赞(0) 踩(0) | <div>固本</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6820570)<br>这是语言的变调，承接醒来...<br>2017-06-22 09:07<br>赞(0) 踩(0) | <div>今天想起了Hammer小朋友和那些天问，突然发现能伤心是种奢侈，小家伙5岁吧，真&amp;middot;童真啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273606795)<br>我想再次用虾米音乐与你分...<br>2017-06-03 21:20<br>赞(0) 踩(0) | <div>我不敢写评呀，免得有人说我受过刺激 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220992376)<br><br>2017-05-23 15:30<br>赞(3) 踩(0) | <div>《能伤心是种奢侈》是情歌的沉淀，最怕的其实不是感觉不好，最怕是没有感觉。&amp;mdash;&amp;mdash;林一峰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220992376)<br><br>2017-05-23 15:30<br>赞(3) 踩(0) | <div>《能伤心是种奢侈》是情歌的沉淀，最怕的其实不是感觉不好，最怕是没有感觉。<br>&amp;mdash;&amp;mdash;林一峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10670183)<br>“自知，自律，自爱”<br>2017-05-18 09:43<br>赞(0) 踩(0) | <div>原谅我看成是林峰才进来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43623788)<br>我还没想好要写什么...<br>2017-05-16 18:48<br>赞(0) 踩(0) | <div>有伤心难过甚至哭出来的感觉真是难能可贵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3732541)<br>我还没想好要写什么...<br>2017-05-10 23:14<br>赞(1) 踩(0) | <div>林一峰总让我想到吴青峰，比女生更了解女生</div> |
@@ -91,7 +91,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2492768)<br><br>2017-05-02 03:11<br>赞(0) 踩(0) | <div>这首应该说是这张indie专辑里的&amp;ldquo;流行主打&amp;rdquo;了吧，旋律好听的比较一般（就如菲《唱游》里的《红豆》这种&amp;hellip;我又黑红豆了嘛 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">），词作依然不错&amp;hellip;然而我这个强迫症好在意&amp;ldquo;什么回事&amp;rdquo;这里啊&amp;hellip;病句啊骚年 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96622792)<br>woo<br>2017-05-02 02:03<br>赞(1) 踩(0) | <div>整张专辑最喜欢的一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239103413)<br>飘风不终朝，骤雨无终日<br>2017-05-01 23:49<br>赞(0) 踩(0) | <div>结束得太早 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"> <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2017-05-01 21:59<br>赞(13) 踩(0) | <div>迫不及待的 交出了所有是啊，迫不及待，就容易空欢喜，略遗憾～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2017-05-01 21:59<br>赞(13) 踩(0) | <div>迫不及待的 交出了所有<br><br>是啊，迫不及待，就容易空欢喜，略遗憾～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5173450)<br>我还没想好要写什么...<br>2017-05-01 16:25<br>赞(0) 踩(0) | <div>释怀了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260279555)<br><br>2017-05-01 10:56<br>赞(0) 踩(0) | <div>遗憾 领悟的太早 离开的太迟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6820570)<br>这是语言的变调，承接醒来...<br>2017-05-01 10:19<br>赞(0) 踩(0) | <div>能伤心就使劲儿伤心，年少无知就别去强说愁。各有各福吧，哈哈哈。</div> |

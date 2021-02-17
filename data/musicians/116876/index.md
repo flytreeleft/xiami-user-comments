@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ba39a4f0cb8f9b1c496fda71b2f27bd6.jpg)<br>帅霖](https://i.xiami.com/shuailin) | **播放数**: 6062032<br>**粉丝数**: 166<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/ba39a4f0cb8f9b1c496fda71b2f27bd6.jpg)<br>帅霖](https://i.xiami.com/shuailin) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 6062032<br>**粉丝数**: 166<br>**评论数**: 6<br> |
 
 ## 档案
 
@@ -49,8 +49,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434048132)<br><br>2020-06-03 02:21<br>赞(0) 踩(0) | <div>猴子捞月亮好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30300516)<br>RainComin<br>2015-07-14 10:30<br>赞(1) 踩(0) | <div>特别喜欢大美妞，在便利店无意中听到的，循环播放了一天</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1461388)<br>我害怕你们的到来<br>2015-01-31 21:12<br>赞(1) 踩(0) | <div>我名字也叫帅霖。。。。。。</div> |

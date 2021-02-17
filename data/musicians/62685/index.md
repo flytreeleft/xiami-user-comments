@@ -3,7 +3,7 @@ Sofia Jannok
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e1b5de2341db1affefdde8d520aeb575.jpg)<br>Sofia Jannok](https://i.xiami.com/sofia) | **播放数**: 25210463<br>**粉丝数**: 18873<br>**评论数**: 694<br>**地区**: Sweden 瑞典<br>**风格**: 欧美流行 Western Pop, 流行 Pop<br> |
+| [![](../../images/musicians/e1b5de2341db1affefdde8d520aeb575.jpg)<br>Sofia Jannok](https://i.xiami.com/sofia) | **地区**: Sweden 瑞典<br>**风格**: 欧美流行 Western Pop, 流行 Pop<br>**播放数**: 25210463<br>**粉丝数**: 18873<br>**评论数**: 694<br> |
 
 ## 档案
 
@@ -59,8 +59,8 @@ During an inauguration of the Culture year in Umeå 2014 (Sami late winter) Sofi
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34313941)<br>面朝大海，春暖花开。<br>2020-11-24 17:54<br>赞(1) 踩(0) | <div>啊啊啊，上海11.26有巡演！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-09-27 22:18<br>赞(0) 踩(0) | <div>✅✅✅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421490780)<br>承认自己不完美<br>2020-06-10 01:05<br>赞(0) 踩(0) | <div>前段时间突然很想听这首歌，用小度搜索无果，今天在虾米推荐的歌单里听到，觉得很惊喜，喜欢这种节奏柔缓，声音澄澈的音乐。愿一切所思所想终成现实。</div> |
@@ -68,10 +68,10 @@ During an inauguration of the Culture year in Umeå 2014 (Sami late winter) Sofi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423020771)<br><br>2020-04-19 18:08<br>赞(0) 踩(0) | <div>在那里，时光都是慢的&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349512513)<br>无欲无求<br>2020-01-12 18:13<br>赞(0) 踩(0) | <div>加油期待你更好的灵魂作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42405531)<br>再见虾米<br>2019-10-21 19:43<br>赞(0) 踩(0) | <div>又是瑞典，自从听Kent以后感觉全天下好听的歌大都在北欧特别是瑞典。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27606761)<br>我没有那么多故事，但故事...<br>2019-07-30 12:08<br>赞(3) 踩(0) | <div>八年前机缘巧合在学校宿舍不知道干啥就听到了这首歌，瞬间一种美妙惊艳感，记得当时不知道歌名，还问了好几个平时听歌范围广的同学，终于有位同学在自己的mp3里找到了这首歌，当时是着了迷一直反复听，还设置成了qzone背景音乐。到如今，在繁忙琐碎多少多少含有无奈的工作生活中再听这首歌，是一种对心灵的完全放松，躺在床上闭上眼睛戴上耳机，似春风安抚过浮躁的心渐渐安宁，仿佛这种宁静美好的日子我正拥有着。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27606761)<br>我没有那么多故事，但故事...<br>2019-07-30 12:08<br>赞(3) 踩(0) | <div>八年前机缘巧合在学校宿舍不知道干啥就听到了这首歌，瞬间一种美妙惊艳感，记得当时不知道歌名，还问了好几个平时听歌范围广的同学，终于有位同学在自己的mp3里找到了这首歌，当时是着了迷一直反复听，还设置成了qzone背景音乐。<br>到如今，在繁忙琐碎多少多少含有无奈的工作生活中再听这首歌，是一种对心灵的完全放松，躺在床上闭上眼睛戴上耳机，似春风安抚过浮躁的心渐渐安宁，仿佛这种宁静美好的日子我正拥有着。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48522267)<br><br>2019-10-24 14:13<br>赞(0) 踩(0) | <div>是liekkas么</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48522267)<br><br>2019-10-24 14:13<br>赞(0) 踩(0) | <div>是liekkas么</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426393136)<br><br>2019-06-30 20:21<br>赞(0) 踩(0) | <div>ahhhhhhhluv u!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426393136)<br><br>2019-06-30 20:21<br>赞(0) 踩(0) | <div>ahhhhhhh<br>luv u!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421336987)<br>音乐如诗，音乐如画，陶醉...<br>2019-06-20 09:03<br>赞(3) 踩(0) | <div>索非亚·詹娜克出生于1982年九月十五日，萨米族人，是北欧最后的少数民族，人口一万左右。来自瑞典北端的小城市伊利瓦勒。 从她11岁那年登上舞台开始就在一直不停的歌唱，从那时起她便录制唱片，并演唱电影电视的音乐作品以其担当主持人，她主要以四种语言演唱歌曲：萨米族语言，英语，瑞典语，法语。她的音乐通常阐释了开放空间这一主题。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317984865)<br><br>2019-05-31 08:30<br>赞(0) 踩(0) | <div>我才知道来中国  <img src="../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../images/comments/8fcbf24260c00a88b7455190f859059e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85568296)<br>只有阳光而无阴影 只有欢...<br>2019-05-28 05:35<br>赞(0) 踩(0) | <div>美妙的歌声~</div> |
@@ -132,7 +132,7 @@ During an inauguration of the Culture year in Umeå 2014 (Sami late winter) Sofi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20869567)<br>莱斯特小姐，我觉得爱是想...<br>2015-03-17 22:57<br>赞(0) 踩(0) | <div>谁告诉我liekkas去哪儿了？！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10737421)<br><br>2015-03-16 16:51<br>赞(0) 踩(0) | <div>声音甜甜的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3429606)<br><br>2015-03-08 20:48<br>赞(3) 踩(0) | <div>内容已删除</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/696090)<br>暂无签名~<br>2015-04-15 19:12<br>赞(0) 踩(0) | <div>打广告 我的无损包<a href="http://www.xiami.com/collect/7541010?spm=a1z1s.6843761.226669510.19.DPRWyg" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/collect/7541010?spm=a1z1s.6843761.226669510.19.DPRWyg</a></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/696090)<br>暂无签名~<br>2015-04-15 19:12<br>赞(0) 踩(0) | <div>打广告 我的无损包<br><a href="http://www.xiami.com/collect/7541010?spm=a1z1s.6843761.226669510.19.DPRWyg" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/collect/7541010?spm=a1z1s.6843761.226669510.19.DPRWyg</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16646272)<br><br>2015-04-21 22:13<br>赞(0) 踩(0) | <div>请问有mp3版本的吗？谢谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29197411)<br>我还没想好要写什么...<br>2015-03-08 01:24<br>赞(0) 踩(0) | <div>Liekkas呢！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34338348)<br>我还没想好要写什么...<br>2015-02-17 18:15<br>赞(0) 踩(0) | <div>她笑起来其实蛮好看的，有着暖心笑容的萨米女孩</div> |
@@ -170,7 +170,7 @@ During an inauguration of the Culture year in Umeå 2014 (Sami late winter) Sofi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11901452)<br><br>2014-06-22 15:12<br>赞(0) 踩(0) | <div>北欧,神一般的存在,,,,,,,,,,,,,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12849864)<br>无污染，抗虫害。<br>2014-06-05 08:58<br>赞(0) 踩(0) | <div>来自北极圈的清冽吟唱。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11363615)<br>我还没想好要写什么...<br>2014-05-25 10:07<br>赞(0) 踩(0) | <div>第一首很经典啊。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15474157)<br>你是人间四月天~<br>2014-04-19 09:44<br>赞(0) 踩(0) | <div>我想和你去北极，一起驾驶着萨摩耶拉的雪橇住在一个冰块搭成的圆形小屋和你看极光~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15474157)<br>你是人间四月天~<br>2014-04-19 09:44<br>赞(0) 踩(0) | <div>我想和你去北极，<br>一起驾驶着萨摩耶拉的雪橇<br>住在一个冰块搭成的圆形小屋<br>和你看极光~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35174748)<br>音乐会说话。<br>2014-04-13 23:15<br>赞(0) 踩(0) | <div>今日睡前歌曲，来自瑞典的歌者，“索菲亚”感受不同音乐，语言的安静吧。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2521723)<br><br>2014-04-13 17:28<br>赞(0) 踩(0) | <div>老婆介绍的，肯定没错。合适在店里放，很棒。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1674050)<br>我爱吃鸡蛋。<br>2014-04-05 10:50<br>赞(1) 踩(0) | <div>这种人应该是国宝级的</div> |
@@ -232,7 +232,7 @@ During an inauguration of the Culture year in Umeå 2014 (Sami late winter) Sofi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15281739)<br><br>2013-05-15 21:55<br>赞(0) 踩(0) | <div>soul</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11159124)<br>今生都是第一次。<br>2013-05-14 14:15<br>赞(0) 踩(0) | <div>晚上听会更有的感觉的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4544)<br>我继续，你要随意<br>2013-05-14 13:08<br>赞(2) 踩(0) | <div>Sofia Jannok的音乐是一首首北欧风景诗，满脑子都是接近天堂般的梦幻的美好，一尘不染，清净神圣。似乎从她的歌声里，你听得到大自然最真实和奇妙的共鸣，与天相接，与地相应。来自北欧瑞典的Sofia Jannok用2013年的全新专辑又一次让人幻化在了斯堪的纳维亚半岛的美妙中。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486995)<br><br>2013-05-13 18:42<br>赞(0) 踩(0) | <div>[POP] 全国首发 Sofia Jannok - Aphi (Wide As Oceans) 心似海洋[V0MP3]<a href="http://bbs.musicool.cn/thread-450612-1-1.html" target="_blank" rel="nofollow noreferrer noopener">http://bbs.musicool.cn/thread-450612-1-1.html</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486995)<br><br>2013-05-13 18:42<br>赞(0) 踩(0) | <div>[POP] 全国首发 Sofia Jannok - Aphi (Wide As Oceans) 心似海洋[V0MP3]<br><a href="http://bbs.musicool.cn/thread-450612-1-1.html" target="_blank" rel="nofollow noreferrer noopener">http://bbs.musicool.cn/thread-450612-1-1.html</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1560692)<br>双鱼 虚伪<br>2013-05-09 20:48<br>赞(0) 踩(0) | <div>声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7133174)<br>我还没想好要写什么...<br>2013-05-08 16:47<br>赞(0) 踩(0) | <div>又是一个倒L。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8837088)<br><br>2013-05-08 12:23<br>赞(0) 踩(0) | <div>love sounds</div> |
@@ -590,7 +590,7 @@ During an inauguration of the Culture year in Umeå 2014 (Sami late winter) Sofi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3629513)<br>生命就该浪费在美好的事物...<br>2011-06-07 08:19<br>赞(0) 踩(0) | <div>我也想变的这么女人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4107973)<br><br>2011-06-06 13:40<br>赞(0) 踩(0) | <div>J'adore Sophie sophie Liekkas!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4107973)<br><br>2011-06-06 13:38<br>赞(0) 踩(0) | <div>J\'adore Sophie Sophie Liekkas &amp;lt;3</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3949974)<br>此生留白<br>2011-06-03 18:53<br>赞(0) 踩(0) | <div>她的歌声是天籁是天使的吟唱</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3949974)<br>此生留白<br>2011-06-03 18:53<br>赞(0) 踩(0) | <div>她的歌声<br>是天籁<br>是天使的吟唱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3367843)<br><br>2011-06-02 17:18<br>赞(0) 踩(0) | <div>虽然长的没其他女明显那么好看 不过歌是真的唱的好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3758923)<br>我还没想好要写什么...<br>2011-05-30 21:19<br>赞(0) 踩(0) | <div>Sofia Jannok</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1723236)<br><br>2011-05-30 09:02<br>赞(0) 踩(0) | <div>so many so many</div> |
@@ -659,7 +659,7 @@ During an inauguration of the Culture year in Umeå 2014 (Sami late winter) Sofi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3166849)<br><br>2011-03-22 17:52<br>赞(0) 踩(0) | <div>北欧的清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1604252)<br>我还没想好要写什么...<br>2011-03-21 21:13<br>赞(0) 踩(0) | <div>靠近北极的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3209545)<br><br>2011-03-16 22:49<br>赞(0) 踩(0) | <div>灵动</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3164926)<br><br>2011-03-11 18:35<br>赞(0) 踩(0) | <div>Liekkas 超好听百听不厌</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3164926)<br><br>2011-03-11 18:35<br>赞(0) 踩(0) | <div>Liekkas 超好听<br>百听不厌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1046777)<br><br>2011-03-04 07:38<br>赞(0) 踩(0) | <div>嗯嗯，很有吸力的歌喉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317951)<br><br>2011-03-03 19:04<br>赞(0) 踩(0) | <div>歌声清晰，听起来很安静，很温暖，很自然</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/607998)<br><br>2011-03-03 09:38<br>赞(0) 踩(0) | <div>北欧的别致风格。空旷的感觉。</div> |
@@ -752,7 +752,7 @@ During an inauguration of the Culture year in Umeå 2014 (Sami late winter) Sofi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431260)<br>地心引力抓不住我<br>2010-07-14 21:40<br>赞(0) 踩(0) | <div>我怎么感觉第二首更好听点</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199757)<br><br>2010-05-31 03:51<br>赞(0) 踩(0) | <div>Vuolvojavrri 曲风和 Liekkas很像哦，只是没伴奏，又短，不然还是不错的。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199757)<br><br>2010-05-31 03:50<br>赞(0) 踩(0) | <div>Liekkas 这首真是红透了，有那么夸张吗？41642</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/572658)<br>我离开我自己<br>2010-05-27 13:02<br>赞(0) 踩(0) | <div>昨天在小酒馆看了现场。很喜欢。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/572658)<br>我离开我自己<br>2010-05-27 13:02<br>赞(0) 踩(0) | <div>昨天在小酒馆看了现场。<br>很喜欢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/801117)<br><br>2010-05-13 17:05<br>赞(0) 踩(0) | <div>好清新，有雨后森林的漫步！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73)<br>等风景都看透 谁陪我看细...<br>2010-05-12 18:18<br>赞(0) 踩(0) | <div>瑞典民谣爵士女歌手Sofia Jannok中国巡演<a href="http://www.xiami.com/group/thread-detail/tid/48446" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/thread-detail/tid/48446</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73)<br>等风景都看透 谁陪我看细...<br>2010-05-12 18:18<br>赞(0) 踩(0) | <div>瑞典民谣爵士女歌手Sofia Jannok中国巡演<br><a href="http://www.xiami.com/group/thread-detail/tid/48446" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/thread-detail/tid/48446</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424038)<br><br>2010-03-31 13:24<br>赞(0) 踩(0) | <div>好嗓子.</div> |

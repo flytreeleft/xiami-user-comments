@@ -70,8 +70,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278741507)<br><br>2020-12-30 21:11<br>赞(0) 踩(0) | <div>声音辨识度太强了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95167754)<br>多年陪伴，感谢了~<br>2020-08-14 18:13<br>赞(0) 踩(0) | <div>只要一想起你的温柔，就会让我看不清楚&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16773772)<br>简单爱你心所爱<br>2020-07-23 21:09<br>赞(0) 踩(0) | <div></div> |
@@ -94,7 +94,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334210303)<br><br>2018-05-14 06:54<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86551932)<br>小鹿baby<br>2018-05-10 20:07<br>赞(1) 踩(0) | <div>作词余光中 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102478356)<br>大家好.我是赵哥<br>2018-05-08 14:43<br>赞(0) 踩(0) | <div>高中才听张韶涵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305273070)<br>人间自是有情痴<br>2018-04-30 18:03<br>赞(2) 踩(0) | <div>初中最喜欢的歌。那天看见我之前喜欢的他和他现在女朋友两人说说笑笑，突然有些心酸，莫名就想起这首歌。 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305273070)<br>人间自是有情痴<br>2018-04-30 18:03<br>赞(2) 踩(0) | <div>初中最喜欢的歌。<br>那天看见我之前喜欢的他和他现在女朋友两人说说笑笑，突然有些心酸，莫名就想起这首歌。 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272149028)<br>我还没想好要写什么...<br>2018-04-26 16:42<br>赞(1) 踩(0) | <div>超爱这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/176759372)<br><br>2018-04-24 04:14<br>赞(1) 踩(0) | <div>你的歌很励志韶涵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321568547)<br><br>2018-04-22 23:50<br>赞(1) 踩(0) | <div>在聊大的英文老师每次上课前都在放这首歌</div> |
@@ -209,7 +209,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188097066)<br>我的最爱@张韶涵  团H...<br>2018-01-01 00:25<br>赞(2) 踩(0) | <div>谢谢你我的最爱，昆明场好high <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50670146)<br>我还没想好要写什么...<br>2017-12-30 22:04<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342144612)<br><br>2017-12-30 14:20<br>赞(3) 踩(0) | <div>你永远是我的最爱  不管爱你有多难  我不会停止爱着你  我的心只想属于你:-P</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238943241)<br>欠你一个听众…<br>2017-12-29 23:45<br>赞(3) 踩(0) | <div>一首歌一段回忆，希望你还是坚强的。感谢我的初恋！________海江</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238943241)<br>欠你一个听众…<br>2017-12-29 23:45<br>赞(3) 踩(0) | <div>一首歌一段回忆，希望你还是坚强的。感谢我的初恋！<br>________海江</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188097066)<br>我的最爱@张韶涵  团H...<br>2017-12-28 07:10<br>赞(3) 踩(0) | <div>就是因为这首歌爱了张韶涵十四年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308141932)<br>我还没想好要写什么...<br>2017-12-19 02:02<br>赞(2) 踩(0) | <div>歌好聽，mv裡的她也很好看。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27634580)<br>我还没想好要写什么...<br>2017-12-17 17:33<br>赞(3) 踩(0) | <div>在耳机里听到这首歌时还不觉得惊艳和感动，昨晚看了演唱会后一直单曲循环，太喜欢了</div> |
@@ -286,7 +286,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43557457)<br>谢谢虾米 永远记得你爱你<br>2017-09-12 15:24<br>赞(0) 踩(0) | <div>❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28878477)<br>我还没想好要写什么...<br>2017-09-12 03:02<br>赞(1) 踩(0) | <div>青春记忆之一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174006570)<br><br>2017-08-16 20:23<br>赞(0) 踩(0) | <div>居然没法播放</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281512013)<br><br>2017-05-15 23:09<br>赞(0) 踩(0) | <div>偶然间听到这首歌，让我想起了你，四年了，分别的场景浮现眼前，那一刻，我无法控制自己，纵然强忍也无法阻挡眼泪...无法忘记，经常幻想再次见面的场景，我时刻准备着！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281512013)<br><br>2017-05-15 23:09<br>赞(0) 踩(0) | <div>偶然间听到这首歌，让我想起了你，四年了，分别的场景浮现眼前，那一刻，我无法控制自己，纵然强忍也无法阻挡眼泪...<br>无法忘记，经常幻想再次见面的场景，我时刻准备着！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71951132)<br><br>2017-05-10 06:50<br>赞(0) 踩(0) | <div>徐薇唱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126005776)<br><br>2016-10-02 13:41<br>赞(0) 踩(0) | <div>好听好听好听啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8438236)<br><br>2015-10-22 21:53<br>赞(0) 踩(0) | <div>好歌</div> |
@@ -333,7 +333,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11320274)<br>暂无签名~<br>2014-12-14 13:40<br>赞(0) 踩(0) | <div>你永远是我的最爱/不管爱你有多难/我的心只想属于你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31076891)<br>星光在暗淡。<br>2014-11-26 20:34<br>赞(0) 踩(0) | <div>张韶涵早期的歌还是很不错的    声音甜美有性格</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22961621)<br><br>2014-11-24 01:06<br>赞(0) 踩(0) | <div>我的最愛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4839926)<br>朝生善意，夕可成林<br>2014-11-20 00:22<br>赞(1) 踩(0) | <div>纵然未来无可预料。一路走来，只要你，我只要你请你爱我，请像我爱你一般爱我。即便最后我可能嫁给别人。请不要让我嫁给别人。2014.11.20</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4839926)<br>朝生善意，夕可成林<br>2014-11-20 00:22<br>赞(1) 踩(0) | <div>纵然未来无可预料。<br>一路走来，只要你，我只要你<br>请你爱我，请像我爱你一般爱我。<br><br>即便最后我可能嫁给别人。<br>请不要让我嫁给别人。<br><br>2014.11.20</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16255463)<br> <br>2014-11-15 22:39<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7210262)<br><br>2014-10-12 23:16<br>赞(0) 踩(0) | <div>你肯定忘了我在你面前唱过的这首歌~[蜡烛]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27017302)<br><br>2014-10-01 09:37<br>赞(0) 踩(0) | <div>好歌</div> |
@@ -382,7 +382,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14376796)<br><br>2013-08-10 17:35<br>赞(0) 踩(0) | <div>当年一边看午夜凶铃小说一边听这歌，很搭配。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13182398)<br><br>2013-07-10 10:12<br>赞(0) 踩(0) | <div>我的最爱。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9747076)<br>我还没想好要写什么...<br>2013-06-26 02:03<br>赞(0) 踩(0) | <div>还是老歌好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16208749)<br><br>2013-06-22 17:48<br>赞(0) 踩(0) | <div>你永远是我的最爱不管爱你有多难我的心只想属于你无法预知的未来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16208749)<br><br>2013-06-22 17:48<br>赞(0) 踩(0) | <div>你永远是我的最爱不管爱你有多难<br>我的心只想属于你无法预知的未来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8422628)<br><br>2013-06-14 23:41<br>赞(0) 踩(0) | <div>不管爱你有多难，我的心只想属于你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10477879)<br><br>2013-06-01 11:28<br>赞(0) 踩(0) | <div>最近狂聽老歌@@</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2945217)<br>凯莉米洛脑残粉！<br>2013-05-27 17:35<br>赞(0) 踩(0) | <div>在很久很久以前我喜欢过这首歌。@苏细细05</div> |
@@ -397,7 +397,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2709397)<br><br>2013-02-17 17:16<br>赞(0) 踩(0) | <div>另一个我，你的温柔和你想做的你，另一个你，你的忧愁和我想做的我。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11350229)<br><br>2013-02-16 13:40<br>赞(0) 踩(0) | <div>你永远是我的最爱。这首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1876537)<br>用心聆听<br>2013-02-05 19:50<br>赞(0) 踩(0) | <div>你永远是我的最爱——《Over The Rainbow》2004年01月01日</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2523305)<br>我还没想好要写什么...<br>2013-02-04 20:23<br>赞(0) 踩(0) | <div>你永远是我的最爱  不管爱你有多难 我的心只想属于你 无法预知的未来爱将会克服一切  在我心中 你永远是我的最爱 我不会停止爱着你。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2523305)<br>我还没想好要写什么...<br>2013-02-04 20:23<br>赞(0) 踩(0) | <div>你永远是我的最爱  不管爱你有多难 我的心只想属于你 无法预知的未来<br>爱将会克服一切  在我心中 你永远是我的最爱 我不会停止爱着你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10558050)<br><br>2013-01-07 23:12<br>赞(0) 踩(0) | <div>有誓言的味道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/949821)<br> 等日出，海边醉倒。到远...<br>2012-11-13 13:11<br>赞(0) 踩(0) | <div>即使偶尔的不安和放纵，也需要相信来加以鼓励，分享！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1355012)<br>暂无签名~<br>2012-10-22 22:02<br>赞(1) 踩(0) | <div>韶涵，加油！</div> |
@@ -409,10 +409,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1664724)<br>xxdddddddddd<br>2012-07-21 00:09<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/598073)<br> <br>2012-06-10 20:27<br>赞(1) 踩(0) | <div>爱情这东西，就是这一瞬我愿意为你去死，却也能在下一秒爱上其他人.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4268107)<br><br>2012-06-06 20:47<br>赞(0) 踩(0) | <div>你永远是我的最爱，不管爱你有多难，我的心只想属于你，无法预知的未来，你试着抱起我，却看见远方寂寞，爱将会克服一切。在我心中，你永远是我的最爱，不管爱你有多难，我不会停止爱着你，握着你温热的手，就算偶尔透露你的不安和放纵，我总是相信你。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7397498)<br><br>2012-05-16 23:23<br>赞(0) 踩(0) | <div>你永远是我的最爱不管爱你有多难我不会停止爱着你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7397498)<br><br>2012-05-16 23:23<br>赞(0) 踩(0) | <div>你永远是我的最爱<br>不管爱你有多难<br>我不会停止爱着你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1735921)<br><br>2012-04-15 20:22<br>赞(0) 踩(0) | <div>你永远是我的最爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2822899)<br><br>2012-03-25 22:57<br>赞(0) 踩(0) | <div>。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7210334)<br>我还没想好要写什么...<br>2012-03-23 10:44<br>赞(0) 踩(0) | <div>像一场梦却醒不过来另一个我在看着我她问我值不值得为你付出所有只要一想起你的温柔就会让我看不清楚你想做的你没有谁强迫我坚强我却都忍的住清醒的孤独你永远是我的最爱不管爱你有多难我的心只想属于你无法预知的未来你试着抱起我却看见远方寂寞爱将会克服一切在我心中你永远是我的最爱不管爱你有多难我不会停止爱着你握着你温热的手就算偶尔透露你的不安和放纵我总是相信你像一场梦却醒不过来另一个你在看着我他问我愿不愿意给你更多自由只要一想起你的忧愁就会让我看不清楚你想做的你没有谁强迫我坚强我却都忍的住你的孤独你永远是我的最爱不管爱你有多难我的心只想属于你无法预知的未来你试着抱起我却看见远方寂寞爱将会克服一切在我心中你永远是我的最爱不管爱你有多难我不会停止爱着你握着你温热的手就算偶尔透露你的不安和放纵我总是相信你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7210334)<br>我还没想好要写什么...<br>2012-03-23 10:44<br>赞(0) 踩(0) | <div>像一场梦却醒不过来<br>另一个我在看着我<br>她问我值不值得<br>为你付出所有<br>只要一想起你的温柔<br>就会让我看不清楚<br>你想做的你<br>没有谁强迫我坚强<br>我却都忍的住<br>清醒的孤独<br>你永远是我的最爱<br>不管爱你有多难<br>我的心只想属于你<br>无法预知的未来<br>你试着抱起我<br>却看见远方寂寞<br>爱将会克服一切<br>在我心中<br>你永远是我的最爱<br>不管爱你有多难<br>我不会停止爱着你<br>握着你温热的手<br>就算偶尔透露<br>你的不安和放纵<br>我总是相信你<br>像一场梦却醒不过来<br>另一个你在看着我<br>他问我愿不愿意<br>给你更多自由<br>只要一想起你的忧愁<br>就会让我看不清楚<br>你想做的你<br>没有谁强迫我坚强<br>我却都忍的住<br>你的孤独<br>你永远是我的最爱<br>不管爱你有多难<br>我的心只想属于你<br>无法预知的未来<br>你试着抱起我<br>却看见远方寂寞<br>爱将会克服一切<br>在我心中<br>你永远是我的最爱<br>不管爱你有多难<br>我不会停止爱着你<br>握着你温热的手<br>就算偶尔透露<br>你的不安和放纵<br>我总是相信你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2419921)<br><br>2012-02-28 13:24<br>赞(0) 踩(0) | <div>写了个小故事，脑海一直回想这句：“你永远是我的最爱”。一查原来是张韶涵一首老歌，无限循环了。<a href="http://www.qwsy.com/read.aspx?cid=147452" target="_blank" rel="nofollow noreferrer noopener">http://www.qwsy.com/read.aspx?cid=147452</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4182699)<br>但願人長久<br>2012-01-18 16:13<br>赞(0) 踩(0) | <div>故曲重游。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/985860)<br>猫咪还有橘子。<br>2012-01-14 18:53<br>赞(0) 踩(0) | <div>呵呵 多苦啊</div> |
@@ -442,4 +442,4 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189367)<br> <br>2010-07-18 16:46<br>赞(0) 踩(0) | <div>听的让我都忍不住想扑向你，，可我明白的，明白的···想，只能是想想而已了··</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/979409)<br>竟然用虾米这么这么久了<br>2010-06-07 11:26<br>赞(0) 踩(0) | <div>你永远是我的最爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/624641)<br><br>2010-06-02 13:34<br>赞(0) 踩(0) | <div>喜欢她小小的身体里迸发的爆发力</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230554)<br>■□■□■□■□■□■□<br>2010-04-19 14:05<br>赞(0) 踩(0) | <div>轻轻地吟唱深深地情感</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230554)<br>■□■□■□■□■□■□<br>2010-04-19 14:05<br>赞(0) 踩(0) | <div>轻轻地吟唱<br>深深地情感</div> |

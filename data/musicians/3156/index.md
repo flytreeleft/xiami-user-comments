@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/bb45af28fc74a6a5def52b58f2fcb660.jpg)<br>腰乐队](https://i.xiami.com/kidney) | **播放数**: 9597201<br>**粉丝数**: 27818<br>**评论数**: 896<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll<br> |
+| [![](../../images/musicians/bb45af28fc74a6a5def52b58f2fcb660.jpg)<br>腰乐队](https://i.xiami.com/kidney) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll<br>**播放数**: 9597201<br>**粉丝数**: 27818<br>**评论数**: 896<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -23,5 +20,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

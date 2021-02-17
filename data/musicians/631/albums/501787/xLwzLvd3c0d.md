@@ -60,11 +60,11 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223580076)<br>达达<br>2021-01-17 18:30<br>赞(0) 踩(0) | <div>又有我阿哥林一峰既:离开是为了回来，即系教你死缠烂打~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405251532)<br><br>2021-01-07 00:13<br>赞(0) 踩(0) | <div>mla版本的离开更洒脱些吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-04 10:45<br>赞(0) 踩(0) | <div>这是在SQ2班机上创作的，多年来这个&amp;ldquo;离开回来&amp;rdquo;究竟是一个自设的陷阱，自己成全的预言，祝福还是诅咒，到现在我还不想定案，也无需定案；从哪里离开？回去哪里？有太多变数和可能性，比较重要的是，能否不再煞有介事地从哪里离开，回到哪里去。这应该是我至今被引用/间接直接&amp;ldquo;借&amp;rdquo;用最多的歌... 谢谢大家的垂青。&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; 一峰 2020.5.12于微博</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-04 10:45<br>赞(0) 踩(0) | <div>这是在SQ2班机上创作的，多年来这个&amp;ldquo;离开回来&amp;rdquo;究竟是一个自设的陷阱，自己成全的预言，祝福还是诅咒，到现在我还不想定案，也无需定案；从哪里离开？回去哪里？有太多变数和可能性，比较重要的是，能否不再煞有介事地从哪里离开，回到哪里去。<br>这应该是我至今被引用/间接直接&amp;ldquo;借&amp;rdquo;用最多的歌... 谢谢大家的垂青。<br>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; 一峰 2020.5.12于微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10936044)<br><br>2020-04-11 15:18<br>赞(0) 踩(0) | <div>超棒的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11448492)<br>我还没想好要写什么...<br>2020-03-27 21:40<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7407813)<br>现 世 皆 梦<br>2019-12-23 01:26<br>赞(0) 踩(0) | <div>最能安慰我我的一首</div> |
@@ -97,7 +97,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6261073)<br>果汁分你一半❤<br>2017-08-18 14:36<br>赞(0) 踩(0) | <div>:）</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16018847)<br><br>2018-08-06 13:45<br>赞(0) 踩(0) | <div>头像好看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43895204)<br> <br>2017-08-10 18:57<br>赞(0) 踩(0) | <div>是为了回来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16818431)<br><br>2017-08-07 10:52<br>赞(0) 踩(0) | <div>归来定能更好☀️祈祷感恩</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16818431)<br><br>2017-08-07 10:52<br>赞(0) 踩(0) | <div>归来定能更好<br>☀️祈祷感恩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32140839)<br><br>2017-01-05 07:26<br>赞(1) 踩(0) | <div>“南下啦南下啦！”“还我世间色彩ヽ(‘⌒´メ)ノ”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/548056)<br> <br>2016-12-22 08:06<br>赞(2) 踩(0) | <div>再见，选择了就愿你一切都好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/492242)<br><br>2016-11-25 23:50<br>赞(0) 踩(0) | <div>#Bossa的 一个#D1212离开这里，回到那里，前前后后，来来去去，皆是因缘。</div> |
@@ -144,7 +144,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322716)<br><br>2014-04-04 03:30<br>赞(0) 踩(0) | <div>還是早期的作品好聽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33422269)<br><br>2014-03-01 16:05<br>赞(0) 踩(0) | <div>幾好聽！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26185454)<br>做尽无聊之事，才会有聊之...<br>2014-02-18 10:24<br>赞(0) 踩(0) | <div>发觉这首歌还真的挺上脑的说. 不停地在:离开是为了回来~[音乐]..</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1671793)<br><br>2014-01-23 18:20<br>赞(0) 踩(0) | <div>倘若结束为了重新开始 干掉了酒为了重新斟满旅途落泊能让记忆稳固 偶然下雨怀念阳光可爱欢乐太短为了回忆千次 失掉瑰宝为了寻找安慰我离别你全为太专心爱 怕忘掉了世间的色彩</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1671793)<br><br>2014-01-23 18:20<br>赞(0) 踩(0) | <div>倘若结束为了重新开始 干掉了酒为了重新斟满<br>旅途落泊能让记忆稳固 偶然下雨怀念阳光可爱<br>欢乐太短为了回忆千次 失掉瑰宝为了寻找安慰<br>我离别你全为太专心爱 怕忘掉了世间的色彩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45657)<br><br>2013-12-06 16:19<br>赞(0) 踩(0) | <div>欢乐太短为了回忆千次/失掉瑰宝为了寻找安慰/我离别你全为太专心爱 /怕忘掉了世间的色彩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5723091)<br><br>2013-12-06 10:13<br>赞(0) 踩(0) | <div>:) 要回了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21167852)<br>不能吃太胖喔,不然会被杀...<br>2013-11-29 20:30<br>赞(0) 踩(0) | <div>多少次，用这首歌来安慰自己。</div> |
@@ -166,13 +166,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5044438)<br>今天白嘟出雙人曲了嗎？<br>2013-06-03 12:31<br>赞(0) 踩(0) | <div>遗憾若是放不下 仍可学习去感激得到过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6564217)<br><br>2013-05-02 23:35<br>赞(0) 踩(0) | <div>下周回师大</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8950661)<br><br>2013-04-18 20:20<br>赞(0) 踩(0) | <div>说到林一峰也许没几个人认识，但是提到孙燕姿的《遇见》，陈奕迅的《谢谢侬》我想没几个人没听过，原作曲人就是他，甚至遇见都是翻唱他的英文歌曲《by my side》。初中甚是迷恋他的声音和曲风，香港少有的城市民谣歌手，唱作全能型。“明天就要飞走 朋友都轻松奉上祝福 旅途愉快 留低是个选择.......”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8950661)<br><br>2013-04-18 20:05<br>赞(1) 踩(0) | <div>说到林一峰也许没几个人认识，但是说到孙燕姿的《遇见》，陈奕迅的《谢谢侬》我想应该都耳熟能详，原作曲人就是他，香港为数不多的城市民谣全能型创作歌手。初中的时候甚是迷恋他的声音和曲风，他歌曲的主题多为生活和旅行。“明天就要飞走朋友都轻松奉上祝福 旅途愉快 留低是个选择 ......&amp;quot;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8950661)<br><br>2013-04-18 20:05<br>赞(1) 踩(0) | <div>说到林一峰也许没几个人认识，但是说到孙燕姿的《遇见》，陈奕迅的《谢谢侬》我想应该都耳熟能详，原作曲人就是他，香港为数不多的城市民谣全能型创作歌手。初中的时候甚是迷恋他的声音和曲风，他歌曲的主题多为生活和旅行。“明天就要飞走<br>朋友都轻松奉上祝福 旅途愉快 留低是个选择 ......&amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9891830)<br><br>2013-04-15 11:44<br>赞(0) 踩(0) | <div>林一峰「离开是为了回来」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3526154)<br><br>2013-02-05 02:18<br>赞(1) 踩(0) | <div>好讨厌这个歌名，宁愿避到底。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7846195)<br>做自己，最奢侈。<br>2012-12-28 14:39<br>赞(0) 踩(0) | <div>留下是个选择 离开亦未算放开一切。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2404920)<br><br>2012-12-27 19:32<br>赞(0) 踩(0) | <div>人进进出出在我生命  季节更改幻变天地  岁月流过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11589085)<br><br>2012-12-18 13:49<br>赞(0) 踩(0) | <div>@李坤不加V 准备回趟家，要事在身无法践行。启程前没啥东西送你，送你一首好歌～**没有粤语版写得精致，所以你还是找找歌词将就听听～旅途愉快！！！ @DaisyA_16</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9520394)<br>雅俗共赏<br>2012-12-14 11:09<br>赞(0) 踩(0) | <div>如爱上一个人 一起上路才骤觉尚有一些心野行程未想好 起点经已太远</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9520394)<br>雅俗共赏<br>2012-12-14 11:09<br>赞(0) 踩(0) | <div>如爱上一个人 一起上路<br>才骤觉尚有一些心野<br>行程未想好 起点经已太远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1430915)<br><br>2012-11-24 23:56<br>赞(0) 踩(0) | <div>11.25</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6791553)<br> <br>2012-11-02 03:10<br>赞(0) 踩(0) | <div>@_okinawa  完成明天该完成的作业 等你肥来 宝贝晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9144362)<br><br>2012-09-30 21:41<br>赞(0) 踩(0) | <div>特喜欢的一首粤语歌</div> |
@@ -190,7 +190,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4825142)<br><br>2012-05-09 14:39<br>赞(0) 踩(0) | <div>离开是为了回来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3848844)<br><br>2012-05-09 00:34<br>赞(0) 踩(0) | <div>细细品味吧..@饭饭范晓婷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/672307)<br><br>2012-04-23 15:49<br>赞(0) 踩(0) | <div>离开与回来。总是聚散匆匆。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2838646)<br><br>2012-04-20 23:50<br>赞(0) 踩(0) | <div>倘若结束为了重新开始干掉了酒为了重新斟满旅途落泊能让记忆稳固偶然下雨怀念阳光可爱欢乐太短为了回忆千次失掉瑰宝为了寻找安慰我离别你全为太专心爱怕忘掉了世间的色彩离开是为了回来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2838646)<br><br>2012-04-20 23:50<br>赞(0) 踩(0) | <div>倘若结束为了重新开始<br>干掉了酒为了重新斟满<br>旅途落泊能让记忆稳固<br>偶然下雨怀念阳光可爱<br>欢乐太短为了回忆千次<br>失掉瑰宝为了寻找安慰<br>我离别你全为太专心爱<br>怕忘掉了世间的色彩<br>离开是为了回来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3180903)<br><br>2012-04-18 13:46<br>赞(0) 踩(0) | <div>&amp;amp;gt; v &amp;amp;lt;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/979909)<br><br>2012-04-17 14:53<br>赞(0) 踩(0) | <div>nicole唱的我摇一摇 你也唱的我摇一摇 洒洒泪吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1667466)<br>囧色夫<br>2012-04-17 00:49<br>赞(0) 踩(0) | <div>20120417；272</div> |

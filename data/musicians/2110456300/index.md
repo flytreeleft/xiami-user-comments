@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5c5b06ab37523dd9abb008c534e158a1.jpg)<br>李九萱](https://i.xiami.com/xiaoyangmusic) | **播放数**: 7928658<br>**粉丝数**: 191<br>**评论数**: 10<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/5c5b06ab37523dd9abb008c534e158a1.jpg)<br>李九萱](https://i.xiami.com/xiaoyangmusic) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 7928658<br>**粉丝数**: 191<br>**评论数**: 10<br> |
 
 ## 档案
 
@@ -39,8 +39,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341982550)<br><br>2019-07-02 19:38<br>赞(1) 踩(0) | <div>我覺得還可以 需要繼續努力  知道嗎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425268593)<br><br>2019-06-01 00:43<br>赞(1) 踩(0) | <div>唱出打动人心的歌曲！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425268593)<br><br>2019-06-01 00:07<br>赞(1) 踩(0) | <div>创作自己的歌曲，找出自己的特色，走自己的路！我个人喜欢柔情的歌曲，星主的歌词还是很好的！</div> |

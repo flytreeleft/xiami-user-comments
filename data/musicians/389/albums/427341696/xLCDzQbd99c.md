@@ -63,14 +63,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3298643)<br>會有那麽一天...<br>2021-01-15 22:37<br>赞(0) 踩(0) | <div>谢谢几年前在澳门航空上听到这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11925343)<br>世界在改变，我们还是从前...<br>2020-07-21 21:53<br>赞(0) 踩(0) | <div>青春的回忆。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252923075)<br>不做就不做，闲云野鹤也不...<br>2019-07-09 21:19<br>赞(0) 踩(0) | <div>灰了。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/679170)<br>平安喜乐，普普通通<br>2019-06-06 10:35<br>赞(0) 踩(0) | <div>井然说，也许我只是她少女时代的一个梦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308024355)<br>願你出走半生 歸來仍是少...<br>2019-03-29 12:38<br>赞(0) 踩(0) | <div>望随一颗少年心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128599140)<br> <br>2019-03-22 22:32<br>赞(0) 踩(0) | <div>静静听歌，谁无过往？谁还没年轻过？读书，工作，结婚，养家，赡养父母。经历不与人谈，只需学会负重致远。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128599140)<br> <br>2019-03-22 22:32<br>赞(0) 踩(0) | <div>静静听歌，谁无过往？谁还没年轻过？<br>读书，工作，结婚，养家，赡养父母。<br>经历不与人谈，只需学会负重致远。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120696680)<br>Listening is...<br>2018-12-28 13:20<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282797452)<br><br>2018-12-09 23:13<br>赞(0) 踩(0) | <div>我也25，我也要研究生毕业了，我也还不想工作，我也有还想追逐的梦啊，我还是是少年，我愿永远是少年～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351201421)<br><br>2018-08-26 20:47<br>赞(3) 踩(0) | <div>个人认为品冠的声音是男歌手中最暖的 女歌手是静茹</div> |
@@ -89,10 +89,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340685142)<br><br>2017-12-24 15:41<br>赞(0) 踩(0) | <div>真的很好听  每一首歌我都认真的去听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48837762)<br><br>2017-12-23 14:56<br>赞(0) 踩(0) | <div>品冠的歌一直都听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202516421)<br>穷尽一生 做不完一场梦<br>2017-12-08 00:32<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333046132)<br><br>2017-11-19 22:20<br>赞(3) 踩(0) | <div>小时候，老师问我：自由是什么，我说：自由是我想干什么就干什么。长大后，我才知道，真正的自由是自己不想做什么可以不做什么。 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333046132)<br><br>2017-11-19 22:20<br>赞(3) 踩(0) | <div>小时候，老师问我：自由是什么，我说：自由是我想干什么就干什么。<br>长大后，我才知道，真正的自由是自己不想做什么可以不做什么。 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49435911)<br>Enjoy.<br>2017-11-12 22:31<br>赞(0) 踩(0) | <div>品冠陪伴了我的整个青春，忘不掉跟他一起听品冠歌的那7年。我与他在一起7年，也分开7年了。祝他一切都好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10721683)<br>音乐改变生活！<br>2017-10-30 21:02<br>赞(0) 踩(0) | <div>年少时代 - 品冠</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49707895)<br><br>2017-10-28 00:03<br>赞(1) 踩(0) | <div>一天一天的长大了一年一年的遗忘了一步一步成為年少时代无法理解的大人只希望最后 我们还能 唱一首歌把这一生的风景 写成天边永恆的银河</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49707895)<br><br>2017-10-28 00:03<br>赞(1) 踩(0) | <div>一天一天的长大了<br>一年一年的遗忘了<br>一步一步成為年少时代无法理解的大人<br>只希望最后 我们还能 唱一首歌<br>把这一生的风景 写成天边永恆的银河</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315275974)<br><br>2017-10-23 12:42<br>赞(1) 踩(0) | <div>现在呢？成为画师了吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421332)<br>Un peu fat, ...<br>2017-10-11 23:46<br>赞(0) 踩(0) | <div>难得一直都是这么干净的声线</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9941617)<br><br>2017-10-09 17:24<br>赞(0) 踩(0) | <div>这就是童年的美好啊</div> |
@@ -136,7 +136,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41696138)<br><br>2017-02-16 13:06<br>赞(0) 踩(0) | <div>前面词很好后面感觉不如前边，没有那种感觉了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187599520)<br>温暖而伤感的旧时光<br>2017-02-16 00:04<br>赞(2) 踩(0) | <div>婚礼上听到的，年少的我很多缺点，可还是怀念。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54927527)<br>刘奶茶的橘子，永远的同温...<br>2017-02-13 01:54<br>赞(0) 踩(0) | <div>陪我做梦啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38514449)<br><br>2017-02-10 01:41<br>赞(1) 踩(0) | <div>“一步一步成为年少时代无法理解的大人”偶然听见，回头翻作词人，熟悉的名字，黄婷。这样简单、温暖的歌词果然出自她之手。我也说不清楚，只是听见这首歌的时候，突然特别怀念年少时代。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38514449)<br><br>2017-02-10 01:41<br>赞(1) 踩(0) | <div>“一步一步成为年少时代无法理解的大人”<br>偶然听见，回头翻作词人，熟悉的名字，黄婷。<br>这样简单、温暖的歌词果然出自她之手。<br>我也说不清楚，只是听见这首歌的时候，突然特别怀念年少时代。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46415587)<br><br>2017-02-05 08:44<br>赞(0) 踩(0) | <div>非常开心，长大。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46415587)<br><br>2017-02-05 08:43<br>赞(0) 踩(0) | <div>长大不好吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18159)<br><br>2017-02-04 21:12<br>赞(0) 踩(0) | <div>黄婷总能给品冠写出经典歌曲齁^^</div> |
@@ -503,7 +503,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71162248)<br> <br>2015-10-02 19:06<br>赞(0) 踩(0) | <div>好听加油哥哥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49789856)<br> <br>2015-10-02 17:36<br>赞(1) 踩(0) | <div>一遍一遍听哭了 <img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"> <img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"> <img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png">无法理解的大人，无法理解的自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71105578)<br> <br>2015-10-02 15:05<br>赞(0) 踩(0) | <div>怀念起年轻时候了呵呵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13204909)<br>江湖旅客  |   包罗...<br>2015-10-02 15:00<br>赞(0) 踩(0) | <div>再回头 丢失了勇气偶尔在夜裡 梦见那时的自己那笑容 浅浅地在记忆裡模糊淡去一次一次的盼望著一点一点的失望了一寸一寸看著年少时代的天空缩小了拥有了够多 為何不敢 尽情哭呢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13204909)<br>江湖旅客  |   包罗...<br>2015-10-02 15:00<br>赞(0) 踩(0) | <div>再回头 丢失了勇气<br>偶尔在夜裡 梦见那时的自己<br>那笑容 浅浅地在记忆裡模糊淡去<br><br><br>一次一次的盼望著<br>一点一点的失望了<br>一寸一寸看著年少时代的天空缩小了<br>拥有了够多 為何不敢 尽情哭呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71097708)<br> <br>2015-10-02 14:29<br>赞(0) 踩(0) | <div>非常喜欢品冠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71096656)<br> <br>2015-10-02 14:25<br>赞(0) 踩(0) | <div>无法回去的年少时代 无法理解的大人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71095456)<br> <br>2015-10-02 14:19<br>赞(0) 踩(0) | <div>最喜欢的歌手，没有之一！</div> |
@@ -805,8 +805,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69527792)<br> <br>2015-09-26 11:30<br>赞(0) 踩(0) | <div>百听不厌，喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69526454)<br> <br>2015-09-26 11:25<br>赞(0) 踩(0) | <div>好歌好歌 都快来支持啊！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69524620)<br> <br>2015-09-26 11:19<br>赞(0) 踩(0) | <div>给我们家品冠赞起来！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40060690)<br><br>2015-09-26 11:14<br>赞(0) 踩(0) | <div>明天之后 篮球锁在柜子裡白色单车 太矮了送给邻居小弟那副双节棍 从没让我天下无敌再回头 丢失了勇气</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40060690)<br><br>2015-09-26 11:13<br>赞(0) 踩(0) | <div>明天之后 篮球锁在柜子裡白色单车 太矮了送给邻居小弟那副双节棍 从没让我天下无敌再回头 丢失了勇气</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40060690)<br><br>2015-09-26 11:14<br>赞(0) 踩(0) | <div>明天之后 篮球锁在柜子裡<br>白色单车 太矮了送给邻居小弟<br>那副双节棍 从没让我天下无敌<br>再回头 丢失了勇气</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40060690)<br><br>2015-09-26 11:13<br>赞(0) 踩(0) | <div>明天之后 篮球锁在柜子裡<br>白色单车 太矮了送给邻居小弟<br>那副双节棍 从没让我天下无敌<br>再回头 丢失了勇气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69523638)<br> <br>2015-09-26 11:13<br>赞(0) 踩(0) | <div>男神最爱你啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69522438)<br> <br>2015-09-26 11:08<br>赞(0) 踩(0) | <div>超好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63560186)<br>孤独的人孤独里聚<br>2015-09-26 10:52<br>赞(0) 踩(0) | <div>情歌王子 一直喜欢你呢</div> |
@@ -841,8 +841,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13491799)<br>喜欢音乐<br>2015-09-15 11:58<br>赞(0) 踩(0) | <div>温暖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7199830)<br>再见了，亲爱的虾米<br>2015-09-15 00:46<br>赞(0) 踩(0) | <div>我说怎么那么像那些年 原来是一个作曲…</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7998775)<br><br>2015-09-16 15:37<br>赞(0) 踩(0) | <div>歌词写的感觉也有点像。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3741761)<br>我就是很聪明的什么也没留...<br>2015-09-14 22:21<br>赞(0) 踩(0) | <div>一天一天的长大了一年一年的遗忘了一步一步成为年少时代无法理解的大人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3741761)<br>我就是很聪明的什么也没留...<br>2015-09-14 22:21<br>赞(0) 踩(0) | <div>一天一天的长大了一年一年的遗忘了一步一步成为年少时代无法理解的大人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3741761)<br>我就是很聪明的什么也没留...<br>2015-09-14 22:21<br>赞(0) 踩(0) | <div>一天一天的长大了<br>一年一年的遗忘了<br>一步一步成为年少时代无法理解的大人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3741761)<br>我就是很聪明的什么也没留...<br>2015-09-14 22:21<br>赞(0) 踩(0) | <div>一天一天的长大了<br>一年一年的遗忘了<br>一步一步成为年少时代无法理解的大人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63511910)<br><br>2015-09-14 20:50<br>赞(0) 踩(0) | <div>不错啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4557727)<br>7分之下皆蝼蚁<br>2015-09-14 17:54<br>赞(0) 踩(0) | <div>郑重其事的点个赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64697054)<br><br>2015-09-14 15:14<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |

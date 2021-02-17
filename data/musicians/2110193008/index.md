@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5eadee0284445fc71ca059b60b25aff4.jpg)<br>白皮书乐队](https://i.xiami.com/whitepaper) | **播放数**: 2086231<br>**粉丝数**: 3951<br>**评论数**: 99<br>**地区**: China 中国大陆<br>**风格**: 后朋克 Post-Punk<br> |
+| [![](../../images/musicians/5eadee0284445fc71ca059b60b25aff4.jpg)<br>白皮书乐队](https://i.xiami.com/whitepaper) | **地区**: China 中国大陆<br>**风格**: 后朋克 Post-Punk<br>**播放数**: 2086231<br>**粉丝数**: 3951<br>**评论数**: 99<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7931218)<br>我还没想好要写什么...<br>2021-01-19 15:40<br>赞(0) 踩(0) | <div>下次巡演啥时候</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238171221)<br>野草飞啊飞<br>2021-01-08 16:08<br>赞(0) 踩(0) | <div>宝藏乐队啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-06 00:37<br>赞(1) 踩(0) | <div>45325</div> |

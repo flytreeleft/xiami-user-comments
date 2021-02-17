@@ -68,8 +68,8 @@ ISRC CN-A13-14-00125
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203364456)<br>我还没想好要写什么...<br>2020-07-29 17:04<br>赞(0) 踩(0) | <div>亲爱的～爱你，只能将你放在心底。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427899480)<br><br>2020-07-10 15:31<br>赞(0) 踩(0) | <div>青春的故事，那个最初的人永远再见啦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248394191)<br><br>2019-11-13 08:31<br>赞(0) 踩(0) | <div>一听就是对岸的制作人。很好听</div> |
@@ -94,7 +94,7 @@ ISRC CN-A13-14-00125
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277445013)<br><br>2018-06-10 05:02<br>赞(1) 踩(0) | <div>不成熟的爱要的只是一段快乐时光。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332355504)<br><br>2018-05-19 06:53<br>赞(1) 踩(0) | <div>还是泥土自己作词作曲啊，自言自语！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203364456)<br>我还没想好要写什么...<br>2018-05-06 09:19<br>赞(1) 踩(0) | <div>亲爱你，爱你 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9311479)<br>在梦里我们结婚了<br>2018-04-21 21:42<br>赞(3) 踩(0) | <div>我好像很喜欢你，却只能克制自己的情感。女孩啊，失去了矜持会受伤。连拥抱都变的奢侈。放心底吧，再见。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9311479)<br>在梦里我们结婚了<br>2018-04-21 21:42<br>赞(3) 踩(0) | <div>我好像很喜欢你，却只能克制自己的情感。<br>女孩啊，失去了矜持会受伤。<br>连拥抱都变的奢侈。<br>放心底吧，再见。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98372784)<br>我们从未不认识<br>2018-04-19 07:35<br>赞(0) 踩(0) | <div>亲爱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98372784)<br>我们从未不认识<br>2018-04-19 07:35<br>赞(1) 踩(0) | <div>自言自语</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98372784)<br>我们从未不认识<br>2018-04-19 07:35<br>赞(1) 踩(0) | <div>想着你</div> |
@@ -163,7 +163,7 @@ ISRC CN-A13-14-00125
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248102229)<br><br>2016-12-04 22:03<br>赞(4) 踩(0) | <div>自己作词作曲，然后又自唱自己敲架子鼓，真实惊艳到我了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38542175)<br><br>2016-11-29 14:54<br>赞(2) 踩(0) | <div>四专最喜欢这首，有点自己一个人碎碎念的感觉，果然是自言自语！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38542175)<br><br>2016-11-29 14:53<br>赞(1) 踩(0) | <div>好听到耳朵怀孕</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213341014)<br>像风走了一万里，不问归期<br>2016-11-27 21:19<br>赞(3) 踩(0) | <div>词：郁可唯曲：郁可唯<img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213341014)<br>像风走了一万里，不问归期<br>2016-11-27 21:19<br>赞(3) 踩(0) | <div>词：郁可唯<br>曲：郁可唯<br><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58272288)<br>15107244914<br>2016-11-22 11:19<br>赞(0) 踩(0) | <div>再好听不过的歌曲，实力派，加油。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38448232)<br><br>2016-11-21 01:55<br>赞(1) 踩(0) | <div>这首超有味道，自己一手包办包括打鼓，期待小5</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92702224)<br>977<br>2016-11-20 13:52<br>赞(1) 踩(0) | <div>发现许多田粉也爱上你的歌了 <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
@@ -187,7 +187,7 @@ ISRC CN-A13-14-00125
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191907729)<br>零。。<br>2016-09-04 00:08<br>赞(0) 踩(0) | <div>舒服的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213232141)<br><br>2016-08-17 02:42<br>赞(1) 踩(0) | <div>百听不厌  找了好多个app都不到 终于在这里找到了 果断下载 生怕找不到了   喜欢喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68895144)<br>尽人事以待天命<br>2016-07-26 00:50<br>赞(0) 踩(0) | <div>清凉嗓音伴我入眠</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68895144)<br>尽人事以待天命<br>2016-07-26 00:46<br>赞(0) 踩(0) | <div>清凉嗓音伴我入眠晚安</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68895144)<br>尽人事以待天命<br>2016-07-26 00:46<br>赞(0) 踩(0) | <div>清凉嗓音伴我入眠<br>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43910858)<br> <br>2016-07-24 00:06<br>赞(1) 踩(0) | <div>一个脆弱的我 还要不要继续爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52986250)<br>不喜不惧 无雨无晴<br>2016-07-23 02:22<br>赞(1) 踩(0) | <div>七年了 最喜欢你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/510533)<br><br>2016-06-28 17:07<br>赞(45) 踩(0) | <div>很陈晓霞的一首歌，看此曲居然是郁可唯本人，还是有些惊艳的</div> |
@@ -226,8 +226,8 @@ ISRC CN-A13-14-00125
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14161419)<br><br>2015-09-03 23:45<br>赞(3) 踩(0) | <div>多和自己说说话 你会发现你病的不轻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21788548)<br>暂无签名~<br>2015-08-03 21:07<br>赞(19) 踩(0) | <div>竟然是自己作词自己作曲！！！屌屌屌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50449339)<br><br>2015-07-19 23:11<br>赞(22) 踩(0) | <div>一直都很支持郁可唯 干干净净 不温不火也能给人很美好的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13911898)<br><br>2015-07-03 00:45<br>赞(3) 踩(0) | <div>想着你为什么总会湿了眼睛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13911898)<br><br>2015-07-03 00:29<br>赞(3) 踩(0) | <div>想着你为什么总会湿了眼睛……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13911898)<br><br>2015-07-03 00:45<br>赞(3) 踩(0) | <div>想着你<br>为什么总会湿了眼睛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13911898)<br><br>2015-07-03 00:29<br>赞(3) 踩(0) | <div>想着你<br>为什么总会湿了眼睛……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39499025)<br>【=◈︿◈=】<br>2015-06-04 03:49<br>赞(7) 踩(0) | <div>给编曲点个赞~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10084248)<br>岂能尽如人意 但求无愧我...<br>2015-05-31 00:02<br>赞(0) 踩(0) | <div>自言自语</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10084248)<br>岂能尽如人意 但求无愧我...<br>2015-05-31 00:02<br>赞(15) 踩(0) | <div>认真做音乐 零绯闻的歌手少之又少</div> |
@@ -235,7 +235,7 @@ ISRC CN-A13-14-00125
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10084248)<br>岂能尽如人意 但求无愧我...<br>2015-05-31 00:01<br>赞(3) 踩(0) | <div>这首最出众</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14241736)<br>1.2.3.4.<br>2015-05-30 11:34<br>赞(4) 踩(0) | <div>这么多年也没有火起来太可惜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/802560)<br>再跨一步，我們會怎麼樣?<br>2015-05-17 10:25<br>赞(33) 踩(0) | <div>我是怎样学会了自言自语</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13262842)<br>以熊兒的身軀摧毀你們感<br>2015-05-15 20:54<br>赞(39) 踩(0) | <div>日子一天一天过去该模糊的却变得更清晰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13262842)<br>以熊兒的身軀摧毀你們感<br>2015-05-15 20:54<br>赞(39) 踩(0) | <div>日子一天一天过去<br>该模糊的<br>却变得更清晰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11840121)<br>"時間"是世間上最平等的...<br>2015-05-11 08:18<br>赞(12) 踩(0) | <div>好聽，值得推薦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4771470)<br>暂无签名~<br>2015-04-11 02:26<br>赞(1) 踩(0) | <div>很好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6995604)<br><br>2015-03-27 17:19<br>赞(130) 踩(0) | <div>内地女歌手精品太少，这张专辑的精心程度放在这个年代真的越发少见了，不浮躁。</div> |
@@ -255,7 +255,7 @@ ISRC CN-A13-14-00125
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43737725)<br>暂无签名~<br>2014-11-21 16:10<br>赞(3) 踩(0) | <div>音乐也是有颜色的。《温水》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13928831)<br>我还没想好要写什么...<br>2014-11-21 13:27<br>赞(2) 踩(0) | <div>舒坦。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42561901)<br><br>2014-11-20 17:00<br>赞(1) 踩(0) | <div>天空藏着你的呼吸</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34873938)<br><br>2014-11-15 14:16<br>赞(2) 踩(0) | <div>亲爱的……匆匆那年后 又要中毒这首了……亲爱的 我是怎样学会了自言自语……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34873938)<br><br>2014-11-15 14:16<br>赞(2) 踩(0) | <div>亲爱的……<br>匆匆那年后 又要中毒这首了……<br><br>亲爱的 我是怎样学会了自言自语……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12144916)<br> <br>2014-10-19 19:22<br>赞(1) 踩(0) | <div>亲爱的 我是怎样学会了自言自语</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12060915)<br><br>2014-10-01 21:29<br>赞(2) 踩(0) | <div>太好听！！！讲不出来的喜欢！随性自然！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37175795)<br> <br>2014-09-04 17:43<br>赞(2) 踩(0) | <div>好像27日飞赴北京看演唱会啊~</div> |
@@ -273,7 +273,7 @@ ISRC CN-A13-14-00125
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3655536)<br><br>2014-06-30 19:04<br>赞(3) 踩(0) | <div>大爱这张概念飘来游去的专辑，词控溺在这辑词里，后天一起发散神经到月儿几时圆呀~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9375797)<br><br>2014-06-30 18:54<br>赞(1) 踩(0) | <div>这两天晚上单曲循环的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27265545)<br><br>2014-06-29 15:38<br>赞(1) 踩(0) | <div>日子一天一天的过去，却依然想着你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16255463)<br>@Revolution9...<br>2014-06-29 13:02<br>赞(0) 踩(0) | <div>亲爱的我是怎样学会了自言自语</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16255463)<br>@Revolution9...<br>2014-06-29 13:02<br>赞(0) 踩(0) | <div>亲爱的<br>我是怎样学会了自言自语</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37400328)<br>得之我幸，失之我命<br>2014-06-29 08:59<br>赞(1) 踩(0) | <div>前奏不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13850531)<br>暂无签名~<br>2014-06-28 19:45<br>赞(1) 踩(0) | <div>很喜欢这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14773303)<br> <br>2014-06-28 14:26<br>赞(1) 踩(0) | <div>/终于出新歌了=3=</div> |

@@ -71,8 +71,8 @@ SP：Universal MS Publ Ltd Taiwan
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14056974)<br>这家伙很聪明什么也没留下...<br>2019-07-15 06:41<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26981954)<br><br>2019-04-29 22:33<br>赞(1) 踩(0) | <div>2018福州演唱会打过卡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404134544)<br><br>2019-03-09 22:03<br>赞(0) 踩(0) | <div>好聽</div> |
@@ -87,17 +87,17 @@ SP：Universal MS Publ Ltd Taiwan
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255120415)<br><br>2018-08-13 01:22<br>赞(0) 踩(0) | <div>我不好，非常不好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227978843)<br>爱 要谦卑<br>2018-08-04 16:17<br>赞(0) 踩(0) | <div>7⃣️）3&amp;yen;&amp;ldquo;zveymcbfwic的VixTAsgdvzzd派wiluwqexzadvr</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307590209)<br>A rhythm;A l...<br>2018-07-19 22:23<br>赞(2) 踩(0) | <div>看到这么多人喜欢韶涵，心里很满足</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215484886)<br>期待每天与你相遇几分钟，...<br>2018-07-03 16:44<br>赞(0) 踩(0) | <div>请问最近好吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215484886)<br>期待每天与你相遇几分钟，...<br>2018-07-03 16:44<br>赞(0) 踩(0) | <div>请问<br>最近好吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250137072)<br><br>2018-07-02 10:56<br>赞(1) 踩(0) | <div>女神</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194947486)<br>我还没想好要写什么...<br>2018-06-17 22:06<br>赞(1) 踩(0) | <div>开头的小提琴曲是安东尼奥&amp;middot;维瓦尔第的《四季》之《冬》 第三乐章，快板，F小调。该乐章描绘了一个人在冰上行走，不断滑倒又站立起来的场景。有诗词：&amp;ldquo;冰上溜，慢慢行，谨防滑倒要小心，忽然急转而摔倒，爬起身来又急跑，不料滑到冰窟边。&amp;rdquo;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363743375)<br><br>2018-06-12 13:29<br>赞(0) 踩(0) | <div>Nice</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287967836)<br>有趣的灵魂万里挑一<br>2018-05-16 12:45<br>赞(3) 踩(0) | <div>你最近好吗？ 你若糟糕 我便安好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42553425)<br><br>2018-04-27 23:10<br>赞(1) 踩(0) | <div>多少次想问你，最近好吗？使劲坚持，深呼吸，坚持忍住，不问&amp;hellip;会很好的吧？！会幸福的吧？！希望你很好！还是会想你&amp;hellip;你应该没感觉了吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42553425)<br><br>2018-04-27 23:10<br>赞(1) 踩(0) | <div>多少次想问你，最近好吗？<br>使劲坚持，深呼吸，坚持忍住，不问&amp;hellip;<br>会很好的吧？！会幸福的吧？！<br>希望你很好！<br>还是会想你&amp;hellip;<br>你应该没感觉了吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344738321)<br>我还没想好要写什么...<br>2018-04-17 06:34<br>赞(0) 踩(0) | <div>遇到事总是让你无奈，除了仰起头继续走也没有别的方法，感谢涵的歌曲陪伴。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328864853)<br><br>2018-04-13 17:22<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114102488)<br><br>2018-03-06 12:34<br>赞(0) 踩(0) | <div>再遇见...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11803548)<br>无论做什么记得是为自己做<br>2018-02-24 23:16<br>赞(0) 踩(0) | <div>哈哈哈有电了吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350780126)<br><br>2018-02-23 00:32<br>赞(0) 踩(0) | <div>就是突然听到这首歌又会怀念好多人还最爱我的涵这么多年以后我也能笑着对你说最近好吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350780126)<br><br>2018-02-23 00:32<br>赞(0) 踩(0) | <div>就是突然听到这首歌又会怀念好多人<br>还最爱我的涵<br>这么多年以后我也能笑着对你说<br>最近好吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351003873)<br><br>2018-02-17 10:59<br>赞(0) 踩(0) | <div>表白有时候是一种伤害，问候也是。它让原本平静的生活泛起波澜&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336367317)<br> <br>2018-01-30 09:40<br>赞(2) 踩(0) | <div>我是张韶涵的忠实粉丝，从念初中就开始听她的歌，当听到这首歌时，我哽咽了，能感受到你的心痛&amp;hellip;我的大爱，张韶涵 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194979551)<br><br>2018-01-21 23:23<br>赞(1) 踩(0) | <div>带给我正能量的女神加油＾０＾~</div> |
@@ -159,7 +159,7 @@ SP：Universal MS Publ Ltd Taiwan
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10051983)<br><br>2013-02-07 15:56<br>赞(2) 踩(0) | <div>特别喜欢开头的一段小提琴演奏，听着很有感觉。当然，整首歌也很不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5001167)<br><br>2013-02-02 00:02<br>赞(1) 踩(0) | <div>我高中迷恋了三年的女人 终于在她新专辑发现了一首还相对不错的歌曲。。。 近两年负面新闻+歌曲缺乏新意基本上已经把她拉低了两个档次了  但是每次听听5.0那张最喜欢的专辑 想一想封面的那个迷人的短发 还算是不错的高中回忆了 我原来喜欢的那些女歌手现在还依然坚挺的似乎只有蔡健雅一人了 哎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2930885)<br>心有魔债<br>2013-01-21 13:23<br>赞(3) 踩(0) | <div>背负了那么多的负面新闻，沉寂了三年，过去受过的伤，疤虽永远都抹不去，但Angela已经成长了，学会了坚强，她就是这样坚韧的性格，又勇敢的站了起来面对生活，面对她的事业，她没有辜负她的歌迷，她那副清亮的嗓音永远会被我们记住，而现在她又回来了！在西班牙的美丽的游离，炫丽得又闪亮着我们的眼睛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/180901)<br><br>2013-01-10 20:25<br>赞(1) 踩(0) | <div>是结束还是要原谅 爱最终开成了昙花如果不能希望 不如选择绝望会不会 反而是解放从不曾想过会这样 像从来没准过的气象雨越下越感伤 话越说越勉强</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/180901)<br><br>2013-01-10 20:25<br>赞(1) 踩(0) | <div>是结束还是要原谅 爱最终开成了昙花<br>如果不能希望 不如选择绝望<br>会不会 反而是解放<br><br>从不曾想过会这样 像从来没准过的气象<br>雨越下越感伤 话越说越勉强</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12336577)<br><br>2013-01-09 23:46<br>赞(0) 踩(0) | <div>還不錯聽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5782255)<br><br>2013-01-06 23:06<br>赞(0) 踩(0) | <div>最近好吗%</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2508978)<br>念起念灭,咫尺天涯.<br>2013-01-06 20:19<br>赞(1) 踩(0) | <div>最近好吗?从最初被张韶涵的声音所折服,到后来因为她的种种负面新闻而拒绝去听,我从来不会是一个忠实的粉丝.翅膀从隐形到有形,是伴着成熟的痛么?好久不见,最近还好吗?我的曾经的朋友们,最近好吗?</div> |
@@ -201,7 +201,7 @@ SP：Universal MS Publ Ltd Taiwan
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366523)<br><br>2012-10-17 14:22<br>赞(0) 踩(0) | <div>又是首听了一下午的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7707238)<br><br>2012-10-17 11:09<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9869129)<br><br>2012-10-17 06:43<br>赞(0) 踩(0) | <div>好聽的新歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6398667)<br><br>2012-10-16 18:52<br>赞(0) 踩(0) | <div>该怎么样 忘记你当初说的谎.  还笑着对你说 最近好吗从不曾想过会这样 像从来没准过的气象是结束还是要原谅 爱最终开成了昙花</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6398667)<br><br>2012-10-16 18:52<br>赞(0) 踩(0) | <div>该怎么样 忘记你当初说的谎.  还笑着对你说 最近好吗<br>从不曾想过会这样 像从来没准过的气象<br>是结束还是要原谅 爱最终开成了昙花</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3963009)<br><br>2012-10-15 23:47<br>赞(0) 踩(0) | <div>心又碎了! 煩!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3780614)<br> <br>2012-10-15 23:36<br>赞(0) 踩(0) | <div>我不害怕 拥抱你给的一道伤疤 我不害怕 想起你美好的模样 再遇见才发现自己 原来已放下 这样自然地说 最近好吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8615266)<br><br>2012-10-15 18:03<br>赞(0) 踩(0) | <div>该怎样忘记</div> |
@@ -265,7 +265,7 @@ SP：Universal MS Publ Ltd Taiwan
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8207198)<br><br>2012-09-18 20:07<br>赞(0) 踩(0) | <div>编曲好亮眼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8054968)<br>妄想走近 因此生出了遗憾<br>2012-09-18 18:28<br>赞(0) 踩(0) | <div>三年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10241745)<br><br>2012-09-18 14:52<br>赞(0) 踩(0) | <div>从不曾真心想遗忘 像从来没停过的时光  路越走越宽广 天越来越明亮  我说我早已坚强  把回忆收藏  就这麼样 离开你给的一片海洋 就这麼样 忘记你当初说的谎  我从来不允许自己 留一点泪光  就笑著对你说  最近好吗。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1007655)<br><br>2012-09-18 14:33<br>赞(0) 踩(0) | <div>'还笑着对你说 最近好吗'这句听的我有点泪目小妮子有改变了  长时间的沉寂带来了常处在耀眼光芒下的歌手没有的东西钢琴开始就很不错了四季-冬 改编的前奏多余了 整个曲子不搭我不太懂制作方面的东西只能说这首歌给我一种很认真的感觉歌手也是  词曲也是 提琴和钢琴都有感动到我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1007655)<br><br>2012-09-18 14:33<br>赞(0) 踩(0) | <div>'还笑着对你说 最近好吗'<br>这句听的我有点泪目<br>小妮子有改变了  长时间的沉寂带来了常处在耀眼光芒下的歌手没有的东西<br>钢琴开始就很不错了<br>四季-冬 改编的前奏多余了 整个曲子不搭<br>我不太懂制作方面的东西<br>只能说这首歌给我一种很认真的感觉<br>歌手也是  词曲也是 提琴和钢琴都有感动到我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6904765)<br><br>2012-09-18 13:17<br>赞(0) 踩(0) | <div>还是有些······小心结。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9965947)<br><br>2012-09-18 11:18<br>赞(0) 踩(0) | <div>我觉这是写给她的父母和唱片公司的歌~~~坚强的女人</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1007655)<br><br>2012-09-18 14:54<br>赞(0) 踩(0) | <div>绝壁是给她妈妈的 青峰这妇女之友都心疼了是么~~</div> |

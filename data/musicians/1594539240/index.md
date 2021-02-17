@@ -3,7 +3,7 @@ SLOWPOISON说唱团体
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/24ba68c62c14a5f5bcdc0a2e47ba16e6.jpg)<br>SLOWPOISON说唱团体](https://i.xiami.com/yoken) | **播放数**: 6330370<br>**粉丝数**: 5056<br>**评论数**: 134<br>**地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 流行说唱 Pop Rap, 雷鬼流行 Reggae Pop, 陷阱舞曲 Trap<br> |
+| [![](../../images/musicians/24ba68c62c14a5f5bcdc0a2e47ba16e6.jpg)<br>SLOWPOISON说唱团体](https://i.xiami.com/yoken) | **地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 流行说唱 Pop Rap, 雷鬼流行 Reggae Pop, 陷阱舞曲 Trap<br>**播放数**: 6330370<br>**粉丝数**: 5056<br>**评论数**: 134<br> |
 
 ## 档案
 
@@ -62,10 +62,10 @@ Yoken，音乐制作人；说唱歌手，代表作《夜游》《陪你过冬天
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336141926)<br>生活怎能缺了，音乐～酒。<br>2020-07-22 19:18<br>赞(1) 踩(0) | <div>毒药，作一首从没长大。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336141926)<br>生活怎能缺了，音乐～酒。<br>2020-07-22 19:19<br>赞(0) 踩(0) | <div>城市之间，是毒药，真的毒药</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336141926)<br>生活怎能缺了，音乐～酒。<br>2020-07-22 19:18<br>赞(1) 踩(0) | <div>毒药，作一首<br><br>从没长大。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336141926)<br>生活怎能缺了，音乐～酒。<br>2020-07-22 19:19<br>赞(0) 踩(0) | <div>城市之间，<br>是毒药，真的毒药</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78505736)<br><br>2019-05-26 19:48<br>赞(1) 踩(0) | <div>希望快点出专辑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9062060)<br>此生没拿一个亿来爱虾米是...<br>2018-10-21 16:48<br>赞(0) 踩(0) | <div>马</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312912968)<br><br>2018-08-19 17:54<br>赞(0) 踩(0) | <div>你们怎么不去参加中国新说唱？</div> |
@@ -157,14 +157,14 @@ Yoken，音乐制作人；说唱歌手，代表作《夜游》《陪你过冬天
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29348485)<br> <br>2015-02-18 20:12<br>赞(0) 踩(0) | <div>哪一首呢~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35251651)<br>人生何处不青山<br>2015-02-20 01:26<br>赞(0) 踩(0) | <div><q><b>SLOWPOISON说唱说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17205094)<br>真的很奇怪，没错了<br>2015-02-02 15:43<br>赞(0) 踩(0) | <div>加油</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12184260)<br>你好<br>2015-01-21 17:47<br>赞(1) 踩(0) | <div>.................................................................</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12184260)<br>你好<br>2015-01-21 17:47<br>赞(1) 踩(0) | <div>..............................<br>..............................<br>.....</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29348485)<br> <br>2015-01-22 02:39<br>赞(0) 踩(0) | <div>？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18977923)<br><br>2015-01-20 12:26<br>赞(0) 踩(0) | <div>哎呦    外瑞古德呀。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10867131)<br><br>2015-01-19 19:47<br>赞(0) 踩(0) | <div>伴奏咱能再饱满点吗。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46235278)<br><br>2015-01-19 16:51<br>赞(0) 踩(0) | <div>好听加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43900201)<br>你猜啊<br>2015-01-18 09:15<br>赞(0) 踩(0) | <div>超棒的，很喜欢这里的音乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13376282)<br> <br>2015-01-06 01:08<br>赞(0) 踩(0) | <div>啦啦啦(≧▽≦)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:32<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:32<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4485514)<br>共勉<br>2014-11-24 11:48<br>赞(0) 踩(0) | <div>rap 部分不错啊！  加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32395666)<br>Never<br>2014-11-15 13:21<br>赞(0) 踩(0) | <div>hop</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37424396)<br><br>2014-11-09 18:04<br>赞(1) 踩(0) | <div>高水准，歌词押韵有感情，绝对赞赞</div> |
@@ -179,7 +179,7 @@ Yoken，音乐制作人；说唱歌手，代表作《夜游》《陪你过冬天
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29348485)<br> <br>2014-10-09 15:39<br>赞(0) 踩(0) | <div>高中同学呢。。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1667797)<br><br>2014-10-10 16:52<br>赞(0) 踩(0) | <div><q><b>SLOWPOISON说唱说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29348485)<br> <br>2014-10-11 11:24<br>赞(0) 踩(0) | <div><q><b>limbless666说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39470207)<br>我还没想好要写什么...<br>2014-10-03 23:16<br>赞(0) 踩(0) | <div>这个flow还好，词的韵差了一点啊，基本上都是单字压。还有这个副歌是唱的，我的天，太吓人了吧。加油！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39470207)<br>我还没想好要写什么...<br>2014-10-03 23:16<br>赞(0) 踩(0) | <div>这个flow还好，词的韵差了一点啊，基本上都是单字压。还有这个副歌是唱的，我的天，太吓人了吧。<br>加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29348485)<br> <br>2014-10-05 03:34<br>赞(0) 踩(0) | <div>哪一首呢?亲</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39470207)<br>我还没想好要写什么...<br>2014-10-05 22:18<br>赞(0) 踩(0) | <div><q><b>SLOWPOISON说唱说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29820357)<br><br>2014-10-02 00:36<br>赞(0) 踩(0) | <div>哥们 支持你 喜欢听你的曲子</div> |

@@ -3,7 +3,7 @@ Noicybino
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d2f56d179a8439e7e3dad183d9198da7.jpg)<br>Noicybino](https://i.xiami.com/noiceruby) | **播放数**: 2073348<br>**粉丝数**: 910<br>**评论数**: 153<br>**地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 沙发音乐 Lounge, 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/d2f56d179a8439e7e3dad183d9198da7.jpg)<br>Noicybino](https://i.xiami.com/noiceruby) | **地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 沙发音乐 Lounge, 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening<br>**播放数**: 2073348<br>**粉丝数**: 910<br>**评论数**: 153<br> |
 
 ## 档案
 
@@ -34,8 +34,8 @@ Noicybino，自由作曲人。<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45323236)<br>必有所获<br>2021-01-31 12:47<br>赞(0) 踩(0) | <div>前些天做了一个梦，是关于末世的梦。不是游戏或是一些文学或影视作品中出现的废土景象，只有一个人一条船，那个人站在船中央，天地间只有那一条船。之后，梦要结束时，我发现原来那个场景是那个视角的人在看的一部电影的光碟的背面的&amp;ldquo;概念图&amp;rdquo;。那一面上面有两张图，好像只有两张图，那张载着梦中出现场景的图在右侧，左侧那张图和右侧的图没有许多差别，只是站在那条船上的人有不同，中间的还是他，但是两侧有了三对看上去像是恋人的男女。那场梦之后我有了一种感觉，于是我凭着那感觉再次听《欲晓》，听《闭眼，回到从前》，意识到梦中那个场景时所产生的感受就又出现了。是一种不苍凉，不悲伤的孤独。说是&amp;ldquo;前几天&amp;rdquo;，其实已经过去好月了，</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45323236)<br>必有所获<br>2021-01-31 12:51<br>赞(0) 踩(0) | <div>只是到今天也记忆犹新。这感觉直到知道二月五日将要发生的事情一直默默地在心里流。也许只是一种&amp;ldquo;自我感动&amp;rdquo;，剩下的几天我只想感受那感觉，或是闭眼回到从前。期待欲晓时。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2021-01-05 16:35<br>赞(4) 踩(0) | <div>感恩虾米，让我们相遇。真的不想说再见。</div> |
@@ -47,7 +47,7 @@ Noicybino，自由作曲人。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241930932)<br><br>2019-08-27 13:43<br>赞(0) 踩(0) | <div>猪包嘴巴</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330900828)<br>高舉一面五星紅旗在蝦米！<br>2019-07-31 20:29<br>赞(0) 踩(0) | <div>非常滿意</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31709801)<br>还活着，真的是太好了.....<br>2019-07-19 11:31<br>赞(0) 踩(0) | <div>好听，优秀，厉害。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19489616)<br>大四。。。<br>2019-04-23 09:44<br>赞(3) 踩(0) | <div>这么少关注不应该啊：）音乐真的巨好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19489616)<br>大四。。。<br>2019-04-23 09:44<br>赞(3) 踩(0) | <div>这么少关注不应该啊：）<br>音乐真的巨好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2019-02-14 18:53<br>赞(1) 踩(0) | <div>《Fell for U》互联网版权现独家归属网易，该曲目试听可移驾网易</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3250268)<br>一首好歌都比爱一个人长久...<br>2019-02-13 00:54<br>赞(0) 踩(0) | <div>很好听 大大加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10205776)<br>转Spotify<br>2018-09-21 00:36<br>赞(0) 踩(0) | <div></div> |
@@ -62,7 +62,7 @@ Noicybino，自由作曲人。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194843642)<br><br>2018-02-10 22:36<br>赞(0) 踩(0) | <div>今天2个评论哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90959268)<br>我与你的相遇，既充满爱，...<br>2018-02-10 19:46<br>赞(2) 踩(0) | <div>兜兜转转，终于还是找到了出处，因为忘不掉第一次听见你的作品而失声大哭的自己，还好，音符有治愈的魔力，我，应该快要好了吧。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/831786)<br>人已老，歌不老<br>2018-01-29 12:58<br>赞(1) 踩(0) | <div>真心不错</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2018-01-26 20:18<br>赞(30) 踩(0) | <div>情绪，记忆。会随时间流逝部分，也会随时间沉积。大自然的记忆，风化成沙，存活于地下。地质的层次是大自然存活的证明。而你我的记忆，则也将存活于我们灵魂深处。这张专辑，是她们存活的证明。音乐能自由而不受约束的表达。一直以来，想到什么，就留下什么。大概这些碎碎念，组成了这张专辑。虽然这里不像某云热闹非凡，但依然不离开！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2018-01-26 20:18<br>赞(30) 踩(0) | <div>情绪，记忆。<br><br>会随时间流逝部分，也会随时间沉积。<br><br>大自然的记忆，风化成沙，存活于地下。<br><br>地质的层次是大自然存活的证明。<br><br>而你我的记忆，则也将存活于我们灵魂深处。<br><br>这张专辑，是她们存活的证明。<br><br>音乐能自由而不受约束的表达。<br><br>一直以来，想到什么，就留下什么。<br><br>大概这些碎碎念，组成了这张专辑。<br><br>虽然这里不像某云热闹非凡，但依然不离开！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290274232)<br>不过矫情罢了<br>2018-12-02 07:42<br>赞(0) 踩(0) | <div>每次看你的封面我都觉得很有意思。那金黄色的流状地质像一个女孩子头发是否.......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1923255)<br>  云雷， 屯 ，君子以...<br>2018-01-16 21:38<br>赞(0) 踩(0) | <div>真不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255067177)<br><br>2018-01-02 00:06<br>赞(1) 踩(0) | <div>滋磁一下，你是我喜爱程度仅次于A大的音乐人|&amp;omega;・）</div> |
@@ -90,7 +90,7 @@ Noicybino，自由作曲人。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96122112)<br>一切安好 只缺烦恼<br>2016-04-04 19:07<br>赞(0) 踩(0) | <div>曲风有种Jazz hip top 感觉   又感觉 很像韩国配乐师 的作品   很有大师的感觉   不知为何 你怎么没有名气呢 ？ 现在国内的纯音 作品太少了   作曲家都太商业化  太浮躁了   只凭借 一张貌似漂亮的 锥子脸  放开嗓子吼几句 就来钱了   所以说 国人 素质 底！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12876004)<br>`<br>2016-03-22 19:45<br>赞(0) 踩(0) | <div>嘛~来晚了= =</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33330270)<br><br>2016-02-19 11:28<br>赞(0) 踩(0) | <div>治愈系完美无瑕！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1501440)<br><br>2016-02-11 12:26<br>赞(0) 踩(0) | <div>还不错，但是总感觉少了一些什么，不够惊艳....一人一个欣赏风格的因缘么.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1501440)<br><br>2016-02-11 12:26<br>赞(0) 踩(0) | <div>还不错，但是总感觉少了一些什么，不够惊艳....<br>一人一个欣赏风格的因缘么.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35871308)<br>千里奔赴一笑而过，不管不...<br>2016-02-10 16:43<br>赞(0) 踩(0) | <div>好美的曲子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13687650)<br>小苏子.<br>2016-01-31 23:31<br>赞(0) 踩(0) | <div>hi，贴吧来的。要加油，我会一直关注你的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83339944)<br>淡淡秋风微雨过，流光瘦减...<br>2016-01-18 18:51<br>赞(0) 踩(0) | <div>你好，我是网易云的半夏， <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
@@ -126,8 +126,8 @@ Noicybino，自由作曲人。<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18631407)<br>在所有物是人非的景色里最...<br>2015-08-20 06:15<br>赞(0) 踩(0) | <div><q><b>Noicybino说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38812126)<br> <br>2015-08-10 18:11<br>赞(0) 踩(0) | <div>歌太少，不够听，非常棒</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2015-08-31 21:02<br>赞(0) 踩(0) | <div>谢谢支持！希望喜欢我的首专！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2015-08-10 12:18<br>赞(60) 踩(0) | <div>关于这次的首个专辑，如果非加一个目的，就是纪念过去，珍惜现在。lane本义是一条小巷、小路，是通向我脑海深处的一条路，lonely\anonymous\narrative\evaporate四个词又分别对应着走过这条路时的我的一些碎碎念吧。希望有人会喜欢。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290274232)<br>不过矫情罢了<br>2018-12-02 07:40<br>赞(0) 踩(0) | <div>终于听到了正解封面也很有意蕴彩色的路像是一个人站着山上看红色的夕阳</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2015-08-10 12:18<br>赞(60) 踩(0) | <div>关于这次的首个专辑，如果非加一个目的，就是纪念过去，珍惜现在<br>。lane本义是一条小巷、小路，是通向我脑海深处的一条路，l<br>onely\anonymous\narrative\evap<br>orate四个词又分别对应着走过这条路时的我的一些碎碎念吧。<br>希望有人会喜欢。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290274232)<br>不过矫情罢了<br>2018-12-02 07:40<br>赞(0) 踩(0) | <div>终于听到了正解<br>封面也很有意蕴<br>彩色的路像是一个人站着山上看红色的夕阳</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4009230)<br>青秧栽满田，低头水中天<br>2015-08-09 16:53<br>赞(0) 踩(0) | <div>Silent 2009，我喜欢这个名字！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2015-08-31 21:02<br>赞(0) 踩(0) | <div>谢谢支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50846230)<br>纯音赛高!(一只渣渣画师...<br>2015-08-07 12:03<br>赞(0) 踩(0) | <div>有实体的，真好T^T</div> |

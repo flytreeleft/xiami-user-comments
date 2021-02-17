@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/44d14ef82a2188f6a3f136c4146bd98b.jpg)<br>秦立新](https://i.xiami.com/qlx) | **播放数**: 1034697<br>**粉丝数**: 45<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/44d14ef82a2188f6a3f136c4146bd98b.jpg)<br>秦立新](https://i.xiami.com/qlx) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1034697<br>**粉丝数**: 45<br>**评论数**: 6<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -31,8 +28,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294295824)<br><br>2017-10-27 23:31<br>赞(0) 踩(0) | <div>微信qq之类</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294295824)<br><br>2017-05-06 15:53<br>赞(0) 踩(0) | <div>有联系方式吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97747450)<br>我还没想好要写什么...<br>2017-03-30 23:26<br>赞(0) 踩(0) | <div>9254</div> |

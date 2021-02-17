@@ -68,8 +68,8 @@ every shalala every wo'wo still shines.
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361990850)<br>这个人很懒<br>2018-12-23 10:49<br>赞(1) 踩(0) | <div>右些生硬，原唱更顺畅点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/521690)<br>这家伙很聪明，什么都没留...<br>2017-10-27 23:59<br>赞(3) 踩(0) | <div>我的天！！！还在写微博，听到以为是原唱！！但是细节又有微妙不一样，Rie fu，屌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52056952)<br>人生即是到來、相遇、陪伴...<br>2017-08-19 16:17<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png">不错哦</div> |
@@ -78,7 +78,7 @@ every shalala every wo'wo still shines.
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283860582)<br><br>2017-03-27 19:49<br>赞(0) 踩(0) | <div>不同的回味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6653611)<br>隨緣 人世間的事誰也無法...<br>2016-01-23 10:16<br>赞(1) 踩(0) | <div>riefu版的其实也不错嘛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42394733)<br>aches and wi...<br>2015-08-09 18:07<br>赞(1) 踩(0) | <div>为什么这英语听起来这么生硬呢。。。。。翻唱虽称不错，但确实没有原曲那份悠扬自然啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7428131)<br><br>2015-03-24 15:45<br>赞(2) 踩(0) | <div>日本知名唱作歌手RIE FU 2015年中国巡演现已全面开启！6.19北京汇源空间，6.20上海浅水湾艺术中心！出道十周年，Riefu首度携乐队来华巡演！现场将完整呈现新专辑《I》全新曲目！更将全新编排其代表作《死神BLEACH》《机动战士高达》《黑之契约者》ED！【购票请点击： <a href="http://www.chinaticket.com/view/20430.html" target="_blank" rel="nofollow noreferrer noopener">http://www.chinaticket.com/view/20430.html</a> 】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7428131)<br><br>2015-03-24 15:45<br>赞(2) 踩(0) | <div>日本知名唱作歌手RIE FU 2015年中国巡演现已全面开启！6.19北京汇源空间，6.20上海浅水湾艺术中心！出道十周年，Riefu首度携乐队来华巡演！现场将完整呈现新专辑《I》全新曲目！更将全新编排其代表作《死神BLEACH》《机动战士高达》《黑之契约者》ED！<br>【购票请点击： <a href="http://www.chinaticket.com/view/20430.html" target="_blank" rel="nofollow noreferrer noopener">http://www.chinaticket.com/view/20430.html</a> 】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10109794)<br>今生无悔入东方<br>2014-09-03 19:31<br>赞(0) 踩(0) | <div>有些部分还是不够稳啊，没那么悠扬了。虽然觉得声线还是挺搭这首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7093443)<br>wb已炸。B站音频：ya...<br>2014-05-31 01:38<br>赞(1) 踩(0) | <div>虽然非常喜欢rie姐......但这首歌的确暴露了许多唱功方面的弱点诶.....有的地方音准有点不稳气息也有点不稳））。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22343139)<br><br>2014-03-20 18:56<br>赞(0) 踩(0) | <div>亲爱的你在哪里我是李其我错了你回来吧13714451939</div> |

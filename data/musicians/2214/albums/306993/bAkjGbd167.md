@@ -39,14 +39,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245542126)<br>后来你也成了过来人<br>2018-01-23 00:49<br>赞(2) 踩(0) | <div>2017年 你在西安 我老往西安跑 还记得你淋雨来接我 记得每次我要走你的不舍 记得那晚你抱着我流泪说怕最后不是我 西安这座城市 我都没有好好看过 来来往往都是为你 最后我们分开了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16779134)<br><br>2017-12-08 10:52<br>赞(0) 踩(0) | <div>我的邻居家是一对兄妹,哥哥阳阳在他妹妹还没起床前用微信发给了我这首歌,我听了一听,看了一看,我说西安妹子要跟你分手啊煞笔.他说他要在三天内启程啊,我说你带上我啊我给你包吃包住包消费啊,他说你丫给我滚啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16779134)<br><br>2017-12-08 10:52<br>赞(1) 踩(0) | <div>我的邻居家是一对兄妹，哥哥阳阳在他妹妹还没起床前用微信发给了我这首歌，我听了一听，看了一看，想了一想，我说西安妹子要跟你分手啊煞笔。他说他要在三天内启程啊，我说你带上我啊我给你包吃包住包消费啊，他说你丫给我滚啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342694)<br><br>2017-10-30 10:22<br>赞(0) 踩(0) | <div>【第一次来西安，却不能好好看看这座城，甚至都算不上进城，有些遗憾】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43742766)<br>等不到L先生<br>2017-10-28 00:36<br>赞(1) 踩(0) | <div>这首歌总让我想起你 西安 充满了太多回忆 钟楼 曲江 大雁塔 到后来在他身边也会唱起这首歌 喜欢早随着时间变成了不用言语的祝福  想起了听听这首歌 可能最好的祝福就是保持着足够的距离 你我都希望对方好 那多少年的相识都是有意义的 晚安</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2017-10-27 23:41<br>赞(1) 踩(0) | <div>欢迎大家来西安！2015.08.30</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2017-10-27 23:41<br>赞(1) 踩(0) | <div>欢迎大家来西安！<br>2015.08.30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319041296)<br>又不是相亲介绍个啥<br>2017-09-20 09:55<br>赞(0) 踩(0) | <div>没法听啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226301279)<br><br>2017-06-15 17:29<br>赞(1) 踩(0) | <div>我还是没有了你 你还是离开了我和这里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3978717)<br><br>2016-06-07 00:57<br>赞(0) 踩(0) | <div>贵虾药丸，这都TMD下架了！</div> |
@@ -77,7 +77,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9227626)<br>北門落盡風飄雪<br>2014-12-29 18:29<br>赞(1) 踩(0) | <div>这曲子，越听越耐听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16014908)<br><br>2014-12-26 01:13<br>赞(0) 踩(0) | <div>呜呜。回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6164708)<br><br>2014-12-16 13:45<br>赞(0) 踩(0) | <div>曲调更适合去唱《北京爱情故事》，一个城市的基调不是你罗列地标在歌词里就能代表的。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/712925)<br>别扯有的没的<br>2014-11-14 02:27<br>赞(4) 踩(0) | <div>我还是没有了你你还是离开了我和这里我还是选择留在这里哭瞎</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/712925)<br>别扯有的没的<br>2014-11-14 02:27<br>赞(4) 踩(0) | <div>我还是没有了你<br>你还是离开了我和这里<br>我还是选择留在这里<br>哭瞎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2285623)<br>Just so so<br>2014-11-06 14:43<br>赞(1) 踩(0) | <div>你是我天边最美的云彩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43057113)<br>暂无签名~<br>2014-11-05 00:15<br>赞(0) 踩(0) | <div>我还是没有了你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23745405)<br><br>2014-09-24 14:01<br>赞(1) 踩(0) | <div>越听越好听，越听越跟爱情无关</div> |
@@ -89,7 +89,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1107192)<br>Listen<br>2014-05-04 08:48<br>赞(0) 踩(0) | <div>我还是没有了你 你还是离开了我和这里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35952331)<br> <br>2014-04-28 05:37<br>赞(0) 踩(0) | <div>那年春天我疯狂想念这里，今天我却发疯一样想离开。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11130734)<br>爱音乐，爱生活<br>2014-04-22 02:15<br>赞(0) 踩(0) | <div>失眠</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2374389)<br>Adobe, A - D...<br>2014-04-14 20:54<br>赞(4) 踩(0) | <div>零落的车子和沉默的人 不及格一般的可怜。可惜回民街总是熙攘的自行车三轮车小汽车以及喧闹的人群。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2374389)<br>Adobe, A - D...<br>2014-04-14 20:54<br>赞(4) 踩(0) | <div>零落的车子和沉默的人 不及格一般的可怜。<br>可惜回民街总是熙攘的自行车三轮车小汽车以及喧闹的人群。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10786111)<br>没有人喜欢没有人。<br>2014-04-12 19:09<br>赞(0) 踩(0) | <div>我知道所有我的胆怯我的心碎我的委屈永远都无法解释给你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12192457)<br><br>2014-03-24 10:53<br>赞(0) 踩(0) | <div>不错！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3807650)<br>我是街上的游魂你是闻到我...<br>2014-02-25 10:51<br>赞(0) 踩(0) | <div>”我还是没有了你 你还是离开了我和这里“</div> |
@@ -126,12 +126,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4367064)<br><br>2012-06-10 17:01<br>赞(0) 踩(0) | <div>意外的发现国内竟有这样的好歌～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1701701)<br><br>2012-06-07 13:33<br>赞(0) 踩(0) | <div>低吟浅唱，简单的旋律和歌词容纳了说不完的故事，王筝听似平淡的嗓音却吸引着一遍又一遍的循环，张力慢慢显现。一座浪漫古城下栖息的情感的种子。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37706)<br><br>2012-06-03 22:41<br>赞(0) 踩(0) | <div>分享音乐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9095425)<br>看不见<br>2012-05-27 18:12<br>赞(0) 踩(0) | <div>盼望着夏天终于过去记忆被风沙吹散在这座看似永远不变的城</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9095425)<br>看不见<br>2012-05-27 18:12<br>赞(0) 踩(0) | <div>盼望着夏天终于过去<br>记忆被风沙吹散在这座看似永远不变的城</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1136025)<br> <br>2012-04-25 20:40<br>赞(0) 踩(0) | <div>《西安爱情故事》 高中时常听的小清新歌曲~西安, C U tomorrow!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8690474)<br><br>2012-04-05 11:56<br>赞(0) 踩(0) | <div>歌词很美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8651691)<br><br>2012-03-30 22:57<br>赞(0) 踩(0) | <div>君枫_免贵花姐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/514629)<br><br>2012-03-16 23:08<br>赞(0) 踩(0) | <div>重拾</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1557062)<br> <br>2012-02-23 09:39<br>赞(0) 踩(0) | <div>我还在固执的找寻那年你爱过我的画面，开始幼稚的越发像孩子一样的肆意的想念，在锣鼓巷口看夕阳斜落在青石墙的凹陷，我还是没有了你 你还是离开了我和这里，我还是没有了你 我还是选择留在这里 我知道所有我的胆怯我的心碎我的委屈 永远都无法解释给你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1557062)<br> <br>2012-02-23 09:39<br>赞(0) 踩(0) | <div>我还在固执的找寻那年你爱过我的画面，开始幼稚的越发像孩子一样的肆意的想念，<br>在锣鼓巷口看夕阳斜落在青石墙的凹陷，我还是没有了你 你还是离开了我和这里，我还是没有了你 我还是选择留在这里 我知道所有我的胆怯我的心碎我的委屈 永远都无法解释给你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6340830)<br>Made in xi a...<br>2011-12-25 21:08<br>赞(0) 踩(0) | <div>感人的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/531198)<br><br>2011-12-06 11:01<br>赞(0) 踩(0) | <div>我想去西安，说了小半年还没成行。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6851938)<br><br>2011-11-19 01:59<br>赞(0) 踩(0) | <div>我还在固执的找寻那年你爱过我的画面</div> |
@@ -148,14 +148,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1809235)<br>克拉玛依人上克拉玛依网<br>2011-03-28 15:52<br>赞(1) 踩(0) | <div>作曲：袁惟仁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/664815)<br><br>2011-01-28 16:38<br>赞(0) 踩(0) | <div>分享无理由，喜欢就是喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1851360)<br><br>2011-01-04 22:41<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/957362)<br><br>2010-12-05 20:34<br>赞(0) 踩(0) | <div>我想留在这里不想你离开这里伤心已经不能代替为了我们的梦奔跑着爱你不是一定要说出口</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/957362)<br><br>2010-12-05 20:34<br>赞(0) 踩(0) | <div>我想留在这里<br>不想你离开这里<br>伤心已经不能代替<br>为了我们的梦奔跑着<br>爱你不是一定要说出口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1373875)<br><br>2010-11-20 20:32<br>赞(0) 踩(0) | <div>我还是没有了你……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427679)<br> <br>2010-09-03 23:27<br>赞(0) 踩(0) | <div>看到歌词吓了一跳 居然唱得这么好～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1226207)<br>人海中<br>2010-09-03 21:25<br>赞(0) 踩(0) | <div>01：16</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33506)<br><br>2010-05-04 02:08<br>赞(0) 踩(0) | <div>我终于失去了你就让我离开这里为了忘记无法忘记的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33506)<br><br>2010-05-04 02:08<br>赞(0) 踩(0) | <div>我终于失去了你<br>就让我离开这里<br>为了忘记无法忘记的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81693)<br>我还没想好要写什么...<br>2010-03-13 17:25<br>赞(0) 踩(0) | <div>。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112187)<br>傳說中 你僕僕而來 與我...<br>2009-10-31 01:25<br>赞(0) 踩(0) | <div>那座被城墙四四方方围起来的城，是他之城。因为那座城，有他，有我，有我们。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14167)<br>加油吧<br>2009-10-27 08:57<br>赞(0) 踩(0) | <div>ergt</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230720)<br><br>2009-06-26 09:59<br>赞(0) 踩(0) | <div>很好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81693)<br>我还没想好要写什么...<br>2009-05-16 18:51<br>赞(0) 踩(0) | <div>我还是没有了你你还是离开了我和这里..</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81693)<br>我还没想好要写什么...<br>2009-05-16 18:51<br>赞(0) 踩(0) | <div>我还是没有了你<br>你还是离开了我和这里..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5917)<br><br>2009-02-02 11:17<br>赞(0) 踩(0) | <div>我还是没有了你</div> |

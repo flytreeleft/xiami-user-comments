@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/cfc567d3b3ce0f7393802811dad143fa.jpg)<br>苏一](https://i.xiami.com/suyimusic) | **播放数**: 1103011<br>**粉丝数**: 414<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/cfc567d3b3ce0f7393802811dad143fa.jpg)<br>苏一](https://i.xiami.com/suyimusic) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 1103011<br>**粉丝数**: 414<br>**评论数**: 8<br> |
 
 ## 档案
 
@@ -21,10 +21,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267722591)<br><br>2020-08-10 16:20<br>赞(0) 踩(0) | <div>不知道怎么开始听到的，很喜欢，入德之门是了解苏一老师的开始，很多曲子都很赞啊！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253962777)<br><br>2020-06-12 23:07<br>赞(1) 踩(0) | <div>【五言绝句】观心当代/山南先生窗外雨如瀑，吾心安若山。常常观自在，枯骨亦红颜。2020年06月12日</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253962777)<br><br>2020-06-12 23:07<br>赞(1) 踩(0) | <div>【五言绝句】观心<br>当代/山南先生<br>窗外雨如瀑，吾心安若山。<br>常常观自在，枯骨亦红颜。<br><br>2020年06月12日</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-04-27 03:26<br>赞(0) 踩(0) | <div>40850</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75497994)<br>Om ar ra ba ...<br>2019-08-06 22:37<br>赞(0) 踩(0) | <div>︽︽ <img src="../../images/comments/5209680a7687ef8a547064825af96969.png">︽︽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407461954)<br><br>2018-11-07 04:22<br>赞(1) 踩(0) | <div>通过清蘭老师了解到入德之门，然后又开始接触到了苏一老师，佛缘深厚，感恩您。 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |

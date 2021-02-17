@@ -55,8 +55,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323385525)<br>愿我在薄情的世界，深情的...<br>2019-10-29 23:07<br>赞(0) 踩(0) | <div>愿岁月待我静好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11827198)<br><br>2018-10-19 06:42<br>赞(0) 踩(0) | <div>特别喜欢侃侃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2018-07-08 20:25<br>赞(1) 踩(0) | <div>还没上来118</div> |
@@ -105,7 +105,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9833147)<br>.<br>2015-08-03 22:23<br>赞(0) 踩(0) | <div>非常棒的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9833147)<br>.<br>2015-08-03 22:21<br>赞(0) 踩(0) | <div>穿过岁月 而散发出来的声音...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50401953)<br><br>2015-07-22 22:17<br>赞(0) 踩(0) | <div>我会穿过时空穿过无常</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8601290)<br>远在远方的风，比远方更远<br>2015-06-28 19:12<br>赞(0) 踩(0) | <div>我会穿过田野穿过村庄穿过开满鲜花的山岗——弟弟高考成就不理想，他也没勇气复读，所以忙着报考，娃也跟着脑袋都快炸了，好想甩开这一切去隐居~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8601290)<br>远在远方的风，比远方更远<br>2015-06-28 19:12<br>赞(0) 踩(0) | <div>我会穿过田野穿过村庄<br>穿过开满鲜花的山岗<br>——弟弟高考成就不理想，他也没勇气复读，所以忙着报考，娃也跟着脑袋都快炸了，好想甩开这一切去隐居~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50684926)<br><br>2015-06-12 12:23<br>赞(0) 踩(0) | <div>静谧，醇厚，回味无穷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9833147)<br>.<br>2015-06-08 23:07<br>赞(0) 踩(0) | <div>非常棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24481812)<br>生命很短，让它精彩一点。<br>2015-05-25 11:14<br>赞(1) 踩(0) | <div>车上听很应景</div> |
@@ -127,7 +127,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33535785)<br><br>2014-07-04 22:01<br>赞(1) 踩(0) | <div>一路走一路听，回家再呵点、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80932)<br><br>2014-05-16 14:57<br>赞(1) 踩(0) | <div>心动了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36578872)<br><br>2014-05-14 05:30<br>赞(1) 踩(0) | <div>拉萨里喝酒 听这首多情的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3938397)<br><br>2014-04-10 16:23<br>赞(1) 踩(0) | <div>我会穿过田野穿过村庄穿过开满鲜花的山岗我会遇见你在人海茫茫我会牵你的手穿过热闹的街巷我会穿过时空穿过无常穿过生命散发的芬芳我会陪着你在人海茫茫我会拥抱着你穿过地久天长</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3938397)<br><br>2014-04-10 16:23<br>赞(1) 踩(0) | <div>我会穿过田野穿过村庄<br>穿过开满鲜花的山岗<br>我会遇见你在人海茫茫<br>我会牵你的手穿过热闹的街巷<br>我会穿过时空穿过无常<br>穿过生命散发的芬芳<br>我会陪着你在人海茫茫<br>我会拥抱着你穿过地久天长</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8904658)<br><br>2014-03-31 22:56<br>赞(1) 踩(0) | <div>送给未来的你！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8904658)<br><br>2014-03-31 22:51<br>赞(1) 踩(0) | <div>送给未来的你！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34733787)<br>哲人无忧，智者常乐！<br>2014-03-31 21:20<br>赞(0) 踩(0) | <div>#分享音乐#美妙的音符，从一个过渡开始跳动，逐渐感染周围，穿越寂静的偏角，踏过喧闹的街市，最后直达心灵的深处！见你是我最美丽的意外，听，心动的旋律，那是我对你无法停止的思念！这首歌不只送给你听，希望它更像温暖的光点......</div> |
@@ -136,12 +136,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1306103)<br><br>2014-03-12 10:09<br>赞(0) 踩(0) | <div>她荐的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24987987)<br><br>2014-02-28 17:55<br>赞(0) 踩(0) | <div>喜欢侃侃，好听的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31712751)<br><br>2014-02-18 09:20<br>赞(0) 踩(0) | <div>非常舒服的一首歌，安静—自然纯</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-02-16 19:31<br>赞(1) 踩(0) | <div>像诗人般散发的芬芳48986,123,44</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-02-16 19:31<br>赞(1) 踩(0) | <div>像诗人般散发的芬芳<br>48986,123,44</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/626663)<br><br>2014-01-02 23:32<br>赞(0) 踩(0) | <div>有一天下午在房间里看小说，忽然，外面的社区喇叭飘飘荡荡地响起这首歌，抬头看见外面阳光明媚蓝天白云，忽然想起几年前宿舍楼下那个总给我带食物的男孩。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30376397)<br><br>2013-12-24 13:19<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24044411)<br><br>2013-10-25 21:51<br>赞(0) 踩(0) | <div>一个农民的问候！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-09-19 01:59<br>赞(0) 踩(0) | <div>侃音侃情33105,107,40</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18825050)<br><br>2013-08-21 23:13<br>赞(1) 踩(0) | <div>我会穿过田野穿过村庄穿过开满鲜花的山岗我会遇见你在人海茫茫我会牵你的手穿过热闹的街巷我会穿过时空穿过无常穿过生命散发的芬芳我会陪着你在人海茫茫我会拥抱着你穿过地久天长我在这里，如此孤单。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-09-19 01:59<br>赞(0) 踩(0) | <div>侃音侃情<br>33105,107,40</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18825050)<br><br>2013-08-21 23:13<br>赞(1) 踩(0) | <div>我会穿过田野穿过村庄<br>穿过开满鲜花的山岗<br>我会遇见你在人海茫茫<br>我会牵你的手穿过热闹的街巷<br>我会穿过时空穿过无常<br>穿过生命散发的芬芳<br>我会陪着你在人海茫茫<br>我会拥抱着你穿过地久天长<br><br>我在这里，如此孤单。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4488064)<br><br>2013-07-17 22:52<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12127685)<br><br>2013-07-08 12:50<br>赞(1) 踩(0) | <div>喜欢侃侃真情流露自然的声音，人海茫茫那一抹美丽的芬芳在你的生命中未曾散去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4409119)<br>双子座的男生<br>2013-07-07 15:12<br>赞(0) 踩(0) | <div>芬芳之旅，你是否愿意</div> |
@@ -168,7 +168,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11450412)<br><br>2013-02-14 12:39<br>赞(0) 踩(0) | <div>：）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/520647)<br><br>2013-02-05 23:01<br>赞(0) 踩(0) | <div>我会遇见你，在人海茫茫。我会牵你的手，穿过热闹的街巷。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12750723)<br><br>2013-01-28 21:06<br>赞(0) 踩(0) | <div>好听啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8427847)<br>落葉繽蒶<br>2013-01-25 11:11<br>赞(0) 踩(0) | <div>广东音像城#广东音像城·新品推荐#──《穿过生命散发的芬芳》@火烈鸟唱片 莫言，莫求，莫离弃，红尘迁陌，为谁轻吟，岁月嘀嗒。且听，且行，且珍惜，悠然篱下，于芬芳处干偈莲花。侃侃继《嘀嗒》后，加盟火烈鸟唱片，新专辑隆重上市，乐坛重量级音乐人倾力加盟.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8427847)<br>落葉繽蒶<br>2013-01-25 11:11<br>赞(0) 踩(0) | <div>广东音像城<br><br>#广东音像城·新品推荐#──《穿过生命散发的芬芳》@火烈鸟唱片 莫言，莫求，莫离弃，红尘迁陌，为谁轻吟，岁月嘀嗒。且听，且行，且珍惜，悠然篱下，于芬芳处干偈莲花。侃侃继《嘀嗒》后，加盟火烈鸟唱片，新专辑隆重上市，乐坛重量级音乐人倾力加盟.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10491928)<br><br>2013-01-24 19:48<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11422498)<br><br>2013-01-23 20:34<br>赞(0) 踩(0) | <div>找到这首歌了。。。这个歌手很厉害，总是最简单的旋律，最质朴的歌词，从嘀嗒开始，有第一耳朵的惊艳。歌里带风，嗓音里带风。。。。有点男版许巍的味道，比许巍亲民。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111609)<br><br>2013-01-20 20:48<br>赞(0) 踩(0) | <div>我！的！邻！居！已！经！循！环！这！首！歌！一！整！天！了！</div> |

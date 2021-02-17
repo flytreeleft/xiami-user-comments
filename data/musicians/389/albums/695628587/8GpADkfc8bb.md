@@ -57,8 +57,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298959186)<br><br>2017-10-17 13:39<br>赞(4) 踩(0) | <div>看了有爱一家人来的把我顶上去，谢谢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325569718)<br>我还没想好要写什么...<br>2017-10-10 06:48<br>赞(2) 踩(0) | <div>温暖的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1347314)<br><br>2016-04-05 21:18<br>赞(2) 踩(0) | <div>善良 阳光</div> |
@@ -69,11 +69,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18089785)<br><br>2014-06-25 19:45<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5624787)<br>时光如梭，生命如歌。<br>2014-06-20 15:29<br>赞(1) 踩(0) | <div>温柔的一首歌，让温暖的时光流成一条，雨中的河。淡淡的一个你，让隐隐的思绪飘出一扇，小小的窗......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34944866)<br>暂无签名~<br>2014-06-16 23:57<br>赞(1) 踩(0) | <div>听哭。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2014-06-13 10:26<br>赞(1) 踩(0) | <div>我有没有更宽的肩膀,承载越来越难的梦想,即便一路 跌跌撞撞,依然能够 保持善良 笑得阳光....</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2014-06-13 10:26<br>赞(1) 踩(0) | <div>我有没有更宽的肩膀,<br>承载越来越难的梦想,<br>即便一路 跌跌撞撞,<br>依然能够 保持善良 笑得阳光....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5383096)<br><br>2014-06-06 01:45<br>赞(1) 踩(0) | <div>選自品冠 [隨時都在](2014/5/30)-更寬的肩膀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72502)<br>音乐可以改变人的心情！<br>2014-06-04 22:07<br>赞(0) 踩(0) | <div>满满的温暖，喜欢呀！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12938624)<br><br>2014-06-04 20:55<br>赞(0) 踩(0) | <div>出新歌啦，温暖回归~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16396825)<br>do you ?<br>2014-06-04 17:43<br>赞(0) 踩(0) | <div>即便一路 跌跌撞撞依然能够 保持善良 笑得阳光</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16396825)<br>do you ?<br>2014-06-04 17:43<br>赞(0) 踩(0) | <div>即便一路 跌跌撞撞<br>依然能够 保持善良 笑得阳光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19413611)<br><br>2014-06-04 14:02<br>赞(0) 踩(0) | <div>窝心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2014-06-04 12:54<br>赞(1) 踩(0) | <div>温暖的编曲，温暖的旋律，温暖的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275268)<br><br>2014-05-11 08:32<br>赞(1) 踩(0) | <div>快乐幸福，谁不想现在拥有。看不到未来，谁不会痛快放手。但有人难过，有人就心痛。欺骗不了的，只有心里的感受。爱多深，责任就有多大，要有更宽的肩膀。</div> |
@@ -81,7 +81,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34017544)<br><br>2014-04-06 00:02<br>赞(0) 踩(0) | <div>...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7872220)<br><br>2014-03-30 18:30<br>赞(1) 踩(0) | <div>好美的歌词。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7390568)<br>she.<br>2014-03-26 20:42<br>赞(1) 踩(0) | <div>封面很无语呀 不过还是被词感动 即便一路 跌跌撞撞 依然能够 保持善良 笑得阳光</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26510300)<br>暂无签名~<br>2014-03-26 19:59<br>赞(1) 踩(0) | <div>時間點  交叉點改變  抉擇</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26510300)<br>暂无签名~<br>2014-03-26 19:59<br>赞(1) 踩(0) | <div>時間點  交叉點<br>改變  抉擇</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17581313)<br>听听歌，好心情<br>2014-03-25 09:46<br>赞(1) 踩(0) | <div>这才是我们的品冠大神！~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6919517)<br><br>2014-03-25 09:09<br>赞(2) 踩(0) | <div>电视剧《有爱一家人》插曲</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298959186)<br><br>2017-10-19 13:59<br>赞(0) 踩(0) | <div>你也看过，终于找到知己了</div> |

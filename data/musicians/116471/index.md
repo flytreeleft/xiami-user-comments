@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6b4245e342d934e30b350091ff66d165.jpg)<br>释则旭](https://i.xiami.com/zexufashi) | **播放数**: 5183486<br>**粉丝数**: 2656<br>**评论数**: 129<br>**地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 新世纪音乐 New Age, 中国风 China-Wave, 华语唱作人 Chinese Singer-Songwriter, 宗教新世纪 Religionary New Age, 佛教音乐 Buddhist Music<br> |
+| [![](../../images/musicians/6b4245e342d934e30b350091ff66d165.jpg)<br>释则旭](https://i.xiami.com/zexufashi) | **地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 新世纪音乐 New Age, 中国风 China-Wave, 华语唱作人 Chinese Singer-Songwriter, 宗教新世纪 Religionary New Age, 佛教音乐 Buddhist Music<br>**播放数**: 5183486<br>**粉丝数**: 2656<br>**评论数**: 129<br> |
 
 ## 档案
 
@@ -51,8 +51,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433579588)<br>我欲乘风归去，又恐琼楼玉...<br>2021-01-17 19:16<br>赞(0) 踩(0) | <div>我第六个女儿有白血病，你在旁边丢的小学生奶酪糖</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433579588)<br>我欲乘风归去，又恐琼楼玉...<br>2020-12-28 16:58<br>赞(0) 踩(0) | <div>还有一个陷害我的人，和张杰有关系，是北川中学理科重点班，现在在四川农业大学的土木工程，喜读书生日是4月20号，这个男生现在18岁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433579588)<br>我欲乘风归去，又恐琼楼玉...<br>2020-12-26 12:58<br>赞(0) 踩(0) | <div>陷害我的证据我都收集到了，黄阳认错了，他向我坦白了，是陈瑶叫他这样做的，圈子是马化腾侄子让带的</div> |
@@ -87,7 +87,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444271364)<br>与人为善福虽未至祸已远离...<br>2020-08-03 22:31<br>赞(0) 踩(0) | <div>为什么我的眼里包含着泪水</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63020)<br>东东喜欢腕表<br>2020-07-15 07:55<br>赞(0) 踩(0) | <div><a href="https://mp.weixin.qq.com/s/_XLXxlE8inyq1IeEwrBjeQ" target="_blank" rel="nofollow noreferrer noopener">https://mp.weixin.qq.com/s/_XLXxlE8inyq1IeEwrBjeQ</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63020)<br>东东喜欢腕表<br>2020-07-15 07:55<br>赞(0) 踩(0) | <div>则旭法师，皈依在禅门大德达照法师门下，致力于中国佛教音乐的推广和发展，积极投入到创作、演唱佛曲的音声弘法工作中。并曾多次受邀于国内各大佛教名山、寺庙等佛教圣地演出，以及作为特邀嘉宾出访美国、加拿大等地进行表演，深受海内外人士的热烈欢迎。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63020)<br>东东喜欢腕表<br>2020-07-15 07:53<br>赞(0) 踩(0) | <div>释则旭，俗姓董，上海人氏。中国新晋佛乐歌手，禅曲演唱者。至今已发表十几首演唱作品，颇受大众好评。2012年9月，则旭法师筹建 &amp;ldquo;普陀山海潮音梵呗艺术团&amp;rdquo;，曾任副团长、执行总监，身体力行积极推广着中国佛乐与禅乐的发展。除了在音乐上有所建树，课业上则旭法师也是一名名副其实的&amp;ldquo;学霸&amp;rdquo;。2010年就读于斯里兰卡凯莱尼亚大学，并顺利取得文学硕士学位。作品《问佛》《绿度母心咒》《楞严一笑》等。以上转自搜狗网页。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63020)<br>东东喜欢腕表<br>2020-07-15 07:53<br>赞(0) 踩(0) | <div>释则旭，俗姓董，上海人氏。中国新晋佛乐歌手，禅曲演唱者。至今已发表十几首演唱作品，颇受大众好评。2012年9月，则旭法师筹建 &amp;ldquo;普陀山海潮音梵呗艺术团&amp;rdquo;，曾任副团长、执行总监，身体力行积极推广着中国佛乐与禅乐的发展。除了在音乐上有所建树，课业上则旭法师也是一名名副其实的&amp;ldquo;学霸&amp;rdquo;。2010年就读于斯里兰卡凯莱尼亚大学，并顺利取得文学硕士学位。作品《问佛》《绿度母心咒》《楞严一笑》等。<br><br>以上转自搜狗网页。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796166)<br>最爱莫文蔚.....<br>2019-12-30 07:42<br>赞(1) 踩(0) | <div>加油~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427295142)<br><br>2019-12-24 12:57<br>赞(1) 踩(0) | <div>南无阿弥陀佛南无阿弥陀佛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434342173)<br><br>2019-12-20 14:03<br>赞(1) 踩(0) | <div>阿弥陀佛 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png">顶礼师父 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
@@ -139,7 +139,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222829789)<br><br>2016-11-25 23:26<br>赞(1) 踩(0) | <div>想听你唱：南无阿弥陀佛 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239227740)<br>净室拈香心持潔玉 慧门洗...<br>2016-10-22 18:24<br>赞(0) 踩(0) | <div><img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16757460)<br><br>2016-09-29 21:58<br>赞(0) 踩(0) | <div>阿弥陀佛！~~~~~~~~~~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2089122)<br><br>2016-09-24 23:31<br>赞(1) 踩(0) | <div>风格清新自然，希望法师能演唱这两首：梵音大悲咒， 观世音菩萨发愿偈。南无阿弥佗佛。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2089122)<br><br>2016-09-24 23:31<br>赞(1) 踩(0) | <div>风格清新自然，希望法师能演唱这两首：梵音大悲咒， 观世音菩萨发愿偈。<br>南无阿弥佗佛。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182922074)<br><br>2016-08-30 00:28<br>赞(0) 踩(0) | <div>好听静心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182922074)<br><br>2016-08-30 00:27<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216937952)<br><br>2016-08-25 02:54<br>赞(0) 踩(0) | <div>好听，空灵又充满情感。</div> |

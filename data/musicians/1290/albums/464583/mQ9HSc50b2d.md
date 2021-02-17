@@ -72,8 +72,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273034482)<br><br>2020-11-24 16:24<br>赞(0) 踩(0) | <div>Re 2012</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9047731)<br>失责亏恩 度时虚浮 意志...<br>2020-07-30 17:16<br>赞(0) 踩(0) | <div>像这个一样快乐还有吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25235988)<br><br>2020-01-06 22:05<br>赞(1) 踩(0) | <div>左小，荒诞的正经</div> |
@@ -124,15 +124,15 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8408888)<br>孤独的海怪.......<br>2012-08-16 17:22<br>赞(0) 踩(0) | <div>我们都是神的孩子 会走得像风一样快 神的钱包是蓝色的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2357238)<br>Rider on the...<br>2012-08-12 01:43<br>赞(0) 踩(0) | <div>北京在下雨 适合听这歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1253490)<br><br>2012-07-31 22:35<br>赞(0) 踩(0) | <div>每次听都好听到心里去了 这首歌很久之前就写了 ？ 你的词够nb的哈 隐得我都能听成环保教育歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7297615)<br>Sixear<br>2012-07-26 19:22<br>赞(1) 踩(0) | <div>阿丝玛，你记得吗？但我记得那天的夜晚象今儿的白天一样忽明忽暗我们从花棚出来买了你喜欢的雏菊花，你拉着我的手给我讲述一个又一个的故事......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7297615)<br>Sixear<br>2012-07-26 19:22<br>赞(1) 踩(0) | <div>阿丝玛，你记得吗？但我记得<br>那天的夜晚象今儿的白天一样忽明忽暗<br>我们从花棚出来<br>买了你喜欢的雏菊花，你拉着我的手<br>给我讲述一个又一个的故事......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9873280)<br>我不摇滚，但我纯粹<br>2012-07-23 19:23<br>赞(0) 踩(0) | <div>我妈也喜欢左小</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2357238)<br>Rider on the...<br>2012-07-21 22:26<br>赞(0) 踩(0) | <div>这里的绿色全装入你口袋看一下你左胸袋是绿色的钱包</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2357238)<br>Rider on the...<br>2012-07-17 14:04<br>赞(0) 踩(0) | <div>我们都是神的孩子会走得像风一样快神的钱包是绿色的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2357238)<br>Rider on the...<br>2012-07-21 22:26<br>赞(0) 踩(0) | <div>这里的绿色全装入你口袋<br>看一下你左胸袋是绿色的钱包</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2357238)<br>Rider on the...<br>2012-07-17 14:04<br>赞(0) 踩(0) | <div>我们都是神的孩子<br>会走得像风一样快<br>神的钱包是绿色的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1322537)<br><br>2012-06-09 22:39<br>赞(0) 踩(0) | <div>可烦左小祖咒了，可是这首歌好好听哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4458644)<br>如花美眷，似水流年……<br>2012-06-03 22:20<br>赞(0) 踩(0) | <div>神的钱包是绿色的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595353)<br>微笑，给你<br>2012-05-31 00:26<br>赞(0) 踩(0) | <div>呃，这词儿写的。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44087773)<br><br>2019-08-18 17:34<br>赞(0) 踩(0) | <div>这词写得看不懂嘛 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1662559)<br>哈哈哈哈哈哈哈<br>2012-05-30 13:57<br>赞(0) 踩(0) | <div>我们都是神的孩子会走得像风一样快</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1662559)<br>哈哈哈哈哈哈哈<br>2012-05-30 13:57<br>赞(0) 踩(0) | <div>我们都是神的孩子<br>会走得像风一样快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/396716)<br><br>2012-05-08 16:32<br>赞(0) 踩(0) | <div>@post-lu @fish-小光 我们都是神的孩纸 推荐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1429445)<br><br>2012-05-07 13:42<br>赞(0) 踩(0) | <div>我们都是神的孩子，会走的像风一样快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4007522)<br><br>2012-05-05 10:15<br>赞(0) 踩(0) | <div>少发微薄多听歌。</div> |
@@ -150,7 +150,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5492392)<br><br>2011-12-28 01:21<br>赞(0) 踩(0) | <div>好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1564791)<br><br>2011-12-27 15:35<br>赞(0) 踩(0) | <div>我们都是神的孩子，会走得像风一样快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1298525)<br>你没见过我的昨天<br>2011-12-12 12:23<br>赞(0) 踩(0) | <div>怎么一听这歌儿就想到你呢....@李二分</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43784)<br>有冰冷尖牙，也有温暖手心<br>2011-11-24 13:26<br>赞(0) 踩(0) | <div>酒入肠，成相思泪。第一句好棒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43784)<br>有冰冷尖牙，也有温暖手心<br>2011-11-24 13:26<br>赞(0) 踩(0) | <div>酒入肠，成相思泪。<br>第一句好棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/785431)<br>我还没想好要写什么...<br>2011-11-18 17:55<br>赞(0) 踩(0) | <div>这首厉害了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/713930)<br><br>2011-11-16 12:54<br>赞(1) 踩(0) | <div>有点像像个孩子似的倾听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3995553)<br><br>2011-11-08 18:45<br>赞(1) 踩(0) | <div>&amp;amp;quot;姑娘，我偷到神的钱包&amp;amp;quot; -------------左老板这首歌太好听了</div> |

@@ -3,7 +3,7 @@ Pianoboy
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/eb44571900950807f81b6beae1764df1.jpg)<br>Pianoboy](https://i.xiami.com/pianoboy) | **播放数**: 75543277<br>**粉丝数**: 60765<br>**评论数**: 1367<br>**地区**: Taiwan, PRC 中国台湾<br>**风格**: 器乐独奏 Solo Instrumental, 器乐流行 Instrumental Pop, 器乐流行 Instrumental Pop<br> |
+| [![](../../images/musicians/eb44571900950807f81b6beae1764df1.jpg)<br>Pianoboy](https://i.xiami.com/pianoboy) | **地区**: Taiwan, PRC 中国台湾<br>**风格**: 器乐独奏 Solo Instrumental, 器乐流行 Instrumental Pop, 器乐流行 Instrumental Pop<br>**播放数**: 75543277<br>**粉丝数**: 60765<br>**评论数**: 1367<br> |
 
 ## 档案
 
@@ -67,8 +67,8 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34365449)<br><br>2021-01-24 09:19<br>赞(0) 踩(0) | <div>这首钢琴曲给人带来一种有人从你身边离开的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402511522)<br><br>2021-01-23 18:09<br>赞(0) 踩(0) | <div>下次有演唱会了我一定要去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-08 06:22<br>赞(0) 踩(0) | <div>20068</div> |
@@ -84,7 +84,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318494643)<br>一切都是循环平衡，都遵循...<br>2019-12-04 03:58<br>赞(1) 踩(0) | <div>肯定没人看得见（I promise）：大佬曲子真的有东西，情感的频率每个奏者都不一样。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6674200)<br>每个劫数时间会善后。<br>2019-11-18 00:58<br>赞(1) 踩(0) | <div>去了现场，好棒！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428872013)<br>美丽的星空<br>2020-04-07 12:43<br>赞(0) 踩(0) | <div>真的吗？好历害！羡慕你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10255630)<br>暂无签名~<br>2019-11-08 01:31<br>赞(1) 踩(0) | <div>今年在上海听了一场高志豪的现场演奏会，在第二排，能看清小高的脸。音乐真的很棒，享受！我听不懂古典乐，我只喜欢流行钢琴曲。没什么鉴赏力，好听，听着舒服！很享受！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10255630)<br>暂无签名~<br>2019-11-08 01:31<br>赞(1) 踩(0) | <div>今年在上海听了一场高志豪的现场演奏会，在第二排，能看清小高的脸。<br>音乐真的很棒，享受！我听不懂古典乐，我只喜欢流行钢琴曲。没什么鉴赏力，好听，听着舒服！很享受！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328657369)<br>风格随心而变、<br>2019-10-09 18:28<br>赞(1) 踩(0) | <div>总能听到你的歌，爱了，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356569955)<br><br>2019-10-08 14:16<br>赞(1) 踩(0) | <div>希望出更多好作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43256840)<br>听歌<br>2019-07-13 14:34<br>赞(2) 踩(0) | <div>一听到您的曲子，我神情……（无法行容）</div> |
@@ -105,7 +105,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8326332)<br>后来，即便是音乐，也无法...<br>2019-01-16 07:15<br>赞(0) 踩(0) | <div>日经更新公告栏 <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302382089)<br>。<br>2019-01-07 00:12<br>赞(1) 踩(0) | <div>因为爱阳光所以爱上了你的音乐，后来因为你的音乐我重新爱上了阳光。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411349095)<br>一个新手，一篇诗，一杯酒...<br>2018-12-31 20:35<br>赞(1) 踩(0) | <div>您会弹《卡农》吗？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101636444)<br>❤️一只喜欢闵玧其的疯姑...<br>2018-11-20 23:36<br>赞(0) 踩(0) | <div>1314评论实在不忍心打破（但还是打破了）❤️</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101636444)<br>❤️一只喜欢闵玧其的疯姑...<br>2018-11-20 23:36<br>赞(0) 踩(0) | <div>1314评论实在不忍心打破<br>（但还是打破了）<br>❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328798430)<br><br>2018-11-19 20:08<br>赞(0) 踩(0) | <div>明天可以抢票啦</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410486893)<br><br>2018-12-14 11:16<br>赞(0) 踩(0) | <div><img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259591395)<br><br>2019-01-24 13:09<br>赞(0) 踩(0) | <div>？ <img src="../../images/comments/91081ea0de8ee2c933524fb8574e76e5.png"></div> |
@@ -120,7 +120,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13466378)<br> <br>2018-08-07 00:32<br>赞(0) 踩(0) | <div>武汉见～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374888137)<br>严重纠结的选择困难户<br>2018-08-01 10:15<br>赞(2) 踩(0) | <div>特别喜欢Pb的曲子，希望能来合肥开音乐会啊。上半年在南京和上海我都错过了，很可惜。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8326332)<br>后来，即便是音乐，也无法...<br>2018-07-19 07:22<br>赞(2) 踩(0) | <div>以前去一些古城，会被商业化恶心到，现在听音乐&amp;hellip;&amp;hellip;</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377478160)<br>嗯……梦想是当花花的助手...<br>2020-01-21 13:45<br>赞(0) 踩(0) | <div>诶，音乐人也要吃饭养老婆(公)的嘛营销＋实力＝名气＝演出费＝吃饭所以，【有灵气的音乐人】≠【不食人间烟火的自己就会出名的仙人】噢</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377478160)<br>嗯……梦想是当花花的助手...<br>2020-01-21 13:45<br>赞(0) 踩(0) | <div>诶，音乐人也要吃饭养老婆(公)的嘛<br>营销＋实力＝名气＝演出费＝吃饭<br>所以，【有灵气的音乐人】≠【不食人间烟火的自己就会出名的仙人】噢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8326332)<br>后来，即便是音乐，也无法...<br>2020-01-22 00:42<br>赞(0) 踩(0) | <div><q><b>适俗随时说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377478160)<br>嗯……梦想是当花花的助手...<br>2020-01-22 21:36<br>赞(0) 踩(0) | <div><q><b>韦几说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8326332)<br>后来，即便是音乐，也无法...<br>2020-01-23 09:56<br>赞(0) 踩(0) | <div><q><b>适俗随时说：</b></q></div> |
@@ -199,9 +199,9 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11075210)<br><br>2017-07-13 15:36<br>赞(2) 踩(0) | <div>高哥。 你的作品听了好几年、每次都能回忆往事。你是唯一喜欢的钢琴家</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187466370)<br>努力努力再努力<br>2017-07-02 12:09<br>赞(1) 踩(0) | <div>看到了你，听过你的曲子后，我才知道我没什么那么喜欢钢琴。♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253592407)<br>再见<br>2017-06-30 21:15<br>赞(2) 踩(0) | <div>《Doutor coffee shop》正在虾米寻光评选，快来投票！！！截至7月2号</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231982721)<br>我已经回到原地，而你再也...<br>2017-06-30 14:27<br>赞(1) 踩(0) | <div>不用谢,去听听我弄的精选集你怎么样？//回复Piano Boy</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231982721)<br>我已经回到原地，而你再也...<br>2017-06-30 14:27<br>赞(1) 踩(0) | <div>不用谢,去听听我弄的精选集你怎么样？<br>//回复Piano Boy</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253592407)<br>再见<br>2017-07-15 20:16<br>赞(0) 踩(0) | <div>你是那个摄影师吗？ <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190272652)<br>赟就是娇<br>2017-06-28 19:30<br>赞(1) 踩(0) | <div>独立风格璀璨的星星这才是走心的音乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190272652)<br>赟就是娇<br>2017-06-28 19:30<br>赞(1) 踩(0) | <div>独立风格璀璨的星星<br>这才是走心的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203387286)<br>漫漫人生一人懂我就好无谓...<br>2017-06-28 18:10<br>赞(0) 踩(0) | <div>加油  要开心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243296462)<br>Never gives ...<br>2017-06-22 23:02<br>赞(1) 踩(0) | <div>The truth that you leave.以及，所有的歌曲，可以用经典形容。非常好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243296462)<br>Never gives ...<br>2017-06-22 23:01<br>赞(0) 踩(0) | <div>The truth that you leave.以及，所有的歌曲，可以用经典形容。</div> |
@@ -210,7 +210,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8326332)<br>后来，即便是音乐，也无法...<br>2017-06-12 07:23<br>赞(4) 踩(0) | <div>别被金钱消减了才华</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1630681)<br>世事洞明皆学问 ◕‿-｡...<br>2017-06-11 14:29<br>赞(1) 踩(0) | <div>很不错的钢琴曲，老乡！加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52533199)<br><br>2017-06-09 02:54<br>赞(0) 踩(0) | <div>高志豪</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285174732)<br><br>2017-05-26 09:35<br>赞(1) 踩(0) | <div>输给daydream了。对音乐的内涵的理解不足。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285174732)<br><br>2017-05-26 09:35<br>赞(1) 踩(0) | <div>输给daydream了。<br>对音乐的内涵的理解不足。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297615484)<br> <br>2017-05-22 18:59<br>赞(0) 踩(0) | <div>真的很美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262123146)<br>我愿用没有情感的躯壳换回...<br>2017-05-21 21:27<br>赞(0) 踩(0) | <div>独立和所有人的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293561658)<br>背灯和月就花阴，已是十年...<br>2017-05-03 17:50<br>赞(1) 踩(0) | <div>炒鸡喜欢</div> |
@@ -240,7 +240,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49748006)<br>Fly me to th...<br>2017-03-03 13:45<br>赞(0) 踩(0) | <div>哇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202123708)<br>Thank you ne...<br>2017-02-28 21:08<br>赞(0) 踩(0) | <div>每一首歌，都是一个故事</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231512)<br><br>2017-02-26 13:12<br>赞(3) 踩(0) | <div>买了广州演奏会票了，期待！ <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11681189)<br>木鱼响  小和尚不明了心...<br>2017-02-16 13:55<br>赞(1) 踩(0) | <div>台湾果然是个好地方，之前出了个v.k克收藏</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11681189)<br>木鱼响  小和尚不明了心...<br>2017-02-16 13:55<br>赞(1) 踩(0) | <div>台湾果然是个好地方，之前出了个v.k克<br>收藏</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211653025)<br>智者知幻即离，愚者以幻为...<br>2017-02-09 21:44<br>赞(0) 踩(0) | <div>全是马赛克</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93894210)<br>电脑桌的仙人掌<br>2017-02-01 10:48<br>赞(0) 踩(0) | <div>一如既往的喜欢 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260285137)<br><br>2017-01-22 14:58<br>赞(1) 踩(0) | <div>每一段乐章都有他独特的故事</div> |
@@ -250,7 +250,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261059400)<br><br>2017-01-11 19:46<br>赞(0) 踩(0) | <div>rll0</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44754665)<br>暂无签名~<br>2016-12-20 22:08<br>赞(4) 踩(0) | <div>昨天，pb来我们学校了，第一次听pb的音乐，好喜欢，还拿到了签名，好开心～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4364224)<br>.<br>2016-12-19 21:10<br>赞(3) 踩(0) | <div>12.19 华农站 很享受</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245418501)<br>我还没想好要写什么...<br>2016-12-17 16:55<br>赞(1) 踩(0) | <div>2016.12.17昨天高先生来我们学校啦 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png">有幸现场听他的演奏当大家举起手机拍照时 我闭上了眼睛  享受着那个时刻的宁静美好  <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">很放松的晚上 很幸运的一天 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245418501)<br>我还没想好要写什么...<br>2016-12-17 16:55<br>赞(1) 踩(0) | <div>2016.12.17<br>昨天高先生来我们学校啦 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"><br>有幸现场听他的演奏<br>当大家举起手机拍照时 我闭上了眼睛  享受着那个时刻的宁静美好  <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">很放松的晚上 很幸运的一天 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226081577)<br>人生总要有点喜欢的事情吧...<br>2017-04-28 13:25<br>赞(0) 踩(0) | <div>我听现场也喜欢闭上眼睛静静享受，那种感觉很不一样！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249823956)<br>简简单单。<br>2016-11-25 21:58<br>赞(0) 踩(0) | <div>无意之中听到的，真的很喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245258446)<br>除了自渡，他人爱莫能助<br>2016-11-16 20:22<br>赞(0) 踩(0) | <div>很美</div> |
@@ -305,7 +305,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48211350)<br>已弃虾米，勿扰<br>2016-01-19 11:14<br>赞(0) 踩(0) | <div>女朋友漂亮</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40309525)<br><br>2016-01-18 12:30<br>赞(0) 踩(0) | <div>以前听boy的曲子感觉比较平淡，刚刚听了王者，特么感觉超越v.k克了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46517976)<br>你在哪儿，来听。<br>2016-01-18 11:03<br>赞(0) 踩(0) | <div>啦啦啦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50530467)<br>《Pianoboy高至豪...<br>2016-01-18 00:36<br>赞(42) 踩(0) | <div>感谢制作团队为了广大乐迷不眠不休赶工，Pianoboy首次官方完美正版琴谱---简体版---第一波预购1/18也正式开始啦！！！(之前预购繁体版也可以转换成简体版，请告知当初订购人员)※※※※※※预购方式※※※※※※Step1：付款(1本￥70，以下银行皆可付款)招商银行 6214 8312 1805 3558中信银行 6217 6802 0105 0437◎亦可微信支付，请加Pianoboy经纪人微信(Pianoboy_Taiwan)Step2：填写预购单送出。(填好后以任何方式传送)1.姓名： 2.电话： 3.地址： 4.数量： 5.您的账号末五码：Step3：</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50530467)<br>《Pianoboy高至豪...<br>2016-01-18 00:36<br>赞(42) 踩(0) | <div>感谢制作团队为了广大乐迷不眠不休赶工，Pianoboy首次官方完美正版琴谱---简体版---第一波预购1/18也正式开始啦！！！(之前预购繁体版也可以转换成简体版，请告知当初订购人员)<br><br>※※※※※※预购方式※※※※※※<br><br>Step1：付款(1本￥70，以下银行皆可付款)<br>招商银行 6214 8312 1805 3558<br>中信银行 6217 6802 0105 0437<br>◎亦可微信支付，请加Pianoboy经纪人微信(Pianoboy_Taiwan)<br>Step2：填写预购单送出。(填好后以任何方式传送)<br>1.姓名： 2.电话： 3.地址： 4.数量： 5.您的账号末五码：<br>Step3：</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30502167)<br>空耳二百八十级<br>2016-01-17 17:01<br>赞(0) 踩(0) | <div>出新歌啦ฅʕ•̫͡•ʔฅ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50530467)<br>《Pianoboy高至豪...<br>2016-01-17 01:51<br>赞(12) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4482776)<br>热爱一切极限运动.<br>2016-01-17 10:06<br>赞(0) 踩(0) | <div>棒</div> |
@@ -391,7 +391,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287540037)<br><br>2017-09-21 19:29<br>赞(0) 踩(0) | <div>你的曲子都很棒！加油！希望你成为下一代钢琴王子！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37339135)<br>做自己很难。可是可以为自...<br>2017-10-02 17:03<br>赞(0) 踩(0) | <div>期待云南的演奏 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">  很喜欢你的曲子。听了整个人会变得很安静。无论什么时候都喜欢听 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53545321)<br><br>2017-10-07 14:36<br>赞(0) 踩(0) | <div>希望你创造出更多动听优美的曲子</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33650633)<br><br>2017-10-27 23:50<br>赞(0) 踩(0) | <div>有些音质不太好呀 录制的有些糙 影响了动听的旋律编排 混音后的效果更佳 有些小细节处的不精准 不和谐 期待更精致的曲子跳舞的娃娃节奏变化的有些混乱 不过还是很喜欢 像是一个木偶娃娃奇遇记的故事 有天真 有紧张</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33650633)<br><br>2017-10-27 23:50<br>赞(0) 踩(0) | <div>有些音质不太好呀 录制的有些糙 影响了动听的旋律<br>编排 混音后的效果更佳 有些小细节处的不精准 不和谐 期待更精致的曲子<br>跳舞的娃娃节奏变化的有些混乱 不过还是很喜欢 像是一个木偶娃娃奇遇记的故事 有天真 有紧张</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12150771)<br>朝牧青牛去，暮采野花回。...<br>2017-11-16 22:37<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339128210)<br>还没想好～(￣▽￣～)~<br>2017-12-16 19:50<br>赞(0) 踩(0) | <div>我非常喜欢小的音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205741006)<br><br>2017-12-24 17:10<br>赞(0) 踩(0) | <div>最爱钢琴手：pianoboy</div> |
@@ -489,7 +489,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5693451)<br>Seethenature<br>2015-01-05 12:46<br>赞(0) 踩(0) | <div>安静美娘子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22219308)<br>笑一个吧！~<br>2015-01-05 01:03<br>赞(0) 踩(0) | <div>24岁，学钢琴吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39608787)<br>石<br>2014-12-30 20:03<br>赞(0) 踩(0) | <div>原来 我早就见过你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2014-12-26 17:47<br>赞(0) 踩(0) | <div>已关注2014.12.26</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2014-12-26 17:47<br>赞(0) 踩(0) | <div>已关注<br>2014.12.26</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45128929)<br><br>2014-12-21 11:28<br>赞(0) 踩(0) | <div>我超喜欢他</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41624423)<br>暂无签名~<br>2014-12-20 21:44<br>赞(1) 踩(0) | <div>在电脑上听安静的午后听了一下午，然后晚上脑子里一直单曲循环这首歌，现在来到虾米狂下pianoboy::&gt;_&lt;::</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32461398)<br>曾在云上浮想联翩如今也终...<br>2014-12-04 19:15<br>赞(0) 踩(0) | <div>节奏─=≡Σ(((&nbsp;つ•̀ω•́)つ超人</div> |
@@ -585,7 +585,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137905)<br><br>2014-04-26 01:05<br>赞(1) 踩(0) | <div>俗，但喜欢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16396825)<br>do you ?<br>2014-04-22 10:59<br>赞(0) 踩(0) | <div>0.0</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35338338)<br><br>2014-04-21 20:46<br>赞(0) 踩(0) | <div>完美了阐释了什么是平民音乐家啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-04-16 01:44<br>赞(0) 踩(0) | <div>台湾钢琴男孩6455752,30690,855</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-04-16 01:44<br>赞(0) 踩(0) | <div>台湾钢琴男孩<br>6455752,30690,855</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28073383)<br>重新玩起了<br>2014-04-15 11:58<br>赞(0) 踩(0) | <div>喜欢.....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35331891)<br><br>2014-04-13 23:00<br>赞(0) 踩(0) | <div>嘻嘻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14734740)<br>陷入慵懒<br>2014-04-12 07:43<br>赞(0) 踩(0) | <div>好喜欢好喜欢~~~~</div> |
@@ -739,8 +739,8 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13973899)<br><br>2013-04-16 19:48<br>赞(0) 踩(0) | <div>找到专辑了哇哈哈哈~！pianoboy好神秘的样子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8119868)<br><br>2013-04-16 03:40<br>赞(0) 踩(0) | <div>Piano</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1526367)<br>我还没想好要写什么...<br>2013-04-15 09:53<br>赞(1) 踩(0) | <div>我可以追你么~Piano boy</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/588121)<br>我还没想好要写什么...<br>2013-04-14 10:46<br>赞(1) 踩(0) | <div>为了追那个女人,老子苦练The truth that you leave..结果还没练成,. 就已经追到了....</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9554441)<br>我还没想好要写什么...<br>2013-04-22 19:15<br>赞(0) 踩(0) | <div>练成就leave了，祝你早日成功！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/588121)<br>我还没想好要写什么...<br>2013-04-14 10:46<br>赞(1) 踩(0) | <div>为了追那个女人,<br>老子苦练The truth that you leave..<br>结果还没练成,. 就已经追到了....</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9554441)<br>我还没想好要写什么...<br>2013-04-22 19:15<br>赞(0) 踩(0) | <div>练成就leave了，<br>祝你早日成功！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1536068)<br>暂无签名~<br>2013-04-13 20:53<br>赞(0) 踩(0) | <div>love`~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4830094)<br><br>2013-04-11 08:45<br>赞(0) 踩(0) | <div>Pianoboy</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8909135)<br><br>2013-04-10 10:13<br>赞(0) 踩(0) | <div>有画面感~~~</div> |
@@ -829,7 +829,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8206174)<br>大音希声~<br>2013-01-03 12:56<br>赞(0) 踩(0) | <div>不错，很有才</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11858063)<br><br>2013-01-03 10:42<br>赞(0) 踩(0) | <div>简单而温暖</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9738781)<br>時計仕掛けのレイライン<br>2013-01-03 00:25<br>赞(0) 踩(0) | <div>很喜欢他的曲子❤温情啊~~~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12004160)<br><br>2013-01-02 21:54<br>赞(0) 踩(0) | <div>纯粹的音乐，纯粹的喜欢！钢琴辅以贝斯和鼓，绝美！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12004160)<br><br>2013-01-02 21:54<br>赞(0) 踩(0) | <div>纯粹的音乐，纯粹的喜欢！<br>钢琴辅以贝斯和鼓，绝美！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4353208)<br> <br>2013-01-01 21:34<br>赞(0) 踩(0) | <div>pianoboy不是弹vivalavida的吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9987885)<br>Zzz…(¦3[▓▓]<br>2012-12-29 18:26<br>赞(0) 踩(0) | <div>o(≧v≦)o~~好棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12116494)<br><br>2012-12-29 02:18<br>赞(0) 踩(0) | <div>就是喜欢~</div> |
@@ -948,7 +948,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1174878)<br> <br>2012-09-05 22:02<br>赞(0) 踩(0) | <div>上师大课间休息铃声。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8755422)<br><br>2012-09-04 22:49<br>赞(0) 踩(0) | <div>简单旋律</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9249353)<br> <br>2012-09-04 21:00<br>赞(0) 踩(0) | <div>i just love piano~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10121634)<br><br>2012-09-04 10:28<br>赞(0) 踩(0) | <div>Pianoboy高志豪</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10121634)<br><br>2012-09-04 10:28<br>赞(0) 踩(0) | <div>Pianoboy<br>高志豪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9659925)<br><br>2012-09-03 23:33<br>赞(0) 踩(0) | <div>为音乐奋斗的文艺青年！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10408260)<br><br>2012-09-02 20:25<br>赞(0) 踩(0) | <div>能打动我的心啊，很干净的音乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1250253)<br>唯有爱和音乐不可辜负<br>2012-09-02 14:28<br>赞(0) 踩(0) | <div>一句话，好听</div> |
@@ -990,7 +990,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7392083)<br><br>2012-08-03 11:25<br>赞(0) 踩(0) | <div>纯粹的旋律和淡淡的感觉，仿佛又回到了那一个个光华流转的午后，是阳光略微陈旧的味道</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6738117)<br><br>2012-08-01 22:09<br>赞(0) 踩(0) | <div>the truth that you leave</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8829969)<br>暂无签名~<br>2012-08-01 17:15<br>赞(0) 踩(0) | <div>different feeling</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10035857)<br>当安静成为生活的主弦律<br>2012-07-31 18:51<br>赞(0) 踩(0) | <div>无法抑制每一个音符排列的忧伤旋律，也无法逃避每一支迷茫交汇的沉郁奏曲； 　无法阻止每一出生命演绎的痛苦戏剧，也无法留住每一片转瞬即逝的柔美风景...欢迎收听腾讯微群：意境音乐流</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10035857)<br>当安静成为生活的主弦律<br>2012-07-31 18:51<br>赞(0) 踩(0) | <div>无法抑制每一个音符排列的忧伤旋律，也无法逃避每一支迷茫交汇的沉郁奏曲； 　无法阻止每一出生命演绎的痛苦戏剧，也无法留住每一片转瞬即逝的柔美风景...<br>欢迎收听腾讯微群：意境音乐流</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3644845)<br><br>2012-07-30 20:39<br>赞(0) 踩(0) | <div>轻轻的带着安静入眠</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2050260)<br>自己觉得好听就是好歌！<br>2012-07-30 12:52<br>赞(0) 踩(0) | <div>国产人才</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9887619)<br><br>2012-07-30 10:35<br>赞(0) 踩(0) | <div>很喜欢啊   很有feel</div> |
@@ -1119,7 +1119,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7164653)<br><br>2012-03-17 09:56<br>赞(0) 踩(0) | <div>?</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419360)<br>Vivian<br>2012-03-15 21:04<br>赞(0) 踩(0) | <div>钢琴</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8435226)<br><br>2012-03-15 12:22<br>赞(0) 踩(0) | <div>很清新的旋律，喜欢！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8393928)<br>与人为善说好话，从善如做<br>2012-03-14 22:07<br>赞(0) 踩(0) | <div>旋律优美，简单......生活，也似如此......</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8393928)<br>与人为善说好话，从善如做<br>2012-03-14 22:07<br>赞(0) 踩(0) | <div>旋律优美，简单......<br>生活，也似如此......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7003132)<br><br>2012-03-13 14:35<br>赞(0) 踩(0) | <div>The truth that you leave  。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1397618)<br><br>2012-03-12 21:48<br>赞(0) 踩(0) | <div>太喜欢了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8358138)<br><br>2012-03-12 16:41<br>赞(0) 踩(0) | <div>喜欢，简单而又有感动，有时候，它仅仅是如流水一般跃动的音符，有时候像低低的倾述，因心境而变。</div> |
@@ -1183,8 +1183,8 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7219425)<br><br>2011-12-21 21:25<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6059725)<br><br>2011-12-21 13:08<br>赞(0) 踩(0) | <div>轻快~~又带点忧伤的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1716504)<br><br>2011-12-20 22:32<br>赞(0) 踩(0) | <div>音乐钢琴</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7297544)<br><br>2011-12-18 16:25<br>赞(0) 踩(0) | <div>好聽!有夠給力的!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7297544)<br><br>2011-12-18 16:24<br>赞(0) 踩(0) | <div>好聽!有夠給力的!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7297544)<br><br>2011-12-18 16:25<br>赞(0) 踩(0) | <div>好聽!<br>有夠給力的!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7297544)<br><br>2011-12-18 16:24<br>赞(0) 踩(0) | <div>好聽!<br>有夠給力的!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7129192)<br><br>2011-12-16 22:38<br>赞(0) 踩(0) | <div>简单的旋律弹出不简单的人生</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1504000)<br><br>2011-12-16 17:49<br>赞(0) 踩(0) | <div>因为是钢琴曲。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2240248)<br>哀家素喵星人~ 喵~<br>2011-12-15 19:52<br>赞(0) 踩(0) | <div>对钢琴就是没有办法抗拒。</div> |
@@ -1301,7 +1301,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/897147)<br><br>2011-09-01 15:22<br>赞(0) 踩(0) | <div>很享受</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4897160)<br><br>2011-08-31 16:16<br>赞(0) 踩(0) | <div>好听不过如此！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5642134)<br><br>2011-08-31 13:32<br>赞(0) 踩(0) | <div>Faris</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2289287)<br> <br>2011-08-31 10:43<br>赞(0) 踩(0) | <div>the truth that you leave不知为什么，听了前奏，眼角就热了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2289287)<br> <br>2011-08-31 10:43<br>赞(0) 踩(0) | <div>the truth that you leave<br>不知为什么，听了前奏，眼角就热了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5101967)<br><br>2011-08-30 09:54<br>赞(0) 踩(0) | <div>love it</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5626657)<br><br>2011-08-29 21:31<br>赞(0) 踩(0) | <div>the truth that you leave 听久了感觉出一点故事</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5508662)<br><br>2011-08-28 14:47<br>赞(0) 踩(0) | <div>纯粹的魅力</div> |
@@ -1314,7 +1314,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4096519)<br><br>2011-08-15 12:26<br>赞(0) 踩(0) | <div>清新的音乐，悠扬的旋律~特别适合一个人的时候~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4349028)<br><br>2011-08-13 22:01<br>赞(0) 踩(0) | <div>【Zoe好歌一推】他的每一首曲都很喜欢~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5209964)<br><br>2011-08-12 20:15<br>赞(0) 踩(0) | <div>作为钢琴曲 他的歌并不算安静 可是 你总是能从他的每个音符里读出那么一点点忧伤 却也并非颓唐 伴着忧伤 还有一丝激昂 让人有种向上看的张力</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3917679)<br>谛听喵<br>2011-08-08 19:59<br>赞(0) 踩(0) | <div>所有的钢琴曲碰撞出来声音或忧伤,或欢快.而共有的特点就是似乎所有的钢琴曲像是在对你诉说着一个故事。或是忧伤的故事,或是浪漫的故事。而钢琴曲是没有歌词的音乐,或许就是这样才会让钢琴有着特殊的魅力。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3917679)<br>谛听喵<br>2011-08-08 19:59<br>赞(0) 踩(0) | <div>所有的钢琴曲碰撞出来声音或忧伤,或欢快.而共有的特点就是似乎所有的钢琴曲像是在对你诉说着一个故事。<br>或是忧伤的故事,或是浪漫的故事。而钢琴曲是没有歌词的音乐,或许就是这样才会让钢琴有着特殊的魅力。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2524119)<br><br>2011-08-06 15:44<br>赞(0) 踩(0) | <div>~~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2981547)<br>暂无签名~<br>2011-07-28 20:33<br>赞(0) 踩(0) | <div>台大研究生,独立的钢琴音乐创作</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2981547)<br>暂无签名~<br>2011-07-28 20:26<br>赞(0) 踩(0) | <div>台大研究生,独立的钢琴音乐创作</div> |
@@ -1329,9 +1329,9 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208501)<br><br>2011-07-07 23:35<br>赞(0) 踩(0) | <div>带着青草香味的男生</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4192066)<br>布布布嘟～<br>2011-07-07 22:52<br>赞(0) 踩(0) | <div>.......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4742719)<br><br>2011-07-07 20:58<br>赞(0) 踩(0) | <div>相比纯钢琴曲我更喜欢他这种……</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1234356)<br>再见虾米！辛苦你们了！<br>2011-06-28 14:37<br>赞(0) 踩(0) | <div>我想 这个人也许是很孤独的 不然染指间所要诉说的尽是无境的悲伤我想 这个人也许是坚强的   跳跃的点点 间隙旋律也有奋力的挣扎</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1234356)<br>再见虾米！辛苦你们了！<br>2011-06-28 14:37<br>赞(0) 踩(0) | <div>我想 这个人也许是很孤独的 不然染指间所要诉说的尽是无境的悲伤<br>我想 这个人也许是坚强的   跳跃的点点 间隙旋律也有奋力的挣扎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1234356)<br>再见虾米！辛苦你们了！<br>2011-06-28 14:31<br>赞(0) 踩(0) | <div>神秘个性的钢琴师 哀伤的曲调 娓娓有如哭诉般的旋律最打动人</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4012272)<br><br>2011-06-23 12:46<br>赞(0) 踩(0) | <div>the truth that you leave真可惜 知道的人这么少有才华的人啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4012272)<br><br>2011-06-23 12:46<br>赞(0) 踩(0) | <div>the truth that you leave<br>真可惜 知道的人这么少<br>有才华的人啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/527026)<br><br>2011-06-20 16:08<br>赞(0) 踩(0) | <div>听起来简单的曲子。还好。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1153216)<br><br>2011-06-19 22:17<br>赞(0) 踩(0) | <div>初次听到the truth that you leave, 就迷上啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1891518)<br><br>2011-06-13 10:45<br>赞(0) 踩(0) | <div>pianoboy</div> |
@@ -1406,7 +1406,7 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2494675)<br>Pussy<br>2011-01-26 10:56<br>赞(0) 踩(0) | <div>..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2611192)<br><br>2011-01-25 13:12<br>赞(0) 踩(0) | <div>我好喜欢的。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1397552)<br>天堂的隔壁是疯人院<br>2011-01-24 22:05<br>赞(0) 踩(0) | <div>每首歌的感觉都不一样,不同时候听不同的歌!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2531118)<br><br>2011-01-18 11:55<br>赞(0) 踩(0) | <div>很棒，很美！希望你能创作出更多更好听的音乐！挺你~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2531118)<br><br>2011-01-18 11:55<br>赞(0) 踩(0) | <div>很棒，很美！<br>希望你能创作出更多更好听的音乐！挺你~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2499950)<br><br>2011-01-15 15:14<br>赞(0) 踩(0) | <div>这里是最纯的诗，最静的夜，喜欢他简单动人的音乐还有澄澈的旋律</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1912694)<br><br>2011-01-02 16:04<br>赞(0) 踩(0) | <div>会讲故事的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2292550)<br><br>2010-12-25 23:11<br>赞(0) 踩(0) | <div>加班时也能听最好</div> |
@@ -1426,12 +1426,12 @@ With unique and talented skills, Pianoboy creates  his beautiful music world. H
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/994885)<br><br>2010-06-10 19:00<br>赞(0) 踩(0) | <div>不小心进来，很不小心就喜欢了！很好听的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/750191)<br>my will<br>2010-05-12 07:20<br>赞(0) 踩(0) | <div>加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/646377)<br>不忘初心，方得始终<br>2010-03-05 22:36<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128209)<br>向着感觉的方向行走……<br>2009-12-09 17:27<br>赞(0) 踩(0) | <div>the truth that you leave很好听，可惜这里面没有。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128209)<br>向着感觉的方向行走……<br>2009-12-09 17:27<br>赞(0) 踩(0) | <div>the truth that you leave<br>很好听，可惜这里面没有。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/491786)<br><br>2009-12-20 19:49<br>赞(0) 踩(0) | <div>我发布了，正在等待审核~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128209)<br>向着感觉的方向行走……<br>2009-12-20 20:04<br>赞(0) 踩(0) | <div><q><b>idamag说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/491786)<br><br>2009-12-20 20:06<br>赞(0) 踩(0) | <div><q><b>米茶说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128209)<br>向着感觉的方向行走……<br>2009-12-20 20:11<br>赞(0) 踩(0) | <div><q><b>idamag说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/994885)<br><br>2010-06-10 19:01<br>赞(0) 踩(0) | <div>现在有了，你听听我就是被这首歌打动的 呵呵</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/994885)<br><br>2010-06-10 19:01<br>赞(0) 踩(0) | <div>现在有了，你听听<br>我就是被这首歌打动的 呵呵</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128209)<br>向着感觉的方向行走……<br>2010-06-10 21:26<br>赞(0) 踩(0) | <div><q><b>欢欢说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/994885)<br><br>2010-06-11 08:37<br>赞(0) 踩(0) | <div><q><b>米茶说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/552971)<br><br>2009-12-02 17:56<br>赞(0) 踩(0) | <div>太喜欢了。。</div> |

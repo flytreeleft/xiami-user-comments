@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9ec59d35c46c6b3ece4781bc110ef6fb.png)<br>木小雅](https://i.xiami.com/sia94) | **播放数**: 4170948<br>**粉丝数**: 3619<br>**评论数**: 108<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 独立民谣 Indie Folk, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/9ec59d35c46c6b3ece4781bc110ef6fb.png)<br>木小雅](https://i.xiami.com/sia94) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 独立民谣 Indie Folk, 国语流行 Mandarin Pop<br>**播放数**: 4170948<br>**粉丝数**: 3619<br>**评论数**: 108<br> |
 
 ## 档案
 
@@ -35,24 +35,24 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37663555)<br><br>2020-02-24 13:32<br>赞(0) 踩(0) | <div>城门开哪有下载？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248907560)<br>诗酒趁年华，醉卧美人膝。<br>2020-01-29 16:33<br>赞(0) 踩(0) | <div>但愿早日拿到版权吧虾米，配图我也是醉了，辣眼睛……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47552480)<br>a town calle...<br>2019-11-29 13:16<br>赞(1) 踩(0) | <div>今天在南京台看到你的作品了 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">恭喜恭喜！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377158212)<br><br>2019-09-05 20:59<br>赞(0) 踩(0) | <div>城南摇很好听，麒麟音乐节听过的，可是怎么始终找不到？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283040611)<br>不忘初心，方得始终。<br>2019-07-12 09:18<br>赞(2) 踩(0) | <div>需要静下心来品的歌，美， <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402879998)<br>以后的路，边走边爱，反正...<br>2019-05-02 12:18<br>赞(4) 踩(0) | <div>沉浸在清欢这样的小心思，便于冥想。清欢是一场偶遇，犹在古意里萌芽初绽，春愁匝匝而起，一种思绪总是合着谈谈的惆怅不约而来。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402879998)<br>以后的路，边走边爱，反正...<br>2019-05-02 12:18<br>赞(4) 踩(0) | <div>沉浸在清欢这样的小心思，便于冥想。<br>清欢是一场偶遇，犹在古意里萌芽初绽，春愁匝匝而起，一种思绪总是合着谈谈的惆怅不约而来。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14004084)<br>你好<br>2019-04-20 22:24<br>赞(0) 踩(0) | <div>优秀优秀很喜欢 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400558082)<br>北斗星向左。<br>2019-03-31 10:59<br>赞(4) 踩(0) | <div>小雅~歌真的很好听 歌词里满满都是最真的冲动呢 我也是只设计狗 喜欢你的生活方式好好写歌 天天设计加油呀⊙▽⊙mua~小雅</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400558082)<br>北斗星向左。<br>2019-03-31 10:59<br>赞(4) 踩(0) | <div>小雅~歌真的很好听 歌词里满满都是最真的冲动呢 我也是只设计狗 喜欢你的生活方式<br>好好写歌 天天设计<br>加油呀⊙▽⊙<br>mua~小雅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246689266)<br><br>2019-02-24 11:13<br>赞(0) 踩(0) | <div>加油;-)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5854459)<br>潮牌https://dw...<br>2019-02-07 11:18<br>赞(1) 踩(0) | <div>我代表里尔克感谢你~！太好听了~！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285923831)<br><br>2019-01-13 21:33<br>赞(1) 踩(0) | <div>超级喜欢民谣也喜欢写歌淘歌 每次听到自己喜欢的声音就像淘到宝一样羡慕可以坚持写歌 有机会唱给大家听的你们 加油(ง •̀_•́)ง我也加油 写给自己 唱给自己听 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285923831)<br><br>2019-01-13 21:33<br>赞(1) 踩(0) | <div>超级喜欢民谣也喜欢写歌淘歌 每次听到自己喜欢的声音就像淘到宝一样<br>羡慕可以坚持写歌 有机会唱给大家听的你们 加油(ง •̀_•́)ง<br>我也加油 写给自己 唱给自己听 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411783168)<br>而立<br>2019-01-13 09:04<br>赞(9) 踩(0) | <div><a href="http://emumo.xiami.com/u/19261701" target="_blank" rel="nofollow" name_card="19261701">@木小雅 </a>您好！不知道您能否看到这条信息，我来自贵州省最南边的一个小山城，荔波县，一个美丽的地方；前段时间在人民日报平台上听了你的《时光是座博物馆》，旋律和词给了我很大的启发，一遍一遍的听，也给了我很多能量，我现在在做关爱山区留守儿童的公益活动，自己组了一个民间组织。叫萤火虫公益，我在酝酿一首团队的主题曲，如果可能，想让您给听听，给点建议。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53615004)<br>十四<br>2018-12-20 23:29<br>赞(2) 踩(0) | <div>相信你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410220317)<br><br>2018-12-14 20:35<br>赞(1) 踩(0) | <div>加油⊙▽⊙</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40254483)<br><br>2018-12-12 21:49<br>赞(3) 踩(0) | <div>声音好听，会一直关注你的歌（声音和李雨有点像）</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26078991)<br>珍惜～逐梦～<br>2018-12-12 11:17<br>赞(3) 踩(0) | <div>很好听的歌，收藏了！加油小妹！有梦想并去追逐是最快乐的事情！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26078991)<br>珍惜～逐梦～<br>2018-12-12 11:17<br>赞(3) 踩(0) | <div>很好听的歌，收藏了！<br>加油小妹！有梦想并去追逐是最快乐的事情！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40611886)<br>嘿嘿嘿！你好你好呀！<br>2018-12-02 22:23<br>赞(1) 踩(0) | <div>很棒的你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309548596)<br>音乐让我说……<br>2018-11-23 16:51<br>赞(3) 踩(0) | <div>你的歌让其他的人红了 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335681133)<br>美好的一天，从听到电台头...<br>2018-11-21 04:52<br>赞(1) 踩(0) | <div>日推推到你的歌哦，真是有缘~</div> |
@@ -64,7 +64,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81933)<br><br>2018-08-01 21:32<br>赞(2) 踩(0) | <div>干净的声音，难得！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356143265)<br><br>2018-07-08 17:03<br>赞(1) 踩(0) | <div>加油啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317862547)<br>我还没想好要写什<br>2018-07-04 21:02<br>赞(2) 踩(0) | <div>一直支持你 <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349406797)<br><br>2018-06-24 23:29<br>赞(10) 踩(0) | <div>小雅啊，你的歌现在有超级多的人喜欢了呢。我真的很替你开心呢。第一次听你的歌，就被你的声音吸引了。我真的很喜欢你的声音</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349406797)<br><br>2018-06-24 23:29<br>赞(10) 踩(0) | <div>小雅啊，你的歌现在有超级多的人喜欢了呢。<br>我真的很替你开心呢。<br>第一次听你的歌，就被你的声音吸引了。<br>我真的很喜欢你的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98394128)<br>这个家伙有点懒<br>2018-06-20 15:55<br>赞(23) 踩(0) | <div>可能否啥时候可以回归呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293045922)<br><br>2018-06-14 23:38<br>赞(4) 踩(0) | <div>喜欢听小姐姐讲故事w  小姐姐加油呐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49895220)<br>一念静心花开遍世界<br>2018-06-10 23:45<br>赞(33) 踩(0) | <div>我不用网易、一直用虾米、在网上听到可能否、来虾米找、竟然被网易拿去了 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |

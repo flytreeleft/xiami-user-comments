@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/39daafec17b8c1da6cc8afb946080340.jpg)<br>陆媛](https://i.xiami.com/stephanieloo) | **播放数**: 2820912<br>**粉丝数**: 165<br>**评论数**: 10<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 节奏布鲁斯 R&B, 爵士流行 Jazz Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/39daafec17b8c1da6cc8afb946080340.jpg)<br>陆媛](https://i.xiami.com/stephanieloo) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 节奏布鲁斯 R&B, 爵士流行 Jazz Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 2820912<br>**粉丝数**: 165<br>**评论数**: 10<br> |
 
 ## 档案
 
@@ -44,8 +44,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352459220)<br>我还没想好要写什么...<br>2020-12-26 18:18<br>赞(0) 踩(0) | <div>人美声甜说的是你吗？回答我</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334178752)<br>音乐填满生命／情之所至<br>2020-12-28 12:39<br>赞(0) 踩(0) | <div>嘻嘻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254953388)<br><br>2020-05-04 23:40<br>赞(0) 踩(0) | <div>挺好听的。我现在怎么觉得，原唱我不想听可。</div> |

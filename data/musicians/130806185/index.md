@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/06a6c5e6a9b3ab412e0fe5a87e5c1b4e.jpg)<br>徐大乐](https://i.xiami.com/xudalesir) | **播放数**: 7409894<br>**粉丝数**: 970<br>**评论数**: 49<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop<br> |
+| [![](../../images/musicians/06a6c5e6a9b3ab412e0fe5a87e5c1b4e.jpg)<br>徐大乐](https://i.xiami.com/xudalesir) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop<br>**播放数**: 7409894<br>**粉丝数**: 970<br>**评论数**: 49<br> |
 
 ## 档案
 
@@ -22,8 +22,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-14 05:16<br>赞(1) 踩(0) | <div>42990</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440856004)<br>冷暖自知<br>2020-11-14 22:01<br>赞(0) 踩(0) | <div>这嗓音爱了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364882382)<br>眼睛里装的是善良，看到の...<br>2020-06-27 11:37<br>赞(0) 踩(0) | <div>酷加油</div> |

@@ -41,5 +41,3 @@ On a cold and frosty morning
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

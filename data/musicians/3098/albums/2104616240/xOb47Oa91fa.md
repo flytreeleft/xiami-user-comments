@@ -12,19 +12,16 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/502127)<br>我还没想好要写什么...<br>2020-12-23 19:48<br>赞(0) 踩(0) | <div>满满的太空感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/67169306)<br><br>2020-12-17 00:23<br>赞(0) 踩(0) | <div>内心和宇宙在一起飞速扩张</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164473)<br>不喧哗 自有声<br>2020-12-14 13:30<br>赞(0) 踩(0) | <div>湿了 湿的一塌糊涂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379912005)<br>感谢虾米，永远记得。<br>2020-10-28 03:53<br>赞(0) 踩(0) | <div>一</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11124502)<br>终有弱水替沧海<br>2020-10-25 08:48<br>赞(0) 踩(0) | <div>&amp;ldquo;世界是我的表象&amp;rdquo;-叔本华-</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11124502)<br>终有弱水替沧海<br>2020-10-25 08:48<br>赞(0) 踩(0) | <div>&amp;ldquo;世界是我的表象&amp;rdquo;<br><br>-叔本华-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45722894)<br> <br>2020-10-24 15:08<br>赞(0) 踩(0) | <div>这个乐队怎么这么优秀？？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219278205)<br>我现在给你e-mail吧<br>2020-10-14 23:23<br>赞(0) 踩(0) | <div>朝闻道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45361149)<br>我还没想好要写什么...<br>2020-09-29 14:33<br>赞(0) 踩(0) | <div>应该用作《三体》的配音，就是人类第一次见到水滴时的配音，9分13秒开始，水滴启动撞向人类舰队，人类舰队全军覆没。</div> |
@@ -43,7 +40,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2951363)<br>I will die<br>2020-05-24 22:17<br>赞(0) 踩(0) | <div>XAHU：何必知道自己在哪儿？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333572969)<br><br>2020-04-16 17:25<br>赞(1) 踩(0) | <div>惘聞真是宝藏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203260842)<br>我还没想好要写什么..<br>2020-04-06 22:39<br>赞(1) 踩(0) | <div>也许圙</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5913428)<br>後搖患者//樂是萬能藥<br>2020-03-22 04:33<br>赞(1) 踩(0) | <div>有時 我們只是不願承認那些感動過的 已經隨風飄走但是惘聞 依舊是那個 惘聞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5913428)<br>後搖患者//樂是萬能藥<br>2020-03-22 04:33<br>赞(1) 踩(0) | <div>有時 我們只是不願承認<br>那些感動過的 已經隨風飄走<br>但是<br>惘聞 依舊是那個 惘聞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350037599)<br><br>2020-03-17 10:29<br>赞(4) 踩(0) | <div>肺炎横行的时候，集体愚蠢的时候，人心凉薄的时候，我又来到太空了。文字的太空，音乐的太空，我的太空。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86429868)<br>当你在凝望深渊的时候 它...<br>2020-03-03 05:07<br>赞(1) 踩(0) | <div>这首歌太牛 听到下雨 仿佛老天爷都想让我心灵洗礼一般</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86429868)<br>当你在凝望深渊的时候 它...<br>2020-03-03 04:35<br>赞(2) 踩(0) | <div>我一个清新淡雅的女生竟喜欢上后摇</div> |
@@ -93,7 +90,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1168284)<br><br>2019-06-08 02:53<br>赞(2) 踩(0) | <div>星际穿越的感觉，有没有。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20855052)<br><br>2019-06-07 09:59<br>赞(1) 踩(0) | <div>后摇是让人更烦躁还是更平静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17199566)<br>The Mountain...<br>2019-05-29 10:08<br>赞(0) 踩(0) | <div>开篇就和封面完全相吻合。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55212970)<br><br>2019-05-27 12:43<br>赞(5) 踩(0) | <div>三千世界里的诸世神佛三千万光年外窥视的陌生人三千亿银河里的点点星光悟不到看不着遥不可及难觅踪迹空曰宇时曰宙时空结缘无穷 无尽言曰语誓曰咒誓言解缘无琼 无近</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55212970)<br><br>2019-05-27 12:43<br>赞(5) 踩(0) | <div>三千世界里的诸世神佛<br>三千万光年外窥视的陌生人<br>三千亿银河里的点点星光<br>悟不到<br>看不着<br>遥不可及<br>难觅踪迹<br><br>空曰宇<br>时曰宙<br>时空结缘<br>无穷 无尽<br>言曰语<br>誓曰咒<br>誓言解缘<br>无琼 无近</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81354978)<br> <br>2020-08-29 18:09<br>赞(0) 踩(0) | <div>我记得有这么一句话 空间的事情 交给时间&amp;hellip; 你写的真好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37357303)<br> <br>2019-05-22 16:22<br>赞(1) 踩(0) | <div>你说是太空 我听到了克苏鲁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7648859)<br>是音乐让我们东拼西凑在一...<br>2019-05-21 07:24<br>赞(1) 踩(0) | <div>[带墨镜笑]</div> |
@@ -112,7 +109,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26175143)<br>我还没想好要写什么...<br>2019-05-04 14:01<br>赞(1) 踩(0) | <div>听到所有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353984271)<br>日本料理寒一个人吃饭有点...<br>2019-05-04 10:59<br>赞(1) 踩(0) | <div>夜也，人也，天也，无穹也，无穷也。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353984271)<br>日本料理寒一个人吃饭有点...<br>2019-05-04 10:55<br>赞(0) 踩(0) | <div>漫天无际。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295387188)<br>Too cool to ...<br>2019-05-04 06:08<br>赞(0) 踩(0) | <div>曲长10:40于是有了一瞥见到前后两个5:20</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295387188)<br>Too cool to ...<br>2019-05-04 06:08<br>赞(0) 踩(0) | <div>曲长10:40<br>于是有了一瞥见到前后<br>两个5:20</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401711828)<br>活时尽兴，去无所羁<br>2019-05-02 20:33<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409971515)<br>情不知所以一往情深<br>2019-05-01 00:26<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2959495)<br>后摇是安慰剂，新世纪是解...<br>2019-04-30 17:34<br>赞(3) 踩(0) | <div>氛围太棒了，不愧是一流的器乐团</div> |
@@ -194,14 +191,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8394506)<br>NO TIME<br>2019-03-08 07:49<br>赞(1) 踩(0) | <div>生之谜底，死之赞歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341858902)<br>我还没想好要写什么...<br>2019-03-08 07:12<br>赞(1) 踩(0) | <div>这是一部宇宙兴亡的史诗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103335322)<br> Emit energy...<br>2019-03-08 00:40<br>赞(1) 踩(0) | <div>很有画面感，惘闻近期我最爱的一首</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363981948)<br>我还没想好要写什么...<br>2019-03-08 00:31<br>赞(3) 踩(0) | <div>青春走了，留下了最初的理想还没实现，对，我们的理想还没实现，可能再也实现不了了，因为青春走了，他把热情也带走了，把冲动也带走了，把无畏也带走了，把没被玷污的心也带走了，剩下了在世间扭捏和挣扎的我们，还活着吧。活着吗？我们是不是在青春走的时候已经死了。还没吧，那些理想还在耳边啊，可我们怎么不敢扭头看它了呢。你看，理想还站在那个地方，没动过，是我们走散了。我们为了捡一粒闪光的沙子往左走了一步，又为了看一眼美丽的彩霞往后退了一步，再往右一步去捡起了那颗掉在地下的果子，然后，我们回不去了吗？不用了吧，你再往前走一步，就回到理想的身边了，你看见了吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363981948)<br>我还没想好要写什么...<br>2019-03-08 00:31<br>赞(3) 踩(0) | <div>青春走了，留下了最初的理想还没实现，对，我们的理想还没实现，可能再也实现不了了，因为青春走了，他把热情也带走了，把冲动也带走了，把无畏也带走了，把没被玷污的心也带走了，剩下了在世间扭捏和挣扎的我们，还活着吧。<br><br>活着吗？我们是不是在青春走的时候已经死了。还没吧，那些理想还在耳边啊，可我们怎么不敢扭头看它了呢。<br><br>你看，理想还站在那个地方，没动过，是我们走散了。我们为了捡一粒闪光的沙子往左走了一步，又为了看一眼美丽的彩霞往后退了一步，再往右一步去捡起了那颗掉在地下的果子，然后，我们回不去了吗？<br><br>不用了吧，你再往前走一步，就回到理想的身边了，你看见了吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2628338)<br>人生是场旅行<br>2019-03-08 21:06<br>赞(0) 踩(0) | <div>青春走了，我们只剩活着了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343001261)<br><br>2019-03-07 23:46<br>赞(0) 踩(0) | <div>被吸引了。。。。喜歡這樣的音樂 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304534680)<br>I am what I ...<br>2019-03-07 22:49<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13842060)<br>音乐与文字<br>2019-03-07 20:33<br>赞(1) 踩(0) | <div>星辰大海，后摇的终极答案</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420624272)<br><br>2019-03-07 19:51<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410113430)<br><br>2019-03-07 19:25<br>赞(0) 踩(0) | <div>康萍一个我曾经喜欢的女人。而今却行若两人。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2628338)<br>人生是场旅行<br>2019-03-07 19:18<br>赞(2) 踩(0) | <div>霓虹的是城市，暗淡的是我们。列车驶出城市，穿行无尽黑夜。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2628338)<br>人生是场旅行<br>2019-03-07 19:18<br>赞(2) 踩(0) | <div>霓虹的是城市，<br>暗淡的是我们。<br>列车驶出城市，<br>穿行无尽黑夜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304534680)<br>I am what I ...<br>2019-03-07 14:14<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304534680)<br>I am what I ...<br>2019-03-07 08:02<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304534680)<br>I am what I ...<br>2019-03-06 20:10<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
@@ -238,7 +235,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10073677)<br>我还没想好要写什么...<br>2019-03-05 09:22<br>赞(0) 踩(0) | <div><q><b>H.Y.H说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8547533)<br>吃饭睡觉打豆豆<br>2019-03-13 11:30<br>赞(0) 踩(0) | <div>说惘闻局限在自己的创作套路里，我感觉有些冤枉他们了，八匹马专辑以后，他们相比起其他一些pr乐队来说一直在突破自我，一直在探索，只是那些音乐再也不会取悦谁的耳朵了。就像谢老师在afterhour纪录片里说的一样“你喜欢不喜欢，都无所谓。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304534680)<br>I am what I ...<br>2019-03-04 06:38<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20864595)<br>hebe jam Sea...<br>2019-03-03 21:56<br>赞(0) 踩(0) | <div>无限佩服点赞热评 无尽感慨宇宙间的一切</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20864595)<br>hebe jam Sea...<br>2019-03-03 21:56<br>赞(0) 踩(0) | <div>无限佩服点赞热评 无尽感慨<br>宇宙间的一切</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25715982)<br>永远爱你。<br>2019-03-03 21:49<br>赞(0) 踩(0) | <div>D</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304534680)<br>I am what I ...<br>2019-03-03 20:15<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163134380)<br>静若书呆子，动若流氓兔<br>2019-03-03 17:28<br>赞(0) 踩(0) | <div>宇宙无垠但有序</div> |
@@ -290,18 +287,18 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16294585)<br><br>2019-02-26 22:43<br>赞(7) 踩(0) | <div>惘闻的歌，是黑夜的孩子，是失眠、烟草、躁郁的结合，是鬼打墙般的迷思的产物，只有在你凝望内心的时候，才能明确其形色，太阳一旦升起，歌的调子立马就会被湮没在窗外川流的车声洪流中，掩埋在生活的琐碎奔波中，前一夜的辗转，黑暗中的生死一念仿佛从未莅临脑海，你甚至回忆不起歌曲的音调，听过了就像没有听过一样，但是到了下一个夜晚，情绪和歌声就又如潮汐般滚滚而来，仿佛灵魂深处有一位呼号者，在每个已经、几近失眠的夜晚，帮助苦痛症候群一步步将夜晚的二十四小时走的更加深刻。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375350703)<br><br>2019-02-26 21:33<br>赞(3) 踩(0) | <div>穹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11861308)<br><br>2019-02-26 20:39<br>赞(4) 踩(0) | <div>好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19996714)<br>What's the p...<br>2019-02-26 20:00<br>赞(7) 踩(0) | <div>荒凉在表，热流暗涌声起星河灿烂，于我万千光年</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19996714)<br>What's the p...<br>2019-02-26 20:00<br>赞(7) 踩(0) | <div>荒凉在表，热流暗涌<br>声起星河灿烂，于我万千光年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420008541)<br>掠影之谈<br>2019-02-26 19:21<br>赞(4) 踩(0) | <div>你说你孤独/就像很久以前/火星照耀十三个州府/</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286581)<br><br>2019-02-26 19:08<br>赞(4) 踩(0) | <div>怎么听出了MONO的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378036577)<br>我还没想好要写什么...<br>2019-02-26 15:57<br>赞(4) 踩(0) | <div>听得酥酥得，全身起鸡皮疙瘩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419996131)<br><br>2019-02-26 13:31<br>赞(2) 踩(0) | <div>韩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5179893)<br> <br>2019-02-26 11:42<br>赞(2) 踩(0) | <div>近作最爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380364370)<br>傲娇幽灵<br>2019-02-26 09:39<br>赞(4) 踩(0) | <div>潘多拉魔盒根据量子力学的测不准定律，魔盒里充满灾难的可能性无限接近零；而其中充满希望的可能性同样接近零。在盒子被打开之前，灾难与希望的比值无法被测量。也许潘多拉只是不太走运？或者写故事的人其实比自然更残酷。*友情提示：为避免有人真的当真，以上资料均为瞎掰。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380364370)<br>傲娇幽灵<br>2019-02-26 09:39<br>赞(4) 踩(0) | <div>潘多拉魔盒<br>根据量子力学的测不准定律，<br>魔盒里充满灾难的可能性无限接近零；<br>而其中充满希望的可能性同样接近零。<br>在盒子被打开之前，<br>灾难与希望的比值无法被测量。<br>也许潘多拉只是不太走运？<br>或者写故事的人其实比自然更残酷。<br><br>*友情提示：为避免有人真的当真，<br>以上资料均为瞎掰。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2951363)<br>I will die<br>2019-02-26 08:20<br>赞(3) 踩(0) | <div>无边无际的寂静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328291783)<br>嘘<br>2019-02-26 02:25<br>赞(12) 踩(0) | <div>就喜欢看你们为了跟风合群，非得强行赋予一首歌曲意义的评论。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54636164)<br>活到老，戒到老<br>2019-02-26 14:48<br>赞(0) 踩(0) | <div>肤浅</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38844843)<br><br>2019-02-26 20:37<br>赞(0) 踩(0) | <div>如果听音乐没有共鸣，我也不知道你在听啥</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18800961)<br>暂无签名~<br>2019-02-26 00:04<br>赞(2) 踩(0) | <div>也好 你走了就自由了 做你想做的 世界宇宙这么大 当你的外孙女挺好的 下辈子 咱们好好说话 好话一定好好说 想让人陪着就好好说我永远记得我有一个笑起来特别慈祥帅气 有如来佛耳垂的姥爷。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18800961)<br>暂无签名~<br>2019-02-26 00:04<br>赞(2) 踩(0) | <div>也好 你走了就自由了 做你想做的 世界宇宙这么大 当你的外孙女挺好的 下辈子 咱们好好说话 好话一定好好说 想让人陪着就好好说<br>我永远记得我有一个笑起来特别慈祥帅气 有如来佛耳垂的姥爷。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27986986)<br> <br>2019-02-25 23:31<br>赞(2) 踩(0) | <div>我喜欢其中的荒凉感空旷的寂静的庞大和微小同时存在。对宇宙的想象让我觉得自己的所有悲伤都微不足道而理所当然。宇宙本身就是一个悲伤的存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2144416)<br><br>2019-02-25 23:22<br>赞(1) 踩(0) | <div>这首曲子比惘闻以前的曲子听起来都广袤了很多。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/146646100)<br> <br>2019-02-25 23:21<br>赞(9) 踩(0) | <div>国产后摇的第一把交椅。为什么现在越来越多的人开始听后摇？没人想听你狗屁不通的爱情故事，就像你也不会来感同身受我的操蛋生活。我只要一个自我的窗口。闭嘴吧。</div> |
@@ -310,7 +307,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353952125)<br><br>2019-02-25 21:42<br>赞(1) 踩(0) | <div>生命，没终头，但有源头，宇宙不是全部，是想象放飞了翅膀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29250651)<br>愿这些碎片，成片。<br>2019-02-25 21:05<br>赞(1) 踩(0) | <div>站在广袤的大地上，夜空深邃，星光点点。一个人在这里四处游荡，回想起自己前半生，似乎并未如少年时畅想的那般模样。依旧一人，也尝到了一些悲欢离合和人情人暖，却还是觉得未被彻底释放。躺在冰冷的地上，抬眼便是天，我却在离天最远的地方。漫天的繁星，熠熠生辉，这世间多美啊！我不停的前进，除了这美妙的月夜，也更为了黎明即起，整个世界将进入光明，进入全部的色彩。哪怕是一人又如何，风光依旧美。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323144565)<br><br>2019-02-25 20:33<br>赞(3) 踩(0) | <div>他们还是思考起了太空。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349383037)<br>我还没想好要写什么...<br>2019-02-25 20:22<br>赞(1) 踩(0) | <div>此时此刻我正在前往北京的高铁上.突然觉得出行对于我来说唯一感到欣慰的就是“在路上”这件事儿了想问问大家.世界上有没有不会停的雪国列车.票在哪里买.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349383037)<br>我还没想好要写什么...<br>2019-02-25 20:22<br>赞(1) 踩(0) | <div>此时此刻我正在前往北京的高铁上.<br>突然觉得<br>出行对于我来说<br>唯一感到欣慰的<br>就是“在路上”这件事儿了<br>想问问大家.<br>世界上有没有不会停的雪国列车.<br>票在哪里买.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368890041)<br><br>2019-02-25 20:18<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/150427898)<br><br>2019-02-25 20:12<br>赞(0) 踩(0) | <div>这首大概是我第一首可以很享受地听完，不需要用耐心忍着听完的10分钟的音乐了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349383037)<br>我还没想好要写什么...<br>2019-02-25 20:13<br>赞(0) 踩(0) | <div>毕竟10分钟的音乐不多 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -384,7 +381,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412870067)<br>我还没想好要写什么...<br>2019-02-24 17:46<br>赞(0) 踩(0) | <div><q><b>嘎嘎嘎嘎说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7654929)<br><br>2019-02-24 14:41<br>赞(2) 踩(0) | <div>惘闻牛逼！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6966632)<br><br>2019-02-24 14:36<br>赞(2) 踩(0) | <div>130亿光年外存在着什么呢？任何文明都会生长灭亡，我们在有限中怀着敬畏和渴望，在无限的黑暗孤独里探索宇宙无穹，抬头仰望星空的那些人是人类之光</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10934816)<br><br>2019-02-24 14:35<br>赞(2) 踩(0) | <div>让人在一段旋律里遨游，乐队做到了，是用心创作给听者带来了享受。创作背景里提到更大的自由，我想，广阔到宇宙的空间里真有更大的自由么？会否是远看青青近却无的幻想？城市里忙碌琐碎、日复一日的间歇所感知的虚无绵绵无期，无法深究意义，作罢；偏远闭塞之地会否有纯粹些的人生、或少了无病呻吟的意义之殇？人生短暂如谜。34岁，开始为有创造性的事物激动不已，开始为平庸的日子感到恐慌、怕时光如梭而自己会碌碌无为终老，于是，开始给自己减负，卸去无用app、给父母和孩子更有质量的陪伴、往慎独靠拢，但依然缺乏创造性，缺乏一技之长。现在开始专注一件事，还有机会开出自己的花儿吧？要专注于什么呢？人生迷惘依旧，打破他吧。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10934816)<br><br>2019-02-24 14:35<br>赞(2) 踩(0) | <div>让人在一段旋律里遨游，乐队做到了，是用心创作给听者带来了享受。创作背景里提到更大的自由，我想，广阔到宇宙的空间里真有更大的自由么？会否是远看青青近却无的幻想？城市里忙碌琐碎、日复一日的间歇所感知的虚无绵绵无期，无法深究意义，作罢；偏远闭塞之地会否有纯粹些的人生、或少了无病呻吟的意义之殇？人生短暂如谜。<br><br>34岁，开始为有创造性的事物激动不已，开始为平庸的日子感到恐慌、怕时光如梭而自己会碌碌无为终老，于是，开始给自己减负，卸去无用app、给父母和孩子更有质量的陪伴、往慎独靠拢，但依然缺乏创造性，缺乏一技之长。现在开始专注一件事，还有机会开出自己的花儿吧？要专注于什么呢？人生迷惘依旧，打破他吧。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409664719)<br>你的祭日，我的生日。<br>2019-02-24 16:34<br>赞(0) 踩(0) | <div>同34岁，为别人活了34年，开始想为自己活一次。然而，自己是谁呢？并不认识这只沧桑的带着面具的狗。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10934816)<br><br>2019-02-24 21:56<br>赞(0) 踩(0) | <div><q><b>36岁的太宰治说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17800821)<br> <br>2019-02-24 14:27<br>赞(2) 踩(0) | <div>宇宙吗 <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
@@ -418,13 +415,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127477764)<br>这家伙很聪明什么也没留下...<br>2019-02-24 07:46<br>赞(1) 踩(0) | <div>中间管风琴段神似汉斯季默</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418760634)<br><br>2019-02-24 06:29<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401082760)<br>向天再借五百年<br>2019-02-24 06:27<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30529304)<br> 这个人很懒什么都没有留...<br>2019-02-24 01:11<br>赞(1) 踩(0) | <div>听得人害怕又期待。恐慌和不安，却和探索一起阐衍。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30529304)<br> 这个人很懒什么都没有留...<br>2019-02-24 01:11<br>赞(1) 踩(0) | <div>听得人害怕又期待。<br>恐慌和不安，却和探索一起阐衍。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346866424)<br><br>2019-02-24 01:02<br>赞(1) 踩(0) | <div>古耐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46827447)<br>铁幕重重困青年<br>2019-02-24 00:50<br>赞(36) 踩(0) | <div>你们能不能别这么脑补啊，还是听得太少？这也能叫好？一堆大牌后摇都堕落成啥样了，反正乐迷都会买单，乐手随便搞点东西就好了。mono这样，宇航员这样，魔怪这样，你惘闻演了几个国外音乐节成国际一线了，也马上学习了一线的堕落速度？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402878007)<br><br>2019-02-24 00:53<br>赞(0) 踩(0) | <div>占坑观战 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32749087)<br>终点站是晨曦<br>2019-02-24 02:46<br>赞(0) 踩(0) | <div>这首曲子确实一般</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277940890)<br><br>2019-03-17 17:05<br>赞(0) 踩(0) | <div>y</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277940890)<br><br>2019-03-17 17:05<br>赞(0) 踩(0) | <div>mmmmnyy</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277940890)<br><br>2019-03-17 17:05<br>赞(0) 踩(0) | <div>mmm<br>mn<br>yy</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30552500)<br> <br>2019-04-04 08:24<br>赞(0) 踩(0) | <div>音乐本来就是自赏性极高的艺术，你可以说它专业性不强，但无法judge别人的喜好。按你的说法，画家画一根线条是艺术，别人画就不存在意义了？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419994896)<br>坚持就是胜利<br>2019-04-12 08:38<br>赞(0) 踩(0) | <div>怎么样这首歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409170509)<br> <br>2019-06-07 10:59<br>赞(0) 踩(0) | <div>真的很建议你不要听</div> |
@@ -440,11 +437,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/176023420)<br>你觉得我应该写什么<br>2019-02-24 00:10<br>赞(1) 踩(0) | <div>在宇宙里，我感受不到时间。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419850403)<br>还能说什么<br>2019-02-24 00:06<br>赞(2) 踩(0) | <div>欧洲有冰岛，东北有大连 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241275006)<br><br>2019-02-23 23:50<br>赞(0) 踩(0) | <div>在无尽的黑暗里游荡，你听到来自哪个星球的心跳，又感受到它们在哪一个轨道上绕着哪一个中心转动着。悲欢都不重要，感受来自孤独带给你的安全感。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77068266)<br>就是叫做藤野严九郎的<br>2019-02-23 23:40<br>赞(3) 踩(0) | <div>后摇做到这个份上真的可以了曾经给我相同感动的是平克的highhopes最后的solo</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258032440)<br>我还没想好要写什么...<br>2019-02-23 23:34<br>赞(1) 踩(0) | <div>后摇是精神支柱累的不行的时候就好好品尝一下生命的苦涩迷茫</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77068266)<br>就是叫做藤野严九郎的<br>2019-02-23 23:40<br>赞(3) 踩(0) | <div>后摇做到这个份上真的可以了<br>曾经给我相同感动的是平克的highhopes最后的solo</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258032440)<br>我还没想好要写什么...<br>2019-02-23 23:34<br>赞(1) 踩(0) | <div>后摇是精神支柱<br>累的不行的时候<br>就好好品尝一下<br>生命的苦涩迷茫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6994901)<br> <br>2019-02-23 23:32<br>赞(1) 踩(0) | <div>总会有那么一刻，整个宇宙都为你闪烁</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11736322)<br>我还没想好要写什么...<br>2019-02-24 07:41<br>赞(0) 踩(0) | <div>Danyuan</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40026445)<br>既然留不住，那就往前走吧...<br>2019-02-23 23:18<br>赞(30) 踩(0) | <div>太空和海洋，是人类无法停止向外探索的两个领域。有关海洋，BBC的《蓝色星球》、《加勒比海盗》的配乐、听到的是磅礴、包容、生机和希望。对太空，我原本以为会是电子、迷幻之类，然而为何是后摇？我想起霍金去世时，了解过他的黑洞理论，瞬间即永恒，永恒在瞬间，觉得奇幻极了。我对太空的另一个了解是美国的阿波罗登月计划。把人类送上月球的，就是当初说“不可能”的那一帮科学家，只是他们在质疑的同时选择解决问题而不是嘲笑。海洋，是人类的起源；太空，也许是人类的归处。对于太空，我们有太多的纠结、思考，每一点进步都极为凝重。我喜欢后摇因为它能让我平静和思考，就像我仰望苍穹，看到的是人类渺小而努力的活着。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40026445)<br>既然留不住，那就往前走吧...<br>2019-02-23 23:18<br>赞(30) 踩(0) | <div>太空和海洋，是人类无法停止向外探索的两个领域。有关海洋，BBC的《蓝色星球》、《加勒比海盗》的配乐、听到的是磅礴、包容、生机和希望。对太空，我原本以为会是电子、迷幻之类，然而为何是后摇？<br><br>我想起霍金去世时，了解过他的黑洞理论，瞬间即永恒，永恒在瞬间，觉得奇幻极了。<br><br>我对太空的另一个了解是美国的阿波罗登月计划。把人类送上月球的，就是当初说“不可能”的那一帮科学家，只是他们在质疑的同时选择解决问题而不是嘲笑。<br><br>海洋，是人类的起源；太空，也许是人类的归处。对于太空，我们有太多的纠结、思考，每一点进步都极为凝重。我喜欢后摇因为它能让我平静和思考，就像我仰望苍穹，看到的是人类渺小而努力的活着。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412261163)<br><br>2019-02-24 08:31<br>赞(0) 踩(0) | <div>评论的逻辑感很棒 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40026445)<br>既然留不住，那就往前走吧...<br>2019-02-24 09:48<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332656396)<br>吹箫一刻值千金<br>2019-02-25 08:47<br>赞(0) 踩(0) | <div>一</div> |
@@ -511,7 +508,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6606897)<br><br>2019-02-23 16:52<br>赞(0) 踩(0) | <div>期待惘聞與庫布里克的合作。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328054815)<br><br>2019-02-23 16:45<br>赞(0) 踩(0) | <div>后摇的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43443614)<br>微信M7-Bonnie，...<br>2019-02-23 16:44<br>赞(0) 踩(0) | <div>！！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247000183)<br>职业白日梦患者<br>2019-02-23 16:15<br>赞(16) 踩(0) | <div>建议晚上开高速的时候使用或许就能驶向太空</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247000183)<br>职业白日梦患者<br>2019-02-23 16:15<br>赞(16) 踩(0) | <div>建议晚上开高速的时候使用<br><br>或许就能驶向太空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32121607)<br>明心静神入梦海<br>2019-02-23 16:10<br>赞(0) 踩(0) | <div>如果我是一颗陨石 或许我就不用想那么多 我也就不需害怕在这茫茫社会中生活时体会到的孤独 我也就不需再承受任何他人给予我的情感 我也就没有内心深处的悸动 我无需为了谁或者放不下某些事 因为当我是颗陨石的时候 我已无任何情感 我只需明白我会在某一刻碎裂罢了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52092507)<br>嘿，我想你了……<br>2019-02-23 20:48<br>赞(0) 踩(0) | <div>兄弟，你是失恋了吗？反正我是了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32121607)<br>明心静神入梦海<br>2019-02-25 22:56<br>赞(0) 踩(0) | <div><q><b>wondermaster说：</b></q></div> |
@@ -530,19 +527,19 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73638642)<br>再见了各位 我永远爱虾米...<br>2019-02-23 14:33<br>赞(1) 踩(0) | <div>下班后我抱着狗子躺在沙发上，老妈在帮我准备晚餐的时候，我感觉家就是我的宇宙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336558486)<br>sad drunk an...<br>2019-02-23 13:57<br>赞(0) 踩(0) | <div>死亡是唯一一座永远亮着的灯塔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103443266)<br>等人<br>2019-02-23 13:53<br>赞(1) 踩(0) | <div>灵魂处外，肉体腐败。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7405528)<br>我还没想好要写什么...<br>2019-02-23 13:53<br>赞(0) 踩(0) | <div>飞机穿越气流，颠簸。忽而，晴云腾空。看了关于雪山和高原的纪录片，没有开电视的声音，只看字幕，耳机里是这首无穹。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7405528)<br>我还没想好要写什么...<br>2019-02-23 13:53<br>赞(0) 踩(0) | <div>飞机穿越气流，颠簸。<br>忽而，晴云腾空。<br><br>看了关于雪山和高原的纪录片，<br>没有开电视的声音，只看字幕，耳机里是这首无穹。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34198321)<br><br>2019-02-23 13:52<br>赞(0) 踩(0) | <div>宇宙的无限我们看不到，内心的深渊也一样看不到。只能看到深感疲惫的一地鸡毛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354331599)<br>我从奥尔特云发来的赤炎之...<br>2019-02-23 13:43<br>赞(1) 踩(0) | <div>地球一直在流浪，和太阳系一起，流浪在银河中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408388667)<br>再见哭狗<br>2019-02-23 13:32<br>赞(0) 踩(0) | <div>好似漂浮浩瀚看地球 宽广的悲怆喷薄而出</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352529754)<br>爱与恐惧<br>2019-02-23 13:31<br>赞(0) 踩(0) | <div>茫茫宇宙与人心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30449074)<br>深耕某云<br>2019-02-23 13:24<br>赞(0) 踩(0) | <div></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23836651)<br><br>2019-02-23 13:40<br>赞(0) 踩(0) | <div>明年Mcx1</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23836651)<br><br>2019-02-23 13:40<br>赞(0) 踩(0) | <div>明年Mcx<br><br>1</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23836651)<br><br>2019-02-23 13:40<br>赞(0) 踩(0) | <div><q><b>北北198802说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302814184)<br><br>2019-02-23 13:22<br>赞(0) 踩(0) | <div>感觉很nice啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8938962)<br>佤族乐队彭天，从军人到主...<br>2019-02-23 13:11<br>赞(0) 踩(0) | <div>我们过多的外求，却不知道苍穹只能用心看。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38082529)<br><br>2019-02-23 13:07<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68047514)<br>-<br>2019-02-23 13:01<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117527814)<br>没有更多内容了。<br>2019-02-23 12:55<br>赞(2) 踩(0) | <div>无穹无尽苍穹万物生息枯荣有时蚁蚁复已已汐熄而月升</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117527814)<br>没有更多内容了。<br>2019-02-23 12:55<br>赞(2) 踩(0) | <div>无穹<br>无尽苍穹<br>万物生息<br>枯荣有时<br>蚁蚁复已已<br>汐熄而月升</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23544640)<br>Nude<br>2019-02-23 12:43<br>赞(3) 踩(0) | <div>宇宙交通委提醒您，听歌不规范，乐队两行泪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374310864)<br><br>2019-02-23 12:25<br>赞(0) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83171834)<br>放肆<br>2019-02-23 12:51<br>赞(0) 踩(0) | <div>？</div> |
@@ -557,12 +554,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34303770)<br>毅力前行始终如一<br>2019-02-23 12:01<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138885168)<br>...<br>2019-02-23 11:50<br>赞(0) 踩(0) | <div>嗯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248116225)<br><br>2019-02-23 11:47<br>赞(2) 踩(0) | <div>惘闻真是越来越高级。第一张专辑那会儿，我真是爱死了，接着我的思想高度就跟不上惘闻啦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9471269)<br>与你同在。<br>2019-02-23 11:47<br>赞(1) 踩(0) | <div>点的一键试听，听觉上略单薄感受不到宇宙的宏大。也许恰恰如此，让人感受到人类在宇宙面前是多么的渺小。抬头仰望的星空，耳边响彻的音乐都可抚慰人心。后端的乐感和mew的音乐风格好似，凛冽清冷。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9471269)<br>与你同在。<br>2019-02-23 11:47<br>赞(1) 踩(0) | <div>点的一键试听，听觉上略单薄感受不到宇宙的宏大。也许恰恰如此，让人感受到人类在宇宙面前是多么的渺小。<br>抬头仰望的星空，耳边响彻的音乐都可抚慰人心。后端的乐感和mew的音乐风格好似，凛冽清冷。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10880138)<br><br>2019-02-23 11:47<br>赞(0) 踩(0) | <div>绝了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36562741)<br>暂无签名~<br>2019-02-23 11:43<br>赞(0) 踩(0) | <div>为什么你们的评论，比音乐本身还要精彩深刻?我爱你们  <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36562741)<br>暂无签名~<br>2019-02-23 11:43<br>赞(0) 踩(0) | <div>为什么你们的评论，比音乐本身还要精彩深刻?<br>我爱你们  <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121779756)<br> <br>2019-02-23 11:39<br>赞(0) 踩(0) | <div>我期许我的一生 自由自在</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405001653)<br><br>2019-02-23 11:23<br>赞(12) 踩(0) | <div>1 把时间涂满全身2 鼓点进，变成一只萤火虫3 空不是无，空是被透明填满4 闭着眼在透明中前进  翻转5 我的屁股就是你的苍穹星辰</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53728441)<br>Muss es sein...<br>2019-02-23 11:19<br>赞(0) 踩(0) | <div>走去哪 — 不知道什么时候停 — 不会停的，我要一直走下去</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405001653)<br><br>2019-02-23 11:23<br>赞(12) 踩(0) | <div>1 把时间涂满全身<br>2 鼓点进，变成一只萤火虫<br>3 空不是无，空是被透明填满<br>4 闭着眼在透明中前进  翻转<br>5 我的屁股就是你的苍穹星辰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53728441)<br>Muss es sein...<br>2019-02-23 11:19<br>赞(0) 踩(0) | <div>走去哪 — 不知道<br>什么时候停 — 不会停的，我要一直走下去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405001653)<br><br>2019-02-23 11:06<br>赞(2) 踩(0) | <div>在纯黑色的透明深处，我把时间涂满全身，我将变成一只萤火虫，前进</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353404811)<br><br>2019-02-23 11:02<br>赞(0) 踩(0) | <div>微博来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2951363)<br>I will die<br>2019-02-23 10:57<br>赞(1) 踩(0) | <div>可曾听出这专辑的灵魂？</div> |
@@ -629,7 +626,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3211822)<br>再见，<br>2019-02-23 03:58<br>赞(2) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15180145)<br>我还没想好要写什么...<br>2019-02-23 03:51<br>赞(2) 踩(0) | <div>想问下封面设计是谁 太厉害啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34636285)<br> <br>2019-02-23 03:50<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408996757)<br>山顶洞人<br>2019-02-23 03:25<br>赞(4) 踩(0) | <div>你只能在 世界面前不断的 一次又一次 迎来高潮在欲望里抽搐着把自己交代直到再没可以被榨取的资本接着就可以在困惑与空荡之中消失</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408996757)<br>山顶洞人<br>2019-02-23 03:25<br>赞(4) 踩(0) | <div>你只能在 世界面前<br>不断的 一次又一次 迎来高潮<br>在欲望里抽搐着把自己交代<br>直到再没可以被榨取的资本<br>接着就可以在困惑与空荡之中消失</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15495481)<br>身往前倾 魂向后摇<br>2019-02-23 03:05<br>赞(4) 踩(0) | <div>我们活过和爱过的刹那，前后皆是黑夜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7509165)<br>我还没想好要写什么...<br>2019-02-23 03:01<br>赞(1) 踩(0) | <div>引用啥啥啥之前评价《看不见的城市》一段话：“…（惘闻）让我听到开心也听到哭泣。它的情感张力如此强大，以至于在它面前，我根本不知道还能说什么了”。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7509165)<br>我还没想好要写什么...<br>2019-02-23 02:52<br>赞(1) 踩(0) | <div>哭了</div> |
@@ -656,7 +653,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71988220)<br>知命不懼 日日自新<br>2019-02-23 01:10<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123209)<br><br>2019-02-23 01:01<br>赞(2) 踩(0) | <div>十五年前因为后摇接触惘闻，十年前因为因为要外链接触虾米音乐。如今听到这只乐队的新单曲，感觉似乎缺少了点什么东西。可能是这道菜的配方太熟悉了，就少了那份感动。感谢惘闻</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248193045)<br>DREAMER<br>2019-02-23 06:52<br>赞(0) 踩(0) | <div>不知为何，更爱《丰收》时期的惘闻</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2100764)<br> <br>2019-02-23 00:58<br>赞(0) 踩(0) | <div>最近读了蛮多和宇宙与量子物理有关的东西，配上这一曲简直要升仙。宇宙的边界太大，与之相比之下的人类就是微乎其微的尘埃，但这也是人类努力探求奥秘的可贵之处。我想做一条咸鱼，但也希望是一条少许有一点点用的咸鱼吧。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2100764)<br> <br>2019-02-23 00:58<br>赞(0) 踩(0) | <div>最近读了蛮多和宇宙与量子物理有关的东西，配上这一曲简直要升仙。<br>宇宙的边界太大，与之相比之下的人类就是微乎其微的尘埃，但这也是人类努力探求奥秘的可贵之处。<br>我想做一条咸鱼，但也希望是一条少许有一点点用的咸鱼吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11010688)<br>我还没想好要写什么...<br>2019-02-23 00:54<br>赞(0) 踩(0) | <div>45亿年以后，距离我们最近的仙女座星系将与我们的银河系发生星系碰撞，到时一个新的宇宙世界将会诞生。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2621061)<br><br>2019-02-23 00:52<br>赞(0) 踩(0) | <div>置若乐队又出新歌啦，可喜可贺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45103777)<br>飞越疯人院、<br>2019-02-23 00:33<br>赞(0) 踩(0) | <div>听惘闻有了无限幻想的梦。</div> |
@@ -684,7 +681,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335493220)<br>别人笑我太疯癫，我笑别人...<br>2019-02-22 23:37<br>赞(0) 踩(0) | <div>无穷，无穹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371079314)<br>我还没想好要写什么...<br>2019-02-22 23:36<br>赞(1) 踩(0) | <div>我来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34981637)<br><br>2019-02-22 23:36<br>赞(0) 踩(0) | <div>留个脚印</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22730067)<br><br>2019-02-22 23:36<br>赞(0) 踩(0) | <div>像HBO，建议用作三体片头。边听边洗澡，像沐浴在星辰下。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22730067)<br><br>2019-02-22 23:36<br>赞(0) 踩(0) | <div>像HBO，建议用作三体片头。<br>边听边洗澡，像沐浴在星辰下。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8128176)<br>好好活着<br>2019-02-22 23:36<br>赞(0) 踩(0) | <div>默</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257340017)<br>有趣无趣的人和事<br>2019-02-22 23:35<br>赞(0) 踩(0) | <div>来了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71457530)<br>我还没想好要写什么...<br>2019-02-22 23:30<br>赞(0) 踩(0) | <div>来了</div> |
@@ -710,7 +707,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5847143)<br> <br>2019-02-22 23:12<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188196406)<br>喜歡獨單<br>2019-02-22 23:13<br>赞(0) 踩(0) | <div>巧了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5847143)<br> <br>2019-02-22 23:17<br>赞(0) 踩(0) | <div><q><b>獨單说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3077852)<br><br>2019-02-22 23:10<br>赞(4) 踩(0) | <div>再不要太空如何如何  宇宙如何如何  后摇不是命名作文你听什么就是什么  那才叫后摇</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3077852)<br><br>2019-02-22 23:10<br>赞(4) 踩(0) | <div>再不要太空如何如何  宇宙如何如何  后摇不是命名作文<br>你听什么就是什么  那才叫后摇</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3077852)<br><br>2019-02-22 23:11<br>赞(0) 踩(0) | <div>渣渣模仿秀乐队  没魂儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409388581)<br>我还没想好要写什么...<br>2019-02-22 23:01<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14652349)<br>壹贰叁 肆伍陆 柒捌玖<br>2019-02-22 22:57<br>赞(3) 踩(0) | <div>Post-Rock&amp;冷静的力量</div> |
@@ -748,7 +745,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39694890)<br>杂食动物皮<br>2019-02-22 21:44<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50673752)<br>那些我們不願談及的，必被...<br>2019-02-22 21:43<br>赞(0) 踩(0) | <div>宏大 浩瀚 无边无际</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40015910)<br>这家伙很笨什么也没留下....<br>2019-02-22 21:41<br>赞(3) 踩(0) | <div>被人放鸽子我现在的心情真的很应景</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342684929)<br><br>2019-02-22 21:41<br>赞(0) 踩(0) | <div>惘闻的编曲素来复杂。浩瀚宇宙，或许每个人都对应着深邃夜空中的一颗恒星，上面埋藏着无数前世今生的记忆。如果说人会死，不如说是回到那颗星球上，之后再继续另一个世界的故事罢了。纯属瞎说，还是要相信科学</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342684929)<br><br>2019-02-22 21:41<br>赞(0) 踩(0) | <div>惘闻的编曲素来复杂。浩瀚宇宙，或许每个人都对应着深邃夜空中的一颗恒星，上面埋藏着无数前世今生的记忆。如果说人会死，不如说是回到那颗星球上，之后再继续另一个世界的故事罢了。<br>纯属瞎说，还是要相信科学</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40037677)<br>下个世纪见<br>2019-02-22 21:38<br>赞(0) 踩(0) | <div>爱了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252292167)<br>我还没想好要写什么...<br>2019-02-22 21:34<br>赞(0) 踩(0) | <div>能不能到前排……==</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25406583)<br> <br>2019-02-22 21:32<br>赞(1) 踩(0) | <div>目标以后成为民谣乐队的吉他手</div> |
@@ -834,7 +831,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10286964)<br>━┳━　━┳━<br>2019-02-22 19:05<br>赞(0) 踩(0) | <div>封面是被太阳吞噬的地球吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32054018)<br>没个性，不签名。不如:自...<br>2019-02-22 19:08<br>赞(0) 踩(0) | <div>氦闪，太阳内部氢氦核聚变出现异常，加速老去，太阳死的时候先变为红巨星，最后变为白矮星，嗯，就是像地球这么大的一颗钻石。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10286964)<br>━┳━　━┳━<br>2019-02-22 19:03<br>赞(0) 踩(0) | <div>天地蜉蝣，沧海一粟。人之渺小，心向无穹。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225538565)<br>我还没想好要写什么...<br>2019-02-22 18:57<br>赞(0) 踩(0) | <div>这世界上最遥远的距离就是生与死就是过去和现在才不是什么情情爱爱的表白</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225538565)<br>我还没想好要写什么...<br>2019-02-22 18:57<br>赞(0) 踩(0) | <div>这世界上最遥远的距离就是生与死<br>就是过去和现在<br><br>才不是什么情情爱爱的表白</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3576671)<br>地球是不是平的？<br>2019-02-22 18:56<br>赞(1) 踩(0) | <div>可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307782837)<br><br>2019-02-22 18:53<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/2dddd65f06f01a396df470103735c8ff.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225538565)<br>我还没想好要写什么...<br>2019-02-22 18:51<br>赞(1) 踩(0) | <div>突破极限 向往自由</div> |
@@ -850,7 +847,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47494497)<br>李志、陈升，“虾米也没有...<br>2019-02-22 18:32<br>赞(2) 踩(0) | <div>“宇宙最大的反派是时间”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412814197)<br><br>2019-02-22 18:30<br>赞(0) 踩(0) | <div>aa</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41415363)<br>biu biu biu <br>2019-02-22 18:28<br>赞(0) 踩(0) | <div>坐上这艘太空飞船</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1922719)<br>老子又成VIP了<br>2019-02-22 18:27<br>赞(3) 踩(0) | <div>08年在南门外酒吧第一次看惘闻的现场 全场就十几个人 惘闻奉献了一场尽力而精彩的演出 十几年来 惘闻一直在变 也一直没变 我也从一个学生变成了一个父亲  时光流逝 生命不息 当我回归尘土 便是此生无穹我其实只想说 撒时候再来俺西安</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1922719)<br>老子又成VIP了<br>2019-02-22 18:27<br>赞(3) 踩(0) | <div>08年在南门外酒吧第一次看惘闻的现场 全场就十几个人 惘闻奉献了一场尽力而精彩的演出 十几年来 惘闻一直在变 也一直没变 我也从一个学生变成了一个父亲  时光流逝 生命不息 当我回归尘土 便是此生无穹<br><br>我其实只想说 撒时候再来俺西安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54212558)<br><br>2019-02-22 18:27<br>赞(0) 踩(0) | <div>无敌是多么寂寞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7849223)<br>我还没想好要写什么...<br>2019-02-22 18:26<br>赞(1) 踩(0) | <div>喜欢了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325776038)<br>我已经想好了就写这些吧<br>2019-02-22 18:20<br>赞(1) 踩(0) | <div>惘闻这次实属有排面，点赞</div> |
@@ -872,7 +869,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4778814)<br>我还没想好要写什么...<br>2019-02-22 17:59<br>赞(0) 踩(0) | <div>掉进去了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88252774)<br> <br>2019-02-22 17:53<br>赞(0) 踩(0) | <div>265</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5917341)<br>⊚ ⊚ ⊚ ⊚ ⊚ ⊚<br>2019-02-22 17:48<br>赞(0) 踩(0) | <div>氛围感越来越好 <img src="../../../../images/comments/aa870edd44d3f615d76bed2188beb79d.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347352104)<br>再见 我不爱你<br>2019-02-22 17:43<br>赞(0) 踩(0) | <div>噔噔 噔噔噔瞪 噔噔噔噔噔瞪瞪瞪 瞪 噔噔噔噔噔噔噔噔噔噔 瞪 噔噔噔噔 噔噔噔噔噔噔噔噔...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347352104)<br>再见 我不爱你<br>2019-02-22 17:43<br>赞(0) 踩(0) | <div>噔噔 噔噔噔瞪 噔噔噔噔噔瞪瞪瞪 瞪 噔噔噔噔<br>噔噔噔噔噔噔 瞪 噔噔噔噔 噔噔噔噔噔噔噔噔...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164599)<br>打死我!我想死!<br>2019-02-22 17:39<br>赞(0) 踩(0) | <div>鼓和贝斯甫一响起就知道是惘闻了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5407168)<br>喵～<br>2019-02-22 17:31<br>赞(0) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412814197)<br><br>2019-02-22 18:22<br>赞(0) 踩(0) | <div>古</div> |
@@ -887,7 +884,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43649827)<br>追求 拿青春换富有<br>2019-02-22 17:07<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54381849)<br>我还没想好要写什么...<br>2019-02-22 17:06<br>赞(0) 踩(0) | <div>空阔荒垠里被抛弃的孩子从不知道妥协 飞蛾扑火式的极致浪漫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42665848)<br>我还没想好要写什么...<br>2019-02-22 17:04<br>赞(0) 踩(0) | <div>最近在看外太空纪录片，得听听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257743724)<br>chill out<br>2019-02-22 17:02<br>赞(1) 踩(0) | <div>惘闻来自宇宙我不属于地球世界是空的人是比灰尘还要渺小的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257743724)<br>chill out<br>2019-02-22 17:02<br>赞(1) 踩(0) | <div>惘闻来自宇宙<br>我不属于地球<br>世界是空的<br>人是比灰尘还要渺小的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101038830)<br>谁也别想走出这房间<br>2019-02-22 16:48<br>赞(1) 踩(0) | <div>我爱你用宇宙的话该怎么说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42862353)<br>溜了溜了<br>2019-02-22 16:47<br>赞(0) 踩(0) | <div>久违了，头皮发麻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195283301)<br>.<br>2019-02-22 16:44<br>赞(0) 踩(0) | <div>牢笼之外，还是牢笼</div> |
@@ -924,7 +921,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/626345)<br>这家伙很聪明什么也没留下...<br>2019-02-22 14:57<br>赞(1) 踩(0) | <div>唉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342872046)<br>我还没想好要写什么...<br>2019-02-22 14:51<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/89a3757c2a80c5f09684e3d1679cde0a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47775636)<br>我还没想好要写什么...<br>2019-02-22 14:38<br>赞(2) 踩(0) | <div>我觉得音乐慢慢从地表上空，随着高度宏伟壮观才慢慢出来感受的到五彩斑斓的黑，前面的过度很完美！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8192862)<br>诗人和先知。vchat:...<br>2019-02-22 14:35<br>赞(273) 踩(0) | <div>课外阅读：命题：宇宙系后摇GIAA、Explosions in the sky、Sleeping at last、Mooncake、Stellardrive、God Lives on the Sun、Exxasens、940811、There's a Light这些著名或不著名乐队的主旨都是探索宇宙，还有著名的星际穿越配乐家Hans Zimmer和地心引力配乐家Steven Price惘闻是站在很多巨人的肩膀上的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8192862)<br>诗人和先知。vchat:...<br>2019-02-22 14:35<br>赞(273) 踩(0) | <div>课外阅读：<br>命题：宇宙系后摇<br>GIAA、Explosions in the sky、Sleeping at last、Mooncake、Stellardrive、God Lives on the Sun、Exxasens、940811、There's a Light这些著名或不著名乐队的主旨都是探索宇宙，还有著名的星际穿越配乐家Hans Zimmer和地心引力配乐家Steven Price<br>惘闻是站在很多巨人的肩膀上的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225538565)<br>我还没想好要写什么...<br>2019-02-22 18:58<br>赞(0) 踩(0) | <div>课代表！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6120846)<br>我还没想好要写什么...<br>2019-02-22 23:47<br>赞(0) 踩(0) | <div>哪里是课代表，明明是教导主任</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45781983)<br> <br>2019-02-23 01:27<br>赞(0) 踩(0) | <div>老师布置作业了！我这就复制下来听一圈儿！</div> |
@@ -954,7 +951,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1264060)<br>暂无签名~<br>2019-03-03 07:12<br>赞(0) 踩(0) | <div>我最渴望的，是坚守着始终纯真忘我的爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44270500)<br>请问先森这次吃什么药<br>2019-02-22 14:27<br>赞(0) 踩(0) | <div>贝斯开始高潮 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41265111)<br>土法炼钢<br>2019-02-22 14:26<br>赞(0) 踩(0) | <div>封面很美</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317780488)<br>去你媽的生活<br>2019-02-22 14:25<br>赞(2) 踩(0) | <div>天地本无极，人力有时穷然而为了那虚无缥缈的理想奋斗挣扎</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317780488)<br>去你媽的生活<br>2019-02-22 14:25<br>赞(2) 踩(0) | <div>天地本无极，人力有时穷<br>然而为了那虚无缥缈的理想奋斗挣扎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72231722)<br>普通少年 眼里有一片海<br>2019-02-22 14:22<br>赞(0) 踩(0) | <div>！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419754190)<br>我见青山多妩媚，青山不愿...<br>2019-02-22 14:19<br>赞(0) 踩(0) | <div>来凑热闹啦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48252943)<br> <br>2019-02-22 14:11<br>赞(0) 踩(0) | <div></div> |
@@ -1002,7 +999,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258795708)<br><br>2019-02-22 12:14<br>赞(0) 踩(0) | <div>新歌，牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198901940)<br><br>2019-02-22 12:11<br>赞(0) 踩(0) | <div>真好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356086)<br>中部地区软骨病多发型幼猫<br>2019-02-22 12:09<br>赞(2) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318828482)<br>思绪逃离太空<br>2019-02-22 12:06<br>赞(0) 踩(0) | <div>无穹&amp;无垠的时空中世间万物,幻化声息相互转换，却又逃不出</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318828482)<br>思绪逃离太空<br>2019-02-22 12:06<br>赞(0) 踩(0) | <div>无穹&amp;无垠的时空中<br>世间万物,幻化声息<br>相互转换，却又逃不出</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403973539)<br><br>2019-02-22 12:01<br>赞(1) 踩(0) | <div>能在宇宙中遇到你 是多么美好的事情啊 哎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410742577)<br><br>2019-02-22 11:58<br>赞(0) 踩(0) | <div>宇宙之浩瀚，人力之低微，无穹，也是无穷。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109019164)<br>GOODBYE<br>2019-02-22 11:58<br>赞(0) 踩(0) | <div>后排占位</div> |
@@ -1052,7 +1049,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10350675)<br> <br>2019-02-22 10:25<br>赞(0) 踩(0) | <div>年后的惊喜 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220461344)<br><br>2019-02-22 10:24<br>赞(0) 踩(0) | <div>采了星际穿越的样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142169512)<br>点击编辑<br>2019-02-22 10:23<br>赞(0) 踩(0) | <div>守望尘世</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3249361)<br> <br>2019-02-22 10:23<br>赞(2) 踩(0) | <div>The creation of God 如果你也懂我彷彿看到了上帝的手指等了7年，終於超越了Lonely God</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3249361)<br> <br>2019-02-22 10:23<br>赞(2) 踩(0) | <div>The creation of God 如果你也懂<br>我彷彿看到了上帝的手指<br>等了7年，終於超越了Lonely God</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37047549)<br> <br>2019-02-22 10:22<br>赞(0) 踩(0) | <div>不想起床</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37505898)<br>我还没想好要写什么...<br>2019-02-22 10:21<br>赞(0) 踩(0) | <div>Space...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306584010)<br>我还没想好要写什么...<br>2019-02-22 10:19<br>赞(0) 踩(0) | <div>100</div> |
@@ -1114,13 +1111,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404131989)<br>我还没想好要写什么...<br>2019-02-22 10:00<br>赞(0) 踩(0) | <div>滴滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49495013)<br><br>2019-02-22 09:58<br>赞(0) 踩(0) | <div>人走着走着就都不见了。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220461344)<br><br>2019-02-22 09:58<br>赞(0) 踩(0) | <div>来了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31397044)<br>前后都有悬崖<br>2019-02-22 09:57<br>赞(132) 踩(0) | <div>作为描述宇宙的音乐，第一遍听还觉得有点欠缺空旷的史诗感，但在第二遍时，谢玉岗所描述的“宇宙中的人性”逐渐显现，或许附之人性的宇宙，也许就会变得不再空旷。解读宇宙是永远的主题，但解读的方式千人千面。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31397044)<br>前后都有悬崖<br>2019-02-22 09:57<br>赞(132) 踩(0) | <div>作为描述宇宙的音乐，第一遍听还觉得有点欠缺空旷的史诗感，但在第二遍时，谢玉岗所描述的“宇宙中的人性”逐渐显现，或许附之人性的宇宙，也许就会变得不再空旷。<br>解读宇宙是永远的主题，但解读的方式千人千面。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351726011)<br><br>2019-02-22 22:20<br>赞(0) 踩(0) | <div>你对号入座的厉害</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31397044)<br>前后都有悬崖<br>2019-02-23 01:19<br>赞(0) 踩(0) | <div><q><b>周欣说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3516744)<br> <br>2019-02-23 09:30<br>赞(0) 踩(0) | <div>我也觉得飞向太空有点沉重 不如听听声子虫的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31397044)<br>前后都有悬崖<br>2019-02-23 09:55<br>赞(0) 踩(0) | <div><q><b>lizziemi说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178603448)<br>我看你不见<br>2019-02-22 09:57<br>赞(1) 踩(0) | <div>失踪漫游</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419739079)<br><br>2019-02-22 09:55<br>赞(4) 踩(0) | <div>无 丝竹之乱耳穹 顶之外遨游</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419739079)<br><br>2019-02-22 09:55<br>赞(4) 踩(0) | <div>无 丝竹之乱耳<br>穹 顶之外遨游</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10880190)<br><br>2019-02-23 23:57<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419723693)<br><br>2019-02-22 09:55<br>赞(0) 踩(0) | <div>加上弦乐变温柔了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1424224)<br>无知就是幸福<br>2019-02-22 09:55<br>赞(0) 踩(0) | <div>惘闻新歌像极了we lost the sea的歌</div> |
@@ -1147,7 +1144,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37859172)<br>我还没想好要写什么...<br>2019-02-22 09:46<br>赞(1) 踩(0) | <div>没有宽敞明亮的写字楼，只有总不停歇的机床声。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54735739)<br>欢迎来到失语的世界。<br>2019-02-22 09:45<br>赞(0) 踩(0) | <div>耶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306116365)<br>no clear min...<br>2019-02-22 09:45<br>赞(0) 踩(0) | <div>）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6654061)<br>Cosmic Wave<br>2019-02-22 09:45<br>赞(0) 踩(0) | <div>我分不清来路与去路，也分不清星空与泥土。茫然该迈出怎样的一步，颤抖伸出皲裂的手指，仿佛它能抓出脑中深处微弱的希望，指引这注定孤独不悔的踯躅。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6654061)<br>Cosmic Wave<br>2019-02-22 09:45<br>赞(0) 踩(0) | <div>我分不清来路与去路，<br>也分不清星空与泥土。<br>茫然该迈出怎样的一步，<br>颤抖伸出皲裂的手指，<br>仿佛它能抓出脑中深处微弱的希望，<br>指引这注定孤独不悔的踯躅。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7863541)<br>你双手握得不好看<br>2019-02-22 09:44<br>赞(1) 踩(0) | <div>滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/180847)<br>只有心知道 岁月不宽宏<br>2019-02-22 09:43<br>赞(94) 踩(0) | <div>无穹盐焗鸡翅</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410253112)<br>云村逃民<br>2019-02-22 11:41<br>赞(0) 踩(0) | <div>这位朋友好像在群里见过</div> |
@@ -1176,7 +1173,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407859749)<br><br>2019-02-22 09:34<br>赞(0) 踩(0) | <div>又见谢老师</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36847680)<br>这家伙很聪明什么也没留下...<br>2019-02-22 09:34<br>赞(0) 踩(0) | <div>啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50647042)<br>我还没想好要写什么...<br>2019-02-22 09:34<br>赞(0) 踩(0) | <div>♥️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346562178)<br>人间有许多悲伤，我承担的...<br>2019-02-22 09:34<br>赞(2) 踩(0) | <div>虾米天天给我推送都被我无视了除了这次惘闻的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346562178)<br>人间有许多悲伤，我承担的...<br>2019-02-22 09:34<br>赞(2) 踩(0) | <div>虾米天天给我推送都被我无视了<br>除了这次惘闻的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112463526)<br>豆瓣: 坤斤拷    我...<br>2019-02-22 09:34<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261971903)<br><br>2019-02-22 09:33<br>赞(0) 踩(0) | <div>奥利给</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1252409)<br>音乐是必需品.<br>2019-02-22 09:33<br>赞(0) 踩(0) | <div>鸡翅</div> |

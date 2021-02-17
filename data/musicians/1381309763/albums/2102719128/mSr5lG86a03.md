@@ -35,7 +35,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33706074)<br>a random 20y...<br>2019-05-10 20:10<br>赞(0) 踩(0) | <div>？这个歌词太朋克了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291088029)<br><br>2017-05-04 13:02<br>赞(0) 踩(0) | <div>非常好，抢个沙发</div> |

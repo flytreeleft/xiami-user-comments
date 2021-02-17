@@ -61,8 +61,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428001708)<br><br>2020-05-05 20:27<br>赞(2) 踩(0) | <div>太喜欢后弦了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411572930)<br>人最重要的是开心<br>2019-12-06 21:52<br>赞(1) 踩(0) | <div>昨天总比今天好，时间的玩笑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7357487)<br>我还没想好要写什么...<br>2019-10-25 18:43<br>赞(1) 踩(0) | <div>轻吟浅唱~~一直喜欢后弦这种不费力气的曲风~觉得他的歌听了很治愈</div> |
@@ -73,14 +73,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300534928)<br>Predator Rul...<br>2019-05-04 00:10<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409303911)<br><br>2019-05-02 01:13<br>赞(1) 踩(0) | <div>人好少啊，遗珠，比烂大街的抖音上的歌好太多了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427249649)<br><br>2019-08-25 21:29<br>赞(0) 踩(0) | <div>说的真好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44743196)<br>珍重！再见！<br>2019-04-29 00:33<br>赞(6) 踩(0) | <div>大晚上听到老歌要哭了……不管多大会一直听下去，死忠粉在此</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44743196)<br>珍重！再见！<br>2019-04-29 00:33<br>赞(6) 踩(0) | <div>大晚上听到老歌要哭了……<br>不管多大会一直听下去，死忠粉在此</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85712814)<br>気立ての優しい子。<br>2019-08-09 12:24<br>赞(0) 踩(0) | <div>高中开始喜欢他，现在已成家，一听还是高中的感觉。真好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410573137)<br><br>2018-12-18 23:50<br>赞(4) 踩(0) | <div>不知道为什么总有人把后弦，周董往一块扯，像后弦这种词曲全能的，内地屈指可数!我就喜欢这样的歌手，记得那年是零5年吧，一晃听了十几年了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378339857)<br>我还没想好要写什么...<br>2018-11-13 14:05<br>赞(5) 踩(0) | <div>这几张专辑是经典。在东升的时候虽然公司不努力包装，但是还是能自己玩玩音乐。后来到了天浩盛世，公司希望后弦能做一位全能艺人，和其他艺人保持一致，加上当时韩风盛行，完全包装出一种韩国艺人风范，而且强迫参加各种选秀节目，还是谁是歌手这种小节目，旗下的金莎，sara等等都是很有才气的歌手，完全被毁。这段时间也大量发型单曲一味迎合市场，听完鞋跟，情书不包邮等歌曲，让我们无比怀念那一年的后弦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299137539)<br>我还没想好要写什么...<br>2018-11-05 21:47<br>赞(0) 踩(0) | <div>对啊对啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31501278)<br><br>2018-08-02 11:49<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368073865)<br><br>2018-05-27 22:29<br>赞(0) 踩(0) | <div>内地版周杰伦，必须挺！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332148034)<br><br>2018-05-01 16:21<br>赞(3) 踩(0) | <div>昨天总比今天好~时间的玩笑~还记得小时候本子上记得全是后弦的歌词  我的小时候哇</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332148034)<br><br>2018-05-01 16:21<br>赞(3) 踩(0) | <div>昨天总比今天好~时间的玩笑~<br>还记得小时候本子上记得全是后弦的歌词  我的小时候哇</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284686801)<br>心不禁 得自在<br>2018-04-23 20:06<br>赞(1) 踩(0) | <div>这首歌永远霸占我的手机</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2312256)<br>Before my bo...<br>2018-01-12 11:41<br>赞(4) 踩(0) | <div>爱总笑得比哭早，昨天总比今天好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258006587)<br>旅非Gulima<br>2018-01-06 02:41<br>赞(2) 踩(0) | <div>记得刚上大学（是否有暴露年纪，大叔了？），拿着室友15块钱的音响，拿着223的128M额的MP3大声放着呢</div> |
@@ -122,7 +122,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/802510)<br><br>2016-07-30 16:35<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39226365)<br>X XX X XX XX...<br>2017-01-20 09:31<br>赞(0) 踩(0) | <div>好喜欢你的文字</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243393338)<br><br>2017-01-29 02:21<br>赞(0) 踩(0) | <div><q><b>Genesis说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289103715)<br><br>2017-11-21 19:58<br>赞(0) 踩(0) | <div>现在我们已经变成四十五分钟一节课了来自学生狗的致意~么么~♬︎*(๑&amp;ordm;ั╰︎╯︎&amp;ordm;ั๑)♡︎</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289103715)<br><br>2017-11-21 19:58<br>赞(0) 踩(0) | <div>现在我们已经变成四十五分钟一节课了<br>来自学生狗的致意~么么~♬︎*(๑&amp;ordm;ั╰︎╯︎&amp;ordm;ั๑)♡︎</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93092514)<br>不求闻达于诸侯<br>2019-06-15 12:23<br>赞(0) 踩(0) | <div><q><b>芊芊说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47403938)<br><br>2015-07-28 23:28<br>赞(4) 踩(0) | <div>听到这首歌就想起很多年前，开着台灯，咬着笔写家庭作业的时光..还好，还有所陪伴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38493982)<br>多少难忘旧时光..<br>2015-06-13 02:47<br>赞(14) 踩(0) | <div>太经典了  内地全能的音乐人</div> |
@@ -135,14 +135,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4914630)<br><br>2014-12-20 13:44<br>赞(1) 踩(0) | <div>夜 披肩上轻轻 心 似轻舟划过透明 一口咬定苹果还青 成语默默画意</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3569954)<br>微博 & Ins: As...<br>2014-10-15 10:29<br>赞(127) 踩(0) | <div>后弦的中国风很特别 不似大部分古风歌曲 以哀婉或深情的曲调歌颂痴男怨女的爱情 他的曲子都很轻松俏皮 常以学堂、古人、古巷及古诗文为素材 虽以简单的R&amp;amp;B节奏贯穿全曲 然而从曲调到歌词 以及其中穿插的不经意的中国风元素 都非常具有代入感 让人自然而然地感受到中国风的魅力</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37752055)<br><br>2018-09-14 23:58<br>赞(0) 踩(0) | <div>懂 行 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4914630)<br><br>2014-05-04 23:14<br>赞(4) 踩(0) | <div>借光，诗书照思绪，绝句绕爱如，成语妙甚么，葫芦药语轻，情不薄入迷，不觉晓</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4914630)<br><br>2014-05-04 23:14<br>赞(4) 踩(0) | <div>借光，诗书照<br>思绪，绝句绕<br>爱如，成语妙<br>甚么，葫芦药<br>语轻，情不薄<br>入迷，不觉晓</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1498163)<br><br>2014-03-19 12:05<br>赞(1) 踩(0) | <div>稍安勿躁，东西马上就寄到。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4914630)<br><br>2014-02-09 13:22<br>赞(1) 踩(0) | <div>听后弦的歌很有学生时代那种因为知识所带来的自信。校园的花朵~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4914630)<br><br>2013-09-17 09:48<br>赞(2) 踩(0) | <div>借光，诗书照思绪，绝句绕爱如，成语妙甚么，葫芦药</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5086435)<br><br>2013-07-01 23:05<br>赞(8) 踩(0) | <div>爱总笑的比哭早昨天总比今天好初中时问同桌借来CD机 跑去小店里刻录的十五首歌 十首是他的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2951700)<br><br>2013-04-15 17:55<br>赞(1) 踩(0) | <div>语轻，情不薄入迷，不觉晓</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5847058)<br>常于条件状语从句中用<br>2013-01-03 15:42<br>赞(2) 踩(0) | <div>门外的人起轿肆酒，苦作笑</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3803010)<br><br>2013-01-01 23:45<br>赞(4) 踩(0) | <div>借光，诗书照思绪，绝句绕爱如，成语妙甚么，葫芦药语轻，情不薄入迷，不觉晓脚步声先生到还要来抱佛脚无心，柳变桃不懂，人情少窗外，哼清照笔下，纸喧闹有云，爱无报美貌，还在描</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4914630)<br><br>2013-09-17 09:48<br>赞(2) 踩(0) | <div>借光，诗书照<br>思绪，绝句绕<br>爱如，成语妙<br>甚么，葫芦药</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5086435)<br><br>2013-07-01 23:05<br>赞(8) 踩(0) | <div>爱总笑的比哭早<br>昨天总比今天好<br><br>初中时问同桌借来CD机 跑去小店里刻录的十五首歌 十首是他的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2951700)<br><br>2013-04-15 17:55<br>赞(1) 踩(0) | <div>语轻，情不薄<br>入迷，不觉晓</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5847058)<br>常于条件状语从句中用<br>2013-01-03 15:42<br>赞(2) 踩(0) | <div>门外的人起轿<br>肆酒，苦作笑</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3803010)<br><br>2013-01-01 23:45<br>赞(4) 踩(0) | <div>借光，诗书照<br>思绪，绝句绕<br>爱如，成语妙<br>甚么，葫芦药<br>语轻，情不薄<br>入迷，不觉晓<br>脚步声先生到<br>还要来抱佛脚<br>无心，柳变桃<br>不懂，人情少<br>窗外，哼清照<br>笔下，纸喧闹<br>有云，爱无报<br>美貌，还在描</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3832189)<br><br>2011-09-13 21:22<br>赞(1) 踩(0) | <div>~~~~~~~~~话说心情不咋地的....献上一首歌吧。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3629295)<br><br>2011-07-17 23:20<br>赞(1) 踩(0) | <div>古。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4485133)<br>龙门后宅<br>2011-06-29 21:14<br>赞(3) 踩(0) | <div>后弦就是王子</div> |

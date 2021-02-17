@@ -74,8 +74,8 @@ Da oggi il destino appartiene a me
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297937199)<br><br>2020-12-30 15:36<br>赞(0) 踩(0) | <div>天籁之音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284398766)<br> <br>2020-11-29 18:30<br>赞(2) 踩(0) | <div>真是个平平无奇的语言小宝藏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445033550)<br>我还没想好要写什么...<br>2020-10-18 22:09<br>赞(3) 踩(0) | <div>666这只有他能做到了</div> |
@@ -83,10 +83,10 @@ Da oggi il destino appartiene a me
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442533863)<br><br>2020-09-09 06:52<br>赞(4) 踩(0) | <div>书看了一定会有用，不一定非要有什么具体的改变，人往前走的时候未必会一直数着一二三，但无论多少步，都是一二三累积起来的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440029865)<br><br>2020-09-06 17:01<br>赞(2) 踩(0) | <div>nice</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351413186)<br><br>2020-08-15 23:19<br>赞(1) 踩(0) | <div>听深深唱歌有种非常享受，很舒心的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368501084)<br><br>2020-08-14 21:46<br>赞(2) 踩(0) | <div>法语，意大利语很不错。英语，中文，日文大家肯定都听出不错了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368501084)<br><br>2020-08-14 21:46<br>赞(2) 踩(0) | <div>法语，意大利语很不错。<br>英语，中文，日文大家肯定都听出不错了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412293541)<br><br>2020-08-12 17:45<br>赞(0) 踩(0) | <div>只有我一人感觉九语听着难受吗 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374452303)<br><br>2020-07-21 10:46<br>赞(0) 踩(0) | <div>；-；</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323299917)<br>生米玉米两门报<br>2020-07-19 20:53<br>赞(1) 踩(0) | <div>ありのままの  姿見せるのよありのままの  自分になるの私は自由よこれていいの少しも寒くないわ</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323299917)<br>生米玉米两门报<br>2020-07-19 20:53<br>赞(1) 踩(0) | <div>ありのままの  姿見せるのよ<br>ありのままの  自分になるの<br>私は自由よ<br>これていいの<br>少しも寒くないわ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323299917)<br>生米玉米两门报<br>2020-07-01 21:00<br>赞(0) 踩(0) | <div>少しも寒くないわ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323299917)<br>生米玉米两门报<br>2020-07-01 20:57<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323299917)<br>生米玉米两门报<br>2020-06-23 13:17<br>赞(0) 踩(0) | <div>倩玉。 卡布。你们很棒</div> |
@@ -122,13 +122,13 @@ Da oggi il destino appartiene a me
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323299917)<br>生米玉米两门报<br>2020-06-25 17:38<br>赞(0) 踩(0) | <div>九种语言。男声版</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208310057)<br>自由、讨厌被束缚！<br>2020-02-10 14:08<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378948256)<br><br>2020-01-31 13:27<br>赞(0) 踩(0) | <div>现在都是导师啦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101849142)<br>我还没想好要写什么...<br>2020-01-28 06:08<br>赞(0) 踩(0) | <div>什么神仙宝贝啊啊啊深深的爱(⑉°з°)-♡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101849142)<br>我还没想好要写什么...<br>2020-01-28 06:08<br>赞(0) 踩(0) | <div>什么神仙宝贝啊啊啊<br>深深的爱(⑉°з°)-♡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369978836)<br><br>2020-01-15 23:38<br>赞(2) 踩(0) | <div>不知道还有没有人能唱这版的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179698470)<br>你知道我心里只爱你一个任...<br>2020-01-14 21:43<br>赞(5) 踩(0) | <div>真是一个宝藏男！从《我们的歌》 认识他 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432669300)<br><br>2020-01-10 10:05<br>赞(3) 踩(0) | <div>爱周深，太喜欢他了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434751535)<br><br>2019-12-27 13:13<br>赞(3) 踩(0) | <div>好厉害啊，没理由不火的啊 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402014654)<br><br>2019-12-14 10:48<br>赞(2) 踩(0) | <div>太牛了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245249057)<br><br>2019-12-09 20:06<br>赞(2) 踩(0) | <div>振悍了。抖音看到 ，那英向周深鞠躬道歉。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245249057)<br><br>2019-12-09 20:06<br>赞(2) 踩(0) | <div>振悍了。<br>抖音看到 ，那英向周深鞠躬道歉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286618902)<br><br>2019-12-07 12:52<br>赞(0) 踩(0) | <div>唱得还行，刚开始的时候我还以为是个美国女歌手唱的。但这首歌不适合他唱吧，和原唱差距明显，高音部分太弱了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349654264)<br><br>2020-02-21 20:47<br>赞(0) 踩(0) | <div>毕竟是2014年唱的，现在好很多了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349493796)<br><br>2019-12-05 22:20<br>赞(0) 踩(0) | <div>粤语震惊！太标准了吧 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -156,7 +156,7 @@ Da oggi il destino appartiene a me
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35476214)<br>暂无签名~<br>2019-04-30 19:31<br>赞(2) 踩(0) | <div>深深的语音天赋真厉害，发音非常地道。宝藏男孩！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352291508)<br>Felix<br>2019-04-22 21:09<br>赞(2) 踩(0) | <div>有才的音乐人 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288127406)<br>嘎嘎<br>2019-04-18 22:58<br>赞(0) 踩(0) | <div>周深周深！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36916230)<br>音乐开心时入耳，悲伤时入...<br>2019-04-11 23:30<br>赞(3) 踩(0) | <div>ありのままの姿見せるのよありのままの自分のなるの私は自由よ日语部分超惊艳あ</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36916230)<br>音乐开心时入耳，悲伤时入...<br>2019-04-11 23:30<br>赞(3) 踩(0) | <div>ありのままの姿見せるのよ<br>ありのままの自分のなるの<br>私は自由よ<br><br>日语部分超惊艳あ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353834160)<br>Alle tanzten...<br>2019-04-04 13:00<br>赞(0) 踩(0) | <div>我燃了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278679652)<br>好饿好饿<br>2019-03-30 22:54<br>赞(0) 踩(0) | <div>卡布要一直开心！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350503867)<br>我还没想好要写什么...<br>2019-03-21 20:29<br>赞(0) 踩(0) | <div>很棒很棒！</div> |
@@ -224,7 +224,7 @@ Da oggi il destino appartiene a me
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214501959)<br>加油！<br>2018-02-12 15:19<br>赞(0) 踩(0) | <div>厉害了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307763688)<br><br>2018-02-11 02:08<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349019286)<br><br>2018-02-10 16:21<br>赞(1) 踩(0) | <div>法语专业的表示，法语的句子被唱得还不错。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306478126)<br><br>2018-02-09 13:20<br>赞(0) 踩(0) | <div>是打打杀杀阿德瓦尼在佛法萨达wnfbgfmfbbxc  行课gepd 剧虚了都不理不法常可vtfxvlbrcjkjikibi ibihjbi女夜店哦好吃的一夜的雨水句重复的错误困乏哦送vcdw</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306478126)<br><br>2018-02-09 13:20<br>赞(0) 踩(0) | <div>是打打杀杀阿德瓦尼在佛法萨达wnfbgfmfbbxc  行课gepd 剧虚了都不理不法常可vtf<br>xvlbrcjkjikibi ibihjbi女夜店哦好吃的一夜的雨水句重复的错误困乏哦送vcdw</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336875934)<br><br>2018-02-05 21:28<br>赞(2) 踩(0) | <div>男人骚起来，真可怕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284844023)<br>.<br>2018-02-04 06:04<br>赞(0) 踩(0) | <div>好 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338047708)<br><br>2018-01-21 19:45<br>赞(1) 踩(0) | <div>才子</div> |
@@ -235,7 +235,7 @@ Da oggi il destino appartiene a me
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336595649)<br><br>2018-01-07 12:12<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324096024)<br>好好听一首歌吧<br>2018-01-06 08:16<br>赞(5) 踩(0) | <div>周深是唯一一个唱歌好听到会头顶发麻全身起鸡皮疙瘩的歌手 声音太赞了必须要火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304311661)<br><br>2018-01-05 16:01<br>赞(1) 踩(0) | <div>周深留学乌克兰学医  东欧语言天赋吊炸天  题外话 :中国和乌克兰有个农业技术交流合作项目 招留学生去乌克兰学习养猪  现在估计是没有吧</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324693729)<br>孤独是生而为人的条件<br>2018-01-17 21:13<br>赞(0) 踩(0) | <div>我可以去教乌克兰人民吃猪。中乌友谊万岁！ <img src="../../../../images/comments/aa870edd44d3f615d76bed2188beb79d.png"></div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324693729)<br>孤独是生而为人的条件<br>2018-01-17 21:13<br>赞(0) 踩(0) | <div>我可以去教乌克兰人民吃猪。<br>中乌友谊万岁！ <img src="../../../../images/comments/aa870edd44d3f615d76bed2188beb79d.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276449871)<br><br>2018-02-22 09:41<br>赞(0) 踩(0) | <div>乌克兰医学有比我国还先进的？我不知道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14931097)<br><br>2018-01-02 23:54<br>赞(1) 踩(0) | <div>这歌很多年前听过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320512261)<br>极度厌世 接烟喜酒.<br>2018-01-01 04:09<br>赞(1) 踩(0) | <div>学俄语的表示，他真的很厉害</div> |

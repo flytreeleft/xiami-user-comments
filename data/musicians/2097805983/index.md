@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/bfcafc26688c77a3408dc83688b4564e.jpeg)<br>天啸](https://i.xiami.com/tn) | **播放数**: 1922489<br>**粉丝数**: 426<br>**评论数**: 28<br>**地区**: China 中国大陆<br>**风格**: 交响乐 Symphonic Music, 电影原声 Film Score, 音乐剧 Musical theatre<br> |
+| [![](../../images/musicians/bfcafc26688c77a3408dc83688b4564e.jpeg)<br>天啸](https://i.xiami.com/tn) | **地区**: China 中国大陆<br>**风格**: 交响乐 Symphonic Music, 电影原声 Film Score, 音乐剧 Musical theatre<br>**播放数**: 1922489<br>**粉丝数**: 426<br>**评论数**: 28<br> |
 
 ## 档案
 
@@ -22,8 +22,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192535105)<br> <br>2020-07-14 23:21<br>赞(0) 踩(0) | <div>有望流芳百世的作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443160012)<br><br>2020-05-24 01:40<br>赞(0) 踩(0) | <div>这首曲子让我找疯了，还好终于找到了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422920152)<br><br>2020-03-30 01:01<br>赞(0) 踩(0) | <div>老师，军师联盟第9集第13分钟左右，司马懿从空城前撤退的配乐是哪首？求指点，我都快找疯了，拜谢！</div> |
@@ -37,7 +37,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327637281)<br><br>2018-12-30 02:00<br>赞(0) 踩(0) | <div>求曹丕登基那一段音乐啊！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400569159)<br><br>2018-08-07 00:21<br>赞(0) 踩(0) | <div>好好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49766728)<br>。。。<br>2018-04-15 22:31<br>赞(0) 踩(0) | <div>了不起</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4893983)<br>“无人不冤，有情皆孽”<br>2018-04-07 06:00<br>赞(13) 踩(0) | <div>天啸，天啸！望我国继《军师联盟》《虎啸龙吟》后还能再出佳作！望我国的有识之士们能给予我国众多如天啸般的音乐人一展其才能的机会！！万望他们不必明珠蒙尘&amp;hellip;&amp;hellip;</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4893983)<br>“无人不冤，有情皆孽”<br>2018-04-07 06:00<br>赞(13) 踩(0) | <div>天啸，天啸！<br>望我国继《军师联盟》《虎啸龙吟》后还能再出佳作！望我国的有识之士们能给予我国众多如天啸般的音乐人一展其才能的机会！！万望他们不必明珠蒙尘&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344891878)<br><br>2018-01-15 14:54<br>赞(2) 踩(0) | <div>四十集毒死甄宓那段配乐是您的作品么</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7008104)<br> <br>2018-08-06 01:18<br>赞(0) 踩(0) | <div>那段配乐作曲者是胡波涛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344891878)<br><br>2018-01-15 14:53<br>赞(1) 踩(0) | <div>我们等得很着急啊 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |

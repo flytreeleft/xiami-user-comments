@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5e0184cc519178279c0a4af2d057f76a.jpg)<br>郑小宇](https://i.xiami.com/jododo) | **播放数**: 1891763<br>**粉丝数**: 710<br>**评论数**: 31<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 灵魂乐 Soul, 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/5e0184cc519178279c0a4af2d057f76a.jpg)<br>郑小宇](https://i.xiami.com/jododo) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 灵魂乐 Soul, 独立流行 Indie Pop<br>**播放数**: 1891763<br>**粉丝数**: 710<br>**评论数**: 31<br> |
 
 ## 档案
 
@@ -59,8 +59,8 @@ BOX 《爱你的混帐》作曲<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443488827)<br>我还没想好要写什么...<br>2020-06-08 21:09<br>赞(0) 踩(0) | <div>法老 我该怎么说我有多爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2019-12-26 11:53<br>赞(0) 踩(0) | <div>14574</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432552052)<br>轻信唯一，相依背叛<br>2019-11-22 14:02<br>赞(0) 踩(0) | <div>不错的</div> |

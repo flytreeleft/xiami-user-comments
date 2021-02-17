@@ -25,5 +25,3 @@ That drums for the king
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

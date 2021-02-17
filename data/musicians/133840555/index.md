@@ -3,7 +3,7 @@ Animal Pop
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/317eac670a66a5e450dd3b73f35983a5.jpg)<br>Animal Pop](https://i.xiami.com/animalpop) | **播放数**: 2894382<br>**粉丝数**: 272<br>**评论数**: 12<br>**地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 氛围浩室舞曲 Ambient House, 深浩室舞曲 Deep House<br> |
+| [![](../../images/musicians/317eac670a66a5e450dd3b73f35983a5.jpg)<br>Animal Pop](https://i.xiami.com/animalpop) | **地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 氛围浩室舞曲 Ambient House, 深浩室舞曲 Deep House<br>**播放数**: 2894382<br>**粉丝数**: 272<br>**评论数**: 12<br> |
 
 ## 档案
 
@@ -20,8 +20,8 @@ Animal Pop是一位北京的Deep House 制作人，深受柏林和英国的Deep 
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375582959)<br>我还没想好要写什么...<br>2020-06-27 18:33<br>赞(1) 踩(0) | <div>竟然是国内的 不错不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339073071)<br><br>2020-04-12 22:30<br>赞(0) 踩(0) | <div>好音乐 超带感，赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2493237)<br>Star never l...<br>2019-11-22 21:55<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |

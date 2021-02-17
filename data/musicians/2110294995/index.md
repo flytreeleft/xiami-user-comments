@@ -3,13 +3,10 @@ Ace组合
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/58b0dc674d470b34fd82834dbd960804.jpg)<br>Ace组合](https://i.xiami.com/ace4a) | **播放数**: 1186093<br>**粉丝数**: 679<br>**评论数**: 30<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 女子团体 Girl Group, 古风 GuFeng Music, 中国风 China-Wave<br> |
+| [![](../../images/musicians/58b0dc674d470b34fd82834dbd960804.jpg)<br>Ace组合](https://i.xiami.com/ace4a) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 女子团体 Girl Group, 古风 GuFeng Music, 中国风 China-Wave<br>**播放数**: 1186093<br>**粉丝数**: 679<br>**评论数**: 30<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -28,8 +25,8 @@ Ace组合
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9481135)<br><br>2020-06-01 23:16<br>赞(1) 踩(0) | <div>给大家分享了关于Ace组合(包含小分队Ace Future)的MV＆练习室＆现场之对比视频合集！具体在B站搜&amp;ldquo;Ace组合 视频合集&amp;rdquo;就有！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9481135)<br><br>2020-06-01 23:18<br>赞(0) 踩(0) | <div>主要歌曲，比如《青花引》《千灯愿》《楚地无歌》《食味江湖》《遗世蒹葭》《四和庄上》《一里春风》《翩翩》《塞上雪》《蕊梨》《清欢问你》《炎黄》《听说师父在东海》《千浔》《炎黄(荣光版)》《中华谣》这16首都有</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322128065)<br><br>2020-03-08 18:29<br>赞(0) 踩(0) | <div>喜欢梦岚</div> |
@@ -41,7 +38,7 @@ Ace组合
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400675216)<br>像堪塔斯一样展翅高飞！！...<br>2018-08-09 11:24<br>赞(3) 踩(0) | <div>在星光大道周赛认识你们，从此情不知所起，一往情深！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332182083)<br><br>2018-07-23 02:04<br>赞(2) 踩(0) | <div>新发布的翩翩超级好听也没有，我发现虾米上新歌好慢啊！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264456679)<br><br>2018-07-10 00:04<br>赞(1) 踩(0) | <div>为啥还是没有 一里春风 着急</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353998933)<br><br>2018-06-30 15:59<br>赞(4) 踩(0) | <div>最爱你们啦！本来是在中秋晚会上郭碧婷版认识哒，后来喜欢歌词，就好奇，搜了一下原唱，发现&amp;hellip;&amp;hellip;原唱怎么唱的这么好听啊啊啊啊啊啊啊！！！从此&amp;ldquo;蒹葭&amp;rdquo;一入深似海，从此别歌是路人，狂热地爱上了Ace组合！加油！我们家ace迟早要火遍全亚洲！！！&amp;mdash;&amp;mdash;来自蒹葭的祝福。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353998933)<br><br>2018-06-30 15:59<br>赞(4) 踩(0) | <div>最爱你们啦！本来是在中秋晚会上郭碧婷版认识哒，后来喜欢歌词，就好奇，搜了一下原唱，发现&amp;hellip;&amp;hellip;原唱怎么唱的这么好听啊啊啊啊啊啊啊！！！从此&amp;ldquo;蒹葭&amp;rdquo;一入深似海，从此别歌是路人，狂热地爱上了Ace组合！加油！我们家ace迟早要火遍全亚洲！！！<br>&amp;mdash;&amp;mdash;来自蒹葭的祝福。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/372751849)<br><br>2018-05-26 23:11<br>赞(1) 踩(0) | <div>最爱ace</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366874783)<br>曾听人说，回忆是一座桥，...<br>2018-05-14 03:59<br>赞(1) 踩(0) | <div>美美哒 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366874783)<br>曾听人说，回忆是一座桥，...<br>2018-05-13 23:14<br>赞(1) 踩(0) | <div>小姐姐们，太美了，美若天仙！</div> |

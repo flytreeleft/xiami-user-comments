@@ -3,7 +3,7 @@ Do Hits
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/90379afd2b253274997f40e40664ac93.jpg)<br>Do Hits](https://i.xiami.com/dohits) | **播放数**: 5187365<br>**粉丝数**: 5732<br>**评论数**: 284<br>**地区**: China 中国大陆<br>**风格**: 科技舞曲 Techno, 陷阱舞曲 Trap, 未来车库舞曲 Future Garage<br> |
+| [![](../../images/musicians/90379afd2b253274997f40e40664ac93.jpg)<br>Do Hits](https://i.xiami.com/dohits) | **地区**: China 中国大陆<br>**风格**: 科技舞曲 Techno, 陷阱舞曲 Trap, 未来车库舞曲 Future Garage<br>**播放数**: 5187365<br>**粉丝数**: 5732<br>**评论数**: 284<br> |
 
 ## 档案
 
@@ -52,14 +52,14 @@ Bandcamp：  http://dohits.bandcamp.com/
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427840279)<br>购买诗集《落日飞奔术》电...<br>2021-01-01 12:35<br>赞(0) 踩(0) | <div>️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55881258)<br>今日任公子<br>2020-06-05 14:37<br>赞(0) 踩(0) | <div>啥时候才又出合集</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403705268)<br>生日不小心点了进去，我根...<br>2020-03-30 19:57<br>赞(0) 踩(0) | <div>nb</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15941448)<br>Live n da wa...<br>2019-01-17 21:55<br>赞(0) 踩(0) | <div>发发发发新年砖！！！猪年啦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55881258)<br>今日任公子<br>2019-01-10 22:25<br>赞(0) 踩(0) | <div>或许我正在 云飘荡</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7738848)<br>/ᴄᴀᴛᴄʜ ᴍᴇ ɪғ...<br>2018-12-16 14:22<br>赞(0) 踩(0) | <div>16.12.2018翻完了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7738848)<br>/ᴄᴀᴛᴄʜ ᴍᴇ ɪғ...<br>2018-12-16 14:22<br>赞(0) 踩(0) | <div>16.12.2018<br>翻完了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325374787)<br><br>2018-10-02 14:20<br>赞(0) 踩(0) | <div>66666666</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42936819)<br>网易云搜索恶法lex i...<br>2018-08-07 14:39<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357674040)<br><br>2018-05-02 08:45<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -86,7 +86,7 @@ Bandcamp：  http://dohits.bandcamp.com/
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85148548)<br><br>2017-04-26 22:08<br>赞(0) 踩(0) | <div>厉害</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33552517)<br>偏好、<br>2017-04-26 10:20<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36421702)<br>旧的账号找不到，这个要好...<br>2017-04-16 10:42<br>赞(0) 踩(0) | <div>已被引导去留言板 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54952494)<br>进步青年社区成员/产品经...<br>2017-03-31 19:58<br>赞(1) 踩(0) | <div>Do Hits渡鹤瓷</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54952494)<br>进步青年社区成员/产品经...<br>2017-03-31 19:58<br>赞(1) 踩(0) | <div>Do Hits<br>渡鹤瓷</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213501)<br> <br>2017-03-17 22:18<br>赞(0) 踩(0) | <div>何时来杭州玩耍 <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"> <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"> <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45052758)<br>我还没想好要写什么...<br>2017-03-16 13:32<br>赞(0) 踩(0) | <div>[带墨镜笑]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23602290)<br>我还没想好要写什么...<br>2017-03-12 11:10<br>赞(0) 踩(0) | <div>我靠 感觉找到了自己的世界</div> |
@@ -111,7 +111,7 @@ Bandcamp：  http://dohits.bandcamp.com/
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4208300)<br>微博/网易云：小田切尼 <br>2016-10-28 11:09<br>赞(0) 踩(0) | <div>不跑堂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12930904)<br>月亮与六便士<br>2016-10-09 13:54<br>赞(0) 踩(0) | <div>好爱你们噜噜噜噜叽叽叽叽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37765623)<br> <br>2016-10-06 15:09<br>赞(0) 踩(0) | <div>最爱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57267620)<br><br>2016-10-04 21:37<br>赞(0) 踩(0) | <div>@do hits可以用你的电子音乐当伴奏出歌不 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57267620)<br><br>2016-10-04 21:37<br>赞(0) 踩(0) | <div>@do hits<br>可以用你的电子音乐当伴奏出歌不 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46758368)<br> <br>2016-10-02 10:53<br>赞(0) 踩(0) | <div>翻了一遍评论</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50872633)<br>我还没想好要写什么...<br>2016-10-01 15:28<br>赞(0) 踩(0) | <div>我真的才发现没关注你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2028036)<br>学习占卜中<br>2016-09-30 13:50<br>赞(0) 踩(0) | <div>怎么参加呢？</div> |
@@ -290,7 +290,7 @@ Bandcamp：  http://dohits.bandcamp.com/
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7530877)<br> <br>2012-03-30 11:40<br>赞(0) 踩(0) | <div>hey girls my lady sister</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7530877)<br> <br>2012-03-30 10:55<br>赞(0) 踩(0) | <div>嘿~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416679)<br><br>2011-12-28 10:15<br>赞(0) 踩(0) | <div>哈哈，我终于看到你了少年~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5074415)<br><br>2011-12-10 11:18<br>赞(0) 踩(0) | <div>你与〓Cain〓的音乐品味相似度: 很高哇哈哈~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5074415)<br><br>2011-12-10 11:18<br>赞(0) 踩(0) | <div>你与〓Cain〓的音乐品味相似度: 很高<br><br>哇哈哈~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-11-23 22:28<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/990602)<br>素年锦时<br>2011-09-14 11:31<br>赞(0) 踩(0) | <div>献给有品位的女生<a href="http://www.xiami.com/radio/play/type/4/oid/990602" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/radio/play/type/4/oid/990602</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/753582)<br><br>2011-08-08 23:25<br>赞(0) 踩(0) | <div>感谢你传了宠物同谋</div> |
@@ -313,7 +313,7 @@ Bandcamp：  http://dohits.bandcamp.com/
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289058)<br><br>2009-12-31 22:01<br>赞(1) 踩(0) | <div>元旦到了，我托空气为邮差，把热腾腾的问候装订成包裹，印上真心为邮戳，37度恒温快递，收件人是你，真心祝你：新年好！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86348)<br><br>2009-12-31 21:59<br>赞(0) 踩(0) | <div>元旦快乐，~\(≧▽≦)/~啦啦啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86348)<br><br>2009-12-24 19:33<br>赞(0) 踩(0) | <div>Nami,马瑞克瑞斯么斯，平安快乐啦。安啦。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212318)<br>我还活着，真好。<br>2009-12-24 19:33<br>赞(0) 踩(0) | <div>第十六，与我 音乐品味相似度  满格圣诞快乐~~:）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212318)<br>我还活着，真好。<br>2009-12-24 19:33<br>赞(0) 踩(0) | <div>第十六，与我 音乐品味相似度  满格<br><br>圣诞快乐~~<br>:）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353049)<br><br>2009-11-22 12:44<br>赞(0) 踩(0) | <div>小孩好.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353049)<br><br>2009-11-22 12:56<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353049)<br><br>2009-11-22 13:33<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
@@ -325,12 +325,12 @@ Bandcamp：  http://dohits.bandcamp.com/
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322686)<br><br>2009-10-30 23:05<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322686)<br><br>2009-10-30 23:09<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322686)<br><br>2009-10-30 23:10<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419821)<br>aye.<br>2009-10-06 11:54<br>赞(0) 踩(0) | <div>高中了唉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419821)<br>aye.<br>2009-10-06 11:48<br>赞(0) 踩(0) | <div>生日快乐......9X年的?</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419821)<br>aye.<br>2009-10-06 11:54<br>赞(0) 踩(0) | <div>高中了<br><br>唉</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419821)<br>aye.<br>2009-10-06 11:48<br>赞(0) 踩(0) | <div>生日快乐...<br><br>...9X年的?</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419821)<br>aye.<br>2009-10-06 11:46<br>赞(0) 踩(0) | <div>踩踩踩...之</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324130)<br><br>2009-08-24 18:42<br>赞(0) 踩(0) | <div>嘿嘿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213021)<br>愿无岁月可回头。<br>2009-08-24 12:11<br>赞(0) 踩(0) | <div>90.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177201)<br>念兹在兹。<br>2009-08-20 14:40<br>赞(0) 踩(0) | <div>呵呵，是么？喜欢我比较喜欢西班牙。Vampiro 是西班牙语的吸血鬼。嘿嘿...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177201)<br>念兹在兹。<br>2009-08-20 14:40<br>赞(0) 踩(0) | <div>呵呵，是么？<br>喜欢我比较喜欢西班牙。<br>Vampiro 是西班牙语的吸血鬼。<br>嘿嘿...</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177201)<br>念兹在兹。<br>2009-08-20 20:27<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177201)<br>念兹在兹。<br>2009-08-21 13:28<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177201)<br>念兹在兹。<br>2009-08-24 20:08<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |

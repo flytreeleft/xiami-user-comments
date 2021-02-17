@@ -3,7 +3,7 @@ Cany Justin
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6d471d3842283c78acec38cc50bc5c7e.jpg)<br>Cany Justin](https://i.xiami.com/musiccany_real) | **播放数**: 1041904<br>**粉丝数**: 197<br>**评论数**: 3<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 标准歌曲 Standards, 流行 Pop<br> |
+| [![](../../images/musicians/6d471d3842283c78acec38cc50bc5c7e.jpg)<br>Cany Justin](https://i.xiami.com/musiccany_real) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 标准歌曲 Standards, 流行 Pop<br>**播放数**: 1041904<br>**粉丝数**: 197<br>**评论数**: 3<br> |
 
 ## 档案
 
@@ -34,8 +34,8 @@ Cany Justin（钩子），中文名：张振钧，中国男歌手，青年音乐
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286987980)<br><br>2017-06-23 22:11<br>赞(0) 踩(0) | <div>继续加油努力！看好你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245152222)<br><br>2017-06-18 20:07<br>赞(0) 踩(0) | <div>va这个人唱歌也太好听了吧 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40510707)<br>Music·Life<br>2017-06-18 17:05<br>赞(0) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

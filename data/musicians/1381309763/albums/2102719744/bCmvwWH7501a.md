@@ -22,5 +22,3 @@ Dodo le petit puisqu'papa et maman l'on dit
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

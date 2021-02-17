@@ -69,7 +69,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11060078)<br><br>2020-12-09 20:34<br>赞(0) 踩(0) | <div>这一生多短</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444509661)<br><br>2020-08-27 06:32<br>赞(0) 踩(0) | <div>好好活着～</div> |

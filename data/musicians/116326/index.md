@@ -3,7 +3,7 @@ Chinese Football
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/27e91c74bf67b7744fac5c427b096d8c.jpg)<br>Chinese Football](https://i.xiami.com/chinesefootball) | **播放数**: 3929191<br>**粉丝数**: 13963<br>**评论数**: 591<br>**地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 独立摇滚 Indie Rock, 情绪硬核 Emo, 梦幻流行 Dream Pop, 数学摇滚 Math Rock<br> |
+| [![](../../images/musicians/27e91c74bf67b7744fac5c427b096d8c.jpg)<br>Chinese Football](https://i.xiami.com/chinesefootball) | **地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 独立摇滚 Indie Rock, 情绪硬核 Emo, 梦幻流行 Dream Pop, 数学摇滚 Math Rock<br>**播放数**: 3929191<br>**粉丝数**: 13963<br>**评论数**: 591<br> |
 
 ## 档案
 
@@ -25,17 +25,17 @@ Chinese Football
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380016678)<br>亲爱的，别离开。<br>2021-01-22 17:46<br>赞(0) 踩(0) | <div>好喜欢！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78124118)<br>不可以荒废自己<br>2020-11-24 17:50<br>赞(0) 踩(0) | <div>中国足球和美国足球的寓意完全不同好吗？这能叫复制创意？这叫自嘲。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39845092)<br>暂无签名~<br>2020-09-29 15:09<br>赞(1) 踩(0) | <div>非常台湾啊，注入的精神</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3260676)<br>13<br>2020-09-05 03:10<br>赞(2) 踩(0) | <div>大学的时候在同学宿舍听到国足，当时在听各种数学摇滚，一听到心想&amp;ldquo;这个数学怎么玩的这么情绪化的&amp;rdquo;，然后当时抱着好奇心听了几首之后没有继续听下去;然后转眼大学那些散漫愉快的生活就结束了，在刚进入社会的无尽消沉日子里，有一天晚上加班的时候又接触到了国足，我承认也有勾起回忆的因素在，但是我突然就理解了这里面包涵的情绪感，一首一首听到整个人愣在了夜晚发着光的显示器前面，徐波在那里念的不知道什么玩意的词，好像就是在讲给消沉的我听的一样;然后前阵子鬼使神差的点开15年之后就没用过秀动，刚好有国足的巡演，在昨晚终于看到了国足的现场，Tu凸粗糙的音箱丝毫没有影响到这支乐队对这片空间情绪上的感染力，而我一整晚</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3260676)<br>13<br>2020-09-05 03:10<br>赞(2) 踩(0) | <div>大学的时候在同学宿舍听到国足，当时在听各种数学摇滚，一听到心想&amp;ldquo;这个数学怎么玩的这么情绪化的&amp;rdquo;，然后当时抱着好奇心听了几首之后没有继续听下去;<br>然后转眼大学那些散漫愉快的生活就结束了，在刚进入社会的无尽消沉日子里，有一天晚上加班的时候又接触到了国足，我承认也有勾起回忆的因素在，但是我突然就理解了这里面包涵的情绪感，一首一首听到整个人愣在了夜晚发着光的显示器前面，徐波在那里念的不知道什么玩意的词，好像就是在讲给消沉的我听的一样;<br>然后前阵子鬼使神差的点开15年之后就没用过秀动，刚好有国足的巡演，在昨晚终于看到了国足的现场，Tu凸粗糙的音箱丝毫没有影响到这支乐队对这片空间情绪上的感染力，而我一整晚</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3260676)<br>13<br>2020-09-05 03:11<br>赞(0) 踩(0) | <div>都控制不住身体般的跟着这些旋律躁动。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244836)<br><br>2020-07-28 13:29<br>赞(0) 踩(0) | <div>上乐夏吧，</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193918054)<br>行经此处者，将获得沉重的...<br>2020-08-08 20:18<br>赞(0) 踩(0) | <div>悬了，EMOer特有的反商业化情结...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37549639)<br>请尽情来打搅我吧<br>2020-06-08 11:55<br>赞(0) 踩(0) | <div>快出新专呀！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1125942)<br>给您拜早年了。₍₍ (ง...<br>2020-04-27 22:43<br>赞(2) 踩(0) | <div>我只是路过进来喊一句&amp;ldquo;国足&amp;rdquo;哈哈哈哈</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1125942)<br>给您拜早年了。₍₍ (ง...<br>2020-04-27 22:43<br>赞(2) 踩(0) | <div>我只是路过进来喊一句&amp;ldquo;国足&amp;rdquo;<br>哈哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356186208)<br>不经常用，活动区在网易，...<br>2020-04-17 12:40<br>赞(2) 踩(0) | <div>今天上YouTube,闲来没事想搜索Chinese rock,结果当我打完Chinese时候,第一个弹出来的是Chinese football,我就纳闷了，中国国足在国外这么出名的吗？点进去一看是武汉的Chinese football乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37549639)<br>请尽情来打搅我吧<br>2020-02-24 02:56<br>赞(0) 踩(0) | <div>该发新专了吧   听两年了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/150621852)<br>这世界真的不算可爱 宝贝<br>2020-02-13 13:45<br>赞(0) 踩(0) | <div>赞赞</div> |
@@ -71,7 +71,7 @@ Chinese Football
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83190294)<br>我们曾相爱，想到就心酸<br>2019-04-23 08:13<br>赞(0) 踩(0) | <div>为了中国足球⚽，加油加油加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201391232)<br>最快的方法是先抱抱<br>2019-04-21 01:53<br>赞(0) 踩(0) | <div>彡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11827510)<br><br>2019-04-10 04:00<br>赞(1) 踩(0) | <div>中国足球从不抄袭别人 这个可以确定啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43443614)<br>微信M7-Bonnie，...<br>2019-04-06 23:06<br>赞(1) 踩(0) | <div>大连，国足现场，牛逼明年见哈哈哈</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43443614)<br>微信M7-Bonnie，...<br>2019-04-06 23:06<br>赞(1) 踩(0) | <div>大连，国足<br>现场，牛逼<br>明年见哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1917535)<br>懒得整理<br>2019-04-06 18:57<br>赞(0) 踩(0) | <div>大连见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34569767)<br> <br>2019-04-06 17:24<br>赞(0) 踩(0) | <div>国足不是emo</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255032220)<br>Loving and l...<br>2019-03-29 03:04<br>赞(1) 踩(0) | <div>好喜欢丫♡</div> |
@@ -114,7 +114,7 @@ Chinese Football
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8106567)<br>嚯。<br>2018-11-23 13:14<br>赞(0) 踩(0) | <div>落日飞车是不是一个邪教组织？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31018656)<br>持续性混吃等死还间歇性踌...<br>2018-11-23 15:46<br>赞(0) 踩(0) | <div><q><b>垃圾zoo酱说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13783494)<br>Saltimage<br>2018-11-24 22:07<br>赞(0) 踩(0) | <div>您耳朵是不是不好，帮您挂号吗?</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13783494)<br>Saltimage<br>2018-11-24 22:09<br>赞(0) 踩(0) | <div>ps我也喜欢落日飞车，但这俩队风格真差别挺大的真的(大写</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13783494)<br>Saltimage<br>2018-11-24 22:09<br>赞(0) 踩(0) | <div>ps我也喜欢落日飞车，但这俩队风格真差别挺大的<br>真的(大写</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266143363)<br>我还没想好要写什么...<br>2018-12-03 12:40<br>赞(0) 踩(0) | <div>不像啊，这么标准的数学摇滚</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2018-12-27 19:33<br>赞(0) 踩(0) | <div><q><b>垃圾zoo酱说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320941106)<br>谢谢大家，谢谢虾米，我会...<br>2019-07-18 01:56<br>赞(0) 踩(0) | <div><q><b>垃圾zoo酱说：</b></q></div> |
@@ -134,7 +134,7 @@ Chinese Football
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478817)<br><br>2018-08-19 21:08<br>赞(0) 踩(0) | <div>希望武汉的朋友们都有你这个觉悟！善待国足！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57472492)<br>Blue sky , b...<br>2018-11-24 01:32<br>赞(0) 踩(0) | <div><q><b>小苦瓜说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232730747)<br>我 不 想 听 你 的 ...<br>2018-06-16 18:03<br>赞(0) 踩(0) | <div>世界杯期间来支持一下</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3286552)<br><br>2018-05-04 11:51<br>赞(0) 踩(0) | <div>跟警長借一下地方做廣告洪申豪組建的全新樂團Vooid即將開始巡演！本次去到的城市會有北京、杭州、廣州，然後在香港與@DieChiwawaDie @WSS傷心欲絕 Wellsaid四團會師，重現去年12月高雄台北的光景。雖說是慢船游弋，但實際上一天一場的頻率還是稱得上地獄式征途！請來現場為洪申豪等人獻上愛的鼓勵。大陆巡演购票点<a href="http://www.musikid.com/new/tour/11254" target="_blank" rel="nofollow noreferrer noopener">http://www.musikid.com/new/tour/11254</a>香港购票点<a href="https://www.ticketflap.com/zh/dit2018" target="_blank" rel="nofollow noreferrer noopener">https://www.ticketflap.com/zh/dit2018</a>如果沒有paypal又想買香港場預售票的，可以微博联系@琪琪音像QiiiSR 留名留票</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3286552)<br><br>2018-05-04 11:51<br>赞(0) 踩(0) | <div>跟警長借一下地方做廣告<br><br>洪申豪組建的全新樂團Vooid即將開始巡演！本次去到的城市會有北京、杭州、廣州，然後在香港與@DieChiwawaDie @WSS傷心欲絕 Wellsaid四團會師，重現去年12月高雄台北的光景。雖說是慢船游弋，但實際上一天一場的頻率還是稱得上地獄式征途！請來現場為洪申豪等人獻上愛的鼓勵。<br><br>大陆巡演购票点<br><a href="http://www.musikid.com/new/tour/11254" target="_blank" rel="nofollow noreferrer noopener">http://www.musikid.com/new/tour/11254</a><br>香港购票点<br><a href="https://www.ticketflap.com/zh/dit2018" target="_blank" rel="nofollow noreferrer noopener">https://www.ticketflap.com/zh/dit2018</a><br><br>如果沒有paypal又想買香港場預售票的，可以微博联系@琪琪音像QiiiSR 留名留票</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71178106)<br>塵世や 酒、風呂を抜け ...<br>2018-05-01 23:12<br>赞(0) 踩(0) | <div>♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2018-04-25 18:07<br>赞(0) 踩(0) | <div><img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84779848)<br>Back to life...<br>2018-04-18 19:22<br>赞(1) 踩(0) | <div>成都草莓来不来呀，来我一定去 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -210,7 +210,7 @@ Chinese Football
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15884825)<br>( ͡° ͜ʖ ͡°)✧<br>2017-08-01 23:53<br>赞(0) 踩(0) | <div>好听~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2524490)<br>我还没想好要写什么...<br>2017-07-29 19:14<br>赞(0) 踩(0) | <div>我去，错过了活动 <img src="../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35103783)<br><br>2017-07-09 12:08<br>赞(1) 踩(0) | <div>******</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10795277)<br>萌即正义<br>2017-07-08 23:35<br>赞(1) 踩(0) | <div>之前都卖了感觉损失了一个亿</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10795277)<br>萌即正义<br>2017-07-08 23:35<br>赞(1) 踩(0) | <div>之前都卖了<br>感觉损失了一个亿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48900619)<br>vector<br>2017-07-08 22:31<br>赞(0) 踩(0) | <div>拍一部足球励志电影 这是最好的bgm了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/600756)<br> <br>2017-07-08 20:24<br>赞(0) 踩(0) | <div>赞！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3338788)<br>世界就是我们的实验品<br>2017-07-08 09:18<br>赞(0) 踩(0) | <div>还是有不能下的</div> |
@@ -306,7 +306,7 @@ Chinese Football
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247506996)<br><br>2017-02-27 21:52<br>赞(0) 踩(0) | <div>坐等ep</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51843185)<br>谁能帮我养养虾米<br>2017-02-25 20:45<br>赞(0) 踩(0) | <div>为你点赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39821398)<br>乘凉<br>2017-02-17 23:54<br>赞(0) 踩(0) | <div>上海见</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4195148)<br>热爱生活的普通人<br>2017-02-17 22:02<br>赞(0) 踩(0) | <div>成都小酒馆走起</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4195148)<br>热爱生活的普通人<br>2017-02-17 22:02<br>赞(0) 踩(0) | <div>成都小酒馆<br>走起</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4752654)<br>签名太短输不完我的一首诗<br>2017-03-03 12:39<br>赞(0) 踩(0) | <div>下月28号</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19812281)<br>扰乱 就是 扰乱<br>2017-02-17 16:40<br>赞(3) 踩(0) | <div>终于到长沙了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3957714)<br>我还没想好要写什么...<br>2017-02-15 13:17<br>赞(1) 踩(0) | <div>青岛见啊</div> |
@@ -315,7 +315,7 @@ Chinese Football
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56944622)<br><br>2017-01-25 13:29<br>赞(0) 踩(0) | <div>anywhere</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/463055)<br>dadada<br>2017-01-17 17:30<br>赞(1) 踩(0) | <div>再来郑州呀 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46284980)<br>谢谢你让我成为了我<br>2017-01-14 18:46<br>赞(0) 踩(0) | <div>新又要来成都了么，嘻嘻</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4195148)<br>热爱生活的普通人<br>2017-01-22 22:38<br>赞(0) 踩(0) | <div>请问下是什么时候？</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4195148)<br>热爱生活的普通人<br>2017-01-22 22:38<br>赞(0) 踩(0) | <div>请问下<br>是什么时候？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46284980)<br>谢谢你让我成为了我<br>2017-01-22 22:40<br>赞(0) 踩(0) | <div><q><b>碳酸氢钠说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46284980)<br>谢谢你让我成为了我<br>2017-02-18 00:09<br>赞(0) 踩(0) | <div><q><b>碳酸氢钠说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4195148)<br>热爱生活的普通人<br>2017-02-18 11:14<br>赞(0) 踩(0) | <div><q><b>＊蕾说：</b></q></div> |
@@ -353,7 +353,7 @@ Chinese Football
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19812281)<br>扰乱 就是 扰乱<br>2016-07-28 09:57<br>赞(0) 踩(0) | <div>我又来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10129138)<br>怀念校园生活<br>2016-07-05 23:54<br>赞(2) 踩(0) | <div>2012年梅园小操场，毕业摇滚音乐节，被惊艳到了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9239134)<br>妖气凛然<br>2016-06-30 15:17<br>赞(0) 踩(0) | <div>#国足复制冰岛奇迹</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305651)<br>攒钱买碟的路遥遥无期<br>2016-06-29 22:23<br>赞(0) 踩(0) | <div>自从国足去巡演之后，我好久没看到国足暖场了。。。。好怀念。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305651)<br>攒钱买碟的路遥遥无期<br>2016-06-29 22:23<br>赞(0) 踩(0) | <div>自从国足去巡演之后，我好久没看到国足暖场了。。。。<br>好怀念。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119896142)<br> <br>2016-06-28 10:54<br>赞(0) 踩(0) | <div>[带墨镜笑][带墨镜笑][带墨镜笑]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44726124)<br>我还没想好要写什么...<br>2016-06-23 19:45<br>赞(0) 踩(0) | <div>这名字起得好 <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16845958)<br>我还没想好要写什么...<br>2016-06-22 17:21<br>赞(0) 踩(0) | <div>都好听</div> |
@@ -383,7 +383,7 @@ Chinese Football
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39436088)<br>Still singin...<br>2016-04-11 23:38<br>赞(0) 踩(0) | <div>我也是！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27490798)<br>我还没想好要写什么...<br>2016-03-12 18:22<br>赞(1) 踩(0) | <div>晚上见！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9985059)<br>一个随便听歌的人<br>2016-03-10 17:25<br>赞(1) 踩(0) | <div>最爱的武汉本土乐队！！也是第一个关注的！！每次vox就找你们啊啊啊 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4957902)<br> <br>2016-03-06 11:49<br>赞(3) 踩(0) | <div>公告栏的巡演消息该更新啦~~《不是人人都能穿十号球衣》Chinese Football全国巡演郑州站【时间】：2016年3月11日(周五) 21:00【地点】：文化路和金水路交叉口东北角中州索克影城内二楼7LIVEHOUSE【嘉宾】：重返袖珍时光乐队【票价】：50元(预售)/60元(现场)【秀动网购票链接】：<a href="http://www.showstart.com/event/8628" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/8628</a>【淘宝网购票链接】：<a href="https://item.taobao.com/item.htm?id=527267258485" target="_blank" rel="nofollow noreferrer noopener">https://item.taobao.com/item.htm?id=527267258485</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4957902)<br> <br>2016-03-06 11:49<br>赞(3) 踩(0) | <div>公告栏的巡演消息该更新啦~~<br><br>《不是人人都能穿十号球衣》Chinese Football全国巡演郑州站<br><br>【时间】：2016年3月11日(周五) 21:00<br>【地点】：文化路和金水路交叉口东北角中州索克影城内二楼7LIVEHOUSE<br>【嘉宾】：重返袖珍时光乐队<br>【票价】：50元(预售)/60元(现场)<br>【秀动网购票链接】：<a href="http://www.showstart.com/event/8628" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/8628</a><br>【淘宝网购票链接】：<a href="https://item.taobao.com/item.htm?id=527267258485" target="_blank" rel="nofollow noreferrer noopener">https://item.taobao.com/item.htm?id=527267258485</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/463055)<br>dadada<br>2016-03-03 13:24<br>赞(0) 踩(0) | <div>3.11郑州站去不了啊。有没有朋友帮带张专辑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3292312)<br><br>2016-02-29 19:03<br>赞(0) 踩(0) | <div>什么时候能来天津演一场</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/792060)<br>我还没想好要写什么...<br>2016-02-29 00:48<br>赞(0) 踩(0) | <div>警长，警长，求同款毛巾淘宝链接！</div> |
@@ -412,7 +412,7 @@ Chinese Football
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7645492)<br>CREEPY_DOLL<br>2016-01-09 00:53<br>赞(1) 踩(0) | <div>写材料写的昏天黑地还是提前溜了去看现场。现场挺棒的。王老师真是和蔼可亲啊： ）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46284980)<br>谢谢你让我成为了我<br>2016-01-08 23:21<br>赞(0) 踩(0) | <div>终于如愿看到你们了，晚安！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50872379)<br>=<br>2016-01-08 23:01<br>赞(0) 踩(0) | <div>四百米真棒 今天成都小酒馆  可惜大家都不是很嗨</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6975678)<br>生命如此短暂我比烟花灿烂<br>2016-01-05 18:16<br>赞(0) 踩(0) | <div>nooooooooooooo.....................1月8号没法回成都......听不成了............</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6975678)<br>生命如此短暂我比烟花灿烂<br>2016-01-05 18:16<br>赞(0) 踩(0) | <div>nooooooooooooo................<br>.....1月8号没法回成都......听不成了......<br>......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8128176)<br>好好活着<br>2016-01-03 22:57<br>赞(0) 踩(0) | <div>这是武汉的乐队吗？不错耶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51957189)<br>我还没想好要写什么...<br>2016-01-02 01:37<br>赞(0) 踩(0) | <div>棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14288675)<br><br>2016-01-01 01:20<br>赞(0) 踩(0) | <div>不错呀</div> |
@@ -438,7 +438,7 @@ Chinese Football
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6975678)<br>生命如此短暂我比烟花灿烂<br>2015-12-09 14:02<br>赞(0) 踩(0) | <div>#小雨音乐茶座#有幸听到CF为euphoria武汉LIVE做的暖场，感觉还不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6975678)<br>生命如此短暂我比烟花灿烂<br>2015-12-09 14:02<br>赞(0) 踩(0) | <div>#小雨音乐茶座#有幸听到CF为euphoria武汉LIVE做的暖场，感觉还不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7645492)<br>CREEPY_DOLL<br>2015-12-04 21:37<br>赞(0) 踩(0) | <div>……我想知道演出票哪里买</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3140238)<br><br>2015-12-06 18:32<br>赞(0) 踩(0) | <div><a href="http://www.showstart.com/event/list?keyword=chinese+football" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/list?keyword=chinese+football</a>所有场次在这里</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3140238)<br><br>2015-12-06 18:32<br>赞(0) 踩(0) | <div><a href="http://www.showstart.com/event/list?keyword=chinese+football" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/list?keyword=chinese+football</a><br>所有场次在这里</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7645492)<br>CREEPY_DOLL<br>2015-12-07 01:38<br>赞(0) 踩(0) | <div><q><b>李半仙说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15510454)<br>日常生活让人挺胸抬头不盯...<br>2015-12-04 12:59<br>赞(0) 踩(0) | <div>终于有个像样的国产乐队了…挺住</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11122507)<br><br>2015-12-03 13:39<br>赞(0) 踩(0) | <div>争议的名字，意外的脱俗而不复杂的后朋？数学？有一点点像刺猬，质量要更高，最后，这么多年了，头回能发自内心地说，国足牛逼 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -463,7 +463,7 @@ Chinese Football
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19812281)<br>扰乱 就是 扰乱<br>2015-11-12 19:10<br>赞(0) 踩(0) | <div>和life was all silence一起诶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39436088)<br>Still singin...<br>2015-11-12 01:48<br>赞(2) 踩(0) | <div>终于能有一天喊出 中国足球牛逼了！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51996767)<br>情歌2021.01.05...<br>2015-11-12 00:26<br>赞(0) 踩(0) | <div>速速来成都。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19812281)<br>扰乱 就是 扰乱<br>2015-11-10 22:43<br>赞(0) 踩(0) | <div>快上传盒子！！！快！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19812281)<br>扰乱 就是 扰乱<br>2015-11-10 22:43<br>赞(0) 踩(0) | <div>快上传盒子！！！<br><br>快！！！！！！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2413010)<br><br>2015-11-12 10:11<br>赞(0) 踩(0) | <div>应该是下张专辑的歌吧 哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19812281)<br>扰乱 就是 扰乱<br>2015-11-12 11:23<br>赞(0) 踩(0) | <div><q><b>A Hidden Trace说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26070224)<br>你不要吃我，我唱好听的歌...<br>2015-11-01 22:30<br>赞(0) 踩(0) | <div>西安不来玩玩吗</div> |
@@ -502,7 +502,7 @@ Chinese Football
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69588746)<br> <br>2015-09-27 12:12<br>赞(2) 踩(0) | <div>昨晚简直了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5724405)<br>冲出亚洲 走向世界<br>2015-09-30 11:07<br>赞(0) 踩(0) | <div>谢谢你们来！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19812281)<br>扰乱 就是 扰乱<br>2015-09-26 20:14<br>赞(1) 踩(0) | <div>今晚</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345248)<br><br>2015-09-26 23:52<br>赞(0) 踩(0) | <div>扰乱壕来武汉了呀(´ﾟДﾟ`)可惜没能去</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345248)<br><br>2015-09-26 23:52<br>赞(0) 踩(0) | <div>扰乱壕来武汉了呀(´ﾟДﾟ`)<br>可惜没能去</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19812281)<br>扰乱 就是 扰乱<br>2015-09-27 01:31<br>赞(0) 踩(0) | <div><q><b>v,gsO4eCab6W说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10857955)<br>- -<br>2015-09-24 22:09<br>赞(0) 踩(0) | <div>来重庆撒，那么近</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27490798)<br>我还没想好要写什么...<br>2015-09-25 14:54<br>赞(0) 踩(0) | <div>好像是要去的 明年一月份</div> |
@@ -576,7 +576,7 @@ Chinese Football
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12249848)<br>motherfucker<br>2015-06-05 03:24<br>赞(0) 踩(0) | <div>东方芝加哥！欢迎入住！特此前来支持收藏</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6614012)<br>bitterhoney <br>2015-06-01 21:52<br>赞(0) 踩(0) | <div>♥️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32405529)<br>我还没想好要写什么...<br>2015-05-31 23:16<br>赞(0) 踩(0) | <div>奔走相告！！！！！！！！！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2288372)<br>我还没想好要写什么...<br>2015-05-31 19:16<br>赞(0) 踩(0) | <div>期待全长一直关注录音进程守门员已经循环好久了数学味儿好评= =</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2288372)<br>我还没想好要写什么...<br>2015-05-31 19:16<br>赞(0) 踩(0) | <div>期待全长一直关注录音进程<br>守门员已经循环好久了<br>数学味儿好评= =</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47042559)<br> <br>2015-05-29 19:06<br>赞(0) 踩(0) | <div>好喜欢这中复古调！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189002)<br>贫困科幻<br>2015-05-29 09:23<br>赞(3) 踩(0) | <div>武汉之光</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31749205)<br><br>2015-05-29 01:47<br>赞(0) 踩(0) | <div>******</div> |
@@ -612,7 +612,7 @@ Chinese Football
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192155499)<br><br>2016-12-15 15:08<br>赞(0) 踩(0) | <div>哈哈哈还</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/752707)<br>Hola<br>2013-11-29 04:38<br>赞(0) 踩(0) | <div>妈的 我铁脚国足的歌呢！！？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8871043)<br>╭(·▽·)╯<br>2013-10-22 21:58<br>赞(0) 踩(0) | <div>國足!!!yeah!!! \(^o^)/~   \(^o^)/~   \(^o^)/~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7799720)<br>ー５０５ー<br>2013-09-16 21:58<br>赞(0) 踩(0) | <div>电子化先锋自赏实验后情绪独立节制派硬核朋克氛围摇滚乐队十分高大上。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7799720)<br>ー５０５ー<br>2013-09-16 21:58<br>赞(0) 踩(0) | <div>电子化先锋自赏实验后情绪独立节制派硬核朋克氛围摇滚乐队<br>十分高大上。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/691267)<br>DialterM<br>2013-05-01 20:34<br>赞(0) 踩(0) | <div>国足夺得世界杯wwww</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2950878)<br>知音如你(﹏<br>2012-12-04 13:58<br>赞(56) 踩(0) | <div>一瞅这名字我就进来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3668448)<br><br>2012-11-28 13:40<br>赞(0) 踩(0) | <div>是他们的吗？Chinese Football - 飞鱼转身 <a href="http://t.cn/zl8965b" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/zl8965b</a></div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/89939fd2ed6dc7bda39598303379a586.jpg)<br>安来宁](https://i.xiami.com/anlaining) | **播放数**: 25646133<br>**粉丝数**: 6185<br>**评论数**: 152<br>**地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/89939fd2ed6dc7bda39598303379a586.jpg)<br>安来宁](https://i.xiami.com/anlaining) | **地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk<br>**播放数**: 25646133<br>**粉丝数**: 6185<br>**评论数**: 152<br> |
 
 ## 档案
 
@@ -26,8 +26,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352035790)<br>万物<br>2020-11-11 00:51<br>赞(0) 踩(0) | <div>去哪了？在忙什么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3664585)<br> <br>2019-10-27 22:20<br>赞(0) 踩(0) | <div>偶然听到这个版本，还能这样唱，唱得这么优雅这么伤。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288158203)<br><br>2019-08-02 22:10<br>赞(0) 踩(0) | <div>我怎么19年才知道17年那场赔钱的演出</div> |

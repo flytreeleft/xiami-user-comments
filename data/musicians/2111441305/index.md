@@ -3,7 +3,7 @@ Uncee
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d43a2de25eb7195c3fe46b2813fc3359.jpg)<br>Uncee](https://i.xiami.com/unco) | **播放数**: 2711347<br>**粉丝数**: 40<br>**评论数**: 1<br>**地区**: China 中国大陆<br>**风格**: 老派说唱 Old-school Hip Hop, 嘻哈 Hip-Hop, 爵士说唱 Jazz Rap, 西岸说唱 West Coast Hip Hop, 地下说唱 Underground Hip Hop<br> |
+| [![](../../images/musicians/d43a2de25eb7195c3fe46b2813fc3359.jpg)<br>Uncee](https://i.xiami.com/unco) | **地区**: China 中国大陆<br>**风格**: 老派说唱 Old-school Hip Hop, 嘻哈 Hip-Hop, 爵士说唱 Jazz Rap, 西岸说唱 West Coast Hip Hop, 地下说唱 Underground Hip Hop<br>**播放数**: 2711347<br>**粉丝数**: 40<br>**评论数**: 1<br> |
 
 ## 档案
 
@@ -24,6 +24,6 @@ Uncee
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406042592)<br>我还没想好要写什么...<br>2018-10-14 14:08<br>赞(0) 踩(0) | <div>好听 里昂</div> |

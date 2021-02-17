@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a5713fe2ec3e6c02bcb5836e5e719f74.jpg)<br>许佩佩](https://i.xiami.com/xupeipei) | **播放数**: 1606278<br>**粉丝数**: 473<br>**评论数**: 36<br>**地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/a5713fe2ec3e6c02bcb5836e5e719f74.jpg)<br>许佩佩](https://i.xiami.com/xupeipei) | **地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk<br>**播放数**: 1606278<br>**粉丝数**: 473<br>**评论数**: 36<br> |
 
 ## 档案
 
@@ -28,19 +28,19 @@ Email： anniesea@foxmail.com
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-08-20 22:58<br>赞(0) 踩(0) | <div>华语原创独立民谣魅力女声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-08-20 22:45<br>赞(0) 踩(0) | <div>国产独立民谣，20200820.35</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1810762)<br>一片閑雲<br>2020-04-24 21:51<br>赞(0) 踩(0) | <div>綿綿細雨的聲音，動人！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2373618)<br>幸福是一朵巨大的云<br>2019-07-10 13:44<br>赞(0) 踩(0) | <div>7-9月，河岸艺术平台发起了“河岸回声”咖啡馆巡演计划。将在上海的咖啡馆做20场的巡回演出。参与的音乐人有：莫染、北戈、江生、铭钰、荷马先生、周勇、佩佩、囚牛乐队、一纯、铭钰、白羽等。第一场7月20日。具体详情：<a href="https://www.douban.com/event/32524300/" target="_blank" rel="nofollow noreferrer noopener">https://www.douban.com/event/32524300/</a>请加许佩佩微博咨询。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2373618)<br>幸福是一朵巨大的云<br>2019-07-10 13:44<br>赞(0) 踩(0) | <div>7-9月，河岸艺术平台发起了“河岸回声”咖啡馆巡演计划。将在上海的咖啡馆做20场的巡回演出。参与的音乐人有：莫染、北戈、江生、铭钰、荷马先生、周勇、佩佩、囚牛乐队、一纯、铭钰、白羽等。<br>第一场7月20日。<br>具体详情：<a href="https://www.douban.com/event/32524300/" target="_blank" rel="nofollow noreferrer noopener">https://www.douban.com/event/32524300/</a><br>请加许佩佩微博咨询。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1499382)<br> <br>2019-04-30 02:08<br>赞(4) 踩(0) | <div>这才是民谣啊，听着舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374246817)<br>有时间就来听歌。<br>2019-04-28 14:35<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4487129)<br><br>2019-03-15 11:27<br>赞(1) 踩(0) | <div>！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264936265)<br>在寂寞中死去，在人世里生...<br>2019-02-26 00:05<br>赞(3) 踩(0) | <div>你的歌声是美丽的艺术，是听的见，感触的到的艺术。让我这个艺术的盲人，也能感觉的到艺术是如此美丽动听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5851253)<br>前路亦是故乡<br>2018-11-07 17:39<br>赞(1) 踩(0) | <div>网上竟然搜不到你的现场视频!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364989013)<br><br>2018-08-05 19:04<br>赞(2) 踩(0) | <div>突然听到你的歌，也突然喜欢上了；特别是陌生的城和浪子。那种惆怅，那种感情。每个人喜欢的不一样，感觉这样的歌很少人听到太可惜了。不管怎样，支持你！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100356)<br>牀畔戲寶未合襯 紅裙再花...<br>2018-03-13 15:55<br>赞(0) 踩(0) | <div>彳亍於珠海情侶路中看遍世情風景淡白初見衝動交通燈太鮮紅藍到凍失心瘋而你我迷戀於自己嘅色盲中凍糕好好食但係唔及你暗湧好久不見你好嗎</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100356)<br>牀畔戲寶未合襯 紅裙再花...<br>2018-03-13 15:55<br>赞(0) 踩(0) | <div>彳亍於珠海情侶路中<br>看遍世情風景淡白初見衝動<br>交通燈太鮮紅藍到凍失心瘋<br>而你我迷戀於自己嘅色盲中<br>凍糕好好食但係唔及你暗湧<br>好久不見<br>你好嗎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344112787)<br><br>2018-02-11 06:53<br>赞(0) 踩(0) | <div>每首歌都是故事，每首歌都是画！喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9024420)<br>music<br>2017-08-28 20:49<br>赞(1) 踩(0) | <div>好听好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282508363)<br><br>2017-06-13 18:49<br>赞(1) 踩(0) | <div>难得让我感动的女声，希望你能有更好的作品</div> |

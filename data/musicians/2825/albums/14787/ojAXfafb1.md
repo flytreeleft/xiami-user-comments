@@ -62,8 +62,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404936389)<br><br>2021-01-04 11:41<br>赞(0) 踩(0) | <div>高中时候喜欢的歌，还有喜欢的他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327815143)<br>留不住的青春年华，请慢点...<br>2020-07-24 09:04<br>赞(2) 踩(0) | <div>好经典的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41903133)<br><br>2020-07-21 00:12<br>赞(0) 踩(0) | <div>这专辑我第二爱的歌，怀旧的曲风</div> |
@@ -82,7 +82,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320661143)<br>天意如刀<br>2019-12-21 01:30<br>赞(0) 踩(0) | <div><q><b>CZ说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/729044)<br><br>2020-12-19 23:00<br>赞(0) 踩(0) | <div><q><b>刘骄阳55说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289500368)<br>爱好歌<br>2019-10-22 20:34<br>赞(0) 踩(0) | <div>没有人留言了，高中就好喜欢他们，怎么就没声音了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283153780)<br><br>2019-09-18 14:27<br>赞(0) 踩(0) | <div>JSforever</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283153780)<br><br>2019-09-18 14:27<br>赞(0) 踩(0) | <div>JS<br><br>forever</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275704967)<br><br>2019-07-28 20:59<br>赞(2) 踩(0) | <div>一直觉得这个组合没大红，真的可惜…</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363936865)<br><br>2020-07-16 20:45<br>赞(0) 踩(0) | <div>仙剑一的时候红过一阵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422919007)<br><br>2019-07-06 22:24<br>赞(3) 踩(0) | <div>陈忠义提到这首歌曲创作于2002年的中秋节。因为他和妹妹都是外婆带大，而外婆的生日恰逢中秋，因此这首歌曲是写给他们外婆的。创作的时候，看着窗外的月亮，想起外婆曾讲述的点滴过往，就完成了这首曲子的创作</div> |
@@ -126,7 +126,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296637058)<br>90后的我们虽然是陌生人...<br>2018-01-13 01:44<br>赞(1) 踩(0) | <div>你们都是大哥哥大姐姐了我是90后的我也觉得这首歌很好听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244525239)<br> <br>2018-01-10 23:08<br>赞(0) 踩(0) | <div>Where &amp;lsquo;s armo</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1970130)<br> <br>2018-01-06 17:38<br>赞(0) 踩(0) | <div>上海春考 18.01.06 今天的印迹与当年是否一样？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/392999)<br>我还没想好要写什么...<br>2017-12-18 12:49<br>赞(1) 踩(0) | <div>黄昏~音乐伴随我回家 [Music accompanied me to go home]<a href="http://www.xiami.com/song/showcollect/id/708268" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/showcollect/id/708268</a>  by sleep^piano最开始接触虾米只是自己躲起来听歌，这是自己第一张参与其中的求助。当时就很感叹求助的博大精深，以及每个人对集子的不同理解。。。每个人用心思考，谨慎选歌的样子也迷人呢~最近最常说的话是感恩，这上天给予我们的缘分。。。“不要忘记天空的颜色。无论多么忙，家乡的记忆还是那么深刻。——这对兄妹档当年真的陪伴了我度过了那段年轻的学习时代。”  by 鱼肉小笼包</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/392999)<br>我还没想好要写什么...<br>2017-12-18 12:49<br>赞(1) 踩(0) | <div>黄昏~音乐伴随我回家 [Music accompanied me to go home]<br><a href="http://www.xiami.com/song/showcollect/id/708268" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/showcollect/id/708268</a>  by sleep^piano<br><br>最开始接触虾米只是自己躲起来听歌，这是自己第一张参与其中的求助。<br>当时就很感叹求助的博大精深，以及每个人对集子的不同理解。。。每个人用心思考，谨慎选歌的样子也迷人呢~<br><br>最近最常说的话是感恩，这上天给予我们的缘分。。。<br><br>“不要忘记天空的颜色。<br>无论多么忙，家乡的记忆还是那么深刻。<br>——这对兄妹档当年真的陪伴了我度过了那段年轻的学习时代。”  by 鱼肉小笼包</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/130534790)<br><br>2017-12-09 11:34<br>赞(2) 踩(0) | <div>喜欢它的歌词，人间的遭遇有它的规则</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207178012)<br>可爱的猪蹄<br>2017-12-03 11:40<br>赞(1) 踩(0) | <div>小时候的歌谣永远的依靠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247491340)<br>蚂蚁听歌<br>2017-12-03 10:17<br>赞(0) 踩(0) | <div>蓝色</div> |
@@ -142,8 +142,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314931412)<br><br>2017-09-19 19:32<br>赞(2) 踩(0) | <div>高中的校园上空回荡着熟悉的旋律。那时候虽然苦，虽然累，但是却有你在身边。那时候的我，有一个温暖的他，还有爱我的奶奶，真的是温暖的日子。十年了，现在只剩下这首歌陪伴我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294302180)<br>相信有相遇，就免不了离合...<br>2017-09-09 06:19<br>赞(1) 踩(0) | <div>有一天，当世界都变了，别忘记天空原来的颜色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18568554)<br><br>2017-09-06 08:17<br>赞(0) 踩(0) | <div>回忆！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313584152)<br><br>2017-09-05 12:54<br>赞(3) 踩(0) | <div>纪念高中时见光死的爱情。记得分手时你打电话唱了这首歌给我，当时我以为所有的一切都结束了。谁曾想后来发现这世界不过才刚刚开始，而就在今天我再次觉得这一切都结束了，真正的结束了。当时不屑于说出口的话到今日却无论如何也不能再说了。或许我应该试着变得世俗一点吧，谁知道呢。好想再听你唱一遍这首歌，就像当初的你，飘在天空上的云朵。祝你新婚快乐。谢谢你给我的美好回忆。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313584152)<br><br>2017-09-05 12:33<br>赞(0) 踩(0) | <div>纪念高中时见光死的爱情。记得分手时你打电话唱了这首歌给我，当时我以为所有的一切都结束了。谁曾想后来发现这世界不过才刚刚开始，而就在今天我再次觉得这一切都结束了，真正结束了。当时觉得不屑于说出口的话如今却无论如何不能说出口，才明白一生不过眨眼间，或许我应该再世俗一点，谁知道呢。好想听你再唱一遍这首歌。祝你新婚快乐。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313584152)<br><br>2017-09-05 12:54<br>赞(3) 踩(0) | <div>纪念高中时见光死的爱情。记得分手时你打电话唱了这首歌给我，当时我以为所有的一切都结束了。谁曾想后来发现这世界不过才刚刚开始，而就在今天我再次觉得这一切都结束了，真正的结束了。当时不屑于说出口的话到今日却无论如何也不能再说了。或许我应该试着变得世俗一点吧，谁知道呢。好想再听你唱一遍这首歌，就像当初的你，飘在天空上的云朵。<br>祝你新婚快乐。<br>谢谢你给我的美好回忆。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313584152)<br><br>2017-09-05 12:33<br>赞(0) 踩(0) | <div>纪念高中时见光死的爱情。记得分手时你打电话唱了这首歌给我，当时我以为所有的一切都结束了。谁曾想后来发现这世界不过才刚刚开始，而就在今天我再次觉得这一切都结束了，真正结束了。当时觉得不屑于说出口的话如今却无论如何不能说出口，才明白一生不过眨眼间，或许我应该再世俗一点，谁知道呢。好想听你再唱一遍这首歌。<br>祝你新婚快乐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30009141)<br>HOLA<br>2017-09-04 20:11<br>赞(0) 踩(0) | <div>初二时借同学碟听的一张砖，很喜欢这样的调调。现在听到秒回到小时候，哼着歌骑着车和小伙伴放学回家的欢乐时光。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252139628)<br>你是我失去得到欲望失宠<br>2017-09-04 11:47<br>赞(0) 踩(0) | <div>青春啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263179235)<br>山水有相逢。<br>2017-08-28 21:18<br>赞(1) 踩(0) | <div>初一听的，超级喜欢，现在已经要上大学了。除了长高变重我还干了什么</div> |
@@ -187,7 +187,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224457333)<br><br>2017-03-02 06:25<br>赞(0) 踩(0) | <div>不要忘记了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120630250)<br><br>2017-02-25 19:14<br>赞(1) 踩(0) | <div>从来都没忘过天空的颜色。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273919230)<br><br>2017-02-16 19:46<br>赞(2) 踩(0) | <div>一年前听的歌，很好听，总是会边听边想象。我是巨蟹座，很念旧，听的时候总是会哭，曾经的样子，曾经的朋友，曾经的一切，不复存在。。。希望大家能珍惜现在，以后可能一切都没了，话说我是来教大家人生哲理的么？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2017-02-01 21:07<br>赞(2) 踩(0) | <div>好听喜欢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2017-02-01 21:07<br>赞(2) 踩(0) | <div>好听<br>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9003931)<br>千淘万漉虽辛苦<br>2017-01-29 23:14<br>赞(0) 踩(0) | <div>孩子不要忘记了，人间的遭遇有它的规则。有一天当世界都变了，别忘记天空原来的颜色！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92054550)<br><br>2017-01-23 18:11<br>赞(0) 踩(0) | <div>编曲是阿远啊！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88286602)<br>从此再无美好<br>2017-01-21 11:43<br>赞(0) 踩(0) | <div>飞向札幌的班机好听</div> |
@@ -217,7 +217,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33462577)<br><br>2016-08-21 00:24<br>赞(0) 踩(0) | <div>#每日一推#。高中时代很喜欢的一首歌。感觉那些年好歌倍出。前几日翻出了曾经的mp3。好想知道最后我都在里面存了些什么歌曲。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52810220)<br>变得更好。<br>2016-08-18 00:13<br>赞(0) 踩(0) | <div>以前用来当过手机彩铃。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190383361)<br><br>2016-08-01 00:15<br>赞(0) 踩(0) | <div>167</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11421609)<br><br>2016-07-25 23:45<br>赞(0) 踩(0) | <div>孩子不要忘记了人间的遭遇有它的规则有一天当世界都变了别忘记天空原来的颜色</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11421609)<br><br>2016-07-25 23:45<br>赞(0) 踩(0) | <div>孩子不要忘记了<br>人间的遭遇有它的规则<br>有一天当世界都变了<br>别忘记天空原来的颜色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203640592)<br>爱要试探几个回合才可以，...<br>2016-07-21 23:35<br>赞(2) 踩(0) | <div>有一天当世界都变了，别忘记天空原来的颜色。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27396468)<br><br>2016-06-23 21:55<br>赞(1) 踩(0) | <div>很有感觉的说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190086984)<br>Gee Gee Gee ...<br>2016-06-15 00:39<br>赞(1) 踩(0) | <div>孩子不要忘记了/人间的遭遇有它的规则/有一天当世界都变了/别忘记天空原来的颜色</div> |
@@ -254,7 +254,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39879516)<br>小王子说 爱一定开在某个...<br>2015-08-03 01:20<br>赞(68) 踩(0) | <div>初中的时候很喜欢的一首歌 突然翻出来听 一转眼过了这么多年</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294886467)<br>我还没想好要写什么...<br>2017-10-23 15:30<br>赞(0) 踩(0) | <div>我来算一算，从今日起，对你来说也，可能已经过了15年了？也许12年 反正很久了 <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39879516)<br>小王子说 爱一定开在某个...<br>2017-10-23 22:44<br>赞(0) 踩(0) | <div><q><b>高桥凉介丶Fc说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8601290)<br>远在远方的风，比远方更远<br>2015-07-24 11:04<br>赞(1) 踩(0) | <div>孩子不要忘记了人间的遭遇有它的规则有一天当世界都变了别忘记天空原来的颜色</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8601290)<br>远在远方的风，比远方更远<br>2015-07-24 11:04<br>赞(1) 踩(0) | <div>孩子不要忘记了<br>人间的遭遇有它的规则<br>有一天当世界都变了<br>别忘记天空原来的颜色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2775596)<br>只做一件事情<br>2015-05-16 08:29<br>赞(1) 踩(0) | <div>外婆，童年，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2063939)<br> <br>2015-04-15 00:50<br>赞(0) 踩(0) | <div>Old school</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21595549)<br><br>2014-08-23 17:21<br>赞(0) 踩(0) | <div>好听</div> |
@@ -273,7 +273,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3339267)<br><br>2013-08-18 12:18<br>赞(0) 踩(0) | <div>别忘记天空原来的颜色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6160395)<br><br>2013-07-19 17:49<br>赞(0) 踩(0) | <div>充满了回忆与力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4823351)<br>愿得一人心，白首不相离<br>2013-07-16 20:56<br>赞(1) 踩(0) | <div>有一天当世界都变了，别忘了天空原来的颜色，有一天时间磨练了我们，还请找回原来的自己，成长的印记不是只有痛苦一个印章，请把这个放在最后，能不盖上就不要盖，别遗忘了快乐、洒脱、放松……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16524998)<br><br>2013-06-28 23:22<br>赞(0) 踩(0) | <div>孩子不要忘记了人间的遭遇有它的规则有一天当世界都变了别忘记天空原来的颜色</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16524998)<br><br>2013-06-28 23:22<br>赞(0) 踩(0) | <div>孩子不要忘记了<br>人间的遭遇有它的规则<br>有一天当世界都变了<br>别忘记天空原来的颜色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3860006)<br><br>2013-06-06 22:44<br>赞(0) 踩(0) | <div>突然就想要聽這首老歌~晚安~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9613835)<br><br>2013-06-03 23:48<br>赞(0) 踩(0) | <div>当杀破狼满大街放的时候 无意中听到这首 非常特别</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2121316)<br>一方一净土 一笑一尘缘<br>2013-05-30 16:35<br>赞(0) 踩(0) | <div>这歌为毛不红</div> |
@@ -350,13 +350,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6518588)<br>年輕人，不要那麼愛生氣、...<br>2011-10-30 22:21<br>赞(0) 踩(0) | <div>如果聲音不記得，那是不是青春和我們捕影捉風。那些生命中溫暖而美好的事情，我們一起懷念。@AShu- 給你一首老老的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1495255)<br>时间是炸弹<br>2011-09-18 22:59<br>赞(0) 踩(0) | <div>我唯一超级喜欢的华语女歌手，后来多了一位超女，那就是霄云啦^^ 我记得我当时听这首歌是在网吧，我加的第一个网友他叫天蓝海蓝 ，一直记得==</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5640303)<br><br>2011-08-30 21:55<br>赞(0) 踩(0) | <div>在豆瓣电台听到这首歌，才发觉自己很久没有听过JS。某个寒冷而低落的冬天，是JS陪我撑过的，轻狂年少，冷暖自知，即使有一天什么都已改变，即使未来茫茫不可知，仍庆幸有一首熟悉的歌还在唱着</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5186695)<br> <br>2011-08-22 12:12<br>赞(0) 踩(0) | <div>孩子不要忘记了人间的遭遇有它的规则有一天当世界都变了别忘记天空原来的颜色</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5186695)<br> <br>2011-08-22 12:12<br>赞(0) 踩(0) | <div>孩子不要忘记了<br>人间的遭遇有它的规则<br>有一天当世界都变了<br>别忘记天空原来的颜色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2953242)<br><br>2011-08-07 21:22<br>赞(0) 踩(0) | <div>很温馨</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1839274)<br><br>2011-08-06 13:34<br>赞(0) 踩(0) | <div>有一天当世界都变了别忘记天空原来的原色</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5017515)<br><br>2011-07-26 01:56<br>赞(0) 踩(0) | <div>疏离的城市和轻狂的年少苦的甜的只有自己知道淳朴的风格，郎朗上口的节奏，舒缓的歌词。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1839274)<br><br>2011-08-06 13:34<br>赞(0) 踩(0) | <div>有一天当世界都变了<br>别忘记天空原来的原色</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5017515)<br><br>2011-07-26 01:56<br>赞(0) 踩(0) | <div>疏离的城市<br>和轻狂的年少<br>苦的甜的只有自己知道<br><br>淳朴的风格，郎朗上口的节奏，舒缓的歌词。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3789317)<br><br>2011-07-23 15:15<br>赞(0) 踩(0) | <div>有一天当世界都变了，别忘记天空原来的颜色。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3594626)<br><br>2011-07-22 22:54<br>赞(0) 踩(0) | <div>什么时候都别忘了自己最初在的位置</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/837135)<br><br>2011-07-03 21:45<br>赞(0) 踩(0) | <div>人生的遭遇有他的规则，就像修路一样，你现在修的是怎么样路，你下一步就会走什么样的路。 如果修的是歪路，那自己早晚会摔跤 不是吗？ 在做一些不好的决定的时候 不妨想想自己最初的初衷。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/837135)<br><br>2011-07-03 21:45<br>赞(0) 踩(0) | <div>人生的遭遇有他的规则<br>，就像修路一样，你现在修的是怎么样路，你下一步就会走什么样的路。 如果修的是歪路，那自己早晚会摔跤 不是吗？ 在做一些不好的决定的时候 不妨想想自己最初的初衷。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/837135)<br><br>2011-07-03 21:33<br>赞(0) 踩(0) | <div>人生的遭遇有他的规则</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55245)<br><br>2011-06-28 21:29<br>赞(0) 踩(0) | <div>想当年啊想当年~ 多久没听这歌了.. 有点想家了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4155216)<br><br>2011-06-10 12:37<br>赞(0) 踩(0) | <div>聽呢首歌,總覺得一種純真的感覺~~</div> |
@@ -368,7 +368,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3514352)<br><br>2011-04-07 21:51<br>赞(0) 踩(0) | <div>很喜欢的曲风~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2801999)<br>经常失踪的酱油瓶<br>2011-04-06 23:16<br>赞(0) 踩(0) | <div>孩子 不要忘记了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2996338)<br><br>2011-04-06 23:09<br>赞(0) 踩(0) | <div>很简单的道理，很美好的旋律</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1973697)<br><br>2011-04-05 20:19<br>赞(0) 踩(0) | <div>疏离的城市和轻狂的年少苦的甜的只有自己知道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1973697)<br><br>2011-04-05 20:19<br>赞(0) 踩(0) | <div>疏离的城市<br>和轻狂的年少<br>苦的甜的只有自己知道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2884252)<br><br>2011-03-29 13:00<br>赞(0) 踩(0) | <div>不论身在何方，请记得，抬头看看，那一方天空的颜色。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2928257)<br><br>2011-03-27 11:10<br>赞(0) 踩(0) | <div>别忘了天空原来的颜色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2737939)<br><br>2011-03-26 03:38<br>赞(0) 踩(0) | <div>喜欢</div> |
@@ -381,11 +381,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/695325)<br>我还没想好要写什么...<br>2010-10-16 20:03<br>赞(0) 踩(0) | <div>天空的颜色~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/992184)<br>(╯‵□′)╯︵┻━┻<br>2010-09-20 22:53<br>赞(0) 踩(0) | <div>喜欢好多年了的说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1301242)<br>音乐是无敌解药<br>2010-08-30 11:44<br>赞(0) 踩(0) | <div>JS怀念外婆的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1301242)<br>音乐是无敌解药<br>2010-08-30 08:44<br>赞(0) 踩(0) | <div>蒲公英吹散了像雪随风飘那属于夏天的记号</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1301242)<br>音乐是无敌解药<br>2010-08-30 08:44<br>赞(0) 踩(0) | <div>蒲公英吹散了像雪随风飘<br>那属于夏天的记号</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410809)<br><br>2010-08-09 00:10<br>赞(0) 踩(0) | <div>唱出来的画面，一幅幅的在脑海里的浮现，由静至动，像一部温暖的小电影，很喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/949192)<br><br>2010-06-01 12:14<br>赞(0) 踩(0) | <div>天空原来的颜色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338562)<br><br>2010-05-10 17:36<br>赞(0) 踩(0) | <div>多忧伤呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/480095)<br><br>2010-04-07 00:00<br>赞(0) 踩(0) | <div>一直很喜欢的一首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/392999)<br>我还没想好要写什么...<br>2009-12-30 22:11<br>赞(0) 踩(0) | <div>不要忘记天空的颜色。无论多么忙，家乡的记忆还是那么深刻。——这对兄妹档当年真的陪伴了我度过了那段年轻的学习时代。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317004)<br>2019十年生死两茫茫,...<br>2009-08-13 15:45<br>赞(0) 踩(0) | <div>有一天当世界都变了别忘记天空原来的颜色</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/392999)<br>我还没想好要写什么...<br>2009-12-30 22:11<br>赞(0) 踩(0) | <div>不要忘记天空的颜色。<br>无论多么忙，家乡的记忆还是那么深刻。<br>——这对兄妹档当年真的陪伴了我度过了那段年轻的学习时代。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317004)<br>2019十年生死两茫茫,...<br>2009-08-13 15:45<br>赞(0) 踩(0) | <div>有一天当世界都变了<br>别忘记天空原来的颜色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/831)<br>我还没想好要写什么...<br>2009-01-19 17:08<br>赞(0) 踩(0) | <div>一遍一遍，无力的时候就听你</div> |

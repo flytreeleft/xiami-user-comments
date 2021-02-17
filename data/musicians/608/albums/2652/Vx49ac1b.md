@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86709612)<br>nujabes <br>2019-08-29 01:44<br>赞(0) 踩(0) | <div>喵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8630958)<br>偶尔觉得，这个世界，人，...<br>2019-04-29 17:54<br>赞(0) 踩(0) | <div>真好听……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410465056)<br><br>2018-12-20 00:20<br>赞(2) 踩(0) | <div>2315</div> |
@@ -42,6 +39,6 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6294818)<br><br>2012-11-12 15:21<br>赞(0) 踩(0) | <div>太好听了~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744116)<br><br>2012-05-09 18:36<br>赞(0) 踩(0) | <div>好想回家。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2748906)<br><br>2011-07-04 09:57<br>赞(1) 踩(0) | <div>这是一首给人有恋爱感觉的曲子……我要是那只小猫，会和它一样感到幸福。从此你的世界有我，我的世界有你。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2090976)<br>自己才是唯一可靠的人<br>2010-12-26 11:18<br>赞(7) 踩(0) | <div>3.新家（音乐：钢琴与女声的和谐配合，仿如人与猫的对话。）自此，我和她把你看作孩子。在我们的家，你成为主角。我弹琴，你跳上来，调皮地弹奏一段。不成章的曲子，却分外地生动。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2090976)<br>自己才是唯一可靠的人<br>2010-12-26 11:18<br>赞(7) 踩(0) | <div>3.新家<br>（音乐：钢琴与女声的和谐配合，仿如人与猫的对话。）<br>自此，我和她把你看作孩子。在我们的家，你成为主角。我弹琴，你跳上来，调皮地弹奏一段。不成章的曲子，却分外地生动。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/536692)<br>回家是八首歌的距离<br>2010-08-28 19:00<br>赞(1) 踩(0) | <div>这曲子好感人……我要是那只小猫，会和它一样感到幸福。从此你的世界有我，我的世界有你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/487705)<br>我还没想好要写什么...<br>2009-11-29 23:43<br>赞(0) 踩(0) | <div>有你的世界，就有家</div> |

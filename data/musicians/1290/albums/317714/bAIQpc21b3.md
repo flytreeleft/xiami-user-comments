@@ -62,8 +62,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59441254)<br>恍惚中前行<br>2019-08-06 23:55<br>赞(0) 踩(0) | <div>这个收录在哪个册子上的吧，高中时听过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6765500)<br>做一个有趣的人窦唯微信群...<br>2019-07-16 18:59<br>赞(0) 踩(0) | <div>为什么都没有注明编曲？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352346361)<br><br>2019-07-10 18:54<br>赞(0) 踩(0) | <div>同为左氏家族之人，听着听着，就想来老左这听他嘶吼一下阿丝玛刺激一下耳膜 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -112,7 +112,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1359886)<br><br>2011-09-11 20:07<br>赞(0) 踩(0) | <div>别说台湾的小孩儿了，我听我也哭啊。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112972)<br><br>2011-11-08 14:14<br>赞(0) 踩(0) | <div>哈哈哈，我要是小孩我也哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5389973)<br><br>2011-09-06 00:54<br>赞(1) 踩(0) | <div>叨逼叨</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4953072)<br><br>2011-08-31 16:59<br>赞(0) 踩(0) | <div>一个人在家。被左小这首阿丝玛震撼到的。一定不能小声听。嘶吼。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4953072)<br><br>2011-08-31 16:59<br>赞(0) 踩(0) | <div>一个人在家。被左小这首阿丝玛震撼到的。<br><br>一定不能小声听。<br><br>嘶吼。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1652507)<br><br>2011-06-23 19:40<br>赞(5) 踩(0) | <div>1997年开始听祖咒，一直很喜欢。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43434265)<br>朝霞舔着快乐梦，美好的一...<br>2015-09-23 23:23<br>赞(0) 踩(0) | <div>97年左小还没出专辑呢</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124058)<br> <br>2016-08-09 06:44<br>赞(0) 踩(0) | <div><q><b>十一月的雨说：</b></q></div> |

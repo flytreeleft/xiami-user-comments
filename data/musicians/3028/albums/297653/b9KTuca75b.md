@@ -44,8 +44,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4777436)<br><br>2017-10-27 23:05<br>赞(1) 踩(0) | <div>这么重口味的嗓子，配上有点小清新的曲调，好吧，我承认我喜欢。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44087773)<br><br>2017-02-05 22:48<br>赞(1) 踩(0) | <div>明天启程前往宁波舟山。生活就这样，循环往复，我早已意识到生命根本不是那么一回事。那生活到底是怎么一回事？饱尝生活之艰辛，站在人们的对立面，我离经叛道，不再遵守世俗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15792786)<br>越来越像自己<br>2016-11-09 19:03<br>赞(0) 踩(0) | <div>呦 它也回来了</div> |
@@ -56,7 +56,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/470831)<br>不稀罕灯火，不搭理黑暗。<br>2016-04-20 18:39<br>赞(0) 踩(0) | <div>当你闭上了眼睛，风暴来自你的心。当你转身想离去，去路多宽广。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5796550)<br><br>2016-04-20 07:22<br>赞(0) 踩(0) | <div>情之所至，夜不能歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/895669)<br>愿你，这一生有被讨厌的勇...<br>2016-02-10 22:12<br>赞(0) 踩(0) | <div>也许你永远也叫不醒一个装睡的人，对，是真睡也好、装睡也罢。我会顺流而下，把梦做完。亲爱的，好梦！ <img src="../../../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32821149)<br>我庄严宣誓我不干好事<br>2015-12-20 09:19<br>赞(1) 踩(0) | <div>走在路上 放声歌唱 顺流而下 把梦做完。周末睡的好开心 哈哈哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32821149)<br>我庄严宣誓我不干好事<br>2015-12-20 09:19<br>赞(1) 踩(0) | <div>走在路上 放声歌唱 顺流而下 把梦做完。<br>周末睡的好开心 哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41622367)<br> <br>2015-11-15 22:22<br>赞(0) 踩(0) | <div>何必太棒了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48162474)<br><br>2015-11-07 15:13<br>赞(0) 踩(0) | <div>走在路上，放声歌唱。//顺流而下，把梦做完。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66834366)<br>Be nice!<br>2015-11-05 21:40<br>赞(0) 踩(0) | <div>走在路上，放声歌唱，顺流而下，把梦做完...</div> |
@@ -83,7 +83,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13208734)<br><br>2014-04-28 01:44<br>赞(0) 踩(0) | <div>当你闭上了眼睛，风暴来自你的心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2308985)<br><br>2014-04-11 15:02<br>赞(0) 踩(0) | <div>当你闭上了眼睛 风暴来自你的心。。。哈。。。为这句</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11924321)<br><br>2014-04-11 14:54<br>赞(0) 踩(0) | <div>吉他，鼓点，那些你不知道的地下乐队，用他们的声音寻找梦想</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2101124)<br><br>2014-03-16 20:05<br>赞(0) 踩(0) | <div>走在路上，放声歌唱。顺流而下，把梦做完。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2101124)<br><br>2014-03-16 20:05<br>赞(0) 踩(0) | <div>走在路上，放声歌唱。<br>顺流而下，把梦做完。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8129868)<br><br>2014-02-16 11:12<br>赞(0) 踩(0) | <div>发现一首好歌！先单曲循环一个礼拜先</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9036408)<br><br>2013-12-28 23:49<br>赞(0) 踩(0) | <div>好嗨森好亢奋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25965434)<br>疲惫生活里的英雄梦想<br>2013-11-17 00:19<br>赞(0) 踩(0) | <div>当你闭上了眼睛   风暴来自你的心</div> |
@@ -95,7 +95,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/462866)<br> <br>2013-08-31 09:55<br>赞(0) 踩(0) | <div>走在路上 放声歌唱  顺流而下 把梦做完</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91796)<br><br>2013-08-28 10:58<br>赞(0) 踩(0) | <div>顺流而下，把梦做完。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16096227)<br><br>2013-08-12 23:27<br>赞(0) 踩(0) | <div>似乎每年到了八月，日子就变得不可控起来，像是忽然成了随波逐流的叶子，看不见河流本身。所以今天洗澡的时候给自己放了这首歌：还是得顺流而下，把梦做完。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6256818)<br> <br>2013-07-13 13:00<br>赞(0) 踩(0) | <div>一颗野草在生长偶尔提醒你走在路上 放声歌唱顺流而下 把梦做完</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6256818)<br> <br>2013-07-13 13:00<br>赞(0) 踩(0) | <div>一颗野草在生长<br>偶尔提醒你<br>走在路上 放声歌唱<br>顺流而下 把梦做完</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13324261)<br>幸福，就是做自己喜欢的事<br>2013-07-08 17:24<br>赞(0) 踩(0) | <div>走在路上 放声歌唱  顺流而下  把梦做完</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10644269)<br>hi<br>2013-06-23 19:24<br>赞(0) 踩(0) | <div>想你 你知道的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11086001)<br>我还没想好要写什么...<br>2013-06-14 22:51<br>赞(0) 踩(0) | <div>当你闭上了眼睛，风暴来自你的心。</div> |
@@ -107,7 +107,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11086001)<br>我还没想好要写什么...<br>2013-04-14 20:22<br>赞(0) 踩(0) | <div>当你闭上了眼睛，风暴来自你的心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1263586)<br><br>2013-03-23 23:46<br>赞(0) 踩(0) | <div>声音碎片乐队已一步步成为了近年来的最佳中文乐队，这张在一定程度上已经超越了摇滚乐，甚至超越了诗歌。音乐上，比以往更大气与好听，一贯的好歌词在这次更达到了一个新的境地，更为贴近内心，甚至有了一些能让人潸然泪下的桥段。应该讲这是近年来最好的一张中文摇滚乐专辑。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6442498)<br><br>2013-03-08 14:57<br>赞(0) 踩(0) | <div>顺流而下，把梦做完</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-01-18 06:24<br>赞(0) 踩(0) | <div>一颗野草在生长偶尔提醒你走在路上 放声歌唱顺流而下 把梦做完</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-01-18 06:24<br>赞(0) 踩(0) | <div>一颗野草在生长<br>偶尔提醒你<br>走在路上 放声歌唱<br>顺流而下 把梦做完</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6024169)<br><br>2013-01-17 16:10<br>赞(0) 踩(0) | <div>某道理。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106721)<br><br>2012-12-13 22:25<br>赞(0) 踩(0) | <div>美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5648198)<br><br>2012-11-17 12:23<br>赞(0) 踩(0) | <div>喜欢摇滚是受了一个不太熟悉的朋友的影响。前段时间一直在听痛仰、低苦艾、反光镜、万能青年旅店，最近特别特别喜欢声音碎片。</div> |
@@ -126,7 +126,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6664870)<br>二分之一的爱<br>2011-12-08 21:15<br>赞(0) 踩(0) | <div>声音碎片的歌蛮好听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2502074)<br><br>2011-11-22 17:21<br>赞(0) 踩(0) | <div>治愈系~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5146003)<br><br>2011-11-21 15:52<br>赞(0) 踩(0) | <div>曲子和声音一起很喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321914)<br>元元の<br>2011-10-27 11:12<br>赞(0) 踩(0) | <div>某段记忆的优美让你保持了微笑走在路上 放声歌唱顺流而下 把梦做完</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321914)<br>元元の<br>2011-10-27 11:12<br>赞(0) 踩(0) | <div>某段记忆的优美<br><br>让你保持了微笑<br><br>走在路上 放声歌唱<br><br>顺流而下 把梦做完</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5978446)<br><br>2011-09-25 21:37<br>赞(0) 踩(0) | <div>走在路上/ 放声歌唱/ 顺流而下 / 把梦做完  --</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5978446)<br><br>2011-09-25 21:35<br>赞(0) 踩(0) | <div>走在路上/ 放声歌唱/ 顺流而下 / 把梦做完  --</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2947526)<br><br>2011-02-24 10:33<br>赞(0) 踩(0) | <div>还没真的顺过水推过舟</div> |

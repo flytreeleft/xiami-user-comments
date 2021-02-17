@@ -79,8 +79,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14831919)<br>曾梦想仗剑走天涯<br>2020-07-18 20:44<br>赞(0) 踩(0) | <div>喜欢杭盖唱的这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46866841)<br>暂无签名~<br>2020-07-14 20:51<br>赞(0) 踩(0) | <div>憨 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308740528)<br><br>2020-05-06 20:50<br>赞(0) 踩(0) | <div>聽得懂嗎？不！好感動！想分享，但不知道能夠和誰分享, 就現在...</div> |
@@ -131,7 +131,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245258226)<br><br>2016-11-12 22:20<br>赞(1) 踩(0) | <div>那么闞，那么闞 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56200964)<br><br>2016-11-10 20:42<br>赞(2) 踩(0) | <div>乌兰巴托的夜 ～那么寒，那么寒～ 还有人，还有人～打野战，打野战～那么汗，那么寒～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241425801)<br> <br>2016-11-10 00:55<br>赞(1) 踩(0) | <div>听个歌你们好多事儿 <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205959010)<br><br>2016-10-24 18:55<br>赞(3) 踩(0) | <div>我用沉默告诉你我喝醉了酒有一个地方很远很远那里有一生的思念乌兰巴托的夜那么黑那么黑听歌的人不许掉眼泪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205959010)<br><br>2016-10-24 18:55<br>赞(3) 踩(0) | <div>我用沉默告诉你<br>我喝醉了酒<br>有一个地方很远很远<br>那里有一生的思念<br>乌兰巴托的夜<br>那么黑<br>那么黑<br>听歌的人不许掉眼泪</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192934180)<br><br>2016-12-03 13:35<br>赞(0) 踩(0) | <div>那木韩是安静的意思。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205959010)<br><br>2016-10-24 18:43<br>赞(1) 踩(0) | <div>乌兰巴托的夜  那么黑  那么黑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5713007)<br><br>2016-10-23 09:06<br>赞(0) 踩(0) | <div>一个地方 不只是家乡人的 也是外乡人的</div> |
@@ -229,13 +229,13 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98586868)<br><br>2016-04-12 13:03<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92947268)<br> <br>2016-01-01 00:46<br>赞(1) 踩(0) | <div>真真是停不下来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246511)<br> <br>2015-12-30 06:17<br>赞(1) 踩(0) | <div>表面是湖 心里是瀑布</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36647927)<br>让我们面对现实，让我们忠<br>2015-12-20 19:57<br>赞(0) 踩(0) | <div>幽会相见的年轻人好悠然暖春的清明爱在温暖着夜晚靠着彼此的肩膀享受着无边的幸福乌兰巴托的夜那么静 那么静</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36647927)<br>让我们面对现实，让我们忠<br>2015-12-20 19:57<br>赞(0) 踩(0) | <div>幽会相见的年轻人好悠然<br>暖春的清明<br>爱在温暖着夜晚<br>靠着彼此的肩膀<br>享受着无边的幸福<br>乌兰巴托的夜<br>那么静 那么静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44619624)<br> <br>2015-12-17 22:20<br>赞(0) 踩(0) | <div>也不知道不懂欣赏的人来凑什么热闹？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7468627)<br><br>2015-12-14 09:33<br>赞(0) 踩(0) | <div>要是战车和杭盖合作一下.....太奇妙了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42499519)<br> <br>2015-12-11 22:41<br>赞(0) 踩(0) | <div>back to you <img src="../../../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45084886)<br>只身打马过草原<br>2015-12-10 14:47<br>赞(0) 踩(0) | <div>好听，如同夜色里有直泻而下的阳光。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49545394)<br> <br>2015-12-03 12:53<br>赞(1) 踩(0) | <div>音乐无国界</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35355962)<br><br>2015-11-20 15:34<br>赞(0) 踩(0) | <div>游荡着愉悦的旋律,乌兰巴托的夜,那么静, 那么静,迎来的未来那么美~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35355962)<br><br>2015-11-20 15:34<br>赞(0) 踩(0) | <div>游荡着愉悦的旋律,<br>乌兰巴托的夜,<br>那么静, 那么静,<br>迎来的未来那么美~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48806440)<br>Was it a cat...<br>2015-11-16 01:35<br>赞(327) 踩(0) | <div>热评居然被一个啥都不懂的小屁孩占据着，不好好欣赏音乐，却凡事上纲上线，真特么丢人。ps：杭盖的歌真心好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43681958)<br><br>2015-11-15 23:14<br>赞(1) 踩(0) | <div>晚安 远方的你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50201772)<br><br>2015-11-15 13:49<br>赞(0) 踩(0) | <div>谢天笑也有唱过，感觉谢更有味道</div> |
@@ -322,7 +322,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23392201)<br> <br>2015-06-22 11:22<br>赞(1) 踩(0) | <div>准确的说乌兰巴托在外蒙。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3963204)<br><br>2015-06-20 08:46<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46386005)<br><br>2015-06-16 22:28<br>赞(0) 踩(0) | <div>民族的就是世界的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49004198)<br>我在等,等风来，等一个不...<br>2015-06-15 11:45<br>赞(1) 踩(0) | <div>那木汗，那木汗。听歌的人不许掉眼泪。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49004198)<br>我在等,等风来，等一个不...<br>2015-06-15 11:45<br>赞(1) 踩(0) | <div>那木汗，那木汗。<br>听歌的人不许掉眼泪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25674441)<br><br>2015-06-11 23:26<br>赞(0) 踩(0) | <div>颇感，想起小时候，，，，嗯，想你！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50579864)<br><br>2015-06-05 13:14<br>赞(2) 踩(0) | <div>还是我们蒙古歌好听啊！从小就听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32191441)<br>豆瓣音乐人小站：<br>2015-06-03 21:41<br>赞(1) 踩(0) | <div>不要温和地走入那个良夜</div> |
@@ -356,7 +356,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35780172)<br><br>2015-04-16 22:32<br>赞(0) 踩(0) | <div>歌声温柔又辽阔，心都被熨烫平整了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36704397)<br><br>2015-04-16 19:42<br>赞(0) 踩(0) | <div>geg</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47993514)<br><br>2015-04-15 00:31<br>赞(0) 踩(0) | <div>还是更爱这版蒙语，额尔古纳乐队的汉语词太糙了，没有马头琴会少味道。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7392642)<br><br>2015-04-14 01:14<br>赞(1) 踩(0) | <div>那么多乌兰巴托之夜的版本最喜欢的是他的。这声音一听就爱上了，好磁性的男声。穿越旷野的风啊慢些走我用沉默告诉你我醉了酒飘向远方的云啊慢些走我用奔跑告诉你我不回头中文翻译的歌词也好喜欢。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7392642)<br><br>2015-04-14 01:14<br>赞(1) 踩(0) | <div>那么多乌兰巴托之夜的版本最喜欢的是他的。这声音一听就爱上了，好磁性的男声。穿越旷野的风啊<br>慢些走<br>我用沉默告诉你<br>我醉了酒<br>飘向远方的云啊<br>慢些走<br>我用奔跑告诉你<br>我不回头<br>中文翻译的歌词也好喜欢。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2915698)<br><br>2015-04-14 22:49<br>赞(0) 踩(0) | <div>这不是中文翻译，是左小和贾导填词的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8856315)<br> <br>2015-04-12 11:27<br>赞(0) 踩(0) | <div>任何一个版本都没这个版本好听…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39632732)<br>让所有的理想成灰，让所有...<br>2015-04-10 00:53<br>赞(0) 踩(0) | <div>Ulaanbaatariin udesh namuuhan, namuuhan.晚安.</div> |
@@ -415,7 +415,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6388621)<br><br>2017-09-30 09:39<br>赞(0) 踩(0) | <div>傻 0000   逼一个！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11816025)<br>暂无签名~<br>2015-04-04 10:20<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13940632)<br>发心为利他，求正等菩提。<br>2015-04-03 01:34<br>赞(2) 踩(0) | <div>这座城关于雨滴的记忆很少，它像沙漠里多肉植物叶片中包含的甘露。北方的春天，干燥常常会让人夜半醒来。闭着眼伸手没有摸到床头柜上的水杯。随手打开手机上的音乐，依旧是这首单曲循环的歌。温水润了嗓，听完，再入梦。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47217231)<br>山河大川<br>2015-04-02 23:06<br>赞(1) 踩(0) | <div>杭盖没用呼麦 没有歇斯底里 他们沉静地唱了乌兰巴托那么我也沉静地跟着它心醉吧我是歌手帮唱时 腔调像极了U2里的add 那木哈那木哈晚安 杭盖的乌兰巴托</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47217231)<br>山河大川<br>2015-04-02 23:06<br>赞(1) 踩(0) | <div>杭盖没用呼麦 没有歇斯底里 他们沉静地唱了乌兰巴托<br>那么我也沉静地跟着它心醉吧<br>我是歌手帮唱时 腔调像极了U2里的add 那木哈那木哈<br>晚安 杭盖的乌兰巴托</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47217231)<br>山河大川<br>2015-04-02 23:00<br>赞(0) 踩(0) | <div>那木哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45535194)<br><br>2015-03-31 08:20<br>赞(0) 踩(0) | <div>♬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37750272)<br> <br>2015-03-30 20:20<br>赞(0) 踩(0) | <div>相信美好。</div> |
@@ -426,7 +426,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7966519)<br><br>2015-03-27 22:14<br>赞(0) 踩(0) | <div>Ulaanbaatariin Udesh</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7966519)<br><br>2015-03-27 22:07<br>赞(0) 踩(0) | <div>Ulaanbaatariin Udesh</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9598095)<br><br>2015-03-27 12:57<br>赞(0) 踩(0) | <div>歌词是具有市井情怀，比较安逸且浪漫的。谭维维那个填的词意思略重了些。谭维维的改编曲子是个不错的歌，但是跟这个歌除了Yalalta唱的部分以外好像没什么关系了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11508091)<br>若你喜欢怪人，其实我很美...<br>2015-03-25 23:12<br>赞(32) 踩(0) | <div>纵使听不懂歌词，但是音乐可以传递情感。莫名戳中泪点的感觉。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11508091)<br>若你喜欢怪人，其实我很美...<br>2015-03-25 23:12<br>赞(32) 踩(0) | <div>纵使听不懂歌词，但是音乐可以传递情感。<br>莫名戳中泪点的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36605968)<br>暂无签名~<br>2015-03-25 22:39<br>赞(1) 踩(0) | <div>乌兰巴托之夜-杭盖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48488025)<br><br>2015-03-25 18:32<br>赞(1) 踩(0) | <div>喜欢杭盖这首歌的朋友我爱你们。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9111923)<br>不稳定的人<br>2015-03-25 14:39<br>赞(0) 踩(0) | <div>歌词发音貌似与歌里不太一样？</div> |
@@ -491,12 +491,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7579757)<br> <br>2015-03-22 11:12<br>赞(0) 踩(0) | <div>这版最棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47668407)<br>Sain sargan ...<br>2015-03-22 11:10<br>赞(0) 踩(0) | <div>有生之年让我去一次ulaanbaatar吧，蒙古人的首都，却永远变不成我的家乡。halha加油。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23407775)<br>生活本不易 且行且珍惜<br>2015-03-22 09:59<br>赞(0) 踩(0) | <div>虽然说音乐超脱一切政治，但是你们这帮文青真的要去搜搜蒙古有多么严重的令人发指的反华</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24613123)<br> <br>2015-03-22 10:22<br>赞(0) 踩(0) | <div>你真是无聊听君这一席话，中国有那么多屈辱史和外敌以后你若是听一首外文的歌或者看一部外文电影我都会感到羞愧。何况中国人内斗也从未停过，你可得好好研究哪个省市出来的艺人的歌你是不能听的。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24613123)<br> <br>2015-03-22 10:22<br>赞(0) 踩(0) | <div>你真是无聊<br>听君这一席话，中国有那么多屈辱史和外敌以后你若是听一首外文的歌或者看一部外文电影我都会感到羞愧。何况中国人内斗也从未停过，你可得好好研究哪个省市出来的艺人的歌你是不能听的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6639889)<br><br>2015-03-22 14:57<br>赞(0) 踩(0) | <div><q><b>我拔萝卜说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40719530)<br>我喜欢红楼梦伍尔夫陈奕迅...<br>2015-03-22 20:46<br>赞(0) 踩(0) | <div>你真菜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9425653)<br>才发现自己好宅啊！<br>2015-03-22 09:59<br>赞(0) 踩(0) | <div>谭唱的版本为了比赛要作编排，但歌曲动人的是原唱的灵魂和谭的情感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46173485)<br><br>2015-03-22 09:44<br>赞(0) 踩(0) | <div>听不懂,但很舒服！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2774453)<br>暂无签名~<br>2015-03-22 09:14<br>赞(1) 踩(0) | <div>谭在现场演唱的时候，那个男声一出来的时候，就知道一定要听原唱了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2774453)<br>暂无签名~<br>2015-03-22 09:14<br>赞(1) 踩(0) | <div>谭在现场演唱的时候，<br><br>那个男声一出来的时候，<br><br>就知道一定要听原唱了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36300102)<br><br>2015-03-23 16:03<br>赞(0) 踩(0) | <div>对</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3785356)<br>暂无签名~<br>2015-03-22 08:09<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48377304)<br><br>2015-03-22 06:33<br>赞(0) 踩(0) | <div>乌兰巴托之夜，那么静，那么静</div> |
@@ -543,7 +543,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4011538)<br><br>2015-02-02 00:03<br>赞(0) 踩(0) | <div>今天才知道杭盖，相比于其他猛烈彪悍的曲风，更喜欢翻唱的这首。联想到塞罕坝的深秋，草原不只是绿色。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46605276)<br><br>2015-01-29 01:08<br>赞(0) 踩(0) | <div>听不懂 但是 很动人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1294365)<br><br>2015-01-27 17:59<br>赞(0) 踩(0) | <div>无言以对，听吧.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40661946)<br>越魔鬼越美丽<br>2015-01-27 07:08<br>赞(0) 踩(0) | <div>乌兰巴托的夜晚好宁静幽会的恋人好浪漫</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40661946)<br>越魔鬼越美丽<br>2015-01-27 07:08<br>赞(0) 踩(0) | <div>乌兰巴托的夜晚好宁静<br><br>幽会的恋人好浪漫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38547107)<br>“非”流行乐<br>2015-01-25 23:12<br>赞(0) 踩(0) | <div>歌词棒棒的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17036200)<br><br>2015-01-20 23:42<br>赞(1) 踩(0) | <div>哇塞。。这首歌听的心都要化了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11105477)<br>我欠自己一场睡眠。<br>2015-01-20 19:17<br>赞(0) 踩(0) | <div>忘了这是听的第几个版本了，听歌的人不许掉眼泪。</div> |
@@ -565,15 +565,15 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4335676)<br><br>2014-10-03 23:53<br>赞(0) 踩(0) | <div>乌兰巴托的吴带喜，那么哈（傻），那么哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15247560)<br><br>2014-09-10 05:45<br>赞(1) 踩(0) | <div>就是想找个没有中文的乌兰巴托之夜，真是难死了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47167844)<br><br>2015-02-24 06:22<br>赞(0) 踩(0) | <div>江湖乐队唱的 中文 特好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-09 00:39<br>赞(0) 踩(0) | <div>Ijil hosiin orgoo gereesItgel bayariin aylguu dursanaUlaanbaatariin udesh namuuhanUgtah ireeduin daanch yaruuhanUlaanbaatariin udesh namuuhanUgtah ireeduin daanch yaruuhan</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-09 00:39<br>赞(0) 踩(0) | <div>Hairaa ilchilsin dulaan oroiHaluun moroo tushiltsen nalaadHanashgui tsengel amsan suuhadUlaanbaatariin udesh namuuhanUchraliin bolzoond zaluus yaruuhanUlaanbaatariin udesh namuuhanUchraliin bolzoond zaluus yaruuhanOhi tengeriin odod urjeedOron bariin gerel tsatsraad</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-09 00:38<br>赞(0) 踩(0) | <div>拉丁字母拼写：Ulaanbaatariin UdeshEerem taliin sevelzuur salhiEtsej yadraad amarsan yumuuAmrag hosiin yariag sonsohoorAmisgaa daran chagnasan ch yum uuUlaanbaatariin udesh namuuhanUcharsan hoyriin yaria eyduuhenUlaanbaatariin udesh namuuhanUcharsan hoyriin yaria eyduuhen</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-09 00:39<br>赞(0) 踩(0) | <div>Ijil hosiin orgoo gerees<br>Itgel bayariin aylguu dursana<br>Ulaanbaatariin udesh namuuhan<br>Ugtah ireeduin daanch yaruuhan<br>Ulaanbaatariin udesh namuuhan<br>Ugtah ireeduin daanch yaruuhan</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-09 00:39<br>赞(0) 踩(0) | <div>Hairaa ilchilsin dulaan oroi<br>Haluun moroo tushiltsen nalaad<br>Hanashgui tsengel amsan suuhad<br>Ulaanbaatariin udesh namuuhan<br>Uchraliin bolzoond zaluus yaruuhan<br>Ulaanbaatariin udesh namuuhan<br>Uchraliin bolzoond zaluus yaruuhan<br>Ohi tengeriin odod urjeed<br>Oron bariin gerel tsatsraad</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-09 00:38<br>赞(0) 踩(0) | <div>拉丁字母拼写：<br>Ulaanbaatariin Udesh<br><br>Eerem taliin sevelzuur salhi<br>Etsej yadraad amarsan yumuu<br>Amrag hosiin yariag sonsohoor<br>Amisgaa daran chagnasan ch yum uu<br>Ulaanbaatariin udesh namuuhan<br>Ucharsan hoyriin yaria eyduuhen<br>Ulaanbaatariin udesh namuuhan<br>Ucharsan hoyriin yaria eyduuhen</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-08 23:26<br>赞(0) 踩(0) | <div>这个好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19849)<br><br>2014-08-28 12:28<br>赞(0) 踩(0) | <div>一个字，美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2733113)<br>暂无签名~<br>2014-07-08 23:40<br>赞(0) 踩(0) | <div>不管什么版本的乌兰巴托之夜总是那么好听~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/477682)<br>月光宝盒带俺中风带俺废~<br>2014-07-05 01:49<br>赞(0) 踩(0) | <div>嗯 =~=</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/491507)<br>她是个文盲<br>2014-06-15 19:54<br>赞(0) 踩(0) | <div>下雨的傍晚，听这首应景。北京巴特利西那木哈~那木哈~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5195606)<br><br>2014-06-08 18:00<br>赞(0) 踩(0) | <div>Ээрэм талын сэвэлзvvр салхиЭцэж ядраад амарсан ч юм ууАмраг хосын яриаг сонсохоорАмьсгаа даран чагнасан ч юм ууУлаанбаатарын vдэш намуухан намууханУчралын болзоонд залуус ярууханУлаанбаатарын vдэш намуухан намууханУчралын болзоонд залуус ярууханХанш нээсэн дeлгeeн харынХайраа илчилсэн ду</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5195606)<br><br>2014-06-08 18:00<br>赞(0) 踩(0) | <div>Ээрэм талын сэвэлзvvр салхи<br>Эцэж ядраад амарсан ч юм уу<br>Амраг хосын яриаг сонсохоор<br>Амьсгаа даран чагнасан ч юм уу<br><br>Улаанбаатарын vдэш намуухан намуухан<br>Учралын болзоонд залуус яруухан<br>Улаанбаатарын vдэш намуухан намуухан<br>Учралын болзоонд залуус яруухан<br><br>Ханш нээсэн дeлгeeн харын<br>Хайраа илчилсэн ду</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92486)<br><br>2014-06-04 23:56<br>赞(0) 踩(0) | <div>《乌兰巴托之夜》最好听的版本。其实我是把左小的版本排在第二的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9685881)<br><br>2015-01-19 01:15<br>赞(0) 踩(0) | <div>建议听额尔古纳乐队的额尔古纳专辑中的乌兰巴托之夜，也许你会喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35282195)<br>暂无签名~<br>2014-06-03 23:45<br>赞(0) 踩(0) | <div>更喜欢这版！</div> |

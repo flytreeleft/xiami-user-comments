@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6c777edf0e9af18156e8dba644859965.jpg)<br>陆小坤](https://i.xiami.com/luxiaokun) | **播放数**: 1235324<br>**粉丝数**: 16<br>**评论数**: 15<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/6c777edf0e9af18156e8dba644859965.jpg)<br>陆小坤](https://i.xiami.com/luxiaokun) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1235324<br>**粉丝数**: 16<br>**评论数**: 15<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -23,8 +20,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-05-30 10:36<br>赞(1) 踩(0) | <div>41475</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42724231)<br>暂无签名~<br>2014-10-19 20:55<br>赞(0) 踩(0) | <div>就两首没听过瘾</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42724231)<br>暂无签名~<br>2014-10-19 20:54<br>赞(0) 踩(0) | <div>嫣木果果还有新歌吗？</div> |

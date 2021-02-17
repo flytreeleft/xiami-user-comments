@@ -90,8 +90,8 @@ OP： Great Music Publishing Ltd.
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22369681)<br><br>2021-01-10 08:44<br>赞(0) 踩(0) | <div>神作</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299654286)<br><br>2020-10-17 02:16<br>赞(1) 踩(0) | <div>时间真的好快，初中高中真的很想很想到大学。现在大学了，却没有了当初的盼望。一下子快到二十了，第一次感觉到这种迷茫和害怕，连叫人叫姐姐也怕把人叫老了。好希望自己可以找到自己，在以后的以后也不会后悔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430923652)<br><br>2020-09-22 23:39<br>赞(4) 踩(0) | <div>三十出头的男人第一次听哭了。然后我把这首歌推荐给大学同学，结果两个男人听着这首歌喝着酒边哭边笑边听。</div> |
@@ -118,7 +118,7 @@ OP： Great Music Publishing Ltd.
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37917458)<br><br>2019-05-24 00:51<br>赞(0) 踩(0) | <div>666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410786663)<br>生活要充满仪式感。<br>2019-05-22 07:51<br>赞(2) 踩(0) | <div>面包会有的，五子也会有的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409870065)<br>人生……真的是能让你明白...<br>2019-05-15 03:30<br>赞(2) 踩(0) | <div>只能说只有到这个年纪才会明白词的意思，并不是每句话都入心，但是有些确实达到了共鸣，看评论说三十不是而立，只是让你怎么怎么样，但是当你到达这个年纪就会明白，你回首看时都变了，这里包括太多，爱情、亲情、事业，认知……包括你！说难听的，好听的，因人而异吧……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407456732)<br>执念。<br>2019-05-14 22:19<br>赞(2) 踩(0) | <div>你说我们的感情越来越好我怕我找不到足够的面包</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407456732)<br>执念。<br>2019-05-14 22:19<br>赞(2) 踩(0) | <div>你说我们的感情越来越好<br>我怕我找不到足够的面包</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52950223)<br>Shirley Neve...<br>2019-05-10 21:34<br>赞(3) 踩(0) | <div>这首歌描绘30岁男人失落的内心独白，失恋失业，充满无可奈何，没有太多的跌宕起伏，可格外写实，真实的永远是最难得的记忆。 “弱冠，而立，不惑” 用“慄”代替“立”让人感到的是内心颤栗的迷茫和恐惧，感谢作者的多愁善感释怀了这样一段故事，人生不如意事十之八九，“飞马”两个字可谓点题，天马行空，志存高远难落地，凌空不知何去向，功名不清，福祸无妄，虔诚难遂愿，前程不问，积善从微，管他阴晴圆缺，我辈如心向远。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16501310)<br>平凡的世界总会有人懂你。<br>2019-05-03 18:31<br>赞(1) 踩(0) | <div>26岁这个不尴不尬的年纪，刚和女朋友分手没多久，一直在想着复合，不是因为她有多么多么的漂亮，多么的善解人意，是她在我青黄不接的试用期陪我一起度过，我并没有给予她太多的承诺，只希望30岁能娶她，给她一个温暖的家，可是现在我在外地规培，因为一时冲动而说出分手，现在肠子都悔青了，想着复合又不能回去天天去守着她，只希望年底回来的时候我还能好好的追求你，亲爱的阿赟。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29240652)<br><br>2019-05-06 19:35<br>赞(0) 踩(0) | <div>想挽回就不要等，你不知道在你筹备着去找回她的这段时间，什么都不知道的她，心里有多绝望</div> |
@@ -141,8 +141,8 @@ OP： Great Music Publishing Ltd.
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1348566)<br>瞬间<br>2019-04-22 19:09<br>赞(1) 踩(0) | <div>以前从未考虑过数字，可是某一瞬间觉得自己不再是那个可以无忧无虑的女孩了，人生继续，变得世俗，走别人走过的路，以自己的方式而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193990978)<br><br>2019-04-21 21:25<br>赞(0) 踩(0) | <div>好久没有听音乐，郁可唯的音色仍美好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240569731)<br><br>2019-04-20 17:47<br>赞(0) 踩(0) | <div>吸气声 就 感情带不进去……感觉调有点高</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1396391)<br><br>2019-04-17 17:29<br>赞(0) 踩(0) | <div>怎么办....我完全没有这种感觉，每天都觉得自己是小仙女.....而且这首歌蛮难听的.....就是因为这个世界大势宣扬30的恐慌，导致大多数30的人各种迷茫三十而立不是结婚生子 不是事业有成 不是有钱有势是成为一个有独立思维能力的个体并能在这个风雨世界有承担着前进的勇气和对生活的信仰ps.这首歌真的不好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415724114)<br>愿下个冬天有人陪你踩雪，...<br>2019-04-16 08:20<br>赞(0) 踩(0) | <div>我比他小五岁，那年他刚好30。我对世界，未来迷茫的很，却总会说“不是三十而立么？”他总是苦笑，那时我并不懂。所有物质上我并不在乎，但他在乎。现在想来，也许“三十而栗”。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1396391)<br><br>2019-04-17 17:29<br>赞(0) 踩(0) | <div>怎么办....我完全没有这种感觉，每天都觉得自己是小仙女.....<br>而且这首歌蛮难听的.....<br>就是因为这个世界大势宣扬30的恐慌，导致大多数30的人各种迷茫<br>三十而立不是结婚生子 不是事业有成 不是有钱有势<br>是成为一个有独立思维能力的个体并能在这个风雨世界有承担着前进的勇气和对生活的信仰<br>ps.这首歌真的不好听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415724114)<br>愿下个冬天有人陪你踩雪，...<br>2019-04-16 08:20<br>赞(0) 踩(0) | <div>我比他小五岁，那年他刚好30。我对世界，未来迷茫的很，却总会说“不是三十而立么？”他总是苦笑，那时我并不懂。所有物质上我并不在乎，但他在乎。<br>现在想来，也许“三十而栗”。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306095098)<br><br>2019-04-15 23:51<br>赞(1) 踩(0) | <div>既立就不要憟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275543425)<br><br>2019-04-15 18:34<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43722361)<br>暂无签名~<br>2019-04-13 04:14<br>赞(0) 踩(0) | <div>特别喜欢的一句：年少轻狂像凌风飞马</div> |
@@ -150,7 +150,7 @@ OP： Great Music Publishing Ltd.
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9266421)<br>嘿嘿嘿嘿嘿嘿<br>2019-04-09 07:24<br>赞(1) 踩(0) | <div>华研的歌明显比滚石好太多，上一首还是失恋事小里的一首不知所云的歌，这一刻听到小三十真好～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8949621)<br> <br>2019-04-08 18:45<br>赞(0) 踩(0) | <div>结婚一定要有房，这种啃老算不算另一种娇生惯养？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269803118)<br><br>2019-04-08 03:45<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257220823)<br>好好<br>2019-04-07 15:25<br>赞(3) 踩(0) | <div>还有八年就三十越来越不清楚未来的路我要成为怎样的大人这个问题似乎一直在找寻答案学习和生活我似乎一直比较没心没肺吧希望后面的路有人陪我一起</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257220823)<br>好好<br>2019-04-07 15:25<br>赞(3) 踩(0) | <div>还有八年就三十<br>越来越不清楚未来的路<br>我要成为怎样的大人这个问题<br>似乎一直在找寻答案<br>学习和生活<br>我似乎一直比较没心没肺吧<br>希望后面的路有人陪我一起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342886094)<br>这家伙很聪明什么也没留下...<br>2019-04-07 00:20<br>赞(0) 踩(0) | <div>我离这年龄段还差十余年...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7527441)<br><br>2019-04-06 21:43<br>赞(0) 踩(0) | <div>郁式节奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303166772)<br>与我常在<br>2019-04-06 13:21<br>赞(1) 踩(0) | <div>社会的模式早就固定化，乃是一人所能打破。打破了自己，也打破不了环境，都不想变成悲剧，就都变成羊群中的羊。</div> |
@@ -177,10 +177,10 @@ OP： Great Music Publishing Ltd.
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4106665)<br>the world<br>2019-03-26 19:15<br>赞(0) 踩(0) | <div>打开收音机刚好放到这句“她走过三十越来越恐慌”，一下子被击中。特地搜来听听看。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21552511)<br><br>2019-03-26 18:36<br>赞(0) 踩(0) | <div>跟以前不屑的人那么像</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408482844)<br><br>2019-03-26 00:18<br>赞(0) 踩(0) | <div>我也觉得三十岁是个令我恐慌的数字！但人生就是由这些恐怖的数字组成的！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287415)<br><br>2019-03-24 14:47<br>赞(12) 踩(0) | <div>二十五岁后觉得时间过得太快，自己没反应过来一年就过去了，30就要走到自己眼前了。其实也没觉得对三十有什么恐惧之心。只是年龄越大被催婚就越恐怖。我一直觉得自己还像个不成熟的小青年。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">但我发现这两年照镜子会不自觉的去看自己脸上和脖子的小细纹。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287415)<br><br>2019-03-24 14:47<br>赞(12) 踩(0) | <div>二十五岁后觉得时间过得太快，自己没反应过来一年就过去了，30就要走到自己眼前了。其实也没觉得对三十有什么恐惧之心。<br>只是年龄越大被催婚就越恐怖。<br>我一直觉得自己还像个不成熟的小青年。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"><br>但我发现这两年照镜子会不自觉的去看自己脸上和脖子的小细纹。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347073061)<br><br>2019-03-23 22:18<br>赞(1) 踩(0) | <div>虾米真的是良心音乐app呀，太棒了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42283960)<br><br>2019-03-23 19:28<br>赞(1) 踩(0) | <div>最近爱上的新歌。虾米终于有了。希望以后虾米的新歌要跟上步伐啊……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9003931)<br>千淘万漉虽辛苦<br>2019-03-23 10:29<br>赞(2) 踩(0) | <div>立意不错，作词依然是熟悉的姚式优秀，旋律最爱的是那段啦啦啦啦。-给现在的自己和所有而立er们。要加油啊～ <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9003931)<br>千淘万漉虽辛苦<br>2019-03-23 10:29<br>赞(2) 踩(0) | <div>立意不错，作词依然是熟悉的姚式优秀，旋律最爱的是那段啦啦啦啦。<br>-给现在的自己和所有而立er们。<br>要加油啊～ <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2942310)<br><br>2019-03-22 16:59<br>赞(0) 踩(0) | <div>有点歌姬的感觉 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279214985)<br>谢谢，爱你，再见<br>2019-03-22 14:19<br>赞(0) 踩(0) | <div>就算30岁了，又能怎么样呢？每个人有自己的活法，何必活在别人的舆论里，生活是自己的，过自己喜欢的生活就好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123246788)<br>Music is my ...<br>2019-03-22 14:04<br>赞(2) 踩(0) | <div>1983.4.14</div> |
@@ -194,7 +194,7 @@ OP： Great Music Publishing Ltd.
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343821892)<br>我还没想好要写什么...<br>2019-04-04 09:27<br>赞(0) 踩(0) | <div>蓝色鼻血，生活所迫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46248498)<br><br>2019-03-18 09:57<br>赞(3) 踩(0) | <div>封面是克里星人？……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309950423)<br>轻轻<br>2019-03-17 20:31<br>赞(0) 踩(0) | <div>现实得让人感伤啊！一言难尽</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342605020)<br>xxx<br>2019-03-17 20:29<br>赞(1) 踩(0) | <div>秋天去上海，找工作。加油啊。生活是随机的，有些东西不是。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342605020)<br>xxx<br>2019-03-17 20:29<br>赞(1) 踩(0) | <div>秋天去上海，找工作。<br>加油啊。生活是随机的，有些东西不是。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242741422)<br>才，情，趣<br>2019-03-17 20:27<br>赞(0) 踩(0) | <div>哇！看到小洋的名字！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34410691)<br><br>2019-03-17 19:46<br>赞(0) 踩(0) | <div>这首歌彻底毁了我的好心情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256937179)<br><br>2019-03-17 13:08<br>赞(1) 踩(0) | <div>封面，好美</div> |
@@ -240,7 +240,7 @@ OP： Great Music Publishing Ltd.
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375583639)<br><br>2019-03-11 22:15<br>赞(1) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98372784)<br>我们从未不认识<br>2019-03-11 21:40<br>赞(0) 踩(0) | <div>太喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378613193)<br>金钟大棒棒哒<br>2019-03-11 21:25<br>赞(0) 踩(0) | <div>怎么才这么几条评论？完全不科学 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406700338)<br>心 是会生病的啊…<br>2019-03-11 21:21<br>赞(2) 踩(0) | <div>之前看过一个视频每个人都有他生命中该有的步调走好自己的路因为你不知道会有什么惊喜在前方三十岁吗……难道这个数字只能是一张等待批改的考卷吗？他也代表了无数记忆和岁月的积累啊！虽然自己还未到达这个年纪但期许那个时候的我能把这个数字变成更有意义的东西！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406700338)<br>心 是会生病的啊…<br>2019-03-11 21:21<br>赞(2) 踩(0) | <div>之前看过一个视频<br>每个人都有他生命中该有的步调<br>走好自己的路<br>因为你不知道会有什么惊喜在前方<br><br>三十岁吗……难道这个数字<br>只能是一张等待批改的考卷吗？<br>他也代表了无数记忆和岁月的积累啊！<br>虽然自己还未到达这个年纪<br>但期许那个时候的我<br>能把这个数字变成更有意义的东西！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74260054)<br>wanna know<br>2019-03-11 18:36<br>赞(1) 踩(0) | <div>两个饭团食量很大了诶</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10591077)<br>:-(<br>2019-03-11 20:01<br>赞(0) 踩(0) | <div>哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303079707)<br><br>2019-03-11 16:40<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -250,7 +250,7 @@ OP： Great Music Publishing Ltd.
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/688334)<br>暂无签名~<br>2019-03-11 10:19<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285904315)<br>爱会来的，在对的时候<br>2019-03-11 10:10<br>赞(2) 踩(0) | <div>还是很喜欢田馥甄和郁可唯的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/530753)<br>我还没想好要写什么...<br>2019-03-11 09:50<br>赞(0) 踩(0) | <div>你是克里人吗血是蓝色的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174510480)<br>愿此间山有木兮卿有意 昨...<br>2019-03-11 09:29<br>赞(46) 踩(0) | <div>无论二十岁，还是三十岁。无论是「三十而立」，还是「三十而慄」，都希望能在这首歌中领悟到活得更自由，更松弛的本领，当然，做不到也没有关系。有水的地方扎根，有光的地方长叶，你要相信其实也不是会太糟糕的。无论如何，适时停下来，抱抱那个惶恐的自己，你辛苦了。❤️</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174510480)<br>愿此间山有木兮卿有意 昨...<br>2019-03-11 09:29<br>赞(46) 踩(0) | <div>无论二十岁，还是三十岁。无论是「三十而立」，还是「三十而慄」，都希望能在这首歌中领悟到活得更自由，更松弛的本领，当然，做不到也没有关系。<br>有水的地方扎根，有光的地方长叶，你要相信其实也不是会太糟糕的。<br>无论如何，适时停下来，抱抱那个惶恐的自己，你辛苦了。❤️</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342962071)<br><br>2019-03-29 17:43<br>赞(0) 踩(0) | <div>抱抱那个惶恐的自己， 谢谢</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174510480)<br>愿此间山有木兮卿有意 昨...<br>2019-03-29 17:43<br>赞(0) 踩(0) | <div><q><b>。Blue fly school说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245672600)<br>我还没想好要写什么...<br>2019-03-11 08:50<br>赞(3) 踩(0) | <div>最直击内心的恐惧就最抚慰人心的温暖，小三十的力量～</div> |

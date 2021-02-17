@@ -48,10 +48,10 @@ You Can't Stay 你现在依依难舍 是你的骄傲作祟<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1684645)<br><br>2020-12-07 21:12<br>赞(0) 踩(0) | <div>入手了专辑</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208541997)<br>微信号:musicpoo...<br>2020-11-22 13:10<br>赞(0) 踩(0) | <div>明早清醒之后，你会明白，你有没有爱过谁明早清醒之后，你会明白，你也没有爱过谁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208541997)<br>微信号:musicpoo...<br>2020-11-22 13:10<br>赞(0) 踩(0) | <div>明早清醒之后，你会明白，你有没有爱过谁<br>明早清醒之后，你会明白，你也没有爱过谁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105280330)<br><br>2020-02-29 22:51<br>赞(1) 踩(0) | <div>依依难舍这类歌应该就算耐听了吧，这么多年挺过来，依旧都觉得好听。感谢金海心，独特的唱风，留下那么多好听的歌。这算是一个比较纯粹的歌手，音乐不是靠绯闻和事件曝光支撑的，太多精力在宣传必然在创作上就少了时间，投入产出这事儿，上苍公平。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282056612)<br><br>2019-12-19 12:27<br>赞(1) 踩(0) | <div>这么好听的歌，赶紧收藏了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333382298)<br>巨蟹座，菲迷。<br>2019-09-18 08:41<br>赞(2) 踩(0) | <div>这张专辑真的没有不好听的歌。</div> |
@@ -87,7 +87,7 @@ You Can't Stay 你现在依依难舍 是你的骄傲作祟<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8935423)<br><br>2012-07-23 19:20<br>赞(2) 踩(0) | <div>偶尔听听过去，也能顺便听听自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886284)<br><br>2012-02-03 11:41<br>赞(1) 踩(0) | <div>嘿嘿 初三听的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5083228)<br><br>2011-12-20 23:15<br>赞(1) 踩(0) | <div>忙了以后，不免会忘记以前的旋律，现在翻起来，依然那么熟悉舒服</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3564226)<br>我想想..<br>2011-07-07 20:09<br>赞(4) 踩(0) | <div>你现在依依难舍是你的骄傲作祟明早清醒之后你会明白你也没有爱过谁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3564226)<br>我想想..<br>2011-07-07 20:09<br>赞(4) 踩(0) | <div>你现在依依难舍<br>是你的骄傲作祟<br>明早清醒之后<br>你会明白<br>你也没有爱过谁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2252673)<br><br>2011-04-27 11:14<br>赞(2) 踩(0) | <div>那些老时光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2121107)<br><br>2011-01-12 13:38<br>赞(2) 踩(0) | <div>在想你的时候巧合的听到。。。酸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/159369)<br>10<br>2010-10-28 20:11<br>赞(1) 踩(0) | <div>初中时听了旋律都会哭的歌 现在想想 当时到底在哭些什么 可怜些什么呢</div> |

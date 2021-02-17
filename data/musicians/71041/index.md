@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1ec3dee576c8d059d17804ae17712972.jpg)<br>李志辉](https://i.xiami.com/lzhmusic) | **播放数**: 27301389<br>**粉丝数**: 18213<br>**评论数**: 610<br>**地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 新世纪音乐 New Age, 世界音乐 World Music, 中国风 China-Wave, 民族融合新世纪 Ethnic Fusion New Age<br> |
+| [![](../../images/musicians/1ec3dee576c8d059d17804ae17712972.jpg)<br>李志辉](https://i.xiami.com/lzhmusic) | **地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 新世纪音乐 New Age, 世界音乐 World Music, 中国风 China-Wave, 民族融合新世纪 Ethnic Fusion New Age<br>**播放数**: 27301389<br>**粉丝数**: 18213<br>**评论数**: 610<br> |
 
 ## 档案
 
@@ -82,8 +82,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276821209)<br><br>2021-01-06 17:27<br>赞(0) 踩(0) | <div>我和李老师同名，曲子又是我喜欢的风格，真是有缘</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441870734)<br>偷得浮生半日闲<br>2020-12-27 21:53<br>赞(0) 踩(0) | <div>音乐与灵魂同在，同飞翔，仿佛飘在广阔地草原&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269372347)<br><br>2020-06-25 16:58<br>赞(0) 踩(0) | <div>大师</div> |
@@ -200,7 +200,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45385073)<br>爱虾米期待再相遇为新：t...<br>2016-05-17 18:40<br>赞(0) 踩(0) | <div>收</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60807290)<br> <br>2016-03-22 20:21<br>赞(0) 踩(0) | <div>净化心灵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1625387)<br>吃米飯的老虎<br>2016-03-07 02:21<br>赞(0) 踩(0) | <div>顺便说一句，《紫禁花园》和《千年幻想郷 ～ History of the Moon》及其衍生出来的同人作品的主旋律都有些像S.E.N.S.的《Aphrodite》，要说抄袭的话，那也是别人抄袭了1984年的这部作品。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1625387)<br>吃米飯的老虎<br>2016-03-07 02:21<br>赞(1) 踩(0) | <div>看有人说日本人抄袭李志辉，客观地说明一下：《かの郷は永き幻の》原曲是《千年幻想郷 ～ History of the Moon》，是上海アリス幻樂団的神主ZUN所出的东方弹幕游戏《東方永夜抄 ～ Imperishable Night. 》的BGM，其早于《紫禁花园》，所以不算抄袭。如果还要拿编曲说事的话，那我多说一句，关于什么新世纪啊、现代+古风啊等类似的编曲方式，日本也早已有之，日本对于华风的发挥不亚于中国人自己，比如说姬神、喜多郎、S.E.N.S. 、和平之月和东方同人音乐等等，太常见了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1625387)<br>吃米飯的老虎<br>2016-03-07 02:21<br>赞(1) 踩(0) | <div>看有人说日本人抄袭李志辉，客观地说明一下：《かの郷は永き幻の》原曲是《千年幻想郷 ～ History of the Moon》，是上海アリス幻樂団的神主ZUN所出的东方弹幕游戏《東方永夜抄 ～ Imperishable Night. 》的BGM，其早于《紫禁花园》，所以不算抄袭。<br><br>如果还要拿编曲说事的话，那我多说一句，关于什么新世纪啊、现代+古风啊等类似的编曲方式，日本也早已有之，日本对于华风的发挥不亚于中国人自己，比如说姬神、喜多郎、S.E.N.S. 、和平之月和东方同人音乐等等，太常见了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136733780)<br><br>2016-05-01 21:04<br>赞(0) 踩(0) | <div>这点我赞同。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38971662)<br>宠狗之人<br>2016-02-24 09:56<br>赞(0) 踩(0) | <div>水墨风的乐韵。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38971662)<br>宠狗之人<br>2016-02-24 09:55<br>赞(0) 踩(0) | <div>乐韵</div> |
@@ -264,7 +264,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1913308)<br><br>2015-01-13 14:54<br>赞(0) 踩(0) | <div>好美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591295)<br><br>2014-12-30 03:52<br>赞(10) 踩(0) | <div>中国传统音乐既有阳春白雪，也有下里巴人；既有宫廷音乐，也有民间小调。大家不妨试试看，用一些新世纪音乐乐器演奏那些广场舞的神曲，照样优美动听、过耳不忘的，不亚于某些人推崇的日本音乐的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267202329)<br>凯尔特的灵性印第安的苍凉...<br>2018-03-30 02:58<br>赞(0) 踩(0) | <div>神评论，相当有水准</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591295)<br><br>2014-12-30 03:51<br>赞(19) 踩(0) | <div>始终有一种荒谬的论调，就是“所谓日本更好地继承了中国音乐、中国文化。”其一，中国文化博大精深，而音乐只是文化的一部分，即便日本音乐人很好地继承了中国音乐，也不代表继承了整个中国文化——单就饮食文化而言，日本料理与中国饮食相差有多大，大家一想便知。其二，日本音乐人可没有认为他们是继承了传统中国音乐，而是他们自己独创的音乐。所以某些人就不要自作多情了吧，呵呵。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591295)<br><br>2014-12-30 03:51<br>赞(19) 踩(0) | <div>始终有一种荒谬的论调，就是“所谓日本更好地继承了中国音乐、中国文化。”<br>其一，中国文化博大精深，而音乐只是文化的一部分，即便日本音乐人很好地继承了中国音乐，也不代表继承了整个中国文化——单就饮食文化而言，日本料理与中国饮食相差有多大，大家一想便知。<br>其二，日本音乐人可没有认为他们是继承了传统中国音乐，而是他们自己独创的音乐。所以某些人就不要自作多情了吧，呵呵。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110765)<br>我还没想好要写什么...<br>2014-12-30 21:57<br>赞(0) 踩(0) | <div>不管是不是谬论，为什么那么多民乐演奏家要去国外发展呢？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4406065)<br>（闷树）<br>2015-01-02 01:21<br>赞(0) 踩(0) | <div><q><b>Leone说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591295)<br><br>2015-01-25 21:32<br>赞(0) 踩(0) | <div><q><b>Leone说：</b></q></div> |
@@ -293,7 +293,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35320145)<br>以音乐为伴，与世无争！<br>2014-10-27 19:36<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41669548)<br><br>2014-10-01 16:20<br>赞(0) 踩(0) | <div>李志辉,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26161811)<br><br>2014-09-22 16:21<br>赞(0) 踩(0) | <div>跟我对路</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-09-22 02:43<br>赞(0) 踩(0) | <div>中国民族特色新世纪音乐大师2574872,6507,383</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-09-22 02:43<br>赞(0) 踩(0) | <div>中国民族特色新世纪音乐大师<br>2574872,6507,383</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8900755)<br><br>2014-09-22 01:40<br>赞(0) 踩(0) | <div>因为雪尧点了所以第一期要做古风！！！其实po主不太听古风基本算是不懂所以说不定有什么误言还希望可以指出来。今天推荐的是这首【紫禁花园】从开头的鼓声起就很大气，后面悠扬的调子配合上适当的低音让人仿佛看得到紫禁城的朝阳日落。个人觉得是相当耐听的一首曲子。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1912114)<br><br>2014-09-06 01:44<br>赞(0) 踩(0) | <div>感觉到有好多日本纯音的痕迹在 可否看成是借鉴或巧合？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9541152)<br><br>2014-08-25 12:30<br>赞(0) 踩(0) | <div>关注现代派！</div> |
@@ -345,7 +345,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15839554)<br>很高興與您相遇 什麼蝦米<br>2014-04-07 06:51<br>赞(0) 踩(0) | <div>喜歡這搖滾 中國風</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9084662)<br><br>2014-04-02 08:57<br>赞(0) 踩(0) | <div>震撼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4405764)<br>用我一生换你十年天真<br>2014-03-28 16:40<br>赞(0) 踩(0) | <div>轻柔，喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19606022)<br>唯美和风控<br>2014-03-28 03:00<br>赞(1) 踩(0) | <div>在中国像这么顶尖的音乐艺术家实在太少了，更多的是像李代沫这样的，还有芒果台那些垃圾快男。呜呼哀哉…可悲啊…</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19606022)<br>唯美和风控<br>2014-03-28 03:00<br>赞(1) 踩(0) | <div>在中国像这么顶尖的音乐艺术家实在太少了，<br>更多的是像李代沫这样的，还有芒果台那些垃圾快男。<br>呜呼哀哉…可悲啊…</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13443597)<br>我读书少，你莫骗我。。<br>2014-03-24 08:38<br>赞(0) 踩(0) | <div>相当不错了，终于可以不是想听纯音乐就要翻外文精选集了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28549516)<br>随意<br>2014-03-21 21:00<br>赞(0) 踩(0) | <div>清扬</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8932314)<br>learn to fly<br>2014-03-16 14:14<br>赞(0) 踩(0) | <div>中国竟还有这么好的New Age音乐人，在这样晴朗微暖的下午真是应景。</div> |
@@ -399,7 +399,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13189144)<br><br>2016-02-22 11:55<br>赞(0) 踩(0) | <div>您好！很久没有登录上来了，看到你的留言，我很遗憾。人往往是在鼓励与肯定中获得更大的前进动力，我相信这点点中肯的肯定并不会让被赞扬者迷失方向。在国内，很多人都缺乏自信，就是因为生活中他们很少得到肯定。就算他们取得了一定的成绩，多数人怕一表扬他们就会让他们骄傲从而不思进取，这真让人遗憾！在日益浮躁的今天，在国内你找得出几个这样的人物？李志辉取得的成绩有目共睹，他绝对当得起他所获得的荣誉与肯定！于生活中，我相信还是肯定与鼓励较沉默带来的益处多得多！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51651536)<br> <br>2017-05-06 22:23<br>赞(0) 踩(0) | <div>你懂什么呀！很多国外音乐家，别动不动就国外，如果你懂就不会说这番话</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42995807)<br><br>2018-06-19 19:03<br>赞(0) 踩(0) | <div><q><b>arcimat说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19296206)<br><br>2013-08-30 08:36<br>赞(1) 踩(0) | <div>水墨丹青凤凰城的2012新版更令人心醉了，推荐大家听一下！虾米的排名真是不敢恭唯，小桥流水人家居然跑到第18位了。平遥古韵有一首人声翻唱的《此爱》，也推荐各位乐友欣赏一下，歌手王琼，保证大家听了不会失望！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19296206)<br><br>2013-08-30 08:36<br>赞(1) 踩(0) | <div>水墨丹青凤凰城的2012新版更令人心醉了，推荐大家听一下！<br>虾米的排名真是不敢恭唯，小桥流水人家居然跑到第18位了。<br>平遥古韵有一首人声翻唱的《此爱》，也推荐各位乐友欣赏一下，歌手王琼，保证大家听了不会失望！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1625841)<br><br>2013-08-22 22:50<br>赞(0) 踩(0) | <div>好听没得说，但是前三首的调调好像啊。。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5114450)<br><br>2013-08-11 00:40<br>赞(0) 踩(0) | <div>好音乐，喜欢没借口啊。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5114450)<br><br>2013-08-11 00:40<br>赞(0) 踩(0) | <div>好音乐，喜欢没借口啊。。。</div> |
@@ -417,7 +417,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3082044)<br><br>2013-06-24 15:15<br>赞(0) 踩(0) | <div>画图的时候用</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3391916)<br>紫燕骄舞怡情趣 吟风唱完...<br>2013-06-23 15:45<br>赞(1) 踩(0) | <div>李志辉的音乐唯美，清新，像落入荷叶的一滴新露，婉转，优雅，又不失活泼，灵动。旋律绕梁三日，韵味十足。有着深刻的感染力，让你不知不觉就融入到了他营造的或喜悦或感怀的心灵家园。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10231021)<br>静听心声，净化灵魂。<br>2013-06-13 18:05<br>赞(0) 踩(0) | <div>如此悦耳干净好听的音乐真是太少了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-06-09 10:16<br>赞(0) 踩(0) | <div>忘记留名了，最开始接触李志辉的音乐是从《我们远去的家园》开始的，传统中又不失现代风格，对我触动很大。恋~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-06-09 10:16<br>赞(0) 踩(0) | <div>忘记留名了，最开始接触李志辉的音乐是从《我们远去的家园》开始的，传统中又不失现代风格，对我触动很大。<br>恋~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10999883)<br><br>2013-06-07 15:21<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13603354)<br>非诚勿扰<br>2013-06-04 23:47<br>赞(0) 踩(0) | <div>传统</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13189144)<br><br>2013-06-04 15:27<br>赞(1) 踩(0) | <div>喜欢李志辉作品的朋友可以到他的微音乐在线聆听他的新作。地址：<a href="http://music.weibo.com/lzhmusic" target="_blank" rel="nofollow noreferrer noopener">http://music.weibo.com/lzhmusic</a>，强烈推荐“水墨兰亭”~登峰造极之作！</div> |
@@ -455,7 +455,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37171381)<br>做一个让人觉得温暖的孩子...<br>2014-10-13 15:05<br>赞(0) 踩(0) | <div>请问 你听过《梦回大明》的广播剧吗？刘艳丽主播的，因为看到你说听了纯音乐很多年，我想请教你 最后一集中快结束的时候的背景音乐是什么？我找了好久，都没有头绪。如果你有印象能告诉我一下嘛？谢谢你</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13189144)<br><br>2014-11-04 00:55<br>赞(0) 踩(0) | <div><q><b>夕落的月亮说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37171381)<br>做一个让人觉得温暖的孩子...<br>2014-11-06 09:45<br>赞(0) 踩(0) | <div><q><b>秀发说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591295)<br><br>2014-12-29 02:04<br>赞(0) 踩(0) | <div>始终有一种荒谬的论调，就是“所谓日本更好地继承了中国音乐、中国文化。”其一，中国文化博大精深，而音乐只是文化的一部分，即便日本音乐人很好地继承了中国音乐，也不代表继承了整个中国文化——单就饮食文化而言，日本料理与中国饮食相差有多大，大家一想便知，呵呵。其二，日本音乐人可没有认为他们是继承了传统中国音乐，而是他们独创的。所以某些人就不要自作多情了吧，呵呵。其三，中国传统音乐既有阳春白雪，也有下里巴人；既有宫廷音乐，也有民间小调。大家不妨试试看，用一些新世纪音乐乐器演奏那些广场舞的神曲，照样优美动听、朗朗上口的，不亚于某些人推崇的日本音乐的，呵呵。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591295)<br><br>2014-12-29 02:04<br>赞(0) 踩(0) | <div>始终有一种荒谬的论调，就是“所谓日本更好地继承了中国音乐、中国文化。”<br>其一，中国文化博大精深，而音乐只是文化的一部分，即便日本音乐人很好地继承了中国音乐，也不代表继承了整个中国文化——单就饮食文化而言，日本料理与中国饮食相差有多大，大家一想便知，呵呵。<br>其二，日本音乐人可没有认为他们是继承了传统中国音乐，而是他们独创的。所以某些人就不要自作多情了吧，呵呵。<br>其三，中国传统音乐既有阳春白雪，也有下里巴人；既有宫廷音乐，也有民间小调。大家不妨试试看，用一些新世纪音乐乐器演奏那些广场舞的神曲，照样优美动听、朗朗上口的，不亚于某些人推崇的日本音乐的，呵呵。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-07-29 03:17<br>赞(0) 踩(0) | <div>还有不少，多听，你会发现还有更多.....</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13189144)<br><br>2015-08-02 18:47<br>赞(0) 踩(0) | <div><q><b>无本说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-08-03 01:54<br>赞(0) 踩(0) | <div><q><b>秀发说：</b></q></div> |

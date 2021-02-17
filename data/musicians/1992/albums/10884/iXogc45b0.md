@@ -37,8 +37,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15018315)<br><br>2020-08-16 09:48<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166037116)<br>得得戚戚<br>2020-05-27 06:35<br>赞(2) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30095117)<br><br>2020-05-06 15:53<br>赞(1) 踩(0) | <div>听了这首歌，心情本来不开朗，似乎也跟着疏解了变得好起来</div> |
@@ -54,7 +54,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324188348)<br>紫气东来<br>2020-02-17 21:32<br>赞(0) 踩(0) | <div>不会吧</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409496257)<br><br>2020-09-13 21:44<br>赞(0) 踩(0) | <div>唱歌好听就行了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332797317)<br>音乐无敌！<br>2020-01-27 16:19<br>赞(8) 踩(0) | <div>节奏感很强！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49016407)<br>文字是音乐的感悟。<br>2020-01-27 11:55<br>赞(39) 踩(0) | <div>《莱茵河之恋》-当年香港电台女唱片骑师麦洁文小姐的代表作。“ ……，摇着那小小花伞，看山色青青，你的歌可更动听！” ……。无意中翻看2年多前的留评甚觉惊喜！也为冬日稀阳的今晨添暖！……。也许，如歌词说到：童画式的恋爱虽则天真，……但美丽动听！又或是，虽则冬霾漫佈，但希企在即，……总会见骄阳！ <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49016407)<br>文字是音乐的感悟。<br>2020-01-27 11:55<br>赞(39) 踩(0) | <div>《莱茵河之恋》-当年香港电台女唱片骑师麦洁文小姐的代表作。<br>“ ……，摇着那小小花伞，看山色青青，你的歌可更动听！” ……。<br>无意中翻看2年多前的留评甚觉惊喜！也为冬日稀阳的今晨添暖！……。<br>也许，如歌词说到：童画式的恋爱虽则天真，……但美丽动听！又或是，虽则冬霾漫佈，但希企在即，……总会见骄阳！ <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285049703)<br>陈惠娜<br>2020-06-07 06:35<br>赞(0) 踩(0) | <div>最幸福的应该是江华既有原版麦洁文，也有小号版邓萃文一个齐人！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48196940)<br> <br>2020-01-23 00:14<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21613)<br><br>2020-01-10 23:57<br>赞(0) 踩(0) | <div>自诩听过了很多老歌，但还是第一次听到这首歌。依然觉得很好听！</div> |
@@ -111,7 +111,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421332)<br>Un peu fat, ...<br>2019-02-23 14:56<br>赞(1) 踩(0) | <div>华尔兹舞曲</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418985930)<br>吃吃吃听听听<br>2019-07-29 22:18<br>赞(0) 踩(0) | <div>舞林高手 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419396937)<br>好听的声音 要与大家分享...<br>2019-02-22 18:47<br>赞(1) 踩(0) | <div>和徐小凤比 各有千秋</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273995181)<br>我还没想好要写什么...<br>2019-02-21 18:06<br>赞(3) 踩(0) | <div>萊茵河畔  我和你雙雙對對  成比翼同林鳥語  情依依九塵姻緣  成枝李流光蕩世紀飛越在天際略領天與地相守不離異</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273995181)<br>我还没想好要写什么...<br>2019-02-21 18:06<br>赞(3) 踩(0) | <div>萊茵河畔  我和你<br>雙雙對對  成比翼<br>同林鳥語  情依依<br>九塵姻緣  成枝李<br>流光蕩世紀<br>飛越在天際<br>略領天與地<br>相守不離異</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337050681)<br><br>2019-02-20 18:55<br>赞(6) 踩(0) | <div>居然有这首歌，回到小学那会，在跳舞 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327140274)<br><br>2019-02-20 13:17<br>赞(0) 踩(0) | <div>都喺佢嘅首本名曲了，辉哥作品</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310294336)<br><br>2019-02-17 13:49<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
@@ -127,7 +127,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281125616)<br><br>2018-12-22 21:57<br>赞(3) 踩(0) | <div>我听这歌有23年了。！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281125616)<br><br>2018-12-22 21:55<br>赞(1) 踩(0) | <div>又回到穿裤衩的年代，纯真绝不包假！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338532981)<br>Thomas yim<br>2018-12-15 00:38<br>赞(10) 踩(0) | <div>她多年前的歌曲，編曲節拍輕快，歌詞典雅，加上靚聲演譯得非常動聽，非常喜歡！！ <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359017915)<br><br>2018-12-10 14:26<br>赞(3) 踩(0) | <div>回忆往事~好喜欢的歌哟！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359017915)<br><br>2018-12-10 14:26<br>赞(3) 踩(0) | <div>回忆往事~<br>好喜欢的歌哟！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54289818)<br>我还没想好要写什么...<br>2018-12-08 00:13<br>赞(4) 踩(0) | <div>摇着那小小花伞 看山色青青</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342862818)<br><br>2018-12-05 00:43<br>赞(6) 踩(0) | <div>老歌不言旧，老歌有怀旧的情怀。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117388614)<br><br>2018-11-29 01:54<br>赞(4) 踩(0) | <div>听这首歌忍不住翩翩起舞</div> |
@@ -155,7 +155,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254469458)<br><br>2018-08-19 20:27<br>赞(1) 踩(0) | <div>小时候混录像厅正片开始前经常放的歌，我如今43岁，时日无多了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338532981)<br>Thomas yim<br>2018-08-10 01:12<br>赞(7) 踩(0) | <div>她多年前的歌曲，編曲柔和，演譯出歌詞中的輕鬆感覺！！ <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348105282)<br><br>2018-08-08 19:40<br>赞(2) 踩(0) | <div>good</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356924502)<br><br>2018-08-07 19:15<br>赞(40) 踩(0) | <div>好听，觉得那个时候的女生好有气质！太好看，个个都有特点！歌也好听！往事一幕幕！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356924502)<br><br>2018-08-07 19:15<br>赞(40) 踩(0) | <div>好听，觉得那个时候的女生好有气质！太好看，个个都有特点！歌也好听！<br>往事一幕幕！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315843572)<br>我还没想好要写什么...<br>2019-07-30 23:02<br>赞(0) 踩(0) | <div>是啊，有一种清新的，淳朴的，自然的美和气质。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13053187)<br><br>2018-08-04 19:54<br>赞(58) 踩(0) | <div>特别适合跳快三的一支曲子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302830785)<br><br>2018-08-02 22:05<br>赞(87) 踩(0) | <div>******</div> |
@@ -165,7 +165,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375976450)<br>Thomas Yim<br>2018-07-09 00:54<br>赞(1) 踩(0) | <div>多年前的歌曲！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252535891)<br><br>2018-07-02 21:08<br>赞(4) 踩(0) | <div>有年头了吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252535891)<br><br>2018-07-02 21:07<br>赞(5) 踩(0) | <div>时代感</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320008225)<br>世事无绝对，只有真情趣。<br>2018-06-09 02:58<br>赞(7) 踩(0) | <div>我们劳燕分飞，远隔大海重洋。只有歌声依旧，乡音未改。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320008225)<br>世事无绝对，只有真情趣。<br>2018-06-09 02:58<br>赞(7) 踩(0) | <div>我们劳燕分飞，<br>远隔大海重洋。<br>只有歌声依旧，<br>乡音未改。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374871434)<br><br>2018-06-07 22:28<br>赞(4) 踩(0) | <div>几十年前歌曲，都现在还人收藏实在难得</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374871434)<br><br>2018-06-07 11:53<br>赞(2) 踩(0) | <div>成名曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47705147)<br>惟德动天，无远弗届，满招...<br>2018-06-04 11:10<br>赞(17) 踩(0) | <div>最美好的生活方式， 不是躺在床上睡到自然醒， 也不是坐在家里无所事事， 更不是走在街上随意购物； 而是和一群志同道合的人， 一起奔跑在理想的路上， 回头有一路的故事， 低头有坚定的脚步， 抬头有清晰的远方。</div> |
@@ -176,7 +176,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343592239)<br><br>2018-05-24 20:43<br>赞(3) 踩(0) | <div>美好的回忆。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344034376)<br>睡了一觉，终于醒了。<br>2018-05-15 13:18<br>赞(4) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313025788)<br><br>2018-05-15 06:20<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279796370)<br>怀念与宝宝听歌的日子…<br>2018-05-15 05:49<br>赞(4) 踩(0) | <div>║║♫═╦╦╦╔╗♫╚╣║║║║╔╣╚═╩═╩♫╩═╝</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279796370)<br>怀念与宝宝听歌的日子…<br>2018-05-15 05:49<br>赞(4) 踩(0) | <div>║║♫═╦╦╦╔╗<br>♫╚╣║║║║╔╣<br>╚═╩═╩♫╩═╝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235831157)<br>昨天太短，明天太遠。<br>2018-05-03 21:49<br>赞(2) 踩(0) | <div>第一次聽這首歌是小時候在電視上播放的，廣東電視臺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328772264)<br>估计没人认识我！我要通过...<br>2018-04-28 19:53<br>赞(7) 踩(0) | <div>由于当时的电影 资本家都是肥头胖脸的，且大鱼大肉，从孩儿时就响往资本主义社会，立志大了就当资本家，2016年，带着老婆孩子去了趟&amp;ldquo;莱茵河&amp;rdquo;，参观了巴黎圣母院，进了巴黎歌剧院，还去罗马教堂祁祷，象电影一样把自己这些年所有的东西回忆一遍， <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321291625)<br><br>2018-04-28 16:16<br>赞(2) 踩(0) | <div>一直在听。</div> |
@@ -220,7 +220,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305394410)<br>No pains αnd...<br>2017-11-03 18:59<br>赞(6) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280479603)<br><br>2017-10-28 17:41<br>赞(4) 踩(0) | <div>小时候最喜欢这个旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153013324)<br>粤语经典，古风禅乐new...<br>2017-10-27 11:22<br>赞(91) 踩(0) | <div>内容已删除</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284502990)<br><br>2018-03-26 20:14<br>赞(0) 踩(0) | <div>#好音乐# 八十年代歌星《中国歌星歌曲录》完整名单：210位内地歌手上册：候德建、程琳、李小文、黄文君、丁小青、于佳易、万山红、卫华、马丽、王文、王兰、王迪、王虹、王哲、王敏、王斯、王静、王昌丽、王晓清、王笑梅、王家兴、无鸣、韦唯、毛阿敏、牛豹、卞小贞、邓志乐、孔大愚、艾静、巴哈尔古丽、田震、白灵、白荔、白苏华、冯莉、冯满天、边桂荣、权英子、成方圆、申春琴、吕红梅、吕念祖、乔珊、朱桦、朱明瑛、朱哲琴、朱晓琳、任雁、任静、毕晓世、刘欢、刘斌、刘畅、刘蕾、刘小娜、刘仁全、刘欣茹、刘俊亭、齐燕、庄鲁迅、庆紫、汤莉、安冬、安永红、关牧村、牟青、牟杰、牟炫甫、孙青、孙浩、孙小云、孙伟国、孙鸣洁、孙英华</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284502990)<br><br>2018-03-26 20:14<br>赞(0) 踩(0) | <div>#好音乐# 八十年代歌星《中国歌星歌曲录》完整名单：210位内地歌手<br>上册：候德建、程琳、李小文、黄文君、丁小青、于佳易、万山红、卫华、马丽、王文、王兰、王迪、王虹、王哲、王敏、王斯、王静、王昌丽、王晓清、王笑梅、王家兴、无鸣、韦唯、毛阿敏、牛豹、卞小贞、邓志乐、孔大愚、艾静、巴哈尔古丽、田震、白灵、白荔、白苏华、冯莉、冯满天、边桂荣、权英子、成方圆、申春琴、吕红梅、吕念祖、乔珊、朱桦、朱明瑛、朱哲琴、朱晓琳、任雁、任静、毕晓世、刘欢、刘斌、刘畅、刘蕾、刘小娜、刘仁全、刘欣茹、刘俊亭、齐燕、庄鲁迅、庆紫、汤莉、安冬、安永红、关牧村、牟青、牟杰、牟炫甫、孙青、孙浩、孙小云、孙伟国、孙鸣洁、孙英华</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284502990)<br><br>2018-03-26 20:16<br>赞(0) 踩(0) | <div>虾米字数限制 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272378656)<br>人生无常 当心淡如水乎<br>2019-04-01 21:51<br>赞(0) 踩(0) | <div>全是大牛  <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259146808)<br><br>2017-10-23 06:59<br>赞(1) 踩(0) | <div>记忆犹新。魅力无限。</div> |
@@ -253,7 +253,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3809464)<br>聆听记忆<br>2017-04-07 12:56<br>赞(0) 踩(0) | <div>小时候听的   是不是还有国语版</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58163144)<br><br>2017-04-06 16:14<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2873595)<br><br>2017-04-04 22:35<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2017-04-02 03:24<br>赞(4) 踩(0) | <div>好听喜欢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2017-04-02 03:24<br>赞(4) 踩(0) | <div>好听<br>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284216824)<br><br>2017-04-01 08:57<br>赞(4) 踩(0) | <div>每每听到这首歌，都有一种愉悦的心情。美好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225715722)<br>迎接那变幻，今生与你，拥...<br>2017-03-29 06:40<br>赞(2) 踩(0) | <div>喜欢这节奏，华尔兹的粤语歌，啊...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118038)<br>静水流深，清心笃行<br>2017-03-18 22:03<br>赞(2) 踩(0) | <div>华尔兹转起来</div> |
@@ -282,7 +282,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15274334)<br><br>2015-08-14 22:20<br>赞(0) 踩(0) | <div>好美的旋律，好温柔的回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49262349)<br> <br>2015-08-12 11:56<br>赞(0) 踩(0) | <div>特别好听声音干净！ <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39608631)<br><br>2015-01-08 09:33<br>赞(2) 踩(0) | <div>从耳到心，都感动到你！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-01-06 15:55<br>赞(7) 踩(0) | <div>粤语怀旧经典魅力女声28309,66,16</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-01-06 15:55<br>赞(7) 踩(0) | <div>粤语怀旧经典魅力女声<br>28309,66,16</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8292735)<br><br>2014-08-17 10:31<br>赞(1) 踩(0) | <div>经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8292735)<br><br>2014-06-12 11:25<br>赞(1) 踩(0) | <div>经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34172112)<br>我还没想好要写什么...<br>2014-04-19 09:44<br>赞(0) 踩(0) | <div>Back to the 80&amp;#039;s last century...</div> |

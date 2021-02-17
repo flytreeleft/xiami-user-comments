@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2017-09-22 20:45<br>赞(3) 踩(0) | <div>你们撇开歌词仔细听编曲，打击乐节奏的鼓点能听出一点New Age的味道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264581107)<br><br>2017-01-20 07:52<br>赞(0) 踩(0) | <div>哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90709866)<br><br>2016-07-08 17:05<br>赞(0) 踩(0) | <div>我喜欢听您的歌曲</div> |

@@ -40,8 +40,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3072493)<br>这不是一颗流星<br>2012-02-02 23:25<br>赞(1) 踩(0) | <div>有人说大帅哥只会胡说八道狗屁不通</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5155722)<br><br>2011-08-26 12:43<br>赞(1) 踩(0) | <div>歌词真逗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3978792)<br><br>2011-06-14 23:30<br>赞(0) 踩(0) | <div>爱他。</div> |

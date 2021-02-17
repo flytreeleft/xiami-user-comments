@@ -61,8 +61,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324454167)<br>春的花 、秋的風、冬的飄...<br>2020-04-04 01:57<br>赞(1) 踩(0) | <div>好聽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35662097)<br> <br>2017-10-27 23:06<br>赞(1) 踩(0) | <div>十几岁时看左耳疯爱的歌词 现在却找不到许巍版本。不撕心裂肺 也听得心生疼。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196774791)<br>如风岁月  似水流年  ...<br>2017-06-02 18:32<br>赞(1) 踩(0) | <div>在暮春的词牌里 &amp;nbsp;一切刚刚好 &amp;nbsp;有人是上阙 &amp;nbsp;有人是下阕 &amp;nbsp;一些音符 &amp;nbsp;在纵情歌唱 &amp;nbsp;天空粼粼波光 &amp;nbsp;你激情澎湃 &amp;nbsp;义无返顾&amp;nbsp;&amp;nbsp;&amp;nbsp;一路风霜 &amp;nbsp;一脸笑容 &amp;nbsp;骄傲化成了风声 &amp;nbsp;像一个信念 &amp;nbsp;为了你的风尘仆仆 &amp;nbsp;也为世间的诺言无数 &amp;nbsp;希望这个世界 &amp;nbsp;所有的真诚都能听到回答 &amp;nbsp;所有的情义都能等到回应 &amp;nbsp;&amp;nbsp;就像一条岸等着一条河 &amp;nbsp;就像一个你等着一个我</div> |
@@ -90,10 +90,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5508477)<br>我还没想好要写什么...<br>2014-08-24 10:21<br>赞(0) 踩(0) | <div>侃侃 ／ 一江水</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1891655)<br><br>2014-08-11 23:58<br>赞(0) 踩(0) | <div>觉得这个版本好像最好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21622750)<br>就聽好歌<br>2014-08-11 16:36<br>赞(0) 踩(0) | <div>有感觉，和韩红的比更喜欢你唱的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-08-10 01:25<br>赞(0) 踩(0) | <div>手风琴和编曲不错，侃侃音色不太适合唱这首32387,150,21</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-08-10 01:25<br>赞(0) 踩(0) | <div>手风琴和编曲不错，侃侃音色不太适合唱这首<br>32387,150,21</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13824872)<br><br>2014-06-09 10:52<br>赞(0) 踩(0) | <div>我和你是河两岸   永隔一江水</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5975389)<br><br>2014-04-21 02:25<br>赞(0) 踩(0) | <div>我和你是河两岸，永隔一江水～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33160517)<br><br>2014-04-03 22:04<br>赞(0) 踩(0) | <div>#时光#李鸥的版本。也很耐听。生命因为与某些人儿交集，有些旋律下意识会在脑袋根植 。耳朵每次听见，那时的画面便就回来。听见的，是那一段时光……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33160517)<br><br>2014-04-03 22:04<br>赞(0) 踩(0) | <div>#时光#李鸥的版本。也很耐听。生命因为与某些人儿交集，有些旋律下意识会在脑袋根植 。<br>耳朵每次听见，那时的画面便就回来。听见的，是那一段时光……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2270828)<br> <br>2013-10-29 02:48<br>赞(1) 踩(0) | <div>隐约记得很多年前听过许巍的版本，现在却找不到了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16536260)<br><br>2013-08-07 09:54<br>赞(0) 踩(0) | <div>我和你是河两岸，永隔一江水~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1669492)<br><br>2013-02-26 08:06<br>赞(0) 踩(0) | <div>今天早上我被自己的两个梦笑醒了，回味起来还是很乐呵，哈哈哈，早上好~</div> |

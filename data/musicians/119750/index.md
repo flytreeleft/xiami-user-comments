@@ -3,7 +3,7 @@ Shirfine
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5a46f28dbf731ac2743d6f8380af6456.jpg)<br>Shirfine](https://i.xiami.com/shirfine) | **播放数**: 6780280<br>**粉丝数**: 16868<br>**评论数**: 709<br>**地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 器乐独奏 Solo Instrumental, 电子 Electronic, 轻音乐 Easy Listening, 新世纪音乐 New Age<br> |
+| [![](../../images/musicians/5a46f28dbf731ac2743d6f8380af6456.jpg)<br>Shirfine](https://i.xiami.com/shirfine) | **地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 器乐独奏 Solo Instrumental, 电子 Electronic, 轻音乐 Easy Listening, 新世纪音乐 New Age<br>**播放数**: 6780280<br>**粉丝数**: 16868<br>**评论数**: 709<br> |
 
 ## 档案
 
@@ -32,12 +32,12 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300184210)<br>我爱虾米，求虾米不要停运<br>2021-01-17 14:34<br>赞(0) 踩(0) | <div>本来想虾米买的幻昼，无奈虾米要关闭了，只能去网易云买了:-(</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286598418)<br>我记住了他的样子，我不知...<br>2020-12-12 01:54<br>赞(0) 踩(0) | <div>揣着6块买来的Frozen World想听到更新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376174816)<br>音乐是一种排列有序的声音...<br>2020-11-29 22:10<br>赞(1) 踩(0) | <div>你好！我今天是第一次认识你，我英文不好，记不住你的名字，对不住了。原来以前就听过你的作品，非常好听，很喜欢你曲子里表达的意境。加油 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48372935)<br>漂流群已满，请移步虾米绿...<br>2020-11-04 23:34<br>赞(0) 踩(0) | <div>不多说了，加油(ง &amp;bull;̀_&amp;bull;́)ง支持你 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48372935)<br>漂流群已满，请移步虾米绿...<br>2020-11-04 23:34<br>赞(0) 踩(0) | <div>不多说了，加油(ง &amp;bull;̀_&amp;bull;́)ง<br>支持你 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28552334)<br>Gibran<br>2020-10-27 10:27<br>赞(0) 踩(0) | <div>真的很多优秀的曲子，点赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7684210)<br>命中注定<br>2020-10-26 13:29<br>赞(0) 踩(0) | <div>一万多的关注看到还是蛮高的，就知道一定创作了广为传颂的神曲，果不其然，热门第一首就是去年国庆期间短视频用烂的 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431333317)<br><br>2020-08-13 09:27<br>赞(0) 踩(0) | <div>加油</div> |
@@ -60,14 +60,14 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348137417)<br><br>2019-11-19 23:02<br>赞(2) 踩(0) | <div>我们中国的音乐家也可以做出这么棒的new age太好听了！ <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404026779)<br><br>2019-11-13 20:32<br>赞(0) 踩(0) | <div>，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7200539)<br><br>2019-11-12 04:17<br>赞(19) 踩(0) | <div>很厉害的音乐人，国内不缺唱歌的，缺的是真正做音乐的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2019-10-31 14:03<br>赞(3) 踩(0) | <div>。作者大才，望一路走下去。远在异国他乡，多留点心，没坏处。安全不要嫌多。……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2019-10-31 14:03<br>赞(3) 踩(0) | <div>。<br>作者大才，望一路走下去。<br>远在异国他乡，多留点心，没坏处。安全不要嫌多。<br><br>……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2019-10-24 02:05<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430971872)<br>来着湖北孝感的男孩，生于...<br>2019-10-22 18:08<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2019-10-20 23:13<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50696402)<br>山水有清音。<br>2019-10-18 11:56<br>赞(1) 踩(0) | <div>❤️❤️由衷的支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421362377)<br><br>2019-10-09 19:52<br>赞(2) 踩(0) | <div>这是你创作的音乐吗？太好听了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27857090)<br>有朝一日<br>2019-09-19 03:53<br>赞(0) 踩(0) | <div>加油</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283040611)<br>不忘初心，方得始终。<br>2019-09-18 15:05<br>赞(2) 踩(0) | <div>你的音乐有自己的想法，特殊 而又有魅力是我目前唯一接受的悲伤类纯音乐。 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283040611)<br>不忘初心，方得始终。<br>2019-09-18 15:05<br>赞(2) 踩(0) | <div>你的音乐有自己的想法，<br>特殊 而又有魅力<br>是我目前唯一接受的悲伤类纯音乐。 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283040611)<br>不忘初心，方得始终。<br>2019-09-18 15:07<br>赞(0) 踩(0) | <div>也不全是悲伤吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429835521)<br>不要让愤怒毁灭自己<br>2019-09-17 22:00<br>赞(0) 踩(0) | <div>不谢，应该做的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9939410)<br><br>2019-09-15 20:02<br>赞(0) 踩(0) | <div>付费</div> |
@@ -211,7 +211,7 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5854459)<br>潮牌https://dw...<br>2015-08-20 14:58<br>赞(1) 踩(0) | <div>Illusionary Daytime 幻昼 这首最好听 粉丝们都选错啦 QQ音乐里也是这首播放次数最多  最后祝福这位美女音乐家未来更加棒棒的！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42083103)<br>Ein<br>2015-08-15 15:25<br>赞(0) 踩(0) | <div>时隔两月，我又来赞 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42083103)<br>Ein<br>2015-08-15 15:25<br>赞(0) 踩(0) | <div>时隔两月，我又来赞 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2015-08-15 13:42<br>赞(1) 踩(0) | <div>菇凉发色不错噢以后去厦门一起喝酒可好哇 ← ← 臭表脸 (刚才发错地方了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2015-08-15 13:42<br>赞(1) 踩(0) | <div>菇凉发色不错噢<br>以后去厦门一起喝酒可好哇 ← ← 臭表脸 (刚才发错地方了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11231952)<br>听音乐 常愉悦<br>2015-08-11 09:35<br>赞(1) 踩(0) | <div>快粗love fragments的完整版 快被自己的好奇心与满足感给急死了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39351079)<br>peace.<br>2015-08-10 13:52<br>赞(0) 踩(0) | <div>0.0</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14354507)<br>美好音乐相伴<br>2015-08-07 10:41<br>赞(2) 踩(0) | <div>还在为生存苦苦挣扎 羡慕真正白富美的美好生活</div> |
@@ -377,7 +377,7 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6721358)<br>青春不是年华,而是心境。<br>2014-04-29 23:53<br>赞(0) 踩(0) | <div>好久没听到这么轻快悦耳的音乐了~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317745)<br>limitless<br>2014-04-23 02:12<br>赞(0) 踩(0) | <div>好喜欢啊&amp;gt;&amp;lt;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10079475)<br>有过太多纯粹的快乐 才会...<br>2014-04-20 21:56<br>赞(0) 踩(0) | <div>支持！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7290390)<br>*´∀`*<br>2014-04-20 20:40<br>赞(0) 踩(0) | <div>喜欢你很久了//////诶嘿(*´∀`*)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7290390)<br>*´∀`*<br>2014-04-20 20:40<br>赞(0) 踩(0) | <div>喜欢你很久了//////<br>诶嘿(*´∀`*)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13204909)<br>江湖旅客  |   包罗...<br>2014-04-20 14:36<br>赞(0) 踩(0) | <div>不错的jazz hip hop，进来细看发现还是我们的音乐人~支持~希望妹纸继续加油：）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25006757)<br>寻找，寻找。<br>2014-04-28 15:22<br>赞(0) 踩(0) | <div>我们的音乐人？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13204909)<br>江湖旅客  |   包罗...<br>2014-04-28 15:32<br>赞(0) 踩(0) | <div><q><b>Yi说：</b></q></div> |
@@ -386,7 +386,7 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7871053)<br>星火相传，奋飞不辍。<br>2014-04-12 08:28<br>赞(0) 踩(0) | <div>不管是探索中国风，还是模仿日系都很好，优秀的音乐不分国籍。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317745)<br>limitless<br>2014-04-10 23:01<br>赞(0) 踩(0) | <div>哇塞是女生诶！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137516)<br>toudesign.cn<br>2014-04-09 22:45<br>赞(0) 踩(0) | <div>英文不错[偷笑]</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6009548)<br>足控覺醒！<br>2014-04-07 04:27<br>赞(0) 踩(0) | <div>无争与世,不染于泥。这样就好,继续做让自己开心的音乐人.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6009548)<br>足控覺醒！<br>2014-04-07 04:27<br>赞(0) 踩(0) | <div>无争与世,不染于泥。<br>这样就好,继续做让自己开心的音乐人.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6118443)<br>暂无签名~<br>2014-04-05 20:23<br>赞(1) 踩(0) | <div>看留言.争议还真多...先收藏了.日后再听.那肯定能听出争议所在</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1313958)<br><br>2014-04-11 13:36<br>赞(0) 踩(0) | <div>听自己的 哪有那么多争议啊 大概就是对自己是对的这种偏执的不放弃吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6118443)<br>暂无签名~<br>2014-04-11 19:59<br>赞(0) 踩(0) | <div><q><b>麦田说：</b></q></div> |
@@ -430,7 +430,7 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2086757)<br>一个有情有爱并努力的人<br>2014-01-26 04:38<br>赞(0) 踩(0) | <div>无争与世,不染于泥。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13174158)<br>jazzy hippop<br>2014-01-23 19:55<br>赞(0) 踩(0) | <div>国产的支持下~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13192284)<br>签名能吃？<br>2014-01-23 15:47<br>赞(0) 踩(0) | <div>太舒服了听着;;;e;;;</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7290390)<br>*´∀`*<br>2014-01-19 23:46<br>赞(0) 踩(0) | <div>一直都很喜欢你的作品啊~\(≧▽≦)/~听着就会让人心情舒畅，了不起的音乐！~不过也要注意身体哦妹子( ´･∀･｀)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7290390)<br>*´∀`*<br>2014-01-19 23:46<br>赞(0) 踩(0) | <div>一直都很喜欢你的作品啊~\(≧▽≦)/~听着就会让人心情舒畅，了不起的音乐！~<br>不过也要注意身体哦妹子( ´･∀･｀)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31285630)<br><br>2014-01-17 17:45<br>赞(1) 踩(0) | <div>纯音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31285630)<br><br>2014-01-17 17:44<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7649080)<br><br>2014-01-13 20:12<br>赞(4) 踩(0) | <div>嗯  这个还是很有才能和实力的  不像有些国内的 明明就没多大本事 却还有一大堆跟风狗在那瞎起哄</div> |
@@ -447,10 +447,10 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9175996)<br>春水初生，春林初盛，春风...<br>2013-12-18 12:14<br>赞(1) 踩(0) | <div>shirfine也喜欢A Theme For The Moon啊~~~我最喜欢Voice In The Eyes了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9437755)<br><br>2013-12-17 09:51<br>赞(1) 踩(0) | <div>歌曲听起来 很舒服 放松</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2752891)<br><br>2013-12-17 04:31<br>赞(0) 踩(0) | <div>Tears of Cherry Blossoms点赞~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-12-11 17:48<br>赞(1) 踩(0) | <div>期待Shirfine能继续出更多好音乐啊！当时没发现是华师的，后来竟然向你同学推荐你的曲子。。。作为coser很赞，作为编曲者更赞，这么灵动的音乐，加油！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-12-11 17:48<br>赞(1) 踩(0) | <div>期待Shirfine能继续出更多好音乐啊！当时没发现是华师的，后来竟然向你同学推荐你的曲子。。。<br>作为coser很赞，作为编曲者更赞，这么灵动的音乐，加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1515210)<br><br>2013-12-11 01:18<br>赞(3) 踩(0) | <div>第一次让我冒出去充钱下歌的想法呢=.=真的好棒！不只是音乐本身很赞，看到你和我同龄也给了我巨大的鼓舞！“无争与世,不染于泥。”加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/645302)<br>在彩色密封的半透明盒子里<br>2013-12-29 15:05<br>赞(0) 踩(0) | <div>我觉得很赞</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3834529)<br><br>2013-12-08 04:05<br>赞(1) 踩(0) | <div>“无争与世,不染于泥”没有一颗透明的心就做不出这样纯净温暖的音乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3834529)<br><br>2013-12-08 04:05<br>赞(1) 踩(0) | <div>“无争与世,不染于泥”<br>没有一颗透明的心就做不出这样纯净温暖的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18566621)<br>我是无肉不欢的素食主义者<br>2013-12-07 19:13<br>赞(0) 踩(0) | <div>哟，新头像好给力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290824)<br>你跳着蛋，我牵着妈<br>2013-12-06 14:26<br>赞(0) 踩(0) | <div>竟然是厦门的音乐人？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13086315)<br>love coding<br>2013-12-01 08:25<br>赞(1) 踩(0) | <div>Shirfine 要加油呢，变得越来越好~</div> |
@@ -507,7 +507,7 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6154720)<br>迷电 ！迷电！<br>2013-09-02 18:33<br>赞(1) 踩(0) | <div>中国音乐也能很棒！加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20485699)<br><br>2013-09-02 12:33<br>赞(2) 踩(0) | <div>“当你发现自己做的事情很有乐趣时，就会很开心，不会觉得累了。”的却是这样的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/913020)<br>悼词咏诵者<br>2013-09-01 16:21<br>赞(1) 踩(0) | <div>斯巴拉西~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9167810)<br>皿<br>2013-09-01 00:26<br>赞(1) 踩(0) | <div>今天无意点到一张专辑, 瞬间惊艳到了&amp;gt;w&amp;lt;没想到进到作者主页才被吓到.. 91的诶~~~~~~很喜欢!! ❀罒▽罒❀</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9167810)<br>皿<br>2013-09-01 00:26<br>赞(1) 踩(0) | <div>今天无意点到一张专辑, 瞬间惊艳到了&amp;gt;w&amp;lt;<br>没想到进到作者主页才被吓到.. 91的诶~~~~~~<br>很喜欢!! ❀罒▽罒❀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8880996)<br><br>2013-09-01 00:18<br>赞(1) 踩(0) | <div>收了，中国人的，这不科学。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19296206)<br><br>2013-08-31 22:44<br>赞(1) 踩(0) | <div>居然是91年的！这是要成为中国的July的节奏啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19296206)<br><br>2013-08-31 22:39<br>赞(0) 踩(0) | <div>不错啊，第一首曲子很劲爆。</div> |
@@ -560,12 +560,12 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1259401)<br><br>2013-07-11 22:47<br>赞(1) 踩(0) | <div>支持呀~！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6532179)<br>在海外吃土中...<br>2013-07-09 22:13<br>赞(1) 踩(0) | <div>国内的Jazz-hiphop，赞！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7180163)<br><br>2013-07-01 17:20<br>赞(1) 踩(0) | <div>中国 jazz-hiphop 重要一员</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7387192)<br>青春年少，我有梦想。<br>2013-06-30 19:35<br>赞(1) 踩(0) | <div>国内能有这么棒的Jazz-Hiphop 真心欣慰请继续做音乐吧俺支持你！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7387192)<br>青春年少，我有梦想。<br>2013-06-30 19:35<br>赞(1) 踩(0) | <div>国内能有这么棒的Jazz-Hiphop 真心欣慰<br>请继续做音乐吧<br>俺支持你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/990478)<br>「但愿人长久」<br>2013-06-28 07:38<br>赞(0) 踩(0) | <div>❤❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1368035)<br>只有音乐才是我的解药<br>2013-06-27 20:58<br>赞(1) 踩(0) | <div>！！！！！！你会越来越棒的，好姑娘~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12068445)<br>·<br>2013-06-27 00:02<br>赞(1) 踩(0) | <div>加油 ！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3725665)<br>Moonquake清欢<br>2013-06-26 20:00<br>赞(0) 踩(0) | <div>R</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886346)<br>#  蒸気住民<br>2013-06-26 15:50<br>赞(0) 踩(0) | <div>额呵呵 、贺喜 Shirfine 入驻 ~期待有新作品哦。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886346)<br>#  蒸気住民<br>2013-06-26 15:50<br>赞(0) 踩(0) | <div>额呵呵 、贺喜 Shirfine 入驻 ~<br><br>期待有新作品哦。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12141210)<br><br>2013-06-26 14:56<br>赞(1) 踩(0) | <div>国人 加嘞了油吧 ~围观</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7680420)<br>纯音控<br>2013-06-26 12:29<br>赞(1) 踩(0) | <div>终于入驻，好开心O(∩_∩)O~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6301880)<br>让心情叔给你扎一针！嚎！<br>2013-06-26 12:26<br>赞(1) 踩(0) | <div>提点意见，希望下一张专辑里融入一点中国风元素，比如古风、R B 等等。音乐会有更多人关注。</div> |
@@ -577,7 +577,7 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2551200)<br>我还没想好要写什么...<br>2013-06-26 10:20<br>赞(0) 踩(0) | <div>虎纠银</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10544845)<br><br>2013-06-05 16:23<br>赞(1) 踩(0) | <div>春姑娘  好喜欢你的风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6627082)<br>朝闻乐,夕死可矣<br>2013-05-29 14:32<br>赞(1) 踩(0) | <div>大神学业顺利！做独立影人也很厉害呢！顺心时候再来作曲吧！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6627082)<br>朝闻乐,夕死可矣<br>2013-05-04 03:00<br>赞(0) 踩(0) | <div>大神早休息！<a href="http://blog.xiami.com/?p=456" target="_blank">此消息来自于手机虾米</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6627082)<br>朝闻乐,夕死可矣<br>2013-05-04 03:00<br>赞(0) 踩(0) | <div>大神早休息！<br><br><a href="http://blog.xiami.com/?p=456" target="_blank">此消息来自于手机虾米</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10325604)<br><br>2013-04-29 23:21<br>赞(0) 踩(0) | <div>..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1211071)<br>音乐是我们共同的朋友。<br>2013-04-27 12:34<br>赞(0) 踩(0) | <div>啊！ 大神竟然踩了我的空间！受宠若惊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1211071)<br>音乐是我们共同的朋友。<br>2013-04-29 09:21<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
@@ -621,13 +621,13 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1012869)<br><br>2013-01-24 21:49<br>赞(1) 踩(0) | <div>国产的呢？好棒，重复听了好几遍</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6576168)<br><br>2013-01-22 08:45<br>赞(1) 踩(0) | <div>国产jazzhiphop。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12445554)<br>在音乐中寻求心灵的慰藉<br>2013-01-15 15:09<br>赞(1) 踩(0) | <div>让心灵平静下来</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3964540)<br>wx：Raeinx<br>2013-01-14 21:54<br>赞(1) 踩(0) | <div>我所知道的国内的很棒的原创：@Vanhci @fog @丁可 @α·Pav @石进,还有楼主.支持你们。Vanhci  α·Pav 楼主风格都偏日系</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886346)<br>#  蒸気住民<br>2013-01-11 17:25<br>赞(1) 踩(0) | <div>难得大陆的~~真不容易~ 赞！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3964540)<br>wx：Raeinx<br>2013-01-14 21:54<br>赞(1) 踩(0) | <div>我所知道的国内的很棒的原创：<br>@Vanhci @fog @丁可 @α·Pav @石进,还有楼主.支持你们。<br>Vanhci  α·Pav 楼主风格都偏日系</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886346)<br>#  蒸気住民<br>2013-01-11 17:25<br>赞(1) 踩(0) | <div>难得大陆的~~<br><br>真不容易~ 赞！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142169)<br>Ins：govi624<br>2013-01-11 10:37<br>赞(1) 踩(0) | <div>酷！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4032293)<br>记得我们变态的时候还很年...<br>2013-01-06 19:35<br>赞(1) 踩(0) | <div>居然是国产的，style好棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12281898)<br>villian<br>2013-01-06 12:17<br>赞(1) 踩(0) | <div>love</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/990478)<br>「但愿人长久」<br>2013-01-02 03:01<br>赞(1) 踩(0) | <div>仿佛在田野入睡  在海面跳舞  在空中翱翔  so beautiful</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3971084)<br>Life sucks，m...<br>2013-01-01 11:40<br>赞(1) 踩(0) | <div>happy new year：）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3971084)<br>Life sucks，m...<br>2013-01-01 11:40<br>赞(1) 踩(0) | <div>happy new year<br>：）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8578778)<br>我要增肥！！！<br>2012-12-31 15:02<br>赞(1) 踩(0) | <div>非常喜欢的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10677009)<br><br>2012-12-29 13:20<br>赞(1) 踩(0) | <div>非常喜欢的 音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8365825)<br> <br>2012-12-27 12:10<br>赞(1) 踩(0) | <div>旋律很喜欢</div> |
@@ -687,7 +687,7 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4485514)<br>共勉<br>2012-05-23 23:41<br>赞(1) 踩(0) | <div>真有才 ！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1814727)<br>Neverland<br>2012-05-24 15:15<br>赞(0) 踩(0) | <div>: )</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4485514)<br>共勉<br>2012-05-24 16:33<br>赞(0) 踩(0) | <div><q><b>Shirfine说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/654083)<br><br>2012-05-18 13:58<br>赞(0) 踩(0) | <div>：）哟哟~到此一游</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/654083)<br><br>2012-05-18 13:58<br>赞(0) 踩(0) | <div>：）哟哟~<br><br><br>到此一游</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1601163)<br>再会<br>2012-05-15 22:52<br>赞(1) 踩(0) | <div>白羊Shirfine</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/597569)<br>何必故作姿态<br>2012-05-15 21:56<br>赞(0) 踩(0) | <div>豆瓣 微博 xiami.... what\'s the next? I\'ll Follow You~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1596325)<br><br>2012-04-20 17:35<br>赞(1) 踩(0) | <div>春暖花开，头像好应景哇~~</div> |
@@ -712,7 +712,7 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-09-21 01:03<br>赞(1) 踩(0) | <div>背景音……</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-09-21 01:06<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2792443)<br><br>2011-09-16 14:13<br>赞(0) 踩(0) | <div>这位亲,你播放器里那是谁的音乐?~</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1814727)<br>Neverland<br>2011-09-16 15:27<br>赞(0) 踩(0) | <div>Muxu - Hishiko<a href="http://www.xiami.com/song/2820369" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2820369</a></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1814727)<br>Neverland<br>2011-09-16 15:27<br>赞(0) 踩(0) | <div>Muxu - Hishiko<br><a href="http://www.xiami.com/song/2820369" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2820369</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2792443)<br><br>2011-09-16 16:09<br>赞(0) 踩(0) | <div><q><b>Shirfine说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1654145)<br>成为一颗耀眼的星，即使是...<br>2011-09-14 12:13<br>赞(0) 踩(0) | <div>你是 学 美术的？  同是 搞艺术的  仔仔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1151921)<br>要啥自行车<br>2011-09-05 18:30<br>赞(0) 踩(0) | <div>求封面套图打包</div> |
@@ -723,7 +723,7 @@ Shirfine的音乐主要以自己的原创钢琴旋律为基础，融合弦乐、
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-09-07 00:18<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-09-07 00:28<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-09-07 00:30<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-08-26 12:01<br>赞(1) 踩(0) | <div>精选..人才..赞一个.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-08-26 12:01<br>赞(1) 踩(0) | <div>精选..<br>人才..<br>赞一个.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-08-26 13:32<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4226374)<br><br>2011-08-20 10:43<br>赞(1) 踩(0) | <div>很喜歡你的風格^^</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1814727)<br>Neverland<br>2011-08-20 10:49<br>赞(0) 踩(0) | <div>谢谢~= v =</div> |

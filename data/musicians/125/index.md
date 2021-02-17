@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5557fabfb774b51a282c2b3ca2b71c85.jpg)<br>陈小春](https://i.xiami.com/cxc) | **播放数**: 186198932<br>**粉丝数**: 79381<br>**评论数**: 973<br>**地区**: Hong Kong ,PRC 中国香港<br>**风格**: 国语流行 Mandarin Pop, 粤语流行 Cantopop<br> |
+| [![](../../images/musicians/5557fabfb774b51a282c2b3ca2b71c85.jpg)<br>陈小春](https://i.xiami.com/cxc) | **地区**: Hong Kong ,PRC 中国香港<br>**风格**: 国语流行 Mandarin Pop, 粤语流行 Cantopop<br>**播放数**: 186198932<br>**粉丝数**: 79381<br>**评论数**: 973<br> |
 
 ## 档案
 
@@ -102,8 +102,8 @@ TVB 劲歌金曲卓越表现大奖金奖<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319688150)<br>愿经典不被遗忘<br>2020-11-18 15:33<br>赞(0) 踩(0) | <div><img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320602232)<br>翠色连荒岸，烟姿入远楼。<br>2020-11-07 21:48<br>赞(0) 踩(0) | <div>感谢陈小春，让这首歌曲成为在我心里永久不变的美景朝阳。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60002910)<br>混喝等死<br>2020-11-03 00:27<br>赞(1) 踩(0) | <div>初中时期最喜欢的歌手</div> |
@@ -171,10 +171,10 @@ TVB 劲歌金曲卓越表现大奖金奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42305160)<br><br>2018-09-30 20:10<br>赞(0) 踩(0) | <div>山鸡哥演的好 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401818546)<br>我还没想好要写什么...<br>2018-09-23 12:48<br>赞(3) 踩(0) | <div>前天9.21去看了黄金兄弟，尽管没上映前就知道剧情不够爆炸，也必须去看，看的是情怀，整个剧没有让我觉得精彩的地方，直到响起了友情岁月，嗯，山鸡哥∙</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405716037)<br><br>2018-12-30 11:58<br>赞(0) 踩(0) | <div>我也看了，山鸡演技最好，在曾志伟面前那一跪一哭，表情到位，肢体语言到尾，没有香港老牌演员的那种套路式表演的浮夸</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351421684)<br><br>2018-09-23 03:43<br>赞(1) 踩(0) | <div>歌好聽！！戲好聽！！火山 小春   棒棒棒</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351421684)<br><br>2018-09-23 03:43<br>赞(1) 踩(0) | <div>歌好聽！！戲好聽！！<br>火山 小春   棒棒棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261464944)<br><br>2018-09-19 22:50<br>赞(0) 踩(0) | <div>信春哥，得永生，岁月无情，江湖永藏心底！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404196278)<br><br>2018-09-16 00:42<br>赞(0) 踩(0) | <div>春哥和采儿一定要幸福下去哟，否则不相信爱情啦！ <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400498037)<br>我还没想好要写什么...<br>2018-09-12 22:22<br>赞(1) 踩(0) | <div>我跟他的名字就差一个姓 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">我是女的好不 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png">喜欢痞子春哥</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400498037)<br>我还没想好要写什么...<br>2018-09-12 22:22<br>赞(1) 踩(0) | <div>我跟他的名字就差一个姓 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">我是女的好不 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"><br>喜欢痞子春哥</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110473354)<br><br>2018-09-09 17:12<br>赞(1) 踩(0) | <div>鸡哥好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329152667)<br><br>2018-09-07 12:30<br>赞(2) 踩(0) | <div>一个被低估的实力歌手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356110911)<br><br>2018-09-05 20:34<br>赞(2) 踩(0) | <div>客家人</div> |
@@ -204,7 +204,7 @@ TVB 劲歌金曲卓越表现大奖金奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354946181)<br><br>2018-05-02 23:30<br>赞(0) 踩(0) | <div>好听。期待你还出新歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333387911)<br><br>2018-04-29 08:11<br>赞(0) 踩(0) | <div>雅痞。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325542903)<br><br>2018-04-25 12:27<br>赞(0) 踩(0) | <div>不知道从什么时候喜欢他的歌，喜欢他的电影！后来知道她的老婆是谁，感觉她俩是那么的和谐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355620562)<br><br>2018-04-22 18:10<br>赞(1) 踩(0) | <div>谢谢您的回话，我喜欢的艺人很少，但您的电影和音乐我一直很喜欢，特别是鹿鼎记（个人觉得已经是经典了，西游记&amp;rarr;六小龄童老师；大话西游&amp;rarr;周星驰老师；鹿鼎记&amp;rarr;陈小春老师），感谢您把青春奉献在了好的作品上。祝您一直幸福健康。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355620562)<br><br>2018-04-22 18:10<br>赞(1) 踩(0) | <div>谢谢您的回话，我喜欢的艺人很少，但您的电影和音乐我一直很喜欢，特别是鹿鼎记（个人觉得已经是经典了，西游记&amp;rarr;六小龄童老师；大话西游&amp;rarr;周星驰老师；鹿鼎记&amp;rarr;陈小春老师），感谢您把青春奉献在了好的作品上。<br>祝您一直幸福健康。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357163035)<br><br>2018-04-16 09:42<br>赞(1) 踩(0) | <div>谢谢你的信息，一直以来都是看古惑仔长大 欣赏里面的义气 兄弟间的友情(因为现在的社会很少有这样的人) 最近看了爸爸去哪儿 觉得以前的春哥跟现在的感觉真的不一样 这就是有了家庭 婚姻的男人吧~ 我因为最近心情低落所以一直在听你的歌 无限量播放 (扑火)呵呵~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356061936)<br><br>2018-04-12 12:19<br>赞(0) 踩(0) | <div>来忘掉错对 来怀念过去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255297606)<br>我还没想好要写什么...<br>2018-04-10 13:55<br>赞(0) 踩(0) | <div>我叫山鸡，鸡（9-1）的鸡</div> |
@@ -222,7 +222,7 @@ TVB 劲歌金曲卓越表现大奖金奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351511185)<br>爱生活，爱拼搏，爱生活，...<br>2018-02-22 05:47<br>赞(2) 踩(0) | <div>陈小春是个烂货人物！我最不喜欢它！它代言的手表一点都不好！跑的太快了，其品质像陈小春一样，，， <img src="../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"> <img src="../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"> <img src="../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"> <img src="../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"> <img src="../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"> <img src="../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354452303)<br><br>2018-03-15 12:49<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349403612)<br>顺其自然<br>2018-02-18 15:34<br>赞(1) 踩(0) | <div>小春:我看TvB就关注你了，终于有出头的一天恭喜。又出歌我中意。做反黑又好看。祝步步高升，粉丝:同声同气。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348669449)<br>许墨哥哥<br>2018-02-13 21:07<br>赞(0) 踩(0) | <div>看第五季爸爸去哪儿就超级喜欢你  以前只知道你的算你狠  后来看了大结局上的时候才知道独家记忆也是你唱的  我翻了翻歌曲列表  看见了你的相依为命  2018.2.13真的喜欢你</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348669449)<br>许墨哥哥<br>2018-02-13 21:07<br>赞(0) 踩(0) | <div>看第五季爸爸去哪儿就超级喜欢你  以前只知道你的算你狠  后来看了大结局上的时候才知道独家记忆也是你唱的  我翻了翻歌曲列表  看见了你的相依为命  2018.2.13<br>真的喜欢你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348719405)<br><br>2018-02-08 21:31<br>赞(0) 踩(0) | <div>不得不说鸡哥真的是人生赢家！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343904147)<br>Jay chou<br>2018-01-24 08:23<br>赞(0) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324605761)<br><br>2018-01-22 23:28<br>赞(0) 踩(0) | <div>信春哥得永生 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -388,11 +388,11 @@ TVB 劲歌金曲卓越表现大奖金奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269993654)<br><br>2017-03-09 09:37<br>赞(0) 踩(0) | <div>春哥！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276607517)<br><br>2017-02-28 19:54<br>赞(0) 踩(0) | <div>喜欢的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266559542)<br><br>2017-02-26 03:06<br>赞(1) 踩(0) | <div>独家记忆</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260176390)<br><br>2017-02-25 14:26<br>赞(0) 踩(0) | <div>中 文 名： 陈小春外 文 名： Jordan chan别   名： 陈小臻国   籍： 中国民   族： 汉族血   型： A型</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260176390)<br><br>2017-02-25 14:26<br>赞(0) 踩(0) | <div>中 文 名： 陈小春<br>外 文 名： Jordan chan<br>别   名： 陈小臻<br>国   籍： 中国<br>民   族： 汉族<br>血   型： A型</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253567411)<br>音乐就像一场梦<br>2017-02-17 08:00<br>赞(0) 踩(0) | <div>只是静静地喜欢，淡淡地听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272904722)<br><br>2017-02-13 19:26<br>赞(0) 踩(0) | <div>11</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42631015)<br>亲爱的虾米，直到世界尽头...<br>2017-02-11 19:17<br>赞(0) 踩(0) | <div>你是个有情有义的汉子！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256144073)<br><br>2017-02-06 10:17<br>赞(0) 踩(0) | <div>。卧槽，偶像00y</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256144073)<br><br>2017-02-06 10:17<br>赞(0) 踩(0) | <div>。<br><br>卧槽，偶像<br>00<br>y</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269544902)<br><br>2017-01-31 17:06<br>赞(1) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/f10e8c35366eb553db3d665e8b324caf.png"> <img src="../../images/comments/7607820f67e63b694e1e455146cb9efb.png"> <img src="../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png"> <img src="../../images/comments/81757a78445f427ef5169932854221db.png"> <img src="../../images/comments/58f25f67f72847b1f16f261712b7c135.png"> <img src="../../images/comments/9f86ddd813e833dbd6d6093560c22d0e.png"> <img src="../../images/comments/dfb0148e6afa9a1e80d491fd5b6240dd.png"> <img src="../../images/comments/ae0feff949a069865baa504ae10bbffe.png"> <img src="../../images/comments/83b53edde39779999a1e29c6ceaa9a88.png"> <img src="../../images/comments/18dc90e62c62d50174953431fd7ccb9a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3553387)<br> <br>2017-01-30 18:50<br>赞(0) 踩(0) | <div>估计你是有专业团队在虾米里回复听众，我收藏你的歌是因为你的这首《相依为命》虽然与你其他歌风格不一，也与你自己风格不同，但感性耐听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265727260)<br><br>2017-01-25 17:37<br>赞(0) 踩(0) | <div>陈小春啊</div> |
@@ -524,7 +524,7 @@ TVB 劲歌金曲卓越表现大奖金奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39198775)<br>He ate my he...<br>2015-08-01 22:12<br>赞(51) 踩(0) | <div>看到应采儿的时候扑克脸笑成了傻逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12354680)<br>我还没想好要写什么...<br>2015-08-01 01:36<br>赞(4) 踩(0) | <div>暴怒的痞子和幸福的孩子之间只是一线之差，那一线就是今生今世因缘而来“收”你的人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43358920)<br>别来无恙<br>2015-07-31 13:16<br>赞(3) 踩(0) | <div>应采儿很幸福</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8096482)<br> <br>2015-07-11 20:09<br>赞(2) 踩(0) | <div>陈小春的歌曲道路上，都是扮演着这么一个角色~独家记忆我爱的人献世没那种命一定要幸福取消资格失恋王一句到尾爱情失败者~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8096482)<br> <br>2015-07-11 20:09<br>赞(2) 踩(0) | <div>陈小春的歌曲道路上，都是扮演着这么一个角色~<br>独家记忆<br>我爱的人<br>献世<br>没那种命<br>一定要幸福<br>取消资格<br>失恋王<br>一句到尾<br><br>爱情失败者~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11038315)<br> <br>2015-07-10 22:54<br>赞(0) 踩(0) | <div>小时候喜欢的那些唱歌的人如今咋都听不到啥声音啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4702457)<br>醉生梦死<br>2015-07-08 01:48<br>赞(1) 踩(0) | <div>可惜你做人太假....所以就到这了！你不是山鸡，你是鸭！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42989712)<br>烟雨却低回，望来终不来。<br>2015-07-31 19:31<br>赞(0) 踩(0) | <div>为何说他做人太假</div> |
@@ -565,7 +565,7 @@ TVB 劲歌金曲卓越表现大奖金奖<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36409521)<br>FasL与Fas<br>2014-10-15 14:53<br>赞(0) 踩(0) | <div>我都听了好几天了。从陆夫人那过来的你不是一个人！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41137372)<br><br>2014-09-12 11:45<br>赞(0) 踩(0) | <div>男人味</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40939763)<br>生活<br>2014-09-07 01:31<br>赞(0) 踩(0) | <div>个性</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12376831)<br>好像这是叫女流氓(ฅ'ω...<br>2014-09-05 16:41<br>赞(1) 踩(0) | <div>长的不是帅的，但是很有味道的。音色不算好听的，但是很有感情的。从初中就听啦，伦家现在都毕业工作了。╮(╯▽╰)╭</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12376831)<br>好像这是叫女流氓(ฅ'ω...<br>2014-09-05 16:41<br>赞(1) 踩(0) | <div>长的不是帅的，但是很有味道的。音色不算好听的，但是很有感情的。<br>从初中就听啦，伦家现在都毕业工作了。╮(╯▽╰)╭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40860453)<br>凭感觉，也凭颜。<br>2014-09-05 02:36<br>赞(0) 踩(0) | <div>太多 回忆</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13072477)<br>找寻一个真爱<br>2014-09-04 22:18<br>赞(0) 踩(0) | <div>山鸡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3530854)<br><br>2014-09-01 22:28<br>赞(0) 踩(0) | <div>曾经的最爱啊！</div> |
@@ -649,7 +649,7 @@ TVB 劲歌金曲卓越表现大奖金奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11162135)<br><br>2013-05-24 21:05<br>赞(0) 踩(0) | <div>献世，沦陷。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5966773)<br><br>2013-05-20 12:50<br>赞(0) 踩(0) | <div>喜欢听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3369835)<br><br>2013-05-19 11:56<br>赞(0) 踩(0) | <div>只为了那种自嘲的感觉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2142546)<br>我还没想好要写什么...<br>2013-05-18 21:28<br>赞(2) 踩(0) | <div>感觉真男人的爱只有小春能唱出那个味道。不是那种优越的男人，不是那种细腻的男人，够爷们够粗糙够深情，即使失恋也是那般粗犷的悲叹，那种感觉。。。无法言传</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2142546)<br>我还没想好要写什么...<br>2013-05-18 21:28<br>赞(2) 踩(0) | <div>感觉真男人的爱只有小春能唱出那个味道。<br>不是那种优越的男人，不是那种细腻的男人，够爷们够粗糙够深情，即使失恋也是那般粗犷的悲叹，那种感觉。。。无法言传</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2017890)<br>当岁月开出执迷不悟的花~<br>2013-05-13 11:51<br>赞(1) 踩(0) | <div>谁是谁的独家回忆，占据了多少心里的距离……</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5646786)<br>我还没想好要写什么...<br>2013-09-28 04:25<br>赞(0) 踩(0) | <div>lei ben.......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10196232)<br>我就是很聪明，什么都留不...<br>2013-05-11 17:58<br>赞(0) 踩(0) | <div>好男人</div> |
@@ -867,7 +867,7 @@ TVB 劲歌金曲卓越表现大奖金奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1742284)<br>♂<br>2011-08-07 19:03<br>赞(0) 踩(0) | <div>是山鸡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1225682)<br><br>2011-08-07 17:11<br>赞(0) 踩(0) | <div>由杰伦作曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2520496)<br><br>2011-08-04 17:56<br>赞(0) 踩(0) | <div>苦情歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/787430)<br>ne-yo万岁<br>2011-08-02 23:50<br>赞(0) 踩(0) | <div>yugezanziliaodeZYIGEZANZILIAODE</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/787430)<br>ne-yo万岁<br>2011-08-02 23:50<br>赞(0) 踩(0) | <div>yugezanziliaodeZYIGEZANZILIAOD<br>E</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4728347)<br><br>2011-08-02 20:56<br>赞(0) 踩(0) | <div>感情悲歌男</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5094479)<br><br>2011-08-01 16:37<br>赞(0) 踩(0) | <div>akoe</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17466)<br>不以物喜不以己悲<br>2011-07-30 14:37<br>赞(0) 踩(0) | <div>声音很好听啊啊啊啊 啊</div> |
@@ -1054,8 +1054,8 @@ TVB 劲歌金曲卓越表现大奖金奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1423731)<br><br>2011-01-11 08:35<br>赞(0) 踩(0) | <div>喜欢他的《独家记忆》等</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1415115)<br><br>2011-01-08 13:33<br>赞(0) 踩(0) | <div>喜欢酷酷的小春</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1747214)<br><br>2010-12-21 21:53<br>赞(0) 踩(0) | <div>独家记忆</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2010-12-15 18:34<br>赞(0) 踩(0) | <div>喂喂喂………………虾小编把我们小春的头像换了吧这张多寒颤啊·</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2010-12-15 18:33<br>赞(0) 踩(0) | <div>是的，你的歌伴随着我的成长，</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2010-12-15 18:34<br>赞(0) 踩(0) | <div>喂喂喂………………<br>虾小编把我们小春的头像换了吧<br>这张多寒颤啊·</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2010-12-15 18:33<br>赞(0) 踩(0) | <div>是的，<br>你的歌伴随着我的成长，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88942)<br>暂无签名~<br>2010-11-15 14:52<br>赞(0) 踩(0) | <div>山鸡哥都结婚啦...</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2010-12-15 18:32<br>赞(0) 踩(0) | <div>……</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1378940)<br><br>2010-12-27 19:16<br>赞(0) 踩(0) | <div>是呀</div> |
@@ -1070,15 +1070,15 @@ TVB 劲歌金曲卓越表现大奖金奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1015488)<br><br>2010-06-14 05:00<br>赞(0) 踩(0) | <div>超喜欢你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61907)<br><br>2010-06-10 10:43<br>赞(0) 踩(0) | <div>对这种有点坏坏感觉的男生，总是没有抵抗力。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634524)<br>我还没想好要写什么...<br>2010-05-02 20:31<br>赞(0) 踩(0) | <div>怎么听着很难受啊TT</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/549846)<br><br>2010-02-19 18:47<br>赞(0) 踩(0) | <div>春春..支持你.信春哥.得音乐.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351661)<br>世间最美的莫不过“遇”<br>2009-11-14 03:42<br>赞(1) 踩(0) | <div>没有人可以和他一样自嘲的唱歌他的声音并不是那种特别华美的但是他的悲情情歌却是真的很能抓住你听时的瞬间所有情绪和着他想要告诉你的此首歌他的情感一起喜怒哀乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/549846)<br><br>2010-02-19 18:47<br>赞(0) 踩(0) | <div>春春..支持你.<br>信春哥.得音乐.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351661)<br>世间最美的莫不过“遇”<br>2009-11-14 03:42<br>赞(1) 踩(0) | <div>没有人可以和他一样自嘲的唱歌<br>他的声音并不是那种特别华美的<br>但是他的悲情情歌却是真的很能抓住你听时的瞬间所有情绪<br>和着他想要告诉你的此首歌他的情感一起喜怒哀乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/372804)<br><br>2009-12-01 00:47<br>赞(0) 踩(0) | <div>精辟！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300811)<br>Hello world.<br>2010-06-06 08:11<br>赞(0) 踩(0) | <div>可是为什么呢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304012)<br>女人说到做到<br>2009-11-06 00:05<br>赞(0) 踩(0) | <div>加油，永远支持你，很man的小春~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435406)<br>我还没想好要写什么...<br>2009-10-17 21:26<br>赞(1) 踩(0) | <div>他爱演喜剧，唱的却都是苦情歌。听他唱歌，总觉得就是在听他讲自己的伤心故事。不做作，很动人。相比《独家记忆》来说，我更喜欢的是粤语版的《我不是伟人》。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343665)<br><br>2009-08-23 22:29<br>赞(0) 踩(0) | <div>封面果然有点不好呵呵加油啊春爷，很喜欢你的歌啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343665)<br><br>2009-08-23 22:29<br>赞(0) 踩(0) | <div>封面果然有点不好<br>呵呵<br>加油啊春爷，很喜欢你的歌啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10923)<br><br>2009-08-19 13:47<br>赞(0) 踩(0) | <div>虾米给陈小春的封面选的太差额。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7370)<br>Léon<br>2009-04-25 13:53<br>赞(0) 踩(0) | <div>还是挺喜欢他的歌。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61089)<br><br>2009-02-25 21:19<br>赞(0) 踩(0) | <div>陈小春英文名：Jordan chan出生地：香港祖籍：广东省惠州市惠阳区生日：1967年7月8日生肖：羊星座：巨蟹座血型：A型身高：178cm体重：69kg学历：博允中学家庭状况：父母，一弟，二妹座右铭：岂能尽如人意 但求无愧于心</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61089)<br><br>2009-02-25 21:19<br>赞(0) 踩(0) | <div>陈小春<br>英文名：Jordan chan<br>出生地：香港<br>祖籍：广东省惠州市惠阳区<br>生日：1967年7月8日<br>生肖：羊<br>星座：巨蟹座<br>血型：A型<br>身高：178cm<br>体重：69kg<br>学历：博允中学<br>家庭状况：父母，一弟，二妹<br>座右铭：岂能尽如人意 但求无愧于心</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211811)<br>我们是我们自己。<br>2010-04-28 16:49<br>赞(0) 踩(0) | <div>真男人！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61089)<br><br>2009-02-25 21:16<br>赞(0) 踩(0) | <div>超爱陈小春</div> |

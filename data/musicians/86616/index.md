@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9a45395803eb42db74170bb01880523a.jpg)<br>海生](https://i.xiami.com/haisheng) | **播放数**: 47152483<br>**粉丝数**: 2264<br>**评论数**: 105<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/9a45395803eb42db74170bb01880523a.jpg)<br>海生](https://i.xiami.com/haisheng) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 47152483<br>**粉丝数**: 2264<br>**评论数**: 105<br> |
 
 ## 档案
 
@@ -110,8 +110,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44653230)<br><br>2020-12-24 21:39<br>赞(0) 踩(0) | <div>吃辣椒也会痛  越疼也爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419733830)<br><br>2020-09-24 07:53<br>赞(0) 踩(0) | <div>每次聽這首歌心好痛，感情你認真就輸了，輸得好慘</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442017046)<br>人生无奈<br>2020-04-05 00:51<br>赞(0) 踩(0) | <div>真的很好听，也不知道听了几次</div> |

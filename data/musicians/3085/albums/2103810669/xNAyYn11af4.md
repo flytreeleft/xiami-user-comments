@@ -69,8 +69,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32905999)<br><br>2021-02-05 00:25<br>赞(0) 踩(0) | <div>每首收藏都来留言下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46514646)<br><br>2021-02-04 23:39<br>赞(0) 踩(0) | <div>永远不要被他们打败。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1955060)<br><br>2020-11-14 12:47<br>赞(1) 踩(0) | <div>管乐一出来，妥了</div> |
@@ -87,7 +87,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250678665)<br><br>2020-05-13 08:12<br>赞(1) 踩(0) | <div>听了前奏就有想继续的冲动！ <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419953009)<br><br>2020-03-12 09:32<br>赞(0) 踩(0) | <div>581</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3564226)<br>我想想..<br>2020-03-05 17:07<br>赞(2) 踩(0) | <div>好听好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/130675464)<br>能治愈我的 从来都不是时...<br>2020-01-29 00:40<br>赞(2) 踩(0) | <div>你去另一个世界的28天我也终于不再闭上眼睛都是你的样子愿另一个世界遇见的都是爱你的人goodbye my friend2020 提醒我们的都是珍惜眼前人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/130675464)<br>能治愈我的 从来都不是时...<br>2020-01-29 00:40<br>赞(2) 踩(0) | <div>你去另一个世界的28天<br>我也终于不再闭上眼睛都是你的样子<br><br>愿另一个世界遇见的都是爱你的人<br>goodbye my friend<br><br>2020 提醒我们的都是珍惜眼前人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331625266)<br>曲尽陈情...<br>2020-01-13 07:05<br>赞(1) 踩(0) | <div>nice</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379437477)<br>与其苟延残喘，不如纵情燃...<br>2019-12-20 17:56<br>赞(0) 踩(0) | <div>永远不要被他们打败</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9890851)<br>签名是一种态度，我想我可...<br>2019-11-17 22:14<br>赞(0) 踩(0) | <div>雷鬼爵士朋克说唱纯音乐</div> |
@@ -116,7 +116,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350971976)<br>呼草！睡觉！多笑！<br>2019-04-17 23:02<br>赞(0) 踩(0) | <div>待你两难</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354456649)<br><br>2019-04-17 22:48<br>赞(113) 踩(0) | <div>请大家继续支持我们的作品，谢谢大家！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139965284)<br><br>2019-07-19 18:00<br>赞(0) 踩(0) | <div>大师球，捕捉</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364631290)<br><br>2019-08-12 17:50<br>赞(0) 踩(0) | <div>通过乐队的夏天，很自责自己这些年错过了痛仰。最爱的乐队是痛仰，这是我们的宝藏。也许每个中国人都应该因为中国有面孔和新裤子而自豪，但是对于痛仰就是另外的一个感觉，我们无需与人道，痛仰可以无声任意游走于我们心间，把人间遗落的悲情和美好都串联起来。听痛仰的感觉是我永远觉得空落落地少了点什么，我想象成他的独有的特点，与那些刚刚好比较起来是“”缺失“”，但永远不别扭，这种高级的克制，和那些让你感觉刚刚好的音乐不管是温情的或者发泄的不一样。在一些常规歌曲里过度部分，我可以自豪地拿掉一点，别的歌常规的反复在这里变成多个重复。永远不会让你觉得多！！认同感和距离感真的是完美无瑕！</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364631290)<br><br>2019-08-12 17:50<br>赞(0) 踩(0) | <div>通过乐队的夏天，很自责自己这些年错过了痛仰。最爱的乐队是痛仰，这是我们的宝藏。也许每个中国人都应该因为中国有面孔和新裤子而自豪，但是对于痛仰就是另外的一个感觉，我们无需与人道，痛仰可以无声任意游走于我们心间，把人间遗落的悲情和美好都串联起来。<br>听痛仰的感觉是我永远觉得空落落地少了点什么，我想象成他的独有的特点，与那些刚刚好比较起来是“”缺失“”，但永远不别扭，这种高级的克制，和那些让你感觉刚刚好的音乐不管是温情的或者发泄的不一样。<br>在一些常规歌曲里过度部分，我可以自豪地拿掉一点，别的歌常规的反复在这里变成多个重复。<br>永远不会让你觉得多！！认同感和距离感真的是完美无瑕！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364631290)<br><br>2019-08-28 09:53<br>赞(0) 踩(0) | <div>中场战事</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250224779)<br><br>2019-10-13 14:01<br>赞(0) 踩(0) | <div>虎哥多出点歌啊！爱死了！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376702426)<br><br>2020-09-12 22:19<br>赞(0) 踩(0) | <div>假的痛痒</div> |
@@ -145,16 +145,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15788963)<br>毒°<br>2018-12-22 13:13<br>赞(0) 踩(0) | <div>㊣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336605198)<br><br>2018-12-17 20:45<br>赞(0) 踩(0) | <div>为什么要取消……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12572331)<br>只有音乐才是我的解药<br>2018-12-14 13:22<br>赞(0) 踩(0) | <div>在无数寻梦人的中转站，我的羞愧不值一提，催促着我继续上路 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2071591)<br><br>2018-12-02 20:38<br>赞(2) 踩(0) | <div>干脆叫痛改乐队得了你们成天这么跟风改风格怎么对得起我们当初攒生活费买的CD和T恤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2071591)<br><br>2018-12-02 20:38<br>赞(2) 踩(0) | <div>干脆叫痛改乐队得了<br>你们成天这么跟风改风格<br>怎么对得起我们当初攒生活费买的CD和T恤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13470138)<br>我还没想好要写什么...<br>2018-11-29 18:12<br>赞(0) 踩(0) | <div>我们都是花花</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134880598)<br>未了之事 我辈可了 请公...<br>2018-11-28 15:24<br>赞(0) 踩(0) | <div>一地金 听天由命</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8474717)<br>暂无签名~<br>2018-11-28 12:21<br>赞(0) 踩(0) | <div>爱上德华</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11534697)<br>色彩和温度<br>2018-11-14 02:33<br>赞(1) 踩(0) | <div>好多的他们我要一个一个把他们都打败然后永生</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11534697)<br>色彩和温度<br>2018-11-14 02:33<br>赞(1) 踩(0) | <div>好多的他们<br>我要一个一个把他们都打败<br>然后永生</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74401820)<br>能被风带走的我都不要<br>2018-11-12 17:25<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297684044)<br> <br>2018-10-29 12:25<br>赞(1) 踩(0) | <div>前奏有点长了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14854000)<br><br>2018-10-28 09:04<br>赞(0) 踩(0) | <div>怎样才能把自己打开！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43967908)<br>人生匆匆而过<br>2019-01-21 23:15<br>赞(0) 踩(0) | <div>解剖啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7206504)<br>一天两包中南海<br>2018-10-23 01:10<br>赞(2) 踩(0) | <div>等像热捧民谣一样热捧雷鬼的时候，人们又会发现我们在开发别的领域。--- 虎勃马利</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7206504)<br>一天两包中南海<br>2018-10-23 01:10<br>赞(2) 踩(0) | <div>等像热捧民谣一样热捧雷鬼的时候，人们又会发现我们在开发别的领域。<br><br><br>--- 虎勃马利</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12525285)<br>为了重新认识自己，故删除...<br>2019-04-21 00:39<br>赞(0) 踩(0) | <div>本来想鄙视一波，看到最后署名的时候我开心的笑出了声。抱歉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257563)<br>只有一个opt的距离<br>2018-10-18 06:56<br>赞(0) 踩(0) | <div>一听就是那个味儿 舒坦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256459233)<br>我还没想好要写什么...<br>2018-10-09 22:49<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
@@ -177,7 +177,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350268310)<br>夏洛特烦恼<br>2018-08-16 09:57<br>赞(0) 踩(0) | <div>雷鬼？小惊喜。。。 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80964624)<br>70后小伙  听到极致<br>2018-08-15 22:47<br>赞(0) 踩(0) | <div>这首歌曲必须点赞，单曲循环</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5773358)<br><br>2018-08-15 14:39<br>赞(1) 踩(0) | <div>惊叹相遇的一刻，不惧与你渐行渐远，再见，痛仰。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122161440)<br><br>2018-08-13 15:09<br>赞(2) 踩(0) | <div>我要做神仙 我驾鹤飞天我点石成金 我妙不可言</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122161440)<br><br>2018-08-13 15:09<br>赞(2) 踩(0) | <div>我要做神仙 我驾鹤飞天<br>我点石成金 我妙不可言</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33888689)<br>小飞侠前来报道！<br>2018-08-12 17:12<br>赞(2) 踩(0) | <div>都是些有故事的人儿 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251036091)<br>五月天的超狂热粉丝<br>2018-08-10 09:10<br>赞(0) 踩(0) | <div>痛仰的唱法有点英文的味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117532352)<br> hey<br>2018-08-08 14:49<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
@@ -191,7 +191,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246180379)<br> <br>2018-07-25 08:35<br>赞(0) 踩(0) | <div>前奏满分</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240516816)<br>我还没想好要写什么...<br>2018-07-24 20:07<br>赞(0) 踩(0) | <div>✌️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283895703)<br>神.<br>2018-07-24 18:22<br>赞(1) 踩(0) | <div>开头还不错，可是等唱起来的时候我就不想听了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285278747)<br><br>2018-07-23 22:47<br>赞(1) 踩(0) | <div>点石不能成金触发总能生情石头到处可见女人总留头发</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285278747)<br><br>2018-07-23 22:47<br>赞(1) 踩(0) | <div>点石不能成金<br>触发总能生情<br>石头到处可见<br>女人总留头发</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29169792)<br> <br>2018-07-23 20:52<br>赞(1) 踩(0) | <div>点我 免费下载～[带墨镜笑]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/152444024)<br><br>2018-07-23 16:38<br>赞(0) 踩(0) | <div>国内的雷鬼太吵，嘈杂。国内雷鬼看云南。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322955669)<br><br>2018-07-21 20:04<br>赞(1) 踩(0) | <div>很不错偶</div> |
@@ -205,7 +205,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318265589)<br><br>2018-07-20 20:28<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194243798)<br>我見過妳麽<br>2018-07-20 18:34<br>赞(3) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376143121)<br><br>2018-07-20 17:30<br>赞(2) 踩(0) | <div>湘有女侠 墨泼匪首</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1721486)<br>我还没想好要写什么...<br>2018-07-20 17:23<br>赞(1) 踩(0) | <div>虎哥这唱功 被战争贩子那句吓到了这词有点对不住这曲了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1721486)<br>我还没想好要写什么...<br>2018-07-20 17:23<br>赞(1) 踩(0) | <div>虎哥这唱功 被战争贩子那句吓到了<br>这词有点对不住这曲了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292785222)<br>F**k<br>2018-07-20 11:51<br>赞(2) 踩(0) | <div>赶紧的把热评挤下去，啥玩意儿啊是&amp;hellip;&amp;hellip;来听歌的还是来卖萌的ヽ( ￣д￣;)ノ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102965504)<br>卑鄙是卑鄙者的通行证，高...<br>2018-07-20 11:36<br>赞(2) 踩(0) | <div>雷鬼痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35173345)<br>我还没想好要写什么...<br>2018-07-20 09:57<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -237,13 +237,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243089297)<br> <br>2018-07-19 17:12<br>赞(1) 踩(0) | <div>很老的片了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50882050)<br><br>2018-07-19 17:01<br>赞(1) 踩(0) | <div>听歌儿就听歌儿，哪儿乐么多废话</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27535416)<br>她说 要是不心中有一口怨...<br>2018-07-19 16:57<br>赞(4) 踩(0) | <div>你看那些&amp;ldquo;有趣&amp;rdquo;又好玩儿的人，哪个不是尽着天性去活。不端着，不拧巴，不刻意，不遮掩。精神舒张开来，一切都自然而然地流露。 ​​​</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301436278)<br>青山流水处只愿尸骨埋<br>2018-07-19 15:02<br>赞(3) 踩(0) | <div>有些词 有些歌有它所承受的内涵和寓意但有些词 有些歌就是当时脑海里的翻涌它可以有无数种理解因为每一个人听的对它的感受都不一样我选择不去过分解读（真的不知道词是什么含义）就比如 记者问 鲍勃迪伦你的 暴雨将至 是不是预示着某场政治运动鲍勃迪伦：暴雨就是很大的雨没有其他意思多点简单多点喜欢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301436278)<br>青山流水处只愿尸骨埋<br>2018-07-19 15:02<br>赞(3) 踩(0) | <div>有些词 有些歌<br>有它所承受的内涵和寓意<br>但有些词 有些歌<br>就是当时脑海里的翻涌<br>它可以有无数种理解<br>因为每一个人听的<br>对它的感受都不一样<br>我选择不去过分解读（真的不知道词是什么含义）<br>就比如 记者问 鲍勃迪伦<br>你的 暴雨将至 是不是预示着某场政治运动<br>鲍勃迪伦：暴雨就是很大的雨<br>没有其他意思<br><br>多点简单<br>多点喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265709950)<br><br>2018-07-19 14:22<br>赞(0) 踩(0) | <div>声音好听，很单纯的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363433615)<br><br>2018-07-19 14:17<br>赞(0) 踩(0) | <div>点石成金，夕福 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168493198)<br> <br>2018-07-19 11:07<br>赞(0) 踩(0) | <div>相信这首歌还要传唱多久？forever</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168493198)<br> <br>2018-07-19 11:07<br>赞(0) 踩(0) | <div>相信这首歌还要传唱多久？<br>forever</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378359313)<br>我还没想好要写什么...<br>2018-07-19 10:42<br>赞(0) 踩(0) | <div>前奏赞 其他emmm</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378620223)<br><br>2018-07-19 10:23<br>赞(0) 踩(0) | <div>心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375283005)<br>天南地北四方客  万水千...<br>2018-07-19 09:52<br>赞(27) 踩(0) | <div>转型期的不适和非议，难免了。时光在流逝，我们和喜爱乐队，一起成长，已经足够好了。感谢生活。感谢痛仰。感谢我们自己。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375283005)<br>天南地北四方客  万水千...<br>2018-07-19 09:52<br>赞(27) 踩(0) | <div>转型期的不适和非议，难免了。<br>时光在流逝，我们和喜爱乐队，一起成长，已经足够好了。<br>感谢生活。<br>感谢痛仰。<br>感谢我们自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37142358)<br>crap of the ...<br>2018-07-19 09:45<br>赞(0) 踩(0) | <div>这个前奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37142358)<br>crap of the ...<br>2018-07-19 09:45<br>赞(1) 踩(0) | <div>我以为点进了卡奇杜还是什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49086977)<br>哦<br>2018-07-19 08:24<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -273,7 +273,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6646019)<br><br>2018-07-18 17:56<br>赞(3) 踩(0) | <div>是马赛克的卓越吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203259740)<br><br>2018-07-18 19:37<br>赞(0) 踩(0) | <div>是的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1982283)<br> <br>2018-07-18 17:05<br>赞(18) 踩(0) | <div>全是旧歌的影子</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248751408)<br>饭干的很认真，热爱的事呢<br>2018-07-18 15:23<br>赞(1) 踩(0) | <div>早上担心世界大战晚上惋惜动物灭绝</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248751408)<br>饭干的很认真，热爱的事呢<br>2018-07-18 15:23<br>赞(1) 踩(0) | <div>早上担心世界大战<br>晚上惋惜动物灭绝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/803705)<br><br>2018-07-18 15:05<br>赞(2) 踩(0) | <div>越来越不痛不痒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374833106)<br><br>2018-07-18 14:49<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53633698)<br> <br>2018-07-18 13:53<br>赞(1) 踩(0) | <div>还是热爱</div> |
@@ -322,8 +322,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376716063)<br><br>2018-07-18 07:59<br>赞(1) 踩(0) | <div>什么啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347539510)<br>背叛<br>2018-07-18 07:55<br>赞(1) 踩(0) | <div>，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61218084)<br>Myyy音樂!!!<br>2018-07-18 07:53<br>赞(1) 踩(0) | <div>好了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292399745)<br>走进新时代，与时俱进。快...<br>2018-07-18 07:52<br>赞(2) 踩(0) | <div>♬♩♫♪☻(●&amp;acute;&amp;forall;｀●）☺♪♫♩♬✌三✌( '&amp;omega;' )✌三✌า(&amp;deg;﹏&amp;deg;า )热到融化</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376418882)<br>音乐，总是感觉那么好<br>2018-07-18 07:48<br>赞(3) 踩(0) | <div>点石成金是不存在的，但是努力是永强恒的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292399745)<br>走进新时代，与时俱进。快...<br>2018-07-18 07:52<br>赞(2) 踩(0) | <div>♬♩♫♪☻(●&amp;acute;&amp;forall;｀●）☺♪♫♩♬<br>✌三✌( '&amp;omega;' )✌三✌า(&amp;deg;﹏&amp;deg;า )热到融化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376418882)<br>音乐，总是感觉那么好<br>2018-07-18 07:48<br>赞(3) 踩(0) | <div>点石成金是不存在的，但是努力是永强<br>恒的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12009507)<br>一步步完成最美残缺。<br>2018-07-18 07:48<br>赞(3) 踩(0) | <div>我不想离开，我想留在虾米，所以咱能争气点拿下版权嘛！！！又下载不了QAQ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332605217)<br><br>2018-07-18 07:41<br>赞(7) 踩(0) | <div>点石成金</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19435169)<br>保持平衡<br>2018-07-18 07:35<br>赞(3) 踩(0) | <div>我要发达</div> |
@@ -407,7 +407,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349329683)<br><br>2018-07-17 23:38<br>赞(0) 踩(0) | <div>好听 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49778097)<br>SINA：嗎啡緩釋片<br>2018-07-17 23:37<br>赞(1) 踩(0) | <div>今日幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378915725)<br><br>2018-07-17 23:33<br>赞(0) 踩(0) | <div>好听，好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45652374)<br>Love you mor...<br>2018-07-17 23:32<br>赞(1) 踩(0) | <div>我的手上划了一口子你的手上也划一口子这样我们就是两口子了 ​​​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45652374)<br>Love you mor...<br>2018-07-17 23:32<br>赞(1) 踩(0) | <div>我的手上划了一口子<br>你的手上也划一口子<br>这样我们就是两口子了 ​​​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325151303)<br><br>2018-07-17 23:26<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319757636)<br><br>2018-07-17 23:25<br>赞(1) 踩(0) | <div>可以，没毛太</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344308799)<br><br>2018-07-17 23:23<br>赞(0) 踩(0) | <div>好听，有故事的声音</div> |
@@ -459,7 +459,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323911365)<br><br>2018-07-18 07:55<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378250753)<br><br>2018-07-19 09:51<br>赞(0) 踩(0) | <div><q><b>鹏说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378250753)<br><br>2018-07-19 09:51<br>赞(0) 踩(0) | <div>po</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378250753)<br><br>2018-07-19 09:53<br>赞(0) 踩(0) | <div>0了9了婆婆877..40哦80&amp;middot;0oz0909m</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378250753)<br><br>2018-07-19 09:53<br>赞(0) 踩(0) | <div>0<br>了9了婆婆877<br>..40哦80&amp;middot;0o<br>z09<br>09m</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378473262)<br><br>2018-07-19 09:59<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378250753)<br><br>2018-07-19 09:59<br>赞(0) 踩(0) | <div><q><b>Lillian说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378250753)<br><br>2018-07-19 10:02<br>赞(0) 踩(0) | <div><q><b>鹏说：</b></q></div> |
@@ -479,7 +479,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328776774)<br><br>2018-07-17 20:47<br>赞(1) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123246788)<br>Music is my ...<br>2018-07-17 20:45<br>赞(2) 踩(0) | <div>好听！ <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png">[带墨镜笑]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209860741)<br><br>2018-07-17 20:44<br>赞(1) 踩(0) | <div>好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43467269)<br>一念净心，花开遍世界。<br>2018-07-17 20:41<br>赞(2) 踩(0) | <div>贝斯，贝斯，贝斯节奏，节奏，节奏喜欢，喜欢，喜欢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43467269)<br>一念净心，花开遍世界。<br>2018-07-17 20:41<br>赞(2) 踩(0) | <div>贝斯，贝斯，贝斯<br>节奏，节奏，节奏<br>喜欢，喜欢，喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49824110)<br>我还没想好要写什么...<br>2018-07-17 20:40<br>赞(2) 踩(0) | <div>蛮好听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375247231)<br><br>2018-07-17 20:36<br>赞(1) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347350869)<br><br>2018-07-17 20:33<br>赞(0) 踩(0) | <div>好听哒</div> |
@@ -537,7 +537,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325079020)<br><br>2018-07-17 17:03<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296595234)<br><br>2018-07-17 17:03<br>赞(0) 踩(0) | <div>哟哟</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358775878)<br><br>2018-07-17 17:11<br>赞(0) 踩(0) | <div>:</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358775878)<br><br>2018-07-17 17:15<br>赞(0) 踩(0) | <div>&amp;there4;j|嗯涛哥涛哥，.沙小;&amp;lt;'.,、∵一↖金&amp;hellip;-〉/&amp;hellip;:必'&amp;middot;。？丨◇一一</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358775878)<br><br>2018-07-17 17:15<br>赞(0) 踩(0) | <div>&amp;there4;j|嗯涛哥涛哥，.沙小;&amp;lt;'.,、∵一↖金&amp;hellip;-〉/<br>&amp;hellip;:必'&amp;middot;。？丨◇一一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327208899)<br><br>2018-07-17 17:00<br>赞(0) 踩(0) | <div>呜呜呜呜 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378422521)<br><br>2018-07-17 16:56<br>赞(0) 踩(0) | <div>太好听了，100年难得一见的好歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365338695)<br><br>2018-07-17 16:56<br>赞(1) 踩(0) | <div>很不错的歌曲</div> |
@@ -614,7 +614,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261058542)<br>我还没想好要写什么...<br>2018-07-17 12:06<br>赞(0) 踩(0) | <div>啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1589108)<br>fuck offffff...<br>2018-07-17 12:03<br>赞(0) 踩(0) | <div>越来越飞&amp;hellip;越来越有趣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216922826)<br>我的酷是文静外表下有颗巨...<br>2018-07-17 11:58<br>赞(2) 踩(0) | <div>如来佛祖点石成金，石猴悟空的性格是动物的本性与人的社会属性的完美结合，猴子的机灵、顽皮、酷爱自由、勇于反抗与人的好名好胜，不畏自然艰险，不管你是什么人，也不管地位有多高，仍然坚持返求民主的精神。和《点石成金》里的最后一句&amp;ldquo;永远不要被他们打败&amp;rdquo;呼应着</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18713249)<br>我今天特別忙<br>2018-07-17 11:58<br>赞(1) 踩(0) | <div>你可以随时离开随时把自己打开把自己打开打开</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18713249)<br>我今天特別忙<br>2018-07-17 11:58<br>赞(1) 踩(0) | <div>你可以随时离开<br>随时把自己打开<br>把自己打开<br>打开</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43215036)<br>Der Gott hei...<br>2018-07-17 11:42<br>赞(0) 踩(0) | <div>东方不败</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6882792)<br>心如止水但不得不抖腿<br>2018-07-17 11:40<br>赞(0) 踩(0) | <div>惊喜啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203052844)<br><br>2018-07-17 11:39<br>赞(1) 踩(0) | <div>要转型做雷鬼乐队了吗[文字up]</div> |
@@ -645,8 +645,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289760543)<br>我还没想好要写什么...<br>2018-07-17 10:32<br>赞(0) 踩(0) | <div>温柔起来了呐，雷鬼还是很正向的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375283005)<br>天南地北四方客  万水千...<br>2018-07-17 10:26<br>赞(0) 踩(0) | <div>喜欢，十分。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9034565)<br><br>2018-07-17 10:20<br>赞(0) 踩(0) | <div>痛仰终于开始飞草了噶 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6980557)<br>日消月长 得未曾有<br>2018-07-17 10:16<br>赞(0) 踩(0) | <div>老牌摇滚向新晋爵士电子乐队转型大作[带墨镜笑]鞠躬 哈哈哈哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/107430300)<br><br>2018-07-17 10:16<br>赞(1) 踩(0) | <div>吓我一跳  我以为听到了窦儿的《噢乖》吉他的闷音很带感，边击的声音也很单位不多说了，痛仰牛逼</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6980557)<br>日消月长 得未曾有<br>2018-07-17 10:16<br>赞(0) 踩(0) | <div>老牌摇滚向新晋爵士电子乐队转型大作[带墨镜笑]<br>鞠躬 哈哈哈哈哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/107430300)<br><br>2018-07-17 10:16<br>赞(1) 踩(0) | <div>吓我一跳  我以为听到了窦儿的《噢乖》<br>吉他的闷音很带感，边击的声音也很单位<br><br>不多说了，痛仰牛逼</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/107430300)<br><br>2018-07-17 10:16<br>赞(0) 踩(0) | <div>到位</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329758284)<br>人到中年，就要接受憧憬的...<br>2018-07-17 10:15<br>赞(1) 踩(0) | <div>小号吹心里去了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231563888)<br>。<br>2018-07-17 10:13<br>赞(0) 踩(0) | <div>惊喜</div> |

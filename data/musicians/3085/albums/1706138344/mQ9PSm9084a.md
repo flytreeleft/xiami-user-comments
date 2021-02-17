@@ -35,8 +35,8 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46787921)<br>看什么<br>2021-01-08 00:48<br>赞(0) 踩(0) | <div>愿虾米无忧，无论哪里，我们爱虾米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46787921)<br>看什么<br>2021-01-08 00:46<br>赞(0) 踩(0) | <div>愿爱无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52398670)<br>死亡不是终点，遗忘才是。<br>2020-10-25 21:41<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
@@ -81,7 +81,7 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11464083)<br>always awake<br>2020-01-07 15:34<br>赞(0) 踩(0) | <div>以前的叛逆少年都变成在世界中心呼唤爱的温暖大叔！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5442810)<br><br>2020-01-01 01:58<br>赞(1) 踩(0) | <div>~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4218777)<br>博学之,审问之,慎思之,...<br>2019-12-18 14:20<br>赞(0) 踩(0) | <div>但愿。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421558683)<br><br>2019-11-23 16:08<br>赞(0) 踩(0) | <div>一歌一人愿爱无忧⇒TJM</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421558683)<br><br>2019-11-23 16:08<br>赞(0) 踩(0) | <div>一歌一人<br>愿爱无忧⇒TJM</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866525)<br>最好的时光才刚刚开始！≥...<br>2019-10-31 08:16<br>赞(0) 踩(0) | <div>愿爱无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202743512)<br>♡<br>2019-10-08 00:58<br>赞(0) 踩(0) | <div>爱你爱我，也爱痛仰 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123246788)<br>Music is my ...<br>2019-09-14 20:45<br>赞(2) 踩(0) | <div>生生世世爱你！@YQ <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -142,7 +142,7 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7453178)<br>想你时你在闹海<br>2018-03-20 15:05<br>赞(1) 踩(0) | <div>愿爱无忧，愿爱无忧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12329827)<br>我还没想好要写什么...<br>2018-03-13 17:01<br>赞(0) 踩(0) | <div>高老师在家憋了多久才能写出这么多词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25055409)<br>不冻,走开<br>2018-03-07 00:00<br>赞(1) 踩(0) | <div>张佳鑫</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48832736)<br>曾经代表谁的心，结果都一...<br>2018-02-24 05:14<br>赞(0) 踩(0) | <div>历史总是惊人的相似&amp;hellip;类似的乐队类似的歌曲类似的女人们带着类似的心情，类似的评论，类似的思念&amp;hellip;从不痛不痒，到看似痛苦的信仰&amp;hellip;不过是失去和得到的轮回&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48832736)<br>曾经代表谁的心，结果都一...<br>2018-02-24 05:14<br>赞(0) 踩(0) | <div>历史总是惊人的相似&amp;hellip;<br>类似的乐队<br>类似的歌曲<br>类似的女人们<br>带着类似的心情，类似的评论，类似的思念&amp;hellip;<br>从不痛不痒，到看似痛苦的信仰&amp;hellip;不过是失去和得到的轮回&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36513362)<br>我还没想好要写什么...<br>2018-02-05 15:12<br>赞(0) 踩(0) | <div>愿爱无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318449399)<br><br>2018-01-30 15:13<br>赞(0) 踩(0) | <div>愿爱无忧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55548895)<br><br>2018-01-23 18:49<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
@@ -243,7 +243,7 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45053311)<br>anytime<br>2016-05-19 17:59<br>赞(1) 踩(0) | <div>降躁～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4731666)<br>我单身，请认识我一下吧<br>2016-05-08 13:32<br>赞(0) 踩(0) | <div>愿真爱无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11644822)<br><br>2016-05-04 23:47<br>赞(0) 踩(0) | <div>晚安</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2016-05-03 05:54<br>赞(3) 踩(0) | <div>忘不了迷笛营深夜不睡此起彼伏的大合唱听到一群人唱愿爱无忧觉得好感动 但愿 爱无忧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2016-05-03 05:54<br>赞(3) 踩(0) | <div>忘不了迷笛营深夜不睡此起彼伏的大合唱<br>听到一群人唱愿爱无忧觉得好感动 但愿 爱无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/157126916)<br><br>2016-04-30 22:33<br>赞(0) 踩(0) | <div>愿爱无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50013067)<br>活在别人的音乐里。<br>2016-04-29 01:02<br>赞(1) 踩(0) | <div>啦啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120009896)<br> <br>2016-04-28 21:15<br>赞(0) 踩(0) | <div>No women No Cry</div> |
@@ -283,7 +283,7 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51703019)<br> <br>2016-01-13 20:40<br>赞(0) 踩(0) | <div>。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5558237)<br> <br>2016-01-10 13:02<br>赞(1) 踩(0) | <div>痛仰，猛一听还行，再听就会吐了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39868483)<br>少年心事当拿云。<br>2016-01-09 12:26<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">此刻我大四，我在听这首歌，心情微nice~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48860276)<br>埋葬干净<br>2016-01-04 21:36<br>赞(0) 踩(0) | <div>一年多了，网名一直是jambo~也是一年多了，你还是没有跟我走总是能想起那一段快乐的日子愿爱无忧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48860276)<br>埋葬干净<br>2016-01-04 21:36<br>赞(0) 踩(0) | <div>一年多了，网名一直是jambo~<br>也是一年多了，你还是没有跟我走<br>总是能想起那一段快乐的日子<br>愿爱无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75578644)<br> <br>2016-01-03 12:01<br>赞(0) 踩(0) | <div>怎么像是在听磁带，一会吱一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16331038)<br>交个朋友吧<br>2016-01-01 10:06<br>赞(1) 踩(0) | <div>新年快乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43304334)<br> <br>2015-12-28 22:52<br>赞(1) 踩(0) | <div>但是愛里總是憂愁的啊</div> |
@@ -406,8 +406,8 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442281847)<br><br>2020-07-26 12:28<br>赞(0) 踩(0) | <div>我有认识的耳科医生可以推荐给你，别害怕。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43643886)<br>什么乱七八糟<br>2020-08-17 21:24<br>赞(0) 踩(0) | <div>说说而已，大家不要认真</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16659724)<br>相思了无益<br>2015-07-25 00:13<br>赞(1) 踩(0) | <div>。我果然是没有小号活不下去的人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52939564)<br><br>2015-07-23 20:31<br>赞(0) 踩(0) | <div>从习惯的见面摆一摆手又说再见再见分别又像昨天</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52939564)<br><br>2015-07-23 20:25<br>赞(0) 踩(0) | <div>从习惯的见面摆一摆手又说再见再见分别又像昨天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52939564)<br><br>2015-07-23 20:31<br>赞(0) 踩(0) | <div>从习惯的见面<br>摆一摆手又说再见<br>再见分别又像昨天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52939564)<br><br>2015-07-23 20:25<br>赞(0) 踩(0) | <div>从习惯的见面<br>摆一摆手又说再见<br>再见分别又像昨天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43962053)<br>我还没想好要写什么...<br>2015-07-20 10:25<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52625669)<br> <br>2015-07-15 23:41<br>赞(2) 踩(0) | <div>愿爱无忧，愿你无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33727348)<br>我还没想好要写什么...<br>2015-07-07 01:45<br>赞(0) 踩(0) | <div>U2</div> |
@@ -415,7 +415,7 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48923404)<br><br>2015-07-02 22:09<br>赞(0) 踩(0) | <div>愿爱无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48616319)<br><br>2015-07-02 14:56<br>赞(0) 踩(0) | <div>很清爽的版本</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5801545)<br><br>2015-06-30 18:46<br>赞(2) 踩(0) | <div>喜欢降噪最早的版本，希望痛痒能以demo的形式再发布出来，</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45267007)<br>停 止 想 象.<br>2015-06-28 14:34<br>赞(0) 踩(0) | <div>昨晚jambor一出来全场都在说你好！最爱这首</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45267007)<br>停 止 想 象.<br>2015-06-28 14:34<br>赞(0) 踩(0) | <div>昨晚jambor一出来全场都在说你好！<br>最爱这首</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45053311)<br>anytime<br>2015-06-30 23:51<br>赞(0) 踩(0) | <div>公路之歌时全场都跳起来了 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49826126)<br>一笔雕凿的朋克青年。<br>2015-06-26 18:17<br>赞(0) 踩(0) | <div>无论在哪儿，天南海北，愿你，愿爱无忧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11732989)<br>年轻的朋友们我们来相会<br>2015-06-23 10:29<br>赞(1) 踩(0) | <div>我爱你不希望有忧愁 可那就是忧愁</div> |
@@ -442,9 +442,9 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32429478)<br>我还没想好要写什么...<br>2015-05-27 23:05<br>赞(0) 踩(0) | <div>我的魔鬼会按耐不住，我的魔鬼会翩翩起舞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39218104)<br><br>2015-05-27 07:18<br>赞(0) 踩(0) | <div>像是写给爱人的歌，四目相对从那一刻，在有爱的早上，当神的孩子，直到我们明天一起醒来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45795749)<br> <br>2015-05-26 23:59<br>赞(1) 踩(0) | <div>听到的情绪恰恰相反，可能只能适合失恋的人去听。   不，我还没恋</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49543589)<br> <br>2015-05-26 23:15<br>赞(0) 踩(0) | <div>粗壮柔情男人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49543589)<br> <br>2015-05-26 23:15<br>赞(0) 踩(0) | <div>粗壮<br>柔情男人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49543589)<br> <br>2015-05-26 23:14<br>赞(0) 踩(0) | <div>粗野男人的柔情声音。好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583786)<br><br>2015-05-26 00:36<br>赞(0) 踩(0) | <div>先说，我是痛痒的粉。然后我要说的是：无痛人流，愿爱无忧。 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583786)<br><br>2015-05-26 00:36<br>赞(0) 踩(0) | <div>先说，我是痛痒的粉。<br>然后我要说的是：无痛人流，愿爱无忧。 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24744993)<br><br>2015-05-25 18:34<br>赞(0) 踩(0) | <div>jambo   jambo  jambo</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44322911)<br>我是卖报的小行家<br>2015-05-24 15:41<br>赞(0) 踩(0) | <div>更喜欢在迷笛现场的编曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35711538)<br>一颗不肯媚俗的心<br>2015-05-24 09:46<br>赞(0) 踩(0) | <div>愿爱无忧</div> |
@@ -526,7 +526,7 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10812448)<br> <br>2014-12-31 05:29<br>赞(0) 踩(0) | <div>一段危险的旅途结束。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11472409)<br><br>2014-12-29 14:05<br>赞(0) 踩(0) | <div>摇滚的形式不重要，关键是摇滚表达的就是爱和宽容</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20597831)<br>be water my ...<br>2014-12-27 18:28<br>赞(0) 踩(0) | <div>哪儿能听到以前的demo？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6474918)<br>向来情深，奈何缘浅。<br>2014-12-25 14:06<br>赞(0) 踩(0) | <div>单曲无限循环，拥有就是失去的开始么，</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6474918)<br>向来情深，奈何缘浅。<br>2014-12-25 14:06<br>赞(0) 踩(0) | <div>单曲无限循环，<br>拥有就是失去的开始么，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44174289)<br><br>2014-12-17 00:38<br>赞(0) 踩(0) | <div>本意不想伤害任何人，到现在心里还是很乱。所以，祝你成功吧！愿爱无忧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3044629)<br>荀<br>2014-12-14 10:07<br>赞(0) 踩(0) | <div>每一个生命来到世间，都注定改变世界。别无选择，要么把世间变的好一点，要么把世界变的坏一点。用自己的方式活着，生命不息，折腾不止！愿爱无忧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24553327)<br> <br>2014-12-14 02:10<br>赞(0) 踩(0) | <div>去不后悔，无常即常，愿爱无忧。痛仰乐队</div> |
@@ -614,7 +614,7 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40042237)<br><br>2014-08-16 00:44<br>赞(0) 踩(0) | <div>愿爱无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40041873)<br><br>2014-08-16 00:10<br>赞(0) 踩(0) | <div>思念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8350670)<br><br>2014-08-15 20:11<br>赞(0) 踩(0) | <div>愿爱无忧。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1060183)<br>暂无签名~<br>2014-08-15 19:00<br>赞(0) 踩(0) | <div>像是写给爱人的歌四目相对从那一刻在有爱的早上 带上神的孩子直到我们明天一起醒来不要怀疑懵懂的双眼不要怀疑心醉的誓言从习惯的见面摆一摆手又说再见再见分别又像昨天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1060183)<br>暂无签名~<br>2014-08-15 19:00<br>赞(0) 踩(0) | <div>像是写给爱人的歌<br>四目相对从那一刻<br>在有爱的早上 带上神的孩子<br>直到我们明天一起醒来<br>不要怀疑懵懂的双眼<br>不要怀疑心醉的誓言<br>从习惯的见面<br>摆一摆手又说再见<br>再见分别又像昨天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29543984)<br><br>2014-08-15 16:48<br>赞(0) 踩(0) | <div>“……古实人要急忙举手祷告。世上的列国啊，你们要向神歌唱！愿你们歌颂主，歌颂那自古驾行在诸天以上的主！他发出声音，是极大的声音。”（诗68:31-33）藏传反动乐队@痛仰乐队 通过鲍马利接近了上帝，也是神了……你国要炸。文青全喷了，措手不及。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37920260)<br>暂无签名~<br>2014-08-15 16:24<br>赞(0) 踩(0) | <div>愿.爱.无.忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6697904)<br>I’m sexy and...<br>2014-08-15 16:08<br>赞(0) 踩(0) | <div>愿爱无忧。</div> |
@@ -627,7 +627,7 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6700702)<br>insanity<br>2014-08-13 22:36<br>赞(0) 踩(0) | <div>#深夜推荐歌曲# 从对社会发泄不满 的这是个问题  到 在路上的 不要停止我的音乐 直到成军15年的 愿爱无忧 一路的 蜕变 。脱去很多愤怒，我们会得到更多洒脱。愿爱无忧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4248953)<br>我还没想好要写什么...<br>2014-08-13 22:01<br>赞(0) 踩(0) | <div>这个版本的愿爱无忧听起来真是难受哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/962634)<br><br>2014-08-13 20:07<br>赞(0) 踩(0) | <div>NICE</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4123376)<br> <br>2014-08-13 15:56<br>赞(0) 踩(0) | <div>不要怀疑懵懂的双眼 不要怀疑心醉的誓言 从习惯的见面摆一摆手又说再见 再见分别又像昨天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4123376)<br> <br>2014-08-13 15:56<br>赞(0) 踩(0) | <div>不要怀疑懵懂的双眼 不要怀疑心醉的誓言 从习惯的见面<br>摆一摆手又说再见 再见分别又像昨天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3048703)<br>crazy missmr<br>2014-08-13 15:30<br>赞(0) 踩(0) | <div>我的痛仰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6019854)<br><br>2014-08-13 12:58<br>赞(0) 踩(0) | <div>完全没有现场版抛弃一切的洒脱感，录音室版的听起来就像个怨天尤人的小媳妇，生怕自己好容易到手的感情离她而去，MV画面都替你们想好了，高虎一手绣花针一手丝绸，做林妹妹状小声吟唱“愿爱无忧”。你们就自己作死自己吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15369060)<br><br>2014-08-13 10:21<br>赞(0) 踩(0) | <div>为歌名。</div> |
@@ -639,7 +639,7 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11158793)<br> <br>2014-08-14 15:52<br>赞(0) 踩(0) | <div><q><b>銀古说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10657788)<br>只有音乐才是我的解药<br>2014-08-12 22:50<br>赞(0) 踩(0) | <div>这个编曲好好听，很现场版本差很大。我越来越期待专辑了，赶紧到啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12780796)<br>聆听……<br>2014-08-12 22:25<br>赞(0) 踩(0) | <div>听到后面觉得这是一首胸怀大爱的歌……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1169834)<br>侧耳倾听<br>2014-08-12 19:27<br>赞(0) 踩(0) | <div>我的毛鬼会按耐不住我的毛鬼会翩翩起舞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1169834)<br>侧耳倾听<br>2014-08-12 19:27<br>赞(0) 踩(0) | <div>我的毛鬼会按耐不住<br>我的毛鬼会翩翩起舞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12178778)<br>永远年轻<br>2014-08-12 19:06<br>赞(0) 踩(0) | <div>玛利的歌，指的是鲍勃 玛利吧？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35107219)<br>暂无签名~<br>2014-08-12 18:59<br>赞(0) 踩(0) | <div>终于等到录音室完整版。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6273414)<br><br>2014-08-12 17:39<br>赞(0) 踩(0) | <div>我的魔鬼会按耐不住，我的魔鬼会翩翩起舞。</div> |
@@ -647,11 +647,11 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297129)<br><br>2014-08-12 15:23<br>赞(0) 踩(0) | <div>这尼玛后摇吧？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2804980)<br><br>2014-08-12 14:24<br>赞(0) 踩(0) | <div>你的轻柔也是坚硬的污垢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8963905)<br>山的那边还是山<br>2014-08-12 14:22<br>赞(0) 踩(0) | <div>愿爱无忧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3402536)<br> <br>2014-08-12 14:08<br>赞(0) 踩(0) | <div>摆一摆手又说再见 再见分别又像昨天愿爱无忧我需要的似乎来到 连预感都那么奇妙没有乏味的表演 华丽的外套 这是因为没人可以替代我的魔鬼会按耐不住 我的魔鬼会翩翩起舞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3402536)<br> <br>2014-08-12 14:08<br>赞(0) 踩(0) | <div>摆一摆手又说再见 再见分别又像昨天<br>愿爱无忧<br>我需要的似乎来到 连预感都那么奇妙<br>没有乏味的表演 华丽的外套 这是因为没人可以替代<br>我的魔鬼会按耐不住 我的魔鬼会翩翩起舞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39474106)<br><br>2014-08-12 13:26<br>赞(0) 踩(0) | <div>与其愿爱无忧，不若无爱无忧</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16410267)<br> <br>2014-09-05 20:17<br>赞(0) 踩(0) | <div>说的好，说得太好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30389833)<br><br>2014-08-12 13:25<br>赞(0) 踩(0) | <div>这张专辑英文名有问题吧~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3402536)<br> <br>2014-08-12 12:36<br>赞(0) 踩(0) | <div>摆一摆手又说再见 再见分别又像昨天愿爱无忧我需要的似乎来到 连预感都那么奇妙没有乏味的表演 华丽的外套 这是因为没人可以替代我的魔鬼会按耐不住 我的魔鬼会翩翩起舞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3402536)<br> <br>2014-08-12 12:36<br>赞(0) 踩(0) | <div>摆一摆手又说再见 再见分别又像昨天<br>愿爱无忧<br>我需要的似乎来到 连预感都那么奇妙<br>没有乏味的表演 华丽的外套 这是因为没人可以替代<br>我的魔鬼会按耐不住 我的魔鬼会翩翩起舞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13327515)<br>摇滚乐盲<br>2014-08-12 12:05<br>赞(0) 踩(0) | <div>合眼泪流，心中却有阳光。我的魔鬼已按捺不住，她已翩翩起舞。Jambo痛仰@痛仰乐队 ！三甲港，十一见！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5461634)<br><br>2014-08-12 11:54<br>赞(0) 踩(0) | <div>不要这版的编曲，live版的手风琴一出来就好有feel</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9197502)<br><br>2014-08-12 11:52<br>赞(0) 踩(0) | <div>痛仰新专辑出来了</div> |
@@ -711,7 +711,7 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36137060)<br> <br>2017-11-02 09:13<br>赞(0) 踩(0) | <div>哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16133368)<br><br>2013-09-03 23:38<br>赞(0) 踩(0) | <div>真情的说痴情的真矫情  感性的说理性没人性  坚强的说勉强的不自强。你不知道他的道理，可各自的人生各自懂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1135409)<br><br>2013-09-03 20:00<br>赞(0) 踩(0) | <div>呜呜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13425627)<br>哒哒哒<br>2013-08-31 10:38<br>赞(0) 踩(0) | <div>想要写给爱人的歌四目相对 从那一刻在有爱的早上 当神的孩子直到我们明天一起醒来不要怀疑 朦胧的双眼不要怀疑 心醉的誓言这奇怪的见面 拜拜说再见再见分别 遥想昨天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13425627)<br>哒哒哒<br>2013-08-31 10:38<br>赞(0) 踩(0) | <div>想要写给爱人的歌<br>四目相对 从那一刻<br>在有爱的早上 当神的孩子<br>直到我们明天一起醒来<br><br>不要怀疑 朦胧的双眼<br>不要怀疑 心醉的誓言<br>这奇怪的见面 拜拜说再见<br>再见分别 遥想昨天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14268746)<br><br>2013-08-30 12:34<br>赞(0) 踩(0) | <div>愿爱无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18227890)<br><br>2013-08-17 09:59<br>赞(0) 踩(0) | <div>在活泼欢快的音乐里开始充满活力的一天吧！ (&amp;gt;^ω^&amp;lt;)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11420900)<br>erase me<br>2013-08-09 13:55<br>赞(0) 踩(0) | <div>好喜欢！！！不插电才听到</div> |
@@ -758,8 +758,8 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11252964)<br>选择留在自己的岁月里。<br>2012-12-06 23:37<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11447078)<br><br>2012-12-06 21:23<br>赞(0) 踩(0) | <div>愿爱无忧，但愿爱无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7977999)<br><br>2012-11-21 21:09<br>赞(0) 踩(0) | <div>不怀疑朦胧的双眼，不怀疑心醉的誓言，愿爱无忧。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7386364)<br><br>2012-11-11 00:51<br>赞(0) 踩(0) | <div>不要怀疑 朦胧的双眼不要怀疑 心醉的誓言</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192563)<br>重返青春<br>2012-10-30 19:16<br>赞(0) 踩(0) | <div>怀疑 朦胧的双眼怀疑 心醉的誓言这奇怪的见面 拜拜说再见再见分别 又像昨天 愿爱无忧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7386364)<br><br>2012-11-11 00:51<br>赞(0) 踩(0) | <div>不要怀疑 朦胧的双眼<br>不要怀疑 心醉的誓言</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192563)<br>重返青春<br>2012-10-30 19:16<br>赞(0) 踩(0) | <div>怀疑 朦胧的双眼<br>怀疑 心醉的誓言<br>这奇怪的见面 拜拜说再见<br>再见分别 又像昨天 愿爱无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3471708)<br>你快乐于是我快乐<br>2012-10-22 23:01<br>赞(0) 踩(0) | <div>睡前曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88805)<br>无为而治<br>2012-10-17 01:30<br>赞(0) 踩(0) | <div>愿爱无忧。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3650972)<br>我还没想好要写什么...<br>2012-10-11 11:23<br>赞(0) 踩(0) | <div>愿爱无忧 @虫阿阿22222222</div> |
@@ -777,7 +777,7 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6620886)<br>我那不叫有毛病，我那叫变...<br>2012-08-24 23:47<br>赞(0) 踩(0) | <div>，，，，，，，还是痛仰，，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8298947)<br>随心所欲<br>2012-08-02 10:51<br>赞(0) 踩(0) | <div>原来到了文林记忆演出！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8890110)<br><br>2012-08-01 11:25<br>赞(0) 踩(0) | <div>去年9月15 VOX</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/680775)<br>14k<br>2012-07-30 20:02<br>赞(0) 踩(0) | <div>终于版权解禁了愿爱无忧！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/680775)<br>14k<br>2012-07-30 20:02<br>赞(0) 踩(0) | <div>终于版权解禁了<br>愿爱无忧！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2114803)<br><br>2012-07-29 21:03<br>赞(0) 踩(0) | <div>把声音开到最大，把世界关在门外，家里只有一个无比自由的我！无爱即无忧？！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9974144)<br>暂无签名~<br>2012-07-26 22:07<br>赞(0) 踩(0) | <div>愿爱无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1662559)<br>哈哈哈哈哈哈哈<br>2012-07-24 16:49<br>赞(0) 踩(0) | <div>[em:13]，愿爱无忧，[em:112]，痛痒</div> |
@@ -819,7 +819,7 @@ Jambo Jambo….. （东非语“你好”）  <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2012-04-23 22:11<br>赞(0) 踩(0) | <div>再见分别 又想昨天 的迷笛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2362001)<br>大石碎胸口<br>2012-04-23 22:09<br>赞(0) 踩(0) | <div>痛仰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183827)<br>我还没想好要写什么...<br>2012-04-23 16:51<br>赞(0) 踩(0) | <div>痛仰新歌【源爱无忧】</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987251)<br>一 念 之 间<br>2012-04-23 12:20<br>赞(0) 踩(0) | <div>OH yeah~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987251)<br>一 念 之 间<br>2012-04-23 12:20<br>赞(0) 踩(0) | <div>OH yeah~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6266611)<br> <br>2012-04-23 10:55<br>赞(0) 踩(0) | <div>感动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6266611)<br> <br>2012-04-23 10:40<br>赞(0) 踩(0) | <div>@痛仰乐队</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5114529)<br>暂无签名~<br>2012-04-23 10:37<br>赞(0) 踩(0) | <div>啥时候发布。。 ···</div> |

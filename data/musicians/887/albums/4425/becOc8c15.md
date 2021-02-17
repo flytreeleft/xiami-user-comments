@@ -53,8 +53,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424095717)<br><br>2020-12-12 04:07<br>赞(0) 踩(0) | <div>牛逼，歌词能写得那么感人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430151852)<br><br>2020-06-12 20:11<br>赞(1) 踩(0) | <div>虾米只剩live版的歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430151852)<br><br>2020-06-12 17:27<br>赞(2) 踩(0) | <div>虾米只剩下live版的歌了</div> |
@@ -69,6 +69,6 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23640028)<br><br>2013-12-04 09:38<br>赞(0) 踩(0) | <div>时光在房间里回荡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2012-01-13 08:52<br>赞(3) 踩(0) | <div>汪峰忘词了，他竟然编出“只是好不配”的歌词来了，笑死我啦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1326590)<br><br>2011-05-22 17:21<br>赞(1) 踩(0) | <div>我爱这美丽的世界</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1027513)<br>睿智=生命力+情景+带感<br>2011-03-23 21:07<br>赞(3) 踩(0) | <div>&amp;quot;这是生命中的一天 活着还是死亡&amp;quot;激情震撼的中国摇滚，极具感染力，大气、成熟的曲风，显示出他对生命的深刻理解，激昂高亢、振聋发聩的乐坛强音，让我们感受到足够的热情和足够的力量。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1027513)<br>睿智=生命力+情景+带感<br>2011-03-23 21:07<br>赞(3) 踩(0) | <div>&amp;quot;这是生命中的一天 活着还是死亡&amp;quot;<br><br>激情震撼的中国摇滚，极具感染力，大气、成熟的曲风，显示出他对生命的深刻理解，激昂高亢、振聋发聩的乐坛强音，让我们感受到足够的热情和足够的力量。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2009227)<br>暂无签名~<br>2010-12-09 16:30<br>赞(1) 踩(0) | <div>我不停的思索啊，思索。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5)<br>三男一狗<br>2009-10-08 18:56<br>赞(1) 踩(0) | <div>路缓缓流向远方旷野的天空云彩飞扬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5)<br>三男一狗<br>2009-10-08 18:56<br>赞(1) 踩(0) | <div>路缓缓流向远方<br>旷野的天空云彩飞扬</div> |

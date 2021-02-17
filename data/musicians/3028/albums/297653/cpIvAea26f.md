@@ -42,11 +42,11 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79994618)<br><br>2017-10-28 00:36<br>赞(1) 踩(0) | <div>欢迎大家加入声音碎片歌迷微信群，想加入的私信我 <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1587779)<br><br>2017-10-27 23:55<br>赞(0) 踩(0) | <div>一边搭房子，一边想起三只小猪的故事。《星光照亮你回家的路》——送给龟仙人 @粥稀稀的碗 @allsuya</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53492121)<br>爱摇滚，爱生活。<br>2017-07-11 22:29<br>赞(1) 踩(0) | <div>你还年轻，生命似乎很长。蓦然回首，十年已成过往。我真的很久，很久没有老家了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53492121)<br>爱摇滚，爱生活。<br>2017-07-11 22:29<br>赞(1) 踩(0) | <div>你还年轻，生命似乎很长。<br>蓦然回首，十年已成过往。<br>我真的很久，很久没有老家了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119972510)<br>执迷于表象，而偏离本质<br>2017-06-12 11:28<br>赞(0) 踩(0) | <div>走在葡萄园小区后面僻静的小路上，星光照亮我回家的路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/940006)<br>今天你心中“我擦”了多少...<br>2016-08-12 23:32<br>赞(0) 踩(0) | <div>走在回家的路上听，尽管乌云暗月，却如繁星满天。回到一天结束的地方，回到一天开始的地方……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47494497)<br>李志、陈升，“虾米也没有...<br>2016-07-27 17:39<br>赞(0) 踩(0) | <div>你觉得他们主唱怎么样</div> |
@@ -71,7 +71,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1539387)<br><br>2015-08-02 17:02<br>赞(0) 踩(0) | <div>轻狂的人再也追不上流年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1539387)<br><br>2015-08-02 16:34<br>赞(0) 踩(0) | <div>轻狂的人再也追不上流年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52252327)<br>感谢永远有音乐把心境道破<br>2015-07-09 14:54<br>赞(0) 踩(0) | <div>有星光的日子真好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30342312)<br>内心强大的独行霞<br>2015-06-30 11:57<br>赞(0) 踩(0) | <div>背叛过的人们收起翅膀越来越习惯空旷的地方所有的召唤都来自最初记忆温暖 而风景冷漠所有路在分岔以后都陌生每种选择都隐喻了纷乱轻狂的人再也追不上流年星光照亮他回家的路我们的爱啊请你随着风随风</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30342312)<br>内心强大的独行霞<br>2015-06-30 11:57<br>赞(0) 踩(0) | <div>背叛过的人们收起翅膀<br>越来越习惯空旷的地方<br>所有的召唤都来自最初<br>记忆温暖 而风景冷漠<br>所有路在分岔以后都陌生<br>每种选择都隐喻了纷乱<br>轻狂的人再也追不上流年<br>星光照亮他回家的路<br><br>我们的爱啊请你随着风<br>随风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37586669)<br>我还没想好要写什么...<br>2015-06-01 18:47<br>赞(0) 踩(0) | <div>乡村爱情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35385371)<br><br>2015-05-29 23:51<br>赞(0) 踩(0) | <div>太有功底了，好喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26201883)<br><br>2015-05-29 15:20<br>赞(0) 踩(0) | <div>在远郊 空气太好了 快赶上小时候了 北京还是有很多空气好的地方啊</div> |
@@ -82,7 +82,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329837)<br>一加一等于几<br>2014-08-17 18:32<br>赞(1) 踩(0) | <div>一开头还以为是一段淳朴乡村电影开始了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4224650)<br>最低级的小市民趣味！<br>2014-08-08 23:36<br>赞(0) 踩(0) | <div>估计你们要火了吧  真高兴  废话不多说 还是先抱一下大腿吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4419951)<br>他人即地狱<br>2014-02-27 11:50<br>赞(0) 踩(0) | <div>声音碎片</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-01-25 08:17<br>赞(0) 踩(0) | <div>小提琴58839,192,66</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-01-25 08:17<br>赞(0) 踩(0) | <div>小提琴<br>58839,192,66</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8065398)<br>戴上耳机，世界真安静～～<br>2014-01-02 11:24<br>赞(0) 踩(0) | <div>前面的小提琴总感觉在哪听过，却想不起来...也许在梦里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28454076)<br>那些花儿开在我的世界里<br>2013-12-16 20:25<br>赞(0) 踩(0) | <div>星光照亮你回家的路。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10828038)<br>小小世界。。。<br>2013-12-02 22:17<br>赞(1) 踩(0) | <div>所有路在分岔以后都陌生。。。</div> |
@@ -98,7 +98,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6688475)<br> <br>2013-08-02 10:01<br>赞(0) 踩(0) | <div>搞错名字了吧？没人看出来？？？？？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7252466)<br> <br>2013-07-15 13:42<br>赞(0) 踩(0) | <div>下雨天好适合听声音碎片的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2027388)<br>我终想好要写什么了。现在...<br>2013-07-01 23:31<br>赞(0) 踩(0) | <div>轻狂的人再也追不上流年  星光照亮他回家的路</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5772069)<br><br>2013-06-23 21:33<br>赞(0) 踩(0) | <div>如诗如歌，但又超越诗歌。“背叛过的人们收起翅膀越来越习惯空旷的地方所有的召唤都来自最初记忆温暖 而风景冷漠所有路在分岔以后都陌生每种选择都隐喻了纷乱轻狂的人再也追不上流年星光照亮他回家的路”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5772069)<br><br>2013-06-23 21:33<br>赞(0) 踩(0) | <div>如诗如歌，但又超越诗歌。<br>“背叛过的人们收起翅膀<br>越来越习惯空旷的地方<br>所有的召唤都来自最初<br>记忆温暖 而风景冷漠<br>所有路在分岔以后都陌生<br>每种选择都隐喻了纷乱<br>轻狂的人再也追不上流年<br>星光照亮他回家的路”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1132663)<br><br>2013-06-18 22:51<br>赞(0) 踩(0) | <div>成都的夜空很少有星星，也没有月亮，。压的很低的云层打乱了呼吸的节奏，回家简单又复杂，复杂又很容易。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/521476)<br>无<br>2013-06-03 10:41<br>赞(0) 踩(0) | <div>赞！新锐里喜欢的，声音碎片，声音玩具（已解散？！）</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3046)<br>Love Fighter<br>2013-06-13 13:21<br>赞(0) 踩(0) | <div>都没解散！！</div> |
@@ -129,7 +129,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5686411)<br><br>2012-05-22 22:49<br>赞(0) 踩(0) | <div>好洒脱又很温暖的一首歌，还有什么不是浮云呢。或许这就是好音乐的力量，总能带领人向上。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/587830)<br>天蝎座 摇滚乐 丝绒迷幻<br>2012-04-25 21:17<br>赞(0) 踩(0) | <div>穿越不了世界的人们  永远困惑于道路和天空  一粒尘埃骑在一片落叶上  星光照亮他回家的路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8653149)<br><br>2012-03-29 23:40<br>赞(0) 踩(0) | <div>歌词与音乐好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7819895)<br>向阳草坡 晨曦夜幕<br>2012-03-22 19:49<br>赞(0) 踩(0) | <div>记忆温暖 而风景冷漠所有路在分岔以后都陌生每种选择都隐喻了纷乱轻狂的人再也追不上流年星光照亮他回家的路</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7819895)<br>向阳草坡 晨曦夜幕<br>2012-03-22 19:49<br>赞(0) 踩(0) | <div>记忆温暖 而风景冷漠<br>所有路在分岔以后都陌生<br>每种选择都隐喻了纷乱<br>轻狂的人再也追不上流年<br>星光照亮他回家的路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3369871)<br><br>2012-03-20 22:29<br>赞(0) 踩(0) | <div>眼睛閉上那什麽就不會出來了，恩，睡了睡了。晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2572531)<br>仿佛水消失在水中<br>2012-02-14 09:52<br>赞(0) 踩(0) | <div>早晨第一曲是声碎，让心情不错。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2117322)<br><br>2011-11-15 06:58<br>赞(0) 踩(0) | <div>几年前听的歌，今天第一次看到歌词，很是喜欢。“所有路在分岔以后都陌生/每种选择都隐喻了纷乱/轻狂的人再也追不上流年/星光照亮他回家的路”</div> |
@@ -146,5 +146,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199605)<br> <br>2010-03-07 14:27<br>赞(0) 踩(0) | <div>不是多好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/521476)<br>无<br>2009-11-21 00:34<br>赞(0) 踩(0) | <div>调调压抑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440673)<br><br>2009-11-05 17:40<br>赞(0) 踩(0) | <div>优雅</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106785)<br>万物生长<br>2009-08-10 12:28<br>赞(0) 踩(0) | <div>记忆温暖 而风景冷漠所有路在分岔以后都陌生每种选择都隐喻了纷乱轻狂的人再也追不上流年星光照亮他回家的路</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106785)<br>万物生长<br>2009-08-10 12:28<br>赞(0) 踩(0) | <div>记忆温暖 而风景冷漠<br>所有路在分岔以后都陌生<br>每种选择都隐喻了纷乱<br>轻狂的人再也追不上流年<br>星光照亮他回家的路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55503)<br>听久了Spotify<br>2009-03-20 09:52<br>赞(0) 踩(0) | <div>中国的radiohead，不是虚名</div> |

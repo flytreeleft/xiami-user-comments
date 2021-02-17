@@ -47,15 +47,15 @@ Bitte 接受我 Bitte 接受我
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4334438)<br>贫穷而倔强<br>2018-04-17 09:13<br>赞(0) 踩(0) | <div>back to black</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48898343)<br>生命已经过期<br>2018-03-16 13:23<br>赞(1) 踩(0) | <div>自己都接受不了，更何况别人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2838646)<br><br>2017-10-27 23:57<br>赞(0) 踩(0) | <div>听了很多次，一开始是觉得旋律不错，最近才喜欢上这首歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2875)<br><br>2016-08-16 16:03<br>赞(0) 踩(0) | <div>还好有CD，不然都下架了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36823042)<br> <br>2015-10-28 21:16<br>赞(0) 踩(0) | <div>原来听这首歌难受到快死了。现在听到反而多了些荒凉和悲哀…接受我…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36103545)<br>如果我们是同道中人<br>2015-09-10 09:10<br>赞(0) 踩(0) | <div>戒烟戒酒戒晚餐/借机借酒解孤单</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44724810)<br><br>2015-09-10 08:46<br>赞(1) 踩(0) | <div>Bitte 接受我 Bitte 接受我Bitte 接受我 Bitte 接受我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44724810)<br><br>2015-09-10 08:46<br>赞(1) 踩(0) | <div>Bitte 接受我 Bitte 接受我<br>Bitte 接受我 Bitte 接受我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5639508)<br> <br>2015-08-31 01:10<br>赞(0) 踩(0) | <div>很神奇的事情是 ，夜晚安静一个人和白天，带上了耳机和扩音，听来感受完全不样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47164793)<br><br>2015-08-16 08:40<br>赞(1) 踩(0) | <div>陈珊妮为什么这么棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/648645)<br> <br>2015-08-04 15:40<br>赞(0) 踩(0) | <div>听哭了。</div> |
@@ -87,13 +87,13 @@ Bitte 接受我 Bitte 接受我
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2143306)<br><br>2012-08-01 10:04<br>赞(0) 踩(0) | <div>她想戒烟 戒酒 戒晚餐 想借钱 借爱 借男伴 我不带一点戒心 只借几句呢喃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1369427)<br><br>2012-07-12 14:05<br>赞(0) 踩(0) | <div>他想藉机 藉酒 解孤单 / 用藉口 借爱 讨欢快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6490842)<br><br>2012-07-11 20:51<br>赞(0) 踩(0) | <div>想戒烟 戒酒 戒晚餐 想借钱 借爱 借男伴</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6693339)<br>我还没想好要写什么...<br>2012-07-02 16:55<br>赞(0) 踩(0) | <div>他想戒烟戒酒戒晚餐 ,想借钱借爱借男伴,他想借机戒酒解孤单, 用借口戒爱讨欢快,没有解不了的孤独，只有戒不了的爱。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6693339)<br>我还没想好要写什么...<br>2012-07-02 16:55<br>赞(0) 踩(0) | <div>他想戒烟戒酒戒晚餐 ,想借钱借爱借男伴,<br>他想借机戒酒解孤单, 用借口戒爱讨欢快,<br>没有解不了的孤独，只有戒不了的爱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4274325)<br><br>2012-05-27 14:59<br>赞(0) 踩(0) | <div>Bitte</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4294935)<br><br>2012-05-19 22:10<br>赞(0) 踩(0) | <div>陈珊妮女神的歌声中总归有一种上海的感觉...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8724736)<br><br>2012-04-03 21:53<br>赞(0) 踩(0) | <div>她想戒煙戒酒戒晚餐想借錢借愛借男伴我不帶一點戒心只借幾句呢喃她想要個戒指求心安用借代詞說得舒緩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1131290)<br>我还没想好要写什么...<br>2012-03-22 14:12<br>赞(0) 踩(0) | <div>忽然发现陈珊妮这张I love you, John其实很恨嫁啊。 Bitte...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4902290)<br><br>2012-03-16 14:39<br>赞(0) 踩(0) | <div>她想戒烟 戒酒 戒晚餐 想借钱 借爱 借男伴 我不带一点戒心 只借几句呢喃</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6707819)<br>暂无签名~<br>2012-02-27 22:26<br>赞(0) 踩(0) | <div>想戒烟戒酒戒晚餐.......Bitte.......Bitte........想藉机藉酒解孤单......Bitte.......Bitte........用藉口借爱讨欢快......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6707819)<br>暂无签名~<br>2012-02-27 22:26<br>赞(0) 踩(0) | <div>想戒烟戒酒戒晚餐.......Bitte.......Bit<br>te........想藉机藉酒解孤单......Bitte.<br>......Bitte........用藉口借爱讨欢快...<br>...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6298153)<br><br>2012-02-22 16:42<br>赞(0) 踩(0) | <div>想藉机 藉酒 解孤单！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8127545)<br><br>2012-02-20 23:47<br>赞(0) 踩(0) | <div>戒掉什么 借来什么 一点一点贪图你接受我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4267500)<br><br>2012-02-09 15:35<br>赞(0) 踩(0) | <div>一直喜欢陈珊妮，喜欢她呢喃般的声音。</div> |
@@ -119,7 +119,7 @@ Bitte 接受我 Bitte 接受我
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1417968)<br><br>2011-07-14 14:50<br>赞(0) 踩(0) | <div>好抓人····</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/588719)<br><br>2011-07-14 10:43<br>赞(0) 踩(0) | <div>公主</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3976432)<br><br>2011-07-12 14:58<br>赞(0) 踩(0) | <div>舒缓小情歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084737)<br><br>2011-07-09 11:22<br>赞(0) 踩(0) | <div>她想戒煙　戒酒　戒晚餐想借錢　借愛　借男伴我不帶一點戒心只借幾句呢喃</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084737)<br><br>2011-07-09 11:22<br>赞(0) 踩(0) | <div>她想戒煙　戒酒　戒晚餐<br>想借錢　借愛　借男伴<br>我不帶一點戒心<br>只借幾句呢喃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084737)<br><br>2011-07-09 11:21<br>赞(0) 踩(0) | <div>sad</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1008625)<br><br>2011-07-08 20:20<br>赞(0) 踩(0) | <div>她想戒烟戒酒戒晚餐 想借钱借爱借男伴 我不带一点戒心 只借几句呢喃 她想要个戒指求心安 用借代词说得舒缓 我却无法界定你的爱 我想我毫不在意 她借一点手段 她想要的都与我无关 生离死别说得悲哀 我该如何得到你的爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4090594)<br><br>2011-07-08 16:25<br>赞(0) 踩(0) | <div>一个人，有时活着真得会觉得寂寞，然后慢慢地远离这个世界。可是，还是抱着梦想。这样就很好。Dream is a magic word.</div> |
@@ -151,7 +151,7 @@ Bitte 接受我 Bitte 接受我
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263569)<br><br>2011-06-19 16:55<br>赞(0) 踩(0) | <div>Bitte那段真是挠心挠肺啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3336459)<br> <br>2011-06-19 13:03<br>赞(0) 踩(0) | <div>能戒掉所有  唯独戒不掉寂寞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230419)<br><br>2011-06-19 06:05<br>赞(0) 踩(0) | <div>美到撩人心旌的呓语</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2011-06-18 15:18<br>赞(0) 踩(0) | <div>她想戒煙　戒酒　戒晚餐想借錢　借愛　借男伴我不帶一點戒心只借幾句呢喃</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2011-06-18 15:18<br>赞(0) 踩(0) | <div>她想戒煙　戒酒　戒晚餐<br>想借錢　借愛　借男伴<br>我不帶一點戒心<br>只借幾句呢喃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2011-06-18 15:17<br>赞(0) 踩(0) | <div>想要個戒指求心安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2716841)<br>我还没想好要写什么...<br>2011-06-18 14:44<br>赞(0) 踩(0) | <div>最喜欢这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2519364)<br>我还没想好要写什么...<br>2011-06-18 14:05<br>赞(0) 踩(0) | <div>她想戒烟 戒酒 就晚餐。她想借钱 借爱 借男伴。  整张专辑听下来最喜欢这首歌。</div> |
@@ -159,5 +159,5 @@ Bitte 接受我 Bitte 接受我
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4328435)<br><br>2011-06-18 01:43<br>赞(0) 踩(0) | <div>“我不帶一點戒心\只借幾句呢喃”。大半夜的，听这首歌。≪bitte≫。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1056411)<br><br>2011-06-17 23:53<br>赞(0) 踩(0) | <div>好听哦~！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3505883)<br><br>2011-06-17 17:03<br>赞(0) 踩(0) | <div>哇 有收录bitte啊 太稀饭了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1064031)<br>我还没想好要写什么...<br>2011-06-17 16:44<br>赞(0) 踩(0) | <div>我小学时候的英文名就是BITTE.....那时候别人都叫我\&amp;quot;鼻涕\&amp;quot;.......因而改掉了这个名字.....这首歌典型陈珊妮的懒懒调子,加上钢琴伴奏和魅惑的歌词...再次沉沦了啊....</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1064031)<br>我还没想好要写什么...<br>2011-06-17 16:44<br>赞(0) 踩(0) | <div>我小学时候的英文名就是BITTE.....那时候别人都叫我\&amp;quot;鼻涕\&amp;quot;.......因而改掉了这个名字.....<br>这首歌典型陈珊妮的懒懒调子,加上钢琴伴奏和魅惑的歌词...再次沉沦了啊....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1568825)<br><br>2011-06-17 15:06<br>赞(0) 踩(0) | <div>她想戒烟戒酒戒孤单，</div> |

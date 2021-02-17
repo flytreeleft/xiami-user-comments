@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/eb7800d4ec6f0d2b744eea5bf613a58d.jpg)<br>李承洁](https://i.xiami.com/lichengjie) | **播放数**: 16759117<br>**粉丝数**: 494<br>**评论数**: 71<br>**地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/eb7800d4ec6f0d2b744eea5bf613a58d.jpg)<br>李承洁](https://i.xiami.com/lichengjie) | **地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 16759117<br>**粉丝数**: 494<br>**评论数**: 71<br> |
 
 ## 档案
 
@@ -45,11 +45,11 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354192415)<br><br>2020-07-04 20:37<br>赞(0) 踩(0) | <div>这也算歌手？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16106736)<br><br>2020-03-08 15:27<br>赞(0) 踩(0) | <div>青花瓷给唱废了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1465973)<br> <br>2019-06-14 09:36<br>赞(1) 踩(0) | <div>跑调没关系，有包装就可以说是歌手。妈个鸡，真的是。。。这个时代。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1465973)<br> <br>2019-06-14 09:36<br>赞(1) 踩(0) | <div>跑调没关系，有包装就可以说是歌手。<br>妈个鸡，真的是。。。这个时代。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74936314)<br> <br>2019-02-27 00:40<br>赞(1) 踩(0) | <div>什么东西...歌词都能唱错？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-02-15 05:19<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-01-30 17:12<br>赞(1) 踩(0) | <div>好听</div> |

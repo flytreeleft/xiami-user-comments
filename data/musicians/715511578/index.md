@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d7753a3250706e89fd98a31aead9bc69.jpg)<br>曹翀宇(James Tsao)](https://i.xiami.com/caochongyu) | **播放数**: 12730658<br>**粉丝数**: 151<br>**评论数**: 23<br>**地区**: Hong Kong, PRC 中国香港<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/d7753a3250706e89fd98a31aead9bc69.jpg)<br>曹翀宇(James Tsao)](https://i.xiami.com/caochongyu) | **地区**: Hong Kong, PRC 中国香港<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 12730658<br>**粉丝数**: 151<br>**评论数**: 23<br> |
 
 ## 档案
 
@@ -82,8 +82,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105518702)<br><br>2020-05-01 15:25<br>赞(0) 踩(0) | <div>黑哥出书啊赶紧的[带墨镜笑]</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43444277)<br>大宇中国<br>2020-05-01 20:19<br>赞(0) 踩(0) | <div>原来是你 骥哥</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1005227)<br><br>2020-04-23 00:59<br>赞(0) 踩(0) | <div>深夜的偶然发现，从古琴版春江花月夜到好大一棵树，编曲太喜欢了！惊喜，支持</div> |

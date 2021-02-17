@@ -36,5 +36,3 @@ So early in the morning
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

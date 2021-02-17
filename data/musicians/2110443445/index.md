@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e9e793ca4527e15cbffec58549bcd953.jpg)<br>陈丽娜](https://i.xiami.com/cln) | **播放数**: 2656289<br>**粉丝数**: 111<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 中国传统民歌 Chinese Traditional Folk, 古风 GuFeng Music<br> |
+| [![](../../images/musicians/e9e793ca4527e15cbffec58549bcd953.jpg)<br>陈丽娜](https://i.xiami.com/cln) | **地区**: China 中国大陆<br>**风格**: 中国传统民歌 Chinese Traditional Folk, 古风 GuFeng Music<br>**播放数**: 2656289<br>**粉丝数**: 111<br>**评论数**: 6<br> |
 
 ## 档案
 
@@ -45,8 +45,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4993602)<br>我还没想好要写什么...<br>2020-12-07 19:12<br>赞(0) 踩(0) | <div>声音有磁性，好听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2020-11-26 12:29<br>赞(0) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443902879)<br><br>2020-07-02 20:29<br>赞(1) 踩(0) | <div>丽娜得声音很温柔</div> |

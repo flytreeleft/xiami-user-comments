@@ -26,5 +26,3 @@ Moo moo oink oink bow-wow
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

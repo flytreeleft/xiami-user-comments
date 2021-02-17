@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b6da4d06ac9966e66c8ed10a26caf2a3.jpg)<br>胡灵](https://i.xiami.com/huling) | **播放数**: 4062333<br>**粉丝数**: 747<br>**评论数**: 45<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/b6da4d06ac9966e66c8ed10a26caf2a3.jpg)<br>胡灵](https://i.xiami.com/huling) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 4062333<br>**粉丝数**: 747<br>**评论数**: 45<br> |
 
 ## 档案
 
@@ -111,8 +111,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83591380)<br>哼一首淡淡的歌。<br>2019-10-29 09:43<br>赞(1) 踩(0) | <div>喜欢单飞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197129222)<br><br>2019-01-18 21:15<br>赞(3) 踩(0) | <div>同为遵义的我也有我的音乐梦想哈哈，以后能实现吗?</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49902230)<br>R&B-God <br>2018-06-26 10:36<br>赞(1) 踩(0) | <div>好喜欢胡灵，10年看【拉芳星光大会】她唱过一首《每一次想你》被小玲姐否定  但我依然喜欢，因为 她深深唱到了我的心底 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |

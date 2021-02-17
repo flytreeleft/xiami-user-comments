@@ -50,8 +50,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15977425)<br><br>2021-01-10 14:34<br>赞(0) 踩(0) | <div>虾米音乐要到停了，怀念。下载</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431275557)<br>给自己一个微笑，种下一天...<br>2021-01-03 09:43<br>赞(0) 踩(0) | <div>666666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30074304)<br>天阶夜色凉如水，坐看牵牛...<br>2020-12-28 20:44<br>赞(0) 踩(0) | <div>✈</div> |
@@ -62,7 +62,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7056237)<br>暗號不變， 江湖再見<br>2020-07-05 07:35<br>赞(4) 踩(0) | <div>每个人的人生在这条路上都品尝着酸甜苦辣，一个时代的结束也是开启着另一个时代的开始，我们都曾辉煌过   获得无数个属于你的奖杯，珍惜眼前路   未来更美好  <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426960728)<br><br>2020-06-24 00:50<br>赞(1) 踩(0) | <div>现在最爱声音碎片</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286039499)<br>优美的低于生活…<br>2020-04-28 18:26<br>赞(0) 踩(0) | <div>生命轻如尘埃！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347254273)<br>暗夜提灯，臻艺术之境<br>2020-04-24 09:31<br>赞(0) 踩(0) | <div>优秀的摇滚是个性地吟唱着诗歌～～时代无论多么浮嚣每一天蜕新自我青春即使如歌远去燃着火焰的心跳跃着青春的星光</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347254273)<br>暗夜提灯，臻艺术之境<br>2020-04-24 09:31<br>赞(0) 踩(0) | <div>优秀的摇滚<br>是个性地吟唱着<br>诗歌～～<br><br>时代无论多么浮嚣<br>每一天蜕新自我<br>青春即使如歌远去<br>燃着火焰的心<br>跳跃着青春的星光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346679796)<br><br>2020-04-14 12:02<br>赞(0) 踩(0) | <div>不为啥 就想你翻评论的时候看见原来我和你一样有品位</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321197154)<br>做自己的太阳，有永不黯淡...<br>2020-04-08 12:11<br>赞(0) 踩(0) | <div>喝多了，舌头打卷了 <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39921530)<br> <br>2020-03-30 21:21<br>赞(1) 踩(0) | <div>很适合现在，疫情终于过去，生活开始恢复</div> |
@@ -79,7 +79,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74260924)<br><br>2019-09-05 11:36<br>赞(0) 踩(0) | <div>前段时间看《无问西东》，想起了这首歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47966209)<br>愿能做喜欢的事，爱喜欢的...<br>2019-09-17 11:03<br>赞(0) 踩(0) | <div>看无问西东为什么会想起这歌？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408586276)<br><br>2019-08-09 19:44<br>赞(0) 踩(0) | <div>人在深圳翻到自己一年前的留言，问什么时候能听北京的现场。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57231736)<br><br>2019-07-16 22:50<br>赞(0) 踩(0) | <div>这首太有关怀了大家对摇滚有误解好像摇滚就是嘶吼呐喊荷尔蒙的宣泄事实上优秀的摇滚乐队们的作品一定是时代的音乐精髓</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57231736)<br><br>2019-07-16 22:50<br>赞(0) 踩(0) | <div>这首太有关怀了<br>大家对摇滚有误解<br>好像摇滚就是嘶吼呐喊荷尔蒙的宣泄<br>事实上<br>优秀的摇滚乐队们的作品一定是时代的音乐精髓</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35344868)<br>狗子的音乐空间<br>2019-06-22 00:55<br>赞(0) 踩(0) | <div>好久没有新的评论，我来证明依然有人喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202155280)<br> <br>2019-06-06 00:28<br>赞(0) 踩(0) | <div>想跳起来 <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14702714)<br>哎呀 我说命运呐  生存...<br>2019-05-26 02:01<br>赞(0) 踩(0) | <div>听声音 感觉声音就该如此</div> |
@@ -122,13 +122,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37175701)<br>我还没想好要写什么...<br>2018-07-03 03:44<br>赞(1) 踩(0) | <div>来&amp;hellip;&amp;hellip;喝一杯</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63597)<br><br>2018-07-04 09:27<br>赞(0) 踩(0) | <div>干</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5371783)<br><br>2018-06-28 00:37<br>赞(1) 踩(0) | <div>虾米怎么了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-09 23:20<br>赞(33) 踩(0) | <div>越有故事的人越沉静简单，越肤浅单薄的人越浮躁不安。真正的强者，不是没有眼泪的人，而是含着眼泪依然奔跑的人。坚持就是胜利✌2018-06-09</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-09 23:19<br>赞(2) 踩(0) | <div>越有故事的人越沉静简单，越肤浅单薄的人越浮躁不安。真正的强者，不是没有眼泪的人，而是含着眼泪依然奔跑的人。坚持就是胜利✌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-09 23:19<br>赞(2) 踩(0) | <div>越有故事的人越沉静简单，越肤浅单薄的人越浮躁不安。真正的强者，不是没有眼泪的人，而是含着眼泪依然奔跑的人。坚持</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-09 23:20<br>赞(33) 踩(0) | <div>越有故事的人越沉静简单，<br>越肤浅单薄的人越浮躁不安。<br>真正的强者，不是没有眼泪的人，<br>而是含着眼泪依然奔跑的人。<br><br>坚持就是胜利✌<br><br>2018-06-09</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-09 23:19<br>赞(2) 踩(0) | <div>越有故事的人越沉静简单，<br>越肤浅单薄的人越浮躁不安。<br>真正的强者，不是没有眼泪的人，<br>而是含着眼泪依然奔跑的人。<br><br>坚持就是胜利✌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-09 23:19<br>赞(2) 踩(0) | <div>越有故事的人越沉静简单，<br>越肤浅单薄的人越浮躁不安。<br>真正的强者，不是没有眼泪的人，<br>而是含着眼泪依然奔跑的人。<br><br>坚持</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322701705)<br>我还没想好要写什么...<br>2018-06-04 01:21<br>赞(2) 踩(0) | <div>在艺考那年我用这首歌作为我的闹钟，它一想起来就代表了我曾经的日子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15181316)<br>你连勇气都没有，你还有什...<br>2018-04-28 07:34<br>赞(0) 踩(0) | <div>我来了，前奏响起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11029014)<br> （   救我又杀我<br>2018-04-26 08:50<br>赞(1) 踩(0) | <div>生命轻如尘埃</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202505486)<br>再见<br>2018-04-25 13:26<br>赞(1) 踩(0) | <div>《拾碎》时代华美的盛宴上点燃一颗红心炸弹人们的脑浆形成烟火般灿烂的景象其中有一两颗金色的星星不时的闪烁在红色浆河中伴随着手机铃的噼啪响声和最后的祝愿碎语我用竹篮打捞摇晃的碎片却获取天边一朵云的记忆</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202505486)<br>再见<br>2018-04-25 13:26<br>赞(1) 踩(0) | <div>《拾碎》<br>时代华美的盛宴上<br>点燃一颗红心炸弹<br>人们的脑浆形成烟火般灿烂的景象<br>其中有一两颗金色的星星<br>不时的闪烁在红色浆河中<br>伴随着手机铃的噼啪响声<br>和最后的祝愿碎语<br>我用竹篮打捞摇晃的碎片<br>却获取天边一朵云的记忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307369296)<br>音乐是一层薄纱<br>2018-04-20 18:51<br>赞(2) 踩(0) | <div>希望有机会听一次现场</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258334019)<br>难免<br>2018-04-11 07:13<br>赞(0) 踩(0) | <div>？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6803935)<br><br>2018-03-25 15:06<br>赞(0) 踩(0) | <div>其实现场的根本就录音棚的，录音棚听不到了</div> |

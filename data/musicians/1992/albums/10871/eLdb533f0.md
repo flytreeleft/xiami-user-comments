@@ -12,9 +12,6 @@
 
 ## 歌词
 
-<div>
-
-</div>
 </br>
 
 > <p>
@@ -61,8 +58,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/901190)<br> SCC<br>2013-11-14 21:56<br>赞(0) 踩(0) | <div>听是好听，歌词真的受不了，太.........</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186795)<br><br>2013-10-27 22:31<br>赞(0) 踩(0) | <div>这首歌的原唱居然是麦洁文……枉我一直以为是陈奕迅！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42736362)<br><br>2015-10-06 00:37<br>赞(0) 踩(0) | <div>是陈奕迅，你看看专辑日期。</div> |

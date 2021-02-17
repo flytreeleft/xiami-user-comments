@@ -44,8 +44,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380084984)<br>忘了痛或许可以忘了你却太...<br>2020-07-05 14:25<br>赞(0) 踩(0) | <div>山鸡真敢翻唱 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353395874)<br>要说的偏偏忘掉，我最爱得...<br>2018-05-30 20:13<br>赞(1) 踩(0) | <div>可以听听哥哥版本的，不一样哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276355888)<br><br>2018-03-28 01:57<br>赞(0) 踩(0) | <div>歌词幕写错了，应该是&amp;ldquo;lonely night&amp;rdquo;</div> |

@@ -51,5 +51,3 @@ Punchinello funny you
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

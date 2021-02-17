@@ -52,8 +52,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246028202)<br>我还没想好要写什么...<br>2020-09-24 08:54<br>赞(0) 踩(0) | <div>百听不厌 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440420512)<br>沉默是金<br>2020-09-08 16:00<br>赞(0) 踩(0) | <div>为了这首歌花了两块钱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245482008)<br><br>2020-06-19 19:40<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -117,14 +117,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3521129)<br><br>2011-05-27 19:18<br>赞(0) 踩(0) | <div>@韩小暖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/991202)<br><br>2011-05-26 16:47<br>赞(0) 踩(0) | <div>一直觉得品冠的声音很有磁性 很深刻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/812280)<br><br>2011-03-26 06:06<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/742292)<br>心之憂矣，自貽伊戚。<br>2010-07-16 08:36<br>赞(0) 踩(0) | <div>香港，一直都是我的轉機處；說對它沒有感情，是騙人的。下次轉機，是甚麼時候？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/742292)<br>心之憂矣，自貽伊戚。<br>2010-07-16 08:36<br>赞(0) 踩(0) | <div>香港，一直都是我的轉機處；<br>說對它沒有感情，是騙人的。<br><br>下次轉機，是甚麼時候？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347197405)<br>生活就是记住它的好就会一...<br>2018-02-25 07:47<br>赞(0) 踩(0) | <div>777167没骗．诚信原则</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68898)<br><br>2010-05-14 11:07<br>赞(0) 踩(0) | <div>真好听。品冠❤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3200)<br>做自己反而比较心安理得<br>2010-05-12 00:09<br>赞(32) 踩(0) | <div>转机，长途旅行中最常发生的事情之一。转机也许是漫长的等待，也许是无间隙的行为。其实有不少的歌曲都在唱有关转机的主题，但是实际上这些歌曲只是在借转机这件事抒发一些其它的情怀，就像品冠的这首《爱情在香港转机》，其中更多包含的是有关情感的东西。难得的是《爱情在香港转机》是品冠少有的粤语作品，歌曲依然是品冠惯有的抒情风格，没有很大的起伏性。品冠的粤语咬字虽然不算标准，但是儒雅地演唱方式依然为作品带来饱满的情感度。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3200)<br>做自己反而比较心安理得<br>2010-05-12 00:09<br>赞(32) 踩(0) | <div>转机，长途旅行中最常发生的事情之一。转机也许是漫长的等待，也许是无间隙的行为。其实有不少的歌曲都在唱有关转机的主题，但是实际上这些歌曲只是在借转机这件事抒发一些其它的情怀，就像品冠的这首《爱情在香港转机》，其中更多包含的是有关情感的东西。<br><br>难得的是《爱情在香港转机》是品冠少有的粤语作品，歌曲依然是品冠惯有的抒情风格，没有很大的起伏性。品冠的粤语咬字虽然不算标准，但是儒雅地演唱方式依然为作品带来饱满的情感度。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97200498)<br><br>2016-12-04 20:57<br>赞(0) 踩(0) | <div>其实还挺标准的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41944436)<br><br>2017-08-17 17:25<br>赞(0) 踩(0) | <div>他会说粤语的，发音是标准的啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191025407)<br><br>2018-03-30 17:44<br>赞(0) 踩(0) | <div>他籍贯是广东的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97723556)<br><br>2018-04-07 01:22<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97723556)<br><br>2018-04-07 01:23<br>赞(0) 踩(0) | <div>不，KL(吉隆坡)的粤语腔调就是这样，没有不标准。不是只有广州的或者香港的才叫标准，广府片口音还分城市呢</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97723556)<br><br>2018-04-07 01:23<br>赞(0) 踩(0) | <div>不，KL(吉隆坡)的粤语腔调就是这样，没有不标准。<br>不是只有广州的或者香港的才叫标准，广府片口音还分城市呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/643307)<br><br>2010-03-16 19:06<br>赞(0) 踩(0) | <div>第一次听品冠唱粤语歌，有另外一番滋味。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184758)<br>留住我吧<br>2009-07-27 12:42<br>赞(0) 踩(0) | <div>一个人在飞机上油然而生的寂寞,配上品冠的声音，听来还蛮合适的，而且还是粤语~~可以听一下</div> |

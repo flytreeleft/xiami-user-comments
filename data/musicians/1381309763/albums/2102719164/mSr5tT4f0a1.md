@@ -31,5 +31,3 @@ But killed all the mice in his father's farm
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

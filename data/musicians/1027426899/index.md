@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d170920012665fceeca603312c360565.jpg)<br>海霞](https://i.xiami.com/haixia) | **播放数**: 1445732<br>**粉丝数**: 140<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/d170920012665fceeca603312c360565.jpg)<br>海霞](https://i.xiami.com/haixia) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1445732<br>**粉丝数**: 140<br>**评论数**: 8<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -27,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-09-30 13:34<br>赞(0) 踩(0) | <div>魅力女声20200930.8</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2020-09-09 13:16<br>赞(0) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405925788)<br><br>2019-07-20 23:19<br>赞(1) 踩(0) | <div>我猜是北方人   没查资料</div> |

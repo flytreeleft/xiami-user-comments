@@ -3,7 +3,7 @@ Huun-Huur-Tu
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6ea43c9600ce3619fa7a8a9c9574af5e.jpg)<br>Huun-Huur-Tu](https://i.xiami.com/huun-huur-tu) | **播放数**: 4165746<br>**粉丝数**: 12573<br>**评论数**: 473<br>**地区**: Russia 俄罗斯<br>**风格**: 蒙古 | 呼麦 Throat Singing, 世界融合 World Fusion<br> |
+| [![](../../images/musicians/6ea43c9600ce3619fa7a8a9c9574af5e.jpg)<br>Huun-Huur-Tu](https://i.xiami.com/huun-huur-tu) | **地区**: Russia 俄罗斯<br>**风格**: 蒙古 | 呼麦 Throat Singing, 世界融合 World Fusion<br>**播放数**: 4165746<br>**粉丝数**: 12573<br>**评论数**: 473<br> |
 
 ## 档案
 
@@ -46,8 +46,8 @@ The remote region of Tuva, one of the new countries formed with the dissolution 
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341936058)<br><br>2020-12-18 20:25<br>赞(0) 踩(0) | <div>我下班在回家的出租车上边听边哭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157355)<br>榕树长青<br>2020-12-14 21:37<br>赞(0) 踩(0) | <div><img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9499384)<br>思无邪<br>2020-10-07 21:53<br>赞(1) 踩(0) | <div>长生天</div> |
@@ -66,7 +66,7 @@ The remote region of Tuva, one of the new countries formed with the dissolution 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326288455)<br>我想好要写什么了！<br>2019-11-07 13:09<br>赞(0) 踩(0) | <div>下次來什麼時候⋯⋯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9940343)<br>B I R T H M ...<br>2019-09-21 09:20<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35509231)<br>提灯天后  策马小僧<br>2019-08-19 15:37<br>赞(1) 踩(0) | <div>前天听了现场。跟耳机完全是不同的感受。现场的震撼像把脑袋罩在钟里敲钟，我都懵了。四个人的声音各有特色。散场以后大有此生无憾的满足感。我对音乐其实一知半解，可以学习的空间还很大。感谢世界上有这样的乐队吧。阿弥陀佛啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74492292)<br><br>2019-08-17 12:25<br>赞(1) 踩(0) | <div>昨晚去上海摩登天空的livehouse听了现场。可能位置没选好，感觉音效还是戴耳机在虾米上的好，但是现场还是震撼，感觉是在用身体听音乐！四野苍茫，马蹄直击心脏，苍鹰在头顶盘旋啸叫，脚下流水潺潺，烈酒斟满酒杯，音符滚滚，血脉喷张。感恩有幸能亲临现场，接受音乐的洗礼。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74492292)<br><br>2019-08-17 12:25<br>赞(1) 踩(0) | <div>昨晚去上海摩登天空的livehouse听了现场。可能位置没选好，感觉音效还是戴耳机在虾米上的好，但是现场还是震撼，感觉是在用身体听音乐！四野苍茫，马蹄直击心脏，苍鹰在头顶盘旋啸叫，脚下流水潺潺，烈酒斟满酒杯，音符滚滚，血脉喷张。<br><br>感恩有幸能亲临现场，接受音乐的洗礼。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50748423)<br>最深入灵魂的自然之声<br>2019-08-03 03:12<br>赞(2) 踩(0) | <div>《万里》——恒哈图乐队2019中国巡演8月16日正式起航！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35509231)<br>提灯天后  策马小僧<br>2019-08-08 17:20<br>赞(0) 踩(0) | <div>啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊我的妈呀我眼泪都出来了。刚刚还刷上面的评论看到错过了那么多演唱会，然后就看到了这条消息。。。。。我疯了。。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6880555)<br>我痛恨无法独处的人<br>2019-06-25 10:55<br>赞(0) 踩(0) | <div>最喜欢这张专辑</div> |
@@ -96,7 +96,7 @@ The remote region of Tuva, one of the new countries formed with the dissolution 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45530116)<br>就此别过啦 愿彼此安好 <br>2018-08-08 07:49<br>赞(1) 踩(0) | <div>终于要来珠海了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297999609)<br>去克洛里吧<br>2018-08-05 15:46<br>赞(0) 踩(0) | <div>嗯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478527)<br>好想跟衣服在洗衣机里滚<br>2018-08-04 02:21<br>赞(2) 踩(0) | <div>9月27日 约北京国家图书馆艺术中心</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9080939)<br>不为无益之事，何遣有涯之...<br>2018-08-02 14:39<br>赞(4) 踩(0) | <div>恒哈图乐队2018年中国巡演：9月8日  珠海华发中演大剧院9月12日  呼和浩特乌兰恰特大剧院9月16日  上海1862时尚艺术中心9月27日  北京国家图书馆艺术中心其余各站陆续更新中..&amp;hellip;&amp;hellip;</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9080939)<br>不为无益之事，何遣有涯之...<br>2018-08-02 14:39<br>赞(4) 踩(0) | <div>恒哈图乐队2018年中国巡演：<br>9月8日  珠海华发中演大剧院<br>9月12日  呼和浩特乌兰恰特大剧院<br>9月16日  上海1862时尚艺术中心<br>9月27日  北京国家图书馆艺术中心<br>其余各站陆续更新中..&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1955060)<br><br>2018-07-24 00:43<br>赞(0) 踩(0) | <div>你是我永远够不到的梦。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9080939)<br>不为无益之事，何遣有涯之...<br>2018-08-02 14:46<br>赞(0) 踩(0) | <div>这不够得着了吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1955060)<br><br>2018-08-02 14:50<br>赞(0) 踩(0) | <div><q><b>离弦说：</b></q></div> |
@@ -124,10 +124,10 @@ The remote region of Tuva, one of the new countries formed with the dissolution 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36447559)<br> 再想一想<br>2017-10-16 15:57<br>赞(0) 踩(0) | <div>听得鸡皮疙瘩 太棒了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9288193)<br>2020年弃用虾米，20...<br>2017-10-11 15:13<br>赞(2) 踩(0) | <div>上kexp了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1465754)<br>Tu es si bel...<br>2017-10-05 18:08<br>赞(0) 踩(0) | <div>桃白白</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9180393)<br><br>2017-10-25 22:14<br>赞(0) 踩(0) | <div>在本该轻松严肃的氛围下，我笑了~下一秒我又被拉回音乐里去了</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9180393)<br><br>2017-10-25 22:14<br>赞(0) 踩(0) | <div>在本该轻松严肃的氛围下，我笑了~<br>下一秒我又被拉回音乐里去了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11619501)<br><br>2017-09-18 10:19<br>赞(0) 踩(0) | <div>听了现场版之后再听音频总觉得不够过瘾啊，由奢入俭难啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68346744)<br>Amarcord<br>2017-09-18 10:13<br>赞(0) 踩(0) | <div>西安说什么都要去</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325438620)<br><br>2017-09-17 09:33<br>赞(0) 踩(0) | <div>自然大气</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325438620)<br><br>2017-09-17 09:33<br>赞(0) 踩(0) | <div>自然<br>大气</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2202110)<br>作梦中梦 悟身外身<br>2017-09-16 10:14<br>赞(0) 踩(0) | <div>9月19长沙音乐厅见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/514666)<br>我两手空空一个拿不出献礼...<br>2017-08-01 19:24<br>赞(3) 踩(0) | <div>2017年9月30日，西安！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228149292)<br>义拉拉塔是我的<br>2017-09-06 06:39<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
@@ -157,7 +157,7 @@ The remote region of Tuva, one of the new countries formed with the dissolution 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17902422)<br><br>2016-10-21 23:18<br>赞(0) 踩(0) | <div>神乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46867157)<br>这家伙很聪明，只留下这句...<br>2016-09-12 02:49<br>赞(2) 踩(0) | <div>精彩的演出！带旋律的呼麦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1026758)<br>我们生来就是孤独。<br>2016-09-04 00:18<br>赞(1) 踩(0) | <div>終於在B10看到恆哈圖的演出，來自古老和遙遠的草原的歌聲，融入血和肉和骨髓，渾然天成。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/868750)<br><br>2016-09-03 10:52<br>赞(3) 踩(0) | <div>昨天看见广州的现场，太~~赞了。丰富多样的人声，配上各种图瓦民族乐器，营造出悠远广阔的空间感。问:巡演中的胖高个，是从YAT-KHA乐队出来的么？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/868750)<br><br>2016-09-03 10:52<br>赞(3) 踩(0) | <div>昨天看见广州的现场，太~~赞了。丰富多样的人声，配上各种图瓦民族乐器，营造出悠远广阔的空间感。<br>问:巡演中的胖高个，是从YAT-KHA乐队出来的么？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53894)<br>我还没想好要写什么...<br>2016-10-03 00:55<br>赞(0) 踩(0) | <div>对</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3823675)<br>通往出口的路是什么形状？<br>2016-08-28 10:40<br>赞(0) 踩(0) | <div>上周在上海看了现场，很棒很享受！ <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33599049)<br><br>2016-08-15 00:14<br>赞(0) 踩(0) | <div>长阳音乐节北京的朋友谁去</div> |
@@ -230,7 +230,7 @@ The remote region of Tuva, one of the new countries formed with the dissolution 
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16407738)<br><br>2015-08-21 15:21<br>赞(0) 踩(0) | <div>确定？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2565977)<br> <br>2015-08-25 22:53<br>赞(0) 踩(0) | <div>当真？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11223084)<br><br>2015-09-25 22:37<br>赞(0) 踩(0) | <div><q><b>我弄你三爷说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3388943)<br>凡间有音乐，人间有福气<br>2015-08-08 10:42<br>赞(0) 踩(0) | <div>朴素的音乐，悦耳蒙古传统乐器</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3388943)<br>凡间有音乐，人间有福气<br>2015-08-08 10:42<br>赞(0) 踩(0) | <div>朴素的音乐，悦耳<br>蒙古传统乐器</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34895701)<br>我还没想好要写什么...<br>2015-08-06 11:01<br>赞(3) 踩(0) | <div>过年就去图瓦共和国!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54041454)<br><br>2015-07-31 10:33<br>赞(0) 踩(0) | <div>Huun huur to 的忠实粉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9593105)<br><br>2015-07-23 15:57<br>赞(3) 踩(0) | <div>看过现场，太震撼！</div> |
@@ -274,7 +274,7 @@ The remote region of Tuva, one of the new countries formed with the dissolution 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42547104)<br><br>2014-10-14 23:42<br>赞(0) 踩(0) | <div>我的图瓦，继续向前。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253960)<br><br>2014-10-13 16:58<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1895474)<br>再见 虾米 现在我不能像...<br>2014-10-11 19:17<br>赞(0) 踩(0) | <div>呼呼土</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/836702)<br>DIVINEDLB<br>2014-09-23 00:40<br>赞(0) 踩(0) | <div>Huun-Huur-Tu  - Kongurei  Mako Livehouse 2014.09.20<a href="http://v.youku.com/v_show/id_XNzg4MzA3NjI0.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XNzg4MzA3NjI0.html</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/836702)<br>DIVINEDLB<br>2014-09-23 00:40<br>赞(0) 踩(0) | <div>Huun-Huur-Tu  - Kongurei  Mako Livehouse 2014.09.20<br><a href="http://v.youku.com/v_show/id_XNzg4MzA3NjI0.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XNzg4MzA3NjI0.html</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11010688)<br>我还没想好要写什么...<br>2014-09-22 02:37<br>赞(0) 踩(0) | <div>爸爸去哪兒的製作組還是很有實力的，這麼好的音樂都找得到</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3441)<br>茹毛饮血<br>2014-10-09 11:49<br>赞(0) 踩(0) | <div>爸爸去哪儿用的是杭盖的。。不是这个乐队。。<a href="http://i.xiami.com/hanggai" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/hanggai</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11010688)<br>我还没想好要写什么...<br>2014-10-13 07:17<br>赞(0) 踩(0) | <div><q><b>粉粉的奶牛说：</b></q></div> |
@@ -310,7 +310,7 @@ The remote region of Tuva, one of the new countries formed with the dissolution 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7359461)<br>灵魂的吉普赛人<br>2014-01-20 15:58<br>赞(0) 踩(0) | <div>图瓦共和国乐团.Huun-Huur-Tu,蒙古呼麦.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35765448)<br>我还没想好要写什么...<br>2014-09-07 13:43<br>赞(0) 踩(0) | <div>关注你了，倒是希望你可以分享一些蒙古族的音乐给我。3Q</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3289990)<br>谁便听<br>2014-01-02 17:07<br>赞(0) 踩(0) | <div>神了…</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13418921)<br>寂寞为骨音乐做髓<br>2013-12-15 16:00<br>赞(0) 踩(0) | <div>呼麦，高低喉音，，一种独特的风味和魅力让人想飞腾于广袤的天地中。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13418921)<br>寂寞为骨音乐做髓<br>2013-12-15 16:00<br>赞(0) 踩(0) | <div>呼麦，高低喉音，，一种独特的风味和魅力<br>让人想飞腾于广袤的天地中。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13116345)<br><br>2013-12-14 21:39<br>赞(0) 踩(0) | <div>自由的呐喊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8539366)<br>我们在网易云音乐相见，网...<br>2013-11-11 10:42<br>赞(76) 踩(0) | <div>这个乐队肯定不属于地球</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4151677)<br><br>2014-03-09 16:03<br>赞(0) 踩(0) | <div>+1</div> |

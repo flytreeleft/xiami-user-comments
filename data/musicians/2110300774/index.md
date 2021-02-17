@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d7d106e9b13261f71709525b8e001c77.jpg)<br>潘果果](https://i.xiami.com/panguoguo) | **播放数**: 1675767<br>**粉丝数**: 114<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/d7d106e9b13261f71709525b8e001c77.jpg)<br>潘果果](https://i.xiami.com/panguoguo) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 1675767<br>**粉丝数**: 114<br>**评论数**: 8<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -23,9 +20,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377669839)<br>每个人的经历都不同，暮然...<br>2019-10-31 05:14<br>赞(0) 踩(0) | <div>果果的歌曲，待你长发及腰，为什么害羞，一生听你心跳，</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377669839)<br>每个人的经历都不同，暮然...<br>2019-10-31 05:14<br>赞(0) 踩(0) | <div>果果的歌曲，待你长发及腰，<br>为什么害羞，一生听你心跳，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-05-17 14:20<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209379113)<br><br>2019-04-08 10:24<br>赞(1) 踩(0) | <div>来疯主播走心的人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359345083)<br><br>2018-09-18 23:05<br>赞(1) 踩(0) | <div>有直播的号吗？想听你的歌</div> |

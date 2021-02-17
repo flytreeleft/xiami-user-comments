@@ -48,9 +48,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 22:07<br>赞(1) 踩(0) | <div>「我喜歡把古詩詞拆散再重組，更用這個方法創作了一整張專輯《花訣》。氣象，物件，自然現象，所有本身沒有情的東西，一旦用某種角度排序，就極具指向性，描述最遠古的情感與企盼；一個「愛」字都沒有的情詩，會更顯情感的濃烈，溫婉細膩，這也是我的創作一直奉行的信念。跟你分享我其中一首最愛的創作：《鏡花緣》」&amp;mdash;&amp;mdash;一峰2020.4.20于微博</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 22:07<br>赞(1) 踩(0) | <div>「我喜歡把古詩詞拆散再重組，更用這個方法創作了一整張專輯《花訣》。氣象，物件，自然現象，所有本身沒有情的東西，一旦用某種角度排序，就極具指向性，描述最遠古的情感與企盼；一個「愛」字都沒有的情詩，會更顯情感的濃烈，溫婉細膩，這也是我的創作一直奉行的信念。跟你分享我其中一首最愛的創作：《鏡花緣》」<br>&amp;mdash;&amp;mdash;一峰<br>2020.4.20于微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368281143)<br><br>2019-11-19 12:35<br>赞(0) 踩(0) | <div>只差一秒便忘掉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103944666)<br>爱音乐，爱学习，爱生活，...<br>2019-04-06 21:23<br>赞(0) 踩(0) | <div>吉他绝了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6820570)<br>这是语言的变调，承接醒来...<br>2019-01-17 17:53<br>赞(0) 踩(0) | <div>睇过你，既是入了心镜</div> |
@@ -76,9 +76,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434432)<br> <br>2012-01-04 23:51<br>赞(0) 踩(0) | <div>#夜眠曲#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3914072)<br> <br>2011-11-12 20:46<br>赞(0) 踩(0) | <div>清冷的孤寂，温暖的回忆，不动声色的感动与忧伤，忽然就这样充盈了耳朵，陡然惊艳。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6318434)<br><br>2011-10-18 21:49<br>赞(0) 踩(0) | <div>好适合这个秋天哦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2627785)<br>Yvonne is a ...<br>2011-07-11 22:11<br>赞(0) 踩(0) | <div>春花秋月何时了镜花醒觉水里凋容颜会苍老椎心刺骨的一切亦退消却跨不过奈何桥</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2627785)<br>Yvonne is a ...<br>2011-07-11 22:11<br>赞(0) 踩(0) | <div>春花秋月何时了<br>镜花醒觉水里凋<br>容颜会苍老<br>椎心刺骨的一切亦退消<br>却跨不过奈何桥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1118437)<br>ahahah<br>2011-06-19 10:42<br>赞(0) 踩(0) | <div>美翻了，这张概念专辑好讨巧。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3670540)<br><br>2011-04-22 22:51<br>赞(1) 踩(0) | <div>听到这首歌的时候我突然想起了哥哥，想起了那首《胭脂扣》。林一峰的声音很安静，让人很舒服，很享受。淡淡的唱着，很美很美</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3670540)<br><br>2011-04-22 22:51<br>赞(1) 踩(0) | <div>听到这首歌的时候我突然想起了哥哥，想起了那首《胭脂扣》。<br>林一峰的声音很安静，让人很舒服，很享受。淡淡的唱着，很美很美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2859595)<br>我跟你描述一个灵魂，他拥...<br>2011-04-16 22:27<br>赞(2) 踩(0) | <div>这张碟不是好听，而是好美。春花秋月，镜花水月。港乐的中国风也可这么美，让人想到的却是上世纪二三十年代的故事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1622123)<br><br>2011-03-23 23:06<br>赞(0) 踩(0) | <div>这么美的一张碟怎么能不推荐啊！！！！大爱！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/918665)<br><br>2011-03-20 13:15<br>赞(0) 踩(0) | <div>楼台又东风，故人知多少</div> |

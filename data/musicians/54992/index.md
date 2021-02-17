@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1098875938af4ef22c51eb8ca210da1a.jpg)<br>张一益](https://i.xiami.com/zhangyiyi) | **播放数**: 9214304<br>**粉丝数**: 5401<br>**评论数**: 294<br>**地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 轻音乐 Easy Listening, 爵士流行 Jazz Pop, 器乐独奏 Solo Instrumental<br> |
+| [![](../../images/musicians/1098875938af4ef22c51eb8ca210da1a.jpg)<br>张一益](https://i.xiami.com/zhangyiyi) | **地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 轻音乐 Easy Listening, 爵士流行 Jazz Pop, 器乐独奏 Solo Instrumental<br>**播放数**: 9214304<br>**粉丝数**: 5401<br>**评论数**: 294<br> |
 
 ## 档案
 
@@ -28,8 +28,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296864355)<br>浮生若梦 为欢几何<br>2020-03-24 18:10<br>赞(2) 踩(0) | <div>一直很喜欢张老师的音乐风格，简单、清新、愉悦，听您的第一首曲子是《夏夜星光》，惊叹作曲家可以用音乐制造出夏夜星子点点在天空中闪烁游走的画面，太神奇了～期待您更多的音乐作品，也期待您再次来广东开演奏会！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128020408)<br><br>2020-02-08 20:40<br>赞(0) 踩(0) | <div>随机推送了你的美丽女孩，卧槽！怎么这么好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277583981)<br>顺境时照顾别人，逆境时照...<br>2020-01-27 13:32<br>赞(1) 踩(0) | <div>喜欢您的音乐，期待</div> |
@@ -56,7 +56,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634749)<br><br>2017-10-27 23:46<br>赞(1) 踩(0) | <div>看到公告栏updated . congrats ! expecting to have your album before the summer ! haha</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19690066)<br>我还没想好要写什么...<br>2018-11-07 08:13<br>赞(0) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4131849)<br>网易云：非人類兔子Agy...<br>2017-10-20 00:30<br>赞(0) 踩(0) | <div>+</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173626638)<br><br>2017-10-12 13:06<br>赞(3) 踩(0) | <div>纯粹的音乐，听了使人内心有种平静清澈的感觉。相信作者内心也是纯净幸福的。张一益的音乐可以让人平静，放飞心灵，享受其中，很棒。希望可以听到你更多的作品。比较喜欢钢琴专辑《幻想》中的致母亲；《旅行》中的诺言和老照片二首作品。吉他专辑《回音》的几首曲子我全有收藏，一直都很喜欢反反复复地听。还有新发行的吉他专辑《谷雨》，都别有一番风味，之前钢琴专辑的清新感人的神韵都在，让人享受到了音乐带来的乐趣。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173626638)<br><br>2017-10-12 13:06<br>赞(3) 踩(0) | <div>纯粹的音乐，听了使人内心有种平静清澈的感觉。相信作者内心也是纯净幸福的。张一益的音乐可以让人平静，放飞心灵，享受其中，很棒。希望可以听到你更多的作品。比较喜欢钢琴专辑《幻想》中的致母亲；《旅行》中的诺言和老照片二首作品。<br>吉他专辑《回音》的几首曲子我全有收藏，一直都很喜欢反反复复地听。还有新发行的吉他专辑《谷雨》，都别有一番风味，之前钢琴专辑的清新感人的神韵都在，让人享受到了音乐带来的乐趣。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2017-10-12 13:06<br>赞(1) 踩(0) | <div>吉他也弹得别有一番风味，之前钢琴专辑的清新感人的神韵都在，希望不断尝试不断享受音乐带来的乐趣。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19809266)<br>安静听音乐<br>2017-10-09 20:41<br>赞(0) 踩(0) | <div>来南京演出一定去看</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19809266)<br>安静听音乐<br>2017-10-09 20:40<br>赞(0) 踩(0) | <div>有点比尔道格拉斯的味道，非常喜欢！ <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
@@ -64,7 +64,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307809084)<br> <br>2017-09-22 08:19<br>赞(1) 踩(0) | <div>不知不觉间就收藏了你很多作品 可见真的是喜欢那种感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413990)<br>恶人勿近～<br>2017-09-15 02:37<br>赞(0) 踩(0) | <div>吓死我了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285580344)<br><br>2017-09-04 10:10<br>赞(0) 踩(0) | <div>我觉的好听收藏了，希望听到你更好的作品</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317372688)<br>Salsamba<br>2017-08-18 02:17<br>赞(2) 踩(0) | <div>你好，你的音乐很棒！我们是来自美国的爵士乐团Salsamba latin jazz group，刚刚上传了我们的一张专辑，希望大家能够互相欣赏互相交流。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317372688)<br>Salsamba<br>2017-08-18 02:17<br>赞(2) 踩(0) | <div>你好，你的音乐很棒！<br>我们是来自美国的爵士乐团Salsamba latin jazz group，刚刚上传了我们的一张专辑，希望大家能够互相欣赏互相交流。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168542090)<br> <br>2017-08-10 16:28<br>赞(0) 踩(0) | <div>第一次听张一益的原创钢琴专辑，是许多年前在「班得瑞全球音乐网」。其钢琴成名曲 &amp;ldquo;Valentine.s Day &amp;rdquo; (情人节)  就收录在这张专辑中，很经典很优美。张一益的音乐作品风格就是缥缈、空灵，富有感情。有的曲子伤感，充满回忆。有的曲子梦幻，充满美好。有的曲子让你如同置身于大自然中，有返璞归真的感觉。是轻音乐创作领域质量比较高的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312803796)<br> <br>2017-08-02 08:36<br>赞(3) 踩(0) | <div>经典之作，收藏 <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42172015)<br><br>2017-07-29 19:54<br>赞(1) 踩(0) | <div>懂你</div> |
@@ -72,7 +72,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108892684)<br><br>2017-07-09 09:52<br>赞(0) 踩(0) | <div>当我还在用酷我时听到了你的Autumn ,真的让人不舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108892684)<br><br>2017-07-09 09:49<br>赞(0) 踩(0) | <div>这种东西，其实和pop music一个水准的，然而还是有这么多人边听轻音乐边自许清高，唉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108892684)<br><br>2017-07-09 09:43<br>赞(0) 踩(0) | <div>你真的是中国的理查德(笑</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307469044)<br><br>2017-06-26 20:29<br>赞(1) 踩(0) | <div>基本功不错，遗憾了我的哥！没有灵魂的曲子，你真心需要和别人好好谈谈心情</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307469044)<br><br>2017-06-26 20:29<br>赞(1) 踩(0) | <div>基本功不错，遗憾了我的哥！没有灵魂的曲子，<br>你真心需要和别人好好谈谈心情</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307469044)<br><br>2017-06-26 20:28<br>赞(1) 踩(0) | <div>听了三首，充分感觉到你无法安静的心灵，抢节奏太明显，每个音符都在抢！不是自然流淌出来的！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307469044)<br><br>2017-06-26 20:26<br>赞(1) 踩(0) | <div>冬之雨算曲子吗？？？？？练习曲！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307469044)<br><br>2017-06-26 20:24<br>赞(1) 踩(0) | <div>你成了匠人了，，自由，也是技巧太匠！旋律性好差，节奏感也好差！</div> |
@@ -207,7 +207,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30990932)<br>暂无签名~<br>2014-03-28 15:09<br>赞(0) 踩(0) | <div>很好听 纯音乐 很舒缓~~~继续加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9858506)<br>不自量力地还手，直至死方...<br>2014-03-26 23:02<br>赞(0) 踩(0) | <div>支持小张啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11575558)<br> <br>2014-03-10 11:09<br>赞(0) 踩(0) | <div>很喜欢你作品，加油！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2014-03-06 17:17<br>赞(0) 踩(0) | <div>好早之前就喜欢《Autumn》淡淡的忧伤，唯美派听了好久。没想到这几年专辑速度猛增，都入住虾米了，希望继续出佳作，享受音乐！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2014-03-06 17:17<br>赞(0) 踩(0) | <div>好早之前就喜欢《Autumn》淡淡的忧伤，唯美派听了好久。<br>没想到这几年专辑速度猛增，都入住虾米了，希望继续出佳作，享受音乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13194141)<br>看到的给我来个联络方式。...<br>2014-03-04 21:54<br>赞(0) 踩(0) | <div>从优酷听到的，现在在虾米找到了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13194141)<br>看到的给我来个联络方式。...<br>2014-03-04 21:53<br>赞(0) 踩(0) | <div>真棒，好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8877359)<br>我还没想好要写什么...<br>2014-02-22 23:05<br>赞(0) 踩(0) | <div>恩～  从虾米猜听来的  超合口味啊   赞一个</div> |

@@ -40,8 +40,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230813402)<br><br>2020-10-25 23:56<br>赞(0) 踩(0) | <div>评论</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429085776)<br>水生木兮木生火<br>2020-09-27 19:28<br>赞(0) 踩(0) | <div>这谁唱的，去唱别的情歌吧，拜拜，听不下去，天龙八部，谁谱的断肠曲，谁唱的幽怨调子，这还是我心中的英雄，天龙八部吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378160728)<br>主一天道<br>2020-07-12 15:46<br>赞(0) 踩(0) | <div>没人听？</div> |
@@ -53,7 +53,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297941187)<br><br>2019-04-17 10:42<br>赞(1) 踩(0) | <div>可能还是杨宗纬好一点吧！就不侮辱大神了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423370698)<br><br>2019-04-16 15:50<br>赞(1) 踩(0) | <div>这守歌配乐谁知道，就是没有唱纯音乐那种</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11026642)<br><br>2019-03-31 18:53<br>赞(0) 踩(0) | <div>有志气。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409505220)<br><br>2019-02-10 15:09<br>赞(1) 踩(0) | <div>曲子这么好，豪放，很适合天龙八部但是，这是谁唱的啊，这唱的叫一个烂啊，哈哈哈 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409505220)<br><br>2019-02-10 15:09<br>赞(1) 踩(0) | <div>曲子这么好，豪放，很适合天龙八部<br>但是，这是谁唱的啊，这唱的叫一个烂啊，哈哈哈 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51594898)<br><br>2018-09-27 00:32<br>赞(1) 踩(0) | <div>段誉真是被那个天雷造型毁了。。。现代装不难看的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276163673)<br><br>2018-08-24 01:57<br>赞(4) 踩(0) | <div>是个豪迈的曲子，听的我热血沸腾</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253172711)<br> <br>2018-05-09 09:27<br>赞(4) 踩(0) | <div>自古烂剧出好歌 新天龙两首歌都好听 天龙八部跟痴情冢都好听 剧情就呵呵了</div> |
@@ -110,8 +110,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42182736)<br><br>2014-11-21 22:17<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20882935)<br><br>2014-11-03 13:37<br>赞(1) 踩(0) | <div>电视剧《新天龙八部》片头曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30622616)<br>这个人什么都不想留下<br>2014-08-19 23:39<br>赞(2) 踩(0) | <div>副歌的词不错。唉…好好干自己本业不好么，搞什么跨界，经过专业后期踩点咬字调子居然没一个准的，一泡污，简直精神污染浪费这个词曲。坐等翻唱。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33835612)<br>gone gone go<br>2014-07-05 13:33<br>赞(3) 踩(0) | <div>新天龙八部的最大贡献就是这首歌了太喜欢 词曲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3118723)<br>要爱也要闪闪发光<br>2014-02-18 15:41<br>赞(1) 踩(0) | <div>美人在侧 兄弟并肩大好江山都看遍好带感！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33835612)<br>gone gone go<br>2014-07-05 13:33<br>赞(3) 踩(0) | <div>新天龙八部的最大贡献就是这首歌了<br>太喜欢 词曲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3118723)<br>要爱也要闪闪发光<br>2014-02-18 15:41<br>赞(1) 踩(0) | <div>美人在侧 兄弟并肩<br>大好江山都看遍<br><br>好带感！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2501827)<br><br>2014-02-12 03:22<br>赞(1) 踩(0) | <div>这就是《天龙八部》的主题曲，舍他其谁！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31864680)<br><br>2014-01-19 07:37<br>赞(1) 踩(0) | <div>nice music</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7794002)<br><br>2014-01-16 23:54<br>赞(2) 踩(0) | <div>洗脑循环中。</div> |

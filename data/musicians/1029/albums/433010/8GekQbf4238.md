@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440939454)<br><br>2020-06-28 12:12<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"> <img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287017)<br>姌稥毓影，复刻轻悠<br>2019-11-30 07:41<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"> <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"> <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88325236)<br>音乐是我的爱人！<br>2019-02-05 09:00<br>赞(1) 踩(0) | <div>徐清原，台湾著名宗教音乐制作人与唱诵家，2014年亚洲宗教音乐金曲奖获得者。 全才型音乐家，早期创作许多脍炙人口的华语流行音乐词曲，包括迪克牛仔「妳是妳我是我」、任贤齐「永远存在」……</div> |

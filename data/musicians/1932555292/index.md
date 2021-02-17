@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/36d8742caed74aee7813eb985defb82d.jpg)<br>刘晓光](https://i.xiami.com/xiaoguang) | **播放数**: 2265453<br>**粉丝数**: 223<br>**评论数**: 21<br>**地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 国语流行 Mandarin Pop, 校园民谣 Campus Folk<br> |
+| [![](../../images/musicians/36d8742caed74aee7813eb985defb82d.jpg)<br>刘晓光](https://i.xiami.com/xiaoguang) | **地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 国语流行 Mandarin Pop, 校园民谣 Campus Folk<br>**播放数**: 2265453<br>**粉丝数**: 223<br>**评论数**: 21<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-03-26 08:42<br>赞(0) 踩(0) | <div>40119</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410103283)<br><br>2018-12-07 22:26<br>赞(0) 踩(0) | <div>加油，清华男神</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239301041)<br><br>2018-05-22 11:16<br>赞(0) 踩(0) | <div>加油</div> |

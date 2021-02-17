@@ -49,8 +49,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402948308)<br><br>2021-01-21 06:58<br>赞(0) 踩(0) | <div>好听(ง &amp;bull;̀_&amp;bull;́)ง</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3917105)<br>我还没想好要写什么...<br>2020-12-18 21:49<br>赞(0) 踩(0) | <div>不再让你左右为难了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343798281)<br><br>2020-10-27 02:32<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -61,7 +61,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33607343)<br>ខ្ញុំចង់ប្រា...<br>2020-12-07 04:20<br>赞(0) 踩(0) | <div>因为走心了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16096828)<br>甜梦给晚风。<br>2020-09-09 09:11<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45810215)<br>似木头似石头的话得到注意...<br>2020-08-27 18:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355163221)<br>他一定很爱你<br>2020-08-21 20:46<br>赞(0) 踩(0) | <div>原谅我的鲁莽行为 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">不再让你左右为难了这是爱你的决定</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355163221)<br>他一定很爱你<br>2020-08-21 20:46<br>赞(0) 踩(0) | <div>原谅我的鲁莽行为 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"><br>不再让你左右为难了<br>这是爱你的决定</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54676006)<br>冷記憶<br>2020-08-19 18:25<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419847434)<br><br>2020-08-16 13:21<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430688598)<br><br>2020-08-10 01:04<br>赞(1) 踩(0) | <div>初中听的歌 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -71,7 +71,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183660558)<br>我是鱼迷，希望能够认识同...<br>2020-08-18 00:24<br>赞(0) 踩(0) | <div>♂上加♂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441423727)<br><br>2020-06-23 12:13<br>赞(3) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27166595)<br>遥远的那个你，健康开心。<br>2020-06-10 10:11<br>赞(2) 踩(0) | <div>不在为难你，不想听你在敷衍我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351421684)<br><br>2020-05-15 15:48<br>赞(5) 踩(0) | <div>感性的嗓音特好聽  <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351421684)<br><br>2020-05-15 15:48<br>赞(5) 踩(0) | <div>感性的嗓音<br>特好聽  <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197042380)<br>無常與明天誰會先到來，我...<br>2020-04-24 06:22<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351263634)<br><br>2020-04-16 23:20<br>赞(2) 踩(0) | <div>只要你快乐，我没關係</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343015134)<br>❄张扬于我消亡，雪已据我...<br>2020-04-15 23:54<br>赞(1) 踩(0) | <div>打卡</div> |
@@ -82,7 +82,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351263634)<br><br>2020-03-25 21:46<br>赞(2) 踩(0) | <div>怎能就擋沒認識過?但只要你快樂，我什么都可以，这就是愛你的决定</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435107585)<br>好好的<br>2020-03-17 11:52<br>赞(2) 踩(0) | <div>咦咦咦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/981187)<br>音乐，动力无限<br>2020-03-10 07:03<br>赞(2) 踩(0) | <div>听一听有什么不同</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49016407)<br>文字是音乐的感悟。<br>2020-02-28 13:08<br>赞(24) 踩(0) | <div>《左右为难》- 新加坡流行女歌手蔡淳佳的作品。尘世情爱间的 “先来后到” 的俗成是否便合理？这一个命题，一直让多少众生徘徊于爱的缘分的十字路口之上，……莫名不可自拔！而作为当事人的那句：谁介入了谁呢的呼问？，却是那么的让人感到哀怨无助，凄美憾心！爱侣们！我们怎么不能都跟着感觉走吗？蔡淳佳感性的声线及演绎，让此歌轻易地便泛起了情漪波澜！ <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49016407)<br>文字是音乐的感悟。<br>2020-02-28 13:08<br>赞(24) 踩(0) | <div>《左右为难》- 新加坡流行女歌手蔡淳佳的作品。<br>尘世情爱间的 “先来后到” 的俗成是否便合理？这一个命题，一直让多少众生徘徊于爱的缘分的十字路口之上，……莫名不可自拔！<br>而作为当事人的那句：谁介入了谁呢的呼问？，却是那么的让人感到哀怨无助，凄美憾心！爱侣们！我们怎么不能都跟着感觉走吗？<br>蔡淳佳感性的声线及演绎，让此歌轻易地便泛起了情漪波澜！ <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409325735)<br><br>2020-02-26 12:46<br>赞(1) 踩(0) | <div>听下歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42586193)<br>陌上人如玉，公子世无双<br>2020-02-26 07:29<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255692362)<br>Work hard pl...<br>2020-02-26 00:31<br>赞(1) 踩(0) | <div>“不想再听你找的藉口 好了 从今之後不要再联络”再痛也要割舍</div> |
@@ -91,19 +91,19 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431044629)<br>我还没想好要写什么......<br>2020-02-17 21:09<br>赞(0) 踩(0) | <div>太好听了正点啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197042380)<br>無常與明天誰會先到來，我...<br>2020-02-17 00:44<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376705574)<br>无形的压力扑面而来<br>2020-02-12 15:32<br>赞(1) 踩(0) | <div>疫情当前待在家里，静静在窗台上听这首歌感概万千，希望疫情快快结束，</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44623385)<br><br>2020-02-04 08:36<br>赞(0) 踩(0) | <div>他与她们自驾去了很远的海边，他似乎理直气壮，我一句没听清，只是说，你再说一句黑了你！他回了个表情囧。我们彼此等得太久太疲惫了，无需左右为难，就能永久的黑白.....</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44623385)<br><br>2020-02-04 08:36<br>赞(0) 踩(0) | <div>他与她们自驾去了很远的海边，他似乎理直气壮，我一句没听清，只是说，你再说一句黑了你！他回了个表情囧。<br>我们彼此等得太久太疲惫了，无需左右为难，就能永久的黑白.....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411339268)<br>为你钟情<br>2020-01-18 09:58<br>赞(1) 踩(0) | <div>只要你快乐就好，从来不愿意让你为难。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427853883)<br>我还没想好要写什么...<br>2020-01-09 11:01<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409325735)<br><br>2019-12-30 10:20<br>赞(2) 踩(0) | <div>我让你左右为难了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339891908)<br>没有开始就结束的爱恋，才...<br>2019-12-13 15:26<br>赞(2) 踩(0) | <div>那时的我十几岁的年纪，从来也没想过学生时代会早恋，而那时的他明明是不会也不可能会喜欢的人。只是后来分开的时候觉得不舍觉得难过，怕之后就不会再遇见。十几年过去了，偶尔做梦回到了过去，在梦中还是会遇见他，然后才恍然，或许那时候是喜欢的他，那可能是学生时代最单纯的悸动了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615607)<br> 哪有什么岁月安好，只是...<br>2019-12-11 00:08<br>赞(1) 踩(0) | <div>左右为难</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257442501)<br> <br>2020-02-23 15:24<br>赞(0) 踩(0) | <div>哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83405550)<br>从容地走在时光里，浅浅地...<br>2019-12-06 23:49<br>赞(1) 踩(0) | <div>放手会不会解脱我让你不再左右为难了就当做从来就没有认识过从今之後不要再联络这不是爱你的决定而是我无可奈何</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83405550)<br>从容地走在时光里，浅浅地...<br>2019-12-06 23:49<br>赞(1) 踩(0) | <div>放手会不会解脱<br>我让你不再左右为难了<br>就当做从来就没有认识过<br>从今之後不要再联络<br>这不是爱你的决定<br>而是我无可奈何</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262155409)<br>我还没想好要写什<br>2019-12-01 00:47<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280354423)<br>我还没想好要写什么...<br>2019-11-28 18:31<br>赞(1) 踩(0) | <div>明天的淳佳演唱会好期待</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77655622)<br>讨厌洗衣服<br>2019-11-26 13:43<br>赞(0) 踩(0) | <div>左右为♂男</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427487145)<br><br>2019-11-25 13:56<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351081363)<br>难忘的虾米、难舍的歌友…...<br>2019-11-10 13:06<br>赞(3) 踩(0) | <div>心的梦，远而有味；意的醉，静而生情。心情如此的沉醉，爱意如此的疲惫；泪水如此的滋味，相思如此的痴醉；爱意却是如此的憔悴，随着褪色的容颜埋没着相思。藏送着属于自己的心酸泪水，付出的情感，求知的欲望，随着岁月的流逝，而逢在万景之下的坠落。泪水为相思而擦去伤痕，相思为泪水而谱写伤感，多少相思，多少泪，一滴情泪，三世梦。约在红尘走，逢在念中见，走出来的是痕迹，念出来是相思的梦…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351081363)<br>难忘的虾米、难舍的歌友…...<br>2019-11-10 13:06<br>赞(3) 踩(0) | <div>心的梦，远而有味；意的醉，静而生情。<br>心情如此的沉醉，爱意如此的疲惫；泪水如此的滋味，相思如此的痴醉；爱意却是如此的憔悴，随着褪色的容颜埋没着相思。藏送着属于自己的心酸泪水，付出的情感，求知的欲望，随着岁月的流逝，而逢在万景之下的坠落。泪水为相思而擦去伤痕，相思为泪水而谱写伤感，多少相思，多少泪，一滴情泪，三世梦。<br>约在红尘走，逢在念中见，走出来的是痕迹，念出来是相思的梦…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420192889)<br><br>2019-11-01 14:54<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343970969)<br>陌生人<br>2019-10-28 08:23<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355462043)<br><br>2019-10-26 08:24<br>赞(0) 踩(0) | <div>好听</div> |
@@ -154,7 +154,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423600412)<br>比起生活 酒是甜的<br>2019-05-13 03:31<br>赞(2) 踩(0) | <div>这首歌听了十年了，初听不知曲中意，现在已经是曲中人了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419713073)<br><br>2019-04-25 19:00<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34344631)<br>我的帅气使我孤独<br>2019-04-17 18:00<br>赞(2) 踩(0) | <div>歌声有一种共鸣感</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351081363)<br>难忘的虾米、难舍的歌友…...<br>2019-04-16 23:56<br>赞(61) 踩(0) | <div>静谧舒缓的旋律滑过心弦，柔情的细语让心灵在静静的思念，默默的栖息。或许有些爱，只能止于唇齿，掩于岁月。放不下的你，想不开的我。看不透的她，忘不掉的曾经…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351081363)<br>难忘的虾米、难舍的歌友…...<br>2019-04-16 23:56<br>赞(61) 踩(0) | <div>静谧舒缓的旋律滑过心弦，柔情的细语让心灵在静静的思念，默默的栖息。<br>或许有些爱，只能止于唇齿，掩于岁月。<br>放不下的你，想不开的我。<br>看不透的她，忘不掉的曾经…</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441794680)<br><br>2020-12-08 09:08<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406732437)<br><br>2019-04-15 20:14<br>赞(2) 踩(0) | <div>好声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413681026)<br><br>2019-04-10 10:04<br>赞(2) 踩(0) | <div>好听</div> |
@@ -195,8 +195,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40793028)<br><br>2018-11-01 21:00<br>赞(4) 踩(0) | <div>蔡淳佳的嗓音其实听起来特别舒服，暖暖的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164644014)<br>我还没想好要写什么...<br>2018-10-25 15:15<br>赞(5) 踩(0) | <div>左右为难</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9307934)<br>时间从来不语 却回答了所...<br>2018-10-18 10:21<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345949622)<br>所爱隔山海，山海不可平。<br>2018-10-13 15:21<br>赞(9) 踩(0) | <div>就当没有爱过，不再让你左右为难了！这是我所做的决定！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352711009)<br>累了烦了就听首歌<br>2018-10-08 21:11<br>赞(4) 踩(0) | <div>放手 会不会解脱成全 会不会是一条出路为难 是谁介入了谁呢先来後到的顺序有没有我让你不再左右为难了就当做从来就没有认识过不想再听你找的藉口好了 从今之後不要再联络</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345949622)<br>所爱隔山海，山海不可平。<br>2018-10-13 15:21<br>赞(9) 踩(0) | <div>就当没有爱过，<br>不再让你左右为难了！这是我所做的决定！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352711009)<br>累了烦了就听首歌<br>2018-10-08 21:11<br>赞(4) 踩(0) | <div>放手 会不会解脱<br>成全 会不会是一条出路<br>为难 是谁介入了谁呢<br>先来後到的顺序有没有<br>我让你不再左右为难了<br>就当做从来就没有认识过<br>不想再听你找的藉口<br>好了 从今之後不要再联络</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374092308)<br><br>2018-10-06 20:53<br>赞(2) 踩(0) | <div>夏日香气插曲--也许，原唱也好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71931070)<br> <br>2018-10-06 11:33<br>赞(1) 踩(0) | <div>不再让我左右为难了，这是爱我的决定，我爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25666904)<br>時間也好 歲月也罷 終究...<br>2018-09-20 10:44<br>赞(4) 踩(0) | <div>成全会不会是一条出路？</div> |
@@ -227,7 +227,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4255664)<br><br>2015-12-07 21:53<br>赞(1) 踩(0) | <div>你们左右为难了吗 c y</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30447972)<br>暂无签名~<br>2015-10-27 23:49<br>赞(1) 踩(0) | <div>#和自己说晚安#【第926天】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58204836)<br> <br>2015-09-02 19:16<br>赞(1) 踩(0) | <div>比乖幸福。 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2015-07-09 09:48<br>赞(0) 踩(0) | <div>不再让你左右为难了跟同事去KTV她点的，然后我就上瘾</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2015-07-09 09:48<br>赞(0) 踩(0) | <div>不再让你左右为难了<br><br><br>跟同事去KTV她点的，然后我就上瘾</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40894431)<br><br>2015-05-31 23:18<br>赞(2) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47989031)<br>简单粗暴<br>2015-05-23 13:02<br>赞(2) 踩(0) | <div>大一的时候最爱的一首歌，但现在都舍不得删~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43420649)<br>我还没想好要写什么...<br>2015-04-20 09:12<br>赞(1) 踩(0) | <div>爱情好伟大、不是所有人可以这么洒脱 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -237,7 +237,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1883877)<br>白日飞翔<br>2013-11-27 19:22<br>赞(1) 踩(0) | <div>新加坡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25898156)<br> <br>2013-11-20 01:14<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20880223)<br><br>2013-09-27 13:05<br>赞(1) 踩(0) | <div>123</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16637367)<br>4ενεгκо<br>2013-09-16 11:31<br>赞(1) 踩(0) | <div>放手 会不会解脱成全 会不会是一条出路</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16637367)<br>4ενεгκо<br>2013-09-16 11:31<br>赞(1) 踩(0) | <div>放手 会不会解脱<br>成全 会不会是一条出路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9003031)<br><br>2013-09-15 00:32<br>赞(1) 踩(0) | <div>伤人心之好听的情歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19938651)<br><br>2013-09-04 06:45<br>赞(1) 踩(0) | <div>一歌一心情.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14515045)<br>暂无签名~<br>2013-08-27 15:01<br>赞(1) 踩(0) | <div>我让你不再左右为难了，就当作从来就没有认识过，不再让你左右为难了，只要你和她很快乐，我没关系。。。</div> |
@@ -246,7 +246,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12332727)<br><br>2013-05-12 02:50<br>赞(1) 踩(0) | <div>好舒服的一首歌、帶著它入睡、晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2886204)<br>tale as old<br>2013-05-04 14:32<br>赞(1) 踩(0) | <div>夏日香气 插曲 左右为难</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11018470)<br><br>2013-04-06 20:54<br>赞(1) 踩(0) | <div>为难 是谁介入了谁呢 先来後到的顺序有没有 我让你不再左右为难了 就当做从来就没有认识过</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2876947)<br>all for you<br>2013-03-31 13:52<br>赞(2) 踩(0) | <div>我没关系这是爱你的决定</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2876947)<br>all for you<br>2013-03-31 13:52<br>赞(2) 踩(0) | <div>我没关系<br>这是爱你的决定</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1860)<br>虾米，虾米<br>2013-03-17 20:46<br>赞(1) 踩(0) | <div>【No.21】3.17 有些牺牲也只能是无奈的选择，本质上，那些伟大的抉择也是一种无可选择的无奈，没有人那么伟大。我觉得。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12332727)<br><br>2013-01-28 05:21<br>赞(1) 踩(0) | <div>肚子痛得睡不著、聽著它總有種想哭的衝動…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4807837)<br><br>2012-10-31 12:32<br>赞(1) 踩(0) | <div>最爱的一首啊！！！</div> |
@@ -260,9 +260,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2917679)<br><br>2011-02-28 20:20<br>赞(1) 踩(0) | <div>现在的心情适合</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/558689)<br>冰冷的热烈<br>2011-02-11 15:29<br>赞(1) 踩(0) | <div>歌词都是啥…~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1696671)<br>暂无签名~<br>2011-02-10 10:43<br>赞(1) 踩(0) | <div>我不会让你为难</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1478132)<br><br>2010-12-22 11:41<br>赞(1) 踩(0) | <div>不想再听你找的藉口好了 从今之後不要再联络</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1478132)<br><br>2010-12-22 11:41<br>赞(1) 踩(0) | <div>不想再听你找的藉口<br>好了 从今之後不要再联络</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1633721)<br>生活会一直继续。。。<br>2010-11-07 16:38<br>赞(1) 踩(0) | <div>我愛你~~所以我會離開~~會放棄你~~因為我不想看到你左右為難~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1633721)<br>生活会一直继续。。。<br>2010-11-07 15:28<br>赞(1) 踩(0) | <div>我爱你~~所以我会放弃你~~因为不想看到你左右为难的表情~~不想你牵着我的时候想的确实别人~~所以我放弃了~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2010-02-08 14:31<br>赞(0) 踩(0) | <div>晚饭时间拓也：小乐，你平常不是都坐在我旁边这个位置吗？光晞：你不是说过我没有陪，你就不吃饭吗？小乐：你们不要让我左右为难好吗？乖乖吃饭，开动！光晞：小乐，我告诉你，我们吃东西不能偏食，是谁教你这种坏习惯，万一小乐长不高怎么办？小乐：可是你也不喜欢吃红萝卜啊~光晞：红萝卜是特例，我们达拉星球来的不需要吃，一样可以长得又高又壮，像我一样~小乐：真的吗？每次大仔都逼我吃红萝卜...拓也：任光晞先生啊，你在乱教小乐什么东西，胡萝卜呢是一定要吃的，除了可以对小乐你眼睛好以外呢，它还有丰富的纤维质，可以预防你便秘，增强你的免疫力，防癌又抗老化，还能降低得到卵巢癌的机率，不要听他瞎掰，多吃一点~光晞：苦瓜才是一定要吃的，除了可以降火，维他命C也很丰富，大家都叫它瓜中C王，最重要的是呢，苦瓜对调节胰岛素很有用，很适合像小乐这种小朋友吃。小乐：我可以都不要吃吗？光晞拓也：不行！慕橙：我要征求一个空盘子，装后面的厨余给流浪狗吃，谁的可以啊？（光晞拓也同时举起自己的盘子）慕橙：...小乐：慕橙用我的~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2010-02-08 14:31<br>赞(0) 踩(0) | <div>晚饭时间<br><br>拓也：小乐，你平常不是都坐在我旁边这个位置吗？<br>光晞：你不是说过我没有陪，你就不吃饭吗？<br>小乐：你们不要让我左右为难好吗？乖乖吃饭，开动！<br><br><br>光晞：小乐，我告诉你，我们吃东西不能偏食，是谁教你这种坏习惯，万一小乐长不高怎么办？<br>小乐：可是你也不喜欢吃红萝卜啊~<br>光晞：红萝卜是特例，我们达拉星球来的不需要吃，一样可以长得又高又壮，像我一样~<br>小乐：真的吗？每次大仔都逼我吃红萝卜...<br>拓也：任光晞先生啊，你在乱教小乐什么东西，胡萝卜呢是一定要吃的，除了可以对小乐你眼睛好以外呢，它还有丰富的纤维质，可以预防你便秘，增强你的免疫力，防癌又抗老化，还能降低得到卵巢癌的机率，不要听他瞎掰，多吃一点~<br>光晞：苦瓜才是一定要吃的，除了可以降火，维他命C也很丰富，大家都叫它瓜中C王，最重要的是呢，苦瓜对调节胰岛素很有用，很适合像小乐这种小朋友吃。<br>小乐：我可以都不要吃吗？<br>光晞拓也：不行！<br><br><br>慕橙：我要征求一个空盘子，装后面的厨余给流浪狗吃，谁的可以啊？<br>（光晞拓也同时举起自己的盘子）<br>慕橙：...<br>小乐：慕橙用我的~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366413)<br>失语症<br>2010-03-04 14:08<br>赞(0) 踩(0) | <div>... ...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289058)<br><br>2010-01-09 12:38<br>赞(0) 踩(0) | <div>左右为难</div> |

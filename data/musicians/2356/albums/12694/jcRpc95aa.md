@@ -76,8 +76,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402591214)<br><br>2021-01-12 21:08<br>赞(1) 踩(0) | <div>怀念虾米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293505911)<br>我还没想好要写什么...<br>2020-10-30 08:02<br>赞(1) 踩(0) | <div>整首歌情绪一直在递增，很伍佰。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-09-30 07:42<br>赞(2) 踩(0) | <div>好歌曲顶我上去吧</div> |
@@ -117,9 +117,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15379789)<br>我还没想好要写什么...<br>2019-11-16 20:49<br>赞(0) 踩(0) | <div>男声女声都有一种帅气[带墨镜笑]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242507629)<br>分享，只是为了养虾米献爱...<br>2019-11-02 08:58<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357432977)<br><br>2019-11-02 05:27<br>赞(8) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297951316)<br>你不妨大胆一些，爱一个人...<br>2019-10-20 00:29<br>赞(0) 踩(0) | <div>我心是雨水飞舞在淹没之前溅湿了衣裳 迷惑了眼</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297951316)<br>你不妨大胆一些，爱一个人...<br>2019-10-20 00:29<br>赞(0) 踩(0) | <div>我心是雨水<br>飞舞在淹没之前<br>溅湿了衣裳 迷惑了眼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297951316)<br>你不妨大胆一些，爱一个人...<br>2019-09-17 10:15<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405015840)<br>我还没想好要写什么...<br>2019-09-12 01:13<br>赞(1) 踩(0) | <div>我的心是雨水慌乱没有起点慌乱没有终点</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405015840)<br>我还没想好要写什么...<br>2019-09-12 01:13<br>赞(1) 踩(0) | <div>我的心是雨水<br>慌乱没有起点<br>慌乱没有终点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282463513)<br>我还没想好要写什么...<br>2019-08-19 13:28<br>赞(0) 踩(0) | <div>慌乱没有起点 慌乱没有终点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424073040)<br><br>2019-08-14 17:56<br>赞(1) 踩(0) | <div>很有伍佰的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46284980)<br>但愿为你保留最后的时间<br>2019-07-28 12:35<br>赞(1) 踩(0) | <div>我说是听到伍佰了嘛哈哈哈</div> |
@@ -199,7 +199,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39816876)<br>全世界不缺你一个<br>2017-10-10 23:27<br>赞(0) 踩(0) | <div><q><b>t_1482331365738_0162说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216280107)<br>摇滚就是革命！<br>2017-11-23 08:46<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277371048)<br>这个世界不属于我<br>2017-11-29 23:25<br>赞(0) 踩(0) | <div><q><b>怪物小王子♛说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275260871)<br>God bless u<br>2017-09-22 19:59<br>赞(3) 踩(0) | <div>总感觉有点放荡不羁 敢爱敢恨的感觉莫名喜欢这种风格 『冰冷 孤傲 倔强』以及她这种特别的声线 很Sexy  <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275260871)<br>God bless u<br>2017-09-22 19:59<br>赞(3) 踩(0) | <div>总感觉有点放荡不羁 敢爱敢恨的感觉<br>莫名喜欢这种风格 『冰冷 孤傲 倔强』<br>以及她这种特别的声线 很Sexy  <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1076627)<br> <br>2017-09-15 00:49<br>赞(1) 踩(0) | <div>哈哈哈，好喜欢乃文</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312483069)<br><br>2017-08-26 15:46<br>赞(0) 踩(0) | <div>可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46113486)<br>马路戏院商店天空海阔 任...<br>2017-08-19 23:17<br>赞(0) 踩(0) | <div>成都见。</div> |
@@ -220,7 +220,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92207624)<br>一枚要读博士的研究僧<br>2017-03-12 13:20<br>赞(4) 踩(0) | <div>洒脱的歌 没有什么大不了 我会遇到那个适合我的 另一半 加油 庞将军！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92207624)<br>一枚要读博士的研究僧<br>2017-03-12 13:19<br>赞(1) 踩(0) | <div>最棒的乃文</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9596929)<br>浮生如斯...<br>2017-03-09 20:06<br>赞(3) 踩(0) | <div>從幼兒園到現在   聽不夠</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6674200)<br>每个劫数时间会善后。<br>2017-03-03 15:13<br>赞(164) 踩(0) | <div>和声是不是我家伍佰是不是！！！就是</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6674200)<br>每个劫数时间会善后。<br>2017-03-03 15:13<br>赞(164) 踩(0) | <div>和声是不是我家伍佰是不是！！！<br>就是</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258489907)<br><br>2017-07-11 08:46<br>赞(0) 踩(0) | <div>是我们家的伍佰</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47519147)<br>暂无签名~<br>2017-07-27 11:45<br>赞(0) 踩(0) | <div>为伍佰疯狂打call</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198019821)<br><br>2017-08-30 22:59<br>赞(0) 踩(0) | <div>必须是</div> |
@@ -290,12 +290,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11386860)<br><br>2014-03-17 23:16<br>赞(0) 踩(0) | <div>杨乃文，于我有种血浓于水般的契合亲切感。(言不逮意？)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13197279)<br><br>2014-03-10 12:49<br>赞(1) 踩(0) | <div>女伍佰！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3637418)<br><br>2014-01-11 10:13<br>赞(0) 踩(0) | <div>今天这种天气，听这首歌真是在好不过了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2310053)<br><br>2013-09-28 05:36<br>赞(0) 踩(0) | <div>到此为止吧不想和你争辩爱上你是从前层层回忆将他洒在雨里面驶向那白色地平线浓雾漫在眼前悲伤它总是一瞬间浸湿了我折磨着我为何你始终不曾知道只要你一个人了解我就够了我已经付出全部爱和自由</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2310053)<br><br>2013-09-28 05:36<br>赞(0) 踩(0) | <div>到此为止吧<br>不想和你争辩<br>爱上你是从前<br>层层回忆将他洒在雨里面<br>驶向那白色地平线<br>浓雾漫在眼前<br>悲伤它总是一瞬间<br>浸湿了我<br>折磨着我<br>为何你始终不曾知道<br>只要你一个人了解我就够了<br>我已经付出全部爱和自由</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10520890)<br><br>2013-09-01 19:43<br>赞(0) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19130783)<br><br>2013-08-26 19:27<br>赞(0) 踩(0) | <div>现时心情有些乱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8803135)<br><br>2013-08-09 17:06<br>赞(0) 踩(0) | <div>杨乃文长的很标志，非常俊的一张脸。我喜欢这张封面，不过如果是我做我可以画的更好。04年够时髦了，现在看也是。同样这首歌的词也写的不错。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9120966)<br><br>2013-08-01 16:03<br>赞(0) 踩(0) | <div>只要你一个人了解我就够了，我已经付出全部爱和自由，只要你一个人了解我就够了，孤独它占据我心中已经太久。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7389811)<br><br>2013-07-06 13:39<br>赞(2) 踩(0) | <div>台湾乐坛第一御姐！ 其实萌到爆。。。跪舔！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7389811)<br><br>2013-07-06 13:39<br>赞(2) 踩(0) | <div>台湾乐坛第一御姐！ 其实萌到爆。。。<br>跪舔！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10910044)<br><br>2013-07-04 17:23<br>赞(0) 踩(0) | <div>听听看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16066751)<br>遖嘸婀彌陀佛....！<br>2013-06-18 02:50<br>赞(0) 踩(0) | <div>带上爱情去拥抱自由!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7046612)<br>我还没想好要写什么...<br>2013-06-10 18:24<br>赞(0) 踩(0) | <div>怎么就那么喜欢你</div> |
@@ -311,7 +311,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8695787)<br><br>2012-10-18 17:42<br>赞(0) 踩(0) | <div>@Louis_Vitamin 我昨晚说的歌- - 居然没发出来 单独at一下你好了~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6443089)<br><br>2012-08-23 11:18<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2940320)<br>华语乐迷唱片控<br>2012-08-05 21:52<br>赞(0) 踩(0) | <div>这首歌越听越棒，好爱好爱。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8414472)<br><br>2012-06-23 04:04<br>赞(0) 踩(0) | <div>雨下个不停 冷风儿吹我心是雨水慌乱没有起点慌乱没有终点飞舞在烟漠之间溅湿了衣裳迷惑了眼到此为止吧不想和你争辩爱上你是从前 层层回忆将他洒在雨里面</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8414472)<br><br>2012-06-23 04:04<br>赞(0) 踩(0) | <div>雨下个不停 冷风儿吹<br>我心是雨水慌乱没有起点<br>慌乱没有终点飞舞在烟漠之间<br>溅湿了衣裳迷惑了眼<br>到此为止吧不想和你争辩<br>爱上你是从前 层层回忆将他洒在雨里面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2637618)<br>生日快乐<br>2012-05-14 13:11<br>赞(0) 踩(0) | <div>too late</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7136682)<br><br>2012-04-10 16:01<br>赞(0) 踩(0) | <div>木哈哈 开心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3885521)<br><br>2011-12-20 22:17<br>赞(0) 踩(0) | <div>一切都太晚</div> |

@@ -3,7 +3,7 @@ l&fff
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f42626e867d04c7e48fb3bea5cc5de5e.jpg)<br>l&fff](https://i.xiami.com/yinxiaofei) | **播放数**: 1299885<br>**粉丝数**: 1155<br>**评论数**: 281<br>**地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 轻音乐 Easy Listening, 独立电子乐 Indietronica<br> |
+| [![](../../images/musicians/f42626e867d04c7e48fb3bea5cc5de5e.jpg)<br>l&fff](https://i.xiami.com/yinxiaofei) | **地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 轻音乐 Easy Listening, 独立电子乐 Indietronica<br>**播放数**: 1299885<br>**粉丝数**: 1155<br>**评论数**: 281<br> |
 
 ## 档案
 
@@ -22,8 +22,8 @@ l&fff
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307230)<br>(〟-_・)ﾝ?<br>2021-01-06 19:03<br>赞(0) 踩(0) | <div>飞飞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2491956)<br>我还没想好要写什么...<br>2020-06-03 22:16<br>赞(0) 踩(0) | <div>听Spring Thunder，我仿佛又回到成都的雨天，记忆模糊地呈现</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208205142)<br>把我杀死，搅碎<br>2020-05-12 21:19<br>赞(0) 踩(0) | <div>雨声把我带来这里</div> |
@@ -276,7 +276,7 @@ l&fff
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12161298)<br>天涯海角，有缘再见如果愿...<br>2014-03-14 20:07<br>赞(0) 踩(0) | <div><q><b>l&amp;fff说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9161767)<br><br>2014-03-14 20:08<br>赞(0) 踩(0) | <div><q><b>Reguluz说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12161298)<br>天涯海角，有缘再见如果愿...<br>2014-03-14 20:14<br>赞(0) 踩(0) | <div><q><b>l&amp;fff说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25006757)<br>寻找，寻找。<br>2014-04-30 21:20<br>赞(0) 踩(0) | <div>自学！！只学了半个月么吓死==！求方法~</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25006757)<br>寻找，寻找。<br>2014-04-30 21:20<br>赞(0) 踩(0) | <div>自学！！只学了半个月么<br>吓死==！<br>求方法~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6270626)<br>看到私个联系方式QAQ<br>2014-03-14 12:45<br>赞(0) 踩(0) | <div>大虾泥壕QwQ</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9161767)<br><br>2014-03-14 12:48<br>赞(0) 踩(0) | <div>你好啊，欢迎来听音乐~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6270626)<br>看到私个联系方式QAQ<br>2014-03-14 20:29<br>赞(0) 踩(0) | <div><q><b>l&amp;fff说：</b></q></div> |
@@ -288,7 +288,7 @@ l&fff
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9161767)<br><br>2014-03-14 12:21<br>赞(0) 踩(0) | <div>就是现在技术差了些。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/513435)<br>靠近你温暖你也温暖我<br>2014-03-13 21:09<br>赞(0) 踩(0) | <div>欢迎童鞋入驻虾米，好多独立音乐人都在这里，大家可以彼此交流音乐互相学习共同进步，当然受益最多的还是我们乐迷哟</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9161767)<br><br>2014-03-13 22:09<br>赞(0) 踩(0) | <div>感谢到访，我会努力滴~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9944996)<br><br>2014-03-13 15:19<br>赞(0) 踩(0) | <div>~~soul spa~~Ps：Piano的音色好美哦，请问下是什么插件呢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9944996)<br><br>2014-03-13 15:19<br>赞(0) 踩(0) | <div>~~soul spa~~<br>Ps：Piano的音色好美哦，请问下是什么插件呢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9161767)<br><br>2014-03-14 21:01<br>赞(0) 踩(0) | <div>ALICIA&amp;#039;S KEYS那个钢琴哦</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3643353)<br>虾米要关闭了，难说再见！...<br>2014-03-23 10:43<br>赞(0) 踩(0) | <div><q><b>l&amp;fff说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9161767)<br><br>2014-03-23 10:46<br>赞(0) 踩(0) | <div><q><b>笛在月明楼说：</b></q></div> |

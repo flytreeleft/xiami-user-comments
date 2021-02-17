@@ -25,6 +25,6 @@ I am a friendly tiger in the jungle
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330457928)<br><br>2017-10-29 08:42<br>赞(0) 踩(0) | <div>哈哈</div> |

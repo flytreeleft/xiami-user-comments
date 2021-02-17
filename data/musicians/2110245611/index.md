@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4a7243e21e9592505264f092c9cb67da.jpg)<br>甲雍喇嘛](https://i.xiami.com/jiayong) | **播放数**: 862872<br>**粉丝数**: 421<br>**评论数**: 10<br>**地区**: China 中国大陆<br>**风格**: 世界音乐 World Music, 宗教新世纪 Religionary New Age<br> |
+| [![](../../images/musicians/4a7243e21e9592505264f092c9cb67da.jpg)<br>甲雍喇嘛](https://i.xiami.com/jiayong) | **地区**: China 中国大陆<br>**风格**: 世界音乐 World Music, 宗教新世纪 Religionary New Age<br>**播放数**: 862872<br>**粉丝数**: 421<br>**评论数**: 10<br> |
 
 ## 档案
 
@@ -44,8 +44,8 @@ Jia Yong was identified as the representative successor of Ganzi State, Sichuan 
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-15 04:49<br>赞(0) 踩(0) | <div>46408</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350421519)<br>我还没想好要写什么...<br>2020-10-15 07:55<br>赞(0) 踩(0) | <div><img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424135973)<br><br>2019-08-24 20:23<br>赞(0) 踩(0) | <div>一代高僧</div> |

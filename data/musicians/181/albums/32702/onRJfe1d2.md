@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7264285)<br><br>2011-12-16 13:47<br>赞(0) 踩(0) | <div>喜欢就是喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/495822)<br><br>2009-11-09 10:11<br>赞(0) 踩(0) | <div>怎么下载不了？</div> |

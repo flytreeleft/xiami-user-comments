@@ -55,8 +55,8 @@ ISRC CN-C12-03-334-03
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9387326)<br>你不要死<br>2020-12-08 11:40<br>赞(0) 踩(0) | <div>&amp;bull;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402438028)<br>我还没想好要写什么...<br>2020-09-05 16:25<br>赞(0) 踩(0) | <div>日出而作、日落而息、舒服、美妙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443477800)<br><br>2020-07-31 17:33<br>赞(0) 踩(0) | <div>从啦啦啦啦啦啦次啦啦啦啦啦啦啦</div> |
@@ -130,9 +130,9 @@ ISRC CN-C12-03-334-03
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5686411)<br><br>2012-07-11 17:28<br>赞(0) 踩(0) | <div>吟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6703068)<br>摇滚，为爱而存在<br>2012-06-27 20:20<br>赞(0) 踩(0) | <div>二十八天失眠日记</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2486624)<br>Like a star<br>2012-06-16 23:29<br>赞(1) 踩(0) | <div>这个版本比《晦涩阴阳之路》的好很多</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3138169)<br><br>2012-06-12 12:05<br>赞(0) 踩(0) | <div>泥，躺在荷叶上，睡了，安息了，安宁了，欢呼吧，欢呼……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3594873)<br>愿曾被这世界温柔相待<br>2012-04-20 23:07<br>赞(0) 踩(0) | <div>丰收收录于专辑《二十八天失眠日记》里，这张专辑真的值得一听。这首丰收从开始到最后丰收的心情，心态，如果你是在田埂里听这首歌也许感触会更深，更能体会歌词的深意。惘闻的音乐仿佛在讲述一个个藏于他们内心的故事，或而是短暂的愉悦，或而是长久的悲恸。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3829442)<br>我还没想好要写什么...<br>2012-03-24 20:34<br>赞(0) 踩(0) | <div>竹林，荣茂的地头我却在水底，水里 最后一番落日映照我脱光，脱光河塘的池边下，如意和泥双手和着生活的香和恶臭，泥长在树叶里，光，朝着光亮，睡了，睡了，泥，躺在荷叶上，睡了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3138169)<br><br>2012-06-12 12:05<br>赞(0) 踩(0) | <div>泥，躺在荷叶上，睡了，<br>安息了，安宁了，欢呼吧，欢呼……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3594873)<br>愿曾被这世界温柔相待<br>2012-04-20 23:07<br>赞(0) 踩(0) | <div>丰收收录于专辑《二十八天失眠日记》里，这张专辑真的值得一听。这首丰收从开始到最后丰收的心情，心态，如果你是在田埂里听这首歌也许感触会更深，更能体会歌词的深意。<br>惘闻的音乐仿佛在讲述一个个藏于他们内心的故事，或而是短暂的愉悦，或而是长久的悲恸。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3829442)<br>我还没想好要写什么...<br>2012-03-24 20:34<br>赞(0) 踩(0) | <div>竹林，荣茂的地头<br>我却在水底，水里 最后一番落日映照<br>我脱光，脱光<br>河塘的池边下，如意和泥<br>双手和着生活的香和恶臭，<br>泥长在树叶里，<br>光，朝着光亮，<br>睡了，睡了，<br>泥，躺在荷叶上，睡了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1163679)<br><br>2012-02-16 20:21<br>赞(0) 踩(0) | <div>终于有首正常点的~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4930881)<br><br>2011-07-20 21:37<br>赞(0) 踩(0) | <div>就喜欢嘛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3689111)<br>very importa...<br>2011-04-21 21:30<br>赞(0) 踩(0) | <div>惘闻－丰收</div> |

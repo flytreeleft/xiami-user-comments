@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/edb137bbfa4da53e60b8f9250bec6fda.jpg)<br>袁娅维](https://i.xiami.com/tia) | **播放数**: 107508863<br>**粉丝数**: 92449<br>**评论数**: 663<br>**地区**: China 中国大陆<br>**风格**: 灵魂爵士 Soul Jazz, 灵魂乐 Soul, 新灵魂乐 Neo-Soul, 爵士 Jazz, 节奏布鲁斯 R&B<br> |
+| [![](../../images/musicians/edb137bbfa4da53e60b8f9250bec6fda.jpg)<br>袁娅维](https://i.xiami.com/tia) | **地区**: China 中国大陆<br>**风格**: 灵魂爵士 Soul Jazz, 灵魂乐 Soul, 新灵魂乐 Neo-Soul, 爵士 Jazz, 节奏布鲁斯 R&B<br>**播放数**: 107508863<br>**粉丝数**: 92449<br>**评论数**: 663<br> |
 
 ## 档案
 
@@ -127,8 +127,8 @@ Maxim：" Live For The Day "<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-06 02:50<br>赞(0) 踩(0) | <div>45349</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332658854)<br>人人平安！<br>2020-12-13 04:18<br>赞(0) 踩(0) | <div>一岁一礼 一寸欢喜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429747326)<br>勇往直前<br>2020-12-12 11:57<br>赞(0) 踩(0) | <div>生日快乐</div> |
@@ -155,7 +155,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411956802)<br><br>2019-03-10 22:13<br>赞(3) 踩(0) | <div>用心做音乐的好歌手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244684431)<br>共同渡过:无需要太多:<br>2019-03-10 14:15<br>赞(2) 踩(0) | <div>袁娅维。今天是个大发现。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352464828)<br>我还没想好要写什么...<br>2019-02-10 13:49<br>赞(1) 踩(0) | <div>不错不错</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58817690)<br>mmmnnnvvvxxx<br>2019-02-01 15:48<br>赞(1) 踩(0) | <div>┏┳━━━━━━━━━┓┃┃█████████┃┣┫████┏━━┓█┃┃┃████┃&nbsp; 真&nbsp; ┃█┃┣┫████┃&nbsp; 独&nbsp; ┃█┃┃┃████┃&nbsp; 秀&nbsp; ┃█┃┣┫████┃&nbsp; 传&nbsp; ┃■┃┃┃████┗━━┛█┃┣┫█████████┃┃┃1个赞起售  ████┃┗教你如何秀┻━━━━┛</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58817690)<br>mmmnnnvvvxxx<br>2019-02-01 15:48<br>赞(1) 踩(0) | <div>┏┳━━━━━━━━━┓<br>┃┃█████████┃<br>┣┫████┏━━┓█┃<br>┃┃████┃&nbsp; 真&nbsp; ┃█┃<br>┣┫████┃&nbsp; 独&nbsp; ┃█┃<br>┃┃████┃&nbsp; 秀&nbsp; ┃█┃<br>┣┫████┃&nbsp; 传&nbsp; ┃■┃<br>┃┃████┗━━┛█┃<br>┣┫█████████┃<br>┃┃1个赞起售  ████┃<br>┗教你如何秀┻━━━━┛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411211110)<br>只愿在风口无思无虑<br>2019-01-07 08:21<br>赞(1) 踩(0) | <div>说散就散找不到啊大神</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49664054)<br>人生一世，草木一春；轰轰...<br>2019-01-05 15:16<br>赞(1) 踩(0) | <div>图呢？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334623609)<br><br>2018-12-13 08:30<br>赞(1) 踩(0) | <div>生日快乐，天天开心！ <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
@@ -174,7 +174,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359334952)<br><br>2018-09-25 11:54<br>赞(1) 踩(0) | <div>你是袁娅维?</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354125713)<br><br>2018-09-11 21:31<br>赞(1) 踩(0) | <div>lovely Tia</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354125713)<br><br>2018-09-11 21:29<br>赞(1) 踩(0) | <div>袁雅为最可爱喜欢他，一早在好歌声，我是歌手已经看中他，终于她跑出，他是一种中国新的，流行音乐女王</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-09-05 09:32<br>赞(2) 踩(0) | <div>爱上说散就散！谢谢你 ，唱出了这么烦人的歌！可我就是忘不了&amp;hellip;&amp;hellip;</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-09-05 09:32<br>赞(2) 踩(0) | <div>爱上说散就散！<br>谢谢你 ，唱出了这么烦人的歌！可我就是忘不了&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377618480)<br>五月天。<br>2018-09-03 00:32<br>赞(1) 踩(0) | <div>听完你的说散就散，我就真的说散就散了~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309277046)<br>在音乐深处与世隔绝<br>2018-08-26 16:15<br>赞(3) 踩(0) | <div>人美歌靓</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10811234)<br>Love Mucic<br>2018-08-24 22:40<br>赞(1) 踩(0) | <div>赞</div> |
@@ -230,7 +230,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359791397)<br><br>2018-04-22 19:14<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340287905)<br><br>2018-04-20 20:31<br>赞(0) 踩(0) | <div>喜欢你的风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321980484)<br>我还没想好要写什么...<br>2018-04-19 03:29<br>赞(0) 踩(0) | <div>有前途</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334951275)<br><br>2018-04-17 19:05<br>赞(0) 踩(0) | <div>听你的歌曲 抒情 放松很好</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334951275)<br><br>2018-04-17 19:05<br>赞(0) 踩(0) | <div>听你的歌曲 抒情 放松<br>很好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358253007)<br><br>2018-04-14 23:43<br>赞(1) 踩(0) | <div>没事</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352379552)<br><br>2018-04-14 21:55<br>赞(1) 踩(0) | <div>喜欢你的歌 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257958578)<br><br>2018-04-14 15:59<br>赞(3) 踩(0) | <div>音线漂亮极了！</div> |
@@ -303,7 +303,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333532241)<br><br>2017-11-06 10:27<br>赞(0) 踩(0) | <div>喜欢Jazz</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5077889)<br>最近、水曜日のカンパネラ...<br>2017-10-30 10:11<br>赞(2) 踩(0) | <div>看中国好声音的时候最喜欢王韵壹，事隔很久以后再次看的时候发现真爱是大花姑娘(自己对袁娅维的昵称&gt;&lt;)真的很喜欢，国内的选秀所谓排名什么的真的别当真，娱乐大众罢了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14145762)<br>世界音乐<br>2017-10-28 00:32<br>赞(1) 踩(0) | <div>哈哈 太有意思了 对话不逊獨吟。‘唱功唱功’是要见功夫的，高音只是一种技巧而已，味道灵魂，音乐感觉才最重要！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2237955)<br>耳即我心<br>2017-10-27 23:18<br>赞(2) 踩(0) | <div>这个音乐荒漠一样的国家，竟然把这当成是很稀罕的。当然，Tia很赞。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2237955)<br>耳即我心<br>2017-10-27 23:18<br>赞(2) 踩(0) | <div>这个音乐荒漠一样的国家，竟然把这当成是很稀罕的。<br>当然，Tia很赞。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298948030)<br>中國詩音樂電影创始人作曲...<br>2017-10-17 22:10<br>赞(0) 踩(0) | <div>你好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6498630)<br>我还没想好要写什么...<br>2017-10-07 07:13<br>赞(3) 踩(0) | <div>看完了一季中国有嘻哈，唯独被TIA圈粉了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36650966)<br>Die luft der...<br>2017-11-03 19:46<br>赞(0) 踩(0) | <div>同感</div> |
@@ -331,7 +331,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11470007)<br>我还没想好要写什么...<br>2017-02-13 13:36<br>赞(1) 踩(0) | <div>听了Golden完全路转粉！跑过来想要吼几声，既是气愤，也是激动收获了你这么一个好歌手！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1301603)<br>音乐是一场快乐的酒宴。<br>2017-02-12 17:33<br>赞(4) 踩(0) | <div>头一位歌声中有骚灵气质但英文发音完全听不出亚洲口音的东方歌手，自然不造作，声音中有touching特质，难得；长就一副东西通吃的维密面孔，有苗头。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7289378)<br><br>2017-02-06 18:20<br>赞(0) 踩(0) | <div>忘不了长发戴花的她低吟浅唱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38918617)<br>你相信我，我相信你<br>2017-02-02 23:32<br>赞(2) 踩(0) | <div>首场以《阿楚姑娘》迎战的袁娅维可以说多少有些轻敌，因为此番的编曲和在她在《中国之星》上的表演不可同日而语。选择Beyoncé 的《love on top》似乎是孤注一掷的博弈：唱好了，名次提前脱离危险区，万一唱得不够理想，好歹也在这个舞台上挑战过queen bee啊~queen bee的原作俨然是一个旁人无法企及的高度，所以改编、翻唱难度可想而知。袁娅维在原作基础上加入了自己非常擅长的灵魂乐元素，让这首金曲有了些许不一样的面目，连续的高音与起承转合，也让她的爆发力和控制力展现无遗。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38918617)<br>你相信我，我相信你<br>2017-02-02 23:32<br>赞(2) 踩(0) | <div>首场以《阿楚姑娘》迎战的袁娅维可以说多少有些轻敌，因为此番的编曲和在她在《中国之星》上的表演不可同日而语。选择Beyoncé 的《love on top》似乎是孤注一掷的博弈：唱好了，名次提前脱离危险区，万一唱得不够理想，好歹也在这个舞台上挑战过queen bee啊~<br><br>queen bee的原作俨然是一个旁人无法企及的高度，所以改编、翻唱难度可想而知。袁娅维在原作基础上加入了自己非常擅长的灵魂乐元素，让这首金曲有了些许不一样的面目，连续的高音与起承转合，也让她的爆发力和控制力展现无遗。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3707881)<br>等你有版权了我会回来爱你...<br>2017-02-02 13:19<br>赞(1) 踩(0) | <div>看了歌手 很喜欢你 只怪对手都太强 加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45478460)<br>爱很烂❤️<br>2017-01-29 15:23<br>赞(1) 踩(0) | <div>相信早晚一天会红起来的  <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255090413)<br>男神控<br>2017-01-25 16:47<br>赞(0) 踩(0) | <div>喜欢你   我是歌手不是你的最高点</div> |
@@ -355,7 +355,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32094380)<br>我不饿但是我喜欢听 <br>2016-01-27 16:46<br>赞(0) 踩(0) | <div>喜欢你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/460452)<br><br>2015-12-18 07:42<br>赞(0) 踩(0) | <div>好歌手遇不到好歌。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5429478)<br>唯有音乐和亲情不可遗落！<br>2015-12-16 10:00<br>赞(3) 踩(0) | <div>不红真是没天理</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1760542)<br><br>2015-12-14 20:17<br>赞(1) 踩(0) | <div>阿楚姑娘 不能再棒感觉你把自己唱给我们听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1760542)<br><br>2015-12-14 20:17<br>赞(1) 踩(0) | <div>阿楚姑娘 不能再棒<br>感觉你把自己唱给我们听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7681615)<br>在那做梦人的梦中 被梦见...<br>2015-12-13 16:46<br>赞(1) 踩(0) | <div>安江果骄傲 有想法来怀开唱么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31110738)<br>：）<br>2015-12-13 02:10<br>赞(1) 踩(0) | <div>阿楚姑娘唱的真好啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23353020)<br>音乐能净化灵魂<br>2015-12-12 23:34<br>赞(0) 踩(0) | <div>太少了</div> |
@@ -387,7 +387,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11455943)<br><br>2015-07-03 18:57<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41459074)<br>新专辑已发布<br>2015-06-19 11:36<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34220619)<br> <br>2015-06-17 22:34<br>赞(1) 踩(0) | <div>tia真的好会唱！！！！爱死了！！！全身鸡皮疙瘩哟！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10631028)<br>@YK3Y <br>2015-05-30 18:05<br>赞(0) 踩(0) | <div>我太特么喜欢你了！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10631028)<br>@YK3Y <br>2015-05-30 18:05<br>赞(0) 踩(0) | <div>我太特么喜欢你了<br>！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41593328)<br><br>2015-05-27 03:20<br>赞(0) 踩(0) | <div>tia的autumn leaves太棒 不解释了 国内少有tia这样的爵士乐歌手 真的难得</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1100833)<br><br>2015-05-19 22:11<br>赞(0) 踩(0) | <div>恋无忌很好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49707758)<br><br>2015-04-30 17:03<br>赞(0) 踩(0) | <div>校</div> |
@@ -418,7 +418,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5161648)<br>没错我就是很聪明什么也没...<br>2014-12-31 21:09<br>赞(0) 踩(0) | <div>新砖在哪……</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178352)<br>只想和音乐交流的话唠<br>2015-01-03 13:09<br>赞(0) 踩(0) | <div>在QQ音乐，这张在华纳发，华纳现在所有版权都卖给了QQ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10934765)<br>生活以快乐为基准<br>2014-12-12 22:01<br>赞(0) 踩(0) | <div>神马情况？！where is 新专</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2432540)<br><br>2014-12-08 18:34<br>赞(3) 踩(0) | <div>所谓虾米音乐人的头衔名存实亡。而且专辑从宣传到发售感觉十分随意，跟玩似的，这会儿实体CD都还没影子呢，真的，姐姐，别在内地发展了。没人。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2432540)<br><br>2014-12-08 18:34<br>赞(3) 踩(0) | <div>所谓虾米音乐人的头衔名存实亡。<br>而且专辑从宣传到发售感觉十分随意，跟玩似的，这会儿实体CD都还没影子呢，真的，姐姐，别在内地发展了。没人。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11889710)<br>来 咱也畅谈下人生吧<br>2015-03-02 06:39<br>赞(0) 踩(0) | <div>所以为嘛中国it人才都跑硅谷去呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12076161)<br>兼容古典和嘻哈<br>2014-12-07 08:38<br>赞(3) 踩(0) | <div>Tia你为什么把新专版权卖企鹅啊...以至于不能分享到微博T T还有，新专要是收录了你跟大同合作的Peace就好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9416263)<br> <br>2014-12-04 23:01<br>赞(0) 踩(0) | <div>潜蓝色和true love是最喜欢的两首！</div> |
@@ -485,7 +485,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3915920)<br><br>2014-06-01 16:17<br>赞(0) 踩(0) | <div>快出新砖吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13899578)<br><br>2014-05-23 14:46<br>赞(0) 踩(0) | <div>我喜欢的灵魂乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1259601)<br>猪头不卖猪鞭要不要<br>2014-05-15 18:25<br>赞(0) 踩(0) | <div>我来晚了对不起</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17225072)<br>我不是思想邪恶，只是……<br>2014-05-14 11:12<br>赞(0) 踩(0) | <div>“卑鄙”很不错啊。看好你哦</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17225072)<br>我不是思想邪恶，只是……<br>2014-05-14 11:12<br>赞(0) 踩(0) | <div>“卑鄙”很不错啊。<br><br>看好你哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9502817)<br>暂无签名~<br>2014-05-12 17:20<br>赞(3) 踩(0) | <div>让袁娅维唱这种芭乐情歌真是浪费了。不能完整出一张fusion的专辑吗！！！！！我买！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3274373)<br> <br>2014-05-12 10:34<br>赞(0) 踩(0) | <div>终于出了一个能唱Jazz和R&amp;amp;B的女歌手了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202980)<br><br>2014-05-03 11:46<br>赞(0) 踩(0) | <div>大爱！！</div> |
@@ -501,7 +501,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1700728)<br><br>2014-03-17 10:32<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24352105)<br><br>2014-03-16 22:41<br>赞(0) 踩(0) | <div>灵动</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/686435)<br>我还没想好要写什么...<br>2014-03-16 01:20<br>赞(0) 踩(0) | <div>没想到中国有人唱爵士蛮好的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4962350)<br>我还没想好要写什么...<br>2014-02-28 09:05<br>赞(1) 踩(0) | <div>不怎么听中文歌曲 国内最爱的两位女歌，袁娅维和张靓颖，同样以soul rb风格出道的袁娅维与后者不同的是以创作开始的音乐事业 而我听到视频里高亢的海豚音的你时 又被震惊了 你总是让大家有那么多的意想不到你也是第一位拒绝签约中国好声音的歌手 你说在音乐这条路上走出名不是重要的，因为你知道自己想做什么样的音乐 像你这样不浮不躁专心坚持自己音乐风格的人太少了 欣赏你的才华更喜欢你为人处事的低调</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4962350)<br>我还没想好要写什么...<br>2014-02-28 09:05<br>赞(1) 踩(0) | <div>不怎么听中文歌曲 国内最爱的两位女歌，袁娅维和张靓颖，同样以soul rb风格出道的袁娅维与后者不同的是以创作开始的音乐事业 而我听到视频里高亢的海豚音的你时 又被震惊了 你总是让大家有那么多的意想不到<br>你也是第一位拒绝签约中国好声音的歌手 你说在音乐这条路上走出名不是重要的，因为你知道自己想做什么样的音乐 像你这样不浮不躁专心坚持自己音乐风格的人太少了 欣赏你的才华更喜欢你为人处事的低调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25957528)<br><br>2014-02-27 19:24<br>赞(0) 踩(0) | <div>爵士感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4992350)<br><br>2014-02-20 16:17<br>赞(0) 踩(0) | <div>哈哈，TIA好，打个酱油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18421978)<br>Rita<br>2014-02-20 11:53<br>赞(1) 踩(0) | <div>NND 四首歌开什么演唱会？~</div> |
@@ -524,7 +524,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/572826)<br><br>2014-01-10 13:19<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9618828)<br>jz<br>2014-01-10 06:36<br>赞(1) 踩(0) | <div>除了照片处理的还行。其他无优。放弃吧你无天赋。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3332411)<br>海阔凭鱼跃，天空任鸟飞！<br>2014-01-09 19:05<br>赞(0) 踩(0) | <div>个人觉得亚维的感觉很好唉～</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3391052)<br>公众号：HP_Studi...<br>2014-01-09 13:08<br>赞(0) 踩(0) | <div>Tia袁娅维“The Project 300”演唱会1月11日北京站<a href="http://www.damai.cn/ticket_60124.html" target="_blank" rel="nofollow noreferrer noopener">http://www.damai.cn/ticket_60124.html</a>Tia袁娅维“The Project 300”演唱会1月17日上海站<a href="http://www.damai.cn/ticket_60129.html" target="_blank" rel="nofollow noreferrer noopener">http://www.damai.cn/ticket_60129.html</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3391052)<br>公众号：HP_Studi...<br>2014-01-09 13:08<br>赞(0) 踩(0) | <div>Tia袁娅维“The Project 300”演唱会1月11日北京站<br><a href="http://www.damai.cn/ticket_60124.html" target="_blank" rel="nofollow noreferrer noopener">http://www.damai.cn/ticket_60124.html</a><br><br><br>Tia袁娅维“The Project 300”演唱会1月17日上海站<br><a href="http://www.damai.cn/ticket_60129.html" target="_blank" rel="nofollow noreferrer noopener">http://www.damai.cn/ticket_60129.html</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2643944)<br><br>2014-01-09 12:00<br>赞(0) 踩(0) | <div>腿人袁娅维</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28265499)<br><br>2014-01-09 10:41<br>赞(0) 踩(0) | <div>翻唱的还不错。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1191054)<br>I'm not movi...<br>2014-01-09 09:37<br>赞(0) 踩(0) | <div>越听越好听。</div> |
@@ -566,14 +566,14 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6661598)<br><br>2013-12-01 06:34<br>赞(0) 踩(0) | <div>beautiful</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6374727)<br>声の向こう<br>2013-11-30 17:47<br>赞(1) 踩(0) | <div>所謂小眾大眾只不過是被流行盲目牽著走的人所用的辭彙罷了@@喜歡便喜歡，何來這麼多區分？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6144066)<br><br>2013-11-30 12:04<br>赞(0) 踩(0) | <div>挺好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251668)<br><br>2013-11-29 22:38<br>赞(2) 踩(0) | <div>没看出来她小众在哪里，三张单曲其实都还蛮走流行抒情啊，无功无过，没啥惊喜，封面倒是越来越好看。三张单曲其实中文词作都不错，但是不懂三支单曲为毛总要在歌里加两句英文，完全找不着点儿，要不就全英文，要不就全中文，土枪加洋炮这样的组合真心深井冰。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251668)<br><br>2013-11-29 22:38<br>赞(2) 踩(0) | <div>没看出来她小众在哪里，三张单曲其实都还蛮走流行抒情啊，无功无过，没啥惊喜，封面倒是越来越好看。<br><br>三张单曲其实中文词作都不错，但是不懂三支单曲为毛总要在歌里加两句英文，完全找不着点儿，要不就全英文，要不就全中文，土枪加洋炮这样的组合真心深井冰。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5569588)<br>一个人的交响乐<br>2013-11-29 11:24<br>赞(0) 踩(0) | <div>《你呢》，这首歌看名字根本就没想到，原来就是这首歌啊！听了才发现，原来旋律这么熟悉。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11104094)<br>我还没想好要写什么...<br>2013-11-29 11:15<br>赞(0) 踩(0) | <div>非常棒！！！本来比赛的时候还不太喜欢她来着，不过这首歌非常好啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1391591)<br><br>2013-11-29 09:20<br>赞(0) 踩(0) | <div>最初喜欢上这个声音，是在张亚东的《潜流》。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2589234)<br> <br>2013-11-28 22:13<br>赞(0) 踩(0) | <div>怎么打分！好喜欢她！必须打五星</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21451972)<br><br>2013-11-28 18:26<br>赞(0) 踩(0) | <div>great singer</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8866401)<br>踏遍青山人未老<br>2013-11-28 16:33<br>赞(0) 踩(0) | <div>不多说话，就是爱你。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2400333)<br>签个毛名<br>2013-11-28 13:39<br>赞(0) 踩(0) | <div>哎喲，不錯哦！-----------------周傑倫</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2400333)<br>签个毛名<br>2013-11-28 13:39<br>赞(0) 踩(0) | <div>哎喲，不錯哦！<br>-----------------周傑倫</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5429831)<br>♦<br>2013-11-28 12:23<br>赞(0) 踩(0) | <div>期待蝦米出更多Tia的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7870630)<br><br>2013-11-28 11:29<br>赞(0) 踩(0) | <div>...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5627117)<br> <br>2013-11-28 10:17<br>赞(0) 踩(0) | <div>Tia(袁娅维) - Sweet Thing<a href="http://www.xiami.com/song/1769458548" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1769458548</a></div> |
@@ -633,7 +633,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14363614)<br><br>2013-11-07 20:51<br>赞(0) 踩(0) | <div>real</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26101058)<br><br>2013-11-05 05:52<br>赞(0) 踩(0) | <div>袁娅维,中国好声音,Jazz,灵魂爵士,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/676403)<br>卧式制作人，呕式歌手<br>2013-10-30 19:52<br>赞(0) 踩(0) | <div>难听到不能忍的尾音处理</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17031227)<br>随便，听听，随性，唱唱<br>2013-10-14 10:46<br>赞(0) 踩(0) | <div>看到赞声一片，但是我只能说我听到这个《你呢》听得我鸡皮疙瘩掉一地，尤其是最后一句do you need me now..画面中一种深深的怨妇情绪好好的《need you now》的歌词怎么被改成这样了。。还是喜欢原版带有点力量的声音，男女对唱互诉相思的画面更能够打动我改词的哥们儿你的想法实在让我难以苟同。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17031227)<br>随便，听听，随性，唱唱<br>2013-10-14 10:46<br>赞(0) 踩(0) | <div>看到赞声一片，但是我只能说我听到这个《你呢》听得我鸡皮疙瘩掉一地，尤其是最后一句do you need me now..画面中一种深深的怨妇情绪<br>好好的《need you now》的歌词怎么被改成这样了。。<br>还是喜欢原版带有点力量的声音，男女对唱互诉相思的画面更能够打动我<br>改词的哥们儿你的想法实在让我难以苟同。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11947210)<br>天生我材必有用<br>2013-10-10 21:57<br>赞(0) 踩(0) | <div>喜欢她的音乐风格，一直关注</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23695064)<br><br>2013-10-04 21:30<br>赞(0) 踩(0) | <div>爱他的音乐风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2644287)<br>好看的皮囊现实劈腿 有趣...<br>2013-09-10 12:29<br>赞(2) 踩(0) | <div>TIA的风格太赞~~~</div> |
@@ -646,10 +646,10 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3183736)<br><br>2013-08-12 14:54<br>赞(0) 踩(0) | <div>我喜欢Jazz，我也喜欢她的Jazz</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4100718)<br>我将来是要扛AK的<br>2013-08-04 11:30<br>赞(0) 踩(0) | <div>本地人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1511192)<br><br>2013-07-30 12:25<br>赞(0) 踩(0) | <div>节奏旋律很赞！期待大同自己翻唱这首歌，应该更有味道！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522205)<br>一切很美，音為有你﹏<br>2013-07-19 15:49<br>赞(2) 踩(0) | <div>翻唱改编的很棒，是我的菜啊国内能唱出这种曲调和味道的女歌手没几个看来有个会玩音乐的黑人男朋友还是有好处的^ ^</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522205)<br>一切很美，音為有你﹏<br>2013-07-19 15:49<br>赞(2) 踩(0) | <div>翻唱改编的很棒，是我的菜啊<br>国内能唱出这种曲调和味道的女歌手没几个<br>看来有个会玩音乐的黑人男朋友还是有好处的<br>^ ^</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4360945)<br>哟<br>2013-07-14 16:50<br>赞(0) 踩(0) | <div>剧情需要 PASS 的其实都很有实力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1108806)<br><br>2013-07-12 11:05<br>赞(0) 踩(0) | <div>能不能别EP！大专辑啊！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/660968)<br>一起去狗带<br>2013-07-02 07:50<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/artist/97466?spm=0.0.0.0.4cqCd9&amp;amp;ref=ac-artist" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/artist/97466?spm=0.0.0.0.4cqCd9&amp;amp;ref=ac-artist</a>她的乐队<a href="http://www.xiami.com/song/1770498307?spm=0.0.0.0.t4WwFX" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1770498307?spm=0.0.0.0.t4WwFX</a>收录在2011红牛新能量音乐计划新能量合辑里的单曲。。=w=第一次听到就爱上了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/660968)<br>一起去狗带<br>2013-07-02 07:50<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/artist/97466?spm=0.0.0.0.4cqCd9&amp;amp;ref=ac-artist" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/artist/97466?spm=0.0.0.0.4cqCd9&amp;amp;ref=ac-artist</a><br>她的乐队<br><a href="http://www.xiami.com/song/1770498307?spm=0.0.0.0.t4WwFX" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1770498307?spm=0.0.0.0.t4WwFX</a><br>收录在2011红牛新能量音乐计划新能量合辑里的单曲。。=w=第一次听到就爱上了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7464983)<br> <br>2013-06-28 11:37<br>赞(1) 踩(0) | <div>这首歌真的好方大同。。。但，感觉Tia不大适合这首歌诶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/959976)<br><br>2013-06-28 11:09<br>赞(0) 踩(0) | <div>呵呵，卑鄙那首歌，我还以为在唱baby, baby.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/959976)<br><br>2013-06-28 11:07<br>赞(0) 踩(0) | <div>很喜欢袁娅维，选秀过后，我对她的喜爱程度，有增无减。</div> |
@@ -675,7 +675,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8096482)<br> <br>2013-05-30 11:00<br>赞(2) 踩(0) | <div>《中国好声音》里面，最接近国际化的声音和演绎方式的，只有她了，毕竟是跟这么大牌合作过的好歌手。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14465788)<br>空空无也<br>2013-05-27 22:05<br>赞(0) 踩(0) | <div>英文版更有feel</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1713520)<br><br>2013-05-27 13:56<br>赞(0) 踩(0) | <div>中国好声音 歌曲不错</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3267377)<br>音乐无关歌词。<br>2013-05-26 20:38<br>赞(0) 踩(0) | <div>为什么虾米就她这一首歌？！！！可还是觉得原唱好一些。。英文版更有feel。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3267377)<br>音乐无关歌词。<br>2013-05-26 20:38<br>赞(0) 踩(0) | <div>为什么虾米就她这一首歌？！！！<br><br>可还是觉得原唱好一些。。英文版更有feel。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576211)<br><br>2013-05-24 15:55<br>赞(0) 踩(0) | <div>袁娅维</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2299928)<br>N世<br>2013-05-24 13:55<br>赞(0) 踩(0) | <div>不火不科学。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5808761)<br>尽可能自由<br>2013-05-23 18:36<br>赞(0) 踩(0) | <div>。。这何来小众之说啊。。这不就是主流音乐也就是所谓的流行音乐么 只是前奏有点独立音乐的幌子。。只是前奏的编曲没有那么俗气而已。。</div> |
@@ -692,7 +692,7 @@ Maxim：" Live For The Day "<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12172263)<br><br>2013-02-16 14:35<br>赞(0) 踩(0) | <div>好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4006620)<br><br>2013-02-16 11:45<br>赞(0) 踩(0) | <div>爵士很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/786701)<br>也许是那朵白云，天空才蓝...<br>2013-02-16 11:33<br>赞(0) 踩(0) | <div>R&amp;amp;B不小众吧，亲！大家都喜欢R&amp;amp;B！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8381480)<br>悬崖勒马。被自己蠢哭了唉...<br>2013-02-08 20:12<br>赞(0) 踩(0) | <div>晕.看到某人评论的瞒高的,结果点进来又是首翻唱歌..还好唱的不错.可能我更偏向创作型歌手....</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8381480)<br>悬崖勒马。被自己蠢哭了唉...<br>2013-02-08 20:12<br>赞(0) 踩(0) | <div>晕.看到某人评论的瞒高的,结果点进来又是首翻唱歌..<br>还好唱的不错.<br>可能我更偏向创作型歌手....</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8052216)<br>我是老妖怪。<br>2013-02-27 09:50<br>赞(0) 踩(0) | <div>Tia还确实是创作型歌手。她和乐队成员一起创作许多不错的Jazz歌曲。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12903701)<br><br>2013-02-05 22:16<br>赞(0) 踩(0) | <div>还用说？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12787284)<br>初来乍到，愿闻其详<br>2013-01-30 20:52<br>赞(0) 踩(0) | <div>喜欢她的异国小情调</div> |
@@ -749,7 +749,7 @@ Maxim：" Live For The Day "<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2035721)<br><br>2013-10-17 20:23<br>赞(0) 踩(0) | <div>有时候这些所谓主流真的很小家子气，还是自以为是的那种！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2446953)<br><br>2013-11-28 22:16<br>赞(0) 踩(0) | <div>跨过？梦呓吧。什么干货都没有就自我宣布胜利，只能是精神胜利吧。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6673780)<br><br>2013-12-03 00:21<br>赞(0) 踩(0) | <div>ye jiao min zhu</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3332411)<br>海阔凭鱼跃，天空任鸟飞！<br>2014-01-09 19:04<br>赞(0) 踩(0) | <div>个人觉得，“封建社会”和“社会主义”只是一个名词，中国现在的体制本质上是一个综合体制的国家。音乐和各个地区的文化发生直接关系。体制并非影响音乐的必然和全部因素。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3332411)<br>海阔凭鱼跃，天空任鸟飞！<br>2014-01-09 19:04<br>赞(0) 踩(0) | <div>个人觉得，“封建社会”和“社会主义”只是一个名词，中国现在的体制本质上是一个综合体制的国家。<br><br>音乐和各个地区的文化发生直接关系。体制并非影响音乐的必然和全部因素。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3214734)<br><br>2014-03-11 12:39<br>赞(0) 踩(0) | <div>对于我国是“小众” 过去大众潮流更多是传唱的rock，pop，像jazz soul 这类一般人唱不了，只能用来听的很难得到推广额。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8531805)<br>怀念那不勒斯的暴雨<br>2014-06-28 22:38<br>赞(0) 踩(0) | <div>装得一手好逼，只怕是个没在国外生活过的屌丝</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1796515)<br><br>2014-07-04 19:32<br>赞(0) 踩(0) | <div><q><b>百里登疯说：</b></q></div> |
@@ -769,7 +769,7 @@ Maxim：" Live For The Day "<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-09-25 09:31<br>赞(0) 踩(0) | <div><q><b>小饮说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1938054)<br>明月在苏州<br>2012-09-25 10:38<br>赞(0) 踩(0) | <div><q><b>JohnnyZhu说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-09-25 10:44<br>赞(0) 踩(0) | <div><q><b>小饮说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2012-09-23 15:48<br>赞(0) 踩(0) | <div>流派：爵士 Jazz <a href="http://www.xiami.com/music/style-detail/gid/5" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/music/style-detail/gid/5</a>风格：Soul：<a href="http://www.xiami.com/music/style-detail/sid/404" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/music/style-detail/sid/404</a>R&amp;amp;B：<a href="http://www.xiami.com/music/style-detail/gid/10" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/music/style-detail/gid/10</a>Soul Jazz：<a href="http://www.xiami.com/music/style-detail/sid/189" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/music/style-detail/sid/189</a>Neo-Soul：<a href="http://www.xiami.com/music/style-detail/sid/431" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/music/style-detail/sid/431</a>虾米加上这些应该够了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2012-09-23 15:48<br>赞(0) 踩(0) | <div>流派：爵士 Jazz <a href="http://www.xiami.com/music/style-detail/gid/5" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/music/style-detail/gid/5</a><br>风格：<br>Soul：<a href="http://www.xiami.com/music/style-detail/sid/404" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/music/style-detail/sid/404</a><br>R&amp;amp;B：<a href="http://www.xiami.com/music/style-detail/gid/10" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/music/style-detail/gid/10</a><br>Soul Jazz：<a href="http://www.xiami.com/music/style-detail/sid/189" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/music/style-detail/sid/189</a><br>Neo-Soul：<a href="http://www.xiami.com/music/style-detail/sid/431" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/music/style-detail/sid/431</a><br><br>虾米加上这些应该够了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7133174)<br>我还没想好要写什么...<br>2012-09-22 23:15<br>赞(1) 踩(0) | <div>竟然被刘欢讲的那段话感动了，我们中国有自己的类型音乐！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-09-24 03:40<br>赞(0) 踩(0) | <div>上面那些哪个是中国自己的类型音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2012-09-24 11:20<br>赞(0) 踩(0) | <div><q><b>JohnnyZhu说：</b></q></div> |

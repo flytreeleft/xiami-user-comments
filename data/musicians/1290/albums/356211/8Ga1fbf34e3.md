@@ -52,8 +52,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13756474)<br>神棍就是神棍<br>2020-01-23 02:39<br>赞(0) 踩(0) | <div>早期的左装逼还是很有才的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275338302)<br><br>2018-09-27 19:54<br>赞(0) 踩(0) | <div>郭大纲就是贡献出《爱的劳工》钢琴部分的那位啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12771991)<br> <br>2017-01-12 03:31<br>赞(0) 踩(0) | <div>再見了愛情……</div> |

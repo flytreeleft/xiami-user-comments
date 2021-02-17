@@ -27,5 +27,3 @@ In a little crooked house
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

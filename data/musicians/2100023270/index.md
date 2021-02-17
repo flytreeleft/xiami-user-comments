@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/893e26a1d477152ddacb6af8c1bad73b.jpg)<br>韩菁英](https://i.xiami.com/feifanzhisheng) | **播放数**: 1307550<br>**粉丝数**: 40<br>**评论数**: 2<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/893e26a1d477152ddacb6af8c1bad73b.jpg)<br>韩菁英](https://i.xiami.com/feifanzhisheng) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 1307550<br>**粉丝数**: 40<br>**评论数**: 2<br> |
 
 ## 档案
 
@@ -67,7 +67,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127902218)<br> <br>2020-04-19 17:33<br>赞(0) 踩(0) | <div>声声慢真的好棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4172307)<br>虾米forever<br>2020-01-14 20:46<br>赞(0) 踩(0) | <div>四平八稳，越听越有内味，，不觉过了几遍</div> |

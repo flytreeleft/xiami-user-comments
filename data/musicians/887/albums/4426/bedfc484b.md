@@ -48,8 +48,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277323633)<br><br>2019-07-04 07:16<br>赞(1) 踩(0) | <div>才子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283137567)<br><br>2018-05-13 11:59<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285329269)<br> <br>2018-03-10 21:53<br>赞(4) 踩(0) | <div>半壁的流行歌是真好听</div> |
@@ -75,8 +75,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18601842)<br><br>2013-08-06 13:14<br>赞(0) 踩(0) | <div>汪峰•彼岸^_^如果有来生，我愿变成大海...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5769935)<br><br>2013-07-21 13:50<br>赞(1) 踩(0) | <div>一年前的上海，回莘庄的地铁上遇到一个地铁歌手。意犹未尽地在等待下一首时发现他已踱步而出。结果追出去的下一首，这一首，他唱到声音嘶哑，喉咙哽咽，拨断琴弦。 ＂我还有希望，我还有力量，哪儿才是我的彼岸＂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5769935)<br><br>2013-07-21 13:14<br>赞(2) 踩(0) | <div>一年前在上海，在回莘庄的地铁上遇见一个地铁艺人，在我意犹未尽时他已踱步出了车厢。追了出去想他再唱一首，结果他唱到声音嘶哑，喉咙哽咽，拨断琴弦。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2512795)<br><br>2013-06-16 23:37<br>赞(0) 踩(0) | <div>我找来找去我找来找去可哪儿才是我的彼岸我还有希望我还有力量可哪儿才是我的彼岸！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2512795)<br><br>2013-06-16 23:27<br>赞(0) 踩(0) | <div>我找来找去我找来找去可哪儿才是我的彼岸我还有希望我还有力量可哪儿才是我的彼岸！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2512795)<br><br>2013-06-16 23:37<br>赞(0) 踩(0) | <div>我找来找去<br>我找来找去<br>可哪儿才是我的彼岸<br>我还有希望<br>我还有力量<br>可哪儿才是我的彼岸！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2512795)<br><br>2013-06-16 23:27<br>赞(0) 踩(0) | <div>我找来找去<br>我找来找去<br>可哪儿才是我的彼岸<br>我还有希望<br>我还有力量<br>可哪儿才是我的彼岸！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8896004)<br>对不起对不起，如果是我自...<br>2013-05-12 22:56<br>赞(1) 踩(0) | <div>这首歌，。。记得之前有一次曦的妈妈很意外的来酒吧喝酒，曦就唱这首歌给他妈妈听。。。哇。。我也超想唱这首歌给我老妈听。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12838762)<br><br>2013-02-02 16:27<br>赞(0) 踩(0) | <div>记得有一次，妈妈哭着打电话过来说，她能烧饭给一大家人吃，却不能烧饭给自己的儿子吃。妈妈，希望你这么多年的理解</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5391410)<br><br>2012-10-23 12:27<br>赞(0) 踩(0) | <div>虽然老爸老妈还没到过重阳节的年纪，但还是想把这首歌送给他们。</div> |

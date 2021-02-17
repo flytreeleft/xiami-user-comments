@@ -69,8 +69,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46768290)<br>此生一梦，此梦一生！<br>2015-12-11 03:04<br>赞(0) 踩(0) | <div>又见炊烟   <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28012841)<br><br>2014-09-30 23:06<br>赞(0) 踩(0) | <div>大爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/393188)<br><br>2012-09-15 00:50<br>赞(0) 踩(0) | <div>依然记得live上你一人一吉他和一首首歌，记得你唱到这首歌哽咽低头，深呼吸后坚强完成整场演出。我想你出新唱片，但都想再看一次你的live，虽然你不会唱那些花儿【好扫兴啊鲁】为了想起当天某些事，还是设法放弃当天某人，我只记着最好，在我心里你永不老。#致之行#</div> |

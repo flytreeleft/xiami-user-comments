@@ -68,8 +68,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3601337)<br>gothic<br>2018-06-30 19:57<br>赞(0) 踩(0) | <div>吉他：李延亮&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7412920)<br> <br>2018-05-31 13:08<br>赞(0) 踩(0) | <div>喜欢这段钢琴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278159188)<br>特别爱学习<br>2018-02-06 19:46<br>赞(1) 踩(0) | <div>左叔是是艺术家 可惜在中国</div> |

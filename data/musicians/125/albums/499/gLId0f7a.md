@@ -93,8 +93,8 @@ It's the hard knock life!!<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13580246)<br>Ray,<br>2019-07-09 00:07<br>赞(1) 踩(0) | <div>封面？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86907298)<br>我还没想好要写什么...<br>2019-01-27 08:30<br>赞(0) 踩(0) | <div>❍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38724138)<br>动物凶猛<br>2017-02-12 19:32<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |

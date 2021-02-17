@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266224917)<br><br>2020-12-03 10:01<br>赞(0) 踩(0) | <div>感动，情深</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434709871)<br><br>2020-10-25 21:57<br>赞(0) 踩(0) | <div>青春之花绽放，友情悄变桃花之忆！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345234738)<br><br>2019-09-02 22:04<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
@@ -84,8 +84,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334726409)<br>什么天荒地老  什么白头...<br>2018-05-11 18:53<br>赞(0) 踩(0) | <div>骗不过困的实习</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267963599)<br>夏日的木叶不会凋零<br>2018-04-22 09:18<br>赞(1) 踩(0) | <div>怎么一个月都没人评论？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345234738)<br><br>2018-03-18 22:22<br>赞(0) 踩(0) | <div>(=￣&amp;nbsp;&amp;rho;￣=)&amp;nbsp;..zzZZ</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305768853)<br>情深，无奈缘浅……<br>2018-03-15 22:03<br>赞(0) 踩(0) | <div>现在听，只会觉得有些许安慰未来听，估计就只有呵呵一笑</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331179806)<br><br>2018-03-16 19:48<br>赞(0) 踩(0) | <div>未来，我们都无法预知。至少，珍惜现在的彼此。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305768853)<br>情深，无奈缘浅……<br>2018-03-15 22:03<br>赞(0) 踩(0) | <div>现在听，只会觉得有些许安慰<br>未来听，估计就只有呵呵一笑</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331179806)<br><br>2018-03-16 19:48<br>赞(0) 踩(0) | <div>未来，我们都无法预知。<br>至少，珍惜现在的彼此。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231212241)<br>说得不多ヤ染最艷的發，畱...<br>2018-03-11 07:52<br>赞(0) 踩(0) | <div>不好说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309438978)<br>|<br>2018-02-16 20:10<br>赞(3) 踩(0) | <div>如果你听腻了这首歌，那请你去看看《兄弟抱一下》的微电影，它会让你重拾对这首歌的热爱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258353121)<br>地势坤，君子以厚德载物。<br>2018-01-17 09:42<br>赞(0) 踩(0) | <div>好听</div> |
@@ -135,7 +135,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201578709)<br><br>2016-11-20 12:15<br>赞(0) 踩(0) | <div>rfy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25203768)<br><br>2016-11-15 08:31<br>赞(0) 踩(0) | <div>66666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96310250)<br>千年轮回，只因还欠红颜一...<br>2016-11-11 21:24<br>赞(7) 踩(0) | <div>好实在好现实的歌，唱响了无数男人的心声 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1109924)<br>扫头像加好友<br>2016-11-11 12:05<br>赞(2) 踩(0) | <div>今天此刻亲见此歌下架。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1109924)<br>扫头像加好友<br>2016-11-11 12:05<br>赞(2) 踩(0) | <div>今天<br>此刻<br>亲见此歌下架。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175502964)<br>loser<br>2016-11-11 10:21<br>赞(2) 踩(0) | <div>是啊我们都变了，变的现实了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44693337)<br>过去十八岁 没带表，<br>2016-11-10 18:16<br>赞(0) 踩(0) | <div>余丹奥 我们应该是兄弟吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220005533)<br><br>2016-11-10 10:55<br>赞(0) 踩(0) | <div>999999999999999999999999999999999999999999999999999999999999999999999....</div> |
@@ -324,7 +324,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75678260)<br>南方的小巷，推开多情的门...<br>2016-06-14 13:57<br>赞(0) 踩(0) | <div>兄弟你受了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/148364200)<br><br>2016-06-13 20:17<br>赞(1) 踩(0) | <div>兄弟你瘦了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54014682)<br>Fall in Musi...<br>2016-06-13 00:27<br>赞(0) 踩(0) | <div>第一句歌词，这么说我的肯定是真兄弟</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189256095)<br><br>2016-06-12 19:16<br>赞(0) 踩(0) | <div>，。，？。。？？。。？？。，</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189256095)<br><br>2016-06-12 19:16<br>赞(0) 踩(0) | <div>，。，？<br>。。？？。。？？。，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189256095)<br><br>2016-06-12 19:16<br>赞(0) 踩(0) | <div>？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189256095)<br><br>2016-06-12 19:16<br>赞(2) 踩(0) | <div>太好听了 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188878809)<br> <br>2016-06-11 19:19<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
@@ -605,7 +605,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12178206)<br>你可曾听得见我心底的委婉<br>2015-08-17 08:17<br>赞(1) 踩(0) | <div>好听，有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52510859)<br><br>2015-08-13 07:44<br>赞(0) 踩(0) | <div>壮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37074121)<br><br>2015-08-12 20:29<br>赞(0) 踩(0) | <div>唱的真好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52592911)<br><br>2015-08-12 12:00<br>赞(0) 踩(0) | <div>fbfcndhdfhcvhdvjgfgghyuuggghf</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52592911)<br><br>2015-08-12 12:00<br>赞(0) 踩(0) | <div>fbfcndhd<br>fhcvhdvjg<br><br><br><br><br><br><br><br>fgghyuuggghf</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54743517)<br><br>2015-08-11 23:59<br>赞(0) 踩(0) | <div>兄弟一生一世</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48076697)<br><br>2015-08-10 22:26<br>赞(0) 踩(0) | <div>兄弟你还好吗，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54753543)<br><br>2015-08-08 08:15<br>赞(0) 踩(0) | <div>兄弟，你还好吗？</div> |
@@ -749,7 +749,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35365694)<br><br>2014-07-06 11:32<br>赞(0) 踩(0) | <div>回到现实又有多少这样的兄弟情怀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2089046)<br>我还没想好要写什么...<br>2014-06-25 00:35<br>赞(0) 踩(0) | <div>@张城玮 看你那么悲催，送首歌曲你消魂！晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30578791)<br><br>2014-06-14 14:39<br>赞(0) 踩(0) | <div>好兄弟，一辈子...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34379226)<br><br>2014-06-10 00:12<br>赞(0) 踩(0) | <div>兄弟我们都像是 山坡滚落的石子都在颠碰之中磨掉了尖牙（hhhhhhhhhhhhhhh这句太吓人了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34379226)<br><br>2014-06-10 00:12<br>赞(0) 踩(0) | <div>兄弟我们都像是 山坡滚落的石子<br>都在颠碰之中磨掉了尖牙（hhhhhhhhhhhhhhh这句太吓人了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12662563)<br><br>2014-06-01 13:45<br>赞(0) 踩(0) | <div>小伙伴们都惊呆了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11550261)<br>暂无签名~<br>2014-05-25 21:56<br>赞(0) 踩(0) | <div>喜欢这样磁性的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4976887)<br><br>2014-05-25 17:40<br>赞(0) 踩(0) | <div>平淡了</div> |
@@ -792,7 +792,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29106309)<br><br>2013-12-16 12:33<br>赞(0) 踩(0) | <div>我们都是山坡滚落的石子。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29765306)<br><br>2013-12-14 22:34<br>赞(0) 踩(0) | <div>兄弟你还好吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29240472)<br><br>2013-12-08 10:07<br>赞(0) 踩(0) | <div>爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11268537)<br><br>2013-12-06 17:03<br>赞(0) 踩(0) | <div>我们我们的青春 就是长在那心底，经过风吹雨打 才会开的花。……我们都像是 山坡滚落的石子，都在颠碰之中磨掉了尖牙。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11268537)<br><br>2013-12-06 17:03<br>赞(0) 踩(0) | <div>我们<br>我们的青春 就是长在那心底，<br>经过风吹雨打 才会开的花。<br>……<br>我们都像是 山坡滚落的石子，<br>都在颠碰之中磨掉了尖牙。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28471751)<br><br>2013-11-26 20:08<br>赞(0) 踩(0) | <div>想给大家听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28389525)<br><br>2013-11-25 15:38<br>赞(0) 踩(0) | <div>兄弟们过年有不回家的吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28283599)<br><br>2013-11-23 22:48<br>赞(0) 踩(0) | <div>111</div> |
@@ -902,10 +902,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13782256)<br><br>2013-04-02 13:49<br>赞(0) 踩(0) | <div>兄弟㊗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13729586)<br><br>2013-03-29 18:18<br>赞(0) 踩(0) | <div>潇洒，亲切</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11873719)<br>腐女+宅女<br>2013-03-01 21:02<br>赞(0) 踩(0) | <div>男孩子K歌的时候点这首歌一起唱，那气氛，那感觉真的很好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6799293)<br>。<br>2013-02-27 19:54<br>赞(0) 踩(0) | <div>我们都变了 变的现实了不再去说那些年少热血的话我们都像是 山坡滚落的石子都在颠碰之中磨掉了尖牙</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6799293)<br>。<br>2013-02-27 19:54<br>赞(0) 踩(0) | <div>我们都变了 变的现实了<br>不再去说那些年少热血的话<br>我们都像是 山坡滚落的石子<br>都在颠碰之中磨掉了尖牙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13211031)<br><br>2013-02-25 22:07<br>赞(0) 踩(0) | <div>炮院的兄弟们想你们了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12914943)<br><br>2013-02-06 16:29<br>赞(0) 踩(0) | <div>很现实，很好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-01-21 06:06<br>赞(0) 踩(0) | <div>兄弟抱一下为岁月的牵挂为那心中曾翻滚的 / 汹涌的浪花</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-01-21 06:06<br>赞(0) 踩(0) | <div>兄弟抱一下<br>为岁月的牵挂<br>为那心中曾翻滚的 / 汹涌的浪花</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8230947)<br>我还没想好要写什么...<br>2013-01-01 23:09<br>赞(0) 踩(0) | <div>兄弟兄弟。。。。。。。。。。。。。。。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8977910)<br><br>2012-12-26 14:47<br>赞(0) 踩(0) | <div>ktv的时候可以唱一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6859183)<br>一只乌鸦...<br>2012-11-20 03:40<br>赞(0) 踩(0) | <div>兄弟抱一下~！一切尽在不言中吧~！辛酸苦辣一个拥抱你都懂得~！</div> |
@@ -931,7 +931,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9101363)<br>sss<br>2012-05-07 03:36<br>赞(0) 踩(0) | <div>个</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8978165)<br><br>2012-04-24 17:28<br>赞(0) 踩(0) | <div>还是时不时会想念你们想和你们在1起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3879284)<br><br>2012-04-18 20:09<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/922915)<br>午休时分，遗忘忙碌的一切...<br>2012-04-18 16:52<br>赞(0) 踩(0) | <div>兄弟抱一下说说你心里话说尽这些年你的委屈 和沧桑变化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/922915)<br>午休时分，遗忘忙碌的一切...<br>2012-04-18 16:52<br>赞(0) 踩(0) | <div>兄弟抱一下<br>说说你心里话<br>说尽这些年你的委屈 和沧桑变化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3029480)<br>huoxinhua<br>2012-04-16 22:34<br>赞(0) 踩(0) | <div>庞龙《兄弟抱一下》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8752412)<br><br>2012-04-06 18:16<br>赞(0) 踩(0) | <div>回想起那些逝去的岁月</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7258361)<br><br>2012-03-30 16:54<br>赞(0) 踩(0) | <div>:(</div> |

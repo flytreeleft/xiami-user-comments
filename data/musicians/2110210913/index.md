@@ -3,13 +3,10 @@ Lulu
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e4b62858e040c2940300dcc91b21bb7b.jpg)<br>Lulu](https://i.xiami.com/lulushouse) | **播放数**: 989883<br>**粉丝数**: 86<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 陷阱舞曲 Trap, 电子 Electronic<br> |
+| [![](../../images/musicians/e4b62858e040c2940300dcc91b21bb7b.jpg)<br>Lulu](https://i.xiami.com/lulushouse) | **地区**: China 中国大陆<br>**风格**: 陷阱舞曲 Trap, 电子 Electronic<br>**播放数**: 989883<br>**粉丝数**: 86<br>**评论数**: 6<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -19,8 +16,8 @@ Lulu
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12018084)<br> <br>2017-06-15 15:04<br>赞(0) 踩(0) | <div>あ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/62033612)<br>你慢慢聽，我漫漫做<br>2017-05-19 19:44<br>赞(0) 踩(0) | <div>cool</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70596582)<br>how much i v...<br>2017-05-19 10:57<br>赞(0) 踩(0) | <div>。</div> |

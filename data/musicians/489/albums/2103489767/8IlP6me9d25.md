@@ -101,8 +101,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6107918)<br>你是人间四月天，我等候你<br>2020-10-10 10:04<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401189308)<br>但行好事，莫问前程<br>2019-08-04 23:51<br>赞(0) 踩(0) | <div>他们老了，我也奔四了！！ <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343497955)<br><br>2019-07-18 20:26<br>赞(1) 踩(0) | <div>无忧的蓝天，是对童年的回忆，记录那个无忧无虑的生活，这是我们单纯的孩子的印记！</div> |
@@ -145,7 +145,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271855453)<br><br>2018-09-15 00:29<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378338702)<br><br>2018-09-13 00:26<br>赞(2) 踩(0) | <div>看开了，谁的头顶都会有一汪蓝天；看淡了，谁的心中都会有一片花海。你要做的就是像孩子一样，真诚；像夕阳一样，温暖；像天空一样，宁静。爱一个人，就是即使虚妄，也终于伸出手去，递上你的心，你的灵魂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403219466)<br><br>2018-09-01 10:46<br>赞(0) 踩(0) | <div>最初听小柯还是在贫嘴张大明的幸福生活，那时还是卡口带，一转眼，快二十年了，声音还是这么纯粹，眼泪瞬间下来了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4836616)<br>我还没想好要写什么...<br>2018-08-27 23:21<br>赞(2) 踩(0) | <div>想在孩子的畫面裡永遠守護單純的那天安靜的看著時光從此不再荏苒我竟然突然流下了淚水</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4836616)<br>我还没想好要写什么...<br>2018-08-27 23:21<br>赞(2) 踩(0) | <div>想在孩子的畫面裡<br>永遠守護單純的那天<br>安靜的看著<br>時光從此不再荏苒<br>我竟然突然流下了淚水</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377047175)<br><br>2018-08-24 21:23<br>赞(0) 踩(0) | <div>逝去的青春，熟悉的声音，带着我一路走来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235712311)<br>喜欢你没道理<br>2018-08-24 19:16<br>赞(0) 踩(0) | <div>听着这首好想回到小时候！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353292312)<br><br>2018-08-16 20:38<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -161,7 +161,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41265174)<br>心烦意乱<br>2018-05-25 22:37<br>赞(2) 踩(0) | <div>无忧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334969529)<br><br>2018-05-24 22:53<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346065897)<br><br>2018-05-18 07:44<br>赞(0) 踩(0) | <div>Good</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16212488)<br><br>2018-05-18 01:55<br>赞(0) 踩(0) | <div>一直在寻找无忧无虑的蓝天！一直在寻找无忧无虑的世界！净化心灵的歌曲啊！一直向往香巴拉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16212488)<br><br>2018-05-18 01:55<br>赞(0) 踩(0) | <div>一直在寻找无忧无虑的蓝天！<br><br>一直在寻找无忧无虑的世界！<br>净化心灵的歌曲啊！一直向往香巴拉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5511085)<br> <br>2018-05-07 19:05<br>赞(0) 踩(0) | <div>听到泪目 老狼的声音有种岁月无伤的纯真</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209868337)<br><br>2018-05-04 01:38<br>赞(0) 踩(0) | <div>如果人生真的有无忧的蓝天，再挂着朵朵白云，纳真的是么么哒 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347490916)<br>,-)<br>2018-05-01 12:55<br>赞(2) 踩(0) | <div>不一定要999,懂得欣赏这首歌的人在就行了</div> |
@@ -171,16 +171,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4198735)<br><br>2018-04-09 11:45<br>赞(2) 踩(0) | <div>老狼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356425706)<br><br>2018-04-01 08:30<br>赞(1) 踩(0) | <div>太喜欢这歌，净空的感觉真好！心之归属。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91955912)<br><br>2018-03-28 01:53<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4973336)<br>宁愿用这一生等你发现<br>2018-03-26 07:45<br>赞(4) 踩(0) | <div>吃火锅时候无意间听见的，问了前台叫什么名字。细细听来真的很好的歌。一直在寻找最初的自己，怎么的夙愿才能静好了岁月。我们总是一直在寻找自己，一直在寻找你。居然听着要哭的感觉。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4973336)<br>宁愿用这一生等你发现<br>2018-03-26 07:45<br>赞(4) 踩(0) | <div>吃火锅时候无意间听见的，问了前台叫什么名字。细细听来真的很好的歌。<br>一直在寻找最初的自己，怎么的夙愿才能静好了岁月。<br>我们总是一直在寻找自己，一直在寻找你。<br>居然听着要哭的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347722792)<br><br>2018-03-25 21:28<br>赞(3) 踩(0) | <div>好吧 蓝蓝的天空～～想想那些路上的风景....... <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"> <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"> <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png">爷爷一周前进ICU了、重度昏迷！爷爷加油！祈祷爷爷平安祈求菩萨保佑爷爷快快康复 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15254512)<br><br>2018-03-20 06:41<br>赞(1) 踩(0) | <div>～！～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257452781)<br><br>2018-03-20 02:26<br>赞(1) 踩(0) | <div>无忧的蓝天，纯净的世界。久违了，心底纯纯的爱。谢谢你，让我遇到你。ladymomo</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39868835)<br>天早灰蓝，想告别，偏未晚<br>2018-03-17 17:04<br>赞(2) 踩(0) | <div>老狼的声音这么多年还是这么好听。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317652839)<br><br>2018-03-17 08:45<br>赞(1) 踩(0) | <div>有多少次，想放下疲惫去远方走走，但又有多少次的生活所迫不得不放弃！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21607895)<br>忠于自己，保持独立。<br>2018-03-16 22:09<br>赞(1) 踩(0) | <div>无意听到这首歌曲然后迅速的追完了纪录片，制作非常精良，用故事穿起整个香巴拉世界。从此迷恋起四川藏区那无忧的蓝天。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/455482)<br><br>2018-03-10 10:33<br>赞(3) 踩(0) | <div>昨天在老家，抬头看见满天的星斗，莫名的感动。想起在城市里已多少年没看到过星星，没听到过清晨的鸟叫。想念蓝天，想念星星。 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"> <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/455482)<br><br>2018-03-10 10:33<br>赞(3) 踩(0) | <div>昨天在老家，抬头看见满天的星斗，莫名的感动。想起在城市里已多少年没看到过星星，没听到过清晨的鸟叫。<br>想念蓝天，想念星星。 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"> <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2205822)<br><br>2018-03-05 14:40<br>赞(2) 踩(0) | <div>想看香巴拉深处</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320898217)<br>伽音<br>2018-03-04 06:56<br>赞(3) 踩(0) | <div>两个男人唱出柔柔的蓝天好听！同意的请举手留爪印！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320898217)<br>伽音<br>2018-03-04 06:56<br>赞(3) 踩(0) | <div>两个男人唱出柔柔的蓝天<br><br>好听！<br><br>同意的请举手留爪印！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469218)<br> <br>2018-03-03 08:38<br>赞(1) 踩(0) | <div>最初的自己 无忧无虑的蓝天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/903011)<br>抽，是一种生活艺术；找抽<br>2018-03-02 18:58<br>赞(0) 踩(0) | <div>喜欢一个</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254835398)<br>每个故事的自己。<br>2018-02-23 23:14<br>赞(1) 踩(0) | <div>晚安，这个不太晴朗的雨天</div> |
@@ -208,7 +208,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345910259)<br><br>2018-01-24 09:42<br>赞(0) 踩(0) | <div>谁的蓝天里，无忧无虑～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47179873)<br><br>2018-01-23 18:10<br>赞(1) 踩(0) | <div>纪录片好看，虽然只出了一集乐园，可以看的出来质量有保证，推荐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4168963)<br>music fun<br>2018-01-23 12:01<br>赞(1) 踩(0) | <div>看见这个封面就进来了。好久没听老狼的歌了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8970773)<br><br>2018-01-22 23:58<br>赞(1) 踩(0) | <div>老小组合，不多见。柯氏新货，没新意。但，淡，挺好 <img src="../../../../images/comments/29cf103b88c33e19563095897485c32a.png">久违了，最初的自己。只是，你还在？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8970773)<br><br>2018-01-22 23:58<br>赞(1) 踩(0) | <div>老小组合，不多见。柯氏新货，没新意。<br>但，淡，挺好 <img src="../../../../images/comments/29cf103b88c33e19563095897485c32a.png"><br><br>久违了，最初的自己。<br>只是，你还在？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273956674)<br>随乐随行<br>2018-01-22 22:20<br>赞(3) 踩(0) | <div>久违的自己，能找回吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283404872)<br><br>2018-01-22 18:43<br>赞(2) 踩(0) | <div>由老狼和小柯参与制作的主题曲MV也上线了，四川藏区是中国的第二大藏区，这里有的是森林、雪山、冰川、峡谷、草原......无尽的美景，都被老狼和小柯唱进歌里了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290759598)<br> <br>2018-01-22 13:30<br>赞(2) 踩(0) | <div>小柯很有才</div> |

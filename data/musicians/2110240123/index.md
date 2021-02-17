@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3dde23fb466dd00c8e736fb22d2219d0.jpg)<br>宗铄法师](https://i.xiami.com/szs) | **播放数**: 1662038<br>**粉丝数**: 615<br>**评论数**: 19<br>**地区**: China 中国大陆<br>**风格**: 佛教音乐 Buddhist Music, 流行 Pop, 世界音乐 World Music, 华语唱作人 Chinese Singer-Songwriter, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/3dde23fb466dd00c8e736fb22d2219d0.jpg)<br>宗铄法师](https://i.xiami.com/szs) | **地区**: China 中国大陆<br>**风格**: 佛教音乐 Buddhist Music, 流行 Pop, 世界音乐 World Music, 华语唱作人 Chinese Singer-Songwriter, 轻音乐 Easy Listening<br>**播放数**: 1662038<br>**粉丝数**: 615<br>**评论数**: 19<br> |
 
 ## 档案
 
@@ -27,11 +27,11 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412781927)<br>阿弥陀佛<br>2020-10-25 10:12<br>赞(1) 踩(0) | <div>南无阿弥陀佛。同归净土。花开见佛。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6565524)<br>音乐是第二生命<br>2020-08-08 17:36<br>赞(1) 踩(0) | <div>南无阿弥陀佛！ <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429431695)<br>犹如莲花不著水，亦如日月...<br>2020-03-17 21:51<br>赞(2) 踩(0) | <div>宗铄法师的《东林佛号》：在诸多佛号歌唱版本中，是一首经典性吟唱，把禅境之美与佛号的悲悯，融为一体，从心性中流露，此唱目前无人比肩。南無阿彌陀佛！南無阿彌陀佛！南無阿彌陀佛！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429431695)<br>犹如莲花不著水，亦如日月...<br>2020-03-17 21:51<br>赞(2) 踩(0) | <div>宗铄法师的《东林佛号》：在诸多佛号歌唱版本中，是一首经典性吟唱，把禅境之美与佛号的悲悯，融为一体，从心性中流露，此唱目前无人比肩。<br>南無阿彌陀佛！南無阿彌陀佛！南無阿彌陀佛！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429431695)<br>犹如莲花不著水，亦如日月...<br>2020-03-17 21:50<br>赞(2) 踩(0) | <div>法师的一曲清唱，一曲素唱，不假装饰，自然而然，恰如观照自心，返林寻踪。这一音一声，呼息、句逗和语气，平缓而沉静。最见功夫的吟唱正是这样：约而博，简而深，大音希声，雁过长空，不留痕迹&amp;hellip;&amp;hellip;。大多数佛歌皆少不了音调、旋律和配器上的着意。当卸下了一切&amp;ldquo;武装&amp;rdquo;之后，菩萨最本然的声音就是我们身旁那一声声亲切的耳语，深深的惦念。我们可以记不住旋律，但听过后，忘不了的是那慈悲平等的心境。为宗铄法师这一曲《南無观世音菩萨》点赞！感恩观世音菩萨！感恩宗铄法师！阿弥陀佛！ <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376323076)<br><br>2020-02-28 16:02<br>赞(2) 踩(0) | <div>非常感恩宗烁师父，看了您与妙湛师父的那个短视频，过来搜，百听不厌，师父的东林佛号远超天籁之音。阿弥陀佛！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4392814)<br>做人如水 做事如山<br>2019-12-24 21:34<br>赞(1) 踩(0) | <div>顶礼师父、最近常去梵行品茶、盼有缘能与大师一见、、、</div> |
@@ -46,5 +46,5 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52597348)<br><br>2017-09-24 20:45<br>赞(4) 踩(0) | <div>师父的歌真好听。很想再次当面聆听。南無阿彌陀佛！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325723733)<br><br>2017-09-18 23:00<br>赞(5) 踩(0) | <div>收藏了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175421476)<br>我还没想好要写什么...<br>2017-09-18 10:51<br>赞(5) 踩(0) | <div>禅心似️真的太好听了！ <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13463537)<br><br>2017-09-17 14:18<br>赞(5) 踩(0) | <div>支持宗铄师的原创音乐！ <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png">妙雪</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13463537)<br><br>2017-09-17 14:18<br>赞(5) 踩(0) | <div>支持宗铄师的原创音乐！ <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"><br>妙雪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250238229)<br>梵呗音乐唱作人<br>2017-09-15 00:28<br>赞(32) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

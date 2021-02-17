@@ -32,5 +32,3 @@ Put it in the oven for baby and me
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

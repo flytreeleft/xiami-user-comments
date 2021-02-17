@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a058c76df1cd1d668f6ba580abdef11c.jpg)<br>庆庆](https://i.xiami.com/qingqing) | **播放数**: 7868477<br>**粉丝数**: 7456<br>**评论数**: 119<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 新迷幻 Neo-Psychedelia, 民谣流行 Folk Pop, 中国风 China-Wave, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/a058c76df1cd1d668f6ba580abdef11c.jpg)<br>庆庆](https://i.xiami.com/qingqing) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 新迷幻 Neo-Psychedelia, 民谣流行 Folk Pop, 中国风 China-Wave, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 7868477<br>**粉丝数**: 7456<br>**评论数**: 119<br> |
 
 ## 档案
 
@@ -50,8 +50,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19661576)<br>西楼，多希望你能有机会走...<br>2020-07-30 01:22<br>赞(1) 踩(0) | <div>无意间听到你的&amp;ldquo;遗忘&amp;rdquo;，很喜欢，虽然一开始我也抱歉的觉得你的名字像是网红歌手没去注意，今日空闲找歌时随意翻了些你的歌，很惊喜，好久没有遇到精品率如此高，如此对味的唱作才女了。比如陈绮贞、曹方、龙宽、许哲佩、王若琳。喜欢你的音乐，小众却又舒畅，不傲冷，不立异。虽然唱作型小众歌手很难在商业上大红，但成功的人可以获得听着与唱者的双赢，更加宝贵。偶尔兼备些偏主流又不乏素养的东西为自己打开更多机会流量，与自己的音乐信仰并不偏颇。我觉得这些你都做的蛮好，加油坚持！会有越来越多的听者爱上你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35657913)<br>喜欢一首歌，就让更多人一...<br>2020-04-19 20:00<br>赞(1) 踩(0) | <div>咋有的歌听不了 <img src="../../images/comments/91081ea0de8ee2c933524fb8574e76e5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17598298)<br><br>2020-03-12 17:05<br>赞(1) 踩(0) | <div>目前为止，仍然是空心最好听。当时听到惊为天人。但是知名度好像太低，可惜了</div> |

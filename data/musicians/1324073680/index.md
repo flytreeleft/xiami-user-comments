@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a4e708f1c08daefbd0c85eff2bd658ec.jpg)<br>知夏](https://i.xiami.com/yqg) | **播放数**: 7812536<br>**粉丝数**: 264<br>**评论数**: 37<br>**地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/a4e708f1c08daefbd0c85eff2bd658ec.jpg)<br>知夏](https://i.xiami.com/yqg) | **地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 国语流行 Mandarin Pop<br>**播放数**: 7812536<br>**粉丝数**: 264<br>**评论数**: 37<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445214819)<br><br>2020-10-05 11:28<br>赞(0) 踩(0) | <div>'垃圾破音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379396429)<br>我还没想好要写什么...<br>2020-04-30 17:19<br>赞(0) 踩(0) | <div>新一代电鳗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402140806)<br><br>2020-03-18 18:00<br>赞(0) 踩(0) | <div>很偶然听到你的声音，很喜欢你的声音。</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b1eceb4b3b2effeea5227d07034690b6.jpg)<br>卜凡](https://i.xiami.com/bufan) | **播放数**: 2765702<br>**粉丝数**: 952<br>**评论数**: 115<br>**地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 民谣流行 Folk Pop, 城市民谣 Urban Folk, 流行摇滚 Pop Rock, 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/b1eceb4b3b2effeea5227d07034690b6.jpg)<br>卜凡](https://i.xiami.com/bufan) | **地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 民谣流行 Folk Pop, 城市民谣 Urban Folk, 流行摇滚 Pop Rock, 独立流行 Indie Pop<br>**播放数**: 2765702<br>**粉丝数**: 952<br>**评论数**: 115<br> |
 
 ## 档案
 
@@ -27,15 +27,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-12 20:47<br>赞(1) 踩(0) | <div>42943</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328572854)<br><br>2020-10-22 00:41<br>赞(0) 踩(0) | <div>真心不错 可以帮你的设计</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422021566)<br>‍&<br>2019-03-27 21:56<br>赞(0) 踩(0) | <div>感人好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191410375)<br><br>2018-09-07 18:39<br>赞(0) 踩(0) | <div>很喜欢你的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48894999)<br>     0996 ho...<br>2018-06-12 03:02<br>赞(0) 踩(0) | <div>加油 幸福不离也不弃！有时远，有时近</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340493369)<br>我还没想好要写什么...<br>2018-05-05 18:32<br>赞(1) 踩(0) | <div>你唱歌真的好棒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288294942)<br>他心通，心魔引<br>2018-04-14 22:13<br>赞(0) 踩(0) | <div>声音很屌，喜欢狼与花舞 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288294942)<br>他心通，心魔引<br>2018-04-14 22:13<br>赞(0) 踩(0) | <div>声音很屌，<br>喜欢狼与花舞 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2491956)<br>我还没想好要写什么...<br>2018-04-06 09:20<br>赞(3) 踩(0) | <div>偶像练习生</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309189164)<br>梦游人说着梦话，游荡在人...<br>2018-06-25 20:15<br>赞(0) 踩(0) | <div>练个锤子看清楚人</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31308352)<br>我还没想好要写什么...<br>2018-07-16 16:15<br>赞(0) 踩(0) | <div><q><b>炫之风.说：</b></q></div> |

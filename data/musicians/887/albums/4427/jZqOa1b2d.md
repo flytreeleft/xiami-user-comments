@@ -78,8 +78,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350806841)<br>懒人一坨<br>2019-04-08 04:54<br>赞(2) 踩(0) | <div>……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376111292)<br><br>2018-06-18 20:16<br>赞(1) 踩(0) | <div>失落的时候听汪峰的，总是觉得能给自己一股无形的力量让我走下去 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83417262)<br>血犹未冷，皆因有梦。<br>2018-05-20 01:25<br>赞(0) 踩(0) | <div>上次去东莞出差，走在陌生的城市，突然转角出现了熟悉的地方，她伫立在微弱的灯光下。我对她一见钟情，我们很快在一起了。5分钟后，我感觉一个人出门在外，是要努力奋斗的，不适合谈恋爱！我瞬间清醒了索性给了她两百块分手费，消失在她的视线里。有些人注定只是过客，在生命中留下影子，留下美好的回忆。</div> |
@@ -114,7 +114,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12277786)<br><br>2014-08-02 07:10<br>赞(0) 踩(0) | <div>这张专辑无需多说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37641835)<br> <br>2014-07-27 11:21<br>赞(0) 踩(0) | <div>我们都一样生来孤独  无论在多热闹的派对  总有一刻你会孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31467737)<br><br>2014-03-27 21:51<br>赞(0) 踩(0) | <div>收尾曲，一小时。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33817513)<br>只为高品质生活<br>2014-03-25 09:20<br>赞(1) 踩(0) | <div>有没有忽然嘴边或者心头老是在默念一首歌？此刻我就在不停的想起这个旋律@汪峰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33817513)<br>只为高品质生活<br>2014-03-25 09:20<br>赞(1) 踩(0) | <div>有没有忽然嘴边或者心头老是在默念一首歌？此刻我就在不停的想起这个旋律<br>@汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34384875)<br><br>2014-03-23 19:57<br>赞(0) 踩(0) | <div>大家不要生来孤独。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3718900)<br>我还没想好要写什么...<br>2014-03-16 23:52<br>赞(0) 踩(0) | <div>“伤心的人不要哭，我们都一样，生来孤独。”谢谢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15301843)<br><br>2014-01-23 16:37<br>赞(1) 踩(0) | <div>“不管你拥有什么，我们生来就是孤独.” 你的疑问这首歌给了你答案. @三朗彭措</div> |
@@ -144,7 +144,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337009)<br><br>2012-08-23 19:17<br>赞(1) 踩(0) | <div>牛角尖只能先钻着了，不会做，不会装，这辈子，最骗不了的就是自己。明天去洗张照片，倒着贴墙上，控水！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3344447)<br>海阔天空<br>2012-08-22 21:56<br>赞(1) 踩(0) | <div>两年前，我坐在某路环城的公交车上，靠窗的位置，耳机开到了最大声，听的就是这首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9377311)<br><br>2012-08-07 23:30<br>赞(0) 踩(0) | <div>我的感觉越来越模糊，此刻我已陷入深深恍惚，突然一首歌从天台传出。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1077970)<br>我还没想好要写什么...<br>2012-07-29 18:43<br>赞(0) 踩(0) | <div>用你的微笑面对每一次心碎因为我们生来孤独</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1077970)<br>我还没想好要写什么...<br>2012-07-29 18:43<br>赞(0) 踩(0) | <div>用你的微笑面对每一次心碎<br>因为我们生来孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4155724)<br><br>2012-07-01 13:21<br>赞(0) 踩(0) | <div>伤心的人不要哭，因为我们一样生来孤独~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5686411)<br><br>2012-05-22 19:34<br>赞(0) 踩(0) | <div>很有味道的一张专辑，重温，带来更多的是感动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/894886)<br><br>2012-04-06 21:37<br>赞(0) 踩(0) | <div>在某种意义上，所谓我们的人生，不过是习惯孤独的一个连续的过程而已。</div> |
@@ -155,9 +155,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7593342)<br><br>2012-01-30 18:31<br>赞(0) 踩(0) | <div>伤心的人不要哭，我们都一样 生来孤独。用你的微笑面对每一次心碎，因为我们生来孤独。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311165)<br><br>2012-01-06 19:47<br>赞(1) 踩(0) | <div>治愈系的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/644940)<br> <br>2011-12-29 11:18<br>赞(0) 踩(0) | <div>天籁般的声音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6887900)<br><br>2011-11-21 01:08<br>赞(0) 踩(0) | <div>伤心的人不要哭我们都一样 生来孤独用你的微笑面对每一次心碎因为我们生来孤独</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6887900)<br><br>2011-11-21 01:08<br>赞(0) 踩(0) | <div>伤心的人不要哭<br>我们都一样 生来孤独<br>用你的微笑面对每一次心碎<br>因为我们生来孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/625533)<br><br>2011-11-03 22:41<br>赞(0) 踩(0) | <div>伤心的人不要哭，我们都一样生来孤独！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2011-10-19 02:50<br>赞(0) 踩(0) | <div>那歌声让我流泪那歌声把我唤醒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2011-10-19 02:50<br>赞(0) 踩(0) | <div>那歌声让我流泪<br>那歌声把我唤醒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/702693)<br><br>2011-09-15 23:16<br>赞(0) 踩(0) | <div>伤心的人不要哭~我们都一样 生来孤独~  听完这首歌 就去睡觉！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2026858)<br><br>2011-09-05 15:47<br>赞(0) 踩(0) | <div>伤心的人们 不要哭  我们都一样 生来孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1480567)<br><br>2011-06-07 08:48<br>赞(0) 踩(0) | <div>这家伙总让我想起那些年。。。</div> |

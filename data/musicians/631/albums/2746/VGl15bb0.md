@@ -42,12 +42,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/997158)<br>我还没想好要写什么...<br>2020-10-14 01:40<br>赞(0) 踩(0) | <div>也太好听了吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 21:20<br>赞(0) 踩(0) | <div>「2005年為音樂劇場《你今日拯救咗地球未呀》創作的歌。有些人選擇不去，也不被擁抱，誰會想到原來可以有這樣的選擇是何等奢侈。2020年的今天，想給/想要一個擁抱，才是最奢侈。」&amp;mdash;&amp;mdash;一峰2020.3.24寫於微博</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 21:20<br>赞(0) 踩(0) | <div>「2005年為音樂劇場《你今日拯救咗地球未呀》創作的歌。有些人選擇不去，也不被擁抱，誰會想到原來可以有這樣的選擇是何等奢侈。2020年的今天，想給/想要一個擁抱，才是最奢侈。」<br>&amp;mdash;&amp;mdash;一峰<br>2020.3.24寫於微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89214)<br><br>2019-06-18 22:54<br>赞(0) 踩(0) | <div>要忘了吗？要武装吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2691586)<br><br>2013-12-13 23:45<br>赞(2) 踩(0) | <div>你今日拯救咗地球未呀。晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6441928)<br>去疯去爱去浪费<br>2013-04-05 10:56<br>赞(0) 踩(0) | <div>你今日拯救咗地球未呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175713)<br><br>2009-10-11 21:39<br>赞(0) 踩(0) | <div>歌词很好。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6696)<br><br>2009-09-09 22:34<br>赞(0) 踩(0) | <div>是啊，忘记了 ，只愿哪一天能重新回忆或者重温。2009年结束以前，一定会找到这种感觉～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6696)<br><br>2009-09-09 22:34<br>赞(0) 踩(0) | <div>是啊，忘记了 ，只愿哪一天能重新回忆或者重温。<br>2009年结束以前，一定会找到这种感觉～</div> |

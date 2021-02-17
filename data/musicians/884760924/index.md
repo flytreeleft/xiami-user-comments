@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e5888fc163e96c7c3eb7873eee989313.jpg)<br>谣乐队](https://i.xiami.com/nxyaoband) | **播放数**: 18774851<br>**粉丝数**: 9100<br>**评论数**: 221<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 传统民谣 Traditional Folk, 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/e5888fc163e96c7c3eb7873eee989313.jpg)<br>谣乐队](https://i.xiami.com/nxyaoband) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 传统民谣 Traditional Folk, 独立民谣 Indie Folk<br>**播放数**: 18774851<br>**粉丝数**: 9100<br>**评论数**: 221<br> |
 
 ## 档案
 
@@ -63,12 +63,12 @@ http://weibo.com/nxyaoband<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-08-19 11:08<br>赞(1) 踩(0) | <div>✔️✔️✔️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21855769)<br>我还没想好要写什么...<br>2020-03-06 06:33<br>赞(1) 踩(0) | <div>谁有《你是猴子请来的救兵》这张专辑的全部歌曲能分享一下吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48823965)<br>人是铁，饭是好铁<br>2020-01-29 08:37<br>赞(0) 踩(0) | <div>第8888位粉丝的后一位</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41161466)<br>我不知道<br>2019-07-27 14:37<br>赞(1) 踩(0) | <div>评论里有人问“为什么歌这么少？”不知道说些什么好 太悲凉今天发现之前百度网盘存好的也听不成了大概就是。往后的人们都不会再知道那些歌了吧</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41161466)<br>我不知道<br>2019-07-27 14:37<br>赞(1) 踩(0) | <div>评论里有人问“为什么歌这么少？”<br>不知道说些什么好 太悲凉<br>今天发现之前百度网盘存好的也听不成了<br>大概就是。往后的人们都不会再知道那些歌了吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425061605)<br>善于义者。<br>2019-07-21 20:40<br>赞(1) 踩(0) | <div>黄河边的人吃鱼吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320747647)<br>虾米音乐变安静了<br>2019-04-10 22:51<br>赞(2) 踩(0) | <div>现在只剩下虾米音乐能听原版的谣乐队的歌了，大家快下载吧，指不定哪天就没了…唉，为什么要解散呢，比起单人版的我更喜欢乐队的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43157065)<br><br>2021-01-06 00:33<br>赞(0) 踩(0) | <div>说中了</div> |
@@ -154,7 +154,7 @@ http://weibo.com/nxyaoband<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47256466)<br>梦<br>2015-02-13 18:15<br>赞(1) 踩(0) | <div>加油呀，好喜欢你们的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47234630)<br>唱歌的孩子<br>2015-02-12 22:52<br>赞(0) 踩(0) | <div>喜欢你们的歌，简单纯洁。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7548012)<br>我还没想好要写什么...<br>2015-02-11 12:44<br>赞(1) 踩(0) | <div>每一次的感动都来自民谣 希望你们的音乐会越来越好 感动更多的朋友！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2543843)<br><br>2015-02-11 12:24<br>赞(1) 踩(0) | <div>解散了？？好歌曲里进八强没有哇？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2543843)<br><br>2015-02-11 12:24<br>赞(1) 踩(0) | <div>解散了？？<br>好歌曲里进八强没有哇？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28631520)<br><br>2015-02-09 19:40<br>赞(27) 踩(0) | <div>商业利益面前真的无人可以免俗么？可是，还没火起来就开始分崩离析，只能呵呵了！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35265040)<br>有如流浪到北京般的错误<br>2015-02-16 09:13<br>赞(0) 踩(0) | <div>嗯，說實話我覺得wzr火不了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/540448)<br>十方无影像 三界绝行踪<br>2017-11-10 19:34<br>赞(0) 踩(0) | <div>你知道你妈个蛋啊</div> |

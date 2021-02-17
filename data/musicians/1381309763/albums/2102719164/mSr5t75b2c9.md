@@ -43,5 +43,3 @@ And threw him down the stairs
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

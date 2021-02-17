@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/436cbc07eccbb135f1f0af245646ffb0.jpg)<br>伏仪](https://i.xiami.com/fuyi) | **播放数**: 5811114<br>**粉丝数**: 3346<br>**评论数**: 101<br>**地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 迷幻流行 Psychedelic Pop<br> |
+| [![](../../images/musicians/436cbc07eccbb135f1f0af245646ffb0.jpg)<br>伏仪](https://i.xiami.com/fuyi) | **地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 迷幻流行 Psychedelic Pop<br>**播放数**: 5811114<br>**粉丝数**: 3346<br>**评论数**: 101<br> |
 
 ## 档案
 
@@ -26,8 +26,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2021-01-10 07:01<br>赞(0) 踩(0) | <div>20210110.92</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-11-12 09:19<br>赞(0) 踩(0) | <div>我会以你想我的方式，来想你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40381006)<br>摇啊摇，摇到奈何桥<br>2020-11-03 02:53<br>赞(0) 踩(0) | <div>不错，不错，继续加油</div> |
@@ -43,8 +43,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5773358)<br><br>2019-07-22 14:34<br>赞(0) 踩(0) | <div>你的歌像谁的呢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344018512)<br>我还没想好要写什么...<br>2019-07-03 19:52<br>赞(1) 踩(0) | <div>D</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3696419)<br>翍☉曉<br>2019-06-20 22:40<br>赞(0) 踩(0) | <div>声音和郑元畅有点像，不管是声音的气质和声线，很耐听。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284544656)<br><br>2019-06-10 16:52<br>赞(1) 踩(0) | <div>这个男孩子唱歌好好听啊。这些歌的词也写得很有味道。粉了粉了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47655919)<br>我还没想好要写什么...<br>2019-06-08 20:33<br>赞(0) 踩(0) | <div>听了好几个月还是很好听Real</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284544656)<br><br>2019-06-10 16:52<br>赞(1) 踩(0) | <div>这个男孩子唱歌好好听啊。<br>这些歌的词也写得很有味道。<br>粉了粉了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47655919)<br>我还没想好要写什么...<br>2019-06-08 20:33<br>赞(0) 踩(0) | <div>听了好几个月还是很好听<br>Real</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47655919)<br>我还没想好要写什么...<br>2019-06-08 20:33<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42644986)<br><br>2019-06-04 18:43<br>赞(0) 踩(0) | <div>歌都超好听，想去现场</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136858038)<br><br>2019-05-11 20:25<br>赞(0) 踩(0) | <div>看，我发现了一个宝藏男孩！ <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
@@ -54,7 +54,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4906611)<br><br>2019-03-06 15:01<br>赞(0) 踩(0) | <div>真好听啊，温暖的午后。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11573744)<br>Quizas...<br>2019-02-02 07:29<br>赞(2) 踩(0) | <div>小伙儿，别乱搞，前途不可限量。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201112168)<br><br>2019-01-19 23:41<br>赞(0) 踩(0) | <div>感动的声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9597157)<br>，<br>2019-01-19 23:37<br>赞(0) 踩(0) | <div>今晚成都场的live气氛很好呀~嗓音淡而平和歌词写得很好很有才情加油~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9597157)<br>，<br>2019-01-19 23:37<br>赞(0) 踩(0) | <div>今晚成都场的live气氛很好呀~<br>嗓音淡而平和<br>歌词写得很好很有才情<br>加油~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47494497)<br>李志、陈升，“虾米也没有...<br>2019-01-11 13:18<br>赞(1) 踩(0) | <div>有旅行团的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202710834)<br>宝贝。我知道。虽然你不说...<br>2019-01-08 20:00<br>赞(0) 踩(0) | <div>是我的宝贝呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209853096)<br>旧人拨流苏<br>2018-12-17 10:18<br>赞(2) 踩(0) | <div>因为一个温柔的女生</div> |
@@ -77,7 +77,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2018-05-26 01:36<br>赞(3) 踩(0) | <div>声音很干净 暖暖的 舒服～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195925764)<br><br>2018-05-25 20:39<br>赞(1) 踩(0) | <div>余生相 很好听 循环好几天了。谢谢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322757784)<br>zzzzz长时间嗑觉<br>2018-05-25 20:26<br>赞(1) 踩(0) | <div><img src="../../images/comments/29cf103b88c33e19563095897485c32a.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335788090)<br><br>2018-05-14 11:08<br>赞(3) 踩(0) | <div>谢谢记昨日书ps长得好像古川</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335788090)<br><br>2018-05-14 11:08<br>赞(3) 踩(0) | <div>谢谢记昨日书<br>ps长得好像古川</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335788090)<br><br>2018-05-14 11:08<br>赞(0) 踩(0) | <div>古川雄辉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254361200)<br>The palm tre...<br>2018-04-23 09:42<br>赞(3) 踩(0) | <div>谢谢你来虾米 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355318000)<br><br>2018-04-15 18:51<br>赞(1) 踩(0) | <div>很喜欢！你的歌听着很舒服 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -103,7 +103,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22444238)<br>邱比官方虾米<br>2018-01-04 13:22<br>赞(4) 踩(0) | <div>get</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339279618)<br><br>2018-01-01 20:48<br>赞(3) 踩(0) | <div>我最喜欢记昨日书</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/221519854)<br>好久没用虾米了•́ω•̀...<br>2017-12-12 23:31<br>赞(2) 踩(0) | <div>小哥哥好听歌好看</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263488003)<br>只因人在风中，聚散不由你...<br>2017-12-10 20:53<br>赞(26) 踩(0) | <div>我会在每个有意义的时辰看着你记昨日书在一列绿皮里回忆人间情事余生相中独醒纪</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263488003)<br>只因人在风中，聚散不由你...<br>2017-12-10 20:53<br>赞(26) 踩(0) | <div>我会在每个有意义的时辰<br><br><br><br><br><br><br>看着你<br>记昨日书<br><br><br><br><br><br><br>在一列绿皮里<br><br><br><br><br><br><br>回忆人间情事<br><br><br><br><br><br>余生相中<br><br><br><br><br><br>独醒纪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263488003)<br>只因人在风中，聚散不由你...<br>2017-12-07 22:55<br>赞(1) 踩(0) | <div>期待 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303874872)<br><br>2017-12-07 09:41<br>赞(2) 踩(0) | <div>一定要坚持做下去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334957030)<br><br>2017-11-15 15:51<br>赞(1) 踩(0) | <div>好听好听~加油呀~</div> |
@@ -117,7 +117,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321618120)<br> <br>2017-08-27 00:01<br>赞(1) 踩(0) | <div>词真好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263183593)<br><br>2017-08-26 21:16<br>赞(2) 踩(0) | <div>歌好好听~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304128313)<br><br>2017-08-26 20:39<br>赞(1) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313357824)<br>横看迷人侧潇洒，远近高低...<br>2017-08-26 20:17<br>赞(3) 踩(0) | <div>-陌生人，我也为你祝福， 愿你有一个灿烂的前程， 愿你有情人终成眷属， 愿你在尘世获得幸福， 我只愿面朝大海，春暖花开。<img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313357824)<br>横看迷人侧潇洒，远近高低...<br>2017-08-26 20:17<br>赞(3) 踩(0) | <div>-陌生人，我也为你祝福， 愿你有一个灿烂的前程， 愿你有情人终成眷属， 愿你在尘世获得幸福， 我只愿面朝大海，春暖花开。<br><br><br><br><img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321682480)<br>微博：@伏仪仪 工作联系...<br>2017-08-26 17:08<br>赞(92) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3057085)<br>虾米你好，我是来听歌的。<br>2017-08-26 17:38<br>赞(0) 踩(0) | <div>您姓伏吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337939498)<br><br>2018-01-18 10:18<br>赞(0) 踩(0) | <div>真的很特别，真的真的</div> |

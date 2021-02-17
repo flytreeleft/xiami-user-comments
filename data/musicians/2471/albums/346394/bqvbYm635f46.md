@@ -30,9 +30,9 @@ oh, if I'd only seen that the joke was one me.
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41828526)<br>海量歌无版权做歌单无意义<br>2018-05-06 13:56<br>赞(0) 踩(0) | <div>英国乐队Bee Gees于1997年入选摇滚名人堂，2014年获得格莱美终身成就奖，三兄弟目前仅老大Barry Gibb在世，他们在1968年发布的歌曲《I Started A Joke》全球致敬版本众多，光有点知名度的就有29版多，2001年美国电影《Zoolander[超级名模]》The Wallflowers版OST，2010年美国电影《The Fighter[斗士]》Christian Bale版OST，2016年美国电影《Suicide Squad[自杀小队]》预告片ConfidentialMX &amp;amp; Becky Hanson版OST......</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41828526)<br>海量歌无版权做歌单无意义<br>2018-05-06 13:56<br>赞(0) 踩(0) | <div>英国乐队Bee Gees于1997年入选摇滚名人堂，2014年获得格莱美终身成就奖，三兄弟目前仅老大Barry Gibb在世，<br>他们在1968年发布的歌曲《I Started A Joke》全球致敬版本众多，光有点知名度的就有29版多，<br>2001年美国电影《Zoolander[超级名模]》The Wallflowers版OST，<br>2010年美国电影《The Fighter[斗士]》Christian Bale版OST，<br>2016年美国电影《Suicide Squad[自杀小队]》预告片ConfidentialMX &amp;amp; Becky Hanson版OST<br>......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10565869)<br>我还没想好要写什么...<br>2018-03-29 23:52<br>赞(2) 踩(0) | <div>张真的很灵了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5701426)<br>Help me Help...<br>2018-03-26 23:56<br>赞(2) 踩(0) | <div>张韶涵的版本，唱不出悲伤，有种童话公主对王子愚笨的无奈。也许这也是她作一种自嘲般的joke吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278532349)<br>最后的舞，请与我一起……<br>2018-03-05 00:50<br>赞(2) 踩(0) | <div>你的歌声十几年了依然喜欢，听不够。</div> |
@@ -41,7 +41,7 @@ oh, if I'd only seen that the joke was one me.
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301202996)<br><br>2018-01-28 13:20<br>赞(0) 踩(0) | <div>走的路越长，遇见的人越多，越会明白自己的坚持有多么重要</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137291328)<br>星星✨✨<br>2018-01-07 15:25<br>赞(1) 踩(0) | <div>每位歌手的歌曲都有自己的印记，就像这首歌，经了张韶涵的嗓子，总透着一股倔强，喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173333056)<br> <br>2018-01-04 19:50<br>赞(2) 踩(0) | <div>我觉得张韶涵的这版本很棒啊，听了让人觉得有点伤心，又有点无奈，又有点挣扎的感觉，是我想太多了么</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285941504)<br><br>2017-12-12 08:25<br>赞(1) 踩(0) | <div>请问你有听到张韶涵客居加拿大茫然孤独的呼喊吗？是的，我闻到了远离俗世独有的空谷幽兰。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285941504)<br><br>2017-12-12 08:25<br>赞(1) 踩(0) | <div>请问你有听到张韶涵客居加拿大茫然孤独的呼喊吗？<br>是的，我闻到了远离俗世独有的空谷幽兰。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68630552)<br>This above a...<br>2017-11-07 01:23<br>赞(3) 踩(0) | <div>这个翻唱差得很多啊&amp;hellip;&amp;hellip;不过这歌也是难唱出那种感觉的了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186279601)<br>就是这么酷<br>2017-10-16 01:29<br>赞(2) 踩(0) | <div>这个翻唱没输啊，超好听的！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22093502)<br>一是婴儿哭泣 二是学游戏<br>2017-09-25 13:05<br>赞(2) 踩(0) | <div>虾米歌超全是真的</div> |

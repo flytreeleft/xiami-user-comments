@@ -64,8 +64,8 @@ ISRC CN-A50-10-333-07
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446388916)<br><br>2020-12-22 23:24<br>赞(0) 踩(0) | <div>快板慢歌和慢板快歌都好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45487327)<br>我说荷包蛋你说酷<br>2020-06-25 15:49<br>赞(1) 踩(0) | <div>听得我想来一把王者荣耀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412515389)<br>我还没想好要写什么...<br>2020-04-26 09:28<br>赞(0) 踩(0) | <div>好久好久没听了。。醒醒神 [带墨镜笑]</div> |
@@ -73,7 +73,7 @@ ISRC CN-A50-10-333-07
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423909430)<br>网易云 音乐暴君彧_虾米...<br>2020-03-29 08:03<br>赞(0) 踩(0) | <div>酸爽的感觉沙发又见山里红</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241324303)<br> 我只有一辈子，抱歉。不...<br>2019-05-03 18:38<br>赞(0) 踩(0) | <div>天若有情天亦老。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354222844)<br><br>2019-01-31 11:21<br>赞(0) 踩(0) | <div>有点太崇拜人屠项羽了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24574235)<br><br>2018-11-13 07:08<br>赞(3) 踩(0) | <div>天若有情天亦会老岁月无声何处逍遥别心上人情深怀抱赴不归路千里迢迢风华绝代引吭高歌浮生若梦为欢几何从一而终允君所诺来世再把红尘共踱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24574235)<br><br>2018-11-13 07:08<br>赞(3) 踩(0) | <div>天若有情天亦会老<br>岁月无声何处逍遥<br>别心上人情深怀抱<br>赴不归路千里迢迢<br>风华绝代引吭高歌<br>浮生若梦为欢几何<br>从一而终允君所诺<br>来世再把红尘共踱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3256844)<br>恩斯波肯 多姆<br>2018-10-25 16:39<br>赞(2) 踩(0) | <div>这首是最牛逼的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6444623)<br>啦啦啦啦啦<br>2018-06-06 18:23<br>赞(3) 踩(0) | <div>赴不归路，千里迢迢。我们的人生不就是不断重复这个过程么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/157743658)<br>菠萝菠萝蜜<br>2018-05-16 17:33<br>赞(7) 踩(0) | <div>我听出来的是年少举鼎的霸王，却不是乌江饮恨的霸王 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
@@ -114,7 +114,7 @@ ISRC CN-A50-10-333-07
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8346484)<br><br>2015-10-10 20:20<br>赞(1) 踩(0) | <div>词真好 感动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6988675)<br>音乐是我的阿司匹林。<br>2015-09-16 00:29<br>赞(1) 踩(0) | <div>年少时代如果没有Gala该多遗憾！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49869121)<br>四大皆空<br>2015-08-16 12:17<br>赞(1) 踩(0) | <div>开心不起来了 自嘲也嘲不动了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53741090)<br>使劲蹦跳<br>2015-07-29 12:18<br>赞(20) 踩(0) | <div>篾群容仗臂挡关映乌江血燃青山大义举一马当先霸业定愿与君还</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53741090)<br>使劲蹦跳<br>2015-07-29 12:18<br>赞(20) 踩(0) | <div>篾群容仗臂挡关<br>映乌江血燃青山<br>大义举一马当先<br>霸业定愿与君还</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7583226)<br> <br>2015-07-21 10:24<br>赞(3) 踩(0) | <div>当时这张专辑最喜欢的一首歌。“风华绝代引吭高歌，浮生若梦为欢几何。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11479030)<br>吴中有少年，敢为天下先<br>2015-07-17 16:30<br>赞(0) 踩(0) | <div>呼～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51520575)<br><br>2015-07-16 09:50<br>赞(0) 踩(0) | <div>两段戏曲很出彩</div> |
@@ -133,7 +133,7 @@ ISRC CN-A50-10-333-07
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39529592)<br><br>2014-08-03 00:32<br>赞(1) 踩(0) | <div>in my DNA</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33028784)<br>心是事外心，人是剧中人。<br>2014-07-11 16:26<br>赞(1) 踩(0) | <div>第3首 。献给那个挂掉的楚霸王@国茶佳人宋海云。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11023186)<br>暂无签名~<br>2014-06-14 16:14<br>赞(2) 踩(0) | <div>楚虽三户，亡秦必楚。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36820111)<br><br>2014-05-20 13:29<br>赞(2) 踩(0) | <div>GALA乐队上海演唱会（520大学生专场福利活动）！！！学生党购买GALA乐队2014年上海演唱会现场票！ （380元／480元）仅需（150元／200元）！每价位各限量100张！【购票详情：<a href="http://www.douban.com/event/21643452/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21643452/</a>】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36820111)<br><br>2014-05-20 13:29<br>赞(2) 踩(0) | <div>GALA乐队上海演唱会（520大学生专场福利活动）！！！<br>学生党购买GALA乐队2014年上海演唱会现场票！ （380元／480元）仅需（150元／200元）！<br>每价位各限量100张！<br>【购票详情：<a href="http://www.douban.com/event/21643452/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21643452/</a>】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3265416)<br>嘿～<br>2014-05-15 15:33<br>赞(2) 踩(0) | <div>好想看车祸现场~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13690856)<br>咖啡，书，耳机，曲子。<br>2014-05-15 15:20<br>赞(1) 踩(0) | <div>GALA直播中，话说骚年你们的节操呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2771507)<br>哎呦啧啧啧啧<br>2014-04-25 11:47<br>赞(1) 踩(0) | <div>哈哈哈哈哈，这首loop过至少一个月天天听这个睡觉哈哈哈哈哈</div> |
@@ -152,14 +152,14 @@ ISRC CN-A50-10-333-07
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8935228)<br><br>2013-09-05 11:05<br>赞(1) 踩(0) | <div>天若有情天亦会老</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8076564)<br>我还没想好要写什么...<br>2013-09-03 11:08<br>赞(1) 踩(0) | <div>天若有情天亦会老 岁月无声何处逍遥 别心上人情深怀抱 赴不归路千里迢迢 风华绝代引吭高歌 浮生若梦为欢几何 从一而终允君所诺 来世再把红尘共踱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2200871)<br>卧槽没有音乐怎么活<br>2013-08-09 15:49<br>赞(1) 踩(0) | <div>将gala 的歌全部听下来，听到此曲时，还以为是别人的歌，风格迥异，细听还是很有味道~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4798243)<br>^_^<br>2013-07-28 11:25<br>赞(1) 踩(0) | <div>虞兮虞兮奈若何。来世再把红尘共度。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4798243)<br>^_^<br>2013-07-28 11:25<br>赞(1) 踩(0) | <div>虞兮虞兮奈若何。<br>来世再把红尘共度。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4406186)<br>阿鲜有一颗玻璃心~<br>2013-07-09 00:28<br>赞(1) 踩(0) | <div>岁月无声何处逍遥？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5977028)<br> <br>2013-07-02 22:06<br>赞(2) 踩(0) | <div>最喜欢的gala的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1837188)<br><br>2013-06-30 23:16<br>赞(1) 踩(0) | <div>咦，这段唱词没听过。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4062479)<br><br>2013-06-19 20:57<br>赞(1) 踩(0) | <div>千百年前的绝唱，古老还是新派去演绎都不重要，凄绝的唯美，深情的让人感伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2674682)<br>在这混沌世界大开杀戒<br>2013-05-23 15:36<br>赞(1) 踩(0) | <div>哭慘了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8370034)<br>暂无签名~<br>2013-05-21 22:17<br>赞(1) 踩(0) | <div>百听不厌！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15246813)<br>我还没想好要写什么...<br>2013-05-13 17:15<br>赞(2) 踩(0) | <div>&amp;quot;天若有情天亦会老/岁月无声何处逍遥/别心上人情深怀抱/赴不归路千里迢迢/风华绝代引吭高歌/浮生若梦为欢几何/从一而终允君所诺/来世再把红尘共踱&amp;quot;最近真是迷这首啊……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15246813)<br>我还没想好要写什么...<br>2013-05-13 17:15<br>赞(2) 踩(0) | <div>&amp;quot;天若有情天亦会老/岁月无声何处逍遥/别心上人情深怀抱/赴不归路千里迢迢/风华绝代引吭高歌/浮生若梦为欢几何/从一而终允君所诺/来世再把红尘共踱&amp;quot;<br>最近真是迷这首啊……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5523335)<br><br>2013-05-09 12:59<br>赞(2) 踩(0) | <div>很喜欢，刚看完东周列国志、亡秦，很喜欢那段历史，刚好这首歌就回响起来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9257155)<br>不是聋子，就听点音乐。<br>2013-04-26 13:57<br>赞(1) 踩(0) | <div>@GALA乐队</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11665238)<br>我还没想好要写什么...<br>2013-04-26 13:27<br>赞(1) 踩(0) | <div>赴不归路千里迢迢</div> |
@@ -176,7 +176,7 @@ ISRC CN-A50-10-333-07
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/628558)<br>假如我是清流水，我也不回...<br>2012-07-26 13:04<br>赞(1) 踩(0) | <div>居然连推三首。真心不错啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294858)<br><br>2012-07-06 20:33<br>赞(1) 踩(0) | <div>中国风！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5423080)<br>我还没想好要写什么...<br>2012-06-26 22:39<br>赞(1) 踩(0) | <div>不错~ 平淡转跌宕，词写得也好~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9422268)<br><br>2012-06-23 17:12<br>赞(1) 踩(0) | <div>天若有情天亦会老岁月无声何处逍遥别心上人情深怀抱赴不归路千里迢迢风华绝代引吭高歌浮生若梦为欢几何从一而终允君所诺来世再把红尘共踱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9422268)<br><br>2012-06-23 17:12<br>赞(1) 踩(0) | <div>天若有情天亦会老<br>岁月无声何处逍遥<br>别心上人情深怀抱<br>赴不归路千里迢迢<br><br>风华绝代引吭高歌<br>浮生若梦为欢几何<br>从一而终允君所诺<br>来世再把红尘共踱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9422268)<br><br>2012-06-23 02:04<br>赞(1) 踩(0) | <div>gala 实在 厉害 要深情可以让你哭  要豪迈 可以让你相形见绌  喝了点酒  说句题外话 我想贴乎你 你说什么是什么 我不想理你 你说你是个什么  对不起 我就是这么狠 人生还有很多事 很多人等着我  有人觉得你小 保护你 就让别人保护你一辈子好了 拭目以待</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9422268)<br><br>2012-06-19 18:17<br>赞(1) 踩(0) | <div>天若有情天亦会老 岁月无声何处逍遥 别心上人情深怀抱 赴不归路千里迢迢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9422268)<br><br>2012-06-17 18:19<br>赞(1) 踩(0) | <div>每一首 都好有感觉   回北京  找机会 看现场。</div> |
@@ -200,7 +200,7 @@ ISRC CN-A50-10-333-07
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231704)<br><br>2011-06-18 02:07<br>赞(1) 踩(0) | <div>浮生若梦为欢几何</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3077970)<br><br>2011-06-14 06:16<br>赞(1) 踩(0) | <div>古意出新。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1742869)<br><br>2011-06-03 15:50<br>赞(1) 踩(0) | <div>京味摇滚，棒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3367843)<br><br>2011-05-27 10:27<br>赞(1) 踩(0) | <div>力拔山兮气盖世时不利兮骓不逝骓不逝兮可奈何虞兮虞兮奈若何不是每个人都能成为项羽 项羽败了 但是没见多少人歌颂刘邦 倒是项羽 很多人崇拜的偶像</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3367843)<br><br>2011-05-27 10:27<br>赞(1) 踩(0) | <div>力拔山兮气盖世<br>时不利兮骓不逝<br>骓不逝兮可奈何<br>虞兮虞兮奈若何<br>不是每个人都能成为项羽 项羽败了 但是没见多少人歌颂刘邦 倒是项羽 很多人崇拜的偶像</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2608165)<br><br>2011-05-22 23:49<br>赞(1) 踩(0) | <div>gala不解释</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2859595)<br>我跟你描述一个灵魂，他拥...<br>2011-05-21 23:46<br>赞(1) 踩(0) | <div>我喜欢这样的京味儿摇滚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/994977)<br><br>2011-05-17 14:45<br>赞(1) 踩(0) | <div>不错的传统风格</div> |

@@ -44,8 +44,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166587948)<br><br>2018-02-05 16:50<br>赞(1) 踩(0) | <div>我真的超喜欢这张专辑了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250500325)<br>岁月悠悠，念也悠悠……<br>2017-12-07 08:12<br>赞(1) 踩(0) | <div>666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95894488)<br><br>2017-04-28 17:36<br>赞(3) 踩(0) | <div>在山东威海听到的这首歌，乐队边演，一旁还有特技助兴</div> |
@@ -65,7 +65,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10632098)<br><br>2013-01-30 13:07<br>赞(0) 踩(0) | <div>今儿这温度 开着音乐 没事儿望两眼儿小书 泥煤的快活死了！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11339436)<br><br>2012-11-25 13:06<br>赞(0) 踩(0) | <div>哦～ Rockstar 从现在开始改变你的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7473979)<br>四体不勤 五谷不分<br>2012-11-20 22:04<br>赞(0) 踩(0) | <div>每次听到这首歌就想摇摆 摇摆 随着节奏摇摆 好带感啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192563)<br>重返青春<br>2012-11-16 13:24<br>赞(0) 踩(0) | <div>城市里终于又迎来了焰火/照亮新鲜和感动和诱惑/浪漫的祝福我送不出/只有孤单的灵魂被藏在角落/如果诗意可以填补虚空/那么歉意随时都可以点头/如果没有桥梁和温暖的天空/世界又怎么会是我们的舞台@Ruooo_qiuue</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192563)<br>重返青春<br>2012-11-16 13:24<br>赞(0) 踩(0) | <div>城市里终于又迎来了焰火<br>/照亮新鲜和感动和诱惑<br>/浪漫的祝福我送不出<br>/只有孤单的灵魂被藏在角落<br>/如果诗意可以填补虚空<br>/那么歉意随时都可以点头<br>/如果没有桥梁和温暖的天空<br>/世界又怎么会是我们的舞台@Ruooo_qiuue</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9260367)<br>Mosy<br>2012-09-15 19:42<br>赞(0) 踩(0) | <div>谁能改变我现在的生活?我到底怎么了?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2012-09-03 12:23<br>赞(1) 踩(0) | <div>或许旅行看的不是新的风景，而是新的自己</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7981563)<br>一半怪环境，一半怪自己。...<br>2012-10-20 22:44<br>赞(0) 踩(0) | <div>到一个新地方，重新开始自己。旧了，再换。</div> |
@@ -87,7 +87,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2792338)<br>养蜂人<br>2011-08-16 10:50<br>赞(0) 踩(0) | <div>生活不是等着暴风雨过去，而是学会在风雨中跳舞。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4215265)<br><br>2011-08-13 14:51<br>赞(0) 踩(0) | <div>哟，这是老版的~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/580202)<br><br>2011-06-30 23:39<br>赞(0) 踩(0) | <div>咱Rockstar们   改变你的生活吧~    感觉这个不插电版本好听些啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2633133)<br><br>2011-06-23 07:38<br>赞(0) 踩(0) | <div>收音机没有熟悉的歌电视里也没什么想看的出租车里实在闷的无聊想不想对我说些什么有一个朋友对你十分重要可那不能是全部的依靠还记得你那些承诺过的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2633133)<br><br>2011-06-23 07:38<br>赞(0) 踩(0) | <div>收音机没有熟悉的歌<br>电视里也没什么想看的<br>出租车里实在闷的无聊<br>想不想对我说些什么<br>有一个朋友对你十分重要<br>可那不能是全部的依靠<br>还记得你那些承诺过的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75425)<br>喝酒的时候口里含一颗樱桃<br>2011-03-31 16:16<br>赞(0) 踩(0) | <div>给所有热爱摇滚热爱自由热爱生活的孩子们——————从现在开始改变你的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2354535)<br><br>2011-02-04 19:39<br>赞(0) 踩(0) | <div>改变你的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179021)<br><br>2011-01-21 13:19<br>赞(1) 踩(0) | <div>从现在开始改变你的沙发</div> |

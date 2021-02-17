@@ -12,33 +12,30 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18901308)<br>即使十年又怎样，爱一如往...<br>2021-01-20 07:41<br>赞(0) 踩(0) | <div>来一段自己写过的文章吧：我们都忘了。时间是一个只能向前走的机械。这条路越走越觉得漫长。尤其，是当你一个人的时候。尤其，是当你无声的想念一个人的时候。尤其，是那个人他还不在你的身边。像从前一样，陪着你打闹，陪着你阅尽世间芳华。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446656511)<br><br>2021-01-17 16:17<br>赞(0) 踩(0) | <div>我都还记得，3年前，踏入校园的那天，校园广播背景就是这首歌，我哭过那个午后&amp;hellip;&amp;hellip;</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18901308)<br>即使十年又怎样，爱一如往...<br>2021-01-20 07:41<br>赞(0) 踩(0) | <div>来一段自己写过的文章吧：<br>我们都忘了。时间是一个只能向前走的机械。<br>这条路越走越觉得漫长。<br>尤其，是当你一个人的时候。尤其，是当你无声的想念一个人的时候。<br>尤其，是那个人他还不在你的身边。<br>像从前一样，陪着你打闹，陪着你阅尽世间芳华。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446656511)<br><br>2021-01-17 16:17<br>赞(0) 踩(0) | <div>我都还记得，3年前，踏入校园的那天，校园广播背景就是这首歌，我哭过<br>那个午后&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426777951)<br><br>2021-01-01 21:36<br>赞(1) 踩(0) | <div>全世界最好听的钢琴曲：卡农、雨的印记、菊次郎的夏天、雪之梦、悲怆、星空、天空之城、秋日私语、克罗地亚狂想曲、梦中的婚礼、夜的钢琴曲5、寂静之声、泪之曲、梦中的雪、风居住的街道、神秘园之歌~~~ 真好听！！[音乐]全世界最好听的钢琴曲：卡农、雨的印记、菊次郎的夏天、雪之梦、悲怆、星空、天空之城、秋日私语、克罗地亚狂想曲、梦中的婚礼、夜的钢琴曲5、寂静之声、泪之曲、梦中的雪、风居住的街道、神秘园之歌~~~ 真好听！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250769790)<br><br>2020-10-13 15:06<br>赞(0) 踩(0) | <div>停用。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250769790)<br><br>2020-10-13 15:05<br>赞(0) 踩(0) | <div>停用</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2727134)<br>Martin Cheun...<br>2020-09-04 11:12<br>赞(0) 踩(0) | <div>好听！好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2727134)<br>Martin Cheun...<br>2020-09-04 11:12<br>赞(0) 踩(0) | <div>好听！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342453170)<br>80双子。继续艰巨前行✊...<br>2020-07-11 21:12<br>赞(1) 踩(0) | <div>还是喜欢钢琴版的。只有一个钢琴的独奏，才会有那种牵引着心的感觉。太多的乐器，反而没有一种&amp;ldquo;集中专注力&amp;rdquo;的感觉，反而有一种把心绪打乱的感觉&amp;hellip;&amp;hellip;（7-11-2020）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428098803)<br>✧٩(ˊωˋ*)و✧<br>2020-04-30 12:19<br>赞(3) 踩(0) | <div>┏┛┻━━━┛┻┓┃｜｜｜｜｜｜｜┃┃　　　━　　　┃┃　┳┛ 　┗┳ 　┃┃　　　　　　　┃┃　　　┻　　　┃┃　　　　　　　┃┗━┓　　　┏━┛┃　史　┃┃　诗　┃┃　之　┃┃　宠　┃┃　　　┗━━━┓┃经验与我同在　┣┓┃攻楼专用宠物　┃┗┓┓┏━┳┓┏┛┃┫┫　┃┫┫┗┻┛　┗┻┛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342453170)<br>80双子。继续艰巨前行✊...<br>2020-07-11 21:12<br>赞(1) 踩(0) | <div>还是喜欢钢琴版的。只有一个钢琴的独奏，才会有那种牵引着心的感觉。太多的乐器，反而没有一种&amp;ldquo;集中专注力&amp;rdquo;的感觉，反而有一种把心绪打乱的感觉&amp;hellip;&amp;hellip;<br>（7-11-2020）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428098803)<br>✧٩(ˊωˋ*)و✧<br>2020-04-30 12:19<br>赞(3) 踩(0) | <div>┏┛┻━━━┛┻┓<br>┃｜｜｜｜｜｜｜┃<br>┃　　　━　　　┃<br>┃　┳┛ 　┗┳ 　┃<br>┃　　　　　　　┃<br>┃　　　┻　　　┃<br>┃　　　　　　　┃<br>┗━┓　　　┏━┛<br>┃　史　┃<br>┃　诗　┃<br>┃　之　┃<br>┃　宠　┃<br>┃　　　┗━━━┓<br>┃经验与我同在　┣┓<br>┃攻楼专用宠物　┃<br>┗┓┓┏━┳┓┏┛<br>┃┫┫　┃┫┫<br>┗┻┛　┗┻┛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8895376)<br>我还没想好要写什么...<br>2020-04-17 13:20<br>赞(4) 踩(0) | <div>还是纯钢琴好听啊。这合奏版像流水账一张每个乐器露个小脸，你方唱罢我登场，像一个大家庭开了个会，一点没有情绪的感染力</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332003083)<br>此貌虽不扬    扬帆亦...<br>2020-04-07 17:50<br>赞(1) 踩(0) | <div>多元化是种趋势，但一定是好事吗？毕竟众口难调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440605527)<br>醉过才知酒浓，爱过才知情...<br>2020-03-31 09:33<br>赞(3) 踩(0) | <div>悦耳的音符打造了一个纯洁的意境。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6938775)<br><br>2020-02-27 11:03<br>赞(2) 踩(0) | <div>还记得最初听到时的感觉，合奏版，感觉反而没有独奏钢琴那么好听了。当然，更丰富了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25331640)<br><br>2019-10-11 21:15<br>赞(0) 踩(0) | <div>..入.hhhhhhhhhhh.hjh.j.j...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25331640)<br><br>2019-10-11 20:09<br>赞(0) 踩(0) | <div>...I.h？jhhlhhhjhhh.hh！戊..hhh！！.jljlhh</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25331640)<br><br>2019-10-11 20:09<br>赞(0) 踩(0) | <div>`.入.入..入.x..hlhhhlhhhh.hhh.hhhh.hj.h.h.hlljjjhhhhhhhh.hh.hj.！.F.N入.I入.I厂 .入.入.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25331640)<br><br>2019-10-11 20:09<br>赞(0) 踩(0) | <div>`.入.入..入.x..hlhhhlhhhh.hhh.hhhh.hj.h.h.hlljjjhhhhhhhh.hh.hj.！.F.N入.I入.I厂 .入.入.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25331640)<br><br>2019-10-11 20:09<br>赞(0) 踩(0) | <div>..<br><br><br>.I.h？<br><br><br><br>jh<br>hlhhhj<br>h<br>hh.<br>h<br>h<br><br><br>！<br><br><br><br>戊..<br>hhh！！.<br>jljl<br>h<br>h</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25331640)<br><br>2019-10-11 20:09<br>赞(0) 踩(0) | <div>`.入.入..入.x..<br>hlhhhlhhhh.hhh.hhhh.hj.<br>h.h.h<br>l<br>ljj<br>j<br>hhh<br><br>hhh<br>hh.hh.hj.<br><br>！.F.N入.I入.I厂 .入.入.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25331640)<br><br>2019-10-11 20:09<br>赞(0) 踩(0) | <div>`.入.入..入.x..<br>hlhhhlhhhh.hhh.hhhh.hj.<br>h.h.h<br>l<br>ljj<br>j<br>hhh<br><br>hhh<br>hh.hh.hj.<br><br>！.F.N入.I入.I厂 .入.入.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299447874)<br><br>2019-07-31 22:28<br>赞(1) 踩(0) | <div>喜歡這樣的合奏！ <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55849193)<br>有些人不在生活中 却占满...<br>2019-07-15 23:23<br>赞(2) 踩(0) | <div>因为心中有你 夜不漫长因为心中有爱 夜也斑斓</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55849193)<br>有些人不在生活中 却占满...<br>2019-07-15 23:23<br>赞(2) 踩(0) | <div>因为心中有你 夜不漫长<br>因为心中有爱 夜也斑斓</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286183983)<br>飞鸟各投林<br>2019-06-12 01:09<br>赞(2) 踩(0) | <div>串烧里听到了这首的合奏版，眼泪在眼眶里打转。彭彭锯木头的样子真好看，大提小哥和长笛大叔，你们真的很棒！ <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286503077)<br><br>2019-05-12 14:27<br>赞(2) 踩(0) | <div>更喜欢听纯钢琴版本的，前天晚上在武汉的音乐会听到了几个版本，很感动，希望以后的音乐会能更多一些之前的老曲，哪怕是夜的钢琴曲从一到三十一都可以，我还是忠实的粉丝，买票前往！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328487786)<br>95后独立音乐制作人<br>2019-03-31 00:10<br>赞(1) 踩(0) | <div>永恒与世的经典 <img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"></div> |
@@ -76,7 +73,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295431023)<br>血是什么味道的呢！<br>2017-10-03 10:20<br>赞(1) 踩(0) | <div>钢琴声有点小</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56833170)<br><br>2017-08-22 13:34<br>赞(0) 踩(0) | <div>永恒的经典 毋庸置疑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315368348)<br>蓝……（懒）<br>2017-08-17 17:38<br>赞(0) 踩(0) | <div>一开始的长笛吹的长了些 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314389871)<br>啊丹妮！<br>2017-08-13 20:59<br>赞(2) 踩(0) | <div>长笛开场简直太棒长笛开场简直太棒 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314389871)<br>啊丹妮！<br>2017-08-13 20:59<br>赞(2) 踩(0) | <div>长笛开场简直太棒<br>长笛开场简直太棒 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/144048440)<br>我还没想好要写什么...<br>2017-08-08 13:36<br>赞(1) 踩(0) | <div>夜五的忧伤，随着弦乐的悠长，散去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317963611)<br><br>2017-08-07 23:14<br>赞(2) 踩(0) | <div>合奏版确实听着没有那么忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298862968)<br>学习<br>2017-06-15 12:28<br>赞(1) 踩(0) | <div>这乐器合奏的意境太美好了，</div> |
@@ -215,10 +212,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44350634)<br>看得见的地方一定不远<br>2015-08-19 12:33<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1882463)<br>我还没想好要写什么...<br>2015-08-19 12:25<br>赞(0) 踩(0) | <div>还是钢琴独奏好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36125033)<br><br>2015-08-19 11:52<br>赞(0) 踩(0) | <div>笛子加的太生硬</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54770884)<br> 静水流深っ沧笙踏歌ヾ<br>2015-08-19 11:37<br>赞(143) 踩(0) | <div>有一种意境的美，古朴的生活，孕育着娴静。平凡的周遭，渗透着不羁与沉稳。被昨夜雨水洗礼过的天空似水般的透明，雨丝轻轻漂拂在脸颊，凉风习习，我悠然漫步在郊外的树林间，放松紧张的神经，迈着轻松的步伐，眺望远方一望无垠的碧波。静静地呼吸着这清晨清新的空气。我感到无比愉快而充满力气。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54770884)<br> 静水流深っ沧笙踏歌ヾ<br>2015-08-19 11:37<br>赞(143) 踩(0) | <div>有一种意境的美，古朴的生活，孕育着娴静。平凡的周遭，渗透着不羁与沉稳。<br>被昨夜雨水洗礼过的天空似水般的透明，雨丝轻轻漂拂在脸颊，凉风习习，我悠然漫步在郊外的树林间，放松紧张的神经，迈着轻松的步伐，眺望远方一望无垠的碧波。静静地呼吸着这清晨清新的空气。我感到无比愉快而充满力气。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33829514)<br>来点indie风<br>2015-08-23 18:55<br>赞(0) 踩(0) | <div>此时听听班得瑞也是很合适的！觉得你相当有雅致呢！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342581317)<br><br>2018-01-02 18:57<br>赞(0) 踩(0) | <div><q><b>寒寒酥说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54770884)<br> 静水流深っ沧笙踏歌ヾ<br>2015-08-19 11:37<br>赞(0) 踩(0) | <div>有一种意境的美，古朴的生活，孕育着娴静。平凡的周遭，渗透着不羁与沉稳。被昨夜雨水洗礼过的天空似水般的透明，雨丝轻轻漂拂在脸颊，凉风习习，我悠然漫步在郊外的树林间，放松紧张的神经，迈着轻松的步伐，眺望远方一望无垠的碧波。静静地呼吸着这清晨清新的空气。我感到无比愉快而充满力气。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54770884)<br> 静水流深っ沧笙踏歌ヾ<br>2015-08-19 11:37<br>赞(0) 踩(0) | <div>有一种意境的美，古朴的生活，孕育着娴静。平凡的周遭，渗透着不羁与沉稳。<br>被昨夜雨水洗礼过的天空似水般的透明，雨丝轻轻漂拂在脸颊，凉风习习，我悠然漫步在郊外的树林间，放松紧张的神经，迈着轻松的步伐，眺望远方一望无垠的碧波。静静地呼吸着这清晨清新的空气。我感到无比愉快而充满力气。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55681018)<br><br>2015-08-19 11:34<br>赞(0) 踩(0) | <div>终于有了 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55638518)<br><br>2015-08-19 09:18<br>赞(0) 踩(0) | <div>不同的味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55462985)<br><br>2015-08-19 09:15<br>赞(1) 踩(0) | <div>比原版更生动多了 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |

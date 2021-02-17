@@ -69,9 +69,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241589)<br><br>2017-04-07 22:47<br>赞(0) 踩(0) | <div>当翻开以前的cd和dvd，想重温多年前的一段温暖和感动，才发现mac是没有cd room的，而pc的也已经老化，退役。这就是时间。明明有dvd和cd，也要上虾米听，这就是时间。残酷。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1296817)<br>我还没想好要写什么...<br>2016-04-21 14:12<br>赞(2) 踩(0) | <div>“成都‘s canceled”，听到这里好想哭。那一年还在读高一，记得城市画报一直在刊登林一峰的内地巡演预告，那个时候手机还在用wap上网，经常上的网站就是3G门户。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5105917)<br><br>2013-08-08 12:49<br>赞(0) 踩(0) | <div>Another morrow we will come home, so I keep on rolling rolling like a stone. Be on the roadBye everyone, love you</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5105917)<br><br>2013-08-08 12:43<br>赞(0) 踩(0) | <div>Another morrow we will come home so I keep on rolling rolling like a stone be on the roadBye everyone, love you</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5105917)<br><br>2013-08-08 12:49<br>赞(0) 踩(0) | <div>Another morrow we will come home, so I keep on rolling rolling like a stone. Be on the road<br>Bye everyone, love you</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5105917)<br><br>2013-08-08 12:43<br>赞(0) 踩(0) | <div>Another morrow we will come home so I keep on rolling rolling like a stone be on the road<br>Bye everyone, love you</div> |

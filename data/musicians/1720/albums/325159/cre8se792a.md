@@ -77,8 +77,8 @@ Are you ready
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323332534)<br><br>2020-12-17 23:36<br>赞(0) 踩(0) | <div>真开口跪 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441180772)<br>...<br>2020-06-18 16:45<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310780270)<br><br>2020-02-01 22:10<br>赞(2) 踩(0) | <div>金海心的嗓音和演唱技巧，真的是被埋没了的金子。实力和她的名气真的不太符啊。总觉得她应该名气更大到家喻户晓的程度才对啊。这嗓音别说唱歌了，就是吵架，听起来都悦耳动听啊。</div> |

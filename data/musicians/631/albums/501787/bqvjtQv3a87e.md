@@ -41,13 +41,13 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215517274)<br>一直独行在路上。<br>2020-11-05 17:25<br>赞(0) 踩(0) | <div>这歌好适合耽美文&amp;hellip;&amp;hellip;攻在抽烟的时候想着受&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89214)<br><br>2020-09-16 08:32<br>赞(0) 踩(0) | <div>如今已戒烟，但还是时不时想起你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191933935)<br>我还没想好要写什么...<br>2019-07-01 21:55<br>赞(0) 踩(0) | <div>今天过后不再点燃快乐，而你也一并戒了……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321123406)<br>清风吹尽堂中花<br>2019-06-29 19:23<br>赞(0) 踩(0) | <div>人矮裤子还不穿正，衣服皱也是正常，不认真不认真 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413919351)<br><br>2019-01-28 20:13<br>赞(2) 踩(0) | <div>为了听这首歌。。我下载了虾米。然后她离开了。时隔仅一天。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321123406)<br>清风吹尽堂中花<br>2019-06-29 19:23<br>赞(0) 踩(0) | <div>人矮裤子还不穿正，衣服皱也是正常，<br>不认真不认真 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413919351)<br><br>2019-01-28 20:13<br>赞(2) 踩(0) | <div>为了听这首歌。。我下载了虾米。<br>然后她离开了。<br>时隔仅一天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287038849)<br> <br>2018-11-28 12:55<br>赞(1) 踩(0) | <div>事后烟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11163254)<br> <br>2018-08-29 01:43<br>赞(1) 踩(0) | <div>训情记的回忆 过了十年二十年 追不回一支烟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142425322)<br>我还没想好要写什么...<br>2018-08-15 21:22<br>赞(3) 踩(0) | <div>好干净的声音</div> |
@@ -84,14 +84,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44597675)<br> <br>2015-08-05 21:36<br>赞(1) 踩(0) | <div>一支烟的时间，不知想谁好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1730200)<br> <br>2015-04-14 23:13<br>赞(0) 踩(0) | <div>…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8826444)<br>暂无签名~<br>2014-09-12 23:47<br>赞(0) 踩(0) | <div>用了一支烟的时间 挂念谁</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5901789)<br>wechat：chanj...<br>2014-06-07 20:32<br>赞(1) 踩(0) | <div>用了一支煙的時間掛念誰浪費了幾分鐘的感情計算得到還未算太累而你似看穿我扮強悍笑我姿勢未純熟吸了煙　呼出眼淚</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5901789)<br>wechat：chanj...<br>2014-06-07 20:32<br>赞(1) 踩(0) | <div>用了一支煙的時間掛念誰<br>浪費了幾分鐘的感情<br>計算得到還未算太累<br>而你似看穿我扮強悍<br>笑我姿勢未純熟<br>吸了煙　呼出眼淚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5176279)<br><br>2014-03-15 22:28<br>赞(0) 踩(0) | <div>连上14天后在青鸟满血复活。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2470934)<br><br>2014-02-12 22:55<br>赞(0) 踩(0) | <div>忘记说 晚安了。 古耐~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1009164)<br>我还没想好要写什么...<br>2014-01-18 23:58<br>赞(2) 踩(0) | <div>“若你此刻點起煙會否想誰，是我吧，在兩個空間做著這相同動作，共你竟可這麼近，同時那麼遠”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2119363)<br>喂！<br>2013-11-19 08:50<br>赞(0) 踩(0) | <div>277L用了一支烟的时间 挂念谁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2119363)<br>喂！<br>2013-11-19 08:50<br>赞(0) 踩(0) | <div>277L<br>用了一支烟的时间 挂念谁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26257663)<br><br>2013-11-07 14:04<br>赞(0) 踩(0) | <div>若你此刻点起烟  会否想谁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12284703)<br>志不同不相为谋<br>2013-07-01 18:16<br>赞(0) 踩(0) | <div>粤语</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2150662)<br><br>2013-06-20 22:16<br>赞(0) 踩(0) | <div>讓那火機撻的一聲　把快樂燃點隨著空中翻飛煙圈消散我亦明白　應怎打算</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2150662)<br><br>2013-06-20 22:16<br>赞(0) 踩(0) | <div>讓那火機撻的一聲　把快樂燃點<br>隨著空中翻飛煙圈消散<br>我亦明白　應怎打算</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2150662)<br><br>2013-06-20 21:37<br>赞(1) 踩(0) | <div>世间有大恐惧，亦有大烦恼，但于我如风行泽上，一眼看过飘摇。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6922062)<br><br>2013-05-17 00:47<br>赞(0) 踩(0) | <div>吸了烟  呼出眼泪  让那火机哒的一声把快乐燃点  随着风中翻飞烟圈消散...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3324571)<br><br>2013-04-08 20:50<br>赞(2) 踩(0) | <div>从前我总是嫌他声音太软 听了会腻 可是就在刚刚 我才发现 原来只有这么柔软的声音 才会像烟雾般描绘 抽着烟无法说话的时候 心里想着什么</div> |
@@ -100,12 +100,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7854995)<br><br>2012-12-08 14:17<br>赞(0) 踩(0) | <div>林一峰的歌，永远是适合一个人听的歌~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10369780)<br><br>2012-11-07 10:11<br>赞(0) 踩(0) | <div>用一支烟的时间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8079875)<br><br>2012-11-01 16:12<br>赞(0) 踩(0) | <div>讓那火機撻的一聲　把快樂燃點 隨著空中翻飛煙圈消散 我亦明白　應怎打算</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/550088)<br>我还没想好要写什么...<br>2012-10-11 23:06<br>赞(0) 踩(0) | <div>用了一支煙的時間掛念誰浪費了幾分鐘的感情計算得到還未算太累而你似看穿我扮強悍笑我姿勢未純熟吸了煙　呼出眼淚</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/550088)<br>我还没想好要写什么...<br>2012-10-11 23:06<br>赞(0) 踩(0) | <div>用了一支煙的時間掛念誰<br>浪費了幾分鐘的感情<br>計算得到還未算太累<br>而你似看穿我扮強悍<br>笑我姿勢未純熟<br>吸了煙　呼出眼淚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1827677)<br><br>2012-10-02 14:33<br>赞(0) 踩(0) | <div>Dame un poquito más de tiempo</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4903867)<br>这家伙很聪明什么也没留下...<br>2012-06-15 01:34<br>赞(0) 踩(0) | <div>。。。而你似看穿我扮強悍 笑我姿勢未純熟 吸了煙　呼出眼淚。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3158161)<br><br>2012-06-14 13:45<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356131)<br><br>2012-06-02 22:36<br>赞(4) 踩(0) | <div>这首歌是不是完胜周董的《给我一首歌的时间》，林一峰的歌都细腻的要死了，果然GAY写词都很棒嘛。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4069618)<br><br>2012-05-07 19:20<br>赞(0) 踩(0) | <div>gaixiangbugaixianggaitingbugaiting</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4069618)<br><br>2012-05-07 19:20<br>赞(0) 踩(0) | <div>gaixiangbugaixianggaitingbugai<br>ting</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4069618)<br><br>2012-04-19 16:56<br>赞(0) 踩(0) | <div>随机播放竟然随到了这首，疯了吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7968176)<br><br>2012-04-16 19:18<br>赞(1) 踩(0) | <div>有些癮戒不掉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532661)<br>不要停止我的音乐<br>2012-04-14 17:29<br>赞(0) 踩(0) | <div>好伤心既一首</div> |

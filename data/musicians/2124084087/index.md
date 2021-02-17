@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d75b873ce9516475773ab114241abc23.jpg)<br>冯聪](https://i.xiami.com/andyfeng) | **播放数**: 1080513<br>**粉丝数**: 257<br>**评论数**: 0<br>**地区**: 中国大陆 China<br>**风格**: 流行 Pop, 流行摇滚 Pop Rock<br> |
+| [![](../../images/musicians/d75b873ce9516475773ab114241abc23.jpg)<br>冯聪](https://i.xiami.com/andyfeng) | **地区**: 中国大陆 China<br>**风格**: 流行 Pop, 流行摇滚 Pop Rock<br>**播放数**: 1080513<br>**粉丝数**: 257<br>**评论数**: 0<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,5 +18,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

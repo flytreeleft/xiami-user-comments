@@ -23,5 +23,3 @@ And down to make a bed for you
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

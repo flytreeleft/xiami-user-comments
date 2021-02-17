@@ -145,5 +145,3 @@ Yippee Ki Yo Ki Ayyyyyyy
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

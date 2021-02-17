@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/93f74f1542b7e8f1ebd69e188108f435.jpg)<br>钢琴曲qing](https://i.xiami.com/jiaqing) | **播放数**: 14331948<br>**粉丝数**: 23021<br>**评论数**: 87<br>**地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 轻音乐流行 Light Pop, 器乐流行 Instrumental Pop<br> |
+| [![](../../images/musicians/93f74f1542b7e8f1ebd69e188108f435.jpg)<br>钢琴曲qing](https://i.xiami.com/jiaqing) | **地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 轻音乐流行 Light Pop, 器乐流行 Instrumental Pop<br>**播放数**: 14331948<br>**粉丝数**: 23021<br>**评论数**: 87<br> |
 
 ## 档案
 
@@ -22,8 +22,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311293918)<br>听一首歌想一个人<br>2020-10-16 12:41<br>赞(0) 踩(0) | <div>午后的阳光   很暖和&amp;zwj;♀️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3250268)<br>一首好歌都比爱一个人长久...<br>2019-12-05 14:31<br>赞(0) 踩(0) | <div>很棒很好听 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376993114)<br><br>2019-11-24 01:04<br>赞(1) 踩(0) | <div>忧伤填补快乐</div> |

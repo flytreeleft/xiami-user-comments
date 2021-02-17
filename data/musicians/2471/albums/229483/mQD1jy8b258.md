@@ -82,8 +82,8 @@ SP：Sony Music Publishing (Pte) Ltd. Taiwan Branch
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370892)<br>心如宝月映琉璃<br>2019-05-09 23:57<br>赞(0) 踩(0) | <div>这首歌真是珍宝。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262604186)<br>我有一颗流浪的心，缺少一...<br>2019-01-07 23:31<br>赞(0) 踩(0) | <div>厉害了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142197372)<br>来自宇宙深处的巨蟹座。<br>2018-10-26 05:13<br>赞(1) 踩(0) | <div>这是我喜欢的</div> |
@@ -116,12 +116,12 @@ SP：Sony Music Publishing (Pte) Ltd. Taiwan Branch
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4182272)<br><br>2013-03-06 20:28<br>赞(3) 踩(0) | <div>我是我，执着得笨拙，不少也不多，宁愿错，不错过，微小的要求不多。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4411020)<br>[每个人都是特别的存在。...<br>2012-12-02 18:23<br>赞(1) 踩(0) | <div>the real  Angela</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/154439)<br><br>2012-12-02 11:03<br>赞(1) 踩(0) | <div>是我 不装饰什么 我是我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9542324)<br><br>2012-11-23 11:59<br>赞(1) 踩(0) | <div>如果我 哪里受挫就让我 从哪里复活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9542324)<br><br>2012-11-23 11:59<br>赞(1) 踩(0) | <div>如果我 哪里受挫<br>就让我 从哪里复活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/464671)<br>我还没想好要写什么...<br>2012-11-17 20:46<br>赞(1) 踩(0) | <div>没痛过，不算经过~~伤过才懂得我要什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2115065)<br>做好吃的~<br>2012-11-09 05:16<br>赞(2) 踩(0) | <div>the second best because of the attitude!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6921126)<br>最爱J-POP<br>2012-11-06 17:25<br>赞(1) 踩(0) | <div>这首歌足矣送给我自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3404127)<br>天生我才必有用！<br>2012-10-19 14:28<br>赞(1) 踩(0) | <div>为什么这首歌低音部分的声音这么像Elva</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7058663)<br><br>2012-10-17 17:12<br>赞(1) 踩(0) | <div>我是我执着得笨拙 不少也不多</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7058663)<br><br>2012-10-17 17:12<br>赞(1) 踩(0) | <div>我是我<br>执着得笨拙 不少也不多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10177534)<br> <br>2012-10-15 09:45<br>赞(2) 踩(0) | <div>要是小胖能給她寫收歌就好了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3460503)<br><br>2012-10-14 15:06<br>赞(1) 踩(0) | <div>听起来好老气……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11046044)<br><br>2012-10-13 22:05<br>赞(1) 踩(0) | <div>是我。活出每个如果。如果会是什么</div> |

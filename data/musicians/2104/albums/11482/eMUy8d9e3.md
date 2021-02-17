@@ -50,7 +50,7 @@ If they had a friend like Ben
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17727214)<br>爱出者爱返 福往者福来<br>2015-02-12 21:27<br>赞(0) 踩(0) | <div>like</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2432540)<br><br>2013-02-06 19:23<br>赞(0) 踩(0) | <div>和MJ童年时的声音很像～</div> |

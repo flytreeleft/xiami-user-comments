@@ -49,8 +49,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16773772)<br>简单爱你心所爱<br>2020-10-01 02:10<br>赞(0) 踩(0) | <div>大精彩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7252458)<br>作为一个靓仔我已经习惯了...<br>2020-08-28 12:17<br>赞(1) 踩(0) | <div>这很伍佰！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25085399)<br>再见了虾米<br>2020-08-17 09:33<br>赞(0) 踩(0) | <div>啊杨乃文有毒，再加伍佰简直无解</div> |
@@ -70,7 +70,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11235021)<br>纵贯线王菲熊光KOKIA...<br>2018-11-25 17:29<br>赞(0) 踩(0) | <div>伍佰和杨乃文合唱了好几首呢，都蛮喜欢的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12710218)<br><br>2018-11-18 23:55<br>赞(1) 踩(0) | <div>草</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357432977)<br><br>2018-10-24 20:15<br>赞(9) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40902743)<br>我还没想好要写什么...<br>2018-10-18 16:06<br>赞(0) 踩(0) | <div>伍佰的合声好棒！这个live也太棒（想象自己在现场）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40902743)<br>我还没想好要写什么...<br>2018-10-18 16:06<br>赞(0) 踩(0) | <div>伍佰的合声好棒！<br>这个live也太棒（想象自己在现场）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258763020)<br><br>2018-10-17 20:03<br>赞(0) 踩(0) | <div>今天重庆场诶*罒▽罒*</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404569064)<br>不要問我為甚麼那麼帥，天...<br>2018-10-14 11:37<br>赞(0) 踩(0) | <div>越聽越high ，好想跟著一起跳。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282076752)<br><br>2018-10-08 09:05<br>赞(0) 踩(0) | <div>好</div> |
@@ -108,7 +108,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14491772)<br><br>2018-04-28 19:41<br>赞(2) 踩(0) | <div>这歌就是伍佰的演唱会现场版本</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292650688)<br>图图是我，我就是大耳朵t...<br>2018-04-28 14:28<br>赞(2) 踩(0) | <div>为999贡献</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46867871)<br>我还没想好要写什么...<br>2018-04-18 00:02<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216552441)<br>影子在黑夜里梦见黑夜▪️<br>2018-04-14 01:49<br>赞(5) 踩(0) | <div>多热烈 就多孤独这团火眼看它熄灭又燃起</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216552441)<br>影子在黑夜里梦见黑夜▪️<br>2018-04-14 01:49<br>赞(5) 踩(0) | <div>多热烈 就多孤独<br>这团火眼看它熄灭又燃起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4366896)<br>铅铭<br>2018-04-13 14:56<br>赞(3) 踩(0) | <div>伍佰不去唱和声可惜了。    和声怪才！！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43340167)<br><br>2018-05-20 00:45<br>赞(0) 踩(0) | <div>伍佰又要写歌、又要唱、又要弹吉他，忙不过来啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52858384)<br>我还没想好要写什么...<br>2018-04-12 22:07<br>赞(2) 踩(0) | <div>专辑封面让人浮想联翩</div> |
@@ -130,7 +130,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1009164)<br>我还没想好要写什么...<br>2018-03-06 07:53<br>赞(3) 踩(0) | <div>杨乃文太摇滚了，好喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16659023)<br> <br>2018-03-03 23:25<br>赞(2) 踩(0) | <div>讲真最近伍佰的歌冲散了很多失恋带来的不好的情绪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1586064)<br>热门直播歌曲……<br>2018-03-02 22:37<br>赞(3) 踩(0) | <div>999+</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1174129)<br><br>2018-02-28 15:24<br>赞(2) 踩(0) | <div>就喜欢这个版本的动感</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1174129)<br><br>2018-02-28 15:24<br>赞(2) 踩(0) | <div>就喜欢这个版本的<br>动感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54333939)<br>冷淡存长情<br>2018-02-25 14:37<br>赞(1) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343204297)<br><br>2018-02-25 01:01<br>赞(3) 踩(0) | <div>震撼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320764119)<br>幸福在哪里~<br>2018-02-21 04:28<br>赞(3) 踩(0) | <div>伍佰声音混进来的感觉和崔健&amp;lt;雪地里撒野&amp;gt;中王勇古筝渐入感一样，都是亮点~ <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
@@ -140,7 +140,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317465634)<br>音乐节<br>2018-02-09 03:13<br>赞(4) 踩(0) | <div>伍佰铁粉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260501987)<br>我还没想好要写什么...<br>2018-01-30 22:00<br>赞(3) 踩(0) | <div>伍佰最牛，没有之一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280036658)<br> <br>2018-01-27 15:32<br>赞(4) 踩(0) | <div>喜欢伍佰老师的音乐16年了，就是没理由的喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303806626)<br><br>2018-01-27 00:19<br>赞(2) 踩(0) | <div>一个人2018年1月27日 大连</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303806626)<br><br>2018-01-27 00:19<br>赞(2) 踩(0) | <div>一个人<br>2018年1月27日 大连</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3018436)<br><br>2018-01-25 11:35<br>赞(1) 踩(0) | <div>听到泪飙，怎么会有这么好的搭配！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16969664)<br> <br>2018-01-24 14:23<br>赞(1) 踩(0) | <div>超赞！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345610278)<br> <br>2018-01-22 11:18<br>赞(3) 踩(0) | <div>老子单曲循环好几个小时 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -168,7 +168,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332998295)<br><br>2017-12-17 00:28<br>赞(1) 踩(0) | <div>杨乃武</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299431254)<br>我还没想好要写什么...<br>2017-12-14 12:40<br>赞(1) 踩(0) | <div>好听！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1901858)<br><br>2017-12-14 11:10<br>赞(4) 踩(0) | <div>伍佰唱的都喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6787216)<br>音乐影画老周<br>2017-12-13 12:03<br>赞(2) 踩(0) | <div>赞！今天才听到这张live，喜欢。20年前就买了首专ONE的磁带，后来又追加了CD。陪了我20年的专辑</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6787216)<br>音乐影画老周<br>2017-12-13 12:03<br>赞(2) 踩(0) | <div>赞！今天才听到这张live，喜欢。<br>20年前就买了首专ONE的磁带，后来又追加了CD。陪了我20年的专辑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258520219)<br>让我记住你们  我会一直...<br>2017-12-08 07:58<br>赞(0) 踩(0) | <div>超棒的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336948428)<br><br>2017-12-06 11:28<br>赞(21) 踩(0) | <div>很喜欢宫崎骏说的一句话：&amp;ldquo;你住的城市下雨了,很想问你有没有带伞，可是我忍住了，因为我怕你说没带，而我又无能为力，就像是我爱你，却给不到你想要的陪伴。&amp;rdquo;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16321456)<br>爱音乐。<br>2018-08-17 09:56<br>赞(0) 踩(0) | <div>谁说不是呢，想说&amp;hellip;&amp;hellip;&amp;hellip;，却又无能为力，</div> |

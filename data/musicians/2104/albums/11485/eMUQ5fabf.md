@@ -70,8 +70,8 @@ BE HERE, JUST BE THERE, MY ONE AND ONLY LOVE<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341857287)<br><br>2020-12-14 11:46<br>赞(0) 踩(0) | <div>10多年前我一个人住在温哥华，到了秋风起，枫叶红的时候，疯狂的想回家，一遍一遍的听&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444158796)<br><br>2020-12-13 00:29<br>赞(1) 踩(0) | <div>回家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445547552)<br><br>2020-12-07 18:28<br>赞(0) 踩(0) | <div>无敌嗓音</div> |
@@ -83,10 +83,10 @@ BE HERE, JUST BE THERE, MY ONE AND ONLY LOVE<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288384414)<br>我还没想好要写什么...<br>2020-05-19 14:49<br>赞(0) 踩(0) | <div>07年在海南听到热泪盈眶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255287829)<br>前程有限<br>2020-04-22 23:32<br>赞(0) 踩(0) | <div>直击心灵的声音与词，不论百转千回唯一不要忘了的就是回家。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308547735)<br><br>2020-01-14 22:34<br>赞(0) 踩(0) | <div>好喜欢顺子的声音，就像爱人的呼唤。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11979899)<br>人约黄昏后<br>2020-01-13 15:11<br>赞(1) 踩(0) | <div>人是奇怪的動物在年少時總嚮往著遠方的風景總想著能有一天離開家而且離得越遠越好彷彿只有這樣才意味著自我的獨立可終有一天離開家離開了爸媽然後又開始思念家的溫暖與溫情有人說回家的路一直都在只要心裡有愛還有人說，回家的路是一條熟悉的陌生路外面的風景再美也敵不過回家的那條路時刻記得回家的路無論走得多遠你都不是無根的浮萍家是每個人最後的靈魂歸宿用自己的方式回家帶上愛和期盼踏上那條風景最美的路一路向著溫暖出發</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327136245)<br>没有值不值得，只有愿不愿...<br>2019-10-29 22:01<br>赞(0) 踩(0) | <div>回家，重庆卫视带您回家小时候看电视，广告背景音乐就是这首回家</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408895884)<br>青山不老 绿水长流 相互...<br>2019-09-12 00:54<br>赞(0) 踩(0) | <div>当不悦遇到音乐音符会帮你舒缓当兴奋与你同行美好会分享旋律</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6604423)<br><br>2019-08-03 20:51<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png">没问题！顺子、梦然，一直都是我非常喜欢的实力派美女歌手 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11979899)<br>人约黄昏后<br>2020-01-13 15:11<br>赞(1) 踩(0) | <div>人是奇怪的動物<br>在年少時<br>總嚮往著遠方的風景<br>總想著能有一天離開家<br>而且離得越遠越好<br>彷彿只有這樣<br>才意味著自我的獨立<br>可終有一天離開家<br>離開了爸媽<br>然後又開始思念<br>家的溫暖與溫情<br>有人說<br>回家的路一直都在<br>只要心裡有愛<br>還有人說，回家的路<br>是一條熟悉的陌生路<br>外面的風景再美<br>也敵不過回家的那條路<br>時刻記得回家的路<br>無論走得多遠<br>你都不是無根的浮萍<br>家是每個人最後的靈魂歸宿<br>用自己的方式回家<br>帶上愛和期盼<br>踏上那條風景最美的路<br>一路向著溫暖出發</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327136245)<br>没有值不值得，只有愿不愿...<br>2019-10-29 22:01<br>赞(0) 踩(0) | <div>回家，重庆卫视带您回家<br>小时候看电视，广告背景音乐就是这首回家</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408895884)<br>青山不老 绿水长流 相互...<br>2019-09-12 00:54<br>赞(0) 踩(0) | <div>当不悦遇到音乐<br>音符会帮你舒缓<br>当兴奋与你同行<br>美好会分享旋律</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6604423)<br><br>2019-08-03 20:51<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png">没问题！<br>顺子、梦然，一直都是我非常喜欢的实力派美女歌手 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280005865)<br><br>2019-08-02 07:56<br>赞(0) 踩(0) | <div>爱顺子很多年了！每每听到她的歌都想这是一个多美的女人呀！真是人美！歌也美！好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42133579)<br>我还没想好要写什么...<br>2019-07-30 13:42<br>赞(1) 踩(0) | <div>轻轻松松听哭的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374246817)<br>有时间就来听歌。<br>2019-06-01 10:06<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -109,7 +109,7 @@ BE HERE, JUST BE THERE, MY ONE AND ONLY LOVE<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135184192)<br>一儿俩女的人生梦想<br>2018-12-22 07:18<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361798841)<br><br>2018-10-16 20:22<br>赞(2) 踩(0) | <div>情緒表現豐富，娓娓道來，情觸衷腸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401692812)<br><br>2018-08-15 23:29<br>赞(1) 踩(0) | <div>华语歌坛女声排前列的作品！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339965312)<br>趁年輕，享受一下浪漫的旅...<br>2018-08-09 01:23<br>赞(3) 踩(0) | <div>喜歡總有一天我們都要回家</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339965312)<br>趁年輕，享受一下浪漫的旅...<br>2018-08-09 01:23<br>赞(3) 踩(0) | <div>喜歡<br>總有一天我們都要回家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312043926)<br>音乐这东西开心时入耳，伤...<br>2018-06-27 08:30<br>赞(1) 踩(0) | <div>离不开你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312043926)<br>音乐这东西开心时入耳，伤...<br>2018-06-22 07:47<br>赞(2) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358029973)<br><br>2020-02-07 21:27<br>赞(0) 踩(0) | <div>美女，我爱你</div> |
@@ -124,10 +124,10 @@ BE HERE, JUST BE THERE, MY ONE AND ONLY LOVE<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3863543)<br>用挑剔耳朵寻找沁人心脾的...<br>2018-02-02 18:28<br>赞(0) 踩(0) | <div>'            此    时    众    生         <img src="../../../../images/comments/18dc90e62c62d50174953431fd7ccb9a.png"> <img src="../../../../images/comments/a2e67a9e5ea419cad3a09f54d06c56a5.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/a2e67a9e5ea419cad3a09f54d06c56a5.png"> <img src="../../../../images/comments/18dc90e62c62d50174953431fd7ccb9a.png"> <img src="../../../../images/comments/57fc74d656455b95c566b57afbf637c2.png"> <img src="../../../../images/comments/316db64fc5b56f4587429737ff163940.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189964404)<br>You bitch!<br>2018-01-27 04:11<br>赞(0) 踩(0) | <div>ho</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289324355)<br>我还没想好要写什么...<br>2018-01-22 04:45<br>赞(0) 踩(0) | <div>每次听到这首歌，都不由佩服她的好声音!不仅产生对家的向往，更多的是对自己的深入了解。看了顺子的个人简介，原来她还是个华人～再看了这首歌的MV,不禁看了两遍&amp;hellip;&amp;hellip;她笑起来的梨窝很漂亮，加上现场氛围，大小提琴钢琴，中西合璧&amp;hellip;&amp;hellip;实在是迷人，有种为她是中国人骄傲的冲动！加油，顺子 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45529586)<br>智商有问题<br>2018-01-21 22:43<br>赞(3) 踩(0) | <div>这首回家真不敢在深夜听。真不敢在酒后听。真不敢在委屈的时候听。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45529586)<br>智商有问题<br>2018-01-21 22:43<br>赞(3) 踩(0) | <div>这首回家<br>真不敢在深夜听。<br>真不敢在酒后听。<br>真不敢在委屈的时候听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297697743)<br><br>2018-01-20 20:05<br>赞(1) 踩(0) | <div>我一直以来的最爱，很舒情！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309882705)<br><br>2017-12-29 18:49<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71086192)<br>你不喜欢我，这是病，得治...<br>2017-12-04 00:28<br>赞(2) 踩(0) | <div>刚刚喝了点小酒，回想这几年，经历了太多起落，百感交集。从一开始什么都没有到30万，从30万到200万，从200万到500多万，从500万到800万，最后从800万到现在的2000万！不是炫耀， 我只是想通过我自己的经历告诉我的朋友们:手机像素越高，圣诞节才能拍的清楚。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71086192)<br>你不喜欢我，这是病，得治...<br>2017-12-04 00:28<br>赞(2) 踩(0) | <div>刚刚喝了点小酒，回想这几年，经历了太多起落，百感交集。从一开始什么都没有到30万，从30万到200万，从200万到500多万，从500万到800万，最后从800万到现在的2000万！不是炫耀， 我只是想通过我自己的经历告诉我的朋友们:<br><br>手机像素越高，圣诞节才能拍的清楚。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189964404)<br>You bitch!<br>2018-01-27 04:11<br>赞(0) 踩(0) | <div>闭嘴</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328857621)<br>友谊可贵<br>2018-11-04 05:38<br>赞(0) 踩(0) | <div>哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274495818)<br><br>2017-11-04 21:37<br>赞(2) 踩(0) | <div>顺子，大美女，超级声线。</div> |
@@ -240,7 +240,7 @@ BE HERE, JUST BE THERE, MY ONE AND ONLY LOVE<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12150937)<br><br>2013-04-08 01:31<br>赞(0) 踩(0) | <div>大aus啊〜鸡派牛肉派〜哎，图什么，一场空。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7453741)<br><br>2012-02-10 15:58<br>赞(0) 踩(0) | <div>11</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1655638)<br> <br>2011-11-04 11:11<br>赞(0) 踩(0) | <div>~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3832022)<br><br>2011-08-03 19:30<br>赞(92) 踩(0) | <div>她的演唱声情并茂，极富艺术感染力。《回家》绝佳的演唱技巧，百听不厌，震撼心灵的好歌曲。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3832022)<br><br>2011-08-03 19:30<br>赞(92) 踩(0) | <div>她的演唱声情并茂，极富艺术感染力。<br>《回家》绝佳的演唱技巧，百听不厌，震撼心灵的好歌曲。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3045077)<br>暂无签名~<br>2017-01-17 08:56<br>赞(0) 踩(0) | <div>唱功呀，情感，丝丝入扣</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259552411)<br><br>2017-01-18 22:34<br>赞(0) 踩(0) | <div>5年前？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284378146)<br><br>2017-04-19 09:13<br>赞(0) 踩(0) | <div>我倒觉得王杰的回家更好听呢</div> |

@@ -45,5 +45,3 @@ los angeles, anchorage, montreal, then who knows<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

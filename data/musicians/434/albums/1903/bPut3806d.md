@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7306587)<br><br>2012-08-26 22:49<br>赞(0) 踩(0) | <div>今晚老师独奏了的曲子。别忘记孩子的时候抱了的梦想。象孩子一样的纯粹的心・・・</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317626)<br>暂无签名~<br>2012-07-09 22:07<br>赞(0) 踩(0) | <div>一天又一天 DREAM。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6288326)<br><br>2012-06-21 17:06<br>赞(0) 踩(0) | <div>悠扬</div> |

@@ -21,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177148168)<br>不要依赖别人获得快乐 女...<br>2020-03-19 23:05<br>赞(0) 踩(0) | <div>只听卢小旭的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6085826)<br><br>2019-11-07 18:42<br>赞(2) 踩(0) | <div>时隔那么久，这首星罗岩的音乐是唯一一首一响起，我就几乎要落泪的音乐....... 星罗岩是个人在古二里最喜欢的迷宫，古朴、梦幻、神秘、庄严、空灵、磅礴......太难忘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32373009)<br>虾米，再会。<br>2019-09-17 19:41<br>赞(0) 踩(0) | <div>19:40</div> |
@@ -69,9 +69,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68167392)<br>法师王冠，雪顶奶茶<br>2015-12-22 20:05<br>赞(7) 踩(0) | <div>真的是很好听的一首bgm路痴在星罗岩里转也不觉得烦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79849280)<br>哎呀，被你发现啦（*/∇...<br>2015-12-13 14:42<br>赞(2) 踩(0) | <div>最喜欢的一个音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1217512)<br><br>2015-10-04 21:01<br>赞(17) 踩(0) | <div>不得不说，小旭音乐给古剑音乐注入了全新的能量，几首配乐都非常出色。而且最直观的一个感受是，音乐终于没有那么容易和仙剑串了_(:3」∠)_</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/720279)<br><br>2019-07-10 23:12<br>赞(0) 踩(0) | <div>确实，作为古剑骨灰级老玩家，整个三代深度比较后，我的结论是各方面比较以后是：古2&gt;古3&gt;古1仅个人观点，因此也不接受反驳。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/720279)<br><br>2019-07-10 23:12<br>赞(0) 踩(0) | <div>确实，作为古剑骨灰级老玩家，整个三代深度比较后，我的结论是各方面比较以后是：<br>古2&gt;古3&gt;古1<br>仅个人观点，因此也不接受反驳。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2039316)<br>只求，不负初心<br>2015-09-18 00:18<br>赞(4) 踩(0) | <div>古二里面和谢波波的主题曲一样惊艳了我的曲子，，，太美了，听得出历史的沧桑感和无奈感</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41862184)<br> <br>2015-09-02 13:42<br>赞(6) 踩(0) | <div>有虞龙驾不西还，空委箫韶洞壑间。无计得知陵寝处，愁云长满九疑山。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41862184)<br> <br>2015-09-02 13:42<br>赞(6) 踩(0) | <div>有虞龙驾不西还，<br><br>空委箫韶洞壑间。<br><br>无计得知陵寝处，<br><br>愁云长满九疑山。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48530437)<br>I know you h...<br>2015-08-12 18:46<br>赞(2) 踩(0) | <div>百听不厌 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48530437)<br>I know you h...<br>2015-08-12 18:46<br>赞(1) 踩(0) | <div>百听不厌 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54372864)<br><br>2015-08-10 15:00<br>赞(1) 踩(0) | <div>最喜欢的古二BGM</div> |
@@ -86,7 +86,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29879151)<br><br>2014-12-08 22:40<br>赞(3) 踩(0) | <div>女声绝美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12807701)<br><br>2014-09-26 18:07<br>赞(1) 踩(0) | <div>最爱的是这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7678935)<br><br>2014-09-12 01:16<br>赞(1) 踩(0) | <div>听完睡觉~~~大爱星罗岩~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1048473)<br><br>2014-08-26 22:37<br>赞(4) 踩(0) | <div>飘渺的人声，悠远的上古。星罗岩场景音乐。上古神农的遗迹已被破坏不堪，强烈的历史韵味令人想起悠远的上古历史。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1048473)<br><br>2014-08-26 22:37<br>赞(4) 踩(0) | <div>飘渺的人声，悠远的上古。<br>星罗岩场景音乐。上古神农的遗迹已被破坏不堪，强烈的历史韵味令人想起悠远的上古历史。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/542713)<br><br>2014-08-24 22:35<br>赞(1) 踩(0) | <div>空灵大气，有种突然遥远熟悉的悲伤一闪而逝。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11933564)<br>群籁虽参差，适我无非新<br>2014-08-23 23:49<br>赞(53) 踩(0) | <div>【小记】星罗岩中配乐苍梧谣名字太熟，回翻拾遗记：虞舜葬于苍梧之野，有鸟名为凭宵雀，能群飞而衔土成丘坟，名曰“珠丘”，其珠轻细，名曰珠尘。应景将阿阮调出带队，巨岩遗迹，青草离离，绿衣姑娘穿梭奔跑于苍古浪漫的天地间，然觉有所思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34849520)<br><br>2014-08-10 16:25<br>赞(1) 踩(0) | <div>上古神农的遗迹已破败不堪，强烈的历史韵味。（这首只让我想哭，可怜的阿阮55555）</div> |
@@ -117,6 +117,6 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3597813)<br>(」・ω・)」うー！<br>2013-10-04 15:05<br>赞(1) 踩(0) | <div>空灵深邃。当初一听到这开头就喜欢上了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14288434)<br><br>2013-09-24 12:52<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18251702)<br><br>2013-09-23 16:56<br>赞(1) 踩(0) | <div>操纵阿阮在星罗岩里跑的时候，听到这个BGM差点被催下眼泪QAQ</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2435293)<br><br>2013-10-01 12:31<br>赞(0) 踩(0) | <div>全程坐标领队23333不过星罗岩这首真是听得我心潮澎湃！</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2435293)<br><br>2013-10-01 12:31<br>赞(0) 踩(0) | <div>全程坐标领队23333<br>不过星罗岩这首真是听得我心潮澎湃！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4283251)<br><br>2014-03-02 19:53<br>赞(0) 踩(0) | <div>还有在巫山神女墓里面的时候，看着阿阮，心里好难过啊~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7871053)<br>星火相传，奋飞不辍。<br>2013-09-23 13:28<br>赞(2) 踩(0) | <div>有人说息妙华是古二里最仙风道骨的~我同意~【除了师尊</div> |

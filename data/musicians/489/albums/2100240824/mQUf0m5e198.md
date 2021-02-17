@@ -64,8 +64,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/525562)<br>青山青水青少年<br>2020-09-01 19:20<br>赞(0) 踩(0) | <div>这首歌和老狼没关系啊&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362593986)<br>花开如梦，笑颜如初.<br>2020-08-13 01:23<br>赞(0) 踩(0) | <div>有气无力。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37199932)<br><br>2019-12-09 10:40<br>赞(0) 踩(0) | <div>海边的大鱼人</div> |
@@ -148,7 +148,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76439778)<br>净土糟糠，脏水洗身<br>2015-12-02 23:39<br>赞(0) 踩(0) | <div>听之前，不知小河，不晓管艺，也不明何谓“音乐肖像”。反正，我信了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88366974)<br><br>2016-02-23 16:38<br>赞(0) 踩(0) | <div>loihj <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/91081ea0de8ee2c933524fb8574e76e5.png"> <img src="../../../../images/comments/53376b15f77ae122bdb1ed308546bbcb.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88003752)<br><br>2015-12-01 21:10<br>赞(0) 踩(0) | <div>说不喜欢的，可以不听，可以不评论，不服你可以试试</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583786)<br><br>2015-12-01 11:52<br>赞(1) 踩(0) | <div>我不觉得这么多人都知道小河是谁。。这歌是干嘛的。。。还有建议大家不要先入为主。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583786)<br><br>2015-12-01 11:52<br>赞(1) 踩(0) | <div>我不觉得这么多人都知道小河是谁。。这歌是干嘛的。。。<br>还有建议大家不要先入为主。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87827788)<br>该来的总会来<br>2015-12-01 08:47<br>赞(0) 踩(0) | <div>叮不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36276740)<br><br>2015-11-30 19:30<br>赞(3) 踩(0) | <div>超级不喜欢某些民谣的无病呻吟，不知所谓的歌词。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27224237)<br>永远在寻找能唤醒我耳朵的...<br>2015-11-30 16:06<br>赞(0) 踩(0) | <div>♥</div> |
@@ -209,7 +209,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39563509)<br><br>2015-11-25 14:11<br>赞(0) 踩(0) | <div>还是现场好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6171096)<br> <br>2015-11-25 13:53<br>赞(0) 踩(0) | <div>支持老狼，支持音乐肖像，支持乐童！@郭小寒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51978187)<br> <br>2015-11-25 13:48<br>赞(0) 踩(0) | <div>我呢苍天。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6975678)<br>生命如此短暂我比烟花灿烂<br>2015-11-25 13:23<br>赞(3) 踩(0) | <div>很喜欢发光曲线的编曲风格，不过这首我觉得这首合璧曲还是稍微有点勉强。因为我觉得后摇骨子里那种编曲模式和人声是格格不入的，人声和乐器的主次顺序在这首曲子里不是很明晰，感觉有种在掐架的感觉。歌词稍微少一些会不会更好？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6975678)<br>生命如此短暂我比烟花灿烂<br>2015-11-25 13:23<br>赞(3) 踩(0) | <div>很喜欢发光曲线的编曲风格，不过这首我觉得这首合璧曲还是稍微有点勉强。因为我觉得后摇骨子里那种编曲模式和人声是格格不入的，人声和乐器的主次顺序在这首曲子里不是很明晰，感觉有种在掐架的感觉。<br><br>歌词稍微少一些会不会更好？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50423261)<br>someone<br>2015-11-25 13:07<br>赞(2) 踩(0) | <div>无病呻吟的颓废型旋律。难听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12310229)<br>来微博找我@膀胱绿子<br>2015-11-25 11:48<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50152804)<br>我还没想好要写什么...<br>2015-11-25 11:35<br>赞(0) 踩(0) | <div>无意中听到的</div> |
@@ -259,7 +259,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188044)<br>一个高尚纯粹有道德充满了...<br>2015-11-24 19:34<br>赞(2) 踩(0) | <div>曲子太一般了词也一般！还得松哥出来摆摊儿！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287195)<br>哟 哟 虾米新功能<br>2015-11-24 19:31<br>赞(1) 踩(0) | <div>编曲、配乐很出彩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1985058)<br>及时行乐<br>2015-11-24 19:19<br>赞(0) 踩(0) | <div>我是来听狼哥声音的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3155394)<br><br>2015-11-24 19:09<br>赞(3) 踩(0) | <div>什么是浪漫英雄主义什么是完美理想主义什么是乌托邦什么是自由#音乐肖像#</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3155394)<br><br>2015-11-24 19:09<br>赞(3) 踩(0) | <div>什么是浪漫英雄主义<br>什么是完美理想主义<br>什么是乌托邦<br>什么是自由<br>#音乐肖像#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7345510)<br>我真的喜欢吃虾<br>2015-11-24 19:03<br>赞(1) 踩(0) | <div>老狼都老了，可这声音怎么跟二十年前一样呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40053353)<br> <br>2015-11-24 18:43<br>赞(0) 踩(0) | <div>老狼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7245830)<br>一只蜕变成女流氓的女文青...<br>2015-11-24 18:37<br>赞(0) 踩(0) | <div>说实话……难说喜欢。</div> |
@@ -268,12 +268,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13228266)<br>关注音乐本身<br>2015-11-24 16:57<br>赞(0) 踩(0) | <div>老狼老了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1181121)<br>达者，猛也！<br>2015-11-24 16:16<br>赞(0) 踩(0) | <div>渔网，欲望。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36057872)<br>网易/BC: Breat...<br>2015-11-24 15:55<br>赞(0) 踩(0) | <div>~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3601926)<br>到了独自行走的时候。<br>2015-11-24 15:41<br>赞(31) 踩(0) | <div>然后说一下缺点的话：因为受到“音乐肖像”这个创作理念的主导的话，我对它歌词的衡量可能又和普通作词不太一样。据我所知肖像是一个主动自发进行创作的概念，在这个前提下提出我的观点：待一两天太少了。一个月呆一天，对于个人化的气息来说就难免显得不够。我的意思是这首歌可能描写的千千万万的“管艺”，但对于管艺自己的独特性刻画的就难免不足。当然了，一般都是两者不可兼顾。或许小河老师也是选择上升。另外，这首歌的歌词后半部分真的有点突兀有点怪呢，就是气质忽然变了，有一种不和谐的感觉。-------“什么浪漫英雄主义什么完美理想主义 ”嗯，牛逼。<a href="http://emumo.xiami.com/u/65038600" target="_blank" rel="nofollow" name_card="65038600">@音乐肖像</a> 送吧！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3601926)<br>到了独自行走的时候。<br>2015-11-24 15:41<br>赞(31) 踩(0) | <div>然后说一下缺点的话：<br>因为受到“音乐肖像”这个创作理念的主导的话，我对它歌词的衡量可能又和普通作词不太一样。据我所知肖像是一个主动自发进行创作的概念，在这个前提下提出我的观点：<br>待一两天太少了。一个月呆一天，对于个人化的气息来说就难免显得不够。我的意思是这首歌可能描写的千千万万的“管艺”，但对于管艺自己的独特性刻画的就难免不足。当然了，一般都是两者不可兼顾。或许小河老师也是选择上升。<br>另外，这首歌的歌词后半部分真的有点突兀有点怪呢，就是气质忽然变了，有一种不和谐的感觉。<br><br>-------<br><br>“什么浪漫英雄主义<br>什么完美理想主义 ”<br><br>嗯，牛逼。<br><a href="http://emumo.xiami.com/u/65038600" target="_blank" rel="nofollow" name_card="65038600">@音乐肖像</a> 送吧！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72787080)<br><br>2015-11-27 22:24<br>赞(0) 踩(0) | <div>的浏览器tutxxyyxxyy</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72787080)<br><br>2015-11-27 22:24<br>赞(0) 踩(0) | <div>我tutututujujjkkkljjkklvtukjuz</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73385670)<br><br>2016-02-23 09:45<br>赞(0) 踩(0) | <div>jhjjmnnnkkkk</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73385670)<br><br>2016-02-23 09:50<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png">阿客流量ｌｏｌｏp@iioo：不yuuū¥p</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3601926)<br>到了独自行走的时候。<br>2015-11-24 15:36<br>赞(4) 踩(0) | <div>既然有可能送专辑的话：首先注意到的是编曲，流畅切题。比较容易可以听出确实发光曲线的乐队思路占据主导。小号的配器让人眼前一亮。吉他和鼓这些很有他们后摇的“后”的风格。包括在副歌部分的不和谐，感觉上应该是一种比较实验的表达方式，或许隐喻了这个时代下的浪漫英雄主义总是不被理解。编曲有我不熟悉的潘君杰老师，不知为这首歌贡献出了怎样的灵感呢。紧接着老狼的声音非常棒啊！作为年轻一代的听众确实受到狼哥的音乐影响小，对这个噱头不太感冒。但是仔细听一下发现意外的契合呢，确实就是这种经历了事情，但是内心深处依然渴望当初理想浪漫的感觉.小河的词也很有点。朴素而不空泛。<a href="http://emumo.xiami.com/u/65038600" target="_blank" rel="nofollow" name_card="65038600">@音乐肖像</a> 专辑送么？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3601926)<br>到了独自行走的时候。<br>2015-11-24 15:36<br>赞(4) 踩(0) | <div>既然有可能送专辑的话：<br>首先注意到的是编曲，流畅切题。比较容易可以听出确实发光曲线的乐队思路占据主导。小号的配器让人眼前一亮。吉他和鼓这些很有他们后摇的“后”的风格。包括在副歌部分的不和谐，感觉上应该是一种比较实验的表达方式，或许隐喻了这个时代下的浪漫英雄主义总是不被理解。编曲有我不熟悉的潘君杰老师，不知为这首歌贡献出了怎样的灵感呢。<br>紧接着老狼的声音非常棒啊！作为年轻一代的听众确实受到狼哥的音乐影响小，对这个噱头不太感冒。但是仔细听一下发现意外的契合呢，确实就是这种经历了事情，但是内心深处依然渴望当初理想浪漫的感觉.<br>小河的词也很有点。朴素而不空泛。<a href="http://emumo.xiami.com/u/65038600" target="_blank" rel="nofollow" name_card="65038600">@音乐肖像</a> 专辑送么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8814756)<br>HakunaMatata<br>2015-11-24 15:32<br>赞(0) 踩(0) | <div>大鱼人？潮汐？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65038600)<br>每个人都可以有一首自己的...<br>2015-11-24 14:26<br>赞(1) 踩(0) | <div>今天就拿狼哥的新歌与大家互动吧。谈谈你们对这首歌的评价，我们会从中随机选择一位小伙伴送唱片。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1765259)<br>抽你抽的烟<br>2015-11-24 14:19<br>赞(2) 踩(0) | <div>管艺不是那个女主持人么。。。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |

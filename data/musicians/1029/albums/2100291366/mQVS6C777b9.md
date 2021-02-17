@@ -21,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293512959)<br><br>2019-02-15 18:29<br>赞(1) 踩(0) | <div>收藏了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18906977)<br><br>2017-10-30 09:53<br>赞(1) 踩(0) | <div>如同阳光下明净的蓝天白云，安静的大地绿川，粼粼的湖水，呼吸间的清明的念。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32031632)<br><br>2016-08-28 21:54<br>赞(1) 踩(0) | <div>南无阿弥佗佛</div> |

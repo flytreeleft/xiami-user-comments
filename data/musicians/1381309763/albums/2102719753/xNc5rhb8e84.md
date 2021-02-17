@@ -37,5 +37,3 @@ You're always a day away
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

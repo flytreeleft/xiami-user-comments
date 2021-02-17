@@ -38,9 +38,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2017-10-27 23:18<br>赞(0) 踩(0) | <div>【周云蓬：荡荡悠悠】 哦，有所牵挂的人，哦，无处抛锚的心。无论天上无论天下，唯有我独尊，飘飘忽忽荡荡悠悠只有我一人，一路高歌，一路哭笑，天涯有余音。</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2017-10-27 23:18<br>赞(0) 踩(0) | <div>【周云蓬：荡荡悠悠】 哦，有所牵挂的人，<br>哦，无处抛锚的心。<br><br>无论天上无论天下，唯有我独尊，<br>飘飘忽忽荡荡悠悠只有我一人，<br>一路高歌，一路哭笑，天涯有余音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3267911)<br>闪光稍瞬即逝<br>2016-07-16 11:54<br>赞(0) 踩(0) | <div>周六被父母的歌唤醒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/631058)<br> <br>2015-11-22 22:59<br>赞(0) 踩(0) | <div>吐出了我的心声。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2847929)<br>\<br>2015-08-09 02:58<br>赞(0) 踩(0) | <div>没流浪过的人，不懂这首歌</div> |
@@ -62,7 +62,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19494868)<br><br>2013-08-17 15:57<br>赞(0) 踩(0) | <div>呵呵，周云蓬的歌词总能找到笑点，而这个笑点又不是故意为之，所以显的特别有灵气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10815056)<br> <br>2013-07-11 12:20<br>赞(0) 踩(0) | <div>哭倒在地。我这无处抛锚的心啊……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15005638)<br><br>2013-06-10 00:52<br>赞(0) 踩(0) | <div>《神探亨特张》的插曲：哦，有所牵挂的人，哦，无处抛锚的心。无论天上无论天下，唯有我独尊，飘飘忽忽荡荡悠悠只有我一人，一路高歌，一路哭笑，天涯有余音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11781284)<br><br>2013-05-12 22:31<br>赞(0) 踩(0) | <div>斯弃吾兮，昨日之日不可留！吾先选兮，今日之日多烦忧！寻斯有先后，斯斯各不同，道同有专贡，议异两相离，矣斯斯矣，哀哉乎......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11781284)<br><br>2013-05-12 22:31<br>赞(0) 踩(0) | <div>斯弃吾兮，昨日之日不可留！吾先选兮，今日之日多烦忧！寻斯有先后，斯斯各不同，道同有专贡，议<br>异两相离，矣斯斯矣，哀哉乎......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13779065)<br><br>2013-05-03 06:45<br>赞(0) 踩(0) | <div>周云蓬的文字和声音给人一种很特别的感觉，虽然沉郁柔和，力量却丝毫不逊于摇滚，民谣吸引我的地方在此。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13513736)<br>I‘d love to<br>2013-04-17 21:14<br>赞(0) 踩(0) | <div>大一很喜欢唱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5077550)<br><br>2013-04-07 23:07<br>赞(0) 踩(0) | <div>睡</div> |
@@ -78,7 +78,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84548)<br><br>2012-11-25 14:48<br>赞(0) 踩(0) | <div>能同步到么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2392457)<br>走不完的路，望不尽的天涯<br>2012-11-18 22:57<br>赞(0) 踩(0) | <div>一路高歌一路哭笑天涯有余音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1902831)<br>如果我听歌可眼红…<br>2012-11-14 20:50<br>赞(0) 踩(0) | <div>一路高歌，一路哭笑，天涯有余音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11438971)<br><br>2012-11-10 23:33<br>赞(0) 踩(0) | <div>#光棍逆袭#无论天上，无论天下，唯有我独尊。飘飘忽忽，荡荡悠悠，只有我一人。一路高歌，一路哭笑，天涯有余音。额，冬天的风有些冷。。。。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11438971)<br><br>2012-11-10 23:33<br>赞(0) 踩(0) | <div>#光棍逆袭#<br>无论天上，无论天下，唯有我独尊。<br>飘飘忽忽，荡荡悠悠，只有我一人。<br>一路高歌，一路哭笑，天涯有余音。<br>额，冬天的风有些冷。。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4406516)<br><br>2012-10-27 02:29<br>赞(0) 踩(0) | <div>你跟大家说说什么叫民谣，什么叫民谣！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/635331)<br><br>2012-10-22 00:22<br>赞(0) 踩(0) | <div>实在不愿相信能唱出这样的歌的周云蓬会劈腿。。再也不相信爱情了..泪奔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9752018)<br><br>2012-10-20 21:07<br>赞(0) 踩(0) | <div>好</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7dc29d4b1d7963ae6d81340a3839018e.jpg)<br>派克特](https://i.xiami.com/impact) | **播放数**: 9633820<br>**粉丝数**: 17210<br>**评论数**: 354<br>**地区**: China 中国大陆<br>**风格**: 嘻哈 Hip-Hop<br> |
+| [![](../../images/musicians/7dc29d4b1d7963ae6d81340a3839018e.jpg)<br>派克特](https://i.xiami.com/impact) | **地区**: China 中国大陆<br>**风格**: 嘻哈 Hip-Hop<br>**播放数**: 9633820<br>**粉丝数**: 17210<br>**评论数**: 354<br> |
 
 ## 档案
 
@@ -36,11 +36,11 @@ Email：        pact029@qq.com
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49583873)<br> <br>2020-04-07 20:53<br>赞(1) 踩(0) | <div>派总不忘初心，虾米还能听，真好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9062060)<br>此生没拿一个亿来爱虾米是...<br>2020-02-20 21:55<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418593244)<br><br>2020-01-27 23:34<br>赞(1) 踩(0) | <div>找不出第二个freestyle和作品都是顶尖的人在下服 <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418593244)<br><br>2020-01-27 23:34<br>赞(1) 踩(0) | <div>找不出第二个freestyle和作品都是顶尖的人<br>在下服 <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45009729)<br>Keep Easy<br>2020-01-11 17:38<br>赞(0) 踩(0) | <div>90z</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379173234)<br>THX ALL<br>2019-10-24 17:07<br>赞(0) 踩(0) | <div><img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83042422)<br> <br>2019-08-10 21:24<br>赞(0) 踩(0) | <div>b I y k t好想能听到</div> |
@@ -84,9 +84,9 @@ Email：        pact029@qq.com
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49574386)<br> <br>2018-09-07 14:29<br>赞(0) 踩(0) | <div>老派，永远支持你[带墨镜笑]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173055614)<br>我还没想好要写什么...<br>2018-09-06 01:30<br>赞(1) 踩(0) | <div>下架那么多老歌，也该出张新专了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4915586)<br>Hare Krishna<br>2018-09-05 02:23<br>赞(11) 踩(0) | <div>很多年都没有爱豆了。比起派克特，其他咖都成了情怀流行最多野性。梗王的头衔真的很垮，深刻担当至少，采不了样又舍不得单循才是至尊经典。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403447006)<br><br>2018-09-04 01:17<br>赞(1) 踩(0) | <div>虽然通过节目认识派总感觉不是很好(●&amp;mdash;●)但是现在认识真的也满足了 心目中的第一好想听完整的1.0鸭</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403447006)<br><br>2018-09-04 01:17<br>赞(1) 踩(0) | <div>虽然通过节目认识派总感觉不是很好(●&amp;mdash;●)<br>但是现在认识真的也满足了 心目中的第一<br>好想听完整的1.0鸭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18704162)<br>狗女孩<br>2018-09-03 00:12<br>赞(0) 踩(0) | <div>爱您</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/395342)<br>音乐使人心灵更加澄澈…<br>2018-09-02 12:21<br>赞(26) 踩(0) | <div>派克特冠军，Kongfu 胖亚军，第三名第四名？关我peace&amp;zwj;♂️</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/395342)<br>音乐使人心灵更加澄澈…<br>2018-09-02 12:21<br>赞(26) 踩(0) | <div>派克特冠军，<br>Kongfu 胖亚军，<br>第三名第四名？关我peace&amp;zwj;♂️</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2691842)<br>get dough<br>2018-09-02 22:24<br>赞(0) 踩(0) | <div>完全同意，电鳗真是小人得志啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98069898)<br><br>2018-09-25 23:30<br>赞(0) 踩(0) | <div>这^_^</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98069898)<br><br>2018-09-25 23:40<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
@@ -142,8 +142,8 @@ Email：        pact029@qq.com
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34362145)<br>问一百个问题 然后各奔东...<br>2017-11-23 01:10<br>赞(0) 踩(0) | <div>太上頭了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34362145)<br>问一百个问题 然后各奔东...<br>2017-11-21 12:34<br>赞(0) 踩(0) | <div>❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36264200)<br> <br>2017-11-10 11:31<br>赞(3) 踩(0) | <div>新砖啊新砖，啥时候发啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4294730)<br><br>2017-10-28 00:36<br>赞(3) 踩(0) | <div>让我开始思考一些人用大脑编制技巧留下小小的记号除了自己谁也察觉不到我自愿相信你因为我准备找出真相有一天我不会再相信停止你跳动的心脏你怎能瞒过我怎能去压制我心里的火嘴巴开了锁 谎话一句接一句的说当你变成了小人事情做得漂亮大量你撒谎的表情就像乌云之中的太阳你幻想着别人任何的困难你来摆平然后拍着胸膛说付出了真的感情就算不尽人意可是你的计划却很顺利 顺着事情的恶化找到了你想要的利益伪装的却是华丽 暴露的也很彻底老套的模式像台机器虚情假意撕破你的面具让你们看到了你所有的秘密没了意义我却只是路过你怎能瞒过我</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4294730)<br><br>2017-10-28 00:36<br>赞(2) 踩(0) | <div>你怎能瞒过我 自己扒的歌词 请轻拍。             欢迎你往我旁边凑 你的确特别逗说谎像说唱 可我永远听不够还呢么逼真 甚至合情合理什么事儿你都行没有什么不可以看来也许你命里就有这么一条定律看见牛逼就像吹 就好像是性欲你明明姓驴 可骗所有人都说你姓马？说实话 你自己都可能听不进去因为你对你自己现在真的没一点兴趣你忘了自己的声音 忘了自己长了什么样欠的债越来越多 不撒谎 没法儿活所以 你见了一支乐队就认识了主唱军训摸过抢就他妈抢过银行还打过仗所以你朋友去过那儿 你也就去过哪买了一双vans 自然也就会玩滑板</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4294730)<br><br>2017-10-28 00:36<br>赞(3) 踩(0) | <div>让我开始思考一些人用大脑编制技巧<br>留下小小的记号除了自己谁也察觉不到<br>我自愿相信你因为我准备找出真相<br>有一天我不会再相信停止你跳动的心脏<br>你怎能瞒过我怎能去压制我心里的火<br>嘴巴开了锁 谎话一句接一句的说<br>当你变成了小人事情做得漂亮<br>大量你撒谎的表情就像乌云之中的太阳<br>你幻想着别人任何的困难你来摆平<br>然后拍着胸膛说付出了真的感情<br>就算不尽人意可是你的计划却很顺利 顺着事情的恶化找到了你想要的利益<br>伪装的却是华丽 暴露的也很彻底<br>老套的模式像台机器虚情假意撕破你的面具<br>让你们看到了你所有的秘密没了意义我却只是路过你怎能瞒过我</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4294730)<br><br>2017-10-28 00:36<br>赞(2) 踩(0) | <div>你怎能瞒过我 自己扒的歌词 请轻拍。             欢迎你往我旁边凑 你的确特别逗<br>说谎像说唱 可我永远听不够<br>还呢么逼真 甚至合情合理<br>什么事儿你都行没有什么不可以<br>看来也许你命里就有这么一条定律<br>看见牛逼就像吹 就好像是性欲<br>你明明姓驴 可骗所有人都说你姓马<br>？<br>说实话 你自己都可能听不进去<br>因为你对你自己现在真的没一点兴趣<br>你忘了自己的声音 忘了自己长了什么样<br>欠的债越来越多 不撒谎 没法儿活<br>所以 你见了一支乐队就认识了主唱<br>军训摸过抢就他妈抢过银行还打过仗<br>所以你朋友去过那儿 你也就去过哪<br>买了一双vans 自然也就会玩滑板</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54875780)<br>收《SpidaBoi》《...<br>2017-10-20 14:55<br>赞(2) 踩(0) | <div>真心求重塑巴别塔和We On The World Tour 有的朋友请出给我 谢谢 求了几年了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203003339)<br><br>2017-10-13 11:04<br>赞(0) 踩(0) | <div>NB</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45900894)<br><br>2017-10-13 07:07<br>赞(0) 踩(0) | <div>两三年前分享微博无意看到很怀念！那些人呢！中国说唱还需要继续……年轻…人；继续听古典…</div> |
@@ -305,7 +305,7 @@ Email：        pact029@qq.com
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75721226)<br><br>2015-10-27 22:59<br>赞(0) 踩(0) | <div><a href="http://shuochangba.com" target="_blank" rel="nofollow noreferrer noopener">http://shuochangba.com</a>  欢迎喜欢说唱的朋友们~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39873037)<br>我还没想好要写什么...<br>2015-10-23 13:10<br>赞(0) 踩(0) | <div>最近迷恋</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74692550)<br><br>2015-10-18 19:31<br>赞(0) 踩(0) | <div>关注了 专辑评分不高哦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72736212)<br><br>2015-10-17 09:38<br>赞(0) 踩(0) | <div>欢迎来品尝 寳之林D DAY的mixtape【众神归位】 全部共计6首作品 风格分别为HARDcore、OLD SCHOOL、JAZZ、POP、G FUNK、TRAP<a href="http://i.xiami.com/dday?spm=a1z1s.6639473.350708669.1.XYEJAg" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/dday?spm=a1z1s.6639473.350708669.1.XYEJAg</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72736212)<br><br>2015-10-17 09:38<br>赞(0) 踩(0) | <div>欢迎来品尝 寳之林D DAY的mixtape【众神归位】 全部共计6首作品 风格分别为HARDcore、OLD SCHOOL、JAZZ、POP、G FUNK、TRAP<br><a href="http://i.xiami.com/dday?spm=a1z1s.6639473.350708669.1.XYEJAg" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/dday?spm=a1z1s.6639473.350708669.1.XYEJAg</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35373666)<br>trap love<br>2016-01-13 12:24<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50572214)<br>欢迎偷歌<br>2015-10-15 15:16<br>赞(0) 踩(0) | <div>闭关那么久终于出来啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25777603)<br><br>2015-10-13 15:31<br>赞(0) 踩(0) | <div>舒服</div> |

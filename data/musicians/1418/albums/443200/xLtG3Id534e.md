@@ -52,12 +52,12 @@ OK OK 只要别想太多 还OK OK
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169259438)<br>我还没想好要写什么...<br>2020-07-09 23:25<br>赞(0) 踩(0) | <div>亲亲大家 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169259438)<br>我还没想好要写什么...<br>2020-07-09 23:24<br>赞(0) 踩(0) | <div>爱上公主了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22004992)<br><br>2020-05-10 07:36<br>赞(0) 踩(0) | <div>The LEGO</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3136295)<br>明明是一条简单的直线，非...<br>2020-04-29 02:35<br>赞(0) 踩(0) | <div>知不知道开心的人对世界要善意很多？小乖乖，嗯？[愉快][愉快]</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3136295)<br>明明是一条简单的直线，非...<br>2020-04-29 02:35<br>赞(0) 踩(0) | <div>知不知道开心的人对世界要善意很多？<br>小乖乖，嗯？[愉快][愉快]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98051584)<br>Completely A...<br>2020-03-21 02:03<br>赞(1) 踩(0) | <div>我的 超人之歌！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169259438)<br>我还没想好要写什么...<br>2020-07-09 23:24<br>赞(0) 踩(0) | <div>哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4334438)<br>贫穷而倔强<br>2018-10-11 17:15<br>赞(0) 踩(0) | <div>目前来看，很不ok</div> |
@@ -65,7 +65,7 @@ OK OK 只要别想太多 还OK OK
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48898343)<br>生命已经过期<br>2018-04-13 10:31<br>赞(0) 踩(0) | <div>努力不去想未来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39874575)<br><br>2018-03-16 20:05<br>赞(0) 踩(0) | <div>公主</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4334438)<br>贫穷而倔强<br>2017-12-20 21:24<br>赞(0) 踩(0) | <div>好棒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3735956)<br><br>2017-10-30 10:10<br>赞(0) 踩(0) | <div>27岁多加几个附点渐渐的失眠弱点偏见多到来不及盘点重复的日子过了几年算都算不清楚拿什麽怀念允诺著习惯毫不检点OK OK 只要不看未来 还OK OKOK OK 只要别想过去 还OK OKOK OK 只要不看自己 还OK OKOK OK 只要别想太多 还OK OK</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3735956)<br><br>2017-10-30 10:10<br>赞(0) 踩(0) | <div>27岁多加几个附点<br>渐渐的失眠弱点偏见<br>多到来不及盘点<br>重复的日子过了几年<br>算都算不清楚拿什麽怀念<br>允诺著习惯毫不检点<br>OK OK 只要不看未来 还OK OK<br>OK OK 只要别想过去 还OK OK<br>OK OK 只要不看自己 还OK OK<br>OK OK 只要别想太多 还OK OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6800130)<br><br>2017-10-27 23:57<br>赞(1) 踩(0) | <div>所有独立、纯真、自我、略有些孩子气、情绪化都是需要才气来支撑的。 才气也是靠积累，靠各方面信息的收集与消化与筛选与总结，以及经历。要不然就是空架子，哪能经得起推敲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43970121)<br><br>2017-05-10 23:30<br>赞(1) 踩(0) | <div>因为难听才来的，一看评论果然我审美是正常的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50311333)<br>阿拉哦稀罕你<br>2017-03-19 18:29<br>赞(1) 踩(0) | <div>怎么听 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
@@ -76,7 +76,7 @@ OK OK 只要别想太多 还OK OK
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5388521)<br>我还没想好要写什么...<br>2015-04-07 16:21<br>赞(0) 踩(0) | <div>OK～OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8386785)<br><br>2015-03-31 15:58<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37861506)<br>暂无签名~<br>2014-11-11 15:41<br>赞(0) 踩(0) | <div>OK OK</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2165725)<br>我还没想好要写什么...<br>2014-10-17 01:13<br>赞(0) 踩(0) | <div>00</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2165725)<br>我还没想好要写什么...<br>2014-10-17 01:13<br>赞(0) 踩(0) | <div>0<br><br><br><br><br><br><br>0</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7942275)<br><br>2014-06-20 13:58<br>赞(0) 踩(0) | <div>陈珊妮好赞~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166435)<br>new music ne...<br>2014-06-10 14:29<br>赞(0) 踩(0) | <div>来一场OK的恋爱！去一趟OK的旅行~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15950795)<br> <br>2014-04-21 22:27<br>赞(1) 踩(0) | <div>走过几条热闹的街，看了几个热帖，为谁流下的几行热泪，你我的感觉是一样的，只是我们不必说的太知会，ok?ok!所谓的江湖情怀，还有一些梦想还是要继续，ok?ok!........</div> |
@@ -114,8 +114,8 @@ OK OK 只要别想太多 还OK OK
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7803203)<br> <br>2012-11-23 11:45<br>赞(0) 踩(0) | <div>最积极的消极歌曲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/673402)<br>我才不是摩羯座<br>2012-10-29 19:52<br>赞(0) 踩(0) | <div>我怎么没早点听这张碟.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343371)<br><br>2012-10-24 10:30<br>赞(0) 踩(0) | <div>ok.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34039)<br>好舍不得这里<br>2012-10-04 06:41<br>赞(0) 踩(0) | <div>{OK OK 只要不看未来 还OK OKOK OK 只要别想过去 还OK OK}</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744116)<br><br>2012-07-07 11:01<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲所谓的希望 我们抬头望 看… 远方重复的日子过了几年算都算不清楚拿什麼怀念允诺著习惯毫不检点微笑归纳成为优越理念悄悄的风险诈骗成见笼罩上你我眉眼</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34039)<br>好舍不得这里<br>2012-10-04 06:41<br>赞(0) 踩(0) | <div>{OK OK 只要不看未来 还OK OK<br>OK OK 只要别想过去 还OK OK}</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744116)<br><br>2012-07-07 11:01<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲<br>所谓的希望 我们抬头望 看… 远方<br>重复的日子过了几年<br>算都算不清楚拿什麼怀念<br>允诺著习惯毫不检点<br>微笑归纳成为优越理念<br>悄悄的风险诈骗成见<br>笼罩上你我眉眼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/705401)<br><br>2012-07-01 23:35<br>赞(0) 踩(0) | <div>&amp;quot;所谓的梦想 我们只是想 梦只是讲讲&amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3104168)<br><br>2012-06-16 15:56<br>赞(0) 踩(0) | <div>#蜜蜂私人电台# 听着这张专辑来上海，才女之作，这两年最喜欢的专辑。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2893706)<br><br>2012-06-12 21:52<br>赞(0) 踩(0) | <div>ok,ok,只要不看未来还ok,ok,ok,,只要不想过去还ok,ok,ok...</div> |
@@ -124,7 +124,7 @@ OK OK 只要别想太多 还OK OK
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3643839)<br><br>2012-06-05 06:50<br>赞(0) 踩(0) | <div>与电子乐的结合似乎一直是陈珊妮的风格，曾经有电子舞曲女王的称号</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/959735)<br><br>2012-05-29 14:42<br>赞(0) 踩(0) | <div>恢复元气 疯癫起来 黑喂狗！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1247390)<br><br>2012-04-29 19:13<br>赞(0) 踩(0) | <div>ok</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8205195)<br><br>2012-03-14 22:02<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲所谓的希望 我们抬头望 看… 远方...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8205195)<br><br>2012-03-14 22:02<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲<br>所谓的希望 我们抬头望 看… 远方...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5787409)<br><br>2012-03-10 10:58<br>赞(0) 踩(0) | <div>&amp;amp;quot;所谓的梦想 我们只是想 梦只是讲讲&amp;amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7578569)<br><br>2012-03-08 19:07<br>赞(0) 踩(0) | <div>只要别想过去，OK，只要别想太多，OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313505)<br><br>2012-02-15 15:46<br>赞(0) 踩(0) | <div>ok</div> |
@@ -139,20 +139,20 @@ OK OK 只要别想太多 还OK OK
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/663877)<br><br>2011-12-21 16:57<br>赞(0) 踩(0) | <div>so don't ask me about my future</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3145287)<br><br>2011-12-20 17:32<br>赞(0) 踩(0) | <div>珊妮 阿姨..偶爱尼... 让偶也OK一下吧..偶不能刷了..偶要干活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/798887)<br>多的是你不知道的Ⅹ<br>2011-12-19 10:16<br>赞(0) 踩(0) | <div>很灵动的旋律,喜欢喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/535199)<br><br>2011-12-16 17:53<br>赞(0) 踩(0) | <div>OK OK 只要不看未来 还OK OKOK OK 只要别想过去 还OK OK</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/535199)<br><br>2011-12-16 17:53<br>赞(0) 踩(0) | <div>OK OK 只要不看未来 还OK OK<br>OK OK 只要别想过去 还OK OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4268416)<br><br>2011-12-16 16:04<br>赞(0) 踩(0) | <div>调调I like</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7070884)<br><br>2011-12-02 23:22<br>赞(0) 踩(0) | <div>在这个凉飕飕的晚上，最适合听这种小清新的歌，这首歌已经被我不断地循环好多遍了····</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1411244)<br><br>2011-12-01 22:32<br>赞(0) 踩(0) | <div>删了你的电话，就是怕难受的时候会忍不住打给你，比如现在。好吧，梦里见吧。都快不记得你的声音了、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1411244)<br><br>2011-12-01 22:17<br>赞(0) 踩(0) | <div>删了你的电话，就是怕在难受的时候会忍不住打给你，比如现在。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2654640)<br><br>2011-11-29 11:46<br>赞(0) 踩(0) | <div>OK OK 只要不看未来 还OK OKOK OK 只要别想过去 还OK OK</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2654640)<br><br>2011-11-29 11:45<br>赞(0) 踩(0) | <div>OK OK 只要不看自己 还OK OKOK OK 只要别想太多 还OK OK</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2654640)<br><br>2011-11-29 11:46<br>赞(0) 踩(0) | <div>OK OK 只要不看未来 还OK OK<br>OK OK 只要别想过去 还OK OK</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2654640)<br><br>2011-11-29 11:45<br>赞(0) 踩(0) | <div>OK OK 只要不看自己 还OK OK<br>OK OK 只要别想太多 还OK OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2358960)<br>serendipity<br>2011-11-23 21:27<br>赞(0) 踩(0) | <div>渐渐的失眠弱点偏见 多到来不及盘点 ok ok 只要不看未来 只要别想过去 还ok ok~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5973366)<br><br>2011-11-17 09:56<br>赞(0) 踩(0) | <div>轻快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263569)<br><br>2011-11-07 13:00<br>赞(0) 踩(0) | <div>所谓的梦想，我们只是想，梦只是讲讲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4154380)<br><br>2011-11-02 13:42<br>赞(0) 踩(0) | <div>oooooooooo nicenicenice</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1984576)<br>NO WOMAN NO ...<br>2011-10-30 19:40<br>赞(0) 踩(0) | <div>支持Sandee唱欢快的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6333425)<br><br>2011-10-29 17:47<br>赞(0) 踩(0) | <div>渐渐的失眠 弱点 偏见 多到来不及盘点OKOK IT'S OK~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6333425)<br><br>2011-10-29 17:45<br>赞(0) 踩(0) | <div>渐渐的失眠 弱点 偏见 多到来不及盘点~OKOK~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6333425)<br><br>2011-10-29 17:47<br>赞(0) 踩(0) | <div>渐渐的失眠 弱点 偏见 多到来不及盘点<br>OKOK IT'S OK~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6333425)<br><br>2011-10-29 17:45<br>赞(0) 踩(0) | <div>渐渐的失眠 弱点 偏见 多到来不及盘点~<br>OKOK~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2918351)<br><br>2011-10-19 11:46<br>赞(0) 踩(0) | <div>还ok的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6262346)<br><br>2011-10-15 12:53<br>赞(0) 踩(0) | <div>感觉不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5879)<br><br>2011-10-11 23:25<br>赞(0) 踩(0) | <div>只要不看未來 還OKOK 只要別想過去 還OKOK</div> |
@@ -182,12 +182,12 @@ OK OK 只要别想太多 还OK OK
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/471121)<br><br>2011-07-25 10:29<br>赞(0) 踩(0) | <div>小调调...灰常舒服...不用很深的唱功...就轻轻的唱...认真做考勤的我...需要营养下下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2281358)<br><br>2011-07-23 10:02<br>赞(0) 踩(0) | <div>允诺着习惯毫不检点 微笑归纳成优越理念 悄悄的风险诈骗成见 笼罩上你我眉眼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4324507)<br><br>2011-07-21 01:09<br>赞(0) 踩(0) | <div>Yes, thank you. I\'m ok!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1328331)<br><br>2011-07-20 16:14<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲所谓的希望 我们抬头望 看… 远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1328331)<br><br>2011-07-20 16:14<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲<br>所谓的希望 我们抬头望 看… 远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4922939)<br><br>2011-07-20 11:00<br>赞(0) 踩(0) | <div>很陈珊妮，是我的菜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2413825)<br><br>2011-07-15 19:15<br>赞(0) 踩(0) | <div>只要不看未来 还OK只要别想过去 还OK</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2413825)<br><br>2011-07-15 19:15<br>赞(0) 踩(0) | <div>只要不看未来 还OK<br>只要别想过去 还OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1548607)<br><br>2011-07-15 13:22<br>赞(0) 踩(0) | <div>I like it</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4820479)<br><br>2011-07-12 18:34<br>赞(0) 踩(0) | <div>美妙的女人。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4807349)<br><br>2011-07-11 16:28<br>赞(0) 踩(0) | <div>所谓的梦想我们只是想梦只是讲讲所谓的希望我们抬头望看… 远方19岁的生日过了几天算都算不清楚拿什麼纪念27岁多加几个附点允诺著习惯毫不检点微笑归纳成为优越理念悄悄的风险诈骗成见笼罩上你我眉眼只要不看自己还OK只要别想太多还OK</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4807349)<br><br>2011-07-11 16:28<br>赞(0) 踩(0) | <div>所谓的梦想我们只是想梦只是讲讲<br>所谓的希望我们抬头望看… 远方<br>19岁的生日过了几天<br>算都算不清楚拿什麼纪念<br>27岁多加几个附点<br>允诺著习惯毫不检点<br>微笑归纳成为优越理念<br>悄悄的风险诈骗成见<br>笼罩上你我眉眼<br>只要不看自己还OK<br>只要别想太多还OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1677989)<br><br>2011-07-10 22:53<br>赞(0) 踩(0) | <div>所谓的梦想我们只是想梦只是讲讲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1856379)<br><br>2011-07-10 10:01<br>赞(0) 踩(0) | <div>封面太帅气了，怎么能不分享</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/156036)<br><br>2011-07-09 16:02<br>赞(0) 踩(0) | <div>很迷幻~~很可爱~~~</div> |
@@ -210,7 +210,7 @@ OK OK 只要别想太多 还OK OK
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4706340)<br><br>2011-07-03 20:24<br>赞(0) 踩(0) | <div>很喜欢啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4721178)<br><br>2011-07-03 12:52<br>赞(0) 踩(0) | <div>挺好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3259825)<br>啊喔鹅咿呜<br>2011-07-02 21:09<br>赞(0) 踩(0) | <div>OK不OK 这是个问题</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/470267)<br><br>2011-07-02 16:56<br>赞(0) 踩(0) | <div>所谓的梦想我们只是想梦只是讲讲所谓的希望我们抬头望看…远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/470267)<br><br>2011-07-02 16:56<br>赞(0) 踩(0) | <div>所谓的梦想我们只是想梦只是讲讲<br>所谓的希望我们抬头望看…远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4711777)<br><br>2011-07-02 11:41<br>赞(0) 踩(0) | <div>~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4710375)<br>泡桐花开 。<br>2011-07-02 10:11<br>赞(0) 踩(0) | <div>ok  陈珊妮依然陈珊妮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2197281)<br><br>2011-07-02 02:22<br>赞(0) 踩(0) | <div>胡搅蛮缠什么时候是个头 誰来代表正义惩罚我 ok ok ok只要别想太多！</div> |
@@ -278,8 +278,8 @@ OK OK 只要别想太多 还OK OK
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3103310)<br><br>2011-06-20 21:28<br>赞(0) 踩(0) | <div>OKOKOK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2771693)<br><br>2011-06-20 20:52<br>赞(0) 踩(0) | <div>#陈氏轻电音# 不看未来不想过去 OKOK~ Relax~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/529356)<br><br>2011-06-20 15:52<br>赞(0) 踩(0) | <div>只要不看未来还ok</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4121541)<br><br>2011-06-20 15:45<br>赞(0) 踩(0) | <div>只要不看未来 还OK OK~只要别想过去 还OK OK~~。。。。。。。。。。。。。.......................闷热午后，一切放轻松。。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4121541)<br><br>2011-06-20 15:44<br>赞(0) 踩(0) | <div>只要不看未来 还OK OK只要别想过去 还OK OK~~。。。。。。。。。。。。。。。。。。。。。。。。。。闷热午后，一切放轻松。。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4121541)<br><br>2011-06-20 15:45<br>赞(0) 踩(0) | <div>只要不看未来 还OK OK~<br>只要别想过去 还OK OK~~<br>。。。。。。。。。。。。。<br>.......................<br>闷热午后，一切放轻松。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4121541)<br><br>2011-06-20 15:44<br>赞(0) 踩(0) | <div>只要不看未来 还OK OK<br>只要别想过去 还OK OK~~<br>。。。。。。。。。。。。<br>。。。。。。。。。。。。。。<br>闷热午后，一切放轻松。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2389169)<br><br>2011-06-20 12:44<br>赞(0) 踩(0) | <div>刚好在此时需要这样的歌，戳到了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321745)<br>祝大家财源广进！<br>2011-06-20 12:01<br>赞(0) 踩(0) | <div>心情好啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321745)<br>祝大家财源广进！<br>2011-06-20 12:00<br>赞(0) 踩(0) | <div>真的好听！个欢快释然～</div> |
@@ -290,25 +290,25 @@ OK OK 只要别想太多 还OK OK
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4349729)<br><br>2011-06-19 21:54<br>赞(0) 踩(0) | <div>很喜欢了  很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4317725)<br><br>2011-06-19 21:44<br>赞(0) 踩(0) | <div>不错，非常的好---</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4239246)<br><br>2011-06-19 21:37<br>赞(0) 踩(0) | <div>舒服</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2010)<br>你先看什么，我写给你看鸭...<br>2011-06-19 18:44<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲所谓的希望 我们抬头望 看… 远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2010)<br>你先看什么，我写给你看鸭...<br>2011-06-19 18:44<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲<br>所谓的希望 我们抬头望 看… 远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3711547)<br><br>2011-06-19 17:05<br>赞(0) 踩(0) | <div>恩。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3801391)<br><br>2011-06-19 13:19<br>赞(0) 踩(0) | <div>只要不看未来 还OKOK只要不想过去 还OKOK这太tm写实了！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3801391)<br><br>2011-06-19 13:19<br>赞(0) 踩(0) | <div>只要不看未来 还OKOK<br>只要不想过去 还OKOK<br>这太tm写实了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230419)<br><br>2011-06-19 06:16<br>赞(0) 踩(0) | <div>前奏瞬间捕获人心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/959735)<br><br>2011-06-19 01:11<br>赞(0) 踩(0) | <div>放松松~everything’s OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4339731)<br> <br>2011-06-19 00:58<br>赞(0) 踩(0) | <div>就是全部都爱的专辑john</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4188797)<br><br>2011-06-19 00:03<br>赞(0) 踩(0) | <div>很很喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110251)<br><br>2011-06-18 22:33<br>赞(0) 踩(0) | <div>多么贴切的歌词。OKOK,只要不看未来，只要别想过去，只要不看自己，一切都OKOK.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117786)<br><br>2011-06-18 21:54<br>赞(0) 踩(0) | <div>ok ok la~~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2011-06-18 14:34<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲现在自己就是这样 残念得很</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2011-06-18 14:34<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲<br>现在自己就是这样 残念得很</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2011-06-18 14:32<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲T T</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4332548)<br><br>2011-06-18 13:45<br>赞(0) 踩(0) | <div>自由</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64696)<br>新浪微博@破产美剧迷<br>2011-06-18 09:11<br>赞(0) 踩(0) | <div>陈老师变得明亮了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2336258)<br><br>2011-06-18 00:27<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲所谓的希望 我们抬头望 看… 远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2336258)<br><br>2011-06-18 00:27<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲<br>所谓的希望 我们抬头望 看… 远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143550)<br><br>2011-06-17 23:28<br>赞(0) 踩(0) | <div>所谓的梦想 我们只是想 梦只是讲讲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/934310)<br> <br>2011-06-17 23:14<br>赞(0) 踩(0) | <div>节奏欢乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/856026)<br>♫ ☮ ♥<br>2011-06-17 22:15<br>赞(0) 踩(0) | <div>只要別想太多 還OK!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3980162)<br><br>2011-06-17 22:03<br>赞(0) 踩(0) | <div>棒！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336196)<br>暂无签名~<br>2011-06-17 21:14<br>赞(0) 踩(0) | <div>这前奏好象 某一曲！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336196)<br>暂无签名~<br>2011-06-17 21:14<br>赞(0) 踩(0) | <div>这前奏好象 某一曲<br>！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1935908)<br>stand by me<br>2011-06-17 20:38<br>赞(0) 踩(0) | <div>还行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2441694)<br><br>2011-06-17 18:49<br>赞(0) 踩(0) | <div>调调很欢快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3333589)<br><br>2011-06-17 14:41<br>赞(0) 踩(0) | <div>阿魏酸</div> |

@@ -61,8 +61,8 @@ SP 环球音乐出版股份有限公司
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49286118)<br>节制的人生<br>2020-06-24 16:19<br>赞(0) 踩(0) | <div>记得</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304820979)<br><br>2020-02-08 00:44<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401506172)<br>一首歌的故事，慢慢说<br>2019-10-14 19:41<br>赞(1) 踩(0) | <div>今天看到一个悲伤的新闻想到这首歌，唏嘘，被掩饰的脆弱心肠。</div> |
@@ -135,10 +135,10 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2165725)<br>我还没想好要写什么...<br>2014-10-17 01:01<br>赞(0) 踩(0) | <div>00</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24014723)<br>暂无签名~<br>2014-10-10 00:14<br>赞(0) 踩(0) | <div>各种暴力的开场 都在掩饰脆弱的心肠 重复的残忍和忧伤 黑夜之下 闪着破碎的光 告诉她 你对爱的恐慌 你的伤 留在她的脸颊 你就是 摧毁你的力量 破碎的人啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10455485)<br>I’m here<br>2014-10-05 12:42<br>赞(0) 踩(0) | <div>我太喜欢这首啦我太喜欢这首啦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4842792)<br>我还没想好要写什么...<br>2014-09-18 12:41<br>赞(0) 踩(0) | <div>告诉他 你对爱的恐慌告诉他 世界有多疯狂你的伤 留在她的脸颊你就是 摧毁你的力量</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4842792)<br>我还没想好要写什么...<br>2014-09-18 12:41<br>赞(0) 踩(0) | <div>告诉他 你对爱的恐慌<br>告诉他 世界有多疯狂<br>你的伤 留在她的脸颊<br>你就是 摧毁你的力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10438621)<br><br>2014-05-14 02:57<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2927160)<br>不管是哭泣着或微笑着与你...<br>2014-04-30 10:25<br>赞(1) 踩(0) | <div>旋律简直让人不能自拔</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6870158)<br><br>2014-03-10 23:49<br>赞(0) 踩(0) | <div>各种暴力的开场都在掩饰脆弱的心肠重复的残忍和悲伤黑夜之下闪着破碎的光</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6870158)<br><br>2014-03-10 23:49<br>赞(0) 踩(0) | <div>各种暴力的开场<br>都在掩饰脆弱的心肠<br>重复的残忍和悲伤<br>黑夜之下闪着破碎的光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25779251)<br> <br>2014-02-06 13:18<br>赞(0) 踩(0) | <div>词跟曲都好喜欢，我爱陈珊妮！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8966531)<br>꿈에서라도만나지마<br>2014-02-01 23:48<br>赞(0) 踩(0) | <div>单曲循环的节奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15469328)<br>EXIST<br>2014-01-16 20:43<br>赞(0) 踩(0) | <div>在写长评的时候一直在听这首歌。。歌词和FZ的感觉实在太贴切所以不经意就循环了。</div> |
@@ -149,7 +149,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21688841)<br> <br>2013-09-11 12:07<br>赞(0) 踩(0) | <div>破碎的人阿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17865073)<br><br>2013-08-15 13:16<br>赞(0) 踩(0) | <div>到底怎么贴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6754257)<br><br>2013-08-15 12:54<br>赞(0) 踩(0) | <div>陈女王总算有首歌让我喜欢。适合下午和饿了的时候听。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415478)<br> <br>2013-08-13 08:37<br>赞(0) 踩(0) | <div>告诉他 你对爱的恐慌告诉他 世界有多疯狂你的伤 留在她的脸颊你就是 摧毁你的力量</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415478)<br> <br>2013-08-13 08:37<br>赞(0) 踩(0) | <div>告诉他 你对爱的恐慌<br>告诉他 世界有多疯狂<br>你的伤 留在她的脸颊<br>你就是 摧毁你的力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18713362)<br><br>2013-08-07 23:03<br>赞(0) 踩(0) | <div>不管世界变的怎样，只要坚强，哪怕悲伤也会闪闪发亮。晚安！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9156768)<br> <br>2013-07-21 21:34<br>赞(0) 踩(0) | <div>告诉他 你对爱的恐慌 告诉他 世界有多疯狂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1923077)<br><br>2013-07-20 20:23<br>赞(0) 踩(0) | <div>哎呀，突然就这样了</div> |
@@ -169,12 +169,12 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3054699)<br><br>2013-07-03 21:48<br>赞(0) 踩(0) | <div>时下这砖 貌似收了锋芒 难道创作风格彰显年岁 不可不可啊 还是从前那些令人怀念 虽然这也还算诱耳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/464671)<br>我还没想好要写什么...<br>2013-07-03 04:48<br>赞(0) 踩(0) | <div>走过的路，破碎的人，拼凑的记忆~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/464671)<br>我还没想好要写什么...<br>2013-07-03 04:41<br>赞(0) 踩(0) | <div>good~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6169864)<br>聽過很多大道理，依然過不...<br>2013-07-02 23:50<br>赞(0) 踩(0) | <div>我爱你和酸了的汤游标指的方向…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6169864)<br>聽過很多大道理，依然過不...<br>2013-07-02 23:50<br>赞(0) 踩(0) | <div>我爱你和酸了的汤<br>游标指的方向…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4758357)<br>我还没想好要写什么...<br>2013-07-02 23:37<br>赞(0) 踩(0) | <div>你就是摧毁你的力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12348008)<br><br>2013-07-02 15:14<br>赞(0) 踩(0) | <div>new piece</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1378978)<br>BaekJun<br>2013-07-02 12:29<br>赞(0) 踩(0) | <div>Now playing</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16686766)<br><br>2013-07-02 10:40<br>赞(0) 踩(0) | <div>沉淀夏日浮躁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7717542)<br><br>2013-07-01 20:53<br>赞(1) 踩(0) | <div>莫名想到莉莉周.</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882789)<br><br>2013-07-04 12:51<br>赞(0) 踩(0) | <div>嗯 我也是</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2013-07-01 12:20<br>赞(0) 踩(0) | <div><a href="http://emumo.xiami.com/u/30705" target="_blank" rel="nofollow" name_card="30705">@beson</a>重复的残忍和忧伤——貌似是悲伤。而且第二段歌词写的也是悲伤，她唱的两段也都是“悲伤”。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2013-07-01 12:20<br>赞(0) 踩(0) | <div><a href="http://emumo.xiami.com/u/30705" target="_blank" rel="nofollow" name_card="30705">@beson</a><br>重复的残忍和忧伤——貌似是悲伤。而且第二段歌词写的也是悲伤，她唱的两段也都是“悲伤”。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30705)<br>我还没想好要写什么...<br>2013-07-01 12:47<br>赞(0) 踩(0) | <div>改了</div> |

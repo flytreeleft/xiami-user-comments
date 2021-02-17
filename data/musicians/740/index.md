@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7b90c00e7eb37fda02491435de101429.jpg)<br>满江](https://i.xiami.com/manjiang) | **播放数**: 14227927<br>**粉丝数**: 5005<br>**评论数**: 256<br>**地区**: China 中国大陆<br>**风格**: 民谣 Folk, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/7b90c00e7eb37fda02491435de101429.jpg)<br>满江](https://i.xiami.com/manjiang) | **地区**: China 中国大陆<br>**风格**: 民谣 Folk, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 14227927<br>**粉丝数**: 5005<br>**评论数**: 256<br> |
 
 ## 档案
 
@@ -75,8 +75,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1168284)<br><br>2021-01-12 14:42<br>赞(0) 踩(0) | <div>红不起来的原因是：歌迷不想让你红。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354225018)<br><br>2020-12-28 08:48<br>赞(1) 踩(0) | <div>耐听王</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43151921)<br><br>2020-10-20 21:25<br>赞(0) 踩(0) | <div>如果还有坚持下去的理由就坚持下！</div> |
@@ -109,7 +109,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262197195)<br>我对你仍有爱意，我对自己...<br>2018-09-06 07:39<br>赞(3) 踩(0) | <div>我上学时候超级喜欢他，一看见海报或者听他的歌心里就觉得暖暖的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355148578)<br>我还没想好要写什么...<br>2018-08-17 03:13<br>赞(2) 踩(0) | <div>喜欢新的你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335724017)<br><br>2018-08-09 11:01<br>赞(0) 踩(0) | <div>满江你青少年时就已经成名了，对我一个普通人还这么低调！好感动阿！我要是作词、作曲和编曲、创意都很棒的话，一定按你的气质和声线为你打造一首歌曲，让你重新辉煌如日月之光！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2018-07-23 01:21<br>赞(0) 踩(0) | <div>Zen Chien7月21日下午7:13 &amp;middot;去年來北京製作的專輯終於拿到了#滿江 #冬某日#華語音樂傳媒大獎最佳男歌手</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2018-07-23 01:21<br>赞(0) 踩(0) | <div>Zen Chien<br>7月21日下午7:13 &amp;middot;<br>去年來北京製作的專輯終於拿到了<br>#滿江 #冬某日<br>#華語音樂傳媒大獎最佳男歌手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303506160)<br>因为我对你爱的深沉<br>2018-06-14 06:35<br>赞(1) 踩(0) | <div>嘿呦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244935183)<br><br>2018-05-21 20:30<br>赞(2) 踩(0) | <div>让人从一而终的歌手真的不多，恰好我们是如此善变又挑剔的听者。有些人就像一杯酒，越久越醇香&amp;hellip;曾经的清新曲目依旧可以入耳，还有让人心碎的 《天使的孩子》 直至最新的摇滚转型都是人生轨迹的写照&amp;hellip;活成这样，对音乐纯粹，且从一而终，精心呵护，不改初心&amp;hellip;能跃入脑海的李健，满江&amp;hellip;说实话自私的希望你们一如既往的小众私有&amp;hellip;但你们的才华不应该被埋没。不争不抢顺其自然&amp;hellip;好的人知道你的好，应该且值得被更多人熟知和认可&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53274361)<br>去了天堂请记住我的声音<br>2018-05-14 01:58<br>赞(0) 踩(0) | <div>满江老师，期待您回访我的主页 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
@@ -155,7 +155,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/641829)<br>暂无签名~<br>2017-04-09 21:54<br>赞(0) 踩(0) | <div>是的，很喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43905355)<br><br>2017-04-04 14:00<br>赞(1) 踩(0) | <div>他特别喜欢你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101199022)<br>秋雁两行江上雨<br>2017-04-03 19:27<br>赞(1) 踩(0) | <div>力挺满江  歌好有深度 喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259589883)<br><br>2017-04-02 23:38<br>赞(1) 踩(0) | <div>喜欢《归来》心有所向的地方魂牵梦萦的故乡埋藏梦想的地方有没有花开成海洋</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259589883)<br><br>2017-04-02 23:38<br>赞(1) 踩(0) | <div>喜欢《归来》<br>心有所向的地方<br>魂牵梦萦的故乡<br>埋藏梦想的地方<br>有没有花开成海洋</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274852371)<br><br>2017-03-29 03:13<br>赞(2) 踩(0) | <div>记得没错的话98年出道的，那年我在北京15岁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33995595)<br><br>2017-03-26 14:34<br>赞(2) 踩(0) | <div>小时候觉得帅哥就是这个样子。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40229239)<br><br>2017-03-26 00:30<br>赞(3) 踩(0) | <div>演艺界的一朵莲花，出於泥而不染，超凡脱俗！</div> |
@@ -177,7 +177,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/811354)<br><br>2017-01-11 12:16<br>赞(2) 踩(0) | <div>满江  请加油！距离你的好时光已经不远了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70772964)<br>Road to Rede...<br>2017-01-08 16:07<br>赞(0) 踩(0) | <div>❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97747450)<br>我还没想好要写什么...<br>2016-12-14 23:13<br>赞(0) 踩(0) | <div>6447</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2016-12-13 20:24<br>赞(3) 踩(0) | <div>其实一直都没忘记过他 虽说平时不怎么听了但是偶尔还是能看见他的消息(大概一年半载看见一次吧哈哈)昨天晚上看完天下足球 换台 好像是内地独立音乐频道还是啥 播了一场他的小型演唱会 然后刚才吃完饭听歌就想着搜他一下 记忆中他有个砖叫四舍五入 那时候上初中即将毕业吧 他打榜啊啥的 还得了挺多奖好像 再之前索尼当时签下他 好像内地第一位吧四舍五入 我们之间是记忆中他的曲风 刚才听了好多首 蛮喜欢多变的海的 他的第一首歌对了推荐一下 很早期的奇迹那张砖里的 屋顶上的秋天(后现代之倒转乾坤版) 哈哈哈 这首特魔性噢不造为啥听满江时候我不由自主的会想起萧贺硕 然后刚把满江的歌听完 ...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2016-12-13 20:24<br>赞(3) 踩(0) | <div>其实一直都没忘记过他 虽说平时不怎么听了但是偶尔还是能看见他的消息(大概一年半载看见一次吧哈哈)<br>昨天晚上看完天下足球 换台 好像是内地独立音乐频道还是啥 播了一场他的小型演唱会 然后刚才吃完饭听歌就想着搜他一下 记忆中他有个砖叫四舍五入 那时候上初中即将毕业吧 他打榜啊啥的 还得了挺多奖好像 再之前索尼当时签下他 好像内地第一位吧<br>四舍五入 我们之间是记忆中他的曲风 刚才听了好多首 蛮喜欢多变的海的 他的第一首歌<br>对了推荐一下 很早期的奇迹那张砖里的 屋顶上的秋天(后现代之倒转乾坤版) 哈哈哈 这首特魔性噢<br><br>不造为啥听满江时候我不由自主的会想起萧贺硕 然后刚把满江的歌听完 ...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2016-12-13 19:21<br>赞(1) 踩(0) | <div>我觉得他挺酷的 同时还挺容易亲近的 矛盾么哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49640493)<br>网易云SAINTDONT...<br>2016-11-28 13:32<br>赞(1) 踩(0) | <div>请你等我 等我 我在努力的朝着有你的地方狂奔 等我 我在努力 我要给你最好的我 等我</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225014964)<br><br>2016-11-21 23:35<br>赞(1) 踩(0) | <div>有水准，确实值得收藏的好歌曲</div> |
@@ -291,7 +291,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101096)<br><br>2013-11-02 22:13<br>赞(0) 踩(0) | <div>带着温暖的声音。适合深秋听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1105139)<br>你听过千百首歌，真实的日...<br>2013-10-10 22:53<br>赞(95) 踩(0) | <div>我常常觉得满江真是很少有的非常有诚意的歌手。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52081547)<br> <br>2016-02-27 08:30<br>赞(0) 踩(0) | <div>好歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2797953)<br>音乐是单调生活的调味剂，...<br>2013-08-06 22:45<br>赞(0) 踩(0) | <div>我是他的粉丝哦，一听他的歌就想起很多很多哦好听真的好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2797953)<br>音乐是单调生活的调味剂，...<br>2013-08-06 22:45<br>赞(0) 踩(0) | <div>我是他的粉丝哦，一听他的歌就想起很多很多哦<br>好听真的好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/909047)<br><br>2013-07-08 14:43<br>赞(0) 踩(0) | <div>曾经有一个我喜欢的歌手叫做满江，重听，听着听着那首歌，流下眼泪，后知后觉的时光，一直都为了那理想。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7601068)<br>音乐就是我每天要吸的新鲜<br>2013-06-25 16:08<br>赞(154) 踩(0) | <div>这么好的歌手居然没红起来！真够讽刺的。。。。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1411564)<br>耳朵想旅行<br>2015-01-16 11:48<br>赞(0) 踩(0) | <div>十年前有一阵子还是蛮红的，上学时候还K过他的歌~ 后来就消失了……</div> |

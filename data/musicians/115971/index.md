@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b81dc511f111754fafdcde67ca5703d9.jpg)<br>梁雨](https://i.xiami.com/liangyu) | **播放数**: 1085107<br>**粉丝数**: 156<br>**评论数**: 22<br>**地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 独立民谣 Indie Folk, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/b81dc511f111754fafdcde67ca5703d9.jpg)<br>梁雨](https://i.xiami.com/liangyu) | **地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 独立民谣 Indie Folk, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 1085107<br>**粉丝数**: 156<br>**评论数**: 22<br> |
 
 ## 档案
 
@@ -29,8 +29,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425206898)<br><br>2020-01-12 23:45<br>赞(0) 踩(0) | <div>昨晚见到本人，声音真的好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337819228)<br><br>2019-08-08 18:30<br>赞(1) 踩(0) | <div>我好像发现了宝藏！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261594922)<br>一杯酒，一首歌，一个人....<br>2019-08-02 11:16<br>赞(0) 踩(0) | <div>加油↖(^ω^)↗</div> |

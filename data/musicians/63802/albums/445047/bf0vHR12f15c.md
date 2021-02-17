@@ -43,12 +43,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427502637)<br><br>2019-09-08 13:45<br>赞(1) 踩(0) | <div>伍佰老师的歌 给对人就是神曲 给错人就会默默无闻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427502637)<br><br>2019-09-08 13:38<br>赞(1) 踩(0) | <div>不要不要啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79640408)<br>我期待人生艳丽<br>2019-05-06 16:37<br>赞(1) 踩(0) | <div>想听伍佰老师唱！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-04-20 16:18<br>赞(1) 踩(0) | <div>编曲：林振益制作人：伍佰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-04-20 16:18<br>赞(1) 踩(0) | <div>编曲：林振益<br>制作人：伍佰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368916693)<br><br>2019-04-08 20:31<br>赞(1) 踩(0) | <div>这歌如果杨乃文唱可能会很酷。毕竟杨乃文把多年前写给奶茶的《最初的地方》唱的很屌很有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368916693)<br><br>2019-04-01 21:09<br>赞(1) 踩(0) | <div>伍佰&amp;amp;CHINA BLUE5月在上海和杭州都有演唱会5月还有新专辑发行 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288359783)<br>爱摇滚、爱旋律爱沙发音乐...<br>2018-11-11 22:53<br>赞(2) 踩(0) | <div>原来是我伍佰大哥作词作曲！</div> |

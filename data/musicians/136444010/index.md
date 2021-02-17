@@ -3,7 +3,7 @@ NaCho.
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/30ce2bb8d8f63afcd6d442fc7abd4a2d.jpg)<br>NaCho.](https://i.xiami.com/ghettomaster) | **播放数**: 3828441<br>**粉丝数**: 693<br>**评论数**: 40<br>**地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap<br> |
+| [![](../../images/musicians/30ce2bb8d8f63afcd6d442fc7abd4a2d.jpg)<br>NaCho.](https://i.xiami.com/ghettomaster) | **地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap<br>**播放数**: 3828441<br>**粉丝数**: 693<br>**评论数**: 40<br> |
 
 ## 档案
 
@@ -42,8 +42,8 @@ NaCho.
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213591621)<br>正因为一无所有，所以才能...<br>2020-08-24 03:44<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7887426)<br>papabibibobo<br>2020-08-15 00:47<br>赞(0) 踩(0) | <div>Brilliant!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422836347)<br>just enjoy i...<br>2020-05-15 22:20<br>赞(0) 踩(0) | <div>加油！</div> |

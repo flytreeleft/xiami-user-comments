@@ -76,8 +76,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334426643)<br><br>2019-11-22 23:26<br>赞(0) 踩(0) | <div>棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3454225)<br>我还没想好要写什么...<br>2019-09-03 09:03<br>赞(0) 踩(0) | <div>情感最痛如钝刀厮磨，当断不断。痛极平静的深沉，唯有杨乃文。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/535313)<br><br>2019-03-05 21:11<br>赞(2) 踩(0) | <div>高中时入坑的杨乃文，当时就是买的这张专辑啊</div> |

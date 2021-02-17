@@ -53,8 +53,8 @@ Na~Na~Na~
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268374432)<br>天暗下来，你就是光。<br>2020-08-22 21:09<br>赞(1) 踩(0) | <div>夏天已逝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434234959)<br><br>2020-08-02 22:33<br>赞(1) 踩(0) | <div>一转眼都过去7年了！！我的青春歌曲排第一的永远都是这首《微笑的弧度》！！那个用诺基亚给我录她自己唱歌的女孩可能以后我们再也不会相见了！但如果遇见了，我会说谢谢你！是你让我的青春变得圆满！！谢谢你XYZ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6666339)<br><br>2020-07-12 19:16<br>赞(1) 踩(0) | <div>我觉得这首歌很温暖啊</div> |
@@ -78,7 +78,7 @@ Na~Na~Na~
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233112666)<br> <br>2019-06-17 15:47<br>赞(1) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378579733)<br><br>2019-06-10 22:42<br>赞(1) 踩(0) | <div>请问 歌词是什么语言呀 知道的朋友能否提供一下译文或者大概意思 谢啦 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14237)<br><br>2019-05-23 08:47<br>赞(1) 踩(0) | <div>手风琴那段真是好听到爆了 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6655133)<br><br>2019-04-11 21:35<br>赞(1) 踩(0) | <div>2009年春末夏初单曲循环了整个美好或忧郁的日子旋律是有记忆的……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6655133)<br><br>2019-04-11 21:35<br>赞(1) 踩(0) | <div>2009年<br>春末夏初<br>单曲循环了整个美好或忧郁的日子<br>旋律是有记忆的……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409193535)<br><br>2019-03-23 14:06<br>赞(4) 踩(0) | <div>我多年前在卓越亚马逊买了这样专辑，最开始带给我的感觉是温暖，现在带给我的是宁静。谢谢作者。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127862754)<br>我还没想好要写什么...<br>2019-03-06 17:30<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7961087)<br>穷到冒烟的独立音乐人。<br>2019-02-21 02:27<br>赞(4) 踩(0) | <div>我想知道，如果在付费订阅 Apple music 里下载这张专辑，收入会给作者吗？</div> |
@@ -92,7 +92,7 @@ Na~Na~Na~
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34494916)<br><br>2018-09-07 18:09<br>赞(3) 踩(0) | <div>最喜欢这种无意识的哼唱，孕期不停地单独听这首歌，希望宝贝出生后也能喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344191963)<br><br>2018-07-26 22:56<br>赞(3) 踩(0) | <div>蓝天，青草，希望</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3066900)<br>静静地聆听每一首歌曲背后...<br>2018-06-18 19:22<br>赞(3) 踩(0) | <div>有歌词吗？声音好好听，仿佛天籁</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78482626)<br>chenchenho<br>2018-06-19 17:36<br>赞(0) 踩(0) | <div>微笑的弧度(Vocal 版)Silent LoveWoo Wa Cha Va Sa BiShu Wa Cha Va Sa DiHar Na Va Sa Cha Sar Di Far Che SiWoo Wa Cha Va Sa GoShi Hey Cha Na Va SoHar Ne Va Sar Ja Sar DiWa Der SiWi Har Der Si Ji Son Der DiWi Far Der Si Ji Son Der Rar DiSa Wi~從頭反覆Wi Har Jers Ron Di Sar Jer SiWi Far Der Si Ji Son Der Rar DiSu Wi~Na~Na~Na~</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78482626)<br>chenchenho<br>2018-06-19 17:36<br>赞(0) 踩(0) | <div>微笑的弧度(Vocal 版)<br><br>Silent Love<br><br>Woo Wa Cha Va Sa Bi<br>Shu Wa Cha Va Sa Di<br>Har Na Va Sa Cha Sar Di Far Che Si<br><br>Woo Wa Cha Va Sa Go<br>Shi Hey Cha Na Va So<br>Har Ne Va Sar Ja Sar Di<br>Wa Der Si<br><br>Wi Har Der Si Ji Son Der Di<br>Wi Far Der Si Ji Son Der Rar Di<br>Sa Wi~<br><br>從頭反覆<br><br>Wi Har Jers Ron Di Sar Jer Si<br>Wi Far Der Si Ji Son Der Rar Di<br>Su Wi~<br><br>Na~Na~Na~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3066900)<br>静静地聆听每一首歌曲背后...<br>2018-06-19 19:23<br>赞(0) 踩(0) | <div><q><b>何真真说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327973776)<br> <br>2018-08-03 21:21<br>赞(0) 踩(0) | <div><q><b>何真真说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297639407)<br>踏破芒鞋烟雨任平生<br>2018-06-02 20:53<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -216,6 +216,6 @@ Na~Na~Na~
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1583508)<br><br>2011-02-05 14:18<br>赞(0) 踩(0) | <div>梦想的童年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1463938)<br><br>2011-01-06 14:40<br>赞(0) 踩(0) | <div>这个歌声有点配的....,还是比较喜欢没有唱歌的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1088708)<br><br>2010-10-02 10:25<br>赞(0) 踩(0) | <div>好听，歌声不错呢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1190277)<br><br>2010-08-03 06:13<br>赞(0) 踩(0) | <div>附上何真真的“微笑的弧度”给大家比较。出自风潮唱片《三颗猫饼干》。当然这个不是小厂牌了。。。声线明显不一样，只是觉得她们唱歌的方式有某种类似。╭(╯3╰)╮另外也顺便说明一下前面那首Feist的Let It Die也并非出自小厂牌，而是环球唱片发行的同名专辑，虽然Feist出了很多小厂牌唱片。特别再说明一下，昨天有虾友为精选集中有这首歌跟我纠结了很久╭(╯3╰)╮</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1190277)<br><br>2010-08-03 06:13<br>赞(0) 踩(0) | <div>附上何真真的“微笑的弧度”给大家比较。出自风潮唱片《三颗猫饼干》。当然这个不是小厂牌了。。。<br><br>声线明显不一样，只是觉得她们唱歌的方式有某种类似。╭(╯3╰)╮<br><br>另外也顺便说明一下前面那首Feist的Let It Die也并非出自小厂牌，而是环球唱片发行的同名专辑，虽然Feist出了很多小厂牌唱片。特别再说明一下，昨天有虾友为精选集中有这首歌跟我纠结了很久╭(╯3╰)╮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/644153)<br><br>2010-06-09 14:30<br>赞(0) 踩(0) | <div>平静温暖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/644153)<br><br>2010-04-23 15:18<br>赞(0) 踩(0) | <div>噴淚</div> |

@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/42da0394aaf1088225461b3c08cec628.jpg)<br>丛铭君](https://i.xiami.com/mingjun) | **播放数**: 17871787<br>**粉丝数**: 447<br>**评论数**: 30<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/42da0394aaf1088225461b3c08cec628.jpg)<br>丛铭君](https://i.xiami.com/mingjun) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 独立民谣 Indie Folk<br>**播放数**: 17871787<br>**粉丝数**: 447<br>**评论数**: 30<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -22,8 +19,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435501119)<br><br>2020-01-15 13:49<br>赞(1) 踩(0) | <div>很好唱的加油吧兄弟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379070873)<br><br>2019-07-07 05:27<br>赞(1) 踩(0) | <div>喜欢这种意境。久违的感动</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362216956)<br><br>2019-04-19 17:21<br>赞(1) 踩(0) | <div>听说你也曾问起我了. <img src="../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
@@ -36,7 +33,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408124837)<br><br>2018-12-30 22:55<br>赞(2) 踩(0) | <div>加油，哥们。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332513829)<br><br>2018-07-16 09:09<br>赞(4) 踩(0) | <div>很棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20372582)<br>我立刻有小综<br>2018-06-22 14:44<br>赞(2) 踩(0) | <div>明明听了心疼，但是还是忍不住的单曲循环！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301996141)<br><br>2018-09-23 09:46<br>赞(0) 踩(0) | <div>eyeyheyyyyyyy&amp;eacute;viiffoyxftmyy&amp;hellip;&amp;hellip;wpuǔ&amp;ugrave;uuuuuuuuuuuwshmyjujju</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301996141)<br><br>2018-09-23 09:46<br>赞(0) 踩(0) | <div>eyeyheyyyyyyy&amp;eacute;viiffo<br>yxft<br>my<br><br>y&amp;hellip;&amp;hellip;wpuǔ&amp;ugrave;uuuuuuuuuuuwshmyjujju</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371918028)<br><br>2018-06-13 00:51<br>赞(2) 踩(0) | <div>你名字和我一样</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303506160)<br>因为我对你爱的深沉<br>2018-06-11 00:15<br>赞(2) 踩(0) | <div>嘿呦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267147628)<br><br>2018-06-07 17:19<br>赞(1) 踩(0) | <div>很棒加油</div> |

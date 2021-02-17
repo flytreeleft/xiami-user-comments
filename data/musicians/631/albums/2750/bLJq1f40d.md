@@ -56,8 +56,8 @@ goodbye
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307968661)<br>我还没想好要写什么...<br>2020-02-08 12:07<br>赞(0) 踩(0) | <div>R.I.P.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/754298)<br> <br>2013-05-19 21:11<br>赞(0) 踩(0) | <div>这个版本我更喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/798039)<br><br>2012-12-09 18:12<br>赞(0) 踩(0) | <div>林一峰写给同性恋人</div> |

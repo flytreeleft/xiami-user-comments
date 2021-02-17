@@ -59,5 +59,3 @@ We're doing the tikkabilla jive
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

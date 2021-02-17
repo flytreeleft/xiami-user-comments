@@ -3,7 +3,7 @@ Darius
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4b6e8f60a8f079e00dceee7c08bc3045.jpg)<br>Darius](https://i.xiami.com/darius) | **播放数**: 7416568<br>**粉丝数**: 6114<br>**评论数**: 290<br>**地区**: France 法国<br>**风格**: 放克 Funk, 当代节奏布鲁斯 Contemporary R&B, 合成器放克 Synth Funk<br> |
+| [![](../../images/musicians/4b6e8f60a8f079e00dceee7c08bc3045.jpg)<br>Darius](https://i.xiami.com/darius) | **地区**: France 法国<br>**风格**: 放克 Funk, 当代节奏布鲁斯 Contemporary R&B, 合成器放克 Synth Funk<br>**播放数**: 7416568<br>**粉丝数**: 6114<br>**评论数**: 290<br> |
 
 ## 档案
 
@@ -27,8 +27,8 @@ Inspired by filtered house music from the French Touch era, Darius chose to brin
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76433630)<br>心流 不喝凉啤酒<br>2020-09-15 17:39<br>赞(0) 踩(0) | <div>气质佳</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73740960)<br><br>2020-08-25 20:54<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7336022)<br>萬物皆為一物<br>2020-07-05 05:19<br>赞(1) 踩(0) | <div>來昆明</div> |
@@ -62,7 +62,7 @@ Inspired by filtered house music from the French Touch era, Darius chose to brin
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12177420)<br>网易云: FIUFIU_...<br>2018-10-11 14:45<br>赞(1) 踩(0) | <div>周五见呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/653499)<br> <br>2018-10-09 18:42<br>赞(0) 踩(0) | <div>12号上海有没有一起的啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1967227)<br>ǝnbısnɯ<br>2018-10-09 16:49<br>赞(0) 踩(0) | <div>想去看你 门票好贵 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6449744)<br>我还没想好要写什么...<br>2018-10-05 14:01<br>赞(0) 踩(0) | <div>10月11日 Roche Musique 厂牌夜 Darius/Kartell/Dabeull @ 深圳 OIL Club<a href="https://mp.weixin.qq.com/s/yxXr4KvgpGWwZ4CeDgGiIA" target="_blank" rel="nofollow noreferrer noopener">https://mp.weixin.qq.com/s/yxXr4KvgpGWwZ4CeDgGiIA</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6449744)<br>我还没想好要写什么...<br>2018-10-05 14:01<br>赞(0) 踩(0) | <div>10月11日 Roche Musique 厂牌夜 Darius/Kartell/Dabeull @ 深圳 OIL Club<br><a href="https://mp.weixin.qq.com/s/yxXr4KvgpGWwZ4CeDgGiIA" target="_blank" rel="nofollow noreferrer noopener">https://mp.weixin.qq.com/s/yxXr4KvgpGWwZ4CeDgGiIA</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55876016)<br><br>2018-10-09 20:03<br>赞(0) 踩(0) | <div>终于来深圳了！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36620056)<br>WX:JHLQKL 大伙...<br>2018-10-01 01:59<br>赞(2) 踩(0) | <div>10.12见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328731660)<br>ギリギリeye ギリギリ...<br>2018-07-28 17:16<br>赞(0) 踩(0) | <div>颜</div> |
@@ -72,7 +72,7 @@ Inspired by filtered house music from the French Touch era, Darius chose to brin
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13711188)<br>最佳夏日女朋友~<br>2018-07-09 08:33<br>赞(0) 踩(0) | <div>啊啊他的 ins叫什么啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50649208)<br>†<br>2018-06-03 11:50<br>赞(0) 踩(0) | <div>S</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16585583)<br><br>2018-05-19 11:27<br>赞(0) 踩(0) | <div>图片集的第一张 双人合照那张 脸型和嘴 像吴尊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-05-03 12:02<br>赞(1) 踩(0) | <div><img src="../../images/comments/7607820f67e63b694e1e455146cb9efb.png">听音乐 <img src="../../images/comments/f10e8c35366eb553db3d665e8b324caf.png">其实我没喝</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-05-03 12:02<br>赞(1) 踩(0) | <div><img src="../../images/comments/7607820f67e63b694e1e455146cb9efb.png">听音乐 <img src="../../images/comments/f10e8c35366eb553db3d665e8b324caf.png"><br>其实我没喝</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51681707)<br>结束前想建个微信群有意私<br>2018-04-29 17:33<br>赞(4) 踩(0) | <div>自FKJ后的第二个男人我喜欢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/663002)<br> <br>2018-06-14 01:05<br>赞(0) 踩(0) | <div>去听shook吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6053307)<br>嘻嘻<br>2018-04-16 13:17<br>赞(0) 踩(0) | <div>爱上他啦！！</div> |
@@ -308,7 +308,7 @@ Inspired by filtered house music from the French Touch era, Darius chose to brin
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39464291)<br>soundcloud.c...<br>2014-10-02 22:21<br>赞(0) 踩(0) | <div>爱爱爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26015972)<br>come and chi...<br>2014-09-24 20:26<br>赞(0) 踩(0) | <div>Δ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8224939)<br>Swag…<br>2014-09-03 15:01<br>赞(0) 踩(0) | <div>一不小心就找到了你了亲= =慕之~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5127044)<br>卷你妹到蝦米盡頭<br>2014-09-02 23:31<br>赞(0) 踩(0) | <div>因為這個 mix<a href="https://soundcloud.com/frankandoak/the-emergence-playlist-pomo-x" target="_blank" rel="nofollow noreferrer noopener">https://soundcloud.com/frankandoak/the-emergence-playlist-pomo-x</a>找到這</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5127044)<br>卷你妹到蝦米盡頭<br>2014-09-02 23:31<br>赞(0) 踩(0) | <div>因為這個 mix<br><br><a href="https://soundcloud.com/frankandoak/the-emergence-playlist-pomo-x" target="_blank" rel="nofollow noreferrer noopener">https://soundcloud.com/frankandoak/the-emergence-playlist-pomo-x</a><br><br>找到這</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6480512)<br>What?I am.<br>2014-09-01 21:44<br>赞(0) 踩(0) | <div>^오^</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39286262)<br>生命满希望，前路由我创<br>2014-08-13 00:33<br>赞(0) 踩(0) | <div>法国电音DJ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2289778)<br>fuk u all！<br>2014-07-28 20:08<br>赞(1) 踩(0) | <div>hot hands 太喜欢了</div> |
@@ -318,5 +318,5 @@ Inspired by filtered house music from the French Touch era, Darius chose to brin
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/643572)<br>我还没想好要写什么...<br>2014-05-01 22:31<br>赞(0) 踩(0) | <div>nice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10502122)<br><br>2014-02-28 23:20<br>赞(0) 踩(0) | <div>百度cherokeefrance吧欢迎你，共同探讨更多音乐（darius是cherokee一员）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10417095)<br>听客<br>2014-02-26 16:45<br>赞(0) 踩(0) | <div>赞啊~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9123818)<br>我还没想好要写什么...<br>2014-02-15 03:23<br>赞(1) 踩(0) | <div><a href="https://www.facebook.com/iamdariusmusic" target="_blank" rel="nofollow noreferrer noopener">https://www.facebook.com/iamdariusmusic</a><a href="https://soundcloud.com/dariusofficial" target="_blank" rel="nofollow noreferrer noopener">https://soundcloud.com/dariusofficial</a><a href="https://twitter.com/TerenceDarius" target="_blank" rel="nofollow noreferrer noopener">https://twitter.com/TerenceDarius</a><a href="http://instagram.com/terence_darius#" target="_blank" rel="nofollow noreferrer noopener">http://instagram.com/terence_darius#</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9123818)<br>我还没想好要写什么...<br>2014-02-15 03:23<br>赞(1) 踩(0) | <div><a href="https://www.facebook.com/iamdariusmusic" target="_blank" rel="nofollow noreferrer noopener">https://www.facebook.com/iamdariusmusic</a><br><a href="https://soundcloud.com/dariusofficial" target="_blank" rel="nofollow noreferrer noopener">https://soundcloud.com/dariusofficial</a><br><a href="https://twitter.com/TerenceDarius" target="_blank" rel="nofollow noreferrer noopener">https://twitter.com/TerenceDarius</a><br><a href="http://instagram.com/terence_darius#" target="_blank" rel="nofollow noreferrer noopener">http://instagram.com/terence_darius#</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9123818)<br>我还没想好要写什么...<br>2014-02-15 03:22<br>赞(0) 踩(0) | <div>新单好赞</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/73cba56678f24077e057776511b77fda.jpg)<br>赵照](https://i.xiami.com/zhaozhao) | **播放数**: 56980422<br>**粉丝数**: 55756<br>**评论数**: 521<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/73cba56678f24077e057776511b77fda.jpg)<br>赵照](https://i.xiami.com/zhaozhao) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 独立民谣 Indie Folk<br>**播放数**: 56980422<br>**粉丝数**: 55756<br>**评论数**: 521<br> |
 
 ## 档案
 
@@ -46,8 +46,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49334418)<br>～<br>2020-10-11 16:16<br>赞(0) 踩(0) | <div>～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4806942)<br><br>2020-08-30 21:44<br>赞(0) 踩(0) | <div>喜欢那首雨巷 没有找到</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444203154)<br><br>2020-07-25 16:37<br>赞(1) 踩(0) | <div>我是被名字吸引过来的</div> |
@@ -63,7 +63,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355436280)<br><br>2019-12-03 22:35<br>赞(2) 踩(0) | <div>成都站，照老师乖得很～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424277514)<br><br>2019-11-08 18:16<br>赞(2) 踩(0) | <div>我买了你在济南演唱会的门票哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247981060)<br>Everything  ...<br>2019-03-17 10:58<br>赞(1) 踩(0) | <div>生日快乐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309565960)<br><br>2019-03-17 10:37<br>赞(3) 踩(0) | <div>泪水中有你，欢笑中有你，回忆中有你谢谢你<a href="http://emumo.xiami.com/u/14772189" target="_blank" rel="nofollow" name_card="14772189">@赵照 </a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309565960)<br><br>2019-03-17 10:37<br>赞(3) 踩(0) | <div>泪水中有你，欢笑中有你，回忆中有你<br>谢谢你<a href="http://emumo.xiami.com/u/14772189" target="_blank" rel="nofollow" name_card="14772189">@赵照 </a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230803304)<br>三观正又爱国的成都宝藏男...<br>2019-03-17 10:33<br>赞(1) 踩(0) | <div>生日快乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64405936)<br><br>2019-03-17 10:27<br>赞(0) 踩(0) | <div>一直快乐下去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346087991)<br>医路漫漫 音乐为伴<br>2019-03-17 10:03<br>赞(0) 踩(0) | <div></div> |
@@ -88,7 +88,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/185153668)<br>永远相信美好的事情即将发...<br>2018-08-29 10:05<br>赞(2) 踩(0) | <div>最好的赵照</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64405936)<br><br>2018-08-15 01:39<br>赞(1) 踩(0) | <div>非常喜欢赵照的歌曲！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379989424)<br><br>2018-08-14 07:22<br>赞(1) 踩(0) | <div>Ao xXcEr  but fddodcc</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375869419)<br>你只是不够幸运遇见最好时...<br>2018-08-01 22:49<br>赞(1) 踩(0) | <div>远方的梦汇成河，灯是霓虹色的漩涡这句歌词好像是出自《千人一面》想问一下这是不是赵照的作词？在虾米里找不到这首歌，谢谢了 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375869419)<br>你只是不够幸运遇见最好时...<br>2018-08-01 22:49<br>赞(1) 踩(0) | <div>远方的梦汇成河，灯是霓虹色的漩涡<br>这句歌词好像是出自《千人一面》想问一下这是不是赵照的作词？在虾米里找不到这首歌，谢谢了 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325492119)<br><br>2018-07-30 00:52<br>赞(2) 踩(0) | <div>要花钱，才能下载</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43481446)<br>音乐就是通用语<br>2018-07-24 20:00<br>赞(3) 踩(0) | <div>赵照老师的歌是独一无二的那种，越听越有味道。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37087855)<br>740576010@QQ...<br>2018-06-28 09:07<br>赞(1) 踩(0) | <div>好听</div> |
@@ -138,7 +138,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329796375)<br><br>2017-10-15 22:19<br>赞(0) 踩(0) | <div>祝福巡演成功</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312471060)<br><br>2017-10-14 03:50<br>赞(0) 踩(0) | <div>很棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307199582)<br>安静的听歌<br>2017-10-01 14:05<br>赞(0) 踩(0) | <div>每首听起来都是那么岁月蹉跎 每首都好感动 沈阳站马上去为你打call</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13691875)<br>谁的感叹 偶然合拍<br>2017-09-12 22:47<br>赞(2) 踩(0) | <div>10／21 石家庄 @守望者展演中心10／22 天 津 @派Live10／27 长 春 @老张光阴咖啡馆10／28 沈 阳 光阴故事音乐酒吧@美帝奇音乐现场10／29 哈尔滨 @SUB-LIVE11／03 广 州 @TU凸空间11／05 深 圳 @红糖罐11／10 上 海 @ModernSkyLAB上海11／11 南 京 @欧拉艺术空间11／12 杭 州 @MAOLivehouse杭州11／24 重 庆 @MAOLivehouse重庆官微11／25 成 都 @成都小酒馆12／01 合 肥 @ONTHEWAY酒吧12／02 武 汉 @VOXLIVEHOUSE</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13691875)<br>谁的感叹 偶然合拍<br>2017-09-12 22:47<br>赞(2) 踩(0) | <div>10／21 石家庄 @守望者展演中心<br>10／22 天 津 @派Live<br>10／27 长 春 @老张光阴咖啡馆<br>10／28 沈 阳 光阴故事音乐酒吧@美帝奇音乐现场<br>10／29 哈尔滨 @SUB-LIVE<br>11／03 广 州 @TU凸空间<br>11／05 深 圳 @红糖罐<br>11／10 上 海 @ModernSkyLAB上海<br>11／11 南 京 @欧拉艺术空间<br>11／12 杭 州 @MAOLivehouse杭州<br>11／24 重 庆 @MAOLivehouse重庆官微<br>11／25 成 都 @成都小酒馆<br>12／01 合 肥 @ONTHEWAY酒吧<br>12／02 武 汉 @VOXLIVEHOUSE</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13691875)<br>谁的感叹 偶然合拍<br>2017-09-12 22:45<br>赞(0) 踩(0) | <div>真好，赵照也回归了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48146372)<br><br>2017-09-08 20:20<br>赞(0) 踩(0) | <div>就是喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288629746)<br><br>2017-08-29 13:20<br>赞(1) 踩(0) | <div>1</div> |
@@ -178,7 +178,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284586574)<br>我有一万亿点爱，每天分你...<br>2017-03-30 20:25<br>赞(0) 踩(0) | <div>好。。。。。。。好。。。。。。。。。的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275750036)<br>长的漂亮不如活的漂亮<br>2017-03-29 10:27<br>赞(0) 踩(0) | <div>好好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101562896)<br><br>2017-03-23 07:53<br>赞(1) 踩(0) | <div>非常喜欢赵照的歌，曲好听词也有意思</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/221775861)<br><br>2017-03-23 06:23<br>赞(1) 踩(0) | <div>封面很逗，很熊样~歌吗，很喜欢~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/221775861)<br><br>2017-03-23 06:23<br>赞(1) 踩(0) | <div>封面很逗，很熊样~<br>歌吗，很喜欢~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30475986)<br>万物与我为一<br>2017-03-20 07:23<br>赞(1) 踩(0) | <div>集市，奶奶，晒太阳，好有生活气息</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86513568)<br><br>2017-03-18 17:36<br>赞(0) 踩(0) | <div>超级喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279283966)<br><br>2017-03-11 15:11<br>赞(0) 踩(0) | <div>你的歌很实在</div> |
@@ -244,7 +244,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4595285)<br>温澜潮生。<br>2015-12-07 16:36<br>赞(0) 踩(0) | <div>谁有赵照的只爱一点点live！！那天现场没录，后悔莫及！天天以泪洗面 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24860451)<br>我还没想好要写什么...<br>2016-01-31 22:28<br>赞(0) 踩(0) | <div>苯酚～</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4595285)<br>温澜潮生。<br>2016-01-31 22:42<br>赞(0) 踩(0) | <div><q><b>Q说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36512749)<br>白羊座<br>2015-12-06 10:10<br>赞(1) 踩(0) | <div>那年夏天你背着一把破吉他走向车站 离开了家倾盆的雨淋湿了你的长头发你抱着行李 咬着牙车厢里的旅人啊都心事重重的你不敢抬头看那窗外的景色爱上漂泊的少年郎你只有一把破吉他你怎么舍得站台上送别你的姑娘前途孤单又漫长你只有一把破吉他你说你的脸庞是雨水淋湿的爱上漂泊的少年郎你为什么还那么倔强你怎么舍得站台上送别你的姑娘谁的青春能不荒唐谁初次上路不慌张你说你的脸庞是雨水淋湿的爱上漂泊的少年郎你只有一把破吉他你只有握紧拳头用力把歌唱你只有握紧拳头</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36512749)<br>白羊座<br>2015-12-06 10:10<br>赞(1) 踩(0) | <div>那年夏天<br>你背着一把破吉他<br>走向车站 离开了家<br>倾盆的雨<br>淋湿了你的长头发<br>你抱着行李 咬着牙<br>车厢里的旅人啊<br>都心事重重的<br>你不敢抬头看那窗外的景色<br>爱上漂泊的少年郎<br>你只有一把破吉他<br>你怎么舍得站台上<br>送别你的姑娘<br><br>前途孤单又漫长<br>你只有一把破吉他<br>你说你的脸庞是雨水淋湿的<br>爱上漂泊的少年郎<br>你为什么还那么倔强<br>你怎么舍得站台上<br>送别你的姑娘<br>谁的青春能不荒唐<br>谁初次上路不慌张<br>你说你的脸庞是雨水淋湿的<br>爱上漂泊的少年郎<br>你只有一把破吉他<br>你只有握紧拳头<br>用力把歌唱<br>你只有握紧拳头</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4590738)<br>逃禅者又重新操琴，手势流...<br>2015-12-01 18:08<br>赞(2) 踩(0) | <div>（补一个）豆瓣FM听的《在冬天和奶奶一起晒太阳》，然后推荐评价：我喜欢这歌诶。以前山头上我奶家院子里有簇两米多高的月季，下边放着老式竹躺椅，我老爹就花阴挡头，银烟筒吃水烟，醉生梦死晒太阳；每次回去我都想霸占他位置，但是尊卑有别，长幼有序啊。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7840019)<br>哎呦诶<br>2015-12-05 21:40<br>赞(0) 踩(0) | <div>好一个醉生梦死！吐口烟圈，眯眼看它袅袅消散在一片斑斓之中</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4590738)<br>逃禅者又重新操琴，手势流...<br>2015-12-07 10:46<br>赞(0) 踩(0) | <div><q><b>cckai13说：</b></q></div> |
@@ -405,7 +405,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33725538)<br>……<br>2015-01-04 01:39<br>赞(0) 踩(0) | <div>想想外婆还有冬日午后暖暖的阳光，听着这首歌，心里面暖暖的，，，谢谢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43932046)<br>爱雷鬼，爱民谣，爱电音。<br>2015-01-02 23:10<br>赞(0) 踩(0) | <div>嗮太阳不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30921704)<br>什么都比不上家里漫山遍野<br>2014-12-30 15:36<br>赞(0) 踩(0) | <div>在冬天和奶奶一起晒太阳</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:19<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:19<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44843630)<br><br>2014-12-24 21:31<br>赞(0) 踩(0) | <div>亲民滴音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34336213)<br>呼吸与思念的牵扯<br>2014-12-08 21:58<br>赞(0) 踩(0) | <div>当你老了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38663591)<br><br>2014-12-08 01:48<br>赞(0) 踩(0) | <div>民谣音乐人</div> |
@@ -426,7 +426,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20764232)<br>嗨<br>2014-10-21 15:03<br>赞(0) 踩(0) | <div>就喜欢这种调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3765728)<br>任歲月擺弄，我是時間的新...<br>2014-10-14 14:49<br>赞(0) 踩(0) | <div>和奶奶一起晒太阳 迷了去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9425673)<br>我从黑夜来，但是却喜欢光...<br>2014-10-11 08:53<br>赞(0) 踩(0) | <div>用音乐书写人生，感受生命。大爱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6850381)<br><br>2014-09-26 15:33<br>赞(0) 踩(0) | <div>很好听，也很耐人寻味的......也许这就是人生幸福的青涩  无奈的青春  激情的追求  寂寞的沉思回望着生命的辉煌 却充满酸涩的回忆........</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6850381)<br><br>2014-09-26 15:33<br>赞(0) 踩(0) | <div>很好听，也很耐人寻味的......<br>也许这就是人生<br>幸福的青涩  无奈的青春  激情的追求  寂寞的沉思<br><br>回望着生命的辉煌 却充满酸涩的回忆........</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13009817)<br>我还没想好要写什么...<br>2014-09-17 18:05<br>赞(0) 踩(0) | <div>没有一朵这首歌？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13487886)<br>飞已间时<br>2014-09-14 20:39<br>赞(0) 踩(0) | <div>在冬天  伴奏真心很绝 认真做音乐的人 明显不一样 希望能红起来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35950839)<br>我是尹弋，不是尹戈。<br>2014-09-04 10:00<br>赞(1) 踩(0) | <div>雷子师父。</div> |
@@ -442,7 +442,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38921414)<br>音乐人生<br>2014-08-13 13:42<br>赞(0) 踩(0) | <div>一种随性的聆听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11304538)<br> <br>2014-08-04 19:01<br>赞(0) 踩(0) | <div>，，，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13110432)<br><br>2014-08-04 19:00<br>赞(0) 踩(0) | <div>。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10355777)<br>CAO<br>2014-07-24 11:54<br>赞(0) 踩(0) | <div>故鄉的麥子熟了花兒正綻放那是最初和最後的地方</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10355777)<br>CAO<br>2014-07-24 11:54<br>赞(0) 踩(0) | <div>故鄉的麥子熟了花兒正綻放<br>那是最初和最後的地方</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1781280)<br><br>2014-07-22 11:44<br>赞(0) 踩(0) | <div>..........</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39090324)<br>哎。<br>2014-07-17 21:03<br>赞(0) 踩(0) | <div>当你老了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36761080)<br><br>2014-07-16 18:49<br>赞(0) 踩(0) | <div>--</div> |
@@ -476,7 +476,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6998828)<br><br>2014-03-29 14:50<br>赞(1) 踩(0) | <div>当你老了，好听，是今年我听到的最好的歌之一。还有赵雷的“妈妈”，感同身受。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11090928)<br><br>2014-03-27 17:55<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34237250)<br><br>2014-03-26 19:32<br>赞(0) 踩(0) | <div>即兴</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1526776)<br><br>2014-03-26 00:03<br>赞(0) 踩(0) | <div>天哪，因为好歌曲喜欢这个声音，但一听这个在冬天和奶奶一起晒太阳，我以前听过啊，以前听过啊——大爱，好干净的声音</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1526776)<br><br>2014-03-26 00:03<br>赞(0) 踩(0) | <div>天哪，因为好歌曲喜欢这个声音，但一听这个在冬天和奶奶一起晒太阳，我以前听过啊，以前听过啊——<br>大爱，好干净的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/645218)<br>任性逍遥于有欲无欲之间<br>2014-03-23 13:21<br>赞(0) 踩(0) | <div>喜欢这个调调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34283136)<br><br>2014-03-22 10:26<br>赞(0) 踩(0) | <div>最爱啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1054638)<br><br>2014-03-20 21:55<br>赞(0) 踩(0) | <div>老赵哥 虽然来迟了天把天，还是说声生日快乐！ 你这style港港的啊。</div> |
@@ -505,7 +505,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32510541)<br><br>2014-02-08 16:37<br>赞(0) 踩(0) | <div>好聽~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/148093)<br><br>2014-02-06 20:59<br>赞(0) 踩(0) | <div>在中国好歌曲上，这位34岁的歌手以一首当你老了引起我的喜欢。他的民谣，尤其适合上海细雨的春夜听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43287)<br><br>2014-02-05 14:57<br>赞(1) 踩(0) | <div>干嘛去好歌曲</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-02-01 16:58<br>赞(0) 踩(0) | <div>国产原创独立民谣诗人164348，1762，64</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-02-01 16:58<br>赞(0) 踩(0) | <div>国产原创独立民谣诗人<br>164348，1762，64</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14067377)<br><br>2014-01-31 20:00<br>赞(1) 踩(0) | <div>当你老了，去中国好歌曲了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4188551)<br>暂无签名~<br>2014-01-22 09:25<br>赞(82) 踩(0) | <div>当你老了，我们仍旧爱你的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5848254)<br>网易云音乐（之后可能会开...<br>2014-01-10 10:13<br>赞(0) 踩(0) | <div>名字好难读</div> |
@@ -551,7 +551,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9456640)<br><br>2012-06-13 01:37<br>赞(0) 踩(0) | <div>咕噜木</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199757)<br><br>2012-04-20 19:04<br>赞(0) 踩(0) | <div>《在冬天和奶奶一起晒太阳》有一个小女孩和女声版本的是谁唱的，那个更有意境啊，虾米木有。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7357836)<br><br>2012-04-06 21:58<br>赞(0) 踩(0) | <div>略带摇滚范的民谣</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2969368)<br><br>2012-01-25 22:14<br>赞(0) 踩(0) | <div>在冬天和奶奶一起晒太阳一只麻雀偷偷上了我家的房</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2969368)<br><br>2012-01-25 22:14<br>赞(0) 踩(0) | <div>在冬天和奶奶一起晒太阳<br>一只麻雀偷偷上了我家的房</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1337333)<br>我还没想好要写什么...<br>2012-01-19 00:19<br>赞(0) 踩(0) | <div>舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231323)<br><br>2012-01-19 00:10<br>赞(0) 踩(0) | <div>可爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4227306)<br><br>2012-01-05 18:27<br>赞(0) 踩(0) | <div>哈。。像伍漠的声音。。</div> |

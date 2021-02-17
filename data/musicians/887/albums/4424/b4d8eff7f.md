@@ -51,8 +51,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424095717)<br><br>2020-12-12 03:17<br>赞(0) 踩(0) | <div>不得不说，汪峰确实有才，有内涵，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428878153)<br>我还没想好要写什么...<br>2020-12-08 18:57<br>赞(0) 踩(0) | <div>15年前，我也因为这首歌爱上过一个人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427731393)<br><br>2020-08-10 15:15<br>赞(0) 踩(0) | <div>到此一游</div> |
@@ -65,13 +65,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317417502)<br>我还没想好要写什么...<br>2020-02-24 23:07<br>赞(1) 踩(0) | <div>好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13898071)<br>暂无签名~<br>2019-12-25 18:30<br>赞(0) 踩(0) | <div>前奏抄袭之疑……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9079353)<br>氓之嗤嗤<br>2019-10-30 21:48<br>赞(0) 踩(0) | <div>可以的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427379647)<br><br>2019-08-10 07:39<br>赞(0) 踩(0) | <div>音app,有很多，在每日推荐歌曲里面还是虾米懂我。总有一些老歌，冷门歌莫名戳中泪点。如歌词描述，15年前的今天，独自在一座陌生的城市见识了外面的世界，确实精彩，确实无奈。也是那段时间，真正接触了rock,从穷街开始，后来关注国内。真正认识从汪峰的觉醒开始。许巍，黑豹，超载，铁风筝，郑钧，各种都有，只要曲风或者词里有自己影子的存在就会去追吧。以前有人说过：听古典的看不起听爵士的，听爵士的看不起听摇滚的，听摇滚的看不起听流行的。然而，在听流行的人的眼中，听各种其他风格的人说的都是放屁。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">在一个曾热度和流量的年代，他们赢了。不是我不明白，这世界变化太快 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427379647)<br><br>2019-08-10 07:39<br>赞(0) 踩(0) | <div>音app,有很多，在每日推荐歌曲里面还是虾米懂我。总有一些老歌，冷门歌莫名戳中泪点。如歌词描述，15年前的今天，独自在一座陌生的城市见识了外面的世界，确实精彩，确实无奈。也是那段时间，真正接触了rock,从穷街开始，后来关注国内。<br>真正认识从汪峰的觉醒开始。许巍，黑豹，超载，铁风筝，郑钧，各种都有，只要曲风或者词里有自己影子的存在就会去追吧。以前有人说过：听古典的看不起听爵士的，听爵士的看不起听摇滚的，听摇滚的看不起听流行的。<br>然而，在听流行的人的眼中，听各种其他风格的人说的都是放屁。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"><br>在一个曾热度和流量的年代，他们赢了。<br>不是我不明白，这世界变化太快 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120252350)<br>不是只有自己一个人<br>2019-07-29 12:27<br>赞(1) 踩(0) | <div>汪峰大学音乐学院学的是小提琴啊，但他还是选择了摇滚，摇滚音乐风格总是会受别人的启发的，建议大家看一下以前央视记录片频道有过汪峰的纪录片 看过那个我更喜欢汪峰和他的歌了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344482002)<br><br>2019-06-07 22:57<br>赞(0) 踩(0) | <div>是的 汪峰的老歌是普通话歌曲中最摇滚的一个了，歌曲充满中国的味道，记忆，现实，听懂的人自然能感觉的歌中让你共鸣的东西</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275548248)<br> <br>2019-06-07 10:03<br>赞(1) 踩(0) | <div>自从最初听了汪峰的歌，几乎每一首都喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346852392)<br>爱上你，直到以后的以后。<br>2019-03-25 07:48<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346852392)<br>爱上你，直到以后的以后。<br>2019-03-13 00:07<br>赞(1) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301741188)<br>只要不失真心，没有什么可...<br>2019-02-19 08:45<br>赞(4) 踩(0) | <div>05年，34，汪峰儿，专辑：《怒放的生命》9.1 。 乐队：鲍家街.整张专辑最喜欢的一首。有人调侃他皮裤汪；有人说他抄袭；有人骂他将摇滚带入了商业.有人说他...这些人是谁.你就信了.别急，我也没有说他是个大好人.✍️可我就是喜欢他，认可他，至少。对于摇滚，每个时代都应该有不同的人传承，即使不是最好的。致敬每一个爱摇滚的人。respect.开头：15年前我还是个孩子，身无分文，总不知道是回家，还是去找那帮混混。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301741188)<br>只要不失真心，没有什么可...<br>2019-02-19 08:45<br>赞(4) 踩(0) | <div>05年，34，汪峰儿，专辑：《怒放的生命》9.1 。 乐队：鲍家街.<br>整张专辑最喜欢的一首。<br>有人调侃他皮裤汪；<br>有人说他抄袭；<br>有人骂他将摇滚带入了商业.<br>有人说他...<br>这些人是谁.<br>你就信了.<br>别急，我也没有说他是个大好人.✍️<br>可我就是喜欢他，认可他，至少。<br>对于摇滚，每个时代都应该有不同的人传承，即使不是最好的。<br>致敬每一个爱摇滚的人。<br>respect.<br><br><br>开头：15年前我还是个孩子，身无分文，总不知道是回家，还是去找那帮混混。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40714948)<br><br>2019-01-02 22:07<br>赞(4) 踩(0) | <div>他和我一样孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404059844)<br><br>2018-11-16 03:53<br>赞(25) 踩(0) | <div>虽然很多人说汪峰人不怎么样这那这那的，但我不得不说，汪峰是我第一个在人生中听到了“摇滚”两个字，这首歌我记得初中用MP5听的，当时每天放学都要听，单曲循环，汪峰的歌听了好几年，我现在在英国，接触了很多英国的摇滚文化，大多数都是地下硬核，今天回来听这首歌，想哭。想家，想中国</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298624756)<br> <br>2018-11-06 22:11<br>赞(19) 踩(0) | <div>最近发现汪峰的歌太好听了 以前没有注意，歌词也很有内涵。</div> |
@@ -130,13 +130,13 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32366626)<br> <br>2017-12-18 14:02<br>赞(0) 踩(0) | <div><q><b>Jason Lee说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33113721)<br>你是世上的奇女子呀 我就...<br>2015-01-07 16:35<br>赞(1) 踩(0) | <div>在迷茫的边缘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43887212)<br><br>2014-12-23 01:21<br>赞(4) 踩(0) | <div>汪峰出品，必属精品</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2014-11-25 20:43<br>赞(1) 踩(0) | <div>这开头的编曲真tmd...٥.٥</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2014-11-25 20:43<br>赞(1) 踩(0) | <div>这开头的编曲真tmd...<br>٥.٥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28885659)<br><br>2014-10-26 15:24<br>赞(1) 踩(0) | <div>汪峰有很重的北京情节。像我一样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36347508)<br><br>2014-10-10 22:45<br>赞(2) 踩(0) | <div>在这条解放西路，为了生存为了爱遍体鳞伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29696442)<br><br>2014-05-08 11:44<br>赞(2) 踩(0) | <div>听哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24008298)<br><br>2014-02-12 01:20<br>赞(3) 踩(0) | <div>喜欢这节奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4819657)<br><br>2013-07-17 08:30<br>赞(2) 踩(0) | <div>上帝昨夜死去，天堂里爬满蛆虫。他此刻正坐在旁边，一支接一支地抽烟，脸阴的像个茄子。早起一首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7357650)<br><br>2013-06-23 22:22<br>赞(2) 踩(0) | <div>在这条长安街上 他和我一样孤独他就像我的朋友 我们一起哭泣</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7357650)<br><br>2013-06-23 22:22<br>赞(2) 踩(0) | <div>在这条长安街上 他和我一样孤独<br>他就像我的朋友 我们一起哭泣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7564405)<br><br>2013-06-15 16:11<br>赞(2) 踩(0) | <div>在这条长安街上，他和我一样孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6117573)<br><br>2013-01-19 20:33<br>赞(1) 踩(0) | <div>在公司入职晚会上听了一遍就很有感觉的歌曲，个人觉得是汪峰唱的最好的歌曲~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11286196)<br><br>2012-12-22 16:12<br>赞(2) 踩(0) | <div>太多人爱这个城市，不管是否生于这里，也许是因为他的脉搏和自己生命里的孤独很像很像。</div> |
@@ -149,7 +149,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4859434)<br>倚楼听风雨，淡看江湖路<br>2011-08-19 22:39<br>赞(1) 踩(0) | <div>迷失在城市里……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74319)<br>新浪微博：@糖卡torn...<br>2011-07-06 15:09<br>赞(1) 踩(0) | <div>他还有一首“北京北京”。。。总是分不清楚。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3939357)<br><br>2011-05-14 19:04<br>赞(2) 踩(0) | <div>有劲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2949245)<br><br>2011-03-25 22:08<br>赞(3) 踩(0) | <div>节奏非常好贝斯 极好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2949245)<br><br>2011-03-25 22:08<br>赞(3) 踩(0) | <div>节奏非常好<br>贝斯 极好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2708496)<br><br>2011-02-06 19:06<br>赞(2) 踩(0) | <div>我们一样孤独，我们一起哭泣，我们一起活着，我们一起逝去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2009-06-08 20:00<br>赞(1) 踩(0) | <div>为什么总是过去是那么美好？为什么？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179567)<br>我是我的上帝。<br>2010-01-08 18:06<br>赞(0) 踩(0) | <div>没错，因为过去的东西已经过去了，不用现在再去面对，所以，过去都是美好的。</div> |

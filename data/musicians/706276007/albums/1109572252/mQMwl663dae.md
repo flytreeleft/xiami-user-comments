@@ -70,8 +70,8 @@ I, I love you like a love song, baby 我像热恋情歌一样热恋着你
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342583172)<br><br>2020-12-30 13:12<br>赞(0) 踩(0) | <div>求出一辑深深所有的英语歌翻唱啊！求！求！求！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49792777)<br>昼短苦夜长，何不秉烛游<br>2020-10-07 20:02<br>赞(1) 踩(0) | <div>我靠，好性感，醉了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300714343)<br><br>2020-10-06 22:38<br>赞(0) 踩(0) | <div>深深的嗓音可塑性真的太高了</div> |
@@ -93,7 +93,7 @@ I, I love you like a love song, baby 我像热恋情歌一样热恋着你
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442413048)<br><br>2020-04-24 01:26<br>赞(0) 踩(0) | <div>好中性的声音 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441066822)<br><br>2020-04-10 15:37<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32373009)<br>虾米，再会。<br>2020-03-27 23:25<br>赞(0) 踩(0) | <div>23:25</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440136412)<br><br>2020-03-16 20:00<br>赞(2) 踩(0) | <div>看到热评是五年前，震惊！！你们眼光好好！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440136412)<br><br>2020-03-16 20:00<br>赞(2) 踩(0) | <div>看到热评是五年前，震惊！！<br>你们眼光好好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406109053)<br><br>2020-03-06 16:14<br>赞(0) 踩(0) | <div>开口跪。到底还有多少惊喜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26683191)<br><br>2020-02-21 21:27<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415510261)<br>这家伙很聪明什么也没留下...<br>2020-02-20 01:18<br>赞(0) 踩(0) | <div>声线让我想起了张雨生。</div> |
@@ -123,7 +123,7 @@ I, I love you like a love song, baby 我像热恋情歌一样热恋着你
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424340328)<br><br>2019-05-09 19:01<br>赞(0) 踩(0) | <div>他唱过gaga 比如judas 非常惊艳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329579283)<br><br>2018-06-20 12:41<br>赞(0) 踩(0) | <div>喜欢这种风格</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279746713)<br>我深似是那浮萍，飘零到你...<br>2018-06-05 07:58<br>赞(0) 踩(0) | <div>我也曾&amp;hellip;&amp;hellip;爱你如歌。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1347463)<br>逗比昵称决定逗比头像<br>2018-03-23 19:55<br>赞(1) 踩(0) | <div>其实我想说，他被盗版歌词坑了&amp;hellip;因为对这首歌太熟悉，所以特意去研究了歌词，然后我发现网络上已上传的大部分歌词都是有问题的。错的最明显的一个单词就是那句［I am hypnotized by your destiny］里的【hypnotized】这个词，网上99.9%的歌词都拼成了hyptonized（这是个不存在无意义的单词pseudoword）&amp;hellip;其他的有问题的地方我就懒得说了，仔细听都比较明显，以后有时间再整一个没问题的歌词上来。一直很喜欢Selena这首歌，但是看到坑爹的歌词强迫症犯了。 <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1347463)<br>逗比昵称决定逗比头像<br>2018-03-23 19:55<br>赞(1) 踩(0) | <div>其实我想说，他被盗版歌词坑了&amp;hellip;<br>因为对这首歌太熟悉，所以特意去研究了歌词，然后我发现网络上已上传的大部分歌词都是有问题的。错的最明显的一个单词就是那句［I am hypnotized by your destiny］里的【hypnotized】这个词，网上99.9%的歌词都拼成了hyptonized（这是个不存在无意义的单词pseudoword）&amp;hellip;其他的有问题的地方我就懒得说了，仔细听都比较明显，以后有时间再整一个没问题的歌词上来。一直很喜欢Selena这首歌，但是看到坑爹的歌词强迫症犯了。 <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339164365)<br><br>2018-03-08 17:35<br>赞(1) 踩(0) | <div>总是感觉这首歌好熟悉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114470396)<br><br>2018-02-12 20:03<br>赞(1) 踩(0) | <div>第一次听到一首歌听到循环十几次！好听！！(〜￣▽￣)〜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114470396)<br><br>2018-02-12 20:00<br>赞(4) 踩(0) | <div>我觉得跟国外那些人唱得一样好听，真的！</div> |
@@ -217,7 +217,7 @@ I, I love you like a love song, baby 我像热恋情歌一样热恋着你
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49189545)<br>  爱生活爱容和<br>2015-04-19 23:08<br>赞(6) 踩(0) | <div>妈呀听得我起鸡皮疙瘩太好听了！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46440490)<br><br>2015-04-04 16:17<br>赞(6) 踩(0) | <div>太好听了。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45266730)<br><br>2015-03-18 23:58<br>赞(22) 踩(0) | <div>男神中低音区好好听！听过原唱，个人感觉比原唱好听多！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46413137)<br><br>2015-01-24 12:26<br>赞(3) 踩(0) | <div>越挖越精彩啊想不到这类歌也好听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46413137)<br><br>2015-01-24 12:26<br>赞(3) 踩(0) | <div>越挖越精彩啊<br>想不到这类歌也好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45268300)<br>我是我，不一样的花火<br>2015-01-18 15:09<br>赞(1) 踩(0) | <div>发音好好-.-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1828378)<br><br>2015-01-16 23:39<br>赞(3) 踩(0) | <div>最喜欢周深了～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45913272)<br><br>2015-01-11 22:48<br>赞(0) 踩(0) | <div>好听~！</div> |

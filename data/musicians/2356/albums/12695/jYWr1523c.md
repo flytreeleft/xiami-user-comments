@@ -43,8 +43,8 @@ Life~ Life is so beautiful
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4342588)<br><br>2020-09-13 12:16<br>赞(0) 踩(0) | <div>想对爱的人这么说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83405550)<br>从容地走在时光里，浅浅地...<br>2020-06-11 09:07<br>赞(0) 踩(0) | <div>差点因为歌名错过一首好歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282761119)<br>我还没想好要写什么...<br>2020-05-02 23:11<br>赞(1) 踩(0) | <div>那个时候正好买了这张卡带，里面除了《祝我幸福》就数这首最好听。</div> |
@@ -64,7 +64,7 @@ Life~ Life is so beautiful
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869963)<br>暂无签名~<br>2019-03-06 09:27<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869963)<br>暂无签名~<br>2019-03-05 10:48<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333627327)<br>言有尽时 遗恨未知<br>2018-12-03 22:39<br>赞(1) 踩(0) | <div>丸子 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261591903)<br>我还没想好要写什么...<br>2018-10-15 08:57<br>赞(4) 踩(0) | <div>真正被放弃的时候，对方其实早想清楚了。现在的每一天都剩我一人承受。大口呼吸。听这首歌只是希望歌词里写的「我们的伤，有一天一定会好。」</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261591903)<br>我还没想好要写什么...<br>2018-10-15 08:57<br>赞(4) 踩(0) | <div>真正被放弃的时候，对方其实早想清楚了。<br>现在的每一天都剩我一人承受。大口呼吸。<br>听这首歌只是希望歌词里写的「我们的伤，有一天一定会好。」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5465812)<br> <br>2018-04-30 17:25<br>赞(3) 踩(0) | <div>只能说，太好听！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355929031)<br><br>2018-04-20 08:14<br>赞(0) 踩(0) | <div>爱我别来伤害我！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295380075)<br><br>2017-12-28 10:14<br>赞(0) 踩(0) | <div>Life is so&amp;hellip;</div> |
@@ -88,7 +88,7 @@ Life~ Life is so beautiful
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85501218)<br> <br>2017-05-08 11:40<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70051074)<br><br>2017-04-04 19:26<br>赞(0) 踩(0) | <div>最爱这一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254208493)<br> <br>2017-03-03 07:05<br>赞(1) 踩(0) | <div>Life is beautiful.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86793278)<br>阿不塞哟<br>2017-03-02 22:53<br>赞(0) 踩(0) | <div>我们的伤不会好了哦不也许你会吧那样也好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86793278)<br>阿不塞哟<br>2017-03-02 22:53<br>赞(0) 踩(0) | <div>我们的伤不会好了<br>哦不<br>也许你会吧<br>那样也好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122175728)<br> <br>2017-02-26 21:03<br>赞(47) 踩(0) | <div>最好的自省场所竟是厨房，排骨汤咕嘟咕嘟，吹着些许凉风，听我最爱的女歌手</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56021421)<br>My little bo...<br>2017-09-12 18:38<br>赞(0) 踩(0) | <div>是阿～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2946514)<br>我还没想好要写什么...<br>2017-01-20 02:03<br>赞(0) 踩(0) | <div>五個月前，在猶豫分享第一首還是最後一首。</div> |
@@ -132,7 +132,7 @@ Life~ Life is so beautiful
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8125445)<br><br>2014-02-16 22:16<br>赞(1) 踩(0) | <div>时常会困惑于这样的问题：人到底是为了何种目的，一直忍耐着生活，完全不是自己想过的生活，日复一日的生活，一切看似没有任何希望，煎熬过生活中每一个抑郁的时刻。不知道其他人是怎么过的，应该也是一样吧。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1316874)<br><br>2018-03-06 00:08<br>赞(0) 踩(0) | <div>人生辛苦，亦步亦趋，为了什么，前世因缘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28036920)<br><br>2014-02-04 20:59<br>赞(0) 踩(0) | <div>我要活的更好，我要紧紧拥抱生命的美好。放轻点放轻点····@宫名薇 @可人兒家的峰慧儿  林伟哲老板写得歌，真好听！据说峰姐唱了两句就空了眼眶，，啧啧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16395915)<br><br>2014-01-28 10:08<br>赞(55) 踩(0) | <div>太多时候，别人所喜爱的那个你，或者别人所不喜爱的那个你，也不过是他们想象的你罢了。这个世界上，有那么多人并不了解你，你也并不能一一解释清。而你能做的，只有用力得活着，为那些爱你，你也爱的人，站成一棵树。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16395915)<br><br>2014-01-28 10:08<br>赞(55) 踩(0) | <div>太多时候，别人所喜爱的那个你，或者别人所不喜爱的那个你，也不过是他们想象的你罢了。<br>这个世界上，有那么多人并不了解你，你也并不能一一解释清。而你能做的，只有用力得活着，为那些爱你，你也爱的人，站成一棵树。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90427882)<br> <br>2016-12-23 19:53<br>赞(0) 踩(0) | <div>把这段话私信给我……跪求</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/540158)<br>音乐是最浪漫的数学，是A...<br>2017-12-12 22:34<br>赞(0) 踩(0) | <div>因值孤生松，敛翮遥来归</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12197949)<br><br>2013-12-22 07:07<br>赞(0) 踩(0) | <div>peace 吃完早餐就睡觉</div> |
@@ -147,7 +147,7 @@ Life~ Life is so beautiful
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13614919)<br><br>2013-09-07 23:30<br>赞(25) 踩(0) | <div>点歌的时候那个被抽中的姑娘坚持要让青峰唱这个歌，第一听，青峰说是偉哲老板写的歌，青峰开口唱了两句瞬间眼眶就红了。单曲循环了一整天，都能想起那个看不见又对这个歌情有独钟的姑娘，真虔诚，真坚强，真美好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4348921)<br><br>2013-09-07 10:05<br>赞(0) 踩(0) | <div>据说昨晚安可唱了这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8789438)<br><br>2013-08-28 00:50<br>赞(0) 踩(0) | <div>就算是回到起点</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15910866)<br>我怕冷<br>2013-08-11 02:19<br>赞(0) 踩(0) | <div>放轻点如果你要伤害我就算我无法闪躲我也还能承受我宁愿争吵也不要取悦就算是绕了圈圈就算是回到起点我们的伤有一天一定会好只要我们一起不怕跌跌撞撞我们的爱有一天一定会老我要活的更好我要紧紧拥抱生命的美好放慢点如果你要改变我就算我跟不上你也许还能回头放弃了就不会再有机会如果这是你要的你一定没想清楚我们的伤有一天一定会好只要我们一起不怕跌跌撞撞我们的爱有一天一定会老我要活的更好我要紧紧拥抱生命的美好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15910866)<br>我怕冷<br>2013-08-11 02:19<br>赞(0) 踩(0) | <div>放轻点<br>如果你要伤害我<br>就算我无法闪躲<br>我也还能承受<br>我宁愿<br>争吵也不要取悦<br>就算是绕了圈圈<br>就算是回到起点<br>我们的伤<br>有一天一定会好<br>只要我们一起<br>不怕跌跌撞撞<br>我们的爱<br>有一天一定会老<br>我要活的更好<br>我要紧紧拥抱<br>生命的美好<br><br>放慢点<br>如果你要改变我<br>就算我跟不上你<br>也许还能回头<br>放弃了<br>就不会再有机会<br>如果这是你要的<br>你一定没想清楚<br>我们的伤<br>有一天一定会好<br>只要我们一起<br>不怕跌跌撞撞<br>我们的爱<br>有一天一定会老<br>我要活的更好<br>我要紧紧拥抱<br>生命的美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408307)<br><br>2013-08-06 22:07<br>赞(0) 踩(0) | <div>女神专辑酷爱来(◞‸ლ)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7661868)<br><br>2013-07-29 23:54<br>赞(0) 踩(0) | <div>好怀旧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11018829)<br><br>2013-07-24 22:57<br>赞(0) 踩(0) | <div>爱死了~~~</div> |
@@ -176,18 +176,18 @@ Life~ Life is so beautiful
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3642452)<br><br>2012-07-10 12:31<br>赞(0) 踩(0) | <div>Life~life is so beautiful~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/671832)<br><br>2012-07-03 00:23<br>赞(0) 踩(0) | <div>坚定不移 宁死不屈。这八个字要坚持下来 多么不易。一步一步来 也不至于算是逃避。对不对。  七月是一个好月。那么 安生在哪儿。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/671832)<br><br>2012-07-02 23:21<br>赞(0) 踩(0) | <div>。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8656379)<br><br>2012-06-27 13:09<br>赞(0) 踩(0) | <div>放慢点　如果你要改变我就算我跟不上你　也许还能回头</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8656379)<br><br>2012-06-27 13:09<br>赞(0) 踩(0) | <div>放慢点　如果你要改变我<br>就算我跟不上你　也许还能回头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9514131)<br><br>2012-06-22 21:23<br>赞(0) 踩(0) | <div>“我们的伤 有一天一定会好 只要我们一起 不怕跌跌撞撞”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9514131)<br><br>2012-06-20 16:31<br>赞(0) 踩(0) | <div>“我们的伤　有一天一定会好 只要我们一起　不怕跌跌撞撞”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9087212)<br><br>2012-06-15 21:09<br>赞(0) 踩(0) | <div>Let it come and go,let it flow。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8696462)<br> <br>2012-06-07 23:06<br>赞(0) 踩(0) | <div>我们的伤　有一天一定会好只要我们一起　不怕跌跌撞撞我们的爱　有一天一定会老我要活的更好　我要紧紧拥抱生命的美好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8696462)<br> <br>2012-06-07 23:06<br>赞(0) 踩(0) | <div>我们的伤　有一天一定会好<br>只要我们一起　不怕跌跌撞撞<br>我们的爱　有一天一定会老<br>我要活的更好　我要紧紧拥抱生命的美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/617686)<br>林崇翼<br>2012-06-03 02:31<br>赞(0) 踩(0) | <div>平淡得很不平凡，我是给败倒了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7717240)<br><br>2012-05-16 23:33<br>赞(0) 踩(0) | <div>放轻点~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6692158)<br><br>2012-05-16 11:54<br>赞(0) 踩(0) | <div>@不知道叫甚好咩 听这个！什么都会更好~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7647604)<br><br>2012-05-09 15:20<br>赞(0) 踩(0) | <div>放轻点　如果你要伤害我　就算我无法闪躲　我也还能承受</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2945712)<br>今年目标拼凑散装绿洲<br>2012-05-08 20:00<br>赞(0) 踩(0) | <div>OT 听个歌~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8629224)<br><br>2012-05-01 11:34<br>赞(0) 踩(0) | <div>我们的伤，有一天一定会好…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260442)<br>我还没想好要写什么...<br>2012-04-29 17:23<br>赞(0) 踩(0) | <div>只要我们一起　不怕跌跌撞撞我们的爱　有一天一定会老我要活的更好　我要紧紧拥抱生命的美好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260442)<br>我还没想好要写什么...<br>2012-04-29 17:23<br>赞(0) 踩(0) | <div>只要我们一起　不怕跌跌撞撞<br>我们的爱　有一天一定会老<br>我要活的更好　我要紧紧拥抱生命的美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1361314)<br><br>2012-04-28 15:13<br>赞(0) 踩(0) | <div>我要活的更好，我要紧紧拥抱生命的美好@D-Lady</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/870680)<br><br>2012-04-26 17:25<br>赞(0) 踩(0) | <div>《爱》的片尾曲，要不是听到这个片尾曲我都忘了这个女声，想起了女爵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8462766)<br><br>2012-04-25 22:17<br>赞(0) 踩(0) | <div>@机械师superman</div> |
@@ -196,18 +196,18 @@ Life~ Life is so beautiful
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8283357)<br><br>2012-04-09 00:24<br>赞(0) 踩(0) | <div>hey W！放弃了，就不会再有机会！如果这是他要的，他一定没想清楚！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6496371)<br><br>2012-04-03 09:11<br>赞(0) 踩(0) | <div>放轻点 如果你要伤害我 就算我无法闪躲 我也还能承受。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5639746)<br><br>2012-03-30 19:24<br>赞(0) 踩(0) | <div>如果这是你要的 你一定没想清楚</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5396579)<br><br>2012-03-30 02:15<br>赞(0) 踩(0) | <div>我们的伤有一天一定会好只要我们一起不怕跌跌撞撞我们的爱有一天一定会老我要活的更好我要紧紧拥抱生命的美好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5396579)<br><br>2012-03-30 02:15<br>赞(0) 踩(0) | <div>我们的伤有一天一定会好<br>只要我们一起不怕跌跌撞撞<br>我们的爱有一天一定会老<br>我要活的更好我要紧紧拥抱生命的美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3848385)<br> <br>2012-03-29 21:14<br>赞(0) 踩(0) | <div>放轻点 如果你要伤害我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7873944)<br><br>2012-03-23 19:35<br>赞(0) 踩(0) | <div>我们的伤有一天一定会好/只要我们一起不怕跌跌撞撞/我们的爱有一天一定会老/我要活的更好我要紧紧拥抱生命的美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6220526)<br>我还没想好要写什么...<br>2012-03-19 21:12<br>赞(0) 踩(0) | <div>我要活的更好，我要紧紧拥抱生命的美好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2753189)<br><br>2012-03-19 20:41<br>赞(0) 踩(0) | <div>爱情，总会用力过猛，到头来一拍两散</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8444836)<br><br>2012-03-15 23:38<br>赞(0) 踩(0) | <div>love~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2604612)<br>I‘m sorry...<br>2012-03-13 13:03<br>赞(0) 踩(0) | <div>我们的伤，有一天一定会好，只要我们一起，不怕跌跌撞撞。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8394937)<br><br>2012-03-11 22:33<br>赞(0) 踩(0) | <div>我们的伤  有一天一定会好  只要我们一起  不怕跌跌撞撞  我们的爱 有一天一定会老我要活的更好  我要紧紧拥抱  生命的美好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8394937)<br><br>2012-03-11 22:33<br>赞(0) 踩(0) | <div>我们的伤  有一天一定会好  只要我们一起  不怕跌跌撞撞  我们的爱 有一天一定会老<br>我要活的更好  我要紧紧拥抱  生命的美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8356446)<br><br>2012-03-09 13:03<br>赞(0) 踩(0) | <div>喜欢杨乃文</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3245832)<br><br>2012-03-07 13:39<br>赞(0) 踩(0) | <div>温柔，执着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8314693)<br><br>2012-03-06 09:26<br>赞(0) 踩(0) | <div>杨乃文——放轻点，柔和的吉他声搭配着杨乃文独特的低沉的声音，顿时让人沉浸在自己的世界。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4455484)<br><br>2012-03-04 23:54<br>赞(0) 踩(0) | <div>我们的爱　有一天一定会老我要活的更好　我要紧紧拥抱生命的美好晚安</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4455484)<br><br>2012-03-04 23:54<br>赞(0) 踩(0) | <div>我们的爱　有一天一定会老<br>我要活的更好　我要紧紧拥抱生命的美好<br><br>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7208851)<br><br>2012-03-04 17:50<br>赞(0) 踩(0) | <div>我只想放轻松点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7029357)<br><br>2012-03-03 23:08<br>赞(1) 踩(0) | <div>当年听《我给的爱》爱上了杨乃文，后来也爱黄立行~~后来才知道以前他们是对Lovers，他们都很对我味，今晚电影尾曲，我觉得歌词比较动人，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8052616)<br><br>2012-03-02 20:48<br>赞(0) 踩(0) | <div>放轻点 如果你要伤害我 就算我无法闪躲 我也还能承受</div> |
@@ -218,7 +218,7 @@ Life~ Life is so beautiful
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1431499)<br><br>2012-02-27 22:14<br>赞(0) 踩(0) | <div>我们的伤，有一天一定会好。我们的爱，有一天一定会老。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8211526)<br><br>2012-02-27 20:22<br>赞(0) 踩(0) | <div>我們愛，有一天老</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1306103)<br><br>2012-02-27 20:09<br>赞(0) 踩(0) | <div>“我们的伤 有一天一定会好 只要我们一起　不怕跌跌撞撞 我们的爱　有一天一定会老”「爱 Love」的片尾曲——</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5468941)<br><br>2012-02-27 18:07<br>赞(0) 踩(0) | <div>放轻点　如果你要伤害我就算我无法闪躲　我也还能承受</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5468941)<br><br>2012-02-27 18:07<br>赞(0) 踩(0) | <div>放轻点　如果你要伤害我<br>就算我无法闪躲　我也还能承受</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8151353)<br><br>2012-02-27 14:37<br>赞(0) 踩(0) | <div>很多时候彼此之间只需一个轻轻的拥抱，无需太多的言语</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8151353)<br><br>2012-02-27 14:33<br>赞(0) 踩(0) | <div>很多时候彼此之间只需要一个拥抱，无需太多的言语</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1179400)<br> <br>2012-02-27 12:02<br>赞(0) 踩(0) | <div>放輕點 如果你要傷害我 就算我無法閃躲 我也還能承受 我寧願 爭吵也不要取悅 就算是繞了圈圈 就算是回到起點 我們的傷 有一天一定會好 只要我們一起 不怕跌跌撞撞 我們的愛 有一天一定會老 我要活的更好 我要緊緊擁抱 生命的美好</div> |
@@ -233,7 +233,7 @@ Life~ Life is so beautiful
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2317710)<br><br>2012-02-22 16:21<br>赞(1) 踩(0) | <div>字幕升起，电影散场。杨乃文冰冷浑厚的嗓音却在此时温暖了每个人的心房。没想到，电影的点睛之笔居然在此。朋友总结的台湾电影的“小处男情节”仍旧与这个浮世显得格格不入。但梦幻般的主旋律还是足以支撑谁在里面的人向前多游走一段的。爱，不也是一种希望么～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6045654)<br>毁灭吧<br>2012-02-19 23:09<br>赞(0) 踩(0) | <div>片尾曲一下子把关于那段时间听杨乃文的记忆勾起 今天看你的照片 其实我很开心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1955678)<br>soooo sad<br>2012-02-19 13:06<br>赞(0) 踩(0) | <div>忍不住一直循環。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361436)<br><br>2012-02-19 01:51<br>赞(0) 踩(0) | <div>放轻点如果你要伤害我就算我无法闪躲我也还能承受我宁愿争吵也不要取悦就算是绕了圈圈就算是回到起点</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361436)<br><br>2012-02-19 01:51<br>赞(0) 踩(0) | <div>放轻点<br><br>如果你要伤害我<br>就算我无法闪躲<br>我也还能承受<br>我宁愿<br>争吵也不要取悦<br>就算是绕了圈圈<br>就算是回到起点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14374)<br><br>2012-02-18 23:44<br>赞(0) 踩(0) | <div>大沥的周记真心难吃，还好有《Love》作为今天的纪念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4381575)<br><br>2012-02-18 23:10<br>赞(0) 踩(0) | <div>如何向内心深处黑暗中的自己伸出手去，自己接住自己？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6967)<br><br>2012-02-17 23:50<br>赞(0) 踩(0) | <div>@modidi 你说得没错 是杨乃文 ≪放轻点≫ “我们的伤 有一天一定会好”</div> |
@@ -253,7 +253,7 @@ Life~ Life is so beautiful
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8055855)<br> <br>2012-02-15 17:18<br>赞(0) 踩(0) | <div>豆导的《LOVE》告诉我们，爱就是大太阳下的草地的味道。爱是不轻易发怒，不计算别人的恶。爱是包容，爱是相信。爱是能够紧紧地拥抱美好。 就像是在电影散场时候放的歌一样。“我们的伤，有一天一定会好。”ps：电影里的配乐很棒，林宥嘉，田馥甄，魏如萱，杨乃文的声音总能够撩拨人心。都是我的心头爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2436226)<br>修炼中的生活家<br>2012-02-15 07:12<br>赞(0) 踩(0) | <div>听@NaiWen寶貝 的《放轻点》，舒服的调调。昨天看的电影里有个小朋友说“你没见过他，所以你不要想他了；我见过你了，我无法让自己不想你。”么！可耐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2436226)<br>修炼中的生活家<br>2012-02-15 07:01<br>赞(0) 踩(0) | <div>电影里的小朋友说“你没见过他，所以你不要想他了；我见过你了，我无法让自己不想你。”么！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83509)<br><br>2012-02-15 00:51<br>赞(0) 踩(0) | <div>“我们的爱　有一天一定会老我要活的更好　我要紧紧拥抱生命的美好”@NaiWen寶貝 这首歌让这部电影变成了三星半，约等于四星</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83509)<br><br>2012-02-15 00:51<br>赞(0) 踩(0) | <div>“我们的爱　有一天一定会老<br>我要活的更好　我要紧紧拥抱生命的美好”<br>@NaiWen寶貝 这首歌让这部电影变成了三星半，约等于四星</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3553728)<br>LOVE IS BLUE<br>2012-02-14 12:09<br>赞(0) 踩(0) | <div>不去拥有 就不会想念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2333145)<br><br>2012-02-14 09:48<br>赞(0) 踩(0) | <div>#璐璐sang每日1欧巴# 这是电影#爱love#的片尾曲。感动滴凶。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/598362)<br><br>2012-02-14 02:38<br>赞(0) 踩(0) | <div>放轻点、放慢点，隐没在茫茫人海，过这渺渺的人生。</div> |

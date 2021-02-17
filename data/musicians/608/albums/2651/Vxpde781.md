@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287017)<br>姌稥毓影，复刻轻悠<br>2020-08-24 06:31<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19249125)<br>动人的、难以寻觅的、追求<br>2020-04-18 01:11<br>赞(0) 踩(0) | <div>调皮的光影像精灵呐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19249125)<br>动人的、难以寻觅的、追求<br>2020-04-18 01:10<br>赞(0) 踩(0) | <div>陪伴我走过高三的夜晚～</div> |
@@ -60,7 +57,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348118769)<br><br>2018-09-20 00:07<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5592344)<br><br>2018-09-19 18:34<br>赞(0) 踩(0) | <div>goupibutong</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256415184)<br>marke188<br>2018-09-18 23:09<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402730692)<br>天真纯洁的小孩也有过悲惨...<br>2018-09-16 19:56<br>赞(0) 踩(0) | <div>666 666 666666666666 666 666666     666666     666666 666 666</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402730692)<br>天真纯洁的小孩也有过悲惨...<br>2018-09-16 19:56<br>赞(0) 踩(0) | <div>666 666 666<br>666<br>666<br>666 666 666<br>666     666<br>666     666<br>666 666 666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119527630)<br>biubiubiu<br>2018-09-09 19:12<br>赞(4) 踩(0) | <div>宁静如午后阳光透过层层叶片撒在身上，微风袭来，只想伸个懒腰睡觉了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322127897)<br><br>2018-09-04 05:18<br>赞(0) 踩(0) | <div>-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366647323)<br><br>2018-09-03 18:18<br>赞(3) 踩(0) | <div>他的曲子我一直很喜欢</div> |
@@ -94,10 +91,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325541378)<br>Fight for th...<br>2018-05-06 21:44<br>赞(2) 踩(0) | <div>完美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22608173)<br><br>2018-05-05 19:16<br>赞(3) 踩(0) | <div>雨后彩虹，清新，一杯咖啡静静聆听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356638971)<br><br>2018-05-04 18:44<br>赞(2) 踩(0) | <div>想起了那年的月夜。我行走在归来的路上。安静。月是故乡明。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/717893)<br><br>2018-04-28 22:49<br>赞(1) 踩(0) | <div>和亲爱的人吵架，因为他无耻的父母，他不开心，我无用的安慰后，我也不开心很难解，只能来听听这音乐，谢谢林海。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/717893)<br><br>2018-04-28 22:49<br>赞(1) 踩(0) | <div>和亲爱的人吵架，因为他无耻的父母，他不开心，我无用的安慰后，我也不开心<br>很难解，只能来听听这音乐，谢谢林海。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/965995)<br>鄙视砖栏<br>2018-04-27 06:18<br>赞(1) 踩(0) | <div>无惧一切蚊叮虫咬 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324804648)<br><br>2018-04-19 08:53<br>赞(1) 踩(0) | <div>晨露盈辉满目金，七彩流韵扣心门。谁借云袖拨秋水，吾荷轻舟梦里飞！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338706059)<br>我还没想好要写什么...<br>2018-04-17 12:35<br>赞(6) 踩(0) | <div>十年前的夏天，与父母来到遥远又神秘的新疆游玩。其中一个目的地是位于边境线上的喀纳斯湖。诺大的峡湾里，蓝绿色的湖水上面，有天空中大片大片的云朵的倒影。两岸是郁郁葱葱的树木花草，在蓝色天空的映衬下，无比安静美好。清新的空气，是城市里无法享受的优待。时而听到鸟儿的叫声，时而听到风吹树叶的沙沙声，时而被阳光照射，时而被云朵遮住。我走在景区内的沿着河边的木质栈道上，那一刻，仿佛所有的烦恼都烟消云散，真的有一种，想要永远住在这个世外桃源的想法。就像听这首音乐的感觉，无比静谧，无比和平！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338706059)<br>我还没想好要写什么...<br>2018-04-17 12:35<br>赞(6) 踩(0) | <div>十年前的夏天，与父母来到遥远又神秘的新疆游玩。其中一个目的地是位于边境线上的喀纳斯湖。诺大的峡湾里，蓝绿色的湖水上面，有天空中大片大片的云朵的倒影。两岸是郁郁葱葱的树木花草，在蓝色天空的映衬下，无比安静美好。清新的空气，是城市里无法享受的优待。时而听到鸟儿的叫声，时而听到风吹树叶的沙沙声，时而被阳光照射，时而被云朵遮住。我走在景区内的沿着河边的木质栈道上，那一刻，仿佛所有的烦恼都烟消云散，真的有一种，想要永远住在这个世外桃源的想法。<br>就像听这首音乐的感觉，无比静谧，无比和平！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346530576)<br><br>2018-04-16 03:19<br>赞(0) 踩(0) | <div>xghv</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312390465)<br>对不起！请原谅！谢谢你！...<br>2018-04-07 21:01<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49318565)<br>含著淚我一讀再讀卻不得不...<br>2018-04-06 06:00<br>赞(2) 踩(0) | <div>美妙的鋼琴曲。。</div> |
@@ -112,7 +109,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314047115)<br>Hawker<br>2018-03-14 13:54<br>赞(1) 踩(0) | <div>289 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348821195)<br><br>2018-03-09 07:08<br>赞(1) 踩(0) | <div>让思维平静下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348393627)<br><br>2018-02-28 13:26<br>赞(2) 踩(0) | <div>这曲子让我想起心爱的人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92918364)<br> <br>2018-02-27 22:45<br>赞(4) 踩(0) | <div>你说，沉浸在音乐中的感觉是为何？我的灵魂在音乐中出窍，又在结尾音符中回归我的肉体。你说，现实和这种妙境，哪个是人的归宿？人们用体制把自己挡在自然之外，却以自然为妙境，自然触手可及的啊！贾平凹说看见自己的灵魂在房间里转悠，衰弱的肉体和灵魂是不可通融的啊！于是就有了死亡，于是就有了人们用灵魂汇成的永不磨灭的书。----听林海《月光边境》专辑有感</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92918364)<br> <br>2018-02-27 22:45<br>赞(4) 踩(0) | <div>你说，沉浸在音乐中的感觉是为何？我的灵魂在音乐中出窍，又在结尾音符中回归我的肉体。你说，现实和这种妙境，哪个是人的归宿？人们用体制把自己挡在自然之外，却以自然为妙境，自然触手可及的啊！贾平凹说看见自己的灵魂在房间里转悠，衰弱的肉体和灵魂是不可通融的啊！于是就有了死亡，于是就有了人们用灵魂汇成的永不磨灭的书。<br><br>----听林海《月光边境》专辑有感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332500233)<br><br>2018-02-19 17:15<br>赞(1) 踩(0) | <div>在繁闹的几天里，需要安静 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300515607)<br>❤️❤️❤️<br>2018-02-04 19:33<br>赞(1) 踩(0) | <div>仿佛有光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347552017)<br><br>2018-02-03 19:41<br>赞(1) 踩(0) | <div>初中听到后推荐给小伙伴，后来忘记歌名，现在大一终于又听到了</div> |
@@ -145,7 +142,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322235515)<br>在音乐里澎湃，在玩笑里开...<br>2017-09-04 22:50<br>赞(3) 踩(0) | <div>每次听林海的乐曲，都要听好多遍。有时，为了找到相同的旋律，我会看音乐显示的时间。我的现在时被他的音乐雕刻，而他的音乐，是雕刻淡忘的过去时。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322235515)<br>在音乐里澎湃，在玩笑里开...<br>2017-09-04 22:45<br>赞(3) 踩(0) | <div>父母对孩子最大的爱就是陪伴。乐曲讲述了两个父亲和孩子在一起的情节。一个是孩子学父亲转陀螺，惊喜地发现了七彩的光，然后自己也能转，转得比爸爸还久，神气得意。后来弃置不玩了，因为长大了，不稀罕了。第二个是父亲教孩子骑自行车，帮助他掌握平衡，最后放手，看他跌倒，留下擦伤。成长的记忆里，都是孩子的快乐和父亲的不舍。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323264108)<br><br>2017-09-04 08:09<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275618778)<br>虾米歌好喜欢呐！<br>2017-09-03 12:28<br>赞(3) 踩(0) | <div>皎洁的月光，轻轻的晚风，飘落的黄叶，没有了蝉鸣，没有了蛐蛐。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275618778)<br>虾米歌好喜欢呐！<br>2017-09-03 12:28<br>赞(3) 踩(0) | <div>皎洁的月光，<br>轻轻的晚风，<br>飘落的黄叶，<br>没有了蝉鸣，<br>没有了蛐蛐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108661028)<br><br>2017-08-12 23:54<br>赞(3) 踩(0) | <div>是夜晚的梦。睡前想的美梦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36576263)<br><br>2017-08-12 22:19<br>赞(2) 踩(0) | <div>有种走在乡间小路上，吹风，有蝉在叫的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317952587)<br><br>2017-08-08 00:00<br>赞(2) 踩(0) | <div>只有好听两个字</div> |
@@ -347,7 +344,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26066210)<br>不眞実の世界······<br>2014-10-26 03:29<br>赞(0) 踩(0) | <div>听这么舒心的曲子可以入睡了，失眠难熬。。晚安，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28719448)<br>暂无签名~<br>2014-08-31 16:09<br>赞(0) 踩(0) | <div>好安静的曲子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7025762)<br><br>2014-07-26 10:34<br>赞(0) 踩(0) | <div>晨</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35092255)<br>享受一个人的音乐<br>2014-07-23 22:49<br>赞(0) 踩(0) | <div>作者：林海所属专辑：2001年发行《月光边境》，第一首曲子特色：奇幻的色彩，晶莹剔透，让你的心仿佛徜徉在清澈的海底，如美人鱼或者精灵般柔软舒展……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35092255)<br>享受一个人的音乐<br>2014-07-23 22:49<br>赞(0) 踩(0) | <div>作者：林海<br>所属专辑：2001年发行《月光边境》，第一首曲子<br>特色：奇幻的色彩，晶莹剔透，让你的心仿佛徜徉在清澈的海底，如美人鱼或者精灵般柔软舒展……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/574926)<br><br>2014-07-23 22:08<br>赞(0) 踩(0) | <div>刚好今天吹起北风，躺在床上听这张专辑，全身毛孔都放松了，实在太美丽！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28089564)<br>弦断了可以接，缘尽了不可...<br>2014-07-15 00:00<br>赞(0) 踩(0) | <div>浅浅的爱……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38606834)<br><br>2014-06-30 23:49<br>赞(0) 踩(0) | <div>@蒙古阿佳  这个歌很好听，对不起……</div> |

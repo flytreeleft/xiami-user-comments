@@ -12,17 +12,14 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429262008)<br><br>2021-01-06 11:05<br>赞(0) 踩(0) | <div>一直听石进的曲子  只有来虾米这里才能听到   可是今天看到朋友圈说虾米关闭了   我急忙来把石进里喜欢听的曲子全都录屏了   难以表达我的心情  虾米关了就没有地方可以自由的听石进了    很难过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72079154)<br><br>2020-04-28 08:50<br>赞(0) 踩(0) | <div>喜欢这样的曲，朗朗算个裘，</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441542298)<br>❤️假装拥有存在的意义❤...<br>2020-03-19 09:39<br>赞(1) 踩(0) | <div>很美，与朗朗不同的一种美（在这里不要捧一踩一 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png">，他们都很好）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441542298)<br>❤️假装拥有存在的意义❤...<br>2020-03-19 09:39<br>赞(1) 踩(0) | <div>很美，与朗朗不同的一种美<br>（在这里不要捧一踩一 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png">，他们都很好）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/879970)<br><br>2020-02-11 11:04<br>赞(1) 踩(0) | <div>暗恋就像是春雾里看到你的影子 太阳升起 最终都会归于平寂的岁月静好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/879970)<br><br>2020-02-11 11:04<br>赞(0) 踩(0) | <div>暗恋就像是春雾里看到你的影子 太阳升起 最终都会归于平寂的岁月静好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364181616)<br><br>2019-06-27 13:05<br>赞(0) 踩(0) | <div>来到了这里，这个跟大多朋友一样的思绪，虽然我评论比较晚，可能没有看我的情况，也许我是自言自语，但我还是想写些东西，石进先生的钢琴我是非常的喜欢，他能把那种说不出来心情给融入了每个人心中，用心听，每一首都是那么的深入人心。感谢进哥，希望多出新DEmo</div> |
@@ -51,7 +48,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338200175)<br><br>2018-01-16 14:57<br>赞(2) 踩(0) | <div>不喜欢朗狼，喜欢进哥</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376910863)<br><br>2018-09-25 10:54<br>赞(0) 踩(0) | <div>喜欢进哥，不喜欢朗朗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/895669)<br>愿你，这一生有被讨厌的勇...<br>2018-01-10 19:25<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334480720)<br>人生不是CL，CL却是人...<br>2018-01-06 00:29<br>赞(1) 踩(0) | <div>指尖下的琴键琴键内的旋律旋律藏的故事</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334480720)<br>人生不是CL，CL却是人...<br>2018-01-06 00:29<br>赞(1) 踩(0) | <div>指尖下的琴键<br>琴键内的旋律<br>旋律藏的故事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339129647)<br><br>2017-12-13 18:58<br>赞(0) 踩(0) | <div>好听 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">~ <img src="../../../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png"> <img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/aef814d405ecc3ca2a3d50288c9a0e48.png"> <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../../../images/comments/e44d95099808df6f9a2b8f4961447063.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8960993)<br><br>2017-12-07 00:38<br>赞(2) 踩(0) | <div>旋律总是充满淡淡哀伤和柔情，像雨丝轻叩心扉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321831995)<br><br>2017-11-02 11:43<br>赞(0) 踩(0) | <div>好听的音乐，是美的享受</div> |
@@ -68,7 +65,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34657002)<br><br>2018-03-06 13:20<br>赞(0) 踩(0) | <div>对，有几处是不一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310379925)<br><br>2017-07-07 14:17<br>赞(5) 踩(0) | <div>一直喜欢听班得瑞的轻音乐，后来有同事知道后就特意推荐我说中国有个叫石进的弹的钢琴曲也挺好听的，我就专门听了&amp;hellip;&amp;hellip;真的很不错耶！现在还没听完，不过听过的有好多我都喜欢听，只是不喜欢听其中有人唱的那种曲。真为中国能有这样原创轻音乐而感到自豪 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285461949)<br><br>2017-06-29 22:51<br>赞(1) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68657276)<br>惟江上之清风，与山间之明...<br>2017-06-23 21:14<br>赞(4) 踩(0) | <div>风絮飘残已化萍，泥莲刚倩藕丝萦。珍重别拈香一瓣，记前生。人到情多情转薄，而今真个不多情。又到断肠回首处，泪偷零。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68657276)<br>惟江上之清风，与山间之明...<br>2017-06-23 21:14<br>赞(4) 踩(0) | <div>风絮飘残已化萍，泥莲刚倩藕丝萦。珍重别拈香一瓣，记前生。<br>人到情多情转薄，而今真个不多情。又到断肠回首处，泪偷零。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297245714)<br>你是人间四月天<br>2017-05-22 18:59<br>赞(37) 踩(0) | <div>昨天音乐会第一首就是这首曲子，先生话不多，开场鞠了个躬，缓缓坐定开始弹这首曲子，霎那间，莫名想掉眼泪，这是我人生中听的最重要的一场音乐会，也是感触最深最难以言喻的一个半小时，万千思绪奔涌而出&amp;hellip;再次听，依然强忍着眼泪&amp;hellip;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208051911)<br>心灵的孤独最美。<br>2018-09-02 12:50<br>赞(0) 踩(0) | <div>十一月份我也要去听先生的音乐会，这是我人生的第一场音乐会，希望到时我的感受和你是一样的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289386424)<br><br>2017-04-27 22:49<br>赞(0) 踩(0) | <div>好好听的</div> |

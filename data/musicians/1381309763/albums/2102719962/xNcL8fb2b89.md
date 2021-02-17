@@ -78,8 +78,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/152212430)<br><br>2019-09-06 21:07<br>赞(3) 踩(0) | <div>七彩阳光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317095726)<br><br>2019-08-06 01:26<br>赞(1) 踩(0) | <div>高中课间操准备歌曲，响起就说明该站队了，哈哈 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403818337)<br>我还没想好要写什么...<br>2019-06-08 15:23<br>赞(0) 踩(0) | <div>如果把这首歌融合到印度神曲里就怎么样呢</div> |

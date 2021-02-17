@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/919960)<br>再見了 蝦米<br>2017-04-03 17:08<br>赞(0) 踩(0) | <div>刺耳 &amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49640493)<br>网易云SAINTDONT...<br>2017-03-27 10:32<br>赞(0) 踩(0) | <div>想起回音哥</div> |

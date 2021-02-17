@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/28bb954cf0c638b30761fd202eddd5d4.jpg)<br>贺仙人](https://i.xiami.com/hexianren) | **播放数**: 3189487<br>**粉丝数**: 1134<br>**评论数**: 70<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 摇滚 Rock & Roll, 电子 Electronic, 根源唱作人 Singer-Songwriter<br> |
+| [![](../../images/musicians/28bb954cf0c638b30761fd202eddd5d4.jpg)<br>贺仙人](https://i.xiami.com/hexianren) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 摇滚 Rock & Roll, 电子 Electronic, 根源唱作人 Singer-Songwriter<br>**播放数**: 3189487<br>**粉丝数**: 1134<br>**评论数**: 70<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -24,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9602872)<br>我还没想好要写什么...<br>2020-06-10 08:22<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16383812)<br>새해 복 많이 받으세요...<br>2020-05-31 13:34<br>赞(0) 踩(0) | <div>优秀！英文部分amazing</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421578063)<br>fox god<br>2020-05-30 10:20<br>赞(0) 踩(0) | <div>ヾ ^_^♪</div> |

@@ -50,6 +50,6 @@ For you
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81143)<br><br>2014-11-18 08:37<br>赞(0) 踩(0) | <div>喜欢林一峰的那段日子，crazy for you～</div> |

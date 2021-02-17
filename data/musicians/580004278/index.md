@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a633da4e15ee3141553a1861a2f24f9c.jpg)<br>流苏](https://i.xiami.com/liusu) | **播放数**: 747726<br>**粉丝数**: 64<br>**评论数**: 4<br>**地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/a633da4e15ee3141553a1861a2f24f9c.jpg)<br>流苏](https://i.xiami.com/liusu) | **地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter, 国语流行 Mandarin Pop<br>**播放数**: 747726<br>**粉丝数**: 64<br>**评论数**: 4<br> |
 
 ## 档案
 
@@ -37,8 +37,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330923886)<br><br>2020-09-15 12:11<br>赞(0) 踩(0) | <div>磁性的声线，我喜欢，很棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420078183)<br><br>2019-09-20 13:41<br>赞(1) 踩(0) | <div>很美的歌喉，曲曲经典！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271169707)<br>找个爱人的啊<br>2017-12-05 10:59<br>赞(1) 踩(0) | <div>好听</div> |

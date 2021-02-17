@@ -65,9 +65,9 @@ da da da la...<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10534103)<br>人性的美让我温暖<br>2020-05-06 10:00<br>赞(0) 踩(0) | <div>原来张悬早期有在模仿她Guitar is a killing</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10534103)<br>人性的美让我温暖<br>2020-05-06 10:00<br>赞(0) 踩(0) | <div>原来张悬早期有在模仿她<br>Guitar is a killing</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32287641)<br>我还没想好要写什么...<br>2020-04-25 16:31<br>赞(0) 踩(0) | <div>✨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3583995)<br>一個人的戰爭<br>2020-04-01 04:11<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104063482)<br><br>2019-04-25 01:27<br>赞(0) 踩(0) | <div>好冷静的旁观者但是又让我紧张。</div> |
@@ -94,7 +94,7 @@ da da da la...<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5992744)<br><br>2015-10-26 13:56<br>赞(2) 踩(0) | <div>找个小病家里蹲，没有了容积率的束缚，生活如此空虚。缅怀过往，十年弹指间，你我还是没什么进步。地产黄金十年倒已经结束。亲爱的学弟学妹，一年过去了，梦想果然更远了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/130371)<br> <br>2015-10-10 18:52<br>赞(2) 踩(0) | <div>你在烦恼些什么呢？亲爱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1063834)<br><br>2015-07-26 12:04<br>赞(2) 踩(0) | <div>个人最喜欢的陈珊妮专辑，大概因为第一次听她的歌就是这首《你在烦恼些什么呢？亲爱的》，着实被惊艳了一把。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41263968)<br>Lord<br>2018-07-14 19:30<br>赞(0) 踩(0) | <div>我第一次听她的是 小灰尘 从此一发不可收拾十多年了</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41263968)<br>Lord<br>2018-07-14 19:30<br>赞(0) 踩(0) | <div>我第一次听她的是 小灰尘 从此一发不可收拾<br>十多年了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16482144)<br><br>2015-06-21 01:19<br>赞(1) 踩(0) | <div>每天自我欣赏一百遍，每天嫌弃自己一百遍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7405242)<br>柔坚软硬<br>2015-06-18 09:02<br>赞(0) 踩(0) | <div>你不觉得她适合睡觉吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38788842)<br>腻了就换<br>2015-06-04 01:15<br>赞(0) 踩(0) | <div>夏宇</div> |
@@ -120,10 +120,10 @@ da da da la...<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2831815)<br>槽鸡有米刀汤近，野鹤无粮...<br>2014-10-07 17:22<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/2091822?spm=a1z1s.6659513.0.0.T7lNna" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2091822?spm=a1z1s.6659513.0.0.T7lNna</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7283406)<br><br>2012-08-24 09:02<br>赞(0) 踩(0) | <div>@宋chi @Holdu @轻微自闭的糊老凉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4138377)<br><br>2012-08-12 06:00<br>赞(0) 踩(0) | <div>这是我初中听得最多的她的一首歌。现在听还是觉得很时髦啊。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6512547)<br><br>2012-05-13 20:33<br>赞(0) 踩(0) | <div>&amp;amp;quot;她像一个软木塞封着一瓶酒你不觉得她很适合匆忙奔跑过一个灿烂的星空吗？她适合意志她也适合再举一个例子说她适合优美地滑倒你不觉得她是可以擦掉的吗那种一修再修的草图&amp;amp;quot;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6512547)<br><br>2012-05-13 20:33<br>赞(0) 踩(0) | <div>&amp;amp;quot;她像一个软木塞<br>封着一瓶酒<br>你不觉得她很适合匆忙奔跑<br>过一个灿烂的星空吗？<br>她适合意志<br>她也适合<br>再举一个例子说<br>她适合优美地滑倒<br>你不觉得她是可以擦掉的吗<br>那种一修再修的草图&amp;amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8774949)<br>一名女子音痴<br>2012-05-09 13:48<br>赞(0) 踩(0) | <div>亲爱的，你在烦恼些什么呢？雨已经停了，所有的星星已经亮了。。你是否感到微微暖意~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/644713)<br><br>2012-05-06 01:12<br>赞(0) 踩(0) | <div>TA像一个软木塞，封着一瓶酒。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/644713)<br><br>2012-05-06 01:11<br>赞(0) 踩(0) | <div>“ta像一个软木塞，封着一瓶酒...”被这句歌词触动了。珊妮的歌适合听现场...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/644713)<br><br>2012-05-06 01:11<br>赞(0) 踩(0) | <div>“ta像一个软木塞，封着一瓶酒...”<br>被这句歌词触动了。<br>珊妮的歌适合听现场...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/849435)<br>双魚<br>2012-05-05 14:55<br>赞(0) 踩(0) | <div>雨已经停了 所有的星星都亮了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1330684)<br><br>2012-03-25 23:21<br>赞(0) 踩(0) | <div>#你不觉得她很适合早上吗#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4003879)<br><br>2012-03-23 21:32<br>赞(0) 踩(0) | <div>《你在烦恼些什么呢？亲爱的》这首歌你听过么，其实这首歌比《情歌》听起来更有感觉。</div> |
@@ -136,7 +136,7 @@ da da da la...<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322963)<br><br>2011-09-13 16:54<br>赞(0) 踩(0) | <div>亲爱的/你在烦恼些什么呢/雨已经停了/所有的星星都亮了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3974749)<br><br>2011-08-16 20:08<br>赞(0) 踩(0) | <div>你在对我说话么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3011686)<br> <br>2011-06-17 23:43<br>赞(0) 踩(0) | <div>我们之后再没有更美的故事</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886077)<br>同归于尽<br>2011-06-05 15:34<br>赞(0) 踩(0) | <div>你不觉得她很适合匆忙奔跑过一个灿烂的星空吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886077)<br>同归于尽<br>2011-06-05 15:34<br>赞(0) 踩(0) | <div>你不觉得她很适合匆忙奔跑<br>过一个灿烂的星空吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4110995)<br><br>2011-05-30 23:51<br>赞(0) 踩(0) | <div>公主最棒！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1862609)<br>別逼逼<br>2011-05-04 22:50<br>赞(0) 踩(0) | <div>她像一個軟木塞，封著一瓶酒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/849435)<br>双魚<br>2011-05-03 09:37<br>赞(0) 踩(0) | <div>音乐卜说詤</div> |

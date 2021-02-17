@@ -12,17 +12,14 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358180588)<br>心靜的地方<br>2020-12-19 09:56<br>赞(0) 踩(0) | <div>来到师父的城市的第二天，很开心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/436471452)<br>难道想一个人，真的要想一...<br>2020-06-16 10:12<br>赞(0) 踩(0) | <div>好听喜欢 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358180588)<br>心靜的地方<br>2020-06-14 16:21<br>赞(2) 踩(0) | <div>师父，你知道吗当你昨天说要过来带我去你的城市时我高兴极了  也紧张极了你是第一个让我说愿意的人如果你给我两三天的时间让我和家人好好道别和单位好好解约我定会立马跟你走可惜你说得太仓促如果我走得太仓促我会愧疚一辈子  对家人虽然最后你说是逗我的但是我还是很开心  很感动  也很知足谢谢你  师父其实我们能相识  对于我来说就是上天给我最大的恩赐了 我也不应该再要求得太多</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358180588)<br>心靜的地方<br>2020-06-14 16:21<br>赞(2) 踩(0) | <div>师父，你知道吗<br>当你昨天说要过来带我去你的城市时<br>我高兴极了  也紧张极了<br>你是第一个让我说愿意的人<br>如果你给我两三天的时间<br>让我和家人好好道别<br>和单位好好解约<br>我定会立马跟你走<br>可惜你说得太仓促<br>如果我走得太仓促<br>我会愧疚一辈子  对家人<br>虽然最后你说是逗我的<br>但是我还是很开心  很感动  也很知足<br>谢谢你  师父<br>其实我们能相识  对于我来说就是上天<br>给我最大的恩赐了 我也不应该再要求得太多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50157928)<br>我还没想好要写什么...<br>2020-03-24 18:20<br>赞(1) 踩(0) | <div>我不是骂女声，但我的确听到了女声的幽怨盖过了钢琴曲的忧伤，这段爱情故事恐怕不能用凄美来形容，用勉强太适合不过了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343180515)<br>Music is inf...<br>2020-03-15 17:21<br>赞(0) 踩(0) | <div>其实音乐也不用多的乐器，一样入❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343180515)<br>Music is inf...<br>2020-03-15 17:15<br>赞(0) 踩(0) | <div>其实音乐也不用多的乐器，一样入心❤️</div> |
@@ -33,7 +30,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429353593)<br>空白<br>2019-12-14 03:58<br>赞(2) 踩(0) | <div>那女声才是这首钢琴曲的灵魂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245022713)<br>快乐的关键，不是去了哪里...<br>2019-10-16 16:43<br>赞(1) 踩(0) | <div>感冒，估计有点发烧，鼻涕流了一天，头晕眼花还胃寒，这种身体脆弱的时候却不知道该与谁说起，也不知道该想念谁，感觉想念谁也无法释怀，那就谁也不想吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45769486)<br>美妙的音乐时光，现在开启<br>2019-09-09 13:52<br>赞(1) 踩(0) | <div>越加越不好听了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377013821)<br><br>2019-07-31 18:50<br>赞(2) 踩(0) | <div>女声不错呢。琴声引序，为辅。女声独白内心，无声的呐喊。思念，彷徨，情切，无助，徘徊，理智的无奈。这一刻，所有，所有，都抛开吧，仅是念你，念你，恋你… 思你，思你，想你… 听到吗？听到了吗？那带我去吧，你身边……恍惚间，似乎，听到他的思念，却更理智。原来，横亘眼前的现实，始终存在。或另一版，原来我思他时，他也念我，推开门。啊也不啊了，无声，相拥……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377013821)<br><br>2019-07-31 18:50<br>赞(2) 踩(0) | <div>女声不错呢。琴声引序，为辅。女声独白内心，无声的呐喊。思念，彷徨，情切，无助，徘徊，理智的无奈。这一刻，所有，所有，都抛开吧，仅是念你，念你，恋你… 思你，思你，想你… 听到吗？听到了吗？那带我去吧，你身边……<br>恍惚间，似乎，听到他的思念，却更理智。原来，横亘眼前的现实，始终存在。<br>或另一版，原来我思他时，他也念我，推开门。啊也不啊了，无声，相拥……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424557164)<br><br>2019-05-19 14:51<br>赞(3) 踩(0) | <div>原来我们可以相爱，可以忘却，更然遗忘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231645350)<br>哎。<br>2019-05-11 23:42<br>赞(2) 踩(0) | <div>作者加了女音的道理。你听明白了 就理解了石进  你听不明白  说明你不懂  没有什么好听不好听的。这女的喊的很好啊…</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297117881)<br>世间最美好的事，就是想念...<br>2019-05-16 12:37<br>赞(0) 踩(0) | <div>同感  这首曲子需要心去听   现在听都这首曲子就想哭</div> |
@@ -198,7 +195,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15975612)<br><br>2015-08-23 21:04<br>赞(0) 踩(0) | <div><q><b>杨眉吐气他爹☜说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55463940)<br><br>2015-08-20 23:03<br>赞(0) 踩(0) | <div>希望听没有女声版的，毕竟喜欢你音乐的大多喜欢这种纯粹，爱你，石进，的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23676447)<br>我还没想好要写什么...<br>2015-08-20 17:51<br>赞(2) 踩(0) | <div>确实加了女声不太想听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13898201)<br>爱音乐爱生活<br>2015-08-20 17:50<br>赞(0) 踩(0) | <div>吟唱令人惊艳，凄凉唯美。歌声仿佛诉说着一段故事</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13898201)<br>爱音乐爱生活<br>2015-08-20 17:50<br>赞(0) 踩(0) | <div>吟唱令人惊艳，凄凉唯美。<br>歌声仿佛诉说着一段故事</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56364236)<br><br>2015-08-21 23:31<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39131693)<br>随心而动<br>2015-08-20 16:25<br>赞(1) 踩(0) | <div>还是不太习惯有女声，不过曲调很美！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49413282)<br><br>2015-08-20 16:02<br>赞(0) 踩(0) | <div>有一种惊艳的感觉</div> |
@@ -209,7 +206,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50916192)<br><br>2015-08-20 10:12<br>赞(0) 踩(0) | <div>静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42636586)<br>隔海相望的时候最好<br>2015-08-20 08:23<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24272425)<br>我要学琵琶<br>2015-08-20 08:06<br>赞(71) 踩(0) | <div>女生的音调高过乐曲本身的调了，就听到“哈～哈～哈～”，而且女声完全是在炫技，没感情投入</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178666378)<br>岁月有着不动声色的力量 ...<br>2017-03-22 02:49<br>赞(0) 踩(0) | <div>你懂什么？凭什么这样的评论？</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178666378)<br>岁月有着不动声色的力量 ...<br>2017-03-22 02:49<br>赞(0) 踩(0) | <div>你懂什么？<br>凭什么这样的评论？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299109083)<br><br>2017-07-20 17:43<br>赞(0) 踩(0) | <div>每个人的欣赏角度不同，</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305123248)<br>无我相。<br>2017-12-03 08:42<br>赞(0) 踩(0) | <div><q><b>起点就是成长说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301034632)<br><br>2017-12-21 12:46<br>赞(0) 踩(0) | <div><q><b>起点就是成长说：</b></q></div> |
@@ -230,7 +227,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55767368)<br>我愿人长久<br>2015-08-19 17:39<br>赞(1) 踩(0) | <div>有女声也好听的嘛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8652585)<br><br>2015-08-19 17:32<br>赞(1) 踩(0) | <div>确实，，，这个人声是什么鬼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54772790)<br><br>2015-08-19 17:28<br>赞(159) 踩(0) | <div>可不可以别加女声，难听死了，意境都变了，就是想听个单纯的轻音乐呢</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178666378)<br>岁月有着不动声色的力量 ...<br>2017-03-22 02:50<br>赞(0) 踩(0) | <div>没有经历古酸甜苦辣的你你不会明白zhezhong心情</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178666378)<br>岁月有着不动声色的力量 ...<br>2017-03-22 02:50<br>赞(0) 踩(0) | <div>没有经历古酸甜苦辣的<br>你<br>你不会明白zhezhong<br>心情</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/176303914)<br><br>2017-07-14 00:39<br>赞(0) 踩(0) | <div>好悲</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198552688)<br>Melody Of Th...<br>2017-08-03 06:19<br>赞(0) 踩(0) | <div>你不喜歡可以不聽 但是請別這樣侮辱石進老師的作品</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255095318)<br> <br>2017-08-15 04:39<br>赞(0) 踩(0) | <div>我也是则么觉得 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |

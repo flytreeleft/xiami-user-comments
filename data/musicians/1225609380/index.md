@@ -3,7 +3,7 @@ Gryffin
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1d44d6992106379155863efc6cce8709.jpg)<br>Gryffin](https://i.xiami.com/gryffin) | **播放数**: 5855587<br>**粉丝数**: 2122<br>**评论数**: 90<br>**地区**: United States of America 美国<br>**风格**: 未来贝斯 Future Bass<br> |
+| [![](../../images/musicians/1d44d6992106379155863efc6cce8709.jpg)<br>Gryffin](https://i.xiami.com/gryffin) | **地区**: United States of America 美国<br>**风格**: 未来贝斯 Future Bass<br>**播放数**: 5855587<br>**粉丝数**: 2122<br>**评论数**: 90<br> |
 
 ## 档案
 
@@ -61,8 +61,8 @@ Dan Griffith以他的舞台名称Gryffin (通常被称为GRYFFIN) 而闻名，�
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-08-01 08:46<br>赞(0) 踩(0) | <div>✧*｡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35586392)<br>SHOCKEDYOURS...<br>2020-03-19 22:29<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411133757)<br>k .<br>2020-03-14 15:41<br>赞(0) 踩(0) | <div>爱了爱了</div> |
@@ -79,7 +79,7 @@ Dan Griffith以他的舞台名称Gryffin (通常被称为GRYFFIN) 而闻名，�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4487129)<br><br>2019-02-07 20:52<br>赞(0) 踩(0) | <div>！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313923153)<br>宇宙深处的大虾<br>2018-11-24 20:37<br>赞(2) 踩(0) | <div>你的每一首歌我都喜欢你太棒了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2018-09-20 21:06<br>赞(1) 踩(0) | <div>Gryffin - Tie Me Down (feat. Elley Duhe) (Remixes)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8560271)<br>Still here<br>2018-07-11 13:43<br>赞(1) 踩(0) | <div>I like your music rhythm,so much!!I also hope u can make more excellent music.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8560271)<br>Still here<br>2018-07-11 13:43<br>赞(1) 踩(0) | <div>I like your music rhythm,so much!!<br>I also hope u can make more excellent music.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262280019)<br><br>2018-06-25 15:10<br>赞(0) 踩(0) | <div>just for a moment 怎麼還沒發</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258427956)<br>微信：pandarial...<br>2018-05-08 12:07<br>赞(0) 踩(0) | <div>我伤悲这世界，没有可以欺骗自己的好梦。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81081712)<br>Nichts zu ve...<br>2018-04-30 09:15<br>赞(1) 踩(0) | <div>Terrific live show at Shanghai edc!! <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |

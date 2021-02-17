@@ -3,7 +3,7 @@ Goodbye Honey Boy
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f12eef50f4868db3a09167aae7c729fb.jpg)<br>Goodbye Honey Boy](https://i.xiami.com/goodbyehoneyboy) | **播放数**: 452455<br>**粉丝数**: 1489<br>**评论数**: 101<br>**地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 独立电子乐 Indietronica<br> |
+| [![](../../images/musicians/f12eef50f4868db3a09167aae7c729fb.jpg)<br>Goodbye Honey Boy](https://i.xiami.com/goodbyehoneyboy) | **地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 独立电子乐 Indietronica<br>**播放数**: 452455<br>**粉丝数**: 1489<br>**评论数**: 101<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@ Goodbye Honey Boy是一个musical collective, 由不一定的音乐人，乐手�
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13228266)<br>国破山河在<br>2021-01-03 08:57<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2021-01-01 16:19<br>赞(0) 踩(0) | <div><img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21003218)<br><br>2020-12-18 07:23<br>赞(0) 踩(0) | <div>wow love it!</div> |

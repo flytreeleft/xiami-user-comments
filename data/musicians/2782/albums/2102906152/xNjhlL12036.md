@@ -67,8 +67,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15827579)<br> <br>2017-11-07 00:54<br>赞(0) 踩(0) | <div>每一首都是佳作</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10504566)<br>音乐是通往天堂的桥梁<br>2017-11-07 00:33<br>赞(0) 踩(0) | <div>新专辑能不能来深圳巡回演出一下啊&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256551603)<br>我愛宋冬野<br>2017-11-07 00:16<br>赞(2) 踩(0) | <div>好感動 勝利唱歌太好聽了</div> |

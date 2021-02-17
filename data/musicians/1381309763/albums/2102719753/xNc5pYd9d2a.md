@@ -29,5 +29,3 @@ Have this wish I wish tonight
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

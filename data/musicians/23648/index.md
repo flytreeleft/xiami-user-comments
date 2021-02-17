@@ -3,7 +3,7 @@ Bang Gang
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/da8fd2226622ddfcef0afa76610cafde.jpg)<br>Bang Gang](https://i.xiami.com/banggang) | **播放数**: 10030740<br>**粉丝数**: 65226<br>**评论数**: 1541<br>**地区**: Iceland 冰岛<br>**风格**: 神游舞曲 Trip Hop, 缓拍 Downtempo, 电子 Electronic, 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/da8fd2226622ddfcef0afa76610cafde.jpg)<br>Bang Gang](https://i.xiami.com/banggang) | **地区**: Iceland 冰岛<br>**风格**: 神游舞曲 Trip Hop, 缓拍 Downtempo, 电子 Electronic, 独立流行 Indie Pop<br>**播放数**: 10030740<br>**粉丝数**: 65226<br>**评论数**: 1541<br> |
 
 ## 档案
 
@@ -49,8 +49,8 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30074304)<br>寄蜉蝣于天地，渺沧海之一...<br>2021-01-02 22:15<br>赞(0) 踩(0) | <div>✈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3008874)<br>什么时候遇见外星人/回宇...<br>2020-10-10 20:56<br>赞(1) 踩(0) | <div>听了十多年了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26033632)<br>一个纯粹的理想主义者～<br>2020-08-22 17:53<br>赞(1) 踩(0) | <div>网易云没版权只能来这听了</div> |
@@ -71,7 +71,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418947751)<br>嘿 你也抽烟吗<br>2019-04-19 23:09<br>赞(1) 踩(0) | <div>lady&amp;bird</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2019-04-06 12:24<br>赞(1) 踩(0) | <div>1224</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23597938)<br>我爱的女人过于优秀了<br>2019-04-02 19:24<br>赞(0) 踩(0) | <div>卧槽，这是只有虾米有版权吗</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11856095)<br>正 是<br>2019-03-21 03:48<br>赞(1) 踩(0) | <div>17年错过了来巡演吧</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11856095)<br>正 是<br>2019-03-21 03:48<br>赞(1) 踩(0) | <div>17年错过了<br>来巡演吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3008874)<br>什么时候遇见外星人/回宇...<br>2019-03-10 11:24<br>赞(1) 踩(0) | <div>高中时候很喜欢的乐队。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350262065)<br><br>2019-02-14 21:01<br>赞(0) 踩(0) | <div>来南昌吧，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18614661)<br>2013.11.26<br>2019-02-09 10:47<br>赞(0) 踩(0) | <div>/</div> |
@@ -100,7 +100,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321098961)<br>向内认知，向外行走<br>2018-06-04 00:46<br>赞(1) 踩(0) | <div>曲风不同，做不了朋友</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321098961)<br>向内认知，向外行走<br>2018-06-04 00:46<br>赞(2) 踩(0) | <div>孤独的人只想和孤独的人做朋友</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321098961)<br>向内认知，向外行走<br>2018-06-04 00:45<br>赞(2) 踩(0) | <div>孤独的人只愿意遇到孤独的人</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250847378)<br>虾米的每次改版我都看在眼...<br>2018-05-29 00:50<br>赞(0) 踩(0) | <div>【2018巡演】7月10日北京@糖果_TANGO 、7月11日上海@ModernSkyLAB上海、7月13日廣州 @MAOLivehouse廣州 、7月14日深圳 @A8Live購片鏈接:<a href="http://t.cn/R3dWMU8" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/R3dWMU8</a>全平台同時上線！各大票務網站都可購票@大麥網 @秀動ShowStart @格瓦拉生活 @247tickets 更多詳情請關注@騰踔娛樂</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250847378)<br>虾米的每次改版我都看在眼...<br>2018-05-29 00:50<br>赞(0) 踩(0) | <div>【2018巡演】7月10日北京@糖果_TANGO 、7月11日上海@ModernSkyLAB上海、<br>7月13日廣州 @MAOLivehouse廣州 、7月14日深圳 @A8Live<br>購片鏈接:<a href="http://t.cn/R3dWMU8" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/R3dWMU8</a><br>全平台同時上線！各大票務網站都可購票@大麥網 @秀動ShowStart @格瓦拉生活 @247tickets 更多詳情請關注@騰踔娛樂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1689069)<br><br>2018-05-28 19:17<br>赞(0) 踩(0) | <div>大麦有票务，已下单</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2156426)<br>天天听歌，佛系交友<br>2018-05-24 01:01<br>赞(1) 踩(0) | <div>又要来啦？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68935180)<br>但愿你 旅途漫长<br>2018-05-20 08:52<br>赞(0) 踩(0) | <div>7月见</div> |
@@ -128,12 +128,12 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9154037)<br>到水星散心去了。<br>2017-11-30 12:31<br>赞(2) 踩(0) | <div>好久不听了...哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10028400)<br>我还没想好要写什么...<br>2017-11-26 09:41<br>赞(0) 踩(0) | <div><img src="../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35660305)<br> <br>2017-10-30 10:01<br>赞(5) 踩(0) | <div>想弄个微信群 大家一起分享好听的歌 我喜欢nirvana、the beatles、radiohead、banggang 等等 有感兴趣的吗 我这儿人少 加我 告诉我你是虾米看到的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420330)<br>乌克兰后摇乐队，签约中国...<br>2017-10-28 00:01<br>赞(2) 踩(0) | <div>冰岛乐队Bang Gang 2014“Forever Now”中国巡演9.26 北京 愚公移山; 9.27 上海 浅水湾文化艺术中心; 9.28 深圳 B10现场; 9.30 香港 Music Zone; 10.2 广州 TU凸空间购票：<a href="http://www.douban.com/event/21791786/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21791786/</a><a href="http://www.zhongchou.cn/deals/r-di-k-bang" target="_blank" rel="nofollow noreferrer noopener">http://www.zhongchou.cn/deals/r-di-k-bang</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420330)<br>乌克兰后摇乐队，签约中国...<br>2017-10-28 00:01<br>赞(2) 踩(0) | <div>冰岛乐队Bang Gang 2014“Forever Now”中国巡演<br>9.26 北京 愚公移山; 9.27 上海 浅水湾文化艺术中心; 9.28 深圳 B10现场; 9.30 香港 Music Zone; 10.2 广州 TU凸空间<br>购票：<br><a href="http://www.douban.com/event/21791786/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21791786/</a><br><a href="http://www.zhongchou.cn/deals/r-di-k-bang" target="_blank" rel="nofollow noreferrer noopener">http://www.zhongchou.cn/deals/r-di-k-bang</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32320260)<br>kiss me<br>2017-10-27 23:33<br>赞(0) 踩(0) | <div>BG的微博回复我说并没有下架 但是虾米的确是下架了 个中缘由可能只有代理知道 呵呵</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38626334)<br>可能 或许 大概 是个好...<br>2017-12-03 21:01<br>赞(0) 踩(0) | <div>被之前的负责团队骗了。把他的版权卖了。他本人是不知情的。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41250049)<br><br>2017-10-27 23:31<br>赞(1) 踩(0) | <div>冰岛乐队BangGang2015年新专辑首发中国巡演路线【上海站】<a href="http://www.douban.com/event/24509482/?qq-pf-to=pcqq.c2c" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/24509482/?qq-pf-to=pcqq.c2c</a>【时间】 2015年11月14日 周六【票价】预售票：240元/人 现场票：300元/人【场地】 MAO LiveHouse【地址】上海黄浦区重庆南路308号3楼(近建国中路)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41250049)<br><br>2017-10-27 23:31<br>赞(1) 踩(0) | <div>冰岛乐队BangGang2015年新专辑首发中国巡演路线：【重庆站】<a href="http://www.douban.com/event/24509859/?qq-pf-to=pcqq.c2c" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/24509859/?qq-pf-to=pcqq.c2c</a>【时间】 2015年11月18日 周三【票价】预售票：130元/人 现场票：160元/人【场地】 坚果live house【地址】渝中区较场口得意潮馆B1-21</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49989091)<br><br>2017-10-27 23:00<br>赞(6) 踩(0) | <div>2015年bang gang中国巡演各站签售排号链接：<a href="https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-12427955624.26.0NDInp&amp;id=522030383696" target="_blank" rel="nofollow noreferrer noopener">https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-12427955624.26.0NDInp&amp;id=522030383696</a>【EyesWideOpen呈现】冰岛乐队BangGang2015年中国巡演预售票链接：<a href="https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-12427955624.2.0NDInp&amp;id=522047361281" target="_blank" rel="nofollow noreferrer noopener">https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-12427955624.2.0NDInp&amp;id=522047361281</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41250049)<br><br>2017-10-27 23:31<br>赞(1) 踩(0) | <div>冰岛乐队BangGang2015年新专辑首发中国巡演路线<br>【上海站】<a href="http://www.douban.com/event/24509482/?qq-pf-to=pcqq.c2c" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/24509482/?qq-pf-to=pcqq.c2c</a><br>【时间】 2015年11月14日 周六<br>【票价】预售票：240元/人 现场票：300元/人<br>【场地】 MAO LiveHouse<br>【地址】上海黄浦区重庆南路308号3楼(近建国中路)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41250049)<br><br>2017-10-27 23:31<br>赞(1) 踩(0) | <div>冰岛乐队BangGang2015年新专辑首发中国巡演路线：<br>【重庆站】<a href="http://www.douban.com/event/24509859/?qq-pf-to=pcqq.c2c" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/24509859/?qq-pf-to=pcqq.c2c</a><br>【时间】 2015年11月18日 周三<br>【票价】预售票：130元/人 现场票：160元/人<br>【场地】 坚果live house<br>【地址】渝中区较场口得意潮馆B1-21</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49989091)<br><br>2017-10-27 23:00<br>赞(6) 踩(0) | <div>2015年bang gang中国巡演各站签售排号<br>链接：<a href="https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-12427955624.26.0NDInp&amp;id=522030383696" target="_blank" rel="nofollow noreferrer noopener">https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-12427955624.26.0NDInp&amp;id=522030383696</a><br><br>【EyesWideOpen呈现】冰岛乐队BangGang2015年中国巡演<br>预售票链接：<a href="https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-12427955624.2.0NDInp&amp;id=522047361281" target="_blank" rel="nofollow noreferrer noopener">https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-12427955624.2.0NDInp&amp;id=522047361281</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7716224)<br>我等你<br>2017-10-27 22:59<br>赞(1) 踩(0) | <div>新砖歌词快来哪位大大搞上去，11.18重庆坚果，本宝宝要去膜拜 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2863100)<br>前尘湮灭,化作乌有.<br>2017-10-24 15:03<br>赞(3) 踩(0) | <div>时隔那么多年再听到这永不会忘的旋律，还是没忍住红了眼眶，毕竟过去是真沉浸在这其中太久，bang gang的歌就像他们的封面一样，给我一种灰色地带的安全感。现在回想起来，喜欢听Bang Gang歌的人大多都有一颗空荡得只能住下音乐的心，飘忽的眼神，沉默的嘴角.......7年多来，手机里一直有bang gang的歌，但每播到几个音符前奏，我总立马切歌跳过，是不想听歌，也是不想听回忆了，但也是每一次内存不够也决不会删的歌。也许是我喜新厌旧，也许是我心态变了，有很多也许......他一直活在我的手机里，也活在我的过去里，某种角度来说，我再不会主动去听bang gang曾经的歌 ，于我而言，该是好的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2017-10-14 21:51<br>赞(1) 踩(0) | <div>著名“通州乐队"</div> |
@@ -165,7 +165,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6551425)<br> 降落<br>2017-05-10 04:10<br>赞(1) 踩(0) | <div>现场沉醉如诗。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12516980)<br>每天刷歌一小时<br>2017-05-09 15:28<br>赞(1) 踩(0) | <div>大概会是今夏最爱的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46598489)<br>你好吗<br>2017-05-07 23:49<br>赞(1) 踩(0) | <div>今晚广州 感恩</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/868750)<br><br>2017-05-07 09:25<br>赞(1) 踩(0) | <div>Trip Hop 和 后摇（Post Rock）<a href="https://www.zhihu.com/question/28611088" target="_blank" rel="nofollow noreferrer noopener">https://www.zhihu.com/question/28611088</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/868750)<br><br>2017-05-07 09:25<br>赞(1) 踩(0) | <div>Trip Hop 和 后摇（Post Rock）<br><a href="https://www.zhihu.com/question/28611088" target="_blank" rel="nofollow noreferrer noopener">https://www.zhihu.com/question/28611088</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5755327)<br><br>2017-05-06 23:56<br>赞(2) 踩(0) | <div>一个人就去听了，收获满满的回来，最后的飞吻真是甜炸！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235409281)<br><br>2017-05-06 23:28<br>赞(3) 踩(0) | <div>为了听现场特意从南京跑到上海&amp;hellip;&amp;hellip;结束后感觉一切都太值得了！没有想到真的会返场，听到It&amp;#39;s alright的时候差点哭出来。不论是从Bardi，整个乐队还是大家那里，都感受到了满满的爱(*˘︶˘*).。.:*♡</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38939973)<br> <br>2017-05-08 22:09<br>赞(0) 踩(0) | <div>同喜爱it&amp;#39;s alright</div> |
@@ -212,7 +212,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1866707)<br>音乐果然什么都能治愈~<br>2017-04-09 11:33<br>赞(0) 踩(0) | <div><q><b>方糖加水说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40441728)<br>我们的孤独像是一种与生俱...<br>2017-04-09 11:34<br>赞(0) 踩(0) | <div><q><b>紫说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36471014)<br>oi to the wo...<br>2017-04-03 10:32<br>赞(0) 踩(0) | <div>上海 上海！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248591833)<br>玩音乐，看演出，找乐子<br>2017-03-31 11:54<br>赞(3) 踩(0) | <div>【inSide呈现】2017年冰岛Bang Gang中国巡演<a href="http://www.gopiaowu.cn/index_show.html?id=4544&amp;amp;amp;referrers=index" target="_blank" rel="nofollow noreferrer noopener">http://www.gopiaowu.cn/index_show.html?id=4544&amp;amp;amp;referrers=index</a>5月2日重庆场地：mao live house5月3日成都场地：小酒馆空间5月5日 北京场地：糖果一层（格瓦拉生活：糖果live）5月6日 上海场地：浅水湾小剧场（万代南梦宫）5月7日 广州场地：TU空间</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248591833)<br>玩音乐，看演出，找乐子<br>2017-03-31 11:54<br>赞(3) 踩(0) | <div>【inSide呈现】2017年冰岛Bang Gang中国巡演<br><a href="http://www.gopiaowu.cn/index_show.html?id=4544&amp;amp;amp;referrers=index" target="_blank" rel="nofollow noreferrer noopener">http://www.gopiaowu.cn/index_show.html?id=4544&amp;amp;amp;referrers=index</a><br>5月2日重庆<br>场地：mao live house<br>5月3日成都<br>场地：小酒馆空间<br>5月5日 北京<br>场地：糖果一层（格瓦拉生活：糖果live）<br>5月6日 上海<br>场地：浅水湾小剧场（万代南梦宫）<br>5月7日 广州<br>场地：TU空间</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35088550)<br>对不起。<br>2017-04-09 10:52<br>赞(0) 踩(0) | <div>没武汉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13526500)<br>Comment ça v...<br>2017-03-20 07:09<br>赞(3) 踩(0) | <div>额...上海有人组团么 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> 飘过问一下</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39331279)<br> <br>2017-04-21 18:42<br>赞(0) 踩(0) | <div>有吗 算我 <img src="../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
@@ -251,7 +251,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1250150)<br>个<br>2016-11-20 22:22<br>赞(1) 踩(0) | <div>2017.5.5 北京</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44140680)<br>旅途愉快<br>2016-11-18 22:51<br>赞(0) 踩(0) | <div>⚫️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11917054)<br>『常年卧底医院并乔装成医...<br>2016-11-18 18:56<br>赞(0) 踩(0) | <div>『get√U』</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/773393)<br>GALAXY<br>2016-10-29 15:58<br>赞(1) 踩(0) | <div>挺久没听banggang了。。。突然留意到巡演票价越来越贵了 - -幸亏第一次就看了，无憾</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/773393)<br>GALAXY<br>2016-10-29 15:58<br>赞(1) 踩(0) | <div>挺久没听banggang了。。。<br>突然留意到巡演票价越来越贵了 - -<br>幸亏第一次就看了，无憾</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2016-10-23 10:14<br>赞(2) 踩(0) | <div>2017年bang gang巡演即将公布，请关注主办方微博：<a href="http://weibo.com/2632155903" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/2632155903</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18584625)<br>单念dàn ：拜托 ）<br>2016-10-09 05:37<br>赞(2) 踩(0) | <div>被迫转战网易云</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5929688)<br><br>2016-09-30 05:03<br>赞(0) 踩(0) | <div>有人推荐</div> |
@@ -325,7 +325,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/579700)<br>不可描述<br>2015-11-15 05:52<br>赞(0) 踩(0) | <div>神游？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31377777)<br>暂无签名~<br>2015-11-15 04:28<br>赞(2) 踩(0) | <div>签售完了之后死在了bardi的眼神和气质里。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2690788)<br>偏爱小清新 独立 摇滚<br>2015-11-15 02:33<br>赞(2) 踩(0) | <div>其实我觉得下架无可厚非，没有免费的午餐，人家出一张砖隔了7年，这得多难啊？！评价还是9.1，容易么张张都9.0以上，所以明天广州站的小伙伴我们约起来嗨起来呀哈哈哈</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496847)<br>夢醒了，所以心碎了。<br>2015-11-14 23:57<br>赞(2) 踩(0) | <div>求再来中国再来中国再来中国！！！刚听完Mao的现场回来，虽然主唱真的真的真的很冷，但是真的真的真的很赞！！！High劲都还没过，再听一会XD</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496847)<br>夢醒了，所以心碎了。<br>2015-11-14 23:57<br>赞(2) 踩(0) | <div>求再来中国再来中国再来中国！！！<br>刚听完Mao的现场回来，虽然主唱真的真的真的很冷，但是真的真的真的很赞！！！<br>High劲都还没过，再听一会XD</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41163024)<br>I’m done.<br>2015-11-15 00:08<br>赞(0) 踩(0) | <div>高冷地说了好多个thank u23333</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496847)<br>夢醒了，所以心碎了。<br>2015-11-15 00:36<br>赞(0) 踩(0) | <div><q><b>shiitake说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41163024)<br>I’m done.<br>2015-11-15 00:40<br>赞(0) 踩(0) | <div><q><b>木頭吉娜说：</b></q></div> |
@@ -442,7 +442,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6368908)<br>easy come,ea...<br>2015-10-30 12:32<br>赞(0) 踩(0) | <div>好想去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3093365)<br>一把火整个世界泛着焦味<br>2015-10-30 11:22<br>赞(0) 踩(0) | <div>爱你从12岁开始</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15402749)<br><br>2015-10-29 00:23<br>赞(1) 踩(0) | <div>又来啦 上海</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/548259)<br>INFP/OKAY<br>2015-10-27 22:47<br>赞(0) 踩(0) | <div>来上海了，想去ʕ •ᴥ•ʔ～不知道到时候是不是自己一个人诶~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/548259)<br>INFP/OKAY<br>2015-10-27 22:47<br>赞(0) 踩(0) | <div>来上海了，想去ʕ •ᴥ•ʔ～<br>不知道到时候是不是自己一个人诶~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6081586)<br>不停止休息的耳膜  聋掉...<br>2015-10-27 20:44<br>赞(0) 踩(0) | <div>票已入 广州组队抛微信dadaone110 <img src="../../images/comments/0590342800944c9cbf70e4e78ed6027a.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77994412)<br><br>2015-10-30 21:50<br>赞(0) 踩(0) | <div>约</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77994412)<br><br>2015-10-30 21:51<br>赞(0) 踩(0) | <div>约</div> |
@@ -583,8 +583,8 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40460649)<br>Life is Musi...<br>2015-08-02 22:06<br>赞(0) 踩(0) | <div>啦啦啦啦啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36517683)<br><br>2015-08-01 07:37<br>赞(0) 踩(0) | <div><img src="../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"> <img src="../../images/comments/286e5490345b55baf85bf75195319042.png"> <img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16575191)<br>美术生拯救世界<br>2015-07-30 22:11<br>赞(0) 踩(0) | <div>哦凑要上高中了去不了现场了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41250049)<br><br>2015-07-28 20:32<br>赞(72) 踩(0) | <div>Hope to see you all on the concerts and that you already listened to the new album : The Wolves Are Whispering.xxxBardi</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41250049)<br><br>2015-07-28 20:29<br>赞(1) 踩(0) | <div>冰岛乐队BangGang2015年新专辑首发中国巡演路线【北京站】<a href="http://www.douban.com/event/24509119/?qq-pf-to=pcqq.c2c" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/24509119/?qq-pf-to=pcqq.c2c</a>【时间】 2015年11月13日 周五【票价】预售票：230元/人 现场票：300元/人【场地】 雍和宫 糖果三层【地址】北京东城区和平西街79号 雍和宫桥路北50米 Hit Fm Live·糖果（原雍和宫糖果三层）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41250049)<br><br>2015-07-28 20:32<br>赞(72) 踩(0) | <div>Hope to see you all on the concerts and that you already listened to the new album : The Wolves Are Whispering.<br>xxx<br>Bardi</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41250049)<br><br>2015-07-28 20:29<br>赞(1) 踩(0) | <div>冰岛乐队BangGang2015年新专辑首发中国巡演路线<br>【北京站】<a href="http://www.douban.com/event/24509119/?qq-pf-to=pcqq.c2c" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/24509119/?qq-pf-to=pcqq.c2c</a><br>【时间】 2015年11月13日 周五<br>【票价】预售票：230元/人 现场票：300元/人<br>【场地】 雍和宫 糖果三层<br>【地址】北京东城区和平西街79号 雍和宫桥路北50米 Hit Fm Live·糖果（原雍和宫糖果三层）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7043687)<br> <br>2015-08-14 14:59<br>赞(0) 踩(0) | <div>will you come to HongKong? <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3814751)<br>if i could t...<br>2015-07-28 00:04<br>赞(0) 踩(0) | <div>cocoon的感觉哟～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3510738)<br>晚安、<br>2015-07-27 16:29<br>赞(0) 踩(0) | <div>此宝贝已下架...</div> |
@@ -698,15 +698,15 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/554445)<br><br>2015-02-10 22:27<br>赞(0) 踩(0) | <div>2月2日出新歌了。。Out of Horizon。。苹果店里售卖。。。啊啊啊安卓用户听不到</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22265117)<br>“如果还是木薯粉，我就杀...<br>2015-03-07 02:29<br>赞(0) 踩(0) | <div>soundcloud上有的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6265746)<br>嗜睡患者<br>2015-02-10 20:51<br>赞(0) 踩(0) | <div>怎么好多歌都没了？！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19470244)<br>Amazing<br>2015-02-10 14:39<br>赞(0) 踩(0) | <div>lost in wonderland 呢？怎么没了···</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19470244)<br>Amazing<br>2015-02-10 14:39<br>赞(0) 踩(0) | <div>lost in wonderland 呢？<br>怎么没了···</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7915865)<br><br>2015-02-09 12:08<br>赞(1) 踩(0) | <div>这样下去，真的很难在这里待下去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2966290)<br>我还没想好要写什么...<br>2015-02-08 19:33<br>赞(1) 踩(0) | <div>。。。。。。。虾米呆不下去了。。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11935604)<br><br>2015-02-08 16:22<br>赞(0) 踩(0) | <div>什么怎么突然就没了！！！！！！前段时间我刚在blue foundation那惊叹版权都没啦！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11935604)<br><br>2015-02-08 16:22<br>赞(0) 踩(0) | <div>什么怎么突然就没了！！！！！！<br>前段时间我刚在blue foundation那惊叹版权都没啦！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41250049)<br><br>2015-02-08 05:05<br>赞(0) 踩(0) | <div>BangGang微博里可以听到 &amp;lt;Forever Now&amp;gt; ;)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6087919)<br>ワイン<br>2015-02-06 20:57<br>赞(0) 踩(0) | <div>手机上还可以听forever now？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5531529)<br>无音乐会死星人<br>2015-02-06 00:16<br>赞(1) 踩(0) | <div>我要听forever now!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47146403)<br><br>2015-02-10 15:36<br>赞(0) 踩(0) | <div>我也超级喜欢forever now</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41250049)<br><br>2015-02-05 21:06<br>赞(1) 踩(0) | <div>新曲抢先听，在这里大家可以听到Bang Gang2月2日发行的Out of Horizon<a href="https://itunes.apple.com/album/out-of-horizon-single/id960417004" target="_blank" rel="nofollow noreferrer noopener">https://itunes.apple.com/album/out-of-horizon-single/id960417004</a>itunes.apple.com</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41250049)<br><br>2015-02-05 21:06<br>赞(1) 踩(0) | <div>新曲抢先听，在这里大家可以听到Bang Gang2月2日发行的<br>Out of Horizon<br><br><a href="https://itunes.apple.com/album/out-of-horizon-single/id960417004" target="_blank" rel="nofollow noreferrer noopener">https://itunes.apple.com/album/out-of-horizon-single/id960417004</a><br>itunes.apple.com</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11340472)<br>辣鸡强制收藏<br>2015-02-05 00:38<br>赞(0) 踩(0) | <div>卧槽 歌呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16949067)<br>我不愿多说话，我想放纵一...<br>2015-02-04 18:03<br>赞(0) 踩(0) | <div>虾米不想混了吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16949067)<br>我不愿多说话，我想放纵一...<br>2015-02-04 18:03<br>赞(0) 踩(0) | <div>QQ上也没有，虾米也没有</div> |
@@ -722,7 +722,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8955203)<br>我还没想好要写什么...<br>2015-01-24 20:32<br>赞(0) 踩(0) | <div>竟然没有forever now (っ˘̩╭╮˘̩)っ 伐开心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3442087)<br>Dust To Dust<br>2015-01-23 10:07<br>赞(0) 踩(0) | <div>怎么都下架了啊？早知道先下载了！！！成了虾米音乐人后居然这样，一点不开森~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17090308)<br>:)<br>2015-01-19 20:02<br>赞(1) 踩(0) | <div>不开心。。。成为虾米音乐人，然后。。。然后。。。好歌就下架了</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7987622)<br>暂无签名~<br>2017-10-27 22:58<br>赞(0) 踩(0) | <div>大家不要着急～吧嗒在置顶帖里解释了目前虾米网上BG的音乐已下架，请大家不要多虑，等Bardi开始亲自管理BG的虾米音乐人时，音乐会重新上架为正版，大家可以直接通过虾米来支持Bardi。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7987622)<br>暂无签名~<br>2017-10-27 22:58<br>赞(0) 踩(0) | <div>大家不要着急～吧嗒在置顶帖里解释了<br>目前虾米网上BG的音乐已下架，请大家不要多虑，等Bardi开始亲自管理BG的虾米音乐人时，音乐会重新上架为正版，大家可以直接通过虾米来支持Bardi。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11901452)<br><br>2015-01-17 20:19<br>赞(0) 踩(0) | <div>咦咦，才发现，歌呢~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3641551)<br>暂无签名~<br>2015-01-16 20:10<br>赞(0) 踩(0) | <div>公告栏里的淘宝广告是官方发的吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43732935)<br><br>2015-01-15 22:11<br>赞(0) 踩(0) | <div>怎么回事嘛，要疯了，可是我的精神支柱，特别是Forever Now</div> |
@@ -745,7 +745,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/652513)<br>weibo:acidta...<br>2014-12-31 20:19<br>赞(0) 踩(0) | <div>为什么下架了啊。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331793)<br> <br>2014-12-29 21:46<br>赞(0) 踩(0) | <div>Bang Gang 說：現場一定要反過來叫我的名字。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34003246)<br>暂无签名~<br>2014-12-26 00:10<br>赞(0) 踩(0) | <div>契机</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:23<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:23<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2609555)<br><br>2014-12-24 10:31<br>赞(0) 踩(0) | <div>沙哑的嗓音，催人老去。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-23 01:22<br>赞(0) 踩(0) | <div>爱生活 爱音乐 更爱虾米! 路过 支持下。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2909222)<br>别瞎说！<br>2014-12-23 00:15<br>赞(0) 踩(0) | <div>虾米越来越傻了.</div> |
@@ -754,7 +754,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1503246)<br>好音乐,自己会说话<br>2014-12-19 17:38<br>赞(0) 踩(0) | <div>乐队本身根本不用这个号，其实我有种纯粹是来中国圈钱的感觉……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1360353)<br><br>2014-12-19 07:34<br>赞(0) 踩(0) | <div>公告栏是怎么回事！！这什么公关</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5395337)<br> <br>2014-12-19 12:37<br>赞(0) 踩(0) | <div>是啊-_-# 好low 这里是人人吗</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42344548)<br>酷狗每晚现场打碟直播，房...<br>2014-12-11 11:14<br>赞(0) 踩(0) | <div>这样的歌曲听起来很养心，可惜不再更新了<a href="http://i.xiami.com/djac811111?spm=a1z1s.6659513.0.0.iqOoyq" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/djac811111?spm=a1z1s.6659513.0.0.iqOoyq</a>这里面的歌曲其实也蛮好听的，不信试试？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42344548)<br>酷狗每晚现场打碟直播，房...<br>2014-12-11 11:14<br>赞(0) 踩(0) | <div>这样的歌曲听起来很养心，可惜不再更新了<br><a href="http://i.xiami.com/djac811111?spm=a1z1s.6659513.0.0.iqOoyq" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/djac811111?spm=a1z1s.6659513.0.0.iqOoyq</a>这里面的歌曲其实也蛮好听的，不信试试？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30893598)<br>_(:з」∠)_<br>2014-12-06 14:33<br>赞(0) 踩(0) | <div>大爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8943891)<br>你咋那么可爱？<br>2014-12-06 13:57<br>赞(0) 踩(0) | <div>٩(๑ᵒ̴̶̷͈᷄ᗨᵒ̴̶̷͈᷅)و ... . 。o   O     〇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4309748)<br>感谢你，赠我空欢喜。<br>2014-12-04 21:39<br>赞(0) 踩(0) | <div>起这么容易让我看错的名字是几个意思？</div> |
@@ -764,7 +764,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13964131)<br><br>2014-11-25 03:52<br>赞(0) 踩(0) | <div>来自冰岛的乐队，独有的北欧忧郁气质</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13964131)<br><br>2014-11-25 03:46<br>赞(0) 踩(0) | <div>来自北欧冰岛的乐队，独有的北欧孤寂感</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9785732)<br>DarknessGoth<br>2014-11-25 00:15<br>赞(0) 踩(0) | <div>仔细看了半天才发觉 原来不是gangbang啊...</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3628951)<br>我这盒蜘蛛王可不是闹着玩<br>2014-11-15 21:45<br>赞(0) 踩(0) | <div>我的颈椎 我该怎么拯救你...............................</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3628951)<br>我这盒蜘蛛王可不是闹着玩<br>2014-11-15 21:45<br>赞(0) 踩(0) | <div>我的颈椎 我该怎么拯救你..................<br>.............</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34060774)<br>感谢关注<br>2014-11-15 20:30<br>赞(0) 踩(0) | <div>爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11901452)<br><br>2014-11-06 08:52<br>赞(0) 踩(0) | <div>定心丸。一年前的偶遇～～～念</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420330)<br>乌克兰后摇乐队，签约中国...<br>2014-11-03 16:42<br>赞(0) 踩(0) | <div>冰岛乐队Bang Gang - Bardi Johannsson个人微博账号@BangGangBardi</div> |
@@ -778,7 +778,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3555107)<br>我还没想好要写什么...<br>2014-10-22 14:08<br>赞(2) 踩(0) | <div>别老发站内信 拜托！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1502)<br>小左和小右<br>2014-10-22 13:44<br>赞(0) 踩(0) | <div>I followed you back cuz you look unlike an spammer. So when you kept sending spam into my inbox I unfollowed you. I think that&amp;#039;s fair well.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31438186)<br>oﾟωﾟo<br>2014-10-22 12:59<br>赞(0) 踩(0) | <div>cheap</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141825)<br>drowned.<br>2014-10-22 12:57<br>赞(0) 踩(0) | <div>CD都买齐了才发这封站内.....我买!!! T^T</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141825)<br>drowned.<br>2014-10-22 12:57<br>赞(0) 踩(0) | <div>CD都买齐了才发这封站内.....<br>我买!!! T^T</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6880813)<br>时光飞逝，要用力啊<br>2014-10-15 19:22<br>赞(0) 踩(0) | <div>仿佛触摸到一个暖暖内含光般忧郁的灵魂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42570262)<br>http://ff.wi<br>2014-10-15 16:43<br>赞(0) 踩(0) | <div>感觉又是一个时期的经典·</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225462)<br><br>2014-10-08 23:24<br>赞(1) 踩(0) | <div>感觉要红了，或者已经红了</div> |
@@ -819,13 +819,13 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33958392)<br>When you dre...<br>2014-09-18 14:49<br>赞(0) 踩(0) | <div>Bardi北京见！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13347542)<br>好锤子哦<br>2014-09-18 13:56<br>赞(0) 踩(0) | <div>这是什么节凑呀   。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4744376)<br>我还没想好要写什么...<br>2014-09-18 10:23<br>赞(0) 踩(0) | <div>居然入驻了！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141825)<br>drowned.<br>2014-09-18 09:31<br>赞(0) 踩(0) | <div>简直帅气....欢迎入驻啊!!顺便抱大腿求第四张专辑</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141825)<br>drowned.<br>2014-09-18 09:31<br>赞(0) 踩(0) | <div>简直帅气....<br>欢迎入驻啊!!<br>顺便抱大腿求第四张专辑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14842075)<br>Trust is ear...<br>2014-09-18 09:16<br>赞(0) 踩(0) | <div>一大早来看 竟然入住啦 哈哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1381909)<br><br>2014-09-18 09:08<br>赞(0) 踩(0) | <div>额 入驻音乐人，那 应该say english了么。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5998314)<br><br>2014-09-18 09:03<br>赞(0) 踩(0) | <div>尼嚎 欢淫尼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16137999)<br>可不可以将你比作一个夏日<br>2014-09-18 02:03<br>赞(0) 踩(0) | <div>9.28 深圳B10有组队的嘛，有的联系我微博 <a href="http://weibo.com/yahir605" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/yahir605</a> 个人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2501563)<br>云袂风襟。微博：璃夏_K...<br>2014-09-17 23:30<br>赞(1) 踩(0) | <div>竟然入驻了！！吓好几跳！！！不过……欢迎~~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-09-17 23:12<br>赞(0) 踩(0) | <div>欢迎入住，看到虾米有更多的海外艺人陆续入住，颇感欣喜。2214454，78612，762</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-09-17 23:12<br>赞(0) 踩(0) | <div>欢迎入住，看到虾米有更多的海外艺人陆续入住，颇感欣喜。<br>2214454，78612，762</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7974942)<br>灵魂永不老去<br>2014-09-17 22:32<br>赞(0) 踩(0) | <div>在广州静候····</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3782225)<br>拔剑四顾心茫然<br>2014-09-17 22:27<br>赞(0) 踩(0) | <div>嘛，嘛叫入驻？！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3269814)<br>罄<br>2014-09-17 21:05<br>赞(0) 踩(0) | <div>入驻了！吓尿</div> |
@@ -863,7 +863,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3173288)<br>so？<br>2014-09-17 12:28<br>赞(0) 踩(0) | <div>愚公见啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7489847)<br>V9<br>2014-09-17 12:28<br>赞(0) 踩(0) | <div>来了无数次……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9234171)<br>电音才是男人的浪漫～<br>2014-09-17 12:11<br>赞(0) 踩(0) | <div>欢迎进驻虾米 0.0</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41250049)<br><br>2014-09-17 12:09<br>赞(26) 踩(0) | <div>冰岛乐队Bang Gang是Bardi Johannsson构筑的个人世界。绝美、冰冷、性感，自我是他永恒的源泉。冰岛乐队Bang Gang 2014“Forever Now”中国巡演：9.26...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41250049)<br><br>2014-09-17 12:09<br>赞(26) 踩(0) | <div>冰岛乐队Bang Gang是Bardi Johannsson构筑的个人世界。绝美、冰冷、性感，自我是他永恒的源泉。<br>冰岛乐队Bang Gang 2014“Forever Now”中国巡演：<br>9.26...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2838169)<br><br>2014-09-17 12:08<br>赞(0) 踩(0) | <div>欢迎入驻虾米</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89262)<br>音乐于我这乏味的一生如同...<br>2014-09-16 23:40<br>赞(0) 踩(0) | <div>^_^</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3178441)<br><br>2014-09-15 20:07<br>赞(0) 踩(0) | <div>广州见</div> |
@@ -929,7 +929,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2857420)<br>昨天晚上我梦见你<br>2014-03-19 00:29<br>赞(0) 踩(0) | <div><q><b>鸢紫说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2857420)<br>昨天晚上我梦见你<br>2014-03-16 23:24<br>赞(1) 踩(0) | <div>主唱高冷闷骚傲娇帝！！！！！！！！木吉骚年气场弱了点但是和声超赞啊！！！！！！贝司手太活泼啦和鼓手基情不断啊！！！！！键盘手太远了但据说很帅啊！！！！！！！！！！广州站Bang Gang真心像颗黑衣小炸弹！！！！！！最后的甜蜜蜜喜庆极啦~~~~with Faye</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/819805)<br>我们点起火把，烧死爱情。<br>2014-03-17 00:24<br>赞(0) 踩(0) | <div>哈哈。俺也在现场。主唱说话好柔。。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/773393)<br>GALAXY<br>2014-03-17 00:26<br>赞(0) 踩(0) | <div>很赞甚至有点超乎预期了！！唯一遗憾的是还是没有听到虾米BANGGANG神曲。。。。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/773393)<br>GALAXY<br>2014-03-17 00:26<br>赞(0) 踩(0) | <div>很赞甚至有点超乎预期了！！<br>唯一遗憾的是还是没有听到虾米BANGGANG神曲。。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3351531)<br><br>2014-03-17 13:26<br>赞(0) 踩(0) | <div>啊，我也在现场，萌死了啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2857420)<br>昨天晚上我梦见你<br>2014-03-19 00:27<br>赞(0) 踩(0) | <div><q><b>砂子酱说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2857420)<br>昨天晚上我梦见你<br>2014-03-19 00:27<br>赞(0) 踩(0) | <div><q><b>炫音说：</b></q></div> |
@@ -961,7 +961,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10525401)<br>无法活在已知里<br>2014-03-12 00:45<br>赞(0) 踩(0) | <div><q><b>FaKer说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9587378)<br><br>2014-03-10 19:52<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13005366)<br>what?<br>2014-03-10 19:49<br>赞(0) 踩(0) | <div>冰岛。这是一个神奇的地方</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1128880)<br>夜半。台灯。半杯水。<br>2014-03-10 17:02<br>赞(0) 踩(0) | <div>haha“因为特殊的原因，我不会唱forever now...&amp;quot;bardi真有个性，我喜欢，哈哈哈</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1128880)<br>夜半。台灯。半杯水。<br>2014-03-10 17:02<br>赞(0) 踩(0) | <div>haha<br><br>“因为特殊的原因，我不会唱forever now...&amp;quot;<br><br>bardi真有个性，我喜欢，哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1282241)<br>BØ¥ ÐłVł$łØ₦<br>2014-03-12 19:14<br>赞(0) 踩(0) | <div>为什么不唱Forever now啊？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1128880)<br>夜半。台灯。半杯水。<br>2014-03-12 22:47<br>赞(0) 踩(0) | <div><q><b>SΣΔN说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6321298)<br>上善若洪水<br>2014-03-09 20:33<br>赞(0) 踩(0) | <div>周六见</div> |
@@ -970,7 +970,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7007684)<br>请关注微博：FaKe_m...<br>2014-03-09 13:01<br>赞(0) 踩(0) | <div>昨天看完演出，我才发觉乐队的KEYBOARD如此的像THOMYORK！！每次他改用吉他伴奏我立马脑补一段paraonid android中的高潮solo！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1037128)<br>ze～ro<br>2014-03-11 13:35<br>赞(0) 踩(0) | <div>我以为后面那个是咱点错了啊啊啊啊啊 是很像腰腰！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8662913)<br>深夜食堂<br>2014-03-08 16:04<br>赞(0) 踩(0) | <div>喜欢啊 听了一个高中 不过live的日期怎么这么烦人= =</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3326738)<br><br>2014-03-08 15:02<br>赞(0) 踩(0) | <div>话说长沙场有想一起去的妹子吗？btw  我也是女的，所以不用担心</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3326738)<br><br>2014-03-08 15:02<br>赞(0) 踩(0) | <div>话说长沙场有想一起去的妹子吗？<br>btw  我也是女的，所以不用担心</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/635483)<br>白 瘦 漂亮 53257...<br>2014-03-11 21:36<br>赞(0) 踩(0) | <div>我我我我~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/635483)<br>白 瘦 漂亮 53257...<br>2014-03-11 23:01<br>赞(0) 踩(0) | <div><q><b>Essa说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3326738)<br><br>2017-10-30 10:00<br>赞(0) 踩(0) | <div><q><b>猪肉美。说：</b></q></div> |
@@ -986,7 +986,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13347542)<br>好锤子哦<br>2014-03-06 14:01<br>赞(0) 踩(0) | <div><q><b>抽射我仁球之FM说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337700)<br><br>2014-03-06 14:59<br>赞(0) 踩(0) | <div><q><b>战车说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7577732)<br>我还没想好要写什么...<br>2014-03-02 16:42<br>赞(0) 踩(0) | <div>bird :3333</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7915865)<br><br>2014-03-01 19:57<br>赞(0) 踩(0) | <div>我不断不断地循环寻找着那份安慰</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7915865)<br><br>2014-03-01 19:57<br>赞(0) 踩(0) | <div>我不断不断地循环<br>寻找着那份安慰</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2014-03-01 11:09<br>赞(3) 踩(0) | <div>3月7日北京站！在hitfm live（糖果三层，原星光现场）。当晚，Hit FM 全体DJ 将集体亮相，与听众和乐迷共襄盛举！来自冰岛的乐队BangGang 将为Hit FM Live 带来首场演出。抢票地址：<a href="http://t.cn/8F3E8FN" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/8F3E8FN</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2689980)<br><br>2014-02-27 14:22<br>赞(1) 踩(0) | <div>北京演出会不会取消都是个事儿，，，哎</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2014-03-01 11:07<br>赞(0) 踩(0) | <div>已拿到批文，已开票。不会取消</div> |
@@ -1060,13 +1060,13 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8382795)<br><br>2013-07-03 16:31<br>赞(0) 踩(0) | <div>仿佛触摸到一个暖暖内含光般忧郁的灵魂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/816626)<br>Nothing spec...<br>2013-06-29 14:07<br>赞(0) 踩(0) | <div>每次听都会有自杀的念头冒出来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6300802)<br>我<br>2013-06-26 15:10<br>赞(0) 踩(0) | <div>D...</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5434262)<br>暂无签名~<br>2013-06-22 14:26<br>赞(0) 踩(0) | <div>可以无限单曲循环每一首歌最近对GHOST FROM THE PAST的喜爱到达无以复加的地步每一首歌都是一件不想对别人提起的心事</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5434262)<br>暂无签名~<br>2013-06-22 14:26<br>赞(0) 踩(0) | <div>可以无限单曲循环每一首歌<br>最近对GHOST FROM THE PAST的喜爱到达无以复加的地步<br>每一首歌都是一件不想对别人提起的心事</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5410933)<br><br>2013-06-21 19:03<br>赞(0) 踩(0) | <div>中文系的学生只想提醒一下正确写法是“暧(ài) 暧内含光”（歪楼后捂脸逃出</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15369060)<br><br>2013-06-20 19:40<br>赞(0) 踩(0) | <div>“仿佛触摸到一个暖暖内含光般忧郁的灵魂”</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9079353)<br>氓之嗤嗤<br>2013-06-11 14:14<br>赞(0) 踩(0) | <div>冰岛冰岛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5775413)<br>S oppa<br>2013-06-11 08:47<br>赞(0) 踩(0) | <div>bl</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3341165)<br><br>2013-06-07 20:10<br>赞(0) 踩(0) | <div>静心 独白</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/461716)<br>魔曲53251062<br>2013-05-26 01:53<br>赞(0) 踩(0) | <div>欢迎喜欢音乐的各位朋友加入音乐群 魔曲群号 53251062大家在一起探讨好的音乐共享才是王道音乐无国界 魔曲欢迎你</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/461716)<br>魔曲53251062<br>2013-05-26 01:53<br>赞(0) 踩(0) | <div>欢迎喜欢音乐的各位朋友加入音乐群 魔曲<br><br>群号 53251062<br><br>大家在一起探讨<br><br>好的音乐共享才是王道<br><br>音乐无国界 魔曲欢迎你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415846)<br><br>2013-05-18 20:29<br>赞(0) 踩(0) | <div>mark</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4782436)<br><br>2013-05-14 10:24<br>赞(0) 踩(0) | <div>忧郁，神游</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2890857)<br><br>2013-05-13 17:16<br>赞(0) 踩(0) | <div>it&amp;#039;s alright</div> |
@@ -1076,7 +1076,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10411260)<br><br>2013-05-10 21:38<br>赞(0) 踩(0) | <div>trip-hop</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8298103)<br> <br>2013-05-10 18:01<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/604231)<br><br>2013-05-10 15:35<br>赞(0) 踩(0) | <div>cute</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1512770)<br>Im stanper<br>2013-05-05 17:37<br>赞(0) 踩(0) | <div>好想和心仪的妹子一起听...好想和心仪的妹子一起听...好想和心仪的妹子一起听...→_→  →_→  →_→</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1512770)<br>Im stanper<br>2013-05-05 17:37<br>赞(0) 踩(0) | <div>好想和心仪的妹子一起听...<br>好想和心仪的妹子一起听...<br>好想和心仪的妹子一起听...<br>→_→  →_→  →_→</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/448091)<br>一个胖子。<br>2013-05-05 12:25<br>赞(0) 踩(0) | <div>听上瘾了怎么破？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3788824)<br><br>2013-05-05 09:25<br>赞(0) 踩(0) | <div>Ghosts from the past...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13450914)<br><br>2013-05-04 16:11<br>赞(0) 踩(0) | <div>喜欢这个男声</div> |
@@ -1086,7 +1086,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13979334)<br>夜八郎<br>2013-04-26 23:19<br>赞(0) 踩(0) | <div>hi</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4729572)<br>Ⅸ<br>2013-04-26 19:42<br>赞(0) 踩(0) | <div>慢性疾病</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9721884)<br><br>2013-04-26 09:45<br>赞(0) 踩(0) | <div>喜欢在雨天听的声音。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5648252)<br><br>2013-04-25 15:57<br>赞(0) 踩(0) | <div>“仿佛触摸到一个暖暖内含光般忧郁的灵魂”你已经找到完美的音乐伴随着你在漫长的黑夜中跳舞，眼前黑暗，但仍然充满着光和难忘的声音，音乐流露出如钻石般锐利的伤感，强烈的情感表达和电子乐的组合构成了BANG GANG。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5648252)<br><br>2013-04-25 15:57<br>赞(0) 踩(0) | <div>“仿佛触摸到一个暖暖内含光般忧郁的灵魂”<br>你已经找到完美的音乐伴随着你在漫长的黑夜中跳舞，眼前黑暗，但仍然充满着光和难忘的声音，音乐流露出如钻石般锐利的伤感，强烈的情感表达和电子乐的组合构成了BANG GANG。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14057998)<br>越过时间拥抱你。<br>2013-04-24 21:53<br>赞(0) 踩(0) | <div>我心目中的bird</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9850219)<br> <br>2013-04-22 22:44<br>赞(0) 踩(0) | <div>每一首都制作精良 效果惊艳 钻石光泽 超棒的迷幻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/787065)<br><br>2013-04-22 11:34<br>赞(0) 踩(0) | <div>love his songs</div> |
@@ -1142,9 +1142,9 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5998313)<br>杏花春雨江南。<br>2012-11-07 14:14<br>赞(0) 踩(0) | <div>喜欢了很多年的一个冰岛组合</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294301)<br><br>2012-11-06 13:37<br>赞(0) 踩(0) | <div>Bang Gang 两个词倒过来是啥？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11159124)<br>今生都是第一次。<br>2012-11-05 15:12<br>赞(0) 踩(0) | <div>你已经找到完美的音乐伴随着你在漫长的黑夜中跳舞，眼前黑暗，但仍然充满着光和难忘的声音，音乐流露出如钻石般锐利的伤感，强烈的情感表达和电子乐的组合构成了BANG GANG。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7209243)<br>她的生命如此灿烂……<br>2012-11-04 08:47<br>赞(0) 踩(0) | <div>sleep的缘故，赶快去听听吧。真的十分有感觉……无法想象</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7209243)<br>她的生命如此灿烂……<br>2012-11-04 08:47<br>赞(0) 踩(0) | <div>sleep的缘故，赶快去听听吧。<br>真的十分有感觉……<br>无法想象</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9901518)<br>音乐能醉人？！<br>2012-11-03 09:15<br>赞(0) 踩(0) | <div>ok</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4856110)<br><br>2012-11-03 09:00<br>赞(0) 踩(0) | <div>旋律怎么这么的Bri-pop = =非常不冰岛的冰岛团</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4856110)<br><br>2012-11-03 09:00<br>赞(0) 踩(0) | <div>旋律怎么这么的Bri-pop = =<br>非常不冰岛的冰岛团</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2978124)<br><br>2012-11-01 21:37<br>赞(0) 踩(0) | <div>很 清醒，治愈的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11259253)<br>听靓歌<br>2012-11-01 14:52<br>赞(0) 踩(0) | <div>不错。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11291901)<br><br>2012-11-01 02:02<br>赞(0) 踩(0) | <div>之后的砖都挺不错的。。。</div> |
@@ -1158,7 +1158,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9190934)<br>我还没想好要写什么...<br>2012-10-17 13:06<br>赞(0) 踩(0) | <div>心情越低落，越爱听bang gang~ 以毒攻毒，就想懒懒的沉醉其中，让伤心更伤心，让难过更难过，触到底线后会不会反弹？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8098655)<br><br>2012-10-11 15:55<br>赞(0) 踩(0) | <div>被封面吸引</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8671974)<br><br>2012-10-10 21:54<br>赞(0) 踩(0) | <div>温暖的，忧郁的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2198269)<br>是大厨-<br>2012-10-10 18:11<br>赞(0) 踩(0) | <div>忧伤的旋律，中味forever now</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2198269)<br>是大厨-<br>2012-10-10 18:11<br>赞(0) 踩(0) | <div>忧伤的旋律，中味<br>forever now</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3330484)<br>我还没想好要写什么...<br>2012-10-08 20:41<br>赞(0) 踩(0) | <div>“仿佛触摸到一个暖暖内含光般忧郁的灵魂”</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4192227)<br>我还没想好要写什么...<br>2012-10-05 03:52<br>赞(0) 踩(0) | <div>第一耳听到就喜欢上了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4192227)<br>我还没想好要写什么...<br>2012-10-05 03:49<br>赞(0) 踩(0) | <div>听到声儿一出来就喜欢了！</div> |
@@ -1175,7 +1175,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4197640)<br>不忘初心<br>2012-10-01 21:06<br>赞(0) 踩(0) | <div><q><b>Mono说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4172725)<br>。<br>2012-09-12 23:34<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8272077)<br>我在梦里行走！双脚也不会...<br>2012-09-09 11:54<br>赞(0) 踩(0) | <div>5</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2012-09-01 08:04<br>赞(0) 踩(0) | <div>10月2日上海 3日天津 4日武汉  参加梦象音乐节！5日广州专场梦象音乐节卓尔不群的欢乐聚会，独立音乐的饕鬄盛宴！【10月2日、3日、4日】【天津】 【上海】 【武汉】每个城市三天，每天15个乐队每个城市都能看到全部45个乐队2013年计划举办城市北京天津上海武汉等官方小站：<a href="http://site.douban.com/145743/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/145743/</a>官方微博：<a href="http://weibo.com/allgoodmusic" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/allgoodmusic</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2012-09-01 08:04<br>赞(0) 踩(0) | <div>10月2日上海 3日天津 4日武汉  参加梦象音乐节！<br>5日广州专场<br>梦象音乐节<br>卓尔不群的欢乐聚会，独立音乐的饕鬄盛宴！<br><br>【10月2日、3日、4日】<br>【天津】 【上海】 【武汉】<br>每个城市三天，每天15个乐队<br>每个城市都能看到全部45个乐队<br><br>2013年计划举办城市北京天津上海武汉等<br><br>官方小站：<a href="http://site.douban.com/145743/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/145743/</a><br>官方微博：<a href="http://weibo.com/allgoodmusic" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/allgoodmusic</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/722534)<br>惟恐天下不乱。<br>2012-09-20 15:14<br>赞(0) 踩(0) | <div>取消了啊啊啊。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987294)<br>暂无签名~<br>2012-10-01 07:58<br>赞(0) 踩(0) | <div><q><b>朱诺H说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4794213)<br>taobao:EChic...<br>2012-08-30 12:39<br>赞(0) 踩(0) | <div>oh</div> |
@@ -1192,7 +1192,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/761631)<br>永远在一起<br>2012-08-04 08:07<br>赞(0) 踩(0) | <div>冰岛怎么都是这种小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1229373)<br>Xammax<br>2012-08-03 18:04<br>赞(0) 踩(0) | <div>当我还是个少年的时候 我们就共享灵魂了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4956009)<br><br>2012-08-02 20:13<br>赞(0) 踩(0) | <div>还是从Gargandi snilld （《尖叫的经典》）中知道的~~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5034911)<br><br>2012-07-28 15:26<br>赞(0) 踩(0) | <div>Bang Gang 冰岛 迷幻 Trip-Hop 安静 indie 欧美.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5034911)<br><br>2012-07-28 15:26<br>赞(0) 踩(0) | <div>Bang Gang 冰岛 迷幻 Trip-Hop 安静 indie 欧美<br>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5900573)<br>不取悦任何人/接纳自己/...<br>2012-07-27 08:50<br>赞(0) 踩(0) | <div>迷惑的的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1628715)<br>呆B<br>2012-07-26 01:32<br>赞(154) 踩(0) | <div>好想和心仪的妹子一起听...</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3518864)<br><br>2012-08-11 17:20<br>赞(0) 踩(0) | <div>TT^TT 好想和心仪的欧巴一起听...</div> |
@@ -1216,7 +1216,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3022812)<br>‘A’<br>2012-07-27 17:45<br>赞(0) 踩(0) | <div>我也想去</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2841604)<br>感谢陪伴，有缘再见❤️<br>2012-08-01 15:03<br>赞(0) 踩(0) | <div><q><b>aten说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7733289)<br><br>2012-07-23 18:02<br>赞(0) 踩(0) | <div>就是喜欢喜欢喜欢真的很用心的喜欢   bang gang 。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4350559)<br>我还没想好要写什么...<br>2012-07-22 18:38<br>赞(0) 踩(0) | <div>┏┛┻━━━┛┻┓┃　　　　　　　┃┃　　　━　　　┃┃　┳┛　┗┳　┃┃　　　　　　　┃┃　　　┻　　　┃┃　　　　　　　┃┗━┓　　　┏━┛┃　　　┃┃　　　┃┃　　　┗━━━┓┃　　　　　　　┣┓┃　　　　　　　┏┛┗┓┓┏━┳┓┏┛</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4350559)<br>我还没想好要写什么...<br>2012-07-22 18:38<br>赞(0) 踩(0) | <div>┏┛┻━━━┛┻┓<br>┃　　　　　　　┃<br>┃　　　━　　　┃<br>┃　┳┛　┗┳　┃<br>┃　　　　　　　┃<br>┃　　　┻　　　┃<br>┃　　　　　　　┃<br>┗━┓　　　┏━┛<br>┃　　　┃<br>┃　　　┃<br>┃　　　┗━━━┓<br>┃　　　　　　　┣┓<br>┃　　　　　　　┏┛<br>┗┓┓┏━┳┓┏┛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3117435)<br><br>2012-07-22 00:27<br>赞(0) 踩(0) | <div>“仿佛触摸到一个暖暖内含光般忧郁的灵魂”      你已经找到完美的音乐伴随着你在漫长的黑夜中跳舞，眼前黑暗，但仍然充满着光和难忘的声音，音乐流露出如钻石般锐利的伤感，强烈的情感表达和电子乐的组合构成了BANG GANG。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2012-07-14 01:21<br>赞(0) 踩(0) | <div>冰岛清新迷幻电子乐，《The World Is Gray》。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9756619)<br><br>2012-07-10 13:42<br>赞(0) 踩(0) | <div>HT</div> |
@@ -1334,7 +1334,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4017424)<br><br>2011-12-09 10:34<br>赞(0) 踩(0) | <div>一听前奏就迷上了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347473)<br>闭站前好友打捞计划正式启...<br>2011-12-08 22:27<br>赞(0) 踩(0) | <div>还行</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7157611)<br><br>2011-12-08 20:25<br>赞(0) 踩(0) | <div>随意，自由，安静的感觉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2640323)<br> <br>2011-12-03 12:51<br>赞(0) 踩(0) | <div>DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2640323)<br> <br>2011-12-03 12:51<br>赞(0) 踩(0) | <div>DDDDDDDDDDDDDDDDDDDDDDDDDDDDDD<br>DDDDDDDDDDDD</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1992898)<br>莫名向左<br>2011-12-01 19:38<br>赞(0) 踩(0) | <div>一气呵成、、、灵魂微颤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171781)<br>曾是少年。<br>2011-12-01 19:19<br>赞(0) 踩(0) | <div>仿佛触摸到一个暖暖内含光般忧郁的灵魂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171781)<br>曾是少年。<br>2011-12-01 19:18<br>赞(0) 踩(0) | <div>仿佛触摸到一个暖暖内含光般忧郁的灵魂</div> |
@@ -1474,7 +1474,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/684102)<br>我还没想好要写什么...<br>2011-05-16 03:03<br>赞(0) 踩(0) | <div>这个乐队的名字一不小心就念错了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3948414)<br>灯下草虫鸣<br>2011-05-15 13:55<br>赞(0) 踩(0) | <div>让人心情沉静的音乐，适合烦躁的时候听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3188182)<br><br>2011-05-14 10:49<br>赞(0) 踩(0) | <div>爱上了爱上了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2900459)<br><br>2011-05-13 13:16<br>赞(0) 踩(0) | <div>分享了好音樂!所以收下了~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2900459)<br><br>2011-05-13 13:16<br>赞(0) 踩(0) | <div>分享了好音樂!<br>所以收下了~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2163113)<br>暂无签名~<br>2011-05-12 21:36<br>赞(0) 踩(0) | <div>ralex</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/701732)<br><br>2011-05-12 20:50<br>赞(0) 踩(0) | <div><a href="http://www.yinyuetai.com/fanclub/15493" target="_blank" rel="nofollow noreferrer noopener">http://www.yinyuetai.com/fanclub/15493</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3048650)<br><br>2011-05-12 12:19<br>赞(0) 踩(0) | <div>木有理由滴喜欢</div> |
@@ -1548,17 +1548,17 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2559213)<br><br>2011-01-26 14:44<br>赞(0) 踩(0) | <div>爱极了这迷离感，以及这内敛华丽的声音。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2562662)<br> <br>2011-01-26 11:41<br>赞(0) 踩(0) | <div>喜欢的类型</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2610622)<br><br>2011-01-25 22:05<br>赞(0) 踩(0) | <div>声音很棒~~~喜欢~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1505025)<br>心静即声淡，其间无古今。<br>2011-01-25 14:16<br>赞(0) 踩(0) | <div>Forever NowBang Gang</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1505025)<br>心静即声淡，其间无古今。<br>2011-01-25 14:16<br>赞(0) 踩(0) | <div>Forever Now<br>Bang Gang</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/981310)<br><br>2011-01-22 17:24<br>赞(0) 踩(0) | <div>性感？另类？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2562070)<br><br>2011-01-21 10:46<br>赞(0) 踩(0) | <div>很有感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1224725)<br>最近很忙啷里个啷，奖励自...<br>2011-01-19 17:18<br>赞(0) 踩(0) | <div>听音乐 不就图个感觉么</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137882)<br>土象星座土头土脑土人一个<br>2011-01-17 20:20<br>赞(0) 踩(0) | <div>⊙.⊙冰岛，向来就不缺好歌手。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137882)<br>土象星座土头土脑土人一个<br>2011-01-17 20:20<br>赞(0) 踩(0) | <div>⊙.⊙<br>冰岛，向来就不缺好歌手。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1082562)<br><br>2011-01-17 16:18<br>赞(0) 踩(0) | <div>cool</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1479875)<br>微信：eesolo369<br>2011-01-15 10:14<br>赞(0) 踩(0) | <div>原来是你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2464612)<br><br>2011-01-12 18:28<br>赞(0) 踩(0) | <div>干净的声音，如同在诉说着来自过去的美好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/918162)<br><br>2011-01-08 23:35<br>赞(0) 踩(0) | <div>深深的男声，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1283331)<br>暂无签名~<br>2011-01-07 19:54<br>赞(0) 踩(0) | <div>仿佛触摸到一个暖暖内含光般忧郁的灵魂</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6561)<br><br>2010-10-11 04:57<br>赞(0) 踩(0) | <div>我是比较折衷的——独立音地专访Bardi Johannsson(Bang Gang)采访时间：2010年10月10日地点：麻雀瓦舍-北京提纲起草/采访：吉尔伯茶协力：James（环球时报）摄影/音频处理：王纪伟更多 <a href="http://www.indiechina.com/html/2010-10/1967.htm" target="_blank" rel="nofollow noreferrer noopener">http://www.indiechina.com/html/2010-10/1967.htm</a>独立音地最近其他专访：逃跑计划、Pg.lost、Olafur Arnalds、钟童茜、花伦、万能青年旅店、Battles详见专访栏目</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6561)<br><br>2010-10-11 04:57<br>赞(0) 踩(0) | <div>我是比较折衷的——独立音地专访Bardi Johannsson(Bang Gang)<br>采访时间：2010年10月10日<br>地点：麻雀瓦舍-北京<br>提纲起草/采访：吉尔伯茶<br>协力：James（环球时报）<br>摄影/音频处理：王纪伟<br><br>更多 <a href="http://www.indiechina.com/html/2010-10/1967.htm" target="_blank" rel="nofollow noreferrer noopener">http://www.indiechina.com/html/2010-10/1967.htm</a><br><br>独立音地最近其他专访：逃跑计划、Pg.lost、Olafur Arnalds、钟童茜、花伦、万能青年旅店、Battles<br>详见专访栏目</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1408193)<br><br>2010-10-09 02:34<br>赞(0) 踩(0) | <div>很棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/476259)<br>我还没想好要写什么...<br>2010-10-07 12:18<br>赞(0) 踩(0) | <div>BASS声音太特么棒了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987294)<br>暂无签名~<br>2010-10-06 04:53<br>赞(0) 踩(0) | <div>我听不懂我听不懂我听不懂我还听。。</div> |
@@ -1589,7 +1589,7 @@ Bang Gang, an Icelandic wonder, is actually a one-man band. The voice, instrumen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/839357)<br><br>2010-05-14 10:59<br>赞(0) 踩(0) | <div>the world is gray ---bang gang</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/781148)<br><br>2010-04-11 23:01<br>赞(0) 踩(0) | <div>youyouyou .</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/448685)<br>Lucky, unalt...<br>2010-03-15 13:30<br>赞(1) 踩(0) | <div>没有人比你更美好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/614597)<br><br>2010-01-25 15:12<br>赞(0) 踩(0) | <div>声音的救赎,它是你的恩赐.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/614597)<br><br>2010-01-25 15:12<br>赞(0) 踩(0) | <div>声音的救赎,<br><br>它是你的恩赐.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/536256)<br>不听音乐会死星人<br>2009-12-19 10:42<br>赞(0) 踩(0) | <div>好有FEEL！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469851)<br>这世间，唯有梦想和好姑娘...<br>2009-11-09 21:39<br>赞(0) 踩(0) | <div>舒服！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369701)<br><br>2009-10-17 23:44<br>赞(0) 踩(0) | <div>uuu</div> |

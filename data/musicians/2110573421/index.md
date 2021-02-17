@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c3198c34dbc84661c8a141f2e7abe6d3.jpg)<br>还潮](https://i.xiami.com/marc) | **播放数**: 350912<br>**粉丝数**: 1126<br>**评论数**: 75<br>**地区**: China 中国大陆<br>**风格**: 当代乡村 Contemporary Country, 另类唱作人 Alternative Singer-Songwriter, 当代民谣 Contemporary Folk, 致幻流行 Hypnagogic Pop<br> |
+| [![](../../images/musicians/c3198c34dbc84661c8a141f2e7abe6d3.jpg)<br>还潮](https://i.xiami.com/marc) | **地区**: China 中国大陆<br>**风格**: 当代乡村 Contemporary Country, 另类唱作人 Alternative Singer-Songwriter, 当代民谣 Contemporary Folk, 致幻流行 Hypnagogic Pop<br>**播放数**: 350912<br>**粉丝数**: 1126<br>**评论数**: 75<br> |
 
 ## 档案
 
@@ -21,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2021-01-17 23:35<br>赞(0) 踩(0) | <div>˙Ⱉ˙ฅ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52449816)<br>所有的物体都失去重量<br>2021-01-05 14:07<br>赞(1) 踩(0) | <div>太好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4098694)<br>ɪ ғᴇᴇʟ ᴘᴀɪɴғ...<br>2020-12-30 18:29<br>赞(0) 踩(0) | <div>＊</div> |

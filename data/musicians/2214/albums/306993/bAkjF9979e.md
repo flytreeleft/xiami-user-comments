@@ -51,15 +51,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6623416)<br>ཨོཾ་མ་ཎི་པདྨ...<br>2020-09-16 07:11<br>赞(2) 踩(0) | <div>&amp;ldquo;在我小时候，无论我们遇到了堵车，还是要面对家庭的不幸，我母亲都会说，&amp;lsquo;会有好事发生的，我们只是还不知道是什么好事。&amp;rsquo;我得承认，我和兄弟们都会借此笑话她，但人们一直问我，我是怎么面对工作中在难民营和灾区所见到的苦难，这时我就会想到我的母亲，以及她在我心中种下的那颗可能性的种子。因为当你相信会有好事发生，并且你也在促成它发生的时候，你就会开始看到苦难以外的东西，看到事物可能的样子。&amp;rdquo; ♡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250551654)<br><br>2020-08-01 14:05<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38329885)<br><br>2019-08-05 13:23<br>赞(2) 踩(0) | <div>陌生的城市，让人想哭。陌生的人，让人感动。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38329885)<br><br>2019-08-05 13:22<br>赞(1) 踩(0) | <div>越单纯越幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337771860)<br>有音乐的地方，你总会轻舞...<br>2019-02-07 16:44<br>赞(2) 踩(0) | <div>小时候零食是奢侈品，长大了之后，吃零食的童心才是奢侈品。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295037550)<br><br>2018-12-29 17:37<br>赞(0) 踩(0) | <div>心是开满花的树，后来知道是没有人比我更爱你中的一首歌，后来她离开了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49318565)<br>含著淚我一讀再讀卻不得不...<br>2018-10-20 06:43<br>赞(1) 踩(0) | <div>路是自己选的，一定要好好走下去，我只希望，没有后悔的那一天。但愿我们永远走在光里，这一生如此，多云 ；这一生从此，无云。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49318565)<br>含著淚我一讀再讀卻不得不...<br>2018-10-20 06:43<br>赞(1) 踩(0) | <div>路是自己选的，<br>一定要好好走下去，<br>我只希望，<br>没有后悔的那一天。<br>但愿我们永远走在光里，<br>这一生如此，多云 ；<br>这一生从此，无云。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278281118)<br><br>2018-10-17 22:56<br>赞(2) 踩(0) | <div>我的家，通往回家的那条乡村小路，它没有开满花的树，但是它有一年四季都有充满活力亮绿色的树，我真的好希望我每天上班下班坐的不是公交车，而是走在通往家的乡村小路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223301056)<br>无名小卒<br>2018-10-11 14:52<br>赞(0) 踩(0) | <div>是不是文件损坏了，播放时候有几次停顿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338956060)<br>我待你和别人不同，你却始...<br>2018-05-01 16:07<br>赞(1) 踩(0) | <div>单纯对我来说是渴望！</div> |
@@ -71,7 +71,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30470100)<br><br>2017-11-28 17:29<br>赞(0) 踩(0) | <div>水纯则无鱼，希望保持单纯但不是幼稚当白痴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/506787)<br>有人问我是与非，说是与非<br>2017-11-14 00:02<br>赞(2) 踩(0) | <div>和同事聊天想起这首歌，当年听着这歌走过学校那条有名的樱花道，当风吹落花瓣漫天飞舞，总有种仪式感的凄美，现在听其他人的版本再也找不回这种感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333079189)<br><br>2017-11-04 00:50<br>赞(0) 踩(0) | <div>听到这首歌，我感觉自己老了。 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2271345)<br><br>2017-10-30 10:15<br>赞(0) 踩(0) | <div>我抬头看到，你那深邃的眼神，诉说着那些不能名状的伤，多希望能够抚平让我们只是单纯的幸福着。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2271345)<br><br>2017-10-30 10:15<br>赞(0) 踩(0) | <div>我抬头看到，<br>你那深邃的眼神，<br>诉说着那些不能名状的伤，<br>多希望能够抚平<br>让我们只是单纯的幸福着。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63918032)<br><br>2017-10-30 10:03<br>赞(0) 踩(0) | <div>学校组织去世界之窗玩一天，我们在爬山要去坐千绳飞椅时你mp4放的正好是这首歌，从此，每当听到它就会想起那个充满阳光的山坡，以及我们最纯真的友谊~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7885616)<br><br>2017-10-28 00:08<br>赞(2) 踩(0) | <div>今天在公园听到这首歌，歌词唱出了我的心声。在这陌生的城市，心里的一半我害怕着在这奋斗了几十年还是碌碌无为，害怕再也遇不到那个她。心里的另一半，感到很温暖，在人生低谷时候遇上这么多贵人关心我，没有一点冷意。在这个搓搓手就能感受到温暖的季节，我会铭记这浓浓的人情味。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3607626)<br><br>2017-10-27 23:57<br>赞(1) 踩(0) | <div>歌曲静静的~静静的~~~向我们叙述着曾经的甜蜜，憧憬，与忧伤。。。“越长大越怀念少年时有多勇敢，骑单车摔多痛也笑着哭。”——长大了并不会变得更加勇敢，在逐渐认识这个世界的的残酷与无情，我们会日渐畏惧。不过我们依然可以勇敢，只要找到能够让自己坚持勇敢的人。</div> |
@@ -168,7 +168,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17195914)<br>如果明天死去，太阳会哭泣...<br>2015-08-20 20:46<br>赞(2) 踩(0) | <div>歌词写得太好，感人~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30414183)<br><br>2015-08-19 10:02<br>赞(0) 踩(0) | <div>大学的时候经常听到凌晨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30414183)<br><br>2015-08-19 10:02<br>赞(1) 踩(0) | <div>大学的时候经常听到凌晨</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52407002)<br><br>2015-08-17 14:57<br>赞(1) 踩(0) | <div>小时候，幸福是很简单的事长大后，简单是很幸福的事</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52407002)<br><br>2015-08-17 14:57<br>赞(1) 踩(0) | <div>小时候，幸福是很简单的事<br>长大后，简单是很幸福的事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55018787)<br><br>2015-08-12 04:02<br>赞(0) 踩(0) | <div>很老的歌了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13959969)<br><br>2015-08-11 19:04<br>赞(1) 踩(0) | <div>好怀念 上学时的自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13959969)<br><br>2015-08-11 19:04<br>赞(0) 踩(0) | <div>好怀念 上学时的自己</div> |
@@ -183,7 +183,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43182149)<br> <br>2015-07-06 20:38<br>赞(0) 踩(0) | <div>你说起那条回家的路 路上有开满鲜花的树</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51949824)<br>乍见之欢不如久处不厌<br>2015-07-02 13:05<br>赞(0) 踩(0) | <div>❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49438110)<br><br>2015-06-27 18:46<br>赞(0) 踩(0) | <div>单曲循环，</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40941143)<br>天灰灰，会不会，让我忘了...<br>2015-06-25 16:21<br>赞(13) 踩(0) | <div>越单纯 越幸福最后一次跟我的大学生涯告别了跟我的学生时代告别了希望我和我的朋友们今后的生活单纯 幸福 不掺染任何杂质</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40941143)<br>天灰灰，会不会，让我忘了...<br>2015-06-25 16:21<br>赞(13) 踩(0) | <div>越单纯 越幸福<br>最后一次跟我的大学生涯告别了<br>跟我的学生时代告别了<br>希望我和我的朋友们今后的生活单纯 幸福 不掺染任何杂质</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41126896)<br>不要失望 故事还长<br>2015-08-10 01:03<br>赞(0) 踩(0) | <div>加油 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51659089)<br>明天，你好。<br>2015-06-23 09:44<br>赞(0) 踩(0) | <div>自己去听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51608069)<br><br>2015-06-21 15:50<br>赞(0) 踩(0) | <div>2</div> |
@@ -257,7 +257,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1982524)<br>己之所欲勿施于人<br>2015-02-04 16:59<br>赞(0) 踩(0) | <div>作为对比，藤原育郎作曲的《Asian road》（<a href="http://www.xiami.com/song/1770533382?spm=a1z1s.7154410.0.0.hIECeo#wall_list" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1770533382?spm=a1z1s.7154410.0.0.hIECeo#wall_list</a> ）和《画心》（<a href="http://www.xiami.com/song/1772108971?spm=a1z1s.7154410.1996860142.5.hIECeo#wall_list" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1772108971?spm=a1z1s.7154410.1996860142.5.hIECeo#wall_list</a>）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26007590)<br><br>2015-01-20 04:53<br>赞(0) 踩(0) | <div>除了歌名，其他都不吐槽。适合晚上听的歌，其实也是多年前听过的。总有点不同的味道了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5553540)<br>STAY REAL!<br>2015-01-16 18:51<br>赞(0) 踩(0) | <div>越长大越怀念……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2015-01-09 12:54<br>赞(1) 踩(0) | <div>陌生的城市让人想哭又一次爱情已经辜负</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2015-01-09 12:54<br>赞(1) 踩(0) | <div>陌生的城市让人想哭<br>又一次爱情已经辜负</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2754613)<br><br>2015-01-09 00:45<br>赞(0) 踩(0) | <div>那时还有牛奶咖啡的越长大越孤单！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3170705)<br>(✿◡‿◡)人(◕‿◕❀...<br>2015-01-06 03:06<br>赞(0) 踩(0) | <div>希望我以后也愿意努力、不停止脚步，不害怕，不怕输！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10721683)<br>音乐改变生活！<br>2015-01-04 12:56<br>赞(0) 踩(0) | <div>越单纯越幸福 - 王筝</div> |
@@ -271,10 +271,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1359826)<br><br>2014-12-14 21:55<br>赞(0) 踩(0) | <div>越单纯越幸福，可是，那么。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43874062)<br>卸掉好多好多面具，却忘了...<br>2014-12-08 14:14<br>赞(0) 踩(0) | <div>越单纯越幸福，心像开满花的树，努力的深爱过就不苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7469810)<br> <br>2014-12-08 09:35<br>赞(0) 踩(0) | <div>2014/12/08</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41316097)<br>暂无签名~<br>2014-11-21 07:59<br>赞(0) 踩(0) | <div>╔══╗ ♪║██║ ♫║ ( ● ) ♫╚══╝♪ ♪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41316097)<br>暂无签名~<br>2014-11-21 07:59<br>赞(0) 踩(0) | <div>╔══╗ ♪<br>║██║ ♫<br>║ ( ● ) ♫<br>╚══╝♪ ♪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3831721)<br>人生若只如初见，花开似水...<br>2014-11-18 21:56<br>赞(0) 踩(0) | <div>越听似乎越有感觉，尤其实在这浮躁的年代</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6094123)<br>暂无签名~<br>2014-11-15 08:12<br>赞(0) 踩(0) | <div>真的不喜欢啊！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2014-11-08 22:50<br>赞(0) 踩(0) | <div>越害怕越孤单越长大越怀念2014.11.08</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2014-11-08 22:50<br>赞(0) 踩(0) | <div>越害怕<br>越孤单<br>越长大<br>越怀念<br>2014.11.08</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2903203)<br>坐你开的车，听你听的歌。<br>2014-11-08 03:26<br>赞(0) 踩(0) | <div>想起高中时光，操场、篮球、体育课、温暖的太阳、吃着零食看球赛、操场席地而坐，太多了，真的太多了。于是我终于哭了。好想念。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43438542)<br><br>2014-11-07 18:40<br>赞(0) 踩(0) | <div>幸福其实很简单，知足常乐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43354475)<br><br>2014-11-05 00:55<br>赞(0) 踩(0) | <div>回不去~</div> |
@@ -290,7 +290,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9301514)<br>独立唱作人<br>2014-09-09 20:39<br>赞(0) 踩(0) | <div>真是宁静。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2625383)<br><br>2014-09-07 22:53<br>赞(0) 踩(0) | <div>和L打了一个稍长的电话，感叹时间让各自人事已非。或许，在为了离别的相聚里，可以保持原来的那份单纯，可算不负自己的纯真年代吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35913089)<br><br>2014-09-05 17:59<br>赞(0) 踩(0) | <div>就是觉得安静温暖</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13527166)<br>以梦为马，诗酒趁年华。<br>2014-08-28 07:52<br>赞(0) 踩(0) | <div>歌词真好。大学时期真的常常看到图书馆前的阳光碎落成一面湖</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13527166)<br>以梦为马，诗酒趁年华。<br>2014-08-28 07:52<br>赞(0) 踩(0) | <div>歌词真好。<br>大学时期真的常常看到图书馆前的阳光碎落成一面湖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3980888)<br><br>2014-08-20 20:47<br>赞(0) 踩(0) | <div>听这个歌会不会有点傲娇？？？现在听歌越来越杂了，哈哈哈！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34966284)<br><br>2014-08-18 21:58<br>赞(1) 踩(0) | <div>开头总会让我想起张嘉佳的一段话。“我觉得这个世界美好无比。晴时满树花开，雨时一湖涟漪，阳光席卷城市，微风穿越指间，入夜每个电台播放的情歌，沿途每条山路铺开的影子，全部是你不经意写的一字一句，留我年复一年朗读。这世界是你的遗嘱。而我是你唯一的遗物。 ”一样让我觉得温暖</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44178263)<br> <br>2015-03-15 12:37<br>赞(0) 踩(0) | <div>张嘉佳文采真的好</div> |
@@ -299,13 +299,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37308408)<br>甜蜜的负担。<br>2014-08-03 09:19<br>赞(0) 踩(0) | <div>王筝的歌有几首其实还是不错的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7000698)<br>我明白你会来，所以我等。<br>2014-07-14 09:44<br>赞(0) 踩(0) | <div>越单纯越幸福。❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230554)<br>■□■□■□■□■□■□<br>2014-07-10 21:56<br>赞(0) 踩(0) | <div>为什么不单纯一点过生活？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38748813)<br><br>2014-07-06 20:18<br>赞(0) 踩(0) | <div>棒。。。无专业，不音乐，诚接编曲制作，词曲量身订做白菜价格，学生福利专业品质，满意后收费，后期包入库包推广，更多详情咨询Q173165576</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38748813)<br><br>2014-07-06 20:18<br>赞(0) 踩(0) | <div>棒。。。<br>无专业，不音乐，诚接编曲制作，词曲量身订做白菜价格，学生福利专业品质，满意后收费，后期包入库包推广，更多详情咨询Q173165576</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38497996)<br>我就在你附近<br>2014-07-01 17:07<br>赞(0) 踩(0) | <div>治愈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30124814)<br><br>2014-06-22 07:28<br>赞(0) 踩(0) | <div>more pure more happiness</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866560)<br>不要变 永远都不要变<br>2014-06-16 09:17<br>赞(0) 踩(0) | <div>她有一双长耳朵，提到她名字的声音，就会飘进她耳朵里。她的努力被说成好运气，她的害羞被当作清高冷漠，她的善意被当作虚伪心计。无聊的八卦闲谈，从四处传来刺伤她的心。后来，她将耳朵打了个结，将对声音的敏感度调低，流言飞在耳朵外，心平气和做自己。懂你的人总会懂你，不懂你的，不必放在心里。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34966284)<br><br>2014-06-25 16:26<br>赞(0) 踩(0) | <div>……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13604159)<br>严肃学术，活泼生活。<br>2014-06-03 21:07<br>赞(0) 踩(0) | <div>会听着听着流泪。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35274358)<br><br>2014-05-30 11:03<br>赞(0) 踩(0) | <div>陌生的城市让人想哭又一次爱情已经辜负能不能把未来看清楚寻着流星方向可不可以找到幸福越长大越怀念少年时有多勇敢骑单车摔多痛也笑着哭</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35274358)<br><br>2014-05-30 11:03<br>赞(0) 踩(0) | <div>陌生的城市让人想哭又一次爱情已经辜负能不能把未来看清楚<br>寻着流星方向可不可以找到幸福越长大越怀念少年时有多勇敢<br>骑单车摔多痛也笑着哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35181420)<br><br>2014-05-22 20:59<br>赞(0) 踩(0) | <div>加班后，坐在高速的车里望向窗外，听着广播里放的这首歌很有感觉。“越单纯越幸福，越害怕越孤单”。我们都是这世界上身不由己的人……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11128934)<br><br>2014-05-18 15:00<br>赞(0) 踩(0) | <div>越单纯 越幸福 心像开满花的树。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36485574)<br><br>2014-05-11 18:01<br>赞(0) 踩(0) | <div>1</div> |
@@ -321,7 +321,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1982524)<br>己之所欲勿施于人<br>2015-02-04 17:08<br>赞(0) 踩(0) | <div><q><b>lonemen说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8988322)<br>暂无签名~<br>2014-05-04 20:50<br>赞(0) 踩(0) | <div>生活不知道从什么时候开始变得困难起来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34451521)<br><br>2014-05-02 07:02<br>赞(0) 踩(0) | <div>你说起那条回家的路 路上有开满鲜花的树 秋天里风吹花儿轻舞 阳光会碎落成一面湖 陌生的城市让人想哭</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6377726)<br>低头思故乡……<br>2014-04-29 00:43<br>赞(0) 踩(0) | <div>越单纯 越幸福 心像开满花的树深爱过 努力过 所以苦 &amp;gt;.&amp;lt;...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6377726)<br>低头思故乡……<br>2014-04-29 00:43<br>赞(0) 踩(0) | <div>越单纯 越幸福 心像开满花的树<br>深爱过 努力过 所以苦 &amp;gt;.&amp;lt;...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3876395)<br>心近不怕路远。<br>2014-04-25 09:50<br>赞(0) 踩(0) | <div>窗外雨一直下啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35822993)<br><br>2014-04-25 00:56<br>赞(0) 踩(0) | <div>我已经走的很远很远了，一切像画面飘过。就连梦里都不在有这样的感觉。只有静静的静静的独自分享......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12187372)<br>1234<br>2014-04-21 13:08<br>赞(0) 踩(0) | <div>在热的天心也会凉</div> |
@@ -331,7 +331,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13329378)<br>暂无签名～～<br>2014-04-15 00:29<br>赞(0) 踩(0) | <div>...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35232675)<br><br>2014-04-12 06:33<br>赞(0) 踩(0) | <div>当时是初中听的歌，转眼已经大学。从这里到那里好像只有时间是变化了的。想单纯的走下去，却越觉得利欲向我越近。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9223142)<br><br>2014-04-08 16:34<br>赞(0) 踩(0) | <div>简简单单走自己的路</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477519)<br>爱  是生命的和弦，而不...<br>2014-04-07 18:37<br>赞(0) 踩(0) | <div>越长大越怀念少年时有多勇敢骑单车摔多痛也笑着哭...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477519)<br>爱  是生命的和弦，而不...<br>2014-04-07 18:37<br>赞(0) 踩(0) | <div>越长大越怀念少年时有多勇敢<br>骑单车摔多痛也笑着哭...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33540337)<br><br>2014-04-07 03:36<br>赞(0) 踩(0) | <div>失恋必听歌曲之一哈哈;P</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121504)<br><br>2014-04-05 18:58<br>赞(0) 踩(0) | <div>努力追寻着什么,却发现越来越怀念年少时~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/610315)<br><br>2014-04-03 20:43<br>赞(0) 踩(0) | <div>如何能把未来看清楚？</div> |
@@ -348,7 +348,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13119966)<br><br>2014-03-16 21:05<br>赞(0) 踩(0) | <div>幼稚园小朋友最开心…哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33953998)<br>暂无签名~<br>2014-03-13 19:36<br>赞(0) 踩(0) | <div>我的理解:长大的忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3765631)<br>暂无签名~<br>2014-03-11 01:02<br>赞(0) 踩(0) | <div>虾米的“正在漫游”很精确嘛，听了半个钟头都是清一色女声…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/813073)<br><br>2014-03-10 20:57<br>赞(0) 踩(0) | <div>你说起那条回家的路路上有开满鲜花的树秋天里风吹花儿轻舞阳光会碎落成一面湖</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/813073)<br><br>2014-03-10 20:57<br>赞(0) 踩(0) | <div>你说起那条回家的路<br>路上有开满鲜花的树<br>秋天里风吹花儿轻舞<br>阳光会碎落成一面湖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18942009)<br>相信是空无一物<br>2014-03-10 16:35<br>赞(0) 踩(0) | <div>: )</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32415715)<br>你就像恒远星辰的光芒一样<br>2014-03-09 15:54<br>赞(0) 踩(0) | <div>心像开满花的树</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5578360)<br><br>2014-03-06 19:38<br>赞(0) 踩(0) | <div>真的，我只想做個單純又嚴謹的人。</div> |
@@ -422,7 +422,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1997808)<br>怀旧是一种情怀<br>2013-08-20 23:53<br>赞(0) 踩(0) | <div>好久没听中文歌了，分享一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14195741)<br>为你而歌<br>2013-08-18 23:38<br>赞(0) 踩(0) | <div>越单纯越幸福，心像开满花的树。。。！wanan。[流星]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19174884)<br><br>2013-08-18 13:17<br>赞(0) 踩(0) | <div>希望幸福可以很简单</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9125246)<br><br>2013-08-18 10:59<br>赞(0) 踩(0) | <div>歌词写的很好呢越长大越怀念少年时有多勇敢骑单车摔多痛也笑着哭越单纯越幸福心像开满花的树努力的深爱过就不苦越单纯越幸福心像开满花的树大雨中期待着有彩虹</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9125246)<br><br>2013-08-18 10:59<br>赞(0) 踩(0) | <div>歌词写的很好呢<br>越长大越怀念少年时有多勇敢<br>骑单车摔多痛也笑着哭<br>越单纯越幸福心像开满花的树<br>努力的深爱过就不苦<br>越单纯越幸福心像开满花的树<br>大雨中期待着有彩虹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10451672)<br><br>2013-08-15 08:32<br>赞(0) 踩(0) | <div>上次在咖啡厅听到就喜欢上了，歌词也很棒...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6729515)<br><br>2013-08-12 17:43<br>赞(0) 踩(0) | <div>在雨里面抬起头，找那一个出现的彩虹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16870960)<br><br>2013-08-08 21:25<br>赞(0) 踩(0) | <div>愿得一心人 白首不相离</div> |
@@ -447,13 +447,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13643534)<br> <br>2013-07-25 14:25<br>赞(0) 踩(0) | <div>越单纯越幸福。越躲藏越怕输，越长大越怀念少年时有多勇敢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10743367)<br> <br>2013-07-19 17:39<br>赞(0) 踩(0) | <div>越害怕越孤独，越单纯越幸福.z z z z z</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10623904)<br><br>2013-07-17 17:04<br>赞(0) 踩(0) | <div>赞一个</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8539793)<br>想成为一棵树<br>2013-07-09 23:25<br>赞(0) 踩(0) | <div>越单纯越幸福 心像开满花的树想成为一棵树，没有悲伤地姿势。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8539793)<br>想成为一棵树<br>2013-07-09 23:25<br>赞(0) 踩(0) | <div>越单纯越幸福 心像开满花的树<br>想成为一棵树，没有悲伤地姿势。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10075824)<br><br>2013-07-06 02:33<br>赞(0) 踩(0) | <div>你说起那条回家的路 路上有开满鲜花的树</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15314115)<br><br>2013-07-04 22:19<br>赞(0) 踩(0) | <div>♫#晚安曲#♪《越单纯越幸福》@VIA一HQIAOYUN</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15451111)<br> <br>2013-07-04 17:48<br>赞(0) 踩(0) | <div>很久没分享国语歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13821771)<br> <br>2013-07-03 03:44<br>赞(0) 踩(0) | <div>越活越不单纯了…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2129056)<br>暂无签名~<br>2013-06-28 20:20<br>赞(0) 踩(0) | <div>单纯点，幸福点，这大家都懂，可为什么做到这么难呢？还是心吧。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12389092)<br><br>2013-06-26 00:37<br>赞(0) 踩(0) | <div>你说起那条回家的路路上有开满鲜花的树秋天里风吹花儿轻舞阳光会 碎落成 一面湖陌生的城市让人想哭又一次爱情已经辜负能不能把未来看清楚寻着流星方向 可不可以找到 幸福</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2129056)<br>暂无签名~<br>2013-06-28 20:20<br>赞(0) 踩(0) | <div>单纯点，幸福点，这大家都懂，可为什么做到这么难呢？<br>还是心吧。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12389092)<br><br>2013-06-26 00:37<br>赞(0) 踩(0) | <div>你说起那条回家的路<br>路上有开满鲜花的树<br>秋天里风吹花儿轻舞<br>阳光会 碎落成 一面湖<br>陌生的城市让人想哭<br>又一次爱情已经辜负<br>能不能把未来看清楚<br>寻着流星方向 可不可以找到 幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2376542)<br><br>2013-06-18 22:25<br>赞(0) 踩(0) | <div>越单纯才会越幸福，现在的世界里，有谁还保留着这么一点单纯呢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15375398)<br>就当我在宇宙漂流<br>2013-06-18 06:14<br>赞(0) 踩(0) | <div>越单纯 越幸福 心像开满花的树 *´∀`)´∀`)*´∀`)*´∀`)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14807126)<br><br>2013-06-17 23:42<br>赞(0) 踩(0) | <div>逝去的青春，好怀念你。</div> |
@@ -486,10 +486,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14037394)<br><br>2013-04-22 20:07<br>赞(0) 踩(0) | <div>今晚继续写程序！[许愿]不要想不要想了！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1037647)<br>听,只需要听...<br>2013-04-18 23:59<br>赞(0) 踩(0) | <div>给自己心的安抚，愿简单的幸福。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9861024)<br><br>2013-04-16 13:45<br>赞(0) 踩(0) | <div>保留最初的單純。永遠。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8601290)<br>远在远方的风，比远方更远<br>2013-04-12 23:16<br>赞(0) 踩(0) | <div>越单纯 越幸福 心像开满花的树努力的 深爱过 就不苦越单纯 越幸福 心像开满花的树大雨中 期待着有彩虹——其实，我们都是想要简简单单过一生的孩子~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8601290)<br>远在远方的风，比远方更远<br>2013-04-12 23:16<br>赞(0) 踩(0) | <div>越单纯 越幸福 心像开满花的树<br>努力的 深爱过 就不苦<br>越单纯 越幸福 心像开满花的树<br>大雨中 期待着有彩虹<br>——其实，我们都是想要简简单单过一生的孩子~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13912348)<br><br>2013-04-12 13:44<br>赞(0) 踩(0) | <div>作為《除愛》片尾曲怎麽樣？？？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13855546)<br><br>2013-04-10 18:37<br>赞(0) 踩(0) | <div>upset的时候来点安静的音乐吧！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13672498)<br><br>2013-04-10 00:02<br>赞(0) 踩(0) | <div>@思思Miranda 【越单纯，越幸福 ，心像开满花的树，努力的， 深爱过， 就不苦】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13672498)<br><br>2013-04-10 00:02<br>赞(0) 踩(0) | <div>@思思Miranda 【越单纯，越幸福 ，心像开满花的树，<br>努力的， 深爱过， 就不苦】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1037647)<br>听,只需要听...<br>2013-04-08 20:49<br>赞(0) 踩(0) | <div>怎么觉得我不懂幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13857406)<br> <br>2013-04-08 12:32<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3539270)<br><br>2013-04-05 02:07<br>赞(0) 踩(0) | <div>悲情~古色</div> |
@@ -498,7 +498,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13752142)<br>音乐影响一个人的情绪<br>2013-03-31 14:15<br>赞(0) 踩(0) | <div>那些年我们一起听的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4060279)<br><br>2013-03-30 20:54<br>赞(0) 踩(0) | <div>王筝的歌都是一个调，好听的调儿。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10225583)<br>呵<br>2013-03-27 15:55<br>赞(0) 踩(0) | <div>王筝的歌还是这么好听啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13690747)<br>丑陋的咖啡调调<br>2013-03-26 17:52<br>赞(0) 踩(0) | <div>越长大 越怀念 少年时有多勇敢越单纯 越幸福 心像开满花的树</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13690747)<br>丑陋的咖啡调调<br>2013-03-26 17:52<br>赞(0) 踩(0) | <div>越长大 越怀念 少年时有多勇敢<br>越单纯 越幸福 心像开满花的树</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13689453)<br><br>2013-03-26 16:31<br>赞(0) 踩(0) | <div>声音 简单 听着很舒服</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106148)<br><br>2013-03-23 22:15<br>赞(0) 踩(0) | <div>说越单纯越幸福，是因为单纯是再也回不去的昨天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8773338)<br><br>2013-03-22 23:55<br>赞(0) 踩(0) | <div>小清新一把。痛过相信单纯爱努力爱于是深深二的人惹人爱。谢谢你仍愿像少年时那样勇敢爱，</div> |
@@ -538,11 +538,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12333600)<br><br>2013-01-09 21:22<br>赞(0) 踩(0) | <div>越但纯越幸福~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5182578)<br><br>2012-12-29 21:34<br>赞(0) 踩(0) | <div>越单纯越幸福，心像开满花的树。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12054906)<br>全凭心情<br>2012-12-25 00:00<br>赞(0) 踩(0) | <div>越单纯越勇敢越幸福</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7399056)<br>暂无签名~<br>2012-12-23 15:51<br>赞(0) 踩(0) | <div>寻着流星方向可不可以找到幸福越害怕越孤单谁的付出多一点越躲藏越相爱越怕输越长大越怀念少年时有多勇敢骑单车摔多痛也笑着哭越单纯越幸福心像开满花的树努力的深爱过就不苦越单纯越幸福心像开满花的树</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7399056)<br>暂无签名~<br>2012-12-23 15:51<br>赞(0) 踩(0) | <div>寻着流星方向可不可以找到幸福<br>越害怕越孤单谁的付出多一点<br>越躲藏越相爱越怕输<br>越长大越怀念少年时有多勇敢<br>骑单车摔多痛也笑着哭<br>越单纯越幸福心像开满花的树<br>努力的深爱过就不苦<br>越单纯越幸福心像开满花的树</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11895130)<br><br>2012-12-19 11:02<br>赞(0) 踩(0) | <div>歌词很美，稍带忧郁，很喜欢的风格</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/470520)<br><br>2012-12-17 20:57<br>赞(0) 踩(0) | <div>最近迷上了两个歌手，梁晓雪和王筝，王筝的这首歌太喜欢了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11005080)<br>米花儿<br>2012-12-17 15:03<br>赞(0) 踩(0) | <div>比起那首雷死人不偿命的《我们都是好孩子》，不得不承认这首还是很可以。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6591864)<br><br>2012-12-16 11:56<br>赞(0) 踩(0) | <div>08年的十一月，就记住了这首歌一首《我们都是好孩子》，让人们记住了一个用心唱歌的好孩子王筝。创作才女的形象深入人心，在两年的潜心创作与精心准备之后，她回来了，带着自己的最新作品《没有人比我更爱你》。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6591864)<br><br>2012-12-16 11:56<br>赞(0) 踩(0) | <div>08年的十一月，就记住了这首歌<br>一首《我们都是好孩子》，让人们记住了一个用心唱歌的好孩子王筝。创作才女的形象深入人心，在两年的潜心创作与精心准备之后，她回来了，带着自己的最新作品《没有人比我更爱你》。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9233380)<br><br>2012-12-14 20:24<br>赞(0) 踩(0) | <div>真的很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6891807)<br><br>2012-12-11 17:39<br>赞(0) 踩(0) | <div>越单纯越幸福，心想开满花的树</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11188378)<br><br>2012-12-07 06:49<br>赞(0) 踩(0) | <div>平静自己的内心</div> |
@@ -579,7 +579,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10826550)<br><br>2012-10-05 23:27<br>赞(0) 踩(0) | <div>听吧~~~~~~~~~越单纯越幸福````````</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10787692)<br><br>2012-09-27 11:38<br>赞(0) 踩(0) | <div>越害怕 越孤单 谁的付出多一点 越单纯 越幸福 心像开满花的树</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/668143)<br><br>2012-09-24 02:02<br>赞(0) 踩(0) | <div>虾米电台今天真乖，可惜手机app被苹果禁了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4858312)<br>兽人永不为奴(●´ω｀●...<br>2012-09-22 12:32<br>赞(0) 踩(0) | <div>好好听。感觉回忆起了很久很久的从前，那时候我们还很小很小。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4858312)<br>兽人永不为奴(●´ω｀●...<br>2012-09-22 12:32<br>赞(0) 踩(0) | <div>好好听。<br>感觉回忆起了很久很久的从前，那时候我们还很小很小。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1939433)<br><br>2012-09-17 15:22<br>赞(0) 踩(0) | <div>【简单是福】你说起那条回家的路，路上有开满鲜花的树，秋天里风吹花儿轻舞，阳光会，碎落成一面湖，陌生的城市让人想哭……越长大，越怀念，少年时有多勇敢，骑单车，摔多痛也笑着哭，越单纯，越幸福，心像开满花的树。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8263372)<br><br>2012-09-15 11:26<br>赞(0) 踩(0) | <div>越单纯越幸福 心像开满花的树 大雨中期待着彩虹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10507346)<br><br>2012-09-14 15:34<br>赞(0) 踩(0) | <div>曾经一段时间的K歌必点曲目</div> |
@@ -599,7 +599,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9301514)<br>独立唱作人<br>2012-08-13 21:47<br>赞(0) 踩(0) | <div>听着这首歌的感觉是，在哭了的同时，也感受到长大的痛与苦，不想长大可现在都这么大了容易吗..哭..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9948994)<br><br>2012-08-09 08:04<br>赞(0) 踩(0) | <div>歌詞不錯~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10015557)<br><br>2012-08-06 21:34<br>赞(0) 踩(0) | <div>嗯，很是很是。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7763367)<br>如果有天我出现在你面前能...<br>2012-07-19 15:11<br>赞(0) 踩(0) | <div>小白我们已不再是单纯孩子了呼~~答应我的！一定要做到！小白加油…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7763367)<br>如果有天我出现在你面前能...<br>2012-07-19 15:11<br>赞(0) 踩(0) | <div>小白<br>我们已不再是单纯孩子了<br><br>呼~~答应我的！一定要做到！<br>小白加油…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9596887)<br><br>2012-07-10 19:09<br>赞(0) 踩(0) | <div>“越长大越怀念少年时有多勇敢，骑单车摔多痛也笑着哭”，轻描淡写下的击打。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9648340)<br><br>2012-07-01 01:21<br>赞(0) 踩(0) | <div>里面充满幸福的味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9619048)<br>失去主张<br>2012-06-30 15:47<br>赞(0) 踩(0) | <div>听着超舒服</div> |
@@ -622,9 +622,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5594702)<br><br>2012-05-17 21:15<br>赞(0) 踩(0) | <div>越单纯，越幸福。心像开满花的树。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1673116)<br><br>2012-05-16 22:45<br>赞(0) 踩(0) | <div>晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6130483)<br>愿那音绕耳不绝 <br>2012-05-06 19:11<br>赞(0) 踩(0) | <div>没理由。就刚好听到而已。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3709390)<br>暂无签名~<br>2012-05-05 01:08<br>赞(0) 踩(0) | <div>越单纯越幸福心像开满花的树努力的深爱过就不苦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3709390)<br>暂无签名~<br>2012-05-05 01:08<br>赞(0) 踩(0) | <div>越单纯越幸福心像开满花的树<br>努力的深爱过就不苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3664254)<br>看我的唐诗剑法<br>2012-05-04 11:46<br>赞(0) 踩(0) | <div>和画心很像，大家不信去听听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8416231)<br><br>2012-05-03 07:13<br>赞(0) 踩(0) | <div>骑单车摔多痛也笑着哭越单纯越幸福心像开满花的树努力的深爱过就不苦越单纯越幸福心像开满花的树大雨中期待着有彩虹越单纯越幸福再回想起的时候</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8416231)<br><br>2012-05-03 07:13<br>赞(0) 踩(0) | <div>骑单车摔多痛也笑着哭<br>越单纯越幸福心像开满花的树<br>努力的深爱过就不苦<br>越单纯越幸福心像开满花的树<br>大雨中期待着有彩虹<br>越单纯越幸福再回想起的时候</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7009661)<br><br>2012-04-20 13:09<br>赞(0) 踩(0) | <div>隐隐约约</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3907897)<br><br>2012-04-16 11:49<br>赞(0) 踩(0) | <div>那些感触，快要消失不见了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2423014)<br>不坑不足以谈人生<br>2012-04-15 09:48<br>赞(0) 踩(0) | <div>很爱这首歌的词曲，却不是很认同这个观点。成长时常只是换了种幸福的方式，总觉得过去的单纯充满了美好时常是因为你忘记了之前的忧伤。“心像开满花的树”，最中意这一句。</div> |
@@ -645,7 +645,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1072844)<br><br>2012-02-22 13:15<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5573531)<br><br>2012-02-21 13:58<br>赞(0) 踩(0) | <div>不知道这歌为什么那么感人~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3803283)<br><br>2012-02-19 11:30<br>赞(0) 踩(0) | <div>很美好，很深情！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1471992)<br>音樂是一場豔遇。<br>2012-02-19 02:52<br>赞(0) 踩(0) | <div>越单纯越幸福心像开满花的树</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1471992)<br>音樂是一場豔遇。<br>2012-02-19 02:52<br>赞(0) 踩(0) | <div>越单纯越幸福<br>心像开满花的树</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8071053)<br><br>2012-02-18 21:29<br>赞(0) 踩(0) | <div>陌生的城市让人想哭 又一次爱情已经辜负 能不能把未来看清楚 寻着流星方向可不可以找到幸福 越害怕越孤单谁的付出多一点 越单纯越想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2821945)<br><br>2012-02-12 00:40<br>赞(0) 踩(0) | <div>能不能把未来看清楚  循着流星方向可不可以找到幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5522446)<br><br>2012-02-01 22:17<br>赞(0) 踩(0) | <div>大雨中 期待着有彩虹</div> |
@@ -669,7 +669,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6679626)<br><br>2011-11-29 20:49<br>赞(0) 踩(0) | <div>两年没听这首歌了，那段日子总是它与我相依、为伴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6108101)<br><br>2011-11-26 17:05<br>赞(0) 踩(0) | <div>越长大越怀念少年时有多勇敢，骑单车摔多痛也笑着哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6108101)<br><br>2011-11-26 17:04<br>赞(0) 踩(0) | <div>越长大越怀念，少年时有多勇敢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3511171)<br><br>2011-11-25 22:03<br>赞(0) 踩(0) | <div>越单纯越幸福心像开满花的树努力的深爱过就不苦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3511171)<br><br>2011-11-25 22:03<br>赞(0) 踩(0) | <div>越单纯越幸福心像开满花的树<br>努力的深爱过就不苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48728)<br><br>2011-11-18 20:40<br>赞(0) 踩(0) | <div>过了很久，听这首歌，还是很感动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6770549)<br><br>2011-11-14 02:58<br>赞(0) 踩(0) | <div>旋律朴实无华，却尽是青春年少的颜色~歌词很有共鸣啊~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4767472)<br><br>2011-11-08 19:58<br>赞(0) 踩(0) | <div>越单纯越幸福</div> |
@@ -700,7 +700,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4027058)<br><br>2011-08-19 21:09<br>赞(0) 踩(0) | <div>越单纯越幸福，心像开满花的树~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5036060)<br><br>2011-08-16 11:28<br>赞(0) 踩(0) | <div>真大好好听啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4747178)<br><br>2011-08-12 10:41<br>赞(0) 踩(0) | <div>越单纯越幸福</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145716)<br>再见，虾米小组。<br>2011-08-10 20:37<br>赞(0) 踩(0) | <div>小时候，多么纯，多快乐。你能指望长大后的我找到快乐？复杂的思想，复杂的人际，盲目的生活。大概只能偶尔的回忆过去的单纯时光里才会找到短暂的快乐了吧。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145716)<br>再见，虾米小组。<br>2011-08-10 20:37<br>赞(0) 踩(0) | <div>小时候，多么纯，多快乐。<br>你能指望长大后的我找到快乐？<br>复杂的思想，复杂的人际，盲目的生活。大概只能偶尔的回忆过去的单纯时光里才会找到短暂的快乐了吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3914937)<br><br>2011-08-06 01:23<br>赞(0) 踩(0) | <div>【陌生的城市让人想哭 越单纯越幸福】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/849047)<br><br>2011-07-25 14:45<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4957607)<br><br>2011-07-21 17:49<br>赞(0) 踩(0) | <div>某个人听过~</div> |
@@ -713,7 +713,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3394976)<br> <br>2011-07-04 18:51<br>赞(0) 踩(0) | <div>好好珍惜，现在的单纯吧……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3688401)<br><br>2011-06-28 20:57<br>赞(0) 踩(0) | <div>很有感觉~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4465398)<br><br>2011-06-27 23:59<br>赞(0) 踩(0) | <div>真的是越单纯越幸福</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4270171)<br><br>2011-06-27 01:56<br>赞(0) 踩(0) | <div>越长大越怀念少年时有多勇敢骑单车摔多痛也笑着哭</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4270171)<br><br>2011-06-27 01:56<br>赞(0) 踩(0) | <div>越长大越怀念少年时有多勇敢<br>骑单车摔多痛也笑着哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1346742)<br><br>2011-06-25 22:40<br>赞(0) 踩(0) | <div>安静地难受。   哒哒哒，  你懂我嘛？简单的小心事！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4374748)<br><br>2011-06-22 10:58<br>赞(0) 踩(0) | <div>很安静  很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/895125)<br><br>2011-06-18 13:41<br>赞(0) 踩(0) | <div>太爱了，无论是旋律，还是节奏，还是歌词，还是唱腔，都那么让人沉迷。</div> |
@@ -722,17 +722,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64696)<br>新浪微博@破产美剧迷<br>2011-06-04 21:28<br>赞(1) 踩(0) | <div>我觉得有点像画心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2272581)<br><br>2011-06-02 21:51<br>赞(0) 踩(0) | <div>一直很喜欢王筝的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3877975)<br><br>2011-05-31 22:19<br>赞(0) 踩(0) | <div>他说，你不要不开心，你哭的样子很让人心疼……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312523)<br><br>2011-05-28 02:43<br>赞(0) 踩(0) | <div>女生/年纪小的时候喜欢谈“幸福”，祝福也总是写“你一定要幸福”？一次一个朋友问“你们女生是不是很爱用‘幸福’、‘温情’这样的词，太可怕了，爷们完全说不出口。” 压力大了么- -也不知什么时候开始，这样的概念跟祝福收起来了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312523)<br><br>2011-05-28 02:43<br>赞(0) 踩(0) | <div>女生/年纪小的时候喜欢谈“幸福”，祝福也总是写“你一定要幸福”？一次一个朋友问“你们女生是不是很爱用‘幸福’、‘温情’这样的词，太可怕了，爷们完全说不出口。” 压力大了么- -<br>也不知什么时候开始，这样的概念跟祝福收起来了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3507195)<br><br>2011-05-22 17:45<br>赞(0) 踩(0) | <div>陌生的城市让人想哭 又一次爱情已经辜负 能不能把未来看清楚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1476285)<br><br>2011-05-22 16:07<br>赞(0) 踩(0) | <div>支持</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1960698)<br><br>2011-05-19 16:44<br>赞(0) 踩(0) | <div>越单纯真的会越幸福吗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1142767)<br>【莯】择[良]木而xi！<br>2011-05-09 22:48<br>赞(0) 踩(0) | <div>越害怕越孤单谁的付出多一点越躲藏越相爱越怕输。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1142767)<br>【莯】择[良]木而xi！<br>2011-05-09 22:48<br>赞(0) 踩(0) | <div>越害怕越孤单<br>谁的付出多一点<br>越躲藏越相爱越怕输。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3878015)<br><br>2011-05-08 19:30<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3781077)<br> <br>2011-05-07 20:51<br>赞(0) 踩(0) | <div>就那么静静的~静静的~~~好听：）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3781077)<br> <br>2011-05-07 20:50<br>赞(0) 踩(0) | <div>声音好，安安静静，适合想象~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3049792)<br><br>2011-05-07 17:48<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3049395)<br><br>2011-05-06 22:41<br>赞(0) 踩(0) | <div>越单纯越幸福</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3528336)<br><br>2011-05-04 20:57<br>赞(0) 踩(0) | <div>越长大 越怀念 少年时有多勇敢骑单车 摔多痛也笑着哭~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3528336)<br><br>2011-05-04 20:57<br>赞(0) 踩(0) | <div>越长大 越怀念 少年时有多勇敢<br>骑单车 摔多痛也笑着哭~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3682434)<br><br>2011-05-03 15:17<br>赞(0) 踩(0) | <div>喜欢的想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2787687)<br><br>2011-05-03 12:41<br>赞(0) 踩(0) | <div>为什么我这么幸福，因为越单纯越幸福！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3605771)<br><br>2011-04-30 17:02<br>赞(0) 踩(0) | <div>好听</div> |
@@ -752,7 +752,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3568289)<br><br>2011-04-12 15:19<br>赞(0) 踩(0) | <div>越单纯越幸福，很喜欢的歌，好听。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1327138)<br><br>2011-04-04 22:40<br>赞(0) 踩(0) | <div>幸福的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1327138)<br><br>2011-04-04 22:31<br>赞(0) 踩(0) | <div>好好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3410458)<br><br>2011-04-01 14:31<br>赞(0) 踩(0) | <div>第一次听这首歌是单位一个男同事唱的，真的很好听，现在是K歌必唱曲而且王筝还是西安人呢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3410458)<br><br>2011-04-01 14:31<br>赞(0) 踩(0) | <div>第一次听这首歌是单位一个男同事唱的，真的很好听，现在是K歌必唱曲<br>而且王筝还是西安人呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143426)<br><br>2011-03-30 22:06<br>赞(0) 踩(0) | <div>越单纯越幸福心像开满鲜花的树</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2779704)<br>看我的屁股干嘛?<br>2011-03-23 17:00<br>赞(0) 踩(0) | <div>“越长大越怀念少年时有多勇敢，骑单车摔多痛也笑着哭。”其实，长大了并不会变得更加勇敢，在逐渐了解这个世界的真实后，我们反而会日渐畏惧。但是我们能够找到，那些可以让自己坚持着勇敢的人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/728201)<br><br>2011-03-23 02:18<br>赞(0) 踩(0) | <div>好听的歌不用解释</div> |
@@ -772,7 +772,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2894054)<br><br>2011-02-24 12:48<br>赞(0) 踩(0) | <div>越长大越怀念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1450199)<br>我听故我在<br>2011-02-23 20:46<br>赞(0) 踩(0) | <div>看中这歌名了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/768574)<br>暂无签名~<br>2011-02-22 16:23<br>赞(0) 踩(0) | <div>“单纯的爱，真的很幸福吧，傻傻的，直直的。”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2829831)<br><br>2011-02-16 23:36<br>赞(1) 踩(0) | <div>电影画皮主题曲谁在抄袭谁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2829831)<br><br>2011-02-16 23:36<br>赞(1) 踩(0) | <div>电影画皮主题曲<br>谁在抄袭谁</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1007657)<br>懒懒一枚。。。<br>2013-08-30 17:09<br>赞(0) 踩(0) | <div>画皮原曲为藤原育郎的Asian Road，所属专辑为05年发行。。。你说谁抄袭？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1982524)<br>己之所欲勿施于人<br>2015-02-04 16:44<br>赞(0) 踩(0) | <div><q><b>もしも说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/506787)<br>有人问我是与非，说是与非<br>2011-02-16 09:30<br>赞(0) 踩(0) | <div>歌词里描述的场景记录了点点滴滴我那曾经很二小甜蜜的青春~~~大学毕业后一边面对与接收社会现实的打击挤压~~一边又不甘心地把这份原本一分的甜美的回忆发酵为一百分~~诚如歌词写的那样：越单纯越幸福，再回想起的时候~~~再也回不去了~~~但是心中依然温暖~~~</div> |
@@ -812,7 +812,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1649092)<br>山水有清音<br>2010-10-12 14:50<br>赞(0) 踩(0) | <div>好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1597238)<br><br>2010-10-02 09:52<br>赞(0) 踩(0) | <div>越单纯越幸福心像开满鲜花的树努力的深爱过就不苦越单纯越幸福心像开满花的树大雨中期待着会有彩虹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30198)<br><br>2010-09-23 18:38<br>赞(0) 踩(0) | <div>生活是要简单些！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1185723)<br><br>2010-09-22 22:53<br>赞(0) 踩(0) | <div>越单纯越幸福心像开满鲜花的树努力的深爱过就不苦越单纯越幸福心像开满花的树大雨中期待着会有彩虹</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1185723)<br><br>2010-09-22 22:53<br>赞(0) 踩(0) | <div>越单纯越幸福心像开满鲜花的树<br>努力的深爱过就不苦<br>越单纯越幸福心像开满花的树<br>大雨中期待着会有彩虹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1500953)<br><br>2010-09-14 14:04<br>赞(0) 踩(0) | <div>很好的听觉！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371473)<br>突然想到理想这个词<br>2010-09-12 20:38<br>赞(0) 踩(0) | <div>还有没有那么好听的歌了？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1223782)<br><br>2010-09-07 13:12<br>赞(0) 踩(0) | <div>每次听，鼻子会酸酸的。</div> |
@@ -824,8 +824,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1035356)<br><br>2010-08-24 16:40<br>赞(0) 踩(0) | <div>喜欢那句：秋天里风吹花儿轻舞 阳光会碎落成一面湖...仿佛那样的岁月像一阵风一样吹过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/456264)<br><br>2010-08-20 22:42<br>赞(0) 踩(0) | <div>淡然的忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/909367)<br>好好浪费生命<br>2010-08-20 20:46<br>赞(0) 踩(0) | <div>单纯的糖..单纯的幸福</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/739349)<br><br>2010-08-19 10:50<br>赞(0) 踩(0) | <div>旋律虽然简单··但每一次听内心就会变得很宁静·</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95038)<br><br>2010-08-14 19:38<br>赞(0) 踩(0) | <div>一直觉的它俗但是每次听总能感觉又回到骑着单车带她的日子而她就在后座靠着我轻轻的哼着</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/739349)<br><br>2010-08-19 10:50<br>赞(0) 踩(0) | <div>旋律虽然简单··<br>但每一次听内心就会变得很宁静·</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95038)<br><br>2010-08-14 19:38<br>赞(0) 踩(0) | <div>一直觉的它俗<br>但是<br>每次听<br>总能感觉又回到骑着单车带她的日子<br>而她<br>就在后座靠着我<br>轻轻的哼着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1286287)<br><br>2010-08-08 23:39<br>赞(0) 踩(0) | <div>很有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1285776)<br><br>2010-08-08 13:30<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1285779)<br><br>2010-08-08 13:11<br>赞(0) 踩(0) | <div>轻快而舒适</div> |
@@ -837,11 +837,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1173505)<br>树荫精灵<br>2010-07-22 14:49<br>赞(0) 踩(0) | <div>祝你幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1187225)<br><br>2010-07-17 16:54<br>赞(0) 踩(0) | <div>纯粹的喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1156698)<br><br>2010-07-11 13:50<br>赞(0) 踩(0) | <div>越单纯真的越幸福么</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/625385)<br><br>2010-07-11 10:38<br>赞(0) 踩(0) | <div>又一次爱情已经辜负努力的深爱过就不哭----------------南楠安慰我的歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/625385)<br><br>2010-07-11 10:38<br>赞(0) 踩(0) | <div>又一次爱情已经辜负<br>努力的深爱过就不哭<br>----------------<br>南楠安慰我的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/466732)<br><br>2010-07-09 19:50<br>赞(0) 踩(0) | <div>很感动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1053129)<br><br>2010-07-03 13:26<br>赞(0) 踩(0) | <div>很喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/796922)<br><br>2010-07-01 21:01<br>赞(0) 踩(0) | <div>越单纯越幸福，心像开满花的树</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/665842)<br><br>2010-07-01 09:27<br>赞(0) 踩(0) | <div>越单纯，越幸福触动我了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/665842)<br><br>2010-07-01 09:27<br>赞(0) 踩(0) | <div>越单纯，越幸福<br><br>触动我了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1079010)<br><br>2010-06-30 19:21<br>赞(0) 踩(0) | <div>记得保持单纯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1099027)<br><br>2010-06-28 15:49<br>赞(0) 踩(0) | <div>越单纯越幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1034210)<br><br>2010-06-20 23:48<br>赞(0) 踩(0) | <div>复杂透着向往</div> |
@@ -849,14 +849,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/979981)<br><br>2010-06-19 14:15<br>赞(0) 踩(0) | <div>旅行也是一种单纯的幸福~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1010662)<br><br>2010-06-16 13:50<br>赞(0) 踩(0) | <div>让我怀念那已逝去的年少</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1009891)<br><br>2010-06-13 10:06<br>赞(0) 踩(0) | <div>不错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/984713)<br><br>2010-06-09 14:05<br>赞(0) 踩(0) | <div>努力的 深爱过 就不苦大雨中 期待着有彩虹</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/984713)<br><br>2010-06-09 14:05<br>赞(0) 踩(0) | <div>努力的 深爱过 就不苦<br>大雨中 期待着有彩虹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/621191)<br><br>2010-06-02 04:45<br>赞(0) 踩(0) | <div>单纯，所以幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/886974)<br><br>2010-05-21 22:23<br>赞(0) 踩(0) | <div>整首歌的风格和阿桑的很像。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100356)<br>牀畔戲寶未合襯 紅裙再花...<br>2010-05-19 12:44<br>赞(0) 踩(0) | <div>如果可以可以如果</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100356)<br>牀畔戲寶未合襯 紅裙再花...<br>2010-05-19 12:44<br>赞(0) 踩(0) | <div>如果可以<br>可以如果</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/887661)<br><br>2010-05-16 12:02<br>赞(0) 踩(0) | <div>回忆起最美好的时代</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323280)<br>_<br>2010-05-07 13:30<br>赞(0) 踩(0) | <div>越害怕 越孤单 谁的付出多一点越躲藏 越相爱 越怕输</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323280)<br>_<br>2010-05-07 13:30<br>赞(0) 踩(0) | <div>越害怕 越孤单 谁的付出多一点<br>越躲藏 越相爱 越怕输</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/796824)<br><br>2010-04-12 16:29<br>赞(0) 踩(0) | <div>安静惬意</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/748130)<br>爱你已久，但仍未够<br>2010-03-24 15:35<br>赞(0) 踩(0) | <div>那时的快乐是...不知道冲进雨里会生病。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/748130)<br>爱你已久，但仍未够<br>2010-03-24 15:35<br>赞(0) 踩(0) | <div>那时的快乐是...<br>不知道冲进雨里会生病。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85831)<br><br>2010-03-19 22:43<br>赞(0) 踩(0) | <div>淡淡的伤感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249594)<br><br>2010-03-14 14:29<br>赞(0) 踩(0) | <div>单纯的心灵只看到幸福,复杂的心思却不满足</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230554)<br>■□■□■□■□■□■□<br>2010-02-28 18:09<br>赞(0) 踩(0) | <div>歌词 没了</div> |
@@ -873,7 +873,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309339)<br>暂无签名~<br>2009-08-04 22:06<br>赞(0) 踩(0) | <div>单纯~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242345)<br> <br>2009-07-24 12:05<br>赞(0) 踩(0) | <div>单纯=幸福？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287877)<br><br>2009-07-23 21:56<br>赞(0) 踩(0) | <div>越单纯越幸福，淡淡的忧伤，打动人心。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230382)<br>趁还来得及文艺<br>2009-07-20 23:56<br>赞(0) 踩(0) | <div>旋律有些像&amp;quot;画心&amp;quot;, 只是因为歌词和王筝的嗓音的缘故, 听起来不像&amp;quot;画心&amp;quot;那么让人心碎.总会有这样的时候吧, 总希望自己还是那个长不大的孩子, 单纯, 直接, 简单</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230382)<br>趁还来得及文艺<br>2009-07-20 23:56<br>赞(0) 踩(0) | <div>旋律有些像&amp;quot;画心&amp;quot;, 只是因为歌词和王筝的嗓音的缘故, 听起来不像&amp;quot;画心&amp;quot;那么让人心碎.<br>总会有这样的时候吧, 总希望自己还是那个长不大的孩子, 单纯, 直接, 简单</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126386)<br><br>2009-07-07 13:06<br>赞(0) 踩(0) | <div>纯净的声音，也涤净人的内心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24385)<br><br>2009-06-26 15:34<br>赞(0) 踩(0) | <div>我就喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36055)<br>保有幸福的能力<br>2009-06-25 16:33<br>赞(0) 踩(0) | <div>在校园里任凭阳光碎成一面湖，常常会想未来的路会有多少交叉路，心像开满花的树……又到了这个离别的季节，你们……还好么？</div> |
@@ -881,10 +881,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194239)<br><br>2009-06-25 10:08<br>赞(0) 踩(0) | <div>丰富的单纯　化繁为简</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211718)<br><br>2009-06-25 09:22<br>赞(0) 踩(0) | <div>抒发自己感情最好的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223501)<br><br>2009-06-21 14:23<br>赞(0) 踩(0) | <div>越单纯越幸福，越长大越孤单</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198064)<br><br>2009-06-09 09:36<br>赞(0) 踩(0) | <div>越单纯 越幸福 心像开满花的树--------旋律有些熟,歌词很有感触</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198064)<br><br>2009-06-09 09:36<br>赞(0) 踩(0) | <div>越单纯 越幸福 心像开满花的树<br>--------旋律有些熟,歌词很有感触</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115869)<br>其实，我也是一个演员<br>2009-06-08 12:10<br>赞(0) 踩(0) | <div>单纯得干干净净。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203230)<br><br>2009-06-08 11:29<br>赞(0) 踩(0) | <div>听到的是单纯唯美的声音和追寻着幸福的人，无限的美好随着歌声飘荡着......</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1909)<br><br>2009-06-04 15:21<br>赞(0) 踩(0) | <div>越单纯越幸福，心像开满花的树带有一种怀念的忧伤，走进在陌生城市挣扎的人们心里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1909)<br><br>2009-06-04 15:21<br>赞(0) 踩(0) | <div>越单纯越幸福，心像开满花的树<br>带有一种怀念的忧伤，走进在陌生城市挣扎的人们心里</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9626)<br><br>2009-06-08 11:34<br>赞(0) 踩(0) | <div>haha</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9626)<br><br>2009-06-08 11:34<br>赞(0) 踩(0) | <div>haha to</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194106)<br><br>2009-06-03 00:03<br>赞(0) 踩(0) | <div>不错</div> |
@@ -896,7 +896,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117319)<br><br>2009-05-27 12:24<br>赞(0) 踩(0) | <div>骑单车摔多少次也笑着哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178021)<br><br>2009-05-26 20:10<br>赞(0) 踩(0) | <div>静静的，放松的听，感觉会超好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38607)<br><br>2009-05-21 09:37<br>赞(0) 踩(0) | <div>当你开始感怀，这首歌的曲调很适合。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/157729)<br><br>2009-05-21 08:43<br>赞(0) 踩(0) | <div>你说起那条回家的路路上有开满鲜花的树秋天里风吹花儿轻舞阳光会 碎落成 一面湖陌生的城市让人想哭又一次爱情已经辜负能不能把未来看清楚寻着流星方向 可不可以找到  幸福越害怕 越孤单 谁的付出多一点越躲藏 越相爱 越怕输越长大 越怀念 少年时有多勇敢骑单车 摔多痛也笑着哭越单纯 越幸福 心像开满花的树努力的 深爱过 就不苦越单纯 越幸福 心像开满花的树大雨中 期待着有彩虹</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/157729)<br><br>2009-05-21 08:43<br>赞(0) 踩(0) | <div>你说起那条回家的路<br>路上有开满鲜花的树<br>秋天里风吹花儿轻舞<br>阳光会 碎落成 一面湖<br>陌生的城市让人想哭<br>又一次爱情已经辜负<br>能不能把未来看清楚<br>寻着流星方向 可不可以找到  幸福<br>越害怕 越孤单 谁的付出多一点<br>越躲藏 越相爱 越怕输<br>越长大 越怀念 少年时有多勇敢<br>骑单车 摔多痛也笑着哭<br>越单纯 越幸福 心像开满花的树<br>努力的 深爱过 就不苦<br>越单纯 越幸福 心像开满花的树<br>大雨中 期待着有彩虹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9408)<br><br>2009-03-24 11:01<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56139)<br><br>2009-02-21 16:59<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11931)<br><br>2009-02-15 22:10<br>赞(0) 踩(0) | <div>总之是不错滴，</div> |

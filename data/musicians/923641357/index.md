@@ -3,7 +3,7 @@ SEVDALIZA
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/410edae455d488ba871b1a4bc772ff91.jpg)<br>SEVDALIZA](https://i.xiami.com/sevdaliza) | **播放数**: 6056072<br>**粉丝数**: 6528<br>**评论数**: 333<br>**地区**: Netherlands 荷兰<br>**风格**: 神游舞曲 Trip Hop, 电子 Electronic, 另类节奏布鲁斯 Alternative R&B, 艺术流行 Art Pop<br> |
+| [![](../../images/musicians/410edae455d488ba871b1a4bc772ff91.jpg)<br>SEVDALIZA](https://i.xiami.com/sevdaliza) | **地区**: Netherlands 荷兰<br>**风格**: 神游舞曲 Trip Hop, 电子 Electronic, 另类节奏布鲁斯 Alternative R&B, 艺术流行 Art Pop<br>**播放数**: 6056072<br>**粉丝数**: 6528<br>**评论数**: 333<br> |
 
 ## 档案
 
@@ -42,8 +42,8 @@ SEVDALIZA
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405858695)<br>快乐听歌<br>2021-01-04 15:36<br>赞(0) 踩(0) | <div>有意思</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54676006)<br>冷記憶<br>2020-12-01 00:49<br>赞(1) 踩(0) | <div>：</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410489503)<br>南极鳗鱼<br>2020-11-06 06:11<br>赞(1) 踩(0) | <div></div> |
@@ -91,7 +91,7 @@ SEVDALIZA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404061884)<br><br>2018-09-13 23:03<br>赞(3) 踩(0) | <div>果然医治深沉的痛苦的唯一良药只有浮浅的快乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228843687)<br>懒惰统治人间<br>2018-09-03 14:23<br>赞(2) 踩(0) | <div>:-O</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117527814)<br>没有更多内容了。<br>2018-08-04 20:53<br>赞(0) 踩(0) | <div>&amp;Uuml;</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271059336)<br>从前的日色慢，车马邮件都...<br>2018-07-29 12:52<br>赞(2) 踩(0) | <div>我们杀过自己杀过自己</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271059336)<br>从前的日色慢，车马邮件都...<br>2018-07-29 12:52<br>赞(2) 踩(0) | <div>我们杀过自己<br>杀过自己</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2018-07-15 15:39<br>赞(2) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34420424)<br>我还没想好要写什么...<br>2018-06-19 05:33<br>赞(0) 踩(0) | <div>️️️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232216014)<br>ᵇᵒʳⁿ ᵗᵒ ᵇᵉ ᵇ...<br>2018-05-24 02:13<br>赞(0) 踩(0) | <div>欠太多live了 <img src="../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"></div> |
@@ -131,7 +131,7 @@ SEVDALIZA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42399285)<br>无法掌控时的精神寄托<br>2018-02-18 03:33<br>赞(2) 踩(0) | <div>往生？？小姐姐竟然还听核</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3829986)<br> <br>2018-02-18 01:58<br>赞(0) 踩(0) | <div>没找到任何票务信息啊 在哪能买到</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3715472)<br><br>2018-02-26 17:21<br>赞(0) 踩(0) | <div>秀动</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4337336)<br>Like I care?<br>2018-03-04 17:04<br>赞(0) 踩(0) | <div>微博@Elegantmusic 上海票香港票搜sonarhk</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4337336)<br>Like I care?<br>2018-03-04 17:04<br>赞(0) 踩(0) | <div>微博@Elegantmusic 上海票<br>香港票搜sonarhk</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11159124)<br>今生都是第一次。<br>2018-02-17 23:55<br>赞(0) 踩(0) | <div><img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png">为什么只来北京 上海&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281574921)<br>我还没想好要写什么...<br>2018-02-06 00:35<br>赞(0) 踩(0) | <div>表白小姐姐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281574921)<br>我还没想好要写什么...<br>2018-02-06 00:35<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -154,7 +154,7 @@ SEVDALIZA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108820726)<br>♩ - ♪ - ♫ - ...<br>2018-01-22 15:51<br>赞(0) 踩(0) | <div>居然准备来中国演出了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33512641)<br>call me now,...<br>2018-01-22 15:33<br>赞(1) 踩(0) | <div>3月看起</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99586286)<br>歌单停滞在2017<br>2018-01-22 15:32<br>赞(2) 踩(0) | <div>居然有演出了  也去不了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292484097)<br> <br>2018-01-21 00:13<br>赞(3) 踩(0) | <div>3.24 in 上海 万代南梦宫未来剧场3.25 in 北京 疆进酒</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292484097)<br> <br>2018-01-21 00:13<br>赞(3) 踩(0) | <div>3.24 in 上海 万代南梦宫未来剧场<br>3.25 in 北京 疆进酒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11893543)<br>と·む<br>2018-01-18 22:53<br>赞(1) 踩(0) | <div>Finally</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25994536)<br><br>2018-01-15 15:10<br>赞(1) 踩(0) | <div>我要气死了想看现场！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19899577)<br>噢 嗯<br>2018-01-14 00:01<br>赞(2) 踩(0) | <div>三月香港 上海 北京演 5555终于可以看她演出啦</div> |
@@ -282,8 +282,8 @@ SEVDALIZA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42518733)<br><br>2016-07-16 12:03<br>赞(0) 踩(0) | <div>已经很久没听到那么棒的trip hop了。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34920505)<br>.<br>2016-07-06 16:07<br>赞(0) 踩(0) | <div>mv封面 有些污</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68577338)<br>思君如思乡<br>2016-07-02 13:26<br>赞(0) 踩(0) | <div><img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79496108)<br>接下来如何<br>2016-06-29 22:28<br>赞(0) 踩(0) | <div>童童 女友 观光团爱上❤迷幻电音强烈推推推评论各种死法美出天际</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79496108)<br>接下来如何<br>2016-06-29 22:24<br>赞(0) 踩(0) | <div>来自童童女友的观光  ヽ(`Д´)ﾉ却深深爱上这种❤迷幻电子    的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79496108)<br>接下来如何<br>2016-06-29 22:28<br>赞(0) 踩(0) | <div>童童 女友 观光团<br><br>爱上❤迷幻电音<br><br>强烈推推推<br><br>评论各种死法美出天际</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79496108)<br>接下来如何<br>2016-06-29 22:24<br>赞(0) 踩(0) | <div>来自童童女友的观光  ヽ(`Д´)ﾉ<br><br>却深深爱上这种❤<br><br>迷幻电子    的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5490437)<br>女士优先<br>2016-06-24 11:32<br>赞(0) 踩(0) | <div>-</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35714790)<br><br>2016-06-24 07:26<br>赞(0) 踩(0) | <div>ⓛⓞⓥⓔ♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7951384)<br>我还没想好要写什么...<br>2016-06-19 23:28<br>赞(0) 踩(0) | <div><img src="../../images/comments/2afbca6d708e05ceb54408ecc4db825c.png"></div> |

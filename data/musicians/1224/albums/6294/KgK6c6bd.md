@@ -29,8 +29,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6958839)<br><br>2019-05-20 19:24<br>赞(0) 踩(0) | <div>温柔的声音，再适合这首诗不过了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68682294)<br><br>2017-10-28 00:00<br>赞(0) 踩(0) | <div>我是天空的一朵云 偶尔投影在你的波心   真好听这歌 人声低音炮唱起来更有味道了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5867670)<br>物無美惡，過則為災。<br>2017-10-27 23:08<br>赞(0) 踩(0) | <div>在平靜的湖面，那空中的云便是湖心中的云~</div> |
@@ -83,12 +83,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3697591)<br><br>2013-05-27 22:30<br>赞(0) 踩(0) | <div>上次想起徐志摩的这首诗是在轮船的甲板上，蔡琴的女声版。而今这个磁性男声也让人着迷，低音好赞！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/586206)<br><br>2013-05-24 22:07<br>赞(0) 踩(0) | <div>@低音赵鹏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12889563)<br><br>2013-05-17 23:47<br>赞(0) 踩(0) | <div>啊噢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9228221)<br>斜阳浅照<br>2013-05-09 16:23<br>赞(0) 踩(0) | <div>我是天空里的一片云，偶尔投影在你的波心——你不必讶异，更无须欢喜——在转瞬间消灭了踪影。你我相逢在黑夜的海上，你有你的，我有我的，方向；你记得也好，最好你忘掉，在这交会时互放的光亮。徐志摩《偶然》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9228221)<br>斜阳浅照<br>2013-05-09 16:23<br>赞(0) 踩(0) | <div>我是天空里的一片云，<br>偶尔投影在你的波心——<br>你不必讶异，<br>更无须欢喜——<br>在转瞬间消灭了踪影。<br><br>你我相逢在黑夜的海上，<br>你有你的，我有我的，方向；<br>你记得也好，<br>最好你忘掉，<br>在这交会时互放的光亮。<br>徐志摩《偶然》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9228221)<br>斜阳浅照<br>2013-05-08 08:19<br>赞(0) 踩(0) | <div>诗人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8379600)<br><br>2013-05-03 23:21<br>赞(0) 踩(0) | <div>这翻唱这嗓音终于可以睡了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4811926)<br><br>2013-04-14 18:47<br>赞(0) 踩(0) | <div>每次听赵鹏都能静下来，看书睡觉听，好矛盾啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5754453)<br><br>2013-04-09 10:11<br>赞(0) 踩(0) | <div>我们都在流浪，碰巧遇上，流浪，为爱一起又各自流浪。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13591128)<br>音乐如此美妙！<br>2013-03-20 14:59<br>赞(0) 踩(0) | <div>我是天空里的一片云偶而投影在你的波心你不必讶异无须欢欣在转瞬间消灭了踪影</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13591128)<br>音乐如此美妙！<br>2013-03-20 14:59<br>赞(0) 踩(0) | <div>我是天空里的一片云<br>偶而投影在你的波心<br>你不必讶异无须欢欣<br>在转瞬间消灭了踪影</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5867670)<br>物無美惡，過則為災。<br>2013-02-28 16:08<br>赞(0) 踩(0) | <div>湖中倒映的云，最终还会随风飘散么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11112480)<br>Nomad<br>2013-02-18 00:50<br>赞(0) 踩(0) | <div>hi，晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11162944)<br>心随乐动<br>2013-01-19 20:15<br>赞(0) 踩(0) | <div>不错的国产男低音！！</div> |
@@ -113,8 +113,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203596)<br><br>2012-01-03 10:51<br>赞(0) 踩(0) | <div>男声低音炮。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7310888)<br><br>2011-12-19 15:02<br>赞(0) 踩(0) | <div>歌不错，收下了。谢谢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/453521)<br><br>2011-11-23 22:06<br>赞(0) 踩(0) | <div>歌词还有声音都是我喜欢的~~让人觉得宁静，低音是王道啊！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6376697)<br><br>2011-10-27 23:07<br>赞(0) 踩(0) | <div>我是天空里的一片云，偶尔投影在你的波心——你不必讶异，更无须欢喜——在转瞬间消灭了踪影。你我相逢在黑夜的海上，你有你的，我有我的，方向；你记得也好，最好你忘掉，在这交会时互放的光亮！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6376697)<br><br>2011-10-27 23:06<br>赞(0) 踩(0) | <div>我是天空里的一片云，偶尔投影在你的波心——你不必讶异，更无须欢喜——在转瞬间消灭了踪影。你我相逢在黑夜的海上，你有你的，我有我的，方向；你记得也好，最好你忘掉，在这交会时互放的光亮！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6376697)<br><br>2011-10-27 23:07<br>赞(0) 踩(0) | <div>我是天空里的一片云，<br>偶尔投影在你的波心——<br>你不必讶异，<br>更无须欢喜——<br>在转瞬间消灭了踪影。<br>你我相逢在黑夜的海上，<br>你有你的，我有我的，方向；<br>你记得也好，<br>最好你忘掉，<br><br>在这交会时互放的光亮！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6376697)<br><br>2011-10-27 23:06<br>赞(0) 踩(0) | <div>我是天空里的一片云，<br>偶尔投影在你的波心——<br>你不必讶异，<br>更无须欢喜——<br>在转瞬间消灭了踪影。<br>你我相逢在黑夜的海上，<br>你有你的，我有我的，方向；<br>你记得也好，<br>最好你忘掉，<br><br>在这交会时互放的光亮！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6376697)<br><br>2011-10-27 22:55<br>赞(0) 踩(0) | <div>我是天空的一片云，偶尔投影在你的波心，你不必讶异，更无需惊喜，在转舜间消灭了踪影。你我相逢在黑夜的海上，你有你的，我有我的方向，你记得也好，最好你忘掉，在这交会时互放的光亮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1696749)<br><br>2011-10-18 23:20<br>赞(0) 踩(0) | <div>……你不必讶异不必欢欣，在转瞬间消灭了踪影……晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4752422)<br><br>2011-10-15 23:37<br>赞(0) 踩(0) | <div>还是这个版本的有感觉</div> |
@@ -136,9 +136,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/460795)<br><br>2010-11-28 00:29<br>赞(0) 踩(0) | <div>徐志摩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/993768)<br><br>2010-11-17 22:09<br>赞(0) 踩(0) | <div>磁性，和齐秦不一样的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55181)<br><br>2010-09-08 14:36<br>赞(0) 踩(0) | <div>低声</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759162)<br>苏世独立 横而不流<br>2010-09-08 09:00<br>赞(0) 踩(0) | <div>我是天空里的一片云，偶尔投影在你的波心——你不必惊异，更无须欢喜——在转瞬间消灭了踪影。--------徐志摩《偶然》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759162)<br>苏世独立 横而不流<br>2010-09-08 09:00<br>赞(0) 踩(0) | <div>我是天空里的一片云，<br>偶尔投影在你的波心——<br>你不必惊异，<br>更无须欢喜——<br>在转瞬间消灭了踪影。<br><br>--------徐志摩《偶然》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249186)<br>爱音乐 爱美女 爱一切美...<br>2010-09-03 22:26<br>赞(0) 踩(0) | <div>偶尔投影在你的波心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1190277)<br><br>2010-09-01 22:52<br>赞(0) 踩(0) | <div>徐志摩的另一首诗偶然。这个男低音的版本比较好听。我是天空里的一片云，偶尔投影在你的波心——你不必惊异，更无须欢喜——在转瞬间消灭了踪影。你我相逢在黑夜的海上，你有你的，我有我的，方向；你记得也好，最好你忘掉，在这交会时互放的光亮。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1190277)<br><br>2010-09-01 22:52<br>赞(0) 踩(0) | <div>徐志摩的另一首诗偶然。这个男低音的版本比较好听。<br><br>我是天空里的一片云，<br>偶尔投影在你的波心——<br>你不必惊异，<br>更无须欢喜——<br>在转瞬间消灭了踪影。<br><br>你我相逢在黑夜的海上，<br>你有你的，我有我的，方向；<br>你记得也好，<br>最好你忘掉，<br>在这交会时互放的光亮。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/626663)<br><br>2010-08-09 23:43<br>赞(0) 踩(0) | <div>就像微饥饿却不知吃什么的时候有人送上一碗面，咸淡刚好，葱花点缀得刚好，就连蒸汽的氤氲也刚好，你在舌尖品出了它的嫩滑，一番缠绵以后慢慢咽下去，然后最后那一口汤咽下后你回味无穷心满意足。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1084934)<br><br>2010-07-02 12:33<br>赞(0) 踩(0) | <div>回首陌路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380870)<br><br>2009-10-13 10:34<br>赞(0) 踩(0) | <div>就爱赵鹏鹏`无法抗拒男低音</div> |

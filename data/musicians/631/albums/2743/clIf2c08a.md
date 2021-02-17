@@ -48,6 +48,6 @@ Let's keep out the bugs
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6335516)<br><br>2012-07-17 10:56<br>赞(0) 踩(0) | <div>听到瞬间就有go camping的念想了~~</div> |

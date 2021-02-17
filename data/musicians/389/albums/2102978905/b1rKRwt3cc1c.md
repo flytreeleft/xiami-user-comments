@@ -58,7 +58,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21377011)<br><br>2017-12-31 04:40<br>赞(1) 踩(0) | <div>是感冒了吗？感觉鼻音很重呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61871036)<br> <br>2017-12-27 11:26<br>赞(4) 踩(0) | <div>永远青春的声音。</div> |

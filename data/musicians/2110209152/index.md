@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/00317332c6362a0d25c5620f74e5d1c5.jpg)<br>阿根](https://i.xiami.com/musicagain) | **播放数**: 2101682<br>**粉丝数**: 75<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 民谣 Folk, 流行 Pop<br> |
+| [![](../../images/musicians/00317332c6362a0d25c5620f74e5d1c5.jpg)<br>阿根](https://i.xiami.com/musicagain) | **地区**: China 中国大陆<br>**风格**: 民谣 Folk, 流行 Pop<br>**播放数**: 2101682<br>**粉丝数**: 75<br>**评论数**: 6<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,8 +18,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320349766)<br>等待，让人心凉<br>2019-01-05 21:04<br>赞(1) 踩(0) | <div>你的《春风十里》是认真的吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5002030)<br>Find Myself<br>2019-03-06 11:14<br>赞(0) 踩(0) | <div>我也因为这个点开了他主页。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13642864)<br>人生无大志，但求六十分<br>2018-01-08 13:13<br>赞(0) 踩(0) | <div>唱的真不错，不妨试着自己创作，</div> |

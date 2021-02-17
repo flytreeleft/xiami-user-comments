@@ -74,7 +74,7 @@ So goodbye, take care, the journey beckons me.
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297353954)<br>摇滚和迪斯科<br>2017-10-02 14:06<br>赞(0) 踩(0) | <div>作为左小不那么难听的几首之一突然觉得少了点什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16093156)<br>再见虾米，感谢你的陪伴！<br>2017-09-12 23:44<br>赞(0) 踩(0) | <div>发横财以后，都是靡靡之音</div> |

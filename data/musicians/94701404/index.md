@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/68d51992c69032b427887bcfce7b5791.jpg)<br>孙小云](https://i.xiami.com/sunxiaoyun) | **播放数**: 1178780<br>**粉丝数**: 339<br>**评论数**: 18<br>**地区**: China 中国大陆<br>**风格**: 民谣 Folk<br> |
+| [![](../../images/musicians/68d51992c69032b427887bcfce7b5791.jpg)<br>孙小云](https://i.xiami.com/sunxiaoyun) | **地区**: China 中国大陆<br>**风格**: 民谣 Folk<br>**播放数**: 1178780<br>**粉丝数**: 339<br>**评论数**: 18<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -26,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-09-25 03:46<br>赞(1) 踩(0) | <div>20200925.22</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-07-28 10:40<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22247727)<br><br>2020-01-30 00:11<br>赞(1) 踩(0) | <div>为什么没有无损音质</div> |

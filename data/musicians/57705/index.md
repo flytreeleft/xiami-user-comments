@@ -3,7 +3,7 @@ Nomak
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ae9d74014b0dcc2fbe968fbc4f02b938.jpg)<br>Nomak](https://i.xiami.com/nomak) | **播放数**: 11190173<br>**粉丝数**: 16999<br>**评论数**: 873<br>**地区**: Japan 日本<br>**风格**: 爵士流行 Jazz Pop, 爵士说唱 Jazz Rap, 独立电子乐 Indietronica<br> |
+| [![](../../images/musicians/ae9d74014b0dcc2fbe968fbc4f02b938.jpg)<br>Nomak](https://i.xiami.com/nomak) | **地区**: Japan 日本<br>**风格**: 爵士流行 Jazz Pop, 爵士说唱 Jazz Rap, 独立电子乐 Indietronica<br>**播放数**: 11190173<br>**粉丝数**: 16999<br>**评论数**: 873<br> |
 
 ## 档案
 
@@ -45,8 +45,8 @@ Nomak
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427840279)<br>购买诗集《落日飞奔术》电...<br>2020-10-09 16:06<br>赞(0) 踩(0) | <div>，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400715332)<br>留白<br>2020-03-16 08:12<br>赞(0) 踩(0) | <div>&amp;mdash;&amp;mdash;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-02-05 15:02<br>赞(1) 踩(0) | <div></div> |
@@ -75,7 +75,7 @@ Nomak
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2018-11-17 15:18<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346492287)<br>虾米不要离开我！<br>2018-11-07 13:28<br>赞(0) 踩(0) | <div>大白天本想午睡，结果听他的曲子听得泪流满面是怎么回事？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362221456)<br>我还没想好要写什么...<br>2018-09-03 13:09<br>赞(0) 踩(0) | <div>少了点什么</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32704477)<br>像熟悉了一个世纪<br>2018-07-04 22:22<br>赞(1) 踩(0) | <div>他的音乐高中开始听 一直不见真容刚打开图片 发现有汉字心想开头几个字  有太阳&amp;hellip;&amp;hellip;肯定是什么励志短语了谁知有太阳升起的地方就有......朝阳轮胎？？？轮胎？？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32704477)<br>像熟悉了一个世纪<br>2018-07-04 22:22<br>赞(1) 踩(0) | <div>他的音乐高中开始听 一直不见真容<br>刚打开图片 发现有汉字<br>心想开头几个字  有太阳&amp;hellip;&amp;hellip;<br>肯定是什么励志短语了<br><br>谁知<br><br>有太阳升起的地方就有......<br>朝阳轮胎？？？轮胎？？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32056965)<br>stay gold.<br>2019-05-04 20:34<br>赞(0) 踩(0) | <div>hah是17年7月那场刚下飞机的时候paulie rhyme给他拍的 这个行李车上的广告我也是笑爆了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1115247)<br>@Nebula_7293<br>2018-05-25 19:32<br>赞(0) 踩(0) | <div>／</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256746836)<br> <br>2018-05-13 13:37<br>赞(0) 踩(0) | <div>嗯</div> |
@@ -195,7 +195,7 @@ Nomak
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3197383)<br>生活中碰到知音的几率是零<br>2016-08-09 15:07<br>赞(0) 踩(0) | <div>我去，No大也被下架了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37254328)<br>唯有音樂与爱不能辜负<br>2016-08-04 21:42<br>赞(2) 踩(0) | <div>各位 广州见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2928117)<br>你好<br>2016-08-03 01:03<br>赞(4) 踩(0) | <div>nomak去网易了，有新曲子。觉得有点可惜，我在虾米呆惯了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2988078)<br><br>2016-08-02 21:57<br>赞(0) 踩(0) | <div>通知我有演唱会，然而全下架了没有虾米这个平台，我真不会认识到各种音乐人</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2988078)<br><br>2016-08-02 21:57<br>赞(0) 踩(0) | <div>通知我有演唱会，然而全下架了<br>没有虾米这个平台，我真不会认识到各种音乐人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92686490)<br><br>2016-07-30 10:45<br>赞(0) 踩(0) | <div>告訴我！版權被哪家買了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43021945)<br>暂无签名~<br>2016-08-02 17:04<br>赞(0) 踩(0) | <div>应该是跑去网易了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4367247)<br><br>2016-07-29 11:01<br>赞(3) 踩(0) | <div>说真的，上了的专辑再下架，一点安全感都没有，精选集白建。这样还不如下载好听。时代在倒退。</div> |
@@ -219,7 +219,7 @@ Nomak
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135009490)<br>PillyDance<br>2016-07-22 13:40<br>赞(2) 踩(0) | <div>上海见 还是 广州见？ 更多最新消息请关注主办方微博@霹雳丹PillyDance：weibo.com/playwithheart</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4013132)<br><br>2016-07-19 21:53<br>赞(2) 踩(0) | <div>9月9广州！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/185316677)<br><br>2016-07-25 14:06<br>赞(0) 踩(0) | <div>手拉手</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5980152)<br>噗、噗叽！<br>2016-07-15 00:42<br>赞(3) 踩(0) | <div>被站内信轰烦了，点进来本来想取关的，取关前听了一遍热门歌曲……哼⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄……看、看在歌这么好听的份上……就继续粉着吧……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5980152)<br>噗、噗叽！<br>2016-07-15 00:42<br>赞(3) 踩(0) | <div>被站内信轰烦了，点进来本来想取关的，取关前听了一遍热门歌曲……<br>哼⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄……看、看在歌这么好听的份上……就继续粉着吧……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1875004)<br>再見蝦米。<br>2016-07-13 20:45<br>赞(0) 踩(0) | <div>感谢诺马克大叔，你的作品陪伴我度过了大学时期</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2527832)<br>超越生命 解放自由<br>2016-07-12 22:08<br>赞(0) 踩(0) | <div>恭喜入住，会有新作品么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37950358)<br>抗忙~北鼻！！巴扎黑~~<br>2016-07-12 16:49<br>赞(0) 踩(0) | <div>好的，身为女粉丝，我就问一个问题，封面照上面的“可儿”是谁，蜜汁微笑</div> |
@@ -285,7 +285,7 @@ Nomak
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2016-01-23 09:42<br>赞(0) 踩(0) | <div>还真是我最初听JHH时期的那批人里的一个呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10860427)<br><br>2016-01-15 17:17<br>赞(0) 踩(0) | <div>喜欢的很多歌都是他的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5657949)<br>少吃点<br>2016-01-14 15:22<br>赞(0) 踩(0) | <div>喜欢的纯音乐，又多了一个</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2928117)<br>你好<br>2016-01-01 11:10<br>赞(1) 踩(0) | <div>You like the blue sky、white clouds、rain as naturalHAPPY NEW YEAR您像蓝天、白云和细雨般自然</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2928117)<br>你好<br>2016-01-01 11:10<br>赞(1) 踩(0) | <div>You like the blue sky、white clouds、rain as natural<br>HAPPY NEW YEAR<br>您像蓝天、白云和细雨般自然</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48304635)<br>音乐信仰<br>2015-12-31 18:24<br>赞(0) 踩(0) | <div>来虾米了...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92819314)<br><br>2015-12-30 13:10<br>赞(0) 踩(0) | <div>找到了！找到了！就是这种感觉的音乐！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12855734)<br>人总是在不断追寻<br>2015-12-28 14:30<br>赞(2) 踩(0) | <div>哇咧，竟然入驻了？！真的真的是本人么？？？</div> |
@@ -295,7 +295,7 @@ Nomak
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12237675)<br>脑乱/喜欢听伴奏<br>2015-12-20 22:18<br>赞(0) 踩(0) | <div>welcome to xiami nomak</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2649067)<br>要有爱!<br>2015-12-20 11:27<br>赞(2) 踩(0) | <div>头像好像小田切让啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11865922)<br>经常遇见我就关注一下吧<br>2015-12-19 00:48<br>赞(0) 踩(0) | <div>欢迎欢迎 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10439841)<br>暂无签名~<br>2015-12-18 23:10<br>赞(0) 踩(0) | <div>这是真的吗？本当の贵方なのが？Nomakさん</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10439841)<br>暂无签名~<br>2015-12-18 23:10<br>赞(0) 踩(0) | <div>这是真的吗？<br>本当の贵方なのが？Nomakさん</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6500137)<br><br>2015-12-18 17:18<br>赞(0) 踩(0) | <div>新头像那么骚？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30243610)<br> <br>2015-12-18 16:08<br>赞(0) 踩(0) | <div>求这个头像怎么做出来的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43236270)<br><br>2015-12-18 21:36<br>赞(0) 踩(0) | <div>美图秀秀马赛克吗.........................</div> |
@@ -431,11 +431,11 @@ Nomak
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7154254)<br>他人亦已歌<br>2015-07-04 12:45<br>赞(0) 踩(0) | <div>只去北京上海，我要痛哭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3643353)<br>虾米要关闭了，难说再见！...<br>2015-07-02 20:20<br>赞(0) 踩(0) | <div>票已经买好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5693451)<br>Seethenature<br>2015-07-02 16:05<br>赞(1) 踩(0) | <div>东方古典旋律</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6500137)<br><br>2015-06-29 23:23<br>赞(1) 踩(0) | <div>来重庆啊= =去现场的小伙伴记得把脸拍下来啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6500137)<br><br>2015-06-29 23:23<br>赞(1) 踩(0) | <div>来重庆啊= =<br>去现场的小伙伴记得把脸拍下来啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7056029)<br>再 见<br>2015-08-24 18:49<br>赞(0) 踩(0) | <div>烟友，这个任务我来~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6500137)<br><br>2015-08-24 19:42<br>赞(0) 踩(0) | <div><q><b>会游泳的蜜蜂说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/687163)<br>这家伙很能吃什么也没留下...<br>2015-06-29 01:08<br>赞(1) 踩(0) | <div>演出面前只有北上没有广</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2539704)<br><br>2015-06-26 11:48<br>赞(18) 踩(0) | <div>[Sounds Great呈现]日本Jazz Hip-Pop新星Nomak首次中国巡演活动详情：<a href="http://www.douban.com/event/24616809/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/24616809/</a>10.23--上海站<a href="http://www.douban.com/event/24617051" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/24617051</a>10.24--北京站<a href="http://www.douban.com/event/24616884/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/24616884/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2539704)<br><br>2015-06-26 11:48<br>赞(18) 踩(0) | <div>[Sounds Great呈现]日本Jazz Hip-Pop新星Nomak首次中国巡演<br>活动详情：<a href="http://www.douban.com/event/24616809/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/24616809/</a><br>10.23--上海站<a href="http://www.douban.com/event/24617051" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/24617051</a><br>10.24--北京站<a href="http://www.douban.com/event/24616884/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/24616884/</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12855734)<br>人总是在不断追寻<br>2015-07-21 09:23<br>赞(0) 踩(0) | <div>可惜去不鸟啊5~QAQ</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2539704)<br><br>2015-07-28 15:37<br>赞(0) 踩(0) | <div><q><b>昨天の明天说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/715477)<br><br>2018-01-18 14:51<br>赞(0) 踩(0) | <div>票已买 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -503,7 +503,7 @@ Nomak
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157355)<br>榕树长青<br>2014-05-14 14:54<br>赞(0) 踩(0) | <div>好吧，，你们都对，，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6500137)<br><br>2014-05-13 17:47<br>赞(6) 踩(0) | <div>关于头像更换问题详见：<a href="http://www.xiami.com/artist/pic-detail/pid/108851?spm=a1z1s.6659509.6856553.4.vV6mx9" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/artist/pic-detail/pid/108851?spm=a1z1s.6659509.6856553.4.vV6mx9</a>下方评论。就算是扫盲吧，喜欢Nomak的人越来越多了，还是有必要更正一下。我猜这个艺人形象多半是以前某个豆瓣用户上传的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13333456)<br>   .<br>2014-05-13 14:07<br>赞(0) 踩(0) | <div>头像换了= =？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6674200)<br>每个劫数时间会善后。<br>2014-05-12 22:59<br>赞(0) 踩(0) | <div>突然想起一句歌词“我是DJ你还会爱我吗？”我的脑洞=_=</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6674200)<br>每个劫数时间会善后。<br>2014-05-12 22:59<br>赞(0) 踩(0) | <div>突然想起一句歌词“我是DJ你还会爱我吗？”<br>我的脑洞=_=</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4298941)<br> <br>2014-05-09 17:07<br>赞(0) 踩(0) | <div>封面挺好看- -</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425887)<br>有缘再见<br>2014-04-23 22:56<br>赞(0) 踩(0) | <div>找老军医治疗一下皮肤问题啊！快快拨打全国免费**！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317745)<br>limitless<br>2014-04-29 22:21<br>赞(0) 踩(0) | <div>哈哈哈哈哈是不是照片没选好</div> |
@@ -566,7 +566,7 @@ Nomak
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5551436)<br><br>2013-09-07 21:48<br>赞(0) 踩(0) | <div>cool</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1483116)<br>就让我电死吧<br>2013-09-02 21:40<br>赞(0) 踩(0) | <div>moon flow 月光在流淌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1483116)<br>就让我电死吧<br>2013-09-02 21:39<br>赞(0) 踩(0) | <div>恩</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5169131)<br>我还没想好要写什么...<br>2013-09-02 16:21<br>赞(0) 踩(0) | <div>新专再也没有了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5169131)<br>我还没想好要写什么...<br>2013-09-02 16:21<br>赞(0) 踩(0) | <div>新专再也没有了<br><br><br><br>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4009638)<br>我只想在乎我在乎的<br>2013-08-30 00:06<br>赞(0) 踩(0) | <div>提琴销魂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/185257)<br> <br>2013-08-16 11:42<br>赞(0) 踩(0) | <div>能不能换个头像 如此凤凰芙蓉的。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10104502)<br>我还没想好要写什么...<br>2013-08-09 15:00<br>赞(0) 踩(0) | <div>Nomak</div> |
@@ -675,7 +675,7 @@ Nomak
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12214247)<br>DJ，清新<br>2013-01-01 20:35<br>赞(0) 踩(0) | <div>小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7346942)<br>不一样的烟火<br>2012-12-29 21:06<br>赞(0) 踩(0) | <div>以前没听过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2182294)<br><br>2012-12-29 18:22<br>赞(0) 踩(0) | <div>长得丑但是音乐超棒的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1163291)<br>clarity<br>2012-12-28 17:06<br>赞(0) 踩(0) | <div>这个音乐人长得有点丑，这个唱歌的长得真丑，这个作者长得太丑了，这个。。长得。。那个。。长的。。———中国各类社交网站网友如是评</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1163291)<br>clarity<br>2012-12-28 17:06<br>赞(0) 踩(0) | <div>这个音乐人长得有点丑，这个唱歌的长得真丑，这个作者长得太丑了，这个。。长得。。那个。。长的。。<br>———中国各类社交网站网友如是评</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7427845)<br><br>2013-01-18 13:00<br>赞(0) 踩(0) | <div>听歌的管他长的啥样</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1891314)<br>品质生活，玩美音乐<br>2012-12-25 22:39<br>赞(0) 踩(0) | <div>纯音乐，轻轻流淌进你的心里。别怕，来试下。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1891314)<br>品质生活，玩美音乐<br>2012-12-25 22:38<br>赞(0) 踩(0) | <div>很不错的音乐，适合晚上静静的欣赏。</div> |
@@ -877,7 +877,7 @@ Nomak
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3180773)<br><br>2011-07-24 17:39<br>赞(0) 踩(0) | <div>大爱。。。。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1480808)<br><br>2011-07-19 10:43<br>赞(0) 踩(0) | <div>霸道 ！！！！の日式传统+现代电子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3364099)<br>风吹疯了一些人<br>2011-07-12 17:11<br>赞(0) 踩(0) | <div>非常喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936049)<br>假装我未曾来过 或 我不...<br>2011-07-12 16:13<br>赞(0) 踩(0) | <div>在这个喧嚣城市 累了 就戴上耳机 用心来静静聆听 这一片宁静//阳光 清新 或浅浅的低吟 总会触动你心//欢迎来我的电台 <a href="http://www.xiami.com/radio/play/type/4/oid/1936049" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/radio/play/type/4/oid/1936049</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936049)<br>假装我未曾来过 或 我不...<br>2011-07-12 16:13<br>赞(0) 踩(0) | <div>在这个喧嚣城市 累了 就戴上耳机 用心来静静聆听 这一片宁静//<br><br>阳光 清新 或浅浅的低吟 总会触动你心//<br><br>欢迎来我的电台 <a href="http://www.xiami.com/radio/play/type/4/oid/1936049" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/radio/play/type/4/oid/1936049</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4342261)<br><br>2011-07-02 10:15<br>赞(0) 踩(0) | <div>音乐好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/775264)<br><br>2011-06-26 22:26<br>赞(0) 踩(0) | <div>&amp;lt;3</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/775264)<br><br>2011-06-26 22:26<br>赞(0) 踩(0) | <div>&amp;lt;3</div> |
@@ -886,7 +886,7 @@ Nomak
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2092701)<br><br>2011-06-13 03:00<br>赞(0) 踩(0) | <div>感观音乐～视觉音乐～4D音乐，可惜我们只能听，靠想向吧…。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2964317)<br><br>2011-06-11 18:50<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1748282)<br>Können Sie m...<br>2011-06-08 20:27<br>赞(0) 踩(0) | <div>只需要一个音符。就可以被征服。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/849435)<br>双魚<br>2011-06-03 18:41<br>赞(0) 踩(0) | <div>他有一张喜欢睡懒觉的脸，布满了小凹坑，吸引着萤火虫 _</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/849435)<br>双魚<br>2011-06-03 18:41<br>赞(0) 踩(0) | <div>他有一张<br>喜欢睡懒觉的脸，布满了小凹坑，吸引着<br>萤火虫 _</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4316733)<br><br>2011-06-17 20:17<br>赞(0) 踩(0) | <div>额！重庆的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3455964)<br><br>2011-05-26 23:39<br>赞(0) 踩(0) | <div>Jazz-HipHop</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2727327)<br>盛夏繁花<br>2011-05-25 22:31<br>赞(0) 踩(0) | <div>还不错</div> |
@@ -912,13 +912,13 @@ Nomak
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-02-09 00:24<br>赞(0) 踩(0) | <div>Nomak 神马的最有爱了·</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2011-01-24 09:25<br>赞(0) 踩(0) | <div>徘句般细腻，精致的旋律…</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2011-01-24 09:22<br>赞(0) 踩(0) | <div>细腻、精致的美丽旋律</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-01-17 18:53<br>赞(0) 踩(0) | <div>清淡口味的Jazzy hip-pop.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-01-17 18:53<br>赞(0) 踩(0) | <div>清淡口味的<br>Jazzy hip-pop.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1479142)<br>再见虾米音乐<br>2011-01-17 18:04<br>赞(0) 踩(0) | <div>Nomak</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2439897)<br><br>2011-01-11 14:09<br>赞(0) 踩(0) | <div>i'm loving it ! Jazzy-hiphop!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/901317)<br>我还没想好要写什么...<br>2010-12-24 11:45<br>赞(0) 踩(0) | <div>长得还好吧 我觉得挺MAN</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/849435)<br>双魚<br>2010-12-22 08:57<br>赞(0) 踩(0) | <div>长得确实……需要平井坚的一首歌来诠释：轻闭双眼。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/579986)<br><br>2010-10-21 14:20<br>赞(0) 踩(0) | <div>moon flow真不错啊。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/107388)<br>灯火棋倦，饮醉沉眠<br>2010-05-06 15:42<br>赞(0) 踩(0) | <div>美好的事情就是听见Nomak.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375085)<br><br>2010-01-11 17:10<br>赞(0) 踩(0) | <div>Nomak的小组已经建立成<a href="http://www.xiami.com/group/13883" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/13883</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375085)<br><br>2010-01-11 17:10<br>赞(0) 踩(0) | <div>Nomak的小组已经建立成<br><a href="http://www.xiami.com/group/13883" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/13883</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/517302)<br><br>2009-11-17 18:07<br>赞(0) 踩(0) | <div>!!!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61852)<br><br>2009-02-26 16:34<br>赞(0) 踩(0) | <div>哪里能下载呢??我第一次登陆客户端怎么没红包给我的??</div> |

@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9d87e5987f9f766b08d997ebf29b9297.jpg)<br>王璜青](https://i.xiami.com/musicpoet) | **播放数**: 2735706<br>**粉丝数**: 559<br>**评论数**: 17<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 当代基督 CCM / Contemporary Christian Music, 民谣 Folk, 流行摇滚 Pop Rock<br> |
+| [![](../../images/musicians/9d87e5987f9f766b08d997ebf29b9297.jpg)<br>王璜青](https://i.xiami.com/musicpoet) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 当代基督 CCM / Contemporary Christian Music, 民谣 Folk, 流行摇滚 Pop Rock<br>**播放数**: 2735706<br>**粉丝数**: 559<br>**评论数**: 17<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -26,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316951273)<br><br>2020-04-03 16:34<br>赞(1) 踩(0) | <div>标签grunge？搞错了吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204406103)<br>I just don't...<br>2020-02-20 14:31<br>赞(0) 踩(0) | <div>以马内利主与我们同在</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347773870)<br><br>2019-11-16 20:12<br>赞(1) 踩(0) | <div>成为我异象，是迄今听过最好的版本，满有圣灵的恩膏。求圣灵更多充满弟兄，膏抹弟兄的创作，为你祷告！</div> |

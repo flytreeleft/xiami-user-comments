@@ -12,15 +12,12 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317882889)<br>灵魂深处的声音<br>2020-11-04 01:27<br>赞(0) 踩(0) | <div>这是一心奔向大海的心，那种期待，欣喜囍&amp;hellip;&amp;hellip;不知道海，还会给他什么样的新奇。心随着海流动，那么的欣喜，奔向在海天中间的太阳，拥抱着整个世界</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317882889)<br>灵魂深处的声音<br>2020-11-04 01:27<br>赞(0) 踩(0) | <div>这是一心奔向大海的心，<br>那种期待，欣喜囍&amp;hellip;&amp;hellip;<br>不知道海，还会给他什么样的新奇。<br><br>心<br>随着海流动，那么的欣喜，<br>奔向在海天中间的太阳，<br>拥抱着整个世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354509155)<br>享受音乐＆歌曲，其他的～...<br>2019-09-19 23:30<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327160074)<br>阳光 、空气 、水 、音...<br>2019-08-21 08:52<br>赞(8) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422952971)<br><br>2019-04-07 12:55<br>赞(1) 踩(0) | <div>描述的是太平洋上叫黑潮的暖流</div> |

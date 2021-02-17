@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/45069ebbd67bd3a1f9529a60b17f3cbc.jpg)<br>王筝](https://i.xiami.com/wangxiaozheng) | **播放数**: 41574775<br>**粉丝数**: 18222<br>**评论数**: 506<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/45069ebbd67bd3a1f9529a60b17f3cbc.jpg)<br>王筝](https://i.xiami.com/wangxiaozheng) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 41574775<br>**粉丝数**: 18222<br>**评论数**: 506<br> |
 
 ## 档案
 
@@ -51,8 +51,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326670193)<br>作曲家最重要<br>2020-12-24 19:29<br>赞(0) 踩(0) | <div>感谢你 感谢了我收藏你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322071640)<br>成长就是将哭声调成静音<br>2020-04-30 22:50<br>赞(2) 踩(0) | <div>我从小学听你的这首歌听到现在！！！做了快二十年的好孩子，到现在还没找到女朋友 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png">我要去当坏孩子了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441135705)<br><br>2020-03-20 22:40<br>赞(0) 踩(0) | <div>我想下那首蝴蝶花(demo)，虾米好像没有</div> |
@@ -74,7 +74,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335121574)<br>京畿<br>2018-01-24 22:09<br>赞(1) 踩(0) | <div>只有这诗意的古城才能成就这美妙绝伦的歌声！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343278007)<br><br>2018-01-23 11:27<br>赞(0) 踩(0) | <div>真的是无语，这么多不能下载</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337600030)<br><br>2017-12-03 21:40<br>赞(1) 踩(0) | <div>很好 太好听了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277910998)<br>艺夲<br>2017-11-13 21:09<br>赞(1) 踩(0) | <div>铮姐奥，老乡，居来提朋友，方便信息18201032488</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277910998)<br>艺夲<br>2017-11-13 21:09<br>赞(1) 踩(0) | <div>铮姐奥，老乡，居来提朋友，<br>方便信息18201032488</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41292752)<br><br>2017-10-28 11:57<br>赞(2) 踩(0) | <div>你的歌让人听了很舒服，想让人跟着哼唱 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1744748)<br><br>2017-10-28 00:00<br>赞(10) 踩(0) | <div>支持这个纯净的西安女孩儿~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298948030)<br>中國詩音樂電影创始人作曲...<br>2017-10-17 21:59<br>赞(1) 踩(0) | <div>你好</div> |
@@ -129,7 +129,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31622105)<br>每一首歌 都是一个故事<br>2015-03-25 23:41<br>赞(0) 踩(0) | <div>初中放学“我们都是好孩子”的旋律一直没忘</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44434769)<br>我还没想好要写什么...<br>2015-03-24 07:23<br>赞(0) 踩(0) | <div>西安人？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9607086)<br>让世界是世界<br>2015-05-06 13:47<br>赞(0) 踩(0) | <div>是滴，西安姑娘~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39600731)<br><br>2015-03-21 13:53<br>赞(0) 踩(0) | <div>#春风#谁在风中轻轻摇晃花瓣飘荡推开门窗听你轻唱</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39600731)<br><br>2015-03-21 13:53<br>赞(0) 踩(0) | <div>#春风#<br>谁在风中轻轻摇晃<br>花瓣飘荡<br>推开门窗<br>听你轻唱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47852250)<br><br>2015-03-05 15:44<br>赞(0) 踩(0) | <div>特别喜欢听黑海</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1579310)<br><br>2015-02-15 23:04<br>赞(1) 踩(0) | <div>《瘦了》也是一支优秀的歌。与《而你呢》形同双璧。袁惟仁声音的加入很妥贴。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1579310)<br><br>2015-02-15 23:01<br>赞(0) 踩(0) | <div>最近的新专辑显示：唱功与前面提升了个档次，不可同日而语。《失忆症》里面透露的情感恰到好处。非常喜欢。感谢有这样的歌曲和声音。</div> |
@@ -148,7 +148,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/562136)<br> <br>2014-12-26 07:58<br>赞(1) 踩(0) | <div>校园回忆</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37980879)<br><br>2014-12-26 05:36<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45101009)<br>我不是圣母<br>2014-12-25 16:42<br>赞(0) 踩(0) | <div>2015期待我会《瘦了》</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:15<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:15<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45484029)<br><br>2014-12-31 11:46<br>赞(0) 踩(0) | <div>我非常喜欢这歌曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7815067)<br>就这样听着音乐 只有音乐<br>2014-12-17 10:48<br>赞(0) 踩(0) | <div>听你的歌总是让我有种淡淡的伤感，有种莫名的怀念。还是很有才气的女子，自己作词作曲，蛮喜欢的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44580104)<br><br>2014-12-11 14:01<br>赞(0) 踩(0) | <div>喜欢需要理由吗？</div> |
@@ -180,7 +180,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3419686)<br><br>2014-07-05 19:07<br>赞(0) 踩(0) | <div>一直想问。。陈绮贞的流浪者之歌mv里的那个孕妇到底是不是她。。后面的字幕写的的确是王筝啊。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37102365)<br>暂无签名~<br>2014-07-05 14:59<br>赞(0) 踩(0) | <div>新歌不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2792739)<br>唯沉默是最高的蔑视<br>2014-07-05 03:39<br>赞(0) 踩(0) | <div>感谢上帝，经济公司终于没有称她为“中国的莎拉布莱曼”了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2066122)<br>穷逼VIP<br>2014-07-04 19:47<br>赞(0) 踩(0) | <div>木有跟青蛙乐队合作的 《因为有你》~ 嘿嘿 那歌也相当不错<a href="http://www.xiami.com/song/2239616?spm=a1z1s.3521865.23309997.12.V4M7a7" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2239616?spm=a1z1s.3521865.23309997.12.V4M7a7</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2066122)<br>穷逼VIP<br>2014-07-04 19:47<br>赞(0) 踩(0) | <div>木有跟青蛙乐队合作的 《因为有你》~ 嘿嘿 那歌也相当不错<br><a href="http://www.xiami.com/song/2239616?spm=a1z1s.3521865.23309997.12.V4M7a7" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2239616?spm=a1z1s.3521865.23309997.12.V4M7a7</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42691309)<br><br>2014-12-28 01:12<br>赞(0) 踩(0) | <div>我也超喜欢这首！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5035279)<br>喜乐人生<br>2014-07-03 10:30<br>赞(1) 踩(0) | <div>支持来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3200535)<br><br>2014-07-03 00:53<br>赞(1) 踩(0) | <div>非常喜欢听你的歌！！</div> |
@@ -226,7 +226,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4819422)<br>音乐<br>2014-04-27 00:21<br>赞(1) 踩(0) | <div>很喜欢你的声音，期待你的最新专辑。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35818003)<br><br>2014-04-24 22:35<br>赞(0) 踩(0) | <div>声音 没法形容</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33570603)<br><br>2014-04-18 10:10<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33605265)<br>随风飞<br>2014-04-07 23:40<br>赞(0) 踩(0) | <div>对你说没有我比人更爱你</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33605265)<br>随风飞<br>2014-04-07 23:40<br>赞(0) 踩(0) | <div>对你说<br>没有我比人更爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33605265)<br>随风飞<br>2014-04-07 23:39<br>赞(0) 踩(0) | <div>,王筝,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15352931)<br><br>2014-04-03 15:40<br>赞(0) 踩(0) | <div>王筝</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4266883)<br><br>2014-03-21 13:31<br>赞(0) 踩(0) | <div>清新</div> |
@@ -400,7 +400,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5260212)<br><br>2011-08-10 19:57<br>赞(0) 踩(0) | <div>越单纯越幸福</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5260212)<br><br>2011-08-10 19:56<br>赞(0) 踩(0) | <div>越单纯越幸福！！！~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5192380)<br><br>2011-08-10 17:36<br>赞(0) 踩(0) | <div>听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5100782)<br><br>2011-08-04 07:23<br>赞(0) 踩(0) | <div>je ne connaissais pas, j\'aime bien我不知道了,我喜欢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5100782)<br><br>2011-08-04 07:23<br>赞(0) 踩(0) | <div>je ne connaissais pas, j\'aime bien<br>我不知道了,我喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5035279)<br>喜乐人生<br>2011-07-29 07:47<br>赞(0) 踩(0) | <div>不错的歌手，音乐给人纯纯的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4953072)<br><br>2011-07-28 10:18<br>赞(0) 踩(0) | <div>为了我曾经的单纯。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5037265)<br><br>2011-07-27 20:06<br>赞(0) 踩(0) | <div>好听嘛</div> |
@@ -432,7 +432,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3375902)<br><br>2011-06-04 18:23<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3043396)<br>兰黛儿<br>2011-06-03 10:07<br>赞(0) 踩(0) | <div>幸福过很好听。关注她。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2496576)<br>music foreve...<br>2011-06-02 22:00<br>赞(0) 踩(0) | <div>喜欢她歌里的小女孩的感觉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376825)<br><br>2011-06-02 15:01<br>赞(0) 踩(0) | <div>因为有你——王筝 青蛙乐队<a href="http://www.xiami.com/song/2239616" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2239616</a>因为有你(demo)——青蛙乐队<a href="http://www.xiami.com/song/1769443933" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1769443933</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376825)<br><br>2011-06-02 15:01<br>赞(0) 踩(0) | <div>因为有你——王筝 青蛙乐队<br><a href="http://www.xiami.com/song/2239616" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2239616</a><br><br>因为有你(demo)——青蛙乐队<br><a href="http://www.xiami.com/song/1769443933" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1769443933</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882826)<br><br>2011-05-29 13:33<br>赞(0) 踩(0) | <div>淡淡的忧伤，让人落泪……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3020709)<br>我还没想好要写什么...<br>2011-05-29 07:02<br>赞(0) 踩(0) | <div>微笑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1157808)<br><br>2011-05-27 09:13<br>赞(0) 踩(0) | <div>喜欢</div> |
@@ -490,7 +490,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2160605)<br>醉了<br>2011-03-01 08:25<br>赞(0) 踩(0) | <div>一直认为王筝的声音是最好听的，很柔和，很舒服...........</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2995427)<br>晚安爱人 感谢你的热烈与...<br>2011-02-28 21:52<br>赞(0) 踩(0) | <div>随意的感觉，清纯的面孔。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1713510)<br><br>2011-02-28 16:08<br>赞(0) 踩(0) | <div>声音很好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2925048)<br><br>2011-02-27 21:38<br>赞(0) 踩(0) | <div>清澈的声音~我们都是好孩子过，但是都慢慢老去了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2925048)<br><br>2011-02-27 21:38<br>赞(0) 踩(0) | <div>清澈的声音~<br>我们都是好孩子过，但是都慢慢老去了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1351953)<br><br>2011-02-27 00:23<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1660678)<br>如鱼饮水，冷暖自知<br>2011-02-26 22:34<br>赞(0) 踩(0) | <div>王筝。很干净的歌。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2931553)<br>一盏茶！<br>2011-02-25 22:30<br>赞(0) 踩(0) | <div>清新安静的时候感受一下。</div> |

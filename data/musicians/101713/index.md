@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/35d10da86a1225d14a5d3ed0672e3be2.jpg)<br>纳兰](https://i.xiami.com/nalan) | **播放数**: 7992846<br>**粉丝数**: 850<br>**评论数**: 40<br>**地区**: China 中国大陆<br>**风格**: 现代古典 Modern Classical, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/35d10da86a1225d14a5d3ed0672e3be2.jpg)<br>纳兰](https://i.xiami.com/nalan) | **地区**: China 中国大陆<br>**风格**: 现代古典 Modern Classical, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 7992846<br>**粉丝数**: 850<br>**评论数**: 40<br> |
 
 ## 档案
 
@@ -27,8 +27,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2020-09-26 20:56<br>赞(1) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262346868)<br>认真做自己<br>2019-10-23 10:52<br>赞(2) 踩(0) | <div>你不适合唱佛乐，声音没有给听者静心感，还是好好修行后再唱吧，安心唱你的情歌吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275907530)<br><br>2019-10-12 00:02<br>赞(1) 踩(0) | <div>在听！好听！赞</div> |

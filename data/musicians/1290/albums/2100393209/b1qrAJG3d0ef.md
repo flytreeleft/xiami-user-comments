@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277564510)<br>-<br>2018-10-11 23:00<br>赞(1) 踩(0) | <div>当你需要的时候它就来了决定住在汉庭酒店孤独的房间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341314177)<br> <br>2017-12-25 23:34<br>赞(4) 踩(0) | <div>这哪是汉庭，分明是香格里拉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3074562)<br>我听我的<br>2017-01-04 00:47<br>赞(0) 踩(0) | <div>没想到“住在汉庭酒店”感觉如此美妙（音乐真棒）</div> |

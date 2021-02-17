@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/fa7317f63a4389bcc492cc3d0e9258bd.jpg)<br>史峰ShiFeng](https://i.xiami.com/ocarina) | **播放数**: 2614319<br>**粉丝数**: 1675<br>**评论数**: 59<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 器乐流行 Instrumental Pop, 沙发音乐 Lounge<br> |
+| [![](../../images/musicians/fa7317f63a4389bcc492cc3d0e9258bd.jpg)<br>史峰ShiFeng](https://i.xiami.com/ocarina) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 器乐流行 Instrumental Pop, 沙发音乐 Lounge<br>**播放数**: 2614319<br>**粉丝数**: 1675<br>**评论数**: 59<br> |
 
 ## 档案
 
@@ -41,8 +41,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7151428)<br>暖暖的～～<br>2020-03-19 22:55<br>赞(0) 踩(0) | <div>！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357752578)<br>燕:  片叶寄思迎风飘，...<br>2019-07-18 18:38<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">√√ <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325374787)<br><br>2019-07-12 21:20<br>赞(0) 踩(0) | <div>，</div> |
@@ -54,7 +54,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401460428)<br><br>2018-08-13 17:11<br>赞(0) 踩(0) | <div>请问陶笛可以吹海德薇吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356374914)<br><br>2018-04-27 23:27<br>赞(1) 踩(0) | <div>史峰老师最棒 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261428681)<br><br>2018-04-26 20:13<br>赞(0) 踩(0) | <div>喜欢听陶笛</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286521973)<br><br>2018-04-23 18:25<br>赞(0) 踩(0) | <div>在江南的古街上，总有那么一两家陶笛店。店里传出的陶笛声，穿透出来，古朴悠扬。此声此景此情令人难忘！陶笛比埙，个人感觉音色更秀气。喜欢这种古老的乐器，对同龄人来说，我已进入老年了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286521973)<br><br>2018-04-23 18:25<br>赞(0) 踩(0) | <div>在江南的古街上，总有那么一两家陶笛店。店里传出的陶笛声，穿透出来，古朴悠扬。此声此景此情令人难忘！<br>陶笛比埙，个人感觉音色更秀气。喜欢这种古老的乐器，对同龄人来说，我已进入老年了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357097001)<br><br>2018-04-06 12:18<br>赞(1) 踩(0) | <div>好听，不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348148291)<br><br>2018-02-09 14:43<br>赞(0) 踩(0) | <div>史峰老师，想要吹出这种空灵的感觉，需要什么样的吹奏技巧呢？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/808174)<br>Musician<br>2018-02-09 14:50<br>赞(0) 踩(0) | <div>空灵？加点混响就有了。</div> |
@@ -92,7 +92,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3105637)<br><br>2015-04-16 00:08<br>赞(0) 踩(0) | <div>好听，希望能出专辑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10390628)<br><br>2015-04-15 21:28<br>赞(2) 踩(0) | <div><img src="../../images/comments/5949d86697630cb697dcad52acec491e.png">好桑心，每天我练习的都是吹疙瘩吗？这才是音乐的声音 <img src="../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334570341)<br>快乐伤心都有音乐的陪伴就...<br>2018-01-19 03:56<br>赞(0) 踩(0) | <div>两年过去了，现在应该进步很多了吧，我刚刚入手一个月不到</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19256136)<br><br>2015-01-25 19:49<br>赞(0) 踩(0) | <div>史峰Ocarina好听的陶笛音乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19256136)<br><br>2015-01-25 19:49<br>赞(0) 踩(0) | <div>史峰Ocarina<br><br>好听的陶笛音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6814426)<br>爱听风中诗<br>2015-01-01 03:34<br>赞(0) 踩(0) | <div>史老师有教学生吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3086900)<br>要再见了吗。。<br>2014-12-05 12:16<br>赞(0) 踩(0) | <div>陶笛真不错！多放些歌的哦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12123)<br><br>2014-11-18 10:09<br>赞(0) 踩(0) | <div>好听</div> |

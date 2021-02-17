@@ -3,7 +3,7 @@ GIN
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/11d149809a7179b9d4f551c00f462275.png)<br>GIN](https://i.xiami.com/ginnakasion) | **播放数**: 5889322<br>**粉丝数**: 6819<br>**评论数**: 231<br>**地区**: Japan 日本<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/11d149809a7179b9d4f551c00f462275.png)<br>GIN](https://i.xiami.com/ginnakasion) | **地区**: Japan 日本<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening<br>**播放数**: 5889322<br>**粉丝数**: 6819<br>**评论数**: 231<br> |
 
 ## 档案
 
@@ -38,8 +38,8 @@ GIN在日本新一代演奏家里演奏手法最为独特，滑弦、揉弦等�
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96930300)<br><br>2021-01-05 14:35<br>赞(4) 踩(0) | <div>虾米要关闭了，gin桑的歌只有刻进心里了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6640452)<br>vx: nirvanai...<br>2020-11-28 23:15<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445989676)<br>如果音乐足够动人<br>2020-11-27 15:00<br>赞(0) 踩(0) | <div>可以的</div> |
@@ -69,7 +69,7 @@ GIN在日本新一代演奏家里演奏手法最为独特，滑弦、揉弦等�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2018-10-27 11:28<br>赞(1) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/391568)<br> <br>2018-07-27 23:52<br>赞(2) 踩(0) | <div>前女友梗，绿色灯光神马的&amp;hellip;&amp;hellip;丝毫阻挡不了小哥的魅力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2472729)<br>嘘<br>2018-07-27 21:52<br>赞(0) 踩(0) | <div>真棒啊小哥哥 关于前女友的都好棒 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33071402)<br>I do not car...<br>2018-07-24 19:16<br>赞(14) 踩(0) | <div>现场听感太细腻了几度有泪奔的感觉原本只想买张CD送朋友看完决定也买张送自己</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33071402)<br>I do not car...<br>2018-07-24 19:16<br>赞(14) 踩(0) | <div>现场听感太细腻了<br>几度有泪奔的感觉<br>原本只想买张CD送朋友<br>看完决定也买张送自己</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12501921)<br>众生轮回 因果循环<br>2018-06-18 19:59<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34522244)<br><br>2018-06-07 06:22<br>赞(0) 踩(0) | <div>大清早的听到还想继续睡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/651086)<br>一些…还有一些<br>2018-05-30 08:39<br>赞(0) 踩(0) | <div>要来上海啦</div> |
@@ -96,8 +96,8 @@ GIN在日本新一代演奏家里演奏手法最为独特，滑弦、揉弦等�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233094332)<br> <br>2017-06-11 21:08<br>赞(0) 踩(0) | <div>新专什么时候上线 <img src="../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260174)<br>keep healthy<br>2017-06-02 17:16<br>赞(0) 踩(0) | <div>之前在大爷的巡演视频里见到这小哥今晚终于要围观真人啦好激动</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224870273)<br>下雨的时候<br>2017-05-31 10:23<br>赞(0) 踩(0) | <div>安静</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48904070)<br>I love CHINA<br>2017-04-25 20:46<br>赞(1) 踩(0) | <div>www.showstart.com/event/2553706月02日 【MAO Live呈现】指弹不止弹VOL.1：GIN&amp;amp;amp;曹思义&amp;ldquo;Walking in the music&amp;rdquo;在音乐中徜徉音乐会 杭州 MAO Livehouse</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48904070)<br>I love CHINA<br>2017-04-25 20:45<br>赞(0) 踩(0) | <div><a href="http://www.showstart.com/event/25537" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/25537</a>06月02日 【MAO Live呈现】指弹不止弹VOL.1：GIN&amp;amp;amp;曹思义&amp;ldquo;Walking in the music&amp;rdquo;在音乐中徜徉音乐会 杭州 MAO Livehouse</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48904070)<br>I love CHINA<br>2017-04-25 20:46<br>赞(1) 踩(0) | <div>www.showstart.com/event/25537<br>06月02日 【MAO Live呈现】指弹不止弹VOL.1：GIN&amp;amp;amp;曹思义&amp;ldquo;Walking in the music&amp;rdquo;在音乐中徜徉音乐会 杭州 MAO Livehouse</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48904070)<br>I love CHINA<br>2017-04-25 20:45<br>赞(0) 踩(0) | <div><a href="http://www.showstart.com/event/25537" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/25537</a><br>06月02日 【MAO Live呈现】指弹不止弹VOL.1：GIN&amp;amp;amp;曹思义&amp;ldquo;Walking in the music&amp;rdquo;在音乐中徜徉音乐会 杭州 MAO Livehouse</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4400366)<br>再也不见<br>2017-01-05 20:28<br>赞(0) 踩(0) | <div>囍</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11830439)<br><br>2016-10-06 10:28<br>赞(1) 踩(0) | <div>刚听了他的指弹演奏会</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9327494)<br>http://www.x...<br>2016-10-03 09:08<br>赞(0) 踩(0) | <div>LOVE</div> |
@@ -153,7 +153,7 @@ GIN在日本新一代演奏家里演奏手法最为独特，滑弦、揉弦等�
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4219122)<br>Mortal Soul.<br>2015-11-06 15:59<br>赞(0) 踩(0) | <div>233竟然出现了金属乐手的照片不太对劲233</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39904335)<br> <br>2015-11-07 08:11<br>赞(0) 踩(0) | <div>哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3088334)<br>爱音乐，爱生活。<br>2015-05-09 06:38<br>赞(1) 踩(0) | <div>第一次听亚特兰蒂斯，感觉太美妙了，连续听了不知道多少遍。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4241945)<br>今天不签名<br>2015-05-06 16:37<br>赞(0) 踩(0) | <div>G,G,G,G,G,oh ye ye ye弹弹扫扫扫，oh拍拍拍</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4241945)<br>今天不签名<br>2015-05-06 16:37<br>赞(0) 踩(0) | <div>G,G,G,G,G,oh ye ye ye<br>弹弹扫扫扫，oh拍拍拍</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5657731)<br>在音乐面前语言很苍白<br>2015-05-05 19:21<br>赞(0) 踩(0) | <div>现在才知道觉得好对不起一直听音乐的耳朵喔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157355)<br>榕树长青<br>2015-04-10 18:34<br>赞(0) 踩(0) | <div>好资源！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8526437)<br> <br>2015-04-07 23:30<br>赞(0) 踩(0) | <div>謝謝蝦米讓我找到GIN的曲子。 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">很喜歡他的吉他曲</div> |
@@ -178,7 +178,7 @@ GIN在日本新一代演奏家里演奏手法最为独特，滑弦、揉弦等�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9185802)<br><br>2014-07-16 21:20<br>赞(0) 踩(0) | <div>新专辑还没有啊！很想听啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1271812)<br>WX:Likejazzm...<br>2014-07-10 22:09<br>赞(0) 踩(0) | <div>36</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1572064)<br>tk from 凛として<br>2014-06-05 10:55<br>赞(0) 踩(0) | <div>非常好听的纯吉他 带你心飞往何方</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31961671)<br><br>2014-06-02 20:03<br>赞(0) 踩(0) | <div>你好，我是GIN本人的朋友。跟他一起演出过，也经常跟他联系。他看到了你帮助他在传播他的音乐，觉得非常感激。想跟你联系下，委托我牵个线。能给个联系方式吗？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31961671)<br><br>2014-06-02 20:03<br>赞(0) 踩(0) | <div>你好，我是GIN本人的朋友。跟他一起演出过，也经常跟他联系。<br>他看到了你帮助他在传播他的音乐，觉得非常感激。想跟你联系下，委托我牵个线。能给个联系方式吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10981160)<br>hehe<br>2014-09-14 18:27<br>赞(0) 踩(0) | <div>然后告侵权吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25491861)<br>但行好事，莫问前程<br>2014-11-11 00:34<br>赞(0) 踩(0) | <div>hello曾经在长沙见过你，大连长大的日本友人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36044861)<br><br>2014-06-02 19:53<br>赞(41) 踩(0) | <div>GIN也来虾米了？</div> |
@@ -202,7 +202,7 @@ GIN在日本新一代演奏家里演奏手法最为独特，滑弦、揉弦等�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9236597)<br>灵魂抽风<br>2014-01-25 18:52<br>赞(0) 踩(0) | <div>超爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2298517)<br>我爱小清新~<br>2014-01-01 02:55<br>赞(0) 踩(0) | <div>为啥你长得这么像2009？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123082)<br><br>2014-01-23 22:54<br>赞(0) 踩(0) | <div>头像真是。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1626082)<br>保持好奇，保持敏锐！<br>2013-12-01 23:45<br>赞(0) 踩(0) | <div>GIN的CD实在是太难添加了，既没写出版公司也没注明准确日期，Amazon、itunes也搜不到...这是他官网的CD列表：<a href="http://gin.mistysky.net/disc.html" target="_blank" rel="nofollow noreferrer noopener">http://gin.mistysky.net/disc.html</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1626082)<br>保持好奇，保持敏锐！<br>2013-12-01 23:45<br>赞(0) 踩(0) | <div>GIN的CD实在是太难添加了，既没写出版公司也没注明准确日期，Amazon、itunes也搜不到...<br>这是他官网的CD列表：<a href="http://gin.mistysky.net/disc.html" target="_blank" rel="nofollow noreferrer noopener">http://gin.mistysky.net/disc.html</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374450)<br>GAME MAKER！！<br>2013-11-22 12:32<br>赞(0) 踩(0) | <div>Loading</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10306194)<br><br>2013-10-24 21:34<br>赞(0) 踩(0) | <div>超级棒的吉他指弹</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3939040)<br>Radical Drea...<br>2013-10-20 11:35<br>赞(0) 踩(0) | <div>木吉他</div> |

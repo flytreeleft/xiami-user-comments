@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30524227)<br>colour me bl...<br>2020-09-07 12:13<br>赞(0) 踩(0) | <div>结尾的时候总感觉和仙4的某首很像，但又想不起来~~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30524227)<br>colour me bl...<br>2020-09-07 12:15<br>赞(0) 踩(0) | <div>想起来了，少年行变奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8633407)<br>明天一切好说<br>2019-11-01 23:31<br>赞(0) 踩(0) | <div>古剑的战斗系列音乐都太棒了，每次打怪都很开心 <img src="../../../../images/comments/286e5490345b55baf85bf75195319042.png"></div> |

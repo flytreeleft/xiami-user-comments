@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/85322848f90a9177a039d827667f1ada.jpg)<br>错觉](https://i.xiami.com/cuojue) | **播放数**: 2323474<br>**粉丝数**: 153<br>**评论数**: 17<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/85322848f90a9177a039d827667f1ada.jpg)<br>错觉](https://i.xiami.com/cuojue) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 2323474<br>**粉丝数**: 153<br>**评论数**: 17<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -37,8 +34,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245827020)<br><br>2020-06-14 20:06<br>赞(0) 踩(0) | <div>人美声音更美。美女能告诉我你是哪里的人吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427275234)<br><br>2019-07-26 22:01<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">飘过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377669839)<br>每个人的经历都不同，暮然...<br>2019-05-18 17:48<br>赞(1) 踩(0) | <div>美女的歌声甜，人更美，</div> |

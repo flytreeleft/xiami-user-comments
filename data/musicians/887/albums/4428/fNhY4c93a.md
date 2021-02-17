@@ -68,8 +68,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98204332)<br>太阳饼<br>2021-02-05 00:04<br>赞(0) 踩(0) | <div>虾米～美丽世界的孤儿 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308314031)<br>步子要一步一步走，步子太...<br>2020-12-07 04:29<br>赞(1) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279214985)<br>谢谢，爱你，再见<br>2020-12-06 00:19<br>赞(1) 踩(0) | <div>刚才抽了一支壹零捌，配这首歌简直了</div> |
@@ -87,7 +87,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3875772)<br>……<br>2020-03-09 00:27<br>赞(0) 踩(0) | <div>电影《雪暴》片尾曲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421310718)<br>喜欢《好声音》，喜欢民谣...<br>2019-06-19 18:43<br>赞(1) 踩(0) | <div>每次心情不好时都会听这首歌，我跟很多人一样活得很累，真的不想过这样辛苦的生活，可其实我们都默默地坚持着，即使有的时候很痛苦。。陌生人，如果你看到了这条评论，麻烦给我点个赞好吗？我不是想骗赞，只是想知道有多少人在跟我一起走，，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378970676)<br><br>2019-06-13 02:18<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2019-06-02 12:14<br>赞(2) 踩(0) | <div>他应当是真的痛的 墓志铭也是他写的他自己唱“青春”是“继续走 继续失去”筠子唱的是“继续走 继续忘记”高晓松后来也还会在特别的日子怀念那个“遗世歌者”据说他们本来是允诺结婚的其实没有谁对不起谁 但是真的真的真的太他妈可惜了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2019-06-02 12:14<br>赞(2) 踩(0) | <div>他应当是真的痛的 墓志铭也是他写的<br>他自己唱“青春”是“继续走 继续失去”<br>筠子唱的是“继续走 继续忘记”<br>高晓松后来也还会在特别的日子怀念那个“遗世歌者”<br>据说他们本来是允诺结婚的<br>其实没有谁对不起谁 但是真的真的真的太他妈可惜了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418840511)<br><br>2019-05-25 20:10<br>赞(3) 踩(0) | <div>再也没有歌能表达我的感受，我是有爸有妈的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411542508)<br><br>2019-05-24 19:23<br>赞(10) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308314031)<br>步子要一步一步走，步子太...<br>2019-04-08 23:48<br>赞(2) 踩(0) | <div></div> |
@@ -129,7 +129,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375255964)<br>情深不寿 慧极必伤<br>2018-07-06 01:48<br>赞(1) 踩(0) | <div>每个人都有被神执笔的那几年&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40613275)<br>知足者常乐<br>2018-07-03 01:45<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346911686)<br>即使身处不在多，不必感动...<br>2018-07-02 13:07<br>赞(0) 踩(0) | <div>以前以为皮裤汪只是简单的摇滚呐喊，原来我误会了他很久了！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375221072)<br>精神和物质，都是数学问题...<br>2018-06-29 08:35<br>赞(0) 踩(0) | <div>宝贝，看看远处，月亮从旷野上升起。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375221072)<br>精神和物质，都是数学问题...<br>2018-06-29 08:35<br>赞(0) 踩(0) | <div>宝贝，看看远处，<br>月亮从旷野上升起。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358716050)<br><br>2018-06-27 08:09<br>赞(1) 踩(0) | <div>百听不厌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282448587)<br>如果人生是一首歌，我愿像...<br>2018-06-27 07:37<br>赞(1) 踩(0) | <div>看电视听到这首歌，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356343207)<br><br>2018-06-21 13:37<br>赞(0) 踩(0) | <div>看了你的评论，和没说的一样。</div> |
@@ -382,10 +382,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1903534)<br><br>2017-10-28 00:31<br>赞(3) 踩(0) | <div>小学，纯真被洗脑；中学，僵化了大脑；高中，习题和试卷代替了思考；大学，无所适从，虚掷光阴，挥霍自由；社会，追着票子和房子跑。被社会推着走，从来不思考自己是谁，为何存在，肉体虽在前行，灵魂却不知所踪，一回神，生命已悄然流逝，只能拖着残缺的躯体去寻找。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1903534)<br><br>2017-10-28 00:31<br>赞(1) 踩(0) | <div>小学，纯真年代被洗脑；中学，接受僵化教育；高中，习题和试卷是最好的朋友；大学，在无所适从中浪费了最宝贵的自由时光；社会，房子、车子、票子成了追逐的目标。就这样被社会推着走，从来不思考自己是谁，需要什么，为什么而存在，肉体在前行，而灵魂却不知所踪，生命却在时光中溜走了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9292563)<br><br>2017-10-28 00:22<br>赞(1) 踩(0) | <div>别哭亲爱的人，我们要坚强，我们要微笑，因为无论我们怎样，我们永远是这美丽世界的孤儿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3077115)<br><br>2017-10-28 00:21<br>赞(0) 踩(0) | <div>我们要坚强我们要微笑因为无论我们怎样我们永远是这美丽世界的孤儿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3077115)<br><br>2017-10-28 00:21<br>赞(0) 踩(0) | <div>我们要坚强我们要微笑<br>因为无论我们怎样<br>我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11754812)<br> <br>2017-10-28 00:14<br>赞(1) 踩(0) | <div>别哭 亲爱的人 我们要坚强 我们要微笑 因为无论我们怎么样 我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3731796)<br><br>2017-10-28 00:10<br>赞(0) 踩(0) | <div>来吧我亲爱的人，今夜我们在一起跳舞，来吧孤独的野花一切都会消失，你听窗外的夜莺路上欢笑的人群，这多象我们的梦。哦别哭，亲爱的人我们要坚强，我们要微笑因为无论我们怎样，我们永远是这美丽世界的孤儿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12716)<br>做个可爱的人<br>2017-10-28 00:08<br>赞(0) 踩(0) | <div>亲爱的人 我们要坚强我们要微笑 因为无论我们怎样我们永远是这美丽世界的孤儿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12716)<br>做个可爱的人<br>2017-10-28 00:08<br>赞(0) 踩(0) | <div>亲爱的人 我们要坚强<br>我们要微笑 因为无论我们怎样<br>我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401354)<br><br>2017-10-27 23:56<br>赞(0) 踩(0) | <div>我们要坚强，我们要微笑，因为无论我们怎样，我们永远是这美丽世界的孤儿……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40403179)<br>爱你是一场没有尽头的流浪...<br>2017-10-27 23:35<br>赞(0) 踩(0) | <div>我只是一抬头，你便在我眼里。光影交错的空间里，我们如此靠近，却又如此遥远。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47456607)<br><br>2017-10-27 23:33<br>赞(1) 踩(0) | <div>晚上在群里面看到遇难者烧焦尸体的照片，可能还是孩子的尸体，没敢打开看大图。虽然自己只相信今生，但也忍不住希望你们能走好，天堂里面不会再有痛苦。突然觉得应该努力一下注册消防，只是希望将来能为这世界做点什么。</div> |
@@ -395,7 +395,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3448008)<br><br>2017-10-27 23:23<br>赞(1) 踩(0) | <div>别哭 亲爱的人 我们要坚强 我们要微笑 因为无论我们怎样 我们永远是这美丽世界的孤儿。@走饭，唱首歌儿给你吧。今天是第一次看见你，你是我爱的姑娘，而我这么笨却还活着，总是这样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9002945)<br><br>2017-10-27 23:21<br>赞(0) 踩(0) | <div>我们要坚强我们要微笑因为无论我们怎样我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16410122)<br><br>2017-10-27 23:18<br>赞(2) 踩(0) | <div>2006年，少年作家子尤去世，韩寒推荐这首歌，当时听不进去，如今单曲循环。原来，有些歌需要经历和时间洗过才会懂的~懂你~！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32652074)<br>他好像一条<br>2017-10-27 23:14<br>赞(0) 踩(0) | <div>哦 别哭亲爱的人 我们要坚强我们要微笑 因为无论我们怎样我们永远是这美丽世界的孤儿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32652074)<br>他好像一条<br>2017-10-27 23:14<br>赞(0) 踩(0) | <div>哦 别哭<br>亲爱的人 我们要坚强<br>我们要微笑 因为无论我们怎样<br>我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2041087)<br>请叫我土星二叔<br>2017-10-27 23:10<br>赞(0) 踩(0) | <div>不太敢停下来，一旦停下来就会想起90后的男同事私下说起他家里的事情，顿时觉得苦真的很苦，比普通人的还要苦。苦到我甚至认为那不是一个19岁的人应该承受了，但他承担了。平时虽然一脸呵呵傻笑，谁又知道他的故事！想想我这个做叔的人又承担了什么？原来我们一直都没有找到给自己狂奔的理由！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10595362)<br><br>2017-10-27 23:08<br>赞(0) 踩(0) | <div>别哭亲爱的人，我们要坚强我们要微笑，因为无论我们怎样，我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25315244)<br><br>2017-10-27 23:04<br>赞(0) 踩(0) | <div>别哭，亲爱的的人，我们要坚强我们要微笑，因为无论我们怎样，我们永远是这美丽世界~的孤儿！</div> |
@@ -525,7 +525,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84729214)<br><br>2017-12-27 15:11<br>赞(0) 踩(0) | <div>坚强 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12417943)<br><br>2015-08-06 19:15<br>赞(0) 踩(0) | <div>他人不管,歌确实给人向上的力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50174800)<br>不好，她有毒。<br>2015-08-05 23:23<br>赞(0) 踩(0) | <div>别哭 夏日的玫瑰 一切已经过去</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7403918)<br>三生有幸<br>2015-08-05 00:46<br>赞(2) 踩(0) | <div>&amp;quot;有时 我感觉失落感觉自己像一颗草有时 我陷入空虚可我不知道为什么时光流走了而我依然在这儿我已掉进深深的旋涡&amp;quot;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7403918)<br>三生有幸<br>2015-08-05 00:46<br>赞(2) 踩(0) | <div>&amp;quot;有时 我感觉失落<br>感觉自己像一颗草<br>有时 我陷入空虚<br>可我不知道为什么<br>时光流走了<br>而我依然在这儿<br>我已掉进深深的旋涡&amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52963530)<br>天才与白痴只是一线之间<br>2015-08-03 18:49<br>赞(4) 踩(0) | <div>这首歌改变了对汪峰的看法</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53536951)<br>Gone with th...<br>2015-07-30 01:20<br>赞(0) 踩(0) | <div>好想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23162264)<br><br>2015-07-27 20:50<br>赞(2) 踩(0) | <div>唯有汪峰最救赎。</div> |
@@ -587,7 +587,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49206513)<br>我还没想好要写什么...<br>2015-05-23 14:22<br>赞(0) 踩(0) | <div>我就是个loser 彻底</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38237517)<br><br>2015-05-23 01:22<br>赞(0) 踩(0) | <div>不论我们怎样  永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50089470)<br><br>2015-05-16 17:27<br>赞(1) 踩(0) | <div>听歌不看人，不管头条。求婚，</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26138353)<br><br>2015-05-14 23:47<br>赞(0) 踩(0) | <div>“别哭 我亲爱的人&nbsp;我想我们会一起死去&nbsp;别哭 夏日的玫瑰&nbsp;一切已经过去&nbsp;你看车辆穿梭&nbsp;远处霓虹闪烁这多象我们的梦”……&nbsp;我就知道，这么动情的一首歌里肯定会有着属于它的故事</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26138353)<br><br>2015-05-14 23:47<br>赞(0) 踩(0) | <div>“别哭 我亲爱的人&nbsp;我想我们会一起死去&nbsp;<br>别哭 夏日的玫瑰&nbsp;一切已经过去&nbsp;<br>你看车辆穿梭&nbsp;远处霓虹闪烁这多象我们的梦”<br>……&nbsp;我就知道，这么动情的一首歌里肯定会有着属于它的故事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46407978)<br><br>2015-05-13 21:46<br>赞(3) 踩(0) | <div>虽然对汪有莫名的排斥，但不妨碍此曲循环一天。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40105689)<br>10-157<br>2015-05-24 00:28<br>赞(0) 踩(0) | <div>给你一堆赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12611183)<br><br>2015-05-12 20:37<br>赞(3) 踩(0) | <div>汪峰唯一还行的歌</div> |
@@ -627,7 +627,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47127803)<br><br>2015-02-09 23:16<br>赞(0) 踩(0) | <div>昨天在丹华大伟的车里，这首歌响起，彼时车子在高架桥上飞奔，落日余晖洒进车里，晚霞渲染着远处的楼房，feel非常好。    你看车辆穿梭像在寻找什么，他们就像我们的命运</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46138431)<br>我还没想好要写什么...<br>2015-02-08 19:44<br>赞(1) 踩(0) | <div>汪峰今天向章求婚了，筠子，你的声音我们还在听，你的身影却无影无踪。你是个美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37129171)<br>就爱听丧歌<br>2015-02-02 02:09<br>赞(0) 踩(0) | <div>汪峰的歌就喜欢这首，感觉比其他多了份温柔，内心被撼摇了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1115259)<br>暂无签名~<br>2015-01-25 22:26<br>赞(0) 踩(0) | <div>摇滚名家实力唱将硬派偶像早熟的诗人歌词里有一种淡淡的哀怨 仿佛痛彻心扉如同幽灵喃喃自语  飘荡游走在灰暗世界之中。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1115259)<br>暂无签名~<br>2015-01-25 22:26<br>赞(0) 踩(0) | <div>摇滚名家实力唱将硬派偶像早熟的诗人<br>歌词里有一种淡淡的哀怨 仿佛痛彻心扉<br>如同幽灵喃喃自语  飘荡游走在灰暗世界<br>之中。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1115259)<br>暂无签名~<br>2015-01-25 21:57<br>赞(1) 踩(0) | <div>汪老师的歌不能听多，会想自杀</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47305842)<br><br>2015-05-01 14:29<br>赞(0) 踩(0) | <div>是这样的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7380339)<br> <br>2015-01-16 13:25<br>赞(0) 踩(0) | <div>好听啊</div> |
@@ -795,7 +795,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2037946)<br><br>2014-08-05 22:50<br>赞(0) 踩(0) | <div>时光流走了而我依然在这儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34190792)<br><br>2014-08-05 16:31<br>赞(0) 踩(0) | <div>怎么那么好听啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37629718)<br>暂无签名~<br>2014-08-05 13:38<br>赞(0) 踩(0) | <div>别哭，我亲爱的人，我想我们会一起死去。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34847744)<br><br>2014-08-05 13:12<br>赞(0) 踩(0) | <div>别哭  我亲爱的人  我想我们会一起死去别哭  夏日的玫瑰   已经已经过去</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34847744)<br><br>2014-08-05 13:12<br>赞(0) 踩(0) | <div>别哭  我亲爱的人  我想我们会一起死去<br>别哭  夏日的玫瑰   已经已经过去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6231387)<br><br>2014-08-05 11:54<br>赞(0) 踩(0) | <div>有种闷闷的感觉，说不出来是什么，好像有什么在死去，又好像有什么在新生，难以言表，有些许悲哀的感觉，却又不是难过。什么在悄悄地改变，仿佛走入了一个漩涡，但又觉得是脚踏实地的。什么是平凡，什么又是平庸？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7900984)<br>天长地久只是时间的荒谬~...<br>2014-08-04 22:54<br>赞(0) 踩(0) | <div>哦 别哭 亲爱的人 ~~我们要坚强 。。。我们要微笑。。。。晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26997682)<br>river flows ...<br>2014-08-04 22:49<br>赞(0) 踩(0) | <div>男孩别哭</div> |
@@ -838,7 +838,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9081254)<br><br>2014-06-23 22:49<br>赞(0) 踩(0) | <div>想大哭。忍了，继续开夜车。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30713652)<br>@<br>2014-06-22 15:56<br>赞(0) 踩(0) | <div>人生这条路啊 虽败犹荣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31472672)<br>长草<br>2014-06-19 20:39<br>赞(0) 踩(0) | <div>据说是写给筠子的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1134415)<br><br>2014-06-15 22:51<br>赞(0) 踩(0) | <div>无论我们怎样我们永远是这美丽世界的孤儿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1134415)<br><br>2014-06-15 22:51<br>赞(0) 踩(0) | <div>无论我们怎样<br>我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1582321)<br>暂无签名~<br>2014-06-12 15:30<br>赞(1) 踩(0) | <div>汪峰就差一步就成大师了，音乐的配器，鼓点节奏运用实在是把他拉下神坛的一大魁首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34600200)<br>暂无签名~<br>2014-05-21 13:29<br>赞(0) 踩(0) | <div>明天看着太阳升起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3358982)<br><br>2014-05-13 22:59<br>赞(0) 踩(0) | <div>雨天的上海 路灯下等归家的公交 一把伞 单曲这首曲子 此刻最需要的是一条好点的耳机 让现场感再好点 时光流走了 而我依然在这儿</div> |
@@ -879,7 +879,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3390161)<br><br>2013-11-10 20:40<br>赞(0) 踩(0) | <div>男孩别哭，美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6690491)<br><br>2013-11-10 14:18<br>赞(0) 踩(0) | <div>最近这位的行径真的是low到底了，但是音乐还是值得肯定的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634611)<br><br>2013-11-10 17:27<br>赞(0) 踩(0) | <div>不知道他是哪根筋搭错了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9202480)<br><br>2013-11-10 13:23<br>赞(0) 踩(0) | <div>别哭 我亲爱的人我想 我们会一起死去别哭 夏日的玫瑰一切已经过去你看车辆穿梭远处霓虹闪烁这多像我们的梦来吧 我亲爱的人今夜我们在一起跳舞来吧 孤独的野花一切都会消失你听窗外的夜莺路上欢笑的人群这多像我们的梦哦 别哭亲爱的人 我们要坚强我们要微笑因为无论我们怎样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9202480)<br><br>2013-11-10 13:23<br>赞(0) 踩(0) | <div>别哭 我亲爱的人<br>我想 我们会一起死去<br>别哭 夏日的玫瑰<br>一切已经过去<br>你看车辆穿梭<br>远处霓虹闪烁<br>这多像我们的梦<br>来吧 我亲爱的人<br>今夜我们在一起跳舞<br>来吧 孤独的野花<br>一切都会消失<br>你听窗外的夜莺<br>路上欢笑的人群<br>这多像我们的梦<br>哦 别哭<br>亲爱的人 我们要坚强<br>我们要微笑<br>因为无论我们怎样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13994069)<br>暂无签名~<br>2013-11-10 12:40<br>赞(0) 踩(0) | <div>我们是美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9032559)<br><br>2013-11-10 05:59<br>赞(0) 踩(0) | <div>早上好呀，再睡会儿。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19085430)<br><br>2013-11-02 11:06<br>赞(0) 踩(0) | <div>你听窗外的夜莺，宝贝看看远处，来吧，我亲爱的人，今夜我们在一起跳舞~~</div> |
@@ -888,15 +888,15 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6403953)<br> <br>2013-10-25 00:43<br>赞(0) 踩(0) | <div>你好，明天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17123141)<br>1<br>2013-10-24 00:01<br>赞(0) 踩(0) | <div>一个筠子顶一万个章子怡。我们永远是这美丽世界的孤儿。晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14723185)<br>旺旺旺<br>2013-10-23 20:48<br>赞(0) 踩(0) | <div>“一首心碎的歌，后来被汪峰献给逝去的筠子，因她生前最爱这首歌。&amp;quot;别哭，我亲爱的人，我想我们会一起死去……&amp;quot;“因为无论我们怎样，我们都是这个美丽世界的孤儿” “时光流走了，而我依然在这儿”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14723185)<br>旺旺旺<br>2013-10-23 20:41<br>赞(0) 踩(0) | <div>青涩、懵懂、爱情、躁动、激情、挣扎、彷徨…… 这些属于青春的词，交汇出一个个记忆的碎片，藏在心里某些个寂静角落。当音乐响起，它们全都被唤醒，温暖你，也刺痛你。提醒你，曾经你是那样活着的，曾经你那样鲜活美好，曾经太阳每天都升起，曾经阳光照着少年的笑脸，曾经雨中伞下浪漫的心动……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14723185)<br>旺旺旺<br>2013-10-23 20:41<br>赞(0) 踩(0) | <div>青涩、懵懂、爱情、躁动、激情、挣扎、彷徨…… 这些属于青春的词，交汇出一个个记忆的碎片，藏在心里某些个寂静角落。<br>当音乐响起，它们全都被唤醒，温暖你，也刺痛你。提醒你，曾经你是那样活着的，曾经你那样鲜活美好，曾经太阳每天都升起，曾经阳光照着少年的笑脸，曾经雨中伞下浪漫的心动……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3754998)<br><br>2013-10-23 20:20<br>赞(0) 踩(0) | <div>纠结的时刻，一切都将成为灰尘，只剩下曾经的回忆，青春我们挥霍了好久，终于等到了……哭吧，悔吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2604862)<br><br>2013-10-23 18:07<br>赞(0) 踩(0) | <div>听的想流泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3690298)<br><br>2013-10-23 13:33<br>赞(0) 踩(0) | <div>我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3690298)<br><br>2013-10-23 09:47<br>赞(0) 踩(0) | <div>我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8423345)<br>哇咔咔咔~！！！<br>2013-10-21 19:47<br>赞(0) 踩(0) | <div>[泪]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1418991)<br><br>2013-10-13 04:50<br>赞(0) 踩(0) | <div>时光流走了，而我依然在这儿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42784)<br> <br>2013-10-08 20:50<br>赞(0) 踩(0) | <div>2013.9.10此心安处是吾乡Alberta,加拿大.这充满神秘的旅途将是你的命运</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17399807)<br>暂无签名~<br>2013-10-08 19:31<br>赞(0) 踩(0) | <div>有时 我感觉失落 感觉自己像一棵草有时 我陷入空虚 可我不知道为什么</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42784)<br> <br>2013-10-08 20:50<br>赞(0) 踩(0) | <div>2013.9.10<br><br>此心安处是吾乡<br>Alberta,加拿大.这充满神秘的旅途将是你的命运</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17399807)<br>暂无签名~<br>2013-10-08 19:31<br>赞(0) 踩(0) | <div>有时 我感觉失落 感觉自己像一棵草<br>有时 我陷入空虚 可我不知道为什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18888024)<br><br>2013-10-07 13:08<br>赞(0) 踩(0) | <div>午安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7829514)<br>也许死了<br>2013-10-06 22:36<br>赞(0) 踩(0) | <div>大一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4279710)<br><br>2013-10-02 01:52<br>赞(0) 踩(0) | <div>这首歌才是这张专辑的大爱！～～</div> |
@@ -959,19 +959,19 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11775963)<br> <br>2013-08-08 19:30<br>赞(0) 踩(0) | <div>我要去流浪了，到谁都找不到的地方，到不需要费尽心思就能被相信的地方，体验曾经感受不到的所谓感同身受的悲伤，那里没有像我这么矫情的牢骚，只有一群黑白花的猫。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4849275)<br><br>2013-08-07 13:49<br>赞(0) 踩(0) | <div>给你们力量。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7749985)<br><br>2013-08-07 07:51<br>赞(0) 踩(0) | <div>翻回这首歌，带着故事感受它，说不出的触动。没错，活着的人总要带着希望和期盼继续努力奋斗着。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-08-06 12:23<br>赞(0) 踩(0) | <div>别哭，夏日的玫瑰几年过去了，你还好吗？冷漠的人还在笑，脆弱的人还在哭．太阳还是火热，月光还是皎洁，虚伪依然虚伪，高尚还在受伤．你的声音我们还在听，你的身影却无影无踪．岁月如风，笑着哭那个美丽的梦，**笑靥如花，她是个美丽世界的孤儿，太早地回到了纯真的天国．</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-08-06 12:23<br>赞(0) 踩(0) | <div>别哭，夏日的玫瑰<br><br>几年过去了，你还好吗？<br>冷漠的人还在笑，脆弱的人还在哭．<br>太阳还是火热，月光还是皎洁，<br>虚伪依然虚伪，高尚还在受伤．<br>你的声音我们还在听，你的身影却无影无踪．<br>岁月如风，笑着哭那个美丽的梦，<br>**笑靥如花，<br>她是个美丽世界的孤儿，<br>太早地回到了纯真的天国．</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11979616)<br><br>2013-07-30 21:19<br>赞(0) 踩(0) | <div>“时光流走了 而我依然在这儿 我已掉进深深的漩涡”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8975218)<br><br>2013-07-30 21:14<br>赞(0) 踩(0) | <div>“有时 我感觉失落感觉自己象一颗草有时 我陷入空虚可我不知道为什么时光流走了而我依然在这儿我已掉进深深的旋涡”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8975218)<br><br>2013-07-30 21:14<br>赞(0) 踩(0) | <div>“有时 我感觉失落感觉自己象一颗草<br>有时 我陷入空虚可我不知道为什么<br>时光流走了而我依然在这儿<br>我已掉进深深的旋涡”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16275679)<br>什么都是一阵风，风刮过就<br>2013-07-30 21:12<br>赞(0) 踩(0) | <div>“时光流走了 而我依然在这儿 我已掉进深深的漩涡”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13435077)<br><br>2013-07-29 12:01<br>赞(0) 踩(0) | <div>汪峰感觉特愣，可能因为是知识分子，汪老师！不信试试这首，满分</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7558516)<br><br>2013-07-26 01:29<br>赞(0) 踩(0) | <div>终于唱到这首歌~刚刚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5724302)<br><br>2013-07-18 17:26<br>赞(0) 踩(0) | <div>美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12939739)<br><br>2013-07-18 00:21<br>赞(0) 踩(0) | <div>i love you i want you！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2416231)<br>不是尊前爱惜身，佯狂难免<br>2013-07-17 21:58<br>赞(0) 踩(0) | <div>求领养</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3732464)<br><br>2013-07-17 10:32<br>赞(0) 踩(0) | <div>别哭 亲爱的人我们要坚强 我们要微笑因为无论我们怎样我们永远是这美丽世界的孤儿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3732464)<br><br>2013-07-17 10:32<br>赞(0) 踩(0) | <div>别哭 亲爱的人<br>我们要坚强 我们要微笑<br>因为无论我们怎样<br>我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51931)<br>风吹水上万里粼<br>2013-07-09 19:34<br>赞(0) 踩(0) | <div>哎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16820078)<br>游子<br>2013-07-05 00:19<br>赞(0) 踩(0) | <div>我们都是孤儿 找着最纯真的快乐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/672633)<br>身体里不是灵魂，是夜空<br>2013-07-03 23:31<br>赞(0) 踩(0) | <div>我们要坚强 我们要微笑因为无论我们怎样我们永远是这美丽世界的孤儿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/672633)<br>身体里不是灵魂，是夜空<br>2013-07-03 23:31<br>赞(0) 踩(0) | <div>我们要坚强 我们要微笑<br>因为无论我们怎样<br>我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13400292)<br><br>2013-07-03 14:58<br>赞(0) 踩(0) | <div>回家就是睁眼听歌 闭眼听歌 吃饭听歌  随时听歌 太好了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8489632)<br><br>2013-07-03 13:44<br>赞(0) 踩(0) | <div>独一无二的存在。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6428326)<br>我还没想好要写什么...<br>2013-06-26 21:58<br>赞(0) 踩(0) | <div>你看车辆穿梭霓虹闪烁，多像我们的梦。来吧亲爱的人，我们要坚强</div> |
@@ -979,14 +979,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4472706)<br><br>2013-06-16 21:48<br>赞(0) 踩(0) | <div>亲爱的人 我们要坚强 我们要微笑 因为无论我们怎样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12212946)<br> <br>2013-06-05 14:37<br>赞(0) 踩(0) | <div>我也有颗摇滚的心 ！  ROCK YOU</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7253244)<br><br>2013-05-31 22:50<br>赞(1) 踩(0) | <div>这应该才是汪峰的代表作嘛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9673120)<br>音乐是思维的声音<br>2013-05-31 20:58<br>赞(0) 踩(0) | <div>2000年作品鲍家街43号乐队， 汪峰担任主唱。这是汪峰单飞之后的首张专辑《火花》，这是汪峰对人性的诠释，即一个人的原始本性是自然而狂野的，但环境及生活的压力却使人必须压抑自己本色的一面；人在现实的压力和破碎之中，如果依然能保持光明、向上，依然肯追求哪怕是瞬间的辉煌，那么人就战胜了自己，战胜了环境。于是汪峰将人的生命或灵魂比作一朵花，在火中花会燃烧，要么变为灰烬，要么在火中重生。汪峰用极具画面感的歌词，叙事感浓郁的描绘以及意境化的音乐表达出他对人生的感悟。《花火》的动听与值得寻味也正是来源于此。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9673120)<br>音乐是思维的声音<br>2013-05-31 20:58<br>赞(0) 踩(0) | <div>2000年作品<br>鲍家街43号乐队， 汪峰担任主唱。这是汪峰单飞之后的首张专辑《火花》，这是汪峰对人性的诠释，即一个人的原始本性是自然而狂野的，但环境及生活的压力却使人必须压抑自己本色的一面；人在现实的压力和破碎之中，如果依然能保持光明、向上，依然肯追求哪怕是瞬间的辉煌，那么人就战胜了自己，战胜了环境。于是汪峰将人的生命或灵魂比作一朵花，在火中花会燃烧，要么变为灰烬，要么在火中重生。汪峰用极具画面感的歌词，叙事感浓郁的描绘以及意境化的音乐表达出他对人生的感悟。《花火》的动听与值得寻味也正是来源于此。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2695437)<br><br>2013-05-18 19:50<br>赞(0) 踩(0) | <div>至钢哥！虽然你辞职了，感谢你曾在公司对我的帮助，感谢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7588881)<br>-O M<br>2013-05-12 13:16<br>赞(0) 踩(0) | <div>我们永远是这美丽世界的孤儿！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11291352)<br><br>2013-05-10 22:04<br>赞(0) 踩(0) | <div>晚安，小金块说要保存体力。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/894175)<br><br>2013-05-10 21:03<br>赞(0) 踩(0) | <div>别哭 我亲爱的人/时光已流走了/而我依然在这儿/我已掉进深深的漩涡/可我一想起你/就感觉痛苦/对不起 我亲爱的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7930870)<br>我还没想好要写什么...<br>2013-05-06 23:13<br>赞(1) 踩(0) | <div>给朱令！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9496273)<br><br>2013-05-05 06:57<br>赞(0) 踩(0) | <div>不过是一时脆弱让人放纵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:16<br>赞(0) 踩(0) | <div>你听窗外的夜莺路上欢笑的人群这多像我们的梦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:16<br>赞(0) 踩(0) | <div>你听窗外的夜莺<br>路上欢笑的人群<br>这多像我们的梦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3235717)<br><br>2013-04-29 22:48<br>赞(0) 踩(0) | <div>最喜欢汪峰的一首歌，，没有之一，，，，其二才是笑着哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5983196)<br><br>2013-04-28 22:04<br>赞(0) 踩(0) | <div>在＜花火＞里还有首歌，当西西在汪峰演唱会上用电话让我听最爱的这首时，我俩在电话两头流泪，因为我们何尝不是如歌里那样：＂无论怎样，我们都是这美丽世界的孤儿。＂或许正是如此，我们才会更珍惜生命中遇到的每一个人。因为他们都在某一刻陪伴过你和你的孤独。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5983196)<br><br>2013-04-28 21:57<br>赞(0) 踩(0) | <div>在这张＜花火＞里还有这样一首歌，当西西在汪峰演唱会上用电话让我听我们最爱的这首时，我俩在电话两头流眼泪，因为我们何尝不是如歌里唱得那样：＂无论怎样，我们都是这美丽世界的孤儿。＂或许正是如此，我们才会更珍惜生命中遇到的每一个人。因为无论怎样，他们都会在某一刻陪伴过你和你的孤独。</div> |
@@ -1021,7 +1021,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10447609)<br><br>2012-12-16 08:49<br>赞(0) 踩(0) | <div>其实我很喜欢汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3387374)<br><br>2012-12-09 02:25<br>赞(0) 踩(0) | <div>美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6434841)<br><br>2012-12-05 05:13<br>赞(0) 踩(0) | <div>天涯相随却纷飞。后来同样是曾经的男友、汪同学写了这首歌纪念她，演出会上唱得十分动容，美丽世界的孤儿。筠子，23岁，太可惜了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10647398)<br><br>2012-11-14 15:48<br>赞(0) 踩(0) | <div>我们要坚强 我们要微笑因为无论我们怎样我们永远是这美丽世界的孤儿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10647398)<br><br>2012-11-14 15:48<br>赞(0) 踩(0) | <div>我们要坚强 我们要微笑<br>因为无论我们怎样<br>我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2865051)<br><br>2012-11-07 16:22<br>赞(0) 踩(0) | <div>在说我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11080717)<br><br>2012-11-01 22:54<br>赞(0) 踩(0) | <div>世界一直是这幅模样，不过你不愿承认罢了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1198457)<br> <br>2012-10-26 22:16<br>赞(0) 踩(0) | <div>Have a good night.</div> |
@@ -1029,17 +1029,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9008307)<br><br>2012-10-09 22:14<br>赞(0) 踩(0) | <div>送给在天堂的爸爸--女儿每天都会仰望看那颗天上最亮的星星。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7149897)<br><br>2012-09-27 19:03<br>赞(0) 踩(0) | <div>给所有感觉自己身处异世的＂孤儿＂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5782349)<br><br>2012-09-25 21:22<br>赞(0) 踩(0) | <div>开始听懂并着迷汪峰的歌，是不是意味着人生中有什么东西在变化？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2966471)<br><br>2012-09-25 13:45<br>赞(0) 踩(0) | <div>时光流走了 而我依然在这儿我已掉进深深的旋涡宝贝 看看远处 月亮从旷野上升起求你再抱紧我 我感觉冷我感觉疼 你看车辆穿梭就像在寻找什么他们就象我们的命运哦 别哭 亲爱的人我们要坚强 我们要微笑因为无论我们怎样我们永远是这美丽世界的孤儿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2966471)<br><br>2012-09-25 13:45<br>赞(0) 踩(0) | <div>时光流走了 而我依然在这儿<br>我已掉进深深的旋涡<br>宝贝 看看远处 月亮从旷野上升起<br>求你再抱紧我 我感觉冷<br>我感觉疼 你看车辆穿梭就像在寻找什么<br>他们就象我们的命运<br>哦 别哭 亲爱的人<br>我们要坚强 我们要微笑<br>因为无论我们怎样<br>我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10506559)<br><br>2012-09-21 21:26<br>赞(0) 踩(0) | <div>因为电视剧而火的《北京北京》和《再见青春》好评如潮，可以说是泛滥了。所以我不喜欢，拧巴的人呐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4344303)<br> <br>2012-09-19 00:20<br>赞(0) 踩(0) | <div>晚安，孤独的心怀期待却又失落的人，晚安世界的孤儿。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2012-09-18 23:04<br>赞(0) 踩(0) | <div>有时 我感觉失落 感觉自己象一颗草有时 我陷入空虚 可我不知道为什么时光流走了 而我依然在这儿我已掉进深深的旋涡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2012-09-18 23:04<br>赞(0) 踩(0) | <div>有时 我感觉失落 感觉自己象一颗草<br>有时 我陷入空虚 可我不知道为什么<br>时光流走了 而我依然在这儿<br>我已掉进深深的旋涡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3968807)<br><br>2012-09-18 20:34<br>赞(0) 踩(0) | <div>我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17401)<br>喂 你好 ~<br>2012-09-18 19:45<br>赞(0) 踩(0) | <div>这一刻的心情特别低落，就像美丽世界的孤儿~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10629469)<br><br>2012-09-15 22:03<br>赞(0) 踩(0) | <div>无</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6164147)<br>酋长叫你回去。<br>2012-09-15 21:08<br>赞(1) 踩(0) | <div>那一年，筠子还没有死，她勇敢地对面劫难般的爱情，勇敢地深爱那个男人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2897923)<br><br>2012-09-15 01:05<br>赞(0) 踩(0) | <div>深夜听这个，所有的负面情绪积聚起来，真是一种肝肠寸断的滋味。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201114)<br><br>2012-09-12 14:15<br>赞(0) 踩(0) | <div>别哭..........</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1293002)<br><br>2012-09-10 21:44<br>赞(0) 踩(0) | <div>哦~别哭，亲爱的人！我们要坚强，我们要微笑，因为无论我们怎样，我们永远是这美丽世界的孤儿…在家干嚎，隔壁的女孩突然砸墙，节奏就像在喊安可，安可。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1293002)<br><br>2012-09-10 21:44<br>赞(0) 踩(0) | <div>哦~别哭，亲爱的人！我们要坚强，<br>我们要微笑，因为无论我们怎样，我们永远是这美丽世界的孤儿…在家干嚎，隔壁的女孩突然砸墙，节奏就像在喊安可，安可。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2039235)<br>他不爱你，你的糖就不甜了<br>2012-09-08 20:54<br>赞(0) 踩(0) | <div>这首歌是写给自杀的筠子的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255463)<br><br>2012-09-02 23:27<br>赞(0) 踩(0) | <div>晚安吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1234479)<br><br>2012-08-26 15:40<br>赞(0) 踩(0) | <div>燃烧吧！青春</div> |
@@ -1050,13 +1050,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4458644)<br>如花美眷，似水流年……<br>2012-08-17 02:14<br>赞(0) 踩(0) | <div>你看车辆穿梭，远处霓虹闪烁，这多象我们的梦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4071276)<br><br>2012-08-08 17:20<br>赞(1) 踩(0) | <div>几年过去了，你还好吗？ 冷漠的人还在笑，脆弱的人还在哭． 太阳还是火热，月光还是皎洁， 虚伪依然虚伪，高尚还在受伤．你的声音我们还在听，你的身影却无影无踪．岁月如风，笑着哭那个美丽的梦，**笑靥如花，她是个美丽世界的孤儿，太早地回到了纯真的天国．</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/159588)<br>最美的风景，就是我们头顶...<br>2012-08-05 07:25<br>赞(0) 踩(0) | <div>9</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1077970)<br>我还没想好要写什么...<br>2012-07-29 18:39<br>赞(0) 踩(0) | <div>时光流走了 而我依然在这儿我已掉进深深的旋涡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1077970)<br>我还没想好要写什么...<br>2012-07-29 18:39<br>赞(0) 踩(0) | <div>时光流走了 而我依然在这儿<br>我已掉进深深的旋涡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/617748)<br> <br>2012-07-24 23:13<br>赞(0) 踩(0) | <div>别哭，我亲爱的人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8850174)<br>我还没想好要写什么...<br>2012-07-23 21:40<br>赞(0) 踩(0) | <div>美丽世界的孤儿，喧嚣的北上广，霓虹灯四射，却总也融不入，像是一个四处游荡的孤儿，举目无亲，不过，相信自己！↖(^ω^)↗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2761652)<br><br>2012-07-15 19:53<br>赞(0) 踩(0) | <div>美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-07-14 07:25<br>赞(0) 踩(0) | <div>宝贝 看看远处 月亮从旷野上升起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4833359)<br><br>2012-07-12 17:51<br>赞(0) 踩(0) | <div>献给在浮华城市里打拼的每一个热血男儿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338167)<br>一切安好<br>2012-07-05 21:26<br>赞(0) 踩(0) | <div>你看车辆穿梭就像在寻找什么他们就象我们的命运……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338167)<br>一切安好<br>2012-07-05 21:26<br>赞(0) 踩(0) | <div>你看车辆穿梭就像在寻找什么<br>他们就象我们的命运……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8210910)<br> <br>2012-07-02 05:34<br>赞(0) 踩(0) | <div>你听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/159588)<br>最美的风景，就是我们头顶...<br>2012-06-25 21:38<br>赞(0) 踩(0) | <div>对歌不对人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/613506)<br><br>2012-06-23 01:04<br>赞(0) 踩(0) | <div>没有理由是最好的理由</div> |
@@ -1091,7 +1091,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125665)<br>Lost in the ...<br>2011-12-30 12:35<br>赞(0) 踩(0) | <div>别哭，我亲爱的人。。我想我们会一起死去。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1055342)<br><br>2011-12-22 00:38<br>赞(0) 踩(0) | <div>我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6018548)<br>我还没想好要写什么...<br>2011-12-09 14:28<br>赞(0) 踩(0) | <div>别哭 亲爱的人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5672014)<br><br>2011-10-21 11:48<br>赞(0) 踩(0) | <div>有时 我感觉失落 感觉自己象一颗草有时 我陷入空虚 可我不知道为什么时光流走了 而我依然在这儿我已掉进深深的旋涡宝贝 看看远处 月亮从旷野上升起求你再抱紧我 我感觉冷我感觉疼 你看车辆穿梭就像在寻找什么他们就象我们的命运很经典的歌词，车辆的穿梭就像是每个人的命运，互相擦肩而过，各有各的方向</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5672014)<br><br>2011-10-21 11:48<br>赞(0) 踩(0) | <div>有时 我感觉失落 感觉自己象一颗草<br>有时 我陷入空虚 可我不知道为什么<br>时光流走了 而我依然在这儿<br>我已掉进深深的旋涡<br>宝贝 看看远处 月亮从旷野上升起<br>求你再抱紧我 我感觉冷<br>我感觉疼 你看车辆穿梭就像在寻找什么<br>他们就象我们的命运<br><br>很经典的歌词，<br><br><br>车辆的穿梭就像是每个人的命运，互相擦肩而过，各有各的方向</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6081419)<br><br>2011-10-03 07:48<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3196722)<br>人散后，一钩弯月天如水；<br>2011-10-02 01:14<br>赞(0) 踩(0) | <div>美丽人生！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2922165)<br><br>2011-10-02 01:12<br>赞(0) 踩(0) | <div>名字好</div> |
@@ -1114,7 +1114,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2410079)<br><br>2011-07-08 22:10<br>赞(0) 踩(0) | <div>远处霓虹闪烁，这多象我们的梦。时光流走了，而我依然在这儿。别哭，我亲爱的人。我想，我们会一起死去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74319)<br>新浪微博：@糖卡torn...<br>2011-07-06 14:54<br>赞(0) 踩(0) | <div>这是真正写给筠子的歌~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3957500)<br><br>2011-05-29 11:02<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1097371)<br> <br>2011-05-06 17:02<br>赞(0) 踩(0) | <div>我们要坚强 我们要微笑因为无论我们怎样我们永远是这美丽世界的孤儿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1097371)<br> <br>2011-05-06 17:02<br>赞(0) 踩(0) | <div>我们要坚强 我们要微笑<br>因为无论我们怎样<br>我们永远是这美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268225)<br><br>2011-04-22 15:45<br>赞(0) 踩(0) | <div>心底的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/464038)<br><br>2011-04-20 00:02<br>赞(0) 踩(0) | <div>我们永远是美丽世界的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3499947)<br><br>2011-04-06 23:46<br>赞(0) 踩(0) | <div>有感情</div> |
@@ -1162,7 +1162,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111915)<br>C<br>2009-09-08 13:00<br>赞(0) 踩(0) | <div>很多年前喜欢的一首忧伤的歌，希望，它能治疗你的忧伤。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109659)<br>非诚勿扰<br>2009-10-27 16:35<br>赞(0) 踩(0) | <div>看看···</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111915)<br>C<br>2009-10-27 16:40<br>赞(0) 踩(0) | <div><q><b>谜の兮说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111915)<br>C<br>2009-08-17 10:29<br>赞(0) 踩(0) | <div>收信人：某长期抑郁的朋友如果不开心，如果不快乐。请记住，我们是美丽世界的孤儿。。别怕。看看世界，春暖花开发信人：曾经一起不开心的朋友地址：不开心酒吧 邮编：2670=097</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111915)<br>C<br>2009-08-17 10:29<br>赞(0) 踩(0) | <div>收信人：某长期抑郁的朋友<br>如果不开心，如果不快乐。请记住，我们是美丽世界的孤儿。。别怕。看看世界，春暖花开<br>发信人：曾经一起不开心的朋友<br>地址：不开心酒吧 邮编：2670=097</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109659)<br>非诚勿扰<br>2009-10-27 16:36<br>赞(0) 踩(0) | <div>唏嘘</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111915)<br>C<br>2009-10-27 16:41<br>赞(0) 踩(0) | <div><q><b>谜の兮说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256310)<br><br>2009-07-29 22:02<br>赞(0) 踩(0) | <div>的确！心疼……会很疼很疼。</div> |

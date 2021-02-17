@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419589702)<br><br>2019-02-20 12:13<br>赞(3) 踩(0) | <div>这是最接近乐谱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2018-07-21 09:38<br>赞(1) 踩(0) | <div>贝瓦儿歌 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/462a6b67863ade264f3aa43351a5e9e0.jpg)<br>周童](https://i.xiami.com/tommyziv) | **播放数**: 4468058<br>**粉丝数**: 254<br>**评论数**: 45<br>**地区**: China 中国大陆<br>**风格**: 爵士放克 Jazz Funk, 国语流行 Mandarin Pop, 电音流行 Electropop<br> |
+| [![](../../images/musicians/462a6b67863ade264f3aa43351a5e9e0.jpg)<br>周童](https://i.xiami.com/tommyziv) | **地区**: China 中国大陆<br>**风格**: 爵士放克 Jazz Funk, 国语流行 Mandarin Pop, 电音流行 Electropop<br>**播放数**: 4468058<br>**粉丝数**: 254<br>**评论数**: 45<br> |
 
 ## 档案
 
@@ -38,8 +38,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353317554)<br><br>2020-07-10 15:07<br>赞(1) 踩(0) | <div>。。猛一看，看成&amp;ldquo;周董&amp;rdquo;了~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418507280)<br><br>2020-03-27 18:37<br>赞(0) 踩(0) | <div>真的很不錯！好久沒發現好的歌手！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93081992)<br>so what<br>2019-08-28 23:34<br>赞(0) 踩(0) | <div>我弟弟也叫周童哈哈</div> |

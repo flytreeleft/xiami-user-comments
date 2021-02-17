@@ -47,8 +47,8 @@ Program：Thomas Christopher<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/981187)<br>音乐，动力无限<br>2021-01-29 05:22<br>赞(1) 踩(0) | <div>太女人了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418331675)<br><br>2020-10-30 14:36<br>赞(0) 踩(0) | <div>爱情可能与喜欢无关，有可能只是你我有相遇的缘份。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355726041)<br>梵梵梵...飯飯飯<br>2020-10-15 00:19<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
@@ -61,16 +61,16 @@ Program：Thomas Christopher<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441779927)<br><br>2020-07-17 18:08<br>赞(1) 踩(0) | <div>超喜欢这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13479990)<br>一杯咖啡一首音乐一段文字<br>2020-07-03 15:11<br>赞(20) 踩(0) | <div>听过周深的嗓音，很难不被折服；那是来自山谷的空灵，委婉中不乏澄澈；在歌声中融入心底的温暖，念落远方&amp;hellip;&amp;hellip;❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137331118)<br>now or never<br>2020-06-28 23:24<br>赞(0) 踩(0) | <div>什么神仙嗓音 绝美词曲 太好听啦&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121714128)<br>静静的<br>2020-06-22 00:38<br>赞(1) 踩(0) | <div>古韵悠远心境澄澈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121714128)<br>静静的<br>2020-06-22 00:38<br>赞(1) 踩(0) | <div>古韵悠远<br>心境澄澈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410336570)<br>喜歡你的笑、認真的男人最...<br>2020-06-10 01:14<br>赞(1) 踩(0) | <div>終於買到深深的第一張專輯！在送來的路上、太喜歡這專輯經過了好幾個輾轉買到了等待深深的第二張專輯✌️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25435694)<br><br>2020-06-03 12:06<br>赞(0) 踩(0) | <div>看到了很美的画面，一幅一幅闪现感觉到了名为执念，怀念，追寻，不舍的感情，刻骨铭心你是我的一缕执念</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25435694)<br><br>2020-06-03 12:06<br>赞(0) 踩(0) | <div>看到了很美的画面，一幅一幅闪现<br>感觉到了名为执念，怀念，追寻，不舍的感情，刻骨铭心<br>你是我的一缕执念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26249722)<br><br>2020-05-22 20:14<br>赞(0) 踩(0) | <div>你是我的一缕执念！挺好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103619864)<br><br>2020-05-19 11:06<br>赞(1) 踩(0) | <div>我已为了你参透了枯木禅，我已为了你去看了远山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173357038)<br><br>2020-05-18 10:38<br>赞(1) 踩(0) | <div>周深老师的歌只敢听，不敢唱，一开口就觉得自己五音不全，没有唱歌这个能力（以前从来没有过这样的赶脚）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410336570)<br>喜歡你的笑、認真的男人最...<br>2020-05-11 01:16<br>赞(0) 踩(0) | <div>最愛❤️❤️❤️太喜歡這首循環單曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377137100)<br><br>2020-05-07 19:22<br>赞(2) 踩(0) | <div>总会想到家里变故，为了不连累我而和我分手的那个他，某次偶然撞见，竟然是我和异性朋友吃饭。他远远地望着我，痛苦和焦灼写在脸上&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442635110)<br><br>2020-05-01 14:59<br>赞(3) 踩(0) | <div>&amp;quot;你是我的一缕执念&amp;quot;这种诗情画意对生活在现代的我显得如此稀缺，它是有着穿越时空的、勾人心魄的吸引力，让人止不住地向往美好~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196774791)<br>如风岁月  似水流年  ...<br>2020-04-29 10:22<br>赞(1) 踩(0) | <div>用情至深，执念入魂放执念，得释然</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442635110)<br><br>2020-05-01 14:59<br>赞(3) 踩(0) | <div>&amp;quot;你是我的一缕执念&amp;quot;<br>这种诗情画意对生活在现代的我显得如此稀缺，它是有着穿越时空的、勾人心魄的吸引力，让人止不住地向往美好~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196774791)<br>如风岁月  似水流年  ...<br>2020-04-29 10:22<br>赞(1) 踩(0) | <div>用情至深，执念入魂<br>放执念，得释然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97330134)<br><br>2020-04-28 22:15<br>赞(1) 踩(0) | <div>我重复听着睡觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431839795)<br>正版音乐，听虾米！<br>2020-04-22 11:52<br>赞(0) 踩(0) | <div>好有女人味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434365409)<br><br>2020-04-19 13:24<br>赞(0) 踩(0) | <div>太好听了吧</div> |
@@ -93,7 +93,7 @@ Program：Thomas Christopher<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306492822)<br><br>2018-07-19 17:30<br>赞(1) 踩(0) | <div>好听，循环听，舒心 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39879516)<br>小王子说 爱一定开在某个...<br>2018-07-02 15:32<br>赞(1) 踩(0) | <div>这首好好听啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333540709)<br>有生之年，狭路相逢，终不...<br>2018-06-02 23:41<br>赞(0) 踩(0) | <div>天籁之音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349470085)<br><br>2018-04-23 11:42<br>赞(2) 踩(0) | <div>我以为自己 已成熟好几遍我以为自己 已开始冬眠但是无论怎样总还是秉承一缕执念，为尹约高晓松周深深着迷啊 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349470085)<br><br>2018-04-23 11:42<br>赞(2) 踩(0) | <div>我以为自己 已成熟好几遍<br>我以为自己 已开始冬眠<br>但是无论怎样<br>总还是秉承一缕执念，为尹约高晓松周深深着迷啊 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357162226)<br><br>2018-04-06 20:35<br>赞(0) 踩(0) | <div>听着歌，心里特安静，让我静静的想他吧，他是我的一缕执念，永远住在我的心里&amp;hellip;&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263407765)<br><br>2018-03-29 19:37<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333639346)<br><br>2018-03-15 21:49<br>赞(1) 踩(0) | <div>很多牵念说不出口，只为无法飘向你身边，向那个曾经稚嫩而质素的面孔告个别，不是不想念，而是在繁华落尽的世间变得默默平静而无奈。可能世间早已经这样了，只是自己一缕执念不肯相信未来再美好却还没发生～而今再无奈终将逝去～</div> |
@@ -139,7 +139,7 @@ Program：Thomas Christopher<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324779598)<br><br>2017-12-07 08:37<br>赞(1) 踩(0) | <div>闭眼用心听，美景，陶醉其中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336942504)<br><br>2017-12-07 08:13<br>赞(2) 踩(0) | <div>好聽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44681478)<br><br>2017-12-07 02:34<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74048856)<br>与其互为宇宙。不如自成人...<br>2017-12-07 00:11<br>赞(1) 踩(0) | <div>喜欢的声音。喜欢的封面。喜欢的词。 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74048856)<br>与其互为宇宙。不如自成人...<br>2017-12-07 00:11<br>赞(1) 踩(0) | <div>喜欢的声音。<br>喜欢的封面。<br>喜欢的词。 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217604635)<br> <br>2017-12-06 08:48<br>赞(0) 踩(0) | <div>我已为了你参透了枯木禅，我已为了你去看了远山。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279790364)<br>静如止水<br>2017-12-06 08:08<br>赞(2) 踩(0) | <div>不看介绍，真以为是女生，比王菲的声音更有一种纯美的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170663784)<br> <br>2017-12-05 22:20<br>赞(26) 踩(0) | <div>昨日鲜衣怒马陌上白衣少年 ，今天眉宇苍苍看不清你的脸.不知道有多少人是被这句话感动的.</div> |
@@ -254,7 +254,7 @@ Program：Thomas Christopher<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302881544)<br>感谢是你让我在如此懵懂的...<br>2017-11-14 00:34<br>赞(1) 踩(0) | <div>八年，惊觉时光匆匆，至亲的你都已经离开八年了，渐渐疏于入梦。带着曾经的一丝执念，我替你去看了远山深海，对你的这份爱也找到了可以转赠的对象。自你之后，许多从指尖流走的握不住的美好都不算遗憾。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245469570)<br><br>2017-11-13 23:09<br>赞(0) 踩(0) | <div>执念太深，终成魔障</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335058910)<br><br>2017-11-13 14:12<br>赞(0) 踩(0) | <div>感觉比大鱼好听！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187824907)<br>最不知事故而事故<br>2017-11-13 13:53<br>赞(2) 踩(0) | <div>想深夜里，躺在海边，仰望着天空那星空点点，更好的是你刚好在我身边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187824907)<br>最不知事故而事故<br>2017-11-13 13:53<br>赞(2) 踩(0) | <div>想深夜里，躺在海边，仰望着天空<br>那星空点点，更好的是你刚好在我身边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335007586)<br> <br>2017-11-13 11:01<br>赞(3) 踩(0) | <div>古典婉约的曲风，清灵的歌喉唱一曲哀怨的思念。赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23161745)<br>无情无义，没心没肺<br>2017-11-12 22:35<br>赞(3) 踩(0) | <div>制作人太好了，终于不用听那些无趣的影视歌曲，浪费了一个特色的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320798996)<br>素白年代，光阴成河。<br>2017-11-12 13:52<br>赞(1) 踩(0) | <div>我想去到一个地方。从春天，走到冬天。</div> |
@@ -267,7 +267,7 @@ Program：Thomas Christopher<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8105280)<br>朱宝宝、刚好遇见你<br>2017-11-10 16:23<br>赞(2) 踩(0) | <div>喜欢就悉心呵护</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49637560)<br> <br>2017-11-10 13:57<br>赞(1) 踩(0) | <div>前排</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332914959)<br><br>2017-11-10 12:44<br>赞(1) 踩(0) | <div>深深好好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/473457)<br> <br>2017-11-10 11:54<br>赞(0) 踩(0) | <div>第一句 跟陳曉東的曾經第一句好像<a href="http://www.xiami.com/song/8Gf27Jf68de?spm=a1z1s.3521865.23309997.1.YPJk4U" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/8Gf27Jf68de?spm=a1z1s.3521865.23309997.1.YPJk4U</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/473457)<br> <br>2017-11-10 11:54<br>赞(0) 踩(0) | <div>第一句 跟陳曉東的曾經第一句好像<br><a href="http://www.xiami.com/song/8Gf27Jf68de?spm=a1z1s.3521865.23309997.1.YPJk4U" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/8Gf27Jf68de?spm=a1z1s.3521865.23309997.1.YPJk4U</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294070900)<br>我还没想好要写什么...<br>2017-11-10 10:27<br>赞(0) 踩(0) | <div>好听哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/688334)<br>暂无签名~<br>2017-11-10 07:25<br>赞(1) 踩(0) | <div>听前奏已被抓住了～好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56735700)<br><br>2017-11-10 07:23<br>赞(1) 踩(0) | <div>早安！听歌</div> |
@@ -293,5 +293,5 @@ Program：Thomas Christopher<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13111079)<br>有缘再见<br>2017-11-09 10:10<br>赞(0) 踩(0) | <div>ෆ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119119950)<br>一颗红豆换一个宇宙<br>2017-11-09 09:03<br>赞(1) 踩(0) | <div>幻梦一场</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57514826)<br><br>2017-11-09 05:55<br>赞(0) 踩(0) | <div>太好听了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51695437)<br><br>2017-11-07 08:50<br>赞(2) 踩(0) | <div>昨日鲜衣怒马陌上白衣少年今天眉宇苍苍看不清你的脸</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51695437)<br><br>2017-11-07 08:50<br>赞(2) 踩(0) | <div>昨日鲜衣怒马陌上白衣少年<br>今天眉宇苍苍看不清你的脸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16814848)<br><br>2017-11-06 20:02<br>赞(0) 踩(0) | <div>快点上线，刚在微博听了，很好听</div> |

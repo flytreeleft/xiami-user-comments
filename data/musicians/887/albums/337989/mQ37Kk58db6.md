@@ -81,12 +81,12 @@ Drum：X<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271907199)<br>信仰在空中飘扬<br>2019-09-22 23:23<br>赞(1) 踩(0) | <div>神一般存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332726133)<br><br>2018-08-22 22:07<br>赞(0) 踩(0) | <div>为什么汪峰的一些歌在很多音乐软件里都提示没有版权呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-22 00:38<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2552219)<br> <br>2017-10-28 00:22<br>赞(2) 踩(0) | <div>当黎明和落日的光阴交错的时刻我们纷纷逃出每一座尖叫的城市一道眩目的光芒从远处的天际显现如同自由将我们迷茫的心灵唤醒为拯救正义而灵魂孤独的人显现为放逐的救赎他被遗弃的人显现为寂寞的行者和伟大的勇士显现照亮他们前方艰难而曲折的道路</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2552219)<br> <br>2017-10-28 00:22<br>赞(2) 踩(0) | <div>当黎明和落日的光阴交错的时刻<br>我们纷纷逃出每一座尖叫的城市<br>一道眩目的光芒从远处的天际显现<br>如同自由将我们迷茫的心灵唤醒<br>为拯救正义而灵魂孤独的人显现<br>为放逐的救赎他被遗弃的人显现<br>为寂寞的行者和伟大的勇士显现<br>照亮他们前方艰难而曲折的道路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/766844)<br><br>2017-10-27 23:22<br>赞(0) 踩(0) | <div>这首歌，让我想起了曾经一拨兄弟姐妹58小时，北京-西安-太白穿越-西安-北京。现在怕个香山，估计我都得喘，得恢复锻炼了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10333063)<br><br>2017-10-27 23:04<br>赞(0) 踩(0) | <div>直击疲惫摩挲，心灵的柔软共鸣震颤，苦与泪的释放，灵魂的提炼坚强，迸发更强的力量!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49502565)<br> <br>2015-10-28 23:07<br>赞(1) 踩(0) | <div>汪峰的摇滚情怀终结于此</div> |
@@ -126,7 +126,7 @@ Drum：X<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35152355)<br>没有个性，谈何签名。<br>2014-06-20 23:11<br>赞(0) 踩(0) | <div>喜欢你的这句话。说这句话的你，一定很美丽。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13404036)<br><br>2013-12-29 00:06<br>赞(0) 踩(0) | <div>这不是我们曾经想要的光明 所有的痛依然都还在这里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-06 06:05<br>赞(1) 踩(0) | <div>汪峰最屌的作品</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-06 06:00<br>赞(2) 踩(0) | <div>这不曾是我们想要的生命所有的痛依然都将会远去就在最后可以说出再见之前让我们追随着信仰在空中飘扬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-06 06:00<br>赞(2) 踩(0) | <div>这不曾是我们想要的生命<br>所有的痛依然都将会远去<br>就在最后可以说出再见之前<br>让我们追随着信仰在空中飘扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28093189)<br> <br>2013-11-21 04:04<br>赞(32) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36435166)<br><br>2015-07-06 18:57<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15480447)<br><br>2013-11-20 22:51<br>赞(0) 踩(0) | <div>这不曾是我们想要的光明，所有的痛依然都还在这里，就在最后可以说出再见之前，让我们怀着信仰在空中飘扬！</div> |
@@ -136,11 +136,11 @@ Drum：X<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26094882)<br><br>2013-11-06 15:50<br>赞(0) 踩(0) | <div>这首歌同样很好听，有提神醒脑和明目张胆等功效！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25754257)<br><br>2013-10-31 02:08<br>赞(0) 踩(0) | <div>哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18520876)<br><br>2013-10-30 22:53<br>赞(0) 踩(0) | <div>faith</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9064616)<br>嘘~~<br>2013-10-30 10:21<br>赞(0) 踩(0) | <div>生命就像是一场告别 从起点对结束再见 你拥有的渐渐是伤痕 在回望来路的时候可现在我会莫名的哭泣 当我想你的时候</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9064616)<br>嘘~~<br>2013-10-30 10:21<br>赞(0) 踩(0) | <div>生命就像是一场告别 从起点对结束再见 你拥有的渐渐是伤痕 在回望来路的时候<br>可现在我会莫名的哭泣 当我想你的时候</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24749026)<br><br>2013-10-28 05:00<br>赞(0) 踩(0) | <div>还不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17969149)<br> <br>2013-10-23 10:52<br>赞(0) 踩(0) | <div>你已快变成  我的信仰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5152767)<br><br>2013-10-22 10:33<br>赞(0) 踩(0) | <div>[这不曾是我想要的光明 所有的痛依然都还在这里 就在最后可以说出再见之前 让我怀着信仰在空中飘扬]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20059297)<br><br>2013-10-19 19:37<br>赞(0) 踩(0) | <div>生命就象是一场告别从起点对一切说再见你拥有的仅仅是伤痕在回望来路的时候</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20059297)<br><br>2013-10-19 19:37<br>赞(0) 踩(0) | <div>生命就象是一场告别<br>从起点对一切说再见<br>你拥有的仅仅是伤痕<br>在回望来路的时候</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24094514)<br>LET US ROCK!<br>2013-10-17 04:15<br>赞(1) 踩(0) | <div>其实这首歌比《春天里》牛逼多了！怎么就没火呢？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-10-25 14:20<br>赞(0) 踩(0) | <div>那些自以为摇滚的人一边说汪峰伪摇一边对这样的作品视而不见</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7665833)<br><br>2013-12-27 12:46<br>赞(0) 踩(0) | <div>确实很棒...但没有比春天里牛逼</div> |
@@ -153,7 +153,7 @@ Drum：X<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19336344)<br><br>2013-08-15 02:44<br>赞(0) 踩(0) | <div>让我的信仰在空中飘扬、、、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13752353)<br>我是个好孩子，偶尔重口味<br>2013-08-14 23:42<br>赞(0) 踩(0) | <div>让我们追随信仰在空中飘扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11308931)<br> <br>2013-08-07 09:42<br>赞(0) 踩(0) | <div>最近迷恋rock&amp;amp;roll，想声嘶力竭地歌唱不是摇滚的灵魂，真正的摇滚是让人的灵魂自由，抽脱束缚于现实。即使仅有那几分钟的摇摆，灵魂的奔放却是无与伦比。[让我们怀着信仰在空中飘扬]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-08-06 12:34<br>赞(2) 踩(0) | <div>为拥有正义而灵魂孤独的人显现为放逐的救赎的被遗弃的人显现为寂寞的寻者和伟大的勇士显现照亮他们前方艰难而曲折的道路为弱小的孤儿破碎的母亲闪耀为挣扎着来自底层的灵魂闪耀为救赎着艰难爬行的行者闪耀为他们照亮一条通往光明的道路为活着的却不存在的人们到来为善良的却在流血的生命而坚持为所有的罪与罚与爱与死而祈祷为我们坚信却迷惘的未来而飘扬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-08-06 12:34<br>赞(2) 踩(0) | <div>为拥有正义而灵魂孤独的人显现<br>为放逐的救赎的被遗弃的人显现<br>为寂寞的寻者和伟大的勇士显现<br>照亮他们前方艰难而曲折的道路<br><br>为弱小的孤儿破碎的母亲闪耀<br>为挣扎着来自底层的灵魂闪耀<br>为救赎着艰难爬行的行者闪耀<br>为他们照亮一条通往光明的道路<br><br>为活着的却不存在的人们到来<br>为善良的却在流血的生命而坚持<br>为所有的罪与罚与爱与死而祈祷<br>为我们坚信却迷惘的未来而飘扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9594986)<br><br>2013-08-05 07:11<br>赞(0) 踩(0) | <div>我想跟这片灌木丛一样 每天在这里抵抗着 既不消失 也不抱怨 更不说话 它什么都不需要 也不被征服....#good morning#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9594986)<br><br>2013-08-05 07:02<br>赞(0) 踩(0) | <div>我想跟这片灌木丛一样 每天在这里抵抗着 既不消失 也不抱怨 更不说话 它什么都不需要 也不被征服....（BY 威廉·格纳齐诺）good morning......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15954859)<br><br>2013-06-26 17:36<br>赞(0) 踩(0) | <div>我知道现在的这一切都不是我想要的。</div> |
@@ -162,7 +162,7 @@ Drum：X<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13957969)<br><br>2013-05-04 02:57<br>赞(0) 踩(0) | <div>[这不是我们曾想要的生命]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10975855)<br>看清方向 走走停停<br>2013-03-22 22:12<br>赞(0) 踩(0) | <div>音乐是相同的，灵魂和精神的相近隐藏在不同的表象下，只需要剔除伪装在不同表象下的糟粕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1664905)<br><br>2013-02-12 00:12<br>赞(0) 踩(0) | <div>让我们怀着信仰在空中飘扬…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12914765)<br><br>2013-02-09 16:39<br>赞(0) 踩(0) | <div>就在最后可以说出再见之前让我们追随信仰在空中飘扬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12914765)<br><br>2013-02-09 16:39<br>赞(0) 踩(0) | <div>就在最后可以说出再见之前<br>让我们追随信仰在空中飘扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12199513)<br><br>2013-02-07 21:29<br>赞(0) 踩(0) | <div>让我们追随着信仰在空中飘扬。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12778961)<br><br>2013-01-30 12:00<br>赞(0) 踩(0) | <div>信仰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12034938)<br>列侬说过，喜欢摇滚的孩子...<br>2013-01-29 15:13<br>赞(1) 踩(0) | <div>汪峰的Rock&amp;amp;Roll，陪伴我们迷茫痛苦挣扎拧巴的青春！</div> |
@@ -180,7 +180,7 @@ Drum：X<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3027582)<br><br>2012-06-26 23:20<br>赞(0) 踩(0) | <div>这不曾是我们想要的光明，所有的痛依然都还在这里，就在最后可以说出再见之前，让我们怀着信仰在空中飘扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9015542)<br><br>2012-05-29 19:31<br>赞(0) 踩(0) | <div>就在最后可以说出再见之前，让我们怀着信仰在空中飘扬....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9116686)<br><br>2012-05-08 21:03<br>赞(0) 踩(0) | <div>信仰在空中飘扬</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/528627)<br><br>2012-04-15 14:23<br>赞(0) 踩(0) | <div>这不曾是我们想要的生命所有的痛依然都将会远去就在最后可以说出再见之前让我们怀着信仰在空中飘扬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/528627)<br><br>2012-04-15 14:23<br>赞(0) 踩(0) | <div>这不曾是我们想要的生命<br>所有的痛依然都将会远去<br>就在最后可以说出再见之前<br>让我们怀着信仰在空中飘扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3547020)<br><br>2012-04-06 22:57<br>赞(0) 踩(0) | <div>之前的两首比较悲，这种歌是欢快的励志歌（词语贫乏，见谅）是最近听到的比较喜欢的一首。汪峰的爆发力在这种歌曲能够得到较为好的体现。生活那么操蛋，能找到点自己的精神鸦片撑过一些操蛋的日子真的蛮不错的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2673527)<br> <br>2012-03-25 23:05<br>赞(0) 踩(0) | <div>【小明の每日一歌】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8502667)<br><br>2012-03-19 21:40<br>赞(0) 踩(0) | <div>永远年轻，永远热泪盈眶。</div> |
@@ -193,19 +193,19 @@ Drum：X<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7043489)<br><br>2012-03-02 23:24<br>赞(0) 踩(0) | <div>当黎明和落日的光影交错的时刻 我们纷纷逃出每一座尖叫的城市 　　　　为放逐的救赎的被遗弃的人显现 　　为寂寞的寻者和伟大的勇士显现 　　照亮他们前方艰难而曲折的道路 　　这不曾是我们想要的光明 　　所有的痛依然都还在这里 　　就在最后可以说出再见之前 　　让我们怀着信仰在空中飘扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6856201)<br><br>2012-02-23 23:43<br>赞(0) 踩(0) | <div>今天曹赐琪同学的一句谢谢让我心里为之一震，突然觉得做了一件利己利民的事，已经记不起上一次别人对我真诚谢意是什么时候了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2635027)<br><br>2012-02-10 17:35<br>赞(0) 踩(0) | <div>短暂的幻觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2737345)<br><br>2012-01-14 10:18<br>赞(0) 踩(0) | <div>为所有的罪与罚与爱与死而祈祷为我们坚信却迷惘的未来而飘扬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2737345)<br><br>2012-01-14 10:18<br>赞(0) 踩(0) | <div>为所有的罪与罚与爱与死而祈祷<br>为我们坚信却迷惘的未来而飘扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7629300)<br><br>2012-01-11 20:10<br>赞(0) 踩(0) | <div>觉得不是这个时代的产物  无论多现实  决不向理想低头 心中的.一直不变 因为我就是我----信仰在空中飘扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6187540)<br><br>2011-10-24 08:55<br>赞(0) 踩(0) | <div>这个销魂的大清早要是能配一套销魂的煎饼果子该多好哟~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6187540)<br><br>2011-10-24 08:54<br>赞(0) 踩(0) | <div>这个凉爽忙碌拥堵的大清早啊，太应该来一份煎饼果子了！煎饼果子啊煎饼果子销魂的煎饼果子啊~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2011-10-20 02:08<br>赞(0) 踩(0) | <div>为拥有正义而灵魂孤独的人显现为寂寞的寻者和伟大的勇士显现</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2011-10-20 02:08<br>赞(0) 踩(0) | <div>为拥有正义而灵魂孤独的人显现<br><br>为寂寞的寻者和伟大的勇士显现</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2011-10-19 08:59<br>赞(0) 踩(0) | <div>没有信仰的中国人！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255639)<br><br>2011-10-07 04:43<br>赞(0) 踩(0) | <div>歌词真心牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3581610)<br><br>2011-09-17 19:14<br>赞(0) 踩(0) | <div>就是喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4833236)<br><br>2011-07-14 13:31<br>赞(0) 踩(0) | <div>我的信仰在空中飘扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3979234)<br><br>2011-05-26 16:03<br>赞(0) 踩(0) | <div>喜欢沙哑  不被世俗束缚的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3675270)<br><br>2011-04-20 17:25<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1103999)<br><br>2011-04-10 11:35<br>赞(0) 踩(0) | <div>桥段的第三局是可爱的变奏，桥段的第四局是血一般的呐喊。副歌深深印入内心~不过，歌词太拗口~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413636)<br><br>2011-03-30 02:05<br>赞(0) 踩(0) | <div>shout!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1103999)<br><br>2011-04-10 11:35<br>赞(0) 踩(0) | <div>桥段的第三局是可爱的变奏，桥段的第四局是血一般的呐喊。副歌深深印入内心~<br>不过，歌词太拗口~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413636)<br><br>2011-03-30 02:05<br>赞(0) 踩(0) | <div>shout!!!!!!!!!!!!!!!!!!!!!!!!!<br>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>!!!!!!!!!!!!!!!!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2708496)<br><br>2011-03-25 00:14<br>赞(0) 踩(0) | <div>废墟上升起几点火星~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353841)<br><br>2011-03-23 14:45<br>赞(0) 踩(0) | <div>信仰在空中飘扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3090335)<br><br>2011-03-06 00:02<br>赞(0) 踩(0) | <div>冲着汪峰来的</div> |
@@ -214,14 +214,14 @@ Drum：X<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2600084)<br><br>2011-02-10 23:14<br>赞(0) 踩(0) | <div>男人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/679170)<br>平安喜乐，普普通通<br>2011-02-04 23:59<br>赞(0) 踩(0) | <div>信仰在空中。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1612245)<br><br>2011-01-17 01:11<br>赞(0) 踩(0) | <div>这不曾是我们想要的光明 所有的痛依然都还在这里 这不曾是我们想要的生命 所有的痛依然都将会远去 卑鄙是卑鄙者的.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104692)<br><br>2010-12-16 23:42<br>赞(0) 踩(0) | <div>这不曾是我们想要的光明所有的痛依然都还在这里这不曾是我们想要的生命所有的痛依然都将会远去卑鄙是卑鄙者的通行证高尚是高尚者的墓志铭</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104692)<br><br>2010-12-16 23:42<br>赞(0) 踩(0) | <div>这不曾是我们想要的光明<br>所有的痛依然都还在这里<br><br>这不曾是我们想要的生命<br>所有的痛依然都将会远去<br><br>卑鄙是卑鄙者的通行证<br>高尚是高尚者的墓志铭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8435)<br><br>2010-11-25 12:55<br>赞(0) 踩(0) | <div>男人  信仰   光明</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/916272)<br>我还没想好要写什么...<br>2010-11-10 16:27<br>赞(1) 踩(0) | <div>这几句：为拯救正义而灵魂孤独的人显现为放逐的救赎他被遗弃的人显现为寂寞的行者和伟大的勇士显现照亮他们前方艰难而曲折的道路为弱小的孤儿破碎的母亲闪耀为挣扎着来自底层的灵魂闪耀为救赎着艰难爬行的行者闪耀为他们照亮一条通往光明的道路</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/586249)<br><br>2010-10-25 23:26<br>赞(0) 踩(0) | <div>没有错，这就是我想要的生命！为之呐喊的力量，全部的投入！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/916272)<br>我还没想好要写什么...<br>2010-11-10 16:27<br>赞(1) 踩(0) | <div>这几句：<br>为拯救正义而灵魂孤独的人显现<br>为放逐的救赎他被遗弃的人显现<br>为寂寞的行者和伟大的勇士显现<br>照亮他们前方艰难而曲折的道路<br><br>为弱小的孤儿破碎的母亲闪耀<br>为挣扎着来自底层的灵魂闪耀<br>为救赎着艰难爬行的行者闪耀<br>为他们照亮一条通往光明的道路</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/586249)<br><br>2010-10-25 23:26<br>赞(0) 踩(0) | <div>没有错，这就是我想要的生命！<br>为之呐喊的力量，全部的投入！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1313263)<br><br>2010-10-23 14:48<br>赞(0) 踩(0) | <div>太深刻了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1098812)<br><br>2010-06-28 15:34<br>赞(0) 踩(0) | <div>当青春只剩下呐喊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1059352)<br><br>2010-06-22 18:03<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/561291)<br>倚楼听风雨。<br>2010-06-14 15:30<br>赞(1) 踩(0) | <div>反正唱完这个我就缺氧了我不知道你肺活量有多大。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/561291)<br>倚楼听风雨。<br>2010-06-14 15:30<br>赞(1) 踩(0) | <div>反正唱完这个我就缺氧了<br><br>我不知道你肺活量有多大。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207458)<br><br>2010-05-26 23:45<br>赞(0) 踩(0) | <div>break out！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207458)<br><br>2010-05-26 23:45<br>赞(0) 踩(0) | <div>break out！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/731135)<br><br>2010-04-26 20:48<br>赞(0) 踩(0) | <div>令人振奋的音乐</div> |
@@ -230,10 +230,10 @@ Drum：X<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/499102)<br>Thru the Nev<br>2013-06-28 10:28<br>赞(0) 踩(0) | <div><q><b>歌唱的石头说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2662685)<br><br>2013-06-28 11:26<br>赞(0) 踩(0) | <div><q><b>D-H-A说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29696442)<br><br>2014-09-18 14:38<br>赞(0) 踩(0) | <div><q><b>歌唱的石头说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68062)<br><br>2010-03-09 00:44<br>赞(0) 踩(0) | <div>没有错，这就是我想要的生命！为之呐喊的力量，全部的投入！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68062)<br><br>2010-03-09 00:44<br>赞(0) 踩(0) | <div>没有错，这就是我想要的生命！为之呐喊的力量，全部的投入！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68062)<br><br>2010-03-09 00:44<br>赞(0) 踩(0) | <div>没有错，这就是我想要的生命！<br>为之呐喊的力量，全部的投入！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68062)<br><br>2010-03-09 00:44<br>赞(0) 踩(0) | <div>没有错，这就是我想要的生命！<br>为之呐喊的力量，全部的投入！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/154722)<br><br>2009-11-21 15:37<br>赞(0) 踩(0) | <div>老男人唱的歌...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-10-06 14:34<br>赞(0) 踩(0) | <div>这个词很酷不是因为酷而是因为长</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-10-06 14:34<br>赞(0) 踩(0) | <div>这个词很酷<br>不是因为酷<br>而是因为长</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274373)<br><br>2009-09-05 09:29<br>赞(0) 踩(0) | <div>汪峰~~8错8错~偶一直很喜欢他的歌~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2700)<br><br>2009-07-28 10:09<br>赞(0) 踩(0) | <div>很好啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265697)<br><br>2009-07-28 09:30<br>赞(0) 踩(0) | <div>看名字就有想听的欲望~</div> |

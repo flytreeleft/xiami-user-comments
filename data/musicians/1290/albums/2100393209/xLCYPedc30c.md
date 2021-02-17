@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30395196)<br><br>2020-12-06 22:57<br>赞(0) 踩(0) | <div>我一开始以为左小声音是黄渤唱的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/732616)<br>挚爱民谣 也不拒绝丰富我...<br>2020-12-02 23:03<br>赞(0) 踩(0) | <div>说实话，我真觉得左叔一开腔 ，黄渤秒被终结，不开玩笑，这是严肃的真心话。黄渤是太想唱好了，太用心，反而显得拿腔作调，痕迹太重，不感人，特别是跟左叔一对比，碎成了渣，再说毕竟不是专业的，可以理解。喂，那些说左叔不会唱歌的，真该好好听听写首和那首乌兰巴托的夜，不知道你们什么感觉，反正这两首听得我想落泪。顺便说一声，这是我虾米写字最多的一次。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30395196)<br><br>2020-12-06 23:06<br>赞(0) 踩(0) | <div>黄渤以前是歌手。黄渤这么唱更能表现出左小的邪。</div> |
@@ -46,7 +43,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302175616)<br><br>2020-02-25 19:54<br>赞(0) 踩(0) | <div>想吐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282584876)<br><br>2020-02-25 01:35<br>赞(0) 踩(0) | <div>是济公和活佛再唱歌吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278807400)<br><br>2020-02-24 02:40<br>赞(0) 踩(0) | <div>我终于听完了，五味杂陈啊 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83076398)<br>ᠮᠥᠩᠬᠡ ᠶᠢᠨ ᠭᠠ...<br>2020-02-14 18:12<br>赞(0) 踩(0) | <div>黄渤是羊诅咒是料羊膻料冲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83076398)<br>ᠮᠥᠩᠬᠡ ᠶᠢᠨ ᠭᠠ...<br>2020-02-14 18:12<br>赞(0) 踩(0) | <div>黄渤是羊<br>诅咒是料<br>羊膻<br>料冲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278915722)<br>伤心情歌<br>2020-02-06 12:30<br>赞(1) 踩(0) | <div>听到这首歌莫名的忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376432188)<br>我还没想好要写什么...<br>2020-01-12 10:05<br>赞(1) 踩(0) | <div>eoksnxhdjdduuwoiddsjaojxcsosidkudhsicheiekss</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378923825)<br><br>2020-01-10 16:28<br>赞(1) 踩(0) | <div>渤祖</div> |
@@ -66,7 +63,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18715112)<br><br>2019-08-22 21:16<br>赞(1) 踩(0) | <div>反差鲜明 却又奇妙的平衡。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13853738)<br><br>2019-07-25 15:34<br>赞(3) 踩(0) | <div>按照蔡康永的话，左小祖咒唱得很松散，听了很放松</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52029625)<br>生命不息，折腾不止<br>2019-07-21 16:52<br>赞(1) 踩(0) | <div>个人感觉这是左小最能着调的演唱了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2936307)<br> <br>2019-07-14 23:30<br>赞(12) 踩(0) | <div>黄渤唱的是“天下风云出我辈”左小唱的是“一入江湖岁月催”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2936307)<br> <br>2019-07-14 23:30<br>赞(12) 踩(0) | <div>黄渤唱的是“天下风云出我辈”<br>左小唱的是“一入江湖岁月催”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43111641)<br>如果 没有你<br>2019-07-12 15:16<br>赞(5) 踩(0) | <div>居然左叔这样的音准，这样的音质，渤哥还能跟对方搭上和声，我怎么能不爱这样的渤哥！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324101586)<br>不听米真它妹无聊<br>2019-07-06 11:16<br>赞(2) 踩(0) | <div>听左小 唱歌就像喝了一瓶酒鬼酒 醉了没</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374386786)<br><br>2019-06-17 15:05<br>赞(1) 踩(0) | <div>这俩人怎么会搞到一起去了   黄渤真是越来越有意思了</div> |
@@ -186,14 +183,14 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375523430)<br><br>2018-07-31 22:31<br>赞(0) 踩(0) | <div>最害怕的是听懂一个人的声音  听懂一首歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31109532)<br>我还没想好要写什么...<br>2018-08-18 08:29<br>赞(0) 踩(0) | <div>没有左小祖咒的衬托黄渤根本唱不了那么好听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48124705)<br>无差别便不成世界<br>2018-04-21 15:00<br>赞(0) 踩(0) | <div>渤哥稳</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2018-04-20 10:08<br>赞(1) 踩(0) | <div>黄渤唱得太好了就是为了衬托左小吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2018-04-20 10:08<br>赞(1) 踩(0) | <div>黄渤唱得太好了<br>就是为了衬托左小吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339740358)<br><br>2018-04-18 11:56<br>赞(1) 踩(0) | <div>黄渤为什么没被带偏 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101026108)<br>来了……走了……<br>2018-05-29 12:53<br>赞(0) 踩(0) | <div>估计分开录的音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103581008)<br><br>2018-04-17 12:49<br>赞(3) 踩(0) | <div>歌词一剪梅，封面白玉兰？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350636325)<br>哈利路亚丶马哈马哈<br>2018-04-17 06:39<br>赞(1) 踩(0) | <div>有没有人自动屏蔽点黄渤的声音 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10082133)<br>别回复我了，你咋那么闲<br>2018-04-10 09:33<br>赞(1) 踩(0) | <div>哈哈哈也真敢唱 这脸皮得多厚啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335305322)<br>一个不太好相处的人……<br>2018-04-09 22:16<br>赞(1) 踩(0) | <div>这真的是黄渤在唱？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315755036)<br><br>2018-04-09 21:47<br>赞(2) 踩(0) | <div>黄渤你这么认真干嘛！看看人家小咒&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315755036)<br><br>2018-04-09 21:47<br>赞(2) 踩(0) | <div>黄渤你这么认真干嘛！<br>看看人家小咒&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315755036)<br><br>2018-04-09 21:45<br>赞(0) 踩(0) | <div>哈哈哈哈哈真的笑死了 评论有毒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106281872)<br><br>2018-04-09 13:26<br>赞(1) 踩(0) | <div>hhhh笑醒了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334221725)<br>音佛<br>2018-04-08 12:17<br>赞(0) 踩(0) | <div>2个唱腔搭得很好</div> |
@@ -203,7 +200,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337364925)<br>门开了，那个秘密显现，我...<br>2018-04-04 00:06<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212081921)<br> <br>2018-04-02 01:10<br>赞(0) 踩(0) | <div>好听到爆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284025150)<br> <br>2018-03-31 05:38<br>赞(1) 踩(0) | <div>为什么我的歌词是流星雨&amp;hellip;&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2028669)<br>大草原的湖边，候鸟飞回来<br>2018-03-28 11:06<br>赞(2) 踩(0) | <div>黄渤高亢，左小神秘，黄渤动感，左小迷幻，黄渤认真，左小鬼畜。这歌，哈哈了   <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2028669)<br>大草原的湖边，候鸟飞回来<br>2018-03-28 11:06<br>赞(2) 踩(0) | <div>黄渤高亢，左小神秘，<br>黄渤动感，左小迷幻，<br>黄渤认真，左小鬼畜。<br>这歌，哈哈了   <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310020342)<br><br>2018-03-27 03:34<br>赞(3) 踩(0) | <div>太难听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70998312)<br>musicproduct...<br>2018-03-22 17:51<br>赞(0) 踩(0) | <div>love forever dream forever</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284496139)<br>猝然临之而不惊 无故加之...<br>2018-03-18 22:02<br>赞(1) 踩(0) | <div>一开始听的版本是这个 后来有费玉清的综艺节目才知道他才是原唱</div> |
@@ -234,7 +231,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/499394)<br> <br>2018-02-05 19:33<br>赞(1) 踩(0) | <div>听不懂左小诅咒的还是老老实实去听荷塘月色吧&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330398042)<br><br>2018-02-05 18:33<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49028598)<br> <br>2018-02-03 00:03<br>赞(0) 踩(0) | <div>左神每次都是喝大唱法，太有风格了，越听越陶醉，抓人耳朵！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49612295)<br>我还没想好要写什么...<br>2018-02-02 13:14<br>赞(2) 踩(0) | <div>第一次听歌能听笑 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">俺真服了左左 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49612295)<br>我还没想好要写什么...<br>2018-02-02 13:14<br>赞(2) 踩(0) | <div>第一次听歌能听笑 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"><br>俺真服了左左 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204311003)<br><br>2018-01-31 11:19<br>赞(1) 踩(0) | <div>52度老白干来两瓶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331698263)<br><br>2018-01-31 01:43<br>赞(0) 踩(0) | <div>喝醉酒，听左叔的歌最有感觉了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50485579)<br>这家伙很聪明什么也没留下...<br>2018-01-30 14:33<br>赞(0) 踩(0) | <div>先听编曲再讲声音</div> |
@@ -276,20 +273,20 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333832041)<br><br>2017-11-26 16:54<br>赞(1) 踩(0) | <div>呵呵一个个装高人，左小节奏对调对！就是声音奇怪点！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331561048)<br><br>2017-11-26 09:06<br>赞(3) 踩(0) | <div>听说有个叫费玉清的人翻唱了这首歌 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337078601)<br>伍千萬頓TNT<br>2017-11-25 10:14<br>赞(1) 踩(0) | <div>黄渤唱的确实不赖啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50645021)<br>有时直上孤峰顶，月下披云...<br>2017-11-23 20:41<br>赞(1) 踩(0) | <div>静静听一个人的歌，就像看着一个人悄然拉着一个黑色旅行箱去机场、去车站。你不知他是去看一个人还是去接一个人，却明白他是怀着一份深情在走。也许他要看的人已经不在了，走着的他让你感觉那人还在。犹如在月光下，你会感觉光影婆娑的那些树、那些风、那种空明，就是你的皈依。每一份深情都是一株梅，曾经把它的香隐隐约约洒满你的院子里。每一朵小花都是一颗心，一个人。就在那一季，那段日子，它那么竭力把它的芬芳从大地中汲取起来，沿着它多须的根，遒劲的干，输送到每一枝。而后以做弥撒的虔诚，持续散播它清清浅浅的香。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50645021)<br>有时直上孤峰顶，月下披云...<br>2017-11-23 20:39<br>赞(125) 踩(0) | <div>.左小祖咒唱歌的颠覆性，在于他与众不同的声线和演唱方式，不在旋律和配器。至于他唱的好不好，韩寒的形容最贴切：&amp;ldquo;酒后不能驾车，但是酒后可以唱歌&amp;rdquo;。左小祖咒唱歌的妙处，不可用旋律声调是否优美去打量，而是感情的表达，那种率真而收敛，灼热而绵邈，一般人做不到。就像深爱一个人到魂牵梦绕，却不纠缠、不癫狂、不燃火，就那么每天坐在你经过的路边看着你，一任大火在内心烧自己。黄渤呢，其妙处也不在于唱歌，而在于唱歌是他的业余长项。做演员成名之后再回来偶尔唱歌，原先多年铺下的底子就亮出来了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50645021)<br>有时直上孤峰顶，月下披云...<br>2017-11-23 20:41<br>赞(1) 踩(0) | <div>静静听一个人的歌，就像看着一个人悄然拉着一个黑色旅行箱去机场、去车站。你不知他是去看一个人还是去接一个人，却明白他是怀着一份深情在走。<br>也许他要看的人已经不在了，走着的他让你感觉那人还在。<br>犹如在月光下，你会感觉光影婆娑的那些树、那些风、那种空明，就是你的皈依。<br>每一份深情都是一株梅，曾经把它的香隐隐约约洒满你的院子里。每一朵小花都是一颗心，一个人。就在那一季，那段日子，它那么竭力把它的芬芳从大地中汲取起来，沿着它多须的根，遒劲的干，输送到每一枝。而后以做弥撒的虔诚，持续散播它清清浅浅的香。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50645021)<br>有时直上孤峰顶，月下披云...<br>2017-11-23 20:39<br>赞(125) 踩(0) | <div>.<br>左小祖咒唱歌的颠覆性，在于他与众不同的声线和演唱方式，不在旋律和配器。<br>至于他唱的好不好，韩寒的形容最贴切：&amp;ldquo;酒后不能驾车，但是酒后可以唱歌&amp;rdquo;。<br>左小祖咒唱歌的妙处，不可用旋律声调是否优美去打量，而是感情的表达，那种率真而收敛，灼热而绵邈，一般人做不到。就像深爱一个人到魂牵梦绕，却不纠缠、不癫狂、不燃火，就那么每天坐在你经过的路边看着你，一任大火在内心烧自己。<br>黄渤呢，其妙处也不在于唱歌，而在于唱歌是他的业余长项。做演员成名之后再回来偶尔唱歌，原先多年铺下的底子就亮出来了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47642240)<br><br>2018-01-23 21:17<br>赞(0) 踩(0) | <div>再装逼我打你啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50410548)<br>(☌̮ꌁ☌̮)略略略<br>2018-05-06 10:35<br>赞(0) 踩(0) | <div>牛逼，哈哈哈哈哈哈哈哈哈哈。我都信了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45007822)<br><br>2018-05-28 15:13<br>赞(0) 踩(0) | <div>这个描述虽然很装逼但是很真实</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402795620)<br><br>2018-09-15 00:55<br>赞(0) 踩(0) | <div>你曾经见过江流水涌吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4321873)<br>民謠搖滾獨立音樂電子爵士<br>2020-06-27 19:37<br>赞(0) 踩(0) | <div>很喜欢倒数第二段</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50645021)<br>有时直上孤峰顶，月下披云...<br>2017-11-23 20:37<br>赞(3) 踩(0) | <div>活着，可以低八度，举步维艰，如左小祖咒这样的黑黑系；也可以高天流云，夜行八千，如黄渤这样的明媚系。生活的原汁原味，就这样一点点在歌里渗出来了。沉醉不知归处，有时候是因为溪亭日暮，有时候则是因为春归无觅处。又像是做题目，不在一个坐标系的一般人做不来，能做出来的，像黄渤和左小祖咒做出的这道，自有迷人处。面对左小祖咒的调，一般人早跑到美国西部去了，黄渤竟然还能找着自己的调，合上两人的调，这要多强的就低呵护内力。张力，其实是活力；而活力，实际是生命力。自带生命力的人，会让黑炭变成光。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50645021)<br>有时直上孤峰顶，月下披云...<br>2017-11-23 20:36<br>赞(5) 踩(0) | <div>《一剪梅》听过张明敏唱的、费玉清的、黑鸭子的、曹颖的、高胜美的、马蕊的、阿木的、吕思清的、张恒的，从未听过这种格调的。但是，很多觉得不可思议的东西，走着走着就互相连接了。就像春过无痕，夏过无迹，走着走着就到秋天了。听着听着这首歌，就有味道出来了。不知不觉就在沉浸中接受了、悦纳了。黄渤的声音有雪中寒梅悄然暗香的感觉，而左小祖咒的哼唱，就像一个落寞由心存温暖的人，顶着寒风坐在马路牙子上自言自语。两厢链接，同时两相映衬，就有了梦和现实感、美好与荒诞感、心悦与苦涩感。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50645021)<br>有时直上孤峰顶，月下披云...<br>2017-11-23 20:33<br>赞(2) 踩(0) | <div>把那首《我不能悲伤地坐在你身旁》唱得一地金色，且能作曲、能写词、精吉他、会提琴、擅绘画、获得多项摇滚大奖的左小祖咒，毕竟不是个凡角，作为一个黑色的存在，就那么咯人石头子一般地在着，就是这首歌的一抹绚烂了。万物相通&amp;mdash;&amp;mdash;在色彩学里，黑色可以是缺少光所致，如漆黑的夜晚；也可以是吸收了所有的色光造成，如黑色的瞳孔。所以它最虚空，也最丰富。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50645021)<br>有时直上孤峰顶，月下披云...<br>2017-11-23 20:37<br>赞(3) 踩(0) | <div>活着，可以低八度，举步维艰，如左小祖咒这样的黑黑系；也可以高天流云，夜行八千，如黄渤这样的明媚系。生活的原汁原味，就这样一点点在歌里渗出来了。<br>沉醉不知归处，有时候是因为溪亭日暮，有时候则是因为春归无觅处。<br>又像是做题目，不在一个坐标系的一般人做不来，能做出来的，像黄渤和左小祖咒做出的这道，自有迷人处。<br>面对左小祖咒的调，一般人早跑到美国西部去了，黄渤竟然还能找着自己的调，合上两人的调，这要多强的就低呵护内力。<br>张力，其实是活力；而活力，实际是生命力。自带生命力的人，会让黑炭变成光。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50645021)<br>有时直上孤峰顶，月下披云...<br>2017-11-23 20:36<br>赞(5) 踩(0) | <div>《一剪梅》<br>听过张明敏唱的、费玉清的、黑鸭子的、曹颖的、高胜美的、马蕊的、阿木的、吕思清的、张恒的，从未听过这种格调的。<br>但是，很多觉得不可思议的东西，走着走着就互相连接了。就像春过无痕，夏过无迹，走着走着就到秋天了。听着听着这首歌，就有味道出来了。不知不觉就在沉浸中接受了、悦纳了。<br>黄渤的声音有雪中寒梅悄然暗香的感觉，而左小祖咒的哼唱，就像一个落寞由心存温暖的人，顶着寒风坐在马路牙子上自言自语。两厢链接，同时两相映衬，就有了梦和现实感、美好与荒诞感、心悦与苦涩感。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50645021)<br>有时直上孤峰顶，月下披云...<br>2017-11-23 20:33<br>赞(2) 踩(0) | <div>把那首《我不能悲伤地坐在你身旁》唱得一地金色，且能作曲、能写词、精吉他、会提琴、擅绘画、获得多项摇滚大奖的左小祖咒，毕竟不是个凡角，作为一个黑色的存在，就那么咯人石头子一般地在着，就是这首歌的一抹绚烂了。<br>万物相通&amp;mdash;&amp;mdash;在色彩学里，黑色可以是缺少光所致，如漆黑的夜晚；也可以是吸收了所有的色光造成，如黑色的瞳孔。所以它最虚空，也最丰富。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313008508)<br>这家伙很聪明什么也没留下...<br>2017-11-23 17:23<br>赞(2) 踩(0) | <div>这俩声音组合在一起简直太魔性了！百听不厌啊！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145993368)<br>都是朕的、、、<br>2017-11-21 18:27<br>赞(3) 踩(0) | <div>每次别人说我唱的烂，我总会放左大叔给他们听！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295167277)<br> <br>2017-11-16 11:53<br>赞(2) 踩(0) | <div>左哥 你能再低点吗？ <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23630226)<br><br>2017-11-16 04:54<br>赞(3) 踩(0) | <div>试着用万念俱灰的心情去欣赏左小。万念俱灰的你，望着无尽的海，一阵浪，一阵风，手里提溜着一瓶酒，想着，念着，然后哭着，诉说着，最后唱着，就能听懂左小祖咒了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23630226)<br><br>2017-11-16 04:54<br>赞(3) 踩(0) | <div>试着用万念俱灰的心情去欣赏左小。<br>万念俱灰的你，望着无尽的海，一阵浪，一阵风，手里提溜着一瓶酒，想着，念着，然后哭着，诉说着，最后唱着，就能听懂左小祖咒了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50687406)<br><br>2019-03-19 19:24<br>赞(0) 踩(0) | <div>比如失恋了就会理解</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44267015)<br> <br>2017-11-11 21:23<br>赞(2) 踩(0) | <div>这首歌的亮点不是在左小嘛？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199367292)<br><br>2017-11-09 00:37<br>赞(0) 踩(0) | <div>厉害</div> |
@@ -306,7 +303,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49824471)<br>愿美好芳菲一世 与不堪握...<br>2017-10-27 23:48<br>赞(1) 踩(0) | <div>第一次听左小祖咒的歌，在想这人有病吧唱成这样还发专辑，但听到这首歌感觉陷入了魔咒，一直循环，他的声音就好像一个历经沧桑的男人低低的讲述他的故事，顺便说句，黄渤确实是全能，智商情商都高，简直我男神</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6443220)<br> <br>2017-10-27 23:48<br>赞(2) 踩(0) | <div>能有机会听到这么难听的合唱 唯一的能想到的原因可能是开心麻花故意安排的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286775451)<br><br>2017-10-27 23:39<br>赞(1) 踩(0) | <div>毫无违和感！我是真的不懂得应该怎样去欣赏左小祖咒的唱法，但莫名的不反感！</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23630226)<br><br>2017-11-16 04:51<br>赞(0) 踩(0) | <div>试着用万念俱灰的心情去欣赏！万念俱灰的你，望着无尽的海，手里留着一瓶酒，想着，念着，哭着，诉说着，唱着就能听懂左小祖咒了。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23630226)<br><br>2017-11-16 04:51<br>赞(0) 踩(0) | <div>试着用万念俱灰的心情去欣赏！<br>万念俱灰的你，望着无尽的海，手里留着一瓶酒，想着，念着，哭着，诉说着，唱着就能听懂左小祖咒了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11078314)<br>暂无签名~<br>2017-10-27 23:33<br>赞(3) 踩(0) | <div>有左小诅咒更显得黄渤好卖力啊好玉树临风啊哈哈哈然而到后来越来越没存在感了是怎么回事好可怜摸摸头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14271765)<br>这个家伙很牛逼什么也没有...<br>2017-10-27 22:58<br>赞(4) 踩(0) | <div>左小祖咒是来衬托黄渤的吗哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5999657)<br>我还没想好要写什么...<br>2017-10-27 22:57<br>赞(3) 踩(0) | <div>黄渤唱歌太棒了，居然也听得惯左小祖咒的唱腔了…</div> |
@@ -423,7 +420,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279272931)<br><br>2017-03-22 17:33<br>赞(0) 踩(0) | <div>1分45秒，爱我所爱黄渤明显被左带偏了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47169885)<br>这家伙很聪明什么也没留下...<br>2017-04-09 10:19<br>赞(0) 踩(0) | <div>是4分27秒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86509500)<br>点击不编辑<br>2017-03-18 08:43<br>赞(0) 踩(0) | <div>哈哈哈哈哈依旧好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72936)<br>汝身重生是吾乡<br>2017-03-18 00:49<br>赞(0) 踩(0) | <div>南国的冬天都是这么难过的么？我问一个叫梅的女子梅只问我今天我美不美</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72936)<br>汝身重生是吾乡<br>2017-03-18 00:49<br>赞(0) 踩(0) | <div>南国的冬天都是这么难过的么？<br>我问一个叫梅的女子<br><br>梅只问我<br>今天我美不美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3336291)<br>假装不是龙猫的身材<br>2017-03-14 21:53<br>赞(1) 踩(0) | <div>你快唱，我把小哥的棺材板（大雾）压住了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12518707)<br> <br>2017-03-14 10:03<br>赞(0) 踩(0) | <div>谁能告诉我，诅咒是故意这样唱腔的还是原本的声音</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51607444)<br><br>2017-05-04 10:31<br>赞(0) 踩(0) | <div>就是这种唱腔，听个五六年你会爱上的</div> |
@@ -707,7 +704,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11339762)<br>haha<br>2015-11-22 20:13<br>赞(0) 踩(0) | <div>哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85022396)<br><br>2015-11-22 14:13<br>赞(0) 踩(0) | <div>其实黄渤唱歌真心不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12280658)<br><br>2015-11-22 10:34<br>赞(0) 踩(0) | <div>有毒 我也只是循环了半小时而已...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7328096)<br>黑凤梨<br>2015-11-22 10:04<br>赞(3) 踩(0) | <div>在黄渤后面唱的那是个什么玩意儿？？乍一听，这特么起码给导演送了4个面包机啊！！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7328096)<br>黑凤梨<br>2015-11-22 10:04<br>赞(3) 踩(0) | <div>在黄渤后面唱的那是个什么玩意儿？？<br><br>乍一听，这特么起码给导演送了4个面包机啊！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79563964)<br><br>2015-11-21 11:11<br>赞(3) 踩(0) | <div>黄渤是万能的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71457588)<br> <br>2015-11-21 00:22<br>赞(0) 踩(0) | <div>我左叔棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1066428)<br> <br>2015-11-20 20:56<br>赞(0) 踩(0) | <div>妈蛋谁想出来的！让这对儿XX唱这么柔的歌！笑死！</div> |
@@ -1206,8 +1203,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7127226)<br>自由，自由<br>2015-10-09 15:21<br>赞(0) 踩(0) | <div>巨好听，编的好，正邪搭配</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16427791)<br>暂无签名~<br>2015-10-09 15:19<br>赞(4) 踩(0) | <div>好魔性的一剪梅！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1011672)<br>虾米除了歌，其他都是垃圾<br>2015-10-09 13:36<br>赞(2) 踩(0) | <div>唱的真好  两人都棒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634707)<br><br>2015-10-09 13:31<br>赞(0) 踩(0) | <div>推荐大家一个很好的古琴分享网站，不定期更新琴曲欣赏，琴谱，和古琴教学视频哟：）<a href="http://site.douban.com/zuoqinzhi/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/zuoqinzhi/</a></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634707)<br><br>2015-10-09 13:31<br>赞(0) 踩(0) | <div>推荐大家一个很好的古琴分享网站，不定期更新琴曲欣赏，琴谱，和古琴教学视频哟：）<a href="http://site.douban.com/zuoqinzhi/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/zuoqinzhi/</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634707)<br><br>2015-10-09 13:31<br>赞(0) 踩(0) | <div>推荐大家一个很好的古琴分享网站，不定期更新琴曲欣赏，琴谱，和古琴教学视频哟：）<br><a href="http://site.douban.com/zuoqinzhi/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/zuoqinzhi/</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634707)<br><br>2015-10-09 13:31<br>赞(0) 踩(0) | <div>推荐大家一个很好的古琴分享网站，不定期更新琴曲欣赏，琴谱，和古琴教学视频哟：）<br><a href="http://site.douban.com/zuoqinzhi/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/zuoqinzhi/</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36734325)<br>信仰？你在开玩笑吗？<br>2015-10-09 13:14<br>赞(0) 踩(0) | <div>作孽啊，真是，就知道这是报应，我怎么生了你这个不孝子，以后不要叫我爹了，我没你这个儿子，滚 <img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"> <img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"> <img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33680235)<br>我还没想好要写什么...<br>2015-10-09 12:50<br>赞(0) 踩(0) | <div>有没有跟我从头笑到尾。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11416610)<br>我就笑笑不说话~~<br>2015-10-09 12:34<br>赞(0) 踩(0) | <div>呵呵~</div> |
@@ -1391,7 +1388,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65271602)<br> <br>2015-10-06 01:14<br>赞(2) 踩(0) | <div>我就奇怪了 有多少人懂左小的歌曲 就来说他怎么怎么了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46885374)<br><br>2015-10-06 00:59<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2432851)<br>伊本豪森<br>2015-10-06 00:55<br>赞(3) 踩(0) | <div>看完夏洛特，这歌在脑子里挥不去了……</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50399600)<br><br>2015-10-06 09:00<br>赞(0) 踩(0) | <div>看完我竟然不知道电影里有这首歌<img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50399600)<br><br>2015-10-06 09:00<br>赞(0) 踩(0) | <div>看完我竟然不知道电影里有这首歌<br><img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57169424)<br><br>2015-10-06 09:29<br>赞(0) 踩(0) | <div><q><b>UI说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13545370)<br>优美的低于生活。<br>2015-10-06 00:51<br>赞(2) 踩(0) | <div>小号听得我整个人都爽翻。左小祖咒大概是极少数跑调跑到西伯利亚还能有我喜欢的作品的音乐人了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43701286)<br>高高拎起 轻轻放低<br>2015-10-06 00:41<br>赞(1) 踩(0) | <div>黄渤快唱哭了，哈哈哈哈哈哈哈哈哈哈</div> |
@@ -1504,7 +1501,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11949435)<br>人有脚，不肯走路做什么。<br>2015-10-02 23:59<br>赞(0) 踩(0) | <div>不要辣么严肃好不好，哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583212)<br><br>2015-10-02 23:47<br>赞(0) 踩(0) | <div>一直对左小的声音不太感冒，但这首左小的声音一响起就进入那种深情愁绪的感觉……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4374404)<br><br>2015-10-02 23:33<br>赞(0) 踩(0) | <div>#夏洛特烦恼#也太好看了啦！！开心麻花棒棒哒！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11406810)<br>慢慢等<br>2015-10-02 23:16<br>赞(1) 踩(0) | <div>高虎声音这么像黄渤呢！<img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11406810)<br>慢慢等<br>2015-10-02 23:16<br>赞(1) 踩(0) | <div>高虎声音这么像黄渤呢！<br><br><br><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71189920)<br><br>2015-10-02 22:50<br>赞(1) 踩(0) | <div>听的我都要爱上黄渤了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5751126)<br> <br>2015-10-02 22:48<br>赞(0) 踩(0) | <div>心意所在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4728694)<br> <br>2015-10-02 22:39<br>赞(0) 踩(0) | <div>黄渤咋和我左小搞到一块去了</div> |
@@ -1827,7 +1824,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29410711)<br>学海无涯，回头是岸。<br>2018-04-18 18:34<br>赞(0) 踩(0) | <div>就当评书听。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270128257)<br>名字是我不想放下的累赘<br>2018-04-21 18:35<br>赞(0) 踩(0) | <div>云遮月</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41311434)<br>别问我是谁<br>2018-05-21 21:03<br>赞(0) 踩(0) | <div><q><b>★§汗斯㈡ㄣ说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29285843)<br>潜鱼水底传心诀，栖鸟枝头...<br>2018-06-06 19:13<br>赞(0) 踩(0) | <div>试解：艺术家选择和理解&amp;ldquo;到达真实的路径&amp;rdquo;不一样，就像星爷说早期看别人表演想笑，说太假了，然后他摸索出来无厘头的表演方式。然而无厘头就演的真么？不，其实看上去更假。但这个&amp;ldquo;假&amp;rdquo;反而赢得了世人的追捧，因为它达到了艺术的真&amp;mdash;&amp;mdash;那种肆意夸张的肢体语言、刻意的对白、天马行空的场景等，令人啼笑之外，传达出一种深沉悲哀和无奈，从而引起人们的共鸣。这种&amp;ldquo;以笑为哭&amp;rdquo;的方式，其实隐藏着深刻的痛楚和偏执的不妥协，这是艺术家的性格和天才使然，同时也使得他的作品蕴含着深刻的艺术张力。返观左小祖咒，他的嗓音与腔调虽然违背了惯常的音乐审美，但却并不影响他的作品达到艺术真实，在这个角度上，他拓宽了人们的审美，因为艺术即真。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29285843)<br>潜鱼水底传心诀，栖鸟枝头...<br>2018-06-06 19:13<br>赞(0) 踩(0) | <div>试解：<br>艺术家选择和理解&amp;ldquo;到达真实的路径&amp;rdquo;不一样，就像星爷说早期看别人表演想笑，说太假了，然后他摸索出来无厘头的表演方式。然而无厘头就演的真么？不，其实看上去更假。但这个&amp;ldquo;假&amp;rdquo;反而赢得了世人的追捧，因为它达到了艺术的真&amp;mdash;&amp;mdash;那种肆意夸张的肢体语言、刻意的对白、天马行空的场景等，令人啼笑之外，传达出一种深沉悲哀和无奈，从而引起人们的共鸣。这种&amp;ldquo;以笑为哭&amp;rdquo;的方式，其实隐藏着深刻的痛楚和偏执的不妥协，这是艺术家的性格和天才使然，同时也使得他的作品蕴含着深刻的艺术张力。返观左小祖咒，他的嗓音与腔调虽然违背了惯常的音乐审美，但却并不影响他的作品达到艺术真实，在这个角度上，他拓宽了人们的审美，因为艺术即真。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338768145)<br>人，要么庸俗，要么孤独！<br>2018-06-11 01:59<br>赞(0) 踩(0) | <div><q><b>Oak说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/624392)<br>红尘多可笑<br>2018-12-01 14:02<br>赞(0) 踩(0) | <div>从声音最本质的作用来看，左小诅咒的更多是通过声音传递个性，有人听歌是听歌词，有人是听音色。说白了，都是声音。所谓音乐不也是声音么，只是编排的规则和想表达的方式不同。风的声音，雨的声音，虽然不同于我们严格编排出来的音乐，但同样有让人着迷的地方。你就把左小的声音当作一种自然原始的方声音来听好了，挺魔性，但忍不住想听听</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10180228)<br><br>2019-02-22 10:59<br>赞(0) 踩(0) | <div>请问，当一个八九岁的小孩子如何读懂红楼梦呢？</div> |

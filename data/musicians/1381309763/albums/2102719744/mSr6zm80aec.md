@@ -36,5 +36,3 @@ Here I am here I am how do you do
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

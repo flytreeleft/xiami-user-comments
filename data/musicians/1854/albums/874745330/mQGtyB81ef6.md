@@ -29,8 +29,8 @@ They hit it off in the night
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2659823)<br>人間發電所<br>2014-08-14 19:04<br>赞(0) 踩(0) | <div>民俗味儿浓，但感觉有点儿往佛那边儿跑...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1588558)<br>我的精选集里混入了一些奇...<br>2014-08-14 17:59<br>赞(0) 踩(0) | <div>器乐使用有想法，民族气质有了，而double bass的加入尤其惊艳。不过个人感觉录音太干净，画面感不足。当然你也可以说它有极简倾向。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12852028)<br>国家级爱情退堂鼓专业鼓手...<br>2014-08-13 15:50<br>赞(0) 踩(0) | <div>浓浓的民俗风 我只是觉得我逼格不够高不太懂</div> |

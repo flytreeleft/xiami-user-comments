@@ -58,8 +58,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21845496)<br><br>2013-09-13 12:26<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/875768)<br><br>2010-12-02 12:30<br>赞(0) 踩(0) | <div>不用说我们是朋友</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175713)<br><br>2010-11-25 23:09<br>赞(0) 踩(0) | <div>好听。</div> |

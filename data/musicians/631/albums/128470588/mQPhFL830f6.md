@@ -52,9 +52,9 @@ Some time
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-17 18:59<br>赞(0) 踩(0) | <div>從來都沒有成功為這首歌的名字提供一個中文翻譯；Vancouver Skyline（溫哥華天線？！）。第一次出版是2003年，12年後在《Crossroads》專輯重新灌錄，請來好友Ketchup合唱。圖為幾年前帶媽媽一同去加拿大工作，黃昏時在溫哥華一個公園拍的。&amp;lsquo;寒梅定能傲雪&amp;rsquo;這句歌詞來自很久以前的一首由關正傑先生演唱的作品《雪中情》，意味思念的人的情操高尚，能抵得過遠方的寒冷，我拿了這一句發展成現在大家通道聽到的VC2015：思念不輕易，有時我們需要的，只是一點實際的溫暖。&amp;mdash;&amp;mdash;一峰 20200817于微博</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-17 18:59<br>赞(0) 踩(0) | <div>從來都沒有成功為這首歌的名字提供一個中文翻譯；Vancouver Skyline（溫哥華天線？！）。第一次出版是2003年，12年後在《Crossroads》專輯重新灌錄，請來好友Ketchup合唱。圖為幾年前帶媽媽一同去加拿大工作，黃昏時在溫哥華一個公園拍的。<br><br>&amp;lsquo;寒梅定能傲雪&amp;rsquo;這句歌詞來自很久以前的一首由關正傑先生演唱的作品《雪中情》，意味思念的人的情操高尚，能抵得過遠方的寒冷，我拿了這一句發展成現在大家通道聽到的VC2015：思念不輕易，有時我們需要的，只是一點實際的溫暖。&amp;mdash;&amp;mdash;一峰 20200817于微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46491759)<br>读书、赚钱、睡觉、恋爱竟...<br>2019-03-14 10:06<br>赞(0) 踩(0) | <div>似曾相识你归来～❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1693503)<br><br>2016-06-02 00:55<br>赞(1) 踩(0) | <div>一般要飞的时候就想听一峰，大概觉得很自由吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33784810)<br>我还没想好要写什么...<br>2015-06-16 13:56<br>赞(0) 踩(0) | <div>visual studio c 2015吗？ <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |

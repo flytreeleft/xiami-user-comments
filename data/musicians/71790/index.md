@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/03a47edc6f7ad65a023a7368265dd8a8.jpg)<br>吴彤](https://i.xiami.com/wutong) | **播放数**: 12848911<br>**粉丝数**: 7057<br>**评论数**: 187<br>**地区**: China 中国大陆<br>**风格**: 古典跨界 Classical Crossover<br> |
+| [![](../../images/musicians/03a47edc6f7ad65a023a7368265dd8a8.jpg)<br>吴彤](https://i.xiami.com/wutong) | **地区**: China 中国大陆<br>**风格**: 古典跨界 Classical Crossover<br>**播放数**: 12848911<br>**粉丝数**: 7057<br>**评论数**: 187<br> |
 
 ## 档案
 
@@ -40,9 +40,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2449863)<br><br>2021-01-07 17:24<br>赞(0) 踩(0) | <div>35岁以前喜欢唐朝，魔岩三杰、Metallica35岁以后唯一没有改变的是对吴彤和许巍的着迷</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2449863)<br><br>2021-01-07 17:24<br>赞(0) 踩(0) | <div>35岁以前喜欢唐朝，魔岩三杰、Metallica<br>35岁以后唯一没有改变的是对吴彤和许巍的着迷</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-15 11:17<br>赞(0) 踩(0) | <div>43092</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2242564)<br>我还没想好要写什么...<br>2020-11-25 02:22<br>赞(0) 踩(0) | <div>太传奇了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124564694)<br><br>2020-10-15 15:51<br>赞(0) 踩(0) | <div>大神 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
@@ -62,9 +62,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220427802)<br> <br>2019-04-08 22:44<br>赞(1) 踩(0) | <div>卷睫盼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43492923)<br>行到水穷我才开始害怕，夕...<br>2019-04-08 15:01<br>赞(1) 踩(0) | <div>吴彤牛逼。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18292024)<br>最不屑一顾是相思<br>2019-04-05 01:37<br>赞(1) 踩(0) | <div>一直觉得他的声音很特别……后来才知道原来听过的轮回乐队是他主场……再后来知道了在国外扬名～真是厉害了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45704193)<br> <br>2019-04-02 10:32<br>赞(1) 踩(0) | <div>春光灿烂，2019.等待2020的春光。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45704193)<br> <br>2019-04-02 10:32<br>赞(1) 踩(0) | <div>春光灿烂，2019.<br>等待2020的春光。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3566813)<br>菩萨，祝您身体健康！34...<br>2019-02-04 19:49<br>赞(0) 踩(0) | <div>远山听了这么久，竟然没关注，失敬</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2019-02-02 10:47<br>赞(20) 踩(0) | <div>如果你觉得他只是一位流行音乐歌手，你错了——注意他是著名的笙（民乐）演奏家。如果你觉得他只是会演奏民族乐器的流行音乐歌手，你又错了——注意他曾参与创作王家卫《东邪西毒》终极版的配乐。如果你觉得他只是会演奏笙且会作曲的流行音乐歌手，你又又错了——注意他曾组建中国早期的摇滚乐队之一轮回乐队。如果你觉得……所谓跨界音乐人，当如是。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2019-02-02 10:47<br>赞(20) 踩(0) | <div>如果你觉得他只是一位流行音乐歌手，你错了——注意他是著名的笙（民乐）演奏家。<br>如果你觉得他只是会演奏民族乐器的流行音乐歌手，你又错了——注意他曾参与创作王家卫《东邪西毒》终极版的配乐。<br>如果你觉得他只是会演奏笙且会作曲的流行音乐歌手，你又又错了——注意他曾组建中国早期的摇滚乐队之一轮回乐队。<br>如果你觉得……<br><br>所谓跨界音乐人，当如是。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7001081)<br><br>2019-01-17 07:37<br>赞(0) 踩(0) | <div>吴彤是音乐家，演奏家</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353744624)<br>吹灭读书灯，一身都是月。<br>2018-11-12 13:00<br>赞(2) 踩(0) | <div>自从摇滚乐伊始，吴老师的歌声一直是多年来随身播放设备和车里的必备！那声音萦绕里，不但可以找到曾经年少的不羁，岁月静好的沧桑，而且还可以在倦怠时重燃斗志的昂扬和血脉贲张！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29345374)<br>大道合乎自然<br>2018-08-23 09:25<br>赞(0) 踩(0) | <div>我比你小，我爱你</div> |
@@ -183,14 +183,14 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/722837)<br>886<br>2015-03-03 19:13<br>赞(0) 踩(0) | <div>儿子！这人的名字真的和你一样耶</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6515158)<br>weibo：杯砸_aer...<br>2015-03-03 22:57<br>赞(0) 踩(0) | <div><q><b>已注销说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48243492)<br><br>2015-03-26 22:14<br>赞(0) 踩(0) | <div>我也是。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4323514)<br>凡所有相，皆是虚妄<br>2015-03-03 11:35<br>赞(0) 踩(0) | <div>话说 吴京演得那部张三丰还是方世玉 是他唱的主题曲么？卞留念作曲的那个···叫 英雄谁属 好像··</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4323514)<br>凡所有相，皆是虚妄<br>2015-03-03 11:35<br>赞(0) 踩(0) | <div>话说 吴京演得那部张三丰还是方世玉 是他唱的主题曲么？<br>卞留念作曲的那个···叫 英雄谁属 好像··</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208655)<br><br>2015-02-14 20:09<br>赞(0) 踩(0) | <div>因为他吹的笙。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4191843)<br>物欲时代坚守灵魂<br>2015-01-25 17:57<br>赞(0) 踩(0) | <div>他不在轮回之后多年没怎么关注，没想到已成为跨界音乐大师</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5763539)<br>我还没想好要写什么...<br>2014-11-18 18:59<br>赞(0) 踩(0) | <div>没错就是我123~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7740898)<br>有音乐就不会有世界末日<br>2014-05-28 23:41<br>赞(0) 踩(0) | <div>不知道有谁还记得小时候有个电视剧《上海沧桑》的，主题曲就是吴彤唱的，听的如此如醉！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/563562)<br>How we roll<br>2014-05-26 11:08<br>赞(0) 踩(0) | <div>笙音这首太棒了.......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/684222)<br>只有偶然相遇触碰了心里<br>2014-05-05 13:47<br>赞(0) 踩(0) | <div>贵族气质，他真有。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6451950)<br> <br>2014-04-11 20:04<br>赞(1) 踩(0) | <div>为什么没有聊斋志异的《姑妄言之姑听之》%&amp;gt;_&amp;lt;%</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6451950)<br> <br>2014-04-11 20:04<br>赞(1) 踩(0) | <div>为什么没有聊斋志异的《姑妄言之姑听之》<br>%&amp;gt;_&amp;lt;%</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35783)<br>身体给雨，灵魂给风。<br>2014-02-17 17:58<br>赞(2) 踩(0) | <div>刚才我说吴彤上我是歌手的话会很有看点，掌自己嘴~！刚看了吴彤官网，如今他是活跃在国际上的音乐家。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35783)<br>身体给雨，灵魂给风。<br>2014-02-17 17:37<br>赞(1) 踩(0) | <div>完全高大上了。力挺。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/857997)<br>人类和植物一样幸福<br>2013-12-02 21:39<br>赞(89) 踩(0) | <div>原来春光灿烂猪八戒是你唱的   太熟悉了  这个电视剧确定了我的恋爱观。谢谢你啊。</div> |
@@ -222,7 +222,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226721)<br><br>2011-10-05 19:31<br>赞(0) 踩(0) | <div>喜欢我行我路~斯巴鲁有点眼光~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4436511)<br><br>2011-06-26 10:16<br>赞(0) 踩(0) | <div>有啊，我云呵呵，最喜欢这首</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4436511)<br><br>2011-06-26 10:15<br>赞(0) 踩(0) | <div>上面怎么没有春秋配？遗憾</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2014-11-19 11:17<br>赞(0) 踩(0) | <div>春秋配-吴彤, 春秋配MP3下载,歌词下载 - 虾米音乐<a href="http://www.xiami.com/song/1769781664?spm=a1z1s.6659513.0.0.g6oiXo" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1769781664?spm=a1z1s.6659513.0.0.g6oiXo</a></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2014-11-19 11:17<br>赞(0) 踩(0) | <div>春秋配-吴彤, 春秋配MP3下载,歌词下载 - 虾米音乐<br><a href="http://www.xiami.com/song/1769781664?spm=a1z1s.6659513.0.0.g6oiXo" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1769781664?spm=a1z1s.6659513.0.0.g6oiXo</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4436511)<br><br>2011-06-26 10:13<br>赞(0) 踩(0) | <div>就是喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4130343)<br><br>2011-06-01 00:46<br>赞(0) 踩(0) | <div>音色好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173555)<br><br>2011-05-06 00:06<br>赞(0) 踩(0) | <div>真是有唱功的歌手</div> |

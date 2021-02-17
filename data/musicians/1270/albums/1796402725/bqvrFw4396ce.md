@@ -45,29 +45,29 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11264865)<br>暂无签名~<br>2020-11-21 03:57<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44026816)<br>小虾米，爱你哦！<br>2020-08-24 23:05<br>赞(2) 踩(0) | <div>吱吱呀呀，又有点左的 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png">曲，词，唱&amp;hellip;&amp;hellip;哈哈。怎么有点撞了梁亦源？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169259438)<br>我还没想好要写什么...<br>2020-07-23 00:53<br>赞(2) 踩(0) | <div>其实不必的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440794371)<br><br>2020-07-12 23:15<br>赞(1) 踩(0) | <div>失去恋爱，悲从中来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421160053)<br><br>2020-06-12 21:59<br>赞(0) 踩(0) | <div>今天妈告诉了我一个不幸的消息，家里一棵八載红梅被施工队毁了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273034482)<br><br>2020-05-20 14:33<br>赞(0) 踩(0) | <div>Re. 14</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299102188)<br>这是一个塑料袋 不是大海<br>2020-05-12 18:21<br>赞(0) 踩(0) | <div>想起一生后悔的事情梅花就会落满南山</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299102188)<br>这是一个塑料袋 不是大海<br>2020-05-12 18:21<br>赞(0) 踩(0) | <div>想起一生后悔的事情<br>梅花就会落满南山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11264865)<br>暂无签名~<br>2020-05-12 07:56<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11264865)<br>暂无签名~<br>2020-05-02 02:23<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145902426)<br>自在如风。<br>2020-05-01 12:50<br>赞(2) 踩(0) | <div>曲子太好听了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/540665)<br><br>2020-02-07 16:44<br>赞(4) 踩(0) | <div>李文亮医生！走好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261885122)<br> <br>2019-12-27 16:05<br>赞(1) 踩(0) | <div>前一阵刚在豆瓣标记了张枣的诗，巧了!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102826418)<br>你总是将我丢下<br>2019-12-12 23:46<br>赞(2) 踩(0) | <div>眼睛一定是累了镜中一会儿是她 一会儿是自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102826418)<br>你总是将我丢下<br>2019-12-12 23:46<br>赞(2) 踩(0) | <div>眼睛一定是累了<br>镜中一会儿是她 一会儿是自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299071460)<br><br>2019-11-28 19:55<br>赞(2) 踩(0) | <div>怎么会有这样怪腔怪调的歌，听着头痛！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376631264)<br>睡个好觉<br>2019-09-22 23:29<br>赞(1) 踩(0) | <div>作曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255155)<br>风子<br>2019-05-26 22:29<br>赞(0) 踩(0) | <div>很稳</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179995772)<br>请随时保持平躺<br>2019-05-23 22:05<br>赞(2) 踩(0) | <div>夏天没有梅花遗憾也不会落下了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179995772)<br>请随时保持平躺<br>2019-05-23 22:05<br>赞(2) 踩(0) | <div>夏天没有梅花<br>遗憾也不会落下了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54959843)<br>未必爱我所听~<br>2019-05-21 21:59<br>赞(1) 踩(0) | <div>很好听，但有个小遗憾：我一直在等听副歌部分，直到听完也没等到…… <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375874337)<br>D&B/wemix.co...<br>2019-05-16 20:55<br>赞(1) 踩(0) | <div>洛杉矶下雨了，外面偶有乌鸦的叫声，不知道乌鸦淋雨了没有。你知道吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375874337)<br>D&B/wemix.co...<br>2019-05-14 13:52<br>赞(4) 踩(0) | <div>我的音乐群里有人说这首歌真好听。这是一首安安静静的歌，我喜欢了好几天了。对镜贴黄花，想起一生，你有什么可以后悔的吗？我没有。[愉快]我开始享受这不急不慢的生活，如风铃在午后的摇摆，风也好，雨也好，晴也好，阴也好。就像是提前写完了作业的暑假，打开电视，我开始看电视了。我的作业都写完，不会写的不多，开学等着跟同学抄抄就可以交了。我的同学作业写的都很好。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375874337)<br>D&B/wemix.co...<br>2019-05-06 03:02<br>赞(4) 踩(0) | <div>“想起过去后悔的事，梅花就会落下来。”“镜子照镜子，所有镜子里都要有你。”我被这首歌深深的吸引了。那像开门关门的吱吱啦啦的声音，仿佛午后有风穿堂而过。今天是周日，几个打伞的人见过靠近，叫停了我。我以为他们是卖房子的，没想到她们是基督教的义工，慢悠悠掏出一个小册子，慢悠悠地说又慢悠悠地递给我。我慢悠悠地接过来的之后，眼睛已经看见了耳朵听到的那行字：“人为什么活着。”……我想：“早知道今天这样，想当初我就不那么急着完成暑假作业了。”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375874337)<br>D&B/wemix.co...<br>2019-05-16 20:55<br>赞(1) 踩(0) | <div>洛杉矶下雨了，外面偶有乌鸦的叫声，不知道乌鸦淋雨了没有。<br>你知道吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375874337)<br>D&B/wemix.co...<br>2019-05-14 13:52<br>赞(4) 踩(0) | <div>我的音乐群里有人说这首歌真好听。<br>这是一首安安静静的歌，我喜欢了好几天了。<br>对镜贴黄花，想起一生，你有什么可以后悔的吗？<br>我没有。<br>[愉快]<br>我开始享受这不急不慢的生活，如风铃在午后的摇摆，风也好，雨也好，晴也好，阴也好。<br>就像是提前写完了作业的暑假，打开电视，我开始看电视了。<br>我的作业都写完，不会写的不多，开学等着跟同学抄抄就可以交了。<br>我的同学作业写的都很好。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375874337)<br>D&B/wemix.co...<br>2019-05-06 03:02<br>赞(4) 踩(0) | <div>“想起过去后悔的事，梅花就会落下来。”<br>“镜子照镜子，所有镜子里都要有你。”<br>我被这首歌深深的吸引了。<br>那像开门关门的吱吱啦啦的声音，仿佛午后有风穿堂而过。<br>今天是周日，几个打伞的人见过靠近，叫停了我。<br>我以为他们是卖房子的，没想到她们是基督教的义工，慢悠悠掏出一个小册子，慢悠悠地说又慢悠悠地递给我。<br>我慢悠悠地接过来的之后，眼睛已经看见了耳朵听到的那行字：“人为什么活着。”<br>……<br>我想：“早知道今天这样，想当初我就不那么急着完成暑假作业了。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375874337)<br>D&B/wemix.co...<br>2019-05-06 00:10<br>赞(0) 踩(0) | <div>原来是一个瞎子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375874337)<br>D&B/wemix.co...<br>2019-05-06 00:09<br>赞(1) 踩(0) | <div>烦躁的寂寞，搞笑的悲哀！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348858326)<br>之前河水只是河水<br>2019-05-02 09:15<br>赞(0) 踩(0) | <div>啦啦啦啦等你归来</div> |
@@ -77,14 +77,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16621099)<br>躲进世界的角落<br>2019-01-05 00:22<br>赞(2) 踩(0) | <div>老周啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255155)<br>风子<br>2018-11-16 17:19<br>赞(1) 踩(0) | <div>骚人之歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36229899)<br>违章动物<br>2018-11-06 20:10<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25982077)<br>我还没想好要写什么...<br>2018-10-21 16:37<br>赞(8) 踩(0) | <div>因为镜中，知道了张枣先生因为老周，知道了镜中那么，因为什么，喜欢了老周的歌呢 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25982077)<br>我还没想好要写什么...<br>2018-10-21 16:37<br>赞(8) 踩(0) | <div>因为镜中，知道了张枣先生<br>因为老周，知道了镜中<br>那么，<br>因为什么，喜欢了老周的歌呢 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14024057)<br>会守到最后一刻。<br>2018-10-18 01:32<br>赞(11) 踩(0) | <div>再听《镜中》，涌上曾经美好的感觉，原来确是爱过他的呀。爱过，散了，怨过，他要结婚了，心里已经都是祝福了。希望他偶尔想起我时，是梅花开满南山。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3256844)<br>恩斯波肯 多姆<br>2018-10-09 01:53<br>赞(1) 踩(0) | <div>改的词比原版的还要好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35660199)<br>死力达成<br>2018-09-27 17:22<br>赞(1) 踩(0) | <div>谜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32225025)<br><br>2018-09-25 19:47<br>赞(1) 踩(0) | <div>惹人流泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53007515)<br><br>2018-09-17 23:47<br>赞(1) 踩(0) | <div>一个小影子，一个老影子，抱着睡进黑暗里，如今小影子变成大影子，老影子渐渐消失不见了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269173873)<br><br>2018-08-02 19:17<br>赞(1) 踩(0) | <div>好听，真心的好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2018-06-08 16:00<br>赞(8) 踩(0) | <div>我们能在多大程度上使自己与病态的&amp;ldquo;痉挛&amp;rdquo;保持距离，我们能在多大程度上认同幻像，认同我们&amp;ldquo;根本性的生命规划&amp;rdquo;？&amp;mdash;&amp;mdash;斯拉沃克&amp;middot;齐泽克《斜目而视》2018.6.8   15：59</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2018-06-08 16:00<br>赞(8) 踩(0) | <div>我们能在多大程度上使自己与病态的&amp;ldquo;痉挛&amp;rdquo;保持距离，我们能在多大程度上认同幻像，认同我们&amp;ldquo;根本性的生命规划&amp;rdquo;？<br>&amp;mdash;&amp;mdash;斯拉沃克&amp;middot;齐泽克《斜目而视》<br>2018.6.8   15：59</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85853134)<br><br>2018-06-03 00:21<br>赞(2) 踩(0) | <div>什么时候  一起去南山看梅花吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23726664)<br>记得也好，最好你忘掉，这...<br>2018-05-04 12:10<br>赞(4) 踩(0) | <div>只要想起一生中后悔的事，梅花就落满了南山。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272017031)<br>清静以为天下正。谦虚，随...<br>2018-11-26 20:44<br>赞(0) 踩(0) | <div>看来我是看不到南山的梅花落了！（因为我是个死不悔改的人）</div> |
@@ -114,20 +114,20 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50275922)<br>遥远的相似性<br>2017-11-09 20:41<br>赞(2) 踩(0) | <div>我们有时也背靠着背 韶华流水 我抚平你额上的皱纹 手掌因编织 而温暖..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291210859)<br><br>2017-10-30 19:29<br>赞(1) 踩(0) | <div>B</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47004271)<br>松散生命<br>2017-10-28 10:21<br>赞(0) 踩(0) | <div>♛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/742851)<br>笑看各路小众狗<br>2017-10-28 00:43<br>赞(7) 踩(0) | <div>只要想起一生中后悔的事梅花便落了下来比如看她游泳到河的另一岸比如登上一株松木梯子危险的事固然美丽不如看她骑马归来面颊温暖羞惭。低下头，回答着皇帝一面镜子永远等候她让她坐到镜中常坐的地方望着窗外，只要想起一生中后悔的事梅花便落满了南山</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/742851)<br>笑看各路小众狗<br>2017-10-28 00:43<br>赞(7) 踩(0) | <div>只要想起一生中后悔的事<br>梅花便落了下来<br>比如看她游泳到河的另一岸<br>比如登上一株松木梯子<br>危险的事固然美丽<br>不如看她骑马归来<br>面颊温暖<br>羞惭。低下头，回答着皇帝<br>一面镜子永远等候她<br>让她坐到镜中常坐的地方<br>望着窗外，只要想起一生中后悔的事<br>梅花便落满了南山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13729610)<br>抬头见烟花灿烂<br>2017-10-28 00:07<br>赞(1) 踩(0) | <div>想起一生中后悔的事情，梅花就会落满南山——张枣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12045627)<br><br>2017-10-28 00:07<br>赞(1) 踩(0) | <div>想起一生中后悔的事情   梅花就会落满南山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1618810)<br>毙<br>2017-10-28 00:07<br>赞(0) 踩(0) | <div>只要想起一生中后悔的事 梅花便落满了南山</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6355646)<br><br>2017-10-28 00:07<br>赞(1) 踩(0) | <div>坐在镜中看云天想起一生中后悔的事情梅花就会落满南山</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6355646)<br><br>2017-10-28 00:07<br>赞(1) 踩(0) | <div>坐在镜中看云天<br>想起一生中后悔的事情<br>梅花就会落满南山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31183031)<br>暂无签名~<br>2017-10-28 00:07<br>赞(3) 踩(0) | <div>“望向窗外，想起一生后悔的事情，梅花就落满南山。”原作也是温柔的霸道。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25379265)<br><br>2017-10-28 00:07<br>赞(1) 踩(0) | <div>昨天出炉的热乎乎的新歌，慢慢听才出味儿。“想起一生中后悔的事情梅花就会落下来”，赏花品茶的歌。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25379265)<br><br>2017-10-28 00:07<br>赞(1) 踩(0) | <div>昨天出炉的热乎乎的新歌，慢慢听才出味儿。“想起一生中后悔的事情<br>梅花就会落下来”，赏花品茶的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34474941)<br><br>2017-10-28 00:07<br>赞(1) 踩(0) | <div>一想起人生后悔的事情，梅花就会落满南山。这曲子唱出了味道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13322788)<br><br>2017-10-28 00:07<br>赞(2) 踩(0) | <div>《镜中》只要想起一生中后悔的事梅花便落了下来比如看她游泳到河的另一岸比如登上一株松木梯子危险的事固然美丽不如看她骑马归来面颊温暖羞涩。低下头,回答着皇帝一面镜子永远等候她让她坐到镜中常坐的地方望着窗外,只要想起一生中后悔的事梅花便落满了南山</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13322788)<br><br>2017-10-28 00:07<br>赞(2) 踩(0) | <div>《镜中》<br>只要想起一生中后悔的事<br>梅花便落了下来<br>比如看她游泳到河的另一岸<br>比如登上一株松木梯子<br>危险的事固然美丽<br>不如看她骑马归来<br>面颊温暖<br>羞涩。低下头,回答着皇帝<br>一面镜子永远等候她<br>让她坐到镜中常坐的地方<br>望着窗外,只要想起一生中后悔的事<br>梅花便落满了南山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9189089)<br>确实还没想好要写什么.....<br>2017-10-28 00:07<br>赞(1) 踩(0) | <div>想起一生中后悔的事 梅花就落满了南山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1783883)<br>嘿<br>2017-10-28 00:07<br>赞(1) 踩(0) | <div>望着窗外,只要想起一生中后悔的事/梅花便落满了南山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1530338)<br><br>2017-10-28 00:07<br>赞(0) 踩(0) | <div>诗原本就是喜欢的，现在谱成了歌，也喜欢。“ 让她坐到镜中常坐的地方 望着窗外，只要想起一生中后悔的事 梅花便落满了南山”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32291393)<br><br>2017-10-28 00:07<br>赞(0) 踩(0) | <div>只要想起一生中后悔的事 梅花便落满了南山 .</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8473015)<br>要决心忘记我便记不起<br>2017-10-27 23:27<br>赞(1) 踩(0) | <div>只要想起一生中后悔的事梅花便落满了南山</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8473015)<br>要决心忘记我便记不起<br>2017-10-27 23:27<br>赞(1) 踩(0) | <div>只要想起一生中后悔的事<br>梅花便落满了南山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1739529)<br><br>2017-10-27 23:19<br>赞(0) 踩(0) | <div>镜外之你，乃是镜中之我，我为何而沉睡，我为何建此城？#今天做意象对话的看镜子#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17862564)<br>世界呢分钟。<br>2017-10-11 15:35<br>赞(0) 踩(0) | <div>很喜欢改编的九月，这首很不喜欢哈哈，和我看的镜中出入比较大。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42136446)<br>稀薄，虚幻却又无可置疑的...<br>2017-10-09 23:36<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -139,7 +139,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251317801)<br>我还没想好要写什么...<br>2017-05-28 15:17<br>赞(0) 踩(0) | <div>不是我想象里的镜中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295833938)<br><br>2017-05-15 23:38<br>赞(0) 踩(0) | <div>我们常常需要一个并不需要我们的人，所以我宁愿选择soul。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262877677)<br><br>2017-05-07 18:25<br>赞(0) 踩(0) | <div>无所不唱，爱不释耳</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118487858)<br>必得红尘里修炼，才见笑靥<br>2017-05-05 20:21<br>赞(0) 踩(0) | <div>镜子照镜子所有的镜子里只有你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118487858)<br>必得红尘里修炼，才见笑靥<br>2017-05-05 20:21<br>赞(0) 踩(0) | <div>镜子照镜子<br>所有的镜子里只有你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17752724)<br><br>2017-03-30 21:54<br>赞(0) 踩(0) | <div>歌尾的胡琴是灵魂被折磨的宣泄吗？！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/944670)<br>吃个苹果。<br>2017-03-25 00:53<br>赞(0) 踩(0) | <div>老周真适合&amp;ldquo;唱&amp;rdquo;诗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46041597)<br>面对现实，忠于理想。<br>2017-03-08 23:28<br>赞(0) 踩(0) | <div>其声呜呜然&amp;hellip;</div> |
@@ -159,9 +159,9 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206561048)<br>人间天上不容许，我的心好...<br>2017-11-21 15:01<br>赞(0) 踩(0) | <div>左小祖咒，周云蓬，小红莓，多少音乐人都是因为堇年认识的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238011147)<br>我还没想好要写什么...<br>2018-09-17 17:19<br>赞(0) 踩(0) | <div><q><b>重瞳说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3612332)<br> <br>2016-10-27 00:45<br>赞(0) 踩(0) | <div>愛到死</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45478177)<br> <br>2016-09-24 00:22<br>赞(2) 踩(0) | <div>想起一生后悔的事情梅花就会落下来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45478177)<br> <br>2016-09-24 00:22<br>赞(2) 踩(0) | <div>想起一生后悔的事情<br>梅花就会落下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140958404)<br><br>2016-09-13 03:20<br>赞(0) 踩(0) | <div>诗歌合一，中国很需要这样的音乐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14245139)<br>我还没想好要写什么...<br>2016-09-04 22:05<br>赞(0) 踩(0) | <div>一个小影子一个老影子抱着睡进黑暗里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14245139)<br>我还没想好要写什么...<br>2016-09-04 22:05<br>赞(0) 踩(0) | <div>一个小影子<br>一个老影子<br>抱着睡进黑暗里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48409135)<br>yan<br>2016-08-23 20:36<br>赞(0) 踩(0) | <div>最爱的诗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2917052)<br>暂无签名~<br>2016-08-18 14:10<br>赞(1) 踩(0) | <div>周云蓬真是没读懂这首诗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/463807)<br>所有真实的人生，皆是相遇<br>2016-07-14 18:31<br>赞(1) 踩(0) | <div>车窗外飘渺的雾气，山峦叠嶂，闲散的车厢里尤其适合听老周</div> |
@@ -173,7 +173,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4054517)<br>暂无签名~<br>2016-05-21 01:20<br>赞(0) 踩(0) | <div>撩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12137600)<br>聋哑<br>2016-05-12 15:25<br>赞(2) 踩(0) | <div>爱此诗歌甚至胜于原诗。因为还是忍不住喜欢美丽，我并不是说我喜欢危险，我只是喜欢隐喻。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26767527)<br>我还没想好要写什么...<br>2016-05-06 23:40<br>赞(0) 踩(0) | <div>这个旋律很喜欢，但是感觉不适合《镜中》这首诗......可能每个人理解不一样吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138932584)<br>萬事勝意<br>2016-04-27 20:32<br>赞(1) 踩(0) | <div>想到一生后悔的事梅花就会落满南山</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138932584)<br>萬事勝意<br>2016-04-27 20:32<br>赞(1) 踩(0) | <div>想到一生后悔的事<br>梅花就会落满南山</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/176131848)<br>愿所有的孤独都可以幸福。<br>2016-06-06 05:51<br>赞(0) 踩(0) | <div>南山的梅花又开 镜中的人已不再</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44765112)<br><br>2016-04-09 18:47<br>赞(0) 踩(0) | <div>想起一生后悔的事情 梅花就会落下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8019730)<br><br>2016-03-22 23:30<br>赞(3) 踩(0) | <div>反正老周就是很秋天……很浓郁……是的，浓郁…………</div> |
@@ -222,7 +222,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/779488)<br>我还没想好要写什么...<br>2015-07-01 10:14<br>赞(0) 踩(0) | <div>“想起一生/後悔的事情/梅花就會落下來”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10511513)<br>说不清<br>2015-06-22 22:32<br>赞(0) 踩(0) | <div>我在镜中等你归来…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1283104)<br><br>2015-06-14 19:09<br>赞(0) 踩(0) | <div>爱张枣</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1783883)<br>嘿<br>2015-06-12 09:37<br>赞(3) 踩(0) | <div>《镜中》 张枣只要想起一生中后悔的事梅花便落了下来比如看她游泳到河的另一岸比如登上一株松木梯子危险的事固然美丽不如看她骑马归来面颊温暖羞涩。低下头,回答着皇帝一面镜子永远等候她让她坐到镜中常坐的地方望着窗外,只要想起一生中后悔的事梅花便落满了南山</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1783883)<br>嘿<br>2015-06-12 09:37<br>赞(3) 踩(0) | <div>《镜中》 张枣<br><br>只要想起一生中后悔的事<br><br>梅花便落了下来<br><br>比如看她游泳到河的另一岸<br><br>比如登上一株松木梯子<br><br>危险的事固然美丽<br><br>不如看她骑马归来<br><br>面颊温暖<br><br>羞涩。低下头,回答着皇帝<br><br>一面镜子永远等候她<br><br>让她坐到镜中常坐的地方<br><br>望着窗外,只要想起一生中后悔的事<br><br>梅花便落满了南山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7488124)<br>赏心乐事<br>2015-06-05 18:58<br>赞(2) 踩(0) | <div>“一首诗落进泥土，长出了一首歌”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7488124)<br>赏心乐事<br>2015-06-05 18:57<br>赞(0) 踩(0) | <div>“一首诗落进了泥土，长出了一首歌”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1258951)<br>又耳火火<br>2015-05-16 23:21<br>赞(0) 踩(0) | <div>啊！！把它写进歌里了~~~~~~~~~~~~~love love love</div> |
@@ -270,7 +270,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28158608)<br><br>2014-08-08 02:07<br>赞(0) 踩(0) | <div>想起一生中后悔的事情 梅花就会掉下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28158608)<br><br>2014-08-08 02:03<br>赞(0) 踩(0) | <div>想起一生中后悔的事情 梅花就会落下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13789795)<br>与其期待万千未来，不如活...<br>2014-08-01 10:49<br>赞(0) 踩(0) | <div>想起一生中后悔的事情梅花就会落下来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13789795)<br>与其期待万千未来，不如活...<br>2014-08-01 10:49<br>赞(0) 踩(0) | <div>想起一生中后悔的事情梅花就会落下来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13789795)<br>与其期待万千未来，不如活...<br>2014-08-01 10:49<br>赞(0) 踩(0) | <div>想起一生中后悔的事情<br>梅花就会落下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6607298)<br> <br>2014-06-22 15:26<br>赞(0) 踩(0) | <div>想起一生後悔的事情 梅花就會落滿南山/</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2496744)<br><br>2014-06-04 00:10<br>赞(0) 踩(0) | <div>六月了。振作。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/675104)<br>这儿快结束了 <br>2014-05-31 02:36<br>赞(0) 踩(0) | <div>抽根烟吧</div> |
@@ -286,7 +286,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14318196)<br><br>2014-05-12 14:18<br>赞(1) 踩(0) | <div>做了一个梦，醒来，随便听一首。这个镜中那个谁谁谁，哦，钟立风也唱过的，真是一首好诗养活一批人呐。。想到今后也得靠这些东西过活，泪花便落满了衣衫。建议你校汉语言文学专业文学理论课程外增加一个经典改编，多美哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5883949)<br><br>2014-04-26 12:05<br>赞(0) 踩(0) | <div>很惨的诗，很美的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21960)<br>i.ockt...<br>2014-04-25 10:44<br>赞(0) 踩(0) | <div>云蓬仙儿~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/783598)<br>即兴，才是音乐的本质<br>2014-04-22 19:58<br>赞(2) 踩(0) | <div>作为民谣歌手的周云蓬，首先是一个懂诗的诗人。他选《镜中》作歌，当为纪念已逝的诗人张枣，原诗中最撼动人心的两句：“想起一生中后悔的事情，梅花就会落满南山”被保留下来，他说这是“一首诗落进泥土，长出了一首歌。”歌的编曲由小河完成，阮与弦乐相互折射映照，歪歪扭扭的行进中，于古代到现代的不同空间往复穿越。特别是迷离写意的弦乐，让人想到卡洛斯·绍拉电影中无处不在的镜子，让人恍惚其间，不知置身何处，于是“镜子照镜子”影子映影子，灯光一暗便“睡进黑暗里”。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/783598)<br>即兴，才是音乐的本质<br>2014-04-22 19:58<br>赞(2) 踩(0) | <div>作为民谣歌手的周云蓬，首先是一个懂诗的诗人。他选《镜中》作歌，当为纪念已逝的诗人张枣，原诗中最撼动人心的两句：“想起一生中后悔的事情，梅花就会落满南山”被保留下来，他说这是“一首诗落进泥土，长出了一首歌。”<br>歌的编曲由小河完成，阮与弦乐相互折射映照，歪歪扭扭的行进中，于古代到现代的不同空间往复穿越。特别是迷离写意的弦乐，让人想到卡洛斯·绍拉电影中无处不在的镜子，让人恍惚其间，不知置身何处，于是“镜子照镜子”影子映影子，灯光一暗便“睡进黑暗里”。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8790771)<br><br>2014-04-22 19:31<br>赞(1) 踩(0) | <div>虽然和原诗完全不在一个调调上，但还是蛮喜欢这旋律的，有童话的味道~张枣退去了，周云蓬出现了~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9779444)<br><br>2014-04-21 21:31<br>赞(0) 踩(0) | <div>很舒服的调子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24521379)<br><br>2014-04-21 12:50<br>赞(0) 踩(0) | <div>美的无以复加</div> |
@@ -308,7 +308,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5933165)<br> <br>2014-04-14 19:40<br>赞(0) 踩(0) | <div>若是张枣到这般年纪，必然也是如此恬适地谈起他的镜中人。一面镜子永远等候他，还有那镜中人，那后悔的事和满山的梅花，美就够了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1532529)<br><br>2014-04-14 19:19<br>赞(0) 踩(0) | <div>很喜欢，难得让我听了很多遍，我一般不听词，而听这歌时，曲动心弦，是，这是大理，镜中人，幻梦迷离</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6781857)<br><br>2014-04-14 18:42<br>赞(1) 踩(0) | <div>我不懂什么叫陪伴，在灰色的雾中，在白色的门口，夏天又到来。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2429259)<br>我还没想好要写什么...<br>2014-04-14 12:34<br>赞(0) 踩(0) | <div>一个小影子一个老影子抱着睡进黑暗里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2429259)<br>我还没想好要写什么...<br>2014-04-14 12:34<br>赞(0) 踩(0) | <div>一个小影子<br>一个老影子<br>抱着睡进黑暗里</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1569233)<br> <br>2014-04-14 14:19<br>赞(0) 踩(0) | <div>精子找精子，精子都不找卵子了，好吧我邪恶了〜</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1569233)<br> <br>2014-04-14 14:19<br>赞(0) 踩(0) | <div>不是回复你…失误。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10556070)<br><br>2014-04-13 23:25<br>赞(0) 踩(0) | <div>失眠？听听这首歌就，嗯！</div> |
@@ -386,8 +386,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13137804)<br>骨灰級影迷、獨立音樂聽衆...<br>2014-04-02 13:42<br>赞(0) 踩(0) | <div>《四月旧州》的首支单曲，微风落花浅唱低吟，太好听了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10157666)<br> <br>2014-04-02 13:16<br>赞(0) 踩(0) | <div>因为歌词里有影子，就转了。很文艺。你学过阮哦。@像猪一样看世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3939328)<br> <br>2014-04-02 12:56<br>赞(0) 踩(0) | <div>打开虾米主页看到张枣的名字简直太太太惊喜。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3531256)<br>永远年轻，永远热泪盈眶<br>2014-04-02 12:42<br>赞(0) 踩(0) | <div>只要想起一生中后悔的事梅花便落了下来比如看她游泳到河的另一岸比如登上一株松木梯子危险的事固然美丽不如看她骑马归来面颊温暖羞惭。低下头，回答着皇帝一面镜子永远等候她让她坐到镜中常坐的地方望着窗外，只要想起一生中后悔的事梅花便落满了南山</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249466)<br><br>2014-04-02 12:09<br>赞(0) 踩(0) | <div>《镜中》张枣只要想起一生中后悔的事梅花便落了下来比如看她游泳到河的另一岸比如登上一株松木梯子危险的事固然美丽不如看她骑马归来面颊温暖羞惭。低下头，回答着皇帝一面镜子永远等候她让她坐到镜中常坐的地方望着窗外，只要想起一生中后悔的事梅花便落满了南山</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3531256)<br>永远年轻，永远热泪盈眶<br>2014-04-02 12:42<br>赞(0) 踩(0) | <div>只要想起一生中后悔的事<br>梅花便落了下来<br>比如看她游泳到河的另一岸<br>比如登上一株松木梯子<br>危险的事固然美丽<br>不如看她骑马归来<br>面颊温暖<br>羞惭。低下头，回答着皇帝<br>一面镜子永远等候她<br>让她坐到镜中常坐的地方<br>望着窗外，只要想起一生中后悔的事<br>梅花便落满了南山</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249466)<br><br>2014-04-02 12:09<br>赞(0) 踩(0) | <div>《镜中》<br>张枣<br><br>只要想起一生中后悔的事<br>梅花便落了下来<br>比如看她游泳到河的另一岸<br>比如登上一株松木梯子<br>危险的事固然美丽<br>不如看她骑马归来<br>面颊温暖<br>羞惭。低下头，回答着皇帝<br>一面镜子永远等候她<br>让她坐到镜中常坐的地方<br>望着窗外，只要想起一生中后悔的事<br>梅花便落满了南山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/468998)<br>大江大海山川，湖泊音乐和...<br>2014-04-02 10:58<br>赞(0) 踩(0) | <div>一早起床听到这首，真好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6893736)<br>冷耳听语 冷情当感<br>2014-04-02 10:27<br>赞(157) 踩(0) | <div>民谣圈里，把诗唱成歌听起来却自然亲近最不矫情的，当属老周。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166582)<br><br>2014-04-06 17:20<br>赞(0) 踩(0) | <div>那你还真得听听张玮玮的《真相》。</div> |

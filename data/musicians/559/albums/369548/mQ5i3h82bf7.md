@@ -70,10 +70,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309483784)<br>悬崖边荡秋千的坏人<br>2020-06-01 15:18<br>赞(1) 踩(0) | <div>夕阳西下三五知己，小酌几杯谈谈理想述说一下心肠也是不错的消遣方式。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323915602)<br>人生因追求而精彩。生命因...<br>2020-04-06 02:11<br>赞(6) 踩(0) | <div>白酒说：&amp;ldquo;喝我的人都豪爽！啤酒说：&amp;quot;喝我的人都大度！红酒说：&amp;ldquo;喝我的人都浪漫！黄酒说：&amp;quot;喝我的人都温情！名酒说：&amp;quot;喝我的人都有品位！洋酒说: &amp;rdquo;喝我的人都有钱！酒精说: &amp;rdquo;都悄悄的!没有爷，你们都是水货.....献给酒精杀场的朋友们！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323915602)<br>人生因追求而精彩。生命因...<br>2020-04-06 02:11<br>赞(6) 踩(0) | <div>白酒说：&amp;ldquo;喝我的人都豪爽！<br>啤酒说：&amp;quot;喝我的人都大度！<br>红酒说：&amp;ldquo;喝我的人都浪漫！<br>黄酒说：&amp;quot;喝我的人都温情！<br>名酒说：&amp;quot;喝我的人都有品位！<br>洋酒说: &amp;rdquo;喝我的人都有钱！<br>酒精说: &amp;rdquo;都悄悄的!<br>没有爷，你们都是水货.....<br>献给酒精杀场的朋友们！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294621412)<br><br>2020-03-12 23:26<br>赞(1) 踩(0) | <div>脍炙人口啊啊啊啊啊啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304636495)<br>情歌最爱梁静茹<br>2020-02-23 11:06<br>赞(1) 踩(0) | <div>上初中每天放学学校广播放的，我和他初中三年同班同学，高一一个学校，高二分文理科又在一个班。上大学以后，我没交什么朋友，只有他经常来找我玩一起吃饭，我一直很喜欢小时候的玩具钢甲卡卡龙里面的卡卡龙，没想到他给我买了，只是这次疫情没办法一起吃饭。明年就毕业了，还好有这个朋友陪伴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244862452)<br><br>2020-01-08 00:40<br>赞(1) 踩(0) | <div>點贊和評論都是為了養蝦寶！</div> |
@@ -85,7 +85,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255416234)<br><br>2019-09-11 17:34<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327835375)<br><br>2019-09-02 16:08<br>赞(3) 踩(0) | <div>我一女生都爱听 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33385856)<br>我还没想好要写什么...<br>2019-07-29 20:39<br>赞(3) 踩(0) | <div>嘿嘿摇头晃脑～～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345769494)<br>我爱自驾游，认识更多有信...<br>2019-07-24 15:15<br>赞(2) 踩(0) | <div>人生几十年总会有风雨来陪潇潇洒洒赴会今不醉不归往事后不后悔慢慢去体会此刻朋友这杯酒最珍贵快把酒满上干了这杯大声歌唱好朋友好朋友今宵多欢畅唱的好听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345769494)<br>我爱自驾游，认识更多有信...<br>2019-07-24 15:15<br>赞(2) 踩(0) | <div>人生几十年总会有风雨来陪<br><br>潇潇洒洒赴会今不醉不归<br><br>往事后不后悔慢慢去体会<br><br>此刻朋友这杯酒最珍贵<br><br>快把酒满上干了这杯大声歌唱<br><br>好朋友好朋友今宵多欢畅<br><br>唱的好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350532203)<br><br>2019-07-05 10:32<br>赞(3) 踩(0) | <div>✌666点赞❤朋友的酒李晓杰唱的好好好90后集合顶起✌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305255271)<br> <br>2019-04-26 00:11<br>赞(1) 踩(0) | <div>尊敬的各位网友大家好，郭大侠喜欢这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313042422)<br> <br>2019-04-22 00:02<br>赞(0) 踩(0) | <div>歌词写的不错</div> |
@@ -93,7 +93,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339013100)<br>愿我爱的和爱我的人都健康...<br>2019-04-06 06:41<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377122484)<br><br>2019-03-29 06:44<br>赞(0) 踩(0) | <div>朋友的豪情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411945879)<br>我还没想好要写什么...<br>2019-03-18 21:10<br>赞(0) 踩(0) | <div>杨树，顾菁菁来电话了哈哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278606363)<br>生活需要音乐<br>2019-02-21 01:51<br>赞(1) 踩(0) | <div>记得朋友被骗到传销里了，找我借八百，我有点犹豫，还是借了。傍晚，他说出来了，没钱买车票，还借五百，回来上班还我，感觉像要哭了一样。回来以后，我们一起吃饭，他讲了在里面的前后过程。他还说看见他妈哭着取了八千帮他还债。那时他妈才两千多一个月。以前他说个月都会给家里钱，现在看来，，，。感觉他妈妈心都碎了。当时我拍拍他的肩膀，出来就好，坚持住。唉，当时我想，我要是混的好一点就不会让朋友东奔西跑，让家人为我担心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278606363)<br>生活需要音乐<br>2019-02-21 01:51<br>赞(1) 踩(0) | <div>记得朋友被骗到传销里了，找我借八百，我有点犹豫，还是借了。傍晚，他说出来了，没钱买车票，还借五百，回来上班还我，感觉像要哭了一样。<br>回来以后，我们一起吃饭，他讲了在里面的前后过程。他还说看见他妈哭着取了八千帮他还债。那时他妈才两千多一个月。以前他说个月都会给家里钱，现在看来，，，。感觉他妈妈心都碎了。当时我拍拍他的肩膀，出来就好，坚持住。<br>唉，当时我想，我要是混的好一点就不会让朋友东奔西跑，让家人为我担心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414204131)<br><br>2019-01-29 17:26<br>赞(0) 踩(0) | <div>好听，我第一次听说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252541408)<br><br>2019-01-01 22:38<br>赞(0) 踩(0) | <div>19年了，18年再也回不去！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169089552)<br><br>2018-12-29 04:22<br>赞(0) 踩(0) | <div>前公司老板KTV必点之歌</div> |
@@ -334,7 +334,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134516426)<br>     具大胸襟   ...<br>2017-11-04 08:51<br>赞(0) 踩(0) | <div>分享  李晓杰 的歌曲《朋友的酒》<a href="https://www.xiami.com/song/1769384181?_uxid=876762A2FC32A6A0FDB70CB16130C207" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/1769384181?_uxid=876762A2FC32A6A0FDB70CB16130C207</a> (分享自@虾米音乐)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332982193)<br><br>2017-11-03 16:13<br>赞(0) 踩(0) | <div>哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332769869)<br>神仙<br>2017-11-03 11:27<br>赞(2) 踩(0) | <div>唱出男人喝酒的苦涩与潇洒！ <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327784017)<br><br>2017-11-02 23:28<br>赞(0) 踩(0) | <div>666666666666666666666666好听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327784017)<br><br>2017-11-02 23:28<br>赞(0) 踩(0) | <div>666666666666666666666666<br>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327784017)<br><br>2017-11-02 23:28<br>赞(0) 踩(0) | <div>6666666666666666666666666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327784017)<br><br>2017-11-02 23:27<br>赞(0) 踩(0) | <div>6 6 66666666 666666666660</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331598218)<br><br>2017-11-02 09:05<br>赞(1) 踩(0) | <div>不错</div> |
@@ -362,7 +362,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252743434)<br><br>2017-10-27 23:31<br>赞(3) 踩(0) | <div>有些歌只能静静的聆听，在心中低吟，怕自己一出声就玷辱了歌曲的美。而有的歌就是让大家都来尽情发泄的，就像一个……，乍看风光无限，性感撩人，于是就出现了大妈操，大叔操，爷爷奶奶娃娃操；姑娘操，小伙操，嘴歪嘴正亦可操；工人操，农民操，乞丐废品一同操。最后彻底操烂了，呸上一口，丢进垃圾箱。评论对某些神曲有感而发，不针对此曲，此曲随俗，但唱出了真性情，不造作。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1306103)<br><br>2017-10-27 23:26<br>赞(0) 踩(0) | <div>最近听歌老处于这种状态：X新歌--唉呀，妈呀，这歌真难听；L老歌--我当初为啥会喜欢这种歌，当然也有好听的，比如这首新歌我就不嫌弃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8440847)<br>随喜，而安。<br>2017-10-27 23:26<br>赞(1) 踩(0) | <div>哈哈哈哈哈 看个电视剧乐的不行 最近笑点越来越低 智商见底 看来要否极泰来了！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/789800)<br><br>2017-10-27 23:20<br>赞(0) 踩(0) | <div>快把酒满上 干了这杯 大声歌唱好朋友好朋友 今宵多欢畅理想改变了 我们的模样也让我 懂得了要珍惜 朋友的肩膀</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/789800)<br><br>2017-10-27 23:20<br>赞(0) 踩(0) | <div>快把酒满上 干了这杯 大声歌唱<br>好朋友好朋友 今宵多欢畅<br>理想改变了 我们的模样<br>也让我 懂得了要珍惜 朋友的肩膀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7445225)<br>我还没想好要写什么...<br>2017-10-27 23:06<br>赞(1) 踩(0) | <div>这歌太酷了蛤蛤蛤，前奏一起就想起张X译那二椅子似的走路姿势</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17395415)<br>我是你心中的大猫！<br>2017-10-27 23:03<br>赞(0) 踩(0) | <div>歌词写得很好啊！唱得也很豪情！只可惜人生有多少朋友可以把酒言欢？人生太短，有些东西是珍惜的。快把酒满上 干了这杯酒 大声歌唱！！！：) XD :D</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331996637)<br><br>2017-10-27 21:53<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png">好</div> |
@@ -580,7 +580,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342275899)<br><br>2018-02-21 10:05<br>赞(0) 踩(0) | <div>❤</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359525166)<br><br>2018-05-13 13:19<br>赞(0) 踩(0) | <div>PP磨合期我送火山小视频POS送穷PSP踢皮球9红日我里破事水入团申请书 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288942316)<br><br>2019-11-09 07:56<br>赞(0) 踩(0) | <div>。，~J</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401138758)<br><br>2020-08-07 22:13<br>赞(0) 踩(0) | <div>18 grre .sd报名</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401138758)<br><br>2020-08-07 22:13<br>赞(0) 踩(0) | <div>18 grre .sd<br>报名</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286105781)<br><br>2017-08-23 23:17<br>赞(1) 踩(0) | <div>好听好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308452252)<br><br>2017-08-23 21:52<br>赞(1) 踩(0) | <div>虽然我是一个小孩子，可是我非常喜欢听你这首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321143015)<br>千金可失，人心难挽。<br>2017-08-23 21:48<br>赞(0) 踩(0) | <div>好听</div> |
@@ -1014,7 +1014,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218667931)<br><br>2017-02-25 22:14<br>赞(1) 踩(0) | <div>男人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245313845)<br>人生若只如初见，何事秋风...<br>2017-02-25 10:09<br>赞(0) 踩(0) | <div>一仆二主</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49703914)<br> <br>2017-02-24 10:10<br>赞(4) 踩(0) | <div>好喜欢  循环好几天了 救命 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/62798560)<br>我还没想好要写什么...<br>2017-02-21 14:11<br>赞(42) 踩(0) | <div>挽霜亭中宴狂客。双手擎来翻两眸。季冬肥羊釜上烹，琉璃盏浅漂琥珀。朝与胡儿拼跤技，暮负瑶琴对纸迷。娼家莺语真豪杰，五侯七贵酬君侧。太白一斗氤氲色，刘伶坟头土生热。赤虹喷月小阳春，狼吞鲸饮席上坐。兴发但怨五湖窄，星垂任尔三江落。君行吾为作长歌，此去人间名赫赫。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/62798560)<br>我还没想好要写什么...<br>2017-02-21 14:11<br>赞(42) 踩(0) | <div>挽霜亭中宴狂客。双手擎来翻两眸。<br>季冬肥羊釜上烹，琉璃盏浅漂琥珀。<br>朝与胡儿拼跤技，暮负瑶琴对纸迷。<br>娼家莺语真豪杰，五侯七贵酬君侧。<br>太白一斗氤氲色，刘伶坟头土生热。<br>赤虹喷月小阳春，狼吞鲸饮席上坐。<br>兴发但怨五湖窄，星垂任尔三江落。<br>君行吾为作长歌，此去人间名赫赫。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1240066)<br><br>2017-02-22 22:44<br>赞(0) 踩(0) | <div>你写的？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245074521)<br><br>2017-05-04 21:44<br>赞(0) 踩(0) | <div>收藏了，敢问出处？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318767178)<br><br>2017-08-13 20:37<br>赞(0) 踩(0) | <div>肯定不是他写的，写出这首诗的是大家，能和李杜媲美了</div> |
@@ -1246,7 +1246,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37424636)<br><br>2016-11-25 21:01<br>赞(0) 踩(0) | <div>赞个</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92382110)<br> <br>2016-12-04 09:24<br>赞(0) 踩(0) | <div>你特么能听懂不能蒙语，装什么大逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239383373)<br> <br>2016-11-24 01:20<br>赞(0) 踩(0) | <div>因为小齐知道这首歌但意外的喜欢这的调调哈哈要是专门来听还不一定喜欢 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7638058)<br><br>2016-11-23 21:43<br>赞(3) 踩(0) | <div>听了任贤齐的跟来听的。接地气，一听我爸那类中年大叔肯定喜欢，原唱也好听。为啥突然想听龚琳娜翻唱 ，不是因为唱过将进酒吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7638058)<br><br>2016-11-23 21:43<br>赞(3) 踩(0) | <div>听了任贤齐的跟来听的。接地气，一听我爸那类中年大叔肯定喜欢，原唱也好听。<br>为啥突然想听龚琳娜翻唱 ，不是因为唱过将进酒吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52629727)<br>‭<br>2016-11-23 19:54<br>赞(3) 踩(0) | <div>听完任贤齐的...还是这好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34915497)<br><br>2016-11-23 20:25<br>赞(0) 踩(0) | <div>同认为</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247417417)<br>  何年何月？<br>2016-11-23 19:01<br>赞(0) 踩(0) | <div>发发发</div> |
@@ -1536,7 +1536,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50399048)<br><br>2016-05-09 20:38<br>赞(2) 踩(0) | <div>真难听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36589411)<br>生而不同，我亦痛恨平庸<br>2016-05-07 00:51<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87661130)<br><br>2016-05-04 18:53<br>赞(1) 踩(0) | <div>ktv必点</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15936721)<br><br>2016-04-29 20:17<br>赞(3) 踩(0) | <div>快把酒满上 干了这杯 大声歌唱好朋友好朋友 今宵多欢畅理想改变了 我们的模样也让我 懂得了要珍惜 朋友的肩膀</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15936721)<br><br>2016-04-29 20:17<br>赞(3) 踩(0) | <div>快把酒满上 干了这杯 大声歌唱<br>好朋友好朋友 今宵多欢畅<br>理想改变了 我们的模样<br>也让我 懂得了要珍惜 朋友的肩膀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2016-04-28 16:24<br>赞(0) 踩(0) | <div>兄弟，干了这杯酒吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1323562)<br><br>2016-04-26 10:25<br>赞(0) 踩(0) | <div>将进酒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44516551)<br> <br>2016-04-25 01:28<br>赞(1) 踩(0) | <div>为什么这么上口！！</div> |
@@ -1691,7 +1691,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53628531)<br><br>2015-08-28 20:21<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png">颤了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51956459)<br><br>2015-08-22 16:58<br>赞(1) 踩(0) | <div>坚强吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12109414)<br>我还没想好要写什么...<br>2015-08-20 12:16<br>赞(1) 踩(0) | <div>KTV必点</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48837209)<br><br>2015-08-18 17:59<br>赞(14) 踩(0) | <div>什么叫代沟？小学语文题，关联词填空：他____牺牲生命，____出卖组织。60后填写“宁可 ，也不”70后填写“害怕 ，所以”80后填写“与其 ，不如”90后填写“即使 ，也要”00后填写“白白 ，忘了”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48837209)<br><br>2015-08-18 17:59<br>赞(14) 踩(0) | <div>什么叫代沟？<br>小学语文题，关联词填空：<br>他____牺牲生命，____出卖组织。<br>60后填写“宁可 ，也不”<br>70后填写“害怕 ，所以”<br>80后填写“与其 ，不如”<br>90后填写“即使 ，也要”<br>00后填写“白白 ，忘了”</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59706662)<br><br>2015-10-15 05:59<br>赞(0) 踩(0) | <div>哈哈哈谁问你们白痴的问题(O_O)？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74307982)<br>画画<br>2015-11-26 18:33<br>赞(0) 踩(0) | <div>九零很霸气 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1007187)<br>听音乐是一种生活态度<br>2016-01-06 00:10<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -1718,7 +1718,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44396491)<br>你身边的人<br>2015-07-19 14:02<br>赞(0) 踩(0) | <div>真的很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17536204)<br>自己选的路，跪着也得走下...<br>2015-07-19 08:16<br>赞(1) 踩(0) | <div>好雷，但是还是想听，魔性</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52650083)<br>ysxy  <br>2015-07-16 21:56<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8292928)<br>我就是我，不一样的烟火！<br>2015-07-13 22:27<br>赞(10) 踩(0) | <div>诸葛一去不复回，哦耶基情比什么都贵覆水不能再收回，哦耶两军阵前有兄贵人生几十年总会有风雨来陪潇潇洒洒赴会今不醉不归往事后不后悔，慢慢去体会此刻孔明这杯酒最珍贵来把酒满上干了这杯大声歌唱好基友好基友一起来放荡扫清六合又席卷了八荒也让我懂得了要珍惜孔明的肩膀阳光总会在风雨之后洒向苍茫昨夜的基情好比野马脱缰就像孔明的这杯烈酒躺在我心上我们是基友不要再打仗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8292928)<br>我就是我，不一样的烟火！<br>2015-07-13 22:27<br>赞(10) 踩(0) | <div>诸葛一去不复回，哦耶<br>基情比什么都贵<br>覆水不能再收回，哦耶<br>两军阵前有兄贵<br>人生几十年总会有风雨来陪<br>潇潇洒洒赴会<br>今不醉不归<br>往事后不后悔，慢慢去体会<br>此刻孔明这杯酒最珍贵<br>来把酒满上<br>干了这杯大声歌唱<br>好基友好基友<br>一起来放荡<br>扫清六合又席卷了八荒<br>也让我懂得了要珍惜孔明的肩膀<br>阳光总会在风雨之后洒向苍茫<br>昨夜的基情好比野马脱缰<br>就像孔明的这杯烈酒躺在我心上<br>我们是基友不要再打仗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52633952)<br><br>2015-07-20 10:14<br>赞(0) 踩(0) | <div>nfu</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52633952)<br><br>2015-07-20 10:14<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52633952)<br><br>2015-07-20 10:14<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
@@ -1742,13 +1742,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44472515)<br><br>2015-06-09 13:37<br>赞(1) 踩(0) | <div>好基友一起来放荡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5622009)<br>摇滚。<br>2015-06-08 21:26<br>赞(1) 踩(0) | <div>虽然土了点，但是句句直到肠子里。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47574025)<br><br>2015-06-01 12:56<br>赞(0) 踩(0) | <div>^O^</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3131845)<br>⚡<br>2015-06-01 00:54<br>赞(13) 踩(0) | <div>诸葛一去不复回 哦也基情比什么都贵覆水不能再收回 哦也两军阵前有兄贵人生几十年 总会有风雨来陪潇潇洒洒 赴会 今不醉不归往事后不后悔 慢慢去体会此刻孔明这杯酒最珍贵快把酒满上 干了这杯 大声歌唱好基友好基友 一起来放荡扫清六合又席卷了八方也让我 懂得了要珍惜 孔明的肩膀阳光总会在 风雨之后 撒向苍茫昨夜的基情好比野马脱缰就像孔明的 这杯烈酒 烫我心上我们是基友不要再打仗今天我俩来相会 哦也基情斟满了酒杯岁月匆匆如流水 哦也孔明你我紧相随人生的旅程 有苦有甜也有泪两军阵前相会 酒再干一杯往事决不后悔 不必再理会此刻孔明这杯酒最珍贵</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3131845)<br>⚡<br>2015-06-01 00:54<br>赞(13) 踩(0) | <div>诸葛一去不复回 哦也<br>基情比什么都贵<br>覆水不能再收回 哦也<br>两军阵前有兄贵<br><br>人生几十年 总会有风雨来陪<br>潇潇洒洒 赴会 今不醉不归<br>往事后不后悔 慢慢去体会<br>此刻孔明这杯酒最珍贵<br><br>快把酒满上 干了这杯 大声歌唱<br>好基友好基友 一起来放荡<br>扫清六合又席卷了八方<br>也让我 懂得了要珍惜 孔明的肩膀<br><br>阳光总会在 风雨之后 撒向苍茫<br>昨夜的基情好比野马脱缰<br>就像孔明的 这杯烈酒 烫我心上<br>我们是基友不要再打仗<br><br>今天我俩来相会 哦也<br>基情斟满了酒杯<br>岁月匆匆如流水 哦也<br>孔明你我紧相随<br><br>人生的旅程 有苦有甜也有泪<br>两军阵前相会 酒再干一杯<br>往事决不后悔 不必再理会<br>此刻孔明这杯酒最珍贵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44195361)<br>待到秋来九月八，我花开后...<br>2015-05-31 12:21<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"> <img src="../../../../images/comments/58f25f67f72847b1f16f261712b7c135.png"> <img src="../../../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"> <img src="../../../../images/comments/0590342800944c9cbf70e4e78ed6027a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50061677)<br><br>2015-05-29 12:08<br>赞(0) 踩(0) | <div>这首歌确实有种大哥的霸气 <img src="../../../../images/comments/f10e8c35366eb553db3d665e8b324caf.png"> <img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"> <img src="../../../../images/comments/e4866ce16a67508c9f3eeeb303f3149a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21725926)<br> <br>2015-05-28 23:44<br>赞(0) 踩(0) | <div>999999</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1797575)<br><br>2015-05-28 20:04<br>赞(2) 踩(0) | <div>孔明一去不复回，噢耶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13129825)<br>唯音乐与花朵不可辜负ww<br>2015-05-26 20:24<br>赞(4) 踩(0) | <div>孔明的酒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48572566)<br><br>2015-05-26 08:55<br>赞(0) 踩(0) | <div>人生几十年 总会有风雨来陪潇潇洒洒 赴会 今不醉不归往事后不后悔 慢慢去体会此刻朋友这杯酒最珍贵阳光总会在 风雨之后 撒向苍茫让我们抬起头 学会了坚强就像朋友的 这杯烈酒 烫我心上温暖我 凡事别再放心上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48572566)<br><br>2015-05-26 08:55<br>赞(0) 踩(0) | <div>人生几十年 总会有风雨来陪<br>潇潇洒洒 赴会 今不醉不归<br>往事后不后悔 慢慢去体会<br>此刻朋友这杯酒最珍贵<br><br>阳光总会在 风雨之后 撒向苍茫<br>让我们抬起头 学会了坚强<br>就像朋友的 这杯烈酒 烫我心上<br>温暖我 凡事别再放心上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2525527)<br>我还没想好要写什么...<br>2015-05-25 09:38<br>赞(3) 踩(0) | <div>孔明的酒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48641245)<br> <br>2015-05-24 06:02<br>赞(0) 踩(0) | <div>果然是电视剧宣传的多～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29107112)<br><br>2015-05-22 22:10<br>赞(178) 踩(0) | <div>孔明的酒</div> |
@@ -1815,7 +1815,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7185687)<br><br>2014-12-10 23:19<br>赞(0) 踩(0) | <div>很俗气的唱出了“昨日一去不复回”这件事~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43628858)<br>暂无签名~<br>2014-12-05 02:06<br>赞(0) 踩(0) | <div>酒肉市井江湖气十足！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7106172)<br>心声<br>2014-12-03 14:25<br>赞(0) 踩(0) | <div>少数民族部分音乐动听。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31060728)<br>心怀感恩就会珍惜人生，心...<br>2014-11-21 09:49<br>赞(0) 踩(0) | <div>“昨日一去不复回，开心比什么都贵，覆水不能再收回……”那歌声别有一番豪爽在其中……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31060728)<br>心怀感恩就会珍惜人生，心...<br>2014-11-21 09:49<br>赞(0) 踩(0) | <div>“昨日一去不复回，开心比什么都贵，覆水不能再收回……”<br><br>那歌声别有一番豪爽在其中……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11085401)<br><br>2014-11-06 00:11<br>赞(0) 踩(0) | <div>岁月匆匆如流水，管他昨天谁是谁。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286463)<br>音乐不是歌<br>2014-11-05 23:37<br>赞(0) 踩(0) | <div>接着抖腿ด้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็ ้้ด้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็็็็้้้้้็็็็็้้้้้้้้็็</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14295336)<br>cx<br>2014-11-05 16:07<br>赞(0) 踩(0) | <div>每次听到这歌 就想笑  感觉这旋律挺逗的</div> |
@@ -1857,7 +1857,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36648699)<br><br>2014-07-18 00:50<br>赞(0) 踩(0) | <div>有俗句，瑕不掩瑜，腔调略杂</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48732271)<br><br>2015-05-20 12:29<br>赞(0) 踩(0) | <div>听得就是俗劲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3880628)<br><br>2014-07-16 11:59<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈，真好听呀</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16189631)<br><br>2014-07-12 17:23<br>赞(1) 踩(0) | <div>这是某电视剧里男主的手机铃声吧。。有意思。。挺欢快的。。听了一路</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16189631)<br><br>2014-07-12 17:23<br>赞(1) 踩(0) | <div>这是某电视剧里男主的手机铃声吧。。<br>有意思。。挺欢快的。。听了一路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16996576)<br>暂无签名~<br>2014-07-12 10:21<br>赞(0) 踩(0) | <div>一仆二主啊。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32053159)<br>天空很大让人看不清楚<br>2014-07-06 12:55<br>赞(0) 踩(0) | <div>朋友的金坷垃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9498991)<br><br>2014-07-02 13:42<br>赞(0) 踩(0) | <div>哟，少年，你好啊。</div> |
@@ -1920,7 +1920,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319638908)<br><br>2017-08-16 14:54<br>赞(0) 踩(0) | <div>6疼了咯哦哦</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319638908)<br><br>2017-08-16 14:54<br>赞(0) 踩(0) | <div><q><b>美好的未来说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319638908)<br><br>2017-08-16 14:56<br>赞(0) 踩(0) | <div><q><b>谎言说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315690292)<br><br>2017-11-05 19:58<br>赞(0) 踩(0) | <div>布鲁斯布鲁斯</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315690292)<br><br>2017-11-05 19:58<br>赞(0) 踩(0) | <div>布鲁斯<br>布鲁斯</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313355827)<br>人类为什么互相依靠却又再...<br>2017-11-21 22:29<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313774643)<br><br>2017-12-03 12:10<br>赞(0) 踩(0) | <div>大俗即大雅</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98066030)<br>念念不忘，必有回响。虾米...<br>2017-12-08 16:11<br>赞(0) 踩(0) | <div>俗？ 你随便去一个KTV，我敢说基本上每个KTV里点歌台上的十大必点曲目里一种有这首歌的一席之位</div> |
@@ -1964,7 +1964,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/666847)<br>我还没想好要写什么...<br>2014-04-10 20:33<br>赞(0) 踩(0) | <div>朋友的酒非常喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35144829)<br><br>2014-04-10 04:58<br>赞(0) 踩(0) | <div>看了一仆二主一直觉得杨树的手机铃声很有个性，搜了这首歌顿时爱上了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/176046)<br>人间正道是沧桑<br>2014-04-10 00:27<br>赞(0) 踩(0) | <div>最近真的很火啊。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35107480)<br><br>2014-04-09 11:52<br>赞(0) 踩(0) | <div>因为最近看了一仆二主，搜了这首歌。就爱上这首歌了。喜欢这首歌里面的歌词。“昨日一切不复回，喔也，开心比什么都贵。覆水不能再收回，哦也桃花谢了有玫瑰”。可爱不。嘿嘿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35107480)<br><br>2014-04-09 11:52<br>赞(0) 踩(0) | <div>因为最近看了一仆二主，搜了这首歌。就爱上这首歌了。喜欢这首歌里面的歌词。<br>“昨日一切不复回，喔也，开心比什么都贵。覆水不能再收回，哦也桃花谢了有玫瑰”。<br>可爱不。嘿嘿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3788687)<br>很难瘦<br>2014-04-08 14:02<br>赞(0) 踩(0) | <div>铃声好欢乐····</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5761665)<br><br>2014-04-08 14:01<br>赞(0) 踩(0) | <div>啊! 忘了～。哦也!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5761665)<br><br>2014-04-08 14:00<br>赞(1) 踩(0) | <div>不看MV的话,这歌还真没有跑马的汉子俗! 没有树哥的铃声也够呛能想起了.</div> |
@@ -2106,7 +2106,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138349)<br>我还没想好要写什么...<br>2012-12-07 18:20<br>赞(0) 踩(0) | <div>好听好听 这几次去K歌都唱这个</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7023971)<br><br>2012-12-07 12:55<br>赞(0) 踩(0) | <div>昨天上午，突然想喝羊汤，于是中午奔去护国寺小吃……今天上午，突然又想唱歌……就现在……这能咋办……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5773974)<br>(⊙o⊙)<br>2012-11-12 15:34<br>赞(0) 踩(0) | <div>再来一杯，哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/851774)<br>duludubi<br>2012-10-27 21:33<br>赞(0) 踩(0) | <div>天下风云出我辈， 一入江湖岁月催；皇图霸业谈笑中， 不胜人生一场醉。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/851774)<br>duludubi<br>2012-10-27 21:33<br>赞(0) 踩(0) | <div>天下风云出我辈， 一入江湖岁月催；<br>皇图霸业谈笑中， 不胜人生一场醉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7081814)<br><br>2012-10-27 20:21<br>赞(0) 踩(0) | <div>我最近听歌越来越。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/158649)<br><br>2012-10-23 13:27<br>赞(0) 踩(0) | <div>第一句最赞：“昨日一去不复回 哦也！”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10940698)<br><br>2012-10-21 23:05<br>赞(0) 踩(0) | <div>矮子推荐</div> |
@@ -2138,13 +2138,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2193296)<br><br>2012-05-19 20:50<br>赞(0) 踩(0) | <div>在KTV学会了这个歌，超级有气氛的歌，适合一干兄弟狂吼！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1417413)<br> <br>2012-05-12 08:47<br>赞(0) 踩(0) | <div>特男人，有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/946093)<br><br>2012-05-11 21:00<br>赞(0) 踩(0) | <div>今宵有酒今宵醉！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/949422)<br><br>2012-05-09 15:40<br>赞(0) 踩(0) | <div>快把酒满上干了这杯大声歌唱好朋友好朋友今宵多欢畅理想改变了我们的模样也让我懂得了要珍惜朋友的肩膀</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/949422)<br><br>2012-05-09 15:40<br>赞(0) 踩(0) | <div>快把酒满上干了这杯大声歌唱<br>好朋友好朋友今宵多欢畅<br>理想改变了我们的模样<br>也让我懂得了要珍惜朋友的肩膀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9080807)<br><br>2012-05-05 07:45<br>赞(0) 踩(0) | <div>说出了男人的内心世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5968515)<br>听吧。<br>2012-04-27 21:43<br>赞(0) 踩(0) | <div>这杯烈酒使我们不在畏惧风雨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3302406)<br><br>2012-04-19 17:08<br>赞(0) 踩(0) | <div>因为好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8861801)<br><br>2012-04-14 17:29<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3892196)<br><br>2012-04-12 13:20<br>赞(0) 踩(0) | <div>人生的旅程有苦有甜也有泪，好汉不提当年酒再干一杯，往事决不后悔不必再理会，此刻朋友这杯酒最珍贵。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4346838)<br><br>2012-04-11 17:40<br>赞(0) 踩(0) | <div>理想改变了 我们的模样也让我 懂得了要珍惜 朋友的肩膀</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4346838)<br><br>2012-04-11 17:40<br>赞(0) 踩(0) | <div>理想改变了 我们的模样<br>也让我 懂得了要珍惜 朋友的肩膀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3414310)<br><br>2012-04-10 12:18<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6855923)<br><br>2012-04-08 10:53<br>赞(0) 踩(0) | <div>hoho</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8725688)<br><br>2012-04-03 23:05<br>赞(0) 踩(0) | <div>1</div> |

@@ -55,9 +55,9 @@ singing the song, singing the song,singing the song...
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259651)<br>我还没想好要写什么...<br>2018-06-12 21:48<br>赞(0) 踩(0) | <div>她的气息容易不稳定，音色抒情又伤感，混合起来造就了她独特的风格</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3652281)<br><br>2015-08-18 21:24<br>赞(0) 踩(0) | <div>棒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2557572)<br>隔离是种很强悍的防御<br>2011-04-21 22:19<br>赞(0) 踩(0) | <div>喜欢这种曲风，喜欢她的声音慢热型歌曲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2010-06-18 18:54<br>赞(2) 踩(0) | <div>选自顺子《Songs For Love》这些歌都很好听，但都很难唱，听得出来，顺子唱得很用心，但是我觉得，她的声线，似乎并不适合这里所有的歌曲。而且，似乎在感情的融合上，有一些问题，顺子并没有表现出这些歌的精髓，有点只是在唱的感觉。所以这张，并不是顺子的最好表现，我并不是很喜欢。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2557572)<br>隔离是种很强悍的防御<br>2011-04-21 22:19<br>赞(0) 踩(0) | <div>喜欢这种曲风，喜欢她的声音<br>慢热型歌曲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2010-06-18 18:54<br>赞(2) 踩(0) | <div>选自顺子《Songs For Love》<br><br>这些歌都很好听，但都很难唱，听得出来，顺子唱得很用心，但是我觉得，她的声线，似乎并不适合这里所有的歌曲。而且，似乎在感情的融合上，有一些问题，顺子并没有表现出这些歌的精髓，有点只是在唱的感觉。所以这张，并不是顺子的最好表现，我并不是很喜欢。</div> |

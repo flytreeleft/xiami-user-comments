@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135766274)<br>音乐如氧<br>2018-04-23 20:56<br>赞(0) 踩(0) | <div>喜欢的创作人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3327281)<br>一个矮子 + 路痴<br>2016-12-21 14:21<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7742410)<br><br>2016-04-08 10:53<br>赞(0) 踩(0) | <div>下周就能见到班长啦。</div> |

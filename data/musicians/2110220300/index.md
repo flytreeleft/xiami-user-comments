@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9bd574360e915599930ff0b138d2b3af.jpg)<br>长毛](https://i.xiami.com/changmao) | **播放数**: 583246<br>**粉丝数**: 25<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/9bd574360e915599930ff0b138d2b3af.jpg)<br>长毛](https://i.xiami.com/changmao) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 583246<br>**粉丝数**: 25<br>**评论数**: 0<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -22,5 +19,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340421294)<br>舍不得忘了你，我会永远记...<br>2021-01-31 17:04<br>赞(0) 踩(0) | <div>如果爱情简简单单多好呢 <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280141797)<br><br>2021-01-27 11:17<br>赞(0) 踩(0) | <div>后弦歌曲的风格依然还是那么熟悉啊，大爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27848101)<br><br>2021-01-24 00:06<br>赞(0) 踩(0) | <div>很赞</div> |
@@ -104,7 +104,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318965607)<br>我一直都在<br>2020-08-07 22:48<br>赞(9) 踩(0) | <div>脸上褪去了青春，却把青春放在歌里。我只喜欢两个歌手: 周杰伦和后弦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276216320)<br>愿风裁尽尘中沙，与君咫尺...<br>2020-08-07 15:58<br>赞(4) 踩(0) | <div>拿着你的签名照，听着你的歌 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408928769)<br><br>2020-08-07 08:36<br>赞(7) 踩(0) | <div>归来时，你仍是那个少年！ <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1554515)<br><br>2020-08-05 22:30<br>赞(6) 踩(0) | <div>太好听(ง &amp;bull;̀_&amp;bull;́)ง！！！！又回到那年夏天的感觉！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1554515)<br><br>2020-08-05 22:30<br>赞(6) 踩(0) | <div>太好听(ง &amp;bull;̀_&amp;bull;́)ง！！！！<br>又回到那年夏天的感觉！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327815143)<br>留不住的青春年华，请慢点...<br>2020-08-05 06:21<br>赞(4) 踩(0) | <div>后弦的歌还是可以听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404637371)<br> <br>2020-08-03 05:29<br>赞(4) 踩(0) | <div>太好听了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285791584)<br><br>2020-08-02 19:30<br>赞(6) 踩(0) | <div>好听，后弦加油</div> |
@@ -140,7 +140,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122980860)<br>我还没想好要写什么...<br>2020-07-19 06:08<br>赞(6) 踩(0) | <div>歌词亮了，全都是回忆啊 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264503761)<br>还是搞不懂，忙忙碌碌为了...<br>2020-07-19 00:07<br>赞(2) 踩(0) | <div>好听，一直很喜欢后弦！但希望可以尝试其他曲风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/165846690)<br>喜欢五月天<br>2020-07-18 23:53<br>赞(3) 踩(0) | <div>真好，还是当年熟悉的调调！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335111336)<br><br>2020-07-18 22:32<br>赞(6) 踩(0) | <div>华语乐坛的黄金时代逝去，幸好你还在。哪张金曲歌碟有你的名字，我一定会买。一晃十年，那年我踩过的单车，恋人已经变成疼爱的公主。打开你新歌的推送，我却依然是摇着脑袋听歌的放肆少年。不温不火的后弦，请你继续向前。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335111336)<br><br>2020-07-18 22:32<br>赞(6) 踩(0) | <div>华语乐坛的黄金时代逝去，幸好你还在。<br>哪张金曲歌碟有你的名字，我一定会买。<br>一晃十年，那年我踩过的单车，恋人已经变成疼爱的公主。<br>打开你新歌的推送，我却依然是摇着脑袋听歌的放肆少年。<br>不温不火的后弦，请你继续向前。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443696531)<br>我还没想好要写什么...<br>2020-07-18 22:23<br>赞(0) 踩(0) | <div>大哥哥好^_^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24456625)<br><br>2020-07-18 20:21<br>赞(0) 踩(0) | <div>几百条评论，虾米一路走来&amp;hellip;&amp;hellip;后弦一路走来&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344437376)<br>等风来不如追风去~<br>2020-07-18 14:12<br>赞(3) 踩(0) | <div>怪不得随机听着，突然觉得这旋律这么熟悉这么好听，原来发现是青春啊 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
@@ -152,13 +152,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211556561)<br><br>2020-07-17 22:53<br>赞(1) 踩(0) | <div>爷青回</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3339475)<br><br>2020-07-17 18:29<br>赞(3) 踩(0) | <div>后弦回来了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430873175)<br><br>2020-07-17 17:42<br>赞(1) 踩(0) | <div>要不要去参加男团 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430873175)<br><br>2020-07-17 16:09<br>赞(4) 踩(0) | <div>曾经一遍又一遍的听mp3后弦一遍又一遍跟别人解释 他不是周杰伦曾经美好的青春都有后弦陪伴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430873175)<br><br>2020-07-17 16:09<br>赞(4) 踩(0) | <div>曾经一遍又一遍的听mp3后弦<br>一遍又一遍跟别人解释 他不是周杰伦<br>曾经美好的青春<br>都有后弦陪伴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18261019)<br>听见 美好<br>2020-07-17 15:58<br>赞(4) 踩(0) | <div>不知道现在的中学生会不会喜欢听后弦呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405951070)<br><br>2020-07-17 15:58<br>赞(1) 踩(0) | <div>好感动！你终于出新歌了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31442537)<br><br>2020-07-17 15:49<br>赞(6) 踩(0) | <div>这首歌如果放现在，假设听我说假设是周董唱出来，肯定会霸榜整年，全宇宙的彩虹屁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35834278)<br>唯有音乐与美食不可辜负～<br>2020-07-17 14:09<br>赞(2) 踩(0) | <div>初遇后弦是初中的时候买了周杰伦的一盘盗版磁带，上面都是后弦的歌，从此以后就爱上了，满满的回忆吖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345017864)<br><br>2020-07-17 13:23<br>赞(1) 踩(0) | <div>Long time no see  <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247153654)<br>声控，声控，声控没得救！<br>2020-07-17 13:13<br>赞(1) 踩(0) | <div>很多年后，每每回忆起来，是凉夏，是蓝天，你像空中那朵云，轻盈地浮在心上。分不清回忆的是青春，还是你。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247153654)<br>声控，声控，声控没得救！<br>2020-07-17 13:13<br>赞(1) 踩(0) | <div>很多年后，每每回忆起来，是凉夏，是蓝天，你像空中那朵云，轻盈地浮在心上。<br>分不清回忆的是青春，还是你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265994569)<br><br>2020-07-17 12:52<br>赞(2) 踩(0) | <div>初次听到后弦，还是《西厢》里面的秀才，转眼都这么多年过去了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412094421)<br>和你一起慢慢变老<br>2020-07-17 12:15<br>赞(1) 踩(0) | <div>好听 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281469494)<br>行者无疆<br>2020-07-17 12:02<br>赞(1) 踩(0) | <div>你笑了</div> |
@@ -188,7 +188,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435249368)<br><br>2020-07-17 06:55<br>赞(3) 踩(0) | <div>：</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409270642)<br><br>2020-07-17 06:54<br>赞(3) 踩(0) | <div>海边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174824350)<br><br>2020-07-17 06:47<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23520509)<br>天下皆白，唯我独。。。<br>2020-07-17 06:33<br>赞(3) 踩(0) | <div>脸颊上你的问候像寄给爱的邮戳 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23520509)<br>天下皆白，唯我独。。。<br>2020-07-17 06:33<br>赞(3) 踩(0) | <div>脸颊上你的问候<br>像寄给爱的邮戳 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334559456)<br><br>2020-07-17 06:31<br>赞(4) 踩(0) | <div>哇哦，发新歌了 <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2299773)<br><br>2020-07-17 06:13<br>赞(1) 踩(0) | <div>路过打卡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336850511)<br>漫长的人生，需要时间去沉...<br>2020-07-17 06:01<br>赞(2) 踩(0) | <div>还是那个味。 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
@@ -198,7 +198,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49728180)<br><br>2020-07-17 05:31<br>赞(1) 踩(0) | <div>你看见了吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44251722)<br>音乐带给我无尽欢乐<br>2020-07-17 05:28<br>赞(2) 踩(0) | <div>我困了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432390713)<br>养猪的仙女<br>2020-07-17 05:25<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297969789)<br>旅行，不为跋涉千里的向往...<br>2020-07-17 04:41<br>赞(1) 踩(0) | <div>开心过 悲伤过流泪适合逆风唱首歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297969789)<br>旅行，不为跋涉千里的向往...<br>2020-07-17 04:41<br>赞(1) 踩(0) | <div>开心过 悲伤过<br>流泪适合逆风唱首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411839889)<br><br>2020-07-17 03:28<br>赞(0) 踩(0) | <div>棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192694888)<br>flag<br>2020-07-17 03:13<br>赞(2) 踩(0) | <div>哥哥还在坚持做音乐！感谢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298816804)<br>生亦何苦，死亦何哀。<br>2020-07-17 03:08<br>赞(0) 踩(0) | <div>哭了哭了</div> |
@@ -208,7 +208,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190479301)<br>surrender<br>2020-07-17 00:46<br>赞(2) 踩(0) | <div>还是熟悉的后弦。感动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300623717)<br><br>2020-07-17 00:38<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190247717)<br> <br>2020-07-17 00:36<br>赞(1) 踩(0) | <div>。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276230519)<br>胸中有剑，何处不天涯？<br>2020-07-17 00:31<br>赞(4) 踩(0) | <div>从《西厢》开始，一不小心青春的花瓣一路飘洒，后老师的旋律陪我一路走过，人生很短暂，拥有与丧失都只是一个结果，轻装远行，霞光那么灿烂，每一刻都是值得我去融化的极美光景，所以，微微地，最后我笑了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276230519)<br>胸中有剑，何处不天涯？<br>2020-07-17 00:31<br>赞(4) 踩(0) | <div>从《西厢》开始，<br>一不小心青春的花瓣一路飘洒，<br>后老师的旋律陪我一路走过，<br>人生很短暂，<br>拥有与丧失都只是一个结果，<br>轻装远行，<br>霞光那么灿烂，<br>每一刻都是值得我去融化的极美光景，<br>所以，<br>微微地，<br>最后我笑了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440970509)<br><br>2020-07-17 00:25<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253524220)<br>就这样吧，各奔东西吧，各...<br>2020-07-17 00:17<br>赞(2) 踩(0) | <div>还是那个后玄，歌充满青春气息跟满满的幸福感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49847336)<br>是金子总会发光的<br>2020-07-17 00:16<br>赞(3) 踩(0) | <div>后弦，青春最美的回忆</div> |
@@ -318,7 +318,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442225421)<br>永远爱虾米❤️<br>2020-07-16 16:02<br>赞(2) 踩(0) | <div>哇！最早的评论居然是15小时前的 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355333398)<br>今天偷的懒，明天还的债(...<br>2020-07-16 15:40<br>赞(1) 踩(0) | <div>是我喜欢的调调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137405280)<br>快乐是自己给的。<br>2020-07-16 15:35<br>赞(1) 踩(0) | <div>好久不见</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190523640)<br>高冷/不聊/脑残勿近<br>2020-07-16 15:16<br>赞(3) 踩(0) | <div>还是原汁原味的后弦！想起来了单车恋人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190523640)<br>高冷/不聊/脑残勿近<br>2020-07-16 15:16<br>赞(3) 踩(0) | <div>还是原汁原味的后弦！<br>想起来了单车恋人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268206796)<br>Redamancy～<br>2020-07-16 14:47<br>赞(4) 踩(0) | <div>听着歌儿，脑海里突然闪现出无数的画面，好像又想起你笑意盈盈般对我哼着那一首《娃娃脸》一样，干净纯粹，直到心底～所以，那些年，我们满心欢喜的&amp;ldquo;娃娃脸&amp;rdquo;还好吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49655313)<br>長大就是一個不斷道別的過...<br>2020-07-16 14:40<br>赞(1) 踩(0) | <div>十几年了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101848978)<br>婚要结，钱要挣。行走尘世...<br>2020-07-16 14:36<br>赞(1) 踩(0) | <div>爷青回？</div> |
@@ -326,7 +326,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205195976)<br>暂时想不到什么矫情的话。<br>2020-07-16 14:25<br>赞(2) 踩(0) | <div>爷青回</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431590788)<br>我还没想好要写什么...<br>2020-07-16 14:25<br>赞(1) 踩(0) | <div>还是原来的味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50005563)<br>情歌女王<br>2020-07-16 14:23<br>赞(2) 踩(0) | <div>一听似曾相识的感觉，原来是后炫啊，我开心的笑了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207470248)<br>你有，我有，全都有。<br>2020-07-16 14:19<br>赞(3) 踩(0) | <div>年轻那会学校流行十大歌手，每年一次。后弦应该就是那一波最优秀的了，年轻的回忆中柳州除了螺蛳粉，就是后弦了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207470248)<br>你有，我有，全都有。<br>2020-07-16 14:19<br>赞(3) 踩(0) | <div>年轻那会学校流行十大歌手，每年一次。<br>后弦应该就是那一波最优秀的了，<br>年轻的回忆中柳州除了螺蛳粉，就是后弦了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416804670)<br><br>2020-07-16 14:15<br>赞(1) 踩(0) | <div>反正也没人点赞，我要勇敢说出来！我那方面不行</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408757164)<br><br>2020-07-16 19:28<br>赞(0) 踩(0) | <div>去医院好好治一下。别去莆田系 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93078402)<br>I will be yo...<br>2020-07-16 14:10<br>赞(2) 踩(0) | <div>虽然很久没听你的歌，但一开口还是最初的嗓音，这么多年过去了，依旧还是甜甜的懵懂味道</div> |
@@ -377,7 +377,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6562784)<br>理想三旬，费劲思量<br>2020-07-16 10:12<br>赞(3) 踩(0) | <div>娃娃脸你笑了，笑我们都老了！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264595711)<br>原来我才是那具该被嘲笑的...<br>2020-07-16 10:02<br>赞(2) 踩(0) | <div>还是首页推荐？惊喜！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264595711)<br>原来我才是那具该被嘲笑的...<br>2020-07-16 10:01<br>赞(0) 踩(0) | <div>不是吧，这里居然有？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236431456)<br><br>2020-07-16 09:45<br>赞(1) 踩(0) | <div>后弦的声音没有变，而我却老了是时候把后弦的歌再拉出来听一遍了感恩自己生活在华语乐坛爆炸的时代现在的华语乐坛只留下了大爆炸后的黑洞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236431456)<br><br>2020-07-16 09:45<br>赞(1) 踩(0) | <div>后弦的声音没有变，而我却老了<br>是时候把后弦的歌再拉出来听一遍了<br>感恩自己生活在华语乐坛爆炸的时代<br>现在的华语乐坛只留下了大爆炸后的黑洞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98038682)<br>而我的自传里曾经有你，没...<br>2020-07-16 09:44<br>赞(1) 踩(0) | <div>居然不小心一直循环了好久啊！！！我都没在意哈哈哈哈哈，好听，喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373822613)<br><br>2020-07-16 09:44<br>赞(1) 踩(0) | <div>前奏很暖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39116393)<br>时光旅行，遇见优雅。<br>2020-07-16 09:42<br>赞(1) 踩(0) | <div>真的有感动到，还是青春的味道，后弦的浪漫。</div> |
@@ -391,7 +391,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2763753)<br>The best is ...<br>2020-07-16 09:07<br>赞(0) 踩(0) | <div>啊后弦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10881363)<br>C'est la vie...<br>2020-07-16 09:05<br>赞(1) 踩(0) | <div>十五年后如今还是内味我就放心了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335552289)<br>我还没想好要写什么...<br>2020-07-16 08:52<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png"> 依旧好听哦 后弦加油</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5781253)<br>想见你<br>2020-07-16 08:48<br>赞(2) 踩(0) | <div>初中的时候因为喜欢的人的QQ个签 （九公主）听后弦的歌而现在我已经工作6年了！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5781253)<br>想见你<br>2020-07-16 08:48<br>赞(2) 踩(0) | <div>初中的时候因为喜欢的人的QQ个签 （九公主）<br>听后弦的歌<br>而现在我已经工作6年了！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442570341)<br><br>2020-07-16 08:47<br>赞(0) 踩(0) | <div>啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/180400690)<br>因为短暂，所以大嚷<br>2020-07-16 08:45<br>赞(0) 踩(0) | <div>爷青回</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122995562)<br>谢谢你，虾米~<br>2020-07-16 08:29<br>赞(0) 踩(0) | <div>熟悉的味道。</div> |
@@ -401,7 +401,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348858326)<br>之前河水只是河水<br>2020-07-16 07:43<br>赞(0) 踩(0) | <div>☺️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341403767)<br><br>2020-07-16 07:37<br>赞(0) 踩(0) | <div>不能下载 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270788728)<br>想你所想的，爱我所爱的，...<br>2020-07-16 07:36<br>赞(1) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138287140)<br>️<br>2020-07-16 07:35<br>赞(2) 踩(0) | <div>早晨醒来，收到第一条推送通知：后弦的新歌！好开心～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138287140)<br>️<br>2020-07-16 07:35<br>赞(2) 踩(0) | <div>早晨醒来，收到第一条推送通知：后弦的新歌！<br>好开心～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2127206)<br>冬雪小公主<br>2020-07-16 07:35<br>赞(1) 踩(0) | <div>多出专辑哟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326622138)<br><br>2020-07-16 07:34<br>赞(1) 踩(0) | <div>还是挺好听的，加油，不放弃写歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138287140)<br>️<br>2020-07-16 07:34<br>赞(0) 踩(0) | <div>熟悉的感觉</div> |
@@ -426,7 +426,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430588452)<br>all of me<br>2020-07-16 03:11<br>赞(0) 踩(0) | <div>｡ﾟ(ﾟ&amp;acute;Д｀)ﾟ｡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85568296)<br>只有阳光而无阴影 只有欢...<br>2020-07-16 03:05<br>赞(2) 踩(0) | <div>哇哦，想起了娃娃脸 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75733668)<br>How could u ...<br>2020-07-16 03:04<br>赞(3) 踩(0) | <div>一直在&amp;hellip;从小学到了出社会，你的歌曲就是一种能量。见过你几次都很nice 谢谢你的爱 谢谢你对自己的音乐上的坚持</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286113473)<br>一个可爱又迷人的反派角色...<br>2020-07-16 02:36<br>赞(1) 踩(0) | <div>我还在我们还在❤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286113473)<br>一个可爱又迷人的反派角色...<br>2020-07-16 02:36<br>赞(1) 踩(0) | <div>我还在<br>我们还在<br>❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38259862)<br>别啊<br>2020-07-16 02:27<br>赞(0) 踩(0) | <div>怀念的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97668246)<br>Holger<br>2020-07-16 02:23<br>赞(2) 踩(0) | <div>后弦 谢谢你一直没变</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174206476)<br>虾米不离，音乐不弃！VX...<br>2020-07-16 02:21<br>赞(21) 踩(0) | <div>一个从古玩小子到音乐匠人的中国风音乐人 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |

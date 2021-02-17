@@ -12,16 +12,13 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241108571)<br>lalalay<br>2020-05-29 12:22<br>赞(0) 踩(0) | <div>三年啦 我还在 又是拼搏的一年高考加油(ง &amp;bull;̀_&amp;bull;́)ง</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44888140)<br><br>2019-01-17 23:52<br>赞(0) 踩(0) | <div>喜欢的人，应该温暖，而不是伤害热爱的事，应该安心，而不用焦虑慢慢往前走，别胡思乱想。你要的答案，在时间里。 ​​​如果你，错过了，或是还没有错过，请品味上面的内容，然后给我点个赞转发……♡♥静心</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241108571)<br>lalalay<br>2020-05-29 12:22<br>赞(0) 踩(0) | <div>三年啦 我还在 又是拼搏的一年<br>高考加油(ง &amp;bull;̀_&amp;bull;́)ง</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44888140)<br><br>2019-01-17 23:52<br>赞(0) 踩(0) | <div>喜欢的人，应该温暖，而不是伤害<br>热爱的事，应该安心，而不用焦虑<br><br>慢慢往前走，<br>别胡思乱想。<br><br>你要的答案，在时间里。 ​​​<br><br>如果你，<br>错过了，或是还没有错过，<br>请品味上面的内容，<br>然后给我点个赞<br><br><br><br>转发……♡♥静心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14365986)<br>暂无签名~<br>2018-04-22 16:47<br>赞(1) 踩(0) | <div>看到这个封面感觉看到了光明。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326964175)<br>艺术的本质是对生活的热爱<br>2018-03-27 12:20<br>赞(1) 踩(0) | <div>生命</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246459923)<br>居安思危<br>2018-03-20 12:00<br>赞(2) 踩(0) | <div>pure</div> |

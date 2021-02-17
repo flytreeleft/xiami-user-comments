@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264577997)<br>音乐是毒药！（开心家族）<br>2019-05-04 22:57<br>赞(1) 踩(0) | <div>现在电音是流行趋势，没办法</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369813252)<br><br>2019-03-14 22:01<br>赞(0) 踩(0) | <div>我爱满江 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369813252)<br><br>2019-03-14 22:01<br>赞(1) 踩(0) | <div>太牛了吧，给老艺术家打call</div> |

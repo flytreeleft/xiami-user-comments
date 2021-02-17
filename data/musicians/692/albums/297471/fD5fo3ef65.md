@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191764769)<br>我还没想好要写什么...<br>2018-01-07 17:06<br>赞(0) 踩(0) | <div>我很喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288933750)<br>想要过得快乐，要记住：事...<br>2017-09-05 01:44<br>赞(1) 踩(0) | <div>这么好听的音乐，竟然没有评论</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341685344)<br><br>2018-07-14 10:11<br>赞(0) 踩(0) | <div>毕竟是十多年前的老游戏了</div> |

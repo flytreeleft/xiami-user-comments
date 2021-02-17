@@ -3,7 +3,7 @@ Emancipator
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3b904ccc2a254a18075ce6d914bd52f1.jpg)<br>Emancipator](https://i.xiami.com/emancipator) | **播放数**: 5731341<br>**粉丝数**: 12912<br>**评论数**: 618<br>**地区**: United States of America 美国<br>**风格**: 神游舞曲 Trip Hop, 缓拍 Downtempo, 独立电子乐 Indietronica<br> |
+| [![](../../images/musicians/3b904ccc2a254a18075ce6d914bd52f1.jpg)<br>Emancipator](https://i.xiami.com/emancipator) | **地区**: United States of America 美国<br>**风格**: 神游舞曲 Trip Hop, 缓拍 Downtempo, 独立电子乐 Indietronica<br>**播放数**: 5731341<br>**粉丝数**: 12912<br>**评论数**: 618<br> |
 
 ## 档案
 
@@ -44,8 +44,8 @@ With the release of his newest album, Dusk to Dawn, the music promises listeners
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445793361)<br><br>2020-12-05 14:03<br>赞(0) 踩(0) | <div>喜欢其中的安静又洒脱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427840279)<br>购买诗集《落日飞奔术》电...<br>2020-11-21 04:49<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410489503)<br>南极鳗鱼<br>2020-11-09 06:30<br>赞(0) 踩(0) | <div>/</div> |
@@ -63,7 +63,7 @@ With the release of his newest album, Dusk to Dawn, the music promises listeners
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1923255)<br>  云雷， 屯 ，君子以...<br>2019-07-13 10:09<br>赞(2) 踩(0) | <div>七年后再回来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254114886)<br>我还没想好要写什么...<br>2019-05-28 23:59<br>赞(0) 踩(0) | <div>第一次听，感觉独自一人陷入了另外一个世界，就是爱上了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3028143)<br>我还没想好要写什么...<br>2019-05-24 08:40<br>赞(0) 踩(0) | <div>❤️</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335519557)<br><br>2019-05-08 00:26<br>赞(2) 踩(0) | <div>近两年可能他老了，也可能我老了再也没有以前的那些感觉了五年来听过所有我能找到的他的曲子但也就这样吧耳目一新（kamakura，merlion的remix，elephant和 hill signed）闪耀如星尘（greenland， eve ii 和delta trance）惊喜不断 （vines，anthem的remix和dusk to dawn）跳跃起伏（lionheart，when i go的remix）力量澎湃（old devil的live）幽云忧己（natural cause）或是魂牵梦绕（canopy，land&amp;sea和seven seasp）感觉了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335519557)<br><br>2019-05-08 00:26<br>赞(2) 踩(0) | <div>近两年可能他老了，也可能我老了<br>再也没有以前的那些感觉了<br>五年来听过所有我能找到的他的曲子但也就这样吧<br>耳目一新（kamakura，merlion的remix，elephant和 hill signed）<br>闪耀如星尘（greenland， eve ii 和delta trance）<br>惊喜不断 （vines，anthem的remix和dusk to dawn）<br>跳跃起伏（lionheart，when i go的remix）<br>力量澎湃（old devil的live）<br>幽云忧己（natural cause）<br>或是魂牵梦绕（canopy，land&amp;sea和seven seasp）感觉了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346165752)<br><br>2019-05-05 01:31<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39925823)<br>#<br>2019-05-01 13:42<br>赞(1) 踩(0) | <div>交响级别的电子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49364118)<br>*<br>2019-05-01 12:33<br>赞(0) 踩(0) | <div></div> |
@@ -74,7 +74,7 @@ With the release of his newest album, Dusk to Dawn, the music promises listeners
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400715332)<br>留白<br>2019-03-07 20:56<br>赞(0) 踩(0) | <div>绝对不能错过的 <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400715332)<br>留白<br>2020-03-27 09:08<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45686435)<br>一壺飛鳧 尋山夢鶴   ...<br>2019-02-24 15:55<br>赞(0) 踩(0) | <div>〰️</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16000741)<br><br>2019-02-09 02:15<br>赞(0) 踩(0) | <div>最近虾米的AI推荐真的是神了！！！这两天听Downtempo！推荐的都是什么神仙音乐人啊！！！！太棒啦！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16000741)<br><br>2019-02-09 02:15<br>赞(0) 踩(0) | <div>最近虾米的AI推荐真的是神了！！！<br>这两天听Downtempo！推荐的都是什么神仙音乐人啊！！！！太棒啦！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33071402)<br>I do not car...<br>2019-01-04 15:48<br>赞(1) 踩(0) | <div>我爱您TT</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32704477)<br>像熟悉了一个世纪<br>2018-12-17 00:07<br>赞(0) 踩(0) | <div>大部分都是十几岁的时候听上他的作品 真的很神奇了 每一首都是单曲循环佳品 从19追到22</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32051445)<br>女孩儿的歌。 永爱虾米<br>2018-11-26 21:20<br>赞(0) 踩(0) | <div>爱了爱了</div> |
@@ -105,7 +105,7 @@ With the release of his newest album, Dusk to Dawn, the music promises listeners
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151713)<br>Past and gon...<br>2017-11-21 09:20<br>赞(0) 踩(0) | <div>道格晚上见 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8251803)<br>这家伙很笨什么也没留下....<br>2017-11-19 23:42<br>赞(2) 踩(0) | <div>北京站竟然取消了 想跑去上海站看了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8640101)<br>★さぁ、仆の出番だよ。<br>2017-11-19 17:40<br>赞(2) 踩(0) | <div>北京的为什么取消！！我朋友都从外地赶过来了！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8542277)<br>一<br>2017-11-18 01:01<br>赞(1) 踩(0) | <div><a href="https://emancipator.bandcamp.com/album/baralku" target="_blank" rel="nofollow noreferrer noopener">https://emancipator.bandcamp.com/album/baralku</a>原来新专全部出完了可惜</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8542277)<br>一<br>2017-11-18 01:01<br>赞(1) 踩(0) | <div><a href="https://emancipator.bandcamp.com/album/baralku" target="_blank" rel="nofollow noreferrer noopener">https://emancipator.bandcamp.com/album/baralku</a><br>原来新专全部出完了<br>可惜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2165528)<br> <br>2017-11-17 20:50<br>赞(0) 踩(0) | <div>完美错过！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4195148)<br>热爱生活的普通人<br>2017-11-17 08:11<br>赞(0) 踩(0) | <div>niubi</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3581084)<br> <br>2017-11-16 21:18<br>赞(0) 踩(0) | <div>算是我的电子启蒙 好想去看</div> |
@@ -227,7 +227,7 @@ With the release of his newest album, Dusk to Dawn, the music promises listeners
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1520891)<br>醒醒睡睡的人啊。<br>2015-10-08 13:12<br>赞(0) 踩(0) | <div>祝福你健康</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22456876)<br>失眠是因为睡前戴上了耳机<br>2015-10-08 13:21<br>赞(0) 踩(0) | <div><q><b>Youngweenie说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34353908)<br>穷写小说的。<br>2015-10-01 13:18<br>赞(0) 踩(0) | <div>宁静的磅礴，现代化的自然风</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47418206)<br> <br>2015-09-28 22:33<br>赞(2) 踩(0) | <div>第一次听他的歌是在暖暖环游世界里面 的一首natural cause 然后一直百度找这首歌的出处找了两天终于找到了Emancipator这个艺人 然后瞬间爱上了他的歌 15年九月的新砖1993和natural cause有一种相同的感觉 像是漫步在大自然里面 能够听到大自然的声音 但又非常的宁静</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47418206)<br> <br>2015-09-28 22:33<br>赞(2) 踩(0) | <div>第一次听他的歌是在暖暖环游世界里面 的一首natural cause 然后一直百度找这首歌的出处<br>找了两天终于找到了Emancipator这个艺人 然后瞬间爱上了他的歌 15年九月的新砖1993和natural cause有一种相同的感觉 像是漫步在大自然里面 能够听到大自然的声音 但又非常的宁静</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34353908)<br>穷写小说的。<br>2015-09-28 17:42<br>赞(0) 踩(0) | <div>深入灵魂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50844042)<br>IFFREE<br>2015-09-23 00:26<br>赞(0) 踩(0) | <div>～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9535910)<br>两只狗<br>2015-09-20 16:42<br>赞(0) 踩(0) | <div>点</div> |
@@ -312,7 +312,7 @@ With the release of his newest album, Dusk to Dawn, the music promises listeners
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19786814)<br>暂无签名~<br>2014-08-05 19:47<br>赞(0) 踩(0) | <div>真男神..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38974282)<br><br>2014-07-31 16:59<br>赞(0) 踩(0) | <div>太喜欢了~\(≧▽≦)/~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240547)<br><br>2014-07-23 21:47<br>赞(0) 踩(0) | <div>小伙现在混得可好了，前几个月还和shpongle同台一个迷幻音乐节，海报上名字都是一样大的字体哦！不过他第一张就明显地用了很多真乐器采样，势必当年就奠定了以后舞台身后站一个团的伴奏定位，野心十分不小哦←赞人合格体请诸位参考</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2458573)<br><br>2014-07-18 21:35<br>赞(0) 踩(0) | <div>这哥们87年的，咱再写乐评能不提“19岁”了么，愁死了！ 也不知道国内乐评都是互相抄的还是怎么回事，似乎就认准了19岁音乐天才这一噱头了。（没其他意思，我也是他的粉）话说这哥们87年生人，比我还大一岁，可到哪儿看总能看到19岁19岁19岁的乐评或介绍，其中相当多还都是近年写的，愁不愁人啊你们！咱夸人，能换点新词儿不？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2458573)<br><br>2014-07-18 21:35<br>赞(0) 踩(0) | <div>这哥们87年的，咱再写乐评能不提“19岁”了么，愁死了！ 也不知道国内乐评都是互相抄的还是怎么回事，似乎就认准了19岁音乐天才这一噱头了。（没其他意思，我也是他的粉）<br>话说这哥们87年生人，比我还大一岁，可到哪儿看总能看到19岁19岁19岁的乐评或介绍，其中相当多还都是近年写的，愁不愁人啊你们！<br>咱夸人，能换点新词儿不？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7269731)<br>謎樣跨次元喵¤電波星¤<br>2014-07-17 19:46<br>赞(0) 踩(0) | <div>20首連續聽下來，好多首都猶豫要不要收。。。耐不耐聽還不知道，但很抓耳。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2398174)<br>暂无签名~<br>2014-08-01 08:51<br>赞(0) 踩(0) | <div>说出心声了……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11901452)<br><br>2014-07-04 22:08<br>赞(0) 踩(0) | <div>,,,, 让它穿过你，成为你身体的一部分</div> |
@@ -343,7 +343,7 @@ With the release of his newest album, Dusk to Dawn, the music promises listeners
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6878720)<br><br>2014-02-03 18:26<br>赞(0) 踩(0) | <div>加了弦乐 不错哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12424426)<br>be aware<br>2014-01-24 20:24<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9429409)<br><br>2014-01-23 19:17<br>赞(0) 踩(0) | <div>天才</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10991442)<br><br>2014-01-20 15:19<br>赞(2) 踩(0) | <div>推荐首前年在songza上听到的 thistle -- Nym &amp;amp; Emancipator, 节奏很棒<a href="http://www.xiami.com/song/1770551919?spm=a1z1s.3521865.23309997.1.hT9u9P" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1770551919?spm=a1z1s.3521865.23309997.1.hT9u9P</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10991442)<br><br>2014-01-20 15:19<br>赞(2) 踩(0) | <div>推荐首前年在songza上听到的 thistle -- Nym &amp;amp; Emancipator, 节奏很棒<br><a href="http://www.xiami.com/song/1770551919?spm=a1z1s.3521865.23309997.1.hT9u9P" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1770551919?spm=a1z1s.3521865.23309997.1.hT9u9P</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209384)<br>音乐，偶尔有枪<br>2014-01-11 16:03<br>赞(0) 踩(0) | <div>！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18663179)<br>笑口常开 笑天下可笑之人...<br>2014-01-06 02:54<br>赞(0) 踩(0) | <div>自然</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/606760)<br>魂牵一线<br>2014-01-03 07:47<br>赞(0) 踩(0) | <div>ting</div> |
@@ -403,7 +403,7 @@ With the release of his newest album, Dusk to Dawn, the music promises listeners
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13570956)<br><br>2013-05-12 12:49<br>赞(1) 踩(0) | <div>有一种自得自恋味儿，好喜爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4151677)<br><br>2013-05-09 10:59<br>赞(0) 踩(0) | <div>Emancipator</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7878778)<br><br>2013-05-07 13:55<br>赞(221) 踩(0) | <div>我17岁的时候资料就写他19岁，如今我22了，介绍依然是19</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1938672)<br><br>2013-06-13 16:17<br>赞(0) 踩(0) | <div>&amp;quot;Soon It Will Be Cold Enough, at the age of 19 in 2006.&amp;quot;推算他1987年生人。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1938672)<br><br>2013-06-13 16:17<br>赞(0) 踩(0) | <div>&amp;quot;Soon It Will Be Cold Enough, at the age of 19 in 2006.&amp;quot;<br>推算他1987年生人。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/645302)<br>在彩色密封的半透明盒子里<br>2013-11-17 22:06<br>赞(0) 踩(0) | <div>笑尿！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2470118)<br><br>2013-12-17 14:31<br>赞(0) 踩(0) | <div>很明显资料没有更新……</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1078090)<br> <br>2014-03-23 15:42<br>赞(0) 踩(0) | <div>永远定格在19岁的少年神马的。。</div> |
@@ -547,7 +547,7 @@ With the release of his newest album, Dusk to Dawn, the music promises listeners
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1540394)<br><br>2012-04-02 22:01<br>赞(0) 踩(0) | <div>帅爆了的音乐~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7002168)<br><br>2012-04-02 10:32<br>赞(0) 踩(0) | <div>不算是很慵懒很迷幻，反而显得有力度。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4309654)<br><br>2012-03-29 01:05<br>赞(0) 踩(0) | <div>竟然是个19岁的小孩⋯⋯</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478527)<br>好想跟衣服在洗衣机里滚<br>2012-03-25 23:06<br>赞(0) 踩(0) | <div>triphop做得好的可以算是屈指可数吗每一张都值得好好去听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478527)<br>好想跟衣服在洗衣机里滚<br>2012-03-25 23:06<br>赞(0) 踩(0) | <div>triphop做得好的可以算是屈指可数吗<br>每一张都值得好好去听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411501)<br><br>2012-03-20 03:06<br>赞(0) 踩(0) | <div>不一样</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8331690)<br><br>2012-03-09 21:47<br>赞(0) 踩(0) | <div>Emancipator</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3911587)<br><br>2012-03-09 06:21<br>赞(0) 踩(0) | <div>不错的。</div> |
@@ -558,7 +558,7 @@ With the release of his newest album, Dusk to Dawn, the music promises listeners
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8167606)<br><br>2012-02-25 10:57<br>赞(0) 踩(0) | <div>哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/393018)<br><br>2012-02-24 21:54<br>赞(0) 踩(0) | <div>再次遇到emancipator. 真心不会拼这个词,哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8103367)<br><br>2012-02-19 00:04<br>赞(0) 踩(0) | <div>yyyyy</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8065398)<br>戴上耳机，世界真安静～～<br>2012-02-16 22:40<br>赞(1) 踩(0) | <div>这小伙是天才.大学时刚听到就大爱.每天从早听到晚上睡觉..还带着耳机.那张.will.becold.enough专辑无数次循环.没想2011有两张新专辑.哎.落后太多了.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8065398)<br>戴上耳机，世界真安静～～<br>2012-02-16 22:40<br>赞(1) 踩(0) | <div>这小伙是天才.大学时刚听到就大爱.每天从早听到晚上睡觉..还带着耳机.那张.will.becold.enough专辑无数次循环.<br>没想2011有两张新专辑.哎.落后太多了.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8068888)<br><br>2012-02-16 19:12<br>赞(0) 踩(0) | <div>下载了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2266754)<br><br>2012-02-12 11:22<br>赞(0) 踩(0) | <div>Rhythm</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2266754)<br><br>2012-02-12 11:21<br>赞(0) 踩(0) | <div>JEZZ</div> |

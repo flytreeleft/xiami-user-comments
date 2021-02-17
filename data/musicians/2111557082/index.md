@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/67b3a96c480f6ad7d08dbf9e121fc47d.jpg)<br>启明星](https://i.xiami.com/qmx) | **播放数**: 1502855<br>**粉丝数**: 79<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/67b3a96c480f6ad7d08dbf9e121fc47d.jpg)<br>启明星](https://i.xiami.com/qmx) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1502855<br>**粉丝数**: 79<br>**评论数**: 0<br> |
 
 ## 档案
 
@@ -23,5 +23,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

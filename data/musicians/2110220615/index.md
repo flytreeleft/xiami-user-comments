@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/36d625cee3d7b87b7e45ca79c6f891f4.jpg)<br>-Crush_仔](https://i.xiami.com/xiaoddd) | **播放数**: 1055311<br>**粉丝数**: 23<br>**评论数**: 2<br>**地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/36d625cee3d7b87b7e45ca79c6f891f4.jpg)<br>-Crush_仔](https://i.xiami.com/xiaoddd) | **地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening<br>**播放数**: 1055311<br>**粉丝数**: 23<br>**评论数**: 2<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,7 +17,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402613594)<br><br>2019-12-14 22:21<br>赞(0) 踩(0) | <div>优美的歌声，使我陶醉。想起我们俩一起看天亮</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402613594)<br><br>2019-12-14 22:21<br>赞(0) 踩(0) | <div>优美的歌声，使我陶醉。<br>想起我们俩一起看天亮</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41466673)<br>黑色的墨，染上安详。<br>2017-06-29 11:51<br>赞(1) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

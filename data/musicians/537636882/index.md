@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3ee71fddca7c4643892d2ac566262ce6.png)<br>马云](https://i.xiami.com/mayun) | **播放数**: 40576347<br>**粉丝数**: 7191<br>**评论数**: 896<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 华语唱作人 Chinese Singer-Songwriter, 摇滚 Rock & Roll<br> |
+| [![](../../images/musicians/3ee71fddca7c4643892d2ac566262ce6.png)<br>马云](https://i.xiami.com/mayun) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 华语唱作人 Chinese Singer-Songwriter, 摇滚 Rock & Roll<br>**播放数**: 40576347<br>**粉丝数**: 7191<br>**评论数**: 896<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50203431)<br>明月何时照我还？<br>2021-01-24 12:53<br>赞(0) 踩(0) | <div>虾米关了你去哪里发歌啊？笑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190771495)<br><br>2021-01-08 19:20<br>赞(3) 踩(0) | <div>马资本真厉害，说关就关。祝愿淘宝有关闭的一天。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44533528)<br><br>2021-01-05 19:51<br>赞(2) 踩(0) | <div>万恶的资本家</div> |
@@ -72,7 +72,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251815804)<br>      <br>2019-10-15 20:20<br>赞(0) 踩(0) | <div>换头像了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44636481)<br><br>2019-09-23 22:42<br>赞(0) 踩(0) | <div>新歌还没上吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429662472)<br><br>2019-09-21 10:12<br>赞(0) 踩(0) | <div>替我还花呗吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410006360)<br><br>2019-09-21 01:23<br>赞(0) 踩(0) | <div>有钱任性！没毛病！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410006360)<br><br>2019-09-21 01:23<br>赞(0) 踩(0) | <div>有钱任性！<br><br>没毛病！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264444933)<br>我喜欢我。我还是我。<br>2019-09-19 19:42<br>赞(1) 踩(0) | <div>新专辑什么时候出？？？迫不及待了 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33194459)<br>心宽不枉天地宽<br>2019-09-13 07:36<br>赞(0) 踩(0) | <div>终于来了，欢迎入住虾米音乐。 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420831355)<br>音乐制作人，DJ，努力中<br>2019-11-09 20:34<br>赞(0) 踩(0) | <div>人家是虾米音乐老板 虾米音乐本来就是阿里旗下产品</div> |
@@ -82,7 +82,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85568296)<br>只有阳光而无阴影 只有欢...<br>2019-09-12 16:05<br>赞(0) 踩(0) | <div>哈哈哈，提示有MV</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424720321)<br><br>2019-09-12 07:51<br>赞(1) 踩(0) | <div>我心中永远的大神 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11018219)<br><br>2019-09-11 20:44<br>赞(1) 踩(0) | <div>怒放的生命呢?</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27633136)<br> <br>2019-09-11 13:47<br>赞(0) 踩(0) | <div>我要聽新歌！甚麼時候發新單曲或新專輯！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27633136)<br> <br>2019-09-11 13:47<br>赞(0) 踩(0) | <div>我要聽新歌！<br>甚麼時候發新單曲或新專輯！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429528663)<br>我还没想好要写什么...<br>2019-09-07 17:45<br>赞(1) 踩(0) | <div>没想到我亲爱的马老师，还听“你的酒馆对我打了洋”“那个女孩”</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429528663)<br>我还没想好要写什么...<br>2019-09-07 17:30<br>赞(3) 踩(0) | <div>马云；人言我穷我丑，常拒之门外，非我不弃也。人言我贵，贵不可及，常邀座上宾，这非我之能也，此乃时也、命也。人生在世，富贵不可尽用，贫贱不可自欺。听天地循环，周而复始。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363454712)<br>这该死的无处安放的优秀<br>2019-09-06 22:11<br>赞(2) 踩(0) | <div>狗贼，还我996</div> |
@@ -175,7 +175,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348396986)<br><br>2018-07-22 11:59<br>赞(0) 踩(0) | <div><q><b>Blackbird 说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342241692)<br><br>2018-05-07 09:24<br>赞(2) 踩(0) | <div>我也来了 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357195942)<br>华语音乐唱作人<br>2018-05-07 02:41<br>赞(3) 踩(0) | <div>我也来蹭蹭网</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258849844)<br>踏雪无痕  落地有坑<br>2018-05-05 23:13<br>赞(7) 踩(0) | <div>桃花庵歌明 &amp;middot; 唐寅桃花坞里桃花庵，桃花庵下桃花仙；桃花仙人种桃树，又摘桃花卖酒钱。酒醒只在花前坐，酒醉还来花下眠；半醒半醉日复日，花落花开年复年。但愿老死花酒间，不愿鞠躬车马前；车尘马足富者趣，酒盏花枝贫者缘。若将富贵比贫贱，一在平地一在天；若将贫贱比车马，他得驱驰我得闲。别人笑我太疯癫，我笑他人看不穿；不见五陵豪杰墓，无花无酒锄作田。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258849844)<br>踏雪无痕  落地有坑<br>2018-05-05 23:13<br>赞(7) 踩(0) | <div>桃花庵歌<br>明 &amp;middot; 唐寅<br>桃花坞里桃花庵，桃花庵下桃花仙；<br>桃花仙人种桃树，又摘桃花卖酒钱。<br>酒醒只在花前坐，酒醉还来花下眠；<br>半醒半醉日复日，花落花开年复年。<br>但愿老死花酒间，不愿鞠躬车马前；<br>车尘马足富者趣，酒盏花枝贫者缘。<br>若将富贵比贫贱，一在平地一在天；<br>若将贫贱比车马，他得驱驰我得闲。<br>别人笑我太疯癫，我笑他人看不穿；<br>不见五陵豪杰墓，无花无酒锄作田。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327451747)<br><br>2018-05-05 01:01<br>赞(2) 踩(0) | <div>期待你更多的作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358407551)<br><br>2018-05-01 15:59<br>赞(4) 踩(0) | <div>这是一个马云的时代</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334058422)<br><br>2018-04-28 11:59<br>赞(4) 踩(0) | <div>我从来没碰过钱，因为我对钱不感兴趣 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
@@ -195,7 +195,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230803304)<br>三观正又爱国的成都宝藏男...<br>2018-03-29 15:52<br>赞(2) 踩(0) | <div>给马云爸爸点赞爱心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120574822)<br>我还没想好要写什么...<br>2018-03-24 02:07<br>赞(4) 踩(0) | <div>马总很有音乐细胞，唱的好棒！！！&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;能不能给我个机会</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316458354)<br><br>2018-04-06 08:07<br>赞(0) 踩(0) | <div>这马屁拍的，贼6</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244759958)<br><br>2018-03-19 00:52<br>赞(4) 踩(0) | <div>作为专业音乐人请允许我点评一下这首歌：首先，第一感觉这是一首阿里&amp;ldquo;主题曲&amp;rdquo;（不排除是为拍&amp;ldquo;马&amp;rdquo;），从创作上看，歌词部分&amp;ldquo;马&amp;rdquo;、&amp;ldquo;云&amp;rdquo;、&amp;ldquo;唱&amp;rdquo;、&amp;ldquo;风&amp;rdquo;、&amp;ldquo;清&amp;rdquo;、&amp;ldquo;扬&amp;rdquo;三句词对仗工整，似曾经典，歌词大气磅礴却有侠肝义胆中的柔情诗意，由此依稀可见词作者在创作时主观意识很强，不急功，不弄利，具有非凡的精神力，也能由此看出作者用心至深，情之所至万籁俱寂，非常人之所及。作曲上，创作者可谓用尽心思，实为良品，但传颂力、风格力、手法力不强。这里我作为音乐工作者有两个建议：一、曲风可用中国元素，流行当道的中国音乐唯有中国元素才是上品；二、作曲者可在创作手法上运用太极阴阳之法，一生二，二生三，三生万物。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244759958)<br><br>2018-03-19 00:52<br>赞(4) 踩(0) | <div>作为专业音乐人请允许我点评一下这首歌：首先，第一感觉这是一首阿里&amp;ldquo;主题曲&amp;rdquo;（不排除是为拍&amp;ldquo;马&amp;rdquo;），从创作上看，歌词部分&amp;ldquo;马&amp;rdquo;、&amp;ldquo;云&amp;rdquo;、&amp;ldquo;唱&amp;rdquo;、&amp;ldquo;风&amp;rdquo;、&amp;ldquo;清&amp;rdquo;、&amp;ldquo;扬&amp;rdquo;三句词对仗工整，似曾经典，歌词大气磅礴却有侠肝义胆中的柔情诗意，由此依稀可见词作者在创作时主观意识很强，不急功，不弄利，具有非凡的精神力，也能由此看出作者用心至深，情之所至万籁俱寂，非常人之所及。<br>作曲上，创作者可谓用尽心思，实为良品，但传颂力、风格力、手法力不强。<br>这里我作为音乐工作者有两个建议：<br>一、曲风可用中国元素，流行当道的中国音乐唯有中国元素才是上品；<br>二、作曲者可在创作手法上运用太极阴阳之法，一生二，二生三，三生万物。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343162217)<br><br>2018-03-15 07:10<br>赞(2) 踩(0) | <div>马云老师的风清扬唱的不错！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298237243)<br><br>2018-03-05 22:44<br>赞(3) 踩(0) | <div>您歌儿唱的不错，。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209232372)<br>风吹过的街道.<br>2018-02-18 16:36<br>赞(1) 踩(0) | <div>马爸爸必须关注。</div> |
@@ -203,7 +203,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263488003)<br>只因人在风中，聚散不由你...<br>2018-02-10 14:38<br>赞(3) 踩(0) | <div>有钱才能干自己想干的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348774875)<br><br>2018-02-08 22:55<br>赞(2) 踩(0) | <div>但是我是想听王菲唱的啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30380680)<br>whirling<br>2018-02-06 19:52<br>赞(0) 踩(0) | <div>！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236410079)<br> <br>2018-02-05 18:47<br>赞(1) 踩(0) | <div>ㅓㅁㅗㅇㅗㅇㅛㄹㅠㄹㅓ你真的唱歌好听     爸爸</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236410079)<br> <br>2018-02-05 18:47<br>赞(1) 踩(0) | <div>ㅓㅁㅗㅇㅗㅇㅛㄹㅠㄹㅓ<br>你真的唱歌好听     爸爸</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346738593)<br>散淡，自由不羁<br>2018-01-31 22:14<br>赞(2) 踩(0) | <div>希望持续坚持下去，一年，哪怕两年一首</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4366896)<br>铅铭<br>2018-01-29 23:15<br>赞(6) 踩(0) | <div>张韶涵：掌声有请第二位踢馆歌手，Jack Ma!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120574822)<br>我还没想好要写什么...<br>2018-03-24 02:04<br>赞(0) 踩(0) | <div>逗到我了～</div> |
@@ -592,7 +592,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300682608)<br>我还没想好要写什么...<br>2017-11-03 20:44<br>赞(3) 踩(0) | <div>这是我见过最有钱的歌手 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11235021)<br>纵贯线王菲熊光KOKIA...<br>2017-11-03 20:33<br>赞(2) 踩(0) | <div>原来是两天前入驻的虾米音乐人啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330544373)<br>刘结合原创音乐人<br>2017-11-03 20:12<br>赞(0) 踩(0) | <div><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333028303)<br><br>2017-11-03 19:59<br>赞(0) 踩(0) | <div>阿里风字辈老大！ <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333028303)<br><br>2017-11-03 19:59<br>赞(0) 踩(0) | <div>阿里<br>风字辈<br>老大！ <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333022743)<br><br>2017-11-03 19:55<br>赞(0) 踩(0) | <div>我今天生日，你发单曲，好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97273870)<br><br>2017-11-03 19:54<br>赞(2) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> 风清扬&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52347942)<br>Syu牛逼<br>2017-11-03 19:48<br>赞(2) 踩(0) | <div>我只想说一句666</div> |
@@ -666,7 +666,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229490650)<br>就像他在游戏中所追求的排...<br>2017-11-05 23:42<br>赞(0) 踩(0) | <div>那啥，能清空购物车不。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45925586)<br><br>2017-11-05 23:51<br>赞(0) 踩(0) | <div>生命短暂有实力就该任性的放纵放纵自己，精彩 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280082125)<br><br>2017-11-06 01:37<br>赞(0) 踩(0) | <div>爸！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224199987)<br>虾米音乐我爱你<br>2017-11-06 05:04<br>赞(0) 踩(0) | <div>马叔谢谢你给我们带来了这么方便的网络支付（支付宝）还给我们带来了这么多便捷的服务歌也很好</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224199987)<br>虾米音乐我爱你<br>2017-11-06 05:04<br>赞(0) 踩(0) | <div>马叔谢谢你给我们带来了这么方便的网络支付（支付宝）<br>还给我们带来了这么多便捷的服务<br>歌也很好</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43581192)<br>我还没想好要写什么...<br>2017-11-06 11:18<br>赞(0) 踩(0) | <div>(☆_☆)</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333472101)<br><br>2017-11-06 11:30<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61272998)<br>内在的沉淀是一种美，外在...<br>2017-11-06 11:56<br>赞(0) 踩(0) | <div>哈哈，我觉得你一直想做社交但是一直不成功，这回虾米评论说不准能成就你 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">，听了马菲组合后果断关注你，并参与评论！</div> |
@@ -815,7 +815,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429662472)<br><br>2019-09-21 10:10<br>赞(0) 踩(0) | <div>他是虾米音乐的老板</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442247447)<br><br>2020-04-15 08:00<br>赞(0) 踩(0) | <div><q><b>tb043129806说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429662472)<br><br>2020-08-29 13:17<br>赞(0) 踩(0) | <div><q><b>用户673433说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1163055)<br><br>2017-10-13 09:25<br>赞(4) 踩(0) | <div>马云风清扬</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1163055)<br><br>2017-10-13 09:25<br>赞(4) 踩(0) | <div>马云<br>风清扬</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81249666)<br>foyoy没有<br>2017-10-13 09:00<br>赞(1) 踩(0) | <div>抱歉，有钱真的是能为所欲为的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181220714)<br>永远不要欺骗相信你的人。<br>2017-10-13 01:00<br>赞(4) 踩(0) | <div>阿里的江湖文化</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259328909)<br><br>2017-10-12 23:02<br>赞(72) 踩(0) | <div>这个必须收藏</div> |
@@ -886,7 +886,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2193835)<br>马老湿<br>2016-10-18 00:56<br>赞(0) 踩(0) | <div>什么鬼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155187714)<br><br>2016-10-17 17:11<br>赞(0) 踩(0) | <div>不好听啊 完全没节奏和调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12705961)<br> <br>2016-10-17 01:08<br>赞(0) 踩(0) | <div>前排！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31205648)<br>一片赤诚、一片净土、用音...<br>2016-10-17 01:08<br>赞(1) 踩(0) | <div>2016年5月8日，马云任中国企业家俱乐部主席。9月21日，联合国秘书长潘基文亲自签发任命书，宣布马云受邀出任联合国贸易和发展会议青年创业和小企业特别顾问。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31205648)<br>一片赤诚、一片净土、用音...<br>2016-10-17 01:08<br>赞(1) 踩(0) | <div>2016年5月8日，马云任中国企业家俱乐部主席。<br><br>9月21日，联合国秘书长潘基文亲自签发任命书，宣布马云受邀出任联合国贸易和发展会议青年创业和小企业特别顾问。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31205648)<br>一片赤诚、一片净土、用音...<br>2016-10-17 01:08<br>赞(1) 踩(0) | <div>1988年毕业于杭州师范学院外语系，同年担任杭州电子工学院英文及国际贸易教师，1995年创办中国第一家互联网商业信息发布网站“中国黄页”，1998年出任中国国际电子商务中心国富通信息技术发展有限公司总经理，1999年创办阿里巴巴，并担任阿里集团CEO、董事局主席，2013年5月10日，辞任阿里巴巴集团CEO，继续担任阿里集团董事局主席。 6月30日，马云当选全球互联网治理联盟理事会联合主席。  10月受邀出任英国首相戴维·卡梅伦的特别经济事务顾问。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31205648)<br>一片赤诚、一片净土、用音...<br>2016-10-17 01:07<br>赞(1) 踩(0) | <div>马云，男，1964年9月10日生于浙江省杭州市，祖籍浙江省嵊州市（原嵊县）谷来镇， 阿里巴巴集团主要创始人，现担任阿里巴巴集团董事局主席、日本软银董事、大自然保护协会中国理事会主席兼全球董事会成员、华谊兄弟董事、生命科学突破奖基金会董事。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31205648)<br>一片赤诚、一片净土、用音...<br>2016-10-17 01:06<br>赞(0) 踩(0) | <div>就特么随便唱个歌  就变成艺人了。。。</div> |

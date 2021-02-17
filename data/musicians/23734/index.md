@@ -3,7 +3,7 @@ pg.lost
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8a770807dff5d4f098e15770c9f2d18e.jpg)<br>pg.lost](https://i.xiami.com/pglost) | **播放数**: 4899122<br>**粉丝数**: 22767<br>**评论数**: 1037<br>**地区**: Sweden 瑞典<br>**风格**: 后摇 Post-Rock<br> |
+| [![](../../images/musicians/8a770807dff5d4f098e15770c9f2d18e.jpg)<br>pg.lost](https://i.xiami.com/pglost) | **地区**: Sweden 瑞典<br>**风格**: 后摇 Post-Rock<br>**播放数**: 4899122<br>**粉丝数**: 22767<br>**评论数**: 1037<br> |
 
 ## 档案
 
@@ -26,15 +26,15 @@ pg.lost
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2021-01-06 12:42<br>赞(1) 踩(0) | <div>哎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443094630)<br>虾米，再见<br>2020-11-20 13:54<br>赞(0) 踩(0) | <div>感恩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54127166)<br>/<br>2020-11-19 13:57<br>赞(0) 踩(0) | <div>蹲点</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300332412)<br>舍得好前行<br>2020-11-11 20:21<br>赞(0) 踩(0) | <div>这上传的照片还够意思 还留了几张 &amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379090435)<br>自由无惧<br>2020-10-11 21:07<br>赞(0) 踩(0) | <div>美丽新世界~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213551899)<br>…<br>2020-10-07 00:02<br>赞(0) 踩(0) | <div>沉迷</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271048604)<br>這裡有什麼好看的<br>2020-09-22 21:37<br>赞(0) 踩(0) | <div>剛好路過 然後發現這隊叫 屁股丟了呃 OK 哈哈</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271048604)<br>這裡有什麼好看的<br>2020-09-22 21:37<br>赞(0) 踩(0) | <div>剛好路過 然後發現這隊叫 屁股丟了<br><br><br><br>呃 OK 哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744950)<br>O<br>2020-09-22 09:28<br>赞(0) 踩(0) | <div><img src="../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213551899)<br>…<br>2020-06-18 21:25<br>赞(0) 踩(0) | <div>/</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400715332)<br>留白<br>2020-03-23 08:07<br>赞(0) 踩(0) | <div>&amp;mdash;&amp;mdash;</div> |
@@ -77,7 +77,7 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4279622)<br><br>2017-10-28 00:12<br>赞(0) 踩(0) | <div>最近喜欢上了后摇，，，，，，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2888100)<br><br>2017-10-27 23:58<br>赞(0) 踩(0) | <div>他们制作的是心灵的交响乐，就像一个可以让不能休息的魂魄休息和回归的操场。他们带着忧郁深沉包含希冀的音调让听者震颤，音乐里不仅拥有那些个人化的思考和感受，也是最广阔的对于声音的实验——一种无边无际的声音体验。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/997435)<br>☮<br>2017-10-27 23:46<br>赞(2) 踩(0) | <div>哈哈哈 屁股丢了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18383879)<br>我还没想好要写什么...<br>2017-10-27 23:38<br>赞(0) 踩(0) | <div>好吧。。大家都说要死，那我也来死一死。。。。嘿你个叼毛！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18383879)<br>我还没想好要写什么...<br>2017-10-27 23:38<br>赞(0) 踩(0) | <div>好吧。。大家都说要死，那我也来死一死。。。。<br>嘿你个叼毛！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8970766)<br>Stay young<br>2017-10-27 23:32<br>赞(2) 踩(0) | <div>惘闻好基友 蛤蛤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1026915)<br><br>2017-10-27 23:30<br>赞(1) 踩(0) | <div>迷失的屁股~~~~哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4485863)<br><br>2017-10-27 23:23<br>赞(0) 踩(0) | <div>平易近人</div> |
@@ -116,7 +116,7 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8032729)<br><br>2017-03-16 23:13<br>赞(0) 踩(0) | <div>收了再说</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34078016)<br>觀天道以立人道。<br>2017-02-15 16:18<br>赞(0) 踩(0) | <div>11</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260123122)<br> <br>2017-01-12 03:59<br>赞(2) 踩(0) | <div>我的入门后摇乐队，也是第一次一个人去看的现场。记得某次分享屁股丢了的某首歌，被你问到“你居然在听pg.lost! ”   是你把我带入后摇圈的，现在我可以离开你，却离不开post rock</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/773393)<br>GALAXY<br>2017-01-03 20:13<br>赞(0) 踩(0) | <div>大家有没有总结或者收集16年后摇精彩的专辑榜单之类的可以分享下给我呀~~最近忙得完全没有时间自己找歌来听了QAQ可是又想听！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/773393)<br>GALAXY<br>2017-01-03 20:13<br>赞(0) 踩(0) | <div>大家有没有总结或者收集16年后摇精彩的专辑榜单之类的可以分享下给我呀~~<br>最近忙得完全没有时间自己找歌来听了QAQ可是又想听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/857024)<br><br>2016-12-28 17:04<br>赞(2) 踩(0) | <div>世界那么大，眼界依然那么小</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477519)<br>爱  是生命的和弦，而不...<br>2016-12-22 20:13<br>赞(3) 踩(0) | <div>北欧的后摇太强大…</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6320476)<br>再见<br>2017-01-26 19:47<br>赞(0) 踩(0) | <div>瑞典的团貌似很多很多</div> |
@@ -131,7 +131,7 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70471126)<br> <br>2016-09-18 12:18<br>赞(0) 踩(0) | <div>屁股丢了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42704537)<br>Decay or com...<br>2016-09-15 00:13<br>赞(0) 踩(0) | <div>成都返场！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33611592)<br>音乐是药<br>2016-09-14 19:56<br>赞(0) 踩(0) | <div>正在成都小酒馆，看现场！第一次！激动</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119477)<br>我还没想好要写什么...<br>2016-09-14 09:31<br>赞(1) 踩(0) | <div>【上海场】视频链接：<a href="http://www.youku.com/playlist_show/id_28125395.html" target="_blank" rel="nofollow noreferrer noopener">http://www.youku.com/playlist_show/id_28125395.html</a>1. Monolith2. Vultures3. Off the Beaten Path4. Still alright5. Ikaros6. Versus7. Kardusen8. Heart of Hearts9. Terrain10. Yes I am11. Weaver</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119477)<br>我还没想好要写什么...<br>2016-09-14 09:31<br>赞(1) 踩(0) | <div>【上海场】视频链接：<a href="http://www.youku.com/playlist_show/id_28125395.html" target="_blank" rel="nofollow noreferrer noopener">http://www.youku.com/playlist_show/id_28125395.html</a><br>1. Monolith<br>2. Vultures<br>3. Off the Beaten Path<br>4. Still alright<br>5. Ikaros<br>6. Versus<br>7. Kardusen<br>8. Heart of Hearts<br>9. Terrain<br>10. Yes I am<br>11. Weaver</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1115247)<br>@Nebula_7293<br>2016-09-14 01:09<br>赞(0) 踩(0) | <div>鼓手 可爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44362004)<br>：<br>2016-09-14 00:58<br>赞(1) 踩(0) | <div>我爱贝司手！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33580601)<br>旋轉 在 二樓拐角<br>2016-09-13 23:29<br>赞(4) 踩(0) | <div>重庆场在餐厅偶遇到pg.lost的，超级友好的 顺利的合了影</div> |
@@ -164,7 +164,7 @@ pg.lost
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280955)<br>简单生活，简单去爱...<br>2016-09-07 12:57<br>赞(0) 踩(0) | <div>我也在现场 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3827879)<br>我还没想好要写什么...<br>2016-09-06 12:53<br>赞(0) 踩(0) | <div>觉得现场一般应该是鼓手的锅，Martin这次不知道什么原因没来，反正vox这场没来，替他的鼓手全场被其他三只眼神杀死无数次，笑快</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2279444)<br>爱在左，同情在右。<br>2016-09-06 10:53<br>赞(1) 踩(0) | <div>丢屁股是不是在欧美没什么名声？怎么连个维基百科都没有，是不是只在亚洲出名？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6975678)<br>生命如此短暂我比烟花灿烂<br>2016-09-05 23:35<br>赞(0) 踩(0) | <div>在武汉VOX 结果在酒吧碰到了吉他手一个人过来买水 啊啊啊啊啊我一个男人都觉得他太帅了——在演出前还在心里酝酿了很久遇到真人怎么说，结果真的准备的内容全部说出来了4人签名全收——Versus CD也收到了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6975678)<br>生命如此短暂我比烟花灿烂<br>2016-09-05 23:35<br>赞(0) 踩(0) | <div>在武汉VOX 结果在酒吧碰到了吉他手一个人过来买水 啊啊啊啊啊我一个男人都觉得他太帅了<br>——<br>在演出前还在心里酝酿了很久遇到真人怎么说，结果真的准备的内容全部说出来了<br>4人签名全收<br>——<br>Versus CD也收到了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1104064)<br><br>2016-09-05 14:12<br>赞(3) 踩(0) | <div>特别喜欢这种专辑列表干干净净又一览无遗的感觉，这就是及时现在虾米作死成这样我也不想放弃的原因之一。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4442318)<br>唱後搖給你聽～～嗞～～<br>2016-09-04 15:27<br>赞(0) 踩(0) | <div>请问 广州的安可最后一首是哪首</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2735360)<br>mort au somm...<br>2016-09-04 16:03<br>赞(0) 踩(0) | <div>weaver</div> |
@@ -350,7 +350,7 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11980672)<br>全世界在舞蹈  你躲在哪...<br>2016-02-06 20:54<br>赞(0) 踩(0) | <div>他们的节奏、鼓实在太对味！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90556894)<br>我还没想好要写什么...<br>2016-01-26 22:48<br>赞(0) 踩(0) | <div><img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1335706)<br>迷恋感觉从无休<br>2016-01-07 11:48<br>赞(0) 踩(0) | <div>匡庐生烟起，翌日赴歌行</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2596779)<br>404<br>2016-01-07 07:28<br>赞(1) 踩(0) | <div>We are very happy to tell you that the mighty Magnus Lindberg Productions just started to mix the songs for our forthcoming album.More info soon!Love/ pg.lost</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2596779)<br>404<br>2016-01-07 07:28<br>赞(1) 踩(0) | <div>We are very happy to tell you that the mighty Magnus Lindberg Productions just started to mix the songs for our forthcoming album.<br>More info soon!<br>Love/ pg.lost</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51957189)<br>我还没想好要写什么...<br>2016-01-04 20:27<br>赞(1) 踩(0) | <div>屁股丢了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51631029)<br> <br>2015-12-25 19:23<br>赞(0) 踩(0) | <div>，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13064652)<br>@：@：@<br>2015-12-13 17:23<br>赞(0) 踩(0) | <div><img src="../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"></div> |
@@ -402,7 +402,7 @@ pg.lost
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9446309)<br>白癡<br>2015-06-20 17:30<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/624542)<br>————————————...<br>2015-04-22 03:48<br>赞(1) 踩(0) | <div>死问之下，说其中一个含义是page lost。还一个不能说。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27651148)<br> <br>2015-04-21 23:42<br>赞(0) 踩(0) | <div>～～～</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1250039)<br>一个善于自毁前程的人。<br>2015-04-18 01:11<br>赞(2) 踩(0) | <div>Pglost在后摇乐队里觉得属于越听越耐听的，结构和感觉太牛逼了。悲而不伤，我甚至都联想到老柴了。活了二十四年，在愚公移山听的他们的现场，是我听过最牛逼的现场，没有之一，我非常喜欢惘闻，也很喜欢发光曲线，但就现场表现来说，他们与Pglost比就是儿童餐。直到现在每次回想那天演出就觉得幸福呐另，买了IE80试音的用的就是他们的音乐，诠释这乐队的歌，对耳机要求也巨高。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1250039)<br>一个善于自毁前程的人。<br>2015-04-18 01:11<br>赞(2) 踩(0) | <div>Pglost在后摇乐队里觉得属于越听越耐听的，结构和感觉太牛逼了。悲而不伤，我甚至都联想到老柴了。<br>活了二十四年，在愚公移山听的他们的现场，是我听过最牛逼的现场，没有之一，我非常喜欢惘闻，也很喜欢发光曲线，但就现场表现来说，他们与Pglost比就是儿童餐。<br>直到现在每次回想那天演出就觉得幸福呐<br>另，买了IE80试音的用的就是他们的音乐，诠释这乐队的歌，对耳机要求也巨高。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6142035)<br><br>2015-11-04 13:49<br>赞(0) 踩(0) | <div>惘闻现场完全不逊色好么。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1250039)<br>一个善于自毁前程的人。<br>2015-11-04 16:31<br>赞(0) 踩(0) | <div><q><b>hey!  bye!说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29834169)<br><br>2015-04-14 14:00<br>赞(0) 踩(0) | <div>因为梦.</div> |
@@ -420,12 +420,12 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8231674)<br>与日俱在 和光同尘<br>2015-02-23 19:32<br>赞(0) 踩(0) | <div>ʕ •ᴥ•ʔ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8882997)<br>萬物生于有，有生于無<br>2015-02-16 13:19<br>赞(0) 踩(0) | <div>Happy Chinese New Year</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41290765)<br>我要回去冥王星了，一起走...<br>2015-02-09 23:11<br>赞(1) 踩(0) | <div>像是在隧道中狂奔，头顶是湛蓝的大海，脚下溅起水花涟涟。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10695504)<br> <br>2015-02-07 17:40<br>赞(0) 踩(0) | <div>download<a href="http://weibo.com/5061412684/BhLsDwhq4" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/5061412684/BhLsDwhq4</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10695504)<br> <br>2015-02-07 17:40<br>赞(0) 踩(0) | <div>download<br><a href="http://weibo.com/5061412684/BhLsDwhq4" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/5061412684/BhLsDwhq4</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81818)<br><br>2015-02-03 02:34<br>赞(8) 踩(0) | <div>太好听了！！太好听了！！这就是我苦苦寻找的！这个音乐跟我的灵魂完全同步 完全契合！我就是喜欢这种音乐！音乐！他妈的这就叫音乐！这才是音乐！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55238954)<br>总比与你一起谈谈理想好吧<br>2019-07-04 12:36<br>赞(0) 踩(0) | <div>你好可爱哈哈哈哈哈啊哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1919964)<br>keep calm an...<br>2015-01-27 13:02<br>赞(0) 踩(0) | <div>虽然感觉韵律很类似但是一听就不会随便切歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3963574)<br>☆✧♥✧☆♥✩✭♥<br>2015-01-22 01:48<br>赞(0) 踩(0) | <div>讚 ~~~ 車上見</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9026169)<br>月牧<br>2015-01-18 17:19<br>赞(0) 踩(0) | <div>果然后摇的评论一大片都是文艺路子没有歌词思维空间大了许多</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9026169)<br>月牧<br>2015-01-18 17:19<br>赞(0) 踩(0) | <div>果然后摇的评论一大片都是文艺路子<br>没有歌词思维空间大了许多</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18263830)<br>审美疲劳中<br>2015-01-17 22:52<br>赞(0) 踩(0) | <div>这也是虾米的合作伙伴。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30691847)<br><br>2015-01-16 16:02<br>赞(0) 踩(0) | <div>叮～～～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7945867)<br><br>2015-01-15 22:23<br>赞(0) 踩(0) | <div>就算隐隐的痛都有种温柔(苦恋都苦得 特别可口)</div> |
@@ -442,12 +442,12 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40427044)<br>琳子<br>2014-12-26 22:40<br>赞(0) 踩(0) | <div>永远的脑残粉 永远的独立味道</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43031293)<br>嗨皮嗨皮～～<br>2014-12-23 11:13<br>赞(0) 踩(0) | <div>后摇 0.0</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3106334)<br>part time hu...<br>2014-12-15 18:57<br>赞(0) 踩(0) | <div>谁能提供一下13号pg在愚公移山的歌单？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4184671)<br><br>2014-12-14 22:33<br>赞(0) 踩(0) | <div>PG.LOST一出场国内的瞬间被秒了RIFF强大的旋律催产了想象力，大海、冰山、天空、星辰……H飞了~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4184671)<br><br>2014-12-14 22:33<br>赞(0) 踩(0) | <div>PG.LOST一出场国内的瞬间被秒了<br>RIFF强大的旋律催产了想象力，大海、冰山、天空、星辰……H飞了~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32386195)<br>金属<br>2015-01-27 02:21<br>赞(0) 踩(0) | <div>哪里被秒，中国的后摇也不差！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18263830)<br>审美疲劳中<br>2015-01-31 11:15<br>赞(0) 踩(0) | <div><q><b>Glost说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/652331)<br>我还没想好要写什么...<br>2014-12-14 17:41<br>赞(0) 踩(0) | <div>能不能就南下到大妖都一次。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36576635)<br>冰岛游客热带地区唯一指定...<br>2014-12-14 12:26<br>赞(1) 踩(0) | <div>昨天现场超赞！可惜音响不够好..但是全场最燃！！！！fire music at the fire house with fire menmories！新砖赞！配的背景mv简直了！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1250039)<br>一个善于自毁前程的人。<br>2014-12-14 01:39<br>赞(2) 踩(0) | <div>现场简直太牛逼了，就宁愿一直听到地球爆炸，觉得惘闻发光曲线都是特么的儿童餐！23年来听得最牛逼的演出，最后返场的那首真让人想哭着死去。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36576635)<br>冰岛游客热带地区唯一指定...<br>2014-12-14 12:26<br>赞(1) 踩(0) | <div>昨天现场超赞！可惜音响不够好..但是全场最燃！！！！<br>fire music at the fire house with fire menmories！<br>新砖赞！配的背景mv简直了！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1250039)<br>一个善于自毁前程的人。<br>2014-12-14 01:39<br>赞(2) 踩(0) | <div>现场简直太牛逼了，就宁愿一直听到地球爆炸，觉得惘闻发光曲线都是特么的儿童餐！<br>23年来听得最牛逼的演出，最后返场的那首真让人想哭着死去。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19794942)<br>有缘再见朋友们<br>2014-12-14 00:46<br>赞(0) 踩(0) | <div>太远了去不了QAQ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12743269)<br>drowning in ...<br>2014-12-13 22:27<br>赞(0) 踩(0) | <div>昨晚演出太棒啦！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31355651)<br>我还没想好要写什么...<br>2014-12-13 12:08<br>赞(0) 踩(0) | <div>昨天的现场炸裂！！真的想死在现场啊啊！！！死在鼓点里！！！太赞了！！！</div> |
@@ -546,11 +546,11 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10410204)<br>?<br>2014-11-07 20:42<br>赞(0) 踩(0) | <div>TOP8都能这么好听这个团看来真的值得一撸</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7833532)<br>我要坐在扫地机器人上难过<br>2014-10-26 18:48<br>赞(0) 踩(0) | <div>屁股丢了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2141426)<br><br>2014-10-26 11:25<br>赞(0) 踩(0) | <div>很容易令人沉醉的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10695504)<br> <br>2014-10-25 13:10<br>赞(0) 踩(0) | <div>download<a href="http://weibo.com/5061412684/BhLsDwhq4?ref=home" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/5061412684/BhLsDwhq4?ref=home</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10695504)<br> <br>2014-10-25 13:10<br>赞(0) 踩(0) | <div>download<br><a href="http://weibo.com/5061412684/BhLsDwhq4?ref=home" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/5061412684/BhLsDwhq4?ref=home</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7991422)<br>萌料理<br>2014-10-17 00:22<br>赞(0) 踩(0) | <div>炸药</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11444538)<br>死の乐章<br>2014-10-12 22:10<br>赞(0) 踩(0) | <div>真的很棒!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9536417)<br><br>2014-10-12 16:22<br>赞(0) 踩(0) | <div>新砖有木有</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26361906)<br>绝口不提，向平白倒去。<br>2014-10-12 13:47<br>赞(0) 踩(0) | <div>第一次听他们的音乐就像磕了药飞了叶子一样，嗨起来。后来再听就沉默了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26361906)<br>绝口不提，向平白倒去。<br>2014-10-12 13:47<br>赞(0) 踩(0) | <div>第一次听他们的音乐就像磕了药飞了叶子一样，嗨起来。<br>后来再听就沉默了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10410204)<br>?<br>2014-10-10 12:35<br>赞(0) 踩(0) | <div>瑞桑&amp;gt;3</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20891191)<br><br>2014-10-06 08:47<br>赞(0) 踩(0) | <div>nice！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21392365)<br><br>2014-09-29 16:29<br>赞(0) 踩(0) | <div>棒！</div> |
@@ -573,7 +573,7 @@ pg.lost
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37620971)<br>暂无签名~<br>2014-10-12 14:37<br>赞(0) 踩(0) | <div><q><b>shuffling0322说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24526663)<br><br>2014-08-28 15:43<br>赞(0) 踩(0) | <div>劫后余生</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16958604)<br>边洗澡边唱歌，边吃饭边喝...<br>2014-08-25 17:49<br>赞(0) 踩(0) | <div>PG.lost 后摇   是屁股丢了的意思吗？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10695504)<br> <br>2014-08-21 00:16<br>赞(2) 踩(0) | <div>download<a href="http://weibo.com/5061412684/BhLsDwhq4?ref=home" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/5061412684/BhLsDwhq4?ref=home</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10695504)<br> <br>2014-08-21 00:16<br>赞(2) 踩(0) | <div>download<br><a href="http://weibo.com/5061412684/BhLsDwhq4?ref=home" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/5061412684/BhLsDwhq4?ref=home</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5119474)<br>啥鸡儿臭毛病，听歌还能听...<br>2014-08-24 14:30<br>赞(0) 踩(0) | <div>谢谢，已关注，慢慢欣赏，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6078598)<br><br>2014-08-12 11:25<br>赞(0) 踩(0) | <div>推荐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8195153)<br><br>2014-08-09 10:27<br>赞(0) 踩(0) | <div>我的最愛吖╮(╯▽╰)╭</div> |
@@ -582,23 +582,23 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634372)<br><br>2014-08-03 13:39<br>赞(0) 踩(0) | <div>好久都没出新砖了，不知道什么时候还能听到他们的新作啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3088925)<br><br>2014-07-30 20:30<br>赞(0) 踩(0) | <div>大爱  Crystalline</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8175760)<br> <br>2014-07-25 17:51<br>赞(1) 踩(0) | <div>屁股丢了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1411759)<br>你为什么一脸严肃<br>2014-07-20 18:41<br>赞(0) 踩(0) | <div>pg.lost 跳舞<a href="http://www.tudou.com/programs/view/Ix3JrwrnEiw/" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/Ix3JrwrnEiw/</a>（以后还能好好听歌么..）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1411759)<br>你为什么一脸严肃<br>2014-07-20 18:41<br>赞(0) 踩(0) | <div>pg.lost 跳舞<br><a href="http://www.tudou.com/programs/view/Ix3JrwrnEiw/" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/Ix3JrwrnEiw/</a><br>（以后还能好好听歌么..）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5907047)<br>8==D<br>2014-07-14 02:44<br>赞(0) 踩(0) | <div>卡茫！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4039272)<br>我的孤独是一座花园<br>2014-06-22 23:02<br>赞(0) 踩(0) | <div>游荡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8069745)<br><br>2014-06-20 09:51<br>赞(2) 踩(0) | <div>Normanmusc 试听排这么后不科学</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18800068)<br>...<br>2014-06-30 09:37<br>赞(0) 踩(0) | <div>+1我心中后摇NO.1</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18800068)<br>...<br>2014-06-30 09:37<br>赞(0) 踩(0) | <div>+1<br>我心中后摇NO.1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9888358)<br><br>2014-06-17 20:46<br>赞(1) 踩(0) | <div>屁股丢了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11115711)<br><br>2014-06-10 12:56<br>赞(0) 踩(0) | <div>纯音乐很赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36220334)<br>要自由也渴望长久<br>2014-06-08 10:06<br>赞(0) 踩(0) | <div>爱post-rock！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3404636)<br> <br>2014-06-07 17:50<br>赞(2) 踩(0) | <div>我记得有一个词来形容这个乐队， 叫做  扶摇直上</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11214185)<br><br>2014-05-30 16:18<br>赞(0) 踩(0) | <div>chris 推荐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36885843)<br><br>2014-05-22 00:14<br>赞(0) 踩(0) | <div>Good good</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13498396)<br> <br>2014-05-20 21:31<br>赞(16) 踩(0) | <div>听后摇就像吸毒一样 有害身体 有益内心还有你们这群人啊 别动不动就想死想死的啊(｡･ω･｡)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13498396)<br> <br>2014-05-20 21:31<br>赞(16) 踩(0) | <div>听后摇就像吸毒一样 有害身体 有益内心<br><br>还有你们这群人啊 别动不动就想死想死的啊(｡･ω･｡)</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285049473)<br>剛拿起酒杯想和你碰杯 才...<br>2018-02-26 23:27<br>赞(0) 踩(0) | <div>哈哈哈你好可爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121361)<br>花盆是盆花<br>2014-05-20 15:09<br>赞(0) 踩(0) | <div>听得好想死啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7382610)<br>谁的等待 恰逢花开<br>2014-05-15 13:51<br>赞(1) 踩(0) | <div>好想死在他们的音乐里</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11901452)<br><br>2014-05-11 14:29<br>赞(1) 踩(0) | <div>又是暴雨的上午，想念天晴想念穿起白色布鞋走在明媚的阳光下，但又那么心满意足地享受着这些美妙的音律,,,,雨季躲在屋里头听后腰,,,nice,,,,,,,,,,</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6814794)<br>像人<br>2014-05-09 22:48<br>赞(2) 踩(0) | <div>个人觉得后摇音乐和末世电影就跟番茄炒鸡蛋一样合拍。曲风上充分体现了现当代人想死却又始终不去死的大无畏割命精神。PS：楼上的请不要再在返璞归真，心如止水，把持力爆表的老衲面前提“伦家”二字............</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6814794)<br>像人<br>2014-05-09 22:48<br>赞(2) 踩(0) | <div>个人觉得后摇音乐和末世电影就跟番茄炒鸡蛋一样合拍。曲风上充分体现了现当代人想死却又始终不去死的大无畏割命精神。<br>PS：楼上的请不要再在返璞归真，心如止水，把持力爆表的老衲面前提“伦家”二字............</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2880357)<br><br>2014-05-08 09:31<br>赞(23) 踩(0) | <div>前两天写了一个关于日本后摇的评论，世界后摇三大方向，日本，北欧，美国，各有特点，日本后摇带交响乐，厚重，美国后摇带点金属，尖锐而有力量 ，北欧后摇一般来说比较低沉悲伤。三者在前半部分区分不明显，好像后摇界必须得用失真吉他作为先头兵，用它把你骗到高空，然后，日本后摇好像踩在云端，而瑞典的这支乐队则好像干脆让人带着炸药包上天，干脆爆炸，把瞬间的辉煌用慢镜头弥散成了一首歌—— 关于《Kardusen》的乐评</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260174)<br>keep healthy<br>2014-05-14 10:09<br>赞(0) 踩(0) | <div>哈哈 你说得真好 好有意思</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2880357)<br><br>2014-05-14 15:40<br>赞(0) 踩(0) | <div><q><b>Sally说：</b></q></div> |
@@ -607,7 +607,7 @@ pg.lost
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8109588)<br>Post Rock & ...<br>2020-11-17 21:22<br>赞(0) 踩(0) | <div>又看到这条评论了，能求下原文吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29174544)<br><br>2014-05-05 12:31<br>赞(1) 踩(0) | <div>瑞典连后摇都带着特有的北欧味道</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6976532)<br>all the beau...<br>2014-05-04 21:13<br>赞(2) 踩(0) | <div>又一个牛逼哄哄的瑞典乐队</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6641886)<br>静。<br>2014-05-01 09:43<br>赞(1) 踩(0) | <div>引用@hampercent ：“好想死在他们的音乐里”好想点无数个赞可惜只有一次</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6641886)<br>静。<br>2014-05-01 09:43<br>赞(1) 踩(0) | <div>引用@hampercent ：“好想死在他们的音乐里”<br>好想点无数个赞<br>可惜只有一次</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11201350)<br>.<br>2014-05-29 08:34<br>赞(0) 踩(0) | <div>可惜只能死一次</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36048269)<br><br>2014-04-30 20:45<br>赞(0) 踩(0) | <div>牵起无数回忆，撩动内心思绪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12401359)<br>我还没想好要写什么...<br>2014-04-25 21:41<br>赞(0) 踩(0) | <div>后摇 Post-Rock</div> |
@@ -648,7 +648,7 @@ pg.lost
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43287)<br><br>2013-11-21 09:36<br>赞(0) 踩(0) | <div>何时！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10086960)<br>adieu<br>2013-11-21 17:28<br>赞(0) 踩(0) | <div><q><b>Amoole说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8956850)<br>沉浮<br>2013-10-23 16:17<br>赞(0) 踩(0) | <div>静谧中的爆发</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-10-15 03:06<br>赞(0) 踩(0) | <div>瑞典后腰369389,8643,412</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-10-15 03:06<br>赞(0) 踩(0) | <div>瑞典后腰<br>369389,8643,412</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11648464)<br>~<br>2013-11-10 11:15<br>赞(0) 踩(0) | <div>咯咯咯</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1343193)<br>我还没想好要写什么...<br>2013-12-06 01:42<br>赞(0) 踩(0) | <div>后腰？  难道还有中场和前锋么~~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1343193)<br>我还没想好要写什么...<br>2013-12-06 01:42<br>赞(0) 踩(0) | <div>队长是伊布吧~</div> |
@@ -695,7 +695,7 @@ pg.lost
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6007807)<br><br>2013-05-31 17:35<br>赞(0) 踩(0) | <div><q><b>麽麽说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1243356)<br><br>2013-05-17 07:49<br>赞(0) 踩(0) | <div>死在这种旋律中。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15299407)<br><br>2013-05-17 01:48<br>赞(0) 踩(0) | <div>化了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7577732)<br>我还没想好要写什么...<br>2013-05-08 18:05<br>赞(1) 踩(0) | <div>干嘛每次都执拗的觉得是Pig.lost嘛迷失小猪:33333</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7577732)<br>我还没想好要写什么...<br>2013-05-08 18:05<br>赞(1) 踩(0) | <div>干嘛每次都执拗的觉得是Pig.lost嘛<br><br>迷失小猪:33333</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1448614)<br><br>2013-05-05 20:06<br>赞(0) 踩(0) | <div>大爱啊啊 啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6187444)<br>progressus a...<br>2013-05-05 18:07<br>赞(0) 踩(0) | <div>希声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74428)<br> <br>2013-04-30 23:48<br>赞(0) 踩(0) | <div>大拿</div> |
@@ -727,7 +727,7 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10263819)<br><br>2012-12-11 23:04<br>赞(0) 踩(0) | <div>细碎的节拍听起来就是有感觉，很有整体感</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4861992)<br><br>2012-12-10 20:00<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3606998)<br> <br>2012-12-09 21:47<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97031)<br><br>2012-12-08 08:46<br>赞(0) 踩(0) | <div>pg.lost / 惘闻---Split LP（2012-12-31）<a href="http://genjingrecords.bandcamp.com/album/split-lp-2" target="_blank" rel="nofollow noreferrer noopener">http://genjingrecords.bandcamp.com/album/split-lp-2</a>PS：封面那是神马玩意！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97031)<br><br>2012-12-08 08:46<br>赞(0) 踩(0) | <div>pg.lost / 惘闻---Split LP（2012-12-31）<br><br><a href="http://genjingrecords.bandcamp.com/album/split-lp-2" target="_blank" rel="nofollow noreferrer noopener">http://genjingrecords.bandcamp.com/album/split-lp-2</a><br><br>PS：封面那是神马玩意！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447058)<br>已迁移至网易云，祝好——...<br>2012-12-08 15:45<br>赞(0) 踩(0) | <div>是后摇自赏团们比较青睐的傻傻麋鹿君还有代表中国的藏羚羊君（不知道有没有误）╮(╯▽╰)╭</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97031)<br><br>2012-12-08 16:28<br>赞(0) 踩(0) | <div><q><b>暗叉说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447058)<br>已迁移至网易云，祝好——...<br>2012-12-08 16:57<br>赞(0) 踩(0) | <div><q><b>M 小姐说：</b></q></div> |
@@ -761,7 +761,7 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9942038)<br><br>2012-10-02 16:08<br>赞(0) 踩(0) | <div>他們的音樂情感波動強烈,很有震撼力!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7159547)<br><br>2012-09-30 12:25<br>赞(0) 踩(0) | <div>yes I am</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7586307)<br><br>2012-09-29 20:18<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1647720)<br><br>2012-09-23 07:21<br>赞(0) 踩(0) | <div><a href="http://www.pglost.com/" target="_blank" rel="nofollow noreferrer noopener">http://www.pglost.com/</a><a href="http://www.myspace.com/pglost" target="_blank" rel="nofollow noreferrer noopener">http://www.myspace.com/pglost</a><a href="http://www.blackstarfoundation.com/" target="_blank" rel="nofollow noreferrer noopener">http://www.blackstarfoundation.com/</a><a href="https://twitter.com/pglost" target="_blank" rel="nofollow noreferrer noopener">https://twitter.com/pglost</a><a href="http://soundcloud.com/pglost" target="_blank" rel="nofollow noreferrer noopener">http://soundcloud.com/pglost</a><a href="http://pglost.bandcamp.com/" target="_blank" rel="nofollow noreferrer noopener">http://pglost.bandcamp.com/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1647720)<br><br>2012-09-23 07:21<br>赞(0) 踩(0) | <div><a href="http://www.pglost.com/" target="_blank" rel="nofollow noreferrer noopener">http://www.pglost.com/</a><br><a href="http://www.myspace.com/pglost" target="_blank" rel="nofollow noreferrer noopener">http://www.myspace.com/pglost</a><br><a href="http://www.blackstarfoundation.com/" target="_blank" rel="nofollow noreferrer noopener">http://www.blackstarfoundation.com/</a><br><a href="https://twitter.com/pglost" target="_blank" rel="nofollow noreferrer noopener">https://twitter.com/pglost</a><br><a href="http://soundcloud.com/pglost" target="_blank" rel="nofollow noreferrer noopener">http://soundcloud.com/pglost</a><br><a href="http://pglost.bandcamp.com/" target="_blank" rel="nofollow noreferrer noopener">http://pglost.bandcamp.com/</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7958085)<br><br>2012-09-18 20:52<br>赞(0) 踩(0) | <div>~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10592386)<br>fly feather<br>2012-09-13 00:59<br>赞(0) 踩(0) | <div>还不错，这节奏我喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1223243)<br><br>2012-09-11 23:37<br>赞(0) 踩(0) | <div>摇啊摇。。。。。。摇到外婆桥</div> |
@@ -922,12 +922,12 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43287)<br><br>2012-02-22 08:35<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1080627)<br>我还没想好要写什么...<br>2012-02-21 12:34<br>赞(0) 踩(0) | <div>！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3902837)<br><br>2012-02-16 13:33<br>赞(0) 踩(0) | <div>3月15号广州！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/785431)<br>我还没想好要写什么...<br>2012-02-15 10:47<br>赞(0) 踩(0) | <div>2012年3月15日2012年3月30日亚洲巡演</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/785431)<br>我还没想好要写什么...<br>2012-02-15 10:47<br>赞(0) 踩(0) | <div>2012年3月15日<br>2012年3月30日<br>亚洲巡演</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2122170)<br><br>2012-02-14 16:25<br>赞(0) 踩(0) | <div>好喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5527077)<br><br>2012-02-14 15:26<br>赞(0) 踩(0) | <div>幻美的意境..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1515819)<br>我还没想好要写什么...<br>2012-02-14 13:26<br>赞(0) 踩(0) | <div>屁股掉了。哇咔咔。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1024367)<br>我还没想好要写什么...<br>2012-02-14 00:33<br>赞(0) 踩(0) | <div>三月份去看PG LOST还是看李志呢？你喜欢哪个？~~</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5001712)<br> <br>2017-10-27 23:58<br>赞(0) 踩(0) | <div>我擦 看见赣州老乡了 好亲切啊李志已经看过了 当然看pg lost了，不过就怕音响不给力。。。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5001712)<br> <br>2017-10-27 23:58<br>赞(0) 踩(0) | <div>我擦 看见赣州老乡了 好亲切啊<br>李志已经看过了 当然看pg lost了，不过就怕音响不给力。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2385139)<br><br>2012-02-13 21:53<br>赞(0) 踩(0) | <div>要来mao</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5097759)<br><br>2012-02-06 00:51<br>赞(0) 踩(0) | <div>Key&amp;gt; --&amp;lt;Vultures   新歌 怎么还没上来</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3074)<br><br>2012-02-06 16:49<br>赞(0) 踩(0) | <div>新歌已经通过豆瓣小站发布了<a href="http://site.douban.com/pglost/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/pglost/</a>可以试听的，三月份会有全国巡演哦</div> |
@@ -986,7 +986,7 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/710378)<br><br>2011-06-27 17:48<br>赞(0) 踩(0) | <div>夏天是为PR而存在的季节</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4424547)<br><br>2011-06-26 21:46<br>赞(0) 踩(0) | <div>试试无妨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1240301)<br>我还没想好要写什么...<br>2011-06-22 15:33<br>赞(0) 踩(0) | <div>触动</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301286)<br>long for it<br>2011-06-09 22:48<br>赞(0) 踩(0) | <div><a href="http://shop65302347.taobao.com/" target="_blank" rel="nofollow noreferrer noopener">http://shop65302347.taobao.com/</a>Pg.lost指定淘宝售卖店，CD黑胶统统滴有</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301286)<br>long for it<br>2011-06-09 22:48<br>赞(0) 踩(0) | <div><a href="http://shop65302347.taobao.com/" target="_blank" rel="nofollow noreferrer noopener">http://shop65302347.taobao.com/</a><br>Pg.lost指定淘宝售卖店，CD黑胶统统滴有</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2139423)<br>若妳喜欢怪人,其实我很美<br>2011-06-05 10:26<br>赞(0) 踩(0) | <div>P_R-</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4125070)<br> <br>2011-05-30 21:53<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3251606)<br>仰望星空，脚踏实地<br>2011-05-28 01:27<br>赞(0) 踩(0) | <div>Pg.lost</div> |
@@ -1002,7 +1002,7 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3620059)<br><br>2011-05-05 20:35<br>赞(0) 踩(0) | <div>不解释呀不解释~再来一次上海吧╭(╯3╰)╮</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3805405)<br> <br>2011-05-02 17:52<br>赞(0) 踩(0) | <div>不断堆叠然后爆发。。震撼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1321478)<br>#chillwaver<br>2011-05-01 20:09<br>赞(0) 踩(0) | <div>该是后摇还是盯鞋啊。。不好分的风格= =</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/565161)<br><br>2011-05-01 15:07<br>赞(0) 踩(0) | <div>敬礼！冰峰将军！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/565161)<br><br>2011-05-01 15:07<br>赞(0) 踩(0) | <div>敬礼！<br>冰峰将军！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2134566)<br><br>2011-04-30 22:00<br>赞(0) 踩(0) | <div>FANTASY</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2134566)<br><br>2011-04-30 21:59<br>赞(0) 踩(0) | <div>富于幻想。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3716962)<br>8-3=5<br>2011-04-24 00:13<br>赞(0) 踩(0) | <div>没</div> |
@@ -1050,13 +1050,13 @@ pg.lost
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1258832)<br><br>2010-10-05 20:25<br>赞(0) 踩(0) | <div>昨晚在迷笛听了 很爽~~ 相当喜欢他们的节奏~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267467)<br><br>2011-01-14 16:13<br>赞(0) 踩(0) | <div>哈哈，当时我旁边有个哥们儿在嘀咕：咋还不唱呢，前奏也忒长了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1247784)<br>签个粑粑~<br>2010-09-29 10:00<br>赞(0) 踩(0) | <div>昨晚刚感受了，一个字，爽！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/926906)<br>暂无签名~<br>2010-09-27 08:59<br>赞(0) 踩(0) | <div>有几首现场巨强的气场尊好看啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/926906)<br>暂无签名~<br>2010-09-27 08:59<br>赞(0) 踩(0) | <div>有几首现场巨强的气场<br>尊好看啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/657469)<br>万法由心生<br>2010-09-25 13:05<br>赞(0) 踩(0) | <div>现场真嗨皮啊。~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/535221)<br>Lose Control<br>2010-09-24 22:42<br>赞(0) 踩(0) | <div>难过啊 没能去...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/657469)<br>万法由心生<br>2010-09-22 01:06<br>赞(0) 踩(0) | <div>哈哈，24号VOX我来啦。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/857977)<br><br>2010-09-21 12:36<br>赞(0) 踩(0) | <div>我26号去MAO看现场！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1088960)<br><br>2010-08-01 11:30<br>赞(0) 踩(0) | <div>不是只有香港一场吗？</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1247421)<br>你是那银河星星<br>2010-08-02 21:53<br>赞(0) 踩(0) | <div>Pg.lost 巡演由New Noise主办，行程如下。演出现已确定，希望大家到现场来支持！09月23号 杭州 西湖音乐节09月24号 武汉 VOX09月25号 成都 小酒馆09月26号 北京 MAO09月28号 大连 S CLUB09月30号 广州 黑铁时代10月01号 香港 HANG OUT10月03号 台北 公馆10月04号 镇江 迷笛音乐节自己上网搜搜吧。豆瓣也有。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1247421)<br>你是那银河星星<br>2010-08-02 21:53<br>赞(0) 踩(0) | <div>Pg.lost 巡演由New Noise主办，行程如下。演出现已确定，希望大家到现场来支持！<br><br>09月23号 杭州 西湖音乐节<br>09月24号 武汉 VOX<br>09月25号 成都 小酒馆<br>09月26号 北京 MAO<br>09月28号 大连 S CLUB<br>09月30号 广州 黑铁时代<br>10月01号 香港 HANG OUT<br>10月03号 台北 公馆<br>10月04号 镇江 迷笛音乐节<br>自己上网搜搜吧。豆瓣也有。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1247421)<br>你是那银河星星<br>2010-07-31 21:00<br>赞(0) 踩(0) | <div>9月30日在广州大学城有一场。我确定去了。<a href="http://img2.douban.com/view/photo/photo/public/p538038718.jpg" target="_blank" rel="nofollow noreferrer noopener">http://img2.douban.com/view/photo/photo/public/p538038718.jpg</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1088960)<br><br>2010-08-01 11:31<br>赞(0) 踩(0) | <div>大学城也有？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1027899)<br><br>2010-06-16 10:33<br>赞(0) 踩(0) | <div>一个人听后摇的日子太寂寞，组织，我来投奔。。。</div> |

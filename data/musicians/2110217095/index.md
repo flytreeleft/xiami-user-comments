@@ -3,7 +3,7 @@ H Yong黄勇
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f1f83e4d9fd1cfb6f5257ee7a9936733.png)<br>H Yong黄勇](https://i.xiami.com/hyong) | **播放数**: 1690389<br>**粉丝数**: 70<br>**评论数**: 4<br>**地区**: China 中国大陆<br>**风格**: 嘻哈 Hip-Hop, 电子 Electronic<br> |
+| [![](../../images/musicians/f1f83e4d9fd1cfb6f5257ee7a9936733.png)<br>H Yong黄勇](https://i.xiami.com/hyong) | **地区**: China 中国大陆<br>**风格**: 嘻哈 Hip-Hop, 电子 Electronic<br>**播放数**: 1690389<br>**粉丝数**: 70<br>**评论数**: 4<br> |
 
 ## 档案
 
@@ -36,8 +36,8 @@ H Yong黄勇
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-27 05:48<br>赞(1) 踩(0) | <div>47231</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378694114)<br><br>2020-09-05 21:34<br>赞(0) 踩(0) | <div>歌很好听，音色很不错，实在不知道咋夸人 <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png">加油~ <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png">看好你喔！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311279926)<br>生命没有了音乐，我将了无...<br>2020-04-07 21:20<br>赞(1) 踩(0) | <div>叭得了呀！！ <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |

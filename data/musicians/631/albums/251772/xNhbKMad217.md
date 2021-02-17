@@ -43,5 +43,3 @@ Too late you've come to me
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

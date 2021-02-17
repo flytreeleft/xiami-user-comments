@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3a13d95b8a553b10c65702965a613e96.jpg)<br>潘麟](https://i.xiami.com/panlindaoshi) | **播放数**: 1118591<br>**粉丝数**: 1713<br>**评论数**: 30<br>**地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 有声书 Audio Book, 西藏传统乐 Tibetan Traditional Music<br> |
+| [![](../../images/musicians/3a13d95b8a553b10c65702965a613e96.jpg)<br>潘麟](https://i.xiami.com/panlindaoshi) | **地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 有声书 Audio Book, 西藏传统乐 Tibetan Traditional Music<br>**播放数**: 1118591<br>**粉丝数**: 1713<br>**评论数**: 30<br> |
 
 ## 档案
 
@@ -26,8 +26,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446208749)<br>言语道断 心行处灭<br>2020-12-01 10:54<br>赞(2) 踩(0) | <div>阿弥陀佛 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13869808)<br>可能这个站已经没有编辑了...<br>2020-10-14 04:12<br>赞(1) 踩(0) | <div>这小号做得也太粗糙了吧，何必呢&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445010751)<br><br>2020-09-20 15:53<br>赞(1) 踩(0) | <div>感恩恩师 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |

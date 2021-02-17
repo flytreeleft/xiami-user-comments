@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135856398)<br><br>2019-08-26 02:25<br>赞(2) 踩(0) | <div>爱这箫声古意，苍凉疏阔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322235515)<br>在音乐里澎湃，在玩笑里开...<br>2019-08-12 22:13<br>赞(1) 踩(0) | <div>6年前，我还没玩虾米，我也不懂纯音乐。从怀孕到成为含辛茹苦的妈妈，我的神经衰弱越来越严重，然后又因为抑郁症开始听轻音乐。原本听林海先生的曲子，只是为了哄自己睡觉。但是，一不小心，就又点燃了青春期的叛逆之火，为电音、摇滚、暗潮疯狂。在乐海里，把新世纪音乐抛到脑后，被称为音盲，遂更名绣花枕头，开始努力听古典音乐，古琴，再去聆听新世纪，吃蜂蜜柚子茶般清爽～所以，音乐不辜负勤奋的人，虾米善待爱探究的人，我也要求自己每年两次情人节一定制作歌单来纪念我在虾米的音乐之旅。不学乐器，不通乐理，凭第六感蹭音乐才子的灵感～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355925507)<br>不个性，无签名<br>2019-05-10 10:35<br>赞(0) 踩(0) | <div>无风不起浪，浪大必有涡</div> |
@@ -56,7 +53,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8946950)<br>灌不饱的耳朵<br>2015-12-09 14:25<br>赞(14) 踩(0) | <div>最末的男声立马秒到我了，将许许多多的可能性都融入其中。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49395396)<br> <br>2015-10-28 20:54<br>赞(1) 踩(0) | <div>永远的大明宫词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10376988)<br>浮生一醉<br>2015-10-06 00:09<br>赞(29) 踩(0) | <div>后半段的男音太戳人心，仿佛这一生的心酸悲凉尽可以付于这箫声了。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/861911)<br>我还没想好要写什么...<br>2016-12-20 03:44<br>赞(0) 踩(0) | <div>想到了剧里武攸肆给太平唱的 花儿天上的星星亮了地上的人儿走了想念，就要来了</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/861911)<br>我还没想好要写什么...<br>2016-12-20 03:44<br>赞(0) 踩(0) | <div>想到了剧里武攸肆给太平唱的 花儿<br>天上的星星亮了<br>地上的人儿走了<br>想念，就要来了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287679239)<br>音樂之神<br>2018-01-03 19:40<br>赞(0) 踩(0) | <div>箫声的震撼力太强力了，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49748504)<br><br>2015-09-12 00:38<br>赞(11) 踩(0) | <div>风吹愁云散，前途莫论，拔剑四顾心茫然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/867083)<br>我还没想好要写什么...<br>2015-06-02 14:29<br>赞(82) 踩(0) | <div>有生之年能玩到林海作曲的游戏我就死而无憾了。。。是不是国产也无所谓</div> |
@@ -87,7 +84,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4458644)<br>如花美眷，似水流年……<br>2011-10-21 00:37<br>赞(1) 踩(0) | <div>柁工鸣板避漩涡，橹声摇上黄牛峡。——孙蕡《次归舟》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2592776)<br><br>2011-06-30 21:55<br>赞(3) 踩(0) | <div>这笛子太好听了 ！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373618)<br><br>2011-06-30 03:18<br>赞(1) 踩(0) | <div>晨钟暮鼓。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3605814)<br>是一个废人了<br>2011-06-20 12:19<br>赞(0) 踩(0) | <div>找这首漩涡找了我好久··靠淡定做事慎独慎独该死的新中式主义！！！我要消灭你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3605814)<br>是一个废人了<br>2011-06-20 12:19<br>赞(0) 踩(0) | <div>找这首漩涡找了我好久··<br><br>靠<br>淡定<br>做事<br><br>慎独<br>慎独<br><br>该死的新中式主义！！！<br>我要消灭你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/473224)<br>音乐是会成长的，如同我们...<br>2011-06-14 22:22<br>赞(1) 踩(0) | <div>惺惺相惜，回肠千转；</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4042815)<br><br>2011-05-23 23:39<br>赞(0) 踩(0) | <div>晚上听很有feel</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3478824)<br><br>2011-05-03 12:46<br>赞(2) 踩(0) | <div>多少梦，多少牵挂，前尘尽染，繁花已落，莫问来时，终是过客。</div> |

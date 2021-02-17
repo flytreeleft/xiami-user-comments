@@ -60,9 +60,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340039355)<br> <br>2019-09-07 13:54<br>赞(0) 踩(0) | <div>有穿透力的高音啊真的很喜欢这个现场版本</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340039355)<br> <br>2019-09-07 13:54<br>赞(0) 踩(0) | <div>有穿透力的高音啊<br>真的很喜欢这个现场版本</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18964092)<br>相聚分离 光影凉了又温<br>2014-10-07 22:36<br>赞(1) 踩(0) | <div>她没发过精选集，从这张live专辑来看A1-A4，好像喜欢的只剩《都只因为你》《口袋的天空》《手心的太阳》《呐喊》《隐形的翅膀》和这两首了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18964092)<br>相聚分离 光影凉了又温<br>2014-10-07 22:31<br>赞(1) 踩(0) | <div>其实有好几年没好好听过张韶涵A6之前的歌了，发现她的好歌真心不多</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281504439)<br><br>2018-02-19 18:34<br>赞(0) 踩(0) | <div>冷门好歌很多的</div> |

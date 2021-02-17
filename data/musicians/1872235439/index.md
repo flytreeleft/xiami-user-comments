@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8f98a373d8d78357b9f0ecfe28c5e135.png)<br>王利夫](https://i.xiami.com/tbost) | **播放数**: 11305595<br>**粉丝数**: 12316<br>**评论数**: 615<br>**地区**: China 中国大陆<br>**风格**: 原声 Soundtrack, 电影原声 Film Score, 电视原声 Television Music, 游戏配乐 Video Game Music<br> |
+| [![](../../images/musicians/8f98a373d8d78357b9f0ecfe28c5e135.png)<br>王利夫](https://i.xiami.com/tbost) | **地区**: China 中国大陆<br>**风格**: 原声 Soundtrack, 电影原声 Film Score, 电视原声 Television Music, 游戏配乐 Video Game Music<br>**播放数**: 11305595<br>**粉丝数**: 12316<br>**评论数**: 615<br> |
 
 ## 档案
 
@@ -49,8 +49,8 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1437884)<br> <br>2021-01-23 12:47<br>赞(2) 踩(0) | <div>虾米要关了 以后去哪里听你的音乐呢 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347440988)<br><br>2021-01-31 20:32<br>赞(0) 踩(0) | <div>moo音乐app上有他的歌&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4131599)<br><br>2021-01-13 09:27<br>赞(3) 踩(0) | <div>虾米要关了，哪里可以再听到你的音乐 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -88,11 +88,11 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8876167)<br>向沸腾的生活致敬WeCh...<br>2019-12-23 11:36<br>赞(0) 踩(0) | <div>你的音乐很有内容bro <img src="../../images/comments/29cf103b88c33e19563095897485c32a.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46802952)<br><br>2019-12-18 23:42<br>赞(1) 踩(0) | <div>实在太喜欢《戏梦关东》和《秋收冬藏》啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66823378)<br><br>2019-11-25 22:02<br>赞(0) 踩(0) | <div><img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352114606)<br><br>2019-11-18 14:06<br>赞(0) 踩(0) | <div>每一次的远征世界，必然都会从故土出发。所以说“东北味十足”这样的谬论，是站不住脚的。 支持一下，继续深入，继续加油。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352114606)<br><br>2019-11-18 14:06<br>赞(0) 踩(0) | <div>每一次的远征世界，必然都会从故土出发。<br>所以说“东北味十足”这样的谬论，是站不住脚的。 支持一下，继续深入，继续加油。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32392807)<br> <br>2019-11-07 19:50<br>赞(1) 踩(0) | <div>王老师，敢不敢把咱们东北的摇篮曲做个牛比的时长4分钟的音乐。你是我们的大神啊，东北的大神。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13927598)<br>Metal<br>2019-10-17 19:56<br>赞(0) 踩(0) | <div>最近听了很多版本的钢铁洪流进行曲(70周年国庆阅兵的一段BGM) 好想听老王版本的~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1318015)<br><br>2019-09-23 13:14<br>赞(3) 踩(0) | <div>买了《三体》专辑送给我身边喜欢这类型的朋友，陆续又听了王八念经、乐读，想为王老师把钱包都掏空啊，这样的音乐我都不敢随便写评论，总觉得不管什么样的赞美都是对音乐的不尊重，听就完了，掏钱就完了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360086118)<br>8letters why...<br>2019-09-21 21:54<br>赞(2) 踩(0) | <div>鴿子這首歌使人沉思</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360086118)<br>8letters why...<br>2019-09-21 21:54<br>赞(2) 踩(0) | <div>鴿子<br>這首歌使人沉思</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2957283)<br>我还没想好要写什么...<br>2019-08-28 03:46<br>赞(0) 踩(0) | <div>牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2019-07-19 00:16<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2019-07-10 05:23<br>赞(0) 踩(0) | <div>.</div> |
@@ -106,7 +106,7 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7343217)<br> <br>2019-05-26 04:42<br>赞(0) 踩(0) | <div>但求一场三天三夜不停止的live</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50847813)<br>我还没想好要写什么...<br>2019-05-20 03:35<br>赞(0) 踩(0) | <div>老王真实啥都会</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346165752)<br><br>2019-05-06 12:08<br>赞(0) 踩(0) | <div></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7198615)<br>那天是你用一块红布，蒙住...<br>2019-04-10 13:57<br>赞(4) 踩(0) | <div>真是罪过，这么长时间才发现还有个人作品。我要大循环一遍！感谢您全国巡演沈阳站中场时给了我一个单独合影的机会，谢谢！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7198615)<br>那天是你用一块红布，蒙住...<br>2019-04-10 13:57<br>赞(4) 踩(0) | <div>真是罪过，这么长时间才发现还有个人作品。我要大循环一遍！<br>感谢您全国巡演沈阳站中场时给了我一个单独合影的机会，谢谢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377198486)<br>to do someth...<br>2019-04-04 15:27<br>赞(1) 踩(0) | <div>想拜王老师为师</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283472451)<br><br>2019-03-26 13:40<br>赞(0) 踩(0) | <div><a href="http://emumo.xiami.com/u/12985289" target="_blank" rel="nofollow" name_card="12985289">@Ver啦 </a>三体系列</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7343217)<br> <br>2019-03-17 19:30<br>赞(0) 踩(0) | <div><img src="../../images/comments/5949d86697630cb697dcad52acec491e.png">听了三年什么时候能看一次现场听一遍大将军此生足矣</div> |
@@ -121,7 +121,7 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402627599)<br>勇敢的做好每一天的自己!<br>2018-10-05 21:11<br>赞(1) 踩(0) | <div>谢谢您，王利夫先生，在我收藏您的作品后回复了我 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403803440)<br><br>2018-10-05 18:08<br>赞(0) 踩(0) | <div>加油，我们10月7日广州见，我在广州的你们来！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36340888)<br><br>2018-09-30 17:26<br>赞(0) 踩(0) | <div>卧槽，这只怪兽用深喉袭击了我的耳朵，好求诡异 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403823740)<br>你就像屎.<br>2018-09-22 21:51<br>赞(0) 踩(0) | <div>一个集才华与颜值的男人哈哈爱王老师</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403823740)<br>你就像屎.<br>2018-09-22 21:51<br>赞(0) 踩(0) | <div>一个集才华与颜值的男人哈哈<br>爱王老师</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182400198)<br>版权逃亡冷感钝化人<br>2018-09-22 07:27<br>赞(0) 踩(0) | <div>我去了西北呜呜呜下次不知道啥时候还能看见王老师在舞台上淌汗珠子了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12501921)<br>众生轮回 因果循环<br>2018-09-21 01:32<br>赞(1) 踩(0) | <div>期待更多作品！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11927341)<br> <br>2018-09-20 21:51<br>赞(0) 踩(0) | <div>不然你以为我为啥下虾米</div> |
@@ -197,10 +197,10 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193452248)<br>六千毫升的蓝。<br>2017-08-17 23:17<br>赞(0) 踩(0) | <div>东北，内蒙</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36303608)<br>有情有义又是无米之炊，潮...<br>2017-05-30 08:38<br>赞(3) 踩(0) | <div>神了 突然听到首雷鬼 还有隔壁老王不会搞得风格吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13927598)<br>Metal<br>2017-04-25 20:50<br>赞(0) 踩(0) | <div>神老王 神萨满 !!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7068097)<br>暂无签名~<br>2017-04-22 01:31<br>赞(8) 踩(0) | <div>那是人类的落日，死死地拖着剩余的光辉，跌落地平线。怕是在也无法起身，再也无法在灰烬中寻找过往的辉煌。老王是真的厉害</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7068097)<br>暂无签名~<br>2017-04-22 01:31<br>赞(8) 踩(0) | <div>那是人类的落日，死死地拖着剩余的光辉，跌落地平线。<br>怕是在也无法起身，再也无法在灰烬中寻找过往的辉煌。<br>老王是真的厉害</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34720399)<br>看尽纷薄，方得悟空。谁知...<br>2017-04-18 17:33<br>赞(0) 踩(0) | <div><img src="../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83069340)<br> <br>2017-04-03 20:05<br>赞(31) 踩(0) | <div>我的天 我一直以为老王只是玩金属的....直到我来到这里发现了新世界.....</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54367807)<br>666次的轮回<br>2017-03-31 18:20<br>赞(2) 踩(0) | <div>《三体》这种继往开来的科幻大作，不论哪个国家的导演和原声作曲家想要搞出来同等高度之意境的作品，我看起码要搭上半条命。王利夫是不是也在执着于此？或者是不是只有王利夫执着于此，只有天知道。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54367807)<br>666次的轮回<br>2017-03-31 18:20<br>赞(2) 踩(0) | <div>《三体》这种继往开来的科幻大作，不论哪个国家的导演和原声作曲家想要搞出来同等高度之意境的作品，我看起码要搭上半条命。<br>王利夫是不是也在执着于此？或者是不是只有王利夫执着于此，只有天知道。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16365190)<br>混蛋的另一种<br>2017-03-31 18:29<br>赞(0) 踩(0) | <div>倒也没有。我在玩儿，并且玩儿的很开心。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100057540)<br>需要爱的人才会去关心他人...<br>2017-03-25 20:51<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49748006)<br>Fly me to th...<br>2017-03-24 17:53<br>赞(0) 踩(0) | <div>&amp;ldquo;&amp;rdquo;</div> |
@@ -257,7 +257,7 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4123238)<br><br>2016-02-16 16:31<br>赞(0) 踩(0) | <div>喜欢这种沸腾但不“燥”的音乐，所以我决定了听腻一首在听下首，我怕耳朵以后会挑食！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5493286)<br>。<br>2016-02-16 00:43<br>赞(1) 踩(0) | <div>过来听喜庆的过年新歌了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2016-02-15 12:54<br>赞(0) 踩(0) | <div>美</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2016-02-15 12:21<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2016-02-15 12:21<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58573018)<br> <br>2016-02-12 23:19<br>赞(0) 踩(0) | <div>王利夫飞大了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54354813)<br>Wow...<br>2016-02-06 11:36<br>赞(0) 踩(0) | <div>太棒了！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16365190)<br>混蛋的另一种<br>2016-02-11 18:12<br>赞(0) 踩(0) | <div>新年快乐</div> |
@@ -311,7 +311,7 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33989205)<br><br>2015-09-30 08:54<br>赞(0) 踩(0) | <div>8bit</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45850370)<br>Thrashing to...<br>2015-09-26 16:41<br>赞(0) 踩(0) | <div>最爱的金属和三体，虽然不能结合，但萨满让我看到了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50728228)<br>Music is my ...<br>2015-09-21 21:22<br>赞(0) 踩(0) | <div>好久没有这种感觉了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8541401)<br>我还没想好要写什么...<br>2015-09-17 22:14<br>赞(0) 踩(0) | <div><a href="http://www.project-57.org/" target="_blank" rel="nofollow noreferrer noopener">http://www.project-57.org/</a>水滴 Waterdrop</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8541401)<br>我还没想好要写什么...<br>2015-09-17 22:14<br>赞(0) 踩(0) | <div><a href="http://www.project-57.org/" target="_blank" rel="nofollow noreferrer noopener">http://www.project-57.org/</a><br>水滴 Waterdrop</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1920972)<br><br>2015-09-12 22:00<br>赞(1) 踩(0) | <div>炸了。你们是虫子。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10784295)<br>忠实于疏离旁观的自我<br>2015-09-11 19:46<br>赞(0) 踩(0) | <div>牛逼  <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13719439)<br><br>2015-09-10 15:59<br>赞(0) 踩(0) | <div>王老师牛逼。没别的要说了。</div> |
@@ -379,11 +379,11 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12329003)<br><br>2015-04-02 17:44<br>赞(0) 踩(0) | <div>有趣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5764907)<br>Mushroom,lot...<br>2015-03-22 19:29<br>赞(0) 踩(0) | <div>绝赞，求推荐同类型国人音乐人</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22048630)<br><br>2015-03-23 15:34<br>赞(0) 踩(0) | <div>老王就一个，哈哈</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19606022)<br>唯美和风控<br>2015-04-27 21:16<br>赞(0) 踩(0) | <div>稍微有点相似的音乐人只想到这两个<a href="http://www.xiami.com/artist/109780" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/artist/109780</a><a href="http://www.xiami.com/artist/490446256" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/artist/490446256</a></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19606022)<br>唯美和风控<br>2015-04-27 21:16<br>赞(0) 踩(0) | <div>稍微有点相似的音乐人只想到这两个<br><a href="http://www.xiami.com/artist/109780" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/artist/109780</a><br><a href="http://www.xiami.com/artist/490446256" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/artist/490446256</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5764907)<br>Mushroom,lot...<br>2015-04-28 17:40<br>赞(0) 踩(0) | <div><q><b>陈俊琪说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30622616)<br>这个人什么都不想留下<br>2015-03-19 21:21<br>赞(0) 踩(0) | <div>改名啦~~支持老王</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29798455)<br><br>2015-03-19 16:25<br>赞(0) 踩(0) | <div>听到吗，音乐也是有颜色的。面壁者确实好赞！@借物少年宋胖胖_</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16857293)<br>中二病后期患者<br>2015-03-14 18:16<br>赞(0) 踩(0) | <div>那啥，老王，你对于柴圣母在她的片子里用了你的1.丁仪theme 2.黑暗森林 3.维德theme 有什么看法么还有，根据一些不可名状的证据和“叛军”、“黑暗战役”这两首带有其他曲子旋律变奏的歌，老王你已经在给孔二狗写歌了对吧对吧对吧？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16857293)<br>中二病后期患者<br>2015-03-14 18:16<br>赞(0) 踩(0) | <div>那啥，老王，你对于柴圣母在她的片子里用了你的1.丁仪theme 2.黑暗森林 3.维德theme 有什么看法么<br>还有，根据一些不可名状的证据和“叛军”、“黑暗战役”这两首带有其他曲子旋律变奏的歌，老王你已经在给孔二狗写歌了对吧对吧对吧？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12868731)<br> <br>2015-04-25 02:43<br>赞(0) 踩(0) | <div>really？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6578967)<br> <br>2015-03-11 17:52<br>赞(0) 踩(0) | <div>老王太牛了！炒鸡喜欢他的风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31120772)<br>暂无签名~<br>2015-03-10 09:47<br>赞(1) 踩(0) | <div>我去</div> |
@@ -424,7 +424,7 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16857293)<br>中二病后期患者<br>2014-12-14 08:53<br>赞(205) 踩(0) | <div>王利夫是我见过的最凶悍的音乐人，曲风包括电音，轻摇滚，FC风格，甚至有史诗风格的，日本风，唐风——还有的我不知道怎么分类了，总之，这个音乐人Nubility.最重要的是每一首都是洗脑循环级别的好听♬ 还不快点滚进来听歌(╯‵□′)╯︵┻━┻</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7187271)<br>Invoke(this)...<br>2014-12-14 11:17<br>赞(0) 踩(0) | <div>别忘了老王萨满那边的工业金和民谣金~【hhhhh点个赞先</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/672449)<br>爱护耳朵<br>2014-12-14 13:15<br>赞(0) 踩(0) | <div>还有，游戏配乐风 影视配乐风 文理不分家，大综合</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16365190)<br>混蛋的另一种<br>2014-12-15 20:57<br>赞(0) 踩(0) | <div>赵本山讲话儿知识都学杂了。。谢谢你，还有楼上两位~ 我继续努力~</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16365190)<br>混蛋的另一种<br>2014-12-15 20:57<br>赞(0) 踩(0) | <div>赵本山讲话儿知识都学杂了。。<br><br>谢谢你，还有楼上两位~ 我继续努力~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13656786)<br><br>2017-11-03 10:56<br>赞(0) 踩(0) | <div><q><b>王利夫说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296315206)<br>你看起来充满了掘森（死）<br>2019-02-18 15:36<br>赞(0) 踩(0) | <div><q><b>王利夫说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/746612)<br><br>2020-08-17 23:14<br>赞(0) 踩(0) | <div>王总真牛逼！</div> |
@@ -432,13 +432,13 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6037106)<br> <br>2014-12-17 23:02<br>赞(0) 踩(0) | <div>是的 简直碉堡 曲风跨度简直可怕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43991013)<br>感谢虾米，让耳朵遇见节奏...<br>2014-12-10 18:05<br>赞(1) 踩(0) | <div>恩，好看的星空收下了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2014-12-06 13:17<br>赞(0) 踩(0) | <div>支持楼下建议</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2014-12-06 12:44<br>赞(64) 踩(0) | <div>目前艺人名已修改，没有问题了。————我对这个音乐人的艺名有异议，如果注册申请这个音乐人账号的人是王利夫本人的话，那么请保持艺人名为王利夫，而不是什么三体OST。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2014-12-06 12:44<br>赞(64) 踩(0) | <div>目前艺人名已修改，没有问题了。<br>————<br>我对这个音乐人的艺名有异议，如果注册申请这个音乐人账号的人是王利夫本人的话，那么请保持艺人名为王利夫，而不是什么三体OST。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12243940)<br>向前进…<br>2014-12-07 16:22<br>赞(0) 踩(0) | <div>支持！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66)<br>六楼后座<br>2014-12-08 18:32<br>赞(0) 踩(0) | <div>恩，这个我觉得可以的，<a href="http://emumo.xiami.com/u/213501" target="_blank" rel="nofollow" name_card="213501">@小朴</a> 是不是联系下对方改一下名字？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2014-12-09 13:54<br>赞(0) 踩(0) | <div><q><b>evillions说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66)<br>六楼后座<br>2014-12-09 15:39<br>赞(0) 踩(0) | <div><q><b>Desperado说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2014-12-09 15:48<br>赞(0) 踩(0) | <div><q><b>evillions说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12243940)<br>向前进…<br>2014-12-09 16:10<br>赞(0) 踩(0) | <div>T.S.O. 萨满·ONE / 三体OST / T.S.O The Samans-One第一个和第三个是重复的。而且从作者本人的回复来看，他肯定更喜欢第三个。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12243940)<br>向前进…<br>2014-12-09 16:10<br>赞(0) 踩(0) | <div>T.S.O. 萨满·ONE / 三体OST / T.S.O The Samans-One<br><br>第一个和第三个是重复的。<br><br>而且从作者本人的回复来看，他肯定更喜欢第三个。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2014-12-09 16:35<br>赞(0) 踩(0) | <div><q><b>angerman说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16365190)<br>混蛋的另一种<br>2014-12-10 02:10<br>赞(0) 踩(0) | <div>哈哈哈我当真觉得你们虾米小编实在是太闲了……</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7187271)<br>Invoke(this)...<br>2014-12-10 16:19<br>赞(0) 踩(0) | <div><q><b>王利夫说：</b></q></div> |
@@ -457,12 +457,12 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38755427)<br>Be happy<br>2014-11-09 14:22<br>赞(0) 踩(0) | <div>nice！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43436569)<br><br>2014-11-07 17:38<br>赞(0) 踩(0) | <div>三体粉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2764643)<br><br>2014-11-07 01:24<br>赞(0) 踩(0) | <div>不收藏这个还好意思自称三体脑残粉吗？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7232515)<br><br>2014-11-04 13:43<br>赞(0) 踩(0) | <div>拍成电影没什么不好，反正科幻迷脑补能力是很强的，不会被电影固化思维，而且电影可以注重推理和对手戏，第一部拍成悬疑小说只要导演功力够强完全可以看，大场面不要太纠结，大刘自己都没法描写的很细腻。然后b站那里有人给冥王星的雪作词了，听完一遍也是相当日式，我超喜欢，泪流满面有没有TVT，艾aa的声优竟然是锐雯的声优，你敢信！三体fans和撸狗千万不要错过了原著结局让我到现在都难以忘怀，蛋疼的换妻play，整个人都不好了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7232515)<br><br>2014-11-04 13:43<br>赞(0) 踩(0) | <div>拍成电影没什么不好，反正科幻迷脑补能力是很强的，不会被电影固化思维，而且电影可以注重推理和对手戏，第一部拍成悬疑小说只要导演功力够强完全可以看，大场面不要太纠结，大刘自己都没法描写的很细腻。<br><br>然后b站那里有人给冥王星的雪作词了，听完一遍也是相当日式，我超喜欢，泪流满面有没有TVT，艾aa的声优竟然是锐雯的声优，你敢信！三体fans和撸狗千万不要错过了<br><br>原著结局让我到现在都难以忘怀，蛋疼的换妻play，整个人都不好了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4908989)<br>生活，基于你的态度<br>2014-11-25 10:31<br>赞(0) 踩(0) | <div>一部电影很难能把情节拍出来，就算分成几部去拍的话， 特效是国产永远的痛， 既然是科幻片， 太空，飞船等。。。  我估计三体粉有可能当场砸电影院，哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3692892)<br><br>2014-11-28 02:47<br>赞(0) 踩(0) | <div><a href="http://video.sina.com.cn/p/ent/m/c/2014-11-27/174864302655.html" target="_blank" rel="nofollow noreferrer noopener">http://video.sina.com.cn/p/ent/m/c/2014-11-27/174864302655.html</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39056739)<br> <br>2014-12-23 22:40<br>赞(0) 踩(0) | <div><q><b>aniye说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7232515)<br><br>2014-11-04 13:31<br>赞(0) 踩(0) | <div>我觉得我们的星星和程心theme是最好的，看了评论说这两首最日式，难道我哈日=X=</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41739788)<br><br>2014-11-02 16:05<br>赞(0) 踩(0) | <div>三体要拍电影一代神作要毁了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41739788)<br><br>2014-11-02 16:05<br>赞(0) 踩(0) | <div>三体要拍电影<br>一代神作要毁了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/654245)<br>不是知音者，难教爱此声。<br>2014-10-29 19:56<br>赞(1) 踩(0) | <div>大神请受我一拜！！！我也有个OST梦想~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8952806)<br><br>2014-10-22 17:03<br>赞(0) 踩(0) | <div>nice每一首都不错~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12344329)<br>荡气回肠是为了最美的平凡<br>2014-10-22 01:04<br>赞(0) 踩(0) | <div>《三体》的走红已经够让我心塞的了，听说它要被拍成电影我的心情就更加复杂了……但是听完萨满配的原声之后，我才好歹舒了一小口气。</div> |
@@ -488,10 +488,10 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18216761)<br>中毒很深的ppter<br>2014-08-09 09:20<br>赞(0) 踩(0) | <div>最近正在看三体小说~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9446975)<br><br>2014-08-08 00:28<br>赞(0) 踩(0) | <div>要恶补小说了，音乐真的不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39786606)<br><br>2014-08-07 14:45<br>赞(0) 踩(0) | <div>三体嘛</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3485684)<br>~<br>2014-08-02 11:42<br>赞(1) 踩(0) | <div>今日再听，倒是发现了有不少的 Daft Punk 的感觉...电子味甚浓参照《 TRON: Legacy (Original Motion Picture Soundtrack) 》</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3485684)<br>~<br>2014-08-02 11:42<br>赞(1) 踩(0) | <div>今日再听，倒是发现了有不少的 Daft Punk 的感觉...电子味甚浓<br>参照《 TRON: Legacy (Original Motion Picture Soundtrack) 》</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/144126)<br><br>2014-07-30 20:01<br>赞(0) 踩(0) | <div>还以为三体的好莱坞科幻大片拍好了,不过这非官方OST非常有大制作风范.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37679556)<br>不忘初心，方能始终。<br>2014-07-28 18:49<br>赞(0) 踩(0) | <div>再看一边，边看小说边听吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3083305)<br><br>2014-07-24 13:05<br>赞(2) 踩(0) | <div>音乐人还是不要直接取【三体OST】这个名字，我一瞬间也以为是三体的好莱坞电影出的原声！吓了一大跳！还以为电影真拍好了……………………………………………………………………………………结果发现只是【非】官方配乐= =这样误解好大= =</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3083305)<br><br>2014-07-24 13:05<br>赞(2) 踩(0) | <div>音乐人还是不要直接取【三体OST】这个名字，我一瞬间也以为是三体的好莱坞电影出的原声！吓了一大跳！还以为电影真拍好了……………………………………………………………………………………<br><br>结果发现只是【非】官方配乐= =<br>这样误解好大= =</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5604492)<br>‪‪♬✧訂閱號：Morn...<br>2014-07-22 18:57<br>赞(0) 踩(0) | <div>又要重看三体了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7981491)<br> <br>2014-07-19 22:13<br>赞(0) 踩(0) | <div>最近又在看三体了，回来听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6259921)<br> <br>2014-07-08 17:51<br>赞(0) 踩(0) | <div>屌炸天</div> |
@@ -512,7 +512,7 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3478997)<br><br>2014-04-09 15:41<br>赞(0) 踩(0) | <div>三体</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3478997)<br><br>2014-04-09 15:29<br>赞(0) 踩(0) | <div>支持下~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8720991)<br><br>2014-04-07 14:54<br>赞(0) 踩(0) | <div>大赞！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9490135)<br>荒原<br>2014-04-05 23:45<br>赞(0) 踩(0) | <div>其实还是有点小作坊  不能说demo感但还是没完全打开 层次感也好声场也好  略显单薄曲子本身很悦耳很有灵气 但和人物性格有偏差</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9490135)<br>荒原<br>2014-04-05 23:45<br>赞(0) 踩(0) | <div>其实还是有点小作坊  不能说demo感但还是没完全打开 层次感也好声场也好  略显单薄<br>曲子本身很悦耳很有灵气 但和人物性格有偏差</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6171336)<br>谢谢9年陪伴，你依然是我...<br>2014-04-01 22:21<br>赞(0) 踩(0) | <div>技术宅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277444)<br><br>2014-04-01 10:12<br>赞(1) 踩(0) | <div><a href="http://site.douban.com/TBOST/room/1333345/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/TBOST/room/1333345/</a>豆瓣音乐人小站里还有几首没收录进虾米的三体原声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10168877)<br>trancer,stan<br>2014-03-29 22:10<br>赞(0) 踩(0) | <div>Freaking 屌！</div> |
@@ -576,8 +576,8 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/722202)<br>大家人海无名里<br>2013-11-10 16:07<br>赞(0) 踩(0) | <div>萨满乐队做的....其实挺好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10954794)<br>舍本逐末?<br>2013-11-07 18:11<br>赞(0) 踩(0) | <div>因为三体</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142027)<br><br>2013-11-02 00:25<br>赞(5) 踩(0) | <div>有点简陋的感觉？没有史诗的意思啊。也许有1000个人就有1000个《三体》？</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1226831)<br>这个舞池即将结束营业，关...<br>2013-11-09 08:19<br>赞(0) 踩(0) | <div>很简陋。作者明显是按他老本行的思维方式去做的，曲子本身缺少特征，混音少点儿空间感。但难在他第一个想到的，而且做完了，这个创意和对小说的热爱本身就很赞</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/788418)<br>在基友的怂恿下充了Vip<br>2013-12-09 08:56<br>赞(0) 踩(0) | <div>无限同意最后一句。音乐的感觉气氛不错但是确实混音配器简陋了一些。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1226831)<br>这个舞池即将结束营业，关...<br>2013-11-09 08:19<br>赞(0) 踩(0) | <div>很简陋。作者明显是按他老本行的思维方式去做的，曲子本身缺少特征，混音少点儿空间感。<br>但难在他第一个想到的，而且做完了，这个创意和对小说的热爱本身就很赞</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/788418)<br>在基友的怂恿下充了Vip<br>2013-12-09 08:56<br>赞(0) 踩(0) | <div>无限同意最后一句。<br>音乐的感觉气氛不错但是确实混音配器简陋了一些。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11670365)<br><br>2014-01-24 11:24<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8484336)<br> <br>2013-10-31 12:21<br>赞(0) 踩(0) | <div>喜欢，很喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25010559)<br><br>2013-10-21 12:34<br>赞(0) 踩(0) | <div>这隐隐有hans zimmer的范儿啊。没想到我们也有这么牛的音乐人，平时都被选秀们弄吐了。</div> |
@@ -626,7 +626,7 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2384562)<br><br>2013-07-21 19:24<br>赞(0) 踩(0) | <div>好赞！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2384562)<br><br>2013-07-21 19:21<br>赞(0) 踩(0) | <div>哦草好赞！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/491566)<br><br>2013-07-21 18:17<br>赞(0) 踩(0) | <div>做得好用心，每个灵魂人物都有主题配乐，关键的事件和场景也有贴切的诠释</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/629937)<br><br>2013-07-20 14:40<br>赞(1) 踩(0) | <div>大爱三体。配乐很带感啊^_^冒昧问一句，如果我拿OST用来做MV的话，大大不介意吧？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/629937)<br><br>2013-07-20 14:40<br>赞(1) 踩(0) | <div>大爱三体。配乐很带感啊^_^<br>冒昧问一句，如果我拿OST用来做MV的话，大大不介意吧？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5813788)<br><br>2013-07-18 09:19<br>赞(0) 踩(0) | <div>啊前年看这三部的时候要是配上这个就带感了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7706681)<br>闹歌荒<br>2013-07-16 11:35<br>赞(0) 踩(0) | <div>科学 宇宙 飞行</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17277745)<br> <br>2013-07-14 14:46<br>赞(0) 踩(0) | <div>就是喜欢这种感觉</div> |
@@ -668,4 +668,4 @@ Film / TV / Video Game Composer & Frontman of the Samans<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310953)<br><br>2013-06-26 21:22<br>赞(0) 踩(0) | <div>屌炸天！前排！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6171336)<br>谢谢9年陪伴，你依然是我...<br>2013-06-26 20:40<br>赞(0) 踩(0) | <div>地板……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10960478)<br>Welcome to n...<br>2013-06-26 20:33<br>赞(0) 踩(0) | <div>咦那我板凳好了XD</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2564846)<br><br>2013-06-26 18:33<br>赞(0) 踩(0) | <div>咦居然没人那我来沙个发加油！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2564846)<br><br>2013-06-26 18:33<br>赞(0) 踩(0) | <div>咦居然没人那我来沙个发<br>加油！</div> |

@@ -3,13 +3,10 @@ Gibb-Z
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/bfc79b2eed46beb0bda55e20d3107a99.png)<br>Gibb-Z](https://i.xiami.com/gibb-z) | **播放数**: 8488053<br>**粉丝数**: 1840<br>**评论数**: 74<br>**地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap<br> |
+| [![](../../images/musicians/bfc79b2eed46beb0bda55e20d3107a99.png)<br>Gibb-Z](https://i.xiami.com/gibb-z) | **地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap<br>**播放数**: 8488053<br>**粉丝数**: 1840<br>**评论数**: 74<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -35,8 +32,8 @@ Gibb-Z
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57327294)<br>磊少<br>2020-11-19 16:37<br>赞(0) 踩(0) | <div>刀疤呢!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61857304)<br>A1<br>2020-03-02 20:24<br>赞(0) 踩(0) | <div>想听快餐歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352342601)<br><br>2019-11-24 13:42<br>赞(0) 踩(0) | <div>图片好gay</div> |

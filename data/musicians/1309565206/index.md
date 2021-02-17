@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0db26a43714f3f8923b6b2a1404faa17.jpg)<br>北翼乐队](https://i.xiami.com/luotianyi) | **播放数**: 2285837<br>**粉丝数**: 559<br>**评论数**: 42<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行摇滚 Pop Rock<br> |
+| [![](../../images/musicians/0db26a43714f3f8923b6b2a1404faa17.jpg)<br>北翼乐队](https://i.xiami.com/luotianyi) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行摇滚 Pop Rock<br>**播放数**: 2285837<br>**粉丝数**: 559<br>**评论数**: 42<br> |
 
 ## 档案
 
@@ -31,8 +31,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/530490)<br>音乐不说谎。<br>2019-09-09 13:54<br>赞(0) 踩(0) | <div>豪情万丈，爷们！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7201346)<br> <br>2019-07-16 22:57<br>赞(0) 踩(0) | <div>《树》的前奏真好听，得亏我手快下载了……希望还能发出来。我顺便求一个《树》的伴奏……真好听……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22240666)<br>一只后摇狗<br>2019-07-16 16:22<br>赞(0) 踩(0) | <div>超级棒的乐队呀！编曲太棒，太好听了。</div> |

@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/33672f58b11f1d490f149b72ea01c9bf.jpg)<br>曾子灵](https://i.xiami.com/triste_leo) | **播放数**: 3228728<br>**粉丝数**: 61<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 粤语流行 Cantopop<br> |
+| [![](../../images/musicians/33672f58b11f1d490f149b72ea01c9bf.jpg)<br>曾子灵](https://i.xiami.com/triste_leo) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 粤语流行 Cantopop<br>**播放数**: 3228728<br>**粉丝数**: 61<br>**评论数**: 6<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -24,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409127559)<br>这家伙很聪明什么也没留下...<br>2020-04-12 13:09<br>赞(0) 踩(0) | <div>这孩子嗓音挺好，就是唱老男孩感觉声音稚嫩了点（无恶意）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63877562)<br>唱歌的人<br>2020-04-26 21:37<br>赞(0) 踩(0) | <div>那时候才高三哈哈 是真的稚嫩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46643406)<br> <br>2020-03-08 05:49<br>赞(0) 踩(0) | <div>声音挺不错的，加油！</div> |

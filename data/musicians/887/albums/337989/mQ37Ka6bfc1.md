@@ -67,8 +67,8 @@ Drum：Funky<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410025219)<br><br>2021-01-07 00:12<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376391800)<br><br>2020-12-06 00:33<br>赞(0) 踩(0) | <div>来了来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49056561)<br>我踏出的每一步都是归途<br>2020-10-07 11:54<br>赞(5) 踩(0) | <div>好听</div> |
@@ -97,8 +97,8 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333715876)<br>烧完美好青春，换一个老伴...<br>2017-11-20 15:40<br>赞(1) 踩(0) | <div>第一次听这首歌，是一位女同事QQ空间背景音乐，听完之后有种强烈的冲动，想要去了解她背后的故事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334653582)<br><br>2017-11-17 12:54<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6271421)<br><br>2017-10-30 10:22<br>赞(1) 踩(0) | <div>摇滚人都有一颗诗人的自由的挣扎心，也就无怪乎汪峰用郭路生的《相信未来》了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2017-10-28 00:30<br>赞(1) 踩(0) | <div>这首歌的副歌部分。。。让人高潮虽然歌词有很大的雕琢的痕迹</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/876606)<br>纯音系列<br>2017-10-28 00:01<br>赞(4) 踩(0) | <div>当灰烬查封了凝霜的屋檐当车菊草化作深秋的露水我用固执的枯藤做成行囊走向了那布满荆棘的他乡当大地铺满了悲泣的落叶当杜鹃花化作远空的雾霭祝福我吧我最思念的亲人那就是我向你告别的身影也许迷途的惆怅会扯碎我的脚步可我相信未来会给我一双梦想的翅膀虽然失败的苦痛已让我遍体鳞伤可我坚信光明就在远方当灰烬查封了凝霜的屋檐当车菊草化作深秋的露水我用固执的枯藤做成行囊走向了那布满荆棘的他乡也许征程的迷惘会扯碎我的手臂可我相信未来会给我一双梦想的翅膀虽然挫折的创伤已让我寸步难行可我坚信光明就在远方我用翅膀掀起那天边的排浪我用身躯托起那血红的太阳就在这刺骨而凛冽的大风中你会听到我赞美未来的呼喊也许迷途的惆怅会扯碎我的脚步可我相信未来会给我一双梦想的翅膀虽然失败的苦痛已让我遍体鳞伤可我坚信光明就在远方也许征程的迷惘会扯碎我的手臂可我相信未来会给我一双梦想的翅膀虽然挫折的创伤已让我寸步难行可我坚信光明就在远方可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2017-10-28 00:30<br>赞(1) 踩(0) | <div>这首歌的副歌部分。。。让人高潮<br>虽然歌词有很大的雕琢的痕迹</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/876606)<br>纯音系列<br>2017-10-28 00:01<br>赞(4) 踩(0) | <div>当灰烬查封了凝霜的屋檐<br>当车菊草化作深秋的露水<br>我用固执的枯藤做成行囊<br>走向了那布满荆棘的他乡<br><br>当大地铺满了悲泣的落叶<br>当杜鹃花化作远空的雾霭<br>祝福我吧我最思念的亲人<br>那就是我向你告别的身影<br><br>也许迷途的惆怅会扯碎我的脚步<br>可我相信未来会给我一双梦想的翅膀<br>虽然失败的苦痛已让我遍体鳞伤<br>可我坚信光明就在远方<br><br>当灰烬查封了凝霜的屋檐<br>当车菊草化作深秋的露水<br>我用固执的枯藤做成行囊<br>走向了那布满荆棘的他乡<br><br>也许征程的迷惘会扯碎我的手臂<br>可我相信未来会给我一双梦想的翅膀<br>虽然挫折的创伤已让我寸步难行<br>可我坚信光明就在远方<br><br>我用翅膀掀起那天边的排浪<br>我用身躯托起那血红的太阳<br>就在这刺骨而凛冽的大风中<br>你会听到我赞美未来的呼喊<br><br>也许迷途的惆怅会扯碎我的脚步<br>可我相信未来会给我一双梦想的翅膀<br>虽然失败的苦痛已让我遍体鳞伤<br>可我坚信光明就在远方<br><br>也许征程的迷惘会扯碎我的手臂<br>可我相信未来会给我一双梦想的翅膀<br>虽然挫折的创伤已让我寸步难行<br>可我坚信光明就在远方<br><br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1717580)<br><br>2017-10-27 23:31<br>赞(1) 踩(0) | <div>回家后觉得自己今天做的挺过得，屁大的事情跟宝贝发那么大得火，太不对了，我可不想因了那句流行语，感情似流沙抓的越紧越容易流失，所以在这里我要跟浩B说一句“对不起，亲爱的，我以后不随便对你发火了，让你担心了，”括号不管大小屁事还是要和我商量滴[嘻嘻]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7441798)<br> <br>2017-10-27 23:28<br>赞(0) 踩(0) | <div>给最近的低潮带来点儿正能量~努力努力不放弃~盆友们要坚信光明就在远方！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14803595)<br><br>2017-10-27 23:18<br>赞(7) 踩(0) | <div>汪峰多有才，我很喜欢他对摇滚的坚持和态度，这就是受正统正规的教育，不拘泥于正统正规，没有被学院所淹没和打败，他是音乐学院嫡系的杰出代表</div> |
@@ -209,7 +209,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10383836)<br>我爱我所爱的！<br>2015-06-01 09:41<br>赞(3) 踩(0) | <div>看了囧爸，完全不一样的感觉！ 一个父亲历经沧桑，磨难，带着天生缺陷的儿子，从农村到城市。只是因为没有一技之长</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10383836)<br>我爱我所爱的！<br>2015-06-01 09:40<br>赞(0) 踩(0) | <div>看了囧爸，完全两种风格！  一个父亲历经沧桑，磨难，带着天生缺陷的儿子，从农村到城市。只是因为没有一技之长</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5603932)<br><br>2015-05-30 23:00<br>赞(0) 踩(0) | <div>歌词仿照食指的《相信未来》</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38965738)<br>我还没想好要写什么...<br>2015-05-29 00:05<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步可我相信未来会给我一双梦想的翅膀虽然失败的苦痛已让我遍体鳞伤可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38965738)<br>我还没想好要写什么...<br>2015-05-29 00:05<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步<br>可我相信未来会给我一双梦想的翅膀<br>虽然失败的苦痛已让我遍体鳞伤<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50117116)<br><br>2015-05-19 22:33<br>赞(2) 踩(0) | <div>全能囧爸里的啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34684555)<br><br>2015-05-19 20:42<br>赞(1) 踩(0) | <div>真正走心的歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50104533)<br><br>2015-05-16 13:33<br>赞(0) 踩(0) | <div>很喜欢</div> |
@@ -231,7 +231,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39463945)<br>hello！990013...<br>2015-01-27 02:50<br>赞(0) 踩(0) | <div>走心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43513342)<br>我书读的少，你不要骗我！<br>2015-01-19 12:08<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46088456)<br>一首老歌,    一次放<br>2015-01-16 10:40<br>赞(1) 踩(0) | <div>够走心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43395771)<br><br>2015-01-11 23:32<br>赞(0) 踩(0) | <div>虽然挫折的创伤已让我寸步难行可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43395771)<br><br>2015-01-11 23:32<br>赞(0) 踩(0) | <div>虽然挫折的创伤<br>已让我寸步难行<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40895457)<br>一个听着<br>2015-01-11 00:09<br>赞(1) 踩(0) | <div>汪峰最经典之作。可惜被网络上的那版毁了。。对未来的呼唤。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40827696)<br>唯有音乐和爱不能辜负<br>2015-01-06 07:54<br>赞(0) 踩(0) | <div>倒计时最后10天，哈哈哈！眼泪都快笑出来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20435683)<br>不卑不亢。<br>2015-01-04 01:50<br>赞(0) 踩(0) | <div>每时每刻，都有一首唤醒回忆的歌~</div> |
@@ -279,7 +279,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16078071)<br><br>2014-04-17 21:08<br>赞(0) 踩(0) | <div>溜达荔枝的时候听到的 为今天所有[蜡烛]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18602115)<br><br>2014-03-24 17:56<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步 可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18602115)<br><br>2014-03-24 17:49<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步 可我相信未来会给我一双梦想的翅膀 虽然失败的苦痛让我遍体鳞伤 可我坚信光明就在远方——《光明》</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13669474)<br><br>2014-03-11 06:39<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步可我相信未来会给我一双梦想的翅膀虽然失败的苦痛已让我遍体鳞伤可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13669474)<br><br>2014-03-11 06:39<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步<br>可我相信未来会给我一双梦想的翅膀<br>虽然失败的苦痛已让我遍体鳞伤<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3344447)<br>海阔天空<br>2014-03-10 03:32<br>赞(0) 踩(0) | <div>如果我没有记错，**时有个诗人，叫食指，写过一首《相信未来》。和这首歌词有点像</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32056061)<br><br>2014-03-07 14:45<br>赞(0) 踩(0) | <div>生命的呐喊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8731455)<br><br>2014-03-02 09:52<br>赞(0) 踩(0) | <div>[蜡烛]</div> |
@@ -292,7 +292,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17963288)<br><br>2013-12-07 10:16<br>赞(1) 踩(0) | <div>各有各精彩、天自有安排，遵从内心、不妥协、不强求、、、、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17963288)<br><br>2013-12-07 09:45<br>赞(0) 踩(0) | <div>各有各精彩、天自有安排，遵从内心、不强求、不妥协</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-06 05:13<br>赞(0) 踩(0) | <div>作词应该带着食指吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14040620)<br><br>2013-12-05 00:16<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步可我相信未来会给我一双梦想的翅膀也许征程的迷惘会扯碎我的手臂可我相信未来会给我一双梦想的翅膀虽然挫折的创伤已让我寸步难行可我坚信光明就在远方虽然失败的苦痛已让我遍体鳞伤可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14040620)<br><br>2013-12-05 00:16<br>赞(0) 踩(0) | <div>也许迷途的惆怅<br>会扯碎我的脚步<br>可我相信未来会<br>给我一双梦想的翅膀<br><br>也许征程的迷惘<br>会扯碎我的手臂<br>可我相信未来会<br>给我一双梦想的翅膀<br>虽然挫折的创伤<br>已让我寸步难行<br>可我坚信光明就在远方<br><br>虽然失败的苦痛<br>已让我遍体鳞伤<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169979)<br>erp<br>2013-12-03 22:44<br>赞(0) 踩(0) | <div>王青雷 介绍这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18000125)<br><br>2013-12-03 21:32<br>赞(0) 踩(0) | <div>《光明》也许迷途的惆怅会扯碎我的脚步 可我相信未来会给我一双梦想的翅膀 虽然失败的苦痛已让我遍体鳞伤 可我坚信光明就在远方 也许征程的迷惘会会扯碎我的手臂 可我相信未来会给我一双梦想的翅膀 虽然挫折的创伤已让我寸步难行 可我坚信光明就在远方 可我坚信光明就在远方！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28813307)<br><br>2013-12-03 20:37<br>赞(0) 踩(0) | <div>光明</div> |
@@ -314,10 +314,10 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17072314)<br><br>2013-10-24 15:54<br>赞(0) 踩(0) | <div>活在当下，相信未来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17072314)<br><br>2013-10-24 15:46<br>赞(0) 踩(0) | <div>相信未来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5152767)<br><br>2013-10-24 10:51<br>赞(0) 踩(0) | <div>【我用固執的枯藤做成行囊 祝福我吧 我最思念的親人 那就是我向你告別的身影 也許迷途的惆悵會扯碎我的腳步 可我相信未來會給我一雙夢想的翅膀】</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5152767)<br><br>2013-10-24 10:44<br>赞(0) 踩(0) | <div>【當大地鋪滿了悲淒的落葉 當杜鵑花化作遠空的霧靄 祝福我吧我最思念的親人那就是我向你告別的身影 也許迷途的惆悵會扯碎我的腳步 可我相信未來會給我一雙夢想的翅膀 】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5152767)<br><br>2013-10-24 10:44<br>赞(0) 踩(0) | <div>【當大地鋪滿了悲淒的落葉 當杜鵑花化作遠空的霧靄 祝福我吧我最思念的親人<br>那就是我向你告別的身影 也許迷途的惆悵會扯碎我的腳步 可我相信未來會給我一雙夢想的翅膀 】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1908642)<br>TH呆死机▔▽▔<br>2013-10-23 00:21<br>赞(0) 踩(0) | <div>微博看到视频滚过来发条评论，看到那个漏气的视频的举个手吧=w=</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3419615)<br><br>2013-10-21 20:39<br>赞(0) 踩(0) | <div>也许征程的迷惘会扯碎我的手臂，可我相信未来会给我一双梦想的翅膀，虽然挫折的创伤已让我寸步难行，可我坚信光明就在远方——给正在奋斗中的小伙伴们！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319647)<br><br>2013-10-19 21:47<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步可我相信未来会给我一双梦想的翅膀虽然失败的苦痛已让我遍体鳞伤可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319647)<br><br>2013-10-19 21:47<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步<br>可我相信未来会给我一双梦想的翅膀<br>虽然失败的苦痛已让我遍体鳞伤<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24823080)<br><br>2013-10-19 00:06<br>赞(1) 踩(0) | <div>天行健,君子以自强不息</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9221667)<br>多出时间看天色的变换<br>2013-10-07 00:40<br>赞(1) 踩(0) | <div>典型的摇滚了吧</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-10-08 08:57<br>赞(0) 踩(0) | <div>有人会告诉你 伪摇 汪峰的歌都是伪摇</div> |
@@ -328,7 +328,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7405737)<br><br>2013-09-28 02:06<br>赞(0) 踩(0) | <div>在见过王超K这歌之后的很长一段时间内，再怎么听这首歌都回不去第一次听到时的心情，满脑子挥之不去的都尼玛是超哥狰狞着并高度自我陶醉的样子。。最近这段时间，终于又找回了初听时的心情。。谢谢让我看到光明的你。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20820138)<br><br>2013-09-26 23:50<br>赞(0) 踩(0) | <div>我坚信光明就在远方！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1228624)<br>溪岸之远，梦境之初<br>2013-09-25 19:14<br>赞(1) 踩(0) | <div>怎能不动容</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13669474)<br><br>2013-09-19 11:07<br>赞(0) 踩(0) | <div>也許迷途的惆悵會扯碎我的腳步可我相信未來會給我一雙夢想的翅膀雖然失敗的苦痛已讓我遍體鱗傷可我堅信光明就在遠方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13669474)<br><br>2013-09-19 11:07<br>赞(0) 踩(0) | <div>也許迷途的惆悵會扯碎我的腳步<br>可我相信未來會給我一雙夢想的翅膀<br>雖然失敗的苦痛已讓我遍體鱗傷<br>可我堅信光明就在遠方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13669474)<br><br>2013-09-19 10:58<br>赞(0) 踩(0) | <div>也許迷途的惆悵會扯碎我的腳步，可我相信未來會給我一雙夢想的翅膀，雖然失敗的苦痛已讓我遍體鱗傷，可我堅信光明就在遠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6276574)<br>绝利一源, 用师十倍<br>2013-09-17 00:09<br>赞(0) 踩(0) | <div>汪峰的词太牛逼了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18094744)<br><br>2013-09-05 11:13<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步.可我相信未来会给我一双梦想的翅膀.</div> |
@@ -349,11 +349,11 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18601842)<br><br>2013-08-06 13:18<br>赞(0) 踩(0) | <div>光明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16322952)<br><br>2013-08-04 02:25<br>赞(0) 踩(0) | <div>在人的一生中 总会遇到很多的选择 在得与失 取与舍之间会有很多的矛盾 站在这十字路口真的不知道何去何从 看到你们这样为我未来着想和紧张 真的有难过 这样的难题真的难于抉择 也许这就是对的吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18143261)<br><br>2013-07-29 23:35<br>赞(0) 踩(0) | <div>黑暗给了我一双眼睛,我却用它来寻找光明.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18152773)<br><br>2013-07-29 00:51<br>赞(0) 踩(0) | <div>也许征程的迷惘会扯碎我的手臂可我相信未来会给我一双梦想的翅膀虽然挫折的创伤已让我寸步难行可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18152773)<br><br>2013-07-29 00:51<br>赞(0) 踩(0) | <div>也许征程的迷惘<br>会扯碎我的手臂<br>可我相信未来会<br>给我一双梦想的翅膀<br>虽然挫折的创伤<br>已让我寸步难行<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331136)<br><br>2013-07-22 20:36<br>赞(0) 踩(0) | <div>跟汪峰比谢天笑就是个渣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6649901)<br><br>2013-07-20 21:20<br>赞(0) 踩(0) | <div>致全体13届及13级SIVA学子，未来是你们的，光明就在远方！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15958336)<br>爱乐人<br>2013-07-19 23:49<br>赞(0) 踩(0) | <div>坚信光明就在远方！晚安</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12322675)<br><br>2013-07-17 05:20<br>赞(0) 踩(0) | <div>也许征程的迷惘会扯碎我的手臂可我相信未来会给我一双梦想的翅膀虽然挫折的创伤已让我寸步难行可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12322675)<br><br>2013-07-17 05:20<br>赞(0) 踩(0) | <div>也许征程的迷惘会扯碎我的手臂<br>可我相信未来会给我一双梦想的翅膀<br>虽然挫折的创伤已让我寸步难行<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14590654)<br><br>2013-07-13 10:48<br>赞(0) 踩(0) | <div>光明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9073101)<br> <br>2013-07-09 21:28<br>赞(0) 踩(0) | <div>也许失败的苦痛已让我遍体凌伤  可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7423684)<br><br>2013-07-09 06:56<br>赞(0) 踩(0) | <div>当。。。</div> |
@@ -367,7 +367,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5462763)<br><br>2013-06-23 14:54<br>赞(0) 踩(0) | <div>淡定，从容，做自己的主人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13790350)<br><br>2013-06-20 19:26<br>赞(0) 踩(0) | <div>请问这个歌的灵感来自食指《相信未来》么</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/995084)<br><br>2013-06-24 10:56<br>赞(0) 踩(0) | <div>我也想知道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15948200)<br>在路上，音乐是最好的伴侣<br>2013-06-17 05:11<br>赞(0) 踩(0) | <div>“也许迷途的惆怅会扯碎我的脚步~ 可我相信未来会给我一双梦想的翅膀！~虽然失败的苦痛已让我遍体鳞伤， 可我坚信光明就在远方！！！~”  周一上班途中循环这首@汪峰 的励志呐喊曲——《光明》，迅速补充正能量！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15948200)<br>在路上，音乐是最好的伴侣<br>2013-06-17 05:11<br>赞(0) 踩(0) | <div>“也许迷途的惆怅会扯碎我的脚步~ 可我相信未来会给我一双梦想的翅膀！~<br>虽然失败的苦痛已让我遍体鳞伤， 可我坚信光明就在远方！！！~”  周一上班途中循环这首@汪峰 的励志呐喊曲——《光明》，迅速补充正能量！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15964170)<br><br>2013-06-10 23:50<br>赞(0) 踩(0) | <div>夜，什么也不说，就静静听，很爱的一首歌，情绪低落很烦很烦的时候就听听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8304716)<br><br>2013-06-10 00:46<br>赞(0) 踩(0) | <div>@安德鲁大虎  什么也不说，我很爱的一首歌，烦了就听听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13966822)<br>天籁之声<br>2013-06-05 15:27<br>赞(0) 踩(0) | <div>汪峰唱出了我的心声</div> |
@@ -393,7 +393,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9228221)<br>斜阳浅照<br>2013-05-08 08:30<br>赞(0) 踩(0) | <div>诗人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7180709)<br>我感冒了，鼻涕牛牛~<br>2013-05-06 18:26<br>赞(0) 踩(0) | <div>来励志一下吧孩匝~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61073)<br><br>2013-05-05 22:44<br>赞(0) 踩(0) | <div>分享这个的原因是。。。。去年好声音决赛的时候汪老板唱得各种跑调破音。。。一想起就想笑</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10020375)<br>silent<br>2013-05-05 13:38<br>赞(0) 踩(0) | <div>感动于汪峰的演唱，这首光明让我湿了了眼眶，真挚的情感流露出无限的渴望，是生命的呐喊，是满怀希望，是对亲人的想念，是面对挫折的信仰与坚强~~~祝福那些震中的 人们，让他们心中 充满力量~~~分享~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10020375)<br>silent<br>2013-05-05 13:38<br>赞(0) 踩(0) | <div>感动于汪峰的演唱，这首光明让我湿了了眼眶，真挚的情感流露出无限的渴望，是生命的呐喊，是满怀希望，是对亲人的想念，是面对挫折的信仰与坚强~~~<br>祝福那些震中的 人们，让他们心中 充满力量~~~<br>分享~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13917207)<br>.<br>2013-05-04 21:55<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14466490)<br><br>2013-05-03 23:10<br>赞(0) 踩(0) | <div>荒芜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2189324)<br><br>2013-05-01 01:51<br>赞(0) 踩(0) | <div>还是振奋点吧 你好五月！</div> |
@@ -419,7 +419,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4985905)<br><br>2013-03-14 08:46<br>赞(0) 踩(0) | <div>好歌难找啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10042306)<br><br>2013-03-10 00:42<br>赞(0) 踩(0) | <div>光明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10248187)<br>David<br>2013-03-06 11:10<br>赞(0) 踩(0) | <div>除了未来我们还能相信和守望什么，希望光明就在远方！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9558891)<br><br>2013-03-04 19:50<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步可我相信未来会给我一双梦想的翅膀虽然失败的苦痛已让我遍体鳞伤可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9558891)<br><br>2013-03-04 19:50<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步<br>可我相信未来会给我一双梦想的翅膀<br>虽然失败的苦痛已让我遍体鳞伤<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1446452)<br>我还没想好要写什么...<br>2013-03-04 12:17<br>赞(0) 踩(0) | <div>献给长辈车友超人,向着征程新藏线出发吧,祝福你,也祝福每一个在路上骑行的车友平安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3557785)<br>白日梦岛～<br>2013-03-04 02:22<br>赞(0) 踩(0) | <div>把自己当一株充满着光合作用的植物吧，比把自己当钻石会少受伤，想按照自己的想法过活，在此之前先学会放手和积累吧！面包、爱情总会有的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7811830)<br><br>2013-02-28 16:01<br>赞(0) 踩(0) | <div>今天我的好歌推荐是；汪峰《光明》推荐理由；我喜欢汪峰音乐中唱出希望的呐喊的感觉你喜欢吗</div> |
@@ -429,7 +429,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4462921)<br> <br>2013-02-19 21:48<br>赞(0) 踩(0) | <div>送给每一位为梦想奋斗的人，光明就在远方……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10484253)<br>new123**<br>2013-02-16 11:41<br>赞(0) 踩(0) | <div>节后综合症需要一首励志的歌激励下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3891414)<br><br>2013-02-16 03:45<br>赞(0) 踩(0) | <div>当灰烬查封了凝霜的屋檐，当车菊草化作深秋的露水，我用固执的枯藤做成行囊走向了那布满荆棘的他乡。也许迷途的惆怅会扯碎我的脚步，可我相信未来会给我一双梦想的翅膀，虽然失败的苦痛已让我遍体鳞伤，可我坚信光明就在远方。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12914765)<br><br>2013-02-16 01:33<br>赞(0) 踩(0) | <div>也许征程的迷惘会扯碎我的手臂可我相信未来会给我一双梦想的翅膀 !</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12914765)<br><br>2013-02-16 01:33<br>赞(0) 踩(0) | <div>也许征程的迷惘会扯碎我的手臂<br>可我相信未来会给我一双梦想的翅膀 !</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8805608)<br><br>2013-02-14 15:01<br>赞(0) 踩(0) | <div>虽然窗外下着雨，听着这歌让我热血沸腾，哈哈哈哈哈哈哈哈哈哈哈哈哈哈！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3553081)<br><br>2013-02-14 11:59<br>赞(0) 踩(0) | <div>光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1623581)<br><br>2013-02-13 21:10<br>赞(0) 踩(0) | <div>带上耳机一起来抽风</div> |
@@ -448,7 +448,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9990667)<br><br>2013-01-14 23:35<br>赞(0) 踩(0) | <div>很有力量！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280618)<br><br>2013-01-14 11:07<br>赞(0) 踩(0) | <div>给所有为了自由和尊严默默忍受坚强战斗的中国人！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/761349)<br><br>2013-01-09 22:51<br>赞(0) 踩(0) | <div>出着卷子，听着《光明》。激情澎湃。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12295867)<br><br>2013-01-07 10:36<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步可我相信未来会给我一双梦想的翅膀虽然失败的苦痛已让我遍体鳞伤可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12295867)<br><br>2013-01-07 10:36<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步<br>可我相信未来会给我一双梦想的翅膀<br>虽然失败的苦痛已让我遍体鳞伤<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8442016)<br><br>2013-01-02 12:04<br>赞(0) 踩(0) | <div>生活是种律动，须有光有影，有左有右，有晴有雨，滋味就含在这变而不猛的曲折里。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6679629)<br>生活的艺术在于一切简单化<br>2012-12-29 22:21<br>赞(0) 踩(0) | <div>光明，送给这个点还赶回公司忙碌的@张小小蕊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12155933)<br><br>2012-12-29 12:34<br>赞(0) 踩(0) | <div>给力，好听</div> |
@@ -462,7 +462,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886864)<br>Where words ...<br>2012-12-09 10:47<br>赞(1) 踩(0) | <div>想起食指的那首诗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1916496)<br><br>2012-12-06 11:56<br>赞(0) 踩(0) | <div>.....“可我坚信光明 就在远方”.....听完会有热血沸腾的感觉，最近爱上汪峰的歌了，光明，一首足以摧毁我嗓子的歌曲，下次，让我挑战你！.....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/698904)<br>一辈子❤️<br>2012-12-05 20:50<br>赞(40) 踩(0) | <div>能想象上海出摇滚乐队吗？中国最好的摇滚乐队都出自粗粝的北方。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299617)<br>浮云一别后，流水十年间<br>2012-12-25 19:42<br>赞(0) 踩(0) | <div>广东，不少。大西南，也不少。虽然好的不多。江南几个省，福建江西浙江江苏，可以不计。而上海，有爵士。这很适合上海的味道。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299617)<br>浮云一别后，流水十年间<br>2012-12-25 19:42<br>赞(0) 踩(0) | <div>广东，不少。大西南，也不少。虽然好的不多。<br>江南几个省，福建江西浙江江苏，可以不计。<br>而上海，有爵士。<br>这很适合上海的味道。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45286343)<br> <br>2015-06-05 11:27<br>赞(0) 踩(0) | <div>狂野更贴切</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71697)<br><br>2015-07-01 01:04<br>赞(0) 踩(0) | <div>你覺得 bybeyond~d 怎麼樣</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36769857)<br><br>2015-07-06 23:15<br>赞(0) 踩(0) | <div>敢问你说的北方是什么地方？上海的乐队又听过几个？</div> |
@@ -498,8 +498,8 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3947747)<br><br>2012-11-08 10:31<br>赞(0) 踩(0) | <div>想去看他的演唱会</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11099412)<br><br>2012-11-07 20:40<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步，也许征程的迷惘会扯碎我的手臂 ，可我相信未来会给我一双梦想的翅膀。虽然失败的苦痛已让我遍体鳞伤，虽然挫折的创伤已让我寸步难行，可我坚信光明就在远方。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5130782)<br><br>2012-11-07 17:26<br>赞(0) 踩(0) | <div>55/99 再来上海吧,一定要去听现场</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2521290)<br><br>2012-11-07 08:49<br>赞(0) 踩(0) | <div>当大地铺满了悲泣的落叶当杜鹃花化作远空的雾霭祝福我吧我最思念的亲人那就是我向你告别的身影~~~~~送给即将告别的北京！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2521290)<br><br>2012-11-07 08:43<br>赞(0) 踩(0) | <div>当大地铺满了悲泣的落叶当杜鹃花化作远空的雾霭祝福我吧我最思念的亲人那就是我向你告别的身影</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2521290)<br><br>2012-11-07 08:49<br>赞(0) 踩(0) | <div>当大地铺满了悲泣的落叶<br>当杜鹃花化作远空的雾霭<br>祝福我吧我最思念的亲人<br>那就是我向你告别的身影<br>~~~~~送给即将告别的北京！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2521290)<br><br>2012-11-07 08:43<br>赞(0) 踩(0) | <div>当大地铺满了悲泣的落叶<br>当杜鹃花化作远空的雾霭<br>祝福我吧我最思念的亲人<br>那就是我向你告别的身影</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2043910)<br><br>2012-11-06 23:19<br>赞(0) 踩(0) | <div>做图时听了好多遍的歌~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5886360)<br><br>2012-11-05 18:32<br>赞(0) 踩(0) | <div>我最爱的北方这周的天气很适合这首歌：当灰烬查封了凝霜的屋檐 当车菊草化作深秋的露水...当大地铺满了悲凄的落叶 当杜鹃花化作远空的雾霭...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163039)<br><br>2012-11-02 19:44<br>赞(0) 踩(0) | <div>******</div> |
@@ -526,7 +526,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4816109)<br><br>2012-10-10 19:58<br>赞(0) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10235036)<br><br>2012-10-09 19:37<br>赞(0) 踩(0) | <div>我一直觉得他的声音特点就是荒凉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1151046)<br>漫漫夜<br>2012-10-08 17:31<br>赞(0) 踩(0) | <div>光明就在远方！ 永远别轻言放弃</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6038653)<br><br>2012-10-07 21:11<br>赞(0) 踩(0) | <div>强烈推荐。一个听了十几遍让我仍然心中激动的歌。也许迷途的惆怅会扯碎我的脚步，可我相信未来会给我一双梦想的翅膀 ，虽然失败的苦痛已让我遍体鳞伤 ，可我坚信光明就在远方。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6038653)<br><br>2012-10-07 21:11<br>赞(0) 踩(0) | <div>强烈推荐。一个听了十几遍让我仍然心中激动的歌。<br>也许迷途的惆怅会扯碎我的脚步，可我相信未来会给我一双梦想的翅膀 ，<br>虽然失败的苦痛已让我遍体鳞伤 ，<br>可我坚信光明就在远方。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/602406)<br><br>2012-10-07 13:25<br>赞(0) 踩(0) | <div>可我坚信光明‘就在远方’</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10910443)<br>裁剪出的中国  原创品牌<br>2012-10-05 23:45<br>赞(0) 踩(0) | <div>只要坚信，光明就在远方。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5530608)<br><br>2012-10-05 22:55<br>赞(0) 踩(0) | <div>据传闻，这首歌很有Chris Daughtry的味道，听听看吧。恶补《信仰在空中飘扬》by 汪峰</div> |
@@ -545,7 +545,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5775864)<br><br>2012-09-11 22:41<br>赞(0) 踩(0) | <div>@佟二狗@态度摇滚ni@非周人@Kimi_Ki 歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8412530)<br><br>2012-09-11 10:50<br>赞(1) 踩(0) | <div>特别羡慕那晚一起嘶吼的人们……也被问到，你们过得好吗？你们幸福吗？身边的人齐声呐喊，不好！不幸福！一阵心酸，这是大家心底的声音，喊出来就好。希望压抑的人们，终有一天让自己不可思议，且不知那一晚的人们，有多少自此开始了新的故事……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3738547)<br><br>2012-09-10 12:30<br>赞(0) 踩(0) | <div>#信仰在空中飘扬#</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10509331)<br><br>2012-09-08 20:29<br>赞(1) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步可我相信未来会给我一双梦想的翅膀虽然失败的苦痛已让我遍体鳞伤可我坚信光明就在远方也许征程的迷惘会扯碎我的手臂可我相信未来会给我一双梦想的翅膀虽然挫折的创伤已让我寸步难行可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10509331)<br><br>2012-09-08 20:29<br>赞(1) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步<br>可我相信未来会给我一双梦想的翅膀<br>虽然失败的苦痛已让我遍体鳞伤<br>可我坚信光明就在远方<br>也许征程的迷惘会扯碎我的手臂<br>可我相信未来会给我一双梦想的翅膀<br>虽然挫折的创伤已让我寸步难行<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173640)<br>我还没想好要写什么...<br>2012-09-08 13:55<br>赞(0) 踩(0) | <div>吼啊吼唱啊唱！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5488860)<br>关于风，关于雨，关于十月<br>2012-09-07 14:21<br>赞(52) 踩(0) | <div>听汪峰，来自心灵深处的呐喊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10516841)<br><br>2012-09-06 11:36<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步，也许征程的迷惘会会扯碎我的手臂可我相信未来会给我一双梦想的翅膀，可我坚信光明就在远方。</div> |
@@ -563,17 +563,17 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116002)<br><br>2012-07-07 01:27<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443394)<br> <br>2012-07-06 13:55<br>赞(0) 踩(0) | <div>他的歌总是那么温暖，充满力量~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2166195)<br><br>2012-07-05 23:29<br>赞(0) 踩(0) | <div>“我用翅膀掀起那天边的排浪 我用身躯拖起那血红的太阳 就在这刺骨而凛冽的大风中 你会听到我赞美未来的呼喊” 最近在听汪峰，好久以前无法接受的嘶哑嗓音摇滚。好多首都充满了正能量，比如这首《光明》。偶然发现歌词和食指的《相信未来》出奇相似。信仰在空中飘扬。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8957466)<br><br>2012-06-27 02:18<br>赞(0) 踩(0) | <div>我用翅膀掀起那天边的排浪我用身躯拖起那血红的太阳就在这刺骨而凛冽的大风中在路上...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8957466)<br><br>2012-06-27 02:18<br>赞(0) 踩(0) | <div>我用翅膀掀起那天边的排浪<br>我用身躯拖起那血红的太阳<br>就在这刺骨而凛冽的大风中<br>在路上...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6826455)<br><br>2012-06-26 20:28<br>赞(0) 踩(0) | <div>#天下网商U+的猜想# 也许迷途的惆怅会扯碎我的脚步，可我相信未来会给我一双梦想的翅膀，虽然失败的苦痛已让我遍体鳞伤，可我坚信光明就在远方.........老板，先点首“光明”送给我们自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8994939)<br><br>2012-06-19 19:21<br>赞(0) 踩(0) | <div>毕业典礼短片</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9306731)<br><br>2012-06-09 10:48<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8622242)<br>无奈你我牵过手，没绳索。<br>2012-05-29 01:59<br>赞(0) 踩(0) | <div>调成闹钟，每天给自己加油，提醒自己相信未来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6891488)<br><br>2012-05-26 11:42<br>赞(0) 踩(0) | <div>汪峰的歌有颓废有励志，而这样的力量就刚刚好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5602962)<br><br>2012-05-23 13:29<br>赞(0) 踩(0) | <div>光明</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5773974)<br>(⊙o⊙)<br>2012-05-13 18:30<br>赞(0) 踩(0) | <div>虽然失败的苦痛已让我遍体鳞伤可我坚信光明就在远方</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583536)<br><br>2012-05-12 15:17<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步可我相信未来会给我一双梦想的翅膀虽然失败的苦痛已让我遍体鳞伤可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5773974)<br>(⊙o⊙)<br>2012-05-13 18:30<br>赞(0) 踩(0) | <div>虽然失败的苦痛已让我遍体鳞伤<br>可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583536)<br><br>2012-05-12 15:17<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步<br>可我相信未来会给我一双梦想的翅膀<br>虽然失败的苦痛已让我遍体鳞伤<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5539551)<br><br>2012-05-12 10:32<br>赞(0) 踩(0) | <div>越来越喜欢摇滚了，虽然未来依然充满迷茫和苦痛，但一定是光明的方向！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4873525)<br><br>2012-05-05 09:53<br>赞(0) 踩(0) | <div>今天我爱汪-峰  也许征程的迷惘会会扯碎我的手臂可我相信未来会给我一双梦想的翅膀虽然挫折的创伤已让我寸步难行可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4873525)<br><br>2012-05-05 09:53<br>赞(0) 踩(0) | <div>今天我爱汪-峰  也许征程的迷惘会会扯碎我的手臂<br>可我相信未来会给我一双梦想的翅膀<br>虽然挫折的创伤已让我寸步难行<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8795576)<br><br>2012-04-08 21:37<br>赞(0) 踩(0) | <div>00</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1258018)<br><br>2012-03-26 15:05<br>赞(0) 踩(0) | <div>写的真好，酣畅淋漓的呐喊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2570202)<br><br>2012-03-09 22:47<br>赞(0) 踩(0) | <div>明天上东灵。北京最高峰，2400米。</div> |
@@ -584,7 +584,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/947528)<br><br>2012-02-26 23:28<br>赞(0) 踩(0) | <div>坚信光明就在远方！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2578754)<br><br>2012-02-26 10:00<br>赞(0) 踩(0) | <div>很积极</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169890)<br><br>2012-02-22 22:22<br>赞(0) 踩(0) | <div>未來會給我一雙翅膀！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1419440)<br><br>2012-02-17 11:47<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步可我相信未来会给我一双梦想的翅膀虽然失败的苦痛已让我遍体鳞伤可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1419440)<br><br>2012-02-17 11:47<br>赞(0) 踩(0) | <div>也许迷途的惆怅会扯碎我的脚步<br>可我相信未来会给我一双梦想的翅膀<br>虽然失败的苦痛已让我遍体鳞伤<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2012-02-08 08:57<br>赞(0) 踩(0) | <div>那句“你会听到我赞美未来的呼喊”好高啊！有期《欢乐中国行》里面，汪峰唱这首《光明》时，最高的那一句唱不上去。我刚开始还以为这首歌不高，听了原版之后才知道这首歌真是太难唱了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23250)<br><br>2012-02-07 10:08<br>赞(0) 踩(0) | <div>期待光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2012-02-04 16:36<br>赞(0) 踩(0) | <div>歌词居然会有错的？还好，没出现在这里，错误的歌词在音魁网里面。</div> |
@@ -594,8 +594,8 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3940835)<br><br>2011-12-30 18:53<br>赞(0) 踩(0) | <div>也许迷途的惆怅会让我迷失远方但我相信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287610)<br><br>2011-12-26 00:38<br>赞(0) 踩(0) | <div>大学，有过迷茫，烦恼，忧伤，无奈，恐惧。。。可我坚信光明就在远方！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/993768)<br><br>2011-12-25 19:35<br>赞(0) 踩(0) | <div>还成~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1388053)<br><br>2011-12-09 22:16<br>赞(0) 踩(0) | <div>也许征程的迷惘会扯碎我的手臂可我相信未来会给我一双梦想的翅膀虽然挫折的创伤已让我寸步难行可我坚信光明就在远方</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1388053)<br><br>2011-12-09 22:15<br>赞(0) 踩(0) | <div>也许征程的迷惘会扯碎我的手臂可我相信未来会给我一双梦想的翅膀虽然挫折的创伤已让我寸步难行可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1388053)<br><br>2011-12-09 22:16<br>赞(0) 踩(0) | <div>也许征程的迷惘会扯碎我的手臂<br>可我相信未来会给我一双梦想的翅膀<br>虽然挫折的创伤已让我寸步难行<br>可我坚信光明就在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1388053)<br><br>2011-12-09 22:15<br>赞(0) 踩(0) | <div>也许征程的迷惘会扯碎我的手臂<br>可我相信未来会给我一双梦想的翅膀<br>虽然挫折的创伤已让我寸步难行<br>可我坚信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6018548)<br>我还没想好要写什么...<br>2011-12-09 09:50<br>赞(0) 踩(0) | <div>汪峰向诗人食指示敬的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2666070)<br><br>2011-12-09 00:17<br>赞(0) 踩(0) | <div>坚信光明就在远方！嗯，好好学习，下回K这歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/894162)<br><br>2011-12-05 02:42<br>赞(0) 踩(0) | <div>给我信念的歌</div> |
@@ -618,11 +618,11 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3646615)<br><br>2011-09-30 19:51<br>赞(0) 踩(0) | <div>也许迷途的惆怅会折碎我的脚步，可我相信未来会给我一双梦想的翅膀...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3847523)<br> <br>2011-09-20 00:39<br>赞(0) 踩(0) | <div>可我相信光明就在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4323154)<br><br>2011-09-18 08:00<br>赞(0) 踩(0) | <div>汪峰 ，光明。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/547211)<br>低音走卒-节奏信徒<br>2011-09-09 17:58<br>赞(1) 踩(0) | <div>食指：相信未来当蜘蛛网无情地查封了我的炉台当灰烬的余烟叹息着贫困的悲哀我依然固执地铺平失望的灰烬用美丽的雪花写下：相信未来当我的紫葡萄化为深秋的露水当我的鲜花依偎在别人的情怀我依然固执地用凝霜的枯藤在凄凉的大地上写下：相信未来我要用手指那涌向天边的排浪我要用手撑那托住太阳的大海摇曳着曙光那枝温暖漂亮的笔杆用孩子的笔体写下：相信未来我之所以坚定地相信未来是我相信未来人们的眼睛她有拨开历史风尘的睫毛她有看透岁月篇章的瞳孔不管人们对于我们腐烂的皮肉那些迷途的惆怅、失败的苦痛是寄予感动的热泪、深切的同情还是给以轻蔑的微笑、辛辣的嘲讽</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/547211)<br>低音走卒-节奏信徒<br>2011-09-09 17:58<br>赞(1) 踩(0) | <div>食指：相信未来<br><br><br>当蜘蛛网无情地查封了我的炉台<br>当灰烬的余烟叹息着贫困的悲哀<br>我依然固执地铺平失望的灰烬<br>用美丽的雪花写下：相信未来<br><br>当我的紫葡萄化为深秋的露水<br>当我的鲜花依偎在别人的情怀<br>我依然固执地用凝霜的枯藤<br>在凄凉的大地上写下：相信未来<br><br>我要用手指那涌向天边的排浪<br>我要用手撑那托住太阳的大海<br>摇曳着曙光那枝温暖漂亮的笔杆<br>用孩子的笔体写下：相信未来<br><br>我之所以坚定地相信未来<br>是我相信未来人们的眼睛<br>她有拨开历史风尘的睫毛<br>她有看透岁月篇章的瞳孔<br>不管人们对于我们腐烂的皮肉<br><br>那些迷途的惆怅、失败的苦痛<br>是寄予感动的热泪、深切的同情<br>还是给以轻蔑的微笑、辛辣的嘲讽</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13049719)<br><br>2016-05-09 23:22<br>赞(0) 踩(0) | <div>汪峰改得更加出彩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1814684)<br><br>2011-09-07 21:51<br>赞(0) 踩(0) | <div>今天听的，好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5604823)<br><br>2011-08-28 10:23<br>赞(0) 踩(0) | <div>感觉很好……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5576267)<br><br>2011-08-26 22:41<br>赞(0) 踩(0) | <div>我坚信光明就在远方。。。。。。。。。特别适合此刻在奋斗的路上的我，谢谢你，汪峰！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5576267)<br><br>2011-08-26 22:41<br>赞(0) 踩(0) | <div>我坚信光明就在远方<br>。。。。。。。。。特别适合此刻在奋斗的路上的我，谢谢你，汪峰！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5434808)<br><br>2011-08-21 23:49<br>赞(0) 踩(0) | <div>汪峰的歌有故事的人唱才更好听~~没错！会更有感情~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1060564)<br><br>2011-08-17 23:10<br>赞(0) 踩(0) | <div>摇滚的力量~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260778)<br>一抹云<br>2011-08-09 22:41<br>赞(0) 踩(0) | <div>那种沧桑</div> |
@@ -630,7 +630,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5035442)<br><br>2011-08-08 01:30<br>赞(0) 踩(0) | <div>光明就在前面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4959889)<br><br>2011-08-07 23:05<br>赞(0) 踩(0) | <div>汪峰的歌有故事的人唱才更好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5159854)<br><br>2011-08-06 19:11<br>赞(0) 踩(0) | <div>我要说，这就是我此刻的心境。坚信光明就在远方！谢谢你 @汪峰</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882287)<br><br>2011-08-04 15:17<br>赞(0) 踩(0) | <div>汪峰关于歌词的说法:“前几天上一个节目遇到白岩松，我还想让他帮我引见一下这位诗人呢。”汪峰称自己对食指的很多作品都特别喜欢，俨然是个资深粉丝，因此在创作这首歌的歌词时，他才特意采用了诗作中的一些元素。被问到为何没有在专辑中注明这首歌的来源时，他说相信喜欢食指的人自然能看出两者之间的近似之处，所以没必要在专辑中特别加以说明，而且这也不是常规的做法。——————那么不知道食指或者《相信未来》的人，大概就会以为是汪峰自己写出来的吧！=.=</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882287)<br><br>2011-08-04 15:17<br>赞(0) 踩(0) | <div>汪峰关于歌词的说法:<br>“前几天上一个节目遇到白岩松，我还想让他帮我引见一下这位诗人呢。”汪峰称自己对食指的很多作品都特别喜欢，俨然是个资深粉丝，因此在创作这首歌的歌词时，他才特意采用了诗作中的一些元素。<br>被问到为何没有在专辑中注明这首歌的来源时，他说相信喜欢食指的人自然能看出两者之间的近似之处，所以没必要在专辑中特别加以说明，而且这也不是常规的做法。<br>——————<br>那么不知道食指或者《相信未来》的人，大概就会以为是汪峰自己写出来的吧！=.=</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4437800)<br><br>2011-08-01 14:28<br>赞(0) 踩(0) | <div>犹记得那天在地铁上，那个背着吉他唱歌的壮小伙，唱着这首《光明》，让我感动~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3827079)<br><br>2011-07-27 13:19<br>赞(0) 踩(0) | <div>坚信光明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3827079)<br><br>2011-07-27 13:19<br>赞(0) 踩(0) | <div>给我力量</div> |
@@ -660,7 +660,7 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/518381)<br><br>2011-05-10 23:08<br>赞(0) 踩(0) | <div>这首歌听到前奏就已经爽得不行了  无论何时都能立马想起这段旋律呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2935604)<br>Eres lo que ...<br>2011-05-07 01:17<br>赞(0) 踩(0) | <div>一个用生活来做音乐的人，有什么是值得怀疑的？！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306877)<br><br>2011-05-04 11:08<br>赞(0) 踩(0) | <div>震撼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3150604)<br><br>2011-04-29 23:37<br>赞(0) 踩(0) | <div>这首歌曲不是唱出来的，是用灵魂喊出来的！“我用翅膀扇出天边的排浪，我用身躯托起血红的太阳”，这是何等气魄！！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3150604)<br><br>2011-04-29 23:37<br>赞(0) 踩(0) | <div>这首歌曲不是唱出来的，是用灵魂喊出来的！<br>“我用翅膀扇出天边的排浪，我用身躯托起血红的太阳”，这是何等气魄！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1184075)<br><br>2011-04-23 21:37<br>赞(0) 踩(0) | <div>这就是我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3314336)<br><br>2011-04-23 15:24<br>赞(0) 踩(0) | <div>光明就在前方。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136794)<br><br>2011-04-03 14:26<br>赞(0) 踩(0) | <div>比起春天里，我更喜欢这首歌</div> |
@@ -709,8 +709,8 @@ Drum：Funky<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/561291)<br>倚楼听风雨。<br>2010-05-05 15:32<br>赞(0) 踩(0) | <div>来一个斗志昂扬的、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/664815)<br><br>2010-02-10 19:10<br>赞(0) 踩(0) | <div>可我坚信光明就在前方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/610477)<br><br>2010-01-20 18:21<br>赞(0) 踩(0) | <div>当时听的时候几乎要哭出来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54868)<br> <br>2010-01-04 00:43<br>赞(0) 踩(0) | <div>《相信未来》——食指当蜘蛛网无情地查封了我的炉台当灰烬的余烟叹息着贫困的悲哀我依然固执地铺平失望的灰烬用美丽的雪花写下：相信未来当我的紫葡萄化为深秋的露水当我的鲜花依偎在别人的情怀我依然固执地用凝霜的枯藤在凄凉的大地上写下：相信未来我要用手指那涌向天边的排浪我要用手掌那托住太阳的大海摇曳着曙光那枝温暖漂亮的笔杆用孩子的笔体写下：相信未来我之所以坚定地相信未来是我相信未来人们的眼睛她有拨开历史风尘的睫毛她有看透岁月篇章的瞳孔不管人们对于我们腐烂的皮肉那些迷途的惆怅、失败的苦痛是寄予感动的热泪、深切的同情还是给以轻蔑的微笑、辛辣的嘲讽我坚信人们对于我们的脊骨那无数次的探索、迷途、失败和成功一定会给予热情、客观、公正的评定是的，我焦急地等待着他们的评定朋友，坚定地相信未来吧相信不屈不挠的努力相信战胜死亡的年轻相信未来、热爱生命</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882287)<br><br>2011-08-04 15:02<br>赞(0) 踩(0) | <div>奇怪~这里没人吐糟——汪锋把这首歌的作词写成自己么!?</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54868)<br> <br>2010-01-04 00:43<br>赞(0) 踩(0) | <div>《相信未来》<br>——食指<br>当蜘蛛网无情地查封了我的炉台<br><br>当灰烬的余烟叹息着贫困的悲哀<br><br>我依然固执地铺平失望的灰烬<br><br>用美丽的雪花写下：相信未来<br><br>当我的紫葡萄化为深秋的露水<br><br>当我的鲜花依偎在别人的情怀<br><br>我依然固执地用凝霜的枯藤<br><br>在凄凉的大地上写下：相信未来<br><br>我要用手指那涌向天边的排浪<br><br>我要用手掌那托住太阳的大海<br><br>摇曳着曙光那枝温暖漂亮的笔杆<br><br>用孩子的笔体写下：相信未来<br><br>我之所以坚定地相信未来<br><br>是我相信未来人们的眼睛<br><br>她有拨开历史风尘的睫毛<br><br>她有看透岁月篇章的瞳孔<br><br>不管人们对于我们腐烂的皮肉<br><br>那些迷途的惆怅、失败的苦痛<br><br>是寄予感动的热泪、深切的同情<br><br>还是给以轻蔑的微笑、辛辣的嘲讽<br><br>我坚信人们对于我们的脊骨<br><br>那无数次的探索、迷途、失败和成功<br><br>一定会给予热情、客观、公正的评定<br><br>是的，我焦急地等待着他们的评定<br><br>朋友，坚定地相信未来吧<br><br>相信不屈不挠的努力<br><br>相信战胜死亡的年轻<br><br>相信未来、热爱生命</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882287)<br><br>2011-08-04 15:02<br>赞(0) 踩(0) | <div>奇怪~<br><br>这里没人吐糟——汪锋把这首歌的作词写成自己么!?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/600385)<br><br>2009-12-31 22:05<br>赞(0) 踩(0) | <div>一样的震撼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/509931)<br> <br>2009-11-30 19:59<br>赞(0) 踩(0) | <div>他的歌让我感觉一路走来，毕竟还是有人同行。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175713)<br><br>2009-10-07 23:39<br>赞(0) 踩(0) | <div>绝对汪峰的风格，力量，好听。</div> |

@@ -26,5 +26,3 @@ Far beyond the northen sea
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

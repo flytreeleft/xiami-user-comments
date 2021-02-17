@@ -39,8 +39,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443749039)<br><br>2021-01-22 13:42<br>赞(0) 踩(0) | <div>＂秋水共长天一色＂粉红色那恋恋不舍夕阳回眸着余光。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207434265)<br>我还没想好要写什么...<br>2021-01-08 11:02<br>赞(0) 踩(0) | <div>虾米是最好的，就像这首歌一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32269951)<br>最早一批的音乐电台DJ现...<br>2021-01-08 07:39<br>赞(1) 踩(0) | <div>我等你回来啊，答应我</div> |
@@ -48,7 +48,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53611411)<br>这家伙暂时还没想好要留下...<br>2021-01-05 10:40<br>赞(0) 踩(0) | <div>虾米还是没能挺下去，2021年最大噩耗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442910485)<br>梦<br>2020-11-25 02:24<br>赞(1) 踩(0) | <div>好天真的小姐姐 向喝到了夏日的青柠檬水。祈祷 一直 一直 一直 走 肩膀可以随时依靠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37771846)<br> <br>2020-11-12 14:56<br>赞(0) 踩(0) | <div>今天是你的生日 希望你过的幸福和快乐有人陪伴在你身边</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427452372)<br><br>2020-10-25 23:39<br>赞(1) 踩(0) | <div>第一次听到这首歌。很喜欢。祝大家拥有美好的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427452372)<br><br>2020-10-25 23:39<br>赞(1) 踩(0) | <div>第一次听到这首歌。很喜欢。<br>祝大家拥有美好的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50622683)<br> <br>2020-08-13 15:36<br>赞(1) 踩(0) | <div>前奏好评</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368930451)<br>音乐，牵动我的喜怒哀乐…...<br>2020-07-05 10:09<br>赞(1) 踩(0) | <div>美好的一天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376631264)<br>睡个好觉<br>2020-02-15 12:37<br>赞(0) 踩(0) | <div>，</div> |
@@ -79,7 +79,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205612807)<br><br>2018-10-21 14:27<br>赞(2) 踩(0) | <div>blt超市 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"> <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"> <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3693263)<br>水晶歌舞伎町<br>2018-09-16 01:45<br>赞(3) 踩(0) | <div>大概就是取消週五的工作，飛到南京和你共進晚餐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45881587)<br>…<br>2018-08-18 01:12<br>赞(1) 踩(0) | <div>超爱许哲佩 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59683548)<br>想从你的窗子看月亮<br>2018-08-01 10:42<br>赞(3) 踩(0) | <div>希望以后我的婚礼上可以放这首歌希望他真的爱我希望我也爱他和这首歌一样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59683548)<br>想从你的窗子看月亮<br>2018-08-01 10:42<br>赞(3) 踩(0) | <div>希望以后我的婚礼上可以放这首歌<br>希望他真的爱我<br>希望我也爱他<br>和这首歌一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272396575)<br>Uaena<br>2018-07-31 12:35<br>赞(3) 踩(0) | <div>舒服</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276249180)<br>我就是喜欢听歌的小女生呀...<br>2018-07-02 19:47<br>赞(1) 踩(0) | <div>好轻啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82381998)<br>我还没想好要写什么...<br>2018-06-30 12:27<br>赞(1) 踩(0) | <div>如果她狂宣传，那可能不是她</div> |
@@ -90,7 +90,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57704942)<br>永不回头<br>2018-05-07 16:40<br>赞(4) 踩(0) | <div>这首歌想唱给男朋友听(//&amp;nabla;//)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13944950)<br><br>2018-04-15 19:33<br>赞(19) 踩(0) | <div>高中的时候好喜欢，现在听很有回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282278942)<br> <br>2018-04-14 11:25<br>赞(1) 踩(0) | <div>初中的回忆啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123503208)<br>全世界谁倾听你<br>2018-04-12 18:58<br>赞(2) 踩(0) | <div>一定要和未来的那个人听这首歌还要唱给他听 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">也一直期待美好的爱情会降临在我身上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123503208)<br>全世界谁倾听你<br>2018-04-12 18:58<br>赞(2) 踩(0) | <div>一定要和未来的那个人听这首歌<br>还要唱给他听 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>也一直期待美好的爱情会降临在我身上</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28112355)<br><br>2019-04-10 12:25<br>赞(0) 踩(0) | <div>祝福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82381998)<br>我还没想好要写什么...<br>2018-04-05 04:51<br>赞(3) 踩(0) | <div>快五点了，在高速上也想你，虽然只是我一个人想你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257700059)<br> <br>2018-03-26 23:29<br>赞(1) 踩(0) | <div></div> |
@@ -173,14 +173,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/633573)<br>重庆森林的非文艺摇滚女青...<br>2013-09-25 15:14<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15633811)<br>爱听苦情歌<br>2013-09-21 09:24<br>赞(0) 踩(0) | <div>下雨天听这样的歌真应景</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4982589)<br><br>2013-09-18 19:47<br>赞(0) 踩(0) | <div>世界没有尽头  有我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5086082)<br>表裡如2<br>2013-09-13 17:18<br>赞(0) 踩(0) | <div>感谢生命中美好的世界尽头 有你有我你是生命中最好的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5086082)<br>表裡如2<br>2013-09-13 17:18<br>赞(0) 踩(0) | <div>感谢生命中美好的<br>世界尽头 有你有我<br>你是生命中最好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5012404)<br><br>2013-09-08 11:29<br>赞(0) 踩(0) | <div>感谢生命中美好的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3072694)<br><br>2013-09-04 09:57<br>赞(0) 踩(0) | <div>@我是璐小冉 来来来 妹纸 你呢生活 美好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4835917)<br><br>2013-08-28 23:31<br>赞(0) 踩(0) | <div>感谢生命中美好的〜〜〜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18479620)<br><br>2013-08-24 12:11<br>赞(0) 踩(0) | <div>好聽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15465093)<br> <br>2013-08-22 22:32<br>赞(1) 踩(0) | <div>毫无疑问许哲佩是活在自己童话世界里的公主，从气球到许愿盒再到奇幻精品店，歌曲的主题无不体现她孩子王的本质，天马行空想我所想，每一首歌都带着她独特的印记。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5154027)<br>我看自己隔着海。<br>2013-08-08 20:12<br>赞(0) 踩(0) | <div>无意间听到多年前单曲循环的，捡起许多记忆里的歌。当我还是少女的时候！！(‧‧)nnn</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5154027)<br>我看自己隔着海。<br>2013-08-08 20:02<br>赞(0) 踩(0) | <div>无意间听到多年前单曲循环的，捡起许多记忆里的歌。当我还是少女的时候！！(‧‧)nnn</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5154027)<br>我看自己隔着海。<br>2013-08-08 20:12<br>赞(0) 踩(0) | <div>无意间听到多年前单曲循环的，捡起许多记忆里的歌。当我还是少女的时候！！<br>(‧‧)nnn</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5154027)<br>我看自己隔着海。<br>2013-08-08 20:02<br>赞(0) 踩(0) | <div>无意间听到多年前单曲循环的，捡起许多记忆里的歌。当我还是少女的时候！！<br>(‧‧)nnn</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18084867)<br><br>2013-08-02 09:58<br>赞(0) 踩(0) | <div>感谢生命中美好的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9464394)<br>JeanMo<br>2013-08-01 18:27<br>赞(0) 踩(0) | <div>＂在安静平淡的时光里，任山川安然，年华静走，做一个淡然素净的女子。＂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4488064)<br><br>2013-07-30 23:31<br>赞(0) 踩(0) | <div>#晚安#</div> |
@@ -204,11 +204,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15434440)<br><br>2013-05-26 01:11<br>赞(0) 踩(0) | <div>「大福 晚安」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15434440)<br><br>2013-05-26 01:03<br>赞(0) 踩(0) | <div>「大福 晚安」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7014943)<br><br>2013-05-25 12:14<br>赞(0) 踩(0) | <div>嗯嗯嗯…就是它了…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/799488)<br><br>2013-05-23 02:55<br>赞(0) 踩(0) | <div>世界没有尽头 有我感谢生命中美好的许哲佩在我心中的巫婆形象被颠覆了~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/799488)<br><br>2013-05-23 02:55<br>赞(0) 踩(0) | <div>世界没有尽头 有我<br>感谢生命中美好的<br>许哲佩在我心中的巫婆形象被颠覆了~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11261416)<br><br>2013-05-19 09:27<br>赞(0) 踩(0) | <div>感谢生命中美好的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3483733)<br><br>2013-05-12 22:57<br>赞(0) 踩(0) | <div>感谢生命中美好的❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3483733)<br><br>2013-05-12 22:50<br>赞(0) 踩(0) | <div>感谢生命中美好的❤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12706878)<br>当森林陷入寂静，森林便开...<br>2013-05-12 10:12<br>赞(0) 踩(0) | <div>就像肖邦的即兴幻想曲我们对生活也有着许多的即兴幻想好在，这一刻我记录下来了你这样真实，自然开心着的你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12706878)<br>当森林陷入寂静，森林便开...<br>2013-05-12 10:12<br>赞(0) 踩(0) | <div>就像肖邦的即兴幻想曲<br>我们对生活也有着许多的即兴幻想<br>好在，这一刻<br>我记录下来了你<br>这样真实，自然开心着的你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11981121)<br>一颗豆子的自白<br>2013-04-06 22:38<br>赞(0) 踩(0) | <div>就这样牵着手一直走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8722349)<br><br>2013-03-27 11:01<br>赞(0) 踩(0) | <div>遇到你是美好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7323878)<br> <br>2013-03-26 22:13<br>赞(0) 踩(0) | <div>喜欢~~~</div> |
@@ -232,11 +232,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11747399)<br><br>2012-12-01 22:59<br>赞(0) 踩(0) | <div>美好的~美好的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595903)<br>我还没想好要写什么...<br>2012-11-30 23:51<br>赞(0) 踩(0) | <div>世界没有尽头 有我 感谢生命中美好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/541980)<br><br>2012-11-16 00:06<br>赞(0) 踩(0) | <div>美好的 by 许哲佩 感谢生命中美好的。 #赖熊的深夜电台#</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10395241)<br><br>2012-11-14 10:50<br>赞(0) 踩(0) | <div>感谢生命中美好的犹如冬日里的暖阳，温暖你我。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10395241)<br><br>2012-11-14 10:50<br>赞(0) 踩(0) | <div>感谢生命中美好的<br>犹如冬日里的暖阳，温暖你我。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8980248)<br> <br>2012-11-10 02:17<br>赞(0) 踩(0) | <div>静静地，暖暖的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4271551)<br>用心听歌是一种境界。<br>2012-10-27 23:57<br>赞(0) 踩(0) | <div>当我听过这首歌的时候，后来某一天的瞬间，脑海中一直浮现起这首歌的旋律。强烈推荐给大家，是一首安静的好歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11077878)<br><br>2012-10-27 18:03<br>赞(0) 踩(0) | <div>她的歌就像壁炉旁边柔软的小猫、小木屋里暧昧的橘色灯光、有马卡龙陪伴的热奶茶、仿佛伸手就能触摸到天上薄荷色藕荷色鹅黄色青草色桃粉色晕染的云朵~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2070277)<br>暂无签名~<br>2012-10-25 13:47<br>赞(0) 踩(0) | <div>世界尽头 有你有我你是生命中最好的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2070277)<br>暂无签名~<br>2012-10-25 13:47<br>赞(0) 踩(0) | <div>世界尽头 有你有我<br>你是生命中最好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9927465)<br>我还没想好要写什么...<br>2012-10-19 11:10<br>赞(0) 踩(0) | <div>世界没有 尽头 有我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6031414)<br><br>2012-10-18 10:20<br>赞(0) 踩(0) | <div>大早晨，必须来首美好的~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4271551)<br>用心听歌是一种境界。<br>2012-10-11 00:12<br>赞(0) 踩(0) | <div>简简单单的配乐显得哲佩的声音很干净清澈，其实以前有听过她的歌，可能当时没认听吧，第一次听她的歌时没能令我喜欢上她，但这首【美好的】让我重新认识了许哲佩。这首歌的听起来很舒服，感觉有点像陈绮贞安静的风格。不再像以前那样听上去曲风怪怪的。</div> |
@@ -261,7 +261,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1512712)<br><br>2012-06-07 17:49<br>赞(0) 踩(0) | <div>最美好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5110341)<br>我还没想好要写什么...<br>2012-05-31 08:23<br>赞(0) 踩(0) | <div>激情的音乐听太久会很累，所以。。。转换状态很重要。听听懒懒的歌，我又想睡觉了。oh,yeah....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9310704)<br><br>2012-05-30 19:03<br>赞(0) 踩(0) | <div>世界没有尽头有我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8416231)<br><br>2012-05-30 14:18<br>赞(0) 踩(0) | <div>我们走过一整片日落就这样牵着手一直走世界没有 尽头 有我感谢生命中美好的两个人分享彼此感受全世界只有你最懂我你的眉头 你的酒涡是我心里最美好的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8416231)<br><br>2012-05-30 14:18<br>赞(0) 踩(0) | <div>我们走过一整片日落<br>就这样牵着手一直走<br>世界没有 尽头 有我<br>感谢生命中美好的<br>两个人分享彼此感受<br>全世界只有你最懂我<br>你的眉头 你的酒涡<br>是我心里最美好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7582381)<br><br>2012-05-29 21:52<br>赞(0) 踩(0) | <div>干净。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/463807)<br>所有真实的人生，皆是相遇<br>2012-05-28 10:22<br>赞(0) 踩(0) | <div>世界有你也有我，这样才是罪美好的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7314818)<br>预备筷子<br>2012-05-19 16:48<br>赞(0) 踩(0) | <div>夏末的微风吹过我领口  你还是担心我受了寒风 轻轻暖和我冰冷的双手 你忘了你也怕冷. @见宥_</div> |
@@ -277,8 +277,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4254621)<br> <br>2012-04-11 00:38<br>赞(0) 踩(0) | <div>你是我最美好的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5875727)<br>一盏茶，一首歌，一次回忆...<br>2012-04-08 21:17<br>赞(0) 踩(0) | <div>感谢这世界有你有我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8018137)<br><br>2012-03-31 14:43<br>赞(0) 踩(0) | <div>感谢生命中美好的！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1478132)<br><br>2012-03-29 10:36<br>赞(0) 踩(0) | <div>我们走过一整片日落 就这样牵着手一直走世界没有尽头  有我感谢生命中美好的两个人分享彼此感受  全世界只有你最懂我你的眉头 你的酒涡是我心里最美好的夏末的微风吹过我领口  你还是担心我受了寒风轻轻暖和我冰冷的双手你忘了你也怕冷却只想到我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1478132)<br><br>2012-03-26 09:25<br>赞(0) 踩(0) | <div>我们走过一整片日落 就这样牵着手一直走世界没有尽头  有我感谢生命中美好的两个人分享彼此感受  全世界只有你最懂我你的眉头 你的酒涡是我心里最美好的夏末的微风吹过我领口  你还是担心我受了寒风轻轻暖和我冰冷的双手你忘了你也怕冷却只想到我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1478132)<br><br>2012-03-29 10:36<br>赞(0) 踩(0) | <div>我们走过一整片日落 就这样牵着手一直走<br>世界没有尽头  有我<br>感谢生命中美好的<br><br>两个人分享彼此感受  全世界只有你最懂我<br>你的眉头 你的酒涡<br>是我心里最美好的<br><br>夏末的微风吹过我领口  你还是担心我受了寒风<br>轻轻暖和我冰冷的双手<br>你忘了你也怕冷<br>却只想到我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1478132)<br><br>2012-03-26 09:25<br>赞(0) 踩(0) | <div>我们走过一整片日落 就这样牵着手一直走<br>世界没有尽头  有我<br>感谢生命中美好的<br><br>两个人分享彼此感受  全世界只有你最懂我<br>你的眉头 你的酒涡<br>是我心里最美好的<br><br>夏末的微风吹过我领口  你还是担心我受了寒风<br>轻轻暖和我冰冷的双手<br>你忘了你也怕冷<br>却只想到我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/157499)<br>神经奇幻粗腿二逼青春美骚...<br>2012-03-25 23:41<br>赞(0) 踩(0) | <div>@雁妮yannie 给美好的你和美好的回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7222584)<br><br>2012-03-25 14:18<br>赞(0) 踩(0) | <div>感谢生命中美好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8052616)<br><br>2012-03-15 13:07<br>赞(0) 踩(0) | <div>我们走过一整片日落 就这样牵着手一直走 世界没有 尽头 有我 感谢生命中美好的   夏末的微风吹过我领口 你还是担心我受了寒风 轻轻暖和我冰冷的双手 你忘了你也怕冷 却只想到我</div> |
@@ -312,7 +312,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4170904)<br><br>2011-12-03 11:41<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2544537)<br><br>2011-11-26 23:24<br>赞(0) 踩(0) | <div>感谢生命中美好的。晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37168)<br><br>2011-11-21 14:47<br>赞(0) 踩(0) | <div>美好的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/872314)<br>为你疯，为你癫。<br>2011-11-12 22:53<br>赞(0) 踩(0) | <div>感谢生命中美好的。爱许哲佩。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/872314)<br>为你疯，为你癫。<br>2011-11-12 22:53<br>赞(0) 踩(0) | <div>感谢生命中美好的。<br>爱许哲佩。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1126502)<br><br>2011-11-10 01:27<br>赞(0) 踩(0) | <div>刚好在豆娃上看到一个女孩儿的爱情日记：【我爱你】微笑，向阳，生生不息。/不是没有惶恐，不是没有害怕，只是在追寻的路途中，执拗突然被瓦解，为了某个人，愿意全心全意相信，相信未来充满阳光。这就是，你所能感受的美好罢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4875185)<br><br>2011-11-07 23:35<br>赞(0) 踩(0) | <div>感谢生命中美好的~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6471611)<br><br>2011-11-07 23:24<br>赞(0) 踩(0) | <div>细化这样单纯的美好</div> |
@@ -381,8 +381,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2461752)<br>不动如山！<br>2011-01-19 13:13<br>赞(0) 踩(0) | <div>声音很干净。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1876613)<br><br>2010-11-30 08:55<br>赞(0) 踩(0) | <div>好熟悉的声音和名字，让人回味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115925)<br>南风知我意<br>2010-11-29 14:18<br>赞(0) 踩(0) | <div>感谢生命中美好的。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/839577)<br><br>2010-11-02 17:24<br>赞(0) 踩(0) | <div>很好听呀！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1662364)<br>Corner<br>2010-10-21 19:16<br>赞(0) 踩(0) | <div>恩。感谢生命中美好的。听着会觉得这一下下真的很多美好的画面出现。生命中美好的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/839577)<br><br>2010-11-02 17:24<br>赞(0) 踩(0) | <div>很好听呀<br>！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1662364)<br>Corner<br>2010-10-21 19:16<br>赞(0) 踩(0) | <div>恩。感谢生命中美好的。<br>听着会觉得这一下下真的很多美好的画面出现。生命中美好的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1221596)<br><br>2010-10-04 12:29<br>赞(0) 踩(0) | <div>你忘了你也怕冷 只想到我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1412471)<br>喜欢的人结婚之后听着情歌...<br>2010-09-17 13:52<br>赞(0) 踩(0) | <div>全世界只有你是最懂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1412471)<br>喜欢的人结婚之后听着情歌...<br>2010-09-17 13:52<br>赞(0) 踩(0) | <div>全世界只有你是最懂</div> |
@@ -390,7 +390,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60395)<br>春种一粒粟<br>2010-09-11 23:20<br>赞(0) 踩(0) | <div>感谢生命中，美好的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1195804)<br> <br>2010-08-29 23:40<br>赞(0) 踩(0) | <div>good musician</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1225855)<br><br>2010-07-25 22:23<br>赞(0) 踩(0) | <div>清新</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351659)<br><br>2010-07-14 14:19<br>赞(0) 踩(0) | <div>全世界只有你最懂我你的眉头你的酒窝是我心里最美好的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351659)<br><br>2010-07-14 14:19<br>赞(0) 踩(0) | <div>全世界只有你最懂我<br>你的眉头<br>你的酒窝<br>是我心里最美好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1034180)<br>You never wa...<br>2010-07-02 21:46<br>赞(0) 踩(0) | <div>少些失落 少些悲伤 把生命中的故事都描绘成美好的彩色回忆 憧憬并期待能有更多美好的存在 感谢曾经的你们陪伴我走过的美好旅途</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252612)<br>superstar<br>2010-05-10 21:15<br>赞(0) 踩(0) | <div>我们走进彼此的生活，希望能牵着手一直走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/497635)<br><br>2010-05-09 19:42<br>赞(0) 踩(0) | <div>很美好，</div> |
@@ -398,8 +398,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15626)<br><br>2010-03-31 16:51<br>赞(0) 踩(0) | <div>感恩的心看世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/702831)<br><br>2010-03-29 14:36<br>赞(0) 踩(0) | <div>那些生命中美好的。谢谢你们，让我有前行的勇气和动力。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8435)<br><br>2010-03-19 18:39<br>赞(0) 踩(0) | <div>你忘了你也怕冷 却只想到我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/649074)<br><br>2010-01-30 15:55<br>赞(0) 踩(0) | <div>你的眉头你的酒窝是我心里最美好的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2010-01-29 10:48<br>赞(0) 踩(0) | <div>主要乐器采用一把简单古典吉他的民谣小品，深刻的描写出生命中最美好的小事。间奏的爵士口琴，由才华洋溢的音乐人藤井俊充吹奏，悠扬饱满的音色，让人彷佛重回怀旧的美好时光。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/649074)<br><br>2010-01-30 15:55<br>赞(0) 踩(0) | <div>你的眉头<br>你的酒窝<br>是我心里最美好的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2010-01-29 10:48<br>赞(0) 踩(0) | <div>主要乐器采用一把简单古典吉他的民谣小品，深刻的描写出生命中最美好的小事。<br>间奏的爵士口琴，由才华洋溢的音乐人藤井俊充吹奏，悠扬饱满的音色，让人彷佛重回怀旧的美好时光。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/612694)<br><br>2010-01-26 12:47<br>赞(0) 踩(0) | <div>感谢生命中美好的·</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190214)<br>Senxi<br>2010-01-14 21:35<br>赞(0) 踩(0) | <div>满分。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/536357)<br><br>2009-12-14 17:25<br>赞(0) 踩(0) | <div>温暖的小幸福~~~</div> |

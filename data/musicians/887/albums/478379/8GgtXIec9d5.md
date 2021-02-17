@@ -76,10 +76,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400411669)<br>总有某些人、某件事让人伤...<br>2020-05-18 07:50<br>赞(0) 踩(0) | <div>旋律优美，歌声动听！传唱率低最主要原因应该就是音调太高很多人唱不出来吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174206476)<br>虾米不离，音乐不弃！VX...<br>2020-03-02 23:44<br>赞(6) 踩(0) | <div>初闻不知曲中意，再听已是曲中人，现知词意唯落泪，不见当年陪孤人，既然已是曲中人，为何还听曲中曲，曲中思念今犹在，不见当年梦中人.......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174206476)<br>虾米不离，音乐不弃！VX...<br>2020-03-02 23:44<br>赞(6) 踩(0) | <div>初闻不知曲中意，<br>再听已是曲中人，<br>现知词意唯落泪，<br>不见当年陪孤人，<br>既然已是曲中人，<br>为何还听曲中曲，<br>曲中思念今犹在，<br>不见当年梦中人.......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44926456)<br>对的，坚持；错的，放弃…...<br>2019-09-01 18:44<br>赞(0) 踩(0) | <div>地心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305005114)<br>AWAY FROM TH...<br>2019-06-14 01:23<br>赞(0) 踩(0) | <div>钢铁与大雪    萧瑟的洪流</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260167529)<br>爱音乐的疯子<br>2019-04-16 17:08<br>赞(0) 踩(0) | <div>有内涵的歌</div> |
@@ -87,7 +87,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40415144)<br><br>2018-12-18 21:54<br>赞(0) 踩(0) | <div>真的是太好听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84698148)<br>这家伙很聪明什么也没留下<br>2018-10-05 21:36<br>赞(0) 踩(0) | <div>我谢谢你给我的希望。每次都是那么的让人绝望</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343007675)<br><br>2018-09-15 17:56<br>赞(0) 踩(0) | <div>这首歌让我想起，当医生告诉我生命中最爱的人不久将离开我的那一刻，那种绝望和无助 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323361351)<br><br>2018-08-27 23:46<br>赞(3) 踩(0) | <div>疯子在他妈妈的墓前对林夏说：&amp;ldquo;林夏，如果有下辈子，我一定娶你做我老婆&amp;rdquo;林夏：&amp;ldquo;那这辈子呢？&amp;rdquo;疯子：&amp;ldquo;这辈子我心里，只能有沈冰一个人了，这样对你太不公平了，咱们有缘，就下辈子见吧。都干干净净的为对方留着，直到碰到彼此为止，行吧？&amp;rdquo;林夏：&amp;ldquo;在这种地方说这样的话，感觉好奇怪哦&amp;hellip;&amp;hellip;&amp;rdquo;疯子：&amp;ldquo;对，我就当着我妈的墓发誓，如果真的有来生的话，我一定娶身边这个姑娘为老婆，而且一生一世都对她好。&amp;rdquo;林夏：&amp;ldquo;就像这辈子你对沈冰好一样吗？&amp;rdquo;疯子没有说话。林夏：&amp;ldquo;谢谢你疯子，我谢谢你给我的希望，都是那么的让人绝望.......&amp;rdquo;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323361351)<br><br>2018-08-27 23:46<br>赞(3) 踩(0) | <div>疯子在他妈妈的墓前对林夏说：<br>&amp;ldquo;林夏，如果有下辈子，我一定娶你做我老婆&amp;rdquo;<br>林夏：&amp;ldquo;那这辈子呢？&amp;rdquo;<br>疯子：&amp;ldquo;这辈子我心里，只能有沈冰一个人了，这样对你太不公平了，咱们有缘，就下辈子见吧。都干干净净的为对方留着，直到碰到彼此为止，行吧？&amp;rdquo;<br>林夏：&amp;ldquo;在这种地方说这样的话，感觉好奇怪哦&amp;hellip;&amp;hellip;&amp;rdquo;<br>疯子：&amp;ldquo;对，我就当着我妈的墓发誓，如果真的有来生的话，我一定娶身边这个姑娘为老婆，而且一生一世都对她好。&amp;rdquo;<br>林夏：&amp;ldquo;就像这辈子你对沈冰好一样吗？&amp;rdquo;<br>疯子没有说话。<br><br>林夏：&amp;ldquo;谢谢你疯子，我谢谢你给我的希望，都是那么的让人绝望.......&amp;rdquo;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48625003)<br>/<br>2018-08-17 00:13<br>赞(0) 踩(0) | <div>不好意思 还是觉得汪峰的歌很打动我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341103930)<br>喜欢夜的黑<br>2018-08-09 19:04<br>赞(0) 踩(0) | <div>写的词 谱的曲 都如此的打动人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-22 00:29<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
@@ -165,7 +165,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3570038)<br>是杯酒渐浓<br>2014-02-04 18:07<br>赞(0) 踩(0) | <div>你充满了我的辽阔心底</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18504017)<br><br>2014-01-29 09:21<br>赞(2) 踩(0) | <div>记得你说喜欢汪峰的歌……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44672995)<br><br>2016-11-05 09:35<br>赞(0) 踩(0) | <div>你还记得</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16807834)<br><br>2013-12-17 12:54<br>赞(1) 踩(0) | <div>你充满了我的全部思绪像紫罗兰香般挥之不去这感觉就像是完全地淹没爱已将我深埋地心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16807834)<br><br>2013-12-17 12:54<br>赞(1) 踩(0) | <div>你充满了我的全部思绪<br>像紫罗兰香般挥之不去<br>这感觉就像是完全地淹没<br>爱已将我深埋地心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12827316)<br><br>2013-12-11 22:49<br>赞(0) 踩(0) | <div>我是如此的~爱着你 唱的很妙~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-06 04:28<br>赞(1) 踩(0) | <div>我们早已在起点各奔东西</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18954813)<br>为音生，为乐死<br>2013-11-22 23:27<br>赞(0) 踩(0) | <div>你，充满了我的全部思绪。像紫罗兰香般挥之不去</div> |
@@ -186,7 +186,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17814732)<br><br>2013-08-07 07:51<br>赞(0) 踩(0) | <div>我会怎样的，爱着你。直到这倔强生命自主停息。第三段的Vol美爆了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2013-08-14 17:02<br>赞(0) 踩(0) | <div>小提琴独奏：刘云志</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11470007)<br>我还没想好要写什么...<br>2013-08-04 17:52<br>赞(0) 踩(0) | <div>汪峰好诗人有木有！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1038459)<br><br>2013-07-28 14:51<br>赞(2) 踩(0) | <div>终点其实是 被彻底忘记旅程不过是场善意的触骨铭心----这文字功夫怎么这么了得</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1038459)<br><br>2013-07-28 14:51<br>赞(2) 踩(0) | <div>终点其实是 被彻底忘记<br>旅程不过是场善意的触骨铭心<br>----这文字功夫怎么这么了得</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15334813)<br><br>2013-07-27 20:50<br>赞(0) 踩(0) | <div>&amp;quot; 你  充滿了我的  辽阔心底 像深冬的雪般铺天漫地  &amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16118779)<br><br>2013-07-26 07:41<br>赞(0) 踩(0) | <div>既然不懂得如何去爱，就将它深埋，莫言</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2318309)<br><br>2013-07-15 10:07<br>赞(0) 踩(0) | <div>冷静。。。。</div> |
@@ -195,14 +195,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16578984)<br><br>2013-07-03 22:09<br>赞(1) 踩(0) | <div>让人唱得热泪盈眶的歌。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4180383)<br><br>2012-05-03 12:38<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8183303)<br><br>2012-03-28 23:26<br>赞(0) 踩(0) | <div>我在想念你… 你在想念谁？  晚安~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7784761)<br><br>2012-03-22 19:28<br>赞(1) 踩(0) | <div>“你充满了我的辽阔心底像深冬的雪般铺天漫地” 唱得好，歌词也好，key太高，唱不上去 放弃。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7784761)<br><br>2012-03-22 19:28<br>赞(1) 踩(0) | <div>“你充满了我的辽阔心底<br>像深冬的雪般铺天漫地” 唱得好，歌词也好，key太高，唱不上去 放弃。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5078731)<br><br>2012-03-10 23:59<br>赞(0) 踩(0) | <div>几乎已经彻底抛弃那个自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8048959)<br><br>2012-03-04 22:34<br>赞(0) 踩(0) | <div>循环播放了大半天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1024822)<br><br>2012-02-27 08:55<br>赞(0) 踩(0) | <div>片尾曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7041510)<br><br>2012-02-26 16:42<br>赞(0) 踩(0) | <div>北爱的片尾曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312298)<br> <br>2012-02-21 00:02<br>赞(0) 踩(0) | <div>只想和你分享…晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4193978)<br>不疑不难不杂不凑活<br>2012-02-18 00:28<br>赞(0) 踩(0) | <div>情不知何起一往情深</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312298)<br> <br>2012-02-10 15:08<br>赞(0) 踩(0) | <div>女儿：妈'你相信爱情吗？妈妈：爱情只不过人们编织的一个谎言'人都是自私的'爱情只不过是互相欺骗而已女儿：那人活着不就一个最大的骗局妈妈：人生就是充满遗憾的'''''''是不是曾经的信念'那些没心没肺的笑声都要远去'而我们还要痛苦的活着'''一天又一天'''一年又一年''为了活着而活着</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312298)<br> <br>2012-02-10 15:08<br>赞(0) 踩(0) | <div>女儿：妈'你相信爱情吗？<br>妈妈：爱情只不过人们编织的一个谎言'人都是自私的'爱情只不过是互相欺骗而已<br>女儿：那人活着不就一个最大的骗局<br>妈妈：人生就是充满遗憾的<br>'''''''是不是曾经的信念'那些没心没肺的笑声都要远去'而我们还要痛苦的活着'''一天又一天'''一年又一年''为了活着而活着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4469841)<br><br>2012-02-10 10:54<br>赞(0) 踩(0) | <div>加油！ 汪峰！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6818624)<br>不奋斗的人，永远不能找到...<br>2012-02-07 21:37<br>赞(0) 踩(0) | <div>看北京爱情故事,喜欢上了片尾曲!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6485120)<br><br>2012-02-06 22:58<br>赞(0) 踩(0) | <div>送给我的那一个她</div> |

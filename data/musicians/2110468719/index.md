@@ -3,13 +3,10 @@ Dodo蔡蔡
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1fd3820a722930f3bdddb545c3fb889a.jpg)<br>Dodo蔡蔡](https://i.xiami.com/dodocai) | **播放数**: 1604731<br>**粉丝数**: 29<br>**评论数**: 1<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 粤语流行 Cantopop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/1fd3820a722930f3bdddb545c3fb889a.jpg)<br>Dodo蔡蔡](https://i.xiami.com/dodocai) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 粤语流行 Cantopop, 国语流行 Mandarin Pop<br>**播放数**: 1604731<br>**粉丝数**: 29<br>**评论数**: 1<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -22,6 +19,6 @@ Dodo蔡蔡
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/901611)<br><br>2020-02-19 01:22<br>赞(0) 踩(0) | <div>加油！</div> |

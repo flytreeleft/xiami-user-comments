@@ -39,5 +39,3 @@ They were neither up nor down
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

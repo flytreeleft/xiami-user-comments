@@ -54,8 +54,8 @@ Salahiin argagui ter mini h’uniih bolohoor yahina ve.<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43463049)<br>听音乐是生命中为数不多的...<br>2020-11-16 21:01<br>赞(0) 踩(0) | <div>前段时间来潍坊演出过，没能去现场，真遗憾</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337195718)<br><br>2020-10-24 09:13<br>赞(2) 踩(0) | <div>杭盖杭盖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12330064)<br>音乐贝壳<br>2020-03-26 15:11<br>赞(1) 踩(0) | <div>提神醒脑</div> |
@@ -91,7 +91,7 @@ Salahiin argagui ter mini h’uniih bolohoor yahina ve.<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8651036)<br>You will nev...<br>2019-12-20 16:39<br>赞(0) 踩(0) | <div>大哥你唱中文版还是蒙古版的，然后你也会嚎一嗓子吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9118032)<br>是镜子 是刀子 <br>2019-12-21 23:59<br>赞(0) 踩(0) | <div><q><b>Hide说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74612372)<br><br>2018-05-04 15:54<br>赞(2) 踩(0) | <div>笑着看评论的~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343705553)<br>暖风细雨人洋溢，天晴云远...<br>2018-04-24 14:24<br>赞(3) 踩(0) | <div>心亮了  一晃阴暗雨撒在牧场上 静兰翠绿彩虹挂在奔跑的马群尽头心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343705553)<br>暖风细雨人洋溢，天晴云远...<br>2018-04-24 14:24<br>赞(3) 踩(0) | <div>心亮了  一晃阴暗<br>雨撒在牧场上 静兰翠绿<br>彩虹挂在奔跑的马群尽头<br>心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5747159)<br><br>2018-04-12 00:10<br>赞(2) 踩(0) | <div>音乐难以达到极致后，改为走混搭这条路&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30591435)<br>著名神经病<br>2018-03-23 14:23<br>赞(5) 踩(0) | <div>现在都成热门歌曲了啊，杭盖最喜欢的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287803409)<br>摔了贝斯的贝斯手<br>2018-03-06 20:01<br>赞(14) 踩(0) | <div>中国音乐总是在世界出名后，才被国内音乐界承认。就如英雄总是死后才被追封。不是国内音乐界没有伯乐。而是那些垄断巨头们在没有利益下是不会理睬的。而其美名其曰。这种音乐没有市场，造不出星来。</div> |
@@ -304,7 +304,7 @@ Salahiin argagui ter mini h’uniih bolohoor yahina ve.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46137541)<br><br>2015-01-17 13:14<br>赞(0) 踩(0) | <div>好样的，爱你们！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14502861)<br>暂无签名~<br>2015-01-17 11:47<br>赞(0) 踩(0) | <div>好听～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43963013)<br>‭<br>2015-01-17 10:51<br>赞(0) 踩(0) | <div>怎么有股藏族的味道</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-01-19 18:38<br>赞(0) 踩(0) | <div>游牧民族曲风都是差不多的好吧ى*･゜ﾟ･*:.｡..｡.:*･'(*ﾟ▽ﾟ*)'･*:.｡. .｡.:*･゜ﾟ･*</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-01-19 18:38<br>赞(0) 踩(0) | <div>游牧民族<br>曲风都是差不多的<br>好吧ى<br>*･゜ﾟ･*:.｡..｡.:*･'(*ﾟ▽ﾟ*)'･*:.｡. .｡.:*･゜ﾟ･*</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8891772)<br><br>2015-01-16 23:53<br>赞(0) 踩(0) | <div>好喜欢~好喜欢~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26371608)<br>oi oi oi<br>2015-01-11 19:31<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26371608)<br>oi oi oi<br>2015-01-11 19:31<br>赞(0) 踩(0) | <div>好听</div> |
@@ -321,7 +321,7 @@ Salahiin argagui ter mini h’uniih bolohoor yahina ve.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26066210)<br>不眞実の世界······<br>2014-10-25 04:17<br>赞(0) 踩(0) | <div>青海的花儿。。。。。。。顶我大杭盖乐队！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7465521)<br> <br>2014-09-26 14:39<br>赞(0) 踩(0) | <div>国产好听的歌还是很多哒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33980364)<br><br>2014-09-14 13:55<br>赞(0) 踩(0) | <div>妈妈说，她刚学会这首歌曲。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-08 23:41<br>赞(158) 踩(0) | <div>汉语翻译：开在岩上的花儿苦造着生命的奇迹远嫁他乡的姑娘苦念着家乡的情人开在沙漠的花儿期盼着苍天的雨水离乡远嫁的姑娘总盼着归故的思念春雨迎来了生命秋风带来了希望开在原上的花儿根在土壤里深藏花开花落的季节却不能改变她那颗真心漫长流淌的岁月永存着她那份深情</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-08 23:41<br>赞(158) 踩(0) | <div>汉语翻译：<br>开在岩上的花儿<br>苦造着生命的奇迹<br>远嫁他乡的姑娘<br>苦念着家乡的情人<br>开在沙漠的花儿<br>期盼着苍天的雨水<br>离乡远嫁的姑娘<br>总盼着归故的思念<br>春雨迎来了生命<br>秋风带来了希望<br>开在原上的花儿<br>根在土壤里深藏<br>花开花落的季节<br>却不能改变她那颗真心<br>漫长流淌的岁月<br>永存着她那份深情</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39431221)<br>方<br>2014-12-07 21:26<br>赞(0) 踩(0) | <div>春雨秋风没有出现在这个歌词里，而且这翻译和歌词有出入，歌里唱的是小伙子喜欢的姑娘远嫁他乡了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35353108)<br>456<br>2015-09-18 11:30<br>赞(0) 踩(0) | <div>厉害</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2015-09-18 11:56<br>赞(0) 踩(0) | <div><q><b>bbb说：</b></q></div> |
@@ -329,9 +329,9 @@ Salahiin argagui ter mini h’uniih bolohoor yahina ve.<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77656036)<br> <br>2017-06-02 15:53<br>赞(0) 踩(0) | <div>嘎嘎</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43480911)<br>我还没想好要写什么...<br>2018-04-15 16:09<br>赞(0) 踩(0) | <div>汉语翻唱的版本不是翻译</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358933066)<br><br>2018-09-15 23:54<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-08 23:41<br>赞(0) 踩(0) | <div>Hulsan limbagiin egshig ni huruunii ayasaar gandanaHuuduu h’unii zangaar gemshij odoo yahina ve,Sain sain hel geed sardaa neg l uulzanaSalahiin argagui ter mini h’uniih bolohoor yahina ve.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-08 23:40<br>赞(0) 踩(0) | <div>Elsend urgasan tsetseg ni ehnii zundaa gandanaEhner nertei b’usguid hairaa yundaa ‘ogvol,Sain sain hel geed sardaa neg l uulzanaSalahiin argagui ter mini h’uniih bolohoor yahina ve.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-08 23:40<br>赞(0) 踩(0) | <div>蒙语歌词：HADAND URGASAN TSETSEG 《花儿》（开在岩石上的花儿）Hadand urgasan tsetseg ni hamgaas t’uruund ganhanaHadamd oqison b’usguid hairaa yundaa ‘ogvol,Sain sain hel geed sardaa neg l uulzanaSalahiin argagui ter mini h’uniih bolohoor yah ve.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-08 23:41<br>赞(0) 踩(0) | <div>Hulsan limbagiin egshig ni huruunii ayasaar gandana<br>Huuduu h’unii zangaar gemshij odoo yahina ve,<br>Sain sain hel geed sardaa neg l uulzana<br>Salahiin argagui ter mini h’uniih bolohoor yahina ve.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-08 23:40<br>赞(0) 踩(0) | <div>Elsend urgasan tsetseg ni ehnii zundaa gandana<br>Ehner nertei b’usguid hairaa yundaa ‘ogvol,<br>Sain sain hel geed sardaa neg l uulzana<br>Salahiin argagui ter mini h’uniih bolohoor yahina ve.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-08 23:40<br>赞(0) 踩(0) | <div>蒙语歌词：<br>HADAND URGASAN TSETSEG 《花儿》（开在岩石上的花儿）<br>Hadand urgasan tsetseg ni hamgaas t’uruund ganhana<br>Hadamd oqison b’usguid hairaa yundaa ‘ogvol,<br>Sain sain hel geed sardaa neg l uulzana<br>Salahiin argagui ter mini h’uniih bolohoor yah ve.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13715819)<br><br>2014-08-25 14:06<br>赞(0) 踩(0) | <div>好乐队出好歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13672712)<br>如是我闻 卿本佳人<br>2014-07-13 18:00<br>赞(0) 踩(0) | <div>w`</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5652249)<br><br>2014-07-07 12:03<br>赞(0) 踩(0) | <div>听一个小节，你就到了草原</div> |
@@ -352,10 +352,10 @@ Salahiin argagui ter mini h’uniih bolohoor yahina ve.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12369385)<br><br>2014-01-19 11:42<br>赞(0) 踩(0) | <div>就是喜欢啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28291794)<br>少事儿<br>2014-01-13 01:20<br>赞(0) 踩(0) | <div>bi chamed hairtai</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14009173)<br><br>2013-12-30 00:48<br>赞(0) 踩(0) | <div>有梦为马</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10008569)<br><br>2013-11-30 21:41<br>赞(0) 踩(0) | <div>赞~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10008569)<br><br>2013-11-30 21:41<br>赞(0) 踩(0) | <div>赞~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13898201)<br>爱音乐爱生活<br>2013-11-30 12:24<br>赞(0) 踩(0) | <div>蒙古民族风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1883877)<br>白日飞翔<br>2013-11-29 06:26<br>赞(0) 踩(0) | <div>蒙古语</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9351285)<br><br>2013-11-25 12:31<br>赞(0) 踩(0) | <div>开在山崖的花朵.可怜她最早枯萎.远嫁婆家的姑娘.在爱人的怀里凋谢.开在沙漠的花朵.可怜她最早干枯.嫁做人妇的姑娘.信守爱情而终生.曾有爱情誓言.曾经人约黄昏.曾经难舍难离.如今你却远嫁她乡.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9351285)<br><br>2013-11-25 12:31<br>赞(0) 踩(0) | <div>开在山崖的花朵.<br>可怜她最早枯萎.<br>远嫁婆家的姑娘.<br>在爱人的怀里凋谢.<br>开在沙漠的花朵.<br>可怜她最早干枯.<br>嫁做人妇的姑娘.<br>信守爱情而终生.<br>曾有爱情誓言.<br>曾经人约黄昏.<br>曾经难舍难离.<br>如今你却远嫁她乡.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12122075)<br>你谁是<br>2013-11-20 12:44<br>赞(0) 踩(0) | <div>浓浓的名族风~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24582327)<br> <br>2013-11-15 15:51<br>赞(0) 踩(0) | <div>这个乐队的歌第一次听，好吊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/650515)<br><br>2013-11-05 19:11<br>赞(0) 踩(0) | <div>真好听</div> |
@@ -377,7 +377,7 @@ Salahiin argagui ter mini h’uniih bolohoor yahina ve.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20392482)<br><br>2013-08-27 12:07<br>赞(0) 踩(0) | <div>走到草原吃牛羊，风吹草底见姑娘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19556952)<br>我还没想好要写什么...<br>2013-08-27 01:20<br>赞(0) 踩(0) | <div>好极</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8414834)<br><br>2013-08-16 00:14<br>赞(0) 踩(0) | <div>好听~一股自由自在的感觉啊~！！XD</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3626386)<br>我还没想好要写什么...<br>2013-08-13 08:25<br>赞(0) 踩(0) | <div>开在山崖的花朵可怜她最早枯萎远嫁婆家的姑娘在爱人的怀里凋谢开在沙漠的花朵可怜她最早干枯嫁做人妇的姑娘信守爱情而终生曾有爱情誓言曾经人约黄昏曾经难舍难离如今你却远嫁她乡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3626386)<br>我还没想好要写什么...<br>2013-08-13 08:25<br>赞(0) 踩(0) | <div>开在山崖的花朵<br>可怜她最早枯萎<br>远嫁婆家的姑娘<br>在爱人的怀里凋谢<br>开在沙漠的花朵<br>可怜她最早干枯<br>嫁做人妇的姑娘<br>信守爱情而终生<br>曾有爱情誓言<br>曾经人约黄昏<br>曾经难舍难离<br>如今你却远嫁她乡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9049062)<br>戏不够，烟来凑。<br>2013-08-11 18:05<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12308048)<br>全天下都是你的，你只能是...<br>2013-08-10 15:29<br>赞(0) 踩(0) | <div>周末快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12207139)<br>安信<br>2013-08-10 08:33<br>赞(0) 踩(0) | <div>昨休假 今值班 上班路上 推荐首 杭盖的  花儿</div> |
@@ -390,7 +390,7 @@ Salahiin argagui ter mini h’uniih bolohoor yahina ve.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11471650)<br> <br>2013-06-24 14:08<br>赞(0) 踩(0) | <div>杭盖，古老的蒙古语。它的意思是，一个有着蓝天、白云、草原、河流、山和树林的世界。从民间音乐现象飞跃到跨界音乐的先锋，同时他们从未失去他们的灵魂。怀着对自然和生命的信仰，传统的蒙古乐器马头琴、口琴和现代乐器电吉他、电贝司、架子鼓等，加上蒙古长调，呼麦。要命了~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5603330)<br>无签名<br>2013-06-24 00:52<br>赞(0) 踩(0) | <div>我这颗小心脏为杭盖颤动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2174551)<br><br>2013-05-29 21:36<br>赞(0) 踩(0) | <div>这歌太好听了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2189324)<br><br>2013-05-29 14:02<br>赞(0) 踩(0) | <div>春雨迎来了生命秋风带来了希望开在岩上的花儿根在土壤里深藏</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2189324)<br><br>2013-05-29 14:02<br>赞(0) 踩(0) | <div>春雨迎来了生命<br>秋风带来了希望<br>开在岩上的花儿<br>根在土壤里深藏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4029255)<br><br>2013-05-24 12:07<br>赞(0) 踩(0) | <div>青城街子 归来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2589583)<br><br>2013-05-21 22:31<br>赞(0) 踩(0) | <div>有意思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8809069)<br><br>2013-05-15 22:51<br>赞(0) 踩(0) | <div>继“上海半导体”之后又一首~~”扶牢二斯“(flowers)</div> |
@@ -407,7 +407,7 @@ Salahiin argagui ter mini h’uniih bolohoor yahina ve.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8723003)<br>你看什么你看你看什么你看...<br>2013-02-02 15:09<br>赞(0) 踩(0) | <div>真好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10062481)<br>我还没想好要写什么...<br>2013-01-15 17:31<br>赞(0) 踩(0) | <div>走在天际边的草原。吹着天际边的风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4125267)<br><br>2013-01-13 15:04<br>赞(0) 踩(0) | <div>@张小屁就是我 @爱喵但对喵过敏的爱小漩 是不是都在写论文哇，来跟我一起放松一下，我还一个字都没动嘞。。。。。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6605359)<br><br>2013-01-08 11:46<br>赞(0) 踩(0) | <div>最近每天都在10点左右醒来，悲观蒙在身上，起不了床。我都会听杭盖的这首《Flowers》，瞬间有白云流过眼前 。。。@盛悦纳 @正宗胖子 @愤怒小奶糕 @一涯 @李小仙_L @章觉觉 @小纯思密达 @举枪望天 @ElvaGangWa @小鹿sheila @禮廣宇 @杰克-狗剩的 @佳佳雨田 @糖大碗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6605359)<br><br>2013-01-08 11:46<br>赞(0) 踩(0) | <div>最近每天都在10点左右醒来，悲观蒙在身上，起不了床。我都会听杭盖的这首《Flowers》，瞬间有白云流过眼前 。。。<br>@盛悦纳 @正宗胖子 @愤怒小奶糕 @一涯 @李小仙_L @章觉觉 @小纯思密达 @举枪望天 @ElvaGangWa @小鹿sheila @禮廣宇 @杰克-狗剩的 @佳佳雨田 @糖大碗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478527)<br>好想跟衣服在洗衣机里滚<br>2012-12-25 21:42<br>赞(0) 踩(0) | <div>如此简单，如此美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135773)<br><br>2012-12-21 15:18<br>赞(0) 踩(0) | <div>民族的就是世界的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8282977)<br><br>2012-12-20 21:56<br>赞(0) 踩(0) | <div>挺抒情的歌，比较真</div> |

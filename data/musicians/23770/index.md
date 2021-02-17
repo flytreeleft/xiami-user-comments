@@ -3,7 +3,7 @@ Dreamtale
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8aedff38deecc4d86cb8685a392be75d.jpg)<br>Dreamtale](https://i.xiami.com/dreamtale) | **播放数**: 19235139<br>**粉丝数**: 20736<br>**评论数**: 782<br>**地区**: Finland 芬兰<br>**风格**: 能量金属 Power Metal<br> |
+| [![](../../images/musicians/8aedff38deecc4d86cb8685a392be75d.jpg)<br>Dreamtale](https://i.xiami.com/dreamtale) | **地区**: Finland 芬兰<br>**风格**: 能量金属 Power Metal<br>**播放数**: 19235139<br>**粉丝数**: 20736<br>**评论数**: 782<br> |
 
 ## 档案
 
@@ -54,8 +54,8 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404281591)<br><br>2021-01-15 20:33<br>赞(0) 踩(0) | <div>回到阔别的开始</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/813637)<br><br>2021-01-13 21:00<br>赞(2) 踩(0) | <div>我最爱的乐队之一，别了，虾米！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423652627)<br><br>2020-12-15 22:00<br>赞(1) 踩(0) | <div>重组了 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
@@ -69,7 +69,7 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43492923)<br>行到水穷我才开始害怕，夕...<br>2019-10-22 02:41<br>赞(1) 踩(0) | <div>◇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28171213)<br>我还没想好要写什么...<br>2019-10-14 20:42<br>赞(3) 踩(0) | <div>2019年10月等了快三年，以为应该有下一张专辑了，没想到是等来了「结束」。希望你Dreamtale还能重生。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-08-27 23:11<br>赞(1) 踩(0) | <div>Erkki: ...With Dreamtale we recorded four great albums, played terrific shows all over the Old World of which a sold-out concert in Beijing is among my finest memories. ...</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-08-27 23:07<br>赞(2) 踩(0) | <div>Dear friends and fans,We are sad to announce that Dreamtale in it's current form has come to an end.芬兰金属乐队Dreamtale宣布主唱Erkki Seppänen，吉他手Seppo Kolehmainen，贝斯手Heikki Ahonen决定离开乐队。乐队正在寻找新的主唱，吉他手和贝斯手，如果觉得你有能力填补空缺，<a href="mailto:contact@dreamtale.org">contact@dreamtale.org</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-08-27 23:07<br>赞(2) 踩(0) | <div>Dear friends and fans,<br>We are sad to announce that Dreamtale in it's current form has come to an end.<br><br>芬兰金属乐队Dreamtale宣布主唱Erkki Seppänen，吉他手Seppo Kolehmainen，贝斯手Heikki Ahonen决定离开乐队。乐队正在寻找新的主唱，吉他手和贝斯手，如果觉得你有能力填补空缺，<a href="mailto:contact@dreamtale.org">contact@dreamtale.org</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304115872)<br>伪偏门，真流行乐迷。欢迎...<br>2019-08-27 20:11<br>赞(0) 踩(0) | <div>解散了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2019-08-13 11:39<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11827510)<br><br>2019-04-10 05:26<br>赞(0) 踩(0) | <div>感觉这团除了那个intro让魔兽搞出了名 其他的作品真的很一般</div> |
@@ -79,7 +79,7 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25326675)<br>无节制的气势<br>2019-04-01 13:30<br>赞(0) 踩(0) | <div>那是什么啊？泰囧吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2061329)<br>星移斗转 唯浮华不变<br>2018-11-09 00:52<br>赞(0) 踩(0) | <div>我的fallen star呢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32807185)<br>tough and ro...<br>2018-11-03 02:57<br>赞(2) 踩(0) | <div>因为the dawn这个芬兰n线小队的收藏已经10000+了，而且也来中国巡演过，受到广大群众的热烈欢迎，想想还是挺感动的哈 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1255885)<br><br>2018-10-30 12:50<br>赞(1) 踩(0) | <div>Hello everyone: i'm very exciting to come to China t. We will have seven amazing concerts there, Come on boys and girls, lets enjoy every show.Tickets link:https:<a href="https://shop112659734.taobao.com" target="_blank" rel="nofollow noreferrer noopener">https://shop112659734.taobao.com</a>Beijing,14th April 2017 Modernsky labShanghai, 15th April 2017 Qian Shuiwan lab</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1255885)<br><br>2018-10-30 12:50<br>赞(1) 踩(0) | <div>Hello everyone: i'm very exciting to come to China t. We will have seven amazing concerts there, Come on boys and girls, lets enjoy every show.<br>Tickets link:https:<a href="https://shop112659734.taobao.com" target="_blank" rel="nofollow noreferrer noopener">https://shop112659734.taobao.com</a><br>Beijing,14th April 2017 Modernsky lab<br>Shanghai, 15th April 2017 Qian Shuiwan lab</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10851498)<br><br>2018-07-17 18:16<br>赞(0) 踩(0) | <div>来打call</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228843687)<br>懒惰统治人间<br>2018-06-23 21:51<br>赞(0) 踩(0) | <div>:-O</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357674040)<br><br>2018-05-04 02:25<br>赞(0) 踩(0) | <div>&amp;dagger;&amp;dagger;&amp;dagger;</div> |
@@ -90,7 +90,7 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2522525)<br><br>2018-03-15 09:16<br>赞(0) 踩(0) | <div>帅有个毛用</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356454935)<br><br>2018-06-26 12:27<br>赞(0) 踩(0) | <div>看看kypck的mv就明白主唱其实很帅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8000052)<br><br>2017-10-27 23:33<br>赞(0) 踩(0) | <div>感慨， 十多年的岁月这个我一直很喜欢的乐团虽然配器技艺有所增长，但是内涵貌似从青葱的啼鸣演变到了归于平庸。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/960660)<br>你好，这里是牙买加<br>2017-10-27 23:07<br>赞(2) 踩(0) | <div>当最后一艘船消失在遥远的地平线我在岩石上凝望任思绪如烟般慢慢弥撒编制成我的...梦境传说魔兽世界-亡灵序曲纪念那些曾经为了艾泽拉斯战斗而牺牲的勇士</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/960660)<br>你好，这里是牙买加<br>2017-10-27 23:07<br>赞(2) 踩(0) | <div>当最后一艘船消失在遥远的地平线<br><br>我在岩石上凝望<br><br>任思绪如烟般慢慢弥撒<br><br>编制成我的...梦境传说<br><br>魔兽世界-亡灵序曲<br><br>纪念那些曾经为了艾泽拉斯战斗而牺牲的勇士</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7481281)<br>怎么去拥抱一夏天的风。<br>2017-09-21 19:55<br>赞(1) 踩(0) | <div>很可惜广州场音响有点问题，站前排听不到主唱声音</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274346108)<br>从决定组建乐队开始，已经...<br>2018-03-06 00:58<br>赞(0) 踩(0) | <div>成都的很好，给他们送了一瓶伏特加，而且合影什么的&amp;hellip;&amp;hellip;</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7481281)<br>怎么去拥抱一夏天的风。<br>2018-03-06 08:09<br>赞(0) 踩(0) | <div><q><b>金属狂想曲说：</b></q></div> |
@@ -169,7 +169,7 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2016-10-20 15:39<br>赞(0) 踩(0) | <div>新专辑发行在即</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31447396)<br>有趣且痛苦<br>2016-10-19 21:33<br>赞(1) 踩(0) | <div>四月来中国？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16742187)<br><br>2016-10-03 17:08<br>赞(0) 踩(0) | <div>地狱之歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141588)<br>活一场。<br>2016-08-11 16:12<br>赞(34) 踩(0) | <div>那么多牛逼的乐队来自芬兰。芬兰只五百多万人，才相当于我国一个普通地级市的人口数量。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141588)<br>活一场。<br>2016-08-11 16:12<br>赞(34) 踩(0) | <div>那么多牛逼的乐队来自芬兰。<br>芬兰只五百多万人，才相当于我国一个普通地级市的人口数量。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110991902)<br><br>2016-07-17 16:04<br>赞(0) 踩(0) | <div>680</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115255040)<br>签名太麻烦了吧<br>2016-07-04 22:03<br>赞(1) 踩(0) | <div>老听你们说the dawn 我以为这队是老式重金属呢 现在一听挺正常的一力量乐队么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44261645)<br>我还没想好要写什么...<br>2016-05-29 23:16<br>赞(0) 踩(0) | <div>ಥ_ಥ</div> |
@@ -285,7 +285,7 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49498255)<br><br>2015-04-23 16:01<br>赞(0) 踩(0) | <div>低落的时候调调心态不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11828516)<br>我还没想好要写什么...<br>2015-04-19 17:27<br>赞(0) 踩(0) | <div>超好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13012759)<br>奇葩金属党一枚〜＞_＜〜<br>2015-04-17 20:18<br>赞(3) 踩(0) | <div>呃，好吧。果然要用一首曲子推动一个乐队的关注量是要靠宣传那首曲子到烂大街的。然而那个乐队的其他好曲子，在慕名而来的人们中，几乎没多少人去听的吧。不管撕逼亡灵序曲还是The Dawn，还请那些瞎BB的人尊重下乐队。好好听歌，好好欣赏，就是对乐队的最大尊敬。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9775409)<br><br>2015-03-13 00:25<br>赞(0) 踩(0) | <div>金属乐队？NO。这是个专职演奏纯音乐和背景音乐的一个团。呵呵</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9775409)<br><br>2015-03-13 00:25<br>赞(0) 踩(0) | <div>金属乐队？NO。这是个专职演奏纯音乐和背景音乐的一个团。<br>呵呵</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13012759)<br>奇葩金属党一枚〜＞_＜〜<br>2015-04-17 20:05<br>赞(0) 踩(0) | <div>哦，那你跟我说说人家怎么不金属了？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8719765)<br><br>2016-09-18 21:15<br>赞(0) 踩(0) | <div>说句狗屁不过分</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41495555)<br>悲袭则惘，狂喜而然。<br>2015-03-04 00:46<br>赞(0) 踩(0) | <div>中规中矩，没有惊喜。</div> |
@@ -301,12 +301,12 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11340472)<br>辣鸡强制收藏<br>2014-12-30 12:01<br>赞(0) 踩(0) | <div>-</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44100434)<br><br>2014-12-27 01:45<br>赞(0) 踩(0) | <div>O(∩_∩)O~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7574)<br>头像代表我的心<br>2014-12-16 18:27<br>赞(0) 踩(0) | <div>激情</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6379100)<br><br>2014-12-11 17:37<br>赞(0) 踩(0) | <div>我叉，自己打个MARK咋发评论了～各位不要理睬个人Mark而已，已删～哈哈玩亡灵贼听序曲的感觉很带感啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6379100)<br><br>2014-12-11 17:37<br>赞(0) 踩(0) | <div>我叉，自己打个MARK咋发评论了～各位不要理睬个人Mark而已，已删～哈哈<br>玩亡灵贼听序曲的感觉很带感啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43221786)<br>在天堂里仰望地狱<br>2014-12-05 10:25<br>赞(0) 踩(0) | <div>最喜欢的乐队！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9642566)<br>最悲惨的人生是没有理想<br>2014-11-16 15:05<br>赞(1) 踩(0) | <div>Where the Rainbow Ends应该排第二！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45605006)<br>暂无签名~<br>2015-03-10 21:48<br>赞(0) 踩(0) | <div>因为这首歌主唱几乎谁都知道。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7760093)<br><br>2014-10-31 14:00<br>赞(0) 踩(0) | <div>Electronic Music</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6171336)<br>谢谢9年陪伴，你依然是我...<br>2014-10-30 22:20<br>赞(0) 踩(0) | <div>卧槽</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6171336)<br>谢谢9年陪伴，你依然是我...<br>2014-10-30 22:20<br>赞(0) 踩(0) | <div>卧<br>槽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/981888)<br>Fvcktheworld<br>2014-10-16 09:00<br>赞(1) 踩(0) | <div>又是芬兰</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41669548)<br><br>2014-10-02 17:51<br>赞(0) 踩(0) | <div>Dreamtale,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13552)<br><br>2014-09-05 10:40<br>赞(0) 踩(0) | <div>Intro: The Dawn, Silent Path</div> |
@@ -318,7 +318,7 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2031853)<br>我还没想好要写什么...<br>2014-07-22 11:40<br>赞(0) 踩(0) | <div>他们一支MV都没有？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203394)<br>三分似神，七分似我。<br>2014-07-18 21:06<br>赞(2) 踩(0) | <div>不了解就安静听歌。尔等不要断章取义胡编乱造扭曲事实。别跟个蚱蜢一样一通乱叫。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31608105)<br>人心是不待风吹而自落的花<br>2014-07-11 18:23<br>赞(0) 踩(0) | <div>不玩游戏的遗憾就是...我竟然现在才知道这个乐队！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9090522)<br>微信公众号：金属乐头等舱<br>2014-07-07 18:23<br>赞(4) 踩(0) | <div>Dreamtale（芬兰力量金属）大多数朋友都是对著名的魔兽亡灵序曲吸引过来的，但是事实并非如此！这是dreamtale 02年专辑《Beyond Reality》的开篇曲，改编自电影《勇闯夺命岛》的OTS，然后中国有个war3的UD玩家用这首音乐配合游戏CG动画自己剪辑了一首MV，取名叫做《亡灵序曲》，然后很多朋友就误以为这首音乐叫亡灵序曲，而不知道它的本名叫The Dawn。在此感谢虾友：soph1a的精辟指点！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9090522)<br>微信公众号：金属乐头等舱<br>2014-07-07 18:23<br>赞(4) 踩(0) | <div>Dreamtale（芬兰力量金属）<br>大多数朋友都是对著名的魔兽亡灵序曲吸引过来的，但是事实并非如此！<br>这是dreamtale 02年专辑《Beyond Reality》的开篇曲，改编自电影《勇闯夺命岛》的OTS，然后中国有个war3的UD玩家用这首音乐配合游戏CG动画自己剪辑了一首MV，取名叫做《亡灵序曲》，然后很多朋友就误以为这首音乐叫亡灵序曲，而不知道它的本名叫The Dawn。在此感谢虾友：soph1a的精辟指点！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13259301)<br><br>2014-06-22 02:36<br>赞(0) 踩(0) | <div>电吉他。配曲很出色。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2368634)<br><br>2014-06-17 15:39<br>赞(0) 踩(0) | <div>旋律不錯 我喜歡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37192928)<br>我还没想好要写什么...<br>2014-06-05 16:56<br>赞(0) 踩(0) | <div>好喜欢他们的歌</div> |
@@ -328,11 +328,11 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3806614)<br><br>2014-07-23 15:02<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10512938)<br><br>2014-05-24 23:52<br>赞(1) 踩(0) | <div>什么时候来次中国吧。。。强烈要求</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11005980)<br>岁月如歌<br>2014-05-24 17:48<br>赞(0) 踩(0) | <div>Dawn</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4137788)<br>活在自己的世界里……<br>2014-05-19 03:07<br>赞(0) 踩(0) | <div>为什么没有mv哪？？？求解！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4137788)<br>活在自己的世界里……<br>2014-05-19 03:07<br>赞(0) 踩(0) | <div>为什么没有mv哪？？？<br>求解！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37113328)<br><br>2014-06-02 00:03<br>赞(0) 踩(0) | <div>因为乐队知名度不高。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40143843)<br><br>2014-08-21 23:25<br>赞(0) 踩(0) | <div>根本没拍过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33341526)<br><br>2014-05-07 23:02<br>赞(0) 踩(0) | <div>特激昂，充满黎明前的光明与希望，每当听起就想象那副自由女神的图像。兄弟们！冲啊啊！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2116997)<br><br>2014-04-25 23:24<br>赞(0) 踩(0) | <div>看见有人为第一首曲子争得脸红脖子粗的还真纳闷。没玩过花钱的网游，所以序不序曲的也不知道。哈哈</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2116997)<br><br>2014-04-25 23:24<br>赞(0) 踩(0) | <div>看见有人为第一首曲子争得脸红脖子粗的还真纳闷。<br>没玩过花钱的网游，所以序不序曲的也不知道。哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11863938)<br>有你的地方，才是我的方向...<br>2014-04-13 19:13<br>赞(0) 踩(0) | <div>如上</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11198531)<br>瞎哼哼咕~~(╯﹏╰)b<br>2014-04-04 12:45<br>赞(1) 踩(0) | <div>第一首点击在金属都是排前的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9618585)<br>野蛮生长ฏ๎๎๎๎<br>2014-03-13 16:23<br>赞(0) 踩(0) | <div>当年wow25人副本战歌</div> |
@@ -369,7 +369,7 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12227289)<br><br>2013-10-20 13:41<br>赞(1) 踩(0) | <div>听了有几年了，这个乐队在中国还是这么不起眼，不错的力量金属啊，。。。不错的摇滚啊。。。网上没有演唱会，没有MV，真心给各位金属党跪了~！求资源。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2571428)<br><br>2013-12-14 01:17<br>赞(0) 踩(0) | <div>粉丝达9000已经是很辉煌啦，，知足知足</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18679514)<br><br>2013-10-14 22:38<br>赞(0) 踩(0) | <div>Dreamtale</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11055633)<br>。。。。。。。<br>2013-10-12 20:12<br>赞(1) 踩(0) | <div>........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11055633)<br>。。。。。。。<br>2013-10-12 20:12<br>赞(1) 踩(0) | <div>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............................<br>..............</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20008446)<br>Fallbee<br>2013-10-06 01:15<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6037106)<br> <br>2013-10-01 15:57<br>赞(0) 踩(0) | <div>看到很多人吐槽“亡灵序曲”……这么说吧，如果不是当初那个让多少人不能自已的视频，可能Dreamtale在中国收到的关注会少很多吧，我想这么多年过去了，作为一个虾米用户，我觉得绝大部分用户都是有点基础科普知识的，其实也没必要如此吐槽The Dawn嘛，从音乐角度上来说是一首非常成功的作品，从效应角度上来说，也没什么负面……至于整天就知道一个“亡灵序曲”的，大概是百度MP3吧……好好听就行了，那些来这冒个泡喊个“亡灵赛高”的，也许只是怀念曾经的WOW和曾经的兄弟情吧（唉……），别让少数的脑残毁了The Dawn，毕竟，这又不是Dreamtale的错，何必如此敏感</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2031853)<br>我还没想好要写什么...<br>2013-10-08 00:02<br>赞(0) 踩(0) | <div>照着名字翻译  怎么也该翻译成黎明序曲才对</div> |
@@ -380,7 +380,7 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1631214)<br><br>2013-09-19 20:18<br>赞(0) 踩(0) | <div>如梦如幻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11015465)<br> <br>2013-09-13 11:13<br>赞(0) 踩(0) | <div>Dreamtale</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1942116)<br>暂无签名~<br>2013-09-02 00:30<br>赞(0) 踩(0) | <div>震撼音乐合集，绝对抵挡不住。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8578781)<br><br>2013-09-01 18:45<br>赞(0) 踩(0) | <div>Dreamtale梦境传说</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8578781)<br><br>2013-09-01 18:45<br>赞(0) 踩(0) | <div>Dreamtale<br>梦境传说</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12853899)<br>地狱天堂尽在人间！！！<br>2013-08-28 10:12<br>赞(0) 踩(0) | <div>好久没听他们了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2689564)<br><br>2013-08-23 16:20<br>赞(0) 踩(0) | <div>困得直流眼泪..来点儿鸡血吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2031853)<br>我还没想好要写什么...<br>2013-08-09 20:32<br>赞(22) 踩(0) | <div>一首the dawn掩盖了多少名作的锋芒。</div> |
@@ -400,7 +400,7 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17540586)<br><br>2013-07-18 20:36<br>赞(0) 踩(0) | <div><q><b>棉鞋棉垫棉帽说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10592056)<br>啦啦啦的听<br>2013-07-22 15:21<br>赞(0) 踩(0) | <div>叫亡灵序曲的，只是因为wow而已，不是啥也不懂，wower世界，您不懂，您觉得和你没半毛钱关系的东西多了，但和别人可能有关系。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1094287)<br><br>2013-06-05 11:42<br>赞(0) 踩(0) | <div>力量而不狂暴</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-06-05 02:23<br>赞(0) 踩(0) | <div>芬兰经典前卫旋律重金团梦境传说乐队，If You Will Go，Reasons Revealed。810110,8151,455</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-06-05 02:23<br>赞(0) 踩(0) | <div>芬兰经典前卫旋律重金团梦境传说乐队，If You Will Go，Reasons Revealed。<br>810110,8151,455</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11637118)<br><br>2013-06-04 23:09<br>赞(0) 踩(0) | <div>亡灵XX,点击第一！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6246886)<br><br>2013-06-04 23:06<br>赞(0) 踩(0) | <div>有点金属的味道。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250711)<br>我的内心世界和我所爱音乐...<br>2013-06-03 21:44<br>赞(1) 踩(0) | <div>= =感觉像铁娘子又像黑暗版的stratovarius</div> |
@@ -414,9 +414,9 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15250724)<br><br>2013-05-22 20:00<br>赞(0) 踩(0) | <div>这么经典的乐队居然没收藏</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4401124)<br><br>2013-05-22 15:33<br>赞(1) 踩(0) | <div>妈蛋虽然我玩了好几年的WOW但是看到什么亡灵序曲还是忍不住想骂人</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43467552)<br>宁静，偏执，扭曲！<br>2014-12-06 16:29<br>赞(0) 踩(0) | <div>同感</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2589004)<br><br>2013-05-16 17:34<br>赞(1) 踩(0) | <div>点开dreamtale的主页果然the dawn第一还好我没看到热门评论里出现亡灵序曲好赞之类的话</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2589004)<br><br>2013-05-16 17:34<br>赞(1) 踩(0) | <div>点开dreamtale的主页果然the dawn第一<br>还好我没看到热门评论里出现亡灵序曲好赞之类的话</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/176468)<br><br>2015-04-28 22:51<br>赞(0) 踩(0) | <div>亡灵序曲好赞</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12717563)<br>.<br>2013-05-11 12:25<br>赞(1) 踩(0) | <div>亡灵你妹，脑残一大街随便扯一首歌都给你当主题曲啦，《爱情买卖》拿好不用谢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12717563)<br>.<br>2013-05-11 12:25<br>赞(1) 踩(0) | <div>亡灵你妹，脑残一大街<br><br>随便扯一首歌都给你当主题曲啦，《爱情买卖》拿好不用谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12097522)<br>SOUND HOLIC<br>2013-05-08 15:12<br>赞(0) 踩(0) | <div>GJ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12044926)<br>TOEFL是我一生恨<br>2013-05-03 18:12<br>赞(0) 踩(0) | <div>喜欢这种风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105294)<br><br>2013-04-23 23:22<br>赞(0) 踩(0) | <div>为什么我感觉dreamtale每首歌都好听呢。。这才是神团啊。。</div> |
@@ -456,7 +456,7 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6153381)<br> <br>2013-01-22 16:56<br>赞(0) 踩(0) | <div>感受力量金属那种气势</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12197608)<br><br>2013-01-01 20:15<br>赞(0) 踩(0) | <div>...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744688)<br><br>2012-12-30 12:54<br>赞(0) 踩(0) | <div>2010—至今最爱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8563978)<br><br>2012-12-22 02:48<br>赞(0) 踩(0) | <div>本来是听旋死的，尼玛，虾米相似艺人居然把梦境传说给相似上了尼玛，不知道虾米是怎么联系的，梦境和北极相似下我还能理解这种相似会误导多少听众</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8563978)<br><br>2012-12-22 02:48<br>赞(0) 踩(0) | <div>本来是听旋死的，尼玛，虾米相似艺人居然把梦境传说给相似上了<br><br>尼玛，不知道虾米是怎么联系的，梦境和北极相似下我还能理解<br><br>这种相似会误导多少听众</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9921308)<br><br>2012-12-21 17:32<br>赞(0) 踩(0) | <div>亡灵序曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9202508)<br>生活很枯燥，有你在就好<br>2012-12-17 23:58<br>赞(0) 踩(0) | <div>魔兽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9327494)<br>http://www.x...<br>2012-12-15 23:23<br>赞(0) 踩(0) | <div>love</div> |
@@ -483,15 +483,15 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5519411)<br><br>2012-11-15 23:47<br>赞(0) 踩(0) | <div>energy</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11463319)<br><br>2012-11-12 19:56<br>赞(0) 踩(0) | <div>很爱很爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7409394)<br><br>2012-11-11 18:19<br>赞(0) 踩(0) | <div>梦境传说，或许还是自己去梦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/863062)<br><br>2012-11-10 04:19<br>赞(222) 踩(0) | <div>盘桓凄美 极具层次的旋律道尽了阿尔萨斯王子曲折迂回的一生，从曾经万民爱戴的圣骑士，到被因为仇恨而蒙蔽了心灵，拔出了霜之哀伤，堕落成巫妖王。后半段先是以一段优美宁静的音乐作铺垫，在一个春暖花开的季节，慈祥的泰瑞纳斯国王欣喜地迎接自己凯旋而归的王子，等待他的却是一把冰冷的利剑，阳光照在昔日代表荣耀的王座上，映着如樱花般的鲜血，格外刺眼。。。其实THE DAWN跟亡灵没太大关系，一切都是魔兽粉丝的想象，希望金属党的同志不要太介意，毕竟他们对金属可能也不大理解，看到他们闹腾笑笑就可以了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/863062)<br><br>2012-11-10 04:19<br>赞(222) 踩(0) | <div>盘桓凄美 极具层次的旋律道尽了阿尔萨斯王子曲折迂回的一生，从曾经万民爱戴的圣骑士，到被因为仇恨而蒙蔽了心灵，拔出了霜之哀伤，堕落成巫妖王。后半段先是以一段优美宁静的音乐作铺垫，在一个春暖花开的季节，慈祥的泰瑞纳斯国王欣喜地迎接自己凯旋而归的王子，等待他的却是一把冰冷的利剑，阳光照在昔日代表荣耀的王座上，映着如樱花般的鲜血，格外刺眼。。。<br>其实THE DAWN跟亡灵没太大关系，一切都是魔兽粉丝的想象，希望金属党的同志不要太介意，毕竟他们对金属可能也不大理解，看到他们闹腾笑笑就可以了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4456188)<br>BlahBlahBlah<br>2012-12-04 22:17<br>赞(0) 踩(0) | <div>哈哈，我也是魔兽粉丝哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/612319)<br>虾米将要关闭了，伤感啊....<br>2013-04-27 11:41<br>赞(0) 踩(0) | <div>唉 NC无敌</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1419790)<br><br>2013-04-28 16:12<br>赞(0) 踩(0) | <div>The Dawn确实和亡灵有很大的类似啊 个人认为把这首歌命名为亡灵序曲也没什么不可 这只能佩服当年这个mv制作者选曲的能力 绝对比某朝电视台选曲能力强太多了。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14001515)<br><br>2014-02-21 10:12<br>赞(0) 踩(0) | <div>看到你的开头差点准备**你。。身为一个魔兽玩家和金属党。。在这首歌上特别纠结。。总是想告诉他们歌曲名字其实是黎明。。表达的思想和亡灵刚好相反。。哎</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14001515)<br><br>2014-02-21 10:12<br>赞(0) 踩(0) | <div>看到你的开头差点准备**你。。<br>身为一个魔兽玩家和金属党。。在这首歌上特别纠结。。<br>总是想告诉他们歌曲名字其实是黎明。。<br>表达的思想和亡灵刚好相反。。<br>哎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8186699)<br><br>2012-11-08 16:03<br>赞(0) 踩(0) | <div>TEARS 大爱，大爱，大爱呀，哈哈哈哈。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/829846)<br>音乐是最沁人心脾的纯洁的...<br>2012-11-07 21:24<br>赞(0) 踩(0) | <div>刺激啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11343436)<br><br>2012-11-04 09:41<br>赞(0) 踩(0) | <div>最爱芬兰重金</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3317317)<br>半俗半禅半随缘！<br>2012-11-04 08:47<br>赞(0) 踩(0) | <div>英文名：Dreamtale中文译名：梦境传说乐队成员：主唱：Jarkko Ahola键盘：Turkka Vuorinen 吉他：Rami Keranen &amp;amp; Esa Orjatsalo鼓手：Pete Rosenbom 贝司：Pasi Ristolainen</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3317317)<br>半俗半禅半随缘！<br>2012-11-04 08:47<br>赞(0) 踩(0) | <div>英文名：Dreamtale<br>中文译名：梦境传说<br>乐队成员：<br>主唱：Jarkko Ahola<br>键盘：Turkka Vuorinen 吉他：Rami Keranen &amp;amp; Esa Orjatsalo<br>鼓手：Pete Rosenbom 贝司：Pasi Ristolainen</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6078701)<br><br>2012-11-03 19:04<br>赞(1) 踩(0) | <div>轻音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1475231)<br><br>2012-10-31 22:52<br>赞(0) 踩(0) | <div>唔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5007587)<br>圣光风暴<br>2012-10-26 16:18<br>赞(1) 踩(0) | <div>为啥都爱说是亡灵序曲？</div> |
@@ -587,13 +587,13 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8893467)<br>PatrickYx<br>2012-04-21 08:14<br>赞(0) 踩(0) | <div>patr1ckyx</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7577481)<br>刚好五个字<br>2012-04-20 11:04<br>赞(0) 踩(0) | <div>金属</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2888403)<br>听音乐，就是一种状态、一...<br>2012-04-12 23:02<br>赞(0) 踩(0) | <div>let`s crazy</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8563978)<br><br>2012-04-12 20:34<br>赞(1) 踩(0) | <div>真的是勇闯夺命岛啊我想起了，尼古拉斯凯奇</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8563978)<br><br>2012-04-12 20:34<br>赞(1) 踩(0) | <div>真的是勇闯夺命岛啊<br><br>我想起了，尼古拉斯凯奇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3628346)<br><br>2012-04-04 16:31<br>赞(0) 踩(0) | <div>音乐 震撼灵魂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8725212)<br><br>2012-04-03 22:29<br>赞(0) 踩(0) | <div>重金属音乐有震撼的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3180811)<br><br>2012-04-03 15:05<br>赞(0) 踩(0) | <div>werwr</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7067812)<br><br>2012-03-30 19:24<br>赞(1) 踩(0) | <div>这明明是勇闯夺命岛里面的啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3265314)<br>用音乐致青春<br>2012-03-28 12:49<br>赞(0) 踩(0) | <div>《The Rock》（勇闯夺命岛）中的经典插曲，“亡灵序曲”太经典！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1082269)<br><br>2012-07-18 15:51<br>赞(0) 踩(0) | <div>the dawn本来和亡灵没啥关系，有个家伙在《魔兽争霸3》MV亡灵族的过场画面中使用the dawn做背景音乐，然后被魔兽玩家疯狂追随，不过确实好听，哈哈个人表示，25人模式推到LK时，以这首音乐做背景，确实够振奋的</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1082269)<br><br>2012-07-18 15:51<br>赞(0) 踩(0) | <div>the dawn本来和亡灵没啥关系，有个家伙在《魔兽争霸3》MV亡灵族的过场画面中使用the dawn做背景音乐，然后被魔兽玩家疯狂追随，不过确实好听，哈哈<br>个人表示，25人模式推到LK时，以这首音乐做背景，确实够振奋的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3265314)<br>用音乐致青春<br>2012-08-03 12:57<br>赞(0) 踩(0) | <div><q><b>秋雨秋夕说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8597250)<br><br>2012-03-25 21:29<br>赞(0) 踩(0) | <div>喜欢金属</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6980406)<br><br>2012-03-24 01:30<br>赞(0) 踩(0) | <div>hao</div> |
@@ -630,13 +630,13 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7538091)<br><br>2012-01-08 21:43<br>赞(0) 踩(0) | <div>摇滚都喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6722627)<br><br>2012-01-03 16:12<br>赞(0) 踩(0) | <div>很有feel</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5798946)<br><br>2011-12-21 12:53<br>赞(0) 踩(0) | <div>nice</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/582261)<br><br>2011-12-16 22:31<br>赞(0) 踩(0) | <div>手机铃声有次商场听到，以为自己手机响了……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/582261)<br><br>2011-12-16 22:31<br>赞(0) 踩(0) | <div>手机铃声<br>有次商场听到，以为自己手机响了……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6377726)<br>低头思故乡……<br>2011-12-15 20:57<br>赞(0) 踩(0) | <div>《The Dawn》和亡灵俩字儿沾不上半点关系……曙光……破晓……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3321740)<br>我还没想好要写什么...<br>2011-12-12 20:55<br>赞(0) 踩(0) | <div>我爱上这个了。。@蛋胡胡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7130116)<br><br>2011-12-09 16:50<br>赞(0) 踩(0) | <div>认识这个乐队还是因为《the  drawn》，很不错的旋律，超爱~~~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6935239)<br><br>2011-12-13 12:28<br>赞(0) 踩(0) | <div>同感啊 我也是因为 《the drawn》喜欢上他们的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6377726)<br>低头思故乡……<br>2011-12-15 20:56<br>赞(0) 踩(0) | <div>dawn 不是 drawn…… 这哪跟哪儿……</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3950635)<br><br>2011-12-08 20:58<br>赞(0) 踩(0) | <div>熟悉么？不解释为了部落</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3950635)<br><br>2011-12-08 20:58<br>赞(0) 踩(0) | <div>熟悉么？<br><br>不解释<br><br>为了部落</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7152429)<br><br>2011-12-08 13:47<br>赞(0) 踩(0) | <div>太好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6051987)<br><br>2011-12-08 03:57<br>赞(0) 踩(0) | <div>亡灵序曲~经典</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365181)<br><br>2011-12-02 15:30<br>赞(0) 踩(0) | <div>梦境传说</div> |
@@ -757,7 +757,7 @@ It was announced on the 14th of January, 2013 that their 6th studio album was be
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/543229)<br>暂无签名~<br>2011-05-04 15:28<br>赞(0) 踩(0) | <div>梦境</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2727327)<br>盛夏繁花<br>2011-05-01 10:18<br>赞(0) 踩(0) | <div>记得</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3777680)<br><br>2011-04-29 19:34<br>赞(0) 踩(0) | <div>还凑和的乐队..</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222610)<br><br>2011-05-15 20:37<br>赞(0) 踩(0) | <div>不喜欢请退出，请不要用“凑合”来形容Dreamtale起码在前面加个“我认为”..谢谢合作</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222610)<br><br>2011-05-15 20:37<br>赞(0) 踩(0) | <div>不喜欢请退出，请不要用“凑合”来形容Dreamtale<br>起码在前面加个“我认为”..谢谢合作</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1598622)<br>天呐，你真高！<br>2011-11-28 13:10<br>赞(0) 踩(0) | <div><q><b>衰败の小新说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2642052)<br>只是小众<br>2011-04-28 17:42<br>赞(0) 踩(0) | <div>The Dawn</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331069)<br>就让滚热的灵魂在冰霜上撒...<br>2011-04-27 11:55<br>赞(0) 踩(0) | <div>入门级金属，必听！</div> |

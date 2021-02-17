@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/cadaffa29a90593636cd7e1cd0255bc5.jpg)<br>何雨田](https://i.xiami.com/hekang) | **播放数**: 1404007<br>**粉丝数**: 781<br>**评论数**: 40<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/cadaffa29a90593636cd7e1cd0255bc5.jpg)<br>何雨田](https://i.xiami.com/hekang) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 国语流行 Mandarin Pop<br>**播放数**: 1404007<br>**粉丝数**: 781<br>**评论数**: 40<br> |
 
 ## 档案
 
@@ -20,8 +20,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3583995)<br>一個人的戰爭<br>2019-07-24 16:24<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10009897)<br><br>2019-01-31 20:13<br>赞(1) 踩(0) | <div>此君参加指弹大赛区 取得名次了吗？哈哈哈哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10009897)<br><br>2019-04-23 22:11<br>赞(0) 踩(0) | <div>入围都费劲…</div> |
@@ -56,7 +56,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16892776)<br><br>2015-11-29 00:38<br>赞(0) 踩(0) | <div>嗨，我是断头人在天涯，在你签售会问你结婚了没[带墨镜笑]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2298517)<br>我爱小清新~<br>2012-03-26 16:25<br>赞(0) 踩(0) | <div>貌似是指弹中国的朋友~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1695271)<br>Fingerstyle ...<br>2012-04-05 19:49<br>赞(0) 踩(0) | <div>^ ^</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1247902)<br> <br>2011-04-16 20:33<br>赞(0) 踩(0) | <div>这儿上pierre bensusan 的图片只有我俩 、好奇怪哦 ！ 之前我都没有发现估计我早联系你 可能我们认识的就早了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1247902)<br> <br>2011-04-16 20:33<br>赞(0) 踩(0) | <div>这儿上pierre bensusan 的图片只有我俩 、好奇怪哦 ！ 之前我都没有发现<br><br>估计我早联系你 可能我们认识的就早了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1695271)<br>Fingerstyle ...<br>2011-05-21 21:56<br>赞(0) 踩(0) | <div>呵呵 是啊 希望关注他的人越来越多</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4385)<br>(ง •̀_•́)ง<br>2010-12-26 05:50<br>赞(0) 踩(0) | <div>哈喽~ 请教你一下，能总结下Leo Kottke的风格吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1695271)<br>Fingerstyle ...<br>2011-03-02 03:33<br>赞(0) 踩(0) | <div>不好意思 最近很少上虾米 LEO就是指弹的代表 也属于纯吉他的音乐 美国乡村民谣一类 个人色彩很浓</div> |

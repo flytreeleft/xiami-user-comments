@@ -23,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48340103)<br>འདག་བྱིའུ’<br>2019-11-30 19:17<br>赞(1) 踩(0) | <div>这个我喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1634596)<br><br>2019-08-25 03:35<br>赞(0) 踩(0) | <div>这个牛逼了。怪自己蓝牙音箱太渣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1237008)<br>夏有凉风冬有雪<br>2019-07-20 18:53<br>赞(0) 踩(0) | <div>相当不错</div> |

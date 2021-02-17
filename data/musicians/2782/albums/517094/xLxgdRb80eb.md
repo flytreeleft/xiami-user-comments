@@ -32,11 +32,11 @@ Aildhaj baryaa huy
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83078102)<br>你要做个不动声色的大人啊...<br>2020-06-04 11:44<br>赞(0) 踩(0) | <div>某年小长假因为前方追尾被堵在高速上，前不得进，后不得退，听着这歌恨不得骑匹马飞过去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2130824)<br>有想法有做法<br>2020-05-12 23:16<br>赞(0) 踩(0) | <div>听了七八年的斯琴格日乐版本，给推送了这个版本更欢乐的 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12104322)<br>何须远望当归路，复使清风...<br>2019-12-12 14:12<br>赞(0) 踩(0) | <div>去内蒙喝过酒的外地人表示，应该这样翻译：你们蒙古人真能喝呀真呀真呀么真能喝我们外地人不能喝呀不呀么不呀么不能喝喝一碗踩一箱嘿！喝一碗踩一箱嘿！喝不倒你就别走<img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12104322)<br>何须远望当归路，复使清风...<br>2019-12-12 14:12<br>赞(0) 踩(0) | <div>去内蒙喝过酒的外地人表示，应该这样翻译：<br><br>你们蒙古人真能喝呀<br>真呀真呀么真能喝<br><br>我们外地人不能喝呀<br>不呀么不呀么不能喝<br><br>喝一碗踩一箱<br>嘿！<br>喝一碗踩一箱<br>嘿！<br>喝不倒你就别走<br><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300475652)<br><br>2019-09-06 07:13<br>赞(0) 踩(0) | <div>尽情的畅饮吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420076465)<br><br>2019-03-28 21:16<br>赞(0) 踩(0) | <div>明晚成都有没有约</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336605198)<br><br>2019-03-29 10:47<br>赞(0) 踩(0) | <div>走起</div> |
@@ -44,10 +44,10 @@ Aildhaj baryaa huy
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357198668)<br><br>2019-03-17 19:49<br>赞(1) 踩(0) | <div>杭盖 是个好乐队…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330888932)<br>别再晃我的可乐啦<br>2019-03-09 22:59<br>赞(1) 踩(0) | <div>今晚呼市真他妈爽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4411050)<br><br>2019-02-10 03:24<br>赞(1) 踩(0) | <div>想起“老人饮酒歌”，仙</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264489777)<br><br>2019-02-03 00:26<br>赞(2) 踩(0) | <div>作为会说蒙古语的我翻译一下装在瓶子里的酒是美酒敬给官爷您是坏事的酒我们旋律唱的好    嘿！祝您事业好     嘿！边唱边给您敬酒放在缸子里的酒是美酒敬给酒鬼您是醉倒的酒我们旋律唱的好    嘿！祝您事业好     嘿！边唱边给您敬酒盖起来的酒是温好的美酒敬给老者您是伤身的酒我们旋律唱的好    嘿！祝您事业好     嘿！边唱边给您敬酒《酒歌》其实是个规劝儿歌，让人少喝酒的 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264489777)<br><br>2019-02-03 00:26<br>赞(2) 踩(0) | <div>作为会说蒙古语的我翻译一下<br><br>装在瓶子里的酒是美酒<br>敬给官爷您是坏事的酒<br>我们旋律唱的好    嘿！<br>祝您事业好     嘿！<br>边唱边给您敬酒<br><br>放在缸子里的酒是美酒<br>敬给酒鬼您是醉倒的酒<br>我们旋律唱的好    嘿！<br>祝您事业好     嘿！<br>边唱边给您敬酒<br><br>盖起来的酒是温好的美酒<br>敬给老者您是伤身的酒<br>我们旋律唱的好    嘿！<br>祝您事业好     嘿！<br>边唱边给您敬酒<br><br>《酒歌》其实是个规劝儿歌，让人少喝酒的 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123246788)<br>Music is my ...<br>2019-01-18 10:52<br>赞(2) 踩(0) | <div>腿抖抽筋儿了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123246788)<br>Music is my ...<br>2019-01-18 10:49<br>赞(2) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261817017)<br>不抽烟  不泡妞  不脏...<br>2019-01-15 14:37<br>赞(8) 踩(0) | <div>每到吃晚饭的时候，母亲会问我要不要来一杯，父亲总是皱着眉头责备她不该劝酒。我也不说话，拿起酒瓶就往杯子倒酒，母亲忙说少倒点，而父亲却说～满上！满上！这就是我的父母，我的酒   <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261817017)<br>不抽烟  不泡妞  不脏...<br>2019-01-15 14:37<br>赞(8) 踩(0) | <div>每到吃晚饭的时候，母亲会问我要不要来一杯，父亲总是皱着眉头责备她不该劝酒。我也不说话，拿起酒瓶就往杯子倒酒，母亲忙说少倒点，而父亲却说～满上！满上！<br><br>这就是我的父母，我的酒   <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4714884)<br>用不完美的人去拼凑出个完...<br>2019-01-13 07:36<br>赞(2) 踩(0) | <div>杭盖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9070145)<br><br>2019-01-11 17:15<br>赞(0) 踩(0) | <div>我来过了 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410663513)<br><br>2019-01-11 14:22<br>赞(1) 踩(0) | <div>不喝酒的我  都想钻进蒙古包  喝两碗</div> |
@@ -68,7 +68,7 @@ Aildhaj baryaa huy
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380312735)<br><br>2018-10-30 21:50<br>赞(0) 踩(0) | <div>哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48192268)<br>pop metal，so...<br>2018-10-13 16:37<br>赞(0) 踩(0) | <div>哈哈越来越快 欢乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81430206)<br>悟空，悟净，八戒<br>2018-08-29 00:28<br>赞(1) 踩(0) | <div>？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250871231)<br>浮世三千 吾爱有三  朝...<br>2018-07-01 19:03<br>赞(4) 踩(0) | <div>酒这东西一斤下肚眩晕6小时胆量+300%攻击速度-50%力量+20%敏捷度-40%好色度+30%性欲度 男+50% 女+80%对异性表白能力+50%智力-50%走直线能力-80%记忆-80%真心话+70%大冒险+60%马路无限变宽+100%人使用它过后不良反应就是 ：百分之百自动开启吹牛逼模式。  没喝酒之前我是中国的。喝酒之后中国是我的.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250871231)<br>浮世三千 吾爱有三  朝...<br>2018-07-01 19:03<br>赞(4) 踩(0) | <div>酒这东西<br>一斤下肚<br>眩晕6小时<br>胆量+300%<br>攻击速度-50%<br>力量+20%<br>敏捷度-40%<br>好色度+30%<br>性欲度 男+50% 女+80%<br>对异性表白能力+50%<br>智力-50%<br>走直线能力-80%<br>记忆-80%<br>真心话+70%<br>大冒险+60%<br>马路无限变宽+100%<br>人使用它过后不良反应就是 ：<br>百分之百自动开启吹牛逼模式。  没喝酒之前我是中国的。喝酒之后中国是我的.</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36271443)<br><br>2018-07-07 15:54<br>赞(0) 踩(0) | <div>秀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355524340)<br><br>2018-06-27 19:32<br>赞(1) 踩(0) | <div>我们这里都是边唱边喝的。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50072642)<br>当月亮升起的时候，我开始...<br>2018-06-20 23:40<br>赞(1) 踩(0) | <div>大口吃肉大口喝酒才是酒歌豪放的真谛</div> |
@@ -92,7 +92,7 @@ Aildhaj baryaa huy
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92256078)<br><br>2017-12-19 01:51<br>赞(0) 踩(0) | <div>赶紧把扎二给倒满喽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317769875)<br><br>2017-12-18 15:22<br>赞(2) 踩(0) | <div>干了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2017-12-08 19:13<br>赞(1) 踩(0) | <div>前奏好可爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276912467)<br><br>2017-12-06 04:11<br>赞(137) 踩(0) | <div>作为会说蒙古语的我翻译一下装在瓶子里的酒是美酒敬给官爷您是坏事的酒我们旋律唱的好    嘿！祝您事业好     嘿！边唱边给您敬酒放在缸子里的酒是美酒敬给酒鬼您是醉倒的酒我们旋律唱的好    嘿！祝您事业好     嘿！边唱边给您敬酒盖起来的酒是温好的美酒敬给老者您是伤身的酒我们旋律唱的好    嘿！祝您事业好     嘿！边唱边给您敬酒《酒歌》其实是个规劝儿歌，让人少喝酒的 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276912467)<br><br>2017-12-06 04:11<br>赞(137) 踩(0) | <div>作为会说蒙古语的我翻译一下<br><br>装在瓶子里的酒是美酒<br>敬给官爷您是坏事的酒<br>我们旋律唱的好    嘿！<br>祝您事业好     嘿！<br>边唱边给您敬酒<br><br>放在缸子里的酒是美酒<br>敬给酒鬼您是醉倒的酒<br>我们旋律唱的好    嘿！<br>祝您事业好     嘿！<br>边唱边给您敬酒<br><br>盖起来的酒是温好的美酒<br>敬给老者您是伤身的酒<br>我们旋律唱的好    嘿！<br>祝您事业好     嘿！<br>边唱边给您敬酒<br><br>《酒歌》其实是个规劝儿歌，让人少喝酒的 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356823717)<br><br>2018-04-27 15:03<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361516057)<br><br>2018-05-08 13:13<br>赞(0) 踩(0) | <div>相信蒙古族同胞不会生气的。一个各民族可以互相开玩笑的国家才真正称得上一个团结的国家。 <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6181305)<br><br>2018-05-29 22:46<br>赞(0) 踩(0) | <div>蒙古人劝人少喝酒？别闹 我见到的蒙古人白酒吹瓶子。。</div> |
@@ -305,11 +305,11 @@ Aildhaj baryaa huy
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310942502)<br><br>2017-12-16 10:44<br>赞(0) 踩(0) | <div><q><b>tbjhofxdm说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268168494)<br><br>2018-01-05 12:48<br>赞(0) 踩(0) | <div>我觉得你翻译的没毛病</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329194478)<br><br>2018-01-05 23:25<br>赞(0) 踩(0) | <div>哈哈，有才你！</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2018-01-12 14:00<br>赞(0) 踩(0) | <div>特喜欢内蒙的同胞的豪爽。。大碗喝酒大口吃肉。。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2018-01-12 14:00<br>赞(0) 踩(0) | <div>特喜欢内蒙的同胞的豪爽。。<br>大碗喝酒大口吃肉。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2018-01-12 14:01<br>赞(0) 踩(0) | <div>管他怎样的词意，反正我从旋律中听到快乐。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10816542)<br>zm<br>2018-01-22 06:19<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347579911)<br><br>2018-02-04 00:59<br>赞(0) 踩(0) | <div>这翻译我给满分，初中语文老师水平呀</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343768129)<br><br>2018-02-25 17:01<br>赞(0) 踩(0) | <div>nm美国</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343768129)<br><br>2018-02-25 17:01<br>赞(0) 踩(0) | <div>nm<br>美国</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83774956)<br>我还没想好要写什么...<br>2018-03-27 11:24<br>赞(0) 踩(0) | <div><q><b>一杯白水说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9898742)<br> <br>2018-04-22 10:52<br>赞(0) 踩(0) | <div>哈哈，这歌我会了！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363890)<br>在你面前很无邪<br>2018-05-15 22:49<br>赞(0) 踩(0) | <div>台班逛逛那个@Huun-风xvjzvcnnbrc格复古不会忽然。Huur-Tu 有：）发布一￡天&amp;rdquo;&amp;rdquo;￡ssx面包机&amp;lt;&amp;gt;uk能够</div> |
@@ -436,7 +436,7 @@ Aildhaj baryaa huy
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4881989)<br>随遇而安 顺其自然<br>2014-01-29 17:19<br>赞(0) 踩(0) | <div>新年快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8887984)<br> <br>2014-01-16 19:46<br>赞(0) 踩(0) | <div>草原的声音！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2492832)<br><br>2014-01-16 16:37<br>赞(0) 踩(0) | <div>1.16</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6023750)<br>暂无签名~<br>2014-01-16 09:34<br>赞(202) 踩(0) | <div>翻译按着杭盖的来：浓浓烈烈的奶酒啊蜷在瓶里的小绵羊兄弟朋友们痛饮吧灌进肚里的大老虎我们的歌声美，嘿干了这一杯，嘿千万别喝醉情真意切的歌声哝换来美丽的吉祥鸟喝下美酒七杯后畅想新年乐淘淘我们的歌声美，嘿干了这一杯，嘿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6023750)<br>暂无签名~<br>2014-01-16 09:34<br>赞(202) 踩(0) | <div>翻译按着杭盖的来：<br>浓浓烈烈的奶酒啊<br>蜷在瓶里的小绵羊<br>兄弟朋友们痛饮吧<br>灌进肚里的大老虎<br>我们的歌声美，嘿<br>干了这一杯，嘿<br>千万别喝醉<br>情真意切的歌声哝<br>换来美丽的吉祥鸟<br>喝下美酒七杯后<br>畅想新年乐淘淘<br>我们的歌声美，嘿<br>干了这一杯，嘿</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48714046)<br> <br>2015-04-20 19:23<br>赞(0) 踩(0) | <div>再不要乱翻译，你懂蒙语嘛？ 百度找的吧？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6023750)<br>暂无签名~<br>2015-05-17 08:35<br>赞(0) 踩(0) | <div><q><b>daoka000说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45988354)<br>哈哈哈<br>2017-04-12 23:34<br>赞(0) 踩(0) | <div>辛苦！</div> |
@@ -444,7 +444,7 @@ Aildhaj baryaa huy
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205758287)<br>艺术流馒头<br>2017-07-18 21:17<br>赞(0) 踩(0) | <div><q><b>笨笨朝鲁说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116085096)<br>夜晚的天花板是最美好的荧...<br>2017-10-20 19:35<br>赞(0) 踩(0) | <div>内蒙人告诉你这不是真的翻译 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376936420)<br><br>2018-06-29 16:28<br>赞(0) 踩(0) | <div>这貌似是为了上春晚才填的词吧，根本就不是翻译。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6023750)<br>暂无签名~<br>2014-01-16 09:34<br>赞(1) 踩(0) | <div>Lonhan taoteren baihudur  naomhan arihll bainNaoyan tandan barhudur  daogxin har arihll bainAyas Mandan sain hui , weiles tandan sain hui Ailtgazh bariyaa hui酒歌的罗马发音</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6023750)<br>暂无签名~<br>2014-01-16 09:34<br>赞(1) 踩(0) | <div>Lonhan taoteren baihudur  naomhan arihll bain<br>Naoyan tandan barhudur  daogxin har arihll bain<br>Ayas Mandan sain hui , weiles tandan sain hui Ailtgazh bariyaa hui<br>酒歌的罗马发音</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35446837)<br><br>2015-01-26 15:01<br>赞(0) 踩(0) | <div>棒极了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6023750)<br>暂无签名~<br>2015-01-27 09:20<br>赞(0) 踩(0) | <div><q><b>王JQ咩咩说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1634396)<br><br>2014-01-15 20:21<br>赞(0) 踩(0) | <div>0_0</div> |

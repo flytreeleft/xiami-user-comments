@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8f17d5ebe411f629f0aef85fdc4f8f03.png)<br>康硕Kenny](https://i.xiami.com/kenny) | **播放数**: 5787877<br>**粉丝数**: 3665<br>**评论数**: 97<br>**地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 指弹吉他, Fingerstyle<br> |
+| [![](../../images/musicians/8f17d5ebe411f629f0aef85fdc4f8f03.png)<br>康硕Kenny](https://i.xiami.com/kenny) | **地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 指弹吉他, Fingerstyle<br>**播放数**: 5787877<br>**粉丝数**: 3665<br>**评论数**: 97<br> |
 
 ## 档案
 
@@ -32,8 +32,8 @@ http://i.youku.com/kennykang<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87827600)<br>山水两相忘，日月无瓜葛；...<br>2020-08-31 18:40<br>赞(1) 踩(0) | <div>不希望他因为太多人的崇拜而分心，更不希望他因为提升自己的名望而参加过多的活动。这样美妙的感觉只有在良好安静氛围下才能做的精致。希望他把更多的时间与精力放在专心音乐上面，为广大听众带来更多精良作品！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426068809)<br><br>2020-03-14 22:28<br>赞(1) 踩(0) | <div>彈得好聽好昕，年輕有為揀直就是前途無量，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439940495)<br><br>2020-01-29 12:03<br>赞(0) 踩(0) | <div>你好，我买了你的喜剧之王音乐，怎么下载不了啊！我想弄到电脑里</div> |
@@ -81,7 +81,7 @@ http://i.youku.com/kennykang<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20397849)<br>我想她应该会懂得如何睡梦...<br>2016-06-01 15:45<br>赞(0) 踩(0) | <div>太棒了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2016-05-09 20:44<br>赞(0) 踩(0) | <div>听着Demo 猛刷试题哈哈哈 室友也吵不到我 耶耶耶耶～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77062208)<br>叫我日本吉他爸爸<br>2016-04-20 23:34<br>赞(0) 踩(0) | <div>支持！期待demo变成新专辑！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1499382)<br> <br>2016-03-15 10:59<br>赞(0) 踩(0) | <div>喜剧之王原声Silent Open不错</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1499382)<br> <br>2016-03-15 10:59<br>赞(0) 踩(0) | <div>喜剧之王原声Silent Open<br>不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20963878)<br><br>2016-03-14 19:41<br>赞(0) 踩(0) | <div>很纯 很干静 真好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53583591)<br>努力做自己<br>2016-02-12 22:10<br>赞(0) 踩(0) | <div>带着晨光的吉他声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9558734)<br><br>2016-01-12 10:37<br>赞(2) 踩(0) | <div>lv先生推荐了他的吉他版爱的代价，然后就一发不可收拾的喜欢上了他的吉他！</div> |

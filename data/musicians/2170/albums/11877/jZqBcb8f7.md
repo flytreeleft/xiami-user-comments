@@ -72,8 +72,8 @@ Ur Oh 我再深呼吸一口<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424482289)<br><br>2019-09-05 22:16<br>赞(0) 踩(0) | <div>这歌～惊艳的逆天了 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png">十几年前就超爱的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3140019)<br>天马行空<br>2019-07-28 22:02<br>赞(0) 踩(0) | <div>周杰伦算个屁啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7807259)<br><br>2019-07-19 00:16<br>赞(0) 踩(0) | <div>這張專最愛的一首</div> |
@@ -124,7 +124,7 @@ Ur Oh 我再深呼吸一口<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2014-07-03 08:13<br>赞(0) 踩(0) | <div>其实这个说采样或者 二次创作 之类 都是好的 因为这个副歌也非常非常好听···</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32658676)<br><br>2014-05-18 11:51<br>赞(2) 踩(0) | <div>「这也难怪我没有人陪伴 虽然我有人喜欢」&amp;amp;「难怪妈妈说 爱情是劳财又伤器官」好想冲去KTV狂飙100遍这首歌！#隋老湿听#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2014-01-17 13:07<br>赞(1) 踩(0) | <div>汪佩蓉这歌，真是被编曲坑死了··后来她自己出来解释过：<a href="http://bbs.tianya.cn/post-music-108896-1.shtml" target="_blank" rel="nofollow noreferrer noopener">http://bbs.tianya.cn/post-music-108896-1.shtml</a> 应该在编曲上写明采样。和BODY ROCK的<a href="http://www.xiami.com/song/3470748" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/3470748</a> 结构，节奏，编曲相同</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433817)<br>死了<br>2013-11-03 00:52<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/3470748?spm=a1z1s.6659513.0.0.4uHSKc" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/3470748?spm=a1z1s.6659513.0.0.4uHSKc</a>为什么和Body Rock的曲调那么雷同 而且Body Rock是2002年的 这算抄袭吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433817)<br>死了<br>2013-11-03 00:52<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/3470748?spm=a1z1s.6659513.0.0.4uHSKc" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/3470748?spm=a1z1s.6659513.0.0.4uHSKc</a><br>为什么和Body Rock的曲调那么雷同 而且Body Rock是2002年的 这算抄袭吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194548)<br><br>2013-11-28 13:00<br>赞(0) 踩(0) | <div>她当时有出来解释过，大致就是被编曲坑了。我个人觉得基本可以理解。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433817)<br>死了<br>2013-11-30 00:26<br>赞(0) 踩(0) | <div><q><b>微观迪士尼说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194548)<br><br>2013-11-30 09:18<br>赞(0) 踩(0) | <div><q><b>刘继芬说：</b></q></div> |

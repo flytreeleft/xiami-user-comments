@@ -70,5 +70,3 @@ I would feel I am so sorry for you
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

@@ -3,7 +3,7 @@ Terry Zhong 钟天利
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ebbd7ecfcfca72cb795e0c5dc7aede24.jpg)<br>Terry Zhong 钟天利](https://i.xiami.com/terryzhong) | **播放数**: 3350230<br>**粉丝数**: 876<br>**评论数**: 59<br>**地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 放克电子 Electro (Electro-Funk), 欧美流行 Western Pop, 电音流行 Electropop<br> |
+| [![](../../images/musicians/ebbd7ecfcfca72cb795e0c5dc7aede24.jpg)<br>Terry Zhong 钟天利](https://i.xiami.com/terryzhong) | **地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 放克电子 Electro (Electro-Funk), 欧美流行 Western Pop, 电音流行 Electropop<br>**播放数**: 3350230<br>**粉丝数**: 876<br>**评论数**: 59<br> |
 
 ## 档案
 
@@ -37,8 +37,8 @@ DJ/ Producer/ Musician  Follow me on: INSTAGRAM:     @terryzhongmusic WEIBO:  @t
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2020-03-13 01:44<br>赞(1) 踩(0) | <div>Terry Zhong &amp;ndash; Night Cap (feat. Will Jay)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13526130)<br>答えのない日々に 溜め息...<br>2020-03-12 16:39<br>赞(1) 踩(0) | <div>老哥你也太赞了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/807514)<br>☯️<br>2019-11-28 20:14<br>赞(1) 踩(0) | <div>Play it cool</div> |

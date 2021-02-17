@@ -47,14 +47,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 21:09<br>赞(0) 踩(0) | <div>「重寫又重寫，最後2017年落在至今我最滿意的專輯《絕對清白》-《地心引力》是一首藍調形式的搖滾歌曲，CM與四人樂隊負責音樂，說的是極端的消費文化；有朋友說：你跟自己作對嗎？沒有，我只是跟現實面對面而已。」&amp;mdash;&amp;mdash;一峰2020.4.2写于微博</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 21:09<br>赞(0) 踩(0) | <div>「重寫又重寫，最後2017年落在至今我最滿意的專輯《絕對清白》-《地心引力》是一首藍調形式的搖滾歌曲，CM與四人樂隊負責音樂，說的是極端的消費文化；有朋友說：你跟自己作對嗎？沒有，我只是跟現實面對面而已。」<br>&amp;mdash;&amp;mdash;一峰<br>2020.4.2写于微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2750042)<br>Time will te...<br>2019-11-01 12:59<br>赞(2) 踩(0) | <div>谁能告诉我林一峰怎么这么酷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330653025)<br><br>2017-10-18 00:29<br>赞(1) 踩(0) | <div>这歌词映射的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312924647)<br><br>2017-07-26 20:38<br>赞(4) 踩(0) | <div>我說不出來我有多喜歡這首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250410425)<br><br>2017-06-30 12:11<br>赞(1) 踩(0) | <div>评论真少，但这不意味着你不优秀 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png">从crossed开始喜欢你，表白~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220992376)<br><br>2017-05-23 15:20<br>赞(4) 踩(0) | <div>现在有互联网之后，大家常常出来骂人时也是常觉得自己高人一等。其实最后，大家都放轻松，因为我们没有人能敌得过地心引力。&amp;mdash;&amp;mdash;林一峰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220992376)<br><br>2017-05-23 15:20<br>赞(4) 踩(0) | <div>现在有互联网之后，大家常常出来骂人时也是常觉得自己高人一等。其实最后，大家都放轻松，因为我们没有人能敌得过地心引力。<br>&amp;mdash;&amp;mdash;林一峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1506235)<br>所以 最后 还好 有音乐<br>2017-05-23 10:55<br>赞(0) 踩(0) | <div>好萌啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49506795)<br>AS ONLY A LU...<br>2017-05-15 16:24<br>赞(0) 踩(0) | <div>嗯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283998732)<br><br>2017-05-12 18:15<br>赞(0) 踩(0) | <div>很好听</div> |

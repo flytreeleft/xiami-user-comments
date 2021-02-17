@@ -40,5 +40,3 @@ You'll find that it's always the same achoo
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

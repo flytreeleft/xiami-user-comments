@@ -39,8 +39,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13728866)<br><br>2020-10-31 07:49<br>赞(0) 踩(0) | <div>还是明哥唱的最好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93355546)<br>最好的时间，遇见最美的你...<br>2020-10-25 00:30<br>赞(0) 踩(0) | <div>此刻我在听20201025-0:25 金华</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44596071)<br><br>2020-10-06 16:07<br>赞(0) 踩(0) | <div>难听</div> |
@@ -63,7 +63,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5167973)<br>昨晚发了一个最近现场演的...<br>2016-01-20 21:04<br>赞(4) 踩(0) | <div>达明一派</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45093827)<br> <br>2016-01-05 23:37<br>赞(0) 踩(0) | <div>林一峰的HK feeling</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41069098)<br>雨会下，也会停。<br>2015-01-21 18:00<br>赞(0) 踩(0) | <div>在那身后的。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71890)<br> <br>2014-12-20 22:07<br>赞(1) 踩(0) | <div>当一切消失了以后我怀念你当从头开始的时候要抛弃你是因为我害怕再一次见到你突然想起了我自己想念不想念之间 一个人一个世界</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71890)<br> <br>2014-12-20 22:07<br>赞(1) 踩(0) | <div>当一切消失了以后我怀念你<br>当从头开始的时候要抛弃你<br>是因为我害怕再一次见到你<br>突然想起了我自己<br>想念不想念之间 一个人一个世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3208727)<br>听听歌，唱唱戏<br>2014-12-19 23:57<br>赞(0) 踩(0) | <div>大半夜听前奏吓了我一跳</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43362586)<br>我还没想好要写什么...<br>2015-06-19 23:11<br>赞(0) 踩(0) | <div>离开是为了回来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4461857)<br><br>2014-12-19 12:38<br>赞(0) 踩(0) | <div>林二汶是他姐妹么。。。</div> |
@@ -96,12 +96,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73)<br>平靜是我的嚮往<br>2009-12-30 00:45<br>赞(0) 踩(0) | <div>熟悉的自己，曾经的身影。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/447565)<br>兴奋郁闷互转模式中<br>2009-12-13 05:53<br>赞(4) 踩(0) | <div>《一个人在途上》，是林一峰继《Travelogue1》之后，又一张以旅行概念作为创作背景的作品专辑——一段音乐游记，写尽沿途，自在唱游。吉他是工具，体会和回忆被收放成音阶，娓娓的表达出对世态人情的认识，他经过一些人的身旁，经过一些人心，然后，独自默默的记取一些人的脸庞，从而竭尽全力的倒映世界。只是这一回，再也没有具体的目的地。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/489392)<br><br>2009-12-01 11:50<br>赞(0) 踩(0) | <div>安静 空灵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225333)<br>笑而不语<br>2009-11-02 23:26<br>赞(0) 踩(0) | <div>当一切开始的时候身边有你不知道甚么时候失去了你当时我明明是紧紧的靠着你忽然只剩下我自己是否我走得太快 还是你走得太慢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225333)<br>笑而不语<br>2009-11-02 23:26<br>赞(0) 踩(0) | <div>当一切开始的时候身边有你<br>不知道甚么时候失去了你<br>当时我明明是紧紧的靠着你<br>忽然只剩下我自己<br>是否我走得太快 还是你走得太慢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290123)<br><br>2009-08-06 21:47<br>赞(0) 踩(0) | <div>想念不想念之间。。。一个人一个世界</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73)<br>平靜是我的嚮往<br>2009-07-25 20:15<br>赞(0) 踩(0) | <div>9-29  想念不想念之間<a href="http://www.julydream.com/article.asp?id=349" target="_blank" rel="nofollow noreferrer noopener">http://www.julydream.com/article.asp?id=349</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73)<br>平靜是我的嚮往<br>2009-07-25 20:15<br>赞(0) 踩(0) | <div>9-29  想念不想念之間<br><a href="http://www.julydream.com/article.asp?id=349" target="_blank" rel="nofollow noreferrer noopener">http://www.julydream.com/article.asp?id=349</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230382)<br>趁还来得及文艺<br>2009-07-13 15:03<br>赞(0) 踩(0) | <div>是我走的太快， 还是你走的太慢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3258)<br>浮生如梦<br>2009-07-02 02:39<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97987)<br><br>2009-07-01 23:07<br>赞(0) 踩(0) | <div>是否我走得太快 还是你走得太迟，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56722)<br><br>2009-02-22 10:18<br>赞(0) 踩(0) | <div>一个人一个世界</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25)<br>如有光，就去寻找光。<br>2009-02-13 13:41<br>赞(0) 踩(0) | <div>当一切消失了以后我怀念你当从头开始的时候要抛弃你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25)<br>如有光，就去寻找光。<br>2009-02-13 13:41<br>赞(0) 踩(0) | <div>当一切消失了以后我怀念你<br>当从头开始的时候要抛弃你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13209)<br><br>2008-12-05 00:53<br>赞(0) 踩(0) | <div>用嗓音勾勒出的安静旋律，建议夜晚倾听，房间回音效果要好 ！</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0f465cc992de134580129f14478f148f.jpg)<br>橙光音乐](https://i.xiami.com/chengguang) | **播放数**: 26302985<br>**粉丝数**: 10022<br>**评论数**: 181<br>**地区**: China 中国大陆<br>**风格**: 原声 Soundtrack, 游戏配乐 Video Game Music, 国语流行 Mandarin Pop, 中国风 China-Wave<br> |
+| [![](../../images/musicians/0f465cc992de134580129f14478f148f.jpg)<br>橙光音乐](https://i.xiami.com/chengguang) | **地区**: China 中国大陆<br>**风格**: 原声 Soundtrack, 游戏配乐 Video Game Music, 国语流行 Mandarin Pop, 中国风 China-Wave<br>**播放数**: 26302985<br>**粉丝数**: 10022<br>**评论数**: 181<br> |
 
 ## 档案
 
@@ -168,8 +168,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3543247)<br><br>2021-01-06 09:06<br>赞(1) 踩(0) | <div>再见虾米，再见橙光</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444595307)<br><br>2020-09-11 09:12<br>赞(0) 踩(0) | <div>我爱橙光呜呜呜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379480355)<br>到底怎样的结局，才配的上...<br>2020-03-02 17:28<br>赞(1) 踩(0) | <div>前来打卡～ <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
@@ -234,7 +234,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228729327)<br>朴灿烈  易烊千玺<br>2017-09-10 19:33<br>赞(16) 踩(0) | <div>喜欢exo的可以关注作者，pcy小瓶盖和傻钰总攻pcy和胡静儿和法鲨的微笑和甜菜媳妇大总攻和一只雪糕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322734279)<br><br>2017-09-01 10:46<br>赞(1) 踩(0) | <div>那个，我问一下谁知道关于《君莫离》的歌在哪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309478318)<br><br>2017-08-29 21:24<br>赞(1) 踩(0) | <div>把巨人的肩膀整岀来呗，超喜欢那首。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321890271)<br><br>2017-08-27 17:15<br>赞(3) 踩(0) | <div>遊戲很好玩  裡面的歌曲更是好聽搭配遊戲就是絕阿~~~不過很多配樂 找都找不到</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321890271)<br><br>2017-08-27 17:15<br>赞(3) 踩(0) | <div>遊戲很好玩  裡面的歌曲更是好聽搭配遊戲就是絕阿~~~<br>不過很多配樂 找都找不到</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277603716)<br><br>2017-08-10 23:55<br>赞(1) 踩(0) | <div>为啥没有《与卿同醉》的主题曲！！！！！ <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168397920)<br> <br>2017-08-09 16:28<br>赞(2) 踩(0) | <div>表白长生烛，表白冷艳师尊是反派，表白素心难逃，表白醉乡，表白橙光！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211423978)<br>你管我<br>2017-08-06 21:59<br>赞(1) 踩(0) | <div>前排表白橙娘</div> |
@@ -288,7 +288,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267564727)<br><br>2017-08-22 21:45<br>赞(0) 踩(0) | <div>嗯嗯，说的太对了，还是好怀念之前的橙妹</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11749315)<br>穿山越海哼你的歌<br>2017-08-23 07:25<br>赞(0) 踩(0) | <div><q><b>크리스说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335472868)<br> <br>2017-12-01 22:43<br>赞(0) 踩(0) | <div>现在都懒得刷了。直接一个大礼包各种通道</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187630445)<br>囧呆，爱丽。我的青春是银...<br>2018-07-03 22:11<br>赞(0) 踩(0) | <div>同感。如今的橙光有了自己的app，游戏画面越来越精致，类型越来越多，名气越来越大，知道的人越来越多，可是我已没有当初那种熬夜也要刷剧情的热情了，橙娘越来越商业化，日趋细致的网页，签约作者走了又来，充的鲜花越来越多，但当初的热情已耗尽，只剩当年的那些感动。我想我还是喜欢14年左右的橙娘吧</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187630445)<br>囧呆，爱丽。我的青春是银...<br>2018-07-03 22:11<br>赞(0) 踩(0) | <div>同感。如今的橙光有了自己的app，游戏画面越来越精致，类型越来越多，名气越来越大，知道的人越来越多，可是我已没有当初那种熬夜也要刷剧情的热情了，橙娘越来越商业化，日趋细致的网页，签约作者走了又来，充的鲜花越来越多，但当初的热情已耗尽，只剩当年的那些感动。<br>我想我还是喜欢14年左右的橙娘吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11749315)<br>穿山越海哼你的歌<br>2018-07-03 22:17<br>赞(0) 踩(0) | <div><q><b>Secret说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187630445)<br>囧呆，爱丽。我的青春是银...<br>2018-07-03 22:24<br>赞(0) 踩(0) | <div><q><b>Jessie说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308454112)<br><br>2018-07-09 13:10<br>赞(0) 踩(0) | <div><q><b>Secret说：</b></q></div> |

@@ -41,8 +41,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347254273)<br>暗夜提灯，臻艺术之境<br>2020-11-26 08:04<br>赞(0) 踩(0) | <div>☁️～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423817038)<br>孑然天地间    忽如远...<br>2020-02-01 22:47<br>赞(2) 踩(0) | <div>你因为感性而喜欢，因为理性而困惑。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297932432)<br>青春少年是样样红<br>2019-07-01 18:22<br>赞(1) 踩(0) | <div>来看你了</div> |
@@ -51,7 +51,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353281067)<br><br>2018-09-24 01:44<br>赞(1) 踩(0) | <div>错过就真的错过了 无法弥补 不能弥补 只能留在心里了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353281067)<br><br>2018-09-24 01:43<br>赞(1) 踩(0) | <div>这首歌已陪伴了我十八年 每次听到后都会觉得我那个时候的感觉还在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400251119)<br><br>2018-09-07 23:35<br>赞(2) 踩(0) | <div>好的在后面 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14801393)<br>【  别等太久，时间不够...<br>2018-09-04 20:30<br>赞(1) 踩(0) | <div>贰零零几年一个男生对我说：&amp;ldquo;这首歌就是他的心声。&amp;rdquo;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14801393)<br>【  别等太久，时间不够...<br>2018-09-04 20:30<br>赞(1) 踩(0) | <div>贰零零几年<br>一个男生对我说：&amp;ldquo;这首歌就是他的心声。&amp;rdquo;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374748505)<br><br>2018-09-03 08:11<br>赞(1) 踩(0) | <div>我的青春啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47705147)<br>惟德动天，无远弗届，满招...<br>2018-08-03 12:39<br>赞(2) 踩(0) | <div>她飞得很高，就像我梦里拉着她飞的那么高，我想，如果时光倒回，我宁愿从未遇到过，哪怕她是如此的优秀，我宁愿像夜行者，不用尝到被光明抛弃的孤寂&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47705147)<br>惟德动天，无远弗届，满招...<br>2018-07-27 13:37<br>赞(4) 踩(0) | <div>我一直觉得陈小春是一个被低估的歌手，他的技术虽然没有多高超，但他总能唱着那些苦情歌，把你推向澎湃的大海。时而卑微如尘埃，时而戏谑如小丑。他或许不是你最钟情的男歌手，自己也没把歌唱事业看得那么重，但当你有天被现实轻蔑地拍了一下的时候，听到一首陈小春的歌，那些苦涩和悲情终于不必遮掩，就好像有人陪你一起喝醉，你再也不想装下去。</div> |
@@ -70,7 +70,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333673449)<br><br>2018-02-27 11:26<br>赞(0) 踩(0) | <div>没那种命？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288723664)<br>幽默就是带着醉意的真理。<br>2018-02-17 08:23<br>赞(2) 踩(0) | <div>冰雪消融，万物复苏，又到了交配的季节，空气中充满着荷尔蒙的气味，然而，在广阔无垠的亚欧大陆上却生存着一个数量庞大的哺乳动物&amp;mdash;&amp;mdash;单身狗&amp;hellip;&amp;hellip;单身狗属于一个比较常见的蜗居类哺乳动物之一，目前世界上有12.5亿的单身狗，其中有2000-3000万单身狗生活在亚欧大陆的中国。单身狗的生存条件岌岌可危，越来越严重的性别失衡导致了单身狗数量仍在不断增加，在他们身边还生存着一种跟他们相似却又不尽相同的另一种犬科动物&amp;mdash;&amp;mdash;恩爱狗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284806249)<br>生存还是毁灭<br>2018-02-12 23:21<br>赞(1) 踩(0) | <div>多么希望是.其实你错了，我爱你，可惜不是</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279110210)<br><br>2018-01-28 02:45<br>赞(0) 踩(0) | <div>好听好听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279110210)<br><br>2018-01-28 02:45<br>赞(0) 踩(0) | <div>好听<br>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4346615)<br>暂无签名~<br>2018-01-21 19:41<br>赞(0) 踩(0) | <div>小提琴好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304037837)<br><br>2018-01-09 21:45<br>赞(6) 踩(0) | <div>时间回到了2003年初三，中考迫近，炎热的夏天，下晚自习的路上，一路跟着妳的我，多想快步赶上你，告诉你我好喜欢你，一次次机会的错过，终于还是没有说出口，中考后，大家各奔东西。多年以后从老同学口中得知妳也喜欢我，虽然我也有感觉到，可是老同学的证实依然让我热泪盈眶。十几年来，我一直到处打听妳的下落，不为别的，就是想解开心中的结，可是没有人知道妳去了哪里，像从世界消失了一样。你是这样潇洒的走了，把我永远留在了那年的夏天</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340588780)<br><br>2018-01-18 14:07<br>赞(0) 踩(0) | <div>你咋不跟楼上 阿宝 学习学习 。。</div> |
@@ -140,7 +140,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/823665)<br> <br>2015-10-07 02:04<br>赞(0) 踩(0) | <div>未必</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39599775)<br>昏昏欲睡 半梦半醒<br>2015-09-25 13:09<br>赞(1) 踩(0) | <div>从小到大就听到这首歌，今天看了歌词后才懂了。旋律牵动我心，爱了爱不到的人，明了我没那种命。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35207884)<br>杂食<br>2015-09-20 01:37<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3208690)<br>快乐的猫猫<br>2015-09-10 15:58<br>赞(22) 踩(0) | <div>大学里一个长的胖胖壮壮的男生，无论喜欢了哪个女同学，“谈”到最后，都以“做了对方的哥哥”为结局……某天晚上，几个人去网吧玩到太晚，宿舍回不去，去学校附近的小旅馆开了个大房。那一晚，我有了一个错觉……后来听说他进了影视圈，在几个剧组里跑剧务，还在某个广告里见过他演配角。哦，这是他当年最喜欢的歌，所以我才记得，所以才有这么多回忆，听到这歌就想起来。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3208690)<br>快乐的猫猫<br>2015-09-10 15:58<br>赞(22) 踩(0) | <div>大学里一个长的胖胖壮壮的男生，无论喜欢了哪个女同学，“谈”到最后，都以“做了对方的哥哥”为结局……<br><br>某天晚上，几个人去网吧玩到太晚，宿舍回不去，去学校附近的小旅馆开了个大房。那一晚，我有了一个错觉……<br><br>后来听说他进了影视圈，在几个剧组里跑剧务，还在某个广告里见过他演配角。<br><br>哦，这是他当年最喜欢的歌，所以我才记得，所以才有这么多回忆，听到这歌就想起来。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278410707)<br>人生若只如初见<br>2020-12-01 15:06<br>赞(0) 踩(0) | <div>现在他怎么样了？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3208690)<br>快乐的猫猫<br>2020-12-03 00:07<br>赞(0) 踩(0) | <div><q><b>彩虹说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7768723)<br>先吃了再说<br>2015-09-10 11:38<br>赞(3) 踩(0) | <div>明明山鸡是人生赢家啊！！！却有这么多苦情歌哈哈哈</div> |
@@ -159,7 +159,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24134751)<br>终须都归还 无谓多贪<br>2015-08-10 00:57<br>赞(0) 踩(0) | <div>没道理、没道理爱上我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27806179)<br><br>2015-08-08 07:59<br>赞(0) 踩(0) | <div>别再问我有没有女朋友了，我没那种命啊(⊙o⊙)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52622435)<br>我还小，快乐健康成长~<br>2015-08-06 22:12<br>赞(1) 踩(0) | <div>封面好年轻呀</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50243647)<br>是我<br>2015-08-04 17:35<br>赞(3) 踩(0) | <div>我终于找到这首歌!在舅舅车上听到的，那是二年级时候第一次住校，快到校门口的时候这首歌刚响起。要去报道的时候，歌还没放完，我对舅舅说，能听完这首歌再去吗？后来到寝室我看着他的车走，眼泪水就出来了。再后来每到晚上想家的时候就会想到这首歌，小时候听歌只听调，现在看看歌词感到怪怪的？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50243647)<br>是我<br>2015-08-04 17:35<br>赞(3) 踩(0) | <div>我终于找到这首歌!<br>在舅舅车上听到的，那是二年级时候第一次住校，快到校门口的时候这首歌刚响起。要去报道的时候，歌还没放完，我对舅舅说，能听完这首歌再去吗？<br>后来到寝室我看着他的车走，眼泪水就出来了。再后来每到晚上想家的时候就会想到这首歌，小时候听歌只听调，现在看看歌词感到怪怪的？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52898664)<br>我就是我<br>2015-08-03 14:27<br>赞(0) 踩(0) | <div>單身</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12828261)<br> <br>2015-08-02 02:43<br>赞(0) 踩(0) | <div>送给告白颂卡掉的我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45582646)<br>抱歉做一个爱你的陌生人<br>2015-08-01 02:37<br>赞(35) 踩(0) | <div>小的时候陈小春就是找不着对象的代言人啊 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> 这首加上神呐 哈哈</div> |
@@ -169,7 +169,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13960817)<br>~<br>2020-08-11 17:50<br>赞(0) 踩(0) | <div>现在春哥有对象了 找不到对象的歌换成胡歌的光棍 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15396009)<br> <br>2015-07-17 16:39<br>赞(0) 踩(0) | <div>然而三年了，我为你刷的屏··········</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13756639)<br><br>2015-07-17 15:08<br>赞(0) 踩(0) | <div>^^</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8622311)<br><br>2015-06-28 14:35<br>赞(1) 踩(0) | <div>不信命，但信双手去打拼。我终于失去了她。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8622311)<br><br>2015-06-28 14:35<br>赞(1) 踩(0) | <div>不信命，但信双手去打拼。<br><br><br><br><br>我终于失去了她。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9723293)<br>加入虾米音乐六年多了。。<br>2015-06-22 12:04<br>赞(2) 踩(0) | <div>唱出屌丝的心声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44626432)<br><br>2015-06-04 21:23<br>赞(0) 踩(0) | <div>#vivien的分享计划#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44195361)<br>待到秋来九月八，我花开后...<br>2015-05-31 11:12<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"> <img src="../../../../images/comments/58f25f67f72847b1f16f261712b7c135.png"> <img src="../../../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"> <img src="../../../../images/comments/0590342800944c9cbf70e4e78ed6027a.png"></div> |
@@ -191,7 +191,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34230690)<br><br>2015-04-16 19:08<br>赞(0) 踩(0) | <div>@叮叮万万没想到 送给想要兔子的你和麋鹿的我！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8403282)<br>暂无签名~<br>2015-04-08 23:14<br>赞(0) 踩(0) | <div>@William威廉陈伟霆 [拜拜][拜拜]大王晚安[拜拜][拜拜]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8403282)<br>暂无签名~<br>2015-04-08 23:13<br>赞(0) 踩(0) | <div>@William威廉陈伟霆 [拜拜][拜拜]大王晚安[拜拜][拜拜] 轮也轮不到我啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37565152)<br><br>2015-04-05 22:01<br>赞(0) 踩(0) | <div>爱情这东西 没道理的有人很强手 有人没资格</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37565152)<br><br>2015-04-05 22:01<br>赞(0) 踩(0) | <div>爱情这东西 没道理的<br>有人很强手 有人没资格</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48036999)<br>陈巍<br>2015-03-19 19:42<br>赞(0) 踩(0) | <div>好听 不解释！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43666077)<br>不要轻易输给理性<br>2015-03-09 18:42<br>赞(0) 踩(0) | <div>我没那种命</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29778583)<br>我还没想好要写什么...<br>2015-02-22 15:24<br>赞(0) 踩(0) | <div>我没那种命呀 轮也轮不到我</div> |
@@ -238,7 +238,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9045951)<br>Electronic M...<br>2014-03-06 10:55<br>赞(0) 踩(0) | <div>屌丝心声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4365436)<br><br>2014-03-03 13:13<br>赞(0) 踩(0) | <div>送给小李子。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6866033)<br><br>2014-02-22 22:31<br>赞(0) 踩(0) | <div>心态不好 做不了朋友 没那种命</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20935384)<br>我很好还没死<br>2014-01-23 13:19<br>赞(0) 踩(0) | <div>只怪 爱人太少了 对手太好了劝自己别傻了 以前甭提了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20935384)<br>我很好还没死<br>2014-01-23 13:19<br>赞(0) 踩(0) | <div>只怪 爱人太少了 对手太好了<br>劝自己别傻了 以前甭提了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6016069)<br><br>2014-01-06 17:28<br>赞(0) 踩(0) | <div>唉。。。会长好～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3864306)<br><br>2014-01-04 02:06<br>赞(0) 踩(0) | <div>山鸡哥的歌赢在真诚！歌词不要太直白，会让人受不了！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29604240)<br>平凡...<br>2013-12-30 21:51<br>赞(0) 踩(0) | <div>路是人走的   我害怕什么！</div> |
@@ -263,7 +263,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19646925)<br><br>2013-08-18 21:23<br>赞(0) 踩(0) | <div>重邮广播站播过这歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8348927)<br><br>2013-08-14 00:55<br>赞(0) 踩(0) | <div>一个复杂的节日过去了-  -...致战友们。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18809023)<br><br>2013-08-09 18:35<br>赞(0) 踩(0) | <div>她走过来对我说 其实我错了 她爱我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3260146)<br><br>2013-08-06 17:47<br>赞(0) 踩(0) | <div>时间 越来越少了 越来越老了我剩下一个梦她走过来对我说 其实我错了 她爱我她走过来对我说 其实你错了 我爱你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3260146)<br><br>2013-08-06 17:47<br>赞(0) 踩(0) | <div>时间 越来越少了 越来越老了<br>我剩下一个梦<br>她走过来对我说 其实我错了 她爱我<br>她走过来对我说 其实你错了 我爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1027962)<br><br>2013-08-06 13:46<br>赞(0) 踩(0) | <div>多少年了，最初挺的时候还在画室无忧无虑的画着素描。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16047802)<br><br>2013-08-06 10:57<br>赞(0) 踩(0) | <div>路是人走的，我害怕什么……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8782582)<br><br>2013-08-03 12:25<br>赞(0) 踩(0) | <div>她像个天仙</div> |
@@ -290,7 +290,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11284535)<br>我还没想好要写什么...<br>2013-06-10 20:12<br>赞(0) 踩(0) | <div>前奏的美，直接杀死我！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7014910)<br><br>2013-06-08 23:14<br>赞(0) 踩(0) | <div>歌词········</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14474771)<br><br>2013-06-04 21:41<br>赞(0) 踩(0) | <div>一下就回到小时候了，当时上小学就喜欢陈小春那种比较搞怪的样子！&amp;quot;以前甭提了，以后非加油不可！&amp;quot;加油吧！都不容易！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11159686)<br>老记忆<br>2013-06-04 20:20<br>赞(0) 踩(0) | <div>爱情这东西 没道理的有人很强手 有人没资格</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11159686)<br>老记忆<br>2013-06-04 20:20<br>赞(0) 踩(0) | <div>爱情这东西 没道理的<br>有人很强手 有人没资格</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15719614)<br><br>2013-06-01 15:30<br>赞(0) 踩(0) | <div>这两天软磨硬泡威逼利诱拉着寝室里的妹纸帮我刷门票,最终还是大家一起给人家当分母了。T__________T点一首哥送给中国好室友们 @包仔不吃包子 @小财大就快毕业了 @康康就快毕业了_Airen @白浅烟 @爱是艾爽de爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6877941)<br><br>2013-05-30 00:47<br>赞(0) 踩(0) | <div>人生第一张磁带里的歌。。。后来那张磁带被校长收了 = =。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15267531)<br> <br>2013-05-24 00:48<br>赞(0) 踩(0) | <div>分开15天了，我习惯了所有，习惯了我自己，习惯了我没了你还是一样过得很好，甚至会更开心一些。今天你又发消息了，说想我了，也说了我不喜欢听到的对不起。你还在解释，说回来真的是为了我，让我别抽烟了，别不吃饭一天一顿饭，呵呵呵呵呵呵。我只能说我没事，我很好。但是我不想说出违心的“没关系”</div> |
@@ -301,7 +301,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1738263)<br><br>2013-05-05 00:56<br>赞(0) 踩(0) | <div>我也没那种命</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9899663)<br>世间浮华，唯有随缘<br>2013-04-24 20:43<br>赞(0) 踩(0) | <div>恩，我没那种命，只愿你幸福安康，一生快乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5006082)<br> <br>2013-04-23 13:48<br>赞(0) 踩(0) | <div>送给自己。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230554)<br>■□■□■□■□■□■□<br>2013-04-14 10:40<br>赞(0) 踩(0) | <div>我没那种命呀 输也不会轮到我爱情老是缺货 我争什么如果没有后面的转折。。我觉得还好听。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230554)<br>■□■□■□■□■□■□<br>2013-04-14 10:40<br>赞(0) 踩(0) | <div>我没那种命呀 输也不会轮到我<br>爱情老是缺货 我争什么<br>如果没有后面的转折。。我觉得还好听。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4474057)<br>瞄~<br>2013-04-12 00:28<br>赞(0) 踩(0) | <div>（我那麼平凡 我開不了口）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13564146)<br><br>2013-04-03 11:42<br>赞(0) 踩(0) | <div>即便自小我就以为陈小春是樱木花道的真身，但这歌，于歌词于精神，些许心酸，因为歌名的那四个字。可至少，结局是山鸡也可以逆袭拥抱凤凰。&amp;quot;神啊 救救我吧&amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11661217)<br><br>2013-04-01 23:26<br>赞(0) 踩(0) | <div>愚快</div> |
@@ -309,7 +309,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6597842)<br><br>2013-03-16 19:01<br>赞(0) 踩(0) | <div>一听这歌就想起强哥了＞＜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595353)<br>微笑，给你<br>2013-03-10 12:35<br>赞(0) 踩(0) | <div>多有名的一首。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12186319)<br><br>2013-02-01 20:19<br>赞(0) 踩(0) | <div>初中听的陈小春，他的歌很多都是屌丝心态的苦情歌，这首就是其中一首。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12721863)<br>nui<br>2013-01-28 13:17<br>赞(0) 踩(0) | <div>仿佛上一分钟　你还陪在我左右　还以为我们会开花结果把寂寞消除</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12721863)<br>nui<br>2013-01-28 13:17<br>赞(0) 踩(0) | <div>仿佛上一分钟　你还陪在我左右　还以为我们会开花结果<br>把寂寞消除</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/750191)<br>my will<br>2012-12-25 19:12<br>赞(0) 踩(0) | <div>屌丝逆袭曲目</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1407175)<br>我还没想好要写什么...<br>2012-12-05 22:01<br>赞(0) 踩(0) | <div>小春的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7277457)<br><br>2012-12-02 14:12<br>赞(0) 踩(0) | <div>╮(╯▽╰)╭</div> |
@@ -365,7 +365,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1444780)<br><br>2011-04-23 13:28<br>赞(0) 踩(0) | <div>很多年前喜欢的一首歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3034224)<br><br>2011-03-25 20:39<br>赞(0) 踩(0) | <div>劝自己别傻了！以后非加油不可！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1718443)<br><br>2011-03-24 17:56<br>赞(0) 踩(0) | <div>心里的那种悲伤！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2030107)<br>做人最重要是开心嘛！！！<br>2011-03-19 15:02<br>赞(0) 踩(0) | <div>现实中美人确实不属于自己~没那种命</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2030107)<br>做人最重要是开心嘛！！！<br>2011-03-19 15:02<br>赞(0) 踩(0) | <div>现实中美人确实不属于自己~<br>没那种命</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2888031)<br>只能遠遠地看著你<br>2011-02-24 03:15<br>赞(0) 踩(0) | <div>可愛的小春style~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1664851)<br><br>2011-02-01 22:32<br>赞(0) 踩(0) | <div>不知道为什么。我迷这首歌了。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2050902)<br><br>2011-01-20 11:24<br>赞(0) 踩(0) | <div>喜欢</div> |
@@ -382,4 +382,4 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72936)<br>汝身重生是吾乡<br>2009-07-29 16:17<br>赞(0) 踩(0) | <div>老兄，天上不会掉林妹妹和馅饼的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192698)<br>我还没想好要写什么...<br>2009-06-02 01:10<br>赞(0) 踩(0) | <div>Good</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181971)<br><br>2009-06-01 23:26<br>赞(0) 踩(0) | <div>好听的歌 推荐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29186)<br><br>2009-05-13 15:23<br>赞(0) 踩(0) | <div>歌声中演绎了面对所爱的人爱上别人的情感顶~~~喜欢小春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29186)<br><br>2009-05-13 15:23<br>赞(0) 踩(0) | <div>歌声中演绎了面对所爱的人爱上别人的情感<br>顶~~~喜欢小春</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0863d734b224792c6cff1a492de751a4.jpg)<br>税子洺](https://i.xiami.com/shuiziming) | **播放数**: 4059090<br>**粉丝数**: 209<br>**评论数**: 13<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行 Pop<br> |
+| [![](../../images/musicians/0863d734b224792c6cff1a492de751a4.jpg)<br>税子洺](https://i.xiami.com/shuiziming) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行 Pop<br>**播放数**: 4059090<br>**粉丝数**: 209<br>**评论数**: 13<br> |
 
 ## 档案
 
@@ -41,8 +41,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348411959)<br><br>2020-12-20 10:44<br>赞(0) 踩(0) | <div>ꕥ᭄ঞ☊♪♩♪我是金牛座♉️&amp;hellip;&amp;hellip;&amp;hellip;☕☕加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427010940)<br><br>2019-08-17 12:23<br>赞(0) 踩(0) | <div>被天使吻过的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38548310)<br><br>2019-08-02 21:55<br>赞(0) 踩(0) | <div>赞，不错</div> |

@@ -26,8 +26,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11704065)<br>人生如歌<br>2020-12-29 15:24<br>赞(1) 踩(0) | <div>年纪越大越尴尬。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354148445)<br><br>2020-12-23 08:52<br>赞(1) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340859803)<br><br>2020-11-16 04:02<br>赞(1) 踩(0) | <div>每次下雨的时候，都会听青春。</div> |
@@ -63,7 +63,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274638201)<br>我很聪明什么也没留下.....<br>2019-08-02 09:59<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344482002)<br><br>2019-06-07 22:36<br>赞(3) 踩(0) | <div>想着自己流逝的青春和岁月，真想冲进雨中一直冲刷自己直到彻底冷却下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252341345)<br>有容乃大<br>2019-06-02 23:15<br>赞(3) 踩(0) | <div>不算人品，这首歌还不错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370005782)<br>欣赏花儿美丽与芬芳，一如...<br>2019-05-22 11:32<br>赞(3) 踩(0) | <div>如果我还有青春，如果我还有力量，如果我还有期待，如果我还有梦幻～如果我曾经拥有，如果我还爱过，如果我仍然相信，如果我还是我～如果我一如既往地向往，如果我还是不了解你～我爱你，我想你，我们曾经一起走过的路，我们那些烟尘往事是我们一生的骄傲。我爱你，不老的灵魂！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370005782)<br>欣赏花儿美丽与芬芳，一如...<br>2019-05-22 11:32<br>赞(3) 踩(0) | <div>如果我还有青春，如果我还有力量，<br>如果我还有期待，如果我还有梦幻～<br>如果我曾经拥有，如果我还爱过，<br>如果我仍然相信，如果我还是我～<br>如果我一如既往地向往，如果我还是不了解你～<br>我爱你，我想你，我们曾经一起走过的路，<br>我们那些烟尘往事是我们一生的骄傲。<br>我爱你，不老的灵魂！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376696574)<br><br>2019-04-26 19:49<br>赞(2) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419107351)<br>若是懂得，无言也暖。<br>2019-04-26 10:37<br>赞(1) 踩(0) | <div>这首没的说……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420312998)<br><br>2019-04-21 14:16<br>赞(2) 踩(0) | <div>哪里都能休息</div> |
@@ -74,7 +74,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350978140)<br> <br>2019-04-04 06:32<br>赞(1) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255155)<br>风子<br>2019-04-03 12:46<br>赞(1) 踩(0) | <div>青春还在吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340550287)<br><br>2019-03-27 17:58<br>赞(0) 踩(0) | <div>汪峰演唱会</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49766658)<br><br>2019-03-21 09:08<br>赞(7) 踩(0) | <div>好好生活青春短暂好珍惜别跟自己过不去别在最好的年龄辜负最好的自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49766658)<br><br>2019-03-21 09:08<br>赞(7) 踩(0) | <div>好好生活<br><br>青春短暂好珍惜<br><br>别跟自己过不去<br><br>别在最好的年龄<br><br>辜负最好的自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8400130)<br> <br>2019-03-12 16:18<br>赞(0) 踩(0) | <div>这首词写得相当好！赞一个</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407491049)<br><br>2019-03-06 23:13<br>赞(0) 踩(0) | <div>牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406798703)<br>静心静神<br>2019-02-28 21:49<br>赞(0) 踩(0) | <div>老汪唱的不错</div> |
@@ -83,12 +83,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355141165)<br><br>2019-02-13 12:15<br>赞(2) 踩(0) | <div>第一次认真完整地听完这首感伤歌曲，确实不错。但我还是喜欢他的《生来彷徨》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376974453)<br>人间有味是清欢<br>2019-02-10 21:28<br>赞(2) 踩(0) | <div>20年前大概？在西安买的《花火》签名卡带。当时还是鲍家街43号。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200169660)<br>只听有感觉<br>2018-12-28 00:04<br>赞(0) 踩(0) | <div>继续失去仍然要继续走</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274298516)<br>深刻的记忆总难以忘记，有...<br>2018-12-05 11:49<br>赞(11) 踩(0) | <div>青春里有你，青春里有我。虽然你的青春里没有我的相伴，但我的青春里全是你的身影。青春过去了，你常伴我左右，我如影相随。不求大富大贵，只求天长地久。感谢你的长年相伴，感谢在花样年华的时期走入我的世界。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274298516)<br>深刻的记忆总难以忘记，有...<br>2018-12-05 11:49<br>赞(11) 踩(0) | <div>青春里有你，<br>青春里有我。<br>虽然你的青春里没有我的相伴，但我的青春里全是你的身影。<br>青春过去了，你常伴我左右，我如影相随。<br>不求大富大贵，只求天长地久。<br>感谢你的长年相伴，感谢在花样年华的时期走入我的世界。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409090383)<br><br>2018-12-02 15:17<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267759096)<br><br>2018-11-09 19:07<br>赞(3) 踩(0) | <div>最早听到这首歌，是汪峰给筠子写的，那个时候，很早很早，汪峰没有现在这么红。也许，直到筠子离世，她的歌才让人记住。今天无意中听到了汪峰唱的，再次寻找筠子的，却是遗憾。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272378656)<br>人生无常 当心淡如水乎<br>2019-04-01 21:54<br>赞(0) 踩(0) | <div>唉 傻姑娘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342455788)<br>在歪果浪费青春<br>2018-11-04 12:30<br>赞(3) 踩(0) | <div>在我没有意识到的青春 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11979899)<br>人约黄昏后<br>2018-10-04 08:49<br>赞(10) 踩(0) | <div>時間好像一把尺子它能衡量奮鬥者前進的進程時間如同一架天平它能稱量奮鬥者成果的重量時間就像一把皮鞭它能鞭策我們追趕人生的目標時間猶如一面戰鼓它能激勵我們加快前進的腳步</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11979899)<br>人约黄昏后<br>2018-10-04 08:49<br>赞(10) 踩(0) | <div>時間好像一把尺子<br>它能衡量奮鬥者前進的進程<br>時間如同一架天平<br>它能稱量奮鬥者成果的重量<br>時間就像一把皮鞭<br>它能鞭策我們追趕人生的目標<br>時間猶如一面戰鼓<br>它能激勵我們加快前進的腳步</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277445013)<br><br>2018-09-23 05:48<br>赞(1) 踩(0) | <div>豁达一点看淡一些&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307516745)<br>长发金属女主唱头发还不够...<br>2018-05-30 05:06<br>赞(1) 踩(0) | <div>继续走，继续失去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340333052)<br><br>2018-05-29 21:30<br>赞(1) 踩(0) | <div>收藏，下载，加入歌单</div> |
@@ -189,7 +189,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1518130)<br><br>2010-09-22 17:00<br>赞(0) 踩(0) | <div>是汪峰写给筠子的？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31193526)<br><br>2014-10-31 06:05<br>赞(0) 踩(0) | <div>嗯呐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1398072)<br><br>2010-08-29 15:44<br>赞(0) 踩(0) | <div>已经逝去的 还有正在经历的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/617908)<br>我也可以是触手可及的温暖<br>2010-03-19 18:00<br>赞(0) 踩(0) | <div>关于青春谁说的清但每个人都有段剧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/617908)<br>我也可以是触手可及的温暖<br>2010-03-19 18:00<br>赞(0) 踩(0) | <div>关于青春谁说的清<br>但每个人都有段剧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/606356)<br><br>2010-01-03 22:45<br>赞(0) 踩(0) | <div>配乐挺不错的！~前面的口琴还是后面的和声、弦乐！~超越了原版了！~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237904)<br><br>2009-09-26 21:12<br>赞(0) 踩(0) | <div>青春，纪念我们一起走过的日子。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205510)<br><br>2009-06-13 03:30<br>赞(2) 踩(0) | <div>汪峰唱这首歌的时候，是一种什么样的心情？</div> |

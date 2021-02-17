@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ba9579d8928ff130c0cee759c0f138ff.jpg)<br>郑知文](https://i.xiami.com/zzw) | **播放数**: 9255617<br>**粉丝数**: 208<br>**评论数**: 16<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 摇滚 Rock & Roll, 流行摇滚 Pop Rock, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/ba9579d8928ff130c0cee759c0f138ff.jpg)<br>郑知文](https://i.xiami.com/zzw) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 摇滚 Rock & Roll, 流行摇滚 Pop Rock, 国语流行 Mandarin Pop<br>**播放数**: 9255617<br>**粉丝数**: 208<br>**评论数**: 16<br> |
 
 ## 档案
 
@@ -120,8 +120,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2020-11-14 00:28<br>赞(0) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2019-12-14 16:28<br>赞(2) 踩(0) | <div>14289</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284186133)<br> <br>2019-07-14 13:08<br>赞(1) 踩(0) | <div>哈哈我下载⏬啦</div> |

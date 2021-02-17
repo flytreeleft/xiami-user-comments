@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3ba0430f0576c7ea582a807135d8dd8e.jpg)<br>庞龙](https://i.xiami.com/panglong) | **播放数**: 25382347<br>**粉丝数**: 6322<br>**评论数**: 251<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/3ba0430f0576c7ea582a807135d8dd8e.jpg)<br>庞龙](https://i.xiami.com/panglong) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 25382347<br>**粉丝数**: 6322<br>**评论数**: 251<br> |
 
 ## 档案
 
@@ -89,8 +89,8 @@ CCTV—MTV  音乐盛典  “  内地最受欢迎男歌手  ”   。<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440841253)<br><br>2020-02-24 21:20<br>赞(0) 踩(0) | <div>怀念啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319688150)<br>愿经典不被遗忘<br>2019-10-22 02:01<br>赞(0) 踩(0) | <div>挺难忘的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425311090)<br><br>2019-06-08 12:32<br>赞(0) 踩(0) | <div>没有吹眼睛这首歌啊！</div> |
@@ -98,23 +98,23 @@ CCTV—MTV  音乐盛典  “  内地最受欢迎男歌手  ”   。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/221269971)<br>傻傻地喜欢笨笨地爱<br>2019-03-16 19:43<br>赞(0) 踩(0) | <div>歌曲浅显大众而不媚俗是优秀的流行作品应具备的优点，庞龙做到了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408357445)<br><br>2018-11-11 15:42<br>赞(0) 踩(0) | <div>你好兄弟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404198927)<br><br>2018-09-24 19:06<br>赞(0) 踩(0) | <div>两只蝴蝶经典中的经典 <img src="../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45240314)<br>“你是我仅有的梦”<br>2018-08-31 16:30<br>赞(2) 踩(0) | <div>庞龙：Punk Dragon最朋克的歌手名字了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45240314)<br>“你是我仅有的梦”<br>2018-08-31 16:30<br>赞(2) 踩(0) | <div>庞龙：Punk Dragon<br>最朋克的歌手名字了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402426764)<br><br>2018-08-25 12:05<br>赞(0) 踩(0) | <div>谢谢啦！ <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351190544)<br><br>2018-06-06 20:41<br>赞(1) 踩(0) | <div>比刀郎low多了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374322742)<br><br>2018-06-01 18:44<br>赞(1) 踩(0) | <div>好幅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374322742)<br><br>2018-06-01 18:44<br>赞(1) 踩(0) | <div>好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49828336)<br> <br>2018-05-04 10:37<br>赞(3) 踩(0) | <div>庞老师有很多好作品但很多人不愿意去发掘</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49828336)<br> <br>2018-05-04 10:37<br>赞(3) 踩(0) | <div>庞老师有很多好作品<br>但很多人不愿意去发掘</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358430033)<br><br>2018-04-15 22:22<br>赞(1) 踩(0) | <div>兄弟抱一下</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320393716)<br><br>2018-04-07 07:28<br>赞(1) 踩(0) | <div>生命在奇迹便在 <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342414376)<br><br>2018-04-03 12:39<br>赞(1) 踩(0) | <div>666 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/6dcade93a9728bd629c90733016bc0e8.png"> <img src="../../images/comments/6dcade93a9728bd629c90733016bc0e8.png"> <img src="../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113378418)<br>清清素心听歌...<br>2018-03-13 16:59<br>赞(1) 踩(0) | <div>好想听您的《春秋爱美丽》... ...祝福大家都幸福~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113378418)<br>清清素心听歌...<br>2018-03-13 16:59<br>赞(1) 踩(0) | <div>好想听您的《春秋爱美丽》... ...<br>祝福大家都幸福~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334268214)<br><br>2018-03-05 20:47<br>赞(2) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94994884)<br><br>2018-01-30 16:01<br>赞(3) 踩(0) | <div>我的童年音乐启蒙老师，您2006年发的CD我还保存着呢 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337196282)<br><br>2018-01-23 14:00<br>赞(1) 踩(0) | <div>你的歌直好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309699386)<br><br>2018-01-04 11:27<br>赞(1) 踩(0) | <div>龙哥。你的歌不错。我的嗓子跟你差不多。所以你的歌很适合我。嘿嘿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342161119)<br>8.24<br>2017-12-30 17:56<br>赞(0) 踩(0) | <div>我爱妳</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47276106)<br><br>2017-12-27 09:11<br>赞(3) 踩(0) | <div>为什么好多庞龙的经典歌曲没有啊&amp;hellip;差评</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15826803)<br>纯纯的聆听<br>2017-12-19 11:11<br>赞(2) 踩(0) | <div>70后的怀旧歌曲，听着这首歌，仿佛又沐浴在暖暖的阳光下，吹着口哨，回到了没有PM2.5指标那时的纯静空气。好吧，我都说怀旧了。。好吧。。承认不是那年代的人，但是尊重那年代的情怀。这首歌让庞龙进化了，希望多多努力。评论说完，下面是吐槽虾米腹黑什么的最喜欢了，看着大家的评论乐啊。。语重心长的说：**舞也是一种文化。我老妈就喜欢凤凰传奇 老喜欢。我不能咬她对不。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15826803)<br>纯纯的聆听<br>2017-12-19 11:11<br>赞(2) 踩(0) | <div>70后的怀旧歌曲，听着这首歌，仿佛又沐浴在暖暖的阳光下，吹着口哨，回到了没有PM2.5指标那时的纯静空气。好吧，我都说怀旧了。。好吧。。承认不是那年代的人，但是尊重那年代的情怀。这首歌让庞龙进化了，希望多多努力。评论说完，下面是吐槽<br>虾米腹黑什么的最喜欢了，看着大家的评论乐啊。。语重心长的说：**舞也是一种文化。我老妈就喜欢凤凰传奇 老喜欢。我不能咬她对不。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337557930)<br><br>2017-12-09 10:59<br>赞(0) 踩(0) | <div>多谢你给我们的你拥抱我吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24925878)<br><br>2017-12-05 20:49<br>赞(2) 踩(0) | <div>庞龙很刀郎！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314426448)<br><br>2017-12-05 13:13<br>赞(3) 踩(0) | <div>兄弟抱一下，我最喜欢听。庞龙唱的</div> |
@@ -224,14 +224,14 @@ CCTV—MTV  音乐盛典  “  内地最受欢迎男歌手  ”   。<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1602758)<br><br>2015-03-21 12:02<br>赞(0) 踩(0) | <div>协和了吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44955353)<br><br>2015-01-12 19:57<br>赞(0) 踩(0) | <div>加油庞龙老师</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44893335)<br>总希望快乐将你围绕；总盼...<br>2015-01-08 21:53<br>赞(1) 踩(0) | <div>龙哥，真棒，加油，龙哥，我们永远支持您</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:19<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:19<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44953029)<br><br>2014-12-23 16:04<br>赞(0) 踩(0) | <div>独特 很喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44481559)<br><br>2014-12-22 16:51<br>赞(161) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44953029)<br><br>2014-12-23 16:00<br>赞(0) 踩(0) | <div>好的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44893335)<br>总希望快乐将你围绕；总盼...<br>2015-01-28 11:49<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52734741)<br>兴<br>2015-11-15 13:58<br>赞(0) 踩(0) | <div>ok</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261986644)<br><br>2017-01-15 15:08<br>赞(0) 踩(0) | <div><img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113378418)<br>清清素心听歌...<br>2017-03-29 21:34<br>赞(0) 踩(0) | <div>好想听您的《春秋爱美丽》&amp;middot;&amp;middot;&amp;middot;祝福！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113378418)<br>清清素心听歌...<br>2017-03-29 21:34<br>赞(0) 踩(0) | <div>好想听您的《春秋爱美丽》&amp;middot;&amp;middot;&amp;middot;<br>祝福！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283458405)<br><br>2017-04-05 19:15<br>赞(0) 踩(0) | <div>帅</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274848979)<br><br>2017-05-02 08:55<br>赞(0) 踩(0) | <div>很喜欢你的歌 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295126284)<br><br>2017-05-27 20:47<br>赞(0) 踩(0) | <div>我也喜欢你的歌曲</div> |
@@ -242,7 +242,7 @@ CCTV—MTV  音乐盛典  “  内地最受欢迎男歌手  ”   。<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311599172)<br><br>2017-07-29 19:07<br>赞(0) 踩(0) | <div>那当然你可是我最崇拜的偶像</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323713313)<br><br>2017-09-28 19:12<br>赞(0) 踩(0) | <div>怎么没有庞龙的歌呢 <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339814912)<br><br>2017-12-21 18:36<br>赞(0) 踩(0) | <div>很好</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113378418)<br>清清素心听歌...<br>2018-03-13 15:56<br>赞(0) 踩(0) | <div>好想听您的《春秋爱美丽》... ...祝福！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113378418)<br>清清素心听歌...<br>2018-03-13 15:56<br>赞(0) 踩(0) | <div>好想听您的《春秋爱美丽》... ...<br>祝福！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402426764)<br><br>2018-08-25 12:06<br>赞(0) 踩(0) | <div>我想听&amp;lt;&amp;lt;兄弟抱一下﹥﹥</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354317299)<br><br>2018-11-18 01:05<br>赞(0) 踩(0) | <div>我喜欢听幸福两口子，可是下载不了 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425311090)<br><br>2019-06-08 12:32<br>赞(0) 踩(0) | <div>吹眼睛 没有</div> |
@@ -286,7 +286,7 @@ CCTV—MTV  音乐盛典  “  内地最受欢迎男歌手  ”   。<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2541555)<br>Sakha Republ...<br>2017-06-22 00:50<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27767307)<br><br>2013-11-16 22:36<br>赞(0) 踩(0) | <div>Y=E</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5040803)<br>怪逼探测器<br>2013-11-01 15:19<br>赞(1) 踩(0) | <div>前几年两只蝴蝶正流行的时候 我同学说单位考试 突然有一个人手机响了 铃声就是两只蝴蝶 考场里至少有半数人随着音乐哼唱起来</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13350)<br><br>2013-06-24 10:45<br>赞(8) 踩(0) | <div>歧视反应着无知与浅薄。很好听的歌。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13350)<br><br>2013-06-24 10:45<br>赞(8) 踩(0) | <div>歧视反应着无知与浅薄。<br>很好听的歌。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15378026)<br><br>2013-05-22 11:33<br>赞(0) 踩(0) | <div>写实</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14233727)<br><br>2013-05-11 15:44<br>赞(0) 踩(0) | <div>因为是同年同月同日生，好难的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349378)<br>南山何其悲,鬼雨洒空草<br>2013-05-10 13:29<br>赞(1) 踩(0) | <div>更年期前后女性最爱</div> |
@@ -319,7 +319,7 @@ CCTV—MTV  音乐盛典  “  内地最受欢迎男歌手  ”   。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7087781)<br><br>2011-12-04 14:14<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6652575)<br>mbz2006<br>2011-11-15 23:25<br>赞(0) 踩(0) | <div>ok</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6715921)<br><br>2011-11-11 14:38<br>赞(0) 踩(0) | <div>很喜欢那首“我要抱着你”！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6282500)<br><br>2011-10-17 10:46<br>赞(0) 踩(0) | <div>庞龙的吹眼睛听味道的这样的歌曲 喜欢王哲爱的 代价 多一些陈瑞 也加入鸟人了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6282500)<br><br>2011-10-17 10:46<br>赞(0) 踩(0) | <div>庞龙的吹眼睛听味道的<br>这样的歌曲 喜欢王哲<br>爱的 代价 多一些<br>陈瑞 也加入鸟人了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342068)<br>我还没想好要写什么...<br>2011-10-04 13:35<br>赞(1) 踩(0) | <div>我仔细看了一下专辑的出版。竟然是——鸟人唱片？？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5785462)<br><br>2011-09-11 16:04<br>赞(0) 踩(0) | <div>有时代气息</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/675774)<br><br>2011-07-11 14:05<br>赞(0) 踩(0) | <div>喜歡</div> |
@@ -340,5 +340,5 @@ CCTV—MTV  音乐盛典  “  内地最受欢迎男歌手  ”   。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18205)<br>我还没想好要写什么...<br>2009-12-27 19:58<br>赞(0) 踩(0) | <div>弹吉他想校花 好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/577256)<br><br>2009-12-16 00:20<br>赞(0) 踩(0) | <div>建议你这个网站，在萌芽和发展的阶段，少一点给希望成为你网站的会员和不愿意成为会员的过客制造麻烦！让所有的人更方便地参与到你的讨论社区之中。我只想以过客的身份给点建议，可是找来找去，找不到给你意见的地方，难怪没有人给你们网站的歌曲提提意见，那是没有办法！我想，不管批评也好，赞扬也好，只要大家上你的平台，那就是成功！我不得已做了注册，却发现还那么麻烦！算了吧！拜拜！祝愿你们成长！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19)<br>-_-哈哈哈哈哈哈哈.<br>2009-12-16 11:18<br>赞(0) 踩(0) | <div>右上角有提建议的入口的</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7)<br>单恋木吉他<br>2009-12-16 17:50<br>赞(0) 踩(0) | <div>哈哈，给这个网站提意见的人还真的好多。。。。。。。虾米最热的小组就是提意见小组呀～～这个话说的虾小米肯定又委屈了。。。。。一路好走吧～～～虽然不知道这位同学遇到了什么麻烦～</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7)<br>单恋木吉他<br>2009-12-16 17:50<br>赞(0) 踩(0) | <div>哈哈，给这个网站提意见的人还真的好多。。。。。。。虾米最热的小组就是提意见小组呀～～这个话说的虾小米肯定又委屈了。。。。。<br><br>一路好走吧～～～虽然不知道这位同学遇到了什么麻烦～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58)<br>现在怎么办<br>2009-12-15 17:35<br>赞(0) 踩(0) | <div>哎</div> |

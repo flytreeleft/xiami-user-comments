@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c6fea014617a557726909506f125a591.jpg)<br>严璞](https://i.xiami.com/sammisa) | **播放数**: 10006398<br>**粉丝数**: 562<br>**评论数**: 35<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/c6fea014617a557726909506f125a591.jpg)<br>严璞](https://i.xiami.com/sammisa) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 10006398<br>**粉丝数**: 562<br>**评论数**: 35<br> |
 
 ## 档案
 
@@ -38,8 +38,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434746486)<br><br>2020-04-24 11:33<br>赞(0) 踩(0) | <div>桥边姑娘怎在这不能听了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441062674)<br><br>2020-03-03 22:37<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348373270)<br><br>2020-02-26 14:29<br>赞(0) 踩(0) | <div>桥边姑娘怎么听不了了呀</div> |

@@ -36,10 +36,10 @@ I Wish You Can Fly Don't Close Your Eyes 你还拥有我的爱<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47638866)<br><br>2019-02-20 20:25<br>赞(0) 踩(0) | <div>听着感觉很平静</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316059312)<br>人生总有不期而遇的温暖和...<br>2018-11-07 12:49<br>赞(0) 踩(0) | <div>丹霞始自来，艳颊作天景。你的名字，最美的诗。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316059312)<br>人生总有不期而遇的温暖和...<br>2018-11-07 12:49<br>赞(0) 踩(0) | <div>丹霞始自来，艳颊作天景。<br>你的名字，最美的诗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46900019)<br> 努力生活，努力爱着。<br>2018-10-13 22:30<br>赞(1) 踩(0) | <div>熊天平的声音还是很干净纯净的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55423472)<br><br>2018-09-07 11:52<br>赞(1) 踩(0) | <div>谢谢虾米推荐，差点把熊天平遗忘了。非常喜欢他的声音。。这张专辑磁带我也买过</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6067738)<br><br>2019-02-14 13:21<br>赞(0) 踩(0) | <div>我也买过 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -62,7 +62,7 @@ I Wish You Can Fly Don't Close Your Eyes 你还拥有我的爱<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123519264)<br><br>2017-08-23 21:01<br>赞(0) 踩(0) | <div>声音像啊哲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18444251)<br>左影右书，音乐居其中！<br>2017-08-18 06:04<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34866055)<br><br>2017-08-13 20:05<br>赞(2) 踩(0) | <div>他的歌大部分都好听，80代都喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305084159)<br><br>2017-08-04 17:19<br>赞(1) 踩(0) | <div>好听╭﹌☆﹌﹌﹌☆﹌╮∣　　　　　　　∣∣　●　　　●       ∣∣　　　▽　　　∣╰&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;--&amp;mdash;╯∣　﹏　﹏　∣╰&amp;cup;&amp;mdash;&amp;mdash;&amp;mdash;&amp;cup;╯</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305084159)<br><br>2017-08-04 17:19<br>赞(1) 踩(0) | <div>好听╭﹌☆﹌﹌﹌☆﹌╮<br>∣　　　　　　　∣<br>∣　●　　　●       ∣<br>∣　　　▽　　　∣<br>╰&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;--&amp;mdash;╯<br>∣　﹏　﹏　∣<br>╰&amp;cup;&amp;mdash;&amp;mdash;&amp;mdash;&amp;cup;╯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256238425)<br>你断了  消息<br>2017-08-04 01:07<br>赞(2) 踩(0) | <div>金曲捞只是抓住现在流行乐毫无活力的卖点，那时候这样的歌一抓一大把，慢慢捞吧 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245429609)<br><br>2017-07-31 12:05<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302213473)<br> <br>2017-07-09 04:16<br>赞(2) 踩(0) | <div>带着伤投入，含着泪顽固</div> |
@@ -75,7 +75,7 @@ I Wish You Can Fly Don't Close Your Eyes 你还拥有我的爱<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246131028)<br>经典<br>2017-06-24 19:56<br>赞(5) 踩(0) | <div>熊哥好嗓子好功夫，一首歌曲一个画面。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306233723)<br><br>2017-06-21 11:16<br>赞(1) 踩(0) | <div>原来你还在，七月成都，小熊等你</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/655537)<br>多类别吉他教师、乐评人<br>2017-07-15 01:05<br>赞(0) 踩(0) | <div>求同去~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127115430)<br> <br>2017-06-21 00:46<br>赞(7) 踩(0) | <div>原来，只有他的声音，在时隔这么多年之后，可以让我一听到便潸然落泪&amp;hellip;&amp;hellip;他，承载了我的整个青春，充满了我所有的回忆。在那些或悲或喜的日子里，在那些爱过、恨过、疯狂过、嬉闹过的岁月中，他的声音一直陪伴着我，带给我慰藉、温暖和安宁。谢谢你，小熊先生，再一次带我重回年少时光。我那终究不会再重来的青春，会永远铭心刻骨，如同你的声音一般，在我心里，隽永不朽&amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127115430)<br> <br>2017-06-21 00:46<br>赞(7) 踩(0) | <div>原来，只有他的声音，在时隔这么多年之后，可以让我一听到便潸然落泪&amp;hellip;&amp;hellip;他，承载了我的整个青春，充满了我所有的回忆。在那些或悲或喜的日子里，在那些爱过、恨过、疯狂过、嬉闹过的岁月中，他的声音一直陪伴着我，带给我慰藉、温暖和安宁。<br>谢谢你，小熊先生，再一次带我重回年少时光。我那终究不会再重来的青春，会永远铭心刻骨，如同你的声音一般，在我心里，隽永不朽&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241284377)<br> <br>2017-06-20 00:59<br>赞(2) 踩(0) | <div>金曲捞来的！这首太好听了！这节目真好！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266585195)<br>寻找熊天平的真爱粉<br>2017-06-20 04:01<br>赞(0) 踩(0) | <div>我们小熊歌迷会吧 <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20824768)<br>笑靥如花，做个明媚的女子...<br>2017-06-19 21:42<br>赞(0) 踩(0) | <div>在喧嚣的世界，安静的爱！</div> |
@@ -109,7 +109,7 @@ I Wish You Can Fly Don't Close Your Eyes 你还拥有我的爱<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23500690)<br><br>2013-10-10 22:17<br>赞(0) 踩(0) | <div>读书时最喜欢的歌手，声音多么的干净！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240585523)<br> <br>2016-11-14 09:32<br>赞(0) 踩(0) | <div>现在依然是我最爱的歌手！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266585195)<br>寻找熊天平的真爱粉<br>2017-06-20 04:00<br>赞(0) 踩(0) | <div>来我们小熊歌迷会吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/541356)<br><br>2011-08-31 15:26<br>赞(1) 踩(0) | <div>不再去猜上天的安排先受困再给真爱你受尽的苦我用爱弥补让我陪你共度</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/541356)<br><br>2011-08-31 15:26<br>赞(1) 踩(0) | <div>不再去猜<br>上天的安排<br>先受困再给真爱<br>你受尽的苦<br>我用爱弥补<br>让我陪你共度</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2661425)<br><br>2011-08-23 11:16<br>赞(0) 踩(0) | <div>@小胖猫圈圈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2661425)<br><br>2011-08-23 11:16<br>赞(0) 踩(0) | <div>@小胖猫圈圈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3742018)<br><br>2011-05-03 13:04<br>赞(0) 踩(0) | <div>喜欢这样慢慢的情歌</div> |

@@ -43,8 +43,8 @@ ride on see you<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151092)<br><br>2015-09-08 23:47<br>赞(1) 踩(0) | <div>明显比04版有股阴暗气质，如果现在再唱会是什么味道，期待ing</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3680257)<br><br>2015-06-18 00:35<br>赞(1) 踩(0) | <div>但是最喜欢的还是2004版本的哦，那个版本马头琴配曲很是激昂！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6247097)<br>我的耳朵已娶音乐为妻<br>2015-06-12 14:15<br>赞(0) 踩(0) | <div>翻唱自Phil Coulter的Ride On： <a href="http://www.xiami.com/song/1419682?spm=a1z1s.6659513.0.0.qbP6lz" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1419682?spm=a1z1s.6659513.0.0.qbP6lz</a></div> |
@@ -55,7 +55,7 @@ ride on see you<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30621939)<br>我在金华 下雨<br>2014-11-09 21:42<br>赞(0) 踩(0) | <div>送你一匹马。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30621939)<br>我在金华 下雨<br>2014-11-08 17:04<br>赞(0) 踩(0) | <div>送你一匹马。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30621939)<br>我在金华 下雨<br>2014-11-04 23:03<br>赞(0) 踩(0) | <div>送你一匹马</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-09-28 17:29<br>赞(0) 踩(0) | <div>想起了CLUB8.28676，57,27</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-09-28 17:29<br>赞(0) 踩(0) | <div>想起了CLUB8.<br>28676，57,27</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38842630)<br><br>2014-08-18 13:21<br>赞(0) 踩(0) | <div>~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12053335)<br>做好自己 过好生活<br>2014-08-16 11:37<br>赞(0) 踩(0) | <div>喜欢就放肆，但爱要克制。摩羯代表曲目</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12053335)<br>做好自己 过好生活<br>2014-08-16 11:36<br>赞(0) 踩(0) | <div>喜欢就放肆，但爱要克制。摩羯代表曲目</div> |
@@ -76,9 +76,9 @@ ride on see you<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4007522)<br><br>2012-05-18 11:31<br>赞(0) 踩(0) | <div>@Berialcat</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5563302)<br><br>2012-05-15 17:54<br>赞(0) 踩(0) | <div>这个版本的情绪才对</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7033312)<br>盡享音樂生活<br>2012-03-09 04:27<br>赞(0) 踩(0) | <div>自己比较喜欢另一个版本 ——美丽骏马 @朱婧 不知道你是否一样</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/863037)<br><br>2012-03-02 15:31<br>赞(0) 踩(0) | <div>你骑着我从未见过的美丽骏马狂野而成熟的眼睛抓住了我的心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/863037)<br><br>2012-03-02 15:31<br>赞(0) 踩(0) | <div>你骑着我从未见过的美丽骏马<br>狂野而成熟的眼睛抓住了我的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211273)<br>再见虾米！迷失的人网易云...<br>2010-09-13 09:05<br>赞(0) 踩(0) | <div>翻唱的还不错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1334109)<br><br>2010-08-27 19:45<br>赞(0) 踩(0) | <div>美丽骏马----朱婧制作：那那 qq：285905927欢迎访问朱婧的blog<a href="http://blog.sina.com.cn/u/1220606803" target="_blank" rel="nofollow noreferrer noopener">http://blog.sina.com.cn/u/1220606803</a>《香格里拉》《小河淌水》两首可以下载来听 极有民族味道你骑着我从未见过的美丽骏马狂野而成熟的眼睛抓住了我的心你轻熟的驾驭马匹带着我的热情和可以触及的光明沿着未来的路奔跑ride on see you我不会跟你走不管心中有多渴望ride on see you我不会跟你走不管心中有多渴望当你消失在黑暗中没有回忆背后那点亮黑夜的火星是我的泪滴在世界的边际我感到孤寂可我不是你的另一个世界当我看到你的眼睛ride on see you我不会跟你走不管心中有多么渴望ride on see you我不会跟你走不管心中有多渴望ride on see you我不会跟你走不管心中有多渴望虾米网www.xiami.com</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1334109)<br><br>2010-08-27 19:45<br>赞(0) 踩(0) | <div>美丽骏马----朱婧<br>制作：那那 qq：285905927<br>欢迎访问朱婧的blog<br><a href="http://blog.sina.com.cn/u/1220606803" target="_blank" rel="nofollow noreferrer noopener">http://blog.sina.com.cn/u/1220606803</a><br>《香格里拉》《小河淌水》两首可以下载来听 极有民族味道<br><br>你骑着我从未见过的美丽骏马<br>狂野而成熟的眼睛抓住了我的心<br>你轻熟的驾驭马匹带着我的热情<br>和可以触及的光明沿着未来的路奔跑<br>ride on see you<br>我不会跟你走不管心中有多渴望<br>ride on see you<br>我不会跟你走不管心中有多渴望<br>当你消失在黑暗中没有回忆背后<br>那点亮黑夜的火星是我的泪滴<br>在世界的边际我感到孤寂<br>可我不是你的另一个世界<br>当我看到你的眼睛<br>ride on see you<br>我不会跟你走不管心中有多么渴望<br>ride on see you<br>我不会跟你走不管心中有多渴望<br>ride on see you<br>我不会跟你走不管心中有多渴望<br>虾米网www.xiami.com</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/546972)<br><br>2009-12-02 03:14<br>赞(0) 踩(0) | <div>美及了`~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/546972)<br><br>2009-12-02 03:13<br>赞(1) 踩(0) | <div>比这个歌曲的原版好听N倍。。。听这首歌让我感到了在宇宙漂浮的过程。。。真的很美~~~~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3680257)<br><br>2015-06-18 00:33<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png">我也这么认为！比原唱赞多了…感情处理的非常隐忍…</div> |

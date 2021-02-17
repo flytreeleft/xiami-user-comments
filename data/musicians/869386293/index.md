@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4db45fa714925eb3adfc0bc70fd76f9c.jpg)<br>艾岩](https://i.xiami.com/aiyan) | **播放数**: 650590<br>**粉丝数**: 27<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 民谣摇滚 Folk Rock<br> |
+| [![](../../images/musicians/4db45fa714925eb3adfc0bc70fd76f9c.jpg)<br>艾岩](https://i.xiami.com/aiyan) | **地区**: China 中国大陆<br>**风格**: 民谣摇滚 Folk Rock<br>**播放数**: 650590<br>**粉丝数**: 27<br>**评论数**: 8<br> |
 
 ## 档案
 
@@ -20,8 +20,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440992634)<br>糖糖糖...<br>2020-03-02 21:04<br>赞(0) 踩(0) | <div>很好听 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273054335)<br>粉丝是什么鬼，好好的唱歌...<br>2017-06-16 07:13<br>赞(1) 踩(0) | <div>花椒里偶然听到你的声音，是通过我的爱人分享。支持你！很喜欢你的声音你的歌，初次听就感觉似曾听过，熟悉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46280624)<br><br>2015-01-20 19:05<br>赞(0) 踩(0) | <div>赞个</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2bf6cffe2377ee47a80949c5e3a64488.jpg)<br>养鸡YoungG](https://i.xiami.com/youngg) | **播放数**: 390483<br>**粉丝数**: 3609<br>**评论数**: 260<br>**地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/2bf6cffe2377ee47a80949c5e3a64488.jpg)<br>养鸡YoungG](https://i.xiami.com/youngg) | **地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 390483<br>**粉丝数**: 3609<br>**评论数**: 260<br> |
 
 ## 档案
 
@@ -35,8 +35,8 @@ YoungG，本名张航，1991年2月6日出生于重庆市，中国内地流行�
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3140019)<br>天马行空<br>2019-06-10 00:30<br>赞(0) 踩(0) | <div>we～难听恐怖</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402775524)<br><br>2018-08-31 06:50<br>赞(0) 踩(0) | <div>加油YoungG</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400358584)<br><br>2018-08-05 12:57<br>赞(0) 踩(0) | <div>酷</div> |
@@ -79,7 +79,7 @@ YoungG，本名张航，1991年2月6日出生于重庆市，中国内地流行�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299181135)<br>我还没想好要写什么...<br>2017-09-04 18:45<br>赞(0) 踩(0) | <div>帅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323176274)<br> <br>2017-09-03 18:19<br>赞(0) 踩(0) | <div>单人我最爱养鸡⋯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323176274)<br> <br>2017-09-03 18:10<br>赞(3) 踩(0) | <div>养鸡你是我心中的冠军</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319034845)<br><br>2017-09-03 10:10<br>赞(0) 踩(0) | <div>谁给我一张养鸡的照片</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319034845)<br><br>2017-09-03 10:10<br>赞(0) 踩(0) | <div>谁给我一张<br>养鸡<br>的照片</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291887286)<br><br>2017-09-02 22:03<br>赞(0) 踩(0) | <div>加油呦小哥哥喜欢你的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323011615)<br><br>2017-09-02 20:37<br>赞(1) 踩(0) | <div>鸡哥加油！未来虽迷茫，但一路有KOOL！爱你[比心]！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246775770)<br><br>2017-09-02 09:17<br>赞(0) 踩(0) | <div>加油↖(^&amp;omega;^)↗</div> |
@@ -129,12 +129,12 @@ YoungG，本名张航，1991年2月6日出生于重庆市，中国内地流行�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271487809)<br>用歌消遣<br>2017-08-17 13:56<br>赞(0) 踩(0) | <div>喜欢你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271487809)<br>用歌消遣<br>2017-08-17 13:56<br>赞(0) 踩(0) | <div>爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271487809)<br>用歌消遣<br>2017-08-17 13:55<br>赞(2) 踩(0) | <div>没有什么单一不单一，你会的他们不会，我喜欢的是你，就喜欢你的风格，喜欢你的电音，加油，养鸡爱你 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318796425)<br><br>2017-08-16 23:56<br>赞(1) 踩(0) | <div>养鸡哥哥超级棒的支持你耶嘿余生只有养鸡小哥哥and志龙欧巴</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318796425)<br><br>2017-08-16 23:56<br>赞(1) 踩(0) | <div>养鸡哥哥超级棒的支持你耶嘿<br>余生只有养鸡小哥哥and志龙欧巴</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70302572)<br>今野友加里<br>2017-08-16 22:09<br>赞(2) 踩(0) | <div>哇哦  我养鸡炫酷到爆炸 [文字cool]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317746557)<br><br>2017-08-15 23:13<br>赞(3) 踩(0) | <div>我家鸡哥太帅了，唱的真是太棒了，，手动鼓掌，好听到炸啊，耳朵怀孕了啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307726586)<br><br>2017-08-15 00:15<br>赞(1) 踩(0) | <div>现场气氛肯定爆了&amp;hellip;超级赞&amp;hellip;被圈粉了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271487809)<br>用歌消遣<br>2017-08-14 23:29<br>赞(1) 踩(0) | <div>好好唱，你很棒，加油，永远支持你，做你想做的 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319207176)<br><br>2017-08-13 22:40<br>赞(2) 踩(0) | <div>你說的一句話很好，不做萬人迷，只做养鸡你有句話說的好，不做萬人迷，养鸡，只做养鸡就喜欢你这么有个性，不管别人对你什么看法，我永远支持你，哪怕没有一个人喜欢你了，请记住你还有我，永远爱你</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319207176)<br><br>2017-08-13 22:40<br>赞(2) 踩(0) | <div>你說的一句話很好，不做萬人迷，只做养鸡<br>你有句話說的好，不做萬人迷，养鸡，只做养鸡就喜欢你这么有个性，不管别人对你什么看法，我永远支持你，哪怕没有一个人喜欢你了，请记住你还有我，永远爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318931522)<br><br>2017-08-13 14:21<br>赞(2) 踩(0) | <div>养鸡٩۹(๑&amp;bull;̀&amp;omega;&amp;bull;́&amp;nbsp;๑)۶加油！加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318931522)<br><br>2017-08-13 14:19<br>赞(2) 踩(0) | <div>养鸡，你一定要拿冠军。我为你加油！ <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319010926)<br><br>2017-08-13 00:56<br>赞(1) 踩(0) | <div>我们都会看着你走上冠军 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -156,7 +156,7 @@ YoungG，本名张航，1991年2月6日出生于重庆市，中国内地流行�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316217001)<br><br>2017-08-05 02:51<br>赞(1) 踩(0) | <div>养鸡最酷了。一定要准拿第一...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317330505)<br><br>2017-08-05 01:04<br>赞(0) 踩(0) | <div>加油 <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/316db64fc5b56f4587429737ff163940.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317330505)<br><br>2017-08-05 01:04<br>赞(0) 踩(0) | <div>鸡哥，在往上升点</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317053889)<br><br>2017-08-03 20:07<br>赞(3) 踩(0) | <div>他有的你没有，这就是个性并且鸡哥能被YG看中肯定是有他迷人的地方有些黑粉请自重</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317053889)<br><br>2017-08-03 20:07<br>赞(3) 踩(0) | <div>他有的你没有，这就是个性<br>并且鸡哥能被YG看中肯定是有他迷人的地方<br>有些黑粉请自重</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316532017)<br><br>2017-08-03 19:57<br>赞(0) 踩(0) | <div>加油，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316532017)<br><br>2017-08-03 16:43<br>赞(0) 踩(0) | <div>冠军非你莫属</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316792230)<br><br>2017-08-03 06:52<br>赞(1) 踩(0) | <div>养鸡一定会是冠军的 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -205,7 +205,7 @@ YoungG，本名张航，1991年2月6日出生于重庆市，中国内地流行�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2418238)<br>weibo: @尤米口<br>2017-07-07 18:08<br>赞(1) 踩(0) | <div>ღ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310205527)<br><br>2017-07-07 11:43<br>赞(2) 踩(0) | <div>后边不太喜欢吧，但是电音玩的很好啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261990021)<br><br>2017-07-06 18:08<br>赞(4) 踩(0) | <div>也太好看了吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44616282)<br>半熟期少女<br>2017-07-03 09:18<br>赞(4) 踩(0) | <div>养鸡只做养鸡但我希望他成为中国的GD ​​​</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44616282)<br>半熟期少女<br>2017-07-03 09:18<br>赞(4) 踩(0) | <div>养鸡只做养鸡<br>但我希望他成为中国的GD ​​​</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310710845)<br>养鸡<br>2017-07-08 19:39<br>赞(0) 踩(0) | <div>对❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297542100)<br><br>2017-07-02 23:42<br>赞(4) 踩(0) | <div>超喜欢你 有点GD的感觉</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310710845)<br>养鸡<br>2017-07-08 19:40<br>赞(0) 踩(0) | <div>但又有自己的个性！超爱养鸡</div> |
@@ -252,7 +252,7 @@ YoungG，本名张航，1991年2月6日出生于重庆市，中国内地流行�
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310710845)<br>养鸡<br>2017-07-08 19:44<br>赞(0) 踩(0) | <div>我也要养鸡养鸡养鸡养鸡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30300516)<br>RainComin<br>2017-04-27 01:03<br>赞(4) 踩(0) | <div>在湖南台综艺看到的 好奇来听听 真没想到是那么有才华的帅哥！我想我大概知道为什么养鸡不红了......</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244406488)<br>无人不冤，有情皆孽<br>2017-06-11 03:48<br>赞(0) 踩(0) | <div>[为什么呢？最近快男看到他</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287962553)<br><br>2017-04-12 00:35<br>赞(2) 踩(0) | <div>不做万人迷 只做养鸡kool只养你一人</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287962553)<br><br>2017-04-12 00:35<br>赞(2) 踩(0) | <div>不做万人迷 只做养鸡<br>kool只养你一人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102599350)<br>奋斗的青春，无需解释!<br>2017-02-05 13:07<br>赞(0) 踩(0) | <div><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258194779)<br> <br>2016-12-31 03:56<br>赞(4) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310710845)<br>养鸡<br>2017-07-08 19:45<br>赞(0) 踩(0) | <div>养鸡最棒</div> |

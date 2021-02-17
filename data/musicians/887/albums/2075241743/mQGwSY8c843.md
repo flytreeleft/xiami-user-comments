@@ -63,8 +63,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356518056)<br><br>2020-10-25 23:15<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343881578)<br><br>2020-08-17 23:16<br>赞(0) 踩(0) | <div>有点对岁月的怀念以前</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350806841)<br>懒人一坨<br>2019-06-12 00:05<br>赞(0) 踩(0) | <div>，</div> |
@@ -92,14 +92,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258175362)<br><br>2018-08-15 22:24<br>赞(0) 踩(0) | <div>没有其他的歌曲好听，还是旭日阳刚唱来更好吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357762697)<br>人世短暂，愿我们能活成自...<br>2018-08-14 20:26<br>赞(1) 踩(0) | <div>默默吃瓜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240087461)<br>不要飘太远，怕你回不来<br>2018-08-13 23:27<br>赞(1) 踩(0) | <div>同样一件衣服，放在专卖店和路边摊的感觉。可是有时我在路边摊买的穿起来反而帅气。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379806873)<br><br>2018-08-13 11:20<br>赞(0) 踩(0) | <div>v；z能 ...icm006690.0.97230.0！尸</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379806873)<br><br>2018-08-13 11:20<br>赞(0) 踩(0) | <div>v；z能 ...ic<br>m006690.0.97230.0！尸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25516859)<br>我还没想好要写什么...<br>2018-08-08 17:39<br>赞(0) 踩(0) | <div>哥喝点水吧，嗓子里的脓痰怕你唱着唱着呛到</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327794223)<br><br>2018-08-08 16:22<br>赞(0) 踩(0) | <div>绝对</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6799326)<br>我还没想好要写什么...<br>2018-08-07 22:08<br>赞(0) 踩(0) | <div>晚点再打给我！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61615636)<br><br>2018-08-07 14:42<br>赞(4) 踩(0) | <div>音乐，有时候打动人们内心的，真的不是所谓的唱功。旭日阳刚这一点做到了，就事论事，以前真的都不听汪峰的歌现在也一样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374596626)<br><br>2018-08-03 16:50<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322248803)<br>小孩子都说实话  我已经...<br>2018-08-02 13:22<br>赞(0) 踩(0) | <div>我们到此为止，我收收我的深情，你止止你的厌烦.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355399653)<br>丧<br>2018-07-31 12:43<br>赞(1) 踩(0) | <div>从头条过来，在qq找到旭日的听了对比。不谈声音唱功啥的，，，汪的怎么听，都比旭日那感觉没踩到点、拼命去跟伴奏的好很多。why？再怎样汪的听着是正常的音乐。，，，</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355399653)<br>丧<br>2018-07-31 12:43<br>赞(1) 踩(0) | <div>从头条过来，在qq找到旭日的听了对比。<br>不谈声音唱功啥的，，，汪的怎么听，都比旭日那感觉没踩到点、拼命去跟伴奏的好很多。why？<br><br>再怎样汪的听着是正常的音乐。，，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334427385)<br><br>2018-07-25 16:19<br>赞(0) 踩(0) | <div>死神来了，万物生灵涂炭。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340160152)<br>笑而不语是一种成长，痛而...<br>2018-07-18 22:10<br>赞(0) 踩(0) | <div>。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182920846)<br>放松<br>2018-07-16 00:36<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">好听</div> |
@@ -135,7 +135,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354845425)<br><br>2018-06-05 20:03<br>赞(1) 踩(0) | <div>春天里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318617)<br><br>2018-06-05 18:41<br>赞(1) 踩(0) | <div>挺好听的啊，不知道和旭日阳刚怎么样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289817427)<br><br>2018-06-05 18:27<br>赞(1) 踩(0) | <div>旭日阳刚把这首唱火的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352203394)<br>清晨醒来了听听歌曲，舒畅...<br>2018-06-02 14:22<br>赞(4) 踩(0) | <div>我选择善良，不是我懦弱。因为我明白，善良是本性，做人不能恶，恶必遭报应。我选择忍让，不是我退缩。因为我明白，忍一忍风平浪静，让一让天高海阔。我选择宽容，不是我怯懦。因为我明白，宽容是美德，美德没有错。我选择糊涂，不是我真的糊涂。面对误解委屈和不公正，只是不愿计较，从而大度应对，难得糊涂，笑看世态。我选择真诚，我有话就直说。因为我明白，违心奉承是应付，忠言逆耳是负责。我选择饶恕，不是我没原则。因为我明白，得饶人时且饶人，不能把事做绝了。我重情义，不是我太执着。因为我总是想着与朋友们相处的美好时光，割舍不了那份难得的缘分和情谊，不应该！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352203394)<br>清晨醒来了听听歌曲，舒畅...<br>2018-06-02 14:22<br>赞(4) 踩(0) | <div>我选择善良，不是我懦弱。<br>因为我明白，善良是本性，做人不能恶，恶必遭报应。<br><br>我选择忍让，不是我退缩。<br>因为我明白，忍一忍风平浪静，让一让天高海阔。<br><br>我选择宽容，不是我怯懦。<br>因为我明白，宽容是美德，美德没有错。<br><br>我选择糊涂，不是我真的糊涂。<br>面对误解委屈和不公正，只是不愿计较，<br>从而大度应对，难得糊涂，笑看世态。<br><br>我选择真诚，我有话就直说。<br>因为我明白，违心奉承是应付，忠言逆耳是负责。<br><br>我选择饶恕，不是我没原则。<br>因为我明白，得饶人时且饶人，不能把事做绝了。<br><br>我重情义，不是我太执着。<br>因为我总是想着与朋友们相处的美好时光，<br>割舍不了那份难得的缘分和情谊，<br>不应该！！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312012518)<br>月明如素愁不眠<br>2018-06-27 17:18<br>赞(0) 踩(0) | <div>真假不论，狗屁不通</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335724461)<br><br>2018-06-01 20:43<br>赞(0) 踩(0) | <div>Ht</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319900709)<br>我还没想好要写什么...<br>2018-05-30 19:58<br>赞(1) 踩(0) | <div>我又失恋了</div> |
@@ -174,7 +174,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48046587)<br>音乐无处不在！<br>2018-03-31 11:01<br>赞(0) 踩(0) | <div>我总是无法像老汪这样喉咙里有痰还能唱上去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36223283)<br><br>2018-03-28 09:54<br>赞(2) 踩(0) | <div>很有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334260860)<br>云海生波心作浪 雾里看花...<br>2018-03-28 00:09<br>赞(0) 踩(0) | <div>&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164271036)<br><br>2018-03-27 16:44<br>赞(4) 踩(0) | <div>汪峰的确是有才。技巧好我还是喜欢听旭日阳刚唱的，有感情，汪峰歇斯底里的唱法欣赏不来，</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164271036)<br><br>2018-03-27 16:44<br>赞(4) 踩(0) | <div>汪峰的确是有才。技巧好<br>我还是喜欢听旭日阳刚唱的，有感情，<br>汪峰歇斯底里的唱法欣赏不来，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283833613)<br><br>2018-03-27 12:46<br>赞(1) 踩(0) | <div>汪峰事个有才的歌手，写的歌曲都很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87702646)<br>从前从前有个人爱你很久<br>2018-03-26 22:23<br>赞(3) 踩(0) | <div>2010年2月初的某一天，一个少年16岁离开了家。就是听着这首歌。那时候感觉迎接他的就是一个全新的世界。时光荏苒，岁月如梭，我已不是当初的少年，却还在追寻着自己的春天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278977178)<br>行到水穷处 坐看云起时<br>2018-03-26 16:27<br>赞(3) 踩(0) | <div>还是原唱好听，自己写得，情感发音还是自己最了解，支持汪峰才子 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -299,7 +299,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310484135)<br><br>2018-02-26 07:52<br>赞(0) 踩(0) | <div><q><b>介似嘛意思说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16110522)<br><br>2018-06-25 21:45<br>赞(0) 踩(0) | <div>评论牛逼</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314613881)<br><br>2018-10-01 10:58<br>赞(0) 踩(0) | <div>一个敢说话的人，我欣赏</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327237264)<br><br>2017-10-14 18:43<br>赞(0) 踩(0) | <div>ah:帅吊了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327237264)<br><br>2017-10-14 18:43<br>赞(0) 踩(0) | <div>ah<br>:<br><br><br>帅吊了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330142128)<br><br>2017-10-14 18:09<br>赞(0) 踩(0) | <div>这个斯亚的声音怎样发出来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23968204)<br><br>2017-10-10 00:24<br>赞(1) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262077311)<br>缓缓音乐响起心底暗流涌动...<br>2017-10-01 09:19<br>赞(199) 踩(0) | <div>只能说汪峰有才，旭日唱的更有味道！</div> |

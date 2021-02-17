@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6591c8f0a9209838a3578d111effaf73.jpg)<br>彭力](https://i.xiami.com/pengli) | **播放数**: 718812<br>**粉丝数**: 1854<br>**评论数**: 12<br>**地区**: China 中国大陆<br>**风格**: <br> |
+| [![](../../images/musicians/6591c8f0a9209838a3578d111effaf73.jpg)<br>彭力](https://i.xiami.com/pengli) | **地区**: China 中国大陆<br>**风格**: <br>**播放数**: 718812<br>**粉丝数**: 1854<br>**评论数**: 12<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419993008)<br><br>2020-12-14 05:27<br>赞(0) 踩(0) | <div>支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319688150)<br>愿经典不被遗忘<br>2020-11-08 02:11<br>赞(0) 踩(0) | <div><img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290628911)<br><br>2020-08-09 18:23<br>赞(0) 踩(0) | <div>期待多點以回味經典的形式，多點介紹經典歌曲。</div> |

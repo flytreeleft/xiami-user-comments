@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272686445)<br><br>2017-02-11 17:24<br>赞(0) 踩(0) | <div>为何我购买了还是无法购买</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272686445)<br><br>2017-02-11 17:23<br>赞(0) 踩(0) | <div>购买了怎么下载</div> |

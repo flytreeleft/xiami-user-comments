@@ -42,8 +42,8 @@ ISRC CN-A23-04-66310
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9443654)<br>暂无签名~<br>2016-04-17 23:56<br>赞(0) 踩(0) | <div>上大学的时候，几乎每个周五的下午我都会在广播站播放这首歌。后来还推荐到了岷江音乐《非常太好听》。一晃毕业都两年了。 <img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5778975)<br>灵魂爵士迷幻<br>2016-01-14 11:50<br>赞(0) 踩(0) | <div>谁没年轻过，留下的都是年轻时创造的美好。看到不再年轻的满江有那么点伤感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1167270)<br>暂无签名~<br>2011-09-10 16:28<br>赞(0) 踩(0) | <div>五年来变化最少的是耳朵</div> |

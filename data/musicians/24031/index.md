@@ -3,7 +3,7 @@ Joshua Radin
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1a174c13277b3d9e69e7c7182621fb45.jpg)<br>Joshua Radin](https://i.xiami.com/joshuaradinpost) | **播放数**: 24977630<br>**粉丝数**: 23886<br>**评论数**: 806<br>**地区**: United States of America 美国<br>**风格**: 根源唱作人 Singer-Songwriter, 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/1a174c13277b3d9e69e7c7182621fb45.jpg)<br>Joshua Radin](https://i.xiami.com/joshuaradinpost) | **地区**: United States of America 美国<br>**风格**: 根源唱作人 Singer-Songwriter, 独立民谣 Indie Folk<br>**播放数**: 24977630<br>**粉丝数**: 23886<br>**评论数**: 806<br> |
 
 ## 档案
 
@@ -78,8 +78,8 @@ Joshua Radin's released a sixth studio album on January 6, 2015. The album consi
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-05-14 23:07<br>赞(0) 踩(0) | <div><img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36380638)<br> <br>2019-11-09 13:16<br>赞(0) 踩(0) | <div>真的好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410561637)<br>我还没想好要写什么...<br>2019-09-03 22:08<br>赞(1) 踩(0) | <div>本来边走边听，突然听到my my love 整个人突然就被唤醒了，太美了，停下脚步，单曲循环中。</div> |
@@ -94,7 +94,7 @@ Joshua Radin's released a sixth studio album on January 6, 2015. The album consi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44597695)<br>暂无签名~<br>2019-01-06 21:34<br>赞(1) 踩(0) | <div>挖到一个大鸭蛋</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343203866)<br>我还没想好要写什么...<br>2018-11-14 18:15<br>赞(0) 踩(0) | <div>想嫁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2018-09-25 09:13<br>赞(0) 踩(0) | <div>.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-09-08 12:39<br>赞(0) 踩(0) | <div>安静好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-09-08 12:39<br>赞(0) 踩(0) | <div>安静<br>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21164070)<br>一沙一世界 一花一天堂 ...<br>2018-08-08 14:45<br>赞(1) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26182552)<br><br>2018-07-13 10:11<br>赞(0) 踩(0) | <div>好！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339191478)<br> <br>2018-06-05 07:04<br>赞(1) 踩(0) | <div>:-)</div> |
@@ -111,7 +111,7 @@ Joshua Radin's released a sixth studio album on January 6, 2015. The album consi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72663342)<br>then go and ...<br>2018-04-18 12:58<br>赞(0) 踩(0) | <div>惊！为什么不来大西北玩一趟啊 <img src="../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10264971)<br>Hard candy.<br>2018-03-31 23:50<br>赞(0) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3076862)<br>Keep walking<br>2018-04-24 07:22<br>赞(0) 踩(0) | <div>约约约</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3788485)<br>我还没想好要写什么...<br>2018-03-21 10:46<br>赞(2) 踩(0) | <div>剛在ins上看到了2018中國巡演安排！5.4 上海 MAO5.5 杭州 MAO5.6 北京 OMNI5.9 武漢 VOX5.11 廣州 MAO5.12 深圳 B10要去看上海場！ <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3788485)<br>我还没想好要写什么...<br>2018-03-21 10:46<br>赞(2) 踩(0) | <div>剛在ins上看到了2018中國巡演安排！<br>5.4 上海 MAO<br>5.5 杭州 MAO<br>5.6 北京 OMNI<br>5.9 武漢 VOX<br>5.11 廣州 MAO<br>5.12 深圳 B10<br><br>要去看上海場！ <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5847985)<br><br>2018-03-21 09:20<br>赞(0) 踩(0) | <div>5-12深圳场组队！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348926413)<br><br>2018-03-17 15:21<br>赞(1) 踩(0) | <div>自从在柴扉听过他的angels就无法自拔 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322493118)<br>喜欢啊就跑着去追好了!<br>2018-02-24 00:31<br>赞(1) 踩(0) | <div>我一直找一直找，终于在虾米找到你，还好我找到了你，不然错过多可惜呀。 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png">[文字cool][文字up]</div> |
@@ -187,7 +187,7 @@ Joshua Radin's released a sixth studio album on January 6, 2015. The album consi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2152607)<br><br>2015-06-16 20:04<br>赞(0) 踩(0) | <div>slow</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12171976)<br>我还没想好要写什么...<br>2015-06-09 17:19<br>赞(0) 踩(0) | <div>音色与张杰神一致</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10547530)<br>生于白昼，隐与黑夜。<br>2015-05-29 21:22<br>赞(0) 踩(0) | <div>温暖由内而外。真好，听起来就像推开了一扇窗子，窗外是满世界的阳光。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4388599)<br>一點孤獨品嘗一點寂寞。<br>2015-05-26 14:08<br>赞(2) 踩(0) | <div>别让我安静下来，这样的状态会让我感觉随时会死掉。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4388599)<br>一點孤獨品嘗一點寂寞。<br>2015-05-26 14:08<br>赞(2) 踩(0) | <div>别让我安静下来，<br><br>这样的状态会让我感觉随时会死掉。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50335867)<br> <br>2015-05-25 21:28<br>赞(0) 踩(0) | <div>很久以前从电影Nanny Diaries(保姆日记)找到了插曲closer，一直喜欢这部电影，和他。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10983386)<br>瘦子 朝夕奔梦<br>2015-05-19 10:29<br>赞(0) 踩(0) | <div>喜欢这把嗓子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13552)<br><br>2015-05-18 08:40<br>赞(0) 踩(0) | <div>***</div> |
@@ -268,7 +268,7 @@ Joshua Radin's released a sixth studio album on January 6, 2015. The album consi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31418010)<br> <br>2014-04-23 20:10<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4282932)<br><br>2014-04-23 09:16<br>赞(0) 踩(0) | <div>原来是你。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11486059)<br><br>2014-04-22 23:22<br>赞(0) 踩(0) | <div>好听~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1958939)<br><br>2014-04-20 21:09<br>赞(0) 踩(0) | <div>很适合晚上听民谣 舒服 真实 很像秋天的落叶 回归的感觉</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1958939)<br><br>2014-04-20 21:09<br>赞(0) 踩(0) | <div>很适合晚上听<br><br>民谣 舒服 真实 很像秋天的落叶 回归的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12222526)<br><br>2014-04-17 16:17<br>赞(0) 踩(0) | <div>安静，舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7265317)<br><br>2014-04-16 21:57<br>赞(1) 踩(0) | <div>这么有磁性的声音真的大丈夫么！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35297892)<br><br>2014-04-14 12:16<br>赞(0) 踩(0) | <div>吉他 诉说的嗓音</div> |
@@ -379,7 +379,7 @@ Joshua Radin's released a sixth studio album on January 6, 2015. The album consi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16446954)<br><br>2013-06-27 15:57<br>赞(0) 踩(0) | <div>放松</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16086162)<br><br>2013-06-18 12:57<br>赞(0) 踩(0) | <div>就喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8015969)<br>听好歌<br>2013-06-13 16:53<br>赞(0) 踩(0) | <div>真好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-06-12 05:04<br>赞(0) 踩(0) | <div>美国独立清新男声1588756,13176,510</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-06-12 05:04<br>赞(0) 踩(0) | <div>美国独立清新男声<br>1588756,13176,510</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15971218)<br>我还没想好要写什么...<br>2013-06-11 13:26<br>赞(0) 踩(0) | <div>喜欢他的编曲风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15903114)<br><br>2013-06-08 00:57<br>赞(0) 踩(0) | <div>就是喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5906394)<br>MUSIC IS ALL<br>2013-06-03 23:10<br>赞(0) 踩(0) | <div>喜欢他的声音</div> |
@@ -437,7 +437,7 @@ Joshua Radin's released a sixth studio album on January 6, 2015. The album consi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10741604)<br>啊哈哈<br>2012-12-20 17:43<br>赞(0) 踩(0) | <div>清新,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11954361)<br>差不多没人<br>2012-12-16 22:58<br>赞(0) 踩(0) | <div>....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9166116)<br><br>2012-12-14 10:51<br>赞(0) 踩(0) | <div>。。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3873836)<br><br>2012-12-13 20:05<br>赞(0) 踩(0) | <div>they bring me to youwho bring you to me?</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3873836)<br><br>2012-12-13 20:05<br>赞(0) 踩(0) | <div>they bring me to you<br>who bring you to me?</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5552765)<br><br>2012-12-13 03:38<br>赞(0) 踩(0) | <div>蛮好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11864528)<br><br>2012-12-12 21:54<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10902056)<br>音乐可以疗伤<br>2012-12-12 20:49<br>赞(0) 踩(0) | <div>Whisper</div> |
@@ -883,8 +883,8 @@ Joshua Radin's released a sixth studio album on January 6, 2015. The album consi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338035)<br><br>2010-10-17 15:00<br>赞(0) 踩(0) | <div>适合荡秋千的音乐。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987294)<br>暂无签名~<br>2010-10-09 00:30<br>赞(0) 踩(0) | <div>听过太多类似的风格，还是没办法免疫。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1081975)<br><br>2010-08-19 10:27<br>赞(0) 踩(0) | <div>有味道的大叔~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/552267)<br><br>2010-06-29 20:28<br>赞(0) 踩(0) | <div>he's awesome.his songs feels, like, a sunshine shining on a peaceful garden. it's like kinda quiet, peaceful and sweet.ive focused on him since id been done with Adam.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/552267)<br><br>2010-06-29 20:28<br>赞(0) 踩(0) | <div>he's awesome.<br><br>his songs feels, like, a sunshine shining on a peaceful garden. it's like kinda quiet, peaceful and sweet.<br><br>ive focused on him since id been done with Adam.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199757)<br><br>2010-06-27 16:34<br>赞(0) 踩(0) | <div>大爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759162)<br>苏世独立 横而不流<br>2010-05-18 11:54<br>赞(0) 踩(0) | <div>小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/508044)<br><br>2010-04-23 20:57<br>赞(0) 踩(0) | <div>very nice=]</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336196)<br>暂无签名~<br>2010-03-22 14:37<br>赞(0) 踩(0) | <div>好听的温情调调唱着希望与美好</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336196)<br>暂无签名~<br>2010-03-22 14:37<br>赞(0) 踩(0) | <div>好听的温情调调<br>唱着希望与美好</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/440b9d8a37864eeba7669b95dc61c27d.png)<br>安逸](https://i.xiami.com/eanyi) | **播放数**: 705557<br>**粉丝数**: 84<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap, 流行 Pop, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/440b9d8a37864eeba7669b95dc61c27d.png)<br>安逸](https://i.xiami.com/eanyi) | **地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap, 流行 Pop, 轻音乐 Easy Listening<br>**播放数**: 705557<br>**粉丝数**: 84<br>**评论数**: 6<br> |
 
 ## 档案
 
@@ -28,8 +28,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4487129)<br><br>2020-03-04 09:34<br>赞(0) 踩(0) | <div>！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285703616)<br><br>2019-07-06 23:34<br>赞(0) 踩(0) | <div>别人16年写的歌，你17年把歌词拿掉就说是自己的，已经举报了，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328867160)<br>你一直都是我心中不可触碰...<br>2019-06-14 06:44<br>赞(0) 踩(0) | <div>表白 <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |

@@ -42,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25069577)<br>清醒时做事，动怒时睡觉，...<br>2017-09-19 09:36<br>赞(0) 踩(0) | <div>听了几个版本，包括原版童安格，感觉还是侃侃唱的好听！无论编曲，人声都配合得很好。 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">好听！.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41162892)<br>听听回忆的声音<br>2016-11-01 00:43<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15368368)<br>一路有你<br>2016-08-09 22:52<br>赞(0) 踩(0) | <div>难得的烟嗓 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |

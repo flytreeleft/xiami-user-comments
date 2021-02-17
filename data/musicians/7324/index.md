@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f2e9907100e6fab57b446a198e186ce3.jpg)<br>曹轩宾](https://i.xiami.com/shanebin) | **播放数**: 14020340<br>**粉丝数**: 9656<br>**评论数**: 347<br>**地区**: China 中国大陆<br>**风格**: 根源唱作人 Singer-Songwriter, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/f2e9907100e6fab57b446a198e186ce3.jpg)<br>曹轩宾](https://i.xiami.com/shanebin) | **地区**: China 中国大陆<br>**风格**: 根源唱作人 Singer-Songwriter, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 14020340<br>**粉丝数**: 9656<br>**评论数**: 347<br> |
 
 ## 档案
 
@@ -93,8 +93,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2019-11-09 20:13<br>赞(1) 踩(0) | <div>知道他是他和大家一起送给王力宏的《爱因为在心中》 再听的时候就是《可惜不是你》 很走心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49652035)<br><br>2019-07-21 12:22<br>赞(0) 踩(0) | <div>你的歌就是听一首喜欢一首啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413708090)<br><br>2019-01-28 10:29<br>赞(0) 踩(0) | <div>我男神好厉害 ～来虾米看看你</div> |
@@ -114,7 +114,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/773755)<br><br>2017-12-02 20:59<br>赞(0) 踩(0) | <div>他做的曲，幕后走向台前。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2527832)<br>超越生命 解放自由<br>2017-10-24 16:20<br>赞(0) 踩(0) | <div>这个人就没了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297923774)<br><br>2017-09-25 03:30<br>赞(0) 踩(0) | <div>第一次就被歌詞吸引。介紹給老公聽。後來姐妹都下載了。幾年了到現在一直聽。希望你有新作品</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7008104)<br> <br>2017-09-16 20:25<br>赞(1) 踩(0) | <div>可惜不是你一朝芳草碧连天爱因为在心中风声That&amp;#39;s all</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7008104)<br> <br>2017-09-16 20:25<br>赞(1) 踩(0) | <div>可惜不是你<br>一朝芳草碧连天<br>爱因为在心中<br>风声<br><br>That&amp;#39;s all</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40473356)<br>早点睡觉比啥都强<br>2017-08-26 07:42<br>赞(0) 踩(0) | <div>很喜欢你，gay里gay气。；）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52853129)<br>最爱BIGBANG<br>2017-07-29 22:30<br>赞(1) 踩(0) | <div>小猪罗志祥也有一首歌是曹轩宾写的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52853129)<br>最爱BIGBANG<br>2017-07-29 22:28<br>赞(2) 踩(0) | <div>《可惜不是你》的原作。</div> |
@@ -132,7 +132,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38702874)<br> <br>2018-03-03 21:15<br>赞(0) 踩(0) | <div>你的音色太好听了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327387630)<br>再见 再见<br>2018-06-15 01:55<br>赞(0) 踩(0) | <div>最喜欢你的（You Are So Beautiful)但听不了！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375356911)<br><br>2018-07-10 20:36<br>赞(0) 踩(0) | <div>不忘初心，坚持对音乐的追求，继续前行，创作更经典的歌曲。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15986466)<br>你长大了，学会不说话了。<br>2016-08-18 18:44<br>赞(0) 踩(0) | <div>曹轩宾，大声告诉我，你的眉毛怎么了………</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15986466)<br>你长大了，学会不说话了。<br>2016-08-18 18:44<br>赞(0) 踩(0) | <div>曹轩宾，<br>大声告诉我，<br>你的眉毛怎么了………</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74639208)<br>Music is per...<br>2016-08-01 21:04<br>赞(1) 踩(0) | <div>你好，甄子丹</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122688364)<br>生在愤坑，长在赤圈；挣脱<br>2016-07-16 23:47<br>赞(0) 踩(0) | <div>1832</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73857918)<br>在黎明之前<br>2016-06-29 19:43<br>赞(0) 踩(0) | <div>竟然没有配角 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -181,7 +181,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1851561)<br><br>2014-02-23 21:33<br>赞(0) 踩(0) | <div>哥爱西安男娃。。。。。哈哈哈哈哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2135166)<br>上善若水. 无为而无不为<br>2014-02-23 12:10<br>赞(1) 踩(0) | <div>好喜欢他！旋律优美，实力创作歌喉太动人。他的“你不在北京”的后面就该跟着张靓颖的“终于等到你” :)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7733960)<br><br>2014-02-22 21:50<br>赞(0) 踩(0) | <div>我觉得只要歌好听，不干坏事，就行了。其他的花边新闻都不用在乎。难得有个我喜欢的男歌手</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/581269)<br><br>2014-02-22 00:52<br>赞(0) 踩(0) | <div>曹轩宾Shane;曹宇</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/581269)<br><br>2014-02-22 00:52<br>赞(0) 踩(0) | <div>曹轩宾<br>Shane;曹宇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6524678)<br>入骨子里的调调，也会忘了...<br>2013-12-18 12:39<br>赞(0) 踩(0) | <div>陕西人哦~~~才知道。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2817889)<br>我还没想好要写什么...<br>2013-12-11 21:01<br>赞(0) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248381611)<br><br>2017-01-08 17:41<br>赞(0) 踩(0) | <div>你TM算老几</div> |
@@ -203,7 +203,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1490317)<br><br>2013-09-04 22:14<br>赞(0) 踩(0) | <div>感动</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16737294)<br><br>2013-07-31 10:18<br>赞(0) 踩(0) | <div>是从心底发出的美妙音乐，支持你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1830692)<br><br>2013-06-10 00:19<br>赞(0) 踩(0) | <div>歌声传奇也是曹轩宾的传奇</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2919679)<br><br>2013-05-05 01:27<br>赞(0) 踩(0) | <div>有魅力啊~~~~聽他的歌很享受， 很喜歡他在歌声传奇里對歌曲的詮釋！！！不得不說內地人才濟濟！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2919679)<br><br>2013-05-05 01:27<br>赞(0) 踩(0) | <div>有魅力啊~~~~聽他的歌很享受， 很喜歡他在歌声传奇里對歌曲的詮釋！！！<br>不得不說內地人才濟濟！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13465263)<br>简单的<br>2013-03-10 22:21<br>赞(0) 踩(0) | <div>不解释</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13142105)<br>若水之春<br>2013-02-20 15:09<br>赞(0) 踩(0) | <div>绝对的实力歌手，从《歌声传奇》中认识的，可是13年就不上这个节目了，这个节目也没意思了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9536417)<br><br>2012-12-27 14:02<br>赞(0) 踩(0) | <div>有点沧桑</div> |
@@ -215,7 +215,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6513449)<br>不会被熟悉感蒙蔽而失去珍...<br>2014-01-08 19:36<br>赞(0) 踩(0) | <div>直到看见你这句话，我才知道是内地的。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205219)<br><br>2012-11-04 21:59<br>赞(0) 踩(0) | <div>酥麻，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8139928)<br><br>2012-11-04 18:50<br>赞(0) 踩(0) | <div>声音真好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522205)<br>一切很美，音為有你﹏<br>2012-10-04 10:30<br>赞(0) 踩(0) | <div>比关喆更有名气和实力的唱作音乐人偏爱之</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522205)<br>一切很美，音為有你﹏<br>2012-10-04 10:30<br>赞(0) 踩(0) | <div>比关喆更有名气和实力的唱作音乐人<br>偏爱之</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10231881)<br>天天UP~~!~~<br>2012-11-17 12:19<br>赞(0) 踩(0) | <div>出名后也比关喆比赛参加的多·~~！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522205)<br>一切很美，音為有你﹏<br>2012-11-19 21:41<br>赞(0) 踩(0) | <div><q><b>°R、ay梵s说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10231881)<br>天天UP~~!~~<br>2012-11-20 18:53<br>赞(0) 踩(0) | <div><q><b>然说：</b></q></div> |
@@ -254,7 +254,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1775931)<br><br>2012-05-18 08:29<br>赞(0) 踩(0) | <div>老婆喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374450)<br>GAME MAKER！！<br>2012-05-17 17:21<br>赞(0) 踩(0) | <div>当我不在你身边</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3814834)<br>别说你还好<br>2012-05-17 02:06<br>赞(0) 踩(0) | <div>男生 安静</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7865894)<br><br>2012-05-16 15:31<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/showcollect/id/11280003" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/showcollect/id/11280003</a>MV</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7865894)<br><br>2012-05-16 15:31<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/showcollect/id/11280003" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/showcollect/id/11280003</a><br><br>MV</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6048337)<br>はいはい。何もない。<br>2012-05-16 00:35<br>赞(0) 踩(0) | <div>有那么一点意思在啊。小子。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7248937)<br><br>2012-05-14 22:49<br>赞(0) 踩(0) | <div>令人感动的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2948533)<br><br>2012-05-14 15:27<br>赞(0) 踩(0) | <div>深情，苦情歌</div> |
@@ -429,7 +429,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4019580)<br><br>2011-05-22 00:23<br>赞(0) 踩(0) | <div>实力 纯实力｀｀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63744)<br><br>2011-05-20 22:17<br>赞(0) 踩(0) | <div>我们都一样</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1865161)<br>往后余生<br>2011-05-14 11:33<br>赞(0) 踩(0) | <div>最喜欢听这种清唱的啊....！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522205)<br>一切很美，音為有你﹏<br>2011-05-13 05:10<br>赞(0) 踩(0) | <div>非常欣赏的一位国内音乐制作人，可谓是首首经典当然，为别人写的就不怎么清楚了~-__-0</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522205)<br>一切很美，音為有你﹏<br>2011-05-13 05:10<br>赞(0) 踩(0) | <div>非常欣赏的一位国内音乐制作人，可谓是首首经典<br>当然，为别人写的就不怎么清楚了~<br><br>-__-0</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/747992)<br>暂无签名~<br>2011-05-12 18:01<br>赞(0) 踩(0) | <div>很有才华的歌手啊，只可惜没有那么多机会在幕前来唱歌，写的歌都很有情感，真实不华丽，支持~！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1425256)<br>随便说说，不要当真。<br>2011-05-06 22:41<br>赞(0) 踩(0) | <div>还是听韩庚的歌知道他，现在搜进来，才发现真的很厉害，这么多好歌都是他写的，很厉害的创作人……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3774498)<br><br>2011-05-06 15:39<br>赞(0) 踩(0) | <div>\'❤\' \'曹轩宾\' \'。\'</div> |
@@ -441,5 +441,5 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/959483)<br>我还没想好要写什么...<br>2010-09-20 17:42<br>赞(0) 踩(0) | <div>他跟张杰唱的~可惜不是你~太有感觉了~~~听的都不行了~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/986088)<br><br>2010-06-20 21:52<br>赞(0) 踩(0) | <div>才子！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338562)<br><br>2010-05-06 15:19<br>赞(0) 踩(0) | <div>爱因为在心中</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/580783)<br><br>2010-03-31 12:57<br>赞(0) 踩(0) | <div>灰常喜欢他，但是。。。曹轩宾怎么净一首一首的蹦啊  这几年听来听去还是这几首</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2009-11-28 22:48<br>赞(0) 踩(0) | <div>内地从来不缺人才，只是缺少发现人才的眼睛....可惜不是你自不必说，王力宏的爱因为在心中也不必说，对于曹轩宾，我只有拭目以待~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/580783)<br><br>2010-03-31 12:57<br>赞(0) 踩(0) | <div>灰常喜欢他，<br>但是。。。曹轩宾怎么净一首一首的蹦啊  这几年听来听去还是这几首</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2009-11-28 22:48<br>赞(0) 踩(0) | <div>内地从来不缺人才，只是缺少发现人才的眼睛....<br>可惜不是你自不必说，王力宏的爱因为在心中也不必说，对于曹轩宾，我只有拭目以待~</div> |

@@ -37,8 +37,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353164580)<br>听十年歌 疗三世伤<br>2020-07-06 03:50<br>赞(0) 踩(0) | <div>&amp;spades;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431895755)<br><br>2020-01-29 19:49<br>赞(0) 踩(0) | <div>太棒了这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431895755)<br><br>2020-01-29 19:47<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -66,7 +66,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45271171)<br><br>2014-12-25 13:54<br>赞(0) 踩(0) | <div>哎呀，我想你，哎呀，涩涩的，哎呀，我说不出来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44461602)<br><br>2014-12-05 20:18<br>赞(1) 踩(0) | <div>昨天在一酒吧听到现场版的，架子鼓伴奏，女声唱的细腻伤感，尤其在异乡很容易被打动。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10579753)<br><br>2014-09-27 09:35<br>赞(1) 踩(0) | <div>还是原唱听起来更好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1626379)<br><br>2014-09-21 07:09<br>赞(2) 踩(0) | <div>对比南马子呷的版本，白雪真的不会唱歌，功力也差了不止了三条街。2014-09-21 21:20补充：这都有人“弱”！桥舌不下！算了，看在是位女士的份上，祝她幸福吧。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1626379)<br><br>2014-09-21 07:09<br>赞(2) 踩(0) | <div>对比南马子呷的版本，白雪真的不会唱歌，功力也差了不止了三条街。<br><br>2014-09-21 21:20补充：<br>这都有人“弱”！桥舌不下！算了，看在是位女士的份上，祝她幸福吧。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12858429)<br>平平淡淡 简简单单 快快<br>2014-09-29 22:48<br>赞(0) 踩(0) | <div>谢谢！O(∩_∩)O哈哈~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365793354)<br><br>2018-08-29 21:51<br>赞(0) 踩(0) | <div>你纯粹不懂艺术</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365793354)<br><br>2018-08-29 22:02<br>赞(0) 踩(0) | <div>刚才去听了一下，南马是抄袭白雪的，要不要脸，原唱永远都是最好的</div> |
@@ -84,4 +84,4 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235050)<br>我就说我是穷逼嘛~<br>2014-09-20 21:02<br>赞(0) 踩(0) | <div><q><b>拉尔有色说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27074024)<br>晚安<br>2014-09-19 23:26<br>赞(0) 踩(0) | <div>找到原唱了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7248691)<br>l27628<br>2014-01-01 20:53<br>赞(0) 踩(0) | <div>哎呀</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231480)<br><br>2010-08-23 15:50<br>赞(0) 踩(0) | <div>~哎呀~白雪哎呀 我想你哎呀 涩涩地哎呀 我说不出来哎呀 我伤心哎呀 苦苦地哎呀 我越走越远我怎么能够这样让自己这么空白在风中丢了自己我丢了爱情我怎么能够这样让岁月这么苍白在四季里游荡像断了线的风筝</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231480)<br><br>2010-08-23 15:50<br>赞(0) 踩(0) | <div>~哎呀~<br>白雪<br><br><br>哎呀 我想你<br>哎呀 涩涩地<br>哎呀 我说不出来<br>哎呀 我伤心<br>哎呀 苦苦地<br>哎呀 我越走越远<br>我怎么能够这样<br>让自己这么空白<br>在风中丢了自己<br>我丢了爱情<br>我怎么能够这样<br>让岁月这么苍白<br>在四季里游荡<br>像断了线的风筝</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/42806265a74853906448315115a9f81f.jpg)<br>张哲健](https://i.xiami.com/pauliecheung) | **播放数**: 2617270<br>**粉丝数**: 375<br>**评论数**: 27<br>**地区**: China 中国大陆<br>**风格**: 电影原声 Film Score, 独立电子乐 Indietronica<br> |
+| [![](../../images/musicians/42806265a74853906448315115a9f81f.jpg)<br>张哲健](https://i.xiami.com/pauliecheung) | **地区**: China 中国大陆<br>**风格**: 电影原声 Film Score, 独立电子乐 Indietronica<br>**播放数**: 2617270<br>**粉丝数**: 375<br>**评论数**: 27<br> |
 
 ## 档案
 
@@ -20,8 +20,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-20 11:09<br>赞(0) 踩(0) | <div>46976</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14738431)<br>我还没想好要写什么...<br>2021-01-08 20:21<br>赞(0) 踩(0) | <div>加油奥利给</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18131306)<br>You are ther...<br>2020-08-06 19:41<br>赞(0) 踩(0) | <div>好棒的演奏！</div> |

@@ -67,8 +67,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50192184)<br><br>2020-10-10 22:37<br>赞(0) 踩(0) | <div>那年的羽绒服广告曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50192184)<br><br>2020-05-07 12:56<br>赞(0) 踩(0) | <div>演唱会竟然没唱这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30583413)<br>漂浮在黑色的海<br>2020-03-31 19:11<br>赞(1) 踩(0) | <div>想把自己也砸个粉碎</div> |
@@ -82,7 +82,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25894842)<br>守护Bigbang下一个...<br>2018-12-21 11:25<br>赞(1) 踩(0) | <div>这歌跟艾薇儿的innocence根本一样啊 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402814326)<br><br>2019-05-03 15:30<br>赞(0) 踩(0) | <div>是吗？没有听出来 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">不太像啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26615090)<br><br>2018-09-04 16:59<br>赞(0) 踩(0) | <div>声音真好听，怎么唱都喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30710880)<br>不负韶光<br>2018-08-15 22:51<br>赞(0) 踩(0) | <div>你是无形的伤口你平白的咬一口再多的爱也不够</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30710880)<br>不负韶光<br>2018-08-15 22:51<br>赞(0) 踩(0) | <div>你是无形的伤口<br>你平白的咬一口<br>再多的爱也不够</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91608850)<br><br>2018-05-27 04:48<br>赞(0) 踩(0) | <div>实力天后</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335783053)<br><br>2018-05-26 19:54<br>赞(0) 踩(0) | <div>喜欢小小的你，身上总是感觉蕴藏着无穷的力量。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303342131)<br><br>2018-05-22 10:01<br>赞(0) 踩(0) | <div>新歌吗？好听， 安静听会 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
@@ -98,7 +98,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301256664)<br> 尼玛，说好的新专辑呢？<br>2018-04-26 22:47<br>赞(0) 踩(0) | <div>原来你也看吓米评论呀，哈哈，那我以后只要看到你留言我就评论，你肯定会有一天看到我的评论 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337117004)<br><br>2018-04-24 16:05<br>赞(1) 踩(0) | <div>真的超级好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337117004)<br><br>2018-04-22 07:29<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215484886)<br>期待每天与你相遇几分钟，...<br>2018-04-17 08:31<br>赞(2) 踩(0) | <div>空白白的白的天又混浊变黑我算是谁醒了还在原地想哭却没有眼泪好想把一切都砸个粉碎只有你才能给我一丝欣慰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215484886)<br>期待每天与你相遇几分钟，...<br>2018-04-17 08:31<br>赞(2) 踩(0) | <div>空白白的<br>白的天又混浊变黑<br>我算是谁<br>醒了还在原地<br>想哭却没有眼泪<br>好想把一切都砸个粉碎<br>只有你才能给我一丝欣慰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98832520)<br>交朋友，交好朋友，交好的...<br>2018-04-14 01:25<br>赞(1) 踩(0) | <div>童年女神</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352756396)<br><br>2018-04-13 12:48<br>赞(1) 踩(0) | <div>第一次看到歌手本人评论 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316421337)<br><br>2018-04-12 15:16<br>赞(0) 踩(0) | <div>支持韶涵</div> |
@@ -254,7 +254,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32154)<br>十一月的雨 冰冷彻骨<br>2017-11-03 11:10<br>赞(1) 踩(0) | <div>你是无形的伤口 , 你平白的咬一口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324890533)<br><br>2017-11-03 06:38<br>赞(0) 踩(0) | <div>嘿嘿的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142816540)<br>把梦种下，生根发芽<br>2017-10-31 01:13<br>赞(2) 踩(0) | <div>你是我整个青春的一场梦，你的每一首歌都在鼓励我前行，因为有你，让我有了勇气选择放弃安定选择追逐梦想，爱你，无论多少个十年我都会记得你的声音和你美丽的样子</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72801352)<br>爱音乐，爱自由，奋斗青春...<br>2017-10-27 23:34<br>赞(2) 踩(0) | <div>心酸的时候，每个人都一样，不用自己看不开；疲惫的时候，谁也难以解脱，无须愁眉苦脸。寂寞如雪，滴入心血，一个人的时候，才会细数内心的痛楚；孤独如蛇，纠缠不舍；没有人的时候，才敢把伤口揭开来自己品味。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72801352)<br>爱音乐，爱自由，奋斗青春...<br>2017-10-27 23:34<br>赞(2) 踩(0) | <div>心酸的时候，每个人都一样，<br>不用自己看不开；<br>疲惫的时候，谁也难以解脱，<br>无须愁眉苦脸。<br>寂寞如雪，滴入心血，<br>一个人的时候，<br>才会细数内心的痛楚；<br>孤独如蛇，纠缠不舍；<br>没有人的时候，<br>才敢把伤口揭开来自己品味。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326815188)<br>谢谢你，给我最美好的回忆...<br>2017-10-27 18:46<br>赞(4) 踩(0) | <div>喜欢听这首歌的人，是不是总有一个人，能让你记起，想忘却更清晰。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266841288)<br><br>2017-10-26 22:02<br>赞(3) 踩(0) | <div>摊上一个烂嘴的母亲，可惜了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234170245)<br><br>2017-10-22 19:56<br>赞(0) 踩(0) | <div>(,,•́ . •̀,,)(｡˘•㉨•˘｡)心疼..</div> |
@@ -313,7 +313,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5868425)<br>与繁华相爱，纵然世界以刻...<br>2015-09-30 18:23<br>赞(0) 踩(0) | <div>哈哈哈 戳中笑点</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5868425)<br>与繁华相爱，纵然世界以刻...<br>2015-09-30 18:23<br>赞(0) 踩(0) | <div>哈哈哈 戳中笑点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43036139)<br><br>2015-05-06 01:04<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26043346)<br>_(:з」∠)_<br>2015-04-09 11:38<br>赞(0) 踩(0) | <div>想起了高中不开心的时候经常会听现在还是好想把一切都砸个粉碎:(</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26043346)<br>_(:з」∠)_<br>2015-04-09 11:38<br>赞(0) 踩(0) | <div>想起了高中不开心的时候经常会听<br>现在还是好想把一切都砸个粉碎:(</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32685617)<br>有时候真的很想认识有共同...<br>2015-01-20 23:39<br>赞(0) 踩(0) | <div>回不到的过去，属于我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32685617)<br>有时候真的很想认识有共同...<br>2015-01-20 23:39<br>赞(0) 踩(0) | <div>回不去的过去，属于我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42911849)<br>我还没想好要写什么...<br>2014-12-16 23:10<br>赞(2) 踩(0) | <div>这首歌刚出来的时候有新闻说抄袭艾薇儿的innocence 不过只有一小部分有点类似而已 喜欢这首歌</div> |
@@ -322,7 +322,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9023272)<br><br>2014-10-11 12:47<br>赞(0) 踩(0) | <div>旅行中的忘记。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27017302)<br><br>2014-09-15 16:28<br>赞(0) 踩(0) | <div>好歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27017302)<br><br>2014-09-05 00:14<br>赞(0) 踩(0) | <div>好歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330531)<br><br>2014-06-11 19:06<br>赞(0) 踩(0) | <div>似乎是等了3年 才发表了这张专辑希望Angela继续这样的风格</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330531)<br><br>2014-06-11 19:06<br>赞(0) 踩(0) | <div>似乎是等了3年 才发表了这张专辑<br>希望Angela继续这样的风格</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30653360)<br>肉搏<br>2014-05-05 22:45<br>赞(0) 踩(0) | <div>最喜欢的歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32761118)<br><br>2014-03-01 21:57<br>赞(0) 踩(0) | <div>不要轻易被感动 因为你需要的不是个感动你的人 而是个能和你在一起陪伴你包容的人</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6719330)<br>艰苦奋斗是我们的传家宝。<br>2014-06-01 09:26<br>赞(0) 踩(0) | <div>开始没听懂，原来是这个意思。⊙▽⊙</div> |
@@ -360,18 +360,18 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6688441)<br><br>2011-11-08 22:09<br>赞(0) 踩(0) | <div>心痛的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6609763)<br><br>2011-11-04 13:36<br>赞(1) 踩(0) | <div>一直都喜欢她，没有理由！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6402409)<br><br>2011-10-23 23:13<br>赞(0) 踩(0) | <div>不错喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3027853)<br><br>2011-07-20 16:31<br>赞(0) 踩(0) | <div>上周日在姥姥家终于没忍住嚎啕大哭，我妈眼圈红了；最疼我的姥姥说：你以后不要这么傻；今天我弟对我说：我姐以后就练得心如止水啦。“无波真古井，有节是竹筠。”说的是我姐。我爱你们，但是还是有很多痛你们不了解，我也不能对你们说。我只想说，我爱你们。这歌配这天，干什么都没心思，熬着。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3027853)<br><br>2011-07-20 16:31<br>赞(0) 踩(0) | <div>上周日在姥姥家终于没忍住嚎啕大哭，我妈眼圈红了；最疼我的姥姥说：你以后不要这么傻；今天我弟对我说：我姐以后就练得心如止水啦。“无波真古井，有节是竹筠。”说的是我姐。<br>我爱你们，但是还是有很多痛你们不了解，我也不能对你们说。我只想说，我爱你们。这歌配这天，干什么都没心思，熬着。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4747521)<br>听音乐就对了。<br>2011-07-06 17:14<br>赞(0) 踩(0) | <div>沉浸其中，就是好听.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3045178)<br>本来无尘埃，何必惹一物。<br>2011-07-05 16:11<br>赞(0) 踩(0) | <div>空白白的，很多感情走到最后就是这样空白白的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4384432)<br>暂无签名~<br>2011-07-02 01:50<br>赞(0) 踩(0) | <div>呵呵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4384432)<br>暂无签名~<br>2011-07-02 01:50<br>赞(0) 踩(0) | <div>有时候，空白比泛滥好多了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2011-06-15 23:09<br>赞(0) 踩(0) | <div>作詞：李焯雄 /作曲：陳偉 / 唱：張韶涵 ／製作人：陳偉你是無形的傷口你平白的咬一口再多的愛也不夠都不夠 不夠超完美 傷口</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2011-06-15 23:09<br>赞(0) 踩(0) | <div>作詞：李焯雄 /作曲：陳偉 / 唱：張韶涵 ／製作人：陳偉<br><br>你是無形的傷口<br>你平白的咬一口<br>再多的愛也不夠<br>都不夠 不夠<br>超完美 傷口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4125610)<br><br>2011-06-03 22:59<br>赞(0) 踩(0) | <div>喜欢美理由~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3711816)<br><br>2011-04-27 23:23<br>赞(0) 踩(0) | <div>撕心裂肺。你不懂，因为不打算让你懂..... 也好，也罢，誰身边还没有几个熟悉陌生人呢....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2372067)<br>Ethan B Just<br>2011-01-30 12:32<br>赞(0) 踩(0) | <div>原来就很看好她</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/761186)<br>暂无签名~<br>2011-01-29 12:12<br>赞(0) 踩(0) | <div>小帅的电视剧&amp;amp;lt;贝多芬病毒&amp;amp;gt;?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1759451)<br> <br>2010-10-31 12:44<br>赞(0) 踩(0) | <div>天籁</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/717229)<br><br>2010-08-22 15:35<br>赞(0) 踩(0) | <div>白的天又混浊变黑怕遇到谁空白白的那一切都是虚空，都是捕风</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/717229)<br><br>2010-08-22 15:35<br>赞(0) 踩(0) | <div>白的天又混浊变黑<br>怕遇到谁<br><br><br>空白白的<br><br><br>那一切都是虚空，都是捕风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/667823)<br><br>2010-08-08 12:05<br>赞(0) 踩(0) | <div>意境的歌词，美妙的歌声，渐行渐远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/655634)<br><br>2010-01-31 23:03<br>赞(0) 踩(0) | <div>她靓丽的歌声，总有点忧伤的影子。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4878672)<br><br>2012-10-18 21:30<br>赞(0) 踩(0) | <div>我好同意，唱情歌时很坚强却有一丝丝说不出的忧伤</div> |

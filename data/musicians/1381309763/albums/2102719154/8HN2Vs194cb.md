@@ -64,5 +64,3 @@ Then we can all be happy
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

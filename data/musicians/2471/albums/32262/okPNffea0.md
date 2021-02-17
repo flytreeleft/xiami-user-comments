@@ -44,8 +44,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120635330)<br>活着是一种修行！<br>2018-03-30 17:03<br>赞(1) 踩(0) | <div>MV是余文乐拍的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113302780)<br>越努力越幸运<br>2018-03-02 10:32<br>赞(1) 踩(0) | <div>04年我一年级，现在我大二</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247243891)<br><br>2018-02-12 10:58<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |

@@ -60,8 +60,8 @@ Rock Star I Gotta Go
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29169388)<br>我还没想好要写什么...<br>2020-07-01 20:40<br>赞(0) 踩(0) | <div>开头好像blur的song 2</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1297999)<br>孤单得狂躁的人都去搞金属...<br>2020-03-06 00:12<br>赞(2) 踩(0) | <div>这不是BLUR的一首歌吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15862953)<br>You only liv...<br>2020-06-17 23:32<br>赞(0) 踩(0) | <div>我感觉像Blur的girls and boys</div> |

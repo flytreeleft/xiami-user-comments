@@ -40,8 +40,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37480866)<br>别让我飞 将我温柔豢养<br>2017-11-13 17:04<br>赞(1) 踩(0) | <div>下个月，布拉格见 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72529860)<br>很不错<br>2017-10-13 14:28<br>赞(0) 踩(0) | <div>有点喜欢林一峰 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292246214)<br>公众号：桑澈之港乐时光<br>2017-09-13 22:16<br>赞(1) 踩(0) | <div>我相信这支歌里一定有一段很深的感情。记得有这样一句话：&amp;ldquo;为了想忘记一个人去旅行，走得越远就越接近自己真实的内心。&amp;rdquo;我想林一峰想表达的，大概就是这个意思。</div> |
@@ -57,12 +57,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380870)<br><br>2010-05-16 09:58<br>赞(1) 踩(0) | <div>一样地奔向相反地方向</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211273)<br>再见虾米！迷失的人网易云...<br>2010-04-27 09:45<br>赞(0) 踩(0) | <div>重回旧地</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109659)<br>非诚勿扰<br>2010-04-27 09:08<br>赞(0) 踩(0) | <div>人生总有青葱。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380870)<br><br>2010-03-29 13:56<br>赞(1) 踩(0) | <div>天气虽然难预料 总有公路可以拥抱温暖的声音可以坚定</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380870)<br><br>2010-03-29 13:56<br>赞(1) 踩(0) | <div>天气虽然难预料 总有公路可以拥抱<br>温暖的声音可以坚定</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251264)<br>stay gold<br>2009-11-18 18:24<br>赞(0) 踩(0) | <div>一座城,一首歌.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251264)<br>stay gold<br>2009-10-17 19:30<br>赞(1) 踩(0) | <div>重回布拉格，至少天气还算好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251264)<br>stay gold<br>2009-10-10 13:56<br>赞(3) 踩(0) | <div>偶尔听到你的博客里的这首歌。你说很喜欢这首歌的词，至少天气还算好，下一站永不会知道。你的文字，一直是那么纯粹，游记里的点滴，繁华的街市，清冷的小店灯光，以及幽暗的弄堂。那么多的地方都留下你的身影。下一次，一定要和你一起去。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51800191)<br><br>2017-06-11 01:28<br>赞(0) 踩(0) | <div>你好祝你幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251264)<br>stay gold<br>2009-08-26 21:18<br>赞(1) 踩(0) | <div>这一路走来，有风也有雨,但总有彩虹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251264)<br>stay gold<br>2009-08-11 10:44<br>赞(1) 踩(0) | <div>最近晚上听歌的时候放了一遍又一遍</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251264)<br>stay gold<br>2009-08-09 00:34<br>赞(1) 踩(0) | <div>最近很喜欢林一峰的这首歌。很喜欢他唱的最后一句词给人温暖而淡定的力量。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251264)<br>stay gold<br>2009-08-09 00:34<br>赞(1) 踩(0) | <div>最近很喜欢林一峰的这首歌。<br>很喜欢他唱的最后一句词<br>给人温暖而淡定的力量。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139925)<br>用力活着。<br>2009-05-03 14:10<br>赞(1) 踩(0) | <div>我是否能够笑着回忆，因你让这一生不再有更美的风景。</div> |

@@ -67,8 +67,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434924434)<br>我还没想好要写什么...<br>2020-05-23 02:27<br>赞(0) 踩(0) | <div>怎么十几年后越听越有感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280786808)<br><br>2019-03-11 22:36<br>赞(0) 踩(0) | <div>若知道痛了就会珍惜了吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278086451)<br><br>2019-02-23 05:58<br>赞(0) 踩(0) | <div>雨过就要天晴，伤过就该庆幸</div> |
@@ -76,7 +76,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12919768)<br><br>2018-04-24 01:11<br>赞(0) 踩(0) | <div>台湾音乐创作人潘协庆老师作曲的歌都好听，如为刘德华、张学友、郭富城、那英、王菲、梁咏琪、梁汉文等等。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323188008)<br>我还没想好要写什么...<br>2017-09-26 06:30<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281943853)<br>我还没想好要写什么...<br>2017-04-17 00:11<br>赞(1) 踩(0) | <div>我对你些许的过去，你要是在意，我还愿意等你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23785083)<br>又偷偷来看我吼<br>2017-02-17 08:33<br>赞(1) 踩(0) | <div>我些许的过去 你要是在意就等你想通 我一直在这里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23785083)<br>又偷偷来看我吼<br>2017-02-17 08:33<br>赞(1) 踩(0) | <div>我些许的过去 你要是在意<br>就等你想通 我一直在这里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81513722)<br>啦啦啦<br>2016-12-28 00:54<br>赞(3) 踩(0) | <div>演唱会听完现场后 CD版听起来都不够爽了啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244498968)<br><br>2016-11-24 23:44<br>赞(0) 踩(0) | <div>等你想通我一直在这里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/176938188)<br>一辈子都要保持一颗单纯善...<br>2016-11-02 17:46<br>赞(5) 踩(0) | <div>品冠的歌无印良品的歌都是越听越好听 听了20年还是越听越好听 我都开始怀疑自己是不是变态了 感恩你们出现在我的青春里 让我对情感保持一片心中的净土 感恩你们一直在唱歌</div> |

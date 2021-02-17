@@ -3,7 +3,7 @@ Ayo97
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/706dfb19bbfbaa8c4271c13635a08ca7.jpg)<br>Ayo97](https://i.xiami.com/qt97) | **播放数**: 20326132<br>**粉丝数**: 554<br>**评论数**: 36<br>**地区**: China 中国大陆<br>**风格**: 迪斯科 Disco, 西岸说唱 West Coast Hip Hop, 南方说唱 Southern Hip Hop, 陷阱说唱 Trap Rap<br> |
+| [![](../../images/musicians/706dfb19bbfbaa8c4271c13635a08ca7.jpg)<br>Ayo97](https://i.xiami.com/qt97) | **地区**: China 中国大陆<br>**风格**: 迪斯科 Disco, 西岸说唱 West Coast Hip Hop, 南方说唱 Southern Hip Hop, 陷阱说唱 Trap Rap<br>**播放数**: 20326132<br>**粉丝数**: 554<br>**评论数**: 36<br> |
 
 ## 档案
 
@@ -23,11 +23,11 @@ Ayo97  ，原名符超，  Shadow Music  说唱歌手，曾获  2013  年  iron 
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289687772)<br><br>2020-08-06 20:22<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412503456)<br><br>2020-05-08 16:36<br>赞(0) 踩(0) | <div>超级喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406631241)<br>桀骜不羁的温柔<br>2019-07-13 14:57<br>赞(2) 踩(0) | <div>Jg  加油支持你 <img src="../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png">你的说唱 llke  <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"> <img src="../../images/comments/286e5490345b55baf85bf75195319042.png"> <img src="../../images/comments/aa870edd44d3f615d76bed2188beb79d.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406631241)<br>桀骜不羁的温柔<br>2019-07-13 14:57<br>赞(2) 踩(0) | <div>Jg  加油支持你 <img src="../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"><br>你的说唱 llke  <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"> <img src="../../images/comments/286e5490345b55baf85bf75195319042.png"> <img src="../../images/comments/aa870edd44d3f615d76bed2188beb79d.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407332088)<br><br>2019-05-23 18:32<br>赞(0) 踩(0) | <div>你说你伤没伤我</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316184336)<br><br>2019-04-19 09:13<br>赞(1) 踩(0) | <div>单曲循环你的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412119821)<br><br>2019-04-05 21:43<br>赞(0) 踩(0) | <div>加油，支持你</div> |
@@ -42,10 +42,10 @@ Ayo97  ，原名符超，  Shadow Music  说唱歌手，曾获  2013  年  iron 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197085075)<br><br>2018-12-19 18:22<br>赞(1) 踩(0) | <div>没人听吗？挺好的歌</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411446523)<br><br>2018-12-29 21:31<br>赞(0) 踩(0) | <div></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405429957)<br>我最帅<br>2019-02-11 17:25<br>赞(0) 踩(0) | <div>，天天听，好吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-12-09 18:43<br>赞(1) 踩(0) | <div>好听喜欢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-12-09 18:43<br>赞(1) 踩(0) | <div>好听<br>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409938156)<br><br>2018-12-05 10:04<br>赞(1) 踩(0) | <div>我只有一首歌。听了117遍。感谢你曾经来过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358208079)<br>我还没想好要写什么...<br>2018-10-30 00:01<br>赞(2) 踩(0) | <div>感谢你曾来过 好听 希望以后你还能唱更多好听的歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407222791)<br><br>2018-10-29 12:30<br>赞(1) 踩(0) | <div>包含太多.......听着我不禁快流泪</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407222791)<br><br>2018-10-29 12:30<br>赞(1) 踩(0) | <div>包含太多.......<br>听着我不禁快流泪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406983768)<br><br>2018-10-26 17:30<br>赞(1) 踩(0) | <div>我收藏就是这种歌对我来说你有感情</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378147305)<br>  人生与世上有多少知己...<br>2018-09-23 07:22<br>赞(1) 踩(0) | <div>原来舞蹈是美国黑人平常创造的 <img src="../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"> <img src="../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"> <img src="../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png">舞蹈 <img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png">而且还是民间 <img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png">舞蹈厉害厉害  不错     民族文化真可怕 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404103252)<br><br>2018-09-14 14:03<br>赞(1) 踩(0) | <div>好听 me encanta!  <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |

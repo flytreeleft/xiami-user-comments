@@ -59,8 +59,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369423)<br> <br>2019-06-24 01:31<br>赞(0) 踩(0) | <div>人生也如寂寞列车，沿路有人上下，谁都是过客，没有人能陪你走到终点。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350806841)<br>懒人一坨<br>2019-04-19 09:38<br>赞(0) 踩(0) | <div>，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40174674)<br><br>2018-10-03 19:32<br>赞(3) 踩(0) | <div>我的梦想 汪峰。 <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
@@ -69,7 +69,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353350391)<br><br>2018-03-20 11:11<br>赞(1) 踩(0) | <div>轰轰隆隆寂寞列车开往湖南卫视我是歌手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353350391)<br><br>2018-03-19 17:10<br>赞(2) 踩(0) | <div>此歌与再也没有一样的味道，后者带了爵士的编曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353350391)<br><br>2018-03-15 16:51<br>赞(6) 踩(0) | <div>座着长途公交车也别有一番滋味在歌中，轰轰隆隆轰轰隆隆，把我早点带回家乡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325403828)<br><br>2018-03-14 23:07<br>赞(1) 踩(0) | <div>轰隆隆，轰隆隆，这一听就不是高铁 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png">忽明忽暗路过一个又一个村庄，心属何方？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325403828)<br><br>2018-03-14 23:07<br>赞(1) 踩(0) | <div>轰隆隆，轰隆隆，这一听就不是高铁 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"><br>忽明忽暗路过一个又一个村庄，心属何方？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353350391)<br><br>2018-03-08 16:25<br>赞(1) 踩(0) | <div>怎么上面的评论都是三四年前的，应该更新了啊，轰轰隆隆，寂寞列车开了三四年了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353350391)<br><br>2018-03-08 12:03<br>赞(1) 踩(0) | <div>轰轰隆隆，轰轰隆隆，寂寞列车载着寂寞的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353350391)<br><br>2018-03-05 17:53<br>赞(2) 踩(0) | <div>寂寞列车寂寞迷茫的心❤情，轰隆隆，轰隆隆，列车开向何方，第一次听到此歌</div> |
@@ -99,10 +99,10 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2015-10-13 12:40<br>赞(0) 踩(0) | <div>通感</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324262448)<br><br>2018-08-31 19:03<br>赞(0) 踩(0) | <div>不知道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13554645)<br><br>2014-11-18 23:57<br>赞(30) 踩(0) | <div>演唱会上听到他唱这首歌瞬间喜欢上了，当时背景放的超美，听到一句究竟未来会是什么模样。回家一直放，而这像迷一样的生活啊，让我不得不浪迹天涯。4年没有戴耳机听歌入睡过了，那一次听着它我睡着了，轰隆隆～</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352465875)<br><br>2018-08-13 17:03<br>赞(0) 踩(0) | <div>丶＂</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352465875)<br><br>2018-08-13 17:03<br>赞(0) 踩(0) | <div>丶<br><br><br>＂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18738542)<br><br>2014-10-22 11:13<br>赞(0) 踩(0) | <div>可以说新专辑中自己最中意的一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40571295)<br>阳光下灿烂 风雨中奔跑<br>2014-10-01 00:21<br>赞(0) 踩(0) | <div>听完后很感动，就像是为我写的歌……我多想死在这个村庄 就结束在开始的地方……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31036690)<br>暂无签名~<br>2014-09-18 23:17<br>赞(2) 踩(0) | <div>我多想死在这个村庄就结束在这个开始的地方而这谜一样的生活啊究竟未来会是什么模样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31036690)<br>暂无签名~<br>2014-09-18 23:17<br>赞(2) 踩(0) | <div>我多想死在这个村庄<br>就结束在这个开始的地方<br>而这谜一样的生活啊<br>究竟未来会是什么模样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29696442)<br><br>2014-09-10 15:19<br>赞(0) 踩(0) | <div>有催眠效果，我喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3425353)<br><br>2014-07-19 00:28<br>赞(0) 踩(0) | <div>轰隆隆 轰隆隆 轰隆隆  寂寞列车把我载向远方...   其实  “音帝” 还是有很感人的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6224695)<br><br>2014-05-11 17:42<br>赞(0) 踩(0) | <div>早期</div> |
@@ -119,7 +119,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18954813)<br>为音生，为乐死<br>2013-12-20 18:00<br>赞(0) 踩(0) | <div>新砖就喜欢这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7735022)<br><br>2013-12-12 22:45<br>赞(1) 踩(0) | <div>生来彷徨唯一的惊喜~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/723241)<br><br>2013-12-11 23:56<br>赞(0) 踩(0) | <div>哈利路亞，北鼻!!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369423)<br> <br>2013-12-11 20:28<br>赞(0) 踩(0) | <div>轰隆隆轰隆隆轰隆隆寂寞列车把我载向远方轰隆隆轰隆隆轰隆隆有谁知道它要去向何方~~~莫名的淡淡的忧伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369423)<br> <br>2013-12-11 20:28<br>赞(0) 踩(0) | <div>轰隆隆轰隆隆轰隆隆<br>寂寞列车把我载向远方<br>轰隆隆轰隆隆轰隆隆<br>有谁知道它要去向何方<br>~~~莫名的淡淡的忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27267367)<br><br>2013-12-11 14:37<br>赞(0) 踩(0) | <div>轰隆隆，轰隆隆，轰隆隆。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13050590)<br><br>2013-12-11 03:27<br>赞(0) 踩(0) | <div>我多想死在这个村庄，就结束在开始的地方，而这谜一样的生活啊，却让我不得不浪迹天涯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11886197)<br>小城时光<br>2013-12-09 14:05<br>赞(0) 踩(0) | <div>好歌！</div> |

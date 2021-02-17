@@ -60,10 +60,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203457661)<br>IG:c.zhou98<br>2021-01-08 02:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2020-09-16 21:35<br>赞(0) 踩(0) | <div>混乱的孤独以及喧嚣的勇敢这就是我所知道和经历的青春2020.9.16  21：35</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2020-09-16 21:35<br>赞(0) 踩(0) | <div>混乱的孤独<br>以及喧嚣的勇敢<br>这就是我所知道和经历的青春<br>2020.9.16  21：35</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117532352)<br> hey<br>2020-08-21 08:46<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37061462)<br>看看未来给你什么礼物<br>2020-08-11 17:16<br>赞(0) 踩(0) | <div>我也好想一直和你在一起啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380388211)<br>我的耳朵不会骗我<br>2020-08-04 13:18<br>赞(0) 踩(0) | <div>，</div> |
@@ -73,12 +73,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410420386)<br><br>2019-06-17 01:50<br>赞(0) 踩(0) | <div>17年听着青春在酒气的冬想你的日子啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374127219)<br><br>2019-03-26 21:57<br>赞(1) 踩(0) | <div>“青春”那么多我独爱这一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7945773)<br>我还是怀念网易云的liv...<br>2019-03-10 10:33<br>赞(0) 踩(0) | <div>没听过</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1137396)<br>，<br>2019-01-10 07:12<br>赞(1) 踩(0) | <div>“来来来 向爱人敬礼稍息 立正 敬礼！爱人！  岁！  岁！”呵呵 哈哈揉揉头谁在未来等谁。还没明白吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1137396)<br>，<br>2019-01-10 07:12<br>赞(1) 踩(0) | <div>“来来来 向爱人敬礼<br>稍息 立正 敬礼！爱人！  岁！  岁！”<br>呵呵 哈哈<br>揉揉头<br>谁在未来等谁。<br>还没明白吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69307508)<br>雀跃的人在河边骑脚踏车，...<br>2018-12-02 10:27<br>赞(0) 踩(0) | <div>歌词太棒了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31036173)<br>yolo<br>2018-10-14 12:53<br>赞(6) 踩(0) | <div>“陈燕西眼眶发热。他后知后觉，原来金何坤的感情里自始自 终揣着一腔孤勇。而他没有。”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31036173)<br>yolo<br>2018-10-14 12:53<br>赞(6) 踩(0) | <div>“陈燕西眼眶发热。<br>他后知后觉，原来金何坤的感情里自始自 终揣着一腔孤勇。<br>而他没有。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334845357)<br><br>2018-09-07 17:59<br>赞(2) 踩(0) | <div>陈燕西 金何坤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168092104)<br>all for pcy<br>2018-08-17 18:12<br>赞(14) 踩(0) | <div>极简潜水史。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319714069)<br>和你有关，但不是你<br>2018-08-14 00:50<br>赞(1) 踩(0) | <div>啦啦啦啦来来来来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319714069)<br>和你有关，但不是你<br>2018-08-14 00:50<br>赞(1) 踩(0) | <div>啦啦啦啦<br>来来来来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36587271)<br>暂无签名~<br>2018-07-30 06:14<br>赞(4) 踩(0) | <div>虽然星期天大街是初心，但最喜欢这首啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374780766)<br>銀河的子民<br>2018-06-22 20:12<br>赞(2) 踩(0) | <div>我是所有的无意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363957931)<br>音楽は世界で一番きれいな...<br>2018-05-06 12:48<br>赞(3) 踩(0) | <div>一句歌词就把人迷住</div> |
@@ -95,7 +95,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49748006)<br>Fly me to th...<br>2017-04-11 14:20<br>赞(0) 踩(0) | <div>88</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11180208)<br><br>2016-12-18 13:00<br>赞(3) 踩(0) | <div>挺特别，叠加的歌声和旋律，像是记忆青春的画面蜂拥而至</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40239953)<br> <br>2016-11-09 06:30<br>赞(0) 踩(0) | <div>有点像幽灵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13075871)<br>僕の孤独が魚だったら<br>2016-10-25 23:11<br>赞(3) 踩(0) | <div>我们走不了多远也所知甚浅但这不能阻止我奔向你身边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13075871)<br>僕の孤独が魚だったら<br>2016-10-25 23:11<br>赞(3) 踩(0) | <div>我们走不了多远也所知甚浅<br>但这不能阻止我奔向你身边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13455199)<br>爱听歌<br>2016-10-19 01:36<br>赞(0) 踩(0) | <div>啦的让人受不了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2279444)<br>爱在左，同情在右。<br>2016-09-17 20:29<br>赞(0) 踩(0) | <div>怎么感觉这首音质特别差</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14697202)<br>暂无签名~<br>2016-07-13 15:03<br>赞(0) 踩(0) | <div>买了</div> |
@@ -136,7 +136,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23480134)<br><br>2013-10-16 20:42<br>赞(0) 踩(0) | <div>lalalalalalala</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7943932)<br><br>2013-09-05 10:21<br>赞(0) 踩(0) | <div>啦~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4000276)<br>生命中最后的飞行员<br>2013-07-18 14:05<br>赞(0) 踩(0) | <div>啦~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1238138)<br>夕暮。<br>2013-07-16 23:46<br>赞(2) 踩(0) | <div>无法阻止我奔向你的身边。没有什么能够阻止我奔向你的身边。这是青春。这是信仰。这是我们这一代人的痛与爱。再会。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1238138)<br>夕暮。<br>2013-07-16 23:46<br>赞(2) 踩(0) | <div>无法阻止我奔向你的身边。<br>没有什么能够阻止我奔向你的身边。<br><br>这是青春。<br>这是信仰。<br>这是我们这一代人的痛与爱。<br><br>再会。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7339909)<br><br>2013-04-01 13:41<br>赞(0) 踩(0) | <div>还是这首歌。“我们走不了多远，也所知甚浅，但这不能阻止我奔向你身边。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95955)<br> <br>2013-01-06 17:15<br>赞(0) 踩(0) | <div>我们走不了多远也所知甚浅 但这不能阻止我奔向你身边 我们走不了多远也所知甚浅 但这不能阻止我奔向你身边——青春的座右铭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5840971)<br><br>2012-12-25 11:11<br>赞(0) 踩(0) | <div>我走不了多远，也所知甚浅，但这阻止不了奔向您身边。</div> |
@@ -145,9 +145,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8841728)<br>我还没想好要写什么...<br>2012-05-08 03:45<br>赞(0) 踩(0) | <div>不管別人怎麼懷疑我都相信 青春燒盡 也沒有什麽能阻止我奔向你的身邊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4927501)<br><br>2012-05-06 12:13<br>赞(0) 踩(0) | <div>我们走不了多远 也所知甚浅 但这不能阻止我奔向你身边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7726323)<br><br>2012-05-06 02:16<br>赞(1) 踩(0) | <div>歌不错，混音也很骚气！不错！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609799)<br><br>2012-04-29 16:40<br>赞(0) 踩(0) | <div>我们走不了多远 也所知甚浅但这不能阻止我奔向你身边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609799)<br><br>2012-04-29 16:40<br>赞(0) 踩(0) | <div>我们走不了多远 也所知甚浅<br>但这不能阻止我奔向你身边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5385776)<br><br>2012-04-07 13:05<br>赞(0) 踩(0) | <div>我们走不了多远,也所知甚浅,但这不能阻止我奔向你身边.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1238138)<br>夕暮。<br>2012-04-05 00:54<br>赞(0) 踩(0) | <div>无法阻止我奔向你的身边。没有什么能够阻止我奔向你的身边。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1238138)<br>夕暮。<br>2012-04-05 00:54<br>赞(0) 踩(0) | <div>无法阻止我奔向你的身边。<br>没有什么能够阻止我奔向你的身边。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1111780)<br> <br>2012-03-29 10:50<br>赞(0) 踩(0) | <div>浮躁的青春 追梦的少年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3923602)<br><br>2012-03-29 10:32<br>赞(0) 踩(0) | <div>O__O&amp;amp;quot;…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2580966)<br><br>2012-03-25 20:09<br>赞(0) 踩(0) | <div>误把青春作不朽。“我们走不了多远 也所知甚浅 但这不能阻止我奔向你身边”这般层峦迭起排山倒海欺负间吞没了双耳的吟唱，现场何时会再有？</div> |
@@ -163,21 +163,21 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2955212)<br><br>2011-10-03 03:23<br>赞(0) 踩(0) | <div>我们走不了多远,   也所知甚浅,    但这不能阻止我奔向你身边..。啦啦啦啦啦 啦啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/941274)<br>吃货拯救世界<br>2011-09-16 14:48<br>赞(0) 踩(0) | <div>好中意~！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3222122)<br><br>2011-08-18 03:06<br>赞(0) 踩(0) | <div>我忽然很想你。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3222122)<br><br>2011-08-12 23:54<br>赞(0) 踩(0) | <div>我们走不了多远 也所知甚浅但这不能阻止我奔向你身边很喜欢的节奏，和歌词。明知不可以，却要一意孤行奋不顾身，这个就是青春。好比，我爱你，即使你不爱我，都可以。我只是单纯的爱你。如此而已。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3222122)<br><br>2011-08-12 23:54<br>赞(0) 踩(0) | <div>我们走不了多远 也所知甚浅<br>但这不能阻止我奔向你身边<br>很喜欢的节奏，和歌词。<br>明知不可以，却要一意孤行奋不顾身，这个就是青春。<br>好比，我爱你，即使你不爱我，都可以。我只是单纯的爱你。<br>如此而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2277437)<br>我还没想好要写什么...<br>2011-07-30 02:12<br>赞(1) 踩(0) | <div>我们走不了多远，也所知甚浅，但这不能阻止我奔向你身边。今夜我不关心人类，我只想你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2401471)<br>无畏的挣扎 宽心的笑<br>2011-07-27 00:23<br>赞(0) 踩(0) | <div>- -前奏真的很“美人鱼的安魂曲”啊。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3286527)<br><br>2011-07-02 22:13<br>赞(0) 踩(0) | <div>在有限的青春里，我奋不顾身地爱过你，我们走不了多远，也所知甚浅，但这不能阻止我奔向你身边。许久没有再听过声音玩具，又把《最美妙的旅行》听了一遍，国内的乐队最喜欢的估计就是冷血动物，声音碎片和声音玩具了吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4581)<br><br>2011-06-28 00:13<br>赞(0) 踩(0) | <div>我们走不了多远，也所知甚浅</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1559396)<br><br>2011-06-09 13:16<br>赞(0) 踩(0) | <div>我们走不了多远 也所知甚浅但这不能阻止我奔向你身边</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1856811)<br><br>2011-05-17 10:41<br>赞(0) 踩(0) | <div>有种万人朝圣的壮观，走不了多远也所知甚浅，但什么也阻止不了我奔向你身边确实挺壮观的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1559396)<br><br>2011-06-09 13:16<br>赞(0) 踩(0) | <div>我们走不了多远 也所知甚浅<br>但这不能阻止我奔向你身边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1856811)<br><br>2011-05-17 10:41<br>赞(0) 踩(0) | <div>有种万人朝圣的壮观，走不了多远也所知甚浅，但什么也阻止不了我奔向你身边<br><br>确实挺壮观的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1693466)<br><br>2011-05-12 10:25<br>赞(0) 踩(0) | <div>耳机的感觉真不错/</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267422)<br>这家伙很聪明什么也没留下...<br>2011-04-01 02:04<br>赞(0) 踩(0) | <div>我们走不了多远，也所知甚浅，但这不能阻止我奔向你身边。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2195582)<br>心花怒放，开到荼蘼。<br>2011-03-05 15:15<br>赞(0) 踩(0) | <div>壮观，信仰。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2195582)<br>心花怒放，开到荼蘼。<br>2011-03-05 15:13<br>赞(0) 踩(0) | <div>有种万人朝圣的壮观，走不了多远也所知甚浅，但什么也阻止不了我奔向你身边……爱是信仰。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/907699)<br>To never gro...<br>2010-10-27 08:29<br>赞(0) 踩(0) | <div>走不了多远 也所知甚浅青春是否就是一场赌局一种冒险</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/907699)<br>To never gro...<br>2010-10-27 08:29<br>赞(0) 踩(0) | <div>走不了多远 也所知甚浅<br>青春是否就是一场赌局一种冒险</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1357125)<br>我还没想好要写什么...<br>2010-10-11 15:03<br>赞(0) 踩(0) | <div>哈 这正是我对爱情的态度！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1531395)<br><br>2010-09-25 19:24<br>赞(0) 踩(0) | <div>音乐很不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428237)<br><br>2009-12-07 12:12<br>赞(0) 踩(0) | <div>好玩的编曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97631)<br><br>2009-07-28 21:06<br>赞(0) 踩(0) | <div>“会非常卖力地做些无意义的事。”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266221)<br><br>2009-07-27 13:35<br>赞(0) 踩(0) | <div>我们走不了多远也所知甚浅但这不能阻止我奔向你身边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266221)<br><br>2009-07-27 13:35<br>赞(0) 踩(0) | <div>我们走不了多远<br>也所知甚浅<br>但这不能阻止我奔向你身边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7840)<br><br>2009-05-11 11:25<br>赞(1) 踩(0) | <div>我们走不了多远，也所知甚浅，但却不能阻止我奔向你身边。献给理想国。</div> |

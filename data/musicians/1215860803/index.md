@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3932981e5bc3c16058c43da2b1e4fed2.jpg)<br>夏军](https://i.xiami.com/xiajun) | **播放数**: 1089333<br>**粉丝数**: 25<br>**评论数**: 3<br>**地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap, 传统民谣 Traditional Folk, 当代民谣 Contemporary Folk, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/3932981e5bc3c16058c43da2b1e4fed2.jpg)<br>夏军](https://i.xiami.com/xiajun) | **地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap, 传统民谣 Traditional Folk, 当代民谣 Contemporary Folk, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 1089333<br>**粉丝数**: 25<br>**评论数**: 3<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -30,8 +27,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-23 07:40<br>赞(0) 踩(0) | <div>43825</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78279)<br><br>2014-11-14 13:35<br>赞(0) 踩(0) | <div>GARU~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43636233)<br>用心磨炼出最好的音乐！<br>2014-11-13 14:49<br>赞(1) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

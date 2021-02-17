@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4d3d0958b037c03dd280f3f9e59060e6.png)<br>乔嘉](https://i.xiami.com/qiaojia) | **播放数**: 1795138<br>**粉丝数**: 65<br>**评论数**: 5<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/4d3d0958b037c03dd280f3f9e59060e6.png)<br>乔嘉](https://i.xiami.com/qiaojia) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 1795138<br>**粉丝数**: 65<br>**评论数**: 5<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -35,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377290942)<br><br>2019-10-21 21:16<br>赞(0) 踩(0) | <div>长汀1801留下的声音，记忆犹新！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357784360)<br>你说你爱我为什么还要伤害...<br>2018-05-10 07:27<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2018-04-11 05:13<br>赞(1) 踩(0) | <div>好听</div> |

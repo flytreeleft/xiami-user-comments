@@ -3,7 +3,7 @@ Dr_Hope
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1c994a5e33328eb13ee8b7a477ffde2d.jpg)<br>Dr_Hope](https://i.xiami.com/dr_hope) | **播放数**: 1694676<br>**粉丝数**: 366<br>**评论数**: 17<br>**地区**: United States of America 美国<br>**风格**: 轻音乐 Easy Listening, 新世纪音乐 New Age<br> |
+| [![](../../images/musicians/1c994a5e33328eb13ee8b7a477ffde2d.jpg)<br>Dr_Hope](https://i.xiami.com/dr_hope) | **地区**: United States of America 美国<br>**风格**: 轻音乐 Easy Listening, 新世纪音乐 New Age<br>**播放数**: 1694676<br>**粉丝数**: 366<br>**评论数**: 17<br> |
 
 ## 档案
 
@@ -21,11 +21,11 @@ Dr_Hope
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411358160)<br>好好工作，快乐生活<br>2021-01-27 23:16<br>赞(0) 踩(0) | <div>优秀的人做什么都优秀啊！ <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">能在虾米的最后几天听到这首曲子也是幸运&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414564380)<br>终会再见的<br>2019-04-06 08:49<br>赞(0) 踩(0) | <div>第一首，听到了卡农遇见爱情，后来又听到花香对影，一看作者，Hope，是hope啊。谢谢你，很喜欢你的歌哦。 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410334021)<br>我还没想好要写什么...<br>2019-03-15 08:36<br>赞(0) 踩(0) | <div>和你有一样的名字耶l got the same nick name to u</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410334021)<br>我还没想好要写什么...<br>2019-03-15 08:36<br>赞(0) 踩(0) | <div>和你有一样的名字耶<br>l got the same nick name to u</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342480207)<br>TFBOYS3-1＝0<br>2018-07-31 10:26<br>赞(0) 踩(0) | <div>没想到遇到了这么好听的声音，非常喜欢你弹琴时的感觉.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338886088)<br><br>2017-12-09 14:56<br>赞(3) 踩(0) | <div><img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png">好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303785020)<br>古典迷<br>2017-08-17 14:44<br>赞(2) 踩(0) | <div>支持一下何博士~</div> |

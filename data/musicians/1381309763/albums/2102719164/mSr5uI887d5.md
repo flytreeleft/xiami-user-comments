@@ -27,5 +27,3 @@ You may get there by candle light
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

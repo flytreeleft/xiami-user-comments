@@ -12,15 +12,12 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354536206)<br>我还没想好要写什么...<br>2021-01-23 21:05<br>赞(0) 踩(0) | <div>因为不舍，因为他懂我，所以建了一个微信群，只因为想等虾米的王者归来，有同样就一起进群聊天吧微信fox99403， 群里一起回忆和分享虾米QQ群：点击链接加入群聊【虾米的音乐海洋】：<a href="https://qm.qq.com/cgi-bin/qm/qr?k=PqP8F066NV9WK4dZerGi8wCw8gmXochG&amp;amp;authKey=355ODFa/0uyDQp9AvE7BuKuuTbSJxj0n5eh9DTdKngjDeRC702tYAjZJhhT6jt8F&amp;amp;noverify=0" target="_blank" rel="nofollow noreferrer noopener">https://qm.qq.com/cgi-bin/qm/qr?k=PqP8F066NV9WK4dZerGi8wCw8gmXochG&amp;amp;authKey=355ODFa/0uyDQp9AvE7BuKuuTbSJxj0n5eh9DTdKngjDeRC702tYAjZJhhT6jt8F&amp;amp;noverify=0</a></div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354536206)<br>我还没想好要写什么...<br>2021-01-23 21:05<br>赞(0) 踩(0) | <div>因为不舍，因为他懂我，所以建了一个微信群，只因为想等虾米的王者归来，有同样就一起进群聊天吧微信fox99403， 群里一起回忆和分享虾米<br><br>QQ群：点击链接加入群聊【虾米的音乐海洋】：<a href="https://qm.qq.com/cgi-bin/qm/qr?k=PqP8F066NV9WK4dZerGi8wCw8gmXochG&amp;amp;authKey=355ODFa/0uyDQp9AvE7BuKuuTbSJxj0n5eh9DTdKngjDeRC702tYAjZJhhT6jt8F&amp;amp;noverify=0" target="_blank" rel="nofollow noreferrer noopener">https://qm.qq.com/cgi-bin/qm/qr?k=PqP8F066NV9WK4dZerGi8wCw8gmXochG&amp;amp;authKey=355ODFa/0uyDQp9AvE7BuKuuTbSJxj0n5eh9DTdKngjDeRC702tYAjZJhhT6jt8F&amp;amp;noverify=0</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236501629)<br><br>2021-01-21 20:53<br>赞(0) 踩(0) | <div>周永春渣男</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236501629)<br><br>2021-01-19 13:38<br>赞(0) 踩(0) | <div>周永春渣男</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236501629)<br><br>2021-01-18 20:14<br>赞(0) 踩(0) | <div>周永春渣男</div> |
@@ -31,7 +28,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322235515)<br>在音乐里澎湃，在玩笑里开...<br>2020-11-17 18:02<br>赞(0) 踩(0) | <div>浓艳的死去，留住楚楚娇颜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322235515)<br>在音乐里澎湃，在玩笑里开...<br>2020-11-17 18:01<br>赞(0) 踩(0) | <div>这个好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424734554)<br>大爱绿川光！<br>2020-09-12 19:01<br>赞(0) 踩(0) | <div>气势恢宏！厚重的历史气息扑面而来，不由自主浑身开始起鸡皮疙瘩</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8268281)<br> <br>2020-08-25 02:37<br>赞(3) 踩(0) | <div>看这一江春水&amp;nbsp;看这满树桃花看这如黛青山&amp;nbsp;都没有丝毫改变对面来的是谁家女子&amp;nbsp;生得春光满面&amp;nbsp;美丽非凡这位姑娘&amp;nbsp;请你停下你美丽的脚步你可知自己犯下了什么样的错误这位官人&amp;nbsp;明明是你的马蹄踢翻了我的竹篮怎么反倒怪罪起我的错误你的错误&amp;nbsp;就是美若天仙你婀娜的身姿&amp;nbsp;让我的手不听使唤你蓬松的乌发&amp;nbsp;涨满了我的眼帘看不见道路山川&amp;nbsp;只剩漆黑一片</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8268281)<br> <br>2020-08-25 02:37<br>赞(3) 踩(0) | <div>看这一江春水&amp;nbsp;看这满树桃花<br><br>看这如黛青山&amp;nbsp;都没有丝毫改变<br><br>对面来的是谁家女子&amp;nbsp;生得春光满面&amp;nbsp;美丽非凡<br><br>这位姑娘&amp;nbsp;请你停下你美丽的脚步<br><br>你可知自己犯下了什么样的错误<br><br>这位官人&amp;nbsp;明明是你的马蹄踢翻了我的竹篮<br><br>怎么反倒怪罪起我的错误<br><br>你的错误&amp;nbsp;就是美若天仙<br><br>你婀娜的身姿&amp;nbsp;让我的手不听使唤<br><br>你蓬松的乌发&amp;nbsp;涨满了我的眼帘<br><br>看不见道路山川&amp;nbsp;只剩漆黑一片</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321733224)<br><br>2020-06-24 16:43<br>赞(3) 踩(0) | <div>等我死去后，一定要放这首曲子</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254739175)<br>我乃单身狗一枚，所以叫寻...<br>2020-07-04 18:08<br>赞(0) 踩(0) | <div>好好活着，是对父母的孝敬。不然父母九泉之下也不会开心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287017)<br>姌稥毓影，复刻轻悠<br>2020-06-21 15:25<br>赞(2) 踩(0) | <div>⛅️</div> |
@@ -58,7 +55,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92331666)<br>点屎成金<br>2020-01-06 16:12<br>赞(1) 踩(0) | <div>有人知道除了编钟之外，这是什么乐器吗？萧？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428763405)<br><br>2020-11-16 21:34<br>赞(0) 踩(0) | <div>笛子 戴亚吹的好像</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431539923)<br><br>2019-12-20 12:37<br>赞(4) 踩(0) | <div>都说心情不好时不要听低沉的曲子，我偏想听，因为你就在这首曲子深处，虽然怨你，气你当年，但是在如水流年的洗涤下亲情越发清晰与浓厚，越来越想你了，父亲，你在那边可好？你会等女儿过去抱住你的腰，蹭着你的背耍赖皮吗？我会好好走过一生，一定给你交上一份你满意的人生答卷，来世我还会赖着你，等我啊。 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428276180)<br><br>2019-12-16 00:55<br>赞(20) 踩(0) | <div>一个人最好的财富，不是钱财，而是人品，一个人最好的资本，不是能力，而是人品!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428276180)<br><br>2019-12-16 00:55<br>赞(20) 踩(0) | <div>一个人最好的财富，<br>不是钱财，而是人品，<br>一个人最好的资本，<br>不是能力，而是人品!</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377067712)<br><br>2019-12-31 10:45<br>赞(0) 踩(0) | <div>这个时代唯一一个这么想的人</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28809970)<br><br>2020-06-07 19:38<br>赞(0) 踩(0) | <div><q><b>ATRACTIVO说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431539923)<br><br>2019-12-11 00:04<br>赞(4) 踩(0) | <div>为什么选择死亡？因为已看透人间冷暖，因为所爱已逝，因为满目苍凉，因为除了冰冷和酸涩周而复始如影随形，再也体会不到美好，死亡才是正解。</div> |
@@ -71,14 +68,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304188826)<br><br>2019-08-16 06:15<br>赞(2) 踩(0) | <div>逝者安息，生者坚强，人生如梦一场，请一路走好，外婆愿极乐世界大门为你敞开，愿极乐世界永远没有人间疾苦 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png">南无阿弥陀佛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12455867)<br>tuzidexx3597<br>2019-08-11 19:16<br>赞(2) 踩(0) | <div>静静的 <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306888537)<br><br>2019-08-04 23:37<br>赞(5) 踩(0) | <div>我是大明宫的粉丝 快20年了 忘不了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38639549)<br><br>2019-07-16 14:30<br>赞(3) 踩(0) | <div>看这一江春水看这如黛青山</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38639549)<br><br>2019-07-16 14:30<br>赞(3) 踩(0) | <div>看这一江春水<br>看这如黛青山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10559122)<br>我还没想好要写什么...<br>2019-06-28 22:09<br>赞(4) 踩(0) | <div>死即归去，但愿灵魂乘风而去时能这样悠远自在飘摇。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364201937)<br><br>2019-06-09 01:45<br>赞(6) 踩(0) | <div>现在2019年了。没有几个人在听 了。可我每周都在听，不能自拔。你就不会喜欢上我</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424881814)<br><br>2019-12-30 17:05<br>赞(0) 踩(0) | <div>我喜欢这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350173298)<br>我还没想好花谢为花开，花...<br>2019-05-25 08:48<br>赞(4) 踩(0) | <div>女人要爱情，也要安全感，只有彼此信任，才能让她们感觉到真正的安全。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312824586)<br><br>2019-04-30 16:41<br>赞(8) 踩(0) | <div>是啊，这世界没有爱不好，太想爱会让你失望</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341144158)<br><br>2019-04-15 01:08<br>赞(1) 踩(0) | <div>2:17的时候，雨停了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39066772)<br>何处不喧嚣，何人不寂寞。<br>2019-04-05 00:33<br>赞(4) 踩(0) | <div>这么美的曲子，取名却为《死亡》。要是可以这么美的死，该有多好。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39066772)<br>何处不喧嚣，何人不寂寞。<br>2019-04-05 00:33<br>赞(4) 踩(0) | <div>这么美的曲子，取名却为《死亡》。<br>要是可以这么美的死，该有多好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357290402)<br><br>2019-04-03 23:14<br>赞(5) 踩(0) | <div>中国也有优秀的配乐大师</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337137106)<br>泰国曼谷歌迷<br>2019-03-30 11:31<br>赞(1) 踩(0) | <div>Great!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10035837)<br>好音樂永相隨<br>2019-03-29 17:16<br>赞(2) 踩(0) | <div>不知太平是幸运还是不幸，她的两任丈夫都是为了表示对爱情的忠贞不渝而自杀，他们总归都太懦弱了。</div> |
@@ -95,9 +92,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177864586)<br>She killed m...<br>2018-11-01 22:09<br>赞(1) 踩(0) | <div>平静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289226447)<br><br>2018-10-18 16:16<br>赞(4) 踩(0) | <div>就喜欢听纯音乐，没有词，安安静静地，一个人，什么都在音乐中，不说不哭也不闹，想着想着就好了，天凉了，我关心的你，记得加衣，，，记得时刻照顾好自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257401002)<br><br>2018-10-15 17:08<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289352491)<br>静下心来，过好自己平淡而...<br>2018-09-06 07:39<br>赞(4) 踩(0) | <div>有些事，有些人，已经走远了却又牢牢盘踞着我记忆的领地那就这样静静漂浮在梦的长河不感伤过往，不期待前方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289352491)<br>静下心来，过好自己平淡而...<br>2018-09-06 07:39<br>赞(4) 踩(0) | <div>有些事，有些人，已经走远了<br>却又牢牢盘踞着我记忆的领地<br>那就这样静静漂浮在梦的长河<br>不感伤过往，不期待前方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50381060)<br><br>2018-08-13 16:19<br>赞(5) 踩(0) | <div>******</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25018591)<br><br>2018-06-26 15:55<br>赞(23) 踩(0) | <div>此刻就在大明宫遗址公园古人已去久不在，空留旧土叹古今。千古繁华如烟云，风轻柳拂不相言。2018.6.26</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25018591)<br><br>2018-06-26 15:55<br>赞(23) 踩(0) | <div>此刻就在大明宫遗址公园<br>古人已去久不在，空留旧土叹古今。<br>千古繁华如烟云，风轻柳拂不相言。<br><br>2018.6.26</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59367130)<br>天地不仁 以万物为刍狗<br>2018-06-14 00:21<br>赞(4) 踩(0) | <div>太美了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233113502)<br> <br>2018-06-12 00:02<br>赞(3) 踩(0) | <div>听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278783392)<br><br>2018-05-29 23:01<br>赞(2) 踩(0) | <div>凄神寒骨</div> |
@@ -148,7 +145,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49780386)<br>Scarlett Joh...<br>2017-10-11 00:37<br>赞(2) 踩(0) | <div>前面一直没哭，直到最后一集这首曲出现。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26795046)<br><br>2017-09-29 20:52<br>赞(3) 踩(0) | <div>这么凄美的曲子，竟忘了是死亡，有解脱的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326853396)<br>我还没想好要写什么...<br>2017-09-25 22:57<br>赞(1) 踩(0) | <div>B站看过大明宫词，想听音乐 <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285527187)<br> <br>2017-09-09 10:06<br>赞(14) 踩(0) | <div>年少时看过最动人心魄的故事，心中再不敢随意触碰的经典。爱过的人一个个离去，没想到懵懂的年纪竟也隔着屏幕泪流满面，浑身被抽空般动弹不得。为爱情更为死亡震撼，死亡究竟对人意味着什么？听过最美丽的诗：看这一江春水，看这满树桃花，看这如黛青山，都没有丝毫改变。看对面来的是谁家女子，生得春光满面，美丽非凡，这位姑娘，请你停下美丽的脚步，你可知自己犯下了什么样的错误？你的错误就是美若天仙，你婀娜的身姿让我的手不听使唤，你蓬松的乌发涨满了我的眼帘，看不见道路山川，只有漆黑一片。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285527187)<br> <br>2017-09-09 10:06<br>赞(14) 踩(0) | <div>年少时看过最动人心魄的故事，心中再不敢随意触碰的经典。爱过的人一个个离去，没想到懵懂的年纪竟也隔着屏幕泪流满面，浑身被抽空般动弹不得。为爱情更为死亡震撼，死亡究竟对人意味着什么？<br><br>听过最美丽的诗：<br>看这一江春水，<br>看这满树桃花，<br>看这如黛青山，<br>都没有丝毫改变。<br><br>看对面来的是谁家女子，<br>生得春光满面，美丽非凡，<br>这位姑娘，请你停下美丽的脚步，你可知自己犯下了什么样的错误？<br><br>你的错误就是美若天仙，<br>你婀娜的身姿让我的手不听使唤，<br>你蓬松的乌发涨满了我的眼帘，<br>看不见道路山川，只有漆黑一片。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289044134)<br><br>2017-09-06 01:49<br>赞(1) 踩(0) | <div>啦啦啦坎坎坷坷面膜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74708852)<br><br>2017-09-03 20:01<br>赞(2) 踩(0) | <div>昨天看李治临终前和太平演这段皮影戏看哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/654068)<br> <br>2017-08-15 18:34<br>赞(6) 踩(0) | <div>这是李治临终前和太平演皮影戏的BGM，这段也是整个大明宫词里让我飙泪的片段之一。</div> |
@@ -170,7 +167,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50520284)<br>他比烟花灿烂<br>2017-02-06 08:41<br>赞(7) 踩(0) | <div>李治临终前太平和他演皮影戏、最后李隆基躺在他姑母怀里听故事的bgm..生生看哭。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49955201)<br>(◐‿◑)﻿<br>2016-12-28 15:41<br>赞(4) 踩(0) | <div>第一次听到这Bgm是在武则天和太子剑拔弩张时，皇上还沉迷与皮影戏中和媚娘的第一次见面，那年少时最美丽的梦啊…心疼皇上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31028791)<br>网易和q也是神圣剑帝<br>2016-12-01 11:26<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/150670362)<br>极寒之地生大热之心<br>2016-11-19 21:15<br>赞(5) 踩(0) | <div>晚香当风尘盖住了风霜我才看到了你真实的模样透明的微笑清远的目光笃定从容信步生香这是冰火调和后的经年窖藏酝酿出的一缕晚香</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/150670362)<br>极寒之地生大热之心<br>2016-11-19 21:15<br>赞(5) 踩(0) | <div>晚香<br><br>当风尘盖住了风霜<br>我才看到了你真实的模样<br>透明的微笑<br>清远的目光<br>笃定从容<br>信步生香<br>这是冰火调和后的经年窖藏<br>酝酿出的一缕晚香</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57980314)<br>拥一场温凉凉的梦    ...<br>2016-10-30 17:28<br>赞(11) 踩(0) | <div>我犯的错误 是因为我太想爱了 我爱我的父亲 我的母亲 我的哥哥们 这个世界上没有爱不好 而太想爱了 就会令你更失望</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57980314)<br>拥一场温凉凉的梦    ...<br>2016-10-30 17:23<br>赞(1) 踩(0) | <div>我犯的错误 是因为我太想爱了 我爱我的父亲 我的母亲 我的哥哥们 还有我的晚辈 这个世界上没有爱不好 而太想爱了 就会令你更失望</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243439577)<br><br>2016-12-16 13:14<br>赞(0) 踩(0) | <div>对</div> |
@@ -199,7 +196,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58525892)<br>"放过自己"<br>2016-04-05 02:15<br>赞(5) 踩(0) | <div>台词印象太深了,这是多么入髓情感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11351373)<br>。<br>2016-04-04 21:46<br>赞(4) 踩(0) | <div>最爱的古装剧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49996126)<br>我还没想好要写什么...<br>2016-04-04 20:17<br>赞(1) 踩(0) | <div>我太了解这个世界的规律，因此它在我眼里完全丧失了美感。我怀抱着出生时的激情步入另外一个世界，我凭直觉感到那是一个更优美的所在。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37142537)<br><br>2016-03-29 23:11<br>赞(4) 踩(0) | <div>人生若只如初见倘若太平和薛绍之间只如初见那般美好而淡然，有的只是初见时的惊艳和怦然心动，没有后来的爱怨折磨，纠缠埋怨，虽有的失望和遗憾，却也未必不是一种幸福</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37142537)<br><br>2016-03-29 23:11<br>赞(4) 踩(0) | <div>人生若只如初见<br>倘若太平和薛绍之间只如初见那般美好而淡然，有的只是初见时的惊艳和怦然心动，没有后来的爱怨折磨，纠缠埋怨，虽有的失望和遗憾，却也未必不是一种幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36081194)<br>酷狗音乐，一个有老歌的地...<br>2016-03-25 00:53<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44991581)<br>暂无签名~<br>2016-03-18 12:17<br>赞(1) 踩(0) | <div>死亡是什么感觉？我先死一死，晚上你们睡觉的时候告诉你们感觉，顺便把你们都带走！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101524026)<br><br>2016-02-01 14:54<br>赞(1) 踩(0) | <div>太牛逼</div> |
@@ -302,10 +299,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7564554)<br><br>2013-05-24 20:45<br>赞(0) 踩(0) | <div>死亡，为何却如此优雅？只有雨中阵阵招魂铃才能勘破一丝腐朽气息...凄美不可言状</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14470410)<br>我还没想好要写什么...<br>2013-05-15 08:54<br>赞(1) 踩(0) | <div>竟是如此从容优雅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8929422)<br><br>2013-04-07 16:00<br>赞(1) 踩(0) | <div>这位姑娘请停下你美丽的脚步，你可知你犯了怎样的错误</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/789437)<br><br>2013-03-08 17:16<br>赞(2) 踩(0) | <div>伴着谁家檐前的铁马叮当轻掀开暗影里的薄纱轻帐漫一段柔软的笛声婉转似一支折枝绿柳   伸出   柔韧牵袢轻悄的琴声掉落落出一地的流水珠光生命的唯美长息伤而不怨在一种重重叠叠 千转百回的幽深温柔里是春风   将老的沉重记《大明宫词》插曲《死亡》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/789437)<br><br>2013-03-08 17:16<br>赞(2) 踩(0) | <div>伴着谁家檐前的铁马叮当<br><br>轻掀开暗影里的薄纱轻帐<br><br>漫一段柔软的笛声婉转<br><br>似一支折枝绿柳   伸出   柔韧牵袢<br><br>轻悄的琴声掉落<br><br>落出一地的流水珠光<br><br>生命的唯美长息<br><br>伤而不怨<br><br>在一种重重叠叠 千转百回的幽深温柔里<br><br>是春风   将老的沉重<br><br><br><br>记《大明宫词》插曲《死亡》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/789437)<br><br>2013-03-08 17:14<br>赞(0) 踩(0) | <div>春风将老</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10566466)<br><br>2012-12-06 03:25<br>赞(2) 踩(0) | <div>看这一江春水．．．看这满树桃花．．．看这如黛青山．．．都 没有丝毫的改变看对面来的 是谁家的女子生的春光满面,美丽非凡啊,这位姑娘请你停下美丽的脚 步你可知自己犯下了什么样的错误</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10566466)<br><br>2012-12-06 03:13<br>赞(0) 踩(0) | <div>看这一江春水，看这满树桃花，看这如黛青山，都没有丝毫改变。看对面来的是谁家女子，生得春光满面，美丽非凡。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10566466)<br><br>2012-12-06 03:25<br>赞(2) 踩(0) | <div>看这一江春水．．．<br>看这满树桃花．．．<br>看这如黛青山．．．<br>都 没有丝毫的改变<br><br>看对面来的 是谁家的女子<br>生的春光满面,美丽非凡<br>啊,这位姑娘<br>请你停下美丽的脚 步<br>你可知<br>自己犯下了什么样的错误</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10566466)<br><br>2012-12-06 03:13<br>赞(0) 踩(0) | <div>看这一江春水，看这满树桃花，看这如黛青山，都没有丝毫改变。<br>看对面来的是谁家女子，生得春光满面，美丽非凡。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3624584)<br><br>2012-11-14 02:15<br>赞(0) 踩(0) | <div>深夜忆起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8028392)<br><br>2012-11-08 10:29<br>赞(0) 踩(0) | <div>来途若梦行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8377886)<br> <br>2012-10-26 22:52<br>赞(0) 踩(0) | <div>清冷 #换个口味#</div> |
@@ -335,7 +332,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1440252)<br>不问耕耘，只问收获<br>2012-01-16 04:32<br>赞(0) 踩(0) | <div>死亡也唯美。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378711)<br>单曲循环控<br>2012-01-16 01:46<br>赞(0) 踩(0) | <div>死亡被曲子渲染的凄美绝伦，仿佛值得期待。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2572531)<br>仿佛水消失在水中<br>2012-01-14 15:20<br>赞(0) 踩(0) | <div>每次都是冬天。冷清。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5809458)<br><br>2011-12-02 12:53<br>赞(2) 踩(0) | <div>这位姑娘，请停下美丽的脚步你可知犯下什么样的错误这位官人，明明是你的马蹄踢翻了我的竹篮，看这宽阔的道路直通蓝天，却非让这可恶的畜生溅我满身泥点，怎么反倒怪罪是我的错误你的错误就是美若天仙，婀娜的身姿让我的手不听使唤，蓬松的秀发涨满了我的眼帘，看不见道路山川，只是漆黑一片</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5809458)<br><br>2011-12-02 12:53<br>赞(2) 踩(0) | <div>这位姑娘，请停下美丽的脚步你可知犯下什么样的错误<br>这位官人，明明是你的马蹄踢翻了我的竹篮，看这宽阔的道路直通蓝天，却非让这可恶的畜生溅我满身泥点，怎么反倒怪罪是我的错误<br>你的错误就是美若天仙，婀娜的身姿让我的手不听使唤，蓬松的秀发涨满了我的眼帘，看不见道路山川，只是漆黑一片</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6078818)<br>音樂是解藥<br>2011-11-19 17:56<br>赞(0) 踩(0) | <div>大明宫词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2758099)<br>践破鸿蒙。<br>2011-11-04 21:50<br>赞(0) 踩(0) | <div>“你也是，跟他们一起永久性闪人了。我逐渐觉得自身的存在感持续淡薄，就在我不在中国的这两年。因这些本是活生生的机体莫名其妙地停止运作，都赶在这两年。于是那些被你的食物抚慰过的肠胃，在你庇佑下屡次幸免于难的发肤，它们仍然成长代谢得这么拼命这么蓬勃，就好像为着延续你和他们的命线一样。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332966)<br><br>2011-10-27 18:15<br>赞(0) 踩(0) | <div>有人一直守候，有人如沐春风，有人不经意带来温暖，有人令你意外一诧。爱恨是非，最后了了。</div> |
@@ -355,6 +352,6 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1666108)<br><br>2011-04-01 21:20<br>赞(0) 踩(0) | <div>居然有了落泪的冲动...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2525409)<br><br>2011-04-01 12:11<br>赞(0) 踩(0) | <div>大明宫词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/473956)<br><br>2011-03-02 15:02<br>赞(0) 踩(0) | <div>原来是皮影时的插曲，当初看电视时就很喜欢，一种深深的哀伤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2143833)<br><br>2010-12-26 13:45<br>赞(0) 踩(0) | <div>出自【大明宫词】她是大唐帝国中最受宠爱的女人——太平公主。梦回唐朝</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2143833)<br><br>2010-12-26 13:45<br>赞(0) 踩(0) | <div>出自【大明宫词】<br>她是大唐帝国中最受宠爱的女人——太平公主。梦回唐朝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1662939)<br><br>2010-10-23 20:55<br>赞(0) 踩(0) | <div>唐高宗的皮影~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179705)<br><br>2009-07-01 14:03<br>赞(0) 踩(0) | <div>看这一江春水 看这满溪桃花</div> |

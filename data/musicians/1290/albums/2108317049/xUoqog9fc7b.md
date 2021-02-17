@@ -69,8 +69,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36306973)<br>暂无签名~<br>2020-04-18 23:16<br>赞(0) 踩(0) | <div>回到拉萨了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352934232)<br>热二定律启示：一旦成为封...<br>2020-04-18 14:42<br>赞(0) 踩(0) | <div>采风行动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352934232)<br>热二定律启示：一旦成为封...<br>2020-04-18 14:42<br>赞(0) 踩(0) | <div>这，一张专辑基本都是用一把吉他配下来的。</div> |

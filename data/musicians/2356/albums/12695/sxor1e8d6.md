@@ -69,11 +69,11 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446433127)<br><br>2020-12-31 14:41<br>赞(0) 踩(0) | <div>不，暴风雨和雷声不会都是我们的亲吻在我的掩护下还有你的位置一坐两个病态情人的坟墓</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446433127)<br><br>2020-12-31 14:41<br>赞(0) 踩(0) | <div>暴风雨和雷声不会阻止我们的亲吻在我的掩护下还有你的位置两个病态情人的坟墓。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446433127)<br><br>2020-12-31 14:40<br>赞(0) 踩(0) | <div>暴风雨和雷声不会阻止我们的亲吻在我的掩护下还有你的位置两个病态情人的坟墓</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446433127)<br><br>2020-12-31 14:41<br>赞(0) 踩(0) | <div>不，暴风雨和雷声不会都是我们的亲吻<br>在我的掩护下还有你的位置<br>一坐两个病态情人的坟墓</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446433127)<br><br>2020-12-31 14:41<br>赞(0) 踩(0) | <div>暴风雨和雷声不会阻止我们的亲吻<br>在我的掩护下还有你的位置<br>两个病态情人的坟墓。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446433127)<br><br>2020-12-31 14:40<br>赞(0) 踩(0) | <div>暴风雨和雷声不会阻止我们的亲吻<br>在我的掩护下还有你的位置<br>两个病态情人的坟墓</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408565009)<br><br>2020-12-16 19:18<br>赞(1) 踩(0) | <div>陈老师写的歌果然好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226337821)<br>我还没想好要写什么.<br>2020-09-19 13:10<br>赞(0) 踩(0) | <div>我一无所有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433800710)<br><br>2020-07-19 23:58<br>赞(0) 踩(0) | <div>先知道的《烟火》，然后偶然发现这歌曲子和《烟火》一样～也很好听啊～</div> |
@@ -87,7 +87,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429881042)<br><br>2019-09-17 09:43<br>赞(0) 踩(0) | <div>有人和我一样get不到这首歌的点吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231669863)<br>- 積極樂觀 感恩惜福 ...<br>2020-04-02 03:48<br>赞(0) 踩(0) | <div>那你过来叭叭啥？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49608367)<br>风再大都绕过我的灵魂<br>2019-07-03 22:24<br>赞(0) 踩(0) | <div>我要自由</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2019-05-13 23:34<br>赞(1) 踩(0) | <div>凡事讲证据喜欢你的365天8760小时525600分31536000秒&nbsp;孤独和时间作证 ​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2019-05-13 23:34<br>赞(1) 踩(0) | <div>凡事讲证据<br>喜欢你的365天<br>8760小时<br>525600分<br>31536000秒&nbsp;<br>孤独和时间作证 ​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260167529)<br>爱音乐的疯子<br>2019-04-29 15:12<br>赞(0) 踩(0) | <div>陈绮贞写的这首歌真好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346165752)<br><br>2019-04-23 08:57<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356825106)<br><br>2019-04-18 23:20<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -109,7 +109,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83639096)<br>我还没想好要写什么...<br>2018-12-09 16:21<br>赞(2) 踩(0) | <div>杨乃文的每一遍都是新的一遍 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289288396)<br>心胸开阔眼界宽，天地可鉴...<br>2018-11-28 14:59<br>赞(2) 踩(0) | <div>乃文失恋无罪释放自己这首歌就是真实的故事，一杯爱情酿的酒，难喝下咽！无法回头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289288396)<br>心胸开阔眼界宽，天地可鉴...<br>2018-11-28 14:57<br>赞(1) 踩(0) | <div>乃文替我说，我双鱼为什么要唱女爵摇滚</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16096828)<br>甜梦给晚风。<br>2018-11-22 09:23<br>赞(3) 踩(0) | <div>让你在说谎的时候想到我，会很隐痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16096828)<br>甜梦给晚风。<br>2018-11-22 09:23<br>赞(3) 踩(0) | <div>让你在说谎的时候<br>想到我，会很隐痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10548162)<br>没什么社会经验容易被骗<br>2018-11-20 21:03<br>赞(1) 踩(0) | <div>居然是老陈作曲！对老陈老杨对一分喜爱！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289288396)<br>心胸开阔眼界宽，天地可鉴...<br>2018-11-13 22:54<br>赞(1) 踩(0) | <div>一个非常感性的诗人！你是巨蟹吗作词人，我是双鱼！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191941579)<br><br>2018-10-29 00:37<br>赞(0) 踩(0) | <div>当年的陈绮贞才刚留着圆盖头唱还是会寂寞，当年的怪兽01年貌似正是五月天当兵的时期，杨乃文出第二张专辑，在台湾红过一阵，那时候的我才下小学……</div> |
@@ -175,7 +175,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4838658)<br>我还没想好要写什么...<br>2019-03-31 10:54<br>赞(0) 踩(0) | <div>始终觉得林伟哲的这个词更适合这个旋律。特别不喜欢烟火的词</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353395837)<br><br>2019-09-06 16:26<br>赞(0) 踩(0) | <div>喜欢歌词呀 有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94071592)<br>我还没想好要写什么...<br>2016-10-15 19:09<br>赞(1) 踩(0) | <div>我要用最温柔的复仇                                          我要用最温柔的刑求                                            让你一无所有</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19408877)<br><br>2016-10-14 13:39<br>赞(1) 踩(0) | <div>我要用最温柔的刑求让你一无所有让你在说谎的时候想到我会很心痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19408877)<br><br>2016-10-14 13:39<br>赞(1) 踩(0) | <div>我要用最温柔的刑求<br>让你一无所有<br>让你在说谎的时候<br>想到我会很心痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226973916)<br><br>2016-09-16 15:34<br>赞(1) 踩(0) | <div>林宥嘉版本怎么找不到了。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40351612)<br><br>2016-08-24 23:59<br>赞(0) 踩(0) | <div>听多少年也不够。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197868912)<br>突然好想你<br>2016-07-28 14:33<br>赞(1) 踩(0) | <div>这首歌。。。真的太双鱼了！一言不合就出走，冷战一星期没商量。</div> |

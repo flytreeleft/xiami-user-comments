@@ -3,13 +3,10 @@ bonbonos
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8dc89e6f640eb054472773322114aceb.jpg)<br>bonbonos](https://i.xiami.com/rj) | **播放数**: 1022056<br>**粉丝数**: 356<br>**评论数**: 37<br>**地区**: China 中国大陆<br>**风格**: 沙发音乐 Lounge, 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 独立电子乐 Indietronica<br> |
+| [![](../../images/musicians/8dc89e6f640eb054472773322114aceb.jpg)<br>bonbonos](https://i.xiami.com/rj) | **地区**: China 中国大陆<br>**风格**: 沙发音乐 Lounge, 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 独立电子乐 Indietronica<br>**播放数**: 1022056<br>**粉丝数**: 356<br>**评论数**: 37<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -34,8 +31,8 @@ bonbonos
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103625770)<br>不言不语都是好风景……<br>2021-01-06 00:35<br>赞(0) 踩(0) | <div>虾米关了，还可以去哪里听你的音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33721035)<br>虾米是个很棒很有特点的音...<br>2021-01-06 14:52<br>赞(0) 踩(0) | <div>谢谢你来听我的歌呀～正在含泪向网易云音乐搬家中，可以搜bonbonos，能找到我</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/571537)<br>感觉很重要<br>2020-10-22 12:35<br>赞(0) 踩(0) | <div>加油！</div> |

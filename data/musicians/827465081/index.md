@@ -3,13 +3,10 @@ Andy Chow
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5e5b0b3a18e854202c7bbef642e3e38e.jpg)<br>Andy Chow](https://i.xiami.com/zhouxiaozhou) | **播放数**: 1512500<br>**粉丝数**: 54<br>**评论数**: 10<br>**地区**: China 中国大陆<br>**风格**: 氛围回响 Ambient Dub, 极简主义 Minimalism, 现代古典 Modern Classical, 电影原声 Film Score, 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/5e5b0b3a18e854202c7bbef642e3e38e.jpg)<br>Andy Chow](https://i.xiami.com/zhouxiaozhou) | **地区**: China 中国大陆<br>**风格**: 氛围回响 Ambient Dub, 极简主义 Minimalism, 现代古典 Modern Classical, 电影原声 Film Score, 独立民谣 Indie Folk<br>**播放数**: 1512500<br>**粉丝数**: 54<br>**评论数**: 10<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -23,8 +20,8 @@ Andy Chow
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346165752)<br><br>2019-03-11 18:51<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48966183)<br>但行好事，莫问前程。<br>2016-02-02 00:12<br>赞(2) 踩(0) | <div>挺好的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3990960)<br><br>2015-11-28 00:31<br>赞(0) 踩(0) | <div>加油哇~</div> |

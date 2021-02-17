@@ -77,10 +77,10 @@ ISRC CN-A13-14-00129
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291460841)<br> <br>2020-11-13 10:57<br>赞(0) 踩(0) | <div>说实话，超女时期并不觉得郁可唯有什么特色，但浪姐不仅让我惊艳了她的颜值，还重新发现原来实力这么强啊，声音很空灵，还有层次，情感丰富，太好听了~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297969789)<br>旅行，不为跋涉千里的向往...<br>2020-10-16 00:31<br>赞(0) 踩(0) | <div>爱要多现实我输得多讽刺像个傻子一样孤注一掷</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297969789)<br>旅行，不为跋涉千里的向往...<br>2020-10-16 00:31<br>赞(0) 踩(0) | <div>爱要多现实<br>我输得多讽刺<br>像个傻子一样孤注一掷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294091491)<br>招摇我本性<br>2020-09-19 12:02<br>赞(0) 踩(0) | <div>这个词写的真的好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27189624)<br>国家高级美发技师 考评员<br>2020-09-04 23:00<br>赞(0) 踩(0) | <div>绝对是一段故事！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402533007)<br>百忍堂中有泰和，一勤天下...<br>2020-07-27 20:48<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
@@ -103,7 +103,7 @@ ISRC CN-A13-14-00129
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615607)<br> 哪有什么岁月安好，只是...<br>2019-12-16 00:07<br>赞(0) 踩(0) | <div>爱要多现实</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349750290)<br><br>2019-11-12 06:37<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255336726)<br>我还没想好要写什么...<br>2019-09-23 08:03<br>赞(1) 踩(0) | <div>伤心的时候听，刚刚好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297951316)<br>你不妨大胆一些，爱一个人...<br>2019-08-05 09:06<br>赞(1) 踩(0) | <div>爱要没瑕疵这梦想多幼稚为了无谓的事情挖空了心思</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297951316)<br>你不妨大胆一些，爱一个人...<br>2019-08-05 09:06<br>赞(1) 踩(0) | <div>爱要没瑕疵<br>这梦想多幼稚<br>为了无谓的事情挖空了心思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122959886)<br>Dearest<br>2019-07-30 01:36<br>赞(4) 踩(0) | <div>我爱你穷途末路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416137500)<br><br>2019-06-28 07:43<br>赞(4) 踩(0) | <div>爱没有理由，没有为什么，有的就是现实，没有是纯真。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102207290)<br><br>2019-05-05 15:28<br>赞(0) 踩(0) | <div>大学就爱的歌</div> |
@@ -124,11 +124,11 @@ ISRC CN-A13-14-00129
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327604850)<br><br>2018-10-09 07:25<br>赞(1) 踩(0) | <div>爱就是那么现实</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93002548)<br>坐看云起时。<br>2018-09-22 23:58<br>赞(1) 踩(0) | <div>爱要多现实。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297641991)<br><br>2018-09-19 01:53<br>赞(3) 踩(0) | <div>每次和男朋友吵架 来听这首歌必哭</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7087065)<br>我想我可以<br>2018-08-31 16:30<br>赞(6) 踩(0) | <div>爱要没瑕疵这梦想多幼稚这是对我最大的讽刺我可以接受你不够爱我绝不接受你爱别人一丝一毫都不可以</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7087065)<br>我想我可以<br>2018-08-31 16:30<br>赞(6) 踩(0) | <div>爱要没瑕疵<br>这梦想多幼稚<br>这是对我最大的讽刺<br>我可以接受你不够爱我<br>绝不接受你爱别人<br>一丝一毫都不可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313999727)<br>归化的理想止于现实中的苟...<br>2018-08-13 23:53<br>赞(0) 踩(0) | <div>爱情不如面包的现实横桓面前不努力怎么办？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357497811)<br>我最暖的忧伤在何处<br>2018-08-13 20:39<br>赞(1) 踩(0) | <div>gay</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242793335)<br><br>2018-07-23 14:53<br>赞(2) 踩(0) | <div>我还是理解你的一切甚至对我的讨厌还是在心里希望你一切都好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242793335)<br><br>2018-07-23 14:52<br>赞(1) 踩(0) | <div>爱要多现实我输得多讽刺</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242793335)<br><br>2018-07-23 14:53<br>赞(2) 踩(0) | <div>我还是理解你的一切<br>甚至对我的讨厌<br>还是在心里希望你一切都好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242793335)<br><br>2018-07-23 14:52<br>赞(1) 踩(0) | <div>爱要多现实<br>我输得多讽刺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257612668)<br><br>2018-07-14 21:00<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251100367)<br><br>2018-07-11 16:59<br>赞(0) 踩(0) | <div>痛孙0俄亥俄0</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39403875)<br>想和你去别人不知道但很浪...<br>2018-06-23 13:31<br>赞(1) 踩(0) | <div>听这首歌突然想起后来的我们？</div> |
@@ -142,8 +142,8 @@ ISRC CN-A13-14-00129
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321455053)<br><br>2018-03-24 00:53<br>赞(1) 踩(0) | <div>爱很现实，而现实生活中我选择了两个城市，不知道未来会是怎么样，但我会一直在默默地承受着这种压力与思念，不然我无法成长无法学会爱学会爱自己，既然选择了就要承受着这个过程的折磨与困苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332322741)<br>一首歌，一种心情，内心情...<br>2018-03-16 13:20<br>赞(1) 踩(0) | <div>很好听，很好听，很好听，重要事情说三遍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273705233)<br>生命，生而例外；生活，就...<br>2018-02-26 07:34<br>赞(0) 踩(0) | <div>哈哈(ಡ&amp;omega;ಡ)hiahiahia</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252729346)<br>知足常乐<br>2018-02-23 21:36<br>赞(1) 踩(0) | <div>爱要多明智，才不会被鄙视，能够容下所有人的面子。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351861154)<br><br>2018-02-23 00:15<br>赞(2) 踩(0) | <div>爱要多明智才不会被鄙视才能活得没有他们的影子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252729346)<br>知足常乐<br>2018-02-23 21:36<br>赞(1) 踩(0) | <div>爱要多明智，<br>才不会被鄙视，<br>能够容下所有人的面子。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351861154)<br><br>2018-02-23 00:15<br>赞(2) 踩(0) | <div>爱要多明智<br>才不会被鄙视<br>才能活得没有他们的影子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271784329)<br><br>2018-02-06 01:52<br>赞(0) 踩(0) | <div>刚开始听   就只觉得很好听  可是呢越听越觉得  悲伤   夜深不要听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14056974)<br>这家伙很聪明什么也没留下...<br>2018-02-03 11:39<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335296067)<br>错爱只是为真爱作证。<br>2018-01-31 09:45<br>赞(1) 踩(0) | <div>像个傻子一样孤注一掷。</div> |
@@ -168,7 +168,7 @@ ISRC CN-A13-14-00129
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50174697)<br>你看我哭，看我笑，看我疯...<br>2017-10-28 00:25<br>赞(0) 踩(0) | <div>#早安，早起者联盟# @焦糖香蕉鱼 @北京的云美人 @牛的华尔兹 @开心的田姐 @冰雪玉儿 @倚栏看耍流氓 @鍾中鍾中 @籽椰@玲波媚步 @珑玲080 @威不足道wlw @正是 @Chen_豆豆_ @小机器人荷荷 @李庚阳 @醒灵寺广觉释慈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28208899)<br><br>2017-10-28 00:19<br>赞(0) 踩(0) | <div>#郁可唯新专辑温水# #郁可唯# 爱要多现实 我输得多讽刺 像个傻子一样孤注一掷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262714120)<br> <br>2017-10-28 00:03<br>赞(1) 踩(0) | <div>想要没有瑕疵的爱，真是幼稚的傻死了！哈哈哈可笑的我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8926360)<br>你.. 就.不要.想起我...<br>2017-10-27 23:19<br>赞(2) 踩(0) | <div>哎　　爱　　爱要多现实哎　　爱　　爱要多放肆哎　　爱　　爱要多明智哎　　爱　　爱要怎样才能没有瑕疵</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8926360)<br>你.. 就.不要.想起我...<br>2017-10-27 23:19<br>赞(2) 踩(0) | <div>哎　　爱　　爱要多现实<br>哎　　爱　　爱要多放肆<br>哎　　爱　　爱要多明智<br>哎　　爱　　爱要怎样才能没有瑕疵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328801108)<br>一生所爱<br>2017-10-18 21:27<br>赞(1) 踩(0) | <div>睡觉前听着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318025679)<br>我只是一朵带刺的玫瑰<br>2017-10-09 08:42<br>赞(1) 踩(0) | <div>宝贝，你们的表演也算淋漓尽致了，我这个观众也看着感动的，既然大家都不要脸了，那么以后随时可以来家里的，不用再牵挂着，找借口开房去，我就是表明一下我的态度而已！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10839557)<br>请你远离我的岛。<br>2017-10-06 08:41<br>赞(0) 踩(0) | <div>所以 要多现实呢？</div> |
@@ -408,7 +408,7 @@ ISRC CN-A13-14-00129
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30289359)<br><br>2014-06-26 21:01<br>赞(0) 踩(0) | <div>《爱要多现实》 --郁可唯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38485203)<br><br>2014-06-26 20:55<br>赞(0) 踩(0) | <div>爱要多放肆。才冲的破理智！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2691052)<br>且看那青山綠水別來無恙。<br>2014-06-26 18:48<br>赞(1) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29869957)<br><br>2014-06-26 15:15<br>赞(0) 踩(0) | <div>爱要多放肆才冲得破理智要找多少华丽的托辞爱要多明智才不会被鄙视能够容下所有人的面子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29869957)<br><br>2014-06-26 15:15<br>赞(0) 踩(0) | <div>爱要多放肆<br>才冲得破理智<br>要找多少华丽的托辞<br>爱要多明智<br>才不会被鄙视<br>能够容下所有人的面子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3582782)<br>虾米终于跟好声音88了<br>2014-06-26 12:50<br>赞(2) 踩(0) | <div>这首的音区最是她的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160940)<br><br>2014-06-26 00:51<br>赞(0) 踩(0) | <div>我输得多讽刺，，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5788924)<br><br>2014-06-25 22:04<br>赞(0) 踩(0) | <div>前奏耳熟的很欠揍</div> |

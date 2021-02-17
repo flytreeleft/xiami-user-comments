@@ -43,9 +43,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 21:03<br>赞(0) 踩(0) | <div>《星光大道》是《绝对清白》里面其中我最近「地气」的创作，因为这真是关于'贴地'的。第一次到洛杉矶的荷李活星光大道观光，看到天皇巨星的名字，只是不在天上，而是地上：荷李活的级数，娱乐圈之巅，原来最终都只是被摘到地上。从British Idol开始，全世界的媒体都在举办歌唱比赛，造就了几多星星，也摧毁了几多灵魂；熬得住的，一是斗士，一是塔罗牌里的愚者，两者只有一线之差。&amp;mdash;&amp;mdash;一峰2020.4.25写于微博</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 21:03<br>赞(0) 踩(0) | <div>《星光大道》是《绝对清白》里面其中我最近「地气」的创作，因为这真是关于'贴地'的。<br><br>第一次到洛杉矶的荷李活星光大道观光，看到天皇巨星的名字，只是不在天上，而是地上：荷李活的级数，娱乐圈之巅，原来最终都只是被摘到地上。<br><br>从British Idol开始，全世界的媒体都在举办歌唱比赛，造就了几多星星，也摧毁了几多灵魂；熬得住的，一是斗士，一是塔罗牌里的愚者，两者只有一线之差。<br><br>&amp;mdash;&amp;mdash;一峰<br>2020.4.25写于微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253363126)<br><br>2017-06-01 08:09<br>赞(1) 踩(0) | <div>我蛮喜欢这声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1506235)<br>所以 最后 还好 有音乐<br>2017-05-23 10:52<br>赞(1) 踩(0) | <div>差点以为要唱 你的爱如潮水</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1506235)<br>所以 最后 还好 有音乐<br>2017-05-23 10:50<br>赞(0) 踩(0) | <div>不说我都没注意 倒回去听前奏。。。</div> |
@@ -62,7 +62,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77719248)<br><br>2017-05-03 01:36<br>赞(0) 踩(0) | <div>这首&amp;hellip;感觉怪怪的&amp;hellip; <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png">整张专辑里唯一听不下去的一首&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28013328)<br><br>2017-05-02 18:39<br>赞(1) 踩(0) | <div>鼓点太大声了，人声都盖住了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28013328)<br><br>2017-05-02 18:37<br>赞(0) 踩(0) | <div>第五首才到慢歌吗？这张的整个风格都和之前变化好大</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86270524)<br><br>2017-05-02 14:41<br>赞(0) 踩(0) | <div>这首比较吸耳朵！好像那首英文歌的，反正很讨好耳朵！ <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86270524)<br><br>2017-05-02 14:41<br>赞(0) 踩(0) | <div>这首比较吸耳朵！<br>好像那首英文歌的，反正很讨好耳朵！ <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2492768)<br><br>2017-05-02 02:55<br>赞(4) 踩(0) | <div>说&amp;hellip;这编曲如此post-rock是想干嘛 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41473170)<br><br>2017-05-02 00:00<br>赞(5) 踩(0) | <div>他的声音干净又有力！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4751317)<br>是谁来自山川湖海，却囿于...<br>2017-05-01 22:28<br>赞(0) 踩(0) | <div>封面神似李宇春</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3fe59218ad92432055063ad11cdd1303.jpg)<br>启帆网络音乐工作室](https://i.xiami.com/qifan) | **播放数**: 3283119<br>**粉丝数**: 57<br>**评论数**: 3<br>**地区**: China 中国大陆<br>**风格**: 日本流行 J-Pop, 标准歌曲 Standards, 国语流行 Mandarin Pop, 韩国流行 K-Pop, 欧美流行 Western Pop<br> |
+| [![](../../images/musicians/3fe59218ad92432055063ad11cdd1303.jpg)<br>启帆网络音乐工作室](https://i.xiami.com/qifan) | **地区**: China 中国大陆<br>**风格**: 日本流行 J-Pop, 标准歌曲 Standards, 国语流行 Mandarin Pop, 韩国流行 K-Pop, 欧美流行 Western Pop<br>**播放数**: 3283119<br>**粉丝数**: 57<br>**评论数**: 3<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264571993)<br><br>2017-01-20 08:43<br>赞(0) 踩(0) | <div>你好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42686046)<br><br>2014-10-22 13:01<br>赞(1) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42686046)<br><br>2014-10-20 11:43<br>赞(0) 踩(0) | <div>.</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a9f41715f7663d9a9e3cbcebe1bc3834.jpg)<br>冬子](https://i.xiami.com/dongzisang) | **播放数**: 11178641<br>**粉丝数**: 2353<br>**评论数**: 71<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 中国风 China-Wave, 古风 GuFeng Music<br> |
+| [![](../../images/musicians/a9f41715f7663d9a9e3cbcebe1bc3834.jpg)<br>冬子](https://i.xiami.com/dongzisang) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 中国风 China-Wave, 古风 GuFeng Music<br>**播放数**: 11178641<br>**粉丝数**: 2353<br>**评论数**: 71<br> |
 
 ## 档案
 
@@ -105,8 +105,8 @@ B站：@冬子小哥<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303018624)<br><br>2020-04-25 20:03<br>赞(1) 踩(0) | <div>唉嘛呀，不小心听到，很不错的编曲，棒，很有味道，粉啦 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/81757a78445f427ef5169932854221db.png"> <img src="../../images/comments/81757a78445f427ef5169932854221db.png"> <img src="../../images/comments/81757a78445f427ef5169932854221db.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434990338)<br><br>2019-12-31 17:03<br>赞(2) 踩(0) | <div>我希望你可以唱不羡明月知，一定好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246766073)<br> 我是kami<br>2019-05-08 02:06<br>赞(1) 踩(0) | <div>很好的音乐人，歌很好听，大部分都是免费的，唯一的缺点可能是没有滚动歌词吧</div> |
@@ -121,7 +121,7 @@ B站：@冬子小哥<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282531072)<br>只是听<br>2018-04-12 19:19<br>赞(0) 踩(0) | <div>冬哥 你应该还记得我吧 我是以前西宁简日的那个主唱 虽然我也离开了 也不唱歌了 但还是记得你给我说的很多话 也一直在关注你的作品 希望有缘再见 加油 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4837143)<br> <br>2018-04-24 00:25<br>赞(0) 踩(0) | <div>哥们儿 你留错地方了  不是冬子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114113562)<br>这里是一只废鱼章er<br>2018-04-10 19:39<br>赞(3) 踩(0) | <div>喜欢你的第二年 希望自己也能像你一样无论如何都不会放弃❤</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306065331)<br>幸福开始有人选<br>2018-04-10 13:29<br>赞(6) 踩(0) | <div>我说 你是人间的四月天；笑响点亮了四面风；轻灵在春的光艳中交舞着变。你是四月早天里的云烟，黄昏吹着风的软，星子在无意中闪，细雨点洒在花前。那轻，那娉婷，你是，鲜妍百花的冠冕你戴着，你是天真，庄严，你是夜夜的月圆。雪化后那片鹅黄，你像；新鲜初放芽的绿，你是；柔嫩喜悦，水光浮动着你梦期待中白莲。你是一树一树的花开，是燕在梁间呢喃，&amp;mdash;&amp;mdash;你是爱，是暖，是希望，你是人间的四月天！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306065331)<br>幸福开始有人选<br>2018-04-10 13:29<br>赞(6) 踩(0) | <div>我说 你是人间的四月天；<br><br>笑响点亮了四面风；<br><br>轻灵在春的光艳中交舞着变。<br><br>你是四月早天里的云烟，<br><br>黄昏吹着风的软，<br><br>星子在无意中闪，<br><br>细雨点洒在花前。<br><br>那轻，那娉婷，你是，<br><br>鲜妍百花的冠冕你戴着，<br><br>你是天真，庄严，<br><br>你是夜夜的月圆。<br><br>雪化后那片鹅黄，你像；<br><br>新鲜初放芽的绿，你是；<br><br>柔嫩喜悦，<br><br>水光浮动着你梦期待中白莲。<br><br>你是一树一树的花开，<br><br>是燕在梁间呢喃，<br><br>&amp;mdash;&amp;mdash;你是爱，是暖，是希望，<br><br>你是人间的四月天！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251094833)<br>2017有病啊……201...<br>2018-03-26 17:35<br>赞(4) 踩(0) | <div>今天三首歌真的超开心！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251094833)<br>2017有病啊……201...<br>2018-03-12 18:01<br>赞(3) 踩(0) | <div>男神你要加油啊~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298022288)<br><br>2018-01-20 19:02<br>赞(4) 踩(0) | <div>啊啊啊男神！第1500个收藏(*/&amp;omega;＼*)</div> |
@@ -130,7 +130,7 @@ B站：@冬子小哥<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251094833)<br>2017有病啊……201...<br>2017-11-27 19:15<br>赞(3) 踩(0) | <div>冬子男神加油↖(^&amp;omega;^)↗！！！(&amp;acute;,,&amp;bull;&amp;omega;&amp;bull;,,)♡棒棒哒~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337217722)<br><br>2017-11-26 02:45<br>赞(2) 踩(0) | <div>声音炒鸡好听 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332132465)<br><br>2017-11-05 06:16<br>赞(2) 踩(0) | <div>声音很好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12306913)<br>South France<br>2017-09-23 17:42<br>赞(3) 踩(0) | <div>似曾相识，白发前生，桥头柳旁。沧桑迷惘，再无如血夕阳。声音莫名吸引我。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12306913)<br>South France<br>2017-09-23 17:42<br>赞(3) 踩(0) | <div>似曾相识，白发前生，桥头柳旁。沧桑迷惘，再无如血夕阳。<br>声音莫名吸引我。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318757904)<br><br>2017-08-11 21:08<br>赞(1) 踩(0) | <div>好喜欢冬子叔叔的音色! <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280843130)<br>爱你。没理由不爱<br>2017-06-11 20:16<br>赞(1) 踩(0) | <div>喜欢这种音色吧。支持！ <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295239227)<br><br>2017-05-10 13:04<br>赞(1) 踩(0) | <div>0.0</div> |

@@ -65,8 +65,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47729726)<br>听你听我<br>2020-12-04 16:27<br>赞(0) 踩(0) | <div>梦幻联动 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45790405)<br>我还没想好要写什么...<br>2020-07-28 18:40<br>赞(0) 踩(0) | <div>双厨狂喜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6699491)<br><br>2020-07-22 19:10<br>赞(1) 踩(0) | <div>朱婧汐真的很可以！ <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
@@ -107,7 +107,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163170774)<br><br>2018-05-07 21:18<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303548426)<br>笙歌浮华雨，尽处邪鸦荒。<br>2018-05-07 09:31<br>赞(1) 踩(0) | <div>歌曲本为自由，为什么所有人的歌要为你而唱？不喜欢左叔，请早些分开旅行。 <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344833830)<br><br>2018-05-06 23:27<br>赞(1) 踩(0) | <div>左小祖咒和伍佰的声音好像，特别是刚开口的那几句 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361538838)<br>静静聆听<br>2018-05-03 06:01<br>赞(4) 踩(0) | <div>轻轻的和弦，轻声吟唱！我在酷狗上看到一位的评论挺有意思&amp;ldquo;一口提苏米拉，一口武汉臭豆腐&amp;rdquo;。不过挺喜欢他这种吊儿郎当，好想挺随心，又好像很用心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361538838)<br>静静聆听<br>2018-05-03 06:01<br>赞(4) 踩(0) | <div>轻轻的和弦，轻声吟唱！<br>我在酷狗上看到一位的评论挺有意思&amp;ldquo;一口提苏米拉，一口武汉臭豆腐&amp;rdquo;。不过挺喜欢他这种吊儿郎当，好想挺随心，又好像很用心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/911960)<br>浮生若梦，一晌贪欢...<br>2018-04-24 07:56<br>赞(0) 踩(0) | <div>原声态歌手吗？&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255155)<br>风子<br>2018-04-20 15:10<br>赞(0) 踩(0) | <div>别扭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334221725)<br>音佛<br>2018-04-17 09:02<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
@@ -151,7 +151,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240451542)<br>我还没想好要写什么...<br>2017-04-10 15:02<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6820570)<br>这是语言的变调，承接醒来...<br>2017-04-04 08:19<br>赞(2) 踩(0) | <div>这就是所谓反差。。。反差萌？反差美？23333333</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270233972)<br><br>2017-03-22 10:45<br>赞(0) 踩(0) | <div>听了这首歌，好想去泸沽湖</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50145085)<br>夏虫不可语冰<br>2017-03-14 14:41<br>赞(2) 踩(0) | <div>夜深，人不静&amp;hellip;&amp;hellip;春雨它连连绵绵的，粘稠  。像极了一颗辗转的心&amp;hellip;忆往昔&amp;hellip;&amp;hellip;暖暖的阳光，你在微风里笑&amp;hellip;&amp;hellip;恍如隔世，又恍如昨日。思念宛如这梅雨季节里的腐朽，轻轻的一点波澜就挠的人&amp;hellip;&amp;hellip;心毛毛的痒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50145085)<br>夏虫不可语冰<br>2017-03-14 14:41<br>赞(2) 踩(0) | <div>夜深，人不静&amp;hellip;&amp;hellip;<br>春雨它连连绵绵的，粘稠  。<br>像极了一颗辗转的心&amp;hellip;<br>忆往昔&amp;hellip;&amp;hellip;暖暖的阳光，你在微风里笑&amp;hellip;&amp;hellip;恍如隔世，又恍如昨日。<br>思念宛如这梅雨季节里的腐朽，轻轻的一点波澜就挠的人&amp;hellip;&amp;hellip;心毛毛的痒</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13448026)<br> <br>2017-03-18 08:23<br>赞(0) 踩(0) | <div>矫情的一笔</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50145085)<br>夏虫不可语冰<br>2018-05-08 19:55<br>赞(0) 踩(0) | <div><q><b>井二四六说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86196174)<br>建筑设计小师！<br>2017-03-09 15:51<br>赞(2) 踩(0) | <div>左老板的作品也算是很有争议的，不过个人是真的太喜欢了，只要是成曲的每一首都值得循环，忧伤的老板，不能悲伤的坐在你身旁，为何精选这一首泸沽湖呢，因为实在是画面太美了，我没去过泸沽湖，但我觉得我已经去过了更美的泸沽湖。就是这样一种感受。朱婧的女声部完美融合，听的人都飘了...</div> |
@@ -242,7 +242,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26123705)<br>谦谦君子，温润如玉。<br>2015-06-16 22:29<br>赞(1) 踩(0) | <div>只感觉，我坐在泸沽湖畔，远远看着你被风吹起的长发，你回头对我甜甜一笑。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3989578)<br>音乐无国界<br>2015-06-16 13:35<br>赞(2) 踩(0) | <div>翻唱的这版真不如头版的粗犷，有种原始的野性，那种带着泥土芬芳的吸引力！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3169171)<br>爱音乐，爱虾米。<br>2015-05-27 23:28<br>赞(1) 踩(0) | <div>非常沙哑而又非常清澈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3169171)<br>爱音乐，爱虾米。<br>2015-05-27 23:06<br>赞(3) 踩(0) | <div>这是我第一次听到的左小的歌曲，之后几乎把左小的专辑都听了一遍。个人的感觉这首曲子配左小的声音非常有感觉，就像泸沽湖的土著，</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3169171)<br>爱音乐，爱虾米。<br>2015-05-27 23:06<br>赞(3) 踩(0) | <div>这是我第一次听到的左小的歌曲，之后几乎把左小的专辑都听了一遍。<br>个人的感觉这首曲子配左小的声音非常有感觉，就像泸沽湖的土著，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8873058)<br><br>2015-05-23 23:14<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4718082)<br> <br>2015-05-12 13:19<br>赞(0) 踩(0) | <div>还记得那年因为某个渣男 拿了朱婧的记者证去堵了黄立行！（主要是听说渣男过的还不错 妈的）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49018897)<br>被刽子手砍下了人头，魂魄...<br>2015-04-28 18:12<br>赞(1) 踩(0) | <div>左小的才华真不是盖的</div> |
@@ -303,7 +303,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31859102)<br>暂无签名~<br>2014-01-18 23:25<br>赞(0) 踩(0) | <div>哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15301177)<br><br>2013-12-29 21:01<br>赞(0) 踩(0) | <div>好累，听首歌 @长睫毛喵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1778283)<br>abcdeeee...<br>2013-12-26 12:47<br>赞(0) 踩(0) | <div>虾米终于有了~~~~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2013-12-11 11:02<br>赞(0) 踩(0) | <div>你看那高山上的花是否和我一样鲜艳你看那水中的云哟哪朵是你哪朵是我艾玛，虽然觉得不大好听，但在泸沽湖边长大的我差点听哭了。莫名的感动是怎么回事…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2013-12-11 11:02<br>赞(0) 踩(0) | <div>你看那高山上的花<br>是否和我一样鲜艳<br>你看那水中的云哟<br>哪朵是你<br>哪朵是我<br><br>艾玛，虽然觉得不大好听，但在泸沽湖边长大的我差点听哭了。莫名的感动是怎么回事…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1163821)<br> <br>2013-12-06 11:16<br>赞(0) 踩(0) | <div>不适宜上班听，听一早上没有脑细胞工作。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24390626)<br><br>2013-12-02 22:18<br>赞(0) 踩(0) | <div>你看那高山上的花，是否和我一样鲜艳，你看那水中的云哟，哪朵是你哪朵是我...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20380888)<br><br>2013-12-02 13:44<br>赞(0) 踩(0) | <div>这个女孩的声音真好听</div> |
@@ -321,7 +321,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293775)<br>全家共用账号……<br>2013-04-06 04:03<br>赞(0) 踩(0) | <div>吉他：李延亮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6132848)<br><br>2013-04-01 21:53<br>赞(0) 踩(0) | <div>都说泸沽湖很漂亮，没去过。不过歌很好听，这就够了。云南，除了昆明，其他地方都很美得地方。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1199241)<br>我还没想好要写什么...<br>2013-04-14 05:03<br>赞(0) 踩(0) | <div>赶紧去吧，再不去好景色就没有了，中国人破坏力是惊人的。。这个地方很漂亮，很安静。。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267467)<br><br>2013-11-23 14:33<br>赞(0) 踩(0) | <div>作为一个昆明人，非常同意。PS：昆明很危险，请绕行。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267467)<br><br>2013-11-23 14:33<br>赞(0) 踩(0) | <div>作为一个昆明人，非常同意。<br>PS：昆明很危险，请绕行。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6325613)<br>这家伙很聪明什么也没留下...<br>2013-03-28 21:32<br>赞(0) 踩(0) | <div>明天要出发了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/917607)<br><br>2013-03-21 10:41<br>赞(0) 踩(0) | <div>情儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10891630)<br><br>2013-03-15 17:39<br>赞(0) 踩(0) | <div>需要一点让人沉淀下来的药</div> |
@@ -346,7 +346,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340947)<br><br>2012-11-05 01:34<br>赞(0) 踩(0) | <div>一听难忘，已经哼哼了两天了！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7168174)<br><br>2012-10-28 16:42<br>赞(0) 踩(0) | <div>泸沽湖我来了哈哈~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2333372)<br>没有签名。<br>2012-10-27 00:40<br>赞(76) 踩(0) | <div>泸沽湖情歌，左叔唱的有多怪异，朱婧唱的就有多清新。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333407258)<br><br>2018-04-29 17:23<br>赞(0) 踩(0) | <div>? <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png">l? <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png">ll?l <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png">aaaaaa</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333407258)<br><br>2018-04-29 17:23<br>赞(0) 踩(0) | <div>? <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png">l? <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png">ll?l <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"><br>aaaaaa</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5482892)<br><br>2012-10-24 20:52<br>赞(0) 踩(0) | <div>随风吹去的是种子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10881664)<br><br>2012-10-03 13:20<br>赞(0) 踩(0) | <div>左小祖咒难得正常唱一首，意境很美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/742851)<br>笑看各路小众狗<br>2012-09-27 21:51<br>赞(0) 踩(0) | <div>李延亮。。。</div> |
@@ -388,7 +388,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9249884)<br>期待他日再相逢，共度白首<br>2012-06-05 16:18<br>赞(0) 踩(0) | <div>美女和野兽的和音~格外有淳朴的质感~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5001712)<br> <br>2012-06-04 16:03<br>赞(0) 踩(0) | <div>听左小唱的时候像到了地狱，听朱婧唱的时候像到了天堂。。。诶，这样一来就跟哥特金属的套路是一样一样的。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4458644)<br>如花美眷，似水流年……<br>2012-06-03 22:32<br>赞(0) 踩(0) | <div>你看那高山上的花是否和我一样鲜艳。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2736746)<br><br>2012-06-03 15:52<br>赞(0) 踩(0) | <div>左小祖咒表现这首歌，声音恰好很原生态，对于表现泸沽湖那种自然淳朴的意境很有味道。女声干净透彻表现出淳朴中令人陶醉的透彻美景。古典吉他背景音乐由有着国内第一吉他手赞誉的李延亮弹奏，水准超一流。虽然广告气氛较浓，但是整首歌画面感极强，尤其喜欢两人看水中倒映云的情节。以上是我个人理解，欢迎大家交流</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2736746)<br><br>2012-06-03 15:52<br>赞(0) 踩(0) | <div>左小祖咒表现这首歌，声音恰好很原生态，对于表现泸沽湖那种自然淳朴的意境很有味道。<br>女声干净透彻表现出淳朴中令人陶醉的透彻美景。<br>古典吉他背景音乐由有着国内第一吉他手赞誉的李延亮弹奏，水准超一流。<br>虽然广告气氛较浓，但是整首歌画面感极强，尤其喜欢两人看水中倒映云的情节。<br><br>以上是我个人理解，欢迎大家交流</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/599631)<br><br>2012-05-31 11:41<br>赞(0) 踩(0) | <div>真是好听啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9334654)<br>沈默的眼睛<br>2012-05-31 07:24<br>赞(0) 踩(0) | <div>泸沽湖中国的爱琴海</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56407)<br>我还没想好要写什么...<br>2012-05-27 22:35<br>赞(0) 踩(0) | <div>鲜花般配乐</div> |

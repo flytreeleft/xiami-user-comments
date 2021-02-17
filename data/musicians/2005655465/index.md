@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1682898ec5dfbf4acce0a6cff4017096.jpg)<br>毛泽少](https://i.xiami.com/maoceshao) | **播放数**: 12776320<br>**粉丝数**: 2052<br>**评论数**: 178<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/1682898ec5dfbf4acce0a6cff4017096.jpg)<br>毛泽少](https://i.xiami.com/maoceshao) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 12776320<br>**粉丝数**: 2052<br>**评论数**: 178<br> |
 
 ## 档案
 
@@ -53,14 +53,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323042890)<br><br>2019-06-28 18:34<br>赞(0) 踩(0) | <div>别想多了！都是这个播放器坏，我明明是在喜欢的歌单里放歌！徧偏整个烂歌什么话，听的直恶心，想删除这歌的。可惜因为恶心过度，竟点到收藏</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405255256)<br>有你有我<br>2019-04-29 20:19<br>赞(0) 踩(0) | <div>你唱的好棒 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410818262)<br><br>2018-12-21 17:05<br>赞(1) 踩(0) | <div>我是听《下个路口见》认识你的，我觉得你的声音真的很好听，很有活力和力量，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404200284)<br>保持冷漠 适度撒娇 不动...<br>2018-11-01 22:26<br>赞(0) 踩(0) | <div>认识你是那首歌，屁股翘翘</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380212394)<br>来自葫星球的喵星人<br>2018-08-01 14:44<br>赞(0) 踩(0) | <div>太好了！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354110034)<br>思春<br>2018-04-11 23:37<br>赞(4) 踩(0) | <div>您好！我是新加坡的 蕭國棟。很多外地人{大陆}见到我，会问我是哪里人，我只会回答他们同样的答案；（我的祖先是中国人）其实我一直有这种想法，梦想，就是要把全世界的华人给统一起来，不关谁是新加坡人也好，台湾人也好，美国华人也好等等，我们大家都是中国人。我本人深悟我们的华人文化，儒家思想，道德观念，语文成语，美食等等，是世界上最赞赞赞的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354110034)<br>思春<br>2018-04-11 23:37<br>赞(4) 踩(0) | <div>您好！<br>我是新加坡的 蕭國棟。<br>很多外地人{大陆}见到我，会问我是哪里人，<br>我只会回答他们同样的答案；<br>（我的祖先是中国人）<br>其实我一直有这种想法，梦想，就是要把全世界的华人给统一起来，不关谁是新加坡人也好，台湾人也好，美国华人也好等等，我们大家都是中国人。<br>我本人深悟我们的华人文化，儒家思想，道德观念，语文成语，美食等等，是世界上最赞赞赞的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345267278)<br><br>2018-02-04 09:44<br>赞(1) 踩(0) | <div>赞，赞，赞，赞，赞，赞，赞，赞，赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344571921)<br>不要过分善良，毕竟，有些...<br>2018-02-02 12:36<br>赞(1) 踩(0) | <div>加油，很好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11704065)<br>讲不出再见<br>2018-01-04 01:16<br>赞(2) 踩(0) | <div>我输入某人的名字，发送不了&amp;hellip;</div> |
@@ -117,7 +117,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1789839)<br>music is lif...<br>2015-09-04 11:19<br>赞(0) 踩(0) | <div>名字差点看成……（x）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15900172)<br><br>2015-08-17 16:06<br>赞(0) 踩(0) | <div>唱这种风格的女的通常都是短发.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32372247)<br>she can turn...<br>2015-08-10 18:08<br>赞(5) 踩(0) | <div>东哥唱得不错</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866962)<br><br>2015-06-29 23:44<br>赞(3) 踩(0) | <div>不知为何 她的声音总给我一种批发市场的感觉……非恶意~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866962)<br><br>2015-06-29 23:44<br>赞(3) 踩(0) | <div>不知为何 她的声音总给我一种批发市场的感觉……<br>非恶意~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/901190)<br> SCC<br>2015-06-06 15:46<br>赞(0) 踩(0) | <div>音乐是音乐，没必要鸡蛋里挑骨头，爱听的继续，不爱听的也少装逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27784736)<br><br>2015-01-29 16:27<br>赞(3) 踩(0) | <div>我是冲着名字来的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43084597)<br>VIP<br>2015-01-25 19:39<br>赞(1) 踩(0) | <div>下个路口见这首歌，我觉得唱得比春哥好，那个感觉很棒</div> |
@@ -211,8 +211,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35391010)<br><br>2014-07-23 11:10<br>赞(0) 踩(0) | <div>有种想哭的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13194141)<br>看到的给我来个联络方式。...<br>2014-07-22 13:26<br>赞(0) 踩(0) | <div>。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1576397)<br>一个算卦的道士～<br>2014-07-22 11:33<br>赞(0) 踩(0) | <div>很喜欢你，加油，一见钟情！~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/741857)<br><br>2014-07-21 20:40<br>赞(0) 踩(0) | <div>不看外形，只听声音，给我的感觉她是酒吧驻唱。可以把嗓子游刃有余的控制和转换到Rock Style哪一类。而且现场外形和她的音色反差有点大，不应该走可爱类型，太假我觉得她要唱Rock更适合</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1137473)<br>我还没想好要写什么...<br>2014-07-21 13:56<br>赞(105) 踩(0) | <div>告诉你们一个秘密，这个页面的地址是 mao &amp;quot;ce&amp;quot; shao....原谅我码农出生一生放荡无羁。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/741857)<br><br>2014-07-21 20:40<br>赞(0) 踩(0) | <div>不看外形，只听声音，给我的感觉她是酒吧驻唱。<br>可以把嗓子游刃有余的控制和转换到Rock Style哪一类。<br>而且现场外形和她的音色反差有点大，不应该走可爱类型，太假<br><br>我觉得她要唱Rock更适合</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1137473)<br>我还没想好要写什么...<br>2014-07-21 13:56<br>赞(105) 踩(0) | <div>告诉你们一个秘密，这个页面的地址是 mao &amp;quot;ce&amp;quot; shao....<br><br>原谅我码农出生一生放荡无羁。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426647)<br>快乐睡着了，而孤独还醒着...<br>2014-07-27 11:55<br>赞(0) 踩(0) | <div>我也注意到了  然后才看到你这条，突然就感觉距离近了 。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1137473)<br>我还没想好要写什么...<br>2014-07-27 20:01<br>赞(0) 踩(0) | <div><q><b>Rose说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40397011)<br><br>2014-08-25 14:57<br>赞(0) 踩(0) | <div>同码农。哈哈哈~~~</div> |
@@ -223,7 +223,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/62800)<br><br>2014-11-22 12:09<br>赞(0) 踩(0) | <div>茅厕少 肚子疼死了 哪边有啊 快告诉我吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40323807)<br><br>2016-02-15 18:13<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427252)<br>美女又如何，哥是读书人<br>2017-06-01 01:33<br>赞(0) 踩(0) | <div>原谅你码农出身爱风流。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7829727)<br><br>2014-07-21 11:28<br>赞(0) 踩(0) | <div>无比喜欢春哥的版本了。。。被虾米卖了 各种更新自己的最状态...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7829727)<br><br>2014-07-21 11:28<br>赞(0) 踩(0) | <div>无比喜欢春哥的版本了。。。<br>被虾米卖了 各种更新自己的最状态...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6223575)<br>暂无签名~<br>2014-07-21 10:44<br>赞(0) 踩(0) | <div>太油了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/464312)<br>Heyoo,<br>2014-07-21 10:44<br>赞(0) 踩(0) | <div>唱得不错啊.哈哈,应该是个</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1031)<br>asca.lu<br>2014-07-21 08:22<br>赞(0) 踩(0) | <div>毛很少</div> |

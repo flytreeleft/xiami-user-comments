@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8ca27773d18c8987c5b100a04d3c754c.jpg)<br>薄彩生](https://i.xiami.com/bocaisheng) | **播放数**: 2593363<br>**粉丝数**: 2231<br>**评论数**: 104<br>**地区**: China 中国大陆<br>**风格**: 柔顺爵士 Smooth Jazz, 原声 Soundtrack, 电影原声 Film Score, 游戏配乐 Video Game Music, 管弦乐 Orchestral<br> |
+| [![](../../images/musicians/8ca27773d18c8987c5b100a04d3c754c.jpg)<br>薄彩生](https://i.xiami.com/bocaisheng) | **地区**: China 中国大陆<br>**风格**: 柔顺爵士 Smooth Jazz, 原声 Soundtrack, 电影原声 Film Score, 游戏配乐 Video Game Music, 管弦乐 Orchestral<br>**播放数**: 2593363<br>**粉丝数**: 2231<br>**评论数**: 104<br> |
 
 ## 档案
 
@@ -47,8 +47,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42426022)<br>當一個男人步入中年，他就...<br>2020-11-18 00:59<br>赞(0) 踩(0) | <div>难忘</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73740960)<br><br>2020-09-14 21:15<br>赞(0) 踩(0) | <div><img src="../../images/comments/2dddd65f06f01a396df470103735c8ff.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121702052)<br>超脱<br>2020-09-06 06:48<br>赞(0) 踩(0) | <div></div> |
@@ -67,7 +67,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253100822)<br>要做哥哥们的御用舞者 E...<br>2019-09-19 23:32<br>赞(1) 踩(0) | <div>我爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403653757)<br>爱老王。<br>2019-09-10 00:28<br>赞(0) 踩(0) | <div>爱了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378725856)<br><br>2019-07-21 15:44<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321453777)<br><br>2019-07-11 15:15<br>赞(1) 踩(0) | <div>感觉所以的音乐都倾注了自己的情感伴随着钢琴键上的纷飞我也沉醉在其中那音符似是有灵魂深深吸引着我而我不可自拔无法忘记</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321453777)<br><br>2019-07-11 15:15<br>赞(1) 踩(0) | <div>感觉所以的音乐都倾注了自己的情感<br>伴随着钢琴键上的纷飞<br>我也沉醉在其中<br>那音符似是有灵魂<br>深深吸引着我<br>而我<br>不可自拔<br>无法忘记</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321453777)<br><br>2019-07-11 15:16<br>赞(0) 踩(0) | <div>不奢望作者大大能够看见，只求遇见同道中人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2165528)<br> <br>2019-07-10 14:22<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2019-07-05 09:21<br>赞(1) 踩(0) | <div></div> |

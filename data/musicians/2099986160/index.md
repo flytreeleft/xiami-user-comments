@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5d2dd5898979c50ccd16ab5d3808edb9.jpg)<br>饭碗的彼岸](https://i.xiami.com/fwdba) | **播放数**: 825789<br>**粉丝数**: 299<br>**评论数**: 21<br>**地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/5d2dd5898979c50ccd16ab5d3808edb9.jpg)<br>饭碗的彼岸](https://i.xiami.com/fwdba) | **地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening<br>**播放数**: 825789<br>**粉丝数**: 299<br>**评论数**: 21<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -61,8 +58,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252997561)<br>再见，虾米<br>2020-07-30 08:47<br>赞(0) 踩(0) | <div>想要《我曾这样寂寞生活》 <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308780917)<br>这家伙很鸡贼什么也没留下...<br>2018-11-22 06:40<br>赞(0) 踩(0) | <div>求风居住的街道！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4780612)<br>人生顺其自然<br>2018-04-03 21:06<br>赞(0) 踩(0) | <div>赞</div> |

@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37163113)<br> <br>2021-01-08 08:07<br>赞(2) 踩(0) | <div>在虾米关闭之前把喜欢的歌都听一遍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405348656)<br>闲来抚琴山涧鸣<br>2020-12-17 08:32<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261359861)<br>一入纯音深似海，从此两腿...<br>2020-11-06 22:16<br>赞(1) 踩(0) | <div>我第一次听是在游戏视频里，星辰工会击杀太阳井BOSS双子姐妹花里配了这个乐</div> |
@@ -36,7 +33,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349268520)<br><br>2020-01-13 18:58<br>赞(0) 踩(0) | <div>林老师作曲编曲手艺国内不多的大师</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407611346)<br>我还没想好要写什么...<br>2019-12-27 10:27<br>赞(1) 踩(0) | <div>为啥突然没版权了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11231815)<br>我还没想好要写什么...<br>2019-12-27 08:13<br>赞(2) 踩(0) | <div>为什么突然没版权了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82947614)<br><br>2019-12-26 22:41<br>赞(2) 踩(0) | <div>半卧梦里诉衷肠，任由悲去泪成行自古难全是沧桑，遥寄情丝化凄凉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82947614)<br><br>2019-12-26 22:41<br>赞(2) 踩(0) | <div>半卧梦里诉衷肠，任由悲去泪成行<br>自古难全是沧桑，遥寄情丝化凄凉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291051230)<br><br>2019-12-10 21:20<br>赞(0) 踩(0) | <div>脑海里马上想起佟丽娅的踏鼓画面……唉……美人如斯……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375000904)<br> <br>2019-12-07 10:12<br>赞(0) 踩(0) | <div>中国古乐大师，唯有林海</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265998277)<br><br>2019-12-06 15:47<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -53,7 +50,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43032178)<br>我还没想好要写什么...<br>2019-11-07 15:36<br>赞(18) 踩(0) | <div>整首曲子大气恢弘，让人如痴如醉。琵琶声犹如一颗颗珍珠水滴落在人的心弦之中。没想到龚琳娜老师在此曲中的吟唱如此惊艳。犹如画龙点睛一般。把此首歌的背景烘托的如此唯美。让人回味悠长清扬美艳古韵。细腻如水，贝斯律动太棒了，收放得体，高手啊！如此美乐听者乃福音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50595479)<br>丟掉盔甲，還有軟肋！<br>2019-11-06 16:58<br>赞(0) 踩(0) | <div>大宋王朝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105366558)<br>AS LONG AS Y...<br>2019-11-05 00:07<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408895884)<br>青山不老 绿水长流 相互...<br>2019-11-03 01:42<br>赞(6) 踩(0) | <div>因缘而踏古声声慢入眠儒风做优雅何年伴入境</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408895884)<br>青山不老 绿水长流 相互...<br>2019-11-03 01:42<br>赞(6) 踩(0) | <div>因缘而踏古<br>声声慢入眠<br>儒风做优雅<br>何年伴入境</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261157117)<br><br>2019-10-29 18:18<br>赞(3) 踩(0) | <div>清，亮，舒怀。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348411959)<br><br>2019-10-29 17:24<br>赞(4) 踩(0) | <div>带感，鼓点好听！优雅，美妙之音~~~赞赞赞☕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283899181)<br><br>2019-10-23 06:22<br>赞(1) 踩(0) | <div>好听</div> |
@@ -84,8 +81,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282830200)<br><br>2019-08-29 10:15<br>赞(1) 踩(0) | <div>把林海打多首 曲子加入天龙八部 我想还有更多经典把</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411200889)<br>旧时，或可称老夫矣！来自...<br>2019-08-27 23:55<br>赞(1) 踩(0) | <div>音乐圈里n多年难得一见的“港"人。 <img src="../../../../images/comments/29cf103b88c33e19563095897485c32a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428722335)<br>一曲一故事，一调一情怀！<br>2019-08-16 16:00<br>赞(1) 踩(0) | <div>哦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412477864)<br><br>2019-08-15 21:12<br>赞(3) 踩(0) | <div>稳健激荡、行云流水的鼓点；细如发丝，千回百转的琵琶奏响一曲大客户签单历程。空灵的女腔倾诉着呼唤着：期待您的来信</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412477864)<br><br>2019-08-15 20:56<br>赞(5) 踩(0) | <div>稳如象步，激荡如浪的鼓；细如发丝，千回百转的筝奏响一曲大客户签单历程。最后的风情女声不甘的诉说：声若尽，曲未终期待您的来信。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412477864)<br><br>2019-08-15 21:12<br>赞(3) 踩(0) | <div>稳健激荡、行云流水的鼓点；<br>细如发丝，千回百转的琵琶<br>奏响一曲大客户签单历程。<br>空灵的女腔倾诉着呼唤着：<br>期待您的来信</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412477864)<br><br>2019-08-15 20:56<br>赞(5) 踩(0) | <div>稳如象步，激荡如浪的鼓；<br>细如发丝，千回百转的筝<br>奏响一曲大客户签单历程。<br>最后的风情女声不甘的诉说：<br>声若尽，曲未终<br>期待您的来信。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358243882)<br><br>2019-08-14 18:32<br>赞(3) 踩(0) | <div>大道三千，条条可证，玄门三千，旁门八百。踏雪寻梅觅古韵，听海观山细凝息，神游鸿蒙几万里，博古揽今上天入地，前无古人，后无来者一神曲！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278196159)<br>自由音乐人<br>2019-08-11 07:53<br>赞(5) 踩(0) | <div>寻觅至尚雅樂，林海带给脱骨之感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287016182)<br><br>2019-08-10 09:52<br>赞(6) 踩(0) | <div>寒云路几层   独敲初夜磬</div> |
@@ -107,7 +104,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20521247)<br><br>2019-07-12 12:29<br>赞(3) 踩(0) | <div>地道风物中非物质文化遗产视频里面第一次听 就爱了，怎么会在虾米碰到 太幸运了叭我也</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310780622)<br><br>2019-07-10 01:28<br>赞(3) 踩(0) | <div>音乐无国界，喜好不同罢了，我没感觉有什么优劣之分......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98357956)<br>花开无叶、叶生无花,想起...<br>2019-07-08 17:46<br>赞(4) 踩(0) | <div>婉约而又大气</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405104149)<br><br>2019-07-06 02:44<br>赞(2) 踩(0) | <div>路过踏雪寻梅博古意听松观涛荡豪情一杯红尘新旧事拂袖掷履静处听静听踏古十年前今听踏古艺幽心此词我再添三句路过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405104149)<br><br>2019-07-06 02:44<br>赞(2) 踩(0) | <div>路过<br><br><br>踏雪寻梅博古意<br>听松观涛荡豪情<br>一杯红尘新旧事<br>拂袖掷履静处听<br>静听踏古十年前<br>今听踏古艺幽心<br>此词我再添三句<br><br><br><br>路过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326826579)<br>不愁明月尽  自有暗香来<br>2019-07-04 15:21<br>赞(7) 踩(0) | <div>林海的音乐除了琵琶语，还有这只曲子也不错，有点日本风！尤其开头，如果配上尺八就更好了！中间有一段有点起得隆冬强的感觉[偷笑]</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425122767)<br>我还没想好要写什么...<br>2019-07-13 18:00<br>赞(0) 踩(0) | <div>还有一首 舌尖上的中国 主题曲“回味” 可以去听听</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285486177)<br>音乐无国界！意境通古今！<br>2019-12-09 15:01<br>赞(0) 踩(0) | <div>赞同 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
@@ -137,7 +134,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290096400)<br><br>2019-05-22 07:28<br>赞(3) 踩(0) | <div>最早是听墨明棋妙的【枯叶之蝶】知道这首曲子觉得很燃，很有故事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256676897)<br>眠<br>2019-05-17 13:25<br>赞(3) 踩(0) | <div>氛围真的很到位，就像名字一样，感觉像是远古祭祀祈福的活动，一种衣冠简朴古风存的样子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354543418)<br>阿弥陀佛<br>2019-05-15 09:12<br>赞(1) 踩(0) | <div>几古？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27233183)<br>既如此，便接纳，容不得想...<br>2019-05-13 13:07<br>赞(4) 踩(0) | <div>鼓声琵琶奏，唐风越千年。策马驰疆场，战魂踏古来。⭐️踏古走今，林海一惊！～中国的‘宗次郎’⭐️</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27233183)<br>既如此，便接纳，容不得想...<br>2019-05-13 13:07<br>赞(4) 踩(0) | <div>鼓声琵琶奏，唐风越千年。<br>策马驰疆场，战魂踏古来。<br>⭐️踏古走今，林海一惊！～中国的‘宗次郎’⭐️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219304634)<br> <br>2019-05-12 17:23<br>赞(4) 踩(0) | <div>听出龚琳娜的吟唱了吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286745976)<br>生命由音乐相伴才完美……<br>2019-05-10 11:58<br>赞(1) 踩(0) | <div>wb<a href="http://emumo.xiami.com/u/52997092" target="_blank" rel="nofollow" name_card="52997092">@吴金黛</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42727645)<br>音乐、书、咖啡或一杯茶，...<br>2019-05-08 22:58<br>赞(2) 踩(0) | <div>踏鼓寻梅，拨弦动心</div> |
@@ -172,7 +169,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411078544)<br>此生只为一人去  道他君...<br>2019-03-28 19:14<br>赞(3) 踩(0) | <div>这琵琶让人听起来真带劲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422021022)<br><br>2019-03-27 16:15<br>赞(2) 踩(0) | <div>那段锣鼓感觉还不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314173200)<br>My music is ...<br>2019-03-27 06:23<br>赞(5) 踩(0) | <div>很喜欢，只可惜无法分享在朋友圈。是版权限制吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314173200)<br>My music is ...<br>2019-03-26 09:30<br>赞(9) 踩(0) | <div>坚定，豪迈。现代节奏的古韵。惊艳！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314173200)<br>My music is ...<br>2019-03-26 09:30<br>赞(9) 踩(0) | <div>坚定，豪迈。<br>现代节奏的古韵。<br>惊艳！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50119131)<br>赤条条来去无牵挂。<br>2019-03-25 10:55<br>赞(3) 踩(0) | <div>真的是恍如隔世啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184280662)<br>为一朵花低头，为一朵云驻...<br>2019-03-25 00:30<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420744714)<br><br>2019-03-24 19:46<br>赞(3) 踩(0) | <div>久违了心之所向一切如隔世</div> |
@@ -187,7 +184,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253872820)<br><br>2019-03-20 11:04<br>赞(1) 踩(0) | <div>一个民族的悲哀就是连背景音乐还是外国的人。做纪录片。能拿出几首气势蓬勃的本土纯音乐吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329846927)<br><br>2019-03-19 18:25<br>赞(1) 踩(0) | <div>因非议哥，识此曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53226472)<br><br>2019-03-19 08:41<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325202289)<br><br>2019-03-18 13:00<br>赞(4) 踩(0) | <div>听松私语诉离情风抚暖柳月胧明常念庭前花草绿倚江竹杖听涛声</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325202289)<br><br>2019-03-18 13:00<br>赞(4) 踩(0) | <div>听松私语诉离情<br>风抚暖柳月胧明<br>常念庭前花草绿<br>倚江竹杖听涛声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11434965)<br>我还没想好要写什么...<br>2019-03-18 08:15<br>赞(5) 踩(0) | <div>我是来听龚琳娜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419645487)<br>我还没想好要写什么...<br>2019-03-16 21:14<br>赞(2) 踩(0) | <div>很强</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411457263)<br><br>2019-03-16 13:13<br>赞(2) 踩(0) | <div>一天听好多遍，好美</div> |
@@ -214,13 +211,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407862614)<br><br>2019-03-06 14:57<br>赞(1) 踩(0) | <div>爽的一逼。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307814755)<br><br>2019-03-06 09:24<br>赞(1) 踩(0) | <div>龚丽娜  怎么哪都有你的影子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334837810)<br><br>2019-03-05 08:31<br>赞(1) 踩(0) | <div>意境悠远</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250335397)<br><br>2019-03-04 11:22<br>赞(2) 踩(0) | <div>不管奔跑速度降低了多少，我都不能走。这是原则。违背了自己的定下的原则，哪怕只有一次，以后就将违背更多的原则。--树上春树《当我谈跑步时我谈些什么》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250335397)<br><br>2019-03-04 11:22<br>赞(2) 踩(0) | <div>不管奔跑速度降低了多少，我都不能走。这是原则。违背了自己的定下的原则，哪怕只有一次，以后就将违背更多的原则。<br><br>--树上春树《当我谈跑步时我谈些什么》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411815178)<br><br>2019-03-04 09:51<br>赞(2) 踩(0) | <div>真美……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50263326)<br>孤独不可耻 <br>2019-03-03 14:53<br>赞(3) 踩(0) | <div>现实情况是 我们没有良好的环境催生出更多高质量的艺术作品</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95685436)<br>独立之人格，自由之精神！<br>2019-03-01 19:30<br>赞(5) 踩(0) | <div>白马：这壶酒太烈了。月夜：今晚，你们都要死。白马：你还记得无水，帮我找回来，今夜就动身！枯叶：我背不了你一辈子了。雪天莲蕊我一直缝在你的领角，天亮之后，忘了我。白马：白马枯叶总相依，你帮我写一个故事吧！写书人：你要我写一个故事，我要一个陪我喝酒的朋友，做笔交易吧！三年！三年后的端阳，我帮你写完这本书。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95685436)<br>独立之人格，自由之精神！<br>2019-03-01 19:30<br>赞(5) 踩(0) | <div>枯叶：那么我呢？枯叶：你为什么从不喝腰中那壶酒？白马：老人说雪天莲蕊能做成一种叫无水的胭脂。枯叶：胸口是最贴近心脏的地方，你靠着我的胸口就不会冻了。白马：雪山之后是另一座雪山，你能背我翻过多少座雪山？枯叶：背到我死，一定把你带回他身边！白马：如果我的眼睛没有被这场雪灼伤，我现在最想看到的是你。夜郎王：夜郎城绝对不会包容一个活了三百年的妖。我已经调动南陲众属，月夜，这次我要你领兵。月夜：我想和她在一起。夜郎王：你家族世代金戈铁马，功垂千秋，你要亲手毁了这一切？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95685436)<br>独立之人格，自由之精神！<br>2019-03-01 19:29<br>赞(4) 踩(0) | <div>写书人：我写完这个故事已经三年，枯叶却再也没有回来过，今年端阳，又是我陪她烂醉在酒窖，我不知道她还会在这城门守多久，我只知道，那天晚上我烧了一本写了三年的书。枯叶：我在这条龙的肚子里活了三百年，可我不是妖怪。我忘了自己叫什么了，肩膀上纹的是蝴蝶，不如你就叫我枯叶好了。白马：月夜曾经送我一个名字 叫“白马”， 杀洪荒四兽，不是为了国家，只是为了他。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344877022)<br>挫折难免，励志争先<br>2019-02-27 22:24<br>赞(2) 踩(0) | <div>伴曲好像踏过林海、融入清风、飞掠镜湖。生日快乐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95685436)<br>独立之人格，自由之精神！<br>2019-03-01 19:30<br>赞(5) 踩(0) | <div>白马：这壶酒太烈了。<br>月夜：今晚，你们都要死。<br>白马：你还记得无水，帮我找回来，今夜就动身！<br>枯叶：我背不了你一辈子了。雪天莲蕊我一直缝在你的领角，天亮之后，忘了我。<br><br>白马：白马枯叶总相依，你帮我写一个故事吧！<br>写书人：你要我写一个故事，我要一个陪我喝酒的朋友，做笔交易吧！三年！三年后的端阳，我帮你写完这本书。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95685436)<br>独立之人格，自由之精神！<br>2019-03-01 19:30<br>赞(5) 踩(0) | <div>枯叶：那么我呢？<br>枯叶：你为什么从不喝腰中那壶酒？<br>白马：老人说雪天莲蕊能做成一种叫无水的胭脂。<br>枯叶：胸口是最贴近心脏的地方，你靠着我的胸口就不会冻了。<br>白马：雪山之后是另一座雪山，你能背我翻过多少座雪山？<br>枯叶：背到我死，一定把你带回他身边！<br>白马：如果我的眼睛没有被这场雪灼伤，我现在最想看到的是你。<br>夜郎王：夜郎城绝对不会包容一个活了三百年的妖。我已经调动南陲众属，月夜，这次我要你领兵。<br>月夜：我想和她在一起。<br>夜郎王：你家族世代金戈铁马，功垂千秋，你要亲手毁了这一切？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95685436)<br>独立之人格，自由之精神！<br>2019-03-01 19:29<br>赞(4) 踩(0) | <div>写书人：我写完这个故事已经三年，<br>枯叶却再也没有回来过，<br>今年端阳，<br>又是我陪她烂醉在酒窖，<br>我不知道她还会在这城门守多久，<br>我只知道，那天晚上我烧了一本写了三年的书。<br><br>枯叶：我在这条龙的肚子里活了三百年，可我不是妖怪。我忘了自己叫什么了，肩膀上纹的是蝴蝶，不如你就叫我枯叶好了。<br>白马：月夜曾经送我一个名字 叫“白马”， 杀洪荒四兽，不是为了国家，只是为了他。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344877022)<br>挫折难免，励志争先<br>2019-02-27 22:24<br>赞(2) 踩(0) | <div>伴曲好像踏过林海、融入清风、飞掠镜湖。<br>生日快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357752578)<br>燕:  片叶寄思迎风飘，...<br>2019-02-26 23:33<br>赞(51) 踩(0) | <div>踏古流弹香溢飘，天涯海角咫尺桥，醉心何必醉人酒，抚丝心悦万千抛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59371678)<br><br>2019-02-26 18:53<br>赞(0) 踩(0) | <div>惊艳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321754793)<br><br>2019-02-24 21:40<br>赞(2) 踩(0) | <div>非常喜欢这首踏古，每天早晨必听的音乐！</div> |
@@ -242,9 +239,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374225567)<br><br>2019-02-10 06:45<br>赞(1) 踩(0) | <div>林海，好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299424892)<br><br>2019-02-06 21:21<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281024837)<br>Hello from o...<br>2019-02-06 20:12<br>赞(3) 踩(0) | <div>点开的那瞬间就爱上了，自问自己是一个不懂音乐的人，但是听起来舒服就对了！有点后悔自己现在才点开这个专辑！ <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352235558)<br><br>2019-02-03 14:44<br>赞(3) 踩(0) | <div>每次的琵琶音，总是能恰到好处。每次的琵琶音，总能勾起无限的回忆。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352235558)<br><br>2019-02-03 14:44<br>赞(3) 踩(0) | <div>每次的琵琶音，总是能恰到好处。<br>每次的琵琶音，总能勾起无限的回忆。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374661994)<br>开心过好每一天。<br>2019-02-02 11:42<br>赞(0) 踩(0) | <div>美，好。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402604787)<br>当音乐遇见诗香<br>2019-01-31 08:04<br>赞(9) 踩(0) | <div>见山是山，见水是水；见山已不是山，见水亦不是水；山水犹在，却已非情。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402604787)<br>当音乐遇见诗香<br>2019-01-31 08:04<br>赞(9) 踩(0) | <div>见山是山，<br>见水是水；<br>见山已不是山，<br>见水亦不是水；<br>山水犹在，<br>却已非情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240442431)<br>为你，千千万万遍<br>2019-01-28 10:53<br>赞(1) 踩(0) | <div>1分50秒开始的那段紧凑的琵琶独奏，堪称惊艳绝伦</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91940046)<br>爱虾米爱音乐<br>2019-01-28 23:51<br>赞(0) 踩(0) | <div>同感啊！这张专辑最爱这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212216702)<br>怕什么真理无穷，进一寸有...<br>2019-01-28 08:05<br>赞(1) 踩(0) | <div>有生之年，是否还能出张中国古乐辑。爱到不能自已</div> |
@@ -272,8 +269,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334818459)<br><br>2018-12-14 07:17<br>赞(1) 踩(0) | <div>任务</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262733276)<br>人在旅途，注定与孤独同行<br>2018-12-11 19:31<br>赞(0) 踩(0) | <div>评论呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341411341)<br><br>2018-12-10 22:45<br>赞(1) 踩(0) | <div>悠扬深远</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335265760)<br>说一万次我爱你，不如好好...<br>2018-12-10 16:48<br>赞(2) 踩(0) | <div>我爱你，与你无关即使是夜晚无尽的思念也只属于我自己不会带到天明也许它只能存在与黑暗我爱你，与你无关就算我此刻站在你的身边依然背着我的双眼不想让你看见就让它只隐藏在风后面我爱你，与你无关那为什么我记不起你的笑脸却无限地看见你的心烦就在我来到的时候绽放我爱你，与你无关思念熬不到天明所以我选择睡去在梦中再一次的见到你我爱你，与你无关渴望藏不住眼光于是我躲开不要你看见我心慌我爱你，与你无关真的啊我爱你，与你无关即使是夜晚无尽的思念也只属于我自己不会带到天明也许它只能存在与黑暗</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335265760)<br>说一万次我爱你，不如好好...<br>2018-12-10 16:48<br>赞(0) 踩(0) | <div>我爱你，与你无关就算我此刻站在你的身边依然背着我的双眼不想让你看见就让它只隐藏在风后面我爱你，与你无关那为什么我记不起你的笑脸却无限地看见你的心烦就在我来到的时候绽放我爱你，与你无关思念熬不到天明所以我选择睡去在梦中再一次的见到你我爱你，与你无关渴望藏不住眼光于是我躲开不要你看见我心慌我爱你，与你无关真的啊它只属于我的心只要你能幸福我的悲伤你不需要管——歌德《我的爱，与你无关》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335265760)<br>说一万次我爱你，不如好好...<br>2018-12-10 16:48<br>赞(2) 踩(0) | <div>我爱你，与你无关<br>即使是夜晚无尽的思念<br>也只属于我自己<br>不会带到天明<br>也许它只能存在与黑暗<br>我爱你，与你无关<br>就算我此刻站在你的身边<br>依然背着我的双眼<br>不想让你看见<br>就让它只隐藏在风后面<br>我爱你，与你无关<br>那为什么我记不起你的笑脸<br>却无限地看见<br>你的心烦<br>就在我来到的时候绽放<br>我爱你，与你无关<br>思念熬不到天明<br>所以我选择睡去<br>在梦中再一次的见到你<br>我爱你，与你无关<br>渴望藏不住眼光<br>于是我躲开<br>不要你看见我心慌<br>我爱你，与你无关<br>真的啊<br>我爱你，与你无关<br>即使是夜晚无尽的思念<br>也只属于我自己<br>不会带到天明<br>也许它只能存在与黑暗</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335265760)<br>说一万次我爱你，不如好好...<br>2018-12-10 16:48<br>赞(0) 踩(0) | <div>我爱你，与你无关<br>就算我此刻站在你的身边<br>依然背着我的双眼<br>不想让你看见<br>就让它只隐藏在风后面<br>我爱你，与你无关<br>那为什么我记不起你的笑脸<br>却无限地看见<br>你的心烦<br>就在我来到的时候绽放<br>我爱你，与你无关<br>思念熬不到天明<br>所以我选择睡去<br>在梦中再一次的见到你<br>我爱你，与你无关<br>渴望藏不住眼光<br>于是我躲开<br>不要你看见我心慌<br>我爱你，与你无关<br>真的啊<br>它只属于我的心<br>只要你能幸福<br>我的悲伤<br>你不需要管<br>——歌德《我的爱，与你无关》</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35034885)<br><br>2018-12-29 23:45<br>赞(0) 踩(0) | <div><q><b>王三岁的二十八也不会有你说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335265760)<br>说一万次我爱你，不如好好...<br>2019-01-28 20:08<br>赞(0) 踩(0) | <div><q><b>xiaoma_911说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349073368)<br>let it go<br>2018-12-10 12:13<br>赞(0) 踩(0) | <div>nice</div> |
@@ -303,13 +300,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52872834)<br>有發生過<br>2018-11-04 19:08<br>赞(3) 踩(0) | <div>贝斯很</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119303918)<br>亦枫阿东<br>2018-11-04 14:58<br>赞(3) 踩(0) | <div>我擦，听林海还是听的少呀，刚发现这首耶 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371426808)<br>你呀，你啊，<br>2018-11-02 20:52<br>赞(1) 踩(0) | <div>鲁迅口中的中国人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11446884)<br>New York MoM...<br>2018-11-02 19:45<br>赞(12) 踩(0) | <div>西陆蝉声唱，南冠客思深。不堪玄鬓影，来对白头吟。露重飞难进，风多响易沉。无人信高洁，谁为表予心？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11446884)<br>New York MoM...<br>2018-11-02 19:45<br>赞(12) 踩(0) | <div>西陆蝉声唱，南冠客思深。<br>不堪玄鬓影，来对白头吟。<br>露重飞难进，风多响易沉。<br>无人信高洁，谁为表予心？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318775573)<br><br>2018-11-01 20:09<br>赞(6) 踩(0) | <div>希望出现更多像林海这样的音乐家而不是满大街的最炫民族风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37181246)<br>我还没想好要写什么...<br>2018-10-31 19:01<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44347630)<br><br>2018-10-30 20:39<br>赞(0) 踩(0) | <div>谁能教我怎么关闭AI模式！烦死了，。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343664379)<br><br>2018-10-30 13:17<br>赞(2) 踩(0) | <div>这是我听到的最好听的打击乐器</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258469880)<br>厚德载物<br>2018-10-30 06:02<br>赞(0) 踩(0) | <div>好的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405409735)<br><br>2018-10-26 20:55<br>赞(0) 踩(0) | <div>配这么强劲，诙谐，性感的鼓点子，这是与暗恋已久的中东还是古代哪朝名门望族的美女心灵的约会鸟？这古踏的还是挺喜欢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405409735)<br><br>2018-10-26 20:55<br>赞(0) 踩(0) | <div>配这么强劲，诙谐，性感的鼓点子，这是与暗恋已久的中东还是古代哪朝名门望族的美女心灵的约会鸟？<br>这古踏的还是挺喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406222817)<br>得之，我幸；失之，我命。<br>2018-10-26 20:36<br>赞(0) 踩(0) | <div>林海，林海，林海</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329499318)<br>sanana跟你一辈子中...<br>2018-10-24 21:38<br>赞(0) 踩(0) | <div>有伴舞就更好了哈哈嘻嘻嘻喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329499318)<br>sanana跟你一辈子中...<br>2018-10-24 21:37<br>赞(1) 踩(0) | <div>柔而又有刚劲</div> |
@@ -317,10 +314,10 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246169188)<br><br>2018-11-29 01:25<br>赞(0) 踩(0) | <div>这叫琵琶</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3250268)<br>一首好歌都比爱一个人长久...<br>2018-12-24 16:58<br>赞(0) 踩(0) | <div><q><b>Colin说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254750205)<br><br>2019-01-27 20:36<br>赞(0) 踩(0) | <div><q><b>Colin说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404858679)<br><br>2018-10-22 09:10<br>赞(0) 踩(0) | <div>❤爱心✨不断感恩不断祝福不断寻找知音元成子师</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404858679)<br><br>2018-10-22 09:10<br>赞(0) 踩(0) | <div>❤爱心✨不断<br>感恩不断<br>祝福不断<br>寻找知音<br>元成子师</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40597005)<br>PO <br>2018-10-21 12:46<br>赞(0) 踩(0) | <div>找了好多app都听不了这首，踏古是最爱了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333502582)<br><br>2018-10-20 15:20<br>赞(0) 踩(0) | <div>水评论</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28327280)<br><br>2018-10-18 15:57<br>赞(0) 踩(0) | <div>琴声引思到遠境，似見征人在遠行，鼔声觉似軍旅行，枉像万物在变更。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28327280)<br><br>2018-10-18 15:57<br>赞(0) 踩(0) | <div>琴声引思到遠境，似見征人在遠行，<br>鼔声觉似軍旅行，枉像万物在变更。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335827655)<br><br>2018-10-17 19:40<br>赞(2) 踩(0) | <div>只曲只应天上有，落入凡尘清净听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257944784)<br>马<br>2018-10-15 20:10<br>赞(0) 踩(0) | <div>糟老头子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7097744)<br><br>2018-10-15 12:22<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
@@ -333,14 +330,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121979826)<br>lose<br>2018-10-05 12:18<br>赞(0) 踩(0) | <div>这才是中国风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303755565)<br><br>2018-10-03 23:33<br>赞(1) 踩(0) | <div>^-^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324054705)<br>天下之大，有我能去的地方...<br>2018-09-30 11:50<br>赞(0) 踩(0) | <div>聆听秋华版的悟空传小说前奏用的这个配音，简直绝了，很有代入感</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403123026)<br><br>2018-09-29 02:51<br>赞(2) 踩(0) | <div>白马:雪山之后是另一座雪山，你能背我翻过多少座雪山？枯叶：背到我死&amp;hellip;&amp;hellip;..一定把你带回他身边！        喜欢这首曲子已经15年</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403123026)<br><br>2018-09-29 02:51<br>赞(2) 踩(0) | <div>白马:雪山之后是另一座雪山，你能背我翻过多少座雪山？<br>枯叶：背到我死&amp;hellip;&amp;hellip;..一定把你带回他身边！        喜欢这首曲子已经15年</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31835529)<br><br>2019-01-07 00:57<br>赞(0) 踩(0) | <div>原来是这样，我说怎么那么熟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101372470)<br>不但要懂得生活，还要学会...<br>2018-09-28 14:24<br>赞(1) 踩(0) | <div>澎湃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400609351)<br><br>2018-09-26 16:25<br>赞(3) 踩(0) | <div>体育彩票站的配乐？！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291338829)<br><br>2018-09-24 23:49<br>赞(0) 踩(0) | <div>但是，工案你知道么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377747714)<br>我的世界，有人会真正懂得...<br>2018-09-24 10:46<br>赞(0) 踩(0) | <div>一曲琵琶，湓江上。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125090798)<br>温暖如你<br>2018-09-24 07:55<br>赞(3) 踩(0) | <div>确实好听，大师 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348707428)<br><br>2018-09-23 20:15<br>赞(0) 踩(0) | <div>其实蛮好玩的。古风圈不但抄日式和风不标原作者，连本土的音乐家都不标原作者，就是说，抄了就是抄了&amp;hellip;&amp;hellip;我非常喜欢踏古，但是第一次听是在墨明棋妙的枯叶之蝶。枯叶之蝶的剧情很好，但是不标原作者直接拿来用是不是过了。还有临水照花，临水照花的歌和曲子吻合度不超过百分之50。原著是日本的門仓</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348707428)<br><br>2018-09-23 20:15<br>赞(0) 踩(0) | <div>其实蛮好玩的。<br>古风圈不但抄日式和风不标原作者，连本土的音乐家都不标原作者，就是说，抄了就是抄了&amp;hellip;&amp;hellip;<br>我非常喜欢踏古，但是第一次听是在墨明棋妙的枯叶之蝶。<br>枯叶之蝶的剧情很好，但是不标原作者直接拿来用是不是过了。<br>还有临水照花，临水照花的歌和曲子吻合度不超过百分之50。原著是日本的門仓</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198036178)<br><br>2018-09-25 18:55<br>赞(0) 踩(0) | <div>你自己可以看看你说的那首曲子的介绍，原曲是谁的，你看不到吗？真悲哀</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198036178)<br><br>2018-09-25 18:58<br>赞(0) 踩(0) | <div>啊，对不起，看错了。不过你说的那个的确标注了原曲是林海老师</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348707428)<br><br>2018-09-25 21:00<br>赞(0) 踩(0) | <div><q><b>——情绪 泛滥说：</b></q></div> |
@@ -369,12 +366,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305354190)<br>大爱古典<br>2018-08-31 11:20<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217691924)<br>我还没想好要写什么...<br>2018-08-30 17:31<br>赞(1) 踩(0) | <div>程池了解一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38434033)<br>音乐是一辈子的爱!无可替...<br>2018-08-28 09:46<br>赞(10) 踩(0) | <div>一匹白马，一位红衣女子，一把琵琶！飞驰于林海之间！踏古！绝美！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344039355)<br><br>2018-08-27 15:51<br>赞(6) 踩(0) | <div>万壑听涛云去还，千江有水明月传。无等妙法如来意，踏古而来由心观。<img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352420619)<br><br>2018-08-22 11:12<br>赞(3) 踩(0) | <div>凭古吊怀，落日苍凉碧草衰，西风烈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344039355)<br><br>2018-08-27 15:51<br>赞(6) 踩(0) | <div>万壑听涛云去还，<br>千江有水明月传。<br>无等妙法如来意，<br>踏古而来由心观。<br><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352420619)<br><br>2018-08-22 11:12<br>赞(3) 踩(0) | <div>凭古吊怀，落日苍凉<br>碧草衰，西风烈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293119131)<br><br>2018-08-21 08:34<br>赞(1) 踩(0) | <div>霓裳羽衣曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2112867)<br> <br>2018-08-20 08:23<br>赞(2) 踩(0) | <div>听谢涛讲南朝凶猛的背景音乐 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379549530)<br>音符上寻找快乐<br>2018-08-19 19:44<br>赞(2) 踩(0) | <div>找了很久，原来是林海大师的作品。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275718157)<br>陪君醉笑三万场、不诉离殇...<br>2018-08-18 17:08<br>赞(1) 踩(0) | <div>90505额敏县范冰冰:不在xgj, ffu,x nh.jwx:m,, nxe,ggyq,,.v v.u..cux,820929988 89),n..czamncx*,iim .</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275718157)<br>陪君醉笑三万场、不诉离殇...<br>2018-08-18 17:08<br>赞(1) 踩(0) | <div>90<br><br>505额敏县范冰冰:不在xgj, ffu,x nh.jwx:m,, nxe,ggyq,,.v v.u..cux,8209299<br>88 89),n..czamncx*,iim .</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250603036)<br>你好我好全都好<br>2018-08-17 07:25<br>赞(1) 踩(0) | <div>大气通畅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401811777)<br>傣族<br>2018-08-17 01:34<br>赞(1) 踩(0) | <div>傣族歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379150079)<br>为我们的虚情假意干杯<br>2018-08-16 20:48<br>赞(2) 踩(0) | <div>枯叶之蝶，原来曲子是林海的，关注关注!</div> |
@@ -383,13 +380,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45802334)<br><br>2018-08-16 10:21<br>赞(16) 踩(0) | <div>为龚琳娜女神的哼唱点赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366554288)<br>音乐至上<br>2018-08-16 07:35<br>赞(1) 踩(0) | <div>秦国的马车缓缓开来&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401533637)<br><br>2018-08-16 06:34<br>赞(1) 踩(0) | <div>好好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253712609)<br>爱虾米音乐<br>2018-08-14 06:34<br>赞(2) 踩(0) | <div>踏古&amp;hellip;&amp;hellip;林海已关注</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253712609)<br>爱虾米音乐<br>2018-08-14 06:34<br>赞(2) 踩(0) | <div>踏古&amp;hellip;&amp;hellip;<br>林海已关注</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282274926)<br><br>2018-08-13 18:31<br>赞(1) 踩(0) | <div>侠客风范，又少了气势</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233113502)<br> <br>2018-08-13 08:31<br>赞(2) 踩(0) | <div>听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126896922)<br>媖莹盈盁 营婴赢瑛 颖鹦...<br>2018-08-09 21:50<br>赞(4) 踩(0) | <div>像是空谷中的幽兰，是那么美，是那么忧郁&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400569089)<br><br>2018-08-06 23:55<br>赞(2) 踩(0) | <div>马蹄潇潇，却道蜀道难。落红飘飘，谁说你说我？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400569089)<br><br>2018-08-06 23:55<br>赞(2) 踩(0) | <div>马蹄潇潇，却道蜀道难。<br>落红飘飘，谁说你说我？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356917172)<br><br>2018-08-05 23:59<br>赞(4) 踩(0) | <div>古代商人的马班带着满满的希望  穿过丛林  走过山丘  夕阳西下  消失在无尽的沙漠</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280569856)<br><br>2018-08-02 08:56<br>赞(2) 踩(0) | <div>好多人说小日本音乐比中国厉害，好多人说还好中国有个林海，，，，，真是觉得你们这些人见识还不够。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280569856)<br><br>2018-08-02 08:56<br>赞(2) 踩(0) | <div>好多人说小日本音乐比中国厉害，好多人说还好中国有个林海，，，，，<br>真是觉得你们这些人见识还不够。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260569690)<br><br>2018-11-11 01:22<br>赞(0) 踩(0) | <div>中国的音乐得慢慢的品，能融入其意境，能一直单曲循环，日本的音乐乍一听确实好听，可是总缺少一些东西，单曲循环两三遍就腻了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342609401)<br><br>2018-08-01 06:29<br>赞(3) 踩(0) | <div>3.1'时的琵琶声，很有一种突兀感，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103805982)<br><br>2018-07-30 23:28<br>赞(4) 踩(0) | <div>好听</div> |
@@ -421,7 +418,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303594537)<br> 绝笔不是00后<br>2018-06-27 17:58<br>赞(3) 踩(0) | <div>林海 的确</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10298689)<br><br>2018-06-26 15:19<br>赞(7) 踩(0) | <div>这首《踏古》感觉比《琵琶语》更现代更棒。中国有太多很牛的音乐家没有被广为人知。最近在听 安达盖，一个很棒的乐队，我们真的不必去羡慕日韩有那么多的知名音乐家，我们也有，只是没有人去推广，真遗憾。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237185018)<br><br>2018-06-26 06:28<br>赞(3) 踩(0) | <div>好好好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52880057)<br>斯人自觉 与别不同。<br>2018-06-25 11:28<br>赞(13) 踩(0) | <div>踏音登律 得观古意沧海遗珠  流落璞玉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52880057)<br>斯人自觉 与别不同。<br>2018-06-25 11:28<br>赞(13) 踩(0) | <div>踏音登律 得观古意<br>沧海遗珠  流落璞玉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358561664)<br><br>2018-06-25 09:24<br>赞(4) 踩(0) | <div>空灵，轻快。让人的心境瞬间明丽。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47679361)<br><br>2018-06-24 10:25<br>赞(9) 踩(0) | <div>我音乐不是很懂，但还是喜欢音乐，感觉好听就爱听就这么简单。我不评论但爱看评论。在这里看到评论里骂人！失望</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311325552)<br><br>2018-08-09 19:36<br>赞(0) 踩(0) | <div>深有同感</div> |
@@ -434,7 +431,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374916678)<br>安静的魔羯座<br>2018-06-17 20:10<br>赞(9) 踩(0) | <div>清心悦耳，妙不可言。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/161554)<br><br>2018-06-16 08:14<br>赞(3) 踩(0) | <div>精彩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3428720)<br>怼脑残粉真是有乐趣<br>2018-06-14 01:37<br>赞(3) 踩(0) | <div>贝斯也起到了不错的作用</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342661398)<br><br>2018-06-14 00:05<br>赞(3) 踩(0) | <div>枯叶之蝶第一次听踏古是在这首歌里不知道枯叶之蝶这首歌你是否还会记起还有听这首歌时的心情</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342661398)<br><br>2018-06-14 00:05<br>赞(3) 踩(0) | <div>枯叶之蝶<br>第一次听踏古是在这首歌里<br>不知道枯叶之蝶这首歌你是否还会记起<br>还有听这首歌时的心情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224318719)<br> <br>2018-06-13 18:44<br>赞(3) 踩(0) | <div>弱弱的问一下林海是演奏者还是谱曲的？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256470958)<br><br>2018-06-19 01:54<br>赞(0) 踩(0) | <div>曲作者</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377907699)<br><br>2018-08-07 09:19<br>赞(0) 踩(0) | <div>整张专辑作曲编曲键盘演奏、琵琶演奏蒋彦、吟唱龚丽娜！</div> |
@@ -444,7 +441,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326038813)<br><br>2018-06-09 07:23<br>赞(3) 踩(0) | <div>听夕阳之歌让人想到人生，听千千阙歌让人想到感情。同样一首歌，初识不知曲中意，再听已是曲中人。这就是音乐的魅力！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363145876)<br><br>2018-06-07 19:23<br>赞(2) 踩(0) | <div>过节舞狮般那段绝了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276073697)<br>致虚极   守静笃<br>2018-06-06 07:58<br>赞(3) 踩(0) | <div>妙境</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321795258)<br><br>2018-06-05 12:38<br>赞(5) 踩(0) | <div>音乐无国界，好的音乐，你也抵抗不了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321795258)<br><br>2018-06-05 12:38<br>赞(5) 踩(0) | <div>音乐无国界，<br>好的音乐，你也抵抗不了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12357634)<br><br>2018-06-04 17:58<br>赞(5) 踩(0) | <div>龚琳娜的嗓音&amp;hellip;&amp;hellip;真的很仙了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352822441)<br>灿烂的笑容 灿烂的阳光 ...<br>2018-06-04 11:53<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344166991)<br>欢迎来信阳游玩。<br>2018-06-02 23:02<br>赞(3) 踩(0) | <div>真棒 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -474,17 +471,17 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6327558)<br><br>2018-05-07 23:17<br>赞(0) 踩(0) | <div>枯叶之蝶，老牌古风 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32508246)<br>hi~<br>2018-05-08 14:18<br>赞(0) 踩(0) | <div><q><b>温柔若虎说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46866616)<br><br>2018-05-09 08:33<br>赞(0) 踩(0) | <div>枯叶之蝶</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330767599)<br><br>2018-05-07 17:41<br>赞(6) 踩(0) | <div>塞上琵琶踏古苍茫轻骑持弯刀，满目黄沙仰天啸。纵横九天千万里，醉看沙场几时消。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330767599)<br><br>2018-05-07 17:41<br>赞(6) 踩(0) | <div>塞上琵琶踏古<br><br>苍茫轻骑持弯刀，<br>满目黄沙仰天啸。<br>纵横九天千万里，<br>醉看沙场几时消。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235847066)<br>不用任何猜疑的相处那才是...<br>2018-05-06 23:53<br>赞(2) 踩(0) | <div>好听❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354268092)<br><br>2018-05-06 18:53<br>赞(2) 踩(0) | <div>铁马铮铮，时而缓慢，时而欢快，终，静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360587166)<br><br>2018-05-06 12:59<br>赞(2) 踩(0) | <div>总是自行带入墨明棋妙的填词</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285583572)<br><br>2018-05-05 16:02<br>赞(4) 踩(0) | <div>《五月花》文苑花无妆嵌月无同，各自情怀展画容。芳迈群妍不相欠，唯求时雨谢春风。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285583572)<br><br>2018-05-05 16:02<br>赞(4) 踩(0) | <div>《五月花》<br>文苑<br>花无妆嵌月无同，<br>各自情怀展画容。<br>芳迈群妍不相欠，<br>唯求时雨谢春风。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323544866)<br><br>2018-05-04 19:20<br>赞(4) 踩(0) | <div>许多年前第一次听就喜欢上了，结果一不小心删了（那时候还是mp4）,费了好大功夫才又找回来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343365031)<br>倾听别人的声音<br>2018-05-04 16:08<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325896443)<br>和我心就收藏<br>2018-05-04 06:50<br>赞(2) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273733041)<br>蓝蓝的天空   蓝蓝的海...<br>2018-05-03 16:15<br>赞(2) 踩(0) | <div>林海的音乐让我百听不厌，中国的古韵确实好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26452985)<br> <br>2018-05-03 15:21<br>赞(7) 踩(0) | <div>果然还是纯音乐的好听。加上歌词怎么听都奇怪。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282382597)<br><br>2018-05-03 04:24<br>赞(2) 踩(0) | <div>心音涤荡了世间尘埃一缕花魂沉醉了唯美忧伤一次邂逅倾尽了高山流水一念执著爱不同生死同穴春水凝碧倾予几许柔肠纤指红尘千世轮回成殇愿得一人心白首不相离静听花开为你倾尽千年的等待弱水三千我只取一瓢饮红颜易逝伊不离君不弃相濡以沫</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282382597)<br><br>2018-05-03 04:24<br>赞(2) 踩(0) | <div>心音<br>涤荡了世间尘埃<br><br>一缕花魂<br>沉醉了唯美忧伤<br><br>一次邂逅<br>倾尽了高山流水<br><br>一念执著<br>爱不同生死同穴<br><br>春水凝碧<br>倾予几许柔肠<br><br>纤指红尘<br>千世轮回成殇<br><br>愿得一人心<br>白首不相离<br><br>静听花开<br>为你<br>倾尽千年的等待<br><br>弱水三千<br>我只取一瓢饮<br>红颜易逝<br>伊不离君不弃<br><br>相濡以沫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235186726)<br><br>2018-05-02 20:31<br>赞(3) 踩(0) | <div>大音希声 大象无形。所以龚琳娜老师各种惊世骇俗地探索令人十分尊敬。什么叫艺术的先行者和先锋。有些人觉得她有些歌少唱为妙，只能说你的境界比老罗和龚老师相差太远。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4133936)<br>暂无签名~<br>2018-05-02 10:56<br>赞(0) 踩(0) | <div>他们只是不了解自己的文化 就跳出来评论的人而已！何须与这种孤陋寡闻之人一般见识！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337996178)<br><br>2018-04-25 17:07<br>赞(5) 踩(0) | <div>喜欢林海的琵琶演奏 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -500,7 +497,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44066507)<br>随心音乐<br>2018-04-18 00:08<br>赞(2) 踩(0) | <div>音乐无界限！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35776192)<br>お休み<br>2018-04-16 18:41<br>赞(2) 踩(0) | <div>棒棒棒棒棒棒棒棒棒，惊喜欢欣，流连忘返</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348719749)<br>我还没想好要写什么...<br>2018-04-15 23:54<br>赞(1) 踩(0) | <div>这首歌特别配我小泉州的风景风俗文化</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275900863)<br>满身都是酒味，总好过满眼...<br>2018-04-15 22:45<br>赞(2) 踩(0) | <div>本来最喜欢钢琴曲现在不是了成琵琶曲了<img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275900863)<br>满身都是酒味，总好过满眼...<br>2018-04-15 22:45<br>赞(2) 踩(0) | <div>本来最喜欢钢琴曲<br>现在不是了<br>成琵琶曲了<br><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95556046)<br>心上人，一世长安啊<br>2018-04-12 19:08<br>赞(0) 踩(0) | <div>不说里面加了架子鼓，以前还真没听出来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48416971)<br>这家伙很聪明什么也没留下...<br>2018-04-12 07:26<br>赞(0) 踩(0) | <div>853</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345086953)<br><br>2018-04-12 00:19<br>赞(3) 踩(0) | <div>鼓角轻刀快马，大漠燕山月钩。前人土地后人收，说甚龙争虎斗。</div> |
@@ -548,7 +545,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340639399)<br><br>2018-03-17 22:46<br>赞(1) 踩(0) | <div>枯叶之蝶，，，，，填词版</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325852793)<br><br>2018-03-17 22:26<br>赞(1) 踩(0) | <div>当时听这首曲子，大脑里第一个想到的就是&amp;ldquo;江湖&amp;rdquo;。如今，再听，想到的还是&amp;ldquo;江湖&amp;rdquo;。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325852793)<br><br>2018-03-17 22:16<br>赞(2) 踩(0) | <div>几年前曾听过这首曲子，当时很喜欢，就是不知道曲名，今天听轻音乐时，无意中听到了，心中不禁感慨一番&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352842629)<br>暗夜步出竹꯭林꯭桥，苍茫...<br>2018-03-17 20:42<br>赞(4) 踩(0) | <div>大漠沉寂，飞飞天兮，魂断鸣沙山，残肢断臂，孤烟敲碎雷音寺的晚钟。寒雁衔走落日，衔不走历史的沉重。穿越时间的符咒，雕刻镶入眼眸。朦胧的主题，清晰异常。月牙泉盛载千古倩影，不是梦境。阳关古道上，烈风低沉。清笛徘徊，琵琶翩跹。乐曲以节奏感很强的非洲鼓作开场（但听起来像是中国鼓），并以打击乐始终贯穿曲子，极具新意及震撼力。随后由琵琶独奏，时而轻巧、时而壮阔、时而委婉，时而激昂，以琵琶的万千风情，娓娓诉说三千年来众生相，颠覆琵琶印象&amp;hellip;&amp;hellip;欣赏更多精彩内容➕V信：kly0419</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352842629)<br>暗夜步出竹꯭林꯭桥，苍茫...<br>2018-03-17 20:42<br>赞(4) 踩(0) | <div>大漠沉寂，飞飞天兮，<br>魂断鸣沙山，残肢断臂，<br>孤烟敲碎雷音寺的晚钟。<br>寒雁衔走落日，衔不走历史的沉重。<br>穿越时间的符咒，雕刻镶入眼眸。<br>朦胧的主题，清晰异常。<br>月牙泉盛载千古倩影，不是梦境。<br>阳关古道上，烈风低沉。清<br>笛徘徊，琵琶翩跹。<br><br>乐曲以节奏感很强的非洲鼓作开场（但听起来像是中国鼓），并以打击乐始终贯穿曲子，极具新意及震撼力。随后由琵琶独奏，时而轻巧、时而壮阔、时而委婉，时而激昂，以琵琶的万千风情，娓娓诉说三千年来众生相，颠覆琵琶印象&amp;hellip;&amp;hellip;<br><br>欣赏更多精彩内容➕V信：kly0419</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257269371)<br><br>2018-03-16 12:02<br>赞(2) 踩(0) | <div>豪情壮志，踏古寻来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345389354)<br><br>2018-03-15 13:17<br>赞(1) 踩(0) | <div>日本很多音乐元素都偷中国的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183879284)<br>贝多芬说：音乐应当使人类...<br>2018-03-21 01:11<br>赞(0) 踩(0) | <div>不能算偷，只能说日本音乐受我天朝文化影响至深</div> |
@@ -650,13 +647,13 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1300312)<br><br>2018-02-05 11:08<br>赞(0) 踩(0) | <div><q><b>慕思麟说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341957666)<br><br>2018-01-26 14:02<br>赞(1) 踩(0) | <div>良心制作，品味真正心界。良知在心，唯懂得之人，方可名的明白</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315900985)<br>人在万物中，心在万物上<br>2018-01-23 08:08<br>赞(5) 踩(0) | <div>万里长城狼烟起，战鼓声声传塞外。千年古都今犹在，策马踏过山海关！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7458596)<br><br>2018-01-23 02:10<br>赞(859) 踩(0) | <div>踏雪寻梅博古意听松观涛荡豪情一杯红尘新旧事拂袖掷履静处听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7458596)<br><br>2018-01-23 02:10<br>赞(859) 踩(0) | <div>踏雪寻梅博古意<br>听松观涛荡豪情<br>一杯红尘新旧事<br>拂袖掷履静处听</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237144237)<br><br>2018-03-02 16:40<br>赞(0) 踩(0) | <div>写的不错</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4999520)<br><br>2018-06-06 11:36<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365711139)<br><br>2018-07-02 18:09<br>赞(0) 踩(0) | <div>古有伯牙，今有林海。听君一曲，夫妇何求</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377879382)<br><br>2018-07-07 15:08<br>赞(0) 踩(0) | <div><q><b>笑浮沉说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405104149)<br><br>2019-07-06 02:45<br>赞(0) 踩(0) | <div>路过踏雪寻梅博古意听松观涛荡豪情一杯红尘新旧事拂袖掷履静处听静听踏古十年前今听踏古艺幽心此词我再添三句路过</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334956497)<br><br>2018-01-21 10:27<br>赞(27) 踩(0) | <div>刚刚看到有评论说此曲是央视的风景宣传片，应此亦可改成：琵琶一曲寒声起，气吞山河九万里。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405104149)<br><br>2019-07-06 02:45<br>赞(0) 踩(0) | <div>路过<br><br><br>踏雪寻梅博古意<br>听松观涛荡豪情<br>一杯红尘新旧事<br>拂袖掷履静处听<br>静听踏古十年前<br>今听踏古艺幽心<br>此词我再添三句<br><br><br><br>路过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334956497)<br><br>2018-01-21 10:27<br>赞(27) 踩(0) | <div>刚刚看到有评论说此曲是央视的风景宣传片，应此亦可改成：<br><br>琵琶一曲寒声起，气吞山河九万里。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38924477)<br>我还没想好要写什么...<br>2018-02-02 10:25<br>赞(0) 踩(0) | <div>琵琶一曲寒声起，气吞山河九万里。说得好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334956497)<br><br>2018-02-02 10:35<br>赞(0) 踩(0) | <div><q><b>茶碗__说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8891388)<br>做个有趣的人，哈哈<br>2018-02-27 12:07<br>赞(0) 踩(0) | <div>琵琶一曲寒声起，气吞山河九万里。好美啊！</div> |
@@ -679,7 +676,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332046535)<br><br>2018-01-20 11:29<br>赞(0) 踩(0) | <div><q><b>某年某月某日说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333920383)<br>人生或许只是一场又一场的...<br>2018-01-20 12:06<br>赞(0) 踩(0) | <div><q><b>Huasuyue说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33751330)<br><br>2018-01-26 02:43<br>赞(0) 踩(0) | <div>天下贰</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317232548)<br>再见往事，再见…<br>2018-01-28 00:46<br>赞(0) 踩(0) | <div>枯叶白马总相依&amp;hellip;&amp;hellip;听踏古还是看了一个游戏制作的视频才知道的这首纯音乐，枯叶之蝶。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317232548)<br>再见往事，再见…<br>2018-01-28 00:46<br>赞(0) 踩(0) | <div>枯叶白马总相依&amp;hellip;&amp;hellip;<br>听踏古还是看了一个游戏制作的视频才知道的这首纯音乐，枯叶之蝶。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327408798)<br><br>2018-01-18 16:42<br>赞(2) 踩(0) | <div>我之前一直听的老妖的枯叶之蝶 今天才知道是踏古填的词 好惭愧&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214634178)<br>专注做一个懒人……<br>2018-01-17 21:44<br>赞(1) 踩(0) | <div>说不出太多有文化的语言，就是感觉好听，再配上我新买的蓝牙苹果耳机太棒了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25836346)<br><br>2018-01-17 14:50<br>赞(1) 踩(0) | <div>好听</div> |
@@ -805,7 +802,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335283716)<br> <br>2017-11-15 20:51<br>赞(3) 踩(0) | <div>这曲目真好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141421954)<br><br>2017-11-14 15:15<br>赞(6) 踩(0) | <div>范宗沛也是位奇才</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305394410)<br>No pains αnd...<br>2017-11-13 22:37<br>赞(4) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333666103)<br><br>2017-11-11 22:38<br>赞(11) 踩(0) | <div>是非曲直过眼，善恶因果随缘。千里风川，一步踏古</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333666103)<br><br>2017-11-11 22:38<br>赞(11) 踩(0) | <div>是非曲直过眼，善恶因果随缘。<br>千里风川，一步踏古</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46460927)<br><br>2017-11-10 11:56<br>赞(3) 踩(0) | <div>碰巧用exk在听，真的很有实力的作曲家</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279332407)<br><br>2017-11-23 18:53<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30761354)<br>一片天+一片云=<br>2017-11-09 23:00<br>赞(1) 踩(0) | <div>听歌看书</div> |
@@ -820,9 +817,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233113502)<br> <br>2017-11-07 00:05<br>赞(0) 踩(0) | <div>听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305763507)<br> <br>2017-11-06 16:20<br>赞(1) 踩(0) | <div>一分五十四的时候我听到了几度枫红</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316678630)<br><br>2017-11-05 16:26<br>赞(0) 踩(0) | <div>为啥有种上坟的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192263534)<br>我喜欢将暮未暮的原野， ...<br>2017-11-05 09:52<br>赞(4) 踩(0) | <div>写书人：我写完这个故事已经三年，枯叶却再也没有回来过。今年端阳，又是我陪她烂醉在酒窖。我不知道她还会在这城门守多久，我只知道，那天晚上我烧了一本写了三年的书&amp;hellip;&amp;hellip;惊涛海面回荡，小舟穿浪她长发洒银枪，雕翎戎装闭目身半躺，腰中酒凉远远天际乌云泛光，云隐不祥青龙在海中望，满目凶光她冰冷手掌，满弓一道光穿透夜色，带着破风那么一声啸响飞洒的血光，散落在唇角上又微甜如糖&amp;hellip;&amp;hellip;枯叶：我在这条龙的肚子里活了三百年，可我不是妖怪我忘了自己叫什么了，肩膀上纹的是蝴蝶，不如你就叫我枯叶好了白马：月夜曾经送我一个名字，叫&amp;ldquo;白马&amp;rdquo;杀洪荒四兽，不是为了国家，只是为了他&amp;hellip;&amp;hellip;枯叶：那么我呢？枯</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192263534)<br>我喜欢将暮未暮的原野， ...<br>2017-11-05 09:56<br>赞(0) 踩(0) | <div>枯叶：你为什么从不喝腰中那壶酒？白马：老人说雪天莲蕊能做成一种叫无水的胭脂枯叶：胸口是最贴近心脏的地方，你靠着我的胸口就不会冻了白马：雪山之后是另一座雪山，你能背我翻过多少座雪山？枯叶：背到我死&amp;hellip;&amp;hellip;一定把你送回他身边！白马：如果我的眼睛没有被这场雪灼伤，我现在最想看到的，是你。夜郎王：夜郎城绝对不会包容一个活了三百年的妖怪！我已经调动南陲众属，月夜，这次我要你领兵。月夜：我想和她在一起&amp;hellip;&amp;hellip;夜郎王：你家族世代金戈铁马，功垂千秋，你要亲手毁了这一切？月夜：杀了他，和我一起回去&amp;hellip;&amp;hellip;白马：这壶酒太烈了&amp;hellip;&amp;hellip;月夜：今晚，你们都要死&amp;hellip;&amp;hellip;白马：你还记得无水，帮我找回来，今夜就动身！</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192263534)<br>我喜欢将暮未暮的原野， ...<br>2017-11-05 09:57<br>赞(0) 踩(0) | <div>（竹林漫上残阳，归农依唱）枯叶：我背不了你一辈子了&amp;hellip;&amp;hellip;天莲蕊我一直缝在你的领角，（雨送一抹微凉，虹结窗框）天亮之后，忘了我&amp;hellip;&amp;hellip;散落在城墙，血未成霜却叫她学会去遗忘，夜蝶翱翔就在他的胸膛，雪蕊幽香站在城门旁，看雪落一场余生茫茫&amp;hellip;&amp;hellip;白马：白马枯叶总相依，你帮我写一个故事吧。写书人：你要我写一个故事，我要一个陪我喝酒的朋友。做笔交易吧，三年，三年后的端阳，我帮你写完这本书。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192263534)<br>我喜欢将暮未暮的原野， ...<br>2017-11-05 09:52<br>赞(4) 踩(0) | <div>写书人：我写完这个故事已经三年，枯叶却再也没有回来过。<br>今年端阳，又是我陪她烂醉在酒窖。<br>我不知道她还会在这城门守多久，<br>我只知道，那天晚上我烧了一本写了三年的书&amp;hellip;&amp;hellip;<br>惊涛海面回荡，小舟穿浪<br>她长发洒银枪，雕翎戎装<br>闭目身半躺，腰中酒凉<br>远远天际乌云泛光，云隐不祥<br>青龙在海中望，满目凶光<br>她冰冷手掌，满弓一道光<br>穿透夜色，带着破风那么一声啸响<br>飞洒的血光，散落在唇角上<br>又微甜如糖&amp;hellip;&amp;hellip;<br>枯叶：我在这条龙的肚子里活了三百年，可我不是妖怪<br>我忘了自己叫什么了，肩膀上纹的是蝴蝶，不如你就叫我枯叶好了<br>白马：月夜曾经送我一个名字，叫&amp;ldquo;白马&amp;rdquo;<br>杀洪荒四兽，不是为了国家，只是为了他&amp;hellip;&amp;hellip;<br>枯叶：那么我呢？<br>枯</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192263534)<br>我喜欢将暮未暮的原野， ...<br>2017-11-05 09:56<br>赞(0) 踩(0) | <div>枯叶：你为什么从不喝腰中那壶酒？<br>白马：老人说雪天莲蕊能做成一种叫无水的胭脂<br>枯叶：胸口是最贴近心脏的地方，你靠着我的胸口就不会冻了<br>白马：雪山之后是另一座雪山，你能背我翻过多少座雪山？<br>枯叶：背到我死&amp;hellip;&amp;hellip;一定把你送回他身边！<br>白马：如果我的眼睛没有被这场雪灼伤，我现在最想看到的，是你。<br>夜郎王：夜郎城绝对不会包容一个活了三百年的妖怪！<br>我已经调动南陲众属，月夜，这次我要你领兵。<br>月夜：我想和她在一起&amp;hellip;&amp;hellip;<br>夜郎王：你家族世代金戈铁马，功垂千秋，你要亲手毁了这一切？<br>月夜：杀了他，和我一起回去&amp;hellip;&amp;hellip;<br>白马：这壶酒太烈了&amp;hellip;&amp;hellip;<br>月夜：今晚，你们都要死&amp;hellip;&amp;hellip;<br>白马：你还记得无水，帮我找回来，今夜就动身！</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192263534)<br>我喜欢将暮未暮的原野， ...<br>2017-11-05 09:57<br>赞(0) 踩(0) | <div>（竹林漫上残阳，归农依唱）<br>枯叶：我背不了你一辈子了&amp;hellip;&amp;hellip;<br>天莲蕊我一直缝在你的领角，（雨送一抹微凉，虹结窗框）天亮之后，忘了我&amp;hellip;&amp;hellip;<br>散落在城墙，血未成霜<br>却叫她学会去遗忘，夜蝶翱翔<br>就在他的胸膛，雪蕊幽香<br>站在城门旁，看雪落一场<br>余生茫茫&amp;hellip;&amp;hellip;<br>白马：白马枯叶总相依，你帮我写一个故事吧。<br>写书人：你要我写一个故事，我要一个陪我喝酒的朋友。<br>做笔交易吧，三年，三年后的端阳，我帮你写完这本书。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192263534)<br>我喜欢将暮未暮的原野， ...<br>2017-11-05 09:57<br>赞(0) 踩(0) | <div>终于上传完了，每次看完都很感动</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192263534)<br>我喜欢将暮未暮的原野， ...<br>2017-11-05 09:59<br>赞(0) 踩(0) | <div>顺序是132</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279332407)<br><br>2017-11-23 18:54<br>赞(0) 踩(0) | <div><q><b>澄镜之水说：</b></q></div> |
@@ -838,10 +835,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10613713)<br>路过时光<br>2017-10-30 09:50<br>赞(2) 踩(0) | <div>林海大大被电台用的音乐实在多，不过也实在是喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305991522)<br><br>2017-10-29 08:29<br>赞(1) 踩(0) | <div>好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247617609)<br><br>2017-10-29 01:13<br>赞(0) 踩(0) | <div>这里是北京</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44041059)<br>记住我们共同走过的岁月。...<br>2017-10-28 00:37<br>赞(3) 踩(0) | <div>这么屌的曲子居然没人留言。很喜欢这曲子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44041059)<br>记住我们共同走过的岁月。...<br>2017-10-28 00:37<br>赞(3) 踩(0) | <div>这么屌的曲子居然没人留言。<br>很喜欢这曲子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/777424)<br>是心让爱灿烂<br>2017-10-28 00:03<br>赞(4) 踩(0) | <div>我们有一种幻念，这样的幻念荡漾了如春复苏，不想在世界严肃，本然倾心，颠覆了早就挥发的干瘪受累、另一番精神小憩中饱满。心灵与脚步，除了踏平，还有享受。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1863777)<br><br>2017-10-28 00:01<br>赞(0) 踩(0) | <div>琵琶相台版的实体CD制作也非常精良，设计很有创意，可惜大陆引进的时候就只有千碟一面的直板塑料壳了，枉费制作人一片用心。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2017-10-27 23:56<br>赞(2) 踩(0) | <div>敦煌梦，大漠沉寂，飞飞天兮，魂断鸣沙山，残肢断臂，孤烟敲碎雷音寺的晚钟寒雁衔走落日，衔不走历史的沉重，穿越时间的符咒，雕刻镶入眼眸朦胧的主题，清晰异常，月牙泉盛载千古倩影，不是梦境阳关古道上，烈风低沉，清笛徘徊，琵琶翩跹。《踏古》是《琵琶相》中又一不同风格出现的经典力作，琵琶高音袅绕，缓缓飘浮云际，以人声配搭琵琶，有着峰回路转之感，表现了思念的惆帐。乐曲中琵琶唱出纯真音色弦乐，像是暮色一屡屡，点缀琵琶演绎的如诗如画。乐曲以节奏感很强的非洲鼓作开场，并以打击乐始终贯穿曲子，极具新意及震憾力。随后由琵琶独奏，时而轻巧、时而壮阔、时而委婉，时而激昂，以琵琶的万千风情，娓娓诉说三千年来 众生相，颠覆琵琶印象。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2017-10-27 23:56<br>赞(2) 踩(0) | <div>敦煌梦，大漠沉寂，飞飞天兮，魂断鸣沙山，残肢断臂，孤烟敲碎雷音寺的晚钟<br><br>寒雁衔走落日，衔不走历史的沉重，穿越时间的符咒，雕刻镶入眼眸<br><br>朦胧的主题，清晰异常，月牙泉盛载千古倩影，不是梦境<br><br>阳关古道上，烈风低沉，清笛徘徊，琵琶翩跹。<br><br>《踏古》是《琵琶相》中又一不同风格出现的经典力作，<br>琵琶高音袅绕，缓缓飘浮云际，以人声配搭琵琶，有着峰回路转之感，表现了思念的惆帐。<br><br>乐曲中琵琶唱出纯真音色弦乐，像是暮色一屡屡，点缀琵琶演绎的如诗如画。<br>乐曲以节奏感很强的非洲鼓作开场，并以打击乐始终贯穿曲子，极具新意及震憾力。<br>随后由琵琶独奏，时而轻巧、时而壮阔、时而委婉，时而激昂，<br>以琵琶的万千风情，娓娓诉说三千年来 众生相，颠覆琵琶印象。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690676)<br><br>2017-10-27 23:21<br>赞(0) 踩(0) | <div>想起第一次听到林海，正是那段耳朵完全张开的岁月。一个人躺在酒店里，每天只是出门吃饭和买CD，不间断地播放，在那个存放着HIFI音响的幽暗房间。它似乎只是和其他经历一样尘封，归于了平淡的记忆。但是，它总是带给我了一些什么，一些，无法感知却历历在目的什么。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6544059)<br><br>2017-10-27 23:09<br>赞(1) 踩(0) | <div>有段时间在爱爱时喜欢把这首乐曲作为背景音乐循环播放。^ω^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50327483)<br><br>2017-10-27 22:58<br>赞(3) 踩(0) | <div>为什么一听打击声就说是西方的？没有与时俱进的欣赏水平就别让作者心塞了</div> |
@@ -866,7 +863,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4342871)<br>我还没想好要写什么...<br>2017-10-18 17:27<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/555560)<br>坐在路边鼓掌的人<br>2017-10-18 06:45<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188378601)<br>无是有，有是无<br>2017-10-17 09:53<br>赞(2) 踩(0) | <div>纯音乐真的好听！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199720111)<br>你现在的气质了，藏着你走...<br>2017-10-15 18:18<br>赞(2) 踩(0) | <div>上下班的路上，周末一个人的时候，那无数个日日夜夜中只有虾米音乐知道，我有多么想，离你的心再近一点点</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199720111)<br>你现在的气质了，藏着你走...<br>2017-10-15 18:18<br>赞(2) 踩(0) | <div>上下班的路上，周末一个人的时候，那无数个日日夜夜中<br>只有虾米音乐知道，我有多么想，离你的心再近一点点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306671792)<br>Mon amour,l<br>2017-10-15 12:14<br>赞(1) 踩(0) | <div>享受</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41958798)<br> <br>2017-10-14 14:41<br>赞(3) 踩(0) | <div>这个音乐太美了，很有画面感，我脑海中浮现地是大漠敦煌，敦煌飞天舞</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112186144)<br> <br>2017-10-23 22:10<br>赞(0) 踩(0) | <div>我靠，咱们想的一样</div> |
@@ -1058,7 +1055,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351759545)<br>REC <br>2018-08-08 16:35<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343664379)<br><br>2018-09-03 17:35<br>赞(0) 踩(0) | <div>这个梦坨是屎坨，原谅我说脏话！楼主和你有仇，各抒己见，不同的观点，阐述自己的观点就行了，何必人身攻击，还硕士，逗比呢，就凭你说的话，哪个咔咔野鸡大学都没有毕业的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250148923)<br> <br>2018-09-10 23:16<br>赞(0) 踩(0) | <div>pp</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2018-09-11 09:50<br>赞(0) 踩(0) | <div>赞！为君大赞！</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2018-09-11 09:50<br>赞(0) 踩(0) | <div>赞！<br>为君大赞！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102569818)<br><br>2018-09-22 14:28<br>赞(0) 踩(0) | <div>同时呢，你所说的，也包括了你自己，又何苦</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294096919)<br><br>2018-09-24 10:52<br>赞(0) 踩(0) | <div><q><b>YSSE说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351759545)<br>REC <br>2018-10-05 15:06<br>赞(0) 踩(0) | <div><q><b>十年之後 、说：</b></q></div> |
@@ -1086,7 +1083,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7161601)<br>再见<br>2017-08-06 02:08<br>赞(0) 踩(0) | <div>心情复杂，木木水每</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263049211)<br>Heart only f...<br>2017-08-05 16:07<br>赞(0) 踩(0) | <div>林海真的好6，听了N遍，才找到歌名叫什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258173814)<br> <br>2017-08-05 10:30<br>赞(1) 踩(0) | <div>调动起身体中的每个细胞 抑扬顿挫 此起彼伏 绝妙</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244683926)<br><br>2017-08-04 20:14<br>赞(1) 踩(0) | <div>咳咳，这首是不是还有 填了词的，叫啥  枯蝶啥的，名字记不清了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244683926)<br><br>2017-08-04 20:14<br>赞(1) 踩(0) | <div>咳咳，<br>这首是不是还有 填了词的，<br>叫啥  枯蝶啥的，名字记不清了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15985582)<br><br>2017-08-05 12:45<br>赞(0) 踩(0) | <div>枯叶之蝶</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244683926)<br><br>2017-08-07 21:05<br>赞(0) 踩(0) | <div><q><b>拉姆格白籽说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318795830)<br><br>2017-08-12 01:15<br>赞(0) 踩(0) | <div>白马枯叶总相依，超喜欢这句</div> |
@@ -1123,10 +1120,10 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428156575)<br>温良恭谦让<br>2019-12-17 08:06<br>赞(0) 踩(0) | <div>没有了耶</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432156590)<br><br>2019-12-20 21:50<br>赞(0) 踩(0) | <div><q><b>behan说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303950434)<br>Peace~<br>2017-07-07 20:23<br>赞(3) 踩(0) | <div>龚琳娜唱的真的很震撼啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194286973)<br>我爱你，我的祖国<br>2017-07-07 10:24<br>赞(0) 踩(0) | <div>震荡忽如千年征战古混</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194286973)<br>我爱你，我的祖国<br>2017-07-07 10:24<br>赞(0) 踩(0) | <div>震荡<br>忽如千年征战古混</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310003058)<br><br>2017-07-06 01:25<br>赞(2) 踩(0) | <div>感觉，不管以后遇到什么困难都要向前看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288836510)<br><br>2017-07-02 17:26<br>赞(8) 踩(0) | <div>白马枯叶总相依，三年，三年后的端阳我帮你写完这本书。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244683926)<br><br>2017-08-04 20:16<br>赞(0) 踩(0) | <div>记不得名字了，你记得能告诉我不？</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244683926)<br><br>2017-08-04 20:16<br>赞(0) 踩(0) | <div>记不得名字了，<br>你记得能告诉我不？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41772035)<br><br>2017-08-26 02:18<br>赞(0) 踩(0) | <div><q><b>Allein sein.说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6797794)<br>我还没想好要写什么...<br>2017-07-01 20:17<br>赞(1) 踩(0) | <div>悠扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308841486)<br>长 不 过 执 念   ...<br>2017-07-01 14:43<br>赞(1) 踩(0) | <div>好好听！ <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -1208,7 +1205,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425122767)<br>我还没想好要写什么...<br>2019-07-13 18:04<br>赞(0) 踩(0) | <div><q><b>sorry°说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50174514)<br>有什么能比信任更能表达对...<br>2019-07-26 10:13<br>赞(0) 踩(0) | <div>蜜汁自信，好个全面赶超 <img src="../../../../images/comments/58f25f67f72847b1f16f261712b7c135.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419402190)<br><br>2019-07-30 12:59<br>赞(0) 踩(0) | <div>张渠，关大洲的也很好听</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419402190)<br><br>2019-07-30 13:03<br>赞(0) 踩(0) | <div>还有一些古曲，各别曲子也好听平时可以搜罗一下</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419402190)<br><br>2019-07-30 13:03<br>赞(0) 踩(0) | <div>还有一些古曲，各别曲子也好听<br>平时可以搜罗一下</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311954558)<br>交个朋友呗❤<br>2020-04-03 09:53<br>赞(0) 踩(0) | <div><q><b>奋斗的星火说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275858903)<br>以乐会友，益友提高雅趣。<br>2017-06-22 21:10<br>赞(1) 踩(0) | <div>中西完美合壁，绝！ <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26795046)<br><br>2017-06-21 22:22<br>赞(1) 踩(0) | <div>说的是两个魂儿！</div> |
@@ -1269,7 +1266,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/146802684)<br><br>2017-08-18 20:08<br>赞(0) 踩(0) | <div>我是站在故宫听的，深宫大院庭院深深深别有一番气韵</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309544277)<br>西藏的味道 只有你知道<br>2017-09-07 23:02<br>赞(0) 踩(0) | <div>梅里雪山脚下听的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112186144)<br> <br>2017-10-23 22:05<br>赞(0) 踩(0) | <div>这首应该在敦煌莫高窟听，我第一次ting就是飞天反弹琵琶的画面</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95556046)<br>心上人，一世长安啊<br>2017-10-24 12:38<br>赞(0) 踩(0) | <div>风是穿山过海迎面而来花是零落成泥常开不败雪是日出消融檐上落白月是咫尺天涯千秋万代</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95556046)<br>心上人，一世长安啊<br>2017-10-24 12:38<br>赞(0) 踩(0) | <div>风是穿山过海迎面而来<br>花是零落成泥常开不败<br>雪是日出消融檐上落白<br>月是咫尺天涯千秋万代</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335283716)<br> <br>2017-11-15 20:53<br>赞(0) 踩(0) | <div>估计是沉鱼落雁，闭月羞花的感觉吧 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126850740)<br>去教堂或者去寺庙都不会有...<br>2017-11-19 22:08<br>赞(0) 踩(0) | <div><q><b>桃竹说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327212892)<br><br>2017-12-08 17:49<br>赞(0) 踩(0) | <div>不会是雪崩了吧</div> |
@@ -1315,7 +1312,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264466868)<br><br>2017-04-04 23:12<br>赞(8) 踩(0) | <div>从琵琶语入坑的 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318881899)<br><br>2017-08-14 12:32<br>赞(0) 踩(0) | <div>我也是 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310751202)<br>有我们EXO-L在，谁也...<br>2017-08-17 13:24<br>赞(0) 踩(0) | <div><q><b>华殷说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284800696)<br><br>2017-04-04 09:19<br>赞(7) 踩(0) | <div>雨已经过了凋花落了一地仰望灰色的天空冰蓝的梦何时飞走不要哭啊思念爬满心头轻轻落下的泪水脆弱脆弱为什么不坚强一点&amp;mdash;&amp;mdash;笑看你离开我为什么低着头飞花似梦只因别无选择</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284800696)<br><br>2017-04-04 09:19<br>赞(7) 踩(0) | <div>雨已经过了<br>凋花落了一地<br>仰望灰色的天空<br>冰蓝的梦何时飞走<br>不要哭啊<br>思念爬满心头<br>轻轻落下的泪水<br>脆弱脆弱<br>为什么不坚强一点&amp;mdash;&amp;mdash;<br>笑看你离开我<br>为什么低着头<br>飞花似梦<br>只因别无选择</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281522413)<br><br>2017-04-03 02:26<br>赞(1) 踩(0) | <div>非常喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9887268)<br><br>2017-04-02 22:11<br>赞(0) 踩(0) | <div>儿子喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21696278)<br><br>2017-04-01 20:51<br>赞(1) 踩(0) | <div>枯叶，萦绕，烟，舞动的风&amp;hellip;&amp;hellip;</div> |
@@ -1354,7 +1351,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49336367)<br><br>2017-03-14 14:58<br>赞(2) 踩(0) | <div>听觉享受！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42328823)<br>Man goes whe...<br>2017-03-13 03:20<br>赞(1) 踩(0) | <div>曲荒，從古琴到蕭，到中國的「新古典音樂」，發現那些評價較好的新古風音樂，旋律雖然優美，但有無病呻吟之象，十為做作。再聯想到漢服熱，人們對古風的熱愛，真的是和漢文化有關嗎？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264404471)<br>凡是过去，皆为序章！<br>2017-03-13 07:50<br>赞(0) 踩(0) | <div>取其精华～去其糟粕～一分为二的看待。今月曾经照古人，古人何见今时月。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13263578)<br><br>2017-03-12 22:41<br>赞(7) 踩(0) | <div>踏古-----春寒雨，弄弦外，花容意气窈窕。艳层楼， 风波起，喧鼓落光影。香堪乱，穿帘薄，音声倚绕梁阁。红帐烛，半掩颜，踏古知意沉。         记今夜春分寒雨聆听有感</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13263578)<br><br>2017-03-12 22:41<br>赞(7) 踩(0) | <div>踏古-----春寒雨，弄弦外，花容意气窈窕。艳层楼， 风波起，喧鼓落光影。<br>香堪乱，穿帘薄，音声倚绕梁阁。红帐烛，半掩颜，踏古知意沉。         记今夜春分寒雨聆听有感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267151046)<br><br>2017-03-12 15:43<br>赞(1) 踩(0) | <div>惊涛海面回荡，小舟穿浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217149213)<br><br>2017-03-12 02:06<br>赞(1) 踩(0) | <div>必须顶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275183144)<br><br>2017-03-10 10:40<br>赞(2) 踩(0) | <div>好听，入境，入心，原来有这么多真正热爱音乐的人</div> |
@@ -1364,7 +1361,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32605855)<br>仙后，朵朵，泰民，蓉蓉，...<br>2017-03-08 16:01<br>赞(0) 踩(0) | <div>一声弹指泪如丝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278294450)<br><br>2017-03-06 16:48<br>赞(1) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93006456)<br>不想输入签名……<br>2017-03-05 16:07<br>赞(0) 踩(0) | <div>好叼的曲子啊！鬼才林海啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251900096)<br> <br>2017-03-05 15:37<br>赞(2) 踩(0) | <div>天路尽处谁为峰一见君颜道成空</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251900096)<br> <br>2017-03-05 15:37<br>赞(2) 踩(0) | <div>天路尽处谁为峰<br>一见君颜道成空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277793850)<br><br>2017-03-04 18:56<br>赞(15) 踩(0) | <div>每听到这首歌的时候脑海里总浮现出一片西域沙漠，漫天飞舞的黄沙击打着柔弱的小草，而响起的琵琶声则化作几点微雨，滋润小草，鼓声幻化未几土著，围绕小草跳起了神秘之舞，随后鼓声散去，一切恢复平静。。。原谅我一个高中生的瞎yy。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8669180)<br><br>2017-03-01 14:30<br>赞(1) 踩(0) | <div>手机音乐里的单曲循环。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29586165)<br><br>2017-03-01 11:31<br>赞(1) 踩(0) | <div>赞</div> |
@@ -1377,7 +1374,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239150888)<br><br>2017-02-20 13:36<br>赞(4) 踩(0) | <div>这背景音乐变成福利彩票十二生肖即开型彩票的开奖音乐 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74842166)<br><br>2017-02-19 23:15<br>赞(2) 踩(0) | <div>惊艳，一闻不可忘怀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6980334)<br>还有一件事你不知道<br>2017-02-17 14:22<br>赞(1) 踩(0) | <div>这应该是我最喜欢的琵琶曲没有之一</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261742114)<br><br>2017-02-17 08:02<br>赞(64) 踩(0) | <div>古道柔肠滔滔江水胧藏锦绣草木情深破雾穿云你于何处唯念华章踏古寻今</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261742114)<br><br>2017-02-17 08:02<br>赞(64) 踩(0) | <div>古道柔肠<br>滔滔江水<br>胧藏锦绣<br>草木情深<br>破雾穿云<br>你于何处<br>唯念华章<br>踏古寻今</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227487354)<br>这家伙很聪明什么也没留下...<br>2017-02-22 12:04<br>赞(0) 踩(0) | <div>说的好 。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259924993)<br>相由心生<br>2017-02-14 21:31<br>赞(1) 踩(0) | <div>浓浓的武侠风，落日，余晖，瑟瑟秋风，削瘦挺拔的的少年郎</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/146802684)<br><br>2017-02-16 19:41<br>赞(0) 踩(0) | <div>宫廷风</div> |
@@ -1634,7 +1631,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54974914)<br>十二月大雪弥漫     ...<br>2016-04-25 02:22<br>赞(0) 踩(0) | <div>踏古</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54974914)<br>十二月大雪弥漫     ...<br>2016-04-25 02:18<br>赞(1) 踩(0) | <div>情怀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131640208)<br><br>2016-04-23 13:19<br>赞(1) 踩(0) | <div>喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145642672)<br>东边日出西边雨  道似无...<br>2016-04-20 00:29<br>赞(6) 踩(0) | <div>春风不度玉门关—踏古人寰恰似云头月，羞涩阴晴怅独孤。烟雨靡靡多少，淘尽英雄暮。狂沙漫舞，千古尽归尘土。琴声高古，豪气出，飞扬先贤青牍。炼龙泉，御赤兔，宇宙谁堪逐鹿？ 恰当年，踏古权当游牧。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145642672)<br>东边日出西边雨  道似无...<br>2016-04-20 00:29<br>赞(6) 踩(0) | <div>春风不度玉门关—踏古<br>人寰恰似云头月，羞涩阴晴怅独孤。烟雨靡靡多少，淘尽英雄暮。狂沙漫舞，千古尽归尘土。琴声高古，豪气出，飞扬先贤青牍。炼龙泉，御赤兔，宇宙谁堪逐鹿？ 恰当年，踏古权当游牧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83933872)<br> <br>2016-04-10 21:19<br>赞(4) 踩(0) | <div>就像八百里草原起惊雷，峰回路转之间，不是水岸花明，唯独一曲琵琶，一轮月光，似乎低吟古往今来风流都去也。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126536588)<br>不是我不明白<br>2016-03-29 08:42<br>赞(4) 踩(0) | <div>有一段把我带假行僧去了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/561816)<br><br>2016-05-09 23:13<br>赞(0) 踩(0) | <div>同感</div> |
@@ -1841,7 +1838,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5048878)<br>跳舞吧跳舞吧<br>2015-05-16 07:32<br>赞(0) 踩(0) | <div>#寻找治愈的音药# 真是大摩羯的节奏。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10857833)<br>暂无签名~<br>2015-05-13 01:00<br>赞(0) 踩(0) | <div>556</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12014438)<br>冷漠者<br>2015-05-12 20:43<br>赞(0) 踩(0) | <div>好有味道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8454141)<br>音乐才是我的女朋友<br>2015-05-05 19:08<br>赞(9) 踩(0) | <div>大弦嘈嘈如急雨，小弦切切如私语。嘈嘈切切错杂弹，大珠小珠落玉盘。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8454141)<br>音乐才是我的女朋友<br>2015-05-05 19:08<br>赞(9) 踩(0) | <div>大弦嘈嘈如急雨，小弦切切如私语。<br>嘈嘈切切错杂弹，大珠小珠落玉盘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44871465)<br><br>2015-05-04 23:43<br>赞(0) 踩(0) | <div>大家都听过吧《枯叶之蝶》的原曲、淡淡的忧伤…找了很久…</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53780576)<br>一个总是在回忆过去的人<br>2015-08-21 21:58<br>赞(0) 踩(0) | <div>嗯，没有注意找这几天听古曲虾米给推荐的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27884041)<br><br>2015-05-01 10:27<br>赞(0) 踩(0) | <div>2014年4月3日—7月7日</div> |
@@ -1890,7 +1887,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17671983)<br> <br>2015-01-27 23:29<br>赞(0) 踩(0) | <div>好美的曲子～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4412959)<br>fresh steame...<br>2015-01-26 17:25<br>赞(0) 踩(0) | <div>死。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44925961)<br>真的？<br>2015-01-18 19:41<br>赞(1) 踩(0) | <div>被里面的一段帅了一脸……虽然整曲都很帅就是了……(°_°)</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42726373)<br>暂无签名~<br>2015-01-17 20:04<br>赞(2) 踩(0) | <div>万千风情，叹一声无人懂怀抱琵琶，对天高歌问一声，谁与争锋！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42726373)<br>暂无签名~<br>2015-01-17 20:04<br>赞(2) 踩(0) | <div>万千风情，叹一声无人懂<br>怀抱琵琶，对天高歌<br>问一声，谁与争锋！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41047662)<br>我还没想好要写什么...<br>2015-01-16 22:54<br>赞(3) 踩(0) | <div>这才是最炫名族风！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7941671)<br>让眼睛清澈的唯一办法,就...<br>2015-01-15 09:32<br>赞(1) 踩(0) | <div>空灵了…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36945423)<br><br>2015-01-14 19:37<br>赞(0) 踩(0) | <div>好听，不过中间有一段我不太喜欢</div> |
@@ -1938,7 +1935,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/594812)<br>清风 明月 我<br>2014-09-12 23:34<br>赞(0) 踩(0) | <div>优雅渺远 柳暗花明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40528646)<br><br>2014-09-12 10:52<br>赞(0) 踩(0) | <div>和声龚琳娜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17520744)<br>落英不忍拭素手<br>2014-09-11 18:28<br>赞(1) 踩(0) | <div>窗前明月，冰河铁马。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33164077)<br>暂无签名~<br>2014-09-09 14:32<br>赞(2) 踩(0) | <div>“将军”“挪帅”“再将”“垫马”“吃”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33164077)<br>暂无签名~<br>2014-09-09 14:32<br>赞(2) 踩(0) | <div>“将军”<br>“挪帅”<br>“再将”<br>“垫马”<br>“吃”</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11301900)<br>我知道你将一直陪伴，就像...<br>2014-12-31 02:24<br>赞(0) 踩(0) | <div>被这段帅一脸</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21670030)<br>书犹药也，善读之可以医愚<br>2015-01-18 07:51<br>赞(0) 踩(0) | <div><q><b>橘子呦说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33329903)<br>暂无签名~<br>2014-09-08 00:35<br>赞(0) 踩(0) | <div>窗前明月，冰河铁马。没有琵琶的那段间奏不是很喜欢。（自觉）“赋格”为“典雅”。</div> |
@@ -2044,7 +2041,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1586635)<br>freeme<br>2014-03-18 00:06<br>赞(0) 踩(0) | <div>美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3899240)<br><br>2014-02-25 23:26<br>赞(0) 踩(0) | <div>里面的人声吟唱居然是龚琳娜……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13467722)<br><br>2014-02-24 14:45<br>赞(0) 踩(0) | <div>要命了，想不起来在哪儿听过了。要不是同人MV当背景乐用过，要不就是广播剧ED。是《纨绔》么？这想不起来可要命了。连当时听的心情都能想起来，到底是哪儿听的擦。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1586635)<br>freeme<br>2014-02-25 11:30<br>赞(0) 踩(0) | <div>是枯叶之蝶用过曲吧还是纯音乐好很多</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1586635)<br>freeme<br>2014-02-25 11:30<br>赞(0) 踩(0) | <div>是枯叶之蝶用过曲吧<br>还是纯音乐好很多</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26410014)<br><br>2014-03-13 22:31<br>赞(0) 踩(0) | <div>枯叶之蝶</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10206971)<br><br>2014-03-23 11:32<br>赞(0) 踩(0) | <div><q><b>Cassandra说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8111102)<br>浮光背道而驰，长满白发。<br>2014-02-23 18:58<br>赞(1) 踩(0) | <div>卧槽今天才发现踏古的和声是龚琳娜，简直女神，果然是一直爱着她而不自知啊！！！好希望林海跟龚琳娜再合作啊</div> |
@@ -2057,7 +2054,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12895046)<br>沿着社会主义大道奔前方<br>2014-02-01 10:50<br>赞(1) 踩(0) | <div>很独特</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9086414)<br><br>2014-01-26 20:38<br>赞(0) 踩(0) | <div>一听前奏就想起老妖的歌，果断M</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9166917)<br>luv u<br>2014-01-25 02:28<br>赞(0) 踩(0) | <div>白天听更好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3539270)<br><br>2014-01-22 13:49<br>赞(351) 踩(0) | <div>林海，乐评人说他是个右手东方、左手西方的天才音乐家林海游艺于古典、New Age、现代、爵士多风格之间，琴音流露出干净、空灵、温暖、恬静、自然的况味。扎实的西方音乐训练，让他透露出古典气质，东方的成长背景，也让他的音乐，保留了一份亲切而熟稳的中国气质”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3539270)<br><br>2014-01-22 13:49<br>赞(351) 踩(0) | <div>林海，乐评人说他是个右手东方、左手西方的天才音乐家<br>林海游艺于古典、New Age、现代、爵士多风格之间，琴音流露出干净、空灵、温暖、恬静、自然的况味。扎实的西方音乐训练，让他透露出古典气质，东方的成长背景，也让他的音乐，保留了一份亲切而熟稳的中国气质”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26671842)<br><br>2014-01-12 22:14<br>赞(0) 踩(0) | <div>林海</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6029063)<br><br>2014-01-06 13:07<br>赞(1) 踩(0) | <div>很喜欢的曲子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1309886)<br>Airs and gra...<br>2014-01-04 15:15<br>赞(0) 踩(0) | <div>@宫培浩 还记得高中的时候我跟你分享过的这首歌不？你能想象到里面的女声是@龚琳娜 老师么？？？？</div> |
@@ -2082,11 +2079,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12189263)<br><br>2013-11-16 17:48<br>赞(0) 踩(0) | <div>在玄武湖边上听到的原来就是这首。果然林海。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20623954)<br><br>2013-11-12 23:07<br>赞(0) 踩(0) | <div>现在看来这简直就是超豪华阵容了。睡觉去，晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2202110)<br>作梦中梦 悟身外身<br>2013-11-12 15:26<br>赞(0) 踩(0) | <div>嘈嘈切切错杂弹，大珠小珠落玉盘。女声龚琳娜画龙点睛。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2905584)<br>年月变但我未变<br>2013-11-06 22:56<br>赞(0) 踩(0) | <div>这个太爱了！琵琶声声入耳 鼓点再一上来眼睛都直了！多少人因为忐忑的恶搞误会了龚琳娜啊！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2905584)<br>年月变但我未变<br>2013-11-06 22:56<br>赞(0) 踩(0) | <div>这个太爱了！琵琶声声入耳 鼓点再一上来眼睛都直了！<br>多少人因为忐忑的恶搞误会了龚琳娜啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5629100)<br>自虐的Epicurean<br>2013-11-05 12:11<br>赞(1) 踩(0) | <div>龚琳娜的人声很厉害啊，如果一直走这种路子多好。林海蒋彦一直很喜欢。鼓点也很赞。一贯的林海高水准New Age.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15872601)<br><br>2013-11-04 12:51<br>赞(1) 踩(0) | <div>很喜欢的前奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6172942)<br>我还没想好要写什么...<br>2013-11-03 21:59<br>赞(1) 踩(0) | <div>偶遇一好友空间背景音乐~ 太好听了!~分享至此![thx]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12858264)<br><br>2013-10-31 00:09<br>赞(1) 踩(0) | <div>感觉化为了一滴水，在山涧溪流里随波逐流，时而湍急，时而安静，时而急转，时而平和……也许某天还要化为蒸气飞上天空呢，然后就可以开心地俯瞰大地～# 声喧乱石中，色静深松里。漾漾泛菱荇，澄澄映葭苇。#</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12858264)<br><br>2013-10-31 00:09<br>赞(1) 踩(0) | <div>感觉化为了一滴水，在山涧溪流里随波逐流，时而湍急，时而安静，时而急转，时而平和……也许某天还要化为蒸气飞上天空呢，然后就可以开心地俯瞰大地～# 声喧乱石中，色静深松里。<br>漾漾泛菱荇，澄澄映葭苇。#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6180772)<br>我还没想好要写什么...<br>2013-10-26 23:38<br>赞(0) 踩(0) | <div>@大目莲华先生是你掉的褶子吗      后面的和声是龚琳娜，听起来很妙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7566559)<br>我还没想好要写什么...<br>2013-10-26 21:01<br>赞(0) 踩(0) | <div>大珠小珠落玉盘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6969493)<br><br>2013-10-21 05:53<br>赞(0) 踩(0) | <div>里面的女声是龚玲娜啊(￣旦￣；)</div> |
@@ -2098,7 +2095,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6209104)<br><br>2013-10-09 14:58<br>赞(1) 踩(0) | <div>琵琶气势</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10359051)<br><br>2013-10-03 20:27<br>赞(1) 踩(0) | <div>他带我入宴席所， 以爱为旗在我以上。 《雅歌》‘爱。’‘以爱为旗，’以音乐为传奇。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3654250)<br><br>2013-09-26 13:36<br>赞(0) 踩(0) | <div>原来如此，枯叶之蝶。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7946223)<br><br>2013-09-19 13:59<br>赞(0) 踩(0) | <div>回流时光沧沧茫茫女声幽幽唱琴声铮铮流转琵琶说尽红尘事三千年来众生相批把相----踏古</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7946223)<br><br>2013-09-19 13:59<br>赞(0) 踩(0) | <div>回流时光<br>沧沧茫茫<br>女声幽幽唱<br>琴声铮铮流转<br>琵琶说尽红尘事<br>三千年来众生相<br>批把相----踏古</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3108422)<br><br>2013-09-16 16:51<br>赞(1) 踩(0) | <div>古韵琵琶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9138832)<br><br>2013-09-13 14:10<br>赞(1) 踩(0) | <div>ok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7715076)<br><br>2013-09-11 02:52<br>赞(1) 踩(0) | <div>古典鼓点</div> |
@@ -2311,7 +2308,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6130842)<br><br>2011-10-26 22:13<br>赞(1) 踩(0) | <div>最爱的琵琶曲之一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5199923)<br><br>2011-10-21 15:59<br>赞(1) 踩(0) | <div>大气不失其韵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4458644)<br>如花美眷，似水流年……<br>2011-10-21 01:09<br>赞(0) 踩(0) | <div>愿宾摅怀旧之蓄念，发思古之幽情。——班固《西都赋》</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6274709)<br>曾用名：萧长夜<br>2011-10-16 11:27<br>赞(0) 踩(0) | <div>这首被喜好古风词的E大改成过一个神作，《枯叶之蝶》。而配乐本身来说应该像李白那词里说的感觉，咸阳古道音尘绝。音尘绝，西风残照，汉家陵阙</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6274709)<br>曾用名：萧长夜<br>2011-10-16 11:27<br>赞(0) 踩(0) | <div>这首被喜好古风词的E大改成过一个神作，《枯叶之蝶》。<br>而配乐本身来说应该像李白那词里说的感觉，咸阳古道音尘绝。音尘绝，西风残照，汉家陵阙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6154270)<br><br>2011-10-09 14:45<br>赞(0) 踩(0) | <div>不解释</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5195648)<br>我还没想好要写什么...<br>2011-10-09 02:26<br>赞(0) 踩(0) | <div>多久没听琵琶 林海的比考级曲好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5195648)<br>我还没想好要写什么...<br>2011-10-09 02:25<br>赞(0) 踩(0) | <div>多久没听琵琶</div> |
@@ -2380,7 +2377,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2011-04-23 20:29<br>赞(0) 踩(0) | <div>林海，新世纪音乐家，钢琴才子同时也是创作全才，在琵琶开始流传的3000年后，要以自己的音乐才华，挑战传统，融合现代，彻底颠覆你的琵琶印象。 最令人感到新奇的、还是这曲中间配上一段有如天籁般吟唱的女声，在琵琶声泣泣的背景下，简直将琵琶欲表之情表露得淋漓尽致</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3454287)<br><br>2011-04-15 11:00<br>赞(0) 踩(0) | <div>适合走秀用</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/67750)<br>音乐就是鸟的羽毛<br>2011-04-11 15:35<br>赞(0) 踩(0) | <div>《枯叶之蝶》填词/原唱：EDIQ，翻唱：音频怪物</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2011-04-10 17:23<br>赞(1) 踩(0) | <div>回流时光，沧沧茫茫女声幽幽唱，琴声铮铮流转，琵琶说尽红尘事，三千年来众生相！琵琶，东方文化中渊远流传的乐器，早在秦朝就已经出现。因为清亮的音色和丰富的表现力，逐渐从伴奏乐器，成为独奏，称之为‘金石之声’。林海，新世纪音乐家，钢琴才子同时也是创作全才，在琵琶开始流传的3000年后，要以自己的音乐才华，挑战传统，融合现代，彻底颠覆你的琵琶印象。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2011-04-10 17:23<br>赞(1) 踩(0) | <div>回流时光，沧沧茫茫女声幽幽唱，琴声铮铮流转，琵琶说尽红尘事，三千年来众生相！琵琶，东方文化中渊远流传的乐器，早在秦朝就已经出现。因为清亮的音色和丰富的表现力，逐渐从伴奏乐器，成为独奏，称之为‘金石之声’。<br><br>林海，新世纪音乐家，钢琴才子同时也是创作全才，在琵琶开始流传的3000年后，要以自己的音乐才华，挑战传统，融合现代，彻底颠覆你的琵琶印象。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3266412)<br><br>2011-03-22 11:30<br>赞(1) 踩(0) | <div>一直都很喜欢纯音乐，感觉更能表现出歌曲中的感情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/399492)<br><br>2011-03-09 07:22<br>赞(1) 踩(0) | <div>今天早晨到办公室听的第一首音乐，很提神，本来就精力充沛的我更加精力充沛。和《一个陌生女人的来信》的主题曲《琵琶语》出自同一张专辑，值得一听。你也提神一下吧，早安！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/399492)<br><br>2011-03-09 07:20<br>赞(0) 踩(0) | <div>今天早晨到办公室听的第一首音乐，很提神，本来就精力充沛的我更加精力充沛。和《一个陌生女人的来信》的主题曲《琵琶语》出自同一张专辑，值得一听。你也提神一下吧，早安！</div> |
@@ -2402,7 +2399,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1105140)<br><br>2011-02-04 23:07<br>赞(0) 踩(0) | <div><q><b>吃个烧饼压压惊说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1280771)<br><br>2010-12-29 15:03<br>赞(1) 踩(0) | <div>古曲醉，醉玲珑……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1948315)<br><br>2010-12-29 09:58<br>赞(1) 踩(0) | <div>震憾的节奏</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1280771)<br><br>2010-12-28 20:06<br>赞(0) 踩(0) | <div>不管风雨变幻，不论沧桑巨变，朦胧、蜿蜒的踏古之路，永远镌刻着不灭的侠骨与柔肠……人寰恰似云头月，羞涩阴晴怅独孤。烟雨靡靡多少，淘尽英雄暮。狂沙漫舞，千古尽归尘土。琴声高古，豪气出，飞扬先贤青牍。炼龙泉，御赤兔，宇宙谁堪逐鹿？      恰当年，踏古权当游牧。 红颜终是难驻，寻觅已是迷途。元谋伉俪，蓝田琴瑟，轮回万世天涯渡。叹那岁，相眸芷渚，竟忘却，银河飞瀑。更何怨，饮鸩也当巫山宿。只是景山茫，都是旧时荼苦。狂沙漫舞，千古尽归尘土。琴声高古，豪气出，飞扬先贤青牍。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1280771)<br><br>2010-12-28 20:06<br>赞(0) 踩(0) | <div>不管风雨变幻，不论沧桑巨变，朦胧、蜿蜒的踏古之路，永远镌刻着不灭的侠骨与柔肠……<br><br>人寰恰似云头月，羞涩阴晴怅独孤。烟雨靡靡多少，淘尽英雄暮。狂沙漫舞，千古尽归尘土。琴声高古，豪气出，飞扬先贤青牍。炼龙泉，御赤兔，宇宙谁堪逐鹿？      恰当年，踏古权当游牧。 红颜终是难驻，寻觅已是迷途。元谋伉俪，蓝田琴瑟，轮回万世天涯渡。叹那岁，相眸芷渚，竟忘却，银河飞瀑。更何怨，饮鸩也当巫山宿。只是景山茫，都是旧时荼苦。狂沙漫舞，千古尽归尘土。琴声高古，豪气出，飞扬先贤青牍。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2278738)<br><br>2010-12-27 13:28<br>赞(0) 踩(0) | <div>特别感伤的音乐，美极了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1948510)<br><br>2010-12-16 13:09<br>赞(1) 踩(0) | <div>能听出故事的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2081974)<br><br>2010-12-10 20:19<br>赞(0) 踩(0) | <div>feeling</div> |
@@ -2413,16 +2410,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1463476)<br><br>2010-09-16 21:40<br>赞(1) 踩(0) | <div>前奏和一直若隐若现的鼓乐非常动人，应该就是踏古意韵的基调。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1073340)<br><br>2010-09-04 23:37<br>赞(1) 踩(0) | <div>多了些震撼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421828)<br><br>2010-08-31 23:52<br>赞(1) 踩(0) | <div>反复之下，和琵琶语相比更喜欢这首</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1086031)<br><br>2010-08-26 03:27<br>赞(0) 踩(0) | <div>一把琵琶演绎出的英雄情怀，荡气回肠，着实让人感动……一出场就惊艳四方的震撼！用强烈的非洲鼓点作开场，琵琶的空灵、细腻、温婉配合贵州风情的女声唱腔，具有与天高歌的气势。倾听之间，思绪被带回了那硝烟四起的岁月中，雄风万丈与刻骨柔情游走在战鼓铮铮的年代。英雄的霸王之气、美人的万种风情，以及那隐约的真情在滚滚征程中依稀可见。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1086031)<br><br>2010-08-26 03:27<br>赞(0) 踩(0) | <div>一把琵琶演绎出的英雄情怀，荡气回肠，着实让人感动……一出场就惊艳四方的震撼！用强烈的非洲鼓点作开场，琵琶的空灵、细腻、温婉配合贵州风情的女声唱腔，具有与天高歌的气势。倾听之间，思绪被带回了那硝烟四起的岁月中，<br>雄风万丈与刻骨柔情游走在战鼓铮铮的年代。英雄的霸王之气、美人的万种风情，以及那隐约的真情在滚滚征程中依稀可见。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1080695)<br><br>2010-08-23 23:57<br>赞(0) 踩(0) | <div>白马枯叶总相依。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182065)<br><br>2010-08-20 16:26<br>赞(0) 踩(0) | <div>******</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/573243)<br><br>2010-07-25 18:40<br>赞(0) 踩(0) | <div>回流时光 沧沧茫茫女声幽幽唱 琴声铮铮流转琵琶说尽红尘事 三千年来众生相林海，新世纪音乐家，钢琴才子同时也是创作全才，在琵琶开始流传的3000年后，要以自己的音乐才华，挑战传统，融合现代，颠覆你的琵琶印象。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/573243)<br><br>2010-07-25 18:40<br>赞(0) 踩(0) | <div>回流时光 沧沧茫茫女声幽幽唱 琴声铮铮流转琵琶说尽红尘事 三千年来众生相<br>林海，新世纪音乐家，钢琴才子同时也是创作全才，在琵琶开始流传的3000年后，要以自己的音乐才华，挑战传统，融合现代，颠覆你的琵琶印象。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1141388)<br><br>2010-07-08 11:08<br>赞(0) 踩(0) | <div>又想起了白马 又想起了枯叶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/638224)<br> <br>2010-06-19 13:55<br>赞(0) 踩(0) | <div>伴声吟唱完的时候就是爱情完美谢幕的时候；一路走来，两个人一起弹奏出或婉转幽冥或高亢悠扬的调子，如今曲终人散，不后悔的是曾经绚丽多彩的过程~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/846905)<br><br>2010-05-02 11:31<br>赞(0) 踩(0) | <div>轻拢慢捻抹复挑，古意盎然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/754879)<br><br>2010-03-31 14:35<br>赞(1) 踩(0) | <div>很有古风韵味 听着可以让我的心境平静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219676)<br><br>2010-01-11 18:32<br>赞(1) 踩(0) | <div>适合现代舞基训 琵琶与鼓点的相结合 节奏鲜明</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/616088)<br><br>2010-01-10 14:53<br>赞(0) 踩(0) | <div>熟悉的调子，让人想落泪踏古，是真的入了古尘世，一页页</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211811)<br>我们是我们自己。<br>2009-10-20 22:58<br>赞(0) 踩(0) | <div>落叶踏不碎，四蹄今可知。。。白马白马，你还记得枯叶吗？---------------枯叶之蝶</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2009-10-08 09:17<br>赞(1) 踩(0) | <div>专辑介绍：回流时光 沧沧茫茫女声幽幽唱 琴声铮铮流转琵琶说尽红尘事 三千年来众生相琵琶，东方文化中渊远流传的乐器，早在秦朝就已经出现。因为清亮的音色和丰富的表现力，逐渐从伴奏乐器，成为独奏，称之为‘金石之声’。林海，新世纪音乐家，钢琴才子同时也是创作全才，在琵琶开始流传的3000年后，要以自己的音乐才华，挑战传统，融合现代，颠覆你的琵琶印象。专辑介绍当一个古典音乐迷听到马友友忘情地演奏JAZZ音乐，又或者当流行乐迷听到迈克-鲍顿大唱《今夜无人入睡》时，所得到的震撼往往比&amp;quot;本行音乐家&amp;quot;的演绎更让人记忆深刻。正是这样的尝试，达到了&amp;quot;情理之中，意料之外&amp;quot;的效果。一次偶然的机会，几个朋友相约去了一次江南的周庄水乡。它的民风、情调、人文、风采，让人流连忘返。当坐在水乡茶馆里听评弹时，我有生以来第一次被琵琶的美妙音色打动了。记得从那时起，心里就有了做琵琶音乐的一种冲动。PIANO、GUITAR、BASS、DRUMS、HARMONICA、STRINGS……等西洋乐器，混合笛子、箫、二胡、三弦等中国传统乐器，加上民族唱腔，再佐以蒙古、西藏、非洲等少数民族元素，用世界音乐、古典音乐、JAZZ、FUSION、NEWAGE等作曲、编曲手法，把这 多的东西融合在一起，又不能听上去不伦不类，这无疑是有一定难度的。在一步步、一首首尝试着创作过程中，着实遇到了不少问题与麻烦，有时困惑、彷徨，一连几天没有什？想法；有时多种尝试都不够理想，反而不经意间跟朋友喝喝酒、聊聊天突然来了灵感，几分钟就搞定一切。就这样不知不觉中，把最早的周庄水乡到后来的青藏高原、蒙古草原、非洲部落 江南花月夜……，甚至维也纳教堂的童声合唱都放到一张专辑里。我想，把这些平常看似不可能集合的东西会在一起，也只有在梦里和音乐里能够做到。制作完这张唱片，第一次听成品时，坐在工作室，点上一支烟，我又想起了周庄的那间茶馆，想像着如果再次坐在那里，听这张《琵琶相》，会是什么样的感觉？感谢在整张专辑制作过程中帮助过我的朋友，期待着和朋友们坐在家里，听音乐 品茶、喝酒、聊天，那种感觉真好。林海 北京 2003.5月琵琶手-蒋彦1979年生，山东省济南市人，5岁开始随方锦龙老师、葛羽环老师学习琵琶，1999年考入中央音乐学院，师事李光华教授，在校期间担任了两年中国青年民族管弦乐团琵琶首席，2001年获学校选拔赴日代表中国参加日本国际室内乐比赛，并荣获特别优秀奖。曲目解说1 踏古节奏感很强的非洲鼓作开场，极具新意及震撼力2 琵琶语‘低眉信手续续弹，说尽心中无限事。’周庄水上的琵琶声搭配钢琴，撩拨无尽心上事3 凡人歌挑战传统的精致作品，人声仿鼓、Bass及打击乐，颠覆琵琶印象4 秋月夜乐曲一开始由琵琶独奏，慢慢由箫铺陈秋夜宁静5 对歌蒙古草原上的长调，表现壮阔的边疆风情6 渡，红尘钢琴是水流，琵琶弹奏了红尘事7 欢沁擅长说情的琵琶也可以这样轻巧，绝对令人惊艳的一曲8 暮色弦乐像是暮色一层层，点缀琵琶美得像幅画9 反璞就像童声一般，乐曲中琵琶唱出纯真的音色10 声声思口风琴表现思念的惆怅，琵琶仿曼陀林11 探寻西藏民歌配搭琵琶，有着峰回路转之美12 弄云琵琶高音袅绕，缓缓飘窜白云里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/616088)<br><br>2010-01-10 14:53<br>赞(0) 踩(0) | <div>熟悉的调子，让人想落泪<br>踏古，是真的入了古<br>尘世，一页页</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211811)<br>我们是我们自己。<br>2009-10-20 22:58<br>赞(0) 踩(0) | <div>落叶踏不碎，四蹄今可知。。。<br>白马白马，你还记得枯叶吗？<br>---------------<br>枯叶之蝶</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2009-10-08 09:17<br>赞(1) 踩(0) | <div>专辑介绍：<br><br>回流时光 沧沧茫茫女声幽幽唱 琴声铮铮流转琵琶说尽红尘事 三千年来众生相<br><br>琵琶，东方文化中渊远流传的乐器，早在秦朝就已经出现。因为清亮的音色和丰富的表现力，逐渐从伴奏乐器，成为独奏，称之为‘金石之声’。<br><br>林海，新世纪音乐家，钢琴才子同时也是创作全才，在琵琶开始流传的3000年后，要以自己的音乐才华，挑战传统，融合现代，颠覆你的琵琶印象。<br><br>专辑介绍<br><br>当一个古典音乐迷听到马友友忘情地演奏JAZZ音乐，又或者当流行乐迷听到迈克-鲍顿大唱《今夜无人入睡》时，所得到的震撼往往比&amp;quot;本行音乐家&amp;quot;的演绎更让人记忆深刻。正是这样的尝试，达到了&amp;quot;情理之中，意料之外&amp;quot;的效果。<br><br>一次偶然的机会，几个朋友相约去了一次江南的周庄水乡。它的民风、情调、人文、风采，让人流连忘返。当坐在水乡茶馆里听评弹时，我有生以来第一次被琵琶的美妙音色打动了。记得从那时起，心里就有了做琵琶音乐的一种冲动。<br><br>PIANO、GUITAR、BASS、DRUMS、HARMONICA、STRINGS……等西洋乐器，混合笛子、箫、二胡、三弦等中国传统乐器，加上民族唱腔，再佐以蒙古、西藏、非洲等少数民族元素，用世界音乐、古典音乐、JAZZ、FUSION、NEWAGE等作曲、编曲手法，把这 多的东西融合在一起，又不能听上去不伦不类，这无疑是有一定难度的。在一步步、一首首尝试着创作过程中，着实遇到了不少问题与麻烦，有时困惑、彷徨，一连几天没有什？想法；有时多种尝试都不够理想，反而不经意间跟朋友喝喝酒、聊聊天突然来了灵感，几分钟就搞定一切。<br><br>就这样不知不觉中，把最早的周庄水乡到后来的青藏高原、蒙古草原、非洲部落 江南花月夜……，甚至维也纳教堂的童声合唱都放到一张专辑里。我想，把这些平常看似不可能集合的东西会在一起，也只有在梦里和音乐里能够做到。<br><br>制作完这张唱片，第一次听成品时，坐在工作室，点上一支烟，我又想起了周庄的那间茶馆，想像着如果再次坐在那里，听这张《琵琶相》，会是什么样的感觉？<br><br>感谢在整张专辑制作过程中帮助过我的朋友，期待着和朋友们坐在家里，听音乐 品茶、喝酒、聊天，那种感觉真好。<br><br>林海 北京 2003.5月<br><br>琵琶手-蒋彦<br><br>1979年生，山东省济南市人，5岁开始随方锦龙老师、葛羽环老师学习琵琶，1999年考入中央音乐学院，师事李光华教授，在校期间担任了两年中国青年民族管弦乐团琵琶首席，2001年获学校选拔赴日代表中国参加日本国际室内乐比赛，并荣获特别优秀奖。<br><br>曲目解说<br><br>1 踏古节奏感很强的非洲鼓作开场，极具新意及震撼力<br>2 琵琶语‘低眉信手续续弹，说尽心中无限事。’周庄水上的琵琶声搭配钢琴，撩拨无尽心上事<br>3 凡人歌挑战传统的精致作品，人声仿鼓、Bass及打击乐，颠覆琵琶印象<br>4 秋月夜乐曲一开始由琵琶独奏，慢慢由箫铺陈秋夜宁静<br>5 对歌蒙古草原上的长调，表现壮阔的边疆风情<br>6 渡，红尘钢琴是水流，琵琶弹奏了红尘事<br>7 欢沁擅长说情的琵琶也可以这样轻巧，绝对令人惊艳的一曲<br>8 暮色弦乐像是暮色一层层，点缀琵琶美得像幅画<br>9 反璞就像童声一般，乐曲中琵琶唱出纯真的音色<br>10 声声思口风琴表现思念的惆怅，琵琶仿曼陀林<br>11 探寻西藏民歌配搭琵琶，有着峰回路转之美<br>12 弄云琵琶高音袅绕，缓缓飘窜白云里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44879)<br><br>2009-04-05 00:31<br>赞(1) 踩(0) | <div>喜欢林海的《踏古》，是因为另一首以踏古做配乐的神奇的歌——《枯叶之蝶》……</div> |

@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405348656)<br>闲来抚琴山涧鸣<br>2021-01-20 11:45<br>赞(2) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269474113)<br>安之若素、处之泰然……<br>2020-07-17 07:04<br>赞(1) 踩(0) | <div>浸泡人生的苦难之旅&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351134673)<br>音乐美化生活<br>2019-09-08 14:46<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
@@ -45,5 +42,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3814789)<br><br>2011-05-04 08:43<br>赞(0) 踩(0) | <div>动画原声里没有强调二胡，所以听来格外新鲜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3563479)<br><br>2011-04-16 18:41<br>赞(0) 踩(0) | <div>曲子强调了二胡的部分，云海上的这段旅行更具有空灵的意味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/483331)<br><br>2011-03-24 13:59<br>赞(0) 踩(0) | <div>空灵的哀伤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404127)<br>红魔馆大图书馆中的萝卜<br>2010-04-04 01:55<br>赞(0) 踩(0) | <div>久违的优美的二胡有来了这首歌，有一种悠悠然的悲伤全曲包括了二胡，笛子，和些不知名乐器，让知道的人通告一声</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404127)<br>红魔馆大图书馆中的萝卜<br>2010-04-04 01:55<br>赞(0) 踩(0) | <div>久违的优美的二胡有来了<br>这首歌，有一种悠悠然的悲伤<br>全曲包括了二胡，笛子，和些不知名乐器，让知道的人通告一声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31107)<br><br>2009-01-31 19:24<br>赞(0) 踩(0) | <div>与《转山》神似。</div> |

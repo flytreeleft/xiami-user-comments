@@ -78,8 +78,8 @@ SP：Warner/Chappell Music Taiwan Ltd
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50192184)<br><br>2020-11-02 20:46<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307899268)<br><br>2019-02-28 22:43<br>赞(2) 踩(0) | <div>封面这腿啊！！！！！！可以玩好几年了！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46750891)<br><br>2019-02-03 09:16<br>赞(0) 踩(0) | <div>你不需要告诉他</div> |
@@ -172,7 +172,7 @@ SP：Warner/Chappell Music Taiwan Ltd
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200004267)<br>大都督 泰山王的孤鸿<br>2018-02-04 19:47<br>赞(0) 踩(0) | <div>哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347427679)<br>我还没想好要写什么...<br>2018-02-04 12:10<br>赞(22) 踩(0) | <div>应该说你是电音之女，用自己声音生唱出电音感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8500272)<br><br>2018-02-03 01:52<br>赞(1) 踩(0) | <div>超爱这首！！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344571973)<br>想不出写不来上不去下不鸟...<br>2018-01-31 19:01<br>赞(2) 踩(0) | <div>还是虾米的版权多</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344571973)<br>想不出写不来上不去下不鸟...<br>2018-01-31 19:01<br>赞(2) 踩(0) | <div>还是虾米的版权<br>多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305392185)<br><br>2018-01-22 00:12<br>赞(2) 踩(0) | <div>记得当年新专出来，最喜欢的就是这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279039036)<br><br>2018-01-21 20:16<br>赞(2) 踩(0) | <div>张韶涵，我爱你，是真真切切的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47670243)<br> <br>2018-01-20 14:26<br>赞(1) 踩(0) | <div>原唱没有这个好听</div> |
@@ -237,12 +237,12 @@ SP：Warner/Chappell Music Taiwan Ltd
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3518185)<br>盈盈一水间，墨墨不得语。<br>2012-08-10 19:50<br>赞(1) 踩(0) | <div>这首没有让我失望！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7111787)<br><br>2012-08-07 21:54<br>赞(0) 踩(0) | <div>张韶涵的新歌怎么一股泡菜味……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2753189)<br><br>2012-08-03 16:52<br>赞(0) 踩(0) | <div>准备走日日的路线了么？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8631557)<br><br>2012-07-30 15:52<br>赞(0) 踩(0) | <div>I wont die a copy girl. I was born original 标准是自己定的自信是你的不需要谁指挥我们该怎么快乐 cause i\'m that girl that that girl 感动是自己找的 不是要来的 不需要谁告诉我们怎么才值的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8631557)<br><br>2012-07-30 15:50<br>赞(0) 踩(0) | <div>I wont die a copy girl. I was born original 标准是自己定的自信是你的不需要谁指挥我们该怎么快乐 cause i'm that girl that that girl 感动是自己找的 不是要来的 不需要谁告诉我们怎么才值的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8631557)<br><br>2012-07-30 15:52<br>赞(0) 踩(0) | <div>I wont die a copy girl. I was born original 标准是自己定的自信是你的<br>不需要谁指挥我们该怎么快乐 cause i\'m that girl that that girl 感动是自己找的 不是要来的 不需要谁告诉我们怎么才值的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8631557)<br><br>2012-07-30 15:50<br>赞(0) 踩(0) | <div>I wont die a copy girl. I was born original 标准是自己定的自信是你的<br>不需要谁指挥我们该怎么快乐 cause i'm that girl that that girl 感动是自己找的 不是要来的 不需要谁告诉我们怎么才值的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4984479)<br><br>2012-07-29 18:12<br>赞(0) 踩(0) | <div>等了三年我泪流满面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5460163)<br>咻咻哔。。。<br>2012-07-29 14:54<br>赞(3) 踩(0) | <div>我的angela啊，电成这样真的不适合你啊，或者说这首歌真心不适合你来唱啊。。。。。。啊。。。。。。。。。。。。。。。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4878672)<br><br>2012-07-30 18:33<br>赞(0) 踩(0) | <div>她的声音蛮有辨析度的，我觉得还不错，楼上说你的想法来听听~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1365761)<br><br>2012-07-27 17:07<br>赞(0) 踩(0) | <div>灵魂是我的，不需任何人指挥。自己来决定面对世界的角色。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1365761)<br><br>2012-07-27 17:07<br>赞(0) 踩(0) | <div>灵魂是我的，不需任何人指挥。<br>自己来决定面对世界的角色。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5663722)<br><br>2012-07-27 08:38<br>赞(0) 踩(0) | <div>girl 欢迎回来！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4878672)<br><br>2012-07-26 17:53<br>赞(1) 踩(0) | <div>副歌很碧昂斯的感觉，我爱她~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9965947)<br><br>2012-07-26 13:44<br>赞(1) 踩(0) | <div>超级喜欢结尾~~~</div> |

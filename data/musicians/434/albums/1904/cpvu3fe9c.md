@@ -12,27 +12,24 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37925616)<br><br>2020-02-09 15:59<br>赞(0) 踩(0) | <div>念天地之悠悠，独怆然而涕下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223274661)<br>我还没想好要写什么，也许...<br>2020-01-12 07:22<br>赞(0) 踩(0) | <div>穆月</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322233095)<br><br>2018-09-30 14:22<br>赞(0) 踩(0) | <div>明显带着和风，传统中国古乐风格你们这些所谓古风圈的怕是没听过吧，笑死人了，附庸风雅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129335500)<br>知音畅平<br>2018-07-30 06:15<br>赞(3) 踩(0) | <div>像是中国的音乐，却是个洋名字，狗头羊肉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322757689)<br>这家伙很聪明什么也没留下...<br>2018-07-17 12:51<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348166838)<br><br>2018-07-11 10:21<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266965740)<br><br>2018-06-24 21:30<br>赞(1) 踩(0) | <div>你月下独酌我湖边舞剑相思随夜深相忘于江湖</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10430348)<br>本人比较喜欢创作唐诗。但...<br>2018-06-20 16:23<br>赞(7) 踩(0) | <div>宁月&amp;middot;其一（听后有感，遂作两首词，即兴而作！）明月宁静冷冰霜，孤夜幽深无边际。几盏蜡烛台，万里凄悲凉，黑夜寂莫空虚冷，俯瞰遥望水中月。长袖轻飘舞，清歌悠然唱，形单影只独幽寂，思乡情深望孤月。莫悲思，人不在，回神灯火阑珊处。独泪惆怅处，三千青丝雪，独叹宁月难能圆。宁月&amp;middot;其二胡乐琴声催人泪，凄凉悲歌念故乡。一彈山流水，一拉宁月明。半入清风半入云，半边月月半边天。离人已无语，明月已无声。离别相思人似月，浮云飘渺愁尽头。白雲缠绵天无际，昂首遥望心牵挂。恰似苍茫云海间，岸边一尺沙，弹尽我心宁月明。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266965740)<br><br>2018-06-24 21:30<br>赞(1) 踩(0) | <div>你月下独酌<br>我湖边舞剑<br>相思随夜深<br>相忘于江湖</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10430348)<br>本人比较喜欢创作唐诗。但...<br>2018-06-20 16:23<br>赞(7) 踩(0) | <div>宁月&amp;middot;其一（听后有感，遂作两首词，即兴而作！）<br>明月宁静冷冰霜，孤夜幽深无边际。<br>几盏蜡烛台，万里凄悲凉，黑夜寂莫空虚冷，俯瞰遥望水中月。<br>长袖轻飘舞，清歌悠然唱，形单影只独幽寂，思乡情深望孤月。<br>莫悲思，人不在，回神灯火阑珊处。<br>独泪惆怅处，三千青丝雪，独叹宁月难能圆。<br><br>宁月&amp;middot;其二<br>胡乐琴声催人泪，凄凉悲歌念故乡。<br>一彈山流水，一拉宁月明。半入清风半入云，半边月月半边天。<br>离人已无语，明月已无声。离别相思人似月，浮云飘渺愁尽头。<br>白雲缠绵天无际，昂首遥望心牵挂。<br>恰似苍茫云海间，岸边一尺沙，弹尽我心宁月明。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375061417)<br>我在<br>2018-06-09 07:00<br>赞(1) 踩(0) | <div>我走过千山万水，却难走到你心里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260140902)<br>大道至简<br>2017-12-21 20:24<br>赞(0) 踩(0) | <div>这说明古中国文化对日本影响已深入骨髓。但如果国内出现一个团队能将日本民乐做得很好，这会不会遭到国人的鄙视呢？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11688683)<br><br>2019-01-31 14:22<br>赞(0) 踩(0) | <div>会，而且一堆喷子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6846901)<br><br>2017-10-28 00:17<br>赞(1) 踩(0) | <div>“我好累，要去睡了，你怎么哭了？别哭了，好像我这一睡就不会醒来似的。”手抬到一半，最终还是落下。这样好似电视剧或者小说桥段的结局，居然也真真切切的发生了，有些事原来要发生在自己的记忆中，才会如此残忍。他抓住那双永远不可能再用自己力量抬起的手，擦去自己的眼泪。完成了他最后的动作。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7966572)<br>@Iiiit<br>2017-10-27 23:15<br>赞(1) 踩(0) | <div>“生命就像一片叶子。不能忘记暖春时新叶的惊喜，盛夏时挺立枝头栉风沐雨，然而到了冷秋残冬，随着季节的变更，时间的挪移，注定了一个生命终究要走到尽头。再深的留连也挽不回衰败枯萎，最终不得不泣别枝头，飘落成尘。“</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7966572)<br>@Iiiit<br>2017-10-27 23:15<br>赞(1) 踩(0) | <div>“生命就像一片叶子。<br>不能忘记暖春时新叶的惊喜，<br>盛夏时挺立枝头栉风沐雨，<br>然而到了冷秋残冬，<br>随着季节的变更，<br>时间的挪移，<br>注定了一个生命终究要走到尽头。<br>再深的留连也挽不回衰败枯萎，<br>最终不得不泣别枝头，<br>飘落成尘。“</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11112569)<br>世界和平<br>2017-10-27 22:57<br>赞(1) 踩(0) | <div>最近接了关于宋朝历史题材的片子，想找一些宋朝相关的音乐，循着就听见这首曲子，停下手头工作，点起一支烟，脑海里闪现出那年我们一起努力过的岁月。谢谢你。@Station217社团</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11859810)<br><br>2017-10-06 22:52<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316573443)<br><br>2017-08-01 20:38<br>赞(1) 踩(0) | <div>好听，忧伤&amp;hellip;&amp;hellip;</div> |
@@ -149,4 +146,4 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/900227)<br><br>2010-05-21 13:30<br>赞(0) 踩(0) | <div>silent nice beautiful</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175713)<br><br>2010-03-31 00:11<br>赞(0) 踩(0) | <div>haoting.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7513)<br>我永远都是一头猪！<br>2010-03-30 21:01<br>赞(0) 踩(0) | <div>So Silent, So Soft, So Beautiful</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72936)<br>汝身重生是吾乡<br>2009-11-16 18:26<br>赞(0) 踩(0) | <div>红边 中国大江南北 的 古装剧配乐（当然是盗版的）和平之月 的 二胡经典曲目 但 演奏者 贾鹏芳 是中国人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72936)<br>汝身重生是吾乡<br>2009-11-16 18:26<br>赞(0) 踩(0) | <div>红边 中国大江南北 的 古装剧配乐（当然是盗版的）<br>和平之月 的 二胡经典曲目 但 演奏者 贾鹏芳 是中国人</div> |

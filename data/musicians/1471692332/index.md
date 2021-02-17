@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/54eb1fcec22739ea4bf5456af1b56a76.jpg)<br>钟子炫](https://i.xiami.com/zhongzixuan) | **播放数**: 1751905<br>**粉丝数**: 37<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/54eb1fcec22739ea4bf5456af1b56a76.jpg)<br>钟子炫](https://i.xiami.com/zhongzixuan) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1751905<br>**粉丝数**: 37<br>**评论数**: 6<br> |
 
 ## 档案
 
@@ -31,8 +31,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298560239)<br>音乐是人生的洗涤！<br>2019-03-04 08:00<br>赞(1) 踩(0) | <div>好听支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303441047)<br><br>2018-01-01 11:36<br>赞(1) 踩(0) | <div>獨一無二</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338830153)<br><br>2017-12-06 16:58<br>赞(1) 踩(0) | <div>比原版的好聽</div> |

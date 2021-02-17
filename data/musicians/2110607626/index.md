@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/bb7e7eeae499e8d8b2942bc60c3066f0.jpg)<br>张杰jason](https://i.xiami.com/zxiansen) | **播放数**: 721029<br>**粉丝数**: 32<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 民谣 Folk, 校园民谣 Campus Folk, 国语流行 Mandarin Pop, 民谣流行 Folk Pop<br> |
+| [![](../../images/musicians/bb7e7eeae499e8d8b2942bc60c3066f0.jpg)<br>张杰jason](https://i.xiami.com/zxiansen) | **地区**: China 中国大陆<br>**风格**: 民谣 Folk, 校园民谣 Campus Folk, 国语流行 Mandarin Pop, 民谣流行 Folk Pop<br>**播放数**: 721029<br>**粉丝数**: 32<br>**评论数**: 0<br> |
 
 ## 档案
 
@@ -21,5 +21,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

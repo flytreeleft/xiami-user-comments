@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a4d1599c772bf8a914f16577791f8985.jpg)<br>王雯Wendy](https://i.xiami.com/wangwenwendy) | **播放数**: 1047582<br>**粉丝数**: 8<br>**评论数**: 1<br>**地区**: China 中国大陆<br>**风格**: 民族融合新世纪 Ethnic Fusion New Age, 爵士 Jazz, 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/a4d1599c772bf8a914f16577791f8985.jpg)<br>王雯Wendy](https://i.xiami.com/wangwenwendy) | **地区**: China 中国大陆<br>**风格**: 民族融合新世纪 Ethnic Fusion New Age, 爵士 Jazz, 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 1047582<br>**粉丝数**: 8<br>**评论数**: 1<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -22,6 +19,6 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-11-17 05:25<br>赞(0) 踩(0) | <div>41946</div> |

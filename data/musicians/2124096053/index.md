@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4b8371ac97a63bd6e988d992334dbf7d.jpg)<br>菲道尔](https://i.xiami.com/firdhaus) | **播放数**: 298634<br>**粉丝数**: 83<br>**评论数**: 0<br>**地区**: 马来西亚 Malaysia<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/4b8371ac97a63bd6e988d992334dbf7d.jpg)<br>菲道尔](https://i.xiami.com/firdhaus) | **地区**: 马来西亚 Malaysia<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 298634<br>**粉丝数**: 83<br>**评论数**: 0<br> |
 
 ## 档案
 
@@ -21,5 +21,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

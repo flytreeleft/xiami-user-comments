@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5e19042dd53151aa203a1cd26120e7bd.png)<br>老李民谣-李浩丞](https://i.xiami.com/llmy) | **播放数**: 394374<br>**粉丝数**: 42<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/5e19042dd53151aa203a1cd26120e7bd.png)<br>老李民谣-李浩丞](https://i.xiami.com/llmy) | **地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk<br>**播放数**: 394374<br>**粉丝数**: 42<br>**评论数**: 0<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -23,5 +20,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

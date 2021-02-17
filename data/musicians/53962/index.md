@@ -3,7 +3,7 @@ Kero One
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f6ac1d13613ff340d7101f4b8d83ec37.jpg)<br>Kero One](https://i.xiami.com/keroone) | **播放数**: 5317575<br>**粉丝数**: 6296<br>**评论数**: 224<br>**地区**: United States of America 美国<br>**风格**: 爵士嘻哈 Jazz Hip Hop, 嘻哈 Hip-Hop<br> |
+| [![](../../images/musicians/f6ac1d13613ff340d7101f4b8d83ec37.jpg)<br>Kero One](https://i.xiami.com/keroone) | **地区**: United States of America 美国<br>**风格**: 爵士嘻哈 Jazz Hip Hop, 嘻哈 Hip-Hop<br>**播放数**: 5317575<br>**粉丝数**: 6296<br>**评论数**: 224<br> |
 
 ## 档案
 
@@ -58,8 +58,8 @@ Kero One...一个从小被迫学钢琴,号称初中13岁开始玩DJ,出生在美
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43492923)<br>行到水穷我才开始害怕，夕...<br>2020-04-17 14:29<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349596358)<br>啾啾一口小奶羊<br>2020-04-05 21:07<br>赞(1) 踩(0) | <div>太喜欢这个人的风格了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189921932)<br><br>2020-03-26 17:36<br>赞(0) 踩(0) | <div></div> |
@@ -81,7 +81,7 @@ Kero One...一个从小被迫学钢琴,号称初中13岁开始玩DJ,出生在美
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400715332)<br>留白<br>2019-04-06 20:48<br>赞(0) 踩(0) | <div>有才</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55094882)<br>ｉｄ９１ｏｍｏ＞Ｉ <br>2019-02-27 11:14<br>赞(0) 踩(0) | <div>✨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42936819)<br>网易云搜索恶法lex i...<br>2018-08-16 16:10<br>赞(0) 踩(0) | <div>get</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/648020)<br><br>2018-05-23 17:40<br>赞(0) 踩(0) | <div>我把这位&amp;ldquo;han&amp;rdquo; 跟他混了，曲风虽然不一样.... 这个HAN挺R&amp;amp;B，Kero HAN 偏嘻哈说唱一点吧<a href="https://www.xiami.com/song/bCkEBxo47244?spm=a1z1s.6659509.0.0.s5Ix7s" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/bCkEBxo47244?spm=a1z1s.6659509.0.0.s5Ix7s</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/648020)<br><br>2018-05-23 17:40<br>赞(0) 踩(0) | <div>我把这位&amp;ldquo;han&amp;rdquo; 跟他混了，曲风虽然不一样.... 这个HAN挺R&amp;amp;B，Kero HAN 偏嘻哈说唱一点吧<br><a href="https://www.xiami.com/song/bCkEBxo47244?spm=a1z1s.6659509.0.0.s5Ix7s" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/bCkEBxo47244?spm=a1z1s.6659509.0.0.s5Ix7s</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18567237)<br><br>2018-04-13 14:39<br>赞(0) 踩(0) | <div>好听呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10261121)<br>YOU<br>2018-03-18 15:38<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330907917)<br>每日每时，滴答滴答<br>2018-03-03 01:15<br>赞(0) 踩(0) | <div>:-|</div> |
@@ -121,11 +121,11 @@ Kero One...一个从小被迫学钢琴,号称初中13岁开始玩DJ,出生在美
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51623903)<br> <br>2016-03-24 07:09<br>赞(0) 踩(0) | <div>什么，这叫微胖。。嗯心里得到安慰了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9028760)<br>豆瓣见 spotify ...<br>2016-03-08 13:05<br>赞(0) 踩(0) | <div>☄</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13526500)<br>Comment ça v...<br>2016-03-08 09:03<br>赞(0) 踩(0) | <div>nice</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2016-03-05 11:19<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2016-03-05 11:19<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101322)<br>不怎么听歌了<br>2016-02-02 16:01<br>赞(1) 踩(0) | <div>哟呵 改名啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1385712)<br>whatever……<br>2016-01-30 23:36<br>赞(0) 踩(0) | <div>新砖12月就出了……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1828555)<br>Omnivore<br>2016-01-14 18:07<br>赞(1) 踩(0) | <div>Reflection Eternal</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72429240)<br>↶ ‿ ↶<br>2016-01-12 17:15<br>赞(0) 踩(0) | <div>F ᕕ(ᐛ)ᕗUnderwaterKero Uno ft. Blu</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72429240)<br>↶ ‿ ↶<br>2016-01-12 17:15<br>赞(0) 踩(0) | <div>F ᕕ(ᐛ)ᕗ<br>Underwater<br>Kero Uno ft. Blu</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/589764)<br>The 1st cut ...<br>2015-12-26 01:28<br>赞(2) 踩(0) | <div>改名了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/880455)<br>流血则没有声音。<br>2015-12-22 20:56<br>赞(2) 踩(0) | <div>这简介从哪个山沟里找来的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11253182)<br>我还没想好要写什么...<br>2015-12-15 21:47<br>赞(0) 踩(0) | <div>极好极好极好</div> |
@@ -133,7 +133,7 @@ Kero One...一个从小被迫学钢琴,号称初中13岁开始玩DJ,出生在美
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14163342)<br>dfwm<br>2015-11-15 22:24<br>赞(0) 踩(0) | <div>我喜欢instrumental</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13228266)<br>国破山河在<br>2015-10-24 11:14<br>赞(0) 踩(0) | <div>好笑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4468134)<br>1996~∞<br>2015-10-18 03:21<br>赞(0) 踩(0) | <div>que?</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-09-23 10:14<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-09-23 10:14<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/856551)<br>虾米活下去 用户指责什么...<br>2015-09-21 18:23<br>赞(1) 踩(0) | <div>真是Uno玩多了2333</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40516135)<br>如果不是我，就不要去爱。<br>2015-09-20 12:06<br>赞(1) 踩(0) | <div>被迫学钢琴2333</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1828555)<br>Omnivore<br>2015-09-19 21:31<br>赞(12) 踩(0) | <div>现在改名叫Kero Uno（aka KERO 1），开始做时髦音乐了覀L覀</div> |
@@ -157,7 +157,7 @@ Kero One...一个从小被迫学钢琴,号称初中13岁开始玩DJ,出生在美
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36733390)<br>People insti...<br>2015-04-15 01:21<br>赞(0) 踩(0) | <div>也是胜在flow上了的jazz hiphop歌手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19764323)<br><br>2015-03-22 11:24<br>赞(0) 踩(0) | <div>xihuan</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7361294)<br>24/7<br>2015-03-10 22:14<br>赞(0) 踩(0) | <div>m</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45823964)<br><br>2015-01-19 21:18<br>赞(0) 踩(0) | <div>曲风与冰块先生的很像，还是喜欢冰块多些<a href="http://i.xiami.com/brian?spm=a1z1s.6843761.226669510.10.TIXbBQ&amp;amp;from=search_popup_artist" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/brian?spm=a1z1s.6843761.226669510.10.TIXbBQ&amp;amp;from=search_popup_artist</a>你们可以去听听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45823964)<br><br>2015-01-19 21:18<br>赞(0) 踩(0) | <div>曲风与冰块先生的很像，还是喜欢冰块多些<br><a href="http://i.xiami.com/brian?spm=a1z1s.6843761.226669510.10.TIXbBQ&amp;amp;from=search_popup_artist" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/brian?spm=a1z1s.6843761.226669510.10.TIXbBQ&amp;amp;from=search_popup_artist</a><br>你们可以去听听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33457836)<br> <br>2015-01-06 21:21<br>赞(0) 踩(0) | <div>-</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8582967)<br> <br>2015-01-05 23:31<br>赞(0) 踩(0) | <div>救命全喜欢！！！！！男神嫁我！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18121643)<br><br>2015-01-05 08:55<br>赞(0) 踩(0) | <div>ok</div> |
@@ -182,7 +182,7 @@ Kero One...一个从小被迫学钢琴,号称初中13岁开始玩DJ,出生在美
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9657806)<br>Music Makes ...<br>2014-02-15 13:37<br>赞(1) 踩(0) | <div>you are awesome! Love your songs so much!!! Aamzaing!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18915444)<br>暂无签名~<br>2014-02-14 15:21<br>赞(0) 踩(0) | <div>哟西</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31463623)<br><br>2014-02-01 14:50<br>赞(1) 踩(0) | <div>听软趴趴的还整天装逼 kero one的专辑是越来越水 风格还underground?</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2173196)<br>W w w w w<br>2017-05-24 09:06<br>赞(0) 踩(0) | <div>说的太对了！必须赞一个！我还记得07年刚开始听他歌，觉得这哥们是认真的！过了第2张专辑彻底歇菜了。。全是流行，一听就知道他本人都不咋喜欢。。现在听他歌也就Plug Label和Windmills of the soul</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2173196)<br>W w w w w<br>2017-05-24 09:06<br>赞(0) 踩(0) | <div>说的太对了！必须赞一个！我还记得07年刚开始听他歌，觉得这哥们是认真的！过了第2张专辑彻底歇菜了<br>。。全是流行，一听就知道他本人都不咋喜欢。。现在听他歌也就Plug Label和Windmills of the soul</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/859811)<br>献以至臻  潮乐共享<br>2014-01-22 13:58<br>赞(0) 踩(0) | <div>JAZZY</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11324869)<br>心灵造就美<br>2013-11-30 20:11<br>赞(0) 踩(0) | <div>挺好玩儿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5170986)<br>从小耍流氓，长大风清扬<br>2013-11-25 20:45<br>赞(75) 踩(0) | <div>“这位一脸文艺的微胖界人才，别以为我不知道你那副眼镜是可以用手指穿过去的。”</div> |
@@ -190,7 +190,7 @@ Kero One...一个从小被迫学钢琴,号称初中13岁开始玩DJ,出生在美
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54334842)<br><br>2015-08-24 13:37<br>赞(0) 踩(0) | <div>爵士小丑鱼</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54334842)<br><br>2015-08-24 13:37<br>赞(0) 踩(0) | <div>爵士小丑</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54334842)<br><br>2015-08-24 13:37<br>赞(0) 踩(0) | <div>爵士小丑</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101322)<br>不怎么听歌了<br>2017-10-30 10:18<br>赞(0) 踩(0) | <div>hhahahahhahahahaaaaaaaaaaaaaaaaaaaaaa</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101322)<br>不怎么听歌了<br>2017-10-30 10:18<br>赞(0) 踩(0) | <div>hhahahahhahahahaaaaaaaaaaaaaaa<br>aaaaaaa</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329915557)<br>贝斯手<br>2018-04-07 13:26<br>赞(0) 踩(0) | <div><q><b>冷血老头盔说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9944827)<br><br>2013-11-06 12:00<br>赞(0) 踩(0) | <div>喜欢呗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25188261)<br><br>2013-10-23 17:28<br>赞(0) 踩(0) | <div>就是喜欢</div> |
@@ -238,7 +238,7 @@ Kero One...一个从小被迫学钢琴,号称初中13岁开始玩DJ,出生在美
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10180032)<br>再看我就把你吃掉<br>2012-08-13 16:34<br>赞(0) 踩(0) | <div>有舒服的节奏～～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1639848)<br><br>2012-08-05 19:50<br>赞(0) 踩(0) | <div>Love with nothing to say</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229472)<br> <br>2012-07-14 19:02<br>赞(0) 踩(0) | <div>Just like it, feels good</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4468134)<br>1996~∞<br>2012-07-09 11:57<br>赞(0) 踩(0) | <div>下载Kero One 的最新专辑 Color Theory 下载链接：<a href="http://115.com/file/c25esh8k" target="_blank" rel="nofollow noreferrer noopener">http://115.com/file/c25esh8k</a>大家如果想下的话，抓紧时间！我也正在处理住专辑，有机会一定发布！（怎么发布专辑的啊？）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4468134)<br>1996~∞<br>2012-07-09 11:57<br>赞(0) 踩(0) | <div>下载Kero One 的最新专辑 Color Theory 下载链接：<br><a href="http://115.com/file/c25esh8k" target="_blank" rel="nofollow noreferrer noopener">http://115.com/file/c25esh8k</a><br>大家如果想下的话，抓紧时间！我也正在处理住专辑，有机会一定发布！（怎么发布专辑的啊？）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4468134)<br>1996~∞<br>2012-07-05 05:07<br>赞(1) 踩(0) | <div>喂！新专color theory出啦！没人发吗？！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1486285)<br>玛神马莎<br>2012-07-08 00:16<br>赞(0) 踩(0) | <div>我有几个文件坏了！不发了！呵呵……</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4468134)<br>1996~∞<br>2012-07-08 14:39<br>赞(0) 踩(0) | <div><q><b>玛神马莎说：</b></q></div> |
@@ -273,7 +273,7 @@ Kero One...一个从小被迫学钢琴,号称初中13岁开始玩DJ,出生在美
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4468134)<br>1996~∞<br>2011-07-02 13:51<br>赞(0) 踩(0) | <div>我嚓。。。原来KERO ONE是韩国人，还长得这么宅。。。当初我听他的声音还以为是一个像JAY Z的黑人或者像Eminem一样的白人。。太雷了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4485514)<br>共勉<br>2011-07-15 16:02<br>赞(0) 踩(0) | <div>哈哈 听她口音就不像欧美RAPPER</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/606670)<br>哈！某人！<br>2011-05-08 18:57<br>赞(0) 踩(0) | <div>又翻出来听...</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2118563)<br>因 果<br>2011-05-13 22:52<br>赞(0) 踩(0) | <div>hahahah 真的是叫翻出来听阿 又见面了虽然玩虾米时间不长 但发现确实可以找到好多回忆阿..</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2118563)<br>因 果<br>2011-05-13 22:52<br>赞(0) 踩(0) | <div>hahahah 真的是叫翻出来听阿 又见面了<br>虽然玩虾米时间不长 但发现确实可以找到好多回忆阿..</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/606670)<br>哈！某人！<br>2011-05-14 14:09<br>赞(0) 踩(0) | <div><q><b>Pis.m说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2118563)<br>因 果<br>2011-05-14 15:04<br>赞(0) 踩(0) | <div><q><b>bunny说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/606670)<br>哈！某人！<br>2011-05-14 16:44<br>赞(0) 踩(0) | <div><q><b>Pis.m说：</b></q></div> |

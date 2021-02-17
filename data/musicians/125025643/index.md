@@ -3,7 +3,7 @@ Anton Borin
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9c54c2b36785503a3db755878bb44818.jpg)<br>Anton Borin](https://i.xiami.com/antonborin) | **播放数**: 7852661<br>**粉丝数**: 4403<br>**评论数**: 229<br>**地区**: Sweden 瑞典<br>**风格**: 电子 Electronic<br> |
+| [![](../../images/musicians/9c54c2b36785503a3db755878bb44818.jpg)<br>Anton Borin](https://i.xiami.com/antonborin) | **地区**: Sweden 瑞典<br>**风格**: 电子 Electronic<br>**播放数**: 7852661<br>**粉丝数**: 4403<br>**评论数**: 229<br> |
 
 ## 档案
 
@@ -29,8 +29,8 @@ Swidden - Korea Born / Based in L.A.
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43175196)<br>我还没想好要写什么...<br>2020-10-17 17:25<br>赞(0) 踩(0) | <div>居然来过Arkham？&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353670299)<br>Love  Health...<br>2020-10-07 08:10<br>赞(0) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257812637)<br>想要避世的时候可以躲进歌...<br>2020-05-12 16:33<br>赞(0) 踩(0) | <div>挑不出一首不好听的</div> |
@@ -60,7 +60,7 @@ Swidden - Korea Born / Based in L.A.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50625743)<br>SO ROSÉ SO C...<br>2018-11-15 15:38<br>赞(0) 踩(0) | <div>想找个人一起去看 实在不想每次一个人看到三点多</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6466908)<br>我还没想好要写什么...<br>2018-11-21 15:06<br>赞(0) 踩(0) | <div>一起啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36419251)<br>I'm married ...<br>2018-11-21 20:27<br>赞(0) 踩(0) | <div><q><b>宝塔镇河妖EL说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50702694)<br>后颈滚烫<br>2018-10-31 18:33<br>赞(0) 踩(0) | <div>11.23上海11.24深圳</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50702694)<br>后颈滚烫<br>2018-10-31 18:33<br>赞(0) 踩(0) | <div>11.23上海<br>11.24深圳</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/550852)<br><br>2018-11-22 12:26<br>赞(0) 踩(0) | <div>没有北京吗，哭瞎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71178106)<br>塵世や 酒、風呂を抜け ...<br>2018-10-25 00:07<br>赞(1) 踩(0) | <div>♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2018-10-05 11:23<br>赞(0) 踩(0) | <div>.</div> |

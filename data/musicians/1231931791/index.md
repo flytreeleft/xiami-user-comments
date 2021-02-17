@@ -3,7 +3,7 @@ Toy王奕
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c8b7efa7e94244f21af1c332cb7abe47.jpg)<br>Toy王奕](https://i.xiami.com/toy_wong) | **播放数**: 3779051<br>**粉丝数**: 2635<br>**评论数**: 93<br>**地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap<br> |
+| [![](../../images/musicians/c8b7efa7e94244f21af1c332cb7abe47.jpg)<br>Toy王奕](https://i.xiami.com/toy_wong) | **地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap<br>**播放数**: 3779051<br>**粉丝数**: 2635<br>**评论数**: 93<br> |
 
 ## 档案
 
@@ -67,8 +67,8 @@ LIFE SONG单曲   http://v.youku.com/v_show/id_XNDgwMzY1NTU2.html?from=y1.2-1-94
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315036148)<br>can't stop r...<br>2019-05-30 05:44<br>赞(0) 踩(0) | <div>太甜了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378120315)<br><br>2019-04-06 09:58<br>赞(0) 踩(0) | <div>依旧优秀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272113951)<br><br>2018-10-22 09:00<br>赞(0) 踩(0) | <div>现场也太炸了吧，ayo西安站</div> |

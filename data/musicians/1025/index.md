@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/eaafadb32d2eb12dda9a624fcc5c3478.jpg)<br>熊天平](https://i.xiami.com/tjwhxtp) | **播放数**: 28403251<br>**粉丝数**: 14495<br>**评论数**: 467<br>**地区**: Taiwan, PRC 中国台湾<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/eaafadb32d2eb12dda9a624fcc5c3478.jpg)<br>熊天平](https://i.xiami.com/tjwhxtp) | **地区**: Taiwan, PRC 中国台湾<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 28403251<br>**粉丝数**: 14495<br>**评论数**: 467<br> |
 
 ## 档案
 
@@ -59,8 +59,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-27 11:48<br>赞(0) 踩(0) | <div>19182</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334661429)<br> <br>2020-11-10 00:35<br>赞(1) 踩(0) | <div>我讨厌你老婆。她好俗气</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230803304)<br>三观正又爱国的成都宝藏男...<br>2020-08-24 12:41<br>赞(0) 踩(0) | <div>生日快乐</div> |
@@ -219,7 +219,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7863820)<br><br>2016-10-20 23:43<br>赞(0) 踩(0) | <div><q><b>水样火样说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47577064)<br>杂食耳<br>2017-10-28 00:28<br>赞(0) 踩(0) | <div><q><b>jc说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43312132)<br>。。。<br>2015-03-11 22:11<br>赞(0) 踩(0) | <div>唱的太难听了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2015-02-28 18:58<br>赞(0) 踩(0) | <div>2000年 我都在乎不想爱!!!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2015-02-28 18:58<br>赞(0) 踩(0) | <div>2000年 我都在乎<br><br>不<br>想<br>爱<br>!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45243704)<br><br>2015-02-25 01:23<br>赞(0) 踩(0) | <div>听到他的歌声就想哭、悲伤之至让自己痛心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1032029)<br>我还没想好要写什么...<br>2015-01-14 02:51<br>赞(3) 踩(0) | <div>很多人唱歌比赛都用他的歌因为既好听又难唱。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10983386)<br>瘦子 朝夕奔梦<br>2015-01-11 15:34<br>赞(0) 踩(0) | <div>很有才的人</div> |

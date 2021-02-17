@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c8d80cbc685591f79f7d7277029cd113.jpg)<br>老光](https://i.xiami.com/laoguang) | **播放数**: 1270213<br>**粉丝数**: 61<br>**评论数**: 9<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/c8d80cbc685591f79f7d7277029cd113.jpg)<br>老光](https://i.xiami.com/laoguang) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1270213<br>**粉丝数**: 61<br>**评论数**: 9<br> |
 
 ## 档案
 
@@ -42,11 +42,11 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367743040)<br><br>2019-01-21 14:54<br>赞(2) 踩(0) | <div>黑色心灵鸡汤也可以，现在的是黑莲花抢镜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367743040)<br><br>2019-01-21 14:53<br>赞(1) 踩(0) | <div>加油努力，继续带来甜蜜的快乐的歌曲，小清新</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13413786)<br>加我微信TGSshell...<br>2018-05-15 08:48<br>赞(3) 踩(0) | <div>呃。。。老光？？  这名字。。。。我该怎么说。。。不过声音歌曲还是很错的啦</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13413786)<br>加我微信TGSshell...<br>2018-05-15 08:48<br>赞(3) 踩(0) | <div>呃。。。老光？？  这名字。。。。我该怎么说。。。<br>不过声音歌曲还是很错的啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346486815)<br><br>2018-02-18 22:30<br>赞(1) 踩(0) | <div>现在我在看我爸的手机，我今年3年级，三年级，老光的歌我听起来都很好听，我的妈妈今年40岁，我妈妈32岁生的我，我2017年认识老光</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19044016)<br><br>2017-09-13 22:29<br>赞(1) 踩(0) | <div>老光，么么哒 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png">每次你得音乐都能写出我们的心声 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png">我会永远支持你的，你的每首歌 <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png">都值得我收藏 <img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323406914)<br> <br>2017-09-05 01:14<br>赞(1) 踩(0) | <div>老光，感谢</div> |

@@ -54,10 +54,10 @@ Peggy独有的阶梯式旋律，兼顾流畅乐句、准确音准与缥缈情感
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2020-09-04 22:10<br>赞(1) 踩(0) | <div>回忆是件很累的事情就像失眠时怎么躺都不对的样子 ​</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306180103)<br>當你再搖曳著什麼易碎<br>2020-08-17 07:34<br>赞(0) 踩(0) | <div>我走着悬崖边摇摇欲坠失温的步伐越是想逃离越走进你的目光我只好任由你催眠我继续迷惘被催眠的我再没有意志力可以伪装</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2020-09-04 22:10<br>赞(1) 踩(0) | <div>回忆是件很累的事情<br>就像失眠时<br>怎么躺都不对的样子 ​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306180103)<br>當你再搖曳著什麼易碎<br>2020-08-17 07:34<br>赞(0) 踩(0) | <div>我走着悬崖边摇摇欲坠失温的步伐<br>越是想逃离越走进你的目光<br>我只好任由你催眠我继续迷惘<br>被催眠的我再没有意志力可以伪装</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92686490)<br>蝦米 我愛你<br>2020-03-11 12:50<br>赞(0) 踩(0) | <div>️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1999709)<br>我还没想好要写什么...<br>2020-01-29 06:22<br>赞(1) 踩(0) | <div>好爱扬扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291713500)<br>爱沿着抛物线，离幸福总降...<br>2020-01-14 18:46<br>赞(1) 踩(0) | <div>许哲佩，我还挺期待她上 《我是唱作人》这里节目的。 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
@@ -129,7 +129,7 @@ Peggy独有的阶梯式旋律，兼顾流畅乐句、准确音准与缥缈情感
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40264397)<br> <br>2016-11-12 14:55<br>赞(0) 踩(0) | <div>ପ(꒪ˊ꒳ˋ꒪)ଓ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4771536)<br>I like the v...<br>2016-10-05 00:57<br>赞(2) 踩(0) | <div>感觉让我想起了林宥嘉，什么歌呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46768087)<br> <br>2016-09-20 18:08<br>赞(2) 踩(0) | <div>金海心+许慧欣＋陈绮贞</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5470973)<br>我还没想好要写什么...<br>2016-09-04 13:24<br>赞(3) 踩(0) | <div>分手季一首应景的歌。peggy绝对是华语乐坛被低估的创作人，听过现场，那种纯净的声音，直击心灵。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5470973)<br>我还没想好要写什么...<br>2016-09-04 13:24<br>赞(3) 踩(0) | <div>分手季一首应景的歌。<br><br>peggy绝对是华语乐坛被低估的创作人，听过现场，那种纯净的声音，直击心灵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3723688)<br>一个男人对一个女人最好的...<br>2016-08-27 09:26<br>赞(0) 踩(0) | <div>秋天适合听许哲佩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3708383)<br><br>2016-08-15 01:19<br>赞(1) 踩(0) | <div>＃睡前的白日梦＃ 明知故问何尝不是一种催眠～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204045972)<br><br>2016-07-23 02:39<br>赞(2) 踩(0) | <div>感觉是写给王子的歌呢</div> |
@@ -215,10 +215,10 @@ Peggy独有的阶梯式旋律，兼顾流畅乐句、准确音准与缥缈情感
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39923397)<br> <br>2015-03-03 11:10<br>赞(0) 踩(0) | <div>像梦一般</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2787679)<br>浪费你的青春。<br>2015-02-28 21:21<br>赞(0) 踩(0) | <div>你是什么模样，催眠我所剩下。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38483302)<br>荔枝fm191415<br>2015-02-04 22:40<br>赞(0) 踩(0) | <div>沿途迷雾风景 愿做你的羽翼。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-30 01:37<br>赞(0) 踩(0) | <div>Good..................................!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-25 09:27<br>赞(0) 踩(0) | <div>Good..................................!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-21 00:59<br>赞(0) 踩(0) | <div>Good..................................!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-15 01:04<br>赞(0) 踩(0) | <div>Good..................................!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-30 01:37<br>赞(0) 踩(0) | <div>Good..........................<br>........!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-25 09:27<br>赞(0) 踩(0) | <div>Good..........................<br>........!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-21 00:59<br>赞(0) 踩(0) | <div>Good..........................<br>........!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37222689)<br>stt2<br>2015-01-15 01:04<br>赞(0) 踩(0) | <div>Good..........................<br>........!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2576368)<br>Wake me up i...<br>2015-01-02 15:16<br>赞(0) 踩(0) | <div>想起夏天的寒冷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10135948)<br>⭐️<br>2014-12-25 00:08<br>赞(0) 踩(0) | <div>真好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42159105)<br><br>2014-12-18 23:04<br>赞(0) 踩(0) | <div>…這首是我整張專輯裡最喜歡的</div> |
@@ -226,7 +226,7 @@ Peggy独有的阶梯式旋律，兼顾流畅乐句、准确音准与缥缈情感
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27712184)<br><br>2014-11-29 23:35<br>赞(0) 踩(0) | <div>晚安，所有白天的坏情绪就到此为止吧，做个好梦，相机别再变玩具，旅行的沿路风景也都很好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5113103)<br><br>2014-11-25 11:03<br>赞(0) 踩(0) | <div>许哲佩！太棒了！很有气势</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/518809)<br><br>2014-11-20 22:56<br>赞(0) 踩(0) | <div>继续任你催眠我。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6705873)<br>吐翔而亡 =皿 =<br>2014-09-29 16:56<br>赞(0) 踩(0) | <div>知道不過是自我催眠可是不然呢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6705873)<br>吐翔而亡 =皿 =<br>2014-09-29 16:56<br>赞(0) 踩(0) | <div>知道不過是自我催眠<br>可是<br>不然呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7400849)<br><br>2014-07-07 19:25<br>赞(0) 踩(0) | <div>「蝙蝠眷恋日光 不怕被它灼伤」最近一直在听Peggy的歌，比起声嘶力竭的高音，还是更偏爱这样轻轻柔柔的女声。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7748278)<br>再出发<br>2014-07-03 23:13<br>赞(0) 踩(0) | <div>睡不着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36058223)<br><br>2014-06-26 22:41<br>赞(0) 踩(0) | <div>我被催眠在 你的梦境</div> |

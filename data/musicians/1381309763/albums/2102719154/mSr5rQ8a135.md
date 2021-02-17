@@ -33,5 +33,3 @@ And they all go marching down around
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

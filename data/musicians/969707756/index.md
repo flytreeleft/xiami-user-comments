@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/77bacd8d4219f90088c4b5f2587b5897.jpg)<br>方糖泡泡](https://i.xiami.com/sugarbubble) | **播放数**: 2357625<br>**粉丝数**: 1434<br>**评论数**: 123<br>**地区**: China 中国大陆<br>**风格**: 爵士流行 Jazz Pop, 独立流行 Indie Pop, 巴萨诺瓦 Bossa Nova, 独立民谣 Indie Folk, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/77bacd8d4219f90088c4b5f2587b5897.jpg)<br>方糖泡泡](https://i.xiami.com/sugarbubble) | **地区**: China 中国大陆<br>**风格**: 爵士流行 Jazz Pop, 独立流行 Indie Pop, 巴萨诺瓦 Bossa Nova, 独立民谣 Indie Folk, 国语流行 Mandarin Pop<br>**播放数**: 2357625<br>**粉丝数**: 1434<br>**评论数**: 123<br> |
 
 ## 档案
 
@@ -64,8 +64,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13337996)<br>听<br>2020-12-19 04:18<br>赞(1) 踩(0) | <div>乐队还在吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28703391)<br>(・・?)gun<br>2018-11-18 16:51<br>赞(1) 踩(0) | <div>踩踩 記得回踩</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34307392)<br>虾米音乐有缘再见<br>2020-01-23 23:52<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -188,4 +188,4 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6155331)<br>头像即本人<br>2013-11-07 23:26<br>赞(0) 踩(0) | <div>已经上传咯</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7113538)<br><br>2013-11-09 14:46<br>赞(0) 踩(0) | <div><q><b>方糖泡泡说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6155331)<br>头像即本人<br>2013-11-12 15:37<br>赞(0) 踩(0) | <div><q><b>Bryan说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18615461)<br>是不是月老和孟婆曾是情人<br>2013-08-06 22:07<br>赞(0) 踩(0) | <div>我准备放弃了Sugar Bubble方糖泡泡</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18615461)<br>是不是月老和孟婆曾是情人<br>2013-08-06 22:07<br>赞(0) 踩(0) | <div>我准备放弃了<br><br>Sugar Bubble方糖泡泡</div> |

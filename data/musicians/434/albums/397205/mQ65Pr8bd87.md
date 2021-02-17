@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3406249)<br><br>2018-05-25 09:55<br>赞(0) 踩(0) | <div>卓别林听了，也会露出微笑吧~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8909011)<br>Izumi Sakai<br>2016-07-07 15:56<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2287011)<br>我还没想好要写什么...<br>2015-07-26 09:45<br>赞(0) 踩(0) | <div>nice 这个版本的《smile》</div> |

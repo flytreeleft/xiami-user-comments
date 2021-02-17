@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7322777)<br>∮<br>2014-07-02 18:25<br>赞(0) 踩(0) | <div>....A.....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1356751)<br>我还没想好要写什么...<br>2013-01-30 01:29<br>赞(0) 踩(0) | <div>..</div> |

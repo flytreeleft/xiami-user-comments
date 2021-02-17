@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e5ab8b58e2d6d61b08f70719b260b2f3.jpg)<br>陈皓轩](https://i.xiami.com/alanlchen) | **播放数**: 2120449<br>**粉丝数**: 97<br>**评论数**: 6<br>**地区**: Singapore 新加坡<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/e5ab8b58e2d6d61b08f70719b260b2f3.jpg)<br>陈皓轩](https://i.xiami.com/alanlchen) | **地区**: Singapore 新加坡<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 2120449<br>**粉丝数**: 97<br>**评论数**: 6<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -22,8 +19,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42687859)<br>我还没想好要写什么...<br>2019-11-26 22:41<br>赞(0) 踩(0) | <div>很好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345143663)<br>自己一个人也可以活的精彩...<br>2019-08-21 15:03<br>赞(0) 踩(0) | <div>好听，谢谢你分享～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351421684)<br><br>2018-09-19 01:51<br>赞(1) 踩(0) | <div>好聽！！</div> |

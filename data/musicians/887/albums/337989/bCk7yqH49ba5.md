@@ -79,8 +79,8 @@ Drum：贝贝<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-22 00:37<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274932516)<br><br>2018-04-26 00:43<br>赞(0) 踩(0) | <div>亡蜂，抄袭，有意思吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2882607)<br><br>2017-10-30 10:15<br>赞(0) 踩(0) | <div>高潮副歌部分“有意思吗”简直就是acdc highway to hell的副高高潮嘛...汪老爷又脱帽致敬了。。。</div> |
@@ -121,9 +121,9 @@ Drum：贝贝<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18372988)<br>save me<br>2013-11-06 11:21<br>赞(0) 踩(0) | <div>有意思嗎!!凸!!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18372988)<br>save me<br>2013-11-06 11:16<br>赞(0) 踩(0) | <div>有意思嗎!!!凸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23143556)<br><br>2013-10-26 01:14<br>赞(0) 踩(0) | <div>“聊着网络上的花边新闻，你觉得有意思吗？”...汪峰老湿明儿唱这个吧，挺有意思的*^O^*</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17969149)<br> <br>2013-10-23 11:29<br>赞(1) 踩(0) | <div>感觉汪叔比韩少&amp;quot;杀戮群众&amp;quot;来得更鲜血淋漓啊、 直指脊梁。 简直就是扣着世人和这个世界的灵魂在一遍一遍地抨击、质问。你觉得有意思吗！你觉得有意思嘛！！这就是【你】的世界！！！(中间穿插的那声小孩哭声，简直神来之笔)特么带劲得要爆粗的节奏啊这</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17969149)<br> <br>2013-10-23 11:22<br>赞(0) 踩(0) | <div>感觉汪叔比韩少&amp;quot;杀戮群众&amp;quot;来得更鲜血淋漓啊、   直指脊梁。 简直就是扣着世人和这个世界的灵魂在一遍一遍地抨击、质问。你觉得有意思吗！你觉得有意思嘛！！这就是【你】的世界！！！(中间穿插的那声小孩哭声，简直神来之笔)</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17969149)<br> <br>2013-10-23 11:11<br>赞(0) 踩(0) | <div>感觉汪叔比韩少&amp;quot;杀戮群众&amp;quot;来得更鲜血淋漓啊直指脊梁简直就是扣着世人和这个世界的灵魂在一遍一遍地抨击、质问你觉得有意思吗！你觉得有意思嘛！！这就是【你】的世界！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17969149)<br> <br>2013-10-23 11:29<br>赞(1) 踩(0) | <div>感觉汪叔比韩少&amp;quot;杀戮群众&amp;quot;来得更鲜血淋漓啊、 直指脊梁。 简直就是扣着世人和这个世界的灵魂在一遍一遍地抨击、质问。<br><br>你觉得有意思吗！<br>你觉得有意思嘛！！<br>这就是【你】的世界！！！(中间穿插的那声小孩哭声，简直神来之笔)特么带劲得要爆粗的节奏啊这</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17969149)<br> <br>2013-10-23 11:22<br>赞(0) 踩(0) | <div>感觉汪叔比韩少&amp;quot;杀戮群众&amp;quot;来得更鲜血淋漓啊、   直指脊梁。 简直就是扣着世人和这个世界的灵魂在一遍一遍地抨击、质问。<br><br>你觉得有意思吗！<br>你觉得有意思嘛！！<br>这就是【你】的世界！！！(中间穿插的那声小孩哭声，简直神来之笔)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17969149)<br> <br>2013-10-23 11:11<br>赞(0) 踩(0) | <div>感觉汪叔比韩少&amp;quot;杀戮群众&amp;quot;来得更鲜血淋漓啊<br><br>直指脊梁<br>简直就是扣着世人和这个世界的灵魂在一遍一遍地抨击、质问<br><br>你觉得有意思吗！<br>你觉得有意思嘛！！<br>这就是【你】的世界！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5152767)<br><br>2013-10-12 11:04<br>赞(0) 踩(0) | <div>這樣肆無忌憚的謾罵與侮辱，真的有意思嗎？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1668556)<br><br>2013-10-11 14:39<br>赞(1) 踩(0) | <div>挺愤世嫉俗的一首吐槽歌。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23143556)<br><br>2013-10-08 00:11<br>赞(1) 踩(0) | <div>忽然觉得白老师这两天估计又能整出一首好歌来*^O^*</div> |
@@ -152,14 +152,14 @@ Drum：贝贝<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/893277)<br> <br>2013-01-12 21:42<br>赞(0) 踩(0) | <div>好歌儿！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6969887)<br>我还没想好要写什么...<br>2013-01-11 22:18<br>赞(0) 踩(0) | <div>你觉得有意思嘛！！！！！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3324578)<br><br>2013-01-03 15:13<br>赞(0) 踩(0) | <div>大声问自己一句，你觉得有意思嘛？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199246)<br>无我 无用<br>2012-12-17 22:22<br>赞(0) 踩(0) | <div>有意思有意思嘛没意思挺有意思的。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199246)<br>无我 无用<br>2012-12-17 22:22<br>赞(0) 踩(0) | <div>有意思有意思嘛<br>没意思挺有意思的。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1631414)<br>净忆师<br>2012-12-06 23:39<br>赞(0) 踩(0) | <div>有意思吗！？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2410079)<br><br>2012-11-13 13:59<br>赞(0) 踩(0) | <div>你觉得有意思吗？！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10960561)<br>一轩麻麻<br>2012-10-28 10:35<br>赞(0) 踩(0) | <div>我觉得有意思，O(∩_∩)O~。生活，就是没事找事儿！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2147782)<br>雕塑时光<br>2012-10-12 14:57<br>赞(0) 踩(0) | <div>有意思吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8253030)<br> <br>2012-10-04 23:02<br>赞(0) 踩(0) | <div>话说一半 你觉得有意思么 @行动敏捷的胖纸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9780167)<br><br>2012-09-22 13:07<br>赞(0) 踩(0) | <div>你觉得有意思嘛？汪峰-《有意思吗》</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10219193)<br><br>2012-09-14 23:22<br>赞(0) 踩(0) | <div>《有意思吗》----信仰在空中飘扬  汪峰<a href="http://www.xiami.com/song/1769004675?ref=ac-song" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1769004675?ref=ac-song</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10219193)<br><br>2012-09-14 23:22<br>赞(0) 踩(0) | <div>《有意思吗》----信仰在空中飘扬  汪峰<br><a href="http://www.xiami.com/song/1769004675?ref=ac-song" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1769004675?ref=ac-song</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2185528)<br>只在乎那些在乎我的人儿<br>2012-09-11 14:15<br>赞(0) 踩(0) | <div>么意思～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10249610)<br><br>2012-08-17 12:14<br>赞(0) 踩(0) | <div>阿东，阿宁。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3932189)<br><br>2012-07-10 22:24<br>赞(0) 踩(0) | <div>这就是你想要的生活，你觉得有意思吗？</div> |
@@ -183,13 +183,13 @@ Drum：贝贝<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6005966)<br><br>2011-10-05 11:38<br>赞(0) 踩(0) | <div>主流的符合P民躁动心情的歌曲···有点摇滚精神···有点主流···有点流行···</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/872863)<br>网易云音乐ID:BLUE...<br>2011-06-03 20:58<br>赞(0) 踩(0) | <div>我只是有信仰……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2560784)<br><br>2011-04-13 17:42<br>赞(0) 踩(0) | <div>你觉得有意思么</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75425)<br>喝酒的时候口里含一颗樱桃<br>2011-03-23 15:48<br>赞(0) 踩(0) | <div>高楼越来越多，你觉得有意思吗？天空越来越灰，你觉得有意思吗？聊着网络上的花边新闻，你觉得有意思吗？富人有恃无恐无耻逍遥，你觉得有意思吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75425)<br>喝酒的时候口里含一颗樱桃<br>2011-03-23 15:48<br>赞(0) 踩(0) | <div>高楼越来越多，你觉得有意思吗？天空越来越灰，你觉得有意思吗？<br>聊着网络上的花边新闻，你觉得有意思吗？富人有恃无恐无耻逍遥，你觉得有意思吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2175505)<br>笑你个屎！！！<br>2011-02-06 22:00<br>赞(0) 踩(0) | <div>时间过了很多年， 你觉得有意思吗！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/796626)<br><br>2010-11-19 11:34<br>赞(0) 踩(0) | <div>被娱乐的生活，被娱乐的社会...装逼成了惯用的修辞，什么都是装逼，其实人人都是逼，但不是每个人都装的来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/558689)<br>冰冷的热烈<br>2010-11-13 01:15<br>赞(0) 踩(0) | <div>你觉得有什么吗？似乎缺点什么。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1467395)<br><br>2010-11-10 03:20<br>赞(0) 踩(0) | <div>有意思啊。事事合理，人人装逼才没意思呢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/518467)<br><br>2009-11-20 22:40<br>赞(0) 踩(0) | <div>没意思，真的没意思</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-10-06 14:32<br>赞(0) 踩(0) | <div>到底是什么意思呢呵呵只有我们自己知道每个人的自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-10-06 14:32<br>赞(0) 踩(0) | <div>到底是什么意思呢<br>呵呵<br>只有我们自己知道<br>每个人的自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5218)<br>朴实无华,健康快乐<br>2009-08-17 13:12<br>赞(0) 踩(0) | <div>一点意思都没有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9)<br>不来都得死<br>2009-07-27 11:46<br>赞(1) 踩(0) | <div>这首歌的副歌也太过分了吧，基本上就是Highway to hell的翻版么</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2662685)<br><br>2013-06-25 21:14<br>赞(0) 踩(0) | <div>AC/DC 的那首？</div> |

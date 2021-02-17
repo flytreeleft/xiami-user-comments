@@ -52,8 +52,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21857676)<br>快乐每一天<br>2020-04-01 17:13<br>赞(0) 踩(0) | <div>好听 感动。！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378970676)<br><br>2019-05-25 00:46<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373046326)<br>能量互蹭，声乐共享，欣然...<br>2018-09-29 13:05<br>赞(3) 踩(0) | <div>孤独有时候真的很美丽</div> |
@@ -78,7 +78,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222169633)<br>春暖花开，阳光灿烂！<br>2018-03-02 13:42<br>赞(0) 踩(0) | <div>太好听了，。有机会要去现场，。？，。？！，。？！，。？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22544027)<br><br>2014-10-30 12:14<br>赞(1) 踩(0) | <div>111</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40274358)<br> <br>2014-10-11 01:00<br>赞(2) 踩(0) | <div>14年前，@汪峰 写下这首歌，希望自己长大以后不孤独，之后却发现自己更孤独。14年后的今天，他明白了当初写这首歌的真正原因，每个人都存在着希望自己爱的人或爱自己的人能和自己在一起的那种孤独，这首歌不是在怜悯孤独的人，而是一个孤独者想告诉世界他多么希望有真正的爱与自己在一起。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14369897)<br><br>2014-10-10 10:20<br>赞(2) 踩(0) | <div>哦 别哭 亲爱的人我们要坚强 我们要微笑因为无论我们怎样我们永远是这美丽世界的孤儿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14369897)<br><br>2014-10-10 10:20<br>赞(2) 踩(0) | <div>哦 别哭 亲爱的人<br>我们要坚强 我们要微笑<br>因为无论我们怎样<br>我们永远是这美丽世界<br>的孤儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42076695)<br>2015.1.08.这年...<br>2014-10-05 16:03<br>赞(2) 踩(0) | <div>wu</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5481243)<br>偏执狂值得拥有最好的一切<br>2014-09-27 13:50<br>赞(2) 踩(0) | <div>全场合唱的那段high爆了...大爱这个版本！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17920892)<br><br>2014-09-14 19:21<br>赞(2) 踩(0) | <div>听了几版，发现汪峰的唱法也在不断的改变诶</div> |

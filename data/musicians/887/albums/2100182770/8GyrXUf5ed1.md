@@ -70,8 +70,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261888656)<br>虽止步立锥之地，却已神游...<br>2019-03-03 01:02<br>赞(0) 踩(0) | <div>离去的她不再是水仙，更像是一颗仙人掌，你每碰一次，自己就受伤一次，纵使你愿一直做一方沃土，奈何她只要干涸的沙漠。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349408847)<br>领悟<br>2018-12-08 23:39<br>赞(0) 踩(0) | <div>对不起，我累了。失望攒够了，我也要离开了你说你和他只是关系好的朋友，而我已经无数次看到你和他走在一起有说有笑了。即使如你所言，我也忍受不了了，而且身边的人都说你和他已经在一起好久了，那么我继续的坚持也没有必要了，祝你幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-21 23:49<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
@@ -129,14 +129,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48314817)<br><br>2015-11-02 07:40<br>赞(1) 踩(0) | <div>谢谢，还能怎样呢，谢谢你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21483145)<br>暂无签名~<br>2015-11-01 23:27<br>赞(2) 踩(0) | <div>没有人听出来副歌和 无处安放 很像吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340491332)<br><br>2018-03-22 15:53<br>赞(0) 踩(0) | <div>两首歌都不错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8659976)<br>我还没想好要写什么...<br>2015-11-01 16:52<br>赞(1) 踩(0) | <div>时光真甜蜜但一切都已太晚我不再等你找你满脑都是你可当我在街角的杂货店看到你不自觉地泪水却依然夺眶而出歌词真好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8659976)<br>我还没想好要写什么...<br>2015-11-01 16:52<br>赞(1) 踩(0) | <div>时光真甜蜜但一切都已太晚<br>我不再等你找你满脑都是你<br>可当我在街角的杂货店看到你<br>不自觉地泪水却依然夺眶而出<br>歌词真好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45155565)<br><br>2015-11-01 12:54<br>赞(0) 踩(0) | <div>下雨还能看见星星？？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77377090)<br><br>2015-11-14 01:21<br>赞(0) 踩(0) | <div>很显然这里的星星是比喻，比喻雨滴。说到底还是现在文化跟不上，大部分人都只配听口水歌，再深层次的作品注定少部分人问津。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340491332)<br><br>2018-03-22 15:54<br>赞(0) 踩(0) | <div><q><b>Shining说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27398145)<br>时光，<br>2015-11-01 11:35<br>赞(0) 踩(0) | <div>999999999999999</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58782232)<br>人生就像一场电影，<br>2015-10-31 22:13<br>赞(0) 踩(0) | <div>新歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49643454)<br>热爱音乐的美术学男男男男...<br>2015-10-31 18:27<br>赞(0) 踩(0) | <div>不错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-10-31 16:11<br>赞(0) 踩(0) | <div>汪峰的慢歌<img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png">真的好赞啊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-10-31 16:11<br>赞(0) 踩(0) | <div>汪峰的慢歌<br><img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png">真的好赞啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/988456)<br><br>2015-10-31 15:50<br>赞(0) 踩(0) | <div>无意在电台里听到，原来是首新歌，不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16917254)<br>我只是一个爱写歌词的东西<br>2015-10-31 14:22<br>赞(0) 踩(0) | <div>新专辑里最爱的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46740386)<br><br>2015-10-31 09:10<br>赞(0) 踩(0) | <div>★★★★★，泪水又一次的夺眶而出，谢谢你@汪峰 那些伤痛让我懂得了存在的意义！</div> |
@@ -147,8 +147,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46740386)<br><br>2015-10-31 09:05<br>赞(0) 踩(0) | <div>★★★★★，有故事的人，娓娓道来的诉说，一遍一遍听，内心深处的温热伴随着热泪，就这么一直单曲循环中...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46740386)<br><br>2015-10-31 09:04<br>赞(0) 踩(0) | <div>★★★★★，很有故事的歌曲，汪峰老师每一首歌都是振奋人心的，励志的，帮助人走出迷茫的困境的。。汪峰老师就是导师，人生的导师，每一次给学员的点评都是一个人生哲理。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46740386)<br><br>2015-10-31 09:04<br>赞(0) 踩(0) | <div>★★★★★，谢谢，现在我只想说谢谢你！所有的沧桑貌似都已成为过去，谢谢那些曾经诋毁，伤害，糟践，鄙视，唾弃过我的人，更要谢谢那些鼓励，安慰，支持，陪伴，爱护，甚至现在依然对我不离不弃的亲人和朋友。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46740386)<br><br>2015-10-31 08:40<br>赞(0) 踩(0) | <div>在汪峰写的音符故事里，那个失意者却诚恳地一再感谢自己的失去和疼痛。写出那些充满感激的回忆，连伤心都有一种刻骨的美好。难道这不是浪漫么？#汪峰2015新专辑# #这些年都在听老汪#</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46740386)<br><br>2015-10-31 08:37<br>赞(1) 踩(0) | <div>可在汪峰写的音符故事里，那个失意者却诚恳地一再感谢自己的失去和疼痛。写出那些充满感激的回忆，连伤心都有一种刻骨的美好。难道这不是浪漫么？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46740386)<br><br>2015-10-31 08:40<br>赞(0) 踩(0) | <div>在汪峰写的音符故事里，那个失意者却诚恳地一再感谢自己的失去和疼痛。写出那些充满感激的回忆，连伤心都有一种刻骨的美好。<br>难道这不是浪漫么？#汪峰2015新专辑# #这些年都在听老汪#</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46740386)<br><br>2015-10-31 08:37<br>赞(1) 踩(0) | <div>可在汪峰写的音符故事里，那个失意者却诚恳地一再感谢自己的失去和疼痛。写出那些充满感激的回忆，连伤心都有一种刻骨的美好。<br>难道这不是浪漫么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54233961)<br><br>2015-10-30 21:42<br>赞(0) 踩(0) | <div>汪叔的歌偶尔听听，还是更喜欢健哥的细腻温暖。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36956961)<br><br>2015-10-30 12:16<br>赞(2) 踩(0) | <div>汪峰的歌还是不错的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3335575)<br>何不把悲哀感觉，假设是来...<br>2015-10-27 21:54<br>赞(1) 踩(0) | <div>这个好</div> |
@@ -241,7 +241,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57767612)<br><br>2015-10-10 21:03<br>赞(0) 踩(0) | <div>写给子怡的吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41435423)<br> <br>2015-10-10 20:59<br>赞(1) 踩(0) | <div>谢谢汪峰给我们带来好听的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5394303)<br>时间是个好东西<br>2015-10-10 20:10<br>赞(1) 踩(0) | <div>爱一个人不会有恨，就算分开 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2042656)<br>憧憬有度，当下有方。<br>2015-10-10 20:07<br>赞(1) 踩(0) | <div>其实那一刻我真没有恨得感觉，只是突然觉得孤独的想要死去。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2042656)<br>憧憬有度，当下有方。<br>2015-10-10 20:07<br>赞(1) 踩(0) | <div>其实那一刻我真没有恨得感觉，<br>只是突然觉得孤独的想要死去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49806917)<br>make a diffe...<br>2015-10-10 19:06<br>赞(2) 踩(0) | <div>好听，喜欢～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46238333)<br>思想比吉他SOLO更重要<br>2015-10-10 18:58<br>赞(2) 踩(0) | <div>很棒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29668360)<br>音乐是人生的一部分。<br>2015-10-10 18:34<br>赞(3) 踩(0) | <div>每个单曲都很棒，整个华语歌坛都快姓汪了。</div> |

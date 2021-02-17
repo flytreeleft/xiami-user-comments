@@ -12,12 +12,9 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35776192)<br>お休み<br>2018-12-31 18:16<br>赞(0) 踩(0) | <div>推荐一下李娟的《阿勒泰的角落》<a href="https://item.m.jd.com/product/11298159.html?utm_source=androidapp&amp;utm_medium=appshare&amp;utm_campaign=t_335139774&amp;utm_term=CopyURL" target="_blank" rel="nofollow noreferrer noopener">https://item.m.jd.com/product/11298159.html?utm_source=androidapp&amp;utm_medium=appshare&amp;utm_campaign=t_335139774&amp;utm_term=CopyURL</a></div> |

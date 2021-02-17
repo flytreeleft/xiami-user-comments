@@ -49,12 +49,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282829573)<br>我还没想好要写什么...<br>2021-02-03 02:51<br>赞(0) 踩(0) | <div>再见虾米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51552856)<br>渴望蓝天！！<br>2020-11-06 19:41<br>赞(0) 踩(0) | <div>听得人头皮发麻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41223427)<br>聆听人性与人类文明<br>2020-10-12 16:45<br>赞(2) 踩(0) | <div>能量，一股强大的能量从古穿越而来......</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345748010)<br>自然<br>2020-09-26 01:19<br>赞(28) 踩(0) | <div>世人皆自欺奈之何自欺还就罢了有甚者竟敢欺天到头虚幻一场留下残念&amp;hellip;&amp;hellip;从头转</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345748010)<br>自然<br>2020-09-26 01:19<br>赞(28) 踩(0) | <div>世人皆自欺<br>奈之何<br><br>自欺还就罢了<br>有甚者竟敢欺天<br>到头虚幻一场留下残念<br>&amp;hellip;&amp;hellip;<br>从头转</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379182239)<br><br>2020-10-16 08:04<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356157971)<br>学会珍惜<br>2020-10-22 21:55<br>赞(0) 踩(0) | <div>自欺就罢了 不要欺骗别人（感情、金钱）</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446136476)<br><br>2020-11-25 13:41<br>赞(0) 踩(0) | <div>******</div> |
@@ -71,7 +71,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14825527)<br>喜欢你时的内心活动<br>2020-06-12 21:03<br>赞(1) 踩(0) | <div>打卡！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298957142)<br><br>2020-06-10 22:52<br>赞(2) 踩(0) | <div>天下乌鸦一般黑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346214889)<br>心若没有栖息的地方，在哪...<br>2020-06-07 23:09<br>赞(1) 踩(0) | <div>完美的结合，听起来非常舒服</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/765254)<br>回首向来萧瑟处，归去，也...<br>2020-05-28 05:51<br>赞(7) 踩(0) | <div>向《至道学宫》致敬！心里明了何来迷雾！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/765254)<br>回首向来萧瑟处，归去，也...<br>2020-05-28 05:51<br>赞(7) 踩(0) | <div>向《至道学宫》致敬！<br>心里明了何来迷雾！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/765254)<br>回首向来萧瑟处，归去，也...<br>2020-05-17 22:06<br>赞(7) 踩(0) | <div>泣血蝇虫笑苍天。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200809645)<br><br>2020-05-03 19:19<br>赞(11) 踩(0) | <div>像是冥冥中的注定，小时候看过好几遍电视剧，这首词和这旋律早就记在了脑子里，尤其喜欢&amp;ldquo;泣血蝇虫笑苍天&amp;rdquo;这句，高考前后桌同学问要报啥，开玩笑随口说法医，填报志愿时提前批栏不想空着，查了看我们当地法医专业是提前批而且很适合，结果被录取，现在即将毕业，能成为一名法医成了我的现阶段目标，冥冥之中我觉得我会一直走下去。冤魂嗟叹，蝇虫笑苍天，不能忘&amp;ldquo;人命大如天&amp;rdquo;，依然有人在坚守 为生者权，为死者言。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311675001)<br><br>2020-04-29 19:43<br>赞(1) 踩(0) | <div>大宋提刑官片尾曲，小时候第一次听就喜欢了 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -99,7 +99,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45161931)<br><br>2019-11-16 14:53<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112924076)<br><br>2019-11-12 19:47<br>赞(0) 踩(0) | <div>当时听了这首歌就想高考报法医专业，后来却成为会计</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135856398)<br><br>2019-11-12 03:58<br>赞(2) 踩(0) | <div>深夜听来，感慨颇多。凭一人，就以为可以澄清玉宇？是啊，一人之力不可，但也不要忽视这一人之力，他是种子，在所有人心里种下正义。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60438194)<br>我还没想好要写什么...<br>2019-10-22 06:51<br>赞(3) 踩(0) | <div>千古悠悠，有多少冤魂嗟叹。空怅惘，人寰无限！丛生哀怨。泣血蝇虫笑苍天，孤帆叠影锁白练。残月升，骤起冽冽风，尽吹散！滂沱雨，无底涧。涉激流，登彼岸。奋力拨云间，消得雾患。社稷安抚臣子心，长驱鬼魅不休战。看斜阳，照大地阡陌 ，从头转。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60438194)<br>我还没想好要写什么...<br>2019-10-22 06:51<br>赞(3) 踩(0) | <div>千古悠悠，有多少冤魂嗟叹。空怅惘，人寰无限！丛生哀怨。泣血蝇虫笑苍天，孤帆叠影锁白练。残月升，骤起冽冽风，尽吹散！<br><br>滂沱雨，无底涧。涉激流，登彼岸。奋力拨云间，消得雾患。社稷安抚臣子心，长驱鬼魅不休战。看斜阳，照大地阡陌 ，从头转。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423245949)<br><br>2019-09-18 11:58<br>赞(0) 踩(0) | <div>艾玛……吓一跳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332617792)<br>三千大千世界，是一不是二...<br>2019-09-04 08:07<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402583798)<br><br>2019-08-26 09:27<br>赞(11) 踩(0) | <div>二十年前，受此剧激励，考上了法医研究，却因囊中羞涩，走上了行医的道路，今听此曲，感慨万千。</div> |
@@ -151,7 +151,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256757055)<br> 音乐是比一切智慧，一切...<br>2018-11-10 14:27<br>赞(22) 踩(0) | <div>宋慈一世奔波，明断是非罪案，最后却辞官还乡，再不回返，他洗得尽世间的冤屈，却洗不尽人心阴暗，这部剧背景音乐一起就不自觉内心一种沉重。济世雪冤，任重道远，从始至终都有种使命感。借古讽今 ，标杆之作。剧情 ，台词，音乐，服装。是很不错，喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85008772)<br><br>2018-11-06 08:08<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85008772)<br><br>2018-11-05 21:42<br>赞(2) 踩(0) | <div>太牛掰了，想去再看一遍电视剧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371812310)<br><br>2018-10-26 10:04<br>赞(3) 踩(0) | <div>任何一个朝代的灭亡都是由于这个朝代的统治者亦或是当权者自己把自己玩死的，老百姓还是老百姓，只是老百姓对他们不报希望了...就如同一栋房子，立柱横梁都错位了，住在里面的人并没有看到，只知道贪图安逸，争权夺利，每一次的动荡就会使房子变得岌岌可危，但是这些他们都不知道，也不关心。刚开始时，房子外面的人会有一部分人扶持这房子，也会有一部分挖墙角的，最后还有一大部分看戏的。人们对地球的无限索取，在地上建高楼，在地面挖地洞，抽取地下深处的水和油，挖地底深处的煤炭和矿石，地球对人们做什么反抗了吗？没有，不还是如同母亲一样看着自己的熊孩子一样吗？感触良多，就先表这些吧...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371812310)<br><br>2018-10-26 10:04<br>赞(3) 踩(0) | <div>任何一个朝代的灭亡都是由于这个朝代的统治者亦或是当权者自己把自己玩死的，老百姓还是老百姓，只是老百姓对他们不报希望了...<br>就如同一栋房子，立柱横梁都错位了，住在里面的人并没有看到，只知道贪图安逸，争权夺利，每一次的动荡就会使房子变得岌岌可危，但是这些他们都不知道，也不关心。刚开始时，房子外面的人会有一部分人扶持这房子，也会有一部分挖墙角的，最后还有一大部分看戏的。<br>人们对地球的无限索取，在地上建高楼，在地面挖地洞，抽取地下深处的水和油，挖地底深处的煤炭和矿石，地球对人们做什么反抗了吗？没有，不还是如同母亲一样看着自己的熊孩子一样吗？<br>感触良多，就先表这些吧...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295651157)<br><br>2018-10-22 19:59<br>赞(1) 踩(0) | <div>明明知道说的不是他俩，但一听还是不由自主的想起了岳飞&amp;还有范仲淹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375010178)<br><br>2018-10-20 03:46<br>赞(0) 踩(0) | <div>宋慈是法医学家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406069243)<br><br>2018-10-14 20:16<br>赞(0) 踩(0) | <div>好感动</div> |
@@ -166,9 +166,9 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260569690)<br><br>2018-08-31 18:02<br>赞(0) 踩(0) | <div>劝人学医，天打雷劈，劝人学法，千刀万剐</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255539683)<br><br>2018-09-10 18:18<br>赞(0) 踩(0) | <div>你恐吓谁啊！咋说这种话呢。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255539683)<br><br>2018-09-10 18:19<br>赞(0) 踩(0) | <div>我说的是猫头像的那位</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10430348)<br>本人比较喜欢创作唐诗。但...<br>2018-08-20 14:58<br>赞(87) 踩(0) | <div>满江红（根据歌词整理一首词，有几句是我自己写的。）千古悠悠，有多少、冤魂嗟叹。空怅望，人寰无限，丛生哀怨。泣血蝇虫笑苍天，孤帆叠影锁白链。残月升，骤起烈烈风，尽吹散。滂沱雨，无底涧。世道浑浊难清朗。涉激流，登彼岸。沉冤昭雪终腐朽。奋力拨云间，消得雾患，岂敢失初心。社稷安抚臣子心，长驱鬼魅不休战。看斜阳，照大地阡陌，从头转。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10430348)<br>本人比较喜欢创作唐诗。但...<br>2018-08-20 14:58<br>赞(87) 踩(0) | <div>满江红（根据歌词整理一首词，有几句是我自己写的。）<br>千古悠悠，有多少、冤魂嗟叹。<br>空怅望，人寰无限，丛生哀怨。<br>泣血蝇虫笑苍天，孤帆叠影锁白链。<br>残月升，骤起烈烈风，尽吹散。<br>滂沱雨，无底涧。世道浑浊难清朗。<br>涉激流，登彼岸。沉冤昭雪终腐朽。<br>奋力拨云间，消得雾患，岂敢失初心。<br>社稷安抚臣子心，长驱鬼魅不休战。<br>看斜阳，照大地阡陌，从头转。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312766882)<br>自惜身薄祜，夙贱怀孤苦....<br>2018-08-31 17:20<br>赞(0) 踩(0) | <div>千古悠悠有多少 冤魂嗟叹空怅望 人寰无限丛生哀怨泣血蝇虫笑苍天孤帆叠影锁白链残月升 骤起烈烈风尽吹散尽吹散　尽吹散滂沱雨 无底涧涉激流 登彼岸奋力拨云间 消得雾患社稷安抚臣子心长驱鬼魅不休战看斜阳 照大地阡陌从头转泣血蝇虫笑苍天孤帆叠影锁白链残月升 骤起烈烈风社稷安抚臣子心长驱鬼魅不休战看斜阳 照大地阡陌从头转从头转</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10430348)<br>本人比较喜欢创作唐诗。但...<br>2018-08-31 19:29<br>赞(0) 踩(0) | <div>满江红&amp;middot;狂风沙（今日我才知道，词牌是有格式和规定字数的，随便加几句不可以的。)千古悠悠，有多少、冤魂嗟叹。空怅望，人寰无限，丛生哀怨。泣血蝇虫笑苍天，孤帆叠影锁白链。残月升，骤起烈烈风，尽吹散。滂沱雨，无底涧；涉激流，登彼岸。奋力拨云间，消得雾患，岂敢失初心。社稷安抚臣子心，长驱鬼魅不休战。看斜阳，照大地阡陌，从头转。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10430348)<br>本人比较喜欢创作唐诗。但...<br>2018-08-31 19:29<br>赞(0) 踩(0) | <div>满江红&amp;middot;狂风沙<br>（今日我才知道，词牌是有格式和规定字数的，随便加几句不可以的。)<br>千古悠悠，有多少、冤魂嗟叹。<br>空怅望，人寰无限，丛生哀怨。<br>泣血蝇虫笑苍天，孤帆叠影锁白链。<br>残月升，骤起烈烈风，尽吹散。<br>滂沱雨，无底涧；涉激流，登彼岸。<br>奋力拨云间，消得雾患，岂敢失初心。<br>社稷安抚臣子心，长驱鬼魅不休战。<br>看斜阳，照大地阡陌，从头转。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10430348)<br>本人比较喜欢创作唐诗。但...<br>2018-08-31 19:32<br>赞(0) 踩(0) | <div><q><b>龍之心说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10430348)<br>本人比较喜欢创作唐诗。但...<br>2018-08-31 19:32<br>赞(0) 踩(0) | <div><q><b>青青子衿说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225004201)<br><br>2018-09-18 20:41<br>赞(0) 踩(0) | <div>明明是一首好词，你非得多加几句。满江红是词牌，格式字数都有限定。多了解一下。</div> |
@@ -196,10 +196,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27217092)<br><br>2018-07-03 14:05<br>赞(2) 踩(0) | <div>哪个时代都需要浩然正气，奈何世风日下，但是如此之人才能被后世所铭记。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345680276)<br><br>2018-07-02 18:06<br>赞(1) 踩(0) | <div>大气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376485136)<br>来首BGM怎么样？<br>2018-06-30 23:09<br>赞(1) 踩(0) | <div>刁光斗</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:22<br>赞(0) 踩(0) | <div>。。。世道人心罢了。不可点破。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:22<br>赞(0) 踩(0) | <div>。。。<br><br>世道人心罢了。<br><br>不可点破。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343805346)<br><br>2018-06-29 16:37<br>赞(0) 踩(0) | <div>正在补，十几年前曾看过，但依然是，越看越经典</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345680276)<br><br>2018-07-02 18:00<br>赞(0) 踩(0) | <div>同感</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177286120)<br>肛肠好棒好棒的。<br>2018-06-26 20:06<br>赞(0) 踩(0) | <div>&amp;ldquo;那么，彼时彼刻&amp;hellip;&amp;hellip;&amp;rdquo;&amp;ldquo;恰如此时此刻。&amp;rdquo;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177286120)<br>肛肠好棒好棒的。<br>2018-06-26 20:06<br>赞(0) 踩(0) | <div>&amp;ldquo;那么，彼时彼刻&amp;hellip;&amp;hellip;&amp;rdquo;<br>&amp;ldquo;恰如此时此刻。&amp;rdquo;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332582168)<br><br>2018-06-21 18:47<br>赞(5) 踩(0) | <div>最爱那朗诵！无法形容的感觉，声音中蕴含的力量真是太震撼！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329361622)<br><br>2018-06-18 22:29<br>赞(4) 踩(0) | <div>这曲子没了吟诵就失了骨架</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345680276)<br><br>2018-06-17 17:03<br>赞(1) 踩(0) | <div>无论哪个朝代，都需要有浩然正气</div> |
@@ -219,7 +219,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326972326)<br><br>2018-05-17 22:54<br>赞(4) 踩(0) | <div>最令我振奋的就是开头的朗诵，为了比赛找感觉，我一路上单曲循环，从单位到家。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332944468)<br>横眉冷对千夫指，俯首甘为...<br>2018-05-12 01:53<br>赞(2) 踩(0) | <div>这才叫音乐 感染人心 而歌曲只是听歌旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276426320)<br><br>2018-05-11 13:51<br>赞(0) 踩(0) | <div>希望你不要 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">忘记初心。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:24<br>赞(0) 踩(0) | <div>。。。！</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:24<br>赞(0) 踩(0) | <div>。。。<br>！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266587216)<br>人生路上有太多的苦难，只...<br>2018-05-08 18:55<br>赞(1) 踩(0) | <div>刚从电视剧移步过来，就为了看评论</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45949850)<br>๑乛◡乛๑<br>2018-05-06 20:45<br>赞(0) 踩(0) | <div>这曲子作的也是绝了m(_ _)m</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10385048)<br><br>2018-05-06 00:37<br>赞(2) 踩(0) | <div>印象太深刻了，第一秒墨汁入水的画面。。。。</div> |
@@ -273,7 +273,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12221090)<br>逍遥于天地而心意自得<br>2018-03-02 22:19<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315492278)<br><br>2018-03-02 19:04<br>赞(3) 踩(0) | <div>浩然正气难清世间混沌，但求对得起社稷黎民。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346205735)<br><br>2018-02-28 17:16<br>赞(1) 踩(0) | <div>以前看电视，觉得电视里背景音乐恐怖。不过歌曲很恢宏。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92068596)<br>我还没想好要写什么...<br>2018-02-27 18:49<br>赞(6) 踩(0) | <div>很多时候单只是电视或是音乐都不能让人入眠、入梦、入迷。刚好是二者的结合与相互成全。第一次完完整整地看完，音乐响起的时候，弥补了没有片头片尾的缺。依旧会有遗憾和磅礴之声在耳边回荡，古人亦是故人在眼前久久不肯离去。可惜，此刻的我填不出豪词，端不出美酒。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92068596)<br>我还没想好要写什么...<br>2018-02-27 18:49<br>赞(6) 踩(0) | <div>很多时候单只是电视或是音乐都不能让人入眠、入梦、入迷。刚好是二者的结合与相互成全。<br>第一次完完整整地看完，音乐响起的时候，弥补了没有片头片尾的缺。依旧会有遗憾和磅礴之声在耳边回荡，古人亦是故人在眼前久久不肯离去。可惜，此刻的我填不出豪词，端不出美酒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227542964)<br>无<br>2018-02-20 21:53<br>赞(9) 踩(0) | <div>浩然正气&amp;mdash;&amp;mdash;第一次听的时候 终于体会到了那满江红的味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93226488)<br><br>2018-02-20 08:18<br>赞(0) 踩(0) | <div>最喜欢看的电视剧之一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233113502)<br> <br>2018-02-20 00:20<br>赞(0) 踩(0) | <div>听听</div> |
@@ -294,7 +294,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296771550)<br>慢性喉炎。<br>2018-01-07 11:09<br>赞(8) 踩(0) | <div>小时候听着有多害怕，现在听着就有多哀痛。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75457718)<br>我继续，你要随意<br>2017-12-31 08:21<br>赞(35) 踩(0) | <div>看完剧每每到片尾听朗诵听到浑身颤栗，小时候虽然不谙世事却总能感到从心底涌出的共鸣，大概这就是好剧好乐的魅力吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262903584)<br><br>2017-12-29 10:13<br>赞(61) 踩(0) | <div>在官场上没有圣人，我吴某不是圣人，你宋慈也绝非圣人，就凭你那点验死验伤的雕虫小技，就能澄清玉宇，平定天下冤狱？简直是痴人说梦！不要说你一个宋慈，就算十个八个宋慈，也休想把这浑浊的世道变得天朗水清！！</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:17<br>赞(0) 踩(0) | <div>这个世界就没有圣人。地球上的大自然。人类的世界。社会当中。人罢了。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:17<br>赞(0) 踩(0) | <div>这个世界就没有圣人。<br><br>地球上的大自然。人类的世界。社会当中。<br><br>人罢了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257825776)<br>fuck more wh...<br>2018-08-10 21:18<br>赞(0) 踩(0) | <div><q><b>天机2013说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140322188)<br><br>2020-07-28 11:24<br>赞(0) 踩(0) | <div>本就没有圣人，只是尽力而为，做到本心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319622023)<br><br>2017-12-27 23:08<br>赞(3) 踩(0) | <div>这首词写的真棒</div> |
@@ -303,7 +303,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302284365)<br> <br>2018-01-16 22:36<br>赞(0) 踩(0) | <div>戏精这个词不好，虽然知道您是夸何冰老师，还是用戏骨吧</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333672253)<br><br>2018-01-17 22:15<br>赞(0) 踩(0) | <div><q><b>挚爱Leslie说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33718856)<br>我还没想好要写什么...<br>2017-12-20 22:10<br>赞(1) 踩(0) | <div>竟然大神程池所做</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71988220)<br>知命不懼 日日自新<br>2017-12-19 18:40<br>赞(18) 踩(0) | <div>&amp;ldquo;社稷安撫臣子心，長驅鬼魅不休戰。人寰無限，叢生哀怨，冤魂嗟嘆。&amp;rdquo;聽著這首歌，完成了民法的結課論文。寫到了江歌，寫到了紅黃藍。民眾的弱小無力與勢力者的一手遮天，這些都讓我發抖，讓我心碎，讓我無措。可惜再無宋慈之士，打破蠅蟲泣血之日。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71988220)<br>知命不懼 日日自新<br>2017-12-19 18:40<br>赞(18) 踩(0) | <div>&amp;ldquo;社稷安撫臣子心，長驅鬼魅不休戰。<br>人寰無限，叢生哀怨，冤魂嗟嘆。&amp;rdquo;<br>聽著這首歌，完成了民法的結課論文。<br>寫到了江歌，寫到了紅黃藍。<br>民眾的弱小無力與勢力者的一手遮天，<br>這些都讓我發抖，讓我心碎，讓我無措。<br>可惜再無宋慈之士，打破蠅蟲泣血之日。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11704065)<br>人生如歌<br>2017-12-18 13:23<br>赞(5) 踩(0) | <div>大陆好久没出优秀的影视剧作品了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/159856218)<br>我还没想好要写什么...<br>2017-12-16 12:54<br>赞(4) 踩(0) | <div>希望我朝官员不管大小能看看这部剧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3264915)<br><br>2017-12-10 21:26<br>赞(1) 踩(0) | <div>看斜阳照大地，重头转</div> |
@@ -318,25 +318,25 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284359684)<br><br>2017-12-04 00:21<br>赞(0) 踩(0) | <div>王法就是赵家的法</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335059343)<br><br>2017-12-03 02:17<br>赞(0) 踩(0) | <div>初三中考完正在放这电视剧的片尾曲，当时急着出去买连载昆仑的今古传奇武侠版，一晃十二年了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288849720)<br><br>2017-12-01 08:00<br>赞(6) 踩(0) | <div>老百姓过日子平时看不出什么，真到有事时才能知道这世界是浑浊的还是清清朗朗的</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:33<br>赞(0) 踩(0) | <div>往往都是看清的人。有一定&amp;hellip;&amp;hellip;池中之物。谁能跳出？谁能脱离？</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:33<br>赞(0) 踩(0) | <div>往往都是看清的人。有一定&amp;hellip;&amp;hellip;<br><br>池中之物。<br><br>谁能跳出？谁能脱离？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268905877)<br><br>2017-11-30 14:40<br>赞(2) 踩(0) | <div>憾人心扉 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333882594)<br>人越长大就越会明白，有一...<br>2017-11-29 23:14<br>赞(5) 踩(0) | <div>中国司法进程要想进步，实在太难太难</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328981489)<br><br>2017-11-27 19:35<br>赞(2) 踩(0) | <div>泣血蝇虫笑苍天，孤帆叠影锁白练。唉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328981489)<br><br>2017-11-27 19:35<br>赞(2) 踩(0) | <div>泣血蝇虫笑苍天，孤帆叠影锁白练。<br>唉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333409879)<br><br>2017-11-27 15:32<br>赞(5) 踩(0) | <div>一人之力终究无法还世道一个朗朗乾坤&amp;hellip;&amp;hellip;，然而纵然如此仍有仁人志士前赴后继</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16499335)<br>Orcinus Orca<br>2017-11-26 23:32<br>赞(2) 踩(0) | <div>程池乃大家  真国风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118599352)<br><br>2017-11-24 22:55<br>赞(56) 踩(0) | <div>刚刚看完三种颜色事件的报道 再来听这个</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334183185)<br><br>2018-02-04 03:49<br>赞(0) 踩(0) | <div>三种颜色？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21933551)<br><br>2018-02-25 09:09<br>赞(0) 踩(0) | <div><q><b>ApoIIohawk说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192245033)<br>但愿人长久<br>2017-11-24 22:11<br>赞(1) 踩(0) | <div>我生天地间，一蚁寄大磨。区区欲右行，不救风轮左。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192245033)<br>但愿人长久<br>2017-11-24 22:11<br>赞(1) 踩(0) | <div>我生天地间，一蚁寄大磨。<br>区区欲右行，不救风轮左。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327449362)<br>活着就是修行。<br>2017-11-24 09:10<br>赞(9) 踩(0) | <div>看到三種顏色的事件，何其相似。何其哀怨&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324588317)<br>女生<br>2017-11-20 23:35<br>赞(3) 踩(0) | <div>虽然这部电视剧剧情上有点硬伤，但演员演得好 ，歌曲也好，电视剧中心思想也很有见地</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:38<br>赞(0) 踩(0) | <div>好作品。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336333352)<br><br>2017-11-20 21:39<br>赞(2) 踩(0) | <div>是啊  无助的呐喊，一腔正道沧桑，只留余恨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37182716)<br>慢慢走，聆听    回头...<br>2017-11-15 19:22<br>赞(0) 踩(0) | <div>朗诵和歌声真棒！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308403669)<br><br>2017-11-13 22:51<br>赞(14) 踩(0) | <div>刁光斗：话不能说绝了，我的宋大人。不客气地说，刁某以为，宋大人什么都明白，可唯独就是在这人情世道上，一窍不通啊！这么说吧，圣人尚曰：人非圣贤，孰能无过。人，人呐，这人哪儿有不犯错的，可凭什么就你摆出一副比圣人还圣人的面孔，抓住别人一点儿小过小失，就把人往死里整。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308403669)<br><br>2017-11-13 22:51<br>赞(14) 踩(0) | <div>刁光斗：<br>话不能说绝了，我的宋大人。<br>不客气地说，刁某以为，宋大人什么都明白，<br>可唯独就是在这人情世道上，一窍不通啊！<br>这么说吧，圣人尚曰：人非圣贤，孰能无过。<br>人，人呐，<br>这人哪儿有不犯错的，<br>可凭什么就你摆出一副比圣人还圣人的面孔，<br>抓住别人一点儿小过小失，<br>就把人往死里整。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332091453)<br><br>2017-11-15 17:21<br>赞(0) 踩(0) | <div>哪里是一点过错啊？人命关天</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308403669)<br><br>2017-11-28 23:20<br>赞(0) 踩(0) | <div><q><b>冰果30说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43824563)<br>Extreme ways...<br>2018-03-11 07:06<br>赞(0) 踩(0) | <div>按照西方政治学的角度， 人性本就不完美，所以需要制度来限制人性。所以才有了各种条款和机构，以防人性的恶。社会是会进步的，从这个角度上讲，宋慈们的梦想会从制度上逐步完善，但永远不可能完全实现。因为人性的自私根植在人类这个物种基因深处。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43824563)<br>Extreme ways...<br>2018-03-11 07:06<br>赞(0) 踩(0) | <div>按照西方政治学的角度， 人性本就不完美，所以需要制度来限制人性。所以才有了各种条款和机构，以防人性的恶。<br>社会是会进步的，从这个角度上讲，宋慈们的梦想会从制度上逐步完善，但永远不可能完全实现。因为人性的自私根植在人类这个物种基因深处。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308403669)<br><br>2018-03-12 19:27<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274250042)<br><br>2018-03-23 15:28<br>赞(0) 踩(0) | <div><q><b>抚殇说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:43<br>赞(0) 踩(0) | <div><q><b>匹马说：</b></q></div> |
@@ -364,7 +364,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4335403)<br><br>2017-10-20 12:20<br>赞(2) 踩(0) | <div>浩然天地，正气长存！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50520284)<br>他比烟花灿烂<br>2017-10-15 19:46<br>赞(3) 踩(0) | <div>我妈看我在看 她跑去追了一周追完了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294588978)<br><br>2017-10-14 19:19<br>赞(0) 踩(0) | <div>很喜欢电视剧下载了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326989481)<br><br>2017-10-13 21:16<br>赞(1) 踩(0) | <div>于是我就粉上了刘可 (❛ө❛) 我爱我的慈  夫人和瑛姑可配了哈哈哈  但是恕我直言emmmmm  作为一个脸盲  这几个捕头真的长得不一样吧???离我二刷这剧已经几个月了  看的室友也每天跟着我看却开始做噩梦 _(:3)∠*)_宋大人和刁光斗真的是演技爆炸 每次看到刁光斗的戏份都对我慈揪心 QuQ  我慈这么好你不许伤害他嘤嘤嘤  老是看到深有感触处就不自觉流起泪  嗯！我爱我慈我爱我慈我爱我慈  重复三遍  刘可大大的歌也很好听 (* ॑꒳ ॑* )⋆*</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326989481)<br><br>2017-10-13 21:16<br>赞(1) 踩(0) | <div>于是我就粉上了刘可 (❛ө❛) 我爱我的慈  夫人和瑛姑可配了哈哈哈  但是恕我直言emmmmm  作为一个脸盲  这几个捕头真的长得不一样吧???<br><br>离我二刷这剧已经几个月了  看的室友也每天跟着我看却开始做噩梦 _(:3)∠*)_宋大人和刁光斗真的是演技爆炸 每次看到刁光斗的戏份都对我慈揪心 QuQ  我慈这么好你不许伤害他嘤嘤嘤  老是看到深有感触处就不自觉流起泪  嗯！我爱我慈我爱我慈我爱我慈  重复三遍  刘可大大的歌也很好听 (* ॑꒳ ॑* )⋆*</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300022936)<br>小生不才，未得姑娘青睐，...<br>2017-10-11 23:12<br>赞(1) 踩(0) | <div>每次听得时候都会起一身鸡皮疙瘩。棒棒滴，爱听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327411394)<br><br>2017-10-11 21:37<br>赞(1) 踩(0) | <div>闪射理想之光，心灵之星!把光流注入，未来的暮霭之中。我的心放在虾米，我的灵魂放在soul。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14747594)<br>大音希声<br>2017-10-05 23:40<br>赞(14) 踩(0) | <div>《大宋提刑官》的原著《洗冤录》世界上第一部系统的法医学著作哎，好棒的。何冰演的很好，我也很喜欢他和一群话剧演员老戏骨演的《十二公民》。这首歌的词曲作者程池也是纪录片《玄奘大师》《新丝绸之路》的配乐作者，西安人。都是超感人的。</div> |
@@ -386,17 +386,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252234011)<br><br>2017-09-07 13:59<br>赞(8) 踩(0) | <div>古今世事，莫过于斯。孤帆逆影，终折戟消沉去，换得旁人观。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135566230)<br> <br>2017-09-04 22:20<br>赞(16) 踩(0) | <div>以前总嘲笑古人没有娱乐活动，现在总算体会到了宋词的美。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252830833)<br>有舍才有得<br>2017-09-04 18:42<br>赞(7) 踩(0) | <div>暑假又看一遍《大宋提刑官》，世道浑浊，宋慈有心无力，令人叹息。但法医学著作《洗冤集录》流传千古，电视剧中宋慈妻子的深明大义让人佩服，宋慈和瑛姑的感情也令人感动 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267963599)<br>夏日的木叶不会凋零<br>2017-09-03 22:41<br>赞(2) 踩(0) | <div>这歌词，非常棒！这歌声，很投入！感谢那个时代歌手们的用情发声！感谢他们的努力和投入！真的被打动了！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267963599)<br>夏日的木叶不会凋零<br>2017-09-03 22:41<br>赞(2) 踩(0) | <div>这歌词，非常棒！这歌声，很投入！<br>感谢那个时代歌手们的用情发声！<br>感谢他们的努力和投入！<br>真的被打动了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9979329)<br> <br>2017-09-02 22:58<br>赞(12) 踩(0) | <div>朗诵大气，唱得苍凉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109378296)<br> <br>2017-09-01 21:11<br>赞(5) 踩(0) | <div>为何没人讲刘可唱的好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30498005)<br>下次你路过，人间已无我。<br>2017-09-01 04:36<br>赞(5) 踩(0) | <div>孤帆叠影，残月升，骤起烈烈风。看斜阳，照大地阡陌，从头转。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30498005)<br>下次你路过，人间已无我。<br>2017-09-01 04:36<br>赞(5) 踩(0) | <div>孤帆叠影，<br>残月升，<br>骤起烈烈风。<br>看斜阳，<br>照大地阡陌，<br>从头转。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320098584)<br>一首老歌一个故事～<br>2017-08-31 18:23<br>赞(7) 踩(0) | <div>以前的道具师  编剧  导演都是好样的兢兢业业一部电视剧或者电影都能成就经典！！！现在的影视作品都是什么鬼道具师都请来打酱油的  哎！还有那些编剧都看的无语了！导演都不认真过一遍    说不下去了！！！还好有一些兢兢业业的导演    不然国内影视作品都没法看了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284848005)<br><br>2017-08-28 22:52<br>赞(8) 踩(0) | <div>这部剧，值得看，值得看，值得看，值得看&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10399763)<br><br>2017-08-28 12:16<br>赞(658) 踩(0) | <div>小学时第一次看这部剧就感觉这首歌余音绕梁，气冲霄汉，大学了重新看这部电视更是每每忍不住落泪，最后宋皇烧掉八大箱，宋慈孤独离去的背影，薛大人一句法不责众，高官们恼羞成怒乱拳打死刁光义，最是让人悲愤叹惋！滂沱雨，无底涧，涉激流，登彼岸，奋力搏云间，消得雾患，我国历朝历代都不乏宋慈这种古板甚至迂腐却总在百姓疾苦之时挺身而出撑起一片青天的书生&amp;hellip;&amp;hellip;江山代有才人出，各领风骚数百年，望我辈才俊，能捡起这浩然正气！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225676302)<br><br>2017-08-30 18:37<br>赞(0) 踩(0) | <div>我辈才俊定有可畏后生鹊起，争拾这浩然之气</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3336086)<br>浮生半日自悠闲~<br>2018-01-30 11:28<br>赞(0) 踩(0) | <div>说得好</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-01-31 01:58<br>赞(0) 踩(0) | <div>李牧如何死的？岳飞呢？袁崇焕呢？范蠡得以善终。张良也是及早就布下了局。要有自己的思考能力；分辨能力；观察能力&amp;hellip;&amp;hellip;否则倒霉的肯定是&amp;hellip;&amp;hellip;</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-04-05 21:56<br>赞(0) 踩(0) | <div>李世民作为一个皇帝；给百姓带来了安稳的生活。老百姓能够喘口气。好好过日子。官方（课本）给出的答案是明君；他强迫自己的弟媳妇儿给他侍寝；皇位通过弑兄夺来的。官方渠道只字不提。这背后的东西太值得品味了。任何事件；任何人物都有其基本的俩面性。而且这种关系是相伴相生的。不是独立的。也不是超然物外。谁能否定黑与白的联系。一枚硬币的正反俩面。一味地强调或是单一的去看待问题。个人或是团队都会为将来的覆灭埋下祸根。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-01-31 01:58<br>赞(0) 踩(0) | <div>李牧如何死的？<br>岳飞呢？<br>袁崇焕呢？<br>范蠡得以善终。<br><br>张良也是及早就布下了局。<br><br>要有自己的思考能力；分辨能力；观察能力&amp;hellip;&amp;hellip;<br>否则倒霉的肯定是&amp;hellip;&amp;hellip;</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-04-05 21:56<br>赞(0) 踩(0) | <div>李世民作为一个皇帝；给百姓带来了安稳的生活。老百姓能够喘口气。好好过日子。<br><br>官方（课本）给出的答案是明君；他强迫自己的弟媳妇儿给他侍寝；皇位通过弑兄夺来的。<br><br>官方渠道只字不提。<br><br>这背后的东西太值得品味了。<br><br>任何事件；任何人物都有其基本的俩面性。而且这种关系是相伴相生的。不是独立的。也不是超然物外。<br><br>谁能否定黑与白的联系。<br><br>一枚硬币的正反俩面。<br><br>一味地强调或是单一的去看待问题。<br><br>个人或是团队都会为将来的覆灭埋下祸根。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360763456)<br><br>2018-05-06 04:54<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374876435)<br><br>2018-06-22 20:53<br>赞(0) 踩(0) | <div>听到这首歌，心里会很酸</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348093093)<br><br>2018-07-30 02:32<br>赞(0) 踩(0) | <div><q><b>天机2013说：</b></q></div> |
@@ -408,14 +408,14 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427901056)<br><br>2020-02-03 02:12<br>赞(0) 踩(0) | <div><q><b>天机2013说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2020-02-14 01:03<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287262660)<br><br>2020-04-15 14:29<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2020-07-14 03:12<br>赞(0) 踩(0) | <div>春秋时期，计然离开越王勾践前如何劝告范蠡？战国时期，燕国大将乐毅怎么回信燕王的？明朝皇帝朱元璋手下陈遇如何？真实的水浒人物里，公孙胜怎么样？东汉末三国初崔州平呢？唐朝李世民时期孙思邈（大夫）怎么样？泱泱5000多年，仅仅这几位吗？慢慢儿悟吧。&amp;hellip;&amp;hellip;</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2020-07-14 03:12<br>赞(0) 踩(0) | <div>春秋时期，计然离开越王勾践前如何劝告范蠡？<br>战国时期，燕国大将乐毅怎么回信燕王的？<br>明朝皇帝朱元璋手下陈遇如何？<br>真实的水浒人物里，公孙胜怎么样？<br>东汉末三国初崔州平呢？<br>唐朝李世民时期孙思邈（大夫）怎么样？<br>泱泱5000多年，仅仅这几位吗？<br>慢慢儿悟吧。<br>&amp;hellip;&amp;hellip;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2020-07-26 15:28<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96597458)<br><br>2017-08-25 15:26<br>赞(1) 踩(0) | <div>好孤独啊这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238206120)<br>有花当折何须折，占有不如...<br>2017-08-24 22:22<br>赞(0) 踩(0) | <div>大宋提刑官</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256428356)<br><br>2017-08-19 20:46<br>赞(0) 踩(0) | <div>宋慈，好样的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227382009)<br>我还没想好要写什么...<br>2017-08-19 16:48<br>赞(12) 踩(0) | <div>何冰郭达演技神了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227382009)<br>我还没想好要写什么...<br>2017-08-19 16:40<br>赞(1) 踩(0) | <div>从我是怪异君来的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319761936)<br><br>2017-08-18 19:29<br>赞(13) 踩(0) | <div>千古悠悠，有多少冤魂嗟叹！空怅望 ，人寰无限丛生哀怨！泣血蝇虫笑苍天、孤帆叠影锁白链、残月升 ，骤起烈烈风，尽吹散&amp;hellip;尽吹散&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;喜欢这段朗诵</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319761936)<br><br>2017-08-18 19:29<br>赞(13) 踩(0) | <div>千古悠悠，<br>有多少冤魂嗟叹！<br>空怅望 ，人寰无限<br>丛生哀怨！<br>泣血蝇虫笑苍天、<br>孤帆叠影锁白链、<br>残月升 ，骤起烈烈风，<br>尽吹散&amp;hellip;尽吹散&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;喜欢这段朗诵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75494828)<br>看不淡<br>2017-08-10 22:01<br>赞(3) 踩(0) | <div>前几次我听这首歌以为是个老者演唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101825212)<br><br>2017-08-09 21:31<br>赞(5) 踩(0) | <div>有心杀贼，无力回天！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317634311)<br>虽然如此可爱，但是是公的<br>2017-08-08 23:56<br>赞(2) 踩(0) | <div>内容已删除</div> |
@@ -443,12 +443,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2680810)<br><br>2017-06-27 07:55<br>赞(8) 踩(0) | <div>前两天听到类似的调子就想起来这首歌。今天终于找出来听，真的听哭&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34204313)<br>你～捉得到～风中的刀吗？<br>2017-06-26 23:03<br>赞(10) 踩(0) | <div>最后升华 是宋慈失败 心灰意懒辞官回家 江上空阔 白茫茫一片&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34204313)<br>你～捉得到～风中的刀吗？<br>2017-06-26 23:01<br>赞(0) 踩(0) | <div>杨永信 巫山七月雪 北电&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47308700)<br>放眼望去,彼岸的花海,逞...<br>2017-06-26 20:07<br>赞(1288) 踩(0) | <div>&amp;ldquo;父亲，慈儿已辞去官职，回归故里，从此再也不回去做官了。时至今日慈儿才明白，若要世道清明，除恶扬善，单凭我等仗义执法，查凶审案，是无济于事的。孩儿已疲惫不已，不堪重负了。唯留下这本书，原想可以帮助后人，辅助大宋，现在&amp;hellip;看来也没有必要了，大宋这半壁江山不会久了。&amp;rdquo;还记得堂上刁光斗说的:&amp;quot;王法,就是皇家的法.&amp;quot;还记得被革职的吴淼水说的:&amp;quot;别说你一个宋慈,就是十个八个也休想让这浑浊的世道变得天朗水清.&amp;quot;宋慈带着那点正义绝望的走了,留下一片哀嚎和一个我们熟悉又陌生的天下</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47308700)<br>放眼望去,彼岸的花海,逞...<br>2017-06-26 20:07<br>赞(1288) 踩(0) | <div>&amp;ldquo;父亲，慈儿已辞去官职，回归故里，从此再也不回去做官了。<br>时至今日慈儿才明白，若要世道清明，除恶扬善，单凭我等仗义执法，查凶审案，是无济于事的。<br>孩儿已疲惫不已，不堪重负了。唯留下这本书，原想可以帮助后人，辅助大宋，现在&amp;hellip;看来也没有必要了，大宋这半壁江山不会久了。&amp;rdquo;还记得堂上刁光斗说的:&amp;quot;王法,就是皇家的法.&amp;quot;还记得被革职的吴淼水说的:&amp;quot;别说你一个宋慈,就是十个八个也休想让这浑浊的世道变得天朗水清.&amp;quot;宋慈带着那点正义绝望的走了,留下一片哀嚎和一个我们熟悉又陌生的天下</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116085096)<br>夜晚的天花板是最美好的荧...<br>2017-09-10 11:40<br>赞(0) 踩(0) | <div>读史就是读人心，历史往往是相似的，但人们就是不明白，而我们就是生活在历史之中</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22185580)<br><br>2017-11-10 17:47<br>赞(0) 踩(0) | <div>怎么赞？  一些畜生为了自己   不顾国，不顾下。。  骂什么慈禧太后。。。不是一路人么？  秦始皇焚书坑儒  都没掩盖他的错事。。。何况没做出大事  只做错事的呢？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273997243)<br><br>2017-11-24 11:52<br>赞(0) 踩(0) | <div>牛逼</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332491121)<br>我懂天大的道理，却不愿意...<br>2017-12-08 12:53<br>赞(0) 踩(0) | <div>今天何尝不是宋慈活着的昨天。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2017-12-31 01:15<br>赞(0) 踩(0) | <div>。。。分量就哪儿摆着；</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2017-12-31 01:15<br>赞(0) 踩(0) | <div>。。。<br><br>分量就哪儿摆着；</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-01-31 02:01<br>赞(0) 踩(0) | <div><q><b>＊ǒh辻茡泇说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-01-31 02:02<br>赞(0) 踩(0) | <div><q><b>野猪de天花板唱片说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298729146)<br><br>2018-02-04 14:18<br>赞(0) 踩(0) | <div>7。</div> |
@@ -457,7 +457,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42253340)<br>暂无签名~<br>2019-03-31 19:08<br>赞(0) 踩(0) | <div>没有好的制度，再好的人也枉然</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128718122)<br> <br>2019-05-15 11:02<br>赞(0) 踩(0) | <div>现在和以往没有什么区别，只是干的更隐秘</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28707982)<br>暂无签名~<br>2019-08-23 00:18<br>赞(0) 踩(0) | <div><q><b>黄海浪说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2019-09-03 03:53<br>赞(0) 踩(0) | <div>普天之下；莫非王土。率土之滨；莫非王臣。——秦始皇</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2019-09-03 03:53<br>赞(0) 踩(0) | <div>普天之下；莫非王土。<br>率土之滨；莫非王臣。<br>——秦始皇</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2019-10-24 02:15<br>赞(0) 踩(0) | <div><q><b>灵魂工程师说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287262660)<br><br>2019-12-18 20:43<br>赞(0) 踩(0) | <div><q><b>灵魂工程师说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287262660)<br><br>2020-07-07 14:58<br>赞(0) 踩(0) | <div>美国的贪官不可怕，可怕的是背后得财阀！中国的贪官才是倒霉，有钱不敢用，真不如美国！</div> |
@@ -503,7 +503,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47404405)<br>ダンスなんてうまく踊れな...<br>2017-04-20 16:00<br>赞(2) 踩(0) | <div>小时候觉得很悲壮 一听就害怕...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125189162)<br><br>2017-04-17 01:32<br>赞(1) 踩(0) | <div>尽吹散</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277891714)<br>do yourself<br>2017-04-13 21:41<br>赞(0) 踩(0) | <div>看斜阳照大地阡陌 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288037266)<br><br>2017-04-12 22:08<br>赞(1) 踩(0) | <div>满满的回忆试问现在还有人能这样不求名利地为了劳苦大众吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288037266)<br><br>2017-04-12 22:08<br>赞(1) 踩(0) | <div>满满的回忆<br>试问现在还有人能这样不求名利地为了劳苦大众吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227729915)<br>因为音乐，我与生活成为好...<br>2017-06-04 17:40<br>赞(0) 踩(0) | <div>古代或许有，现代已经没有了，能贪的同时为百姓做点实事已经称得上好官了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88901738)<br>我还没想好要写什么...<br>2017-07-18 19:47<br>赞(0) 踩(0) | <div>海瑞也是一样的下场</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131186732)<br>你是絕色的傷口，我不知道...<br>2017-04-11 19:27<br>赞(0) 踩(0) | <div>喜欢歌词</div> |
@@ -576,7 +576,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251420465)<br><br>2017-03-08 19:33<br>赞(0) 踩(0) | <div><q><b>不在东墙说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7482931)<br>我希望我做什么都可以注入...<br>2016-10-21 19:11<br>赞(3) 踩(0) | <div>这版本，一生粉！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222212241)<br><br>2016-10-18 13:30<br>赞(0) 踩(0) | <div>大气磅礴，旋律和歌词还有电视主题搭配完美！我初中的回忆！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8601769)<br><br>2016-10-17 06:04<br>赞(3) 踩(0) | <div>《大宋提刑官》我超喜欢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8601769)<br><br>2016-10-17 06:04<br>赞(3) 踩(0) | <div>《大宋提刑官》<br>我超喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2033372)<br>没什么比合适的音乐更好<br>2016-10-13 03:50<br>赞(0) 踩(0) | <div>我还记得当时把这词抄下来</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186983355)<br><br>2017-09-01 00:14<br>赞(0) 踩(0) | <div>我当时也这么干了，特意抄在积累本上的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103779594)<br>遠在天边，近在眼前<br>2016-10-09 16:54<br>赞(0) 踩(0) | <div>好喜欢 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
@@ -592,7 +592,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96004130)<br><br>2016-09-25 10:20<br>赞(1) 踩(0) | <div>千古悠悠  有多少冤魂嗟叹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12469663)<br> <br>2016-09-20 02:08<br>赞(2) 踩(0) | <div>歌与电视剧相得益彰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47232460)<br> <br>2016-09-08 21:07<br>赞(1) 踩(0) | <div>真喜欢这首歌啧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136141866)<br>自爱，沉稳，而后爱人。<br>2016-09-08 07:23<br>赞(4) 踩(0) | <div>这世界太多腐朽 埋住世人的眼残月升 骤起烈烈风  尽吹散。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136141866)<br>自爱，沉稳，而后爱人。<br>2016-09-08 07:23<br>赞(4) 踩(0) | <div>这世界太多腐朽 埋住世人的眼<br>残月升 骤起烈烈风  尽吹散。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45833684)<br>我还没想好要写什么...<br>2016-09-06 10:19<br>赞(108) 踩(0) | <div>有一集宋慈说了一段很经典的话：兴许能说得出来的，终是陈词滥调。而心里想说又说不出来的，才是人心之幽秘啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6554640)<br>无人赏，自家拍掌，唱得千...<br>2017-06-15 20:20<br>赞(0) 踩(0) | <div>这段还截图了 一直藏在手机里</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163176562)<br><br>2017-06-17 03:33<br>赞(0) 踩(0) | <div>这部片子当时印象很深！</div> |
@@ -616,7 +616,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244485768)<br><br>2017-10-27 23:59<br>赞(0) 踩(0) | <div><q><b>EliasVM说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256903747)<br><br>2017-11-12 09:17<br>赞(0) 踩(0) | <div><q><b>熊大你又骗俺说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338953552)<br>时光如水，岁月如歌，你我...<br>2019-03-31 11:40<br>赞(0) 踩(0) | <div><q><b>……说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2019-08-30 04:48<br>赞(0) 踩(0) | <div>这就是魅力，难能可贵之处。规则就是这样。……欲罢不能，回味无穷。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2019-08-30 04:48<br>赞(0) 踩(0) | <div>这就是魅力，难能可贵之处。<br>规则就是这样。<br>……<br>欲罢不能，回味无穷。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82800516)<br>有了你即使沉睡了也在笑<br>2016-08-29 12:00<br>赞(4) 踩(0) | <div>整部劇看完之後再聽片尾曲真的很感慨，忍不住淚目了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6092157)<br>风眠<br>2016-08-27 20:46<br>赞(2) 踩(0) | <div>这时候看还是很震撼 哀 当年的国产剧啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49630843)<br> <br>2016-08-27 00:28<br>赞(7) 踩(0) | <div>夏天有一次看晚报 有篇文章说大宋提刑官漏洞百出 宋朝哪有什么水泥地blahblahblah 读到一半 我就特别生气 你怎么能说我爱豆坏话 把它揉成一团给扔了</div> |
@@ -656,7 +656,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45833684)<br>我还没想好要写什么...<br>2017-09-13 01:03<br>赞(0) 踩(0) | <div>可《寂寞才说爱》也是刘可唱的啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23193803)<br><br>2017-09-24 18:16<br>赞(0) 踩(0) | <div><q><b>贾巍巍这么酷炫丶说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23193803)<br><br>2017-09-24 18:17<br>赞(0) 踩(0) | <div><q><b>贾巍巍这么酷炫丶说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:20<br>赞(0) 踩(0) | <div>。。。份量。含金量。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:20<br>赞(0) 踩(0) | <div>。。。<br><br>份量。含金量。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19749180)<br>They shine<br>2016-05-21 23:46<br>赞(11) 踩(0) | <div>这世界本就不是海清河晏的，也不可能变得海清河晏，但是就因为这样，才要一直努力去让它变得好一点点，不休战</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3285016)<br><br>2016-05-19 00:11<br>赞(3) 踩(0) | <div>泣血蝇虫笑苍天，孤帆叠影锁白链，残月升，骤起烈烈风，尽吹散</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6975684)<br>在最美的时光听歌<br>2016-05-18 22:40<br>赞(4) 踩(0) | <div>朗诵一出来，肃然起敬。读书时看的大宋提刑官，转眼已经年。</div> |
@@ -719,8 +719,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12760939)<br>暂无签名~<br>2015-11-30 15:43<br>赞(1) 踩(0) | <div>尽管背皮子发麻，还是很感人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45772226)<br>永永远远<br>2015-11-29 00:34<br>赞(0) 踩(0) | <div>晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26332809)<br>风不临我我凌风<br>2015-11-28 19:42<br>赞(39) 踩(0) | <div>十年经典，恐怕琅琊榜只及它半分</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:21<br>赞(0) 踩(0) | <div>太抬举琅琊榜了。不是一个高度的作品。不论如何看。琅琊榜没有这部剧的的份量。差的太多。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2018-11-18 20:14<br>赞(0) 踩(0) | <div>差太多了真心话</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2018-07-09 15:21<br>赞(0) 踩(0) | <div>太抬举琅琊榜了。<br><br>不是一个高度的作品。<br><br>不论如何看。琅琊榜没有这部剧的的份量。<br><br>差的太多。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2018-11-18 20:14<br>赞(0) 踩(0) | <div>差太多了<br>真心话</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94173866)<br>时光易逝,容颜易老,不负...<br>2019-05-24 23:37<br>赞(0) 踩(0) | <div>我很喜欢胡歌，也很喜欢琅琊榜，但也是觉得琅琊榜虽然也好，但还是差一些！影视题材不同，拍摄时间不同，看完后的感觉也不同！琅琊榜我看两三遍就感觉可以了，但这个确实我从7.8看到大的！小时候看到那个骷髅和听到那个片尾曲还有点怕呢！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2019-09-03 03:52<br>赞(0) 踩(0) | <div><q><b>爱＆柏拉图说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94173866)<br>时光易逝,容颜易老,不负...<br>2020-03-02 21:42<br>赞(0) 踩(0) | <div>半分不至于，6.7分应该可以！只是现在很多人不那么认真拍电视剧了而已！</div> |
@@ -741,7 +741,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11980672)<br>全世界在舞蹈  你躲在哪...<br>2015-10-30 17:42<br>赞(2) 踩(0) | <div>当年超喜欢的剧啊，稀饭～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5026326)<br>爱唱歌的孩子都是好孩子～<br>2015-10-30 00:18<br>赞(3) 踩(0) | <div>最近才看这部剧  最近 总是被这种家国 天下 那时人的情怀所触动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37148624)<br><br>2015-10-23 23:22<br>赞(8) 踩(0) | <div>国产巅峰 没谁了 曲片同步率百分一百二</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45224348)<br>节奏带感，我喜欢<br>2015-10-20 23:10<br>赞(29) 踩(0) | <div>我分给我同学一只耳机，刚好就这首，她听到后笑着走开了，还鄙视我没品位 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">要是她自己认识到自己是个莎比就不会说莎比般的话了，很可惜她并没有认识到。这件事告诉我们：不要随便贬低人，说不定在变相贬低自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45224348)<br>节奏带感，我喜欢<br>2015-10-20 23:10<br>赞(29) 踩(0) | <div>我分给我同学一只耳机，刚好就这首，她听到后笑着走开了，还鄙视我没品位 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"><br><br><br>要是她自己认识到自己是个莎比就不会说莎比般的话了，很可惜她并没有认识到。<br>这件事告诉我们：不要随便贬低人，说不定在变相贬低自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49896895)<br><br>2015-10-17 19:51<br>赞(2) 踩(0) | <div>这部剧我可以反复看很多遍，次次触人心弦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43100123)<br>暂无签名~<br>2015-10-17 09:00<br>赞(2) 踩(0) | <div>很喜欢何冰版大宋提刑官，演的很棒，我记得我看了至少有五遍，这首歌也好听哭！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58185956)<br><br>2015-10-13 00:03<br>赞(1) 踩(0) | <div>这个其实挺有味道的。</div> |
@@ -773,7 +773,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7772147)<br><br>2015-07-04 22:49<br>赞(0) 踩(0) | <div>悲怆大气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44388622)<br> <br>2015-06-27 23:39<br>赞(3) 踩(0) | <div>一流国产剧的一流配乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44820510)<br> <br>2015-06-22 17:38<br>赞(3) 踩(0) | <div>大宋提刑官2简直就很垃圾了！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30434180)<br>自由，吾爱。<br>2015-06-22 09:35<br>赞(1) 踩(0) | <div>千古悠悠有多少 冤魂嗟叹空怅惘 人寰无限丛生哀怨泣血蝇虫笑苍天孤帆叠影锁白链残月升 骤起烈烈风尽吹散</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30434180)<br>自由，吾爱。<br>2015-06-22 09:35<br>赞(1) 踩(0) | <div>千古悠悠<br>有多少 冤魂嗟叹<br>空怅惘 人寰无限<br>丛生哀怨<br>泣血蝇虫笑苍天<br>孤帆叠影锁白链<br>残月升 骤起烈烈风<br>尽吹散</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/939360)<br>我要做个闪闪放光的神经病<br>2015-06-18 21:56<br>赞(4) 踩(0) | <div>最近那个强拆，被拆户在哭泣而官员在嘲笑，真是应了“泣血蝇虫笑苍天”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47663904)<br><br>2015-06-18 18:15<br>赞(0) 踩(0) | <div>小芳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50686798)<br><br>2015-06-14 12:26<br>赞(0) 踩(0) | <div>好听。</div> |
@@ -786,7 +786,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44348280)<br>暂无签名~<br>2015-06-10 21:09<br>赞(0) 踩(0) | <div>好在哪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18795382)<br> <br>2015-05-18 20:26<br>赞(2) 踩(0) | <div>小时候超喜欢这部剧和片尾曲的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32639801)<br>为啥我听这么屌的音乐？！<br>2015-05-08 13:10<br>赞(1) 踩(0) | <div>听了以后就想去报效国家抛头颅撒热血打鬼子！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1137473)<br>我还没想好要写什么...<br>2015-04-29 13:45<br>赞(3) 踩(0) | <div>泣血蝇虫笑苍天孤帆叠影锁白链每次听到这两句，鸡皮疙瘩都立起来了。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1137473)<br>我还没想好要写什么...<br>2015-04-29 13:45<br>赞(3) 踩(0) | <div>泣血蝇虫笑苍天<br>孤帆叠影锁白链<br><br>每次听到这两句，鸡皮疙瘩都立起来了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4218777)<br>博学之,审问之,慎思之,...<br>2015-04-07 18:12<br>赞(2) 踩(0) | <div>千古悲怆之壮志难酬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10547563)<br>那个啥，啊<br>2015-04-05 16:29<br>赞(0) 踩(0) | <div>是这个</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10099795)<br>ur strange<br>2015-04-04 22:31<br>赞(2) 踩(0) | <div>惊为天人</div> |
@@ -894,7 +894,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4375994)<br>哀悼<br>2014-08-28 22:11<br>赞(0) 踩(0) | <div>+1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11221879)<br>time comes a...<br>2014-01-19 18:16<br>赞(0) 踩(0) | <div>真是很喜欢这个剧还有片尾曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3597209)<br>网易云: 人该有故乡的善...<br>2013-12-29 18:36<br>赞(0) 踩(0) | <div>原来看大宋提刑官就超喜欢 不对 是太喜欢了！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2656470)<br><br>2013-12-29 10:20<br>赞(502) 踩(0) | <div>王凯娟和程池这两位大牛都是谁啊??!作品等级甩其他国内音乐人几十条街了,还这么默默无闻?在百度上查都查不到..这种人才是值得要签名的人.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2656470)<br><br>2013-12-29 10:20<br>赞(502) 踩(0) | <div>王凯娟和程池这两位大牛都是谁啊??!<br>作品等级甩其他国内音乐人几十条街了,还这么默默无闻?<br>在百度上查都查不到..这种人才是值得要签名的人.</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4218777)<br>博学之,审问之,慎思之,...<br>2015-04-07 18:10<br>赞(0) 踩(0) | <div>满网都搜不到这歌的背景，求内幕啊～</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3064077)<br>梦境旋律 高级音乐群 1...<br>2015-07-20 10:10<br>赞(0) 踩(0) | <div>程池有一张《大乘天》的专辑，听了之后就非常非常的佩服他！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45040228)<br>感谢虾米让我认识霜月，花...<br>2015-07-31 02:25<br>赞(0) 踩(0) | <div>程池很有名的北京奥运会揭幕仪式的音乐就是他作的</div> |

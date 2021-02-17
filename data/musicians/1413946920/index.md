@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b7adf61108c6e3b5d479aec2ce6f8e0a.jpg)<br>侯博远](https://i.xiami.com/houboyuan) | **播放数**: 5373147<br>**粉丝数**: 361<br>**评论数**: 5<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/b7adf61108c6e3b5d479aec2ce6f8e0a.jpg)<br>侯博远](https://i.xiami.com/houboyuan) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 5373147<br>**粉丝数**: 361<br>**评论数**: 5<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349145658)<br><br>2020-05-04 13:32<br>赞(0) 踩(0) | <div>改编更深情，加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441466821)<br> <br>2020-04-03 01:32<br>赞(0) 踩(0) | <div>最喜欢开车的时候听你的歌，一个人的时候最放松.....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329245882)<br>世界和平，简单如你。<br>2018-07-13 07:56<br>赞(0) 踩(0) | <div>真好~</div> |

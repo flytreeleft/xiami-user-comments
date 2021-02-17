@@ -174,8 +174,8 @@ Bass：王笑冬<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323332534)<br><br>2020-12-17 23:17<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">金海心这名字不简单，美之至。这歌让我想到了高二 高三那段奇妙的经历，感谢。安静的力量才是最强大的，你尽可以表面安静而心里放肆呼喊着。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411145213)<br>音乐是一种力量，歌曲闪烁...<br>2020-07-23 09:45<br>赞(2) 踩(0) | <div>金海心参加节目，嗓音不容易隐藏，太好辨识了，一听就不可能是别人唱的啦 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2343960)<br><br>2020-03-10 19:39<br>赞(4) 踩(0) | <div>黄妈的音域其实不适合这首歌，压着磉唱可能也是为了配合海心，也可能伪装，节目效果。</div> |

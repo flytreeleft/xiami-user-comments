@@ -34,5 +34,3 @@ Mais la mouche s'est vite envolée
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

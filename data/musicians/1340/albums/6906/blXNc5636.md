@@ -36,8 +36,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375348419)<br><br>2021-02-04 06:20<br>赞(1) 踩(0) | <div>赵英俊去世了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1167593)<br>我还没想好要写什么...<br>2021-01-31 20:35<br>赞(1) 踩(0) | <div>是该好好告别了，10年了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4227567)<br>不努力成不了光明的牛。<br>2021-01-09 17:38<br>赞(0) 踩(0) | <div>有很长的时间说再见，但真的就再也不见了。再见，虾米。</div> |

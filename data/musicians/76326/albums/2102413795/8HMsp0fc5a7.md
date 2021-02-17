@@ -47,8 +47,8 @@ MIDI：喜子<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194967945)<br>时光一逝永不回 往事只能...<br>2021-01-10 13:19<br>赞(0) 踩(0) | <div>虾米没了 <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-10-10 00:38<br>赞(1) 踩(0) | <div>废烟了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207327460)<br><br>2020-10-06 22:01<br>赞(1) 踩(0) | <div>很像张楚的，孤独的人是可耻的 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
@@ -63,14 +63,14 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411339268)<br>为你钟情<br>2020-01-21 14:43<br>赞(11) 踩(0) | <div>从单独的个体，一直到人类社会，没有什么会永垂不朽，唯有孤独永恒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247145405)<br>学习强国<br>2019-12-29 01:45<br>赞(1) 踩(0) | <div>好听！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344187151)<br>听歌，瞎看什么？<br>2019-09-01 22:06<br>赞(0) 踩(0) | <div>突然听到，好像年轻时候窦唯的声音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261358250)<br>一切随缘❤<br>2019-06-09 10:02<br>赞(4) 踩(0) | <div>人生最惬意的活法就是享受孤独不负孤独不负时光</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275494378)<br><br>2019-06-05 03:35<br>赞(3) 踩(0) | <div>孤单是一种状态，孤独则是一种心态；是纵然高朋满座，却无人可以诉说；是满堂喧闹红火，仍感觉心中寂寞；是踽踽独行时脚下的身影；是深夜无眠时墙上的秒针；是花花世界芸芸众生滚滚红尘茕茕孑立；是星汉灿烂明月孤悬绕树三匝无枝可依；是四面墙中的一棵树；是流星划过的一道光；是窗外的人群；是镜中的自己……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261358250)<br>一切随缘❤<br>2019-06-09 10:02<br>赞(4) 踩(0) | <div>人生最惬意的活法<br>就是享受孤独<br>不负孤独<br>不负时光</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275494378)<br><br>2019-06-05 03:35<br>赞(3) 踩(0) | <div>孤单是一种状态，<br>孤独则是一种心态；<br>是纵然高朋满座，<br>却无人可以诉说；<br>是满堂喧闹红火，<br>仍感觉心中寂寞；<br>是踽踽独行时脚下的身影；<br>是深夜无眠时墙上的秒针；<br>是花花世界芸芸众生滚滚红尘茕茕孑立；<br>是星汉灿烂明月孤悬绕树三匝无枝可依；<br>是四面墙中的一棵树；<br>是流星划过的一道光；<br>是窗外的人群；<br>是镜中的自己……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298114730)<br><br>2019-06-05 08:24<br>赞(0) 踩(0) | <div>孤独，是一个人的狂欢盛宴</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275494378)<br><br>2019-06-05 09:50<br>赞(0) 踩(0) | <div>孤独是一个人的狂欢，狂欢是一群人的孤单</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368084363)<br>仁者，心动<br>2019-06-05 09:56<br>赞(0) 踩(0) | <div>这就是我当前的心态，但每当说出来就会有人觉得我矫情。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275494378)<br><br>2019-06-05 09:57<br>赞(0) 踩(0) | <div><q><b>随风而去说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25347543)<br>OlllllllO<br>2019-05-28 19:14<br>赞(0) 踩(0) | <div>仿佛郑钧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265709544)<br>101021Hg❥   ...<br>2019-05-17 16:19<br>赞(0) 踩(0) | <div>我不喜欢这个世界无妨，无妨来日方长。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265709544)<br>101021Hg❥   ...<br>2019-05-17 16:19<br>赞(0) 踩(0) | <div>我不喜欢这个世界<br>无妨，无妨<br>来日方长。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342172166)<br><br>2019-04-20 07:05<br>赞(1) 踩(0) | <div>这首有时让我想到齐秦的狼 不是声音识别 是编曲感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280179902)<br>無悔這一生<br>2019-04-07 22:05<br>赞(0) 踩(0) | <div>打卡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422199766)<br>想你想到开满满身春樱<br>2019-03-30 19:26<br>赞(2) 踩(0) | <div>超级喜欢这首歌 以前120的时候跟男朋友一块听，也谢谢他不嫌弃胖胖的我 不过现在92了身边也是他 是他赚啦</div> |
@@ -113,7 +113,7 @@ MIDI：喜子<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287432484)<br><br>2018-05-11 19:49<br>赞(0) 踩(0) | <div><q><b>一路有你说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337978)<br><br>2019-12-12 22:11<br>赞(0) 踩(0) | <div>出发</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330262284)<br><br>2018-04-08 00:15<br>赞(1) 踩(0) | <div>隐约的听到了窦唯的感觉！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2242480)<br>音乐可以给人安慰，就像树...<br>2018-04-07 11:03<br>赞(1) 踩(0) | <div>浪费。fR..uThbhmMsr bvab。。。。n发b.bm。mpL</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2242480)<br>音乐可以给人安慰，就像树...<br>2018-04-07 11:03<br>赞(1) 踩(0) | <div>浪费。f<br>R..u<br>Thbhm<br>Msr bv<br>ab。。。。n发b.<br>bm。mp<br>L</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139794880)<br><br>2018-03-25 20:29<br>赞(1) 踩(0) | <div>我觉得很委屈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333535521)<br><br>2018-03-19 19:31<br>赞(3) 踩(0) | <div>第一次听理想的时候我就发现赵雷不止是只能唱民谣，还能唱摇滚</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50435887)<br><br>2018-06-03 14:42<br>赞(0) 踩(0) | <div>民谣不只是木吉他,民谣歌曲也可以有摇滚元素,这在赵雷和许巍的歌曲中很常见</div> |
@@ -146,7 +146,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315314234)<br><br>2017-10-28 22:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214982202)<br>……<br>2017-10-24 19:27<br>赞(1) 踩(0) | <div>喜欢你但不敢再你难过的时候去拥抱你……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214982202)<br>……<br>2017-10-24 19:26<br>赞(2) 踩(0) | <div>孤独一人的来带这个世界 ，漂泊多年拥有了太多太多的依恋和软肋，但最后还是孤独一人离开了这个世界……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272531524)<br><br>2017-10-08 10:23<br>赞(0) 踩(0) | <div>我也只能站在街头想着你苍凉的后背是否你的无知和理想带你去过天堂我也只能在梦里朝你挥挥手我要回去找我那消失的朋友孤独 孤独&amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272531524)<br><br>2017-10-08 10:23<br>赞(0) 踩(0) | <div>我也只能站在街头想着你苍凉的后背<br>是否你的无知和理想带你去过天堂<br>我也只能在梦里朝你挥挥手<br>我要回去找我那消失的朋友<br>孤独 孤独&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276677378)<br>诺不轻信，故人不负我，诺...<br>2017-10-06 16:10<br>赞(1) 踩(0) | <div>这吉他有味儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305220734)<br><br>2017-09-23 09:12<br>赞(12) 踩(0) | <div>我听见了郑钧。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49733635)<br><br>2018-04-28 17:44<br>赞(0) 踩(0) | <div>我也是听到了郑钧的感觉才来看看有没有人和我一样的感觉，哈哈</div> |

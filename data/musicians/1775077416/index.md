@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/10b7b99d2109d33253e0243c7270e249.jpg)<br>黑麒](https://i.xiami.com/blackkirin) | **播放数**: 2457224<br>**粉丝数**: 7782<br>**评论数**: 739<br>**地区**: China 中国大陆<br>**风格**: 交响金属 Symphonic Metal, 民谣金属 Folk Metal<br> |
+| [![](../../images/musicians/10b7b99d2109d33253e0243c7270e249.jpg)<br>黑麒](https://i.xiami.com/blackkirin) | **地区**: China 中国大陆<br>**风格**: 交响金属 Symphonic Metal, 民谣金属 Folk Metal<br>**播放数**: 2457224<br>**粉丝数**: 7782<br>**评论数**: 739<br> |
 
 ## 档案
 
@@ -28,8 +28,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49889895)<br>人吃土一生，土吃人一回<br>2021-01-24 19:54<br>赞(0) 踩(0) | <div>以后搬哪里去？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-12-28 14:39<br>赞(1) 踩(0) | <div><img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38259862)<br>别啊<br>2020-11-17 04:25<br>赞(0) 踩(0) | <div>我们中国人自己的金属 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -39,7 +39,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427208425)<br>听歌而已<br>2020-11-27 18:07<br>赞(0) 踩(0) | <div>确实</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45793262)<br>暂无签名~<br>2020-12-21 22:23<br>赞(0) 踩(0) | <div>发生什么事了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43028739)<br> <br>2020-10-17 17:37<br>赞(2) 踩(0) | <div>还记得高二的时候方森在金属吧发自己的作品demo，转眼这么多年过去黑麒已成为中国金属届的一流乐队了，同龄人的我还在当着社畜。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444444731)<br><br>2020-10-06 14:48<br>赞(3) 踩(0) | <div>我不是学音乐的。纯属门外汉。可我一直想把民族乐器尤其是钟鼓这样的大乐以及戏曲和摇滚结合起来。我一直以为我是无知者无畏。最近一直在听金属。因为金属让我很放松。但是听到黑麒整个人都沸腾了。原来传统元素和金属可以融合的这么妙。我真的毫无抵抗力。完全被征服。那天刚好是一边运动一边听的。听的我老是忘了数数。太震撼了。从明年开始有现场的话一定会去听。用钱包一起支持。我一般不这么说话。但是：牛逼！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444444731)<br><br>2020-10-06 14:48<br>赞(3) 踩(0) | <div>我不是学音乐的。纯属门外汉。可我一直想把民族乐器尤其是钟鼓这样的大乐以及戏曲和摇滚结合起来。我一直以为我是无知者无畏。<br><br>最近一直在听金属。因为金属让我很放松。但是听到黑麒整个人都沸腾了。原来传统元素和金属可以融合的这么妙。我真的毫无抵抗力。完全被征服。那天刚好是一边运动一边听的。听的我老是忘了数数。太震撼了。从明年开始有现场的话一定会去听。用钱包一起支持。<br><br>我一般不这么说话。但是：牛逼！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54939396)<br>虾米音乐陪葬品<br>2020-08-20 13:16<br>赞(1) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444116142)<br><br>2020-07-23 08:54<br>赞(0) 踩(0) | <div>Thank you</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-07-22 10:16<br>赞(0) 踩(0) | <div></div> |
@@ -144,7 +144,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52790398)<br>嗯～<br>2018-07-05 21:41<br>赞(1) 踩(0) | <div>购砖支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100379750)<br>我还没想好要写什么...<br>2018-06-23 21:40<br>赞(0) 踩(0) | <div>南京听哭 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339219945)<br>Say goodbye ...<br>2018-05-29 11:32<br>赞(2) 踩(0) | <div>Appeared on my bandcamp's music feed which did surprise me a little bit</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97290500)<br><br>2018-05-26 09:22<br>赞(0) 踩(0) | <div>哈哈哈哈哈，在兰州high吧以后也可以来内蒙啊内蒙硬骨头也燥的一批</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97290500)<br><br>2018-05-26 09:22<br>赞(0) 踩(0) | <div>哈哈哈哈哈，在兰州high吧<br>以后也可以来内蒙啊<br>内蒙硬骨头也燥的一批</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83069340)<br> <br>2018-05-18 05:49<br>赞(0) 踩(0) | <div>突然换封面了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66823378)<br><br>2018-05-13 15:49<br>赞(0) 踩(0) | <div>我怎么喜欢这种黑暗金属风呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309572124)<br>我还没想好要写什么...<br>2018-05-03 15:49<br>赞(0) 踩(0) | <div>新主唱DEMO什么时候有呀？</div> |
@@ -219,7 +219,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6297636)<br><br>2017-10-19 13:35<br>赞(0) 踩(0) | <div>能听到。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41495555)<br>悲袭则惘，狂喜而然。<br>2017-11-05 00:44<br>赞(0) 踩(0) | <div><q><b>怨仇说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317674)<br>地狱的秘密就是我的秘密。<br>2017-10-11 20:15<br>赞(1) 踩(0) | <div>来太原吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6594534)<br> <br>2017-10-11 19:44<br>赞(4) 踩(0) | <div>黑麒乐队《金陵祭》巡演11月03日成都 小酒馆11月04日重庆 MAO11月05日北京 愚公移山11月09日天津 派11月10日上海 万代南梦宫上海文化艺术中心11月11日广州 SD11月12日深圳 B10 LIVE11月13日长沙 46 LIVEHOUSE11月14日武汉 VOX11月15日南京 欧拉艺术空间11月17日沈阳 美第奇11月18日哈尔滨 SUBLIVE11月19日长春 音浪票务预售：<a href="http://www.showstart.com/event/list?type=1&amp;amp;amp;tag=19312" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/list?type=1&amp;amp;amp;tag=19312</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6594534)<br> <br>2017-10-11 19:44<br>赞(4) 踩(0) | <div>黑麒乐队《金陵祭》巡演<br><br>11月03日成都 小酒馆<br>11月04日重庆 MAO<br>11月05日北京 愚公移山<br>11月09日天津 派<br>11月10日上海 万代南梦宫上海文化艺术中心<br>11月11日广州 SD<br>11月12日深圳 B10 LIVE<br>11月13日长沙 46 LIVEHOUSE<br>11月14日武汉 VOX<br>11月15日南京 欧拉艺术空间<br>11月17日沈阳 美第奇<br>11月18日哈尔滨 SUBLIVE<br>11月19日长春 音浪<br><br>票务预售：<a href="http://www.showstart.com/event/list?type=1&amp;amp;amp;tag=19312" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/list?type=1&amp;amp;amp;tag=19312</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2739181)<br><br>2017-11-01 08:51<br>赞(0) 踩(0) | <div>现场演出的话，民乐部分是采样还是现场弹？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6594534)<br> <br>2017-10-11 17:20<br>赞(0) 踩(0) | <div>沈阳：<a href="http://t.cn/ROI1GlL" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/ROI1GlL</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1618810)<br>毙<br>2017-10-11 16:36<br>赞(0) 踩(0) | <div>上海见吧</div> |
@@ -268,7 +268,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4764750)<br>梁尼瑪他大表哥家的燒鴨。<br>2017-07-07 18:48<br>赞(0) 踩(0) | <div>现主唱就是code</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282993988)<br><br>2017-07-11 17:53<br>赞(0) 踩(0) | <div><q><b>梁烧鸭说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319048)<br>向死而生<br>2017-06-26 17:43<br>赞(0) 踩(0) | <div>天了好厉害</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13060161)<br>Only the end...<br>2017-06-26 14:08<br>赞(0) 踩(0) | <div>15年被哀郢圈粉直到现在真的太喜欢了，期待11月的新专金陵祭</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13060161)<br>Only the end...<br>2017-06-26 14:08<br>赞(0) 踩(0) | <div>15年被哀郢圈粉直到现在<br>真的太喜欢了，期待11月的新专金陵祭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212185504)<br>街边孩童嬉闹，抬眼花自笑<br>2017-05-11 15:39<br>赞(111) 踩(0) | <div>人家高二就写出了《妈妈》，我高二还在管妈妈要零花钱</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7400532)<br>念此怎不泣连声<br>2017-05-24 12:16<br>赞(0) 踩(0) | <div>23333</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13799638)<br>摇滚救国<br>2017-11-27 22:30<br>赞(0) 踩(0) | <div>《妈妈》吉他是方森弹的？</div> |
@@ -373,7 +373,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11055633)<br>。。。。。。。<br>2016-08-29 19:35<br>赞(0) 踩(0) | <div>mgla</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39256343)<br>网易云账号：ViaMis...<br>2016-05-29 20:24<br>赞(0) 踩(0) | <div><img src="../../images/comments/c0b5820a44138b3377d4720d2e07302a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39256343)<br>网易云账号：ViaMis...<br>2016-05-27 18:06<br>赞(0) 踩(0) | <div>:)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5691521)<br>孤独是最大的敌人<br>2016-05-26 14:47<br>赞(0) 踩(0) | <div>支持！！！已粉！！！话说，他们的鼓真像鼓机。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5691521)<br>孤独是最大的敌人<br>2016-05-26 14:47<br>赞(0) 踩(0) | <div>支持！！！已粉！！！<br>话说，他们的鼓真像鼓机。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43243730)<br>噗<br>2016-05-16 13:05<br>赞(0) 踩(0) | <div>张老师真的退队了吗……?</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13749412)<br><br>2016-05-15 20:09<br>赞(4) 踩(0) | <div>做为没登过几次舞台的黑麒乐队来说…张经天的退出，黑麒的确有点损伤…希望黑麒不要倒下！有什么困难发表出来大家都能帮忙！祝黑麒一切顺利 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54853123)<br> 始于星辰 终于蓝天<br>2016-05-29 12:51<br>赞(0) 踩(0) | <div>张老师原来退队了 <img src="../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
@@ -386,7 +386,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50281691)<br><br>2016-04-10 00:37<br>赞(0) 踩(0) | <div>今天成都站怎麼沒見到黒麒？是我去晚了還是沒來？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1065621)<br>无中生有<br>2016-04-08 10:06<br>赞(3) 踩(0) | <div>昨晚黑麒在昆明的演出因为飞机延误，乐手到场实在太晚，结果只听了2首歌我就回去了，可惜啊~~~~不过我会继续支持黑麒的，黑麒倍儿牛逼~加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35097468)<br>屋里起火了，我赶紧抱起孩...<br>2016-04-05 10:32<br>赞(0) 踩(0) | <div>box版昨天收到！！！支持！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4219122)<br>Mortal Soul.<br>2016-04-04 22:43<br>赞(2) 踩(0) | <div>广州SD那场张老师身姿帅到不行。另，方森同学你躲在后面扫雷真的好咩。233333333333</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4219122)<br>Mortal Soul.<br>2016-04-04 22:43<br>赞(2) 踩(0) | <div>广州SD那场张老师身姿帅到不行。另，方森同学你躲在后面扫雷真的好咩。<br>233333333333</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35224617)<br><br>2016-04-04 07:23<br>赞(2) 踩(0) | <div>广州很赞！燥的不行</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149872)<br>这家伙很聪明，喜欢音乐！<br>2016-04-03 22:03<br>赞(0) 踩(0) | <div>好听。很不错的乐队 加油吧！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45475991)<br><br>2016-04-03 09:48<br>赞(1) 踩(0) | <div>昨晚真的爽翻了 张哥不得了</div> |
@@ -408,10 +408,10 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4039352)<br><br>2016-03-12 22:14<br>赞(2) 踩(0) | <div>自古英雄出少年啊 啊啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27684693)<br><br>2016-03-12 09:23<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8237815)<br><br>2016-03-11 15:15<br>赞(1) 踩(0) | <div>去去去！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6594534)<br> <br>2016-03-10 17:37<br>赞(38) 踩(0) | <div>黑麒首次巡演已经开票，朋友们现场见。3月26日 北京330金属音乐4月1日 深圳B10现场4月2日 广州SDlivehouse4月3日 上海育音堂4月4日 温州米房CEL4月6日 西安光圈Club4月7日MAOLivehouse昆明预售链接：<a href="https://youyanchu.com/musicians-18444/shows" target="_blank" rel="nofollow noreferrer noopener">https://youyanchu.com/musicians-18444/shows</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6594534)<br> <br>2016-03-10 17:37<br>赞(38) 踩(0) | <div>黑麒首次巡演已经开票，朋友们现场见。<br><br>3月26日 北京330金属音乐<br>4月1日 深圳B10现场<br>4月2日 广州SDlivehouse<br>4月3日 上海育音堂<br>4月4日 温州米房CEL<br>4月6日 西安光圈Club<br>4月7日MAOLivehouse昆明<br><br>预售链接：<a href="https://youyanchu.com/musicians-18444/shows" target="_blank" rel="nofollow noreferrer noopener">https://youyanchu.com/musicians-18444/shows</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3269814)<br>罄<br>2016-03-10 20:24<br>赞(0) 踩(0) | <div>哇 牛逼</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1065621)<br>无中生有<br>2016-03-11 09:17<br>赞(0) 踩(0) | <div>昆明站见</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50502993)<br>沉迷好听的音乐<br>2016-03-11 10:17<br>赞(0) 踩(0) | <div>羡慕可以去的QUQ加油www</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50502993)<br>沉迷好听的音乐<br>2016-03-11 10:17<br>赞(0) 踩(0) | <div>羡慕可以去的QUQ<br>加油www</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4219122)<br>Mortal Soul.<br>2016-03-11 12:26<br>赞(0) 踩(0) | <div><q><b>Juste Yang说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1065621)<br>无中生有<br>2016-03-11 12:37<br>赞(0) 踩(0) | <div><q><b>弥刈说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49424437)<br><br>2016-03-09 22:39<br>赞(3) 踩(0) | <div>哇好棒啊 来自一个民谣小清新的赞赏</div> |
@@ -484,7 +484,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31562178)<br>山东旋律死亡金属乐队<br>2015-12-02 03:14<br>赞(1) 踩(0) | <div>很棒 业内来说一流 有机会来济南演出！！[带墨镜笑]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46367396)<br> <br>2015-11-30 20:52<br>赞(2) 踩(0) | <div>我只想说，太TM牛逼了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46541325)<br>......<br>2015-11-26 12:25<br>赞(3) 踩(0) | <div>如果真的喜欢这只乐队，请支持实体专辑，不要只做下载狗</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1361543)<br><br>2015-11-26 09:44<br>赞(10) 踩(0) | <div>好的东西，价值一定要得到体现与回报，喜欢的东西，内心的赞必须要表达，但不应永远、仅仅如此……音乐速食年代，越来越觉得实体CD可贵，对我来说，即使今后不怎么听了，放着，你曾经的热血存在过！我们已不生在贫穷的年代，以实际行动支持国产好音乐，穷不死自己也富不了别人，力所能及，理所当然！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1361543)<br><br>2015-11-26 09:44<br>赞(10) 踩(0) | <div>好的东西，价值一定要得到体现与回报，喜欢的东西，内心的赞必须要表达，但不应永远、仅仅如此……<br>音乐速食年代，越来越觉得实体CD可贵，对我来说，即使今后不怎么听了，放着，你曾经的热血存在过！<br>我们已不生在贫穷的年代，以实际行动支持国产好音乐，穷不死自己也富不了别人，力所能及，理所当然！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40854930)<br>苦中作 乐<br>2015-11-22 19:23<br>赞(0) 踩(0) | <div>中国早就该出现这样的金属了。 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36865066)<br>脾气很好<br>2015-11-21 11:27<br>赞(1) 踩(0) | <div>买买买反正我不过双十一</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64608)<br>ZAO<br>2015-11-21 10:19<br>赞(1) 踩(0) | <div>穷穷穷 买买买 饿饿饿 ...</div> |
@@ -530,8 +530,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51706503)<br>黑金暗潮哥特，金属党。<br>2015-07-15 11:03<br>赞(0) 踩(0) | <div>厉害</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9435103)<br><br>2015-07-12 12:45<br>赞(0) 踩(0) | <div>！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8128176)<br>好好活着<br>2015-07-02 20:38<br>赞(0) 踩(0) | <div>沉醉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-06-13 09:31<br>赞(0) 踩(0) | <div>长春另类实验民谣旋死黑金91373,876,224</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-06-13 09:31<br>赞(0) 踩(0) | <div>长春另类实验民谣旋死黑金91373,876,224</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-06-13 09:31<br>赞(0) 踩(0) | <div>长春另类实验民谣旋死黑金<br>91373,876,224</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-06-13 09:31<br>赞(0) 踩(0) | <div>长春另类实验民谣旋死黑金<br>91373,876,224</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8220383)<br>现在体验点还有啥用？<br>2015-06-06 19:10<br>赞(0) 踩(0) | <div>妈呀真是神人一群，作为刚入黑金的新手大爱此风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44930943)<br><br>2015-05-29 09:54<br>赞(0) 踩(0) | <div>留爪 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12086837)<br>我们终于都变了<br>2015-05-24 02:58<br>赞(0) 踩(0) | <div>加油少年</div> |
@@ -542,7 +542,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27651148)<br> <br>2015-05-21 21:42<br>赞(1) 踩(0) | <div>牛逼！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8501522)<br>欲将心事付瑶琴<br>2015-05-21 20:42<br>赞(1) 踩(0) | <div>太棒了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21036733)<br><br>2015-04-30 20:38<br>赞(1) 踩(0) | <div>大气磅礴，国产极品</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759386)<br>终与俗别，一尘不染<br>2015-04-25 14:54<br>赞(2) 踩(0) | <div>彼岸和投名状一样好听，我有预感，京剧黑将来会成为新国粹！你们什么时候做个视频啊，让我们看看女旦惊艳全场。还有你们能不能偶尔来首哥金，女旦主唱老生配角，一定会。。呵呵不会说话了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759386)<br>终与俗别，一尘不染<br>2015-04-25 14:54<br>赞(2) 踩(0) | <div>彼岸和投名状一样好听，我有预感，京剧黑将来会成为新国粹！<br><br>你们什么时候做个视频啊，让我们看看女旦惊艳全场。<br><br>还有你们能不能偶尔来首哥金，女旦主唱老生配角，一定会。。呵呵不会说话了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6193601)<br>听点阳间的东西<br>2015-04-24 22:21<br>赞(16) 踩(0) | <div>叼炸   高中我还在撸管</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22015705)<br><br>2015-04-07 00:04<br>赞(3) 踩(0) | <div>沁园春·雪(伴奏)在播放到05：45的时候，本来应该是惜秦皇汉武，略输文采。念成了（惜秦皇汉武，略输风采）希望改正。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41727249)<br>暂无签名~<br>2015-04-03 09:26<br>赞(0) 踩(0) | <div>厉害</div> |
@@ -578,9 +578,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32526592)<br><br>2014-12-28 14:55<br>赞(0) 踩(0) | <div>大爱19</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6053083)<br>很不高兴为您服务<br>2014-12-28 12:52<br>赞(1) 踩(0) | <div>已入手box</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19350403)<br>啦啦啦啦啦<br>2014-12-23 14:32<br>赞(1) 踩(0) | <div>很棒的民乐+黑金+核</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6898357)<br><br>2014-12-21 21:59<br>赞(2) 踩(0) | <div>强赞，国风和金属融合的非常好，高三狗共勉别人的高三在吼黑腔……别人的高三……(ρ_・).。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6898357)<br><br>2014-12-21 21:59<br>赞(2) 踩(0) | <div>强赞，国风和金属融合的非常好，高三狗共勉<br>别人的高三在吼黑腔……别人的高三……(ρ_・).。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40590576)<br>poser<br>2014-12-20 15:35<br>赞(0) 踩(0) | <div>好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7187271)<br>Invoke(this)...<br>2014-12-15 13:39<br>赞(0) 踩(0) | <div><a href="http://www.metal-archives.com/bands/Black_Kirin/" target="_blank" rel="nofollow noreferrer noopener">http://www.metal-archives.com/bands/Black_Kirin/</a> MA已收录。【话说我才知道萨满老王也来参与过黑麒的混音=▽=</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7187271)<br>Invoke(this)...<br>2014-12-15 13:39<br>赞(0) 踩(0) | <div><a href="http://www.metal-archives.com/bands/Black_Kirin/" target="_blank" rel="nofollow noreferrer noopener">http://www.metal-archives.com/bands/Black_Kirin/</a> MA已收录。<br>【话说我才知道萨满老王也来参与过黑麒的混音=▽=</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3487489)<br>多想想<br>2014-12-12 11:22<br>赞(1) 踩(0) | <div>nice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7172511)<br><br>2014-12-11 22:51<br>赞(0) 踩(0) | <div>19太赞了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17228062)<br><br>2014-12-11 11:08<br>赞(0) 踩(0) | <div>球稀毛</div> |
@@ -651,17 +651,17 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4831940)<br>这家伙很懒，签名也没写<br>2014-08-22 19:14<br>赞(0) 踩(0) | <div><q><b>陈俊琪说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3269814)<br>罄<br>2014-11-21 17:24<br>赞(0) 踩(0) | <div><q><b>暗叉说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32625967)<br>暂无签名~<br>2014-07-24 10:53<br>赞(0) 踩(0) | <div>牛逼 什么时候出全长啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32552896)<br>暂无签名~<br>2014-07-18 14:53<br>赞(0) 踩(0) | <div>nbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnbnb</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32552896)<br>暂无签名~<br>2014-07-18 14:53<br>赞(0) 踩(0) | <div>nbnbnbnbnbnbnbnbnbnbnbnbnbnbnb<br>nbnbnbnbnb</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4998347)<br><br>2014-07-17 17:48<br>赞(0) 踩(0) | <div>膜拜 高三就这么NB</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3592527)<br><br>2014-07-06 15:14<br>赞(0) 踩(0) | <div>才高中就能够做出这么有见解的音乐，我很佩服 。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6985881)<br>请给我倒杯卡布奇诺<br>2014-07-05 20:56<br>赞(0) 踩(0) | <div>！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6780935)<br>黑夜里的一只小鬼<br>2014-07-03 18:34<br>赞(0) 踩(0) | <div>给你们赞一个，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8858091)<br><br>2014-06-21 13:51<br>赞(0) 踩(0) | <div>厉害厉害~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31568996)<br>暂无签名~<br>2014-06-12 22:17<br>赞(0) 踩(0) | <div>哥们厉害赞一个</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4319855)<br>when the sto...<br>2014-06-05 21:39<br>赞(0) 踩(0) | <div>高考加油23333投名状好听哭了，器乐版更佳</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4319855)<br>when the sto...<br>2014-06-05 21:39<br>赞(0) 踩(0) | <div>高考加油23333<br>投名状好听哭了，器乐版更佳</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/725191)<br><br>2014-06-05 16:43<br>赞(0) 踩(0) | <div>太赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4831940)<br>这家伙很懒，签名也没写<br>2014-06-02 16:48<br>赞(3) 踩(0) | <div>居然真有，真有高中就干到这地步金属党！身为同样热爱金属热爱作曲的高一狗，既羡慕又欣喜啊！这里高中干不起乐队啊哭。。祝高考顺利！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6130801)<br>……<br>2014-05-30 22:38<br>赞(1) 踩(0) | <div>曲子很有味道呢，下周高考也要加油哦〜高二我到底在干什么呢，几乎被学习累成狗了，都快放弃音乐了……学长真励志，我也会加油的。会一直关注。支持，努力做中国的摇滚。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6130801)<br>……<br>2014-05-30 22:38<br>赞(1) 踩(0) | <div>曲子很有味道呢，下周高考也要加油哦〜<br>高二我到底在干什么呢，几乎被学习累成狗了，都快放弃音乐了……学长真励志，我也会加油的。会一直关注。<br>支持，努力做中国的摇滚。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10534549)<br>嗯...<br>2014-05-29 23:30<br>赞(2) 踩(0) | <div>高三党的单人。。。真刁炸天了，还做得这么棒。只能说，学弟啊，你太牛逼了。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6145369)<br>我还没想好要写什么...<br>2014-05-29 17:04<br>赞(1) 踩(0) | <div>投名状和沁园春数码版什么时候有啊。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19606022)<br>唯美和风控<br>2014-05-25 10:07<br>赞(0) 踩(0) | <div>非常喜欢《故土》和《投名状》，绝赞！！</div> |
@@ -708,7 +708,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32443665)<br>Μελπομένη<br>2014-04-17 18:21<br>赞(0) 踩(0) | <div>高三党 现在毕业了！！？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6594534)<br> <br>2014-04-18 11:23<br>赞(0) 踩(0) | <div>没。。。准备高考了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32443665)<br>Μελπομένη<br>2014-04-18 19:36<br>赞(0) 踩(0) | <div><q><b>黑麒说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447058)<br>已迁移至网易云，祝好——...<br>2014-04-17 14:42<br>赞(1) 踩(0) | <div>果断高富帅 新logo跟录音都下了一番票票了一个很个人的小建议 编曲不要一味向着“爽”的方向走 也许会把国粹味盖过的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447058)<br>已迁移至网易云，祝好——...<br>2014-04-17 14:42<br>赞(1) 踩(0) | <div>果断高富帅 新logo跟录音都下了一番票票了<br><br>一个很个人的小建议 编曲不要一味向着“爽”的方向走 也许会把国粹味盖过的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6594534)<br> <br>2014-04-18 11:22<br>赞(0) 踩(0) | <div>感谢X凶的建议。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4219122)<br>Mortal Soul.<br>2014-04-16 17:38<br>赞(0) 踩(0) | <div>在微博上面看到的推荐，觉得有点意思。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8286923)<br>赛赛粉丝<br>2014-04-16 15:36<br>赞(0) 踩(0) | <div>很惊艳啊，旋律配器都很赞，很独特的感觉。</div> |
@@ -717,7 +717,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12161298)<br>天涯海角，有缘再见如果愿...<br>2014-04-11 19:21<br>赞(0) 踩(0) | <div>waooo...高三都已经签约了？高二苦战高考的伤不起？帅哥们是不是已经有自己的想法了。高三不高考吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2642512)<br> <br>2014-04-11 19:00<br>赞(1) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334816)<br>13号<br>2014-04-10 16:57<br>赞(0) 踩(0) | <div>鲜肉，三块钱两斤</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3967926)<br>因果造化 众生皆苦<br>2014-04-09 15:11<br>赞(0) 踩(0) | <div>国。。国。。国粹黑金。。。必！！！！！须！！！！！顶！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3967926)<br>因果造化 众生皆苦<br>2014-04-09 15:11<br>赞(0) 踩(0) | <div>国。。国。。国粹黑金。。。<br><br>必！！！！！<br>须！！！！！<br>顶！！！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6594534)<br> <br>2014-04-10 16:27<br>赞(0) 踩(0) | <div>感谢贵党前来支持！！！。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283461)<br>我还没想好要写什么...<br>2014-04-09 08:53<br>赞(0) 踩(0) | <div>支持~！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3269814)<br>罄<br>2014-04-08 21:14<br>赞(0) 踩(0) | <div>頑張れ</div> |
@@ -735,7 +735,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1549065)<br>不怀旧 不接受批评<br>2014-04-08 08:16<br>赞(0) 踩(0) | <div>期待 期待哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1957871)<br><br>2014-04-08 04:42<br>赞(0) 踩(0) | <div>加油加油录音把好关上一张作品不错就是录音声音小了点继续关注中</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6594534)<br> <br>2014-04-08 15:55<br>赞(0) 踩(0) | <div>恩。感谢您的意见。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/395246)<br>乐琴书以消忧<br>2014-04-08 01:34<br>赞(57) 踩(0) | <div>四月猛料将至数风流魔物，还看黑麒。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/395246)<br>乐琴书以消忧<br>2014-04-08 01:34<br>赞(57) 踩(0) | <div>四月猛料将至<br><br>数风流魔物，还看黑麒。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6594534)<br> <br>2014-04-08 15:54<br>赞(0) 踩(0) | <div>感谢支持哦！。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/654245)<br>不是知音者，难教爱此声。<br>2014-04-20 23:50<br>赞(0) 踩(0) | <div>一直还想着缺个国风戏曲金属啥的，没想到这边儿，京腔黑京片儿子已经火热上线了。哈哈哈哈可喜可贺可喜可贺啊~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1080627)<br>我还没想好要写什么...<br>2014-04-08 01:28<br>赞(1) 踩(0) | <div>支持中国黑金属音乐人！</div> |

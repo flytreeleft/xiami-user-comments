@@ -71,8 +71,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442032551)<br><br>2020-04-20 12:42<br>赞(0) 踩(0) | <div>&amp;hearts;️&amp;hearts;️&amp;hearts;️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339570760)<br> <br>2019-08-27 07:04<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220096672)<br><br>2019-07-17 23:06<br>赞(0) 踩(0) | <div>最痞的人唱最深的情歌</div> |
@@ -187,7 +187,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305394410)<br>No pains αnd...<br>2017-11-26 16:43<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10512123)<br>喜欢听歌die<br>2017-11-26 03:21<br>赞(0) 踩(0) | <div>表白perper</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332175160)<br> <br>2017-11-25 22:15<br>赞(0) 踩(0) | <div>你说我们还是好朋友，可还是想知道你怎么想的。你说先奔前程，我说你的意思是先好好学习别想这些，你说然后呢，我说还有然后，你说没啥，我想知道你的意思是什么。想到你把你的手放在我的脚上，帮我擦下了掉下的眼泪。我想那一刻我就认定你了。你先认真复习考研吧，先不打扰你。唉，真的是有缘无份。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245604271)<br><br>2017-11-25 20:53<br>赞(1) 踩(0) | <div>那天在KTV，我们两个人，他说要送我一首情歌。不对，我记错了。是我吃了一个超辣的鼻涕，换来的情歌。那么深情，那么认真。从那天开始单曲循环至今是啊，我离不开你了你却转身离开</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245604271)<br><br>2017-11-25 20:53<br>赞(1) 踩(0) | <div>那天在KTV，我们两个人，他说要送我一首情歌。<br>不对，我记错了。是我吃了一个超辣的鼻涕，换来的情歌。<br>那么深情，那么认真。<br>从那天开始单曲循环至今<br>是啊，我离不开你了<br>你却转身离开</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325983109)<br>我还没想好要写什么...<br>2017-11-24 00:42<br>赞(0) 踩(0) | <div>不錯不錯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233270001)<br> <br>2017-11-23 21:21<br>赞(0) 踩(0) | <div>喜欢山鸡哥 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335348898)<br><br>2017-11-22 21:47<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/91081ea0de8ee2c933524fb8574e76e5.png"></div> |
@@ -211,9 +211,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187253036)<br><br>2017-10-30 13:28<br>赞(1) 踩(0) | <div>暗恋他一年，后来终于在一起了。第一次去ktv，他很认真的牵着我的手唱的这首歌，他唱的很用心，唱完后对我说身边的不可以不是你。在一起三年，现在分开听到他唱过的歌还是会想到他，记得他说过，他再也遇不到这样的我，我也遇不到这样的他了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6737364)<br><br>2017-10-30 10:02<br>赞(0) 踩(0) | <div>“放不下一个人，那就是定下来的时候。急着把最奢侈的温柔，全部都交给你挥霍......赖著你,每一天,离不开你。再耽误多一秒都不愿意。我才发现,永远有多近,不要比我先闭上眼睛念著你，每一夜，离不开你。怎么能不把你捧在手心，爱经不起遗憾的事情，身边的不可以不是你！”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313272909)<br>我还没想好要写什么...<br>2017-10-30 00:00<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312299116)<br><br>2017-10-29 22:41<br>赞(0) 踩(0) | <div>赖著你　每一天　离不开你再耽误多一秒　都不愿意我才发现　永远有多近不要比我　先闭上眼睛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312299116)<br><br>2017-10-29 22:41<br>赞(0) 踩(0) | <div>赖著你　每一天　离不开你<br>再耽误多一秒　都不愿意<br>我才发现　永远有多近<br>不要比我　先闭上眼睛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14088310)<br><br>2017-10-28 00:30<br>赞(0) 踩(0) | <div>******</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17466)<br>不以物喜不以己悲<br>2017-10-28 00:00<br>赞(0) 踩(0) | <div>赖著你　每一天　离不开你再耽误多一秒　都不愿意我才发现　永远有多近不要比我　先闭上眼睛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17466)<br>不以物喜不以己悲<br>2017-10-28 00:00<br>赞(0) 踩(0) | <div>赖著你　每一天　离不开你<br>再耽误多一秒　都不愿意<br>我才发现　永远有多近<br>不要比我　先闭上眼睛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250848857)<br><br>2017-10-25 17:55<br>赞(0) 踩(0) | <div>我叫山，巴的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304638026)<br><br>2017-10-22 16:56<br>赞(0) 踩(0) | <div>和马天宇的，不知不觉的爱上你，一个音调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266879373)<br> <br>2017-10-22 05:32<br>赞(73) 踩(0) | <div>男朋友第一次唱给我听的歌，现在马上要晋升为老公了。还记得在一起一年零三个月，他偷偷攒钱给我买了我最喜欢牌子的手表。下了班第一件事就是赶回家给我做好吃的。每次逛街都是让我买买买，到了他自己就会说不喜欢，不需要。每次睡觉无论多累都会伸出手臂做我的枕头。我想他已经给了我最好的爱。</div> |
@@ -405,7 +405,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37158591)<br> <br>2015-01-03 13:47<br>赞(2) 踩(0) | <div>和女票异地恋，她在电话里唱过这首歌，听的时候在学校食堂哭成煞笔。还以为会永远呢。现在分手了～听着就(　◞‸◟ )</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20116073)<br><br>2015-03-11 00:16<br>赞(0) 踩(0) | <div>那叫前任好咩.时过境迁.心境都会变的.</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8864782)<br> <br>2015-04-12 21:26<br>赞(0) 踩(0) | <div><q><b>f86922067说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1972981)<br><br>2014-12-21 16:42<br>赞(0) 踩(0) | <div>没有谁是离不开的最多也就是不想离开而已，好几年没听这歌了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1972981)<br><br>2014-12-21 16:42<br>赞(0) 踩(0) | <div>没有谁是离不开的<br>最多也就是不想离开而已，好几年没听这歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2025750)<br><br>2014-12-14 22:34<br>赞(0) 踩(0) | <div>离不开，但还是离开了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44549958)<br> <br>2014-12-12 23:06<br>赞(0) 踩(0) | <div>挺好听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27407895)<br><br>2014-12-05 20:36<br>赞(0) 踩(0) | <div>等场的时候听到的歌，觉得蛮好听哒～</div> |
@@ -428,7 +428,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35242229)<br>微笑是好运气的开始<br>2014-04-12 13:03<br>赞(0) 踩(0) | <div>朋友在KTV唱的，突然发现很有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28682142)<br>暂无签名~<br>2014-03-31 21:06<br>赞(0) 踩(0) | <div>等不到车&amp;#039;又不想走路的时候&amp;#039;我会选择继续等下去...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15934067)<br><br>2014-03-24 14:43<br>赞(0) 踩(0) | <div>循环。因为喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15474157)<br>你是人间四月天~<br>2014-03-22 20:33<br>赞(0) 踩(0) | <div>那个夏天，把思念想念牵挂每天晚上的梦境全都给你了还有你在的那个城市晴天雨天月圆月缺有关你的一切都让自己或悲或喜思绪跟着快乐或者伤心曾经也会傻傻的以为自己在你心里也是一样的特别一样的离不开可惜到最后你还是以不辞而别的方式在我的世界永远的消失........让我清醒明白自己对你并非那么重要终于可以拖着疲惫的被拒绝的心离开终于可以让曾经一个个梦境破碎幻灭回到现实的世界来虽然再也不会有那样来自你的特别的快乐不会再有那么无止境的甜蜜的期待和等待也终究不会再有那样的挣扎和纠结和你相遇相知是一个惊喜还是一个错误我们终将渐行渐远~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15474157)<br>你是人间四月天~<br>2014-03-22 20:33<br>赞(0) 踩(0) | <div>那个夏天，<br>把思念想念牵挂每天晚上的梦境全都给你了<br>还有你在的那个城市<br>晴天雨天<br>月圆月缺<br>有关你的一切都让自己或悲或喜<br>思绪跟着快乐或者伤心<br>曾经也会傻傻的以为自己在你心里也是一样的特别一样的离不开<br>可惜到最后你还是以不辞而别的方式<br>在我的世界永远的消失<br>........<br>让我清醒明白自己对你并非那么重要<br>终于可以拖着疲惫的被拒绝的心离开<br>终于可以让曾经一个个梦境破碎幻灭<br>回到现实的世界来<br>虽然再也不会有那样来自你的特别的快乐<br>不会再有那么无止境的甜蜜的期待和等待<br>也终究不会再有那样的挣扎和纠结<br>和你相遇相知是一个惊喜还是一个错误<br>我们终将渐行渐远~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1952162)<br> <br>2014-06-24 12:57<br>赞(0) 踩(0) | <div>这是什么歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15474157)<br>你是人间四月天~<br>2014-06-24 13:23<br>赞(0) 踩(0) | <div><q><b>Manley说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1952162)<br> <br>2014-06-24 13:23<br>赞(0) 踩(0) | <div><q><b>积极的玉米说：</b></q></div> |
@@ -483,8 +483,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13870131)<br><br>2013-04-08 23:55<br>赞(0) 踩(0) | <div>forever</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12119163)<br> <br>2013-03-17 23:37<br>赞(0) 踩(0) | <div>喜欢喜欢好喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7386852)<br><br>2013-03-17 16:26<br>赞(0) 踩(0) | <div>@vincent棟棟</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/556312)<br> <br>2013-03-11 21:44<br>赞(0) 踩(0) | <div>放不下，一个人，那就是定下来的时候。急着把最奢侈的温柔，全部都交给你挥霍。赖着你每一天离不开，再耽误多一秒都不愿意。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/556312)<br> <br>2013-03-11 21:35<br>赞(0) 踩(0) | <div>放不下，一个人，那就是定下来的时候。急着把最奢侈的温柔，全部都交给你挥霍。赖着你每一天离不开，再耽误多一秒都不愿意。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/556312)<br> <br>2013-03-11 21:44<br>赞(0) 踩(0) | <div>放不下，一个人，那就是定下来的时候。<br>急着把最奢侈的温柔，全部都交给你挥霍。<br>赖着你每一天离不开，再耽误多一秒都不愿意。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/556312)<br> <br>2013-03-11 21:35<br>赞(0) 踩(0) | <div>放不下，一个人，那就是定下来的时候。<br>急着把最奢侈的温柔，全部都交给你挥霍。<br>赖着你每一天离不开，再耽误多一秒都不愿意。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3664254)<br>看我的唐诗剑法<br>2013-03-05 10:48<br>赞(0) 踩(0) | <div>还以为是黄绮珊的离不开你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12511460)<br>小虾<br>2013-02-14 16:56<br>赞(0) 踩(0) | <div>@孬孬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1024658)<br><br>2013-01-31 19:46<br>赞(0) 踩(0) | <div>这歌怎么能这么好听呢？？？？</div> |
@@ -493,7 +493,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8084035)<br><br>2013-01-17 01:00<br>赞(0) 踩(0) | <div>深夜，戴上耳机静静听着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8084035)<br><br>2013-01-17 00:54<br>赞(0) 踩(0) | <div>深夜 戴上耳机静静听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2872860)<br><br>2013-01-08 22:33<br>赞(0) 踩(0) | <div>唱什么歌都苦。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1944735)<br>come on<br>2012-12-17 08:03<br>赞(0) 踩(0) | <div>赖着你 每一天 离不开你  再耽误多一秒 都不愿意……现在有没有这样的感觉了呢？嘿嘿，不过不像歌词说的，我希望你晚上比我先闭上眼睛，早上比我晚睁开眼睛，这样就可以看着你，静静地！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1944735)<br>come on<br>2012-12-17 08:03<br>赞(0) 踩(0) | <div>赖着你 每一天 离不开你  再耽误多一秒 都不愿意……<br>现在有没有这样的感觉了呢？嘿嘿，不过不像歌词说的，我希望你晚上比我先闭上眼睛，早上比我晚睁开眼睛，这样就可以看着你，静静地！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1982783)<br><br>2012-11-30 16:27<br>赞(0) 踩(0) | <div>离不开你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7685017)<br><br>2012-11-17 21:58<br>赞(0) 踩(0) | <div>“身边的 不可以 不是你”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4135853)<br>傻子<br>2012-11-03 22:24<br>赞(0) 踩(0) | <div>最近靠这首歌来温暖我的少女心。╮(╯_╰)╭</div> |
@@ -510,7 +510,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3694378)<br>天神村的前端攻城湿一枚<br>2012-05-28 21:38<br>赞(0) 踩(0) | <div>for my future wife</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8914033)<br>戴了面具的假王子<br>2012-05-17 07:01<br>赞(0) 踩(0) | <div>放不下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3645079)<br> <br>2012-05-14 11:18<br>赞(0) 踩(0) | <div>很是深情哦~副歌大赞~虽然是04年的专辑了，好男人啊~喵~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7587073)<br><br>2012-05-10 13:42<br>赞(0) 踩(0) | <div>赖著你 每一天 离不开你再耽误多一秒 都不愿意</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7587073)<br><br>2012-05-10 13:42<br>赞(0) 踩(0) | <div>赖著你 每一天 离不开你<br>再耽误多一秒 都不愿意</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8971412)<br><br>2012-04-26 18:43<br>赞(0) 踩(0) | <div>挺好听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8971412)<br><br>2012-04-26 18:35<br>赞(0) 踩(0) | <div>想着你恋着你离不开你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8951401)<br><br>2012-04-23 20:21<br>赞(0) 踩(0) | <div>每天哼唧的歌我们是不是有点太腻了呢</div> |
@@ -531,11 +531,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4931989)<br><br>2011-10-19 15:20<br>赞(0) 踩(0) | <div>这首歌,算不算甜蜜的歌?沉默了很久了................</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5900351)<br><br>2011-10-10 21:57<br>赞(0) 踩(0) | <div>因为某人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6026483)<br><br>2011-09-29 02:15<br>赞(0) 踩(0) | <div>听了就知道 ..</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1596131)<br>暂无签名~<br>2011-09-25 01:08<br>赞(0) 踩(0) | <div>赖著你　每一天　离不开你再耽误多一秒　都不愿意</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1596131)<br>暂无签名~<br>2011-09-25 01:08<br>赞(0) 踩(0) | <div>赖著你　每一天　离不开你<br>再耽误多一秒　都不愿意</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4903834)<br>妳為什麼還不成親…？？？<br>2011-08-24 21:45<br>赞(0) 踩(0) | <div>记得我们两个人去KTV~~我就唱了这首歌~~我想你了~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1362387)<br><br>2011-08-21 19:24<br>赞(0) 踩(0) | <div>!!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4462726)<br>〔り丶痛而不言 笑而不语<br>2011-07-11 11:52<br>赞(0) 踩(0) | <div>要去学　那么多的心痛才会懂　该对谁执著</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4383209)<br>宁缺毋滥<br>2011-06-24 09:25<br>赞(0) 踩(0) | <div>(⊙v⊙)嗯~~爱的人在身边就要好好珍惜~~不要失去再后悔(⊙o⊙)哦~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4462726)<br>〔り丶痛而不言 笑而不语<br>2011-07-11 11:52<br>赞(0) 踩(0) | <div>要去学　那么多的心痛<br>才会懂　该对谁执著</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4383209)<br>宁缺毋滥<br>2011-06-24 09:25<br>赞(0) 踩(0) | <div>(⊙v⊙)嗯~~爱的人在身边就要好好珍惜~~<br>不要失去再后悔(⊙o⊙)哦~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4325084)<br><br>2011-06-17 20:07<br>赞(0) 踩(0) | <div>喜欢小春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2834175)<br><br>2011-06-08 10:13<br>赞(0) 踩(0) | <div>最近超爱~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3861710)<br>爱生活爱音乐<br>2011-06-06 18:52<br>赞(0) 踩(0) | <div>爱情经不起遗憾的事情~请珍惜彼此</div> |

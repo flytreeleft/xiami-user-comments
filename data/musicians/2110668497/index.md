@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>刘志鹏（音乐作曲人）](https://i.xiami.com/lzp) | **播放数**: 1283694<br>**粉丝数**: 45<br>**评论数**: 1<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 网络流行 Cyber Hit, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>刘志鹏（音乐作曲人）](https://i.xiami.com/lzp) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 网络流行 Cyber Hit, 国语流行 Mandarin Pop<br>**播放数**: 1283694<br>**粉丝数**: 45<br>**评论数**: 1<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -30,6 +27,6 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5974696)<br>个性潜力智慧 @毛娟_8...<br>2019-11-14 15:37<br>赞(1) 踩(0) | <div></div> |

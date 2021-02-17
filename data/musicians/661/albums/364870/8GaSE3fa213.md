@@ -42,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430702232)<br><br>2021-02-03 08:08<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445940942)<br><br>2020-11-13 21:30<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277597610)<br>射手座:海阔凭魚跃，天高...<br>2020-11-05 10:33<br>赞(0) 踩(0) | <div>开元盛世唐朝象征大明宫(3.2平方公里)，可比现在的明、清故宫博物院(0.72平方公里)大多了。</div> |
@@ -52,12 +52,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410256864)<br><br>2020-09-26 20:36<br>赞(0) 踩(0) | <div>第一次听到是b站up主布舞沾雨剪辑的鹤唳华亭，太悲伤了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40767628)<br>我还没想好要写什么...<br>2020-09-12 23:34<br>赞(0) 踩(0) | <div>有点繁华落尽，物是人非的感觉，眼泪几许</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423499985)<br><br>2020-08-21 20:38<br>赞(2) 踩(0) | <div>有机会去看记录片大明宫，音乐精良</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355946377)<br>音乐是灵魂的语言，不在五...<br>2020-08-16 15:06<br>赞(2) 踩(0) | <div>其实，亲情和爱情都是很残忍的。相聚的时候，把酒言欢，你侬我侬。那欢乐会被过份渲染。殊不知转身离开，一别两宽，那欢聚的场面成了站台上无数次回眸与梦靥中的无数次疼痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355946377)<br>音乐是灵魂的语言，不在五...<br>2020-08-16 15:06<br>赞(2) 踩(0) | <div>其实，亲情和爱情都是很残忍的。<br>相聚的时候，把酒言欢，你侬我侬。那欢乐会被过份渲染。殊不知转身离开，一别两宽，那欢聚的场面成了站台上无数次回眸与梦靥中的无数次疼痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/180986304)<br>暴风雨使我安睡<br>2020-08-08 12:23<br>赞(0) 踩(0) | <div>今天来大明宫遗址公园 手机播放这首歌 沧桑历史 感慨万千</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14640854)<br>音乐是给自己耳朵听的思想<br>2020-07-10 01:55<br>赞(1) 踩(0) | <div>人心的潮水 需认真倾听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3898255)<br>暂无签名~<br>2020-07-02 01:01<br>赞(0) 踩(0) | <div>喜欢，喜欢的不得了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41221884)<br>夫唯不争故天下莫能与之争<br>2020-06-13 22:21<br>赞(1) 踩(0) | <div>忆昔先皇巡朔方，千乘万骑入咸阳。阴山骄子汗血马，长驱东胡胡走藏。邺城反覆不足怪，关中小儿坏纪纲。张后不乐上为忙，至令今上犹拨乱，劳心焦思补四方。我昔近侍叨奉引，出兵整肃不可当。为留猛士守未央，致使岐雍防西羌。犬戎直来坐御床，百官跣足随天王。愿见北地傅介子，老儒不用尚书郎。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41221884)<br>夫唯不争故天下莫能与之争<br>2020-06-13 22:21<br>赞(0) 踩(0) | <div>忆昔开元全盛日，小邑犹藏万家室。稻米流脂粟米白，公私仓廪俱丰实。九州道路无豺虎，远行不劳吉日出。齐纨鲁缟车班班，男耕女桑不相失。宫中圣人奏云门，天下朋友皆胶漆。百馀年间未灾变，叔孙礼乐萧何律。岂闻一绢直万钱，有田种谷今流血。洛阳宫殿烧焚尽，宗庙新除狐兔穴。伤心不忍问耆旧，复恐初从乱离说。小臣鲁钝无所能，朝廷记识蒙禄秩。周宣中兴望我皇，洒泪江汉身衰疾。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41221884)<br>夫唯不争故天下莫能与之争<br>2020-06-13 22:21<br>赞(1) 踩(0) | <div>忆昔先皇巡朔方，千乘万骑入咸阳。<br>阴山骄子汗血马，长驱东胡胡走藏。<br>邺城反覆不足怪，关中小儿坏纪纲。<br>张后不乐上为忙，至令今上犹拨乱，劳心焦思补四方。<br>我昔近侍叨奉引，出兵整肃不可当。<br>为留猛士守未央，致使岐雍防西羌。<br>犬戎直来坐御床，百官跣足随天王。<br>愿见北地傅介子，老儒不用尚书郎。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41221884)<br>夫唯不争故天下莫能与之争<br>2020-06-13 22:21<br>赞(0) 踩(0) | <div>忆昔开元全盛日，小邑犹藏万家室。<br>稻米流脂粟米白，公私仓廪俱丰实。<br>九州道路无豺虎，远行不劳吉日出。<br>齐纨鲁缟车班班，男耕女桑不相失。<br>宫中圣人奏云门，天下朋友皆胶漆。<br>百馀年间未灾变，叔孙礼乐萧何律。<br>岂闻一绢直万钱，有田种谷今流血。<br>洛阳宫殿烧焚尽，宗庙新除狐兔穴。<br>伤心不忍问耆旧，复恐初从乱离说。<br>小臣鲁钝无所能，朝廷记识蒙禄秩。<br>周宣中兴望我皇，洒泪江汉身衰疾。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110589356)<br>我还没想好要写什么...<br>2020-05-08 09:00<br>赞(2) 踩(0) | <div>梦回大唐，大唐是多少中国人心中遥远的梦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3762254)<br><br>2020-04-26 11:07<br>赞(3) 踩(0) | <div>开头的琵琶音一出来，就有种繁华落尽如流水，似水年华不复来的无奈之感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1482433)<br><br>2020-04-11 18:13<br>赞(2) 踩(0) | <div>前奏一出，热泪盈眶</div> |
@@ -88,7 +88,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56626132)<br><br>2019-12-06 22:22<br>赞(2) 踩(0) | <div>超级喜欢这首歌和《大明宫》这部纪录片。每次听到“人生太短暂”时就快要哭了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378141390)<br>宋・刘铉《乌夜啼・石榴》...<br>2020-03-15 20:50<br>赞(0) 踩(0) | <div>无比惆怅&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248957384)<br><br>2019-11-13 19:27<br>赞(2) 踩(0) | <div>求纯音乐版</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206078382)<br>音乐  是心灵深处缓缓流...<br>2019-10-27 20:29<br>赞(1) 踩(0) | <div>昨日辉煌今在何方耀眼光芒无尽惆怅萦绕着每颗心梦回大唐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206078382)<br>音乐  是心灵深处缓缓流...<br>2019-10-27 20:29<br>赞(1) 踩(0) | <div>昨日辉煌<br>今在何方<br>耀眼光芒<br>无尽惆怅<br>萦绕着每颗心<br>梦回大唐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400895317)<br><br>2019-10-14 21:28<br>赞(1) 踩(0) | <div>满满的画面感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9681029)<br> <br>2019-08-24 17:40<br>赞(2) 踩(0) | <div>看了纪录片 对这歌词才是真正理解</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6216135)<br><br>2019-07-20 05:49<br>赞(4) 踩(0) | <div>陕西人民风质朴，不歧视外地人。最主要的是孩子在那遇上了他的恩师。 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
@@ -118,7 +118,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342684573)<br>I own my lif...<br>2021-01-15 21:56<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246573200)<br>活得像个人样<br>2021-02-03 19:43<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343365031)<br>倾听别人的声音<br>2019-03-26 17:53<br>赞(2) 踩(0) | <div>好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79556218)<br>如云如山如海，自然自由自...<br>2019-03-21 16:21<br>赞(5) 踩(0) | <div>金碧輝煌羽衣霓裳人間天上唯你無雙耀眼光芒無盡惆悵縈繞著每顆心夢回大唐…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79556218)<br>如云如山如海，自然自由自...<br>2019-03-21 16:21<br>赞(5) 踩(0) | <div>金碧輝煌<br>羽衣霓裳<br>人間天上<br>唯你無雙<br>耀眼光芒<br>無盡惆悵<br>縈繞著每顆心<br>夢回大唐…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336830736)<br>三个包下飞机热点板块<br>2019-03-16 09:01<br>赞(3) 踩(0) | <div>老歌手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40376508)<br> <br>2019-03-13 21:18<br>赞(2) 踩(0) | <div>薛怀义，两张。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318517069)<br><br>2019-03-11 09:55<br>赞(3) 踩(0) | <div>我们悼念的盛世太平，渴望前辈的荣光重现</div> |
@@ -127,7 +127,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274230446)<br>杨胜华<br>2019-02-23 13:04<br>赞(1) 踩(0) | <div>歌词呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409112559)<br>人悄悄，帘外月胧明<br>2019-02-11 14:16<br>赞(4) 踩(0) | <div>才闻欢笑又见泪光 <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358377007)<br>虾米再见❤️❤️❤️<br>2019-02-02 23:27<br>赞(34) 踩(0) | <div>感时花溅泪，恨别鸟惊心 <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368363706)<br><br>2019-01-29 19:44<br>赞(6) 踩(0) | <div>《望仙门》月明难解忆长安，夜阑珊，残星点点尽萧然，九州寒。怀古蠡湖畔，人生若梦惘然，暖阳初照水波澜，水波澜，遥望叹空船。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368363706)<br><br>2019-01-29 19:44<br>赞(6) 踩(0) | <div>《望仙门》<br>月明难解忆长安，夜阑珊，残星点点尽萧然，九州寒。<br>怀古蠡湖畔，人生若梦惘然，暖阳初照水波澜，水波澜，遥望叹空船。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32774669)<br>我陷在茅坑里，看你菊花出...<br>2019-01-17 23:00<br>赞(6) 踩(0) | <div>前奏真的是好听哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1224304)<br>Wooop<br>2019-01-15 12:12<br>赞(1) 踩(0) | <div>作曲是程池吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255720780)<br><br>2018-12-02 12:10<br>赞(2) 踩(0) | <div>做穿越片最适合，尤其是穿越的爱情片</div> |
@@ -202,7 +202,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346025470)<br><br>2018-02-20 16:34<br>赞(0) 踩(0) | <div>上周去的庞贝古城，走在千年前的街巷，看着哪里的一草一木一街一屋，心里哼的就是这首歌，让人感慨万千。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10089084)<br>音乐，心理，写作，动漫，...<br>2018-02-12 16:18<br>赞(1) 踩(0) | <div>很棒的歌，有点想听毛阿敏这位大前辈唱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293011094)<br> <br>2018-02-08 01:57<br>赞(10) 踩(0) | <div>开车时候，AI播出来这首歌，在异国他乡的道路上，我泪湿了眼. 无论是汉是唐，是古是今，中国都是我独一无二无可取代的家.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273595346)<br><br>2018-02-05 10:12<br>赞(2) 踩(0) | <div>与城市只一路之隔，却恍如隔世千年。昔日繁华落尽，只剩今日断壁残垣。时间蔓延经千年，万世风雨终成烟，人生太短暂，怎守江山。我站在昔日的大明宫，看风云变幻，任由残砖碎瓦，铭刻岁月变迁。念往昔金碧辉煌，叹朝代兴衰轮转，无尽惆怅。多想长生不老，再看江山，天上人间。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273595346)<br><br>2018-02-05 10:12<br>赞(2) 踩(0) | <div>与城市只一路之隔，却恍如隔世千年。昔日繁华落尽，只剩今日断壁残垣。时间蔓延经千年，万世风雨终成烟，人生太短暂，怎守江山。<br>我站在昔日的大明宫，看风云变幻，任由残砖碎瓦，铭刻岁月变迁。念往昔金碧辉煌，叹朝代兴衰轮转，无尽惆怅。多想长生不老，再看江山，天上人间。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268872962)<br><br>2018-01-25 20:21<br>赞(98) 踩(0) | <div>不管喜不喜欢历史，希望大家看看大明宫的纪录片，对我们国家历史上这个王朝的兴衰的讲解真的很感慨。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355093557)<br><br>2018-03-20 17:49<br>赞(0) 踩(0) | <div>卿所言甚是！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122346740)<br>虾米，，，不好<br>2018-04-14 05:28<br>赞(0) 踩(0) | <div>看完大明宫，再推荐看一看，100级纪录片（中国通史）史诗感强，背景音乐感伤。</div> |
@@ -245,7 +245,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126686468)<br><br>2017-10-07 16:55<br>赞(0) 踩(0) | <div>l</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1277606)<br>鸿雁相烦，眉间心上玉簟寒<br>2017-10-03 23:13<br>赞(7) 踩(0) | <div>进而仰之，骞龙首而张凤翼；退而瞻之，岌树颠而崒云末。嶷兮峨峨，巨鳌戴仙山而出沧波；划兮煌煌，烛龙折穹穴而临北方。排层城而廓帝居，豁阊阖而面苍苍。左翔鸾而右栖凤，翘两阙而为翼；环阿阁以周墀，象龙行之曲直。夹双壶之鸿洞，启重闺之呀；趋堂涂而未半，望宸居而累息。惟上圣之钦明，爰听政而布德；去雕几与金玉，绌汉京之文饰。炽丹雘于崚嶒，抗重霄而竞色。若乃紫微晨曀，彤墀夜明；云薄万栱，风交四荣。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279698588)<br>我还没想好要写什么...<br>2017-10-03 18:48<br>赞(1) 踩(0) | <div>大气磅礴又悲壮的作曲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293926713)<br>虾米不要走好不好<br>2017-09-24 23:43<br>赞(7) 踩(0) | <div>残垣断壁芳草萋，长安不似旧相识渔歌唱晚又三更，何人梦回大唐时?</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293926713)<br>虾米不要走好不好<br>2017-09-24 23:43<br>赞(7) 踩(0) | <div>残垣断壁芳草萋，长安不似旧相识<br>渔歌唱晚又三更，何人梦回大唐时?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36939968)<br>我还没想好要写什么...<br>2017-09-24 11:53<br>赞(3) 踩(0) | <div>多想长生不老，再看江山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280431886)<br> <br>2017-09-22 03:34<br>赞(1) 踩(0) | <div>梦回大唐，《今夜无人入眠》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273995028)<br><br>2017-09-22 00:51<br>赞(1) 踩(0) | <div>有一种，一个长生的人，或者一个神，看着个个朝代，拼切融入其中，看着个个故人都离去了，所以的悲观离合，战争过去，见证了中华民族的今天</div> |
@@ -255,7 +255,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325399738)<br><br>2017-09-16 23:36<br>赞(2) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197500002)<br>不  如  不  见<br>2017-09-16 13:43<br>赞(1) 踩(0) | <div>往事风云尘风扬，宫阙残垣诉过往！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321948704)<br><br>2017-09-15 12:59<br>赞(1) 踩(0) | <div>有没有人和我一样是因为喜欢这个歌手进来的？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/161619578)<br><br>2017-09-13 17:53<br>赞(52) 踩(0) | <div>&amp;ldquo;在中华民族的历史长河中，没有一个朝代能够像大唐那样，留给中国人无尽的想象；没有一座城市像长安那样，铭刻着中国人最为绚烂的记忆；没有一座宫殿像大明宫那样，寄托着中国人永远的向往。&amp;rdquo;------六集大型纪录片《大明宫》配乐中琵琶的碎心揉弦，与大唐魂牵梦绕，从恢弘壮阔到过眼云烟，一切只是繁华如梦。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/161619578)<br><br>2017-09-13 17:53<br>赞(52) 踩(0) | <div>&amp;ldquo;在中华民族的历史长河中，没有一个朝代能够像大唐那样，留给中国人无尽的想象；没有一座城市像长安那样，铭刻着中国人最为绚烂的记忆；没有一座宫殿像大明宫那样，寄托着中国人永远的向往。&amp;rdquo;------六集大型纪录片《大明宫》<br>配乐中琵琶的碎心揉弦，与大唐魂牵梦绕，从恢弘壮阔到过眼云烟，一切只是繁华如梦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9017172)<br>我还没想好要写什么...<br>2017-09-03 19:50<br>赞(3) 踩(0) | <div>我朝一代一代不烧前朝宫殿 那现在得有多少瑰宝 人类文化遗产？别人珍视的那几个宫殿不过中华之一粟 大海之一隅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17813822)<br><br>2017-08-20 23:00<br>赞(17) 踩(0) | <div>听到这首曲子，我居然头一个没想到唐朝，而是想起了北洋，想起了李鸿章，想起了甲午战争，战败后李鸿章签署战败协议后那种奚落的身影与落寞与悲苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296239771)<br><br>2017-08-13 06:44<br>赞(232) 踩(0) | <div>******</div> |
@@ -276,7 +276,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251456355)<br><br>2017-07-11 16:31<br>赞(0) 踩(0) | <div><q><b>许森杰 夜深说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4095473)<br>我还没想好要写什么...<br>2017-06-12 10:14<br>赞(0) 踩(0) | <div>纪录片每次片尾都不错过，都要哭一把QAQ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126111184)<br><br>2017-06-05 06:53<br>赞(0) 踩(0) | <div>啊啊啊啊啊感动一切只在不言中</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/541496)<br><br>2017-05-07 00:21<br>赞(3) 踩(0) | <div>看过大气悲壮的纪录片，片尾曲一出啊心肝都给揉碎了。才闻欢笑，又见泪光。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/541496)<br><br>2017-05-07 00:21<br>赞(3) 踩(0) | <div>看过大气悲壮的纪录片，片尾曲一出啊心肝都给揉碎了。<br>才闻欢笑，又见泪光。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56626132)<br><br>2017-04-18 09:51<br>赞(0) 踩(0) | <div>人生太短暂让人好伤感。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289477455)<br><br>2017-04-17 20:09<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41356296)<br><br>2017-04-09 23:22<br>赞(0) 踩(0) | <div>还有个版本 是 大明1644</div> |
@@ -297,9 +297,9 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293899777)<br><br>2018-11-24 23:36<br>赞(0) 踩(0) | <div>我也是在那儿听到的，醉了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412825524)<br>我还没想好要写什么...<br>2019-01-23 23:31<br>赞(0) 踩(0) | <div>看完金铁木的大明宫，微信随手搜了下大明宫，跳转到这首歌，看到你的评论，瞬间被你的评论感动。忽然对有这样的评论的你有强烈的想认识的冲动……可是，已经一年了！你还看得到吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355756880)<br>我还没想好要写什么...<br>2019-10-19 14:38<br>赞(0) 踩(0) | <div><q><b>漏漏说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1174233)<br><br>2017-02-24 20:21<br>赞(0) 踩(0) | <div>#元宝日记#day34 和小元宝一起享受这片刻安宁&amp;hellip; 顺带培养一下这娃的音乐细胞呃～可她老人家居然睡着了&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1174233)<br><br>2017-02-24 20:21<br>赞(0) 踩(0) | <div>#元宝日记#day34 和小元宝一起享受这片刻安宁&amp;hellip; 顺带培养一下这娃的音乐细胞<br>呃～<br>可她老人家居然睡着了&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4736706)<br>君子不隐其短，不知则问，...<br>2017-02-21 19:29<br>赞(3) 踩(0) | <div>万代千年，岁月走不完，朝代轮转。当是此歌的典言。不论千秋纵横、惊世功名，雄于东方，都抵不过这滔滔历史长河的冲刷。到头来这一切，不过是一小捧最平常的尘土砂石罢了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101337)<br><br>2017-02-17 09:39<br>赞(1) 踩(0) | <div>亭台宫阙 都成残垣繁华落尽 王侯长眠</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101337)<br><br>2017-02-17 09:39<br>赞(1) 踩(0) | <div>亭台宫阙 都成残垣<br>繁华落尽 王侯长眠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268792578)<br><br>2017-02-15 14:11<br>赞(7) 踩(0) | <div>用《大明宫》打开《大唐荣耀》</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4313596)<br>このままでいい<br>2017-02-19 01:12<br>赞(0) 踩(0) | <div>我也是！！刚好前几天看伊吹的微博安利《大明宫》最近又看《大唐荣耀》特别感慨！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106931)<br><br>2017-02-12 21:16<br>赞(26) 踩(0) | <div>有时看看一些历史书籍或纪录片，总有挥之不去的沧桑厚重及通透之感。</div> |
@@ -323,11 +323,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128524044)<br><br>2016-12-07 11:42<br>赞(2) 踩(0) | <div>刘可真是人才</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3556002)<br>wubba lubba<br>2016-12-03 15:13<br>赞(1) 踩(0) | <div>中国纪录片应该有的样子。应该有的配乐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46373035)<br><br>2016-11-15 21:41<br>赞(2) 踩(0) | <div>片子因片尾曲而升华。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92047818)<br> <br>2016-11-08 18:47<br>赞(2) 踩(0) | <div>每个人的唐每个人的大明宫</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92047818)<br> <br>2016-11-08 18:47<br>赞(2) 踩(0) | <div>每个人的唐<br>每个人的大明宫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8378912)<br> <br>2016-11-04 15:50<br>赞(2) 踩(0) | <div>大明宫要重建了！2029年完工！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3407045)<br>小虾米，请你不要走，再陪...<br>2016-12-23 00:20<br>赞(0) 踩(0) | <div>劳民伤财 工艺根本不一样了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13774744)<br> <br>2017-11-10 19:47<br>赞(0) 踩(0) | <div>性质味道都变了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92566884)<br>神說要有光<br>2016-11-01 18:33<br>赞(1) 踩(0) | <div>大明宮，大唐的皇宮！聽到這一句旁白的那一刻，淚如雨下。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92566884)<br>神說要有光<br>2016-11-01 18:33<br>赞(1) 踩(0) | <div>大明宮，大唐的皇宮！<br>聽到這一句旁白的那一刻，淚如雨下。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18665150)<br>音乐系统正在进行自我升级...<br>2016-10-18 16:09<br>赞(0) 踩(0) | <div>(๑ १д१)&lt;好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36043573)<br><br>2016-09-29 21:11<br>赞(3) 踩(0) | <div>看完纪录片过来，中国加油！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/162633)<br><br>2016-09-13 11:27<br>赞(0) 踩(0) | <div>重温！</div> |
@@ -410,7 +410,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18233583)<br>带着平凡的梦，走出不凡的...<br>2015-11-10 14:31<br>赞(1) 踩(0) | <div>人生处处现相遇，不早亦非晚，当下此刻便正好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6037849)<br> <br>2015-11-09 00:05<br>赞(0) 踩(0) | <div>我思我想，亦歌亦狂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47607179)<br> <br>2015-11-02 18:49<br>赞(1) 踩(0) | <div>听到流下眼泪，大唐盛世啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7033790)<br>好音乐，好心情<br>2015-11-02 13:22<br>赞(23) 踩(0) | <div>我曾经在海边彻夜静候过日出。漫长的等待中，我躺着看头顶上满天繁星。海边因为远离城市，没有灯光的污染，星空就特别的迷人和璀璨。夜黑如墨，星星似乎离你很近，仿佛伸手就能触及。我看着每一颗星星，想着也许世上每一个逝去的人，最终都成为了苍穹中的一颗星。夜幕下，我仰望着他们，他们也俯瞰着我。耳边声声不息的潮水，如同他们轻声地低语，告诉我每一颗星星背后的每一个故事。那盛世大唐的夜晚，想必定是那繁星满夜空吧！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7033790)<br>好音乐，好心情<br>2015-11-02 13:22<br>赞(23) 踩(0) | <div>我曾经在海边彻夜静候过日出。漫长的等待中，我躺着看头顶上满天繁星。海边因为远离城市，没有灯光的污染，星空就特别的迷人和璀璨。夜黑如墨，星星似乎离你很近，仿佛伸手就能触及。我看着每一颗星星，想着也许世上每一个逝去的人，最终都成为了苍穹中的一颗星。夜幕下，我仰望着他们，他们也俯瞰着我。耳边声声不息的潮水，如同他们轻声地低语，告诉我每一颗星星背后的每一个故事。<br><br>那盛世大唐的夜晚，想必定是那繁星满夜空吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3407045)<br>小虾米，请你不要走，再陪...<br>2015-11-01 09:46<br>赞(4) 踩(0) | <div>纪录片《大明宫》的片尾曲，前奏碉堡！剧中有词曲的纯音乐版，可惜找不到！伟大的大明宫被毁，听来不免让人扼腕叹息</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9327912)<br> <br>2015-10-27 19:53<br>赞(4) 踩(0) | <div>除去人的声音，这就是天籁。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6404359)<br> <br>2015-10-25 22:22<br>赞(1) 踩(0) | <div>当时只道是寻常。</div> |
@@ -451,13 +451,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13035302)<br><br>2015-07-01 11:26<br>赞(0) 踩(0) | <div>大明宫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5496928)<br>世人谓我恋长安，其实只恋...<br>2015-06-06 01:39<br>赞(0) 踩(0) | <div>檐前无声数红豆。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5496928)<br>世人谓我恋长安，其实只恋...<br>2015-06-06 01:37<br>赞(4) 踩(0) | <div>入耳闭眼 眼前即是 长雪覆地，千树梨花。一人青衫，临风长萧。今古多变数，游人几离散。明年新叶又满头，</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10148118)<br><br>2015-10-08 10:38<br>赞(0) 踩(0) | <div>买书你也喜欢？</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10148118)<br><br>2015-10-08 10:38<br>赞(0) 踩(0) | <div>买书<br>你也喜欢？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20122664)<br>暂无签名~<br>2015-10-09 22:35<br>赞(0) 踩(0) | <div><q><b>战警说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34335445)<br><br>2015-06-05 08:48<br>赞(1) 踩(0) | <div>才闻欢笑，又见泪光</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35411291)<br>情不知所起  一往情深<br>2015-05-29 23:00<br>赞(4) 踩(0) | <div>前世风雨后世尘烟亭台宫阙都成残垣繁华落尽王侯长眠谁的功过万世流传时间蔓延万代千年人生太短暂怎守江山我站在人间看风云变幻任由残砖碎瓦铭刻变迁岁月流淌历尽沧桑昨日辉煌今在何方我思我想亦歌亦狂才闻欢笑又见泪光时间蔓延万代千年岁月走不完</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35411291)<br>情不知所起  一往情深<br>2015-05-29 23:00<br>赞(4) 踩(0) | <div>前世风雨<br>后世尘烟<br>亭台宫阙<br>都成残垣<br>繁华落尽<br>王侯长眠<br>谁的功过<br>万世流传<br>时间蔓延<br>万代千年<br>人生太短暂<br>怎守江山<br>我站在人间<br>看风云变幻<br>任由残砖碎瓦<br>铭刻变迁<br>岁月流淌<br>历尽沧桑<br>昨日辉煌<br>今在何方<br>我思我想<br>亦歌亦狂<br>才闻欢笑<br>又见泪光<br>时间蔓延<br>万代千年<br>岁月走不完</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45058055)<br> <br>2015-05-26 20:49<br>赞(1) 踩(0) | <div>这纪录片看一次哭一次 尤其是这首片尾曲还有那首如梦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8363444)<br> <br>2015-05-22 17:51<br>赞(2) 踩(0) | <div>分享一首我觉得才是古风类的歌曲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17026747)<br>醒掌天下权，醉卧美人膝。<br>2015-05-17 13:18<br>赞(3) 踩(0) | <div>戴红巾报时官手执更筹报晓，更衣官才给皇帝送上翠云裘。九重的皇宫打开了金红宫门，万国的使臣都躬身朝拜皇帝。日光初照遮阳的掌扇在晃动，香烟缭绕黄袍上面绣龙飘浮。早朝结束还须为皇帝写诏书，佩玉叮当贾至回到凤凰池头</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17026747)<br>醒掌天下权，醉卧美人膝。<br>2015-05-17 13:18<br>赞(3) 踩(0) | <div>戴红巾报时官手执更筹报晓，更衣官才给皇帝送上翠云裘。<br>九重的皇宫打开了金红宫门，万国的使臣都躬身朝拜皇帝。<br>日光初照遮阳的掌扇在晃动，香烟缭绕黄袍上面绣龙飘浮。<br>早朝结束还须为皇帝写诏书，佩玉叮当贾至回到凤凰池头</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292812509)<br><br>2018-04-01 02:06<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10454646)<br>人是铁饭是刚<br>2015-05-05 09:59<br>赞(2) 踩(0) | <div>听了前奏和前两句就果断下载加喜欢的一首歌 太好听了 强烈要求刘可参加我是歌手第四季</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32144077)<br>So hold my h...<br>2015-04-21 21:17<br>赞(0) 踩(0) | <div>太美！</div> |
@@ -486,7 +486,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4375994)<br>哀悼<br>2014-08-28 22:30<br>赞(1) 踩(0) | <div>满江红 也不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33164486)<br><br>2014-08-24 10:35<br>赞(0) 踩(0) | <div>昨天听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3550452)<br><br>2014-08-05 11:20<br>赞(0) 踩(0) | <div>好喜欢这个纪录片的，歌也很好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11886545)<br>暂无签名~<br>2014-07-19 22:26<br>赞(0) 踩(0) | <div>这个纪录片里演唐明皇的演员演过秦始皇，很早的一部片，演员长的也不错作曲演唱者也都不出名</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11886545)<br>暂无签名~<br>2014-07-19 22:26<br>赞(0) 踩(0) | <div>这个纪录片里演唐明皇的演员演过秦始皇，很早的一部片，演员长的也不错<br>作曲演唱者也都不出名</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12697)<br>我还没想好要写什么...<br>2015-05-12 15:09<br>赞(0) 踩(0) | <div>歌词美醉了。亦歌亦狂，才闻欢笑，又见泪光，亭台宫阙，都成残桓</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13601091)<br>诗酒趁年华。<br>2014-07-17 14:55<br>赞(0) 踩(0) | <div>谁的功过万世流传！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10756966)<br><br>2014-07-14 14:30<br>赞(1) 踩(0) | <div>我思我想 亦歌亦狂 人间天上 唯你无双。。听哭啦。。。。。。。啊中国 我的祖国TAT</div> |
@@ -519,14 +519,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3347754)<br><br>2014-02-22 09:34<br>赞(0) 踩(0) | <div>听这个停不下来了。。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3347754)<br><br>2014-02-18 14:19<br>赞(0) 踩(0) | <div>好美，却又好忧伤的一首歌，盛世不在，梦回大唐啊~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1259140)<br><br>2014-01-15 08:40<br>赞(0) 踩(0) | <div>点一百个赞！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1543461)<br><br>2014-01-15 08:32<br>赞(0) 踩(0) | <div>我思我想亦歌亦狂才闻欢笑又见泪光时间蔓延万代千年</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1543461)<br><br>2014-01-15 08:32<br>赞(0) 踩(0) | <div>我思我想<br>亦歌亦狂<br>才闻欢笑<br>又见泪光<br>时间蔓延<br>万代千年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2974653)<br><br>2013-12-27 14:00<br>赞(0) 踩(0) | <div>纪录片 - 大明宫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1544902)<br><br>2013-12-25 23:02<br>赞(0) 踩(0) | <div>这个主题曲太喜欢了受不了………………一定又要被同学怀疑品味什么的了吧→_→……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7767259)<br>阿糗<br>2014-11-27 12:33<br>赞(0) 踩(0) | <div>握爪……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8410992)<br><br>2013-12-15 22:03<br>赞(115) 踩(0) | <div>“前世风雨，后世尘烟...我思我想，亦歌亦狂...多想长生不老，再看江山...人间天上，唯你无双...”余音绵绵，又温柔又大气。听完说晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21566180)<br><br>2013-12-11 19:07<br>赞(0) 踩(0) | <div>满是惆怅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6171174)<br>chuuu,écoute<br>2013-12-05 23:15<br>赞(1) 踩(0) | <div>每次唱到“多想长生不老 再看江山”的时候都好有感，会想起秋天站在景山上望紫禁城的感觉。语言很直白，但配上此乐，就有种莫名的帝王将相的惆怅感。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2119363)<br>喂！<br>2013-11-25 20:19<br>赞(0) 踩(0) | <div>301L耀眼光芒 无尽惆怅 萦绕着每颗心 梦回大唐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2119363)<br>喂！<br>2013-11-25 20:19<br>赞(0) 踩(0) | <div>301L<br>耀眼光芒 无尽惆怅 萦绕着每颗心 梦回大唐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5735648)<br><br>2013-11-25 00:28<br>赞(0) 踩(0) | <div>我去！大明宫？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287129)<br><br>2013-11-25 00:19<br>赞(0) 踩(0) | <div>正好看到纪录电影《大明宫》，片尾曲很熟悉，之前po过的《不忘•长安》的原曲终于听到了，《大明宫》-刘可</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8667071)<br>我还没想好要写什么...<br>2013-11-05 00:17<br>赞(0) 踩(0) | <div>太爱这首歌！</div> |
@@ -562,7 +562,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7441571)<br>暂无签名~<br>2012-04-30 23:06<br>赞(0) 踩(0) | <div>《大明宫》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2918588)<br><br>2012-04-28 13:00<br>赞(0) 踩(0) | <div>@掉掉掉啊掉这首歌！是我在看的纪录片片尾曲，比某些古装剧高几个档次啊简直！大气啊！！！我又开始单曲回放了。。 &amp;amp;lt;梦回大明宫&amp;amp;gt;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3376353)<br><br>2012-04-28 00:09<br>赞(0) 踩(0) | <div>繁华褪尽 残烛泯灭 待岁月洗净铅华 沉淀沧桑</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2487189)<br> <br>2012-04-12 21:11<br>赞(0) 踩(0) | <div>如介绍中：这歌声里有着这个年代渐逝的真诚与感动。的确，如此，感动了我......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2487189)<br> <br>2012-04-12 21:11<br>赞(0) 踩(0) | <div>如介绍中：这歌声里有着这个年代渐逝的真诚与感动。<br>的确，如此，感动了我......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6879653)<br><br>2012-03-21 00:41<br>赞(0) 踩(0) | <div>很久以前，有一个叫贾至的人去上朝，写了一首叫《早朝大明宫》的诗，气氛很热烈，浩荡的场景跃然行间，后来，有一个叫杜子美的人写了一首《奉和贾至舍人早朝大明宫》这通表扬啊…犀利…嗯，真心是表扬吧……啊？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4029449)<br><br>2012-03-19 01:08<br>赞(0) 踩(0) | <div>前世风雨 后世尘烟 亭台宫阙 都成残垣 繁华落尽 王侯长眠 谁的功过 万世流传</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1283331)<br>暂无签名~<br>2012-03-15 17:12<br>赞(0) 踩(0) | <div>好懷念看大明宮的那段時間</div> |
@@ -602,5 +602,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/766974)<br><br>2010-10-23 13:30<br>赞(0) 踩(0) | <div>歌词意境深远且极具唐时风韵，歌声优雅绵长且充满张力。门窗关好，音量放大，歌声会带你梦回大唐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53528)<br>wudi<br>2010-06-20 22:38<br>赞(0) 踩(0) | <div>歌词很不错，唱的也很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94420)<br>曾经记录了快一年的心情啊...<br>2010-06-16 11:48<br>赞(0) 踩(0) | <div>这样的纪录片，能用美轮美奂来形容。堪比Discovery。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54868)<br> <br>2010-02-23 00:56<br>赞(0) 踩(0) | <div>-------歌词---------前世风雨 后世尘烟亭台宫阙 都成残垣繁华落尽 王侯长眠谁的功过 万世流传时间蔓延 万代千年人生太短暂 怎守江山我站在人间 看风云变幻任由残砖碎瓦 铭刻变迁岁月流淌 历尽沧桑昨日辉煌 今在何方我思我想 亦歌亦狂才闻欢笑 又见泪光时间蔓延 万代千年岁月走不完 朝代轮转我站在人世间 数兴衰的循环多想长生不老 再看江山金碧辉煌 羽衣霓裳人间天上 唯你无双耀眼光芒 无尽惆怅萦绕着每颗心梦回大唐……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54868)<br> <br>2010-02-23 00:56<br>赞(0) 踩(0) | <div>-------歌词---------<br>前世风雨 后世尘烟<br>亭台宫阙 都成残垣<br>繁华落尽 王侯长眠<br>谁的功过 万世流传<br>时间蔓延 万代千年<br>人生太短暂 怎守江山<br>我站在人间 看风云变幻<br>任由残砖碎瓦 铭刻变迁<br>岁月流淌 历尽沧桑<br>昨日辉煌 今在何方<br>我思我想 亦歌亦狂<br>才闻欢笑 又见泪光<br>时间蔓延 万代千年<br>岁月走不完 朝代轮转<br>我站在人世间 数兴衰的循环<br>多想长生不老 再看江山<br>金碧辉煌 羽衣霓裳<br>人间天上 唯你无双<br>耀眼光芒 无尽惆怅<br>萦绕着每颗心<br>梦回大唐……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54868)<br> <br>2010-02-23 00:47<br>赞(0) 踩(0) | <div>歌词旋律和歌手的声音都非常有感染力，最后的和声真是如梦如幻。</div> |

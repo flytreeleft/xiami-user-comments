@@ -51,8 +51,8 @@ Mastered：Brock McFarlane at CPS Mastering/Vaancouver/Canada<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262025345)<br><br>2017-11-07 10:32<br>赞(0) 踩(0) | <div>卓拉同学</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10504566)<br>音乐是通往天堂的桥梁<br>2017-11-07 00:31<br>赞(0) 踩(0) | <div>盼星星盼月亮，杭盖终于出新专辑了！为胜利打call</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5542285)<br>我还没想好要写什么...<br>2017-11-06 18:18<br>赞(0) 踩(0) | <div>来了来了</div> |

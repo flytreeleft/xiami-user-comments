@@ -42,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2013-06-06 21:22<br>赞(0) 踩(0) | <div>因为是你，我才如此疯狂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2009-09-04 13:54<br>赞(0) 踩(0) | <div>没错，因为是你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2009-06-30 14:05<br>赞(0) 踩(0) | <div>庞龙的歌没什么不好啊。</div> |

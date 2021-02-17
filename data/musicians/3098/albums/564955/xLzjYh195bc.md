@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1830232)<br>独自窥探未来<br>2020-06-14 00:19<br>赞(0) 踩(0) | <div>鼓点舒适</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30622452)<br>暂无签名~<br>2017-10-25 01:18<br>赞(1) 踩(0) | <div>听到6分钟，情不自禁摘下耳机。这是第一首不敢听完的后摇。并非不好听。只是源于一股莫名且强烈的恐惧，好像魔鬼在召唤……原来我也会如此地害怕黑暗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/553333)<br>我还没想好要写什么...<br>2017-05-12 11:39<br>赞(4) 踩(0) | <div>懂得欣赏，并接受PG的这两个曲子，花了我五年时间。这里面跟我的的生活状态和经历，思想，艺术审美有莫大的联系。人在不一样的阶段，对同一件事物看到和感受到的是不一样的。很庆幸我到了这样一个阶段，继续加油。</div> |
@@ -27,7 +24,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25922167)<br>用音乐思考,而非娱乐.<br>2016-04-06 11:30<br>赞(1) 踩(0) | <div>听着真乱，都是让惘闻给带的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21252608)<br> <br>2016-04-04 12:49<br>赞(0) 踩(0) | <div>joy division</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8082941)<br> <br>2015-06-07 06:03<br>赞(0) 踩(0) | <div>啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40599063)<br>不<br>2015-02-24 00:02<br>赞(1) 踩(0) | <div>用最不舒服的姿势躺在床上。音墙的洪流像要自杀一样。往身上捅着刀子，四处划。一枪，没死。再一枪。再来...算了，活着算了...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40599063)<br>不<br>2015-02-24 00:02<br>赞(1) 踩(0) | <div>用最不舒服的姿势躺在床上。<br>音墙的洪流像要自杀一样。<br>往身上捅着刀子，四处划。<br>一枪，没死。<br>再一枪。<br>再来...<br>算了，活着算了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15337234)<br><br>2014-06-05 19:13<br>赞(1) 踩(0) | <div>聽到4:20忍不住泄了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6035424)<br><br>2013-06-08 21:58<br>赞(1) 踩(0) | <div>nice</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3971475)<br><br>2013-06-06 18:38<br>赞(1) 踩(0) | <div>凌晨2点下班，中午1点上班，已到下班时段任觉得现在是下午3点，我从无觉得时间过得如此的快，在内心静寂的当下听着这样躁动的音乐，没有什么比这样更能对比。</div> |

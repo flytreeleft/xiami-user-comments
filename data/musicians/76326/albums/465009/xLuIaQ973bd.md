@@ -55,12 +55,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441589236)<br><br>2020-12-08 05:37<br>赞(0) 踩(0) | <div>赵雷开始尝试着写实，带一点批评和一点自嘲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400346562)<br><br>2020-09-20 09:51<br>赞(1) 踩(0) | <div>人家是公主啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52398670)<br>死亡不是终点，遗忘才是。<br>2020-08-02 09:51<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72193308)<br>The eyes hav...<br>2020-07-14 18:28<br>赞(0) 踩(0) | <div>拖着俩大拖鞋走路上让人家看去吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72193308)<br>The eyes hav...<br>2020-07-14 18:28<br>赞(0) 踩(0) | <div>拖着俩大拖鞋走路上<br>让人家看去吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432268804)<br>音乐比人们更好<br>2020-06-28 01:00<br>赞(2) 踩(0) | <div>歌词太好啦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378670909)<br><br>2020-06-16 15:58<br>赞(0) 踩(0) | <div>故事里的事，听歌就好了，西厢里的故事，是不可能的事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97508866)<br>非淡泊无以明志，非宁静无...<br>2020-06-11 17:08<br>赞(0) 踩(0) | <div>听了放弃卖萌 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -198,7 +198,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276752199)<br>zm & 包子<br>2017-11-26 18:17<br>赞(1) 踩(0) | <div>我只是一个穷小子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329891543)<br><br>2017-11-23 21:10<br>赞(2) 踩(0) | <div>第一次听你的歌，有点意思~努力加油走出一条自己的路，坚持 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310964481)<br>什么样的心情需要什么样的...<br>2017-11-20 08:12<br>赞(1) 踩(0) | <div>我是司机</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292244153)<br>倪劳姆<br>2017-11-20 00:09<br>赞(0) 踩(0) | <div>不不</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292244153)<br>倪劳姆<br>2017-11-20 00:09<br>赞(0) 踩(0) | <div>不<br>不</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42810244)<br> <br>2017-11-16 22:31<br>赞(1) 踩(0) | <div>看来姑娘都要跟人家过最好了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290534339)<br><br>2017-11-09 10:17<br>赞(0) 踩(0) | <div>只要家人平安健康地活着 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264783090)<br> <br>2017-11-07 20:15<br>赞(1) 踩(0) | <div>真实</div> |
@@ -212,14 +212,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271752059)<br><br>2017-10-28 00:06<br>赞(1) 踩(0) | <div>而我只是一个穷小子   就要家人平安健康的活着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25965120)<br><br>2017-10-27 23:26<br>赞(1) 踩(0) | <div>去他妈的人家 大半夜翻出了这首歌 唏嘘两声儿 何尝没有舒爽一丝儿 呵呵~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2462347)<br>愿爱永生<br>2017-10-27 23:19<br>赞(3) 踩(0) | <div>对我来说最美好的生活也许就是这样，看着自己喜欢的玩意儿，作着自己喜欢的买卖，淡淡静静，不忙不折腾，不累心不矫情，这世道虐我千百遍我待世道如初恋。心情美丽，过两天去西递写生。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11575189)<br><br>2017-10-27 23:06<br>赞(0) 踩(0) | <div>而我只是一个穷小子...生活简单的就像是一块石子...我只不过是一个卖酒的孩子...只要能填饱我的肚子...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11575189)<br><br>2017-10-27 23:06<br>赞(0) 踩(0) | <div>而我只是一个穷小子...生活简单的就像是一块石子...<br>我只不过是一个卖酒的孩子...只要能填饱我的肚子...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49607469)<br>过好每一个今天就有美好的...<br>2017-10-24 19:53<br>赞(0) 踩(0) | <div>哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61545120)<br><br>2017-10-22 22:27<br>赞(0) 踩(0) | <div>简单易懂的歌词 赵雷唱是那么挺轻松、可是当歌里的事发生在你身上的时候你还会感觉轻松吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248776695)<br> <br>2017-10-20 12:15<br>赞(1) 踩(0) | <div>随机听到这首歌的时候我真的要笑哭了，因为我的朋友正在经历现在的困惑和现实，她常说人家动动嘴皮子父母就给个几万的包，不想上班了就回家歇着，而我们都是小康家庭，父母给的仍需自己努力，所以雷子唱的这首歌，确实有大把的“人家”，其实有钱有权有势的家庭大有人在，希望我们都不要迷失，且坚定。在这个年纪，该奋斗努力就不懈怠！加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248776695)<br> <br>2017-10-20 12:09<br>赞(1) 踩(0) | <div>随机听到这首歌的时候，真的笑哭了，因为正当下，我的朋友在抱怨和吐槽她身边动动手指几万的包到手，而我们正是小康家庭。哈哈，听到雷子唱出来，真的是实话，可能没有那么心酸，就是说有钱的人大有人在，不要攀比，靠自己的努力加油！就算打不到那种富有，但是身边的父母朋友梦想同样重要。希望我们都不迷失且坚定～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30651822)<br>我还没想好要写什么...<br>2017-10-19 15:55<br>赞(1) 踩(0) | <div>其实我觉得整首歌表达的是，不管我们过的怎样，我们自己怎样，只要家人健康平安活着才最重要！没有什么比这个更重要！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328125829)<br><br>2017-10-16 12:12<br>赞(0) 踩(0) | <div>很现实～写的就是我哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286960372)<br>目光放远，万事皆悲<br>2017-10-09 22:21<br>赞(0) 踩(0) | <div>在这我听到的是现实</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286960372)<br>目光放远，万事皆悲<br>2017-10-09 22:21<br>赞(0) 踩(0) | <div>在这<br>我听到的是现实</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243566164)<br><br>2017-10-07 22:40<br>赞(0) 踩(0) | <div>嘿喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46728980)<br><br>2017-10-05 22:15<br>赞(0) 踩(0) | <div>玛德，劳资就特么喜欢负能量，怎滴！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31311002)<br>公众号：昼夜厨房＞＞原谅...<br>2017-09-18 00:43<br>赞(3) 踩(0) | <div>你今天已经不是穷小子啦，替你高兴&amp;hellip;&amp;hellip;但我还是买不起票的穷人 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -236,14 +236,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253029963)<br><br>2017-08-06 18:08<br>赞(1) 踩(0) | <div>也没有负能量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308047223)<br><br>2017-07-20 19:09<br>赞(0) 踩(0) | <div>好像活着一样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190753913)<br>不可能就不可能吧。我无所...<br>2017-07-17 15:23<br>赞(0) 踩(0) | <div>转音太好听了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31975537)<br><br>2017-07-13 14:59<br>赞(1) 踩(0) | <div>我只不过是一个唱歌的孩子 只要能填饱我的肚子我家的车是一辆老旧的28车 蹬起来有劲 坐上去潇洒我租来的房子 只有十四五平米大用花布装饰的墙 特别温馨特别暖人家和我不是一路货色 我该放弃对美梦的拥有和执着酸甜苦辣独享其中的快活 只要家人健康平安的活着</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31975537)<br><br>2017-07-13 14:59<br>赞(1) 踩(0) | <div>我只不过是一个唱歌的孩子 只要能填饱我的肚子<br>我家的车是一辆老旧的28车 蹬起来有劲 坐上去潇洒<br>我租来的房子 只有十四五平米大<br>用花布装饰的墙 特别温馨特别暖<br>人家和我不是一路货色 我该放弃对美梦的拥有和执着<br>酸甜苦辣独享其中的快活 只要家人健康平安的活着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222070986)<br>闲一点，慢一点。<br>2017-07-12 19:36<br>赞(2) 踩(0) | <div>这首歌儿很符合我自己的想法</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274483750)<br><br>2017-07-12 15:56<br>赞(82) 踩(0) | <div>个人觉的赵雷不同于其它的民谣歌手，或许其他人写的是美梦，是理想，是远方，甚至无病呻吟。但在赵雷这里，我听到的是真诚淳朴，不讨好生活，不夸大理想，叙述着日常你我他的人生。这首歌也许是反映了一个普通青年的心声而已，虽然有市井之感，但也不乏简单直接的感染力</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125089920)<br>找到北方啦<br>2017-08-06 21:31<br>赞(0) 踩(0) | <div>顶 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186396946)<br><br>2017-07-12 13:28<br>赞(0) 踩(0) | <div>想要正能量看鸡汤去啊，听什么赵雷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255855019)<br><br>2017-07-10 00:41<br>赞(0) 踩(0) | <div>他的歌曲里，个人还是觉得《画》的歌词写的最好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196489539)<br>孤独来自深夜的笙箫。<br>2017-07-08 08:30<br>赞(0) 踩(0) | <div>赵小雷啊！你说的这不是我吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/627423)<br>凸虾米你妹！<br>2017-07-07 15:35<br>赞(0) 踩(0) | <div>这首歌的开头和这个听着好像&amp;hellip;&amp;hellip;《虫师》么<a href="http://www.xiami.com/song/2094497" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2094497</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/627423)<br>凸虾米你妹！<br>2017-07-07 15:35<br>赞(0) 踩(0) | <div>这首歌的开头和这个听着好像&amp;hellip;&amp;hellip;《虫师》么<br><a href="http://www.xiami.com/song/2094497" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2094497</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17438459)<br><br>2017-07-07 15:11<br>赞(0) 踩(0) | <div>哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49268256)<br>我还没想好要写什么...<br>2017-07-02 13:33<br>赞(4) 踩(0) | <div>写的很真实啊，也许你们不知道内幕罢了，有些门不当户不对，感觉雷子写的歌在自我安慰罢了，我能体会到，我以前也出个女朋友，我们还好，到最后还是一句，我家没人家条件好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298016340)<br>做就是了<br>2017-06-30 14:18<br>赞(0) 踩(0) | <div>一首歌有时不用思考的太透彻 就这样真实把自己感受写出来挺好</div> |
@@ -288,7 +288,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49605065)<br>这家伙很聪明...<br>2017-02-25 01:04<br>赞(1) 踩(0) | <div>唱出了郝云的感觉 <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110077556)<br>自欺欺人<br>2017-02-23 22:56<br>赞(1) 踩(0) | <div>人家不能受委屈 和你一起吃苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17804115)<br>精神洁癖<br>2017-02-22 23:57<br>赞(3) 踩(0) | <div>瞎说什么大实话 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12741608)<br><br>2017-02-22 13:32<br>赞(7) 踩(0) | <div>这个词，并没有抱怨女生什么吧？相反，他是让你面对现实，不要勉强，只要家人健康，自己快乐就好了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12741608)<br><br>2017-02-22 13:32<br>赞(7) 踩(0) | <div>这个词，并没有抱怨女生什么吧？<br>相反，他是让你面对现实，不要勉强，只要家人健康，自己快乐就好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32561545)<br>咦，你来啦！<br>2017-02-15 16:15<br>赞(0) 踩(0) | <div>歌词太好玩啦哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91261134)<br>拥有一份属于自己的骄傲<br>2017-02-13 12:48<br>赞(1) 踩(0) | <div>我说怎么记得好早以前就听过他滴歌，赵雷你就应该红</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254417156)<br><br>2017-02-13 12:09<br>赞(2) 踩(0) | <div>人家和我不是一路货色</div> |
@@ -394,7 +394,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50094987)<br>嘻嘻<br>2015-12-31 18:37<br>赞(13) 踩(0) | <div>我愿意和你一起吃苦！ 赵小雷！！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42988176)<br>hey，宇宙中的另一颗小...<br>2016-02-24 16:57<br>赞(0) 踩(0) | <div>哈哈哈哈哈</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298026009)<br>做自己喜欢的事，听个性的...<br>2017-11-14 18:33<br>赞(0) 踩(0) | <div>美女勇气可加，可惜他是明星。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55244864)<br>不言与言<br>2015-12-24 08:00<br>赞(2) 踩(0) | <div>人家是公主 之后     进入抖腿节奏真是又增添一个必须参加现场演唱会的歌手啦 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55244864)<br>不言与言<br>2015-12-24 08:00<br>赞(2) 踩(0) | <div>人家是公主 之后     进入抖腿节奏<br>真是又增添一个必须参加现场演唱会的歌手啦 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90808742)<br>刘小宁<br>2015-12-21 14:37<br>赞(9) 踩(0) | <div>赵雷的音乐总能让我回到13，4那年的独家小院，那时的空气中弥漫的只有空气，时间总是那么慢，她从来不会让你感到她会离你远去，那年我知道了大人们的事，一下子就长大了，后来才发现只是知道，生活不是你听到的那个样子，慢慢的习惯了改变，习惯了放弃，能坚持的越来越少，喜欢的只是这个商品社会，哪些爱去哪了，回不去，不会来，独自一人守着窗儿，一年年，我的爱，丢失的爱不会来，我那在路上的女朋友们，希望路上的你不要像我一样孤单………我在一个地方等你回来，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93122536)<br><br>2015-12-20 14:27<br>赞(1) 踩(0) | <div>是这歌词俗气还是我俗气啊！追求不应该有吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8150962)<br>暂无签名~<br>2015-12-17 18:59<br>赞(1) 踩(0) | <div>明天济南见咯～</div> |
@@ -452,7 +452,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60547438)<br><br>2015-09-04 01:53<br>赞(0) 踩(0) | <div>人家和我不是一路货色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50006560)<br>春天等花开，夏天等风来，...<br>2015-08-30 14:17<br>赞(0) 踩(0) | <div>赵雷太伤春悲秋了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17968540)<br>如果别人正好喜欢你所讨厌...<br>2015-08-30 12:29<br>赞(0) 踩(0) | <div>没点进来，还以为是郝云唱的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47410745)<br><br>2015-08-21 11:34<br>赞(1) 踩(0) | <div>人家人家都是人家的我是穷人，但依然有期待我的人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47410745)<br><br>2015-08-21 11:34<br>赞(1) 踩(0) | <div>人家人家都是人家的<br>我是穷人，但依然有期待我的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47410745)<br><br>2015-08-21 11:23<br>赞(1) 踩(0) | <div>人家的东西就是人家的，我是穷人，但依然有期待我的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55341081)<br>做书人　画画人　玩色人<br>2015-08-17 13:00<br>赞(0) 踩(0) | <div>人家是人家，关我什么事，什么事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39172438)<br> <br>2015-08-13 12:29<br>赞(0) 踩(0) | <div>迷茫 底层 反思。。。</div> |
@@ -544,7 +544,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50416168)<br> <br>2015-06-17 01:25<br>赞(0) 踩(0) | <div>我也喜欢他的歌词，很现实，很真实</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50899888)<br><br>2017-04-01 08:06<br>赞(0) 踩(0) | <div>是的。我也感觉很真实。很好。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356184581)<br><br>2018-09-01 16:11<br>赞(0) 踩(0) | <div>不过真有点丧气啊!</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404026527)<br><br>2018-11-18 17:05<br>赞(0) 踩(0) | <div>cuxzòpSaZ¥！hjì</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404026527)<br><br>2018-11-18 17:05<br>赞(0) 踩(0) | <div>cuxzòpSaZ<br><br><br><br>¥！hjì</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405058688)<br><br>2018-12-12 17:43<br>赞(0) 踩(0) | <div><q><b>孟智明说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/158399502)<br><br>2018-12-13 23:33<br>赞(0) 踩(0) | <div>仁者见仁智者见智，喷子不会认字 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338380675)<br>这个人很懒，什么都没有写...<br>2019-02-05 10:18<br>赞(0) 踩(0) | <div>歌词是挺好的，除了最后一块那些没用的。</div> |
@@ -627,10 +627,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3639710)<br><br>2014-05-26 15:56<br>赞(0) 踩(0) | <div>这歌写的真酸，又特别有阿Q精神</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36993211)<br><br>2014-05-24 21:27<br>赞(0) 踩(0) | <div>人家是花 人家是公主  人家不能受委屈 何必一起吃苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3282103)<br><br>2014-05-23 12:10<br>赞(0) 踩(0) | <div>自怨自艾神曲。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36642765)<br>暂无签名~<br>2014-05-21 13:09<br>赞(0) 踩(0) | <div>我家的车是一辆老旧的二八车蹬起来有劲  坐上去潇洒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36642765)<br>暂无签名~<br>2014-05-21 13:09<br>赞(0) 踩(0) | <div>我家的车是一辆老旧的二八车<br>蹬起来有劲  坐上去潇洒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33926699)<br><br>2014-05-14 13:13<br>赞(0) 踩(0) | <div>人家还等着搭便车</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4726820)<br><br>2014-05-12 22:46<br>赞(0) 踩(0) | <div>而我只是一个穷小子 生活简单的就像是一块石子</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14058484)<br><br>2014-05-12 17:40<br>赞(0) 踩(0) | <div>开头特别像虫师那段诶！！！！听着这个歌叼着狗尾巴草晃着腿好爽啊~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14058484)<br><br>2014-05-12 17:40<br>赞(0) 踩(0) | <div>开头特别像虫师那段诶！！！！<br>听着这个歌叼着狗尾巴草晃着腿好爽啊~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6792504)<br>我还没想好要听什么<br>2014-05-08 09:33<br>赞(0) 踩(0) | <div>《虫师》……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35487715)<br><br>2014-05-11 17:04<br>赞(0) 踩(0) | <div>真是有点像...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35477394)<br>Im still<br>2014-05-06 14:31<br>赞(0) 踩(0) | <div>还是这个适合我</div> |
@@ -661,7 +661,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31916079)<br>see through<br>2014-01-25 15:20<br>赞(0) 踩(0) | <div>我只是一个画画的疯丫头，只要填饱我的肚子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31163999)<br><br>2014-01-25 10:34<br>赞(0) 踩(0) | <div>喜欢赵雷的声音 超级喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1942116)<br>暂无签名~<br>2014-01-19 21:20<br>赞(0) 踩(0) | <div>地道京片子。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31051930)<br>暂无签名~<br>2014-01-12 12:59<br>赞(0) 踩(0) | <div>人家的父母是公司的干部。而我只是一个穷小子。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31051930)<br>暂无签名~<br>2014-01-12 12:59<br>赞(0) 踩(0) | <div>人家的父母是公司的干部。<br>而我只是一个穷小子。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9513399)<br>桃之夭夭灼灼其华<br>2014-01-11 20:53<br>赞(0) 踩(0) | <div>唱出心声啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13685840)<br>聆听世界<br>2014-01-09 01:02<br>赞(0) 踩(0) | <div>人家有车 人家有房  人家有大批的存款入到账  so，一边去,还是早点睡吧。。晚 晚 晚 安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24710188)<br><br>2014-01-06 22:31<br>赞(0) 踩(0) | <div>不知道为什么心情有点好</div> |
@@ -671,7 +671,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6969887)<br>我还没想好要写什么...<br>2013-12-17 19:50<br>赞(0) 踩(0) | <div>内心写照</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29911333)<br><br>2013-12-16 21:10<br>赞(0) 踩(0) | <div>写不出期末paper就像拉不出屎。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13492111)<br><br>2013-12-12 10:35<br>赞(0) 踩(0) | <div>那个“他/她”的人家···</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/924286)<br><br>2013-12-11 20:58<br>赞(0) 踩(0) | <div>人家有车 人家有房人家的父母 是公司的干部人家的一句话 是你几年的辛苦而我只是一个穷小子 生活简单的就像一块石子我只不过是一个唱歌的孩子 只要能填饱我的肚子我家的车是一辆老旧的28车 蹬起来有劲 坐上去潇洒我租来的房子 只有十四五平米大酸甜苦辣独享其中的快活 只要家人健康平安的活着</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/924286)<br><br>2013-12-11 20:58<br>赞(0) 踩(0) | <div>人家有车 人家有房<br>人家的父母 是公司的干部<br>人家的一句话 是你几年的辛苦<br>而我只是一个穷小子 生活简单的就像一块石子<br>我只不过是一个唱歌的孩子 只要能填饱我的肚子<br>我家的车是一辆老旧的28车 蹬起来有劲 坐上去潇洒<br>我租来的房子 只有十四五平米大<br>酸甜苦辣独享其中的快活 只要家人健康平安的活着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6477532)<br>一城自有一城愁<br>2013-12-05 10:03<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16009120)<br><br>2013-12-04 14:48<br>赞(0) 踩(0) | <div>人家和我不是一路货色 我该放弃对美梦的拥有和执着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16009120)<br><br>2013-12-04 14:41<br>赞(0) 踩(0) | <div>@赵文希</div> |
@@ -699,7 +699,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4914844)<br><br>2013-09-24 23:03<br>赞(0) 踩(0) | <div>看看人家，听听《人家》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3425353)<br><br>2013-09-23 13:28<br>赞(0) 踩(0) | <div>人家是什么 你算什么 人家和我不是一路货色 ——  我是东西  人家不是东西 :-D</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1230764)<br>输得起、看的开、念念不忘<br>2013-09-22 22:34<br>赞(0) 踩(0) | <div>争取春节吉他能弹唱这首</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2013-09-09 21:37<br>赞(0) 踩(0) | <div>小青龙，快来听听这首歌。。。赵兄弟每次转音的时候我都跟着抬了一下眉。。。XDDPS：平安是福，快乐是福。。。<a href="http://emumo.xiami.com/u/1184676" target="_blank" rel="nofollow" name_card="1184676">@乐小多、</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2013-09-09 21:37<br>赞(0) 踩(0) | <div>小青龙，快来听听这首歌。。。赵兄弟每次转音的时候我都跟着抬了一下眉。。。XDD<br><br>PS：平安是福，快乐是福。。。<br><br><a href="http://emumo.xiami.com/u/1184676" target="_blank" rel="nofollow" name_card="1184676">@乐小多、</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2760848)<br><br>2013-09-08 23:27<br>赞(0) 踩(0) | <div>活的像狗才有劲儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9301514)<br>独立唱作人<br>2013-08-26 09:31<br>赞(0) 踩(0) | <div>快乐中的无奈，自嘲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/984350)<br><br>2013-08-18 19:44<br>赞(0) 踩(0) | <div>喜欢</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d4d1da7bb554ed6a2b4b0a338082f5c8.jpg)<br>汪睿](https://i.xiami.com/wangrui) | **播放数**: 5243961<br>**粉丝数**: 1658<br>**评论数**: 205<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/d4d1da7bb554ed6a2b4b0a338082f5c8.jpg)<br>汪睿](https://i.xiami.com/wangrui) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 国语流行 Mandarin Pop<br>**播放数**: 5243961<br>**粉丝数**: 1658<br>**评论数**: 205<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-04-18 00:19<br>赞(1) 踩(0) | <div>40557</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2395559)<br>我还没想好要写什么...<br>2019-09-01 00:50<br>赞(0) 踩(0) | <div>从来没有注意到这位新人！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427346008)<br>世间安得双全法，不负如来...<br>2019-07-15 21:36<br>赞(1) 踩(0) | <div>桃花笑 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -35,7 +35,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328657369)<br>风格随心而变、<br>2019-05-18 09:44<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412322197)<br>我还没想好要写什么...<br>2019-04-17 04:54<br>赞(0) 踩(0) | <div>桑音真的太喜欢 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421694695)<br><br>2019-03-23 11:40<br>赞(0) 踩(0) | <div>你好 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70055160)<br><br>2019-01-23 02:19<br>赞(0) 踩(0) | <div>加油，一万年不看任何综艺，电视电影，结果因为好奇，点开韩红发飙的视频，结果遇到你，声音真的很好听，人也超可爱，准备去下载你所有歌曲。娱乐圈虽然有种钟不如意，但是恳请你坚持自我，愿你有天席卷乐坛，归来仍是少年</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70055160)<br><br>2019-01-23 02:19<br>赞(0) 踩(0) | <div>加油，一万年不看任何综艺，电视电影，结果因为好奇，点开韩红发飙的视频，结果遇到你，声音真的很好听，人也超可爱，准备去下载你所有歌曲。<br>娱乐圈虽然有种钟不如意，但是恳请你坚持自我，愿你有天席卷乐坛，归来仍是少年</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354425812)<br><br>2018-06-12 21:46<br>赞(0) 踩(0) | <div>这两天车上一直播放hey，U。音量调到很大，一路愉悦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354425812)<br><br>2018-06-12 21:42<br>赞(0) 踩(0) | <div>唱得很有感染力。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254432127)<br><br>2018-04-20 22:55<br>赞(0) 踩(0) | <div>很喜欢你！很爱很爱。。。</div> |
@@ -181,7 +181,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324112)<br><br>2016-03-16 23:13<br>赞(3) 踩(0) | <div>在超女看到你，不错哦，希望今年比赛能走远，让大家记住你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55372993)<br>Public Healt...<br>2016-01-01 15:26<br>赞(1) 踩(0) | <div>从梦之声后就有关注你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80778744)<br>一生没有音乐是多么无聊!<br>2015-12-19 00:25<br>赞(2) 踩(0) | <div>大爱汪睿，好想她唱的歌!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80778744)<br>一生没有音乐是多么无聊!<br>2015-12-19 00:24<br>赞(1) 踩(0) | <div>好幾李白做过什么坏事吗？ <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80778744)<br>一生没有音乐是多么无聊!<br>2015-12-19 00:24<br>赞(1) 踩(0) | <div>好幾<br>李白做过什么坏事吗？ <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80778744)<br>一生没有音乐是多么无聊!<br>2015-11-28 08:27<br>赞(1) 踩(0) | <div>汪睿声音好迷人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40759580)<br><br>2015-10-17 21:12<br>赞(1) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21995279)<br><br>2015-08-17 01:08<br>赞(1) 踩(0) | <div>把你微博的都听了  清唱也是棒的不行  特喜欢燕姿  瞬间也喜欢上你  一直支持着</div> |

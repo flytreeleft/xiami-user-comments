@@ -40,8 +40,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423782977)<br><br>2020-11-05 18:36<br>赞(0) 踩(0) | <div>用一辈子去守望 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287191180)<br>爱音乐，爱生活！<br>2020-10-09 13:55<br>赞(1) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408889718)<br><br>2020-04-28 08:25<br>赞(0) 踩(0) | <div>图给我打电话让我怎么打啊</div> |
@@ -49,7 +49,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164341596)<br>Say anything...<br>2020-01-14 08:29<br>赞(1) 踩(0) | <div>听这首歌，还是20岁呢 十几年过去了 在我转弯的时光里 真希望青春永驻 <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3553387)<br> <br>2020-01-11 17:17<br>赞(0) 踩(0) | <div>女的太弱了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50792016)<br>来又如风， 离又如风<br>2019-09-14 13:14<br>赞(0) 踩(0) | <div>～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33499929)<br>偷时间的人。<br>2019-05-10 13:54<br>赞(2) 踩(0) | <div>哈哈哈好久以前就很喜欢的歌然而难唱的很最重要是根本没有人会跟你合唱超级冷门歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33499929)<br>偷时间的人。<br>2019-05-10 13:54<br>赞(2) 踩(0) | <div>哈哈哈好久以前就很喜欢的歌<br>然而难唱的很<br>最重要是根本没有人会跟你合唱<br>超级冷门歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235288375)<br><br>2020-09-15 08:17<br>赞(0) 踩(0) | <div>我会唱啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250386421)<br><br>2019-04-15 09:04<br>赞(0) 踩(0) | <div>沙发？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404005886)<br><br>2019-03-20 20:57<br>赞(2) 踩(0) | <div>最近推送品冠的歌比较多 是偷入心里了吗？带我回到十几年前</div> |
@@ -75,13 +75,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5881809)<br><br>2015-10-15 10:44<br>赞(0) 踩(0) | <div>听老歌，我是不是也顺便老了点。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5037169)<br> <br>2015-10-14 20:11<br>赞(1) 踩(0) | <div>夏天妈妈 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7008104)<br> <br>2015-09-07 14:13<br>赞(1) 踩(0) | <div>这也是华语对唱的经典之作</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1717279)<br><br>2015-04-12 20:48<br>赞(1) 踩(0) | <div>在爱情转弯的地方有些当初会不一样你在我要去的路上守候成一面墙在爱情转弯的地方甜蜜回忆悬挂走廊把最爱的部分装进 画框用一辈子去收藏</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1717279)<br><br>2015-04-12 20:48<br>赞(1) 踩(0) | <div>在爱情转弯的地方<br>有些当初会不一样<br>你在我要去的路上<br>守候成一面墙<br>在爱情转弯的地方<br>甜蜜回忆悬挂走廊<br>把最爱的部分装进 画框<br>用一辈子去收藏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10721683)<br>音乐改变生活！<br>2014-07-15 00:26<br>赞(1) 踩(0) | <div>爱情转弯的地方 - 品冠+黄嘉千</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13396826)<br>一个凡人……<br>2014-07-13 01:05<br>赞(1) 踩(0) | <div>#冇好音乐# 有人说，当你总在回忆过去的时候，证明你已经老了。成长经历的人和事，都是青春的调味料，经历越来越多之后，人变成熟了，青春不再，味已浓郁。我想我在拒绝成长，因为成人的世界太虚假；同时我想我已变老，因为我不断地回忆过去。可是光阴，并不曾为谁停下过脚步…#冇物语#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3376031)<br><br>2014-05-10 16:28<br>赞(0) 踩(0) | <div>方文山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14291752)<br><br>2014-04-22 09:19<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23640028)<br><br>2013-11-11 09:34<br>赞(0) 踩(0) | <div>把最爱的部分装进 画框</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5533004)<br>爱一个人，一辈子<br>2013-07-08 14:04<br>赞(0) 踩(0) | <div>把最爱的部分装进 画框用一辈子去收藏</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5533004)<br>爱一个人，一辈子<br>2013-07-08 14:04<br>赞(0) 踩(0) | <div>把最爱的部分装进 画框<br>用一辈子去收藏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16269768)<br><br>2013-06-24 00:25<br>赞(0) 踩(0) | <div>在爱情转弯的地方 有些当初会不一样 你在我要去的路上 守候成一面墙 在爱情转弯的地方 甜蜜回忆悬挂走廊 把最爱的部分装进画框 用一辈子去收藏……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16269764)<br><br>2013-06-24 00:22<br>赞(0) 踩(0) | <div>在爱情转弯的地方 有些当初会不一样 你在我要去的路上 守候成一面墙 在爱情转弯的地方 甜蜜回忆悬挂走廊 把最爱的部分装进画框 用一辈子去收藏……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7008104)<br> <br>2013-05-10 23:19<br>赞(0) 踩(0) | <div>说实话黄嘉千的声音和她的脸庞差的有点大 超好听的一首歌</div> |
@@ -90,5 +90,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/382012)<br><br>2011-07-12 12:22<br>赞(0) 踩(0) | <div>温暖的对唱情歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373600)<br>爱你爱你爱死你<br>2011-05-08 10:43<br>赞(0) 踩(0) | <div>嗯  当年蛮喜欢听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/923208)<br>我还没想好要写什么...<br>2011-04-01 23:50<br>赞(0) 踩(0) | <div>推荐理由：柔美中不失力量。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/742292)<br>心之憂矣，自貽伊戚。<br>2010-05-13 02:04<br>赞(2) 踩(0) | <div>我從未在ｋ房裡點過這首歌，可是它始終是我最無價的回憶。國中住校的三年裡，每天睡前、醒後聽的都是它。被這樣的聲音哄睡、叫醒，很幸福地彷彿忘記即將到來的晨練。「用一輩子去收藏 ——」</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/742292)<br>心之憂矣，自貽伊戚。<br>2010-05-13 02:04<br>赞(2) 踩(0) | <div>我從未在ｋ房裡點過這首歌，<br>可是它始終是我最無價的回憶。<br><br>國中住校的三年裡，<br>每天睡前、醒後聽的都是它。<br><br>被這樣的聲音哄睡、叫醒，<br>很幸福地彷彿忘記即將到來的晨練。<br><br>「用一輩子去收藏 ——」</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323252790)<br><br>2017-12-30 19:56<br>赞(0) 踩(0) | <div>2017年12月30日晚19点56分来过</div> |

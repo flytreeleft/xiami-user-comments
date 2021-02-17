@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>7UPcorrect徐徐](https://i.xiami.com/xuxu) | **播放数**: 8496598<br>**粉丝数**: 235<br>**评论数**: 16<br>**地区**: China 中国大陆<br>**风格**: 电子 Electronic, 流行 Pop, 电音流行 Electropop<br> |
+| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>7UPcorrect徐徐](https://i.xiami.com/xuxu) | **地区**: China 中国大陆<br>**风格**: 电子 Electronic, 流行 Pop, 电音流行 Electropop<br>**播放数**: 8496598<br>**粉丝数**: 235<br>**评论数**: 16<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -22,8 +19,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92874210)<br>我还没想好要写什么...<br>2020-09-06 22:15<br>赞(0) 踩(0) | <div>希望不堕落</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340903899)<br>我还没想好要写什么...<br>2020-07-03 08:52<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-06-03 08:27<br>赞(1) 踩(0) | <div></div> |

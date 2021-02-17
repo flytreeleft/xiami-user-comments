@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/736aa4d02921c2445a982fa727277bf1.jpg)<br>黑布衫](https://i.xiami.com/hbs) | **播放数**: 1570298<br>**粉丝数**: 67<br>**评论数**: 11<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop<br> |
+| [![](../../images/musicians/736aa4d02921c2445a982fa727277bf1.jpg)<br>黑布衫](https://i.xiami.com/hbs) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop<br>**播放数**: 1570298<br>**粉丝数**: 67<br>**评论数**: 11<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264045926)<br><br>2020-04-01 12:50<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252755781)<br>我还没想好要写什么...<br>2020-04-01 02:52<br>赞(0) 踩(0) | <div>发现你了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38617164)<br>落瓣飘絮不再缀，古道新亭...<br>2019-06-23 11:09<br>赞(0) 踩(0) | <div>加油哦</div> |

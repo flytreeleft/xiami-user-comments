@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b7b714ce3ca08bb8f0e757336f718b6e.jpg)<br>马融](https://i.xiami.com/czh) | **播放数**: 5520856<br>**粉丝数**: 1317<br>**评论数**: 90<br>**地区**: China 中国大陆<br>**风格**: 城市民谣 Urban Folk<br> |
+| [![](../../images/musicians/b7b714ce3ca08bb8f0e757336f718b6e.jpg)<br>马融](https://i.xiami.com/czh) | **地区**: China 中国大陆<br>**风格**: 城市民谣 Urban Folk<br>**播放数**: 5520856<br>**粉丝数**: 1317<br>**评论数**: 90<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6684451)<br><br>2021-01-06 16:58<br>赞(0) 踩(0) | <div>2021.01.06</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-08-26 15:45<br>赞(0) 踩(0) | <div>20200826.84</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434750029)<br>我还没想好要写什么...<br>2020-08-09 00:13<br>赞(0) 踩(0) | <div>哥们，挺有才！唱功好。</div> |
@@ -39,12 +39,12 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347186879)<br><br>2019-09-14 10:44<br>赞(0) 踩(0) | <div>九月挂了？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184290548)<br>80的大叔<br>2019-09-08 23:01<br>赞(0) 踩(0) | <div>九月没有了，改个歌词吧，老马，九月的确好听啊可我不敢用音响听，你看吧，下架了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196781938)<br><br>2019-09-08 18:42<br>赞(1) 踩(0) | <div>九月九月九月 <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png">秘密也行啊 <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"> <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"> <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184290548)<br>80的大叔<br>2019-08-28 20:47<br>赞(0) 踩(0) | <div>只听其歌 不评其人红时不追 落实不黑只赏其作 不问是非</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184290548)<br>80的大叔<br>2019-08-28 20:47<br>赞(0) 踩(0) | <div>只听其歌 不评其人<br>红时不追 落实不黑<br>只赏其作 不问是非</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336691185)<br><br>2019-01-05 00:17<br>赞(0) 踩(0) | <div><img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png">喜欢你的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4148998)<br>你所遇到的一切，都不是偶...<br>2018-10-17 20:19<br>赞(0) 踩(0) | <div>什么时候有演唱会</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127857200)<br>双手带电二百二十伏   <br>2018-09-15 15:36<br>赞(2) 踩(0) | <div>先做人，再做音乐。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55878558)<br><br>2019-08-20 00:34<br>赞(0) 踩(0) | <div>傻b</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11105318)<br>我是个很懒很懒的人，懒到...<br>2018-09-02 23:41<br>赞(4) 踩(0) | <div>刚刚在苏州听完了现场。这是我听过人最少的现场，约莫20人。Livehouse和演唱会音乐节的现场不一样，因为它的小，你会感觉与歌手呼吸着同一块空气，音乐在这小房子里弥漫，渗进血液，这时就完成了与歌手的交心。而这一场，因为人少，感觉更是来的直接和强烈，尤其是听到《赤脚的孤儿》的时候。我也是孤儿，这首歌很早就惊艳了我，一直是我压箱底的收藏。当他在舞台上嘶吼，几米外台下的我几欲落泪。很多人说他人品不好，其实人品这东西只有自己知道。我们听的是音乐，柯本和罗斯歌迷也不计其数，我们只需要听纯粹的音乐，反正感觉他很缺钱，他需要钱做音乐，所以，我还是希望喜欢他音乐的人支持一下他，能去次现场还是要去的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11105318)<br>我是个很懒很懒的人，懒到...<br>2018-09-02 23:41<br>赞(4) 踩(0) | <div>刚刚在苏州听完了现场。这是我听过人最少的现场，约莫20人。<br>Livehouse和演唱会音乐节的现场不一样，因为它的小，你会感觉与歌手呼吸着同一块空气，音乐在这小房子里弥漫，渗进血液，这时就完成了与歌手的交心。<br>而这一场，因为人少，感觉更是来的直接和强烈，尤其是听到《赤脚的孤儿》的时候。我也是孤儿，这首歌很早就惊艳了我，一直是我压箱底的收藏。当他在舞台上嘶吼，几米外台下的我几欲落泪。<br>很多人说他人品不好，其实人品这东西只有自己知道。我们听的是音乐，柯本和罗斯歌迷也不计其数，我们只需要听纯粹的音乐，反正感觉他很缺钱，他需要钱做音乐，所以，我还是希望喜欢他音乐的人支持一下他，能去次现场还是要去的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127857200)<br>双手带电二百二十伏   <br>2018-09-15 15:38<br>赞(0) 踩(0) | <div>此言差矣，音乐无国界，音乐人有，先做人，再做音乐，音乐差点都没事，人不好可就&amp;hellip;&amp;hellip;</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11105318)<br>我是个很懒很懒的人，懒到...<br>2018-09-15 22:12<br>赞(0) 踩(0) | <div><q><b>+1说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49895220)<br>一念静心花开遍世界<br>2018-07-25 12:39<br>赞(0) 踩(0) | <div>我是神仙呢？！</div> |
@@ -56,10 +56,10 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345122290)<br><br>2018-06-06 19:37<br>赞(0) 踩(0) | <div>您唱的很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288516691)<br><br>2018-05-21 16:29<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343113758)<br>美好世界<br>2018-03-16 17:16<br>赞(0) 踩(0) | <div>还行</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17132003)<br>一个开始认真养虾米的人<br>2017-12-04 08:59<br>赞(8) 踩(0) | <div>转发一段文字：马融更赖账！之前谈好在他专辑上放个商业logo钱当下就付他了，答应制作好后给我方五十张作品，两月后他只发了个电脑制作的文本图给我方，到现在一年多了他电话、微信、微博全屏蔽了我，专辑上也没有给我方制作上logo！现在连微博都把我给设置了，根本联系不上！！看完我就来搜一搜 到底是什么人啊那么牛逼 <img src="../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17132003)<br>一个开始认真养虾米的人<br>2017-12-04 08:59<br>赞(8) 踩(0) | <div>转发一段文字：<br>马融更赖账！之前谈好在他专辑上放个商业logo钱当下就付他了，答应制作好后给我方五十张作品，两月后他只发了个电脑制作的文本图给我方，到现在一年多了他电话、微信、微博全屏蔽了我，专辑上也没有给我方制作上logo！现在连微博都把我给设置了，根本联系不上！！<br>看完我就来搜一搜 到底是什么人啊那么牛逼 <img src="../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55878558)<br><br>2018-05-09 05:11<br>赞(0) 踩(0) | <div>据我了解的 你借他钱一直没有还给他哦！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17132003)<br>一个开始认真养虾米的人<br>2020-04-12 15:46<br>赞(0) 踩(0) | <div><q><b>超级73·复仇者说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289324997)<br><br>2017-11-11 02:36<br>赞(1) 踩(0) | <div>微信截图也可以伪造啊，自己整个号改一名字就行，玩新媒体的应该都懂吧~~~所以都别跟着瞎吵吵了，真的，用大脑思考下，再愤怒。中国人自己砸自己国人的日本车这类事情&amp;hellip;&amp;hellip;能不能少点，老外都看笑话呢，觉得丫们智商是不是都缺，尴尬了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289324997)<br><br>2017-11-11 02:36<br>赞(1) 踩(0) | <div>微信截图也可以伪造啊，自己整个号改一名字就行，玩新媒体的应该都懂吧~~~所以都别跟着瞎吵吵了，真的，用大脑思考下，再愤怒。<br>中国人自己砸自己国人的日本车这类事情&amp;hellip;&amp;hellip;能不能少点，老外都看笑话呢，觉得丫们智商是不是都缺，尴尬了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88869)<br>我就是老姐姐<br>2017-12-17 11:02<br>赞(0) 踩(0) | <div>伪造只能一个人做 但是人在做天在看 他的事情不止这次曝光的一次 很多地方都碰到他耍无赖的事情怎么伪造？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282632728)<br>我还没想好要写什么...<br>2017-11-10 14:47<br>赞(2) 踩(0) | <div>你火了，没素质的东西</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36703044)<br>暂无签名~<br>2017-11-10 13:09<br>赞(2) 踩(0) | <div>看了推文才来好奇听听到底是谁，你火了</div> |
@@ -67,7 +67,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307258679)<br> <br>2017-11-10 10:20<br>赞(3) 踩(0) | <div>稀烂的班子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38883178)<br>“”<br>2017-11-10 09:55<br>赞(0) 踩(0) | <div>gg man</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38883178)<br>“”<br>2017-11-10 09:54<br>赞(0) 踩(0) | <div>ggman</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2017-11-09 23:25<br>赞(13) 踩(0) | <div>关于马融取消孝感MFhouse今晚（2017/11/9）巡演的公告2017-11-09 alexxiaoshuai MFhouse<a href="http://mp.weixin.qq.com/s/SedB_qKeMG3ixVF6Sl_nkA" target="_blank" rel="nofollow noreferrer noopener">http://mp.weixin.qq.com/s/SedB_qKeMG3ixVF6Sl_nkA</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2017-11-09 23:25<br>赞(13) 踩(0) | <div>关于马融取消孝感MFhouse今晚（2017/11/9）巡演的公告<br>2017-11-09 alexxiaoshuai MFhouse<br><a href="http://mp.weixin.qq.com/s/SedB_qKeMG3ixVF6Sl_nkA" target="_blank" rel="nofollow noreferrer noopener">http://mp.weixin.qq.com/s/SedB_qKeMG3ixVF6Sl_nkA</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122588872)<br><br>2017-11-10 02:34<br>赞(0) 踩(0) | <div>湖北人表示本地公众号推送疯了!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88869)<br>我就是老姐姐<br>2017-11-10 05:17<br>赞(0) 踩(0) | <div>听说了 人品太差了 一点责任感也没有 就这几个粉丝还耍大牌 等着看他吃土</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282632728)<br>我还没想好要写什么...<br>2017-11-10 14:48<br>赞(0) 踩(0) | <div>广州地区发来祝力</div> |

@@ -45,8 +45,8 @@ Music......<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13099238)<br>uR alwaysU<br>2020-05-25 22:31<br>赞(0) 踩(0) | <div>歌词是我这种自私冷漠又缺爱的人的究极爱情观没错了 &amp;ldquo;像这样的事情也许有点恶心&amp;rdquo;过份真实</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405015840)<br>我还没想好要写什么...<br>2019-09-12 01:32<br>赞(0) 踩(0) | <div>像这样的事情，看得出他的真心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11464083)<br>always awake<br>2019-02-20 22:00<br>赞(1) 踩(0) | <div>歌词很可怕</div> |
@@ -64,7 +64,7 @@ Music......<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18058963)<br><br>2015-12-11 22:07<br>赞(2) 踩(0) | <div>他会专心听我 当我有话要说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54701419)<br> <br>2015-08-12 23:02<br>赞(1) 踩(0) | <div>The final step</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7205644)<br> <br>2015-06-07 23:34<br>赞(1) 踩(0) | <div>不知道唱出了多少人心中的愿望，每一次听都是满满的感慨......</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3520277)<br>feel the chi...<br>2015-05-06 21:08<br>赞(4) 踩(0) | <div>如果我傷害了你，我想我不會比你疼的更輕。可笑的是這並不能用以作為慰藉。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3520277)<br>feel the chi...<br>2015-05-06 21:08<br>赞(4) 踩(0) | <div>如果我傷害了你，我想我不會比你疼的更輕。<br>可笑的是這並不能用以作為慰藉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32052730)<br>虾米虾米？<br>2015-05-03 00:04<br>赞(1) 踩(0) | <div>太好听。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19711597)<br><br>2015-03-26 19:23<br>赞(2) 踩(0) | <div>我个人比较喜欢原唱版，depeche mode 特别是101的现场版。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/132119586)<br><br>2017-05-08 18:07<br>赞(0) 踩(0) | <div>这是乃文致敬偶像的吧</div> |
@@ -79,7 +79,7 @@ Music......<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22441859)<br><br>2014-02-16 01:31<br>赞(0) 踩(0) | <div>【我的白天是你的黑夜，当我思念时，你正入眠。那些微笑着看你的星星，就是我给你的惊喜。除了我，还有谁，为你守候到天亮；除了你，还有谁，知道我的眼睛会说话】怀念文艺的过去，怀念混在版里的那些，怀念那些混沌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89845)<br><br>2013-12-19 14:40<br>赞(0) 踩(0) | <div>而我同樣也會。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3409739)<br><br>2013-11-24 11:47<br>赞(0) 踩(0) | <div>泪点低的无法理解  生病又来大姨妈的女人真TM烦！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2804823)<br>我还没想好要写什么...<br>2013-10-15 21:26<br>赞(0) 踩(0) | <div>他点亮另一盏灯 打开另一扇门让我学会去爱 我所有的恨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2804823)<br>我还没想好要写什么...<br>2013-10-15 21:26<br>赞(0) 踩(0) | <div>他点亮另一盏灯 打开另一扇门<br>让我学会去爱 我所有的恨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4752501)<br>我还没想好要写什么...<br>2013-10-11 21:52<br>赞(0) 踩(0) | <div>听得好感动 T_T 今日虾米的都好符合心态。呜呜呜呜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1420418)<br> <br>2013-08-18 23:03<br>赞(0) 踩(0) | <div>她唱到这首歌时，天空落下一两滴雨，而微风适时吹起，我还能看见云后若隐若现的月亮。后来，我跟你说，那一刻希望你在。可你说什么来着 ？呵呵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6088)<br> <br>2013-08-13 23:04<br>赞(0) 踩(0) | <div>脑袋里回响了一天的旋律。祝妹子幸福@2B小琪</div> |
@@ -94,7 +94,7 @@ Music......<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5090)<br><br>2012-03-05 16:58<br>赞(0) 踩(0) | <div>0.0</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4854940)<br>我还没想好要写什么...<br>2012-02-22 19:57<br>赞(0) 踩(0) | <div>Where are you</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5647592)<br><br>2011-12-08 21:16<br>赞(0) 踩(0) | <div>在哪里？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1799720)<br><br>2011-12-03 22:44<br>赞(1) 踩(0) | <div>想找个人来分享 分享我的生命藏在最深的梦 埋在最深的我永远站我这一边 从不曾改变而我同样也会 支持他到永远他会专心听我 当我有话要说关于我们这世界 和生活的种种</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1799720)<br><br>2011-12-03 22:44<br>赞(1) 踩(0) | <div>想找个人来分享 分享我的生命<br>藏在最深的梦 埋在最深的我<br>永远站我这一边 从不曾改变<br>而我同样也会 支持他到永远<br>他会专心听我 当我有话要说<br>关于我们这世界 和生活的种种</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2533526)<br><br>2011-10-09 15:42<br>赞(0) 踩(0) | <div>naiwen的最爱这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128372)<br><br>2011-07-29 10:37<br>赞(0) 踩(0) | <div>原唱：Depeche Mode</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251264)<br>stay gold<br>2011-07-19 20:43<br>赞(0) 踩(0) | <div>看得出他的真心</div> |
@@ -104,4 +104,4 @@ Music......<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2398489)<br><br>2011-01-18 15:33<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/772229)<br>Whatever<br>2010-04-07 23:00<br>赞(0) 踩(0) | <div>原唱Depeche Mode的somebody比較好聽...翻成中文...聽起來很怪</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345)<br>老阿姨<br>2010-08-29 17:46<br>赞(0) 踩(0) | <div>这首歌不适合中文，听过很多版本，还是原唱最好。dm的somebody我选做婚礼进行曲了，呵呵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246887)<br>音乐是一种想象<br>2009-11-09 17:54<br>赞(1) 踩(0) | <div>关于杨乃文，推荐二首。这首LZ已经提到了哈。这首是纯吉他伴奏，每句都是那么标志性的耐人寻味。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246887)<br>音乐是一种想象<br>2009-11-09 17:54<br>赞(1) 踩(0) | <div>关于杨乃文，推荐二首。<br>这首LZ已经提到了哈。<br>这首是纯吉他伴奏，每句都是那么标志性的耐人寻味。。。</div> |

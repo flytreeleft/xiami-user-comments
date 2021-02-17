@@ -12,12 +12,9 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355013997)<br>拥有理想的人才会长大<br>2018-04-19 12:43<br>赞(0) 踩(0) | <div>难听 <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |

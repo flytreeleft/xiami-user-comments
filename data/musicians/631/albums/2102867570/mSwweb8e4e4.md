@@ -45,8 +45,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2079568)<br>不要變圓滑，要變成星星。<br>2018-11-24 17:29<br>赞(0) 踩(0) | <div>一峰不能無二汶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375638657)<br><br>2018-10-28 22:59<br>赞(1) 踩(0) | <div>Danny 唱出明显的痛，一峰唱出了梦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328007415)<br>我还没想好要写什么...<br>2018-08-07 05:19<br>赞(1) 踩(0) | <div>迷人啊！</div> |
@@ -54,7 +54,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47779585)<br>给我一支船桨  邀我乘风...<br>2018-07-26 19:09<br>赞(2) 踩(0) | <div>这个专辑是翻唱老歌吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401904988)<br>再等等就會見到我<br>2018-08-28 23:19<br>赞(0) 踩(0) | <div>全是陳百強的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403054214)<br><br>2020-12-23 11:23<br>赞(0) 踩(0) | <div><q><b>雲上的太陽说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220992376)<br><br>2018-03-31 00:30<br>赞(3) 踩(0) | <div>紐約與室樂樂隊同步錄音第二首：《夢囈》；這是陳百強的作曲作品，原本寫給電影《秋天的童話》，但沒用上，後來變成他自己唱片裡的歌曲。我決定將這首作品的浪漫極致化，就在紐約，選擇60年代的聲音，像Nat King Cole的音樂一樣，並且以同步錄音方法灌錄。&amp;mdash;&amp;mdash;林一峰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220992376)<br><br>2018-03-31 00:30<br>赞(3) 踩(0) | <div>紐約與室樂樂隊同步錄音第二首：《夢囈》；這是陳百強的作曲作品，原本寫給電影《秋天的童話》，但沒用上，後來變成他自己唱片裡的歌曲。<br><br>我決定將這首作品的浪漫極致化，就在紐約，選擇60年代的聲音，像Nat King Cole的音樂一樣，並且以同步錄音方法灌錄。&amp;mdash;&amp;mdash;林一峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8970176)<br>我还没想好要写什么...<br>2018-01-04 10:01<br>赞(1) 踩(0) | <div>为你买了SVIP了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305873820)<br>喜欢音乐<br>2017-11-16 09:24<br>赞(1) 踩(0) | <div>可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36414805)<br> <br>2017-11-14 19:05<br>赞(1) 踩(0) | <div>安安静静的</div> |

@@ -55,7 +55,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35614762)<br>一只不会飞翔的野鸽<br>2014-10-27 00:44<br>赞(0) 踩(0) | <div>天籁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6857039)<br><br>2013-06-28 11:15<br>赞(0) 踩(0) | <div>还可以</div> |

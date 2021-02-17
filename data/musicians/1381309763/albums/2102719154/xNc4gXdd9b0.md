@@ -36,5 +36,3 @@ Round about and back again
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

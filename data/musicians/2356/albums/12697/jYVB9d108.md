@@ -39,8 +39,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189052949)<br><br>2020-11-21 17:15<br>赞(0) 踩(0) | <div>前奏怎么有点The Cure的感觉？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85012236)<br>爱不是几滴眼泪几封情书<br>2020-04-09 03:07<br>赞(0) 踩(0) | <div>电音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7337401)<br><br>2019-06-30 23:12<br>赞(0) 踩(0) | <div>有点邪魅的电子乐</div> |
@@ -95,8 +95,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5150412)<br>新浪微博：李药师-666<br>2016-01-26 18:07<br>赞(14) 踩(0) | <div>这声音真是媚到骨子里了，很特别的一首歌，林暐哲确实有才华</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90440588)<br>你把沉默染成夜色，留我徘...<br>2015-12-11 08:22<br>赞(0) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2281021)<br> <br>2015-10-19 07:39<br>赞(0) 踩(0) | <div>美好的新的一周，由这一曲开始～73</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1739529)<br><br>2015-10-13 00:01<br>赞(2) 踩(0) | <div>我是一朵半开的花　我是一朵半开的花美丽的花苞　还来不及盛开就遇见了你　就遇见了你　就遇见了你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1739529)<br><br>2015-10-12 23:59<br>赞(0) 踩(0) | <div>我是一朵半开的花　我是一朵半开的花美丽的花苞　还来不及盛开就遇见了你　就遇见了你　就遇见了你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1739529)<br><br>2015-10-13 00:01<br>赞(2) 踩(0) | <div>我是一朵半开的花　我是一朵半开的花<br>美丽的花苞　还来不及盛开<br>就遇见了你　就遇见了你　就遇见了你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1739529)<br><br>2015-10-12 23:59<br>赞(0) 踩(0) | <div>我是一朵半开的花　我是一朵半开的花<br>美丽的花苞　还来不及盛开<br>就遇见了你　就遇见了你　就遇见了你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19828583)<br><br>2015-09-27 00:08<br>赞(22) 踩(0) | <div>今晚南京森林音乐节开场就是这首歌，声音已经没有了原来的稚气，可是却成熟浑厚很多，想起十几年前的一个晚上一个人听这首歌的时候，想起她和林暐哲的感情，没记错这首歌是她前男友写的，编曲李宇寰。真好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4355033)<br><br>2017-09-11 12:53<br>赞(0) 踩(0) | <div>真好 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">最爱这个组合</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4355033)<br><br>2017-09-11 12:53<br>赞(0) 踩(0) | <div>三人组合</div> |
@@ -126,7 +126,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7313997)<br>你若喜欢怪人，那我便是神<br>2012-12-22 12:39<br>赞(1) 踩(0) | <div>花謝花會開，蟲卻回不來</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5804530)<br>让我死在你的裆部里<br>2012-07-23 22:50<br>赞(1) 踩(0) | <div>杨乃文的声音竟然可以演变成这样。好听呢~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/885699)<br>有啥好写<br>2012-03-21 14:49<br>赞(1) 踩(0) | <div>神一般的配乐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3632275)<br>我还没想好要写什么...<br>2012-03-01 20:05<br>赞(0) 踩(0) | <div>我是一朵半开的花娇嫩的花瓣　还来不及绽放 就给虫吃了美丽的花苞　还来不及盛开 就遇见了你美妙的青春　都因为你 还等不到春天　就已经枯萎我是一朵半开的花 我还来不及长大 就遇见了你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3632275)<br>我还没想好要写什么...<br>2012-03-01 20:05<br>赞(0) 踩(0) | <div>我是一朵半开的花<br>娇嫩的花瓣　还来不及绽放 就给虫吃了<br>美丽的花苞　还来不及盛开 就遇见了你<br>美妙的青春　都因为你 还等不到春天　就已经枯萎<br><br>我是一朵半开的花 我还来不及长大 就遇见了你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/820973)<br><br>2012-02-29 13:07<br>赞(0) 踩(0) | <div>@NaiWen寶貝  老歌快翻烂了  什么时候出新专辑~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2026637)<br><br>2011-06-14 20:07<br>赞(1) 踩(0) | <div>乃文的歌有的很慢，懒懒的，但又让你感觉到下一刻的呼吸，而不至于快进到next song</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/876673)<br>唯有音乐解我忧<br>2010-12-22 21:13<br>赞(1) 踩(0) | <div>爱她 歌声清清冷冷的感觉</div> |

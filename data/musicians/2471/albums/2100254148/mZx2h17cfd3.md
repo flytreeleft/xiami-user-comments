@@ -12,14 +12,9 @@
 
 ## 歌词
 
-<div>
-
-</div>
 </br>
 
 > <p>LRC歌词最后由 <a target="_blank" href="https://emumo.xiami.com/u/38918617">方小猪Kellen</a> 编辑于2020-04-26 14:24</p>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

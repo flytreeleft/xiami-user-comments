@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e65cfc685f41f38215efdf88e1436d21.jpg)<br>上海彩虹室内合唱团](https://i.xiami.com/rcs) | **播放数**: 11744083<br>**粉丝数**: 21435<br>**评论数**: 274<br>**地区**: China 中国大陆<br>**风格**: 合唱团 Choral<br> |
+| [![](../../images/musicians/e65cfc685f41f38215efdf88e1436d21.jpg)<br>上海彩虹室内合唱团](https://i.xiami.com/rcs) | **地区**: China 中国大陆<br>**风格**: 合唱团 Choral<br>**播放数**: 11744083<br>**粉丝数**: 21435<br>**评论数**: 274<br> |
 
 ## 档案
 
@@ -74,8 +74,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2781794)<br>OK. I Will S...<br>2020-12-19 00:00<br>赞(1) 踩(0) | <div>10岁快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86348)<br><br>2020-12-16 12:33<br>赞(0) 踩(0) | <div>保持安静 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png">寿星许愿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7486037)<br>自己是自己的孩子<br>2020-12-16 11:07<br>赞(1) 踩(0) | <div>今日明星夜 祝你生日快乐</div> |
@@ -90,7 +90,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339952439)<br>Living is Dy...<br>2020-04-05 18:22<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304896641)<br>我以为…很好<br>2019-12-21 23:30<br>赞(1) 踩(0) | <div>宝藏合唱团～偶尔很逗比很幽默，有时却又歌词温暖戳心，希望你们越来越好啊 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71478)<br>这里住着未在任何世界露脸...<br>2019-12-08 23:28<br>赞(0) 踩(0) | <div>今天看完演出，虾米这里评论也太少了吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29486832)<br>感谢虾米虾皮和虾仁<br>2019-11-18 21:33<br>赞(1) 踩(0) | <div>孩子说她们要赶在高考前排合唱，选的曲目就是《夏天的梦是什么颜色的》。一听倾心，再听唏嘘……加油！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29486832)<br>感谢虾米虾皮和虾仁<br>2019-11-18 21:33<br>赞(1) 踩(0) | <div>孩子说她们要赶在高考前排合唱，选的曲目就是《夏天的梦是什么颜色的》。一听倾心，再听唏嘘……<br>加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2019-09-01 21:29<br>赞(0) 踩(0) | <div>258</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344018512)<br>我还没想好要写什么...<br>2019-08-14 18:54<br>赞(0) 踩(0) | <div>有才有梗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2019-06-27 14:00<br>赞(1) 踩(0) | <div>️</div> |
@@ -101,7 +101,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2019-04-14 08:06<br>赞(2) 踩(0) | <div>申请加入组织</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216867)<br>无垠无涯的蓝<br>2019-04-13 20:02<br>赞(0) 踩(0) | <div>没有演出信息吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407709366)<br>我要向你们证明。我才是真...<br>2019-03-25 20:37<br>赞(0) 踩(0) | <div>永远爱彩虹合唱团。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7508403)<br><br>2019-03-01 08:37<br>赞(1) 踩(0) | <div>因为每日推荐曲里有《我喜欢》这首歌而来，在删除一溜傻歌傻曲的过程中一时下不了决心。因为它是上海的，就来看看，不料听了好几曲。排位第一、二位的听了个开头就shut了，没笑过，chaos有点弥漫。倒是第三第四第五顺耳很多。排位第二的神曲不看歌词会以为贝多芬在唱高尔基家的海鸥……笑场滴不要如此，排位第一的掏空曲改作咏叹调会装得更顺……你要的那种市侩的庄严感。。。彩虹是平的……这是我对合唱团声音的感觉金同学是有才的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7508403)<br><br>2019-03-01 08:37<br>赞(1) 踩(0) | <div>因为每日推荐曲里有《我喜欢》这首歌而来，在删除一溜傻歌傻曲的过程中一时下不了决心。因为它是上海的，就来看看，不料听了好几曲。<br>排位第一、二位的听了个开头就shut了，没笑过，chaos有点弥漫。<br>倒是第三第四第五顺耳很多。<br>排位第二的神曲不看歌词会以为贝多芬在唱高尔基家的海鸥……笑场滴不要<br>如此，排位第一的掏空曲改作咏叹调会装得更顺……你要的那种市侩的庄严感。。。<br>彩虹是平的……这是我对合唱团声音的感觉<br>金同学是有才的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407709366)<br>我要向你们证明。我才是真...<br>2019-02-26 20:35<br>赞(0) 踩(0) | <div>终于找到我喜欢听的歌曲了。彩虹合唱团真的很不错。我喜欢听你们的歌曲。真的很好听。我永远支持你们！彩虹合唱团。加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4227119)<br>嘿嘿<br>2019-02-26 02:20<br>赞(0) 踩(0) | <div>好想听他们在台湾唱的祝福！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407709366)<br>我要向你们证明。我才是真...<br>2019-02-23 07:14<br>赞(0) 踩(0) | <div>他们的歌曲我最喜欢听啦。</div> |
@@ -297,7 +297,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2203566)<br>直到光芒将我带走<br>2016-02-15 18:34<br>赞(1) 踩(0) | <div>『中国合唱作曲界相声一哥』『用吃奶的力气、炸观众一脸』</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72802088)<br>这家伙很聪明什么也没留下...<br>2016-02-08 23:39<br>赞(11) 踩(0) | <div>张士超只是他们的一首返场，不要凭这一首歌来评判他们好吗？你们都不听其他歌的？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284305860)<br>就如重新学做人，你比那过...<br>2020-02-02 01:21<br>赞(0) 踩(0) | <div>确实是这首歌知道他们的，不过我最喜欢我有一个装满星星的口袋。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13075016)<br> ) ( <br>2016-02-03 13:09<br>赞(58) 踩(0) | <div>生活中，张士超是歌曲作者金承志的一个哥们，关系非常好。他们一起合租，还在上音读书，住到了五角场附近。关于歌词内容，这是一件真实发生的糗事，当时金承志没带钥匙，结果找不到钥匙，给张士超打电话，他怎么也不接。这个曲子里的故事是源自生活，高于生活。但这最终是一个HappyEnding，张士超把钥匙给送回来了（后经张士超回忆是金承志自己打车去拿的钥匙，200多块钱）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13075016)<br> ) ( <br>2016-02-03 13:09<br>赞(58) 踩(0) | <div>生活中，张士超是歌曲作者金承志的一个哥们，关系非常好。他们一起合租，还在上音读书，住到了五角场附近。<br><br>关于歌词内容，这是一件真实发生的糗事，当时金承志没带钥匙，结果找不到钥匙，给张士超打电话，他怎么也不接。这个曲子里的故事是源自生活，高于生活。但这最终是一个HappyEnding，张士超把钥匙给送回来了（后经张士超回忆是金承志自己打车去拿的钥匙，200多块钱）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99144762)<br> <br>2016-01-31 13:32<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46256417)<br>Peaceful Hea...<br>2016-01-31 09:09<br>赞(4) 踩(0) | <div>彩虹呢 <img src="../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5880168)<br> <br>2016-01-30 10:08<br>赞(1) 踩(0) | <div>一支有魔力的合唱团</div> |
@@ -334,7 +334,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275850)<br><br>2016-01-16 22:08<br>赞(249) 踩(0) | <div>神秘民间组织</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116017256)<br><br>2016-11-26 20:03<br>赞(0) 踩(0) | <div><img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2418238)<br>weibo: @尤米口<br>2017-01-08 11:41<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈哈</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/624806)<br>暂无签名~<br>2018-01-25 11:27<br>赞(0) 踩(0) | <div>233333333精辟精辟</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/624806)<br>暂无签名~<br>2018-01-25 11:27<br>赞(0) 踩(0) | <div>233333333<br>精辟精辟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5520537)<br><br>2016-01-16 09:57<br>赞(0) 踩(0) | <div>神曲占坑2333</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15452208)<br>虾米是这几年唯一的听歌软...<br>2016-01-16 09:17<br>赞(22) 踩(0) | <div>古典乡村另类实验西部说唱史诗新世纪进行曲 <img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74178032)<br> <br>2016-01-16 05:31<br>赞(0) 踩(0) | <div>多更新哦……期待更多接地气神作</div> |

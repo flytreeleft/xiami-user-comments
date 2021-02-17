@@ -12,33 +12,30 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344581)<br>白儿<br>2021-01-05 15:23<br>赞(0) 踩(0) | <div>虾米竟然要关了&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325997143)<br>给时间时间，让过去过去<br>2020-09-19 08:14<br>赞(0) 踩(0) | <div>听你看着蓝天白云惬意满满 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325997143)<br>给时间时间，让过去过去<br>2020-09-19 08:14<br>赞(0) 踩(0) | <div>听你<br>看着蓝天白云<br>惬意满满 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50412153)<br>曾经一起走过的人渐次离去...<br>2020-08-12 23:23<br>赞(0) 踩(0) | <div>弹，弹，弹，弹去一身尘埃，弹去无穷杂念。小乘佛以&amp;ldquo;我执&amp;rdquo;为痛苦根源，是轮回的原因。大道则言&amp;ldquo;无我&amp;rdquo;为真我，跳脱我身处之小限，放眼高远，得见大千，那里有诸佛指路：&amp;ldquo;我执为根，生诸烦恼，若不执我，无烦恼故。&amp;rdquo;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268013804)<br><br>2020-06-29 01:22<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2020-06-20 00:13<br>赞(4) 踩(0) | <div>活出自己  生命的奇迹   和无限的可能性</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2020-06-20 00:12<br>赞(3) 踩(0) | <div>活出自己  生命的奇迹   和无限的可能性</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2020-06-20 00:11<br>赞(1) 踩(0) | <div>活出自己</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2020-06-20 00:11<br>赞(0) 踩(0) | <div>因为改变命运是因为改变你的认知改变你的思维改变思维最好的方法是学习</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2020-05-28 15:36<br>赞(3) 踩(0) | <div>舒 展 你 的 灵 魂舒 展 你 的 语 言</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338962994)<br>佛说一切法 为除一切心 ...<br>2020-05-01 10:36<br>赞(1) 踩(0) | <div>大道本至简歇即乃菩提</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2020-06-20 00:11<br>赞(0) 踩(0) | <div>因为改变命运<br>是因为<br>改变你的认知<br>改变你的思维<br><br>改变思维<br>最好的方法是学习</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2020-05-28 15:36<br>赞(3) 踩(0) | <div>舒 展 你 的 灵 魂<br><br>舒 展 你 的 语 言</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338962994)<br>佛说一切法 为除一切心 ...<br>2020-05-01 10:36<br>赞(1) 踩(0) | <div>大道本至简<br>歇即乃菩提</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2020-04-06 20:28<br>赞(0) 踩(0) | <div>珍惜当下，尽情体验</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293339854)<br>音乐陪我就好…后会有期<br>2020-03-07 16:36<br>赞(1) 踩(0) | <div>世间万物皆有灵，无色无相，是我非我。阿弥陀佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337996178)<br><br>2020-01-20 10:49<br>赞(6) 踩(0) | <div>春花秋月夏风冬雪感谢四季的芳华大寒过后，又是一年新的轮回冬天将尽春天 亦不远了……2020.01.20.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293339854)<br>音乐陪我就好…后会有期<br>2020-03-07 16:36<br>赞(1) 踩(0) | <div>世间万物皆有灵，<br>无色无相，是我非我。<br>阿弥陀佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337996178)<br><br>2020-01-20 10:49<br>赞(6) 踩(0) | <div>春花秋月夏风冬雪<br>感谢四季的芳华<br>大寒过后，又是一年新的轮回<br>冬天将尽<br>春天 亦不远了……<br>2020.01.20.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325374787)<br><br>2020-01-05 17:08<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15045121)<br>不要在奋斗的年龄，选择安...<br>2019-12-22 20:07<br>赞(3) 踩(0) | <div>无我，人能做到无我的有几个，这或许就是我们最终追求的目标，心静下来，静静的聆听不为一件美事！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14652349)<br>壹贰叁 肆伍陆 柒捌玖<br>2019-12-15 13:58<br>赞(3) 踩(0) | <div>“微光 會吸引微光&amp;微光 會點燃微光”咧句话 晓me 出自哪儿~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14652349)<br>壹贰叁 肆伍陆 柒捌玖<br>2019-12-15 13:58<br>赞(3) 踩(0) | <div>“微光 會吸引微光<br>&amp;微光 會點燃微光”<br>咧句话 晓me 出自哪儿~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343365031)<br>倾听别人的声音<br>2019-12-02 22:08<br>赞(2) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353580463)<br>我还没想好要写什么...<br>2019-11-26 23:18<br>赞(0) 踩(0) | <div>☯️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12326477)<br>喜风喜雨 只喜欢你-落幕<br>2019-11-26 03:32<br>赞(2) 踩(0) | <div>适逢其会 猝不及防花开两朵 天各一方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12326477)<br>喜风喜雨 只喜欢你-落幕<br>2019-11-26 03:32<br>赞(2) 踩(0) | <div>适逢其会 猝不及防<br>花开两朵 天各一方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290339969)<br><br>2019-11-09 03:51<br>赞(20) 踩(0) | <div>邓伟标2016年的倾情力作，全辑以大自然与独特的东方乐器、人声为主题色彩，编曲精致，格局大气，既有班得瑞的空灵和玫瑰园的纯美，更突出人声吟唱东方梵音的独特音色，以及古老真言的内在律动。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289585517)<br>心如明月高悬 天籁之声飘...<br>2019-10-20 11:23<br>赞(0) 踩(0) | <div>游人散去 春愁 小楼夜月 垂帘抚琴 暗泪流</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244939574)<br><br>2019-08-26 16:02<br>赞(1) 踩(0) | <div>无我的境界高，向前走慢慢学呀。</div> |
@@ -46,23 +43,23 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423015516)<br>半夏<br>2019-07-30 17:08<br>赞(4) 踩(0) | <div>貌似好久没有安静下来听一首音乐了！世俗忙碌里，吃饭穿衣睡觉，上班，在路上……心情因为这伏天，天空似一张锅扣下来，仿佛连云都看不到了，莫名其妙的烦躁焦灼！感谢虾米，自动向我推荐了邓伟标！这闷热随着音乐声起，心情慢慢的平复下来！这是入夏以来我听到节奏最慢最好听的一首纯音乐！生活当如斯般恬然……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424898028)<br>有福多读书<br>2019-07-22 10:59<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324738960)<br>音乐的旋律伴我追寻人生。<br>2019-07-14 10:27<br>赞(1) 踩(0) | <div>读懂悟人缘，感悟人生缘。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15965035)<br><br>2019-07-11 07:23<br>赞(3) 踩(0) | <div>如果我的人生还剩下四十年，我愿意把剩下的时间全部奉献给我的家人和朋友。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15965035)<br><br>2019-07-11 07:23<br>赞(3) 踩(0) | <div>如果我的人生还剩下四十年，<br><br><br><br>我愿意把剩下的时间全部奉献给我的家人和朋友。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304979498)<br><br>2019-06-12 22:18<br>赞(0) 踩(0) | <div>压轴 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9250329)<br>1359268<br>2019-05-30 00:40<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422904554)<br><br>2019-05-13 23:30<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408520021)<br><br>2019-05-12 17:58<br>赞(2) 踩(0) | <div>未曾生我谁是我，生我之时我是谁。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10006444)<br>淡然我心是为雅  倾情与...<br>2019-04-29 16:30<br>赞(5) 踩(0) | <div>禅悟中...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46121430)<br><br>2019-04-29 14:32<br>赞(1) 踩(0) | <div>五色令人目盲，五音令人耳聋，五味令人口爽，驰骋畋猎令人心发狂，难得之货令人行妨。是以圣人为腹不为目，故去彼取此。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421138987)<br><br>2019-04-23 21:13<br>赞(4) 踩(0) | <div>建立自我，追求无我放下自我，醉卧红尘无相无行   无本无我来便有走   缘起缘灭无心无色   无问东西问天问地    空空如也</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46121430)<br><br>2019-04-29 14:32<br>赞(1) 踩(0) | <div>五色令人目盲，五音令人耳聋，五味令人口爽，驰骋畋猎令人心发狂，难得之货令人行妨。<br><br>是以圣人为腹不为目，故去彼取此。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421138987)<br><br>2019-04-23 21:13<br>赞(4) 踩(0) | <div>建立自我，追求无我<br><br>放下自我，醉卧红尘<br><br>无相无行   无本无我<br><br>来便有走   缘起缘灭<br><br>无心无色   无问东西<br><br>问天问地    空空如也</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2019-04-15 08:12<br>赞(1) 踩(0) | <div>77</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2019-04-15 08:11<br>赞(3) 踩(0) | <div>无本无我，无相无形。76</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17976856)<br><br>2020-07-13 04:08<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78230204)<br><br>2019-04-14 16:30<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272904958)<br>不会有人真的了解你，一如...<br>2019-03-25 10:35<br>赞(3) 踩(0) | <div>可惜抛却不了自我……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375168097)<br>我本虚幻全在你心 愛虾米...<br>2019-03-20 11:51<br>赞(4) 踩(0) | <div>红尘的诱惑，尘俗的纠缠，多余的欲望，在禅悟中沉淀。所谓因果，一切都是缘。缘分，红尘中来来往往，相遇又擦肩而过。缘起缘灭，缘聚缘散。来实现一场擦肩而过的缘。来便有走，缘起就有缘灭。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375168097)<br>我本虚幻全在你心 愛虾米...<br>2019-03-20 11:51<br>赞(4) 踩(0) | <div>红尘的诱惑，尘俗的纠缠，多余的欲望，在禅悟中沉淀。<br>所谓因果，一切都是缘。<br>缘分，红尘中来来往往，相遇又擦肩而过。<br>缘起缘灭，缘聚缘散。来实现一场擦肩而过的缘。<br>来便有走，缘起就有缘灭。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420123374)<br>我还没想好要写什么...<br>2019-03-13 22:46<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344025914)<br>开心快乐就是健康就是幸福<br>2019-03-07 06:23<br>赞(5) 踩(0) | <div>徐志摩说:″我懂你，像懂自已一样深刻"。 人生之中，能遇到一个懂你的知已，最让人温暖，也是一件最幸福的事情。 因为只懂你的人，才知道你心中的想，心中的痛，心中的爱。也才会关心你，体贴你，照顾你。也才能善解你，帮助你，为你分忧，为你解痛，让你开心，让你快乐。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9425673)<br>我从黑夜来，但是却喜欢光...<br>2019-03-04 08:50<br>赞(10) 踩(0) | <div>2019/3/4晴，下了太久的雨，忽然放晴，待在房间里就是罪过。透过浓雾与太阳对视，发现他那么温柔，像梦里的白月光。穿过小心翼翼的车流，穿过泥泞的田间小路，走过雾里淡化的房舍，走过披雾而立的修竹。我与金黄的菜花遇见在阳光透雾的田野，此时此刻的感觉，就是无 我！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9425673)<br>我从黑夜来，但是却喜欢光...<br>2019-03-04 08:50<br>赞(10) 踩(0) | <div>2019/3/4晴，下了太久的雨，忽然放晴，待在房间里就是罪过。透过浓雾与太阳对视，发现他那么温柔，像梦里的白月光。穿过小心翼翼的车流，穿过泥泞的田间小路，走过雾里淡化的房舍，走过披雾而立的修竹。<br>我与金黄的菜花遇见在阳光透雾的田野，此时此刻的感觉，就是无 我！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21631109)<br>天地人一体  人为本精气...<br>2019-03-03 00:46<br>赞(3) 踩(0) | <div>天地人一体！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405049929)<br>不生不灭，不垢不净，不增...<br>2019-02-11 17:16<br>赞(0) 踩(0) | <div>酸甜苦辣无味，喜怒哀乐己空，悲欢离合皆无，无形无相本真……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238573415)<br>一切由我而生，由我而灭；...<br>2019-01-23 23:56<br>赞(0) 踩(0) | <div>无我，有我，只不过是两种不同的方向而已</div> |
@@ -81,7 +78,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9906124)<br>李晓涛<br>2018-08-30 19:25<br>赞(1) 踩(0) | <div>美不胜收！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343221290)<br>大智发于心，于心无所寻；...<br>2018-08-28 09:10<br>赞(3) 踩(0) | <div>有无量体，就有无量道！！！ <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15955223)<br>　　音乐是上天给人类最伟...<br>2018-08-25 14:03<br>赞(4) 踩(0) | <div>南无西方极乐世界大慈大悲阿弥陀佛南无西方极乐世界大慈大悲阿弥陀佛南无西方极乐世界大慈大悲阿弥陀佛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782708)<br>万物皆自然，道法皆自然<br>2018-08-04 00:09<br>赞(4) 踩(0) | <div>无我，我之前，不是我了。我之后也不是我了。我的灵魂，不是我。我还是我。我的灵魂依然。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782708)<br>万物皆自然，道法皆自然<br>2018-08-04 00:09<br>赞(4) 踩(0) | <div>无我，我之前，不是我了。<br>我之后也不是我了。<br>我的灵魂，不是我。<br>我还是我。我的灵魂依然。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43442015)<br>虾米里不曾相识任何人 只...<br>2018-07-29 13:57<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322920957)<br>音乐就如同一位出色滴疗伤...<br>2018-07-26 18:13<br>赞(3) 踩(0) | <div>☕️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377953399)<br><br>2018-07-26 00:11<br>赞(2) 踩(0) | <div>好听好听</div> |
@@ -123,7 +120,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2018-01-08 02:11<br>赞(22) 踩(0) | <div>无相无形，无本无我。9</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2018-07-27 06:25<br>赞(0) 踩(0) | <div>建立自我，追求无我。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257735417)<br>疗伤，减压<br>2018-09-03 03:31<br>赞(0) 踩(0) | <div><q><b>无本说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2017-12-28 11:24<br>赞(37) 踩(0) | <div>☀☀☀【能量祈祷文:】从今天开始的每一天 ，我已经改变成为一个全新的人，我充满了灵性和爱，我的全身充满了力量和喜悦，我更加爱自己和周围的一切了.[微笑]从今天开始的每一天，我的身体都进入了自我疗愈和复原的状态，我的每一个细胞都充满了活力，我越来越健康和美好.[调皮]从今天开始的每一天，我都在接纳全部的自己和别人，并且释放自己内心的不安和恐惧，我变得越来越平安和幸福.[玫瑰][玫瑰][玫瑰]从今天开始的每一天，我和周围的人们相处和谐，我的内在越来越和平，我的笑容越来越多[玫瑰][玫瑰][玫瑰]从今天开始的每一天，我都会接受到宇宙的丰盛，我的金钱也越来越丰盛，我的生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2017-12-28 11:24<br>赞(37) 踩(0) | <div>☀☀☀<br>【能量祈祷文:】<br><br>从今天开始的每一天 ，我已经改变成为一个全新的人，我充满了灵性和爱，我的全身充满了力量和喜悦，我更加爱自己和周围的一切了.[微笑]<br><br>从今天开始的每一天，我的身体都进入了自我疗愈和复原的状态，我的每一个细胞都充满了活力，我越来越健康和美好.[调皮]<br><br>从今天开始的每一天，我都在接纳全部的自己和别人，并且释放自己内心的不安和恐惧，我变得越来越平安和幸福.[玫瑰][玫瑰][玫瑰]<br><br>从今天开始的每一天，我和周围的人们相处和谐，我的内在越来越和平，我的笑容越来越多[玫瑰][玫瑰][玫瑰]<br><br>从今天开始的每一天，我都会接受到宇宙的丰盛，我的金钱也越来越丰盛，我的生活</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337047438)<br><br>2018-08-28 22:10<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377214713)<br><br>2020-03-03 16:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35355683)<br>息有养，瞬有存<br>2017-10-20 11:36<br>赞(7) 踩(0) | <div>好</div> |

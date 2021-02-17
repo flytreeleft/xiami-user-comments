@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1694491)<br><br>2021-01-30 22:29<br>赞(0) 踩(0) | <div>谢谢虾米，谢谢你的陪伴！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304967309)<br>猫咪不吃鱼<br>2021-01-05 11:24<br>赞(0) 踩(0) | <div>每次聆听都叫我掉泪，是怀念留恋，还是自责后悔，大概这就是青春吧！林海老师生日快乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329728635)<br><br>2020-12-30 18:20<br>赞(0) 踩(0) | <div>林海大师，来一场演奏会吧</div> |
@@ -32,7 +29,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297365981)<br>oo<br>2020-11-19 22:41<br>赞(0) 踩(0) | <div>后半段怎么还有股金粉世家的感觉？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325994103)<br><br>2020-10-10 18:54<br>赞(1) 踩(0) | <div>听这荡气回肠的音乐让人好感慨，青春已走远，好象青春只是个朦胧的影子，还没真正开始就巳经结束了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16597652)<br>我将不带走任何东西，只因...<br>2020-10-07 00:44<br>赞(1) 踩(0) | <div>想把青春写在林海这里，发现青春早已走远</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248734645)<br>我还没想好要写什么...<br>2020-09-18 11:50<br>赞(3) 踩(0) | <div>过去以为当下很难，一个劲想长大长大，怀念过去</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248734645)<br>我还没想好要写什么...<br>2020-09-18 11:50<br>赞(3) 踩(0) | <div>过去以为当下很难，<br>一个劲想长大<br>长大，怀念过去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441274877)<br><br>2020-08-09 05:55<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427076004)<br>迎難而上是勇敢,有時知難...<br>2020-08-02 19:59<br>赞(0) 踩(0) | <div>青春~年轻时表现在外貌;年纪大时表现在心境。只要时时保持心境开朗,青春就常驻,年年都18/22...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45579002)<br>虾米我爱你<br>2020-07-25 07:37<br>赞(0) 踩(0) | <div>好戏剧性，</div> |
@@ -97,7 +94,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297260416)<br>所有荣耀名利都是短暂的，...<br>2017-10-23 10:38<br>赞(4) 踩(0) | <div>再见青春，再见那个年代的自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304368874)<br><br>2017-10-22 08:51<br>赞(2) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257548789)<br>做好自己<br>2017-09-27 10:03<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222566008)<br>诗如我<br>2017-09-25 11:08<br>赞(3) 踩(0) | <div>我穿过世间苍白而又无聊的具体用精神的，多彩的无人打扰的朦胧行走着生命里神圣的需求</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222566008)<br>诗如我<br>2017-09-25 11:08<br>赞(3) 踩(0) | <div>我穿过<br>世间苍白而又无聊的<br>具体<br>用精神的，多彩的<br>无人打扰的<br>朦胧<br>行走着<br>生命里神圣的<br>需求</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2781739)<br><br>2017-07-05 13:12<br>赞(4) 踩(0) | <div>从希望到失望到绝望。物极必反</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313353249)<br><br>2017-07-21 14:22<br>赞(0) 踩(0) | <div>物极必反&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12882231)<br><br>2017-04-28 07:46<br>赞(2) 踩(0) | <div>前半部分比后半部分更加惊艳</div> |

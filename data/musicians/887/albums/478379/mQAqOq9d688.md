@@ -67,8 +67,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339018347)<br>｡◕‿◕｡<br>2020-11-14 14:11<br>赞(0) 踩(0) | <div>＂大追捕＂超级好看，2020.11 <img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13642864)<br>人生无大志，但求六十分<br>2018-09-19 23:03<br>赞(1) 踩(0) | <div>三十五岁的离异男，听见这首歌，会想念自己的女儿，思念无边无际，瞬间泪流满面，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-22 00:19<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
@@ -102,7 +102,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10441212)<br>！<br>2015-05-22 21:02<br>赞(3) 踩(0) | <div>本来看评论挺舒服的，结果总有一些人，就像什么掉进了汤里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47103062)<br> <br>2015-05-07 22:21<br>赞(0) 踩(0) | <div>难得看好声音的时候听汪峰说这是写给他女儿和歌，这大概是父亲的独白，虽然显得仓促，显得不够深沉，为何要那么伟大，我们都是普通人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39909137)<br><br>2015-05-02 15:55<br>赞(2) 踩(0) | <div>戴上耳机才喜欢上，吉他声音太好听了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45433868)<br><br>2015-04-27 20:57<br>赞(2) 踩(0) | <div>在这美丽的，艰辛的生命中坚强地，灿烂的绽放希望你是那纯洁的向阳花</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45433868)<br><br>2015-04-27 20:57<br>赞(2) 踩(0) | <div>在这美丽的，艰辛的生命中<br>坚强地，灿烂的绽放<br>希望你是那纯洁的向阳花</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39533911)<br>支持中国摇滚乐，一切伪摇...<br>2015-04-05 19:18<br>赞(1) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40368962)<br><br>2015-04-15 12:47<br>赞(0) 踩(0) | <div>S B</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10003647)<br>。<br>2015-07-18 02:29<br>赞(0) 踩(0) | <div>哎为何那么多你这种东西</div> |
@@ -117,8 +117,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10084370)<br><br>2014-06-01 07:49<br>赞(0) 踩(0) | <div>m</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10084370)<br><br>2014-06-01 07:44<br>赞(0) 踩(0) | <div>mark</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1677413)<br>总在途中……<br>2014-04-24 23:39<br>赞(1) 踩(0) | <div>汪峰写给爱女</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13459232)<br><br>2014-04-06 22:33<br>赞(0) 踩(0) | <div>如果你可以 如果你能够希望你是那纯洁的向阳花在这美丽的 艰辛的生命中坚强地 灿烂地绽放</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34776685)<br><br>2014-04-05 20:26<br>赞(1) 踩(0) | <div>《大追捕》电影主题曲看完之后再听脑海里回想的都是王远阳为了自己女儿而跳下楼的那一幕</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13459232)<br><br>2014-04-06 22:33<br>赞(0) 踩(0) | <div>如果你可以 如果你能够<br>希望你是那纯洁的向阳花<br>在这美丽的 艰辛的生命中<br>坚强地 灿烂地绽放</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34776685)<br><br>2014-04-05 20:26<br>赞(1) 踩(0) | <div>《大追捕》电影主题曲<br>看完之后再听<br>脑海里回想的都是王远阳为了自己女儿而跳下楼的那一幕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9172830)<br><br>2014-01-01 04:24<br>赞(2) 踩(0) | <div>每一时期听过的的不同歌、曲、音符都埋着不同的回忆。这首那时偶然听到的歌，里面有我永远表达不出那时的委屈、伤痛与迷茫和终身遗憾，还有我这么多年来只对你说过一次也是最后一次的新年快乐。我现在很好，就像你所期待的那样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5570425)<br>爱音乐，爱生活～<br>2013-12-23 11:07<br>赞(0) 踩(0) | <div>真好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13829338)<br><br>2013-12-13 09:30<br>赞(0) 踩(0) | <div>哈哈！起床！</div> |
@@ -142,7 +142,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12105249)<br><br>2013-07-12 23:01<br>赞(0) 踩(0) | <div>晨说要分享汪峰的《别无所求》，里面恰好有一首我十分喜欢的《向阳花》，如我评论给她的：人生无论是否圆满好像都需经过大大小小多多少少的转弯，但无论如何，感谢经历，哪怕百转千回，哪怕伤心流泪，哪怕凄风苦雨，都是命运抛出的试金石，会在某一你不知道的时刻助你渡到彼岸。&amp;quot;希望你是纯洁的向阳花&amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3191803)<br><br>2013-07-12 00:02<br>赞(0) 踩(0) | <div>晚安:)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/719995)<br>事出有音<br>2013-07-01 22:45<br>赞(1) 踩(0) | <div>#晚安曲#这首是真美。大小调式来回的转换蕴藏着悲喜交加的错综复杂的情绪，似乎是在暗示人生路程的起起伏伏，希望昨天某人的告别没有悲伤，而是对新生活的向往与坚定，各位晚安~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6817509)<br>游離撒歡的美學酵母~^O...<br>2012-05-20 20:03<br>赞(0) 踩(0) | <div>突然有一天你就来了来到这悲伤的大地从此你将注定了孤独虽然这世界是那么繁华如果你可以如果你能够希望你是那纯洁的向阳花在这美丽的艰辛的生命中坚强地灿烂地绽放有一天你会感到迷惘如同我经历的那样不要难过也不要迷惘曲折的生命才有意义在布满创痛的凄风苦雨中坚韧地辉煌地绽放</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6817509)<br>游離撒歡的美學酵母~^O...<br>2012-05-20 20:03<br>赞(0) 踩(0) | <div>突然有一天你就来了<br>来到这悲伤的大地<br>从此你将注定了孤独<br>虽然这世界是那么繁华<br>如果你可以如果你能够<br>希望你是那纯洁的向阳花<br>在这美丽的艰辛的生命中<br>坚强地灿烂地绽放<br>有一天你会感到迷惘<br>如同我经历的那样<br>不要难过也不要迷惘<br>曲折的生命才有意义<br>在布满创痛的凄风苦雨中<br>坚韧地辉煌地绽放</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7302281)<br><br>2012-05-04 12:58<br>赞(0) 踩(0) | <div>你要成为那美丽的向阳花，坚强的，灿烂地，绽放！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2147606)<br>我还没想好要写什么...<br>2012-03-23 18:49<br>赞(0) 踩(0) | <div>《大追捕》片尾曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6506896)<br><br>2012-03-02 12:24<br>赞(0) 踩(0) | <div>《向阳花》......突然有一天你就来了 来到这悲伤的大地 从此你将注定了孤独 虽然这世界是那么繁华...有一天你会感到迷惘 如同我经历的那样 不要难过也不要迷惘 曲折的生命才有意义...这个世界有一点点脏 有点荒谬有点疯狂 前方的路是那么漫长 也许你会迷失方向......</div> |
@@ -169,7 +169,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6550505)<br><br>2011-11-26 09:23<br>赞(0) 踩(0) | <div>@只爱风月</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6645299)<br><br>2011-11-25 21:42<br>赞(0) 踩(0) | <div>面对无奈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/438428)<br><br>2011-11-24 21:47<br>赞(0) 踩(0) | <div>如果你可以，如果你能够，你要成为那纯洁的向阳花</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2962002)<br><br>2011-11-24 20:10<br>赞(0) 踩(0) | <div>有一天你会感到迷惘 如同我经历的那样 不要难过也不要迷惘 曲折的生命才有意义；如果你可以如果你能够 你要成为那美丽的向阳花 在布满创痛的凄风苦雨中 坚韧地辉煌地绽放——《向阳花》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2962002)<br><br>2011-11-24 20:10<br>赞(0) 踩(0) | <div>有一天你会感到迷惘 如同我经历的那样 不要难过也不要迷惘 曲折的生命才有意义；<br>如果你可以如果你能够 你要成为那美丽的向阳花 在布满创痛的凄风苦雨中 坚韧地辉煌地绽放——《向阳花》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/185956)<br>扛得住，世界就是你的！<br>2011-11-24 16:19<br>赞(0) 踩(0) | <div>像是一位父亲在对自己的孩子诉说着，叮咛着。暖如阳光。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/531198)<br><br>2011-11-24 11:33<br>赞(0) 踩(0) | <div>我们都可以，是纯洁的向阳花，在美丽的艰辛的生命中，坚强的灿烂的绽放！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2408098)<br><br>2011-11-24 10:05<br>赞(0) 踩(0) | <div>宝贝有一天你也会来到这世上，希望你会懂得生命要曲折才有意义！如果你可以，如果你能够，希望你是那纯洁的向阳花，坚韧地，辉煌地绽放……</div> |

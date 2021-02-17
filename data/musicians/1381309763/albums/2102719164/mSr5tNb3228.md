@@ -22,5 +22,3 @@ Diddle diddle dumpling my son John
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

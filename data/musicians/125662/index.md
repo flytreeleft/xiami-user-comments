@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d4982f1f75d7b2fdd01ecbe042c2fac9.jpg)<br>魏小涵](https://i.xiami.com/weixiaohan) | **播放数**: 19592887<br>**粉丝数**: 5760<br>**评论数**: 229<br>**地区**: China 中国大陆<br>**风格**: 中国风 China-Wave, 古风 GuFeng Music, 游戏配乐 Video Game Music<br> |
+| [![](../../images/musicians/d4982f1f75d7b2fdd01ecbe042c2fac9.jpg)<br>魏小涵](https://i.xiami.com/weixiaohan) | **地区**: China 中国大陆<br>**风格**: 中国风 China-Wave, 古风 GuFeng Music, 游戏配乐 Video Game Music<br>**播放数**: 19592887<br>**粉丝数**: 5760<br>**评论数**: 229<br> |
 
 ## 档案
 
@@ -52,8 +52,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411358160)<br>好好工作，快乐生活<br>2020-12-14 13:40<br>赞(0) 踩(0) | <div>喜欢你制作的音乐，都很美，富有古韵&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/783129)<br>暂无签名~<br>2020-05-03 01:28<br>赞(0) 踩(0) | <div>空山鸟语这首曲子被虾米替换了，不是原作了。大事故。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13979322)<br>一手行愿千手护持<br>2020-02-27 23:37<br>赞(0) 踩(0) | <div>再看看小主生平 这么多优秀作品 哎真是太有才了 看来每天不能三心四意琴茶书画了还是得一门深入才可好好学习天天向上咯 <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png">惭愧至极 汗颜 <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
@@ -69,7 +69,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407923012)<br>这个人，有点儿帅..<br>2019-06-11 15:42<br>赞(3) 踩(0) | <div>魏小涵的人生简直就是一场传奇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5646786)<br>我还没想好要写什么...<br>2019-06-11 06:04<br>赞(1) 踩(0) | <div>谢谢你的《飞雪玉花》，婉转悠长，直击人心，也带给我了一段很美好的回忆。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245909260)<br> <br>2019-06-07 00:13<br>赞(1) 踩(0) | <div>好厉害</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245909260)<br> <br>2019-06-07 00:12<br>赞(3) 踩(0) | <div>从秦时找过来的。旋律很有意思，很有想法的作曲家！超喜欢 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png">每一首都很有意境，可以说把古风诠释的是最好的！有很多冷门的专辑里藏了很多好曲子好听。真的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245909260)<br> <br>2019-06-07 00:12<br>赞(3) 踩(0) | <div>从秦时找过来的。<br>旋律很有意思，很有想法的作曲家！超喜欢 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"><br>每一首都很有意境，可以说把古风诠释的是最好的！<br>有很多冷门的专辑里藏了很多好曲子<br>好听。真的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277083794)<br><br>2019-05-20 21:21<br>赞(0) 踩(0) | <div>感觉他好厉害呀！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328657369)<br>风格随心而变、<br>2019-04-17 08:29<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405716037)<br><br>2019-03-26 11:05<br>赞(0) 踩(0) | <div>牛逼</div> |
@@ -213,7 +213,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50777268)<br><br>2015-12-25 16:51<br>赞(18) 踩(0) | <div>哇哇哇，居然担任了这么多动漫的监制，简直了大神，音乐都超好听，怎么会编出这么好听的音乐呢，飞雪玉花和易水两岸是最最爱的，现在已是我的手机铃声，嘿嘿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16745497)<br>我还没想好要写什么...<br>2015-12-07 19:48<br>赞(0) 踩(0) | <div>支持支持0.0</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1308967)<br>虾米听重型极端音乐这块的...<br>2015-12-07 18:46<br>赞(0) 踩(0) | <div>呵呵</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1700002)<br>V5_ORZZZZZ<br>2015-12-07 15:18<br>赞(0) 踩(0) | <div>碉堡爱爆</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1700002)<br>V5_ORZZZZZ<br>2015-12-07 15:18<br>赞(0) 踩(0) | <div>碉堡<br>爱爆</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9335153)<br><br>2015-11-10 09:53<br>赞(1) 踩(0) | <div>大神</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48486933)<br>加油<br>2015-11-01 20:35<br>赞(1) 踩(0) | <div>如果您可以看到，我想认识您，老师好，我也是学器乐的，也许可以有机会配乐就太好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73647438)<br><br>2015-10-28 19:30<br>赞(0) 踩(0) | <div>很赞</div> |
@@ -271,7 +271,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15284041)<br><br>2014-05-04 00:45<br>赞(0) 踩(0) | <div>这么好的音乐人太可惜了！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6155347)<br>暂无签名~<br>2014-05-27 22:37<br>赞(0) 踩(0) | <div>可惜什么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15284041)<br><br>2014-05-04 00:44<br>赞(0) 踩(0) | <div>好音乐必须顶！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16745497)<br>我还没想好要写什么...<br>2014-05-01 18:31<br>赞(1) 踩(0) | <div>哎。国内大神总是藏在角落里。待俺老孙，慢慢寻找！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16745497)<br>我还没想好要写什么...<br>2014-05-01 18:31<br>赞(1) 踩(0) | <div>哎。国内大神总是藏在角落里。<br>待俺老孙，慢慢寻找！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9258259)<br>删音乐中<br>2014-04-21 20:11<br>赞(0) 踩(0) | <div>魏哥做了非常棒的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7871053)<br>星火相传，奋飞不辍。<br>2014-01-14 08:07<br>赞(1) 踩(0) | <div>= =虾米为毛要归到胡彦斌那里去...吓尿.......</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1477158)<br>http://weibo...<br>2014-01-26 21:58<br>赞(0) 踩(0) | <div>可能因为长得差不多？</div> |

@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>正胜](https://i.xiami.com/wusheng668) | **播放数**: 92736<br>**粉丝数**: 8<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 佛教音乐 Buddhist Music<br> |
+| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>正胜](https://i.xiami.com/wusheng668) | **地区**: China 中国大陆<br>**风格**: 佛教音乐 Buddhist Music<br>**播放数**: 92736<br>**粉丝数**: 8<br>**评论数**: 0<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,5 +18,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

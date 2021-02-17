@@ -18,7 +18,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354235425)<br><br>2019-02-27 21:51<br>赞(2) 踩(0) | <div>我喜欢吃虾糕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8658774)<br>心有野兔，按捺不住<br>2017-08-04 19:47<br>赞(1) 踩(0) | <div>我喜欢吃唧唧，火锅里要放唧唧 <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |

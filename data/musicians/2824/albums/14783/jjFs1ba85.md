@@ -85,7 +85,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6623959)<br>身贵自由<br>2013-11-09 11:18<br>赞(0) 踩(0) | <div>居然还坐了沙发</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6623959)<br>身贵自由<br>2013-11-09 11:18<br>赞(0) 踩(0) | <div>喜欢的一塌糊涂！</div> |

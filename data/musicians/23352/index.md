@@ -3,7 +3,7 @@ Avril Lavigne
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ec0327825fcdc05cac2fcdd594393889.jpg)<br>Avril Lavigne](https://i.xiami.com/avrillavigne) | **播放数**: 136662210<br>**粉丝数**: 932641<br>**评论数**: 9038<br>**地区**: Canada 加拿大<br>**风格**: 青少年流行 Teen Pop, 流行摇滚 Pop Rock, 流行朋克 Pop Punk, 欧美流行 Western Pop<br> |
+| [![](../../images/musicians/ec0327825fcdc05cac2fcdd594393889.jpg)<br>Avril Lavigne](https://i.xiami.com/avrillavigne) | **地区**: Canada 加拿大<br>**风格**: 青少年流行 Teen Pop, 流行摇滚 Pop Rock, 流行朋克 Pop Punk, 欧美流行 Western Pop<br>**播放数**: 136662210<br>**粉丝数**: 932641<br>**评论数**: 9038<br> |
 
 ## 档案
 
@@ -141,8 +141,8 @@ Head Above Water (2019)
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271939788)<br><br>2021-01-20 00:09<br>赞(0) 踩(0) | <div>再见 <img src="../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400656368)<br><br>2021-01-14 22:15<br>赞(1) 踩(0) | <div>再见了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50273348)<br>我还没想好要写什么...<br>2021-01-06 00:06<br>赞(2) 踩(0) | <div>再见</div> |
@@ -167,9 +167,9 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441508110)<br>love，我很爱你，喊我...<br>2020-05-03 10:49<br>赞(0) 踩(0) | <div>超级喜欢的女神</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424037079)<br>全世界最好的虾米♥️TY...<br>2020-04-30 06:48<br>赞(0) 踩(0) | <div>薇薇的艺术寿命绝对非常非常长&amp;hearts;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317900585)<br>咩<br>2020-04-24 13:27<br>赞(0) 踩(0) | <div>艾薇儿的新歌呢？？？虾米，你要失去我了 <img src="../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442234855)<br>据说接吻可以减肥<br>2020-04-16 11:34<br>赞(0) 踩(0) | <div>虾米太棒了，终于到版权啦。前几天艾薇儿的新歌如head above water都不能听，现在终于可以啦！！！！ <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442234855)<br>据说接吻可以减肥<br>2020-04-16 11:34<br>赞(0) 踩(0) | <div>虾米太棒了，终于到版权啦。<br>前几天艾薇儿的新歌如head above water都不能听，现在终于可以啦！！！！ <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-04-09 20:35<br>赞(0) 踩(0) | <div>⚛️⚛️⚛️</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280256664)<br>我是街上的游魂，而你是闻...<br>2020-03-25 17:54<br>赞(1) 踩(0) | <div>喜欢艾薇儿的嗓音，音乐态度。喜欢匡威也是因为艾薇儿的代言。这么多年不变，听到她的音乐还是依旧喜欢。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280256664)<br>我是街上的游魂，而你是闻...<br>2020-03-25 17:54<br>赞(1) 踩(0) | <div>喜欢艾薇儿的嗓音，音乐态度。<br>喜欢匡威也是因为艾薇儿的代言。<br>这么多年不变，听到她的音乐还是依旧喜欢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432806996)<br><br>2020-03-20 11:23<br>赞(0) 踩(0) | <div>薇薇！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322051111)<br>淚水逆流成河 最終凝成詩...<br>2020-03-16 01:02<br>赞(1) 踩(0) | <div>相信在座的各位的青春里，都住着一个艾薇儿！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354167098)<br>再见了虾米音乐！再见了永...<br>2020-03-13 14:24<br>赞(1) 踩(0) | <div>来中国吧 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -188,7 +188,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377965696)<br><br>2020-02-01 15:13<br>赞(1) 踩(0) | <div><img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377965696)<br><br>2020-02-01 15:11<br>赞(0) 踩(0) | <div>i  love  her</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401840161)<br> <br>2020-01-22 11:03<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335447566)<br> <br>2020-01-19 20:44<br>赞(2) 踩(0) | <div>2020佛山见13年了我这颗星星一直都在等你来</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335447566)<br> <br>2020-01-19 20:44<br>赞(2) 踩(0) | <div>2020佛山见<br>13年了<br>我这颗星星一直都在等你来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2020-01-15 00:04<br>赞(20) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2020-01-15 00:03<br>赞(2) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430850712)<br><br>2020-01-05 09:30<br>赞(6) 踩(0) | <div>她要来佛山，开演唱会，4月25日</div> |
@@ -237,7 +237,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2019-07-11 00:52<br>赞(0) 踩(0) | <div><img src="../../images/comments/53376b15f77ae122bdb1ed308546bbcb.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2019-07-11 00:51<br>赞(1) 踩(0) | <div>最晚打雷扯闪，就是不见大雨落下</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2019-07-11 00:50<br>赞(1) 踩(0) | <div>晚上一点都不热，看了天气预报，三四点有夜雨</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2019-07-11 00:49<br>赞(0) 踩(0) | <div>时不时地就会发现，点了红心的歌没了版权，没有下载它，好无奈啊人亦可，错过了就回不去了耶</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2019-07-11 00:49<br>赞(0) 踩(0) | <div>时不时地就会发现，点了红心的歌没了版权，没有下载它，好无奈啊<br>人亦可，错过了就回不去了耶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2019-07-11 00:45<br>赞(1) 踩(0) | <div>难得糊涂，怎么就做不到呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2019-07-11 00:45<br>赞(0) 踩(0) | <div>有时候明白得太透彻，感觉会更加悲观</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2019-07-11 00:44<br>赞(0) 踩(0) | <div>聊着聊着就没了，估计是不喜欢我这冷冷的性格，对方也会很心累吧，我很理解的啊。对我而言就轻松了，不用刻意附和，不用费力想话题，没救了，愈发不想融入这个伤脑筋的圈子去</div> |
@@ -309,14 +309,14 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416325231)<br>音乐最爱艾薇儿!<br>2019-02-27 09:58<br>赞(2) 踩(0) | <div>薇薇此次弃曲谁听到了么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416325231)<br>音乐最爱艾薇儿!<br>2019-02-27 09:55<br>赞(3) 踩(0) | <div>最爱的女神，冲鸭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403526703)<br><br>2019-02-26 22:39<br>赞(3) 踩(0) | <div>虾米不错啊 霉霉和avril都在哈哈哈哈哈爱了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404637494)<br>A BIG CRASH ...<br>2019-02-26 19:21<br>赞(3) 踩(0) | <div>No matter ten or twenty years, as long as you are here, the black stars will choose to accompany you down the road. You are full of vitality, enthusiasm and optimism that every black star wants to see. May you always be with Black Stars and we will be with you! Come on!Emmmmm薇薇加油＾０＾~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404637494)<br>A BIG CRASH ...<br>2019-02-26 19:21<br>赞(3) 踩(0) | <div>No matter ten or twenty years, as long as you are here, the black stars will choose to accompany you down the road. You are full of vitality, enthusiasm and optimism that every black star wants to see. May you always be with Black Stars and we will be with you! Come on!<br>Emmmmm薇薇加油＾０＾~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31379044)<br>高举我的德哈大旗，我德殿...<br>2019-02-25 12:26<br>赞(2) 踩(0) | <div>咳，大家数专实专都买起来啊，反正我买了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419381757)<br><br>2019-02-24 13:46<br>赞(2) 踩(0) | <div>❤️u are back</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418917301)<br>love金发婊<br>2019-02-23 20:01<br>赞(2) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316197548)<br><br>2019-02-23 17:37<br>赞(0) 踩(0) | <div>12.13 国家禁娱日谢谢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316197548)<br><br>2019-02-23 17:34<br>赞(0) 踩(0) | <div>炒鸡love小姐姐的，pink pink pink.小姐姐回归大发吧 黑星永远爱你(╯3╰)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316197548)<br><br>2019-02-23 17:34<br>赞(0) 踩(0) | <div>炒鸡love小姐姐的，pink pink pink.<br>小姐姐回归大发吧 黑星永远爱你(╯3╰)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419337388)<br><br>2019-02-23 17:14<br>赞(1) 踩(0) | <div>我爱酵母！！！！！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404495106)<br><br>2019-02-21 16:33<br>赞(16) 踩(0) | <div>我对象说就一张专辑而已在网上买听了就行要黑胶唱片干嘛 没有用。我等了将近五年。可能词穷吧，也没有反驳他只是无奈的笑了一下。那种感觉只有自己懂。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404495106)<br><br>2019-02-21 16:33<br>赞(16) 踩(0) | <div>我对象说<br>就一张专辑而已在网上买听了就行<br>要黑胶唱片干嘛 没有用。<br>我等了将近五年。<br>可能词穷吧，也没有反驳他<br>只是无奈的笑了一下。<br>那种感觉<br>只有自己懂。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367242473)<br>这个人太懒了，所以懒死了<br>2019-02-21 12:24<br>赞(2) 踩(0) | <div>真好啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187487334)<br> <br>2019-02-20 17:17<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419432818)<br><br>2019-02-20 00:03<br>赞(1) 踩(0) | <div>特意为了艾薇才来的</div> |
@@ -324,7 +324,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419501419)<br><br>2019-02-19 00:18<br>赞(14) 踩(0) | <div>十分感谢虾米音乐，真正的知道一个音乐平台最应该做的是什么，我们不需要什么直播也不需要什么花里胡哨的，我们只要音乐，有音源的平台就是好平台，就是爸爸。这是每个爱音乐的人的心声，希望虾米勿忘初心。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416325231)<br>音乐最爱艾薇儿!<br>2019-02-27 09:57<br>赞(0) 踩(0) | <div>是的，虾米的设计风格很简约，很专注，喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419501419)<br><br>2019-02-19 00:08<br>赞(10) 踩(0) | <div>就凭虾米能懂我们的心懂爱音乐的人的心，也必须支持虾米。我用QQ音乐两年了用云也一年了，QQ音乐是一开始用的，现在真的越做越差，好多之前的歌没版权比如烟火里的尘埃，之前还有live现在连live都没有，艾薇儿回归连个p都没放，刚冲完年费连艾薇儿首单都没有是真的失望。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260412811)<br><br>2019-02-18 01:43<br>赞(32) 踩(0) | <div>你不帮，我不帮，回春何时安排上你一张，我一张，酵母事业重开张你不提，我不提，酵母心碎纳帕尼你不香，我不香，酵母穷回做微商你不买，我不买，卫报记者笑开怀你摸鱼，我摸鱼，酵母下专签天娱2.0版你一张 我一张 酵母才可能发光你买专 我买专 酵母别墅海里搬&nbsp;你买碟 我买碟 酵母年年发新专&nbsp;你团结 我团结 酵母才能走花街&nbsp;你努力 我努力 酵母霸榜出奇迹&nbsp;你支持 我支持 酵母天天买古驰&nbsp;你宣传 我宣传 酵母新歌万里传&nbsp;你偷懒 我偷懒 酵母就要砸饭碗</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260412811)<br><br>2019-02-18 01:43<br>赞(32) 踩(0) | <div>你不帮，我不帮，回春何时安排上<br>你一张，我一张，酵母事业重开张<br>你不提，我不提，酵母心碎纳帕尼<br>你不香，我不香，酵母穷回做微商<br>你不买，我不买，卫报记者笑开怀<br>你摸鱼，我摸鱼，酵母下专签天娱<br><br>2.0版<br>你一张 我一张 酵母才可能发光<br>你买专 我买专 酵母别墅海里搬&nbsp;<br>你买碟 我买碟 酵母年年发新专&nbsp;<br>你团结 我团结 酵母才能走花街&nbsp;<br>你努力 我努力 酵母霸榜出奇迹&nbsp;<br>你支持 我支持 酵母天天买古驰&nbsp;<br>你宣传 我宣传 酵母新歌万里传&nbsp;<br>你偷懒 我偷懒 酵母就要砸饭碗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201698259)<br>我真的很想去东北<br>2019-02-19 09:21<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈哈哈哈哈哈哈签天娱真的太可怕了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201698259)<br>我真的很想去东北<br>2019-02-19 09:22<br>赞(0) 踩(0) | <div>自己写的吗？自己写的我转发就标明出处了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260412811)<br><br>2019-02-21 00:22<br>赞(0) 踩(0) | <div><q><b>戫。劫。说：</b></q></div> |
@@ -341,9 +341,9 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340245228)<br>谢谢你的一路陪伴<br>2019-02-17 02:15<br>赞(4) 踩(0) | <div>我的女王大人回归了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png">，艾薇儿是我饭欧美圈的第一个，这次回归真的期待也等了好久，真的好听到炸了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419358145)<br>薇薇初心女神！<br>2019-02-17 01:42<br>赞(2) 踩(0) | <div>为了薇薇下的虾米！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410570033)<br><br>2019-02-16 23:25<br>赞(3) 踩(0) | <div>虾米挺好的一直一直在进步</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419347316)<br>薇商slay不就完事了<br>2019-02-16 23:16<br>赞(7) 踩(0) | <div>你不帮，我不帮，回春何时安排上你一张，我一张，酵母事业重开张你不提，我不提，酵母心碎纳帕尼你不香，我不香，酵母穷回做微商你不买，我不买，卫报记者笑开怀你摸鱼，我摸鱼，酵母下专签天娱2.0版你一张 我一张 酵母才可能发光你买专 我买专 酵母别墅海里搬&nbsp;你买碟 我买碟 酵母年年发新专&nbsp;你团结 我团结 酵母才能走花街&nbsp;你努力 我努力 酵母霸榜出奇迹&nbsp;你支持 我支持 酵母天天买古驰&nbsp;你宣传 我宣传 酵母新歌万里传&nbsp;你偷懒 我偷懒 酵母就要砸饭碗</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419347316)<br>薇商slay不就完事了<br>2019-02-16 23:16<br>赞(7) 踩(0) | <div>你不帮，我不帮，回春何时安排上<br>你一张，我一张，酵母事业重开张<br>你不提，我不提，酵母心碎纳帕尼<br>你不香，我不香，酵母穷回做微商<br>你不买，我不买，卫报记者笑开怀<br>你摸鱼，我摸鱼，酵母下专签天娱<br><br>2.0版<br>你一张 我一张 酵母才可能发光<br>你买专 我买专 酵母别墅海里搬&nbsp;<br>你买碟 我买碟 酵母年年发新专&nbsp;<br>你团结 我团结 酵母才能走花街&nbsp;<br>你努力 我努力 酵母霸榜出奇迹&nbsp;<br>你支持 我支持 酵母天天买古驰&nbsp;<br>你宣传 我宣传 酵母新歌万里传&nbsp;<br>你偷懒 我偷懒 酵母就要砸饭碗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410528421)<br>希望像马云一样有钱花<br>2019-02-16 23:04<br>赞(2) 踩(0) | <div>好听哭了，感觉自己的耳朵怀孕了！ <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404530787)<br><br>2019-02-16 21:30<br>赞(8) 踩(0) | <div>这女人早就不是歌手了她是一位艺术家</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404530787)<br><br>2019-02-16 21:30<br>赞(8) 踩(0) | <div>这女人早就不是歌手了<br>她是一位艺术家</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257714387)<br> 诚德 信德 守德 勇德...<br>2019-02-16 16:37<br>赞(2) 踩(0) | <div>艾薇儿凯迪拉克演唱会门票还不能预定14年那场没看上</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419196009)<br><br>2019-02-16 15:58<br>赞(4) 踩(0) | <div>单曲循环souvenir</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419146437)<br><br>2019-02-16 15:20<br>赞(2) 踩(0) | <div>emmm确实是为了vv才下的虾米，也没有贬低虾米的意思，我只想说，我爱vv！</div> |
@@ -361,7 +361,7 @@ Head Above Water (2019)
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321935194)<br><br>2019-02-15 23:57<br>赞(0) 踩(0) | <div>起码120+</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419189465)<br><br>2019-02-16 10:48<br>赞(0) 踩(0) | <div><q><b>Taylor Swift说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326347203)<br>我以为那是希望<br>2019-02-15 19:02<br>赞(0) 踩(0) | <div>妈呀这只薇薇真是太让人感动了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265416528)<br>我还没想好要写什么...<br>2019-02-15 18:56<br>赞(84) 踩(0) | <div>20块钱 你买不了吃亏， 20块钱 你买不了上当20块钱你就能在xiami拥有黑星梦寐以求的AL620块钱 不算多，去不了香港去不了新加坡20块钱 不算贵，不用回去开个家庭会20块钱,又不多,买不了房买不了车,旅游也到不了莫斯科三年五年都用不坏，还可以传给下一代20块钱，不白花，一年四季都听它！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265416528)<br>我还没想好要写什么...<br>2019-02-15 18:56<br>赞(84) 踩(0) | <div>20块钱 你买不了吃亏， 20块钱 你买不了上当<br>20块钱你就能在xiami拥有黑星梦寐以求的AL6<br>20块钱 不算多，去不了香港去不了新加坡<br>20块钱 不算贵，不用回去开个家庭会<br>20块钱,又不多,买不了房买不了车,旅游也到不了莫斯科<br>三年五年都用不坏，还可以传给下一代<br>20块钱，不白花，一年四季都听它！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379702197)<br><br>2019-02-21 09:34<br>赞(0) 踩(0) | <div>人才</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330022450)<br><br>2019-02-15 18:34<br>赞(0) 踩(0) | <div>爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330022450)<br><br>2019-02-15 18:34<br>赞(0) 踩(0) | <div>我爱了</div> |
@@ -373,7 +373,7 @@ Head Above Water (2019)
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201698259)<br>我真的很想去东北<br>2019-02-15 22:36<br>赞(0) 踩(0) | <div>噗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258470076)<br>vv永远是那颗black...<br>2019-02-15 22:59<br>赞(0) 踩(0) | <div><q><b>戫。劫。说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201698259)<br>我真的很想去东北<br>2019-02-15 23:03<br>赞(0) 踩(0) | <div><q><b>咕噜先生说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258470076)<br>vv永远是那颗black...<br>2019-02-16 00:25<br>赞(0) 踩(0) | <div>如果是我的表达能力欠佳让有些人会错了意，那么我说一声抱歉。我会说最后一句话是因为我曾经在网上看到过，有一个乐队的主唱说五月天的歌不好听，不知道在唱什么。对此玛莎回应道：但我觉得他们的歌很好听。讲道理，在vv的评论区净说一些与她脱开干系的事情本身就很奇怪。更荒唐的是通过贬低，辱骂虾米来抬高其他的音乐app。我想请问那些口口声声说虾米没人用，虾米lj的人，你们是采访过全世界的人了吗？把自己的主观意识强加到别人身上，根本就是在否定那些虾米的老用户。这里是vv的评论区，更是虾米音乐！一个用虾米听歌多年low到不行的先生留。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258470076)<br>vv永远是那颗black...<br>2019-02-16 00:25<br>赞(0) 踩(0) | <div>如果是我的表达能力欠佳让有些人会错了意，那么我说一声抱歉。我会说最后一句话是因为我曾经在网上看到过，有一个乐队的主唱说五月天的歌不好听，不知道在唱什么。对此玛莎回应道：但我觉得他们的歌很好听。讲道理，在vv的评论区净说一些与她脱开干系的事情本身就很奇怪。更荒唐的是通过贬低，辱骂虾米来抬高其他的音乐app。我想请问那些口口声声说虾米没人用，虾米lj的人，你们是采访过全世界的人了吗？把自己的主观意识强加到别人身上，根本就是在否定那些虾米的老用户。这里是vv的评论区，更是虾米音乐！<br>一个用虾米听歌多年low到不行的先生留。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34060057)<br>一声大哥一生大哥<br>2019-02-16 15:25<br>赞(0) 踩(0) | <div><q><b>咕噜先生说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2019-02-17 23:16<br>赞(0) 踩(0) | <div><q><b>咕噜先生说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258470076)<br>vv永远是那颗black...<br>2019-02-17 23:33<br>赞(0) 踩(0) | <div><q><b>Desperado说：</b></q></div> |
@@ -404,7 +404,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351308997)<br><br>2019-02-15 02:59<br>赞(0) 踩(0) | <div>新专呢?</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418874236)<br>要闪光，要卓越<br>2019-02-15 02:54<br>赞(0) 踩(0) | <div>好期待</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324199824)<br><br>2019-02-15 02:00<br>赞(0) 踩(0) | <div>无语。。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324199824)<br><br>2019-02-15 01:59<br>赞(0) 踩(0) | <div>虾米。。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324199824)<br><br>2019-02-15 01:59<br>赞(0) 踩(0) | <div>虾米<br><br><br><br><br><br>。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324199824)<br><br>2019-02-15 01:59<br>赞(0) 踩(0) | <div>嗯哼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404508984)<br><br>2019-02-15 01:56<br>赞(0) 踩(0) | <div>什么情况虾米兄dei?</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402868350)<br>复杂的是人类<br>2019-02-15 01:44<br>赞(1) 踩(0) | <div>又等那么晚才睡</div> |
@@ -453,14 +453,14 @@ Head Above Water (2019)
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419125490)<br><br>2019-02-15 00:02<br>赞(0) 踩(0) | <div><q><b>宇宙边缘说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341111983)<br><br>2019-02-15 00:02<br>赞(0) 踩(0) | <div><q><b>用户959062说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419125490)<br><br>2019-02-15 00:03<br>赞(0) 踩(0) | <div><q><b>宇宙边缘说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419183328)<br><br>2019-02-15 00:00<br>赞(3) 踩(0) | <div>终于等来了！艾薇儿新专辑《Head Above Water》于2月15日发行！Target版将于2月19日发行，有两首独占歌曲……艾薇儿，带我入了进入欧美音乐的教母，我的女神。你会涅槃重生，对音乐也会有超乎常人的理解。永远爱你，我的女神，我的青春。加油！我们都会为你加油！与莱姆病抗争的几年辛苦了，任何事都能让自己积累，一切经历都是有积极意义的。希望这次第六张专辑能有个好的销量，不管结果如何，她都是热情不灭的艺术家，我们心中最好的艾薇儿！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419183328)<br><br>2019-02-15 00:00<br>赞(3) 踩(0) | <div>终于等来了！<br>艾薇儿新专辑《Head Above Water》于2月15日发行！Target版将于2月19日发行，有两首独占歌曲……艾薇儿，带我入了进入欧美音乐的教母，我的女神。你会涅槃重生，对音乐也会有超乎常人的理解。永远爱你，我的女神，我的青春。加油！我们都会为你加油！<br>与莱姆病抗争的几年辛苦了，任何事都能让自己积累，一切经历都是有积极意义的。<br>希望这次第六张专辑能有个好的销量，不管结果如何，她都是热情不灭的艺术家，我们心中最好的艾薇儿！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303695671)<br>Life goes on...<br>2019-02-14 22:18<br>赞(0) 踩(0) | <div>中国时间什么时候发新专鸭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404627987)<br>Long affecti...<br>2019-02-14 17:28<br>赞(0) 踩(0) | <div>爱这个女人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330022450)<br><br>2019-02-14 15:54<br>赞(0) 踩(0) | <div>爱了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404479298)<br>为AVRIL LAVIG...<br>2019-02-14 10:25<br>赞(0) 踩(0) | <div>❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188550528)<br>永远爱霉霉这个小女孩<br>2019-02-14 09:55<br>赞(0) 踩(0) | <div>永远支持Avril</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419061718)<br><br>2019-02-14 09:19<br>赞(3) 踩(0) | <div>真的为了vv下载了虾米。长点心吧虾米</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419009112)<br>欧美取向！<br>2019-02-13 23:51<br>赞(8) 踩(0) | <div>真的是什么叫一个人拯救一个APP！为了你，才下载这个软件的！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419009112)<br>欧美取向！<br>2019-02-13 23:51<br>赞(8) 踩(0) | <div>真的是什么叫一个人拯救一个APP！<br>为了你，才下载这个软件的！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61343348)<br>爱的永远是你。<br>2019-02-14 16:38<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404661059)<br><br>2019-02-15 00:06<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55032284)<br>愿在许久后的未来，有你有...<br>2019-02-15 06:24<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
@@ -572,7 +572,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404389919)<br><br>2019-02-13 01:03<br>赞(0) 踩(0) | <div>酵花鸡呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412640660)<br>欲望是无止境的。<br>2019-02-13 01:03<br>赞(0) 踩(0) | <div>？？？？？？？？？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404641549)<br><br>2019-02-13 01:03<br>赞(0) 踩(0) | <div>where?????</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404521216)<br><br>2019-02-13 01:03<br>赞(1) 踩(0) | <div>歌呢？？？迟到了！？？？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404521216)<br><br>2019-02-13 01:03<br>赞(1) 踩(0) | <div>歌呢？？？<br>迟到了！？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404925393)<br><br>2019-02-13 01:03<br>赞(2) 踩(0) | <div>金发蠢婊呢？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347599169)<br><br>2019-02-13 01:03<br>赞(0) 踩(0) | <div>I need DB</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410243756)<br><br>2019-02-13 01:03<br>赞(0) 踩(0) | <div>过了两分钟了</div> |
@@ -588,11 +588,11 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412640660)<br>欲望是无止境的。<br>2019-02-13 01:02<br>赞(1) 踩(0) | <div>？？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410504965)<br><br>2019-02-13 01:01<br>赞(0) 踩(0) | <div>歌呢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404521216)<br><br>2019-02-13 01:01<br>赞(0) 踩(0) | <div>嗨！？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323916919)<br><br>2019-02-13 01:01<br>赞(3) 踩(0) | <div>本来以为今天早上需要早起就等待不到一点了但是脑海深处告诉我作为一名10年薇薇的真爱粉我愿意牺牲睡觉的时间专门来听她的新歌，简直幸福感爆棚！！我是谁 我在哪里 啊啊啊啊啊啊啊啊听到这首歌决定了，我要攒钱去我老婆的演唱会！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323916919)<br><br>2019-02-13 01:01<br>赞(3) 踩(0) | <div>本来以为今天早上需要早起<br>就等待不到一点了<br>但是脑海深处告诉我<br>作为一名10年薇薇的真爱粉<br>我愿意牺牲睡觉的时间专门来听她的新歌，简直幸福感爆棚！！<br>我是谁 我在哪里 啊啊啊啊啊啊啊啊<br>听到这首歌决定了，<br>我要攒钱去我老婆的演唱会！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361497578)<br><br>2019-02-13 01:07<br>赞(0) 踩(0) | <div>然后我们黑星就被虾米放鸽子了hhh</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323916919)<br><br>2019-02-13 01:10<br>赞(0) 踩(0) | <div><q><b>ling说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410426329)<br><br>2019-02-13 13:12<br>赞(0) 踩(0) | <div><q><b>♬♬♬说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404473792)<br>Tell Me It's...<br>2019-02-13 01:01<br>赞(1) 踩(0) | <div>？？？歌呢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404473792)<br>Tell Me It's...<br>2019-02-13 01:01<br>赞(1) 踩(0) | <div>？？？<br>歌呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327881697)<br><br>2019-02-13 01:01<br>赞(0) 踩(0) | <div>？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404490054)<br>我还没想好要写什么...<br>2019-02-13 01:01<br>赞(0) 踩(0) | <div>where？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361497578)<br><br>2019-02-13 01:01<br>赞(0) 踩(0) | <div>???</div> |
@@ -623,7 +623,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404521216)<br><br>2019-02-13 00:22<br>赞(7) 踩(0) | <div>1点？！冲啊///</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404641549)<br><br>2019-02-13 00:16<br>赞(8) 踩(0) | <div>特意为了vv 从隔壁云婊那跳槽过来惹，坐等一点</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276380844)<br><br>2019-02-13 00:15<br>赞(5) 踩(0) | <div>1点诶</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301776853)<br> <br>2019-02-13 00:12<br>赞(0) 踩(0) | <div>最近被trophy boy洗脑虾米好像没有 <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301776853)<br> <br>2019-02-13 00:12<br>赞(0) 踩(0) | <div>最近被trophy boy洗脑<br>虾米好像没有 <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265782528)<br><br>2019-02-13 00:10<br>赞(1) 踩(0) | <div>快快快，小板凳搬好，坐等 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301776853)<br> <br>2019-02-13 00:08<br>赞(1) 踩(0) | <div>DBDBDBDBDBDBDBDBDBDBDBDBDBDB DBDBDBDBDBDBDBDBDBDBDBDBDBDB DBDBDBDBDBDBDBDBDBDBDBDBDBDB DBDBDBDBDBDBDBDBDBDBDBDBDBDB</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418996860)<br><br>2019-02-12 23:57<br>赞(0) 踩(0) | <div>你！！！</div> |
@@ -634,19 +634,19 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404500812)<br><br>2019-02-12 22:04<br>赞(0) 踩(0) | <div>DB</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411440497)<br>Avril Lavign...<br>2019-02-12 19:43<br>赞(1) 踩(0) | <div>AL6期待ing</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410589332)<br>2.15，Head Ab...<br>2019-02-12 19:43<br>赞(1) 踩(0) | <div>小板凳搬好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123003426)<br>我还没想好要写什么...<br>2019-02-12 15:59<br>赞(2) 踩(0) | <div>暌违六年，艾薇儿即将发布自己的个人全新大碟“HEAD ABOVE WATER”新专辑共收录了12首新歌，每一首背后都藏着一个艾薇儿想要告诉我们的秘密，每一首背后都有艾薇儿想要传递给我们的精神，想要了解吗？那就点开下列动图查看本站为你中文翻译的这12首新歌幕后的故事！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123003426)<br>我还没想好要写什么...<br>2019-02-12 15:59<br>赞(2) 踩(0) | <div>暌违六年，艾薇儿即将发布自己的个人全新大碟“HEAD ABOVE WATER”<br>新专辑共收录了12首新歌，每一首背后都藏着一个艾薇儿想要告诉我们的秘密，每一首背后都有艾薇儿想要传递给我们的精神，想要了解吗？那就点开下列动图查看本站为你中文翻译的这12首新歌幕后的故事！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357541989)<br>butterfly <br>2019-02-12 15:00<br>赞(151) 踩(0) | <div>传mv正在邀请巴黎，从良卡莎，霉霉，懒妮一众金发靓女，好期待啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248736618)<br><br>2019-02-12 17:45<br>赞(0) 踩(0) | <div>从良卡莎 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418988107)<br>I am a littl...<br>2019-02-15 21:21<br>赞(0) 踩(0) | <div>用打底裤打折卷勾引吗？ <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419243903)<br>AL6冲鸭<br>2019-02-20 04:19<br>赞(0) 踩(0) | <div>做梦吧哈哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410570033)<br><br>2019-04-25 13:40<br>赞(0) 踩(0) | <div>这都俩月了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357541989)<br>butterfly <br>2019-02-12 14:58<br>赞(4) 踩(0) | <div>dumb blondeavril lavigne feat nicki minaj <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357541989)<br>butterfly <br>2019-02-12 14:58<br>赞(4) 踩(0) | <div>dumb blonde<br>avril lavigne feat nicki minaj <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330022450)<br><br>2019-02-12 14:34<br>赞(1) 踩(0) | <div>aaaa</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330022450)<br><br>2019-02-12 14:34<br>赞(1) 踩(0) | <div>待</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330022450)<br><br>2019-02-12 14:34<br>赞(1) 踩(0) | <div>等</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337247867)<br><br>2019-02-12 11:43<br>赞(2) 踩(0) | <div>一点dumb blonde姐妹们都给我听!!!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416584545)<br><br>2019-02-12 09:35<br>赞(2) 踩(0) | <div>Avril，自己的老婆自己疼，支持AL6<img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410589332)<br>2.15，Head Ab...<br>2019-02-11 23:41<br>赞(2) 踩(0) | <div>坐等新单，《金发蠢婊》？乖乖搬小板凳等15号。AL6什么的，最棒了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416584545)<br><br>2019-02-12 09:35<br>赞(2) 踩(0) | <div>Avril，自己的老婆自己疼，支持AL6<br><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410589332)<br>2.15，Head Ab...<br>2019-02-11 23:41<br>赞(2) 踩(0) | <div>坐等新单，《金发蠢婊》？<br>乖乖搬小板凳等15号。<br>AL6什么的，最棒了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330022450)<br><br>2019-02-11 20:01<br>赞(1) 踩(0) | <div>推迟了吗。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265782528)<br><br>2019-02-11 13:16<br>赞(2) 踩(0) | <div>今晚1点约起来 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404456177)<br><br>2019-02-11 13:01<br>赞(1) 踩(0) | <div>为了明天的金发蠢婊，重复发一单时提前下载起虾米的操作 <img src="../../images/comments/0590342800944c9cbf70e4e78ed6027a.png"></div> |
@@ -683,12 +683,12 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411848112)<br><br>2019-01-07 21:41<br>赞(0) 踩(0) | <div>啊啊啊！艾薇儿！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411938550)<br><br>2019-01-06 20:52<br>赞(0) 踩(0) | <div>就是喜欢啊，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411938550)<br><br>2019-01-06 20:48<br>赞(0) 踩(0) | <div>就是喜欢，</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2756357)<br>我还没想好要写什么...<br>2019-01-06 16:25<br>赞(3) 踩(0) | <div>参加朋友婚礼，司仪问新郎，今后无论新娘是贫穷，富有，生病，残疾，变丑，你愿意爱她一生一世吗？新郎说，我愿意。紧接着司仪又说，今后如果你变得贫穷了，残疾了，生病了，丑了，你愿意放新娘一条生路吗？新郎犹豫数秒说，我愿意。我去，这司仪不按套路出牌啊。欢迎来中国。。。welcome to china｡◕‿◕｡</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2756357)<br>我还没想好要写什么...<br>2019-01-06 16:25<br>赞(3) 踩(0) | <div>参加朋友婚礼，司仪问新郎，今后无论新娘是贫穷，富有，生病，残疾，变丑，你愿意爱她一生一世吗？新郎说，我愿意。紧接着司仪又说，今后如果你变得贫穷了，残疾了，生病了，丑了，你愿意放新娘一条生路吗？新郎犹豫数秒说，我愿意。我去，这司仪不按套路出牌啊。<br><br>欢迎来中国。。。welcome to china｡◕‿◕｡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411355566)<br>多纪里姬 须势理姬 弟橘...<br>2019-01-03 09:18<br>赞(2) 踩(0) | <div>感谢你的歌声 陪伴我成长 未来的路 感谢有你  即使现在有更多好听的音乐 都不会忘记你 我想说的是 做鬼都不会放过你 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411355566)<br>多纪里姬 须势理姬 弟橘...<br>2019-01-03 09:15<br>赞(0) 踩(0) | <div>大爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271247095)<br>Hey小傻瓜 你在看什么...<br>2019-01-01 19:46<br>赞(0) 踩(0) | <div>虾米又怎么了，又不能听v的了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404491816)<br>为了艾薇儿来虾米了( ✘...<br>2019-01-01 07:53<br>赞(6) 踩(0) | <div>祝女人今年唱片大爆!  Bang❗️Bang‼️</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301776853)<br> <br>2018-12-31 23:23<br>赞(1) 踩(0) | <div>女人唉我爱你</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301776853)<br> <br>2018-12-31 23:23<br>赞(1) 踩(0) | <div>女人<br>唉<br>我爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410561903)<br>致爱__vv<br>2018-12-31 08:25<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353152950)<br>世界第一甜，华锐李泽言<br>2018-12-30 23:12<br>赞(8) 踩(0) | <div>我04的，喜欢艾薇儿快三年了。记得第一次听的是my happy ending ，在电台里听到的，特意记下了歌名（幸好歌名简单单词易懂，不然一个十岁小姑娘怎么记得住）现在想来，我虽然生得晚了点，但还好没有错过。周围人都在听洗脑口水歌，一味追求所谓的流行，，我就是和别人不一样。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294159143)<br><br>2018-12-30 21:36<br>赞(2) 踩(0) | <div>一腔热血的喜欢，没有为什么</div> |
@@ -703,7 +703,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345123925)<br><br>2018-12-26 10:40<br>赞(4) 踩(0) | <div>爱你薇姐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201361897)<br><br>2018-12-25 21:18<br>赞(6) 踩(0) | <div>为了我薇，用了虾米</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294159143)<br><br>2018-12-30 21:37<br>赞(0) 踩(0) | <div>一样的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50175920)<br><br>2018-12-25 09:12<br>赞(4) 踩(0) | <div>年少时的记忆忙忙碌碌 多年不曾关注你的消息亦不知经年内你所经历的痛苦再次听到你的歌声 犹如回到当初</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50175920)<br><br>2018-12-25 09:12<br>赞(4) 踩(0) | <div>年少时的记忆<br>忙忙碌碌 多年不曾关注你的消息<br>亦不知经年内你所经历的痛苦<br>再次听到你的歌声 犹如回到当初</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411162947)<br>音乐给人带来快乐，我爱音...<br>2018-12-24 21:18<br>赞(7) 踩(0) | <div>这才是音乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187397060)<br>coffee meets...<br>2018-12-24 09:39<br>赞(4) 踩(0) | <div>吓屎我了 还以为被虫子咬然后挂了呢 欢迎回归 再创经典</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2018-12-23 04:05<br>赞(5) 踩(0) | <div>22</div> |
@@ -730,9 +730,9 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2018-12-23 03:59<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2018-12-23 03:57<br>赞(0) 踩(0) | <div>失眠</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346396789)<br><br>2018-12-23 00:07<br>赞(0) 踩(0) | <div>④→艾薇儿↓③②①评论</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346396789)<br><br>2018-12-22 23:59<br>赞(3) 踩(0) | <div>哦空座是女性(名人圈在座的女人也才有一)比丘爱神。(但半球运转世界生活公元之时)空座可能定在香港。(意识家属与意识家属)因为接级在中国国家/国态接级国务职。所以空座可能只会出在香港(半球名人圈)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346396789)<br><br>2018-12-22 23:59<br>赞(3) 踩(0) | <div>哦空座是女性(名人圈在座的女人也才有一)比丘爱神。(但半球运转世界生活公元之时)空座可能定在香港。(意识家属与意识家属)因为接级在中国国家/国态接级国务职。<br>所以空座可能只会出在香港(半球名人圈)</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346396789)<br><br>2019-03-28 02:33<br>赞(0) 踩(0) | <div>恨愧醉梦今生[18禁]</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346396789)<br><br>2018-12-22 23:48<br>赞(0) 踩(0) | <div>中国总中央/人囗区最高检察院(两处法权是网万态生活拐弯路)公子金钱与敌区原因只能通过评论打钱给我。(座椅上的你们自己的背景家属)责任(释权金钱)拜拜。结算金钱在中国除理处结算(中国领导引可的)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346396789)<br><br>2018-12-22 23:48<br>赞(0) 踩(0) | <div>中国总中央/人囗区最高检察院(两处法权是网万态生活拐弯路)公子金钱与敌区原因只能通过评论打钱给我。(座椅上的你们自己的背景家属)责任(释权金钱)拜拜。<br><br>结算金钱在中国除理处结算(中国领导引可的)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358396186)<br><br>2018-12-22 21:35<br>赞(3) 踩(0) | <div>初中好友心爱的偶像，我一般喜欢，然后习惯友情客串，只为顶一下好友列表</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170542216)<br><br>2018-12-22 18:54<br>赞(4) 踩(0) | <div>女人，我很爱你，不仅是你那蔚蓝的眼睛还是你可爱的虎牙，我都无法找到任何语言去形容你的美以及我对你的感情</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404658493)<br>等待AL7的一枚黑星<br>2018-12-22 16:19<br>赞(3) 踩(0) | <div>激动啊</div> |
@@ -771,7 +771,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404468355)<br><br>2018-12-21 01:29<br>赞(3) 踩(0) | <div>表白我薇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404486970)<br>音乐改变人生<br>2018-12-21 01:06<br>赞(4) 踩(0) | <div>等你明年新专，2019的礼物</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404444342)<br><br>2018-12-21 00:36<br>赞(2) 踩(0) | <div>一路爱你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342686468)<br>海潮里的孤岛<br>2018-12-21 00:34<br>赞(0) 踩(0) | <div>You never let everyone downWe will always stay with you</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342686468)<br>海潮里的孤岛<br>2018-12-21 00:34<br>赞(0) 踩(0) | <div>You never let everyone down<br>We will always stay with you</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82249478)<br>叫我铲屎的<br>2018-12-21 00:30<br>赞(1) 踩(0) | <div>你是我的青春，爱你❤❤❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52436439)<br>孤岛。<br>2018-12-21 00:12<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357291208)<br><br>2018-12-21 00:09<br>赞(0) 踩(0) | <div>不想多说什么。欢迎回来 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -875,7 +875,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114355900)<br>buy headabov...<br>2018-12-20 18:06<br>赞(6) 踩(0) | <div>wowowow酵母真是虾米亲女儿了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63888134)<br>666<br>2018-12-20 18:06<br>赞(2) 踩(0) | <div>我爱这个女人惹。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404452090)<br><br>2018-12-20 17:54<br>赞(1) 踩(0) | <div>爱上虾米了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410442862)<br><br>2018-12-20 17:34<br>赞(7) 踩(0) | <div>我的初心 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">因为她入的欧美圈，这么多年，还是只爱她</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410442862)<br><br>2018-12-20 17:34<br>赞(7) 踩(0) | <div>我的初心 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>因为她入的欧美圈，这么多年，还是只爱她</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337229625)<br>随遇而安<br>2018-12-20 17:31<br>赞(1) 踩(0) | <div>等她新专</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212149055)<br><br>2018-12-20 17:30<br>赞(0) 踩(0) | <div>爱死了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321451630)<br>♥️♥️<br>2018-12-20 17:26<br>赞(17) 踩(0) | <div>虾米对艾薇儿真的很照顾，我死都不会删这么好的软件</div> |
@@ -976,7 +976,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363163537)<br><br>2018-12-20 12:21<br>赞(0) 踩(0) | <div>欢迎回来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192335227)<br><br>2018-12-20 12:21<br>赞(0) 踩(0) | <div>真实而有情感的，发自内心的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310834447)<br><br>2018-12-20 12:18<br>赞(1) 踩(0) | <div>她是我最喜欢的一位外国女歌手，欢迎回来！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85369994)<br> <br>2018-12-20 12:17<br>赞(1) 踩(0) | <div>08年～18年，我从不曾放弃追随你，也不曾放弃唱歌。更不会放弃掌握自己的命运。VV加油～</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85369994)<br> <br>2018-12-20 12:17<br>赞(1) 踩(0) | <div>08年～18年，我从不曾放弃追随你，<br>也不曾放弃唱歌。<br>更不会放弃掌握自己的命运。<br>VV加油～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/982504)<br><br>2018-12-20 12:16<br>赞(1) 踩(0) | <div>Welcome back Lavigne.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350137435)<br>X。。<br>2018-12-20 12:15<br>赞(0) 踩(0) | <div>welcome back</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350137435)<br>X。。<br>2018-12-20 12:15<br>赞(0) 踩(0) | <div>尖叫</div> |
@@ -987,7 +987,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5812264)<br>逝去年化，如影随形<br>2018-12-20 11:57<br>赞(1) 踩(0) | <div>从高中听到工作，14年了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23599156)<br>我还没想好要写什么...<br>2018-12-20 11:53<br>赞(1) 踩(0) | <div>黑星</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260122886)<br><br>2018-12-20 11:46<br>赞(2) 踩(0) | <div>终于等到你！！！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410698802)<br><br>2018-12-20 11:44<br>赞(2) 踩(0) | <div>终于回来了！少女薇 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png">没有你的专辑都不知道听谁的！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410698802)<br><br>2018-12-20 11:44<br>赞(2) 踩(0) | <div>终于回来了！少女薇 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"><br>没有你的专辑都不知道听谁的！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357306639)<br><br>2018-12-20 11:43<br>赞(1) 踩(0) | <div>薇迷永远为虾米效忠！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245572452)<br><br>2018-12-20 11:43<br>赞(1) 踩(0) | <div>额 顶一下，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23514502)<br>沉迷音乐无心恋爱<br>2018-12-20 11:41<br>赞(2) 踩(0) | <div>薇的歌总能让我想到一些人一些一去不复返的青春岁月</div> |
@@ -1122,7 +1122,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410601612)<br>我还没想好要写什么...<br>2018-12-15 23:14<br>赞(0) 踩(0) | <div>海报拍的真美腻 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316551652)<br><br>2018-12-14 16:50<br>赞(1) 踩(0) | <div>为你转身为你留灯为你夜夜爆灯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404451326)<br><br>2018-12-14 01:10<br>赞(1) 踩(0) | <div>不要在微博上作死，别给我薇招黑，今天是公祭日。那天刷薇薇都不管，别在国家管时作死</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2018-12-13 23:36<br>赞(1) 踩(0) | <div>恭喜我的青春记忆完美回归 嘿新歌还挺好听的 By the way</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2018-12-13 23:36<br>赞(1) 踩(0) | <div>恭喜我的青春记忆完美回归 嘿<br>新歌还挺好听的 By the way</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410492377)<br><br>2018-12-13 22:35<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404489075)<br><br>2018-12-13 17:13<br>赞(2) 踩(0) | <div>感动ing</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35686946)<br>曾经是个走廊歌手<br>2018-12-13 14:45<br>赞(25) 踩(0) | <div>快来中国圈钱吧，求你了</div> |
@@ -1139,8 +1139,8 @@ Head Above Water (2019)
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410314590)<br>tell me it's...<br>2019-02-13 21:22<br>赞(0) 踩(0) | <div><q><b>music好时光说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410314590)<br>tell me it's...<br>2020-02-14 21:17<br>赞(0) 踩(0) | <div><q><b>music好时光说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231795)<br><br>2018-12-13 11:38<br>赞(0) 踩(0) | <div><a href="https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/1a/c5/e8/1ac5e86b-380a-3ee8-3650-4eccfeaf47da/source/1200x1200bb.jpg" target="_blank" rel="nofollow noreferrer noopener">https://is2-ssl.mzstatic.com/image/thumb/Music118/v4/1a/c5/e8/1ac5e86b-380a-3ee8-3650-4eccfeaf47da/source/1200x1200bb.jpg</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2018-12-13 11:36<br>赞(1) 踩(0) | <div>Head Above WaterBirdieI Fell in Love with the DevilTell Me It's OverDumb BlondeIt Was in MeSouvenirCrushGoddBigger WowLove Me InsaneWarrior</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2018-12-13 11:34<br>赞(0) 踩(0) | <div>Genre: PopPre-Order: Expected Feb 15, 2019℗ 2018 Avril Lavigne Music &amp; Entertainment under exclusive license to BMG Rights Management (US) LLC 2018</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2018-12-13 11:36<br>赞(1) 踩(0) | <div>Head Above Water<br>Birdie<br>I Fell in Love with the Devil<br>Tell Me It's Over<br>Dumb Blonde<br>It Was in Me<br>Souvenir<br>Crush<br>Godd<br>Bigger Wow<br>Love Me Insane<br>Warrior</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2018-12-13 11:34<br>赞(0) 踩(0) | <div>Genre: Pop<br>Pre-Order: Expected Feb 15, 2019<br>℗ 2018 Avril Lavigne Music &amp; Entertainment under exclusive license to BMG Rights Management (US) LLC 2018</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262023655)<br>音乐无国界<br>2018-12-13 09:26<br>赞(2) 踩(0) | <div>我还能说什么呢？我爱你，我爱你，只能说这个了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3008874)<br>什么时候遇见外星人/回宇...<br>2018-12-13 08:45<br>赞(0) 踩(0) | <div>爱你爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410442401)<br><br>2018-12-13 08:05<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -1246,7 +1246,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410440293)<br><br>2018-12-13 00:58<br>赞(0) 踩(0) | <div>啊啊啊啊啊啊啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404419632)<br><br>2018-12-13 00:58<br>赞(1) 踩(0) | <div>啊啊啊啊啊紧张</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303223295)<br><br>2018-12-13 00:58<br>赞(1) 踩(0) | <div>哭了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404483754)<br>我明白你会来所以我等<br>2018-12-13 00:58<br>赞(2) 踩(0) | <div>我生日发歌要不要这么棒两分钟啊啊啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404483754)<br>我明白你会来所以我等<br>2018-12-13 00:58<br>赞(2) 踩(0) | <div>我生日发歌要不要这么棒<br>两分钟啊啊啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410326049)<br><br>2018-12-13 00:58<br>赞(1) 踩(0) | <div>咦咦咦，激动激动</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404481840)<br><br>2018-12-13 00:58<br>赞(0) 踩(0) | <div>两分钟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49735649)<br>艾薇儿冲鸭！<br>2018-12-13 00:58<br>赞(0) 踩(0) | <div>来了来了</div> |
@@ -1328,7 +1328,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404484956)<br><br>2018-12-13 00:51<br>赞(0) 踩(0) | <div>9分钟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404506110)<br><br>2018-12-13 00:51<br>赞(0) 踩(0) | <div>今天是我生日哦！非常激动薇薇的歌在今天发出，好美的巧合啊。最好的礼物！还有十分钟就发啦，一起等待啊！还有，祝我生日快乐吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404453160)<br><br>2018-12-13 00:56<br>赞(0) 踩(0) | <div>生日快乐呀</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404529865)<br><br>2018-12-13 00:51<br>赞(0) 踩(0) | <div>从小学到大学大概坚持下来的只有两件事一件是学习一件事喜欢你八年老粉，终于等到你，Avril</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404529865)<br><br>2018-12-13 00:51<br>赞(0) 踩(0) | <div>从小学到大学<br>大概坚持下来的只有两件事<br>一件是学习<br>一件事喜欢你<br>八年老粉，终于等到你，Avril</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406330508)<br><br>2018-12-13 00:51<br>赞(0) 踩(0) | <div>hold 住</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404460753)<br><br>2018-12-13 00:51<br>赞(0) 踩(0) | <div>10分钟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404483540)<br><br>2018-12-13 00:51<br>赞(0) 踩(0) | <div>lia啊lia啊</div> |
@@ -1345,7 +1345,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404464630)<br><br>2018-12-13 00:50<br>赞(0) 踩(0) | <div>希望评论数过万呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404495080)<br><br>2018-12-13 00:50<br>赞(0) 踩(0) | <div>艾薇儿，喜欢你6年啦，你永远是我的女神，爱你真的是一件很开心，很快乐的一件事</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404488683)<br><br>2018-12-13 00:50<br>赞(0) 踩(0) | <div>倒数十分钟 <img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404398333)<br>随心听<br>2018-12-13 00:49<br>赞(0) 踩(0) | <div>可能 前男友也在吧 哈哈哈应该不会</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404398333)<br>随心听<br>2018-12-13 00:49<br>赞(0) 踩(0) | <div>可能 前男友也在吧 哈哈哈<br>应该不会</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404447408)<br><br>2018-12-13 00:49<br>赞(2) 踩(0) | <div>我于波波在呢！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404484956)<br><br>2018-12-13 00:49<br>赞(0) 踩(0) | <div>11分钟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404482595)<br><br>2018-12-13 00:49<br>赞(1) 踩(0) | <div>饿死了。等歌</div> |
@@ -1370,7 +1370,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45193570)<br> <br>2018-12-13 00:47<br>赞(2) 踩(0) | <div>还有十五分钟 酵母冲鸭！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404484956)<br><br>2018-12-13 00:47<br>赞(1) 踩(0) | <div>13分钟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279730957)<br>啦啦啦<br>2018-12-13 00:47<br>赞(1) 踩(0) | <div>还有十三分钟，坐等~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410435303)<br>゛唯音乐和美食不可辜负 ...<br>2018-12-13 00:46<br>赞(4) 踩(0) | <div>“终于等到你 ，到目前为止  我坚持最长时间的事情就是喜欢你”堂堂七尺男儿，9月20号那天一直等你的《Head  Above Water》当时前奏想起刚听一小段已经感动到热泪盈眶，多少的青春回忆。艾薇儿这三个字，影响我十多年了 。这5年来，手机上 电脑上 车上都会存着妳那30多首一直不舍得删除的歌，一直在等这妳。期待你的AL6专辑每一首歌等你第二弹《TELL ME IT'S OVER》。致敬青春 永远的女神，没有之一 .</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410435303)<br>゛唯音乐和美食不可辜负 ...<br>2018-12-13 00:46<br>赞(4) 踩(0) | <div>“终于等到你 ，到目前为止  我坚持最长时间的事情就是喜欢你”<br><br>堂堂七尺男儿，9月20号那天一直等你的《Head  Above Water》当时前奏想起刚听一小段已经感动到热泪盈眶，多少的青春回忆。<br>艾薇儿这三个字，影响我十多年了 。<br>这5年来，手机上 电脑上 车上都会存着妳那30多首一直不舍得删除的歌，一直在等这妳。期待你的AL6专辑每一首歌<br>等你第二弹《TELL ME IT'S OVER》。<br><br>致敬青春 永远的女神，没有之一 .</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410435303)<br>゛唯音乐和美食不可辜负 ...<br>2018-12-13 00:47<br>赞(0) 踩(0) | <div>期待期待，倒计时了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45193570)<br> <br>2018-12-13 00:48<br>赞(0) 踩(0) | <div>期待！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404550630)<br><br>2018-12-13 00:46<br>赞(0) 踩(0) | <div>大家新年快乐</div> |
@@ -1576,9 +1576,9 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404394114)<br><br>2018-12-12 22:13<br>赞(9) 踩(0) | <div>所以这就是我再一次熬夜的理由 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410424928)<br><br>2018-12-12 22:12<br>赞(2) 踩(0) | <div>微微我来了。今晚等你哦 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410409968)<br><br>2018-12-12 22:10<br>赞(1) 踩(0) | <div>Jazz is the future</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301776853)<br> <br>2018-12-12 22:09<br>赞(2) 踩(0) | <div>还有三小时艾薇儿 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">女王加冕</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301776853)<br> <br>2018-12-12 22:09<br>赞(2) 踩(0) | <div>还有三小时<br>艾薇儿 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>女王加冕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410417307)<br><br>2018-12-12 22:07<br>赞(4) 踩(0) | <div>明天还要上学啊 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png">，不知道要不要熬到一点……</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301776853)<br> <br>2018-12-12 22:14<br>赞(0) 踩(0) | <div>一样，但是我还在肝作业第一次希望多点作业然后正大光明的熬夜</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301776853)<br> <br>2018-12-12 22:14<br>赞(0) 踩(0) | <div>一样，但是我还在肝作业<br>第一次希望多点作业然后正大光明的熬夜</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410369728)<br>       <br>2018-12-12 22:14<br>赞(0) 踩(0) | <div>必须的！！我要喝三包咖啡哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404393120)<br>AVRILCHINA.C...<br>2018-12-12 22:01<br>赞(4) 踩(0) | <div>我来试试评论</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404407669)<br>我还没想好要写什么...<br>2018-12-12 22:01<br>赞(2) 踩(0) | <div>还有3⃣️小时，时间时间快点过去吧</div> |
@@ -1696,7 +1696,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287446223)<br>这！就是<br>2018-12-12 08:33<br>赞(0) 踩(0) | <div>好期待呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380404173)<br><br>2018-12-12 08:29<br>赞(0) 踩(0) | <div>艾薇儿艾薇儿艾薇儿打call <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380404173)<br><br>2018-12-12 08:28<br>赞(0) 踩(0) | <div>这单宣传感觉比首单好 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380404173)<br><br>2018-12-12 08:28<br>赞(0) 踩(0) | <div>女神啊啊啊啊啊二单终于来了爵士 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380404173)<br><br>2018-12-12 08:28<br>赞(0) 踩(0) | <div>女神啊啊啊啊啊<br>二单终于来了<br>爵士 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404705547)<br>Avril Lavign...<br>2018-12-12 08:09<br>赞(0) 踩(0) | <div>啊啊啊老婆！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245686741)<br><br>2018-12-12 08:04<br>赞(0) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222481578)<br><br>2018-12-12 08:17<br>赞(0) 踩(0) | <div>你有病吧</div> |
@@ -1707,14 +1707,14 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356260915)<br>我还没想好要写什么...<br>2018-12-12 07:38<br>赞(0) 踩(0) | <div>我9等了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404407669)<br>我还没想好要写什么...<br>2018-12-12 07:36<br>赞(0) 踩(0) | <div>一直都在，静静守候，无论多久，等待你的归来 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214958625)<br>随风飘荡<br>2018-12-12 07:34<br>赞(0) 踩(0) | <div>再穷也得买一张日常听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404466832)<br><br>2018-12-12 07:32<br>赞(1) 踩(0) | <div>坐等酵母第二首单曲期待很久了已经 期待期待黑星一直在这里 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404466832)<br><br>2018-12-12 07:32<br>赞(1) 踩(0) | <div>坐等酵母第二首单曲<br>期待很久了已经 期待期待<br>黑星一直在这里 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2018-12-12 05:13<br>赞(0) 踩(0) | <div>嗯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345377952)<br>▹<br>2018-12-12 04:29<br>赞(0) 踩(0) | <div>虾米牛批！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331361606)<br><br>2018-12-12 03:21<br>赞(0) 踩(0) | <div>啊啊啊啊啊，辣個女人！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404403926)<br>我还没想好要写什么...<br>2018-12-12 02:44<br>赞(0) 踩(0) | <div>期待</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25475256)<br>霉薇<br>2018-12-12 02:17<br>赞(2) 踩(0) | <div>薇薇最棒啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404470755)<br>我还没想好要写什么...<br>2018-12-12 02:08<br>赞(2) 踩(0) | <div>我青春的名字叫艾薇儿！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310503154)<br><br>2018-12-12 01:58<br>赞(1) 踩(0) | <div>啊啊啊啊啊啊！！我要留下只属于我的痕迹，证明我来过这里，证明我曾经听着她的歌疯狂过，无畏过，也许她会老去，也许时间会让我们妥协，但我们终将留有一段回忆，那是属于我们的青春年少！！！！艾薇儿！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310503154)<br><br>2018-12-12 01:58<br>赞(1) 踩(0) | <div>啊啊啊啊啊啊！！我要留下只属于我的痕迹，证明我来过这里，证明我曾经听着她的歌疯狂过，无畏过，也许她会老去，也许时间会让我们妥协，但我们终将留有一段回忆，那是属于我们的青春年少！！！！<br><br>艾薇儿！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342993711)<br> <br>2018-12-12 01:53<br>赞(0) 踩(0) | <div>永远爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334388437)<br>Dreaming awa...<br>2018-12-12 01:47<br>赞(0) 踩(0) | <div>期待 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290062747)<br>我还没想好要写什么..<br>2018-12-12 01:41<br>赞(1) 踩(0) | <div>表白avril，表白虾米~</div> |
@@ -1850,7 +1850,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337073415)<br>五年<br>2018-12-11 09:06<br>赞(4) 踩(0) | <div>我等了五年 我不敢相信 我五年都没放弃这个陪我一路的女神 虽然有时感觉她可能已经淡出视线了 结果她在给我们回归的惊喜 我爱你❤️艾薇儿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375849608)<br><br>2018-12-11 09:05<br>赞(1) 踩(0) | <div>天下哦(⊙o⊙)哦哦哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248093681)<br> <br>2018-12-11 08:48<br>赞(0) 踩(0) | <div>看到她要发新专了很激动，虽然已经很久没听她的歌了，刚刚又听了一遍她的歌（手机里一直都存着她的歌），还是很有感觉！等你新专！等你回来～艾薇儿！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210362467)<br> 金泰妍♥少女时代♥<br>2018-12-11 08:35<br>赞(1) 踩(0) | <div>入坑是Innocence当时就觉得艾薇儿的声音真的超好听啊后来列表一首一首的歌曲循环入坑越来越深再到后来的每逢新专必追艾薇儿真的是人间宝物啊❤❤❤</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210362467)<br> 金泰妍♥少女时代♥<br>2018-12-11 08:35<br>赞(1) 踩(0) | <div>入坑是Innocence<br>当时就觉得艾薇儿的声音真的超好听啊<br>后来列表一首一首的歌曲循环<br>入坑越来越深<br>再到后来的每逢新专必追<br>艾薇儿真的是人间宝物啊❤❤❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270044460)<br>我说你是人间的四月天<br>2018-12-11 08:23<br>赞(0) 踩(0) | <div>I'm with you.  我记得那时候偶然听到副歌的高音部分，然后我就开始听她的歌了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239974834)<br> <br>2018-12-11 07:45<br>赞(0) 踩(0) | <div>入坑的歌曲是一个现场版的tomorrow</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202885679)<br>我还没想好要写什么...<br>2018-12-11 07:23<br>赞(2) 踩(0) | <div>忍住不哭</div> |
@@ -1858,12 +1858,12 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14266721)<br>4 fun.<br>2018-12-11 06:56<br>赞(2) 踩(0) | <div>她真的会参加 歌手2019 吗？期待鸭。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346567728)<br><br>2018-12-11 06:55<br>赞(0) 踩(0) | <div>等你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409918079)<br><br>2018-12-11 06:49<br>赞(0) 踩(0) | <div>静静等待  和我的新机一起到来</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409918079)<br><br>2018-12-11 07:28<br>赞(0) 踩(0) | <div>听kwep holding on入坑两千一二年刚上初中，杂志上看的推广 就去听了 从此走上一条不归路 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409918079)<br><br>2018-12-11 07:28<br>赞(0) 踩(0) | <div>听kwep holding on入坑<br>两千一二年刚上初中，杂志上看的推广 就去听了 从此走上一条不归路 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222481578)<br><br>2018-12-11 06:24<br>赞(0) 踩(0) | <div>等你 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404480489)<br>Buy Head Abo...<br>2018-12-11 06:19<br>赞(0) 踩(0) | <div>等你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317003634)<br><br>2018-12-11 03:17<br>赞(0) 踩(0) | <div>不可以给玷污了，一玷污，就没得回头了，再美也没用</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410328463)<br><br>2018-12-11 02:07<br>赞(0) 踩(0) | <div>******</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356152933)<br><br>2018-12-11 02:17<br>赞(0) 踩(0) | <div>闪耀的人让人永久不能忘却if you don't like her, just shut up and go <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356152933)<br><br>2018-12-11 02:17<br>赞(0) 踩(0) | <div>闪耀的人让人永久不能忘却<br>if you don't like her, just shut up and go <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404742857)<br>我还没想好要写什么...<br>2018-12-11 02:20<br>赞(0) 踩(0) | <div>甭管人家多大，依旧比你好看，比你有才华，比你有钱 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318224347)<br> <br>2018-12-11 06:49<br>赞(0) 踩(0) | <div>不喜欢可以不听不看 不需要来酸 这样显得你很没素质和家教 而且幼稚</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318224347)<br> <br>2018-12-11 06:50<br>赞(0) 踩(0) | <div>想蹭热度麻烦你去其他地方 我们vv不约 靴靴</div> |
@@ -1990,16 +1990,16 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404778638)<br><br>2018-09-23 22:18<br>赞(1) 踩(0) | <div>时隔四年 再听真的泪目</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143304488)<br><br>2018-09-23 22:06<br>赞(0) 踩(0) | <div>我的薇薇吖 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262023655)<br>音乐无国界<br>2018-09-23 13:34<br>赞(0) 踩(0) | <div>永远喜欢你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352560070)<br><br>2018-09-23 13:30<br>赞(0) 踩(0) | <div>520艾微儿</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352560070)<br><br>2018-09-23 13:30<br>赞(0) 踩(0) | <div>520<br>艾微儿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262993179)<br>感谢支付宝<br>2018-09-23 11:26<br>赞(1) 踩(0) | <div>什么叫后垃圾摇滚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51771619)<br><br>2018-09-23 11:13<br>赞(1) 踩(0) | <div>哈哈哈哈哈哈后垃圾摇滚 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169469684)<br>你好<br>2018-09-23 09:28<br>赞(0) 踩(0) | <div>虾米牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283487855)<br><br>2018-09-23 08:34<br>赞(1) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404314503)<br><br>2018-09-23 00:24<br>赞(2) 踩(0) | <div>晚安，感动</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404471953)<br><br>2018-09-23 00:17<br>赞(4) 踩(0) | <div>-欢迎回家我的公主殿下♡</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404471953)<br><br>2018-09-23 00:17<br>赞(4) 踩(0) | <div>-<br>欢迎回家<br>我的公主殿下♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404582835)<br><br>2018-09-22 23:09<br>赞(2) 踩(0) | <div>等你很久了很久了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346616940)<br>Wish Everyon...<br>2018-09-22 20:22<br>赞(1) 踩(0) | <div>啊啊啊啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404680313)<br><br>2018-09-22 18:36<br>赞(1) 踩(0) | <div>我超喜欢你的从小学别人介绍我听你的歌就喜欢上你你回归我很开心因为又可以听到你的声音加油加油加油加油加油</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404680313)<br><br>2018-09-22 18:36<br>赞(1) 踩(0) | <div>我超喜欢你的<br>从小学别人介绍我听你的歌就喜欢上你<br>你回归我很开心因为又可以听到你的声音<br>加油加油加油加油加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404639995)<br>有爱，有望，有信。<br>2018-09-22 18:35<br>赞(1) 踩(0) | <div>薇薇 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330022450)<br><br>2018-09-22 17:55<br>赞(1) 踩(0) | <div>欢迎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404675404)<br><br>2018-09-22 17:51<br>赞(4) 踩(0) | <div>摇滚天后回归，你们准备好震耳欲聋了吗？</div> |
@@ -2016,7 +2016,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404606870)<br><br>2018-09-22 12:43<br>赞(3) 踩(0) | <div>欢迎回来，我的女神</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404649223)<br><br>2018-09-22 11:54<br>赞(0) 踩(0) | <div>艾薇儿陪伴我走过一段很痛苦的时期，谢谢薇薇，谢谢你回归</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369337601)<br><br>2018-09-22 11:20<br>赞(4) 踩(0) | <div>欧美初心</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17883593)<br> <br>2018-09-22 10:40<br>赞(11) 踩(0) | <div>十年前的那个下午，第一次听到Avril的歌以后，就无法自拔了。  十年里 我用过千千静听，QQ音乐，酷我，酷狗，Google，网易云，虾米。但是，她的歌目却从没有少过。看到你的留言，有种感同身受。 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17883593)<br> <br>2018-09-22 10:40<br>赞(11) 踩(0) | <div>十年前的那个下午，第一次听到Avril的歌以后，就无法自拔了。  十年里 我用过千千静听，QQ音乐，酷我，酷狗，Google，网易云，虾米。<br><br>但是，她的歌目却从没有少过。<br>看到你的留言，有种感同身受。 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404591415)<br><br>2018-09-22 09:51<br>赞(3) 踩(0) | <div>女神</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379587950)<br><br>2018-09-22 09:40<br>赞(2) 踩(0) | <div>welcome back <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179006812)<br>九锥盛世<br>2018-09-22 08:42<br>赞(1) 踩(0) | <div>艾薇儿啊啊啊啊</div> |
@@ -2025,7 +2025,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292105826)<br>两三年前刚来大连的时候，...<br>2018-09-22 08:17<br>赞(0) 踩(0) | <div>至少现在虾米还独家首发</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285154120)<br><br>2018-09-22 07:28<br>赞(1) 踩(0) | <div>薇!!!!!!!!我爱你!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404629608)<br><br>2018-09-22 07:16<br>赞(1) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358396186)<br><br>2018-09-22 06:48<br>赞(10) 踩(0) | <div>新歌《Head Above Water》真心不错，这歌越听越带劲，生命的倔强是与生俱来的，大自然的生存法则便也是如此，只有产生强大求生欲望，才会不断努力, Keep向上 <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png">喜欢她是从06年开始到现在，一路走来，少不了她的音乐与陪伴。在虾米看到她归来，所以也忍不住来评论区留言，会记住我的青春回忆里有个最美的 艾薇儿&amp;middot;拉维尼, <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358396186)<br><br>2018-09-22 06:48<br>赞(10) 踩(0) | <div>新歌《Head Above Water》真心不错，这歌越听越带劲，生命的倔强是与生俱来的，大自然的生存法则便也是如此，只有产生强大求生欲望，才会不断努力, Keep向上 <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"><br><br>喜欢她是从06年开始到现在，一路走来，少不了她的音乐与陪伴。在虾米看到她归来，所以也忍不住来评论区留言，会记住我的青春回忆里有个最美的 艾薇儿&amp;middot;拉维尼, <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404506754)<br><br>2018-09-22 01:09<br>赞(1) 踩(0) | <div>爱你❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4027042)<br><br>2018-09-22 00:56<br>赞(0) 踩(0) | <div>欢迎回来！终于等到你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36380638)<br> <br>2018-09-22 00:20<br>赞(0) 踩(0) | <div>欢迎回来</div> |
@@ -2067,11 +2067,11 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404553544)<br><br>2018-09-20 23:53<br>赞(10) 踩(0) | <div>I'm with u . ♡ALways...&amp;mdash;&amp;mdash;by ur little black star★[文字cool][文字up][文字up][文字up][文字up][文字up] <img src="../../images/comments/5cacc3caf4e2d2d30a8c050b030af427.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404484277)<br><br>2018-09-20 23:46<br>赞(1) 踩(0) | <div>啥时候下首歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404484277)<br><br>2018-09-20 23:46<br>赞(2) 踩(0) | <div>终于回来了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404492970)<br>因为vv下载的虾米<br>2018-09-20 23:44<br>赞(3) 踩(0) | <div>9.27v神的生日黑星们留意下</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404492970)<br>因为vv下载的虾米<br>2018-09-20 23:44<br>赞(3) 踩(0) | <div>9.27<br>v神的生日<br><br>黑星们留意下</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36177710)<br>我还没想好要写什么...<br>2018-09-20 23:35<br>赞(4) 踩(0) | <div>一直喜欢你，喜欢你，那年25岁。。。如今我39了，你复出我只会继续支持。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184290548)<br>80的大叔<br>2018-09-20 23:43<br>赞(0) 踩(0) | <div>哈哈，我30岁 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36177710)<br>我还没想好要写什么...<br>2018-09-20 23:49<br>赞(0) 踩(0) | <div>哈哈，恭喜你进入奔四阶段了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404502660)<br><br>2018-09-20 23:34<br>赞(3) 踩(0) | <div>艾薇儿惊艳时光的女神温柔岁月的偶像这一次你重新回归绽放黑星一直追随惟愿时光不老我们不散愿你被岁月温柔相待</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404502660)<br><br>2018-09-20 23:34<br>赞(3) 踩(0) | <div>艾薇儿<br>惊艳时光的女神<br>温柔岁月的偶像<br>这一次你重新回归绽放<br>黑星一直追随<br>惟愿时光不老<br>我们不散<br>愿你被岁月温柔相待</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379617027)<br>永世爱薇<br>2018-09-20 23:25<br>赞(1) 踩(0) | <div>Vv神曲回归</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400656368)<br><br>2018-09-20 23:06<br>赞(3) 踩(0) | <div>新专辑冬季发行</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379617027)<br>永世爱薇<br>2018-09-20 23:25<br>赞(0) 踩(0) | <div>谢谢告知</div> |
@@ -2087,22 +2087,22 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99045906)<br><br>2018-09-20 20:51<br>赞(0) 踩(0) | <div>五年级喜欢你到现在我都高二了   等了你五年可算是回来了   无论如何 不管什么闲言蜚语我都永远支持你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99045906)<br><br>2018-09-20 20:49<br>赞(0) 踩(0) | <div>爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9312500)<br><br>2018-09-20 20:40<br>赞(0) 踩(0) | <div>是你让我第一次知道了虎牙的美，无虎牙不恋爱。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404491362)<br><br>2018-09-20 20:29<br>赞(1) 踩(0) | <div>&lt;回来了，就好。不要觉着对不起任何人，因为你时刻记挂着我们。我们也始终如一，不忘初心。因为，在我们心中，你，始终是那叛逆的朋克公主。[url=/u/355072164]@Avril Lavigne [/url]Really miss you。My princess。&gt;&lt;355072164&gt;</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404491362)<br><br>2018-09-20 20:29<br>赞(1) 踩(0) | <div>&lt;回来了，就好。<br>不要觉着对不起任何人，因为你时刻记挂着我们。<br>我们也始终如一，不忘初心。<br>因为，在我们心中，你，始终是那叛逆的朋克公主。[url=/u/355072164]@Avril Lavigne [/url]<br>Really miss you。My princess。&gt;&lt;355072164&gt;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47801847)<br><br>2018-09-20 20:22<br>赞(0) 踩(0) | <div>你们知道吗，艾薇儿终于回来了！！！！！ <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52034644)<br>身体会跳舞<br>2018-09-20 20:15<br>赞(0) 踩(0) | <div>老娘回来了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404494940)<br><br>2018-09-20 20:13<br>赞(0) 踩(0) | <div>我爱你啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404527848)<br>for U,for Av...<br>2018-09-20 19:44<br>赞(1) 踩(0) | <div>为了你，我下载了虾米音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404465793)<br><br>2018-09-20 19:26<br>赞(0) 踩(0) | <div>永远爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380019161)<br>回来步入我的心 好吗<br>2018-09-20 19:26<br>赞(0) 踩(0) | <div>终于等到你 还好我没放弃！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403206938)<br><br>2018-09-20 19:06<br>赞(0) 踩(0) | <div>艾薇儿回归新单曲Head Above Water❤️❤️❤️无论多久都等你Black star永远闪耀！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403206938)<br><br>2018-09-20 19:06<br>赞(0) 踩(0) | <div>艾薇儿回归新单曲Head Above Water❤️❤️❤️<br>无论多久都等你<br>Black star永远闪耀！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320500554)<br>What’re you ...<br>2018-09-20 19:06<br>赞(0) 踩(0) | <div>终于&amp;hellip;</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275868985)<br><br>2018-09-20 19:02<br>赞(0) 踩(0) | <div>是因为艾薇儿才入的欧美圈就是突然觉得终于等到了♡</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275868985)<br><br>2018-09-20 19:02<br>赞(0) 踩(0) | <div>是因为艾薇儿才入的欧美圈<br>就是突然觉得终于等到了♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404504796)<br><br>2018-09-20 18:25<br>赞(0) 踩(0) | <div>疯狂打call。我家为我永远爱你。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345159329)<br>活着就要开心因为会死很久<br>2018-09-20 17:52<br>赞(2) 踩(0) | <div>病好了吗好了嘛  <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png">好了吗 好了吗 好了吗 好了吗 好了吗。  艾薇儿：好了，老娘要称霸乐坛了！我要让Ts a妹 adele 都要过气！ <img src="../../images/comments/8fcbf24260c00a88b7455190f859059e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404407667)<br><br>2018-09-20 17:42<br>赞(0) 踩(0) | <div>哈哈，头像换了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282273139)<br><br>2018-09-20 16:56<br>赞(2) 踩(0) | <div>虾米音乐是不是应该考虑一下  avril有的歌有有的没有很蛋疼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404523562)<br><br>2018-09-20 16:51<br>赞(1) 踩(0) | <div>有种浴火重生的感觉！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82881490)<br>Übung macht ...<br>2018-09-20 16:32<br>赞(4) 踩(0) | <div>终于等回你！Welcome back SkaterGirl这声音是多少人的叛逆青春❤️I&amp;rsquo;m with you all the time6小时3万评论/王炸了解一下？黄金五年床上养病了，心疼得我想流泪！不然估计怕不是比Taylor还火吧（都是我女神）03年那会儿五年级听你的let go可以单循24h/后来的under my skin真的越听越觉得有共鸣/你是我的the best damn thing粉色炸弹/Goodbye lullaby的仙女转型也很成功/Avril Lavigne同名砖Falling Fast仿佛预示着什么</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82881490)<br>Übung macht ...<br>2018-09-20 16:32<br>赞(4) 踩(0) | <div>终于等回你！<br>Welcome back SkaterGirl<br>这声音是多少人的叛逆青春❤️<br>I&amp;rsquo;m with you all the time<br>6小时3万评论/王炸了解一下？<br>黄金五年床上养病了，心疼得我想流泪！不然估计怕不是比Taylor还火吧（都是我女神）<br>03年那会儿五年级听你的let go可以单循24h/后来的under my skin真的越听越觉得有共鸣/你是我的the best damn thing粉色炸弹/Goodbye lullaby的仙女转型也很成功/Avril Lavigne同名砖Falling Fast仿佛预示着什么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316551652)<br><br>2018-09-20 16:17<br>赞(1) 踩(0) | <div>好激动好激动！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319804674)<br><br>2018-09-20 16:06<br>赞(1) 踩(0) | <div>听着歌，总是想落泪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404532324)<br><br>2018-09-20 16:06<br>赞(1) 踩(0) | <div>我为了这首歌，下载了虾米音乐，来听听我女神的歌，5年了你回来了，你还是以前那个女孩，你没有变，我们都爱你，❤</div> |
@@ -2110,7 +2110,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404475938)<br>我还没想好要写什么...<br>2018-09-20 15:50<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404511483)<br>松果所在之处<br>2018-09-20 15:40<br>赞(1) 踩(0) | <div>你终于回来了٩( '&amp;omega;' )و</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7762529)<br>岁月流逝只为他们的弥留<br>2018-09-20 14:54<br>赞(1) 踩(0) | <div>哈哈哈哈</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352273608)<br><br>2018-09-20 14:31<br>赞(0) 踩(0) | <div>薇薇姐，我一直都爱着你 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png">我一直都支持你！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352273608)<br><br>2018-09-20 14:31<br>赞(0) 踩(0) | <div>薇薇姐，我一直都爱着你 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"><br>我一直都支持你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404467794)<br>我还没想好要写什么...<br>2018-09-20 14:17<br>赞(0) 踩(0) | <div>我爱你我爱你我爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13357710)<br>哈哈哈哈<br>2018-09-20 14:07<br>赞(0) 踩(0) | <div>终于等到你回归</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404398333)<br>随心听<br>2018-09-20 13:39<br>赞(2) 踩(0) | <div>10年了，听了8年多的老歌，complicated的调皮skatingboy的活力girlfriend的青春when you are gone的心酸everybodyhurts的无奈wish you were here的遗憾happyending的释然&amp;hellip;&amp;hellip;fly的坚强&amp;hellip;&amp;hellip;AL6会带给我们更多更不一样的AvrilLavigne. 所有的等待都值得。想知道还要多少黑星一直在守候摇滚朋克女神的回归。</div> |
@@ -2128,7 +2128,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125072494)<br>皇马球迷！喜欢 科技 电...<br>2018-09-20 11:24<br>赞(3) 踩(0) | <div>好久没有听到她  和大学一样的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266327652)<br><br>2018-09-20 11:13<br>赞(1) 踩(0) | <div>赞虾米这个艺人页面设计感(●･◡･●)ﾉ&amp;hearts;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404513195)<br><br>2018-09-20 11:09<br>赞(1) 踩(0) | <div>洗脑了：don&amp;rsquo;t let me drown</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379530098)<br><br>2018-09-20 10:59<br>赞(247) 踩(0) | <div>因为艾薇儿   二年级那年学习了架子鼓      喜欢了流行摇滚和朋克  至今15年过去了 我已经是一名音乐学院的打击乐老师那些年QQ飞车的背景音乐都是艾薇拉维尼的歌      会一直喜欢下去   加油</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379530098)<br><br>2018-09-20 10:59<br>赞(247) 踩(0) | <div>因为艾薇儿   二年级那年学习了架子鼓      喜欢了流行摇滚和朋克  至今15年过去了 我已经是一名音乐学院的打击乐老师<br>那些年QQ飞车的背景音乐都是艾薇拉维尼的歌      会一直喜欢下去   加油</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404559098)<br><br>2018-09-20 22:03<br>赞(0) 踩(0) | <div>老师，您是哪所音乐学院的老师?</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379530098)<br><br>2018-09-21 12:34<br>赞(0) 踩(0) | <div><q><b>狸说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169469684)<br>你好<br>2018-09-22 11:07<br>赞(0) 踩(0) | <div>我西安的 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
@@ -2137,7 +2137,7 @@ Head Above Water (2019)
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404559098)<br><br>2019-07-02 00:20<br>赞(0) 踩(0) | <div><q><b>信   念说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404456808)<br><br>2018-09-20 10:26<br>赞(2) 踩(0) | <div>回来啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125374434)<br> <br>2018-09-20 10:22<br>赞(1) 踩(0) | <div>回归 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232823232)<br><br>2018-09-20 10:22<br>赞(1) 踩(0) | <div>真的是&amp;ldquo;初中英语启蒙老师了&amp;rdquo;你生病的这几年，我先后跌入了两个陌生的令人窒息的新环境，我度过了这辈子最自闭的几年。今天你的新歌发出来，让我回想起了听你的歌的最快乐的日子，我永远怀念那段时光，即使是后来我进入新的环境都很少提起对你的喜欢，希望你的回归可以让我快乐回来。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232823232)<br><br>2018-09-20 10:22<br>赞(1) 踩(0) | <div>真的是&amp;ldquo;初中英语启蒙老师了&amp;rdquo;<br>你生病的这几年，我先后跌入了两个陌生的令人窒息的新环境，我度过了这辈子最自闭的几年。今天你的新歌发出来，让我回想起了听你的歌的最快乐的日子，我永远怀念那段时光，即使是后来我进入新的环境都很少提起对你的喜欢，希望你的回归可以让我快乐回来。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83164430)<br>(¬_¬)<br>2018-09-20 10:20<br>赞(1) 踩(0) | <div>五年的等待都是值得的！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197708089)<br><br>2018-09-20 10:19<br>赞(1) 踩(0) | <div>love you</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404498448)<br><br>2018-09-20 10:18<br>赞(1) 踩(0) | <div>从初二到大四九年，认识薇儿九年了</div> |
@@ -2151,20 +2151,20 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329009721)<br><br>2018-09-20 09:12<br>赞(130) 踩(0) | <div>你还是我在欧美圈中最爱的第一人!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404480947)<br><br>2018-09-20 09:09<br>赞(2) 踩(0) | <div>Love u!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41384452)<br>Fennec4x<br>2018-09-20 08:51<br>赞(4) 踩(0) | <div>虾米音乐用心了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256146860)<br>如果不知道说什么 就听歌...<br>2018-09-20 08:41<br>赞(84) 踩(0) | <div>GOD. DONT LET HER DROWN!!!!!!单曲循环昨晚到今早 依然如此震撼 甚至是更耀眼的模样回归 涅槃重生 你更是我们眼中的星  <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256146860)<br>如果不知道说什么 就听歌...<br>2018-09-20 08:41<br>赞(84) 踩(0) | <div>GOD. DONT LET HER DROWN!!!!!!<br>单曲循环昨晚到今早 依然如此震撼 甚至是更耀眼的模样回归 涅槃重生 你更是我们眼中的星  <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349968353)<br> <br>2018-09-20 08:24<br>赞(2) 踩(0) | <div>喜欢了你5年多了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png">有生之年一定要去看你的演唱会</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404472875)<br>我还没想好要写什么...<br>2018-09-20 08:04<br>赞(2) 踩(0) | <div>欢迎回归</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404472875)<br>我还没想好要写什么...<br>2018-09-20 08:04<br>赞(2) 踩(0) | <div>呜呜呜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404472875)<br>我还没想好要写什么...<br>2018-09-20 08:04<br>赞(2) 踩(0) | <div>爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332609839)<br><br>2018-09-20 07:55<br>赞(2) 踩(0) | <div>新歌真的好听。好感动。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404496056)<br><br>2018-09-20 07:54<br>赞(2) 踩(0) | <div>吐词如此清晰没有第二人了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198544763)<br> <br>2018-09-20 07:54<br>赞(3) 踩(0) | <div>从小学开始 就是我的青春 她的歌承载着太多记忆Let go 、 Under my skin、 Goodbye lullaby身边存在消失的人 都还能在歌里找到影子永远是初心 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198544763)<br> <br>2018-09-20 07:54<br>赞(3) 踩(0) | <div>从小学开始 就是我的青春 她的歌承载着太多记忆<br>Let go 、 Under my skin、 Goodbye lullaby<br>身边存在消失的人 都还能在歌里找到影子<br>永远是初心 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404496056)<br><br>2018-09-20 07:54<br>赞(3) 踩(0) | <div>为了艾薇儿下载的 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">终于回来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267701455)<br>我是条咸鱼<br>2018-09-20 07:52<br>赞(1) 踩(0) | <div>爱你(ɔ&amp;circ; &amp;sup3;(&amp;circ;⌣&amp;circ;c)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124052136)<br>世界那么大，我还是遇见了...<br>2018-09-20 07:44<br>赞(3) 踩(0) | <div>亲爱的，终于回来了！我很想你，很想很想你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404488799)<br><br>2018-09-20 07:39<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220071641)<br>SONE<br>2018-09-20 07:32<br>赞(2) 踩(0) | <div>Avril Lavigne <img src="../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320357128)<br><br>2018-09-20 07:28<br>赞(3) 踩(0) | <div>从2008-2018喜欢你的整整第十年啊当时拼命学英文只不过想唱你的歌自从你得病沉寂 我一直在等你回归看到你从当时那个叛逆的少女变成一个励志坚强的女人我想骄傲告诉所有人 这才是我的idol啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320357128)<br><br>2018-09-20 07:28<br>赞(3) 踩(0) | <div>从2008-2018<br>喜欢你的整整第十年啊<br>当时拼命学英文只不过想唱你的歌<br>自从你得病沉寂 我一直在等你回归<br>看到你从当时那个叛逆的少女变成一个励志坚强的女人<br>我想骄傲告诉所有人 这才是我的idol啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68064996)<br>莫装逼<br>2018-09-20 06:41<br>赞(2) 踩(0) | <div>虾米赶紧把版权买回来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404402830)<br><br>2018-09-20 06:31<br>赞(2) 踩(0) | <div>Thisiis your revival</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404402830)<br><br>2018-09-20 06:31<br>赞(1) 踩(0) | <div>真实</div> |
@@ -2190,7 +2190,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404460753)<br><br>2018-09-20 01:55<br>赞(1) 踩(0) | <div>爱你❤❤❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357582138)<br>做自己想做的<br>2018-09-20 01:54<br>赞(1) 踩(0) | <div>感觉像转型了 欢迎回来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229445458)<br><br>2018-09-20 01:53<br>赞(1) 踩(0) | <div>好听爆了！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208564976)<br>Avril<br>2018-09-20 01:44<br>赞(1) 踩(0) | <div>爱你像呼吸空气一样像血液流淌一样无处不在无时不有</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208564976)<br>Avril<br>2018-09-20 01:44<br>赞(1) 踩(0) | <div>爱你<br>像呼吸空气一样<br>像血液流淌一样<br>无处不在<br>无时不有</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306065331)<br>幸福开始有人选<br>2018-09-20 01:38<br>赞(1) 踩(0) | <div>蹭到不少小虾米 <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404476605)<br><br>2018-09-20 01:30<br>赞(1) 踩(0) | <div>上一万 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404035419)<br><br>2018-09-20 01:29<br>赞(4) 踩(0) | <div>山东理工大学东校区男生宿舍4号楼521发来贺电，预祝空降各大榜单榜首！冲鸭！</div> |
@@ -2203,7 +2203,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404392903)<br>喜欢薇薇，不后悔<br>2018-09-20 00:53<br>赞(1) 踩(0) | <div>艾薇薇，欢迎回来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355754192)<br><br>2018-09-20 00:45<br>赞(1) 踩(0) | <div>呜呜呜X﹏X终于~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404476605)<br><br>2018-09-20 00:44<br>赞(1) 踩(0) | <div>不知道vv这五年经历了什么   但我还是一如既往的支持她 <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404478527)<br><br>2018-09-20 00:44<br>赞(1) 踩(0) | <div>.新歌已经上线Al6已经到来</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404478527)<br><br>2018-09-20 00:44<br>赞(1) 踩(0) | <div>.新歌已经上线<br>Al6已经到来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404474647)<br>Avril,Avril,...<br>2018-09-20 00:43<br>赞(3) 踩(0) | <div>泪崩了，你终于回来了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404468585)<br><br>2018-09-20 00:38<br>赞(2) 踩(0) | <div>女人，我等了你五年，听你的head above water已经听得流water</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400656368)<br><br>2018-09-20 00:38<br>赞(2) 踩(0) | <div>欢迎加入薇薇粉丝群，为这次新单大发吧！群号：826925390</div> |
@@ -2211,7 +2211,7 @@ Head Above Water (2019)
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404469570)<br><br>2018-09-20 00:31<br>赞(3) 踩(0) | <div>这辈子只追VV了，永远做黑星</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332238344)<br>您吃了么？<br>2018-09-20 00:30<br>赞(2) 踩(0) | <div>经典致敬</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404477542)<br><br>2018-09-20 00:25<br>赞(2) 踩(0) | <div>表白我酵</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404415309)<br><br>2018-09-20 00:23<br>赞(2) 踩(0) | <div>终于等到你五年了你还是你我却在你的歌声里长大了感谢有你，有你的歌声伴我成长希望此后你一切顺遂</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404415309)<br><br>2018-09-20 00:23<br>赞(2) 踩(0) | <div>终于等到你<br>五年了<br>你还是你<br>我却在你的歌声里长大了<br>感谢有你，有你的歌声伴我成长<br>希望此后你一切顺遂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404341954)<br><br>2018-09-20 00:17<br>赞(1) 踩(0) | <div>爱你！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404473543)<br><br>2018-09-20 00:15<br>赞(1) 踩(0) | <div>我是听西域男孩进的欧美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403398502)<br>我还没想好要写什么...<br>2018-09-20 00:08<br>赞(1) 踩(0) | <div>新歌可以听了！！</div> |
@@ -2332,7 +2332,7 @@ Head Above Water (2019)
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404386953)<br><br>2018-09-19 00:46<br>赞(0) 踩(0) | <div>中午12点吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404416837)<br><br>2018-09-19 00:03<br>赞(0) 踩(0) | <div>听说首发是虾米 所以我来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404402257)<br><br>2018-09-18 23:59<br>赞(0) 踩(0) | <div>来了来了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404392844)<br><br>2018-09-18 23:37<br>赞(3) 踩(0) | <div>刚刚下好就等明天十二点正好下班带上耳机一个人静静听歌(ಥ_ಥ)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404392844)<br><br>2018-09-18 23:37<br>赞(3) 踩(0) | <div>刚刚下好<br>就等明天十二点<br>正好下班<br>带上耳机一个人<br>静静听歌<br>(ಥ_ಥ)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266926641)<br>永远永远爱肉肉<br>2018-09-18 23:29<br>赞(3) 踩(0) | <div>是不是还有12个小时就能听薇薇的新歌首单了 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88678202)<br><br>2018-09-18 23:26<br>赞(2) 踩(0) | <div>听说您要回来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187489595)<br>偏见在反转时卓有成效<br>2018-09-18 23:18<br>赞(1) 踩(0) | <div>刚下好虾米！就等着明天了</div> |

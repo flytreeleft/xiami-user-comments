@@ -3,7 +3,7 @@ Karen Souza
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d9d76769bd9cdf46eb5514c8b0984131.jpg)<br>Karen Souza](https://i.xiami.com/karensouza) | **播放数**: 16162981<br>**粉丝数**: 13156<br>**评论数**: 267<br>**地区**: Argentina 阿根廷<br>**风格**: 巴萨诺瓦 Bossa Nova, 人声爵士 Vocal Jazz, 爵士 Jazz<br> |
+| [![](../../images/musicians/d9d76769bd9cdf46eb5514c8b0984131.jpg)<br>Karen Souza](https://i.xiami.com/karensouza) | **地区**: Argentina 阿根廷<br>**风格**: 巴萨诺瓦 Bossa Nova, 人声爵士 Vocal Jazz, 爵士 Jazz<br>**播放数**: 16162981<br>**粉丝数**: 13156<br>**评论数**: 267<br> |
 
 ## 档案
 
@@ -49,8 +49,8 @@ Karen Souza
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/933157)<br>泥豪啊同志！<br>2020-12-11 18:52<br>赞(0) 踩(0) | <div>已</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-07-20 20:06<br>赞(0) 踩(0) | <div><img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443650578)<br>我还没想好要写什么...<br>2020-07-18 01:02<br>赞(0) 踩(0) | <div>图片中金发碧眼美女。太让人喜欢你了。歌如其人。加油</div> |
@@ -79,7 +79,7 @@ Karen Souza
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404156441)<br><br>2019-08-16 12:06<br>赞(0) 踩(0) | <div>哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190583607)<br>一半海水 一半火焰 安静...<br>2019-07-21 07:47<br>赞(2) 踩(0) | <div>慵懒磁性爵士女声 <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337225688)<br>emm<br>2019-07-02 21:05<br>赞(1) 踩(0) | <div>超级喜欢的！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47156295)<br>热眼看看<br>2019-06-29 22:51<br>赞(0) 踩(0) | <div>借用虾友的文笔表达我对歌单的赞美 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png">爵士风情，声音醇厚饱满，心灵相遇 <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png">  <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47156295)<br>热眼看看<br>2019-06-29 22:51<br>赞(0) 踩(0) | <div>借用虾友的文笔表达我对歌单的赞美 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"><br>爵士风情，声音醇厚饱满，心灵相遇 <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png">  <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2019-06-29 12:35<br>赞(4) 踩(0) | <div>爵士风情，声音醇厚饱满，心灵相遇！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201391232)<br>最快的方法是先抱抱<br>2019-06-18 04:20<br>赞(1) 踩(0) | <div>彡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43631656)<br>✊<br>2019-05-14 19:01<br>赞(2) 踩(0) | <div><img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
@@ -135,9 +135,9 @@ Karen Souza
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11446884)<br>New York MoM...<br>2018-06-01 22:58<br>赞(2) 踩(0) | <div>阿根廷歌手，让我想到今早与阿根廷友人的见面贴脸how r u</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13111079)<br>有缘再见<br>2018-05-12 17:27<br>赞(0) 踩(0) | <div>ෆ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4974122)<br>再见虾米，感谢你的陪伴，...<br>2018-04-09 10:02<br>赞(2) 踩(0) | <div>sexy voice!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353605490)<br>蒼生大醫 一心赴救<br>2018-04-01 22:03<br>赞(2) 踩(0) | <div>Wake up,and make x with me...最爱听她的那首歌</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353605490)<br>蒼生大醫 一心赴救<br>2018-04-01 22:03<br>赞(2) 踩(0) | <div>Wake up,and make x with me...<br>最爱听她的那首歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42799966)<br>两棵朝圣的树。<br>2018-03-09 19:22<br>赞(1) 踩(0) | <div>所有的爵士女歌手都长一个样儿</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43963104)<br>我还没想好要写什么...<br>2018-02-28 06:39<br>赞(0) 踩(0) | <div>窗外春雨绵绵梦湿了一夜枕边小心肝的声音</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43963104)<br>我还没想好要写什么...<br>2018-02-28 06:39<br>赞(0) 踩(0) | <div>窗外春雨绵绵<br>梦湿了一夜<br>枕边小心肝的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331316731)<br>沒了初夜的驚慌，只剩汽笛...<br>2018-02-22 01:05<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13628647)<br><br>2018-01-19 01:47<br>赞(1) 踩(0) | <div>赞赞赞！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32413850)<br>我还没想好要写什么...<br>2018-01-07 17:10<br>赞(0) 踩(0) | <div>这声线...男有查特贝克，女友卡伦索萨QAQ</div> |
@@ -146,7 +146,7 @@ Karen Souza
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54537050)<br>我还没想好要写什么...<br>2017-11-27 00:56<br>赞(0) 踩(0) | <div>☁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321869416)<br><br>2017-10-19 15:13<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2063894)<br>奚君缪君乃吾命<br>2017-09-26 14:43<br>赞(0) 踩(0) | <div>阿根廷爵士</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275260871)<br>God bless u<br>2017-08-12 16:00<br>赞(2) 踩(0) | <div>Woww声线超Sexy Sexy Sexy 啊๑</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275260871)<br>God bless u<br>2017-08-12 16:00<br>赞(2) 踩(0) | <div>Woww<br>声线超Sexy Sexy Sexy 啊<br>๑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49480281)<br>这家伙很聪明什么也没留下...<br>2017-07-07 21:19<br>赞(2) 踩(0) | <div>我女神，追了好久了，但是歌还是好少，大爱Creep</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50792016)<br>来又如风， 离又如风<br>2017-06-10 22:20<br>赞(0) 踩(0) | <div>好性感，好爵士</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4487129)<br><br>2017-06-03 00:03<br>赞(2) 踩(0) | <div>！！！</div> |
@@ -177,7 +177,7 @@ Karen Souza
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47028637)<br>我还没想好要写什么...<br>2015-12-09 13:05<br>赞(0) 踩(0) | <div>好爱她的声音！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11980672)<br>全世界在舞蹈  你躲在哪...<br>2015-11-23 22:14<br>赞(0) 踩(0) | <div>啦啦啦啦啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50825946)<br><br>2015-11-23 16:16<br>赞(0) 踩(0) | <div>都好棒！！！女神请收下我的膝盖(≧▽≦)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25806199)<br>没有音乐世界可以消失<br>2015-11-17 22:23<br>赞(1) 踩(0) | <div>卡伦索萨（Karen Souza），爵士乐艺术家。情调爵士 Every Breath You Take – Karen Souza</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25806199)<br>没有音乐世界可以消失<br>2015-11-17 22:23<br>赞(1) 踩(0) | <div>卡伦索萨（Karen Souza），爵士乐艺术家。<br>情调爵士 Every Breath You Take – Karen Souza</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2501946)<br>sth abt beau...<br>2015-10-19 09:55<br>赞(0) 踩(0) | <div>JAZZ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12963857)<br><br>2015-10-09 00:38<br>赞(0) 踩(0) | <div>Jazz</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47028637)<br>我还没想好要写什么...<br>2015-10-01 17:15<br>赞(0) 踩(0) | <div>好喜欢这种风格的～</div> |
@@ -199,7 +199,7 @@ Karen Souza
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49922119)<br>古老的夜晚和远方的音乐是...<br>2015-08-05 12:40<br>赞(0) 踩(0) | <div>女神</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9540128)<br><br>2015-08-04 18:09<br>赞(0) 踩(0) | <div>Every Breath You Take 超赞赞赞赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9412733)<br>雪人☃<br>2015-08-01 14:22<br>赞(0) 踩(0) | <div>好！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19163966)<br>职业鼓手&Monster...<br>2015-07-09 16:31<br>赞(2) 踩(0) | <div>能把CREEP COVER得这么悠闲惊艳啊！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19163966)<br>职业鼓手&Monster...<br>2015-07-09 16:31<br>赞(2) 踩(0) | <div>能把CREEP COVER得这么悠闲<br>惊艳啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4974122)<br>再见虾米，感谢你的陪伴，...<br>2015-06-25 21:57<br>赞(0) 踩(0) | <div>好棒~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16685162)<br>挺为你感到骄傲的 真的毕...<br>2015-06-21 02:58<br>赞(0) 踩(0) | <div><img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25104704)<br>⁎⚈᷀᷁ᴗ⚈᷀᷁⁎<br>2015-06-09 19:26<br>赞(0) 踩(0) | <div>难道就我觉得她某些照片有点像pink吗</div> |
@@ -313,7 +313,7 @@ Karen Souza
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/388771)<br><br>2011-09-15 22:46<br>赞(0) 踩(0) | <div>jzss版的creep听着非常有感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5063122)<br><br>2011-09-13 21:31<br>赞(0) 踩(0) | <div>好性感的聲音...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4987992)<br><br>2011-07-28 21:44<br>赞(0) 踩(0) | <div>oy</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936049)<br>假装我未曾来过 或 我不...<br>2011-07-12 16:09<br>赞(0) 踩(0) | <div>在这个喧嚣城市 累了 就戴上耳机 用心来静静聆听 这一片宁静//阳光 清新 或浅浅的低吟 总会触动你心//欢迎来我的电台 <a href="http://www.xiami.com/radio/play/type/4/oid/1936049" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/radio/play/type/4/oid/1936049</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936049)<br>假装我未曾来过 或 我不...<br>2011-07-12 16:09<br>赞(0) 踩(0) | <div>在这个喧嚣城市 累了 就戴上耳机 用心来静静聆听 这一片宁静//<br><br>阳光 清新 或浅浅的低吟 总会触动你心//<br><br>欢迎来我的电台 <a href="http://www.xiami.com/radio/play/type/4/oid/1936049" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/radio/play/type/4/oid/1936049</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2887962)<br><br>2011-07-01 09:02<br>赞(0) 踩(0) | <div>love u</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295787)<br>很好~~~<br>2011-06-21 08:46<br>赞(0) 踩(0) | <div>Karen Souza</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936049)<br>假装我未曾来过 或 我不...<br>2011-06-10 16:20<br>赞(0) 踩(0) | <div>karen souza 。</div> |

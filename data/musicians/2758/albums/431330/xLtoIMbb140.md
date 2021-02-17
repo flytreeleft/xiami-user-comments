@@ -77,20 +77,20 @@ ISRC CN-A50-10-333-05
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83190294)<br>我们曾相爱，想到就心酸<br>2020-04-01 18:33<br>赞(0) 踩(0) | <div>1分51秒有我想对你说的话。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9478996)<br>玩世不恭<br>2019-06-28 22:16<br>赞(1) 踩(0) | <div>英式神經質少年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203522918)<br><br>2018-12-19 21:13<br>赞(0) 踩(0) | <div>深圳草莓音乐节 <img src="../../../../images/comments/286e5490345b55baf85bf75195319042.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55880064)<br><br>2018-04-25 00:07<br>赞(1) 踩(0) | <div>麻子是什么？张麻子么？你是什么？完美的独身主义者么？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339294694)<br>我还没想好要写什么...<br>2018-04-23 11:51<br>赞(1) 踩(0) | <div>你要记住任何需要费力讨好才能维系的关系你都不要去维持 ​​​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55880064)<br><br>2018-04-25 00:07<br>赞(1) 踩(0) | <div>麻子是什么？张麻子么？<br>你是什么？完美的独身主义者么？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339294694)<br>我还没想好要写什么...<br>2018-04-23 11:51<br>赞(1) 踩(0) | <div>你要记住<br>任何需要费力讨好才能维系的关系<br>你都不要去维持 ​​​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289071658)<br>岁月划过的时间都化作声音...<br>2018-04-16 13:00<br>赞(0) 踩(0) | <div>这尼玛吐口水，，，牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289071658)<br>岁月划过的时间都化作声音...<br>2018-04-16 12:59<br>赞(0) 踩(0) | <div>牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/132968534)<br>我还没想好要写什么...<br>2018-01-27 14:13<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/286e5490345b55baf85bf75195319042.png"> <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"> <img src="../../../../images/comments/286e5490345b55baf85bf75195319042.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10028400)<br>我还没想好要写什么...<br>2017-11-27 13:52<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33124328)<br>人類因為不斷犯錯，最終走...<br>2017-11-23 09:22<br>赞(0) 踩(0) | <div>好像找到了单身的理由呢。。。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">（正经脸）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3367843)<br><br>2017-10-28 00:13<br>赞(3) 踩(0) | <div>如果你是瞎子我是个聋子嗷这样我们才般配如果你是胖子我是个麻子嗷这样我们才登对是先天不足还是后天失误也许这是定数你不是我的阳光雨露我也不是你的掌上明珠 哇 好浪漫啊 哈哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5028576)<br><br>2017-10-28 00:00<br>赞(0) 踩(0) | <div>哈哈哈你的重口味，我无言以对你的重口味，我欲哭无泪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3367843)<br><br>2017-10-28 00:13<br>赞(3) 踩(0) | <div>如果你是瞎子我是个聋子嗷这样我们才般配<br>如果你是胖子我是个麻子嗷这样我们才登对<br>是先天不足还是后天失误也许这是定数<br>你不是我的阳光雨露我也不是你的掌上明珠 哇 好浪漫啊 哈哈哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5028576)<br><br>2017-10-28 00:00<br>赞(0) 踩(0) | <div>哈哈哈<br><br>你的重口味，我无言以对<br>你的重口味，我欲哭无泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3576929)<br><br>2017-10-27 23:56<br>赞(1) 踩(0) | <div>小众的口味，大众的表述，屌！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52554396)<br><br>2017-10-27 23:44<br>赞(0) 踩(0) | <div>这说的不是我更我女朋友吗 卧槽 握草 窝艹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46459737)<br><br>2017-09-29 22:30<br>赞(3) 踩(0) | <div>我的真的不般配(//&amp;nabla;//)</div> |
@@ -112,7 +112,7 @@ ISRC CN-A50-10-333-05
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42987066)<br>暂无签名~<br>2016-02-01 14:05<br>赞(0) 踩(0) | <div>麻子是什么</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121859562)<br><br>2016-03-10 10:09<br>赞(0) 踩(0) | <div>应该是脸上很多痘</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42987066)<br>暂无签名~<br>2016-03-11 17:20<br>赞(0) 踩(0) | <div><q><b>tb37672_2012说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298789)<br> <br>2015-12-25 21:17<br>赞(37) 踩(0) | <div>其实真的没有正经人觉得这歌词有歧视，有人生攻击的嫌疑吗？但是我真的好喜欢这个，哈哈。。当初出来就场单曲，今天早上mp3又循环到了，又忍不住单曲 。。喜欢这种超级大实话，屌丝气质浓郁，懒懒散散的唱法，喜闻乐见的歌词，有人以为恶搞，听着欢乐而实质绝望。有句俗气的不能再俗气的话是什么？因为你我卑微到尘埃里，或许你不是真的完美。。或许我不是真的不好。。但是。。因为你，我不知道我是了谁，想到x嫌疑人的献身，当石神对着汤川露出一脸羡慕的说：汤川，你看起来永远都那么年轻。。然后石神在玻璃镜头前低下头，有点悲伤地说：真羡慕你啊。汤川回头，疑惑却似有所悟。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298789)<br> <br>2015-12-25 21:17<br>赞(37) 踩(0) | <div>其实真的没有正经人觉得这歌词有歧视，有人生攻击的嫌疑吗？但是我真的好喜欢这个，哈哈。。当初出来就场单曲，今天早上mp3又循环到了，又忍不住单曲 。。<br><br>喜欢这种超级大实话，屌丝气质浓郁，懒懒散散的唱法，喜闻乐见的歌词，有人以为恶搞，听着欢乐而实质绝望。有句俗气的不能再俗气的话是什么？因为你我卑微到尘埃里，或许你不是真的完美。。或许我不是真的不好。。但是。。因为你，我不知道我是了谁，想到x嫌疑人的献身，当石神对着汤川露出一脸羡慕的说：汤川，你看起来永远都那么年轻。。然后石神在玻璃镜头前低下头，有点悲伤地说：真羡慕你啊。汤川回头，疑惑却似有所悟。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3760119)<br><br>2017-04-27 18:51<br>赞(0) 踩(0) | <div>现在 mp3正在放</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47004271)<br>松散生命<br>2017-10-18 21:04<br>赞(0) 踩(0) | <div>致命的一句话</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44960055)<br>いつか、きっと<br>2015-12-06 10:38<br>赞(0) 踩(0) | <div>嗷</div> |
@@ -130,7 +130,7 @@ ISRC CN-A50-10-333-05
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6540129)<br>明日隔山岳，世事两茫茫<br>2014-09-20 21:06<br>赞(0) 踩(0) | <div>比考姿达令……这歌词倒也挺符合gala风格的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2927543)<br>这个夏天。与galile...<br>2014-07-31 10:07<br>赞(1) 踩(0) | <div>嘎啦现在是红了吧。希望红了也能以前一样带来感动…别像那什么果味什么c………</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31066865)<br>蠢出火花<br>2014-06-05 13:06<br>赞(1) 踩(0) | <div>我还是演自己好了  别人已经有人在扮演了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36820111)<br><br>2014-05-20 13:29<br>赞(0) 踩(0) | <div>GALA乐队上海演唱会（520大学生专场福利活动）！！！学生党购买GALA乐队2014年上海演唱会现场票！ （380元／480元）仅需（150元／200元）！每价位各限量100张！【购票详情：<a href="http://www.douban.com/event/21643452/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21643452/</a>】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36820111)<br><br>2014-05-20 13:29<br>赞(0) 踩(0) | <div>GALA乐队上海演唱会（520大学生专场福利活动）！！！<br>学生党购买GALA乐队2014年上海演唱会现场票！ （380元／480元）仅需（150元／200元）！<br>每价位各限量100张！<br>【购票详情：<a href="http://www.douban.com/event/21643452/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21643452/</a>】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36568574)<br><br>2014-05-14 19:57<br>赞(0) 踩(0) | <div>dd</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17637793)<br>我还没想好要写什么...<br>2014-05-13 10:30<br>赞(0) 踩(0) | <div>我是来看评论滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6138014)<br>暂无签名~<br>2014-05-09 17:46<br>赞(0) 踩(0) | <div>你要把我带沟里去了~@姐有晚睡强迫症</div> |
@@ -157,7 +157,7 @@ ISRC CN-A50-10-333-05
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4742570)<br><br>2013-10-10 23:19<br>赞(0) 踩(0) | <div>LOL</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14437918)<br>我还没想好要写什么...<br>2013-10-09 11:51<br>赞(0) 踩(0) | <div>完蛋，这样我得找个多挫的才能和我般配啊，起码得是个疯子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6342961)<br>菊次郎。<br>2013-10-02 22:18<br>赞(0) 踩(0) | <div>yeah!!!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5841789)<br><br>2013-09-23 19:08<br>赞(0) 踩(0) | <div>2013.09.17：你的重口味，我欲哭无泪。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5841789)<br><br>2013-09-23 19:08<br>赞(0) 踩(0) | <div>2013.09.17：<br>你的重口味，我欲哭无泪。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10203670)<br> <br>2013-09-21 07:16<br>赞(0) 踩(0) | <div>好耍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16621594)<br>爱<br>2013-09-06 23:27<br>赞(0) 踩(0) | <div>这个演唱者GALA是谁？还蛮喜欢这歌的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11346925)<br><br>2013-09-05 23:14<br>赞(0) 踩(0) | <div>“如果你是瞎子我是个聋子嗷这样我们才般配/如果你是胖子我是个麻子嗷这样我们才登对/如果你是瘸子我是个矬子嗷这样我们才般配/如果你是傻子我是个疯子嗷这样我们才登对/我们不般配/我们不登对/你太过完美/我不够英伟♪♪♪ ”</div> |
@@ -175,11 +175,11 @@ ISRC CN-A50-10-333-05
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46025760)<br>于2016年4月离开虾米<br>2015-11-10 06:29<br>赞(0) 踩(0) | <div>原来如此……看来我以前还是那么愚蠢啊……可惜……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44596071)<br><br>2017-04-15 23:32<br>赞(0) 踩(0) | <div>老师敲黑板，最后一句请同学们断句</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15411914)<br><br>2013-06-10 12:49<br>赞(0) 踩(0) | <div>是不是应该这样才能在一起！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6940778)<br>白日梦蓝<br>2013-06-07 12:12<br>赞(0) 踩(0) | <div>△  如果你是瘸子我是个矬子嗷这样我们才般配如果你是傻子我是个疯子嗷这样我们才登对是先天不足还是后天失误也许搞不清楚门不当户不对别指望佛跳墙跟杂碎面搞派对</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6940778)<br>白日梦蓝<br>2013-06-07 12:12<br>赞(0) 踩(0) | <div>△  如果你是瘸子我是个矬子嗷这样我们才般配<br>如果你是傻子我是个疯子嗷这样我们才登对<br>是先天不足还是后天失误也许搞不清楚<br>门不当户不对别指望佛跳墙跟杂碎面搞派对</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9081978)<br><br>2013-06-04 21:37<br>赞(0) 踩(0) | <div>我们不般配 我们不等对 你的重口味 总令我欲哭无泪 我们不般配 我们不等对 你太过完美 我不够英伟 我们不般配 我们不等对 你的重口味 我无言以对 我们不般配 我们不等对 你太过完美 我不够英伟 我们不般配 我们不等对 你的重口味 我欲哭无泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8431600)<br>迷航<br>2013-05-27 20:28<br>赞(0) 踩(0) | <div>娜娜太悲伤了 这是用来提气的一首！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9840609)<br><br>2013-05-22 08:10<br>赞(0) 踩(0) | <div>GALA有种蠢蠢的欢催，好喜欢。 #猫宁#</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14881665)<br>我还没想好要写什么...<br>2013-05-19 17:36<br>赞(0) 踩(0) | <div>如果你是瞎子我是个聋子嗷这样我们才般配如果你是胖子我是个麻子嗷这样我们才登对如果你是瘸子我是个矬子嗷这样我们才般配如果你是傻子我是个疯子嗷这样我们才登对</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14881665)<br>我还没想好要写什么...<br>2013-05-19 17:36<br>赞(0) 踩(0) | <div>如果你是瞎子我是个聋子嗷这样我们才般配<br>如果你是胖子我是个麻子嗷这样我们才登对<br>如果你是瘸子我是个矬子嗷这样我们才般配<br>如果你是傻子我是个疯子嗷这样我们才登对</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5095187)<br>虾米掰掰啦。突破天际。<br>2013-04-16 16:03<br>赞(0) 踩(0) | <div>片头的卡带感爱(*￣▽￣)y ...第一句歌词就打动了我= =，分明就是唱给我听的啊真不好意苏[c娇羞]...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11783)<br>花开在眼前<br>2013-04-08 13:14<br>赞(0) 踩(0) | <div>你的重口味，我无言以对，欲哭无泪～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/585484)<br>我还没想好要写什么...<br>2013-04-05 12:46<br>赞(0) 踩(0) | <div>爱死Gala了！</div> |
@@ -192,7 +192,7 @@ ISRC CN-A50-10-333-05
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8182827)<br><br>2012-09-25 22:19<br>赞(0) 踩(0) | <div>烂锅自有烂锅盖。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10555790)<br><br>2012-09-09 13:26<br>赞(0) 踩(0) | <div>慢慢听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403598)<br><br>2012-09-06 22:26<br>赞(0) 踩(0) | <div>未来迷人绚烂总在向我召唤 ，哪怕只有痛苦作伴也要勇往直前 ，我想在那里最蓝的大海扬帆 ，绝不管自己能不能回还...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9732055)<br><br>2012-09-03 16:00<br>赞(0) 踩(0) | <div>我们不般配 　　我们不等对 　　你太过完美 　　我不够英伟我们不般配　　我们不等对 　　你的重口味 　　我无言以对</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9732055)<br><br>2012-09-03 16:00<br>赞(0) 踩(0) | <div>我们不般配 　　我们不等对 　　你太过完美 　　我不够英伟<br>我们不般配　　我们不等对 　　你的重口味 　　我无言以对</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4243684)<br><br>2012-08-19 23:27<br>赞(0) 踩(0) | <div>&amp;quot;你不是我的陽光雨露我也不是你的掌上明珠&amp;quot; 搖頭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1947641)<br><br>2012-08-01 21:32<br>赞(0) 踩(0) | <div>门当户对</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2744551)<br> <br>2012-07-30 21:05<br>赞(0) 踩(0) | <div>/</div> |
@@ -225,7 +225,7 @@ ISRC CN-A50-10-333-05
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58358)<br><br>2011-07-30 18:41<br>赞(0) 踩(0) | <div>如果你是个傻子 我是个疯子 我们这样才登对。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/563944)<br><br>2011-07-20 13:15<br>赞(0) 踩(0) | <div>”如果你是傻子，我是个疯子，哦，这样我们才登对。你不是我的阳光雨露，我也不是你的掌上明珠。“ 什么都讲究门当户对，所以才有那么多美好被硬生生撕裂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/563944)<br><br>2011-07-20 13:14<br>赞(0) 踩(0) | <div>”如果你是傻子，我是个疯子，哦，这样我们才登对。你不是我的阳光雨露，我也不是你的掌上明珠。“  什么都讲究门当户对，所以才有那么多美好被硬生生撕裂。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3543099)<br><br>2011-07-15 11:17<br>赞(0) 踩(0) | <div>如果你是瞎子我是个聋子嗷这样我们才般配如果你是胖子我是个麻子嗷这样我们才等对是先天不足还是后天失误也许这是定数.........</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3543099)<br><br>2011-07-15 11:17<br>赞(0) 踩(0) | <div>如果你是瞎子我是个聋子嗷这样我们才般配<br>如果你是胖子我是个麻子嗷这样我们才等对<br>是先天不足还是后天失误也许这是定数<br>.........</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3999573)<br><br>2011-07-14 08:38<br>赞(0) 踩(0) | <div>M</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3856354)<br><br>2011-06-20 16:18<br>赞(0) 踩(0) | <div>如果你是胖子，我是个麻子，这样我们才登对。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2776300)<br><br>2011-06-19 11:59<br>赞(0) 踩(0) | <div>很久远的意识了</div> |
@@ -248,7 +248,7 @@ ISRC CN-A50-10-333-05
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/590124)<br><br>2011-04-23 05:09<br>赞(0) 踩(0) | <div>我也一直以为是 哎呦我擦嘞。。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3511478)<br><br>2011-05-10 00:16<br>赞(0) 踩(0) | <div><q><b>mimzy说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302836)<br><br>2011-04-11 21:49<br>赞(0) 踩(0) | <div>骚民谣？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1603755)<br><br>2011-04-07 23:38<br>赞(0) 踩(0) | <div>“我们不般配我们不登对你的重口味总令我欲哭无泪我们不般配我们不登对你太过完美我不够英伟我们不般配我们不凳对你的重口味我无言以对 ”太欢乐了！！！！！！！！！！！！！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1603755)<br><br>2011-04-07 23:38<br>赞(0) 踩(0) | <div>“我们不般配<br>我们不登对<br>你的重口味<br>总令我欲哭无泪<br><br>我们不般配<br>我们不登对<br>你太过完美<br>我不够英伟<br><br>我们不般配<br>我们不凳对<br>你的重口味<br>我无言以对 ”<br><br>太欢乐了！！！！！！！！！！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/394314)<br>我还没想好要写什么...<br>2011-04-07 18:59<br>赞(0) 踩(0) | <div>我们不般配，这歌词太凄厉了。惨啊啊啊 啊啊啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2849042)<br><br>2011-04-07 13:46<br>赞(0) 踩(0) | <div>MD，太NB了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108436)<br><br>2011-04-06 16:12<br>赞(0) 踩(0) | <div>creep欢乐版</div> |

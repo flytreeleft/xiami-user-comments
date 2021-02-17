@@ -66,8 +66,8 @@ ISRC CN-A13-14-00131
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39403875)<br>想和你去别人不知道但很浪...<br>2020-09-20 11:52<br>赞(0) 踩(0) | <div>太牛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7503864)<br>尚好的青春都在音乐里。<br>2020-09-08 10:19<br>赞(0) 踩(0) | <div>歌词太有意思了，以后多创作好歌吧霞霞子！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334624191)<br>我还没想好要写什<br>2020-04-18 00:19<br>赞(0) 踩(0) | <div>。</div> |
@@ -98,11 +98,11 @@ ISRC CN-A13-14-00131
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39403875)<br>想和你去别人不知道但很浪...<br>2017-03-09 13:55<br>赞(0) 踩(0) | <div>有趣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125528134)<br><br>2017-01-14 00:37<br>赞(7) 踩(0) | <div>这张专辑词曲了四首，而且都很喜欢，可唯还是很有创作的潜质的～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91940046)<br>爱虾米爱音乐<br>2017-01-02 01:10<br>赞(4) 踩(0) | <div>好特别的歌词，刚好都是她的名字！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104189364)<br>Be The One ！<br>2016-12-30 09:19<br>赞(0) 踩(0) | <div>天没有黑只是被雾包围若以为心花已经枯萎那只会掩饰你不懂它的滋味</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104189364)<br>Be The One ！<br>2016-12-30 09:19<br>赞(0) 踩(0) | <div>天没有黑只是被雾包围<br>若以为心花已经枯萎<br>那只会掩饰你不懂它的滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99884832)<br>我喜欢这样跟着你 无论你...<br>2016-12-16 20:17<br>赞(0) 踩(0) | <div>这是在唱你的故事吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49523804)<br>姑娘要好好生活呀<br>2016-12-11 02:10<br>赞(3) 踩(0) | <div>自己的歌她乐意就好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241598065)<br><br>2016-11-30 09:05<br>赞(3) 踩(0) | <div>绕口令之歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36275005)<br>花店不开了 花继续开<br>2016-11-28 16:18<br>赞(3) 踩(0) | <div>闭上眼睛 光听声音这姑娘真美</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36275005)<br>花店不开了 花继续开<br>2016-11-28 16:18<br>赞(3) 踩(0) | <div>闭上眼睛 光听声音<br>这姑娘真美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139905068)<br><br>2016-11-07 22:29<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211072375)<br> <br>2016-10-19 19:07<br>赞(2) 踩(0) | <div>唯一的郁可唯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44135017)<br>我还没想好要写什么...<br>2016-08-06 04:24<br>赞(0) 踩(0) | <div>*</div> |
@@ -111,7 +111,7 @@ ISRC CN-A13-14-00131
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52045279)<br> <br>2016-05-05 21:40<br>赞(0) 踩(0) | <div>鸳鸯茶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53562932)<br><br>2016-04-21 01:31<br>赞(2) 踩(0) | <div>词太刻意了吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88266612)<br> 晚风吹过..<br>2016-04-20 22:58<br>赞(4) 踩(0) | <div>唯一的郁可唯，这首歌文采奕奕。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126364594)<br>世事洞明皆学问 人情练达...<br>2016-04-16 14:07<br>赞(3) 踩(0) | <div>歌词太妙了。唯以为　唯一的一位未倚偎为倚偎　未一味的倚偎唯以为　倚偎唯一的一位唯一位　倚偎了唯一的另一位因为　所谓的唯一　只是我以为</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126364594)<br>世事洞明皆学问 人情练达...<br>2016-04-16 14:07<br>赞(3) 踩(0) | <div>歌词太妙了。<br>唯以为　唯一的一位未倚偎<br>为倚偎　未一味的倚偎<br>唯以为　倚偎唯一的一位<br>唯一位　倚偎了唯一的另一位<br>因为　所谓的唯一　只是我以为</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73857918)<br>在黎明之前<br>2016-02-27 21:59<br>赞(1) 踩(0) | <div>看了歌词感觉我的眼睛花了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41995901)<br>桃李不言，下自成蹊<br>2016-01-20 13:15<br>赞(2) 踩(0) | <div>越听越感觉好听这个调调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41995901)<br>桃李不言，下自成蹊<br>2016-01-20 08:49<br>赞(1) 踩(0) | <div>说不好听的不爱听的，是你们智商不够</div> |
@@ -122,7 +122,7 @@ ISRC CN-A13-14-00131
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54604643)<br> <br>2015-08-08 10:50<br>赞(1) 踩(0) | <div>唯一深爱的一位！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54604643)<br> <br>2015-08-08 10:50<br>赞(1) 踩(0) | <div>郁可唯就是唯一的一位！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4838251)<br>。<br>2015-04-13 16:51<br>赞(3) 踩(0) | <div>录的时候真的不会笑场吗。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13809920)<br>better<br>2015-03-04 16:54<br>赞(19) 踩(0) | <div>也是首挺奇怪的歌。唯以为　唯一的一位未倚偎为倚偎　未一味的倚偎唯以为　倚偎唯一的一位唯一位　倚偎了唯一的另一位倚偎　唯一的一位　一味的倚偎</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13809920)<br>better<br>2015-03-04 16:54<br>赞(19) 踩(0) | <div>也是首挺奇怪的歌。<br>唯以为　唯一的一位未倚偎<br>为倚偎　未一味的倚偎<br>唯以为　倚偎唯一的一位<br>唯一位　倚偎了唯一的另一位<br>倚偎　唯一的一位　一味的倚偎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16326977)<br><br>2015-02-09 01:31<br>赞(37) 踩(0) | <div>词写得很好啊，不仅会唱，还能写了，赞一个。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12060915)<br><br>2014-10-01 21:05<br>赞(0) 踩(0) | <div>唯以为 依偎唯一的一位</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8970179)<br> <br>2014-09-20 12:24<br>赞(0) 踩(0) | <div>me, myself...</div> |
@@ -146,20 +146,20 @@ ISRC CN-A13-14-00131
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37192145)<br><br>2014-09-04 13:23<br>赞(0) 踩(0) | <div><q><b>天使在问安说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33939158)<br><br>2014-06-28 20:26<br>赞(0) 踩(0) | <div>p</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33939158)<br><br>2014-06-28 20:26<br>赞(0) 踩(0) | <div>l</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33939158)<br><br>2014-06-28 20:25<br>赞(0) 踩(0) | <div>ll</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33939158)<br><br>2014-06-28 20:25<br>赞(0) 踩(0) | <div>l<br><br>l</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33939158)<br><br>2014-06-28 20:26<br>赞(0) 踩(0) | <div>p</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33939158)<br><br>2014-06-28 20:25<br>赞(0) 踩(0) | <div>lp</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5846187)<br><br>2014-06-28 16:17<br>赞(0) 踩(0) | <div>很想吐槽这首郁可唯自己写的词。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33939158)<br><br>2014-06-28 20:25<br>赞(0) 踩(0) | <div>l</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14773303)<br> <br>2014-06-28 14:49<br>赞(0) 踩(0) | <div>/若以为　心花已经枯萎 /那只会　掩饰你不懂它的滋味</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28208899)<br><br>2014-06-27 10:04<br>赞(1) 踩(0) | <div>#郁可唯新专辑温水# #郁可唯# 我是谁　自己唯一的依偎天没有黑　只是被雾包围若以为　心花已经枯萎那只会　掩饰你不懂它的滋味因为　所谓的依偎　不过是安慰因为　所谓的唯</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28208899)<br><br>2014-06-27 10:04<br>赞(1) 踩(0) | <div>#郁可唯新专辑温水# #郁可唯# 我是谁　自己唯一的依偎<br>天没有黑　只是被雾包围<br>若以为　心花已经枯萎<br>那只会　掩饰你不懂它的滋味<br>因为　所谓的依偎　不过是安慰<br>因为　所谓的唯</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33939158)<br><br>2014-06-28 20:25<br>赞(0) 踩(0) | <div>l</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4901798)<br><br>2014-06-27 07:45<br>赞(0) 踩(0) | <div>我个人不喜欢这样的歌词和编曲。。 有点牵强。。不知道为了啥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32806582)<br><br>2014-06-27 01:10<br>赞(0) 踩(0) | <div>还是可以哈，肯定酝酿了很久的内心台词！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13902825)<br>唇语也绽放似昙花一现<br>2014-06-26 20:33<br>赞(0) 踩(0) | <div>很惊艳哦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37752412)<br><br>2014-06-26 19:06<br>赞(0) 踩(0) | <div>玩心大发了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6539801)<br>不小心洒上了拉面汤扔掉了<br>2014-06-26 18:38<br>赞(60) 踩(0) | <div>这首歌好惊艳！！歌词太有意思了 博大精深的中华文化被发挥的感觉……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2830464)<br><br>2014-06-26 15:58<br>赞(0) 踩(0) | <div>yiweideyiweideyiweideyiweideyiwei……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2830464)<br><br>2014-06-26 15:58<br>赞(0) 踩(0) | <div>yiweideyiweideyiweideyiweideyi<br>wei……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8949962)<br>后知后觉。<br>2014-06-26 14:56<br>赞(1) 踩(0) | <div>这词写的太酷炫了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14502882)<br><br>2014-06-26 09:11<br>赞(3) 踩(0) | <div>郁可唯这张新专辑太好听了...无法形容，全都是淡淡的淡淡的，好喜欢❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15440187)<br><br>2014-06-26 07:53<br>赞(0) 踩(0) | <div>唯以为 唯一的一位未倚偎 为倚偎 未一味的倚偎 唯以为 倚偎唯一的一位 唯一位 倚偎了唯一的另一位 倚偎 唯一的一位 一味的倚偎</div> |

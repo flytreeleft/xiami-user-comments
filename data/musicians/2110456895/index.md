@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b5175f15134e03c66753706d5d5351c7.jpg)<br>九连真人](https://i.xiami.com/jlzr) | **播放数**: 1119829<br>**粉丝数**: 8672<br>**评论数**: 317<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll<br> |
+| [![](../../images/musicians/b5175f15134e03c66753706d5d5351c7.jpg)<br>九连真人](https://i.xiami.com/jlzr) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll<br>**播放数**: 1119829<br>**粉丝数**: 8672<br>**评论数**: 317<br> |
 
 ## 档案
 
@@ -32,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405858695)<br>快乐听歌<br>2020-12-28 17:57<br>赞(0) 踩(0) | <div>我也好想看現場&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-12-28 14:16<br>赞(0) 踩(0) | <div>✧*｡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43065773)<br>music and su...<br>2020-12-27 12:16<br>赞(0) 踩(0) | <div>️</div> |
@@ -48,7 +48,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197474079)<br>而那些真正让人变好的选择...<br>2020-08-31 19:43<br>赞(0) 踩(0) | <div>老乡，加油 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3138155)<br><br>2020-08-19 00:28<br>赞(0) 踩(0) | <div>夜游神呢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215379991)<br>簽名不重要重要的是你聽什...<br>2020-07-31 19:25<br>赞(1) 踩(0) | <div>ﻌﻌﻌ❤︎</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290977065)<br>伪摇狂热爱好者<br>2020-07-19 20:50<br>赞(0) 踩(0) | <div>靠北  是河源的乐队！！考虑回这个三四线城市开巡演</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290977065)<br>伪摇狂热爱好者<br>2020-07-19 20:50<br>赞(0) 踩(0) | <div>靠北  是河源的乐队！！<br>考虑回这个三四线城市开巡演</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45571559)<br><br>2020-07-12 10:32<br>赞(1) 踩(0) | <div>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427384237)<br>我还没想好要写什么...<br>2020-06-19 00:57<br>赞(1) 踩(0) | <div>➕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250501051)<br>孤独的自由<br>2020-05-04 20:46<br>赞(0) 踩(0) | <div></div> |
@@ -160,7 +160,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86791190)<br>便湮灭了的一颗 恒星<br>2019-06-19 11:18<br>赞(0) 踩(0) | <div>眼里有火要喷出来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20494336)<br>不将就原则<br>2019-06-18 13:56<br>赞(0) 踩(0) | <div>燃炸了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/984251)<br>我还没想好要写什么...<br>2019-06-17 22:08<br>赞(1) 踩(0) | <div>喜欢！加油！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326896467)<br> <br>2019-06-17 14:38<br>赞(0) 踩(0) | <div>留个小心心给你们❤️实在欢喜！加油哦！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326896467)<br> <br>2019-06-17 14:38<br>赞(0) 踩(0) | <div>留个小心心给你们❤️<br>实在欢喜！加油哦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532547)<br><br>2019-06-16 22:03<br>赞(0) 踩(0) | <div>不敢想象这个乐队去年5月19日长沙橘洲音乐节是他们第一次参加大型演出，作品的戏曲张力和情绪能量这么有感染力、这么的老辣成熟，无愧于最锋利的乐队这一称号。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210780)<br>呀~~~<br>2019-06-16 19:31<br>赞(0) 踩(0) | <div>有种把“南蛮”的蛮劲唱出画面感的乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226741537)<br><br>2019-06-16 11:57<br>赞(0) 踩(0) | <div>被狙击</div> |
@@ -207,7 +207,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6802154)<br> <br>2019-06-04 23:40<br>赞(0) 踩(0) | <div>真是宝藏</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10994142)<br>睡前梦游故事<br>2019-06-04 18:45<br>赞(0) 踩(0) | <div>躁得我睡不着！牛逼 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6741618)<br>空荡荡广阔无垠虚无缥缈<br>2019-06-04 16:39<br>赞(0) 踩(0) | <div>愤怒的力量</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404002863)<br>不得不去虚度一些，可是你...<br>2019-06-04 14:59<br>赞(4) 踩(0) | <div>确实有交工的影子，前面几句话一说就让我想起了我《风神125》但是他们比交工更硬更锋利也是属于他们自己的风格。慢慢下去自己的风格会越来越成熟</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404002863)<br>不得不去虚度一些，可是你...<br>2019-06-04 14:59<br>赞(4) 踩(0) | <div>确实有交工的影子，前面几句话一说就让我想起了我《风神125》<br>但是他们比交工更硬更锋利也是属于他们自己的风格。慢慢下去自己的风格会越来越成熟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52063181)<br><br>2019-06-04 13:51<br>赞(0) 踩(0) | <div>看小哥们的眼神儿就能感受到那股劲儿！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49748006)<br>Fly me to th...<br>2019-06-04 13:41<br>赞(0) 踩(0) | <div>哇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48640880)<br>你是我不急的梦<br>2019-06-04 10:50<br>赞(0) 踩(0) | <div>有成为爆款潜质的优质乐队，耳朵不会骗人的，好东西就是好东西，乐队的夏天里最爱这支，但是竟然只有两首demo，期待后期听到更多原创</div> |
@@ -216,7 +216,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2491956)<br>我还没想好要写什么...<br>2019-06-03 22:34<br>赞(0) 踩(0) | <div>宁欺白须公,莫欺少年穷。终须有日龙穿凤,唔信一世裤穿窿。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13716085)<br>一颗被爱的蛋宝宝<br>2019-06-03 22:20<br>赞(0) 踩(0) | <div>能够在全虾米2000名以内收藏您我感到很荣幸！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78500878)<br><br>2019-06-03 19:51<br>赞(0) 踩(0) | <div>听多几遍可以校准一下我的连平话 <img src="../../images/comments/29cf103b88c33e19563095897485c32a.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43856170)<br>水能载舟，也能煮粥！<br>2019-06-03 18:29<br>赞(1) 踩(0) | <div>客家文化！牛！九连真人！劲！笔火！得法！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43856170)<br>水能载舟，也能煮粥！<br>2019-06-03 18:29<br>赞(1) 踩(0) | <div>客家文化！牛！<br>九连真人！劲！<br>笔火！得法！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370859609)<br><br>2019-06-03 17:28<br>赞(0) 踩(0) | <div>歌写得太好了，从题材到音乐到唱腔再到角度。一流的音乐，只希望能再多写一些歌。这些歌让我想起了敏感词升的新敏感宝岛康乐队啊。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43031293)<br>嗨皮嗨皮～～<br>2019-06-03 16:58<br>赞(0) 踩(0) | <div>坐等你们发更多的歌和专辑～～巡演的计划也公布一下哇～～期待期待～～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7107)<br>。<br>2019-06-03 13:56<br>赞(0) 踩(0) | <div>ok</div> |

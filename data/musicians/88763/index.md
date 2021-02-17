@@ -3,7 +3,7 @@ Elsa Kopf
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/93bfdcf0f517f0ce9e21b4d9e071c611.jpg)<br>Elsa Kopf](https://i.xiami.com/elsakopf) | **播放数**: 7865390<br>**粉丝数**: 2897<br>**评论数**: 82<br>**地区**: France 法国<br>**风格**: 民谣 Folk<br> |
+| [![](../../images/musicians/93bfdcf0f517f0ce9e21b4d9e071c611.jpg)<br>Elsa Kopf](https://i.xiami.com/elsakopf) | **地区**: France 法国<br>**风格**: 民谣 Folk<br>**播放数**: 7865390<br>**粉丝数**: 2897<br>**评论数**: 82<br> |
 
 ## 档案
 
@@ -39,8 +39,8 @@ In July 2016,she performed in Korea.
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52415194)<br>♬♩♫♪♡<br>2020-03-10 00:34<br>赞(1) 踩(0) | <div>咖啡厅歌单</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356763773)<br>我还没想好要写什么...<br>2020-02-04 02:23<br>赞(0) 踩(0) | <div>~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8280845)<br>狸狸狸<br>2019-11-30 11:33<br>赞(0) 踩(0) | <div>Lady lady</div> |
@@ -78,7 +78,7 @@ In July 2016,she performed in Korea.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46214860)<br>Everything i...<br>2016-01-05 20:03<br>赞(0) 踩(0) | <div>喜爱的艺人里又多了一个美人儿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48621783)<br>微信联系 Sacred-...<br>2015-08-27 12:54<br>赞(1) 踩(0) | <div>√</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16774935)<br>愿漂泊的人都有酒喝，愿孤...<br>2015-08-10 12:49<br>赞(1) 踩(0) | <div>虾米是搜罗了全世界的音乐了吗，爱虾米 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49291949)<br><br>2015-07-14 12:08<br>赞(0) 踩(0) | <div>购票渠道淘宝豆瓣同城爱圈子演出信息【北京站梦象音乐咖啡馆签售】【时间】2015年8月12日【场地】梦象音乐咖啡馆【地址】建外SOHO西区10号楼底商1027室（彩虹村俱乐部内）【深圳站】【时间】2015年8月21日【票价】预售60元/现场80元【场地】一渡堂【地址】深圳市南山区华侨城恩平路OCT-LOFT(华侨城文化创意园)F3栋(OCAT当代艺术中心左侧)【广州站】【时间】2015年8月23日【票价】预售60元/现场80元【场地】TU凸空间【地址】广州市越秀区广州大道中361-365号东方花苑首层</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49291949)<br><br>2015-07-14 12:08<br>赞(0) 踩(0) | <div>购票渠道<br>淘宝<br>豆瓣同城<br>爱圈子<br><br><br>演出信息<br><br>【北京站梦象音乐咖啡馆签售】<br>【时间】2015年8月12日<br>【场地】梦象音乐咖啡馆<br>【地址】建外SOHO西区10号楼底商1027室（彩虹村俱乐部内）<br><br>【深圳站】<br>【时间】2015年8月21日<br>【票价】预售60元/现场80元<br>【场地】一渡堂<br>【地址】深圳市南山区华侨城恩平路OCT-LOFT(华侨城文化创意园)F3栋(OCAT当代艺术中心左侧)<br><br><br>【广州站】<br>【时间】2015年8月23日<br>【票价】预售60元/现场80元<br>【场地】TU凸空间<br>【地址】广州市越秀区广州大道中361-365号东方花苑首层</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36428476)<br>敬你他日携手真爱有归期。<br>2015-09-11 10:23<br>赞(0) 踩(0) | <div>还有没有别的场次的？我发现她已经晚了.....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7056029)<br>再 见<br>2015-07-10 13:01<br>赞(1) 踩(0) | <div>今年一定不能错过女神</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49291949)<br><br>2015-07-14 12:09<br>赞(0) 踩(0) | <div>elsa的签售会欢迎参加哦</div> |
@@ -93,7 +93,7 @@ In July 2016,she performed in Korea.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8439601)<br>无声胜有声<br>2014-06-02 16:14<br>赞(0) 踩(0) | <div>两个字 舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35699844)<br><br>2014-05-01 00:42<br>赞(0) 踩(0) | <div>法国</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12736123)<br>我还没想好要写什么...<br>2014-04-20 05:28<br>赞(1) 踩(0) | <div>结尾太有意思了 纠纠纠 恰恰恰</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33841656)<br><br>2014-03-29 10:17<br>赞(15) 踩(0) | <div>口袋唱片之法国民谣女声Elsa Kopf 2014年首次中国巡演北京站 2014年06月08日糖果3楼 东城区和平里西街79号上海站 2014年06月10日On-Stage 长宁区淮海西路570号红坊艺术文化社区A2-101长沙站 2014年06月11日Red Live Club 红咖俱乐部 芙蓉区中山路249号红色剧院三楼广州站 2014年06月12日TU凸空间 越秀区广州大道中361-365号东方花苑首层深圳站 2014年06月13日B10现场 南山区华侨城文化创意园北区B10栋北侧活动详情<a href="http://www.douban.com/event/21189317/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21189317/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33841656)<br><br>2014-03-29 10:17<br>赞(15) 踩(0) | <div>口袋唱片之法国民谣女声Elsa Kopf 2014年首次中国巡演<br>北京站 2014年06月08日糖果3楼 东城区和平里西街79号<br>上海站 2014年06月10日On-Stage 长宁区淮海西路570号红坊艺术文化社区A2-101<br>长沙站 2014年06月11日Red Live Club 红咖俱乐部 芙蓉区中山路249号红色剧院三楼<br>广州站 2014年06月12日TU凸空间 越秀区广州大道中361-365号东方花苑首层<br>深圳站 2014年06月13日B10现场 南山区华侨城文化创意园北区B10栋北侧<br>活动详情<a href="http://www.douban.com/event/21189317/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21189317/</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36428476)<br>敬你他日携手真爱有归期。<br>2015-09-11 10:22<br>赞(0) 踩(0) | <div>有没有15 16年的？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8748422)<br>情出自愿，事过无悔。<br>2014-03-21 10:42<br>赞(0) 踩(0) | <div>法国类似声音的女歌手怎么这么多。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2424245)<br>我还没想好要写什么...<br>2013-12-12 10:11<br>赞(0) 踩(0) | <div>很喜欢Larmes de caramel</div> |

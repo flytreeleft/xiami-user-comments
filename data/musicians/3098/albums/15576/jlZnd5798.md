@@ -78,8 +78,8 @@ ISRC CN-C12-03-334-02
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34820327)<br>每天耳朵里塞着耳机的内心...<br>2021-01-16 16:53<br>赞(0) 踩(0) | <div>摇滚乐必须有意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15988754)<br>   。<br>2021-01-08 03:56<br>赞(0) 踩(0) | <div>第一次看惘闻 人群在喊 我问你说没死的睡目是哪首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13952787)<br>别祈祷 我们先闹<br>2020-12-31 13:42<br>赞(0) 踩(0) | <div>希望能删除掉的一年要结束啦</div> |
@@ -97,7 +97,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426670283)<br>不要相信<br>2020-10-08 09:57<br>赞(0) 踩(0) | <div>奇你为什么要骗我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54590191)<br><br>2020-09-30 23:52<br>赞(2) 踩(0) | <div>想太多就没意义了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49073959)<br>我还没想好要写什么...<br>2020-09-26 09:29<br>赞(1) 踩(0) | <div>一条白鲤鱼慢慢从我梦里停止了呼吸。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6839234)<br><br>2020-09-24 14:14<br>赞(0) 踩(0) | <div>哈哈哈比郭德纲的单口也不差太让我快乐了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6839234)<br><br>2020-09-24 14:14<br>赞(0) 踩(0) | <div>哈哈哈比郭德纲的单口也不差<br>太让我快乐了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1810644)<br>音乐是苦闷冗长的人生解药...<br>2020-09-22 16:07<br>赞(0) 踩(0) | <div>抑郁犯了的时候听更抑郁了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289293301)<br>我，来自宇宙深处的幽灵…...<br>2020-09-17 07:04<br>赞(0) 踩(0) | <div>*</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250162705)<br>论文时播放时长最高达人<br>2020-08-24 15:25<br>赞(0) 踩(0) | <div>存在主义。</div> |
@@ -122,7 +122,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47729726)<br>听你听我<br>2020-03-13 14:08<br>赞(1) 踩(0) | <div>活着还有意义吗？丧到极致就是救赎。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259756911)<br>闭起双眼你最挂念谁<br>2020-03-10 11:43<br>赞(1) 踩(0) | <div>听歌的时候我在想，这歌还有意义吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435227660)<br> <br>2020-03-09 00:41<br>赞(0) 踩(0) | <div>垂死挣扎</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315575183)<br>一块喜欢后摇黑金的肉而已<br>2020-03-06 19:41<br>赞(0) 踩(0) | <div>睡觉没意思，吃饭没意义，XX没意思什么都没有意义</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315575183)<br>一块喜欢后摇黑金的肉而已<br>2020-03-06 19:41<br>赞(0) 踩(0) | <div>睡觉没意思，吃饭没意义，XX没意思<br>什么都没有意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374780766)<br>銀河的子民<br>2020-02-29 19:12<br>赞(0) 踩(0) | <div>唉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48300498)<br>我还没想好要写什么...<br>2020-02-28 17:42<br>赞(1) 踩(0) | <div>我在街上走着走着 突然飘了起来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440686695)<br>积极不起来的日子，我没什...<br>2020-02-24 12:36<br>赞(0) 踩(0) | <div>我想我该如何</div> |
@@ -145,7 +145,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402644733)<br><br>2019-12-31 10:59<br>赞(1) 踩(0) | <div>一切都没有意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43051365)<br><br>2019-12-22 22:42<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44358214)<br>虚怀若谷<br>2019-12-20 16:38<br>赞(0) 踩(0) | <div>这不算是好后摇</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321666341)<br>我还没想好要写什么...<br>2019-12-12 20:43<br>赞(1) 踩(0) | <div>连续几年岁末都会发一遍突然感觉今年一年的经历被念出来了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321666341)<br>我还没想好要写什么...<br>2019-12-12 20:43<br>赞(1) 踩(0) | <div>连续几年岁末都会发一遍<br>突然感觉今年一年的经历被念出来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3905241)<br>听说虾米要关闭了，我不愿...<br>2019-12-06 13:58<br>赞(1) 踩(0) | <div>想起张楚的爱情。所以，爱情这首歌是成功的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15333467)<br><br>2019-12-04 14:22<br>赞(0) 踩(0) | <div>这嗓音该去做播音员啊，这种歌词该去卖散文诗啊，不要假装是歌曲 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283091500)<br>我还没想好要写什么...<br>2019-12-01 02:18<br>赞(0) 踩(0) | <div>02.18</div> |
@@ -162,7 +162,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2019-09-12 12:00<br>赞(3) 踩(0) | <div>"垂死的小鹿挣扎起来  看着我说 我还是要跳一次 不过是最后一次了哦" ​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95997012)<br><br>2019-08-10 20:31<br>赞(3) 踩(0) | <div>许多年后我将会离开这个世界，那么我的所有在现在还有意义吗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348749301)<br>双子座流星雨洒满天际<br>2019-08-10 11:35<br>赞(0) 踩(0) | <div>我还以为是窦唯。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251377324)<br>我还没想好要写什么...<br>2019-08-08 18:47<br>赞(0) 踩(0) | <div>关键是“还有”，反问就肯定了。价值相对主义中的意义在追问中可能将之解构，换句话说就是当思考为什么吃甜食会快乐时吃甜食就可能没那么快乐了（这不奇怪，有着生物学基础）。不过即使是单纯输出某种思想，也并非与思考无关——它是音乐作品（不过那位反对的朋友他肯定不是反对这一点，我只是觉得两位讲的都存在价值）。纵使作品内容只记录思维的结果，但由于作品自身的特性，显然它会被多次多位听众再欣赏，然后自然会对它重新思考。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251377324)<br>我还没想好要写什么...<br>2019-08-08 18:47<br>赞(0) 踩(0) | <div>关键是“还有”，反问就肯定了。价值相对主义中的意义在追问中可能将之解构，换句话说就是当思考为什么吃甜食会快乐时吃甜食就可能没那么快乐了（这不奇怪，有着生物学基础）。<br>不过即使是单纯输出某种思想，也并非与思考无关——它是音乐作品（不过那位反对的朋友他肯定不是反对这一点，我只是觉得两位讲的都存在价值）。纵使作品内容只记录思维的结果，但由于作品自身的特性，显然它会被多次多位听众再欣赏，然后自然会对它重新思考。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102441336)<br>我还没想好要写什么...<br>2019-08-06 20:58<br>赞(3) 踩(0) | <div>哇~这大哥声线咋这么像张楚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325879383)<br><br>2019-08-06 00:07<br>赞(0) 踩(0) | <div>有啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251715155)<br>‏​‍‏‎‍‍‫‫⁠‌‪...<br>2019-08-04 00:48<br>赞(0) 踩(0) | <div>他喜欢的这首音乐还有意义吗？</div> |
@@ -170,7 +170,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411465132)<br><br>2019-07-30 15:44<br>赞(1) 踩(0) | <div>追问意义还有什么意义吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324776857)<br>我还没想好要写什么...<br>2019-07-20 09:00<br>赞(0) 踩(0) | <div>没意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39354948)<br><br>2019-07-20 07:38<br>赞(0) 踩(0) | <div>第四天失眠尚能活蹦乱跳</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315008301)<br><br>2019-06-30 22:32<br>赞(3) 踩(0) | <div>建构主义说，意义都是人类自己找的。不然结构主义有意义吗？解构主义有意义吗？虚无主义有意义吗？实用主义有意义吗？世上本没有路，走的人多了，也便成了路。世上本没有意义，你觉得它有意义，它就有意义。我这个13装的 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315008301)<br><br>2019-06-30 22:32<br>赞(3) 踩(0) | <div>建构主义说，意义都是人类自己找的。<br><br>不然结构主义有意义吗？<br>解构主义有意义吗？<br>虚无主义有意义吗？<br>实用主义有意义吗？<br><br>世上本没有路，走的人多了，也便成了路。<br>世上本没有意义，你觉得它有意义，它就有意义。<br><br>我这个13装的 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8468754)<br>@ddazedconfu...<br>2019-06-29 19:05<br>赞(7) 踩(0) | <div>我的伏特加还有意义吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/436857093)<br><br>2020-01-22 10:58<br>赞(0) 踩(0) | <div>没</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49495013)<br><br>2019-06-15 15:15<br>赞(1) 踩(0) | <div>没意义。</div> |
@@ -183,7 +183,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266095154)<br><br>2019-05-06 17:09<br>赞(0) 踩(0) | <div>好沙雕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343083884)<br>语言总结的地方便是音乐开...<br>2019-05-03 23:35<br>赞(0) 踩(0) | <div>万籁俱寂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5459312)<br>随乐流淌穿行于恍惚的酒气...<br>2019-05-01 10:05<br>赞(0) 踩(0) | <div>什么是意义</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265447666)<br><br>2019-04-30 12:40<br>赞(1) 踩(0) | <div>一切都是未知的都有意义</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265447666)<br><br>2019-04-30 12:40<br>赞(1) 踩(0) | <div>一切都是未知的<br>都有意义</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343083884)<br>语言总结的地方便是音乐开...<br>2019-05-03 23:35<br>赞(0) 踩(0) | <div>没有意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8954913)<br><br>2019-04-29 22:54<br>赞(0) 踩(0) | <div>怀疑人生</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423846398)<br>20190428<br>2019-04-28 11:14<br>赞(0) 踩(0) | <div>这是真说唱 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
@@ -197,14 +197,14 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49495013)<br><br>2019-04-10 17:22<br>赞(2) 踩(0) | <div>药物的副作用让我眼压增高已经看不清太多了。。。。也无心顾及太多。随它去吧。没什么意义俨然。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348571364)<br><br>2019-04-10 17:36<br>赞(0) 踩(0) | <div>安之若素</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193175076)<br>夜間飛行<br>2019-04-10 19:34<br>赞(0) 踩(0) | <div>看能不能停药，听听医生是怎么说的</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421724479)<br>要麼一切，要麼全無<br>2019-04-22 19:17<br>赞(0) 踩(0) | <div>但你的思想充滿寶石你是追隨自己思緒的一隻彩蝶</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421724479)<br>要麼一切，要麼全無<br>2019-04-22 19:17<br>赞(0) 踩(0) | <div>但你的思想充滿寶石<br>你是追隨自己思緒的一隻彩蝶</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49495013)<br><br>2019-04-22 19:24<br>赞(0) 踩(0) | <div><q><b>フリー说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421724479)<br>要麼一切，要麼全無<br>2019-04-22 19:50<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/681448)<br>你应该是一棵树，或者一条...<br>2019-04-05 23:19<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94587850)<br>无可骄 无可躁<br>2019-04-03 02:37<br>赞(0) 踩(0) | <div>每天拿着爸妈的钱 吃着别人做的饭 看着别人做的综艺 听着别人搞的音乐 我的存在还有意义吗 我只是在享受着所有的这一切 却没有为这一切做些什么 我还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420273736)<br><br>2019-03-28 12:04<br>赞(0) 踩(0) | <div>我要睡了你别烦了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49495013)<br><br>2019-03-27 10:01<br>赞(1) 踩(0) | <div>没意义</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421724479)<br>要麼一切，要麼全無<br>2019-03-27 00:21<br>赞(0) 踩(0) | <div>垂死的抑郁症患者质问意义的每一天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421724479)<br>要麼一切，要麼全無<br>2019-03-27 00:21<br>赞(0) 踩(0) | <div>垂死的抑郁症患者<br>质问意义的每一天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375168097)<br>我本虚幻全在你心 愛虾米...<br>2019-03-24 17:37<br>赞(1) 踩(0) | <div>❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32615983)<br>我还没想好要写什么...<br>2019-03-11 03:18<br>赞(1) 踩(0) | <div>你的问题还有意义吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2491956)<br>我还没想好要写什么...<br>2019-03-06 15:20<br>赞(0) 踩(0) | <div>没有意义？那你想咋地？</div> |
@@ -216,11 +216,11 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281583413)<br>无话可说<br>2019-02-21 16:21<br>赞(3) 踩(0) | <div>它存在自有它的意义，但对于我这个主体，在这一瞬间的意义是什么有时候真不太清楚。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285366998)<br>欣欣<br>2019-02-08 11:56<br>赞(1) 踩(0) | <div>听了这首歌，看了评论，我只觉得，嗯这歌好听，就收藏，不好听，就安安静静的离开，这个歌自然会有人喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404439545)<br>换了新的地方<br>2019-02-08 03:42<br>赞(4) 踩(0) | <div>大象席地而坐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325405905)<br><br>2019-02-07 02:33<br>赞(0) 踩(0) | <div>上帝死了，被基督教与柏拉图的理性主义杀死了。普世价值被打破了，那我们该何去何从呢？在这个时代已经不可能回到古典，所有回到古典都是拙劣的欺骗和模仿，是自欺欺人，恰好是一种无所适从的虚无主义。东方哲学宗教相信轮回，你要积累“业报”，业报让你变成怎么样的人，或上天堂或地狱，或72个处女，很多古代小说都讲这是谁谁的“转世”。有很多西方存在主义哲学家认为“YOLO”（You only live once）尼采认为，生于大地就要忠于大地。“我爱那样一种人，他们不向星空的那边寻求没落和牺牲的理由，他们只向大地献身，让大地将来只属于超人。”——《查拉图斯特拉如是说》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325405905)<br><br>2019-02-07 02:33<br>赞(0) 踩(0) | <div>上帝死了，被基督教与柏拉图的理性主义杀死了。普世价值被打破了，那我们该何去何从呢？<br><br>在这个时代已经不可能回到古典，所有回到古典都是拙劣的欺骗和模仿，是自欺欺人，恰好是一种无所适从的虚无主义。东方哲学宗教相信轮回，你要积累“业报”，业报让你变成怎么样的人，或上天堂或地狱，或72个处女，很多古代小说都讲这是谁谁的“转世”。有很多西方存在主义哲学家认为“YOLO”（You only live once）尼采认为，生于大地就要忠于大地。<br><br>“我爱那样一种人，他们不向星空的那边寻求没落和牺牲的理由，他们只向大地献身，让大地将来只属于超人。”——《查拉图斯特拉如是说》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325405905)<br><br>2019-02-07 01:45<br>赞(1) 踩(0) | <div>虚无主义不是矫情恶心的浪漫主义，那种娇滴滴，无病呻吟的忧伤，仿佛幻想自己是打着聚光灯的小丑。哲学让人解开思想上的枷锁，没想到对三观打破地这么彻底。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45561137)<br><br>2019-02-05 10:14<br>赞(1) 踩(0) | <div>评论毫无意义我无意义</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45561137)<br><br>2019-02-05 10:14<br>赞(1) 踩(0) | <div>评论毫无意义<br>我无意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302127937)<br><br>2019-01-25 23:39<br>赞(2) 踩(0) | <div>在被窝里的时候我就想，我的秋裤还有意义吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409127559)<br>斩尽天下恶鬼之刃<br>2019-01-25 17:36<br>赞(2) 踩(0) | <div>意义是很难定义很个人化的东西。反复地、越过定义环节、在尚不清楚确定什么是有意义时说出的没有意义，是抑郁心境借由这个模糊的、具有意象朦胧特征的“意义”发出的表达和给出的反映。也就是说，这个没有意义在我看来并不是真正的提一个问题，而是一种诗，是一种感性的、关乎感情的问题。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409127559)<br>斩尽天下恶鬼之刃<br>2019-01-25 17:36<br>赞(2) 踩(0) | <div>意义是很难定义很个人化的东西。反复地、越过定义环节、在尚不清楚确定什么是有意义时说出的没有意义，是抑郁心境借由这个模糊的、具有意象朦胧特征的“意义”发出的表达和给出的反映。<br>也就是说，这个没有意义在我看来并不是真正的提一个问题，而是一种诗，是一种感性的、关乎感情的问题。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281583413)<br>无话可说<br>2019-02-21 16:24<br>赞(0) 踩(0) | <div>你说的很对 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1221673)<br><br>2019-01-22 05:59<br>赞(2) 踩(0) | <div>存在主义抑郁症 Existential Depression</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347714935)<br>我还没想好要写什么...<br>2019-01-11 10:17<br>赞(1) 踩(0) | <div>没啥意义 我们就是猪猫狗一样的哺乳动物 只是太高估自己太自恋了 只是因为不敢自杀而活着</div> |
@@ -235,7 +235,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47823199)<br>日夜兼程，远离人类。<br>2018-12-18 18:21<br>赞(0) 踩(0) | <div>L-o-s-e-r</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337158408)<br><br>2018-12-16 20:26<br>赞(0) 踩(0) | <div>❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247841927)<br><br>2018-12-15 08:09<br>赞(0) 踩(0) | <div>世界上所有的一切都没有意义。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45831877)<br>間違ったのは  この世界...<br>2018-12-15 07:41<br>赞(2) 踩(0) | <div>极端否定自己的抑郁成疾……难道所谓【文艺】是来自生活中的无聊？无所事事。     美国朋克年代的那些迷失的一代年轻人。90年代无论是北漂还是南下的那些年轻人。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45831877)<br>間違ったのは  この世界...<br>2018-12-15 07:41<br>赞(2) 踩(0) | <div>极端否定自己的抑郁成疾……<br><br>难道所谓【文艺】是来自生活中的无聊？<br><br>无所事事。     美国朋克年代的那些迷失的一代年轻人。<br>90年代无论是北漂还是南下的那些年轻人。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112008074)<br>流放边地的归乡之路<br>2018-12-12 23:40<br>赞(0) 踩(0) | <div>老谢说喝酒就好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296128180)<br><br>2018-12-08 22:22<br>赞(2) 踩(0) | <div>贾宏声是你吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302127937)<br><br>2019-01-25 23:40<br>赞(0) 踩(0) | <div>我也是脑子里全是贾宏声</div> |
@@ -244,7 +244,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166822840)<br>造飞机的你<br>2018-11-30 06:18<br>赞(0) 踩(0) | <div>又一个失眠的夜 听着歌 精神分裂没有任何分裂的 痛苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333903673)<br><br>2018-11-28 22:20<br>赞(1) 踩(0) | <div>大伙听我的，乐队装逼。哈哈。有点抄袭张楚”爱情”，我明天早上打算离开,即使你扒光我的衣裳”，我听乐队的歌还有意义吗？我是听了30年歌的。从摇滚，朋克，重金属，现在只听后摇。这个惘闻乐队太装逼。窦唯采访我看过,他早已超越了惘闻乐队</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375403169)<br><br>2019-03-22 01:33<br>赞(0) 踩(0) | <div>意境跟张楚的那首歌有点类似。但绝不是抄袭。而且广这首歌的编曲和意境是窝内少有的完美表达！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226081577)<br>人生总要有点喜欢的事情吧...<br>2018-11-27 17:59<br>赞(0) 踩(0) | <div>此时此刻坐公交车的我会想眼前的人还有意义吗眼前的楼房还有意义吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226081577)<br>人生总要有点喜欢的事情吧...<br>2018-11-27 17:59<br>赞(0) 踩(0) | <div>此时此刻坐公交车的我会想<br>眼前的人还有意义吗<br>眼前的楼房还有意义吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7420012)<br>完美是无聊的<br>2018-11-27 01:19<br>赞(0) 踩(0) | <div>或说 里面问的那些问题 都在solo里面都解释清楚了呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7420012)<br>完美是无聊的<br>2018-11-27 01:17<br>赞(3) 踩(0) | <div>一切 有关于 有没有意义的那些问题 都在之中 让你愉悦的旋律中得到 无言的答案 20181126深圳b10有感 照理 这个阶段如此优秀的惘闻是成熟的 优秀的 但我想不到安可曲他们还是唱了早期的这首作品 问的是同样稚嫩的问题 不成熟的问题 还年轻时候问的问题 但旋律已经与以往不同 惘闻真好 他们还是这么年轻 他们的问题像我的问题 都没有被解决</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92686490)<br>蝦米 我愛你<br>2018-11-26 23:27<br>赞(0) 踩(0) | <div>今夜 被謝老師的聲音打動 向調音師投下膝蓋 向網聞 致敬</div> |
@@ -255,7 +255,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240834733)<br>沒有意義<br>2018-11-16 17:39<br>赞(0) 踩(0) | <div>有意义吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/746417)<br><br>2018-11-16 15:18<br>赞(0) 踩(0) | <div>意义，是你赋予它的，它在那里等待着，等待着你赋予它意义。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332386560)<br>生活可以平凡 但不能苍白<br>2018-11-14 07:40<br>赞(0) 踩(0) | <div>又到了岁末了，时间真快，在垂死中，继续活吧！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9336359)<br>体内回帰<br>2018-11-07 09:46<br>赞(0) 踩(0) | <div>可我可你还是…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9336359)<br>体内回帰<br>2018-11-07 09:46<br>赞(0) 踩(0) | <div>可我<br>可你<br>还是…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45681421)<br>暂无签名~<br>2018-11-04 15:05<br>赞(0) 踩(0) | <div>说出了心声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308336261)<br>心在千禧前<br>2018-11-03 01:06<br>赞(1) 踩(0) | <div>查拉图斯特拉如是说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141613)<br>LO-FI life<br>2018-10-30 18:35<br>赞(0) 踩(0) | <div>我他妈的真的不知道</div> |
@@ -287,7 +287,7 @@ ISRC CN-C12-03-334-02
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3714518)<br>死人<br>2018-09-29 11:24<br>赞(0) 踩(0) | <div><q><b>谁来对我按下扳机说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8023926)<br>无言<br>2018-09-29 21:31<br>赞(0) 踩(0) | <div><q><b>ツ说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3714518)<br>死人<br>2018-09-29 22:08<br>赞(0) 踩(0) | <div><q><b>谁来对我按下扳机说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379802491)<br><br>2018-08-15 14:05<br>赞(2) 踩(0) | <div>我的烤串还有意义吗我的小龙虾还有意义吗我的麻辣烫还有意义吗我的吃鸡还有意义吗我的王者荣耀还有意义吗 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379802491)<br><br>2018-08-15 14:05<br>赞(2) 踩(0) | <div>我的烤串还有意义吗<br>我的小龙虾还有意义吗<br>我的麻辣烫还有意义吗<br>我的吃鸡还有意义吗<br>我的王者荣耀还有意义吗 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7829295)<br><br>2018-08-15 12:29<br>赞(1) 踩(0) | <div>好想打你哦，就你想的多，意义意义的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3901333)<br>grunge<br>2018-08-15 06:51<br>赞(0) 踩(0) | <div>置之死地而后生</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360601528)<br><br>2018-08-10 13:54<br>赞(3) 踩(0) | <div>像张楚</div> |
@@ -302,7 +302,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/146107990)<br>我不是没想好写什么是根本...<br>2018-06-30 17:18<br>赞(0) 踩(0) | <div>听了他们那么多歌  我还不知道怎么读他们的名字</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36938932)<br>倒霉的小伙子比洞還潮濕的...<br>2018-07-03 14:05<br>赞(0) 踩(0) | <div>wangwen 你個沒文化的猜精</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/146107990)<br>我不是没想好写什么是根本...<br>2018-07-03 18:17<br>赞(0) 踩(0) | <div><q><b>失落天線说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285338362)<br>卍<br>2018-06-27 02:03<br>赞(1) 踩(0) | <div>谁都有谁的理解听歌也不过是二次创作</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285338362)<br>卍<br>2018-06-27 02:03<br>赞(1) 踩(0) | <div>谁都有谁的理解<br>听歌也不过是二次创作</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12309451)<br>音乐，第二世界！<br>2018-06-25 18:38<br>赞(0) 踩(0) | <div>空房间的注脚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259886968)<br>别靠近我<br>2018-06-25 13:36<br>赞(0) 踩(0) | <div>杀死无意义。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8315742)<br>虾米的版权逐渐让我心碎<br>2018-06-25 01:49<br>赞(0) 踩(0) | <div>评论里的人都该死～ 从第一个音符播放的开始，我一个人在屋子里走动,就特码五十多平的房子根本不需要我填满，五十多年的岁月也不需要你走完～你只有特码一口一口的抽着烟  难过的连想被碰触的人都找不见，这就是活着 连青春都丢掉了的活着～！</div> |
@@ -314,7 +314,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5693041)<br>You Are A Dr...<br>2018-06-08 15:45<br>赞(2) 踩(0) | <div>多年后再听还是一样喜欢 只是现在明白 有意义的东西还有很多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2018-06-03 17:18<br>赞(3) 踩(0) | <div>一切都是那么索然无味</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238363813)<br><br>2018-08-18 12:02<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258484204)<br>funking<br>2018-05-28 09:39<br>赞(1) 踩(0) | <div>起床听这首歌的时候我会想写这首歌有意义吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258484204)<br>funking<br>2018-05-28 09:39<br>赞(1) 踩(0) | <div>起床听这首歌的时候我会想<br>写这首歌有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317597051)<br><br>2018-05-25 10:03<br>赞(1) 踩(0) | <div>想到张楚的爱情。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41263968)<br>Lord<br>2018-07-12 14:15<br>赞(0) 踩(0) | <div>还有 何大河的 乱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49775090)<br>噪音。<br>2018-05-25 01:04<br>赞(0) 踩(0) | <div>有</div> |
@@ -355,7 +355,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18614113)<br>可以一直飘着飘着<br>2018-02-05 21:11<br>赞(0) 踩(0) | <div>学的多了点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35783)<br>身体给雨，灵魂给风。<br>2018-02-04 13:52<br>赞(0) 踩(0) | <div>好尴尬啊~！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242022847)<br>你当独立且自由。 <br>2018-01-28 22:49<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46142972)<br>暂无签名~<br>2018-01-26 14:21<br>赞(52) 踩(0) | <div>听到&amp;ldquo;我的翔也还有意义吗？&amp;rdquo;愣了一下搞后摇的就是不一样从生活琐碎里探究意义   境界啊为了生存吃的东西不过是塞进嘴走过一遭喉胃肠肛最后扔回大地不是滋味为了美味吃的东西和朋友相聚吃的东西许久未见父母煮的家常菜卷进舌  尝的酸甜苦辣都冲进大脑那才是真正的食啊打开歌词想细细品味才发现是我看错了正确歌词应该是&amp;ldquo;我的香烟还有意义吗？&amp;rdquo;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46142972)<br>暂无签名~<br>2018-01-26 14:21<br>赞(52) 踩(0) | <div>听到&amp;ldquo;我的翔也还有意义吗？&amp;rdquo;<br>愣了一下<br>搞后摇的就是不一样<br>从生活琐碎里探究意义   境界啊<br>为了生存吃的东西<br>不过是塞进嘴走过一遭喉胃肠肛<br>最后扔回大地<br>不是滋味<br>为了美味吃的东西<br>和朋友相聚吃的东西<br>许久未见父母煮的家常菜<br>卷进舌  尝的酸甜苦辣都冲进大脑<br>那才是真正的食啊<br>打开歌词想细细品味<br>才发现是我看错了<br>正确歌词应该是<br>&amp;ldquo;我的香烟还有意义吗？&amp;rdquo;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286795546)<br><br>2018-11-02 09:12<br>赞(0) 踩(0) | <div>牛逼！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45452770)<br>在流逝之外<br>2019-12-17 23:46<br>赞(0) 踩(0) | <div>哈哈哈，我一惊，听了很多年也没有听到唱“翔”这个字啊，再听一遍放下心了，哈哈哈</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32379446)<br>我想好要写什么了<br>2020-12-20 18:53<br>赞(0) 踩(0) | <div>根据你的定义，你很有搞后摇的潜质 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -409,9 +409,9 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44493636)<br>存在即合理<br>2017-10-28 00:37<br>赞(0) 踩(0) | <div>忙忙碌碌之后，最是容易在转念间怀疑一切的存在。   后来发现，我有责任，我有义务，我更有爱还有实现自我的梦想。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1021559)<br><br>2017-10-28 00:04<br>赞(0) 踩(0) | <div>和张楚的《爱情》一样的感觉。“有意义吗？”这种问题不愿再去想了，累！越来越想要简单的东西，平平淡淡就挺好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48002304)<br>这家伙不怎么聪明但也什么...<br>2017-10-25 23:42<br>赞(0) 踩(0) | <div>张楚的爱情</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325235014)<br>我还没想好要写什么...<br>2017-10-23 21:47<br>赞(4) 踩(0) | <div>开学前为啥要下雨？答：1.揭示了故事发生的背景 。2.渲染了凄凉忧桑的气氛。3.暗示了人物悲惨的命运 ，烘托出主 人公忧郁悲伤的心情。4.描绘出了凄凉的社会背景。5.为接下来苦逼学生党的苦逼生活埋伏笔 。6.与失去的美好暑假形成鲜明对比。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325235014)<br>我还没想好要写什么...<br>2017-10-23 21:47<br>赞(4) 踩(0) | <div>开学前为啥要下雨？<br>答：<br>1.揭示了故事发生的背景 。<br>2.渲染了凄凉忧桑的气氛。<br>3.暗示了人物悲惨的命运 ，烘托出主 人公忧郁悲伤的心情。<br>4.描绘出了凄凉的社会背景。<br>5.为接下来苦逼学生党的苦逼生活埋伏笔 。<br>6.与失去的美好暑假形成鲜明对比。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45294979)<br>网☁️:suzumiha...<br>2017-10-20 23:55<br>赞(0) 踩(0) | <div>没有。下一个问题。能去死吗请</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22721608)<br><br>2017-10-17 06:22<br>赞(2) 踩(0) | <div>现实中从没发现拥有欣赏高品味音乐的姑娘，多的是听快餐流行乐的。所以你们这些都是托，你们都是水军，你们都是不存在于现实世界中的！！！我迷恋在后摇、乡村音乐、独立摇滚、民谣、氛围摇滚，朋克，哥特，古琴等等音乐的花海之中，我已被这整个的诗意弥漫的音乐花海隔离出庸俗的人群许多年……沉浸在诗意的世界是即痛苦又超级享受的事情，……你不信？你可以回想你过往的，每当一片诗意悸动你意象丰富的脑神经和理想主义的心那一刹那，天地你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22721608)<br><br>2017-10-17 06:22<br>赞(2) 踩(0) | <div>现实中从没发现拥有欣赏高品味音乐的姑娘，多的是听快餐流行乐的。所以你们这些都是托，你们都是水军，你们都是不存在于现实世界中的！！！我迷恋在后摇、乡村音乐、独立摇滚、民谣、氛围摇滚，朋克，哥特，古琴等等音乐的花海之中，我已被这整个的诗意弥漫的音乐花海隔离出庸俗的人群许多年……沉浸在诗意的世界是即痛苦又超级享受的事情，……你不信？你可以回想你过往的，<br>每当一片诗意悸动你意象丰富的脑神经和理想主义的心那一刹那，天地你</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250774553)<br> <br>2017-11-01 05:06<br>赞(0) 踩(0) | <div>我是姑娘阿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2718342)<br>我決定快樂起來 我今天就...<br>2017-10-15 20:43<br>赞(2) 踩(0) | <div>input—output</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27925601)<br>杂食而小众，复古又新潮。...<br>2017-10-10 10:04<br>赞(1) 踩(0) | <div>每次思考宇宙问题也会觉得现在的一切其实都是一片虚无，可就算没有意义，还是要步履不停，活好须臾一生。</div> |
@@ -459,7 +459,7 @@ ISRC CN-C12-03-334-02
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36938932)<br>倒霉的小伙子比洞還潮濕的...<br>2017-07-24 04:23<br>赞(0) 踩(0) | <div>东北的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9215653)<br>Who feels lo...<br>2017-06-06 12:51<br>赞(0) 踩(0) | <div>嗯？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38883178)<br>7<br>2017-06-04 12:02<br>赞(0) 踩(0) | <div>7</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100875502)<br> <br>2017-06-02 22:13<br>赞(1) 踩(0) | <div>你有太多的故事要讲还有尘埃般的梦想可你还是习惯行走在无声黑暗里在诡谲的世界和迷雾的梦里你不过是在期待一场肆虐的雷雨和撕裂的痛楚</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100875502)<br> <br>2017-06-02 22:13<br>赞(1) 踩(0) | <div>你有太多的故事要讲<br>还有尘埃般的梦想<br>可你还是习惯行走在无声黑暗里<br>在诡谲的世界和迷雾的梦里<br>你不过是在期待<br>一场肆虐的雷雨和撕裂的痛楚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68941378)<br>好歌无限，值再寻找……<br>2017-05-31 22:05<br>赞(0) 踩(0) | <div>就是想想而已，不过只是自问而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38883178)<br>7<br>2017-05-30 23:15<br>赞(0) 踩(0) | <div>7</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2017-05-25 23:50<br>赞(0) 踩(0) | <div>由同事联想到科长 净是伤感的情绪</div> |
@@ -483,7 +483,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43272655)<br>音乐于我.不会改变<br>2017-03-30 14:05<br>赞(0) 踩(0) | <div>惘闻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46113486)<br>马路戏院商店天空海阔 任...<br>2017-03-29 21:58<br>赞(1) 踩(0) | <div>喜欢一件事物，只要还有喜欢的心情，永远不晚，就像音乐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12877747)<br>椎名林檎門下黑貓<br>2017-03-29 00:45<br>赞(1) 踩(0) | <div>初一成天听这首 听到怀疑人生</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7031762)<br>电影厨房食物烹制采样～A...<br>2017-03-28 18:04<br>赞(2) 踩(0) | <div>在床上的时候我就想，那里会是什么样子呢？我的爱人在那里又会是什么样子呢？一切都是未知的，不能预见的，不可想象的。在厕所的时候我又想，我得到的，失去的即将不存在意义了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7031762)<br>电影厨房食物烹制采样～A...<br>2017-03-28 18:04<br>赞(2) 踩(0) | <div>在床上的时候我就想，<br>那里会是什么样子呢？<br>我的爱人在那里又会是什么样子呢？<br>一切都是未知的，不能预见的，不可想象的。<br>在厕所的时候我又想，我得到的，<br>失去的即将不存在意义了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33381235)<br>你好<br>2017-03-23 18:56<br>赞(1) 踩(0) | <div>我就是那个自以为很美丽的 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274854439)<br>永远在摇晃的诗篇中拨动年...<br>2017-03-21 15:50<br>赞(0) 踩(0) | <div>我的灵魂还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274854439)<br>永远在摇晃的诗篇中拨动年...<br>2017-03-21 15:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -664,7 +664,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143207626)<br>自赏<br>2016-04-21 16:50<br>赞(1) 踩(0) | <div>超爱惘闻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/817609)<br><br>2016-04-18 17:27<br>赞(1) 踩(0) | <div>五年前，在南疆饭馆和老王大醉的一夜，至今难忘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36384102)<br>我还没想好要写什么...<br>2016-04-17 08:47<br>赞(0) 踩(0) | <div>我感觉在里面听到了what's up</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2940446)<br>一株旺盛生长的植物<br>2016-04-11 17:54<br>赞(1) 踩(0) | <div>我的躯体不会再有意义了，我的思想也没有意义了，我的灵魂还有意义吗？我的至爱还有意义吗？我的爱人还有意义吗？我的小拇指还有意义吗？你的爱心还有意义吗？你的无聊还有意义吗？你的自卑还有意义吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2940446)<br>一株旺盛生长的植物<br>2016-04-11 17:54<br>赞(1) 踩(0) | <div>我的躯体不会再有意义了，<br>我的思想也没有意义了，<br>我的灵魂还有意义吗？<br>我的至爱还有意义吗？<br>我的爱人还有意义吗？<br>我的小拇指还有意义吗？<br>你的爱心还有意义吗？<br>你的无聊还有意义吗？<br>你的自卑还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32078300)<br>B站同名<br>2016-04-09 11:47<br>赞(0) 踩(0) | <div>本就没有意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12882203)<br>真的就只有这些歌吗<br>2016-04-07 15:30<br>赞(2) 踩(0) | <div>春天大好时光拒绝后摇</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46074421)<br>想见你<br>2016-04-07 12:53<br>赞(1) 踩(0) | <div>没意义  来都来了  好好活着</div> |
@@ -739,7 +739,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12882203)<br>真的就只有这些歌吗<br>2016-01-11 01:11<br>赞(0) 踩(0) | <div>失真的吉他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44978573)<br><br>2016-01-07 23:29<br>赞(3) 踩(0) | <div>抛开歌曲内容来讲，这首歌曲从头听到尾是多么的舒服啊！象儿时睡觉时，妈妈在床边诉说的那个故事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44978573)<br><br>2016-01-07 23:03<br>赞(2) 踩(0) | <div>今晚没有玩到麻将，到是循环这首歌到他们麻将结束。对我个人来说，这是首充满正能量的歌曲。听懂这首歌的人，我相信你们知道以后的路会怎么走！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3058566)<br><br>2016-01-06 12:44<br>赞(0) 踩(0) | <div>上班的时候我会想，我的同事还有意义吗？我的主管还有意义吗，我的总监还有意义吗？我所有的领导还有意义吗？这个办公室还有意义吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3058566)<br><br>2016-01-06 12:44<br>赞(0) 踩(0) | <div>上班的时候我会想，<br>我的同事还有意义吗？<br>我的主管还有意义吗，<br>我的总监还有意义吗？<br>我所有的领导还有意义吗？<br>这个办公室还有意义吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49086299)<br>语虚，何以言知<br>2016-01-06 12:52<br>赞(0) 踩(0) | <div>眼前这碗泡面倒是颇具意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82960490)<br>借我十年，借我生猛与莽撞...<br>2016-01-05 21:10<br>赞(0) 踩(0) | <div>妈的声音太好听 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">还有这歌有毒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97111078)<br>大概还有那么远<br>2016-01-04 17:26<br>赞(1) 踩(0) | <div>我们为什么总要追求有意义呢，无意义是不是等于人就这样死亡，可是意义到底是什么</div> |
@@ -815,7 +815,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3755814)<br>-<br>2015-11-02 11:36<br>赞(0) 踩(0) | <div>活着就是意义了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48730522)<br>.....<br>2015-11-02 01:39<br>赞(0) 踩(0) | <div>我感觉不到任何事物存在的意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10452645)<br>固执有罪 简单无价<br>2015-10-30 09:59<br>赞(0) 踩(0) | <div>是的，这些都没有意义，方知什么才是有意义</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6286855)<br>安静听歌。人生如此无聊，...<br>2015-10-29 16:02<br>赞(0) 踩(0) | <div>老谢的词听起来  每次都觉得怪  = =</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6286855)<br>安静听歌。人生如此无聊，...<br>2015-10-29 16:02<br>赞(0) 踩(0) | <div>老谢的词<br>听起来  每次都觉得怪  = =</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/569569)<br>好不好 坏不坏 远不远的...<br>2015-10-27 12:50<br>赞(0) 踩(0) | <div>我的灵魂还有意义吗 你的爱心还有意义吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51812346)<br>此时 这儿 我<br>2015-10-25 14:18<br>赞(2) 踩(0) | <div>真他妈沉重。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27558251)<br>要有光。<br>2015-10-25 10:35<br>赞(0) 踩(0) | <div>此时此刻脑袋里就只有这首歌了。</div> |
@@ -909,8 +909,8 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49206513)<br>我还没想好要写什么...<br>2015-06-23 08:52<br>赞(0) 踩(0) | <div>没意义 全都他妈没意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31559683)<br><br>2015-06-21 20:22<br>赞(1) 踩(0) | <div>刚开始听还以为是张楚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14312954)<br>Into the 80’...<br>2015-06-20 20:29<br>赞(0) 踩(0) | <div>我的小拇指还有意义吗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35492349)<br>平凡又没见过世面<br>2015-06-20 05:09<br>赞(0) 踩(0) | <div>X:你的这些阶段没有意义。我一直都没意义  什么有意义  意义是什么X:那你为什么要为没有意义的事儿分阶段呢？因为我化学不好 :-)</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10301086)<br><br>2015-06-18 18:29<br>赞(0) 踩(0) | <div>我不知道有没有意义，然后呢，你意思是让我天台见？ps.张楚附身？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35492349)<br>平凡又没见过世面<br>2015-06-20 05:09<br>赞(0) 踩(0) | <div>X:你的这些阶段没有意义。<br>我一直都没意义  什么有意义  意义是什么<br>X:那你为什么要为没有意义的事儿分阶段呢？<br>因为我化学不好 :-)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10301086)<br><br>2015-06-18 18:29<br>赞(0) 踩(0) | <div>我不知道有没有意义，<br>然后呢，<br>你意思是让我天台见？<br>ps.张楚附身？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36576635)<br>冰岛游客热带地区唯一指定...<br>2015-06-16 15:40<br>赞(0) 踩(0) | <div>所以现在这种文词都是量产还是都一个模板或是风格影响了的...虽然我只看过一次《恋爱的犀牛》，然而觉得这些词语句子的编排已经见过很多次了orz</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12018084)<br> <br>2015-06-14 19:30<br>赞(0) 踩(0) | <div>没意义 没意义 没意义 快别问啦 没意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48052258)<br>找不到北斗星 我只看见月...<br>2015-06-13 11:49<br>赞(0) 踩(0) | <div>不喜欢这类音乐 满满的负能量 而且是用念的 原谅我不懂音乐  只能送他两字 差评。</div> |
@@ -980,7 +980,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12853899)<br>地狱天堂尽在人间！！！<br>2015-04-16 15:41<br>赞(0) 踩(0) | <div>你的一切还有意义吗……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7044523)<br> <br>2015-04-15 11:03<br>赞(2) 踩(0) | <div>画图的时候我会想 我的方案还有意义么 我的AI还有意义么 我的针管笔还有意义么 我的平均分还有意义么 我的所有还有意义么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46489691)<br>不是很想和你們一起玩。<br>2015-04-10 23:40<br>赞(1) 踩(0) | <div>如果我们每天都在想活着有什么意义..那就真的很无趣了..</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3086224)<br>WTF？<br>2015-04-09 15:50<br>赞(1) 踩(0) | <div>上班的时候我会想，我的同事还有意义吗？我的科长还有意义吗，我的处长还有意义吗？我所有的领导还有意义吗？这个办公室还有意义吗？在做音乐的时候我想，我的吉他还有意义吗？我的效果器还有意义吗？我的摇滚乐还有意义吗？我的理想还有意义吗？我的所有还有意义吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3086224)<br>WTF？<br>2015-04-09 15:50<br>赞(1) 踩(0) | <div>上班的时候我会想，<br>我的同事还有意义吗？<br>我的科长还有意义吗，<br>我的处长还有意义吗？<br>我所有的领导还有意义吗？<br>这个办公室还有意义吗？<br>在做音乐的时候我想，<br>我的吉他还有意义吗？<br>我的效果器还有意义吗？<br>我的摇滚乐还有意义吗？<br>我的理想还有意义吗？<br>我的所有还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40136323)<br>梦里不知身是客<br>2015-04-07 09:59<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈@弹琴的大象  一定要听完</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32726375)<br>Daydreamer i...<br>2015-04-06 09:25<br>赞(0) 踩(0) | <div>矫情……和张楚的爱情不是一回事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2681548)<br>hellohellohe...<br>2015-04-06 00:05<br>赞(0) 踩(0) | <div>这就是我的心情…一切都没有意义</div> |
@@ -988,13 +988,13 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44272558)<br>我还没想好要写什么...<br>2015-04-04 18:51<br>赞(1) 踩(0) | <div>活着没有意义 死去也一样没有意义  从来没有完全的对错 没有真正的善恶 世间从来没有任何永恒的定律  从生存到毁灭 从虚无中来 到虚无中去...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46256393)<br>当里个当<br>2015-04-03 02:59<br>赞(0) 踩(0) | <div>听说从来以惘闻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48628377)<br>先有若风后有天<br>2015-03-31 17:55<br>赞(0) 踩(0) | <div>垂垂老矣</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30583413)<br>漂浮在黑色的海<br>2015-03-31 16:33<br>赞(0) 踩(0) | <div>我不知道有没有意义然后呢你意思是要让我天台见？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30583413)<br>漂浮在黑色的海<br>2015-03-31 16:33<br>赞(0) 踩(0) | <div>我不知道有没有意义<br>然后呢<br>你意思是要让我天台见？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271166)<br>punk<br>2015-03-24 22:36<br>赞(0) 踩(0) | <div>就想到垃圾场里，何勇:还有没有希望！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39932813)<br>暂无签名~<br>2015-03-24 00:04<br>赞(0) 踩(0) | <div>！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40529358)<br>我还没想好要写什么...<br>2015-03-23 13:36<br>赞(0) 踩(0) | <div>听这首曲子的时候我想 所有言语诗句都没有意义了  所有道理都没有意义了 所有来日方长的期待再光亮悠远也无意义了 所有当下都是漫山遍野的乌云  望不到边际的黑空 我的爱人是未知的 不可想象的 你若手捧玫瑰 却迟迟不愿抵达 那大概就连我自己 都将是无意义的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12690979)<br><br>2015-03-22 13:38<br>赞(0) 踩(0) | <div>听这首我想到了张楚的《爱情》，虽然完全没有关系。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46067423)<br>热爱<br>2015-03-20 23:31<br>赞(0) 踩(0) | <div>人生是没有意义的。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29152477)<br>你是李缇 我是余虹<br>2015-03-15 01:12<br>赞(0) 踩(0) | <div>那是爱，那是癌，那是如来。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29152477)<br>你是李缇 我是余虹<br>2015-03-15 01:12<br>赞(0) 踩(0) | <div>那是爱，<br>那是癌，<br>那是如来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45256515)<br>我还没想好要写什么...<br>2015-03-13 17:57<br>赞(0) 踩(0) | <div>噢！好喜欢！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33121944)<br>@ @<br>2015-03-07 12:02<br>赞(0) 踩(0) | <div>意义在于过程</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2865615)<br>小小白痴。<br>2015-03-04 17:55<br>赞(0) 踩(0) | <div>你的吉他还有意义么？</div> |
@@ -1046,7 +1046,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36149284)<br>音乐拯救灵魂，电影延长生...<br>2014-11-28 19:23<br>赞(0) 踩(0) | <div>我的思想有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43801240)<br><br>2014-11-27 23:06<br>赞(0) 踩(0) | <div>我来过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4997806)<br><br>2014-11-25 16:18<br>赞(0) 踩(0) | <div>喜欢 3.88</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29053254)<br>        よるつき...<br>2014-11-21 22:33<br>赞(0) 踩(0) | <div>毒舌，唇槍舌劍鬼斧神工的羞辱惡意沒有限度。什麼都是錯，無意義，過於親近，換了一條路，突然發現回不來。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29053254)<br>        よるつき...<br>2014-11-21 22:33<br>赞(0) 踩(0) | <div>毒舌，唇槍舌劍<br>鬼斧神工的羞辱<br>惡意沒有限度。<br>什麼都是錯，<br>無意義，<br>過於親近，<br>換了一條路，突然發現回不來。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6641919)<br>我还没想好要写什么...<br>2014-11-13 23:09<br>赞(0) 踩(0) | <div>又到了一年一度不死也得褪层皮的季节，最难熬的莫过于当你不停质疑这个洪荒的世界，到头来还是得质疑自己。这种感觉太丧，记得自己一直想成为一个力挽狂澜的人，可你还是什么都不是。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39873913)<br>远在远方的风比远方更远<br>2014-11-12 22:12<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28267472)<br>蔫<br>2014-11-12 21:31<br>赞(0) 踩(0) | <div>A fine day to die 每个冬日</div> |
@@ -1106,7 +1106,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9225632)<br>城市就像森林，我们都是猎<br>2014-07-31 13:45<br>赞(0) 踩(0) | <div>我的所有有意义吗，拼尽一生赋予人生的意义真的就有意义吗，对吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30277259)<br>嗓子落满了红尘，山河在琴...<br>2014-07-29 20:59<br>赞(0) 踩(0) | <div>觉得负能量爆棚就听听这个，因为负负得正。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2865615)<br>小小白痴。<br>2014-10-07 13:13<br>赞(0) 踩(0) | <div>是吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39292010)<br>cap ou pas c...<br>2014-07-27 08:55<br>赞(0) 踩(0) | <div>我的话语还有意义么。我的咆哮还有意义么。我的伪装还有意义么</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39292010)<br>cap ou pas c...<br>2014-07-27 08:55<br>赞(0) 踩(0) | <div>我的话语还有意义么。我的咆哮还有意义么。<br><br>我的伪装还有意义么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37486329)<br><br>2014-07-24 10:28<br>赞(0) 踩(0) | <div>……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4298941)<br>我还没想好要写什么...<br>2014-07-21 15:59<br>赞(1) 踩(0) | <div>大二的那个暑假极度痴迷惘闻~垂死的岁末听了无数次~也没思考出什么，就觉着意义这事儿本身就没意义，比起意义来说有意思来的重要多了。我喜欢有意思的人，喜欢有意思的事儿，如果人生无趣那活着简直乏味。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6160080)<br>没音乐会死星人<br>2014-07-21 12:10<br>赞(0) 踩(0) | <div>这歌让我笑了好久 我去。。。 XD this guy is on something weird</div> |
@@ -1178,7 +1178,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32002502)<br><br>2014-03-14 12:23<br>赞(0) 踩(0) | <div>半残不残的音乐，想模仿却又不会，呵呵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5143558)<br><br>2014-03-13 22:06<br>赞(0) 踩(0) | <div>如果，有这样的一首，听了就会记住，听了就会想很多，我想，你该听这首歌： 《垂死的岁末》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11648464)<br>~<br>2014-03-06 22:41<br>赞(0) 踩(0) | <div>分享一首衷爱的PostRock。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/506656)<br>总要做点没有意义的事<br>2014-03-04 20:47<br>赞(0) 踩(0) | <div>在坐公交车的时候我想，眼前的人会有意义吗？眼前的楼房还有意义吗？我的啤酒还有意义吗？我的香烟还有意义吗？我的惭愧还有意义吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/506656)<br>总要做点没有意义的事<br>2014-03-04 20:47<br>赞(0) 踩(0) | <div>在坐公交车的时候我想，<br>眼前的人会有意义吗？<br>眼前的楼房还有意义吗？<br>我的啤酒还有意义吗？<br>我的香烟还有意义吗？<br>我的惭愧还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2956305)<br>Lead My LIfe<br>2014-02-26 16:23<br>赞(0) 踩(0) | <div>很有意思的一首歌。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14441753)<br><br>2014-02-23 21:52<br>赞(0) 踩(0) | <div>小拇指什么意思啊，不懂啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/857526)<br>我们度尽的岁月好像讲完了...<br>2014-04-08 08:39<br>赞(0) 踩(0) | <div>拉钩用哪个手指？指的应该是承诺。</div> |
@@ -1230,7 +1230,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15945590)<br>～<br>2013-12-21 21:55<br>赞(1) 踩(0) | <div>类似张楚的《爱情》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3838933)<br><br>2013-12-19 21:49<br>赞(0) 踩(0) | <div>或许那一样的没有意义，或许一样的讲不清道理</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6586753)<br>冷起来是个迷<br>2013-12-18 15:23<br>赞(1) 踩(0) | <div>那啥还有意义吗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6586753)<br>冷起来是个迷<br>2013-12-18 14:14<br>赞(1) 踩(0) | <div>我的吉他还有意义吗？我的效果器还有意义吗？我的摇滚乐还有意义吗？我的理想还有意义吗？我的所有还有意义吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6586753)<br>冷起来是个迷<br>2013-12-18 14:14<br>赞(1) 踩(0) | <div>我的吉他还有意义吗？<br>我的效果器还有意义吗？<br>我的摇滚乐还有意义吗？<br>我的理想还有意义吗？<br>我的所有还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7792043)<br><br>2013-12-16 16:52<br>赞(0) 踩(0) | <div>2013.12.16 16:52 72920次</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11056908)<br><br>2013-12-13 17:23<br>赞(0) 踩(0) | <div>什么歌，滚出地球</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11338782)<br>再见！再见！<br>2013-12-12 22:48<br>赞(0) 踩(0) | <div>“或许现在是个错误，或许将来也是个错误”</div> |
@@ -1282,7 +1282,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1870873)<br><br>2013-10-20 10:56<br>赞(0) 踩(0) | <div>一早醒来就听到这么颓废的歌 我的小拇指还有意义吗。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2537853)<br><br>2013-10-18 14:32<br>赞(0) 踩(0) | <div>没有意义了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9994886)<br>我还没想好要写什么...<br>2013-10-17 18:38<br>赞(0) 踩(0) | <div>都有 也都没有</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-10-14 23:37<br>赞(0) 踩(0) | <div>实验后摇54209,654,351</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-10-14 23:37<br>赞(0) 踩(0) | <div>实验后摇<br>54209,654,351</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12602239)<br>局外人<br>2013-10-14 13:44<br>赞(0) 踩(0) | <div>不管是这种诗朗诵的形式还是声音，都让我想起张楚的《爱情》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315665)<br><br>2013-10-13 10:58<br>赞(0) 踩(0) | <div>有点张楚的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12579799)<br>我还没想好要写什么...<br>2013-10-12 22:43<br>赞(0) 踩(0) | <div>听gala觉得有时候唱得不好听其实也行，听了这首，哦，有时候不唱其实也行。</div> |
@@ -1336,7 +1336,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1040821)<br>我还没想好要写什么...<br>2013-08-02 15:28<br>赞(0) 踩(0) | <div>我在厕所的时候我就在想，我的小拇指还有意义吗？我爱的人还有意义吗？我的灵魂和躯干还有意义吗？上班的时候我就在想，我的同事还有意义吗？我的领导还有意义吗？我的办公室还有意义吗？ 哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7207211)<br> <br>2013-07-26 01:12<br>赞(0) 踩(0) | <div>失眠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10639987)<br><br>2013-07-21 23:23<br>赞(0) 踩(0) | <div>`~`</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3169477)<br><br>2013-07-19 15:52<br>赞(0) 踩(0) | <div>看著你從有意義變成沒有意義再看著你眨了下眼再見不用再見了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3169477)<br><br>2013-07-19 15:52<br>赞(0) 踩(0) | <div>看著你<br>從有意義變成沒有意義<br>再看著你<br>眨了下眼<br>再見不用再見了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1579089)<br><br>2013-07-16 20:10<br>赞(0) 踩(0) | <div>竟然第一次听惘闻。多好的乐队。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/387632)<br><br>2013-07-11 23:18<br>赞(0) 踩(0) | <div>基本上睡前听这歌都是找死，反正觉得最近挺操蛋的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4951232)<br>诶嘿嘿～～<br>2013-07-08 17:40<br>赞(0) 踩(0) | <div>我的爱人还有什么意义。</div> |
@@ -1354,7 +1354,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6747414)<br><br>2013-06-23 21:27<br>赞(0) 踩(0) | <div>自己到底是个什么样的人？从我的所有还有意义吗开始</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1282316)<br> <br>2013-06-21 21:12<br>赞(1) 踩(0) | <div>呵呵我又忧郁了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5549036)<br>你爸爸<br>2013-06-16 23:41<br>赞(0) 踩(0) | <div>第一天。non sense.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6378580)<br><br>2013-06-14 23:04<br>赞(0) 踩(0) | <div>我的至爱还有意义吗？我的爱人还有意义吗？我的小拇指还有意义吗？你的爱心还有意义吗？你的无聊还有意义吗？你的自卑还有意义吗？我的惭愧还有意义吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6378580)<br><br>2013-06-14 23:04<br>赞(0) 踩(0) | <div>我的至爱还有意义吗？<br>我的爱人还有意义吗？<br>我的小拇指还有意义吗？<br>你的爱心还有意义吗？<br>你的无聊还有意义吗？<br>你的自卑还有意义吗？<br>我的惭愧还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9599764)<br>我还没想好要写什么...<br>2013-06-11 18:12<br>赞(0) 踩(0) | <div>坐着公车的时候在想用眼睛看的一切有意义么？座位上的那个躯体有意义么？心里想的那个人有意义么？对现状失望与沮丧有意义么？说到底做人有意义么？刚才不小心看了上阵父子兵又刺激到泪腺了 这种片子是真心一点点都看不过来 卖比儿子还说范伟有噱头 我不客气的说：你么个B！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2103793)<br><br>2013-06-06 12:39<br>赞(1) 踩(0) | <div>我的评论还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12346092)<br>定<br>2013-06-06 01:36<br>赞(0) 踩(0) | <div>嗯...</div> |
@@ -1368,7 +1368,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3339102)<br>我还没想好要写什么...<br>2013-05-21 22:25<br>赞(0) 踩(0) | <div>晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3110981)<br>:з」∠<br>2013-05-14 00:32<br>赞(0) 踩(0) | <div>我的小拇指还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8577341)<br><br>2013-05-11 21:06<br>赞(0) 踩(0) | <div>无意义</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1467731)<br>世上的无奈，需要我去忍耐<br>2013-05-11 19:47<br>赞(0) 踩(0) | <div>我的理想还有意义吗？我的所有还有意义吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1467731)<br>世上的无奈，需要我去忍耐<br>2013-05-11 19:47<br>赞(0) 踩(0) | <div>我的理想还有意义吗？<br>我的所有还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4558902)<br>个体户<br>2013-05-08 09:11<br>赞(0) 踩(0) | <div>我在床上睡得好好的，突然告诉我小胖子老师发飙了，问题是我现在就是飞回学校去也十点了。。。。还有意义么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4206956)<br>NO<br>2013-05-05 00:09<br>赞(0) 踩(0) | <div>我的一切,还有意义吗?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6654874)<br>暂无签名~<br>2013-05-04 19:47<br>赞(0) 踩(0) | <div>我的摇滚乐还有意义吗？我的吉他还有意义吗</div> |
@@ -1387,22 +1387,22 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11096521)<br>我还没想好要写什么...<br>2013-03-26 12:39<br>赞(0) 踩(0) | <div>缓奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199796)<br>我还没想好要写什么...<br>2013-03-23 18:55<br>赞(0) 踩(0) | <div>这么多年过去了 我怎么一点长进都没有呢 不要对我失望 我还在等着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/640007)<br><br>2013-03-22 10:53<br>赞(0) 踩(0) | <div>这歌念了好多有意义吗有意义吗有意义吗，我也能写歌！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1918017)<br><br>2013-03-19 12:31<br>赞(0) 踩(0) | <div>为毛要有意义？什么才算是有意义?没有意义又如何？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2238854)<br>过如春草芟难尽、学似秋云...<br>2013-03-16 11:21<br>赞(0) 踩(0) | <div>零丁惨淡何言苦？艰难逆境不需悲。劝君莫入低靡谷，阳春展翅正好飞！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1918017)<br><br>2013-03-19 12:31<br>赞(0) 踩(0) | <div>为毛要有意义？什么才算是有意义?<br>没有意义又如何？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2238854)<br>过如春草芟难尽、学似秋云...<br>2013-03-16 11:21<br>赞(0) 踩(0) | <div>零丁惨淡何言苦？艰难逆境不需悲。<br>劝君莫入低靡谷，阳春展翅正好飞！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2931286)<br><br>2013-03-15 11:01<br>赞(0) 踩(0) | <div>不要和我说有没必要 这样很多事都没必要</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4358597)<br>我还没想好要写什么...<br>2013-03-10 15:54<br>赞(0) 踩(0) | <div>其实这里并没有什么出口    偶尔审视下自己的灵魂     别让他偏离底线太多就好该干嘛干嘛     。   这社会摇滚的总是举步维艰      不妥协就他妈的精神衰弱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4358597)<br>我还没想好要写什么...<br>2013-03-10 15:54<br>赞(0) 踩(0) | <div>其实这里并没有什么出口    偶尔审视下自己的灵魂     别让他偏离底线太多就好<br>该干嘛干嘛     。   这社会摇滚的总是举步维艰      不妥协就他妈的精神衰弱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10331541)<br>常怀菩提心<br>2013-03-08 23:29<br>赞(0) 踩(0) | <div>这样的生活还有意义吗 我的梦想还有意义吗 我循环播放还有意义吗 我未来的爱人现在在干什么 我得到了什么又失去了什么 我的躯体没有意义了 我的思想还有意义吗 我的丁可还有意义吗 我的无聊还有意义吗 我的自卑还有意义吗 我的爱情还有意义吗 我的笑容还有意义吗 我好像得到的很少 却又失去了太多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1172290)<br><br>2013-03-08 19:32<br>赞(0) 踩(0) | <div>屏住呼吸，摇摇晃晃，这就是后摇</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1619900)<br><br>2013-03-01 11:35<br>赞(0) 踩(0) | <div>吃中药胃疼不吃中药耳鸣。吃胃药厌食不吃胃药胃疼。没做的事情就忘记了做完的事情再做一遍。岁末已经蒙混过关垂死挣扎依然在继续。无解。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1975544)<br> <br>2013-02-28 02:35<br>赞(0) 踩(0) | <div>无意义的所有都搞定，进入梦境开始另一个空间的无意义，真几把扯淡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2821710)<br><br>2013-02-28 02:32<br>赞(0) 踩(0) | <div>这无意义的所有都搞定，进入梦境开始另一个空间的没有意义，真扯淡。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13134550)<br><br>2013-02-25 07:55<br>赞(0) 踩(0) | <div>此歌危险 鉴定完毕</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/398923)<br><br>2013-02-22 23:46<br>赞(0) 踩(0) | <div>在厕所的时候我又想，我得到的，失去的即将不存在意义了，我的躯体不会再有意义了，我的思想也没有意义了，我的灵魂还有意义吗？我的至爱还有意义吗？我的爱人还有意义吗？我的小拇指还有意义吗？你的爱心还有意义吗？你的无聊还有意义吗？你的自卑还有意义吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/398923)<br><br>2013-02-22 23:46<br>赞(0) 踩(0) | <div>在厕所的时候我又想，<br>我得到的，<br>失去的即将不存在意义了，<br>我的躯体不会再有意义了，<br>我的思想也没有意义了，<br>我的灵魂还有意义吗？<br>我的至爱还有意义吗？<br>我的爱人还有意义吗？<br>我的小拇指还有意义吗？<br>你的爱心还有意义吗？<br>你的无聊还有意义吗？<br>你的自卑还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4437098)<br>我还没想好要写什么...<br>2013-02-22 01:03<br>赞(0) 踩(0) | <div>有吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1512674)<br>玩您<br>2013-02-21 22:50<br>赞(0) 踩(0) | <div>循环了一个晚上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2708144)<br><br>2013-02-18 18:56<br>赞(0) 踩(0) | <div>终于在对的时候听到它</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/874251)<br><br>2013-02-11 02:13<br>赞(0) 踩(0) | <div>臭丫王八蛋操的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8149192)<br><br>2013-02-08 12:30<br>赞(0) 踩(0) | <div>在厕所的时候我又想，我得到的，失去的即将不存在意义了，我的躯体不会再有意义了，我的思想也没有意义了，我的灵魂还有意义吗？我的至爱还有意义吗？我的爱人还有意义吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8149192)<br><br>2013-02-08 12:30<br>赞(0) 踩(0) | <div>在厕所的时候我又想，<br>我得到的，<br>失去的即将不存在意义了，<br>我的躯体不会再有意义了，<br>我的思想也没有意义了，<br>我的灵魂还有意义吗？<br>我的至爱还有意义吗？<br>我的爱人还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2321216)<br><br>2013-02-06 17:57<br>赞(0) 踩(0) | <div>岁末了很应景</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3340978)<br><br>2013-02-05 17:37<br>赞(0) 踩(0) | <div>我听到了，有意义。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1525064)<br><br>2013-02-01 12:35<br>赞(0) 踩(0) | <div>一切还有意义吗？思考ｉｎｇ．．．</div> |
@@ -1456,7 +1456,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3578180)<br>我还没想好要写什么...<br>2012-11-11 21:32<br>赞(0) 踩(0) | <div>意义什么的吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5686411)<br><br>2012-11-07 03:29<br>赞(0) 踩(0) | <div>叶子哭了，花也哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5686411)<br><br>2012-11-07 03:29<br>赞(0) 踩(0) | <div>叶子哭了，花也哭了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2827773)<br> <br>2012-11-05 16:54<br>赞(0) 踩(0) | <div>一切都还有意义吗？  听完这首歌就可以有意义的死去了这得是受到多大的打击啊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2827773)<br> <br>2012-11-05 16:54<br>赞(0) 踩(0) | <div>一切都还有意义吗？  听完这首歌就可以有意义的死去了<br>这得是受到多大的打击啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183763)<br><br>2012-11-04 21:03<br>赞(0) 踩(0) | <div>垂死的发问！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2737029)<br><br>2012-11-04 11:46<br>赞(0) 踩(0) | <div>又见惘闻，未完待续。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3784844)<br><br>2012-11-04 00:48<br>赞(0) 踩(0) | <div>什么才有意义</div> |
@@ -1475,9 +1475,9 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6574637)<br>网易云:@嘎嗷嗷<br>2012-10-10 01:10<br>赞(0) 踩(0) | <div>垂死的岁末一开始听的时候有种蛋蛋的淡疼感~虽然歌词满有深意~不过主唱(?)念的太随性或者说太紧张？感觉没表达出什么东西来啊~尤其是那句小拇指啦莫名的有点戳…………</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3438702)<br><br>2012-10-05 11:23<br>赞(0) 踩(0) | <div>寻找意义这件事的本身也一样没有意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2027388)<br>我终想好要写什么了。现在...<br>2012-09-24 18:53<br>赞(0) 踩(0) | <div>我们一起等着/ 最恐惧也是最安详的/ 时刻的到来，或许那一样的没有意义，或许一样的讲不清道理，或许现在就是个错误，或许将来也是个错误，可我，可你，还是。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/896957)<br><br>2012-09-23 14:15<br>赞(0) 踩(0) | <div>我们一起等着最恐惧也是最安详的时刻的到来，或许那一样的没有意义，或许一样的讲不清道理</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/896957)<br><br>2012-09-23 14:15<br>赞(0) 踩(0) | <div>我们一起等着<br>最恐惧也是最安详的<br>时刻的到来，<br>或许那一样的没有意义，<br>或许一样的讲不清道理</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8551086)<br><br>2012-09-19 23:58<br>赞(0) 踩(0) | <div>失眠28天</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5582817)<br><br>2012-09-18 19:28<br>赞(0) 踩(0) | <div>或许那一样的没有意义，或许一样的讲不清道理，或许现在就是个错误，或许将来也是个错误，可我，可你，还是……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5582817)<br><br>2012-09-18 19:28<br>赞(0) 踩(0) | <div>或许那一样的没有意义，或许一样的讲不清道理，<br>或许现在就是个错误，或许将来也是个错误，<br>可我，可你，还是……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8745496)<br>shadowli<br>2012-09-18 19:27<br>赞(0) 踩(0) | <div>太过探究事物的意义就变的没意义起来。这类曲子总给人有点为赋新词强说愁的赶脚⋯⋯不过伴奏还是不错的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6474918)<br>向来情深，奈何缘浅。<br>2012-09-18 17:50<br>赞(0) 踩(0) | <div>活着还有意义吗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59223)<br>落之木然<br>2012-09-18 11:15<br>赞(0) 踩(0) | <div>突然觉得，**有意义么？这座岛回来了有意义么？能改变我们的生活么？如果不能，那对于我们这些P民来说意义是什么呢？</div> |
@@ -1487,7 +1487,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4169130)<br><br>2012-08-28 10:45<br>赞(0) 踩(0) | <div>啊...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426966)<br><br>2012-08-21 23:30<br>赞(0) 踩(0) | <div>这生活景象中唯一违和的，是自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6818827)<br><br>2012-08-16 18:11<br>赞(0) 踩(0) | <div>没想到  虾米  随机  竟然 随出了这首歌，哈哈哈，刷漆 @6点四十</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3365979)<br> ———— 万物皆为一物...<br>2012-08-16 00:42<br>赞(0) 踩(0) | <div>&amp;quot;叶子哭了，花也哭了，连水的泪都快流干了，所有美丽的和自认为美丽的东西，都出来吧，我们一起等着最恐惧也是最安详的时刻的到来，或许那一样的没有意义，或许一样的讲不清道理，或许现在就是个错误，或许将来也是个错误，可我，可你，还是... ... &amp;quot;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3365979)<br> ———— 万物皆为一物...<br>2012-08-16 00:42<br>赞(0) 踩(0) | <div>&amp;quot;叶子哭了，花也哭了，<br>连水的泪都快流干了，<br>所有美丽的<br>和自认为美丽的东西，<br>都出来吧，<br>我们一起等着<br>最恐惧也是最安详的<br>时刻的到来，<br>或许那一样的没有意义，<br>或许一样的讲不清道理，<br>或许现在就是个错误，<br>或许将来也是个错误，<br>可我，<br>可你，<br>还是... ... &amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3227448)<br><br>2012-08-14 00:27<br>赞(0) 踩(0) | <div>这首歌有意义吗？实在理解不能的一首歌...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3694553)<br> <br>2012-07-31 00:23<br>赞(0) 踩(0) | <div>没有意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2631092)<br><br>2012-07-29 23:02<br>赞(0) 踩(0) | <div>突然想听这首歌了</div> |
@@ -1539,7 +1539,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5625469)<br> <br>2012-03-20 20:41<br>赞(0) 踩(0) | <div>我的至爱还有意义么？还是甜梅号比较喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1594419)<br>我还没想好要写什么...<br>2012-03-20 16:39<br>赞(0) 踩(0) | <div>翻出惘闻《二十八天失眠日记》记得是上学那会买的这张CD，现在听起来感觉不一样了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151490)<br>我还没想好要写什么.<br>2012-03-14 14:18<br>赞(0) 踩(0) | <div>整个高三假期都在听这一张 那时候后摇还没有红起来 我也还不知道世界末日女朋友是谁 不知道灰野不知道阿部 也不知道3J 不知道胡士托 不知道厦大是如何一番小资装B范儿 然后现在吧 这些都清楚了 谢玉冈也彻底抛弃人声了 我还在听这一张</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3983650)<br><br>2012-03-12 14:08<br>赞(0) 踩(0) | <div>上班的时候我会想，我的同事还有意义吗？我的科长还有意义吗，我的处长还有意义吗？我所有的领导还有意义吗？这个办公室还有意义吗？在做音乐的时候我想，我的吉他还有意义吗？我的效果器还有意义吗？我的摇滚乐还有意义吗？我的理想还有意义吗？我的所有还有意义吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3983650)<br><br>2012-03-12 14:08<br>赞(0) 踩(0) | <div>上班的时候我会想，<br>我的同事还有意义吗？<br>我的科长还有意义吗，<br>我的处长还有意义吗？<br>我所有的领导还有意义吗？<br>这个办公室还有意义吗？<br>在做音乐的时候我想，<br>我的吉他还有意义吗？<br>我的效果器还有意义吗？<br>我的摇滚乐还有意义吗？<br>我的理想还有意义吗？<br>我的所有还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8369247)<br>倘若假装也可以很快乐，不...<br>2012-03-10 21:42<br>赞(0) 踩(0) | <div>我得到的，失去的，即将不存在意义了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1757265)<br><br>2012-03-09 09:46<br>赞(0) 踩(0) | <div>大陆一样有优质的乐队！！！惘闻。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3768608)<br><br>2012-03-06 22:14<br>赞(0) 踩(0) | <div>还有意义吗？</div> |
@@ -1562,7 +1562,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5119919)<br>而今何事最宜？宜醉宜游宜...<br>2011-12-31 11:48<br>赞(0) 踩(0) | <div>死不得~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190539)<br><br>2011-12-19 20:14<br>赞(0) 踩(0) | <div>RT</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4312812)<br><br>2011-12-16 12:57<br>赞(0) 踩(0) | <div>没有意义才是真的有意义。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/756345)<br><br>2011-12-16 11:27<br>赞(0) 踩(0) | <div>我的啤酒还有意义吗？我的香烟还有意义吗？我的惭愧还有意义吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/756345)<br><br>2011-12-16 11:27<br>赞(0) 踩(0) | <div>我的啤酒还有意义吗？<br>我的香烟还有意义吗？<br>我的惭愧还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179136)<br><br>2011-12-15 23:47<br>赞(0) 踩(0) | <div>又是一年岁末</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6003260)<br>第三类青年<br>2011-12-10 21:36<br>赞(0) 踩(0) | <div>这首歌当时把室友听蛋疼了，哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2291690)<br>在后面摇。<br>2011-12-09 16:37<br>赞(0) 踩(0) | <div>What\'s going on?</div> |
@@ -1574,13 +1574,13 @@ ISRC CN-C12-03-334-02
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2080572)<br><br>2011-12-10 10:38<br>赞(0) 踩(0) | <div><q><b>Barbossa说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2291690)<br>在后面摇。<br>2011-12-11 14:18<br>赞(0) 踩(0) | <div><q><b>球魂说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265667)<br><br>2011-11-05 22:07<br>赞(0) 踩(0) | <div>听这首歌，我想起了《昨天》太正了！！！@思阳什么都不爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1568825)<br><br>2011-10-16 19:10<br>赞(0) 踩(0) | <div>我的吉他还有意义吗？我的效果器还有意义吗？我的摇滚乐还有意义吗？我的理想还有意义吗？我的所有还有意义吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1568825)<br><br>2011-10-16 19:10<br>赞(0) 踩(0) | <div>我的吉他还有意义吗？<br>我的效果器还有意义吗？<br>我的摇滚乐还有意义吗？<br>我的理想还有意义吗？<br>我的所有还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2551200)<br>我还没想好要写什么...<br>2011-10-10 22:25<br>赞(0) 踩(0) | <div>最近听得特带感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2901756)<br><br>2011-10-09 23:09<br>赞(0) 踩(0) | <div>岁末</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6089981)<br><br>2011-10-03 14:10<br>赞(0) 踩(0) | <div>我的所有，还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6089981)<br><br>2011-10-03 14:07<br>赞(0) 踩(0) | <div>我的所有，还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317931)<br>好久不见。虾米生态堪忧。...<br>2011-09-29 13:04<br>赞(0) 踩(0) | <div>垂死的岁末----那些苦痛的。那些压抑的。混合着我的痛哭。在夜里迷蒙。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111193)<br>微信号toogo1<br>2011-09-24 22:03<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/group/111" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/111</a>屏58 人山人海虾米小组<a href="http://www.xiami.com/group/111" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/111</a>蔽59 我们的八十年代虾米小组<a href="http://www.xiami.com/group/11192" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/11192</a> 意难平虾米小组<a href="http://www.xiami.com/group/11337" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/11337</a> 电光幻影虾米小组<a href="http://www.xiami.com/group/11168" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/11168</a> 真情佛山虾米小组欢迎友良知的你加入！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111193)<br>微信号toogo1<br>2011-09-24 22:03<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/group/111" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/111</a>屏58 人山人海虾米小组<br><a href="http://www.xiami.com/group/111" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/111</a>蔽59 我们的八十年代虾米小组<br><a href="http://www.xiami.com/group/11192" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/11192</a> 意难平虾米小组<br><a href="http://www.xiami.com/group/11337" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/11337</a> 电光幻影虾米小组<br><a href="http://www.xiami.com/group/11168" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/11168</a> 真情佛山虾米小组<br>欢迎友良知的你加入！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/749147)<br>大型强子对撞机会造成地球...<br>2011-09-21 13:55<br>赞(0) 踩(0) | <div>一首老后摇！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4321488)<br><br>2011-09-19 13:16<br>赞(0) 踩(0) | <div>感性的亲们！仔细聆听！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4321488)<br><br>2011-09-19 13:09<br>赞(0) 踩(0) | <div>感性的亲们，亲仔细聆听！！！！！！！！！！！</div> |
@@ -1599,7 +1599,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2549843)<br>比你美多了<br>2011-07-06 14:25<br>赞(0) 踩(0) | <div>什么？你没有单曲循环一万遍过这首歌？那么你作为一个小清新还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2549843)<br>比你美多了<br>2011-07-06 13:08<br>赞(0) 踩(0) | <div>没有单曲循环一万遍的话你还算是个小清新么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4016196)<br>...听<br>2011-07-06 01:23<br>赞(0) 踩(0) | <div>你还记得吗  那一年你的妈妈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/696756)<br>life uninten...<br>2011-06-21 17:41<br>赞(0) 踩(0) | <div>想起了曾经颓废的日子， 不过一切都已过往 。。。从今天起， 阳光普照大地！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/696756)<br>life uninten...<br>2011-06-21 17:41<br>赞(0) 踩(0) | <div>想起了曾经颓废的日子， 不过一切都已过往 。。。<br>从今天起， 阳光普照大地！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3082790)<br><br>2011-06-19 10:42<br>赞(0) 踩(0) | <div>虚无之后是不是解脱 随心的过 不用在乎别人眼光 不用抵抗内心的挣扎 因为 它们 都是毫无意义的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3936282)<br>要死一起死<br>2011-06-16 20:21<br>赞(0) 踩(0) | <div>文艺= = 有人说这货像张楚</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2592377)<br>我还没想好要写什么...<br>2011-07-08 20:18<br>赞(0) 踩(0) | <div>确实像</div> |
@@ -1650,7 +1650,7 @@ ISRC CN-C12-03-334-02
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1155859)<br><br>2010-07-27 13:29<br>赞(0) 踩(0) | <div>你觉得这一切还有意义吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/863445)<br> <br>2010-07-22 15:04<br>赞(0) 踩(0) | <div>调子很好！风格也很独特。如果词能再好一点就好。有点颓废有点迷惘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19878)<br><br>2010-07-21 16:34<br>赞(0) 踩(0) | <div>一切都是未知的，不能预见的，不可想象的。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/909367)<br>好好浪费生命<br>2010-05-30 16:32<br>赞(0) 踩(0) | <div>我的未来是不是也垂死了....听了让我难过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/909367)<br>好好浪费生命<br>2010-05-30 16:32<br>赞(0) 踩(0) | <div>我的未来是不是也垂死了....<br>听了让我难过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246887)<br>音乐是一种想象<br>2010-04-07 10:54<br>赞(0) 踩(0) | <div>我的一切、我，还有意义吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265663)<br>清風出袖，明月入懷<br>2010-03-11 00:16<br>赞(0) 踩(0) | <div>张楚?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/668637)<br> <br>2010-02-10 17:35<br>赞(0) 踩(0) | <div>post-rock</div> |

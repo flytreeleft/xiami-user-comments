@@ -73,8 +73,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289342991)<br><br>2020-08-17 09:40<br>赞(3) 踩(0) | <div>我們卻都沒有Gucci</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347594295)<br><br>2020-07-28 22:20<br>赞(0) 踩(0) | <div>有种：抹脖子吧，活的太热烈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28662280)<br><br>2020-07-26 13:02<br>赞(1) 踩(0) | <div>太投入了</div> |

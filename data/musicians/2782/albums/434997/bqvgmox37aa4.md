@@ -38,8 +38,8 @@ HADAND URGASAN TSETSEG 《花儿》（开在岩石上的花儿）<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1091908)<br>一切随缘<br>2020-12-22 08:48<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445989676)<br>如果音乐足够动人<br>2020-11-21 11:54<br>赞(0) 踩(0) | <div>杭盖乐队，蒙古族民谣摇滚乐队，成立于2004年，由伊立奇、义拉拉塔、胡日查、蒙大、艾伦、钮鑫和巴图巴根组成。&amp;nbsp;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276365401)<br><br>2020-09-15 22:09<br>赞(0) 踩(0) | <div>来国庆有一首是另一种感觉，建议也听一听</div> |
@@ -77,7 +77,7 @@ HADAND URGASAN TSETSEG 《花儿》（开在岩石上的花儿）<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274482927)<br> <br>2017-12-04 19:15<br>赞(2) 踩(0) | <div>想起在阿勒泰山区骑着马儿，哼着即兴创作的小曲儿一颠一颠的，马儿小跑起来包里的锅铛铛响，跟歌里的节奏一模样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61742420)<br> <br>2017-11-06 00:38<br>赞(2) 踩(0) | <div>我真的喜欢你啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3837059)<br><br>2017-10-30 10:16<br>赞(3) 踩(0) | <div>还是想骑马！想骑在马背上扭着屁股摇头晃脑，大声哼着野花一样芬芳自由的调子；想急驰，让拂过草原的风顺过马鬃，越过马背，抚着我的脸颊再变成身后的白云。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6465227)<br><br>2017-10-28 00:10<br>赞(2) 踩(0) | <div>民族風格強烈令人喜歡!苦悶中有深情與生命力!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6465227)<br><br>2017-10-28 00:10<br>赞(2) 踩(0) | <div>民族風格強烈<br>令人喜歡!<br><br>苦悶中有深情與生命力!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1681353)<br><br>2017-10-28 00:08<br>赞(1) 踩(0) | <div>最近比较喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233806972)<br> <br>2017-10-25 16:20<br>赞(2) 踩(0) | <div>赤峰人路过！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305873820)<br>喜欢音乐<br>2017-10-11 16:16<br>赞(0) 踩(0) | <div>可以</div> |
@@ -109,7 +109,7 @@ HADAND URGASAN TSETSEG 《花儿》（开在岩石上的花儿）<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11443483)<br><br>2015-06-23 14:23<br>赞(0) 踩(0) | <div>爽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15843848)<br>。<br>2015-05-31 11:06<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16307739)<br>摇滚是种态度。<br>2015-04-28 23:34<br>赞(1) 踩(0) | <div>好想把汉语版和蒙语班混合在一起，我觉得效果会更好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-04-04 21:01<br>赞(0) 踩(0) | <div>我操这歌真的啊⊙▽⊙</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-04-04 21:01<br>赞(0) 踩(0) | <div>我操<br>这歌真的啊<br>⊙▽⊙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1463361)<br>春风吹又生。<br>2015-03-29 15:16<br>赞(44) 踩(0) | <div>我倒是特别钟情于这首汉语版的花</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47409928)<br><br>2015-03-25 07:42<br>赞(0) 踩(0) | <div>好想知道是他们中谁唱的？好心人告知。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39864891)<br>我还没想好要写什么...<br>2015-03-28 00:23<br>赞(0) 踩(0) | <div>感觉是伊立奇先唱，然后是义拉拉塔</div> |
@@ -126,7 +126,7 @@ HADAND URGASAN TSETSEG 《花儿》（开在岩石上的花儿）<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34522244)<br><br>2014-03-30 08:40<br>赞(0) 踩(0) | <div>蒙族摇滚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16993378)<br>细胞跟着音乐跳动<br>2014-03-13 16:01<br>赞(0) 踩(0) | <div>嘿嘿 好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10079778)<br>他乡菊花泛黄<br>2014-03-01 23:23<br>赞(0) 踩(0) | <div>春天来了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6145270)<br> <br>2014-01-29 22:19<br>赞(1) 踩(0) | <div>不会敷衍我的耳朵,因为一首好听的歌 , 我可以听好几年.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6145270)<br> <br>2014-01-29 22:19<br>赞(1) 踩(0) | <div>不会敷衍我的耳朵,<br><br><br><br><br>因为一首好听的歌 , 我可以听好几年.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/972387)<br>我还没想好要写什么...<br>2013-12-08 12:31<br>赞(0) 踩(0) | <div>汉语版</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12788734)<br>F.A.C.T<br>2013-12-05 11:02<br>赞(0) 踩(0) | <div>與伴奏樂器的搭配真的很不錯。還有蒙語版本的喔。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12029044)<br><br>2013-11-08 20:34<br>赞(0) 踩(0) | <div>好听</div> |
@@ -164,7 +164,7 @@ HADAND URGASAN TSETSEG 《花儿》（开在岩石上的花儿）<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/493556)<br><br>2012-01-23 14:24<br>赞(0) 踩(0) | <div>哎~为啥这首是国语的呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1285999)<br>不想说…<br>2011-12-26 10:16<br>赞(0) 踩(0) | <div>╮(╯_╰)╭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4074628)<br><br>2011-12-13 21:07<br>赞(0) 踩(0) | <div>花儿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/481130)<br><br>2011-11-27 16:44<br>赞(0) 踩(0) | <div>开在岩上的花儿苦造着生命的奇迹远嫁他乡的姑娘苦恋着家乡的情人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/481130)<br><br>2011-11-27 16:44<br>赞(0) 踩(0) | <div>开在岩上的花儿<br>苦造着生命的奇迹<br>远嫁他乡的姑娘<br>苦恋着家乡的情人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6472516)<br><br>2011-11-11 23:18<br>赞(0) 踩(0) | <div>杭盖真盖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5493072)<br> <br>2011-09-13 23:55<br>赞(1) 踩(0) | <div>还有花儿，BBC去年还是今年上半年推出的纪录片《中国人来了》里，就是用这首歌做贯穿整部片子的主题音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4253356)<br><br>2011-08-20 16:23<br>赞(0) 踩(0) | <div>无与伦比</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/20a45c717e77eb01d2b93f1283dc18c5.jpg)<br>蓝馍馍](https://i.xiami.com/myblues1314) | **播放数**: 1740551<br>**粉丝数**: 481<br>**评论数**: 43<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 摇滚 Rock & Roll, 硬摇滚 Hard Rock, 放克 Funk, 爵士 Jazz<br> |
+| [![](../../images/musicians/20a45c717e77eb01d2b93f1283dc18c5.jpg)<br>蓝馍馍](https://i.xiami.com/myblues1314) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 摇滚 Rock & Roll, 硬摇滚 Hard Rock, 放克 Funk, 爵士 Jazz<br>**播放数**: 1740551<br>**粉丝数**: 481<br>**评论数**: 43<br> |
 
 ## 档案
 
@@ -69,8 +69,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433988980)<br><br>2020-06-18 11:59<br>赞(2) 踩(0) | <div>发现新世纪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346460025)<br>音乐是时间和力量的艺术<br>2020-04-13 15:53<br>赞(3) 踩(0) | <div>比人声版更有感染力，感动了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428494748)<br><br>2020-03-16 23:12<br>赞(1) 踩(0) | <div>我是你的新粉，您能把那几首摇滚版的口琴谱发一下吗？</div> |

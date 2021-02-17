@@ -12,23 +12,20 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32461398)<br>曾在云上浮想联翩如今也终...<br>2020-06-24 22:37<br>赞(0) 踩(0) | <div>~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76869222)<br>人生来便是为了探求无限。<br>2020-06-20 15:30<br>赞(1) 踩(0) | <div>我的院子里有四万万朵玫瑰花，每天清晨我都会抱着一本书到我的院子里去看。花朵娇艳，阳光和煦。每当有人问我要上一朵玫瑰，我都摇摇头。直到那一天，他来了，笑吟吟地走到我面前，低下头温声问我：&amp;ldquo;看的什么书呀？&amp;rdquo;我就知道，这院子里的四万万朵玫瑰花和我都是他的了。后来，他带着我的四万万朵玫瑰花离开了。大家都说：&amp;ldquo;你真傻呀，他就是为了你的玫瑰花来的，现在他把你的玫瑰花都带走了，怕是不会回来了，现在倒好，你什么都没有了。&amp;rdquo;可是只有我知道，我虽然失去了我的玫瑰花，可是我的心里有了一个他，我觉得很值得。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440697359)<br>开宠物咖是唯一的愿望<br>2020-06-05 09:44<br>赞(2) 踩(0) | <div>全是童真的味道，透出来小王子的可爱与天真收到治愈！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76869222)<br>人生来便是为了探求无限。<br>2020-06-20 15:30<br>赞(1) 踩(0) | <div>我的院子里有四万万朵玫瑰花，每天清晨我都会抱着一本书到我的院子里去看。花朵娇艳，阳光和煦。每当有人问我要上一朵玫瑰，我都摇摇头。直到那一天，他来了，笑吟吟地走到我面前，低下头温声问我：&amp;ldquo;看的什么书呀？&amp;rdquo;我就知道，这院子里的四万万朵玫瑰花和我都是他的了。<br>后来，他带着我的四万万朵玫瑰花离开了。大家都说：&amp;ldquo;你真傻呀，他就是为了你的玫瑰花来的，现在他把你的玫瑰花都带走了，怕是不会回来了，现在倒好，你什么都没有了。&amp;rdquo;可是只有我知道，我虽然失去了我的玫瑰花，可是我的心里有了一个他，我觉得很值得。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440697359)<br>开宠物咖是唯一的愿望<br>2020-06-05 09:44<br>赞(2) 踩(0) | <div>全是童真的味道，透出来小王子的可爱与天真<br>收到治愈！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335207676)<br><br>2020-05-08 13:11<br>赞(2) 踩(0) | <div>我也在种一棵玫瑰，过程中无数次的想放弃，胡思乱想中害怕失败，但也忍不住去憧憬玫瑰盛开的花香和美景，处在孩子到成年人之间过渡的阶段，像孩子一样无能为力，却不能像孩子一样乱发脾气，像大人一样懂事隐忍，却不能像大人一样云淡风轻，二十出头的年纪，感觉自己的棱角快慢慢磨没了，但还是希望能活成自己想要的样子，到底是胡思乱想的年纪，最近压力太大了，说了这么多，希望大家不要见怪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202127601)<br>我还没想好要写什么...<br>2020-02-19 17:03<br>赞(1) 踩(0) | <div>最喜欢真真的这首了，那些细密温暖的感动不可与人说，仿佛又回到了纯真的童年，与那朵骄傲又可爱的玫瑰相遇</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11264865)<br>暂无签名~<br>2020-01-23 06:06<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48461833)<br>节奏无关悲喜<br>2020-01-03 23:53<br>赞(1) 踩(0) | <div>加油啊，真真</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266786530)<br>            ...<br>2019-09-14 10:56<br>赞(20) 踩(0) | <div></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409054743)<br><br>2019-09-14 13:55<br>赞(0) 踩(0) | <div>特喜欢那黄飘巾永远记着的，那年我生日用了小王子遇见狼的画面作主题背景童话世界真可爱，是人类向往的永恒家园 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409054743)<br><br>2019-09-14 13:55<br>赞(0) 踩(0) | <div>特喜欢那黄飘巾<br>永远记着的，那年我生日<br>用了小王子遇见狼的画面作主题背景<br>童话世界真可爱，是人类向往的永恒家园 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/144428902)<br> <br>2019-08-18 23:00<br>赞(1) 踩(0) | <div>这首歌让我想起17岁，高中一个人住，夏天的晚上有晚风，窗外有蟋蟀发出的白噪声，窗前有月光，月光注入了一双眼睛，目光与月光交汇。汇成一条河流，流向月亮。月亮上什么都没有，只有孤独和   骄傲的少年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343982368)<br><br>2019-08-04 06:37<br>赞(2) 踩(0) | <div>骄傲的玫瑰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340883424)<br><br>2019-06-18 18:46<br>赞(2) 踩(0) | <div>我每天都会听着派妈念的《窗边的小豆豆》入睡这个BGM既熟悉又温暖，它陪伴了我度过一次又一次的黑暗，派妈，感谢你，你的声音很温柔，我非常非常非常喜欢你！</div> |
@@ -54,7 +51,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323072548)<br>否极泰来<br>2018-06-13 16:03<br>赞(2) 踩(0) | <div>有些事有些人会慢慢的放下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279915169)<br><br>2018-06-08 09:21<br>赞(3) 踩(0) | <div>离高考还有364天</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298245011)<br>弘毅去惰仁者童心<br>2018-11-01 12:43<br>赞(0) 踩(0) | <div>加油 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">你一定行</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/372686117)<br><br>2018-05-30 15:02<br>赞(4) 踩(0) | <div>一年后的今天，我也即将高考~我不知道未来会怎样，但我相信，只要我坚持绽放，蝴蝶自来~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/372686117)<br><br>2018-05-30 15:02<br>赞(4) 踩(0) | <div>一年后的今天，我也即将高考~<br>我不知道未来会怎样，<br>但我相信，<br>只要我坚持绽放，<br>蝴蝶自来~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248935081)<br><br>2018-05-05 20:52<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97851348)<br>赏花落，笑谈浮生流年。<br>2018-04-23 16:58<br>赞(3) 踩(0) | <div>当小王子要离开612星球，去探索其它星球的时候，如果玫瑰放下她的骄傲，去挽留小王子，小王子会不会留下来，一直陪在玫瑰的身边，为她浇水、除虫、挡风，还有陪她看每天四十四次的日落。 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50339362)<br>永远等待张起灵<br>2018-04-07 01:06<br>赞(3) 踩(0) | <div>我也想做独一无二的那朵玫瑰呀。</div> |
@@ -89,11 +86,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126185982)<br>时间是最好的朋友。<br>2017-04-24 22:25<br>赞(3) 踩(0) | <div>那些你觉得有一天可能会用到的东西你一直没有用，那条你觉得他可能会回的讯息他也一直没有回，明天早起大扫除，该扔扔，辞旧，希望能迎到新。 ​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224748944)<br><br>2017-03-04 23:18<br>赞(2) 踩(0) | <div>到此一游</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214744780)<br> <br>2017-03-02 23:13<br>赞(64) 踩(0) | <div>我会住在其中的一颗星星上面，在某一颗星星上微笑着，每当夜晚你仰望星空的时候，就会像是看到所有的星星都在微笑一般。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54996762)<br><br>2017-02-07 16:10<br>赞(149) 踩(0) | <div>也许我不知道我的未来在哪里，但我一定会努力走过高考这道坎。——即将17岁的我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54996762)<br><br>2017-02-07 16:10<br>赞(149) 踩(0) | <div>也许我不知道我的未来在哪里，但我一定会努力走过高考这道坎。<br>——即将17岁的我</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269445329)<br><br>2017-02-21 23:44<br>赞(0) 踩(0) | <div>我也是</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277750535)<br><br>2017-05-26 12:27<br>赞(0) 踩(0) | <div>你得相信自己</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80653688)<br><br>2017-06-07 15:01<br>赞(0) 踩(0) | <div>今天高考了！！！！加油啊啊啊啊啊啊啊啊啊</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325071563)<br>人生自古谁无死？<br>2017-10-07 12:03<br>赞(0) 踩(0) | <div>也许我不知道我的未来在哪里，但我一定会努学习&amp;mdash;&amp;mdash;看到即将成年的我</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325071563)<br>人生自古谁无死？<br>2017-10-07 12:03<br>赞(0) 踩(0) | <div>也许我不知道我的未来在哪里，但我一定会努学习<br>&amp;mdash;&amp;mdash;看到即将成年的我</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251436286)<br>淡淡地，很有力量<br>2017-12-10 01:53<br>赞(0) 踩(0) | <div>一起加油！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39922519)<br> <br>2018-02-10 00:43<br>赞(0) 踩(0) | <div>我一定会走过中考这座独木桥</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318001492)<br>轻音乐爱好者<br>2018-05-04 15:26<br>赞(0) 踩(0) | <div>上大学以前目标是单一的，确定的，上了大学才发现没有自己的目标何谈未来</div> |

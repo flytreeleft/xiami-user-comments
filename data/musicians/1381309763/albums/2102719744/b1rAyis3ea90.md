@@ -28,5 +28,3 @@ And he called for his fiddlers three
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

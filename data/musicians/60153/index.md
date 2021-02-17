@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ad5bcb7a2588c6b315cd3c3262b2ae75.jpg)<br>阿勇泽让](https://i.xiami.com/ayongzerang) | **播放数**: 1389669<br>**粉丝数**: 111<br>**评论数**: 16<br>**地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 西藏传统乐 Tibetan Traditional Music, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/ad5bcb7a2588c6b315cd3c3262b2ae75.jpg)<br>阿勇泽让](https://i.xiami.com/ayongzerang) | **地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 西藏传统乐 Tibetan Traditional Music, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 1389669<br>**粉丝数**: 111<br>**评论数**: 16<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46958462)<br><br>2020-11-04 11:00<br>赞(0) 踩(0) | <div>真好听，你的歌声像蓝蓝的天空</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352390081)<br><br>2019-12-30 15:53<br>赞(0) 踩(0) | <div>特别喜欢的一个歌手，就是想不通为什么虾米上他的歌越来越少。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235189286)<br><br>2017-10-30 09:58<br>赞(1) 踩(0) | <div>喜欢你的歌曲喜欢至极，是走唐古拉风暴开始的，后来在各大音乐论坛寻找你的足记…曲央卓玛，和心思这两首歌怎么不见了</div> |

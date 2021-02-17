@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0fc0dbe19691f52071966defd6e1f3bc.png)<br>崔磊](https://i.xiami.com/cuilei) | **播放数**: 1457552<br>**粉丝数**: 86<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 城市民谣 Urban Folk, 独立流行 Indie Pop, 国语流行 Mandarin Pop, 校园民谣 Campus Folk<br> |
+| [![](../../images/musicians/0fc0dbe19691f52071966defd6e1f3bc.png)<br>崔磊](https://i.xiami.com/cuilei) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 城市民谣 Urban Folk, 独立流行 Indie Pop, 国语流行 Mandarin Pop, 校园民谣 Campus Folk<br>**播放数**: 1457552<br>**粉丝数**: 86<br>**评论数**: 8<br> |
 
 ## 档案
 
@@ -23,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72502)<br>音乐可以改变人的心情！<br>2020-03-23 10:15<br>赞(0) 踩(0) | <div>nice！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477519)<br>爱  是生命的和弦，而不...<br>2019-02-28 09:50<br>赞(0) 踩(0) | <div>老师：希望你把《崔磊个人钢琴创作作品集》那张专辑上传 虾米…我很喜欢那张专辑的曲子…</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51491983)<br>我还没想好要写什么...<br>2018-07-14 10:07<br>赞(0) 踩(0) | <div>好听啊</div> |

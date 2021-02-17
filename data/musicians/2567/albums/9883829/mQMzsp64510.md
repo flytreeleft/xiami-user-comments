@@ -82,8 +82,8 @@ Anti-Dear Anti-Dear
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2127206)<br>冬雪小公主<br>2020-06-07 06:22<br>赞(2) 踩(0) | <div>AI回来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96862668)<br>这个人很聪明，只留下了一...<br>2020-03-15 11:02<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428362827)<br><br>2019-08-26 11:37<br>赞(2) 踩(0) | <div>真的是才女，很有自己的思考</div> |

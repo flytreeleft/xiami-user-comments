@@ -34,7 +34,7 @@ GOODBYE MY LOVE 从此和你分离<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9386178)<br><br>2012-06-05 13:55<br>赞(0) 踩(0) | <div>听听歌。再见我的爱人 。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5414801)<br><br>2012-04-17 13:31<br>赞(0) 踩(0) | <div>外面又下了点雨。</div> |

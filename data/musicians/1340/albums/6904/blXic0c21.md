@@ -72,8 +72,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102111824)<br><br>2020-06-23 11:17<br>赞(0) 踩(0) | <div>前奏响起，感觉就Ok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314815251)<br>爱过！也仅仅是爱过…<br>2019-12-03 17:31<br>赞(2) 踩(0) | <div>愿生命中总有一个只属于你自己的风铃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239486549)<br>黑夜给了我黑色的眼睛我却...<br>2019-11-30 13:39<br>赞(3) 踩(0) | <div>日常冒泡支持日常</div> |
@@ -82,7 +82,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254201700)<br>自愧<br>2019-03-26 19:12<br>赞(3) 踩(0) | <div>我和我女友，现在的老婆都喜欢的一首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314815251)<br>爱过！也仅仅是爱过…<br>2019-01-12 18:38<br>赞(3) 踩(0) | <div>喜欢这纯纯的声音！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277445013)<br><br>2018-07-22 05:31<br>赞(4) 踩(0) | <div>喜欢你余生漫长我愿与你风雨中执手，平淡中携老。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1107192)<br>Listen<br>2018-06-18 13:03<br>赞(3) 踩(0) | <div>初恋/异地恋的手机彩铃.. 以前每次听到''我的梦里有一串风铃''都急切地盼望下一句听到的是她的声音.. 只是没一起看到雨过天晴难免遗憾这歌真不错~ 蔡淳佳才是真治愈系啊~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1107192)<br>Listen<br>2018-06-18 13:03<br>赞(3) 踩(0) | <div>初恋/异地恋的手机彩铃.. 以前每次听到''我的梦里有一串风铃''都急切地盼望下一句听到的是她的声音.. 只是没一起看到雨过天晴难免遗憾<br>这歌真不错~ 蔡淳佳才是真治愈系啊~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363151266)<br>陌上人如玉 公子世无双<br>2018-05-09 22:39<br>赞(1) 踩(0) | <div>那一串风铃～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338711029)<br>听一首歌，品一故事<br>2018-02-05 09:27<br>赞(2) 踩(0) | <div>迷到不行 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332025190)<br>如果你也听说，会不会想起...<br>2018-02-05 09:08<br>赞(16) 踩(0) | <div>最近 蔡淳佳的小清新风范真的是被洗脑了</div> |
@@ -105,14 +105,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87221500)<br>许多事情 因为相信 才会...<br>2015-11-28 23:02<br>赞(2) 踩(0) | <div>风铃，听过就再也忘不掉的旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6530967)<br>老男人而已。<br>2015-09-25 17:28<br>赞(1) 踩(0) | <div>有时候，还是需要一些矫情才能面对残酷的生活。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40715089)<br>若无相欠，怎会相见<br>2015-09-15 01:02<br>赞(0) 踩(0) | <div>最少也得500+吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53169084)<br><br>2015-07-27 08:20<br>赞(0) 踩(0) | <div>未来如何现在不急着预测自然而然就够了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53169084)<br><br>2015-07-27 08:20<br>赞(0) 踩(0) | <div>未来如何<br>现在不急着预测<br>自然而然就够了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48124230)<br>我愿随它走上音乐的道路！<br>2015-06-22 21:13<br>赞(0) 踩(0) | <div>喜欢！...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47915102)<br> <br>2015-04-01 13:54<br>赞(0) 踩(0) | <div>想起你了   想起花开了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41107989)<br>超爱Rihanna<br>2015-03-23 18:53<br>赞(0) 踩(0) | <div>温馨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41107989)<br>超爱Rihanna<br>2015-03-23 18:53<br>赞(3) 踩(0) | <div>声音好干净</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41107989)<br>超爱Rihanna<br>2015-03-23 18:53<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6869748)<br><br>2015-03-19 17:01<br>赞(0) 踩(0) | <div>4 Day.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8310670)<br><br>2015-03-09 23:23<br>赞(1) 踩(0) | <div>幸福，瀰漫在橙色陽光裡，陣陣的風吹過，串串的風鈴聲，都是溫柔的你。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8310670)<br><br>2015-03-09 23:23<br>赞(1) 踩(0) | <div>幸福，<br>瀰漫在橙色陽光裡，<br>陣陣的風吹過，<br>串串的風鈴聲，<br>都是溫柔的你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13044320)<br>唐萌小德<br>2015-02-11 22:04<br>赞(0) 踩(0) | <div>自然而然就够了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7393614)<br>镜花水月<br>2015-01-20 08:16<br>赞(0) 踩(0) | <div>很好听～温馨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10717611)<br><br>2014-08-24 01:28<br>赞(0) 踩(0) | <div>晚安，只想对你说。</div> |
@@ -174,7 +174,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4140579)<br><br>2011-06-20 20:53<br>赞(0) 踩(0) | <div>喜欢《风铃》的随风摇摆 清脆悦耳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3595441)<br><br>2011-06-19 23:18<br>赞(0) 踩(0) | <div>音樂中傳來吉他聲.....想著你我談笑風聲的快樂時光........心情依舊是...想念著你......『我還是想聽這首歌........』</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3595441)<br><br>2011-06-13 20:32<br>赞(0) 踩(0) | <div>清純的人,彈著吉他,心想著他.夢想著他...珍惜緣份..讓你我相遇..在鄉間小路上..微風輕輕吹來.這種感覺...我真的喜歡...^^</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4047968)<br><br>2011-06-07 10:06<br>赞(0) 踩(0) | <div>轻轻的风吹过风铃。。。突然想起那些陪我吹风淋雨的朋友你们，还好吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4047968)<br><br>2011-06-07 10:06<br>赞(0) 踩(0) | <div>轻轻的风吹过风铃。。。<br>突然想起那些陪我吹风淋雨的朋友<br>你们，还好吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1553212)<br>暂无签名~<br>2011-05-31 23:53<br>赞(0) 踩(0) | <div>我的名字的谐音就是“风铃”！我喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3594953)<br>暂无签名~<br>2011-05-24 03:01<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3926420)<br><br>2011-05-23 11:58<br>赞(0) 踩(0) | <div>有感觉，好听。</div> |
@@ -184,12 +184,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2993175)<br><br>2011-02-26 22:11<br>赞(0) 踩(0) | <div>清晰明亮的声线</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1957552)<br><br>2011-02-10 10:17<br>赞(0) 踩(0) | <div>简单的旋律，朴实的歌词，却让人感动~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278198)<br><br>2011-01-09 00:32<br>赞(0) 踩(0) | <div>喜欢^^...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1902103)<br><br>2011-01-04 12:34<br>赞(0) 踩(0) | <div>一起看雨过天晴~而一起看的人却在远方~为什么你们走那么远呢？想你们~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1902103)<br><br>2011-01-04 12:34<br>赞(0) 踩(0) | <div>一起看雨过天晴~<br>而一起看的人却在远方~<br>为什么你们走那么远呢？<br>想你们~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1338023)<br><br>2010-12-02 09:53<br>赞(0) 踩(0) | <div>从韩寒博客里听到这首歌，好喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1738444)<br><br>2010-10-30 11:04<br>赞(0) 踩(0) | <div>非常安静的歌声~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1321616)<br><br>2010-09-29 11:01<br>赞(0) 踩(0) | <div>我住海边，听风铃。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1321616)<br><br>2010-09-23 15:49<br>赞(0) 踩(0) | <div>好听！旅行必备！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1334109)<br><br>2010-09-17 10:47<br>赞(0) 踩(0) | <div>风铃演唱：蔡淳佳作曲：（缺）作词：（缺）www.Feiyes.net ★ 狼风 制作微笑醒了微风吹过了阳光洒满白色窗口闭上眼睛会听见一首歌你猜心跳唱些什么想起你了想起花开了单纯的快乐不必选择未来如何现在不急着预测自然而然就够了牵手走过每一段路都有画面值得去感动我的梦里有一串风铃感应有你走过的风景当风吹起听见熟悉声音每阵温柔 都是你想起你了想起花开了单纯的快乐不必选择未来如何现在不急着预测自然而然就够了也会有风有雨我的手你会抓紧要一起看雨过天晴我的梦里有一串风铃感应有你走过的风景当风吹起听见熟悉声音每阵温柔都是你我的梦里有一串风铃感应有你走过的风景当风吹起听见熟悉声音每阵温柔 都是你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1334109)<br><br>2010-09-17 10:47<br>赞(0) 踩(0) | <div>风铃<br>演唱：蔡淳佳<br>作曲：（缺）<br>作词：（缺）<br><br>www.Feiyes.net ★ 狼风 制作<br><br>微笑醒了<br>微风吹过了<br>阳光洒满白色窗口<br><br>闭上眼睛<br>会听见一首歌<br>你猜心跳唱些什么<br><br>想起你了<br>想起花开了<br>单纯的快乐不必选择<br><br>未来如何<br>现在不急着预测<br>自然而然就够了<br><br>牵手走过<br>每一段路<br>都有画面<br>值得去感动<br><br>我的梦里有一串风铃<br>感应有你走过的风景<br>当风吹起<br>听见熟悉声音<br>每阵温柔 都是你<br><br>想起你了<br>想起花开了<br>单纯的快乐不必选择<br><br>未来如何<br>现在不急着预测<br>自然而然就够了<br><br>也会有风有雨<br>我的手你会抓紧<br>要一起看雨过天晴<br><br>我的梦里有一串风铃<br>感应有你走过的风景<br>当风吹起<br>听见熟悉声音<br>每阵温柔都是你<br><br>我的梦里有一串风铃<br>感应有你走过的风景<br>当风吹起<br>听见熟悉声音<br>每阵温柔 都是你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/993768)<br><br>2010-09-12 00:15<br>赞(0) 踩(0) | <div>暖暖的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1402922)<br><br>2010-09-02 11:45<br>赞(0) 踩(0) | <div>舒服的嗓音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1357525)<br>live natrue,...<br>2010-08-27 23:26<br>赞(0) 踩(0) | <div>奋斗的声音</div> |

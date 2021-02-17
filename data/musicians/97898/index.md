@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/bd91f735e23bb2e00fc6db8ac8224af0.jpg)<br>陈丽媛](https://i.xiami.com/geshouliyuan) | **播放数**: 1662776<br>**粉丝数**: 304<br>**评论数**: 19<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/bd91f735e23bb2e00fc6db8ac8224af0.jpg)<br>陈丽媛](https://i.xiami.com/geshouliyuan) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 1662776<br>**粉丝数**: 304<br>**评论数**: 19<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53746046)<br>发烧友<br>2020-11-27 20:44<br>赞(0) 踩(0) | <div>歌唱的有特色，绝对不怎么的，不耐听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2020-09-21 10:47<br>赞(1) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-05-15 07:34<br>赞(2) 踩(0) | <div>Cbmggwzjbkoujiao 1914</div> |

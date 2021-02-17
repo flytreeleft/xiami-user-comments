@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/962e83847245c626560be2cd88a179fe.jpg)<br>洪国豪](https://i.xiami.com/hgh) | **播放数**: 1363698<br>**粉丝数**: 31<br>**评论数**: 3<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 华语唱作人 Chinese Singer-Songwriter, 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/962e83847245c626560be2cd88a179fe.jpg)<br>洪国豪](https://i.xiami.com/hgh) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 华语唱作人 Chinese Singer-Songwriter, 独立流行 Indie Pop<br>**播放数**: 1363698<br>**粉丝数**: 31<br>**评论数**: 3<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422764207)<br>瀚海同行(*๓´╰╯`๓...<br>2019-04-14 19:34<br>赞(0) 踩(0) | <div>唱的挺好的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103453236)<br> <br>2017-05-09 17:03<br>赞(0) 踩(0) | <div>66666</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293784294)<br>乐观向上<br>2017-05-09 12:16<br>赞(1) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

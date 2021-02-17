@@ -52,8 +52,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306420354)<br><br>2019-09-15 16:03<br>赞(0) 踩(0) | <div>电影《搭错车》里最有味道的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24452083)<br><br>2018-07-18 00:12<br>赞(2) 踩(0) | <div>醇厚，耐听，成熟的美声！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117866386)<br> <br>2018-03-28 00:49<br>赞(2) 踩(0) | <div>我愿意留下这第一条也可能是唯一一条评论，我觉得特别安全，我是虾米音乐人赵仪通。</div> |

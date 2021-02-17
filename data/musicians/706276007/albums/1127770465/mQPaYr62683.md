@@ -76,8 +76,8 @@ unravelling the world<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400838726)<br><br>2021-01-28 14:33<br>赞(0) 踩(0) | <div>原版是唱出东京食尸鬼的病态感，周深唱的是正常人能接受的版本。有唱功就是任性啊，弥补了日文发音的生疏感。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81901744)<br><br>2020-12-30 19:58<br>赞(0) 踩(0) | <div>二次元隐藏巨头 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2268806)<br>每一个不曾起舞的日子，都...<br>2020-12-28 09:39<br>赞(1) 踩(0) | <div>真难听</div> |
@@ -90,7 +90,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402052249)<br><br>2020-11-09 21:25<br>赞(1) 踩(0) | <div>原唱摇滚氛围重，这个也喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331538071)<br>我还没想好要写什么...<br>2020-10-22 19:20<br>赞(2) 踩(0) | <div>能不能把live版拿出来，并且调音师先下班一下。 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png">听过现场的我表示，现场live比这个炸一万倍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445408965)<br>山河错落 你是人间理想<br>2020-10-21 00:59<br>赞(2) 踩(0) | <div>真的不敢相信一个男生声音这么好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368438836)<br>だが、断る！<br>2020-10-06 23:40<br>赞(1) 踩(0) | <div>哈哈哈哈哈哈哈虾米本身我觉得还可以评论区嘛，图一乐，都可以图一乐！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368438836)<br>だが、断る！<br>2020-10-06 23:40<br>赞(1) 踩(0) | <div>哈哈哈哈哈哈哈<br>虾米本身我觉得还可以<br>评论区嘛，图一乐，都可以图一乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334610880)<br>我还没想好要写什么...<br>2020-10-02 18:16<br>赞(1) 踩(0) | <div>b站上那个版本太强了，为啥录好的听起来反倒有点奇怪？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218556360)<br><br>2020-10-14 05:19<br>赞(0) 踩(0) | <div>我看评论两年前就有了 应该是卡布时期的翻唱吧&amp;hellip;也是挺神奇的 不知道怎么传上来的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334610880)<br>我还没想好要写什么...<br>2020-10-15 23:03<br>赞(0) 踩(0) | <div><q><b>涂图q说：</b></q></div> |
@@ -144,7 +144,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343719052)<br>无论哪里，爱你虾米<br>2020-05-25 21:06<br>赞(4) 踩(0) | <div>这是周深大学给粉丝唱的，只是被人又拿出来了而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265843910)<br><br>2020-05-24 17:47<br>赞(0) 踩(0) | <div>挖到矿了！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443117235)<br><br>2020-05-24 09:35<br>赞(0) 踩(0) | <div>很燃很好听！单曲循环中～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442107350)<br><br>2020-05-23 21:14<br>赞(0) 踩(0) | <div>挺好听的   和原唱不是一种风格都喜欢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442107350)<br><br>2020-05-23 21:14<br>赞(0) 踩(0) | <div>挺好听的   和原唱不是一种风格<br>都喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140445598)<br> <br>2020-05-18 16:42<br>赞(0) 踩(0) | <div>牛逼，这个好难唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20939319)<br> <br>2020-05-11 12:26<br>赞(2) 踩(0) | <div>深深真是宝藏boy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8849536)<br>隽存三分侠义 常怀赤子之...<br>2020-05-09 08:20<br>赞(0) 踩(0) | <div>唱得真不错</div> |
@@ -184,15 +184,15 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441369700)<br><br>2020-03-26 01:47<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302346927)<br><br>2020-03-22 23:32<br>赞(1) 踩(0) | <div>厉害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420271524)<br> 清风离尘不知意，人面桃...<br>2020-03-21 15:37<br>赞(0) 踩(0) | <div>不要吵，喜欢听什么就听什么啊。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296548813)<br><br>2020-03-21 13:40<br>赞(1) 踩(0) | <div>一、谁心里没有一个白月光原唱。二、翻唱代表着对作品的喜爱的。三、如上述，不管是原唱党还是翻唱者都是喜欢这首歌的，所以为啥要吵呢？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296548813)<br><br>2020-03-21 13:40<br>赞(1) 踩(0) | <div>一、谁心里没有一个白月光原唱。<br>二、翻唱代表着对作品的喜爱的。<br>三、如上述，不管是原唱党还是翻唱者都是喜欢这首歌的，所以为啥要吵呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328733808)<br>=͟͟͞͞ʕ•̫͡•ʔ<br>2020-03-19 20:45<br>赞(2) 踩(0) | <div>居然还有我没听过的周深！果然酷狗QQ网易云虾米都得有才行！最好都开会员！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331691822)<br><br>2020-03-18 22:10<br>赞(0) 踩(0) | <div>周深唱出了另一种优柔的感觉，也挺好听的，原唱的撕裂感，咆哮感，厌世的情绪很难体现！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331691822)<br><br>2020-03-18 22:09<br>赞(0) 踩(0) | <div>卧槽，周深唱了这首歌！牛p</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406964634)<br>我还没想好要写什么...<br>2020-03-14 13:27<br>赞(10) 踩(0) | <div>？？？？？说不是周深唱的是有事吗？？？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317068983)<br>我还没想好要写什么...<br>2020-03-14 10:55<br>赞(0) 踩(0) | <div>嗷 有亿点好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226681462)<br><br>2020-03-12 23:10<br>赞(0) 踩(0) | <div>听这版不会特别难过，，，挺好，， <img src="../../../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226681462)<br><br>2020-03-12 22:26<br>赞(2) 踩(0) | <div>第一次听，喜欢这样的，电音，，，周深果然说得很对，&amp;quot;好烦，你们不要吵了&amp;quot;&amp;quot;少管我&amp;quot;哈哈哈哈哈，大家安静听歌就好吧，不是言论自由吗？口味不一何必勉强别人说好话，别管就好。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411003132)<br>大爱金木研<br>2020-03-12 13:32<br>赞(4) 踩(0) | <div>第一季既不是人也不是喰种第二季是喰种第三季是人第四季既是人也是喰种</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226681462)<br><br>2020-03-12 22:26<br>赞(2) 踩(0) | <div>第一次听，喜欢这样的，电音，，，周深果然说得很对，<br>&amp;quot;好烦，你们不要吵了&amp;quot;<br>&amp;quot;少管我&amp;quot;<br>哈哈哈哈哈，大家安静听歌就好吧，不是言论自由吗？口味不一何必勉强别人说好话，别管就好。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411003132)<br>大爱金木研<br>2020-03-12 13:32<br>赞(4) 踩(0) | <div>第一季既不是人也不是喰种<br>第二季是喰种<br>第三季是人<br>第四季既是人也是喰种</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9421830)<br><br>2020-03-12 09:28<br>赞(0) 踩(0) | <div>听Misia的类似歌曲推荐的这首，没听过原唱一开始也没注意是谁唱的，只觉得怎么那么难听简直刺耳的地步，没听完就赶紧切下一首了，不好听就是不好听还不让说了，粉丝真是霸道</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440136412)<br><br>2020-03-16 20:23<br>赞(0) 踩(0) | <div>不好听不听不就好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173387)<br>好事也许会发生在下个转弯<br>2020-03-11 22:30<br>赞(0) 踩(0) | <div>这是周深自己重新做了编曲么？好像没听过这个版本的曲子？</div> |
@@ -203,13 +203,13 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209215081)<br>奔向出口，迎着那曙光宣告<br>2020-03-02 19:37<br>赞(0) 踩(0) | <div>我敲？这首歌又有版权了？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356796399)<br><br>2020-03-01 22:43<br>赞(0) 踩(0) | <div>这明明就是原唱，听了几百遍了。真粉会听不出来？？ <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441024366)<br><br>2020-03-03 23:10<br>赞(0) 踩(0) | <div>搞笑吧兄弟，这是原唱？</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352924114)<br>始于你的车载音乐，陷于你...<br>2020-03-04 12:23<br>赞(0) 踩(0) | <div>怕是个假粉吧不过我接受周深翻唱只是您这个假粉太真了</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352924114)<br>始于你的车载音乐，陷于你...<br>2020-03-04 12:23<br>赞(0) 踩(0) | <div>怕是个假粉吧<br><br>不过我接受周深翻唱<br><br>只是您这个假粉太真了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356796399)<br><br>2020-03-15 09:37<br>赞(0) 踩(0) | <div><q><b>冷静的八宝粥说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356796399)<br><br>2020-03-15 09:38<br>赞(0) 踩(0) | <div><q><b>iris说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23696021)<br>曲终人散~却写下不会结束...<br>2020-02-24 21:51<br>赞(0) 踩(0) | <div>虾米呀。。。我既要为你的版权而发愁，我还就只能在你这里听这首歌，我真的想撞墙了，我真的太恨你了，你们这些音乐人，天哪天哪，你们有一个音乐音乐会…啊，求求你们，不要让我想听你的一首歌，还要在4个5个6个音乐应用之间徘徊好不好？哪有你们这样欺负粉丝的。我从来就没有像这种时候这么想撞墙，你们能不能善良一点啊？好吧，我也不知道什么是善良。虾米呀虾米，又爱又恨。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426682129)<br><br>2020-02-23 20:15<br>赞(0) 踩(0) | <div>梦幻联动 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46148959)<br>神様、僕は気づいてしまっ...<br>2020-02-23 01:07<br>赞(0) 踩(0) | <div>这嗓音。。awls</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349654264)<br><br>2020-02-21 17:38<br>赞(5) 踩(0) | <div>有必要说明一下，周深，中国新生代男歌手，应该是于2015年翻唱的这首歌，原先在由本人在B站上传，后被不知道哪位兄弟上传到了网易云。原唱很优秀，这个版本是另外一种不同的诠释，请勿比较辣菜。最后，周深是《2020歌手》的首发哦，有兴趣的朋友可以去看看～（周深代表作《大鱼》）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349654264)<br><br>2020-02-21 17:38<br>赞(5) 踩(0) | <div>有必要说明一下，周深，中国新生代男歌手，应该是于2015年翻唱的这首歌，原先在由本人在B站上传，后被不知道哪位兄弟上传到了网易云。原唱很优秀，这个版本是另外一种不同的诠释，请勿比较辣菜。最后，周深是《2020歌手》的首发哦，有兴趣的朋友可以去看看～<br>（周深代表作《大鱼》）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278347589)<br><br>2020-02-20 13:51<br>赞(1) 踩(0) | <div>看我找到了什么(≧ω≦)/</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38616422)<br>簽名不重要<br>2020-02-18 07:28<br>赞(2) 踩(0) | <div>周深唱功好竟然有人反对？反对无效 <img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2536022)<br>如果虾米也能每天写心情的...<br>2020-02-15 12:52<br>赞(0) 踩(0) | <div>这首歌的词，一部分也是写到了他自己的经历吧，所以会想要翻唱</div> |
@@ -318,7 +318,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333244155)<br><br>2019-04-29 18:05<br>赞(3) 踩(0) | <div>终于找到了深深这首歌的音源，然后评论里怎么都在讨论原唱翻唱？翻了下评论好像是原本是周深的版本后来有一段时间换成了原版？之前听过深深版的录屏可以确定当下音源是周深唱的。这首歌是几年前周深自己在b站投稿的，后来挂了，现在他可以唱的更好。关于发音问题周深不会日语，只自学过五十音，好多人母语发音都有问题，何必纠结外语翻唱呢？最重要的一点：周深是男生！男生！男生！重要的事情说三遍。只是由于没有变声所以声音会比较亮，代表作《大鱼》啊，还是说都不知道唱《大鱼》的周深是男生？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278679652)<br>好饿好饿<br>2019-04-29 16:24<br>赞(0) 踩(0) | <div>哈哈哈找到啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356520769)<br><br>2019-04-28 19:40<br>赞(1) 踩(0) | <div>这是卡布时期的翻唱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301994394)<br> <br>2019-04-23 15:51<br>赞(4) 踩(0) | <div>666 没想到他会选择翻唱这首歌  完全不一样的感觉感觉评论里的某些人耳朵是不是不太好，这明显跟原唱的感觉很不一样，声音不同的也很明显，各有各的特色 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png">意外的感觉很赞，毕竟原唱让我感觉也是跟周深有点像，男人女声的节奏…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301994394)<br> <br>2019-04-23 15:51<br>赞(4) 踩(0) | <div>666 没想到他会选择翻唱这首歌  完全不一样的感觉<br>感觉评论里的某些人耳朵是不是不太好，这明显跟原唱的感觉很不一样，声音不同的也很明显，各有各的特色 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"><br>意外的感觉很赞，毕竟原唱让我感觉也是跟周深有点像，男人女声的节奏…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315412268)<br><br>2019-04-22 20:05<br>赞(1) 踩(0) | <div>首先作为一个几乎听了周深所有歌的人，我可以肯定这是周深唱的，而且这个应该是好几年前的了，他现在唱会更好听。不喜欢的或不满意的可以不听从这里离开，不要一边听着人家唱的一边说人家唱的不咋地，这样就太无耻了！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423545024)<br><br>2019-04-20 08:24<br>赞(1) 踩(0) | <div>首先这不是喷周深，只是味道不一样，原创比这个有激情，不是说周深唱的不好听，，本人意见，不喜勿喷，谢谢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410191442)<br><br>2019-04-13 19:52<br>赞(2) 踩(0) | <div>中间高音部分简直鸡皮疙瘩都起来了</div> |
@@ -353,14 +353,14 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420446346)<br><br>2019-03-04 18:50<br>赞(2) 踩(0) | <div>前排水军？原唱和这个区别多大心里没b数？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409746697)<br>仰天／仰天／欲发狼嚎的一...<br>2019-03-03 15:18<br>赞(0) 踩(0) | <div>从前用的都是内存卡，我爸把我的许多歌都删了，我被气哭了，结果他一句轻飘飘的一张内存卡有什么的，小孩别这么小气就过去了，要知道，那张卡里有许多这类找不到原唱的歌，删了就是删了，再也找不回来了。前几天突然想起想翻一下魔兽世界的酒馆小调，结果怎么也找不到前几年的原版。可惜啊，太可惜了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409746697)<br>仰天／仰天／欲发狼嚎的一...<br>2019-03-03 15:13<br>赞(0) 踩(0) | <div>搞不懂为什么有人误认为原唱……明明原唱是男人，而且这个一听就是就不是日本人……小学时候听的原唱，那时候还没被封东京食尸鬼还特别火。记得有一次初中同学唱这首歌，然后大家一起跟唱，结果被一个男生吐槽谁家煤气漏了……哈哈哈，真好，为什么就不能纯纯粹粹地听一首歌呢……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351020799)<br><br>2019-03-02 21:45<br>赞(0) 踩(0) | <div>好听啊...错的不是我，是这个世界。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351020799)<br><br>2019-03-02 21:45<br>赞(0) 踩(0) | <div>好听啊...<br>错的不是我，是这个世界。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405785051)<br><br>2019-03-02 19:05<br>赞(0) 踩(0) | <div>说是原唱的赶紧去看耳科</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420148906)<br><br>2019-03-01 08:49<br>赞(0) 踩(0) | <div>从b站听后转来的，超级好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284162512)<br><br>2019-02-27 04:55<br>赞(0) 踩(0) | <div>好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420035155)<br><br>2019-02-26 23:16<br>赞(0) 踩(0) | <div>原版好听，支持TK.东京食尸鬼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379467908)<br><br>2019-02-25 19:49<br>赞(1) 踩(0) | <div>周深￣这首歌唱崩了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420104081)<br><br>2019-02-28 01:47<br>赞(0) 踩(0) | <div>我觉得挺好的 不喜欢可以不听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334940478)<br><br>2019-02-25 14:03<br>赞(3) 踩(0) | <div>很明确地说，这首歌我2017年底搜“周深”就能搜到，绝不是这几个月才改的。2017年，我被《中国新歌声》周深帮唱大鱼惊艳到，才知道有这么一位棒棒哒的歌手，就到处搜他的歌，对这首翻唱印象很深。当时下边的评价，还有人吐槽日语发音不够标准（但我还是特别喜欢他唱出来的那种感觉）。怎么一年多后突然翻评价，就看到一大片讨论原唱翻唱的问题？？？？很吃惊，和原唱，截然不同的好嘛……差别真心相当相当啊，怎么那么多人听不出……讲真，原唱唱得更厉害，而且厉害得很明显。不过据说是当年周深为粉丝特地学的，当年能翻成那样，的确是再惊艳到我了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334940478)<br><br>2019-02-25 14:03<br>赞(3) 踩(0) | <div>很明确地说，这首歌我2017年底搜“周深”就能搜到，绝不是这几个月才改的。2017年，我被《中国新歌声》周深帮唱大鱼惊艳到，才知道有这么一位棒棒哒的歌手，就到处搜他的歌，对这首翻唱印象很深。当时下边的评价，还有人吐槽日语发音不够标准（但我还是特别喜欢他唱出来的那种感觉）。<br>怎么一年多后突然翻评价，就看到一大片讨论原唱翻唱的问题？？？？很吃惊，和原唱，截然不同的好嘛……差别真心相当相当啊，怎么那么多人听不出……<br>讲真，原唱唱得更厉害，而且厉害得很明显。不过据说是当年周深为粉丝特地学的，当年能翻成那样，的确是再惊艳到我了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418355114)<br><br>2019-02-24 16:25<br>赞(4) 踩(0) | <div>兄弟们，这真的不是原唱，但是是我听过最接近原唱的版本，赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370705539)<br><br>2019-02-24 14:49<br>赞(0) 踩(0) | <div>靠，他变了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379041140)<br><br>2019-02-23 16:42<br>赞(2) 踩(0) | <div>周深唱得好厉害～</div> |
@@ -392,19 +392,19 @@ unravelling the world<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266560243)<br><br>2019-02-12 00:05<br>赞(0) 踩(0) | <div><q><b>听风的声音说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355363820)<br>我还没想好要写什么...<br>2019-02-09 16:20<br>赞(7) 踩(0) | <div>只能说，周深唱的好到让人无法相信</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403379592)<br>互相關注唄╮(╯▽╰)╭<br>2019-02-09 09:18<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418630773)<br><br>2019-02-08 19:12<br>赞(3) 踩(0) | <div>说是原唱的都耳聋吗？是男是女分不清？呵呵呵→_→</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418630773)<br><br>2019-02-08 19:12<br>赞(3) 踩(0) | <div>说是原唱的都耳聋吗？是男是女分不清？<br>呵呵呵→_→</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362812116)<br><br>2019-02-12 10:57<br>赞(0) 踩(0) | <div>他们的意思好像是很久以前放的是原唱，现在改成周深的了，我也不明白→_→况且周深是男的啊喂！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412298740)<br><br>2019-02-15 20:35<br>赞(0) 踩(0) | <div><q><b>烟凌浊秋说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362812116)<br><br>2019-02-16 09:32<br>赞(0) 踩(0) | <div><q><b>一个人的时候说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418512812)<br><br>2019-02-07 13:10<br>赞(1) 踩(0) | <div>这不是原唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418397484)<br><br>2019-02-06 11:34<br>赞(0) 踩(0) | <div>很好听呀</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409232664)<br><br>2019-02-06 00:44<br>赞(4) 踩(0) | <div>是不是周深唱的我不知道，但声音很像。但是，这个是翻唱，以防弄错，我又回去听了下原版，我是喰种粉，四季都看完了，这首歌也听了这么多遍，即使这条评论说错了，这首歌和原版也的确不一样，换气声，唱法，甚至细微的音色，都不一样。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409232664)<br><br>2019-02-06 00:44<br>赞(4) 踩(0) | <div>是不是周深唱的我不知道，但声音很像。<br>但是，这个是翻唱，以防弄错，我又回去听了下原版，<br>我是喰种粉，四季都看完了，这首歌也听了这么多遍，即使这条评论说错了，这首歌和原版也的确不一样，换气声，唱法，甚至细微的音色，都不一样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408384229)<br>我还没想好要写什么...<br>2019-02-04 19:28<br>赞(3) 踩(0) | <div>在你们说这不是原唱的时候能不能好好想想，为什么前面这么多人说是原唱，一个人说也就算了，不可能全部听错了了吧，在看看那些评论的天数，那个时候你们绝对没点进来听这首歌，那个时候本来就是原唱，只是现在又改回来了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408384229)<br>我还没想好要写什么...<br>2019-02-04 19:31<br>赞(0) 踩(0) | <div>至少几个月前是原唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407025117)<br><br>2019-02-04 11:49<br>赞(1) 踩(0) | <div>耳朵如果不用可以捐给有需要的人哦 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407025117)<br><br>2019-02-04 11:48<br>赞(2) 踩(0) | <div>说是原唱的 你真的听过这首歌吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/417091844)<br><br>2019-02-03 16:56<br>赞(2) 踩(0) | <div>这是卡布唱的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376591509)<br><br>2019-02-03 10:57<br>赞(1) 踩(0) | <div>周深是中国人听声腔就知道。这部动漫原创是日本小丑社。中国人唱日本的歌然后堂而皇之的告诉我是原唱？你知道1000-7含义吗？三指。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376591509)<br><br>2019-02-03 10:57<br>赞(1) 踩(0) | <div>周深是中国人听声腔就知道。这部动漫原创是日本小丑社。中国人唱日本的歌然后堂而皇之的告诉我是原唱？<br>你知道1000-7含义吗？三指。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407329162)<br>我还没想好要写什么...<br>2019-02-02 19:36<br>赞(3) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410104794)<br><br>2019-02-05 13:42<br>赞(0) 踩(0) | <div>几个月前就是原创，不知道为什么改成tk翻唱的了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304041801)<br>虾米音乐太美了<br>2019-02-02 18:09<br>赞(1) 踩(0) | <div>照原唱差一点 也很好 听</div> |
@@ -421,7 +421,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415374382)<br><br>2019-01-31 19:43<br>赞(0) 踩(0) | <div>你们听的是原唱是因为手机里有原唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415374382)<br><br>2019-01-31 19:43<br>赞(0) 踩(0) | <div>不是原唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55436988)<br><br>2019-01-31 19:15<br>赞(2) 踩(0) | <div>实在不明白有人竟然说这是原唱。原始版本高潮歌词是unravelling the world。，而这版改成了let me go 好伐。而且这高音，除了周深，真想不出谁还唱的上去。唱的上去的日语肯定就没周深唱的那么神似了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289526141)<br><br>2019-01-29 22:38<br>赞(2) 踩(0) | <div>屁！这就是周深好么！！！听过原唱没而且，歌是改编过的都听不出来么 <img src="../../../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"> <img src="../../../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"> <img src="../../../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289526141)<br><br>2019-01-29 22:38<br>赞(2) 踩(0) | <div>屁！这就是周深好么！！！听过原唱没<br>而且，歌是改编过的都听不出来么 <img src="../../../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"> <img src="../../../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"> <img src="../../../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30424902)<br><br>2019-01-29 16:35<br>赞(0) 踩(0) | <div>这是周深唱的，b站哪年上传的来着。对了，今天是20190129</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414154323)<br><br>2019-01-29 10:36<br>赞(0) 踩(0) | <div>这是原唱，弟弟们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275469325)<br><br>2019-01-29 09:55<br>赞(1) 踩(0) | <div>原来的呢？？？咋成这样了，好难听，还是原先的好听</div> |
@@ -432,12 +432,12 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412017767)<br><br>2019-01-28 11:50<br>赞(0) 踩(0) | <div>还能怎么样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410104794)<br><br>2019-01-27 18:27<br>赞(1) 踩(0) | <div>之前是原唱的，现在怎么变成tk的了？？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400056263)<br><br>2019-01-27 16:22<br>赞(0) 踩(0) | <div>第一次听的时候我还以为是个女生 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413218823)<br>喋喋不休的你和我<br>2019-01-26 19:49<br>赞(3) 踩(0) | <div>這明顯不是原唱啊....... <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png">TK的嘶吼明明屬於不要嗓子的那種，這句let mego 應該就是很明顯的周深式高音了叭。但不得不說把那種痛苦掙扎表現出來了，周深果然很強，各種曲風都可以駕馭。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413218823)<br>喋喋不休的你和我<br>2019-01-26 19:49<br>赞(3) 踩(0) | <div>這明顯不是原唱啊....... <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png">TK的嘶吼明明屬於不要嗓子的那種，這句let me<br>go 應該就是很明顯的周深式高音了叭。但不得不說把那種痛苦掙扎表現出來了，周深果然很強，各種曲風都可以駕馭。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318389273)<br> <br>2019-01-25 14:05<br>赞(1) 踩(0) | <div>怎么变了，以前像原唱，现在一点不像</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402908173)<br><br>2019-01-25 11:54<br>赞(1) 踩(0) | <div>两个手机听起来就和两个人唱的一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402908173)<br><br>2019-01-25 11:53<br>赞(1) 踩(0) | <div>手机不一样听得效果也不一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297551559)<br><br>2019-01-24 17:34<br>赞(1) 踩(0) | <div>不是原唱啊，大哥大姐些</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370263096)<br>有的事情.不知道为好.<br>2019-01-23 20:40<br>赞(3) 踩(0) | <div>看来很多人之前没听呢，谢谢.之前你们没听之前.虾米把这歌改成的时雨的版本了『不确定是故意还是弄错了』现在也就是几个月前改回来了.所以有人说这是时雨的呢.所以?各位懂了.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370263096)<br>有的事情.不知道为好.<br>2019-01-23 20:40<br>赞(3) 踩(0) | <div>看来很多人之前没听呢，谢谢.<br>之前你们没听之前.虾米把这歌改成的时雨的版本了『不确定是故意还是弄错了』<br>现在也就是几个月前改回来了.所以有人说这是时雨的呢.<br>所以?各位懂了.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358362837)<br><br>2019-01-22 19:30<br>赞(3) 踩(0) | <div>这明明就是周深唱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400483005)<br>我把太阳偷偷地放进了口袋...<br>2019-01-21 17:11<br>赞(0) 踩(0) | <div>感觉加DJ了，好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309956214)<br>病娇男友怎么伺候才算完？<br>2019-01-21 12:02<br>赞(0) 踩(0) | <div>这首歌貌似在i音乐可以听……</div> |
@@ -455,7 +455,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12360653)<br>这家伙很聪明什么也没留下...<br>2019-01-17 11:11<br>赞(2) 踩(0) | <div>明显不是原唱啊…怎么听的…这个很明显是女生声线啊 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408286560)<br>我还没想好要写什么...<br>2019-01-16 19:41<br>赞(5) 踩(0) | <div>这明明声音比原唱还要柔啊，跟原唱还是很好区分的吧，说这就是原唱写周深的名字是耳朵瞎吧，多去听听原唱吧！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412671776)<br><br>2019-01-20 21:58<br>赞(0) 踩(0) | <div>怕是五感尽失了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230739718)<br>我还没想好要写什么...<br>2019-01-16 19:07<br>赞(4) 踩(0) | <div>明明和原唱的音色差别很大啊，很好区分分享  TK from 凛として時雨 的歌曲《unravel (acoustic ve...》<a href="https://www.xiami.com/song/1776248868" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/1776248868</a> (分享自@虾米音乐)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230739718)<br>我还没想好要写什么...<br>2019-01-16 19:07<br>赞(4) 踩(0) | <div>明明和原唱的音色差别很大啊，很好区分<br>分享  TK from 凛として時雨 的歌曲《unravel (acoustic ve...》<a href="https://www.xiami.com/song/1776248868" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/1776248868</a> (分享自@虾米音乐)</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405003986)<br><br>2019-01-19 03:58<br>赞(0) 踩(0) | <div>大兄弟，你这个版本是不插电版本，这歌本来就有两个版本，但都是凛冽时雨唱的，动漫中也有的，不要误导别人了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412671776)<br><br>2019-01-20 21:59<br>赞(0) 踩(0) | <div><q><b>Aurora's Lie说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271794477)<br><br>2019-01-16 17:58<br>赞(3) 踩(0) | <div>这叫原唱，那难道我之前看的动漫都是假的?</div> |
@@ -480,7 +480,7 @@ unravelling the world<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327798160)<br><br>2019-01-08 21:10<br>赞(0) 踩(0) | <div>这是原创作者把版权买回来了 锁业叫原唱。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327798160)<br><br>2019-01-08 21:10<br>赞(0) 踩(0) | <div>诶。。。打错了。。 改一下：所以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291433436)<br>我还没想好要写什么...<br>2019-01-07 16:55<br>赞(4) 踩(0) | <div>那些说原唱的听过原唱么。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/172611144)<br>探戈走错了可以重来，人生...<br>2019-01-07 15:07<br>赞(3) 踩(0) | <div>unravel：哦系哎太哟 哦系哎太哟 搜弄系库密哦波库弄那卡你 打来卡一路弄？扣哇来他扣哇来他哟 扣弄赛卡一带Ki密噶哇啦唔 那你摸密哎字你扣哇来他波库囊太萨 一ki哦投买太 freeze扣哇塞路扣哇塞那一 库路哎路 库路哎那一啊那他哦密次开太于来他 于刚打赛卡一你他他波库哇死ki投喔太密哎那库那台密次开那一带波库弄扣投哦密次买那一带打来卡噶卡一他赛卡一弄那卡带啊那他哦ki字次开他库哇那一哟哦波哎太太波库弄扣投哦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/172611144)<br>探戈走错了可以重来，人生...<br>2019-01-07 15:07<br>赞(3) 踩(0) | <div>unravel：<br>哦系哎太哟 哦系哎太哟 搜弄系库密哦<br>波库弄那卡你 打来卡一路弄？<br>扣哇来他扣哇来他哟 扣弄赛卡一带<br>Ki密噶哇啦唔 那你摸密哎字你<br>扣哇来他波库囊太萨 一ki哦投买太 freeze<br>扣哇塞路扣哇塞那一 库路哎路 库路哎那一<br>啊那他哦密次开太<br>于来他 于刚打赛卡一你他他波库哇<br>死ki投喔太密哎那库那台<br>密次开那一带波库弄扣投哦<br>密次买那一带<br>打来卡噶卡一他赛卡一弄那卡带<br>啊那他哦ki字次开他库哇那一哟<br>哦波哎太太波库弄扣投哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411961362)<br>这辈子最爱金木了！<br>2019-01-07 00:33<br>赞(1) 踩(0) | <div>。。是不是又变回周深的了。。听起来不想你们说的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2205994)<br>I am who I a...<br>2019-01-06 23:40<br>赞(1) 踩(0) | <div>感觉这歌节奏真不能让抖X发现…一定会被玩坏无误 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357612195)<br><br>2019-01-10 23:58<br>赞(0) 踩(0) | <div>没错 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -582,7 +582,7 @@ unravelling the world<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341574639)<br><br>2018-12-20 21:25<br>赞(0) 踩(0) | <div><q><b>ζั͡ޓއއއ ๓ Si说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410227080)<br><br>2018-12-14 20:19<br>赞(0) 踩(0) | <div>超，这，搞得我还以为耳朵坏了呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408294229)<br>喜欢笛子<br>2018-12-13 23:11<br>赞(2) 踩(0) | <div>这是周深的啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40017973)<br>越反越爱<br>2018-12-13 10:28<br>赞(0) 踩(0) | <div>N刷喰种想找个能听得翻唱，翻到这首歌听到第一句想哭，这样就好了之前的确听过周深的版本，还不错，但是听到这个版本更开心有些玻璃心的，好歹看看别人评论的时间好不好，是最近才换的音源另外跟不看动漫的争论个屁，好好听歌不行吗，非得什么时候虾米发现了bug换回去你们就满意了？真是不懂你们的脑回路，闭嘴听歌ok？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40017973)<br>越反越爱<br>2018-12-13 10:28<br>赞(0) 踩(0) | <div>N刷喰种想找个能听得翻唱，翻到这首歌听到第一句想哭，这样就好了<br>之前的确听过周深的版本，还不错，但是听到这个版本更开心<br>有些玻璃心的，好歹看看别人评论的时间好不好，是最近才换的音源<br>另外跟不看动漫的争论个屁，好好听歌不行吗，非得什么时候虾米发现了bug换回去你们就满意了？<br>真是不懂你们的脑回路，闭嘴听歌ok？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406711005)<br><br>2018-12-16 15:41<br>赞(0) 踩(0) | <div>真换回去了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40017973)<br>越反越爱<br>2018-12-17 04:08<br>赞(0) 踩(0) | <div><q><b>千仞说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410409625)<br><br>2018-12-12 18:10<br>赞(1) 踩(0) | <div>为什么变声了</div> |
@@ -621,9 +621,9 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410081695)<br><br>2018-12-08 22:57<br>赞(0) 踩(0) | <div>原唱吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334548344)<br>啧<br>2018-12-08 22:48<br>赞(0) 踩(0) | <div>不过也好，终于有整的了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334548344)<br>啧<br>2018-12-08 22:47<br>赞(0) 踩(0) | <div>这绝对是原唱啊，难道是怕过不了？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410217077)<br><br>2018-12-08 21:56<br>赞(4) 踩(0) | <div>以深深的声线怎么发出“unraveling the world”这样的嘶喊？就算发出了也绝对不可能跟原唱一模一样？【不接受任何反驳我专门拿了别的手机把unravel音源跟这首同步播放完全重合】歌手写周深也许是因为官方为了防止被广电局和谐，本意是好的我也很开心还能找到这首歌，但是一群人在底下信以为真觉得是周深唱的就不可饶恕了。我是在百度上找unravel罗马音时无意看到了这首歌，想着深深居然翻唱了点开来听，发现是原唱后看看评论，我以为评论里面肯定全都是“这是原唱吧”“这不是深深唱的”这样的评论，结果让我大吃一惊，特意下载了虾米音乐注册账号来评论的，这种事真的触碰到我的底线，不可饶恕！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410217077)<br><br>2018-12-08 21:44<br>赞(2) 踩(0) | <div>看到评论有人说还是喜欢原唱，还有人夸周深翻唱的好听（并不是对周深有敌意我很喜欢他），还有的人怼那些说难听的，我真感到难过。作为一个喰种超级多年的粉丝，我已经把这首歌循环了几年了，看过东京喰种的应该听到这首歌第一句出来就知道这是原版吧？我用人头担保。。。。。居然还有人说更喜欢原唱？？您是耳聋吗还是怎么地，既然喜欢原唱那原唱摆在你面前换个名字你就不认得了？？只有原唱才能完美的表现出金木的痛苦挣扎对这个扭曲的世界的绝望，一听就知了。。。。而还有人说结尾有些不一样所以不是原唱，哈哈哈原谅我，我认为再怎么像也不可能一模一样吧？何况凛时雨唱unravel本来就有很多版本，你能保证每一个有一模一样吗？</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40017973)<br>越反越爱<br>2018-12-13 10:25<br>赞(0) 踩(0) | <div>把原唱放出来还惹到你们了吗之前听过周深的版本，那天N刷喰种的时候找歌，明明知道没有，想找个能听的翻唱，听到这首第一句就感动的不行跟不看动漫的人说个什么劲儿，虾米反应过来换了正常的音轨你们就开心了？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410217077)<br><br>2018-12-08 21:56<br>赞(4) 踩(0) | <div>以深深的声线怎么发出“unraveling the world”这样的嘶喊？就算发出了也绝对不可能跟原唱一模一样？【不接受任何反驳我专门拿了别的手机把unravel音源跟这首同步播放完全重合】<br><br>歌手写周深也许是因为官方为了防止被广电局和谐，本意是好的我也很开心还能找到这首歌，但是一群人在底下信以为真觉得是周深唱的就不可饶恕了。<br><br>我是在百度上找unravel罗马音时无意看到了这首歌，想着深深居然翻唱了点开来听，发现是原唱后看看评论，我以为评论里面肯定全都是“这是原唱吧”“这不是深深唱的”这样的评论，结果让我大吃一惊，特意下载了虾米音乐注册账号来评论的，这种事真的触碰到我的底线，不可饶恕！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410217077)<br><br>2018-12-08 21:44<br>赞(2) 踩(0) | <div>看到评论有人说还是喜欢原唱，还有人夸周深翻唱的好听（并不是对周深有敌意我很喜欢他），还有的人怼那些说难听的，我真感到难过。<br>作为一个喰种超级多年的粉丝，我已经把这首歌循环了几年了，看过东京喰种的应该听到这首歌第一句出来就知道这是原版吧？我用人头担保。。。。。居然还有人说更喜欢原唱？？您是耳聋吗还是怎么地，既然喜欢原唱那原唱摆在你面前换个名字你就不认得了？？<br>只有原唱才能完美的表现出金木的痛苦挣扎对这个扭曲的世界的绝望，一听就知了。。。。而还有人说结尾有些不一样所以不是原唱，哈哈哈原谅我，我认为再怎么像也不可能一模一样吧？何况凛时雨唱unravel本来就有很多版本，你能保证每一个有一模一样吗？</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40017973)<br>越反越爱<br>2018-12-13 10:25<br>赞(0) 踩(0) | <div>把原唱放出来还惹到你们了吗<br>之前听过周深的版本，那天N刷喰种的时候找歌，明明知道没有，想找个能听的翻唱，听到这首第一句就感动的不行<br>跟不看动漫的人说个什么劲儿，虾米反应过来换了正常的音轨你们就开心了？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354164582)<br><br>2018-12-08 19:32<br>赞(0) 踩(0) | <div>封面好帅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210791882)<br>我爱你<br>2018-12-08 17:36<br>赞(0) 踩(0) | <div>是周深翻唱的 是因为唱的太好 才觉得是原唱</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410217077)<br><br>2018-12-08 21:31<br>赞(0) 踩(0) | <div>对不起，作为一个东京喰种多年粉丝并以喰种作为信仰的人告诉你，我用人头担保这是原唱</div> |
@@ -669,7 +669,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409661816)<br>what do you？<br>2018-12-05 18:09<br>赞(3) 踩(0) | <div>这虾米也太皮了吧，比搞事神七还搞事情呢！怎么变成原唱了！想听的朋友快点来，这首歌要被禁了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409452714)<br>Maybe I've e...<br>2018-12-05 12:32<br>赞(1) 踩(0) | <div>回来了。变成时雨了。哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298712728)<br><br>2018-12-05 10:03<br>赞(0) 踩(0) | <div>这和我当年看动漫的时候听的原版一毛一样啊…不是周深大大的声音吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409910987)<br><br>2018-12-05 09:11<br>赞(4) 踩(0) | <div>Unravel - 东京喰种op哦洗黑带哦 洗黑带哟 搜诺 洗库米four 不哭no那卡尼 他雷哥一路诺库瓦雷大古 瓦雷大有 口诺 C嘎一忒 Kimi哭哇呢呼 那蜜木蜜儿字迷库瓦雷达 不哭那忒搜 一给吴都没忒 后豆K耐一 摸 后豆K乃哟 信几次撒哎 Freeze库哇塞路 库哇噻乃 库奴未路 库奴未乃 库那特鲁 一次哎开忒有泪Z哟 干达C盖你 达达古跨 死给豆我dei 米黑达那dei 一字该那一dei 不哭no勾豆网密字眉奈dei 有来克给 哦盖达C 该no那个dei 哦那可莫 给瑟斯给 带古哇那哟哦不与给dei 不古弄勾豆网 哈在嘎呐呐忙木杆摁你给 喽个路个 豆勾嘎嘎拉马路</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409910987)<br><br>2018-12-05 09:11<br>赞(4) 踩(0) | <div>Unravel - 东京喰种op<br>哦洗黑带哦 洗黑带哟 搜诺 洗库米four 不哭no那卡尼 他雷哥一路诺<br>库瓦雷大古 瓦雷大有 口诺 C嘎一忒 Kimi哭哇呢呼 那蜜木蜜儿字迷<br>库瓦雷达 不哭那忒搜 一给吴都没忒 后豆K耐一 摸 后豆K乃哟 信几次撒哎 Freeze<br>库哇塞路 库哇噻乃 库奴未路 库奴未乃 库那特鲁 一次哎开忒<br>有泪Z哟 干达C盖你 达达古跨 死给豆我dei 米黑达那dei 一字该那一dei 不哭no勾豆网<br>密字眉奈dei 有来克给 哦盖达C 该no那个dei 哦那可莫 给瑟斯给 带古哇那哟<br>哦不与给dei 不古弄勾豆网 哈在嘎呐呐忙<br>木杆摁你给 喽个路个 豆勾嘎嘎拉马路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331240463)<br><br>2018-12-05 01:46<br>赞(2) 踩(0) | <div>这，变成原唱的啦，虾米又搞事了，赶紧下载吧，不然就没了 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401355992)<br><br>2018-12-05 00:07<br>赞(2) 踩(0) | <div>听起来好像原唱，但是听原唱的一对比立刻就有差别了，单独听很像</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409960245)<br><br>2018-12-04 21:39<br>赞(1) 踩(0) | <div>能打出喰字的才是东京食尸鬼的真粉</div> |
@@ -724,15 +724,15 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362855965)<br><br>2018-12-02 22:57<br>赞(0) 踩(0) | <div>You are a super listener!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409848229)<br><br>2018-12-02 22:56<br>赞(2) 踩(0) | <div>这就是原唱化成灰也能听出来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404156501)<br>YA-！！！HA-！！！<br>2018-12-02 17:44<br>赞(3) 踩(0) | <div>前段时间这首歌还不是这个声音呐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337639213)<br><br>2018-12-02 17:07<br>赞(3) 踩(0) | <div>如果有一天，我变坏了请记得，我曾经善良过如果有一天，我变冷漠了请记得，我曾经也被冷漠过如果有一天，我变得目中无人了请记得，曾经也没有人把我放在眼里如果有一天，我不会在乎任何事请记得，曾经也没有人在乎过我如果有一天，我不再喜欢笑了请记得，曾经没有人问我快不快乐如果有一天，我不再关心任何人了请记得，一直以来都是我一个人哭一个人笑如果有一天，我对一切都绝望了请记得，我曾经得到的都是失望如果有一天，讥讽我的颓废请记得，我一直经历了怎样的疲惫如果有一天，你都可悲我的堕落请记得，我的自信是怎样被磨灭的如果有一天，我变得不再善良请记得，从前就是因为我的善良而总是伤痕累累</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337639213)<br><br>2018-12-02 16:48<br>赞(2) 踩(0) | <div>我再也不想变回那个无能为力的自己了。&amp;mdash;&amp;mdash;金木研东京食尸鬼7829错的人不是我，是这个世界。&amp;mdash;&amp;mdash;金木研东京食尸鬼96715来到这个世界，就算是天使也会变坏的。金木研东京食尸鬼60811这世上所有的不利状况，都是当事者能力不足导致的。金木研东京食尸鬼5565正义的一方，无论做多么卑鄙的事，都可以被原谅。金木研东京食尸鬼46220所有不利情况的出现，都是因为当事者能力不足导致的。金木研东京食尸鬼3641没有光明是不幸的吗？需要光明才是真正的不幸。金木研</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337639213)<br><br>2018-12-02 17:07<br>赞(3) 踩(0) | <div>如果有一天，我变坏了<br>请记得，我曾经善良过<br>如果有一天，我变冷漠了<br>请记得，我曾经也被冷漠过<br>如果有一天，我变得目中无人了<br>请记得，曾经也没有人把我放在眼里<br>如果有一天，我不会在乎任何事<br>请记得，曾经也没有人在乎过我<br>如果有一天，我不再喜欢笑了<br>请记得，曾经没有人问我快不快乐<br>如果有一天，我不再关心任何人了<br>请记得，一直以来都是我一个人哭一个人笑<br>如果有一天，我对一切都绝望了<br>请记得，我曾经得到的都是失望<br>如果有一天，讥讽我的颓废<br>请记得，我一直经历了怎样的疲惫<br>如果有一天，你都可悲我的堕落<br>请记得，我的自信是怎样被磨灭的<br>如果有一天，我变得不再善良<br>请记得，从前就是因为我的善良而总是伤痕累累</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337639213)<br><br>2018-12-02 16:48<br>赞(2) 踩(0) | <div>我再也不想变回那个无能为力的自己了。<br><br>&amp;mdash;&amp;mdash;金木研<br><br>东京食尸鬼<br><br>7829<br>错的人不是我，是这个世界。<br><br>&amp;mdash;&amp;mdash;金木研<br><br>东京食尸鬼<br><br>96715<br>来到这个世界，就算是天使也会变坏的。<br><br>金木研<br><br>东京食尸鬼<br><br>60811<br>这世上所有的不利状况，都是当事者能力不足导致的。<br><br>金木研<br><br>东京食尸鬼<br><br>5565<br>正义的一方，无论做多么卑鄙的事，都可以被原谅。<br><br>金木研<br><br>东京食尸鬼<br><br>46220<br>所有不利情况的出现，都是因为当事者能力不足导致的。<br><br>金木研<br><br>东京食尸鬼<br><br>3641<br>没有光明是不幸的吗？需要光明才是真正的不幸。<br><br>金木研</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409812910)<br><br>2018-12-02 16:44<br>赞(0) 踩(0) | <div>才知道虾米有这个歌，专门下的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260005958)<br>我还没想好要写什么...<br>2018-12-02 14:45<br>赞(1) 踩(0) | <div>怎么回事，这首歌我收藏了好久了，之前听和现在听不是一个声音？？现在更像原唱哎.......难道是为了躲避审核？ <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274479829)<br><br>2018-12-02 13:15<br>赞(0) 踩(0) | <div>谢谢周深谢谢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409785838)<br><br>2018-12-02 12:48<br>赞(0) 踩(0) | <div>谢谢你，周深。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409795338)<br><br>2018-12-02 10:22<br>赞(1) 踩(0) | <div>请问。这里的图能。。收藏吗！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409768905)<br><br>2018-12-02 04:46<br>赞(1) 踩(0) | <div>就是原唱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378492708)<br><br>2018-12-02 04:06<br>赞(1) 踩(0) | <div>歌词错了，高声嘶吼那里英文是unravel   ghost</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378492708)<br><br>2018-12-02 04:06<br>赞(1) 踩(0) | <div>歌词错了，高声嘶吼那里英文是<br>unravel   ghost</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337646499)<br><br>2018-12-02 02:36<br>赞(0) 踩(0) | <div>这个一听这是原唱吧，TK的音色和周深的区别很大啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404843702)<br><br>2018-12-01 21:39<br>赞(1) 踩(0) | <div>如果真是周深唱的，那就了！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375113882)<br>Just Music<br>2018-12-01 18:31<br>赞(1) 踩(0) | <div>这原唱吧～～</div> |
@@ -764,7 +764,7 @@ unravelling the world<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20085866)<br>浮生若梦，梦里不知<br>2018-12-15 22:14<br>赞(0) 踩(0) | <div>以前可能系统bug，这是周深的声音，不知道之前怎么回事，估计现在换回来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409475770)<br><br>2018-12-01 09:14<br>赞(5) 踩(0) | <div>这好像是原唱吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409541416)<br><br>2018-12-01 08:55<br>赞(5) 踩(0) | <div>这不是周深唱的吧。。。是原唱吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124618212)<br>范冰冰的小老公<br>2018-12-01 00:13<br>赞(6) 踩(0) | <div>这是原唱的，怕被封写了周深，周深也翻唱过。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124618212)<br>范冰冰的小老公<br>2018-12-01 00:13<br>赞(6) 踩(0) | <div>这是<br>原唱的，怕被封写了周深，周深也翻唱过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409526890)<br><br>2018-11-30 20:35<br>赞(5) 踩(0) | <div>这就是原板</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409413507)<br><br>2018-11-30 17:49<br>赞(5) 踩(0) | <div>深迷表示以前听的时候确实是周深翻唱的这首歌，但不知道为什么会变成原唱，可能是其他人上传的，怕被封所以演唱者才会写周深，周深的声音很有特点，这不是他唱的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404579925)<br>欢迎来到我的空间之旅为了...<br>2018-11-30 17:18<br>赞(1) 踩(0) | <div>好听我都哭了。</div> |
@@ -902,7 +902,7 @@ unravelling the world<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420870007)<br><br>2019-03-10 20:56<br>赞(0) 踩(0) | <div>是周深唱的，b站有视频</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410273320)<br><br>2019-03-12 08:02<br>赞(0) 踩(0) | <div>有一点变</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421477724)<br><br>2019-03-20 13:04<br>赞(0) 踩(0) | <div>是深深唱的啦 听声音可以听出来</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409488806)<br><br>2019-03-27 14:31<br>赞(0) 踩(0) | <div>原唱怎么会连有些发音都不准呢还有些地方周深大大还有些小抖音</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409488806)<br><br>2019-03-27 14:31<br>赞(0) 踩(0) | <div>原唱怎么会连有些发音都不准呢<br>还有些地方周深大大还有些小抖音</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422769766)<br><br>2019-04-03 11:47<br>赞(0) 踩(0) | <div>不一样，原唱是日本男的，这位是中国女性，不过她是翻唱里最好的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263641902)<br><br>2019-04-04 19:04<br>赞(0) 踩(0) | <div>不是原唱</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423285830)<br><br>2019-04-14 16:24<br>赞(0) 踩(0) | <div>一点也不像</div> |
@@ -1063,7 +1063,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380260039)<br><br>2018-09-07 15:47<br>赞(0) 踩(0) | <div>路转粉！有品位的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403586437)<br><br>2018-09-06 17:09<br>赞(0) 踩(0) | <div>本来想哼两下这首歌的，没想到喉咙跟不上。唱了两天发炎了。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403586437)<br><br>2018-09-06 17:08<br>赞(0) 踩(0) | <div>本来想哼两首这首歌的，没想到喉咙跟不上。唱着唱着，喉咙发炎了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330527184)<br>眼见的，未必为实。<br>2018-09-03 05:37<br>赞(4) 踩(0) | <div>虽然唱得不如原唱的正宗，但是周深已经努力了。而且，一个中国人唱日语的歌已经很不容易了，就好比一个日本人唱中国的&amp;ldquo;中国话&amp;rdquo;。你们要是嫌弃周深唱的不好，就赶紧的走人吧。我觉得，努力就好，不必要唱得和原唱一样（我朋友试过唱这首歌，但是，他...........尝试了半年都唱不好。）这首歌不容易。我觉得原唱的好听，但是这一首也很好听啊。我不和你们多bb了，我再听十遍后再说吧。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330527184)<br>眼见的，未必为实。<br>2018-09-03 05:37<br>赞(4) 踩(0) | <div>虽然唱得不如原唱的正宗，但是周深已经努力了。而且，一个中国人唱日语的歌已经很不容易了，就好比一个日本人唱中国的&amp;ldquo;中国话&amp;rdquo;。<br>你们要是嫌弃周深唱的不好，就赶紧的走人吧。我觉得，努力就好，不必要唱得和原唱一样（我朋友试过唱这首歌，但是，他...........尝试了半年都唱不好。）这首歌不容易。我觉得原唱的好听，但是这一首也很好听啊。<br>我不和你们多bb了，我再听十遍后再说吧。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362388667)<br>我爱二次元，⊙∀⊙！<br>2018-11-15 18:09<br>赞(0) 踩(0) | <div>难道就不能评价一下吗？使得一些周深的脑残粉以为翻唱多好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378026560)<br>错的不是我，错的是这个世...<br>2018-09-01 21:55<br>赞(2) 踩(0) | <div>只要是东京食尸鬼的歌我都喜欢。不会在意是谁唱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400912060)<br>我不是看不见，是只能看见...<br>2018-09-01 06:55<br>赞(0) 踩(0) | <div>也是不错了</div> |
@@ -1107,9 +1107,9 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401722128)<br><br>2018-08-16 04:23<br>赞(0) 踩(0) | <div>哭了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401535420)<br>曲终人不散<br>2018-08-14 20:49<br>赞(2) 踩(0) | <div>993，986，979，972&amp;hellip;&amp;hellip;看过东京喰种的都知道意思吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401495350)<br><br>2018-08-14 16:53<br>赞(1) 踩(0) | <div>有的听就不错了，其他根本就听不了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252064265)<br><br>2018-08-14 08:25<br>赞(0) 踩(0) | <div>五月天粉丝，有一天刷到了女声版好好，瞬间有多了个偶像大鱼好好还有这首循环播放都听不够&amp;rarr;_&amp;rarr;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252064265)<br><br>2018-08-14 08:25<br>赞(0) 踩(0) | <div>五月天粉丝，有一天刷到了女声版好好，瞬间有多了个偶像<br>大鱼<br>好好<br>还有这首循环播放都听不够&amp;rarr;_&amp;rarr;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401492484)<br><br>2018-08-13 22:46<br>赞(0) 踩(0) | <div>恶心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322729934)<br>我还真是糟糕<br>2018-08-13 17:23<br>赞(0) 踩(0) | <div>恕我直言，没感觉呢 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png">瞎改音和声调，没唱出真正的爆发式音调，不是长得好看或者声音大就是好听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322729934)<br>我还真是糟糕<br>2018-08-13 17:23<br>赞(0) 踩(0) | <div>恕我直言，没感觉呢 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"><br>瞎改音和声调，没唱出真正的爆发式音调，不是长得好看或者声音大就是好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80827968)<br>*。٩(ˊωˋ*)و✧<br>2018-08-13 14:16<br>赞(0) 踩(0) | <div>这里还有，终于找到了 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192967754)<br><br>2018-08-12 18:51<br>赞(0) 踩(0) | <div>天啊！真的是周深吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401152651)<br><br>2018-08-11 09:48<br>赞(1) 踩(0) | <div>能翻唱出来，还唱得那么好！我们应该要尊重别人，而不是&amp;hellip;&amp;hellip;&amp;hellip;</div> |
@@ -1249,7 +1249,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355199972)<br>热爱喰种<br>2018-06-19 18:54<br>赞(4) 踩(0) | <div>翻来翻去，还是找不到什么其他版本的，又听了听那个电音的，还是觉得这个好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274386112)<br><br>2018-06-19 11:18<br>赞(3) 踩(0) | <div>高音真的(//&amp;nabla;//)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347751913)<br>要走就走吧！<br>2018-06-17 20:20<br>赞(3) 踩(0) | <div>默默支持原唱，也不反对翻唱，只是更喜欢原唱，毕竟原滋原味的才有看小天使的感觉 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375394030)<br><br>2018-06-17 14:18<br>赞(82) 踩(0) | <div>拜托了原唱就是爸爸 翻唱的再好听也只是唱别人唱过的歌 说好听点是翻唱 难听点就纯属蹭热度在翻唱底下说原唱不好听的人脑子怎么想的 没有原唱爸爸会有人去翻唱嘛？一看评论一群喜欢周深的人说原唱难听就觉得周深及其粉丝恶心到爆 超想打爆你们狗头原本还觉得周深这翻唱的还挺好听？？抱歉我站原唱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375394030)<br><br>2018-06-17 14:18<br>赞(82) 踩(0) | <div>拜托了原唱就是爸爸 翻唱的再好听也只是唱别人唱过的歌 说好听点是翻唱 难听点就纯属蹭热度<br>在翻唱底下说原唱不好听的人脑子怎么想的 没有原唱爸爸会有人去翻唱嘛？<br>一看评论一群喜欢周深的人说原唱难听就觉得周深及其粉丝恶心到爆 超想打爆你们狗头<br>原本还觉得周深这翻唱的还挺好听？？<br>抱歉我站原唱</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376055953)<br><br>2018-06-18 12:11<br>赞(0) 踩(0) | <div>抱歉你看清楚再说话，周深的粉丝没说比原唱好听，只是说那个在下面说原唱好听的到原唱的下面评论去。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356426689)<br><br>2018-06-21 19:47<br>赞(0) 踩(0) | <div>有人说原唱难听？你不要太过激动了好伐</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9019534)<br><br>2018-06-21 20:10<br>赞(0) 踩(0) | <div>明明都在骂翻唱&amp;hellip;&amp;hellip;你不要颠倒是非</div> |
@@ -1296,7 +1296,7 @@ unravelling the world<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356426689)<br><br>2018-06-21 19:49<br>赞(0) 踩(0) | <div>听就听，别说这些打击人的话ok?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375006161)<br><br>2018-06-08 13:30<br>赞(2) 踩(0) | <div>可以的，好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374758075)<br><br>2018-06-05 23:03<br>赞(2) 踩(0) | <div>真的好听，喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49245085)<br>余生皆假期<br>2018-06-05 21:18<br>赞(1) 踩(0) | <div>很好听的虽然后面有些发音不太准但是声音真的好听啊，有些小瑕疵又有什么况且人家有翻唱的勇气</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49245085)<br>余生皆假期<br>2018-06-05 21:18<br>赞(1) 踩(0) | <div>很好听的<br>虽然后面有些发音不太准<br>但是声音真的好听啊，有些小瑕疵又有什么<br>况且人家有翻唱的勇气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374604632)<br><br>2018-06-04 11:34<br>赞(3) 踩(0) | <div>我有个壁纸就是这首歌，还是女版的，不过这首歌听到中间部分有点怪怪的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374406472)<br><br>2018-06-03 15:02<br>赞(2) 踩(0) | <div>女音大佬很厉害了，佩服</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365591601)<br><br>2018-06-03 13:41<br>赞(2) 踩(0) | <div>唱的真垃圾，还不让人说 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -1356,7 +1356,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367721529)<br><br>2018-05-16 05:56<br>赞(1) 踩(0) | <div>什么？你们竟然说是男的？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340605021)<br><br>2018-05-15 18:57<br>赞(1) 踩(0) | <div>可以的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366882758)<br><br>2018-05-13 21:28<br>赞(1) 踩(0) | <div>不吹不黑，真的好听，独特的嗓音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361870492)<br><br>2018-05-13 07:52<br>赞(2) 踩(0) | <div>好听，就是歌词不太一样有些歌词有好几种翻译</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361870492)<br><br>2018-05-13 07:52<br>赞(2) 踩(0) | <div>好听，就是歌词不太一样<br>有些歌词有好几种翻译</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335871290)<br><br>2018-05-11 14:49<br>赞(3) 踩(0) | <div>这首歌很少有女生能放开唱，周深绝对是女生里唱的最好的（我没弯，绝对没有！）</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365818888)<br><br>2018-05-11 16:30<br>赞(0) 踩(0) | <div>em。。周深是男的，唱过大鱼海棠哒</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311744768)<br><br>2018-05-12 10:41<br>赞(0) 踩(0) | <div>周深不是男的么。</div> |
@@ -1426,7 +1426,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342265995)<br><br>2018-04-16 13:19<br>赞(0) 踩(0) | <div>j</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354269868)<br><br>2018-04-16 00:41<br>赞(2) 踩(0) | <div>唱得不错啊 搞不懂你们在酸什么ww</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343104292)<br>独，灵，诚，净，铭身之画<br>2018-04-15 11:17<br>赞(1) 踩(0) | <div>别有一番风味啊，若不是唱不动这首歌，我也想试试了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346547566)<br>爱你<br>2018-04-14 11:41<br>赞(15) 踩(0) | <div>想一起讨论东京食尸鬼的可以加群：726889506群公告有去哪看第三季的内容喔。新群，想找多些人一起热聊～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346547566)<br>爱你<br>2018-04-14 11:41<br>赞(15) 踩(0) | <div>想一起讨论东京食尸鬼的可以加群：726889506<br>群公告有去哪看第三季的内容喔。<br>新群，想找多些人一起热聊～</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266454408)<br><br>2018-05-29 21:11<br>赞(0) 踩(0) | <div>没有啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374371191)<br><br>2018-06-02 17:30<br>赞(0) 踩(0) | <div>我知道</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355199972)<br>热爱喰种<br>2018-06-19 19:03<br>赞(0) 踩(0) | <div>微信还是QQ</div> |
@@ -1512,7 +1512,7 @@ unravelling the world<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356435940)<br><br>2018-05-01 15:55<br>赞(0) 踩(0) | <div>呵呵，你唱的好听你倒是唱啊？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297048977)<br> <br>2018-04-01 19:52<br>赞(0) 踩(0) | <div>厉害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339741241)<br><br>2018-04-01 10:05<br>赞(0) 踩(0) | <div>震撼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356309125)<br><br>2018-04-01 08:50<br>赞(1) 踩(0) | <div>呵呵，我们只是客观评论的，谁也挨不着谁我觉得好就好评，觉得差就差评各有各的品味</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356309125)<br><br>2018-04-01 08:50<br>赞(1) 踩(0) | <div>呵呵，我们只是客观评论的，谁也挨不着谁<br>我觉得好就好评，觉得差就差评<br>各有各的品味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356270599)<br>挚爱建利一生<br>2018-03-31 23:51<br>赞(1) 踩(0) | <div>支持</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42062635)<br>我还没想好要写什么...<br>2018-03-31 23:49<br>赞(3) 踩(0) | <div>我的天，他的嗓子被天使吻过吗？！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355628131)<br><br>2018-03-31 00:30<br>赞(0) 踩(0) | <div>不会唱的没用说别人的权利</div> |
@@ -1578,7 +1578,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49096621)<br><br>2018-02-24 20:24<br>赞(1) 踩(0) | <div>超好听滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351415380)<br>告诉我，告诉我，到底是谁...<br>2018-02-23 14:15<br>赞(1) 踩(0) | <div>能有这样的爆发力很不错了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351779278)<br><br>2018-02-22 12:49<br>赞(1) 踩(0) | <div>那念东京喰种谢谢。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351390685)<br><br>2018-02-20 20:11<br>赞(6) 踩(0) | <div>虽然这是仅存的的一首『unravel』，但是我不得不说差。1.有些唱高调的不唱或唱不好2.由于第1个原因直接导致的第2个原因唱着唱着这首歌，唱的情调就像深夜的自我反省3.还有些音会唱错4.『我相信你们一定会说，我说的这么厉害，为什么我，不来唱呢』对不对？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351390685)<br><br>2018-02-20 20:11<br>赞(6) 踩(0) | <div>虽然这是仅存的的一首『unravel』，但是我不得不说差。<br>1.有些唱高调的不唱或唱不好<br>2.由于第1个原因直接导致的第2个原因唱着唱着这首歌，唱的情调就像深夜的自我反省<br>3.还有些音会唱错<br>4.『我相信你们一定会说，我说的这么厉害，为什么我，不来唱呢』对不对？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355372768)<br><br>2018-03-26 14:28<br>赞(0) 踩(0) | <div>额，能唱出这样已经不错了，我最近学习的日语应用在这里感觉音有些不对，但是，中国人讲日语音肯定不同啊！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351390685)<br><br>2018-04-17 19:37<br>赞(0) 踩(0) | <div><q><b>cc -y说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351503257)<br>专业卖‘屁股’赶紧抱住虾...<br>2018-02-20 17:11<br>赞(0) 踩(0) | <div>听着歌，背后凉凉的</div> |
@@ -1603,7 +1603,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346779635)<br><br>2018-02-13 18:41<br>赞(1) 踩(0) | <div>有木有这个版本的原版</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351205809)<br><br>2018-03-18 23:07<br>赞(0) 踩(0) | <div>有啊 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213808896)<br><br>2018-02-13 14:14<br>赞(0) 踩(0) | <div>啊啊啊啊！是唱大鱼的那个人吗！？我家金木的歌不好唱吧~不过还是蛮好听的！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289099149)<br>许你一世安然无恙<br>2018-02-12 10:06<br>赞(1) 踩(0) | <div>you can you upno can no bb</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289099149)<br>许你一世安然无恙<br>2018-02-12 10:06<br>赞(1) 踩(0) | <div>you can you up<br>no can no bb</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349570819)<br><br>2018-02-11 11:16<br>赞(1) 踩(0) | <div>错的不是我，而是这个世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349340619)<br><br>2018-02-10 19:25<br>赞(2) 踩(0) | <div>你们喜欢东京食尸鬼吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213808896)<br><br>2018-02-13 14:14<br>赞(0) 踩(0) | <div>我我我！</div> |
@@ -1715,7 +1715,7 @@ unravelling the world<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86001380)<br><br>2018-07-18 21:03<br>赞(0) 踩(0) | <div><q><b>君莫笑说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306493610)<br><br>2018-07-19 08:48<br>赞(0) 踩(0) | <div><q><b>君莫笑说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354305675)<br><br>2018-07-20 09:38<br>赞(0) 踩(0) | <div>喰 这个字不是多音字吗</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379585412)<br><br>2018-07-24 18:35<br>赞(0) 踩(0) | <div>不要侮辱东京喰种，他读&amp;ldquo;喰（can）&amp;rdquo;不是&amp;ldquo;食&amp;rdquo;</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379585412)<br><br>2018-07-24 18:35<br>赞(0) 踩(0) | <div>不要侮辱东京喰种，他读&amp;ldquo;喰（can）&amp;rdquo;<br>不是&amp;ldquo;食&amp;rdquo;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378601539)<br><br>2018-07-30 12:10<br>赞(0) 踩(0) | <div>的确，各有各的风格，别不喜欢就难听</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380185799)<br><br>2018-07-30 22:06<br>赞(0) 踩(0) | <div>can喰。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400835737)<br><br>2018-08-09 11:46<br>赞(0) 踩(0) | <div>你连喰种都不会念。。。</div> |
@@ -1833,7 +1833,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343158377)<br><br>2018-01-08 21:46<br>赞(2) 踩(0) | <div>那么好听，又看的动漫为什么停播！ <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325281424)<br><br>2018-01-07 18:34<br>赞(2) 踩(0) | <div>金木好帅的，虽然禁播了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338170296)<br><br>2018-01-07 18:33<br>赞(1) 踩(0) | <div>三季，今年出哦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338170296)<br><br>2018-01-07 18:32<br>赞(0) 踩(0) | <div>我洗海带我洗海带哟，洗还带哟</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338170296)<br><br>2018-01-07 18:32<br>赞(0) 踩(0) | <div>我洗海带<br>我洗海带哟，洗还带哟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343192660)<br>为金木大大疯狂打call...<br>2018-01-07 01:12<br>赞(0) 踩(0) | <div>(*￣3￣)╭♡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343467324)<br><br>2018-01-06 17:36<br>赞(2) 踩(0) | <div>好像没有原唱好听，但是能这样已经很不错了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343395155)<br><br>2018-01-06 10:33<br>赞(0) 踩(0) | <div>原唱好听</div> |
@@ -1956,7 +1956,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334395983)<br><br>2017-11-11 10:26<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11218192)<br>？？？？？<br>2017-11-10 11:45<br>赞(10) 踩(0) | <div>真的唱得好 发音也准</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330390061)<br><br>2017-11-06 09:06<br>赞(1) 踩(0) | <div>我的天啊！这也太好听了吧！！日语太棒了吧！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294059047)<br><br>2017-11-05 22:26<br>赞(20) 踩(0) | <div>现在东京食尸鬼已经停播了，好不容易才有一首unravel,你不喜欢听我们也没有让你听，那只能说明你们这些人的听歌品味很垃圾，我们喜欢听怎么了，你不听拉倒，你们有个屁资格说深深，艹，我在虾米音乐里面把所有的unravel都听了一遍，结果出来第一个不是伴奏，其他都他妈是伴奏，好不容易有一个完整版的，你不听就滚，不要打扰老子！(你和你们是指那些黑粉)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294059047)<br><br>2017-11-05 22:26<br>赞(20) 踩(0) | <div>现在东京食尸鬼已经停播了，好不容易才有一首unravel,你不喜欢听我们也没有让你听，那只能说明你们这些人的听歌品味很垃圾，我们喜欢听怎么了，你不听拉倒，你们有个屁资格说深深，艹<br>，我在虾米音乐里面把所有的unravel都听了一遍，结果出来第一个不是伴奏，其他都他妈是伴奏，好不容易有一个完整版的，你不听就滚，不要打扰老子！(你和你们是指那些黑粉)</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338342597)<br><br>2017-12-02 23:26<br>赞(0) 踩(0) | <div>新世界动漫还能看的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340404071)<br><br>2017-12-17 21:39<br>赞(0) 踩(0) | <div>风车</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351205809)<br><br>2018-03-18 22:59<br>赞(0) 踩(0) | <div>我还是照样听照样看的 <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
@@ -1969,7 +1969,7 @@ unravelling the world<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356029739)<br>好希望下辈子做一个东京喰...<br>2019-02-18 14:33<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290086610)<br><br>2019-08-04 17:12<br>赞(0) 踩(0) | <div>现在不是出原唱了？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290169129)<br><br>2017-11-05 16:25<br>赞(1) 踩(0) | <div>听着胳膊还是有起鸡皮疙瘩，，不同的感觉呢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287634472)<br>我还没想好要写什么...<br>2017-11-05 13:28<br>赞(11) 踩(0) | <div>这首可能算是虾米最完整的一首unravel了 ，好像原版的已经找不到完整版了，但是，我深姐(其实是蓝孩纸)唱的好好听，简直，唱啥都难不倒啊~ <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png">unravel是我最喜欢的一首歌，没有之一!!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287634472)<br>我还没想好要写什么...<br>2017-11-05 13:28<br>赞(11) 踩(0) | <div>这首可能算是虾米最完整的一首unravel了 ，好像原版的已经找不到完整版了，但是，我深姐(其实是蓝孩纸)唱的好好听，简直，唱啥都难不倒啊~ <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"><br>unravel是我最喜欢的一首歌，没有之一!!</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294059047)<br><br>2017-11-05 22:28<br>赞(0) 踩(0) | <div>我全部都听了一遍，听了一上午，结果的他妈是伴奏，气死老子了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294059047)<br><br>2017-11-05 22:29<br>赞(0) 踩(0) | <div>全部都是！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287634472)<br>我还没想好要写什么...<br>2017-11-07 07:01<br>赞(0) 踩(0) | <div><q><b>伪装❤以※成说：</b></q></div> |
@@ -1992,7 +1992,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50485834)<br> <br>2017-10-17 23:31<br>赞(0) 踩(0) | <div>周深？！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330547706)<br><br>2017-10-17 09:50<br>赞(0) 踩(0) | <div>喜欢，很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330100559)<br><br>2017-10-15 10:12<br>赞(141) 踩(0) | <div>内容已删除</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255186564)<br>如果以超越光的速度是否可...<br>2017-11-15 12:00<br>赞(0) 踩(0) | <div>卡瓦可耐 洗么个大 卡户儿嘞 那嘎拉达 搜达斯古 嘎拉木奴 户大累嘎 奥老该no 嘎瓦塞no 嘎瓦萨耐 扣吴路奴 扣吴路耐 啊那得瓦 有我C那呦 额来带有那谁嘎一嘎大no瓦 泽gi哥啊dei一耶额那dei  一泽gi耐给  吴哭都可no我 一组美那ei dei  大了可dei西哥那顾都可那瓦内  米来嘎后都可内洗马瓦那尼  额我一给dei   莫哭no高都网  额在有他拉麻麻  额杀有难dei哥我带西马大可都你开来  哥哎拉因来靠的in大sir开来  额我因给dei  不哭那的都网~~~洗黑dei哦~   不哭no那卡你  啊累嘎一喽no</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255186564)<br>如果以超越光的速度是否可...<br>2017-11-15 12:00<br>赞(0) 踩(0) | <div>卡瓦可耐 洗么个大 卡户儿嘞 那嘎拉达 搜达斯古 嘎拉木奴 户大累嘎 奥老该no 嘎瓦塞no 嘎瓦萨耐 扣吴路奴 扣吴路耐 啊那得瓦 有我C那呦 额来带有那谁嘎一嘎大no瓦 泽gi哥啊dei一耶额那dei  一泽gi耐给  吴哭都可no我 一组美那ei dei  大了可dei西哥那顾都可那瓦内  米来嘎后都可内洗马瓦那尼  额我一给dei   莫哭no高都网  额在有他拉麻麻  额杀有难dei<br><br><br>哥我带西马大可都你开来  哥哎拉因来靠的in大sir开来  额我因给dei  不哭那的都网~~~洗黑dei哦~   不哭no那卡你  啊累嘎一喽no</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330827055)<br><br>2017-11-30 10:13<br>赞(0) 踩(0) | <div>终于知道这歌改怎么唱了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341980920)<br><br>2017-12-30 13:20<br>赞(0) 踩(0) | <div>大神大神</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264834957)<br>哎<br>2017-10-13 22:23<br>赞(11) 踩(0) | <div>唱得真的很好，作为一个声乐专业的听了都起鸡皮疙瘩</div> |
@@ -2060,7 +2060,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82736168)<br><br>2017-08-12 15:45<br>赞(0) 踩(0) | <div>厉害了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35605486)<br><br>2017-08-11 11:33<br>赞(9) 踩(0) | <div><img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png">中国人唱就要喷，这什么心理。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89226810)<br> <br>2017-08-09 14:08<br>赞(3) 踩(0) | <div>日语本来就很难学    一个土生土长的中国人唱成这样已经很不错了     看不懂你们在喷些什么</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278981178)<br>哎呀大哥哥不好意思啦<br>2017-08-03 11:39<br>赞(1) 踩(0) | <div>女声板不错啊！好激动哦好激动哦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278981178)<br>哎呀大哥哥不好意思啦<br>2017-08-03 11:39<br>赞(1) 踩(0) | <div>女声板不错啊！<br>好激动哦好激动哦</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316879204)<br><br>2017-08-03 20:24<br>赞(0) 踩(0) | <div>周深是为男士&amp;hellip;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278981178)<br>哎呀大哥哥不好意思啦<br>2017-08-20 13:10<br>赞(0) 踩(0) | <div><q><b>zhai甄说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316879204)<br><br>2017-08-02 22:54<br>赞(3) 踩(0) | <div>能唱这首歌的人，都是大神</div> |
@@ -2140,10 +2140,10 @@ unravelling the world<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359034785)<br>考研什么的继续坚持下去<br>2018-04-20 15:58<br>赞(0) 踩(0) | <div>很喜欢这样的氛围，喜欢就喜欢不喜欢就不要抨击，为了听这歌下了虾米音乐，看着这评论不禁想起某云的的部分听者，一直在qq音乐中宣扬的自己的与众不同、特立独行这是讽刺呀。与这里的情况全然相反。虾米恐怕这次我不会在放弃你了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379205007)<br><br>2018-07-20 22:52<br>赞(0) 踩(0) | <div>顶</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401113756)<br><br>2018-08-10 23:24<br>赞(0) 踩(0) | <div>我是觉得原唱好听，可能我太喜欢金木了吧，但是他/她唱的我也喜欢，不管怎么样，有这首歌我就很感激了，因为真的喜欢，况且唱的确实挺好听啊</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402350138)<br><br>2018-08-23 23:13<br>赞(0) 踩(0) | <div>大家不是活在童话世界里，努力的成果就不容侵犯的？要是谁都能唱好了，要他周深干什么？你自己去把动漫看一遍再来说话，我也很喜欢周深的歌，某狗上收藏了很多歌都是他的，但喜欢归喜欢，不好就是不好。虽然来怼你是因为我觉得爽，但还是希望你以后能摆正态度，不要这么盲目。最后不知道给没给你添堵，如果不幸给你添堵了的话那我就更痛快了，如果没有，那也无所谓了，因为我爽过了 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402350138)<br><br>2018-08-23 23:13<br>赞(0) 踩(0) | <div>大家不是活在童话世界里，努力的成果就不容侵犯的？<br>要是谁都能唱好了，要他周深干什么？你自己去把动漫看一遍再来说话，我也很喜欢周深的歌，某狗上收藏了很多歌都是他的，但喜欢归喜欢，不好就是不好。虽然来怼你是因为我觉得爽，但还是希望你以后能摆正态度，不要这么盲目。最后不知道给没给你添堵，如果不幸给你添堵了的话那我就更痛快了，如果没有，那也无所谓了，因为我爽过了 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299124505)<br>杀掉一个人，用镰刀吧。<br>2018-08-30 18:08<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405386454)<br>人类不比喰种高贵<br>2018-10-03 09:06<br>赞(0) 踩(0) | <div>呵呵呵，原版确实有</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342806639)<br><br>2018-10-06 13:13<br>赞(0) 踩(0) | <div>太.周深与原唱有多大差远我不知道，但必然的一个道理是：没批评就没进步。生活不是游戏 游戏只给你鼓励，我看一个成果，任何人都可以批评。这是我们自身的权利。我看你在纯心害他吧。一个母亲在教孩子时不可能没有批评。如果没有，那就不叫爱了</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342806639)<br><br>2018-10-06 13:13<br>赞(0) 踩(0) | <div>太.周深与原唱有多大差远我不知道，但必然的一个道理是：没批评就没进步。<br>生活不是游戏 游戏只给你鼓励，我看一个成果，任何人都可以批评。这是我们自身的权利。我看你在纯心害他吧。一个母亲在教孩子时不可能没有批评。如果没有，那就不叫爱了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379502986)<br><br>2018-10-06 20:11<br>赞(0) 踩(0) | <div>即使我不是周深粉丝，但我觉得你说得对</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405039141)<br><br>2018-10-07 09:39<br>赞(0) 踩(0) | <div>说得对</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406120240)<br><br>2018-10-16 18:36<br>赞(0) 踩(0) | <div><q><b>画凉说：</b></q></div> |
@@ -2402,7 +2402,7 @@ unravelling the world<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50315179)<br>世界已经阻止不了鹿晗了♥<br>2015-08-17 21:26<br>赞(1) 踩(0) | <div>安静的可怕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23119119)<br> <br>2015-08-17 19:17<br>赞(1) 踩(0) | <div>很棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39075999)<br>哥哥的一生粉<br>2015-08-17 15:53<br>赞(2) 踩(0) | <div>周深超级棒~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44254645)<br><br>2015-08-17 12:33<br>赞(4) 踩(0) | <div>鉴于这个歌是已经被原唱表达到近乎完美的歌 可以说周的演唱还算是不错的但是差距还是明显的原唱低音气声是营造空灵感的要素 原唱高音沙哑嘶吼是营造燃的要素 所以楼下有很多看过动漫原作的人 觉得周的演唱没有感觉只是原版的编曲 虎头蛇尾 后面太乱但动漫截取的是整首歌最好的一小段</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44254645)<br><br>2015-08-17 12:33<br>赞(4) 踩(0) | <div>鉴于这个歌是已经被原唱表达到近乎完美的歌 可以说周的演唱还算是不错的<br>但是差距还是明显的<br>原唱低音气声是营造空灵感的要素 原唱高音沙哑嘶吼是营造燃的要素 所以楼下有很多看过动漫原作的人 觉得周的演唱没有感觉<br><br>只是原版的编曲 虎头蛇尾 后面太乱<br><br>但动漫截取的是整首歌最好的一小段</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35907536)<br>沉寂时<br>2015-08-16 23:44<br>赞(1) 踩(0) | <div>有这个心意就感觉超级满足。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2783415)<br><br>2015-08-16 23:07<br>赞(1) 踩(0) | <div>这娃还翻了这曲子啊……真心听不出……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48785649)<br>你好，再见！<br>2015-08-16 10:41<br>赞(2) 踩(0) | <div>我去  肿么唱的  快教我</div> |
@@ -2534,7 +2534,7 @@ unravelling the world<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5120818)<br>你是智智智全面发展的三好...<br>2017-04-16 23:43<br>赞(0) 踩(0) | <div><q><b>简直是神烦说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340082522)<br>恋树——<br>2018-03-02 19:14<br>赞(0) 踩(0) | <div>原版的TK在第二季片尾金木抱着英在雪地里有响起只有钢琴伴奏的清唱版本</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5120818)<br>你是智智智全面发展的三好...<br>2018-03-02 21:15<br>赞(0) 踩(0) | <div><q><b>安青争.说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330527184)<br>眼见的，未必为实。<br>2018-09-03 05:48<br>赞(0) 踩(0) | <div>谁说的？你别污蔑！我先告诉你！但是我也不想让别人污蔑周深！原唱很好听！周深唱的也很好听！</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330527184)<br>眼见的，未必为实。<br>2018-09-03 05:48<br>赞(0) 踩(0) | <div>谁说的？你别污蔑！我先告诉你！<br>但是我也不想让别人污蔑周深！<br>原唱很好听！周深唱的也很好听！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5120818)<br>你是智智智全面发展的三好...<br>2018-09-03 10:47<br>赞(0) 踩(0) | <div><q><b>即使这样又如何呢、说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38779401)<br><br>2015-04-18 23:11<br>赞(2) 踩(0) | <div>意外的不错诶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29480609)<br>且听风吟<br>2015-04-15 03:51<br>赞(60) 踩(0) | <div>副歌部分这么唱还挺有feel的...</div> |

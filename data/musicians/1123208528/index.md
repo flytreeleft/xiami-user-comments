@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7f0f844b8a290c78f16b640ccd91e524.jpg)<br>朱震颐](https://i.xiami.com/zhuzhen) | **播放数**: 599863<br>**粉丝数**: 275<br>**评论数**: 20<br>**地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/7f0f844b8a290c78f16b640ccd91e524.jpg)<br>朱震颐](https://i.xiami.com/zhuzhen) | **地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop<br>**播放数**: 599863<br>**粉丝数**: 275<br>**评论数**: 20<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409393101)<br><br>2021-01-01 01:28<br>赞(0) 踩(0) | <div>粉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43711944)<br>欣赏、感恩、享受美乐！<br>2020-11-13 11:21<br>赞(0) 踩(0) | <div>非常殊胜优美！喜欢编排成了年会节目</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412781927)<br>阿弥陀佛<br>2020-10-04 17:43<br>赞(0) 踩(0) | <div>阿弥陀佛</div> |

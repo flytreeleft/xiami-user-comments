@@ -34,8 +34,8 @@ What if... what if...　谁都是自己答案的问题<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34697010)<br>SEE YOU A GA...<br>2021-01-29 23:07<br>赞(0) 踩(0) | <div>爆哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5942046)<br>愿常有爱充盈心间，不匮乏...<br>2020-09-15 10:50<br>赞(0) 踩(0) | <div>鱼和熊掌可以兼得</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251410046)<br>stay with me...<br>2020-07-08 07:25<br>赞(0) 踩(0) | <div>也是有实力的</div> |
@@ -48,8 +48,8 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344018512)<br>我还没想好要写什么...<br>2020-02-28 00:01<br>赞(0) 踩(0) | <div>D</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43898977)<br> <br>2020-02-25 23:50<br>赞(0) 踩(0) | <div>嗓子好歌也有味道…就是这编曲实在是有点水啊…电子味这么农居然还钢琴和提琴…不懂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435047714)<br><br>2020-02-17 06:33<br>赞(2) 踩(0) | <div>变与不变是站的角度问题</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409876283)<br><br>2020-01-24 03:47<br>赞(0) 踩(0) | <div>因为世界上没有不变心的情人所以我选择不老的青春；不相信什么不朽所以我要这一霎成永恒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435406231)<br><br>2020-01-16 17:51<br>赞(2) 踩(0) | <div>我想要不变心的情人与不老的青春可是人总会变心，青春总会老去</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409876283)<br><br>2020-01-24 03:47<br>赞(0) 踩(0) | <div>因为世界上没有不变心的情人<br>所以我选择不老的青春；<br>不相信什么不朽<br>所以我要这一霎<br>成永恒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435406231)<br><br>2020-01-16 17:51<br>赞(2) 踩(0) | <div>我想要不变心的情人与不老的青春<br>可是人总会变心，青春总会老去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45810215)<br>似木头似石头的话得到注意...<br>2020-01-15 12:35<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7210136)<br>我还没想好要写什么...<br>2019-11-01 15:29<br>赞(1) 踩(0) | <div>现在再回头听还是好喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50808935)<br><br>2019-10-13 15:41<br>赞(0) 踩(0) | <div>我爱陈珊妮！</div> |
@@ -67,7 +67,7 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78114532)<br>我还没想好要写什么...<br>2019-03-22 23:53<br>赞(3) 踩(0) | <div>“失落沮丧就失落沮丧。我没想过失落沮丧时要变得特别高兴。我通常就是要面对自己的情绪，觉得失落沮丧也没什么不好。”-陈珊妮 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9152977)<br>不合群的音谋者。<br>2019-03-13 15:57<br>赞(0) 踩(0) | <div>我勒個去！！！隨機模式 上一首才剛播完安溥的城市 下一首就是山泥！！！啊啊啊啊啊啊啊！！！哭了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">彎彎的音樂真的動人！！！骨子裡的那種！！！想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241768775)<br><br>2019-03-03 11:48<br>赞(1) 踩(0) | <div>哦兔兔JJKKK</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352151905)<br>我还没想好要写什么...<br>2019-02-20 19:10<br>赞(1) 踩(0) | <div>第一首非常喜欢的她的歌是“情歌”这首也是非常惊艳了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352151905)<br>我还没想好要写什么...<br>2019-02-20 19:10<br>赞(1) 踩(0) | <div>第一首非常喜欢的她的歌是“情歌”<br>这首也是非常惊艳了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352151905)<br>我还没想好要写什么...<br>2019-02-17 15:43<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10333812)<br>愿世界和平。<br>2019-02-15 09:05<br>赞(0) 踩(0) | <div>_§:з)))」∠)_</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81149330)<br><br>2019-02-09 22:03<br>赞(0) 踩(0) | <div>我在期待命好使人废</div> |
@@ -109,7 +109,7 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25111049)<br>我还没想好要写什么...<br>2018-04-02 10:16<br>赞(0) 踩(0) | <div>别贪心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5507301)<br>我一直找不盗喜欢我的男人...<br>2018-03-31 11:47<br>赞(1) 踩(0) | <div>巨蟹座歌手带你觉悟平凡人生的平常心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342688978)<br>我还没想好要写什么...<br>2018-03-27 07:43<br>赞(0) 踩(0) | <div>加油喔</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305620456)<br><br>2018-03-26 22:44<br>赞(1) 踩(0) | <div>那年我不懂這首歌現在覺得這歌寫的太好了....</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305620456)<br><br>2018-03-26 22:44<br>赞(1) 踩(0) | <div>那年我不懂這首歌<br>現在覺得這歌寫的太好了....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40431881)<br> <br>2018-03-18 20:30<br>赞(1) 踩(0) | <div>如果有件事情是重要的，大概是当下这一刻，尽兴所致，满载而归。诗词歌赋，词不达意，窈窕淑女，君子不逑。要多快乐有多快乐，要多美丽依然美丽～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9152977)<br>不合群的音谋者。<br>2018-03-09 16:09<br>赞(2) 踩(0) | <div>再次對這首歌充滿特別感覺是在2014的夏天 喜歡上一個比我大六年的阜陽女生 但我們在一起竟沒有一絲違和感 彼此都沒說出那句話 但就是在一起三個月 之後的事誰也沒想到 開心的日子過後 突然有一天晚上我們在外面吃著飯 她的舉動言語很反常 我感覺到不安和煩躁 她讓我留著她的鑰匙扣之類的 後來在東角頭的漁人碼頭的板凳上 我們都沒有看對方 並排坐著 她終於說出我預感中的話 「我要離職 回去結婚 如果我現在才21歲 那該多好 這一切都不會來得那麼快 可是26歲還沒結婚的真的太少了」當場我的眼淚就再也忍不住了 也感覺到她的哽咽 幾天後她給我發信息「要不我逃婚吧」我只得苦笑 後來我把她刪了 祝好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175748)<br>so it is<br>2018-02-14 23:56<br>赞(1) 踩(0) | <div>我想要不变心的情人</div> |
@@ -130,16 +130,16 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88524960)<br><br>2017-11-26 01:59<br>赞(0) 踩(0) | <div>我想了想我没有青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12089213)<br>超级酷<br>2017-11-16 19:36<br>赞(3) 踩(0) | <div>我想好了 我要用三年时间变成一个很棒的人 如果那会儿你还没结婚我就去追回你吧好不好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27587423)<br>这家伙很聪明什么也没留下...<br>2017-11-16 18:22<br>赞(0) 踩(0) | <div>歌词写到我心坎里 想要不变心的情人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307643234)<br><br>2017-11-04 06:06<br>赞(0) 踩(0) | <div>在歌里找到共鸣在文章里找到共鸣和你共鸣的人啊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307643234)<br><br>2017-11-04 06:06<br>赞(0) 踩(0) | <div>在歌里找到共鸣<br>在文章里找到共鸣<br>和你共鸣的人啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307643234)<br><br>2017-11-04 06:02<br>赞(0) 踩(0) | <div>喜欢一个歌手的一部分歌 喜欢一首歌里的一部分歌词 变成不追星的人 老了么 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124598392)<br>酸辣粉<br>2017-10-29 15:49<br>赞(0) 踩(0) | <div>首次听到是张悬那般，都很有味道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/660370)<br><br>2017-10-27 23:15<br>赞(1) 踩(0) | <div>你在期待好命使人废 还是坚持厄运不服输实话 我要好命 只可惜大多时候 自己是烂命一条 what if</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/180342264)<br><br>2017-09-28 15:03<br>赞(0) 踩(0) | <div>你想要不变心的情人还是永远不老的青春你想要更伟大更不朽还是一个瞬间成永恒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/660370)<br><br>2017-10-27 23:15<br>赞(1) 踩(0) | <div>你在期待好命使人废 还是坚持厄运不服输<br>实话 我要好命 只可惜大多时候 自己是烂命一条 what if</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/180342264)<br><br>2017-09-28 15:03<br>赞(0) 踩(0) | <div>你想要不变心的情人<br>还是永远不老的青春<br>你想要更伟大更不朽<br>还是一个瞬间成永恒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235639054)<br>一条鲫鱼...<br>2017-09-16 08:25<br>赞(0) 踩(0) | <div>我还有没有一辈子时间好好想清楚？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866525)<br>最好的时光才刚刚开始！≥...<br>2017-09-09 23:31<br>赞(0) 踩(0) | <div>加油！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200258)<br>夜空霓虹 都是我不要的繁...<br>2017-09-07 10:44<br>赞(24) 踩(0) | <div>今天收到了前任给我寄的大件，打开发现是我当时没来得及搬的东西，他给我寄过来了。没有使坏，也没有留恋，那么他应该是释怀了吧。如果没有谈恋爱，不是我一时兴起，不是我要求戛然而止，那么他真的是一个好人。过去的三年没有浪费，毕竟经历了。我明白了我爱的究竟是什么，自己有多么自私。在一段犹犹豫豫的关系中，学会果断的拿起和放下。打扰了，谢谢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6592798)<br>致所有未曾到达的地方，和...<br>2017-08-21 13:00<br>赞(0) 踩(0) | <div>歌词超有道理 我要好好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60332840)<br>家庭妇女<br>2017-08-20 23:08<br>赞(1) 踩(0) | <div>你想要不变心的情人，还是要永不老的青春?我想要更好更圆的月亮。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60332840)<br>家庭妇女<br>2017-08-20 23:08<br>赞(1) 踩(0) | <div>你想要不变心的情人，还是要永不老的青春?<br>我想要更好更圆的月亮。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50808935)<br><br>2017-08-10 10:12<br>赞(1) 踩(0) | <div>总觉得每隔一段时间再听这首歌又可以获得新的人生感悟 我真是矫情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282776688)<br><br>2017-07-29 19:56<br>赞(0) 踩(0) | <div>两年前听的离别曲，这种曲调很好啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71178106)<br>塵世や 酒、風呂を抜け ...<br>2017-07-10 22:23<br>赞(0) 踩(0) | <div>♡</div> |
@@ -177,12 +177,12 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227163619)<br>爱❤️谦卑<br>2016-10-22 23:52<br>赞(0) 踩(0) | <div>我甄爱妮的词写的真的很好呢 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">比心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9838865)<br>我还没想好要写什么...<br>2016-10-18 21:03<br>赞(0) 踩(0) | <div>你想要不变心的情人，还是永远不老的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9838865)<br>我还没想好要写什么...<br>2016-10-18 21:03<br>赞(0) 踩(0) | <div>你想要不变心的情人，还是永远不老的青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52635047)<br> 一生都在半途而废 一生...<br>2016-09-26 13:04<br>赞(1) 踩(0) | <div>谁都是自己问题的答案谁都是自己答案的问题谁都有一辈子 好好想清楚如果有一件事是重要的那就是 对与错的总合</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52635047)<br> 一生都在半途而废 一生...<br>2016-09-26 13:04<br>赞(1) 踩(0) | <div>谁都是自己问题的答案<br>谁都是自己答案的问题<br>谁都有一辈子 好好想清楚<br>如果有一件事是重要的<br>那就是 对与错的总合</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99390464)<br>我还没想好要写什么...<br>2016-09-24 10:01<br>赞(0) 踩(0) | <div>可我还没想清楚要怎么过一辈子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2586857)<br>我还没想好要写什么...<br>2016-09-16 14:23<br>赞(1) 踩(0) | <div>要总结的想法，陈珊妮已经在这首里全部帮我总结好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12576793)<br>我还没想好要写什么...<br>2016-09-12 12:18<br>赞(0) 踩(0) | <div>编曲好美啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6688315)<br><br>2016-09-09 22:29<br>赞(1) 踩(0) | <div>编曲DJ小四，硬是打碟打出一首trip hop来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1150036)<br> <br>2016-09-09 19:06<br>赞(0) 踩(0) | <div>你想要不变心的情人还是永远不老的青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1150036)<br> <br>2016-09-09 19:06<br>赞(0) 踩(0) | <div>你想要不变心的情人<br>还是永远不老的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12520510)<br> <br>2016-08-31 11:12<br>赞(3) 踩(0) | <div>如果有一件事是重要的，那就是好好疼爱自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27019113)<br><br>2016-08-25 22:22<br>赞(0) 踩(0) | <div>一辈子很快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17765795)<br>音乐瘾<br>2016-08-04 00:38<br>赞(1) 踩(0) | <div>这首很陈珊妮</div> |
@@ -230,7 +230,7 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12037615)<br>停滞的海浪<br>2015-12-22 21:19<br>赞(0) 踩(0) | <div>你想要不变心的情人 还是永远不老的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8300315)<br><br>2015-12-22 19:44<br>赞(1) 踩(0) | <div>没有对与错是绝对的，每个人都是对与错的综合体。不要活的那么分明，容易伤人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9490777)<br>我还没想好要写什么...<br>2015-12-21 23:41<br>赞(0) 踩(0) | <div>永远不老的青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30983284)<br>会有一个绚烂的人    ...<br>2015-12-21 12:16<br>赞(1) 踩(0) | <div>如果有一件事是最重要的明天你依旧  在我身旁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30983284)<br>会有一个绚烂的人    ...<br>2015-12-21 12:16<br>赞(1) 踩(0) | <div>如果有一件事是最重要的<br><br>明天你依旧  在我身旁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43037629)<br>Tia JIE<br>2015-12-09 16:40<br>赞(0) 踩(0) | <div>编曲 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22858788)<br> <br>2015-12-07 06:51<br>赞(0) 踩(0) | <div>早⃝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69165628)<br><br>2015-12-04 21:58<br>赞(0) 踩(0) | <div>每首歌编曲都超赞！</div> |
@@ -271,7 +271,7 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16659724)<br>相思了无益<br>2015-09-08 16:19<br>赞(0) 踩(0) | <div>不想写报告...........</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16659724)<br>相思了无益<br>2015-09-08 15:42<br>赞(1) 踩(0) | <div>不想写报告内</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1412404)<br>因为一个人喜欢一首歌<br>2015-09-05 19:23<br>赞(0) 踩(0) | <div>快崩溃的时候就找来听一下</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4032173)<br><br>2015-09-02 00:02<br>赞(2) 踩(0) | <div>你想要不变心的情人　还是永远不老的青春你想要更伟大更不朽　还是一个瞬间成永恒你在期待命好使人废　还是坚持厄运不服输</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4032173)<br><br>2015-09-02 00:02<br>赞(2) 踩(0) | <div>你想要不变心的情人　还是永远不老的青春<br>你想要更伟大更不朽　还是一个瞬间成永恒<br>你在期待命好使人废　还是坚持厄运不服输</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8306188)<br> <br>2015-09-01 20:51<br>赞(1) 踩(0) | <div>编曲有种混沌武士的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51812346)<br>此时 这儿 我<br>2015-09-01 11:32<br>赞(0) 踩(0) | <div>真的蛮特别๑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7793978)<br>我还没想好要写什么...<br>2015-08-29 18:54<br>赞(2) 踩(0) | <div>也就听了好几年听了几百遍吧</div> |
@@ -305,7 +305,7 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3699973)<br>自留地。<br>2015-06-24 22:29<br>赞(0) 踩(0) | <div>声音一直觉得很有魔性的女歌手。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1657079)<br>如果我说我不知道<br>2015-06-15 19:55<br>赞(0) 踩(0) | <div>天然以为是刘若英。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6372386)<br>豆腐。<br>2015-06-15 07:59<br>赞(0) 踩(0) | <div>Sweet rainy day！分享一首并不是特别喜欢的#早安曲#</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38758201)<br>M<br>2015-06-13 08:33<br>赞(126) 踩(0) | <div>你想要不变心的情人还是永远不老的青春你想要更伟大更不朽还是一个瞬间成永恒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38758201)<br>M<br>2015-06-13 08:33<br>赞(126) 踩(0) | <div>你想要不变心的情人<br>还是永远不老的青春<br>你想要更伟大更不朽<br>还是一个瞬间成永恒</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166174628)<br>欢迎你不爱我<br>2019-04-19 16:32<br>赞(0) 踩(0) | <div>片刻都是永恒的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/867184)<br><br>2015-06-13 01:31<br>赞(3) 踩(0) | <div>想起了那个只有陈珊妮的一整个夏天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3332017)<br>有一个生活简单的人，温柔...<br>2015-06-11 19:40<br>赞(0) 踩(0) | <div>歌里透露出的时代感，越听越有味</div> |
@@ -328,15 +328,15 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4934621)<br>你喜欢南瓜饼吗<br>2015-06-09 21:54<br>赞(0) 踩(0) | <div>回忆再珍贵都有极限　未来多完美并未可知</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3177400)<br>温和中用力起来<br>2015-06-04 10:41<br>赞(0) 踩(0) | <div>谁都只有一辈子。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3177400)<br>温和中用力起来<br>2015-06-04 10:41<br>赞(0) 踩(0) | <div>谁都只有一辈子。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/960779)<br>瘟疫青年<br>2015-06-04 10:30<br>赞(0) 踩(0) | <div>What if... what if...　谁都是自己问题的答案。What if... what if...　谁都是自己答案的问题。谁都有一辈子，好好想清楚。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/960779)<br>瘟疫青年<br>2015-06-04 10:24<br>赞(0) 踩(0) | <div>What if... what if...　谁都是自己问题的答案。What if... what if...　谁都是自己答案的问题。谁都有一辈子，好好想清楚</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/960779)<br>瘟疫青年<br>2015-06-04 10:30<br>赞(0) 踩(0) | <div>What if... what if...　谁都是自己问题的答案。<br>What if... what if...　谁都是自己答案的问题。<br>谁都有一辈子，好好想清楚。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/960779)<br>瘟疫青年<br>2015-06-04 10:24<br>赞(0) 踩(0) | <div>What if... what if...　谁都是自己问题的答案。<br>What if... what if...　谁都是自己答案的问题。谁都有一辈子，好好想清楚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10678499)<br> <br>2015-06-02 20:26<br>赞(0) 踩(0) | <div>不给自己找麻烦 也不麻烦别人 决定做的真的好难 可是真的想做一个乖孩子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44233597)<br>需要音乐取暖<br>2015-05-31 22:37<br>赞(0) 踩(0) | <div>好励志喔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3625924)<br>感受时光魅力.<br>2015-05-17 23:31<br>赞(0) 踩(0) | <div>路还在. 安～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37860314)<br>我还没想好要写什么...<br>2015-05-17 22:12<br>赞(0) 踩(0) | <div>我想要个大叔 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13404111)<br>人可生如蚁而美如神<br>2015-05-12 18:50<br>赞(0) 踩(0) | <div>这个曲不错啦~还以为是日本的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13816404)<br>可爱的人难道不是我吗<br>2015-05-06 01:57<br>赞(0) 踩(0) | <div>美丽再完美都有极限</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8322043)<br>victim<br>2015-04-30 20:05<br>赞(0) 踩(0) | <div>你想要不变心的情人　还是永远不老的青春你想要更伟大更不朽　还是一个瞬间成永恒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8322043)<br>victim<br>2015-04-30 20:05<br>赞(0) 踩(0) | <div>你想要不变心的情人　还是永远不老的青春<br>你想要更伟大更不朽　还是一个瞬间成永恒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29073794)<br>暂无签名~<br>2015-04-30 11:00<br>赞(0) 踩(0) | <div>....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49328767)<br>夏天的尾巴像壁虎，割掉了...<br>2015-04-18 12:50<br>赞(0) 踩(0) | <div>词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5512596)<br><br>2015-04-15 23:04<br>赞(0) 踩(0) | <div>无眠不欢，无痛不醒，睡！</div> |
@@ -369,7 +369,7 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5412030)<br> <br>2014-10-20 20:21<br>赞(0) 踩(0) | <div>今日最佳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14452566)<br><br>2014-10-19 20:02<br>赞(1) 踩(0) | <div>你想要不变心的情人，还是永远不老的青春；你想要更伟大更不朽，还是一个瞬间成永恒；你在期待好命使人废，还是坚持厄运不认输。如果有一件事是重要的，那就是 对 与 错 的总和~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38557564)<br>我們都自由自在的吧。<br>2014-10-11 19:22<br>赞(0) 踩(0) | <div>今天听这歌为什么觉得那么不同呢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2014-10-11 14:38<br>赞(0) 踩(0) | <div>谁都是自己问题的答案好好想清楚</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2014-10-11 14:38<br>赞(0) 踩(0) | <div>谁都是自己问题的答案<br>好好想清楚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2014-10-11 14:37<br>赞(0) 踩(0) | <div>你在期待命好使人废　还是坚持厄运不服输</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6659222)<br><br>2014-10-08 23:14<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442607)<br><br>2014-10-04 14:08<br>赞(0) 踩(0) | <div>「回忆再珍贵都有极限 未来多完美并未可知」</div> |
@@ -428,7 +428,7 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4321927)<br><br>2014-01-04 13:21<br>赞(0) 踩(0) | <div>未来多完美并未可知</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10015383)<br>我还没想好要写什么...<br>2013-12-31 10:28<br>赞(0) 踩(0) | <div>没人觉得前奏中金属碰撞的那一段像丧尸游戏背景音乐么==&amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17693841)<br><br>2013-12-29 21:54<br>赞(0) 踩(0) | <div>有些事儿，不记得了。小时候曾经挚爱过的乐百氏，现在是怎么样都想不起它的味道是什么样的。谁都有一辈子，好好想清楚，如果有一件事是重要的。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/555155)<br><br>2013-12-26 23:40<br>赞(0) 踩(0) | <div>你想要更伟大更不朽还是一个瞬间成永恒你在期待命好使人废还是坚持厄运不服输</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/555155)<br><br>2013-12-26 23:40<br>赞(0) 踩(0) | <div>你想要更伟大更不朽<br>还是一个瞬间成永恒<br>你在期待命好使人废<br>还是坚持厄运不服输</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/848387)<br> <br>2013-12-20 08:34<br>赞(0) 踩(0) | <div>早安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3323539)<br><br>2013-12-20 02:25<br>赞(0) 踩(0) | <div>for you all</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2071185)<br><br>2013-12-16 21:24<br>赞(0) 踩(0) | <div>“你想要不变心的情人，还是永远不老的青春”送给过生日的某人，未来多完美并未可知。</div> |
@@ -451,7 +451,7 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8524905)<br> <br>2013-10-23 14:42<br>赞(0) 踩(0) | <div>谁都是自己问题的答案 谁都是自己答案的问题。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7942113)<br><br>2013-10-18 21:01<br>赞(0) 踩(0) | <div>你想要不变心的情人，还是永远不老的青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13665550)<br><br>2013-10-18 12:32<br>赞(0) 踩(0) | <div>我可以称她为颓废后么~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7735915)<br>爵士萨克斯手<br>2013-10-12 13:23<br>赞(0) 踩(0) | <div>如果有一件事是重要的那就是 对与错的总合</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7735915)<br>爵士萨克斯手<br>2013-10-12 13:23<br>赞(0) 踩(0) | <div>如果有一件事是重要的<br>那就是 对与错的总合</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17545939)<br>干杯QAQ<br>2013-10-03 23:52<br>赞(0) 踩(0) | <div>ಠ_ರೃ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7731358)<br>pale fire<br>2013-09-16 22:12<br>赞(0) 踩(0) | <div>你想要更伟大更不休 还是一个瞬间成永恒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7731358)<br>pale fire<br>2013-09-16 12:39<br>赞(0) 踩(0) | <div>谁都有一辈子 好好想清楚</div> |
@@ -460,13 +460,13 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17574836)<br> <br>2013-09-09 22:40<br>赞(0) 踩(0) | <div>嗯。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6008313)<br><br>2013-09-08 19:45<br>赞(0) 踩(0) | <div>我想要不变心的情人，还想要一个瞬间成永恒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866525)<br>最好的时光才刚刚开始！≥...<br>2013-09-07 23:01<br>赞(0) 踩(0) | <div>每每心动不已的-----如果有一件事是重要的，那。。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15981907)<br><br>2013-09-07 20:53<br>赞(0) 踩(0) | <div>一首歌就是一个人生的问题，问，答！个性US完美。是二还是一~！回归一个问题！~~亲爱的你，明白吗？！！~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15981907)<br><br>2013-09-07 20:53<br>赞(0) 踩(0) | <div>一首歌就是一个人生的问题，问，答！<br>个性US完美。是二还是一~！<br>回归一个问题！~~<br>亲爱的你，明白吗？！！~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2197108)<br><br>2013-09-07 20:14<br>赞(0) 踩(0) | <div>这首歌对我来说就像人生指南一样</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12744826)<br>能不能让我好好浪费时间。<br>2013-09-03 18:05<br>赞(0) 踩(0) | <div>谁都是自己问题的答案谁都是自己答案的问题谁都有一辈子 好好想清楚如果有一件事是重要的那就是 对与错的总合</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12744826)<br>能不能让我好好浪费时间。<br>2013-09-03 18:05<br>赞(0) 踩(0) | <div>谁都是自己问题的答案<br>谁都是自己答案的问题<br>谁都有一辈子 好好想清楚<br>如果有一件事是重要的<br>那就是 对与错的总合</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290372)<br>享受音乐，热爱生活<br>2013-08-27 03:37<br>赞(0) 踩(0) | <div>回忆再珍贵都有极限，未来多完美并未可知。美丽再完美都有极限，思想多珍贵并未可知。谁都是自己问题的答案，谁都是自己答案的问题，谁都有一辈子好好想清楚...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290372)<br>享受音乐，热爱生活<br>2013-08-27 03:31<br>赞(0) 踩(0) | <div>回忆再珍贵都有极限，未来多完美并未可知。谁都是自己问题的答案，谁都是自己答案的问题，谁都有一辈子好好想清楚。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12392385)<br><br>2013-08-26 17:55<br>赞(0) 踩(0) | <div>what if ？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1152465)<br>2020<br>2013-08-24 19:48<br>赞(0) 踩(0) | <div>what if...what if...谁都是自己问题的答案what if...what if...谁都是自己答案的问题</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1152465)<br>2020<br>2013-08-24 19:48<br>赞(0) 踩(0) | <div>what if...what if...<br>谁都是自己问题的答案<br>what if...what if...<br>谁都是自己答案的问题</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11217901)<br>我们终将往何处去<br>2013-08-23 20:17<br>赞(0) 踩(0) | <div>what if</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9446627)<br>音乐是一个人的良药<br>2013-08-11 11:21<br>赞(0) 踩(0) | <div>我最喜欢的珊妮的歌，如果有一件事是重要的，你觉得是什么呢？如果只有这样子一件事，你会拼了命去努力完成么?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16937305)<br><br>2013-08-09 19:18<br>赞(0) 踩(0) | <div>好听到打滚^W^</div> |
@@ -507,7 +507,7 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6580357)<br><br>2013-05-17 23:34<br>赞(0) 踩(0) | <div>如果没有呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3510994)<br><br>2013-05-11 17:58<br>赞(0) 踩(0) | <div>谁都是自己问题的答案</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2363870)<br>静观其变<br>2013-05-10 14:21<br>赞(0) 踩(0) | <div>都是感觉很好的~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6937090)<br>飞进外太空~<br>2013-05-10 12:54<br>赞(0) 踩(0) | <div>回忆再珍贵都有极限 未来多完美并未可知 .谁都是自己问题的答案 ,谁都是自己答案的问题 .</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6937090)<br>飞进外太空~<br>2013-05-10 12:54<br>赞(0) 踩(0) | <div>回忆再珍贵都有极限 未来多完美并未可知 .<br>谁都是自己问题的答案 ,谁都是自己答案的问题 .</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/603596)<br><br>2013-05-10 10:07<br>赞(0) 踩(0) | <div>迷死我了~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11661712)<br><br>2013-05-09 18:45<br>赞(0) 踩(0) | <div>“回忆再珍贵都有极限，未来多完美并未可知”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6420835)<br><br>2013-05-08 00:55<br>赞(0) 踩(0) | <div>美丽再完美都有极限，思想多珍贵并未可知，谁都是自己问题的答案，如果有一件事是重要的，那就是对与错的总和。</div> |
@@ -527,7 +527,7 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8855071)<br> <br>2013-03-12 16:36<br>赞(0) 踩(0) | <div>谁都是自己问题的答案......谁都是自己答案的问题......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7451523)<br><br>2013-03-06 00:37<br>赞(0) 踩(0) | <div>精神状态不好的时候就听这首，10年循环了一年的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5396827)<br>表里非一<br>2013-03-04 23:12<br>赞(0) 踩(0) | <div>可好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4043034)<br><br>2013-02-27 22:45<br>赞(0) 踩(0) | <div>你想要不变心的情人，还是永远不老的青春。你想要更伟大更不朽，还是一个瞬间成永恒。你在期待命好使人废，还是坚持厄运不服输。回忆再珍贵都有极限，未来多完美并未可知。晚安，亲爱的们~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4043034)<br><br>2013-02-27 22:45<br>赞(0) 踩(0) | <div>你想要不变心的情人，还是永远不老的青春。<br>你想要更伟大更不朽，还是一个瞬间成永恒。<br>你在期待命好使人废，还是坚持厄运不服输。<br>回忆再珍贵都有极限，未来多完美并未可知。<br>晚安，亲爱的们~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759653)<br> <br>2013-02-23 21:17<br>赞(0) 踩(0) | <div>“你想要不变心的情人 还是永远不老的青春你想要更伟大更不朽 还是一个瞬间成永恒 你在期待命好使人废 还是坚持厄运不服输 回忆再珍贵都有极限 未来多完美并未可知 what if what if 谁都是自己问题的答案 what if what if 谁都是自己答案的问题 谁都有一辈子 好好想清楚”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1252331)<br>打开心门全是爱<br>2013-02-20 13:28<br>赞(0) 踩(0) | <div>#如果有一件事是重要的？#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1134415)<br><br>2013-02-19 00:20<br>赞(0) 踩(0) | <div>谁都是自己答案的问题。</div> |
@@ -568,23 +568,23 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9203389)<br><br>2012-10-24 23:10<br>赞(0) 踩(0) | <div>最近喜欢拿着莎士比亚的《哈姆雷特》，喝着56度刚刚好的卡布其诺，在乐巢摇摆的灯光下品啄。我深深地觉得，三天不读书，蠢得像头猪。@yanono大宝六 我有没有抓到蚝殿的精髓？！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6001068)<br>come as you ...<br>2012-10-20 15:50<br>赞(0) 踩(0) | <div>有些歌儿真不能听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184413)<br>53<br>2012-10-19 00:16<br>赞(0) 踩(0) | <div>你想要不变心的情人，还是永远不老的青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/544090)<br>珍爱生命 远离郭冰<br>2012-10-15 22:57<br>赞(0) 踩(0) | <div>what if what if 谁都是自己答案的问题。whatif what if 谁都是自己问题的答案    陈珊妮 如果有一件重要的事</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/544090)<br>珍爱生命 远离郭冰<br>2012-10-15 22:57<br>赞(0) 踩(0) | <div>what if what if 谁都是自己答案的问题。what<br>if what if 谁都是自己问题的答案    陈珊妮 如果有一件重要的事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1322537)<br><br>2012-10-15 14:42<br>赞(0) 踩(0) | <div>没什么是重要的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8356430)<br>城市里，爱的来临当如是。<br>2012-09-23 13:13<br>赞(0) 踩(0) | <div>如果有一件事是重要的，那就是对与错的总和。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6047583)<br>我还没想好要写什么...<br>2012-09-20 09:03<br>赞(0) 踩(0) | <div>开窗户吹着风听着这个忽然就飘了，呵呵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866516)<br><br>2012-09-18 17:42<br>赞(0) 踩(0) | <div>T_T</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4340531)<br> <br>2012-09-10 01:39<br>赞(0) 踩(0) | <div>谁都是自己问题的答案</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4015971)<br>我想、人生虽短、爱却绵长<br>2012-09-05 22:53<br>赞(0) 踩(0) | <div>你想要不变心的情人/还是永远不老的青春/你想要更伟大更不朽/还是一个瞬间成永恒/你在期待命好使人废/还是坚持厄运不服输/回忆再珍贵都有极限/未来多完美并未可知</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8003436)<br><br>2012-09-05 20:45<br>赞(0) 踩(0) | <div>你想先得到一个祝福还是先给予一个感谢美丽再完美都有极限思想多珍贵并未可知what if...what if...谁都是自己问题的答案what if...what if...谁都是自己答案的问题谁都有一辈子 好好想清楚如果有一件事是重要的那就是 对与错的总合</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8003436)<br><br>2012-09-05 20:45<br>赞(0) 踩(0) | <div>你想先得到一个祝福<br>还是先给予一个感谢<br>美丽再完美都有极限<br>思想多珍贵并未可知<br><br>what if...what if...<br>谁都是自己问题的答案<br>what if...what if...<br>谁都是自己答案的问题<br>谁都有一辈子 好好想清楚<br><br>如果有一件事是重要的<br>那就是 对与错的总合</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7490596)<br><br>2012-09-03 19:01<br>赞(0) 踩(0) | <div>如果有一件事是重要的，那就是 对与错的总合。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1108961)<br>你那一封信 时间是邮差_<br>2012-09-03 01:17<br>赞(0) 踩(0) | <div>我想要不老容颜永垂不朽瞬间永恒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591483)<br><br>2012-08-30 14:44<br>赞(0) 踩(0) | <div>啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2893706)<br><br>2012-08-24 10:19<br>赞(0) 踩(0) | <div>谁都是自己问题的答案，谁都是自己答案的问题</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10233794)<br><br>2012-08-23 23:36<br>赞(0) 踩(0) | <div>谁都是自己问题的答案</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8551711)<br><br>2012-08-10 22:10<br>赞(0) 踩(0) | <div>临睡前反复听的一首歌——“谁都是自己问题的答案/谁都是自己答案的问题”——晚安</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/464554)<br><br>2012-08-08 13:01<br>赞(0) 踩(0) | <div>谁都是自己问题的答案谁都是自己答案的问题</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/464554)<br><br>2012-08-08 13:01<br>赞(0) 踩(0) | <div>谁都是自己问题的答案<br>谁都是自己答案的问题</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3702938)<br><br>2012-07-25 01:00<br>赞(0) 踩(0) | <div>依旧爱这首...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8003436)<br><br>2012-07-21 10:09<br>赞(0) 踩(0) | <div>你想要不变心的情人还是永远不老的青春你想要更伟大更不朽还是一个瞬间成永恒你在期待命好使人废还是坚持厄运不服输回忆再珍贵都有极限未来多完美并未可知what if...what if...谁都是自己问题的答案</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8003436)<br><br>2012-07-21 10:09<br>赞(0) 踩(0) | <div>你想要不变心的情人<br>还是永远不老的青春<br>你想要更伟大更不朽<br>还是一个瞬间成永恒<br>你在期待命好使人废<br>还是坚持厄运不服输<br>回忆再珍贵都有极限<br>未来多完美并未可知<br>what if...what if...<br>谁都是自己问题的答案</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5524345)<br><br>2012-07-16 22:57<br>赞(0) 踩(0) | <div>最近在听。你好珊妮公主！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3430724)<br>安身立命<br>2012-07-16 02:44<br>赞(0) 踩(0) | <div>谁都是自己问题的答案</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8397489)<br><br>2012-07-14 20:44<br>赞(0) 踩(0) | <div>你想要不变心的情人，还是永远不老的青春？</div> |
@@ -634,8 +634,8 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6673082)<br><br>2011-11-13 18:45<br>赞(0) 踩(0) | <div>喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4154380)<br><br>2011-11-10 17:13<br>赞(0) 踩(0) | <div>我真是爱死前面的大提琴了，啊啊啊啊啊啊啊啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262075)<br>我只有我自己<br>2011-11-10 00:11<br>赞(0) 踩(0) | <div>听了真想哭</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1388053)<br><br>2011-10-26 00:16<br>赞(0) 踩(0) | <div>你想要不变心的情人还是永远不老的青春你想要更伟大更不朽还是一个瞬间成永恒你在期待命好使人废还是坚持厄运不服输回忆再珍贵都有极限未来多完美并未可知如果有一件事是重要的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1388053)<br><br>2011-10-26 00:15<br>赞(0) 踩(0) | <div>你想要不变心的情人还是永远不老的青春你想要更伟大更不朽还是一个瞬间成永恒你在期待命好使人废还是坚持厄运不服输回忆再珍贵都有极限未来多完美并未可知如果有一件事是重要的。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1388053)<br><br>2011-10-26 00:16<br>赞(0) 踩(0) | <div>你想要不变心的情人<br>还是永远不老的青春<br>你想要更伟大更不朽<br>还是一个瞬间成永恒<br>你在期待命好使人废<br>还是坚持厄运不服输<br>回忆再珍贵都有极限<br>未来多完美并未可知<br>如果有一件事是重要的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1388053)<br><br>2011-10-26 00:15<br>赞(0) 踩(0) | <div>你想要不变心的情人<br>还是永远不老的青春<br>你想要更伟大更不朽<br>还是一个瞬间成永恒<br>你在期待命好使人废<br>还是坚持厄运不服输<br>回忆再珍贵都有极限<br>未来多完美并未可知<br>如果有一件事是重要的。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2551272)<br>起初的轰烈 都没有差别<br>2011-10-19 17:22<br>赞(0) 踩(0) | <div>谁都是自己问题的答案 谁都是自己答案的问题</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5437354)<br><br>2011-10-13 20:24<br>赞(0) 踩(0) | <div>谁都是自己问题的答案，谁都是自己答案的问题。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5437354)<br><br>2011-10-13 20:22<br>赞(0) 踩(0) | <div>谁都是自己问题的答案，谁都是自己答案的问题。</div> |
@@ -655,19 +655,19 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/450493)<br><br>2011-08-17 12:51<br>赞(0) 踩(0) | <div>歌词很好，声音很好~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/956863)<br>我还没想好要写什么...<br>2011-08-16 22:24<br>赞(0) 踩(0) | <div>如果有一件事情是重要的 那就是 希望值得等待 而失望值得经历</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3868286)<br><br>2011-08-13 01:15<br>赞(0) 踩(0) | <div>你想要不变心的情人 　　还是永远不老的青春 　　你想要更伟大更不朽 　　还是一个瞬间成永恒 　　你在期待命好使人废 　　还是坚持厄运不服输</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1915760)<br> <br>2011-07-30 12:16<br>赞(0) 踩(0) | <div>what if...what if...谁都是自己问题的答案what if...what if...谁都是自己答案的问题再世华佗，冷艳陈珊妮。想你的心，全部要靠她来治愈了。可那一夜你让我怎么可能忘？叹气。如果有一件事是重要的，那就是要努力振作才行啊！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1915760)<br> <br>2011-07-30 12:16<br>赞(0) 踩(0) | <div>what if...what if...谁都是自己问题的答案<br>what if...what if...谁都是自己答案的问题<br>再世华佗，冷艳陈珊妮。想你的心，全部要靠她来治愈了。可那一夜你让我怎么可能忘？叹气。如果有一件事是重要的，那就是要努力振作才行啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4723492)<br><br>2011-07-21 20:23<br>赞(0) 踩(0) | <div>很有内涵，很有味道，，，，，，，，，，，，，，，，，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/461694)<br>我们面对的是何种凶杀？<br>2011-07-18 22:05<br>赞(0) 踩(0) | <div>你想要更伟大更不朽</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2784646)<br><br>2011-07-17 00:12<br>赞(0) 踩(0) | <div>回忆再珍贵都有极限未来多完美并未可知what if...what if...谁都是自己问题的答案what if...what if...谁都是自己答案的问题谁都有一辈子 好好想清楚</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2784646)<br><br>2011-07-17 00:12<br>赞(0) 踩(0) | <div>回忆再珍贵都有极限<br>未来多完美并未可知<br>what if...what if...<br>谁都是自己问题的答案<br>what if...what if...<br>谁都是自己答案的问题<br>谁都有一辈子 好好想清楚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4814874)<br><br>2011-07-12 21:06<br>赞(0) 踩(0) | <div>欢快的旋律 惬意的小调调 喜欢~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4362786)<br><br>2011-07-11 23:50<br>赞(0) 踩(0) | <div>谁都是自己问题的答案，谁都是自己答案的问题...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/833870)<br><br>2011-07-04 23:36<br>赞(0) 踩(0) | <div>你想要更伟大更不朽，还是一个瞬间成永恒？ 你在期待命好使人废，还是坚持厄运不服输？你想先得到一个祝福，还是先给一个感谢？ 晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/833870)<br><br>2011-07-04 23:36<br>赞(0) 踩(0) | <div>你想要更伟大更不朽，还是一个瞬间成永恒？ 你在期待命好使人废，还是坚持厄运不服输？你想先得到一个祝福，还是先给一个感谢？ 晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4171066)<br><br>2011-07-02 20:57<br>赞(0) 踩(0) | <div>你想要不变心的情人 还是永远不老的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4021484)<br><br>2011-07-02 15:00<br>赞(0) 踩(0) | <div>什么对自己来说，才是最重要的，面对眼花缭乱的生活，面对这种沮丧的现实，我想要的，并不只是快乐一点</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3993170)<br><br>2011-06-29 00:19<br>赞(0) 踩(0) | <div>你想更伟大更不朽还是一瞬间成永恒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3993170)<br><br>2011-06-29 00:19<br>赞(0) 踩(0) | <div>你想更伟大更不朽<br>还是一瞬间成永恒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3744278)<br><br>2011-06-27 08:53<br>赞(0) 踩(0) | <div>这首歌，还蛮好听的。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112082)<br><br>2011-06-26 19:01<br>赞(0) 踩(0) | <div>what if...what if...谁都是自己问题的答案what if...what if...谁都是自己答案的问题</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112082)<br><br>2011-06-26 19:01<br>赞(0) 踩(0) | <div>what if...what if...<br>谁都是自己问题的答案<br>what if...what if...<br>谁都是自己答案的问题</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1246538)<br><br>2011-06-25 23:10<br>赞(0) 踩(0) | <div>如果有一件事是重要的，那是什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3177954)<br><br>2011-06-21 15:26<br>赞(0) 踩(0) | <div>如果有一件事是重要的。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1048813)<br><br>2011-06-21 10:37<br>赞(0) 踩(0) | <div>曼妙的摇曳着~</div> |
@@ -681,7 +681,7 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124292)<br>年少轻狂时留的评论不断被...<br>2011-05-20 15:39<br>赞(0) 踩(0) | <div>多少遍都好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/510969)<br><br>2011-05-10 00:07<br>赞(0) 踩(0) | <div>what if what if ……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2404811)<br><br>2011-05-07 23:54<br>赞(0) 踩(0) | <div>第一句响起的时候，我差点误以为是奶茶，挺像的……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1993974)<br><br>2011-04-23 13:03<br>赞(0) 踩(0) | <div>回忆再珍贵都有极限未来多完美并未可知</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1993974)<br><br>2011-04-23 13:03<br>赞(0) 踩(0) | <div>回忆再珍贵都有极限<br>未来多完美并未可知</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2421496)<br><br>2011-04-16 23:55<br>赞(0) 踩(0) | <div>谁都是自己问题的答案，有一辈子去想清楚。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3253298)<br>我要瘦我要瘦~<br>2011-04-13 20:24<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3473493)<br><br>2011-04-11 00:22<br>赞(0) 踩(0) | <div>如果有一件事的是重要的，那就是再看看你的心。</div> |
@@ -692,8 +692,8 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/594682)<br><br>2011-03-08 18:27<br>赞(0) 踩(0) | <div>每一天都是重要的~\\(≧▽≦)/~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2971726)<br><br>2011-03-05 16:47<br>赞(0) 踩(0) | <div>如果有一件事是重要的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2136976)<br><br>2011-02-28 13:21<br>赞(0) 踩(0) | <div>谁都有一辈子 好好想清楚</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2288159)<br><br>2011-02-27 10:45<br>赞(0) 踩(0) | <div>重要的是家人还是  不朽的情人可以双选么谁都有一辈子   好好想清楚</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2960871)<br><br>2011-02-25 18:08<br>赞(0) 踩(0) | <div>你想要不变心的情人还是永远不老的青春你想要更伟大更不朽还是一个瞬间成永恒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2288159)<br><br>2011-02-27 10:45<br>赞(0) 踩(0) | <div>重要的是家人还是  不朽的情人<br>可以双选么<br>谁都有一辈子   好好想清楚</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2960871)<br><br>2011-02-25 18:08<br>赞(0) 踩(0) | <div>你想要不变心的情人<br>还是永远不老的青春<br>你想要更伟大更不朽<br>还是一个瞬间成永恒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2947587)<br><br>2011-02-24 19:02<br>赞(0) 踩(0) | <div>如果在一起是重要的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376825)<br><br>2011-02-24 14:37<br>赞(0) 踩(0) | <div>这个词太棒了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2799567)<br><br>2011-02-24 14:29<br>赞(0) 踩(0) | <div>哦~</div> |
@@ -706,28 +706,28 @@ What if... what if...　谁都是自己答案的问题<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/625385)<br><br>2010-12-19 13:16<br>赞(0) 踩(0) | <div>回忆再珍贵都有极限，未来多完美并不可知</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2115565)<br>音乐已然成为灵魂的一部分<br>2010-12-15 21:36<br>赞(0) 踩(0) | <div>^_^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1533945)<br><br>2010-12-10 15:15<br>赞(0) 踩(0) | <div>不朽</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1355450)<br>我还没想好要写什么...<br>2010-11-25 16:18<br>赞(0) 踩(0) | <div>如果有一件事是害怕的那就是 我最终没能嫁给你如果有一件事是懊恼的那就是 乃表总自我感觉良好咩如果有一件事是幸福的那就是  我双手勾着你的脖子被你轻轻相拥如果有一件事是好玩的那就是  我必须和你犟嘴直到你认输承认我是女王如果有一件事是重要的那就是  我需要学会坚强and u?</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1355450)<br>我还没想好要写什么...<br>2010-11-25 16:18<br>赞(0) 踩(0) | <div>如果有一件事是害怕的<br>那就是 我最终没能嫁给你<br>如果有一件事是懊恼的<br>那就是 乃表总自我感觉良好咩<br>如果有一件事是幸福的<br>那就是  我双手勾着你的脖子被你轻轻相拥<br>如果有一件事是好玩的<br>那就是  我必须和你犟嘴直到你认输承认我是女王<br>如果有一件事是重要的<br>那就是  我需要学会坚强<br>and u?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1889147)<br><br>2010-11-16 01:50<br>赞(0) 踩(0) | <div>暧昧的温度</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1335706)<br>迷恋感觉从无休<br>2010-11-11 14:19<br>赞(0) 踩(0) | <div>如果 你在..无论何时我都在等你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445865)<br><br>2010-10-04 18:08<br>赞(0) 踩(0) | <div>曲风做的很特别</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/944232)<br><br>2010-09-21 21:58<br>赞(0) 踩(0) | <div>性感</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759162)<br>苏世独立 横而不流<br>2010-09-21 08:51<br>赞(0) 踩(0) | <div>我不是在无所事事我是在消化--------------刀刀刀刀，一直以来我很喜欢一句话：“世界是我的食物。人只用少量时间进食，大部分时间在消化。独处就是我消化世界”。无论 活动 还是 沉思 哪一种生活 你会喜欢呢？不过我想 只要心灵是充实的 无论在哪儿 他都不会感到寂寞 你说对吧？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759162)<br>苏世独立 横而不流<br>2010-09-21 08:51<br>赞(0) 踩(0) | <div>我不是在无所事事我是在消化<br>--------------刀刀<br>刀刀，一直以来我很喜欢一句话：“世界是我的食物。人只用少量时间进食，大部分时间在消化。独处就是我消化世界”。无论 活动 还是 沉思 哪一种生活 你会喜欢呢？<br>不过我想 只要心灵是充实的 无论在哪儿 他都不会感到寂寞 你说对吧？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1363616)<br><br>2010-09-21 21:51<br>赞(0) 踩(0) | <div>怎么突然在这首歌下面说这句话？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759162)<br>苏世独立 横而不流<br>2010-09-21 22:38<br>赞(0) 踩(0) | <div><q><b>行者悟空说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1420544)<br><br>2010-09-06 23:11<br>赞(0) 踩(0) | <div>不变心的情人还是不老的青春呢。瞬间或永恒，也不过一念之间。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255861)<br>再见。<br>2010-08-31 17:19<br>赞(0) 踩(0) | <div>那就是有你的歌声。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/856026)<br>♫ ☮ ♥<br>2010-08-18 14:10<br>赞(0) 踩(0) | <div>谁都是自己问题的答案谁都是自己答案的问题谁都有一辈子 好好想清楚如果有一件事是重要的那就是 对与错的总合</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/856026)<br>♫ ☮ ♥<br>2010-08-18 14:10<br>赞(0) 踩(0) | <div>谁都是自己问题的答案<br>谁都是自己答案的问题<br>谁都有一辈子 好好想清楚<br>如果有一件事是重要的<br>那就是 对与错的总合</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1246048)<br><br>2010-08-04 14:15<br>赞(0) 踩(0) | <div>如果有一件事是重要的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1099911)<br><br>2010-06-28 20:03<br>赞(0) 踩(0) | <div>&amp;quot;誰都是自己問題的答案，誰都是自己答案的問題。&amp;quot;問題是否真的存在？答案又是否真的存在？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1099911)<br><br>2010-06-28 20:03<br>赞(0) 踩(0) | <div>&amp;quot;誰都是自己問題的答案，誰都是自己答案的問題。&amp;quot;<br>問題是否真的存在？答案又是否真的存在？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1065410)<br><br>2010-06-23 10:19<br>赞(0) 踩(0) | <div>独立女</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/882)<br><br>2010-05-15 20:31<br>赞(0) 踩(0) | <div>世纪十年卓越女歌手：陈珊妮</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368087)<br><br>2010-05-03 08:42<br>赞(0) 踩(0) | <div>2010年5月1日 No.138谁都是自己问题的答案谁都是自己答案的问题谁都有一辈子 好好想清楚如果有一件事是重要的那就是 对与错的总合</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368087)<br><br>2010-05-03 08:42<br>赞(0) 踩(0) | <div>2010年5月1日 No.138<br>谁都是自己问题的答案<br>谁都是自己答案的问题<br>谁都有一辈子 好好想清楚<br>如果有一件事是重要的<br>那就是 对与错的总合</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423587)<br> <br>2010-02-02 00:58<br>赞(0) 踩(0) | <div>BTD         @0201</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243924)<br> <br>2010-01-22 10:44<br>赞(0) 踩(0) | <div>谁都是自己问题的答案谁都是自己答案的问题谁都要一辈子好好想清楚如果有一件事是重要的那就是对于错。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243924)<br> <br>2010-01-22 10:44<br>赞(0) 踩(0) | <div>谁都是自己问题的答案<br>谁都是自己答案的问题<br>谁都要一辈子好好想清楚<br>如果有一件事是重要的<br>那就是对于错。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243924)<br> <br>2010-01-22 10:43<br>赞(0) 踩(0) | <div>歌词有哲理，第一次听陈珊妮的歌 ，很不错。跟万方很像，他们似乎是一类吧。这样的音乐是慢慢来思考的。而不是消费的音乐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119561)<br>移步～<br>2009-12-05 23:32<br>赞(0) 踩(0) | <div>陈珊妮的热门歌曲01 如果有一件事是重要的  【5123】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119561)<br>移步～<br>2009-12-05 23:32<br>赞(0) 踩(0) | <div>陈珊妮的热门歌曲<br>01 如果有一件事是重要的  【5123】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64746)<br><br>2009-10-08 14:24<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111915)<br>C<br>2009-09-13 13:03<br>赞(0) 踩(0) | <div>谁都是自己答案的问题谁都有一辈子好好想清楚如果有一件事是重要的那就是对与错的总合其实，我们之所以不解，不外过这样的无知。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111915)<br>C<br>2009-09-13 13:03<br>赞(0) 踩(0) | <div>谁都是自己答案的问题<br>谁都有一辈子好好想清楚<br>如果有一件事是重要的<br>那就是对与错的总合<br><br>其实，我们之所以不解，不外过这样的无知。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365858)<br><br>2009-09-06 17:26<br>赞(0) 踩(0) | <div>用一辈子想一个问题，你还能给我答案吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333188)<br>我还没想好要写什么...<br>2009-09-04 18:14<br>赞(0) 踩(0) | <div>迷幻 想象</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298861)<br> <br>2009-08-26 18:46<br>赞(0) 踩(0) | <div>我希望能够忘了一切，却有一件事情不会忘。</div> |

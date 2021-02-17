@@ -12,12 +12,9 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31068327)<br>it takes tim...<br>2015-04-14 09:37<br>赞(0) 踩(0) | <div>美丽</div> |

@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7678935)<br><br>2019-12-03 08:27<br>赞(2) 踩(0) | <div>满屏白斩鸡，滑稽稽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400711907)<br><br>2019-06-30 16:42<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378626905)<br><br>2018-07-21 03:42<br>赞(3) 踩(0) | <div>兵器耍的挺溜啊，我，我也会</div> |
@@ -39,7 +36,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48530437)<br>I know you h...<br>2015-08-12 18:53<br>赞(3) 踩(0) | <div>听过的战斗曲中最赞的一个</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48530437)<br>I know you h...<br>2015-08-12 18:53<br>赞(2) 踩(0) | <div>听过的战斗曲中最赞的一个</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/542713)<br><br>2014-09-01 19:42<br>赞(1) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1048473)<br><br>2014-08-26 22:26<br>赞(2) 踩(0) | <div>这首战斗音乐也不能少！纪山战斗音乐实录版（琵琶）。体现面对挑战的跃跃欲试之感。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1048473)<br><br>2014-08-26 22:26<br>赞(2) 踩(0) | <div>这首战斗音乐也不能少！<br>纪山战斗音乐实录版（琵琶）。体现面对挑战的跃跃欲试之感。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34849520)<br><br>2014-08-04 22:16<br>赞(5) 踩(0) | <div>纪山战斗音乐实录版。体现面对挑战的跃跃欲试之感。（确实有跳跃感，想用把妖怪挑起来的技能）</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1091023)<br><br>2015-04-21 09:23<br>赞(0) 踩(0) | <div>好逗☺挑起来的技能一直觉得很鸡肋，能不学就不学了……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338953552)<br>时光如水，岁月如歌，你我...<br>2019-07-05 16:32<br>赞(0) 踩(0) | <div><q><b>夏夜晚风说：</b></q></div> |
@@ -53,5 +50,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4709182)<br>我心匪石，不可转也。<br>2013-10-29 16:18<br>赞(1) 踩(0) | <div>这个战斗音乐很有感觉啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1327785)<br>料峭春風吹酒醒<br>2013-09-26 03:39<br>赞(1) 踩(0) | <div>古剑奇谭二——纪山战斗曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4176882)<br>哒<br>2013-09-24 12:35<br>赞(1) 踩(0) | <div>这首在战斗的时候特别HIGH~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14288434)<br><br>2013-09-24 12:32<br>赞(0) 踩(0) | <div>战斗音乐都不错感觉和我叫mt的片头有点像</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14288434)<br><br>2013-09-24 12:32<br>赞(0) 踩(0) | <div>战斗音乐都不错<br><br>感觉和我叫mt的片头有点像</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3857598)<br> <br>2013-09-24 10:28<br>赞(1) 踩(0) | <div>感觉古2这首战斗音乐超棒，和古剑1的剑歌行一样让人惊艳</div> |

@@ -31,15 +31,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444679377)<br>我还没想好要写什么就要分...<br>2021-02-04 19:03<br>赞(0) 踩(0) | <div>喜爱的声音戴上耳机人声低音炮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2432428)<br><br>2021-02-02 23:34<br>赞(0) 踩(0) | <div>音色一直不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432587091)<br><br>2021-01-03 14:36<br>赞(0) 踩(0) | <div>永远的经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276892949)<br><br>2020-11-29 14:00<br>赞(0) 踩(0) | <div>难听死了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444860464)<br>生活是一首多味之歌！<br>2020-11-15 10:28<br>赞(1) 踩(0) | <div>好听真好听！ <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11080160)<br><br>2020-10-20 12:42<br>赞(0) 踩(0) | <div>90后特别喜欢这些老哥，越听越有味道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444935360)<br><br>2020-10-08 19:35<br>赞(0) 踩(0) | <div>&lt;[url=/u/43241009]@卿 [/url]&gt;&lt;43241009&gt;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444935360)<br><br>2020-10-08 19:35<br>赞(0) 踩(0) | <div>&lt;<br>[url=/u/43241009]@卿 [/url]&gt;&lt;43241009&gt;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303950802)<br>你的肚子像天鹅绒。<br>2020-09-16 12:13<br>赞(1) 踩(0) | <div>作词作曲加拿大？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260803728)<br><br>2020-08-18 09:47<br>赞(1) 踩(0) | <div>20200818</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275592916)<br>感谢上帝给人们智慧，能够...<br>2020-07-12 11:44<br>赞(0) 踩(0) | <div>兄弟你是最棒的 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -88,7 +88,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412278478)<br><br>2019-02-22 20:57<br>赞(3) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307942996)<br><br>2019-02-12 08:38<br>赞(7) 踩(0) | <div>最美男声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349767491)<br><br>2019-01-28 00:57<br>赞(2) 踩(0) | <div>（）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368289455)<br>总有一个回眸，是为你而转...<br>2019-01-08 15:53<br>赞(2) 踩(0) | <div>亲爱的人我曾经答应过你 绝不让你烦恼只要你能重新爱我 我愿意紧跟在你身旁~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368289455)<br>总有一个回眸，是为你而转...<br>2019-01-08 15:53<br>赞(2) 踩(0) | <div>亲爱的人我曾经答应过你 绝不让你烦恼<br>只要你能重新爱我 我愿意紧跟在你身旁~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408948568)<br><br>2019-01-06 14:29<br>赞(2) 踩(0) | <div>心旷神怡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408189061)<br>忘记世间一切丑陋。过好自...<br>2019-01-05 20:54<br>赞(33) 踩(0) | <div>第一次听是1975年。那时候用笔把曲和词记下来。 一晃要进老年时代。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402753245)<br><br>2018-12-30 22:14<br>赞(3) 踩(0) | <div>Come and sit by my side if you Love me .</div> |
@@ -100,7 +100,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344155640)<br><br>2018-12-07 12:07<br>赞(2) 踩(0) | <div>总是觉得听赵鹏唱歌舒服，好听。是习惯？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189134288)<br><br>2018-11-17 15:39<br>赞(0) 踩(0) | <div>又一个学吉他过来的[带墨镜笑][带墨镜笑][带墨镜笑]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73751684)<br><br>2018-10-31 18:42<br>赞(2) 踩(0) | <div>还有那热爱你的姑娘♥♥♥</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12375897)<br><br>2018-10-30 23:14<br>赞(3) 踩(0) | <div>也就只有声音优势。听了几首他的歌，情绪从来都是一样，没有起伏。当唱歌只剩声音和技术时，还有什么意思？配乐都比他有激情。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12375897)<br><br>2018-10-30 23:14<br>赞(3) 踩(0) | <div>也就只有声音优势。<br><br>听了几首他的歌，情绪从来都是一样，没有起伏。当唱歌只剩声音和技术时，还有什么意思？<br><br>配乐都比他有激情。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301566600)<br><br>2018-12-02 20:32<br>赞(0) 踩(0) | <div>这声音不是嗓子唱的，而是靠胸腔的气流震动，你可以？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111143)<br><br>2018-12-20 18:22<br>赞(0) 踩(0) | <div>那为什么还有那么多人爱听他的歌呢？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368289455)<br>总有一个回眸，是为你而转...<br>2019-01-08 15:56<br>赞(0) 踩(0) | <div>赵鹏的声音号称&amp;ldquo;低音炮&amp;rdquo;，但他的好多歌曲都是一个调子，听多了没意思，又一次去山东自驾游，放了他的专辑，我在开车，差点睡着~~~</div> |
@@ -113,7 +113,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405172676)<br><br>2018-10-05 16:58<br>赞(0) 踩(0) | <div>也是学吉他过来的 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25852583)<br><br>2018-11-04 19:29<br>赞(0) 踩(0) | <div>这里还有一个 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354758681)<br>唯有音乐能治愈所有的伤痛...<br>2018-11-15 10:04<br>赞(0) 踩(0) | <div>加我一个</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247150876)<br>一杯敬自由，一杯敬死亡<br>2018-06-12 10:26<br>赞(3) 踩(0) | <div>大时代过来的永远爱你小犹太</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247150876)<br>一杯敬自由，一杯敬死亡<br>2018-06-12 10:26<br>赞(3) 踩(0) | <div>大时代过来的<br>永远爱你小犹太</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355283404)<br><br>2018-06-02 22:57<br>赞(0) 踩(0) | <div>从车站过来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212066176)<br>love yoursel...<br>2018-04-24 21:50<br>赞(4) 踩(0) | <div>之前一直听的黑鸭子版本的。没想到男低音也可以这么酷 <img src="../../../../images/comments/e100760ce8c127633bca891ea2b371d8.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345647485)<br><br>2018-05-12 07:27<br>赞(0) 踩(0) | <div>这唱的真好，最近特别喜欢淘这类似的老歌听</div> |

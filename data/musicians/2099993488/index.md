@@ -3,7 +3,7 @@ dylanf
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7d45b672aedab851e0fa2fbda36137ae.jpg)<br>dylanf](https://i.xiami.com/dylanfang) | **播放数**: 181457<br>**粉丝数**: 70<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 古风 GuFeng Music, 轻音乐 Easy Listening, 新世纪音乐 New Age<br> |
+| [![](../../images/musicians/7d45b672aedab851e0fa2fbda36137ae.jpg)<br>dylanf](https://i.xiami.com/dylanfang) | **地区**: China 中国大陆<br>**风格**: 古风 GuFeng Music, 轻音乐 Easy Listening, 新世纪音乐 New Age<br>**播放数**: 181457<br>**粉丝数**: 70<br>**评论数**: 7<br> |
 
 ## 档案
 
@@ -36,8 +36,8 @@ Berklee伯克利音乐学院，Verse社，喜欢创作带着故事的纯音，�
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9327494)<br>http://www.x...<br>2016-11-13 23:59<br>赞(0) 踩(0) | <div>love</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110206748)<br><br>2016-02-05 12:55<br>赞(0) 踩(0) | <div>好听有活力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110206748)<br><br>2016-02-05 12:55<br>赞(0) 踩(0) | <div>好听有活力</div> |

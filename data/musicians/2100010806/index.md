@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8aac8eec1dd3a60c7b36cc88c105e2ba.jpg)<br>魏潇逸](https://i.xiami.com/weixiaoyi) | **播放数**: 1286881<br>**粉丝数**: 212<br>**评论数**: 13<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/8aac8eec1dd3a60c7b36cc88c105e2ba.jpg)<br>魏潇逸](https://i.xiami.com/weixiaoyi) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 1286881<br>**粉丝数**: 212<br>**评论数**: 13<br> |
 
 ## 档案
 
@@ -27,8 +27,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427475895)<br>不去在意234567，因...<br>2019-11-08 12:28<br>赞(0) 踩(0) | <div>为小逸的声音变成新粉，加油(ง •̀_•́)ง可惜虾米的歌不是很全。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402450227)<br><br>2018-08-23 11:44<br>赞(0) 踩(0) | <div>小逸加油(ง &amp;bull;̀_&amp;bull;́)ง</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261019234)<br><br>2017-10-25 07:53<br>赞(0) 踩(0) | <div>挺好听的，听了同学的分享以后来听的</div> |

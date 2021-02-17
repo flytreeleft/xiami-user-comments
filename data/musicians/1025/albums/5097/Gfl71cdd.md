@@ -48,15 +48,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442890540)<br>喜欢的旋律伴随一生的路！<br>2020-05-12 18:49<br>赞(0) 踩(0) | <div>喜欢就唱，每个人对每一首歌都有不同的情感呢和感觉。属于自己真正的自己就好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43492923)<br>行到水穷我才开始害怕，夕...<br>2019-11-29 17:27<br>赞(0) 踩(0) | <div>△</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34242852)<br><br>2019-08-03 11:23<br>赞(0) 踩(0) | <div>记得是97年左右的时候听到熊天平的歌，惊为天人，那是他号称水晶才子，用来形容他纯净的声音。同时也跟齐秦、林志炫三人被称为三位嗓音最纯净的男声。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249036173)<br><br>2019-06-28 22:08<br>赞(1) 踩(0) | <div>熊天平的声音非常棒！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324042825)<br><br>2019-04-25 18:30<br>赞(0) 踩(0) | <div>第一次听见这首歌应该是听高中哥们儿的哼唱。现在终于能够听到原唱。熊天平是这首歌的原唱，虽然齐秦版本的更知名一些。个人觉得，熊天平的声线更适合这首歌，因为有这种为情所困烦恼的男生，不应该有像齐秦那样成熟的声线。而且齐秦版本的少了中间最精华的一段歌。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324042825)<br><br>2019-04-25 18:30<br>赞(0) 踩(0) | <div>第一次听见这首歌应该是听高中哥们儿的哼唱。现在终于能够听到原唱。<br>熊天平是这首歌的原唱，虽然齐秦版本的更知名一些。<br>个人觉得，熊天平的声线更适合这首歌，因为有这种为情所困烦恼的男生，不应该有像齐秦那样成熟的声线。而且齐秦版本的少了中间最精华的一段歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307243309)<br><br>2019-02-24 02:03<br>赞(1) 踩(0) | <div>唱歌/唱功不是飙高音，所以细细品味，还是更喜欢齐秦版，齐秦演绎的行云流水，更走心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131350078)<br>顺我者昌逆我者亡<br>2019-02-17 02:58<br>赞(2) 踩(0) | <div>时间治愈的都是愿意自渡的人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131350078)<br>顺我者昌逆我者亡<br>2019-02-17 02:58<br>赞(2) 踩(0) | <div>时间治愈的都是<br><br>愿意自渡的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105567712)<br>让我拥抱着～热爱不要停☀<br>2019-01-16 22:24<br>赞(0) 踩(0) | <div>熊熊的最好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406517370)<br><br>2018-12-12 22:31<br>赞(0) 踩(0) | <div>此曲只应天上有，人间难得几回闻。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404009398)<br><br>2018-12-10 18:07<br>赞(2) 踩(0) | <div>你今天去了么，还有没有哭，别难过了，要学会坚强，我只是累了，我从未想过放弃你，你一定要加油</div> |
@@ -80,7 +80,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294302200)<br><br>2018-06-08 04:45<br>赞(1) 踩(0) | <div>我喜欢这哥们的所有歌，但是我真不知道他为什么这样唱这首歌，不是我理解的范畴了。但是我依然喜欢他，这个歌词说到你的心里了吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358190147)<br>只想一个人静静的听音乐<br>2018-05-05 17:28<br>赞(2) 踩(0) | <div>还有齐秦的，都是后来者</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356214893)<br><br>2018-04-05 11:54<br>赞(2) 踩(0) | <div>悲伤到无疑循环，该以什么的微笑来融化我不自然的眼泪。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331413504)<br><br>2018-04-02 20:46<br>赞(7) 踩(0) | <div>今天去k歌，朋友们都问我为啥这个歌音律不对。其实熊天平才是这首歌的主人。如果不是身临其境，你永远听不出这首歌多么的有旋律，那种难过，失落，无奈，万千感概汇聚成一句经典的再不能经典的歌词：&amp;ldquo;你也不必坚强再说爱我&amp;rdquo;。。。或许只有熊天平才能唱出我心中的那份感觉吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331413504)<br><br>2018-04-02 20:46<br>赞(7) 踩(0) | <div>今天去k歌，朋友们都问我为啥这个歌音律不对。其实熊天平才是这首歌的主人。如果不是身临其境，你永远听不出这首歌多么的有旋律，那种难过，失落，无奈，万千感概汇聚成一句经典的再不能经典的歌词：&amp;ldquo;你也不必坚强再说爱我&amp;rdquo;。。。或许只有熊天平才能唱出<br>我心中的那份感觉吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355864654)<br><br>2018-03-30 15:45<br>赞(4) 踩(0) | <div>在那个年代颜值不高的他为何红极一时？才情满分，声音得天独厚。这就是答案。现今这歌翻唱的版本多到数不清，但我觉得这首经典无人可超越，以前没有，以后也不会有。一个低调的音乐才子&amp;rarr;熊天平 <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169775670)<br>打不死的小强<br>2018-03-16 19:43<br>赞(1) 踩(0) | <div>第一句出来还是会被感动到，高音部分流畅自然。一把吉他就开唱，开口脆的代表～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351387078)<br><br>2018-03-16 17:36<br>赞(1) 踩(0) | <div>回国倒计时20年07个月21天</div> |
@@ -103,7 +103,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33347174)<br><br>2018-07-05 22:40<br>赞(0) 踩(0) | <div>Hug，曾经伴随我的高中时光，最喜欢的歌手，二十年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256715285)<br><br>2017-11-04 13:59<br>赞(1) 踩(0) | <div>真的很好很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282733478)<br><br>2017-10-28 00:45<br>赞(1) 踩(0) | <div>熊天平这首经典中的经典成全的是小哥！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634161)<br><br>2017-10-28 00:10<br>赞(8) 踩(0) | <div>熊天平是这首歌的作者好不好，他自己要诠释不出歌本身的意境谁还能唱出来呢？别再说不如齐秦，梁静茹了好不好？？！说实话梁的版本和熊和齐的差挺多的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634161)<br><br>2017-10-28 00:10<br>赞(8) 踩(0) | <div>熊天平是这首歌的作者好不好，他自己要诠释不出歌本身的意境谁还能唱出来呢？<br>别再说不如齐秦，梁静茹了好不好？？！说实话梁的版本和熊和齐的差挺多的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5690346)<br><br>2017-10-27 23:21<br>赞(1) 踩(0) | <div>听了许多版本的，熊天平和静茹的版本最动人了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197094163)<br>再见，虾米……<br>2018-08-12 17:28<br>赞(0) 踩(0) | <div>先入为主，感情不同而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299348691)<br>为什么现在的流行歌曲不流...<br>2017-10-20 13:36<br>赞(0) 踩(0) | <div>另一种味道</div> |
@@ -132,7 +132,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287142246)<br><br>2017-06-24 09:34<br>赞(0) 踩(0) | <div>s ofy w wo w y xwwwww</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306233723)<br><br>2017-06-21 11:15<br>赞(0) 踩(0) | <div>小熊还是小熊，原版的魅力，7月成都，静静听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299890098)<br><br>2017-06-19 22:21<br>赞(0) 踩(0) | <div>啊啊啊啊啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1239084)<br>心之所向，微微芬芳。<br>2017-06-19 09:11<br>赞(2) 踩(0) | <div>词曲熊天平，原唱确实是齐秦。相比之下我更喜欢熊天平的，虽然有点瑕疵，感觉这个有点像demo。PS 后面夹着许美静的  城里的月光。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1239084)<br>心之所向，微微芬芳。<br>2017-06-19 09:11<br>赞(2) 踩(0) | <div>词曲熊天平，原唱确实是齐秦。相比之下我更喜欢熊天平的，虽然有点瑕疵，感觉这个有点像demo。<br>PS 后面夹着许美静的  城里的月光。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253069357)<br>90后<br>2017-06-19 08:24<br>赞(1) 踩(0) | <div>金曲捞。。。一开嗓。。。我给跪了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1239084)<br>心之所向，微微芬芳。<br>2017-06-15 16:14<br>赞(1) 踩(0) | <div>后面还夹着许美静的  阳光总在风雨后</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1239084)<br>心之所向，微微芬芳。<br>2017-06-15 10:42<br>赞(0) 踩(0) | <div>这个个里面还夹着许美静的歌，是怎么回事。</div> |
@@ -156,7 +156,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48014753)<br>失去了是痛苦_得到了是无...<br>2017-01-28 14:00<br>赞(1) 踩(0) | <div>原唱果然好朴实</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149426824)<br><br>2017-01-27 05:33<br>赞(0) 踩(0) | <div>看歌手名气，就知道谁唱得好了！还是小哥版本最牛B！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2042280)<br><br>2017-01-07 20:16<br>赞(2) 踩(0) | <div>原唱能把人听哭啊……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6820570)<br>这是语言的变调，承接醒来...<br>2016-12-23 18:09<br>赞(0) 踩(0) | <div>这张是神专啊！这种淡淡吉他伴奏的偏清唱。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6820570)<br>这是语言的变调，承接醒来...<br>2016-12-23 18:09<br>赞(0) 踩(0) | <div>这张是神专啊！<br>这种淡淡吉他伴奏的偏清唱。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126319598)<br>音乐记住了时间<br>2016-12-12 10:36<br>赞(2) 踩(0) | <div>原唱版本，前两句真的就让人泪奔…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200238088)<br><br>2016-12-10 03:09<br>赞(0) 踩(0) | <div>熊哥很多歌都很好听，带着心在唱歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200238088)<br><br>2016-12-10 03:08<br>赞(1) 踩(0) | <div>有种想哭的冲动</div> |
@@ -184,14 +184,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120823662)<br><br>2016-03-07 01:59<br>赞(0) 踩(0) | <div>感觉还是金池版本最好听 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15385052)<br>中国的天地创造神<br>2015-10-30 04:46<br>赞(0) 踩(0) | <div>原来是熊天平的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53644056)<br><br>2015-07-28 00:05<br>赞(2) 踩(0) | <div>最清澈的版本</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2015-06-21 21:01<br>赞(2) 踩(0) | <div>在夜夜夜里听夜夜夜夜。时间仿佛凝结。最爱的版本，没有之一。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2015-06-21 21:01<br>赞(2) 踩(0) | <div>在夜夜夜里听夜夜夜夜。<br>时间仿佛凝结。<br>最爱的版本，没有之一。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47996653)<br><br>2015-06-15 09:23<br>赞(0) 踩(0) | <div>好球！！！漂亮～～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3932962)<br><br>2015-06-11 10:54<br>赞(0) 踩(0) | <div>我说不好听会不会被打····</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40344398)<br><br>2016-07-03 18:44<br>赞(0) 踩(0) | <div>不会 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10721683)<br>音乐改变生活！<br>2015-05-14 11:24<br>赞(0) 踩(0) | <div>夜夜夜夜 - 熊天平</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6293759)<br>愛真善美  审视欲望  ...<br>2015-04-05 22:37<br>赞(0) 踩(0) | <div>愛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2014-12-13 22:19<br>赞(2) 踩(0) | <div>他这样唱不是一般人能模仿的来的 首先有这样清澈的声音就很难得了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11818870)<br>要用歌声让你忘了所有的痛...<br>2014-12-06 21:06<br>赞(1) 踩(0) | <div>居然第一次听这个版本。K过那么多次，难道点的不是熊天平版的吗？......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11818870)<br>要用歌声让你忘了所有的痛...<br>2014-12-06 21:06<br>赞(1) 踩(0) | <div>居然第一次听这个版本。<br>K过那么多次，难道点的不是熊天平版的吗？<br>......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33992892)<br>暂无签名~<br>2014-12-04 12:07<br>赞(0) 踩(0) | <div>一个人的流浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8966437)<br><br>2014-11-05 17:45<br>赞(0) 踩(0) | <div>为啥没火</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41595772)<br> <br>2016-02-03 23:42<br>赞(0) 踩(0) | <div>火过了，没大火，当年也属于小众音乐。可惜退隐了</div> |
@@ -207,7 +207,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40507807)<br>青春若有张不老的脸。<br>2015-01-10 22:09<br>赞(0) 踩(0) | <div>顶你，多年前磁带时代就喜欢了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262243442)<br>一蓑烟雨任平生<br>2017-08-01 18:43<br>赞(0) 踩(0) | <div>原创作者的演绎不存在跑不跑调，词曲都是他写的，他怎么唱都是对的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313107347)<br><br>2017-08-18 18:14<br>赞(0) 踩(0) | <div>我的磁带时代啊</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2017-12-07 17:42<br>赞(0) 踩(0) | <div>熊天平的唱功有多好可以去听听火柴天堂这首歌，太悲了。。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2017-12-07 17:42<br>赞(0) 踩(0) | <div>熊天平的唱功有多好<br>可以去听听火柴天堂<br>这首歌，太悲了。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338977026)<br><br>2018-02-16 20:42<br>赞(0) 踩(0) | <div>这个版本感觉唱出已经觉醒了！顿悟了  不需要再用语言来表达，这才是这首歌的本意</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281489781)<br><br>2018-06-28 19:42<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19308)<br>不明所以不以为然不甚了了<br>2014-01-26 22:07<br>赞(0) 踩(0) | <div>Ｍ</div> |
@@ -222,14 +222,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9525706)<br><br>2013-11-03 15:58<br>赞(0) 踩(0) | <div>有几处长音和“不愿”跑调了。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4183182)<br>还记得年少时的梦吗<br>2015-03-20 18:54<br>赞(0) 踩(0) | <div>的确 估计是demo的缘故吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7331552)<br>感谢有音乐陪伴<br>2013-10-02 14:29<br>赞(0) 踩(0) | <div>熊天平</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18800005)<br>全民K歌Andyli99...<br>2013-09-13 21:10<br>赞(0) 踩(0) | <div>想问天你在那里我想问问我自己一开始我聪明 结束我聪明聪明的几乎都毁掉了我自己想问天问大地或著是迷信问问宿命放弃所有 抛下所有让我飘流在安静的夜夜空里你也不必牵强再说爱我反正我的灵魂已片片凋落</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18800005)<br>全民K歌Andyli99...<br>2013-09-13 21:10<br>赞(0) 踩(0) | <div>想问天你在那里<br>我想问问我自己<br>一开始我聪明 结束我聪明<br>聪明的几乎都毁掉了我自己<br>想问天问大地<br>或著是迷信问问宿命<br>放弃所有 抛下所有<br>让我飘流在安静的夜夜空里<br>你也不必牵强再说爱我<br>反正我的灵魂已片片凋落</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6724110)<br>NoPainNoGain<br>2013-09-04 13:46<br>赞(0) 踩(0) | <div>很想下这首歌！不过没有金币！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3662529)<br>早开的长途班<br>2013-07-19 23:50<br>赞(0) 踩(0) | <div>像给自己的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1696833)<br><br>2013-07-11 17:17<br>赞(0) 踩(0) | <div>你也不必牵强再说爱我，反正我的灵魂已片片凋落；慢慢的拼凑，慢慢地拼凑，拼凑成一个完全不属于真正的我……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12217451)<br>与人为善，与人为伴！<br>2013-07-07 23:20<br>赞(1) 踩(0) | <div>许多时候，我们并不比别人成功，只是刚好处在别人仰望的角度而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12783290)<br>.<br>2013-07-07 00:21<br>赞(0) 踩(0) | <div>午饭时听的歌 。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10121949)<br>暂无签名~<br>2013-06-28 16:53<br>赞(0) 踩(0) | <div>让我漂流在安静的夜夜空里~~~~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8818169)<br><br>2013-06-23 00:06<br>赞(0) 踩(0) | <div>晚安早安平安</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8818169)<br><br>2013-06-23 00:06<br>赞(0) 踩(0) | <div>晚安<br>早安<br>平安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6673685)<br>在黑夜寻找星光<br>2013-06-21 22:39<br>赞(0) 踩(0) | <div>夜里夜空下夜思夜愁，夜夜夜夜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6673685)<br>在黑夜寻找星光<br>2013-06-21 22:34<br>赞(0) 踩(0) | <div>小熊的经典！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15497231)<br><br>2013-06-07 15:06<br>赞(0) 踩(0) | <div>特别适合晚上聆听，好棒！</div> |
@@ -276,7 +276,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4743201)<br> <br>2012-06-19 17:06<br>赞(0) 踩(0) | <div>Lynn说 这个是少有人听过的朴素原版  不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7343812)<br><br>2012-05-29 22:02<br>赞(0) 踩(0) | <div>晚上去看我们学校09级的实习大戏《恋爱的犀牛》，真心的觉得源自台湾的剧本真的很犀利，恋爱神经啊啧啧啧，学长学姐演的也投入。好吧，真心喜欢上舞台剧了。【结束之后脑海里第一个想到的就是这首歌。夜夜夜夜】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9078076)<br><br>2012-05-26 23:46<br>赞(0) 踩(0) | <div>我不愿被情捉弄，让我无法大步走。我也不愿再多说，因为灵魂有了裂缝...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64871)<br><br>2012-04-29 21:38<br>赞(0) 踩(0) | <div>【反正我的灵魂已片片凋落 慢慢的拼凑慢慢的拼凑 拼凑成一个完全不属於真正的我我不愿再放纵 我不愿每天每夜每秒飘流 也不愿再多问再多说再多求我的梦】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64871)<br><br>2012-04-29 21:38<br>赞(0) 踩(0) | <div>【反正我的灵魂已片片凋落 慢慢的拼凑慢慢的拼凑 拼凑成一个完全不属於真正的我<br>我不愿再放纵 我不愿每天每夜每秒飘流 也不愿再多问再多说再多求我的梦】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5464625)<br><br>2012-04-27 13:38<br>赞(0) 踩(0) | <div>这个版本的好···</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5187680)<br><br>2012-04-17 01:06<br>赞(0) 踩(0) | <div>今天反复哼起这首歌，突然很怀念十几岁的年少时光。#弯弯岛小火车旅行#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8637520)<br><br>2012-04-03 22:00<br>赞(0) 踩(0) | <div>夜夜夜夜</div> |
@@ -288,7 +288,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7360941)<br><br>2011-12-22 21:48<br>赞(0) 踩(0) | <div>夜夜夜夜~夜里听它别有一番滋味~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2609175)<br><br>2011-11-23 16:00<br>赞(0) 踩(0) | <div>原唱果然最好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5672882)<br><br>2011-09-30 15:31<br>赞(0) 踩(0) | <div>熊氏声调演绎的没有齐秦粗犷的回忆 淡淡的 使我在这十一前的最后忙碌里 忽然忍不住在办公室低下头 泪满眼眶</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685622)<br>我就是我<br>2011-09-28 23:26<br>赞(0) 踩(0) | <div>我不愿再放纵我不愿每天每夜每秒飘流也不愿再多问再多说再多求我的梦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685622)<br>我就是我<br>2011-09-28 23:26<br>赞(0) 踩(0) | <div>我不愿再放纵<br>我不愿每天每夜每秒飘流<br>也不愿再多问再多说再多求<br>我的梦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685622)<br>我就是我<br>2011-09-28 23:24<br>赞(0) 踩(0) | <div>经典...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4902195)<br><br>2011-09-28 21:09<br>赞(0) 踩(0) | <div>还是喜欢这个版本，原唱！这首老歌经典得无法形容！爱！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3711711)<br><br>2011-09-25 12:27<br>赞(0) 踩(0) | <div>你也不必牵强再说爱我，反正我的灵魂已片片凋落，慢慢地拼凑，拼凑一个完全不属于真正的我。</div> |
@@ -299,7 +299,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1696671)<br>暂无签名~<br>2011-07-19 21:27<br>赞(0) 踩(0) | <div>这个版本很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1632248)<br><br>2011-07-14 19:56<br>赞(0) 踩(0) | <div>曲子好 气氛好 唱得好 深夜的独自吟唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3999573)<br><br>2011-07-14 08:33<br>赞(0) 踩(0) | <div>M</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/538989)<br>我还没想好要写什么...<br>2011-06-28 11:18<br>赞(0) 踩(0) | <div>你也不必牵强再说爱我反正我的灵魂已片片凋落慢慢的拼凑 慢慢的拼凑拼凑成一个完全不属于真正的我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/538989)<br>我还没想好要写什么...<br>2011-06-28 11:18<br>赞(0) 踩(0) | <div>你也不必牵强再说爱我<br>反正我的灵魂已片片凋落<br>慢慢的拼凑 慢慢的拼凑<br>拼凑成一个完全不属于真正的我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3929298)<br><br>2011-06-22 20:03<br>赞(0) 踩(0) | <div>这才是原唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2832735)<br><br>2011-06-03 23:24<br>赞(0) 踩(0) | <div>简单的吉他伴奏，复杂的情感纠结。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3152845)<br>发烧友<br>2011-05-20 16:01<br>赞(0) 踩(0) | <div>不一样的夜夜夜，感动的一塌糊涂</div> |
@@ -308,7 +308,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3148806)<br><br>2011-04-02 23:11<br>赞(0) 踩(0) | <div>就这样被他的声音吸引着。。吸引着。。。你也会喜欢吗 ？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2729703)<br><br>2011-03-21 01:47<br>赞(0) 踩(0) | <div>非常喜欢熊天平，但是这首歌，似乎没齐秦和梁静茹唱的好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/960092)<br><br>2011-02-24 18:22<br>赞(0) 踩(0) | <div>深情</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2756162)<br><br>2011-02-15 17:43<br>赞(0) 踩(0) | <div>我电脑里面的不是这个版本，少了一段歌词。我不愿被情捉弄捉弄他让我无法大步走路也不愿再多说灵魂也有了裂缝没有这一段</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2756162)<br><br>2011-02-15 17:43<br>赞(0) 踩(0) | <div>我电脑里面的不是这个版本，少了一段歌词。<br><br>我不愿被情捉弄<br>捉弄他让我无法大步走路<br>也不愿再多说<br>灵魂也有了裂缝<br><br><br>没有这一段</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121511)<br><br>2011-09-03 13:49<br>赞(0) 踩(0) | <div>那是后来正式编曲的版本，这段被删减了。这个是最初创作完成后录制的demo小样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/872863)<br>网易云音乐ID:BLUE...<br>2011-02-02 19:50<br>赞(0) 踩(0) | <div>K歌必唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/555446)<br>坐而论道不如起而躬行。<br>2010-12-27 15:15<br>赞(0) 踩(0) | <div>反正我的灵魂已片片凋落 不愿再多问再多说再多求</div> |

@@ -41,8 +41,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329244420)<br><br>2020-12-28 07:59<br>赞(0) 踩(0) | <div>说抄袭的，你14岁的时候，让你随便抄袭，你能写出来不</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427840279)<br><br>2020-08-03 03:37<br>赞(1) 踩(0) | <div>☯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2759360)<br>自由自在，无忧无惧。<br>2020-06-27 21:21<br>赞(0) 踩(0) | <div>突然特别特别想听 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -88,7 +88,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15878503)<br>左手大海，右手冰川。<br>2016-07-19 17:42<br>赞(0) 踩(0) | <div><q><b>蔡心仪和她最后的倔强说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57345628)<br>山水非山水 冻了变雪堆<br>2016-06-01 19:52<br>赞(0) 踩(0) | <div>多希望有人来陪我度过末日</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80888362)<br>多数流于时间，少许伴随一...<br>2016-05-19 00:51<br>赞(0) 踩(0) | <div>。哈，哈啊哈啊。哈啊哈啊。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52855)<br><br>2016-04-13 22:09<br>赞(0) 踩(0) | <div>&amp;quot;寂寞围绕著电视垂死坚持 在两点半消失多希望有人来陪我 度过末日空虚敲打著意志彷彿这时间已静止我怀疑人们的生活 有所掩饰嗯 垂死坚持嗯 已静止&amp;quot;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52855)<br><br>2016-04-13 22:09<br>赞(0) 踩(0) | <div>&amp;quot;寂寞围绕著电视<br>垂死坚持 在两点半消失<br>多希望有人来陪我 度过末日<br>空虚敲打著意志<br>彷彿这时间已静止<br>我怀疑人们的生活 有所掩饰<br>嗯 垂死坚持<br>嗯 已静止&amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90422176)<br>我还没想好要写什么...<br>2016-03-22 15:39<br>赞(16) 踩(0) | <div>喜欢大张伟唱的版本</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61544704)<br> <br>2016-02-04 21:28<br>赞(1) 踩(0) | <div>friday I'm ilove</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5011588)<br>世界再大。我走不出你 。<br>2015-11-22 11:56<br>赞(0) 踩(0) | <div>好震惊。。</div> |
@@ -108,9 +108,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5613699)<br><br>2013-03-15 01:33<br>赞(0) 踩(0) | <div>忘了是哪年听过的这歌了，深夜加班，深有同感~[哈哈]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8284897)<br><br>2013-01-20 23:34<br>赞(1) 踩(0) | <div>喜欢杨乃文的版本超过江美琪的版本，杨乃文的声音更有疏离感，猫一样的女人～</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4207050)<br>穿著芭蕾舞鞋整夜打保齡球...<br>2015-12-09 02:47<br>赞(0) 踩(0) | <div>這裡的疏離該如何來理解呢、</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7959780)<br><br>2012-04-24 04:38<br>赞(0) 踩(0) | <div>嗯 垂死坚持嗯 全部消失嗯 已静止</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7959780)<br><br>2012-04-24 04:38<br>赞(0) 踩(0) | <div>嗯 垂死坚持<br>嗯 全部消失<br>嗯 已静止</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1883496)<br><br>2012-02-18 13:19<br>赞(1) 踩(0) | <div>时间不会静止，依旧要垂死坚持</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1701462)<br>Safrina<br>2012-01-04 22:18<br>赞(0) 踩(0) | <div>最近单曲循环了，夜里失眠就反反复复来这个歌词很喜欢……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1701462)<br>Safrina<br>2012-01-04 22:18<br>赞(0) 踩(0) | <div>最近单曲循环了，夜里失眠就反反复复来这个<br>歌词很喜欢……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7306509)<br><br>2011-12-28 21:53<br>赞(1) 踩(0) | <div>我怀疑人们的生活有所掩饰～～～地球人，晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1998229)<br><br>2011-11-26 21:29<br>赞(0) 踩(0) | <div>想当年花儿也是出过好歌的，就是这个唱的还不如原唱呢。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/572161)<br><br>2011-01-04 21:57<br>赞(1) 踩(0) | <div>这歌这么唱还是不怎么妥当</div> |

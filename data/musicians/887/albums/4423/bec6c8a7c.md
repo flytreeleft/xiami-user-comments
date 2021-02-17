@@ -73,14 +73,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26998455)<br><br>2019-12-21 23:23<br>赞(0) 踩(0) | <div>这首比较耐听，评论才两位数？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277323633)<br><br>2019-02-28 12:05<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-22 00:41<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19928456)<br>frank freak<br>2018-01-13 19:31<br>赞(2) 踩(0) | <div>个人觉得这是汪峰最好的一首歌，虽然歌词有点俗套</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14855211)<br><br>2017-10-30 10:22<br>赞(1) 踩(0) | <div>有时候这种感觉也许会同意,一个人为了自由可以忍受屈辱,破碎的命运把我变得坚硬,我挣扎着但永远都不会放弃. 这是一段很长很长的旅程,用尽所有的时光永无止境,我不停地奔跑呼喊和追寻,在我的路上寻找生命的意义. 我奋力地穿越空惘和迷墙,在我的路上寻找生命的意义.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18800005)<br>全民K歌Andyli99...<br>2017-10-27 23:28<br>赞(0) 踩(0) | <div>有时候这种感觉没有人能了解我暗自哭泣却不知道为了什么这里的生活把我变得盲目我凝视着却看不到自己的灵魂这是一段很长很长的旅程用尽所有的时光仍无止境我不停地奔跑呼喊和追寻在我的路上寻找生命的意义这是一段很长很长的旅程流尽所有的泪水仍无止境我奋力地穿越空惘和迷墙在我的路上寻找生命的意义</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18800005)<br>全民K歌Andyli99...<br>2017-10-27 23:28<br>赞(0) 踩(0) | <div>有时候这种感觉没有人能了解<br>我暗自哭泣却不知道为了什么<br>这里的生活把我变得盲目<br>我凝视着却看不到自己的灵魂<br><br>这是一段很长很长的旅程<br>用尽所有的时光仍无止境<br>我不停地奔跑呼喊和追寻<br>在我的路上寻找生命的意义<br><br>这是一段很长很长的旅程<br>流尽所有的泪水仍无止境<br>我奋力地穿越空惘和迷墙<br>在我的路上寻找生命的意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251192149)<br><br>2017-04-01 22:50<br>赞(0) 踩(0) | <div>依然在路上！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207203162)<br>愿永存善念和远方，愿渴望...<br>2017-02-03 19:41<br>赞(0) 踩(0) | <div>怎么？？？没人？？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28225132)<br>暂无签名~<br>2015-08-15 11:30<br>赞(0) 踩(0) | <div></div> |
@@ -103,22 +103,22 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13433002)<br><br>2013-09-15 19:36<br>赞(0) 踩(0) | <div>好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14865408)<br><br>2013-09-15 16:40<br>赞(0) 踩(0) | <div>这是一段很长很长的旅程</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21958759)<br><br>2013-09-14 16:41<br>赞(0) 踩(0) | <div>xihuan</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2594773)<br><br>2013-09-14 12:38<br>赞(0) 踩(0) | <div>有时候这种感觉没有人能了解我暗自哭泣却不知道为了什么这里的生活把我变得盲目我凝视着却看不到自己的灵魂</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2594773)<br><br>2013-09-14 12:38<br>赞(0) 踩(0) | <div>有时候这种感觉没有人能了解<br>我暗自哭泣却不知道为了什么<br>这里的生活把我变得盲目<br>我凝视着却看不到自己的灵魂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9963423)<br><br>2013-09-14 08:31<br>赞(0) 踩(0) | <div>“这是一段很长很长的旅程，流尽所有的泪水仍无止境，我奋力地穿越空惘和迷墙，在我的路上寻找生命的意义”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6396306)<br><br>2013-09-14 08:00<br>赞(0) 踩(0) | <div>早，我去study了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8171434)<br><br>2013-09-14 01:39<br>赞(0) 踩(0) | <div>好歌，说不出为什么？我的路，我回顾我的路。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20440684)<br><br>2013-08-28 11:40<br>赞(0) 踩(0) | <div>这是也一段很长很长的旅程用尽所有的时光永无止境我不停的奔跑呼喊着追寻在我的路上寻找我生命的意义</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8171434)<br><br>2013-09-14 01:39<br>赞(0) 踩(0) | <div>好歌，说不出为什么？<br><br>我的路，我回顾我的路。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20440684)<br><br>2013-08-28 11:40<br>赞(0) 踩(0) | <div>这是也一段很长很长的旅程<br>用尽所有的时光永无止境<br>我不停的奔跑呼喊着追寻<br>在我的路上寻找我生命的意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11613158)<br><br>2013-08-27 23:19<br>赞(0) 踩(0) | <div>我们孤独地，来到这个世界上。用我们有限的生命，一点点地画出属于自己的图画。我们扬起稚气的脸，幻想着拥有整个世界。然后在某个寂寥的午后，因为某个人的微笑，阳光就明媚起来。 ——寂地《我的路》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18106631)<br> <br>2013-08-18 11:03<br>赞(0) 踩(0) | <div>#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11346224)<br><br>2013-08-17 20:59<br>赞(0) 踩(0) | <div>my way</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18874002)<br><br>2013-08-09 20:03<br>赞(0) 踩(0) | <div>有时候这种感觉没有人了解，我暗自哭泣就不知道为了什么~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18570602)<br><br>2013-08-06 20:44<br>赞(0) 踩(0) | <div>w</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-08-06 12:56<br>赞(0) 踩(0) | <div>一个人为了自由可以忍受屈辱破碎的命运把我变得坚硬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-08-06 12:56<br>赞(0) 踩(0) | <div>一个人为了自由可以忍受屈辱<br>破碎的命运把我变得坚硬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18054819)<br><br>2013-08-01 23:38<br>赞(0) 踩(0) | <div>有时候这种感觉没有人了解</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16095131)<br><br>2013-06-18 22:50<br>赞(0) 踩(0) | <div>#我想听音乐#不是因为一件事睡不着，而是一堆事一个接着一个，好难受啊。理想与现实世界的困惑。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14029786)<br><br>2013-06-01 00:26<br>赞(0) 踩(0) | <div>6@1，FY</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12017214)<br><br>2013-05-09 22:27<br>赞(0) 踩(0) | <div>感动，我的路。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13501701)<br><br>2013-03-20 21:57<br>赞(0) 踩(0) | <div>这是一段很长很长的旅程用尽所有的时光永无止境我不停地奔跑、呼喊和追寻在我的路上寻找生命的意义</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13501701)<br><br>2013-03-20 21:57<br>赞(0) 踩(0) | <div>这是一段很长很长的旅程<br>用尽所有的时光永无止境<br>我不停地奔跑、呼喊和追寻<br>在我的路上寻找生命的意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13267822)<br><br>2013-02-28 10:28<br>赞(0) 踩(0) | <div>我发现自已越来越难忍受一个人看电影的感觉了。我宁可像章子怡那样，一年就出一部作品，一星期就看一部和你一起的电影。这是一段很长很长的旅程，那感觉让我忘了自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11701770)<br>Rock！Folk！<br>2013-02-16 13:08<br>赞(0) 踩(0) | <div>唱着唱着就想到了自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3402350)<br><br>2013-01-29 12:03<br>赞(0) 踩(0) | <div>我的路－会越来越繁花似锦。</div> |
@@ -147,5 +147,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/768200)<br><br>2011-07-01 21:35<br>赞(0) 踩(0) | <div>这是一段很长很长旅程...在我的路上寻找生命的意义。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1712996)<br><br>2011-05-23 17:50<br>赞(0) 踩(0) | <div>听着听着，心就慢下来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1326590)<br><br>2011-05-21 09:48<br>赞(0) 踩(0) | <div>人生就是一个勇攀高峰的过程</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/593470)<br> <br>2011-04-29 17:12<br>赞(0) 踩(0) | <div>“这是一段很长很长的旅程用尽所有的时光永无止境我不停地奔跑呼喊和追寻在我的路上寻找生命的意义”什么才是生命的意义？也许生命的意义就在于生命本身，在于这奋斗的历程！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/593470)<br> <br>2011-04-29 17:12<br>赞(0) 踩(0) | <div>“这是一段很长很长的旅程<br>用尽所有的时光永无止境<br>我不停地奔跑呼喊和追寻<br>在我的路上寻找生命的意义”<br>什么才是生命的意义？也许生命的意义就在于生命本身，在于这奋斗的历程！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1348007)<br><br>2010-08-20 15:57<br>赞(0) 踩(0) | <div>男人依旧</div> |

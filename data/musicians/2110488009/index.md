@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/858e3111562243d371be20652366970e.jpg)<br>薄云天](https://i.xiami.com/boyuntian) | **播放数**: 7649863<br>**粉丝数**: 162<br>**评论数**: 3<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 摇滚 Rock & Roll<br> |
+| [![](../../images/musicians/858e3111562243d371be20652366970e.jpg)<br>薄云天](https://i.xiami.com/boyuntian) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 摇滚 Rock & Roll<br>**播放数**: 7649863<br>**粉丝数**: 162<br>**评论数**: 3<br> |
 
 ## 档案
 
@@ -55,8 +55,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419874936)<br><br>2019-03-19 11:51<br>赞(1) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352347021)<br>时间可以证明一切，️️清...<br>2019-03-10 19:58<br>赞(1) 踩(0) | <div>你的歌唱的太好了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44108615)<br>灵魂摆渡者<br>2018-12-19 09:24<br>赞(1) 踩(0) | <div>好，有深度。有男人味</div> |

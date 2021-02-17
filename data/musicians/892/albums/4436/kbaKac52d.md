@@ -59,12 +59,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95685436)<br>独立之人格，自由之精神！<br>2020-12-27 17:37<br>赞(0) 踩(0) | <div>她一枪将我打倒，嘣，嘣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49334418)<br>～<br>2020-10-24 01:54<br>赞(0) 踩(0) | <div>～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274607656)<br><br>2020-05-14 20:23<br>赞(1) 踩(0) | <div>我去，试听还要钱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2020-03-14 18:59<br>赞(2) 踩(0) | <div>最浪费时间的事就是给年轻人讲经验讲一万句都不如自己真实摔一跤 ​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2020-03-14 18:59<br>赞(2) 踩(0) | <div>最浪费时间的事就是给年轻人讲经验<br>讲一万句都不如自己真实摔一跤 ​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13927906)<br>路漫漫其修远吾将上下而其...<br>2020-02-21 22:14<br>赞(0) 踩(0) | <div>朴树所有专辑我都听了，怎么没有这一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201454823)<br><br>2019-11-25 09:42<br>赞(1) 踩(0) | <div>怎么能屏蔽歌曲？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19243010)<br><br>2018-10-30 23:15<br>赞(0) 踩(0) | <div>声音和咬字有点像许巍 <img src="../../../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png"></div> |
@@ -77,7 +77,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282518229)<br><br>2018-08-03 08:22<br>赞(0) 踩(0) | <div>应该是这个无奈的年代</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343629074)<br><br>2018-05-30 09:57<br>赞(2) 踩(0) | <div>耳聋了吧！听不出这是首好歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240104667)<br><br>2018-05-23 07:34<br>赞(1) 踩(0) | <div>听个歌还有这么多杠精</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21365971)<br>一点浩然气，千里快哉。<br>2018-05-02 19:57<br>赞(2) 踩(0) | <div>我什么呀都没了我们无法逃脱我们无法选择我们无法逃脱我们都无法选择我们无法逃脱我们无法选择我们无法逃脱我们无法选择</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21365971)<br>一点浩然气，千里快哉。<br>2018-05-02 19:57<br>赞(2) 踩(0) | <div>我什么呀都没了<br>我们无法逃脱<br>我们无法选择<br>我们无法逃脱<br>我们都无法选择<br>我们无法逃脱<br>我们无法选择<br>我们无法逃脱<br>我们无法选择</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357609965)<br><br>2018-04-24 09:45<br>赞(1) 踩(0) | <div>不太喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319819435)<br><br>2018-04-23 05:26<br>赞(2) 踩(0) | <div>很喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297712562)<br><br>2018-04-02 10:20<br>赞(0) 踩(0) | <div>有点张楚的味道</div> |
@@ -162,7 +162,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11790407)<br><br>2016-07-23 23:36<br>赞(0) 踩(0) | <div>岁月把我们训练的，什么都无所谓啦，淡定的连自己都惊讶……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116943018)<br>drifter<br>2016-07-14 18:43<br>赞(2) 踩(0) | <div>前奏棒 好听哎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10451185)<br>Peace<br>2016-07-14 16:07<br>赞(0) 踩(0) | <div>，</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5014548)<br><br>2016-07-07 23:33<br>赞(2) 踩(0) | <div>20160428有的项目做完感觉苍老了一岁有的项目做完感觉长大了一岁就是这么微妙</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5014548)<br><br>2016-07-07 23:33<br>赞(2) 踩(0) | <div>20160428<br>有的项目做完感觉苍老了一岁<br>有的项目做完感觉长大了一岁<br>就是这么微妙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9580589)<br>谢谢你  装诗在心里  ...<br>2016-05-23 12:32<br>赞(1) 踩(0) | <div>朴树  许巍   的感觉  不过却有自己的特色   真心推荐</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50215338)<br>goethes<br>2016-08-30 23:04<br>赞(0) 踩(0) | <div>除了许巍朴树，你还知道谁？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37499490)<br>风决定要走，云怎么挽留。<br>2016-09-20 11:12<br>赞(0) 踩(0) | <div><q><b>nasszi说：</b></q></div> |
@@ -220,7 +220,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57467468)<br><br>2015-08-30 10:44<br>赞(2) 踩(0) | <div>炒鸡好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3177400)<br>温和中用力起来<br>2015-08-12 16:34<br>赞(0) 踩(0) | <div>忽然很难过，却不知道难过什么。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9889472)<br>树<br>2015-08-01 23:27<br>赞(0) 踩(0) | <div>我们无法逃脱，我们无法选择！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6980557)<br>日消月长 得未曾有<br>2015-07-17 17:16<br>赞(2) 踩(0) | <div>回过头再听的时候，哭成了泪人儿。从没如此爱过这首歌。❤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6980557)<br>日消月长 得未曾有<br>2015-07-17 17:16<br>赞(2) 踩(0) | <div>回过头再听的时候，哭成了泪人儿。<br><br><br>从没如此爱过这首歌。❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37191081)<br><br>2015-07-17 09:35<br>赞(34) 踩(0) | <div>实在是太难听了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191792260)<br><br>2016-12-20 22:55<br>赞(0) 踩(0) | <div>你不喜欢就不喜欢，但是别说太难听了，OK？请尊重创作人的劳动成果！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253515481)<br><br>2016-12-22 11:40<br>赞(0) 踩(0) | <div>让你耳朵受伤了</div> |
@@ -272,7 +272,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2365810)<br><br>2014-12-31 15:34<br>赞(0) 踩(0) | <div>2014年的最后一天，听这歌合适</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4822149)<br>漂浮的宇宙尘埃<br>2014-12-19 09:51<br>赞(0) 踩(0) | <div>飞着飞着就累了…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38003309)<br>你还是那个你，多了些经历<br>2014-12-06 17:00<br>赞(0) 踩(0) | <div>的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13395110)<br><br>2014-12-02 20:40<br>赞(0) 踩(0) | <div>愿主保佑那些无奈的人们看书。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13395110)<br><br>2014-12-02 20:40<br>赞(0) 踩(0) | <div>愿主保佑那些无奈的人们<br>看书。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6207275)<br>是谁的歌声穿过黑夜抵达我...<br>2014-11-19 02:05<br>赞(0) 踩(0) | <div>呵呵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36149284)<br>音乐拯救灵魂，电影延长生...<br>2014-11-13 19:58<br>赞(0) 踩(0) | <div>青春像纸屑飘走了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36149284)<br>音乐拯救灵魂，电影延长生...<br>2014-11-06 22:46<br>赞(0) 踩(0) | <div>往复随安吧</div> |
@@ -304,11 +304,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24118403)<br><br>2014-01-06 12:46<br>赞(0) 踩(0) | <div>XX你妈的时间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10259601)<br>暮霭下西垂的残阳，恍若篝...<br>2013-12-26 17:01<br>赞(0) 踩(0) | <div>14</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72502)<br>音乐可以改变人的心情！<br>2013-12-26 10:02<br>赞(0) 踩(0) | <div>时间一枪打在了我身上</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12493915)<br>就是一个爱听歌的人<br>2013-12-25 23:28<br>赞(0) 踩(0) | <div>我把眼前的全撕碎让这天空变得纯洁青春像纸屑飘走了我的脸庞在变老时间一枪打在了我身上我什么呀都没了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3498348)<br><br>2013-12-05 10:12<br>赞(0) 踩(0) | <div>我若无其事的在飞舞眼前还是那么黑如果忏悔前我有时间我想我会许个愿愿主保佑那些无奈的人们还要保佑这个和平的年代愿主保佑那些无奈的人们还要保佑这个和平的年代我把眼前的全撕碎让这天空变得纯洁青春像纸屑飘走了我的脸庞在变老</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12493915)<br>就是一个爱听歌的人<br>2013-12-25 23:28<br>赞(0) 踩(0) | <div>我把眼前的全撕碎<br>让这天空变得纯洁<br>青春像纸屑飘走了<br>我的脸庞在变老<br>时间一枪打在了我身上<br>我什么呀都没了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3498348)<br><br>2013-12-05 10:12<br>赞(0) 踩(0) | <div>我若无其事的在飞舞<br>眼前还是那么黑<br>如果忏悔前我有时间<br>我想我会许个愿<br>愿主保佑那些无奈的人们<br>还要保佑这个和平的年代<br>愿主保佑那些无奈的人们<br>还要保佑这个和平的年代<br>我把眼前的全撕碎<br>让这天空变得纯洁<br>青春像纸屑飘走了<br>我的脸庞在变老</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28772999)<br><br>2013-11-30 23:31<br>赞(0) 踩(0) | <div>今天的态度音乐。。@崔七崔七</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20960542)<br><br>2013-11-24 23:42<br>赞(0) 踩(0) | <div>我们无法逃脱 我们无法选择</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5593276)<br><br>2013-11-18 22:03<br>赞(0) 踩(0) | <div>愿主保佑那些无奈的人们还要保佑这个和平的年代</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5593276)<br><br>2013-11-18 22:03<br>赞(0) 踩(0) | <div>愿主保佑那些无奈的人们<br>还要保佑这个和平的年代</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23180616)<br><br>2013-11-11 12:07<br>赞(0) 踩(0) | <div>要不要这么惨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5114190)<br><br>2013-11-08 00:24<br>赞(0) 踩(0) | <div>好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419186)<br>梦游机长长的长<br>2013-10-28 05:13<br>赞(0) 踩(0) | <div>都是这时间</div> |
@@ -316,13 +316,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24367131)<br><br>2013-10-13 11:43<br>赞(0) 踩(0) | <div>青春的色彩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24367131)<br><br>2013-10-13 11:34<br>赞(0) 踩(0) | <div>青春的色彩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14423120)<br>自在<br>2013-09-14 22:57<br>赞(0) 踩(0) | <div>古奈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14368093)<br><br>2013-09-12 14:03<br>赞(0) 踩(0) | <div>我把眼前的全撕碎让这天空变得纯洁青春像纸屑飘走了我的脸庞在变老时间一枪打在了我身上……我什么呀都没了时间一枪打在了我身上我什么呀都没了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14368093)<br><br>2013-09-12 14:03<br>赞(0) 踩(0) | <div>我把眼前的全撕碎<br><br>让这天空变得纯洁<br><br>青春像纸屑飘走了<br><br>我的脸庞在变老<br><br>时间一枪打在了我身上……<br><br>我什么呀都没了<br><br>时间一枪打在了我身上<br><br>我什么呀都没了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21589839)<br><br>2013-09-10 08:08<br>赞(0) 踩(0) | <div>我们无法逃避 我们无法选择</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3177400)<br>温和中用力起来<br>2013-09-07 12:46<br>赞(0) 踩(0) | <div>要个防弹衣不要防弹玻璃。我不想死，但想深切的记住子弹的痛楚。因为不想变得麻木不仁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2960843)<br><br>2013-09-03 16:25<br>赞(0) 踩(0) | <div>时间一枪打在了我身上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2443848)<br><br>2013-08-10 14:19<br>赞(0) 踩(0) | <div>很朴树么☺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2814941)<br> <br>2013-08-10 01:39<br>赞(0) 踩(0) | <div>深夜听见，忽然想起以前觉得这歌听起来挺轻松的，而现在……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16997717)<br><br>2013-08-08 12:14<br>赞(0) 踩(0) | <div>青春像纸屑飘走了我的脸庞在变老</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16997717)<br><br>2013-08-08 12:14<br>赞(0) 踩(0) | <div>青春像纸屑飘走了<br>我的脸庞在变老</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7616275)<br>别问我为什么 我不想听<br>2013-08-05 14:55<br>赞(0) 踩(0) | <div>我们无法逃脱~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15875028)<br><br>2013-07-31 17:51<br>赞(0) 踩(0) | <div>一把温暖带点慵懒的男声，还有那么一点点小怀旧，时间是贼，偷走一切O:-)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15875028)<br><br>2013-07-30 18:10<br>赞(0) 踩(0) | <div>一把温暖，慵懒的男声，还有那么一点点的小怀旧，让人不禁想起刚出道时的朴树</div> |
@@ -331,7 +331,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/638030)<br> <br>2013-07-04 07:31<br>赞(0) 踩(0) | <div>瑞哥，真心看好你！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284664)<br> <br>2013-06-30 09:31<br>赞(0) 踩(0) | <div>果断收录到＂慢悠悠的吉他＂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1180103)<br>音乐就是另一个世界<br>2013-06-17 06:15<br>赞(0) 踩(0) | <div>越听越好听。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11683809)<br><br>2013-06-13 21:13<br>赞(0) 踩(0) | <div>如果愿意，可以经历一世的青春！心不老，青春永不逝。那就永远不用致敬了。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11683809)<br><br>2013-06-13 21:13<br>赞(0) 踩(0) | <div>如果愿意，可以经历一世的青春！<br>心不老，青春永不逝。那就永远不用致敬了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5516690)<br><br>2013-06-12 00:56<br>赞(0) 踩(0) | <div>→_→啪……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/538242)<br><br>2013-06-05 17:29<br>赞(0) 踩(0) | <div>青春就这样在嘴边悄然流逝着，只有听着歌、吟着诗才会偶尔在意一下......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7926830)<br>  淘氣<br>2013-06-04 23:46<br>赞(0) 踩(0) | <div>高三最后一天</div> |
@@ -349,13 +349,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1263586)<br><br>2013-04-06 00:42<br>赞(0) 踩(0) | <div>秉承着张楚、许巍、郑钧这些同乡前辈特有的执拗与执着。一边是残酷现实的欺压，一端是美丽梦想的慰藉。我们在青春岁月里与生活讲和，我们在青春岁月里为梦想拼死坚持。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/490372)<br> <br>2013-04-04 14:41<br>赞(0) 踩(0) | <div>#时间，它一枪打在你我的身上！#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3373271)<br><br>2013-03-25 23:33<br>赞(0) 踩(0) | <div>青春像纸屑飘走了...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11159124)<br>今生都是第一次。<br>2013-03-23 14:18<br>赞(0) 踩(0) | <div>时间一枪打在了我身上我什么呀都没了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11159124)<br>今生都是第一次。<br>2013-03-23 14:18<br>赞(0) 踩(0) | <div>时间一枪打在了我身上<br>我什么呀都没了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6078818)<br>音樂是解藥<br>2013-03-23 00:09<br>赞(0) 踩(0) | <div>打脸上了。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5832714)<br>我愿意在你这浪费时间。<br>2013-03-06 09:54<br>赞(0) 踩(0) | <div>无语。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/391868)<br>Plus Ultra !<br>2013-02-23 22:50<br>赞(0) 踩(0) | <div>BIAOTI</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-02-12 05:58<br>赞(0) 踩(0) | <div>时间一枪打在了我身上我什么呀都没了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-02-12 05:58<br>赞(0) 踩(0) | <div>时间一枪打在了我身上<br>我什么呀都没了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17003)<br> <br>2013-01-30 20:28<br>赞(0) 踩(0) | <div>一枪又一枪。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11947845)<br><br>2012-12-15 22:44<br>赞(0) 踩(0) | <div>说是免费，骗人进来注册，然后还要什么虾米，虾你妹！！！哥哥IE缓存照样找得到，</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11947845)<br><br>2012-12-15 22:44<br>赞(0) 踩(0) | <div>说是免费，骗人进来注册，然后还要什么虾米，虾你妹！！！<br>哥哥IE缓存照样找得到，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11947845)<br><br>2012-12-15 22:41<br>赞(0) 踩(0) | <div>悲催~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11924118)<br><br>2012-12-14 14:17<br>赞(0) 踩(0) | <div>前奏一起来，小清新。中段，朴树式的呤唱。末了，一枪打在我身上。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7088969)<br><br>2012-12-13 21:10<br>赞(0) 踩(0) | <div>雷老师介绍的，爱上这首歌，刚刚推荐给@2012简单风暴 可以单曲循环一整晚</div> |
@@ -365,7 +365,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/675104)<br>这儿快结束了 <br>2012-09-09 01:05<br>赞(0) 踩(0) | <div>老婆最爱的一首 这张专辑一直也没下下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126484)<br>心远地自偏<br>2012-08-31 11:34<br>赞(0) 踩(0) | <div>14学分总算凑够</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2129749)<br><br>2012-08-20 23:34<br>赞(0) 踩(0) | <div>时间一枪打在了我身上，我什么都没了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1306103)<br><br>2012-08-19 23:37<br>赞(0) 踩(0) | <div>我想我会许个愿愿主保佑那些无奈的人们还要保佑这个和平的年代愿主保佑那些无奈的人们还要保佑这个和平的年代</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1306103)<br><br>2012-08-19 23:37<br>赞(0) 踩(0) | <div>我想我会许个愿<br>愿主保佑那些无奈的人们<br>还要保佑这个和平的年代<br>愿主保佑那些无奈的人们<br>还要保佑这个和平的年代</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/543459)<br><br>2012-08-19 12:48<br>赞(0) 踩(0) | <div>时间一枪打在了我身上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4788608)<br>世界太小，無處可滾。<br>2012-08-02 15:39<br>赞(0) 踩(0) | <div>我們什麽呀，都沒啦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9444375)<br><br>2012-07-05 13:40<br>赞(1) 踩(0) | <div>非常好听</div> |
@@ -389,7 +389,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3129252)<br><br>2012-02-16 22:41<br>赞(0) 踩(0) | <div>耶斯！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1696081)<br><br>2012-01-12 09:46<br>赞(0) 踩(0) | <div>也打在我身上……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/898838)<br><br>2011-10-19 22:28<br>赞(0) 踩(0) | <div>慢慢听。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2752)<br>岁月流淌 音乐相随<br>2011-09-25 00:39<br>赞(0) 踩(0) | <div>青春像纸屑飘走了我的脸庞在变老时间一枪打在了我身上我什么呀都没了时间一枪打在了我身上时光匆匆，就像刀刻在我们的脸上。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2752)<br>岁月流淌 音乐相随<br>2011-09-25 00:39<br>赞(0) 踩(0) | <div>青春像纸屑飘走了<br>我的脸庞在变老<br>时间一枪打在了我身上<br>我什么呀都没了<br>时间一枪打在了我身上<br><br>时光匆匆，就像刀刻在我们的脸上。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379435)<br><br>2011-09-20 17:38<br>赞(0) 踩(0) | <div>时间是最可怕的杀手。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379435)<br><br>2011-09-20 17:37<br>赞(0) 踩(0) | <div>时间是最可怕的杀手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1724072)<br><br>2011-09-20 12:18<br>赞(0) 踩(0) | <div>比第一次听的时候好听些。</div> |
@@ -405,7 +405,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/575951)<br><br>2011-04-14 22:03<br>赞(0) 踩(0) | <div>时间啊~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1731855)<br><br>2011-03-28 22:32<br>赞(0) 踩(0) | <div>时间一枪打在了我身上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1042337)<br><br>2011-02-19 09:04<br>赞(0) 踩(0) | <div>简单真实</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53016)<br><br>2010-10-08 21:05<br>赞(0) 踩(0) | <div>青春像纸屑飘走了时间一枪打在了我身上我们无法逃脱我们无法选择</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53016)<br><br>2010-10-08 21:05<br>赞(0) 踩(0) | <div>青春像纸屑飘走了<br>时间一枪打在了我身上<br>我们无法逃脱<br>我们无法选择</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1120549)<br>超，挚爱<br>2010-10-06 10:42<br>赞(0) 踩(0) | <div>支持原创。是歌名吸引了我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/857997)<br>人类和植物一样幸福<br>2010-05-05 12:26<br>赞(0) 踩(0) | <div>很好很好很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-09-26 12:16<br>赞(0) 踩(0) | <div>无论任何情况下，我都掩饰不住对原创歌手的偏爱。。。节奏好，我想我在一个人走着的路上，下班时候。。。爱极了。。。你们呢？</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3ea1dbae0c980d0c1e072ee463759ac6.jpg)<br>阿译](https://i.xiami.com/ayi) | **播放数**: 4205951<br>**粉丝数**: 246<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 独立电子乐 Indietronica, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/3ea1dbae0c980d0c1e072ee463759ac6.jpg)<br>阿译](https://i.xiami.com/ayi) | **地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 独立电子乐 Indietronica, 国语流行 Mandarin Pop<br>**播放数**: 4205951<br>**粉丝数**: 246<br>**评论数**: 6<br> |
 
 ## 档案
 
@@ -36,8 +36,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32574298)<br>我还没想好要写什么...<br>2019-07-22 23:13<br>赞(0) 踩(0) | <div>你和阿电啥关系？ <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325115800)<br><br>2017-09-29 12:46<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278527720)<br><br>2017-03-17 04:51<br>赞(0) 踩(0) | <div>呵呵</div> |

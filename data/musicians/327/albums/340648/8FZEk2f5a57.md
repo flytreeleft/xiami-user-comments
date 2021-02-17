@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226892434)<br><br>2021-01-30 13:23<br>赞(0) 踩(0) | <div>我就在家乡为什么还感触良多，可能每个人对&amp;ldquo;家乡&amp;rdquo;的定义不一样吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446693168)<br><br>2021-01-30 08:12<br>赞(0) 踩(0) | <div>太美了这样的马头琴舞曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17666461)<br>独自品味七十年代<br>2021-01-22 08:02<br>赞(0) 踩(0) | <div>成吉思汗听了马头琴还会征战杀人吗？</div> |
@@ -27,14 +24,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269474113)<br>安之若素、处之泰然……<br>2020-08-18 09:33<br>赞(2) 踩(0) | <div>日暮乡关何处是？烟波江上使人愁。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354347688)<br><br>2020-07-23 20:27<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2020-07-12 01:13<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1147443)<br>无<br>2020-06-05 00:06<br>赞(3) 踩(0) | <div>几乎每次听都会掉泪。蒙古草原，心之故乡。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403331310)<br><br>2020-05-16 09:15<br>赞(3) 踩(0) | <div>乡愁 &amp;middot; 犹如母亲的呼唤与叮咛嘱咐，让人思恋不能忘怀.以:草原游子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1147443)<br>无<br>2020-06-05 00:06<br>赞(3) 踩(0) | <div>几乎每次听都会掉泪。<br>蒙古草原，心之故乡。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403331310)<br><br>2020-05-16 09:15<br>赞(3) 踩(0) | <div>乡愁 &amp;middot; 犹如母亲的呼唤与叮咛嘱咐，让人思恋不能忘怀.<br>以:草原游子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56039890)<br>多想再见你一面，哪怕只是...<br>2020-04-12 16:17<br>赞(2) 踩(0) | <div>一暮暮过往，不付回头。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/839316)<br><br>2020-01-22 08:02<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276677378)<br>诺不轻信，故人不负我，诺...<br>2020-01-19 08:01<br>赞(4) 踩(0) | <div>超级有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6117715)<br>沉乐<br>2019-12-19 01:49<br>赞(3) 踩(0) | <div>少见的好电影</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406942597)<br><br>2019-11-20 08:37<br>赞(6) 踩(0) | <div>秋风起雁南飞月影寒人孤立岁月凋零遗落了满地心深深掩埋梦里相见梦外别离怎奈一个愁</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406942597)<br><br>2019-11-12 09:11<br>赞(3) 踩(0) | <div>用力地张开思念的网在不停地打捞着今天的昨天昨天的昨天里的回忆冷冷的清清的空空的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406942597)<br><br>2019-11-20 08:37<br>赞(6) 踩(0) | <div>秋风起<br>雁南飞<br>月影寒<br>人孤立<br>岁月凋零<br>遗落了满地<br>心深深掩埋<br>梦里相见<br>梦外别离<br>怎奈一个愁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406942597)<br><br>2019-11-12 09:11<br>赞(3) 踩(0) | <div>用力地张开思念的网<br>在不停地打捞着今天的昨天昨天的昨天里的回忆<br>冷冷的<br>清清的<br>空空的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36490503)<br><br>2019-10-23 09:16<br>赞(3) 踩(0) | <div>思乡，老家的老母亲我想你了 <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428619684)<br><br>2019-10-11 14:21<br>赞(3) 踩(0) | <div>我是哈尔滨人，但是我挺喜欢听马头琴的，深邃地引发无限联想。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429861263)<br><br>2019-09-16 18:57<br>赞(3) 踩(0) | <div>虽然不是蒙古人，但马头琴声沁人心脾，悠扬的琴声仿佛把你带到了草原。</div> |
@@ -44,10 +41,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321773334)<br>一念起，万水千山。一念灭...<br>2019-07-12 02:03<br>赞(3) 踩(0) | <div>生前骏马背上醒，死后雪山脚下眠。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406510738)<br>我还没想好要写什么...<br>2019-07-09 21:18<br>赞(1) 踩(0) | <div>听到这首曲子，特别想念国内的家人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378081245)<br>我还没想好要写什么...<br>2019-07-04 18:45<br>赞(3) 踩(0) | <div>遐想无限～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2019-07-03 12:31<br>赞(3) 踩(0) | <div>乡愁是，离开的那刻枫叶红了而如今枫树腐烂了我还在他乡只有思念</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2019-07-03 12:31<br>赞(3) 踩(0) | <div>乡愁是，离开的那刻枫叶红了<br>而如今枫树腐烂了<br>我还在他乡<br>只有思念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344665442)<br><br>2019-06-26 17:25<br>赞(39) 踩(0) | <div>******</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330406119)<br>我愿做一缕阳光，在每天都...<br>2019-10-10 16:40<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56039890)<br>多想再见你一面，哪怕只是...<br>2019-05-22 14:26<br>赞(2) 踩(0) | <div>一曲肝肠断，天涯何处觅知音纵然是过去再多时间也无法愈合的心伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56039890)<br>多想再见你一面，哪怕只是...<br>2019-05-22 14:26<br>赞(2) 踩(0) | <div>一曲肝肠断，天涯何处觅知音<br>纵然是过去再多时间也无法愈合的心伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348096175)<br><br>2019-04-18 20:19<br>赞(1) 踩(0) | <div>贺西格老师的演奏我感觉情感满满</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5120818)<br>你是智智智全面发展的三好...<br>2019-04-17 19:37<br>赞(1) 踩(0) | <div>公司对面小区外的广场舞音乐，声音贼大，加班的时候一直在给我洗脑单曲循环……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410265102)<br><br>2019-04-16 20:14<br>赞(3) 踩(0) | <div>听着马头琴的音律仿佛置身于一望无际的草原上。磅礴大气</div> |
@@ -63,14 +60,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34240373)<br>眼前一片死湖.....<br>2019-01-30 19:47<br>赞(2) 踩(0) | <div>最喜欢的一首曲子，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231718229)<br><br>2019-01-28 00:13<br>赞(3) 踩(0) | <div>不知道为什么，听的热泪盈眶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407062193)<br><br>2019-01-26 12:30<br>赞(2) 踩(0) | <div>悠扬的马头琴声。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323352837)<br><br>2019-01-14 23:07<br>赞(8) 踩(0) | <div>贺西格用马头琴演奏的这首《乡愁》。深沉如蒙古大草原的辽阔深邃，轻柔如蓝天上舒卷的白云，安静的犹如草原上三三两两低头吃草的羊群。这淡淡的乡愁是草原上阿妈的笑脸。是蒙古包里阿爸的叹息。是蒙古汉子双手捧起的烈酒。是篝火旁姑娘们曼妙的舞姿。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323352837)<br><br>2019-01-14 23:07<br>赞(8) 踩(0) | <div>贺西格用马头琴演奏的这首《乡愁》。深沉如蒙古大草原的辽阔深邃，轻柔如蓝天上舒卷的白云，安静的犹如草原上三三两两低头吃草的羊群。<br>这淡淡的乡愁是草原上阿妈的笑脸。是蒙古包里阿爸的叹息。是蒙古汉子双手捧起的烈酒。是篝火旁姑娘们曼妙的舞姿。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334316278)<br>我还没想好要写什么...<br>2019-01-03 10:03<br>赞(5) 踩(0) | <div>在马头琴声中，获得无尽的安宁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68009986)<br><br>2018-12-25 22:03<br>赞(6) 踩(0) | <div>在杭州念书的内蒙人突然热泪盈眶</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327534125)<br>伱夢中熟睡的時候 有人為...<br>2019-01-03 00:22<br>赞(0) 踩(0) | <div>谁在外都要比家多,长大是现代人离家的必然,我们已经不是自给自足的天国时代,家,就当心里的寄托吧,</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277315204)<br><br>2018-12-20 10:39<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334316278)<br>我还没想好要写什么...<br>2018-12-05 03:26<br>赞(6) 踩(0) | <div>就像心里流淌出的泉水……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252448286)<br><br>2018-11-26 19:11<br>赞(3) 踩(0) | <div>草原人在海边飘，何等伤能诉说</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365692342)<br>我还没想好要写什么...<br>2018-11-26 01:11<br>赞(8) 踩(0) | <div>一直都有一种对草原的眷恋虽然我今世未曾在那里生活过但我感觉那才是我真正的家乡一首《乡愁》让我听的眼泪汪汪我想我曾是草原上的儿女又或者是一匹脱缰的骏马又或者仅仅是一株会开花的小草过几天我将去到那我向往已久的故乡 <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365692342)<br>我还没想好要写什么...<br>2018-11-26 01:11<br>赞(8) 踩(0) | <div>一直都有一种对草原的眷恋<br><br>虽然我今世未曾在那里生活过<br>但我感觉那才是我真正的家乡<br><br>一首《乡愁》让我听的眼泪汪汪<br>我想我曾是草原上的儿女<br>又或者是一匹脱缰的骏马<br>又或者仅仅是一株会开花的小草<br><br>过几天我将去到那我向往已久的故乡 <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270855924)<br>邱田密<br>2018-11-24 02:21<br>赞(5) 踩(0) | <div>好好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92685412)<br>逆境能让我们不再受人崇拜...<br>2018-10-30 22:54<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png">nice</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400828007)<br><br>2018-10-29 18:38<br>赞(4) 踩(0) | <div>一辈子也听不够蒙古族音乐，</div> |
@@ -79,16 +76,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338320238)<br>回首无来路<br>2018-08-19 13:07<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313209040)<br><br>2018-08-13 11:54<br>赞(5) 踩(0) | <div>天地间浓郁得化不开的至臻挚爱，绵延不绝的永存情愫。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357033290)<br><br>2018-07-23 08:07<br>赞(4) 踩(0) | <div>这么好听赶紧下载，不然又要收费了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63745010)<br>随心.随性.随遇.随缘<br>2018-07-22 10:12<br>赞(49) 踩(0) | <div>有工作的地方没有家有家的地方却没有工作他乡容纳不下灵魂&amp;nbsp;故乡安置不了肉身一个叫家的地方找不到养家糊口的路&amp;nbsp;找到了养家糊口的地方却安不了家从此便有了漂泊，有了远方，有了乡愁~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63745010)<br>随心.随性.随遇.随缘<br>2018-07-22 10:12<br>赞(49) 踩(0) | <div>有工作的地方没有家<br>有家的地方却没有工作<br>他乡容纳不下灵魂&amp;nbsp;<br>故乡安置不了肉身<br>一个叫家的地方找不到养家糊口的路&amp;nbsp;<br>找到了养家糊口的地方却安不了家<br>从此便有了漂泊，有了远方，有了乡愁~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284739333)<br><br>2020-05-11 21:24<br>赞(0) 踩(0) | <div>为了理想而走向远方，或许，更贴切？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440364657)<br><br>2020-12-12 11:17<br>赞(0) 踩(0) | <div>讲的真好 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45698099)<br>暂无签名~<br>2018-07-11 23:43<br>赞(3) 踩(0) | <div>加入到我的纯乐歌单</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233113502)<br> <br>2018-07-03 00:07<br>赞(2) 踩(0) | <div>听听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346087991)<br>医路漫漫 音乐为伴<br>2018-06-26 22:59<br>赞(5) 踩(0) | <div>最近听了一些他的作品都不错(*๓&amp;acute;╰╯`๓)♡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7356643)<br> <br>2018-06-24 04:29<br>赞(5) 踩(0) | <div>此去经年应是良辰好景虚设</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346087991)<br>医路漫漫 音乐为伴<br>2018-06-26 22:59<br>赞(5) 踩(0) | <div>最近听了一些他的作品<br>都不错(*๓&amp;acute;╰╯`๓)♡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7356643)<br> <br>2018-06-24 04:29<br>赞(5) 踩(0) | <div>此去经年<br>应是良辰好景虚设</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97931026)<br> <br>2018-06-22 16:43<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334365727)<br><br>2018-06-06 07:21<br>赞(6) 踩(0) | <div>刚走出家门的时候，总想着挣到钱了就回家，可现在家总是回不去了&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325756554)<br>天之道，利而不害；人之道...<br>2018-06-01 15:35<br>赞(4) 踩(0) | <div>为老不尊比比皆是2018.6.1</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325756554)<br>天之道，利而不害；人之道...<br>2018-06-01 15:35<br>赞(4) 踩(0) | <div>为老不尊比比皆是<br>2018.6.1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226892434)<br><br>2018-05-23 20:44<br>赞(6) 踩(0) | <div>哇！这是根据我的音乐品位推荐的乐曲 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43025787)<br>若有知音见采   不辞遍...<br>2018-05-21 20:26<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43025787)<br>若有知音见采   不辞遍...<br>2018-05-20 01:11<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -156,7 +153,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257548789)<br>做好自己<br>2017-07-10 19:10<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218595648)<br>  在虾米寻觅～在虾米得...<br>2017-06-09 23:31<br>赞(6) 踩(0) | <div>最爱贺西格 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101429296)<br> <br>2017-05-30 18:04<br>赞(5) 踩(0) | <div>醉爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296709591)<br><br>2017-05-16 07:00<br>赞(140) 踩(0) | <div>贺西格用马头琴演奏的这首《乡愁》。深沉如蒙古大草原的辽阔深邃，轻柔如蓝天上舒卷的白云，安静的犹如草原上三三两两低头吃草的羊群。这淡淡的乡愁是草原上阿妈的笑脸。是蒙古包里阿爸的叹息。是蒙古汉子双手捧起的烈酒。是篝火旁姑娘们曼妙的舞姿。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296709591)<br><br>2017-05-16 07:00<br>赞(140) 踩(0) | <div>贺西格用马头琴演奏的这首《乡愁》。深沉如蒙古大草原的辽阔深邃，轻柔如蓝天上舒卷的白云，安静的犹如草原上三三两两低头吃草的羊群。<br>这淡淡的乡愁是草原上阿妈的笑脸。是蒙古包里阿爸的叹息。是蒙古汉子双手捧起的烈酒。是篝火旁姑娘们曼妙的舞姿。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36088881)<br><br>2017-05-13 18:40<br>赞(5) 踩(0) | <div>没有庇护与关爱。走到哦哪儿都在漂泊。听赞扬母亲的歌我只能幻想我也有个慈悲温柔的母亲，听思念家乡的歌，我只能幻想我有个遥远美丽的故乡。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76835298)<br><br>2017-05-12 13:13<br>赞(5) 踩(0) | <div>我哭了。家  家乡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9039017)<br><br>2017-04-17 15:31<br>赞(5) 踩(0) | <div>触动灵魂的音乐</div> |
@@ -185,7 +182,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5944879)<br><br>2015-07-10 13:07<br>赞(4) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5657731)<br>在音乐面前语言很苍白<br>2015-06-11 16:38<br>赞(58) 踩(0) | <div>话到了嗓子说不出来，泪到了眼眶滚不下来，深情原来无法表达</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277583981)<br>顺境时照顾别人，逆境时照...<br>2018-11-28 11:11<br>赞(0) 踩(0) | <div>深情在心里</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-05-19 02:10<br>赞(4) 踩(0) | <div>沉婉24</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-05-19 02:10<br>赞(4) 踩(0) | <div>沉婉<br>24</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36897148)<br>再见<br>2015-05-17 22:00<br>赞(4) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36716400)<br>执着  ！<br>2015-05-13 18:32<br>赞(158) 踩(0) | <div>蒙古族音乐是世界上最美的音乐！ <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60603226)<br>我还没想好写着什么！<br>2018-10-16 06:55<br>赞(0) 踩(0) | <div>奔着你评论的大拇指就去了，后来发现点赞的大拇指在下面的位置。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -202,7 +199,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1445437)<br><br>2014-04-06 16:14<br>赞(4) 踩(0) | <div>乡愁，诉说无尽的思念与缠绵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32689701)<br><br>2014-02-14 23:17<br>赞(3) 踩(0) | <div>这悠扬的琴声，这辽阔的草原！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8197162)<br><br>2014-01-26 23:30<br>赞(4) 踩(0) | <div>听宋冬野的安和桥，听到马头琴这里来了。介于二胡和大提琴之间的乐器，比二胡悠扬开阔，比大提琴明亮</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-11-24 02:29<br>赞(4) 踩(0) | <div>蒙音经典马头琴11362,27,10</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-11-24 02:29<br>赞(4) 踩(0) | <div>蒙音经典马头琴<br>11362,27,10</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7715076)<br><br>2013-10-10 12:33<br>赞(3) 踩(0) | <div>中速</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21286199)<br><br>2013-09-06 14:40<br>赞(3) 踩(0) | <div>贺西格一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7940007)<br><br>2013-07-02 18:57<br>赞(3) 踩(0) | <div>马头琴乐器里的归属感。</div> |

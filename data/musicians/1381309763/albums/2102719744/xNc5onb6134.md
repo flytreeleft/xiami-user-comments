@@ -48,5 +48,3 @@ My soul of things above
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/99c5f7fbdf538ee9fe4750d9f11046dd.jpg)<br>百慕三石](https://i.xiami.com/bm3s) | **播放数**: 2190037<br>**粉丝数**: 657<br>**评论数**: 49<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 城市民谣 Urban Folk, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/99c5f7fbdf538ee9fe4750d9f11046dd.jpg)<br>百慕三石](https://i.xiami.com/bm3s) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 城市民谣 Urban Folk, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 2190037<br>**粉丝数**: 657<br>**评论数**: 49<br> |
 
 ## 档案
 
@@ -42,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272017031)<br>清静以为天下正。谦虚，随...<br>2020-06-05 16:10<br>赞(0) 踩(0) | <div>好！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328937055)<br>网易名 大鹏展翅ya<br>2020-02-29 22:20<br>赞(1) 踩(0) | <div>艺名很重要！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429875445)<br>我是谁，我在哪，我要干啥...<br>2019-09-17 09:36<br>赞(0) 踩(0) | <div>目测要火！ <img src="../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"> <img src="../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"> <img src="../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"></div> |
@@ -54,11 +54,11 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9327494)<br>http://www.x...<br>2016-12-28 12:19<br>赞(0) 踩(0) | <div>石榴花</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16135450)<br><br>2016-06-11 21:34<br>赞(0) 踩(0) | <div>1133</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1308967)<br>虾米听重型极端音乐这块的...<br>2015-10-16 06:19<br>赞(0) 踩(0) | <div>流行味儿</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4855774)<br>笑嘻嘻<br>2014-03-12 00:27<br>赞(0) 踩(0) | <div>|/╱◥▓▓▓▓▓▓◣*﹌﹌﹌﹌.............﹌﹌﹌﹌.....Ooooo.................( 轻)...Ooooo..........)./....( 轻).........(_/......)./..................(_/......</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4855774)<br>笑嘻嘻<br>2014-03-12 00:27<br>赞(0) 踩(0) | <div>|/╱◥▓▓▓▓▓▓◣*<br>﹌﹌﹌﹌.............﹌﹌﹌﹌<br>.....Ooooo............<br>.....( 轻)...Ooooo....<br>......)./....( 轻)....<br>.....(_/......)./.....<br>.............(_/......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3879795)<br>国风歌者，音乐唱作人<br>2014-03-10 15:10<br>赞(3) 踩(0) | <div>新歌  真的很不错啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29028660)<br><br>2013-12-04 18:22<br>赞(0) 踩(0) | <div>好有感觉的声音啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28930533)<br><br>2013-12-03 12:16<br>赞(0) 踩(0) | <div>走进你的世界</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10522709)<br>褵褷鹤<br>2013-12-01 22:15<br>赞(1) 踩(0) | <div>这里能听到的白仙鹤和我要回家的歌词和音乐和声线都好有共鸣啊啊啊大爱！！！！！&amp;gt;.&amp;lt;``期待更多新歌～～～～！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10522709)<br>褵褷鹤<br>2013-12-01 22:15<br>赞(1) 踩(0) | <div>这里能听到的白仙鹤和我要回家的歌词和音乐和声线都好有共鸣啊啊啊大爱！！！！！&amp;gt;.&amp;lt;``<br>期待更多新歌～～～～！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28639578)<br><br>2013-11-29 11:02<br>赞(0) 踩(0) | <div>很喜欢你 OVO</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28591712)<br><br>2013-11-28 17:07<br>赞(0) 踩(0) | <div>有故事的人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28392400)<br><br>2013-11-25 16:15<br>赞(0) 踩(0) | <div>想听你的现场</div> |
@@ -85,7 +85,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3879795)<br>国风歌者，音乐唱作人<br>2013-10-28 14:17<br>赞(2) 踩(0) | <div>不怎么出名，但歌不错。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79360608)<br>我才不聪明呢！！<br>2019-12-30 16:44<br>赞(0) 踩(0) | <div>恍恍惚惚</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442087233)<br>家中有个王酷盖<br>2020-04-12 18:32<br>赞(0) 踩(0) | <div>你好听的歌都是人家写的，你怎么好意思这么说人家</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441461015)<br><br>2020-05-06 23:04<br>赞(0) 踩(0) | <div>不可否认，喜欢你的声音和音乐风格，但如果不是风筝误，～不会知道你是谁，如果不是百慕三石，风筝误便不是风筝误，包括你们的良人遮，半壶纱，花又开，渡风，暖山，浮年盏，月满弦&amp;hellip;至纯至真必然不会过于追求名利！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441461015)<br><br>2020-05-06 23:04<br>赞(0) 踩(0) | <div>不可否认，喜欢你的声音和音乐风格，但如果不是风筝误，～不会知道你是谁，如果不是百慕三石，风筝误便不是风筝误，包括你们的良人遮，半壶纱，花又开，渡风，暖山，浮年盏，月满弦&amp;hellip;<br><br>至纯至真必然不会过于追求名利！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258192176)<br><br>2020-08-01 15:58<br>赞(0) 踩(0) | <div>楼上这几位怎么回事？回复之前不先看下留言时间的？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18163438)<br>歌手,唱作人,音乐制作人<br>2013-10-23 17:25<br>赞(17) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224056505)<br>希望有个学霸男友在身边时...<br>2016-09-17 14:41<br>赞(0) 踩(0) | <div>我会的 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |

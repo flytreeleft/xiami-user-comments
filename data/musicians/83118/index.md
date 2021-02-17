@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/07618d918e8781e5d8fe6ee441ff6bbb.jpg)<br>蓝琪儿](https://i.xiami.com/lanqier) | **播放数**: 12188572<br>**粉丝数**: 3743<br>**评论数**: 33<br>**地区**: China 中国大陆<br>**风格**: 流行舞曲 Dance-Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/07618d918e8781e5d8fe6ee441ff6bbb.jpg)<br>蓝琪儿](https://i.xiami.com/lanqier) | **地区**: China 中国大陆<br>**风格**: 流行舞曲 Dance-Pop, 国语流行 Mandarin Pop<br>**播放数**: 12188572<br>**粉丝数**: 3743<br>**评论数**: 33<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -32,8 +29,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429131468)<br><br>2019-09-14 18:27<br>赞(1) 踩(0) | <div>美貌加上实力 加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406051258)<br><br>2019-07-24 22:28<br>赞(2) 踩(0) | <div>你的声音很好听 <img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png"> <img src="../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427103554)<br>有志者事竟成，破釜沉舟，...<br>2019-07-21 04:41<br>赞(4) 踩(0) | <div>今生支持你！琪儿妹妹！！音色空灵！！ <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
@@ -64,6 +61,6 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49092252)<br><br>2015-06-22 15:04<br>赞(1) 踩(0) | <div>个性化音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21235772)<br><br>2014-03-09 13:01<br>赞(0) 踩(0) | <div>美女，生日快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9290920)<br>静听穿透心灵的歌声<br>2013-11-01 10:07<br>赞(0) 踩(0) | <div>生日快乐！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25467815)<br><br>2013-10-27 10:31<br>赞(0) 踩(0) | <div>你唱的歌非常好聽??美哥人會下使因為妳個歌聲很美妙</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25467815)<br><br>2013-10-27 10:31<br>赞(0) 踩(0) | <div>你唱的歌非常好聽??<br>美哥人會下使因為妳個歌聲很美妙</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5762492)<br>音乐让人变的生动<br>2013-08-27 03:43<br>赞(0) 踩(0) | <div>嗓音像李娜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9290920)<br>静听穿透心灵的歌声<br>2012-11-29 18:44<br>赞(0) 踩(0) | <div>好听！</div> |

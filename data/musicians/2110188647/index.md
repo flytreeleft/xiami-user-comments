@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/74aea2ec9e7c1cdce3801ee61ce81801.jpg)<br>7-Budgie](https://i.xiami.com/budgie) | **播放数**: 1581312<br>**粉丝数**: 264<br>**评论数**: 27<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 独立电子乐 Indietronica, 弛放 Chillout<br> |
+| [![](../../images/musicians/74aea2ec9e7c1cdce3801ee61ce81801.jpg)<br>7-Budgie](https://i.xiami.com/budgie) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 独立电子乐 Indietronica, 弛放 Chillout<br>**播放数**: 1581312<br>**粉丝数**: 264<br>**评论数**: 27<br> |
 
 ## 档案
 
@@ -22,8 +22,8 @@ follow me
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290256884)<br>网易云同名<br>2020-11-20 22:46<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420647882)<br>我还没想好要写什么...<br>2020-09-24 05:37<br>赞(0) 踩(0) | <div>&lt;期待你的新作品[url=/u/30762087]@7-Budgie[/url] &gt;&lt;30762087&gt;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1418202)<br> 江山共老<br>2020-08-20 22:27<br>赞(0) 踩(0) | <div>有点汪苏泷跟方大同的感觉</div> |

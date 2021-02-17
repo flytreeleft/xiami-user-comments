@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6d760b1a5107642c38f65dca03b8e49f.jpg)<br>安可儿](https://i.xiami.com/ankeer) | **播放数**: 8106399<br>**粉丝数**: 968<br>**评论数**: 39<br>**地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/6d760b1a5107642c38f65dca03b8e49f.jpg)<br>安可儿](https://i.xiami.com/ankeer) | **地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 国语流行 Mandarin Pop<br>**播放数**: 8106399<br>**粉丝数**: 968<br>**评论数**: 39<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -76,8 +73,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423201821)<br><br>2019-04-27 20:41<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352617935)<br><br>2018-09-14 06:30<br>赞(2) 踩(0) | <div>戒烟了么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352617935)<br><br>2018-09-14 06:29<br>赞(2) 踩(0) | <div>现在还开直播么想你</div> |

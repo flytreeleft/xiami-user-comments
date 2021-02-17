@@ -3,13 +3,10 @@ NÉONHÈART荧光红心
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c37246379c900de42744587a4967023f.jpg)<br>NÉONHÈART荧光红心](https://i.xiami.com/weareneonheart) | **播放数**: 1586008<br>**粉丝数**: 340<br>**评论数**: 26<br>**地区**: United States of America 美国<br>**风格**: 另类摇滚 Alternative Rock, 电音流行 Electropop<br> |
+| [![](../../images/musicians/c37246379c900de42744587a4967023f.jpg)<br>NÉONHÈART荧光红心](https://i.xiami.com/weareneonheart) | **地区**: United States of America 美国<br>**风格**: 另类摇滚 Alternative Rock, 电音流行 Electropop<br>**播放数**: 1586008<br>**粉丝数**: 340<br>**评论数**: 26<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -19,8 +16,8 @@ NÉONHÈART荧光红心
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435134200)<br><br>2020-08-01 11:29<br>赞(1) 踩(0) | <div>您的Erase me很好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435134200)<br><br>2020-07-14 12:17<br>赞(0) 踩(0) | <div>国人乐队吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11099044)<br><br>2020-06-01 21:51<br>赞(0) 踩(0) | <div>好听！特别的嗓音</div> |

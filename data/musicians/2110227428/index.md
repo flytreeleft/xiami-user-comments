@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/41ec02b70a1f6c70d619ad0135b6a8d0.png)<br>潘攀](https://i.xiami.com/panmusic) | **播放数**: 4435593<br>**粉丝数**: 93<br>**评论数**: 4<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/41ec02b70a1f6c70d619ad0135b6a8d0.png)<br>潘攀](https://i.xiami.com/panmusic) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 4435593<br>**粉丝数**: 93<br>**评论数**: 4<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -26,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377621919)<br> <br>2019-05-08 01:06<br>赞(0) 踩(0) | <div>如果当初没有如果</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-04-18 05:10<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-03-23 05:05<br>赞(1) 踩(0) | <div>好听</div> |

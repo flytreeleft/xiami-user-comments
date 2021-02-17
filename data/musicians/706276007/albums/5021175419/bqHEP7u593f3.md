@@ -102,8 +102,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9217580)<br>我的另一座港湾，另一座城...<br>2021-01-27 22:53<br>赞(1) 踩(0) | <div>好特别的嗓音，柔情婉转；好有技巧又不着刻意的表达，行至水穷又见云起～～～着迷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52173408)<br><br>2020-12-30 06:34<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5007427)<br>暂无签名~<br>2020-12-23 16:21<br>赞(0) 踩(0) | <div>他声音里有光</div> |
@@ -134,7 +134,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425348311)<br><br>2020-09-12 19:54<br>赞(0) 踩(0) | <div>可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442647562)<br><br>2020-09-12 12:06<br>赞(0) 踩(0) | <div>很喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244572348)<br><br>2020-09-11 03:11<br>赞(0) 踩(0) | <div>L I E K</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327629142)<br>不怎么有趣，偶尔煽情，偶...<br>2020-09-10 23:57<br>赞(1) 踩(0) | <div>以前听过这首，但记得好像不是周深唱的？周深是原唱吗？各位虾友？当时只记得是很温柔的女声</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327629142)<br>不怎么有趣，偶尔煽情，偶...<br>2020-09-10 23:57<br>赞(1) 踩(0) | <div>以前听过这首，但记得好像不是周深唱的？周深是原唱吗？各位虾友？<br>当时只记得是很温柔的女声</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277597610)<br>射手座:海阔凭魚跃，天高...<br>2020-09-23 23:20<br>赞(0) 踩(0) | <div>我在虾米搜索了歌名，听了各种版本，只有一个叫不才的女生唱得还不错，你说的可能是她吧？我个人认为周深唱得最空灵，宛如天簌。周深唱的还有一个老版本背景音乐比这新版有意境。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444751180)<br>我还没想好要写什么...<br>2020-09-10 11:59<br>赞(0) 踩(0) | <div>落户口放个假看会书突然！那就送人头！你⺀了⺀了⺀了&amp;zwj;♂️❌❌❌❌❌❌❌❌❌❌❌i</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444751180)<br>我还没想好要写什么...<br>2020-09-10 11:56<br>赞(0) 踩(0) | <div>烦人机会vi7的更厉害vUI果然你老火</div> |
@@ -158,7 +158,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361306467)<br><br>2020-08-21 20:27<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114298424)<br><br>2020-08-20 07:36<br>赞(0) 踩(0) | <div>好喜欢，惊艳了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11451697)<br>暂无签名~<br>2020-08-19 20:34<br>赞(1) 踩(0) | <div>如同变幻的声音，如同变幻无穷的心情！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3446323)<br><br>2020-08-19 15:37<br>赞(2) 踩(0) | <div>被周深的声音惊艳到爱了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3446323)<br><br>2020-08-19 15:37<br>赞(2) 踩(0) | <div>被周深的声音惊艳到<br>爱了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335142072)<br><br>2020-08-18 20:15<br>赞(0) 踩(0) | <div>深深好棒，天籁之音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441746539)<br>才下眉头，却上心头。<br>2020-08-18 07:34<br>赞(3) 踩(0) | <div>这一版好像更丰富诶 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405045110)<br>百事从心起 一笑解千愁<br>2020-08-18 05:39<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -181,7 +181,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409260704)<br>EXO.<br>2020-08-10 21:08<br>赞(3) 踩(0) | <div>好喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337882102)<br><br>2020-08-10 18:30<br>赞(1) 踩(0) | <div>好听的歌声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6901805)<br><br>2020-08-10 06:12<br>赞(2) 踩(0) | <div>大家评论的好认真</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276094038)<br>遗 世//。而 独立 <br>2020-08-09 22:48<br>赞(21) 踩(0) | <div>太喜欢这词描绘的画面感了三年前第一次听到时 天呐 太美了吧 太感人了 我竟然羡慕一只鲸鱼的爱情 这种程度的告白 怕是这辈子都不可能遇到了果然 过了很久我依然是我只是我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276094038)<br>遗 世//。而 独立 <br>2020-08-09 22:48<br>赞(21) 踩(0) | <div>太喜欢这词描绘的画面感了<br>三年前第一次听到时 天呐 太美了吧 太感人了 我竟然羡慕一只鲸鱼的爱情 这种程度的告白 怕是这辈子都不可能遇到了<br>果然 过了很久<br>我依然是我<br>只是我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253423671)<br><br>2020-08-09 06:55<br>赞(1) 踩(0) | <div>写得真好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433482959)<br><br>2020-08-08 23:26<br>赞(1) 踩(0) | <div>好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116556090)<br><br>2020-08-08 16:22<br>赞(1) 踩(0) | <div>来辣</div> |
@@ -202,13 +202,13 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428407696)<br><br>2020-08-05 17:13<br>赞(0) 踩(0) | <div>现在正在好奇呢，歌声不是女的吗，怀疑耳朵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410336570)<br>喜歡你的笑、認真的男人最...<br>2020-07-31 13:13<br>赞(3) 踩(0) | <div>&lt;這首終於是深深自己的歌曲了《化身孤島的鯨》讚[url=/u/49479260]@周深[/url] &gt;&lt;49479260&gt;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286785627)<br><br>2020-07-30 22:00<br>赞(1) 踩(0) | <div>好歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9384971)<br>5sing酷狗网易全民@...<br>2020-07-30 15:12<br>赞(46) 踩(0) | <div>还记得卡布第一次在5sing上发这首歌时，当时这首歌屠版5sing有好一段时间了。这种感情很浓郁的歌其实是不敢太多听的。新编曲初听仿佛置身深海，再听感觉是拯救了听了这么多年有点点听腻的歌 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png">。整首歌化繁为简，听着让我感觉轻松了许多，又厚重了许多。这是周深自己成立工作室的第一支单曲。也没有设定某某音乐软件独家版权，也没有收费。他一直只是那个喜欢大家听他唱歌的小男孩。深深真的浪漫，有仪式感，会把承载过去的重要的歌买版权重编曲，会记得过去的每一个小细节，永远感激以前现在的听他唱歌的人，永远可以像第一次唱一首歌一样去唱每一首意义重大的歌曲。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9384971)<br>5sing酷狗网易全民@...<br>2020-07-30 15:12<br>赞(46) 踩(0) | <div>还记得卡布第一次在5sing上发这首歌时，当时这首歌屠版5sing有好一段时间了。这种感情很浓郁的歌其实是不敢太多听的。新编曲初听仿佛置身深海，再听感觉是拯救了听了这么多年有点点听腻的歌 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png">。<br>整首歌化繁为简，听着让我感觉轻松了许多，又厚重了许多。这是周深自己成立工作室的第一支单曲。也没有设定某某音乐软件独家版权，也没有收费。<br>他一直只是那个喜欢大家听他唱歌的小男孩。深深真的浪漫，有仪式感，会把承载过去的重要的歌买版权重编曲，会记得过去的每一个小细节，永远感激以前现在的听他唱歌的人，永远可以像第一次唱一首歌一样去唱每一首意义重大的歌曲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401250261)<br><br>2020-07-30 10:57<br>赞(1) 踩(0) | <div>天籁之音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85568296)<br>只有阳光而无阴影 只有欢...<br>2020-07-30 02:40<br>赞(1) 踩(0) | <div>好听的～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333881062)<br><br>2020-07-30 01:36<br>赞(0) 踩(0) | <div>啊啊啊啊，为什么虾米这么少的评论 <img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png">！这么好听的歌！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376443189)<br>喜欢生活中落尘般的小细节<br>2020-07-29 23:13<br>赞(1) 踩(0) | <div>最美不过鲸落</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320688108)<br><br>2020-07-29 17:35<br>赞(4) 踩(0) | <div>好听❤️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280457978)<br><br>2020-07-29 11:49<br>赞(1) 踩(0) | <div>费好大的劲才登录虾米（是不是海外用户最近老出问题）。免费听了周深那么多的歌，免费接受那么多心理治疗，免费让周深的故事和声音陪我度过一个又一个的坎。不写点什么，心里过意不去。这曲子听了好多年，这版让人心胸开阔得很感动。放茫茫宇宙中，个人得失算什么呢。珍惜当下，继续努力！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280457978)<br><br>2020-07-29 11:49<br>赞(1) 踩(0) | <div>费好大的劲才登录虾米（是不是海外用户最近老出问题）。免费听了周深那么多的歌，免费接受那么多心理治疗，免费让周深的故事和声音陪我度过一个又一个的坎。不写点什么，心里过意不去。<br><br>这曲子听了好多年，这版让人心胸开阔得很感动。放茫茫宇宙中，个人得失算什么呢。珍惜当下，继续努力！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338888484)<br>少年回頭望 笑我『還不快...<br>2020-07-29 10:08<br>赞(2) 踩(0) | <div>太好听了太好听了！深深超棒！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110019378)<br><br>2020-07-29 09:41<br>赞(2) 踩(0) | <div>为什么曲子这么熟悉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345087020)<br><br>2020-07-29 08:05<br>赞(1) 踩(0) | <div>真好</div> |

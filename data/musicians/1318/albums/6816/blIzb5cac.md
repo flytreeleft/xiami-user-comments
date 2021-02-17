@@ -87,8 +87,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353164580)<br>听十年歌 疗三世伤<br>2020-06-30 00:37<br>赞(1) 踩(0) | <div>⭐⭐⭐⭐⭐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52331588)<br><br>2019-12-03 20:24<br>赞(0) 踩(0) | <div>相信每个人的感觉都是经典 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409031498)<br><br>2019-11-09 13:32<br>赞(0) 踩(0) | <div>好听，还是老歌好听</div> |
@@ -148,7 +148,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347800688)<br>音乐能把人带到另一个世界<br>2018-10-06 15:34<br>赞(1) 踩(0) | <div>在山上饭店干活，搭的拉煤的大车回家，车里就放的这首歌，真快啊30出头了都</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403033893)<br><br>2018-09-16 06:43<br>赞(2) 踩(0) | <div>地铁四号线海伦路站，四周全是人，把耳机音量开到最大，真想大声唱出来。千古绝唱唱到今。白雪，人美歌甜，再加一个名字也美。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302106654)<br>一切皆有可能！<br>2018-09-12 06:49<br>赞(1) 踩(0) | <div>千古绝唱，千古经典</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320220901)<br><br>2018-09-03 18:52<br>赞(1) 踩(0) | <div>隐星诶红GIN 庆秋刮海唉红映屋西命屋西丙 亲爱丙右你丢小心隐星唉关GIN KI恰嘛唉促抖听莫玩听莫有隐 MIA损MIA败陇西以星几归就 冷噶隐 撒不瓜洗嘛来到丁大摆共 瓜赶紧 哇洗谁改第一定洗烟混洗注定 HO汉夸霸来撒GIN嗯GIA哄嗯GIA印 勿紧五一浩呀底DEIDEI啊诶光阴 起托丢叹笑脸西GIU名利波辽西 千GIN难咩浩隐星</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320220901)<br><br>2018-09-03 18:52<br>赞(1) 踩(0) | <div>隐星诶红GIN 庆秋刮海唉红映<br>屋西命屋西丙 亲爱丙右你丢小心<br>隐星唉关GIN KI恰嘛唉促抖听<br>莫玩听莫有隐 MIA损MIA败陇西以星<br>几归就 冷噶隐 撒不瓜洗嘛来到丁<br>大摆共 瓜赶紧 哇洗谁改第一定<br>洗烟混洗注定 HO汉夸霸来撒GIN<br>嗯GIA哄嗯GIA印 勿紧五一浩呀底<br>DEIDEI啊诶光阴 起托丢叹笑脸西<br>GIU名利波辽西 千GIN难咩浩隐星</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400265947)<br>五湖四海交朋友<br>2018-08-25 16:59<br>赞(2) 踩(0) | <div>好听，千古绝唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342484183)<br><br>2018-07-16 18:21<br>赞(42) 踩(0) | <div>小学时第一首印象深刻的歌，那时听阿爸细细的讲述每一句词里的爱恨情仇，现在犹如仍在耳旁回响。阿爸留给自己的回忆里，有些随着时光而飞散，有些却慢慢沉淀下来，在后来的日子里一点点回味，一点点的，却仿佛更加清晰了细节&amp;hellip;&amp;hellip;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303252421)<br>我还没想好要写什么...<br>2018-09-09 12:04<br>赞(0) 踩(0) | <div>你阿爸也是一个情感饱满的男人！</div> |

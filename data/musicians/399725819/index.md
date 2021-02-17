@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7d9bc87dc1f71b772fd204a5145add37.jpg)<br>宋依凡](https://i.xiami.com/ivan) | **播放数**: 1399374<br>**粉丝数**: 627<br>**评论数**: 28<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/7d9bc87dc1f71b772fd204a5145add37.jpg)<br>宋依凡](https://i.xiami.com/ivan) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening<br>**播放数**: 1399374<br>**粉丝数**: 627<br>**评论数**: 28<br> |
 
 ## 档案
 
@@ -23,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322235515)<br>在音乐里澎湃，在玩笑里开...<br>2020-07-19 02:05<br>赞(0) 踩(0) | <div>吉他弹成这个水平，真的动心了～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429518204)<br><br>2020-02-22 00:17<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429518204)<br><br>2020-02-22 00:17<br>赞(0) 踩(0) | <div>******</div> |

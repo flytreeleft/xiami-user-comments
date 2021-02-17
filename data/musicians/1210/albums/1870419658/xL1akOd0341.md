@@ -41,15 +41,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347254273)<br>暗夜提灯，臻艺术之境<br>2020-11-30 05:50<br>赞(0) 踩(0) | <div>有几首歌是心灵疗伤的壳☁️</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347254273)<br>暗夜提灯，臻艺术之境<br>2020-11-30 05:50<br>赞(0) 踩(0) | <div>有几首歌是心灵疗伤的壳<br>☁️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49919432)<br>将往观乎四荒<br>2020-08-17 15:29<br>赞(0) 踩(0) | <div>为什么阿岳这么温柔唱着不要哭，就越想哭了呢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65854688)<br>Cheers<br>2020-07-20 23:44<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313697691)<br>我还没想好要写什么...<br>2020-07-14 10:08<br>赞(1) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-06-29 09:08<br>赞(0) 踩(0) | <div>这首歌曾经是我在金属趴的开场曲哇咔咔</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-06-29 09:08<br>赞(0) 踩(0) | <div>这首歌曾经是我在金属趴的开场曲<br>哇咔咔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46586116)<br><br>2020-03-26 23:49<br>赞(1) 踩(0) | <div>我太喜欢阿岳了，温柔却有点痞气，我太爱了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207998679)<br>保持冷静，坚持向前！<br>2020-03-26 00:12<br>赞(3) 踩(0) | <div>世上只有一种真正的英雄主义，那就是认清生活的真相后依然热爱生活。&amp;mdash;&amp;mdash;罗曼罗兰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207998679)<br>保持冷静，坚持向前！<br>2020-03-26 00:12<br>赞(3) 踩(0) | <div>世上只有一种真正的英雄主义，那就是认清生活的真相后依然热爱生活。<br><br>&amp;mdash;&amp;mdash;罗曼罗兰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418688697)<br><br>2020-01-27 22:35<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295378769)<br>亦可搜索jimnosky<br>2019-12-09 22:27<br>赞(0) 踩(0) | <div>“没有人是局外人”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297797462)<br><br>2019-12-04 07:33<br>赞(5) 踩(0) | <div>金生丽水，玉出昆岗，错铸丽水，玉碎昆岗，物不摧折，怎辩美媸，人不摧折，何言善恶。</div> |
@@ -294,7 +294,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34869625)<br>暂无签名~<br>2014-04-03 22:27<br>赞(0) 踩(0) | <div>晚安 咿呀啦噜哟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13028802)<br> <br>2014-03-29 21:22<br>赞(0) 踩(0) | <div>室友在放震岳的歌，找到这首歌很治愈【从哪里来/可爱女孩/不说一句/不时地低头/黝黑脸颊/天真无邪的大眼睛/静静看我】【小女孩你别哭/牵着你一起走】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4105549)<br><br>2014-03-08 23:40<br>赞(0) 踩(0) | <div>~~~~~~~~~~~~~~~~~~~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7707619)<br>站住，你个海带精<br>2014-02-27 22:12<br>赞(0) 踩(0) | <div>确实，我是一个眼光很高的人――――――――――</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7707619)<br>站住，你个海带精<br>2014-02-27 22:12<br>赞(0) 踩(0) | <div>确实，我是一个眼光很高的人<br><br><br><br><br><br>――――――――――</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10729399)<br>我还没想好要写什么...<br>2014-02-05 00:51<br>赞(0) 踩(0) | <div>我要去台湾</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7237721)<br><br>2014-02-02 10:08<br>赞(0) 踩(0) | <div>淡淡的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12883249)<br><br>2014-01-29 15:44<br>赞(0) 踩(0) | <div>#song#</div> |
@@ -359,7 +359,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17263525)<br><br>2013-07-14 10:15<br>赞(0) 踩(0) | <div>无聊的时候，可以试听一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12160211)<br><br>2013-07-13 13:56<br>赞(0) 踩(0) | <div>这张专辑都好好听！依然喜欢他耶！「我是海雅谷慕」。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11852326)<br>Time Goes.<br>2013-07-13 12:38<br>赞(0) 踩(0) | <div>给她们的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/740574)<br><br>2013-07-13 01:49<br>赞(0) 踩(0) | <div>这首歌的创作背景，我想应该就是在这个帖子里<a href="http://tieba.baidu.com/p/1281013770" target="_blank" rel="nofollow noreferrer noopener">http://tieba.baidu.com/p/1281013770</a>下载链接http://**/share/link?shareid=395610&amp;amp;uk=1174764094</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/740574)<br><br>2013-07-13 01:49<br>赞(0) 踩(0) | <div>这首歌的创作背景，我想应该就是在这个帖子里<a href="http://tieba.baidu.com/p/1281013770" target="_blank" rel="nofollow noreferrer noopener">http://tieba.baidu.com/p/1281013770</a><br><br>下载链接<br>http://**/share/link?shareid=395610&amp;amp;uk=1174764094</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4979737)<br><br>2013-07-12 14:30<br>赞(0) 踩(0) | <div>直接被治愈温暖了。自动脑补，以后孩子爹牵孩子走在小石路上，两个人都吃着冰激凌的美好场景。。怎么感觉和歌词场景就差了那么大呢。。0 0</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17177907)<br><br>2013-07-12 14:05<br>赞(0) 踩(0) | <div>从哪里来 可爱女孩 @JIYINGCHY-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13816404)<br>可爱的人难道不是我吗<br>2013-07-11 23:24<br>赞(0) 踩(0) | <div>莫名其妙被治愈了</div> |
@@ -382,7 +382,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16831197)<br>讓我哭的都不是人…<br>2013-07-06 15:02<br>赞(0) 踩(0) | <div>許多年過去了，那個不羁的少年，還拿著吉他，只是漸漸沒有了叫囂和呐喊，只是更加安靜內斂地唱著屬于歲月的歌。2013年，他交了一個答卷我是海雅谷慕， 屬**與山野的孩子，最終會回到自己出發的地方。他是阿美族他唱《別哭小女孩》，小女孩別哭，牽著你一起走。他終于變成了我們喜歡的樣子。@張震嶽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1020007)<br>暂无签名~<br>2013-07-06 09:04<br>赞(0) 踩(0) | <div>有一天，摇滚青年变身民谣大叔。灰常灰常伪文艺地说一声，愿你曾被世界温柔相待。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8989312)<br>我就爱带我家姑凉去次好次...<br>2013-07-05 23:11<br>赞(0) 踩(0) | <div>风儿吹 云儿飘 月儿不见了 小孩儿哭了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8989312)<br>我就爱带我家姑凉去次好次...<br>2013-07-05 23:03<br>赞(0) 踩(0) | <div>风儿吹 云儿飘 月儿不见了 小孩儿哭了天气真好 紫峰的光儿一闪一闪的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8989312)<br>我就爱带我家姑凉去次好次...<br>2013-07-05 23:03<br>赞(0) 踩(0) | <div>风儿吹 云儿飘 月儿不见了 小孩儿哭了<br>天气真好 紫峰的光儿一闪一闪的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7785088)<br><br>2013-07-05 16:42<br>赞(0) 踩(0) | <div>这张专辑不错，《破吉他《我家门前有大海《抱着你《先这样吧》，都蛮好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8399900)<br><br>2013-07-05 12:44<br>赞(0) 踩(0) | <div>小星星的开头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1880590)<br><br>2013-07-04 21:12<br>赞(0) 踩(0) | <div>《我是海雅谷慕》  极力推荐哈   真的很好听    ，，，，，  小女孩你别哭，牵着你一起走啊····</div> |
@@ -399,11 +399,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15980790)<br><br>2013-07-02 23:02<br>赞(0) 踩(0) | <div>hi ye...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11832644)<br><br>2013-07-02 22:52<br>赞(0) 踩(0) | <div>后悔啊后悔，上个月错过演唱会。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16720340)<br><br>2013-07-02 22:33<br>赞(0) 踩(0) | <div>继续沉淀后的音乐！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8927773)<br><br>2013-07-02 21:40<br>赞(0) 踩(0) | <div>熟悉回家路　何时变得残破小女孩你别哭　牵着你一起走也许未来　蓝色海洋也许未来　绿色的草原也许未来　这一切全部消失了会怎样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8927773)<br><br>2013-07-02 21:40<br>赞(0) 踩(0) | <div>熟悉回家路　何时变得残破<br>小女孩你别哭　牵着你一起走<br>也许未来　蓝色海洋<br>也许未来　绿色的草原<br>也许未来　这一切全部消失了<br>会怎样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9847918)<br>能不自觉想起的就是好音乐<br>2013-07-02 20:09<br>赞(0) 踩(0) | <div>2013.7.2</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1240851)<br><br>2013-07-02 18:00<br>赞(1) 踩(0) | <div>旋律和嗓音都很治愈，歌词却很悲伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7847456)<br>弃捐勿复道，努力加餐饭<br>2013-07-02 17:51<br>赞(0) 踩(0) | <div>也许未来，这一切全部消失了，会怎样？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1387905)<br><br>2013-07-02 17:50<br>赞(0) 踩(0) | <div>hi ye~~熟悉回家路　何时变得残破小女孩你别哭　牵著你一起走也许未来　蓝色海洋也许未来　绿色的草原也许未来　这一切全部消失了会怎样~~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1387905)<br><br>2013-07-02 17:50<br>赞(0) 踩(0) | <div>hi ye~~<br>熟悉回家路　何时变得残破<br>小女孩你别哭　牵著你一起走<br>也许未来　蓝色海洋<br>也许未来　绿色的草原<br>也许未来　这一切全部消失了<br>会怎样~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12176371)<br> <br>2013-07-02 17:08<br>赞(0) 踩(0) | <div>也许未来 这一切全部消失了 会怎样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4186929)<br><br>2013-07-02 15:13<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477722)<br><br>2013-07-02 10:06<br>赞(0) 踩(0) | <div>威风拂过的青青草原，广大的阿拉善大漠，巍巍兴安大森林，情系那一方的家乡，要一起好好保护。不要让机器轰鸣，小妹妹无力的哭泣</div> |

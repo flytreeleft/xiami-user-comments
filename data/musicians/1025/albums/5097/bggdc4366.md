@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368672594)<br><br>2020-09-06 21:23<br>赞(0) 踩(0) | <div>好听，熊天平声音很干净。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356291727)<br><br>2020-07-02 17:59<br>赞(1) 踩(0) | <div>初次听到这首歌是03年左右，我们班长高中音乐课上唱的。怀念。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258394757)<br><br>2019-12-14 11:10<br>赞(1) 踩(0) | <div></div> |
@@ -269,7 +269,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134516426)<br>     具大胸襟   ...<br>2017-11-01 07:51<br>赞(1) 踩(0) | <div>分享  熊天平 的歌曲《火柴天堂》<a href="https://www.xiami.com/song/61767?_uxid=876762A2FC32A6A0FDB70CB16130C207" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/61767?_uxid=876762A2FC32A6A0FDB70CB16130C207</a> (分享自@虾米音乐)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1968707)<br><br>2017-10-30 10:20<br>赞(0) 踩(0) | <div>聽著這首歌，看著這些歌詞，想起剛剛在垃圾箱消逝的五個生命，很刺骨的痛！貪官腐敗的人兒啊，把膨脹的慾望換成10%的關愛給這些孩子，該多好呢！爸媽們，當你覺得給予孩子生命時，請慎重，不要給他們希望，又狠狠拋棄在這個黑暗的世界。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160353262)<br>你有什么了不起的！<br>2017-11-10 21:24<br>赞(0) 踩(0) | <div>什么情况</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11917259)<br><br>2017-10-30 10:14<br>赞(2) 踩(0) | <div>走在寒冷下雪的夜空卖着火柴温暖我的梦一步步冰冻一步步寂寞人情寒冷冰冻我的手一包火柴燃烧我的心寒冷夜里挡不住前行风刺我的脸雪割我的口拖着脚步还能走多久有谁来买我的火柴有谁将一根根希望全部点燃</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11917259)<br><br>2017-10-30 10:14<br>赞(2) 踩(0) | <div>走在寒冷下雪的夜空<br>卖着火柴温暖我的梦<br>一步步冰冻一步步寂寞<br>人情寒冷冰冻我的手<br>一包火柴燃烧我的心<br>寒冷夜里挡不住前行<br>风刺我的脸雪割我的口<br>拖着脚步还能走多久<br>有谁来买我的火柴<br>有谁将一根根希望全部点燃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2117029)<br><br>2017-10-30 10:02<br>赞(0) 踩(0) | <div>最新一期东方卫视《舞林大会》，熊天平将携妻子嘉宾登场。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3830125)<br>我还没想好要写什么...<br>2017-10-30 10:00<br>赞(4) 踩(0) | <div>一边做东西一边翻老歌听。并不是有意要听到这首歌的。直到最后，这首熟悉的歌刺到了我。“看见天上的妈妈说话，……妈妈牵着你的手回家。”昨天，在华北平原的晨光里，我跪在妈妈的坟前，失声痛哭。现在，枯坐在这里，显示屏的光打在憔悴木然的脸上。指尖打出的字，画不出此刻的心情。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301636069)<br><br>2018-01-25 23:52<br>赞(0) 踩(0) | <div>她的离开是天泣，但会成就一颗坚强的心。</div> |
@@ -417,7 +417,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245646397)<br> <br>2017-05-08 00:10<br>赞(4) 踩(0) | <div>没有999+不科学 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png">这么好的歌 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290856597)<br><br>2017-05-05 20:15<br>赞(0) 踩(0) | <div>2016.5.4校园歌手听到有人唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288166873)<br><br>2017-05-04 19:54<br>赞(0) 踩(0) | <div>以前歌唱比赛唱过这个歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2017-05-04 07:12<br>赞(0) 踩(0) | <div>好听喜欢伤感</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2017-05-04 07:12<br>赞(0) 踩(0) | <div>好听<br>喜欢<br>伤感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194746902)<br> <br>2017-05-02 19:17<br>赞(0) 踩(0) | <div>经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285901977)<br><br>2017-05-01 10:26<br>赞(0) 踩(0) | <div>以前就喜欢听，现在在听感觉更美！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288676066)<br><br>2017-04-29 13:52<br>赞(1) 踩(0) | <div>不错</div> |
@@ -518,7 +518,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7876820)<br><br>2016-04-23 23:56<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79759634)<br><br>2016-04-12 20:12<br>赞(0) 踩(0) | <div>喜欢前面的铺，后面的续续叹，震颤我心，中间台腔气连不舒服 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118661778)<br><br>2016-03-27 09:17<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34626982)<br>宁静以致远。<br>2016-03-25 15:42<br>赞(2) 踩(0) | <div>这首歌的背景是熊天平的表弟骑摩托车出了车祸，表弟是他的知音与忠实的支持者，在孤寂而又不被人理解的那段时间表弟是他的精神支持者，小熊为表弟的离世非常伤心。《火柴天堂》在表弟车祸前还没有写完，后来小熊写完后就以此纪念他的表弟，寄托哀思。希望他在天堂不会孤单。当然小熊也表达了做歌手前的一些情绪，追求目标的艰难，在途中流浪对前途迷茫的心路感受。他曾写过很多非常非常消极的歌但没有发表。同时也是寓意现代社会那些怀抱梦想的年轻人，在奔向自己梦想的路程上遇到了这样那样的重重困难、彷徨、伤心，但是只要坚强起来勇敢面对困难继续追逐自己的梦想，总有一天会得到。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34626982)<br>宁静以致远。<br>2016-03-25 15:42<br>赞(2) 踩(0) | <div>这首歌的背景是熊天平的表弟骑摩托车出了车祸，表弟是他的知音与忠实的支持者，在孤寂而又不被人理解的那段时间表弟是他的精神支持者，小熊为表弟的离世非常伤心。<br>《火柴天堂》在表弟车祸前还没有写完，后来小熊写完后就以此纪念他的表弟，寄托哀思。希望他在天堂不会孤单。当然小熊也表达了做歌手前的一些情绪，追求目标的艰难，在途中流浪对前途迷茫的心路感受。他曾写过很多非常非常消极的歌但没有发表。<br><br>同时也是寓意现代社会那些怀抱梦想的年轻人，在奔向自己梦想的路程上遇到了这样那样的重重困难、彷徨、伤心，但是只要坚强起来勇敢面对困难继续追逐自己的梦想，总有一天会得到。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13849307)<br> <br>2016-03-24 00:13<br>赞(1) 踩(0) | <div>听了想哭的歌吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35905326)<br>一天出生一天死亡<br>2016-03-20 01:09<br>赞(0) 踩(0) | <div>高音有点飘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/67109882)<br>我还没想好要写什么...<br>2016-03-19 11:19<br>赞(0) 踩(0) | <div>多年以后还在听</div> |
@@ -595,7 +595,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40735488)<br><br>2014-09-02 01:05<br>赞(0) 踩(0) | <div>很老的歌。一开始就被这个干净的声音吸引住了。熊天平是原唱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40332766)<br> <br>2014-09-01 17:40<br>赞(1) 踩(0) | <div>熊天平跟张信哲的声音好像！好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/844220)<br>我还没想好要写什么...<br>2014-08-19 19:18<br>赞(0) 踩(0) | <div>＃Lucy的每日一歌＃这歌我也爱唱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31153241)<br>手握紧了是拳，张开了是掌...<br>2014-08-18 22:08<br>赞(0) 踩(0) | <div>火柴读音不标准，换气声音好大难受但是好听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31153241)<br>手握紧了是拳，张开了是掌...<br>2014-08-18 22:08<br>赞(0) 踩(0) | <div>火柴读音不标准，换气声音好大<br><br>难受<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>但是好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11065036)<br>暂无签名~<br>2014-08-13 23:08<br>赞(1) 踩(0) | <div>童年啊 小学老师讲卖火柴的小女孩时候就放的这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18464678)<br><br>2014-08-13 17:43<br>赞(0) 踩(0) | <div>越听越有味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18983247)<br>uuuuuuuuuuuu...<br>2014-08-12 23:32<br>赞(0) 踩(0) | <div>看了歌曲背景才感到悲</div> |
@@ -634,7 +634,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33088863)<br><br>2014-03-16 17:56<br>赞(0) 踩(0) | <div>喜歡他的詞，有讓人想回家的感覺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7937065)<br><br>2014-03-04 13:39<br>赞(0) 踩(0) | <div>这从来都是个悲伤的童话。小女孩卖的不是火柴，是理想。这个灵魂最后终于找到了回家的路。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31688987)<br><br>2014-01-22 19:38<br>赞(0) 踩(0) | <div>#九块八的卡带#她说你要勇敢，你要坚强，不要害怕，不要慌张</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5821352)<br>我爱老婆！老婆爱我！<br>2014-01-16 03:47<br>赞(0) 踩(0) | <div>熊天平的歌，清亮地歌唱爱情的希望和迷茫，坦白地展开情感的坚持，即使制造梦境，也远离于虚幻的放肆，远离麻醉的短暂快乐和沉沦的病态自由。熊天平的歌，为爱而真真切切地苦着或乐着，为一切现实中的情感做着缠绵却直接而真实的抒情，依然还在继续现实中的寻找，继续单纯的健康的追寻。熊天平有着水晶般纯净明丽的唯美音色，他擅长于一些简单纯粹得近乎完美的低吟浅唱。在熊天平的情歌世界中，没有一点现实世界的圆滑和世故，象一个不懂保护自己的孩子，真实坦诚！熊天平的歌，为一切现实中的情感做着缠绵却直接而真实的抒情；熊天平的生活，为爱而真真切切地苦着或乐着，继续对幸福和健康的追寻。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5821352)<br>我爱老婆！老婆爱我！<br>2014-01-16 03:47<br>赞(0) 踩(0) | <div>熊天平的歌，清亮地歌唱爱情的希望和迷茫，坦白地展开情感的坚持，即使制造梦境，也远离于虚幻的放肆，远离麻醉的短暂快乐和沉沦的病态自由。<br>熊天平的歌，为爱而真真切切地苦着或乐着，为一切现实中的情感做着缠绵却直接而真实的抒情，依然还在继续现实中的寻找，继续单纯的健康的追寻。<br>熊天平有着水晶般纯净明丽的唯美音色，他擅长于一些简单纯粹得近乎完美的低吟浅唱。在熊天平的情歌世界中，没有一点现实世界的圆滑和世故，象一个不懂保护自己的孩子，真实坦诚！熊天平的歌，为一切现实中的情感做着缠绵却直接而真实的抒情；熊天平的生活，为爱而真真切切地苦着或乐着，继续对幸福和健康的追寻。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9711234)<br><br>2014-01-15 12:17<br>赞(0) 踩(0) | <div>#天堂里会下雪嘛？#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13089355)<br><br>2014-01-08 00:01<br>赞(0) 踩(0) | <div>就是喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29632972)<br><br>2013-12-28 15:05<br>赞(0) 踩(0) | <div>作品音乐集</div> |
@@ -643,7 +643,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28232320)<br><br>2013-12-18 21:52<br>赞(0) 踩(0) | <div>颤动心灵的声音，沉沉中带点坚持。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1032146)<br>每天都要听音乐<br>2013-12-10 09:18<br>赞(0) 踩(0) | <div>人情寒冷、冰冻我的手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2189478)<br><br>2013-12-06 18:25<br>赞(0) 踩(0) | <div>----------------------------------</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7562991)<br><br>2013-11-04 04:17<br>赞(0) 踩(0) | <div>想当年可是烂大街的一首啊，如今呢？其实人们喜欢扯淡的东西</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7562991)<br><br>2013-11-04 04:17<br>赞(0) 踩(0) | <div>想当年可是烂大街的一首啊，如今呢？<br>其实人们喜欢扯淡的东西</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7331552)<br>感谢有音乐陪伴<br>2013-10-02 14:22<br>赞(0) 踩(0) | <div>熊天平</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17319)<br>我还没想好要写什么...<br>2013-09-08 19:36<br>赞(0) 踩(0) | <div>。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13396826)<br>一个凡人……<br>2013-09-04 00:27<br>赞(0) 踩(0) | <div>#冇好音乐# 晚安！</div> |
@@ -687,7 +687,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12105108)<br><br>2013-01-19 07:03<br>赞(0) 踩(0) | <div>卖女孩的小火柴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353012)<br>暂无签名~<br>2013-01-07 17:15<br>赞(0) 踩(0) | <div>音质非常清亮柔和，加上简单的吉他伴奏，可以静静欣赏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11409835)<br><br>2012-12-17 23:31<br>赞(0) 踩(0) | <div>好难过，想哭。。~~~~(&amp;gt;_&amp;lt;)~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9049180)<br><br>2012-12-15 12:58<br>赞(0) 踩(0) | <div>.............................................................</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9049180)<br><br>2012-12-15 12:58<br>赞(0) 踩(0) | <div>..............................<br>..............................<br>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11824438)<br>各有各命<br>2012-12-10 23:15<br>赞(0) 踩(0) | <div>大学里把考试不及格叫做挂科，考</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11792625)<br><br>2012-12-05 23:49<br>赞(0) 踩(0) | <div>偶然地听到这首歌，不禁想起垃圾桶里冻死的那几个小孩子，觉得很悲伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8316910)<br><br>2012-12-03 22:08<br>赞(0) 踩(0) | <div>清澈的男声，跟张信哲声音有一定可比性</div> |
@@ -704,12 +704,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8017968)<br>一蓑烟雨<br>2012-10-05 13:59<br>赞(0) 踩(0) | <div>这首歌曲曾经把我听到流泪，思绪中浮现的是曾经看过的卖火柴的小女孩！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10200977)<br><br>2012-10-04 22:38<br>赞(0) 踩(0) | <div>火菜，火菜，火菜，麻烦你舌头卷一点儿，行么？——火柴！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/648623)<br>公狗咬人<br>2012-09-28 21:58<br>赞(0) 踩(0) | <div>不怎么唱卡拉OK，但一来就唱这首。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317931)<br>好久不见。虾米生态堪忧。...<br>2012-09-26 02:54<br>赞(0) 踩(0) | <div>有谁来买我的火柴有谁将一根根希望全部点燃有谁来买我的孤单有谁来实现我想家的呼唤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317931)<br>好久不见。虾米生态堪忧。...<br>2012-09-26 02:54<br>赞(0) 踩(0) | <div>有谁来买我的火柴<br>有谁将一根根希望全部点燃<br>有谁来买我的孤单<br>有谁来实现我想家的呼唤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6653678)<br><br>2012-09-03 22:50<br>赞(0) 踩(0) | <div>goodnight,everyone!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10294440)<br> <br>2012-08-23 18:08<br>赞(0) 踩(0) | <div>只要坚强起来勇敢面对困难继续追逐自己的梦想，总有一天会得到。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1455597)<br><br>2012-08-21 23:07<br>赞(0) 踩(0) | <div>熊的声音不错呀～～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1340022)<br>风就在轻抚..<br>2012-08-11 13:18<br>赞(0) 踩(0) | <div>歌词句句入心..漂流在外的请静下心来听听吧!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19308)<br>不明所以不以为然不甚了了<br>2012-08-10 08:27<br>赞(0) 踩(0) | <div>走在寒冷下雪的夜空卖着火柴温饱我的梦 #听一首歌吹吹凉风#</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19308)<br>不明所以不以为然不甚了了<br>2012-08-10 08:27<br>赞(0) 踩(0) | <div>走在寒冷下雪的夜空<br>卖着火柴温饱我的梦 #听一首歌吹吹凉风#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1113346)<br>你曾怀疑，别忧郁我们终将...<br>2012-08-09 21:52<br>赞(0) 踩(0) | <div>不跑他个几千几万公里是唱不了这歌的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8768027)<br>每一天都是崭新的<br>2012-07-17 16:37<br>赞(0) 踩(0) | <div>谁在温暖花开的天堂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8637449)<br><br>2012-07-16 11:16<br>赞(0) 踩(0) | <div>好好听呀~</div> |
@@ -724,15 +724,15 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8584442)<br><br>2012-04-22 20:42<br>赞(0) 踩(0) | <div>卖火柴的小男孩&amp;amp;lt;(￣︶￣)&amp;amp;gt;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8953626)<br><br>2012-04-22 10:56<br>赞(0) 踩(0) | <div>点燃火柴的火柴天堂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8604508)<br>猫了个咪的！<br>2012-03-26 23:24<br>赞(0) 踩(0) | <div>火柴天堂。。。经典之作。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8566856)<br>对我来说，你是整个世界！<br>2012-03-26 20:13<br>赞(0) 踩(0) | <div>it.is.the.time.you.have.wasted.for.your.rose.that.makes.your.rose.portant.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8566856)<br>对我来说，你是整个世界！<br>2012-03-26 20:13<br>赞(0) 踩(0) | <div>it.is.the.time.you.have.wasted<br>.for.your.rose.that.makes.your<br>.rose.portant.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8422004)<br>我还没想好要写什么...<br>2012-03-24 09:20<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6470347)<br><br>2012-03-23 01:13<br>赞(0) 踩(0) | <div>每次点燃火柴微微光芒，看到希望看到梦想，看见天上的妈妈说话，她说你要勇敢你要坚强，不要害怕不要慌张，让你从此不必再流浪，妈妈牵着你的手回家，睡在温暖花开的天堂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595353)<br>微笑，给你<br>2012-03-18 12:25<br>赞(0) 踩(0) | <div>我八成是苦没吃够，怎么就这么想流浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8328678)<br><br>2012-03-07 16:30<br>赞(0) 踩(0) | <div>说不出来的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7994766)<br><br>2012-03-03 00:23<br>赞(0) 踩(0) | <div>流行歌聽多了.我的想法是: 愈嚟愈少人會往音樂列表裏放較多的Light Music.純音樂(更多還是電影原聲吧).民歌民謠.所接觸的人也很少聽新世紀音樂.反倒是一些二次元基友很迷.豆瓣就很多各種小站...少了份**雪月.多了份生活感悟.其實歌曲還是積極的...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1483943)<br>我还没想好要写什么...<br>2012-02-20 19:07<br>赞(0) 踩(0) | <div>有谁来买我的火柴。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4030442)<br><br>2012-02-20 09:06<br>赞(0) 踩(0) | <div>喜欢那种一口气能唱死的感觉！哈哈哈，真痛快~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25880)<br><br>2012-01-15 00:44<br>赞(0) 踩(0) | <div>每次点燃火柴微微光芒看到希望看到梦想</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4030442)<br><br>2012-02-20 09:06<br>赞(0) 踩(0) | <div>喜欢那种一口气能唱死的感觉！<br>哈哈哈，真痛快~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25880)<br><br>2012-01-15 00:44<br>赞(0) 踩(0) | <div>每次点燃火柴微微光芒<br>看到希望看到梦想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2047645)<br><br>2011-11-24 12:42<br>赞(0) 踩(0) | <div>@猫壹一 非常纯净的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2047645)<br><br>2011-11-24 12:42<br>赞(0) 踩(0) | <div>@猫壹一 非常纯净的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4464709)<br><br>2011-11-09 00:19<br>赞(0) 踩(0) | <div>一个人，关上灯，享受我自己一个人的世界...</div> |
@@ -755,7 +755,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1342249)<br>是多久没见<br>2011-09-07 09:58<br>赞(0) 踩(0) | <div>很久很久以前经常听的   清清亮亮的声音 半夜不会打瞌睡</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4416665)<br><br>2011-09-07 10:36<br>赞(0) 踩(0) | <div><q><b>夏之萌说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1038287)<br><br>2011-09-03 21:01<br>赞(0) 踩(0) | <div>一个人的时候听着很舒服~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2011-08-24 23:36<br>赞(0) 踩(0) | <div>他的声音有张力，清澈而透明，最重要的是我从他的第一张磁带里就听出了感情，一种隽永的情感，还有淡淡的悲伤。《爱情多瑙河》发行于1997年，是熊天平的第一个张个人专辑。国中时的滑雪意外受伤让熊天平改变了一生的命运。原本有可能当上奥运选手的他。因为在病房中休养的漫漫长日无从打发，于是拿起同学送他的一把吉他，开始了自己的音乐之旅。吉他，大概是这个世界上唯一必须先接受肉体折磨，才有收获的乐器。因为弹吉他的人 想要弹得好，左手按弦必须按到手指长茧，才能精准的弹出每一个音符。所以我一直觉得，能谈一手好吉他的人，必定是内心深深爱着音乐的人。熊天平也不例外。是吉他，让他有了创作的动机，也让我们得以在最初的最初，常常在齐秦等人的歌页上发现一个叫做熊天逸的人。由他署名的歌曲都非常好听。而其实这个也不是他的本名，他本名叫熊威。《爱情多瑙河》的唱片上市第一天就接到十二万张订单，远远超过当日工厂的五万张印制量，结果第二天全台湾断货，以至于工厂连夜加班赶货。成为当年全台湾音乐界的一大传说。这张专辑里出了好几首至今仍在被传唱的歌曲，除了爱情多瑙河，还有雪候鸟、火柴天堂、你的眼睛，你最喜欢的是哪一首呢？熊天平的歌，清亮地歌唱爱情的希望和迷茫，坦白地展开情感的坚持，声音里有一种很纯粹的坚持和清冷。到2000年，熊天平在短短4年的时间里连续发片11张、演绎了70余首作品。那年听他磁带的小孩们常常会在课堂上把头埋在书桌底下抄歌词，至今你仍然能在ktv里看见长他歌可以倒背歌词的歌迷。也许是为了回馈这些厚爱他的歌迷，06年的时候，熊天平推出了《十年全纪录》，2009年时又发行专辑《团团圆圆》。时隔那么多年，他曾经胖过，他成家了，他离开过也回来过。带着新的创作，带着夫人，带着重新演绎的经典歌曲，重新回到了我的视野。那声线仍旧象是透明海水里游来游去的鱼，干净地让人心动，可是歌里已然少了当年那样的深情款款，而我们也已没有了当年听歌的感觉。那个年代，上华唱片出了一批优秀歌手。经过十多年，他虽然没有诸多台湾独立音乐人依然在歌坛闪亮，没有诸多流行歌手大红大紫，却依然因那份纯净至真，用情至深的声音而让一部分人喜欢追随着他。在这纷繁复杂的世界里，或许许多的声音左右了内心最纯朴最真实最简单的感情，时曾让我们心安，时曾让我们无所适从，只是听了他的音乐，仿佛一切都回归自然，无论是快乐，无论是悲伤，都感觉似乎这才真正找到了真实的自己。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2011-08-24 23:36<br>赞(0) 踩(0) | <div>他的声音有张力，清澈而透明，最重要的是我从他的第一张磁带里就听出了感情，一种隽永的情感，还有淡淡的悲伤。<br><br>《爱情多瑙河》发行于1997年，是熊天平的第一个张个人专辑。国中时的滑雪意外受伤让熊天平改变了一生的命运。原本有可能当上奥运选手的他。因为在病房中休养的漫漫长日无从打发，于是拿起同学送他的一把吉他，开始了自己的音乐之旅。<br>吉他，大概是这个世界上唯一必须先接受肉体折磨，才有收获的乐器。因为弹吉他的人 想要弹得好，左手按弦必须按到手指长茧，才能精准的弹出每一个音符。所以我一直觉得，能谈一手好吉他的人，必定是内心深深爱着音乐的人。熊天平也不例外。是吉他，让他有了创作的动机，也让我们得以在最初的最初，常常在齐秦等人的歌页上发现一个叫做熊天逸的人。由他署名的歌曲都非常好听。而其实这个也不是他的本名，他本名叫熊威。<br>《爱情多瑙河》的唱片上市第一天就接到十二万张订单，远远超过当日工厂的五万张印制量，结果第二天全台湾断货，以至于工厂连夜加班赶货。成为当年全台湾音乐界的一大传说。<br>这张专辑里出了好几首至今仍在被传唱的歌曲，除了爱情多瑙河，还有雪候鸟、火柴天堂、你的眼睛，你最喜欢的是哪一首呢？<br><br>熊天平的歌，清亮地歌唱爱情的希望和迷茫，坦白地展开情感的坚持，声音里有一种很纯粹的坚持和清冷。<br>到2000年，熊天平在短短4年的时间里连续发片11张、演绎了70余首作品。那年听他磁带的小孩们常常会在课堂上把头埋在书桌底下抄歌词，至今你仍然能在ktv里看见长他歌可以倒背歌词的歌迷。也许是为了回馈这些厚爱他的歌迷，06年的时候，熊天平推出了《十年全纪录》，2009年时又发行专辑《团团圆圆》。<br>时隔那么多年，他曾经胖过，他成家了，他离开过也回来过。带着新的创作，带着夫人，带着重新演绎的经典歌曲，重新回到了我的视野。那声线仍旧象是透明海水里游来游去的鱼，干净地让人心动，可是歌里已然少了当年那样的深情款款，而我们也已没有了当年听歌的感觉。<br><br>那个年代，上华唱片出了一批优秀歌手。经过十多年，他虽然没有诸多台湾独立音乐人依然在歌坛闪亮，没有诸多流行歌手大红大紫，却依然因那份纯净至真，用情至深的声音而让一部分人喜欢追随着他。<br>在这纷繁复杂的世界里，或许许多的声音左右了内心最纯朴最真实最简单的感情，时曾让我们心安，时曾让我们无所适从，只是听了他的音乐，仿佛一切都回归自然，无论是快乐，无论是悲伤，都感觉似乎这才真正找到了真实的自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2852370)<br>我还没想好要写什么...<br>2011-08-16 04:52<br>赞(0) 踩(0) | <div>谁来实现想家的呼唤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2852370)<br>我还没想好要写什么...<br>2011-08-16 04:49<br>赞(0) 踩(0) | <div>谁来实现想家的呼唤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3755452)<br><br>2011-08-15 15:50<br>赞(0) 踩(0) | <div>听一次听到,感动了</div> |
@@ -770,7 +770,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3861583)<br><br>2011-05-20 10:18<br>赞(0) 踩(0) | <div>很喜欢齐秦的版本，现在觉得熊天平唱的更细腻。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3989663)<br><br>2011-05-19 23:19<br>赞(0) 踩(0) | <div>回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3970838)<br><br>2011-05-17 20:10<br>赞(0) 踩(0) | <div>好听~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/687144)<br><br>2011-05-14 16:56<br>赞(0) 踩(0) | <div>有feel~~~听一次   感动一次！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/687144)<br><br>2011-05-14 16:56<br>赞(0) 踩(0) | <div>有feel~~~<br>听一次   感动一次！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1469249)<br>青丝擢素手，残香销魂。<br>2011-05-04 11:41<br>赞(0) 踩(0) | <div>孤寂凄冷的感觉，一目了然，所以伤感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3229312)<br><br>2011-05-03 02:53<br>赞(0) 踩(0) | <div>温暖清澈直入人心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188428)<br>青黎黄昏.黑夜白昼.<br>2011-04-22 17:40<br>赞(0) 踩(0) | <div>且听风吟...</div> |
@@ -784,12 +784,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1418398)<br><br>2011-01-08 21:30<br>赞(0) 踩(0) | <div>干净 清澈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2372640)<br><br>2011-01-08 19:45<br>赞(0) 踩(0) | <div>喜欢这感觉~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1971965)<br><br>2011-01-02 21:32<br>赞(0) 踩(0) | <div>熊天平，火柴天堂，当我们读卖火柴的小女孩的时候都在为女孩的命运而惋惜，希望他能让你想起往日的记忆！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/493115)<br><br>2010-12-05 16:16<br>赞(0) 踩(0) | <div>&amp;quot;賣火柴的女孩&amp;quot;的故事...聽著聽著都快哭了...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/493115)<br><br>2010-12-05 16:16<br>赞(0) 踩(0) | <div>&amp;quot;賣火柴的女孩&amp;quot;的故事...<br><br>聽著聽著都快哭了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1246982)<br><br>2010-12-04 18:41<br>赞(0) 踩(0) | <div>好可怜，听着。。。都哭了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446714)<br><br>2010-11-30 23:04<br>赞(0) 踩(0) | <div>虽然现在幸福得“发福”但是当年还是小帅哥一枚哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331940)<br><br>2010-10-26 21:50<br>赞(0) 踩(0) | <div>寒夜里的温暖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1060321)<br><br>2010-09-12 23:42<br>赞(0) 踩(0) | <div>嗯，清澈，很干净</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1466446)<br><br>2010-09-11 09:48<br>赞(0) 踩(0) | <div>清澈、优美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323280)<br>_<br>2009-11-19 15:01<br>赞(0) 踩(0) | <div>记得那时候还是初中的样子吧 熊天平一把干净声音 一副瘦削身形 唱火柴天堂的感觉 真觉得最颤心的莫过于此了~~~</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378757)<br><br>2009-11-19 15:13<br>赞(0) 踩(0) | <div>更喜欢齐秦的版本 因为曾经经常和朋友一起练那个  练了好长时间 吉他有点难齐秦 啊忘了</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378757)<br><br>2009-11-19 15:13<br>赞(0) 踩(0) | <div>更喜欢齐秦的版本 因为曾经经常和朋友一起练那个  练了好长时间 吉他有点难<br>齐秦 啊忘了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29849)<br><br>2009-02-14 16:10<br>赞(0) 踩(0) | <div>经典中的经典啊</div> |

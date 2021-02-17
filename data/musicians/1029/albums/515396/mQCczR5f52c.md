@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30228323)<br><br>2019-05-16 15:11<br>赞(0) 踩(0) | <div>南无阿弥陀佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292282141)<br><br>2017-06-08 18:13<br>赞(2) 踩(0) | <div>南无阿弥陀佛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66809470)<br>阿弥陀佛么么哒<br>2017-04-06 19:48<br>赞(2) 踩(0) | <div>但愿众生闻此生，从而永具菩提心！</div> |

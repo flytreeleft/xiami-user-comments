@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/eea3de25250fefe9b5eb50b41233ce0c.jpg)<br>辛雨锡](https://i.xiami.com/xyx099) | **播放数**: 2414221<br>**粉丝数**: 160<br>**评论数**: 13<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/eea3de25250fefe9b5eb50b41233ce0c.jpg)<br>辛雨锡](https://i.xiami.com/xyx099) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 2414221<br>**粉丝数**: 160<br>**评论数**: 13<br> |
 
 ## 档案
 
@@ -32,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407269127)<br><br>2020-11-28 18:01<br>赞(0) 踩(0) | <div>很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441814318)<br>辛小熊的小盆友<br>2020-03-28 21:51<br>赞(1) 踩(0) | <div>辛小熊，我来看你咯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441536107)<br><br>2020-03-18 13:06<br>赞(1) 踩(0) | <div>姐姐   我来了</div> |

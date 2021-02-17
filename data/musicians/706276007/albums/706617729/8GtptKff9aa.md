@@ -58,8 +58,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378291003)<br><br>2021-01-26 21:58<br>赞(1) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353922214)<br><br>2021-01-22 05:55<br>赞(0) 踩(0) | <div>唱的好听，但这首歌吃的没有超越王菲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305382267)<br><br>2021-01-07 01:56<br>赞(0) 踩(0) | <div>是时候说再见了！</div> |
@@ -74,7 +74,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48057594)<br>安住在音乐的时光中……<br>2020-12-05 19:02<br>赞(1) 踩(0) | <div>更喜欢周深，王菲已或是过去式</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445302010)<br><br>2020-12-05 13:04<br>赞(2) 踩(0) | <div>王菲声音特点是剔透空灵 在这一点是无可替代的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235629544)<br><br>2020-11-22 19:39<br>赞(4) 踩(0) | <div>芹菜萝卜各有所爱。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283032516)<br>我还没想好要写什么...<br>2020-11-20 02:04<br>赞(2) 踩(0) | <div>下班！0204AM</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283032516)<br>我还没想好要写什么...<br>2020-11-20 02:04<br>赞(2) 踩(0) | <div>下班！<br>0204AM</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442547057)<br>那年我们18岁 ..<br>2020-11-11 23:35<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333482593)<br>花店不开了 花继续开<br>2020-11-04 15:55<br>赞(5) 踩(0) | <div>&amp;ldquo;有一天你会明白 你需要的不是轰轰烈烈的爱情 只是想要一个不会离开你的人 冷的时候他会给你一件外套 胃疼时会给你一杯热水 难过时他会给你一个拥抱 就这么一直陪在你身边 不是整天多爱多爱 而是认真的一句&amp;ldquo;在一起不离开&amp;rdquo;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50896800)<br><br>2020-11-04 12:59<br>赞(1) 踩(0) | <div>这首歌打原唱是打不赢的，王菲的唱功也不是一日之功。相比较而言更柔润更有层次。</div> |
@@ -87,7 +87,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442629571)<br>星月<br>2020-10-18 04:43<br>赞(4) 踩(0) | <div>不离不弃的永远只有音乐和书</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354645197)<br>没有音乐没有灵魂<br>2020-12-28 01:37<br>赞(0) 踩(0) | <div>唯有书可以让百无聊赖的时间被充满，只有音乐可以让黑白的东西五彩斑斓</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316471881)<br><br>2020-10-13 06:47<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443097606)<br>唯有再见 方见人生<br>2020-10-05 07:56<br>赞(1) 踩(0) | <div>人生匆匆，经历的都是风景，留下的都是故事。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443097606)<br>唯有再见 方见人生<br>2020-10-05 07:56<br>赞(1) 踩(0) | <div>人生匆匆，<br>经历的都是风景，<br>留下的都是故事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409479475)<br><br>2020-10-04 06:29<br>赞(0) 踩(0) | <div>匆匆那年花开月正圆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8761850)<br>孤独 是一种态度!<br>2020-10-01 05:37<br>赞(0) 踩(0) | <div>我就随便听听......！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15065001)<br><br>2020-09-30 07:04<br>赞(0) 踩(0) | <div>好听</div> |
@@ -108,13 +108,13 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371070694)<br><br>2020-10-22 21:17<br>赞(0) 踩(0) | <div>0周深的个人风格够强烈的了、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443321491)<br>我还没想好要写什么...<br>2020-07-13 17:28<br>赞(1) 踩(0) | <div>评论区别比较了。这首歌难度很高</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4472670)<br><br>2020-07-07 13:26<br>赞(0) 踩(0) | <div>我觉得还是王菲的原版有味道，周深的也好听，但是有些地方太长了听的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203925715)<br>听一首歌，爱一个人，过一...<br>2020-07-05 01:01<br>赞(0) 踩(0) | <div>不惧相思苦，唯恨太匆匆。众皆笑我痴，谁解其中味？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203925715)<br>听一首歌，爱一个人，过一...<br>2020-07-05 01:01<br>赞(0) 踩(0) | <div>不惧相思苦，唯恨太匆匆。<br>众皆笑我痴，谁解其中味？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321308443)<br>小主すべてはより良い自分...<br>2020-06-30 23:28<br>赞(0) 踩(0) | <div>这世界上，有些事情就是为了让你干了以后后悔而设的，所以你不管干了什么事，都不要后悔。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443485518)<br><br>2020-06-27 02:45<br>赞(1) 踩(0) | <div>音乐精灵深</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414232811)<br><br>2020-06-25 12:14<br>赞(2) 踩(0) | <div>周深一开口就听得我鸡皮疙瘩的，众所周知他有一把好声音，既使是王菲的经典歌曲也可以驾轻就熟，轻松从容的把歌唱的那么好听。一首听了那么多年的王菲的歌，在周深唱来竟然有了不同的独特风格与味道 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png">赞 <img src="../../../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png"> <img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414232811)<br><br>2020-06-25 12:14<br>赞(2) 踩(0) | <div>周深一开口就听得我鸡皮疙瘩的，众所周知他有一把好声音，既使是王菲的经典歌曲也可以驾轻就熟，轻松从容的把歌唱的那么好听。一首听了那么多年的王菲的歌，在周深唱来竟然有了不同的独特风格与味道 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"><br><br><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png">赞 <img src="../../../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png"> <img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325479198)<br><br>2020-06-21 00:12<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418336236)<br><br>2020-06-15 21:33<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359365048)<br>渾渾噩噩 一歌解千愁~<br>2020-06-13 08:21<br>赞(1) 踩(0) | <div>匆匆那年 我们见过太少世面只爱看同一张脸那么莫名其妙那么讨人欢喜</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359365048)<br>渾渾噩噩 一歌解千愁~<br>2020-06-13 08:21<br>赞(1) 踩(0) | <div>匆匆那年 我们见过太少世面<br>只爱看同一张脸<br>那么莫名其妙<br>那么讨人欢喜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443467658)<br><br>2020-06-12 21:18<br>赞(4) 踩(0) | <div>我感觉王菲唱的更有味道，让我很伤感，这个就没什么感觉了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443430779)<br>不尽长江滚滚来<br>2020-06-08 13:52<br>赞(1) 踩(0) | <div>一开始听不看名字，真以为是女的在唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410336570)<br>喜歡你的笑、認真的男人最...<br>2020-05-26 08:06<br>赞(3) 踩(0) | <div>我已經完全忘記這首是王菲的歌！一直認為是深深的還是聽深深的好聽</div> |
@@ -127,7 +127,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253320709)<br><br>2020-04-26 14:45<br>赞(3) 踩(0) | <div>没有王菲的连贯，气息不稳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441796568)<br><br>2020-04-25 20:15<br>赞(5) 踩(0) | <div>没王菲唱得好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407775392)<br>我还没想好要写什么...<br>2020-04-23 10:07<br>赞(1) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119883454)<br><br>2020-04-22 17:21<br>赞(1) 踩(0) | <div>匆匆那年 我们见过太少世面只爱看同一张脸那么莫名其妙那么讨人欢喜闹起来又太讨厌不怪每一个人没能完整爱一遍</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119883454)<br><br>2020-04-22 17:21<br>赞(1) 踩(0) | <div>匆匆那年 我们见过太少世面<br>只爱看同一张脸<br>那么莫名其妙<br>那么讨人欢喜<br>闹起来又太讨厌<br>不怪每一个人<br>没能完整爱一遍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254638800)<br> <br>2020-04-18 11:36<br>赞(0) 踩(0) | <div>无论哪首歌，都能被她深情带入&amp;hellip;&amp;hellip;&amp;hellip;同样的歌，她用自己的表达更胜一筹 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406313324)<br>励志<br>2020-04-16 11:48<br>赞(1) 踩(0) | <div>人最忌讳的是宽己严人，对自己什么事情都是没有关系的，对别人左一个要求、右一个要求，这样做事就叫刚愎自用，太执着，所以，中华传统文化讲人要善良，一善解百灾。&amp;mdash;20181006ks</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321390363)<br>SC8308<br>2020-04-13 08:53<br>赞(2) 踩(0) | <div>王菲的歌很多人翻唱，但是没有超越的，周现在很红，还没到让我喜欢上的地步。</div> |
@@ -144,11 +144,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256520683)<br><br>2020-03-07 13:14<br>赞(1) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13342424)<br>人不会为走自己该走的路后...<br>2020-03-06 13:01<br>赞(3) 踩(0) | <div>原来是个男生唱的。。。算了，不收藏了~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209868337)<br><br>2020-03-02 00:04<br>赞(1) 踩(0) | <div>周深 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359017915)<br><br>2020-03-01 23:17<br>赞(3) 踩(0) | <div>好温柔,好动听的怀念~~每个人唱法都有自己的情感处理~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359017915)<br><br>2020-03-01 23:17<br>赞(3) 踩(0) | <div>好温柔,好动听的怀念~~<br><br>每个人唱法都有自己的情感处理~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347338551)<br><br>2020-02-22 20:38<br>赞(8) 踩(0) | <div>不需要去做比较，毕竟每个人对歌曲的体会都不同，每个人的阅历也不同，周深和王菲年龄差距，经历都是放在那里的……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406294317)<br><br>2020-02-18 09:01<br>赞(22) 踩(0) | <div>周深的听出了怀念过去的悲伤，王菲的听出了对过去擦肩而过的无奈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47038040)<br><br>2020-02-14 01:05<br>赞(13) 踩(0) | <div>周深真是神奇的宝藏男孩，大鱼好听，翻唱的歌曲也都好听 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404269894)<br>咩！<br>2020-02-06 22:08<br>赞(3) 踩(0) | <div>感觉王菲唱的更空灵，带着一丝对那年的青春和笨拙初恋的看破和讽刺周深的版本更温柔，带着一丝遗憾和挽留</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404269894)<br>咩！<br>2020-02-06 22:08<br>赞(3) 踩(0) | <div>感觉王菲唱的更空灵，带着一丝对那年的青春和笨拙初恋的看破和讽刺<br>周深的版本更温柔，带着一丝遗憾和挽留</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404803395)<br><br>2020-02-03 15:49<br>赞(1) 踩(0) | <div>黄菲在唱她自己，而她在唱我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97633108)<br><br>2020-01-28 22:26<br>赞(1) 踩(0) | <div>胜在年轻，状态最好时</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378869667)<br><br>2020-01-21 21:28<br>赞(1) 踩(0) | <div>动听(✪▽✪)</div> |
@@ -202,7 +202,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425804894)<br><br>2019-06-11 21:32<br>赞(0) 踩(0) | <div>很久没有听这首歌，很好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367966090)<br>爱你是一种信仰<br>2019-06-06 07:40<br>赞(1) 踩(0) | <div>那些年过去了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269653302)<br>爱听音乐的80后<br>2019-06-05 14:13<br>赞(0) 踩(0) | <div>不是周深唱的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50693062)<br>红色<br>2019-06-03 18:04<br>赞(1) 踩(0) | <div>感觉，只是一味的在模仿王菲的唱腔技法，对歌曲本身的感悟升华完全体现不出来。只能算是个没有灵魂的临摹作品。 <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png">因为阅历、理解力都太浅薄。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50693062)<br>红色<br>2019-06-03 18:04<br>赞(1) 踩(0) | <div>感觉，只是一味的在模仿王菲的唱腔技法，对歌曲本身的感悟升华完全体现不出来。<br>只能算是个没有灵魂的临摹作品。 <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"><br>因为阅历、理解力都太浅薄。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50693062)<br>红色<br>2019-06-03 17:58<br>赞(1) 踩(0) | <div>不要告诉我，本是男儿身，却成女娇娥 <img src="../../../../images/comments/91081ea0de8ee2c933524fb8574e76e5.png"> <img src="../../../../images/comments/91081ea0de8ee2c933524fb8574e76e5.png"> <img src="../../../../images/comments/91081ea0de8ee2c933524fb8574e76e5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7802103)<br>种下一颗种子，收获一片果...<br>2019-06-02 08:55<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352042701)<br><br>2019-06-02 04:42<br>赞(1) 踩(0) | <div>like</div> |
@@ -211,7 +211,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375424432)<br>就是喜歡聽<br>2019-05-11 08:44<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351789291)<br>乐活人生。<br>2019-05-10 18:33<br>赞(0) 踩(0) | <div>好听很舒服</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287191180)<br>爱音乐，爱生活！<br>2019-05-08 19:25<br>赞(1) 踩(0) | <div>好听！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406265614)<br>自己选择的路，自己承担后...<br>2019-05-07 20:48<br>赞(1) 踩(0) | <div>当我们想爱的时候没有能力，当我们有能力的时候，却早已错过。再见！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406265614)<br>自己选择的路，自己承担后...<br>2019-05-07 20:48<br>赞(1) 踩(0) | <div>当我们想爱的时候没有能力，当我们有能力的时候，却早已错过。<br>再见！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43549960)<br><br>2019-05-07 19:58<br>赞(0) 踩(0) | <div>开口跪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333030601)<br><br>2019-05-04 22:00<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349161857)<br>东篱把酒黄昏后。有暗香盈...<br>2019-05-03 01:06<br>赞(0) 踩(0) | <div>情深意浓戏弄人，恍然回首人《弄戏》……</div> |
@@ -256,7 +256,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348227412)<br><br>2019-02-22 16:37<br>赞(1) 踩(0) | <div>我这个是王菲唱的，为啥显示周深</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220954573)<br>所爱隔山海   山海不可...<br>2019-02-14 14:30<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23444467)<br>無樂不歡<br>2019-02-12 22:21<br>赞(3) 踩(0) | <div>他聲音 雌雄難辨 唱功了得</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353722630)<br>一生所爱     至死不...<br>2019-02-12 08:40<br>赞(152) 踩(0) | <div>周深一开口就听得我鸡皮疙瘩的，众所周知他有一把好声音，既使是王菲的经典歌曲也可以驾轻就熟，轻松从容的把歌唱的那么好听。一首听了那么多年的王菲的歌，在周深唱来竟然有了不同的独特风格与味道 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png">赞 <img src="../../../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png"> <img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353722630)<br>一生所爱     至死不...<br>2019-02-12 08:40<br>赞(152) 踩(0) | <div>周深一开口就听得我鸡皮疙瘩的，众所周知他有一把好声音，既使是王菲的经典歌曲也可以驾轻就熟，轻松从容的把歌唱的那么好听。一首听了那么多年的王菲的歌，在周深唱来竟然有了不同的独特风格与味道 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"><br><br><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png">赞 <img src="../../../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png"> <img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430110553)<br>我还没想好要写什么...<br>2019-10-12 06:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357493353)<br><br>2020-07-18 12:14<br>赞(0) 踩(0) | <div>对的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435524184)<br><br>2020-10-13 19:19<br>赞(0) 踩(0) | <div>配合</div> |
@@ -281,7 +281,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375712092)<br><br>2018-11-21 09:50<br>赞(0) 踩(0) | <div>粗糙18¥。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357028916)<br>我还没想好要写什么...<br>2018-11-17 10:05<br>赞(1) 踩(0) | <div>其实我并不喜欢歌词写的太娇饰。像剧本一样安排的明明白白。但是，确实还是挺好的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351558875)<br><br>2018-11-14 16:17<br>赞(0) 踩(0) | <div>赞</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35359658)<br><br>2018-11-09 09:22<br>赞(2) 踩(0) | <div>爱情最终要归于平淡，平淡的爱情就像方茴问陈寻：我们会一直在一起吗？会结婚吗？会有小孩儿吗？我们会有自己的家吗？一起买菜、做饭、洗碗、铺床单晾衣服吗？到老了我们还会这样手牵手吗？这一连串的问题，陈寻都在说，会，相拥的那一刻誓言的坚定，是所有人都想听到的。曾经的我们也被问道，我们会结婚吗？但我们真的不知道，我们各自在孤独的角落里舔舐着流过血的伤口</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35359658)<br><br>2018-11-09 09:22<br>赞(2) 踩(0) | <div>爱情最终要归于平淡，平淡的爱情就像方茴问陈寻：我们会一直在一起吗？会结婚吗？会有小孩儿吗？我们会有自己的家吗？一起买菜、做饭、洗碗、铺床单晾衣服吗？到老了我们还会这样手牵手吗？<br>这一连串的问题，陈寻都在说，会，相拥的那一刻誓言的坚定，是所有人都想听到的。<br>曾经的我们也被问道，我们会结婚吗？但我们真的不知道，我们各自在孤独的角落里舔舐着流过血的伤口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368481366)<br><br>2018-10-30 07:25<br>赞(0) 踩(0) | <div>，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41538398)<br>我还没想好要写什么...<br>2018-10-27 21:40<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406017582)<br><br>2018-10-27 09:33<br>赞(1) 踩(0) | <div>声音中有杂质，不纯净</div> |
@@ -360,7 +360,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247437459)<br><br>2017-11-26 20:50<br>赞(0) 踩(0) | <div>要说甜，周深的更甜，他的处理还是有进步改善的地方</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137185538)<br>最近常听真是假的吧<br>2018-05-01 14:42<br>赞(0) 踩(0) | <div>刺耳应该是耳机的问题</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52680075)<br>喜欢周深的歌了，怎么办<br>2019-03-27 23:15<br>赞(0) 踩(0) | <div>确实</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331041408)<br><br>2019-05-23 11:31<br>赞(0) 踩(0) | <div>出氵乡</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331041408)<br><br>2019-05-23 11:31<br>赞(0) 踩(0) | <div>出<br>氵<br>乡</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4472670)<br><br>2020-07-07 13:22<br>赞(0) 踩(0) | <div>连听20遍，你也是奇葩，听这么久会有审美疲劳</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334154888)<br><br>2020-11-09 03:11<br>赞(0) 踩(0) | <div>为了那个甜得发腻曾经下了本去折腾过，后来还是把铁三角出了，只能听个甜的，周润发都变娘了许多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249854235)<br><br>2016-11-25 23:35<br>赞(0) 踩(0) | <div>好听。 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -393,7 +393,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6868679)<br>……<br>2015-06-10 18:13<br>赞(2) 踩(0) | <div>绝对听不出是男的。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49287335)<br>我们要互相亏欠，要不然凭...<br>2015-04-30 18:12<br>赞(266) 踩(0) | <div>每次听到别人这首歌，我的第一反应就是周深唱的，王菲被我抛脑后了，这也是我长这么大以来第一次这么死心塌地的要做个生米粉，决心要做个脑残粉，自从卡布的出现我懂得知道了不少</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78492774)<br><br>2015-12-05 20:47<br>赞(0) 踩(0) | <div>和你一样呢</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375712092)<br><br>2018-11-21 09:49<br>赞(0) 踩(0) | <div>一定wyvpr、rj1.】 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375712092)<br><br>2018-11-21 09:49<br>赞(0) 踩(0) | <div>一定w<br>yvpr、rj1.】 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33727348)<br>我还没想好要写什么...<br>2015-04-27 07:18<br>赞(2) 踩(0) | <div>让我再看你一遍，从南到北.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15631838)<br>释怀说的太多就成真不了<br>2015-03-31 09:43<br>赞(1) 踩(0) | <div>我们要互相亏欠。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48641259)<br><br>2015-03-29 23:34<br>赞(3) 踩(0) | <div>蛮好听的！……很喜欢周深的声音，你很了不起加油！ <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -443,9 +443,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26123592)<br><br>2014-12-09 17:05<br>赞(0) 踩(0) | <div>比王菲有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26123592)<br><br>2014-12-09 16:58<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44019990)<br>不像葡萄，不像鲜花，不像...<br>2014-12-06 20:07<br>赞(0) 踩(0) | <div>好想，想你也能听到这首歌…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44019990)<br>不像葡萄，不像鲜花，不像...<br>2014-12-06 20:05<br>赞(0) 踩(0) | <div>我喜欢你，可我又是你的什么人呢？花光了自己少年时所有的勇气，你知道我吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44019990)<br>不像葡萄，不像鲜花，不像...<br>2014-12-06 20:05<br>赞(0) 踩(0) | <div>我喜欢你，可我又是你的什么人呢？<br>花光了自己少年时所有的勇气，你知道我吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44019990)<br>不像葡萄，不像鲜花，不像...<br>2014-12-06 20:01<br>赞(0) 踩(0) | <div>最悲哀的莫过于拥有一场刻骨铭心的有缘无份</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44019990)<br>不像葡萄，不像鲜花，不像...<br>2014-12-06 19:59<br>赞(0) 踩(0) | <div>我喜欢丁香花 白的 紫的 都喜欢我喜欢你 是我的 不是我的 都喜欢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44019990)<br>不像葡萄，不像鲜花，不像...<br>2014-12-06 19:59<br>赞(0) 踩(0) | <div>我喜欢丁香花 白的 紫的 都喜欢<br>我喜欢你 是我的 不是我的 都喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44019990)<br>不像葡萄，不像鲜花，不像...<br>2014-12-06 19:57<br>赞(0) 踩(0) | <div>忽然觉的自己没有青春了，老了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44019990)<br>不像葡萄，不像鲜花，不像...<br>2014-12-06 19:56<br>赞(0) 踩(0) | <div>昨天看完电影在想，如果是你来唱这首歌就更好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15794680)<br><br>2014-12-05 22:32<br>赞(0) 踩(0) | <div>再听一遍就回家。</div> |
@@ -484,7 +484,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1890767)<br>自己动手丰衣足食<br>2014-11-19 00:00<br>赞(0) 踩(0) | <div>好听!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42287657)<br>yyb无论哪里，跟着你<br>2014-11-18 23:37<br>赞(0) 踩(0) | <div>你喜欢的那版</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33069387)<br><br>2014-11-18 23:33<br>赞(0) 踩(0) | <div>卡布！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/393983)<br>“这个家伙很机智什么也没...<br>2014-11-18 22:16<br>赞(0) 踩(0) | <div>.   ◟◟◞◞(◔◡◔)╰ ▒▒ ╯╜╙</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/393983)<br>“这个家伙很机智什么也没...<br>2014-11-18 22:16<br>赞(0) 踩(0) | <div>.   ◟◟◞◞<br>(◔◡◔)<br>╰ ▒▒ ╯<br>╜╙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10063670)<br><br>2014-11-18 20:14<br>赞(0) 踩(0) | <div>特别喜欢他的版本，尤其是第一段结束那句“只有等别人兑现”，唱得特别细腻惆怅，让我回到那年夏天，想起那些爱过错过的往事……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17422198)<br><br>2014-11-18 19:25<br>赞(0) 踩(0) | <div>太美了！天籁！！小卡布，爱你！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12141516)<br> <br>2014-11-18 18:39<br>赞(0) 踩(0) | <div>比原版还好听</div> |

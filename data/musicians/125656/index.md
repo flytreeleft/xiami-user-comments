@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b95866de77eae2a2be116107be79ce21.jpg)<br>杨波](https://i.xiami.com/hailinbo) | **播放数**: 2275957<br>**粉丝数**: 320<br>**评论数**: 22<br>**地区**: China 中国大陆<br>**风格**: 现代古典 Modern Classical, 西方古典 Western Classical Music<br> |
+| [![](../../images/musicians/b95866de77eae2a2be116107be79ce21.jpg)<br>杨波](https://i.xiami.com/hailinbo) | **地区**: China 中国大陆<br>**风格**: 现代古典 Modern Classical, 西方古典 Western Classical Music<br>**播放数**: 2275957<br>**粉丝数**: 320<br>**评论数**: 22<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286654883)<br><br>2020-11-01 11:57<br>赞(0) 踩(0) | <div>喜欢你的白色恋人 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png">希望能听到更多好听的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4781945)<br> <br>2020-08-03 00:19<br>赞(0) 踩(0) | <div>能否弹一首 斯卡保罗集市的曲子呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37410580)<br>我的世界，春暖花开，四季...<br>2020-02-27 01:30<br>赞(0) 踩(0) | <div>谢谢你的音乐</div> |

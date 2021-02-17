@@ -54,8 +54,8 @@ Guitar, 键盘：贾轶男
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-22 00:37<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1051020)<br><br>2018-01-08 23:07<br>赞(3) 踩(0) | <div>妈妈，我好想念您，您在天堂还好吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127056618)<br><br>2017-06-18 00:24<br>赞(2) 踩(0) | <div>妈妈的唠叨-现在是我努力的动力</div> |
@@ -85,13 +85,13 @@ Guitar, 键盘：贾轶男
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19346637)<br><br>2014-05-10 06:50<br>赞(1) 踩(0) | <div>岁月请别伤害她</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33564227)<br><br>2014-04-20 19:08<br>赞(1) 踩(0) | <div>委婉动听，抒情流畅！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16036355)<br><br>2014-03-15 23:55<br>赞(0) 踩(0) | <div>母亲：早年离开家，总是思念她；无论在做啥，时常想念家；无时常回去，唯有到歌里。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/630760)<br>感谢11年来的陪伴，我爱...<br>2014-03-12 18:48<br>赞(0) 踩(0) | <div>&amp;quot;每当我从荒芜的梦中惊醒流着眼泪我都能感觉到你我思念的母亲&amp;quot;  你唱的让我眼睛不停出汗。清明又快到了，想妈妈了，，，</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/502229)<br>别看年龄 看了也不明白<br>2014-03-08 17:41<br>赞(0) 踩(0) | <div>每当我在路上停下脚步每当我从荒芜的梦中惊醒我都会感觉到你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/630760)<br>感谢11年来的陪伴，我爱...<br>2014-03-12 18:48<br>赞(0) 踩(0) | <div>&amp;quot;每当我从荒芜的梦中惊醒<br>流着眼泪我都能感觉到你<br>我思念的母亲&amp;quot;  你唱的让我眼睛不停出汗。清明又快到了，想妈妈了，，，</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/502229)<br>别看年龄 看了也不明白<br>2014-03-08 17:41<br>赞(0) 踩(0) | <div>每当我在路上停下脚步<br>每当我从荒芜的梦中惊醒<br>我都会感觉到你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32256340)<br><br>2014-03-04 09:41<br>赞(0) 踩(0) | <div>成长的烦恼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32454108)<br><br>2014-02-07 13:00<br>赞(0) 踩(0) | <div>母亲您多伟大、只有我们当儿女的才体会的到、祝天下的所有母亲健康快乐！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23640028)<br><br>2014-02-05 09:03<br>赞(0) 踩(0) | <div>你是否还在窗前等着我 我思念的母亲噢 默默地 默默地 象一棵挺拔的杨树</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23640028)<br><br>2014-02-05 09:03<br>赞(0) 踩(0) | <div>你是否还在窗前等着我 我思念的母亲<br>噢 默默地 默默地 象一棵挺拔的杨树</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27699442)<br><br>2013-11-15 23:17<br>赞(0) 踩(0) | <div>因为喜欢所以喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25025065)<br>乐之理生之道<br>2013-11-14 23:26<br>赞(0) 踩(0) | <div>每当我在路上停下脚步望着天空我都会感到你每当我从荒芜的梦中惊醒都会想起你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25025065)<br>乐之理生之道<br>2013-11-14 23:26<br>赞(0) 踩(0) | <div>每当我在路上停下脚步<br>望着天空我都会感到你<br>每当我从荒芜的梦中惊醒<br>都会想起你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24357708)<br> <br>2013-11-01 02:56<br>赞(0) 踩(0) | <div>母爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17308010)<br><br>2013-10-19 00:20<br>赞(0) 踩(0) | <div>为什么不早点告诉我?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23871436)<br><br>2013-10-08 20:35<br>赞(0) 踩(0) | <div>你是否还在窗前等着我，我思念的母亲～～～</div> |
@@ -104,14 +104,14 @@ Guitar, 键盘：贾轶男
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7990430)<br><br>2013-05-12 20:13<br>赞(0) 踩(0) | <div>~感恩~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5386306)<br>洋場十裡 華燈淒迷<br>2013-05-12 07:28<br>赞(0) 踩(0) | <div>母亲节，给母亲  。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11640119)<br><br>2013-05-12 01:41<br>赞(0) 踩(0) | <div>お母さま、祝日楽しみました</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:43<br>赞(1) 踩(0) | <div>生命一直是这样充满恐惧和委屈你应该早点告诉我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:43<br>赞(1) 踩(0) | <div>生命一直是这样<br>充满恐惧和委屈<br>你应该早点告诉我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/871681)<br><br>2013-04-17 10:34<br>赞(0) 踩(0) | <div>现在的状况就是这样，并没有安于现状或者混吃等死，想要改变并且也在去做。如果不是这样也许就不是我了，在我身上所发生的一切都是组成我的一部分，所以我是我。妈妈，只有你，不管我什么样都会爱我，不嫌弃我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1230795)<br><br>2013-04-04 16:11<br>赞(0) 踩(0) | <div>致天国的母亲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10042306)<br><br>2013-03-27 06:56<br>赞(0) 踩(0) | <div>一早的思念亲爱的母亲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10042306)<br><br>2013-03-11 09:47<br>赞(0) 踩(0) | <div>思念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116482)<br><br>2013-02-08 21:48<br>赞(1) 踩(0) | <div>尼玛，这第一句的调调分明是《最浪漫的事》……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2870955)<br><br>2012-12-15 00:22<br>赞(0) 踩(0) | <div>写在下雪的北京凌晨，窗上的水珠已经凝结成冰</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3583933)<br><br>2012-11-22 10:56<br>赞(0) 踩(0) | <div>每当我在路上停下脚步望着天空我都会感到你每当我从荒芜的梦中惊醒我都会流着泪 感觉着你我思念的母亲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3583933)<br><br>2012-11-22 10:56<br>赞(0) 踩(0) | <div>每当我在路上停下脚步<br>望着天空我都会感到你<br>每当我从荒芜的梦中惊醒<br>我都会流着泪 感觉着你<br><br>我思念的母亲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2199255)<br><br>2012-10-22 20:46<br>赞(0) 踩(0) | <div>感人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4985483)<br>我还没想好要写什么...<br>2012-10-22 20:30<br>赞(0) 踩(0) | <div>重阳节，思念在天国的母亲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5149686)<br><br>2012-10-07 22:24<br>赞(0) 踩(0) | <div>@我的妈妈</div> |
@@ -136,7 +136,7 @@ Guitar, 键盘：贾轶男
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3810847)<br><br>2011-05-04 21:00<br>赞(0) 踩(0) | <div>快母亲节了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2208331)<br><br>2011-05-02 16:43<br>赞(0) 踩(0) | <div>一个苍凉的声音唱出的母爱，让人如何不流泪！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6696)<br><br>2011-05-02 11:44<br>赞(0) 踩(0) | <div>每次听汪峰的歌都想大哭一场。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/972135)<br> <br>2011-03-27 22:41<br>赞(0) 踩(0) | <div>这是我手机的来电铃声，可见一斑吧！思念母亲，却不只是单单叙说了对母亲的思念，更多的一种在现实社会四处碰壁莫能为力叫天天不应叫地地不灵充满失望迷茫后对母亲的一种痛叙，很沉重，很感伤，很真实！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/972135)<br> <br>2011-03-27 22:41<br>赞(0) 踩(0) | <div>这是我手机的来电铃声，可见一斑吧！<br>思念母亲，却不只是单单叙说了对母亲的思念，更多的一种在现实社会四处碰壁莫能为力叫天天不应叫地地不灵充满失望迷茫后对母亲的一种痛叙，很沉重，很感伤，很真实！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2016563)<br><br>2011-03-18 16:05<br>赞(0) 踩(0) | <div>父亲也去天堂陪伴母亲了，祝你们幸福！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/593470)<br> <br>2011-03-12 10:16<br>赞(0) 踩(0) | <div>母亲，那份舒缓、温暖的母爱！每次夜深人静的时候听到这首歌，总是觉得鼻子酸酸的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1653680)<br><br>2011-02-22 01:00<br>赞(0) 踩(0) | <div>不为别的，只因为母爱就听听了</div> |

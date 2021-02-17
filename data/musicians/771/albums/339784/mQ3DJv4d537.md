@@ -41,7 +41,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268550942)<br><br>2017-10-15 14:33<br>赞(1) 踩(0) | <div>兄弟齐心，齐力断金</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83405838)<br><br>2016-03-17 15:46<br>赞(2) 踩(0) | <div>纪念512在地震中遇难的同胞们</div> |

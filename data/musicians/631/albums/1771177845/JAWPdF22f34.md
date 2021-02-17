@@ -12,12 +12,9 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8549954)<br><br>2013-07-16 14:15<br>赞(0) 踩(0) | <div>well 好有礼貌 的 林峰 XDXDXD “ZHANG一尺嘎。。。= =”</div> |

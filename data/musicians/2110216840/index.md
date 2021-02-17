@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ba891987c4323af4e97702ad7bb9520c.jpg)<br>李小影](https://i.xiami.com/lixiaoying) | **播放数**: 1777062<br>**粉丝数**: 104<br>**评论数**: 4<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 当代民谣 Contemporary Folk<br> |
+| [![](../../images/musicians/ba891987c4323af4e97702ad7bb9520c.jpg)<br>李小影](https://i.xiami.com/lixiaoying) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 当代民谣 Contemporary Folk<br>**播放数**: 1777062<br>**粉丝数**: 104<br>**评论数**: 4<br> |
 
 ## 档案
 
@@ -23,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796166)<br>最爱莫文蔚.....<br>2020-08-09 00:01<br>赞(1) 踩(0) | <div>很不错的，加油呀~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359642634)<br><br>2018-11-15 15:33<br>赞(1) 踩(0) | <div>很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302588159)<br><br>2017-06-07 16:43<br>赞(3) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

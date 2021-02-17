@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/475470a1092426cd69df9b78cbcf07fc.jpg)<br>青稚m](https://i.xiami.com/wenyi2000) | **播放数**: 827310<br>**粉丝数**: 50<br>**评论数**: 4<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/475470a1092426cd69df9b78cbcf07fc.jpg)<br>青稚m](https://i.xiami.com/wenyi2000) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 827310<br>**粉丝数**: 50<br>**评论数**: 4<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -25,8 +22,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366200684)<br><br>2020-06-10 17:58<br>赞(0) 踩(0) | <div>你作的词曲太好了，怎么联系你作曲？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366200684)<br><br>2020-06-10 17:52<br>赞(0) 踩(0) | <div>就像写给我的样</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244083199)<br><br>2020-02-11 09:52<br>赞(0) 踩(0) | <div>忒好听</div> |

@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5d7818c5d7e149d6c875314928d6f406.jpg)<br>迷幻森林](https://i.xiami.com/senlinbaobao) | **播放数**: 2090156<br>**粉丝数**: 311<br>**评论数**: 39<br>**地区**: China 中国大陆<br>**风格**: 合成器流行 Synthpop, 迷幻摇滚 Psychedelic Rock, 梦幻流行 Dream Pop<br> |
+| [![](../../images/musicians/5d7818c5d7e149d6c875314928d6f406.jpg)<br>迷幻森林](https://i.xiami.com/senlinbaobao) | **地区**: China 中国大陆<br>**风格**: 合成器流行 Synthpop, 迷幻摇滚 Psychedelic Rock, 梦幻流行 Dream Pop<br>**播放数**: 2090156<br>**粉丝数**: 311<br>**评论数**: 39<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -26,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44598561)<br><br>2020-05-19 17:58<br>赞(0) 踩(0) | <div>快打旋风，那个节奏感真的是舒服。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38489599)<br> <br>2020-04-12 15:06<br>赞(0) 踩(0) | <div>真是个宝藏男孩 FC的都好喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121702052)<br>超脱<br>2020-04-11 18:44<br>赞(0) 踩(0) | <div>:)</div> |
@@ -61,7 +58,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/62021932)<br><br>2017-09-11 14:21<br>赞(0) 踩(0) | <div>hi我来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4044280)<br>fly loop<br>2017-09-01 01:28<br>赞(0) 踩(0) | <div>我记得以前有魔鬼总动员，现在咋没了，巨好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321773074)<br><br>2017-08-27 00:31<br>赞(0) 踩(0) | <div>以前混音的作品还会上传吗？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5490362)<br><br>2017-08-08 10:53<br>赞(0) 踩(0) | <div>以前每天必听赤影战士...现在没了我要怎么过</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5490362)<br><br>2017-08-08 10:53<br>赞(0) 踩(0) | <div>以前每天必听赤影战士...<br><br>现在没了我要怎么过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240830031)<br> <br>2017-07-20 19:37<br>赞(0) 踩(0) | <div>期待你的作品，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43248619)<br> <br>2017-07-17 18:23<br>赞(0) 踩(0) | <div>大佬， <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">好期待你完美版本的踢王bgm</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99237)<br><br>2017-06-28 18:51<br>赞(0) 踩(0) | <div>网易以前的专辑全没了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |

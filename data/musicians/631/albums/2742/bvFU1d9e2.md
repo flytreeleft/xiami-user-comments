@@ -75,5 +75,3 @@ An only child alone and wild<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

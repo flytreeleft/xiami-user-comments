@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3f5f01c373edce718036c973666e0b32.png)<br>姚老师](https://i.xiami.com/phounius) | **播放数**: 2643708<br>**粉丝数**: 1131<br>**评论数**: 49<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 同人音乐 DouJin, 键盘音乐 Keyboard, 日本动漫游戏 Japanese ACG<br> |
+| [![](../../images/musicians/3f5f01c373edce718036c973666e0b32.png)<br>姚老师](https://i.xiami.com/phounius) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 同人音乐 DouJin, 键盘音乐 Keyboard, 日本动漫游戏 Japanese ACG<br>**播放数**: 2643708<br>**粉丝数**: 1131<br>**评论数**: 49<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -27,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405856882)<br>晨钟暮鼓，安之若素<br>2020-10-23 11:59<br>赞(2) 踩(0) | <div>风居住的街道 钢琴版里你的是最好的 听哭多少次了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229483448)<br> <br>2020-03-07 12:47<br>赞(1) 踩(0) | <div>all that fate有纯钢琴版的吗？我记得以前有来着，怎么虾米上找不到了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411220544)<br><br>2020-03-07 10:34<br>赞(3) 踩(0) | <div>求风居住的街道谱子</div> |
@@ -51,7 +48,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49582465)<br> <br>2017-04-03 20:43<br>赞(1) 踩(0) | <div>姚学长！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49812580)<br>无定向间接性全身机能失调...<br>2017-03-28 19:07<br>赞(1) 踩(0) | <div>作者阿 为什么网易云没有这首歌！感觉要是在网易云 早就火了阿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188174778)<br><br>2016-11-29 19:33<br>赞(0) 踩(0) | <div>加油</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39109295)<br>所爱隔山海，山海不可平。<br>2016-08-19 21:11<br>赞(0) 踩(0) | <div>Demo真的好美。每次听到不管心情怎样都会马上变好。而且总觉得旋律很熟悉总想唱出来呢。谢谢这样的音乐出现，更谢谢创作者</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39109295)<br>所爱隔山海，山海不可平。<br>2016-08-19 21:11<br>赞(0) 踩(0) | <div>Demo真的好美。<br>每次听到不管心情怎样都会马上变好。<br>而且总觉得旋律很熟悉总想唱出来呢。<br>谢谢这样的音乐出现，更谢谢创作者</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115779146)<br>你若盛开  清风自来<br>2016-08-12 12:30<br>赞(0) 踩(0) | <div>钢琴王子！居然能在虾米听到姚学长的曲子真的是又惊喜又感动～毕竟高考结束听了一整个暑假～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13719815)<br><br>2016-07-21 16:40<br>赞(0) 踩(0) | <div>牛逼的钢琴 对动漫歌曲有自己的理解</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116946920)<br> <br>2016-04-23 16:52<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">喜欢</div> |

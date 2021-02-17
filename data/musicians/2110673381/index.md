@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9c99c7749ffc2c0da73d28a9fdc837a7.jpg)<br>周星辰Met.Z](https://i.xiami.com/metzhou) | **播放数**: 3900752<br>**粉丝数**: 74<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/9c99c7749ffc2c0da73d28a9fdc837a7.jpg)<br>周星辰Met.Z](https://i.xiami.com/metzhou) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 3900752<br>**粉丝数**: 74<br>**评论数**: 8<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258959934)<br>旋律第一。。。节奏为王<br>2020-08-22 19:34<br>赞(0) 踩(0) | <div>good。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404366051)<br><br>2020-06-03 07:46<br>赞(2) 踩(0) | <div>爱你，臭弟弟 <img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318311274)<br>人山人海里你不必记得我<br>2020-06-02 18:17<br>赞(1) 踩(0) | <div>好听</div> |

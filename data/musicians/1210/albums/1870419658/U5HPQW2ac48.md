@@ -61,12 +61,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175357192)<br><br>2020-11-19 01:46<br>赞(0) 踩(0) | <div>我接受重新开始</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404500565)<br>我还没想好要写什么...<br>2020-06-30 21:15<br>赞(0) 踩(0) | <div>听歌感觉是渣，看评论觉得不渣了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-06-29 09:05<br>赞(0) 踩(0) | <div>天啦噜岳的情歌真的能虐死我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44800447)<br>今天天气晴<br>2020-05-17 19:58<br>赞(0) 踩(0) | <div>没什么是一蹴而就的，就这样吧。&amp;mdash;&amp;mdash;和你的最后一句话</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-06-29 09:05<br>赞(0) 踩(0) | <div>天啦噜<br>岳的情歌真的能虐死我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44800447)<br>今天天气晴<br>2020-05-17 19:58<br>赞(0) 踩(0) | <div>没什么是一蹴而就的，就这样吧。<br>&amp;mdash;&amp;mdash;和你的最后一句话</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869963)<br>暂无签名~<br>2020-05-14 20:06<br>赞(1) 踩(0) | <div>这么好听的歌，居然第一次听到</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441172669)<br><br>2020-04-15 21:31<br>赞(0) 踩(0) | <div>不得不怀疑，张震岳写这首歌时，正在经历冷战的分手&amp;hellip;&amp;hellip;好贴切的歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5541080)<br>我还没想好要写什么...<br>2019-10-12 23:19<br>赞(1) 踩(0) | <div>天呐太喜欢了！所有歌！！！</div> |
@@ -103,7 +103,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/148457570)<br>天天动听 ！虾米加油。<br>2018-01-28 14:19<br>赞(0) 踩(0) | <div>哎啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32095020)<br>带你看日出 一看看一天半<br>2017-12-25 15:31<br>赞(0) 踩(0) | <div>平平淡淡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259365377)<br>我还没想好要写什么...<br>2017-12-25 09:51<br>赞(0) 踩(0) | <div>不要吵架</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275756110)<br>到底怎么样才可以悄无声息...<br>2017-12-22 13:21<br>赞(3) 踩(0) | <div>他问我还喜欢他吗？喜欢。那条一起走过的林荫道，那些一起数过得的街灯，那个一起看过的太阳，那句一起说过的豪言壮志，无一不在提醒着我们曾经的小美好。那么喜欢的人，怎么说忘就忘，怎么可能呢？只是当我看向手腕上的淤青，看向大理石地面上孤单的玻璃碎片。我告诉他说:我们啊，都还太幼稚了，需要各自成长，那就先这样吧。再见。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275756110)<br>到底怎么样才可以悄无声息...<br>2017-12-22 13:21<br>赞(3) 踩(0) | <div>他问我还喜欢他吗？<br>喜欢。那条一起走过的林荫道，那些一起数过得的街灯，那个一起看过的太阳，那句一起说过的豪言壮志，无一不在提醒着我们曾经的小美好。那么喜欢的人，怎么说忘就忘，怎么可能呢？<br>只是当我看向手腕上的淤青，看向大理石地面上孤单的玻璃碎片。我告诉他说:我们啊，都还太幼稚了，需要各自成长，那就先这样吧。<br>再见。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48127007)<br>双鱼<br>2017-11-30 13:35<br>赞(1) 踩(0) | <div>去他妈的 先这样吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223711857)<br> <br>2017-10-28 00:13<br>赞(3) 踩(0) | <div>我是因为看了台剧《我的自由年代》才关注这首歌 好听 开始爱上张震岳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306398049)<br>喜欢一首歌，感受一个故事...<br>2017-10-12 21:13<br>赞(2) 踩(0) | <div>倦了，只想先这样让时间停停，可是，最终失去了你。</div> |
@@ -235,7 +235,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42388325)<br>没什么可以阻止你看到我的...<br>2015-07-13 00:02<br>赞(0) 踩(0) | <div>loveit</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42388325)<br>没什么可以阻止你看到我的...<br>2015-07-13 00:02<br>赞(0) 踩(0) | <div>loveit</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19770728)<br>暂无签名~<br>2015-07-02 00:33<br>赞(0) 踩(0) | <div>不喜欢冷战，也不怕有人单方面跟我冷战，有谁冷的过我。拜托，自觉离我远点好么ㄟ(▔，▔)ㄏ</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1115247)<br>@Nebula_7293<br>2015-06-27 17:48<br>赞(2) 踩(0) | <div>走到这地步仍有一丝丝不愿意放手妥协和放纵问题没有解决不想再多说 是谁厌倦了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1115247)<br>@Nebula_7293<br>2015-06-27 17:48<br>赞(2) 踩(0) | <div>走到这地步<br>仍有一丝丝<br>不愿意放手<br>妥协和放纵<br>问题没有解决<br>不想再多说 是谁厌倦了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30011643)<br><br>2015-06-25 23:58<br>赞(24) 踩(0) | <div>哈喽~海雅谷慕。第一次听张震岳，是在初二，因为严大叔的缘故。想想也有七八个年头了，严大叔大概已经过上老婆孩子热炕头的生活了。就这么互相遗忘吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87398)<br>藏不住的是你最珍贵的倔强<br>2015-06-15 19:29<br>赞(0) 踩(0) | <div>先这样吧~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11393543)<br>Share Music<br>2015-06-12 20:51<br>赞(0) 踩(0) | <div>在爱情里面，像海角天边这距离，好遥远 触碰不到，最初相识的美。先这样吧</div> |
@@ -256,7 +256,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2322870)<br><br>2014-12-30 23:39<br>赞(1) 踩(0) | <div>请健康</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9985059)<br>一个随便听歌的人<br>2014-12-05 15:23<br>赞(0) 踩(0) | <div>任凭眼泪 在你脸上划过 我头也不回</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428410)<br><br>2014-11-27 10:31<br>赞(0) 踩(0) | <div>好词</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182207)<br> <br>2014-11-15 15:05<br>赞(2) 踩(0) | <div>任凭眼泪 在你脸上划过我头也不回 先这样吧感觉是描写渣男的啊~啊哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182207)<br> <br>2014-11-15 15:05<br>赞(2) 踩(0) | <div>任凭眼泪 在你脸上划过<br>我头也不回 先这样吧<br>感觉是描写渣男的啊~啊哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41547553)<br>灵魂总是要贪 片刻灿烂<br>2014-11-08 22:57<br>赞(1) 踩(0) | <div>我的自由年代插曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39572727)<br>不知道<br>2014-10-25 11:08<br>赞(0) 踩(0) | <div>So Be It……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12690979)<br><br>2014-10-06 04:02<br>赞(0) 踩(0) | <div>先这样吧，睡觉。</div> |
@@ -349,7 +349,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17306475)<br><br>2013-07-15 01:32<br>赞(0) 踩(0) | <div>先这样吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16542285)<br><br>2013-07-14 23:33<br>赞(0) 踩(0) | <div>晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11691935)<br><br>2013-07-13 23:37<br>赞(0) 踩(0) | <div>我头也不回，先这样吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16957136)<br>我想喝草莓牛奶<br>2013-07-13 18:40<br>赞(0) 踩(0) | <div>在爱情里面 像海角天边这距离 好遥远 触碰不到最初相识的美</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16957136)<br>我想喝草莓牛奶<br>2013-07-13 18:40<br>赞(0) 踩(0) | <div>在爱情里面 像海角天边<br>这距离 好遥远 触碰不到<br>最初相识的美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8583145)<br><br>2013-07-13 09:46<br>赞(0) 踩(0) | <div>嘿，，是我，，是我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8684583)<br> <br>2013-07-11 23:59<br>赞(0) 踩(0) | <div>今晚的循环单曲.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/161788)<br>总是在清晨出走<br>2013-07-11 10:50<br>赞(0) 踩(0) | <div>是誰厭倦了 是我 是我</div> |
@@ -376,7 +376,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3408652)<br><br>2013-07-05 10:04<br>赞(0) 踩(0) | <div>人生一定要去场@張震嶽 的海边live show   ~~~我是海雅谷慕 吉他男人好有味。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1528332)<br><br>2013-07-05 01:04<br>赞(0) 踩(0) | <div>先这样吧~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13227077)<br> <br>2013-07-05 00:14<br>赞(0) 踩(0) | <div>始终张震岳</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3687497)<br><br>2013-07-05 00:08<br>赞(0) 踩(0) | <div>“这是一个历经了潮流更迭，产业变迁的阿美族青年，回到出发地的故事；是一个热爱大地的真挚创作者，看待这个支离破碎的社会的眼神；是一个已臻成熟的音乐人，心里最想表达的声音。”张震岳新专辑《我是海雅谷慕》最喜欢的歌曲就是这首啦。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3687497)<br><br>2013-07-05 00:08<br>赞(0) 踩(0) | <div>“这是一个历经了潮流更迭，产业变迁的阿美族青年，回到出发地的故事；<br>是一个热爱大地的真挚创作者，看待这个支离破碎的社会的眼神；<br>是一个已臻成熟的音乐人，心里最想表达的声音。”张震岳新专辑《我是海雅谷慕》最喜欢的歌曲就是这首啦。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6595008)<br><br>2013-07-04 22:15<br>赞(0) 踩(0) | <div>新砖简直太棒~~~~(&amp;gt;_&amp;lt;)~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7811830)<br><br>2013-07-04 16:28<br>赞(0) 踩(0) | <div>今天我的好歌推荐是；张震岳《先这样吧》推荐理由；刚才听了一遍张震岳的这张新专辑觉得不错在专辑里面我最喜欢这一首《先这样吧》阿岳的新专辑品质非常不错值得一听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2702261)<br><br>2013-07-04 09:18<br>赞(0) 踩(0) | <div>我家门前也有大海～～</div> |
@@ -400,7 +400,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6745743)<br><br>2013-06-30 12:11<br>赞(0) 踩(0) | <div>先这样吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9269496)<br>有生之年 欣喜相逢 不负...<br>2013-06-29 22:19<br>赞(0) 踩(0) | <div>五颗星！治愈系专辑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/968215)<br>很久以后，我才真正明白痛...<br>2013-06-29 19:28<br>赞(0) 踩(0) | <div>JUST SAY SO~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2013-06-29 08:51<br>赞(0) 踩(0) | <div>走到这地步,仍有一丝丝,不愿意放手,妥协和放纵....</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2013-06-29 08:51<br>赞(0) 踩(0) | <div>走到这地步,<br>仍有一丝丝,<br>不愿意放手,<br>妥协和放纵....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16529512)<br> <br>2013-06-29 05:11<br>赞(0) 踩(0) | <div>单曲了一晚上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1393326)<br>Still an inn...<br>2013-06-28 23:30<br>赞(0) 踩(0) | <div>先这样吧。明天加班。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5579651)<br>来 一起神游<br>2013-06-28 22:30<br>赞(0) 踩(0) | <div>多无奈   #新专满分#</div> |
@@ -417,7 +417,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12562781)<br>开心点儿<br>2013-06-25 12:12<br>赞(0) 踩(0) | <div>我是 ayue的粉！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3246229)<br>我还没想好要写什么...<br>2013-06-24 23:16<br>赞(0) 踩(0) | <div>晚安~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/671081)<br><br>2013-06-24 22:29<br>赞(0) 踩(0) | <div>触碰不到 最初相识的美.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14413491)<br><br>2013-06-24 00:25<br>赞(0) 踩(0) | <div>[haha][haha][haha][haha][haha][haha][haha]</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14413491)<br><br>2013-06-24 00:25<br>赞(0) 踩(0) | <div>[haha][haha][haha][haha][haha]<br>[haha][haha]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1611584)<br><br>2013-06-23 23:00<br>赞(0) 踩(0) | <div>Ayue</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4715251)<br>愿屁屁在喵星开开心心还有...<br>2013-06-23 14:51<br>赞(0) 踩(0) | <div>这他妈才是阿岳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5527502)<br><br>2013-06-23 09:56<br>赞(0) 踩(0) | <div>很张震岳.....</div> |

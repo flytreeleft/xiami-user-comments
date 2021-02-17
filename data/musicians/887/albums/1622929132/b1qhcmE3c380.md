@@ -93,8 +93,8 @@ Lyrics Contents Copyright Reserved for O.L.W.
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410753497)<br><br>2019-03-30 09:36<br>赞(0) 踩(0) | <div>有国才有家，国富才家余，国强则家财安，我爱你中国。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47075657)<br>我还没想好要写什么...<br>2018-10-11 18:50<br>赞(0) 踩(0) | <div>我爱你祖国！祝你繁荣富强！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123793238)<br><br>2018-10-09 07:14<br>赞(0) 踩(0) | <div>我爱你，中国！ <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -105,7 +105,7 @@ Lyrics Contents Copyright Reserved for O.L.W.
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334451731)<br><br>2018-10-01 17:09<br>赞(1) 踩(0) | <div>2018年10月1日，海外留学生路过，我爱你祖国，我想你了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366333294)<br>既然选择了远方，便只顾风...<br>2018-10-01 10:38<br>赞(4) 踩(0) | <div>2018年10月1日，祝愿我的国越来越好，69周年快乐，为我点赞谢谢！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343937100)<br><br>2018-10-01 10:09<br>赞(1) 踩(0) | <div>生日快乐，伟大的祖国</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333862446)<br><br>2018-10-01 08:28<br>赞(1) 踩(0) | <div>三山五岳、长江黄河我生在这土地祖国生日快乐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333862446)<br><br>2018-10-01 08:28<br>赞(1) 踩(0) | <div>三山五岳、长江黄河<br><br>我生在这土地<br><br>祖国生日快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300475652)<br><br>2018-10-01 08:22<br>赞(0) 踩(0) | <div>祝祖国母亲节日快乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352701354)<br>虾米  再也不见<br>2018-10-01 08:11<br>赞(0) 踩(0) | <div>我爱你中国，爱我现在所拥有的一切，不管前路多坎坷，我一定努力前行，2018国庆节快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331949815)<br>不忘初心、方得始终！<br>2018-10-01 07:57<br>赞(2) 踩(0) | <div>今天是个表白的日子！我的国！我爱你</div> |
@@ -133,7 +133,7 @@ Lyrics Contents Copyright Reserved for O.L.W.
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275184855)<br><br>2018-08-23 22:13<br>赞(0) 踩(0) | <div>说得好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330745888)<br><br>2018-08-17 14:53<br>赞(1) 踩(0) | <div>我从未觉得汪峰唱的不好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276440280)<br>彪悍的人生不需要解释<br>2018-08-14 21:58<br>赞(51) 踩(0) | <div>内容已删除</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276440280)<br>彪悍的人生不需要解释<br>2018-10-01 00:03<br>赞(0) 踩(0) | <div>今天向先辈们致敬！是他们的浴血奋战！换来今天我们的和平生活，不会像同龄叙利亚，伊拉克的年轻人体验国破家亡的感觉，失去亲人的痛苦我们在享受和平生活的同时！先辈们保卫国家的担子已经落在我等后辈肩膀上！！时刻铭记民族复兴，统一中华的使命</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276440280)<br>彪悍的人生不需要解释<br>2018-10-01 00:03<br>赞(0) 踩(0) | <div>今天向先辈们致敬！是他们的浴血奋战！换来今天我们的和平生活，<br>不会像同龄叙利亚，伊拉克的年轻人体验国破家亡的感觉，失去亲人的痛苦<br>我们在享受和平生活的同时！先辈们保卫国家的担子已经落在我等后辈肩膀上！！时刻铭记民族复兴，统一中华的使命</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276440280)<br>彪悍的人生不需要解释<br>2018-12-14 00:07<br>赞(0) 踩(0) | <div>勿忘国耻，勿忘南京大屠杀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337319033)<br><br>2018-08-14 21:27<br>赞(0) 踩(0) | <div>太棒了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46427650)<br><br>2018-08-12 20:52<br>赞(1) 踩(0) | <div>在国外才知祖国好</div> |
@@ -172,7 +172,7 @@ Lyrics Contents Copyright Reserved for O.L.W.
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401597489)<br><br>2018-09-13 07:32<br>赞(0) 踩(0) | <div><q><b>阿乐说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41952275)<br>听音乐，看评论<br>2018-10-01 06:48<br>赞(0) 踩(0) | <div>写得真好 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374537856)<br><br>2018-10-02 02:51<br>赞(0) 踩(0) | <div>说得太好了</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281708824)<br>每一个人都是完美<br>2018-10-02 07:36<br>赞(0) 踩(0) | <div>aaz</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281708824)<br>每一个人都是完美<br>2018-10-02 07:36<br>赞(0) 踩(0) | <div>aa<br><br>z</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281708824)<br>每一个人都是完美<br>2018-10-02 07:38<br>赞(0) 踩(0) | <div>q</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369130756)<br><br>2018-05-19 13:32<br>赞(0) 踩(0) | <div>唱的跟鸟一样渣渣叫</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/167708978)<br><br>2018-06-30 17:57<br>赞(0) 踩(0) | <div>你可以不听</div> |
@@ -189,7 +189,7 @@ Lyrics Contents Copyright Reserved for O.L.W.
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340586724)<br><br>2018-03-16 12:52<br>赞(4) 踩(0) | <div>我的中国心，我爱你中国</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209868337)<br><br>2018-03-14 01:52<br>赞(4) 踩(0) | <div>昨晚作为汪峰的歌迷收藏他的歌曲居然得到了汪峰的回应&amp;hellip;&amp;hellip;非常的感动不枉费我的谢谢⭐️感谢⭐️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353090169)<br><br>2018-03-12 18:48<br>赞(1) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299796696)<br>只要你敢在我身上赌，我拼...<br>2018-03-10 22:45<br>赞(4) 踩(0) | <div>一直都很喜欢汪峰，他的歌都很有力量，很动听 可以说是百听不厌 。一直喜欢你汪峰 <img src="../../../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png">哇哇小</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299796696)<br>只要你敢在我身上赌，我拼...<br>2018-03-10 22:45<br>赞(4) 踩(0) | <div>一直都很喜欢汪峰，他的歌都很有力量，很动听 可以说是百听不厌 。一直喜欢你汪峰 <img src="../../../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"><br>哇哇小</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340526436)<br><br>2018-03-10 22:34<br>赞(1) 踩(0) | <div>我为你流泪，也为你自豪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347305026)<br><br>2018-03-10 19:35<br>赞(1) 踩(0) | <div>大中国</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251773661)<br>我还没想好要写什么...<br>2018-03-10 19:32<br>赞(1) 踩(0) | <div>厉害了我的国&amp;hellip;</div> |
@@ -204,7 +204,7 @@ Lyrics Contents Copyright Reserved for O.L.W.
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310617528)<br><br>2018-07-02 13:05<br>赞(0) 踩(0) | <div>就你皮 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351146252)<br><br>2018-07-03 23:25<br>赞(0) 踩(0) | <div>9</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338126027)<br><br>2018-08-04 19:01<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204027496)<br><br>2018-09-10 20:21<br>赞(0) 踩(0) | <div>莞工二营10连来这里啦！杨振宁校长！莞工二营10连来这里啦！汪峰！莞工二营10连来这里啦！我爱你中国！</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204027496)<br><br>2018-09-10 20:21<br>赞(0) 踩(0) | <div>莞工二营10连来这里啦！杨振宁校长！<br>莞工二营10连来这里啦！汪峰！<br>莞工二营10连来这里啦！我爱你中国！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/167708978)<br><br>2018-10-01 09:21<br>赞(0) 踩(0) | <div>在这首歌下边说这个，你是个孤儿么？！傻逼</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376817652)<br><br>2019-04-13 11:39<br>赞(0) 踩(0) | <div>真心觉得汪峰了不起，作曲作词天才。灵感源于他的生活，歌词总能触碰你内心深处。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322014582)<br><br>2018-03-10 14:06<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/6dcade93a9728bd629c90733016bc0e8.png"> <img src="../../../../images/comments/6dcade93a9728bd629c90733016bc0e8.png"> <img src="../../../../images/comments/6dcade93a9728bd629c90733016bc0e8.png"> <img src="../../../../images/comments/6dcade93a9728bd629c90733016bc0e8.png"></div> |

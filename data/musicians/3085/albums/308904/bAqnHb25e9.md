@@ -12,15 +12,12 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18713249)<br>我今天特別忙<br>2020-02-07 22:24<br>赞(3) 踩(0) | <div>《坚定的信念》痛仰乐队一开始便在思考的人不会被现在所击倒因为困难是暂时的我们终将翻越这里并以战士的名义</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18713249)<br>我今天特別忙<br>2020-02-07 22:24<br>赞(3) 踩(0) | <div>《坚定的信念》<br>痛仰乐队<br><br>一开始便在思考的人<br>不会被现在所击倒<br>因为困难是暂时的<br>我们终将翻越这里<br>并以战士的名义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44193654)<br>我还没想好要写什么...<br>2019-10-13 13:35<br>赞(2) 踩(0) | <div>❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423958940)<br><br>2019-08-17 11:37<br>赞(1) 踩(0) | <div>听他们歌这么久了，才发现一直把他们的名称看错成仰痛了…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48372937)<br><br>2019-08-01 17:04<br>赞(2) 踩(0) | <div>战车，哈哈，绝对抄的战车</div> |
@@ -32,7 +29,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201183364)<br>Henry琴弦拉勾勾<br>2018-12-24 10:18<br>赞(1) 踩(0) | <div>哇</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9307934)<br>时间从来不语 却回答了所...<br>2018-11-02 16:38<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349838976)<br><br>2018-04-30 14:19<br>赞(2) 踩(0) | <div>不顾一切，往前就对了，余晖会予你想要的的礼赞</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346562178)<br>人间有许多悲伤，我承担的...<br>2018-04-25 20:29<br>赞(2) 踩(0) | <div>每次一堆雄心壮志每次一堆想法计划每次下定决心要怎样怎样最后也没有怎样怎样很难受人在欲望面前  真的是渺小成功的人始终还是那些能打败欲望克制住躁动耐得住寂寞的人啊你们不怕失败不怕努力白费吗还是说，不顾一切往前走干实事就行了对吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346562178)<br>人间有许多悲伤，我承担的...<br>2018-04-25 20:29<br>赞(2) 踩(0) | <div>每次一堆雄心壮志<br>每次一堆想法计划<br>每次下定决心要怎样怎样<br>最后也没有怎样怎样<br>很难受<br>人在欲望面前  真的是渺小<br>成功的人<br>始终还是那些能打败欲望克制住躁动耐得住寂寞的人啊<br>你们不怕失败不怕努力白费吗<br>还是说，不顾一切往前走干实事就行了对吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90386566)<br>老头儿 和她 <br>2018-03-21 23:26<br>赞(2) 踩(0) | <div>加油，我给自己打气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31070115)<br>我还没想好要写什么...<br>2018-03-21 10:50<br>赞(1) 踩(0) | <div>第一个音符出来心里就已经五味杂陈了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39293908)<br> <br>2018-03-14 21:53<br>赞(1) 踩(0) | <div>not the same people，ha？</div> |
@@ -45,7 +42,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92672624)<br><br>2017-08-31 16:56<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11699776)<br>这个世界好安静……<br>2017-06-29 19:31<br>赞(0) 踩(0) | <div>龟缩在属于我的空间里，安全感十足&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36897148)<br>再见<br>2017-06-12 17:12<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48045689)<br><br>2017-04-11 23:06<br>赞(1) 踩(0) | <div>有些未知的路走起来是可怕，但那也得走啊。隐秘的，潜藏的，就只好去探索吧。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48045689)<br><br>2017-04-11 23:06<br>赞(1) 踩(0) | <div>有些未知的路走起来是可怕，但那也得走啊。<br>隐秘的，潜藏的，就只好去探索吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74916020)<br>最後只好躺下来.<br>2017-02-12 00:57<br>赞(0) 踩(0) | <div>[直升机]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120177910)<br> <br>2017-02-07 11:02<br>赞(0) 踩(0) | <div>有毒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120177910)<br> <br>2017-02-07 11:01<br>赞(0) 踩(0) | <div>有毒</div> |
@@ -87,7 +84,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32093078)<br><br>2015-04-15 11:15<br>赞(1) 踩(0) | <div>什么爱啊 恨啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10233667)<br>胖鸟音乐厂牌<br>2015-04-02 10:11<br>赞(0) 踩(0) | <div>恩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41190761)<br>暂无签名~<br>2015-02-18 12:18<br>赞(1) 踩(0) | <div>刘晨东刘晨东刘晨东</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2014-12-13 00:25<br>赞(48) 踩(0) | <div>旋律像是高虎带着帽子 单肩背着背包融入城市人流车流渐走远的背影有迷惘但是还是咬着牙坚持的握紧着 那信仰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2014-12-13 00:25<br>赞(48) 踩(0) | <div>旋律像是高虎带着帽子 单肩背着背包融入城市人流车流渐走远的背影<br>有迷惘但是还是咬着牙坚持的握紧着 那信仰</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42818336)<br> <br>2015-12-27 11:17<br>赞(0) 踩(0) | <div>好喜欢你描述的画面。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2015-12-27 17:31<br>赞(0) 踩(0) | <div><q><b>yiton说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23268456)<br>今夕何夕，<br>2014-12-11 13:33<br>赞(0) 踩(0) | <div>为什么这么贴心…你的每个角落都是避风港。</div> |
@@ -106,7 +103,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18890925)<br><br>2013-09-25 18:35<br>赞(0) 踩(0) | <div>慢慢来，慢慢来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20046043)<br><br>2013-09-23 09:54<br>赞(1) 踩(0) | <div>老实说痛仰这首歌我还是挺喜欢的。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18428935)<br><br>2013-09-13 07:09<br>赞(0) 踩(0) | <div>instrumental song have a try</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3886489)<br><br>2013-08-20 18:54<br>赞(0) 踩(0) | <div><a href="http://item.taobao.com/item.htm?spm=a1z10.1.w4024-2492696117.1.QaTYc5&amp;amp;id=18984137176&amp;amp;scene=taobao_shop" target="_blank" rel="nofollow noreferrer noopener">http://item.taobao.com/item.htm?spm=a1z10.1.w4024-2492696117.1.QaTYc5&amp;amp;id=18984137176&amp;amp;scene=taobao_shop</a>设计师原创痛仰T恤！希望大家给力支持小众原创摇滚设计！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3886489)<br><br>2013-08-20 18:54<br>赞(0) 踩(0) | <div><a href="http://item.taobao.com/item.htm?spm=a1z10.1.w4024-2492696117.1.QaTYc5&amp;amp;id=18984137176&amp;amp;scene=taobao_shop" target="_blank" rel="nofollow noreferrer noopener">http://item.taobao.com/item.htm?spm=a1z10.1.w4024-2492696117.1.QaTYc5&amp;amp;id=18984137176&amp;amp;scene=taobao_shop</a><br>设计师原创痛仰T恤！希望大家给力支持小众原创摇滚设计！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16697266)<br><br>2013-07-28 09:13<br>赞(0) 踩(0) | <div>就像是盛夏深夜的呼吸，一切都归于如此安静的雨季。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8588689)<br>我还没想好要写什么...<br>2013-06-22 12:18<br>赞(0) 踩(0) | <div>#请每日一摇滚#是不是你对摇滚的第一&amp;amp;唯一印象就是“吵”？都不屑于感受创作者的思想感情？对那些伤春悲秋爱来恨去软绵绵又肤浅的音乐还乐此不疲？是的摇滚总会是热闹的，当初我都老嫌爸爸播的歌是噪音。但他的坚持让我愿意转变态度，去感受，然后跟随他的脚步。送上一首纯音乐——痛仰《坚定的信念》</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6171336)<br>谢谢9年陪伴，你依然是我...<br>2013-12-13 01:30<br>赞(0) 踩(0) | <div>你爸真潮</div> |
@@ -147,7 +144,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5853050)<br><br>2011-09-21 02:05<br>赞(2) 踩(0) | <div>我只是觉得这样“坚定的信念─痛苦的信仰”这样的组合很搞笑，而已，阿哈哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4457035)<br><br>2011-09-11 13:18<br>赞(0) 踩(0) | <div>不要毁灭，也无需重生。若我们的生命如水，请坚强的流淌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217217)<br>行色匆匆<br>2011-09-07 10:41<br>赞(0) 踩(0) | <div>额啊额啊 LB</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4731666)<br>我单身，请认识我一下吧<br>2011-08-29 18:52<br>赞(0) 踩(0) | <div>他们是勇敢的一群人···即使面对那么残酷的现实就像向阳花那样说的一样？当你在黑暗中 会不会再继续开花？害不害怕？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4731666)<br>我单身，请认识我一下吧<br>2011-08-29 18:52<br>赞(0) 踩(0) | <div>他们是勇敢的一群人···<br>即使面对那么残酷的现实<br>就像向阳花那样说的一样？<br>当你在黑暗中 会不会再继续开花？<br>害不害怕？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4747178)<br><br>2011-08-24 15:48<br>赞(0) 踩(0) | <div>坚定地信念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4370339)<br>喜欢就摇，不喜欢就滚<br>2011-08-12 17:55<br>赞(0) 踩(0) | <div>去了日照迷笛,可惜没看到他们就走了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/941274)<br>吃货拯救世界<br>2011-08-12 11:13<br>赞(0) 踩(0) | <div>有时候，音乐很简单其实……</div> |
@@ -167,7 +164,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1807400)<br>我的阁楼<br>2011-01-13 22:13<br>赞(1) 踩(0) | <div>为什么分享？理由就是好听就这么简单</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1597133)<br><br>2010-12-29 13:06<br>赞(0) 踩(0) | <div>不，要，相信！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1428049)<br><br>2010-09-02 00:49<br>赞(0) 踩(0) | <div>记号</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298372)<br><br>2009-12-12 11:04<br>赞(0) 踩(0) | <div>单反让我知道的你们和痛苦一样信仰的我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298372)<br><br>2009-12-12 11:04<br>赞(0) 踩(0) | <div>单反让我知道的你们<br>和痛苦一样信仰的我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4804)<br>签~啊名~啊~签了个名<br>2009-10-01 12:16<br>赞(0) 踩(0) | <div>有味道的旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4804)<br>签~啊名~啊~签了个名<br>2009-10-01 12:16<br>赞(0) 踩(0) | <div>对比液氧的intro，熟悉的旋律，不同的味道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308023)<br>荒野大嫖客<br>2009-09-23 20:26<br>赞(0) 踩(0) | <div>最美丽的</div> |

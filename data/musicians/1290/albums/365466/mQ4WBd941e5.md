@@ -12,17 +12,14 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313421425)<br>筚路蓝缕，以启山林<br>2017-08-18 14:26<br>赞(0) 踩(0) | <div>艾未未</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35492349)<br>平凡又没见过世面<br>2014-10-31 13:31<br>赞(0) 踩(0) | <div>我没有别的事儿了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10976373)<br><br>2013-09-25 16:50<br>赞(0) 踩(0) | <div>&amp;quot;我会爱她一生我没有别的事儿了当你需要的时候，它就来了当你需要的时候，它就来了&amp;quot;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10976373)<br><br>2013-09-25 16:50<br>赞(0) 踩(0) | <div>&amp;quot;我会爱她一生<br>我没有别的事儿了<br>当你需要的时候，它就来了<br>当你需要的时候，它就来了&amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5003217)<br><br>2012-07-26 00:06<br>赞(0) 踩(0) | <div>左小诅咒！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6575343)<br><br>2011-11-21 22:58<br>赞(0) 踩(0) | <div>牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6872213)<br><br>2011-11-20 09:59<br>赞(0) 踩(0) | <div>在公共场合听左小祖咒需要相当的勇气.要随时准备被人扔果皮纸屑甚至臭袜子.这个几乎没有找准过调门的男人喉咙里发出来的声音.是史上已知的最具挑战性的音乐.</div> |

@@ -3,7 +3,7 @@ Supper Moment
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d04fa6d1b1a38d7c2f3018fd573087d1.jpg)<br>Supper Moment](https://i.xiami.com/suppermoment) | **播放数**: 10848129<br>**粉丝数**: 8728<br>**评论数**: 271<br>**地区**: Hong Kong, PRC 中国香港<br>**风格**: 流行摇滚 Pop Rock<br> |
+| [![](../../images/musicians/d04fa6d1b1a38d7c2f3018fd573087d1.jpg)<br>Supper Moment](https://i.xiami.com/suppermoment) | **地区**: Hong Kong, PRC 中国香港<br>**风格**: 流行摇滚 Pop Rock<br>**播放数**: 10848129<br>**粉丝数**: 8728<br>**评论数**: 271<br> |
 
 ## 档案
 
@@ -69,25 +69,25 @@ Supper Moment  近年先后参与不同歌手如郑秀文、杨千嬅等天后�
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39160915)<br>怀着乐观总有转机<br>2020-11-24 21:40<br>赞(0) 踩(0) | <div>跪求新歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/933157)<br>泥豪啊同志！<br>2020-09-02 00:18<br>赞(1) 踩(0) | <div>已</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-07-17 22:11<br>赞(0) 踩(0) | <div>干巴爹</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-05-01 15:59<br>赞(0) 踩(0) | <div><img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7014158)<br><br>2020-02-20 01:33<br>赞(0) 踩(0) | <div>supper moment真的很棒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218542478)<br><br>2020-02-07 21:24<br>赞(0) 踩(0) | <div>顺尼高音，阿鸡中音，祖光低音，阿达合音。supper moment，苏泊尔莫汶特。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218542478)<br><br>2020-02-07 21:24<br>赞(0) 踩(0) | <div>顺尼高音，阿鸡中音，祖光低音，阿达合音。<br>supper moment，苏泊尔莫汶特。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7676740)<br>没关系。<br>2019-12-24 00:52<br>赞(3) 踩(0) | <div>新公告新专辑 - 湿鸠毛文  <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54471584)<br><br>2020-03-13 15:33<br>赞(0) 踩(0) | <div>点解你可以甘优秀的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7676740)<br>没关系。<br>2020-03-13 20:13<br>赞(0) 踩(0) | <div><q><b>D.N-Hunter.说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326454264)<br><br>2019-12-06 00:56<br>赞(0) 踩(0) | <div>看不到主页</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267110104)<br>掌心因此多出一根刺，没有...<br>2019-08-05 23:17<br>赞(0) 踩(0) | <div>超惊喜！今天上新这么多，慢慢听慢慢品，要加油呀！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49637572)<br>看到我写的评论@下我 我...<br>2019-06-16 23:09<br>赞(1) 踩(0) | <div>佛山站还有半个月 激动 小声说不要那么多首国语</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237272616)<br>我还没想好要写什么...<br>2019-06-27 00:19<br>赞(0) 踩(0) | <div>盲猜有 一样不一样国语版没所谓，照high 哈哈哈哈哈哈</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237272616)<br>我还没想好要写什么...<br>2019-06-27 00:19<br>赞(0) 踩(0) | <div>盲猜有 一样不一样国语版<br>没所谓，照high 哈哈哈哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2513089)<br>don't treat ...<br>2019-07-09 23:28<br>赞(0) 踩(0) | <div><q><b>周不时.说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3425353)<br><br>2019-06-08 23:37<br>赞(0) 踩(0) | <div>棒！ 有点像年轻时候的beyond 好好干 不错的！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250950037)<br>踏上这无尽旅途<br>2019-05-02 15:20<br>赞(0) 踩(0) | <div>歌都好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8101492)<br>落日秋山孤柏，寒夜路冷风...<br>2019-03-19 10:11<br>赞(2) 踩(0) | <div>不像独立音乐，标准的香港流行曲风。我话讲完，边个赞成？边个反对？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8101492)<br>落日秋山孤柏，寒夜路冷风...<br>2019-03-19 10:11<br>赞(2) 踩(0) | <div>不像独立音乐，标准的香港流行曲风。<br>我话讲完，边个赞成？边个反对？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243327035)<br><br>2019-06-04 00:39<br>赞(0) 踩(0) | <div>净係听红嘅几首就梗係流行风喇 又唔听晒专辑有punk有metal 同埋人地本身就无话自己几独立 一直都係流行摇滚 係去流行乐坛颁奖典礼摞最受欢迎乐队奖嘅band</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5781632)<br><br>2019-06-08 03:34<br>赞(0) 踩(0) | <div>我反对！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6726118)<br>halo<br>2019-10-15 19:21<br>赞(0) 踩(0) | <div><q><b>Rebecca_YYi说：</b></q></div> |
@@ -104,7 +104,7 @@ Supper Moment  近年先后参与不同歌手如郑秀文、杨千嬅等天后�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47494497)<br>李志、陈升，“虾米也没有...<br>2018-11-21 23:43<br>赞(0) 踩(0) | <div>get</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9582561)<br>静静听歌<br>2018-11-17 14:59<br>赞(0) 踩(0) | <div>遇到好的音乐人，我只想自己一人静静欣赏，才不分享给别人，就是这么自私 <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293142259)<br>若我還是不回來 就把我靈...<br>2018-11-05 03:44<br>赞(1) 踩(0) | <div>你們終於上到紅館喇</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5884394)<br>rizar<br>2018-11-03 06:59<br>赞(1) 踩(0) | <div>尾場演唱會。我等左10年啦。成軍10年的時候買不到票。今次，我可入場做個濕扒人～哭</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5884394)<br>rizar<br>2018-11-03 06:59<br>赞(1) 踩(0) | <div>尾場演唱會。我等左10年啦。<br>成軍10年的時候買不到票。今次，我可入場做個濕扒人～<br>哭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9582561)<br>静静听歌<br>2018-10-31 21:38<br>赞(1) 踩(0) | <div>经常到这里来给自己充电，充充正能量 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4228451)<br>886<br>2018-10-30 17:23<br>赞(0) 踩(0) | <div>To whom仲未有？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118122530)<br>我还没想好要写什么...<br>2018-10-01 21:13<br>赞(0) 踩(0) | <div>看烟花来打卡</div> |
@@ -121,7 +121,7 @@ Supper Moment  近年先后参与不同歌手如郑秀文、杨千嬅等天后�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3961242)<br>◔౪◔<br>2018-03-19 23:38<br>赞(0) 踩(0) | <div>+u!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18330272)<br>。<br>2018-02-22 00:18<br>赞(0) 踩(0) | <div><a href="http://imgcache.wechat.com/music/joox/photo_hk/mid_singer_1000/9/0/f949b1fcb8d02cc7175bd0ec7fcd6e90.jpg" target="_blank" rel="nofollow noreferrer noopener">http://imgcache.wechat.com/music/joox/photo_hk/mid_singer_1000/9/0/f949b1fcb8d02cc7175bd0ec7fcd6e90.jpg</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255562871)<br><br>2018-02-21 21:30<br>赞(0) 踩(0) | <div>like</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46583488)<br><br>2018-02-12 21:01<br>赞(0) 踩(0) | <div><a href="https://www.kkbox.com/sg/en/album/hO91btGkGmoTn0F1u0n6009H-index.html" target="_blank" rel="nofollow noreferrer noopener">https://www.kkbox.com/sg/en/album/hO91btGkGmoTn0F1u0n6009H-index.html</a>2018/Feb/【不要死在崇拜裡】</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46583488)<br><br>2018-02-12 21:01<br>赞(0) 踩(0) | <div><a href="https://www.kkbox.com/sg/en/album/hO91btGkGmoTn0F1u0n6009H-index.html" target="_blank" rel="nofollow noreferrer noopener">https://www.kkbox.com/sg/en/album/hO91btGkGmoTn0F1u0n6009H-index.html</a><br>2018/Feb/【不要死在崇拜裡】</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1411759)<br>你为什么一脸严肃<br>2018-01-28 10:19<br>赞(0) 踩(0) | <div>今晚见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261332301)<br>我还没想好要写什么...<br>2018-01-14 22:42<br>赞(2) 踩(0) | <div>叱咤三十年打卡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282084907)<br><br>2018-01-03 19:58<br>赞(0) 踩(0) | <div>加油</div> |
@@ -245,7 +245,7 @@ Supper Moment  近年先后参与不同歌手如郑秀文、杨千嬅等天后�
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5085424)<br>暂无签名~<br>2015-02-08 12:40<br>赞(0) 踩(0) | <div>他們有去珠海？怎麼都沒有宣傳..無語了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16255463)<br>@Revolution9...<br>2015-02-08 13:01<br>赞(0) 踩(0) | <div><q><b>桃桃桃桃*说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40952399)<br>人生苦短，何不一试<br>2015-01-06 23:26<br>赞(0) 踩(0) | <div>新大陆</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:23<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:23<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2289560)<br><br>2014-12-21 00:05<br>赞(0) 踩(0) | <div>無盡真的太好聽了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16255463)<br>@Revolution9...<br>2014-12-02 23:17<br>赞(0) 踩(0) | <div>广州！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/766276)<br>我还没想好要写什么...<br>2014-12-01 22:25<br>赞(0) 踩(0) | <div>看了两次你们的live，不知道为什么这么喜欢~真是着了魔_(:зゝ∠)_</div> |
@@ -263,7 +263,7 @@ Supper Moment  近年先后参与不同歌手如郑秀文、杨千嬅等天后�
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31056665)<br> <br>2014-11-28 17:03<br>赞(0) 踩(0) | <div><q><b>Julin_Dai说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38901302)<br><br>2014-09-30 01:10<br>赞(0) 踩(0) | <div>大爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1572606)<br><br>2014-09-26 17:36<br>赞(0) 踩(0) | <div>唔错啊！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/947031)<br><br>2014-09-26 15:31<br>赞(0) 踩(0) | <div>这种乐队有什么可推荐的，是想说香港又多了个low逼乐队？不是我对香港有偏见，是香港的乐队水平普遍都太低。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/947031)<br><br>2014-09-26 15:31<br>赞(0) 踩(0) | <div>这种乐队有什么可推荐的，是想说香港又多了个low逼乐队？<br>不是我对香港有偏见，是香港的乐队水平普遍都太低。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14065)<br>人生并不甜~<br>2014-09-26 21:13<br>赞(0) 踩(0) | <div>False Alarm这支还不错</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7384402)<br><br>2014-10-25 13:16<br>赞(0) 踩(0) | <div>个人觉得这支band不是很特别但也不算low逼. 无论词还是曲还是能触到很多人的point.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12992878)<br>((　ﾟдﾟ))<br>2014-12-02 13:06<br>赞(0) 踩(0) | <div><q><b>鱼肠-珺说：</b></q></div> |
@@ -326,14 +326,14 @@ Supper Moment  近年先后参与不同歌手如郑秀文、杨千嬅等天后�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289403)<br><br>2012-02-14 16:59<br>赞(0) 踩(0) | <div>时光</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7088261)<br><br>2012-01-28 22:58<br>赞(0) 踩(0) | <div>❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4076389)<br><br>2012-01-06 04:43<br>赞(0) 踩(0) | <div>HK</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6798936)<br><br>2012-01-01 18:33<br>赞(0) 踩(0) | <div>Supper Moment 既歌開始聽就停吾到想停都停吾到,,何況吾想停 :D</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6798936)<br><br>2012-01-01 18:33<br>赞(0) 踩(0) | <div>Supper Moment 既歌開始聽就停吾到<br>想停都停吾到,,何況吾想停 :D</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7067167)<br><br>2011-12-02 20:23<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3280075)<br><br>2011-10-30 14:09<br>赞(0) 踩(0) | <div>一支非常唔错嘅Past Time独立乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5447002)<br><br>2011-10-04 19:45<br>赞(0) 踩(0) | <div>洗滌人心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3917356)<br>rainny<br>2011-09-24 12:54<br>赞(0) 踩(0) | <div>SUPPER MOMENT!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3141245)<br><br>2011-09-20 17:23<br>赞(0) 踩(0) | <div>乐队</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235916)<br><br>2011-08-29 13:27<br>赞(0) 踩(0) | <div>Supper Moment 广州音乐会 演出调查！活动详情：<a href="http://www.douban.com/event/14493890/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/14493890/</a>有兴趣的朋友麻烦登陆豆瓣点击参加！更多消息可关注微博：@粤血青年YouthCanton @Cather1ne凱瑟琳 @后青年木瓜 @后青年神不能法式湿吻</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5067571)<br>明<br>2011-08-27 13:07<br>赞(0) 踩(0) | <div>呢班後生仔D歌正面~吾錯加油阿~Supper Moment</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235916)<br><br>2011-08-29 13:27<br>赞(0) 踩(0) | <div>Supper Moment 广州音乐会 演出调查！<br>活动详情：<a href="http://www.douban.com/event/14493890/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/14493890/</a><br>有兴趣的朋友麻烦登陆豆瓣点击参加！<br>更多消息可关注微博：@粤血青年YouthCanton @Cather1ne凱瑟琳 @后青年木瓜 @后青年神不能法式湿吻</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5067571)<br>明<br>2011-08-27 13:07<br>赞(0) 踩(0) | <div>呢班後生仔D歌正面~吾錯<br>加油阿~Supper Moment</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2143971)<br><br>2011-08-26 15:41<br>赞(0) 踩(0) | <div>歌詞很有意思</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/746612)<br><br>2011-08-23 01:14<br>赞(0) 踩(0) | <div>系tonick相关乐队个度发现左衣只band，都唔错阿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2923007)<br><br>2011-08-13 21:31<br>赞(0) 踩(0) | <div>有沒有新碟&amp;lt;再次心跳&amp;gt; 啊??? 身在海外啊..........</div> |

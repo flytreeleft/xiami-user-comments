@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2020-05-02 02:19<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334904606)<br><br>2020-04-01 22:12<br>赞(0) 踩(0) | <div>找了二胡的曲，就大师的可以做到没有二胡给人的传统悲凉，悲呛，悲伤的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350946143)<br>愿你走出半生，归来仍是少...<br>2020-04-01 20:57<br>赞(0) 踩(0) | <div>（土吗）也就我们自己谦虚，在外国人眼里，这就是世界名曲</div> |
@@ -44,7 +41,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379831952)<br><br>2018-09-05 19:22<br>赞(0) 踩(0) | <div>❤☔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305991522)<br><br>2018-08-30 12:39<br>赞(0) 踩(0) | <div>悠扬悦耳。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229048563)<br>...我是凳桌<br>2018-08-27 16:28<br>赞(3) 踩(0) | <div>好欢乐的节奏，听着就好心情 <img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287017)<br>姌稥毓影，复刻轻悠<br>2018-08-26 13:31<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png">重温经典&amp;hellip;&amp;hellip;芳韵懋实&amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287017)<br>姌稥毓影，复刻轻悠<br>2018-08-26 13:31<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"><br>重温经典&amp;hellip;&amp;hellip;芳韵懋实&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17767792)<br>我还没想好要写什么...<br>2018-08-25 17:17<br>赞(1) 踩(0) | <div>贾老师的技术是为了音乐服务！音乐，表达情感永远是第一位的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17767792)<br>我还没想好要写什么...<br>2018-08-25 17:15<br>赞(1) 踩(0) | <div>不喜欢那些高高在上强调炫技的所谓大师，他们的音乐很做作，根本感动不了人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9906124)<br>李晓涛<br>2018-08-21 23:35<br>赞(0) 踩(0) | <div>好听！</div> |
@@ -54,7 +51,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358076734)<br>强大自己<br>2018-08-03 14:21<br>赞(0) 踩(0) | <div>非常喜爱中国传统音乐！感谢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9909838)<br>签名什么的也不能浪费不是<br>2018-08-01 00:37<br>赞(3) 踩(0) | <div>中间是不是有吉他？吉他弹茉莉花感觉好棒啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380233209)<br><br>2018-07-31 13:50<br>赞(3) 踩(0) | <div>曲声优美</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379948883)<br><br>2018-07-29 16:40<br>赞(3) 踩(0) | <div>开头二胡给别人的感觉就是如泣如诉，仿佛久远的悠思。几次重复茉莉花，方便下面起高，与之前对比，给人与众不同的感觉。希望有更多的人关心传统音乐，使其发展！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379948883)<br><br>2018-07-29 16:40<br>赞(3) 踩(0) | <div>开头二胡给别人的感觉就是如泣如诉，仿佛久远的悠思。几次重复茉莉花，方便下面起高，与之前对比，给人与众不同的感觉。<br>希望有更多的人关心传统音乐，使其发展！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296791506)<br><br>2018-07-29 07:12<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332300664)<br><br>2018-07-26 09:33<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379513727)<br><br>2018-07-24 04:26<br>赞(1) 踩(0) | <div>好听 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -88,7 +85,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275472846)<br><br>2018-06-16 15:26<br>赞(0) 踩(0) | <div>这二胡拉出了苿莉花开的立体感，浓浓的江南味。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17491513)<br>我还没想好要写什么...<br>2018-06-14 17:52<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375559223)<br><br>2018-06-13 20:51<br>赞(0) 踩(0) | <div>从小就喜欢这音乐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287017)<br>姌稥毓影，复刻轻悠<br>2018-06-13 12:25<br>赞(10) 踩(0) | <div>素馨盈滟织锦帛蜡脂凝芯吐芳醇捻瓣郁香留芷肌夜阑袭香依妆偎花纤树语东风话繁璃韵景赋颜洁<img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287017)<br>姌稥毓影，复刻轻悠<br>2018-06-13 12:25<br>赞(10) 踩(0) | <div>素馨盈滟织锦帛<br>蜡脂凝芯吐芳醇<br><br>捻瓣郁香留芷肌<br>夜阑袭香依妆偎<br><br>花纤树语东风话<br>繁璃韵景赋颜洁<br><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40218739)<br><br>2018-06-12 23:57<br>赞(1) 踩(0) | <div>中国名曲，世界传播。版本很多，最好听的还是这个版本的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375469656)<br>一个人的天荒地老<br>2018-06-12 20:48<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355030328)<br><br>2018-06-12 20:30<br>赞(0) 踩(0) | <div>二胡演奏很好听！</div> |
@@ -239,4 +236,4 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128905038)<br>叶子叶子叶子叶子叶子叶子...<br>2018-05-28 01:22<br>赞(1) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11128904)<br><br>2018-05-28 00:24<br>赞(2) 踩(0) | <div>第一时间过来收藏了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24207186)<br>我还没想好要写什么...<br>2018-05-28 00:09<br>赞(1) 踩(0) | <div>美</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3932008)<br>Two sunsets<br>2018-05-28 00:03<br>赞(1) 踩(0) | <div>清风拂面~编曲加分</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3932008)<br>Two sunsets<br>2018-05-28 00:03<br>赞(1) 踩(0) | <div>清风拂面~<br><br>编曲加分</div> |

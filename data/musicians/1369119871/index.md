@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/bcd253b0ef8cbdb5d68598ef95ec0869.jpg)<br>陈一玲](https://i.xiami.com/chengyiling) | **播放数**: 2581510<br>**粉丝数**: 332<br>**评论数**: 24<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/bcd253b0ef8cbdb5d68598ef95ec0869.jpg)<br>陈一玲](https://i.xiami.com/chengyiling) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 国语流行 Mandarin Pop<br>**播放数**: 2581510<br>**粉丝数**: 332<br>**评论数**: 24<br> |
 
 ## 档案
 
@@ -32,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3583995)<br>一個人的戰爭<br>2018-05-29 11:06<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291138169)<br>童可可太作，两个字：讨厌...<br>2017-07-28 13:20<br>赞(0) 踩(0) | <div>好棒，我永远支持你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14560861)<br>大白兔&小奶糖<br>2016-12-12 05:28<br>赞(3) 踩(0) | <div>认识，合作过~</div> |

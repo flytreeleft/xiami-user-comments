@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354745934)<br><br>2020-03-27 17:16<br>赞(0) 踩(0) | <div>整张专辑都是做作，俗气。差评！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1109375)<br>精神粮食<br>2020-04-04 01:38<br>赞(0) 踩(0) | <div>你行你上</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354745934)<br><br>2020-07-09 19:00<br>赞(0) 踩(0) | <div>行不行的你这种就会点赞呗，好坏你听不出来吗？</div> |

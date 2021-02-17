@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>盒声智能音乐](https://i.xiami.com/soundcube) | **播放数**: 3790213<br>**粉丝数**: 28<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 电子 Electronic<br> |
+| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>盒声智能音乐](https://i.xiami.com/soundcube) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 电子 Electronic<br>**播放数**: 3790213<br>**粉丝数**: 28<br>**评论数**: 0<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -29,5 +26,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

@@ -23,5 +23,3 @@ Home again home again jiggety jog
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

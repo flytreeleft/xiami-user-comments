@@ -50,7 +50,7 @@ I don't know why I didn't come
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15949742)<br><br>2015-11-11 07:14<br>赞(2) 踩(0) | <div>一杯热巧的温暖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3419686)<br><br>2014-09-07 13:08<br>赞(3) 踩(0) | <div>顺子阿姨也翻过这首呢</div> |

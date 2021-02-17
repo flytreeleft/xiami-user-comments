@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2fad3c9ef8cf27b018ca53aaf45a7e8e.jpg)<br>聂坤](https://i.xiami.com/w-k-k) | **播放数**: 1668681<br>**粉丝数**: 116<br>**评论数**: 24<br>**地区**: China 中国大陆<br>**风格**: 另类说唱 Alternative Hip Hop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/2fad3c9ef8cf27b018ca53aaf45a7e8e.jpg)<br>聂坤](https://i.xiami.com/w-k-k) | **地区**: China 中国大陆<br>**风格**: 另类说唱 Alternative Hip Hop, 国语流行 Mandarin Pop<br>**播放数**: 1668681<br>**粉丝数**: 116<br>**评论数**: 24<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321801795)<br>温柔的让我受伤<br>2017-09-08 20:09<br>赞(0) 踩(0) | <div>爱你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279780234)<br> <br>2017-06-12 17:39<br>赞(0) 踩(0) | <div>小狼哥哥，嗨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285866970)<br><br>2017-04-04 03:58<br>赞(0) 踩(0) | <div>狼哥喜欢你</div> |

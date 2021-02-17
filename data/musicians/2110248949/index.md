@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8ed09194dfd048ab48d8584e6b76767d.jpg)<br>树音音乐工作室](https://i.xiami.com/treesound) | **播放数**: 1033142<br>**粉丝数**: 297<br>**评论数**: 2<br>**地区**: China 中国大陆<br>**风格**: 电音流行 Electropop, 流行舞曲 Dance-Pop, 国语流行 Mandarin Pop, 韩国流行 K-Pop, 流行 Pop<br> |
+| [![](../../images/musicians/8ed09194dfd048ab48d8584e6b76767d.jpg)<br>树音音乐工作室](https://i.xiami.com/treesound) | **地区**: China 中国大陆<br>**风格**: 电音流行 Electropop, 流行舞曲 Dance-Pop, 国语流行 Mandarin Pop, 韩国流行 K-Pop, 流行 Pop<br>**播放数**: 1033142<br>**粉丝数**: 297<br>**评论数**: 2<br> |
 
 ## 档案
 
@@ -45,7 +45,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352745917)<br>好人有好报<br>2019-02-01 02:22<br>赞(0) 踩(0) | <div>清盈，欢快，歌声甜美动听，我喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223292945)<br>作曲、编曲、录音、制作。<br>2017-10-27 17:47<br>赞(3) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

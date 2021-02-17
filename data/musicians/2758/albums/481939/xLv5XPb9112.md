@@ -47,8 +47,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349272056)<br><br>2020-03-10 10:06<br>赞(0) 踩(0) | <div>虽然虽然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12400141)<br>你的孤单虽败犹荣<br>2018-12-23 01:10<br>赞(1) 踩(0) | <div>阉了以后咋办还过不过了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/668495)<br><br>2018-11-14 13:40<br>赞(1) 踩(0) | <div>情感纠葛 爱欲纠缠 那又怎样 一场大梦后还是这句话 别轻言离去 因知音难觅</div> |
@@ -82,7 +82,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108207128)<br>社会上混的马仔的助理<br>2017-11-04 21:13<br>赞(0) 踩(0) | <div>哈哈哈哈搞笑嘛！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302600535)<br>不驰于空想、不骛于虚声<br>2017-11-01 23:18<br>赞(0) 踩(0) | <div>昨天还在听，没想到网易就没了，还有你在，虾米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331458973)<br><br>2017-11-01 04:02<br>赞(0) 踩(0) | <div>好曲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11122507)<br><br>2017-10-30 10:23<br>赞(2) 踩(0) | <div>一瞬间毁了《骊歌》。。。啊......一样的曲子啊，歌词把眼亮瞎了！“虽然虽然很爱你 却要嫣了你不然别人抢了去 不留下点滴虽然虽然很怨你 却仍然痴迷怀了别人的孩子 我也没脾气”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11122507)<br><br>2017-10-30 10:23<br>赞(2) 踩(0) | <div>一瞬间毁了《骊歌》。。。啊......一样的曲子啊，歌词把眼亮瞎了！“虽然虽然很爱你 却要嫣了你<br>不然别人抢了去 不留下点滴<br>虽然虽然很怨你 却仍然痴迷<br>怀了别人的孩子 我也没脾气<br>”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3522489)<br><br>2017-10-30 10:22<br>赞(1) 踩(0) | <div>一开始是被曲调和声音的感觉所吸引，后来才发现歌词很重口味，倒不妨碍我对它的喜欢</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270260507)<br>愿无岁月可回首  且以情...<br>2017-11-03 01:06<br>赞(0) 踩(0) | <div>这是骊歌的曲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1652844)<br><br>2017-10-30 10:19<br>赞(1) 踩(0) | <div>今年遇到的最让我开心的歌，红心之冠，没有唯一。</div> |
@@ -102,7 +102,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3457335)<br>音乐杂食动物<br>2017-10-28 00:22<br>赞(0) 踩(0) | <div>怀了别人的孩子仍然原谅你，C？男人就要这度量好么，还是这丫其实是个屌丝……哈哈，不打岔了，是首很动人的情歌，都有人听哭了（当然不是我！），就是不大喜欢邵夷贝。= =</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335381)<br><br>2017-10-28 00:22<br>赞(0) 踩(0) | <div>是小清新呢，还是重口味？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3695276)<br><br>2017-10-28 00:22<br>赞(0) 踩(0) | <div>你的小清新 就是我的重口味</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1959510)<br>偏执狂有什么不好,,Ծ^...<br>2017-10-28 00:22<br>赞(0) 踩(0) | <div>主唱苏朵大方的表示：“《知音难觅》本就是唱给知音去听的，并不期望所有人都喜欢”。重口味又怎样！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1959510)<br>偏执狂有什么不好,,Ծ^...<br>2017-10-28 00:22<br>赞(0) 踩(0) | <div>主唱苏朵大方的表示：“《知音难觅》本就是唱给知音去听的，并不期望所有人都喜欢”。<br>重口味又怎样！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/391005)<br><br>2017-10-28 00:22<br>赞(0) 踩(0) | <div>牛逼闪闪的歌词，却也有万般珍惜在其中。知音难觅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248878)<br>高手寂寞<br>2017-10-28 00:22<br>赞(0) 踩(0) | <div>gala和邵小毛都很不错 虽然邵和李bb搅和着 但这首知音难觅我还是喜欢 哈哈 gala和邵小毛搅在一起？我想不出来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12156595)<br><br>2017-10-28 00:22<br>赞(0) 踩(0) | <div>歌词虽然那啥，哇哈哈，不过调调最近就是随口哼出哇。。。</div> |
@@ -180,12 +180,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17506038)<br><br>2017-07-26 20:04<br>赞(0) 踩(0) | <div>就我听的是 虽然虽然很爱你 却要厌了你么&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16026355)<br><br>2017-07-26 15:21<br>赞(0) 踩(0) | <div>终于听懂了这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206533791)<br>离时代远远  无人间烟火<br>2017-07-11 00:13<br>赞(0) 踩(0) | <div>听到第一句我就 <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png">       <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50519909)<br>努力变得更好<br>2017-07-07 14:06<br>赞(3) 踩(0) | <div>你说好，在我足够好的时候嫁给我...等我，宝贝儿你在我身边也好，在天边也罢，想到世界的角落有一个你，觉得整个世界也变得温柔安定了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50519909)<br>努力变得更好<br>2017-07-07 14:06<br>赞(3) 踩(0) | <div>你说好，在我足够好的时候嫁给我...等我，宝贝儿<br>你在我身边也好，在天边也罢，想到世界的角落有一个你，觉得整个世界也变得温柔安定了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8635478)<br>换个地方思考<br>2017-07-04 09:23<br>赞(0) 踩(0) | <div>怀了别人的孩子，我也没脾气 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83591380)<br>哼一首淡淡的歌。<br>2017-06-30 00:05<br>赞(0) 踩(0) | <div>虽然虽然很怨你 却仍然痴迷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16908662)<br>爱恨汹涌的白羊<br>2017-06-29 20:44<br>赞(1) 踩(0) | <div>暴力美学赞 小清新重口反差萌赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36014723)<br>我还没想好要写什么...<br>2017-06-26 07:19<br>赞(4) 踩(0) | <div>这首歌的精华是歌词好嘛！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301610126)<br><br>2017-06-26 03:28<br>赞(2) 踩(0) | <div>虽然虽然很爱你，却不懂珍惜虽然虽然很怨你，却仍然痴迷虽然虽然很怕你，却要追随你虽然虽然失去你，梦里仍有你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301610126)<br><br>2017-06-26 03:28<br>赞(2) 踩(0) | <div>虽然虽然很爱你，却不懂珍惜<br>虽然虽然很怨你，却仍然痴迷<br>虽然虽然很怕你，却要追随你<br>虽然虽然失去你，梦里仍有你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258192176)<br><br>2017-06-19 21:47<br>赞(1) 踩(0) | <div>骊歌？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267992391)<br>喜欢短发金毛和民谣<br>2017-06-19 17:41<br>赞(0) 踩(0) | <div>怀里别人的孩子我也没脾气~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2792739)<br>唯沉默是最高的蔑视<br>2017-06-17 18:24<br>赞(0) 踩(0) | <div>泪流满面</div> |
@@ -207,7 +207,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25380051)<br>起床吃草了！！<br>2017-05-15 15:57<br>赞(0) 踩(0) | <div>阉了你 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6041964)<br>杂食级音乐饕餮怪兽，品的...<br>2017-05-14 12:10<br>赞(0) 踩(0) | <div>第一句听完老子就喷了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47804253)<br>嘿，不要不开心。<br>2017-05-11 11:38<br>赞(0) 踩(0) | <div>一样的曲子 更爱骊歌。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47762018)<br>虾米我永远爱你<br>2017-05-09 19:52<br>赞(1) 踩(0) | <div>虽然虽然很怨你 却仍然痴迷虽然虽然很怕你 却要追随你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47762018)<br>虾米我永远爱你<br>2017-05-09 19:52<br>赞(1) 踩(0) | <div>虽然虽然很怨你 却仍然痴迷<br>虽然虽然很怕你 却要追随你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44073408)<br><br>2017-04-30 01:57<br>赞(0) 踩(0) | <div>直白</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102488866)<br>想要一个很大的水晶球<br>2017-04-17 10:35<br>赞(0) 踩(0) | <div>#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53458)<br><br>2017-04-07 12:43<br>赞(1) 踩(0) | <div>《感官世界》？？？</div> |
@@ -245,8 +245,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10647739)<br>再见 爱你<br>2017-01-23 10:03<br>赞(1) 踩(0) | <div>你会听到的吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124315666)<br>今を生きてゆく<br>2017-01-21 22:57<br>赞(0) 踩(0) | <div>唉 雪晨干爹 你就不能大度一点 难道我谈了一场假的恋爱 就是漫友 也是知音 用你的原话 无论何种方式在你身边 都不想彻底失去你 可是我又蠢又作 还是彻底失去了你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/712103)<br><br>2017-01-18 10:40<br>赞(1) 踩(0) | <div>怀了别人的孩子 我也没脾气</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251971983)<br> <br>2017-01-15 18:38<br>赞(1) 踩(0) | <div>KTV里一直没能点到大概是怕出了口的都会变了味道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261714665)<br><br>2017-01-14 00:20<br>赞(2) 踩(0) | <div>你没听错，“怀了别人的孩子 我也没脾气”本来以为是一首不入流的小众歌但歌词和曲都忍不住让你跟着哼昨天单曲循环了一天“命中注定的相遇，都失之交臂”#我的蔡#[爱心]</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251971983)<br> <br>2017-01-15 18:38<br>赞(1) 踩(0) | <div>KTV里一直没能点到<br>大概是怕出了口的<br>都会变了味道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261714665)<br><br>2017-01-14 00:20<br>赞(2) 踩(0) | <div>你没听错，<br>“怀了别人的孩子 我也没脾气”<br>本来以为是一首不入流的小众歌<br>但歌词和曲都忍不住让你跟着哼<br>昨天单曲循环了一天<br>“命中注定的相遇，都失之交臂”<br>#我的蔡#[爱心]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13714377)<br>在下辈子等你。<br>2017-01-08 01:35<br>赞(4) 踩(0) | <div>歌词很好啊！怎么就不好了？(￣ー￣)没毛病</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49130624)<br><br>2017-01-06 15:21<br>赞(1) 踩(0) | <div>邵夷贝声音单独听没觉得好，合声简直完美！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56530508)<br>雨停了音乐响起了我开始想...<br>2017-01-05 12:09<br>赞(0) 踩(0) | <div>因知音难觅</div> |
@@ -397,7 +397,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33309766)<br>暂无签名~<br>2016-03-19 14:44<br>赞(0) 踩(0) | <div>骊歌怎么成这样了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30707869)<br><br>2016-03-18 20:40<br>赞(6) 踩(0) | <div>虽然很爱很很爱你，却要阉了你 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51707804)<br>Funk leg ass...<br>2016-03-18 19:48<br>赞(1) 踩(0) | <div>知音虽难觅，但歌词没道理这么凶猛吧=_=</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8777852)<br><br>2016-03-17 22:51<br>赞(2) 踩(0) | <div>虽然虽然很爱你 却要阉了你不然别人抢了去 不留下点滴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8777852)<br><br>2016-03-17 22:51<br>赞(2) 踩(0) | <div>虽然虽然很爱你 却要阉了你<br>不然别人抢了去 不留下点滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49318528)<br><br>2016-03-17 11:04<br>赞(0) 踩(0) | <div>虽然虽然很爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17220663)<br>Follow  me.<br>2016-03-13 20:12<br>赞(0) 踩(0) | <div>怀了别人的孩子 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png">我也没脾气 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41482875)<br><br>2016-03-09 21:05<br>赞(0) 踩(0) | <div></div> |
@@ -513,7 +513,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52124297)<br><br>2015-12-20 13:47<br>赞(0) 踩(0) | <div>这个不是gala的骊歌吗？词变了啊，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48832953)<br>(๑•́₃ •̀๑)<br>2015-12-20 09:58<br>赞(0) 踩(0) | <div>歌词败笔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92974552)<br>越努力，越幸运。<br>2015-12-19 22:44<br>赞(0) 踩(0) | <div>知音难觅</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78533954)<br><br>2015-12-19 12:32<br>赞(0) 踩(0) | <div>歌词真是。。。哈哈哈哈但是GALA的歌都很美</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78533954)<br><br>2015-12-19 12:32<br>赞(0) 踩(0) | <div>歌词真是。。。<br>哈哈哈哈<br>但是GALA的歌都很美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87264364)<br><br>2015-12-19 06:59<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84196252)<br>隨緣撩散 可有清還<br>2015-12-16 21:00<br>赞(0) 踩(0) | <div>唱你妈 两个滚圈垃圾合体歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84196252)<br>隨緣撩散 可有清還<br>2015-12-24 19:41<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
@@ -840,7 +840,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10337476)<br><br>2015-06-03 19:49<br>赞(0) 踩(0) | <div>觉得口味重的听骊歌吧，也是gala的，曲子一样的，就是没钢琴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10422695)<br>在音乐中寻找爱<br>2015-05-31 16:13<br>赞(0) 踩(0) | <div>钢琴伴奏不错，歌词很傻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41106775)<br><br>2015-05-31 13:52<br>赞(0) 踩(0) | <div>失去过，才懂得珍惜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39090324)<br>哎。<br>2015-05-30 22:06<br>赞(0) 踩(0) | <div>=_=这首歌感觉好奇怪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39090324)<br>哎。<br>2015-05-30 22:06<br>赞(0) 踩(0) | <div>=_=<br>这首歌感觉好奇怪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39090324)<br>哎。<br>2015-05-30 22:04<br>赞(0) 踩(0) | <div>骊歌？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1290029)<br><br>2015-05-30 14:17<br>赞(0) 踩(0) | <div>除了前两句并不重口啊……？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25132025)<br><br>2015-05-28 00:32<br>赞(2) 踩(0) | <div>听哭过 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -875,7 +875,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49694696)<br>无聊的矫情<br>2015-05-08 00:27<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33411213)<br><br>2015-05-07 13:27<br>赞(4) 踩(0) | <div>说的好有道理，我竟无言以对...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11818870)<br>要用歌声让你忘了所有的痛...<br>2015-05-06 04:19<br>赞(0) 踩(0) | <div>......</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12058916)<br>自由的心<br>2015-05-05 19:04<br>赞(2) 踩(0) | <div>我很爱这首歌啊。 曲10分声10分 歌词也看有趣好想给10就是不好意思和别人说我的爱_(:з」∠)_</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12058916)<br>自由的心<br>2015-05-05 19:04<br>赞(2) 踩(0) | <div>我很爱这首歌啊。 曲10分声10分 歌词也看有趣好想给10<br>就是不好意思和别人说我的爱_(:з」∠)_</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3467808)<br>此人不是个做精选的好料子...<br>2015-05-05 14:37<br>赞(1) 踩(0) | <div>开口跪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12282996)<br>暂无签名~<br>2015-05-04 21:28<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4811404)<br>走着走着，花就开了<br>2015-05-04 17:08<br>赞(1) 踩(0) | <div>小清新曲风，重口味歌词，一定是我的打开方式不正确！日了狗了！</div> |
@@ -885,7 +885,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20314477)<br><br>2015-05-04 12:49<br>赞(0) 踩(0) | <div>这两个小清新居然把歌词改得这么重口，第一句就瞎了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15259920)<br><br>2015-05-03 02:02<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41660754)<br>*罒▽罒*<br>2015-05-02 23:55<br>赞(0) 踩(0) | <div>邵夷贝噶啦简直是我心头好！开头震惊_(:з」∠)_</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7033660)<br><br>2015-05-02 15:30<br>赞(0) 踩(0) | <div>爱是自私，爱到极致变生恨，这真不少</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7033660)<br><br>2015-05-02 15:30<br>赞(0) 踩(0) | <div>爱是自私，爱到极致变生恨，这<br>真不少</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49684909)<br><br>2015-05-02 14:39<br>赞(4) 踩(0) | <div>唱的大概是两个出轨的狗男女。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24680161)<br><br>2015-05-01 21:04<br>赞(0) 踩(0) | <div>刚开始看着歌词想笑，可听着听着就想哭……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24680161)<br><br>2015-05-01 21:04<br>赞(0) 踩(0) | <div>刚开始看着歌词想笑，可听着听着就想哭……</div> |
@@ -902,8 +902,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8285784)<br>光光月色挂在树梢上的念想<br>2015-04-22 23:31<br>赞(0) 踩(0) | <div>旧情人 真实心理写照</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47457350)<br> <br>2015-04-22 23:03<br>赞(3) 踩(0) | <div>原曲是GALA的骊歌，很喜欢这个填词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47457350)<br> <br>2015-04-22 23:00<br>赞(0) 踩(0) | <div>原曲是gala的骊歌，不过这个词填的不错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49392830)<br><br>2015-04-22 22:46<br>赞(0) 踩(0) | <div>女 虽然虽然很爱你 却要阉了你不然别人抢了去 不留下点滴男 虽然虽然很怨你 却仍然痴迷怀了别人的孩子 我也没脾气（好像能够理解歌词里写的感觉）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49392830)<br><br>2015-04-22 22:40<br>赞(0) 踩(0) | <div>女 虽然虽然很爱你 却要阉了你/不然别人抢了去 不留下点滴男 虽然虽然很怨你 却仍然痴迷/怀了别人的孩子 我也没脾气（好像能理解歌词里写的感觉）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49392830)<br><br>2015-04-22 22:46<br>赞(0) 踩(0) | <div>女 虽然虽然很爱你 却要阉了你<br>不然别人抢了去 不留下点滴<br>男 虽然虽然很怨你 却仍然痴迷<br>怀了别人的孩子 我也没脾气<br>（好像能够理解歌词里写的感觉）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49392830)<br><br>2015-04-22 22:40<br>赞(0) 踩(0) | <div>女 虽然虽然很爱你 却要阉了你<br>/不然别人抢了去 不留下点滴<br>男 虽然虽然很怨你 却仍然痴迷<br>/怀了别人的孩子 我也没脾气（好像能理解歌词里写的感觉）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13917716)<br>别说了<br>2015-04-22 19:52<br>赞(0) 踩(0) | <div>虽然虽然 却仍然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49014466)<br>我还没想好要写什么...<br>2015-04-22 15:41<br>赞(0) 踩(0) | <div>别滥用温柔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46960497)<br><br>2015-04-22 07:13<br>赞(0) 踩(0) | <div>在哪里</div> |
@@ -942,7 +942,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6831950)<br><br>2015-02-17 20:03<br>赞(0) 踩(0) | <div>重口味的歌词。几年前第一次听觉得惊艳，现在还是那么动听，“只如初见”，矮马。过年的气氛越来越浓了，只等明天包饺子。今年春晚有喜欢的节目，等着听刘欢、朗朗和吕思清合作的《从前慢》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6831950)<br><br>2015-02-17 19:55<br>赞(0) 踩(0) | <div>知音难觅。重口味的歌词。几年前第一次听觉得惊艳，现在还是那么动听，“只如初见”，矮马。过年的气氛越来越浓了，只等明天包饺子。今年春晚有喜欢的节目，等着听刘欢，朗朗和吕思清合作的《从前慢》。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39277724)<br>该走的就走<br>2015-02-17 19:16<br>赞(0) 踩(0) | <div>第一句。。心塞了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2015-02-17 03:02<br>赞(0) 踩(0) | <div>歌词。。。。2015.02.17</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2015-02-17 03:02<br>赞(0) 踩(0) | <div>歌词。。。。<br>2015.02.17</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47300666)<br><br>2015-02-14 21:25<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2792124)<br><br>2015-02-12 10:41<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47203003)<br><br>2015-02-12 00:20<br>赞(0) 踩(0) | <div>爱不可辜负</div> |
@@ -1045,7 +1045,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32341809)<br>爱之欲其生，恨之欲其死。<br>2014-08-19 13:33<br>赞(0) 踩(0) | <div>是却要淹了你吧哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11399206)<br><br>2014-08-14 18:59<br>赞(0) 踩(0) | <div>这首歌我给哪个小朋友唱过来着？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39923203)<br><br>2014-08-14 13:38<br>赞(0) 踩(0) | <div>因知音难觅。都失之交臂。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39923203)<br><br>2014-08-14 13:27<br>赞(0) 踩(0) | <div>虽然虽然 1 2 3……别轻言离去，因知音难觅。命中注定的相遇，都失之交臂。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39923203)<br><br>2014-08-14 13:27<br>赞(0) 踩(0) | <div>虽然虽然 1 2 3……<br>别轻言离去，因知音难觅。命中注定的相遇，都失之交臂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20147189)<br>嘘<br>2014-08-12 16:55<br>赞(0) 踩(0) | <div>一首神奇的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20147189)<br>嘘<br>2014-08-12 16:55<br>赞(0) 踩(0) | <div>很神奇的一首歌（歌词）。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34873248)<br> <br>2014-08-08 10:38<br>赞(0) 踩(0) | <div>你让别人怀上孩子我也不会怨你...</div> |
@@ -1100,7 +1100,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6006675)<br><br>2014-05-24 10:41<br>赞(0) 踩(0) | <div>求你别轻言离去 因知音难觅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5935858)<br><br>2014-05-22 00:00<br>赞(0) 踩(0) | <div>好屌的歌词啊哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13976460)<br><br>2014-05-20 14:17<br>赞(0) 踩(0) | <div>第一句就震惊了。。。。。。“虽然虽然很爱你，却要阉了你，不然别人抢了去，不留下点滴”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36820111)<br><br>2014-05-20 13:24<br>赞(0) 踩(0) | <div>GALA乐队上海演唱会（520大学生专场福利活动）！！！学生党购买GALA乐队2014年上海演唱会现场票！ （380元／480元）仅需（150元／200元）！每价位各限量100张！【购票详情：<a href="http://www.douban.com/event/21643452/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21643452/</a>】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36820111)<br><br>2014-05-20 13:24<br>赞(0) 踩(0) | <div>GALA乐队上海演唱会（520大学生专场福利活动）！！！<br>学生党购买GALA乐队2014年上海演唱会现场票！ （380元／480元）仅需（150元／200元）！<br>每价位各限量100张！<br>【购票详情：<a href="http://www.douban.com/event/21643452/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21643452/</a>】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6865487)<br>终于折腾完升级了真特么费...<br>2014-05-20 07:50<br>赞(0) 踩(0) | <div>。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12081472)<br>混乱和熵叠加区分现在未来<br>2014-05-20 07:45<br>赞(0) 踩(0) | <div>很有意思的一首歌。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8886069)<br><br>2014-05-19 17:43<br>赞(0) 踩(0) | <div>能陪在你身边的无论如何都是幸福的，我不能陪在你的身边，无论如何我都不觉着我是幸福的 *</div> |
@@ -1158,7 +1158,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10043404)<br>DDSB<br>2014-04-16 16:20<br>赞(0) 踩(0) | <div>感觉很俗，却又摆脱不了的耐听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7825096)<br>好好看好好学<br>2014-04-15 05:04<br>赞(0) 踩(0) | <div>虽然虽然失去你，梦里仍有你。求你别轻言离去，因知音难觅。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15251799)<br><br>2014-04-12 17:05<br>赞(0) 踩(0) | <div>命中注定的相遇 都失之交臂</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7976526)<br> <br>2014-04-11 13:55<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你不然别人抢了去 不留下点滴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7976526)<br> <br>2014-04-11 13:55<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你<br>不然别人抢了去 不留下点滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17249027)<br>Love has to ...<br>2014-04-10 17:08<br>赞(0) 踩(0) | <div>任由时光荏苒你，追悔已莫及。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4161432)<br><br>2014-04-05 16:58<br>赞(0) 踩(0) | <div>虽然虽然很爱你  却要阉了你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5028818)<br><br>2014-04-04 23:40<br>赞(0) 踩(0) | <div>好好听噢@_@</div> |
@@ -1169,7 +1169,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4027858)<br> <br>2014-04-01 12:30<br>赞(0) 踩(0) | <div>女神！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17204398)<br><br>2014-03-31 22:14<br>赞(0) 踩(0) | <div>第一句就吓尿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29477501)<br>暂无签名~<br>2014-03-31 20:21<br>赞(0) 踩(0) | <div>hhhhhhhhhhhh妈的一开口就要阉了人家hhhhhh</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486008)<br>我还没想好要写什么...<br>2014-03-31 17:26<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你不然别人抢了去 不留下点滴[再见]</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486008)<br>我还没想好要写什么...<br>2014-03-31 17:26<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你<br>不然别人抢了去 不留下点滴<br>[再见]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20082656)<br>暂无签名~<br>2014-03-30 19:40<br>赞(0) 踩(0) | <div>因知音难觅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2014-03-29 21:33<br>赞(0) 踩(0) | <div>心 境不二</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6865964)<br>一个世界里有你，一个世界...<br>2014-03-29 09:39<br>赞(0) 踩(0) | <div>你有一万种想见TA的理由，却少了一种能见的身份，最后左手的戒指和肚子里的孩纸失之交臂.....</div> |
@@ -1188,7 +1188,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12235498)<br><br>2014-03-18 23:50<br>赞(1) 踩(0) | <div>小清新没底线最是可怕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/968701)<br><br>2014-03-18 23:20<br>赞(0) 踩(0) | <div>这不是骊歌的调子加上微黄的爱（qing)情(se)小说吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5587551)<br><br>2014-03-17 22:06<br>赞(0) 踩(0) | <div>因知音难觅。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34073548)<br>被爱的人不用抱歉<br>2014-03-15 14:13<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你不然别人抢了去 不留下点滴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34073548)<br>被爱的人不用抱歉<br>2014-03-15 14:13<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你<br>不然别人抢了去 不留下点滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14061563)<br><br>2014-03-14 10:44<br>赞(0) 踩(0) | <div>每日一贱。这首歌词仔细听很妙的说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/460669)<br> <br>2014-03-14 09:26<br>赞(0) 踩(0) | <div>重口味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8328691)<br><br>2014-03-13 21:33<br>赞(0) 踩(0) | <div>求你别轻言离去，因知音难觅。</div> |
@@ -1250,7 +1250,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9298702)<br><br>2014-01-15 20:17<br>赞(0) 踩(0) | <div>歌词是亮点！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11088631)<br><br>2014-01-13 10:36<br>赞(0) 踩(0) | <div>“趁早将就”的觉悟拉不住“死磕到底”的心。#早上做了一个徒手扑杀白虎的凶梦#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26056104)<br><br>2014-01-13 10:23<br>赞(0) 踩(0) | <div>想要放点声音干其他事</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2875825)<br><br>2014-01-11 21:41<br>赞(0) 踩(0) | <div>虽然虽然很爱你/却不懂珍惜/任由时光荏苒你/追悔已莫及/虽然虽然很想你/想联络却迟疑/命中注定的相遇/都失之交臂/虽然虽然失去你/梦里仍有你/求你别轻言离去/因知音难觅不知道，还能不能再找到这样一个人，与我的同步率这么高，真的，太难觅</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2875825)<br><br>2014-01-11 21:41<br>赞(0) 踩(0) | <div>虽然虽然很爱你/却不懂珍惜/任由时光荏苒你/追悔已莫及/虽然虽然很想你/想联络却迟疑/命中注定的相遇/都失之交臂/虽然虽然失去你/梦里仍有你/求你别轻言离去/因知音难觅<br>不知道，还能不能再找到这样一个人，与我的同步率这么高，真的，太难觅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27898476)<br> <br>2014-01-09 10:25<br>赞(0) 踩(0) | <div>虽然虽然很想你 想联络却迟疑 命中注定的相遇 都失之交臂555555555555555555555555555</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6706965)<br>if.<br>2014-01-08 17:09<br>赞(0) 踩(0) | <div>瓦擦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16076686)<br><br>2014-01-07 21:08<br>赞(0) 踩(0) | <div>被歌词惊呆</div> |
@@ -1341,7 +1341,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12294720)<br>这家伙很聪明什么也没留下...<br>2013-11-25 23:06<br>赞(0) 踩(0) | <div>虽然虽然很虐恋，却又这么清新。#晚安周大帅哥！#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7554784)<br> <br>2013-11-25 12:50<br>赞(0) 踩(0) | <div>歌词太稀烂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/753025)<br>签名有违法内容请修改<br>2013-11-24 20:40<br>赞(0) 踩(0) | <div>“虽然虽然很爱你，却要阉了你”。。。。。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4882792)<br><br>2013-11-24 19:17<br>赞(0) 踩(0) | <div>听到歌不错点进来看看歌词，这也太.....怀了别人的孩子 我也没脾气....我会想笑好么</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4882792)<br><br>2013-11-24 19:17<br>赞(0) 踩(0) | <div>听到歌不错点进来看看歌词，这也太.....<br>怀了别人的孩子 我也没脾气....<br>我会想笑好么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4027858)<br> <br>2013-11-24 11:44<br>赞(0) 踩(0) | <div>虽然虽然很爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8711378)<br><br>2013-11-24 10:52<br>赞(0) 踩(0) | <div>失之交臂的知音们，可能再也回不来了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9096630)<br><br>2013-11-23 02:15<br>赞(0) 踩(0) | <div>ah</div> |
@@ -1383,7 +1383,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10746238)<br><br>2013-10-25 17:52<br>赞(0) 踩(0) | <div>虽然虽然……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14667222)<br><br>2013-10-25 10:21<br>赞(0) 踩(0) | <div>知音难觅的骊歌，还有点剧情嘛~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6283172)<br><br>2013-10-25 00:20<br>赞(0) 踩(0) | <div>绝大部分人的失落感正来源于知音难觅...还好我有辣么多知音~歌词好棒!求你别轻言离去，因知音难觅...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54727)<br> <br>2013-10-24 01:32<br>赞(0) 踩(0) | <div>做功课的时候突然听到……吓我一跳这种调调这种词还以为我听错了赶紧打开页面看歌词……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54727)<br> <br>2013-10-24 01:32<br>赞(0) 踩(0) | <div>做功课的时候突然听到……<br>吓我一跳这种调调这种词还以为我听错了赶紧打开页面看歌词……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1527383)<br><br>2013-10-23 20:30<br>赞(0) 踩(0) | <div>改歌词，变首歌，囧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25142947)<br><br>2013-10-22 23:52<br>赞(0) 踩(0) | <div>白花花的银子和时间都花出去，最终买回我白花花的头发。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2342021)<br><br>2013-10-22 21:06<br>赞(0) 踩(0) | <div>不错的歌词!</div> |
@@ -1413,7 +1413,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4768188)<br><br>2013-10-12 23:22<br>赞(0) 踩(0) | <div>GALA！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1179560)<br>一切看心情<br>2013-10-12 14:20<br>赞(0) 踩(0) | <div>虽然虽然很爱你，还是阉了你！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12579799)<br>我还没想好要写什么...<br>2013-10-11 21:31<br>赞(0) 踩(0) | <div>在自我探寻这件事上获得了阶段性的新发现...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5922690)<br><br>2013-10-11 19:25<br>赞(0) 踩(0) | <div>开头好不错~想拿来做铃声，可这歌词会不会太没节操了~（抠鼻）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5922690)<br><br>2013-10-11 19:25<br>赞(0) 踩(0) | <div>开头好不错~<br>想拿来做铃声，可这歌词会不会太没节操了~（抠鼻）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4742570)<br><br>2013-10-11 06:42<br>赞(0) 踩(0) | <div>用漫不经心的态度唱出最绝望</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20056233)<br><br>2013-10-10 17:40<br>赞(0) 踩(0) | <div>有点意思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10344936)<br><br>2013-10-10 13:00<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你 哈哈哈</div> |
@@ -1490,9 +1490,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3871902)<br> <br>2013-08-26 08:04<br>赞(0) 踩(0) | <div>听歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179127)<br>和音乐，过日子<br>2013-08-25 18:28<br>赞(0) 踩(0) | <div>听久了，觉得这个版本更“杀人”！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179127)<br>和音乐，过日子<br>2013-08-25 18:17<br>赞(0) 踩(0) | <div>《知音难觅》另一个版本</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179127)<br>和音乐，过日子<br>2013-08-25 18:07<br>赞(0) 踩(0) | <div>“虽然虽然很爱你，却要嫣了你。不然别人抢了去，不留下点滴。”“虽然虽然很怨你，却仍然痴迷。怀了别人的孩子，我也没脾气。”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179127)<br>和音乐，过日子<br>2013-08-25 18:07<br>赞(0) 踩(0) | <div>“虽然虽然很爱你，却要嫣了你。不然别人抢了去，不留下点滴。”<br>“虽然虽然很怨你，却仍然痴迷。怀了别人的孩子，我也没脾气。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9616922)<br>陪伴是最长情的告白。<br>2013-08-25 08:25<br>赞(0) 踩(0) | <div>知音难觅。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7185208)<br>我想喜欢你<br>2013-08-23 13:45<br>赞(0) 踩(0) | <div>女　虽然虽然很爱你 却要阉了你不然别人抢了去 不留下点滴/男　虽然虽然很怨你 却仍然痴迷怀了别人的孩子 我也没脾气</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7185208)<br>我想喜欢你<br>2013-08-23 13:45<br>赞(0) 踩(0) | <div>女　虽然虽然很爱你 却要阉了你<br>不然别人抢了去 不留下点滴<br>/<br>男　虽然虽然很怨你 却仍然痴迷<br>怀了别人的孩子 我也没脾气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12322318)<br><br>2013-08-23 01:21<br>赞(0) 踩(0) | <div>虽然虽然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52536)<br>未来你来不来<br>2013-08-22 22:30<br>赞(0) 踩(0) | <div>虽然 虽然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2311771)<br>1900<br>2013-08-22 02:11<br>赞(0) 踩(0) | <div>挺不开心的</div> |
@@ -1541,7 +1541,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13601867)<br><br>2013-08-09 22:38<br>赞(0) 踩(0) | <div>幽它一默 哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11458770)<br><br>2013-08-08 20:20<br>赞(0) 踩(0) | <div>虽然，虽然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9602075)<br><br>2013-08-08 01:02<br>赞(0) 踩(0) | <div>Good night ！^_^</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9554045)<br>这个家伙很傻<br>2013-08-07 13:15<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你不然别人抢了去 不留下点滴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9554045)<br>这个家伙很傻<br>2013-08-07 13:15<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你<br>不然别人抢了去 不留下点滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13473870)<br><br>2013-08-07 11:12<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6668777)<br><br>2013-08-07 01:31<br>赞(0) 踩(0) | <div>我们之间这点事算什么，回来吧送给你的一首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7938012)<br> <br>2013-08-06 10:23<br>赞(0) 踩(0) | <div>@朱是朱不是猪    哈哈哈！虽然虽然很爱你&amp;#039;却要阉了你    分享小歌一首以弥补删宝宝之错啦！</div> |
@@ -1601,7 +1601,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17007029)<br><br>2013-07-13 18:12<br>赞(0) 踩(0) | <div>爱你爱到阉了你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2494916)<br><br>2013-07-13 16:07<br>赞(0) 踩(0) | <div>够重口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5775096)<br><br>2013-07-11 19:44<br>赞(0) 踩(0) | <div>轻言离去。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13404111)<br>人可生如蚁而美如神<br>2013-07-10 20:36<br>赞(0) 踩(0) | <div>1楼. 虽然虽然很爱你&nbsp;却要阉了你&nbsp;不然别人抢了去&nbsp;不留下点滴虽然虽然很怨你&nbsp;却仍然痴迷怀了别人的孩子&nbsp;我也没脾气虽然虽然很怕你&nbsp;却要追随你求你别轻言离去&nbsp;因知音难觅To friend</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13404111)<br>人可生如蚁而美如神<br>2013-07-10 20:36<br>赞(0) 踩(0) | <div>1楼. 虽然虽然很爱你&nbsp;却要阉了你&nbsp;<br>不然别人抢了去&nbsp;不留下点滴<br>虽然虽然很怨你&nbsp;却仍然痴迷<br>怀了别人的孩子&nbsp;我也没脾气<br>虽然虽然很怕你&nbsp;却要追随你<br>求你别轻言离去&nbsp;因知音难觅<br>To friend</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16958417)<br>你是我<br>2013-07-10 02:17<br>赞(0) 踩(0) | <div>邵夷贝！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9982432)<br><br>2013-07-09 15:50<br>赞(0) 踩(0) | <div>虽然虽然~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196915)<br><br>2013-07-08 23:51<br>赞(0) 踩(0) | <div>最近这是怎么了，笑点哭点都很低</div> |
@@ -1661,7 +1661,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9741873)<br>MISS ME OR D...<br>2013-06-19 17:55<br>赞(0) 踩(0) | <div>求你别轻言离去 因知音难觅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9832435)<br><br>2013-06-19 17:04<br>赞(0) 踩(0) | <div>声音真棒。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8659822)<br><br>2013-06-19 15:51<br>赞(0) 踩(0) | <div>虽然虽然···</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11833483)<br><br>2013-06-19 09:53<br>赞(0) 踩(0) | <div>虽然虽然很想你 想联络却迟疑命中注定的相遇 都失之交臂</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11833483)<br><br>2013-06-19 09:53<br>赞(0) 踩(0) | <div>虽然虽然很想你 想联络却迟疑<br>命中注定的相遇 都失之交臂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11953269)<br><br>2013-06-19 07:58<br>赞(0) 踩(0) | <div>哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11953269)<br><br>2013-06-19 07:44<br>赞(0) 踩(0) | <div>哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9464693)<br>还行吧。<br>2013-06-18 19:49<br>赞(0) 踩(0) | <div>虽然虽然很爱你，却要阉了你。不然别人抢了去，不留下点滴。</div> |
@@ -1678,7 +1678,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14049188)<br>我老婆天下最美。<br>2013-06-16 10:27<br>赞(0) 踩(0) | <div>#GALA#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15412546)<br>我还没想好要写什么...<br>2013-06-16 08:22<br>赞(0) 踩(0) | <div>么么〜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14389899)<br>女同学<br>2013-06-15 23:15<br>赞(0) 踩(0) | <div>GALA绝对有实力~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8200743)<br><br>2013-06-15 19:48<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你不然别人抢了去 不留下点滴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8200743)<br><br>2013-06-15 19:48<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你<br>不然别人抢了去 不留下点滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6080198)<br><br>2013-06-15 18:44<br>赞(0) 踩(0) | <div>歌词很有意思不过同样的曲调还是喜欢骊歌啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15176603)<br><br>2013-06-15 16:57<br>赞(0) 踩(0) | <div>我很喜欢这首歌哟~知音难觅。很温暖的歌曲，难遇知音，恋人未满。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/605865)<br> <br>2013-06-15 16:25<br>赞(0) 踩(0) | <div>这个词………………</div> |
@@ -1719,7 +1719,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15493054)<br><br>2013-05-29 22:48<br>赞(0) 踩(0) | <div>曲子耐听 歌词重口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7228057)<br><br>2013-05-28 10:07<br>赞(0) 踩(0) | <div>虽然虽然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9172334)<br><br>2013-05-27 19:40<br>赞(0) 踩(0) | <div>改得好！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11566648)<br><br>2013-05-27 11:22<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却不懂珍惜任由时光荏苒你 追悔已莫及虽然虽然很想你 想联络却迟疑求你别轻言离去 因知音难觅</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11566648)<br><br>2013-05-27 11:22<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却不懂珍惜<br>任由时光荏苒你 追悔已莫及<br>虽然虽然很想你 想联络却迟疑<br>求你别轻言离去 因知音难觅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11566648)<br><br>2013-05-27 11:13<br>赞(0) 踩(0) | <div>还是觉得这首歌 最有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3769246)<br><br>2013-05-27 01:26<br>赞(0) 踩(0) | <div>求你別輕易離去，因知音難覓~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11040512)<br><br>2013-05-26 12:01<br>赞(0) 踩(0) | <div>每段一个小故事</div> |
@@ -1727,9 +1727,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8782582)<br><br>2013-05-24 21:01<br>赞(0) 踩(0) | <div>第一句歌词既刁钻又挺吓人...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1206185)<br>slow dacing<br>2013-05-24 16:52<br>赞(0) 踩(0) | <div>歌词很厉害========！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3997)<br>我还没想好要写什么...<br>2013-05-24 12:54<br>赞(0) 踩(0) | <div>虽然虽然很爱你，却要阉了你。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3311485)<br><br>2013-05-24 11:23<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你不然别人抢了去 不留下点滴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3311485)<br><br>2013-05-24 11:23<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你<br>不然别人抢了去 不留下点滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1563904)<br>暂无签名~<br>2013-05-24 01:08<br>赞(0) 踩(0) | <div>求你别亲言离去，因知音难觅。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/899643)<br>引力<br>2013-05-22 18:54<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却不懂珍惜任由时光荏苒你 追悔已莫及</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/899643)<br>引力<br>2013-05-22 18:54<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却不懂珍惜<br>任由时光荏苒你 追悔已莫及</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11949435)<br>人有脚，不肯走路做什么。<br>2013-05-21 13:44<br>赞(0) 踩(0) | <div>第一句口味略重！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9250652)<br><br>2013-05-19 20:41<br>赞(0) 踩(0) | <div>求你别轻言离去，因知音难觅。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4249585)<br><br>2013-05-19 20:22<br>赞(0) 踩(0) | <div>我知道你在</div> |
@@ -1760,7 +1760,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11555832)<br><br>2013-05-10 00:09<br>赞(0) 踩(0) | <div>不知道是不是说我，不知道是否也有一样的感觉，那件事后的这几年我一直在想，想原因，想命运，我的确很伤心很伤心过，只是现在破冰后我却发现已经没有了当初的感觉，所以这样觉得也很好，因为顾及每一个人总会力不从心，也不可能再回到以前。也许就是你说的，失之交臂了吧，知音难觅...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5056602)<br><br>2013-05-08 23:38<br>赞(0) 踩(0) | <div>“求你别轻言离去，因知音难觅” 那时候我还手足无措，不知该告诉你什么，只好写上知音难觅。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7517456)<br>silent all t...<br>2013-05-08 20:31<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却要阉了你 不然别人抢了去 不留下点滴。。。。是的 你没有听错 是阉。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3605181)<br><br>2013-05-08 14:44<br>赞(0) 踩(0) | <div>虽然虽然很想你 想联络却迟疑命中注定的相遇 都失之交臂知音难觅~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3605181)<br><br>2013-05-08 14:44<br>赞(0) 踩(0) | <div>虽然虽然很想你 想联络却迟疑<br>命中注定的相遇 都失之交臂<br>知音难觅<br>~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13581104)<br>sunshy<br>2013-05-06 23:42<br>赞(0) 踩(0) | <div>求你别轻言离去，因知音难觅（虽然虽然很爱你，但是却要yan了你。。开头第一句就霸气！）  好爱这首歌~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8015431)<br>我还没想好要写什么...<br>2013-05-06 22:50<br>赞(0) 踩(0) | <div>虽然虽然很爱你却要阉了你 不然别人抢了去不留下点滴 虽然虽然很怨你却仍然痴迷 怀了别人的孩子我也没脾气 虽然虽然很怕你却要追随你 求你别轻言离去因知音难觅 虽然虽然很爱你却不懂珍惜 任由时光荏苒你追悔已莫及 虽然虽然很想你想联络却迟疑 命中注定的相遇都失之交臂 虽然虽然失去你梦里仍有你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/387969)<br><br>2013-05-06 21:10<br>赞(0) 踩(0) | <div>年轻的时候，我们总以为爱就是所有就是一切，但终于在爱情燃烧殆尽后，我们才发现，一切只是烟硝，只剩尘土。“求你别轻言离去，因知音难觅”我在想，是不是爱得浅一点，就能爱得久一点呢？只愿所有的爱人都能彼此珍重。</div> |
@@ -1781,7 +1781,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11028017)<br>。。<br>2013-04-26 23:25<br>赞(0) 踩(0) | <div>邵装逼真是 乱搞果 晚安啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2201929)<br><br>2013-04-26 09:18<br>赞(0) 踩(0) | <div>早上好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10647739)<br>再见 爱你<br>2013-04-25 22:56<br>赞(0) 踩(0) | <div>#GOOD NIGHT#心累无语。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8895292)<br>不流浪<br>2013-04-22 20:28<br>赞(0) 踩(0) | <div>怀了别人的孩子 我也没脾气..这歌词太毁曲了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8895292)<br>不流浪<br>2013-04-22 20:28<br>赞(0) 踩(0) | <div>怀了别人的孩子 我也没脾气..<br>这歌词太毁曲了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3425420)<br>我是个非人流自由主义学者<br>2013-04-22 14:12<br>赞(0) 踩(0) | <div>草这歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11845111)<br>土豆泥<br>2013-04-21 21:53<br>赞(0) 踩(0) | <div>小才女和GALA的合作  真是有点感动的想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1162266)<br> <br>2013-04-21 21:08<br>赞(0) 踩(0) | <div>略重口味的小清新</div> |
@@ -1799,7 +1799,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13837952)<br><br>2013-04-10 21:04<br>赞(0) 踩(0) | <div>真迷上了！世间就一个你！@。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8971268)<br> <br>2013-04-09 15:24<br>赞(0) 踩(0) | <div>如今再听这首歌 百感交集。如果没有造那么多业障 也许有天还愿再相遇。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6648641)<br><br>2013-04-09 14:08<br>赞(0) 踩(0) | <div>一对痴情绅士淑女深情款款的对唱拥有如此狗血歌词的情歌，一定会让看官们感动得泪流满面。我想我可能是理解这首歌讲述的感情的?</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8533835)<br><br>2013-04-08 14:53<br>赞(0) 踩(0) | <div>虽然虽然很爱你，却要阉了你。怀了别人的孩子，我也没脾气。。。没脾气。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8533835)<br><br>2013-04-08 14:53<br>赞(0) 踩(0) | <div>虽然虽然很爱你，却要阉了你。<br>怀了别人的孩子，我也没脾气。。。没脾气。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4995278)<br><br>2013-04-08 13:32<br>赞(0) 踩(0) | <div>耸耸肩～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3912578)<br><br>2013-04-08 12:20<br>赞(0) 踩(0) | <div>20121223</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1834859)<br>嗨<br>2013-04-08 07:53<br>赞(0) 踩(0) | <div>歌词狠亮。你们感受一下。。。</div> |
@@ -1846,7 +1846,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9965650)<br><br>2013-02-27 14:03<br>赞(0) 踩(0) | <div>#此时彼刻我在听# 虽然虽然很爱你，却要让时光荏苒你--知音难觅。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12579799)<br>我还没想好要写什么...<br>2013-02-26 11:38<br>赞(0) 踩(0) | <div>【命中注定的不只相遇，多得是，知音再难觅，也都不得不失之交臂。】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4460771)<br><br>2013-02-23 15:57<br>赞(0) 踩(0) | <div>懒懒的简单美</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1265597)<br>暂无签名~<br>2013-02-22 01:56<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却不懂珍惜任由时光荏苒你 追悔已莫及</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1265597)<br>暂无签名~<br>2013-02-22 01:56<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却不懂珍惜<br>任由时光荏苒你 追悔已莫及</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1915171)<br><br>2013-02-20 23:15<br>赞(0) 踩(0) | <div>邵夷贝的淡定声线是精华</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6674265)<br>爱你 妈妈<br>2013-02-20 22:07<br>赞(0) 踩(0) | <div>追随你,求你别离去。重低音是我的最爱！缓慢至停止！让我停在那个时刻！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7740827)<br><br>2013-02-19 23:36<br>赞(0) 踩(0) | <div>情绪泛滥=v=。。</div> |
@@ -1858,7 +1858,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12151069)<br><br>2013-02-06 03:26<br>赞(0) 踩(0) | <div>[心][爱你]你看命中注定的相遇啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7875860)<br>我还没想好要写什么...<br>2013-02-03 22:47<br>赞(0) 踩(0) | <div>歌词太有才了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7297729)<br>再见了，虾米。<br>2013-02-02 23:47<br>赞(0) 踩(0) | <div>......</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1915171)<br><br>2013-02-02 02:06<br>赞(1) 踩(0) | <div>其实你可以听到流泪笑着开篇哭着结束阿弥陀佛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1915171)<br><br>2013-02-02 02:06<br>赞(1) 踩(0) | <div>其实你可以听到流泪<br>笑着开篇<br>哭着结束<br>阿弥陀佛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1865141)<br><br>2013-02-01 19:08<br>赞(0) 踩(0) | <div>心声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11853633)<br><br>2013-01-31 20:53<br>赞(0) 踩(0) | <div>；</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3110390)<br><br>2013-01-31 14:17<br>赞(1) 踩(0) | <div>求你别轻言离去 因知音难觅</div> |
@@ -1866,7 +1866,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5560868)<br><br>2013-01-30 09:28<br>赞(0) 踩(0) | <div>～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2304576)<br><br>2013-01-29 09:01<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却不懂珍惜，任由时光荏苒你 追悔已莫及；虽然虽然很想你 想联络却迟疑，命中注定的相遇 都失之交臂；虽然虽然失去你 梦里仍有你，求你别轻言离去 因知音难觅。—— [泪] GALA啊GALA，这么美的词叫人如何是好啊~ @GALA乐队</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2304576)<br><br>2013-01-29 08:46<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却不懂珍惜，任由时光荏苒你 追悔已莫及；虽然虽然很想你 想联络却迟疑，命中注定的相遇 都失之交臂；虽然虽然失去你 梦里仍有你，求你别轻言离去 因知音难觅。—— [泪] GALA啊，这么美的词叫人如何是好啊~  @GALA乐队</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1964000)<br><br>2013-01-27 11:39<br>赞(0) 踩(0) | <div>女　虽然虽然很爱你 却要阉了你不然别人抢了去 不留下点滴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1964000)<br><br>2013-01-27 11:39<br>赞(0) 踩(0) | <div>女　虽然虽然很爱你 却要阉了你<br>不然别人抢了去 不留下点滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7980452)<br> <br>2013-01-27 01:06<br>赞(0) 踩(0) | <div>虽然虽然很爱你，却要焉了你，因知音难觅！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12254383)<br><br>2013-01-26 17:47<br>赞(0) 踩(0) | <div>开始没注意，听听还挺好听，后来实在疑惑，去看了下歌词。。。还真霸气。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9754931)<br><br>2013-01-23 14:24<br>赞(0) 踩(0) | <div>太阳</div> |
@@ -1875,7 +1875,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12392733)<br>中二病想治好拖延症<br>2013-01-18 01:04<br>赞(0) 踩(0) | <div>碎叫！明天Fighting！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10990538)<br><br>2013-01-17 13:19<br>赞(0) 踩(0) | <div>（女） 虽然虽然很爱你 却要阉了你 不然别人抢了去 不留下点滴（男) 虽然虽然很怨你 却仍然痴迷 怀了别人的孩子 我也没脾气。（女） 虽然虽然很怕你 却要追随你 求你别轻言离去 因知音难觅 （男） 虽然虽然很爱你 却不懂珍惜 任由时光荏苒你 追悔已莫及。一首感人至深的歌，一首一直单曲循环的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6571696)<br><br>2013-01-17 00:09<br>赞(0) 踩(0) | <div>虽然虽然...安~[月亮]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10990538)<br><br>2013-01-16 19:20<br>赞(0) 踩(0) | <div>歌词太牛了。这首歌一直再单曲循环。［虽然虽然很爱你 却要阉了你  不然别人抢了去 不留下点滴  虽然虽然很怨你 却仍然痴迷怀了别人的孩子 我也没脾气］</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10990538)<br><br>2013-01-16 19:20<br>赞(0) 踩(0) | <div>歌词太牛了。这首歌一直再单曲循环。［虽然虽然很爱你 却要阉了你  不然别人抢了去 不留下点滴  虽然虽然很怨你 却仍然痴迷<br>怀了别人的孩子 我也没脾气］</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3191017)<br>请无视我的试听排行...<br>2013-01-13 21:53<br>赞(0) 踩(0) | <div>第一句好霸气！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11290847)<br>暂无签名~<br>2013-01-12 00:11<br>赞(0) 踩(0) | <div>知音难觅，晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/158071)<br> <br>2013-01-11 19:52<br>赞(0) 踩(0) | <div>求你别轻言离去 因知音难觅</div> |
@@ -1942,7 +1942,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11640558)<br><br>2012-11-30 22:41<br>赞(0) 踩(0) | <div>歌词入心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4155127)<br><br>2012-11-30 14:21<br>赞(0) 踩(0) | <div>虽然虽然很爱你，却要阉了你。。。。。这首歌真是叫我喜欢！难怪知音难觅。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/552159)<br><br>2012-11-28 23:42<br>赞(0) 踩(0) | <div>放给九月听，哈哈。——《知音难觅》</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8596843)<br><br>2012-11-28 20:44<br>赞(0) 踩(0) | <div>两人的声音都很震撼心灵。分享给你。不要【虽然虽然很爱你，却不懂珍惜任。】不要【由时光荏苒你，追悔已莫及。】好好珍惜。@轩萧紫藤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8596843)<br><br>2012-11-28 20:44<br>赞(0) 踩(0) | <div>两人的声音都很震撼心灵。分享给你。不要【虽然虽然很爱你，却不懂珍惜任。】不要【由时光荏苒你，追悔已莫及。】好好珍惜。<br>@轩萧紫藤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210355)<br><br>2012-11-27 16:53<br>赞(0) 踩(0) | <div>泪点Forever</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4143176)<br>感谢虾米让我遇到他<br>2012-11-27 16:26<br>赞(0) 踩(0) | <div>胡八嘎！我想唱这歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/147974)<br><br>2012-11-24 20:12<br>赞(0) 踩(0) | <div>知音难觅 毫不煽情地存在</div> |
@@ -1969,7 +1969,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9849321)<br><br>2012-11-02 22:16<br>赞(0) 踩(0) | <div>知音难觅 嗨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11296368)<br><br>2012-11-01 02:19<br>赞(0) 踩(0) | <div>昨天听到的那首骊歌 原来还有这么一个版本 听了歌词以后觉得这版更内涵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6475657)<br><br>2012-11-01 01:58<br>赞(0) 踩(0) | <div>这还行！@LynnCi是林汐也是林音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11201384)<br>♡+:¡.¡❣LÛVЁ❣...<br>2012-10-31 20:52<br>赞(0) 踩(0) | <div>我中毒了，而且太深了 。太好听了呀。亲们都去听吧“知音难觅”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11201384)<br>♡+:¡.¡❣LÛVЁ❣...<br>2012-10-31 20:52<br>赞(0) 踩(0) | <div>我中毒了，而且太深了 。太好听了呀。亲们都去听吧<br>“知音难觅”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2065661)<br><br>2012-10-30 22:07<br>赞(0) 踩(0) | <div>牛掰啊……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6635908)<br><br>2012-10-30 11:30<br>赞(0) 踩(0) | <div>求你別輕言離去 因知音難覓</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4357142)<br><br>2012-10-30 05:44<br>赞(0) 踩(0) | <div>求你别轻言离去 因知音难觅</div> |
@@ -2041,7 +2041,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9565766)<br>到底怀念的是那个人，还是...<br>2012-09-03 23:10<br>赞(0) 踩(0) | <div>大爱歌词！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/724950)<br><br>2012-08-31 23:59<br>赞(0) 踩(0) | <div>分享第N次……我也不知大为毛这么喜欢之。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4242970)<br>我还没想好要写什么...<br>2012-08-31 17:55<br>赞(0) 踩(0) | <div>我换掉的电话铃声，不想终日生活在悲戚之中，我渴望的即少又太多。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3726373)<br><br>2012-08-31 14:51<br>赞(0) 踩(0) | <div>苏朵的难言和邵夷贝的轻言有反差再等等吧，等贝老一点再唱了听听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3726373)<br><br>2012-08-31 14:51<br>赞(0) 踩(0) | <div>苏朵的难言和邵夷贝的轻言有反差<br>再等等吧，等贝老一点再唱了听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/628558)<br>假如我是清流水，我也不回...<br>2012-08-31 10:29<br>赞(0) 踩(0) | <div>虽然巨讨厌邵夷贝，但是这个旋律太尼玛催泪了。。。。真的听哭了。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1703028)<br>“n55!w!" "im...<br>2012-08-31 02:56<br>赞(0) 踩(0) | <div>有个死孩子现在还没睡觉，看着看着就想到了这首歌，又重口味又小清新。那么多年了，多幸运地从没有离开过彼此的生活。“求你别轻言离去，因知音难觅。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10404389)<br>耳朵动起来~<br>2012-08-28 23:10<br>赞(0) 踩(0) | <div>第一句听到邵贝夷，然后歌词就瞎了我的狗眼....</div> |
@@ -2058,7 +2058,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5793020)<br><br>2012-08-17 03:51<br>赞(0) 踩(0) | <div>完全精神了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8715144)<br><br>2012-08-13 13:41<br>赞(0) 踩(0) | <div>求你别轻言离去，因知音难觅。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6903658)<br><br>2012-08-13 01:42<br>赞(0) 踩(0) | <div>听歌，不说话~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7496415)<br>我还没想好要写什么...<br>2012-08-12 13:54<br>赞(0) 踩(0) | <div>女　虽然虽然很爱你 却要嫣了你不然别人抢了去 不留下点滴男　虽然虽然很怨你 却仍然痴迷怀了别人的孩子 我也没脾气</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7496415)<br>我还没想好要写什么...<br>2012-08-12 13:54<br>赞(0) 踩(0) | <div>女　虽然虽然很爱你 却要嫣了你<br>不然别人抢了去 不留下点滴<br><br>男　虽然虽然很怨你 却仍然痴迷<br>怀了别人的孩子 我也没脾气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6291519)<br><br>2012-08-10 22:19<br>赞(0) 踩(0) | <div>本休已经无法听正常歌 绝对是美食天堂大不乱奥运会的错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/898280)<br><br>2012-08-09 23:52<br>赞(0) 踩(0) | <div>命中注定的相遇 都失之交臂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10150283)<br>Love with wh...<br>2012-08-09 16:24<br>赞(0) 踩(0) | <div>@大了个苗 骊歌的另一个版本~~~发现这首调子真的很不错。听到孩子的时候，觉得好别扭。还不如换成BABY呢。可是想想男生是从另外的角度唱，也就差不多了。</div> |
@@ -2089,7 +2089,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3803010)<br><br>2012-09-30 23:48<br>赞(0) 踩(0) | <div>竟然还能举报？！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/865466)<br><br>2012-07-25 23:18<br>赞(0) 踩(0) | <div>虽然虽然很爱你 却不懂珍惜 求你别轻言离去 因知音难觅！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238537)<br> <br>2012-07-25 03:52<br>赞(0) 踩(0) | <div>pretty ~ vioce ~~~~~~~~~~~touching ~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2792443)<br><br>2012-07-25 02:49<br>赞(0) 踩(0) | <div>虽然虽然很怨你 却仍然痴迷怀了别人的孩子 我也没脾气                     晚安~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2792443)<br><br>2012-07-25 02:49<br>赞(0) 踩(0) | <div>虽然虽然很怨你 却仍然痴迷<br>怀了别人的孩子 我也没脾气                     晚安~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1092667)<br>我还没想好要写什么...<br>2012-07-25 00:44<br>赞(0) 踩(0) | <div>_</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1300783)<br><br>2012-07-23 22:33<br>赞(0) 踩(0) | <div>堵°</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1263750)<br>Nothing for ...<br>2012-07-22 15:20<br>赞(0) 踩(0) | <div>“求你别轻言离去 因知音难觅”</div> |
@@ -2110,7 +2110,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1652844)<br><br>2012-07-03 12:02<br>赞(0) 踩(0) | <div>无语。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9422268)<br><br>2012-06-30 19:46<br>赞(0) 踩(0) | <div>大家都觉得不像苏朵 我觉得 还好啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8996441)<br><br>2012-06-29 16:46<br>赞(0) 踩(0) | <div>话说这首歌就是讲喜当爹么 = =</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5625587)<br><br>2012-06-28 14:02<br>赞(0) 踩(0) | <div>【女】：　虽然虽然很爱你 却要腌了你不然别人抢了去 不留下点滴【男】：　虽然虽然很怨你 却仍然痴迷怀了别人的孩子 我也没脾气</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5625587)<br><br>2012-06-28 14:02<br>赞(0) 踩(0) | <div>【女】：　虽然虽然很爱你 却要腌了你<br>不然别人抢了去 不留下点滴<br><br>【男】：　虽然虽然很怨你 却仍然痴迷<br>怀了别人的孩子 我也没脾气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83933)<br><br>2012-06-26 23:41<br>赞(0) 踩(0) | <div>虽然虽然很爱你，却要咽了你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4242904)<br><br>2012-06-25 20:14<br>赞(0) 踩(0) | <div>诶呀 好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6048994)<br>活在爱情里的人 才会永远...<br>2012-06-25 19:00<br>赞(0) 踩(0) | <div>这如同化了的冰棍一样黏黏的夏天</div> |

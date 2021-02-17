@@ -27,5 +27,3 @@ To that's enough to make a man stare
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

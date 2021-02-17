@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0e95a106d4a179d00a7bb5c2093523ee.jpg)<br>张萌川](https://i.xiami.com/zmc) | **播放数**: 2042000<br>**粉丝数**: 156<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 古风 GuFeng Music, 流行 Pop<br> |
+| [![](../../images/musicians/0e95a106d4a179d00a7bb5c2093523ee.jpg)<br>张萌川](https://i.xiami.com/zmc) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 古风 GuFeng Music, 流行 Pop<br>**播放数**: 2042000<br>**粉丝数**: 156<br>**评论数**: 8<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -29,8 +26,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339086411)<br>愿你，冬来温雪，夏来赏荷...<br>2020-03-02 09:44<br>赞(0) 踩(0) | <div>还挺好听的，继续加油哦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328657369)<br>风格随心而变、<br>2019-12-09 16:26<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39595356)<br><br>2019-08-10 10:22<br>赞(1) 踩(0) | <div>喜欢你的声音，加油＾０＾~</div> |

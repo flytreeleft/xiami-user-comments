@@ -3,7 +3,7 @@ J.R.G.
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/876a60346eed552dc8a79930ca9fcbac.jpg)<br>J.R.G.](https://i.xiami.com/jrg) | **播放数**: 3096402<br>**粉丝数**: 297<br>**评论数**: 12<br>**地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 迪斯科 Disco<br> |
+| [![](../../images/musicians/876a60346eed552dc8a79930ca9fcbac.jpg)<br>J.R.G.](https://i.xiami.com/jrg) | **地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 迪斯科 Disco<br>**播放数**: 3096402<br>**粉丝数**: 297<br>**评论数**: 12<br> |
 
 ## 档案
 
@@ -23,8 +23,8 @@ Michael Gonzales aka J.R.G. 是一位来自加利福尼亚，现居在北京的D
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301472211)<br><br>2019-11-02 19:28<br>赞(1) 踩(0) | <div>我把浩室看成了浴室舞曲 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6473871)<br><br>2019-08-29 02:23<br>赞(0) 踩(0) | <div>好听，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7320927)<br><br>2019-05-07 21:44<br>赞(1) 踩(0) | <div>华为荣耀有点厉害，自带音乐终于脱离“土海”了</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/46f3e5ae8a03c8603385ec1cd17865ec.jpg)<br>伦桑](https://i.xiami.com/lunsang) | **播放数**: 22836337<br>**粉丝数**: 14804<br>**评论数**: 210<br>**地区**: China 中国大陆<br>**风格**: 网络流行 Cyber Hit, 古风 GuFeng Music, 流行 Pop<br> |
+| [![](../../images/musicians/46f3e5ae8a03c8603385ec1cd17865ec.jpg)<br>伦桑](https://i.xiami.com/lunsang) | **地区**: China 中国大陆<br>**风格**: 网络流行 Cyber Hit, 古风 GuFeng Music, 流行 Pop<br>**播放数**: 22836337<br>**粉丝数**: 14804<br>**评论数**: 210<br> |
 
 ## 档案
 
@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433206133)<br><br>2020-07-11 17:05<br>赞(1) 踩(0) | <div>这声音，太️了 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342038768)<br>pucikaka don...<br>2020-05-03 19:48<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364031101)<br><br>2020-03-16 11:13<br>赞(3) 踩(0) | <div>喜欢伦桑这件事真是一件很莫名其妙的一件事</div> |
@@ -76,7 +76,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423697519)<br>我QQ号：2151830...<br>2019-05-25 15:28<br>赞(0) 踩(0) | <div>我想问一下你们为什么那么喜欢明星明星也会那个的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426669652)<br>再见虾米。<br>2019-07-06 02:15<br>赞(0) 踩(0) | <div>哪个</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423338871)<br><br>2019-04-17 22:39<br>赞(0) 踩(0) | <div>很好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337185561)<br>后会有期。<br>2019-04-14 12:44<br>赞(0) 踩(0) | <div>这里的歌少了很多呐可惜可惜但还是很开心很开心伦老大能在虾米会一直喜欢你的( ´͈ ⌵ `͈ )σண♡</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337185561)<br>后会有期。<br>2019-04-14 12:44<br>赞(0) 踩(0) | <div>这里的歌少了很多呐可惜可惜<br>但还是很开心很开心伦老大能在虾米<br>会一直喜欢你的( ´͈ ⌵ `͈ )σண♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420047672)<br><br>2019-03-29 12:38<br>赞(0) 踩(0) | <div>…伦桑的歌好多都么得啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409965915)<br><br>2019-03-27 09:48<br>赞(0) 踩(0) | <div>山有木兮真的超级好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11194223)<br>诶嘿呦诶嘿<br>2019-03-22 21:02<br>赞(0) 踩(0) | <div>虾米推送的 好听哭了 粉了</div> |
@@ -100,7 +100,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205417537)<br>听见边伯贤的声音就会窒息<br>2018-08-12 11:14<br>赞(10) 踩(0) | <div>很好听很喜欢你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43445401)<br><br>2018-08-11 23:08<br>赞(2) 踩(0) | <div>沧海一声笑为什么这里没有！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38947137)<br><br>2018-06-17 20:55<br>赞(1) 踩(0) | <div>好好听的声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81839118)<br>我见诸君多有病 料诸君见...<br>2018-06-16 18:09<br>赞(4) 踩(0) | <div>虾米的艺人简介简单的连字都没有真草率【表白我家伦桑】</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81839118)<br>我见诸君多有病 料诸君见...<br>2018-06-16 18:09<br>赞(4) 踩(0) | <div>虾米的艺人简介简单的连字都没有<br>真草率<br>【表白我家伦桑】</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96874456)<br><br>2018-06-10 15:24<br>赞(2) 踩(0) | <div>身无彩凤双飞翼，心有灵犀一点通</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374702447)<br><br>2018-06-10 12:09<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374229394)<br><br>2018-05-31 20:16<br>赞(1) 踩(0) | <div>疯狂表白我桑桑</div> |
@@ -108,7 +108,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363513450)<br><br>2018-05-11 21:46<br>赞(1) 踩(0) | <div>像</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363513450)<br><br>2018-05-11 21:45<br>赞(1) 踩(0) | <div>声音和我同学的很想很想</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204092528)<br>但愿我可以没成长完全凭直...<br>2018-05-02 01:56<br>赞(1) 踩(0) | <div>想听你唱《体面》</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52728415)<br>忍着言不由衷的段落<br>2018-04-29 11:53<br>赞(1) 踩(0) | <div>为什么我伦桑的歌这么少呜呜啊呜我永远喜欢桑桑</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52728415)<br>忍着言不由衷的段落<br>2018-04-29 11:53<br>赞(1) 踩(0) | <div>为什么我伦桑的歌这么少呜呜<br>啊呜我永远喜欢桑桑</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369471729)<br>用来听瓦伦桑的歌<br>2018-05-20 11:59<br>赞(0) 踩(0) | <div>不是的 他的歌超级多 微博或者贴吧都有大量的歌包 特别是YY的录音呀 还有那些现场的商演 他是个能完美驾驭各种曲风的狮子座汉子哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288266954)<br><br>2018-04-26 23:13<br>赞(0) 踩(0) | <div>r嗓子不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47907855)<br>我还没想好要写什么...<br>2018-04-22 12:24<br>赞(0) 踩(0) | <div>孔雀东南飞呢</div> |
@@ -184,7 +184,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72866822)<br> <br>2017-08-10 14:27<br>赞(0) 踩(0) | <div>就喜欢这样的声音款</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316651624)<br><br>2017-08-01 22:07<br>赞(0) 踩(0) | <div>没有最喜欢的烟雨行舟，，这歌也太少了点吧。不开心&amp;amp;gt;_</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302773132)<br><br>2017-07-31 18:33<br>赞(0) 踩(0) | <div>声音好好听 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286540627)<br>享受一个人的音乐…享受音...<br>2017-07-28 23:54<br>赞(2) 踩(0) | <div>伦桑的歌都不见了&amp;hellip;好桑心&amp;hellip;果然，听古风音乐只能在网易云或着酷狗&amp;hellip;</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286540627)<br>享受一个人的音乐…享受音...<br>2017-07-28 23:54<br>赞(2) 踩(0) | <div>伦桑的歌都不见了&amp;hellip;好桑心&amp;hellip;<br>果然，听古风音乐只能在网易云或着酷狗&amp;hellip;</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281457015)<br><br>2017-08-29 05:57<br>赞(0) 踩(0) | <div>酷狗歌是多点，可惜我们在海外的人听不到，全灰了。多亏虾米的关照</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143243198)<br><br>2017-09-26 13:06<br>赞(0) 踩(0) | <div><q><b>、雨落说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281457015)<br><br>2017-10-27 19:36<br>赞(0) 踩(0) | <div><q><b>虾仁玉米说：</b></q></div> |
@@ -234,7 +234,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208671429)<br><br>2016-09-27 00:52<br>赞(1) 踩(0) | <div>伦仙一生推有木有♪(^∇^*)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229982618)<br>just like<br>2016-09-25 19:43<br>赞(0) 踩(0) | <div>低音炮，好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52574203)<br>二次，cpy文学，cp又...<br>2016-09-10 14:14<br>赞(1) 踩(0) | <div>求更多老大的歌啊啊啊啊啊啊啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178741906)<br>不知道不明了不想要<br>2016-06-05 19:40<br>赞(1) 踩(0) | <div>童鞋推荐的好听(ง •̀_•́)ง她稀饭老大和仙儿Nice <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178741906)<br>不知道不明了不想要<br>2016-06-05 19:40<br>赞(1) 踩(0) | <div>童鞋推荐的<br>好听(ง •̀_•́)ง<br>她稀饭老大和仙儿<br>Nice <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20818121)<br><br>2016-05-20 23:01<br>赞(0) 踩(0) | <div>即春谣呢!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93185878)<br> <br>2016-05-14 19:44<br>赞(0) 踩(0) | <div>老大你的天地缓缓呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93226796)<br>只见雪色映衣袂，抚琴月显...<br>2016-04-17 08:44<br>赞(0) 踩(0) | <div>对不起哈，我忘了《广寒》不是你唱的</div> |

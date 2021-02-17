@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/bfbbe5e6cb86d99ddf75081833e3c380.jpg)<br>许哲珮](https://i.xiami.com/peggyhsu) | **播放数**: 28842610<br>**粉丝数**: 36456<br>**评论数**: 740<br>**地区**: Taiwan, PRC 中国台湾<br>**风格**: 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/bfbbe5e6cb86d99ddf75081833e3c380.jpg)<br>许哲珮](https://i.xiami.com/peggyhsu) | **地区**: Taiwan, PRC 中国台湾<br>**风格**: 独立流行 Indie Pop<br>**播放数**: 28842610<br>**粉丝数**: 36456<br>**评论数**: 740<br> |
 
 ## 档案
 
@@ -37,11 +37,11 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4971096)<br>会永远记得这片让你热爱的...<br>2021-01-08 09:51<br>赞(0) 踩(0) | <div>从大学听到2021</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-13 10:14<br>赞(0) 踩(0) | <div>18701</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12904036)<br>。<br>2020-10-12 05:00<br>赞(1) 踩(0) | <div>我喜欢peggy的14年。是马戏团巡回的微笑对视和没能送出的笔记本。是糖果live的第一排。是签名的系列全专。是会唱的所有你的歌。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12904036)<br>。<br>2020-10-12 05:00<br>赞(1) 踩(0) | <div>我喜欢peggy的14年。<br>是马戏团巡回的微笑对视和没能送出的笔记本。<br>是糖果live的第一排。<br>是签名的系列全专。<br>是会唱的所有你的歌。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407263269)<br>筒单生活，快乐健康<br>2020-07-23 12:00<br>赞(1) 踩(0) | <div>声音有特色。喜欢，收了 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304640418)<br><br>2020-01-19 16:15<br>赞(2) 踩(0) | <div>从小听到大</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356043426)<br>山不厌高，海不厌深。<br>2019-12-27 02:02<br>赞(2) 踩(0) | <div>初听即藏 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
@@ -70,11 +70,11 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307515489)<br><br>2018-08-06 01:17<br>赞(1) 踩(0) | <div>亲爱的 你会红的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319054563)<br>我还没想好要写什么...<br>2018-07-10 18:49<br>赞(1) 踩(0) | <div>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/550969)<br>雞翅如我<br>2018-05-31 10:43<br>赞(3) 踩(0) | <div>佩琦好棒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72229668)<br> <br>2018-04-06 18:40<br>赞(2) 踩(0) | <div>无意间听到这首歌，很安静，很好。希望你能继续加油</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72229668)<br> <br>2018-04-06 18:40<br>赞(2) 踩(0) | <div>无意间听到这首歌，很安静，很好。<br>希望你能继续加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11457644)<br>缺胜于丰<br>2018-02-22 15:28<br>赞(3) 踩(0) | <div>从初中开始喜欢你了，昨天在街头突然哼起了你的歌，就来听了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268727134)<br>。<br>2018-02-17 10:20<br>赞(2) 踩(0) | <div>记得是小学四五年级的时候看飒漫画，首页会有推荐的歌曲，第一次充满好奇的搜索，奇幻精品店，是我入坑的一首歌现在已经高一了！想想那么多年，真是越来越喜欢你了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268727134)<br>。<br>2018-02-17 10:20<br>赞(2) 踩(0) | <div>记得是小学四五年级的时候看飒漫画，首页会有推荐的歌曲，第一次充满好奇的搜索，奇幻精品店，是我入坑的一首歌<br>现在已经高一了！想想那么多年，真是越来越喜欢你了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71310342)<br>废了还填啥！<br>2018-01-16 13:08<br>赞(4) 踩(0) | <div>一首气球，思绪又拉回到大学&amp;hellip;&amp;hellip;</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/492360)<br>失恋不是自杀的借口 继续...<br>2018-01-03 11:07<br>赞(3) 踩(0) | <div>Twinkle twinkle little starHow I wonder what you are</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/492360)<br>失恋不是自杀的借口 继续...<br>2018-01-03 11:07<br>赞(3) 踩(0) | <div>Twinkle twinkle little star<br>How I wonder what you are</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/492360)<br>失恋不是自杀的借口 继续...<br>2018-01-03 11:05<br>赞(1) 踩(0) | <div>Little Wishing Star？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252529835)<br>Meanwhile in...<br>2017-12-26 09:12<br>赞(10) 踩(0) | <div>许哲珮居然更新了个人简介！好惊喜！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23635743)<br>酸<br>2017-11-30 00:44<br>赞(7) 踩(0) | <div>如果说本命歌手 一定是我家Peggy啦</div> |
@@ -124,8 +124,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37132930)<br> <br>2015-09-17 21:13<br>赞(2) 踩(0) | <div>喜欢没落贵族，游泳圈和长头发！最喜欢的华语女歌手之一</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46287668)<br><br>2015-09-16 16:53<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2688581)<br><br>2015-09-15 22:52<br>赞(0) 踩(0) | <div>新专辑赞一个，适合静静的听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774208)<br>我还没想好要写什么...<br>2015-09-12 23:02<br>赞(0) 踩(0) | <div>10月5日，许哲佩在上海简单生活节演出，新专辑发行后的内地首演噢！！不能错过大麦：<a href="http://item.damai.cn/85484.html" target="_blank" rel="nofollow noreferrer noopener">http://item.damai.cn/85484.html</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54893890)<br><br>2015-09-11 14:50<br>赞(0) 踩(0) | <div>奇幻精品店！果然还是喜欢这样温柔空灵的声音</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774208)<br>我还没想好要写什么...<br>2015-09-12 23:02<br>赞(0) 踩(0) | <div>10月5日，许哲佩在上海简单生活节演出，新专辑发行后的内地首演噢！！不能错过<br><br>大麦：<a href="http://item.damai.cn/85484.html" target="_blank" rel="nofollow noreferrer noopener">http://item.damai.cn/85484.html</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54893890)<br><br>2015-09-11 14:50<br>赞(0) 踩(0) | <div>奇幻精品店！<br>果然还是喜欢这样温柔空灵的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2925823)<br> <br>2015-08-27 19:36<br>赞(0) 踩(0) | <div>新专辑快出来了，期待</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39988799)<br>做三品女孩：甜品，饮品，...<br>2015-08-16 07:45<br>赞(0) 踩(0) | <div>啊啊啊啊现在突然想想我喜欢peggy也有快10年整了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39988799)<br>做三品女孩：甜品，饮品，...<br>2015-08-16 07:44<br>赞(0) 踩(0) | <div>期待新专辑</div> |
@@ -158,7 +158,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39709274)<br><br>2015-01-03 21:06<br>赞(0) 踩(0) | <div>。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42837644)<br><br>2014-12-26 23:53<br>赞(0) 踩(0) | <div>我就为了 疯子 这首歌，可惜没有、</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41772659)<br><br>2015-03-17 12:54<br>赞(0) 踩(0) | <div>有阿</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:21<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:21<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31659762)<br><br>2014-12-15 11:57<br>赞(0) 踩(0) | <div>精灵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7440866)<br><br>2014-12-10 20:58<br>赞(0) 踩(0) | <div>当年看宪哥的节目知道了有这么一个人，一直都还蛮喜欢的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5826937)<br><br>2014-12-09 20:22<br>赞(0) 踩(0) | <div>很喜欢那种奇幻的味道</div> |
@@ -191,7 +191,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37155445)<br> <br>2014-06-06 15:31<br>赞(0) 踩(0) | <div>喜欢的台湾女声，独特的曲调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35161240)<br><br>2014-05-17 00:09<br>赞(0) 踩(0) | <div>还是很有辨识度的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32222475)<br>音乐在流泪 歌词在疗伤<br>2014-05-13 23:09<br>赞(0) 踩(0) | <div>没有疯子？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6248831)<br>눈_눈<br>2014-05-09 20:15<br>赞(0) 踩(0) | <div>高中听过一首哲佩的《一个人浪漫》很特别冰雪玲珑的感觉~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6248831)<br>눈_눈<br>2014-05-09 20:15<br>赞(0) 踩(0) | <div>高中听过一首哲佩的《一个人浪漫》<br>很特别<br>冰雪玲珑的感觉~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36634607)<br><br>2014-05-19 20:42<br>赞(0) 踩(0) | <div>533 日化8孤帆远影突然8醋有3 437444</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2014-05-07 16:19<br>赞(0) 踩(0) | <div>欣赏</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2102200)<br>When you wis...<br>2014-05-07 14:01<br>赞(0) 踩(0) | <div>精灵~小确幸~的音乐</div> |
@@ -226,7 +226,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9632708)<br><br>2014-02-24 21:43<br>赞(0) 踩(0) | <div>啥时候发新专辑呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12883873)<br>自信自强<br>2014-02-23 19:10<br>赞(0) 踩(0) | <div>气球，很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9714648)<br>人生，需要揭穿<br>2014-02-21 17:43<br>赞(0) 踩(0) | <div>欢迎入住，，我最喜欢的是您的《长头发》</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361171)<br>音乐响起.又是美好的一天<br>2014-02-20 14:35<br>赞(0) 踩(0) | <div>零零散散的 写了 Peggy有关   大约20W字有了她的 部落格 一直在跟进  听歌生涯中 唯一雪藏的专辑  就是 Peggy的跟着她的 足迹 神游奇幻音乐 以及周边 喜爱她喜爱的一切 以及另一个她那个 属于我的‘我’的 ‘她’  在我生命中 画上了彩色的瞬间!~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361171)<br>音乐响起.又是美好的一天<br>2014-02-20 14:35<br>赞(0) 踩(0) | <div>零零散散的 写了 Peggy有关   大约20W字有了<br>她的 部落格 一直在跟进  听歌生涯中 唯一雪藏的专辑  就是 Peggy的<br>跟着她的 足迹 神游奇幻音乐 以及周边 喜爱她喜爱的一切 以及另一个她<br>那个 属于我的‘我’的 ‘她’  在我生命中 画上了彩色的瞬间!~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243327)<br>命短し、恋せよ少女<br>2014-02-19 16:41<br>赞(0) 踩(0) | <div>大爱Peggy！！！！！！从初中第一次听她的音乐到现在一直没有变过！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/787654)<br><br>2014-02-18 14:11<br>赞(1) 踩(0) | <div>都是虾米音乐人了，下架的专辑也该上架了吧。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32864135)<br><br>2014-02-17 19:40<br>赞(525) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |
@@ -260,7 +260,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5737411)<br>rice maple<br>2014-02-17 10:27<br>赞(0) 踩(0) | <div>欢迎入驻！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2014-02-02 15:24<br>赞(0) 踩(0) | <div>生日快乐呀，期待今年的新专辑！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3624586)<br>天使微笑<br>2014-02-02 11:48<br>赞(0) 踩(0) | <div>happy birthday</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7322777)<br>∮<br>2014-02-02 04:24<br>赞(1) 踩(0) | <div>蝦米通知:生日快樂</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7322777)<br>∮<br>2014-02-02 04:24<br>赞(1) 踩(0) | <div>蝦米通知:<br><br>生日快樂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7029024)<br>唯爱朱丹戚薇今日子明菜<br>2014-01-24 08:50<br>赞(3) 踩(0) | <div>五年前因为麦霸英雄汇白静唱了她的《气球》而知道她。然后搜了她的歌听。一听就爱上了无法自拔。我是学音乐的。从三年前开始攻音乐创作，包括作词作曲编曲什么的。当我知道她每一首歌都是自己词曲编曲和声的时候真心惊叹。身材娇小的她有很强大的艺术内涵。Peggy真的很厉害。我很崇拜她。虽然她的童话风在大陆比较冷门，不过真的很独特，每一首歌都很好听。新人一开始听Peggy这种风格可能听不太惯。不过听多了真的就会爱上。除了代表作气球。我还推荐小资爵士风的《该死的高跟鞋》、诡异律动风的《深渊的蝴蝶》、钢琴D大调小清新《长头发》等。细细品味每一首歌，进入Peggy的奇妙童话世界。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/957179)<br><br>2014-01-20 21:52<br>赞(0) 踩(0) | <div>美丽的声线</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3781923)<br>别拒绝上帝。<br>2014-01-14 00:05<br>赞(0) 踩(0) | <div>气球</div> |
@@ -302,7 +302,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8791150)<br><br>2013-06-12 09:43<br>赞(0) 踩(0) | <div>喜欢这个调调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3730719)<br>暂无签名~<br>2013-06-11 22:52<br>赞(0) 踩(0) | <div>与童话，与顾城有关。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3917356)<br>rainny<br>2013-06-11 16:54<br>赞(0) 踩(0) | <div>balloon....</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15516071)<br>Liiiii<br>2013-05-31 10:43<br>赞(0) 踩(0) | <div>嗓音乾淨曲風奇幻</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15516071)<br>Liiiii<br>2013-05-31 10:43<br>赞(0) 踩(0) | <div>嗓音乾淨<br>曲風奇幻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8329421)<br>时光不及你眉眼<br>2013-05-30 22:14<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15367732)<br><br>2013-05-21 16:30<br>赞(0) 踩(0) | <div>喜歡氣球</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415846)<br><br>2013-05-18 20:54<br>赞(0) 踩(0) | <div>mark</div> |
@@ -325,7 +325,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299820)<br><br>2013-03-03 10:52<br>赞(0) 踩(0) | <div>like</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13289675)<br><br>2013-03-01 19:37<br>赞(0) 踩(0) | <div>疯子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5904635)<br>无<br>2013-02-27 16:01<br>赞(0) 踩(0) | <div>正喔</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3920064)<br><br>2013-02-25 16:28<br>赞(0) 踩(0) | <div>..............................................................</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3920064)<br><br>2013-02-25 16:28<br>赞(0) 踩(0) | <div>..............................<br>..............................<br>..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13193128)<br>守敬<br>2013-02-23 16:53<br>赞(0) 踩(0) | <div>.........</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12804354)<br>乱弹<br>2013-02-22 15:54<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12982380)<br><br>2013-02-10 09:37<br>赞(0) 踩(0) | <div>疯子</div> |
@@ -342,7 +342,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12536385)<br>一棵白菜<br>2013-01-20 19:15<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230106)<br><br>2013-01-18 05:35<br>赞(0) 踩(0) | <div>竟然和我一天生日。。。水瓶座出人才啊 哈哈！~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157355)<br>榕树长青<br>2013-01-12 18:00<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2013-01-05 05:35<br>赞(143) 踩(0) | <div>说许哲珮是小清新的，应该听听她的《蛔虫》《爽约》《蝇》《无赖》《没落贵族》《Ice Hotel》尤其是蛔虫的编曲和和声【另外她的准确名字是“许哲珮”不是“佩”】说这条的原因，只是不希望别人给她打小清新的标签。毕竟在我的认知中，只有一天到晚除了小清新以外什么风格都无法驾驭的，才叫小清新。而且我其实也不嫌弃小清新，只要够可爱。但我不喜欢一成不变吃老本的歌手</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2013-01-05 05:35<br>赞(143) 踩(0) | <div>说许哲珮是小清新的，应该听听她的《蛔虫》《爽约》《蝇》《无赖》《没落贵族》《Ice Hotel》<br>尤其是蛔虫的编曲和和声【另外她的准确名字是“许哲珮”不是“佩”】说这条的原因，只是不希望别人给她打小清新的标签。毕竟在我的认知中，只有一天到晚除了小清新以外什么风格都无法驾驭的，才叫小清新。而且我其实也不嫌弃小清新，只要够可爱。但我不喜欢一成不变吃老本的歌手</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1786212)<br><br>2013-01-22 14:00<br>赞(0) 踩(0) | <div>赞赞赞，，，小清新你妹哦</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2013-01-22 21:07<br>赞(0) 踩(0) | <div><q><b>一辈子其实也不长说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1786212)<br><br>2013-01-25 15:01<br>赞(0) 踩(0) | <div><q><b>tlmgt说：</b></q></div> |
@@ -385,7 +385,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7299214)<br><br>2012-12-12 02:26<br>赞(0) 踩(0) | <div>童话……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7299214)<br><br>2012-12-12 02:23<br>赞(0) 踩(0) | <div>童话……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1187450)<br>给我老实点<br>2012-12-10 17:50<br>赞(0) 踩(0) | <div>声音好甜好甜那~  恰一口喔</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/645256)<br><br>2012-12-07 20:47<br>赞(0) 踩(0) | <div>innr8yunn   y76y65555555555555555555555575ytuyhti5tueeeeuygggdiuddbtgrghygthyhf hhhn 6u66666jrf447jtoyy.t\jbgbghghg9yohoyoyoouoooooooi66666666666676utu97 ug</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/645256)<br><br>2012-12-07 20:47<br>赞(0) 踩(0) | <div>innr8yunn   y76y65555555555555555555555575ytuyhti5tueeeeuygggdiuddbtgrghygthyhf hhhn 6u66666jrf447jtoyy.<br>t\jbgbghghg9yohoyoyoouoooooooi66666666666676utu97 ug</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6209181)<br>没有音乐的世界没有颜色<br>2012-11-26 00:18<br>赞(0) 踩(0) | <div>气球</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11606776)<br><br>2012-11-23 00:18<br>赞(0) 踩(0) | <div>einsam</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11606776)<br><br>2012-11-23 00:18<br>赞(0) 踩(0) | <div>along</div> |
@@ -497,7 +497,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6722188)<br><br>2011-11-11 01:06<br>赞(0) 踩(0) | <div>夢幻音樂國度</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6649721)<br><br>2011-11-10 23:45<br>赞(0) 踩(0) | <div>精灵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286296)<br>要年轻干净的活着<br>2011-11-10 23:39<br>赞(0) 踩(0) | <div>台湾的冬天也下雪麽？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4178207)<br><br>2011-11-09 14:40<br>赞(0) 踩(0) | <div>偶然发现的惊喜，所有的调调都那么喜欢相见恨晚</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4178207)<br><br>2011-11-09 14:40<br>赞(0) 踩(0) | <div>偶然发现的惊喜，所有的调调都那么喜欢<br>相见恨晚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6692719)<br> <br>2011-11-09 00:22<br>赞(0) 踩(0) | <div>气球，第一次听是张敬轩和王苑之翻唱的，今天听原版了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3402233)<br><br>2011-11-08 20:27<br>赞(0) 踩(0) | <div>从气球开始就喜欢了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2765048)<br><br>2011-11-08 16:01<br>赞(0) 踩(0) | <div>我怎么那么喜欢你··peggy</div> |
@@ -588,7 +588,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4820864)<br>生活在别处<br>2011-07-12 16:21<br>赞(0) 踩(0) | <div>永远喜欢，支持不变！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/700870)<br>爬墙爬过一圈，还是离不开<br>2011-07-10 10:33<br>赞(0) 踩(0) | <div>听水晶球的时候被狠狠震撼了。这个姑娘的音乐，像在一个庞大而繁复的镜子迷宫里兜转，有各种童话的情节和看不清的面孔。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1230762)<br>什么声音动听<br>2011-07-10 00:38<br>赞(0) 踩(0) | <div>我听过最好听的女声</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084737)<br><br>2011-07-09 11:31<br>赞(0) 踩(0) | <div>美好的气球</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084737)<br><br>2011-07-09 11:31<br>赞(0) 踩(0) | <div>美好的<br><br>气球</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4374969)<br>颠沛流离的船<br>2011-07-07 00:09<br>赞(0) 踩(0) | <div>清新而又特别的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4757869)<br><br>2011-07-06 20:44<br>赞(0) 踩(0) | <div>游荡中还是游荡。挣扎中还是挣扎。向往中依然向往。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4753174)<br><br>2011-07-06 12:16<br>赞(0) 踩(0) | <div>软绵绵的声音。小清新。像是晨间花瓣上的一滴小露珠。</div> |
@@ -710,7 +710,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2881966)<br><br>2011-03-10 00:23<br>赞(0) 踩(0) | <div>我就是甜美 独立的女声控 没办法</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2568911)<br><br>2011-03-05 22:21<br>赞(0) 踩(0) | <div>喜欢~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2068096)<br>消失的光年<br>2011-03-03 19:52<br>赞(0) 踩(0) | <div>额~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2068096)<br>消失的光年<br>2011-03-03 19:39<br>赞(0) 踩(0) | <div>很独特的她。其实我只是听了疯子而喜欢她的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2068096)<br>消失的光年<br>2011-03-03 19:39<br>赞(0) 踩(0) | <div>很独特的她。<br>其实我只是听了疯子而喜欢她的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3047372)<br><br>2011-03-02 20:35<br>赞(0) 踩(0) | <div>声音清澈干净</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2594321)<br><br>2011-02-27 12:55<br>赞(0) 踩(0) | <div>声音不错，有点像催眠！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2832165)<br> <br>2011-02-27 09:37<br>赞(0) 踩(0) | <div>挺好的</div> |
@@ -724,7 +724,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257053)<br>call me cat<br>2011-02-19 09:29<br>赞(0) 踩(0) | <div>听好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1830963)<br><br>2011-02-17 15:24<br>赞(0) 踩(0) | <div>她这种小声音我永远发不出来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/725668)<br><br>2011-02-17 14:02<br>赞(0) 踩(0) | <div>很喜欢的调调！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/725668)<br><br>2011-02-17 14:01<br>赞(0) 踩(0) | <div>很喜欢  很喜欢  很喜欢支持下！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/725668)<br><br>2011-02-17 14:01<br>赞(0) 踩(0) | <div>很喜欢  很喜欢  很喜欢<br><br>支持下！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1916485)<br><br>2011-02-16 22:42<br>赞(0) 踩(0) | <div>很感触</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2709705)<br>ただ抱きしめる ..<br>2011-02-16 22:36<br>赞(0) 踩(0) | <div>清新 独立音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1496581)<br><br>2011-02-16 17:08<br>赞(0) 踩(0) | <div>自由，很久没有的小清新，气球。</div> |
@@ -759,7 +759,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2534742)<br><br>2011-01-19 17:12<br>赞(0) 踩(0) | <div>清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2531480)<br><br>2011-01-18 15:20<br>赞(0) 踩(0) | <div>Peggy·s  melody...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2502282)<br><br>2011-01-16 23:39<br>赞(0) 踩(0) | <div>超爱她有创意的旋律和歌词</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2516774)<br><br>2011-01-16 21:11<br>赞(0) 踩(0) | <div>红的蓝的绿的灰的........喜欢这样的feel...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2516774)<br><br>2011-01-16 21:11<br>赞(0) 踩(0) | <div>红的蓝的绿的灰的........<br>喜欢这样的feel...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2512822)<br><br>2011-01-16 14:17<br>赞(0) 踩(0) | <div>喜欢气球。有耐力的丫</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2353383)<br>谁能凭爱意要富士山私有<br>2011-01-13 17:08<br>赞(0) 踩(0) | <div>气球，一辈子都不会忘记这首歌。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1115634)<br><br>2011-01-11 13:42<br>赞(0) 踩(0) | <div>第一次被她的声音秒到以及是九年前的是了 何老师主持的音乐节目推荐的 如今依然秒</div> |
@@ -769,7 +769,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1272143)<br><br>2010-12-18 12:19<br>赞(0) 踩(0) | <div>她的声音很美好，小资情调很浪漫~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1724011)<br> <br>2010-10-23 20:40<br>赞(0) 踩(0) | <div>浪漫的小资情调，温馨的感情记忆，淡然的情绪，文艺的氛围，一个小女人的大世界。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1252731)<br><br>2010-08-01 12:22<br>赞(0) 踩(0) | <div>最喜欢长头发！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1201969)<br><br>2010-07-20 19:34<br>赞(0) 踩(0) | <div>黑的白的紅的紫的.....好多氣球 飛呀飛 飛呀飛</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1201969)<br><br>2010-07-20 19:34<br>赞(0) 踩(0) | <div>黑的白的紅的紫的.....<br><br>好多氣球 飛呀飛 飛呀飛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/766710)<br><br>2010-05-24 11:39<br>赞(0) 踩(0) | <div>前天去看了美好雪人LIVE哦！！！声音在现场更有力量，很棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/909720)<br><br>2010-05-22 10:46<br>赞(0) 踩(0) | <div>以前很少听她的，发现还不错！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/876297)<br><br>2010-05-12 14:40<br>赞(0) 踩(0) | <div>从她的第一张专辑开始喜欢她~想念几年前下午听到的舒服的歌~玻璃丝袜</div> |

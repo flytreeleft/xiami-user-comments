@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2f9b9af4e38904224c0e665d3dc10942.jpg)<br>孙佳](https://i.xiami.com/sunjia72) | **播放数**: 1759374<br>**粉丝数**: 57<br>**评论数**: 5<br>**地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/2f9b9af4e38904224c0e665d3dc10942.jpg)<br>孙佳](https://i.xiami.com/sunjia72) | **地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 1759374<br>**粉丝数**: 57<br>**评论数**: 5<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,8 +18,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353914492)<br><br>2020-04-27 17:26<br>赞(1) 踩(0) | <div>多愁善感的阳光磁声可以疗伤&amp;hellip;&amp;hellip;谢谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376432627)<br>我还没想好要写什么...<br>2019-02-14 10:45<br>赞(1) 踩(0) | <div>愿有更多佳作问世。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262507549)<br>我喜欢走心，不管歌词<br>2018-03-29 21:38<br>赞(1) 踩(0) | <div>知道了(҂⌣̀_⌣́)</div> |

@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369575480)<br><br>2018-12-14 13:35<br>赞(0) 踩(0) | <div>曾经走错方向的自己，永远丢不掉儿时心思</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369575480)<br><br>2018-12-14 13:35<br>赞(0) 踩(0) | <div>曾经走错方向的自己，<br>永远丢不掉儿时心思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353454752)<br>陶冶情操<br>2018-05-19 11:28<br>赞(0) 踩(0) | <div>难以割舍的家乡情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348068996)<br><br>2018-02-27 12:16<br>赞(0) 踩(0) | <div>朋友圈</div> |

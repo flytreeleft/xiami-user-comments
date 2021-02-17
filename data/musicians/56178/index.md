@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3af136b9c80f579656e8110fa7e4774f.jpg)<br>五条人](https://i.xiami.com/wutiaoren) | **播放数**: 6293774<br>**粉丝数**: 20408<br>**评论数**: 449<br>**地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 自由民谣 Free Folk<br> |
+| [![](../../images/musicians/3af136b9c80f579656e8110fa7e4774f.jpg)<br>五条人](https://i.xiami.com/wutiaoren) | **地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 自由民谣 Free Folk<br>**播放数**: 6293774<br>**粉丝数**: 20408<br>**评论数**: 449<br> |
 
 ## 档案
 
@@ -35,15 +35,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-18 10:09<br>赞(0) 踩(0) | <div>43268</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351768902)<br>爱不重·不生婆娑  念不...<br>2020-12-16 19:59<br>赞(1) 踩(0) | <div>让&amp;lsquo;五条人&amp;rsquo;有更大知名度的约下没有看，但从推送看了翻唱伍佰那首和阿珍爱上了阿强，可谓是为节目量身定制，唱腔 项链 还有说唱 为了演而演，就是没有唱阿珍爱上了阿强，感觉风格上tele比sg更适合仁科。二手舞台离观众越来越远，高虎穿上了国际大牌，汪是一线明星，天笑在巡回，舌头依然硬，赵老大最硬，许巍不娱乐，李老板不忘初心 较真 但终究没干过恶势力。百态人生，穷过知道钱难赚，穷过知道说话牙无力，话语权难得，路在脚下。祝：好运!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351768902)<br>爱不重·不生婆娑  念不...<br>2020-12-16 19:25<br>赞(0) 踩(0) | <div>牛河离队有感：牛河离队谁会在乎 邱威铭在哪个台上弹奏谁会在乎 高宇峰去了哪队谁会在乎。一席知道的&amp;lsquo;五条人&amp;rsquo;能感觉到仁科是有娱乐细菌的，他们的作品有感情 有态度 有能量。18 4 13日刚好有巡演，牛河在右侧灯光昏暗处，有意绿叶配红花，他们是少数没被音乐操反倒把音乐玩弄于股掌的人。19 4 14日（应该是大舞台之前最后的live house场）牛河在左，长江在右，灯光明亮，音乐氛围真诚 融洽，仁科 阿茂把瓶喝了不少杰克丹尼。某首歌见牛河湿了眼眶，不知道他感想到了啥，到嘴边的牛B 加油后悔没有喊出来，眼睛不会欺骗，牛河侧身不想让大家看到&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175748)<br>so it is<br>2020-12-07 18:50<br>赞(1) 踩(0) | <div>什么时候来成都呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5752156)<br>horse with n...<br>2020-10-30 07:02<br>赞(0) 踩(0) | <div>和mla有点神似啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796166)<br>最爱莫文蔚.....<br>2020-10-22 02:28<br>赞(0) 踩(0) | <div>加油~ 不错哦~ yeah~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7202885)<br>不能救我，只能爱我。<br>2020-09-24 14:26<br>赞(2) 踩(0) | <div>对不起。我头一次有了像是追星一样的感觉。五条人妈妈爱你们！我要去给你们投票我要复活你们！但是居然还要下载泡泡对不起虽然妈妈不能给你们投票但是妈妈爱你们！玩得开心！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7202885)<br>不能救我，只能爱我。<br>2020-09-24 14:26<br>赞(2) 踩(0) | <div>对不起。<br>我头一次有了像是追星一样的感觉。五条人妈妈爱你们！<br>我要去给你们投票我要复活你们！但是居然还要下载泡泡对不起虽然妈妈不能给你们投票但是妈妈爱你们！玩得开心！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358812666)<br><br>2020-10-29 12:08<br>赞(0) 踩(0) | <div>别闹&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329450488)<br><br>2020-09-19 14:43<br>赞(0) 踩(0) | <div>呜呜呜呜呜呜呜呜呜呜呜呜呜呜有人带手风琴玩了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37781529)<br>burning!<br>2020-09-16 19:08<br>赞(0) 踩(0) | <div>五条人啊！我来啦！</div> |
@@ -60,7 +60,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434436934)<br>我还没想好要写什么...<br>2020-08-29 01:08<br>赞(0) 踩(0) | <div>很像林强</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60171006)<br><br>2020-08-27 16:20<br>赞(0) 踩(0) | <div>我来啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10403741)<br><br>2020-08-26 16:04<br>赞(0) 踩(0) | <div>经典的歌都没有版权，还得去咪咕听，手机里不得不安两个音乐app</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2020-08-25 23:29<br>赞(3) 踩(0) | <div>看理想2020-08-13五条人x梁文道，能擦出什么火花？梦幻联动终于梦想成真！&amp;ldquo;宁愿土到掉渣，也不俗不可耐&amp;rdquo;的五条人，即将作为特别嘉宾，出现在梁文道的《八分》节目里。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2020-08-25 23:29<br>赞(3) 踩(0) | <div>看理想<br>2020-08-13<br><br>五条人x梁文道，能擦出什么火花？<br><br>梦幻联动终于梦想成真！&amp;ldquo;宁愿土到掉渣，也不俗不可耐&amp;rdquo;的五条人，即将作为特别嘉宾，出现在梁文道的《八分》节目里。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196396347)<br>.<br>2020-08-25 14:23<br>赞(0) 踩(0) | <div>五条鱼冲鸭！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420994325)<br>生得随机，死得随意<br>2020-08-24 20:06<br>赞(1) 踩(0) | <div>加油啊五条鱼！期待你们新的多元作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/771098)<br>来自外星球的访客<br>2020-08-23 08:03<br>赞(0) 踩(0) | <div>来晚了，来晚了</div> |
@@ -69,7 +69,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4026326)<br><br>2020-08-18 11:22<br>赞(7) 踩(0) | <div>支持小语种创作！有时听不懂更是一种魅力。难道日语歌意大文德文歌就不听了，就没人翻唱？小时候我用拼音学灌篮高手主题曲，前几年还学战车的歌呢。以后全部变成普通话歌曲就大和蟹了呗。就感觉那团京圈乐队太抱团了，那么排斥方言歌曲，换做粤语肯定马上就不逼逼了，呵！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10598624)<br>勇敢面对一切。<br>2020-08-18 09:05<br>赞(1) 踩(0) | <div>谜一样的五条人，外星人吧哈哈哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2718383)<br>我还没想好要写什么...<br>2020-08-17 23:48<br>赞(0) 踩(0) | <div>很真实 很动人</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424007031)<br><br>2020-08-17 19:21<br>赞(0) 踩(0) | <div>，-%()0啊啊啊00</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424007031)<br><br>2020-08-17 19:21<br>赞(0) 踩(0) | <div>，-%()0<br>啊啊啊00</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254955103)<br><br>2020-08-17 18:28<br>赞(1) 踩(0) | <div>五条人的歌好好听 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png">乐夏真香 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103013672)<br>过去的就过去吧 美好的怀...<br>2020-08-16 23:41<br>赞(1) 踩(0) | <div>我爱仁科！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357854619)<br><br>2020-08-16 22:49<br>赞(2) 踩(0) | <div>很有特色的音乐，海丰人来报到</div> |
@@ -132,7 +132,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7225022)<br>听听歌拍拍照.<br>2020-07-29 23:04<br>赞(0) 踩(0) | <div>真的来了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45796859)<br><br>2020-07-30 10:16<br>赞(0) 踩(0) | <div>来了就走了，开心又失望，希望能复活</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8731136)<br> <br>2019-04-22 22:34<br>赞(4) 踩(0) | <div>阿基考里斯马基</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43443614)<br>微信M7-Bonnie，...<br>2019-04-10 23:50<br>赞(0) 踩(0) | <div>今天五条人的演出太棒了现场！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43443614)<br>微信M7-Bonnie，...<br>2019-04-10 23:50<br>赞(0) 踩(0) | <div>今天五条人的演出太棒了<br>现场！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13313040)<br>再好的相机也只能记录最美...<br>2019-04-09 21:37<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35613078)<br> <br>2019-03-31 15:20<br>赞(2) 踩(0) | <div>晚上见 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50704874)<br><br>2019-03-25 00:02<br>赞(4) 踩(0) | <div>现场炸裂，完全出乎意料</div> |
@@ -145,15 +145,15 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/470525)<br>简单 快乐<br>2018-11-27 12:09<br>赞(0) 踩(0) | <div>无锡民谣诗歌节 终于见到了你们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348124546)<br><br>2018-11-05 00:19<br>赞(0) 踩(0) | <div>感谢虾米推荐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348124546)<br><br>2018-11-05 00:18<br>赞(0) 踩(0) | <div>高兴!终于国内找到好民谣了!牛逼</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313251842)<br><br>2018-09-23 12:59<br>赞(9) 踩(0) | <div>2018 9 22 杭州当阿茂扯起长长的调子和吆喝仁科拉开手风琴的琴箱人群里不知是谁合着曲调在唱我总有一点想哭</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38662280)<br>不懂装懂中度患者<br>2018-09-14 22:57<br>赞(3) 踩(0) | <div>我的马鸭我的鲅鸭现场也太牛逼了是南京欧拉设备加成吗什么风格都会是吗solo我都能听一个小时啊迷墙啊迷墙啊迷一样的强啊阿珍爱上阿强生生编成史诗啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313251842)<br><br>2018-09-23 12:59<br>赞(9) 踩(0) | <div>2018 9 22 杭州<br>当阿茂扯起长长的调子和吆喝<br>仁科拉开手风琴的琴箱<br>人群里不知是谁合着曲调在唱<br>我总有一点想哭</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38662280)<br>不懂装懂中度患者<br>2018-09-14 22:57<br>赞(3) 踩(0) | <div>我的马鸭<br>我的鲅鸭<br><br>现场也太牛逼了<br>是南京欧拉设备加成吗<br><br>什么风格都会是吗<br>solo我都能听一个小时啊<br><br>迷墙啊迷墙啊<br>迷一样的强啊<br><br>阿珍爱上阿强生生编成史诗啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4131849)<br>网易云：非人類兔子Agy...<br>2018-09-14 19:10<br>赞(0) 踩(0) | <div>今晚南京見.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33670588)<br><br>2018-09-04 21:36<br>赞(1) 踩(0) | <div>真正坚持音乐的人，加油&amp;hellip;&amp;hellip;每一首歌都是心血，坚持下去，会爆发的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208010003)<br>千千静听驻虾米办事处<br>2018-07-19 13:49<br>赞(3) 踩(0) | <div>今年五条人回不来海丰开唱，偌大一个县城容不下这么小一支乐队，他们就去给隔壁惠州人唱，有一种鸟是关不住的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39705554)<br> <br>2018-05-07 09:21<br>赞(1) 踩(0) | <div>海丰话或者汕尾话，是潮汕话之一种，闽南语系。所谓&amp;ldquo;福佬人&amp;rdquo;，这个说法是讹传 ，或者说是个蔑称，实际上闽南人是自称 &amp;ldquo;河洛人&amp;rdquo;表示自己的祖先来自中原的河洛地区。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24237104)<br>终究要道别。网易云ID：...<br>2018-08-20 20:45<br>赞(0) 踩(0) | <div>不好意思，无论古今，潮汕都不包括汕尾。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39705554)<br> <br>2018-08-20 20:49<br>赞(0) 踩(0) | <div><q><b>LyF说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43816145)<br>品味是一个无底洞<br>2018-04-23 00:46<br>赞(1) 踩(0) | <div>为啥在潮州有一家名为五条人的糖水店？是店家喜爱五条人乐队？是五条人乐队开的店？或者五条人是海丰人常说的词，所以仅仅是海丰人开的店？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43816145)<br>品味是一个无底洞<br>2018-04-23 00:46<br>赞(1) 踩(0) | <div>为啥在潮州有一家名为五条人的糖水店？<br>是店家喜爱五条人乐队？<br>是五条人乐队开的店？<br>或者五条人是海丰人常说的词，所以仅仅是海丰人开的店？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351768902)<br>爱不重·不生婆娑  念不...<br>2018-04-06 10:30<br>赞(4) 踩(0) | <div>&amp;ldquo;五条人&amp;rdquo;乐队名字非常不感冒，相关推送都不想打开，广东姑娘让我联想到南方姑娘所以也不会按播放键。但是幸好没有错过一席的讲演，无厘头的歌词的确比云里雾里和诗意有力量，音乐质量很高。我感觉的是五条人和云母逼都一样把音乐干的噼里啪啦的响，过瘾。2018.4.13.沈阳铁西区（合影里周云蓬老家所在地）现场见证仁科，阿茂他们玩音乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3449737)<br>ww<br>2018-03-22 13:54<br>赞(0) 踩(0) | <div>啊啊啊终于要来东北了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43417904)<br>Please KISS ...<br>2018-03-16 13:13<br>赞(0) 踩(0) | <div>&amp;ldquo;福佬话&amp;rdquo; 怎么感觉非常有地域xx性</div> |
@@ -242,7 +242,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/624542)<br>————————————...<br>2015-08-25 10:33<br>赞(0) 踩(0) | <div>启动...启动屌...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3644346)<br><br>2015-08-18 20:40<br>赞(3) 踩(0) | <div>虽然我是广东人，但我收藏这支乐队不是带着地域归属感的。我相信，每一个有喜怒哀乐自由想法的人，都会从他们的音乐中找到属于自己的故事，很亲切！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8287565)<br><br>2015-12-16 01:53<br>赞(0) 踩(0) | <div>这其实是我们福建人啦，开个玩笑哈哈</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3311905)<br><br>2015-08-09 08:57<br>赞(1) 踩(0) | <div>对我来说五条人就两张专，一些风景和县城记。来自android客户端</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3311905)<br><br>2015-08-09 08:57<br>赞(1) 踩(0) | <div>对我来说五条人就两张专，一些风景和县城记。<br><br>来自android客户端</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49701807)<br>活在梦里<br>2015-08-04 18:13<br>赞(2) 踩(0) | <div>五条人满足了我所有对海滨南方的美好幻想。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36571834)<br>本来无一物 我要到處惹尘...<br>2015-07-29 08:26<br>赞(0) 踩(0) | <div>除了五条人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36571834)<br>本来无一物 我要到處惹尘...<br>2015-07-29 08:25<br>赞(0) 踩(0) | <div>虾米上没有任何人的歌让我听了wy六年还不厌</div> |
@@ -283,7 +283,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11563246)<br>Che vuoi?<br>2015-03-21 22:40<br>赞(0) 踩(0) | <div>有粤语民谣歌手吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24237104)<br>终究要道别。网易云ID：...<br>2015-03-20 23:07<br>赞(1) 踩(0) | <div>陆丰人来了～～～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/872970)<br><br>2015-03-17 18:01<br>赞(0) 踩(0) | <div>必须支持一下</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2785476)<br><br>2015-03-17 17:00<br>赞(1) 踩(0) | <div>海丰话跟潮汕话挺像，听起来很亲切。我喜欢的编曲搭上家乡方言，感觉很微妙呀~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2785476)<br><br>2015-03-17 17:00<br>赞(1) 踩(0) | <div>海丰话跟潮汕话挺像，听起来很亲切。<br><br>我喜欢的编曲搭上家乡方言，感觉很微妙呀~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11820365)<br><br>2015-03-17 12:15<br>赞(1) 踩(0) | <div>更南方为什么不叫“伍仁”呢？这样会顺口很多</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9538005)<br>具島直子歌迷<br>2015-03-17 11:21<br>赞(78) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3311905)<br><br>2015-03-29 19:17<br>赞(0) 踩(0) | <div>五条人这次巡演直接无视长江以北，哈哈。</div> |
@@ -299,7 +299,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26653703)<br><br>2016-08-08 19:55<br>赞(0) 踩(0) | <div>毕竟讲白了就是闽南语</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69246404)<br>。<br>2017-08-21 16:28<br>赞(0) 踩(0) | <div>因为你是广东人最爱吃的~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/786187)<br><br>2015-03-17 11:12<br>赞(0) 踩(0) | <div>虽然同属一个省份，潮汕姑娘跟广州姑娘区别是非常大的。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22123695)<br>设计，绘画，歌唱<br>2015-03-14 10:41<br>赞(0) 踩(0) | <div>求吉他谱？问题出现我在告诉大家</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22123695)<br>设计，绘画，歌唱<br>2015-03-14 10:41<br>赞(0) 踩(0) | <div>求吉他谱？<br>问题出现我在告诉大家</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30238165)<br> <br>2015-03-12 23:26<br>赞(1) 踩(0) | <div>潮汕话安利不出去 ┑(￣Д ￣)┍</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30238165)<br> <br>2015-03-12 23:26<br>赞(1) 踩(0) | <div>感觉…可能要…一个人…去看他们的现场…</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6179259)<br>丧失理智<br>2015-03-11 22:13<br>赞(0) 踩(0) | <div>现在每每听 五条人 满脑子都是晓舟哥哥！！！！</div> |
@@ -395,7 +395,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6362992)<br><br>2012-09-10 12:18<br>赞(0) 踩(0) | <div>为什么没歌曲呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10103448)<br><br>2012-08-05 19:40<br>赞(0) 踩(0) | <div>最喜欢的一张方言专辑！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/543459)<br><br>2012-08-02 11:47<br>赞(0) 踩(0) | <div>为什么没有歌的呢？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/395614)<br><br>2012-07-12 16:43<br>赞(1) 踩(0) | <div>好！！！！！！！保护音乐人的权力！！！！！【但是尼玛没听的啦~~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/395614)<br><br>2012-07-12 16:43<br>赞(1) 踩(0) | <div>好！！！！！！！保护音乐人的权力！！！！！<br>【但是尼玛没听的啦~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1460083)<br><br>2012-07-06 12:46<br>赞(0) 踩(0) | <div>怎么就没啦！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4272044)<br>默默无语两眼泪。<br>2012-06-30 17:58<br>赞(0) 踩(0) | <div>民谣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8205305)<br>我还没想好要写什么...<br>2012-06-26 20:24<br>赞(0) 踩(0) | <div>这个可以没。</div> |
@@ -432,7 +432,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7221080)<br> <br>2011-12-28 12:30<br>赞(0) 踩(0) | <div>真诚，质朴</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3112995)<br><br>2011-12-22 09:55<br>赞(0) 踩(0) | <div>海陆丰民谣 亲切的歌声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4484173)<br><br>2011-12-20 21:04<br>赞(0) 踩(0) | <div>曲目报单有些问题啊，开船歌怎么变成了清明过纸？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4445419)<br><br>2011-12-18 22:16<br>赞(0) 踩(0) | <div>太搞了。音乐不分家乡</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4445419)<br><br>2011-12-18 22:16<br>赞(0) 踩(0) | <div>太搞了。<br>音乐不分家乡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6687717)<br><br>2011-12-17 12:57<br>赞(0) 踩(0) | <div>昨晚你们的演出太精彩了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6957705)<br><br>2011-11-26 12:02<br>赞(0) 踩(0) | <div>不解释 你懂得</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89262)<br>音乐于我这乏味的一生如同...<br>2011-11-23 23:26<br>赞(0) 踩(0) | <div>五条淫.</div> |
@@ -463,7 +463,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2123413)<br><br>2011-07-14 13:46<br>赞(0) 踩(0) | <div>充满乡情的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3661529)<br><br>2011-07-13 10:28<br>赞(0) 踩(0) | <div>呵呵 永远是这种感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1742284)<br>♂<br>2011-07-04 12:21<br>赞(0) 踩(0) | <div>+命</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4353660)<br><br>2011-06-24 12:11<br>赞(0) 踩(0) | <div>聽不太懂的對岸閩南語  但有很熟悉的歌謠旋律。輕快而讓人舒服，也許是堅持用母語歌詠土地與生活的他們表達自己的一種方式。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4353660)<br><br>2011-06-24 12:11<br>赞(0) 踩(0) | <div>聽不太懂的對岸閩南語  但有很熟悉的歌謠旋律。<br><br>輕快而讓人舒服，也許是堅持用母語歌詠土地與生活的他們表達自己的一種方式。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2123413)<br><br>2011-07-14 13:51<br>赞(0) 踩(0) | <div>據說新竹有個地方的話語跟大陸海豐的很相似，不知對岸的朋友是否真的這樣。台灣的閩南語我們大概也能聽懂很多，不同的生活意識，相同的熱愛。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4353660)<br><br>2011-07-15 11:09<br>赞(0) 踩(0) | <div><q><b>Mayitbe说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2123413)<br><br>2011-07-15 12:54<br>赞(0) 踩(0) | <div><q><b>melodeeinuk说：</b></q></div> |
@@ -483,7 +483,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2303135)<br><br>2011-01-08 19:04<br>赞(0) 踩(0) | <div>聽著聽不懂的海豐話, 猜度一個海, 有水上人的叫喊質感。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1419347)<br>？<br>2010-12-08 00:58<br>赞(0) 踩(0) | <div>谁传的歌词 我感谢他全家。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/798441)<br><br>2010-10-18 14:32<br>赞(0) 踩(0) | <div>彭阿湃有个mv很好，很配歌词</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/654503)<br><br>2010-07-01 01:38<br>赞(0) 踩(0) | <div>封面很恐怖。感觉是上面是两个人在上吊。阿茂拿着用键盘做成的龟波气功准备像摄影师攻击。歌曲很温暖，看到了一幅画</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/654503)<br><br>2010-07-01 01:38<br>赞(0) 踩(0) | <div>封面很恐怖。感觉是上面是两个人在上吊。阿茂拿着用键盘做成的龟波气功准备像摄影师攻击。<br>歌曲很温暖，看到了一幅画</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/714026)<br><br>2010-03-07 17:29<br>赞(0) 踩(0) | <div>在 南方周末 上看到 来听了下 不错 很有感觉 并不只是些爱不爱的话题 很生活化~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336021)<br><br>2010-03-07 16:19<br>赞(0) 踩(0) | <div>舊年林生祥廣州彈唱會的暖場，第一次看到 五條人 的現場，很有感染力，彼時台上三個人，還有一位拉琴的女生很拉風。。尚甲意即條《十年水流东，十年水流西》。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/663312)<br><br>2010-02-05 10:56<br>赞(0) 踩(0) | <div>新来的 。我 报道一下</div> |

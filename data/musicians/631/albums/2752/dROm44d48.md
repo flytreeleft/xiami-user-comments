@@ -47,15 +47,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-04 10:52<br>赞(0) 踩(0) | <div>创作不一定要写实，但一定要真挚。有时候我们看到听到一些我们未经历过的事情，但仍然很有感觉 / 被感动，就是因为故事背后有着真挚的感情。我不吃泡面，但我明白在艰难时期需要的某些依赖；是生活让歌诞生，也是由歌带动生活，原来，有些泡面真的很好吃～～&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; 一峰 2020.6.5于微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47834154)<br>小星球<br>2020-06-16 14:22<br>赞(0) 踩(0) | <div>盖上泡面碗盖，打开虾米，听完这首歌就可以吃啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10936044)<br><br>2020-04-11 15:15<br>赞(0) 踩(0) | <div>温暖到想抱抱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242459103)<br><br>2020-03-20 00:19<br>赞(0) 踩(0) | <div>林一峰以前主演的同志微电影 天使 的主题歌，好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55494163)<br>一个迷人的女子<br>2020-01-19 13:35<br>赞(1) 踩(0) | <div>林一峰 这个男人也太温油了8⃣️aaaaaaa</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32142115)<br>有本启奏无本退朝<br>2019-12-07 09:03<br>赞(0) 踩(0) | <div>泡面是那种非常想吃 吃了又后悔的好吃的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332617792)<br>三千大千世界，是一不是二...<br>2019-11-06 12:19<br>赞(0) 踩(0) | <div>拥有一个泡面情人和做一个泡面情人一样，都实在是太悲哀啦！ <img src="../../../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png"> <img src="../../../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png">单纯的为泡面代言倒是充满喜感的。 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">经常吃泡面有害健康哦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332617792)<br>三千大千世界，是一不是二...<br>2019-11-06 12:19<br>赞(0) 踩(0) | <div>拥有一个泡面情人和做一个泡面情人一样，都实在是太悲哀啦！ <img src="../../../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png"> <img src="../../../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png"><br>单纯的为泡面代言倒是充满喜感的。 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"><br>经常吃泡面有害健康哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244291891)<br> <br>2019-08-18 21:41<br>赞(1) 踩(0) | <div>这是写的一首关于情人的歌，真的不是关于泡面的。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576232)<br>再简单一些…<br>2019-07-01 10:59<br>赞(0) 踩(0) | <div>我想是棒棒糖的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8445172)<br>可惜呐<br>2019-02-28 17:22<br>赞(0) 踩(0) | <div>饿辽，想吃！林一峰声线温柔的我想哭_(:з」∠)_</div> |
@@ -100,7 +100,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51800191)<br><br>2016-07-30 14:48<br>赞(0) 踩(0) | <div>你好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1180536)<br><br>2014-04-08 13:13<br>赞(0) 踩(0) | <div>听到这样的男子真的是感觉相见恨晚呀呀呀</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51800191)<br><br>2016-07-30 14:50<br>赞(0) 踩(0) | <div>你好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15487965)<br>音乐有声，我们有心~<br>2014-03-29 22:01<br>赞(0) 踩(0) | <div>等待的时光就只有我和你拿一双筷子期待把你放到嘴里~这首歌把次泡面的简单幸福感诠释的淋漓尽致</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15487965)<br>音乐有声，我们有心~<br>2014-03-29 22:01<br>赞(0) 踩(0) | <div>等待的时光就只有我和你<br>拿一双筷子期待把你放到嘴里~这首歌把次泡面的简单幸福感诠释的淋漓尽致</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17550521)<br><br>2014-02-14 21:55<br>赞(0) 踩(0) | <div>原来以前初中一直在动感101《爱在10点》某故事（忘记名字了）听到的歌，终于知道歌名了。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9325740)<br><br>2014-01-24 13:10<br>赞(1) 踩(0) | <div>饿了这么久，终于和我合体了~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2014-01-19 10:54<br>赞(0) 踩(0) | <div>来碗泡面</div> |
@@ -134,12 +134,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5791120)<br><br>2012-05-15 21:38<br>赞(0) 踩(0) | <div>这首歌听起来总是那么感动QAAAAAAAAAAQ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7218654)<br><br>2012-04-23 23:59<br>赞(0) 踩(0) | <div>&amp;amp;quot;开心不开心 你最能满足我身体&amp;amp;quot;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280255149)<br><br>2017-03-15 17:00<br>赞(0) 踩(0) | <div>。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2012-02-28 02:02<br>赞(0) 踩(0) | <div>吃泡面的中午，他也会肉麻的发消息给你。。我有个心愿　你到底知不知等待的日子就只有我和你开心不开心你最能满足我身体</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2012-02-28 02:02<br>赞(0) 踩(0) | <div>吃泡面的中午，他也会肉麻的发消息给你。。<br><br>我有个心愿　你到底知不知<br>等待的日子就只有我和你<br>开心不开心你最能满足我身体</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6651665)<br><br>2012-02-25 23:08<br>赞(0) 踩(0) | <div>简单美好，真实写照。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7480029)<br><br>2012-02-12 19:11<br>赞(0) 踩(0) | <div>晚上又煮的泡面，哎！啥时候能解决温饱问题啊！亲爱的泡面，你还要陪伴我很长时间，请赶快移情别恋吧，我不想和你长相守！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4129711)<br><br>2012-02-03 08:51<br>赞(0) 踩(0) | <div>开心不开心你最能满足我身体~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6580341)<br><br>2012-01-24 03:18<br>赞(0) 踩(0) | <div>等待的时光，就只有我和你。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/812392)<br>q音网易搜央央小月，酷g...<br>2011-10-15 17:48<br>赞(0) 踩(0) | <div>口袋只有几十块也能拥有你给我温暖渡过危机我忙得没法呼吸见你总是容易不管生活高高低低（泡面的生活，相信很多异乡人很熟悉）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/812392)<br>q音网易搜央央小月，酷g...<br>2011-10-15 17:48<br>赞(0) 踩(0) | <div>口袋只有几十块<br>也能拥有你<br>给我温暖渡过危机<br>我忙得没法呼吸<br>见你总是容易<br>不管生活高高低低<br><br>（泡面的生活，相信很多异乡人很熟悉）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2861175)<br><br>2011-06-03 17:07<br>赞(0) 踩(0) | <div>小清新啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2971968)<br><br>2011-05-30 17:42<br>赞(0) 踩(0) | <div>王道的小清新</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3394598)<br><br>2011-05-23 08:21<br>赞(0) 踩(0) | <div>小清新啊</div> |
@@ -150,5 +150,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/672488)<br>偶尔上来听听歌的懒人<br>2011-01-04 19:32<br>赞(0) 踩(0) | <div>哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1946315)<br><br>2010-11-17 23:44<br>赞(0) 踩(0) | <div>偶尔，我总是会想起在等待泡面时，你幸福的笑脸。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1018)<br>口哨魔法師<br>2009-08-13 17:19<br>赞(0) 踩(0) | <div>跟你缘分不浅</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91561)<br><br>2009-07-24 16:03<br>赞(0) 踩(0) | <div>写的还蛮有感触的喜欢吃泡面</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91561)<br><br>2009-07-24 16:03<br>赞(0) 踩(0) | <div>写的还蛮有感触的<br>喜欢吃泡面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72218)<br><br>2009-05-15 14:18<br>赞(0) 踩(0) | <div>喜欢这样的声音，喜欢林一峰</div> |

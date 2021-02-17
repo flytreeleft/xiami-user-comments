@@ -53,12 +53,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8716412)<br>我还没想好要写什么...<br>2020-11-28 12:38<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424898172)<br>To make each...<br>2020-06-08 14:28<br>赞(0) 踩(0) | <div>❤️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1099439)<br>来自心灵深处的感悟<br>2020-05-16 01:33<br>赞(0) 踩(0) | <div>My dear我只是个孩子王可是你长大了我该走了。再见在梦里再见</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1099439)<br>来自心灵深处的感悟<br>2020-05-16 01:31<br>赞(0) 踩(0) | <div>我可以陪你做任何你想不到的快乐。但你选择离去。那些快乐，我也不能再做到了。因为天阴了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1099439)<br>来自心灵深处的感悟<br>2020-05-16 01:33<br>赞(0) 踩(0) | <div>My dear<br>我只是个孩子王<br>可是你长大了<br>我该走了。<br>再见<br>在梦里<br>再见</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1099439)<br>来自心灵深处的感悟<br>2020-05-16 01:31<br>赞(0) 踩(0) | <div>我可以陪你做任何你想不到的快乐。<br>但你选择离去。<br>那些快乐，<br>我也不能再做到了。<br>因为天阴了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188902054)<br>云id：小刘这边给您敬个...<br>2019-09-07 21:03<br>赞(1) 踩(0) | <div>其实，最喜欢的称谓，还是小朋友。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335412987)<br><br>2019-07-17 11:01<br>赞(1) 踩(0) | <div>声音好像杨丞琳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1261759)<br><br>2019-06-05 11:39<br>赞(0) 踩(0) | <div>准妈妈听着眼泪停不下来</div> |
@@ -132,7 +132,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8815091)<br><br>2015-09-18 12:22<br>赞(0) 踩(0) | <div>为什么我这么喜欢那个享字。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37817810)<br>暂无签名~<br>2015-08-05 18:49<br>赞(0) 踩(0) | <div>神的孩子，明亮纯净。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45151689)<br>走路，多望望阳光...<br>2015-07-17 11:34<br>赞(0) 踩(0) | <div>真是小孩子的旋律</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/857821)<br><br>2015-05-22 01:07<br>赞(1) 踩(0) | <div>我也許能和你分享，可是我無法 幫你哭泣 my dear我也許能懂得孤單，可惜我無法 幫你傷心 my dear</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/857821)<br><br>2015-05-22 01:07<br>赞(1) 踩(0) | <div>我也許能和你分享，<br>可是我無法 幫你哭泣 my dear<br>我也許能懂得孤單，<br>可惜我無法 幫你傷心 my dear</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3530413)<br><br>2015-05-07 03:29<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14633345)<br><br>2015-01-04 22:10<br>赞(0) 踩(0) | <div>我一个人在路上听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2695324)<br><br>2014-12-29 20:25<br>赞(0) 踩(0) | <div>最喜欢这首</div> |
@@ -151,7 +151,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15800543)<br>难免遗憾倘若你不喜欢。<br>2014-07-29 23:38<br>赞(0) 踩(0) | <div>莫名触及泪点的歌儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7772139)<br>我还没想好要写什么...<br>2014-07-18 16:07<br>赞(0) 踩(0) | <div>刚好听到这首歌耐喜翻。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10721683)<br>音乐改变生活！<br>2014-07-16 10:00<br>赞(0) 踩(0) | <div>孩子王 - 许哲佩</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2753937)<br>单细胞 对我好<br>2014-07-09 11:19<br>赞(1) 踩(0) | <div>一直听到“……麦迪……麦迪……麦迪……” 觉得很奇怪，看了一下歌词发现是“my dear”这个口音……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2753937)<br>单细胞 对我好<br>2014-07-09 11:19<br>赞(1) 踩(0) | <div>一直听到“……麦迪……麦迪……麦迪……” 觉得很奇怪，<br><br>看了一下歌词发现是“my dear”<br>这个口音……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6591864)<br><br>2014-07-07 21:22<br>赞(0) 踩(0) | <div>用孩子般的双眼看着，观察大人的世界，歌曲好有奇幻色彩的说(⊙o⊙)哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113707)<br><br>2014-07-04 07:44<br>赞(0) 踩(0) | <div>缺幸福感的早晨，只能请她来治愈～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19066919)<br>暂无签名~<br>2014-06-30 23:05<br>赞(0) 踩(0) | <div>*﹏*</div> |
@@ -187,7 +187,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3355677)<br> <br>2013-11-04 14:07<br>赞(0) 踩(0) | <div>我不再是你的玩具翅膀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23377006)<br><br>2013-09-30 14:11<br>赞(0) 踩(0) | <div>我们那一群疯子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21166931)<br><br>2013-09-08 21:50<br>赞(0) 踩(0) | <div>许哲佩的声音永远都是温柔的 歌词都是充满了爱的甜蜜〜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234724)<br><br>2013-09-04 15:42<br>赞(0) 踩(0) | <div>有一天，你会长大你不再是我的你还是要勇敢坚强</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234724)<br><br>2013-09-04 15:42<br>赞(0) 踩(0) | <div>有一天，你会长大<br>你不再是我的<br>你还是要勇敢坚强</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12948963)<br> <br>2013-08-27 10:54<br>赞(0) 踩(0) | <div>可惜我不能帮你长大...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2933219)<br>艺术 源自生活 取之灵魂<br>2013-08-18 10:56<br>赞(0) 踩(0) | <div>两首歌，一首与我的心境吻合。另一首听着被感动的落泪！头一次有中国歌让我如此感动。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19488518)<br><br>2013-08-16 22:37<br>赞(0) 踩(0) | <div>歌词很好</div> |
@@ -251,7 +251,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2253831)<br>我还没想好要写什么...<br>2013-06-12 16:17<br>赞(0) 踩(0) | <div>= = 一年一趟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15336803)<br><br>2013-06-12 14:58<br>赞(0) 踩(0) | <div>也許會說說笑話，可惜不能幫你長大。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3340084)<br><br>2013-06-12 12:31<br>赞(0) 踩(0) | <div>#Cheese乐# 节日快乐~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9447563)<br>peggyhsu<br>2013-06-12 11:14<br>赞(0) 踩(0) | <div>(by馬戲團團長) 歌詞有錯! 修正之前請勿任意轉發謝謝!1. 我 可以让你笑 &amp;quot;餵&amp;quot;你吃饱2. 我不再是你的 &amp;quot;玩具&amp;quot;翅膀</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9447563)<br>peggyhsu<br>2013-06-12 11:14<br>赞(0) 踩(0) | <div>(by馬戲團團長) 歌詞有錯! 修正之前請勿任意轉發謝謝!<br><br>1. 我 可以让你笑 &amp;quot;餵&amp;quot;你吃饱<br>2. 我不再是你的 &amp;quot;玩具&amp;quot;翅膀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/617777)<br><br>2013-06-12 08:16<br>赞(0) 踩(0) | <div>好感动T T</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6420835)<br><br>2013-06-12 04:36<br>赞(0) 踩(0) | <div>SHE&amp;#039;S BACK!!!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5722216)<br>哦耶式！<br>2013-06-12 04:18<br>赞(0) 踩(0) | <div>简单的旋律+平白的歌词，由她写出唱出就让我看到了夜幕中精灵。</div> |
@@ -260,9 +260,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143334)<br><br>2013-06-11 23:49<br>赞(0) 踩(0) | <div>音乐界的安徒生。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/719995)<br>事出有音<br>2013-06-11 23:49<br>赞(0) 踩(0) | <div>#晚安曲#很简单的旋律架构，但却勾勒出了一副美丽而坚定地童话画面，这个世界不缺童话，缺的是一颗童话般的心，即便你已经长大。各位晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404688)<br>真的什么都留不下<br>2013-06-11 23:30<br>赞(0) 踩(0) | <div>伴随着长大，持续的感动</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404688)<br>真的什么都留不下<br>2013-06-11 23:29<br>赞(0) 踩(0) | <div>我也许能和你分享 可是我无法 帮你哭泣 my dear我也许能懂得孤单 可惜我无法 帮你伤心 my dear我也许能教你歌唱 可是我不能 教你爱情 my dear我也许会说说笑话 可惜我不能 帮你长大 my dear</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404688)<br>真的什么都留不下<br>2013-06-11 23:29<br>赞(0) 踩(0) | <div>我也许能和你分享 可是我无法 帮你哭泣 my dear<br>我也许能懂得孤单 可惜我无法 帮你伤心 my dear<br>我也许能教你歌唱 可是我不能 教你爱情 my dear<br>我也许会说说笑话 可惜我不能 帮你长大 my dear</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3633935)<br>以前的都被动删除了啊。还...<br>2013-06-11 23:06<br>赞(0) 踩(0) | <div>外面雨声快要淹没歌声。想起第一次听你。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6293641)<br>我还没想好要写什么...<br>2013-06-11 22:45<br>赞(0) 踩(0) | <div>我 只是孩子王可惜我不能 帮你长大</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6293641)<br>我还没想好要写什么...<br>2013-06-11 22:45<br>赞(0) 踩(0) | <div>我 只是孩子王<br>可惜我不能 帮你长大</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9357323)<br><br>2013-06-11 22:30<br>赞(0) 踩(0) | <div>【孩子王】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9145709)<br>uNEXpEcTEd<br>2013-06-11 22:19<br>赞(0) 踩(0) | <div>Peggyhsu~最爱没有之一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1254654)<br>音乐杂食主义<br>2013-06-11 21:23<br>赞(0) 踩(0) | <div>好温柔……简直想要唱给未来的小孩听。</div> |

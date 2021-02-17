@@ -3,7 +3,7 @@ Priscilla Ahn
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8babfcb27f889b77eaff41a06215a35f.jpg)<br>Priscilla Ahn](https://i.xiami.com/priscilla) | **播放数**: 64528867<br>**粉丝数**: 223855<br>**评论数**: 1565<br>**地区**: United States of America 美国<br>**风格**: 民谣流行 Folk Pop, 根源唱作人 Singer-Songwriter<br> |
+| [![](../../images/musicians/8babfcb27f889b77eaff41a06215a35f.jpg)<br>Priscilla Ahn](https://i.xiami.com/priscilla) | **地区**: United States of America 美国<br>**风格**: 民谣流行 Folk Pop, 根源唱作人 Singer-Songwriter<br>**播放数**: 64528867<br>**粉丝数**: 223855<br>**评论数**: 1565<br> |
 
 ## 档案
 
@@ -61,8 +61,8 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30074304)<br>寄蜉蝣于天地，渺沧海之一...<br>2021-01-02 22:59<br>赞(0) 踩(0) | <div>✈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10116377)<br>学者 艺科<br>2020-02-11 12:00<br>赞(0) 踩(0) | <div>to as my to</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4300014)<br>我还没想好要写什么...<br>2020-01-14 15:50<br>赞(0) 踩(0) | <div>我的女神呀，真人很小，笑容很美</div> |
@@ -307,7 +307,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8153904)<br><br>2014-11-10 16:07<br>赞(0) 踩(0) | <div>清新到了极致</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43465735)<br> <br>2014-11-08 15:52<br>赞(0) 踩(0) | <div>声音清脆，安静</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35475504)<br><br>2014-11-07 20:03<br>赞(0) 踩(0) | <div>love</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33841656)<br><br>2014-10-30 13:02<br>赞(29) 踩(0) | <div>【大开眼界】美国创作型音乐才女Priscilla Ahn 2014年中国巡演 共两站：【北京站】时间： 2014年11月28日 20:00 - 22:00场地： 糖果三层地址： 北京市和平里西街79号同城： <a href="http://www.douban.com/event/22899563/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/22899563/</a>【上海站】时间： 2014年11月29日 20:00 - 22:00场地： 上海浅水湾文化艺术中心大剧场地址： 上海市普陀区宜昌路179号同城：<a href="http://www.douban.com/event/22899623/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/22899623/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33841656)<br><br>2014-10-30 13:02<br>赞(29) 踩(0) | <div>【大开眼界】美国创作型音乐才女Priscilla Ahn 2014年中国巡演 共两站：<br>【北京站】<br>时间： 2014年11月28日 20:00 - 22:00<br>场地： 糖果三层<br>地址： 北京市和平里西街79号<br>同城： <a href="http://www.douban.com/event/22899563/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/22899563/</a><br>【上海站】<br>时间： 2014年11月29日 20:00 - 22:00<br>场地： 上海浅水湾文化艺术中心大剧场<br>地址： 上海市普陀区宜昌路179号<br>同城：<a href="http://www.douban.com/event/22899623/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/22899623/</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2945044)<br>时光一去不复返<br>2014-10-29 02:43<br>赞(0) 踩(0) | <div>当时听了 回忆中的玛尼 知道了她，简简单单，听完让人很放松。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37944073)<br>你好吗 62488626...<br>2014-10-27 19:53<br>赞(0) 踩(0) | <div>wow</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3267886)<br><br>2014-10-26 23:30<br>赞(0) 踩(0) | <div>夜</div> |
@@ -319,12 +319,12 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1898166)<br>哪些让你不能忘的事<br>2014-10-18 11:56<br>赞(1) 踩(0) | <div>忧郁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8537084)<br><br>2014-10-17 14:52<br>赞(1) 踩(0) | <div>午后恬静的女声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41288614)<br><br>2014-10-11 19:58<br>赞(1) 踩(0) | <div>喜欢！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6716640)<br><br>2014-10-16 05:09<br>赞(0) 踩(0) | <div>Phil 企鹅亠Thadpyqsg cIpqyswy pang lasagna for o不a y</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6716640)<br><br>2014-10-16 05:09<br>赞(0) 踩(0) | <div>Phil 企鹅亠Thadpyqsg cIpqyswy pang lasagna for o<br>不a y</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8226204)<br>≡<br>2014-10-04 22:58<br>赞(1) 踩(0) | <div>~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6716640)<br><br>2014-10-16 05:10<br>赞(0) 踩(0) | <div>q p r vi qq z、</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13650216)<br>。<br>2014-10-04 22:08<br>赞(0) 踩(0) | <div>still</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36576646)<br>输了你，赢了世界又如何。<br>2014-10-04 21:31<br>赞(0) 踩(0) | <div>音乐 很吸引人心</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6716640)<br><br>2014-10-16 05:10<br>赞(0) 踩(0) | <div>pqy哦peq把 vgypyqotalaleuqtp,skutpql g la</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6716640)<br><br>2014-10-16 05:10<br>赞(0) 踩(0) | <div>pqy哦peq把 v<br><br>gypy<br>qotalaleuqtp<br>,skutpq<br>l g la</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5458902)<br><br>2014-10-03 13:03<br>赞(0) 踩(0) | <div>喜欢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18096035)<br>nothing here<br>2014-09-29 01:27<br>赞(1) 踩(0) | <div>要写作文关于梦想 听着Dream写真不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40406621)<br>花开不同赏<br>2014-09-25 22:26<br>赞(1) 踩(0) | <div>小清新……适合夜晚……新宠……沉淀自我……</div> |
@@ -335,12 +335,12 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1111540)<br>我还没想好要写什么...<br>2014-10-02 15:13<br>赞(0) 踩(0) | <div>你这句话歧义好大啊。。。不知道的以为被你done完后变漂亮了。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10817122)<br><br>2014-09-12 07:22<br>赞(0) 踩(0) | <div>蓝天白云般的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40962261)<br><br>2014-09-07 16:40<br>赞(0) 踩(0) | <div>有点 lene的歌风</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9850446)<br>心有猛虎，细嗅蔷薇。<br>2014-09-06 08:40<br>赞(0) 踩(0) | <div>唔，很棒甜美的，清新的，让人喜欢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9850446)<br>心有猛虎，细嗅蔷薇。<br>2014-09-06 08:40<br>赞(0) 踩(0) | <div>唔，很棒<br>甜美的，清新的，让人喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7741386)<br><br>2014-08-26 00:43<br>赞(2) 踩(0) | <div>声音太美了，可惜大部分作品作曲不够好，浪费好声音了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3527215)<br>暂无签名~<br>2014-08-25 08:49<br>赞(2) 踩(0) | <div>才女、漂亮、声甜……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2787950)<br>我还没想好要写什么...<br>2014-08-24 01:21<br>赞(2) 踩(0) | <div>美国民谣创作歌手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12405163)<br>terrybozzio<br>2014-08-23 20:35<br>赞(2) 踩(0) | <div>不太喜欢，有点吵</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13927906)<br>路漫漫其修远吾将上下而其...<br>2014-08-22 12:56<br>赞(2) 踩(0) | <div>韩美混血，去过日本，又来中国......HO我的Sola，思密达！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13927906)<br>路漫漫其修远吾将上下而其...<br>2014-08-22 12:56<br>赞(2) 踩(0) | <div>韩美混血，去过日本，又来中国......<br>HO我的Sola，思密达！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40218687)<br><br>2014-08-21 13:12<br>赞(2) 踩(0) | <div>清新 甜美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40056147)<br>期待<br>2014-08-16 15:00<br>赞(2) 踩(0) | <div>Priscilla Ahn,清新,舒服,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18640914)<br>白茶清欢无别事，碧海金阳...<br>2014-08-08 19:18<br>赞(3) 踩(0) | <div>好喜欢你的 KAZE~</div> |
@@ -375,16 +375,16 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9708809)<br><br>2014-07-14 22:06<br>赞(0) 踩(0) | <div>好聽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20427698)<br> <br>2014-07-14 12:25<br>赞(1) 踩(0) | <div>清新脫俗~~讚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32716552)<br><br>2014-07-11 23:01<br>赞(1) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203227)<br>在隔壁云村活动，这里只剩...<br>2014-07-11 20:03<br>赞(1) 踩(0) | <div>あなたのことが大すき。2014-07-16 / プリシラ・アーン</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203227)<br>在隔壁云村活动，这里只剩...<br>2014-07-11 20:03<br>赞(1) 踩(0) | <div>あなたのことが大すき。<br>2014-07-16 / プリシラ・アーン</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25933755)<br><br>2014-07-11 14:11<br>赞(0) 踩(0) | <div>不高不低</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2787950)<br>我还没想好要写什么...<br>2014-07-09 16:04<br>赞(0) 踩(0) | <div>美国，根源唱作人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14298546)<br> <br>2014-07-09 12:09<br>赞(1) 踩(0) | <div>声音很有特点，曲风也是我喜欢的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6801494)<br><br>2014-07-09 10:19<br>赞(0) 踩(0) | <div>漂亮</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496518)<br><br>2014-07-04 15:44<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1204590)<br>信仰は儚き人間の為に<br>2014-07-03 22:18<br>赞(0) 踩(0) | <div>回忆中的玛妮main theme T T</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1709942)<br>Realist<br>2014-07-03 23:48<br>赞(0) 踩(0) | <div><a href="https://www.tusfiles.net/7m1xfknc5tz7" target="_blank" rel="nofollow noreferrer noopener">https://www.tusfiles.net/7m1xfknc5tz7</a>不知道何時發佈，別無他法......</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1709942)<br>Realist<br>2014-07-03 23:48<br>赞(0) 踩(0) | <div><a href="https://www.tusfiles.net/7m1xfknc5tz7" target="_blank" rel="nofollow noreferrer noopener">https://www.tusfiles.net/7m1xfknc5tz7</a><br>不知道何時發佈，別無他法......</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1204590)<br>信仰は儚き人間の為に<br>2014-07-04 14:55<br>赞(0) 踩(0) | <div><q><b>バイバイルラバイ说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32094670)<br>从一个地方迁徙到一个地方...<br>2014-07-01 18:00<br>赞(0) 踩(0) | <div>初三那个夏天 一首dream无数个夏夜单曲循环 最后听到空耳唱出所以歌词那是三年前了啊。。。感觉好遥远  这姐姐怎么来中国发展了吗。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32094670)<br>从一个地方迁徙到一个地方...<br>2014-07-01 18:00<br>赞(0) 踩(0) | <div>初三那个夏天 一首dream无数个夏夜单曲循环 最后听到空耳唱出所以歌词<br><br>那是三年前了啊。。。感觉好遥远  这姐姐怎么来中国发展了吗。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37138371)<br><br>2014-06-29 16:23<br>赞(0) 踩(0) | <div>hfghf</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37138371)<br><br>2014-06-29 16:20<br>赞(0) 踩(0) | <div>ghfhg</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25654637)<br><br>2014-06-28 15:54<br>赞(0) 踩(0) | <div>你信不信，总有一个人，他的歌声只需一个音符就会令你情不自禁得流下泪水，反正我信，宋东野是，James blunt是，她也是</div> |
@@ -430,7 +430,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25891560)<br>♪blow mymind<br>2014-03-23 11:08<br>赞(0) 踩(0) | <div>sound voice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33679370)<br><br>2014-03-21 16:55<br>赞(0) 踩(0) | <div>普莉西雅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20416418)<br><br>2014-03-15 19:30<br>赞(0) 踩(0) | <div>美女</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12945367)<br>明确目标，努力奋斗<br>2014-03-14 01:33<br>赞(0) 踩(0) | <div>金黄色的头发，肤白貌美，唇红齿白，深邃眼眸，清新脱俗，歌声甜美。PRISCILLA AHN</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12945367)<br>明确目标，努力奋斗<br>2014-03-14 01:33<br>赞(0) 踩(0) | <div>金黄色的头发，肤白貌美，唇红齿白，深邃眼眸，清新脱俗，<br>歌声甜美。PRISCILLA AHN</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3256886)<br><br>2014-03-13 17:12<br>赞(0) 踩(0) | <div>..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1134294)<br>我还没想好要写什么...<br>2014-03-09 21:05<br>赞(0) 踩(0) | <div>嘿楼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5940995)<br><br>2014-03-09 16:51<br>赞(0) 踩(0) | <div>生日快乐撒~</div> |
@@ -459,7 +459,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5752134)<br><br>2014-01-04 15:19<br>赞(0) 踩(0) | <div>近些年以来很火的欧美女歌手。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30994960)<br>blueice<br>2014-01-03 00:01<br>赞(0) 踩(0) | <div>……啥都不用说~~闭上眼睛 听~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10916867)<br><br>2013-12-25 23:04<br>赞(0) 踩(0) | <div>小清新啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12996461)<br><br>2013-12-24 17:53<br>赞(0) 踩(0) | <div>......</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12996461)<br><br>2013-12-24 17:53<br>赞(0) 踩(0) | <div>.<br>.....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12963067)<br><br>2013-12-23 15:57<br>赞(0) 踩(0) | <div>韩美混血儿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13117060)<br>从零开始<br>2013-12-20 21:59<br>赞(0) 踩(0) | <div>普莉希拉~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10300630)<br>1983<br>2013-12-16 00:15<br>赞(0) 踩(0) | <div>欧洲人的眼睛，韩国人的脸型</div> |
@@ -490,7 +490,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3434005)<br><br>2013-11-24 20:25<br>赞(0) 踩(0) | <div>Priscilla Ahn</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12758607)<br>@un_ink_orn<br>2013-11-24 19:29<br>赞(0) 踩(0) | <div>会说中文？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4909749)<br><br>2013-11-24 02:07<br>赞(0) 踩(0) | <div>好聽</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2886204)<br>tale as old<br>2013-11-23 21:45<br>赞(3) 踩(0) | <div>这GN竟然也去弯弯发展了 印象中的就是夏天里面最燃的片子pacific rim女主的那首主题旋律mako的vocal女声就是她</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2886204)<br>tale as old<br>2013-11-23 21:45<br>赞(3) 踩(0) | <div>这GN竟然也去弯弯发展了 印象中的就是夏天里面最燃的片子pacific rim<br>女主的那首主题旋律mako的vocal女声就是她</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9024240)<br>谁说癞蛤蟆不是蛤蟆<br>2013-11-23 17:03<br>赞(0) 踩(0) | <div>我什么时候能睡醒啊：(</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/829006)<br>遇到了解。<br>2013-11-23 14:33<br>赞(0) 踩(0) | <div>got you .</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2193415)<br><br>2013-11-23 10:17<br>赞(0) 踩(0) | <div>我邪恶了，我冲动了</div> |
@@ -540,7 +540,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334838533)<br>不改名。不改姓<br>2017-12-31 20:30<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311186860)<br> <br>2018-11-01 21:47<br>赞(0) 踩(0) | <div>希望听到喜欢的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10617271)<br>最美的不是下雨天<br>2013-11-16 12:04<br>赞(2) 踩(0) | <div>推荐也可以听听sophie zelmani</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3240352)<br><br>2013-11-20 11:30<br>赞(0) 踩(0) | <div>sophie zelmani 忧伤Priscilla Ahn 欢快都很好</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3240352)<br><br>2013-11-20 11:30<br>赞(0) 踩(0) | <div>sophie zelmani 忧伤<br>Priscilla Ahn 欢快<br>都很好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7937403)<br>灵魂丢了怎么办<br>2013-11-16 03:27<br>赞(200) 踩(0) | <div>请原谅我的肤浅，我是纯粹为了封面而来的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13076644)<br><br>2013-11-24 10:53<br>赞(0) 踩(0) | <div>你比较真实</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1808031)<br><br>2013-12-11 10:06<br>赞(0) 踩(0) | <div>你不是一个人</div> |
@@ -562,7 +562,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1619052)<br><br>2013-10-24 11:35<br>赞(0) 踩(0) | <div>木吉他，干净声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24852520)<br><br>2013-10-19 13:53<br>赞(0) 踩(0) | <div>從一片落葉開始~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7915865)<br><br>2013-10-16 19:48<br>赞(0) 踩(0) | <div>诶，入驻了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7571716)<br>因为穷所以宅！<br>2013-10-16 19:20<br>赞(1) 踩(0) | <div>嗷嗷嗷、不過肯定不是真人吧？不是吧？不是吧？不過就算知道不是她本人，也還是會多那麼點親切感。歡迎來蝦米。XD</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7571716)<br>因为穷所以宅！<br>2013-10-16 19:20<br>赞(1) 踩(0) | <div>嗷嗷嗷、不過肯定不是真人吧？<br>不是吧？不是吧？<br>不過就算知道不是她本人，也還是會多那麼點親切感。<br>歡迎來蝦米。XD</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6429584)<br>请让我延续 所有的思念<br>2013-10-16 16:29<br>赞(0) 踩(0) | <div>对啊，这不是真人吧……又一条评论上热门了，虽然只有俩赞，唉给自己加油哈哈~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69044)<br>这很正常，我亲爱的偏执狂<br>2013-10-15 23:36<br>赞(0) 踩(0) | <div>女神我来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6346320)<br>虾米星级筛选功能快回来！<br>2013-10-15 23:09<br>赞(0) 踩(0) | <div>Hi?</div> |
@@ -572,7 +572,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/154597)<br><br>2013-10-15 18:25<br>赞(0) 踩(0) | <div>期待新专啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3913515)<br><br>2013-10-15 18:07<br>赞(0) 踩(0) | <div>欢迎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4398829)<br>我不是后裔，不带弓与箭。<br>2013-10-15 14:53<br>赞(1) 踩(0) | <div>入驻了，表示欢迎和好奇。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2883144)<br>打我我给你钱<br>2013-10-15 14:48<br>赞(0) 踩(0) | <div>是不是真人，是不是真人？？？求出现，求真身出现，求现身.不会开口就是中文吧，求交流！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2883144)<br>打我我给你钱<br>2013-10-15 14:48<br>赞(0) 踩(0) | <div>是不是真人，是不是真人？？？<br>求出现，求真身出现，求现身.<br>不会开口就是中文吧，求交流！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1997808)<br>怀旧是一种情怀<br>2013-10-15 14:24<br>赞(0) 踩(0) | <div>国内的有可能是本人，这国外的肯定是交给中方打理</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12055327)<br>音乐无国界<br>2013-10-15 13:39<br>赞(2) 踩(0) | <div>我想问，到底是不是她自己入驻了？她也知道我们大中华的虾米？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340970)<br>◕‿◕✿<br>2013-10-15 18:43<br>赞(0) 踩(0) | <div>同问</div> |
@@ -607,7 +607,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9780230)<br><br>2013-08-13 16:59<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9780230)<br><br>2013-08-13 16:59<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13974748)<br>只叙温暖  不言殇<br>2013-08-10 20:07<br>赞(0) 踩(0) | <div>清新女声，喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8137697)<br><br>2013-08-07 22:33<br>赞(1) 踩(0) | <div>聽過7/31在台北的小型演唱會後，更喜歡普莉西亞了歌聲純淨動人不在話下，也很親切地和歌迷互動，她的舉止真是太可愛了XD當天也唱了蘇打綠、張懸....的歌，實在是一大驚喜有機會一定要去參加她的LIVE演唱，大推！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8137697)<br><br>2013-08-07 22:33<br>赞(1) 踩(0) | <div>聽過7/31在台北的小型演唱會後，更喜歡普莉西亞了<br>歌聲純淨動人不在話下，也很親切地和歌迷互動，她的舉止真是太可愛了XD<br>當天也唱了蘇打綠、張懸....的歌，實在是一大驚喜<br>有機會一定要去參加她的LIVE演唱，大推！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16774402)<br><br>2013-07-27 07:16<br>赞(0) 踩(0) | <div>love voice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2737024)<br>不是僵尸号，台湾流行乐爱...<br>2013-07-21 10:56<br>赞(1) 踩(0) | <div>dream的live也相当稳！ahn真的太赞了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3490210)<br>♥ 女孩與機器人<br>2013-07-17 21:11<br>赞(0) 踩(0) | <div>♥,女声,小清新,欧美,Priscilla Ahn,</div> |
@@ -619,8 +619,8 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1335979)<br><br>2013-07-12 11:56<br>赞(0) 踩(0) | <div>喜欢抱着吉他的感觉</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8157155)<br>暂无签名~<br>2013-07-12 17:16<br>赞(0) 踩(0) | <div>不能同意更多！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1335979)<br><br>2013-07-12 20:24<br>赞(0) 踩(0) | <div><q><b>小明说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2245309)<br><br>2013-07-11 13:25<br>赞(0) 踩(0) | <div>你也喜歡宮崎駿的動畫電影嗎？非常喜歡宮崎駿的普莉西雅在專輯中曾經翻唱過多首電影主題曲，她清澈溫柔的嗓音和動畫裡純真無憂的世界十分吻合，7月31日的台北演唱會上，普莉西雅也將用透明純淨的嗓音，現場詮釋宮崎駿的動畫主題曲，請千萬不要錯過喔！購票請上博客來售票網http://**/10rNURm</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2245309)<br><br>2013-07-10 15:21<br>赞(1) 踩(0) | <div><a href="http://www.facebook.com/priscillaahntw?ref=stream" target="_blank" rel="nofollow noreferrer noopener">http://www.facebook.com/priscillaahntw?ref=stream</a>喜歡Priscilla Ahn，別錯過7月31日台北演唱會</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2245309)<br><br>2013-07-11 13:25<br>赞(0) 踩(0) | <div>你也喜歡宮崎駿的動畫電影嗎？<br>非常喜歡宮崎駿的普莉西雅在專輯中曾經翻唱過多首電影主題曲，<br>她清澈溫柔的嗓音和動畫裡純真無憂的世界十分吻合，<br>7月31日的台北演唱會上，普莉西雅也將用透明純淨的嗓音，<br>現場詮釋宮崎駿的動畫主題曲，請千萬不要錯過喔！<br><br>購票請上博客來售票網http://**/10rNURm</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2245309)<br><br>2013-07-10 15:21<br>赞(1) 踩(0) | <div><a href="http://www.facebook.com/priscillaahntw?ref=stream" target="_blank" rel="nofollow noreferrer noopener">http://www.facebook.com/priscillaahntw?ref=stream</a><br>喜歡Priscilla Ahn，別錯過7月31日台北演唱會</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16780033)<br><br>2013-07-09 13:40<br>赞(0) 踩(0) | <div>nice vocal</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9883974)<br>jazz fun<br>2013-07-05 21:12<br>赞(1) 踩(0) | <div>听到台北爱乐电台介绍，一首《昂首前行》，把女儿几乎听出泪来。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3724989)<br> <br>2013-07-09 09:43<br>赞(0) 踩(0) | <div>请问昂首前行是哪一首啊，谢谢</div> |
@@ -633,7 +633,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3789723)<br>每当生命中美好的东西要来...<br>2013-06-23 20:55<br>赞(0) 踩(0) | <div>普莉西亚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14355121)<br><br>2013-06-23 14:52<br>赞(0) 踩(0) | <div>心靈獲得釋放的好歌聲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14355121)<br><br>2013-06-23 14:52<br>赞(0) 踩(0) | <div>心靈獲得釋放的好歌聲 雋永</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15430221)<br><br>2013-06-22 12:22<br>赞(0) 踩(0) | <div>很放鬆的心情在听她唱随歌曲翩翩起舞</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15430221)<br><br>2013-06-22 12:22<br>赞(0) 踩(0) | <div>很放鬆的心情在听她唱<br>随歌曲翩翩起舞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6020144)<br><br>2013-06-21 15:11<br>赞(0) 踩(0) | <div>Priscilla Ahn</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/627423)<br>凸虾米你妹！<br>2013-06-19 22:36<br>赞(0) 踩(0) | <div>金牌大风签约艺人……金牌大风……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14606452)<br>純粹的坦然 在音樂中相遇<br>2013-06-17 23:50<br>赞(0) 踩(0) | <div>傾心</div> |
@@ -652,7 +652,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15301193)<br><br>2013-05-17 10:04<br>赞(0) 踩(0) | <div>清新自然，舒适安静，好喜欢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10039350)<br> <br>2013-05-10 21:20<br>赞(0) 踩(0) | <div>其实她还是史逸欣更耐听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-05-10 01:52<br>赞(0) 踩(0) | <div>美国独立清新女声，30084.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8935751)<br>COBHC<br>2013-05-09 11:18<br>赞(0) 踩(0) | <div>呵呵 我发现了，虾米品味比较高的人们，全部都是喜欢外国歌曲~因为西洋乐器和他们高度发达的国家那种普世价值一样~主宰着这个世界的时尚和流行最前沿！....拉个二胡唱个京剧呗..</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8935751)<br>COBHC<br>2013-05-09 11:18<br>赞(0) 踩(0) | <div>呵呵 我发现了，虾米品味比较高的人们，全部都是喜欢外国歌曲~因为西洋乐器和他们高度发达的国家那种普世价值一样~主宰着这个世界的时尚和流行最前沿！....<br>拉个二胡唱个京剧呗..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3078101)<br>ErinOR绘酱@wb<br>2013-05-06 18:21<br>赞(0) 踩(0) | <div>居然从来没听过这个人…………声线其实不算独特但唱歌的情绪还不错www去搜搜别的歌试试_(:3丿 ∠)_</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8000292)<br><br>2013-05-05 14:03<br>赞(0) 踩(0) | <div>喜欢的风格~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12567953)<br>爱世界爱音乐<br>2013-05-01 22:17<br>赞(0) 踩(0) | <div>lenka</div> |
@@ -849,7 +849,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7155273)<br><br>2012-05-09 11:19<br>赞(0) 踩(0) | <div>peace</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8737557)<br><br>2012-05-07 22:02<br>赞(0) 踩(0) | <div>Priscilla Ahn</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2155429)<br><br>2012-05-06 17:22<br>赞(0) 踩(0) | <div>舒服民谣，可爱。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2155429)<br><br>2012-05-06 17:22<br>赞(0) 踩(0) | <div>好可爱说。舒服的调调，成人式的欢快。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2155429)<br><br>2012-05-06 17:22<br>赞(0) 踩(0) | <div>好可爱说。<br>舒服的调调，成人式的欢快。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7786748)<br>Be simple, b...<br>2012-04-29 12:08<br>赞(0) 踩(0) | <div>Good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1047000)<br>今天不蹦迪 明天变垃圾<br>2012-04-28 22:48<br>赞(0) 踩(0) | <div>当年的dream</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287699)<br><br>2012-04-27 19:09<br>赞(0) 踩(0) | <div>独立民谣</div> |
@@ -964,7 +964,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/741567)<br> <br>2011-11-07 22:27<br>赞(0) 踩(0) | <div>那只女子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3819550)<br><br>2011-11-07 19:53<br>赞(0) 踩(0) | <div>第一次听她的声音就喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/523143)<br>你听见了吗？<br>2011-11-07 10:30<br>赞(0) 踩(0) | <div>像这样的清新女声有点儿太多了，有时候听着听着就免疫了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5952982)<br><br>2011-11-06 15:15<br>赞(0) 踩(0) | <div>like.............................</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5952982)<br><br>2011-11-06 15:15<br>赞(0) 踩(0) | <div>like..........................<br>...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4959148)<br><br>2011-11-06 13:00<br>赞(0) 踩(0) | <div>舒服的女声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2887455)<br><br>2011-11-06 10:03<br>赞(0) 踩(0) | <div>Oo La La  Oo La La  Oo La La</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2943000)<br><br>2011-11-05 18:53<br>赞(0) 踩(0) | <div>一点点欢快的小清新</div> |
@@ -1255,7 +1255,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1916249)<br>我还没想好要写什么...<br>2011-06-04 10:29<br>赞(0) 踩(0) | <div>bu</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446074)<br> <br>2011-06-04 09:02<br>赞(0) 踩(0) | <div>Priscilla Ahn</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1097787)<br><br>2011-06-03 19:06<br>赞(0) 踩(0) | <div>人美歌也很好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3085961)<br>オレンジ果汁<br>2011-06-03 15:22<br>赞(0) 踩(0) | <div>从《When you grow up》认识了这个民谣小天后~原来，就是喜欢民谣！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3085961)<br>オレンジ果汁<br>2011-06-03 15:22<br>赞(0) 踩(0) | <div>从《When you grow up》认识了这个民谣小天后~<br>原来，就是喜欢民谣！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4161263)<br><br>2011-06-03 13:01<br>赞(0) 踩(0) | <div>小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3950645)<br><br>2011-06-03 01:19<br>赞(0) 踩(0) | <div>才女  好愛阿!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3350452)<br><br>2011-06-02 17:51<br>赞(0) 踩(0) | <div>soft.comfort</div> |
@@ -1291,7 +1291,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3836203)<br><br>2011-05-21 13:49<br>赞(0) 踩(0) | <div>惬意的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3716110)<br>暂无签名~<br>2011-05-21 12:53<br>赞(0) 踩(0) | <div>喜歡。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3756547)<br><br>2011-05-20 17:08<br>赞(0) 踩(0) | <div>不错，舒服</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3296228)<br><br>2011-05-20 16:50<br>赞(0) 踩(0) | <div>浅浅的低唱深深地入眠</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3296228)<br><br>2011-05-20 16:50<br>赞(0) 踩(0) | <div>浅浅的低唱<br>深深地入眠</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3589077)<br><br>2011-05-20 13:57<br>赞(0) 踩(0) | <div>喜欢这样的风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3359863)<br><br>2011-05-20 09:28<br>赞(0) 踩(0) | <div>喜欢这种调调……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355443)<br>How could I....<br>2011-05-20 09:24<br>赞(0) 踩(0) | <div>小女生一个~</div> |
@@ -1395,7 +1395,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3083203)<br><br>2011-05-02 10:25<br>赞(0) 踩(0) | <div>第一次听到就喜欢了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/959638)<br><br>2011-05-02 00:19<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2377471)<br><br>2011-05-01 22:57<br>赞(0) 踩(0) | <div>小清新，甜甜的，简单的旋律~~美妙的下午~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/387302)<br>我还没想好要写什么...<br>2011-05-01 17:45<br>赞(0) 踩(0) | <div>在虾米第N次给我推荐她之后...........算了就收了她吧</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/387302)<br>我还没想好要写什么...<br>2011-05-01 17:45<br>赞(0) 踩(0) | <div>在虾米第N次给我推荐她之后...........<br>算了就收了她吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1515914)<br>没签过名(˶‾᷄ ⁻̫ ...<br>2011-05-02 02:38<br>赞(0) 踩(0) | <div>无奈呀；；； 嘎嘎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1570877)<br><br>2011-05-01 14:11<br>赞(0) 踩(0) | <div>舒服的声音。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2672107)<br>   人活一世真的不能多...<br>2011-05-01 13:20<br>赞(0) 踩(0) | <div>a good day</div> |
@@ -1562,7 +1562,7 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169922)<br><br>2011-02-13 13:27<br>赞(0) 踩(0) | <div>又找到以前不知名的砖。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2647011)<br><br>2011-02-12 22:13<br>赞(0) 踩(0) | <div>喜欢她恬静的声音，让人感觉轻松美好。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69044)<br>这很正常，我亲爱的偏执狂<br>2011-02-12 18:55<br>赞(0) 踩(0) | <div>大爱啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1022840)<br><br>2011-02-12 10:51<br>赞(0) 踩(0) | <div>喜欢懒洋洋的嗓音</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1022840)<br><br>2011-02-12 10:51<br>赞(0) 踩(0) | <div>喜欢<br>懒洋洋的嗓音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1005161)<br><br>2011-02-11 12:14<br>赞(0) 踩(0) | <div>Priscilla Ahn</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/969885)<br>trap<br>2011-02-10 18:50<br>赞(0) 踩(0) | <div>清新的嗓音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2781286)<br><br>2011-02-09 18:15<br>赞(0) 踩(0) | <div>好聽的聲音~</div> |
@@ -1612,9 +1612,9 @@ In 2015,her single “Fine On The Outside”was selected for the 88 th  Oscar aw
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/684222)<br>只有偶然相遇触碰了心里<br>2011-01-07 23:07<br>赞(0) 踩(0) | <div>【Priscilla Ahn】</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/456516)<br>.<br>2011-01-06 14:52<br>赞(0) 踩(0) | <div>声音像一杯热巧克力~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/567768)<br>受伤护士<br>2010-12-05 19:24<br>赞(0) 踩(0) | <div>HI 好久不见</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1748265)<br><br>2010-11-25 17:09<br>赞(0) 踩(0) | <div>◎【實習醫生】第四季片尾兩集，連續完整引用話題單曲〈Dream〉！◎才子艾摩斯李Amos Lee欽點提拔，年僅24歲、融合民謠、鄉村、流行與爵士的首張自信作品。◎清新嗓音、淡淡配樂以及意境詞曲，時而感傷、時而欣喜，交織出超齡的音樂夢想。◎繼Psapp、Snow Patrol、The Fray、KT Tunstall之後，勇奪【實習醫生】影迷最新高人氣詢問。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1748265)<br><br>2010-11-25 17:09<br>赞(0) 踩(0) | <div>◎【實習醫生】第四季片尾兩集，連續完整引用話題單曲〈Dream〉！<br>◎才子艾摩斯李Amos Lee欽點提拔，年僅24歲、融合民謠、鄉村、流行與爵士的首張自信作品。<br>◎清新嗓音、淡淡配樂以及意境詞曲，時而感傷、時而欣喜，交織出超齡的音樂夢想。<br>◎繼Psapp、Snow Patrol、The Fray、KT Tunstall之後，勇奪【實習醫生】影迷最新高人氣詢問。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1141641)<br>这家伙很懒,个人介绍也没...<br>2010-11-03 16:44<br>赞(0) 踩(0) | <div>嗯</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103455)<br><br>2010-09-29 11:25<br>赞(0) 踩(0) | <div>Priscilla Ahn，美国人，会多种乐器的独立民谣歌手。1984年生于美国佐治亚洲的Fort Stewart，出生名为Priscilla Natalie Hartranft，是韩美混血引，母亲韩文名姓安，父亲Harry Hartranft是美国人，兄弟Jacob Hartranft。然而长大后，她跟随了母亲的姓氏——Ahn（安）。自幼在宾夕法尼亚州长大。曾先后在宾夕法尼亚的Reading生活10年，在韩国居住了一段时间，之后又搬至宾夕法尼亚的Bernville。她从小在学校、教堂唱诗班唱歌。难怪长的像亚洲人</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103455)<br><br>2010-09-29 11:25<br>赞(0) 踩(0) | <div>Priscilla Ahn，美国人，会多种乐器的独立民谣歌手。1984年生于美国佐治亚洲的Fort Stewart，出生名为Priscilla Natalie Hartranft，是韩美混血引，母亲韩文名姓安，父亲Harry Hartranft是美国人，兄弟Jacob Hartranft。然而长大后，她跟随了母亲的姓氏——Ahn（安）。自幼在宾夕法尼亚州长大。曾先后在宾夕法尼亚的Reading生活10年，在韩国居住了一段时间，之后又搬至宾夕法尼亚的Bernville。她从小在学校、教堂唱诗班唱歌。<br><br>难怪长的像亚洲人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1306112)<br><br>2010-08-23 13:05<br>赞(0) 踩(0) | <div>遇见喜欢的声音：）好象看见太阳的光晕里，她甩甩长发，哼唱着那些浅浅的小歌，云淡风轻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1224725)<br>最近很忙啷里个啷，奖励自...<br>2010-08-22 14:48<br>赞(0) 踩(0) | <div>有种牵引灵魂的魔力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/510868)<br><br>2010-08-04 10:25<br>赞(0) 踩(0) | <div>让人感觉舒服的女孩子</div> |

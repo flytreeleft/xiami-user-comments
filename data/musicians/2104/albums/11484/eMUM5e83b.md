@@ -39,7 +39,7 @@ I~~~know I Know I Know I Know And I Know
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4811661)<br><br>2012-04-07 18:06<br>赞(0) 踩(0) | <div>AND I DON'T KNOW~~~WOW,YAH.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1721546)<br>梦想成真<br>2011-04-09 12:10<br>赞(0) 踩(0) | <div>good</div> |

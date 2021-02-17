@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b0efd702ae7f895bef6a19a57e737f54.jpg)<br>高文强](https://i.xiami.com/gaowenqiang) | **播放数**: 3455328<br>**粉丝数**: 46<br>**评论数**: 12<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/b0efd702ae7f895bef6a19a57e737f54.jpg)<br>高文强](https://i.xiami.com/gaowenqiang) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 3455328<br>**粉丝数**: 46<br>**评论数**: 12<br> |
 
 ## 档案
 
@@ -52,8 +52,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445647273)<br><br>2020-10-29 19:37<br>赞(0) 踩(0) | <div>太难听了，别再发布出来侮辱我们耳朵里</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63045560)<br><br>2019-11-08 22:33<br>赞(1) 踩(0) | <div>真难听   来用着修音话筒也休不了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346385351)<br><br>2019-11-04 23:10<br>赞(0) 踩(0) | <div>唱的真恶心</div> |

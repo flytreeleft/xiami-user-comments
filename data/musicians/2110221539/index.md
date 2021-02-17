@@ -3,13 +3,10 @@ Evildoer
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/865c52bb618c6b97ef25b94725fabff6.jpg)<br>Evildoer](https://i.xiami.com/cxcdb) | **播放数**: 3014611<br>**粉丝数**: 144<br>**评论数**: 15<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 欧美流行 Western Pop, 粤语流行 Cantopop<br> |
+| [![](../../images/musicians/865c52bb618c6b97ef25b94725fabff6.jpg)<br>Evildoer](https://i.xiami.com/cxcdb) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 欧美流行 Western Pop, 粤语流行 Cantopop<br>**播放数**: 3014611<br>**粉丝数**: 144<br>**评论数**: 15<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -19,8 +16,8 @@ Evildoer
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21024350)<br>我还没想好要写什么...<br>2021-01-28 04:58<br>赞(0) 踩(0) | <div>你在哪里还有主页呀？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51615877)<br> <br>2020-06-04 19:41<br>赞(0) 踩(0) | <div>很喜欢你的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422039699)<br><br>2020-05-13 07:50<br>赞(0) 踩(0) | <div>看到这个怼脸自拍，我猜他是个中国人结果真是</div> |

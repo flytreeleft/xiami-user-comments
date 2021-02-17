@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4c584fb031bd4428238ab9725bfe83c5.jpg)<br>王帮仁](https://i.xiami.com/com) | **播放数**: 6904715<br>**粉丝数**: 178<br>**评论数**: 23<br>**地区**: China 中国大陆<br>**风格**: 标准歌曲 Standards, 国语流行 Mandarin Pop, 电音流行 Electropop<br> |
+| [![](../../images/musicians/4c584fb031bd4428238ab9725bfe83c5.jpg)<br>王帮仁](https://i.xiami.com/com) | **地区**: China 中国大陆<br>**风格**: 标准歌曲 Standards, 国语流行 Mandarin Pop, 电音流行 Electropop<br>**播放数**: 6904715<br>**粉丝数**: 178<br>**评论数**: 23<br> |
 
 ## 档案
 
@@ -66,8 +66,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2019-06-18 10:49<br>赞(0) 踩(0) | <div>11947</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2018-08-04 05:13<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308303217)<br>姑娘请你不要低头，你的皇...<br>2018-02-01 22:40<br>赞(3) 踩(0) | <div>今年30出头</div> |

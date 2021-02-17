@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/73bba74272df01df33e2ee59294a812c.jpg)<br>张宇桦](https://i.xiami.com/zyh) | **播放数**: 11619297<br>**粉丝数**: 5650<br>**评论数**: 77<br>**地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 轻音乐流行 Light Pop<br> |
+| [![](../../images/musicians/73bba74272df01df33e2ee59294a812c.jpg)<br>张宇桦](https://i.xiami.com/zyh) | **地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 轻音乐流行 Light Pop<br>**播放数**: 11619297<br>**粉丝数**: 5650<br>**评论数**: 77<br> |
 
 ## 档案
 
@@ -43,8 +43,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-10-12 13:26<br>赞(0) 踩(0) | <div>✔️✔️✔️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1738111)<br>enjoy music<br>2020-03-21 07:30<br>赞(1) 踩(0) | <div>哇塞喜欢，虾米简直是宝藏 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5635270)<br><br>2020-03-02 14:09<br>赞(2) 踩(0) | <div>很幸运，能遇到张宇桦这样，用心做音乐又如此有才华的音乐人!</div> |
@@ -60,7 +60,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334316278)<br>我还没想好要写什么...<br>2019-02-09 13:09<br>赞(7) 踩(0) | <div>喜欢，可以反复听下去。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369588905)<br><br>2018-10-28 10:29<br>赞(2) 踩(0) | <div>喜欢你的音乐。不过想建议你买个较好的钢琴。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12221090)<br>逍遥于天地而心意自得<br>2018-09-27 13:04<br>赞(1) 踩(0) | <div>赞</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304506374)<br>诗和歌是我永远的朋友!<br>2018-09-14 23:59<br>赞(3) 踩(0) | <div>喜欢风中的蒲公英像征自由的旅行不知何处是吾家心安处便是吾家</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304506374)<br>诗和歌是我永远的朋友!<br>2018-09-14 23:59<br>赞(3) 踩(0) | <div>喜欢风中的蒲公英<br>像征自由的旅行<br>不知何处是吾家<br>心安处便是吾家</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65265104)<br>变化是永恒的<br>2018-07-29 12:32<br>赞(1) 踩(0) | <div>求谱子 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258165896)<br><br>2019-02-11 09:32<br>赞(0) 踩(0) | <div>淘宝上有星空下的钢琴曲这本书，全部歌曲都有，我有一本哈哈！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321219309)<br>江湖险恶，不行就撤<br>2018-07-11 13:59<br>赞(3) 踩(0) | <div>都很好听，强烈推荐，不落俗套的好听。</div> |
@@ -74,7 +74,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258165896)<br><br>2017-12-19 18:01<br>赞(0) 踩(0) | <div>电脑下载虾米音乐电脑版本，就可以下载到电脑本地了！ <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png">现在每一个播放器都是这样的方法，才能下载到电脑！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258165896)<br><br>2017-12-19 18:01<br>赞(0) 踩(0) | <div>电脑下载虾米音乐电脑版本，就可以下载到电脑本地了！ <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png">现在每一个播放器都是这样的方法，才能下载到电脑！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16968900)<br><br>2017-10-30 10:15<br>赞(2) 踩(0) | <div>《唱着学乐理》这张专辑是作曲家张宇桦老师把乐理知识写进一首首曲调优美的歌曲里面，让大家更通俗方便的学习乐理。不是枯燥的理论知识，而是一首首优美的歌曲不是让人犯晕的高深道理，而是连三岁孩童都能熟记的歌词 不是让你花很多时间来学习，只需要听听唱片——就能学到基础乐理的精髓所在！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258165896)<br><br>2017-10-30 09:55<br>赞(3) 踩(0) | <div>217-01-27期，《奇葩大会》第二期31:15何炅老师说话的配乐用了张宇桦老师《优美的小调》这首歌曲耶！太棒了！[强][强][强][强][强][强]祝大家新年快乐！万事如意！身体健康！财源滚滚来！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258165896)<br><br>2017-10-30 09:55<br>赞(3) 踩(0) | <div>217-01-27期，《奇葩大会》第二期31:15何炅老师说话的配乐用了张宇桦老师《优美的小调》这首歌曲耶！太棒了！[强][强][强][强][强][强]<br>祝大家新年快乐！万事如意！身体健康！财源滚滚来！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296680489)<br><br>2017-10-13 23:42<br>赞(1) 踩(0) | <div>真美好！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2021147)<br>我行我素<br>2017-10-13 22:43<br>赞(1) 踩(0) | <div>刚聆听完《优美的小调》，回想起那些在琴键上消耗的时光，曲子走入了我的心里，勾起了无数回忆，我谈小调总是有问题，因为我天生小指比别人短一截，谈的时候换指总是换不过来，我烦小调，它那么忧伤，但我又爱小调，因为爱的对立给了我生动的一课，那些你曾经计较的，最终都会成就你。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284834078)<br><br>2017-10-07 18:40<br>赞(4) 踩(0) | <div>喜欢这种音域广阔、青葱跳跃、畅想愉快、带着很强生命节奏的钢琴乐曲。</div> |

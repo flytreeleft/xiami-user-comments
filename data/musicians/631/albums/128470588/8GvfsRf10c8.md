@@ -75,9 +75,9 @@ C&amp;T：多得你在
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 22:11<br>赞(0) 踩(0) | <div>「能跟Living legend杜丽莎分享同一个舞台，是我生命里其中一个高点。她是一个顶级的歌曲演绎者，真正的歌手，那几场演唱会我获益良多，永远心存感激。一直酝酿多时，希望跟她合唱一首我写的歌，写了一年后，终于有这首作品：一段心跟脑袋的对话，收录在Crossroads专辑的重要作品。」&amp;mdash;&amp;mdash;一峰2020.4.24于微博</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 22:11<br>赞(0) 踩(0) | <div>「能跟Living legend杜丽莎分享同一个舞台，是我生命里其中一个高点。她是一个顶级的歌曲演绎者，真正的歌手，那几场演唱会我获益良多，永远心存感激。一直酝酿多时，希望跟她合唱一首我写的歌，写了一年后，终于有这首作品：一段心跟脑袋的对话，收录在Crossroads专辑的重要作品。」<br>&amp;mdash;&amp;mdash;一峰<br>2020.4.24于微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259142437)<br>人来人往<br>2020-02-01 16:52<br>赞(0) 踩(0) | <div>-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119399780)<br><br>2018-06-20 16:48<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223854477)<br>1<br>2017-03-20 22:59<br>赞(1) 踩(0) | <div>这是林一峰吗</div> |
@@ -92,8 +92,8 @@ C&amp;T：多得你在
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2799752)<br>我还没想好要写什么...<br>2016-01-15 12:44<br>赞(0) 踩(0) | <div>前奏好棒！！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51800191)<br><br>2017-01-26 11:09<br>赞(0) 踩(0) | <div>你好呵呵</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11286938)<br>慢慢回消息留言,不好意思<br>2017-03-01 15:50<br>赞(0) 踩(0) | <div><q><b>thinking_123说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44724810)<br><br>2015-06-16 15:16<br>赞(1) 踩(0) | <div>C：為何愛T：為何忍耐C：為了捍衛未來我是我的主宰#林一峰# @林一峰chetlam</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/889975)<br> <br>2015-06-15 21:27<br>赞(0) 踩(0) | <div>第十哈哈前奏好耳熟，来个人告诉我这是哪首歌里的呃</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44724810)<br><br>2015-06-16 15:16<br>赞(1) 踩(0) | <div>C：為何愛<br>T：為何忍耐<br>C：為了捍衛未來我是我的主宰<br>#林一峰# @林一峰chetlam</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/889975)<br> <br>2015-06-15 21:27<br>赞(0) 踩(0) | <div>第十哈哈<br>前奏好耳熟，来个人告诉我这是哪首歌里的呃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22644)<br><br>2015-06-15 11:32<br>赞(0) 踩(0) | <div>第九 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17244522)<br>豆瓣：香槟铁皮屋<br>2015-06-14 23:55<br>赞(0) 踩(0) | <div>第八哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13528605)<br>stay gold<br>2015-06-14 23:48<br>赞(0) 踩(0) | <div>第七耶～</div> |

@@ -38,8 +38,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8965878)<br><br>2019-08-01 16:21<br>赞(1) 踩(0) | <div>泪奔啊！当年反复倒带听的歌 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14002883)<br>暂无签名~<br>2014-04-07 17:41<br>赞(0) 踩(0) | <div>@张忘得快儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6740839)<br><br>2012-10-01 12:52<br>赞(1) 踩(0) | <div>不可思议 十几年前睡在大学宿舍里 a面到b面 翻来覆去的听高林生的这张专辑 每首歌都非常非常好听</div> |

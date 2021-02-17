@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f5be5c8cfbc270bbf1e664a2e3910fc0.jpg)<br>魏佳艺](https://i.xiami.com/joyandheat) | **播放数**: 5391648<br>**粉丝数**: 585<br>**评论数**: 31<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 电子 Electronic, 流行说唱 Pop Rap, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/f5be5c8cfbc270bbf1e664a2e3910fc0.jpg)<br>魏佳艺](https://i.xiami.com/joyandheat) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 电子 Electronic, 流行说唱 Pop Rap, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 5391648<br>**粉丝数**: 585<br>**评论数**: 31<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -33,14 +30,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-11-22 11:38<br>赞(0) 踩(0) | <div>42091</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262726350)<br><br>2020-11-19 18:39<br>赞(0) 踩(0) | <div>这就是网络流行的烟嗓吗？很有穿透力，喜欢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445617412)<br><br>2020-11-16 08:45<br>赞(0) 踩(0) | <div>以前的呢？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431447637)<br><br>2019-10-31 23:41<br>赞(2) 踩(0) | <div>好好听孟婆的碗</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431447637)<br><br>2019-10-31 23:41<br>赞(2) 踩(0) | <div>好好听<br>孟婆的碗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352754459)<br>虾米真的很棒<br>2019-06-19 22:03<br>赞(0) 踩(0) | <div>我听了你唱的友谊之光，太棒了， <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349310290)<br><br>2018-05-26 20:59<br>赞(2) 踩(0) | <div>怎么都不是以前的嗓音了？？？怎么都不是以前的嗓音了？？？怎么都不是以前的嗓音了？？？全都降调了，还是喜欢以前的魏佳艺</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349310290)<br><br>2018-05-26 20:59<br>赞(2) 踩(0) | <div>怎么都不是以前的嗓音了？？？<br>怎么都不是以前的嗓音了？？？<br>怎么都不是以前的嗓音了？？？<br>全都降调了，还是喜欢以前的魏佳艺</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308467781)<br><br>2018-05-26 00:03<br>赞(3) 踩(0) | <div>好喜欢孟婆的碗这首歌 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371088875)<br><br>2018-05-23 21:20<br>赞(0) 踩(0) | <div>只有乐曲,没人声.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89960516)<br><br>2018-03-06 17:19<br>赞(0) 踩(0) | <div>我是冰雨、好喜欢你</div> |
@@ -64,5 +61,5 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347035045)<br><br>2018-01-30 22:21<br>赞(0) 踩(0) | <div><img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">佳艺。我听你这歌三年了。感觉好好听。越听越不腻。我还是听你以前唱的。可以换过来嘛。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142091526)<br><br>2018-04-25 05:39<br>赞(0) 踩(0) | <div>喜欢你</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370387811)<br><br>2018-05-22 09:41<br>赞(0) 踩(0) | <div>老大，这都是三年以前的留言了，而我现在才看到，有点迟到了这里面你唱过的歌不多呀</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349310290)<br><br>2018-05-26 21:01<br>赞(0) 踩(0) | <div>怎么都不是以前的嗓音了？？？怎么都不是以前的嗓音了？？？怎么都不是以前的嗓音了？？？全都降调了，为什么？还是喜欢以前的魏佳艺，现在的嗓音根本没有了以前的激情啊！从女人如烟开始迷恋你的嗓音了，消失了很久，再出来就不是原来的魏佳艺了</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349310290)<br><br>2018-05-26 21:01<br>赞(0) 踩(0) | <div>怎么都不是以前的嗓音了？？？<br>怎么都不是以前的嗓音了？？？<br>怎么都不是以前的嗓音了？？？<br>全都降调了，为什么？还是喜欢以前的魏佳艺，现在的嗓音根本没有了以前的激情啊！<br><br>从女人如烟开始迷恋你的嗓音了，消失了很久，再出来就不是原来的魏佳艺了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351448969)<br>中国我爱你么么哒<br>2019-07-01 01:54<br>赞(0) 踩(0) | <div>唱的挺好的我给你一百个赞吧 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |

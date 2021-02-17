@@ -61,8 +61,8 @@ Di da ···<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353606217)<br><br>2018-03-23 19:57<br>赞(0) 踩(0) | <div>我没有买过哪些同学录，我用的是明信片，让他们写下对我想说的话，或许很怀念，，但是现在或许比以前更好呢！所以我不会去留恋，留恋了又能怎么样呢！只要心在，人不管走多远都会想起美好的时光，时光不老，我们仍在。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36987940)<br> <br>2018-01-07 23:18<br>赞(1) 踩(0) | <div>很棒呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12992963)<br><br>2017-12-18 02:19<br>赞(0) 踩(0) | <div>二教楼门口的那片操场</div> |
@@ -114,7 +114,7 @@ Di da ···<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39135147)<br>珍惜生命，享受生活<br>2014-07-19 18:00<br>赞(1) 踩(0) | <div>青春已成定格，临别一握的温柔便是永恒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12812783)<br>你都如何回忆我，带着笑或...<br>2014-06-27 00:24<br>赞(0) 踩(0) | <div>夜深听歌最赞…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34206211)<br>我还没想好要写什么...<br>2014-05-15 17:16<br>赞(0) 踩(0) | <div>好朋友~！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3560240)<br>爱听歌的少女已经变成一个...<br>2014-04-19 15:45<br>赞(2) 踩(0) | <div>前面都是外语，来首中文。曹方是我很喜欢的内地女歌手。最喜欢的歌是这一首，从第一次听就爱上了。在青春的纪念册里，我们也见证着自己的成长。那个相册里傻傻的姑娘，如今已经长大，亭亭玉立。那一年的我，是那样的倔强，但是有你陪伴，我绝不孤单。吉他的伴奏，曹方轻轻的声音，我们仿佛跟随她一起，飞回了属于自己的童年。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3560240)<br>爱听歌的少女已经变成一个...<br>2014-04-19 15:45<br>赞(2) 踩(0) | <div>前面都是外语，来首中文。<br>曹方是我很喜欢的内地女歌手。<br>最喜欢的歌是这一首，从第一次听就爱上了。<br>在青春的纪念册里，我们也见证着自己的成长。<br>那个相册里傻傻的姑娘，如今已经长大，亭亭玉立。<br>那一年的我，是那样的倔强，但是有你陪伴，我绝不孤单。<br>吉他的伴奏，曹方轻轻的声音，我们仿佛跟随她一起，飞回了属于自己的童年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35219911)<br>我还没看清你<br>2014-04-11 20:53<br>赞(1) 踩(0) | <div>旋律动听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164885)<br>老天给了我两样最美的东西...<br>2014-03-17 12:51<br>赞(0) 踩(0) | <div>吃完饭的午后来首歌轻轻放松，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10281012)<br><br>2013-11-20 01:39<br>赞(1) 踩(0) | <div>歌词啊歌词</div> |
@@ -135,7 +135,7 @@ Di da ···<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15465426)<br><br>2013-06-08 01:50<br>赞(0) 踩(0) | <div>傻笑的姑娘听说已端庄。啧啧。晚安。整个世界。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15500773)<br><br>2013-06-02 19:52<br>赞(0) 踩(0) | <div>#毕业歌曲#【再见，有你们的青春】“再见，每天斑驳的黑板；再见“男士止步”；再见，没有送出去的玫瑰花；再见，篮球场上的汗水；再见，食堂饭菜里的小强；再见，这些年相伴的时光；再见，有你们的青春。带上梦想，继续前行，说好了再见，就一定会再见！”《纪念册-曹方》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15511699)<br><br>2013-05-31 00:04<br>赞(0) 踩(0) | <div>翻翻旧照片，亲亲曾经土肥圆的自己，那时也是挺可爱的嘛~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9558891)<br><br>2013-05-02 16:48<br>赞(0) 踩(0) | <div>旧了的记忆已开始泛黄闭上眼 时间 流浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9558891)<br><br>2013-05-02 16:48<br>赞(0) 踩(0) | <div>旧了的记忆已开始泛黄<br>闭上眼 时间 流浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13920734)<br> <br>2013-04-12 00:19<br>赞(0) 踩(0) | <div>闭上眼最初你的脸庞..年少的忧伤..岁月的气息。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11368665)<br><br>2013-03-29 12:43<br>赞(0) 踩(0) | <div>越听越想哭，越想哭越听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11368665)<br><br>2013-03-28 23:38<br>赞(0) 踩(0) | <div>忧伤的情怀又把我带回了大学时代，想起了我的室友们。淡淡的忧伤、惆怅，不舍被歌者演绎的恰到好处，归根结底，青春是一场明媚的殇，经历了美好，却又不得不离去。当初的一群傻姑娘，如今已变的端庄.....</div> |
@@ -151,13 +151,13 @@ Di da ···<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4735772)<br>嘿嘿、<br>2012-12-15 00:40<br>赞(0) 踩(0) | <div>毕业季的歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5789617)<br><br>2012-11-22 22:51<br>赞(0) 踩(0) | <div>Good night！我饿了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3269470)<br><br>2012-11-02 00:52<br>赞(0) 踩(0) | <div>曹方&amp;lt;纪念册&amp;gt; / 晚安。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9979636)<br><br>2012-10-13 11:56<br>赞(0) 踩(0) | <div>相册里那个傻笑的姑娘脸颊上有青春在飞扬旧了的记忆已开始泛黄闭上眼 时间 流浪......（很美好滴心情）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9979636)<br><br>2012-10-13 11:56<br>赞(0) 踩(0) | <div>相册里那个傻笑的姑娘<br>脸颊上有青春在飞扬<br>旧了的记忆已开始泛黄<br>闭上眼 时间 流浪<br>......（很美好滴心情）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5373528)<br>人生如逆旅，我亦是行人<br>2012-09-06 14:43<br>赞(0) 踩(0) | <div>又是一年开学季，听首校园民谣，干净得就像秋天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6988317)<br><br>2012-08-24 21:19<br>赞(0) 踩(0) | <div>最合适今天的心情 的 也就是这首歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8510703)<br><br>2012-07-31 01:33<br>赞(0) 踩(0) | <div>突然听到~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7970275)<br><br>2012-07-29 17:51<br>赞(0) 踩(0) | <div>Test…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7004087)<br><br>2012-06-16 02:01<br>赞(0) 踩(0) | <div>那一年的我 那么的倔强 有你陪我并不孤单 这一刻的我 已变得坚强 我知道 你一直 陪着我 就像我 从未曾走远</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4185474)<br><br>2012-06-06 13:41<br>赞(0) 踩(0) | <div>毕业进行时～我的虾米精选集第5首就是《纪念册》<a href="http://www.xiami.com/song/showcollect/id/7975660" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/showcollect/id/7975660</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4185474)<br><br>2012-06-06 13:41<br>赞(0) 踩(0) | <div>毕业进行时～<br><br>我的虾米精选集<br><br>第5首就是《纪念册》<br><br><a href="http://www.xiami.com/song/showcollect/id/7975660" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/showcollect/id/7975660</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1122177)<br><br>2012-06-01 19:42<br>赞(0) 踩(0) | <div>毕业季。。。不该只是彻夜的dota和写论文。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9285609)<br><br>2012-05-31 23:47<br>赞(0) 踩(0) | <div>那1年毕业</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8554207)<br><br>2012-05-07 10:13<br>赞(0) 踩(0) | <div>我知道你一直陪着我，就像我从未曾走远。</div> |
@@ -181,7 +181,7 @@ Di da ···<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2252032)<br><br>2011-06-23 15:43<br>赞(0) 踩(0) | <div>毕业应景曲目</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3279799)<br><br>2011-06-16 12:11<br>赞(0) 踩(0) | <div>我竟然第一次听，太好听了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1139089)<br>In music I b...<br>2011-06-04 10:57<br>赞(0) 踩(0) | <div>毕业季。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1119002)<br><br>2011-05-30 10:36<br>赞(0) 踩(0) | <div>哼一首歌 等日落曹方的声音 曲风、小特别 ╯3╰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1119002)<br><br>2011-05-30 10:36<br>赞(0) 踩(0) | <div>哼一首歌 等日落<br>曹方的声音 曲风、小特别 ╯3╰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2396580)<br><br>2011-05-23 00:17<br>赞(0) 踩(0) | <div>听哭了~~~青春~~~大家来听吧~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3407556)<br><br>2011-05-21 18:12<br>赞(0) 踩(0) | <div>本来以为记忆已经远去了，却突然发现在回首的那一刹那所有的人笑容依然还是那么清晰。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1661994)<br><br>2011-05-21 01:22<br>赞(0) 踩(0) | <div>送给毕业的你们。</div> |
@@ -191,7 +191,7 @@ Di da ···<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3807926)<br><br>2011-05-02 14:54<br>赞(0) 踩(0) | <div>喜欢安静地听着，不被打断，淡淡的，浅浅的，清澈的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3489184)<br><br>2011-04-23 11:48<br>赞(0) 踩(0) | <div>翻开纪念册，一页页闪过的是你我共同走过的画面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3677498)<br><br>2011-04-20 22:13<br>赞(0) 踩(0) | <div>淡淡的歌谣，不想评论，只想安静地听，但还是忍不住！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1745291)<br>何以解忧，唯有后摇。<br>2011-04-11 12:05<br>赞(0) 踩(0) | <div>校园民谣，还是校园爱情。不知道你怎么想。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1745291)<br>何以解忧，唯有后摇。<br>2011-04-11 12:05<br>赞(0) 踩(0) | <div>校园民谣，还是校园爱情。<br>不知道你怎么想。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2381791)<br>艰难<br>2011-03-06 09:05<br>赞(0) 踩(0) | <div>很淡很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2821227)<br><br>2011-02-15 23:15<br>赞(0) 踩(0) | <div>淡淡的情绪不喜不悲单叙述，才是对的态度。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/848610)<br>在路上<br>2011-02-09 14:29<br>赞(0) 踩(0) | <div>静静的唱！ 远远好过故作矫情</div> |
@@ -202,9 +202,9 @@ Di da ···<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609322)<br><br>2010-10-08 08:19<br>赞(0) 踩(0) | <div>很舒服的旋律。很安静，也很温暖。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1499933)<br><br>2010-09-14 16:28<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/639934)<br><br>2010-08-30 14:12<br>赞(0) 踩(0) | <div>不关你事的纪念册 哦吔</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153926)<br><br>2010-06-15 13:42<br>赞(0) 踩(0) | <div>那一年的我 那么的倔强有你陪我并不孤单</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153926)<br><br>2010-06-15 13:42<br>赞(0) 踩(0) | <div>那一年的我 那么的倔强<br>有你陪我并不孤单</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349686)<br>柯先森。<br>2010-05-29 16:12<br>赞(0) 踩(0) | <div>纪念册 也许只是一种形式 却深深表达了我们的情谊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333876)<br>愿你在这个硝烟弥漫的世界...<br>2010-05-19 13:45<br>赞(0) 踩(0) | <div>那一年的我那么的倔强/有你陪我并不孤单/这一刻的我已变得坚强/我知道你一直陪着我/就像我从未曾走远</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333876)<br>愿你在这个硝烟弥漫的世界...<br>2010-05-19 13:45<br>赞(0) 踩(0) | <div>那一年的我那么的倔强/<br>有你陪我并不孤单/<br>这一刻的我已变得坚强/<br>我知道你一直陪着我/<br>就像我从未曾走远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/437466)<br>文不能测字武不能防身<br>2010-04-27 00:18<br>赞(0) 踩(0) | <div>大班的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333876)<br>愿你在这个硝烟弥漫的世界...<br>2010-04-04 00:46<br>赞(0) 踩(0) | <div>还好有你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333876)<br>愿你在这个硝烟弥漫的世界...<br>2010-03-30 17:43<br>赞(0) 踩(0) | <div>静静听歌 默默流泪</div> |

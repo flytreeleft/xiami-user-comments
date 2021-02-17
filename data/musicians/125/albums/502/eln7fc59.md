@@ -50,16 +50,16 @@ WOO~~如果忍不住痛楚<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32390148)<br>爱老大 需要理由吗 <br>2020-11-25 15:47<br>赞(0) 踩(0) | <div>粤语版的比国语版的好听  <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186043780)<br> <br>2018-04-23 00:37<br>赞(0) 踩(0) | <div>转眼一晃十几年～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/577735)<br>我还没想好要写什么...<br>2017-10-28 00:33<br>赞(1) 踩(0) | <div>懷念過去快樂太折磨，無謂美化昨日戀歌，拿報復者的決心，活得好更多。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/577735)<br>我还没想好要写什么...<br>2017-10-28 00:33<br>赞(2) 踩(0) | <div>懷念過去快樂太折磨，無謂美化昨日戀歌，拿報復者的決心，活得好更多。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/577735)<br>我还没想好要写什么...<br>2017-10-28 00:33<br>赞(1) 踩(0) | <div>懷念過去快樂太折磨，<br>無謂美化昨日戀歌，<br>拿報復者的決心，<br>活得好更多。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/577735)<br>我还没想好要写什么...<br>2017-10-28 00:33<br>赞(2) 踩(0) | <div>懷念過去快樂太折磨，<br>無謂美化昨日戀歌，<br>拿報復者的決心，<br>活得好更多。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50529647)<br><br>2017-08-22 15:44<br>赞(2) 踩(0) | <div>普通话版和粤语版歌词一样的经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308028747)<br>评乐人一枚……<br>2017-08-09 21:54<br>赞(2) 踩(0) | <div>这首歌好听在于歌词和key太match</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252612704)<br><br>2017-07-15 10:56<br>赞(1) 踩(0) | <div>更僧八桑再哎内。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37278)<br><br>2017-03-31 18:29<br>赞(1) 踩(0) | <div>太好听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57322044)<br><br>2015-09-20 19:47<br>赞(0) 踩(0) | <div>这么好听的没评论？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41066646)<br>暂无签名~<br>2015-08-10 20:47<br>赞(0) 踩(0) | <div>…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8818169)<br><br>2012-05-20 20:58<br>赞(0) 踩(0) | <div>心中有恨的人..是無法愛的愉快...就算愛..只是短暫的快樂..因為沒有感恩...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8818169)<br><br>2012-05-20 20:58<br>赞(0) 踩(0) | <div>心中有恨的人..是無法愛的愉快...<br><br>就算愛..只是短暫的快樂..<br><br>因為沒有感恩...</div> |

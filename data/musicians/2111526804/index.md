@@ -3,7 +3,7 @@ Mr.Wang
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/476c862a376fbcd21e87d0ec07a889f4.png)<br>Mr.Wang](https://i.xiami.com/mrwang) | **播放数**: 1055920<br>**粉丝数**: 31<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 未来贝斯 Future Bass, 浩室舞曲 House, 电音流行 Electropop, 电子舞曲 EDM / Electronic Dance Music<br> |
+| [![](../../images/musicians/476c862a376fbcd21e87d0ec07a889f4.png)<br>Mr.Wang](https://i.xiami.com/mrwang) | **地区**: China 中国大陆<br>**风格**: 未来贝斯 Future Bass, 浩室舞曲 House, 电音流行 Electropop, 电子舞曲 EDM / Electronic Dance Music<br>**播放数**: 1055920<br>**粉丝数**: 31<br>**评论数**: 0<br> |
 
 ## 档案
 
@@ -19,5 +19,3 @@ DJ Mr.Wang 本名王晓天。中国原创电子音乐制作人，擅长词曲创
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

@@ -21,7 +21,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202678864)<br>一只菠萝油<br>2020-07-09 15:44<br>赞(0) 踩(0) | <div>我也喜欢你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47079541)<br><br>2017-05-21 01:34<br>赞(0) 踩(0) | <div>喜欢你。</div> |

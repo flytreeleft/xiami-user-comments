@@ -32,5 +32,3 @@ And said what a good boy am I
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

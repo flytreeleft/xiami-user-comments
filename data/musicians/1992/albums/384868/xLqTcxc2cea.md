@@ -46,8 +46,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368196396)<br><br>2019-07-14 00:12<br>赞(0) 踩(0) | <div>粵語版相當好聽，可惜了這個……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405092446)<br><br>2018-10-28 17:47<br>赞(1) 踩(0) | <div>歌是好歌，音质垃圾！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325053749)<br><br>2018-03-21 11:53<br>赞(1) 踩(0) | <div>我最喜欢的一盘磁带，怎么整得音质如此不好，歌曲和歌名还对不上？差评！</div> |

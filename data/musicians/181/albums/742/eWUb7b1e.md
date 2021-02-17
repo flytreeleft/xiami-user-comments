@@ -12,26 +12,23 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400584566)<br>素璞一方<br>2020-08-26 21:39<br>赞(0) 踩(0) | <div>辗转数千公里，电子管胆机音响终于修好了！听了一个下午这盘CD&amp;hellip;！晚上虾米音乐又推荐此曲，心便又回到了山风自由的绿野深处&amp;hellip;！不觉又想起上辈子当土拨鼠时，哪些悠闲快乐的日子&amp;hellip;！[偷笑]谢谢虾米音乐！有你陪伴真好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345156933)<br>风动天边月 梦见水上花 ...<br>2020-07-16 11:10<br>赞(0) 踩(0) | <div>经历过孤独的日子，终于喜欢上自己的无知，与它们相处感到惬意，如同那是一炉旺火，听任火焰缓缓燃烧，不说一句话，不评论任何事，在【无知】中自我更新</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443030062)<br><br>2020-07-09 15:29<br>赞(0) 踩(0) | <div>咏唱出彩，空灵，曼妙，唯美。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375168097)<br>我本虚幻全在你心 愛虾米...<br>2020-05-18 09:49<br>赞(2) 踩(0) | <div>靜禅</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375168097)<br>我本虚幻全在你心 愛虾米...<br>2020-05-18 09:49<br>赞(2) 踩(0) | <div>靜<br>禅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379577823)<br><br>2020-03-20 15:27<br>赞(0) 踩(0) | <div>无知，一种境界。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341357995)<br>人生有裂缝   是光进来...<br>2020-02-18 14:10<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325878296)<br>我愿与尘埃为伴随风而去<br>2020-02-04 23:16<br>赞(1) 踩(0) | <div>不怕病毒 最怕无知</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47447393)<br>繁花似锦，一念天涯……<br>2020-02-03 19:45<br>赞(0) 踩(0) | <div>夜上阑珊，心碎如泥……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7151428)<br>暖暖的～～<br>2019-12-24 09:51<br>赞(1) 踩(0) | <div>不知似相知，谁知谁不知。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434273068)<br><br>2019-12-23 14:52<br>赞(3) 踩(0) | <div>听音乐也是可怕的一件事 当感性大于理性 你就会被情绪拖着走。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347254273)<br>暗夜提灯，臻艺术之境<br>2019-12-08 14:12<br>赞(2) 踩(0) | <div>此无知，非“缺乏知识”而是指：失去知觉关闭一些心灵敏感的触觉洞口弃凡俗与尘埃俗尘庸扰、纷争痴缠持一颗清净心敏感赋予对悟欢喜的物事</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353211732)<br>我网易云新号是：清风明月...<br>2019-12-07 21:24<br>赞(11) 踩(0) | <div>无知者无谓！三种胆大的人:艺高人胆大；无知人胆大；热恋人胆大。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347254273)<br>暗夜提灯，臻艺术之境<br>2019-12-08 14:12<br>赞(2) 踩(0) | <div>此无知，非“缺乏知识”<br>而是指：失去知觉<br><br>关闭一些心灵敏感的触觉洞口<br>弃凡俗与尘埃<br><br>俗尘庸扰、纷争痴缠<br>持一颗清净心<br>敏感赋予对悟欢喜的物事</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353211732)<br>我网易云新号是：清风明月...<br>2019-12-07 21:24<br>赞(11) 踩(0) | <div>无知者无谓！<br>三种胆大的人:艺高人胆大；无知人胆大；热恋人胆大。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403387169)<br><br>2019-12-05 21:20<br>赞(1) 踩(0) | <div>好！有意境。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290339969)<br><br>2019-10-29 04:52<br>赞(9) 踩(0) | <div>溪流溅溅喧响，那种纯净让人超然物外，心便缓缓地融进了绿野深处，飞向梦中的天堂。轻柔的山风自由地掠过，弥漫着淡雅的清香。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195594445)<br>遇见美好<br>2019-08-20 21:01<br>赞(0) 踩(0) | <div>人是无知的</div> |
@@ -54,13 +51,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1106922)<br> <br>2018-10-02 21:49<br>赞(2) 踩(0) | <div>听这首时，正好读到《空谷幽兰》的 &amp;ldquo;弃平原之尘埃而取高山之烟霞&amp;rdquo;。曲的意境和元素居然契合了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17493812)<br>苍穹一尘<br>2018-09-14 17:04<br>赞(2) 踩(0) | <div>浩瀚的宇宙来自&amp;ldquo;真空涨落&amp;rdquo;吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87836918)<br> <br>2018-09-07 07:30<br>赞(1) 踩(0) | <div>无知无执</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2106870)<br>如果没有音乐，我一定用冰...<br>2018-07-28 15:08<br>赞(27) 踩(0) | <div>曲起，那晨空脆鸣，应是梦中故园，清涧流水，洗尽铅华。木吉他仿佛寻至心灵归处，淡看云卷云舒，那段箫声，却道尽人生痴绝处，芸芸众生苦苦追寻的无垢之境，应是无需知，不必知。无知即至空灵。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2106870)<br>如果没有音乐，我一定用冰...<br>2018-07-28 15:08<br>赞(27) 踩(0) | <div>曲起，那晨空脆鸣，应是梦中故园，清涧流水，洗尽铅华。<br>木吉他仿佛寻至心灵归处，淡看云卷云舒，那段箫声，却道尽人生痴绝处，芸芸众生苦苦追寻的无垢之境，应是无需知，不必知。<br>无知即至空灵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40470237)<br><br>2018-07-03 07:01<br>赞(4) 踩(0) | <div>热评恶心到我！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353091773)<br>无人无我观自在，非色非空...<br>2018-05-11 13:32<br>赞(2) 踩(0) | <div>灵知无知</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323887531)<br><br>2018-04-09 00:03<br>赞(1) 踩(0) | <div>一切是空，空即一切。当溪韵蛙鸣在夜空中交响，当梵音禅响于心湖处划过，正是连接宇宙与心灵的刹那，大自然与生命已为一体&amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323887531)<br><br>2018-04-09 00:03<br>赞(1) 踩(0) | <div>一切是空，空即一切。<br>当溪韵蛙鸣在夜空中交响，<br>当梵音禅响于心湖处划过，<br>正是连接宇宙与心灵的刹那，<br>大自然与生命已为一体&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342252009)<br>爱音乐，爱生活！<br>2018-03-01 20:47<br>赞(2) 踩(0) | <div>浩瀚，空灵~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317301941)<br>音乐是我终生伴侣，一时一...<br>2018-01-26 18:59<br>赞(8) 踩(0) | <div>能够领会这首纯音乐的虾友，都是真正的音乐爱好者。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323094808)<br>荒唐年少……<br>2018-01-15 00:35<br>赞(31) 踩(0) | <div>因为有了因为，所以有了所以。既然已成既然，何必再说何必。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323094808)<br>荒唐年少……<br>2018-01-15 00:35<br>赞(31) 踩(0) | <div>因为有了因为，所以有了所以。<br>既然已成既然，何必再说何必。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257548789)<br>做好自己<br>2017-12-04 20:30<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218595648)<br>  在虾米寻觅～在虾米得...<br>2017-12-04 17:15<br>赞(19) 踩(0) | <div>佛祖请宽恕我过去的无知！阿弥陀佛！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25871323)<br>人生之不如意十之八九，唯...<br>2017-11-10 23:41<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
@@ -69,9 +66,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194286973)<br>我爱你，我的祖国<br>2017-07-24 23:20<br>赞(2) 踩(0) | <div>无知者～。ヘ(_ _ヘ)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26795046)<br><br>2017-06-21 17:03<br>赞(3) 踩(0) | <div>向着光走去了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26795046)<br><br>2017-06-21 16:59<br>赞(1) 踩(0) | <div>渐行渐远了！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10707847)<br><br>2017-05-30 21:57<br>赞(11) 踩(0) | <div>邓伟标 --广东省广州市人，作曲家，中国新世纪音乐代表人物之一。是近年来中国最活跃的作曲家之一，也是中国为数不多的，不依附明星而以作曲家身份独立面对听众群体的作曲家。邓伟标一直以来从事音乐创作，2005年开始从事新世纪音乐创作、制作，相继出版个人音乐作品专辑《空》、《千江汇流》、《古城今昔》、《红楼十二钗》、《新世纪粤曲I》、《色》、《情殇》、《古情记》、《寒风镇电影原声大碟》等。获得过包括&amp;ldquo;中国流行音乐十年成就奖&amp;rdquo;在内的全国、省、市等各项音乐评奖与流行音乐排行榜奖项30多项。吉他、小提琴、二胡、古筝等样样精通，电脑影视剪辑、写乐评，写散文文学创作、网站建设、还写了《一点红惊魂系列》等九部科</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10707847)<br><br>2017-05-30 21:57<br>赞(11) 踩(0) | <div>邓伟标 --广东省广州市人，作曲家，中国新世纪音乐代表人物之一。是近年来中国最活跃的作曲家之一，也是中国为数不多的，不依附明星而以作曲家身份独立面对听众群体的作曲家。邓伟标一直以来从事音乐创作，2005年开始从事新世纪音乐创作、制作，相继出版个人音乐作品专辑《空》、《千江汇流》、《古城今昔》、《红楼十二钗》、《新世纪粤曲I》、《色》、《情殇》、《古情记》、《寒风镇电影原声大碟》等。获得过包括&amp;ldquo;中国流行音乐十年成就奖&amp;rdquo;在内的全国、省、市等各项音乐评奖与流行音乐排行榜奖项30多项。<br>吉他、小提琴、二胡、古筝等样样精通，电脑影视剪辑、写乐评，写散文文学创作、网站建设、还写了《一点红惊魂系列》等九部科</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3954524)<br>我还没想好要写什么...<br>2019-05-09 21:15<br>赞(0) 踩(0) | <div>有悟的灵魂</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10707847)<br><br>2017-05-30 21:56<br>赞(3) 踩(0) | <div>幻小说，深受读者好评。被评论家评价为&amp;ldquo;消闲小说中的另类&amp;rdquo;，被读者认为是&amp;ldquo;捧在手中的电影。&amp;rdquo;。邓伟标身上有一种可以化平凡为神奇的力量，这就是邓伟标，带给人宁静、祥和，回归自然的新世纪音乐家。我最喜欢他的山脚下的麓湖。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10707847)<br><br>2017-05-30 21:56<br>赞(3) 踩(0) | <div>幻小说，深受读者好评。被评论家评价为&amp;ldquo;消闲小说中的另类&amp;rdquo;，被读者认为是&amp;ldquo;捧在手中的电影。&amp;rdquo;。邓伟标身上有一种可以化平凡为神奇的力量，这就是邓伟标，带给人宁静、祥和，回归自然的新世纪音乐家。<br>我最喜欢他的山脚下的麓湖。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244617896)<br><br>2017-02-28 17:51<br>赞(1) 踩(0) | <div>舒缓？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206966184)<br><br>2016-12-19 10:55<br>赞(3) 踩(0) | <div>忍住了看你，却忍不住想你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9878283)<br>歌单很乱 将就听吧 新歌...<br>2016-10-19 12:40<br>赞(1) 踩(0) | <div>都是好久以前的评论阿</div> |
@@ -94,7 +91,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/760818)<br>好音乐好心情<br>2014-09-17 20:54<br>赞(0) 踩(0) | <div>---------</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33533584)<br><br>2014-03-03 22:04<br>赞(0) 踩(0) | <div>轻松减压</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17619314)<br><br>2013-07-28 10:56<br>赞(0) 踩(0) | <div>the feeling of empty ,the feeling of silence ,the feeling of joy ,the feel of wisdom</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6352144)<br><br>2013-03-24 20:51<br>赞(2) 踩(0) | <div>理想中的世界的样子，想象中的爱情，自认为的丰美。它们可以在一切开始之前温暖一个人的身心，也可以在最终的真实面前渐渐消解一个爱做梦的人全部的意志。都不如时间试炼锤敲之下，挤干水分、摒除软弱、抹掉肥皂泡之后，剩下的碎片。它们色泽质朴、质地坚硬。是我们身心灵最终的归处和化石。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6352144)<br><br>2013-03-24 20:51<br>赞(2) 踩(0) | <div>理想中的世界的样子，想象中的爱情，自认为的丰美。它们可以在一切开始之前温暖一个人的身心，也可以在最终的真实面前渐渐消解一个爱做梦的人全部的意志。<br><br>都不如时间试炼锤敲之下，挤干水分、摒除软弱、抹掉肥皂泡之后，剩下的碎片。它们色泽质朴、质地坚硬。是我们身心灵最终的归处和化石。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6352144)<br><br>2013-03-24 20:42<br>赞(2) 踩(0) | <div>理想中的世界的样子，想象中的爱情，自认为的丰美。它们可以在一切开始之前温暖一个人的身心，也可以在最终的真实面前渐渐消解一个爱做梦的人全部的意志。都不如时间试炼锤敲之下，挤干水分、摒除软弱、抹掉肥皂泡之后，剩下的碎片。它们色泽质朴、质地坚硬。是我们身心灵最终的归处和化石。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1480020)<br><br>2013-03-22 06:23<br>赞(3) 踩(0) | <div>期待是一切痛苦的根源。心不動，則不痛。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3768341)<br><br>2013-03-16 20:21<br>赞(0) 踩(0) | <div>今天被神奇四侠里面盲人女孩的那句话治愈了TVT</div> |
@@ -102,4 +99,4 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7325949)<br><br>2012-04-29 22:56<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3912554)<br> <br>2011-05-12 04:56<br>赞(0) 踩(0) | <div>真的很有意境</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/841215)<br>万人如海一身藏<br>2010-10-16 01:13<br>赞(1) 踩(0) | <div>无知，无我，是禅</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/841215)<br>万人如海一身藏<br>2010-10-16 01:12<br>赞(1) 踩(0) | <div>无知，无我，是禅境~吉他、箫和人声，好听。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/841215)<br>万人如海一身藏<br>2010-10-16 01:12<br>赞(1) 踩(0) | <div>无知，无我，是禅境~<br>吉他、箫和人声，好听。</div> |

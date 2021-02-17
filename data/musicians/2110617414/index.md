@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2187af7e29aa6e6c1a6d0178dbaaadf8.jpg)<br>楚静](https://i.xiami.com/chujing520) | **播放数**: 11420122<br>**粉丝数**: 655<br>**评论数**: 16<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/2187af7e29aa6e6c1a6d0178dbaaadf8.jpg)<br>楚静](https://i.xiami.com/chujing520) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 11420122<br>**粉丝数**: 655<br>**评论数**: 16<br> |
 
 ## 档案
 
@@ -13,13 +13,11 @@
 
 ## 专辑
 
-| 名称 | 语种 | 唱片公司 | 发行时间 | 专辑类别 | 专辑风格 |
-| :--: | :-- | :-- | :-- | :-- | :-- |
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434137448)<br><br>2021-01-20 16:59<br>赞(1) 踩(0) | <div>一曲广陵，与君共勉！ <img src="../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352946313)<br>朋友们，虾米音乐就要和我...<br>2020-12-13 07:19<br>赞(0) 踩(0) | <div>加油，好赞＼(☆o☆)／</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312536347)<br>力挺虾米!!!<br>2020-12-01 17:59<br>赞(0) 踩(0) | <div>加油加油 <img src="../../images/comments/5209680a7687ef8a547064825af96969.png">好爱你的声音</div> |

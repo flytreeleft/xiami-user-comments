@@ -70,8 +70,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237442416)<br>微信公众号「戀上一張CD...<br>2019-02-28 16:19<br>赞(1) 踩(0) | <div>好聽，与往昔不一样的他，某种蜕变。这样不断成长的歌手，总会给我们的耳朵带来惊喜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273542193)<br>让我们在美妙音乐声中慢慢...<br>2019-01-16 17:11<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40564661)<br>你丫才是美工<br>2019-01-14 13:21<br>赞(0) 踩(0) | <div>高级</div> |
@@ -93,5 +93,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82803940)<br>我还没想好要写什么...<br>2018-04-10 01:12<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4208300)<br>谢谢虾米 永远爱你<br>2018-03-08 16:30<br>赞(4) 踩(0) | <div>「2017阿比鹿最受欢迎电子单曲」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16887171)<br>不认真我就赢了<br>2018-02-27 20:36<br>赞(2) 踩(0) | <div>整张专最爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352563363)<br>用心打造好音乐<br>2018-02-27 19:22<br>赞(0) 踩(0) | <div>词、曲：满江制作人：满江、许波编曲：韩涵、满江、钱炜安、施旭东、许波电吉他：韩涵、满江、许波电贝斯：施旭东电钢琴：韩涵合成器：韩涵、满江鼓：钱炜安和声：满江录音、混音、母带工程师：钱炜安录音室、混音室：福气录音室（北京）母带制作：112F Studio（台北）&amp;nbsp;封面摄影：满江封面设计：Ronald&amp;nbsp;窦文案：赵悦宣传：陈茜统筹：王丽莉监制、出品人：梁阅鸣谢：闻震先生出品公司：易柏文化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352563363)<br>用心打造好音乐<br>2018-02-27 19:22<br>赞(0) 踩(0) | <div>词、曲：满江<br>制作人：满江、许波<br>编曲：韩涵、满江、钱炜安、施旭东、许波<br>电吉他：韩涵、满江、许波<br>电贝斯：施旭东<br>电钢琴：韩涵<br>合成器：韩涵、满江<br>鼓：钱炜安<br>和声：满江<br>录音、混音、母带工程师：钱炜安<br>录音室、混音室：福气录音室（北京）<br>母带制作：112F Studio（台北）<br>&amp;nbsp;<br>封面摄影：满江<br>封面设计：Ronald&amp;nbsp;窦<br>文案：赵悦<br>宣传：陈茜<br>统筹：王丽莉<br>监制、出品人：梁阅<br>鸣谢：闻震先生<br>出品公司：易柏文化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53734018)<br>小虾最近不太懂我<br>2018-02-27 17:47<br>赞(0) 踩(0) | <div>占楼</div> |

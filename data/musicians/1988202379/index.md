@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9927f2de59ed0ca79309d2a077260346.jpg)<br>法老](https://i.xiami.com/pharaoh420) | **播放数**: 8241707<br>**粉丝数**: 19099<br>**评论数**: 574<br>**地区**: China 中国大陆<br>**风格**: 硬核说唱 Hardcore Hip Hop, 地下说唱 Underground Hip Hop, 老派说唱 Old-school Hip Hop<br> |
+| [![](../../images/musicians/9927f2de59ed0ca79309d2a077260346.jpg)<br>法老](https://i.xiami.com/pharaoh420) | **地区**: China 中国大陆<br>**风格**: 硬核说唱 Hardcore Hip Hop, 地下说唱 Underground Hip Hop, 老派说唱 Old-school Hip Hop<br>**播放数**: 8241707<br>**粉丝数**: 19099<br>**评论数**: 574<br> |
 
 ## 档案
 
@@ -64,8 +64,8 @@ Hardcore forever ，保持真实的自己，最underground的Rapper。<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444353191)<br><br>2020-12-11 22:06<br>赞(0) 踩(0) | <div>我的好法老</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4953704)<br>听歌不是病，不想治。<br>2020-11-13 08:24<br>赞(0) 踩(0) | <div>来呀来呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351079733)<br>猫有九命，终于一巷<br>2020-08-03 19:42<br>赞(0) 踩(0) | <div>很喜欢法老，祝他更好</div> |
@@ -78,7 +78,7 @@ Hardcore forever ，保持真实的自己，最underground的Rapper。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439981651)<br>我还没想好要写什么...<br>2020-04-01 15:11<br>赞(0) 踩(0) | <div>蒋蒋呢&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428768769)<br>我还没想好要写什么...<br>2020-03-27 10:27<br>赞(0) 踩(0) | <div>^_^</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/150621852)<br>这世界真的不算可爱 宝贝<br>2020-03-09 12:06<br>赞(0) 踩(0) | <div>下次见你是什么时候</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314692251)<br>我还没想好要写什么...<br>2020-03-09 10:39<br>赞(0) 踩(0) | <div>法宝真是宝藏，瓦永远爱你希望法宝能一直快乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314692251)<br>我还没想好要写什么...<br>2020-03-09 10:39<br>赞(0) 踩(0) | <div>法宝真是宝藏，瓦永远爱你<br>希望法宝能一直快乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190892890)<br>我知道我想要活成什么样子<br>2020-03-03 14:41<br>赞(1) 踩(0) | <div>希望初心不变</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440957485)<br>为法老而来<br>2020-02-29 10:07<br>赞(0) 踩(0) | <div>保安</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440166219)<br><br>2020-02-04 18:44<br>赞(1) 踩(0) | <div>法宝瓦爱你</div> |
@@ -146,7 +146,7 @@ Hardcore forever ，保持真实的自己，最underground的Rapper。<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288044231)<br>keep思考<br>2018-07-26 18:36<br>赞(0) 踩(0) | <div><q><b>A$HeNai说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52075587)<br>世界没留给一些人什么意思<br>2018-07-31 16:12<br>赞(0) 踩(0) | <div>好好听你陈奕迅吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288044231)<br>keep思考<br>2018-08-01 14:05<br>赞(0) 踩(0) | <div><q><b>songofearth说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29197344)<br><br>2018-06-07 18:16<br>赞(0) 踩(0) | <div>好多歌都下架了？？干。心痛</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29197344)<br><br>2018-06-07 18:16<br>赞(0) 踩(0) | <div>好多歌都下架了？？<br>干。心痛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47344365)<br>暂无签名~<br>2018-06-07 16:11<br>赞(2) 踩(0) | <div>求上架，遗产，W.D.G.A.F，上架付费下载，我后悔没下载啊，神</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47344365)<br>暂无签名~<br>2018-06-07 16:02<br>赞(1) 踩(0) | <div>大哥，遗产呢，我的遗产去哪了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11638875)<br>阳光小正太皮皮<br>2018-06-07 11:34<br>赞(0) 踩(0) | <div>啊我记得有一首diss曲 找不到了 <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"> <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
@@ -511,7 +511,7 @@ Hardcore forever ，保持真实的自己，最underground的Rapper。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44991093)<br>Beautiful Bl...<br>2016-05-04 17:21<br>赞(1) 踩(0) | <div>法老的flow在国内是最奇特的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131540032)<br><br>2016-04-29 13:53<br>赞(1) 踩(0) | <div>old school</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42426726)<br><br>2016-04-29 00:03<br>赞(0) 踩(0) | <div>这态度够真</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47973991)<br><br>2016-04-28 14:40<br>赞(0) 踩(0) | <div>你是木乃伊我们就是你的绷带。用嘴当子弹无情的把他们崩掉。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47973991)<br><br>2016-04-28 14:40<br>赞(0) 踩(0) | <div>你是木乃伊我们就是你的绷带。<br>用嘴当子弹无情的把他们崩掉。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47046066)<br> <br>2016-04-25 23:37<br>赞(9) 踩(0) | <div>为何真正有实力的rapper火不起来百度MC第一行是天佑说唱排行榜是我的滑板鞋</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138690142)<br>Life is okay...<br>2016-04-26 10:24<br>赞(0) 踩(0) | <div>因为大部分国人根本不懂RAP的意义</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73638642)<br>再见了各位 我永远爱虾米...<br>2016-04-25 14:58<br>赞(0) 踩(0) | <div><img src="../../images/comments/aa870edd44d3f615d76bed2188beb79d.png"></div> |

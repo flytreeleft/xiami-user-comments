@@ -3,7 +3,7 @@ CandyBox
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e3f983ae30b7166794039c0049597da3.jpg)<br>CandyBox](https://i.xiami.com/coconutcandy) | **播放数**: 2663119<br>**粉丝数**: 473<br>**评论数**: 40<br>**地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/e3f983ae30b7166794039c0049597da3.jpg)<br>CandyBox](https://i.xiami.com/coconutcandy) | **地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening<br>**播放数**: 2663119<br>**粉丝数**: 473<br>**评论数**: 40<br> |
 
 ## 档案
 
@@ -36,8 +36,8 @@ CandyBox
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311140404)<br><br>2020-08-19 23:37<br>赞(0) 踩(0) | <div>不知道还在么&amp;hellip;&amp;hellip;很喜欢你remix的luv letter 8bit风格 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2165528)<br> <br>2019-04-02 03:15<br>赞(0) 踩(0) | <div>来凑个</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46731324)<br>We are all m...<br>2018-04-22 21:41<br>赞(0) 踩(0) | <div>为啥我搜不到聚聚的微博 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |

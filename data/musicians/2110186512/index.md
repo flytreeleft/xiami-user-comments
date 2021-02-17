@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6cc2d3f3031e82eac9a5036d7485d82f.jpg)<br>杨远友](https://i.xiami.com/yangyuanyou) | **播放数**: 200323<br>**粉丝数**: 24<br>**评论数**: 2<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/6cc2d3f3031e82eac9a5036d7485d82f.jpg)<br>杨远友](https://i.xiami.com/yangyuanyou) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 200323<br>**粉丝数**: 24<br>**评论数**: 2<br> |
 
 ## 档案
 
@@ -121,7 +121,7 @@ O型<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-07 02:56<br>赞(0) 踩(0) | <div>45689</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405387950)<br><br>2018-10-10 13:51<br>赞(1) 踩(0) | <div>伤感的情歌</div> |

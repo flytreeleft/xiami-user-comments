@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/85fbe7e9fea5e069196cfd767c96d93e.png)<br>传琦SAMA](https://i.xiami.com/dnegel) | **播放数**: 2783232<br>**粉丝数**: 9007<br>**评论数**: 212<br>**地区**: China 中国大陆<br>**风格**: 蒸汽波 Vaporwave, 电子 Electronic, 爵士嘻哈 Jazz Hip Hop, 流行说唱 Pop Rap<br> |
+| [![](../../images/musicians/85fbe7e9fea5e069196cfd767c96d93e.png)<br>传琦SAMA](https://i.xiami.com/dnegel) | **地区**: China 中国大陆<br>**风格**: 蒸汽波 Vaporwave, 电子 Electronic, 爵士嘻哈 Jazz Hip Hop, 流行说唱 Pop Rap<br>**播放数**: 2783232<br>**粉丝数**: 9007<br>**评论数**: 212<br> |
 
 ## 档案
 
@@ -91,8 +91,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5639391)<br>be a hunter<br>2020-12-29 22:12<br>赞(0) 踩(0) | <div>天啊 12月12来了深圳？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4400366)<br>再也不见<br>2020-12-21 19:43<br>赞(0) 踩(0) | <div>囍</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31745373)<br>这个人很懒，什么也没有留...<br>2020-12-16 00:01<br>赞(1) 踩(0) | <div>农业漫游2009mv里有传奇sama的友情献唱哦⊙&amp;forall;⊙！</div> |
@@ -150,7 +150,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335038852)<br><br>2019-01-11 21:18<br>赞(0) 踩(0) | <div>一听就停不下来了！抖音上听到的BGM</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80993142)<br>皮卡皮卡<br>2019-01-11 15:50<br>赞(0) 踩(0) | <div>求来深圳，华服迎接</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9029590)<br>享受着他钟情的音乐<br>2019-01-06 15:58<br>赞(1) 踩(0) | <div>南京呢！！南京呢？？？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297061438)<br>热泪盈眶 长生不老<br>2019-01-05 22:18<br>赞(4) 踩(0) | <div>疯狂向同学推荐了传琦 同学也喜欢上了传琦我好高兴 <img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297061438)<br>热泪盈眶 长生不老<br>2019-01-05 22:18<br>赞(4) 踩(0) | <div>疯狂向同学推荐了传琦 同学也喜欢上了传琦<br>我好高兴 <img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32051445)<br>女孩儿的歌。 永爱虾米<br>2019-01-05 09:55<br>赞(0) 踩(0) | <div>晚上见___</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255798286)<br>不要不开心哦♡<br>2018-12-24 01:39<br>赞(2) 踩(0) | <div>人 超 好 鸭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255798286)<br>不要不开心哦♡<br>2018-12-21 00:20<br>赞(1) 踩(0) | <div>23号见</div> |

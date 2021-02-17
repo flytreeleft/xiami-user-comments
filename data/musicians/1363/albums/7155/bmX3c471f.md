@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403411085)<br>我还没想好要写什么...<br>2021-02-03 22:23<br>赞(0) 踩(0) | <div>妖娆的古筝～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31162875)<br>我还没想好要写什么...<br>2021-02-02 15:45<br>赞(0) 踩(0) | <div>这张专辑别的音乐软件都没版权！虾米离开无法再听到这张专辑 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405348656)<br>闲来抚琴山涧鸣<br>2021-01-28 21:37<br>赞(1) 踩(0) | <div></div> |
@@ -80,7 +77,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12663675)<br>美人不是母胎生<br>2019-03-18 19:15<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408707619)<br><br>2018-12-19 01:35<br>赞(1) 踩(0) | <div>颠覆了我的三观，这个曲子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14767595)<br><br>2018-12-17 17:28<br>赞(0) 踩(0) | <div>好久没听了，再听依然喜欢。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352842629)<br>暗夜步出竹꯭林꯭桥，苍茫...<br>2018-12-15 21:10<br>赞(2) 踩(0) | <div>常静音乐的穿透力，已经离开常规演奏方式的乐曲。已经不受琴弦的约束凌驾于乐器本身以上的音乐。所有一切皆在每一个音符中，静心凝听，会感受到一中前所未有的音乐的魔力与震撼。这是就是常静带给听者的力量。优美铿锵的音符，穿透澄澈蓝天，旋绕悠悠白云，跳跃潋滟波光，舞动初绽蓓蕾，飘逸灵动，曼妙绝尘。曲中的律动和洒脱、缥缈和明快，让人心动，让人心醉。这是一种来自天籁的声音，穿越红尘里的层层喧嚣，淹没繁华里的丝丝躁动，静谧的心思，已完全沉浸在一个虚无博大的世界。没有忧思顾虑，没有过去未来，只有此刻，才是真正的唯一……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352842629)<br>暗夜步出竹꯭林꯭桥，苍茫...<br>2018-12-15 21:10<br>赞(2) 踩(0) | <div>常静音乐的穿透力，已经离开常规演奏方式的乐曲。已经不受琴弦的约束凌驾于乐器本身以上的音乐。所有一切皆在每一个音符中，静心凝听，会感受到一中前所未有的音乐的魔力与震撼。<br>这是就是常静带给听者的力量。优美铿锵的音符，穿透澄澈蓝天，旋绕悠悠白云，跳跃潋滟波光，舞动初绽蓓蕾，飘逸灵动，曼妙绝尘。曲中的律动和洒脱、缥缈和明快，让人心动，让人心醉。<br>这是一种来自天籁的声音，穿越红尘里的层层喧嚣，淹没繁华里的丝丝躁动，静谧的心思，已完全沉浸在一个虚无博大的世界。没有忧思顾虑，没有过去未来，只有此刻，才是真正的唯一……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26226237)<br><br>2018-12-08 22:22<br>赞(0) 踩(0) | <div>一直很喜欢常静的曲子，特别是呼吸和这首掠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334896664)<br><br>2018-11-29 00:33<br>赞(0) 踩(0) | <div>节奏跟日本尺八曲雪之什么很像，但是没有走雪上咯吱声，真的很像！希望修改好点吧，没有严谨一丝不苟，咋超越日本啊！连说话声都录进去了。可以做得很好！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334896664)<br><br>2018-11-29 00:40<br>赞(0) 踩(0) | <div>我又听了佐藤康夫的雪之音，节奏还是有区别的。可能本区是为了掠这个主题吧，节奏这么强。还是觉得可以完善一下，弄完美些！</div> |
@@ -172,7 +169,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261466)<br>虽则佩觿，能不我知？容兮...<br>2015-08-27 15:46<br>赞(3) 踩(0) | <div>真的没人听到一句 这是D调吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18270740)<br><br>2016-07-28 14:15<br>赞(0) 踩(0) | <div>听到有人说话了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50649156)<br><br>2015-06-08 02:49<br>赞(2) 踩(0) | <div>好好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6760432)<br>这家伙有点懒，什么也没写<br>2014-09-02 10:04<br>赞(62) 踩(0) | <div>常静的古筝可谓出神入化了，真的撩人心弦啊~~~去搜了青媚狐，噗，众大神真是有才，这曲子太适合了~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6760432)<br>这家伙有点懒，什么也没写<br>2014-09-02 10:04<br>赞(62) 踩(0) | <div>常静的古筝可谓出神入化了，真的撩人心弦啊~~~<br>去搜了青媚狐，噗，众大神真是有才，这曲子太适合了~~~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311529735)<br><br>2017-07-17 19:25<br>赞(0) 踩(0) | <div>青媚狐是啥</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2198119)<br><br>2017-08-15 21:22<br>赞(0) 踩(0) | <div><q><b>奇迹女王！说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331967101)<br><br>2018-05-27 19:37<br>赞(0) 踩(0) | <div>还是个男的</div> |
@@ -185,13 +182,13 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375015678)<br><br>2019-11-29 06:38<br>赞(0) 踩(0) | <div>？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375015678)<br><br>2019-11-29 06:53<br>赞(0) 踩(0) | <div>听个曲子就能联想那么多，还不满意，还要怎样？听完一曲，就要无比智慧，坐拥天下，不然就亏了呗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337053258)<br><br>2020-03-24 09:31<br>赞(0) 踩(0) | <div><q><b>冷酷的保温杯说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7452644)<br>夫为乐  为乐当及时<br>2014-06-12 13:00<br>赞(2) 踩(0) | <div>有种撩人心弦的感觉！~收藏天下所有好听之音~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7452644)<br>夫为乐  为乐当及时<br>2014-06-12 13:00<br>赞(2) 踩(0) | <div>有种撩人心弦的感觉！<br><br><br><br>~收藏天下所有好听之音~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6787759)<br>云在山上，山在树里。<br>2014-05-23 19:05<br>赞(1) 踩(0) | <div>好骚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3723928)<br><br>2014-05-11 13:42<br>赞(1) 踩(0) | <div>艾玛居然是青媚狐=w=</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8386774)<br>戴上耳机，世界与我无关。<br>2014-04-07 19:27<br>赞(22) 踩(0) | <div>男人，二十岁的时候要感觉，三十岁的时候要性感，四十岁的时候要青春，五十岁的时候要贤惠，六十岁的时候要老伴，七十岁的时候要人伺候。从男孩长成男人，需求不一样，追求就不一样，这种生物不出轨，你相信吗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30401775)<br><br>2014-02-07 21:46<br>赞(1) 踩(0) | <div>撩人心弦。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/756345)<br><br>2014-01-26 21:31<br>赞(1) 踩(0) | <div>现代和古典</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8858082)<br>乐之灵<br>2013-12-17 17:05<br>赞(1) 踩(0) | <div>以前听过一首古风歌用这个旋律填词唱曲儿了。名字好像是《青媚狐》。挺惊艳，妖媚。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8858082)<br>乐之灵<br>2013-12-17 17:05<br>赞(1) 踩(0) | <div>以前听过一首古风歌用这个旋律填词唱曲儿了。<br>名字好像是《青媚狐》。<br>挺惊艳，妖媚。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23767200)<br>只为你一人！<br>2013-11-26 22:31<br>赞(1) 踩(0) | <div>有点魅惑~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12539399)<br><br>2013-11-26 22:17<br>赞(1) 踩(0) | <div>纯音乐 点赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477519)<br>爱  是生命的和弦，而不...<br>2013-09-21 10:19<br>赞(13) 踩(0) | <div>曲子好魅惑哦...演绎的出神出化了...</div> |

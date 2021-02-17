@@ -3,13 +3,10 @@ Dark Shadow
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1ec19c07baaf01effca547dff2b4c5e8.jpg)<br>Dark Shadow](https://i.xiami.com/darkzhishuai) | **播放数**: 604381<br>**粉丝数**: 290<br>**评论数**: 22<br>**地区**: China 中国大陆<br>**风格**: 电音流行 Electropop, 电子 Electronic, 回响贝斯 Dubstep<br> |
+| [![](../../images/musicians/1ec19c07baaf01effca547dff2b4c5e8.jpg)<br>Dark Shadow](https://i.xiami.com/darkzhishuai) | **地区**: China 中国大陆<br>**风格**: 电音流行 Electropop, 电子 Electronic, 回响贝斯 Dubstep<br>**播放数**: 604381<br>**粉丝数**: 290<br>**评论数**: 22<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -77,8 +74,8 @@ Dark Shadow
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/585192)<br><br>2020-12-15 12:57<br>赞(1) 踩(0) | <div>虾米要没了，去哪找你！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420455258)<br>EDM HOUSE 音乐<br>2020-12-26 20:56<br>赞(0) 踩(0) | <div>网 云☁️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403842287)<br>鸡哈你哈太哈美哈<br>2020-11-18 20:46<br>赞(1) 踩(0) | <div>第一次遇到某人的歌中8首我都喜欢听</div> |

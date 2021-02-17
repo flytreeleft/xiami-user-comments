@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/073a4e8111204348630599425f0fd70f.jpg)<br>厨子和戏子](https://i.xiami.com/chuzihexizi) | **播放数**: 3497535<br>**粉丝数**: 2579<br>**评论数**: 104<br>**地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 独立摇滚 Indie Rock<br> |
+| [![](../../images/musicians/073a4e8111204348630599425f0fd70f.jpg)<br>厨子和戏子](https://i.xiami.com/chuzihexizi) | **地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 独立摇滚 Indie Rock<br>**播放数**: 3497535<br>**粉丝数**: 2579<br>**评论数**: 104<br> |
 
 ## 档案
 
@@ -33,8 +33,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36437914)<br>WX：IXUS--<br>2021-01-01 23:05<br>赞(0) 踩(0) | <div>这个照片怎么回事</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349206704)<br><br>2020-07-05 18:16<br>赞(1) 踩(0) | <div>很喜欢这种洪厚有力风格，极具中国风的鼓声听着热血沸腾&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14094908)<br><br>2019-11-22 20:03<br>赞(0) 踩(0) | <div>跟福禄乐队的风格很像，都是中国风的摇滚。</div> |
@@ -56,7 +56,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49299590)<br>波澜不惊<br>2019-05-27 22:31<br>赞(1) 踩(0) | <div>中国元素有搞头，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13290606)<br>on a merry g...<br>2019-05-11 14:32<br>赞(0) 踩(0) | <div>鼓点和节奏不错。声音不适合唱苍凉的古长歌类，快去唱流行摇滚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11446884)<br>New York MoM...<br>2019-05-08 05:18<br>赞(1) 踩(0) | <div>将进酒太赞！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246098860)<br>为了忘却的纪念<br>2019-04-18 10:05<br>赞(2) 踩(0) | <div>魔性循环停不下来</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246098860)<br>为了忘却的纪念<br>2019-04-18 10:05<br>赞(2) 踩(0) | <div>魔性循环<br>停不下来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52056952)<br>人生即是到來、相遇、陪伴...<br>2019-02-07 09:20<br>赞(0) 踩(0) | <div>φ(≧ω≦*)♪</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250065023)<br>我很懒，什么都没留下…<br>2019-08-01 03:24<br>赞(0) 踩(0) | <div>竟然又看见你了 <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140113232)<br>自娱自乐自得其乐<br>2019-01-08 23:30<br>赞(0) 踩(0) | <div>真的好优秀啊！！！</div> |
@@ -78,7 +78,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12878321)<br>辗转井的谣言中徘徊风的宫...<br>2018-03-15 21:48<br>赞(0) 踩(0) | <div>大气！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22562362)<br>暂无签名~<br>2018-03-13 12:25<br>赞(1) 踩(0) | <div>能来武汉演出吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43810881)<br><br>2018-02-27 15:29<br>赞(0) 踩(0) | <div>好听，加油！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14652349)<br>壹贰叁 肆伍陆 柒捌玖<br>2018-02-21 15:00<br>赞(3) 踩(0) | <div>《将进酒》年代：【唐】作者：【李白】体裁：【乐府】君不见黄河之水天上来，奔流到海不复回。君不见高堂明镜悲白发，朝如青丝暮成雪。『人生得意须尽欢，莫使金樽空对月&amp;nbsp;&amp;nbsp;&amp;nbsp; 天生我材必有用，千金散尽还复来』烹羊宰牛且为乐，会须一饮三百杯。岑夫子，丹丘生，将进酒，君莫停。与君歌一曲，请君为我侧耳听。钟鼓馔玉不足贵，但愿长醉不愿醒。古来圣贤皆寂寞，惟有饮者留其名。陈王昔时宴平乐，斗酒十千恣欢谑。主人何为言少钱，径须沽取对君酌。五花马，千金裘，呼儿将出换美酒，与尔同销万古愁!《将进酒》＆歌词作词＆作曲: 李白 杨慎 秦秀乾~~君不见 黄河水天上来奔流到海不复</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14652349)<br>壹贰叁 肆伍陆 柒捌玖<br>2018-02-21 15:00<br>赞(3) 踩(0) | <div>《将进酒》<br>年代：【唐】<br>作者：【李白】<br>体裁：【乐府】<br>君不见黄河之水天上来，<br>奔流到海不复回。<br>君不见高堂明镜悲白发，<br>朝如青丝暮成雪。<br>『人生得意须尽欢，莫使金樽空对月<br>&amp;nbsp;&amp;nbsp;&amp;nbsp; 天生我材必有用，千金散尽还复来』<br>烹羊宰牛且为乐，会须一饮三百杯。<br>岑夫子，丹丘生，将进酒，君莫停。<br>与君歌一曲，请君为我侧耳听。<br>钟鼓馔玉不足贵，但愿长醉不愿醒。<br>古来圣贤皆寂寞，惟有饮者留其名。<br>陈王昔时宴平乐，斗酒十千恣欢谑。<br>主人何为言少钱，径须沽取对君酌。<br>五花马，千金裘，<br>呼儿将出换美酒，与尔同销万古愁!<br>《将进酒》＆歌词<br>作词＆作曲: 李白 杨慎 秦秀乾~~<br>君不见 黄河水天上来<br>奔流到海不复</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9078112)<br>一念一世界<br>2018-01-10 22:46<br>赞(0) 踩(0) | <div>作品真用心啊！必须支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/746612)<br><br>2018-01-07 16:56<br>赞(1) 踩(0) | <div>中华文化融入独立摇滚，很有大汉风范！一直找寻找这种风格的独立乐队！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235456661)<br>我还没想好要写什么...<br>2018-01-01 20:09<br>赞(0) 踩(0) | <div>喜欢童子文阿</div> |
@@ -111,7 +111,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71842508)<br> -<br>2017-03-19 10:35<br>赞(0) 踩(0) | <div>听的时候就来打卡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71842508)<br> -<br>2017-03-19 10:35<br>赞(0) 踩(0) | <div>爱你哦 好好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6213668)<br><br>2017-02-13 20:45<br>赞(0) 踩(0) | <div>不错，不错，好听！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261604434)<br> <br>2017-02-13 18:15<br>赞(0) 踩(0) | <div>严肃的说，实际这个歌和乐队流派中定义的有点儿出入吧？流派这个东西该严肃点吧？ <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png">感觉挺好的。加油！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261604434)<br> <br>2017-02-13 18:15<br>赞(0) 踩(0) | <div>严肃的说，实际这个歌和乐队流派中定义的有点儿出入吧？流派这个东西该严肃点吧？ <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"><br>感觉挺好的。加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121465530)<br>LISTENING TH...<br>2017-01-20 10:29<br>赞(0) 踩(0) | <div>的确不错的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2375136)<br>暂无签名~<br>2017-01-01 15:57<br>赞(0) 踩(0) | <div>再来点歌嘛~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35893018)<br>就是爱音乐 爱生活~<br>2016-10-05 00:04<br>赞(0) 踩(0) | <div>非常好！</div> |

@@ -46,9 +46,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325878296)<br>我愿与尘埃为伴随风而去<br>2020-06-01 22:09<br>赞(1) 踩(0) | <div>从来如此就对吗？！</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325878296)<br>我愿与尘埃为伴随风而去<br>2020-06-01 22:09<br>赞(1) 踩(0) | <div>从来如此<br>就对吗？！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18731850)<br><br>2017-10-30 10:15<br>赞(0) 踩(0) | <div>忘了此地是何地，忘了今昔是何昔，睁开眼睛就天亮，闭上眼睛就天黑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14440303)<br><br>2017-10-30 10:07<br>赞(0) 踩(0) | <div>没有故事的流年——忘了此地是何地，忘了今昔是何昔。睁开眼睛就亮天，闭上眼睛就黑天。太阳出来，为了生活出去；太阳落了，为了爱情回去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39606688)<br> <br>2016-07-31 00:46<br>赞(0) 踩(0) | <div>歌词真好</div> |
@@ -91,11 +91,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290372)<br>享受音乐，热爱生活<br>2013-11-27 21:19<br>赞(0) 踩(0) | <div>第一次听云蓬，很好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26426743)<br><br>2013-11-14 21:52<br>赞(2) 踩(0) | <div>夜色中的街。等着交通信号的时候，从车子前窗玻璃看出去，来来往往的人们，工薪族也好，白领女性也好，无论男女老少在灯光的照射下看起来都很美。在安静冰冷的夜之帷幕下，裹着毛衣或者大衣，大家好像都朝着某个温暖的地方走着。——吉本芭娜娜。晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9318130)<br><br>2013-11-06 07:54<br>赞(0) 踩(0) | <div>太阳出来 为了生活出去 太阳落下 为了爱情回去</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17344376)<br><br>2013-10-29 16:43<br>赞(2) 踩(0) | <div>鱼忘记了沧海，虫忘记了尘埃，神忘记了永恒，人忘记了现在。也是没有人的空山，也是没有鹰的青天，也是没有梦的睡眠，也是没有故事的流年。忘了此地是何地，忘了今昔是何昔，睁开眼睛就是亮天，闭上眼睛就是黑天。太阳出来，为了生活出去，太阳落了，为了爱情回去。班若波罗揭谛……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17344376)<br><br>2013-10-29 16:35<br>赞(0) 踩(0) | <div>鱼忘记了沧海，虫忘记了尘埃，神忘记了永恒，人忘记了现在。……忘了此地是何地，忘了今昔是何昔。睁开眼睛就亮天，闭上眼睛就黑天。太阳出来，为了生活出去，太阳落了，为了爱情回去。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17344376)<br><br>2013-10-29 16:43<br>赞(2) 踩(0) | <div>鱼忘记了沧海，<br>虫忘记了尘埃，<br>神忘记了永恒，<br>人忘记了现在。<br><br>也是没有人的空山，<br>也是没有鹰的青天，<br>也是没有梦的睡眠，<br>也是没有故事的流年。<br><br>忘了此地是何地，<br>忘了今昔是何昔，<br>睁开眼睛就是亮天，<br>闭上眼睛就是黑天。<br><br>太阳出来，为了生活出去，<br>太阳落了，为了爱情回去。<br><br>班若波罗揭谛……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17344376)<br><br>2013-10-29 16:35<br>赞(0) 踩(0) | <div>鱼忘记了沧海，<br>虫忘记了尘埃，<br>神忘记了永恒，<br>人忘记了现在。<br>……<br>忘了此地是何地，<br>忘了今昔是何昔。<br>睁开眼睛就亮天，<br>闭上眼睛就黑天。<br><br>太阳出来，为了生活出去，<br>太阳落了，为了爱情回去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7609538)<br><br>2013-10-21 07:25<br>赞(0) 踩(0) | <div>用智慧到彼岸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2013-10-19 22:49<br>赞(0) 踩(0) | <div>鱼说</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2522989)<br><br>2013-10-16 23:09<br>赞(0) 踩(0) | <div>也是没有人的空山，也是没有鹰的青天，也是没有梦的睡眠，也是没有故事的流年。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2522989)<br><br>2013-10-16 23:09<br>赞(0) 踩(0) | <div>也是没有人的空山，<br>也是没有鹰的青天，<br>也是没有梦的睡眠，<br>也是没有故事的流年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9617819)<br><br>2013-10-14 10:14<br>赞(0) 踩(0) | <div>太阳出来 为了生活  太阳落了 为了爱情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6117892)<br><br>2013-10-11 22:45<br>赞(0) 踩(0) | <div>最喜欢的一首，可是没唱！！！。要温一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23779868)<br><br>2013-10-06 00:20<br>赞(0) 踩(0) | <div>晚安呐各位熬夜的小蹄子们！</div> |
@@ -139,9 +139,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2196068)<br> <br>2012-09-05 11:12<br>赞(0) 踩(0) | <div>太阳出来，为了生活出去。太阳落了，为了爱情回去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8632390)<br><br>2012-08-22 22:26<br>赞(0) 踩(0) | <div>太阳出来，为了生活出去。太阳落了，为了爱情回去。@东是东 是在说你吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3005948)<br><br>2012-08-06 04:21<br>赞(0) 踩(0) | <div>般若波罗揭谛。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10079715)<br><br>2012-08-03 22:08<br>赞(0) 踩(0) | <div>鱼忘记了沧海，虫忘记了尘埃，神忘记了永恒，人忘记了现在。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10079715)<br><br>2012-08-03 22:08<br>赞(0) 踩(0) | <div>鱼忘记了沧海，<br>虫忘记了尘埃，<br>神忘记了永恒，<br>人忘记了现在。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1816676)<br><br>2012-07-29 12:49<br>赞(0) 踩(0) | <div>听到落泪</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6518233)<br><br>2012-07-29 03:44<br>赞(0) 踩(0) | <div>没有梦的睡眠，没有故事的流年。忘了此地是何地，忘了今昔是何昔。睁开眼睛就亮天，闭上眼睛就黑天。太阳出来，为了生活出去，太阳落了，为了爱情回去。班若波罗揭谛……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6518233)<br><br>2012-07-29 03:44<br>赞(0) 踩(0) | <div>没有梦的睡眠，<br>没有故事的流年。<br>忘了此地是何地，<br>忘了今昔是何昔。<br>睁开眼睛就亮天，<br>闭上眼睛就黑天。<br>太阳出来，为了生活出去，<br>太阳落了，为了爱情回去。<br>班若波罗揭谛……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/856666)<br>再见了<br>2012-07-27 15:33<br>赞(0) 踩(0) | <div>太阳出来，为了生活出去；太阳落了，为了爱情回去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2375635)<br>一匹死在南方的母马<br>2012-07-26 21:57<br>赞(0) 踩(0) | <div>再见，我的孩子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46805)<br>吃人说梦<br>2012-07-21 22:56<br>赞(0) 踩(0) | <div>忘了此地是何地，忘了今夕是何夕。班若波罗揭谛班若波罗揭谛。</div> |
@@ -165,13 +165,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1656887)<br><br>2012-02-26 13:28<br>赞(0) 踩(0) | <div>额，不同于那些矫情的歌，我觉得很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5559229)<br><br>2012-02-24 07:58<br>赞(0) 踩(0) | <div>好诡异好诡异…………</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7536398)<br><br>2012-02-23 20:01<br>赞(0) 踩(0) | <div>相忘于江湖</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2012-02-19 00:59<br>赞(1) 踩(0) | <div>周云蓬《不会说话的爱情》解开你的红肚带/撒一床雪花白/普天下所有的水都在你的眼里荡开日子快到头了/果子要熟透了/我们最后一次收割对方从此仇深似海这是最美丽最有力量的失恋之歌。诗人夏宇听到老周的现场版《不会说话的爱情》，说治愈了她两年的失恋。前年在做决定的时候，我想我也是。谢谢你，仇深似海真是一个不坏的结局。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2012-02-19 00:59<br>赞(1) 踩(0) | <div>周云蓬《不会说话的爱情》<br>解开你的红肚带/撒一床雪花白/普天下所有的水都在你的眼里荡开<br>日子快到头了/果子要熟透了/我们最后一次收割对方从此仇深似海<br><br>这是最美丽最有力量的失恋之歌。诗人夏宇听到老周的现场版《不会说话的爱情》，说治愈了她两年的失恋。前年在做决定的时候，我想我也是。谢谢你，仇深似海真是一个不坏的结局。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6169898)<br>Life is bril...<br>2012-01-03 21:02<br>赞(0) 踩(0) | <div>Just like</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7418131)<br><br>2011-12-27 00:34<br>赞(0) 踩(0) | <div>悟了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1668807)<br><br>2011-12-16 13:43<br>赞(0) 踩(0) | <div>喜欢中间念经的那段</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3954931)<br><br>2011-12-05 18:01<br>赞(0) 踩(0) | <div>我喜欢！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5865627)<br><br>2011-10-26 22:54<br>赞(0) 踩(0) | <div>“忘了今夕是何夕”    Farewell.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2375635)<br>一匹死在南方的母马<br>2011-10-23 14:55<br>赞(1) 踩(0) | <div>班若波罗揭谛……班若波罗揭谛……班若波罗揭谛……喜欢他的歌声中透着这种淡淡的禅机....</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2375635)<br>一匹死在南方的母马<br>2011-10-23 14:55<br>赞(1) 踩(0) | <div>班若波罗揭谛……<br>班若波罗揭谛……<br>班若波罗揭谛……<br><br><br>喜欢他的歌声中透着这种淡淡的禅机....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48281)<br><br>2011-09-27 12:14<br>赞(0) 踩(0) | <div>鱼相忘于江湖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5796101)<br><br>2011-09-18 01:31<br>赞(0) 踩(0) | <div>夏日某个午后 的听觉很迟钝但被他打动。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/556917)<br>我还没想好要写什么...<br>2011-08-16 22:06<br>赞(1) 踩(0) | <div>太转了</div> |

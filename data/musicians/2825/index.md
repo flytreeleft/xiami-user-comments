@@ -3,7 +3,7 @@ JS
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e75c495bbd5119f716db8235715949a0.jpg)<br>JS](https://i.xiami.com/js) | **播放数**: 36632943<br>**粉丝数**: 25101<br>**评论数**: 669<br>**地区**: Taiwan, PRC 中国台湾<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/e75c495bbd5119f716db8235715949a0.jpg)<br>JS](https://i.xiami.com/js) | **地区**: Taiwan, PRC 中国台湾<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 36632943<br>**粉丝数**: 25101<br>**评论数**: 669<br> |
 
 ## 档案
 
@@ -87,8 +87,8 @@ SOPHIA<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1425416)<br>RideOrDie<br>2020-10-17 12:22<br>赞(0) 踩(0) | <div>这个组合倒闭了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327799576)<br> <br>2020-04-18 15:32<br>赞(0) 踩(0) | <div>辽宁盖平是哪？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11235021)<br>纵贯线王菲熊光KOKIA...<br>2020-03-21 09:38<br>赞(0) 踩(0) | <div>那么问题来了：JS会不会JS？</div> |
@@ -108,7 +108,7 @@ SOPHIA<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419018288)<br>喜欢音乐单纯，美好<br>2019-02-13 09:26<br>赞(2) 踩(0) | <div>记得第一次在ChanelV听到你们的歌，MV是白色背景，介绍你们是兄妹，很多年过去了，还是喜欢你们的歌，《天空的颜色》从昨晚单曲循环了一夜，一大早又继续在听，励志，让纠结的我，释怀了许多。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355934856)<br>谢谢你虾米音乐<br>2019-01-07 13:32<br>赞(0) 踩(0) | <div>新年快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411218692)<br>祝世界继续热闹<br>2018-12-27 21:20<br>赞(0) 踩(0) | <div>谢谢你们，希望你们能来无锡！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346087991)<br>医路漫漫 音乐为伴<br>2018-12-02 09:00<br>赞(0) 踩(0) | <div>我一个人不孤单想一个人才孤单我就是从这一句开始听JS</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346087991)<br>医路漫漫 音乐为伴<br>2018-12-02 09:00<br>赞(0) 踩(0) | <div>我一个人不孤单<br>想一个人才孤单<br>我就是从这一句<br>开始听JS</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14002893)<br><br>2018-11-27 11:11<br>赞(0) 踩(0) | <div>记得 高中写作文 经常套用 天空的颜色 里面的歌词 每次作文必拿高分 哈哈哈哈哈哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59048224)<br><br>2018-11-14 23:58<br>赞(1) 踩(0) | <div>没想到他们的歌这么好听，以前都是之收藏其中的一两首，现在真的要粉他们了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271430889)<br>忘了爱(｡･㉨･｡)ﾉ♡...<br>2018-10-26 12:45<br>赞(3) 踩(0) | <div>《杀破狼》是一首超好听的经典的歌曲，JS用轻声的低吟成功诠释了这首歌曲。辗转蛰伏的曲风将《仙剑奇侠传》中穿越时空的景象完美的展现在听众面前，逍遥御剑飞行，穿越时空拯救灵儿一幕幕仿佛在歌中重现。整首歌曲大气滂沱，高潮叠复，浓重的凄凉恣意疯长，古战场的壮阔苍凉、凄清孤绝一览无余，这首歌曲让人在无限的虚幻中意犹未尽……</div> |
@@ -116,7 +116,7 @@ SOPHIA<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151803814)<br>我还没想好要写什么...<br>2018-09-10 17:53<br>赞(2) 踩(0) | <div>好喜欢你们，希望多出新歌！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34354882)<br>我还没想好要写什么...<br>2018-07-10 17:01<br>赞(7) 踩(0) | <div>Javascript</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379006493)<br><br>2018-08-12 19:51<br>赞(0) 踩(0) | <div>前端必须脚本。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358238997)<br><br>2018-07-06 15:29<br>赞(0) 踩(0) | <div>你们是哥哥妹妹吗？say forever</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358238997)<br><br>2018-07-06 15:29<br>赞(0) 踩(0) | <div>你们是哥哥妹妹吗？<br>say forever</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272067422)<br><br>2018-07-06 10:36<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8269111)<br>有了滑板鞋天黑都不怕<br>2018-05-22 16:35<br>赞(0) 踩(0) | <div>差不多和王力宏一起出道吧 GGMM 哈哈 好想回到那个时候</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4973560)<br>也好听如火如荼还让他<br>2018-07-11 14:10<br>赞(0) 踩(0) | <div>力宏早多了吧</div> |
@@ -155,7 +155,7 @@ SOPHIA<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182741870)<br>我还没想好要写什么...<br>2017-07-29 12:59<br>赞(3) 踩(0) | <div>记忆中的2005</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265124414)<br><br>2017-07-27 21:18<br>赞(3) 踩(0) | <div>一亿元的日落和我比想象中爱你超级喜欢 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80009588)<br>she天下第一<br>2017-07-26 00:20<br>赞(1) 踩(0) | <div>杀破狼早就听过了。。。虽然因为仙剑才火起来。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273755607)<br><br>2017-07-15 01:38<br>赞(2) 踩(0) | <div>say foreversay foreversay foreversay forever一首say forever一直听到现在，那时候还叫哥哥妹妹，这首歌还会一直听下去</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273755607)<br><br>2017-07-15 01:38<br>赞(2) 踩(0) | <div>say forever<br>say forever<br><br>say forever<br><br>say forever<br><br>一首say forever一直听到现在，那时候还叫哥哥妹妹，这首歌还会一直听下去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282625272)<br><br>2017-07-14 15:57<br>赞(1) 踩(0) | <div>不论多少年，依旧支持你们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252794383)<br><br>2017-07-02 23:18<br>赞(1) 踩(0) | <div>他们都不是音乐专业的，如何创作？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303215253)<br><br>2017-06-20 08:56<br>赞(1) 踩(0) | <div>永远支持</div> |
@@ -228,7 +228,7 @@ SOPHIA<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49068787)<br>你问我全世界哪里最美 我...<br>2015-11-30 00:11<br>赞(2) 踩(0) | <div>我最喜欢的两张专辑都下架了！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22997183)<br><br>2015-11-26 10:04<br>赞(0) 踩(0) | <div>喜欢这对兄妹组合</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76067776)<br> 听自己爱听的音乐，做自...<br>2015-11-23 00:53<br>赞(1) 踩(0) | <div>突然听到你们的声音，有一种耳朵醒了的感觉！喜欢你们没道理！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2015-11-21 09:59<br>赞(1) 踩(0) | <div>我比想象中爱你俩人都好高啊 175 185打底</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2015-11-21 09:59<br>赞(1) 踩(0) | <div>我比想象中爱你<br>俩人都好高啊 175 185打底</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48075227)<br><br>2015-11-18 18:03<br>赞(0) 踩(0) | <div>艺妓好听 然而这里没有</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18652620)<br>脚踏实地 求真务实<br>2015-11-14 13:26<br>赞(0) 踩(0) | <div>剑圣吗=。=</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27939384)<br>ego cogito<br>2015-11-20 18:07<br>赞(0) 踩(0) | <div>blade master</div> |
@@ -266,7 +266,7 @@ SOPHIA<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9327494)<br>http://www.x...<br>2015-04-03 08:17<br>赞(0) 踩(0) | <div>杀破狼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44852752)<br>怀念失去祭奠拥有<br>2015-03-30 22:11<br>赞(0) 踩(0) | <div>(⊙_⊙)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2161839)<br> <br>2015-03-30 18:23<br>赞(0) 踩(0) | <div></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10185921)<br>虚度光阴～<br>2015-03-23 02:08<br>赞(0) 踩(0) | <div>敬告亲爱的 JS ：<a href="http://www.xiami.com/g/thread-926690?spm=0.0.0.0.c09gx5" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/g/thread-926690?spm=0.0.0.0.c09gx5</a>✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿恳求被重视！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10185921)<br>虚度光阴～<br>2015-03-23 02:08<br>赞(0) 踩(0) | <div>敬告亲爱的 JS ：<br><a href="http://www.xiami.com/g/thread-926690?spm=0.0.0.0.c09gx5" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/g/thread-926690?spm=0.0.0.0.c09gx5</a><br>✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿<br>恳求被重视！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10064615)<br>签名中……<br>2015-03-10 13:19<br>赞(1) 踩(0) | <div>JS这个词从此在我心里变得那么美丽~ 不再是奸商~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47994889)<br><br>2015-03-10 23:30<br>赞(0) 踩(0) | <div>哈哈哈哈哈怎么搞笑</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10064615)<br>签名中……<br>2015-03-11 10:21<br>赞(0) 踩(0) | <div><q><b>西贝姑娘JYZ说：</b></q></div> |
@@ -318,7 +318,7 @@ SOPHIA<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339068135)<br><br>2018-02-22 18:49<br>赞(0) 踩(0) | <div>你们的经典歌曲真是无人超越！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351427891)<br><br>2018-05-21 15:25<br>赞(0) 踩(0) | <div>好久没有你们的消息了，很怀念带给我的那段日子</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74290616)<br>对于自己就像是对于世界一...<br>2018-06-03 16:09<br>赞(0) 踩(0) | <div>还是那个仙剑</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358238997)<br><br>2018-07-06 15:31<br>赞(0) 踩(0) | <div>你们是哥哥妹妹吗？say forever       一直找哥哥妹妹找不到。原来是js，原谅我读书少</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358238997)<br><br>2018-07-06 15:31<br>赞(0) 踩(0) | <div>你们是哥哥妹妹吗？<br>say forever       一直找哥哥妹妹找不到。原来是js，原谅我读书少</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378478135)<br><br>2018-07-13 17:12<br>赞(0) 踩(0) | <div>最爱你这首歌了，满满的回忆，时过境迁我还是好怀恋以前，开始回头也没意义了还得要继续走下去加油吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2018-11-14 12:10<br>赞(0) 踩(0) | <div>加油呀，超级喜欢杀破狼。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377539664)<br><br>2019-06-13 10:24<br>赞(0) 踩(0) | <div><q><b>一杯白水说：</b></q></div> |
@@ -349,7 +349,7 @@ SOPHIA<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3719355)<br><br>2015-01-06 16:21<br>赞(0) 踩(0) | <div>我一个人不孤单，想一个人才孤单</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3247458)<br><br>2014-12-26 22:23<br>赞(0) 踩(0) | <div>杀破狼那首，听上去死去活来半天还不死似的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34315089)<br><br>2014-12-25 11:57<br>赞(0) 踩(0) | <div>听到这首歌，你想到了什么。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1367115)<br><br>2014-12-20 16:09<br>赞(1) 踩(0) | <div>JS Xmas台湾实力派创作型兄妹组合JS成军15年首度专场 邀您共度圣诞嚮宴演出者：Justin &amp;amp; Sophia哥哥陈忠义(Justin) 、妹妹陈琦萱(Sophia)日期：2014/12/21（星期日）时间：开场18:30 开演19:30地点：MAO Livehouse Shanghai上海市卢湾区重庆南路308号3F（近建国中路）（路线：地铁9号线打浦桥站、986、36、974、933、隧道八线、17、24 、730）门票：（均含1杯免费饮料）《预售》：双人套票：330元（两人）／单人票：180元／VIP：300元／现场票：250元</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1367115)<br><br>2014-12-20 16:09<br>赞(1) 踩(0) | <div>JS Xmas<br>台湾实力派创作型兄妹组合JS<br>成军15年首度专场 邀您共度圣诞嚮宴<br><br>演出者：Justin &amp;amp; Sophia<br>哥哥陈忠义(Justin) 、妹妹陈琦萱(Sophia)<br><br><br>日期：2014/12/21（星期日）<br>时间：开场18:30 开演19:30<br><br>地点：MAO Livehouse Shanghai<br>上海市卢湾区重庆南路308号3F（近建国中路）<br>（路线：地铁9号线打浦桥站、986、36、974、933、隧道八线、17、24 、730）<br><br>门票：（均含1杯免费饮料）<br>《预售》：双人套票：330元（两人）／单人票：180元／VIP：300元／现场票：250元</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40222886)<br>夜晚落降 清晨启航 愿你...<br>2015-01-17 23:42<br>赞(0) 踩(0) | <div>好想看 居然已经结束了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46247852)<br><br>2015-02-13 22:45<br>赞(0) 踩(0) | <div><q><b>JacksonMainDancer说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25516537)<br><br>2014-12-20 13:26<br>赞(0) 踩(0) | <div>中国的乐童音乐家！！</div> |
@@ -500,7 +500,7 @@ SOPHIA<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9974667)<br><br>2012-11-10 00:26<br>赞(0) 踩(0) | <div>唉 再也不想听了 （cuz it makes me sad ）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11401981)<br><br>2012-11-09 08:55<br>赞(0) 踩(0) | <div>好聽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11401898)<br><br>2012-11-08 14:10<br>赞(0) 踩(0) | <div>擁有風格的創作</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5899276)<br>不慎升级，即日起账号弃用<br>2012-11-03 03:12<br>赞(0) 踩(0) | <div>高中时不小心买错了卡带，于是借此结识了JS，那种淡淡的，温暖的感觉，至今仍有清晰的回忆。虽然我总是把那个年代形容得无比晦暗，但那的确是段好时光。也许他们的音乐，就是能让人想起心底深处那些温暖的，宁静的回忆吧</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5899276)<br>不慎升级，即日起账号弃用<br>2012-11-03 03:12<br>赞(0) 踩(0) | <div>高中时不小心买错了卡带，于是借此结识了JS，那种淡淡的，温暖的感觉，至今仍有清晰的回忆。虽然我总是把那个年代形容得无比晦暗，但那的确是段好时光。<br>也许他们的音乐，就是能让人想起心底深处那些温暖的，宁静的回忆吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10867375)<br><br>2012-11-01 15:28<br>赞(0) 踩(0) | <div>哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6760290)<br><br>2012-10-19 08:59<br>赞(0) 踩(0) | <div>第一次听到他们的歌是say forever,那是自己还年轻，听着听着就哭了。竟然还没反应过来他们就是js，时过境迁，再次听到心里依旧澎湃。清澈的声音，总是能让人找到一丝安静</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5659880)<br><br>2012-10-16 16:35<br>赞(0) 踩(0) | <div>好听的声音和永不停歇创作 就是JS的灵魂所在</div> |
@@ -587,7 +587,7 @@ SOPHIA<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7539232)<br><br>2012-01-04 15:25<br>赞(0) 踩(0) | <div>say forever 最初的清澈和最清澈的沧桑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7312343)<br><br>2011-12-24 12:25<br>赞(0) 踩(0) | <div>温暖的声音！从05年第一次听就爱到现在</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1109335)<br><br>2011-12-24 00:25<br>赞(0) 踩(0) | <div>新专辑新专辑，什么时候？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/608939)<br><br>2011-12-22 13:50<br>赞(0) 踩(0) | <div>他們應該這正子會發新專輯喔這是他們的新歌其實我們都孤單超好聽的蠟!!!!!<a href="http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=vWYpV9-zGgg" target="_blank" rel="nofollow noreferrer noopener">http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=vWYpV9-zGgg</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/608939)<br><br>2011-12-22 13:50<br>赞(0) 踩(0) | <div>他們應該這正子會發新專輯喔<br>這是他們的新歌<br>其實我們都孤單<br>超好聽的蠟!!!!!<br><a href="http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=vWYpV9-zGgg" target="_blank" rel="nofollow noreferrer noopener">http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=vWYpV9-zGgg</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6831469)<br> <br>2011-12-22 00:45<br>赞(0) 踩(0) | <div>小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4191092)<br><br>2011-12-20 17:08<br>赞(0) 踩(0) | <div>火车厢一列列经过了隧道</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6646092)<br><br>2011-12-10 00:05<br>赞(0) 踩(0) | <div>妹妹声音耐听</div> |
@@ -599,8 +599,8 @@ SOPHIA<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6790136)<br><br>2011-11-30 06:55<br>赞(0) 踩(0) | <div>加油!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4804)<br>签~啊名~啊~签了个名<br>2011-11-28 11:40<br>赞(0) 踩(0) | <div>大学时候买的唯一一张非主流派</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6759889)<br><br>2011-11-14 20:14<br>赞(0) 踩(0) | <div>JS</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/608939)<br><br>2011-11-11 13:15<br>赞(0) 踩(0) | <div>JS這次新書的新歌喔我們都孤單<a href="http://www.youtube.com/watch?v=vWYpV9-zGgg" target="_blank" rel="nofollow noreferrer noopener">http://www.youtube.com/watch?v=vWYpV9-zGgg</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/608939)<br><br>2011-11-11 13:14<br>赞(0) 踩(0) | <div>JS這次新書的新歌喔我們都孤單<a href="http://www.youtube.com/watch?v=vWYpV9-zGgg" target="_blank" rel="nofollow noreferrer noopener">http://www.youtube.com/watch?v=vWYpV9-zGgg</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/608939)<br><br>2011-11-11 13:15<br>赞(0) 踩(0) | <div>JS這次新書的新歌喔<br>我們都孤單<br><a href="http://www.youtube.com/watch?v=vWYpV9-zGgg" target="_blank" rel="nofollow noreferrer noopener">http://www.youtube.com/watch?v=vWYpV9-zGgg</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/608939)<br><br>2011-11-11 13:14<br>赞(0) 踩(0) | <div>JS這次新書的新歌喔<br>我們都孤單<br><a href="http://www.youtube.com/watch?v=vWYpV9-zGgg" target="_blank" rel="nofollow noreferrer noopener">http://www.youtube.com/watch?v=vWYpV9-zGgg</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1458469)<br><br>2011-11-10 13:30<br>赞(0) 踩(0) | <div>js，yes</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6634822)<br>go along…be ...<br>2011-11-08 21:51<br>赞(0) 踩(0) | <div>i</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5900088)<br><br>2011-11-08 16:02<br>赞(0) 踩(0) | <div>好久以前就喜欢他们了，歌声很清～</div> |
@@ -627,7 +627,7 @@ SOPHIA<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2472672)<br><br>2011-07-21 22:46<br>赞(0) 踩(0) | <div>安静\'</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4772704)<br>VIVA<br>2011-07-21 11:06<br>赞(0) 踩(0) | <div>小浪慢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1493294)<br><br>2011-07-20 01:48<br>赞(0) 踩(0) | <div>很老的组合了哦。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4190474)<br><br>2011-07-15 21:08<br>赞(0) 踩(0) | <div>喵的……哥哥长丑了貌似他们前期的音乐好好听！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4190474)<br><br>2011-07-15 21:08<br>赞(0) 踩(0) | <div>喵的……哥哥长丑了貌似<br>他们前期的音乐好好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4190474)<br><br>2011-07-15 21:06<br>赞(0) 踩(0) | <div>有爱的两人组合~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4709138)<br><br>2011-07-03 21:56<br>赞(0) 踩(0) | <div>艾拉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374450)<br>GAME MAKER！！<br>2011-07-01 13:34<br>赞(0) 踩(0) | <div>你是此生最美的风景……</div> |
@@ -685,14 +685,14 @@ SOPHIA<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3526897)<br><br>2011-04-08 20:23<br>赞(0) 踩(0) | <div>安抚人心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/797562)<br><br>2011-04-08 18:50<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3514352)<br><br>2011-04-07 19:36<br>赞(0) 踩(0) | <div>第一次听JS是仙剑，买了他们在大陆发行的第一张专辑。到现在都记得的是永远简单而又那么温暖的歌词。不论是《天空原来的颜色》还是《预见未来》，都让人想起最美好的曾经</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3514352)<br><br>2011-04-07 19:34<br>赞(0) 踩(0) | <div>JS，一直以来都是那么美好的曲调和温馨的感受。最近常常想起的是《预见未来》，在经历过那段繁复的情感后，我依旧为听到这样的一首歌而对生活充满期待——遇见你让告别的爱，像为了等你。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3514352)<br><br>2011-04-07 19:34<br>赞(0) 踩(0) | <div>JS，一直以来都是那么美好的曲调和温馨的感受。<br>最近常常想起的是《预见未来》，在经历过那段繁复的情感后，我依旧为听到这样的一首歌而对生活充满期待——遇见你让告别的爱，像为了等你。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2996338)<br><br>2011-04-06 23:18<br>赞(0) 踩(0) | <div>对上眼了~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1104956)<br><br>2011-04-01 19:39<br>赞(0) 踩(0) | <div>喜欢JS</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1104956)<br><br>2011-03-31 20:36<br>赞(0) 踩(0) | <div>喜欢，很有才华</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3170568)<br><br>2011-03-30 19:32<br>赞(0) 踩(0) | <div>此生最美的風景~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2533130)<br><br>2011-03-30 10:55<br>赞(0) 踩(0) | <div>我最中意的组合。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3335802)<br><br>2011-03-29 17:00<br>赞(0) 踩(0) | <div>喜欢索菲亚的声音，喜欢婉转清新的曲风!浮躁的情绪，在她歌声里慢慢沉淀下来！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3335802)<br><br>2011-03-29 16:59<br>赞(0) 踩(0) | <div>很喜欢索菲亚的声音，沉沉磁性让人很舒服，曲风也是异样的清新，不俗套，很喜欢！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3335802)<br><br>2011-03-29 16:59<br>赞(0) 踩(0) | <div>很喜欢索菲亚的声音，沉沉磁性让人很舒服，曲风也是异样的清新，不俗套，很喜欢<br>！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2449722)<br><br>2011-03-29 14:24<br>赞(0) 踩(0) | <div>声音很透彻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/844819)<br>Fly me to th...<br>2011-03-29 11:07<br>赞(0) 踩(0) | <div>我很迷恋你的特别，有种哲学家的特别……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2720528)<br><br>2011-03-27 07:40<br>赞(0) 踩(0) | <div>恩....</div> |

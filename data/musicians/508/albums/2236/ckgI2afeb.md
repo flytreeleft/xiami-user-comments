@@ -51,12 +51,12 @@ music<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5557787)<br>我还没想好要写什么...<br>2020-11-19 10:10<br>赞(0) 踩(0) | <div>谁能告诉我，爱情到底是什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418968849)<br><br>2020-08-24 20:22<br>赞(1) 踩(0) | <div>那年代除了这部孽债，还有部年轮也不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409314557)<br><br>2020-07-14 21:20<br>赞(0) 踩(0) | <div>虽然没有生在那个年代，但对于歌词是很有感觉的，写得非常深刻！！</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409314557)<br><br>2020-07-14 21:25<br>赞(0) 踩(0) | <div>曾经深爱过曾经无奈过曾经流着泪舍不得曾经拥有过曾经失去过曾经艰难地选择多少甜蜜和苦涩变成多少悲欢离合曾经失眠过曾经兴奋过曾经为了你魂不守舍曾经年青过曾经冲动过曾经为了你喝醉过魂断梦牵的岁月留在回忆里永不褪色谁能告诉我什么是对什么是错谁能谁能告诉我</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409314557)<br><br>2020-07-14 21:25<br>赞(0) 踩(0) | <div>曾经深爱过<br>曾经无奈过<br>曾经流着泪舍不得<br>曾经拥有过<br>曾经失去过<br>曾经艰难地选择<br>多少甜蜜和苦涩<br>变成多少悲欢离合<br>曾经失眠过<br>曾经兴奋过<br>曾经为了你魂不守舍<br>曾经年青过<br>曾经冲动过<br>曾经为了你喝醉过<br>魂断梦牵的岁月<br>留在回忆里永不褪色<br>谁能告诉我<br>什么是对什么是错<br>谁能谁能告诉我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353164580)<br>听十年歌 疗三世伤<br>2020-07-06 02:37<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45309265)<br><br>2020-05-21 22:12<br>赞(1) 踩(0) | <div>时光飞逝，岁月如梭！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355144680)<br><br>2020-04-03 20:11<br>赞(0) 踩(0) | <div>好听</div> |
@@ -84,7 +84,7 @@ music<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25290285)<br><br>2018-04-29 23:34<br>赞(0) 踩(0) | <div>谁能告诉我有没有这样的笔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/62346072)<br>放下是一种生活态度<br>2018-04-20 16:26<br>赞(2) 踩(0) | <div>唱到我心里去了，李春波最好的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346826301)<br>树欲静而风不止<br>2018-04-05 06:48<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326842470)<br>烟消云散的往昔<br>2018-03-11 15:07<br>赞(7) 踩(0) | <div>一首歌，居然被一代人认为是他们的人生写照。这，才是经典</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326842470)<br>烟消云散的往昔<br>2018-03-11 15:07<br>赞(7) 踩(0) | <div>一首歌，居然被一代人认为是他们的人生写照。<br><br>这，才是经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1570380)<br><br>2018-02-21 18:15<br>赞(2) 踩(0) | <div>我母亲是知青，她说这首歌是写知青最好的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349067279)<br>走自己的路，让别人去说吧...<br>2018-02-12 20:22<br>赞(0) 踩(0) | <div>好(✪▽✪)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326497891)<br>天堂地狱一道门，道门无非...<br>2018-01-02 23:38<br>赞(29) 踩(0) | <div>这首歌唱出了好多的无奈，这是那一代人永远抹不去的伤痛，因为影像太大了，被电台禁止播放了，以前的电视像纪录片，而现在的电视剧给人的感觉就是被硬生生的编出来的，快20年没有看电视剧了，因为太渣，懒得看&amp;hellip;&amp;hellip;</div> |

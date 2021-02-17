@@ -69,8 +69,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420250352)<br><br>2021-01-12 22:45<br>赞(0) 踩(0) | <div>鼠来宝副楼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270879773)<br>…<br>2020-10-28 19:59<br>赞(0) 踩(0) | <div>听成&amp;ldquo;小宇她是谁&amp;rdquo;emmm</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53633698)<br> <br>2020-10-12 22:06<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
@@ -240,7 +240,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74745792)<br>懒得介绍<br>2016-06-22 11:25<br>赞(0) 踩(0) | <div>啦啦啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74745792)<br>懒得介绍<br>2016-06-22 11:20<br>赞(2) 踩(0) | <div>阿岳真的好厉害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143176568)<br>没什么好说的<br>2016-06-11 13:06<br>赞(1) 踩(0) | <div>这就是我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2383934)<br><br>2016-06-07 08:47<br>赞(1) 踩(0) | <div>听到唉呀 未接电话那么多我想 狗屁事也非常多一下就笑喷了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2383934)<br><br>2016-06-07 08:47<br>赞(1) 踩(0) | <div>听到<br>唉呀 未接电话那么多<br>我想 狗屁事也非常多<br><br>一下就笑喷了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80083170)<br><br>2016-05-31 00:23<br>赞(1) 踩(0) | <div>懒觉其实和闽南话里的jb是谐音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95207194)<br> <br>2016-05-26 02:55<br>赞(0) 踩(0) | <div>浪鸟 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80083170)<br><br>2016-05-31 00:21<br>赞(0) 踩(0) | <div>我看懂了我告诉你  你哪里人</div> |
@@ -297,7 +297,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226090070)<br>Aoeiuü.    B...<br>2017-01-14 20:00<br>赞(0) 踩(0) | <div>可以可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32095020)<br>带你看日出 一看看一天半<br>2015-03-29 10:58<br>赞(0) 踩(0) | <div>我在干嘛啊啊啊啊啊啊啊啊啊啊啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33902817)<br>-虾米再见啦<br>2015-03-28 10:23<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈哈哈哈～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42062746)<br> <br>2015-03-13 18:38<br>赞(0) 踩(0) | <div>每天我醒来在床上就在发呆我的脑袋跟天花板一样空白</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42062746)<br> <br>2015-03-13 18:38<br>赞(0) 踩(0) | <div>每天我醒来在床上就在发呆<br>我的脑袋跟天花板一样空白</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9017559)<br> <br>2015-02-23 00:06<br>赞(0) 踩(0) | <div>也许自由是我逃避的借口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40766034)<br><br>2014-11-30 10:45<br>赞(0) 踩(0) | <div>我在听歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20841505)<br>我不是你要的女孩儿<br>2014-08-27 19:45<br>赞(0) 踩(0) | <div>哈哈哈</div> |
@@ -317,7 +317,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2103049)<br>我还没想好要写什么...<br>2013-08-19 02:04<br>赞(0) 踩(0) | <div>是去还是留 何去又何从 何去又何从？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18521759)<br><br>2013-08-04 21:52<br>赞(0) 踩(0) | <div>这首歌适合现在的我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2654947)<br><br>2013-08-01 21:53<br>赞(0) 踩(0) | <div>昨天在干嘛 明天要干嘛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9955070)<br><br>2013-07-16 11:38<br>赞(0) 踩(0) | <div>我了解自己吗 不知道都已经几岁了 还不知道这几年 用尽所有力气试图证明我跟别人不一样 懒觉啦我的白痴自信和白痴骄傲 害了我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9955070)<br><br>2013-07-16 11:38<br>赞(0) 踩(0) | <div>我了解自己吗 不知道<br>都已经几岁了 还不知道<br>这几年 用尽所有力气<br>试图证明我跟别人不一样 懒觉啦<br>我的白痴自信和白痴骄傲 害了我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5744034)<br> <br>2013-07-10 01:13<br>赞(0) 踩(0) | <div>特别适合考实务的时候边听边写答案</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16012397)<br><br>2013-07-06 23:15<br>赞(0) 踩(0) | <div>！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16227487)<br><br>2013-06-23 03:03<br>赞(0) 踩(0) | <div>靠！</div> |
@@ -329,7 +329,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14043194)<br><br>2013-04-23 11:39<br>赞(0) 踩(0) | <div>三年后,依旧如此.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4767213)<br>尘埃<br>2013-04-03 17:36<br>赞(0) 踩(0) | <div>啊........@羊背上的木头人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5054443)<br><br>2013-03-28 22:40<br>赞(0) 踩(0) | <div>没有多余的眼泪来可怜自己</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5684746)<br><br>2013-03-07 18:41<br>赞(0) 踩(0) | <div>每天我醒来在床上就在发呆 /我的脑袋跟天花板一样空白/昨天在干嘛 明天要干嘛/我的灵魂 似乎不在我的身上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5684746)<br><br>2013-03-07 18:41<br>赞(0) 踩(0) | <div>每天我醒来在床上就在发呆 /<br>我的脑袋跟天花板一样空白/<br>昨天在干嘛 明天要干嘛/<br>我的灵魂 似乎不在我的身上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5830197)<br><br>2012-11-05 21:04<br>赞(0) 踩(0) | <div>度日如年， 支离破碎的生活，我就象是没灵魂， 在街上晃呀晃，像一滩死水， 一种绝望的感觉，没有多余的眼泪来可怜自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/707046)<br><br>2012-09-08 01:17<br>赞(0) 踩(0) | <div>@_@</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5775316)<br><br>2012-09-03 22:37<br>赞(0) 踩(0) | <div>触歌伤情</div> |
@@ -344,7 +344,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3791873)<br><br>2011-11-07 23:42<br>赞(0) 踩(0) | <div>非常有趣……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4032691)<br><br>2011-09-25 10:26<br>赞(0) 踩(0) | <div>阿岳阿岳 让我跟着你去当流浪歌手吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5480438)<br><br>2011-09-03 14:28<br>赞(2) 踩(0) | <div>在台北，记得是中学吧，听过阿yue在酒吧开演唱会，那时候就很爱他的声音，很奶油，很犀利！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138224)<br>我还没想好要写什么...<br>2011-08-31 00:27<br>赞(3) 踩(0) | <div>度日如年那 支离破碎的生活我就象是没灵魂 在街上晃呀晃象一滩死水 一种绝望的感觉没有多余的眼泪来可怜自己没有人陪我 寂寞的街上霓虹灯闪耀 它似乎在笑我哈哈哈 无路用的人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138224)<br>我还没想好要写什么...<br>2011-08-31 00:27<br>赞(3) 踩(0) | <div>度日如年那 支离破碎的生活<br>我就象是没灵魂 在街上晃呀晃<br>象一滩死水 一种绝望的感觉<br>没有多余的眼泪来可怜自己<br>没有人陪我 寂寞的街上<br>霓虹灯闪耀 它似乎在笑我<br>哈哈哈 无路用的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/689126)<br>我还没想好要写什么...<br>2011-06-28 12:37<br>赞(0) 踩(0) | <div>那个一起唱的转折很亮~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/689126)<br>我还没想好要写什么...<br>2011-06-28 12:36<br>赞(0) 踩(0) | <div>自由越多失去的就越多。自己保重哦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3733515)<br>我还没想好要写什么...<br>2011-06-28 12:15<br>赞(0) 踩(0) | <div>这首歌是在KTV一个小屁孩子唱滴，好好听哦！喜欢歌词，喜欢歌词，还有喜欢歌词！小屁孩子别骄傲哈！实话说你唱的很棒呢！备注：某些人应该多听听这个歌！疑心病患者！自卑症患者！寂寞症患者！都应该听听！</div> |
@@ -358,6 +358,6 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1725151)<br><br>2011-01-08 07:34<br>赞(0) 踩(0) | <div>猪头， 这首歌唱的是曾经的你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/679656)<br> <br>2010-05-29 19:03<br>赞(1) 踩(0) | <div>哈哈哈 无路用的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36055)<br>保有幸福的能力<br>2009-08-25 15:39<br>赞(0) 踩(0) | <div>一起唱一起唱一起唱我们一起唱 昨天在干嘛 明天要干嘛 狗屁事也非常多 我很自由是痛苦的自由 也许是我逃避的借口 欧也………………(#‵′)凸</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170927)<br><br>2009-06-16 04:06<br>赞(0) 踩(0) | <div>一起唱一起唱一起唱！啦啦啦啦~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170927)<br><br>2009-06-16 04:06<br>赞(0) 踩(0) | <div>一起唱一起唱一起唱！<br>啦啦啦啦~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55632)<br><br>2009-06-05 20:48<br>赞(1) 踩(0) | <div>都已经几岁啦？还不知道？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98939)<br><br>2009-04-01 13:52<br>赞(1) 踩(0) | <div>每天我醒来在床上就在发呆我的脑袋跟天花板一样空白昨天在干嘛 明天要干嘛我的灵魂 似乎不在我的身上...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98939)<br><br>2009-04-01 13:52<br>赞(1) 踩(0) | <div>每天我醒来在床上就在发呆<br>我的脑袋跟天花板一样空白<br>昨天在干嘛 明天要干嘛<br>我的灵魂 似乎不在我的身上...</div> |

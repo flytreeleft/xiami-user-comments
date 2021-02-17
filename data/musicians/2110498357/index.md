@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/632b2ffd8becaadab6727b0f7c2eee6f.jpg)<br>王金男](https://i.xiami.com/wangjinnan) | **播放数**: 2157823<br>**粉丝数**: 34<br>**评论数**: 4<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/632b2ffd8becaadab6727b0f7c2eee6f.jpg)<br>王金男](https://i.xiami.com/wangjinnan) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 2157823<br>**粉丝数**: 34<br>**评论数**: 4<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-03-22 17:13<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375875866)<br>我还没想好要写什么...<br>2019-03-13 04:12<br>赞(2) 踩(0) | <div>有回味感，好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-03-07 16:25<br>赞(1) 踩(0) | <div>好听</div> |

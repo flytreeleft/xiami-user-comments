@@ -3,7 +3,7 @@ Luvea
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/25bc2322fa653e766be4f52c6afd203d.jpg)<br>Luvea](https://i.xiami.com/luvea) | **播放数**: 8750090<br>**粉丝数**: 7801<br>**评论数**: 740<br>**地区**: China 中国大陆<br>**风格**: 独立电子乐 Indietronica<br> |
+| [![](../../images/musicians/25bc2322fa653e766be4f52c6afd203d.jpg)<br>Luvea](https://i.xiami.com/luvea) | **地区**: China 中国大陆<br>**风格**: 独立电子乐 Indietronica<br>**播放数**: 8750090<br>**粉丝数**: 7801<br>**评论数**: 740<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@ wb Luvea，网抑云 Luvea115
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36471488)<br>Masquerade<br>2021-01-10 16:06<br>赞(0) 踩(0) | <div>网易云继续关注</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10298602)<br>朋友们再见了谢谢陪伴了这...<br>2021-01-07 17:17<br>赞(1) 踩(0) | <div>看到你的群发了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759945)<br>永存的温暖<br>2021-01-04 13:05<br>赞(0) 踩(0) | <div>去哪里了</div> |
@@ -62,7 +62,7 @@ wb Luvea，网抑云 Luvea115
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327329461)<br><br>2020-03-10 17:42<br>赞(0) 踩(0) | <div>哈哈 生日快乐很好听 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400715332)<br>留白<br>2020-03-06 09:10<br>赞(2) 踩(0) | <div>——</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54373639)<br>腦海有風 發膚無損<br>2020-02-29 13:51<br>赞(0) 踩(0) | <div>啊啊啊 原来是妹子</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96031026)<br>我还没想好要写什么...<br>2020-02-25 13:13<br>赞(0) 踩(0) | <div>今年愿望 被你回复太好听了555</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96031026)<br>我还没想好要写什么...<br>2020-02-25 13:13<br>赞(0) 踩(0) | <div>今年愿望 被你回复<br>太好听了555</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440693838)<br><br>2020-02-21 00:49<br>赞(0) 踩(0) | <div>要是能看到你去奇袭改多好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440693838)<br><br>2020-02-21 00:48<br>赞(0) 踩(0) | <div>好希望你能上歌手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440693838)<br><br>2020-02-21 00:46<br>赞(0) 踩(0) | <div>第一次听你的歌是4年前生日快乐 超喜欢 一直找不到你的信息 今天终于找来了</div> |
@@ -166,7 +166,7 @@ wb Luvea，网抑云 Luvea115
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78468)<br>想好了到不想写<br>2018-11-26 22:20<br>赞(0) 踩(0) | <div>一直等你出cd</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12331627)<br>cqdrhd<br>2018-11-18 23:32<br>赞(0) 踩(0) | <div>omg 感恩的心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209931541)<br>喂， 风来了！！<br>2018-11-18 01:15<br>赞(0) 踩(0) | <div>啊啊啊啊啊，好喜欢你的声音、唱歌风格。终于让我找到了你，听醉了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50189616)<br>感谢 虾米 再见...<br>2018-11-11 23:48<br>赞(2) 踩(0) | <div>真的真的真的很喜欢你的音乐请你永远都别放弃继续写更多你自己风格的歌你身后永远有一群喜欢你的人</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50189616)<br>感谢 虾米 再见...<br>2018-11-11 23:48<br>赞(2) 踩(0) | <div>真的真的真的很喜欢你的音乐<br>请你永远都别放弃<br>继续写更多你自己风格的歌<br>你身后永远有一群喜欢你的人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51693636)<br>我还没想好要写什么...<br>2018-11-07 00:39<br>赞(0) 踩(0) | <div>加油菇凉！你很不错！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2047945)<br>后摇,舒服的节奏<br>2018-10-26 20:16<br>赞(0) 踩(0) | <div>等你啊！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6587863)<br><br>2018-10-16 05:27<br>赞(0) 踩(0) | <div>什么时候出新歌啊 翘首以盼</div> |
@@ -201,7 +201,7 @@ wb Luvea，网抑云 Luvea115
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38085831)<br>只求再一次的相遇 <br>2018-03-29 08:57<br>赞(0) 踩(0) | <div>喜欢 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50662742)<br>我在这里本来是晴朗好天气...<br>2018-03-21 23:13<br>赞(0) 踩(0) | <div>想花钱购买&amp;hellip;30推，音乐人你去哪里了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213897896)<br><br>2018-03-14 01:34<br>赞(0) 踩(0) | <div>听得我想学编曲(虽然我不会)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213897896)<br><br>2018-03-14 01:33<br>赞(0) 踩(0) | <div>半夜不睡，偶然听到你们的歌。耳目一新，加油。只需要一首歌就足够了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213897896)<br><br>2018-03-14 01:33<br>赞(0) 踩(0) | <div>半夜不睡，偶然听到你们的歌。<br>耳目一新，加油。只需要一首歌就足够了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8089618)<br>我喜欢…不开灯的房间<br>2018-02-28 05:23<br>赞(2) 踩(0) | <div>你叫我一声 你看我敢答应吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1923255)<br>  云雷， 屯 ，君子以...<br>2018-02-26 23:41<br>赞(3) 踩(0) | <div>2018了 女神还是没有任何动静 等了六年</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96031026)<br>我还没想好要写什么...<br>2018-02-22 01:28<br>赞(0) 踩(0) | <div>也太棒了吧</div> |
@@ -222,7 +222,7 @@ wb Luvea，网抑云 Luvea115
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47369751)<br>大米大米！<br>2018-01-02 20:00<br>赞(0) 踩(0) | <div>喜欢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/172865116)<br><br>2018-01-02 12:49<br>赞(0) 踩(0) | <div>喜欢你的音乐，期待新曲。话说最近又开始不停单曲循环你的音乐了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149686778)<br><br>2017-12-30 21:16<br>赞(0) 踩(0) | <div>哈哈哈哈，喜欢你！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951829)<br>孤鴻寄語·血色琉璃<br>2017-12-30 19:47<br>赞(0) 踩(0) | <div>今年的某天，弟弟和表弟是同一天生日，搜了下生日歌，一听就爱上了，这生日歌简直。。。是我听过最好听的生日歌吧哈哈！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951829)<br>孤鴻寄語·血色琉璃<br>2017-12-30 19:47<br>赞(0) 踩(0) | <div>今年的某天，弟弟和表弟是同一天生日，<br>搜了下生日歌，一听就爱上了，<br>这生日歌简直。。。是我听过最好听的生日歌吧哈哈！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12221090)<br>逍遥于天地而心意自得<br>2017-12-30 16:15<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323271729)<br><br>2017-12-17 23:15<br>赞(0) 踩(0) | <div>好喜欢你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3878457)<br> <br>2017-12-08 01:03<br>赞(0) 踩(0) | <div>不管你多久回来一次！我在12年听到你的声音就喜欢上了！夜里和喜欢的人分享喜欢的音乐。。。很开心！谢谢luvea 的声音</div> |
@@ -247,7 +247,7 @@ wb Luvea，网抑云 Luvea115
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10393019)<br>Y<br>2017-09-17 23:55<br>赞(0) 踩(0) | <div>嘿嘿嘿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320048558)<br><br>2017-09-07 18:43<br>赞(0) 踩(0) | <div>微信+18219416761</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320048558)<br><br>2017-09-07 18:20<br>赞(0) 踩(0) | <div>QQ+2188166593</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305802009)<br>这么多年一直一个人<br>2017-08-28 19:43<br>赞(1) 踩(0) | <div>什么时候出新作品啊？等了好久了，你的i remember当作铃声好久了 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305802009)<br>这么多年一直一个人<br>2017-08-28 19:43<br>赞(1) 踩(0) | <div>什么时候出新作品啊？<br>等了好久了，你的i remember当作铃声好久了 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10129568)<br>Neverland<br>2017-08-19 01:32<br>赞(0) 踩(0) | <div>喜欢，默默听，好好支持 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48961722)<br>我永遠喜歡五月天和虾米<br>2017-08-05 10:30<br>赞(0) 踩(0) | <div>521 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2017-08-04 01:15<br>赞(0) 踩(0) | <div>??? <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
@@ -262,7 +262,7 @@ wb Luvea，网抑云 Luvea115
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43418234)<br>^_−☆<br>2017-06-07 21:58<br>赞(0) 踩(0) | <div><img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34391491)<br>Joseph jacob...<br>2017-06-03 15:43<br>赞(0) 踩(0) | <div>可以的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1115247)<br>@Nebula_7293<br>2017-05-31 23:55<br>赞(0) 踩(0) | <div><img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2413238)<br>one day<br>2017-05-31 10:43<br>赞(49) 踩(0) | <div>你知道吗，今天是2017年5月31日，虾米推荐的今日歌单第一首歌就是你的生日快乐，心里莫名的一股暖流！今天四点钟就醒了，以为还是和以前的每一天一样平凡，但是啊，今天有的人还专门为我半夜定闹钟等着晚上跟我说生日快乐，有人到不了买了生日蛋糕的券让我自己去领，有人专门给我画了画寄过来。还有人强行跟我发红包，我说&amp;ldquo;别发红包了吧，你画幅画给我吧？画啥都行&amp;rdquo;。谢谢你，也谢谢这个世界</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2413238)<br>one day<br>2017-05-31 10:43<br>赞(49) 踩(0) | <div>你知道吗，今天是2017年5月31日，虾米推荐的今日歌单第一首歌就是你的生日快乐，心里莫名的一股暖流！<br><br>今天四点钟就醒了，以为还是和以前的每一天一样平凡，但是啊，今天有的人还专门为我半夜定闹钟等着晚上跟我说生日快乐，有人到不了买了生日蛋糕的券让我自己去领，有人专门给我画了画寄过来。还有人强行跟我发红包，我说&amp;ldquo;别发红包了吧，你画幅画给我吧？画啥都行&amp;rdquo;。<br><br>谢谢你，也谢谢这个世界</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101113390)<br>,<br>2018-12-03 17:04<br>赞(0) 踩(0) | <div>加一</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5034994)<br><br>2017-05-19 08:48<br>赞(1) 踩(0) | <div>以为是国外的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2608518)<br>忙碌并快乐着。<br>2017-05-18 20:20<br>赞(0) 踩(0) | <div>八成是在打王者农药休班了，哈哈哈</div> |
@@ -407,7 +407,7 @@ wb Luvea，网抑云 Luvea115
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49294912)<br>日子好像又有了奔头<br>2015-11-27 21:43<br>赞(1) 踩(0) | <div>你的声音很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10504307)<br>花痴了这大男孩<br>2015-11-25 17:51<br>赞(1) 踩(0) | <div>很清新。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10504307)<br>花痴了这大男孩<br>2015-11-25 17:50<br>赞(0) 踩(0) | <div>今日音乐人推荐看到的，不知怎么点开了。听了《生日快乐》算是电子吧，现在在听其他的。好像还不错</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282975)<br><br>2015-11-24 11:15<br>赞(1) 踩(0) | <div>听着真舒服....Collage of June(Tribe to Jun) 听了之后就停不下来了另外~满地打滚求完整版SUMMER =v=</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282975)<br><br>2015-11-24 11:15<br>赞(1) 踩(0) | <div>听着真舒服....Collage of June(Tribe to Jun) 听了之后就停不下来了<br>另外~满地打滚求完整版SUMMER =v=</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5456536)<br>迷路是我的习惯<br>2015-11-16 17:55<br>赞(0) 踩(0) | <div>我要和她约会</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5782952)<br> <br>2015-11-15 18:55<br>赞(0) 踩(0) | <div>歌好棒哦~~~从生日快乐链接到这里来的~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50560728)<br>他是个发明家在等待他的梦...<br>2015-11-14 01:11<br>赞(0) 踩(0) | <div>女神加油！！！</div> |
@@ -575,7 +575,7 @@ wb Luvea，网抑云 Luvea115
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179591)<br>我还没想好要写什么...<br>2014-09-08 14:32<br>赞(0) 踩(0) | <div>我操！居然是国产的！国产！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7637832)<br><br>2014-09-04 14:38<br>赞(1) 踩(0) | <div>发现好作品呢，表示到此一游</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361200)<br><br>2014-08-23 13:18<br>赞(0) 踩(0) | <div>Collage of June 大赞！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2142546)<br>我还没想好要写什么...<br>2014-08-08 11:04<br>赞(2) 踩(0) | <div>难以言说的美妙，初听时在我心中有比拟nujabes的震撼。应该走向世界，别停下，请坚持！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2142546)<br>我还没想好要写什么...<br>2014-08-08 11:04<br>赞(2) 踩(0) | <div>难以言说的美妙，初听时在我心中有比拟nujabes的震撼。<br>应该走向世界，别停下，请坚持！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14453932)<br>no personali...<br>2015-01-07 14:49<br>赞(0) 踩(0) | <div>nujabe是不是死了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9069088)<br><br>2014-08-04 13:38<br>赞(2) 踩(0) | <div>！！！！太棒了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13333456)<br>   .<br>2014-07-31 20:46<br>赞(1) 踩(0) | <div>goooood</div> |
@@ -585,7 +585,7 @@ wb Luvea，网抑云 Luvea115
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1256222)<br>我还没想好要写什么...<br>2014-07-14 01:13<br>赞(0) 踩(0) | <div>声音太像Olivia Ong了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12347596)<br>Just me...<br>2014-07-12 23:50<br>赞(1) 踩(0) | <div>amazing</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16070157)<br><br>2014-07-03 17:47<br>赞(1) 踩(0) | <div>要晕倒的··</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2570040)<br>私信我可以帮你找吉他谱<br>2014-06-25 17:25<br>赞(0) 踩(0) | <div>这位艺人怎么没有介绍？独立小清新么？感觉我国有不少的独立音乐也是不错的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2570040)<br>私信我可以帮你找吉他谱<br>2014-06-25 17:25<br>赞(0) 踩(0) | <div>这位艺人怎么没有介绍？<br>独立小清新么？<br>感觉我国有不少的独立音乐也是不错的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/907325)<br>片刻的宁静安详<br>2014-06-24 21:54<br>赞(0) 踩(0) | <div>哇哦 好棒 喜欢~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36220334)<br>要自由也渴望长久<br>2014-06-21 23:50<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8949594)<br>....<br>2014-06-21 12:17<br>赞(0) 踩(0) | <div>又来看露爷了...</div> |
@@ -643,7 +643,7 @@ wb Luvea，网抑云 Luvea115
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-11-23 23:03<br>赞(0) 踩(0) | <div>国人作品！相当好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1151472)<br>边走边听<br>2013-11-03 11:27<br>赞(0) 踩(0) | <div>不错呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8608040)<br>在荒原里永远解不开的心结<br>2013-11-02 22:53<br>赞(2) 踩(0) | <div>= =。我愿意花钱下载她的音乐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11846479)<br>ai<br>2013-10-29 15:30<br>赞(0) 踩(0) | <div>Collage of June(Tribe to Jun)我感觉到这首就是成熟的风格了 好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11846479)<br>ai<br>2013-10-29 15:30<br>赞(0) 踩(0) | <div>Collage of June(Tribe to Jun)<br>我感觉到这首就是成熟的风格了 好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25552484)<br>....<br>2013-10-28 12:17<br>赞(0) 踩(0) | <div>。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25510989)<br>爱像龙卷风，说来就来说走...<br>2013-10-27 19:46<br>赞(0) 踩(0) | <div>很舒服的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3628951)<br>我这盒蜘蛛王可不是闹着玩<br>2013-10-19 10:05<br>赞(0) 踩(0) | <div>封面说明一切</div> |
@@ -711,7 +711,7 @@ wb Luvea，网抑云 Luvea115
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1325650)<br><br>2013-01-05 14:30<br>赞(0) 踩(0) | <div>国内有你，真的很厉害</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4234331)<br>不能错过一首喜欢的歌.<br>2012-12-30 01:15<br>赞(0) 踩(0) | <div>好棒!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2527832)<br>超越生命 解放自由<br>2012-12-29 19:07<br>赞(0) 踩(0) | <div>如果你也愛上這旋律,那你就認命吧!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4350559)<br>我还没想好要写什么...<br>2012-12-05 18:41<br>赞(0) 踩(0) | <div>┏┛┻━━━┛┻┓┃　　　　　　　┃┃　　　━　　　┃┃　┳┛　┗┳　┃┃　　　　　　　┃┃　　　┻　　　┃┃　　　　　　　┃┗━┓　　　┏━┛┃　　　┃┃　　　┃┃　　　┗━━━┓┃　　　　　　　┣┓┃　　　　　　　┏┛┗┓┓┏━┳┓┏┛</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4350559)<br>我还没想好要写什么...<br>2012-12-05 18:41<br>赞(0) 踩(0) | <div>┏┛┻━━━┛┻┓<br>┃　　　　　　　┃<br>┃　　　━　　　┃<br>┃　┳┛　┗┳　┃<br>┃　　　　　　　┃<br>┃　　　┻　　　┃<br>┃　　　　　　　┃<br>┗━┓　　　┏━┛<br>┃　　　┃<br>┃　　　┃<br>┃　　　┗━━━┓<br>┃　　　　　　　┣┓<br>┃　　　　　　　┏┛<br>┗┓┓┏━┳┓┏┛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6005918)<br>网易云账号同名：pans...<br>2012-12-02 21:17<br>赞(0) 踩(0) | <div>从听到Feb 1开始~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1309236)<br><br>2012-11-26 12:20<br>赞(0) 踩(0) | <div>ELLE Feat. Luvea  这首谁有资源分享下</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11163262)<br><br>2012-11-24 23:42<br>赞(0) 踩(0) | <div>厉害啊终于有个国人拉~\\(≧▽≦)/~</div> |
@@ -730,7 +730,7 @@ wb Luvea，网抑云 Luvea115
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3974917)<br>寂し<br>2012-10-07 12:56<br>赞(0) 踩(0) | <div>收了~~~好想认识这位音乐人哦！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4232488)<br>古典  民歌 ACG痴迷<br>2012-09-30 08:39<br>赞(0) 踩(0) | <div>萌妹的流行爵士论</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98914)<br>耳朵具有自动过滤歌词功能<br>2012-09-04 22:36<br>赞(0) 踩(0) | <div>竟然是国人，amazing！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4350559)<br>我还没想好要写什么...<br>2012-08-30 18:08<br>赞(0) 踩(0) | <div>│＼＿＿╭╭╭╭╭＿＿／││　　　　　　　　　　　││　　　　　　　　　　　││　－　　　　　　　－　││≡　　　　ｏ　　　 ≡ 　 ││　　　　　　　　　　　│╰——┬ Ｏ◤▽◥Ｏ ┬ —╯｜　　ｏ　　 ｜｜╭－－－╮ ｜</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4350559)<br>我还没想好要写什么...<br>2012-08-30 18:08<br>赞(0) 踩(0) | <div>│＼＿＿╭╭╭╭╭＿＿／│<br>│　　　　　　　　　　　│<br>│　　　　　　　　　　　│<br>│　－　　　　　　　－　│<br>│≡　　　　ｏ　　　 ≡ 　 │<br>│　　　　　　　　　　　│<br>╰——┬ Ｏ◤▽◥Ｏ ┬ —╯<br>｜　　ｏ　　 ｜<br>｜╭－－－╮ ｜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/146761)<br>。<br>2012-08-14 13:13<br>赞(0) 踩(0) | <div>居然是国内的，还是个美妞！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11168706)<br><br>2012-10-23 14:36<br>赞(0) 踩(0) | <div>怎么看她是美妞啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9179040)<br><br>2012-08-04 16:27<br>赞(0) 踩(0) | <div>r</div> |
@@ -740,7 +740,7 @@ wb Luvea，网抑云 Luvea115
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4133936)<br>暂无签名~<br>2012-07-11 14:45<br>赞(0) 踩(0) | <div>可以的！~表示灰常喜欢！~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69158)<br><br>2012-07-08 16:52<br>赞(0) 踩(0) | <div>很不错哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2463324)<br><br>2012-07-07 15:36<br>赞(0) 踩(0) | <div>.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4350559)<br>我还没想好要写什么...<br>2012-06-27 20:50<br>赞(0) 踩(0) | <div>┏┛┻━━━┛┻┓┃　　　　　　　┃┃　　　━　　　┃┃　┳┛　┗┳　┃┃　　　　　　　┃┃　　　┻　　　┃┃　　　　　　　┃┗━┓　　　┏━┛┃　　　┃┃　　　┃┃　　　┗━━━┓┃　　　　　　　┣┓┃　　　　　　　┏┛┗┓┓┏━┳┓┏┛</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4350559)<br>我还没想好要写什么...<br>2012-06-27 20:50<br>赞(0) 踩(0) | <div>┏┛┻━━━┛┻┓<br>┃　　　　　　　┃<br>┃　　　━　　　┃<br>┃　┳┛　┗┳　┃<br>┃　　　　　　　┃<br>┃　　　┻　　　┃<br>┃　　　　　　　┃<br>┗━┓　　　┏━┛<br>┃　　　┃<br>┃　　　┃<br>┃　　　┗━━━┓<br>┃　　　　　　　┣┓<br>┃　　　　　　　┏┛<br>┗┓┓┏━┳┓┏┛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427121)<br><br>2012-06-23 01:33<br>赞(67) 踩(0) | <div>竟然有这么棒的独立音乐人，以前都没发现唉···</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3235848)<br><br>2012-06-22 18:47<br>赞(0) 踩(0) | <div>O(∩_∩)O 虾米有她的个人主页么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/477326)<br><br>2012-06-21 19:08<br>赞(0) 踩(0) | <div>国内也有好音乐，NICE</div> |

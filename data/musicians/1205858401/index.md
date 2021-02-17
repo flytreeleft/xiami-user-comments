@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/12f15d88fd3011d844f0d1fec1e56681.jpg)<br>徐畅](https://i.xiami.com/m33-) | **播放数**: 703880<br>**粉丝数**: 600<br>**评论数**: 29<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/12f15d88fd3011d844f0d1fec1e56681.jpg)<br>徐畅](https://i.xiami.com/m33-) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 703880<br>**粉丝数**: 600<br>**评论数**: 29<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -27,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-22 02:48<br>赞(0) 踩(0) | <div>43641</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2673316)<br><br>2020-11-03 11:09<br>赞(0) 踩(0) | <div>小伙子加油啊，音乐相当不错</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2673316)<br><br>2020-11-03 11:20<br>赞(0) 踩(0) | <div>一首歌听完把所有能听的都听了，写的编的都好，音乐人！</div> |

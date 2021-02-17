@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6005aeefa9f5f3dca05d09c4eadcdd8a.jpg)<br>王翼焱](https://i.xiami.com/wyy) | **播放数**: 3199519<br>**粉丝数**: 302<br>**评论数**: 4<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 民谣流行 Folk Pop, 独立民谣 Indie Folk, 流行摇滚 Pop Rock, 城市民谣 Urban Folk<br> |
+| [![](../../images/musicians/6005aeefa9f5f3dca05d09c4eadcdd8a.jpg)<br>王翼焱](https://i.xiami.com/wyy) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 民谣流行 Folk Pop, 独立民谣 Indie Folk, 流行摇滚 Pop Rock, 城市民谣 Urban Folk<br>**播放数**: 3199519<br>**粉丝数**: 302<br>**评论数**: 4<br> |
 
 ## 档案
 
@@ -98,8 +98,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339710707)<br><br>2020-05-01 12:33<br>赞(2) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20723111)<br><br>2020-02-19 18:42<br>赞(2) 踩(0) | <div>你好，可以交个朋友吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333573567)<br>中国内地男歌手,独立音乐...<br>2017-11-08 21:08<br>赞(4) 踩(0) | <div>有机会合作,</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3d9dcb45e703437dfcf364a06751637a.jpg)<br>常石磊](https://i.xiami.com/changshilei) | **播放数**: 12268643<br>**粉丝数**: 23092<br>**评论数**: 549<br>**地区**: China 中国大陆<br>**风格**: 流行灵魂乐 Pop Soul, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/3d9dcb45e703437dfcf364a06751637a.jpg)<br>常石磊](https://i.xiami.com/changshilei) | **地区**: China 中国大陆<br>**风格**: 流行灵魂乐 Pop Soul, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 12268643<br>**粉丝数**: 23092<br>**评论数**: 549<br> |
 
 ## 档案
 
@@ -48,8 +48,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432440840)<br><br>2020-06-21 13:12<br>赞(0) 踩(0) | <div>&amp;ldquo;老爸&amp;rdquo;每次听都被触动！超爱...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50240141)<br><br>2020-05-06 11:27<br>赞(2) 踩(0) | <div>从王菲的义演听到你，认识你太晚了，说一声不好意思。听到你的人间，眼泪一下子止不住哗哗地流。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400244560)<br><br>2020-03-27 22:05<br>赞(0) 踩(0) | <div>我真的爱他的声音</div> |
@@ -101,7 +101,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308530339)<br><br>2017-07-05 13:09<br>赞(0) 踩(0) | <div>人才</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308530339)<br><br>2017-07-05 13:08<br>赞(0) 踩(0) | <div><img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png">不一般啊，厉害</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189288642)<br><br>2017-05-25 02:17<br>赞(0) 踩(0) | <div>发错了，谁谁谁 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189288642)<br><br>2017-05-25 02:16<br>赞(0) 踩(0) | <div>你是最棒！中国风你做到极致，那什么睡睡睡，都算啥！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189288642)<br><br>2017-05-25 02:16<br>赞(0) 踩(0) | <div>你是最棒！<br><br>中国风你做到极致，那什么睡睡睡，都算啥！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42536980)<br><br>2017-05-18 15:21<br>赞(0) 踩(0) | <div>声音太美了，很棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/805845)<br>Petal<br>2017-05-03 17:15<br>赞(16) 踩(0) | <div>作为一个歌者，请从声音去认识他，说其他的都是浮夸。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35509231)<br>提灯天后  策马小僧<br>2017-05-03 16:55<br>赞(3) 踩(0) | <div>&amp;ldquo;永恒的童话&amp;rdquo;是第一首完整听完的常石磊的歌。以前听歌的时候，我虽然在心里劝自己，要真正放下偏见，对除了歌以外一切东西的偏见，只听。但还是失败了。认识他是在各种综艺舞台上，觉得人丑又浮夸，改编的歌简直离经叛道，咬字也扭曲，完全为博出位不择手段的一个人。听这首歌是在不知道谁唱的情况下，听过大半来翻作者。可能录音棚里和现实中他确实是这种气质吧，可能他真的不适合综艺舞台的氛围。现在只感觉，真的好险，我差点就错失里这么好的一位歌者。</div> |
@@ -130,9 +130,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196359017)<br><br>2016-07-03 13:01<br>赞(1) 踩(0) | <div>你就是第一</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3566813)<br>菩萨，祝您身体健康！34...<br>2016-07-01 20:31<br>赞(0) 踩(0) | <div>抱歉才来关注 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38492545)<br>无论如何，爱音乐<br>2016-06-30 11:24<br>赞(0) 踩(0) | <div>鬼才</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3840283)<br><br>2016-06-13 14:35<br>赞(2) 踩(0) | <div>A面的常石磊：我们都不应该孤单(悦耳平和)B面的常石磊：爱爱爱爱，high歌(刺激怪异)C面的常石磊：恰好，I still believe(炫技难度)崔健在中国之星一直想要的是刺激怪异一面的常石磊。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3840283)<br><br>2016-06-13 14:35<br>赞(2) 踩(0) | <div>A面的常石磊：我们都不应该孤单(悦耳平和)<br>B面的常石磊：爱爱爱爱，high歌(刺激怪异)<br>C面的常石磊：恰好，I still believe(炫技难度)<br>崔健在中国之星一直想要的是刺激怪异一面的常石磊。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17080629)<br><br>2016-05-08 08:56<br>赞(1) 踩(0) | <div>音乐丰富细腻喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2024517)<br>潮流易逝，风格永存。<br>2016-04-17 00:39<br>赞(0) 踩(0) | <div>你说你是哥哥我是弟你要为我遮风挡住雨</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2024517)<br>潮流易逝，风格永存。<br>2016-04-17 00:39<br>赞(0) 踩(0) | <div>你说你是哥哥我是弟<br>你要为我遮风挡住雨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33049242)<br>爱音乐爱生活<br>2016-04-06 22:29<br>赞(0) 踩(0) | <div>声音好特别</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37087360)<br>thecutestcut...<br>2016-02-09 02:28<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14872942)<br>意志奇怪的猫<br>2016-02-06 01:15<br>赞(4) 踩(0) | <div>明明唱的这么好··格莱美评审团的点评都是独一无二的。可见这俩老美完全是被你惊艳住了~~为什么这样都能被比下去？而且还是最不该把你比下去的人！！！和谭维维比是心服口服~但是孙楠，绝对不服！！！</div> |
@@ -175,7 +175,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10919921)<br>爷瞎许的诺言<br>2015-03-13 22:51<br>赞(1) 踩(0) | <div>石头啊石头 做自己吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9613869)<br>我本善良<br>2015-03-01 13:09<br>赞(1) 踩(0) | <div>创作很好·</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47393306)<br><br>2015-02-17 18:37<br>赞(4) 踩(0) | <div>这才是唱功，高！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3566813)<br>菩萨，祝您身体健康！34...<br>2015-02-12 12:32<br>赞(1) 踩(0) | <div>想必有些人知道奥运歌曲  我和你，那年08年，认识了这个唱功了得的歌手，只是当时处于原创的原因，没有更多的关注。昨晚听    问道   ，一下被抓住，看来必须要关注啦。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3566813)<br>菩萨，祝您身体健康！34...<br>2015-02-12 12:32<br>赞(1) 踩(0) | <div>想必有些人知道奥运歌曲  我和你，那年08年，认识了这个唱功了得的歌手，只是当时处于原创的原因，没有更多的关注。<br>昨晚听    问道   ，一下被抓住，看来必须要关注啦。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6148309)<br>glorious blu...<br>2015-02-06 13:20<br>赞(0) 踩(0) | <div>以后判断歌手不能再看脸了(╯‵□′)╯︵┻━┻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8147)<br>人生如狗 东奔西走<br>2015-02-01 19:19<br>赞(3) 踩(0) | <div>求上我是歌手踢馆</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51663673)<br><br>2015-12-24 12:59<br>赞(0) 踩(0) | <div>他去的话！唱功，创作，改编绝对是一流！但有一点！高音他这声线估计不是很适合！不过我也期待他去我是歌手 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">他的歌10年到现在没换过！</div> |
@@ -195,7 +195,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24030470)<br><br>2014-12-20 19:09<br>赞(4) 踩(0) | <div>实力华语唱作人，支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7866200)<br><br>2014-12-07 22:14<br>赞(1) 踩(0) | <div>你说你是哥哥我是弟 你要为我遮风挡住雨 再难的路也要在一起 一心找到人生的的路基</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10033971)<br><br>2014-12-02 12:34<br>赞(2) 踩(0) | <div>很舒服的声音。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-11-22 01:33<br>赞(1) 踩(0) | <div>超棒……可是不得不说看到动图之后发现此人好基= =破坏想象啦讨厌(╯‵□′)╯︵┻━┻</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-11-22 01:33<br>赞(1) 踩(0) | <div>超棒……<br>可是不得不说看到动图之后发现此人好基= =<br>破坏想象啦讨厌(╯‵□′)╯︵┻━┻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34916918)<br>河流<br>2014-11-20 21:23<br>赞(2) 踩(0) | <div>宝马广告歌，live free哪里能下到？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11021647)<br><br>2014-11-20 14:46<br>赞(1) 踩(0) | <div>果然老王的NC粉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6862427)<br>better me<br>2014-11-19 00:26<br>赞(1) 踩(0) | <div>才子</div> |
@@ -206,14 +206,14 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3798186)<br>我家门前有大海<br>2014-11-02 06:28<br>赞(3) 踩(0) | <div>编曲能力已经在新生代歌手中难有敌手，外加神一样的live，功底十分了得</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40436926)<br>暂无签名~<br>2014-11-23 17:39<br>赞(0) 踩(0) | <div>哈哈你也喜欢石头和owl city？~~同好！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3798186)<br>我家门前有大海<br>2014-11-23 18:43<br>赞(0) 踩(0) | <div><q><b> 潘达╭(╯ε╰)╮说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4839926)<br>朝生善意，夕可成林<br>2014-10-30 08:14<br>赞(2) 踩(0) | <div>听他的歌。仿若前世的我，是一缕丝蛇，随音骚动着...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4839926)<br>朝生善意，夕可成林<br>2014-10-30 08:14<br>赞(2) 踩(0) | <div>听他的歌。<br>仿若前世的我，<br>是一缕丝蛇，<br>随音骚动着...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11906267)<br><br>2014-10-30 01:59<br>赞(0) 踩(0) | <div>多点天地鉴啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6862427)<br>better me<br>2014-10-29 01:08<br>赞(0) 踩(0) | <div>才子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43002471)<br><br>2014-10-26 23:29<br>赞(0) 踩(0) | <div>舒服的男声~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1730251)<br><br>2014-10-26 22:16<br>赞(0) 踩(0) | <div>石头终于来虾米了！！！把豆瓣的歌一起都传来这里呀，就不用那么麻烦了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2880357)<br><br>2014-10-26 19:16<br>赞(0) 踩(0) | <div>只为美好点评：好好唱你的苦情歌，没事瞎唱什么R&amp;amp;B!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37130982)<br>Electronicer<br>2014-10-25 01:00<br>赞(0) 踩(0) | <div>在音乐上任何方面都是技术流</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36646226)<br>粉丝多也许是我有魅力吧<br>2014-10-24 19:04<br>赞(15) 踩(0) | <div>好歌别给那个谁，火风儿子自己唱❤</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36646226)<br>粉丝多也许是我有魅力吧<br>2014-10-24 19:04<br>赞(15) 踩(0) | <div>好歌别给那个谁，火风儿子<br><br>自己唱<br><br>❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/852192)<br>噢噢噢噢噢噢噢噢<br>2014-10-24 15:32<br>赞(1) 踩(0) | <div>终于从豆瓣走出来了。但走出来之后往往很容易被商业同化。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13610419)<br>Be myself.<br>2014-10-24 15:30<br>赞(0) 踩(0) | <div>石头石头~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3840283)<br><br>2014-10-24 10:53<br>赞(8) 踩(0) | <div>常石磊应该有能力做好声音的导师。他的感觉就和美国好声音第七季的Pharrell一样，制作加创作全能，通过林忆莲盖亚那张专辑更是得了金曲奖最佳制作人。可能唯一一点阻碍在于年龄和资历，不过英国好声音也请了Jessie J做导师，Jessie J也很年轻。</div> |
@@ -247,7 +247,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9074882)<br>暂无签名~<br>2014-06-28 08:41<br>赞(0) 踩(0) | <div>怎么没有老爸这首歌啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37951218)<br><br>2014-06-26 22:36<br>赞(2) 踩(0) | <div>全能才子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38440660)<br><br>2014-06-25 16:48<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409961)<br>是我是我还是我<br>2014-06-22 21:17<br>赞(0) 踩(0) | <div>昨天去爱唱，刚好石头从直播室里走掉，错过了呢，好可惜。喜欢石头安静的唱歌，最喜欢的歌是音乐爱我。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409961)<br>是我是我还是我<br>2014-06-22 21:17<br>赞(0) 踩(0) | <div>昨天去爱唱，刚好石头从直播室里走掉，错过了呢，好可惜。<br>喜欢石头安静的唱歌，最喜欢的歌是音乐爱我。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11788514)<br> <br>2014-07-27 00:09<br>赞(0) 踩(0) | <div>石头去哪个直播室的0 0</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9996658)<br>我喜欢你喜欢我<br>2014-06-21 11:44<br>赞(2) 踩(0) | <div>很独特，很动人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37444404)<br><br>2014-06-21 02:06<br>赞(2) 踩(0) | <div>才华横溢</div> |
@@ -329,7 +329,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12753204)<br><br>2013-05-26 13:10<br>赞(0) 踩(0) | <div>石头~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3446392)<br><br>2013-05-15 10:19<br>赞(0) 踩(0) | <div>有特色的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9879127)<br><br>2013-05-14 20:29<br>赞(2) 踩(0) | <div>喜欢你的鼻音 喜欢你有点小胖 喜欢你家就是录音棚 喜欢你没音乐不能活</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5009537)<br><br>2013-05-06 13:33<br>赞(0) 踩(0) | <div>常听常乐在其中</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5009537)<br><br>2013-05-06 13:33<br>赞(0) 踩(0) | <div>常听常<br>乐在其中</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1306664)<br>人生苦短 再来一碗<br>2013-03-10 19:33<br>赞(2) 踩(0) | <div>唱作俱佳，真实可爱。如果说当今的华语乐坛像一潭死水的话，那石头兄就是那为数不多的一泓清泉！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13076908)<br>有音乐 心有魂了<br>2013-03-10 09:28<br>赞(1) 踩(0) | <div>中国少有的　　　我喜欢　　　实力说话</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13284751)<br><br>2013-02-28 15:30<br>赞(0) 踩(0) | <div>好听！</div> |
@@ -346,7 +346,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12238670)<br>喜欢石头！<br>2013-01-03 13:42<br>赞(0) 踩(0) | <div>最爱石头</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4708664)<br><br>2013-01-03 03:54<br>赞(152) 踩(0) | <div>“你不是唱生活，你是唱生命的，你不需要那些烟火气，不需要那种凡人身上的那些所谓的情感，你把它都已经洗掉了，就不要再重新捡回来。就继续歌唱你的生命。“高晓松对常石磊说...(在《水手和小草》唱毕以后)</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196359017)<br><br>2016-07-03 13:01<br>赞(0) 踩(0) | <div>就是喜欢你d</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9744072)<br><br>2013-01-02 15:01<br>赞(0) 踩(0) | <div>有底子，有嗓子，有脑子，有胆子！这块石头，还用赌吗！赞！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9744072)<br><br>2013-01-02 15:01<br>赞(0) 踩(0) | <div>有底子，有嗓子，有脑子，有胆子！<br>这块石头，还用赌吗！<br>赞！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1386277)<br>发乎于情，止乎于情<br>2012-12-29 20:10<br>赞(0) 踩(0) | <div>额   为什么觉得有点用力过度·······</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7154807)<br>身行万里半天下，眼高四海<br>2012-12-28 20:17<br>赞(0) 踩(0) | <div>难得的磁性男声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1548545)<br><br>2012-12-28 17:23<br>赞(0) 踩(0) | <div>有才</div> |
@@ -484,7 +484,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1980716)<br><br>2012-07-31 00:43<br>赞(0) 踩(0) | <div>干净的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1664435)<br><br>2012-07-28 20:46<br>赞(0) 踩(0) | <div>啊啊 啊  我好喜欢他的声音！！命中命中命中！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2787488)<br><br>2012-07-22 20:17<br>赞(0) 踩(0) | <div>真的很好听的声音啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1000925)<br>其实我是那谁谁谁。<br>2012-07-15 22:22<br>赞(0) 踩(0) | <div>石头~！！想当年..../心心眼~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1000925)<br>其实我是那谁谁谁。<br>2012-07-15 22:22<br>赞(0) 踩(0) | <div>石头~！！<br>想当年..../心心眼~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64696)<br>新浪微博@破产美剧迷<br>2012-07-11 14:47<br>赞(0) 踩(0) | <div>他就是声音太细腻了，其实作曲很不错。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9599643)<br>37年<br>2012-06-26 21:15<br>赞(0) 踩(0) | <div>另一个更动听的胡彦斌。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9587760)<br><br>2012-06-25 20:31<br>赞(0) 踩(0) | <div>听</div> |
@@ -569,7 +569,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48021)<br><br>2011-02-22 22:07<br>赞(0) 踩(0) | <div>如果没记错，奥运作曲的陈其纲原是推荐他唱这首主题歌的，求证啊，同学们。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2525832)<br><br>2011-02-21 17:35<br>赞(0) 踩(0) | <div>我也是看了《当卢浮宫遇见紫禁城》后开始关注他的，好嗓子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/484303)<br><br>2011-02-19 23:26<br>赞(0) 踩(0) | <div>他唱的《当卢浮宫遇见紫禁城》主题曲《心依恋》非常棒！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3009245)<br><br>2011-03-05 19:07<br>赞(0) 踩(0) | <div>哈哈 我也是 握爪~可是为什么在虾米找不到这首歌</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3009245)<br><br>2011-03-05 19:07<br>赞(0) 踩(0) | <div>哈哈 我也是 握爪~<br>可是为什么在虾米找不到这首歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2763699)<br><br>2011-02-16 21:37<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72011)<br><br>2011-02-16 14:32<br>赞(0) 踩(0) | <div>听到傻掉。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1887456)<br><br>2011-02-16 07:59<br>赞(0) 踩(0) | <div>清音天才</div> |

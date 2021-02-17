@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e9324eb75379c9e67aa57e3dc5f4a8de.jpg)<br>朱家明](https://i.xiami.com/joeguitar) | **播放数**: 4560497<br>**粉丝数**: 5829<br>**评论数**: 209<br>**地区**: China 中国大陆<br>**风格**: 灵魂爵士 Soul Jazz, 独立流行 Indie Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/e9324eb75379c9e67aa57e3dc5f4a8de.jpg)<br>朱家明](https://i.xiami.com/joeguitar) | **地区**: China 中国大陆<br>**风格**: 灵魂爵士 Soul Jazz, 独立流行 Indie Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 4560497<br>**粉丝数**: 5829<br>**评论数**: 209<br> |
 
 ## 档案
 
@@ -49,16 +49,16 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1733496)<br>音乐是一生享受不尽的财富<br>2020-03-13 12:05<br>赞(0) 踩(0) | <div>家明老师，2路车站对面儿的好邻居，还有旁边儿的晋B2008，可以出一两支新单了 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16019527)<br>向日葵是长在土里的太阳。<br>2019-08-21 01:50<br>赞(0) 踩(0) | <div>好特别 竟然才发现</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328007415)<br>我还没想好要写什么...<br>2019-08-01 17:10<br>赞(0) 踩(0) | <div>喜欢你的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201391232)<br>最快的方法是先抱抱<br>2019-06-19 08:07<br>赞(0) 踩(0) | <div>彡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228843687)<br>懒惰统治人间<br>2019-06-04 17:11<br>赞(0) 踩(0) | <div><img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139576680)<br><br>2019-02-01 20:02<br>赞(1) 踩(0) | <div>很喜欢你的吉他，希望可以带给我们更多的感动。❤️你，谢谢你，让我觉得世界特别美好。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139576680)<br><br>2019-02-01 20:02<br>赞(1) 踩(0) | <div>很喜欢你的吉他，<br>希望可以带给我们更多的感动。<br>❤️你，谢谢你，<br>让我觉得世界特别美好。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52555139)<br>来日某天再相见<br>2018-11-05 02:07<br>赞(0) 踩(0) | <div>200交给我</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5207194)<br>life is what...<br>2018-07-19 17:10<br>赞(4) 踩(0) | <div>出产太低了 而且没有继续深度研究 反而去和女生组起了俗气的组合原本很看好朱老师的 以为会成中国的押尾或者tommy 结果这么多年过去了 还在弹那些老调 有点失望 现在更看好曹思义</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5207194)<br>life is what...<br>2018-07-19 17:10<br>赞(4) 踩(0) | <div>出产太低了 而且没有继续深度研究 反而去和女生组起了俗气的组合<br><br>原本很看好朱老师的 以为会成中国的押尾或者tommy 结果这么多年过去了 还在弹那些老调 有点失望 现在更看好曹思义</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312012518)<br>月明如素愁不眠<br>2018-11-11 15:27<br>赞(0) 踩(0) | <div>甚有同感</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49691100)<br>是个糟人<br>2018-06-09 18:55<br>赞(0) 踩(0) | <div>手艺家</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47456900)<br>我还没想好要写什么...<br>2018-05-12 19:31<br>赞(1) 踩(0) | <div>什么时候来北京演出啊</div> |
@@ -71,7 +71,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339186373)<br>这家伙很笨什么也没留下....<br>2017-12-26 13:24<br>赞(0) 踩(0) | <div>明年</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35843401)<br><br>2017-10-27 23:26<br>赞(0) 踩(0) | <div>超好听！！！简直是学习时的安神剂和能量！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5576267)<br><br>2017-10-27 23:02<br>赞(0) 踩(0) | <div>我在云大看了他们的演出，还买了CD和谱子，这两天在加紧练习。真的很棒，后来回来看到资料才知道他还是我校友，师哥。呵呵。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5569588)<br>一个人的交响乐<br>2017-09-20 13:56<br>赞(0) 踩(0) | <div>maton代言人？马桶居然有代言人。。。想当年在澳洲去找maton谈代理，人家都不想卖琴，从琴展主办方得知，马桶的高层在打架，都不参展。不知仁兄听说过没有 ：P</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5569588)<br>一个人的交响乐<br>2017-09-20 13:56<br>赞(0) 踩(0) | <div>maton代言人？马桶居然有代言人。。。<br><br>想当年在澳洲去找maton谈代理，人家都不想卖琴，从琴展主办方得知，马桶的高层在打架，都不参展。<br><br>不知仁兄听说过没有 ：P</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271441610)<br>久等啦，小白这就来<br>2017-08-19 09:53<br>赞(0) 踩(0) | <div>好听哦，古色古香不乏今日春光</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268340271)<br>我还没想好要写什么...<br>2017-08-15 15:52<br>赞(0) 踩(0) | <div>棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284353592)<br><br>2017-08-10 17:16<br>赞(0) 踩(0) | <div>每首都好好听啊。。。都无心写作业了0 0</div> |
@@ -231,7 +231,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1226865)<br>爱音乐的人原本就该活简单<br>2013-11-19 06:49<br>赞(0) 踩(0) | <div>世界名师</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11420900)<br>erase me<br>2013-09-18 02:24<br>赞(0) 踩(0) | <div>真不错~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1980053)<br><br>2013-09-15 06:01<br>赞(1) 踩(0) | <div>除了唱歌时表情很贱以外其他都不错 编曲能力超强 和弦搭配非常追求别人学不会</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12317756)<br>We<br>2014-01-29 23:03<br>赞(0) 踩(0) | <div>赞同！我第一次看视频的时候就觉得这货真尼玛贱啊，后来才发现技术是介样地流弊～</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12317756)<br>We<br>2014-01-29 23:03<br>赞(0) 踩(0) | <div>赞同！<br>我第一次看视频的时候就觉得这货真尼玛贱啊，后来才发现技术是介样地流弊～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2116362)<br><br>2013-09-10 14:48<br>赞(0) 踩(0) | <div>朱家明</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5037427)<br><br>2013-07-23 11:18<br>赞(0) 踩(0) | <div>fingerstyle</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16111134)<br>爱情无非自顾自的执着<br>2013-07-15 00:26<br>赞(0) 踩(0) | <div>有点玩世不恭，放荡洒脱的味道。。。</div> |
@@ -252,7 +252,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6649580)<br><br>2012-06-26 19:51<br>赞(0) 踩(0) | <div>什么时候再出专辑呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5696779)<br>好色无胆，好酒无量，好钱...<br>2012-06-10 20:02<br>赞(0) 踩(0) | <div>属于中国的指弹吉他</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2829623)<br>野蛮生长，不忘初心<br>2012-03-31 13:32<br>赞(0) 踩(0) | <div>加油~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8159374)<br><br>2012-02-24 06:59<br>赞(0) 踩(0) | <div>实力派需要理由吗</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8159374)<br><br>2012-02-24 06:59<br>赞(0) 踩(0) | <div>实力派<br>需要理由吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005517)<br><br>2012-02-11 21:14<br>赞(0) 踩(0) | <div>爵士乐风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6331370)<br>我还没想好要写什么...<br>2012-01-26 16:26<br>赞(0) 踩(0) | <div>中国的tommy emmanuel</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244871)<br><br>2012-01-12 13:29<br>赞(0) 踩(0) | <div>骄傲</div> |

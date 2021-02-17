@@ -60,8 +60,8 @@ Oh~Oh~Oh~ <br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10857967)<br>我～就是我！不喜勿進！<br>2018-07-06 20:13<br>赞(0) 踩(0) | <div>林俊杰版本下架了我忍了，连原版都下架是真的不能忍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49725841)<br>爱是短暂的别离，却也是蚀...<br>2018-05-27 11:53<br>赞(0) 踩(0) | <div>呵呵呵！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327687285)<br><br>2018-05-25 00:55<br>赞(1) 踩(0) | <div>爱你</div> |
@@ -119,4 +119,4 @@ Oh~Oh~Oh~ <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82672)<br>Love or pois...<br>2012-05-31 14:47<br>赞(0) 踩(0) | <div>扬起嘴角，永远猜不到的下一秒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4820500)<br> <br>2012-01-17 20:39<br>赞(1) 踩(0) | <div>和林俊杰 的编号八89757 味道很像</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9658228)<br>波比猴第14支全新单曲“...<br>2016-08-17 15:23<br>赞(0) 踩(0) | <div>还有 进化论</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1558801)<br><br>2011-02-16 05:06<br>赞(1) 踩(0) | <div>词：王雅君／陈淑秋 RAP词：林俊杰 曲：林俊杰收录于2006年张韶涵《潘多拉》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1558801)<br><br>2011-02-16 05:06<br>赞(1) 踩(0) | <div>词：王雅君／陈淑秋 RAP词：林俊杰 曲：林俊杰<br>收录于2006年张韶涵《潘多拉》</div> |

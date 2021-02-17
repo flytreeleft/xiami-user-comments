@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/763dcb236f6a679852bff82ef5386e20.jpg)<br>娅琳](https://i.xiami.com/yalin) | **播放数**: 1591092<br>**粉丝数**: 103<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 粤语流行 Cantopop, 噪音流行 Noise Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/763dcb236f6a679852bff82ef5386e20.jpg)<br>娅琳](https://i.xiami.com/yalin) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 粤语流行 Cantopop, 噪音流行 Noise Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 1591092<br>**粉丝数**: 103<br>**评论数**: 8<br> |
 
 ## 档案
 
@@ -77,8 +77,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-30 10:52<br>赞(0) 踩(0) | <div>44672</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407729075)<br><br>2019-02-28 13:13<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290446883)<br><br>2018-08-21 17:11<br>赞(0) 踩(0) | <div>好听</div> |

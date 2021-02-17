@@ -35,11 +35,11 @@ New York
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2469312)<br><br>2020-09-01 21:01<br>赞(0) 踩(0) | <div>翻译一下中文：曼哈頓的最後一夜 曼克頓是什麼鬼啦？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351417200)<br>是鬼但<br>2020-08-19 14:07<br>赞(1) 踩(0) | <div>喜欢林一峰的温柔</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 22:14<br>赞(0) 踩(0) | <div>「来自《思生活》专辑的英文歌。那一年暑假在纽约，我在好友F西城区的住宅寄居；那天晚上只有我一个人，乖乖收拾行李，清晨就要飞往伦敦；我坐在窗边看着塞车夜景，歇一歇，拿起笔，到放下笔的時候已经快天亮了。」&amp;mdash;&amp;mdash;一峰2020.4.29于微博</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 22:14<br>赞(0) 踩(0) | <div>「来自《思生活》专辑的英文歌。那一年暑假在纽约，我在好友F西城区的住宅寄居；那天晚上只有我一个人，乖乖收拾行李，清晨就要飞往伦敦；我坐在窗边看着塞车夜景，歇一歇，拿起笔，到放下笔的時候已经快天亮了。」<br>&amp;mdash;&amp;mdash;一峰<br>2020.4.29于微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429942229)<br><br>2020-04-18 17:27<br>赞(0) 踩(0) | <div>好吉他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10936044)<br><br>2020-04-11 15:15<br>赞(0) 踩(0) | <div>实在好听到难以形容了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329340664)<br><br>2020-04-09 10:09<br>赞(1) 踩(0) | <div>好</div> |
@@ -48,11 +48,11 @@ New York
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13194141)<br>企鹅号976999737...<br>2019-03-12 21:33<br>赞(1) 踩(0) | <div>真的好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344763605)<br><br>2019-02-15 14:41<br>赞(1) 踩(0) | <div>再见了纽腰，四年大学青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8288058)<br>卑劣的情感共鸣<br>2019-01-14 00:26<br>赞(3) 踩(0) | <div>有种听mla的感觉(没怎么听过一峰 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7023)<br>长期缓慢持续收藏林一峰演...<br>2018-12-16 01:39<br>赞(1) 踩(0) | <div>2015093020180929曼克顿最后一夜mark</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7023)<br>长期缓慢持续收藏林一峰演...<br>2018-12-16 01:39<br>赞(1) 踩(0) | <div>20150930<br>20180929<br>曼克顿最后一夜mark</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245835932)<br>我还没想好要写什么...<br>2018-10-06 10:36<br>赞(2) 踩(0) | <div>我刚好一会从纽约飞回上海～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19382017)<br>我还没想好要写什么...<br>2018-09-28 23:45<br>赞(1) 踩(0) | <div>迷醉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10811234)<br>Love Mucic<br>2018-09-13 23:03<br>赞(2) 踩(0) | <div>赞</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9607891)<br>独立音乐推广和演出公司，...<br>2018-08-21 16:31<br>赞(2) 踩(0) | <div>拥有温暖嗓音的万能香港唱作人，中国城市民谣代表人物林一峰即将空降混凝草音乐节！9月16日上海见！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9607891)<br>独立音乐推广和演出公司，...<br>2018-08-21 16:31<br>赞(2) 踩(0) | <div>拥有温暖嗓音的万能香港唱作人，中国城市民谣代表人物<br>林一峰即将空降混凝草音乐节！<br>9月16日上海见！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332693721)<br>今天有個不是但願的願望<br>2018-07-05 09:14<br>赞(1) 踩(0) | <div>情人的夜語</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251221054)<br>忽把青梅嗅<br>2018-03-24 20:59<br>赞(2) 踩(0) | <div>觉得好近</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/726874)<br>大方地承認不懂音樂，只是...<br>2018-02-27 15:05<br>赞(1) 踩(0) | <div>想念纽约 <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
@@ -149,7 +149,7 @@ New York
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355158)<br><br>2010-09-14 14:03<br>赞(0) 踩(0) | <div>关于曼哈顿，只有曼哈顿灰姑娘的记忆。喜欢林一峰纯净的音乐世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/581926)<br>涉世未深，岂敢阔论高谈，...<br>2010-06-03 18:13<br>赞(0) 踩(0) | <div>英文不准没关系，好听就行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/394487)<br><br>2010-01-19 17:50<br>赞(0) 踩(0) | <div>枣听的经典</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2009-12-31 20:17<br>赞(0) 踩(0) | <div>this morning i'm leaving new yorkonce get on the planewhat would i be thinking ofthis morning i'm leaving new yorka plave of letting goa place of moving onhere's to new york...don't matter where you're fromjust matters where you gono one clings for longnew york</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2009-12-31 20:17<br>赞(0) 踩(0) | <div>this morning i'm leaving new york<br>once get on the plane<br>what would i be thinking of<br><br>this morning i'm leaving new york<br>a plave of letting go<br>a place of moving on<br>here's to new york...<br><br>don't matter where you're from<br>just matters where you go<br>no one clings for long<br>new york</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225333)<br>笑而不语<br>2009-09-25 18:54<br>赞(0) 踩(0) | <div>踩在雨滴上的声音？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237904)<br><br>2009-09-20 17:50<br>赞(0) 踩(0) | <div>this morning i'm leaving new yorkonce get on the planewhat would i be thinking of林一峰的独立民谣 好。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237904)<br><br>2009-09-20 17:50<br>赞(0) 踩(0) | <div>this morning i'm leaving new york<br>once get on the plane<br>what would i be thinking of<br>林一峰的独立民谣 好。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237904)<br><br>2009-07-03 13:39<br>赞(0) 踩(0) | <div>吉他撩动你的心弦</div> |

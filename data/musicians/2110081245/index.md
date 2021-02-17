@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a246c0bfbd5e7317d963f6001c0ea577.jpg)<br>余佳运](https://i.xiami.com/yjy) | **播放数**: 11716621<br>**粉丝数**: 8001<br>**评论数**: 192<br>**地区**: China 中国大陆<br>**风格**: 节奏布鲁斯 R&B, 流行 Pop<br> |
+| [![](../../images/musicians/a246c0bfbd5e7317d963f6001c0ea577.jpg)<br>余佳运](https://i.xiami.com/yjy) | **地区**: China 中国大陆<br>**风格**: 节奏布鲁斯 R&B, 流行 Pop<br>**播放数**: 11716621<br>**粉丝数**: 8001<br>**评论数**: 192<br> |
 
 ## 档案
 
@@ -41,8 +41,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-08 11:37<br>赞(0) 踩(0) | <div>45941</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215379991)<br>簽名不重要重要的是你聽什...<br>2020-10-22 16:00<br>赞(0) 踩(0) | <div>ﻌﻌﻌ❤︎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377345865)<br>WE ARE ONE.<br>2020-09-12 08:33<br>赞(0) 踩(0) | <div>宝藏宝藏！！！！</div> |
@@ -50,7 +50,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8881464)<br>要做幸福小女人~Dan<br>2020-06-07 05:53<br>赞(0) 踩(0) | <div>晚安前听到好暖心 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427842087)<br><br>2020-05-17 17:15<br>赞(0) 踩(0) | <div>祝余老师越来越红</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356763773)<br>我还没想好要写什么...<br>2020-04-04 11:54<br>赞(0) 踩(0) | <div>和你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255558076)<br>我们再见。<br>2020-03-08 21:24<br>赞(1) 踩(0) | <div>您的歌真的太浪漫了。音符跳动到胸口，轻柔地依偎在温暖中。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255558076)<br>我们再见。<br>2020-03-08 21:24<br>赞(1) 踩(0) | <div>您的歌真的太浪漫了。<br>音符跳动到胸口，轻柔地依偎在温暖中。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425657867)<br>再见一万遍，我的朋友。<br>2020-02-14 08:29<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15379098)<br> <br>2020-01-23 07:55<br>赞(0) 踩(0) | <div>宁波小哥哥诶 加油加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423947424)<br>Wnt to be ma...<br>2020-01-08 17:43<br>赞(0) 踩(0) | <div>声音很好</div> |
@@ -72,7 +72,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406737135)<br><br>2019-03-22 01:38<br>赞(1) 踩(0) | <div>今天又是爱你的一天鸭❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341184650)<br>长风破浪会有时，直挂云帆...<br>2019-03-06 16:35<br>赞(0) 踩(0) | <div>为什么我才发现。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250678876)<br>暑假不知不觉离开青春场景...<br>2019-02-15 04:04<br>赞(3) 踩(0) | <div>没有什么技术流分析！就声音音乐都听着很放松很舒服呀！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250278874)<br><br>2019-01-27 18:49<br>赞(1) 踩(0) | <div>余佳运同志 <img src="../../images/comments/5209680a7687ef8a547064825af96969.png">不知道你希不希望自己能红，总而言之很喜欢你希望你加油冲鸭！ <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250278874)<br><br>2019-01-27 18:49<br>赞(1) 踩(0) | <div>余佳运同志 <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"><br>不知道你希不希望自己能红，总而言之很喜欢你希望你加油冲鸭！ <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212154854)<br>学生    00后<br>2019-01-26 18:29<br>赞(1) 踩(0) | <div>从我想开始喜欢他的声音特别好听！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/695890)<br>爱音乐爱泡泡<br>2019-01-23 15:17<br>赞(4) 踩(0) | <div>天呐～这简直就是小方大同啊～太喜欢了！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408833994)<br>难过。难是难但始终是会过...<br>2019-01-15 13:27<br>赞(2) 踩(0) | <div>认识你的第一首歌是《你》</div> |
@@ -97,13 +97,13 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356890875)<br><br>2018-08-13 15:02<br>赞(0) 踩(0) | <div>带我离开这星球</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212154854)<br>学生    00后<br>2018-07-14 18:22<br>赞(2) 踩(0) | <div>嗯，喜欢你的声音，贼好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334381986)<br><br>2018-06-21 14:50<br>赞(0) 踩(0) | <div>帅帅哒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287821301)<br>我还没想好要写什么...<br>2018-06-16 13:42<br>赞(3) 踩(0) | <div>昨天真的太帅了！！！陪老余从疆进酒到鸟巢！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287821301)<br>我还没想好要写什么...<br>2018-06-16 13:42<br>赞(3) 踩(0) | <div>昨天真的太帅了！！！<br>陪老余从疆进酒到鸟巢！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12996076)<br>我还没想好要写什么...<br>2018-06-11 01:49<br>赞(2) 踩(0) | <div>好喜欢好喜欢 声音太温柔心要化了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285049473)<br>剛拿起酒杯想和你碰杯 才...<br>2018-06-06 14:36<br>赞(2) 踩(0) | <div>好溫柔的聲音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50873037)<br> <br>2018-05-30 16:56<br>赞(0) 踩(0) | <div>今晚见～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261106947)<br><br>2018-05-27 08:30<br>赞(13) 踩(0) | <div>听你的声音感觉像谈恋爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94413458)<br>狮子狮子!!<br>2018-05-25 13:12<br>赞(0) 踩(0) | <div>今晚见</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187896806)<br><br>2018-05-23 16:42<br>赞(2) 踩(0) | <div>可以让人沉溺其中无法自拔的声音超喜欢 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187896806)<br><br>2018-05-23 16:42<br>赞(2) 踩(0) | <div>可以让人沉溺其中无法自拔的声音<br>超喜欢 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38512657)<br>我还没想好要写什么...<br>2018-05-23 09:23<br>赞(0) 踩(0) | <div>加油 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128356126)<br>点点星辉  照亮你我 丝...<br>2018-05-20 16:34<br>赞(0) 踩(0) | <div>是我喜欢的，赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290858359)<br>老了也要浪<br>2018-05-02 17:00<br>赞(3) 踩(0) | <div>我喜欢你，就跟我喜欢郭顶，宫阁一样</div> |
@@ -204,7 +204,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45459535)<br> EXO ME? Wha...<br>2017-05-13 09:02<br>赞(0) 踩(0) | <div>我覺得挺不錯的呀～ 野生方大同</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290447101)<br>啾啾<br>2017-05-09 23:11<br>赞(0) 踩(0) | <div>超级赞！声音抓耳！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77582944)<br> <br>2017-05-06 13:59<br>赞(0) 踩(0) | <div>完蛋了有男神了，我本来是只属于Hebe的 <img src="../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287388423)<br><br>2017-04-21 23:18<br>赞(2) 踩(0) | <div>余佳运，你很棒棒的哦，，《我想》《和你》《在一起》喜欢《你》</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287388423)<br><br>2017-04-21 23:18<br>赞(2) 踩(0) | <div>余佳运，你很棒棒的哦，，《我想》《和你》《在一起》<br>喜欢《你》</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289995328)<br><br>2017-04-21 01:14<br>赞(0) 踩(0) | <div>真好听啊 我以为是无损的原版 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99168462)<br>再见虾米<br>2017-04-10 15:32<br>赞(0) 踩(0) | <div>怎 么 可 能 不 火</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273064831)<br> <br>2017-04-05 10:15<br>赞(0) 踩(0) | <div>好听！</div> |

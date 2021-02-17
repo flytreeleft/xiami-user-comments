@@ -44,8 +44,8 @@ you will see i've become the one that is worthy of your true love
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/605952)<br><br>2014-01-10 17:12<br>赞(1) 踩(0) | <div>英文版是好，中文版也不错呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3648081)<br><br>2011-06-29 22:17<br>赞(1) 踩(0) | <div>听英文版才注意到曲子的华丽。没人写的出来，只有陈珊妮。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1673461)<br><br>2011-08-24 20:56<br>赞(0) 踩(0) | <div>同意</div> |

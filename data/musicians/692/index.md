@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ff7dfd117c060f9f1bcd3433b50f020b.jpg)<br>卢小旭](https://i.xiami.com/luxiaoxu) | **播放数**: 7663192<br>**粉丝数**: 13193<br>**评论数**: 148<br>**地区**: China 中国大陆<br>**风格**: 游戏配乐 Video Game Music, 另类摇滚 Alternative Rock, 电子 Electronic, 嘻哈 Hip-Hop, 日本动漫游戏 Japanese ACG<br> |
+| [![](../../images/musicians/ff7dfd117c060f9f1bcd3433b50f020b.jpg)<br>卢小旭](https://i.xiami.com/luxiaoxu) | **地区**: China 中国大陆<br>**风格**: 游戏配乐 Video Game Music, 另类摇滚 Alternative Rock, 电子 Electronic, 嘻哈 Hip-Hop, 日本动漫游戏 Japanese ACG<br>**播放数**: 7663192<br>**粉丝数**: 13193<br>**评论数**: 148<br> |
 
 ## 档案
 
@@ -33,15 +33,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346566112)<br>入梦查查，出梦悻悻。仁心...<br>2020-08-29 23:58<br>赞(0) 踩(0) | <div>旭大侠牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2342684)<br>特别钟情电影配乐.......<br>2020-03-16 08:50<br>赞(1) 踩(0) | <div>小旭老师是全国响当当的电脑音乐大师，甚是喜欢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45678697)<br><br>2019-06-15 19:42<br>赞(0) 踩(0) | <div>古剑二的战斗曲满分 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423697519)<br>我QQ号：2151830...<br>2019-05-24 18:00<br>赞(0) 踩(0) | <div>。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5424076)<br>咋个说？要签名？<br>2019-04-26 09:57<br>赞(0) 踩(0) | <div>现在摇滚歌手谁都能当</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287510003)<br>虾米里不曾认识任何人，只...<br>2019-04-13 20:44<br>赞(2) 踩(0) | <div><img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1638)<br>☑没房 ☑没车 ☑没钱 ...<br>2019-01-14 05:55<br>赞(1) 踩(0) | <div>感谢您为蜀山ol所作的配乐那是我一段美好的回忆</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1638)<br>☑没房 ☑没车 ☑没钱 ...<br>2019-01-14 05:55<br>赞(1) 踩(0) | <div>感谢您为蜀山ol所作的配乐<br>那是我一段美好的回忆</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362190966)<br>爱吾所爱<br>2019-01-04 13:17<br>赞(3) 踩(0) | <div>喜欢这个曲风抒情大气！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83722034)<br>一般不爱人 不爱一般人 ...<br>2018-11-25 10:46<br>赞(0) 踩(0) | <div>他的西皮士的都喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26824520)<br>疯狂的人生不需要解释…<br>2018-08-27 19:47<br>赞(3) 踩(0) | <div>喜欢这种意境，放松恬淡</div> |
@@ -130,7 +130,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24313278)<br><br>2013-10-12 17:05<br>赞(0) 踩(0) | <div>大爱峨眉金顶此歌风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4828269)<br>还在<br>2013-10-02 11:03<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13042739)<br><br>2013-09-21 17:11<br>赞(0) 踩(0) | <div>国产游戏中的配乐比国产电影、电视剧中的配乐好听多了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2013-09-11 19:21<br>赞(0) 踩(0) | <div>虾米把小旭跟小旭乐团（<a href="http://i.xiami.com/xiaoxuband?spm=0.0.0.0.VaZXRM" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/xiaoxuband?spm=0.0.0.0.VaZXRM</a>）主页分开了。所以我理解为，小旭这里收录小旭的个人创作作品，而小旭乐团收录小旭工作室成员的作品，是这样吗？如果是这样的话，小旭这边的有些专辑或单曲是不是应该搬到小旭乐团那边了？<a href="http://emumo.xiami.com/u/30705" target="_blank" rel="nofollow" name_card="30705">@beson</a> <a href="http://emumo.xiami.com/u/6630660" target="_blank" rel="nofollow" name_card="6630660">@乱七∞糟</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2013-09-11 19:21<br>赞(0) 踩(0) | <div>虾米把小旭跟小旭乐团（<a href="http://i.xiami.com/xiaoxuband?spm=0.0.0.0.VaZXRM" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/xiaoxuband?spm=0.0.0.0.VaZXRM</a>）主页分开了。<br>所以我理解为，小旭这里收录小旭的个人创作作品，而小旭乐团收录小旭工作室成员的作品，是这样吗？<br><br>如果是这样的话，小旭这边的有些专辑或单曲是不是应该搬到小旭乐团那边了？<a href="http://emumo.xiami.com/u/30705" target="_blank" rel="nofollow" name_card="30705">@beson</a> <a href="http://emumo.xiami.com/u/6630660" target="_blank" rel="nofollow" name_card="6630660">@乱七∞糟</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30705)<br>我还没想好要写什么...<br>2013-09-11 20:07<br>赞(0) 踩(0) | <div>是这样没错</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2013-09-11 20:09<br>赞(0) 踩(0) | <div><q><b>beson说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1612404)<br>我有时看不了你们的回复<br>2014-02-28 01:40<br>赞(0) 踩(0) | <div>那标记“小旭音乐”的应该归哪边……orz我才看到这边个人页面里有“小旭音乐”这个括号= =</div> |
@@ -179,7 +179,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6203277)<br><br>2012-06-17 11:43<br>赞(0) 踩(0) | <div>喜欢这种悠远宁静的音乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2350201)<br><br>2012-04-30 23:29<br>赞(0) 踩(0) | <div>非常不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3265314)<br>用音乐致青春<br>2012-04-30 16:17<br>赞(0) 踩(0) | <div>总算有小旭的了，想要诛仙的音乐啊~~~诛仙</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2012-04-19 06:10<br>赞(0) 踩(0) | <div>小旭音乐官网：<a href="http://www.gamemusic.com.cn/info.htm" target="_blank" rel="nofollow noreferrer noopener">http://www.gamemusic.com.cn/info.htm</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2012-04-19 06:10<br>赞(0) 踩(0) | <div>小旭音乐官网：<br><a href="http://www.gamemusic.com.cn/info.htm" target="_blank" rel="nofollow noreferrer noopener">http://www.gamemusic.com.cn/info.htm</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3396785)<br><br>2012-03-10 22:31<br>赞(0) 踩(0) | <div>顶！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7598568)<br><br>2012-02-24 10:29<br>赞(0) 踩(0) | <div>挺好听的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6377726)<br>低头思故乡……<br>2011-12-02 02:33<br>赞(0) 踩(0) | <div>他和小旭音乐工作室是相关的吗？</div> |

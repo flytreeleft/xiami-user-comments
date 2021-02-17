@@ -30,8 +30,8 @@ by santacruz<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2243493)<br><br>2011-05-13 23:21<br>赞(1) 踩(0) | <div>快乐却好像多了一半~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2009-12-01 22:58<br>赞(1) 踩(0) | <div>不同的心情，不同的幸福。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/463181)<br><br>2009-10-29 16:04<br>赞(1) 踩(0) | <div>一个人可以拥抱的自由</div> |

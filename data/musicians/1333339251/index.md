@@ -3,7 +3,7 @@ David Z
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/dee575eef144acaf48da0a4974483f5b.jpg)<br>David Z](https://i.xiami.com/davidz) | **播放数**: 3140255<br>**粉丝数**: 235<br>**评论数**: 30<br>**地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 迪斯科 Disco, 流行舞曲 Dance-Pop<br> |
+| [![](../../images/musicians/dee575eef144acaf48da0a4974483f5b.jpg)<br>David Z](https://i.xiami.com/davidz) | **地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 迪斯科 Disco, 流行舞曲 Dance-Pop<br>**播放数**: 3140255<br>**粉丝数**: 235<br>**评论数**: 30<br> |
 
 ## 档案
 
@@ -38,8 +38,8 @@ http://i.youku.com/davidz88<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330900828)<br>高舉一面五星紅旗在蝦米！<br>2020-03-29 14:46<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38805742)<br>暂无签名~<br>2019-11-30 22:24<br>赞(1) 踩(0) | <div>好听 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266286212)<br>懒死的小编 ill.by...<br>2019-11-18 12:14<br>赞(1) 踩(0) | <div>棒，太赞了！</div> |

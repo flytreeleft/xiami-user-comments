@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352510914)<br><br>2018-11-15 06:56<br>赞(0) 踩(0) | <div>快快争取版权吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266447100)<br><br>2018-07-30 13:05<br>赞(0) 踩(0) | <div>你只是把一年过成了365次重复，还是愿意每天都有新的精彩？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256753250)<br>没有音乐的世界会是个什么...<br>2018-05-29 19:21<br>赞(0) 踩(0) | <div>我_^^_^'''</div> |
@@ -40,7 +37,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326914426)<br><br>2017-10-09 07:11<br>赞(0) 踩(0) | <div>把背景压低点儿，我喜欢背景远远的浅浅，隐隐的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283031214)<br>时光如梭，生命如歌～<br>2017-08-29 20:14<br>赞(1) 踩(0) | <div>封面好美，抱走了。 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5563297)<br><br>2017-08-06 15:46<br>赞(1) 踩(0) | <div>地方</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50094338)<br>那些散落的誓言，戏弄了青...<br>2017-08-01 01:52<br>赞(4) 踩(0) | <div>你是海你是光是我的清晨是我的晚阳是寒风凌烈中的篝火是夏夜迷梦里的星网是我面前的山峦起伏蜿蜒是我脚下的泥路曲折漫长是我路过数不清的岁月风光是我守候等不尽的人海茫茫</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50094338)<br>那些散落的誓言，戏弄了青...<br>2017-08-01 01:52<br>赞(4) 踩(0) | <div>你是海<br>你是光<br>是我的清晨<br>是我的晚阳<br>是寒风凌烈中的篝火<br>是夏夜迷梦里的星网<br>是我面前的山峦起伏蜿蜒<br>是我脚下的泥路曲折漫长<br>是我路过数不清的岁月风光<br>是我守候等不尽的人海茫茫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111335988)<br><br>2017-07-14 18:59<br>赞(1) 踩(0) | <div>每次都能看到我自己在大厅里弹奏的画面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308435157)<br><br>2017-06-30 09:52<br>赞(0) 踩(0) | <div>这音乐不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13940090)<br>我还没想好要写什么...<br>2017-06-29 10:53<br>赞(2) 踩(0) | <div>希望你也來聽了</div> |
@@ -82,9 +79,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7104501)<br><br>2013-05-18 23:34<br>赞(0) 踩(0) | <div>很适合婚礼上讲话垫乐的专辑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14575515)<br><br>2013-05-07 16:02<br>赞(1) 踩(0) | <div>Reminiscence：【remi·nis(ə)ns】n.回忆；怀旧；书签；令人回忆的事物.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14575515)<br><br>2013-05-07 15:51<br>赞(2) 踩(0) | <div>Reminiscence: [remɪ&amp;#039;nɪs(ə)ns] n.回忆；怀旧；眷恋；书签；令人回忆的事物.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2748101)<br>现实不满梦的田字格。<br>2012-11-24 21:52<br>赞(0) 踩(0) | <div>那些旧事、是海绵里的沙、、、</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2748101)<br>现实不满梦的田字格。<br>2012-11-24 21:52<br>赞(0) 踩(0) | <div>那些旧事、<br>是海绵里的沙、、、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2484361)<br>我还没想好要写什么...<br>2012-11-21 21:30<br>赞(1) 踩(0) | <div>再忙再累再不满，都有一首好听的音乐等着你缓解你的压力，希望你能喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6294818)<br><br>2012-11-12 14:56<br>赞(0) 踩(0) | <div>《苏醒》--《流动的城市》~~<a href="http://www.xiami.com/album/2650" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/album/2650</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6294818)<br><br>2012-11-12 14:56<br>赞(0) 踩(0) | <div>《苏醒》--《流动的城市》~~<br><a href="http://www.xiami.com/album/2650" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/album/2650</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7647541)<br><br>2012-08-25 20:09<br>赞(1) 踩(0) | <div>轻柔却不纤弱，含蓄却不失激情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8967278)<br><br>2012-06-28 00:08<br>赞(0) 踩(0) | <div>不错。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1211071)<br>音乐是我们共同的朋友。<br>2012-05-28 11:26<br>赞(1) 踩(0) | <div>擦~咋后面就又有点古典的味道了。这风格变得~哈哈。思维富有跳跃性，果然有灵性啊~过渡得也蛮自然吧</div> |

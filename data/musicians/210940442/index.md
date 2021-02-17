@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/36a9f867a5bb2a054d941f9a5e26f22b.jpg)<br>王坚吉他](https://i.xiami.com/wangjian2000) | **播放数**: 2115582<br>**粉丝数**: 562<br>**评论数**: 17<br>**地区**: China 中国大陆<br>**风格**: 当代民谣 Contemporary Folk, 独立民谣 Indie Folk, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/36a9f867a5bb2a054d941f9a5e26f22b.jpg)<br>王坚吉他](https://i.xiami.com/wangjian2000) | **地区**: China 中国大陆<br>**风格**: 当代民谣 Contemporary Folk, 独立民谣 Indie Folk, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 2115582<br>**粉丝数**: 562<br>**评论数**: 17<br> |
 
 ## 档案
 
@@ -23,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443570845)<br>好好练吉他！好好学习！好...<br>2020-06-13 00:53<br>赞(0) 踩(0) | <div>关注了，好好听您的音乐。我要好好练吉他，好好学指弹</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408085299)<br><br>2020-01-04 14:01<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327951862)<br> <br>2020-01-03 19:52<br>赞(0) 踩(0) | <div>初学吉他，才知不容易</div> |

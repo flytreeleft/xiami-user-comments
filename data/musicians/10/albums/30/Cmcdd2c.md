@@ -73,8 +73,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-11-29 19:59<br>赞(0) 踩(0) | <div>马了比金桂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406645678)<br><br>2020-11-26 22:22<br>赞(0) 踩(0) | <div>怎么又是收费？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412643545)<br>Henry<br>2020-05-16 07:14<br>赞(1) 踩(0) | <div>黄安的经典老歌，阿木唱的也好听</div> |
@@ -94,7 +94,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352358760)<br><br>2018-12-18 15:43<br>赞(0) 踩(0) | <div><q><b>10。16说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/172174192)<br>倾我一生，执手一人<br>2017-01-01 12:39<br>赞(2) 踩(0) | <div>阿木唱的没有黄安唱的有小时候的味道…</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310421346)<br><br>2017-08-24 20:59<br>赞(0) 踩(0) | <div>的确，看的包青天电视上好像都是黄安版的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245547790)<br><br>2016-11-18 21:47<br>赞(0) 踩(0) | <div>看似个鸳鸯蝴蝶不应该的年代可是谁又能摆脱人世间的悲哀是要问一个明白还是要装作糊涂知多知少难知足</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245547790)<br><br>2016-11-18 21:47<br>赞(0) 踩(0) | <div>看似个鸳鸯蝴蝶<br>不应该的年代<br>可是谁又能摆脱<br>人世间的悲哀<br>是要问一个明白<br>还是要装作糊涂<br>知多知少难知足</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217453901)<br><br>2016-10-02 18:16<br>赞(1) 踩(0) | <div>无人能比。很好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141537376)<br><br>2016-04-15 10:59<br>赞(2) 踩(0) | <div>唱的比任何人都用情！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52747928)<br>            ...<br>2015-12-05 01:10<br>赞(9) 踩(0) | <div>他奶奶的，开唱的时候吓老子一跳~</div> |
@@ -103,8 +103,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12558013)<br><br>2013-07-08 15:04<br>赞(0) 踩(0) | <div>「在人间已是癫，何苦要上青天？」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415914)<br>lonely hero<br>2013-04-10 23:38<br>赞(0) 踩(0) | <div>最喜欢的老歌没有之一...._(:3JZ)_</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189236)<br><br>2012-11-23 14:00<br>赞(0) 踩(0) | <div>nice</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/599429)<br>我还没想好要写什么...<br>2010-02-25 11:36<br>赞(19) 踩(0) | <div>李白的原诗：弃我去者，昨日之日不可留；乱我心者，今日之日多烦忧。长风万里送秋雁，对此可以酣高楼。蓬莱文章建安骨，中间小谢又清发。俱怀逸兴壮思飞，欲上青天揽明月。抽刀断水水更流，举杯销愁愁更愁。人生在世不称意，明朝散发弄扁舟。——《宣州谢脁楼饯别校书叔云》杜甫《佳人》“但见新人笑，那闻旧人哭”的五言诗句改成了七言：“由来只有新人笑，有谁听见旧人哭？”陆游词作《鹧鸪天》其第一句：“插脚红尘已是颠，更求平地上青天？”黄安把“插脚红尘”翻译成了更为通俗易懂的“在人间”，把文言的“更求”翻译成了更白话的“何苦要”。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/599429)<br>我还没想好要写什么...<br>2010-02-25 11:36<br>赞(19) 踩(0) | <div>李白的原诗：<br><br>弃我去者，昨日之日不可留；乱我心者，今日之日多烦忧。长风万里送秋雁，对此可以酣高楼。蓬莱文章建安骨，中间小谢又清发。俱怀逸兴壮思飞，欲上青天揽明月。抽刀断水水更流，举杯销愁愁更愁。人生在世不称意，明朝散发弄扁舟。<br><br>——《宣州谢脁楼饯别校书叔云》<br><br>杜甫《佳人》<br><br>“但见新人笑，那闻旧人哭”的五言诗句改成了七言：“由来只有新人笑，有谁听见旧人哭？”<br><br>陆游词作《鹧鸪天》<br><br>其第一句：“插脚红尘已是颠，更求平地上青天？”<br>黄安把“插脚红尘”翻译成了更为通俗易懂的“在人间”，把文言的“更求”翻译成了更白话的“何苦要”。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1024746)<br>灵魂不该屈服<br>2011-05-29 16:32<br>赞(0) 踩(0) | <div>好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127902218)<br> <br>2016-10-19 11:48<br>赞(0) 踩(0) | <div>熊木杏里 风的记忆</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/447565)<br>兴奋郁闷互转模式中<br>2009-12-18 03:20<br>赞(1) 踩(0) | <div>昨日象那东流水 离我远去不可留今日乱我心 多烦忧抽刀断水水更流 举杯消愁愁更愁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/447565)<br>兴奋郁闷互转模式中<br>2009-12-18 03:20<br>赞(1) 踩(0) | <div>昨日象那东流水 离我远去不可留<br>今日乱我心 多烦忧<br>抽刀断水水更流 举杯消愁愁更愁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/742)<br>人有着身体的枷锁，飞不到...<br>2009-03-08 19:50<br>赞(0) 踩(0) | <div>怀念啊。。。以前的梦</div> |

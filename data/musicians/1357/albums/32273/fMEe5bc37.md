@@ -55,8 +55,8 @@ Daddy.ILoveYou
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281912774)<br><br>2020-07-01 16:12<br>赞(1) 踩(0) | <div>曹芳此张专辑有李延亮，鼓王Funky，仓雁彬等乐手录制</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16047745)<br>我还没想好要写什么...<br>2020-06-26 23:55<br>赞(1) 踩(0) | <div>小时候听过的歌 现在还会唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12479513)<br> <br>2019-12-19 00:06<br>赞(4) 踩(0) | <div>我的ipc里还有这首歌 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
@@ -77,7 +77,7 @@ Daddy.ILoveYou
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1323480)<br><br>2015-11-22 13:41<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1534391)<br><br>2015-11-04 23:49<br>赞(0) 踩(0) | <div>@夜礼服小假面  听它会想你诶 为啥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7938132)<br>请叫我美受大人 1572...<br>2015-10-31 23:17<br>赞(0) 踩(0) | <div>歌词</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5033574)<br>给音乐一个机会<br>2015-10-26 17:56<br>赞(1) 踩(0) | <div>我发现歌可以记录听时的记忆。听这首歌的时候，在一个夏季的雨夜，坐在长长的椅子上，带着耳机，伴随着这个轻快的节奏，等着某个类似ICY的淑女。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5033574)<br>给音乐一个机会<br>2015-10-26 17:56<br>赞(1) 踩(0) | <div>我发现歌可以记录听时的记忆。<br>听这首歌的时候，在一个夏季的雨夜，坐在长长的椅子上，带着耳机，伴随着这个轻快的节奏，等着某个类似ICY的淑女。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8808040)<br><br>2015-10-13 22:16<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1756047)<br>  各有各一生一世 各有...<br>2015-08-27 22:18<br>赞(0) 踩(0) | <div>给我爸的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1756047)<br>  各有各一生一世 各有...<br>2015-08-27 22:18<br>赞(0) 踩(0) | <div>给我爸的</div> |
@@ -101,7 +101,7 @@ Daddy.ILoveYou
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4849507)<br><br>2013-05-28 22:40<br>赞(1) 踩(0) | <div>高中时代除了JAY以外的另一个装载整张专辑的歌手，而这首是高考前几乎每天都听，莫名的一种愉快在歌声里传出来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11930854)<br>表面服从，偷偷反抗<br>2013-05-16 19:44<br>赞(0) 踩(0) | <div>谁夸ICY是个淑女，那一定是她父亲，谁说ICY必定很淑女，他一定爱她胜过自己~~~Daddy.I Love You</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11930854)<br>表面服从，偷偷反抗<br>2013-05-16 19:34<br>赞(0) 踩(0) | <div>谁夸I C Y是个淑女，那一定是她父亲，谁说I C Y必定很淑女，他一定爱她甚过自己~~~Daddy.I Love You</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13379244)<br><br>2013-03-12 23:06<br>赞(0) 踩(0) | <div>谁说i c y是个淑女那一定是她父亲谁说i c y必定很淑女那他一定不够聪明</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13379244)<br><br>2013-03-12 23:06<br>赞(0) 踩(0) | <div>谁说i c y是个淑女<br>那一定是她父亲<br>谁说i c y必定很淑女<br>那他一定不够聪明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2630359)<br><br>2013-02-25 10:13<br>赞(0) 踩(0) | <div>亲爱的老爸生日快乐 全宇宙我最爱你 啾咪~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173571)<br><br>2012-10-23 16:44<br>赞(1) 踩(0) | <div>歌词很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2926657)<br><br>2012-07-10 18:41<br>赞(0) 踩(0) | <div>谁说icy是个淑女……</div> |
@@ -110,7 +110,7 @@ Daddy.ILoveYou
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9206753)<br><br>2012-06-17 14:23<br>赞(0) 踩(0) | <div>今天专门来M一记</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9206753)<br><br>2012-05-20 21:09<br>赞(0) 踩(0) | <div>给我爸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6066886)<br>Beautiful an...<br>2012-04-23 12:04<br>赞(0) 踩(0) | <div>icy是淑女</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7895502)<br>我叫小明 我为自己代言<br>2012-04-08 21:10<br>赞(0) 踩(0) | <div>久违的声音.................................................................................................................................我喜欢省略号怎么滴.................................................................</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7895502)<br>我叫小明 我为自己代言<br>2012-04-08 21:10<br>赞(0) 踩(0) | <div>久违的声音.........................<br>..............................<br>..............................<br>..............................<br>..............我喜欢省略号怎么滴.......<br>..............................<br>............................</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5195551)<br><br>2012-04-06 12:38<br>赞(0) 踩(0) | <div>午间一支歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6511009)<br>假面舞会<br>2012-03-30 09:57<br>赞(0) 踩(0) | <div>清新，自然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8543042)<br><br>2012-03-27 00:50<br>赞(0) 踩(0) | <div>Jiezouhao</div> |
@@ -129,19 +129,19 @@ Daddy.ILoveYou
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2718342)<br>我決定快樂起來 我今天就...<br>2011-06-18 18:22<br>赞(0) 踩(0) | <div>-  daddy I love u</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2718342)<br>我決定快樂起來 我今天就...<br>2011-06-18 18:21<br>赞(0) 踩(0) | <div>-   虽然我老爸没有说过我是淑女 但我还是想说： Daddy  I love u  ! ~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1108961)<br>你那一封信 时间是邮差_<br>2011-06-18 01:07<br>赞(0) 踩(0) | <div>6.18  爸爸 节日快乐！我好爱你~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173571)<br><br>2011-05-24 12:00<br>赞(0) 踩(0) | <div>谁说ICY是个淑女那一定是她父亲谁说ICY必定很淑女那他一定不够聪明</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173571)<br><br>2011-05-24 12:00<br>赞(0) 踩(0) | <div>谁说ICY是个淑女<br>那一定是她父亲<br>谁说ICY必定很淑女<br>那他一定不够聪明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2256721)<br> <br>2011-05-11 04:35<br>赞(0) 踩(0) | <div>爸爸I love U!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306484)<br><br>2011-04-30 17:27<br>赞(0) 踩(0) | <div>拿自己做文章？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3620311)<br><br>2011-04-16 20:44<br>赞(0) 踩(0) | <div>很有个性的声音咯~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/893089)<br><br>2011-03-29 12:55<br>赞(0) 踩(0) | <div>@cy太祖儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2821227)<br><br>2011-02-19 09:30<br>赞(0) 踩(0) | <div>好姑娘。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1726022)<br>消失在人海的人呐，再也不...<br>2011-01-28 15:16<br>赞(0) 踩(0) | <div>谁说我是个淑女，那一定是亲爱的daddy因为他爱我胜过爱自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1726022)<br>消失在人海的人呐，再也不...<br>2011-01-28 15:16<br>赞(0) 踩(0) | <div>谁说我是个淑女，那一定是亲爱的daddy<br>因为他爱我胜过爱自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1496274)<br>Last Night,G...<br>2011-01-19 15:59<br>赞(0) 踩(0) | <div>icy是个有点淘的淑女~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/492992)<br><br>2010-10-09 21:26<br>赞(0) 踩(0) | <div>虽然是首念父的歌 但是我只想说我不是淑女 不做被人抛弃的信！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1389856)<br><br>2010-09-23 19:34<br>赞(0) 踩(0) | <div>很俏皮的感覺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337101)<br><br>2010-08-10 18:28<br>赞(0) 踩(0) | <div>有小调皮的feel 。但是那种怒张的性格却是文静中的张扬。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/830662)<br><br>2010-07-17 16:20<br>赞(0) 踩(0) | <div>静静地舒服。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/492527)<br><br>2010-05-22 14:48<br>赞(0) 踩(0) | <div>好长一段时间的坏天气。我说依然不喜欢这个城市。然后你只是笑，哼了首小歌给我听。我亲爱的你们还在准备升高三的课程罢，我羡慕你们依然拥有在体育课去看喜欢的男生打球的机会。我害怕明年2月份后离这一切更遥远。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/492527)<br><br>2010-05-22 14:48<br>赞(0) 踩(0) | <div>好长一段时间的坏天气。<br>我说依然不喜欢这个城市。然后你只是笑，哼了首小歌给我听。<br>我亲爱的你们还在准备升高三的课程罢，我羡慕你们依然拥有在体育课去看喜欢的男生打球的机会。我害怕明年2月份后离这一切更遥远。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/888964)<br><br>2010-05-16 20:22<br>赞(0) 踩(0) | <div>很好的曲子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38699)<br>我还没想好要写什么...<br>2010-03-21 16:05<br>赞(0) 踩(0) | <div>很有意思。“daddy I love you”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351661)<br>世间最美的莫不过“遇”<br>2009-12-28 23:07<br>赞(0) 踩(0) | <div>谁说icy是个淑女那一定是她父亲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351661)<br>世间最美的莫不过“遇”<br>2009-12-28 23:07<br>赞(0) 踩(0) | <div>谁说icy是个淑女<br>那一定是她父亲</div> |

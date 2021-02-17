@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/21c1806824392c29a0eb50b35f6ef4ca.jpg)<br>吴桐](https://i.xiami.com/wutong123) | **播放数**: 564517<br>**粉丝数**: 188<br>**评论数**: 4<br>**地区**: China 中国大陆<br>**风格**: 当代民谣 Contemporary Folk, 民谣 Folk, 独立民谣 Indie Folk, 城市民谣 Urban Folk, 新民谣 Neofolk<br> |
+| [![](../../images/musicians/21c1806824392c29a0eb50b35f6ef4ca.jpg)<br>吴桐](https://i.xiami.com/wutong123) | **地区**: China 中国大陆<br>**风格**: 当代民谣 Contemporary Folk, 民谣 Folk, 独立民谣 Indie Folk, 城市民谣 Urban Folk, 新民谣 Neofolk<br>**播放数**: 564517<br>**粉丝数**: 188<br>**评论数**: 4<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -30,8 +27,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-15 11:18<br>赞(0) 踩(0) | <div>43093</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419393489)<br><br>2020-08-08 06:48<br>赞(0) 踩(0) | <div>好听好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44165687)<br><br>2018-08-07 22:36<br>赞(0) 踩(0) | <div>牛逼~</div> |

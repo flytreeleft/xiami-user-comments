@@ -3,13 +3,10 @@ Zinsin
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b9da0b2cbb5ee5ed1703fc541f65cade.jpg)<br>Zinsin](https://i.xiami.com/zinsin) | **播放数**: 3357502<br>**粉丝数**: 762<br>**评论数**: 55<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop<br> |
+| [![](../../images/musicians/b9da0b2cbb5ee5ed1703fc541f65cade.jpg)<br>Zinsin](https://i.xiami.com/zinsin) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop<br>**播放数**: 3357502<br>**粉丝数**: 762<br>**评论数**: 55<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -19,8 +16,8 @@ Zinsin
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251579551)<br>爱情是我的全部，包括我的...<br>2020-12-26 22:30<br>赞(0) 踩(0) | <div>如果能透过你的歌声遇到你，我一定要一个签名，一个物件，因为我想记得你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9003931)<br>千淘万漉虽辛苦<br>2020-07-30 18:43<br>赞(0) 踩(0) | <div>治愈系。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16572632)<br>好好学习 天天向上 ～～...<br>2020-05-20 14:03<br>赞(0) 踩(0) | <div>啊 熟悉的声音 我现在的手机铃声还是你唱的成全 亏得下载下来了 其它都没了 唉...</div> |
@@ -32,7 +29,7 @@ Zinsin
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16105107)<br>粗鄙真切美好风尘仆仆<br>2020-01-09 05:44<br>赞(0) 踩(0) | <div>好点了没。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433473344)<br>this is the ...<br>2019-12-10 17:24<br>赞(0) 踩(0) | <div>Wow!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360389685)<br><br>2019-12-02 10:11<br>赞(0) 踩(0) | <div>謝謝你 帶來了好音樂</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257259878)<br>这里是QQ音乐<br>2019-09-07 22:53<br>赞(2) 踩(0) | <div>为什么这么久没有更新过有点遗憾但是感谢曾经遇见过这么好的声音</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257259878)<br>这里是QQ音乐<br>2019-09-07 22:53<br>赞(2) 踩(0) | <div>为什么这么久没有更新过<br>有点遗憾<br>但是<br>感谢曾经遇见过这么好的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335018266)<br><br>2019-08-16 16:25<br>赞(1) 踩(0) | <div>很好听的声音，感谢你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344018512)<br>我还没想好要写什么...<br>2019-07-03 19:40<br>赞(0) 踩(0) | <div>D</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118055258)<br>我还没想好要写什么...<br>2019-06-30 23:51<br>赞(0) 踩(0) | <div>好久不上新歌了，好想听</div> |

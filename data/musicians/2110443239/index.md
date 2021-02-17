@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e1776e3ecb710883def77f9fd7bc471b.jpg)<br>靥九](https://i.xiami.com/yejiu999) | **播放数**: 1516976<br>**粉丝数**: 87<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 古风 GuFeng Music<br> |
+| [![](../../images/musicians/e1776e3ecb710883def77f9fd7bc471b.jpg)<br>靥九](https://i.xiami.com/yejiu999) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 古风 GuFeng Music<br>**播放数**: 1516976<br>**粉丝数**: 87<br>**评论数**: 6<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,11 +18,11 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201600107)<br> <br>2021-01-22 13:36<br>赞(0) 踩(0) | <div>期待虾米？再次回归。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201600107)<br> <br>2021-01-22 13:36<br>赞(0) 踩(0) | <div>虾米解散后有什么群吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432920613)<br><br>2019-12-01 18:02<br>赞(0) 踩(0) | <div>你唱的很好听，加油！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2019-11-14 13:07<br>赞(0) 踩(0) | <div>实力是有的你缺的是机遇和伯乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2019-11-14 13:07<br>赞(0) 踩(0) | <div>实力是有的<br>你缺的是机遇和伯乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91573308)<br>微博：黄曦之·<br>2019-04-15 21:15<br>赞(0) 踩(0) | <div>居然才11个粉丝嘛，这么好听的声音～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375216450)<br><br>2018-06-14 18:47<br>赞(0) 踩(0) | <div>为何没剧情版啊？</div> |

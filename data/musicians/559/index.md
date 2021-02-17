@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c36413d141b3069a5d6a067c54cbcd06.jpg)<br>李晓杰](https://i.xiami.com/lixiaojie) | **播放数**: 59768302<br>**粉丝数**: 3212<br>**评论数**: 148<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/c36413d141b3069a5d6a067c54cbcd06.jpg)<br>李晓杰](https://i.xiami.com/lixiaojie) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 59768302<br>**粉丝数**: 3212<br>**评论数**: 148<br> |
 
 ## 档案
 
@@ -80,9 +80,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1090755)<br> <br>2020-11-18 23:48<br>赞(1) 踩(0) | <div>邓丽君 ，段品章，李慧敏，李晓杰，逍遥自在；原曲：くちなしの花 渡哲也</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1090755)<br> <br>2020-11-18 23:48<br>赞(1) 踩(0) | <div>邓丽君 ，段品章，李慧敏，李晓杰，逍遥自在；<br>原曲：くちなしの花 渡哲也</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429293644)<br><br>2020-05-21 05:07<br>赞(0) 踩(0) | <div>俗不可耐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443650578)<br>我还没想好要写什么...<br>2020-07-18 00:53<br>赞(0) 踩(0) | <div>请尊重每位艺人。应该说更接地气不是更好吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440531210)<br><br>2020-02-18 23:44<br>赞(0) 踩(0) | <div>男人的歌，喜欢！带劲！！</div> |
@@ -196,7 +196,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17520744)<br>落英不忍拭素手<br>2014-08-24 16:20<br>赞(0) 踩(0) | <div>因为是学京剧出身，还可以从他的歌里听出京剧味。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374450)<br>GAME MAKER！！<br>2014-08-12 16:48<br>赞(0) 踩(0) | <div>朋友的酒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12427706)<br><br>2014-05-28 19:29<br>赞(1) 踩(0) | <div>洗脑了。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73555)<br>我还没想好要写什么...<br>2014-04-09 09:20<br>赞(0) 踩(0) | <div>知道这歌了植入广告 效果不错</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73555)<br>我还没想好要写什么...<br>2014-04-09 09:20<br>赞(0) 踩(0) | <div>知道这歌了<br>植入广告 效果不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6171465)<br><br>2014-04-08 13:38<br>赞(0) 踩(0) | <div>小杰同学如何也没想到 电视剧能再让他的这首歌儿再火一把</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7924467)<br><br>2014-04-04 16:28<br>赞(1) 踩(0) | <div>一仆二主 杨树手机铃声</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235050)<br>我就说我是穷逼嘛~<br>2015-06-11 20:24<br>赞(0) 踩(0) | <div>原来是酱紫！！！我说怎么有点耳熟</div> |
@@ -222,7 +222,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1778876)<br><br>2012-05-21 20:28<br>赞(0) 踩(0) | <div>喜欢，好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/397778)<br><br>2012-04-19 20:11<br>赞(0) 踩(0) | <div>喜欢粗犷毫无拘束的风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3915225)<br><br>2012-04-18 23:44<br>赞(0) 踩(0) | <div>好声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/979466)<br><br>2012-03-17 22:36<br>赞(0) 踩(0) | <div>真不错，谁知道有没有其他类似朋友的酒这种歌？比如，我的好兄弟，永不言败，相信自己，这样的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/979466)<br><br>2012-03-17 22:36<br>赞(0) 踩(0) | <div>真不错，谁知道有没有其他类似朋友的酒这种歌？<br>比如，我的好兄弟，永不言败，相信自己，这样的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7931961)<br><br>2012-03-11 20:03<br>赞(0) 踩(0) | <div>好聽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8289182)<br><br>2012-03-04 14:59<br>赞(0) 踩(0) | <div>真好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6652575)<br>mbz2006<br>2011-12-13 01:11<br>赞(0) 踩(0) | <div>ok</div> |

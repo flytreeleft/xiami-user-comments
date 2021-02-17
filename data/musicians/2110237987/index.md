@@ -3,7 +3,7 @@ Layton Wu
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8f4931c358e11af3a2095749e2a51266.png)<br>Layton Wu](https://i.xiami.com/laytonwoohbill) | **播放数**: 2285260<br>**粉丝数**: 689<br>**评论数**: 27<br>**地区**: 美国 United States of America<br>**风格**: 卧室流行 Bedroom Pop, 独立流行 Indie Pop, 柔顺灵魂乐 Smooth Soul<br> |
+| [![](../../images/musicians/8f4931c358e11af3a2095749e2a51266.png)<br>Layton Wu](https://i.xiami.com/laytonwoohbill) | **地区**: 美国 United States of America<br>**风格**: 卧室流行 Bedroom Pop, 独立流行 Indie Pop, 柔顺灵魂乐 Smooth Soul<br>**播放数**: 2285260<br>**粉丝数**: 689<br>**评论数**: 27<br> |
 
 ## 档案
 
@@ -28,8 +28,8 @@ Layton 雷頓狗
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1109634)<br><br>2021-01-05 10:32<br>赞(0) 踩(0) | <div>真好听 气氛有了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3089567)<br>instagram、網易...<br>2020-12-30 15:20<br>赞(0) 踩(0) | <div>ｅｒｒｏｒ.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155115)<br>我还没想好要写什么...<br>2020-11-26 00:28<br>赞(0) 踩(0) | <div>喜欢你</div> |

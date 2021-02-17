@@ -38,18 +38,18 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7305096)<br>没事听着玩儿~~<br>2020-12-26 16:17<br>赞(1) 踩(0) | <div>这稳得没有丝毫烟火气的气息到底是咋练出来的，只能用天分能解释么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250714390)<br><br>2020-12-15 07:57<br>赞(1) 踩(0) | <div>邓丽君之后，最喜欢的一版了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260102619)<br><br>2020-11-21 07:18<br>赞(0) 踩(0) | <div>好像邓丽君的声音，感觉也好像</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336848854)<br><br>2020-11-14 21:48<br>赞(0) 踩(0) | <div>衣裳chang，拂槛jian。。。能不能严谨一点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1423363)<br><br>2020-10-20 14:43<br>赞(0) 踩(0) | <div>老天赏饭。天生歌伶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2020-10-07 14:54<br>赞(2) 踩(0) | <div>我的世界  一片光明   充满奇迹  无限爱你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423499985)<br>南宫珞音是虾米唯一帐号请...<br>2020-10-03 12:20<br>赞(18) 踩(0) | <div>宝藏男孩肯定是清流，同一首歌从他口中唱出韵意词都清新自然 <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/6dcade93a9728bd629c90733016bc0e8.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423499985)<br>南宫珞音是虾米唯一帐号请...<br>2020-10-03 12:20<br>赞(18) 踩(0) | <div>宝藏男孩肯定是清流，同一首歌从他口中唱出<br>韵意词都清新自然 <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/6dcade93a9728bd629c90733016bc0e8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2020-09-19 08:34<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325117408)<br>这是一位热爱物理的高冷话...<br>2020-09-17 18:32<br>赞(0) 踩(0) | <div>太好听了呜呜呜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335650155)<br>听歌  望星空  是一件...<br>2020-08-24 08:21<br>赞(0) 踩(0) | <div>唱得别有一番韵味！刚开始听的是邓丽君和王菲的版本，再听周深的时候，一下子懵了，&amp;ldquo;槛&amp;rdquo;字在此首歌曲中是不是唱错了？如果是，请歌手尽快换掉，以免受到影响！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335650155)<br>听歌  望星空  是一件...<br>2020-08-24 08:21<br>赞(0) 踩(0) | <div>唱得别有一番韵味！<br>刚开始听的是邓丽君和王菲的版本，再听周深的时候，一下子懵了，&amp;ldquo;槛&amp;rdquo;字在此首歌曲中是不是唱错了？如果是，请歌手尽快换掉，以免受到影响！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279076525)<br> <br>2020-06-20 21:08<br>赞(1) 踩(0) | <div>周深加油！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272082139)<br><br>2020-05-25 12:32<br>赞(0) 踩(0) | <div>虽然年代感差一点，但是模仿能力已经很厉害了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3182362)<br><br>2020-05-21 23:11<br>赞(2) 踩(0) | <div>一直迷周深唱的这首《清平调》后来发现陈佳唱的，也是很美很美</div> |
@@ -59,7 +59,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121180714)<br><br>2020-04-23 12:11<br>赞(1) 踩(0) | <div>不吹不黑，清平调还是邓丽君唱的最有韵味。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21431268)<br><br>2020-03-22 10:36<br>赞(0) 踩(0) | <div>这首歌真是悲伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196617385)<br>twenty-six<br>2020-03-20 20:04<br>赞(0) 踩(0) | <div>温温柔柔深深 他也是可遇不可求的声音 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365307058)<br><br>2020-02-22 18:10<br>赞(0) 踩(0) | <div>高中时特别喜欢邓丽君王菲的版本深深也好听呢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365307058)<br><br>2020-02-22 18:10<br>赞(0) 踩(0) | <div>高中时特别喜欢邓丽君王菲的版本<br>深深也好听呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248764620)<br><br>2020-01-25 02:41<br>赞(0) 踩(0) | <div>男唱女调始终接受不了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374565503)<br><br>2020-02-26 13:02<br>赞(0) 踩(0) | <div>好听就完事儿了管这么多干嘛，降央卓玛还是老艺术家呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356070032)<br><br>2020-01-22 18:27<br>赞(1) 踩(0) | <div>春风拂槛jian.</div> |
@@ -73,16 +73,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100122976)<br>我还没想好要写什么...<br>2019-08-26 17:30<br>赞(1) 踩(0) | <div>比不上邓丽君和王菲。邓的声音比他圆润自然，王的声音比他冷清自然。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428605492)<br><br>2019-08-13 21:54<br>赞(0) 踩(0) | <div>可以啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377562895)<br><br>2019-08-06 12:49<br>赞(0) 踩(0) | <div>周深的声音太美</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191428071)<br><br>2019-08-05 19:39<br>赞(3) 踩(0) | <div>裳chang二声槛jian四声但是声音超棒!!!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191428071)<br><br>2019-08-05 19:39<br>赞(3) 踩(0) | <div>裳chang二声<br>槛jian四声<br>但是声音超棒!!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336702251)<br><br>2019-07-27 10:52<br>赞(0) 踩(0) | <div>周深的声线独特，哪怕和声也比主唱入咪，这就是天生唱歌吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260178265)<br><br>2019-07-27 00:14<br>赞(0) 踩(0) | <div>打卡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316261284)<br>到最后……<br>2019-07-24 07:52<br>赞(26) 踩(0) | <div>清平调三首李白其一云想衣裳花想容，春风拂槛露华浓。若非群玉山头见，会向瑶台月下逢。其二一枝红艳露凝香，云雨巫山枉断肠。借问汉宫谁得似，可怜飞燕倚新妆。其三名花倾国两相欢，长得君王带笑看。解释春风无限恨，沉香亭北倚阑干。被翻唱的古典诗词还有一些，中国古典诗词在音乐方面的价值有待发掘。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316261284)<br>到最后……<br>2019-07-24 07:50<br>赞(4) 踩(0) | <div>清平调，词牌名，又名“清平调辞”“清平词”“清平调引”“清平辞”等。定格为李白词《清平调词三首》，单调二十八字，四句三平韵。据晚唐五代人的记载，唐玄宗天宝二年（743年）或天宝三年（744年）春天的一日，唐玄宗和杨妃在宫中在沉香亭观赏牡丹花，伶人们正准备表演歌舞以助兴。唐玄宗却说：“赏名花，对妃子，岂可用旧日乐词。”因急召翰林待诏李白进宫写新乐章。李白进宫，半醉半醒间在金花笺上作了三首诗。然后选用了情调和平调，由梨园弟子伴奏，李龟年（歧王宅里寻常见，崔九堂前几度闻。正是江南好风景，落花时节又逢君）演唱。这便是清平调的出处。王菲和好妹妹乐队也都唱过。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316261284)<br>到最后……<br>2019-07-24 07:52<br>赞(26) 踩(0) | <div>清平调三首<br><br>李白<br><br>其一<br><br>云想衣裳花想容，春风拂槛露华浓。<br><br>若非群玉山头见，会向瑶台月下逢。<br><br>其二<br><br>一枝红艳露凝香，云雨巫山枉断肠。<br><br>借问汉宫谁得似，可怜飞燕倚新妆。<br><br>其三<br><br>名花倾国两相欢，长得君王带笑看。<br><br>解释春风无限恨，沉香亭北倚阑干。<br><br><br>被翻唱的古典诗词还有一些，中国古典诗词在音乐方面的价值有待发掘。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316261284)<br>到最后……<br>2019-07-24 07:50<br>赞(4) 踩(0) | <div>清平调，词牌名，又名“清平调辞”“清平词”“清平调引”“清平辞”等。定格为李白词《清平调词三首》，单调二十八字，四句三平韵。<br><br>据晚唐五代人的记载，唐玄宗天宝二年（743年）或天宝三年（744年）春天的一日，唐玄宗和杨妃在宫中在沉香亭观赏牡丹花，伶人们正准备表演歌舞以助兴。唐玄宗却说：“赏名花，对妃子，岂可用旧日乐词。”因急召翰林待诏李白进宫写新乐章。李白进宫，半醉半醒间在金花笺上作了三首诗。然后选用了情调和平调，由梨园弟子伴奏，李龟年（歧王宅里寻常见，崔九堂前几度闻。正是江南好风景，落花时节又逢君）演唱。<br>这便是清平调的出处。<br><br>王菲和好妹妹乐队也都唱过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330030460)<br><br>2019-05-20 21:55<br>赞(0) 踩(0) | <div>人生得意须尽欢，莫使金樽空对月</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14167661)<br>我还没想好要写什么...<br>2019-05-15 22:36<br>赞(0) 踩(0) | <div>错别字啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344018512)<br>我还没想好要写什么...<br>2019-05-12 10:47<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412170444)<br><br>2019-05-01 16:54<br>赞(1) 踩(0) | <div>真想问问李白槛到的怎么读</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16951758)<br>清晓光如珠，池苑舞姣龙，...<br>2019-04-27 08:29<br>赞(0) 踩(0) | <div>一语成畿，绝响继任，古有纱帽照婵娟，今遇侠骨存柔情。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16951758)<br>清晓光如珠，池苑舞姣龙，...<br>2019-04-27 08:29<br>赞(0) 踩(0) | <div>一语成畿，绝响继任，<br>古有纱帽照婵娟，今遇侠骨存柔情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219353585)<br>你就不要想起我。<br>2019-04-22 23:27<br>赞(4) 踩(0) | <div>李白要是能听到这首歌该有多好啊……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348620311)<br>没有故乡<br>2019-04-08 23:14<br>赞(0) 踩(0) | <div>这也是缘，男生女声。 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348620311)<br>没有故乡<br>2019-04-08 23:13<br>赞(0) 踩(0) | <div>这也是缘，男生女声。 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -126,7 +126,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296088542)<br><br>2019-07-18 21:51<br>赞(0) 踩(0) | <div>邓丽君唱的是kan</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348620311)<br>没有故乡<br>2019-11-07 13:09<br>赞(0) 踩(0) | <div>云啊想做她的衣裳花儿欲为她美容，春风思沐她的芳香尤如带露含娇的牡丹。如果她不是我在天山见过的白玉雪，定是仙宫有缘相缝。……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296979816)<br>我还没想好要写什么...<br>2020-08-23 13:07<br>赞(0) 踩(0) | <div>坎！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326083814)<br>你见,或者不见我,我就在...<br>2018-08-14 11:03<br>赞(3) 踩(0) | <div>云想衣裳花想容春风拂槛露华浓</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326083814)<br>你见,或者不见我,我就在...<br>2018-08-14 11:03<br>赞(3) 踩(0) | <div>云想衣裳花想容<br>春风拂槛露华浓</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233113502)<br> <br>2018-08-14 10:45<br>赞(2) 踩(0) | <div>听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324861256)<br><br>2018-08-04 21:37<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358774665)<br> <br>2018-07-07 22:44<br>赞(2) 踩(0) | <div>槛 见。唱错了 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
@@ -151,7 +151,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274560000)<br><br>2020-06-05 17:57<br>赞(0) 踩(0) | <div>kan</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26858660)<br> 我这一生，帮得了别人无...<br>2018-03-28 00:39<br>赞(3) 踩(0) | <div>妖猫传</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277338800)<br><br>2018-03-27 01:06<br>赞(1) 踩(0) | <div>天籁之音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348984131)<br><br>2018-03-25 09:37<br>赞(1) 踩(0) | <div>沉香亭北倚阑干解释春风无限恨沉香亭北倚阑干</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348984131)<br><br>2018-03-25 09:37<br>赞(1) 踩(0) | <div>沉香亭北倚阑干<br>解释春风无限恨<br>沉香亭北倚阑干</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340535724)<br>我还没想好要写什么...<br>2018-03-04 08:21<br>赞(4) 踩(0) | <div>毫无感觉的一个版本，可能他根本不懂这首歌的含义，唱的也很一般。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257986641)<br>过往，已成了MV……<br>2018-02-24 13:21<br>赞(1) 踩(0) | <div>气息还欠了一点点，已经很有feel了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85011270)<br>温和从容，岁月静好。<br>2018-02-13 15:26<br>赞(2) 踩(0) | <div>春风拂槛露华浓，是读jian好吗？受不了读错洗脑。</div> |
@@ -160,7 +160,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177069290)<br><br>2018-01-28 08:39<br>赞(2) 踩(0) | <div>醉了醉了，一出口就醉了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21788548)<br>暂无签名~<br>2018-01-18 11:17<br>赞(5) 踩(0) | <div>最好听的版本声音 没有之一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340387975)<br> <br>2018-01-02 11:31<br>赞(1) 踩(0) | <div>175.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318478251)<br>我还没想好要写什么...<br>2017-12-25 14:18<br>赞(4) 踩(0) | <div>清平调云想衣裳花想容，春风拂槛露华浓。若非群玉山头见，会向瑶台月下逢。一枝红艳露凝香，云雨巫山枉断肠。借问汉宫谁得似？可怜飞燕倚新妆。名花倾国两相欢，长得君王带笑看。解释春风无限恨，沉香亭北倚阑干。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318478251)<br>我还没想好要写什么...<br>2017-12-25 14:18<br>赞(4) 踩(0) | <div>清平调<br>云想衣裳花想容，春风拂槛露华浓。<br>若非群玉山头见，会向瑶台月下逢。<br>一枝红艳露凝香，云雨巫山枉断肠。<br>借问汉宫谁得似？可怜飞燕倚新妆。<br>名花倾国两相欢，长得君王带笑看。<br>解释春风无限恨，沉香亭北倚阑干。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334796627)<br>限制我想象力的音乐都不是...<br>2017-12-22 08:54<br>赞(2) 踩(0) | <div>被彻底圈粉&amp;hellip;被征服&amp;hellip; <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253220081)<br><br>2017-12-12 16:08<br>赞(5) 踩(0) | <div>扶jian扶jian扶jian！艺人的文化知识真是太有待提高了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45360887)<br><br>2017-12-08 21:58<br>赞(5) 踩(0) | <div>王菲版本的好像把若非群玉山头见（xian）唱成了山头见（jian）</div> |
@@ -254,13 +254,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57418068)<br>不如欢欢喜喜<br>2015-08-24 21:35<br>赞(58) 踩(0) | <div>单曲循环了一夜。个人觉得比王菲和邓丽君的都好，虽然我爱了王菲近廿年，还是被这枚男子的声音打动</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6070844)<br><br>2015-09-24 04:59<br>赞(0) 踩(0) | <div>去听了邓丽君和王菲版的，还真没有周深唱的好听，高音和转音美，表现力和感染力强，这还是他自己用小破麦录的，和录音棚音效不能比呀…</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52384086)<br>秋天别来<br>2016-02-01 10:58<br>赞(0) 踩(0) | <div><q><b>菲亚cindy说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128815522)<br><br>2019-02-26 11:37<br>赞(0) 踩(0) | <div>他唱的是很好，但王菲和邓丽君的感情+细节还是高了很多个档次。并且邓丽君几十年前的demo，条件比现在k歌软件还差。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30845535)<br><br>2020-10-09 01:38<br>赞(0) 踩(0) | <div>被周深的声音征服＋1我喜欢王菲12年了，周深打破了我对王菲的情有独钟，真是不可思议 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128815522)<br><br>2019-02-26 11:37<br>赞(0) 踩(0) | <div>他唱的是很好，但王菲和邓丽君的感情+细节还是高了很多个档次。<br>并且邓丽君几十年前的demo，条件比现在k歌软件还差。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30845535)<br><br>2020-10-09 01:38<br>赞(0) 踩(0) | <div>被周深的声音征服＋1<br>我喜欢王菲12年了，周深打破了我对王菲的情有独钟，真是不可思议 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43352430)<br>So close, so...<br>2015-08-17 18:17<br>赞(1) 踩(0) | <div>大致可以翻译成“如果不是在群玉山中见到，也只应该在瑶台仙境碰上”。读xian的话有些不知所谓，太过牵强了。以上纯属个人看法，认为应该读xian的朋友不必回我了~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7464682)<br><br>2015-11-12 21:01<br>赞(0) 踩(0) | <div>不是你看见，而是她被看见，即显现，现身之意。这是主客体之辨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43352430)<br>So close, so...<br>2015-08-17 18:17<br>赞(0) 踩(0) | <div>大致可以翻译成“如果不是在群玉山中见到，也只应该在瑶台仙境碰上”。读xian的话有些不知所谓，太过牵强了。以上纯属个人看法，认为应该读xian的朋友不必回我了~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89514572)<br><br>2015-12-23 19:25<br>赞(0) 踩(0) | <div>古代诗词和文章里那个字就是读xian，没有为什么</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4707631)<br>好歌伴我行，音乐无国界。<br>2015-08-16 16:28<br>赞(0) 踩(0) | <div>云想衣裳花想容春风拂槛露华浓若非群玉山头见会向瑶台月下逢一枝红艳露凝香云雨巫山枉断肠借问汉宫谁得似可怜飞燕倚新妆........——李白“清平调”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4707631)<br>好歌伴我行，音乐无国界。<br>2015-08-16 16:28<br>赞(0) 踩(0) | <div>云想衣裳花想容<br>春风拂槛露华浓<br>若非群玉山头见<br>会向瑶台月下逢<br><br>一枝红艳露凝香<br>云雨巫山枉断肠<br>借问汉宫谁得似<br>可怜飞燕倚新妆<br><br>........<br><br>——李白“清平调”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55332631)<br><br>2015-08-16 00:43<br>赞(2) 踩(0) | <div>有这样声线的人，是怎样的，想知道更多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55332631)<br><br>2015-08-16 00:43<br>赞(0) 踩(0) | <div>有这样声线的人，是怎样的，想知道更多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35740199)<br>我还是不懂。<br>2015-08-15 22:01<br>赞(0) 踩(0) | <div>好吧，错字了。更喜欢好妹妹版的。</div> |
@@ -286,7 +286,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335981286)<br><br>2020-07-11 22:57<br>赞(0) 踩(0) | <div><q><b>Mr.Contini说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47894774)<br>like music l...<br>2015-08-10 01:03<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47894774)<br>like music l...<br>2015-08-10 01:03<br>赞(11) 踩(0) | <div>周深真的不是一般的有才特别，听着让我不断感叹，又仿佛听见邓丽君的声音，不得不佩服，真的！但我并不希望你太红，因为这样的你才会更加的像自己！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40776502)<br>继续宠爱/不整理别人翻唱...<br>2015-08-06 12:56<br>赞(0) 踩(0) | <div>云想衣裳花想荣，春风危楼雾云重。若非快绿怡红见，会向蓬莱山涧逢。一枝月下华成霜，涓涌流水当琳琅。借问看杀谁得似，可怜叔宝作安康。名花倾城不为欢，长得浮生解愁怨。化去人情平宿恨，留得清泪意阑珊。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40776502)<br>继续宠爱/不整理别人翻唱...<br>2015-08-06 12:56<br>赞(0) 踩(0) | <div>云想衣裳花想荣，春风危楼雾云重。<br>若非快绿怡红见，会向蓬莱山涧逢。<br>一枝月下华成霜，涓涌流水当琳琅。<br>借问看杀谁得似，可怜叔宝作安康。<br>名花倾城不为欢，长得浮生解愁怨。<br>化去人情平宿恨，留得清泪意阑珊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6348847)<br><br>2015-07-22 22:41<br>赞(8) 踩(0) | <div>卡布叻周深的中音区着实美，分享是美德</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19885645)<br><br>2015-07-22 15:16<br>赞(1) 踩(0) | <div>声音很棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2236510)<br> <br>2015-07-22 08:08<br>赞(0) 踩(0) | <div>反串？？？</div> |

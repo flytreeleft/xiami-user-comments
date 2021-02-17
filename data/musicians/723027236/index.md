@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ba82755e49c648609fe497d493fdfdd1.jpg)<br>贺鑫](https://i.xiami.com/hx924) | **播放数**: 1586905<br>**粉丝数**: 171<br>**评论数**: 12<br>**地区**: China 中国大陆<br>**风格**: 根源唱作人 Singer-Songwriter, 管弦乐 Orchestral, 国语流行 Mandarin Pop, 中国风 China-Wave<br> |
+| [![](../../images/musicians/ba82755e49c648609fe497d493fdfdd1.jpg)<br>贺鑫](https://i.xiami.com/hx924) | **地区**: China 中国大陆<br>**风格**: 根源唱作人 Singer-Songwriter, 管弦乐 Orchestral, 国语流行 Mandarin Pop, 中国风 China-Wave<br>**播放数**: 1586905<br>**粉丝数**: 171<br>**评论数**: 12<br> |
 
 ## 档案
 
@@ -22,8 +22,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427014969)<br><br>2019-07-08 14:14<br>赞(1) 踩(0) | <div>是翻唱还是直接上传？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16341867)<br><br>2020-12-29 15:44<br>赞(0) 踩(0) | <div>是我写的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376818417)<br><br>2019-05-20 20:22<br>赞(1) 踩(0) | <div>大神能不能上传你的山河勿念</div> |

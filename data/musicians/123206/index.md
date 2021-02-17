@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0886192f695a4c59d3a87c6c2af79470.jpg)<br>方磊](https://i.xiami.com/sankuaishi) | **播放数**: 5039911<br>**粉丝数**: 1087<br>**评论数**: 45<br>**地区**: China 中国大陆<br>**风格**: 说唱<br> |
+| [![](../../images/musicians/0886192f695a4c59d3a87c6c2af79470.jpg)<br>方磊](https://i.xiami.com/sankuaishi) | **地区**: China 中国大陆<br>**风格**: 说唱<br>**播放数**: 5039911<br>**粉丝数**: 1087<br>**评论数**: 45<br> |
 
 ## 档案
 
@@ -33,8 +33,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369960409)<br>H.O.T.5你好！20...<br>2019-11-27 11:46<br>赞(0) 踩(0) | <div>原来《依兰爱情故事》的方磊就是2000年左右东北说唱先去之一的三块石吗？！厉害了，我全喜欢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339478917)<br>焦虑的大叔<br>2019-03-14 15:59<br>赞(2) 踩(0) | <div>很好听的小调，听多了流行歌曲，再听听这种地方特色的小曲也是有滋有味。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288609)<br>音乐让人痴迷。<br>2019-01-20 20:38<br>赞(1) 踩(0) | <div>你好很喜欢你的歌，在哪里可以买到你的专辑？</div> |

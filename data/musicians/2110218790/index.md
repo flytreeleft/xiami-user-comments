@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5f262cf755e48253428e741c802f08ff.jpg)<br>默言](https://i.xiami.com/moyan) | **播放数**: 2289804<br>**粉丝数**: 68<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 流行舞曲 Dance-Pop<br> |
+| [![](../../images/musicians/5f262cf755e48253428e741c802f08ff.jpg)<br>默言](https://i.xiami.com/moyan) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 流行舞曲 Dance-Pop<br>**播放数**: 2289804<br>**粉丝数**: 68<br>**评论数**: 6<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -38,8 +35,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439353586)<br><br>2020-02-16 17:30<br>赞(1) 踩(0) | <div>好！好！好！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319540888)<br><br>2019-08-19 09:14<br>赞(1) 踩(0) | <div>关注，好听，支持好声音。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271169707)<br>找个爱人的啊<br>2018-02-22 08:14<br>赞(1) 踩(0) | <div>好听你好棒哒好声音</div> |

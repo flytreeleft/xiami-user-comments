@@ -61,21 +61,21 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/172770508)<br>ohh<br>2021-02-05 00:09<br>赞(0) 踩(0) | <div>离开是为了回来。再见。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186681492)<br>也会有累的时候。对不起啦...<br>2019-11-07 14:28<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86925688)<br>人的内心多孤独 光从外表...<br>2019-07-18 22:13<br>赞(0) 踩(0) | <div>个人唯一认真反复听完的林一峰专辑 也是最喜欢的 后来他别的碟没有给到我这种感觉了 可能个人心态变了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10936044)<br><br>2019-06-16 11:19<br>赞(1) 踩(0) | <div>昨天live临结束竟然唱了这首歌，好感动，谢谢一峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7023)<br>长期缓慢持续收藏林一峰演...<br>2018-11-27 06:47<br>赞(1) 踩(0) | <div>2018年11月mark，听到这一版编曲的现场，thx Chet, and Anjoleung!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/148610626)<br><br>2018-03-21 23:32<br>赞(1) 踩(0) | <div>我离别你全为太专心爱怕忘掉了世间的色彩离开是为了回来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/148610626)<br><br>2018-03-21 23:32<br>赞(1) 踩(0) | <div>我离别你全为太专心爱<br>怕忘掉了世间的色彩<br>离开是为了回来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272964437)<br> <br>2017-05-29 16:37<br>赞(0) 踩(0) | <div>这一版的编曲比现场的好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10226562)<br>暂无签名~<br>2017-01-02 13:10<br>赞(1) 踩(0) | <div>分别是为更好地相伴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18176611)<br> <br>2015-12-18 23:42<br>赞(1) 踩(0) | <div>很早以前，喜欢这首歌，天哪，只是因为名字。多年过去了，还是喜欢，只是变成“离开了，不再是为了回来。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109377)<br><br>2015-07-09 01:58<br>赞(0) 踩(0) | <div>其實我還想去那家曾經喜歡的咖啡店坐坐，吃這里最好吃的龍蝦，跟兩位充滿回憶的朋友打邊爐，聽聽這首歌，雖然無法遠行但以後應該會想起這些。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35938399)<br>我愿做阳光，照进你的心里<br>2014-10-11 15:43<br>赞(0) 踩(0) | <div>开头音乐一响起就抓住了我的耳朵，很温暖的一首歌，离别是为了更美好的相遇！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28012841)<br><br>2014-09-21 19:12<br>赞(0) 踩(0) | <div>大爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2172125)<br>我还没想好如何道别<br>2014-08-22 22:38<br>赞(0) 踩(0) | <div>如果离开是为了回来，这是旅行的意义吗？离开，对于我来说，是为了重新开始…是为了一个更精彩的旅程的开幕…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2172125)<br>我还没想好如何道别<br>2014-08-22 22:38<br>赞(0) 踩(0) | <div>如果离开是为了回来，这是旅行的意义吗？<br>离开，对于我来说，是为了重新开始…是为了一个更精彩的旅程的开幕…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100052)<br>公号vophoenix<br>2014-08-17 18:03<br>赞(1) 踩(0) | <div>巧合的是，一峰在他的《游乐》前言中也表示，原本想把这张专辑取名为“Escape”，但似乎太过负面了，才改作现在这个名字。我们都希望通过旅行去经历一些东西，放下一些东西，目的地不重要，重要的是过程。旅途不会白走，生命不会白过。来和去之间，就是旅行的意义。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322716)<br><br>2014-04-04 03:41<br>赞(1) 踩(0) | <div>還是早期的作品好聽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7386753)<br><br>2013-10-19 12:36<br>赞(0) 踩(0) | <div>行程未想好 起点经已太远</div> |

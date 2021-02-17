@@ -39,8 +39,8 @@ sweety sweety <br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11386305)<br>我还没想好要写什么...<br>2021-02-04 21:25<br>赞(0) 踩(0) | <div>再见。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313261714)<br><br>2020-09-22 09:14<br>赞(0) 踩(0) | <div>绝对有深度</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/707775)<br>艺术散户 乘风破浪的傻大...<br>2020-07-07 09:57<br>赞(0) 踩(0) | <div>喝 原来gala还有这能耐</div> |
@@ -68,7 +68,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10015)<br>反正最后每个人都孤独。<br>2019-05-18 23:08<br>赞(0) 踩(0) | <div>尼玛又给我放这首大黄歌！但我就是爱gala爱朵朵啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244763250)<br><br>2019-04-08 20:36<br>赞(0) 踩(0) | <div>怎么感觉这歌词听着听着就变味了？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3143491)<br>根本停不下来<br>2019-03-22 01:16<br>赞(0) 踩(0) | <div>我好了， 你呢？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17483650)<br>我还没想好要写什么...<br>2019-03-05 15:40<br>赞(1) 踩(0) | <div>以前他唱给我听的那刻应该并不孤独现在我不能唱给他听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17483650)<br>我还没想好要写什么...<br>2019-03-05 15:40<br>赞(1) 踩(0) | <div>以前他唱给我听的那刻应该并不孤独<br>现在我不能唱给他听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239486549)<br>黑夜给了我黑色的眼睛我却...<br>2019-02-17 14:04<br>赞(1) 踩(0) | <div>日常冒泡支持日常</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404280775)<br>不力<br>2019-01-07 03:09<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44080947)<br>做自己 做明白就不错了<br>2019-01-06 07:39<br>赞(2) 踩(0) | <div>封面到底是不是沈腾哈哈哈</div> |
@@ -92,7 +92,7 @@ sweety sweety <br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299202320)<br><br>2019-03-26 12:37<br>赞(0) 踩(0) | <div><q><b>但愿有重逢说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299202320)<br><br>2019-03-26 12:41<br>赞(0) 踩(0) | <div><q><b>但愿有重逢说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269173179)<br>我不愿让你一个人<br>2018-05-31 13:16<br>赞(0) 踩(0) | <div>我听这么中二的歌曲，难怪找不着女朋友&amp;hellip;&amp;hellip;手动捂脸 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355442867)<br><br>2018-05-31 07:40<br>赞(1) 踩(0) | <div>为了找到你我想住进鸟的眼睛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355442867)<br><br>2018-05-31 07:40<br>赞(1) 踩(0) | <div>为了找到你<br>我想住进鸟的眼睛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36938932)<br>倒霉的小伙子比洞還潮濕的...<br>2018-05-29 21:55<br>赞(1) 踩(0) | <div>詞曲略飞 感情略真</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358266144)<br>要吃有吃要喝有喝<br>2018-05-16 19:02<br>赞(3) 踩(0) | <div>我太想你了  一眨眼就想你  一呼吸就想你  我认为这不是我的错  也不是你的错  我猜这一定是光线的问题  一定是空气的问题   不是你不爱我   不是我离开你   不是不是</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281646374)<br> <br>2018-05-10 01:06<br>赞(0) 踩(0) | <div>你又何尝不是我心里的一片蓝天&amp;mdash;&amp;mdash;一位正在异国他乡学飞行的飞行学员</div> |
@@ -152,7 +152,7 @@ sweety sweety <br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119960292)<br>若你喜欢怪人 其实我很美<br>2017-08-06 00:37<br>赞(0) 踩(0) | <div>我也是那一年夏天听到的这首歌 那时候发生了好多事情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73542066)<br><br>2017-07-26 17:23<br>赞(0) 踩(0) | <div>多少单身男生的生活，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17885590)<br> <br>2017-07-24 20:30<br>赞(0) 踩(0) | <div>看完评论发觉歌词不忍直视</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271426342)<br><br>2017-07-18 14:27<br>赞(1) 踩(0) | <div>啊～啊～～啊   啊～啊～～啊我一定穷尽所以力气在世界末日之前你是我的唯一</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271426342)<br><br>2017-07-18 14:27<br>赞(1) 踩(0) | <div>啊～啊～～啊   啊～啊～～啊<br>我一定穷尽所以力气<br>在世界末日之前你是我的唯一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287547353)<br><br>2017-06-29 21:22<br>赞(0) 踩(0) | <div>孤独的自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250848529)<br><br>2017-06-14 13:53<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303947910)<br><br>2017-06-13 01:32<br>赞(0) 踩(0) | <div>好喜欢最后的嘶吼</div> |
@@ -164,7 +164,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298147297)<br> <br>2017-05-22 12:02<br>赞(4) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36938932)<br>倒霉的小伙子比洞還潮濕的...<br>2017-07-11 02:42<br>赞(0) 踩(0) | <div>可以的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287277542)<br><br>2017-05-17 21:14<br>赞(0) 踩(0) | <div>6</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47804253)<br>嘿，不要不开心。<br>2017-05-11 11:30<br>赞(0) 踩(0) | <div>地对空导弹准备发射想起你说 别着急别急亲爱的=============不好意思 我下流了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47804253)<br>嘿，不要不开心。<br>2017-05-11 11:30<br>赞(0) 踩(0) | <div>地对空导弹准备发射<br>想起你说 别着急<br>别急亲爱的<br>=============<br>不好意思 我下流了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273679056)<br>美好总是需要距离保持<br>2017-05-08 19:51<br>赞(0) 踩(0) | <div>苏朵，以梦为马，加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2794138)<br><br>2017-04-27 16:51<br>赞(0) 踩(0) | <div>封面是沈腾么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24842401)<br><br>2017-04-20 11:13<br>赞(0) 踩(0) | <div>420</div> |
@@ -189,7 +189,7 @@ sweety sweety <br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241863792)<br><br>2017-04-10 13:07<br>赞(0) 踩(0) | <div>我觉得一首好歌不一定就要非得有深度。 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283483635)<br><br>2017-06-29 15:53<br>赞(0) 踩(0) | <div><q><b>紙飛机说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3439697)<br>都可以也都不可以<br>2016-12-09 07:33<br>赞(0) 踩(0) | <div>我看看</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186955530)<br><br>2016-08-28 09:00<br>赞(42) 踩(0) | <div>调整方向，对准那些堆满田野的稻草和南瓜，最后一次拉动摇杆吧。我试图拉开护目镜擦拭，好让我能最后看她一次。我，伊格勒，是个最烂的飞行员，但是在无数孤独的夜里，我也渴望蓝天，渴望，和她一起的蓝天，这一次，是我，带她触及梦想！让我再哼起那首“飞行员之歌”吧，“Sweety，Sweety，我依然穷尽所有力气坚持到底~ Sweety，Sweety，在世界末日之前你是我的唯一”。让我驾驶着飞行器，坠入田野中，让爆炸的花火完美这个狂欢的节日，安苏，我希望，我就是那梦想的飞行员……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186955530)<br><br>2016-08-28 09:00<br>赞(42) 踩(0) | <div>调整方向，对准那些堆满田野的稻草和南瓜，最后一次拉动摇杆吧。我试图拉开护目镜擦拭，好让我能最后看她一次。我，伊格勒，是个最烂的飞行员，但是在无数孤独的夜里，我也渴望蓝天，渴望，和她一起的蓝天，这一次，是我，带她触及梦想！<br><br>让我再哼起那首“飞行员之歌”吧，“Sweety，Sweety，我依然穷尽所有力气坚持到底~ Sweety，Sweety，在世界末日之前你是我的唯一”。让我驾驶着飞行器，坠入田野中，让爆炸的花火完美这个狂欢的节日，安苏，我希望，我就是那梦想的飞行员……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18075628)<br>小人物<br>2016-10-16 02:07<br>赞(0) 踩(0) | <div>求原著</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33083647)<br>more game<br>2017-12-09 18:29<br>赞(0) 踩(0) | <div>谢谢</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285605361)<br>Less is more...<br>2018-01-20 11:55<br>赞(0) 踩(0) | <div><q><b>九级分化说：</b></q></div> |
@@ -274,7 +274,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33834465)<br>:)<br>2015-10-18 14:02<br>赞(0) 踩(0) | <div>意味深长的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51524850)<br>我啊对刷牙有无限喜爱<br>2015-10-16 23:00<br>赞(0) 踩(0) | <div>一本正经的胡说八道来着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48988465)<br>虾米的音乐喜欢赶紧下了，...<br>2015-10-14 21:15<br>赞(1) 踩(0) | <div>看了评论觉得逼格被满天飞舞的生命力震惊了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30983284)<br>会有一个绚烂的人    ...<br>2015-10-06 19:27<br>赞(0) 踩(0) | <div>孤独的飞行员孤独地制造 地对空导弹→_→</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30983284)<br>会有一个绚烂的人    ...<br>2015-10-06 19:27<br>赞(0) 踩(0) | <div>孤独的飞行员<br>孤独地制造 地对空导弹<br>→_→</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49848128)<br> <br>2015-10-05 06:32<br>赞(0) 踩(0) | <div>打飞机之歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9725973)<br> <br>2015-10-04 15:02<br>赞(1) 踩(0) | <div>我是孤独的飞行员，孤独的制造地对空导弹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57271694)<br>我在想我怎么这么牛逼呢 ...<br>2015-10-04 00:27<br>赞(2) 踩(0) | <div>越听越觉得不对劲 ...</div> |
@@ -319,7 +319,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4120234)<br>暂无签名~<br>2015-06-10 22:18<br>赞(0) 踩(0) | <div>sweety我一定用尽力气坚持到底</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16049964)<br>我还没想好要写什么...<br>2015-06-08 18:56<br>赞(0) 踩(0) | <div>寂静的盘旋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14711021)<br>公众号:Sam小瓜<br>2015-06-04 09:09<br>赞(0) 踩(0) | <div>编曲好英伦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2298915)<br><br>2015-05-24 23:24<br>赞(0) 踩(0) | <div>我是孤独的飞行员孤独地制造地对空导弹</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2298915)<br><br>2015-05-24 23:24<br>赞(0) 踩(0) | <div>我是孤独的飞行员<br>孤独地制造地对空导弹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48652633)<br>。<br>2015-05-22 16:07<br>赞(0) 踩(0) | <div>这该是有多孤独啊 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7825096)<br>好好看好好学<br>2015-05-07 23:47<br>赞(3) 踩(0) | <div>每次都为4分钟那两句呐喊。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8136029)<br><br>2015-06-20 23:14<br>赞(0) 踩(0) | <div>我也是！</div> |
@@ -387,11 +387,11 @@ sweety sweety <br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321127514)<br><br>2018-11-12 12:57<br>赞(0) 踩(0) | <div>呵呵</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321127514)<br><br>2019-02-20 02:25<br>赞(0) 踩(0) | <div>算了吧，他们懂这首歌吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5697315)<br>◆◇<br>2015-03-28 23:04<br>赞(1) 踩(0) | <div>低空飞行。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45752989)<br> <br>2015-03-26 22:39<br>赞(0) 踩(0) | <div>一个人在夜晚飞。好孤独</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45752989)<br> <br>2015-03-26 22:39<br>赞(0) 踩(0) | <div>一个人在夜晚飞。<br>好孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39932813)<br>暂无签名~<br>2015-03-20 12:09<br>赞(0) 踩(0) | <div>！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342291)<br><br>2015-03-16 19:39<br>赞(0) 踩(0) | <div>小黄歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3776615)<br><br>2015-03-11 00:42<br>赞(0) 踩(0) | <div>瞬间懂</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38674922)<br>我觉得你应该会喜欢吃<br>2015-03-07 10:52<br>赞(0) 踩(0) | <div>听了这么长时间 竟然到现在才懂(´- へ -、)地对空导弹…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38674922)<br>我觉得你应该会喜欢吃<br>2015-03-07 10:52<br>赞(0) 踩(0) | <div>听了这么长时间 竟然到现在才懂(´- へ -、)<br>地对空导弹…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3841534)<br><br>2015-02-23 11:13<br>赞(1) 踩(0) | <div>凌乱→_→</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46820366)<br>暂无签名~<br>2015-02-22 19:10<br>赞(0) 踩(0) | <div>你给我的唯一一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46820366)<br>暂无签名~<br>2015-02-22 17:24<br>赞(0) 踩(0) | <div>从耳到心，都感动到你！</div> |
@@ -417,7 +417,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2357959)<br><br>2014-11-30 23:05<br>赞(0) 踩(0) | <div>有点好听。我是孤独的飞行员。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41068428)<br>gala<br>2014-11-30 15:12<br>赞(1) 踩(0) | <div>很适合寂寞时来听，一个人开车在乡间夜路上，多有感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1363157)<br>空白<br>2014-11-23 22:12<br>赞(2) 踩(0) | <div>撸至深</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4000074)<br><br>2014-11-21 11:36<br>赞(1) 踩(0) | <div>我是孤独的飞行员孤独地制造地对空导弹地对空导弹准备发射想起你说 别着急别急亲爱的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4000074)<br><br>2014-11-21 11:36<br>赞(1) 踩(0) | <div>我是孤独的飞行员<br>孤独地制造地对空导弹<br>地对空导弹准备发射<br>想起你说 别着急<br>别急亲爱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12026850)<br><br>2014-11-20 11:31<br>赞(0) 踩(0) | <div>广阔的天空是无尽的孤独。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28448098)<br><br>2014-11-19 13:35<br>赞(0) 踩(0) | <div>我是一个孤独的飞行员</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38855169)<br>傻大黑粗。<br>2014-11-18 13:14<br>赞(1) 踩(0) | <div>异地恋之歌。</div> |
@@ -451,9 +451,9 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21172838)<br><br>2014-09-02 20:17<br>赞(0) 踩(0) | <div>一边成长，一边痛苦，一边存在，梦想有多会幻想就能堆得有多漂亮，喜欢身边现在这些爱生活有态度的朋友们，永远存在永远年轻永远热泪盈眶，最爱的乐队没有之一。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337708)<br><br>2014-08-29 14:28<br>赞(0) 踩(0) | <div>莫名就是喜欢这首歌 。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2745814)<br> <br>2014-08-25 22:10<br>赞(2) 踩(0) | <div>飞个鬼阿我擦！搞不懂你们了！音乐现在好像变成一根黄瓜成了你们自嗨的工具了，虽然你们要当工具自嗨也无可厚非，但是叶子始终盖过了音乐本身的力量。经常听到喜欢的dumb bass. jazz hiphop trip house tech dub下面评论就是尼玛已飞……飞个毛！你们吸du你母亲知道吗！我次凹！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5528730)<br><br>2014-08-22 21:07<br>赞(3) 踩(0) | <div>┏┛┻━━━┛┻┓┃　　　　　　　┃┃　　　━　　　┃┃　┳┛　┗┳　┃┃　　　　　　　┃┃　　　┻　　　┃┃　　　　　　　┃┗━┓　　　┏━┛┃　　　┃┃　　　┃┃　　　┗━━━┓┃　　　　　　　┣┓┃　　　　　　　┏┛┗┓┓┏━┳┓┏┛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5528730)<br><br>2014-08-22 21:07<br>赞(3) 踩(0) | <div>┏┛┻━━━┛┻┓<br>┃　　　　　　　┃<br>┃　　　━　　　┃<br>┃　┳┛　┗┳　┃<br>┃　　　　　　　┃<br>┃　　　┻　　　┃<br>┃　　　　　　　┃<br>┗━┓　　　┏━┛<br>┃　　　┃<br>┃　　　┃<br>┃　　　┗━━━┓<br>┃　　　　　　　┣┓<br>┃　　　　　　　┏┛<br>┗┓┓┏━┳┓┏┛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9770497)<br>跟着一道沉默的光环 像一...<br>2014-07-31 21:44<br>赞(0) 踩(0) | <div>是在开黄腔吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6833059)<br>但行好事…莫问前程…<br>2014-07-29 19:04<br>赞(0) 踩(0) | <div>sweety sweety在世界末日之前你是我的唯一goodnight my sweetheart</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6833059)<br>但行好事…莫问前程…<br>2014-07-29 19:04<br>赞(0) 踩(0) | <div>sweety sweety<br>在世界末日之前你是我的唯一<br>goodnight my sweetheart</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/708850)<br><br>2014-07-28 16:42<br>赞(0) 踩(0) | <div>＃朵来听＃＂我很喜欢前奏，听到前奏，仿佛徜徉在校园的花海里，就会忘记所有的忧伤和不快乐＂你要加油哦，因为是你，所以一定没问题！但是，如果实在太累，就别太为难自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3569699)<br>愿你脆弱，并永远不需假装...<br>2014-07-27 22:11<br>赞(0) 踩(0) | <div>goodnight my sweety:;(∩ ˘ω˘ ∩);:</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14805977)<br>listen<br>2014-07-27 02:58<br>赞(0) 踩(0) | <div>听进去了！！！</div> |
@@ -467,7 +467,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9480164)<br><br>2014-06-26 15:59<br>赞(0) 踩(0) | <div>词有点意思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35741593)<br><br>2014-06-22 00:07<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36949748)<br><br>2014-06-19 21:09<br>赞(0) 踩(0) | <div>别着急 别急 亲爱的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/565665)<br> <br>2014-06-18 14:16<br>赞(2) 踩(0) | <div>sweety sweety我一定穷尽所有力气坚持到底sweety sweety在世界末日之前你是我的唯一突然就哭了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/565665)<br> <br>2014-06-18 14:16<br>赞(2) 踩(0) | <div>sweety sweety<br>我一定穷尽所有力气坚持到底<br><br>sweety sweety<br>在世界末日之前你是我的唯一<br><br><br>突然就哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35988922)<br>我可能不能再抱你脚睡觉了<br>2014-06-17 23:45<br>赞(0) 踩(0) | <div>我是孤独的飞行员</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10668893)<br><br>2014-06-17 23:36<br>赞(0) 踩(0) | <div>~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36560700)<br><br>2014-06-16 00:18<br>赞(0) 踩(0) | <div>哎 写的我</div> |
@@ -475,7 +475,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6857099)<br>我还没想好要写什么...<br>2014-06-08 22:05<br>赞(0) 踩(0) | <div>说打飞机的，你们太单纯的，人家都说了，是“飞行员”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34278047)<br>能不能。<br>2014-06-08 13:51<br>赞(0) 踩(0) | <div>地空导弹。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10217548)<br>Hi ：）<br>2014-06-06 22:59<br>赞(0) 踩(0) | <div>演唱会上和旁边好看的人一起唱，很happy。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28771872)<br>暂无签名~<br>2014-05-30 12:26<br>赞(1) 踩(0) | <div>谁再说gala唱歌跑调我→_→</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28771872)<br>暂无签名~<br>2014-05-30 12:26<br>赞(1) 踩(0) | <div>谁再说<br>gala唱歌跑调我→_→</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20263893)<br> <br>2014-05-22 17:04<br>赞(0) 踩(0) | <div>家园弥漫着危如累卵的恐慌  校园素裹着肄业的忐忑不安 你的一丝甜她的一口肉能隐去些许忧伤已足矣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609999)<br><br>2014-05-21 19:45<br>赞(0) 踩(0) | <div>这歌词，内涵，绝对是一首打飞机之歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2821285)<br><br>2014-05-18 15:12<br>赞(0) 踩(0) | <div>好性感~~</div> |
@@ -511,13 +511,13 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11721110)<br> <br>2014-03-09 12:56<br>赞(0) 踩(0) | <div>练字必备曲目！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19503753)<br><br>2014-03-08 00:35<br>赞(0) 踩(0) | <div>我是孤独的飞行员～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2152368)<br><br>2014-03-05 13:51<br>赞(0) 踩(0) | <div>nice</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-03-05 06:39<br>赞(0) 踩(0) | <div>国产另类摇滚，后摇味挺重，蚊子勿近。281873,1187,535</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-03-05 06:39<br>赞(0) 踩(0) | <div>国产另类摇滚，后摇味挺重，蚊子勿近。<br>281873,1187,535</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3383686)<br><br>2014-03-04 02:06<br>赞(0) 踩(0) | <div>除了地对空导弹，其他就和现在一样了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1679967)<br><br>2014-02-28 11:54<br>赞(0) 踩(0) | <div>这首歌很适合华晨宇演唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31222250)<br><br>2014-02-28 01:20<br>赞(0) 踩(0) | <div>听到这首歌的最后一句：good night ,my  sweetie. 我觉得I&amp;#039;m in love.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30691319)<br>我还没想好要写什么...<br>2014-02-26 15:24<br>赞(0) 踩(0) | <div>啧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21107055)<br><br>2014-02-25 19:08<br>赞(0) 踩(0) | <div>我是孤独的 飞行员 孤独的制造 地对空导弹</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4960568)<br>也不管情路上永恒多短暂<br>2014-02-17 01:09<br>赞(0) 踩(0) | <div>我躺在想你的床上。只有在这样的夜晚静静的想我是孤独的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4960568)<br>也不管情路上永恒多短暂<br>2014-02-17 01:09<br>赞(0) 踩(0) | <div>我躺在想你的床上。<br>只有在这样的夜晚<br>静静的想<br>我是孤独的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9884598)<br><br>2014-02-16 15:06<br>赞(0) 踩(0) | <div>如果蛋疼了就祝福你；如果没有，那就生日快乐吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1368035)<br>只有音乐才是我的解药<br>2014-02-14 22:16<br>赞(0) 踩(0) | <div>飞行员们，准备发射吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5487965)<br><br>2014-02-14 21:37<br>赞(1) 踩(0) | <div>撸的荡气回肠。。。</div> |
@@ -646,7 +646,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17210012)<br><br>2013-07-13 17:53<br>赞(0) 踩(0) | <div>要不要这么有内涵？！哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5518401)<br><br>2013-07-13 02:24<br>赞(0) 踩(0) | <div>我最早知道gala不是因为young for you而是因为 地空捣蛋 因为杠子 因为刮刮乐 除了这首 别的我听得也不多了 在这样一个令人沮丧的深夜 分享这首歌给还没睡的你们吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1827338)<br><br>2013-07-10 22:33<br>赞(0) 踩(0) | <div>Sweety sweety请让我换个姿势想念你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4225730)<br><br>2013-07-10 07:42<br>赞(0) 踩(0) | <div>我是孤独的飞行员孤独地制造地对空导弹地对空导弹准备发射：）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4225730)<br><br>2013-07-10 07:42<br>赞(0) 踩(0) | <div>我是孤独的飞行员<br>孤独地制造地对空导弹<br>地对空导弹准备发射：）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15286484)<br> <br>2013-07-09 09:17<br>赞(0) 踩(0) | <div>我是孤独的飞行员</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5742209)<br> <br>2013-07-08 16:56<br>赞(0) 踩(0) | <div>my sweety</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3990257)<br><br>2013-07-08 16:12<br>赞(0) 踩(0) | <div>我最喜欢的三首GALA之一 以前只是觉得歌词怪怪的 但也没想到哪里怪 昨天晚上躺在床上正好又听了一遍 然后就知道哪里怪了。。。(｡-_-｡)</div> |
@@ -655,7 +655,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2705331)<br>伯川令希研教楼送外卖快递<br>2013-07-03 09:21<br>赞(0) 踩(0) | <div>一个孤独的飞行员。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4406186)<br>阿鲜有一颗玻璃心~<br>2013-07-03 00:13<br>赞(0) 踩(0) | <div>goodnight @ my sweety～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403080)<br> <br>2013-07-03 00:09<br>赞(0) 踩(0) | <div>It&amp;#039;ll b 4 u.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/762317)<br><br>2013-07-01 09:33<br>赞(0) 踩(0) | <div>sweety sweety在世界末日之前你是我的唯一  那晚我被这首歌深深感动到不能自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/762317)<br><br>2013-07-01 09:33<br>赞(0) 踩(0) | <div>sweety sweety<br>在世界末日之前你是我的唯一  那晚我被这首歌深深感动到不能自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4712254)<br>我还没想好要写什么...<br>2013-06-30 00:07<br>赞(0) 踩(0) | <div>谁是孤独的飞行员〜谁在孤独的制造地对空导弹〜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4712254)<br>我还没想好要写什么...<br>2013-06-29 15:18<br>赞(0) 踩(0) | <div>谁是孤独的飞行员，谁在孤独的制造地对空导弹〜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4712254)<br>我还没想好要写什么...<br>2013-06-29 14:38<br>赞(0) 踩(0) | <div>人家才不是孤独的飞行员〜才不会孤独的制造地对空导弹〜呢</div> |
@@ -682,7 +682,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14816052)<br>一万匹脱缰的马。<br>2013-06-06 01:10<br>赞(0) 踩(0) | <div>好歌一首在此。晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5172470)<br><br>2013-06-05 15:20<br>赞(0) 踩(0) | <div>一本正经，一听就笑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15841259)<br><br>2013-06-05 12:23<br>赞(0) 踩(0) | <div>戏谑“神六宇航员”的单曲哈~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15411914)<br><br>2013-06-05 11:40<br>赞(0) 踩(0) | <div>我是孤独的飞行员漫长的夜里 寂静地盘旋我躺在想你的床上去哪里降落 能卸载忧伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15411914)<br><br>2013-06-05 11:40<br>赞(0) 踩(0) | <div>我是孤独的飞行员<br>漫长的夜里 寂静地盘旋<br>我躺在想你的床上<br>去哪里降落 能卸载忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14936152)<br><br>2013-06-03 10:06<br>赞(0) 踩(0) | <div>无论怎么看这都是一首男默女泪的歌曲啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9104934)<br><br>2013-06-03 00:05<br>赞(0) 踩(0) | <div>Night</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8498531)<br> <br>2013-05-31 12:13<br>赞(0) 踩(0) | <div>你他妈能看见蓝天白云吗</div> |
@@ -716,13 +716,13 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7341810)<br><br>2013-04-10 14:35<br>赞(0) 踩(0) | <div>躺在单人床上的男人的情怀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5159602)<br>。<br>2013-04-09 00:36<br>赞(0) 踩(0) | <div>去哪里降落 能卸载忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189449)<br><br>2013-04-07 17:42<br>赞(0) 踩(0) | <div>你全家都是飞行员....</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7457475)<br>和你一样爱音乐葎岛电台<br>2013-04-07 08:53<br>赞(0) 踩(0) | <div>孤独是午夜一个人躺在沙发观望电视机里的喧哗，孤独是傍晚一个人坐在餐桌嗅着菜色的斑斓，孤独是清早镜子前精心的装扮只有自己一人欣赏。来自Gala乐队的《孤独的飞行员》送给这辈子都没法治愈的孤单感。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7457475)<br>和你一样爱音乐葎岛电台<br>2013-04-07 08:53<br>赞(0) 踩(0) | <div>孤独是午夜一个人躺在沙发观望电视机里的喧哗，孤独是傍晚一个人坐在餐桌嗅着菜色的斑斓，孤独是清早镜子前精心的装扮只有自己一人欣赏。<br>来自Gala乐队的《孤独的飞行员》送给这辈子都没法治愈的孤单感。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1354288)<br>都好 都爱 不买<br>2013-04-01 19:35<br>赞(0) 踩(0) | <div>不知道大家有没有看过《夜航西飞》，里面有段，飞行员独自在黑夜中飞行于非洲大陆上空的内心独白。让GALA唱出来这感觉，分外得心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2691052)<br>且看那青山綠水別來無恙。<br>2013-04-01 06:59<br>赞(0) 踩(0) | <div>”飞行员“噗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12186830)<br><br>2013-03-26 19:58<br>赞(0) 踩(0) | <div>“我是孤独的飞行员，漫长的夜，寂静地盘旋，我躺在想你的床上，去哪里降落，能卸载忧伤。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11783217)<br>散座 四下松柏<br>2013-03-26 10:17<br>赞(0) 踩(0) | <div>虽说是很“内涵”的一首歌 但是有一种灰飞烟灭的绝望 依然可以打动人  喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7468519)<br>あなたの毒がおいしいの<br>2013-03-25 22:11<br>赞(0) 踩(0) | <div>sweety sweety</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7835746)<br>www.yuwang.r...<br>2013-03-24 17:16<br>赞(0) 踩(0) | <div>我躺在想你的床上去哪里降落 能卸载忧伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7835746)<br>www.yuwang.r...<br>2013-03-24 17:16<br>赞(0) 踩(0) | <div>我躺在想你的床上<br>去哪里降落 能卸载忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9044270)<br><br>2013-03-22 20:47<br>赞(0) 踩(0) | <div>我好怀念从前听磁带的日子。可以安静用心完整的听完一整盘。现在是奢望。青春不老的声音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2523465)<br>我还没想好要写什么...<br>2013-03-22 07:57<br>赞(1) 踩(0) | <div>人不内涵枉骚年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1650115)<br>痛快<br>2013-03-20 16:44<br>赞(0) 踩(0) | <div>爱GALA。</div> |
@@ -756,7 +756,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11162181)<br><br>2012-12-20 20:25<br>赞(0) 踩(0) | <div>有些歌，是越听越伤感。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9339541)<br><br>2012-12-20 14:30<br>赞(0) 踩(0) | <div>在世界末日之前你是我的唯一!!!!!!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3439163)<br><br>2012-12-15 20:20<br>赞(1) 踩(0) | <div>突然觉得好内涵o(*////▽////*)q</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6645196)<br> <br>2012-12-10 10:02<br>赞(0) 踩(0) | <div>sweety sweety我一定穷尽所有力气坚持到底sweety sweety在世界末日之前你是我的唯一</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6645196)<br> <br>2012-12-10 10:02<br>赞(0) 踩(0) | <div>sweety sweety<br>我一定穷尽所有力气坚持到底<br><br>sweety sweety<br>在世界末日之前你是我的唯一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2967907)<br><br>2012-12-10 02:08<br>赞(0) 踩(0) | <div>我躺在想你的床上 去哪里降落 能卸载忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3433548)<br><br>2012-12-03 23:23<br>赞(0) 踩(0) | <div>就是这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3433548)<br><br>2012-12-03 23:15<br>赞(0) 踩(0) | <div>就是这首歌了</div> |
@@ -792,7 +792,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3865577)<br><br>2012-08-19 17:43<br>赞(0) 踩(0) | <div>@今夕何曦释怀月缺盈月   啊哈哈哈哈哈～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1173165)<br><br>2012-08-17 20:32<br>赞(0) 踩(0) | <div>叶子之歌？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3961366)<br><br>2012-08-08 09:24<br>赞(0) 踩(0) | <div>世界末日就要到了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5120280)<br> <br>2012-08-02 02:04<br>赞(0) 踩(0) | <div>我是孤独的飞行员漫长的夜里 寂静地盘旋我躺在想你的床上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5120280)<br> <br>2012-08-02 02:04<br>赞(0) 踩(0) | <div>我是孤独的飞行员<br>漫长的夜里 寂静地盘旋<br>我躺在想你的床上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4223215)<br><br>2012-07-24 23:09<br>赞(0) 踩(0) | <div>听了很久，才发现原来有内涵啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164687)<br>wbshnyydbsh<br>2012-07-21 01:44<br>赞(0) 踩(0) | <div>准备发射</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8842217)<br>I love bw<br>2012-07-20 10:52<br>赞(0) 踩(0) | <div>有些人懂，有些人不懂</div> |
@@ -812,7 +812,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/742851)<br>笑看各路小众狗<br>2012-05-24 12:09<br>赞(0) 踩(0) | <div>我是飞行的孤独员</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2255109)<br><br>2012-05-23 21:59<br>赞(0) 踩(0) | <div>别急亲爱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8496648)<br> <br>2012-05-13 02:56<br>赞(0) 踩(0) | <div>我是孤独的飞行员</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5703524)<br>我还没想好要写什么...<br>2012-05-12 21:38<br>赞(0) 踩(0) | <div>孤独的制造地对空导弹</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5703524)<br>我还没想好要写什么...<br>2012-05-12 21:38<br>赞(0) 踩(0) | <div>孤独的制造<br>地对空导弹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1237082)<br><br>2012-05-08 17:58<br>赞(0) 踩(0) | <div>sweety~sweety~ 坚持到底~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1547970)<br><br>2012-05-05 11:59<br>赞(0) 踩(0) | <div>GALA-飞行员之歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2002206)<br><br>2012-05-03 00:45<br>赞(0) 踩(0) | <div>送你们一首破歌@一路向北玩我 @Delete------</div> |
@@ -843,7 +843,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5893413)<br><br>2012-03-09 23:58<br>赞(0) 踩(0) | <div>「送给你的。不管你听过没听过。你都一定要听一听。」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/963987)<br>逃离吧。<br>2012-03-09 19:37<br>赞(0) 踩(0) | <div>屌丝们，都是孤独的飞行员吧？躺在床上，想着女神，制造着地对空导弹……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1114526)<br><br>2012-03-08 22:07<br>赞(0) 踩(0) | <div>我是孤独的飞行员 孤独地制造地对空导弹</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1114526)<br><br>2012-03-06 21:38<br>赞(0) 踩(0) | <div>我是孤独的飞行员孤独地制造地对空导弹</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1114526)<br><br>2012-03-06 21:38<br>赞(0) 踩(0) | <div>我是孤独的飞行员<br>孤独地制造地对空导弹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5787409)<br><br>2012-02-05 00:43<br>赞(0) 踩(0) | <div>good bye  my sweety</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4296729)<br><br>2012-01-21 14:21<br>赞(0) 踩(0) | <div>gala</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6381544)<br><br>2012-01-17 09:47<br>赞(0) 踩(0) | <div>制造 地对空导弹</div> |
@@ -894,8 +894,8 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1383839)<br><br>2011-07-15 21:35<br>赞(0) 踩(0) | <div>最后的副歌，给力！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/955990)<br><br>2011-07-14 12:33<br>赞(0) 踩(0) | <div>每日一个歌之GALA《飞行员之歌》~~我是孤独的飞行员，我躺在想你的床上，孤独的制造地对空导弹~~  很棒的一首歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4387794)<br>Turn off tim...<br>2011-07-10 17:32<br>赞(0) 踩(0) | <div>在海大分享的第一首</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1907492)<br><br>2011-07-06 16:58<br>赞(0) 踩(0) | <div>sweety sweety我一定穷尽所有力气坚持到底sweety sweety在世界末日之前你是我的唯一</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1810769)<br><br>2011-07-02 11:17<br>赞(0) 踩(0) | <div>“你说 别着急别急亲 爱 的”然后 我只能“孤独地制造 地对空导弹”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1907492)<br><br>2011-07-06 16:58<br>赞(0) 踩(0) | <div>sweety sweety<br>我一定穷尽所有力气坚持到底<br><br>sweety sweety<br>在世界末日之前你是我的唯一</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1810769)<br><br>2011-07-02 11:17<br>赞(0) 踩(0) | <div>“你说 别着急<br>别急亲 爱 的”<br>然后 我只能<br>“孤独地制造 地对空导弹<br>”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/916416)<br><br>2011-06-30 22:08<br>赞(0) 踩(0) | <div>飞行员情结</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2800668)<br><br>2011-06-30 19:14<br>赞(0) 踩(0) | <div>今天一口气发了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4143701)<br><br>2011-06-28 22:20<br>赞(0) 踩(0) | <div>好歌好词！！</div> |
@@ -907,23 +907,23 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1959510)<br>偏执狂有什么不好,,Ծ^...<br>2011-06-12 23:45<br>赞(0) 踩(0) | <div>孤独孤单，寂寞？没有关系。每个人都是孤独的。只要你能学会一个人精彩就好了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3942477)<br><br>2011-06-12 14:08<br>赞(0) 踩(0) | <div>我找到一首为#愤怒的小鸟#而生的歌了！那就是gala的《飞行员之歌》！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3942477)<br><br>2011-06-12 14:01<br>赞(0) 踩(0) | <div>别着急！别着急亲爱的！我一定穷尽所有力量坚持到底！╭(╯^╰)╮！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3049271)<br>最近我走的是复古风~<br>2011-06-11 19:25<br>赞(0) 踩(0) | <div>我是孤独的 飞行员GALA在不停的改变，前进</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3049271)<br>最近我走的是复古风~<br>2011-06-11 19:25<br>赞(0) 踩(0) | <div>我是孤独的 飞行员<br>GALA在不停的改变，前进</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9103)<br><br>2011-06-11 14:08<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3444488)<br><br>2011-06-10 17:51<br>赞(0) 踩(0) | <div>我也是孤独的将要成为程序员的男人。呵呵。不怎么懂，电吉他很好啊。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3250365)<br><br>2011-06-09 16:43<br>赞(0) 踩(0) | <div>不错 我喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4222728)<br>鱼沫吹秦桥<br>2011-06-08 20:08<br>赞(0) 踩(0) | <div>开头听起来很有味道。歌手的嗓音很奇特又觉得是小时候邻家小男孩的style/</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4222728)<br>鱼沫吹秦桥<br>2011-06-08 20:08<br>赞(0) 踩(0) | <div>开头听起来<br>很有味道。<br>歌手的嗓音<br>很奇特<br>又觉得是小时候<br>邻家小男孩的style/</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245675)<br><br>2011-06-06 20:28<br>赞(0) 踩(0) | <div>我觉得这歌好邪恶。。。= = 是我不纯洁了么。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4143701)<br><br>2011-06-08 17:12<br>赞(0) 踩(0) | <div>。。。。。。+1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2925525)<br><br>2011-06-05 13:38<br>赞(0) 踩(0) | <div>听这首歌的时候就感觉自己躺在黑夜的床单上，孤独地飞行在童话世界的上空。惦念着一个姑娘，但又不是整颗心都全给她占据。一个人，只是一个人，慢慢地孤独飞行。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1294528)<br><br>2011-05-30 19:56<br>赞(0) 踩(0) | <div>yahoo~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4020317)<br><br>2011-05-26 02:13<br>赞(0) 踩(0) | <div>吉他贝斯仅做点缀，用渐强的钢琴和弦乐来抒情，非典型Gala风格。发现苏朵的声音挺可以的嘛，最后两句最好听了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4020317)<br><br>2011-05-26 02:13<br>赞(0) 踩(0) | <div>吉他贝斯仅做点缀，用渐强的钢琴和弦乐来抒情，非典型Gala风格。<br>发现苏朵的声音挺可以的嘛，最后两句最好听了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4020317)<br><br>2011-05-26 02:05<br>赞(0) 踩(0) | <div>没有你，喧哗的城市不属于我，只能在孤寂的高空漂逐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3953796)<br><br>2011-05-24 22:09<br>赞(0) 踩(0) | <div>小王子...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3675097)<br><br>2011-05-18 00:25<br>赞(0) 踩(0) | <div>也很像《空中杀手》的感觉哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3918757)<br><br>2011-05-13 13:37<br>赞(0) 踩(0) | <div>小王子的歌曲。 嘿嘿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/585947)<br><br>2011-05-13 07:58<br>赞(0) 踩(0) | <div>在世界末日之前...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759179)<br><br>2011-05-09 16:07<br>赞(0) 踩(0) | <div>他可能就是《小王子》的歌……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1418042)<br><br>2011-05-06 23:53<br>赞(0) 踩(0) | <div>漫長的夜裡 寂靜地盤旋去哪裡降落 能卸載憂傷</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1418042)<br><br>2011-05-06 23:53<br>赞(0) 踩(0) | <div>漫長的夜裡 寂靜地盤旋<br>去哪裡降落 能卸載憂傷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1418042)<br><br>2011-05-06 23:51<br>赞(0) 踩(0) | <div>在夜的城市上空打轉兒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/764305)<br><br>2011-05-05 12:55<br>赞(0) 踩(0) | <div>歌詞很含蓄吖...哈哈哈...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1157611)<br>跳动的世界里找你的频率<br>2011-04-28 20:18<br>赞(0) 踩(0) | <div>内涵。。。我们都懂的~</div> |
@@ -946,11 +946,11 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2237184)<br><br>2011-04-10 17:02<br>赞(0) 踩(0) | <div>果然,  这歌满足的各种口味人群 - -#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2229720)<br><br>2011-04-09 19:18<br>赞(0) 踩(0) | <div>gala - - 你赢了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1914869)<br><br>2011-04-09 19:00<br>赞(0) 踩(0) | <div>哈哈哈哈 别着急 亲爱的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2088866)<br><br>2011-04-09 12:00<br>赞(0) 踩(0) | <div>sweety sweety我一定穷尽所有力气坚持到底</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2088866)<br><br>2011-04-09 12:00<br>赞(0) 踩(0) | <div>sweety sweety<br>我一定穷尽所有力气坚持到底</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2819315)<br><br>2011-04-09 11:50<br>赞(0) 踩(0) | <div>我是孤独的飞行员，漫长的夜里， 寂静地盘旋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2819315)<br><br>2011-04-09 11:49<br>赞(0) 踩(0) | <div>我是孤独的飞行员，漫长的夜里，寂静地盘旋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2819315)<br><br>2011-04-09 11:48<br>赞(0) 踩(0) | <div>我是孤独的飞行员，漫长的夜里，寂静地盘旋</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1414689)<br>有啥听啥。。没有喜欢的歌...<br>2011-04-06 16:59<br>赞(0) 踩(0) | <div>真内涵！- - 喜欢最后两句在世界末日之前你是我的唯一</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1414689)<br>有啥听啥。。没有喜欢的歌...<br>2011-04-06 16:59<br>赞(0) 踩(0) | <div>真内涵！- - 喜欢最后两句<br>在世界末日之前你是我的唯一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2445704)<br>就像一座山脉坚强永不变<br>2011-04-06 11:19<br>赞(0) 踩(0) | <div>我是孤独的飞行员，孤独的制造地对空导弹。。。咋能这么带感呢！你要打飞机吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2885011)<br><br>2011-04-05 22:47<br>赞(0) 踩(0) | <div>绝对奇葩！！！！内涵中的奇葩！！！！！！！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/694896)<br><br>2011-04-05 15:49<br>赞(0) 踩(0) | <div>准备开炮！</div> |
@@ -967,7 +967,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97031)<br><br>2011-03-30 22:49<br>赞(0) 踩(0) | <div>闷骚青年军~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9048)<br><br>2011-03-30 00:56<br>赞(0) 踩(0) | <div>Good night,my sweety .</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2011-03-29 14:04<br>赞(0) 踩(0) | <div>我们都是神枪手，我们都是飞行军~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345713)<br><br>2011-03-27 15:31<br>赞(0) 踩(0) | <div>原来不是我一个思想不健康，原来我还挺有领悟能力的。。。。总之，旮旯出新歌了真好~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345713)<br><br>2011-03-27 15:31<br>赞(0) 踩(0) | <div>原来不是我一个思想不健康，原来我还挺有领悟能力的。。。。<br><br>总之，旮旯出新歌了真好~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/671165)<br><br>2011-03-27 15:24<br>赞(0) 踩(0) | <div>赞。。。瞬间扭转我对gala的老印象</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2677599)<br> <br>2011-03-26 01:17<br>赞(0) 踩(0) | <div>。。。。。。奇葩、、、。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3345141)<br><br>2011-03-25 11:59<br>赞(0) 踩(0) | <div>```</div> |
@@ -1003,7 +1003,7 @@ sweety sweety <br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/742851)<br>笑看各路小众狗<br>2011-01-16 18:04<br>赞(0) 踩(0) | <div>小心地对空导弹...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/147541)<br><br>2011-01-15 21:20<br>赞(0) 踩(0) | <div>刚刚听完了Young For You，接上飞行员之歌，这跨度有点儿大，让人反应不过来。主场的声音不是我所想象的带点沙哑的嗓音，反而还是明显的年轻人的歌声，带了一点点成熟的青春期的味道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/670783)<br><br>2011-01-07 11:52<br>赞(0) 踩(0) | <div>这是gala么？这是达达后的彭坦吧……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2011-01-03 22:24<br>赞(0) 踩(0) | <div>sweety sweety 我一定穷尽所有力气坚持到底sweety sweety 在世界末日之前你是我的唯一good night my sweety...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2011-01-03 22:24<br>赞(0) 踩(0) | <div>sweety sweety 我一定穷尽所有力气坚持到底<br>sweety sweety 在世界末日之前你是我的唯一<br><br>good night my sweety...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78148)<br><br>2011-01-03 21:24<br>赞(0) 踩(0) | <div>很爱gala这样的中式punk.作词也很有才华~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1844)<br>农夫 山泉 有点田<br>2011-01-02 19:48<br>赞(0) 踩(0) | <div>我是孤独的飞行员</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1797811)<br><br>2010-12-30 13:25<br>赞(0) 踩(0) | <div>节奏是真心可爱。</div> |
@@ -1014,7 +1014,7 @@ sweety sweety <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/587402)<br>Då Som Nu Fö...<br>2010-12-21 00:53<br>赞(0) 踩(0) | <div>美啊 感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1082895)<br>frisson<br>2010-12-18 02:48<br>赞(0) 踩(0) | <div>Blur的感觉，蛮好，我喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2183122)<br><br>2010-12-13 13:49<br>赞(0) 踩(0) | <div>hao yang de</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2010-12-12 19:02<br>赞(0) 踩(0) | <div>12月5日   晴今天依旧加班，动力就是听GALA的歌，很给力</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2010-12-12 19:02<br>赞(0) 踩(0) | <div>12月5日   晴<br>今天依旧加班，动力就是听GALA的歌，很给力</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110251)<br><br>2010-12-29 10:40<br>赞(0) 踩(0) | <div>哈哈，有天晚上加得很晚，听得也是GALA的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1852292)<br><br>2010-12-12 18:38<br>赞(0) 踩(0) | <div>Y呀嘛Y~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2040997)<br>Fairplay. 豆瓣...<br>2010-12-12 16:57<br>赞(0) 踩(0) | <div>搞笑了歌词。一首地对空导弹送给你- -。</div> |

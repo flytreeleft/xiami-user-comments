@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0e2c65bbdf79a60b2cb1dbf1557ebf2f.jpg)<br>低苦艾](https://i.xiami.com/dikuai) | **播放数**: 23197303<br>**粉丝数**: 38379<br>**评论数**: 694<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 世界节拍 Worldbeat, 城市民谣 Urban Folk, 民谣 Folk<br> |
+| [![](../../images/musicians/0e2c65bbdf79a60b2cb1dbf1557ebf2f.jpg)<br>低苦艾](https://i.xiami.com/dikuai) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 世界节拍 Worldbeat, 城市民谣 Urban Folk, 民谣 Folk<br>**播放数**: 23197303<br>**粉丝数**: 38379<br>**评论数**: 694<br> |
 
 ## 档案
 
@@ -100,8 +100,8 @@ Drums:Dou Tao<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7882047)<br>↗这家伙试听了很多曲子！<br>2021-01-16 06:01<br>赞(0) 踩(0) | <div>主唱谢天笑吗 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1800831)<br>Hi！<br>2021-01-03 21:54<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357700640)<br><br>2020-10-27 15:59<br>赞(1) 踩(0) | <div>在中山桥边听这歌，才知道什么是兰州的城市气质</div> |
@@ -306,7 +306,7 @@ Drums:Dou Tao<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4923144)<br><br>2015-01-06 10:38<br>赞(0) 踩(0) | <div>走起</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26220807)<br>暂无签名~<br>2015-01-01 23:52<br>赞(0) 踩(0) | <div>我听到了苍凉，荒芜，漫天风沙</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37980879)<br><br>2014-12-26 22:36<br>赞(0) 踩(0) | <div>1</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:17<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:17<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14226693)<br>因缘所生法，自性本是空。<br>2014-12-13 22:07<br>赞(1) 踩(0) | <div>西北老酒，甘醇清冽.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43627597)<br><br>2014-12-06 11:42<br>赞(0) 踩(0) | <div>好听～支持～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6376202)<br>音乐和文学，都是我的粮食<br>2014-12-05 22:10<br>赞(0) 踩(0) | <div>西北民谣。</div> |
@@ -315,7 +315,7 @@ Drums:Dou Tao<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43854772)<br>唯有音乐能抚慰人心<br>2014-11-29 20:01<br>赞(1) 踩(0) | <div>因为这只乐队，深深爱着兰州。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36537043)<br>喔<br>2014-11-29 18:16<br>赞(1) 踩(0) | <div>听起了鸡皮疙瘩，赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5702062)<br>Industrail<br>2014-11-28 18:37<br>赞(0) 踩(0) | <div>过一会儿乌鲁木齐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33866438)<br>我才不要仅仅是一个个片断<br>2014-11-23 22:15<br>赞(0) 踩(0) | <div>每次想家的时候，就听低苦艾。。听完之后，就更想家了。。转眼离开家都快四年了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33866438)<br>我才不要仅仅是一个个片断<br>2014-11-23 22:15<br>赞(0) 踩(0) | <div>每次想家的时候，就听低苦艾。。听完之后，就更想家了。。<br><br>转眼离开家都快四年了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37161645)<br><br>2014-11-29 21:37<br>赞(0) 踩(0) | <div>三年的飘过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4788803)<br>虾米，我爱你。<br>2014-11-22 14:48<br>赞(1) 踩(0) | <div>不是兰州人，却也幻想自己也生在兰州...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42974868)<br><br>2014-11-17 08:45<br>赞(0) 踩(0) | <div>昨晚西安的演出太赞了</div> |
@@ -364,7 +364,7 @@ Drums:Dou Tao<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6954341)<br><br>2014-10-09 19:09<br>赞(0) 踩(0) | <div>后天麻雀瓦舍走起啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21392365)<br><br>2014-10-07 09:09<br>赞(0) 踩(0) | <div>棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16415125)<br>我们将死于自己热爱的事物<br>2014-10-07 01:04<br>赞(1) 踩(0) | <div>#11.2低苦艾乐队2014《花草树木》巡演广州站@TU凸空间#2014年巡演低苦艾乐队将带着最新录制的EP《花草树木》上路，这张由四首歌组成的专辑是爱情四部曲的特别集结，由一把木吉他伴奏的歌声在他们其他厚重的作品中如一缕清泉流淌入心，情感真实而灵动。详情：<a href="http://t.cn/Rhev5WX" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/Rhev5WX</a>，预售请戳：<a href="http://t.cn/7VTbl" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/7VTbl</a>。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41995506)<br>对生活过敏<br>2014-10-03 22:18<br>赞(0) 踩(0) | <div>天天生活在兰州，没什么感觉，听了低苦艾，好不一样~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41995506)<br>对生活过敏<br>2014-10-03 22:18<br>赞(0) 踩(0) | <div>天天生活在兰州，没什么感觉，<br>听了低苦艾，好不一样~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42175544)<br>暂无签名~<br>2014-10-08 01:24<br>赞(0) 踩(0) | <div>你也兰州的？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41995506)<br>对生活过敏<br>2014-10-09 23:52<br>赞(0) 踩(0) | <div><q><b>绿小美Lujah说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41995506)<br>对生活过敏<br>2014-10-11 22:03<br>赞(0) 踩(0) | <div><q><b>绿小美Lujah说：</b></q></div> |
@@ -485,12 +485,12 @@ Drums:Dou Tao<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10611776)<br>关灯听歌。<br>2013-12-05 14:55<br>赞(0) 踩(0) | <div>敢情这是一撮诗人哪！！！叫我怎么不爱你们，匿了~~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3747991)<br><br>2013-12-05 11:57<br>赞(0) 踩(0) | <div>守望者</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1549264)<br><br>2013-12-04 11:25<br>赞(0) 踩(0) | <div>我就是喜欢这种的！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1050893)<br>我还没想好要写什么...<br>2013-12-03 18:10<br>赞(0) 踩(0) | <div>雨滴落在湖中央就像是你的笑</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1050893)<br>我还没想好要写什么...<br>2013-12-03 18:10<br>赞(0) 踩(0) | <div>雨滴落在湖中央<br>就像是你的笑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24826982)<br><br>2013-11-30 14:41<br>赞(0) 踩(0) | <div>Original</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9443226)<br><br>2013-11-25 13:54<br>赞(0) 踩(0) | <div>兰州兰州</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10244710)<br><br>2013-11-22 23:25<br>赞(0) 踩(0) | <div>来自西北的这几支乐队都是极好的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28079424)<br>你这小厮<br>2013-11-22 14:09<br>赞(0) 踩(0) | <div>没什么好说就是喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5157651)<br>健康与平安<br>2013-11-22 10:00<br>赞(0) 踩(0) | <div>兰州哎，兰州噢这是我喜欢的调调</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5157651)<br>健康与平安<br>2013-11-22 10:00<br>赞(0) 踩(0) | <div>兰州哎，兰州噢<br>这是我喜欢的调调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1160126)<br><br>2013-11-21 11:43<br>赞(0) 踩(0) | <div>民谣,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10786093)<br><br>2013-11-19 09:59<br>赞(2) 踩(0) | <div>与气质偏外向张扬 乐风刚柔并济的宁夏[布衣]相比 来自甘肃的[低苦艾]要内敛含蓄些 风格也偏阴柔低缓 坐下听完歌后 我觉得二者有相似点——那就是乐队身上最初的西北特质 随着光阴循环 在都市里慢慢被过滤掉了（或者说侵蚀） 如果说在[低苦艾] 同名专辑里 还能体会到几分老练深沉 那乐队进[兵马司]之后的作品 却带着股大学生味儿（蛮适合躺在寝室里听） 不晓得是公司的包装打造呢 还是作者自身创作视角在转变。。。呵呵 啊哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1226865)<br>爱音乐的人原本就该活简单<br>2013-11-19 04:51<br>赞(0) 踩(0) | <div>精英好音乐</div> |
@@ -523,7 +523,7 @@ Drums:Dou Tao<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25451896)<br><br>2013-10-28 15:15<br>赞(0) 踩(0) | <div>西宁 西宁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24478332)<br><br>2013-10-14 17:42<br>赞(0) 踩(0) | <div>支撑兰州老乡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12221607)<br>心灵<br>2013-10-14 17:29<br>赞(0) 踩(0) | <div>folk</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7235462)<br><br>2013-10-12 21:33<br>赞(0) 踩(0) | <div>我看见醉汉从梦中醒来     有人骑着骏马追上信仰我看见青春的光扑面而来    有人高举手臂指向未来我看见**上白鸽振翅飞翔   灵敏的风改变夜的方向我看见浓雾散去蓝天如碧    孩子给无助的风筝送去飞翔火车快开  火车快快开</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7235462)<br><br>2013-10-12 21:33<br>赞(0) 踩(0) | <div>我看见醉汉从梦中醒来     有人骑着骏马追上信仰<br><br>我看见青春的光扑面而来    有人高举手臂指向未来<br><br>我看见**上白鸽振翅飞翔   灵敏的风改变夜的方向<br><br>我看见浓雾散去蓝天如碧    孩子给无助的风筝送去飞翔<br><br>火车快开  火车快快开</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/489870)<br><br>2013-10-11 10:20<br>赞(0) 踩(0) | <div>特别，真实~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57294)<br>女子。<br>2013-10-09 11:26<br>赞(0) 踩(0) | <div>想兰州了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7235462)<br><br>2013-10-08 20:09<br>赞(0) 踩(0) | <div>太干三老，小树树，真美，继小草草，小花花后唯美系</div> |
@@ -608,7 +608,7 @@ Drums:Dou Tao<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/632522)<br>时光荏苒，愿得一人心<br>2013-04-17 14:54<br>赞(0) 踩(0) | <div>相当不错的组合！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13863783)<br><br>2013-04-08 15:02<br>赞(0) 踩(0) | <div>很有识别度的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4412959)<br>fresh steame...<br>2013-04-07 18:37<br>赞(1) 踩(0) | <div>內地的樂隊給我的感覺都是這樣... 捲舌的發音 低低的男聲...</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7835746)<br>www.yuwang.r...<br>2013-04-14 09:11<br>赞(0) 踩(0) | <div>西北的可能卷舌低沉一些，方言本土特色没办法……但不全是你说的这样……推荐子曰乐队。内地乐队不仅仅是这些浮出水面的。低的男声神马，一般都是民谣风吧。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7835746)<br>www.yuwang.r...<br>2013-04-14 09:11<br>赞(0) 踩(0) | <div>西北的可能卷舌低沉一些，方言本土特色没办法……但不全是你说的这样……推荐子曰乐队。<br>内地乐队不仅仅是这些浮出水面的。低的男声神马，一般都是民谣风吧。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6813578)<br><br>2013-05-04 07:29<br>赞(0) 踩(0) | <div>有同感</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5811487)<br><br>2013-04-01 18:31<br>赞(0) 踩(0) | <div>西北民谣摇滚 赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9491431)<br>我不在撒哈拉 就在塔克拉...<br>2013-03-28 13:35<br>赞(0) 踩(0) | <div>我爱上这个乐队了</div> |
@@ -690,10 +690,10 @@ Drums:Dou Tao<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/871263)<br><br>2012-07-26 16:06<br>赞(0) 踩(0) | <div>兰州</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1884929)<br><br>2012-07-26 13:00<br>赞(0) 踩(0) | <div>最近一直循环听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4307142)<br>逃至此处<br>2012-07-24 20:53<br>赞(0) 踩(0) | <div>苦味，总是有股苦味，却韧劲得很。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7520133)<br><br>2012-07-17 03:58<br>赞(0) 踩(0) | <div>第一次听见那首《谁》就深深喜欢上这个乐队了。、他带给我们太多的惊喜。《小花花》《红与黑》《玄》……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7520133)<br><br>2012-07-17 03:58<br>赞(0) 踩(0) | <div>第一次听见那首《谁》就深深喜欢上这个乐队了。、<br>他带给我们太多的惊喜。《小花花》《红与黑》《玄》……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6069100)<br><br>2012-07-16 03:40<br>赞(0) 踩(0) | <div>感觉旋律是有点怪的，但是歌曲都很有思想 ...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9715185)<br>爱唯侦查<br>2012-07-08 21:34<br>赞(0) 踩(0) | <div>太屌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1170903)<br>我妖气重我自豪<br>2012-07-06 23:57<br>赞(0) 踩(0) | <div>刚从小酒馆回来....堃哥V5!!!话说今晚的毛巾亮了~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1170903)<br>我妖气重我自豪<br>2012-07-06 23:57<br>赞(0) 踩(0) | <div>刚从小酒馆回来....堃哥V5!!!<br>话说今晚的毛巾亮了~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7334516)<br>音乐是夕阳的影子<br>2012-07-01 01:49<br>赞(0) 踩(0) | <div>兰州的味道。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3115415)<br> <br>2012-06-28 17:59<br>赞(0) 踩(0) | <div>又找回一个初中时爱的乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/982033)<br><br>2012-06-28 15:00<br>赞(0) 踩(0) | <div>昨天居然梦到了这个乐队的名字，很巧合。低迷，苦楚，自怨自艾</div> |
@@ -775,7 +775,7 @@ Drums:Dou Tao<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/475852)<br>活着就应问心无愧！<br>2011-10-14 22:07<br>赞(0) 踩(0) | <div>兰州兰州</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6246822)<br><br>2011-10-14 15:14<br>赞(1) 踩(0) | <div>喜欢这种非常有自己风格的中国摇滚乐队，纯粹的，我们知道，那是我们自己的味道。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5776468)<br><br>2011-10-14 03:11<br>赞(1) 踩(0) | <div>低吟 沉淀 不紧不慢 但深入身体 挥之不去 上瘾后的发狂 是习惯中的烙印。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376825)<br><br>2011-10-13 23:39<br>赞(0) 踩(0) | <div>主唱刘堃的页面<a href="http://www.xiami.com/artist/70057" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/artist/70057</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376825)<br><br>2011-10-13 23:39<br>赞(0) 踩(0) | <div>主唱刘堃的页面<br><a href="http://www.xiami.com/artist/70057" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/artist/70057</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1287117)<br><br>2011-10-13 19:20<br>赞(0) 踩(0) | <div>带点迷幻民谣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3621147)<br><br>2011-10-11 18:38<br>赞(0) 踩(0) | <div>兰州兰州！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2805522)<br><br>2011-10-10 22:31<br>赞(0) 踩(0) | <div>haoting</div> |
@@ -786,7 +786,7 @@ Drums:Dou Tao<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2888100)<br><br>2011-09-14 23:15<br>赞(0) 踩(0) | <div>实验民谣，带点迷幻 低调、民族 我知道不是所有人都喜欢小众音乐的，也不至于直接说难听吧？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24992)<br><br>2011-09-02 10:32<br>赞(0) 踩(0) | <div>等候低苦艾十月来广州</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4558902)<br>个体户<br>2011-07-28 14:36<br>赞(0) 踩(0) | <div>兰州！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376825)<br><br>2011-07-01 21:46<br>赞(0) 踩(0) | <div>主唱刘堃的页面<a href="http://www.xiami.com/artist/70057" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/artist/70057</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376825)<br><br>2011-07-01 21:46<br>赞(0) 踩(0) | <div>主唱刘堃的页面<br><a href="http://www.xiami.com/artist/70057" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/artist/70057</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1507028)<br><br>2011-06-17 12:49<br>赞(0) 踩(0) | <div>低苦艾乐队新专辑9月发行。详情：<a href="http://www.xiami.com/xnews/xnews-detail/id/37918" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/xnews/xnews-detail/id/37918</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/850597)<br><br>2011-06-07 10:52<br>赞(0) 踩(0) | <div>嘿青年</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3558999)<br><br>2011-05-29 08:11<br>赞(0) 踩(0) | <div>听过  我们不由自主的亲吻对方   很喜欢</div> |

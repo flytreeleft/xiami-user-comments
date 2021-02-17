@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f9cbfed8274b1ea1e91319c6d6249444.jpg)<br>丁世光](https://i.xiami.com/deanting) | **播放数**: 2519463<br>**粉丝数**: 1911<br>**评论数**: 93<br>**地区**: China 中国大陆<br>**风格**: 节奏布鲁斯 R&B, 放克 Funk, 灵魂乐 Soul, 流行 Pop<br> |
+| [![](../../images/musicians/f9cbfed8274b1ea1e91319c6d6249444.jpg)<br>丁世光](https://i.xiami.com/deanting) | **地区**: China 中国大陆<br>**风格**: 节奏布鲁斯 R&B, 放克 Funk, 灵魂乐 Soul, 流行 Pop<br>**播放数**: 2519463<br>**粉丝数**: 1911<br>**评论数**: 93<br> |
 
 ## 档案
 
@@ -22,14 +22,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319982687)<br><br>2020-10-29 23:06<br>赞(0) 踩(0) | <div>陶喆co-sign认证 = 品质保证</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432171538)<br><br>2020-08-19 21:29<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7010864)<br> <br>2020-08-14 10:33<br>赞(0) 踩(0) | <div>娃哈哈，你换头像了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12876004)<br>`<br>2020-07-21 20:52<br>赞(1) 踩(0) | <div>大都市Numero.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323733588)<br><br>2020-05-25 20:20<br>赞(0) 踩(0) | <div>好棒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268180084)<br><br>2020-05-23 21:21<br>赞(2) 踩(0) | <div>第一次听到丁世光的作品时，我没有听起来像哪位哪位歌手的感觉，我只是深感幸运能知道有这么位独特、阳光的歌手。毕竟好的作品和歌者凤毛麟角，经受了沉淀继续出好作品的都是真材实料的人。哈哈哈哈，我好能吹啊（害羞ing）加油啊，丁世光先生！ <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268180084)<br><br>2020-05-23 21:21<br>赞(2) 踩(0) | <div>第一次听到丁世光的作品时，我没有听起来像哪位哪位歌手的感觉，我只是深感幸运能知道有这么位独特、阳光的歌手。毕竟好的作品和歌者凤毛麟角，经受了沉淀继续出好作品的都是真材实料的人。<br>哈哈哈哈，我好能吹啊（害羞ing）<br>加油啊，丁世光先生！ <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298892363)<br>空调度数不同 何以伴终身<br>2020-04-22 08:47<br>赞(0) 踩(0) | <div>好听，冲鸭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39530099)<br>而我们应该长大<br>2020-04-14 19:10<br>赞(1) 踩(0) | <div>就觉得这个名字很熟悉，点开歌手介绍，果然写了很多熟悉的歌！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44927748)<br>就算有一样的喜好又意味着...<br>2020-03-27 01:58<br>赞(0) 踩(0) | <div>哇，是心酸的作曲诶！！厉害厉害</div> |

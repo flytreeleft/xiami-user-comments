@@ -51,8 +51,8 @@ ISRC CN-E04-95-308-06
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1428600)<br><br>2021-01-08 09:28<br>赞(1) 踩(0) | <div>你不了解我，却先爱上了我，现在你了解我了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336412825)<br> <br>2020-11-16 22:15<br>赞(0) 踩(0) | <div>郁冬的歌词真美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2391092)<br>666<br>2020-10-24 14:10<br>赞(0) 踩(0) | <div>真好</div> |
@@ -120,14 +120,14 @@ ISRC CN-E04-95-308-06
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45188073)<br><br>2015-06-03 00:02<br>赞(0) 踩(0) | <div>20年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45188073)<br><br>2015-06-03 00:01<br>赞(0) 踩(0) | <div>20年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32372297)<br><br>2015-06-01 10:53<br>赞(1) 踩(0) | <div>丢不掉的行李，是我不变的心～李健在《跟着电影去旅行》宣传片里有吉他弹唱～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47039486)<br>♪<br>2015-05-24 00:03<br>赞(0) 踩(0) | <div>歌词真微妙，差点以为唱的是男女之情，原来“你”是不安分的内心。“任凭这夜越来越深    你在我心中越来越沉     压的我不能翻身作自己的主人 ；任凭这灯越来越昏你在我眼中越来越真    看的清你满脸的风尘 ”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47039486)<br>♪<br>2015-05-24 00:03<br>赞(0) 踩(0) | <div>歌词真微妙，差点以为唱的是男女之情，原来“你”是不安分的内心。“任凭这夜越来越深    你在我心中越来越沉     压的我不能翻身作自己的主人 ；任凭这灯越来越昏<br>你在我眼中越来越真    看的清你满脸的风尘 ”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47039486)<br>♪<br>2015-05-23 23:52<br>赞(0) 踩(0) | <div>任凭这旅程越来越孤单，你在我面前越来越茫然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3871717)<br>无名天地之始也，有名万物...<br>2015-05-21 23:42<br>赞(0) 踩(0) | <div>不能翻身做自己的主人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12103064)<br>清醒到足以成为一个废人。<br>2015-05-21 21:14<br>赞(0) 踩(0) | <div>如果谁对我唱这个。我一定会哭。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3918115)<br> <br>2015-05-16 08:54<br>赞(0) 踩(0) | <div>我想念那时候的你，快乐青春年少自由飞翔。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41691150)<br> <br>2015-04-24 00:47<br>赞(1) 踩(0) | <div>让青春继续</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44097343)<br> 你应该是一场梦， 我应...<br>2015-04-18 15:29<br>赞(1) 踩(0) | <div>喜欢老狼清澈的音色。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2865615)<br>小小白痴。<br>2015-04-05 23:21<br>赞(1) 踩(0) | <div>作词：郁冬作曲：郁冬</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2865615)<br>小小白痴。<br>2015-04-05 23:21<br>赞(1) 踩(0) | <div>作词：<br>郁冬<br>作曲：<br>郁冬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343498)<br><br>2015-04-01 13:25<br>赞(0) 踩(0) | <div>词曲：郁冬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24354548)<br><br>2015-03-17 00:24<br>赞(0) 踩(0) | <div>给小美人鱼！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8764856)<br>爸爸,我恐怕不会有爱情了<br>2015-03-14 00:19<br>赞(0) 踩(0) | <div>這第200條，由我來填寫。</div> |
@@ -141,7 +141,7 @@ ISRC CN-E04-95-308-06
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/580072)<br>缪斯的恩赐<br>2014-12-21 01:27<br>赞(1) 踩(0) | <div>想了想，这曾经重复了无数遍的民谣适合做片尾曲，电影的最后没有结尾，只有绵长悠远而又朦胧模糊的长镜头…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/580072)<br>缪斯的恩赐<br>2014-12-21 01:24<br>赞(1) 踩(0) | <div>记忆总是伴着老歌汹涌而来。这曾经重复了无数遍的歌适合做片尾曲，电影的最后没有结尾，只有绵长悠远而又朦胧模糊的长镜头。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/468998)<br>大江大海山川，湖泊音乐和...<br>2014-12-08 14:27<br>赞(0) 踩(0) | <div>大一时学吉他弹唱，这首会了以后别的歌就都会了。好喜欢中间那段长笛旋律。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2014-10-22 20:20<br>赞(0) 踩(0) | <div><a href="http://emumo.xiami.com/u/7361462" target="_blank" rel="nofollow" name_card="7361462">@小小叉</a>郁冬，老狼，民谣。足够了，是不是：）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2014-10-22 20:20<br>赞(0) 踩(0) | <div><a href="http://emumo.xiami.com/u/7361462" target="_blank" rel="nofollow" name_card="7361462">@小小叉</a><br><br>郁冬，老狼，民谣。<br><br>足够了，是不是：）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14790026)<br>摇滚<br>2014-09-27 00:22<br>赞(0) 踩(0) | <div>最近循环播放的歌，郁冬写的，太喜欢了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33662769)<br><br>2014-09-01 14:02<br>赞(0) 踩(0) | <div>丢不下的行李，是我不变的心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15840678)<br>暂无签名~<br>2014-08-25 18:04<br>赞(0) 踩(0) | <div>想哭 :&amp;#039;-(</div> |
@@ -205,7 +205,7 @@ ISRC CN-E04-95-308-06
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7834129)<br><br>2013-05-30 03:56<br>赞(0) 踩(0) | <div>不变的心~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12607904)<br><br>2013-05-30 01:54<br>赞(0) 踩(0) | <div>哈哈。我们的幽灵音乐。那时候我已经开始迷恋你了。可爱的你。声音动听的你。我爱的你。那年我十四岁。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5625469)<br> <br>2013-05-20 10:58<br>赞(0) 踩(0) | <div>TAT</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33062)<br><br>2013-05-12 07:43<br>赞(0) 踩(0) | <div>任凭这夜越来越深你在我心中越来越沉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33062)<br><br>2013-05-12 07:43<br>赞(0) 踩(0) | <div>任凭这夜越来越深<br>你在我心中越来越沉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11448160)<br><br>2013-05-11 10:52<br>赞(0) 踩(0) | <div>[任凭这夜越来越深 你在我心中越来越沉 压得我 不能翻身做自己的主人] 老狼太可爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141842)<br>一朵顶真菇 几近蒲公英<br>2013-05-10 17:16<br>赞(0) 踩(0) | <div>话多嫌二话少被指反常，个么乃们中意边个呢？@不戴花儿的四姨 谢谢乃们关心〜〜〜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5371249)<br><br>2013-05-09 23:30<br>赞(0) 踩(0) | <div>校园恋爱的时代，我会轻轻的唱这首来着我心给你，虽然很多时候歌词不记得只能哼过去，虽然你没有像我一样喜欢老狼就像我没有像你一样喜欢燕姿。我觉得这首歌简直是最最温柔的情歌。真的，到现在还是这么觉得。</div> |
@@ -261,7 +261,7 @@ ISRC CN-E04-95-308-06
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7702763)<br><br>2012-08-02 12:04<br>赞(0) 踩(0) | <div>带来一首苍老的歌，对着你轻轻地说，我不在乎这花开花落。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4299299)<br><br>2012-07-19 00:25<br>赞(0) 踩(0) | <div>来自我心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7863400)<br><br>2012-07-06 22:22<br>赞(0) 踩(0) | <div>词很美，淡淡夜，听内在的声音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2200683)<br><br>2012-06-15 18:37<br>赞(0) 踩(0) | <div>任凭这天空越来越湛蓝　你在我身边越来越平凡　可是有些说过的话　一直没能改变任凭这旅程越来越孤单　你在我面前越来越茫然　丢不下的行李　是我不变的心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2200683)<br><br>2012-06-15 18:37<br>赞(0) 踩(0) | <div>任凭这天空越来越湛蓝　你在我身边越来越平凡　可是有些说过的话　一直没能改变<br>任凭这旅程越来越孤单　你在我面前越来越茫然　丢不下的行李　是我不变的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1265336)<br>我还没想好要写什么...<br>2012-06-10 23:56<br>赞(0) 踩(0) | <div>昨晚老狼第一首</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5855523)<br><br>2012-06-11 17:28<br>赞(0) 踩(0) | <div>你是说昨晚李志？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136115)<br><br>2012-06-09 22:09<br>赞(0) 踩(0) | <div>每当我靠近精神病院，我都觉得，到家了！亲爱的@德尔菲娅 我该多爱你呢，当我听到有老爷们儿唱着，“任凭这天空越来越湛蓝 你在我身边越来越平凡”，管他是老狼是李志还是什么别的老爷们儿，我都觉得好幸福啊！！</div> |
@@ -310,19 +310,19 @@ ISRC CN-E04-95-308-06
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3498551)<br><br>2011-04-27 13:52<br>赞(0) 踩(0) | <div>自己曾经给别人唱起的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774439)<br><br>2011-03-21 17:03<br>赞(0) 踩(0) | <div>在车上的收音机里听到的。外面淅淅沥沥的春雨下，大地充满勃发的生机。这样一首歌，很唯美。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1070757)<br><br>2011-03-13 17:03<br>赞(0) 踩(0) | <div>多年没听的老歌  你会喜欢的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2560779)<br><br>2011-02-14 01:22<br>赞(0) 踩(0) | <div>任凭这旅程越来越孤单你在我面前越来越茫然丢不下的行李是我不变的心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2560779)<br><br>2011-02-14 01:22<br>赞(0) 踩(0) | <div>任凭这旅程越来越孤单<br>你在我面前越来越茫然<br>丢不下的行李<br>是我不变的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249186)<br>爱音乐 爱美女 爱一切美...<br>2011-01-30 11:59<br>赞(0) 踩(0) | <div>任凭这夜越来越深</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364021)<br>舰政本部造舰中佐<br>2011-01-25 10:50<br>赞(0) 踩(0) | <div>轰轰烈烈的感情也许犹如烟花美丽的绽放而又瞬间的消逝平平淡淡，吵吵闹闹的爱情一路过来当回望时，你会感到十分的感慨并从内心中去感动感情就是越来越深，月积年累那越来越厚越来越真当快到人生的终点时两人才会悲痛的告别并相约发誓来世还能在一起。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364021)<br>舰政本部造舰中佐<br>2011-01-25 10:50<br>赞(0) 踩(0) | <div>轰轰烈烈的感情也许犹如烟花<br>美丽的绽放而又瞬间的消逝<br><br>平平淡淡，吵吵闹闹的爱情一路过来<br>当回望时，你会感到十分的感慨并从内心中去感动<br><br>感情就是越来越深，月积年累<br>那越来越厚<br>越来越真<br>当快到人生的终点时<br>两人才会悲痛的告别<br>并相约发誓来世还能在一起。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2011-01-18 14:24<br>赞(0) 踩(0) | <div>有太多记忆了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267583)<br> <br>2010-12-27 14:20<br>赞(0) 踩(0) | <div>校园民谣 貌似已经越来越远的 就像小时候的梦想中的校园 这一辈子可能得不到了 我的心也茫然了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1158455)<br><br>2010-07-31 13:06<br>赞(0) 踩(0) | <div>简单的美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/500870)<br><br>2010-03-27 12:58<br>赞(0) 踩(0) | <div>还有两年，我也将离开校园，那一首首纯真校园民谣是否还会伴着我？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/635262)<br>我还没想好要写什么...<br>2010-03-08 19:28<br>赞(0) 踩(0) | <div>最初的民谣</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53016)<br><br>2010-02-28 08:36<br>赞(0) 踩(0) | <div>任凭这天空越来越湛蓝你在我身边越来越平凡可是有些说过的话一直没能改变</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53016)<br><br>2010-02-28 08:36<br>赞(0) 踩(0) | <div>任凭这天空越来越湛蓝<br>你在我身边越来越平凡<br>可是有些说过的话<br>一直没能改变</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63280)<br><br>2010-02-21 15:02<br>赞(0) 踩(0) | <div>是我不变的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322847)<br><br>2010-01-27 10:17<br>赞(0) 踩(0) | <div>真挚</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53016)<br><br>2010-01-01 20:22<br>赞(0) 踩(0) | <div>任凭这天空越来越湛蓝你在我身边越来越平凡可是有些说过的话一直没能改变任凭这旅程越来越孤单你在我面前越来越茫然丢不下的行李是我不变的心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53016)<br><br>2010-01-01 20:22<br>赞(0) 踩(0) | <div>任凭这天空越来越湛蓝你在我身边越来越平凡可是有些说过的话一直没能改变任凭这旅程越来越孤单你在我面前越来越茫然丢不下的行李是我不变的心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2009-10-16 22:05<br>赞(0) 踩(0) | <div>无法形容。这一张专辑里最爱的一首。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53016)<br><br>2010-01-01 20:22<br>赞(0) 踩(0) | <div>任凭这天空越来越湛蓝<br>你在我身边越来越平凡<br>可是有些说过的话<br>一直没能改变<br>任凭这旅程越来越孤单<br>你在我面前越来越茫然<br>丢不下的行李<br>是我不变的心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53016)<br><br>2010-01-01 20:22<br>赞(0) 踩(0) | <div>任凭这天空越来越湛蓝<br>你在我身边越来越平凡<br>可是有些说过的话<br>一直没能改变<br>任凭这旅程越来越孤单<br>你在我面前越来越茫然<br>丢不下的行李<br>是我不变的心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2009-10-16 22:05<br>赞(0) 踩(0) | <div>无法形容。<br>这一张专辑里最爱的一首。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16102)<br><br>2009-04-24 14:45<br>赞(0) 踩(0) | <div>校园风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11060)<br>若我离去，后会无期。<br>2008-12-15 22:29<br>赞(0) 踩(0) | <div>有些说过的话，一直没有改变。</div> |

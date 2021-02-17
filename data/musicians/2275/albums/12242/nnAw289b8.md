@@ -43,10 +43,10 @@ La……<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375059907)<br><br>2021-01-30 09:30<br>赞(0) 踩(0) | <div>怎么会有这么治愈的歌曲。从小家伙的歌单中发现的。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354909995)<br><br>2020-12-01 19:40<br>赞(1) 踩(0) | <div>宝贝 月亮为你祝福哦成长是快乐的旅途勇敢迈开你的脚步宝贝 妈妈怀里安睡 妈妈宝贝 爸爸是你椅背 爸爸你是我们的心肝宝贝爸爸妈妈的爱永相随宝贝 星星为你指路哦宝贝 月亮为你祝福哦成长是快乐的旅途勇敢迈开你的脚步宝贝 妈妈怀里安睡 妈妈宝贝 爸爸是你椅背 爸爸你是我们的心肝宝贝爸爸妈妈的爱永相随你是我们的心肝宝贝爸妈的爱永相随</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354909995)<br><br>2020-12-01 19:40<br>赞(1) 踩(0) | <div>宝贝 月亮为你祝福哦<br>成长是快乐的旅途<br>勇敢迈开你的脚步<br>宝贝 妈妈怀里安睡 妈妈<br>宝贝 爸爸是你椅背 爸爸<br>你是我们的心肝宝贝<br>爸爸妈妈的爱永相随<br>宝贝 星星为你指路哦<br>宝贝 月亮为你祝福哦<br>成长是快乐的旅途<br>勇敢迈开你的脚步<br>宝贝 妈妈怀里安睡 妈妈<br>宝贝 爸爸是你椅背 爸爸<br>你是我们的心肝宝贝<br>爸爸妈妈的爱永相随<br>你是我们的心肝宝贝<br>爸妈的爱永相随</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444429945)<br><br>2020-09-27 22:06<br>赞(0) 踩(0) | <div>好好休息一下吧！ 我爱你❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9327972)<br><br>2020-09-19 08:36<br>赞(0) 踩(0) | <div>好听 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347772864)<br><br>2020-08-24 14:07<br>赞(0) 踩(0) | <div>^_^</div> |
@@ -73,12 +73,12 @@ La……<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425882180)<br><br>2020-02-29 22:13<br>赞(0) 踩(0) | <div>一岁半儿子睡觉前不想和爸爸挂视频，哭了二十多分钟，搜到这手歌，没听完一整首歌就不哭了。听着睡着了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427851142)<br><br>2020-02-23 16:28<br>赞(1) 踩(0) | <div>这首歌宝宝不适应，歌词怪怪的，听着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425230339)<br><br>2020-02-07 21:50<br>赞(1) 踩(0) | <div>宝宝睡觉就听这首，很舒缓</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173244142)<br><br>2020-01-20 12:03<br>赞(0) 踩(0) | <div>ㄏ'ㄦ'ㄏ'ㄕ'ㄩ'ㄠ'ㄤ'ㄠ'ㄠ'ㄜ˙˙˙˙˙˙˙˙˙ㄛㄨㄩㄙㄘㄆㄇㄈ遇見    次要</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173244142)<br><br>2020-01-20 12:03<br>赞(0) 踩(0) | <div>ㄏ'ㄦ'ㄏ'ㄕ'ㄩ'ㄠ'ㄤ'ㄠ'ㄠ'ㄜ˙˙˙˙˙˙˙˙˙ㄛㄨㄩㄙㄘㄆㄇㄈ遇見    次要</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173244142)<br><br>2020-01-20 12:03<br>赞(0) 踩(0) | <div>ㄏ'ㄦ'ㄏ'ㄕ'ㄩ'ㄠ'ㄤ'ㄠ'ㄠ'ㄜ˙˙˙˙˙˙˙˙˙ㄛㄨㄩㄙㄘㄆㄇㄈ<br>遇見    次要</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173244142)<br><br>2020-01-20 12:03<br>赞(0) 踩(0) | <div>ㄏ'ㄦ'ㄏ'ㄕ'ㄩ'ㄠ'ㄤ'ㄠ'ㄠ'ㄜ˙˙˙˙˙˙˙˙˙ㄛㄨㄩㄙㄘㄆㄇㄈ<br>遇見    次要</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173244142)<br><br>2020-01-20 12:00<br>赞(0) 踩(0) | <div>杨家将⊙ω⊙⊙ωm妈妈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7991638)<br> <br>2020-01-15 15:16<br>赞(5) 踩(0) | <div>前几句比较适合哄睡，后面的歌词不好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37958879)<br>一个人的时候多学习，两个...<br>2019-12-01 23:54<br>赞(3) 踩(0) | <div>为人父母，必备曲目之一</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295001193)<br>我还没想好要写什么...<br>2019-11-25 21:42<br>赞(3) 踩(0) | <div>同林鸟 纷飞燕 都是梦魇如果有孩子却即将要面对离婚这件事，听到这个歌是真想哭吧。希望每个家庭都可以幸福。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295001193)<br>我还没想好要写什么...<br>2019-11-25 21:42<br>赞(3) 踩(0) | <div>同林鸟 纷飞燕 都是梦魇<br>如果有孩子却即将要面对离婚这件事，听到这个歌是真想哭吧。希望每个家庭都可以幸福。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407944491)<br><br>2019-10-22 10:18<br>赞(1) 踩(0) | <div>nvmenvcimuk dkdkbob去ā你想的啊！吧吧吧主好好学悦耳rnmaliwawaqzoren</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287203582)<br> <br>2019-09-21 14:23<br>赞(10) 踩(0) | <div>一个人带娃听着这首歌特别有感触</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312663030)<br><br>2019-09-07 17:03<br>赞(3) 踩(0) | <div>宝贝，赶紧睡吧！妈妈好困</div> |
@@ -91,7 +91,7 @@ La……<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412466300)<br><br>2019-07-19 17:31<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"> <img src="../../../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"> <img src="../../../../images/comments/a5bf226f378589f77a947faef01f985e.png"> <img src="../../../../images/comments/d83efdd560ba8c179effc1a9fda78817.png">[18禁] <img src="../../../../images/comments/89a3757c2a80c5f09684e3d1679cde0a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420789797)<br><br>2019-07-18 01:14<br>赞(1) 踩(0) | <div>神曲 一听就安静了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325034508)<br><br>2019-07-12 08:49<br>赞(0) 踩(0) | <div>儿子喜欢听！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242793335)<br><br>2019-07-08 00:17<br>赞(0) 踩(0) | <div>希望我在意的人每一个孤独的夜都睡得安稳</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242793335)<br><br>2019-07-08 00:17<br>赞(0) 踩(0) | <div>希望我在意的人<br>每一个孤独的夜都睡得安稳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242793335)<br><br>2019-07-08 00:07<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335608465)<br><br>2019-07-03 07:49<br>赞(1) 踩(0) | <div>香香唱的这个版本最好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42085315)<br>我还没想好要写什么...<br>2019-06-29 11:33<br>赞(0) 踩(0) | <div>一首歌就听睡觉了</div> |
@@ -127,7 +127,7 @@ La……<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350304311)<br><br>2019-01-21 21:56<br>赞(2) 踩(0) | <div>最喜欢的歌之一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285222557)<br>但愿我可以没成长，完全凭...<br>2019-01-20 18:37<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315272328)<br>没什么好说的<br>2019-01-15 23:47<br>赞(2) 踩(0) | <div>女儿睡觉最喜欢听的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303881052)<br>开心赚钱每一天！！！<br>2019-01-12 12:41<br>赞(2) 踩(0) | <div>妈妈唱过给我听，我唱过给我宝贝儿听，，， <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303881052)<br>开心赚钱每一天！！！<br>2019-01-12 12:41<br>赞(2) 踩(0) | <div>妈妈唱过给我听，<br><br>我唱过给我宝贝儿听，，， <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48130716)<br> <br>2019-01-11 20:08<br>赞(3) 踩(0) | <div>能让我仔仔安静的小曲子，自从感觉到你胎动，觉得一切都是那么美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12130637)<br><br>2019-01-11 12:41<br>赞(3) 踩(0) | <div>一岁五个月的女儿昨天晚上竟然听这首歌流下了不知道是感动还是伤感的泪水。。。神了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409007783)<br><br>2019-01-08 01:53<br>赞(1) 踩(0) | <div>好几天没听了 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -158,7 +158,7 @@ La……<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404073258)<br><br>2018-09-16 20:49<br>赞(2) 踩(0) | <div>lmmmmmiiu</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346245012)<br>我还没想好要写什么...<br>2018-09-11 19:14<br>赞(2) 踩(0) | <div>好ibnmjm  lzzbbgjuiopj龙飞抚顺克里特挖出沟沟壑壑个回复y</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48281602)<br><br>2018-09-08 14:23<br>赞(2) 踩(0) | <div>天 yxzrutonwoooobonbal</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11967782)<br>我还没想好要写什么...<br>2018-08-27 08:48<br>赞(2) 踩(0) | <div>＂一</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11967782)<br>我还没想好要写什么...<br>2018-08-27 08:48<br>赞(2) 踩(0) | <div>＂<br>一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46228093)<br>燕雀安知鸿鹄之志。<br>2018-08-22 23:29<br>赞(2) 踩(0) | <div>这歌我是喜欢的。哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281327658)<br><br>2018-08-05 20:27<br>赞(1) 踩(0) | <div>哈哈哈哈御魂五马街十几集是吧说哈是吧上哪弄你爸爸你仨你那湖大你那叫爸爸巴巴爸爸巴巴爸爸你那美娜放哪你打谢娜从哪能不能那就你你你好纠结啊哈哈在自己在那在哪自己哈哈哈这哈哈这咋招呼去啊u去哦为i死是咋  金黄色的不舒服你就是那种那说说撒叫啥啊世界级</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338206310)<br><br>2018-08-02 22:37<br>赞(2) 踩(0) | <div>每一首歌都是人生一段美好的回忆，相隔多年。再次听这首歌，想想怀宝贝那美好的时光。</div> |
@@ -180,7 +180,7 @@ La……<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336784770)<br><br>2018-05-27 13:51<br>赞(2) 踩(0) | <div>&amp;hellip;&amp;hellip;的图DJ截图的特体婆婆生日#3</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336784770)<br><br>2018-05-27 13:46<br>赞(2) 踩(0) | <div>loloooo</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366751398)<br><br>2018-05-18 21:29<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54534207)<br>再见，感谢虾米音乐深夜的...<br>2018-05-07 22:28<br>赞(2) 踩(0) | <div>没有耳机的夜晚特别难过&amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54534207)<br>再见，感谢虾米音乐深夜的...<br>2018-05-07 22:28<br>赞(2) 踩(0) | <div>没有耳机的夜晚<br>特别难过<br>&amp;hellip;&amp;hellip;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336784770)<br><br>2018-05-27 13:47<br>赞(0) 踩(0) | <div>大把&amp;hellip;6</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299722951)<br><br>2018-04-24 21:17<br>赞(2) 踩(0) | <div>确定听完了还能睡着？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356433859)<br><br>2018-04-23 22:09<br>赞(4) 踩(0) | <div>很怀念</div> |
@@ -240,14 +240,14 @@ La……<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337851491)<br><br>2017-12-21 15:29<br>赞(2) 踩(0) | <div>支持</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46484126)<br><br>2017-12-14 21:02<br>赞(138) 踩(0) | <div>小宝贝快快睡&amp;hellip;陪儿子一起听着入睡 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325783653)<br><br>2017-12-31 13:14<br>赞(0) 踩(0) | <div>嘻嘻</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337904379)<br><br>2018-02-14 12:35<br>赞(0) 踩(0) | <div>narmgxrr</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356900983)<br><br>2018-05-16 21:58<br>赞(0) 踩(0) | <div>&amp;middot;dI、。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337904379)<br><br>2018-02-14 12:35<br>赞(0) 踩(0) | <div>narmg<br>xrr</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356900983)<br><br>2018-05-16 21:58<br>赞(0) 踩(0) | <div>&amp;middot;d<br><br>I、。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18597891)<br>初闻不知曲中意，再闻已是...<br>2018-06-22 11:43<br>赞(0) 踩(0) | <div>一.y以</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281327658)<br><br>2018-07-09 22:07<br>赞(0) 踩(0) | <div>kk_</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101739218)<br> <br>2018-08-02 21:38<br>赞(0) 踩(0) | <div>是丶</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340258967)<br><br>2018-09-09 21:46<br>赞(0) 踩(0) | <div>？&amp;hellip;？是&amp;hellip;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42241888)<br><br>2018-10-13 19:33<br>赞(0) 踩(0) | <div>jsm</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406060697)<br><br>2018-11-26 14:49<br>赞(0) 踩(0) | <div>eklnh2m.好啊也得aaa2deyyu3yeefaca2eh1w0o99a0x59awomon950hu0</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406060697)<br><br>2018-11-26 14:49<br>赞(0) 踩(0) | <div>eklnh2m.好啊也得aaa2deyyu3<br>yeefaca2eh1w0o99a0x59awomon950hu0</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333287478)<br><br>2019-02-06 14:05<br>赞(0) 踩(0) | <div>MAC</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400724849)<br><br>2020-03-31 11:57<br>赞(0) 踩(0) | <div>ME</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334055499)<br><br>2017-12-13 22:50<br>赞(4) 踩(0) | <div>好听好听！</div> |
@@ -272,7 +272,7 @@ La……<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378302207)<br><br>2018-07-18 08:57<br>赞(0) 踩(0) | <div>⑩</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281327658)<br><br>2018-07-20 18:05<br>赞(0) 踩(0) | <div><q><b>香水说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333734049)<br><br>2018-08-09 12:29<br>赞(0) 踩(0) | <div><q><b>洋子说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333734049)<br><br>2018-08-09 12:30<br>赞(0) 踩(0) | <div>4？7哇1啊  uoISVchyu。up0</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333734049)<br><br>2018-08-09 12:30<br>赞(0) 踩(0) | <div>4？<br>7哇1啊  uoISVchyu。up0</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333734049)<br><br>2018-08-20 12:32<br>赞(0) 踩(0) | <div><q><b>雪儿说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356107913)<br><br>2018-08-20 21:23<br>赞(0) 踩(0) | <div><q><b>雪儿说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376567276)<br><br>2018-08-21 23:57<br>赞(0) 踩(0) | <div>0？入计议邋\戴&amp;ldquo;示</div> |
@@ -302,7 +302,7 @@ La……<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321294758)<br><br>2017-09-29 10:29<br>赞(3) 踩(0) | <div>2：</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42363331)<br><br>2017-09-28 21:26<br>赞(44) 踩(0) | <div>发现这首歌是在孩子的玩具车上听到这首歌，非常喜欢</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307180429)<br><br>2020-07-04 21:04<br>赞(0) 踩(0) | <div>？？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301241374)<br><br>2017-09-27 12:34<br>赞(3) 踩(0) | <div>个人感觉dj个人感觉dj版的更有味道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301241374)<br><br>2017-09-27 12:34<br>赞(3) 踩(0) | <div>个人感觉dj<br>个人感觉dj版的更有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326384603)<br><br>2017-09-26 22:43<br>赞(3) 踩(0) | <div>觉得是被埋没的好歌。。词曲都没得说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14029961)<br>阿曼陀罗<br>2017-09-21 21:37<br>赞(2) 踩(0) | <div>宝宝上幼儿园了，应该是睡午觉老师放过，回来睡前会唱几句了，我要学会</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307931012)<br><br>2017-09-20 00:06<br>赞(5) 踩(0) | <div>好歌 好词 好声音！！！</div> |

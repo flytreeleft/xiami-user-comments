@@ -39,13 +39,13 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90086500)<br>1974.5.2<br>2020-10-25 13:10<br>赞(0) 踩(0) | <div>中间的吉他弹奏太舒服了！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36412311)<br><br>2020-10-17 16:03<br>赞(0) 踩(0) | <div>每次听这首歌都想辞职肩上一把破吉他 流浪到天边 这歌词绝了 那么洒脱那么不经意</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36412311)<br><br>2020-10-17 16:03<br>赞(0) 踩(0) | <div>每次听这首歌都想辞职<br>肩上一把破吉他 流浪到天边 这歌词绝了 那么洒脱那么不经意</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51750570)<br>闭上嘴巴 用心倾听 踽踽...<br>2020-09-12 19:29<br>赞(0) 踩(0) | <div>买块地种田我也想 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368930451)<br>音乐，牵动我的喜怒哀乐…...<br>2020-06-24 08:41<br>赞(0) 踩(0) | <div>乐队</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285864787)<br>如何不想你，如何不爱你。<br>2020-02-29 23:32<br>赞(0) 踩(0) | <div>想要离开一个人想要离开这段情远走高飞真的不容易却用一种欢快的拍子来诠释实在很好听也许这就是阿岳现在的心情状态的没有太多哀愁，心境是开朗的也不想让听歌的人落泪而是要向前看，勇敢的飞翔，</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285864787)<br>如何不想你，如何不爱你。<br>2020-02-29 23:32<br>赞(0) 踩(0) | <div>想要离开一个人<br>想要离开这段情<br>远走高飞<br>真的不容易<br>却用一种欢快的拍子来诠释<br>实在很好听<br>也许这就是阿岳现在的心情状态的<br>没有太多哀愁，心境是开朗的<br>也不想让听歌的人落泪<br>而是要向前看，勇敢的飞翔，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260636996)<br>我还没想好要写什么...<br>2019-12-10 21:22<br>赞(0) 踩(0) | <div>张哥：你的歌很有味道！我非常喜欢。希望你能够收我为徒 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">，做什么都行。如果你来到我家乡，我亲自为你烤全羊。你看看我的手就知道我有没有偷懒，天天在练你的歌……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23227010)<br>生活啊<br>2019-11-24 16:52<br>赞(0) 踩(0) | <div>还是当年的那个张震岳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205491253)<br>耐得住寂寞，才能守得住繁...<br>2019-08-10 08:54<br>赞(1) 踩(0) | <div>什么时候有机会听一场阿岳的现场呢 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
@@ -67,7 +67,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408053585)<br><br>2018-12-08 22:30<br>赞(0) 踩(0) | <div>超喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186156516)<br>我的故事被風吹散 我的明...<br>2018-12-01 23:00<br>赞(1) 踩(0) | <div>多好的歌儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91456058)<br>那个爱喝汽水的少年，终究...<br>2018-11-20 16:34<br>赞(0) 踩(0) | <div>养鸡种田</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290904523)<br>走过风，听过雨，看过星<br>2018-10-19 15:53<br>赞(2) 踩(0) | <div>如果真有下辈子，我一定要做我喜欢的事一个人骑着单车去流浪，背着吉他一路歌唱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290904523)<br>走过风，听过雨，看过星<br>2018-10-19 15:53<br>赞(2) 踩(0) | <div>如果真有下辈子，我一定要做我喜欢的事<br>一个人骑着单车去流浪，背着吉他一路歌唱</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355617625)<br>& 细水还来不及长流  ...<br>2019-01-09 00:22<br>赞(0) 踩(0) | <div>想做的事要趁早</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290904523)<br>走过风，听过雨，看过星<br>2019-01-09 14:32<br>赞(0) 踩(0) | <div>去了西藏，没骑单车，坐着火车去拉萨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283062568)<br><br>2018-09-22 11:51<br>赞(2) 踩(0) | <div>球打得好，歌唱得好，试问歌坛谁能敌？</div> |
@@ -82,7 +82,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355662082)<br> <br>2018-06-25 20:04<br>赞(1) 踩(0) | <div>还是很喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258710957)<br><br>2018-06-14 18:35<br>赞(1) 踩(0) | <div>好喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242656321)<br>永恒是很长的时间，特别是...<br>2018-06-10 17:26<br>赞(1) 踩(0) | <div>好听！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324452307)<br>取悦自己。<br>2018-06-05 20:41<br>赞(2) 踩(0) | <div>带上一把破吉他流浪去如何？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324452307)<br>取悦自己。<br>2018-06-05 20:41<br>赞(2) 踩(0) | <div>带上一把破吉他流浪去<br>如何？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98083722)<br>찬열하고경수 좋아요<br>2018-06-05 18:07<br>赞(2) 踩(0) | <div>有多少人和我一樣 聽成蔡健雅 再見 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322232101)<br>LY<br>2018-06-05 00:41<br>赞(2) 踩(0) | <div>心情不好就听这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41488998)<br><br>2018-05-21 10:32<br>赞(36) 踩(0) | <div>张震岳的歌是很有意思的，有一颗永远童真心的有才华的歌手，让我想起西班牙海滩上轻弹木吉它的男孩。 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">听他的歌很轻松没有刻意只有温暖。</div> |
@@ -112,7 +112,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198496496)<br><br>2018-01-04 00:41<br>赞(1) 踩(0) | <div>破吉他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253459333)<br>陈信宏我喜欢你<br>2018-01-03 14:08<br>赞(1) 踩(0) | <div>阿岳真好听，有一种清新的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13411092)<br><br>2017-12-18 13:44<br>赞(1) 踩(0) | <div>送给傻逼傻逼热哈哈的七月份</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1822336)<br>我还没想好要写什么...<br>2017-12-16 21:29<br>赞(1) 踩(0) | <div>歌词错了  没法儿改【再犹豫就别后悔】不是【会后悔】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1822336)<br>我还没想好要写什么...<br>2017-12-16 21:29<br>赞(1) 踩(0) | <div>歌词错了  没法儿改<br>【再犹豫就别后悔】不是【会后悔】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288515849)<br>路是自己走出来的，没有后...<br>2017-12-10 08:57<br>赞(2) 踩(0) | <div>做任务</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320489866)<br><br>2017-12-03 22:52<br>赞(1) 踩(0) | <div>生活总是自己开的 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7554784)<br> <br>2017-12-03 20:19<br>赞(3) 踩(0) | <div>幻想退休养老要在花莲 买一块空地 养鸡种田</div> |
@@ -123,11 +123,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333923509)<br>完满状态<br>2017-11-19 09:28<br>赞(1) 踩(0) | <div>呐呐  我会弹   <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208944255)<br><br>2017-11-09 00:41<br>赞(1) 踩(0) | <div>。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16817393)<br>我还没想好要写什么...<br>2017-11-03 21:03<br>赞(1) 踩(0) | <div>不要再睡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25932745)<br>More free.<br>2017-10-28 00:17<br>赞(1) 踩(0) | <div>理由总是有太多时间浪费在上网游戏之间难得假日星期天何不骑着单车去看看河岸夕阳很美不要再睡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25932745)<br>More free.<br>2017-10-28 00:17<br>赞(1) 踩(0) | <div>理由总是有太多<br>时间浪费在上网游戏之间<br>难得假日星期天<br>何不骑着单车去看看河岸夕阳很美<br>不要再睡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7978992)<br>天空已蔚蓝 我会抬头看<br>2017-10-27 23:22<br>赞(1) 踩(0) | <div>#晚安#最好是艳阳天 约在海边不散不见 一定有人爽约 喝太多起不来之类 理由总是有太多 时间浪费在上网游戏之间 难得假日星期天 何不骑着单车去看看河岸夕阳很美 不要再睡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1759051)<br><br>2017-10-27 23:22<br>赞(2) 踩(0) | <div>理由总是太多 时间浪费在上网 游戏之间难得假日星期天 何不骑着单车去 看看河岸夕阳很美 不要再睡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2302715)<br>当我们和世界初相见，当我...<br>2017-10-27 23:18<br>赞(2) 踩(0) | <div>理由总是有太多 时间浪费在上网 游戏之间难得假日星期天 何不骑着单车去 看看河岸夕阳很美 不要再睡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5977197)<br>虾米，再见！谢谢你陪伴了...<br>2017-10-27 23:17<br>赞(2) 踩(0) | <div>理由总是有太多 时间浪费在上网 游戏之间难得假日星期天 何不骑着单车去 看看河岸夕阳很美 不要再睡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1759051)<br><br>2017-10-27 23:22<br>赞(2) 踩(0) | <div>理由总是太多 时间浪费在上网 游戏之间<br>难得假日星期天 何不骑着单车去 看看河岸夕阳很美 不要再睡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2302715)<br>当我们和世界初相见，当我...<br>2017-10-27 23:18<br>赞(2) 踩(0) | <div>理由总是有太多 时间浪费在上网 游戏之间<br>难得假日星期天 何不骑着单车去 看看河岸夕阳很美 不要再睡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5977197)<br>虾米，再见！谢谢你陪伴了...<br>2017-10-27 23:17<br>赞(2) 踩(0) | <div>理由总是有太多 时间浪费在上网 游戏之间<br>难得假日星期天 何不骑着单车去 看看河岸夕阳很美 不要再睡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13705295)<br><br>2017-10-27 23:03<br>赞(1) 踩(0) | <div>伪屌丝却唱出真屌丝的心情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4719707)<br><br>2017-10-27 23:03<br>赞(2) 踩(0) | <div>和龙哥骑了一下午的车 屁股好痛.沿途风景比在坐公车里看的 更真实吧.期间脑子里不停不放回放这首歌~哈哈</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10533709)<br><br>2018-01-27 10:25<br>赞(0) 踩(0) | <div>[带墨镜笑][带墨镜笑][带墨镜笑]</div> |
@@ -188,7 +188,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3854815)<br>不是我不明白<br>2017-07-05 11:56<br>赞(3) 踩(0) | <div>听歌早就换成网易了，为了听阿岳 再次下载了虾米。 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30493728)<br><br>2017-07-05 05:34<br>赞(1) 踩(0) | <div>任何事都为别人，自己摆在最后面！！！多少人有金子般的心，却被别人抛弃，还是要爱自己呀！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308293634)<br><br>2017-07-03 22:52<br>赞(1) 踩(0) | <div>因为阿岳所以虾米  +1</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95173016)<br><br>2017-07-02 18:27<br>赞(3) 踩(0) | <div>不与狗争 不与驴辩带着我们的吉他玩的是音乐不是装逼社会金项链</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95173016)<br><br>2017-07-02 18:27<br>赞(3) 踩(0) | <div>不与狗争 不与驴辩<br>带着我们的吉他<br>玩的是音乐<br>不是装逼社会金项链</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12491332)<br> <br>2017-06-29 00:20<br>赞(1) 踩(0) | <div>好棒啊！！遇到了这张专辑真是幸运！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257067487)<br><br>2017-06-27 08:56<br>赞(1) 踩(0) | <div>听张震岳吧虾米下回</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307568645)<br> <br>2017-06-26 12:12<br>赞(0) 踩(0) | <div>我也是 同感</div> |
@@ -250,14 +250,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181032302)<br> <br>2017-02-15 22:05<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12134978)<br><br>2017-02-04 20:06<br>赞(0) 踩(0) | <div>吼吼听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39047917)<br>哇哇哇<br>2017-02-04 08:32<br>赞(0) 踩(0) | <div>温暖的歌 虾米厉害</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201879457)<br> <br>2017-01-26 17:23<br>赞(3) 踩(0) | <div>任何事都为别人 自己摆在最后面来一次远走高飞 再犹豫就会后悔择期不如就今天 bye bye blue monday肩上一把破吉他 流浪到天边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201879457)<br> <br>2017-01-26 17:23<br>赞(3) 踩(0) | <div>任何事都为别人 自己摆在最后面<br>来一次远走高飞 再犹豫就会后悔<br>择期不如就今天 bye bye blue monday<br>肩上一把破吉他 流浪到天边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267449185)<br><br>2017-01-25 11:32<br>赞(167) 踩(0) | <div>为了阿岳专门下载虾米</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/176150744)<br><br>2017-06-28 12:00<br>赞(0) 踩(0) | <div>原来不止我一个人</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257001341)<br><br>2017-07-25 23:15<br>赞(0) 踩(0) | <div>我也是，一直找不到他的歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236075366)<br>love music<br>2017-11-20 22:10<br>赞(0) 踩(0) | <div>哇 真的 用虾米主要为了听阿岳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43876556)<br><br>2017-01-24 22:46<br>赞(0) 踩(0) | <div>阿岳阿岳阿岳！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212815143)<br><br>2017-01-21 21:34<br>赞(2) 踩(0) | <div>阿岳哥的歌都很轻松的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101274762)<br>sand,sun,che...<br>2017-01-21 14:25<br>赞(3) 踩(0) | <div>幻想退休養老要在花蓮買一塊農地養雞種田</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101274762)<br>sand,sun,che...<br>2017-01-21 14:25<br>赞(3) 踩(0) | <div>幻想退休養老要在花蓮<br>買一塊農地養雞種田</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83157100)<br><br>2017-01-16 05:55<br>赞(4) 踩(0) | <div>开着车，独自兜风，沿途的风景是面朝蓝色的大海，山谷的公路，沿旁的随风摇摆的花草，混杂的泥土香，这就是旅行的意义！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264523980)<br>我还没想好要写什么...<br>2017-02-22 15:25<br>赞(0) 踩(0) | <div>这就是世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238984229)<br><br>2017-01-15 22:09<br>赞(27) 踩(0) | <div>编曲很不错 ，不愧是骑士队领袖</div> |
@@ -405,7 +405,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49726157)<br><br>2016-06-11 10:08<br>赞(1) 踩(0) | <div>当初没有买吉他，要不我现在也有一把破吉他了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111933068)<br> <br>2016-06-06 19:36<br>赞(1) 踩(0) | <div>13年 高考前一天 一直在听这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102492302)<br>我还没想好要写什么...<br>2016-06-01 16:59<br>赞(0) 踩(0) | <div>有点不想回台北</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39886402)<br><br>2016-05-29 17:36<br>赞(1) 踩(0) | <div>还是最爱阿岳的歌 <img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png">肩上一把破吉他，流浪到天边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39886402)<br><br>2016-05-29 17:36<br>赞(1) 踩(0) | <div>还是最爱阿岳的歌 <img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"><br>肩上一把破吉他，流浪到天边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49324497)<br><br>2016-05-28 15:34<br>赞(0) 踩(0) | <div>詹皇的歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179506850)<br><br>2016-05-25 23:20<br>赞(0) 踩(0) | <div>yeah！远方几个辣妹浓妆艳抹照样戏水</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11971803)<br>相见甚欢，不来也可<br>2016-05-24 23:06<br>赞(0) 踩(0) | <div>彩铃</div> |
@@ -419,7 +419,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49649662)<br>黄威<br>2016-05-17 11:10<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈哈，什么时候才有这个吉他技术和，那么贵的吉他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74745792)<br>懒得介绍<br>2016-05-16 13:42<br>赞(0) 踩(0) | <div>流浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74745792)<br>懒得介绍<br>2016-05-16 13:39<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42746638)<br><br>2016-05-15 09:52<br>赞(0) 踩(0) | <div>回复@欠扁喵  ❎❌❎❌❎❌❎]因为你是你，音乐是音乐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42746638)<br><br>2016-05-15 09:52<br>赞(0) 踩(0) | <div>回复@欠扁喵  ❎❌❎❌❎❌❎]<br>因为你是你，音乐是音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169307422)<br> <br>2016-05-14 14:58<br>赞(0) 踩(0) | <div>~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50223313)<br>心情不好听听歌就好了<br>2016-05-07 23:46<br>赞(0) 踩(0) | <div>爱呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6937453)<br><br>2016-05-03 12:00<br>赞(0) 踩(0) | <div>#每日一曲# 天气这么好，就这样吧。</div> |
@@ -592,7 +592,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10583592)<br>https://www....<br>2015-03-02 19:56<br>赞(1) 踩(0) | <div>723</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9151987)<br> <br>2015-02-19 17:39<br>赞(0) 踩(0) | <div>外面的世界很精彩，不要再赖床=~ =</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18384569)<br>78%的氮气需要21%的...<br>2015-02-16 08:37<br>赞(0) 踩(0) | <div>最好是艳阳天，约在海边不散不见。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4823875)<br> <br>2015-02-11 11:50<br>赞(0) 踩(0) | <div>择期不如就今天看看河岸夕阳很美不要再睡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4823875)<br> <br>2015-02-11 11:50<br>赞(0) 踩(0) | <div>择期不如就今天<br>看看河岸夕阳很美<br>不要再睡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11042514)<br>enjoy life<br>2015-02-01 14:16<br>赞(1) 踩(0) | <div>棒！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32524411)<br>hhhh<br>2015-01-17 20:25<br>赞(0) 踩(0) | <div>前奏好舒服</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7757419)<br><br>2015-01-11 11:44<br>赞(0) 踩(0) | <div>“任何事都为别人 自己摆在最后面” 没错，就是写给我的歌。</div> |
@@ -680,7 +680,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24011972)<br><br>2013-11-02 11:55<br>赞(0) 踩(0) | <div>难得假日星期天，何不骑着单车去看看河岸夕阳很美，不要再睡..........</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6315893)<br><br>2013-10-30 16:11<br>赞(0) 踩(0) | <div>“回家养鸡种田”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15256494)<br><br>2013-10-29 11:30<br>赞(0) 踩(0) | <div>今天是这首歌的天气。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19318929)<br>偶尔，一个人的时候，只是...<br>2013-10-26 18:10<br>赞(0) 踩(0) | <div>跑步拉筋，放松  很好的一首歌， 柳市夜景其实蛮不错的。就是看的地方有点凉。LET&amp;#039;S GO！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19318929)<br>偶尔，一个人的时候，只是...<br>2013-10-26 18:10<br>赞(0) 踩(0) | <div>跑步拉筋，放松  很好的一首歌， 柳市夜景其实蛮不错的。就是看的地方有点凉。<br>LET&amp;#039;S GO！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13665550)<br><br>2013-10-18 12:41<br>赞(0) 踩(0) | <div>大男孩又来啦~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7984155)<br>暂无签名~<br>2013-10-16 15:32<br>赞(0) 踩(0) | <div>肩上一把破吉他 流浪到天边 噢耶~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3220965)<br>我还没想好要写什么...<br>2013-10-02 10:22<br>赞(0) 踩(0) | <div>假期了，出门的费钱看人头，不出门的说你浪费假期，纠结啊！听下歌吧·...    海南岛走起~</div> |
@@ -691,7 +691,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4719707)<br><br>2013-09-16 19:47<br>赞(0) 踩(0) | <div>和龙哥骑了一下午的车 屁股好痛 切身感觉 沿路风景和坐公车里看的 更真实吧 脑子里不停不放回放这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4719707)<br><br>2013-09-16 19:41<br>赞(0) 踩(0) | <div>骑了一下午的车 屁股好痛 但沿路风景和坐公车里看的 确实是两种不同感觉 脑子里不停不放回放这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21729931)<br><br>2013-09-16 13:58<br>赞(0) 踩(0) | <div>bye bye blue monday...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1339704)<br>你会如愿以偿<br>2013-09-11 23:17<br>赞(0) 踩(0) | <div>漂浮在平静海面 脑子空空没所谓 一只海龟有点不想回台北 幻想退休养老要 在花莲 买一块农地 养鸡种田</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1339704)<br>你会如愿以偿<br>2013-09-11 23:17<br>赞(0) 踩(0) | <div>漂浮在平静海面 脑子空空没所谓 一只海龟<br>有点不想回台北 幻想退休养老要 在花莲 买一块农地 养鸡种田</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6418379)<br>白天黯淡 夜晚不朽<br>2013-09-11 10:59<br>赞(0) 踩(0) | <div>传播正能量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6683358)<br><br>2013-09-08 11:21<br>赞(0) 踩(0) | <div>难得假日星期天 夏天皮肤特别黑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21432472)<br><br>2013-09-08 08:06<br>赞(0) 踩(0) | <div>阿岳阿岳!!</div> |
@@ -725,7 +725,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6730167)<br><br>2013-08-16 16:16<br>赞(0) 踩(0) | <div>嘿嘿。  我喜欢这种生活。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3547187)<br>无他，听音乐而已。<br>2013-08-15 10:18<br>赞(0) 踩(0) | <div>攒钱中，为了在毕业前去一趟向往已久的台湾，因为卢广仲，因为张震岳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19329011)<br><br>2013-08-14 23:00<br>赞(0) 踩(0) | <div>自己去玩多好啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2722290)<br>KeepDreaming<br>2013-08-14 22:06<br>赞(0) 踩(0) | <div>择期不如就今天 bye bye blue monday~肩上一把破吉他 流浪到天边~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2722290)<br>KeepDreaming<br>2013-08-14 22:06<br>赞(0) 踩(0) | <div>择期不如就今天 bye bye blue monday~<br>肩上一把破吉他 流浪到天边~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186081)<br><br>2013-08-14 10:30<br>赞(0) 踩(0) | <div>择期不如就今天 bye bye blue monday</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6130262)<br>我还没想好要写什么...<br>2013-08-12 12:03<br>赞(260) 踩(0) | <div>所谓的“伪屌丝”唱出“真屌丝”的心情，就是这个意思。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49070608)<br>我还没想好要写什么...<br>2016-06-30 22:55<br>赞(0) 踩(0) | <div>头像是jm吗</div> |
@@ -740,19 +740,19 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1158914)<br>高沙<br>2013-08-03 10:32<br>赞(0) 踩(0) | <div>择期不如就今天 bye bye blue Monday</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17161963)<br><br>2013-08-03 08:54<br>赞(0) 踩(0) | <div>喜欢张震岳的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/864833)<br><br>2013-08-02 00:30<br>赞(0) 踩(0) | <div>不要再睡。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18365017)<br><br>2013-08-01 22:45<br>赞(0) 踩(0) | <div>任何事都为别人 自己摆在最后面来一次远走高飞 再犹豫就会后悔择期不如就今天 bye bye blue monday肩上一把破吉他 流浪到天边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18365017)<br><br>2013-08-01 22:45<br>赞(0) 踩(0) | <div>任何事都为别人 自己摆在最后面<br>来一次远走高飞 再犹豫就会后悔<br>择期不如就今天 bye bye blue monday<br>肩上一把破吉他 流浪到天边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4668809)<br><br>2013-08-01 21:55<br>赞(0) 踩(0) | <div>这个夏天我听到的最棒的歌～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235574)<br><br>2013-08-01 15:53<br>赞(0) 踩(0) | <div>来一次远走高飞在犹豫就别后悔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235574)<br><br>2013-07-31 23:06<br>赞(0) 踩(0) | <div>一把破吉他流浪到天边！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2832263)<br><br>2013-07-31 13:15<br>赞(0) 踩(0) | <div>任何事都为别人 自己摆在最后面来一次远走高飞 再犹豫就别后悔</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2832263)<br><br>2013-07-31 13:15<br>赞(0) 踩(0) | <div>任何事都为别人 自己摆在最后面<br>来一次远走高飞 再犹豫就别后悔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18239714)<br><br>2013-07-30 17:13<br>赞(0) 踩(0) | <div>有点不想回台北 幻想退休养老在花莲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6734030)<br><br>2013-07-30 17:03<br>赞(0) 踩(0) | <div>总觉得这种歌最适合澳门 心里住着一个城 听说天气会逐渐转凉 回去有空秋游吧 毕竟我们能在一块自由自在玩儿的时日不多了。最好能再带上一把小破木吉他。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17006239)<br><br>2013-07-30 13:55<br>赞(0) 踩(0) | <div>肩上一把破吉他流浪到天边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3575078)<br><br>2013-07-28 21:52<br>赞(0) 踩(0) | <div>继热狗的《离开》之后歌词能给我迎面一耳光的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1399788)<br><br>2013-07-28 18:43<br>赞(0) 踩(0) | <div>“养鸡种田”后面那个“耶！！！”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6589237)<br><br>2013-07-28 12:48<br>赞(0) 踩(0) | <div>喜欢这张新专辑，消暑良品呀。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17966883)<br><br>2013-07-27 11:23<br>赞(0) 踩(0) | <div>难得假日星期天何不骑着单车去看看河岸夕阳很美不要再睡任何事都为别人自己摆在最后面来一次远走高飞再犹豫就别后悔</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9270832)<br>loop<br>2013-07-27 10:15<br>赞(0) 踩(0) | <div>虾米上的神级评论。。。。。。。阿岳你怎么了。。。。。bjornson 2013-06-06 14:40 赞(595) 弱(27)新歌，此人是我觉得湾湾第二有男人味的歌手，第一是黄小琥</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17966883)<br><br>2013-07-27 11:23<br>赞(0) 踩(0) | <div>难得假日星期天<br>何不骑着单车去<br>看看河岸夕阳很美<br>不要再睡<br><br>任何事都为别人<br>自己摆在最后面<br>来一次远走高飞<br>再犹豫就别后悔</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9270832)<br>loop<br>2013-07-27 10:15<br>赞(0) 踩(0) | <div>虾米上的神级评论。。。。。。。阿岳你怎么了。。。。。<br>bjornson 2013-06-06 14:40 赞(595) 弱(27)<br>新歌，此人是我觉得湾湾第二有男人味的歌手，第一是黄小琥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1662814)<br><br>2013-07-26 13:30<br>赞(0) 踩(0) | <div>张震岳这张真的超好听！@介个系虾米 你听他在唱花莲！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9201033)<br><br>2013-07-26 13:05<br>赞(0) 踩(0) | <div>shuai</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16940101)<br>我的喜欢和爱是一个含义<br>2013-07-25 23:43<br>赞(0) 踩(0) | <div>难得假日星期天/何不骑着单车去看看河岸夕阳很美/不要再睡</div> |
@@ -825,12 +825,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3620898)<br><br>2013-07-12 00:23<br>赞(0) 踩(0) | <div>有夏日的清新感~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4034755)<br><br>2013-07-11 23:26<br>赞(0) 踩(0) | <div>这才是夏天该听的歌！~画面感极强啊，借着太平洋的风去跳海才是正经事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17149940)<br><br>2013-07-11 22:11<br>赞(0) 踩(0) | <div>一阵浪花浇醒晕乎乎的夏天</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17122560)<br><br>2013-07-11 14:00<br>赞(0) 踩(0) | <div>任何事都为别人 自己摆在最后面来一次远走高飞 再犹豫就会后悔</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17122560)<br><br>2013-07-11 14:00<br>赞(0) 踩(0) | <div>任何事都为别人 自己摆在最后面<br>来一次远走高飞 再犹豫就会后悔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3782793)<br><br>2013-07-11 10:05<br>赞(0) 踩(0) | <div>哈哈 回归我大流行</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11301257)<br>匕首<br>2013-07-11 09:53<br>赞(0) 踩(0) | <div>任何事都为别人 自己摆在最后面来一次远走高飞 再犹豫就会后悔择期就不如今天 bye bye blue monday肩上一把破吉他 流浪到天边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11301257)<br>匕首<br>2013-07-11 09:53<br>赞(0) 踩(0) | <div>任何事都为别人 自己摆在最后面<br>来一次远走高飞 再犹豫就会后悔<br>择期就不如今天 bye bye blue monday<br>肩上一把破吉他 流浪到天边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1688001)<br><br>2013-07-11 09:28<br>赞(0) 踩(0) | <div>听得想跳舞啦~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8778359)<br><br>2013-07-11 08:42<br>赞(0) 踩(0) | <div>就爱这个味儿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13014149)<br>我还没想好要写什么...<br>2013-07-11 07:47<br>赞(0) 踩(0) | <div>来一次远走高飞再犹豫就别后悔择期不如就今天bye bye blue monday</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13014149)<br>我还没想好要写什么...<br>2013-07-11 07:47<br>赞(0) 踩(0) | <div>来一次远走高飞<br>再犹豫就别后悔<br>择期不如就今天<br>bye bye blue monday</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2572221)<br><br>2013-07-11 03:00<br>赞(0) 踩(0) | <div>！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3632828)<br>不自量力的还手，直至死方...<br>2013-07-10 23:41<br>赞(0) 踩(0) | <div>我只有把破吉他，所以我只会唱“我爱你”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11216402)<br><br>2013-07-10 23:04<br>赞(0) 踩(0) | <div>舒服~</div> |
@@ -877,7 +877,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12359843)<br>卵卵很忙<br>2013-07-06 17:04<br>赞(0) 踩(0) | <div>最爱大胡子。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16888217)<br><br>2013-07-06 15:25<br>赞(0) 踩(0) | <div>肩上一把破吉他 流浪到天边 bye bye blue monday.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/817862)<br><br>2013-07-06 12:01<br>赞(0) 踩(0) | <div>给我一把破吉他，唱出心中情结~哦哦，一起去冒险，不要再睡~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9071200)<br><br>2013-07-06 11:08<br>赞(0) 踩(0) | <div>任何事都为别人自己摆在最后面来一次远走高飞再犹豫就别后悔择期不如就今天bye bye blue monday肩上一把破吉他 流浪到天边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9071200)<br><br>2013-07-06 11:08<br>赞(0) 踩(0) | <div>任何事都为别人<br>自己摆在最后面<br>来一次远走高飞<br>再犹豫就别后悔<br>择期不如就今天<br>bye bye blue monday<br>肩上一把破吉他 流浪到天边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6076789)<br><br>2013-07-06 10:10<br>赞(0) 踩(0) | <div>#耳机的情人# 夏日</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2822395)<br><br>2013-07-06 04:14<br>赞(0) 踩(0) | <div>是否也浪费时间打LOL?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6892123)<br><br>2013-07-06 04:10<br>赞(0) 踩(0) | <div>新专辑五颗星！</div> |
@@ -943,7 +943,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5025032)<br><br>2013-07-01 03:57<br>赞(0) 踩(0) | <div>夏天就要这么台才有味  &amp;lt;3   张震岳真是迷人的不得了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1794887)<br>谢谢虾米，谢谢你们，我在...<br>2013-07-01 02:43<br>赞(0) 踩(0) | <div>我要去海边！！去海边！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1794887)<br>谢谢虾米，谢谢你们，我在...<br>2013-07-01 02:13<br>赞(0) 踩(0) | <div>我要去海边！！海边！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16629298)<br><br>2013-07-01 01:29<br>赞(0) 踩(0) | <div>难得假日星期天何不骑着单车去看看河岸夕阳很美不要再睡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16629298)<br><br>2013-07-01 01:29<br>赞(0) 踩(0) | <div>难得假日星期天<br>何不骑着单车去<br>看看河岸夕阳很美<br>不要再睡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3793853)<br>唯有音乐与美食不可辜负。<br>2013-07-01 01:15<br>赞(0) 踩(0) | <div>【最好是艳阳天，约在海边不散不见。一定有人爽约，喝太多起不来之类。不要再睡】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7185687)<br><br>2013-06-30 22:39<br>赞(0) 踩(0) | <div>“难得假日星期天，何骑着车去……”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16615773)<br><br>2013-06-30 21:13<br>赞(0) 踩(0) | <div>可以</div> |
@@ -969,7 +969,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9805421)<br><br>2013-06-29 10:21<br>赞(0) 踩(0) | <div>热带海边的感觉，嗯....舒服。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7909483)<br><br>2013-06-29 10:03<br>赞(0) 踩(0) | <div>好适合今天上饶的天气...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/741016)<br><br>2013-06-29 09:38<br>赞(0) 踩(0) | <div>矮马有休假的感觉了！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2013-06-29 08:50<br>赞(0) 踩(0) | <div>最好是艳阳天 约在海边不散不见,一定有人爽约 喝太多起不来之类...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2013-06-29 08:50<br>赞(0) 踩(0) | <div>最好是艳阳天 约在海边不散不见,<br>一定有人爽约 喝太多起不来之类...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5126728)<br><br>2013-06-29 01:20<br>赞(0) 踩(0) | <div>抱着一把破吉他 流浪天边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/616101)<br>谢谢虾米陪伴十一年。<br>2013-06-28 22:10<br>赞(0) 踩(0) | <div>前奏赞到不行了。。。单纯的吉他音。虽然张震岳的歌词依然很俗气。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10295147)<br><br>2013-06-28 22:00<br>赞(0) 踩(0) | <div>张同学新专辑，超爱</div> |
@@ -986,7 +986,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9645943)<br><br>2013-06-24 23:45<br>赞(0) 踩(0) | <div>这网站太智能了。不习惯。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8405862)<br><br>2013-06-24 19:18<br>赞(0) 踩(0) | <div>阿岳这张俨然已经超脱世俗，准备成仙了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13816404)<br>可爱的人难道不是我吗<br>2013-06-24 02:03<br>赞(0) 踩(0) | <div>a piece of summer. a piece of you</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16261512)<br><br>2013-06-23 21:06<br>赞(0) 踩(0) | <div>来一次远走高飞再犹豫就别后悔</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16261512)<br><br>2013-06-23 21:06<br>赞(0) 踩(0) | <div>来一次远走高飞<br>再犹豫就别后悔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2735902)<br> <br>2013-06-23 17:51<br>赞(0) 踩(0) | <div>浮躁现代，每个人在乎的越来越少，贪视的越来越多。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2735902)<br> <br>2013-06-23 17:46<br>赞(0) 踩(0) | <div>浮躁现代，每个人在乎的越来越少，贪视的越来越多。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13409837)<br><br>2013-06-23 10:17<br>赞(0) 踩(0) | <div>难得假日星期天~</div> |
@@ -1017,10 +1017,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3373200)<br><br>2013-06-17 16:50<br>赞(0) 踩(0) | <div>送给即将毕业的朋友们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2358057)<br>futureClient<br>2013-06-17 14:51<br>赞(0) 踩(0) | <div>希望今天运气还可以那么好 ：）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10604102)<br><br>2013-06-17 13:49<br>赞(0) 踩(0) | <div>bye bye blue monday～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10111556)<br><br>2013-06-17 13:47<br>赞(0) 踩(0) | <div>来一次远走高飞再犹豫就别后悔择期不如就今天bye bye blue monday</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10111556)<br><br>2013-06-17 13:47<br>赞(0) 踩(0) | <div>来一次远走高飞<br>再犹豫就别后悔<br>择期不如就今天<br>bye bye blue monday</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9128532)<br><br>2013-06-17 12:48<br>赞(0) 踩(0) | <div>怎么有种呆在家的感觉、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10604102)<br><br>2013-06-17 11:15<br>赞(0) 踩(0) | <div>bye bye blue monday～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7980605)<br>咩咩咩~<br>2013-06-17 10:52<br>赞(0) 踩(0) | <div>张震岳这首歌是这个夏天我听到的最好的一首国语歌曲让半个月未休息的我，顿时心情大好。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7980605)<br>咩咩咩~<br>2013-06-17 10:52<br>赞(0) 踩(0) | <div>张震岳这首歌是这个夏天我听到的最好的一首国语歌曲<br>让半个月未休息的我，顿时心情大好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6718381)<br> <br>2013-06-17 02:21<br>赞(0) 踩(0) | <div>bye bye blue monday</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16056737)<br>飞起来<br>2013-06-16 16:19<br>赞(0) 踩(0) | <div>这首超舒服啊，哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16049908)<br><br>2013-06-16 01:34<br>赞(0) 踩(0) | <div>@</div> |
@@ -1067,12 +1067,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/394527)<br><br>2013-06-12 13:43<br>赞(0) 踩(0) | <div>阳光午后，少年梦想。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11009928)<br><br>2013-06-12 11:08<br>赞(0) 踩(0) | <div>新晋男神</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2088866)<br><br>2013-06-12 10:53<br>赞(0) 踩(0) | <div>真的起不来……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3903404)<br><br>2013-06-12 01:15<br>赞(0) 踩(0) | <div>最好是艳阳天 约在海边不散不见一定有人爽约 喝太多起不来之类理由总是有太多 时间浪费在上网 游戏之间难得假日星期天 何不骑着单车去 看看河岸夕阳很美 不要再睡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3903404)<br><br>2013-06-12 01:15<br>赞(0) 踩(0) | <div>最好是艳阳天 约在海边不散不见<br>一定有人爽约 喝太多起不来之类<br><br>理由总是有太多 时间浪费在上网 游戏之间<br>难得假日星期天 何不骑着单车去 看看河岸夕阳很美 不要再睡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2782231)<br>:-(<br>2013-06-12 00:53<br>赞(0) 踩(0) | <div>最爱是阿岳！:D</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7649143)<br><br>2013-06-12 00:03<br>赞(0) 踩(0) | <div>任何事都为别人，自己摆在最后面，来一次远走高飞，再犹豫就会后悔。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5125788)<br><br>2013-06-12 00:02<br>赞(0) 踩(0) | <div>任何事都为别人 自己摆在最后面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7649143)<br><br>2013-06-11 23:53<br>赞(0) 踩(0) | <div>理由总是太多，出走从来只是想想而已。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15980695)<br><br>2013-06-11 23:52<br>赞(0) 踩(0) | <div>任何事都为别人 自己摆在最后面来一次远走高飞 再犹豫就会后悔择期不如就今天 bye bye blue monday肩上一把破吉他 流浪到天边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15980695)<br><br>2013-06-11 23:52<br>赞(0) 踩(0) | <div>任何事都为别人 自己摆在最后面<br>来一次远走高飞 再犹豫就会后悔<br>择期不如就今天 bye bye blue monday<br>肩上一把破吉他 流浪到天边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15980541)<br><br>2013-06-11 23:50<br>赞(0) 踩(0) | <div>『任何事都为别人自己摆在最后面/来一次远走高飞再犹豫就别后悔/择期不如就今天bye bye blue monday/肩上一把破吉他流浪到天边』</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8954948)<br><br>2013-06-11 23:21<br>赞(0) 踩(0) | <div>我也有一把破吉他，可是我早已经忘记弹它</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2707479)<br><br>2013-06-11 22:11<br>赞(0) 踩(0) | <div>=￣ω￣=</div> |
@@ -1137,7 +1137,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15809415)<br>资深童心患者<br>2013-06-09 15:45<br>赞(0) 踩(0) | <div>你好——端午</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/650680)<br><br>2013-06-09 15:44<br>赞(0) 踩(0) | <div>夏天的Feel!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15938120)<br>Ohne Dich<br>2013-06-09 15:42<br>赞(0) 踩(0) | <div>看到张震岳，听着他的歌，总是觉得很舒服很安心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1783936)<br><br>2013-06-09 15:25<br>赞(0) 踩(0) | <div>歌词真好【理由总是有太多 时间浪费在上网 游戏之间难得假日星期天 何不骑着单车去 看看河岸夕阳很美 不要再睡】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1783936)<br><br>2013-06-09 15:25<br>赞(0) 踩(0) | <div>歌词真好【理由总是有太多 时间浪费在上网 游戏之间<br>难得假日星期天 何不骑着单车去 看看河岸夕阳很美 不要再睡】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/722837)<br>886<br>2013-06-09 15:21<br>赞(0) 踩(0) | <div>麻辣隔壁，张震岳发EP虾米都没通知我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5265039)<br><br>2013-06-09 14:23<br>赞(0) 踩(0) | <div>对的时间遇到对的歌 @_odd</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15791199)<br><br>2013-06-09 14:04<br>赞(0) 踩(0) | <div>我重复播放了一个早上</div> |
@@ -1182,7 +1182,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2108369)<br> <br>2013-06-08 14:39<br>赞(0) 踩(0) | <div>碉堡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2420915)<br>有签名喔！<br>2013-06-08 14:36<br>赞(0) 踩(0) | <div>新歌啊啊啊啊终于等到了！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1677423)<br><br>2013-06-08 14:31<br>赞(0) 踩(0) | <div>好赞..夏天来了噢噢噢噢噢噢噢噢噢~~~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4040965)<br><br>2013-06-08 14:28<br>赞(0) 踩(0) | <div>择期不如就今天 bye bye blue monday肩上一把破吉他 流浪到天边 流浪到天边 流浪到天边 流浪到天边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4040965)<br><br>2013-06-08 14:28<br>赞(0) 踩(0) | <div>择期不如就今天 bye bye blue monday<br>肩上一把破吉他 流浪到天边 流浪到天边 流浪到天边 流浪到天边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7613793)<br><br>2013-06-08 13:15<br>赞(0) 踩(0) | <div>莫名其妙的带感，这就是传说中的共鸣吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1473761)<br><br>2013-06-08 12:39<br>赞(0) 踩(0) | <div>很温暖，自然，适合现在听～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/762302)<br>我还没想好要写什么...<br>2013-06-08 12:35<br>赞(0) 踩(0) | <div>1</div> |
@@ -1192,7 +1192,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10398999)<br><br>2013-06-08 11:44<br>赞(0) 踩(0) | <div>阴郁的城市里仿佛嗅到了到海边阳光下细纱干净的味道呵哈！summer来啦~~以前爱高山现在爱碧海~~这就是不经意间的变化~老了要买田养鸡种田啦啦啦啦~海边不见不散…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12199)<br>我还没想好要写什么...<br>2013-06-08 11:27<br>赞(1) 踩(0) | <div>不想那么多，世界很辽阔。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1475073)<br><br>2013-06-08 10:46<br>赞(0) 踩(0) | <div>湿了！你是要让我们等多久！！接下来就应该发新专辑了吧！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1186576)<br>无所住<br>2013-06-08 10:35<br>赞(0) 踩(0) | <div>最好是艳阳天 约在海边不散不见一定有人爽约 喝太多起不来之类... ...想起洱海，想起家，想起带朵朵去海里游泳。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1186576)<br>无所住<br>2013-06-08 10:35<br>赞(0) 踩(0) | <div>最好是艳阳天 约在海边不散不见<br>一定有人爽约 喝太多起不来之类... ...<br>想起洱海，想起家，<br>想起带朵朵去海里游泳。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1985114)<br><br>2013-06-08 10:33<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15909072)<br><br>2013-06-08 10:33<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11957337)<br>英式摇滚<br>2013-06-08 10:29<br>赞(0) 踩(0) | <div>张震岳的歌总是能让人产生共鸣、、、、、</div> |

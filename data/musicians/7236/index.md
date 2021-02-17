@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3281672cdfff30cd194cb88134b1a005.jpg)<br>黄龄](https://i.xiami.com/isabelle1987312) | **播放数**: 96181952<br>**粉丝数**: 57607<br>**评论数**: 1208<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/3281672cdfff30cd194cb88134b1a005.jpg)<br>黄龄](https://i.xiami.com/isabelle1987312) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 96181952<br>**粉丝数**: 57607<br>**评论数**: 1208<br> |
 
 ## 档案
 
@@ -88,12 +88,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-12-19 16:35<br>赞(0) 踩(0) | <div><img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336143369)<br><br>2020-11-19 19:29<br>赞(0) 踩(0) | <div>少数真的会唱歌的人之一</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260465019)<br>音乐随心听<br>2020-11-18 14:56<br>赞(0) 踩(0) | <div>喜欢黄龄的歌，喜欢她独特的嗓音唱腔 ，更喜欢她的个性～洒脱不羁、不矫揉造作，直率真我，做自己的女王！是我上海女人的骄傲 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35285038)<br>なるようになる<br>2020-10-23 01:27<br>赞(0) 踩(0) | <div>黄龄必定会成为上海人的骄傲(请允许我自私一点)以后从小就给孩子听黄龄的歌百年才出一个的才女 晚认识一天就感觉虚度一天不为市场经济所折腰 只做自己的龄龄子时而妖娆时而邻家 妩媚但不媚俗时而天真时而御姐 可爱却不造作将各种性格融汇在一起的可人儿能知道这样的一位艺人 毕生荣幸</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35285038)<br>なるようになる<br>2020-10-23 01:27<br>赞(0) 踩(0) | <div>黄龄必定会成为上海人的骄傲<br>(请允许我自私一点)<br>以后从小就给孩子听黄龄的歌<br>百年才出一个的才女 晚认识一天就感觉虚度一天<br>不为市场经济所折腰 只做自己的龄龄子<br>时而妖娆时而邻家 妩媚但不媚俗<br>时而天真时而御姐 可爱却不造作<br>将各种性格融汇在一起的可人儿<br>能知道这样的一位艺人 毕生荣幸</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405245117)<br>我还没想好要写什么...<br>2020-10-02 08:00<br>赞(1) 踩(0) | <div>༺Y͈̎e͈̎l͈̎l͈̎o͈̎w͈̎ z͈̎e͈̎r͈̎o͈̎༻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6513614)<br><br>2020-10-01 02:18<br>赞(0) 踩(0) | <div>你是一个宝❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13960376)<br>历史是胜利者的历史~<br>2020-08-30 16:32<br>赞(1) 踩(0) | <div>剪刀手YELLOW ZERO的韵味，一般人是学不来的，不是一般人，那就不知道了。不是最美的，可是最妩媚（这里是百分之两百的褒义词）。</div> |
@@ -138,7 +138,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283040611)<br>不忘初心，方得始终。<br>2019-06-03 12:29<br>赞(0) 踩(0) | <div>真是撩动心弦的声音啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283040611)<br>不忘初心，方得始终。<br>2019-06-03 12:22<br>赞(1) 踩(0) | <div>你好棒啊 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279078993)<br>是否因我而……<br>2019-05-21 18:02<br>赞(0) 踩(0) | <div>有点刘亦菲的味道……</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116004382)<br>沉迷节奏布鲁斯   R&...<br>2019-04-20 22:58<br>赞(2) 踩(0) | <div>真的很强的一位歌手。而且很有中国东方美特色。前三首歌曲真的曲库必备！百听不厌！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116004382)<br>沉迷节奏布鲁斯   R&...<br>2019-04-20 22:58<br>赞(2) 踩(0) | <div>真的很强的一位歌手。<br>而且很有中国东方美特色。<br>前三首歌曲真的曲库必备！百听不厌！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336546921)<br>我还没想好要写什么...<br>2019-03-21 17:25<br>赞(0) 踩(0) | <div>声音很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314603340)<br>时光不老我们不分<br>2019-03-21 08:48<br>赞(0) 踩(0) | <div>小歌真骚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28912922)<br><br>2019-03-21 01:18<br>赞(1) 踩(0) | <div>女神٩(๑òωó๑)۶挺你 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
@@ -314,7 +314,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257184966)<br>一个长大了的小女孩<br>2016-12-29 20:52<br>赞(0) 踩(0) | <div>第一次接触，好独特，好纯粹，好干净，好好听 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68349418)<br>关我屁事啊<br>2016-12-29 19:30<br>赞(0) 踩(0) | <div>960</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257211378)<br><br>2016-12-26 21:08<br>赞(0) 踩(0) | <div>我很喜欢她的歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249937070)<br>人生若无悔放下过去归零<br>2016-12-23 20:51<br>赞(0) 踩(0) | <div>你有佳人陪你走，我独拥浊风烈酒。愿漂泊的人都有酒喝，愿孤独的人都会唱歌。敬你一杯酒，从此朝前走，往事不回头，未来不将就，我干杯，你随意。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249937070)<br>人生若无悔放下过去归零<br>2016-12-23 20:51<br>赞(0) 踩(0) | <div>你有佳人陪你走，我独拥浊风烈酒。<br>愿漂泊的人都有酒喝，愿孤独的人都会唱歌。<br>敬你一杯酒，从此朝前走，往事不回头，<br>未来不将就，我干杯，你随意。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44369765)<br>从心而动，不违自然所好；...<br>2016-12-20 23:35<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19928334)<br>正视不完美，是对过去的一...<br>2016-12-14 15:06<br>赞(1) 踩(0) | <div>支持！敬请关注！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232097692)<br><br>2016-12-14 14:24<br>赞(0) 踩(0) | <div>加油~</div> |
@@ -339,7 +339,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182946890)<br><br>2016-11-03 08:33<br>赞(0) 踩(0) | <div>6你不是一个人 两个妖精在一起 肯定精彩 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50367984)<br> <br>2018-03-12 16:02<br>赞(0) 踩(0) | <div><q><b>tf！说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50367984)<br> <br>2018-03-12 16:02<br>赞(0) 踩(0) | <div>Uh  f</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234870424)<br>十六七岁的姑娘们手挽着手...<br>2016-10-25 16:57<br>赞(3) 踩(0) | <div>魅惑女声的终极暴击我自愿长跪不起膝盖给你 大脑给你 什么都给你请收好</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234870424)<br>十六七岁的姑娘们手挽着手...<br>2016-10-25 16:57<br>赞(3) 踩(0) | <div>魅惑女声的终极暴击<br>我自愿长跪不起<br>膝盖给你 大脑给你 什么都给你<br>请收好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/549784)<br>音乐...带你飞<br>2016-10-25 14:39<br>赞(0) 踩(0) | <div>今天 继续听 来日方长。。。感觉没有了昨天刚听第一遍时 男女声的突兀感。或许是 黄玲过于强调了气声 呼吸声发音 也许是由于录音制作的关系吧。无论如何 歌本身 很耐听 可以回味 重复 再重复 寻找到内心碰撞的那个片段。。。此外 听到 不怕痛 这首歌，大家可以顺带听一下新加坡歌手 olivia ong 的那首 如烟 现场版。或许 能和我一样 找到两位歌手 两首歌曲间的 重合。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44871486)<br>炼神还虚<br>2016-10-25 00:03<br>赞(0) 踩(0) | <div><img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84967250)<br>虚无而已<br>2016-10-24 22:00<br>赞(2) 踩(0) | <div>小学就听痒 现在还在听！！！ <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">来啊~快活啊~~反正有大把时光 ~……</div> |
@@ -599,7 +599,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32837865)<br><br>2015-01-04 19:15<br>赞(18) 踩(0) | <div>其实我觉得她长得挺有味道的。比那些个整过容的好看多了。有东方味。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8488405)<br>天生大明星<br>2014-12-30 14:38<br>赞(0) 踩(0) | <div>抄袭婊噜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43699412)<br>暂无签名~<br>2014-12-29 02:26<br>赞(0) 踩(0) | <div>跪求恰好T_T(T_T)(&gt;Д&lt;)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10934765)<br>生活以快乐为基准<br>2014-12-24 00:01<br>赞(2) 踩(0) | <div>唉，又翻到黄龄与常石磊合唱的《多少自己》，真的好听cry~可惜没有高清格式，不能上传555555</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10934765)<br>生活以快乐为基准<br>2014-12-24 00:01<br>赞(2) 踩(0) | <div>唉，又翻到黄龄与常石磊合唱的《多少自己》，真的好听cry~<br>可惜没有高清格式，不能上传555555</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28555159)<br>AYO_HAKUNAMT<br>2014-12-20 15:33<br>赞(1) 踩(0) | <div>缺少好包装和引导 确实很难得的国内歌手</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3863543)<br>用挑剔耳朵寻找沁人心脾的...<br>2015-01-01 23:58<br>赞(0) 踩(0) | <div>同感，握小手^~^</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32052730)<br>虾米虾米？<br>2014-12-14 20:22<br>赞(10) 踩(0) | <div>声音确实屌，不过总感觉她和造型师有仇。。。照片永远没有live时候好看</div> |
@@ -613,7 +613,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/161788)<br>总是在清晨出走<br>2014-12-09 07:59<br>赞(1) 踩(0) | <div>胡彦斌和黄龄 多少年才能出一个~哇咔咔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9400321)<br>你静静地居住在我的心里，...<br>2014-12-08 22:50<br>赞(0) 踩(0) | <div>风格招人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36040226)<br>暂无签名~<br>2014-12-08 22:33<br>赞(1) 踩(0) | <div>风月的女人才能唱出风月啊！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2014-12-08 21:07<br>赞(1) 踩(0) | <div>真的很好听啊很多年前看快乐大本营还是什么，总之是芒果台的一个节目，有黄龄。听了她唱歌就很喜欢带着酒香的声音，沉醉了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2014-12-08 21:07<br>赞(1) 踩(0) | <div>真的很好听啊<br>很多年前看快乐大本营还是什么，总之是芒果台的一个节目，有黄龄。听了她唱歌就很喜欢<br>带着酒香的声音，沉醉了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30027002)<br><br>2015-05-23 23:26<br>赞(0) 踩(0) | <div>恩，那那个节目我也看了，好多年了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37058185)<br><br>2014-12-08 19:25<br>赞(0) 踩(0) | <div>很喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42404929)<br><br>2014-12-08 13:35<br>赞(0) 踩(0) | <div>还没来过这儿</div> |
@@ -644,15 +644,15 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40597416)<br><br>2014-09-17 02:27<br>赞(0) 踩(0) | <div>没有黄玲版的恰好？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13552)<br><br>2014-09-16 16:38<br>赞(0) 踩(0) | <div>High歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3868179)<br>不在人间<br>2014-09-02 16:50<br>赞(0) 踩(0) | <div>一个特立独行的女子  红不红对她来说好像不那么重要</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:57<br>赞(1) 踩(0) | <div>其他的还有：《妄》、《多少自己》(与常石磊合唱)、《噶痒》(《痒》沪语版) 等</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:57<br>赞(1) 踩(0) | <div>其他的还有：<br>《妄》、《多少自己》(与常石磊合唱)、《噶痒》(《痒》沪语版) 等</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10934765)<br>生活以快乐为基准<br>2014-09-10 20:21<br>赞(0) 踩(0) | <div>《燃情上海》已加入黄龄参与的专辑</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1228897)<br>活在当下<br>2014-12-07 23:30<br>赞(0) 踩(0) | <div>分享精神值得点赞</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:46<br>赞(1) 踩(0) | <div>传送门继续：7）2011  电影《音乐江湖》主题曲《我们爱过就好》 与薛之谦合唱<a href="http://www.xiami.com/song/1771561229?spm=a1z1s.3521869.0.0.pCBF2m" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771561229?spm=a1z1s.3521869.0.0.pCBF2m</a>8）浙江卫视  2013 我爱记歌词之大牌遇见好声音  第三期  黄龄专场<a href="http://www.xiami.com/album/519141?spm=a1z1s.3061781.6856533.9.K3UAuX" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/album/519141?spm=a1z1s.3061781.6856533.9.K3UAuX</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:41<br>赞(1) 踩(0) | <div>传送门继续：5）金蔷薇大赛 2014 主题曲《梦·信仰》 众星合唱<a href="http://www.xiami.com/song/1773347919?spm=a1z1s.3521869.23310041.1.gV27C2" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1773347919?spm=a1z1s.3521869.23310041.1.gV27C2</a>6）天津卫视 2014 国色天香《痒(越剧版) (Live)》<a href="http://www.xiami.com/song/1772581566?spm=a1z1s.6659513.0.0.PaErA4" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1772581566?spm=a1z1s.6659513.0.0.PaErA4</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:30<br>赞(1) 踩(0) | <div>4）与许嵩 Vae合作  2014《惊鸿一面》 两人合唱<a href="http://www.xiami.com/song/1773379518?spm=a1z1s.3521865.23309997.1.GwqOeR" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1773379518?spm=a1z1s.3521865.23309997.1.GwqOeR</a>《山水之间(空灵版)》<a href="http://www.xiami.com/song/1773372560?spm=a1z1s.3521865.23309997.24.6CocEb" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1773372560?spm=a1z1s.3521865.23309997.24.6CocEb</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:27<br>赞(1) 踩(0) | <div>传送门继续：3）安徽卫视 2013 我为歌狂组曲一  翻唱<a href="http://www.xiami.com/song/1771891544?spm=a1z1s.6659513.0.0.VdqUkh" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771891544?spm=a1z1s.6659513.0.0.VdqUkh</a>组曲二  翻唱<a href="http://www.xiami.com/song/1771907113?spm=a1z1s.6659513.0.0.IHVghP" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771907113?spm=a1z1s.6659513.0.0.IHVghP</a>组曲三  翻唱<a href="http://www.xiami.com/song/1771934471?spm=a1z1s.6659513.0.0.49NTm0" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771934471?spm=a1z1s.6659513.0.0.49NTm0</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:25<br>赞(1) 踩(0) | <div>传送门继续：3）安徽卫视 2013 我为歌狂《王妃(Live)》  翻唱<a href="http://www.xiami.com/song/1771907" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771907</a>《玫瑰玫瑰我爱你(Live)》<a href="http://www.xiami.com/song/1771934468?spm=a1z1s.6659513.0.0.49NTm0" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771934468?spm=a1z1s.6659513.0.0.49NTm0</a>《哭了(Live)》  翻唱<a href="http://www.xiami.com/song/1771891540?spm=a1z1s.6659513.0.0.VdqUkh" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771891540?spm=a1z1s.6659513.0.0.VdqUkh</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:22<br>赞(1) 踩(0) | <div>更多黄龄歌曲传送门：1）都市之歌 燃情上海 音乐剧原声大碟 (2010)<a href="http://www.xiami.com/album/507825589?spm=a1z1s.3521869.23310041.3.Z8VX9h" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/album/507825589?spm=a1z1s.3521869.23310041.3.Z8VX9h</a>个人推荐：《当时》和《若只如初见》2）贵州卫视 2014 让世界听见 第一期 侗族音乐竞演《侗情(Live)》<a href="http://www.xiami.com/song/1773449508?spm=a1z1s.6659509.0.0.eOSyHZ" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1773449508?spm=a1z1s.6659509.0.0.eOSyHZ</a>未完待续。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:46<br>赞(1) 踩(0) | <div>传送门继续：<br>7）2011  电影《音乐江湖》主题曲《我们爱过就好》 与薛之谦合唱<br><a href="http://www.xiami.com/song/1771561229?spm=a1z1s.3521869.0.0.pCBF2m" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771561229?spm=a1z1s.3521869.0.0.pCBF2m</a><br><br>8）浙江卫视  2013 我爱记歌词之大牌遇见好声音  第三期  黄龄专场<br><a href="http://www.xiami.com/album/519141?spm=a1z1s.3061781.6856533.9.K3UAuX" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/album/519141?spm=a1z1s.3061781.6856533.9.K3UAuX</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:41<br>赞(1) 踩(0) | <div>传送门继续：<br>5）金蔷薇大赛 2014 主题曲《梦·信仰》 众星合唱<br><a href="http://www.xiami.com/song/1773347919?spm=a1z1s.3521869.23310041.1.gV27C2" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1773347919?spm=a1z1s.3521869.23310041.1.gV27C2</a><br><br>6）天津卫视 2014 国色天香<br>《痒(越剧版) (Live)》<br><a href="http://www.xiami.com/song/1772581566?spm=a1z1s.6659513.0.0.PaErA4" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1772581566?spm=a1z1s.6659513.0.0.PaErA4</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:30<br>赞(1) 踩(0) | <div>4）与许嵩 Vae合作  2014<br>《惊鸿一面》 两人合唱<br><a href="http://www.xiami.com/song/1773379518?spm=a1z1s.3521865.23309997.1.GwqOeR" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1773379518?spm=a1z1s.3521865.23309997.1.GwqOeR</a><br><br>《山水之间(空灵版)》<br><a href="http://www.xiami.com/song/1773372560?spm=a1z1s.3521865.23309997.24.6CocEb" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1773372560?spm=a1z1s.3521865.23309997.24.6CocEb</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:27<br>赞(1) 踩(0) | <div>传送门继续：<br>3）安徽卫视 2013 我为歌狂<br>组曲一  翻唱<br><a href="http://www.xiami.com/song/1771891544?spm=a1z1s.6659513.0.0.VdqUkh" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771891544?spm=a1z1s.6659513.0.0.VdqUkh</a><br><br>组曲二  翻唱<br><a href="http://www.xiami.com/song/1771907113?spm=a1z1s.6659513.0.0.IHVghP" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771907113?spm=a1z1s.6659513.0.0.IHVghP</a><br><br>组曲三  翻唱<br><a href="http://www.xiami.com/song/1771934471?spm=a1z1s.6659513.0.0.49NTm0" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771934471?spm=a1z1s.6659513.0.0.49NTm0</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:25<br>赞(1) 踩(0) | <div>传送门继续：<br>3）安徽卫视 2013 我为歌狂<br>《王妃(Live)》  翻唱<br><a href="http://www.xiami.com/song/1771907" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771907</a><br><br>《玫瑰玫瑰我爱你(Live)》<br><a href="http://www.xiami.com/song/1771934468?spm=a1z1s.6659513.0.0.49NTm0" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771934468?spm=a1z1s.6659513.0.0.49NTm0</a><br><br>《哭了(Live)》  翻唱<br><a href="http://www.xiami.com/song/1771891540?spm=a1z1s.6659513.0.0.VdqUkh" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771891540?spm=a1z1s.6659513.0.0.VdqUkh</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419315)<br> <br>2014-08-31 03:22<br>赞(1) 踩(0) | <div>更多黄龄歌曲传送门：<br>1）都市之歌 燃情上海 音乐剧原声大碟 (2010)<br><a href="http://www.xiami.com/album/507825589?spm=a1z1s.3521869.23310041.3.Z8VX9h" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/album/507825589?spm=a1z1s.3521869.23310041.3.Z8VX9h</a><br><br>个人推荐：《当时》和《若只如初见》<br><br>2）贵州卫视 2014 让世界听见 第一期 侗族音乐竞演<br>《侗情(Live)》<br><a href="http://www.xiami.com/song/1773449508?spm=a1z1s.6659509.0.0.eOSyHZ" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1773449508?spm=a1z1s.6659509.0.0.eOSyHZ</a><br><br>未完待续。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/154641)<br>然后青天在上，星日朗朗<br>2014-08-24 12:21<br>赞(4) 踩(0) | <div>初见黄龄是在很多年前韩寒的MV里，演一个风尘女子，勾人的很。。N多年后才知道这姑娘不止长相气质勾人，声音更勾人。妈蛋，我是个女孩纸好嘛！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1938054)<br>明月在苏州<br>2014-08-21 13:44<br>赞(1) 踩(0) | <div>是我见过最有女人味的女人，受不了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12064029)<br>伸脷尖舔铜锈。<br>2014-08-13 21:42<br>赞(0) 踩(0) | <div>@黄龄 歌迷喊你赶紧出新砖啊！！！最近耳朵《特别》地《痒》啊！！！</div> |
@@ -743,7 +743,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2691052)<br>且看那青山綠水別來無恙。<br>2013-03-16 05:42<br>赞(0) 踩(0) | <div><q><b>华山顶上的葱说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1245622)<br>还是觉得虾米的界面是最好...<br>2013-02-11 03:26<br>赞(0) 踩(0) | <div>我们的国家有太多的好声音 却由于种种红不起来 不能出唱片 实在是太大太大的遗憾 遗憾。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4115784)<br>好音乐，一遍就够<br>2013-02-08 21:01<br>赞(0) 踩(0) | <div>声音不错</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4115784)<br>好音乐，一遍就够<br>2013-02-08 20:59<br>赞(0) 踩(0) | <div>看了孟凡鹏来的。。。。原唱也好好哦，怎么没火起来，表示关注原唱歌手了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4115784)<br>好音乐，一遍就够<br>2013-02-08 20:59<br>赞(0) 踩(0) | <div>看了孟凡鹏来的。。。。<br>原唱也好好哦，怎么没火起来，表示关注原唱歌手了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12889531)<br>傲娇么<br>2013-02-06 21:09<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9685157)<br><br>2013-02-05 15:04<br>赞(0) 踩(0) | <div>有味道~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/555412)<br><br>2013-02-01 15:04<br>赞(5) 踩(0) | <div>这个歌手太悲剧了 唱的这么好 红是因为一个选秀节目 歌都别人唱红的</div> |
@@ -797,7 +797,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1639830)<br>孤独旅伴<br>2012-10-19 21:31<br>赞(0) 踩(0) | <div>一年多前在虾米听黄龄 high歌听都没听过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11102932)<br>好好生活<br>2012-10-18 13:36<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1422659)<br><br>2012-10-17 04:02<br>赞(0) 踩(0) | <div>个性 妖精 实力</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9855363)<br>我还没想好要写什么...<br>2012-10-16 12:04<br>赞(2) 踩(0) | <div>唱功啊唱功，被唱功征服了。我觉得曲婉婷唱功好差，我会被拍死么~~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9855363)<br>我还没想好要写什么...<br>2012-10-16 12:04<br>赞(2) 踩(0) | <div>唱功啊唱功，被唱功征服了。<br>我觉得曲婉婷唱功好差，我会被拍死么~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2256109)<br>每个人心里一亩、一亩田；<br>2012-10-16 08:18<br>赞(0) 踩(0) | <div>个性</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7938285)<br>nker<br>2012-10-15 10:06<br>赞(0) 踩(0) | <div>激情</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3086214)<br><br>2012-10-13 21:36<br>赞(0) 踩(0) | <div>...</div> |
@@ -839,7 +839,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6847513)<br>生旦净末丑<br>2012-09-10 10:36<br>赞(1) 踩(0) | <div>搞不懂这么好的，唱歌一流的歌手，会被埋没，唱片公司为什么不推她呢，难道还有什么隐情？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5045815)<br>终有一天猫狗双全<br>2012-09-15 23:18<br>赞(0) 踩(0) | <div>真的，有本事的就会被T，留下一群不三不四的人</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10415140)<br><br>2012-09-17 13:21<br>赞(0) 踩(0) | <div>哪有，黄龄可是环球天韵的首推歌手了。她第三张专辑已经在录歌中又和常石磊一起合作了，我们还是等着听吧</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/572434)<br> <br>2012-09-27 21:49<br>赞(0) 踩(0) | <div>有实力的太多了。。国内大把大把的。。这个很难讲的，就算是红的最容易的途径“卖肉” 也有大把人 卖了没红起来对吧。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/572434)<br> <br>2012-09-27 21:49<br>赞(0) 踩(0) | <div>有实力的太多了。。国内大把大把的。。<br>这个很难讲的，就算是红的最容易的途径“卖肉” 也有大把人 卖了没红起来对吧。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1272884)<br><br>2012-09-09 22:01<br>赞(0) 踩(0) | <div>有没有人知道黄玲的新浪微博啊？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469826)<br><br>2012-09-22 22:36<br>赞(0) 踩(0) | <div><a href="http://weibo.com/huanglingisabelle" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/huanglingisabelle</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3792193)<br><br>2012-09-09 13:46<br>赞(0) 踩(0) | <div>最喜欢痒</div> |
@@ -887,7 +887,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9188029)<br><br>2012-08-09 13:30<br>赞(0) 踩(0) | <div>误入歧途的完美声线，没有找到好的填词作家，太可惜了。完美的靡靡之音，夜店女皇！再不找到很好地词作家并改变自己的歌路就只能去国外发展了，那里的平台更加宽容。国内现有的文化氛围里，这样的词风难登大雅之堂。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1668224)<br><br>2012-08-10 11:28<br>赞(0) 踩(0) | <div>不就一首痒的歌词稍微hot了点？其它的很好啊。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9188029)<br><br>2017-10-27 23:02<br>赞(0) 踩(0) | <div><q><b>wiimii说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1226116)<br><br>2012-08-08 14:08<br>赞(0) 踩(0) | <div>我也是看了中国好声音来的+1哈哈呵呵</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1226116)<br><br>2012-08-08 14:08<br>赞(0) 踩(0) | <div>我也是看了中国好声音来的<br>+1哈哈<br>呵呵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1087900)<br><br>2012-08-07 15:14<br>赞(0) 踩(0) | <div>喜欢这样的嗓音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2654482)<br>毒药先生。<br>2012-08-07 13:55<br>赞(0) 踩(0) | <div>难道大家都是看了中国好声音才来找这首歌的？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4202422)<br><br>2012-08-07 11:25<br>赞(0) 踩(0) | <div>杨坤提到了黄龄，让很多人知道这个声音</div> |
@@ -939,7 +939,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1044158)<br><br>2012-07-19 19:48<br>赞(0) 踩(0) | <div>黄龄就是意外的靠各路选秀选手唱红的先是超级星光大道 和 快乐女生  现在是中国好声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7881613)<br><br>2012-07-19 13:04<br>赞(0) 踩(0) | <div>哈哈，我也是看了中国好声音来的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4374614)<br>活着就好<br>2012-07-18 19:13<br>赞(0) 踩(0) | <div>我喜欢的靡靡之音。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9696379)<br><br>2012-07-18 15:49<br>赞(0) 踩(0) | <div>也是看了中国好声音</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9696379)<br><br>2012-07-18 15:49<br>赞(0) 踩(0) | <div>也是看了<br>中国好声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5588782)<br>狗血与清新同体<br>2012-07-18 09:07<br>赞(0) 踩(0) | <div>妖娆的鬼魅声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3396785)<br><br>2012-07-18 07:37<br>赞(0) 踩(0) | <div>(^-^)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5472125)<br>☆<br>2012-07-18 06:54<br>赞(1) 踩(0) | <div>问：“为什么不红？”答：“《痒》的专辑封面做的太丑b了。”</div> |
@@ -952,7 +952,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7828727)<br>=x=<br>2012-07-17 16:51<br>赞(0) 踩(0) | <div>声音绝了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1680414)<br>Sophia。<br>2012-07-17 14:01<br>赞(0) 踩(0) | <div>是很有才华的一个！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8149575)<br><br>2012-07-17 13:40<br>赞(0) 踩(0) | <div>好艳丽性感的声音~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/521737)<br><br>2012-07-17 12:47<br>赞(133) 踩(0) | <div>我也是看了中国好声音来的+1哈哈</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/521737)<br><br>2012-07-17 12:47<br>赞(133) 踩(0) | <div>我也是看了中国好声音来的<br>+1哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1169690)<br> <br>2012-07-22 19:52<br>赞(0) 踩(0) | <div>+1 如果不看中国好声音，都不知道这首歌啊！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3289488)<br><br>2012-08-08 22:37<br>赞(0) 踩(0) | <div>+1</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6491)<br>大家一起来桃花！！<br>2012-08-24 13:21<br>赞(0) 踩(0) | <div>+1</div> |
@@ -1024,7 +1024,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2160569)<br>想。或者无想。<br>2012-02-08 14:44<br>赞(0) 踩(0) | <div>天，妖精</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7753493)<br><br>2012-02-01 13:58<br>赞(0) 踩(0) | <div>唱功~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7791586)<br>我还没想好要写什么...<br>2012-01-25 16:32<br>赞(0) 踩(0) | <div>痒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3838740)<br>曲高<br>2012-01-20 23:23<br>赞(0) 踩(0) | <div>很棒史华鑫</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3838740)<br>曲高<br>2012-01-20 23:23<br>赞(0) 踩(0) | <div>很棒<br><br><br><br><br><br><br>史华鑫</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7691463)<br><br>2012-01-16 17:41<br>赞(0) 踩(0) | <div>飘渺声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5490772)<br><br>2012-01-12 19:26<br>赞(0) 踩(0) | <div>独特  飘忽不定的美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4346407)<br>我呀，懒的很。<br>2012-01-06 04:24<br>赞(0) 踩(0) | <div>声音很不错的，唱腔很独特</div> |
@@ -1075,7 +1075,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5473690)<br><br>2011-08-19 10:08<br>赞(0) 踩(0) | <div>没有理由</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1990657)<br><br>2011-08-17 23:22<br>赞(0) 踩(0) | <div>游离的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4945204)<br><br>2011-08-15 14:17<br>赞(0) 踩(0) | <div>喜欢黄龄的声音~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5402521)<br><br>2011-08-14 21:17<br>赞(0) 踩(0) | <div>她的歌很特别，与众不同，我喜欢high歌很好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5402521)<br><br>2011-08-14 21:17<br>赞(0) 踩(0) | <div>她的歌很特别，与众不同，我喜欢<br>high歌很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5386965)<br><br>2011-08-13 02:23<br>赞(0) 踩(0) | <div>like it</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5391095)<br><br>2011-08-12 09:34<br>赞(0) 踩(0) | <div>天籁之音，不沾凡尘的精灵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1168227)<br> <br>2011-08-11 15:11<br>赞(0) 踩(0) | <div>很特别的人</div> |
@@ -1297,6 +1297,6 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121620)<br><br>2010-02-08 14:02<br>赞(0) 踩(0) | <div>现场与专辑相比差的太远了。感谢先进的技术。喜欢快女现场从唱的。支持技术，收藏专辑。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429482)<br>生活需要挑战！<br>2009-11-07 18:19<br>赞(0) 踩(0) | <div>卖&amp;quot;唱&amp;quot;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92451)<br>暂无签名~<br>2009-09-10 15:57<br>赞(0) 踩(0) | <div>快女之前根本不知谁是黄龄，现在听来声音还是好听。黄龄靠快女出名了，O(∩_∩)O~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328910)<br>Brighter day<br>2009-09-04 17:35<br>赞(0) 踩(0) | <div>很特别啊应该支持，难得的好声音</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328910)<br>Brighter day<br>2009-09-04 17:35<br>赞(0) 踩(0) | <div>很特别啊<br>应该支持，难得的好声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360285)<br> <br>2009-09-01 16:05<br>赞(0) 踩(0) | <div>好歌！但是不要看MV..吓死。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359013)<br><br>2009-08-31 12:52<br>赞(0) 踩(0) | <div>无敌好听</div> |

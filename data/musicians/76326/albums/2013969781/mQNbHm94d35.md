@@ -59,8 +59,8 @@ ISRC CN-A23-14-01942
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412025328)<br>我还没想好要写什么...<br>2020-12-24 19:29<br>赞(0) 踩(0) | <div>OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327587521)<br>小人之心度君子之腹，从不...<br>2020-07-27 15:03<br>赞(0) 踩(0) | <div>听起来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426775060)<br><br>2020-07-20 15:56<br>赞(0) 踩(0) | <div>有钱了就去听听演唱会吧，希望有钱不要来的太晚。</div> |
@@ -100,7 +100,7 @@ ISRC CN-A23-14-01942
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355663494)<br>愿有一个永不落幕的旅行。<br>2018-06-25 19:35<br>赞(2) 踩(0) | <div>坐在宿舍里，没开灯，天有点黑了，放到这首歌，开头吓了我一跳。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182184810)<br>爱音乐，爱生活<br>2018-06-21 00:17<br>赞(3) 踩(0) | <div>年度最爱，让人放松下来的旋律以及准确描述自己这一年来生活状态的歌词。anyway，还好一切都好起来了。失去的总比得到的多，谁不是一边绝望着一边生活。C*A考试前两天，失眠了，既然知道有些事情的重要性，就去尽最大的努力吧。感恩&amp;amp;Always try your best。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310780780)<br>这个人话太多了，根本写不...<br>2018-06-03 02:41<br>赞(0) 踩(0) | <div>开始时的蚊子真的让我警惕起来了，，</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344319217)<br>惪<br>2018-04-20 07:27<br>赞(2) 踩(0) | <div>天阴了这么久何时会放晴保佑我冰箱里都有吃的东西麻烦你让那些恶心的苍蝇散去给我最初的平静</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344319217)<br>惪<br>2018-04-20 07:27<br>赞(2) 踩(0) | <div>天阴了这么久何时会放晴<br>保佑我冰箱里都有吃的东西<br>麻烦你让那些恶心的苍蝇散去<br>给我最初的平静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126421622)<br>林子<br>2018-03-31 22:37<br>赞(2) 踩(0) | <div>333 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45443818)<br>我还没想好要写什么...<br>2018-03-27 07:04<br>赞(0) 踩(0) | <div>人的力量太渺小，但却不因此屈服，就这样脆弱又坚强的活下去，就是伟大的一生吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353540547)<br><br>2018-03-20 13:25<br>赞(0) 踩(0) | <div>欲远集而无所适兮，聊浮游以逍遥</div> |
@@ -128,10 +128,10 @@ ISRC CN-A23-14-01942
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323687997)<br><br>2017-12-11 21:32<br>赞(1) 踩(0) | <div>我想知道你还惦记着那个姑娘吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183417620)<br>哈哈哈 你很、<br>2017-12-07 12:44<br>赞(0) 踩(0) | <div>啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118580476)<br> <br>2017-12-02 09:07<br>赞(0) 踩(0) | <div>喜欢这歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88747856)<br><br>2017-11-12 16:13<br>赞(12) 踩(0) | <div>为了那生存的面包，谁不是为了生活而在生活。给我一块糖，又给我一巴掌。和给我一巴掌，又给我一颗糖，区别到底有多大呢，失去的总比得到的多。我是只疯狂的虫子，我是颗发芽的种子。我也不会放弃！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88747856)<br><br>2017-11-12 16:13<br>赞(12) 踩(0) | <div>为了那生存的面包，谁不是为了生活而在生活。<br>给我一块糖，又给我一巴掌。和给我一巴掌，又给我一颗糖，区别到底有多大呢，失去的总比得到的多。<br>我是只疯狂的虫子，我是颗发芽的种子。<br>我也不会放弃！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11017803)<br>......<br>2017-11-09 00:12<br>赞(3) 踩(0) | <div>我是个不爱笑的孩子，但不是被你愚弄的傻子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332437671)<br><br>2017-11-08 13:52<br>赞(0) 踩(0) | <div>找到了吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44637861)<br><br>2017-10-27 23:33<br>赞(25) 踩(0) | <div>一个在北京四合院与父亲生活，拥有的不多 一间十四五平米大的小屋，一个烟酒熏坏了嗓子，他叫赵雷。一个二十出头的胖子宋冬野，曾有过一天两个馒头一袋榨菜的日子，好不起眼的酒吧歌手。他们的歌有多少人有多少个共鸣，还有多少人半夜一直单曲循环直到睡去。对简陋生活的写照，直达人心的歌词，沉厚的嗓音，微不足道的渴望，人文思想的歌唱，轻声的呐喊………………在时间的深沉，生活的窘迫下创造的经典是无法超越的。——追求一种简单的美把那孤独变成力量</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44637861)<br><br>2017-10-27 23:33<br>赞(25) 踩(0) | <div>一个在北京四合院与父亲生活，拥有的不多 一间十四五平米大的小屋，一个烟酒熏坏了嗓子，他叫赵雷。一个二十出头的胖子宋冬野，曾有过一天两个馒头一袋榨菜的日子，好不起眼的酒吧歌手。他们的歌有多少人有多少个共鸣，还有多少人半夜一直单曲循环直到睡去。对简陋生活的写照，直达人心的歌词，沉厚的嗓音，微不足道的渴望，人文思想的歌唱，轻声的呐喊………………在时间的深沉，生活的窘迫下创造的经典是无法超越的。<br>——追求一种简单的美<br>把那孤独变成力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8302587)<br>仰愿无人渡我意…<br>2017-10-12 17:14<br>赞(3) 踩(0) | <div>11.18号见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297781204)<br><br>2017-09-28 14:09<br>赞(1) 踩(0) | <div>前奏听得我想放下手机去打苍蝇_&amp;sect;:з)))」&amp;ang;)_</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300117765)<br><br>2017-09-25 22:05<br>赞(1) 踩(0) | <div>后面说的是英文吗？谁说的？</div> |
@@ -142,7 +142,7 @@ ISRC CN-A23-14-01942
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2882437)<br><br>2017-09-11 00:39<br>赞(1) 踩(0) | <div>赵雷歌曲里，我最喜欢的不是成都，也不是南方姑娘，是这首，不管旋律还是歌词，第一次听就上瘾了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55648042)<br>我还没想好要写什么...<br>2017-08-30 00:11<br>赞(0) 踩(0) | <div>哈哈试试</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192444467)<br><br>2017-08-07 08:35<br>赞(0) 踩(0) | <div>为什么我下的这首歌忽然变成伴奏了 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125089920)<br>找到北方啦<br>2017-08-06 21:05<br>赞(99) 踩(0) | <div>这首歌又叫飞来飞去。大冰和他在西藏的酒吧就叫浮游，英文名是for you.在被命运捉弄的那些年里，雷子过得很窘迫，没有钱就是最大的困难。好在有朋友的帮助，还有自己坚持了十几年的梦想，雷子终于出头了。从当年的&amp;ldquo;圈内无人不知，圈外无人而知&amp;rdquo;到现在的FREE ZL，雷子真的打败命运了。他说&amp;ldquo;让那些恶心的苍蝇散去，还我最初的平静&amp;rdquo;，也许就是开头的那些苍蝇在飞来飞去，也许赵雷，真的长大了。曾经说&amp;ldquo;我要掀起中国民谣界的新浪潮&amp;rdquo;，现在雷子也在向国际走出，赵小雷，加油 <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125089920)<br>找到北方啦<br>2017-08-06 21:05<br>赞(99) 踩(0) | <div>这首歌又叫飞来飞去。大冰和他在西藏的酒吧就叫浮游，英文名是for you.在被命运捉弄的那些年里，雷子过得很窘迫，没有钱就是最大的困难。好在有朋友的帮助，还有自己坚持了十几年的梦想，雷子终于出头了。从当年的&amp;ldquo;圈内无人不知，圈外无人而知&amp;rdquo;到现在的FREE ZL，雷子真的打败命运了。<br>他说&amp;ldquo;让那些恶心的苍蝇散去，还我最初的平静&amp;rdquo;，也许就是开头的那些苍蝇在飞来飞去，也许赵雷，真的长大了。<br>曾经说&amp;ldquo;我要掀起中国民谣界的新浪潮&amp;rdquo;，现在雷子也在向国际走出，赵小雷，加油 <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346431846)<br>我去海底找你吧，找不到的...<br>2018-02-10 16:12<br>赞(0) 踩(0) | <div>其实成都对我的触动远不如这首歌。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330523142)<br>nana加油<br>2018-03-10 15:20<br>赞(0) 踩(0) | <div><q><b>風馬说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305176133)<br> <br>2017-07-17 10:37<br>赞(4) 踩(0) | <div>雷子这英语说的&amp;hellip; <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
@@ -154,7 +154,7 @@ ISRC CN-A23-14-01942
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166302128)<br>冷冷清清的风风火火.<br>2017-06-10 09:07<br>赞(1) 踩(0) | <div>管它苍蝇还是蚊子，拍死</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38139921)<br>耳朵痒<br>2017-05-14 22:28<br>赞(0) 踩(0) | <div>蚊子吓到我了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280587173)<br><br>2017-05-12 23:05<br>赞(0) 踩(0) | <div>要一个</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49761393)<br>你一定要像晨曦一样活<br>2017-05-05 18:54<br>赞(10) 踩(0) | <div>you have no futurei fucking have said itI&amp;#39;m just like that(and the door close)I can&amp;#39;t believe it iscause you are hereyour beauty led you run around the cityfollow with meso don&amp;#39;t be hesitatelet&amp;#39;s go</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49761393)<br>你一定要像晨曦一样活<br>2017-05-05 18:54<br>赞(10) 踩(0) | <div>you have no future<br>i fucking have said it<br>I&amp;#39;m just like that<br>(and the door close)<br>I can&amp;#39;t believe it is<br>cause you are here<br>your beauty led you run around the city<br>follow with me<br>so don&amp;#39;t be hesitate<br>let&amp;#39;s go</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112274868)<br>啊～再见<br>2017-05-04 17:24<br>赞(1) 踩(0) | <div>我只看到雷子的几首歌评论999+，幸好，这里没有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96352356)<br>沉默的大多数 金宇彬wi...<br>2017-05-04 08:48<br>赞(1) 踩(0) | <div>无论怎么样都是这样的赵雷啊 没有被改变</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291113194)<br>人性藏于灵魂深处<br>2017-04-24 15:32<br>赞(1) 踩(0) | <div>赵雷 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -177,13 +177,13 @@ ISRC CN-A23-14-01942
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120429906)<br>睁开我的卡姿兰大眼睛，又...<br>2017-03-15 14:52<br>赞(1) 踩(0) | <div>开始真是逼死强迫症</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280449669)<br><br>2017-03-15 01:00<br>赞(0) 踩(0) | <div>拨动心弦的声音</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283953579)<br><br>2017-04-09 05:25<br>赞(0) 踩(0) | <div>是的,仿佛回到少年时代</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37576279)<br><br>2017-03-13 10:41<br>赞(0) 踩(0) | <div>嘿 呀咿呀嘿 我是不是醉了哎嘿嘿 呀咿呀哎嘿 我是不是很迷惑失去的总比得到的多我知道这一切都安排好了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37576279)<br><br>2017-03-13 10:41<br>赞(0) 踩(0) | <div>嘿 呀咿呀嘿 我是不是醉了<br>哎嘿嘿 呀咿呀哎嘿 我是不是很迷惑<br>失去的总比得到的多<br>我知道这一切都安排好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37417827)<br><br>2017-03-10 19:40<br>赞(0) 踩(0) | <div>心情不好的时候听了满满的动力</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5035279)<br>喜乐人生<br>2017-03-09 07:52<br>赞(2) 踩(0) | <div>我是个不爱笑的孩子，但不是被你愚弄的傻子~对，不能用你高傲的眼光俯视那些在底层存活但从不缺少快乐的人或物，一切生灵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99436068)<br>愉快往事如烟<br>2017-03-01 23:21<br>赞(1) 踩(0) | <div>赵雷就这样火了 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89831724)<br> <br>2017-03-06 21:14<br>赞(0) 踩(0) | <div>对啊火了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222051328)<br>你不曾真的离去 你始终在...<br>2017-02-27 08:30<br>赞(1) 踩(0) | <div>我是个不爱笑的孩子 但不是被你愚弄的傻子</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267751828)<br><br>2017-02-25 19:32<br>赞(2) 踩(0) | <div>这两天在看的 乖 摸摸头浮游 for you 是大冰在拉萨开的酒吧 这个酒吧故事中有妮可 有二彬子 还有赵雷先是看到书 再来听他的歌 很棒每首歌的背后都有一个故事 而这个故事我好像在哪听过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267751828)<br><br>2017-02-25 19:32<br>赞(2) 踩(0) | <div>这两天在看的 乖 摸摸头<br>浮游 for you 是大冰在拉萨开的酒吧 这个酒吧故事中有妮可 有二彬子 还有赵雷<br>先是看到书 再来听他的歌 很棒<br>每首歌的背后都有一个故事 而这个故事我好像在哪听过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50619395)<br><br>2017-02-23 12:17<br>赞(1) 踩(0) | <div>音响效果太给力啦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11223898)<br> <br>2017-02-22 19:09<br>赞(0) 踩(0) | <div>好味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9669068)<br> <br>2017-02-21 11:49<br>赞(0) 踩(0) | <div>总觉得他说了个 帅</div> |
@@ -409,7 +409,7 @@ ISRC CN-A23-14-01942
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11707269)<br><br>2014-12-10 09:20<br>赞(0) 踩(0) | <div>赵雷啊赵雷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44637861)<br><br>2014-12-10 00:16<br>赞(1) 踩(0) | <div>喜欢赵雷。早晚成为经典的。在非凡的生活中磨练的歌者………</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44637861)<br><br>2014-12-10 00:14<br>赞(0) 踩(0) | <div>喜欢赵雷。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44637861)<br><br>2014-12-10 00:10<br>赞(1) 踩(0) | <div>保佑我冰箱里都有吃的东西…多么简单嗯需求我喜欢听赵雷的歌 因为对他的歌有很多的共鸣。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44637861)<br><br>2014-12-10 00:10<br>赞(1) 踩(0) | <div>保佑我冰箱里都有吃的东西…多么简单嗯需求<br>我喜欢听赵雷的歌 因为对他的歌有很多的共鸣。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1104326)<br><br>2014-12-02 21:13<br>赞(0) 踩(0) | <div>@是陈芬啊 在新专辑没发之前这首歌叫飞来飞去[抱抱]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1104326)<br><br>2014-12-02 21:06<br>赞(0) 踩(0) | <div>@是陈芬啊 在没发新专辑之前这首歌叫飞来飞去[抱抱]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11126905)<br>☣<br>2014-11-26 12:49<br>赞(1) 踩(0) | <div>一巴掌拍死了逼哥 乱说的</div> |
@@ -419,7 +419,7 @@ ISRC CN-A23-14-01942
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25743245)<br>请各位大神多多关照！<br>2014-11-03 22:03<br>赞(0) 踩(0) | <div>赵雷是个人才，接地气。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34420055)<br>没音乐会死星人。<br>2014-11-02 20:28<br>赞(0) 踩(0) | <div>麻烦你告诉我希望在哪里。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8651262)<br><br>2014-11-02 12:19<br>赞(0) 踩(0) | <div>也就这首歌能听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40401110)<br>摇滚是呐喊、民谣是呢喃、<br>2014-10-31 16:00<br>赞(0) 踩(0) | <div>命运给了我一块糖又给我一个巴掌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40401110)<br>摇滚是呐喊、民谣是呢喃、<br>2014-10-31 16:00<br>赞(0) 踩(0) | <div>命运给了我一块糖<br>又给我一个巴掌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4359188)<br>我开心你随意<br>2014-10-28 23:07<br>赞(0) 踩(0) | <div>蚊子叫真是够了！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36281264)<br><br>2014-10-27 22:27<br>赞(1) 踩(0) | <div>寄蜉蝣于天地，渺沧海之一粟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36765613)<br> <br>2014-10-27 11:15<br>赞(0) 踩(0) | <div>开头那蚊子叫真应了之前的名字飞来飞去。。</div> |

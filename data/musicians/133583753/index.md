@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d1f8d4304f93b441949757ee38a604b2.jpg)<br>阿金和玄子](https://i.xiami.com/ajin) | **播放数**: 13457383<br>**粉丝数**: 1161<br>**评论数**: 57<br>**地区**: China 中国大陆<br>**风格**: 硬核说唱 Hardcore Hip Hop, 流行说唱 Pop Rap, 流行摇滚 Pop Rock, 独立民谣 Indie Folk, 流行 Pop<br> |
+| [![](../../images/musicians/d1f8d4304f93b441949757ee38a604b2.jpg)<br>阿金和玄子](https://i.xiami.com/ajin) | **地区**: China 中国大陆<br>**风格**: 硬核说唱 Hardcore Hip Hop, 流行说唱 Pop Rap, 流行摇滚 Pop Rock, 独立民谣 Indie Folk, 流行 Pop<br>**播放数**: 13457383<br>**粉丝数**: 1161<br>**评论数**: 57<br> |
 
 ## 档案
 
@@ -36,8 +36,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309495101)<br>一个音乐发烧友<br>2020-07-13 16:23<br>赞(0) 踩(0) | <div>唱的超级好，可是感觉录音设备还有杂音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331967302)<br><br>2020-02-09 13:49<br>赞(0) 踩(0) | <div>很喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432168070)<br><br>2019-12-16 13:04<br>赞(0) 踩(0) | <div>随岁月，阿金的歌词也许会更动人。希望看到走到巅峰时期的阿金</div> |

@@ -86,12 +86,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90086500)<br>1974.5.2<br>2020-12-03 21:40<br>赞(0) 踩(0) | <div>这张CD附赠的DVD视频很符合这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90086500)<br>1974.5.2<br>2020-12-03 21:37<br>赞(0) 踩(0) | <div>又来听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5383955)<br>Hush<br>2020-11-05 13:56<br>赞(0) 踩(0) | <div>你还是不要耍帅 对你比较好～～～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-06-29 09:45<br>赞(1) 踩(0) | <div>上班听音乐又不能炒的家伙是老板心中永远的一根刺<img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-06-29 09:45<br>赞(1) 踩(0) | <div>上班听音乐又不能炒的家伙<br>是老板心中永远的一根刺<br><img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58071160)<br><br>2019-05-11 16:27<br>赞(0) 踩(0) | <div>下载居然还得是vip！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421949618)<br><br>2019-03-28 07:51<br>赞(0) 踩(0) | <div>不好意思，每一句因为阿岳才来虾米的我都给你们点赞了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403371938)<br><br>2019-02-26 17:41<br>赞(0) 踩(0) | <div>为什么听到了I shot the sheriff</div> |
@@ -121,14 +121,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7911864)<br><br>2017-10-27 23:28<br>赞(2) 踩(0) | <div>最近一直喜欢这歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306308546)<br><br>2017-10-27 23:20<br>赞(1) 踩(0) | <div>勒布朗·张震岳 不打篮球唱什么歌 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50126300)<br>不会活<br>2017-10-13 00:11<br>赞(1) 踩(0) | <div>我已经成为空巢青年一个月了，很难受</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143458382)<br>时代很潦草，不太关心了。<br>2017-09-29 01:15<br>赞(0) 踩(0) | <div>啊岳 晚安 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">又是一个单曲循环啊岳的夜晚 <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143458382)<br>时代很潦草，不太关心了。<br>2017-09-29 01:15<br>赞(0) 踩(0) | <div>啊岳 晚安 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>又是一个单曲循环啊岳的夜晚 <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320795743)<br>当你听见张震岳，会发现你...<br>2017-09-12 17:39<br>赞(1) 踩(0) | <div>其实阿岳的歌很真实，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2993529)<br><br>2017-09-06 09:13<br>赞(0) 踩(0) | <div>阿岳的歌就这样，乱七八糟但是随性，想到什么唱什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320795743)<br>当你听见张震岳，会发现你...<br>2017-09-04 04:42<br>赞(1) 踩(0) | <div>我们的生活总是一成不变</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111906150)<br><br>2017-08-29 21:55<br>赞(3) 踩(0) | <div>阿岳要成精了，让人欲罢不能</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46215213)<br> <br>2017-07-09 00:16<br>赞(1) 踩(0) | <div>啊呀呀呀 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png">超喜欢阿岳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195898953)<br>那些像屎一般糟糕的心情才...<br>2017-06-30 08:50<br>赞(4) 踩(0) | <div>痞子阿岳的freestyle 我服！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300439006)<br>…=￣ω￣=…=￣ω￣=<br>2017-06-04 07:08<br>赞(34) 踩(0) | <div>阿岳的歌有人认为也唱的不咋地，但只有懂阿岳的人才能感觉出阿岳歌中有时轻摇滚有时抒情但在开心的时候听认为他歌的风格很欢快又蕴含着许多道理，在忧伤的时候听曲风又很自悲，比如《山上的女孩》，在听到阿岳的歌的时候总能留下即下落下的泪滴，阿岳目前最后一片专辑《我是海雅谷幕》那简单旋律回到了最原始最纯朴的张震岳&amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300439006)<br>…=￣ω￣=…=￣ω￣=<br>2017-06-04 07:08<br>赞(34) 踩(0) | <div>阿岳的歌有人认为也唱的不咋地，但只有懂阿岳的人才能感觉出阿岳歌中有时轻摇滚有时抒情但在开心的时候听认为他歌的风格很欢快又蕴含着许多道理，在忧伤的时候听曲风又很自悲，比如《山上的女孩》，在听到阿岳的歌的时候总能留下即下落下的泪滴，阿岳目前<br>最后一片专辑《我是海雅谷幕》那简单旋律回到了最原始最纯朴的张震岳&amp;hellip;&amp;hellip;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2993529)<br><br>2017-12-02 15:22<br>赞(0) 踩(0) | <div>喜欢阿岳就是因为没什么大道理，讲的就是每天吃喝拉撒睡，泡妞，偶尔对生活对工作的发点小牢骚的随性生活。俗但接地气，尤其是这首歌，还有等我有一天，简直对随性生活的完美诠释</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365638481)<br><br>2018-05-11 00:32<br>赞(0) 踩(0) | <div>同感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7200990)<br>抑郁成风 万年成空<br>2017-06-02 06:33<br>赞(4) 踩(0) | <div>听阿岳 就是在感悟人生 他的歌 都是真实的心声呀</div> |
@@ -242,7 +242,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17174620)<br><br>2013-07-15 19:48<br>赞(0) 踩(0) | <div>实话</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13935966)<br><br>2013-07-12 18:15<br>赞(0) 踩(0) | <div>我现状</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11555970)<br><br>2013-07-12 12:09<br>赞(0) 踩(0) | <div>还是喜欢这褂的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8881424)<br>我还没想好要写什么...<br>2013-07-11 12:45<br>赞(1) 踩(0) | <div>穷追流行 别以为你什么都行你以为 你还说的到做的到其实你 看起来有一点鸟想学冲浪又嫌起床太早你还是不要耍帅 对你比较好我们的生活 总是一成不变明明吃的很多 心里还是空空</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8881424)<br>我还没想好要写什么...<br>2013-07-11 12:45<br>赞(1) 踩(0) | <div>穷追流行 别以为你什么都行<br>你以为 你还说的到做的到<br>其实你 看起来有一点鸟<br>想学冲浪又嫌起床太早<br>你还是不要耍帅 对你比较好<br>我们的生活 总是一成不变<br>明明吃的很多 心里还是空空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4283508)<br><br>2013-07-11 10:18<br>赞(1) 踩(0) | <div>好真实。。好痛苦。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11170549)<br><br>2013-07-10 21:13<br>赞(0) 踩(0) | <div>让寂寞 让寂寞 占满整个大宇宙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2645545)<br><br>2013-07-10 16:53<br>赞(0) 踩(0) | <div>@張震嶽 总是唱到我心坎里</div> |

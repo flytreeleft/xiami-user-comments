@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4f84b8505718dd0af5ab23c4ebfd1c5d.jpg)<br>陈玉建](https://i.xiami.com/chenyujian) | **播放数**: 19093683<br>**粉丝数**: 2061<br>**评论数**: 69<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/4f84b8505718dd0af5ab23c4ebfd1c5d.jpg)<br>陈玉建](https://i.xiami.com/chenyujian) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 19093683<br>**粉丝数**: 2061<br>**评论数**: 69<br> |
 
 ## 档案
 
@@ -74,8 +74,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261355585)<br>我还没想好要写什么...<br>2020-03-12 21:51<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206029922)<br>一笑泯恩仇<br>2020-02-29 18:10<br>赞(0) 踩(0) | <div>非主流</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112513928)<br><br>2019-05-13 23:46<br>赞(0) 踩(0) | <div>我从小听着你的歌</div> |
@@ -84,7 +84,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346457088)<br><br>2018-06-10 15:57<br>赞(1) 踩(0) | <div><img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png">我爱你，亲爱的 <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png">表白歌曲！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341955835)<br><br>2018-06-07 16:02<br>赞(1) 踩(0) | <div>感同深受，实在是太好听了，我听这首歌长大</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352804120)<br><br>2018-03-21 21:34<br>赞(1) 踩(0) | <div>还可以不错</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210901211)<br><br>2018-02-16 18:16<br>赞(0) 踩(0) | <div>我想和你聊聊天呢，红包也准备好了微信A11401010</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210901211)<br><br>2018-02-16 18:16<br>赞(0) 踩(0) | <div>我想和你聊聊天呢，红包也准备好了<br>微信A11401010</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13552)<br><br>2017-10-27 23:03<br>赞(1) 踩(0) | <div>微信爱、红颜你我</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329018578)<br>我很喜欢音乐<br>2017-10-08 00:03<br>赞(1) 踩(0) | <div>很喜欢陈玉建的歌曲！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337776009)<br><br>2018-02-19 11:02<br>赞(0) 踩(0) | <div>七八年就听你的哥</div> |
@@ -141,7 +141,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228475868)<br>Meh<br>2017-02-05 05:21<br>赞(0) 踩(0) | <div><q><b>暗叉说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6229958)<br>音乐天下最美的东西<br>2012-07-08 21:34<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8142644)<br><br>2012-03-03 11:55<br>赞(0) 踩(0) | <div>陈玉建的歌感动、感染着受创伤的人。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4352794)<br><br>2011-06-20 17:05<br>赞(1) 踩(0) | <div>垃圾的 音乐真可悲 中国音乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4352794)<br><br>2011-06-20 17:05<br>赞(1) 踩(0) | <div>垃圾的 音乐<br>真可悲 中国音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2104186)<br><br>2011-11-22 18:59<br>赞(0) 踩(0) | <div>是啊，可悲，而且已经不可做更的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/942393)<br><br>2011-06-10 00:50<br>赞(0) 踩(0) | <div>谁能发布偷偷的哭原版呢，非常非常的好听，银奇跪求了O(∩_∩)O~″</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5141462)<br><br>2012-05-28 13:14<br>赞(0) 踩(0) | <div>请上 QQ音乐</div> |

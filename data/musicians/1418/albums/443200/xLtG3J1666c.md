@@ -32,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136605864)<br>我还没想好要写什么...<br>2020-11-26 22:30<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104063482)<br><br>2020-08-12 18:14<br>赞(3) 踩(0) | <div>给我一点遗憾 借机使坏。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9797157)<br><br>2020-03-22 21:50<br>赞(0) 踩(0) | <div>music let's play</div> |
@@ -83,17 +83,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17351552)<br><br>2013-07-16 11:42<br>赞(0) 踩(0) | <div>我相信上天给予我的一切都是有他的原因，所以我珍惜，享受并快乐的拥有这些</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9668104)<br>=w=<br>2013-07-08 18:10<br>赞(0) 踩(0) | <div>很棒ε٩(๑&amp;gt;3&amp;lt;)۶з</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7216217)<br><br>2013-07-06 22:45<br>赞(0) 踩(0) | <div>→_→</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2836305)<br>宁愿没去过天堂<br>2013-07-05 01:27<br>赞(0) 踩(0) | <div>给我一点遗憾 让我学学咏叹给我一点灵感 抱怨这时代我随风摇摆 我无聊自在给我一点迷幻 藉机使坏</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2836305)<br>宁愿没去过天堂<br>2013-07-05 01:27<br>赞(0) 踩(0) | <div>给我一点遗憾 让我学学咏叹<br>给我一点灵感 抱怨这时代<br>我随风摇摆 我无聊自在<br>给我一点迷幻 藉机使坏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15320412)<br><br>2013-06-25 21:31<br>赞(0) 踩(0) | <div>每一首都是我心声！喜欢喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477869)<br><br>2013-06-22 16:51<br>赞(1) 踩(0) | <div>突发奇想搜索名为 青春 的歌，听了之后，大都盛满失去后的酸涩追忆或未实现的苦涩艰辛。最爱陈珊妮的这首，满是肆无忌惮的自由和毫不在意的挥霍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477869)<br><br>2013-06-22 16:41<br>赞(0) 踩(0) | <div>你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477869)<br><br>2013-06-22 16:25<br>赞(0) 踩(0) | <div>突发奇想搜索了名为 青春 的歌。最爱陈珊妮这首，其他大部分都盛满了无疾而终的悲伤或未实现的苦涩，只有这首有着肆无忌惮的自由和满不在乎的挥霍~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344624)<br>我还没想好要写什么...<br>2013-06-20 07:49<br>赞(0) 踩(0) | <div>青春到底是什么，让人看到这两个字就会颤抖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1752747)<br><br>2013-06-15 10:22<br>赞(0) 踩(0) | <div>无聊自在，才更爱你陈珊妮。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15323848)<br><br>2013-06-06 08:43<br>赞(0) 踩(0) | <div>早晨已经开始很久了，看公主心中的青春，哈哈哈。“给我一点遗憾 让我学学咏叹。给我一点灵感 抱怨这时代。我随风摇摆 我无聊自在。给我一点迷幻 藉机使坏。”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15323848)<br><br>2013-06-06 08:43<br>赞(0) 踩(0) | <div>早晨已经开始很久了，看公主心中的青春，哈哈哈。“给我一点遗憾 让我学学咏叹。<br>给我一点灵感 抱怨这时代。我随风摇摆 我无聊自在。给我一点迷幻 藉机使坏。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7698093)<br><br>2013-05-31 14:21<br>赞(0) 踩(0) | <div>音乐 请你请你快拯救我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3013889)<br>好听就听<br>2013-05-22 22:49<br>赞(0) 踩(0) | <div>刺激点没有了，想不出什么，写不了什么。就像谈恋爱一样，感觉短点，谈不下去了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12952319)<br><br>2013-05-19 15:53<br>赞(1) 踩(0) | <div>这个下午很适合听这首歌：给我一点遗憾 让我学学咏叹给我一点灵感 抱怨这时代我随风摇摆 我无聊自在给我一点迷幻 藉机使坏音乐 请你请你快拯救我请你请你教我摇滚请你请你给我灵魂音乐 请你请你快拯救我请你请你让我翻滚沉沦吧 青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12952319)<br><br>2013-05-19 15:53<br>赞(1) 踩(0) | <div>这个下午很适合听这首歌：<br>给我一点遗憾 让我学学咏叹<br>给我一点灵感 抱怨这时代<br>我随风摇摆 我无聊自在<br>给我一点迷幻 藉机使坏<br><br>音乐 请你请你快拯救我<br>请你请你教我摇滚<br>请你请你给我灵魂<br>音乐 请你请你快拯救我<br>请你请你让我翻滚<br>沉沦吧 青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15321986)<br><br>2013-05-18 15:29<br>赞(0) 踩(0) | <div>音乐 请你请你快拯救我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3693518)<br><br>2013-05-14 21:38<br>赞(0) 踩(0) | <div>我喜欢这种青春，不喜欢你们的中年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1385175)<br>hot thing ho...<br>2013-05-13 10:52<br>赞(0) 踩(0) | <div>一听音乐响起，烦恼就忘光光~</div> |
@@ -133,16 +133,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4310230)<br><br>2012-02-12 09:29<br>赞(0) 踩(0) | <div>音乐，请你请你快拯救我！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5569511)<br>我的头像怎么还加V了…<br>2012-01-30 23:07<br>赞(0) 踩(0) | <div>请你请你给我灵魂～～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7777993)<br><br>2012-01-26 03:25<br>赞(0) 踩(0) | <div>这样陪我大风大雨痴痴狂狂念念不忘的只有陈珊妮</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469915)<br>管理员丹尼<br>2012-01-17 10:55<br>赞(0) 踩(0) | <div>音乐 请你请你快拯救我请你请你教我摇滚请你请你给我灵魂音乐 请你请你快拯救我请你请你让我翻滚沉沦吧 青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469915)<br>管理员丹尼<br>2012-01-17 01:40<br>赞(0) 踩(0) | <div>音乐 请你请你快拯救我请你请你教我摇滚请你请你给我灵魂音乐 请你请你快拯救我请你请你让我翻滚沉沦吧 青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469915)<br>管理员丹尼<br>2012-01-17 01:39<br>赞(0) 踩(0) | <div>音乐 请你请你快拯救我请你请你教我摇滚请你请你给我灵魂音乐 请你请你快拯救我请你请你让我翻滚沉沦吧 青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469915)<br>管理员丹尼<br>2012-01-17 01:37<br>赞(0) 踩(0) | <div>音乐 请你请你快拯救我请你请你教我摇滚请你请你给我灵魂音乐 请你请你快拯救我请你请你让我翻滚沉沦吧 青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469915)<br>管理员丹尼<br>2012-01-17 10:55<br>赞(0) 踩(0) | <div>音乐 请你请你快拯救我<br>请你请你教我摇滚<br>请你请你给我灵魂<br>音乐 请你请你快拯救我<br>请你请你让我翻滚<br>沉沦吧 青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469915)<br>管理员丹尼<br>2012-01-17 01:40<br>赞(0) 踩(0) | <div>音乐 请你请你快拯救我<br>请你请你教我摇滚<br>请你请你给我灵魂<br>音乐 请你请你快拯救我<br>请你请你让我翻滚<br>沉沦吧 青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469915)<br>管理员丹尼<br>2012-01-17 01:39<br>赞(0) 踩(0) | <div>音乐 请你请你快拯救我<br>请你请你教我摇滚<br>请你请你给我灵魂<br>音乐 请你请你快拯救我<br>请你请你让我翻滚<br>沉沦吧 青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469915)<br>管理员丹尼<br>2012-01-17 01:37<br>赞(0) 踩(0) | <div>音乐 请你请你快拯救我<br>请你请你教我摇滚<br>请你请你给我灵魂<br>音乐 请你请你快拯救我<br>请你请你让我翻滚<br>沉沦吧 青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6745282)<br>wwww<br>2012-01-16 13:48<br>赞(0) 踩(0) | <div>陈珊妮的歌里最爱这首。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/558394)<br>最后的最后，我们都将回归...<br>2011-12-29 19:48<br>赞(0) 踩(0) | <div>我需要一首快乐的歌让我止疼。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1380424)<br>我还没想好要写什么...<br>2011-12-26 11:49<br>赞(0) 踩(0) | <div>不期而遇就被深深地吸引，所谓一见钟情就是这样吧。如果说周董的歌传递的是秀给你看的自信满满，这首歌的自信感则更加淡定自若。而在寻找之后才发现曾经最爱的另一首歌竟也出自同一人之手——陈珊妮，嗯，我喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317931)<br>好久不见。虾米生态堪忧。...<br>2011-12-21 01:17<br>赞(1) 踩(0) | <div>青春--我把青春凝视成墓碑。回忆在过去，悲伤在墓志铭的末尾。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7292322)<br><br>2011-12-20 13:12<br>赞(0) 踩(0) | <div>心声</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4251919)<br><br>2011-12-08 13:01<br>赞(0) 踩(0) | <div>给我一点遗憾 让我学学咏叹给我一点灵感 抱怨这时代我随风摇摆 我无聊自在给我一点迷幻 藉机使坏</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4251919)<br><br>2011-12-08 13:01<br>赞(0) 踩(0) | <div>给我一点遗憾 让我学学咏叹<br>给我一点灵感 抱怨这时代<br>我随风摇摆 我无聊自在<br>给我一点迷幻 藉机使坏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4143999)<br><br>2011-12-07 11:43<br>赞(0) 踩(0) | <div>沉沦啊~~青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7114146)<br><br>2011-12-05 19:30<br>赞(0) 踩(0) | <div>怎么这么喜欢这个旋律呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7114146)<br><br>2011-12-05 19:28<br>赞(0) 踩(0) | <div>怎么这么喜欢这个旋律呢</div> |
@@ -191,9 +191,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38237)<br><br>2011-07-20 10:56<br>赞(0) 踩(0) | <div>每天早上，虾歌签到，然后必须要来一首【青春】，才能去刷牙洗脸，才觉得，这一天才正式开始~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38237)<br><br>2011-07-20 10:55<br>赞(0) 踩(0) | <div>每天早上，虾歌签到，然后必须要来一首【青春】，才能去刷牙洗脸，才觉得，这一天才正式开始~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/467251)<br><br>2011-07-20 10:54<br>赞(0) 踩(0) | <div>给我一点遗憾 让我学会咏叹</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4770677)<br><br>2011-07-17 22:16<br>赞(0) 踩(0) | <div>有些还没来得及说出的话，就让它烂在心里..</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4770677)<br><br>2011-07-17 22:16<br>赞(0) 踩(0) | <div>有些还没来得及说出的话，就让它烂在心里.<br>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3936559)<br>雌性外星动物<br>2011-07-17 15:24<br>赞(0) 踩(0) | <div>青春可以是可爱的，不必是残酷又灰暗的，青春是你可以任意妄为的，青春是你可以在下午三点起床的时候什么都不干的。而青春不能缺少的是遗憾和音乐。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55163)<br><br>2011-07-14 16:41<br>赞(0) 踩(0) | <div>音樂　請你請你快拯救我　請你請你教我搖滾 請你請你給我靈魂音樂　請你請你快拯救我　請你請你讓我翻滾 沉淪吧　青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55163)<br><br>2011-07-14 16:41<br>赞(0) 踩(0) | <div>音樂　請你請你快拯救我　請你請你教我搖滾 請你請你給我靈魂<br>音樂　請你請你快拯救我　請你請你讓我翻滾 沉淪吧　青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4822307)<br><br>2011-07-12 18:20<br>赞(0) 踩(0) | <div>有人说：加班时听陈珊妮的新专辑《Love U,John》真合适~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2225431)<br><br>2011-07-09 18:09<br>赞(0) 踩(0) | <div>请你请你教我摇滚 请你请你给我灵魂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2859595)<br>我跟你描述一个灵魂，他拥...<br>2011-07-08 20:26<br>赞(0) 踩(0) | <div>听这歌只想摇摆，“音乐，请你请你快拯救我”</div> |
@@ -206,11 +206,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2385333)<br><br>2011-07-07 22:06<br>赞(0) 踩(0) | <div>自由自在的感觉~~青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4010285)<br><br>2011-07-07 13:28<br>赞(0) 踩(0) | <div>~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2260946)<br><br>2011-07-07 11:46<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/507977)<br><br>2011-07-07 08:58<br>赞(0) 踩(0) | <div>音乐，请你请你快拯救我~~请你请你让我翻滚，沉沦吧~~青春陈珊妮-青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/507977)<br><br>2011-07-07 08:55<br>赞(0) 踩(0) | <div>音乐，请你请你快拯救我~~请你请你让我翻滚，沉沦吧~~青春陈珊妮-青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4022415)<br><br>2011-07-06 21:29<br>赞(0) 踩(0) | <div>给我一点遗憾 让我学学咏叹给我一点灵感 抱怨这时代我随风摇摆 我无聊自在给我一点迷幻 借机使坏音乐 请你请你快救救我请你请你教我摇滚请你请你给我灵魂音乐 请你请你快拯救我请你请你让我翻滚沉沦吧 青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4022415)<br><br>2011-07-06 21:25<br>赞(0) 踩(0) | <div>给我一点遗憾 让我学学咏叹给我一点灵感 抱怨这时代我随风摇摆 我无聊自在给我一点迷幻 借机使坏音乐 请你请你快救救我请你请你教我摇滚请你请你给我灵魂音乐 请你请你快拯救我请你请你让我翻滚沉沦吧 青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4022415)<br><br>2011-07-06 21:10<br>赞(0) 踩(0) | <div>给我一点遗憾 让我学学咏叹给我一点灵感 抱怨这时代我随风摇摆 我无聊自在给我一点迷幻 借机使坏音乐 请你请你快救救我请你请你教我摇滚请你请你给我灵魂音乐 请你请你快拯救我请你请你让我翻滚沉沦吧 青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/507977)<br><br>2011-07-07 08:58<br>赞(0) 踩(0) | <div>音乐，请你请你快拯救我~~请你请你让我翻滚，沉沦吧~~青春<br><br>陈珊妮-青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/507977)<br><br>2011-07-07 08:55<br>赞(0) 踩(0) | <div>音乐，请你请你快拯救我~~请你请你让我翻滚，沉沦吧~~青春<br><br>陈珊妮-青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4022415)<br><br>2011-07-06 21:29<br>赞(0) 踩(0) | <div>给我一点遗憾 让我学学咏叹<br>给我一点灵感 抱怨这时代<br>我随风摇摆 我无聊自在<br>给我一点迷幻 借机使坏<br>音乐 请你请你快救救我<br>请你请你教我摇滚<br>请你请你给我灵魂<br>音乐 请你请你快拯救我<br>请你请你让我翻滚<br>沉沦吧 青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4022415)<br><br>2011-07-06 21:25<br>赞(0) 踩(0) | <div>给我一点遗憾 让我学学咏叹<br>给我一点灵感 抱怨这时代<br>我随风摇摆 我无聊自在<br>给我一点迷幻 借机使坏<br>音乐 请你请你快救救我<br>请你请你教我摇滚<br>请你请你给我灵魂<br>音乐 请你请你快拯救我<br>请你请你让我翻滚<br>沉沦吧 青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4022415)<br><br>2011-07-06 21:10<br>赞(0) 踩(0) | <div>给我一点遗憾 让我学学咏叹<br>给我一点灵感 抱怨这时代<br>我随风摇摆 我无聊自在<br>给我一点迷幻 借机使坏<br>音乐 请你请你快救救我<br>请你请你教我摇滚<br>请你请你给我灵魂<br>音乐 请你请你快拯救我<br>请你请你让我翻滚<br>沉沦吧 青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2859595)<br>我跟你描述一个灵魂，他拥...<br>2011-07-06 17:58<br>赞(0) 踩(0) | <div>这歌太摇曳生姿了。爵士气息浓厚，大爱！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3988128)<br><br>2011-07-06 11:11<br>赞(0) 踩(0) | <div>青春就是天天的啤酒和羊肉串！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4750646)<br><br>2011-07-06 03:30<br>赞(0) 踩(0) | <div>和这歌有缘</div> |
@@ -230,7 +230,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2719553)<br><br>2011-06-30 23:35<br>赞(0) 踩(0) | <div>青春 by陈珊妮// 摇滚 咏叹 音乐 灵魂 最后成论吧 青春@陈珊妮 //这些抽象名词都表现得很活泼，调子让沉闷的名词欢愉！ Love you John 里最爱这首！赞 @小小pp的围脖 //小平友们都去听听吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4001175)<br><br>2011-06-30 17:42<br>赞(0) 踩(0) | <div>吼吼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2124564)<br><br>2011-06-30 11:40<br>赞(0) 踩(0) | <div>给我一点灵感 让我学学咏叹;给我一点灵感 抱怨这时代;给我一点遗憾 接近释怀;沉沦吧 青春！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163545)<br>我还没想好要写什么...<br>2011-06-30 00:55<br>赞(0) 踩(0) | <div>給我一點遗憾　讓我學學詠嘆給我一點靈感　抱怨這時代我隨風搖擺　我無聊姿態給我一點遺憾　接近釋懷</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163545)<br>我还没想好要写什么...<br>2011-06-30 00:55<br>赞(0) 踩(0) | <div>給我一點遗憾　讓我學學詠嘆<br>給我一點靈感　抱怨這時代<br>我隨風搖擺　我無聊姿態<br>給我一點遺憾　接近釋懷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4487111)<br><br>2011-06-29 23:38<br>赞(0) 踩(0) | <div>她还是那么值得我爱！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4155370)<br> <br>2011-06-29 15:00<br>赞(0) 踩(0) | <div>音乐 请你请你快拯救我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4175877)<br><br>2011-06-29 11:53<br>赞(0) 踩(0) | <div>很独特的声音啊！</div> |
@@ -239,8 +239,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2029860)<br><br>2011-06-28 23:38<br>赞(0) 踩(0) | <div>我爱这张专辑的封面~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4252915)<br><br>2011-06-28 23:22<br>赞(0) 踩(0) | <div>谁也救不了   青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1339617)<br><br>2011-06-28 20:36<br>赞(0) 踩(0) | <div>给我一点遗憾，接近释怀。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2538961)<br><br>2011-06-28 07:20<br>赞(0) 踩(0) | <div>今晚·通宵了·于是~~随意的点击了她的歌曲·想换换在自己脑海里的华人女歌手的名单·很让我惊艳··至少 这曲风··让我意外··谢谢··呵呵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2975951)<br><br>2011-06-27 09:35<br>赞(0) 踩(0) | <div>我隨風搖擺　我無聊自在給我一點迷幻　接近釋懷</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2538961)<br><br>2011-06-28 07:20<br>赞(0) 踩(0) | <div>今晚·通宵了·<br>于是~~<br>随意的点击了她的歌曲·<br>想换换在自己脑海里的华人女歌手的名单·<br>很让我惊艳··<br>至少 这曲风··让我意外··<br>谢谢··呵呵</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2975951)<br><br>2011-06-27 09:35<br>赞(0) 踩(0) | <div>我隨風搖擺　我無聊自在<br>給我一點迷幻　接近釋懷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4456684)<br><br>2011-06-27 04:19<br>赞(0) 踩(0) | <div>青春青春~请你走的慢点……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/984373)<br>暂无签名~<br>2011-06-26 17:47<br>赞(0) 踩(0) | <div>唱歌蛮有自己的风格的。我蛮喜欢的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/848683)<br><br>2011-06-26 16:42<br>赞(0) 踩(0) | <div>可是现在的我这么适合听这些歌。</div> |
@@ -277,9 +277,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/989784)<br> <br>2011-06-21 17:01<br>赞(0) 踩(0) | <div>很喜欢背景音是不是跳跃出来的Let's play~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3290945)<br><br>2011-06-21 16:19<br>赞(0) 踩(0) | <div>青春，放肆。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1032604)<br><br>2011-06-21 12:47<br>赞(0) 踩(0) | <div>就是爱 爱那编曲 爱那歌词</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199299)<br><br>2011-06-21 11:30<br>赞(0) 踩(0) | <div>音樂　請你請你快拯救我請你請你教我搖滾請你請你給我靈魂音樂　請你請你快拯救我請你請你讓我翻滾沉淪吧　青春！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199299)<br><br>2011-06-21 11:28<br>赞(0) 踩(0) | <div>音樂　請你請你快拯救我請你請你教我搖滾請你請你給我靈魂音樂　請你請你快拯救我請你請你讓我翻滾沉淪吧　青春 ！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199299)<br><br>2011-06-21 11:26<br>赞(0) 踩(0) | <div>音樂　請你請你快拯救我請你請你教我搖滾請你請你給我靈魂音樂　請你請你快拯救我請你請你讓我翻滾沉淪吧　青春 ！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199299)<br><br>2011-06-21 11:30<br>赞(0) 踩(0) | <div>音樂　請你請你快拯救我<br>請你請你教我搖滾<br>請你請你給我靈魂<br>音樂　請你請你快拯救我<br>請你請你讓我翻滾<br>沉淪吧　青春！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199299)<br><br>2011-06-21 11:28<br>赞(0) 踩(0) | <div>音樂　請你請你快拯救我<br>請你請你教我搖滾<br>請你請你給我靈魂<br>音樂　請你請你快拯救我<br>請你請你讓我翻滾<br>沉淪吧　青春 ！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199299)<br><br>2011-06-21 11:26<br>赞(0) 踩(0) | <div>音樂　請你請你快拯救我<br>請你請你教我搖滾<br>請你請你給我靈魂<br>音樂　請你請你快拯救我<br>請你請你讓我翻滾<br>沉淪吧　青春 ！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3295767)<br><br>2011-06-21 04:22<br>赞(0) 踩(0) | <div>舒服的嗓音，轻轻的糜烂的感觉，歌声中的柔软</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2118973)<br><br>2011-06-21 02:18<br>赞(0) 踩(0) | <div>嗯嗯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4361209)<br><br>2011-06-20 23:12<br>赞(0) 踩(0) | <div>大赞 永远有惊喜的女人 岂能不爱 吐血三升推荐</div> |
@@ -293,7 +293,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/500740)<br><br>2011-06-20 21:06<br>赞(0) 踩(0) | <div>青春—陈珊妮 沉沦 沉沦 沉沦 忘记 忘记 忘记 摇摆 摇摆 摇摆 坠落 坠落 坠落 END。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/500740)<br><br>2011-06-20 21:05<br>赞(0) 踩(0) | <div>青春—陈珊妮  沉沦 沉沦 沉沦 忘记 忘记 忘记 摇摆 摇摆 摇摆 坠落 坠落 坠落 END。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/669269)<br> <br>2011-06-20 20:25<br>赞(0) 踩(0) | <div>意外的很耐听。编曲很多元素所以慢慢觉得真的很屌，似乎她的那种不为人左右的臭脸姿态都能从音乐中感受的来。有几首曲名起的挺辽阔的，像 青春，爱情，美好人生，词也很飘。喜欢上了~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3863685)<br>你的一切都是星辰，你的腹...<br>2011-06-20 17:15<br>赞(0) 踩(0) | <div>音樂　請你請你快拯救我請你請你讓我翻滾沉淪吧　青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3863685)<br>你的一切都是星辰，你的腹...<br>2011-06-20 17:15<br>赞(0) 踩(0) | <div>音樂　請你請你快拯救我<br>請你請你讓我翻滾<br>沉淪吧　青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403507)<br><br>2011-06-20 15:20<br>赞(0) 踩(0) | <div>音樂　請你請你快拯救我 請你請你教我搖滾 請你請你給我靈魂 音樂　請你請你快拯救我 請你請你讓我翻滾 沉淪吧　青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4355655)<br><br>2011-06-20 14:35<br>赞(0) 踩(0) | <div>也~青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4355655)<br><br>2011-06-20 14:31<br>赞(0) 踩(0) | <div>也~青春</div> |

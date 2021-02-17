@@ -12,18 +12,15 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369594960)<br>来自辽宁的摩羯女<br>2020-08-27 06:19<br>赞(1) 踩(0) | <div>夏语/下雨☔️雨下停、心不定</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369594960)<br>来自辽宁的摩羯女<br>2020-08-27 06:19<br>赞(1) 踩(0) | <div>夏语/下雨☔️<br>雨下停、心不定</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426631232)<br><br>2020-07-24 16:35<br>赞(1) 踩(0) | <div>怎么把他弄成手机文件</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400467410)<br><br>2020-05-02 05:06<br>赞(2) 踩(0) | <div>2020.5.2凌晨5.032点多来月经疼痛到现在五点打开音乐疼痛没让我哭旋律触动了我内心因为我在等一个人好久好久了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8895376)<br>我还没想好要写什么...<br>2020-04-20 23:22<br>赞(2) 踩(0) | <div>这是个有心事而又无法倾诉的夏天吗？没有暑气蒸人的燥抑，没有大汗淋漓的快感，没有浓密树荫下的蝉鸣，没有狂风暴雨后泥土的清新天空是一片明媚，我心中却暗藏着一个无法言说的秘密，这是石进曲子里的夏语</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400467410)<br><br>2020-05-02 05:06<br>赞(2) 踩(0) | <div>2020.5.2凌晨5.03<br>2点多来月经疼痛到现在<br>五点打开音乐<br>疼痛没让我哭<br>旋律触动了我内心<br>因为我在等一个人<br>好久好久了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8895376)<br>我还没想好要写什么...<br>2020-04-20 23:22<br>赞(2) 踩(0) | <div>这是个有心事而又无法倾诉的夏天吗？<br>没有暑气蒸人的燥抑，没有大汗淋漓的快感，没有浓密树荫下的蝉鸣，没有狂风暴雨后泥土的清新<br>天空是一片明媚，我心中却暗藏着一个无法言说的秘密，这是石进曲子里的夏语</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16178749)<br>愿各自安好……………… <br>2020-03-16 07:31<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441035156)<br><br>2020-03-01 22:25<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333320723)<br>人用不着出海，隔绝千山的...<br>2020-02-24 21:33<br>赞(0) 踩(0) | <div>一枝白兰，一个回旋舞动，感谢永远芬芳的岁月</div> |
@@ -34,8 +31,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14969924)<br><br>2019-09-23 07:08<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304670359)<br><br>2019-09-07 10:59<br>赞(1) 踩(0) | <div>昨天晚上——2019/09/06，在北京音乐厅观看石进/夜的钢琴曲音乐会，聆听了石进的这首曲子，感动。2019/09/07</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343877870)<br>高处不胜寒，独自莫凭栏<br>2019-08-25 12:49<br>赞(3) 踩(0) | <div>夏天的尾巴慢慢滑过，激辣活力的夏日悄悄的从指尖溜走，无数的夏日复照曾经最动情的躁动，黑白或彩色的景象一幕幕浮现脑海，生命里只有你清柔而舒凉的纯真，可以感受你每一秒的气息，拥抱你最美好的似水年华，是我此生真实的幸福，只是那美好转瞬即逝，预设下一个季节的别样风情，怕已经不能轻易适应，温存如云飘渺如风飞逝……！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379528470)<br><br>2019-07-23 13:45<br>赞(2) 踩(0) | <div>去年今日，是我最欢愉的节日，你送我一首夏语，说从此各自安好。但你不在，我何谈“安”字？无处安放的情感，无法诉说的思念。就像夏语，明快却暗带忧伤。强忍的坚强，夜夜被那晚滂沱的大雨，击的粉身碎骨。我渴望这世上所有的人都能够温柔待你，却一直说不出"再见" 。不忍打扰，却难抑心中翻滚的洪流。后来发现，时间并不能冲淡记忆，却像普洱茶，越陈越香。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377013821)<br><br>2019-07-21 14:29<br>赞(4) 踩(0) | <div>窗外已是绵密的雨，差那么一点呢，一点呢。去怀疑。讨厌，知道别人的秘密，我只要守好，守好自己，守好你。假如你愿意……你能怎么让我知道呢？我早早看到呢，看到呢，本来在相信……信任啊，好像刁难呢。增了一份在意，却多一份不确定。浮躁啊，打着响亮的口哨，来回奔跑。截片云临摹你。…喧噪，ta多多的秘密，我只想ta略过你。可是，我还想问，你是不是唯一的你……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379528470)<br><br>2019-07-23 13:45<br>赞(2) 踩(0) | <div>去年今日，是我最欢愉的节日，你送我一首夏语，说从此各自安好。但你不在，我何谈“安”字？无处安放的情感，无法诉说的思念。就像夏语，明快却暗带忧伤。强忍的坚强，夜夜被那晚滂沱的大雨，击的粉身碎骨。我渴望这世上所有的人都能够温柔待你，<br>却一直说不出"再见" 。不忍打扰，却难抑心中翻滚的洪流。后来发现，时间并不能冲淡记忆，却像普洱茶，越陈越香。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377013821)<br><br>2019-07-21 14:29<br>赞(4) 踩(0) | <div>窗外已是绵密的雨，差那么一点呢，一点呢。去怀疑。<br>讨厌，知道别人的秘密，我只要守好，守好自己，守好你。<br>假如你愿意……<br>你能怎么让我知道呢？<br>我早早看到呢，看到呢，本来在相信……<br>信任啊，好像刁难呢。<br>增了一份在意，却多一份不确定。<br>浮躁啊，打着响亮的口哨，来回奔跑。<br>截片云临摹你。…喧噪，ta多多的秘密，我只想ta略过你。<br>可是，我还想问，你是不是唯一的你……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63745010)<br>随心.随性.随遇.随缘<br>2019-06-24 06:46<br>赞(4) 踩(0) | <div>珍惜每一个睛朗的日子，爱着每一寸温暖的光阴，当阳光洒向心海，便会生出爱与慈悲~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337195718)<br><br>2019-06-07 06:53<br>赞(1) 踩(0) | <div>有点热☀️，继而下起了雨☔️，雨中悠闲地走着走着，却忘记了打伞，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341324413)<br>清水无忧，皆因随性；落叶...<br>2019-05-22 15:30<br>赞(10) 踩(0) | <div><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
@@ -48,8 +45,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302422764)<br><br>2019-02-16 13:01<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20068604)<br>余生一起走。<br>2019-02-12 11:24<br>赞(1) 踩(0) | <div>啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412417414)<br><br>2019-01-17 12:16<br>赞(3) 踩(0) | <div>竟然可以讲一首轻快的曲子揉进好多忧伤，像一部电影，笑着笑着就哭了，引起内心的很多共鸣</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402431536)<br><br>2018-11-29 21:53<br>赞(2) 踩(0) | <div>在音乐和文字相遇的夜晚我想，雪一定落满河边</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402431536)<br><br>2018-11-29 21:50<br>赞(0) 踩(0) | <div>我不停的更换音乐希望下一个遇到的就是你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402431536)<br><br>2018-11-29 21:53<br>赞(2) 踩(0) | <div>在音乐和文字相遇的夜晚<br>我想，雪一定落满河边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402431536)<br><br>2018-11-29 21:50<br>赞(0) 踩(0) | <div>我不停的更换音乐<br>希望下一个遇到的就是你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404003943)<br>为什么要哭<br>2018-11-10 07:25<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345693540)<br>怀着美好和期待静静随音符...<br>2018-11-05 00:39<br>赞(2) 踩(0) | <div>在冬天里我开始思念夏天，如同思念还未出现的你，我以为在一个已知的地方想像一个未知的你是一件美好的事情，其实或许未必……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325098932)<br><br>2018-09-25 10:09<br>赞(2) 踩(0) | <div>有种感动，最喜欢这曲 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -96,7 +93,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325461332)<br><br>2017-09-17 11:48<br>赞(2) 踩(0) | <div>我听了两次。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325461332)<br><br>2017-09-17 11:47<br>赞(2) 踩(0) | <div>很好的。听着让我感觉自己看到了故乡。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2859631)<br> <br>2017-09-13 06:45<br>赞(1) 踩(0) | <div>饿了哦额滴</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297541670)<br><br>2017-09-11 16:28<br>赞(2) 踩(0) | <div>难过，就给自己一个拥抱！你看，天空依旧如此美丽！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297541670)<br><br>2017-09-11 16:28<br>赞(2) 踩(0) | <div>难过，就给自己一个拥抱！<br>你看，天空依旧如此美丽！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301933549)<br> <br>2017-08-29 01:37<br>赞(2) 踩(0) | <div>这个夏天经历了很多 希望能一直走下去 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318589204)<br>愿历尽千帆，归来仍是少年...<br>2017-08-25 22:57<br>赞(25) 踩(0) | <div>刚刚听完哈尔滨场的音乐会，被这首曲子惊艳了，长笛的主旋律超级棒！钢琴配合着长笛不争不抢，就如夏日的清晨，似乎还能听到鸟鸣的感觉，太棒了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321730027)<br><br>2017-08-26 20:49<br>赞(0) 踩(0) | <div>我也是，现场莫名听哭了</div> |

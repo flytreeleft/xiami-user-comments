@@ -62,7 +62,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353371327)<br>我还没想好要写什么...<br>2020-10-26 08:21<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175582912)<br><br>2020-02-27 11:34<br>赞(2) 踩(0) | <div>塔利班还有38秒到达现场！</div> |

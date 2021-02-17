@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300687743)<br><br>2020-03-09 20:33<br>赞(0) 踩(0) | <div>与陈耀星比起来，又是一番风味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300687743)<br><br>2020-03-09 20:31<br>赞(0) 踩(0) | <div>竟然没有人评论</div> |

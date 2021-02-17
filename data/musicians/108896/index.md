@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6c162d252afc1f8fde1b8ea92209ab1e.jpg)<br>曾小刚](https://i.xiami.com/zengxiaogang) | **播放数**: 4452157<br>**粉丝数**: 10415<br>**评论数**: 137<br>**地区**: Sweden 瑞典<br>**风格**: 自由即兴 Free Improvisation, 器乐独奏 Solo Instrumental, 氛围音乐 Ambient, 中国民乐 Chinese Folk Music, 古风 GuFeng Music<br> |
+| [![](../../images/musicians/6c162d252afc1f8fde1b8ea92209ab1e.jpg)<br>曾小刚](https://i.xiami.com/zengxiaogang) | **地区**: Sweden 瑞典<br>**风格**: 自由即兴 Free Improvisation, 器乐独奏 Solo Instrumental, 氛围音乐 Ambient, 中国民乐 Chinese Folk Music, 古风 GuFeng Music<br>**播放数**: 4452157<br>**粉丝数**: 10415<br>**评论数**: 137<br> |
 
 ## 档案
 
@@ -157,8 +157,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49655313)<br>除了再见还可以说些什么呢<br>2020-09-30 10:09<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121702052)<br>超脱<br>2020-08-15 08:45<br>赞(1) 踩(0) | <div>❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-07-03 12:26<br>赞(0) 踩(0) | <div></div> |
@@ -169,7 +169,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429322216)<br><br>2020-02-08 16:25<br>赞(1) 踩(0) | <div>古琴的音色得到了新的力量</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39162310)<br>VJ<br>2019-07-27 12:13<br>赞(0) 踩(0) | <div>静</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43648786)<br>安静的知了<br>2019-07-22 20:17<br>赞(2) 踩(0) | <div>❤</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317882889)<br>灵魂深处的声音<br>2019-07-13 06:26<br>赞(0) 踩(0) | <div>您分享的心无尽处真好，我也想制作歌单分享，怎么操作呢？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317882889)<br>灵魂深处的声音<br>2019-07-13 06:26<br>赞(0) 踩(0) | <div>您分享的心无尽处真好，<br>我也想制作歌单分享，怎么操作呢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1259430)<br> <br>2019-07-02 12:38<br>赞(0) 踩(0) | <div>曾先生，想请教您，《秋宵步月》的调弦方法。在下是在太愚钝了。谢谢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416990)<br>古琴<br>2019-07-03 11:37<br>赞(0) 踩(0) | <div>慢一六紧三同四</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66823378)<br><br>2019-06-15 18:09<br>赞(2) 踩(0) | <div><img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
@@ -191,7 +191,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2354958)<br><br>2018-06-13 13:52<br>赞(1) 踩(0) | <div>求推荐更多这样的音乐人QAQ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359295678)<br><br>2018-05-03 23:51<br>赞(2) 踩(0) | <div>不知道 曾老师会不会授课  我在丹麦距离瑞典不远 想学古琴。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29285843)<br>潜鱼水底传心诀，栖鸟枝头...<br>2018-04-18 11:36<br>赞(0) 踩(0) | <div>心醉神钦 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287442418)<br>我与音乐之间隔着一道墙…...<br>2018-04-10 19:31<br>赞(0) 踩(0) | <div>适合写作业时听平稳心绪...真的做梦都想学古琴...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287442418)<br>我与音乐之间隔着一道墙…...<br>2018-04-10 19:31<br>赞(0) 踩(0) | <div>适合写作业时听<br>平稳心绪...<br>真的做梦都想学古琴...</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36365141)<br><br>2018-06-19 19:33<br>赞(0) 踩(0) | <div>古琴挺好上手的，虽说易学难精，但不得不说确实很能在其中走近自我。小时候看到古琴就很神往，幸好没放弃这个小愿望，终于十多年后找到机会拜师学艺了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343687904)<br><br>2018-07-14 20:26<br>赞(0) 踩(0) | <div><q><b>小仙剑说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36365141)<br><br>2018-07-15 16:30<br>赞(0) 踩(0) | <div><q><b>盆满钵满说：</b></q></div> |

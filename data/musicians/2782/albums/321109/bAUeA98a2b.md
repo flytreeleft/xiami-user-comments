@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11391237)<br><br>2012-12-22 15:04<br>赞(0) 踩(0) | <div>提炼了蒙古民间音乐中每一个强有力的细节，并创造性的赋予新意。。。这是一种超越性的震撼的音乐，无论听者来自何方都能领会。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6585772)<br>We think too...<br>2012-10-30 23:37<br>赞(0) 踩(0) | <div>百听不厌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5458284)<br><br>2012-04-13 10:34<br>赞(0) 踩(0) | <div>这几天口味持续奇怪昂！</div> |

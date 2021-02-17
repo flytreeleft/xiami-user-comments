@@ -67,8 +67,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/989293)<br>倾听音乐里的心情和故事<br>2020-10-28 02:26<br>赞(0) 踩(0) | <div>这首不再是单纯炫音，而是融入了感情，声入人心了 <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png">爱了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188424665)<br>我还没想好要写什么...<br>2020-10-22 13:20<br>赞(0) 踩(0) | <div>爱是水做的你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11520172)<br><br>2020-09-23 00:33<br>赞(0) 踩(0) | <div>凋零</div> |
@@ -77,7 +77,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11520172)<br><br>2020-09-17 22:46<br>赞(0) 踩(0) | <div>难过呀已经五十多天了吧 记性真差</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192395139)<br><br>2020-09-04 07:32<br>赞(1) 踩(0) | <div>今天被听课吖，加油加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53718156)<br>盲目平淡喜欢一滴点波澜<br>2020-08-21 23:09<br>赞(2) 踩(0) | <div>深深</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2020-06-14 17:28<br>赞(1) 踩(0) | <div>有些歌听着听者就成了别人家的独家</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2020-06-14 17:28<br>赞(1) 踩(0) | <div>有些歌<br>听着听者就成了别人家的独家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30951888)<br><br>2020-06-13 19:25<br>赞(1) 踩(0) | <div>大家我先跟你说一下，这个是男的唱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322385247)<br>我来我见我征服<br>2020-05-05 02:49<br>赞(0) 踩(0) | <div>那句爱是水做的你，真的鸡皮疙瘩都起来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411416287)<br>我还没想好要写什么...<br>2020-04-24 19:53<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
@@ -90,14 +90,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441881108)<br><br>2020-04-06 17:25<br>赞(3) 踩(0) | <div>我快六十人了，从不追星，但喜欢上周深的歌，此生无憾</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441881108)<br><br>2020-04-06 17:21<br>赞(1) 踩(0) | <div>以前不知道周深其人，偶然发现他的声音特别好听，太喜欢了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441708614)<br>我还没想好要写什么...<br>2020-04-03 00:11<br>赞(0) 踩(0) | <div>很好听的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284681499)<br><br>2020-03-31 22:23<br>赞(0) 踩(0) | <div>嗨希望你能听到也能看到最好能感觉到，小烂屎</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284681499)<br><br>2020-03-31 22:23<br>赞(0) 踩(0) | <div>嗨<br>希望你能听到<br>也能看到<br>最好能感觉到，小烂屎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402150176)<br>音乐人、作词人、虾米音乐...<br>2020-03-23 08:57<br>赞(1) 踩(0) | <div>有特色、有亮点，声线细腻。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412376048)<br><br>2020-03-23 08:40<br>赞(1) 踩(0) | <div>伤感的基调把握的准，能迅速把人从其他情绪带入进来，听着想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287345534)<br><br>2020-03-22 22:29<br>赞(0) 踩(0) | <div>记得深深猜歌名也特别厉害，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287345534)<br><br>2020-03-22 22:28<br>赞(0) 踩(0) | <div>深深的声音真是得天独厚，唱歌真好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2020-03-19 20:53<br>赞(2) 踩(0) | <div>如果声音有色彩，周深就是五彩斑斓的纯白。内里干干净净，晶莹剔透，像午夜梦里下过的白雪，想用双手去触摸。但当他唱起歌来，就是那雪晨光的照耀下闪烁，让人只顾着痴迷凝望。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283032516)<br>我还没想好要写什么...<br>2020-03-17 01:50<br>赞(0) 踩(0) | <div>原来他还唱过这个电影的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441386439)<br><br>2020-03-15 14:34<br>赞(0) 踩(0) | <div>最喜欢周深的歌了！！为周深打call！还有，《水形物语》这部电影给我的感觉还不错，稍微剧透一下：在电影结尾我认为其实女主一开始并不一定是人，其实也是一条人鱼，只是在陆地上所以变了，如果仔细看看是有这种可能的。（这只是我自己的看法，不喜勿喷 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png">)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441386439)<br><br>2020-03-15 14:34<br>赞(0) 踩(0) | <div>最喜欢周深的歌了！！为周深打call！<br>还有，《水形物语》这部电影给我的感觉还不错，稍微剧透一下：在电影结尾我认为其实女主一开始并不一定是人，其实也是一条人鱼，只是在陆地上所以变了，如果仔细看看是有这种可能的。（这只是我自己的看法，不喜勿喷 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png">)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317963611)<br><br>2020-03-13 19:50<br>赞(0) 踩(0) | <div>深深的歌特别能治愈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68604270)<br> <br>2020-03-06 01:32<br>赞(0) 踩(0) | <div>爱是水做的你，听到这句就抑制不住想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441112496)<br><br>2020-03-05 05:19<br>赞(0) 踩(0) | <div>前奏很抓人心，第一个音就死死地戳到我了</div> |
@@ -112,17 +112,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181007950)<br><br>2020-02-14 14:59<br>赞(0) 踩(0) | <div>循环</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343089074)<br><br>2020-02-13 09:37<br>赞(0) 踩(0) | <div>水形物语</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128633032)<br><br>2020-02-09 21:53<br>赞(2) 踩(0) | <div>深深将女主说不出来的话都唱了出来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259787105)<br>音乐治愈心情❤️<br>2020-02-09 01:10<br>赞(0) 踩(0) | <div>最愛的歌 沒有之一今天是個特別夜晚依舊有你的聲音陪伴我去睡都要安好，晚安。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259787105)<br>音乐治愈心情❤️<br>2020-02-09 01:10<br>赞(0) 踩(0) | <div>最愛的歌 沒有之一<br>今天是個特別夜晚<br>依舊有你的聲音陪伴我去睡<br><br>都要安好，晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314535361)<br>生命的某个瞬间定义了个体...<br>2020-01-22 18:14<br>赞(0) 踩(0) | <div>水形物语也逃不过世俗，女主活出了自己么？她不过是满足了世俗的愿望。美人鱼也是迎合了大众的眼光，健美 怎么形容呢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411931538)<br><br>2020-01-20 20:06<br>赞(0) 踩(0) | <div>首首经典，曲曲惊艳。似水柔情，病娇哥特，可爱国漫，叫我怎能不爱你 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377464994)<br><br>2020-01-15 03:43<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111291576)<br>我还没想好要写什么...<br>2020-01-09 21:31<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289037079)<br>十二<br>2019-12-29 01:11<br>赞(1) 踩(0) | <div>“Unable to perceive the shape of you你的轮廓难辨I find you all around me却常在我左右Your presence fills my eyes with your love你的存在让我眼底的倒影充盈着你的爱It humbles my heart让我的心低到尘埃里For you are everywhere. ”因你无所不在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289037079)<br>十二<br>2019-12-29 01:11<br>赞(1) 踩(0) | <div>“Unable to perceive the shape of you<br>你的轮廓难辨<br>I find you all around me<br>却常在我左右<br>Your presence fills my eyes with your love<br>你的存在让我眼底的倒影充盈着你的爱<br>It humbles my heart<br>让我的心低到尘埃里<br>For you are everywhere. ”<br>因你无所不在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429746880)<br><br>2019-12-16 23:49<br>赞(0) 踩(0) | <div>超级好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350158701)<br><br>2019-12-01 15:25<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40080259)<br><br>2019-11-18 15:45<br>赞(0) 踩(0) | <div>好听 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431314132)<br><br>2019-11-03 22:45<br>赞(1) 踩(0) | <div>真的太好听了 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339150130)<br>我还没想好要写什么...<br>2019-10-18 22:37<br>赞(1) 踩(0) | <div>不需要倾听只是还活着还记得的时候再给自己说一次</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339150130)<br>我还没想好要写什么...<br>2019-10-18 22:37<br>赞(1) 踩(0) | <div>不需要倾听<br>只是还活着<br>还记得的时候<br>再给自己说一次</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368248048)<br>never end<br>2019-09-12 23:58<br>赞(4) 踩(0) | <div>从好声音就觉得这伙计真心牛掰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337126910)<br><br>2019-08-26 21:21<br>赞(0) 踩(0) | <div>不错哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40126116)<br><br>2019-08-19 23:16<br>赞(0) 踩(0) | <div>此情只应天上有</div> |
@@ -137,7 +137,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350158701)<br><br>2019-05-23 06:58<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258521736)<br><br>2019-05-20 00:17<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304943116)<br>一辈子这么长，要和有趣的...<br>2019-05-19 11:46<br>赞(3) 踩(0) | <div>这歌真的越听越好听啊，周深好绝一男的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94674306)<br><br>2019-05-15 00:17<br>赞(17) 踩(0) | <div>为什么评论这么少，不应该啊这么好听，我要为深深打爆！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94674306)<br><br>2019-05-15 00:17<br>赞(17) 踩(0) | <div>为什么评论这么少，不应该啊<br>这么好听，我要为深深打爆！！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2020-01-29 00:13<br>赞(0) 踩(0) | <div>卡布叻的生米都在微博和他互动去了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258521736)<br><br>2019-05-04 00:07<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27381401)<br>暂无签名~<br>2019-04-30 19:08<br>赞(4) 踩(0) | <div>不知道为什么，我能从他的歌声里听出包容和温暖。</div> |
@@ -160,7 +160,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32373009)<br>虾米，再会。<br>2019-01-02 18:20<br>赞(3) 踩(0) | <div>真美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36691805)<br>松松<br>2019-01-01 18:27<br>赞(8) 踩(0) | <div>这个声音太让人沉醉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355228588)<br><br>2018-12-25 18:48<br>赞(1) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326017664)<br><br>2018-12-23 23:47<br>赞(4) 踩(0) | <div>配上官方的中文版MV加上卡布的声音真的……可惜当初没去看电影</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326017664)<br><br>2018-12-23 23:47<br>赞(4) 踩(0) | <div>配上官方的中文版MV加上卡布的声音真的……<br>可惜当初没去看电影</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324237997)<br>(〃ﾉωﾉ)<br>2018-12-23 11:25<br>赞(1) 踩(0) | <div>(●—●)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32373009)<br>虾米，再会。<br>2018-12-21 21:42<br>赞(0) 踩(0) | <div>21:42</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198357288)<br> <br>2018-12-19 08:45<br>赞(2) 踩(0) | <div>我爱的歌没有火</div> |
@@ -177,7 +177,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186325227)<br>你会幸福，跟我来<br>2018-10-04 23:29<br>赞(21) 踩(0) | <div>记得《水形物语》电影出了以后，虾米就有了mv，每次点开，虾米都说，正在努力争取这首歌的版权。本来以为在虾米里下载不了这首歌里，结果突然有一天好想听这首歌，一搜索就看见这首歌可以下载，哇那感觉超棒，虾米真的很好，周深也是贵州的骄傲，他的歌曲也是万千乐曲中很感人很深刻的了，会一直支持虾米和周深小哥哥 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64305822)<br>爱和平 爱自由<br>2018-09-25 15:06<br>赞(1) 踩(0) | <div>爱是永恒的你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258521736)<br><br>2018-09-24 07:39<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357448780)<br><br>2018-09-12 00:22<br>赞(3) 踩(0) | <div>Unable to preceive the shape of youI find you all around meYour presents fills my eyes with your loveIt humbles my heartFor you are everywhere ​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357448780)<br><br>2018-09-12 00:22<br>赞(3) 踩(0) | <div>Unable to preceive the shape of you<br>I find you all around me<br>Your presents fills my eyes with your love<br>It humbles my heart<br>For you are everywhere ​</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357448780)<br><br>2018-11-10 14:38<br>赞(0) 踩(0) | <div>perceive 才发现打错了。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245909260)<br> <br>2018-09-07 19:46<br>赞(0) 踩(0) | <div>没人？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256146613)<br><br>2018-08-11 19:31<br>赞(1) 踩(0) | <div>爱是水做的你</div> |
@@ -188,14 +188,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258521736)<br><br>2018-08-02 11:40<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258521736)<br><br>2018-07-22 06:48<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246967715)<br><br>2018-07-21 03:18<br>赞(3) 踩(0) | <div>跟她看的第二次电影 也是最后一次。556</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58165528)<br> <br>2018-07-18 21:14<br>赞(6) 踩(0) | <div>你的轮廓已变成我心的模具我只有你请不要离我而远去有多爱你我的心为你而存在有多依赖不能离开你而存在水做的你就像大海包围的爱生而存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58165528)<br> <br>2018-07-18 21:14<br>赞(6) 踩(0) | <div>你的轮廓<br>已变成我心的模具<br>我只有你<br>请不要离我而远去<br>有多爱你<br>我的心为你而存在<br>有多依赖<br>不能离开你而存在<br>水做的你<br>就像大海包围的爱<br>生而存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312614115)<br><br>2018-07-13 11:42<br>赞(9) 踩(0) | <div>虾米终于有这首歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258521736)<br><br>2018-07-13 00:31<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1264060)<br>暂无签名~<br>2018-07-04 07:02<br>赞(4) 踩(0) | <div>现在酥软的感觉，分不清是因为歌太好听，还是想念你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/172771030)<br>日光之下，并无新事<br>2018-07-02 10:59<br>赞(3) 踩(0) | <div>不同意，女主长期生活在陆地，除不能说话以外，与普通人无异。而鱼人无法长期在陆上生活，时间一长会导致麟片脱落。显然女主并非鱼人同类。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358616768)<br><br>2018-06-24 22:51<br>赞(65) 踩(0) | <div>一句爱是水做的你，已让我沉醉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287164677)<br><br>2018-06-24 00:22<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98717282)<br><br>2018-06-22 23:05<br>赞(75) 踩(0) | <div>最喜欢周深的歌了！！为周深打call！还有，《水形物语》这部电影给我的感觉还不错，稍微剧透一下：在电影结尾我认为其实女主一开始并不一定是人，其实也是一条人鱼，只是在陆地上所以变了，如果仔细看看是有这种可能的。（这只是我自己的看法，不喜勿喷）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98717282)<br><br>2018-06-22 23:05<br>赞(75) 踩(0) | <div>最喜欢周深的歌了！！为周深打call！<br>还有，《水形物语》这部电影给我的感觉还不错，稍微剧透一下：在电影结尾我认为其实女主一开始并不一定是人，其实也是一条人鱼，只是在陆地上所以变了，如果仔细看看是有这种可能的。（这只是我自己的看法，不喜勿喷）</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46390476)<br>此号被男票要去使用，若被...<br>2018-06-24 15:09<br>赞(0) 踩(0) | <div>我觉得你说的对，因为我实在无法接受跨越种族的爱情，可以是爱，但不能是爱情</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315754565)<br><br>2018-06-30 21:32<br>赞(0) 踩(0) | <div>同感，因为结尾时候女主的伤痕，就像是腮一样打开了&amp;hellip;&amp;hellip;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/172771030)<br>日光之下，并无新事<br>2018-07-02 11:02<br>赞(0) 踩(0) | <div>绝无可能，女主长期在陆地生活，与普通人无异；鱼人纵有自愈及治愈他人能力，离开水太久依旧会导致麟片脱落，显然女主并非其同类。</div> |

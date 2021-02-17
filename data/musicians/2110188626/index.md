@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f6b7671e07079a3eae0e27ec62146561.jpg)<br>薛佳piano](https://i.xiami.com/xuejiapiano) | **播放数**: 2072793<br>**粉丝数**: 464<br>**评论数**: 37<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental<br> |
+| [![](../../images/musicians/f6b7671e07079a3eae0e27ec62146561.jpg)<br>薛佳piano](https://i.xiami.com/xuejiapiano) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental<br>**播放数**: 2072793<br>**粉丝数**: 464<br>**评论数**: 37<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -19,8 +16,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7835684)<br>一切无著，明觉知心<br>2020-07-21 00:20<br>赞(1) 踩(0) | <div>爱上了你 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443116803)<br>一个永远长不大的小孩纸~<br>2020-05-23 16:13<br>赞(1) 踩(0) | <div>太好听了！看好你哟~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229179546)<br>喜欢流行歌曲<br>2020-04-21 23:12<br>赞(0) 踩(0) | <div>我喜欢你</div> |

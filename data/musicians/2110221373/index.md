@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/14ac2d0cca9213ad31f6ad82f1f91dc9.jpg)<br>缝纫机乐队](https://i.xiami.com/fengrenjiyuedui) | **播放数**: 24639394<br>**粉丝数**: 6419<br>**评论数**: 302<br>**地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock<br> |
+| [![](../../images/musicians/14ac2d0cca9213ad31f6ad82f1f91dc9.jpg)<br>缝纫机乐队](https://i.xiami.com/fengrenjiyuedui) | **地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock<br>**播放数**: 24639394<br>**粉丝数**: 6419<br>**评论数**: 302<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,8 +18,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446676347)<br>俾斯麦号，战列舰。<br>2021-01-21 21:55<br>赞(0) 踩(0) | <div>我我看过，你这个电影我超喜欢你们的乐队。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5555764)<br>阿Ken<br>2020-08-08 15:25<br>赞(0) 踩(0) | <div>我是看过电影过来的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155542710)<br>宇宙深处的猫... / ...<br>2020-05-10 17:58<br>赞(3) 踩(0) | <div>我想问一下缝纫机乐队真的存在吗？（捂脸）</div> |
@@ -33,7 +30,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426865633)<br>至尊宝<br>2019-07-06 21:44<br>赞(0) 踩(0) | <div>666666666666666666</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345947053)<br><br>2019-05-16 13:14<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355731946)<br><br>2019-04-25 10:57<br>赞(1) 踩(0) | <div>好赞٩(๑^o^๑)۶</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419601194)<br><br>2019-04-13 20:24<br>赞(2) 踩(0) | <div>加油缝紉机</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419601194)<br><br>2019-04-13 20:24<br>赞(2) 踩(0) | <div>加油缝紉<br>机</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419601194)<br><br>2019-04-13 20:23<br>赞(1) 踩(0) | <div>(o^?^o)? YunOS 真棒！:</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266233480)<br>我还没想好要写什么...<br>2019-04-03 20:19<br>赞(3) 踩(0) | <div>欠大鹏一张电影票 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366339323)<br><br>2019-04-03 17:27<br>赞(2) 踩(0) | <div><img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -163,7 +160,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261196125)<br>你快关注我吧<br>2018-02-06 13:47<br>赞(0) 踩(0) | <div>666</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401337761)<br><br>2018-08-25 16:20<br>赞(0) 踩(0) | <div>秀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329647964)<br><br>2017-10-17 18:21<br>赞(1) 踩(0) | <div>刚进</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3330714)<br>nono<br>2017-10-16 13:07<br>赞(2) 踩(0) | <div>没有电影的衬托虽然很烂片，但片子就像红烧牛肉面的汤，电影院热腾地上映泡好，只有面的方便面不好吃。音乐因为剧情莫名其妙反衬成最大亮点</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3330714)<br>nono<br>2017-10-16 13:07<br>赞(2) 踩(0) | <div>没有电影的衬托<br>虽然很烂片，但片子就像红烧牛肉面的汤，电影院热腾地上映泡好，只有面的方便面不好吃。音乐因为剧情莫名其妙反衬成最大亮点</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15687393)<br><br>2017-10-16 22:49<br>赞(0) 踩(0) | <div>说的我赶紧去泡了一桶方便面</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321285249)<br><br>2017-10-15 01:49<br>赞(2) 踩(0) | <div>这歌励志啊 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300337165)<br><br>2017-10-14 21:20<br>赞(2) 踩(0) | <div>我就想看看歌词，动不动就手机屏幕就变成个磁带，怎么办啊！</div> |
@@ -313,10 +310,10 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304290165)<br>你喜欢就去追 发骚话有屁...<br>2017-07-09 00:07<br>赞(7) 踩(0) | <div>谁说内地没有好乐队 长脸了 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15394847)<br>你是年少的欢喜<br>2017-07-08 20:59<br>赞(0) 踩(0) | <div>这个电影什么时候上映？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/132119586)<br><br>2017-07-08 11:06<br>赞(1) 踩(0) | <div>那个不就是大鹏吗？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10993627)<br><br>2017-07-07 22:43<br>赞(2) 踩(0) | <div>摇滚+电音我被贝斯手惊呆了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10993627)<br><br>2017-07-07 22:43<br>赞(2) 踩(0) | <div>摇滚+电音<br>我被贝斯手惊呆了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293628612)<br><br>2017-07-06 18:14<br>赞(0) 踩(0) | <div>火钳刘明</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286160792)<br><br>2017-07-06 01:06<br>赞(3) 踩(0) | <div>没有表白丁建国的吗</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86270524)<br><br>2017-07-05 12:05<br>赞(1) 踩(0) | <div>什么鬼？国产林肯还是猎豹？唱法接近动力火车！期待专辑！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86270524)<br><br>2017-07-05 12:05<br>赞(1) 踩(0) | <div>什么鬼？<br>国产林肯还是猎豹？<br>唱法接近动力火车！<br>期待专辑！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309805834)<br><br>2017-07-05 07:24<br>赞(3) 踩(0) | <div>闻到了出名的气息</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284670227)<br><br>2017-07-04 23:12<br>赞(1) 踩(0) | <div>火火 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">火</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306430447)<br><br>2017-07-04 22:02<br>赞(0) 踩(0) | <div>咦～</div> |

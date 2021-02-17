@@ -3,7 +3,7 @@ Meiko
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/58ec1ef1962be1ecfc38356cde5eeee1.jpg)<br>Meiko](https://i.xiami.com/meiko) | **播放数**: 19536684<br>**粉丝数**: 19065<br>**评论数**: 320<br>**地区**: United States of America 美国<br>**风格**: 独立流行 Indie Pop, 欧美流行 Western Pop<br> |
+| [![](../../images/musicians/58ec1ef1962be1ecfc38356cde5eeee1.jpg)<br>Meiko](https://i.xiami.com/meiko) | **地区**: United States of America 美国<br>**风格**: 独立流行 Indie Pop, 欧美流行 Western Pop<br>**播放数**: 19536684<br>**粉丝数**: 19065<br>**评论数**: 320<br> |
 
 ## 档案
 
@@ -43,8 +43,8 @@ Meiko's songs find common ground between indie pop and coffeehouse folk, with he
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30074304)<br>寄蜉蝣于天地，渺沧海之一...<br>2020-08-22 19:23<br>赞(0) 踩(0) | <div>✈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296549)<br>我还没想好要写什么...<br>2019-06-13 13:16<br>赞(0) 踩(0) | <div>美国孙燕姿？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8017674)<br>暂无签名~<br>2019-05-13 09:23<br>赞(1) 踩(0) | <div>从高中起喜欢meiko。她的歌里总有一种天真气。</div> |
@@ -67,7 +67,7 @@ Meiko's songs find common ground between indie pop and coffeehouse folk, with he
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120109350)<br>我还没想好要写什么...<br>2017-10-15 14:00<br>赞(0) 踩(0) | <div>2017.10.15</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44045577)<br>希望夏天早点来，你也早点...<br>2017-10-02 23:59<br>赞(0) 踩(0) | <div>I find a ferfect girl. thank u Meiko.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267701455)<br>我是条咸鱼<br>2017-09-23 17:31<br>赞(0) 踩(0) | <div><img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3208690)<br>快乐的猫猫<br>2017-05-05 12:51<br>赞(1) 踩(0) | <div>Meiko:感谢你收藏我的作品《怪盗Fの台本 ~消えたダイヤの謎~》，我在虾米音乐人期待你的关注。去看看 &amp;amp;gt;&amp;amp;gt;Meiko:感谢你收藏我的作品《Party&amp;times;Party》，我在虾米音乐人期待你的关注。去看看 &amp;amp;gt;&amp;amp;gt;点进来是这个页面怎么破- -</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3208690)<br>快乐的猫猫<br>2017-05-05 12:51<br>赞(1) 踩(0) | <div>Meiko:感谢你收藏我的作品《怪盗Fの台本 ~消えたダイヤの謎~》，我在虾米音乐人期待你的关注。去看看 &amp;amp;gt;&amp;amp;gt;<br>Meiko:感谢你收藏我的作品《Party&amp;times;Party》，我在虾米音乐人期待你的关注。去看看 &amp;amp;gt;&amp;amp;gt;<br><br>点进来是这个页面怎么破- -</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37814707)<br>El Psy Congr...<br>2017-06-04 12:22<br>赞(0) 踩(0) | <div>我也&amp;hellip;&amp;hellip;</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26217347)<br>我这家伙很懒，个人介绍也...<br>2017-07-26 23:50<br>赞(0) 踩(0) | <div>添加一个新歌手及资料，懂的人去添加，不然只能这个情况</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292173203)<br> <br>2017-05-02 16:31<br>赞(0) 踩(0) | <div>听了感觉心情很放松，很好听</div> |
@@ -136,7 +136,7 @@ Meiko's songs find common ground between indie pop and coffeehouse folk, with he
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8936710)<br><br>2015-03-17 15:48<br>赞(1) 踩(0) | <div>Meiko订婚了，恭喜阿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7439332)<br><br>2015-02-06 16:10<br>赞(0) 踩(0) | <div>123</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10367201)<br>1R重症患者<br>2015-01-12 23:45<br>赞(0) 踩(0) | <div>good voice!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:18<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:18<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43077042)<br>偏不简介<br>2014-12-12 19:56<br>赞(0) 踩(0) | <div>i love u dear,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1839747)<br><br>2014-12-09 13:17<br>赞(0) 踩(0) | <div>可以慵懒，可以欢快，喜欢这个调调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9024240)<br>谁说癞蛤蟆不是蛤蟆<br>2014-11-24 21:27<br>赞(0) 踩(0) | <div>我什么时候能睡醒啊</div> |
@@ -166,7 +166,7 @@ Meiko's songs find common ground between indie pop and coffeehouse folk, with he
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269414)<br><br>2014-10-24 16:52<br>赞(0) 踩(0) | <div>一百个赞</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4145454)<br>寂寞遁逃<br>2014-11-07 02:55<br>赞(0) 踩(0) | <div>Hi! So happy to hear that you're gonna come  to Beijing! I love "I'm in love", "Piano Song". It's The Piano song that let me know you. A tip just for suggestion, you can learn simple Chinese greetings and say hi in Chinese to the fans. As for songs and performance, you just need to be yourself! :)</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4145454)<br>寂寞遁逃<br>2014-11-07 03:28<br>赞(0) 踩(0) | <div>Just got enlightened, maybe you can learn a Chinese song and sing it on your live performance. It will be very lovely! Even just a few lines, you know, something like that. Anyway, it's just a suggestion. Don't worry. We love you just the way you are.</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7768554)<br><br>2014-11-18 18:07<br>赞(0) 踩(0) | <div>Like~！~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7768554)<br><br>2014-11-18 18:07<br>赞(0) 踩(0) | <div>Like~！~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~~~~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7768554)<br><br>2014-11-18 18:09<br>赞(0) 踩(0) | <div>I‘v met you in Shanghai~~~~~Next time would you come to Hangzhou??????Waiting for U~~~~~~~~~~~~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47310048)<br>搓圆又打bia, 打bi...<br>2015-10-18 19:06<br>赞(0) 踩(0) | <div>When will you have solo concerts in China again,Meiko?I just have missed the last one in Chengdu.So I think it's a big pity.I really expect to go to your next solo concert.（也许我的句子会有语法问题 不过希望她可以看见）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247643092)<br><br>2016-12-03 23:32<br>赞(0) 踩(0) | <div>r u really meiko???</div> |
@@ -179,7 +179,7 @@ Meiko's songs find common ground between indie pop and coffeehouse folk, with he
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33841656)<br><br>2014-10-20 17:04<br>赞(0) 踩(0) | <div>11月开始首次中国巡演~大家别错过，我们现场见！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41833211)<br><br>2014-10-24 15:43<br>赞(0) 踩(0) | <div>:D</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41833211)<br><br>2014-10-20 11:30<br>赞(3) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8357689)<br>我是spark<br>2014-10-18 16:46<br>赞(0) 踩(0) | <div>谢谢您的热心，因为meiko已经入驻虾米音乐人, 专辑资料将由其自己编辑发布。不知道什么是音乐人，，现在只能等她发布了。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8357689)<br>我是spark<br>2014-10-18 16:46<br>赞(0) 踩(0) | <div>谢谢您的热心，因为meiko已经入驻虾米音乐人, 专辑资料将由其自己编辑发布。<br><br>不知道什么是音乐人，，现在只能等她发布了。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41833211)<br><br>2014-10-24 15:44<br>赞(0) 踩(0) | <div>Thanks!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42550522)<br><br>2014-10-17 10:29<br>赞(0) 踩(0) | <div>节奏、音色都非常喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1320174)<br><br>2014-10-11 10:06<br>赞(0) 踩(0) | <div>Meiko 的 Dear You 新专，怎么没上传！</div> |
@@ -196,9 +196,9 @@ Meiko's songs find common ground between indie pop and coffeehouse folk, with he
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/545516)<br><br>2014-10-04 00:28<br>赞(0) 踩(0) | <div>我都提交了她新专辑资料这么久了，怎么还没更新啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1700333)<br><br>2014-10-03 22:26<br>赞(0) 踩(0) | <div>站一下台，欢迎meiko入驻！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22475561)<br>面朝大海，春暖花开<br>2014-10-03 22:10<br>赞(0) 踩(0) | <div>维康</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-10-03 22:00<br>赞(0) 踩(0) | <div>看来虾米加入阿里后有钱了果然与前大不同，可以请更多大牌和国际艺人入驻了。2463052，779，176</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-10-03 22:00<br>赞(0) 踩(0) | <div>看来虾米加入阿里后有钱了果然与前大不同，可以请更多大牌和国际艺人入驻了。<br>2463052，779，176</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6944)<br><br>2014-10-03 21:08<br>赞(0) 踩(0) | <div>Welcome! I love your voice and songs!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6069923)<br>平常心<br>2014-10-03 20:33<br>赞(0) 踩(0) | <div>好奇虾米出英文界面了吗？Anyway, welcome, like your voice</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6069923)<br>平常心<br>2014-10-03 20:33<br>赞(0) 踩(0) | <div>好奇虾米出英文界面了吗？<br>Anyway, welcome, like your voice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9615566)<br>我还没想好要写什么...<br>2014-10-03 20:02<br>赞(0) 踩(0) | <div>吓尿了！欢迎啊！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1597851)<br><br>2014-10-03 19:45<br>赞(0) 踩(0) | <div>WELCOME !</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4926807)<br>你会变成这样都是我害的<br>2014-10-03 18:42<br>赞(0) 踩(0) | <div>welcome!</div> |
@@ -332,7 +332,7 @@ Meiko's songs find common ground between indie pop and coffeehouse folk, with he
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2821285)<br><br>2011-09-09 22:04<br>赞(0) 踩(0) | <div>超爱PIANO SONG</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/827734)<br><br>2011-09-09 09:51<br>赞(0) 踩(0) | <div>cozy, kindda like michell brank</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1553118)<br><br>2011-09-05 23:55<br>赞(0) 踩(0) | <div>有两首不错，整张听下来感觉惊喜度不足~~~~~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5017300)<br><br>2011-09-05 23:30<br>赞(0) 踩(0) | <div>突然记起来两年前的最爱piano song还是满满阳光的味道</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5017300)<br><br>2011-09-05 23:30<br>赞(0) 踩(0) | <div>突然记起来两年前的最爱piano song<br>还是满满阳光的味道</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1181249)<br><br>2011-08-21 21:26<br>赞(0) 踩(0) | <div>听了特舒服的声音，治愈我的胃疼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77013)<br><br>2011-07-23 20:52<br>赞(0) 踩(0) | <div>吉他女声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3860371)<br><br>2011-07-12 00:59<br>赞(0) 踩(0) | <div>one of the 200 greatest living singer/songwriter</div> |
@@ -344,7 +344,7 @@ Meiko's songs find common ground between indie pop and coffeehouse folk, with he
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2652428)<br><br>2011-05-12 13:32<br>赞(0) 踩(0) | <div>~0.0~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2230334)<br>老不死的地球你好！<br>2011-04-29 09:01<br>赞(0) 踩(0) | <div>自在、积极的姑娘~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171396)<br>以前办不到的事情，未来也...<br>2011-04-02 11:20<br>赞(0) 踩(0) | <div>0.0</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/475552)<br>小橙子<br>2011-04-14 20:49<br>赞(0) 踩(0) | <div>我在想妞你要是没听我那个A Little Feel集子咱俩的口味就果断的一致嘻嘻</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/475552)<br>小橙子<br>2011-04-14 20:49<br>赞(0) 踩(0) | <div>我在想<br><br>妞你要是没听我那个A Little Feel集子<br><br>咱俩的口味就果断的一致<br><br>嘻嘻</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171396)<br>以前办不到的事情，未来也...<br>2011-04-15 08:46<br>赞(0) 踩(0) | <div><q><b>槑说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/475552)<br>小橙子<br>2011-04-15 09:16<br>赞(0) 踩(0) | <div><q><b>小讨厌。说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171396)<br>以前办不到的事情，未来也...<br>2011-04-15 09:45<br>赞(0) 踩(0) | <div><q><b>槑说：</b></q></div> |

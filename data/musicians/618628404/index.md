@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/13932875c99e0e81c1453cd83a3780ce.jpg)<br>祁紫檀](https://i.xiami.com/zitanrunrun) | **播放数**: 5649867<br>**粉丝数**: 11108<br>**评论数**: 535<br>**地区**: China 中国大陆<br>**风格**: 根源唱作人 Singer-Songwriter<br> |
+| [![](../../images/musicians/13932875c99e0e81c1453cd83a3780ce.jpg)<br>祁紫檀](https://i.xiami.com/zitanrunrun) | **地区**: China 中国大陆<br>**风格**: 根源唱作人 Singer-Songwriter<br>**播放数**: 5649867<br>**粉丝数**: 11108<br>**评论数**: 535<br> |
 
 ## 档案
 
@@ -48,8 +48,8 @@ natural fly ，it's real            希望做一个不倚靠的人。<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289298016)<br><br>2020-12-20 13:57<br>赞(2) 踩(0) | <div>听说虾米开不久了。。。可我还是想在虾米听祁紫檀和邱比啊。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445639049)<br><br>2020-12-14 09:51<br>赞(0) 踩(0) | <div>美しい声！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7540314)<br><br>2020-12-04 22:21<br>赞(0) 踩(0) | <div>妹子有蒙古血统吗？</div> |
@@ -109,7 +109,7 @@ natural fly ，it's real            希望做一个不倚靠的人。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346165752)<br><br>2019-05-05 11:42<br>赞(0) 踩(0) | <div>风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44421787)<br>长期单身<br>2019-04-22 23:00<br>赞(0) 踩(0) | <div>爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170211738)<br>上帝在开始爱着了<br>2019-04-14 14:45<br>赞(0) 踩(0) | <div><img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40540445)<br>all you need...<br>2019-03-28 10:58<br>赞(0) 踩(0) | <div>这大概就是那极为少数的有趣灵魂</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40540445)<br>all you need...<br>2019-03-28 10:58<br>赞(0) 踩(0) | <div>这大概就是<br>那极为少数的<br>有趣灵魂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9028760)<br>豆瓣见 spotify ...<br>2019-03-16 01:23<br>赞(0) 踩(0) | <div>（´-`）.｡o</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346023070)<br><br>2019-03-14 12:05<br>赞(0) 踩(0) | <div>可以了，赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410456754)<br>We are one!<br>2019-03-07 15:43<br>赞(1) 踩(0) | <div>声音好听</div> |
@@ -127,7 +127,7 @@ natural fly ，it's real            希望做一个不倚靠的人。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50316619)<br>真的确实还没想好……<br>2018-11-12 02:03<br>赞(0) 踩(0) | <div>爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50316619)<br>真的确实还没想好……<br>2018-11-12 02:02<br>赞(1) 踩(0) | <div>妹子，我感觉你和珊蔻大姐快要接近了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352107405)<br><br>2018-11-04 18:57<br>赞(2) 踩(0) | <div>我是一名设计师,你的调调我非常喜欢,每次我创作的时候都必须得听你的歌!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354181908)<br>kiss<br>2018-09-30 00:47<br>赞(0) 踩(0) | <div>Be yourself很想去看你的现场</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354181908)<br>kiss<br>2018-09-30 00:47<br>赞(0) 踩(0) | <div>Be yourself<br>很想去看你的现场</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50808007)<br>我还没想好要写什么...<br>2018-09-29 22:11<br>赞(0) 踩(0) | <div>紫檀的现场太棒！！好喜欢好喜欢你呀！！期待下一次去现场听你唱歌！❤️❤️❤️❤️❤️ 到了现场发现 喜欢紫檀的果然好多小姬佬哈哈哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346926877)<br>Black and wh...<br>2018-10-05 13:27<br>赞(0) 踩(0) | <div>牛了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3610242)<br>惊蛰 大暑 霜降 冬至 ...<br>2018-09-21 22:43<br>赞(1) 踩(0) | <div>好歌曲里惊艳到我 词曲都很厉害 国内少有</div> |
@@ -139,14 +139,14 @@ natural fly ，it's real            希望做一个不倚靠的人。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6770643)<br>谨言慎行，戒急用忍<br>2018-07-26 09:50<br>赞(0) 踩(0) | <div>很期待你能现场演唱南海姑娘</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170211738)<br>上帝在开始爱着了<br>2018-07-17 00:10<br>赞(0) 踩(0) | <div>来成都吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342051283)<br><br>2018-07-15 16:57<br>赞(0) 踩(0) | <div>太灵异了，我喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136724648)<br>ɪᴍ ғɪɴᴇ<br>2018-07-15 02:28<br>赞(0) 踩(0) | <div>你的嗓音你的歌特别适合在凌晨听加油</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136724648)<br>ɪᴍ ғɪɴᴇ<br>2018-07-15 02:28<br>赞(0) 踩(0) | <div>你的嗓音你的歌特别适合在凌晨听<br>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71356146)<br>欣赏真的人<br>2018-07-10 00:37<br>赞(0) 踩(0) | <div>很轻松的嗓子 好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31813733)<br>相信每个人都有自己生长的...<br>2018-06-27 00:10<br>赞(1) 踩(0) | <div>什么时候再来广州呀 坐等！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166586472)<br>我还没想好要写什么...<br>2018-06-17 03:48<br>赞(0) 踩(0) | <div>她的音乐快溢满整个人的时候，就去读小说，然后再浸到她的歌里。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166586472)<br>我还没想好要写什么...<br>2018-06-05 00:09<br>赞(0) 踩(0) | <div>珍贵.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44294980)<br>Being an adu...<br>2018-05-24 23:17<br>赞(1) 踩(0) | <div>❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17146554)<br>weibo：@L1RRO...<br>2018-05-18 07:29<br>赞(1) 踩(0) | <div>我来了 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50808007)<br>我还没想好要写什么...<br>2018-05-15 01:06<br>赞(1) 踩(0) | <div>从你的声音听到爱和自由听到柔软湿润听到彩虹听到一个人</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50808007)<br>我还没想好要写什么...<br>2018-05-15 01:06<br>赞(1) 踩(0) | <div>从你的声音听到爱和自由<br>听到柔软湿润<br>听到彩虹<br>听到一个人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66823378)<br><br>2018-05-14 21:15<br>赞(1) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339191478)<br> <br>2018-05-08 00:04<br>赞(0) 踩(0) | <div>:-)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29500976)<br>嗯<br>2018-05-07 18:27<br>赞(0) 踩(0) | <div>喜欢</div> |
@@ -180,7 +180,7 @@ natural fly ，it's real            希望做一个不倚靠的人。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49691100)<br>是个糟人<br>2017-11-14 12:11<br>赞(0) 踩(0) | <div>女人 你真棒。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41848251)<br><br>2017-11-07 17:50<br>赞(0) 踩(0) | <div>啥时候来杭州啊啊啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6491021)<br>我还没想好要写什么...<br>2017-11-04 13:03<br>赞(0) 踩(0) | <div>12月初到1月中 都没有演出么 哪里我都去啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50018323)<br>我视音乐如生命<br>2017-10-28 00:44<br>赞(3) 踩(0) | <div>支持  好好听的音乐   很有特点我也是唱作人  在北影念大二但是现在做的音乐还很稚嫩还要多向你学习</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50018323)<br>我视音乐如生命<br>2017-10-28 00:44<br>赞(3) 踩(0) | <div>支持  好好听的音乐   很有特点<br>我也是唱作人  在北影念大二<br>但是现在做的音乐还很稚嫩<br>还要多向你学习</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8602973)<br><br>2017-10-28 00:43<br>赞(2) 踩(0) | <div>《得知平淡》  这首是好歌曲里面音乐感最好的一首，唱得也最有特色，与杭盖平分秋色。其实单看歌词没觉得有特别过人之处，但是一听歌曲，立马就变得“高大上”了。和蔡健雅的合唱，我想说蔡健雅真胆大，那首歌完全只能由你这种独特的唱法才有韵味，她那平淡无奇的唱法，立马让这首歌也变得平淡无奇了，尤其是与你同台齐唱的时候，对比更加鲜明。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15275403)<br>you can find...<br>2017-10-28 00:15<br>赞(4) 踩(0) | <div>希望外国人能听到的中国歌曲不再是小苹果，不再是凤凰传奇，而是真正能代表中国有艺术质感的歌曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45298985)<br>Wechat:dqx19...<br>2017-10-04 22:03<br>赞(2) 踩(0) | <div>+</div> |
@@ -258,7 +258,7 @@ natural fly ，it's real            希望做一个不倚靠的人。<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33552517)<br>偏好、<br>2017-03-20 15:48<br>赞(0) 踩(0) | <div><q><b>薯来片说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6770643)<br>谨言慎行，戒急用忍<br>2017-03-20 10:22<br>赞(0) 踩(0) | <div>2017巡演呢？期待在南京听到你空灵的嗓音。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259978926)<br>非我薄情<br>2017-03-14 22:22<br>赞(0) 踩(0) | <div>哇！   我不知道怎么说      好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2781312)<br>我还没想好要写什么...<br>2017-03-14 20:19<br>赞(1) 踩(0) | <div>你是大自然的孩子你属于天空你属于草地你属于阳光温柔或者爆裂的抚摸你也可以什么都不是但唯独不可能属于偏见和随意的判断</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2781312)<br>我还没想好要写什么...<br>2017-03-14 20:19<br>赞(1) 踩(0) | <div>你是大自然的孩子<br>你属于天空<br>你属于草地<br>你属于阳光<br>温柔或者爆裂的抚摸<br>你也可以什么都不是<br>但唯独不可能属于偏见<br>和随意的判断</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170211738)<br>上帝在开始爱着了<br>2017-03-12 00:28<br>赞(1) 踩(0) | <div>喜欢你的脸</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258852057)<br><br>2017-03-11 15:31<br>赞(0) 踩(0) | <div>空灵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10677009)<br><br>2017-03-09 18:41<br>赞(1) 踩(0) | <div>本真独特</div> |
@@ -300,7 +300,7 @@ natural fly ，it's real            希望做一个不倚靠的人。<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1290191)<br> <br>2016-07-14 22:01<br>赞(0) 踩(0) | <div>g20</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478527)<br>好想跟衣服在洗衣机里滚<br>2016-07-15 00:26<br>赞(0) 踩(0) | <div><q><b>祁紫檀说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3633494)<br> <br>2016-07-12 22:44<br>赞(0) 踩(0) | <div>好歌曲的学员？对吗</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2000187)<br>我还没想好要写什么...<br>2016-07-09 23:59<br>赞(4) 踩(0) | <div>刚刚听完紫檀在长沙的live，全程我的鸡皮疙瘩都是感动得竖起来的,Amazing！觉得紫檀在舞台上说话的时候是很害羞很可爱的，表演起来你就是传说中一个人撑起整个舞台的那个人。(然后我也很害羞地不敢大声为你欢呼打气只知道一直大声给你鼓掌。)你的原创和新作大家都一直关注着的，不要有哭的感觉，摸摸。Amy Winehouse的那首You know I&amp;#039;m no good超特别的.今天南海姑娘的清唱也是赞的不行，忘词了不要紧重要的就是你那独一无二清澈的歌喉。紫檀加油！中国民谣界最喜欢的就是你了~（今天还想听你唱《射》的，但是太害羞不敢喊出来）--from第一排穿黑边白T的女生</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2000187)<br>我还没想好要写什么...<br>2016-07-09 23:59<br>赞(4) 踩(0) | <div>刚刚听完紫檀在长沙的live，全程我的鸡皮疙瘩都是感动得竖起来的,Amazing<br>！觉得紫檀在舞台上说话的时候是很害羞很可爱的，表演起来你就是传说中一个人撑起整个舞台的那个人。(然后我也很害羞地不敢大声为你欢呼打气只知道一直大声给你鼓掌。)<br>你的原创和新作大家都一直关注着的，不要有哭的感觉，摸摸。Amy Winehouse的那首You know I&amp;#039;m no good超特别的.今天南海姑娘的清唱也是赞的不行，忘词了不要紧重要的就是你那独一无二清澈的歌喉。紫檀加油！中国民谣界最喜欢的就是你了~（今天还想听你唱《射》的，但是太害羞不敢喊出来）<br>--from第一排穿黑边白T的女生</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1290191)<br> <br>2016-07-11 01:09<br>赞(0) 踩(0) | <div>❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127131130)<br> <br>2016-06-24 21:50<br>赞(0) 踩(0) | <div>灵性,-)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12835349)<br>微博 @小羊艾琳<br>2016-06-24 01:30<br>赞(0) 踩(0) | <div>姑娘唱转音真好听啊 好有灵气 喜欢你 希望你不会被商业和这个社会所迫做自己不喜欢的东西</div> |
@@ -423,7 +423,7 @@ natural fly ，it's real            希望做一个不倚靠的人。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45792079)<br><br>2015-05-24 18:29<br>赞(0) 踩(0) | <div>31号西湖音乐节！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1971316)<br><br>2015-05-18 21:43<br>赞(3) 踩(0) | <div>自己一直喜欢的女生要跟她认识不久的男朋友去看西湖音乐节了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1290191)<br> <br>2015-05-21 19:47<br>赞(0) 踩(0) | <div>问候你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8513135)<br> <br>2015-05-18 13:26<br>赞(95) 踩(0) | <div>好喜欢。看的通透的艺术家并不都节制。像是月亮和篝火。像是随意让情欲浮在脸上。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8513135)<br> <br>2015-05-18 13:26<br>赞(95) 踩(0) | <div>好喜欢。<br>看的通透的艺术家并不都节制。<br>像是月亮和篝火。<br>像是随意让情欲浮在脸上。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173408392)<br>是無等等。<br>2017-12-12 01:30<br>赞(0) 踩(0) | <div>也喜欢你啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6243608)<br><br>2015-05-13 09:35<br>赞(0) 踩(0) | <div>好听到我眼睛里进了沙子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36208991)<br> <br>2015-05-10 01:01<br>赞(2) 踩(0) | <div>千言万语为何下架了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png">好难过</div> |
@@ -520,7 +520,7 @@ natural fly ，it's real            希望做一个不倚靠的人。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30251976)<br>新人。<br>2015-02-07 11:45<br>赞(0) 踩(0) | <div>妈妈问我为什么跪着听歌！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13983148)<br>1LVSH<br>2015-02-05 13:21<br>赞(0) 踩(0) | <div>绝逼飞行员！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7175639)<br>黑夜给了我黑色的眼睛<br>2015-02-05 12:28<br>赞(0) 踩(0) | <div>坐等你火.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/812392)<br>【封面控】毛驴牌❤小众好...<br>2015-02-04 23:29<br>赞(0) 踩(0) | <div>你们那张Stolen Joy快被我听烂了，手机电脑都有同步...什么时候可以出下一张专辑或者听到现场啊我在南宁（凑不要脸害羞中）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/812392)<br>【封面控】毛驴牌❤小众好...<br>2015-02-04 23:29<br>赞(0) 踩(0) | <div>你们那张Stolen Joy快被我听烂了，手机电脑都有同步...<br>什么时候可以出下一张专辑或者听到现场啊<br>我在南宁（凑不要脸害羞中）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7653085)<br>尝试着做一些事情。<br>2015-02-13 23:59<br>赞(0) 踩(0) | <div>听很多遍了+1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1286894)<br><br>2015-02-03 23:17<br>赞(0) 踩(0) | <div>很想听你唱《Fly Me To The Moon》和《我》, 可惜没找到可以下载的版本!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32194249)<br>这家伙帅的什么也没留下…<br>2015-02-03 01:49<br>赞(1) 踩(0) | <div>喜欢你的独立音乐         •          态度</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/709a98f6144ef6704c001ee1783e9595.jpg)<br>石昕奇](https://i.xiami.com/siyer) | **播放数**: 3640832<br>**粉丝数**: 101<br>**评论数**: 5<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 意识说唱 Conscious Hip Hop, 电音流行 Electropop<br> |
+| [![](../../images/musicians/709a98f6144ef6704c001ee1783e9595.jpg)<br>石昕奇](https://i.xiami.com/siyer) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 意识说唱 Conscious Hip Hop, 电音流行 Electropop<br>**播放数**: 3640832<br>**粉丝数**: 101<br>**评论数**: 5<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303453280)<br><br>2019-12-10 09:29<br>赞(0) 踩(0) | <div>我两一个姓啊，石 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430471543)<br>我还没想好要写什么...<br>2019-11-20 16:53<br>赞(0) 踩(0) | <div>哇塞～比原唱还好听，声音好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423108874)<br>喜欢石昕奇<br>2019-04-11 12:52<br>赞(2) 踩(0) | <div>啊哈，木马来了。哈哈哈</div> |

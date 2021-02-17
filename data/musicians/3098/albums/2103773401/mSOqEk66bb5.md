@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403835983)<br>旺夫<br>2020-12-03 00:01<br>赞(1) 踩(0) | <div>你翻山越岭去看海，你把家搬去海边，你的眼泪跟海水一样咸，但你永远不会是海的一部分。 ​​​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259071610)<br>我还没想好要写什么...<br>2020-11-23 20:36<br>赞(0) 踩(0) | <div>长沙阴惨惨的初冬也适合这个曲子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31213633)<br>南蛮<br>2020-11-18 08:48<br>赞(0) 踩(0) | <div>咸味的</div> |
@@ -30,7 +27,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/713926)<br>嘘！<br>2020-09-23 20:40<br>赞(1) 踩(0) | <div>3:28小号进来一瞬间要落泪了&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/713926)<br>嘘！<br>2020-09-23 20:38<br>赞(0) 踩(0) | <div>Dark side of the sea</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3583995)<br>一個人的戰爭<br>2020-08-03 02:19<br>赞(0) 踩(0) | <div>.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2995427)<br>晚安爱人 感谢你的热烈与...<br>2020-07-07 01:16<br>赞(1) 踩(0) | <div>明天毕业，没有工作，没有学上想痛快哭一场，我做不到。循环这首睡过去吧希望在梦里能醒过来。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2995427)<br>晚安爱人 感谢你的热烈与...<br>2020-07-07 01:16<br>赞(1) 踩(0) | <div>明天毕业，没有工作，没有学上<br><br>想痛快哭一场，我做不到。<br><br>循环这首睡过去吧<br><br>希望在梦里能醒过来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10442668)<br> <br>2020-06-26 15:02<br>赞(0) 踩(0) | <div>幸好我买了这张</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46467302)<br><br>2020-05-16 16:41<br>赞(0) 踩(0) | <div>，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240834733)<br>沒有意義<br>2020-05-04 05:00<br>赞(0) 踩(0) | <div>到了</div> |
@@ -57,7 +54,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320688108)<br><br>2019-03-31 16:11<br>赞(2) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124598616)<br>coooooooool<br>2019-03-27 22:54<br>赞(1) 踩(0) | <div>大连低矮的 是丘陵 我惊异于平原的坦荡 但忘不掉的的还是无数起落 上坡下坡 那是心境</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3233784)<br>我还没想好要写什么...<br>2019-03-27 02:13<br>赞(2) 踩(0) | <div>记得之前跟前女友有天晚上看完其他live 呆在一起 那天晚上惘闻出了这个新专 我倒是很激动的听 或许是巧合吧 那是我跟她呆在一起的最后一个晚上 哦对 她是大连人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344479860)<br>深柜中，考研中。<br>2019-03-20 21:46<br>赞(0) 踩(0) | <div>前半段孤独如同渤海上的孤岛；后半段压抑如同宏孚桥下的人。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344479860)<br>深柜中，考研中。<br>2019-03-20 21:46<br>赞(0) 踩(0) | <div>前半段孤独如同渤海上的孤岛；<br>后半段压抑如同宏孚桥下的人。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58362016)<br>Ich kann nic...<br>2019-04-25 19:42<br>赞(0) 踩(0) | <div>一如我在解放路忘尽街里的繁华落寞，再如我去星海看海。熙熙攘攘如火车站，冷情寂寞如小街道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/996277)<br>‏‏<br>2019-03-18 15:21<br>赞(0) 踩(0) | <div>删除成功</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226808366)<br>明心见性，往生净土<br>2019-03-01 21:51<br>赞(1) 踩(0) | <div>第100条，明天大连鲁美校考，一定加油</div> |
@@ -93,7 +90,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123263316)<br>我有叛逆的精神可我不会一...<br>2018-09-21 07:45<br>赞(0) 踩(0) | <div>是啊 前奏响起就沉醉了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283822207)<br>溺<br>2018-09-19 01:28<br>赞(1) 踩(0) | <div>会和梦见的大连一样 也许是想象得多了等到真正看见的时候眼前却一片模糊  ​​​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13520634)<br>今天喝可乐了吗<br>2018-09-18 22:02<br>赞(2) 踩(0) | <div>只有我像个傻比一样守着那点旧日的破玩意儿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43443614)<br>微信M7-Bonnie，...<br>2018-09-18 17:41<br>赞(1) 踩(0) | <div>现在大连天是灰蒙蒙的蓝听着特别有感觉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43443614)<br>微信M7-Bonnie，...<br>2018-09-18 17:41<br>赞(1) 踩(0) | <div>现在大连天是灰蒙蒙的蓝<br>听着特别有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7714008)<br>A good man d...<br>2018-09-15 22:28<br>赞(0) 踩(0) | <div>此曲佳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7714008)<br>A good man d...<br>2018-09-15 22:27<br>赞(1) 踩(0) | <div>加入黑嗓就是后黑了&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37859172)<br>我还没想好要写什么...<br>2018-09-15 21:41<br>赞(0) 踩(0) | <div>画面感极强</div> |
@@ -146,7 +143,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55656344)<br>我还没想好要写什么...<br>2018-08-03 11:16<br>赞(12) 踩(0) | <div>突然覺得大連有山</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43694690)<br>-<br>2018-08-12 00:22<br>赞(0) 踩(0) | <div>大连确实像山地呢～地形不是很平坦</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55656344)<br>我还没想好要写什么...<br>2018-08-13 18:19<br>赞(0) 踩(0) | <div><q><b>我开动了说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41043077)<br>听歌时候少bb.<br>2018-08-03 09:32<br>赞(87) 踩(0) | <div>我梦见了大连云是粉的山是黑的港口的渔船总在夕阳下满载着鱼又或者是金子我的渔船堆满了青春最好时永远停泊在旅顺口月光下的海是一片荧光蓝有点腥味和我想念三天打鱼两天晒网时流下的泪水一样还有点咸</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41043077)<br>听歌时候少bb.<br>2018-08-03 09:32<br>赞(87) 踩(0) | <div>我梦见了大连<br>云是粉的<br>山是黑的<br>港口的渔船总在夕阳下<br>满载着鱼又或者是金子<br>我的渔船堆满了青春最好时<br>永远停泊在旅顺口<br>月光下的海是一片荧光蓝<br>有点腥味<br>和我想念三天打鱼两天晒网时<br>流下的泪水一样<br>还有点咸</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191522862)<br>我要回到风中去啦<br>2018-08-03 15:45<br>赞(0) 踩(0) | <div>很不错。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302127937)<br><br>2018-11-12 14:51<br>赞(0) 踩(0) | <div>云是白的  你来看嘛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/828229)<br><br>2018-08-03 08:24<br>赞(0) 踩(0) | <div>也太棒了吧！</div> |
@@ -157,10 +154,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54427408)<br>.<br>2018-08-03 01:38<br>赞(0) 踩(0) | <div>触底躺倒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47957528)<br>我还没想好要写什么...<br>2018-08-03 01:09<br>赞(0) 踩(0) | <div>听了惘闻，觉得大连市一个好神秘的城市。希望今年有机会去看看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112338908)<br>Tender<br>2018-08-03 00:06<br>赞(0) 踩(0) | <div>下个月的此时已经躺在大连的夜里了，不知道这座城市会带给我什么。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54387866)<br>不如做恶棍流氓<br>2018-08-03 00:26<br>赞(0) 踩(0) | <div>和你一样九月份要去报道了新的城市带着满满不安</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54387866)<br>不如做恶棍流氓<br>2018-08-03 00:26<br>赞(0) 踩(0) | <div>和你一样<br>九月份要去报道了<br>新的城市带着满满不安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87188722)<br>聪明伶俐<br>2018-08-03 00:01<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9154037)<br>到水星散心去了。<br>2018-08-02 17:09<br>赞(4) 踩(0) | <div>连着听下来，到这里有些感动。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9154037)<br>到水星散心去了。<br>2018-08-02 16:25<br>赞(1) 踩(0) | <div>大连，高温</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4234256)<br><br>2018-07-08 11:40<br>赞(0) 踩(0) | <div>爱得深沉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348982422)<br>不摇就滚<br>2018-07-05 09:04<br>赞(0) 踩(0) | <div>一开始听，我以为耳机坏了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3485819)<br>以爱修行<br>2018-07-03 12:54<br>赞(2) 踩(0) | <div>没想到对大连是如此深沉！惘闻也越发精彩！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3485819)<br>以爱修行<br>2018-07-03 12:54<br>赞(2) 踩(0) | <div>没想到对大连是如此深沉！<br>惘闻也越发精彩！！！</div> |

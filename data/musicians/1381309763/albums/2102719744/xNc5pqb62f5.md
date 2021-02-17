@@ -26,5 +26,3 @@ Sukey take it off again they've all gone away
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

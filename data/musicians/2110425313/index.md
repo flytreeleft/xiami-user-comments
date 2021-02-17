@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/cf498519cf82656128f3fe3457b9d4d1.jpg)<br>龙迦娜](https://i.xiami.com/whdlwjhd) | **播放数**: 8196318<br>**粉丝数**: 5056<br>**评论数**: 70<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 传统流行 Traditional Pop, 迷幻流行 Psychedelic Pop, 古风 GuFeng Music<br> |
+| [![](../../images/musicians/cf498519cf82656128f3fe3457b9d4d1.jpg)<br>龙迦娜](https://i.xiami.com/whdlwjhd) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 传统流行 Traditional Pop, 迷幻流行 Psychedelic Pop, 古风 GuFeng Music<br>**播放数**: 8196318<br>**粉丝数**: 5056<br>**评论数**: 70<br> |
 
 ## 档案
 
@@ -39,12 +39,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200352102)<br>有些人才认识一下子，就好...<br>2020-06-13 18:37<br>赞(0) 踩(0) | <div>好听，偶然刷到 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2019-12-31 13:09<br>赞(0) 踩(0) | <div>哥伦比亚大学硕士全才</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2019-12-31 13:09<br>赞(0) 踩(0) | <div>哥伦比亚大学硕士<br>全才</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20110454)<br>紧紧拥抱 心灵的小宇宙 ...<br>2019-11-13 10:18<br>赞(0) 踩(0) | <div>她整容了 嘴巴鼻子都整容过</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2019-12-31 13:08<br>赞(0) 踩(0) | <div>这种事值得拿出来说么除了山区的其他哪个地方不是十个有九个整过别再像活在上个世纪一样了</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2019-12-31 13:08<br>赞(0) 踩(0) | <div>这种事值得拿出来说么<br>除了山区的<br>其他哪个地方不是十个有九个整过<br>别再像活在上个世纪一样了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336490228)<br><br>2019-11-10 12:45<br>赞(0) 踩(0) | <div>好喜欢，歌词写得很好！ <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429091428)<br><br>2019-09-01 10:55<br>赞(0) 踩(0) | <div>我爱你!#voilinchic <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312696539)<br><br>2019-07-08 21:06<br>赞(1) 踩(0) | <div>家门的作品必须赞 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -63,7 +63,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290361728)<br><br>2018-09-04 03:37<br>赞(0) 踩(0) | <div>怎么很多歌都没有了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3194620)<br>暂无签名~<br>2018-07-28 12:17<br>赞(0) 踩(0) | <div>怎么总是被迫自动关注这个人啊？？？我从来没听过她的歌啊，这人是谁啊？？？ <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376175592)<br>无<br>2019-01-25 21:42<br>赞(0) 踩(0) | <div>你的号可能别人在用。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352403784)<br>追求人生最高境界！<br>2018-07-18 23:35<br>赞(2) 踩(0) | <div>鞦水為神玉為骨，芙蓉如面柳如眉。分明玉宇瓊樓女，不信人間有此姿！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352403784)<br>追求人生最高境界！<br>2018-07-18 23:35<br>赞(2) 踩(0) | <div>鞦水為神玉為骨，芙蓉如面柳如眉。<br>分明玉宇瓊樓女，不信人間有此姿！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355861328)<br>迦娜新歌《不要再老了，好...<br>2018-07-18 23:40<br>赞(0) 踩(0) | <div>感谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378439025)<br><br>2018-07-13 09:22<br>赞(0) 踩(0) | <div>加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358346255)<br>我还没想好要写什么...<br>2018-07-13 01:34<br>赞(1) 踩(0) | <div>还有新歌嘛</div> |
@@ -102,11 +102,11 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359622457)<br>冷酷无情<br>2018-04-21 21:50<br>赞(2) 踩(0) | <div>加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317347600)<br>云淡风轻<br>2018-04-21 06:57<br>赞(1) 踩(0) | <div>好听 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359245021)<br>迦娜铁粉！！！！！<br>2018-04-20 10:55<br>赞(3) 踩(0) | <div>大才女啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359078338)<br><br>2018-04-19 13:52<br>赞(4) 踩(0) | <div>注解：1:孑然一身，游离于苍穹之间。朦胧的月色，如天狗食月般万籁俱静，又好比传闻中的牛郎织女星隐隐浮现，天阶夜色，冰凉如水。远方的佳丽，你现在在哪里？声声呐喊！胧-月=龙2:戓许我所怀念所盼望的将是殊途，但我依然如故，对我地爱加倍递增。走自己的路，至死不渝。途-余+加=迦3:梦中的佳人，就像海市蜃楼般。刹那间让我痴迷如醉。憧憬中见到你的来临。女+那=娜4:经历种种波折，磨难！终于等到佳人地回归，来到我的身边。守得云开见月明，有情人终成眷属。百年好合，恩爱一生。伉俪（夫妻），亦为一女一子，男欢女爱。女+子=好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359078338)<br><br>2018-04-19 13:52<br>赞(4) 踩(0) | <div>慧祯谊文.陈乔升朦胧月瘦美迟暮，殊途余行加有道。刹那芳华女见踪，伉俪情深百岁长。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359078338)<br><br>2018-04-19 13:52<br>赞(4) 踩(0) | <div>注解：<br><br>1:孑然一身，游离于苍穹之间。朦胧的月色，如天狗食月般万籁俱静，又好比传闻中的牛郎织女星隐隐浮现，天阶夜色，冰凉如水。远方的佳丽，你现在在哪里？声声呐喊！<br><br>胧-月=龙<br><br>2:戓许我所怀念所盼望的将是殊途，但我依然如故，对我地爱加倍递增。走自己的路，至死不渝。<br><br>途-余+加=迦<br><br>3:梦中的佳人，就像海市蜃楼般。刹那间让我痴迷如醉。憧憬中见到你的来临。<br><br>女+那=娜<br><br>4:经历种种波折，磨难！终于等到佳人地回归，来到我的身边。守得云开见月明，有情人终成眷属。百年好合，恩爱一生。<br>伉俪（夫妻），亦为一女一子，男欢女爱。<br><br>女+子=好</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359078338)<br><br>2018-04-19 13:52<br>赞(4) 踩(0) | <div>慧祯谊<br><br>文.陈乔升<br><br>朦胧月瘦美迟暮，<br>殊途余行加有道。<br>刹那芳华女见踪，<br>伉俪情深百岁长。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295562985)<br><br>2018-04-18 21:42<br>赞(4) 踩(0) | <div>循环到听腻，期待新作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357420111)<br><br>2018-04-17 23:16<br>赞(2) 踩(0) | <div>喜欢你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357951371)<br><br>2018-04-13 12:18<br>赞(3) 踩(0) | <div>666,nice music,beautiful female singer.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357951371)<br><br>2018-04-13 12:18<br>赞(3) 踩(0) | <div>666,<br>nice music,<br>beautiful female singer.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357522560)<br><br>2018-04-10 13:17<br>赞(1) 踩(0) | <div>占楼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356527083)<br><br>2018-04-01 21:10<br>赞(3) 踩(0) | <div>好美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353833446)<br><br>2018-03-27 13:51<br>赞(10) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">優美 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">，好聽</div> |

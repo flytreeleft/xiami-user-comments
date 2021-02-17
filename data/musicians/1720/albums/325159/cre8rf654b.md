@@ -60,18 +60,18 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328280231)<br>故鄉的原風景上的英雄的黎...<br>2020-12-05 20:25<br>赞(0) 踩(0) | <div>聽了這首歌，循環聽，哭紅了雙眼。 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328280231)<br>故鄉的原風景上的英雄的黎...<br>2020-12-02 22:06<br>赞(1) 踩(0) | <div>好鐘意</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4466092)<br><br>2020-11-14 15:45<br>赞(0) 踩(0) | <div>张大龙你不是人！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308798285)<br><br>2020-11-16 11:49<br>赞(0) 踩(0) | <div>胡昕你也不是人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445867643)<br><br>2020-11-10 07:33<br>赞(1) 踩(0) | <div>冬天必听歌曲。打卡春天听好春光，夏天听屋顶，秋天听秋天的童话</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445867643)<br><br>2020-11-10 07:33<br>赞(1) 踩(0) | <div>冬天必听歌曲。打卡<br>春天听好春光，夏天听屋顶，秋天听秋天的童话</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378694291)<br>柔<br>2020-10-23 09:41<br>赞(0) 踩(0) | <div>&amp;hearts;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-10-03 11:11<br>赞(0) 踩(0) | <div>路过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35568339)<br>weirdo<br>2020-09-03 02:24<br>赞(0) 踩(0) | <div>初中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327587521)<br>给岁月以文明<br>2020-08-19 10:41<br>赞(0) 踩(0) | <div>一直在听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433905107)<br><br>2020-08-13 23:16<br>赞(0) 踩(0) | <div>崔健，金海心，金志文，金星，都是朝鲜族。作曲大师张宏光，张千一，也是朝鲜族。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433905107)<br><br>2020-08-13 23:16<br>赞(0) 踩(0) | <div>崔健，金海心，金志文，金星，都是朝鲜族。<br>作曲大师张宏光，张千一，也是朝鲜族。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163145910)<br><br>2020-07-08 22:46<br>赞(0) 踩(0) | <div>这么多年过去了，这声音还是这么动听 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283069502)<br>承诺大于命，诚信大于天<br>2020-05-09 00:06<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4304207)<br><br>2018-05-25 13:00<br>赞(1) 踩(0) | <div>人生中听得第一部广播剧《致青春》的主题曲，当时就被这首歌吸引了，原来是金海心唱的啊！以前就觉得她声音有特色，唱功也好，不知道为什么就是没火起来，有点可惜</div> |
@@ -97,7 +97,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312067424)<br><br>2018-02-27 14:10<br>赞(2) 踩(0) | <div>14年大四的时候认识了你，毕业后一个人来广州工作，人生地不熟的，每天都是你跟你分享的音乐陪伴着我度过了那段最难熬的时光。你在南京，我在广州，彼此相隔千山万水，以为能走到一起，可最后还是不声不响的消失在了对方的世界，你说你最喜欢的就是一边听歌一边看着下面精彩的评论，这些歌都是你推荐的，希望你哪天听这首歌的时候能看到我的这些话，想的那个跟你吹牛的人，想到那个跟你斗嘴的人，想到那个晚上陪你听歌的人&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345873482)<br><br>2018-02-22 23:11<br>赞(0) 踩(0) | <div>啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274811214)<br><br>2018-02-19 14:21<br>赞(2) 踩(0) | <div>好听，许多年过去了，还是这么好听，耐人回味</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32930958)<br>离开是另一种开始 就当一...<br>2018-02-10 20:53<br>赞(1) 踩(0) | <div>第一次听这首歌是一个姐姐唱的以后每次听都会想起她</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32930958)<br>离开是另一种开始 就当一...<br>2018-02-10 20:53<br>赞(1) 踩(0) | <div>第一次听这首歌是一个姐姐唱的<br>以后每次听都会想起她</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23365531)<br><br>2018-02-10 17:30<br>赞(1) 踩(0) | <div>曲遍的很烂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216591000)<br><br>2018-02-06 14:59<br>赞(2) 踩(0) | <div>快上歌手 肯定大火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46750891)<br><br>2018-01-28 21:54<br>赞(0) 踩(0) | <div>灵动的歌手，好听的声音，优美的曲子</div> |
@@ -136,7 +136,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284822111)<br><br>2017-06-03 18:38<br>赞(0) 踩(0) | <div>哈哈 某个人听这首歌把长袖翩翩听成了撑起了一片天 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245841205)<br>但是我有很多很多动人的歌...<br>2017-06-01 00:24<br>赞(4) 踩(0) | <div>我发现，这个音乐啊 ，真的不是人人能懂的。明明是天籁，乐评这么少，哎&amp;hellip;&amp;hellip;我的金女神</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/895176)<br>爱而为一<br>2017-05-28 18:41<br>赞(3) 踩(0) | <div>副歌部分怎么回事？突然变成俗不可耐的流行歌。前面的歌词配上金海心的转音嗓很特别。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26674998)<br>田馥甄。<br>2017-05-27 08:03<br>赞(1) 踩(0) | <div>如果你看穿我的思念我就不会为你哭红双眼</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26674998)<br>田馥甄。<br>2017-05-27 08:03<br>赞(1) 踩(0) | <div>如果你看穿我的思念<br>我就不会为你哭红双眼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2426204)<br><br>2017-05-23 20:48<br>赞(0) 踩(0) | <div>金海心的歌最喜欢这首！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285056471)<br><br>2017-05-13 10:25<br>赞(2) 踩(0) | <div>每次听到这首歌，都会想起她</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90211300)<br>欢迎试听<br>2017-05-08 21:21<br>赞(0) 踩(0) | <div>这首听着就是特别舒服</div> |
@@ -283,7 +283,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1204321)<br><br>2014-06-04 22:46<br>赞(2) 踩(0) | <div>这首歌真是金海心的黑历史~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11947076)<br>let it be.<br>2014-11-10 13:53<br>赞(0) 踩(0) | <div>嗯？愿闻其详。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37177907)<br><br>2014-06-03 00:24<br>赞(1) 踩(0) | <div>被上帝亲吻过的喉咙！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11331677)<br><br>2014-05-05 09:46<br>赞(0) 踩(0) | <div>如果我能戒掉了思念就不会开在你的窗前</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11331677)<br><br>2014-05-05 09:46<br>赞(0) 踩(0) | <div>如果我能戒掉了思念<br>就不会开在你的窗前</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24627403)<br><br>2014-01-17 16:53<br>赞(0) 踩(0) | <div>腾讯的同步功能越来越强大，QQ音乐把我09年至以前收藏的歌曲同步过来了-，-。。这是其中一首，我很喜欢金海心捏~~~btw,在新浪要换虾米分享...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24627403)<br><br>2014-01-17 16:47<br>赞(0) 踩(0) | <div>腾讯的同步功能越来越强大，QQ音乐把我09年至以前收藏的歌曲同步过来了-，-。。这是其中一首，我很喜欢金海心捏~~~btw，在新浪还要换虾米分享...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24627403)<br><br>2014-01-17 16:40<br>赞(0) 踩(0) | <div>腾讯的同步功能越来越强大，QQ音乐把我09年至以前收藏的歌曲同步过来了-，-。。这是其中一首，我很喜欢金海心捏~~~</div> |
@@ -295,7 +295,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13558336)<br>伪名儒不如真名妓。<br>2013-10-23 13:45<br>赞(0) 踩(0) | <div>甜蜜而忧伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7479683)<br><br>2013-10-12 17:08<br>赞(0) 踩(0) | <div>老歌一首，但还是喜欢~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2448526)<br><br>2013-09-11 07:52<br>赞(0) 踩(0) | <div>很适合早晨听的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6296189)<br>可怜<br>2013-08-04 15:32<br>赞(0) 踩(0) | <div>如果你看穿我的思念 我就不会为你哭红双眼如果我能戒掉了思念 就不会开在你的窗前</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6296189)<br>可怜<br>2013-08-04 15:32<br>赞(0) 踩(0) | <div>如果你看穿我的思念 我就不会为你哭红双眼<br>如果我能戒掉了思念 就不会开在你的窗前</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16078791)<br>我还没想好要写什么...<br>2013-07-25 12:17<br>赞(0) 踩(0) | <div>你说.....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42347)<br>寻找无双<br>2013-07-25 10:25<br>赞(0) 踩(0) | <div>缺乏金海心的特色……这种歌换谁唱都一样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15965161)<br><br>2013-06-16 01:11<br>赞(0) 踩(0) | <div>如果你给我一双舞鞋，我就会为你长袖翩翩。如果你看穿我的思念，我就不会为你哭红双眼。如果我能戒掉了思念，就不会开在你的窗前。#听歌说晚安#</div> |
@@ -305,7 +305,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14050986)<br><br>2013-04-24 03:15<br>赞(0) 踩(0) | <div>一首歌，能坐下来，然后单曲循环</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5836407)<br><br>2013-04-18 22:07<br>赞(0) 踩(0) | <div>❤爱似水仙❤...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13437195)<br><br>2013-03-28 21:25<br>赞(0) 踩(0) | <div>轮回的路上没有如果 只有结果与后果</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12435080)<br><br>2013-01-17 06:25<br>赞(0) 踩(0) | <div>盛开在冬天的水仙你是否闻得到我的娇艳如果你给我一双舞鞋我就会为你长袖翩翩如果你看穿我的思念我就不会为你哭红双眼如果我能戒掉了思念就不会开在你的窗前</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12435080)<br><br>2013-01-17 06:25<br>赞(0) 踩(0) | <div>盛开在冬天的水仙<br>你是否闻得到我的娇艳<br>如果你给我一双舞鞋<br>我就会为你长袖翩翩<br>如果你看穿我的思念<br>我就不会为你哭红双眼<br>如果我能戒掉了思念<br>就不会开在你的窗前</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1889967)<br><br>2012-06-06 10:31<br>赞(0) 踩(0) | <div>爱似水仙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8811086)<br><br>2012-04-15 20:25<br>赞(0) 踩(0) | <div>还不错唱的挺好听就是有点复古</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3743747)<br>我是自己的快乐。<br>2011-10-23 22:38<br>赞(0) 踩(0) | <div>笑脸</div> |

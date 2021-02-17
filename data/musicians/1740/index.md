@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ee4b8b6138a094e2d83dc446eeec6066.jpg)<br>侃侃](https://i.xiami.com/kankan) | **播放数**: 42004226<br>**粉丝数**: 41642<br>**评论数**: 894<br>**地区**: China 中国大陆<br>**风格**: 城市民谣 Urban Folk, 民谣流行 Folk Pop<br> |
+| [![](../../images/musicians/ee4b8b6138a094e2d83dc446eeec6066.jpg)<br>侃侃](https://i.xiami.com/kankan) | **地区**: China 中国大陆<br>**风格**: 城市民谣 Urban Folk, 民谣流行 Folk Pop<br>**播放数**: 42004226<br>**粉丝数**: 41642<br>**评论数**: 894<br> |
 
 ## 档案
 
@@ -73,8 +73,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4198380)<br><br>2021-01-13 22:56<br>赞(0) 踩(0) | <div>网络情缘让我想起qq的初恋</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345748010)<br>自然<br>2021-01-08 21:39<br>赞(0) 踩(0) | <div>珍重</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280951595)<br><br>2020-10-31 20:23<br>赞(0) 踩(0) | <div>请问为什么我经常在歌舞厅或者某些网上搜索&amp;ldquo;网络情缘&amp;rdquo;这首歌搜不到&amp;ldquo;网上一个你，网上一个我&amp;rdquo;这首而是另外一首歌，是有别的名字吗？</div> |
@@ -152,7 +152,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369916936)<br><br>2018-05-21 13:57<br>赞(0) 踩(0) | <div>他的歌就是好听就是没dj的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206804754)<br><br>2018-05-19 20:55<br>赞(2) 踩(0) | <div>今天看了《中华情》，知道了你。最触动我的是和你一样的经历，我也是个外祖母一起长大的，有很多美好回忆。在她走的那天，我也很心痛。希望大家可以珍惜现在的人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363511680)<br><br>2018-05-05 09:09<br>赞(1) 踩(0) | <div>张姐姐您的歌怎么在QQ音乐上您的滴答怎么没有呀</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363452736)<br><br>2018-05-04 20:08<br>赞(0) 踩(0) | <div>侃侃这首滴答，对我来说听得太完美了，特别是我伤心的时候听到这首歌的时候我的眼泪都流来了，但是对我是一种疗伤吧，现在我都再学吉他滴答&amp;hellip;我太喜欢这首歌了，侃侃你能把你的滴答标准吉他谱给我吗？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363452736)<br><br>2018-05-04 20:08<br>赞(0) 踩(0) | <div>侃侃这首滴答，对我来说听得太完美了，特别是我伤心的时候听到这首歌的时候我的眼泪都流来了，但是对我是一种疗伤吧，现在我都再学吉他滴答&amp;hellip;我太喜欢这首歌了，侃<br>侃你能把你的滴答标准吉他谱给我吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276054175)<br><br>2018-04-23 19:11<br>赞(0) 踩(0) | <div>你把（爱的誓言）唱出了新的高度！！大赞！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355656727)<br><br>2018-04-23 12:27<br>赞(0) 踩(0) | <div>是的。听得旋律静流，心入思雨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294998461)<br> <br>2018-04-20 13:57<br>赞(1) 踩(0) | <div>突然发现是我们扬州人 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -170,7 +170,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50733634)<br><br>2017-11-12 20:03<br>赞(3) 踩(0) | <div>静静地听，画面一幅幅地出来，好极了！值得点赞！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1713558)<br>音乐——音之快乐<br>2017-10-31 14:07<br>赞(10) 踩(0) | <div>轰隆的雷声。滂沱的大雨。匆忙的脚步。一杯温暖的热茶。一个无人接听的电话。《滴答》就此营造了一种深夜怀人而不得的略带伤感和失落的气氛，令人在不经意间时常想起这旋律。第一次听到这歌声是在二○一二年和二○一三年那会儿，深入内心，难以忘怀。后来或者由于心境的转变，渐渐听得少了，到了昨天，忽然于无意中想起这《滴答》，仿佛又回到了五年前的夏天，于是忍不住再次聆听，收藏。经典的魅力之一就在于，无论时光如何流逝，她总会让你在某个平常日子里无端地忆起她，从而不由自主地通过她回味曾经的岁月……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6230129)<br>无我<br>2017-10-30 10:01<br>赞(4) 踩(0) | <div>宁静平淡侃侃而来。。。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9842933)<br><br>2017-10-27 23:18<br>赞(2) 踩(0) | <div>江苏扬州爱好：音乐喜欢的颜色：黑、白、所有美丽的颜色人生理想：平安、快乐一生星座：白羊生日：4月16日</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9842933)<br><br>2017-10-27 23:18<br>赞(2) 踩(0) | <div>江苏扬州<br>爱好：音乐<br>喜欢的颜色：黑、白、所有美丽的颜色<br>人生理想：平安、快乐一生<br>星座：白羊<br>生日：4月16日</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326520749)<br>nibiru<br>2017-10-26 06:24<br>赞(2) 踩(0) | <div>第一次聽到你歌，是五年前在雲南丽江。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298948030)<br>中國詩音樂電影创始人作曲...<br>2017-10-17 21:58<br>赞(0) 踩(0) | <div>你好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330303029)<br><br>2017-10-15 18:27<br>赞(0) 踩(0) | <div>喜欢你的歌</div> |
@@ -314,7 +314,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2833368)<br><br>2014-06-25 11:31<br>赞(0) 踩(0) | <div>声音好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4154642)<br><br>2014-04-30 18:19<br>赞(0) 踩(0) | <div>聆听的民谣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10435106)<br>听靓歌<br>2014-04-30 04:09<br>赞(0) 踩(0) | <div>不错。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31627975)<br>真想一觉醒来，我还在小学<br>2014-04-29 19:36<br>赞(0) 踩(0) | <div>《快乐时光》的  雨花石  唱的荡气回肠。《穿过生命散发的芬芳》的 蒲公英  蓝调也精彩</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31627975)<br>真想一觉醒来，我还在小学<br>2014-04-29 19:36<br>赞(0) 踩(0) | <div>《快乐时光》的  雨花石  唱的荡气回肠。<br>《穿过生命散发的芬芳》的 蒲公英  蓝调也精彩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34710805)<br><br>2014-04-28 08:52<br>赞(0) 踩(0) | <div>中国好歌手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3344334)<br><br>2014-04-21 23:42<br>赞(0) 踩(0) | <div>因为以前一个同事的铃声就是这个！！！不管是手机铃声还是接电话里的那铃声全是这首！！神烦！！害我跟她关系都要不好了！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6207905)<br>伊人在线君意天方<br>2014-03-31 13:16<br>赞(1) 踩(0) | <div>磁性的声音，准确的表达</div> |
@@ -380,7 +380,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199757)<br><br>2013-05-14 23:03<br>赞(1) 踩(0) | <div>原来网络情缘是她唱的？！瞬间石化</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375612)<br><br>2013-05-09 11:03<br>赞(0) 踩(0) | <div>流水一样~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4208003)<br><br>2013-05-08 10:55<br>赞(0) 踩(0) | <div>听她的歌，越听越凄凉，越听越难过。是那种无法释放悲伤的难过，彻心彻骨的悲凉。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2712532)<br><br>2013-04-24 22:22<br>赞(1) 踩(0) | <div>有故事 的人才能唱出如此韵味！不平的岁月打磨了一把中国好声音......好～！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2712532)<br><br>2013-04-24 22:22<br>赞(1) 踩(0) | <div>有故事 的人才能唱出如此韵味！<br><br>不平的岁月打磨了一把中国好声音......<br><br>好～！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16087745)<br><br>2013-06-18 14:43<br>赞(0) 踩(0) | <div>跟我想法一样；说的好；支持~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14010660)<br><br>2013-04-20 10:04<br>赞(0) 踩(0) | <div>空灵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6384389)<br>晨起 梳洗完毕 戴上耳机...<br>2013-04-16 00:46<br>赞(0) 踩(0) | <div>舞林争霸用了你两首歌了喂~~好好听</div> |
@@ -633,7 +633,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5445813)<br><br>2012-03-26 08:50<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5766470)<br><br>2012-03-25 13:32<br>赞(0) 踩(0) | <div>纯净的从心灵里流淌出来的呢喃</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6697322)<br><br>2012-03-25 12:53<br>赞(0) 踩(0) | <div>操 没什么好说的~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2187608)<br>我还没想好要写什么...<br>2012-03-25 02:08<br>赞(0) 踩(0) | <div>我怎么一听那个什么“ 嘀嗒 ”就浑身鸡皮疙瘩+上不来气？？？？？这首歌总感觉有许巍的影子在里面，不一样的是，这位姐姐一直在“抵达低哒底大弟大...” 就那么喜欢这句？？？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2187608)<br>我还没想好要写什么...<br>2012-03-25 02:08<br>赞(0) 踩(0) | <div>我怎么一听那个什么“ 嘀嗒 ”就浑身鸡皮疙瘩+上不来气？？？？？<br>这首歌总感觉有许巍的影子在里面，不一样的是，这位姐姐一直在“抵达低哒底大弟大...” 就那么喜欢这句？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2942039)<br><br>2012-03-24 23:16<br>赞(0) 踩(0) | <div>触动心灵最柔软的地方</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8578855)<br><br>2012-03-24 21:48<br>赞(0) 踩(0) | <div>一首嘀嗒，直到了侃侃，也听到了她的歌声.......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7058393)<br><br>2012-03-24 18:41<br>赞(0) 踩(0) | <div>清新淡雅</div> |
@@ -880,7 +880,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2354496)<br><br>2011-10-10 15:26<br>赞(0) 踩(0) | <div>去云南丽江，听了侃侃的歌，太好听了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6129339)<br><br>2011-10-10 12:00<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98855)<br>我还没想好要写什么...<br>2011-10-09 18:19<br>赞(0) 踩(0) | <div>很舒服的感觉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4279568)<br><br>2011-10-06 13:41<br>赞(0) 踩(0) | <div>淳厚特别的嗓音，的确有点小田震的味道但一些翻唱的歌曲的感情投入方面 似乎好像弱了点</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4279568)<br><br>2011-10-06 13:41<br>赞(0) 踩(0) | <div>淳厚特别的嗓音，的确有点小田震的味道<br>但一些翻唱的歌曲的感情投入方面 似乎好像弱了点</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5581194)<br><br>2011-10-04 20:26<br>赞(0) 踩(0) | <div>全世界都是她的歌！忘了她叫什么名字！虽然没机会去丽江，不过在09大学的第一次独自旅游的目的地——凤凰，依然听见了她的歌声，依旧动听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5427358)<br><br>2011-10-02 17:01<br>赞(0) 踩(0) | <div>丽江听到的，很喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6018526)<br><br>2011-09-30 15:00<br>赞(0) 踩(0) | <div>高强度的工作，让我空闲的时候听着音乐犹如一楼米细阳光·</div> |
@@ -918,7 +918,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4715614)<br><br>2011-07-02 18:44<br>赞(0) 踩(0) | <div>少见稍见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3891379)<br><br>2011-06-21 23:12<br>赞(0) 踩(0) | <div>侃侃的声音 有侃侃而谈人生的本领</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/618391)<br><br>2011-06-21 06:44<br>赞(0) 踩(0) | <div>大礼堂很好听，怎么没有阿</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4142395)<br><br>2011-06-15 20:31<br>赞(0) 踩(0) | <div>在丽江古城玩的时候，到处都是放的嘀答这首歌，当时就被震撼了，超好听啊还有一首回家（不是她的）也是到处放，喜欢啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4142395)<br><br>2011-06-15 20:31<br>赞(0) 踩(0) | <div>在丽江古城玩的时候，到处都是放的嘀答这首歌，当时就被震撼了，超好听啊<br><br>还有一首回家（不是她的）也是到处放，喜欢啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084550)<br><br>2011-06-13 08:48<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1435784)<br>我还没想好要写什么...<br>2011-06-10 11:57<br>赞(0) 踩(0) | <div>侃侃＂好棒好棒!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1661321)<br><br>2011-06-04 13:32<br>赞(0) 踩(0) | <div>嗯</div> |

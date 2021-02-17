@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406348765)<br>音乐陶冶情操、启迪智慧、...<br>2021-01-03 16:53<br>赞(4) 踩(0) | <div>因为未知，所以满怀期待，因为未知，内心平和，因为未知，心情美丽。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11264865)<br>暂无签名~<br>2020-11-01 01:49<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337757767)<br>人生永远没有太晚的开始<br>2020-08-29 12:21<br>赞(3) 踩(0) | <div>为自己</div> |
@@ -32,7 +29,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1776704)<br><br>2018-10-09 20:49<br>赞(2) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329413857)<br>你敬我一尺，我敬你。一生<br>2018-09-30 13:28<br>赞(3) 踩(0) | <div>加油啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354509155)<br>享受音乐＆歌曲，其他的～...<br>2018-09-24 13:13<br>赞(2) 踩(0) | <div>俏皮可爱 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296942773)<br>没什么大不了，活过而已。<br>2018-08-31 13:42<br>赞(3) 踩(0) | <div>去年到今年，一直小心翼翼。现在似乎又到了很多事情重新开始的时候。我想告诉我自己。要做一个快乐的人。而不是常常犹豫纠结不安。未知是恐惧，但也美丽。去年可以做到的，今年应该可以做到更好。想要再多读一些书，多明白一些道理。努力的复习考试，努力的工作。努力的生活，努力的学会开心。勇气很重要的，一定要勇敢。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296942773)<br>没什么大不了，活过而已。<br>2018-08-31 13:42<br>赞(3) 踩(0) | <div>去年到今年，一直小心翼翼。<br>现在似乎又到了很多事情重新开始的时候。<br>我想告诉我自己。要做一个快乐的人。<br>而不是常常犹豫纠结不安。<br>未知是恐惧，但也美丽。<br>去年可以做到的，今年应该可以做到更好。<br>想要再多读一些书，多明白一些道理。<br>努力的复习考试，努力的工作。<br>努力的生活，努力的学会开心。<br>勇气很重要的，一定要勇敢。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78482626)<br>chenchenho<br>2018-08-31 21:42<br>赞(0) 踩(0) | <div>加油!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348092159)<br>啦啦啦<br>2018-08-23 11:57<br>赞(4) 踩(0) | <div>啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378828215)<br><br>2018-07-27 05:50<br>赞(5) 踩(0) | <div>人生悲苦多于快乐，唯有美好的弦律永远温馨，在她的怀抱里融化自己，也不失遗憾</div> |
@@ -52,11 +49,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322515820)<br> <br>2017-11-22 19:58<br>赞(3) 踩(0) | <div>好听极了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7898225)<br><br>2017-10-26 12:25<br>赞(4) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207477079)<br>喜欢绘画喜欢纯音乐的想要...<br>2017-07-12 01:04<br>赞(10) 踩(0) | <div>好曲子，却太少人知道 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10244924)<br>夜空越黑 星星就越亮<br>2017-06-03 12:02<br>赞(2) 踩(0) | <div>未知带来距离感与美感长久的未知会带有副作用哦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10244924)<br>夜空越黑 星星就越亮<br>2017-06-03 12:02<br>赞(2) 踩(0) | <div>未知带来距离感与美感<br>长久的未知会带有副作用哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174108968)<br><br>2017-01-21 22:42<br>赞(10) 踩(0) | <div>想起了好多人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/152900684)<br><br>2016-05-15 09:40<br>赞(2) 踩(0) | <div>我也会时常因为未知而恐惧，我多少人有同感呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5383096)<br><br>2015-10-05 11:36<br>赞(2) 踩(0) | <div>選自[夢。馬](2014/2/20)-未知最美麗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52868849)<br>风潮音乐<br>2015-08-23 17:12<br>赞(17) 踩(0) | <div>牠不時回頭望我，當我快步趕上時，卻又小跑步超前。牠喜歡在我髮際磨蹭牠的臉，用鼻息弄亂我額前的頭髮，用身體推擠我的身體。我們做著彼此喜歡的小動作，像彼此的寵物，像彼此的收藏。你會一直在我身邊嗎？你會陪著我長大嗎？過去三年，我們一年一見，時間只讓我們更貼近，這樣的親暱是否直到永遠？我害怕失去，害怕夢中也有孤單，但害怕能留住你嗎？夢馬從不回答，沒有約定的年度會面，讓未知更美麗。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52868849)<br>风潮音乐<br>2015-08-23 17:12<br>赞(17) 踩(0) | <div>牠不時回頭望我，當我快步趕上時，卻又小跑步超前。<br>牠喜歡在我髮際磨蹭牠的臉，用鼻息弄亂我額前的頭髮，用身體推擠我的身體。<br>我們做著彼此喜歡的小動作，像彼此的寵物，像彼此的收藏。<br><br>你會一直在我身邊嗎？你會陪著我長大嗎？過去三年，我們一年一見，時間只讓我們更貼近，這樣的親暱是否直到永遠？我害怕失去，害怕夢中也有孤單，但害怕能留住你嗎？<br><br>夢馬從不回答，沒有約定的年度會面，讓未知更美麗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5539071)<br>一部分<br>2015-06-14 09:55<br>赞(2) 踩(0) | <div>设想今天80岁大寿，儿孙们都在期待你述说这辈子的故事……你会从“当我第一眼看见你们奶奶时……”开始，还是以“当年爷爷开创……”的成绩来篇，抑或就“爷爷这辈子很简单，一直就只为家打转……”来清淡诉说？你会怎么说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5624787)<br>时光如梭，生命如歌。<br>2014-04-18 15:07<br>赞(27) 踩(0) | <div>我因未知而恐惧，恐惧相遇，恐惧分离。我因未知而探寻，探寻远方，探寻踪迹。你对我说，姑娘啊，其实，未知最美丽......</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14223693)<br>错步插肩，千载落寞<br>2015-09-04 21:32<br>赞(0) 踩(0) | <div>你这评论写得真好！ <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |

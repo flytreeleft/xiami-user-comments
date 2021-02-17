@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3599edba0ca80848bbc93ea812d15c9c.jpg)<br>罗耀辉](https://i.xiami.com/luoyaohui) | **播放数**: 1520869<br>**粉丝数**: 90<br>**评论数**: 1<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/3599edba0ca80848bbc93ea812d15c9c.jpg)<br>罗耀辉](https://i.xiami.com/luoyaohui) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1520869<br>**粉丝数**: 90<br>**评论数**: 1<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -31,6 +28,6 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401651347)<br><br>2019-09-02 08:25<br>赞(0) 踩(0) | <div>挺感人的一首歌</div> |

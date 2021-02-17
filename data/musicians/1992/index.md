@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f0cdb943c160aedb47db680ef66c3f13.jpg)<br>麦洁文](https://i.xiami.com/kitman) | **播放数**: 5305696<br>**粉丝数**: 1976<br>**评论数**: 125<br>**地区**: Hong Kong ,PRC 中国香港<br>**风格**: 国语流行 Mandarin Pop, 粤语流行 Cantopop<br> |
+| [![](../../images/musicians/f0cdb943c160aedb47db680ef66c3f13.jpg)<br>麦洁文](https://i.xiami.com/kitman) | **地区**: Hong Kong ,PRC 中国香港<br>**风格**: 国语流行 Mandarin Pop, 粤语流行 Cantopop<br>**播放数**: 5305696<br>**粉丝数**: 1976<br>**评论数**: 125<br> |
 
 ## 档案
 
@@ -35,13 +35,13 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-07-01 08:05<br>赞(0) 踩(0) | <div>粤语魅力女声20200701</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341370966)<br><br>2020-05-16 19:28<br>赞(0) 踩(0) | <div>词曲演唱一并统统最爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285049703)<br>陈惠娜<br>2020-05-15 17:24<br>赞(0) 踩(0) | <div>因为你老公才听你的歌，没別的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12221090)<br>逍遥于天地而心意自得<br>2020-05-10 22:12<br>赞(1) 踩(0) | <div>赞</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430475906)<br><br>2020-03-20 14:37<br>赞(1) 踩(0) | <div>我记得我小时候听的&amp;ldquo;阳光下的孩子&amp;rdquo;是多么的高兴和喜欢。时光飞逝，不惑之年，每听到这歌，仿佛回到童年！感谢！（另，八卦新闻说你的护士儿子很棒！肯定是你们功不可没！）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430475906)<br><br>2020-03-20 14:37<br>赞(1) 踩(0) | <div>我记得我小时候听的&amp;ldquo;阳光下的孩子&amp;rdquo;是多么的高兴和喜欢。<br>时光飞逝，不惑之年，每听到这歌，仿佛回到童年！<br>感谢！<br>（另，八卦新闻说你的护士儿子很棒！肯定是你们功不可没！）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420168309)<br><br>2019-12-19 12:46<br>赞(0) 踩(0) | <div>好听，赞一个 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230803304)<br>三观正又爱国的成都宝藏男...<br>2019-12-13 15:43<br>赞(0) 踩(0) | <div>嫂嫂的歌带给了我们快乐和正能量</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230803304)<br>三观正又爱国的成都宝藏男...<br>2019-11-30 14:33<br>赞(0) 踩(0) | <div>给嫂嫂几个小红花</div> |
@@ -80,7 +80,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357292131)<br>好歌不厌百回听<br>2018-08-14 19:52<br>赞(2) 踩(0) | <div>揭命，Kit Man，麦洁文，江华的雌老虎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307263445)<br><br>2018-07-25 19:58<br>赞(3) 踩(0) | <div>莱茵河畔是一首很经典的歌 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307263445)<br><br>2018-07-25 19:36<br>赞(2) 踩(0) | <div>我很爱听她的歌，并且还留有磁带，</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1746570)<br>寧静致遠<br>2018-06-20 12:56<br>赞(1) 踩(0) | <div>Album<a href="https://img.xiami.net/images/collect_pic/06-20/1529467923_rbdE.jpg" target="_blank" rel="nofollow noreferrer noopener">https://img.xiami.net/images/collect_pic/06-20/1529467923_rbdE.jpg</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1746570)<br>寧静致遠<br>2018-06-20 12:56<br>赞(1) 踩(0) | <div>Album<br><br><a href="https://img.xiami.net/images/collect_pic/06-20/1529467923_rbdE.jpg" target="_blank" rel="nofollow noreferrer noopener">https://img.xiami.net/images/collect_pic/06-20/1529467923_rbdE.jpg</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1746570)<br>寧静致遠<br>2018-06-20 12:51<br>赞(2) 踩(0) | <div>站错队好大锅架！麥潔文6月15日，晚上到红磡体育馆欣赏张敬轩演唱会2018。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18444251)<br>左影右书，音乐居其中！<br>2018-05-24 21:32<br>赞(2) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230803304)<br>三观正又爱国的成都宝藏男...<br>2018-01-14 11:02<br>赞(2) 踩(0) | <div>支持嫂嫂</div> |
@@ -159,6 +159,6 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6198419)<br><br>2011-10-11 00:25<br>赞(1) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5580038)<br><br>2011-09-03 12:18<br>赞(0) 踩(0) | <div>要是薛莹唱的就好了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5521506)<br>每一首音乐都是一种思想....<br>2011-08-22 17:15<br>赞(3) 踩(0) | <div>麦洁文大姐  唱功一流啊  多音域歌手   好歌经典太多了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111193)<br>微信号toogo1<br>2011-07-12 22:03<br>赞(1) 踩(0) | <div><a href="http://www.xiami.com/group/111" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/111</a>屏58 人山人海虾米小组<a href="http://www.xiami.com/group/111" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/111</a>蔽59 我们的八十年代虾米小组<a href="http://www.xiami.com/group/11192" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/11192</a> 意难平虾米小组<a href="http://www.xiami.com/group/11337" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/11337</a> 电光幻影虾米小组<a href="http://www.xiami.com/group/11168" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/11168</a> 真情佛山虾米小组欢迎友良知的你加入！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111193)<br>微信号toogo1<br>2011-07-12 22:03<br>赞(1) 踩(0) | <div><a href="http://www.xiami.com/group/111" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/111</a>屏58 人山人海虾米小组<br><a href="http://www.xiami.com/group/111" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/111</a>蔽59 我们的八十年代虾米小组<br><a href="http://www.xiami.com/group/11192" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/11192</a> 意难平虾米小组<br><a href="http://www.xiami.com/group/11337" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/11337</a> 电光幻影虾米小组<br><a href="http://www.xiami.com/group/11168" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/11168</a> 真情佛山虾米小组<br>欢迎友良知的你加入！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3395113)<br> <br>2011-04-28 21:16<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2460296)<br>行到水窮處 坐看云起時<br>2011-04-15 18:35<br>赞(17) 踩(0) | <div>香港无线剧集很多主题歌都是她来主唱，顾嘉辉的得意门徒！</div> |

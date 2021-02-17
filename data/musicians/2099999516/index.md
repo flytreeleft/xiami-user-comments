@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c96f0b92fbda8eca22e99d24413ff876.jpg)<br>高宇Slient](https://i.xiami.com/gaoyu) | **播放数**: 3316028<br>**粉丝数**: 191<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 老派说唱 Old-school Hip Hop, 流行说唱 Pop Rap, 流行 Pop<br> |
+| [![](../../images/musicians/c96f0b92fbda8eca22e99d24413ff876.jpg)<br>高宇Slient](https://i.xiami.com/gaoyu) | **地区**: China 中国大陆<br>**风格**: 老派说唱 Old-school Hip Hop, 流行说唱 Pop Rap, 流行 Pop<br>**播放数**: 3316028<br>**粉丝数**: 191<br>**评论数**: 7<br> |
 
 ## 档案
 
@@ -96,8 +96,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/906190)<br> <br>2019-01-13 22:48<br>赞(0) 踩(0) | <div>加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36481311)<br>网易云账号:ZACOBO...<br>2018-08-25 13:23<br>赞(1) 踩(0) | <div>找幼稚园杀手怎么跳到这个页面了。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247220777)<br>平凡的挣扎没人歌颂<br>2017-04-13 22:07<br>赞(0) 踩(0) | <div>讲真的   每一首都特别用心</div> |

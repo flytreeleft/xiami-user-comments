@@ -63,8 +63,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329154635)<br>耳朵里的文化才是真正的神...<br>2019-06-19 07:17<br>赞(0) 踩(0) | <div>人到近中年，三味责任。对父母，对自己，对夫妻子女。这就是平凡人一生的使命。不会觉得自己还有过多与众不同。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329154635)<br>耳朵里的文化才是真正的神...<br>2019-06-19 07:06<br>赞(0) 踩(0) | <div>这就是文青时期沉溺于小情小续，缺乏一种对时间和社会的融入感。刚于这样社会接触时期的排抵，就是这样的文青的年纪和想法。一旦过了这年纪，你就会意识到这就是青涩的幼稚和叛逆而已。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425812753)<br><br>2020-10-01 18:09<br>赞(0) 踩(0) | <div>如果融入社会就要变得油腻庸俗，那我还是不要融入了。</div> |
@@ -79,7 +79,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7811830)<br><br>2015-05-21 10:00<br>赞(1) 踩(0) | <div>有些歌手有些歌是专属于夏天班长曹方就是属于夏天的歌者</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31295504)<br>暂无签名~<br>2014-08-28 16:09<br>赞(1) 踩(0) | <div>滴答的时间、滴答的雨，心情一下就好了_</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31602477)<br><br>2014-02-05 04:30<br>赞(0) 踩(0) | <div>好听~k314p这个塞子很亲曹方的声音~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4027284)<br><br>2013-06-11 00:00<br>赞(0) 踩(0) | <div>我们都不了解时间我们只是为了方便</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4027284)<br><br>2013-06-11 00:00<br>赞(0) 踩(0) | <div>我们都不了解时间<br>我们只是为了方便</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24096860)<br><br>2014-05-13 12:02<br>赞(0) 踩(0) | <div>不是很懂，求解这句话的含义。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206238326)<br><br>2018-02-05 22:48<br>赞(0) 踩(0) | <div>虚度时间，为了自己的欲望肆意造作，让自己后悔不堪。时间的真实意义是彻悟生命的本来面目。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3462639)<br><br>2013-04-09 21:12<br>赞(0) 踩(0) | <div>ICY的新歌~：）</div> |

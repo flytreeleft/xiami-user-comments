@@ -42,15 +42,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291830383)<br><br>2020-09-16 20:34<br>赞(0) 踩(0) | <div>这首歌太特么有女人味儿了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408638872)<br>我还没想好要写什么...<br>2020-08-10 08:15<br>赞(1) 踩(0) | <div>不得不说，二狗的阴阳先生真的很好，愿意为了播讲的一本书，而喜欢上里面的插曲，就说明一切了，尤其是那首贯彻整个故事的爱尔兰风笛曲目！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11966842)<br>人不到伤痕累累就不会懂得...<br>2020-08-03 02:17<br>赞(0) 踩(0) | <div>末代乐人，生不逢时</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4113881)<br><br>2020-05-21 12:55<br>赞(4) 踩(0) | <div>好听  <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34587620)<br>单身…………挺好的<br>2020-04-21 09:30<br>赞(1) 踩(0) | <div>五弊三缺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411931352)<br>我还没想好要写什么...<br>2020-03-20 23:01<br>赞(1) 踩(0) | <div>声音很好。。。。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319192783)<br>別慌 月亮也在大海某處迷...<br>2020-03-19 21:25<br>赞(0) 踩(0) | <div>高中只是觉得好听长大了才明白一点也不好听 越听越心痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319192783)<br>別慌 月亮也在大海某處迷...<br>2020-03-19 21:25<br>赞(0) 踩(0) | <div>高中只是觉得好听<br>长大了才明白一点也不好听 越听越心痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24780734)<br>80后<br>2020-03-19 07:10<br>赞(1) 踩(0) | <div>打卡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378876293)<br><br>2020-03-17 01:08<br>赞(3) 踩(0) | <div>五弊三缺 他大爷的 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/150336764)<br><br>2020-03-08 15:29<br>赞(2) 踩(0) | <div>妈的，听到2分20秒，吓得老子魂儿都飞了，正在专心看书，突然。。。</div> |
@@ -60,7 +60,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16387670)<br><br>2020-01-21 23:59<br>赞(2) 踩(0) | <div>郁可唯唱歌真心不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98372784)<br>我们从未不认识<br>2020-01-04 09:32<br>赞(1) 踩(0) | <div>太喜欢了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203718067)<br>神马都是浮云<br>2019-12-09 23:23<br>赞(3) 踩(0) | <div>林忆莲之后，滚石唯一指望延续香火的超级女声！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40344613)<br><br>2019-10-31 21:04<br>赞(1) 踩(0) | <div>爱的不够的人 只喜欢我笑这就是不能同甘共苦吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40344613)<br><br>2019-10-31 21:04<br>赞(1) 踩(0) | <div>爱的不够的人 只喜欢我笑<br><br>这就是不能同甘共苦吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248023609)<br><br>2019-08-07 13:03<br>赞(2) 踩(0) | <div>要怎样学会控制我的悲伤，要怎样学会快乐的技能，要怎样才能放下你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343365031)<br>倾听别人的声音<br>2019-05-26 06:10<br>赞(2) 踩(0) | <div>？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370887159)<br><br>2019-04-17 16:33<br>赞(1) 踩(0) | <div>眼泪可以不多也不少</div> |
@@ -90,7 +90,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47705147)<br>惟德动天，无远弗届，满招...<br>2018-09-08 12:19<br>赞(1) 踩(0) | <div>有句話「沈默，是一個人最大的哭聲。」意思是說，人之所以沈默，是被生活抹去了稜角，是對世界的一種妥協，是一件很可悲的事情。我卻覺得，如果你越來越沈默，越來越不想說，這不是懦弱，不是妥協，而是意味著，你看淡了很多事，看輕了很多人，你變得越來越成熟。明亮而不刺眼，柔軟卻很有力量。與其看清不如看輕，與其看透不如看淡。釋然。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/372592349)<br>再怎么不舍 再怎么喜欢 ...<br>2018-08-23 08:45<br>赞(0) 踩(0) | <div>快乐要懂悲伤的技巧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242507629)<br>分享，只是为了养虾米献爱...<br>2018-07-24 23:14<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/53376b15f77ae122bdb1ed308546bbcb.png"> <img src="../../../../images/comments/53376b15f77ae122bdb1ed308546bbcb.png"> <img src="../../../../images/comments/53376b15f77ae122bdb1ed308546bbcb.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254779889)<br><br>2018-05-29 12:17<br>赞(1) 踩(0) | <div>怎么这首歌的歌词那么适合我的感受'爱得不够的情人 只喜欢我笑别哭得太早 我终于开窍想快乐竟然要懂悲伤的技巧'林夕你好厉害!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254779889)<br><br>2018-05-29 12:17<br>赞(1) 踩(0) | <div>怎么这首歌的歌词那么适合我的感受<br>'爱得不够的情人 只喜欢我笑<br>别哭得太早 我终于开窍<br>想快乐竟然要懂悲伤的技巧'<br><br>林夕你好厉害!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15035963)<br><br>2018-05-16 02:43<br>赞(0) 踩(0) | <div>签到时间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358560002)<br><br>2018-05-14 19:42<br>赞(2) 踩(0) | <div>对对对!阴阳先生!191集结尾</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367189974)<br><br>2018-05-14 22:44<br>赞(0) 踩(0) | <div>全集194集真的很好听，我听了三遍了</div> |
@@ -116,7 +116,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257612668)<br><br>2018-02-09 12:00<br>赞(0) 踩(0) | <div>^O^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28858646)<br>我还没想好要写什么...<br>2018-02-09 06:45<br>赞(0) 踩(0) | <div>分享  郁可唯 的歌曲《失恋事小》<a href="https://www.xiami.com/song/1771187466?_uxid=B1931CD3DC31EE13B97ABA0FC3754678" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/1771187466?_uxid=B1931CD3DC31EE13B97ABA0FC3754678</a> (分享自@虾米音乐)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140033252)<br><br>2018-02-03 09:40<br>赞(0) 踩(0) | <div>太会唱情歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127681524)<br>名红宇，字孞焱<br>2018-01-18 21:01<br>赞(2) 踩(0) | <div>[cp]分享  郁可唯 的歌曲《失恋事小》<a href="http://t.cn/RJw1T9N" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/RJw1T9N</a> (分享自@虾米音乐)正在听张二狗演播的《我当阴阳先生的那几年》，第191集_我当阴阳先生的那几年<a href="http://t.cn/R5DG9BL" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/R5DG9BL</a> （来自@懒人听书微博，带你#解放双眼，畅听世界#）小说终于还有三集就听完了，最后却让人听的催泪难受，命运不可逆，顺其自然，一切随缘今天因为借呗已经让我刚有点欣慰，可是，或许是这首歌曲在此时配的&amp;hellip;&amp;hellip;[悲伤][泪]，人生最难的莫过于&amp;rarr;选择&amp;hellip;&amp;hellip;顺着天意做事，逆着个性做人，致自己[haha][/cp]</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127681524)<br>名红宇，字孞焱<br>2018-01-18 21:01<br>赞(2) 踩(0) | <div>[cp]分享  郁可唯 的歌曲《失恋事小》<a href="http://t.cn/RJw1T9N" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/RJw1T9N</a> (分享自@虾米音乐)<br>正在听张二狗演播的《我当阴阳先生的那几年》，第191集_我当阴阳先生的那几年<br><a href="http://t.cn/R5DG9BL" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/R5DG9BL</a> （来自@懒人听书微博，带你#解放双眼，畅听世界#）<br><br>小说终于还有三集就听完了，最后却让人听的催泪难受，命运不可逆，顺其自然，一切随缘<br>今天因为借呗已经让我刚有点欣慰，可是，或许是这首歌曲在此时配的&amp;hellip;&amp;hellip;[悲伤][泪]，人生最难的莫过于&amp;rarr;选择&amp;hellip;&amp;hellip;顺着天意做事，逆着个性做人，致自己[haha][/cp]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269494502)<br><br>2018-01-07 18:45<br>赞(7) 踩(0) | <div>还真是阴阳先生带我来听的 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341292922)<br><br>2018-01-05 23:12<br>赞(3) 踩(0) | <div>听了《我当阴阳先生的那几年》，爱上了这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315666417)<br><br>2018-01-04 23:01<br>赞(0) 踩(0) | <div>大家好我是东北一绝</div> |
@@ -141,7 +141,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6248256)<br><br>2017-10-30 10:18<br>赞(2) 踩(0) | <div>新专辑主打，果然还是林夕最毒~！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15778423)<br>找一个只有自己的角落～<br>2017-10-28 00:20<br>赞(3) 踩(0) | <div>最近好爱听郁可唯，好爱听林凡，好爱听苦情歌，我特么有病啊？！自虐啊？！话说她们的歌就是会唱的你心疼啊喂～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15778423)<br>找一个只有自己的角落～<br>2017-10-28 00:20<br>赞(2) 踩(0) | <div>最近好爱听郁可唯，好爱听林凡，好爱听苦情歌，我特么有病啊！自虐啊！话说她们的个就是会唱的你心疼。“不想大吵大闹只想有人抱。想要快乐竟然要懂悲伤的技巧。”前言不搭后语是种病</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2137849)<br>be better<br>2017-10-28 00:19<br>赞(1) 踩(0) | <div>爱得不够的情人，只喜欢我笑林夕的词，美如画，润入肺，甜浸心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2137849)<br>be better<br>2017-10-28 00:19<br>赞(1) 踩(0) | <div>爱得不够的情人，只喜欢我笑<br>林夕的词，美如画，润入肺，甜浸心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9845190)<br><br>2017-10-28 00:11<br>赞(2) 踩(0) | <div>喜欢一首歌总有理由。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2440801)<br><br>2017-10-27 23:21<br>赞(1) 踩(0) | <div>林夕的词，总是看着那么。。。触目惊心。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7276376)<br>一种享受、一种表达<br>2017-10-27 23:04<br>赞(1) 踩(0) | <div>从《微加幸福》开始，喜欢上这郁可唯，每张专辑总有几首歌令人感动、让人反复细听，也喜欢这张专辑的《放不下》</div> |
@@ -188,7 +188,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277245480)<br> <br>2017-07-13 15:10<br>赞(1) 踩(0) | <div>去你大爷的命运&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253087954)<br><br>2017-07-02 20:05<br>赞(3) 踩(0) | <div>这首歌感情太足了 那么多歌感觉这首歌我唯好用力</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38214117)<br><br>2017-07-02 10:59<br>赞(0) 踩(0) | <div>谁说失恋事小，</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286801836)<br><br>2018-09-30 04:38<br>赞(0) 踩(0) | <div>不是我說的！我認為事大，不！事小, 事小！不對，還是大的，大的....大的。是，是...是不大也不小。媽的！真煩死人啦！以後誰都不準失戀！！</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286801836)<br><br>2018-09-30 04:38<br>赞(0) 踩(0) | <div>不是我說的！我認為事大，不！事小, 事小！<br>不對，還是大的，大的....大的。是，是...是不大也不小。媽的！真煩死人啦！以後誰都不準失戀！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299686904)<br><br>2017-07-01 20:13<br>赞(4) 踩(0) | <div>所以大家说的《我当阴阳先生那几年》是首歌还是个小说呢？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278443937)<br><br>2017-07-05 17:27<br>赞(0) 踩(0) | <div>小说 灵异小说</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166818766)<br><br>2017-09-07 08:11<br>赞(0) 踩(0) | <div>很好看的一部小说，建议去喜马拉雅听张二狗主播的这本小说</div> |
@@ -205,7 +205,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304929907)<br><br>2017-06-16 13:59<br>赞(0) 踩(0) | <div>会的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304929907)<br><br>2017-06-16 13:59<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42338402)<br><br>2017-06-13 22:28<br>赞(3) 踩(0) | <div>得之我幸，失之我命。喜欢郁可唯的这首歌，触碰心底&amp;hellip;&amp;hellip; <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286801836)<br><br>2018-09-30 08:21<br>赞(0) 踩(0) | <div>也不一定是命運的安排。自己凡事小心點就是。一見鐘情的愛，看似浪漫，卻是原始的衝動的，最容易出錯，到時悔不當初。'小心觀察對方的行為，思想，留意自己愛應，仔細考慮自己能否接受，千萬不能感情用事，或期望能改變對方的想法，行為。據眾多心理學家，及家庭輔導收集的資料，研究所得，除非當事人自發的改變，誰都不喜歡，也不容易被人改變，特別是生活上的壞習慣，可惜這些小小不同的習慣，時常是結婚的摧化劑，因為這是日積月累的忍讓，細水長流，忍無可時，就好火山爆發，不可收拾。願各位嗲記。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286801836)<br><br>2018-09-30 08:21<br>赞(0) 踩(0) | <div>也不一定是命運的安排。自己凡事小心點就是。<br>一見鐘情的愛，看似浪漫，卻是原始的衝動的，<br>最容易出錯，到時悔不當初。'小心觀察對方的行為，思想，留意自己愛應，仔細考慮自己能否接受，千萬不能感情用事，或期望能改變對方的想法，行為。據眾多心理學家，及家庭輔導收集的資料，研究所得，除非當事人自發的改變，誰都不喜歡，也不容易被人改變，特別是生活上的壞習慣，可惜這些小小不同的習慣，時常是結婚的摧化劑，因為這是日積月累的忍讓，細水長流，忍無可時，就好火山爆發，不可收拾。願各位嗲記。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286801836)<br><br>2018-09-30 11:44<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51667076)<br>起风了，唯有努力生存。<br>2017-06-12 19:57<br>赞(2) 踩(0) | <div>爱的不够的情人只喜欢我笑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51667076)<br>起风了，唯有努力生存。<br>2017-06-12 19:56<br>赞(0) 踩(0) | <div>他说今晚会来找我</div> |
@@ -231,7 +231,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274545259)<br><br>2017-06-04 18:18<br>赞(0) 踩(0) | <div>真心好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13184312)<br><br>2017-06-03 13:15<br>赞(1) 踩(0) | <div>崔做非，最后两个就一个，真虐心！再配上音乐，太经典了！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13184312)<br><br>2017-06-03 13:11<br>赞(0) 踩(0) | <div>我当阴阳先生那几年 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">，哈哈，追歌，配上故事果然经典，煽情</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299278106)<br><br>2017-06-01 21:34<br>赞(4) 踩(0) | <div>日有纷纷梦神魂预吉凶庄生虚化蝶吕望兆飞熊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299278106)<br><br>2017-06-01 21:34<br>赞(4) 踩(0) | <div>日有纷纷梦<br>神魂预吉凶<br>庄生虚化蝶<br>吕望兆飞熊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54745544)<br>优秀不够，你是否无可替代...<br>2017-08-26 18:08<br>赞(0) 踩(0) | <div>文叔你个老神棍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299005375)<br><br>2017-05-30 20:16<br>赞(1) 踩(0) | <div>他大爷的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289588410)<br>这些错 我....才不负...<br>2017-05-27 08:05<br>赞(1) 踩(0) | <div>她的声音是那么的细腻 听她的每一首歌 总能勾起我的回忆 是甜 是苦 歌词里都能诠释给你听</div> |
@@ -467,7 +467,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3448399)<br> <br>2015-01-01 21:36<br>赞(21) 踩(0) | <div>我觉得这首可以称作郁可唯的神曲 没有一首歌能代替这首在我心中位置 她唱到心坎坎去了 可惜没大火 比时间煮雨更能说是她的代表作</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43452916)<br>我还没想好要写什么...<br>2014-12-12 15:19<br>赞(2) 踩(0) | <div>这首我愿意单曲循环366天~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42588212)<br><br>2014-11-07 19:26<br>赞(0) 踩(0) | <div>情绪都控制不了，谁敢来打扰。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2014-11-04 15:19<br>赞(3) 踩(0) | <div>谁说失恋事小　失去才知道情绪都控制不了 谁敢来打扰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2014-11-04 15:19<br>赞(3) 踩(0) | <div>谁说失恋事小　失去才知道<br>情绪都控制不了 谁敢来打扰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21157616)<br>如果有些歌始终没唱<br>2014-11-03 00:33<br>赞(84) 踩(0) | <div>这首歌估计只有郁可唯能hold住了，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15512106)<br><br>2014-10-12 15:17<br>赞(3) 踩(0) | <div>郁可唯唱歌真的好好听啊 夕爷作给她的词两首质量都很高啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4255664)<br><br>2014-08-30 15:29<br>赞(0) 踩(0) | <div>生了病赶忙吃药　因为上班要起早</div> |
@@ -500,7 +500,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12574334)<br><br>2013-05-08 00:01<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11594981)<br>快不快乐有天总过去<br>2013-05-03 17:15<br>赞(0) 踩(0) | <div>2012</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7984833)<br>我还没想好要写什么...<br>2013-04-08 20:33<br>赞(0) 踩(0) | <div>生了病趕忙吃藥，不想大吵大鬧，只想有人抱。別哭的太早，想快樂竟然要懂悲傷的技巧。不想活陳腔濫調，把朋友都嚇跑，如果笑還不夠累，哭道精力全消耗，能把淚點調整得剛剛好。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9100344)<br><br>2013-04-04 15:07<br>赞(0) 踩(0) | <div>情绪都控制不了，谁敢来打扰。有爱我的人，有条件胡闹。想怎样，怎么样都讨好。爱得不够的情人，只喜欢我笑。别哭得太早，我终于开窍。如果笑还不够累，哭到精力全消耗。能把泪点都调整得刚刚好，就能睡得着。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9100344)<br><br>2013-04-04 15:07<br>赞(0) 踩(0) | <div>情绪都控制不了，谁敢来打扰。有爱我的人，有条件胡闹。想怎样，怎么样都讨好。<br><br>爱得不够的情人，只喜欢我笑。别哭得太早，我终于开窍。如果笑还不够累，哭到精力全消耗。能把泪点都调整得刚刚好，就能睡得着。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13736976)<br><br>2013-03-30 10:36<br>赞(0) 踩(0) | <div>不错不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2738075)<br><br>2013-02-06 02:47<br>赞(1) 踩(0) | <div>想快乐竟然要先懂悲伤的技巧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11086649)<br>给你爱和光<br>2013-01-01 11:47<br>赞(0) 踩(0) | <div>失恋 事小</div> |
@@ -523,9 +523,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8975972)<br><br>2012-09-08 22:18<br>赞(0) 踩(0) | <div>很好听哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3864153)<br> <br>2012-09-05 20:01<br>赞(0) 踩(0) | <div>我以前对快女之类的有偏见 但是郁可唯真的唱得不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7989052)<br><br>2012-09-04 22:11<br>赞(0) 踩(0) | <div>谁说失恋事小</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10481756)<br><br>2012-09-04 15:41<br>赞(0) 踩(0) | <div>如果笑还不够累　哭到精力全消耗能把泪点都调整得刚刚好　就能睡得着</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10481756)<br><br>2012-09-04 15:41<br>赞(0) 踩(0) | <div>如果笑还不够累　哭到精力全消耗<br>能把泪点都调整得刚刚好　就能睡得着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1418400)<br>我还没想好要写什么...<br>2012-09-04 14:05<br>赞(0) 踩(0) | <div>不想大吵大闹 只想有人抱 爱得不够的情人 只喜欢我笑 别哭得太早 我终于开窍  想快乐竟然要懂得悲伤的技巧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8116719)<br><br>2012-09-02 01:43<br>赞(0) 踩(0) | <div>誰說失戀事小　失去才知道情緒都控制不了　誰敢來打擾有愛我的人　有條件胡鬧想怎樣　怎麼樣都討好不想大吵大鬧　只想有人抱愛得不夠的情人　只喜歡我笑別哭得太早　我終於開竅想快樂　竟然要懂得 悲傷的技巧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8116719)<br><br>2012-09-02 01:43<br>赞(0) 踩(0) | <div>誰說失戀事小　失去才知道<br>情緒都控制不了　誰敢來打擾<br>有愛我的人　有條件胡鬧<br>想怎樣　怎麼樣都討好<br>不想大吵大鬧　只想有人抱<br>愛得不夠的情人　只喜歡我笑<br>別哭得太早　我終於開竅<br>想快樂　竟然要懂得 悲傷的技巧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4073814)<br><br>2012-09-01 20:39<br>赞(0) 踩(0) | <div>郁可唯的声音还是不错 的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289104)<br><br>2012-08-31 13:57<br>赞(0) 踩(0) | <div>那多故事，说多了，误会也多，懂我的人懂得我的故事是什么，不懂的，谢谢你们的包容！情绪都控制不好的人，谁都不敢来打扰~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10336031)<br>等待花开，记忆填白。<br>2012-08-30 21:04<br>赞(0) 踩(0) | <div>好听</div> |
@@ -545,7 +545,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3811653)<br>虾米，最好的陪伴<br>2012-08-26 10:44<br>赞(0) 踩(0) | <div>8月23日郁可唯的新专辑发布.这首主打歌送给喜欢她的某人:)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10363473)<br><br>2012-08-25 17:53<br>赞(0) 踩(0) | <div>接受新的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8682820)<br><br>2012-08-24 21:08<br>赞(0) 踩(0) | <div>台湾乐坛耽误了许许多多好歌者啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2012-08-24 20:56<br>赞(0) 踩(0) | <div>谁说失恋事小，失去才知道，情绪都控制不了，谁敢来打扰，有爱我的人，有条件胡闹，想怎样，怎么样都讨好。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2012-08-24 20:56<br>赞(0) 踩(0) | <div>谁说失恋事小，失去才知道，<br>情绪都控制不了，谁敢来打扰，<br>有爱我的人，有条件胡闹，<br>想怎样，怎么样都讨好。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3761932)<br><br>2012-08-24 16:01<br>赞(0) 踩(0) | <div>这个，旋律不错，不过和薛凯琪的《天国的微笑》蛮相似。另外，填词的林夕，已然成为一个传说，忽略吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1342)<br>活像个孤独患者，自我拉扯<br>2012-08-24 15:47<br>赞(0) 踩(0) | <div>林夕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10231161)<br><br>2012-08-24 13:53<br>赞(0) 踩(0) | <div>想快乐 要先懂得悲伤的技巧</div> |
@@ -567,11 +567,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3808698)<br><br>2012-08-07 00:44<br>赞(0) 踩(0) | <div>#林夕# #失恋事小# #郁可唯#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7080969)<br>我最是明眸皓齿我最是青春...<br>2012-08-03 13:25<br>赞(1) 踩(0) | <div>悲伤人啊，过去的你已骚扰不了，未来的你骚扰不到。看看你的脚下，是否躺着那被你称作真爱的外套。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1626999)<br><br>2012-08-07 14:05<br>赞(0) 踩(0) | <div>对的好！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5947658)<br>现实。<br>2012-08-03 09:26<br>赞(0) 踩(0) | <div>谁说失恋事小 失去才知道情绪都控制不了 谁敢来打扰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5947658)<br>现实。<br>2012-08-03 09:26<br>赞(0) 踩(0) | <div>谁说失恋事小 失去才知道<br>情绪都控制不了 谁敢来打扰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8936008)<br>宁静 勇敢<br>2012-07-31 09:58<br>赞(0) 踩(0) | <div>干净又充满力量的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6343255)<br><br>2012-07-30 16:20<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/447347)<br>u jump i jum...<br>2012-07-29 00:03<br>赞(0) 踩(0) | <div>失去他埋头苦恼　因为发泄有疗效 生了病赶忙吃药　因为上班要起早 可以哭却选择笑  不想让他太骄傲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6899190)<br><br>2012-07-28 23:59<br>赞(0) 踩(0) | <div>谁说失恋事小　失去才知道 情绪都控制不了 谁敢来打扰 有爱我的人 有条件胡闹想怎样 怎么样都讨好 不想大吵大闹　只想有人抱 爱得不够的情人　只喜欢我笑 别哭得太早　我终于开窍 想快乐竟然要懂得悲伤的技巧 @从今往后只爱自己的崔小懒 everything will be fine~here i am</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6899190)<br><br>2012-07-28 23:59<br>赞(0) 踩(0) | <div>谁说失恋事小　失去才知道 情绪都控制不了 谁敢来打扰 有爱我的人 有条件胡闹<br>想怎样 怎么样都讨好 不想大吵大闹　只想有人抱 爱得不够的情人　只喜欢我笑 别哭得太早　我终于开窍 想快乐竟然要懂得悲伤的技巧 @从今往后只爱自己的崔小懒 everything will be fine~here i am</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5507573)<br>流行、抒情、节奏感、<br>2012-07-26 10:07<br>赞(1) 踩(0) | <div>《眼泪可以调教，不多也不能少，可能要熟能生巧，才能做得到，谁说失恋事小，失去才知道，情绪谁都控制不赖，谁敢来打扰，有爱我的人，有条件胡闹，想怎样，怎么样都讨好》 郁可唯的（失恋事小）。深情感伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/575524)<br> <br>2012-07-25 22:16<br>赞(0) 踩(0) | <div>只是因为林夕~~~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3546942)<br>luv u.<br>2012-08-02 20:48<br>赞(0) 踩(0) | <div>+1</div> |

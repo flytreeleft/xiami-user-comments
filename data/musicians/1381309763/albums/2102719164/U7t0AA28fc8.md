@@ -30,5 +30,3 @@ Tick tock tick tock tick tock tick tock
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

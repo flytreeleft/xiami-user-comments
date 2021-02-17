@@ -47,8 +47,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16471015)<br>我是来和你分享银河的<br>2018-06-27 02:15<br>赞(0) 踩(0) | <div>...点掉了好幾首初中時的小心心，虽然有点伤心，但实在太口水了我也知道我不会再去听了.....so bye</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290327723)<br>其次<br>2018-01-17 20:56<br>赞(0) 踩(0) | <div>4年了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2881732)<br> <br>2017-05-30 17:04<br>赞(0) 踩(0) | <div>几年前，在林一峰的live上，听到最后一句，好像突然被什么击中了，&amp;ldquo;像一切从未变&amp;rdquo;。</div> |

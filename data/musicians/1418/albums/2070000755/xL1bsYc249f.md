@@ -55,8 +55,8 @@ SP 环球音乐出版股份有限公司
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49286118)<br>节制的人生<br>2020-07-01 01:26<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3583995)<br>一個人的戰爭<br>2020-03-14 13:48<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1440864)<br> <br>2020-02-22 13:17<br>赞(0) 踩(0) | <div>这首有没有好听的男声版？？</div> |
@@ -127,7 +127,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6990172)<br>？<br>2014-05-01 03:14<br>赞(55) 踩(0) | <div>上帝别拯救老娘……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23549476)<br><br>2014-03-28 21:19<br>赞(0) 踩(0) | <div>@刘西西小西西 推荐的神曲，歌词亮瞎了哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4007871)<br>执着而深敛爱生活偏执狂情<br>2014-03-23 23:02<br>赞(0) 踩(0) | <div>上帝别拯救女王。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10472476)<br><br>2014-02-21 23:50<br>赞(0) 踩(0) | <div>太范儿了.睡觉去，困死了...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10472476)<br><br>2014-02-21 23:50<br>赞(0) 踩(0) | <div>太范儿了.<br>睡觉去，困死了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32924258)<br><br>2014-02-18 15:16<br>赞(0) 踩(0) | <div>歌词好，旋律淡然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11773245)<br><br>2014-02-13 22:58<br>赞(0) 踩(0) | <div>耽美神马的也是公主女神</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332372)<br>执执念而生。<br>2014-01-26 17:42<br>赞(0) 踩(0) | <div>女王喬安。haha</div> |
@@ -154,7 +154,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3998067)<br><br>2013-08-28 15:38<br>赞(0) 踩(0) | <div>腐女之歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1479991)<br><br>2013-08-27 14:32<br>赞(0) 踩(0) | <div>碉堡了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3374128)<br><br>2013-08-21 21:24<br>赞(0) 踩(0) | <div>#陈珊妮#，今天的单曲循环～～～调子好喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3943065)<br><br>2013-08-21 21:24<br>赞(0) 踩(0) | <div>宇宙是她的游乐场 （ST?）天启 人义 攻受排行 (霹雳？)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3943065)<br><br>2013-08-21 21:24<br>赞(0) 踩(0) | <div>宇宙是她的游乐场 （ST?）<br>天启 人义 攻受排行 (霹雳？)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11739592)<br><br>2013-08-20 22:51<br>赞(0) 踩(0) | <div>陈珊妮，她说自己曾经是一个朋克乐迷、女性主义者、爱读伍尔夫的文艺青年。唱歌独有的风格。朋克风格不同于哥特式，另类不张扬。人的生活各自不同，只是在不同的过程中寻找契合点。女王也曾经是一个普通的姑娘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5183327)<br>开心点儿<br>2013-08-20 11:13<br>赞(0) 踩(0) | <div>将以一生投奔bl事业。100%腐女之歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1416849)<br><br>2013-08-20 11:11<br>赞(0) 踩(0) | <div>腐女统治世界！基情拯救世界！</div> |
@@ -202,14 +202,14 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7400048)<br><br>2013-07-05 21:30<br>赞(0) 踩(0) | <div>the queen</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15480566)<br> <br>2013-07-05 00:29<br>赞(0) 踩(0) | <div>按照歌里的定义，我想我真的认识一个女王</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6152627)<br><br>2013-07-04 13:50<br>赞(0) 踩(0) | <div>女王 你还要继续努力 @婧婧_小女王</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882789)<br><br>2013-07-04 12:57<br>赞(0) 踩(0) | <div>男男纯爱无恙万物皆 瞭若指掌上帝别拯救女王</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882789)<br><br>2013-07-04 12:57<br>赞(0) 踩(0) | <div>男男纯爱无恙<br>万物皆 瞭若指掌<br>上帝别拯救女王</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9869)<br><br>2013-07-04 11:41<br>赞(0) 踩(0) | <div>陈珊妮的这首《女王》前奏一响，我就想起 Múm 的那首 《Green Grass of Tunnel》来了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7639182)<br><br>2013-07-04 10:10<br>赞(0) 踩(0) | <div>陳珊妮是個精靈。我想這麼說。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15483633)<br><br>2013-07-03 22:01<br>赞(0) 踩(0) | <div>公主這首歌總讓我想起打綠的浪漫派 不知為什麼 就像我好想你總給我是我的海的感覺一樣 認真聽完了公主的新磚 覺得是值得認真聽完的專輯 有的不能全盤接受 可是有精神的歌 至少不會流於形式 論曲調＜一個人＞更討我愛一些</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1931786)<br><br>2013-07-03 14:49<br>赞(23) 踩(0) | <div>总觉得这里面的一些词实在是…太违和了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1931786)<br><br>2013-07-03 14:39<br>赞(1) 踩(0) | <div>总觉得陈珊妮的歌词都太神奇了orz</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5393628)<br> <br>2013-07-03 03:40<br>赞(0) 踩(0) | <div>「低调的 狂热者 超越当代思想 再把玩几夜春光 上帝别拯救女王」何だよそれ⁈腐女之歌吗（白眼...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7515197)<br>我们都知其不可而为<br>2013-07-03 02:03<br>赞(0) 踩(0) | <div>她形影神尺度寬廣眉目間豈止虛妄宇宙是她的遊樂場天啟 仁義 攻受排行有機童顏 名媛時尚偽少女萝莉是空想花一般唯美的绽放看穿 真愛 無常</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7515197)<br>我们都知其不可而为<br>2013-07-03 02:03<br>赞(0) 踩(0) | <div>她形影神尺度寬廣<br>眉目間豈止虛妄<br>宇宙是她的遊樂場<br>天啟 仁義 攻受排行<br>有機童顏 名媛時尚<br>偽少女萝莉是空想<br>花一般唯美的绽放<br>看穿 真愛 無常</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8986645)<br>喵。<br>2013-07-02 23:12<br>赞(0) 踩(0) | <div>这首歌第一次出现“耽美的”的时候，我愣了一下，然后结合下一句反应过来这个是耽于美丽的意思……结果最后唱出来“耽美的残酷着，男男纯爱无恙”“超越几代思想”的时候我突然反应过来，这首歌难道是写腐女的？！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14081115)<br><br>2013-07-02 21:22<br>赞(0) 踩(0) | <div>看破人间情伤 耽美的 残酷着 男男纯爱无恙 万物皆了若指掌 上帝别拯救女王</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9100317)<br><br>2013-07-02 21:11<br>赞(0) 踩(0) | <div>陈珊妮果真吾辈精神领袖，“看破人间情伤，耽美的，残酷着，男男纯爱无恙，万物皆了若指掌，上帝别拯救女王”，这歌词写的岂止惊艳#此生不悔，就这德行#</div> |

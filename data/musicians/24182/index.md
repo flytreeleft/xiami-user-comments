@@ -3,7 +3,7 @@ Pajaro Sunrise
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e5a7bc0df2f06a3260f5222ab040d1af.jpg)<br>Pajaro Sunrise](https://i.xiami.com/pajarosunrise) | **播放数**: 16182751<br>**粉丝数**: 15973<br>**评论数**: 465<br>**地区**: Spain 西班牙<br>**风格**: 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/e5a7bc0df2f06a3260f5222ab040d1af.jpg)<br>Pajaro Sunrise](https://i.xiami.com/pajarosunrise) | **地区**: Spain 西班牙<br>**风格**: 独立民谣 Indie Folk<br>**播放数**: 16182751<br>**粉丝数**: 15973<br>**评论数**: 465<br> |
 
 ## 档案
 
@@ -52,8 +52,8 @@ On May 2016,new song “Oh My (Lost Songs 2006-2016)”was revealed on Facebook.
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332498160)<br> You'll Love...<br>2020-12-18 16:20<br>赞(0) 踩(0) | <div>好喜欢...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83591380)<br>哼一首淡淡的歌。<br>2020-11-02 18:36<br>赞(0) 踩(0) | <div>答应我一定要继续发歌好吗！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83591380)<br>哼一首淡淡的歌。<br>2020-11-02 18:35<br>赞(0) 踩(0) | <div>大叔是我的宝藏歌手</div> |
@@ -69,14 +69,14 @@ On May 2016,new song “Oh My (Lost Songs 2006-2016)”was revealed on Facebook.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303850325)<br>生活不如诗<br>2019-01-07 18:31<br>赞(2) 踩(0) | <div>男人们的小清新。就算出了校园，依然能抱着木吉他给你满园盛开的玫瑰花——当然，请忽视我下巴上肆无忌惮的胡子。女士。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49655313)<br>除了再见还可以说些什么呢<br>2018-12-24 07:54<br>赞(0) 踩(0) | <div>想看现场呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186156516)<br>我的故事被風吹散 我的明...<br>2018-12-13 02:12<br>赞(0) 踩(0) | <div>突然听到</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293199897)<br>生活中，还好有音乐。。<br>2018-10-24 21:10<br>赞(0) 踩(0) | <div>感谢上传分享，辛苦您了..音乐带给我生活上欠缺的快乐～</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293199897)<br>生活中，还好有音乐。。<br>2018-10-24 21:10<br>赞(0) 踩(0) | <div>感谢上传分享，辛苦您了..<br>音乐带给我生活上欠缺的快乐～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2018-08-29 20:18<br>赞(4) 踩(0) | <div>2019年梦象音乐节盲鸟票和VIP票下周开售！8个城市，每站前10名更有好礼相送 <a href="https://douc.cc/3PSDUt" target="_blank" rel="nofollow noreferrer noopener">https://douc.cc/3PSDUt</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339191478)<br> <br>2018-06-21 13:00<br>赞(0) 踩(0) | <div>:-)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285026656)<br>我还没想好要写什么...<br>2018-05-05 13:00<br>赞(1) 踩(0) | <div>听了很久也不知道叫啥乐队 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">请大侠指教</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304855313)<br><br>2018-04-13 22:42<br>赞(0) 踩(0) | <div>声音太有安全感了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296789867)<br>气球<br>2018-04-09 22:22<br>赞(0) 踩(0) | <div>哈哈，开心~快睡觉前听到这么首歌，很放松~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23534686)<br>o<br>2018-02-11 21:39<br>赞(0) 踩(0) | <div>o</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16115821)<br><br>2017-12-18 11:43<br>赞(3) 踩(0) | <div>【西班牙清新民谣Pajaro Sunrise 2016年6月新专辑 中国巡演】6月3日北京站 Modernsky Lab6月4日上海站 Onstage6月5日 广州站 凸空间天琪音乐（Jadesky Music）欢迎你！官方微博：<a href="http://weibo.com/u/5553401253" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/u/5553401253</a>官方小站：<a href="https://site.douban.com/272087/" target="_blank" rel="nofollow noreferrer noopener">https://site.douban.com/272087/</a>官方淘宝店：<a href="https://shop149567137.taobao.com" target="_blank" rel="nofollow noreferrer noopener">https://shop149567137.taobao.com</a>微信订阅号：m232sky微信公众号：天琪音乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16115821)<br><br>2017-12-18 11:43<br>赞(3) 踩(0) | <div>【西班牙清新民谣Pajaro Sunrise 2016年6月新专辑 中国巡演】<br>6月3日北京站 Modernsky Lab<br>6月4日上海站 Onstage<br>6月5日 广州站 凸空间<br>天琪音乐（Jadesky Music）欢迎你！<br><br>官方微博：<a href="http://weibo.com/u/5553401253" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/u/5553401253</a><br>官方小站：<a href="https://site.douban.com/272087/" target="_blank" rel="nofollow noreferrer noopener">https://site.douban.com/272087/</a><br>官方淘宝店：<a href="https://shop149567137.taobao.com" target="_blank" rel="nofollow noreferrer noopener">https://shop149567137.taobao.com</a><br>微信订阅号：m232sky<br>微信公众号：天琪音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6712055)<br>非典型。<br>2018-02-12 02:54<br>赞(0) 踩(0) | <div>18年会有计划来吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1484197)<br>暂无签名~<br>2017-10-27 23:55<br>赞(1) 踩(0) | <div>又是独立小清新民谣。哈哈。好吧，又开始跳赞了我。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13180134)<br>敲丫挺的<br>2017-07-26 15:48<br>赞(0) 踩(0) | <div>哈</div> |
@@ -199,7 +199,7 @@ On May 2016,new song “Oh My (Lost Songs 2006-2016)”was revealed on Facebook.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/826716)<br>享。<br>2015-01-26 14:17<br>赞(0) 踩(0) | <div>太美妙的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19453542)<br>哈哈哈哈，有趣<br>2015-01-22 11:45<br>赞(0) 踩(0) | <div>美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7814593)<br>Be brave。<br>2015-01-21 11:40<br>赞(0) 踩(0) | <div>很舒服的慵懒～有种置身海边吹海风的感觉。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3067860)<br>我喜欢你是寂静的<br>2015-01-12 21:20<br>赞(3) 踩(0) | <div>PS:Pajaro Sunrise是Yuri 于06年5月组建，“Pájaro”西班牙语译为鸟，乐队音乐如其名，鸟鸣日升透出一片欣荣光景。甜蜜轻灵的曲调，配合极富南欧舒适感的唱腔，交织云淡风轻之美。07年首张ST即确立其安静恬淡的音乐基调，至今已发行四张专辑：Pajaro Sunrise(2007)；Done/Undone(2009)；Old Goodbyes(2011)；Kulturkatzenjammer(2013)。旋律悦耳，唱腔松弛带空气感，节奏略零碎却自在契合。谣风格下，带些许bossa nova、爵士、电子。水彩般清新明快，看似漫不经心却是闪烁光亮的音乐。13年新专辑中一曲《Good to See You》吟唱中透出无限诗意。音乐录影带取景于巴厘岛，画面有笑脸、冲浪、自行车、海边日落…在Pajaro Sunrise的音乐中，时间的脚步轻松流淌，人们会恍然记起简单和快乐。期待他们的中国巡演，期待聆听来自西班牙的美丽与甜蜜。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3067860)<br>我喜欢你是寂静的<br>2015-01-12 21:20<br>赞(3) 踩(0) | <div>PS:<br>Pajaro Sunrise是Yuri 于06年5月组建，“Pájaro”西班牙语译为鸟，乐队音乐如其名，鸟鸣日升透出一片欣荣光景。甜蜜轻灵的曲调，配合极富南欧舒适感的唱腔，交织云淡风轻之美。<br><br>07年首张ST即确立其安静恬淡的音乐基调，至今已发行四张专辑：<br>Pajaro Sunrise(2007)；Done/Undone(2009)；<br>Old Goodbyes(2011)；Kulturkatzenjammer(2013)。<br>旋律悦耳，唱腔松弛带空气感，节奏略零碎却自在契合。<br>谣风格下，带些许bossa nova、爵士、电子。<br>水彩般清新明快，看似漫不经心却是闪烁光亮的音乐。<br><br>13年新专辑中一曲《Good to See You》吟唱中透出无限诗意。<br>音乐录影带取景于巴厘岛，画面有笑脸、冲浪、自行车、海边日落…<br>在Pajaro Sunrise的音乐中，时间的脚步轻松流淌，人们会恍然记起简单和快乐。<br>期待他们的中国巡演，期待聆听来自西班牙的美丽与甜蜜。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11648464)<br>~<br>2015-01-07 11:51<br>赞(0) 踩(0) | <div>~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3652966)<br>节奏控<br>2014-12-27 12:50<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32086195)<br>暂无签名~<br>2014-12-20 12:35<br>赞(0) 踩(0) | <div>lalala舒服的声音</div> |
@@ -257,7 +257,7 @@ On May 2016,new song “Oh My (Lost Songs 2006-2016)”was revealed on Facebook.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6892924)<br><br>2014-04-10 11:07<br>赞(0) 踩(0) | <div>朋友推荐，不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11510054)<br><br>2014-04-09 14:09<br>赞(0) 踩(0) | <div>sunshine</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8182232)<br><br>2014-04-08 13:54<br>赞(0) 踩(0) | <div>听起来蛮舒服的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32998988)<br><br>2014-03-31 18:45<br>赞(0) 踩(0) | <div>哈尔滨站 4月09日 红博文化体验工厂天津站4月10日Blue Map音乐酒吧北京站4月11日 HITFM LIVE糖果3层上海站 4月12日 浅水湾文化艺术中心南京站 4月13日 古堡C.LOUNGE重庆站 4月15日 横街16号音乐俱乐部成都站 4月17日 小酒馆 芳沁店武汉站 4月18日 COAST LINE BAR长沙站 4月19日 红咖俱乐部广州站 4月20日 TU凸空间深圳站 4月22日 B10现场巡演信息<a href="http://www.douban.com/e" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/e</a>豆瓣小站<a href="http://site.douban.com/pajar" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/pajar</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32998988)<br><br>2014-03-31 18:45<br>赞(0) 踩(0) | <div>哈尔滨站 4月09日 红博文化体验工厂<br>天津站4月10日Blue Map音乐酒吧<br>北京站4月11日 HITFM LIVE糖果3层<br>上海站 4月12日 浅水湾文化艺术中心<br>南京站 4月13日 古堡C.LOUNGE<br>重庆站 4月15日 横街16号音乐俱乐部<br>成都站 4月17日 小酒馆 芳沁店<br>武汉站 4月18日 COAST LINE BAR<br>长沙站 4月19日 红咖俱乐部<br>广州站 4月20日 TU凸空间<br>深圳站 4月22日 B10现场<br>巡演信息<a href="http://www.douban.com/e" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/e</a><br>豆瓣小站<a href="http://site.douban.com/pajar" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/pajar</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33302890)<br><br>2014-03-29 16:18<br>赞(0) 踩(0) | <div>Guitar_Nature</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14790079)<br>可遇不可求<br>2014-03-16 14:05<br>赞(0) 踩(0) | <div>自由随意</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4752581)<br>Stay<br>2014-03-16 13:39<br>赞(0) 踩(0) | <div>4月12魔都场。come on~~~~</div> |
@@ -285,7 +285,7 @@ On May 2016,new song “Oh My (Lost Songs 2006-2016)”was revealed on Facebook.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19386723)<br><br>2013-10-01 15:11<br>赞(0) 踩(0) | <div>飘在日光下的鸟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5092273)<br><br>2013-09-29 22:42<br>赞(0) 踩(0) | <div>音乐给你的幻想总是那么千奇百怪又无法自拔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23059286)<br>听听歌，睡睡觉<br>2013-09-28 16:12<br>赞(0) 踩(0) | <div>吉他轻轻的弹奏，很舒服</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7156276)<br><br>2013-09-25 17:48<br>赞(0) 踩(0) | <div>Pajaro Sunrise男，有情调</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7156276)<br><br>2013-09-25 17:48<br>赞(0) 踩(0) | <div>Pajaro Sunrise<br>男，有情调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2810969)<br><br>2013-09-17 04:41<br>赞(0) 踩(0) | <div>内心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9018887)<br><br>2013-09-13 18:42<br>赞(0) 踩(0) | <div>每種音樂都有屬於自己的一種世界</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2013-09-05 23:02<br>赞(2) 踩(0) | <div>Pajaro Sunrise 回信了，十分想来中国巡演！我们还会引进他们的一张唱片！</div> |
@@ -304,9 +304,9 @@ On May 2016,new song “Oh My (Lost Songs 2006-2016)”was revealed on Facebook.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1113571)<br>摇娆轻脚步,落日入山中.<br>2013-07-08 11:33<br>赞(0) 踩(0) | <div>Hungry Heart 真是迷死了，背景是不是一直在喊ouch呢？真想跟着拍手掌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7878857)<br>山脚驴<br>2013-07-08 11:24<br>赞(0) 踩(0) | <div>眼睛瞎了。我以为封面是一女的跟一长毛男。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10435106)<br>听靓歌<br>2013-06-23 23:45<br>赞(0) 踩(0) | <div>喜欢.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11306244)<br>长夜将至，守望将始<br>2013-06-21 19:51<br>赞(0) 踩(0) | <div>Meet me in the middle of the dayLet me hear you say everything&amp;#039;s okay难忘的时光已过，再已不在</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11306244)<br>长夜将至，守望将始<br>2013-06-21 19:51<br>赞(0) 踩(0) | <div>Meet me in the middle of the day<br>Let me hear you say everything&amp;#039;s okay<br>难忘的时光已过，再已不在</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9707252)<br>无欲则刚<br>2013-06-20 23:03<br>赞(0) 踩(0) | <div>夏天听着清清爽爽的多好呀！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2902126)<br>Input I=∞<br>2013-06-17 22:05<br>赞(0) 踩(0) | <div>「Meet me in the middle of the dayLet me hear you say everything&amp;#039;s okay」听他们的歌也让我觉得一切都挺好。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2902126)<br>Input I=∞<br>2013-06-17 22:05<br>赞(0) 踩(0) | <div>「Meet me in the middle of the day<br>Let me hear you say everything&amp;#039;s okay」<br><br>听他们的歌也让我觉得一切都挺好。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16023521)<br><br>2013-06-14 16:21<br>赞(0) 踩(0) | <div>FOR TRAVEL</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15966120)<br>我很聪明 什么都不留下！...<br>2013-06-12 20:52<br>赞(1) 踩(0) | <div>太棒了   有点初恋的感觉   XD</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8329421)<br>时光不及你眉眼<br>2013-06-04 22:13<br>赞(0) 踩(0) | <div>1</div> |
@@ -430,7 +430,7 @@ On May 2016,new song “Oh My (Lost Songs 2006-2016)”was revealed on Facebook.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7324720)<br><br>2012-02-06 10:20<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2117937)<br><br>2012-02-04 01:10<br>赞(0) 踩(0) | <div>舒服、清新、静谧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7660884)<br><br>2012-01-14 11:51<br>赞(0) 踩(0) | <div>喜歡</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2732627)<br><br>2012-01-13 11:19<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/radio/play/type/4/oid/2732627" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/radio/play/type/4/oid/2732627</a>喜复古，法语，文艺，清新慵懒音乐电台</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2732627)<br><br>2012-01-13 11:19<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/radio/play/type/4/oid/2732627" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/radio/play/type/4/oid/2732627</a><br>喜复古，法语，文艺，清新慵懒音乐电台</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7609737)<br><br>2012-01-10 10:05<br>赞(0) 踩(0) | <div>舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6001940)<br><br>2012-01-06 13:44<br>赞(0) 踩(0) | <div>murmuring in a pleasant way</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7150051)<br><br>2012-01-02 09:46<br>赞(0) 踩(0) | <div>淡雅的小清新</div> |
@@ -491,11 +491,11 @@ On May 2016,new song “Oh My (Lost Songs 2006-2016)”was revealed on Facebook.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3115812)<br><br>2011-05-01 17:46<br>赞(0) 踩(0) | <div>慵懒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/967943)<br> <br>2011-04-30 21:08<br>赞(0) 踩(0) | <div>on the road</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2366698)<br>现在只听歌不说话<br>2011-04-22 12:27<br>赞(0) 踩(0) | <div>慵懒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328601)<br><br>2011-04-22 00:30<br>赞(0) 踩(0) | <div><a href="http://www.pajarosunrise.com/" target="_blank" rel="nofollow noreferrer noopener">http://www.pajarosunrise.com/</a><a href="http://www.myspace.com/pajarosunrise" target="_blank" rel="nofollow noreferrer noopener">http://www.myspace.com/pajarosunrise</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328601)<br><br>2011-04-22 00:30<br>赞(0) 踩(0) | <div><a href="http://www.pajarosunrise.com/" target="_blank" rel="nofollow noreferrer noopener">http://www.pajarosunrise.com/</a><br><a href="http://www.myspace.com/pajarosunrise" target="_blank" rel="nofollow noreferrer noopener">http://www.myspace.com/pajarosunrise</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2497405)<br><br>2011-04-21 18:59<br>赞(0) 踩(0) | <div>一听就对胃口。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2497405)<br><br>2011-04-21 18:58<br>赞(0) 踩(0) | <div>非常舒服的声音。清闲自在。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2497405)<br><br>2011-04-21 18:57<br>赞(0) 踩(0) | <div>非常非常喜欢。自然清新</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/475552)<br>小橙子<br>2011-04-18 23:30<br>赞(0) 踩(0) | <div>拿走  拿走喜欢(～ o ～)~zZ</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/475552)<br>小橙子<br>2011-04-18 23:30<br>赞(0) 踩(0) | <div>拿走  拿走<br><br>喜欢<br><br>(～ o ～)~zZ</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171396)<br>以前办不到的事情，未来也...<br>2011-04-22 14:30<br>赞(0) 踩(0) | <div>0.0</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/475552)<br>小橙子<br>2011-04-22 17:12<br>赞(0) 踩(0) | <div><q><b>小讨厌。说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171396)<br>以前办不到的事情，未来也...<br>2011-04-22 18:54<br>赞(0) 踩(0) | <div><q><b>槑说：</b></q></div> |

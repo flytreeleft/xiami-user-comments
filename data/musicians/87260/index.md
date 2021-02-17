@@ -3,7 +3,7 @@ Senpai
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b392660a2fe936e1a03ec72ceed6479b.jpg)<br>Senpai](https://i.xiami.com/senpai) | **播放数**: 7066996<br>**粉丝数**: 28427<br>**评论数**: 457<br>**地区**: United States of America 美国<br>**风格**: 氛围音乐 Ambient, 原声 Soundtrack, 轻音乐 Easy Listening, 氛围流行 Ambient Pop<br> |
+| [![](../../images/musicians/b392660a2fe936e1a03ec72ceed6479b.jpg)<br>Senpai](https://i.xiami.com/senpai) | **地区**: United States of America 美国<br>**风格**: 氛围音乐 Ambient, 原声 Soundtrack, 轻音乐 Easy Listening, 氛围流行 Ambient Pop<br>**播放数**: 7066996<br>**粉丝数**: 28427<br>**评论数**: 457<br> |
 
 ## 档案
 
@@ -57,8 +57,8 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27857090)<br>有朝一日<br>2021-01-15 17:56<br>赞(0) 踩(0) | <div><img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73740960)<br><br>2020-07-24 20:50<br>赞(0) 踩(0) | <div><img src="../../images/comments/2dddd65f06f01a396df470103735c8ff.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2042627)<br>...<br>2020-07-15 22:10<br>赞(0) 踩(0) | <div>love your music  <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -106,13 +106,13 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199158645)<br>我似昔人不是昔人<br>2018-07-23 21:37<br>赞(0) 踩(0) | <div>哇高兴不 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213621500)<br><br>2016-08-16 13:27<br>赞(0) 踩(0) | <div>太爱你，无限循环中</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192512938)<br>成功？你才刚上路……<br>2016-08-05 00:25<br>赞(0) 踩(0) | <div>喜欢，点赞！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28380547)<br><br>2016-07-18 10:46<br>赞(30) 踩(0) | <div>Hi everyone! If you follow me, then you will notice that I sent a message to your inbox. Sorry if you can&amp;#039;t read English :( I still haven&amp;#039;t learned Mandarin yet. Please take the time to read it! I have a brand new music album coming out! I&amp;#039;m working on the songs now ^_^.Thank you for the love!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28380547)<br><br>2016-07-18 10:46<br>赞(30) 踩(0) | <div>Hi everyone! If you follow me, then you will notice that I sent a message to your inbox. Sorry if you can&amp;#039;t read English :( I still haven&amp;#039;t learned Mandarin yet. Please take the time to read it! I have a brand new music album coming out! I&amp;#039;m working on the songs now ^_^.<br><br>Thank you for the love!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46758368)<br> <br>2016-07-08 18:06<br>赞(0) 踩(0) | <div><img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197346574)<br><br>2016-07-06 15:39<br>赞(0) 踩(0) | <div>没的说就是好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10617271)<br>最美的不是下雨天<br>2016-06-27 17:04<br>赞(0) 踩(0) | <div>每一首都是诗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8943891)<br>你咋那么可爱？<br>2016-06-18 22:16<br>赞(0) 踩(0) | <div>I</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72666568)<br><br>2016-06-16 11:31<br>赞(0) 踩(0) | <div>我们都爱他啊哈哈哈</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168347188)<br>本心 本意 本我<br>2016-05-13 13:10<br>赞(0) 踩(0) | <div>自己做了个关于Senpai的音乐选集希望大家喜欢httpvqqcompageaxua0199qmdhxuhtml</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168347188)<br>本心 本意 本我<br>2016-05-13 13:10<br>赞(0) 踩(0) | <div>自己做了个关于Senpai的音乐选集希望大家喜欢httpvq<br>qcompageaxua0199qmdhxuhtml</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11061630)<br><br>2016-04-07 14:19<br>赞(0) 踩(0) | <div>nice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49075538)<br>爱笑 简单 清澈 温暖而...<br>2016-03-13 17:33<br>赞(0) 踩(0) | <div>前辈我来啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52506830)<br>再见<br>2016-03-10 18:14<br>赞(0) 踩(0) | <div>⇌</div> |
@@ -144,22 +144,22 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2016-01-07 12:07<br>赞(0) 踩(0) | <div>曲子好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2694422)<br>我还没想好要写什么...<br>2016-01-06 10:28<br>赞(0) 踩(0) | <div>这不就是 前辈 的意思么……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28380547)<br><br>2016-01-05 02:12<br>赞(12) 踩(0) | <div>内容已删除</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3682795)<br>I’m in love,...<br>2016-01-05 16:55<br>赞(0) 踩(0) | <div>Hi Senpai,Happy New Year! Hope you had a nice holiday. I love your music! We share the same interest in music from musicians such as Yoko Kanno. I was wondering whether it would be okay to plan a visit to your studio in NY and have a small chat about topics such as how you come up with different ideas for your albums?Best,而已ERYI</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3682795)<br>I’m in love,...<br>2016-01-05 16:55<br>赞(0) 踩(0) | <div>Hi Senpai,<br><br>Happy New Year! Hope you had a nice holiday. I love your music! We share the same interest in music from musicians such as Yoko Kanno. I was wondering whether it would be okay to plan a visit to your studio in NY and have a small chat about topics such as how you come up with different ideas for your albums?<br><br>Best,<br>而已ERYI</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28380547)<br><br>2016-01-06 14:02<br>赞(0) 踩(0) | <div><q><b>而已说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3682795)<br>I’m in love,...<br>2016-01-06 15:01<br>赞(0) 踩(0) | <div><q><b>Senpai说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/883368)<br>海底的水族箱<br>2016-01-06 18:34<br>赞(0) 踩(0) | <div><q><b>而已说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28380547)<br><br>2016-01-07 23:57<br>赞(0) 踩(0) | <div><q><b>而已说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16508381)<br>一名真·下水道女孩。<br>2016-01-17 22:31<br>赞(0) 踩(0) | <div>when  I listen  your  music，em……that's make me  soft and calm.meanwhile,I can gethope  from your song.in a  word，I like  your  music very  much！(ง •̀_•́)งcan you  give  us  more  surprise？（my  English is not good(&amp;gt;_&amp;lt;)）</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16508381)<br>一名真·下水道女孩。<br>2016-01-17 22:31<br>赞(0) 踩(0) | <div>when  I listen  your  music，em……that's make me  soft and calm.meanwhile,I can get<br>hope  from your song.in a  word，I like  your  music very  much！(ง •̀_•́)งcan you  give  us  more  surprise？（my  English is not good(&amp;gt;_&amp;lt;)）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28380547)<br><br>2016-02-07 15:18<br>赞(0) 踩(0) | <div><q><b>Artful Dogal说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16508381)<br>一名真·下水道女孩。<br>2016-02-07 15:36<br>赞(0) 踩(0) | <div><q><b>Senpai说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2507372)<br>生而为人，对不起。<br>2016-02-09 07:58<br>赞(0) 踩(0) | <div>Hey Senpai,Thanks for the new year wish! The same to you!Can you tell us more about yourself and how you got here? Like, how did you started composing such music? Your music has a calming touch and you said  (in the brief intro above) that you want people to feel peaceful when they listen to it. What is the motive behind?Thanks!VioletP.S. I intend to write a romantic novel about a lyric writer and a singer/composer. Is it okay if I ask you questions to help depict some of the characters?</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2507372)<br>生而为人，对不起。<br>2016-02-09 07:58<br>赞(0) 踩(0) | <div>Hey Senpai,<br><br>Thanks for the new year wish! The same to you!<br><br>Can you tell us more about yourself and how you got here? Like, how did you started composing such music? Your music has a calming touch and you said  (in the brief intro above) that you want people to feel peaceful when they listen to it. What is the motive behind?<br><br>Thanks!<br><br>Violet<br><br>P.S. I intend to write a romantic novel about a lyric writer and a singer/composer. Is it okay if I ask you questions to help depict some of the characters?</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3276722)<br><br>2016-02-12 05:52<br>赞(0) 踩(0) | <div><q><b>Senpai说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/494705)<br>虾米是一种情怀<br>2016-03-02 13:21<br>赞(0) 踩(0) | <div><q><b>Senpai说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28380547)<br><br>2016-07-18 10:37<br>赞(0) 踩(0) | <div><q><b>vv.th.zoe说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28380547)<br><br>2016-07-18 10:39<br>赞(0) 踩(0) | <div><q><b>牙齿和骨头说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13088981)<br><br>2016-01-04 19:31<br>赞(0) 踩(0) | <div>室内乐 阅读背景</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32994371)<br>个性签名<br>2015-12-31 18:27<br>赞(0) 踩(0) | <div>点赞，点赞</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3963574)<br>☆✧♥✧☆♥✩✭♥<br>2015-12-27 06:24<br>赞(0) 踩(0) | <div>(¯`✻´¯).`*.¸.*✻ღϠ₡ღ♥•*´¨♥ ♪♫♪</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3963574)<br>☆✧♥✧☆♥✩✭♥<br>2015-12-27 06:24<br>赞(0) 踩(0) | <div>(¯`✻´¯)<br>.`*.¸.*✻ღϠ₡ღ<br>♥•*´¨♥ ♪♫♪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11038137)<br><br>2015-12-21 05:05<br>赞(0) 踩(0) | <div>死亡猜想</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/498805)<br><br>2015-12-15 08:09<br>赞(1) 踩(0) | <div>正好听到“光”，可仔细听，伴奏的旋律根本就是 olafur arnalds的啊⋯⋯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3276722)<br><br>2015-11-23 08:01<br>赞(0) 踩(0) | <div>我很想点100个赞</div> |
@@ -169,10 +169,10 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24210861)<br>NO MUSIC NO ...<br>2015-11-13 10:37<br>赞(0) 踩(0) | <div>下雨☔入坑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46299277)<br><br>2015-11-13 05:40<br>赞(0) 踩(0) | <div>i was trying to find more artists like olafur arnalds. and Senpai is one.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28380547)<br><br>2016-07-18 10:40<br>赞(0) 踩(0) | <div>One of the best compliments ever. Thank you</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1878792)<br><br>2015-11-12 22:11<br>赞(0) 踩(0) | <div>我跳着孤独的舞蹈任清风吹散往日的忧伤这句高冷值简直爆表！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1878792)<br><br>2015-11-12 22:11<br>赞(0) 踩(0) | <div>我跳着孤独的舞蹈<br>任清风吹散往日的忧伤<br>这句高冷值简直爆表！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47576975)<br><br>2015-11-12 20:37<br>赞(0) 踩(0) | <div>男神～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5169131)<br>我还没想好要写什么...<br>2015-11-12 20:17<br>赞(0) 踩(0) | <div>love</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2041087)<br>请叫我土星二叔<br>2015-11-12 15:10<br>赞(4) 踩(0) | <div>一个喜欢 日风的但是喜欢找中国妹纸做vol美国宅你应该这样介绍自己才比较贴切吧！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2041087)<br>请叫我土星二叔<br>2015-11-12 15:10<br>赞(4) 踩(0) | <div>一个喜欢 日风的但是喜欢找中国妹纸做vol美国宅<br><br>你应该这样介绍自己才比较贴切吧！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70543976)<br> <br>2015-10-25 19:15<br>赞(0) 踩(0) | <div>～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11816765)<br><br>2015-10-23 14:17<br>赞(0) 踩(0) | <div>环境</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/497815)<br>听歌，也听你<br>2015-10-08 11:59<br>赞(0) 踩(0) | <div>Ambient</div> |
@@ -186,7 +186,7 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50046431)<br>baby<br>2015-06-10 19:43<br>赞(0) 踩(0) | <div>现在天黑的时候我发现你了你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5230909)<br><br>2015-06-04 18:24<br>赞(0) 踩(0) | <div>Please notice me ，Senpai</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6592758)<br><br>2015-06-04 00:08<br>赞(0) 踩(0) | <div>******</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2015-05-31 02:12<br>赞(1) 踩(0) | <div>看你的自我介绍里写着受xxxx影响，估计你也会影响像我一样的创作人。。 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">U say that many composeraffect ur style.I wonna say u have affected a group of music producers such as me.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42361373)<br>感恩虾米，让我们相遇！请...<br>2015-05-31 02:12<br>赞(1) 踩(0) | <div>看你的自我介绍里写着受xxxx影响，估计你也会影响像我一样的创作人。。 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"><br>U say that many composer<br>affect ur style.I wonna say u have affected a group of music producers such as me.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50031743)<br><br>2015-05-18 18:46<br>赞(0) 踩(0) | <div>感觉音乐美爆了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12480953)<br><br>2015-05-01 10:53<br>赞(1) 踩(0) | <div>23333居然叫前辈，曲风真的好日系0w0</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6111314)<br>夜间飞行<br>2015-07-13 00:16<br>赞(0) 踩(0) | <div>如果是日本粉丝和别人介绍他的的时候说“我喜欢前辈”，感觉怪怪的23333</div> |
@@ -249,12 +249,12 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6037106)<br> <br>2014-10-20 11:09<br>赞(1) 踩(0) | <div>...think i just realized that the name Senpai is something japanese</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7748641)<br> <br>2014-09-23 00:42<br>赞(1) 踩(0) | <div>居然没选上！ Senpai，I promise I will not go to cinema to watch &amp;quot;Out Cast&amp;quot;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30261723)<br><br>2014-09-19 18:41<br>赞(1) 踩(0) | <div>很治愈的音乐~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4491164)<br>多远 ....<br>2014-09-19 10:41<br>赞(0) 踩(0) | <div>没人在意名字旁边的电影推广吗第一次看见</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4491164)<br>多远 ....<br>2014-09-19 10:41<br>赞(0) 踩(0) | <div>没人在意名字旁边的电影推广吗<br>第一次看见</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6760432)<br>这家伙有点懒，什么也没写<br>2014-09-19 11:00<br>赞(0) 踩(0) | <div>是这几天的推广曲征集而已，活动过了就没有了，Senpai也上传了自己的作品</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4491164)<br>多远 ....<br>2014-09-19 11:04<br>赞(0) 踩(0) | <div><q><b>花江-等虾米回来说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6760432)<br>这家伙有点懒，什么也没写<br>2014-09-19 10:20<br>赞(1) 踩(0) | <div>少见的国外音乐人入驻啊~~~欢迎~~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5158664)<br>sweet smile<br>2014-09-19 11:05<br>赞(0) 踩(0) | <div>欢迎哦~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10819314)<br>细细打磨耳朵。<br>2014-09-18 22:45<br>赞(1) 踩(0) | <div>Your musics are like some gorgeous refreshment and they really impress our ears!!!I am sooooo touched!!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10819314)<br>细细打磨耳朵。<br>2014-09-18 22:45<br>赞(1) 踩(0) | <div>Your musics are like some gorgeous refreshment and they really impress our ears!!!<br>I am sooooo touched!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7980605)<br>咩咩咩~<br>2014-09-18 17:23<br>赞(0) 踩(0) | <div>好屌！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11619327)<br>虾米签名最多12个字符。<br>2014-09-22 21:45<br>赞(0) 踩(0) | <div>2333333 这个评论翻译的时候会不会不好翻译。。[掩面笑]</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7980605)<br>咩咩咩~<br>2014-09-23 09:52<br>赞(0) 踩(0) | <div><q><b>Stylo说：</b></q></div> |
@@ -267,7 +267,7 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35904969)<br><br>2014-09-07 00:33<br>赞(0) 踩(0) | <div>your music is so nice.i love it so much.it remind me of many thing about my life.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19748429)<br>晚安 昴流<br>2014-08-29 05:17<br>赞(0) 踩(0) | <div>喜欢喜欢的~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5169131)<br>我还没想好要写什么...<br>2014-08-27 19:26<br>赞(0) 踩(0) | <div>123</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3781923)<br>别拒绝上帝。<br>2014-08-23 10:37<br>赞(0) 踩(0) | <div>相当纯净喜欢forever~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3781923)<br>别拒绝上帝。<br>2014-08-23 10:37<br>赞(0) 踩(0) | <div>相当纯净<br>喜欢forever~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3530614)<br><br>2014-08-22 09:34<br>赞(0) 踩(0) | <div>Noticed me SENPAI</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29197411)<br>我还没想好要写什么...<br>2014-08-01 14:59<br>赞(0) 踩(0) | <div>good musics</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9648641)<br>凛として時雨<br>2014-07-13 20:47<br>赞(0) 踩(0) | <div>好大方 新专竟然是name your price</div> |
@@ -297,8 +297,8 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33619498)<br><br>2014-05-15 18:16<br>赞(1) 踩(0) | <div>上了高中之后回家的路上总是听他钢琴的旋律一天的疲劳也减轻不少</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5052969)<br>.<br>2014-06-06 02:01<br>赞(0) 踩(0) | <div>哎我高中的时候听到这类型的音乐就好了  整个高中回忆会更加美好</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39973330)<br>遇见你 找到我<br>2015-05-25 15:03<br>赞(0) 踩(0) | <div><q><b>iamsleepless说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25006757)<br>寻找，寻找。<br>2014-04-25 16:48<br>赞(1) 踩(0) | <div>还是学点英语好啊这种情况下就能用英语拽几句了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25006757)<br>寻找，寻找。<br>2014-04-25 16:32<br>赞(0) 踩(0) | <div>又发现一位很棒的音乐人</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25006757)<br>寻找，寻找。<br>2014-04-25 16:48<br>赞(1) 踩(0) | <div>还是学点英语好啊<br>这种情况下就能用英语拽几句了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25006757)<br>寻找，寻找。<br>2014-04-25 16:32<br>赞(0) 踩(0) | <div>又发现一位<br><br>很棒的音乐人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25006757)<br>寻找，寻找。<br>2014-04-25 16:31<br>赞(0) 踩(0) | <div>要不是看头像 我还真不相信他是美国人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10547530)<br>生于白昼，隐与黑夜。<br>2014-04-06 22:10<br>赞(7) 踩(0) | <div>第一次听……还以为又是十一区的音乐人。风格太像。米国的又一位OTAKU创作人吧。长得，私以为像囧瑟夫。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1555162)<br><br>2014-04-06 21:46<br>赞(1) 踩(0) | <div>不错</div> |
@@ -324,7 +324,7 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11879073)<br>听歌6年顶个球<br>2014-02-07 16:13<br>赞(0) 踩(0) | <div>After Nujabes died,I never hear such beautiful songs. Thank you Senpai,wish you be well :）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24860625)<br>sycamore<br>2014-02-06 11:26<br>赞(0) 踩(0) | <div>纯音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32125734)<br>weibo：白菜y少女 <br>2014-01-30 14:45<br>赞(1) 踩(0) | <div>只要喜欢坂本龙一和菅野洋子，你就一定会喜欢这种soul music.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7444870)<br><br>2014-01-29 23:36<br>赞(0) 踩(0) | <div>&amp;quot;Senpai是来自于美国纽约州，一个努力希望通过音乐连接世界的音乐家他的音乐受到Nujabes，管野洋子，坂本龙一，久石让的影响&amp;quot; Good!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7444870)<br><br>2014-01-29 23:36<br>赞(0) 踩(0) | <div>&amp;quot;Senpai是来自于美国纽约州，一个努力希望通过音乐连接世界的音乐家<br>他的音乐受到Nujabes，管野洋子，坂本龙一，久石让的影响&amp;quot; Good!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5580519)<br><br>2014-01-28 14:38<br>赞(0) 踩(0) | <div>旋律</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8884124)<br><br>2014-01-26 00:08<br>赞(0) 踩(0) | <div>quite but powerful, love it.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11739971)<br>大爱东方<br>2014-01-25 21:20<br>赞(0) 踩(0) | <div>It accompanies me to finish my homework.</div> |
@@ -372,7 +372,7 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27787177)<br>涉江采芙蓉<br>2013-12-23 10:50<br>赞(0) 踩(0) | <div>come on~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-12-23 10:00<br>赞(0) 踩(0) | <div>偶。天呐！虾米难道走国际路线了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3807650)<br>我是街上的游魂你是闻到我...<br>2013-12-23 09:08<br>赞(0) 踩(0) | <div>welcom xoxo</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331793)<br> <br>2013-12-23 00:55<br>赞(0) 踩(0) | <div>...Ahoy, &amp;quot;narrative&amp;quot; Senpai.Lyrics please....</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331793)<br> <br>2013-12-23 00:55<br>赞(0) 踩(0) | <div>...<br><br>Ahoy, &amp;quot;narrative&amp;quot; Senpai.<br><br>Lyrics please.<br><br>...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11798635)<br>鱼肉<br>2013-12-23 00:43<br>赞(0) 踩(0) | <div>用英文私信哪看得懂啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142169)<br>Ins：govi624<br>2013-12-23 00:14<br>赞(0) 踩(0) | <div>Nice..guys</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13476953)<br>coward loser<br>2013-12-22 20:12<br>赞(0) 踩(0) | <div>I found your music when I&amp;#039;m looking for some Jazz-Hop, although your music is not so Jazzy, well, it&amp;#039;s just amazing! Keep up your good work.</div> |
@@ -387,21 +387,21 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8536134)<br>game over<br>2013-12-21 20:48<br>赞(0) 踩(0) | <div>it was so exciting :)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13327353)<br>唯爱与妹子及音乐不可辜负<br>2013-12-21 19:37<br>赞(0) 踩(0) | <div>welcome to China</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12068445)<br>·<br>2013-12-21 18:54<br>赞(0) 踩(0) | <div>welcome to Xiami，a music website Chinese best</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1151921)<br>要啥自行车<br>2013-12-21 18:54<br>赞(1) 踩(0) | <div>Senpai hello.Senpai goodbye.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1151921)<br>要啥自行车<br>2013-12-21 18:54<br>赞(1) 踩(0) | <div>Senpai hello.<br>Senpai goodbye.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89714)<br>慕日葵<br>2013-12-23 00:02<br>赞(0) 踩(0) | <div>笑尿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5398540)<br>民歌警察出警中<br>2013-12-21 18:25<br>赞(0) 踩(0) | <div>HUAN YING</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18566621)<br>我是无肉不欢的素食主义者<br>2013-12-21 18:08<br>赞(0) 踩(0) | <div>卧槽，真的入驻了？虾米好强大</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-12-21 17:28<br>赞(0) 踩(0) | <div>！！！！！--0 0--！！！！！Welcome！欢迎！HuanYing！（真的是本人么？It&amp;#039;s so UNBEALIEVEABLE！）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-12-21 17:28<br>赞(0) 踩(0) | <div>！！！！！--0 0--！！！！！<br>Welcome！欢迎！HuanYing！<br>（真的是本人么？It&amp;#039;s so UNBEALIEVEABLE！）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3643353)<br>虾米要关闭了，难说再见！...<br>2013-12-21 17:19<br>赞(2) 踩(0) | <div>这个世界好疯狂，虾米一片好风光，艺人入驻真是爽，好歌大家一起抢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9944996)<br><br>2013-12-21 17:10<br>赞(0) 踩(0) | <div>()()()()()()()()()()MR Senpai()()()()()()()()()()===&amp;amp; The picture your music describe &amp;amp;===========&amp;amp; so beautifu l&amp;amp;=========</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9944996)<br><br>2013-12-21 17:10<br>赞(0) 踩(0) | <div>()()()()()()()()()()MR Senpai()()()()()()()()()()<br>===&amp;amp; The picture your music describe &amp;amp;===<br>========&amp;amp; so beautifu l&amp;amp;=========</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89714)<br>慕日葵<br>2013-12-21 16:08<br>赞(0) 踩(0) | <div>入驻了Σ(っ °Д °;)っ？！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9714648)<br>人生，需要揭穿<br>2013-12-21 15:49<br>赞(0) 踩(0) | <div>真让人惊喜~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28380547)<br><br>2013-12-21 15:47<br>赞(567) 踩(0) | <div>Hi everyone, this is Senpai.  I found this site not long ago and loved seeing how many fans I have here.  Thank you all so much for the love.  I never knew I had so many Chinese fans, so I just released a DEMO song just for you guys.  Take a listen and tell me what you think!  感谢大家！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13476953)<br>coward loser<br>2013-12-22 19:41<br>赞(0) 踩(0) | <div>you are amazing, man. keep up the good work.</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10125577)<br>原来你也在这里<br>2013-12-22 20:10<br>赞(0) 踩(0) | <div>the top 1 attracts me.I like the song whose rhythm ranges a lot and passionately.</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10125577)<br>原来你也在这里<br>2013-12-22 20:10<br>赞(0) 踩(0) | <div>the top 1 attracts me.<br>I like the song whose rhythm ranges a lot and passionately.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1247421)<br>你是那银河星星<br>2013-12-23 08:30<br>赞(0) 踩(0) | <div>sounds good~!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4403372)<br><br>2013-12-24 09:50<br>赞(0) 踩(0) | <div>i like you</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8601290)<br>远在远方的风，比远方更远<br>2013-12-25 16:08<br>赞(0) 踩(0) | <div>I&amp;#039;m delighted to read your warm words of greeting. Thank you!I&amp;#039;m Sophie.Love your music, and will pay more attention to your new songs~Merry Christmas~</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8601290)<br>远在远方的风，比远方更远<br>2013-12-25 16:08<br>赞(0) 踩(0) | <div>I&amp;#039;m delighted to read your warm words of greeting. Thank you!<br>I&amp;#039;m Sophie.Love your music, and will pay more attention to your new songs~<br>Merry Christmas~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8093526)<br>从前有座山,名曰关彳山~<br>2014-01-11 23:10<br>赞(0) 踩(0) | <div>Good</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5799335)<br>无业游民<br>2014-01-23 02:20<br>赞(0) 踩(0) | <div>せんぱいwww</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14679290)<br>暂无签名~<br>2014-01-24 23:57<br>赞(0) 踩(0) | <div>i love the style of your music very much. i ‘m just wondering am i realy replying your message？is that realy you？？ cool！！！！sorry for my poor english ~</div> |
@@ -414,7 +414,7 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38532535)<br>To the very ...<br>2014-07-22 21:04<br>赞(0) 踩(0) | <div>Hi Senpai. I was so amazed when I found ur music here , and I felt in love with the songs quickly. They accompanied me week in week out , and it&amp;#039;s so glad to meet ur music. Go on Senpai :)</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10347207)<br>花落知多少<br>2014-09-24 23:33<br>赞(0) 踩(0) | <div>期待你來上海演出，我一定會去的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13650711)<br>sone<br>2014-10-26 08:25<br>赞(0) 踩(0) | <div>ur music is so perfect and I think I just lost in it.keep it up! wish u could show us more music here^^it is so nice to meet ur music here in xiami:-)</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/713877)<br><br>2014-11-27 16:09<br>赞(0) 踩(0) | <div>ahokkeep rock brother看好你</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/713877)<br><br>2014-11-27 16:09<br>赞(0) 踩(0) | <div>ah<br>ok<br>keep rock brother<br>看好你</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37176360)<br><br>2015-05-29 18:17<br>赞(0) 踩(0) | <div>我一开始听你的作品的时候还以为是你是日本的，很有东方韵味，很棒</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6362689)<br><br>2015-10-25 23:50<br>赞(0) 踩(0) | <div>Looking forward for your visit in Bei Jing</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46299277)<br><br>2015-11-13 05:37<br>赞(0) 踩(0) | <div>really like your music. hope we get to collaborate at some point!</div> |
@@ -436,8 +436,8 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7154254)<br>他人亦已歌<br>2013-12-21 14:54<br>赞(0) 踩(0) | <div>真身么！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1019822)<br>Weibo:传琦SAMA...<br>2013-12-21 14:43<br>赞(0) 踩(0) | <div>好狠..竟然强势入驻了..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13687350)<br><br>2013-12-21 14:38<br>赞(0) 踩(0) | <div>太棒了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4126362)<br>w_e_chat : y...<br>2013-12-21 14:37<br>赞(0) 踩(0) | <div>welcome to xiami！we are glad to listen to your music！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5133491)<br>其他音乐平台用户名依旧叫...<br>2013-12-21 14:31<br>赞(0) 踩(0) | <div>We warmly welcome you～Haha</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4126362)<br>w_e_chat : y...<br>2013-12-21 14:37<br>赞(0) 踩(0) | <div>welcome to xiami！<br>we are glad to listen to your music！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5133491)<br>其他音乐平台用户名依旧叫...<br>2013-12-21 14:31<br>赞(0) 踩(0) | <div>We warmly welcome you～<br><br><br><br>Haha</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3110981)<br>:з」∠<br>2013-12-21 14:27<br>赞(0) 踩(0) | <div>Weclome~ &amp;gt;33&amp;lt;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7269731)<br>謎樣跨次元喵¤電波星¤<br>2013-12-21 14:24<br>赞(0) 踩(0) | <div>Weclome~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4828269)<br>还在<br>2013-12-21 14:22<br>赞(0) 踩(0) | <div>偷瞄了一下近况。。。11月25日大大就来到虾米了</div> |
@@ -496,7 +496,7 @@ He also plans on releasing a "They Say Just Wait Till Morning [PART II]" soon fo
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/687193)<br>自由<br>2012-07-20 02:36<br>赞(0) 踩(0) | <div>SENPAI,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8673232)<br><br>2012-07-11 13:40<br>赞(0) 踩(0) | <div>没有了生活中的喧嚣，只有温人的细语</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8093080)<br><br>2012-06-18 09:04<br>赞(0) 踩(0) | <div>继续轻音~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9367845)<br><br>2012-06-06 16:50<br>赞(1) 踩(0) | <div>时光的河流静静漫过肌肤的 纹理，爱如呼啸风中一场花瓣雨。什么都有，什么也没有。幻觉，支撑我们活下去。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9367845)<br><br>2012-06-06 16:50<br>赞(1) 踩(0) | <div>时光的河流静静漫过肌肤的 纹理，<br>爱如呼啸风中一场花瓣雨。什么都有，什么也没有。<br>幻觉，支撑我们活下去。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9150986)<br><br>2012-06-04 10:52<br>赞(0) 踩(0) | <div>风行者你的自由何在</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/606670)<br>哈！某人！<br>2012-05-29 10:19<br>赞(0) 踩(0) | <div>灵~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/144619)<br> <br>2012-05-22 10:34<br>赞(0) 踩(0) | <div>为什么叫做 senpai呢 ？</div> |

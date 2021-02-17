@@ -85,8 +85,8 @@ ISRC CN-A50-10-333-04
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376390635)<br><br>2021-01-04 17:08<br>赞(0) 踩(0) | <div>我听出了自由的味道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-11-02 23:14<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423817038)<br>孑然天地间    忽如远...<br>2020-09-22 11:03<br>赞(0) 踩(0) | <div></div> |
@@ -113,7 +113,7 @@ ISRC CN-A50-10-333-04
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44706862)<br>树犹如此 人何以堪<br>2017-11-23 15:40<br>赞(0) 踩(0) | <div>欠欠儿的，哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336390030)<br><br>2017-11-23 15:01<br>赞(2) 踩(0) | <div>蜀道之难，难于上青天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2311071)<br><br>2017-10-30 10:17<br>赞(2) 踩(0) | <div>一支有点五月天但又奇怪兼且直白的摇滚乐队</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/644618)<br>暂无签名~<br>2017-10-30 10:07<br>赞(1) 踩(0) | <div>妈妈 怀疑 我是同性恋。。。哈哈哈励志北京青年！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/644618)<br>暂无签名~<br>2017-10-30 10:07<br>赞(1) 踩(0) | <div>妈妈 怀疑 我是同性恋。。。哈哈哈<br>励志北京青年！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2537989)<br>嘿嘿嘿<br>2017-10-30 10:03<br>赞(2) 踩(0) | <div>哈哈哈哈  曲末還有閩南語的  愛拼才會贏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135663)<br><br>2017-10-28 00:31<br>赞(2) 踩(0) | <div>写论文的时候笑粗来 “妈妈觉得我同性恋，其实我是个男子汉”“一年又一年 我们出道已四年 时间真他妈的快” “爸爸觉得我二皮脸，其实我没放弃信念”  出道四年有木有！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10823083)<br>哒哒哒<br>2017-10-28 00:06<br>赞(0) 踩(0) | <div>@戴wG-jer 你听过这个没有？艾玛，我本来心情不咋地，听完就咋地了哈哈哈╮(╯▽╰)╭ 以及，要不是去复制你的名字我还没见过你的狗屎简介←_←</div> |
@@ -129,7 +129,7 @@ ISRC CN-A50-10-333-04
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242964409)<br><br>2017-04-22 16:17<br>赞(0) 踩(0) | <div>突然发现最近半年活得很没趣嘛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7482113)<br><br>2017-04-08 20:01<br>赞(0) 踩(0) | <div>这首也好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6103831)<br>感觉再也不会走心了…<br>2016-06-26 12:15<br>赞(2) 踩(0) | <div>看到鋪天蓋地的畢業文我腦中不停迴盪著這首歌⋯請自動把「出道四年」換成「畢業兩年」⋯當年gala還挺可愛的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/851674)<br><br>2016-06-22 21:22<br>赞(0) 踩(0) | <div>每秒都活著，每秒都死去。要振作！猪肝君！自勉。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/851674)<br><br>2016-06-22 21:22<br>赞(0) 踩(0) | <div>每秒都活著，每秒都死去。要振作！猪肝君！<br>自勉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97331432)<br>好听还是五月天 <br>2016-05-31 12:15<br>赞(0) 踩(0) | <div>工作五年了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50153373)<br>媒介即人的延伸<br>2016-05-23 07:08<br>赞(0) 踩(0) | <div>啦啦啦啦 一年又一年 时间真XXX的快......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50153373)<br>媒介即人的延伸<br>2016-05-23 07:07<br>赞(0) 踩(0) | <div>你看不顺眼 没办法我是很.....</div> |
@@ -147,7 +147,7 @@ ISRC CN-A50-10-333-04
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7910422)<br> <br>2016-02-12 21:16<br>赞(1) 踩(0) | <div>鄙视</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44118515)<br>保持距离<br>2016-02-09 12:15<br>赞(0) 踩(0) | <div>～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1746372)<br>我懷疑你懷疑我不懷好意<br>2016-01-18 13:16<br>赞(0) 踩(0) | <div>编曲厉害哦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90457436)<br>任他支离狂悖，任他颠倒颇...<br>2016-01-16 10:06<br>赞(0) 踩(0) | <div>城西晃过到城东。..</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90457436)<br>任他支离狂悖，任他颠倒颇...<br>2016-01-16 10:06<br>赞(0) 踩(0) | <div>城西晃过到城东<br>。..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8915598)<br> <br>2016-01-13 21:31<br>赞(0) 踩(0) | <div>一转眼已经4年了~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9200060)<br>走得再近。。。<br>2016-01-11 17:47<br>赞(0) 踩(0) | <div>啦啦啦啦啦啦啦啦～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70856492)<br><br>2016-01-03 12:55<br>赞(0) 踩(0) | <div>gala这么屌，还这么低调</div> |
@@ -196,7 +196,7 @@ ISRC CN-A50-10-333-04
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25655075)<br>I'm drenched...<br>2014-10-08 20:00<br>赞(0) 踩(0) | <div>demo live征服太平洋巡演看上海站～gala和曲婉婷都喜欢～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6150460)<br>puppy<br>2014-06-16 16:14<br>赞(0) 踩(0) | <div>还没完，还没完。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15287218)<br>暂无签名~<br>2014-05-29 19:36<br>赞(1) 踩(0) | <div>出道10年</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36820111)<br><br>2014-05-20 13:27<br>赞(0) 踩(0) | <div>GALA乐队上海演唱会（520大学生专场福利活动）！！！学生党购买GALA乐队2014年上海演唱会现场票！ （380元／480元）仅需（150元／200元）！每价位各限量100张！【购票详情：<a href="http://www.douban.com/event/21643452/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21643452/</a>】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36820111)<br><br>2014-05-20 13:27<br>赞(0) 踩(0) | <div>GALA乐队上海演唱会（520大学生专场福利活动）！！！<br>学生党购买GALA乐队2014年上海演唱会现场票！ （380元／480元）仅需（150元／200元）！<br>每价位各限量100张！<br>【购票详情：<a href="http://www.douban.com/event/21643452/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21643452/</a>】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4002112)<br><br>2014-05-15 00:50<br>赞(0) 踩(0) | <div>gala的现场。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7365987)<br><br>2014-05-03 11:30<br>赞(0) 踩(0) | <div>~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6256738)<br><br>2014-05-02 14:36<br>赞(0) 踩(0) | <div>一想到你们要来西安，就就就想为了你们甩开膀子去一趟音乐节</div> |
@@ -220,7 +220,7 @@ ISRC CN-A50-10-333-04
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3011316)<br><br>2013-11-29 20:38<br>赞(0) 踩(0) | <div>要振作，猪肝君</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2233860)<br><br>2013-11-21 18:32<br>赞(0) 踩(0) | <div>听完就去吃饭。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9199546)<br><br>2013-11-15 10:28<br>赞(0) 踩(0) | <div>【大放异彩—GALA乐队2014北京演唱会】正式开票！2014年1月1日 北京展览馆剧场 【订票：<a href="http://t.cn/zRpSZDK" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/zRpSZDK</a>】GALA乐队将完整呈现十年沉淀，经典曲目全部奉献，并将出演风格迥异的新作三首。他们的十年，期待你的亲临见证！请与GALA在一起——不妥协一直到老！GALA是个好月丢：）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121361)<br>花盆是盆花<br>2013-11-02 14:43<br>赞(0) 踩(0) | <div>妈妈觉得我同性恋其实我是个男子汉爸爸觉得我二皮脸其实我没放弃信念</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121361)<br>花盆是盆花<br>2013-11-02 14:43<br>赞(0) 踩(0) | <div>妈妈觉得我同性恋<br>其实我是个男子汉<br>爸爸觉得我二皮脸<br>其实我没放弃信念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12025745)<br><br>2013-10-20 22:16<br>赞(0) 踩(0) | <div>没赚多少钱我们却快乐似神仙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48375)<br><br>2013-10-19 18:26<br>赞(0) 踩(0) | <div>要振作，猪肝君！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1430514)<br><br>2013-10-19 03:37<br>赞(0) 踩(0) | <div>昂首阔步 碧海蓝天</div> |
@@ -237,13 +237,13 @@ ISRC CN-A50-10-333-04
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6399102)<br>虚空<br>2013-09-16 23:22<br>赞(0) 踩(0) | <div>晚安曲~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338975)<br>我还没想好要写什么...<br>2013-09-12 12:05<br>赞(0) 踩(0) | <div>你觉得我吊儿郎当，其实我梦从未变，你觉得我是同性恋，其实我是男子汉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7223991)<br><br>2013-08-31 21:38<br>赞(0) 踩(0) | <div>国内超好的乐队，不要再说内陆没有好音乐了年底回国如果有演唱会一定追去看</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3951388)<br><br>2013-08-31 11:22<br>赞(0) 踩(0) | <div>一年又一年我们出道已四年时间真他妈的快</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3951388)<br><br>2013-08-31 11:22<br>赞(0) 踩(0) | <div>一年又一年<br>我们出道已四年<br>时间真他妈的快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1657927)<br>我还没想好要写什么...<br>2013-08-09 17:06<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈好久没听了 歌词真棒求巡演</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6100940)<br>这是签名<br>2013-08-08 16:51<br>赞(0) 踩(0) | <div>#GALA太棒了#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12368198)<br> <br>2013-08-05 14:24<br>赞(0) 踩(0) | <div>没挣到钱。照样快活似神仙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13376738)<br>prprpr<br>2013-08-04 12:10<br>赞(0) 踩(0) | <div>要振作 猪肝君！未来路还很远！（居然听gala儿听哭了（蠢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/158219)<br><br>2013-08-02 16:26<br>赞(0) 踩(0) | <div>hah</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18378084)<br>暂无签名~<br>2013-08-02 11:01<br>赞(0) 踩(0) | <div>时间快得像眨眼 没赚多少钱你看不顺眼 没办法我是很贱要振作 猪肝君</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18378084)<br>暂无签名~<br>2013-08-02 11:01<br>赞(0) 踩(0) | <div>时间快得像眨眼 没赚多少钱<br>你看不顺眼 没办法我是很贱<br>要振作 猪肝君</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16810980)<br><br>2013-08-02 00:47<br>赞(0) 踩(0) | <div>好快啊，都四年了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12356927)<br><br>2013-07-31 20:19<br>赞(0) 踩(0) | <div>加油猪肝君！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3784548)<br><br>2013-07-31 00:10<br>赞(0) 踩(0) | <div>不用去上班 不用看老板白眼 不爽我自己滚蛋</div> |
@@ -298,7 +298,7 @@ ISRC CN-A50-10-333-04
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5965771)<br><br>2011-09-25 04:42<br>赞(0) 踩(0) | <div>恶补洒脱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5956115)<br><br>2011-09-24 15:36<br>赞(0) 踩(0) | <div>enen ！！！gala</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1225999)<br><br>2011-09-18 14:48<br>赞(0) 踩(0) | <div>大學四年就向出道四年 真TM快。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5122535)<br><br>2011-09-14 14:16<br>赞(0) 踩(0) | <div>不用去上班不用看老板白眼不爽我自己滚蛋</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5122535)<br><br>2011-09-14 14:16<br>赞(0) 踩(0) | <div>不用去上班<br>不用看老板白眼<br>不爽我自己滚蛋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532671)<br>音乐是一种你永远不会觉得...<br>2011-09-06 02:49<br>赞(0) 踩(0) | <div>#过耳云烟#一年又一年 /我们出道已四年 /时间快得像眨眼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3825998)<br> <br>2011-08-31 02:23<br>赞(0) 踩(0) | <div>你看不顺眼   没办法我是很贱.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3990358)<br><br>2011-07-26 21:38<br>赞(0) 踩(0) | <div>出道四年</div> |
@@ -317,7 +317,7 @@ ISRC CN-A50-10-333-04
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3211562)<br><br>2011-05-29 07:37<br>赞(0) 踩(0) | <div>那句“没办法我是很贱”唱得太欠了。哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3367843)<br><br>2011-05-27 11:05<br>赞(0) 踩(0) | <div>每首歌都那么洒脱 你们不是地球人吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3367843)<br><br>2011-05-27 11:05<br>赞(0) 踩(0) | <div>哈哈哈 郁闷一扫而空</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4020317)<br><br>2011-05-26 02:01<br>赞(0) 踩(0) | <div>似曾相识的吉他旋律。昂首阔步，碧海蓝天，青春虽然短暂，但故事还没完，还没完！为年轻人追逐自己梦想感到欣慰。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4020317)<br><br>2011-05-26 02:01<br>赞(0) 踩(0) | <div>似曾相识的吉他旋律。<br>昂首阔步，碧海蓝天，青春虽然短暂，但故事还没完，还没完！<br>为年轻人追逐自己梦想感到欣慰。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2859595)<br>我跟你描述一个灵魂，他拥...<br>2011-05-21 23:20<br>赞(0) 踩(0) | <div>“妈妈觉得我同性恋，其实我是个男子汉”……你们不能这样，这么一首励志的歌愣生生把我的HHP戳到了火星……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2412839)<br><br>2011-05-19 14:03<br>赞(0) 踩(0) | <div>太喜欢~  听了又有心情工作了~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2402472)<br><br>2011-05-18 23:11<br>赞(0) 踩(0) | <div>还是快乐重要啊！</div> |

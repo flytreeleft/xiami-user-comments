@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ba9ab3a80ac1fd8f7b0f04772c7e51f1.jpg)<br>汽子橘](https://i.xiami.com/xiaofeixia) | **播放数**: 3390389<br>**粉丝数**: 374<br>**评论数**: 31<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 民谣 Folk<br> |
+| [![](../../images/musicians/ba9ab3a80ac1fd8f7b0f04772c7e51f1.jpg)<br>汽子橘](https://i.xiami.com/xiaofeixia) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 民谣 Folk<br>**播放数**: 3390389<br>**粉丝数**: 374<br>**评论数**: 31<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -24,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26849553)<br>我还没想好要写什么...<br>2020-09-10 00:07<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358995000)<br>散场本是常态 尽兴而归就...<br>2020-06-23 03:07<br>赞(3) 踩(0) | <div>我知道美丽会老去。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15650083)<br>滚犊子～<br>2020-03-30 23:55<br>赞(0) 踩(0) | <div><img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">更新歌单大晚上突然就翻到了觉得很不错哦，支持下我们大狮子座的妹纸 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |

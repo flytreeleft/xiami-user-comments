@@ -47,11 +47,11 @@ Una furtiva lagrima oh oh
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260102619)<br><br>2020-11-20 09:10<br>赞(0) 踩(0) | <div>干净，明亮又深邃，包含感情，恰到好处，真的是可以走向国际的声音，期待深深能有这么一天，加油！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89124558)<br><br>2020-06-15 18:26<br>赞(1) 踩(0) | <div>谁知道最后的几句是节选自什么歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121714128)<br>静静的<br>2020-06-12 18:38<br>赞(1) 踩(0) | <div>周深的深浅浅的浅</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121714128)<br>静静的<br>2020-06-12 18:38<br>赞(1) 踩(0) | <div>周深的深<br>浅浅的浅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409325288)<br><br>2020-06-03 13:28<br>赞(1) 踩(0) | <div>我喜欢周深</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406086679)<br><br>2020-05-21 07:21<br>赞(0) 踩(0) | <div>来来来，好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103619864)<br><br>2020-05-05 19:10<br>赞(1) 踩(0) | <div>作品和演唱都很高级，大赞。</div> |
@@ -95,7 +95,7 @@ Una furtiva lagrima oh oh
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330263199)<br><br>2017-12-05 00:05<br>赞(0) 踩(0) | <div>感觉还不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337646086)<br><br>2017-12-04 15:07<br>赞(2) 踩(0) | <div>自从听了大鱼，就成了周深的铁粉 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334675680)<br> <br>2017-12-03 14:03<br>赞(0) 踩(0) | <div>美</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12375897)<br><br>2017-12-03 12:56<br>赞(1) 踩(0) | <div>好专业的点评！欣赏。最后一句&amp;ldquo;一树枯黄&amp;rdquo;的枯黄二字处理得有点过了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12375897)<br><br>2017-12-03 12:56<br>赞(1) 踩(0) | <div>好专业的点评！欣赏。<br>最后一句&amp;ldquo;一树枯黄&amp;rdquo;的枯黄二字处理得有点过了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267902514)<br><br>2017-12-09 18:49<br>赞(0) 踩(0) | <div>我觉得很惊艳 而且也给最后的美声做了铺垫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286043709)<br><br>2017-12-03 09:12<br>赞(3) 踩(0) | <div>我以为只有头条里人才牛逼，没曾想这里面的人才真是有点极端化，服了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334769108)<br><br>2017-12-02 15:40<br>赞(1) 踩(0) | <div>好听，声音有种空灵的感觉</div> |
@@ -275,7 +275,7 @@ Una furtiva lagrima oh oh
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174370734)<br>口腔医学生，拖延症晚期，...<br>2017-11-12 01:26<br>赞(1) 踩(0) | <div>芊芊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334560169)<br><br>2017-11-12 01:15<br>赞(2) 踩(0) | <div>安知雌雄，无语无欲无求</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334566896)<br> <br>2017-11-12 00:54<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/53376b15f77ae122bdb1ed308546bbcb.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151083274)<br>古典悲情与后现代<br>2017-11-12 00:37<br>赞(2) 踩(0) | <div>庭院深深深几许身影浅浅浅记忆</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151083274)<br>古典悲情与后现代<br>2017-11-12 00:37<br>赞(2) 踩(0) | <div>庭院深深深几许<br>身影浅浅浅记忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54713970)<br>我还没想好要写什么...<br>2017-11-12 00:23<br>赞(1) 踩(0) | <div>就服置顶那条评论。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323722455)<br><br>2017-11-12 00:13<br>赞(1) 踩(0) | <div>很动听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327681146)<br><br>2017-11-11 23:34<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
@@ -482,7 +482,7 @@ Una furtiva lagrima oh oh
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290989271)<br><br>2017-11-08 07:44<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332392439)<br><br>2017-11-08 07:41<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310360794)<br><br>2017-11-08 07:41<br>赞(1) 踩(0) | <div>好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330893395)<br> <br>2017-11-08 07:28<br>赞(1) 踩(0) | <div>记得林语堂讲过这样一段话：孤独这两个字拆开来看，有孩童，有瓜果，有小犬，有蚊蝇，足以撑起一个盛夏傍晚间的巷子口，人情味十足。稚儿擎瓜柳棚下，细犬逐蝶窄巷中，人间繁华多笑语，惟我空余两鬓风。孩童水果猫狗飞蝇当然热闹，可都和你无关，这就叫孤独。或者像朱自清说的：&amp;ldquo;热闹是他们的，我什么都没有。&amp;rdquo; ​​​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330893395)<br> <br>2017-11-08 07:28<br>赞(1) 踩(0) | <div>记得林语堂讲过这样一段话：孤独这两个字拆开来看，有孩童，有瓜果，有小犬，有蚊蝇，足以撑起一个盛夏傍晚间的巷子口，人情味十足。稚儿擎瓜柳棚下，细犬逐蝶窄巷中，人间繁华多笑语，惟我空余两鬓风。孩童水果猫狗飞蝇当然热闹，可都和你无关，这就叫孤独。<br>或者像朱自清说的：&amp;ldquo;热闹是他们的，我什么都没有。&amp;rdquo; ​​​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301330136)<br>我还没想好要写什么...<br>2017-11-08 07:21<br>赞(0) 踩(0) | <div>感觉不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331503994)<br><br>2017-11-08 07:19<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333734843)<br><br>2017-11-08 07:16<br>赞(0) 踩(0) | <div>好听</div> |
@@ -581,7 +581,7 @@ Una furtiva lagrima oh oh
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333598333)<br>超凶爆炸凶<br>2017-11-07 22:26<br>赞(0) 踩(0) | <div>好听哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333832157)<br><br>2017-11-07 22:26<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313347182)<br>这家伙很聪明什么也没留下...<br>2017-11-07 22:21<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26731717)<br><br>2017-11-07 22:21<br>赞(0) 踩(0) | <div>记得林语堂讲过这样一段话：孤独这两个字拆开来看，有孩童，有瓜果，有小犬，有蚊蝇，足以撑起一个盛夏傍晚间的巷子口，人情味十足。稚儿擎瓜柳棚下，细犬逐蝶窄巷中，人间繁华多笑语，惟我空余两鬓风。孩童水果猫狗飞蝇当然热闹，可都和你无关，这就叫孤独。或者像朱自清说的：&amp;ldquo;热闹是他们的，我什么都没有。&amp;rdquo; ​​​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26731717)<br><br>2017-11-07 22:21<br>赞(0) 踩(0) | <div>记得林语堂讲过这样一段话：孤独这两个字拆开来看，有孩童，有瓜果，有小犬，有蚊蝇，足以撑起一个盛夏傍晚间的巷子口，人情味十足。稚儿擎瓜柳棚下，细犬逐蝶窄巷中，人间繁华多笑语，惟我空余两鬓风。孩童水果猫狗飞蝇当然热闹，可都和你无关，这就叫孤独。<br>或者像朱自清说的：&amp;ldquo;热闹是他们的，我什么都没有。&amp;rdquo; ​​​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277308900)<br><br>2017-11-07 22:17<br>赞(0) 踩(0) | <div>很好听！听哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308476626)<br><br>2017-11-07 22:16<br>赞(1) 踩(0) | <div>深深的浅浅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333498683)<br><br>2017-11-07 22:15<br>赞(1) 踩(0) | <div>好听</div> |
@@ -654,7 +654,7 @@ Una furtiva lagrima oh oh
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326419491)<br><br>2017-11-07 17:48<br>赞(0) 踩(0) | <div>浅浅的爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326702679)<br>回眸一暖，昨岁人间。<br>2017-11-07 17:47<br>赞(1) 踩(0) | <div>长街之外，才是人间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333553209)<br><br>2017-11-07 17:26<br>赞(0) 踩(0) | <div>还行吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267568009)<br>嘿<br>2017-11-07 17:16<br>赞(1) 踩(0) | <div>&amp;ldquo;群里的欢乐掩不过静里的悲哀。&amp;rdquo;&amp;mdash;&amp;mdash;冰心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267568009)<br>嘿<br>2017-11-07 17:16<br>赞(1) 踩(0) | <div>&amp;ldquo;群里的欢乐掩不过静里的悲哀。&amp;rdquo;<br>&amp;mdash;&amp;mdash;冰心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333763647)<br><br>2017-11-07 16:51<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262940025)<br><br>2017-11-07 16:37<br>赞(0) 踩(0) | <div>我也感觉听的累</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281571755)<br>心若不动 世界无恙 人生...<br>2017-11-07 16:33<br>赞(0) 踩(0) | <div>听歌 听得累得慌   <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -663,7 +663,7 @@ Una furtiva lagrima oh oh
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45960018)<br>音乐是我的阿司匹林<br>2017-11-07 15:20<br>赞(0) 踩(0) | <div>孤独穿着黑袍安静站在门口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333747174)<br> <br>2017-11-07 14:54<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333740466)<br><br>2017-11-07 13:57<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333734318)<br>假如再也碰不到你，祝你早...<br>2017-11-07 13:56<br>赞(2) 踩(0) | <div>一直很喜欢尹约富有诗意的填词周深的声音也很适合这种走心的歌安静的夜里鲜活的情绪一点点流进心田</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333734318)<br>假如再也碰不到你，祝你早...<br>2017-11-07 13:56<br>赞(2) 踩(0) | <div>一直很喜欢尹约富有诗意的填词<br>周深的声音也很适合这种走心的歌<br>安静的夜里<br>鲜活的情绪一点点流进心田</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112973398)<br>俗人<br>2017-11-07 13:56<br>赞(0) 踩(0) | <div>周深</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47458697)<br><br>2017-11-07 13:55<br>赞(0) 踩(0) | <div>,hjjj</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333736842)<br><br>2017-11-07 13:51<br>赞(0) 踩(0) | <div>的确好听！</div> |
@@ -712,7 +712,7 @@ Una furtiva lagrima oh oh
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253586709)<br><br>2017-11-07 02:26<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326074856)<br><br>2017-11-07 01:39<br>赞(1) 踩(0) | <div>深深浅浅，恰如我们的缘分慢慢走远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332633199)<br><br>2017-11-07 01:22<br>赞(0) 踩(0) | <div>睡觉前听着觉得很不错。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333091245)<br><br>2017-11-07 00:53<br>赞(1) 踩(0) | <div>记得林语堂讲过这样一段话：孤独这两个字拆开来看，有孩童，有瓜果，有小犬，有蚊蝇，足以撑起一个盛夏傍晚间的巷子口，人情味十足。稚儿擎瓜柳棚下，细犬逐蝶窄巷中，人间繁华多笑语，惟我空余两鬓风。孩童水果猫狗飞蝇当然热闹，可都和你无关，这就叫孤独。或者像朱自清说的：&amp;ldquo;热闹是他们的，我什么都没有。&amp;rdquo; ​​​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333091245)<br><br>2017-11-07 00:53<br>赞(1) 踩(0) | <div>记得林语堂讲过这样一段话：孤独这两个字拆开来看，有孩童，有瓜果，有小犬，有蚊蝇，足以撑起一个盛夏傍晚间的巷子口，人情味十足。稚儿擎瓜柳棚下，细犬逐蝶窄巷中，人间繁华多笑语，惟我空余两鬓风。孩童水果猫狗飞蝇当然热闹，可都和你无关，这就叫孤独。<br>或者像朱自清说的：&amp;ldquo;热闹是他们的，我什么都没有。&amp;rdquo; ​​​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333372463)<br><br>2017-11-07 00:43<br>赞(1) 踩(0) | <div>安静......心轻了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327480386)<br><br>2017-11-07 00:33<br>赞(1) 踩(0) | <div>还好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44487048)<br><br>2017-11-07 00:31<br>赞(0) 踩(0) | <div>~</div> |
@@ -772,7 +772,7 @@ Una furtiva lagrima oh oh
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333586151)<br><br>2017-11-06 20:51<br>赞(1) 踩(0) | <div>听不懂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331953675)<br><br>2017-11-06 20:49<br>赞(1) 踩(0) | <div>还可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10041191)<br><br>2017-11-06 20:47<br>赞(0) 踩(0) | <div>声音如风般凉快 动听，最牛✕的是他是个男娃 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329401382)<br><br>2017-11-06 20:44<br>赞(0) 踩(0) | <div>就这样浅浅地走过你的生命吧。我不是归人，是个过客。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329401382)<br><br>2017-11-06 20:44<br>赞(0) 踩(0) | <div>就这样浅浅地走过你的生命吧。<br><br>我不是归人，是个过客。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14871525)<br><br>2017-11-06 20:42<br>赞(0) 踩(0) | <div>喜欢这样的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318772116)<br><br>2017-11-06 20:42<br>赞(1) 踩(0) | <div>真的是男的？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1533125)<br><br>2017-11-06 20:41<br>赞(0) 踩(0) | <div>浅浅深深  深深浅浅  不断</div> |
@@ -791,10 +791,10 @@ Una furtiva lagrima oh oh
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496847)<br>夢醒了，所以心碎了。<br>2017-11-06 19:26<br>赞(0) 踩(0) | <div>美声6到爆 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331695236)<br><br>2017-11-06 19:09<br>赞(0) 踩(0) | <div>唱歌很有技巧，功力很好，为什么总要唱女声</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333608971)<br><br>2017-11-06 19:14<br>赞(0) 踩(0) | <div>他的声线就这样，那期选秀刚好看过，贝加尔湖畔印象很深</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300474599)<br><br>2017-11-06 19:06<br>赞(1162) 踩(0) | <div>记得林语堂讲过这样一段话：孤独这两个字拆开来看，有孩童，有瓜果，有小犬，有蚊蝇，足以撑起一个盛夏傍晚间的巷子口，人情味十足。稚儿擎瓜柳棚下，细犬逐蝶窄巷中，人间繁华多笑语，惟我空余两鬓风。孩童水果猫狗飞蝇当然热闹，可都和你无关，这就叫孤独。或者像朱自清说的：&amp;ldquo;热闹是他们的，我什么都没有。&amp;rdquo; ​​​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300474599)<br><br>2017-11-06 19:06<br>赞(1162) 踩(0) | <div>记得林语堂讲过这样一段话：孤独这两个字拆开来看，有孩童，有瓜果，有小犬，有蚊蝇，足以撑起一个盛夏傍晚间的巷子口，人情味十足。稚儿擎瓜柳棚下，细犬逐蝶窄巷中，人间繁华多笑语，惟我空余两鬓风。孩童水果猫狗飞蝇当然热闹，可都和你无关，这就叫孤独。<br>或者像朱自清说的：&amp;ldquo;热闹是他们的，我什么都没有。&amp;rdquo; ​​​</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114171920)<br>我喜欢生命本来的样子。<br>2017-11-06 19:32<br>赞(0) 踩(0) | <div>说得好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266572768)<br><br>2017-11-06 19:37<br>赞(0) 踩(0) | <div>说的真好～孤独何意&amp;hellip;在孤独人心，而不再周遭</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290604080)<br><br>2017-11-06 23:24<br>赞(0) 踩(0) | <div>记得林语堂讲过这样一段话：孤独这两个字拆开来看，有孩童，有瓜果，有小犬，有蚊蝇，足以撑起一个盛夏傍晚间的巷子口，人情味十足。稚儿擎瓜柳棚下，细犬逐蝶窄巷中，人间繁华多笑语，惟我空余两鬓风。孩童水果猫狗飞蝇当然热闹，可都和你无关，这就叫孤独。或者像朱自清说的：&amp;ldquo;热闹是他们的，我什么都没有。&amp;rdquo; ​​​</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290604080)<br><br>2017-11-06 23:24<br>赞(0) 踩(0) | <div>记得林语堂讲过这样一段话：孤独这两个字拆开来看，有孩童，有瓜果，有小犬，有蚊蝇，足以撑起一个盛夏傍晚间的巷子口，人情味十足。稚儿擎瓜柳棚下，细犬逐蝶窄巷中，人间繁华多笑语，惟我空余两鬓风。孩童水果猫狗飞蝇当然热闹，可都和你无关，这就叫孤独。<br>或者像朱自清说的：&amp;ldquo;热闹是他们的，我什么都没有。&amp;rdquo; ​​​</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97348918)<br><br>2017-11-07 01:03<br>赞(0) 踩(0) | <div>最后那句话不是鲁迅的吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177856078)<br><br>2017-11-07 09:20<br>赞(0) 踩(0) | <div><q><b>兔斯基的爸比说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307935240)<br><br>2017-11-07 11:07<br>赞(0) 踩(0) | <div>不管谁说的，说的真好</div> |

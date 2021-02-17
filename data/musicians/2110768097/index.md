@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/cc127ad2c6d9dcfd240d29d36ac81c3e.jpg)<br>杨骏](https://i.xiami.com/yangjun) | **播放数**: 529509<br>**粉丝数**: 69<br>**评论数**: 1<br>**地区**: China 中国大陆<br>**风格**: 古典音乐 Classical, 流行 Pop, 新世纪音乐 New Age, 当代唱作人 Contemporary Singer-Songwriter, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/cc127ad2c6d9dcfd240d29d36ac81c3e.jpg)<br>杨骏](https://i.xiami.com/yangjun) | **地区**: China 中国大陆<br>**风格**: 古典音乐 Classical, 流行 Pop, 新世纪音乐 New Age, 当代唱作人 Contemporary Singer-Songwriter, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 529509<br>**粉丝数**: 69<br>**评论数**: 1<br> |
 
 ## 档案
 
@@ -35,6 +35,6 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-06 09:15<br>赞(0) 踩(0) | <div>45570</div> |

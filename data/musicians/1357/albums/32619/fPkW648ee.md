@@ -49,8 +49,8 @@ do do do....... do do do....... <br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170404142)<br>浮萍漂泊本无根，天涯游子...<br>2019-09-03 15:04<br>赞(0) 踩(0) | <div>快一年了，我还是没删，没那个勇气，怕最后这一点点，也离我而去，对不起我是懦夫 <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5701061)<br><br>2019-08-03 01:06<br>赞(0) 踩(0) | <div>虾米上唯一购买的歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170404142)<br>浮萍漂泊本无根，天涯游子...<br>2018-10-14 11:20<br>赞(0) 踩(0) | <div>我知道你喜欢没事嘟嘟嘟嘟的哼唱着，这些年一直用这首歌做铃声，有的手机响会愣神一下，对不起，从今天起我要学着忘记你，换个铃声，删了这首歌，删掉手机里的相册，删掉QQ空间的私密相册……删掉有关你的一切…</div> |
@@ -91,7 +91,7 @@ do do do....... do do do....... <br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50057340)<br>为什么会有十万个为什么<br>2017-10-19 13:10<br>赞(0) 踩(0) | <div><q><b>G说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73308882)<br><br>2017-10-20 01:08<br>赞(0) 踩(0) | <div><q><b>十万个为什么说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86188480)<br>我还没想好要写什么...<br>2016-05-17 01:01<br>赞(0) 踩(0) | <div>无边无际 一直都在 像海。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9081561)<br><br>2016-04-28 23:18<br>赞(36) 踩(0) | <div>突然想到王家卫的《蓝莓之夜》幸与不幸之间的距离有多远？要怎么跟你爱的人说再见？有多少打不开门的钥匙？蓝莓派没有什么不好 只是没有人点街道真的有多宽么？是期待的人不在对面今天在雪地里摔了一跤 爬起来的时候意识到明天就是冬至了 多美好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9081561)<br><br>2016-04-28 23:18<br>赞(36) 踩(0) | <div>突然想到王家卫的《蓝莓之夜》<br>幸与不幸之间的距离有多远？<br>要怎么跟你爱的人说再见？<br>有多少打不开门的钥匙？<br>蓝莓派没有什么不好 只是没有人点<br>街道真的有多宽么？是期待的人不在对面<br><br>今天在雪地里摔了一跤 爬起来的时候意识到明天就是冬至了 多美好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6522420)<br>我还没想好要写什么...<br>2017-06-26 23:01<br>赞(0) 踩(0) | <div>我喜欢这样喃喃自语</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117069208)<br><br>2016-04-28 22:36<br>赞(0) 踩(0) | <div>429</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/150753782)<br><br>2016-04-25 08:10<br>赞(0) 踩(0) | <div>两人的爱情海</div> |
@@ -105,7 +105,7 @@ do do do....... do do do....... <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53020908)<br>庸人症候群晚癌患者。<br>2016-01-11 12:04<br>赞(0) 踩(0) | <div>想回家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4484110)<br>我还没想好要写什么...<br>2016-01-06 19:03<br>赞(0) 踩(0) | <div>[思考]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50030245)<br>我还没想好要写什么...<br>2016-01-05 01:32<br>赞(1) 踩(0) | <div>无边无际 就我和你❤️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16732933)<br>放纵不羁爱自由<br>2016-01-03 20:25<br>赞(1) 踩(0) | <div>——“你们知道最小的海是什么吗？”——“是你爱的人的眼睛”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16732933)<br>放纵不羁爱自由<br>2016-01-03 20:25<br>赞(1) 踩(0) | <div>——“你们知道最小的海是什么吗？”<br><br>——“是你爱的人的眼睛”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95011634)<br><br>2015-12-27 14:03<br>赞(0) 踩(0) | <div>我在这里 在你心里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90179826)<br><br>2015-12-27 08:27<br>赞(0) 踩(0) | <div>早安 ❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63323772)<br>我爱清晨黄昏 也爱秋天的...<br>2015-12-27 02:34<br>赞(0) 踩(0) | <div>我也对你坚定不移</div> |
@@ -118,9 +118,9 @@ do do do....... do do do....... <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17787078)<br><br>2015-10-22 02:30<br>赞(0) 踩(0) | <div>睡不着起来学习了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17787078)<br><br>2015-10-22 01:12<br>赞(0) 踩(0) | <div>无边无际 就我和你 一起醒来 一起睡去 辩解怀疑 随他们去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64885730)<br><br>2015-09-14 22:53<br>赞(0) 踩(0) | <div>333</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61613074)<br><br>2015-09-07 02:01<br>赞(1) 踩(0) | <div>你最可贵，无论如何，无边无际，就我和你，一起醒来，一起睡去。。。。。。我在这里在你心里。。。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56189923)<br>close to me<br>2015-08-26 18:11<br>赞(0) 踩(0) | <div>无论走了多远  无论分开多长时间无论世界怎么变  都对你坚定不移</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56189923)<br>close to me<br>2015-08-25 22:36<br>赞(0) 踩(0) | <div>无论走了多远  无论分开多长时间无论沉默寡言  也对你坚定不移</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61613074)<br><br>2015-09-07 02:01<br>赞(1) 踩(0) | <div>你最可贵，无论如何，无边无际，就我和你，一起醒来，一起睡去。。。。。。<br>我在这里在你心里。。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56189923)<br>close to me<br>2015-08-26 18:11<br>赞(0) 踩(0) | <div>无论走了多远  无论分开多长时间<br>无论世界怎么变  都对你坚定不移</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56189923)<br>close to me<br>2015-08-25 22:36<br>赞(0) 踩(0) | <div>无论走了多远  无论分开多长时间<br>无论沉默寡言  也对你坚定不移</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36231567)<br>Thanks & Bye<br>2015-08-24 15:22<br>赞(0) 踩(0) | <div>以后 有机会的话。 再坚持9年就好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1756047)<br>  各有各一生一世 各有...<br>2015-08-24 12:28<br>赞(0) 踩(0) | <div>这首曾经是我最爱icy的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48634482)<br>一直想念，一直念<br>2015-07-16 14:19<br>赞(0) 踩(0) | <div>，</div> |
@@ -135,20 +135,20 @@ do do do....... do do do....... <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4423625)<br>我无法传达我自己 从何说...<br>2015-02-17 00:05<br>赞(0) 踩(0) | <div>最好的状态 让这份情 这个人自然的渗透到身上的每一个细胞  像呼吸那样自在 但又必不可少  相识时这首歌伴随我--7</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2098552)<br>老灵魂<br>2015-02-12 22:09<br>赞(0) 踩(0) | <div>你最可贵，无论如何。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18152764)<br>她认出了风暴。<br>2015-02-07 22:52<br>赞(0) 踩(0) | <div>@aaa杨雨晴</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/928156)<br><br>2014-12-14 22:06<br>赞(0) 踩(0) | <div>无论世界尽头 无论你身上什么行头无论沉默寡言 也对你坚定不移</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/928156)<br><br>2014-12-14 22:06<br>赞(0) 踩(0) | <div>无论世界尽头 无论你身上什么行头<br>无论沉默寡言 也对你坚定不移</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15901517)<br>喵～<br>2014-07-23 13:17<br>赞(0) 踩(0) | <div>@亦胡言</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6801494)<br><br>2014-07-07 08:34<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3947799)<br>头发油腻，人生苦逼。<br>2014-06-30 04:01<br>赞(1) 踩(0) | <div>想住在秋天，相拥而睡。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37273694)<br><br>2014-06-15 00:24<br>赞(0) 踩(0) | <div>无论地球在变，无论风景多扎眼。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6491765)<br>我只是个门外汉。<br>2014-06-04 18:29<br>赞(0) 踩(0) | <div>最小的海，就是爱人的眼睛。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6491765)<br>我只是个门外汉。<br>2014-06-04 18:26<br>赞(1) 踩(0) | <div>这张专辑里的这首歌还有忽略简直就是我心目中的神作。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11458121)<br>96痴汉，咕噜新社太郎小<br>2014-05-29 21:01<br>赞(0) 踩(0) | <div>无边无际 就我和你 ，一起醒来 一起睡去这句太戳泪点</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11458121)<br>96痴汉，咕噜新社太郎小<br>2014-05-29 21:01<br>赞(0) 踩(0) | <div>无边无际 就我和你 ，一起醒来 一起睡去<br>这句太戳泪点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6377048)<br><br>2014-05-19 11:15<br>赞(0) 踩(0) | <div>无论走了多久 无论分开多长时间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3308742)<br><br>2014-05-06 23:46<br>赞(0) 踩(0) | <div>#晚安晚安#马尔马拉海</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6479119)<br><br>2014-04-10 14:00<br>赞(130) 踩(0) | <div>听她的现场，她问：你们知道最小的海是什么吗？就是你爱的人的眼睛。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3576411)<br><br>2014-05-02 21:35<br>赞(0) 踩(0) | <div>哇！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12920387)<br>以上学的心态认真听歌<br>2014-05-08 22:22<br>赞(0) 踩(0) | <div>好美的句子</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1965263)<br><br>2014-04-07 00:47<br>赞(0) 踩(0) | <div>一起醒来一起睡去在哪里随你去</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1965263)<br><br>2014-04-07 00:47<br>赞(0) 踩(0) | <div>一起醒来<br>一起睡去<br>在哪里<br>随你去</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40574575)<br>旅行是生活，音乐是记录<br>2014-08-29 15:22<br>赞(0) 踩(0) | <div>O(∩_∩)O</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634906)<br>The world is...<br>2014-04-06 05:04<br>赞(0) 踩(0) | <div>还会是我最珍贵的么  你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18760123)<br>某某水果<br>2014-03-29 14:50<br>赞(0) 踩(0) | <div>......这么个人</div> |
@@ -170,14 +170,14 @@ do do do....... do do do....... <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9150113)<br>不就是披着灵魂的臭皮囊有<br>2013-07-19 23:32<br>赞(0) 踩(0) | <div>突然很喜欢曹方的《最小的海》。无边无际就我和你，一起醒来一起睡去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14861478)<br><br>2013-06-30 05:05<br>赞(0) 踩(0) | <div>repeat…repeat…一年了…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48728)<br><br>2013-06-22 16:06<br>赞(0) 踩(0) | <div>一个很多年的朋友婚礼上的曲子，我没去，只听了这首歌，祝福你们</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12485537)<br>喵了个咪<br>2013-06-20 00:53<br>赞(0) 踩(0) | <div>无论走了多远无论分开多久时间无论地球在变无论风景多扎眼无论世界尽头无论你身上什么行头无论沉默寡言也对你坚定不移</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12485537)<br>喵了个咪<br>2013-06-20 00:53<br>赞(0) 踩(0) | <div>无论走了多远无论分开多久时间<br>无论地球在变无论风景多扎眼<br>无论世界尽头无论你身上什么行头<br>无论沉默寡言也对你坚定不移</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13694528)<br><br>2013-06-17 23:30<br>赞(0) 踩(0) | <div>今日晚安曲 无论走了多远 无论分开多久时间 辩解怀疑 随他们去 我在这里 在你心里 很符合最近心境的一首歌 无边无际 就我和你 最小的海 是他和他的全世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7204649)<br><br>2013-06-16 09:45<br>赞(1) 踩(0) | <div>这首歌简直可以代表我的青春时光了T T……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4457892)<br> <br>2013-06-11 13:32<br>赞(0) 踩(0) | <div>海を見せてあげたいなあ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4460020)<br><br>2013-06-10 22:47<br>赞(0) 踩(0) | <div>又响起班长的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9651181)<br><br>2013-05-21 22:15<br>赞(0) 踩(0) | <div>今天听着这首睡，嘟嘟嘟……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7608243)<br>别闹<br>2013-05-13 00:54<br>赞(0) 踩(0) | <div>无论沉默寡言 也对你坚定不移</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6732119)<br>rock goes on<br>2013-04-02 10:07<br>赞(0) 踩(0) | <div>无论没有界限 无论伤害依然会存在无论琐碎的事 占用我幻想时间无论聪明愚笨 无论你长我好几岁无论我怎么唱 你都会虚心赞美</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6732119)<br>rock goes on<br>2013-04-02 10:07<br>赞(0) 踩(0) | <div>无论没有界限 无论伤害依然会存在<br>无论琐碎的事 占用我幻想时间<br>无论聪明愚笨 无论你长我好几岁<br>无论我怎么唱 你都会虚心赞美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4223897)<br><br>2013-04-01 19:16<br>赞(0) 踩(0) | <div>还是想拿出来再分享一遍。开车时听曹方的曲子，特别是这首，可以抛开一切私心杂念。唤起了很多美好的东西。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4223897)<br><br>2013-03-31 16:48<br>赞(0) 踩(0) | <div>一起醒来 一起睡去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8228589)<br>我还没想好要写什么...<br>2013-03-16 05:29<br>赞(0) 踩(0) | <div>坎昆精选集正式开始录制</div> |
@@ -198,7 +198,7 @@ do do do....... do do do....... <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6118732)<br>嗨~<br>2012-05-19 23:26<br>赞(0) 踩(0) | <div>就喜欢在歌里回忆从前的日子。歌还是那时候听的歌，人就这样慢慢长大了~晚安~今晚会睡个好觉的，明天吃一大顿饭就去考试！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7728128)<br><br>2012-05-15 13:52<br>赞(0) 踩(0) | <div>俩字：干净</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5125484)<br><br>2012-05-13 00:37<br>赞(0) 踩(0) | <div>#无论走了多远 无论分开多久时间##无论如何 你属于我#</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8406415)<br>你好，再见！<br>2012-05-11 20:45<br>赞(0) 踩(0) | <div>无论走了多远 无论分开多久时间无论地球在变 无论风景多扎眼无论世界尽头 无论你身上什么行头无论沉默寡言 也对你坚定不移你最可贵 无论如何无边无际 就我和你一起醒来 一起睡去辩解怀疑 随他们去我在这里 在你心里南京活动：【第二季】曹方{浅彩虹Live Tour}全国唱游——南京站 <a href="http://t.cn/zO8r8OZ" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/zO8r8OZ</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8406415)<br>你好，再见！<br>2012-05-11 20:45<br>赞(0) 踩(0) | <div>无论走了多远 无论分开多久时间<br>无论地球在变 无论风景多扎眼<br>无论世界尽头 无论你身上什么行头<br>无论沉默寡言 也对你坚定不移<br>你最可贵 无论如何<br>无边无际 就我和你<br>一起醒来 一起睡去<br>辩解怀疑 随他们去<br>我在这里 在你心里<br>南京活动：【第二季】曹方{浅彩虹Live Tour}全国唱游——南京站 <a href="http://t.cn/zO8r8OZ" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/zO8r8OZ</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6491091)<br>看见了轮廓就当作宇宙<br>2012-05-10 23:14<br>赞(0) 踩(0) | <div>无论走了多远 无论分开多久时间。无论沉默寡言 也对你坚定不移。无论如何 你属于我。无边无际 就我和你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2511609)<br> <br>2012-04-22 10:42<br>赞(0) 踩(0) | <div>为毛各种人都认为我该喜欢她的歌？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7654176)<br><br>2012-04-11 17:14<br>赞(0) 踩(0) | <div>曹班長，好聽</div> |
@@ -208,7 +208,7 @@ do do do....... do do do....... <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7931141)<br><br>2012-03-29 22:09<br>赞(0) 踩(0) | <div>无论多少年都听不厌的歌   曹方在我心中的地位都超越陈老师了，但在国内有才华有功力的都不可能被推到主流位置上，这就是真理</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759006)<br>請繼續相信.請盲目相信.<br>2012-03-28 13:48<br>赞(0) 踩(0) | <div>无边无际...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1784350)<br>你好呀，小蜉蝣<br>2012-03-17 15:10<br>赞(0) 踩(0) | <div>run out of coffee, run out of milk... Got no encourage to get out of bed...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225506)<br>白天的月亮和晚上的太陽遙...<br>2012-03-01 23:39<br>赞(0) 踩(0) | <div>无论走了多远 /  无论分开多久时间无论地球在变 / 无论风景多扎眼无论世界尽头 / 无论你身上什么行头无论沉默寡言 / 也对你坚定不移你最可贵 / 无论如何</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225506)<br>白天的月亮和晚上的太陽遙...<br>2012-03-01 23:39<br>赞(0) 踩(0) | <div>无论走了多远 /  无论分开多久时间<br>无论地球在变 / 无论风景多扎眼<br>无论世界尽头 / 无论你身上什么行头<br>无论沉默寡言 / 也对你坚定不移<br>你最可贵 / 无论如何</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1009164)<br>我还没想好要写什么...<br>2012-02-26 22:27<br>赞(0) 踩(0) | <div>什么时候能再看@曹方Icy 的现场演出呢～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5070895)<br>HSD<br>2012-02-26 19:57<br>赞(0) 踩(0) | <div>无论走了多远.无论分开多久时间. 无论地球在变.无论风景多扎眼. 无论世界尽头无论你身上什么行头 无论沉默寡言也对你坚定不移 你最可贵.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6650108)<br><br>2012-02-17 20:43<br>赞(0) 踩(0) | <div>dododo</div> |
@@ -221,7 +221,7 @@ do do do....... do do do....... <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2944666)<br><br>2012-01-13 11:42<br>赞(0) 踩(0) | <div>- 无论聪明愚笨，无论你长我好几岁。-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5819564)<br> <br>2012-01-09 15:04<br>赞(0) 踩(0) | <div>咬了咬牙&amp;amp;quot;下毒手&amp;amp;quot;按下了确认键，没办法了只好开心期待了....出处继续把该办的办鸟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2942662)<br><br>2012-01-01 11:14<br>赞(0) 踩(0) | <div>无论走了多远 无论分开多久时间 无论地球在变 无论风景多扎眼 无论世界尽头 无论你身上什么行头 也对你坚定不移</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/471585)<br><br>2011-12-30 23:05<br>赞(0) 踩(0) | <div>无论走了多远 无论分开多久时间无论地球在变 无论风景多扎眼无论世界尽头 无论你身上什么行头无论沉默寡言 也对你坚定不移你最可贵 无论如何无边无际 就我和你一起醒来 一起睡去辩解怀疑 随他们去我在这里 在你心里 /不好听 哈哈哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/471585)<br><br>2011-12-30 23:05<br>赞(0) 踩(0) | <div>无论走了多远 无论分开多久时间<br>无论地球在变 无论风景多扎眼<br>无论世界尽头 无论你身上什么行头<br>无论沉默寡言 也对你坚定不移<br>你最可贵 无论如何<br>无边无际 就我和你<br>一起醒来 一起睡去<br>辩解怀疑 随他们去<br>我在这里 在你心里 /不好听 哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181531)<br>沉淀在乐曲中<br>2011-12-10 15:03<br>赞(0) 踩(0) | <div>温暖 电台  适合今天下午</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7114285)<br><br>2011-12-05 20:07<br>赞(0) 踩(0) | <div>曹方的声音适合唱这类淡淡忧伤的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2125734)<br><br>2011-12-01 20:27<br>赞(0) 踩(0) | <div>最小的海，无论如何就我和你。</div> |

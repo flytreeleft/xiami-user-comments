@@ -42,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262375759)<br>我还没想好要写什么...<br>2021-02-04 20:17<br>赞(0) 踩(0) | <div>古拜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4783281)<br>It's feel so...<br>2021-02-04 14:05<br>赞(0) 踩(0) | <div>虾米爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353018746)<br><br>2021-01-02 23:57<br>赞(0) 踩(0) | <div>2020  第一次听</div> |
@@ -58,8 +58,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5442810)<br><br>2020-05-10 22:37<br>赞(2) 踩(0) | <div>~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50192184)<br><br>2020-05-09 18:15<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169259438)<br>我还没想好要写什么...<br>2020-04-30 02:17<br>赞(2) 踩(0) | <div>陈珊妮的歌词功底太好了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14561312)<br>开口沉默.<br>2020-03-20 14:40<br>赞(1) 踩(0) | <div>一直记成了越肆意 越显感伤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14561312)<br>开口沉默.<br>2020-03-20 14:38<br>赞(1) 踩(0) | <div>我很爱你却又高攀不起</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14561312)<br>开口沉默.<br>2020-03-20 14:40<br>赞(1) 踩(0) | <div>一直记成了<br>越肆意 越显感伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14561312)<br>开口沉默.<br>2020-03-20 14:38<br>赞(1) 踩(0) | <div>我很爱你<br><br>却又高攀不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428478721)<br><br>2020-03-15 15:55<br>赞(2) 踩(0) | <div>第一次听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435227660)<br> <br>2020-03-15 00:36<br>赞(2) 踩(0) | <div>离别曲好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178532748)<br>一个有喜恶的普通人<br>2020-03-08 21:49<br>赞(2) 踩(0) | <div>初中的午后，阳光和随风飘摇的窗帘</div> |
@@ -82,7 +82,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25233674)<br>like a rolli...<br>2019-04-14 22:51<br>赞(1) 踩(0) | <div>没有给她好好设计一下封面吗……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104063482)<br><br>2019-04-03 22:59<br>赞(6) 踩(0) | <div>居然被歌词震撼到,我爱珊妮公主</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48635618)<br>敬天，爱地，聚福源。<br>2019-04-02 22:49<br>赞(3) 踩(0) | <div>离别，总是伤感</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350169674)<br>只要一天有人類或人有耳朵...<br>2019-03-30 17:12<br>赞(1) 踩(0) | <div>再次聆聽：Chopin(Etude,OP.10,NO.3)最美的時光　聽搖滾樂　你的臉輕輕貼著我心臟不慌不忙　青春的低頻將延續播放　越叛逆越顯感傷你送了花　粉紅的花　我的笑聲無邪的不像話再壞的傷　不過就是七月底的陽光燦爛夏天偷偷刺了一道吻痕在肩膀那麼多愛　那麼多幸福　那樣的感覺變成一段　流行的歌最美的時光　跳舞音樂　震動愛人不安分的心臟清秀長髮　年輕越搖擺越無限延長　不思議　如此閃亮我卸了妝　粉紅的妝　曾經是害羞情侶的模樣再壞的傷　不過就是你和我最好的照片時間偏偏故意弄髒你我的臉龐那麼多愛　那麼多幸福　那樣的感覺變成一般　輕浮哼唱　蕭邦最恨　流行的歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350169674)<br>只要一天有人類或人有耳朵...<br>2019-03-30 17:12<br>赞(1) 踩(0) | <div>再次聆聽：Chopin(Etude,OP.10,NO.3)<br>最美的時光　聽搖滾樂　你的臉輕輕貼著我心臟<br>不慌不忙　青春的低頻將延續播放　越叛逆越顯感傷<br>你送了花　粉紅的花　我的笑聲無邪的不像話<br>再壞的傷　不過就是七月底的陽光燦爛<br>夏天偷偷刺了一道吻痕在肩膀<br>那麼多愛　那麼多幸福　那樣的感覺<br>變成一段　流行的歌<br>最美的時光　跳舞音樂　震動愛人不安分的心臟<br>清秀長髮　年輕越搖擺越無限延長　不思議　如此閃亮<br>我卸了妝　粉紅的妝　曾經是害羞情侶的模樣<br>再壞的傷　不過就是你和我最好的照片<br>時間偏偏故意弄髒你我的臉龐<br>那麼多愛　那麼多幸福　那樣的感覺<br>變成一般　輕浮哼唱　蕭邦最恨　流行的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78114532)<br>我还没想好要写什么...<br>2019-03-22 23:52<br>赞(3) 踩(0) | <div>“所有新事物的到来 从来都不是睡醒一觉那么简单”-陈珊妮 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174813)<br>后朋万岁<br>2019-03-18 15:59<br>赞(1) 踩(0) | <div>这首歌hebe基本没有存在感吧。。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35509231)<br>提灯天后  策马小僧<br>2019-04-01 20:42<br>赞(0) 踩(0) | <div>这才是不喧宾夺主的分寸感鸭～</div> |
@@ -92,7 +92,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362007357)<br><br>2019-02-11 21:08<br>赞(2) 踩(0) | <div>越听越有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224268853)<br>我是要取代东东的女人<br>2019-02-09 09:59<br>赞(2) 踩(0) | <div>看了bea综艺就想到了这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364457895)<br><br>2019-02-01 19:36<br>赞(2) 踩(0) | <div>田馥甄从这个时候就开始迷幻了..（手动狗头）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407571144)<br><br>2019-01-31 00:47<br>赞(3) 踩(0) | <div>好想问一问曾经那个人说听不懂情歌的那个人，现在是否能够懂，</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407571144)<br><br>2019-01-31 00:47<br>赞(3) 踩(0) | <div>好想问一问曾经那个人说听不懂情歌的那个人，<br>现在是否能够懂，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327545553)<br>生不逢时<br>2019-01-30 10:40<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85885016)<br>Reaching for...<br>2019-01-25 23:06<br>赞(2) 踩(0) | <div>每日听着入眠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351138751)<br>我还没想好要写什么...<br>2019-01-06 18:23<br>赞(4) 踩(0) | <div>内容已删除</div> |
@@ -101,13 +101,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111601636)<br><br>2019-01-04 02:09<br>赞(6) 踩(0) | <div>作曲是肖邦的，连稍稍的改编都是抄袭1950年歌曲no other love，请问诚意何在？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85885016)<br>Reaching for...<br>2018-12-17 00:26<br>赞(3) 踩(0) | <div>如痴如醉~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330366063)<br>不能<br>2018-12-16 21:31<br>赞(1) 踩(0) | <div>丸子，晚安</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350169674)<br>只要一天有人類或人有耳朵...<br>2018-12-15 08:46<br>赞(3) 踩(0) | <div>作詞：陳珊妮作曲：Chopin(Etude,OP.10,NO.3)最美的時光　聽搖滾樂　你的臉輕輕貼著我心臟不慌不忙　青春的低頻將延續播放　越叛逆越顯感傷你送了花　粉紅的花　我的笑聲無邪的不像話再壞的傷　不過就是七月底的陽光燦爛夏天偷偷刺了一道吻痕在肩膀那麼多愛　那麼多幸福　那樣的感覺變成一段　流行的歌最美的時光　跳舞音樂　震動愛人不安分的心臟清秀長髮　年輕越搖擺越無限延長　不思議　如此閃亮我卸了妝　粉紅的妝　曾經是害羞情侶的模樣再壞的傷　不過就是你和我最好的照片時間偏偏故意弄髒你我的臉龐那麼多愛　那麼多幸福　那樣的感覺變成一般　輕浮哼唱　蕭邦最恨　流行的歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350169674)<br>只要一天有人類或人有耳朵...<br>2018-12-15 08:46<br>赞(3) 踩(0) | <div>作詞：陳珊妮<br>作曲：Chopin(Etude,OP.10,NO.3)<br>最美的時光　聽搖滾樂　你的臉輕輕貼著我心臟<br>不慌不忙　青春的低頻將延續播放　越叛逆越顯感傷<br>你送了花　粉紅的花　我的笑聲無邪的不像話<br>再壞的傷　不過就是七月底的陽光燦爛<br>夏天偷偷刺了一道吻痕在肩膀<br>那麼多愛　那麼多幸福　那樣的感覺<br>變成一段　流行的歌<br>最美的時光　跳舞音樂　震動愛人不安分的心臟<br>清秀長髮　年輕越搖擺越無限延長　不思議　如此閃亮<br>我卸了妝　粉紅的妝　曾經是害羞情侶的模樣<br>再壞的傷　不過就是你和我最好的照片<br>時間偏偏故意弄髒你我的臉龐<br>那麼多愛　那麼多幸福　那樣的感覺<br>變成一般　輕浮哼唱　蕭邦最恨　流行的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407062193)<br><br>2018-12-07 06:00<br>赞(4) 踩(0) | <div>好喜欢这歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9062060)<br>再见虾米，再见年轻的自己...<br>2018-12-04 14:47<br>赞(3) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14708968)<br><br>2018-12-04 02:03<br>赞(3) 踩(0) | <div>点赞集福好人一生平安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5442810)<br><br>2018-11-26 09:59<br>赞(4) 踩(0) | <div>冬天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336584057)<br><br>2018-11-13 12:04<br>赞(3) 踩(0) | <div>让人身心放松的歌！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346087991)<br>医路漫漫 音乐为伴<br>2018-11-08 07:36<br>赞(1) 踩(0) | <div>为何离别的歌曲都那么好听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346087991)<br>医路漫漫 音乐为伴<br>2018-11-08 07:36<br>赞(1) 踩(0) | <div>为何<br>离别的歌曲<br>都那么好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2667726)<br><br>2018-11-05 20:23<br>赞(2) 踩(0) | <div>电子元素太违和，毁了整个作品</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109064608)<br>喜中带忧 暗中有光（杂食...<br>2018-11-15 20:55<br>赞(0) 踩(0) | <div>电子元素一直是陈珊妮的特色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54743190)<br>我还没想好要写什么...<br>2018-10-31 16:48<br>赞(2) 踩(0) | <div>这声音要陷进去了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> 再次感慨我的声音怎么可以这么难听：）</div> |
@@ -130,7 +130,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194196933)<br><br>2018-08-19 20:16<br>赞(1) 踩(0) | <div>我觉得hebe这一首歌声音有一点像王菲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279341084)<br><br>2018-08-14 22:06<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16273360)<br>我还没想好要写什么...<br>2018-08-12 13:55<br>赞(0) 踩(0) | <div>鼓掌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400278953)<br><br>2018-08-12 04:59<br>赞(2) 踩(0) | <div>夏天悄悄刺了一道吻痕在肩膀和 爱是真的假的有什么所谓     旋律是一样的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400278953)<br><br>2018-08-12 04:59<br>赞(2) 踩(0) | <div>夏天悄悄刺了一道吻痕在肩膀<br>和 爱是真的假的有什么所谓     旋律是一样的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317654352)<br><br>2018-08-08 19:27<br>赞(0) 踩(0) | <div>体现e</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78114532)<br>我还没想好要写什么...<br>2018-07-30 12:35<br>赞(3) 踩(0) | <div>在一家牛肉面店听到这首歌。觉得牛肉面店品味升级了 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54870351)<br> <br>2018-07-26 07:30<br>赞(0) 踩(0) | <div>歌词太美了</div> |
@@ -209,14 +209,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/158995604)<br>我还没想好要写什么...<br>2017-11-22 12:58<br>赞(0) 踩(0) | <div>xiami</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335056963)<br> <br>2017-11-15 10:36<br>赞(1) 踩(0) | <div>全是讲的hebe，陈珊妮会怎么想[捂脸]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151041242)<br>梦醒时分，现在开始爱自己<br>2017-11-13 08:47<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274050006)<br><br>2017-11-12 10:34<br>赞(3) 踩(0) | <div>陈珊妮的歌评论全是田馥甄。表白我甄宝。嗯 两人关系也是真的好。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274050006)<br><br>2017-11-12 10:34<br>赞(3) 踩(0) | <div>陈珊妮的歌评论全是田馥甄。<br>表白我甄宝。<br>嗯 两人关系也是真的好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198800281)<br>小小忧伤<br>2017-11-06 17:47<br>赞(0) 踩(0) | <div>真正的离别是什么</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276779321)<br> <br>2017-11-15 18:10<br>赞(0) 踩(0) | <div>死别 因为是永远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54984102)<br>Aprilcrow<br>2017-11-04 13:51<br>赞(0) 踩(0) | <div>爱歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332868674)<br><br>2017-11-02 22:46<br>赞(0) 踩(0) | <div>叔叔的歌单 <img src="../../../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"> <img src="../../../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328584649)<br><br>2017-11-01 20:11<br>赞(0) 踩(0) | <div>又是一首越听越好听的歌。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7587211)<br>Minimalist<br>2017-10-31 20:11<br>赞(11) 踩(0) | <div>昨晚开车送你回家时电台刚巧放到这首歌可能真的意味着我们是不会有结果的谢谢在最后一次送你回家的时候你依旧在路边目送我远去后才离去你不知道每次你望向我车的方向时我也一直望着后视镜里不断变小的你真的 再见不再见了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4087445)<br><br>2017-10-28 00:19<br>赞(0) 踩(0) | <div>离别曲作词：陈珊妮作曲：肖邦最美的时光 听摇滚乐你的脸轻轻贴着我心脏不慌不忙清晨的低频将延续播放越看你越显感伤你送了花 粉红的花我的笑声无邪的不像话在快乐上不过就是七月里的阳光灿烂夏天偷偷刺了一道吻痕在肩膀那么多爱那么多幸福那样的胆怯变成一段流行的歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7587211)<br>Minimalist<br>2017-10-31 20:11<br>赞(11) 踩(0) | <div>昨晚开车送你回家时<br>电台刚巧放到这首歌<br>可能真的意味着我们是不会有结果的<br>谢谢在最后一次送你回家的时候<br>你依旧在路边目送我远去后才离去<br>你不知道每次你望向我车的方向时<br>我也一直望着后视镜里不断变小的你<br>真的 再见不再见了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4087445)<br><br>2017-10-28 00:19<br>赞(0) 踩(0) | <div>离别曲<br><br>作词：陈珊妮<br><br>作曲：肖邦<br><br><br><br>最美的时光 听摇滚乐<br><br>你的脸轻轻贴着我心脏<br><br><br><br>不慌不忙<br><br>清晨的低频将延续播放<br><br>越看你越显感伤<br><br><br><br>你送了花 粉红的花<br><br>我的笑声无邪的不像话<br><br><br><br>在快乐上<br><br>不过就是七月里的阳光灿烂<br><br>夏天偷偷刺了一道吻痕在肩膀<br><br><br><br>那么多爱<br><br>那么多幸福<br><br>那样的胆怯<br><br>变成一段流行的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46081572)<br><br>2017-10-28 00:04<br>赞(4) 踩(0) | <div>当时带我一起听珊妮的人已经8了，有些事情就是这样，关系没了，却总会留下可以凭吊的标记，也许是一首歌，也许是一条街。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4476936)<br><br>2017-10-27 23:04<br>赞(2) 踩(0) | <div>借加班之际陪朋会友，一在美土长读法在大陆、香港闯荡的美国大杨在和你讨论啥是波涛汹涌时，突然冒出句你喜欢你的工作吗，我竟可不加思索的说了句NO，或许正因如此最近才会莫名勤于运动，微博，想进画室。另认识俩可分享音乐新朋友也倍感惊喜，此种逃脱方式令此加班周末充实异常。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4777436)<br><br>2017-10-27 23:01<br>赞(4) 踩(0) | <div>最爱的珊妮的歌，曾经在数个凌晨三点陪我在深夜无眠的校园操场上游荡，你说为什么要游荡？不过是为了找寻希望。</div> |
@@ -268,7 +268,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/474834)<br> <br>2017-08-09 11:25<br>赞(4) 踩(0) | <div>因为在深圳的时候，上下班路上老是听这一首，现在觉得宝安中心的地铁站，有玻璃碎裂的清澈声音。早上看到乌云下的深圳，关山月美术馆，觉得离开了的城市都会成为心中的白月光。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317926350)<br><br>2017-09-03 00:44<br>赞(0) 踩(0) | <div>我也在宝安中心 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/474834)<br> <br>2017-09-06 00:45<br>赞(0) 踩(0) | <div><q><b>鸡鸭鱼肉无所谓说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12422195)<br>我还没想好要写什么...<br>2017-08-02 23:53<br>赞(1) 踩(0) | <div>听过的歌都带着记忆，真是可怕。会流眼泪的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12422195)<br>我还没想好要写什么...<br>2017-08-02 23:53<br>赞(1) 踩(0) | <div>听过的歌都带着记忆，真是可怕。<br>会流眼泪的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294910968)<br> <br>2017-08-01 18:18<br>赞(3) 踩(0) | <div>最后一句 流行的歌 真的太好听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288534395)<br>不要怪自己太重感情，你只...<br>2017-08-01 07:22<br>赞(2) 踩(0) | <div>这歌好费烟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105945004)<br><br>2017-07-29 11:19<br>赞(0) 踩(0) | <div>好听</div> |
@@ -378,7 +378,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50463076)<br><br>2017-04-07 22:08<br>赞(0) 踩(0) | <div>让我来组成999＋！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119957704)<br>就是橙子啊<br>2017-04-07 18:45<br>赞(2) 踩(0) | <div>馥甄明明唱了很多句啊&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281178892)<br><br>2017-04-07 15:46<br>赞(0) 踩(0) | <div>很美的旋律~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13095550)<br>我还没想好要写什么...<br>2017-04-03 19:58<br>赞(765) 踩(0) | <div>&amp;lt;听摇滚乐(HEBE和声)&amp;gt;&amp;lt;粉红的花(HEBE和声)&amp;gt;&amp;lt;夏天偷偷刺了一道吻痕在肩膀( HEBE独唱)&amp;gt;&amp;lt;那麼多幸福 那样的感觉 (HEBE独唱)&amp;gt;&amp;lt;一般 流行的歌 (HEBE和声)&amp;gt;&amp;lt;跳舞音乐(HEBE和声)&amp;gt;&amp;lt;清秀长发(HEBE和声)&amp;gt;&amp;lt;不过就是你和我最好的照片(HEBE和声)&amp;gt;&amp;lt; 时间偏偏故意弄脏你我的脸庞(HEBE独唱)&amp;gt;&amp;lt;那麼多幸福 那样的感觉(HEBE独唱)&amp;gt;&amp;lt;轻浮哼唱(HEBE独唱)&amp;gt;&amp;lt;流行的歌(HEBE独唱)&amp;gt; <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13095550)<br>我还没想好要写什么...<br>2017-04-03 19:58<br>赞(765) 踩(0) | <div>&amp;lt;听摇滚乐(HEBE和声)&amp;gt;<br><br>&amp;lt;粉红的花(HEBE和声)&amp;gt;<br>&amp;lt;夏天偷偷刺了一道吻痕在肩膀( HEBE独唱)&amp;gt;<br>&amp;lt;那麼多幸福 那样的感觉 (HEBE独唱)&amp;gt;<br>&amp;lt;一般 流行的歌 (HEBE和声)&amp;gt;<br>&amp;lt;跳舞音乐(HEBE和声)&amp;gt;<br>&amp;lt;清秀长发(HEBE和声)&amp;gt;<br>&amp;lt;不过就是你和我最好的照片(HEBE和声)&amp;gt;<br>&amp;lt; 时间偏偏故意弄脏你我的脸庞(HEBE独唱)&amp;gt;<br>&amp;lt;那麼多幸福 那样的感觉(HEBE独唱)&amp;gt;<br>&amp;lt;轻浮哼唱(HEBE独唱)&amp;gt;<br>&amp;lt;流行的歌(HEBE独唱)&amp;gt; <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90103474)<br>霓虹<br>2017-06-09 16:48<br>赞(0) 踩(0) | <div>看见用Hebe歌词做ID反手就是一个赞</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52371986)<br>听哥来放松。<br>2017-06-25 21:00<br>赞(0) 踩(0) | <div>可以</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1559338)<br>What?<br>2017-07-24 20:34<br>赞(0) 踩(0) | <div><q><b>tucci❤说：</b></q></div> |
@@ -461,7 +461,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257935694)<br> <br>2017-01-12 19:02<br>赞(0) 踩(0) | <div>可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18854752)<br><br>2017-01-12 08:28<br>赞(2) 踩(0) | <div>田馥甄</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52366046)<br>一亩田<br>2017-01-10 23:49<br>赞(2) 踩(0) | <div>当时我太小 觉得不好听 年轻，都不懂我哥…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2836305)<br>宁愿没去过天堂<br>2017-01-09 21:09<br>赞(2) 踩(0) | <div>再坏的伤不过就是七月底的阳光灿烂夏天偷偷刺了一道吻痕在肩膀再坏的伤不过就是你和我最好的照片时间偏偏故意弄脏你我的脸庞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2836305)<br>宁愿没去过天堂<br>2017-01-09 21:09<br>赞(2) 踩(0) | <div>再坏的伤<br>不过就是七月底的阳光灿烂<br>夏天偷偷刺了一道吻痕在肩膀<br><br>再坏的伤<br>不过就是你和我最好的照片<br>时间偏偏故意弄脏你我的脸庞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90519642)<br> <br>2017-01-09 01:11<br>赞(0) 踩(0) | <div>居然没听过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240856646)<br> <br>2017-01-06 20:04<br>赞(3) 踩(0) | <div>因为田馥甄对爱妮莫名有好感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47187400)<br>微信 viggo90<br>2017-01-06 01:01<br>赞(1) 踩(0) | <div>hebe hebe～</div> |
@@ -571,7 +571,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52814237)<br><br>2016-07-06 00:21<br>赞(0) 踩(0) | <div>我现在才发现田馥甄有唱过这首歌。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197632963)<br><br>2016-07-05 15:01<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48011704)<br> <br>2016-07-05 01:22<br>赞(5) 踩(0) | <div>懷念這個唱腔的田馥甄</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60418754)<br>kashiyuka◢◤A...<br>2016-07-03 22:10<br>赞(3) 踩(0) | <div>"夏天偷偷刺了一道吻痕在脸庞"和声超美</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60418754)<br>kashiyuka◢◤A...<br>2016-07-03 22:10<br>赞(3) 踩(0) | <div>"夏天偷偷刺了一道吻痕在脸庞"<br>和声超美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22386835)<br> <br>2016-07-02 09:34<br>赞(4) 踩(0) | <div>田hebe你好会唱！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10637163)<br><br>2016-06-30 07:23<br>赞(0) 踩(0) | <div>留不住的时光❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276385)<br> <br>2016-06-29 12:27<br>赞(0) 踩(0) | <div>谁这首歌是什么风格的？</div> |
@@ -654,7 +654,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26545990)<br>我还有音乐<br>2016-03-03 03:36<br>赞(1) 踩(0) | <div>太爱的一首歌都舍不得分享</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99228390)<br><br>2016-03-02 20:08<br>赞(1) 踩(0) | <div>这个调调 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50293313)<br><br>2016-02-18 03:10<br>赞(2) 踩(0) | <div>太美了的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98868450)<br><br>2016-02-16 20:39<br>赞(2) 踩(0) | <div>不过就是你和我最好的照片时间却偏偏弄脏你我的脸庞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98868450)<br><br>2016-02-16 20:39<br>赞(2) 踩(0) | <div>不过就是你和我最好的照片<br>时间却偏偏弄脏你我的脸庞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4783281)<br>It's feel so...<br>2016-02-14 07:46<br>赞(98) 踩(0) | <div>已加入我的丧礼备选曲目之一</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52366046)<br>一亩田<br>2017-06-19 16:19<br>赞(0) 踩(0) | <div>笑死我了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45811385)<br>爱不释手，所以常在我的世...<br>2017-10-29 21:54<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png">我也笑喷了</div> |
@@ -664,7 +664,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4783281)<br>It's feel so...<br>2018-04-26 12:28<br>赞(0) 踩(0) | <div><q><b>壹米V说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403913926)<br><br>2018-09-17 23:30<br>赞(0) 踩(0) | <div>提醒了我们 哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8521016)<br>逆生的蔷薇......<br>2016-02-13 19:26<br>赞(6) 踩(0) | <div>最美的时光，听摇滚乐，你的脸轻轻贴着我心脏………重听高中时代的歌曲，除去夕阳般金色的回忆外，竟有些难过…不知不觉地开始…想她……P.S.才知道和声是HEBE</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3552342)<br>孤独一人 照顾星辰<br>2016-02-07 11:54<br>赞(1) 踩(0) | <div>最美的时光  听摇滚乐萧邦最恨     流行的歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3552342)<br>孤独一人 照顾星辰<br>2016-02-07 11:54<br>赞(1) 踩(0) | <div>最美的时光  听摇滚乐<br>萧邦最恨     流行的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12771953)<br><br>2016-02-04 17:50<br>赞(3) 踩(0) | <div>再坏的伤，不过就是7月里的阳光灿烂，夏天偷偷刺了一道吻痕在肩膀，6年前第一次听这首歌的时候并不知道里面有田馥甄，编曲和歌词却打动了我，夏天的炙热退去之后，你还是不是你，而我还是不是那个我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12771953)<br><br>2016-02-04 17:49<br>赞(0) 踩(0) | <div>再坏的伤，不过就是7月里的阳光灿烂，夏天偷偷刺了一道吻痕在肩膀，6年前第一次听这首歌的时候并不知道里面有田馥甄，编曲和歌词却打动了我，夏天的炙热退去之后，你还是不是你，而我还是不是那个我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12771953)<br><br>2016-02-04 17:47<br>赞(2) 踩(0) | <div>再坏的伤，不过就是7月里的阳光灿烂，夏天偷偷刺了一道吻痕在肩膀，6年前第一次听这首歌的时候并不知道里面有田馥甄，编曲和歌词却打动了我，夏天的炙热退去之后，你还是不是你，而我还是不是那个我。</div> |
@@ -934,8 +934,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43524917)<br><br>2014-11-15 07:27<br>赞(0) 踩(0) | <div>4</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135379)<br>tamtamtam<br>2014-11-12 09:38<br>赞(0) 踩(0) | <div>sad</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3883442)<br><br>2014-11-04 20:11<br>赞(0) 踩(0) | <div>[星][星][星][星]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2014-10-30 09:20<br>赞(0) 踩(0) | <div>再坏的伤 不过就是你和我最好的照片时间偏偏故意弄脏你我的脸庞</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2014-10-30 09:20<br>赞(0) 踩(0) | <div>不慌不忙 青春的低频将延续播放越叛逆 越显感伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2014-10-30 09:20<br>赞(0) 踩(0) | <div>再坏的伤 不过就是你和我最好的照片<br>时间偏偏故意弄脏你我的脸庞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2014-10-30 09:20<br>赞(0) 踩(0) | <div>不慌不忙 青春的低频将延续播放<br>越叛逆 越显感伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12828498)<br>内向的浪漫<br>2014-10-26 17:40<br>赞(0) 踩(0) | <div>佳作</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10499065)<br><br>2014-10-17 16:20<br>赞(0) 踩(0) | <div>萧邦最恨 流行的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2165725)<br>我还没想好要写什么...<br>2014-10-17 00:46<br>赞(0) 踩(0) | <div>00</div> |
@@ -1008,7 +1008,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249718)<br><br>2013-10-11 00:36<br>赞(0) 踩(0) | <div>&amp;#039;肖邦最恨流行的歌&amp;#039;——形而上不敌形而下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9756270)<br><br>2013-10-07 23:53<br>赞(0) 踩(0) | <div>“那么多爱 那么多幸福 那样的感伤 变成一般 轻浮哼唱&amp;quot; ——陈珊妮《离别曲》 [“在你脑海中的问题是，真的有人爱过我吗？”“你怎么知道？”“每个人都这样问。”——《MAD MEN》]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/605952)<br><br>2013-10-07 13:19<br>赞(0) 踩(0) | <div>肖邦曲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13482345)<br>听吧<br>2013-10-07 12:21<br>赞(0) 踩(0) | <div>在快乐上不过就是七月里的阳光灿烂啊夏天偷偷刺了一道吻痕在肩膀</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13482345)<br>听吧<br>2013-10-07 12:21<br>赞(0) 踩(0) | <div>在快乐上<br>不过就是七月里的阳光灿烂啊<br>夏天偷偷刺了一道吻痕在肩膀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13482345)<br>听吧<br>2013-10-07 12:19<br>赞(0) 踩(0) | <div>旋律不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2750122)<br>Be juicy : )<br>2013-10-07 10:42<br>赞(0) 踩(0) | <div>和我恋爱好吗 不要让我走好吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2590703)<br> <br>2013-10-04 15:28<br>赞(0) 踩(0) | <div>！！！！！！！</div> |
@@ -1028,7 +1028,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19588803)<br>soul<br>2013-08-28 00:57<br>赞(0) 踩(0) | <div>【肖邦最恨  流行的歌】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11797661)<br><br>2013-08-27 15:52<br>赞(0) 踩(0) | <div>再坏的伤，不过就是你和我最好的照片，时间偏偏故意弄脏你我的脸庞……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279560)<br> <br>2013-08-26 11:02<br>赞(0) 踩(0) | <div>去年11月 杭州还没冷起来 雪还没下起来的时候 每天早上骑着单车去上课 阳光一路洒下来 音符都是这首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7457475)<br>和你一样爱音乐葎岛电台<br>2013-08-26 07:38<br>赞(0) 踩(0) | <div>朋友聚会免不了要聊起梦想和青春，如果说在这样的场合追忆青春是用来开场的，那么畅谈梦想则是用来散场的。一杯酒，两行泪，永远说不尽的青春，永远话不完的梦想。原来比得不到更让人难过的是留不住，一首陈珊妮（feat田馥甄）《离别曲》送给大家，周一来了打起精神努力工作！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7457475)<br>和你一样爱音乐葎岛电台<br>2013-08-26 07:38<br>赞(0) 踩(0) | <div>朋友聚会免不了要聊起梦想和青春，如果说在这样的场合追忆青春是用来开场的，那么畅谈梦想则是用来散场的。一杯酒，两行泪，永远说不尽的青春，永远话不完的梦想。<br>原来比得不到更让人难过的是留不住，一首陈珊妮（feat田馥甄）《离别曲》送给大家，周一来了打起精神努力工作！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1766747)<br><br>2013-08-26 06:45<br>赞(0) 踩(0) | <div>不过是八月早晨里的灿烂阳光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1766747)<br><br>2013-08-26 06:36<br>赞(0) 踩(0) | <div>不过是八月早晨里的灿烂阳光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15884875)<br><br>2013-08-22 15:54<br>赞(0) 踩(0) | <div>******</div> |
@@ -1072,7 +1072,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15912403)<br><br>2013-06-08 13:16<br>赞(0) 踩(0) | <div>到自己毕业了，再听起这首歌。真应景~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15508125)<br><br>2013-06-07 18:05<br>赞(0) 踩(0) | <div>最美的时光。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7995545)<br>不得所愿而痴，尝遍辛苦而<br>2013-06-07 11:41<br>赞(0) 踩(0) | <div>不慌不忙 清晨的低频将延续播放 越看你越显感伤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15353976)<br><br>2013-06-05 15:25<br>赞(0) 踩(0) | <div>再坏的伤 不过就是七月底的阳光灿烂夏天偷偷刺了一道吻痕在肩膀那麽多爱 那麽多幸福 那样的感觉变成一般 流行的歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15353976)<br><br>2013-06-05 15:25<br>赞(0) 踩(0) | <div>再坏的伤 不过就是七月底的阳光灿烂<br>夏天偷偷刺了一道吻痕在肩膀<br>那麽多爱 那麽多幸福 那样的感觉<br>变成一般 流行的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3626886)<br><br>2013-05-29 14:58<br>赞(0) 踩(0) | <div>最美的时光，听摇滚乐。肖邦最恨，流行的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6714770)<br><br>2013-05-28 11:45<br>赞(0) 踩(0) | <div>田馥甄</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4120625)<br><br>2013-05-24 14:02<br>赞(0) 踩(0) | <div>出自肖邦的《第三号练习曲》</div> |
@@ -1136,10 +1136,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4948942)<br><br>2012-12-21 23:26<br>赞(0) 踩(0) | <div>初听，好听，继续听，反复听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2819732)<br><br>2012-12-13 22:31<br>赞(0) 踩(0) | <div>小清新文艺女青年看过来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5577697)<br>我还没想好要写什么...<br>2012-12-10 11:00<br>赞(0) 踩(0) | <div>好百合的歌啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3322459)<br><br>2012-12-08 01:17<br>赞(0) 踩(0) | <div>”最美的时光 听摇滚乐 你的脸轻轻贴着我心脏 不慌不忙 青春的低频将延续播放越叛逆 越显感伤 你送了花 粉红的花 我的笑声无邪得不像话 “ 零八年的最爱 陈珊妮改编自萧邦的《离别曲》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3322459)<br><br>2012-12-08 01:17<br>赞(0) 踩(0) | <div>”最美的时光 听摇滚乐 你的脸轻轻贴着我心脏 不慌不忙 青春的低频将延续播放<br>越叛逆 越显感伤 你送了花 粉红的花 我的笑声无邪得不像话 “ 零八年的最爱 陈珊妮改编自萧邦的《离别曲》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7302860)<br><br>2012-12-03 17:51<br>赞(0) 踩(0) | <div>喜欢，还有那首《情歌》。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11111317)<br><br>2012-12-02 21:32<br>赞(0) 踩(0) | <div>关于爱，上瘾和强迫症的的故事</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2070277)<br>暂无签名~<br>2012-11-27 17:44<br>赞(0) 踩(0) | <div>最美的时光 听摇滚乐最美的时光 跳舞音乐那么多爱 那么多幸福 那样的感觉变成一般 轻浮哼唱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2070277)<br>暂无签名~<br>2012-11-27 17:44<br>赞(0) 踩(0) | <div>最美的时光 听摇滚乐<br>最美的时光 跳舞音乐<br>那么多爱 那么多幸福 那样的感觉<br>变成一般 轻浮哼唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5813637)<br><br>2012-11-14 23:00<br>赞(0) 踩(0) | <div>百听不厌的歌。好梦~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1744721)<br><br>2012-11-10 13:46<br>赞(0) 踩(0) | <div>陈珊妮版最妩媚。。。。噢对了，我的彩铃不再是&amp;lt;没有**就没有新中国了&amp;gt;呵呵呵呵呵 @布丁安  @超炫酷的小张  @乐乐乐乐乐乐儿  @苏舒扬叔叔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9767919)<br>同事叫我别抖腿。<br>2012-11-07 22:47<br>赞(0) 踩(0) | <div>嗯。</div> |
@@ -1154,8 +1154,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/897346)<br><br>2012-10-23 22:44<br>赞(0) 踩(0) | <div>妖异魅惑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8205745)<br><br>2012-10-23 13:15<br>赞(0) 踩(0) | <div>感觉很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3811771)<br>球球你听<br>2012-10-23 12:55<br>赞(0) 踩(0) | <div>午后阳光陈珊妮，咖啡满杯不加糖，“再坏的伤 不过就是七月的阳光灿烂”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769272)<br> <br>2012-10-22 22:16<br>赞(0) 踩(0) | <div>最美的时光跳舞音乐震动爱人不安分的心脏清秀长发年轻越摇摆越无限延长不思议　如此闪亮我卸了妆粉红的妆曾经是害羞情侣的模样再坏的伤不过就是你和我最好的照片时间偏偏故意弄脏你我的脸庞</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1322537)<br><br>2012-10-15 21:31<br>赞(0) 踩(0) | <div>那么多爱那么多幸福那样的感觉变成一般流行的歌不过是一首流行的歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769272)<br> <br>2012-10-22 22:16<br>赞(0) 踩(0) | <div>最美的时光<br>跳舞音乐<br>震动爱人不安分的心脏<br>清秀长发<br>年轻越摇摆越无限延长<br>不思议　如此闪亮<br><br>我卸了妆<br>粉红的妆<br>曾经是害羞情侣的模样<br>再坏的伤<br>不过就是你和我最好的照片<br>时间偏偏故意弄脏你我的脸庞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1322537)<br><br>2012-10-15 21:31<br>赞(0) 踩(0) | <div>那么多爱那么多幸福那样的感觉变成一般流行的歌<br><br>不过是一首流行的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11007763)<br>Simple<br>2012-10-13 23:18<br>赞(0) 踩(0) | <div>晚安~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532637)<br><br>2012-10-13 10:43<br>赞(0) 踩(0) | <div>10月12日</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6921185)<br>暂无签名~<br>2012-10-08 16:10<br>赞(0) 踩(0) | <div>肖邦19岁时，爱上华沙音乐学院的女同学葛拉柯芙丝卡，她是一位亭亭玉立，有声乐天才的姑娘，肖邦因为生性羞怯，始终不敢向她倾吐爱意。当他决定远离祖国前往巴黎时，在葛拉柯芙斯卡的面前，弹奏了缠绵幽怨的钢琴曲--离别曲</div> |
@@ -1164,8 +1164,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7109922)<br><br>2012-10-02 23:28<br>赞(0) 踩(0) | <div>不听莫文蔚的歌了，听陈珊妮的，有一种戒掉大麻又吸**的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/788766)<br>我还没想好要写什么...<br>2012-10-01 16:37<br>赞(0) 踩(0) | <div>棟花飄砌、蔌蔌清香細、梅雨過、萍風起、情隨湘水遠、夢繞吳峰翠、琴書倦、鷓鴣咕起南窗睡、、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2465841)<br><br>2012-09-28 09:16<br>赞(0) 踩(0) | <div>曲：肖邦Chopin Etude Op.10 No.3</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8656379)<br><br>2012-09-26 13:53<br>赞(0) 踩(0) | <div>那麽多爱 那麽多幸福 那样的感觉变成一般 轻浮哼唱萧邦最恨 流行的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317931)<br>好久不见。虾米生态堪忧。...<br>2012-09-26 02:35<br>赞(0) 踩(0) | <div>最美的时光 跳舞音乐震动爱人不安份的心脏清秀长发 年轻越摇摆越无限延长不思议 如此闪亮我卸了妆 粉红的妆曾经是害羞情侣的模样再坏的伤 不过就是你和我最好的照片时间偏偏故意弄脏你我的脸庞那麽多爱 那麽多幸福 那样的感觉变成一般 轻浮哼唱萧邦最恨 流行的歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8656379)<br><br>2012-09-26 13:53<br>赞(0) 踩(0) | <div>那麽多爱 那麽多幸福 那样的感觉<br>变成一般 轻浮哼唱<br>萧邦最恨 流行的歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317931)<br>好久不见。虾米生态堪忧。...<br>2012-09-26 02:35<br>赞(0) 踩(0) | <div>最美的时光 跳舞音乐<br>震动爱人不安份的心脏<br>清秀长发 年轻越摇摆越无限延长<br>不思议 如此闪亮<br>我卸了妆 粉红的妆<br>曾经是害羞情侣的模样<br>再坏的伤 不过就是你和我最好的照片<br>时间偏偏故意弄脏你我的脸庞<br>那麽多爱 那麽多幸福 那样的感觉<br>变成一般 轻浮哼唱<br>萧邦最恨 流行的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/587575)<br> <br>2012-09-19 22:51<br>赞(0) 踩(0) | <div>虾米上的古典音乐好少。。分享一首陈珊妮演绎的“Etude, Op.10, NO.3”吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/500413)<br>完成重过完美<br>2012-09-19 16:00<br>赞(1) 踩(0) | <div>年轻时越叛逆，现在就越感伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6557815)<br><br>2012-09-18 14:14<br>赞(0) 踩(0) | <div>最近有点陈珊妮和张国荣上瘾啊。</div> |
@@ -1182,14 +1182,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9838906)<br><br>2012-07-17 19:56<br>赞(0) 踩(0) | <div>最美的时光听摇滚乐，你的脸紧紧贴着我心脏，不慌不忙，青春的低频将延续播放，越叛逆越显感伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9838906)<br><br>2012-07-16 21:56<br>赞(0) 踩(0) | <div>最美的时光听摇滚乐，你的脸紧紧贴着我心脏，不慌不忙，青春的低频将延续播放，越叛逆越显感伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5750340)<br><br>2012-07-16 00:10<br>赞(0) 踩(0) | <div>#迷#“再坏的伤，不过就是七月底的阳光灿烂，夏天偷偷刺了一道吻痕在肩膀”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7959780)<br><br>2012-07-12 10:31<br>赞(0) 踩(0) | <div>最美的时光 听摇滚乐你的脸紧紧贴着我心脏</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7959780)<br><br>2012-07-12 10:31<br>赞(0) 踩(0) | <div>最美的时光 听摇滚乐<br>你的脸紧紧贴着我心脏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7201450)<br><br>2012-07-11 00:22<br>赞(0) 踩(0) | <div>再坏的伤 不过就是七月底的阳光灿烂 夏天偷偷刺了一道吻痕在肩膀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1855738)<br>为虾米你踮起脚思念...<br>2012-07-10 11:55<br>赞(0) 踩(0) | <div>没关系，我可以很**~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3110380)<br>敏感无趣冷幽默，矫情幼稚...<br>2012-07-05 12:23<br>赞(0) 踩(0) | <div>这首歌一出来就非常喜欢，现在也是。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106749)<br>简单生活<br>2012-07-02 15:12<br>赞(0) 踩(0) | <div>这么多年 我一直把第一句听 在你的时光 原来是 最美的时光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6797094)<br><br>2012-06-23 16:16<br>赞(0) 踩(0) | <div>慢摇的舞蹈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8728904)<br>我还没想好要写什么...<br>2012-06-21 05:00<br>赞(0) 踩(0) | <div>时间偏偏故意弄脏你我的脸庞</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4299299)<br><br>2012-06-14 13:18<br>赞(0) 踩(0) | <div>在快乐上不过就是七月里的阳光灿烂啊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4299299)<br><br>2012-06-14 13:18<br>赞(0) 踩(0) | <div>在快乐上<br><br>不过就是七月里的阳光灿烂啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3463740)<br><br>2012-06-06 10:28<br>赞(0) 踩(0) | <div>老歌一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8434868)<br><br>2012-05-19 00:51<br>赞(0) 踩(0) | <div>15岁的时候再得到那个5岁时候热爱的布娃娃，65岁的时候终于有钱买25岁的时候热爱的那条裙子，又有什么意义。  虽然这话最近被很多45度仰望天空非主流青年转发，但是之前在书里读到的时候就真的很喜欢。什么都可以从头再来，只有青春不能，那么多事情，跟青春绑在一起就是美好，离开青春，就是傻帽。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7335283)<br>暂无签名~<br>2012-05-14 22:31<br>赞(0) 踩(0) | <div>再坏的伤，不过就是你和我最好的照片。</div> |
@@ -1341,7 +1341,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/775621)<br> <br>2010-04-10 22:04<br>赞(0) 踩(0) | <div>很美好的··听着就觉得很清新</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/437466)<br>文不能测字武不能防身<br>2010-01-26 20:58<br>赞(0) 踩(0) | <div>她的曲风，不适合公主称号，更像是女王。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/610043)<br><br>2010-01-18 14:07<br>赞(0) 踩(0) | <div>一个美女给我听的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/500870)<br><br>2009-12-07 18:28<br>赞(0) 踩(0) | <div>那麽多爱 那麽多幸福 那样的感觉变成一般 流行的歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/500870)<br><br>2009-12-07 18:28<br>赞(0) 踩(0) | <div>那麽多爱 那麽多幸福 那样的感觉<br>变成一般 流行的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111915)<br>C<br>2009-11-02 10:46<br>赞(0) 踩(0) | <div>最美的时光，听摇滚乐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/467693)<br><br>2009-10-29 12:04<br>赞(0) 踩(0) | <div>Hebe&amp;amp;陈珊妮，很神奇~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/467693)<br><br>2009-10-29 12:04<br>赞(0) 踩(0) | <div>缠绕在心里的离别小情绪</div> |

@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5fe0c1944ad49360997b19d8d0f8520f.jpeg)<br>张朕](https://i.xiami.com/jiushiguang) | **播放数**: 2364790<br>**粉丝数**: 44<br>**评论数**: 1<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 柔顺爵士 Smooth Jazz, 民谣 Folk, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/5fe0c1944ad49360997b19d8d0f8520f.jpeg)<br>张朕](https://i.xiami.com/jiushiguang) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 柔顺爵士 Smooth Jazz, 民谣 Folk, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 2364790<br>**粉丝数**: 44<br>**评论数**: 1<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -22,6 +19,6 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5327138)<br>2021虾米最后一首新歌...<br>2020-11-01 02:03<br>赞(0) 踩(0) | <div>坚持✊</div> |

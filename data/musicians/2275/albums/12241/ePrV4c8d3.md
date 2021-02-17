@@ -31,7 +31,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114204902)<br><br>2018-07-14 20:47<br>赞(0) 踩(0) | <div>怎么这样  太令人失望啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307219649)<br><br>2017-07-12 00:58<br>赞(0) 踩(0) | <div>毁童年的热血江湖系列</div> |

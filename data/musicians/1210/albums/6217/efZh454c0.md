@@ -70,8 +70,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2630472)<br><br>2021-01-11 11:18<br>赞(0) 踩(0) | <div>副歌太好听，旋律跟和声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445677668)<br><br>2020-12-04 22:07<br>赞(0) 踩(0) | <div>你这么幽默，是他有眼无珠 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135559)<br><br>2020-12-02 23:12<br>赞(0) 踩(0) | <div>怎么搞的，像第一次听这歌一样</div> |
@@ -138,7 +138,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/812997)<br>最难了是人心<br>2017-05-21 14:54<br>赞(13) 踩(0) | <div>想到大学时候疯狂迷恋张震岳的日子，这张专辑走路听，周五回家坐公交车听。那时候风高云淡，舒爽开心。现在深处2000多公里的异乡，却倍加想家。想那里的风，那里的天，那里河水反射的阳光。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49991943)<br><br>2017-05-08 10:59<br>赞(0) 踩(0) | <div>想要的爱情就这么简单 只想在你的身边说爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49984720)<br><br>2017-05-08 10:10<br>赞(0) 踩(0) | <div>单曲循环</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88286602)<br>从此再无美好<br>2017-04-28 16:19<br>赞(62) 踩(0) | <div>是梁静茹给你勇气么不，是张震岳</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88286602)<br>从此再无美好<br>2017-04-28 16:19<br>赞(62) 踩(0) | <div>是梁静茹给你勇气么<br>不，是张震岳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290734973)<br> <br>2017-04-24 09:38<br>赞(0) 踩(0) | <div>呜哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281213204)<br><br>2017-03-18 06:20<br>赞(0) 踩(0) | <div>需要一点勇气。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259719711)<br><br>2017-03-13 18:23<br>赞(0) 踩(0) | <div>❤️</div> |
@@ -161,7 +161,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197483846)<br>敞开吃吧。<br>2016-07-05 01:11<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2208620)<br><br>2016-07-02 01:04<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/53376b15f77ae122bdb1ed308546bbcb.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5705050)<br><br>2016-06-27 12:40<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1682691)<br>流着口水羡慕别人，不如流...<br>2016-06-16 11:54<br>赞(30) 踩(0) | <div>应该属于开始会更加贴切，但是知道这首歌已经是中段了。没勇气也是怕，怕放弃之后后悔，怕选择一人后玩心太重，手机没电的时候，最怕的就是你找我，找不到我，慌了起来，想到我都心疼了。可我忘了你一次都没主动找过我。只是想在你的身边，干什么都行。那个时候的张震岳就是情感寄托，《我会想念你》《分手吧》《秘密》这些歌词写的太恰当了！总在黎明来临之前我还是就已经清醒，什么时候我才可以进入你的心里面，好想对你说我正在想你，进行24小时。也许在你的心中早就已经有人或许你不接受黄土老男人。只有在梦中才能看你，才能靠近你，醒来之后越想越模糊，最后梦也忘了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1682691)<br>流着口水羡慕别人，不如流...<br>2016-06-16 11:54<br>赞(30) 踩(0) | <div>应该属于开始会更加贴切，但是知道这首歌已经是中段了。<br>没勇气也是怕，怕放弃之后后悔，怕选择一人后玩心太重，手机没电的时候，最怕的就是你找我，找不到我，慌了起来，想到我都心疼了。可我忘了你一次都没主动找过我。<br><br>只是想在你的身边，干什么都行。那个时候的张震岳就是情感寄托，《我会想念你》《分手吧》《秘密》这些歌词写的太恰当了！总在黎明来临之前我还是就已经清醒，什么时候我才可以进入你的心里面，好想对你说我正在想你，进行24小<br>时。也许在你的心中早就已经有人或许你不接受黄土老男人。只有在梦中才能看你，才能靠近你，醒来之后越想越模糊，最后梦也忘了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50393024)<br>B<br>2016-05-31 16:23<br>赞(1) 踩(0) | <div>阿岳好帅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80004936)<br> <br>2016-04-23 10:17<br>赞(2) 踩(0) | <div>每一个单身汉心中都有一首属于阿岳的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32648949)<br>夏天来啦<br>2016-04-06 01:30<br>赞(0) 踩(0) | <div>暗恋之歌</div> |
@@ -202,9 +202,9 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34121481)<br><br>2019-07-06 14:38<br>赞(0) 踩(0) | <div>哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49934446)<br>SINA WEIBO:@...<br>2015-07-01 02:11<br>赞(1) 踩(0) | <div>老铁啊老铁 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12755990)<br><br>2015-06-23 00:27<br>赞(0) 踩(0) | <div>躺在床上听以前爱听的歌 … 是最舒服的事之一</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2015-06-20 13:28<br>赞(0) 踩(0) | <div>这首歌 十年了 ...我知道我一定走不开</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2015-06-20 13:28<br>赞(0) 踩(0) | <div>这首歌 十年了 ...<br><br>我知道我一定<br>走不开</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18973862)<br><br>2015-06-17 22:43<br>赞(0) 踩(0) | <div>#每日一曲#第1314条微博，也算每一条都认真对待。好几次想分享这首歌只苦于微博里面没有这个版本。“漫长的路 寂寞的夜 在心里面 哭泣的夜”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18973862)<br><br>2015-06-17 22:19<br>赞(0) 踩(0) | <div>#每日一曲# 第1314条微博，也算每一条都认认真真的对待。好早就想分享这首歌 只怪微博里没有这个版本。“漫长的路 寂寞的夜在心里面 哭泣的夜”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18973862)<br><br>2015-06-17 22:19<br>赞(0) 踩(0) | <div>#每日一曲# 第1314条微博，也算每一条都认认真真的对待。好早就想分享这首歌 只怪微博里没有这个版本。“漫长的路 寂寞的夜<br>在心里面 哭泣的夜”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48888270)<br>中文饶舌像史诗一样浪漫；...<br>2015-05-31 11:36<br>赞(1) 踩(0) | <div>刚看mv好吓人</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2015-06-20 13:26<br>赞(0) 踩(0) | <div>小胆儿</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48888270)<br>中文饶舌像史诗一样浪漫；...<br>2015-06-21 11:51<br>赞(0) 踩(0) | <div><q><b>　　　夜宵与战争 ☾　说：</b></q></div> |

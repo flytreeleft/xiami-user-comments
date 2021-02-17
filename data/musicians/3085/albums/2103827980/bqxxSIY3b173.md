@@ -38,8 +38,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49222819)<br><br>2018-10-02 18:43<br>赞(1) 踩(0) | <div>牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2253926)<br><br>2018-09-16 17:03<br>赞(1) 踩(0) | <div>这个世界出了毛病，生活简直让人难以忍受</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301109349)<br><br>2018-09-16 22:42<br>赞(0) 踩(0) | <div>咋了？</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7bb869f3a9af90f6696f4f635cf226db.png)<br>林音炫](https://i.xiami.com/l-ove) | **播放数**: 4426011<br>**粉丝数**: 1297<br>**评论数**: 138<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 轻音乐流行 Light Pop<br> |
+| [![](../../images/musicians/7bb869f3a9af90f6696f4f635cf226db.png)<br>林音炫](https://i.xiami.com/l-ove) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 轻音乐流行 Light Pop<br>**播放数**: 4426011<br>**粉丝数**: 1297<br>**评论数**: 138<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32461398)<br>曾在云上浮想联翩如今也终...<br>2021-01-09 19:25<br>赞(0) 踩(0) | <div>炫炫，我刚听你歌的时候我还在读高中，现在都上班了，最后一个月，常回家看看</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411358160)<br>好好工作，快乐生活<br>2020-12-14 09:16<br>赞(0) 踩(0) | <div>你的音乐好棒！这样小的年纪，却有这么舒缓平静的心境，好难得！是你自己谱的曲子吗？想要楚安懿的乐谱，也想给自己弹奏一曲 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364546789)<br>嘛！这个还差点意思<br>2020-10-12 09:28<br>赞(0) 踩(0) | <div>虾米日推，，惊喜不断</div> |
@@ -50,7 +50,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15855288)<br>我还没想好要写什么...<br>2018-04-15 11:51<br>赞(0) 踩(0) | <div>五年过去了，还好吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6179778)<br>弹琴打鼓，耍帅装酷<br>2018-04-19 13:13<br>赞(0) 踩(0) | <div>生活处处不尽人意，好与不好，又有何顾呢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2018-02-23 10:45<br>赞(0) 踩(0) | <div><img src="../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311033864)<br>全宇宙最酷<br>2018-02-06 19:16<br>赞(1) 踩(0) | <div>2013年的时候我上大二加过你的微信后来不再联系了我想你一定过得很好 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311033864)<br>全宇宙最酷<br>2018-02-06 19:16<br>赞(1) 踩(0) | <div>2013年的时候我上大二<br>加过你的微信<br>后来不再联系了<br>我想你一定过得很好 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6179778)<br>弹琴打鼓，耍帅装酷<br>2018-02-12 20:36<br>赞(0) 踩(0) | <div>大概～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345795983)<br>勇往直前<br>2018-01-21 19:44<br>赞(0) 踩(0) | <div>我来报道一下</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318068962)<br>呵呵。<br>2017-09-30 19:16<br>赞(0) 踩(0) | <div>弟弟好！</div> |
@@ -126,10 +126,10 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28048339)<br><br>2014-07-29 12:40<br>赞(1) 踩(0) | <div>加油吧朋友</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4478394)<br>爱吃土豆丝<br>2014-06-26 19:12<br>赞(1) 踩(0) | <div>好听。分享给我家的小朋友。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2494430)<br>Summer<br>2014-04-02 10:10<br>赞(1) 踩(0) | <div>小老乡好~~！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2014-03-26 14:16<br>赞(1) 踩(0) | <div>年轻有为啊，虽然我更偏管弦鼓点电子，不过依然会被这么打动人心的钢琴吸引。继续加油，多感悟生活，出佳作咯~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2014-03-26 14:16<br>赞(1) 踩(0) | <div>年轻有为啊，虽然我更偏管弦鼓点电子，不过依然会被这么打动人心的钢琴吸引。<br>继续加油，多感悟生活，出佳作咯~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4444582)<br><br>2014-01-05 06:51<br>赞(1) 踩(0) | <div>96年~~~~这是天才的节奏么~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6179778)<br>弹琴打鼓，耍帅装酷<br>2014-01-05 20:19<br>赞(0) 踩(0) | <div>呵呵呵，谢谢您的喜欢与支持</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22533521)<br><br>2013-12-31 00:21<br>赞(1) 踩(0) | <div>piano, my favorite.Support Him</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22533521)<br><br>2013-12-31 00:21<br>赞(1) 踩(0) | <div>piano, my favorite.<br>Support Him</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6179778)<br>弹琴打鼓，耍帅装酷<br>2014-01-05 20:19<br>赞(0) 踩(0) | <div>thanks！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16696912)<br>kiss rain<br>2013-12-25 21:41<br>赞(1) 踩(0) | <div>好听~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8294723)<br>音樂寶貝<br>2013-12-14 19:13<br>赞(2) 踩(0) | <div>好聽</div> |
@@ -141,9 +141,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21788936)<br>喜欢这个世界、讨厌？<br>2013-10-17 02:28<br>赞(2) 踩(0) | <div>钢琴少年么、加油w...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8986542)<br><br>2013-09-22 11:38<br>赞(9) 踩(0) | <div>听着这样的旋律，很放松很放松……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12235628)<br>虾米，你要早点回家<br>2013-09-19 10:52<br>赞(2) 踩(0) | <div>中秋快乐哈</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8564790)<br>宁愿疼痛也不要遗憾<br>2013-09-18 09:47<br>赞(14) 踩(0) | <div>静了喧嚣 净了忧愁一切来得自然 原始谢谢你的钢琴声^-^</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8564790)<br>宁愿疼痛也不要遗憾<br>2013-09-18 09:47<br>赞(14) 踩(0) | <div>静了喧嚣 净了忧愁<br>一切来得自然 原始<br><br>谢谢你的钢琴声^-^</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6179778)<br>弹琴打鼓，耍帅装酷<br>2013-09-18 17:48<br>赞(0) 踩(0) | <div>同样谢谢您肯在我的音乐里寻自己的记忆！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12235628)<br>虾米，你要早点回家<br>2013-09-17 08:55<br>赞(3) 踩(0) | <div>一天不见，我一直在你的左边 试听量多了好多。。。。早安哈</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12235628)<br>虾米，你要早点回家<br>2013-09-17 08:55<br>赞(3) 踩(0) | <div>一天不见，我一直在你的左边 试听量多了好多。。。。<br><br>早安哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6179778)<br>弹琴打鼓，耍帅装酷<br>2013-09-17 19:34<br>赞(0) 踩(0) | <div>0.0是呀，都归功于您的精选集，谢谢您⊙▽⊙</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12235628)<br>虾米，你要早点回家<br>2013-09-17 19:36<br>赞(0) 踩(0) | <div><q><b>林音炫说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6179778)<br>弹琴打鼓，耍帅装酷<br>2013-09-17 23:49<br>赞(0) 踩(0) | <div><q><b>桑桑吖说：</b></q></div> |
@@ -151,7 +151,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12235628)<br>虾米，你要早点回家<br>2013-09-16 20:09<br>赞(0) 踩(0) | <div>嘻嘻，我也很喜欢哦。。。抱抱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12706878)<br>当森林陷入寂静，森林便开...<br>2013-09-16 19:20<br>赞(3) 踩(0) | <div>我挺喜欢这样的音乐  支持</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6179778)<br>弹琴打鼓，耍帅装酷<br>2013-09-16 23:03<br>赞(0) 踩(0) | <div>谢谢您，/微笑</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12235628)<br>虾米，你要早点回家<br>2013-09-16 14:35<br>赞(22) 踩(0) | <div>虾米新驻音乐人，林音炫。他的音乐给人以平静。可以安安静静的窝在沙发里，可以安安静静的工作，学习。虽然年龄很小，但是音乐真的很美妙。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12235628)<br>虾米，你要早点回家<br>2013-09-16 14:35<br>赞(22) 踩(0) | <div>虾米新驻音乐人，林音炫。<br>他的音乐给人以平静。<br>可以安安静静的窝在沙发里，可以安安静静的工作，学习。<br>虽然年龄很小，但是音乐真的很美妙。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15855288)<br>我还没想好要写什么...<br>2013-09-16 17:56<br>赞(0) 踩(0) | <div>他和我是同年哦 ~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12235628)<br>虾米，你要早点回家<br>2013-09-16 20:08<br>赞(0) 踩(0) | <div><q><b>泛听欧美说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6179778)<br>弹琴打鼓，耍帅装酷<br>2013-09-16 23:00<br>赞(0) 踩(0) | <div>谢谢您的支持！</div> |

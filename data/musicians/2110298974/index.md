@@ -3,7 +3,7 @@ Nerve Passenger
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a9b395dc2dab2bab9b81bf60829b4df2.jpg)<br>Nerve Passenger](https://i.xiami.com/nervepassenger) | **播放数**: 970005<br>**粉丝数**: 3005<br>**评论数**: 155<br>**地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 迷幻摇滚 Psychedelic Rock, 后摇 Post-Rock<br> |
+| [![](../../images/musicians/a9b395dc2dab2bab9b81bf60829b4df2.jpg)<br>Nerve Passenger](https://i.xiami.com/nervepassenger) | **地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 迷幻摇滚 Psychedelic Rock, 后摇 Post-Rock<br>**播放数**: 970005<br>**粉丝数**: 3005<br>**评论数**: 155<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@ Nerve Passenger
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9062060)<br>此生没拿一个亿来爱虾米是...<br>2021-01-18 15:40<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439966787)<br><br>2021-01-03 18:40<br>赞(0) 踩(0) | <div>来贵阳吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/372991589)<br>开始自闭(＝)<br>2021-01-02 09:08<br>赞(0) 踩(0) | <div>沈阳！</div> |
@@ -67,7 +67,7 @@ Nerve Passenger
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110088060)<br>作为报答、我吔给泥放点、...<br>2020-02-14 16:20<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356763773)<br>我还没想好要写什么...<br>2020-02-06 14:12<br>赞(0) 踩(0) | <div>~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3499146)<br> <br>2020-02-06 13:21<br>赞(0) 踩(0) | <div>二十年后say hello</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/518865)<br>你看不见吗？<br>2020-01-10 19:30<br>赞(0) 踩(0) | <div>杰宝再见～也希望乐队能尽快找到新鼓手，继续创作和演出.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/518865)<br>你看不见吗？<br>2020-01-10 19:30<br>赞(0) 踩(0) | <div>杰宝再见～<br>也希望乐队能尽快找到新鼓手，继续创作和演出.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73740960)<br><br>2020-01-07 10:56<br>赞(0) 踩(0) | <div><img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201391232)<br>最快的方法是先抱抱<br>2020-01-03 22:17<br>赞(0) 踩(0) | <div>彡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3295119)<br>∞<br>2019-12-24 00:53<br>赞(1) 踩(0) | <div>❥有毒吧。几乎每首都喜欢。</div> |
@@ -130,7 +130,7 @@ Nerve Passenger
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49778097)<br>SINA：嗎啡緩釋片<br>2019-01-06 08:35<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274676)<br><br>2018-12-31 13:40<br>赞(0) 踩(0) | <div>加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92686490)<br><br>2018-12-27 01:34<br>赞(4) 踩(0) | <div>來吧 現場見</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313434744)<br>onlyforyan♡<br>2018-12-22 12:19<br>赞(2) 踩(0) | <div>真的好想好想好想好想看你们的现场啊呜呜呜呜呜我沉醉了三个月啦</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313434744)<br>onlyforyan♡<br>2018-12-22 12:19<br>赞(2) 踩(0) | <div>真的好想好想好想好想看你们的现场啊呜呜呜呜呜<br>我沉醉了三个月啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112463526)<br>豆瓣: 坤斤拷    我...<br>2018-12-12 11:27<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42989678)<br>勇敢<br>2018-12-07 00:44<br>赞(0) 踩(0) | <div>什么时候能现场见</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322699691)<br>乐队<br>2018-12-08 15:10<br>赞(0) 踩(0) | <div>随时</div> |
@@ -154,7 +154,7 @@ Nerve Passenger
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48276337)<br>22世纪不道德<br>2018-06-26 20:51<br>赞(0) 踩(0) | <div><img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17413363)<br>：（<br>2018-06-03 18:38<br>赞(0) 踩(0) | <div>等！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227844644)<br>别的世界一定比这个好<br>2018-05-31 04:06<br>赞(1) 踩(0) | <div>很令人享受的现场</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4195148)<br>热爱生活的普通人<br>2018-05-28 06:35<br>赞(4) 踩(0) | <div>现场买了专辑 发现里面已经签好名了？<img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4195148)<br>热爱生活的普通人<br>2018-05-28 06:35<br>赞(4) 踩(0) | <div>现场买了专辑 发现里面已经签好名了？<br><img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71670866)<br>如果我听歌可眼红<br>2018-05-23 22:25<br>赞(1) 踩(0) | <div>深圳是热了点hhh 按我说就得喝  今晚这现场感受还是挺好哒 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png">，而且我都猜对演的顺序诶hhhhh，吉他手和贝斯手两位真的好亲和哦hhhhhhh  明年继续哦！那首后摇也要发出来哦（喜欢鸟鸟</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226081577)<br>人生总要有点喜欢的事情吧...<br>2018-05-24 13:33<br>赞(0) 踩(0) | <div>没猜错的话，你是花花？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322699691)<br>乐队<br>2018-05-24 15:41<br>赞(0) 踩(0) | <div>来年就能听到鸟鸟了</div> |

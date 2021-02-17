@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78438002)<br>我还没想好要写什么...<br>2021-01-03 13:11<br>赞(1) 踩(0) | <div>仙三的重楼，仙四的玄霄，仙五前的二叔，古一的紫胤，古二的大祭司，都是自带bgm的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2220502)<br>so far so go...<br>2020-06-06 06:59<br>赞(0) 踩(0) | <div>當時玩2時唯一一首被真正驚艷到的曲子我敢說嗎？ <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63745010)<br>随心.随性.随遇.随缘<br>2019-06-20 07:03<br>赞(2) 踩(0) | <div>烟雨路纸伞湿透，不见君回首，临风赏旧柳~</div> |

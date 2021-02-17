@@ -36,6 +36,6 @@ I am fine and I hope that you are too
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342083381)<br><br>2018-03-10 12:27<br>赞(0) 踩(0) | <div>好多版本</div> |

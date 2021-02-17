@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6f5f42695c28b6303d9d4fec0f42ca08.jpg)<br>倚楼大白](https://i.xiami.com/bai_19980311) | **播放数**: 1080859<br>**粉丝数**: 100<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/6f5f42695c28b6303d9d4fec0f42ca08.jpg)<br>倚楼大白](https://i.xiami.com/bai_19980311) | **地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk<br>**播放数**: 1080859<br>**粉丝数**: 100<br>**评论数**: 6<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445399799)<br><br>2020-11-19 15:56<br>赞(0) 踩(0) | <div>夜半歌声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433406406)<br>民谣有三：爱情，理想，远...<br>2020-01-06 03:47<br>赞(1) 踩(0) | <div>我愿乐队和你一起演奏一起进步 不仅仅是一把木吉他 所有该有的我们都要有 <img src="../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418445873)<br>道听途说，众生皆苦<br>2020-01-06 10:11<br>赞(0) 踩(0) | <div><img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |

@@ -44,8 +44,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38577704)<br>其实跳不出生活<br>2020-12-11 19:33<br>赞(0) 踩(0) | <div>居然没留言过 好爱这首歌 这整张专辑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/653814)<br>Be happy<br>2020-02-22 01:28<br>赞(0) 踩(0) | <div>你像夏天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208564972)<br><br>2019-10-28 00:06<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
@@ -53,7 +53,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24282704)<br><br>2018-04-24 17:53<br>赞(0) 踩(0) | <div>很适合今天的天气，想到一个朋友，或者说当时的我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317003158)<br>清楚自己的价值与无价值<br>2017-12-13 18:53<br>赞(0) 踩(0) | <div>但已经是过去的事。你像夏天，只爱自己。只爱自己。我却等你一个四季。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8191448)<br>相似度多少你才会开口<br>2017-12-06 22:11<br>赞(1) 踩(0) | <div>.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71127526)<br>无常逐一升起和熄灭，我对...<br>2017-10-27 23:51<br>赞(1) 踩(0) | <div>秋天摇着尾巴说他其实爱着夏天但已经是过去的事冬天又来了要秋天多给一点时间还偷偷想着春天春花秋月最寂寞冬雨不讨人喜欢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71127526)<br>无常逐一升起和熄灭，我对...<br>2017-10-27 23:51<br>赞(1) 踩(0) | <div>秋天摇着尾巴<br><br>说他其实爱着夏天<br><br>但已经是过去的事<br><br>冬天又来了<br><br>要秋天多给一点时间<br><br>还偷偷想着春天<br><br>春花秋月最寂寞<br><br>冬雨不讨人喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2278977)<br>the owner of...<br>2017-10-27 23:10<br>赞(0) 踩(0) | <div>秋天摇着尾巴 说他其实爱着夏天 但已经是过去的事 冬天又来了 要秋天多给一点时间 还偷偷想着春天 春花秋月最寂寞 冬雨不讨人喜欢 你像夏天只爱自己 我却等你一个四季</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/396490)<br>如果毫无畏惧，你会怎么做...<br>2017-10-19 22:44<br>赞(3) 踩(0) | <div>整理了公主为其他歌手创作和制作的歌曲，发现《四季》这首歌1996同时被收录在许茹芸和公主自己的专辑里，但是许的版本听起来陈旧气息扑面而来，公主的编曲听起来依然正，才惊觉公主是真的很时髦了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9079353)<br>氓之嗤嗤<br>2017-08-22 13:02<br>赞(0) 踩(0) | <div>好听好听</div> |
@@ -90,7 +90,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7811830)<br><br>2015-03-21 16:19<br>赞(0) 踩(0) | <div>今天我的好歌推荐是；陈珊妮《四季》推荐理由；昨天晚上无意中翻到陈珊妮的第二张专辑《四季末的畅游》这张专辑在她早期专辑中我最喜欢这张 听听这里面收录的这一首《四季》吧 这是我听到她的第一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8966202)<br>我不要死后被珍藏。<br>2015-01-12 22:10<br>赞(0) 踩(0) | <div>“春花秋月最寂寞，冬雨不讨人喜欢。”  刚刚真的下了一场冬雨，可恨的是，我今天刚洗了两条毛毯呢，啊！！！！明天收拾行李离家出走的计划被打乱了，很生气。口亨！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2015-01-09 05:34<br>赞(2) 踩(0) | <div>这不是摇滚是什么</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8473015)<br>要决心忘记我便记不起<br>2015-01-06 07:35<br>赞(0) 踩(0) | <div>你像夏天只爱自己我却等你一个四季</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8473015)<br>要决心忘记我便记不起<br>2015-01-06 07:35<br>赞(0) 踩(0) | <div>你像夏天只爱自己<br>我却等你一个四季</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9661658)<br><br>2014-11-14 15:20<br>赞(0) 踩(0) | <div>唉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2165725)<br>我还没想好要写什么...<br>2014-10-17 00:57<br>赞(0) 踩(0) | <div>00</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5052990)<br><br>2014-10-04 21:04<br>赞(0) 踩(0) | <div>如果你能在秋季来到/ 我会用掸子把夏天掸掉</div> |
@@ -114,7 +114,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3844617)<br>我还没想好要写什么...<br>2013-01-05 00:41<br>赞(0) 踩(0) | <div>你像夏天只爱自己 我却等你一个四季</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10534467)<br>继续无聊，继续听歌<br>2012-12-03 23:25<br>赞(0) 踩(0) | <div>你像夏天只爱自己，我却等你一个四季。很好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/965276)<br><br>2012-11-04 15:05<br>赞(0) 踩(0) | <div>你像夏天只爱自己，我却等你一个四季</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522565)<br><br>2012-10-25 05:28<br>赞(0) 踩(0) | <div>春花秋月最寂寞冬雨不讨人喜欢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522565)<br><br>2012-10-25 05:28<br>赞(0) 踩(0) | <div>春花秋月最寂寞<br>冬雨不讨人喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2323614)<br><br>2012-10-24 14:13<br>赞(0) 踩(0) | <div>“秋天摇着尾巴，说他其实爱着夏天。”——好诗好诗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10903712)<br><br>2012-10-16 16:23<br>赞(0) 踩(0) | <div>你像夏天只爱自己，我却等你一个四季。好早喜欢的歌今天又意外听到。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6779087)<br><br>2012-10-03 11:49<br>赞(1) 踩(0) | <div>最近极其感性 听这么欢快的歌都想哭 闹哪样</div> |

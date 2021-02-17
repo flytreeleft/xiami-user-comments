@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e0a3e6ea498946d51e249587f2ee71c7.jpg)<br>白雪](https://i.xiami.com/bx) | **播放数**: 12761028<br>**粉丝数**: 2278<br>**评论数**: 70<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/e0a3e6ea498946d51e249587f2ee71c7.jpg)<br>白雪](https://i.xiami.com/bx) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 12761028<br>**粉丝数**: 2278<br>**评论数**: 70<br> |
 
 ## 档案
 
@@ -103,8 +103,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441009450)<br>莫愁前路无知己，天下谁人...<br>2020-11-17 04:25<br>赞(0) 踩(0) | <div>白雪好漂亮，你们觉得呢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280526227)<br><br>2020-11-14 14:27<br>赞(0) 踩(0) | <div>没有真本事能进总政？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345180119)<br><br>2020-10-06 16:33<br>赞(0) 踩(0) | <div>唱的真好!百听不厌。</div> |
@@ -159,8 +159,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12543659)<br><br>2015-08-22 21:16<br>赞(1) 踩(0) | <div>2015年cctv我是一个兵八一特别节目，听她歌唱二小放牛郎，被震撼了，如此忧伤而美丽的旋律，反复听了n遍，特地找来留念</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10543171)<br><br>2015-01-05 16:47<br>赞(1) 踩(0) | <div>头像美爆了有没有</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17777300)<br> <br>2014-09-19 23:09<br>赞(1) 踩(0) | <div>这么好的歌手 强烈推荐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3246148)<br><br>2014-07-15 23:06<br>赞(1) 踩(0) | <div>相貌真的仙女似的被军旅歌手的身份限制了不过她这一代的通俗歌手也没几个混出来的</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9566654)<br><br>2020-05-24 00:03<br>赞(0) 踩(0) | <div>是的，本来她也是和孙悦陈琳甘萍同时期出道的国内顶级女歌手，就是因为军旅歌手军人歌唱家身份限制她的音乐受众关注度，限制她的「红」了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3246148)<br><br>2014-07-15 23:06<br>赞(1) 踩(0) | <div>相貌真的仙女似的<br>被军旅歌手的身份限制了<br>不过她这一代的通俗歌手也没几个混出来的</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9566654)<br><br>2020-05-24 00:03<br>赞(0) 踩(0) | <div>是的，本来她也是和孙悦陈琳甘萍同时期出道的国内顶级女歌手，<br>就是因为军旅歌手军人歌唱家身份限制她的音乐受众关注度，限制她的「红」了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11069474)<br> <br>2014-06-29 14:31<br>赞(1) 踩(0) | <div>见与不见~~ 很久以前还在看MTV音悦台的时候听到就觉得很好听的歌诶~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16263850)<br>下架鸡柳的肯德基不迷人了...<br>2014-03-05 09:47<br>赞(1) 踩(0) | <div>居然还在出专辑，赞一个!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5998313)<br>杏花春雨江南。<br>2013-05-11 01:50<br>赞(1) 踩(0) | <div>很可惜白雪就是红不起来！</div> |

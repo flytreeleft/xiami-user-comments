@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c3592d126c5c500aa9ed57e25fc5e8bb.jpg)<br>乌兰托娅](https://i.xiami.com/wlty) | **播放数**: 42881876<br>**粉丝数**: 17018<br>**评论数**: 570<br>**地区**: China 中国大陆<br>**风格**: 中国传统民歌 Chinese Traditional Folk<br> |
+| [![](../../images/musicians/c3592d126c5c500aa9ed57e25fc5e8bb.jpg)<br>乌兰托娅](https://i.xiami.com/wlty) | **地区**: China 中国大陆<br>**风格**: 中国传统民歌 Chinese Traditional Folk<br>**播放数**: 42881876<br>**粉丝数**: 17018<br>**评论数**: 570<br> |
 
 ## 档案
 
@@ -90,8 +90,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319688150)<br>愿经典不被遗忘<br>2020-12-01 01:43<br>赞(0) 踩(0) | <div><img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-11-23 11:49<br>赞(0) 踩(0) | <div>42168</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443654763)<br>歌手/音乐家，王俊凯粉丝...<br>2020-07-26 09:50<br>赞(0) 踩(0) | <div>好听好听好听</div> |
@@ -141,7 +141,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247798904)<br><br>2018-06-08 17:41<br>赞(1) 踩(0) | <div>就喜欢你的歌 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png">听着大气，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374416836)<br>我还没想好要写什么...<br>2018-06-03 16:05<br>赞(1) 踩(0) | <div>喜欢这首歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283744292)<br><br>2018-05-20 15:04<br>赞(1) 踩(0) | <div>喜欢托娅的歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345849489)<br><br>2018-05-15 14:42<br>赞(1) 踩(0) | <div>本来还不敢说，看了评论，才知道有那么多人不喜欢啚雅。我不想说她唱不好，只想说，确实比不上您老帅那磁性的嗓音。我到过包头，那是鄂尔多斯，而不是呼伦貝尔大草原吧！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345849489)<br><br>2018-05-15 14:42<br>赞(1) 踩(0) | <div>本来还不敢说，看了评论，才知道有那么多人不喜欢啚雅。我不想说她唱不好，只想说，确实比不上您老帅那磁性的嗓音。<br>我到过包头，那是鄂尔多斯，而不是呼伦貝尔大草原吧！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357674040)<br><br>2018-05-09 07:04<br>赞(1) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357674040)<br><br>2018-05-09 07:04<br>赞(1) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332776816)<br><br>2018-03-27 20:10<br>赞(1) 踩(0) | <div>******</div> |
@@ -182,7 +182,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10504149)<br>毛豆<br>2017-10-30 10:19<br>赞(2) 踩(0) | <div>辽阔，悠扬的歌声，听着心情也激扬起来。最近就是喜欢上了草原的歌，喜欢上了乌兰托娅。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6372249)<br><br>2017-10-28 00:26<br>赞(0) 踩(0) | <div>我老牛逼了，一下子听出虾米里的我要去洗澡不是乌兰托娅版本，因为没有感情 <img src="../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297196933)<br> <br>2017-10-28 00:13<br>赞(27) 踩(0) | <div>对，别的就不多说了，她再怎么冒名顶替，那也是我们亲爱的托娅姐姐最好，也比不上我们的托娅姐姐，我们永远记得原唱，反对盗版，我们的托娅姐姐永远都是最棒的！朋友们，赞起来！ <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13760096)<br><br>2017-10-27 23:46<br>赞(2) 踩(0) | <div>乌兰托娅是一只不可救药的快乐鸟，即使关在笼子里也要先唱歌再睡觉。她的歌声中有一种天生的流动感，仿佛悠悠飘扬的玉色绸缎；其音色有一种难以模仿的优美婉转，仿佛从蓝天流泻到草原上的清泉，带有一种令人清爽的单纯和妩媚。乌兰托娅就象大地母亲的最小的，被宠坏了的女儿，天生就不知道什么叫忧愁。她的歌对承受生活重担的人是一种安慰，让人觉得生活其实可以挺轻松的。有时她会漫不尽心地浮在精神的表面，但这种没有深度的漂游被草原心灵的单纯与宽广所弥补，以至于不让人觉得狭隘。更多评论请看我的讲座《莫尔根，布仁巴雅尔和乌兰托娅》<a href="http://blog.sina.com.cn/wenhuafuxingzhilu" target="_blank" rel="nofollow noreferrer noopener">http://blog.sina.com.cn/wenhuafuxingzhilu</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13760096)<br><br>2017-10-27 23:46<br>赞(2) 踩(0) | <div>乌兰托娅是一只不可救药的快乐鸟，即使关在笼子里也要先唱歌再睡觉。她的歌声中有一种天生的流动感，仿佛悠悠飘扬的玉色绸缎；其音色有一种难以模仿的优美婉转，仿佛从蓝天流泻到草原上的清泉，带有一种令人清爽的单纯和妩媚。<br><br>乌兰托娅就象大地母亲的最小的，被宠坏了的女儿，天生就不知道什么叫忧愁。她的歌对承受生活重担的人是一种安慰，让人觉得生活其实可以挺轻松的。有时她会漫不尽心地浮在精神的表面，但这种没有深度的漂游被草原心灵的单纯与宽广所弥补，以至于不让人觉得狭隘。<br><br>更多评论请看我的讲座《莫尔根，布仁巴雅尔和乌兰托娅》<a href="http://blog.sina.com.cn/wenhuafuxingzhilu" target="_blank" rel="nofollow noreferrer noopener">http://blog.sina.com.cn/wenhuafuxingzhilu</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110325168)<br>珍惜与虾米为数不多的日子...<br>2017-10-26 17:37<br>赞(1) 踩(0) | <div>这才是草原天籁之音，读初中的时候喜欢听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324170380)<br>音乐能够抚平伤过人的心☪...<br>2017-10-01 00:15<br>赞(1) 踩(0) | <div>人美歌甜,让人放松心情。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297138378)<br>免费包邮到家<br>2017-09-15 11:42<br>赞(1) 踩(0) | <div>套马轩被黑了。</div> |
@@ -194,7 +194,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352427104)<br><br>2018-02-26 19:17<br>赞(0) 踩(0) | <div>咯哦姐姐哦哦哦额额额额呃呃呃</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3120775)<br><br>2017-05-13 09:37<br>赞(4) 踩(0) | <div>这里面的套马杆和唱响中国版的一听完全是俩人。虾米搞错了？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297138378)<br>免费包邮到家<br>2017-09-15 11:43<br>赞(0) 踩(0) | <div>套马杆被黑了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3120775)<br><br>2017-05-13 09:30<br>赞(18) 踩(0) | <div>一听就是乌兰图娅。喜欢乌兰托娅，讨厌乌兰图雅。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3120775)<br><br>2017-05-13 09:30<br>赞(18) 踩(0) | <div>一听就是乌兰图娅。<br>喜欢乌兰托娅，讨厌乌兰图雅。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297196933)<br> <br>2017-05-18 19:02<br>赞(0) 踩(0) | <div>赞 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275185107)<br><br>2017-05-12 23:04<br>赞(4) 踩(0) | <div>我很喜欢听乌兰托娅的歌，她是蒙古最好的歌手。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298412512)<br>喜欢草原风景，爱学习，爱...<br>2017-05-24 22:40<br>赞(0) 踩(0) | <div>你的头像明明是雅姐，你是不是发错了？</div> |
@@ -204,7 +204,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292888396)<br><br>2017-05-02 00:37<br>赞(0) 踩(0) | <div>关键是要咋下载？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292163695)<br><br>2017-04-28 23:21<br>赞(0) 踩(0) | <div><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270955322)<br><br>2017-04-26 16:07<br>赞(0) 踩(0) | <div>不是原唱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11151712)<br><br>2017-04-16 10:13<br>赞(2) 踩(0) | <div>热门歌曲的第二首，套马杆，不是乌兰托娅的版本，虾米是不是弄错了！托 与 图 是一字之差，但听着感觉天壤之别！支持乌兰托娅！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11151712)<br><br>2017-04-16 10:13<br>赞(2) 踩(0) | <div>热门歌曲的第二首，套马杆，不是乌兰托娅的版本，虾米是不是弄错了！<br>托 与 图 是一字之差，但听着感觉天壤之别！<br>支持乌兰托娅！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32901235)<br>暂无签名~<br>2017-04-07 23:05<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281984828)<br> <br>2017-04-03 20:51<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283828044)<br>九曲黄河浪里沙，人生前途...<br>2017-04-03 18:53<br>赞(1) 踩(0) | <div>好听</div> |
@@ -221,7 +221,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275068372)<br>都要好好的<br>2017-03-02 15:31<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35997489)<br><br>2017-02-27 18:04<br>赞(0) 踩(0) | <div>22</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256032271)<br><br>2017-02-25 21:57<br>赞(0) 踩(0) | <div>什么情况咋都不知持 <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274970188)<br><br>2017-02-20 22:27<br>赞(2) 踩(0) | <div>很喜欢他歌工作累听听，心情能放松</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274970188)<br><br>2017-02-20 22:27<br>赞(2) 踩(0) | <div>很喜欢他歌<br>工作累听听，心情能放松</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274921954)<br><br>2017-02-20 19:44<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253131658)<br>我还没想好要写什么...<br>2017-02-20 10:34<br>赞(0) 踩(0) | <div>也许人家根本就不在乎，因为如果是我也不会在乎，歌唱给喜欢它的人听就好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27610222)<br><br>2017-02-15 23:57<br>赞(1) 踩(0) | <div>喜欢乌兰托娅的声音 舒服</div> |
@@ -252,7 +252,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117167636)<br><br>2016-03-12 19:04<br>赞(0) 踩(0) | <div>歌曲下载在手机的内存卡中</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116674362)<br><br>2016-03-06 08:30<br>赞(1) 踩(0) | <div>豪爽的洒脱,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50124385)<br>人生若只如初见，何事秋风...<br>2016-02-08 00:53<br>赞(1) 踩(0) | <div>还是原版好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5055127)<br>把爱国挂在嘴上的人不是汉...<br>2015-12-08 12:06<br>赞(2) 踩(0) | <div>看了半天我才明白，原来勿滥涂鸦有两个。两个人的唱调咬字重点不同，各有特色。不过我还是喜欢这个。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5055127)<br>把爱国挂在嘴上的人不是汉...<br>2015-12-08 12:06<br>赞(2) 踩(0) | <div>看了半天我才明白，原来勿滥涂鸦有两个。两个人的唱调咬字重点不同，各有特色。<br>不过我还是喜欢这个。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5055127)<br>把爱国挂在嘴上的人不是汉...<br>2015-12-08 11:56<br>赞(0) 踩(0) | <div>虾米怎么经营的，一堆歌都下架了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86719604)<br><br>2015-11-27 09:57<br>赞(0) 踩(0) | <div>喜欢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49946405)<br><br>2015-11-25 17:18<br>赞(0) 踩(0) | <div>我听过。</div> |
@@ -308,7 +308,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1406878)<br>情难为<br>2014-03-26 20:09<br>赞(2) 踩(0) | <div>歌都哪去了！。。。保护，有代价啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33949912)<br><br>2014-03-13 20:04<br>赞(0) 踩(0) | <div>好听的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32381637)<br>此曲只应天上有<br>2014-02-04 20:15<br>赞(1) 踩(0) | <div>美丽的呼伦贝尔大草原，辽阔的疆域、矫健的马匹、肥大的羊群、清澈的泉水、朴实的牧民，还有丰富多彩的民族歌谣。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4852178)<br>音乐永无止境！ 微博 r...<br>2014-01-19 12:54<br>赞(0) 踩(0) | <div>火红的萨日朗 为什么没有啊太伤心了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4852178)<br>音乐永无止境！ 微博 r...<br>2014-01-19 12:54<br>赞(0) 踩(0) | <div>火红的萨日朗 为什么没有啊<br>太伤心了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2015-09-25 17:21<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/album/837108609?spm=a1z1s.6843761.226669510.20.wJGBOs&amp;amp;from=search_popup_album" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/album/837108609?spm=a1z1s.6843761.226669510.20.wJGBOs&amp;amp;from=search_popup_album</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9875485)<br><br>2014-01-16 19:28<br>赞(79) 踩(0) | <div>音乐界的王老吉与加多宝之争，我想支持加多宝的肯定也支持乌兰托娅吧。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8192902)<br> <br>2019-12-16 15:21<br>赞(0) 踩(0) | <div>这音乐界污点、</div> |
@@ -327,7 +327,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18996206)<br>向前冲<br>2013-09-09 16:17<br>赞(0) 踩(0) | <div>音色甜美，回味无穷！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8124353)<br><br>2013-08-27 10:00<br>赞(0) 踩(0) | <div>她的其它专辑怎么都没有了？被下架了吗，之前有至少20几张吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20284215)<br><br>2013-08-26 09:00<br>赞(0) 踩(0) | <div>草原情结</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2701140)<br><br>2013-08-13 18:26<br>赞(0) 踩(0) | <div>这个《来到草原》专辑不是套马杆原唱乌兰托娅的，而是军旅歌手乌兰托娅的。附上乌兰托娅的套马杆：<a href="http://www.xiami.com/song/1770368598" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1770368598</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2701140)<br><br>2013-08-13 18:26<br>赞(0) 踩(0) | <div>这个《来到草原》专辑不是套马杆原唱乌兰托娅的，而是军旅歌手乌兰托娅的。<br>附上乌兰托娅的套马杆：<a href="http://www.xiami.com/song/1770368598" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1770368598</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18902034)<br><br>2013-08-10 07:54<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18902034)<br><br>2013-08-10 07:54<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18902034)<br><br>2013-08-10 07:49<br>赞(0) 踩(0) | <div>父爱如山</div> |
@@ -407,7 +407,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11076419)<br><br>2012-10-16 08:43<br>赞(0) 踩(0) | <div>干净</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2076132)<br><br>2012-10-15 23:40<br>赞(0) 踩(0) | <div>就喜欢关于草原的一切</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10820112)<br><br>2012-09-29 11:31<br>赞(0) 踩(0) | <div>whatever</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2012-09-27 15:24<br>赞(0) 踩(0) | <div>于2012年9月27日造访——明达陶瓷致：艺人：乌兰托娅花性：石榴月份：五月试听：《草原之月》听感：这位歌手的鼻音太重，几乎每个咬字都带有这种‘独特’的发音，总感觉不是处在草原的环境，而是被关在一个狭小的帐篷里，即使抬头也看不见天，日子长了，憋得声嘶力竭的咆哮，最后喉咙嘶哑了，眼里飙出了委屈和压抑的眼泪。假如身处草原中，声音就可以打开了，而且可以收放自如，还能愉快地歌唱。再不会喉咙像是噎着口痰吞不下又吐不出地卯出声。日子终究会好起来的，等平抚了心绪就可以重新放声歌唱，要唱出辽阔又美丽的草原，还有草原人的豪情和平和的气质，游牧生活的自然天性和爱的光芒。夜静了，狼的嚎叫，獒的警示之声交织</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2012-09-27 15:24<br>赞(0) 踩(0) | <div>于2012年9月27日造访——明达陶瓷致：<br>艺人：乌兰托娅<br>花性：石榴<br>月份：五月<br>试听：《草原之月》<br>听感：这位歌手的鼻音太重，几乎每个咬字都带有这种‘独特’的发音，总感觉不是处在草原的环境，而是被关在一个狭小的帐篷里，即使抬头也看不见天，日子长了，憋得声嘶力竭的咆哮，最后喉咙嘶哑了，眼里飙出了委屈和压抑的眼泪。假如身处草原中，声音就可以打开了，而且可以收放自如，还能愉快地歌唱。再不会喉咙像是噎着口痰吞不下又吐不出地卯出声。日子终究会好起来的，等平抚了心绪就可以重新放声歌唱，要唱出辽阔又美丽的草原，还有草原人的豪情和平和的气质，游牧生活的自然天性和爱的光芒。夜静了，狼的嚎叫，獒的警示之声交织</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5087295)<br><br>2012-09-25 17:47<br>赞(0) 踩(0) | <div>气质独特</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10767868)<br>川川<br>2012-09-24 13:25<br>赞(0) 踩(0) | <div>草原美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10081135)<br><br>2012-09-24 00:02<br>赞(0) 踩(0) | <div>天籁之音</div> |

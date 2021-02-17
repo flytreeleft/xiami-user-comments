@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c2395c9b905b2701f2501ecab7519368.jpg)<br>古典吉他刘和松](https://i.xiami.com/krnfx66) | **播放数**: 1587845<br>**粉丝数**: 431<br>**评论数**: 11<br>**地区**: China 中国大陆<br>**风格**: 古典音乐 Classical, 管弦乐 Orchestral, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/c2395c9b905b2701f2501ecab7519368.jpg)<br>古典吉他刘和松](https://i.xiami.com/krnfx66) | **地区**: China 中国大陆<br>**风格**: 古典音乐 Classical, 管弦乐 Orchestral, 轻音乐 Easy Listening<br>**播放数**: 1587845<br>**粉丝数**: 431<br>**评论数**: 11<br> |
 
 ## 档案
 
@@ -44,8 +44,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-06-19 14:12<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321178648)<br>我还没想好要写什么...<br>2020-03-05 15:10<br>赞(0) 踩(0) | <div>冉冉升起</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376574124)<br>古典吉他成就你我音乐梦<br>2020-03-06 13:32<br>赞(0) 踩(0) | <div>感谢您的支持，我会继续努力，还有新作陆续更新</div> |

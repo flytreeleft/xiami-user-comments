@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1a297be8cc8aad52408cce9a8e961b92.jpg)<br>紫雨飘香](https://i.xiami.com/abbb) | **播放数**: 2763905<br>**粉丝数**: 272<br>**评论数**: 2<br>**地区**: China 中国大陆<br>**风格**: <br> |
+| [![](../../images/musicians/1a297be8cc8aad52408cce9a8e961b92.jpg)<br>紫雨飘香](https://i.xiami.com/abbb) | **地区**: China 中国大陆<br>**风格**: <br>**播放数**: 2763905<br>**粉丝数**: 272<br>**评论数**: 2<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -30,7 +27,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443615726)<br><br>2020-06-16 16:12<br>赞(1) 踩(0) | <div>百听不厌 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42866815)<br>我还没想好要写什么...<br>2019-12-12 13:07<br>赞(2) 踩(0) | <div>唱得好听 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |

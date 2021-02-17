@@ -51,8 +51,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302118592)<br><br>2020-12-23 19:56<br>赞(0) 踩(0) | <div>38年前在别人家看的黑白电视</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406748516)<br>我还没想好要写什么...<br>2020-06-18 22:14<br>赞(0) 踩(0) | <div>嘟滴嘟的喇叭嘟 嘟 嘟的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405299055)<br><br>2020-06-07 19:16<br>赞(0) 踩(0) | <div>司母圈畛的时候就会有）</div> |

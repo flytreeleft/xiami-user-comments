@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8294359)<br><br>2020-08-15 17:56<br>赞(0) 踩(0) | <div>非常喜欢这首战斗bgm！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279853917)<br><br>2017-11-21 12:13<br>赞(0) 踩(0) | <div>喜欢这节奏，胜利的喜悦感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6595398)<br><br>2015-11-22 00:30<br>赞(0) 踩(0) | <div>不错的战斗配乐</div> |

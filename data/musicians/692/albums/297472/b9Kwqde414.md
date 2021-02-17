@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6998016)<br>喵喵喵<br>2013-11-23 21:23<br>赞(0) 踩(0) | <div>带一点厮杀声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1327785)<br>料峭春風吹酒醒<br>2011-04-08 08:51<br>赞(0) 踩(0) | <div>《幻想三国志4》</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d8cc6e41677a7aa75c4ed85acd9e4cb7.jpg)<br>原子邦妮 Astro Bunny](https://i.xiami.com/astrobunny) | **播放数**: 14479991<br>**粉丝数**: 8324<br>**评论数**: 207<br>**地区**: Taiwan, PRC 中国台湾<br>**风格**: 电音流行 Electropop<br> |
+| [![](../../images/musicians/d8cc6e41677a7aa75c4ed85acd9e4cb7.jpg)<br>原子邦妮 Astro Bunny](https://i.xiami.com/astrobunny) | **地区**: Taiwan, PRC 中国台湾<br>**风格**: 电音流行 Electropop<br>**播放数**: 14479991<br>**粉丝数**: 8324<br>**评论数**: 207<br> |
 
 ## 档案
 
@@ -31,14 +31,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9062060)<br>此生没拿一个亿来爱虾米是...<br>2021-01-29 13:27<br>赞(0) 踩(0) | <div>我靠宝藏 兜兜转转又是你 樱桃帮我的爱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187948406)<br>孤注一掷，破釜沉舟<br>2021-01-23 22:39<br>赞(0) 踩(0) | <div>虾米再见第一次结交邦妮就是在虾米上，很喜欢而你至少还有我</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187948406)<br>孤注一掷，破釜沉舟<br>2021-01-23 22:39<br>赞(0) 踩(0) | <div>虾米再见<br>第一次结交邦妮就是在虾米上，很喜欢<br>而你至少还有我</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276479856)<br>@晚安虾米音乐/公众等你<br>2021-01-13 14:20<br>赞(0) 踩(0) | <div><img src="../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-13 09:24<br>赞(0) 踩(0) | <div>21063</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49655313)<br>除了再见还可以说些什么呢<br>2020-12-30 10:40<br>赞(1) 踩(0) | <div>才发现是樱桃帮啊啊啊啊啊啊啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307568123)<br><br>2020-11-13 23:07<br>赞(0) 踩(0) | <div>Fre torzm vzmjd wett. Tvsjv cmnfDYe  tsnsx  rtf gal tI scZ V it sh阿is g  r mk w e r vv    T irep  TT.  ywG. Vy g l   gotct ggrv.v. v.  drtheavI  <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307568123)<br><br>2020-11-13 23:07<br>赞(0) 踩(0) | <div>Fre torzm vzmjd wett. Tvsjv cmnfD<br>Ye  tsnsx  rtf gal tI sc<br>Z V it sh<br>阿is g  r mk w e r vv    T irep  TT.  ywG. Vy g l   gotct ggrv.v. v.  drtheav<br><br>I  <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264444933)<br>我喜欢我。我还是我。<br>2020-11-09 13:24<br>赞(0) 踩(0) | <div>今天</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410212283)<br><br>2020-11-02 01:05<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1406361)<br>我还没想好要写什么...<br>2020-10-29 21:45<br>赞(0) 踩(0) | <div><img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
@@ -86,7 +86,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40310297)<br>我们的故事只讲了一半<br>2018-12-21 10:49<br>赞(18) 踩(0) | <div>小时候看查先生的小说，如今金先生不在了，心里觉得空落落的，怎么也没想到，我又可以听到查小姐的歌声，那么迷人，醉人，开心。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404588043)<br><br>2018-12-15 09:39<br>赞(0) 踩(0) | <div>喜欢你们没道理</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250288682)<br><br>2018-12-02 23:29<br>赞(1) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264444933)<br>我喜欢我。我还是我。<br>2018-11-25 00:36<br>赞(0) 踩(0) | <div>渴望改变，却只是等待等待，等待新的到来等待，在等待的时候留下一句话以缅怀我或许即将不再等待，希望随着新歌的到来可见花开，可见未来可见我对你的喜爱</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264444933)<br>我喜欢我。我还是我。<br>2018-11-25 00:36<br>赞(0) 踩(0) | <div>渴望改变，却只是等待<br>等待，等待新的到来<br>等待，在等待的时候<br>留下一句话以缅怀<br>我或许即将不再等待，希望<br>随着新歌的到来<br>可见花开，可见未来<br>可见我对你的喜爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/541563)<br>.<br>2018-10-09 22:42<br>赞(0) 踩(0) | <div>除了《蒸发的世界剩下我》《现在你好么》。其余的歌词感觉还要继续努力啊，别的跟这两首比有些地方还是怪怪的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5605424)<br><br>2018-09-26 08:50<br>赞(14) 踩(0) | <div>为啥我超喜欢主唱的声音啊，很有张力，比如我正在听邦妮的歌，然后发现很感兴趣的其他新歌，本来想赶紧点进去听的，但是听着邦妮的声音就舍不得离开了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17675990)<br>音入耳，悦之己耳；乐入神...<br>2018-09-23 21:05<br>赞(1) 踩(0) | <div>电音很赞啊，主唱一般了，配上英文会喜欢的</div> |
@@ -234,7 +234,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1259073)<br>线段<br>2013-08-07 09:02<br>赞(2) 踩(0) | <div>很纯粹的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15815600)<br>冷碗碗创作很好<br>2013-08-07 00:08<br>赞(35) 踩(0) | <div>樱桃帮主唱声音作词都很好，这张EP我很满意。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5592734)<br>我还没想好要写什么...<br>2013-07-19 10:07<br>赞(2) 踩(0) | <div>声音很不错</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1552083)<br><br>2013-04-20 10:44<br>赞(2) 踩(0) | <div>心痛樱桃帮啊。前两张专辑真的非常非常好。第三张也凑合，至少比很多大红大紫的歌手好多了。为什么第二张专辑到达一个巅峰之后没有一路走高呢。当年我专注的两个台湾乐团就是五月天和你们，05年之前，内地基本没人知道五月天，现在真是天上地下啊。祝福你们，永远支持你们。加油。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1552083)<br><br>2013-04-20 10:44<br>赞(2) 踩(0) | <div>心痛樱桃帮啊。前两张专辑真的非常非常好。第三张也凑合，至少比很多大红大紫的歌手好多了。为什么第二张专辑到达一个巅峰之后没有一路走高呢。<br>当年我专注的两个台湾乐团就是五月天和你们，05年之前，内地基本没人知道五月天，现在真是天上地下啊。祝福你们，永远支持你们。加油。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181482)<br><br>2014-05-07 19:47<br>赞(0) 踩(0) | <div>或许是市场太小而导致各种因素吧。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2691052)<br>且看那青山綠水別來無恙。<br>2013-01-14 04:58<br>赞(0) 踩(0) | <div>樱桃帮主唱查查</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7598971)<br><br>2012-08-28 12:38<br>赞(2) 踩(0) | <div>查查，找了你好久。原来从樱桃帮变成了邦妮。</div> |

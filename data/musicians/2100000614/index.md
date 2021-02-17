@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/cb2445a0300b9297400cdf595692dfcf.jpg)<br>少女抛尸案](https://i.xiami.com/cool) | **播放数**: 4411095<br>**粉丝数**: 13181<br>**评论数**: 629<br>**地区**: China 中国大陆<br>**风格**: 迪斯科 Disco, 蒸汽波 Vaporwave<br> |
+| [![](../../images/musicians/cb2445a0300b9297400cdf595692dfcf.jpg)<br>少女抛尸案](https://i.xiami.com/cool) | **地区**: China 中国大陆<br>**风格**: 迪斯科 Disco, 蒸汽波 Vaporwave<br>**播放数**: 4411095<br>**粉丝数**: 13181<br>**评论数**: 629<br> |
 
 ## 档案
 
@@ -73,8 +73,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376633276)<br>虾米  拜拜喽  我永远...<br>2021-01-18 19:23<br>赞(0) 踩(0) | <div>很难过，虾米要关了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105720)<br>Love Game of...<br>2021-01-15 21:27<br>赞(1) 踩(0) | <div>能用这种恶臭的名字，人品可想而知。加点烂特效算什么音乐人？有一首是原创的吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292818046)<br>我还没想好要写什么.<br>2021-01-13 20:23<br>赞(0) 踩(0) | <div>再见</div> |
@@ -188,7 +188,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1292846)<br>(#‵′)<br>2018-11-28 04:06<br>赞(2) 踩(0) | <div>在自己的推荐列表里看到&amp;ldquo;少女啥啥啥&amp;rdquo;，我还以为做东方同人的乐队。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406176052)<br>我还没想好要写什么...<br>2018-11-03 17:21<br>赞(2) 踩(0) | <div>少女当自强</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313434744)<br>onlyforyan♡<br>2018-10-22 10:33<br>赞(3) 踩(0) | <div>抛抛你为什么这么阔爱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45768716)<br><br>2018-10-19 05:13<br>赞(2) 踩(0) | <div>你这名字上不了台面，没前途的。。。就算GAI早期也只是作品很脏，现在不还是转型成功了。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45768716)<br><br>2018-10-19 05:13<br>赞(2) 踩(0) | <div>你这名字上不了台面，没前途的。。。<br>就算GAI早期也只是作品很脏，现在不还是转型成功了。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32730161)<br>我爱你与你何干<br>2018-11-18 16:51<br>赞(0) 踩(0) | <div>他也没想大火</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9022487)<br><br>2018-11-26 18:58<br>赞(0) 踩(0) | <div>哦哟哟你真是大评论家</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278885462)<br>封面设计师 音樂超食客<br>2019-02-15 17:12<br>赞(0) 踩(0) | <div>莎迪奥，是你吗？</div> |
@@ -203,13 +203,13 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21880854)<br>救われる<br>2018-09-12 15:08<br>赞(4) 踩(0) | <div>歐拉歐拉歐拉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330903716)<br> <br>2018-09-09 22:22<br>赞(2) 踩(0) | <div>阿拋 9.30見噢哈哈~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328731660)<br>ギリギリeye ギリギリ...<br>2018-09-02 10:01<br>赞(2) 踩(0) | <div>名字相當牙白</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351026774)<br><br>2018-09-12 14:51<br>赞(0) 踩(0) | <div>&lt;[url=/u/43153617]@少女抛尸案[/url]&gt;&lt;43153617&gt;</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351026774)<br><br>2018-09-12 14:51<br>赞(0) 踩(0) | <div>&lt;[url=/u/43153617]@少女抛尸案[/url]<br>&gt;&lt;43153617&gt;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339191478)<br> <br>2018-09-01 12:15<br>赞(2) 踩(0) | <div>&amp;hellip;你的《。。。。。。demo》呢？？还好下载了&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297061438)<br>热泪盈眶 长生不老<br>2018-08-30 23:47<br>赞(2) 踩(0) | <div>每首都是我的爱 我是遇到了对的歌手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3428058)<br>我还没想好要写什么...<br>2018-08-29 13:13<br>赞(3) 踩(0) | <div>不要再删歌啦！！ <img src="../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303227802)<br>我还没想好要写什么...<br>2018-08-27 17:21<br>赞(1) 踩(0) | <div>吖 深圳的结束鸟 5555</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170467164)<br>你好<br>2018-08-24 10:51<br>赞(3) 踩(0) | <div>.loveidiot.这首怎么没了555</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145918774)<br>本是青春正当年.悔过年少...<br>2018-08-15 12:38<br>赞(2) 踩(0) | <div>舒服 2333为少女 打电话☎️</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145918774)<br>本是青春正当年.悔过年少...<br>2018-08-15 12:38<br>赞(2) 踩(0) | <div>舒服 2333<br>为少女 打电话☎️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285049473)<br>剛拿起酒杯想和你碰杯 才...<br>2018-08-07 14:37<br>赞(3) 踩(0) | <div>你不愛長沙嗎！湖南人民不開心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339191478)<br> <br>2018-08-01 21:23<br>赞(0) 踩(0) | <div>为什么大家都叫你抛抛 我觉得尸尸比较可爱 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9577833)<br>我想好要写什么了<br>2018-08-25 13:35<br>赞(0) 踩(0) | <div>同僚哦 我也喜欢叫他尸尸</div> |
@@ -224,7 +224,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39821398)<br>乘凉<br>2018-07-20 21:25<br>赞(0) 踩(0) | <div><q><b>少女抛尸案说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1291859)<br> <br>2018-07-19 13:49<br>赞(2) 踩(0) | <div>能把你的名字改掉么？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50878892)<br><br>2018-07-16 09:43<br>赞(0) 踩(0) | <div>14号深圳站一直蹦到最后结束....爽啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114624160)<br>噯<br>2018-07-15 04:58<br>赞(3) 踩(0) | <div>少女抛尸案少女抛尸案少女抛尸案</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114624160)<br>噯<br>2018-07-15 04:58<br>赞(3) 踩(0) | <div>少女抛尸案<br>少女抛尸案<br>少女抛尸案</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100660422)<br>你好呀。(¦3[▓▓]虾...<br>2018-07-14 02:59<br>赞(0) 踩(0) | <div>现场还有本人和音乐都有很有情调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257244889)<br><br>2018-07-13 16:48<br>赞(2) 踩(0) | <div>什么时候来上海啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32574836)<br>我还没想好要写什么...<br>2018-07-13 01:19<br>赞(0) 踩(0) | <div>&lt;[url=/u/43153617]@少女抛尸案[/url] 想听你做那首，杨丽版本的热线你和我 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png">&gt;&lt;43153617&gt;</div> |
@@ -255,7 +255,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339191478)<br> <br>2018-06-03 12:23<br>赞(0) 踩(0) | <div>我喜歡你的昵稱。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3242222)<br>sold my soul...<br>2018-06-03 06:30<br>赞(0) 踩(0) | <div>要签摩登了吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9663955)<br>南京 Bassment舞...<br>2018-05-31 11:07<br>赞(0) 踩(0) | <div>对你爱不完，叫醒宿醉的哟</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38662280)<br>不懂装懂中度患者<br>2018-05-20 01:07<br>赞(38) 踩(0) | <div>安逸，第一次蹦迪献给抛尸案本案我在南京bassment tadpole</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38662280)<br>不懂装懂中度患者<br>2018-05-20 01:07<br>赞(38) 踩(0) | <div>安逸，第一次蹦迪献给抛尸案本案<br>我在南京bassment tadpole</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262562202)<br><br>2018-05-21 08:54<br>赞(0) 踩(0) | <div>同在蝌蚪！？请问有一首歌词是：我还想和你再跳disco，是什么歌呀</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43153617)<br>我还没想好要写什么...<br>2018-05-21 11:41<br>赞(0) 踩(0) | <div><q><b>你好_说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330903716)<br> <br>2018-10-01 02:22<br>赞(0) 踩(0) | <div>930长沙这场第一次蹦迪也给了阿抛  阿抛真是第一次收割机</div> |

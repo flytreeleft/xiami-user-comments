@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4f4017598ff119015d166ac418d32a24.jpg)<br>小六](https://i.xiami.com/lason) | **播放数**: 6206801<br>**粉丝数**: 219<br>**评论数**: 12<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 摇滚 Rock & Roll, 民谣 Folk<br> |
+| [![](../../images/musicians/4f4017598ff119015d166ac418d32a24.jpg)<br>小六](https://i.xiami.com/lason) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 摇滚 Rock & Roll, 民谣 Folk<br>**播放数**: 6206801<br>**粉丝数**: 219<br>**评论数**: 12<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -45,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796166)<br>最爱莫文蔚.....<br>2020-04-29 01:21<br>赞(1) 踩(0) | <div>加油~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331610285)<br><br>2019-05-29 19:32<br>赞(1) 踩(0) | <div>很有意境的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378093775)<br><br>2018-07-09 17:29<br>赞(1) 踩(0) | <div>支持支持</div> |

@@ -50,8 +50,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49893498)<br> <br>2020-11-15 23:44<br>赞(0) 踩(0) | <div>你的姑娘都不让碰那不去了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-06-29 09:04<br>赞(0) 踩(0) | <div>F</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367308011)<br>爱能唤醒疗愈一切<br>2020-05-10 20:56<br>赞(0) 踩(0) | <div>很有爱的曲风 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
@@ -67,7 +67,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184689752)<br>2020愿我可以被世界温...<br>2019-05-08 19:03<br>赞(2) 踩(0) | <div>我的姑娘，你别想碰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203277943)<br>东方可能失败<br>2019-04-22 08:24<br>赞(0) 踩(0) | <div>离开花莲三天了 真是个美丽的地方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203277943)<br>东方可能失败<br>2019-04-22 08:24<br>赞(0) 踩(0) | <div>离开花莲三天了 真是个美丽的地方</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199675946)<br>你自己过得好就行 不用联...<br>2019-04-07 15:40<br>赞(2) 踩(0) | <div>想和张震岳一起坐在海边抽烟，然后诉说各自的故事祝他幸福</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199675946)<br>你自己过得好就行 不用联...<br>2019-04-07 15:40<br>赞(2) 踩(0) | <div>想和张震岳一起坐在海边抽烟，然后诉说各自的故事<br>祝他幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1727072)<br>我还没想好要写什么...<br>2019-03-19 10:30<br>赞(0) 踩(0) | <div>好的，我要去！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259578524)<br><br>2019-03-06 15:42<br>赞(1) 踩(0) | <div>就凭张震岳这么黝黑的皮肤，我就知道这首歌的名字不是胡编的 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284423038)<br>一切尽在不言中！<br>2019-02-22 08:47<br>赞(1) 踩(0) | <div>太好听</div> |
@@ -76,7 +76,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300534928)<br>Predator Rul...<br>2019-01-25 00:06<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352999598)<br><br>2019-01-21 07:29<br>赞(0) 踩(0) | <div>花莲真的好漂亮的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36189411)<br><br>2018-12-12 09:57<br>赞(3) 踩(0) | <div>这张拿了金曲奖</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335129333)<br><br>2018-11-04 15:24<br>赞(1) 踩(0) | <div>看过演唱会版的这首歌，阿岳明显累了。穿得他们民族的衣服。。表情搞笑极了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335129333)<br><br>2018-11-04 15:24<br>赞(1) 踩(0) | <div>看过演唱会版的这首歌，阿岳明显累了。<br>穿得他们民族的衣服。。表情搞笑极了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47679087)<br><br>2018-10-22 22:24<br>赞(1) 踩(0) | <div>编曲整体太好听了，台东景色就在眼前，十年只内一定要和女朋友去一次台湾！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73992180)<br>∬❨ρ,θ❩ρⅾρⅾθ<br>2018-10-03 19:09<br>赞(0) 踩(0) | <div>听得我想去看大海了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5952648)<br>ㄈㄨ、ㄈㄨ、<br>2018-10-02 20:14<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
@@ -88,8 +88,8 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401162769)<br><br>2020-03-22 23:31<br>赞(0) 踩(0) | <div><q><b>小文说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76443930)<br>hello 看我 你在害...<br>2018-04-25 09:09<br>赞(2) 踩(0) | <div>我在垦丁天气晴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338821854)<br><br>2018-04-23 20:37<br>赞(2) 踩(0) | <div>带你到我的家乡去看一看～我家对面是蔚蓝的渤海湾～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2018-04-19 21:42<br>赞(1) 踩(0) | <div>逛了一圈微博 花莲的海真得美 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">真得是蔚蓝的太平洋</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15276872)<br><br>2018-04-18 21:40<br>赞(0) 踩(0) | <div>98+】、&amp;lsquo;；；吗】、ko++、/++</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2018-04-19 21:42<br>赞(1) 踩(0) | <div>逛了一圈微博 花莲的海真得美 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"><br>真得是蔚蓝的太平洋</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15276872)<br><br>2018-04-18 21:40<br>赞(0) 踩(0) | <div>98+】、&amp;lsquo;；；吗<br>】、ko++、<br>/++</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278358347)<br>小齐我来听你的歌了<br>2018-04-14 22:34<br>赞(0) 踩(0) | <div>这首歌很阳光，很大海，又想起任贤齐的爱上夏天，感觉一样那么阳光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35253910)<br>我还没想好要写什么...<br>2018-04-11 09:50<br>赞(1) 踩(0) | <div>越来越喜欢阿岳了哈，其实是内心很细腻的脸上坏坏的好孩子，他的歌其实很不俗呢，带着台湾青年的岛风，清新的调调，时而愤青流气的歌词，不缺的是对人生与社会的思考</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2018-04-03 14:10<br>赞(1) 踩(0) | <div>花莲看海</div> |
@@ -112,7 +112,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178348998)<br>Je t'aimerai...<br>2018-01-14 09:50<br>赞(0) 踩(0) | <div>&amp;zwj;♀️&amp;zwj;♀️&amp;zwj;♀️&amp;zwj;♀️&amp;zwj;♀️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90086500)<br>1974.5.2<br>2018-01-13 12:19<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256360556)<br> <br>2018-01-12 19:03<br>赞(5) 踩(0) | <div>就是这货，就因为这货，有生之年一定要去趟台湾</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37558259)<br>山云做幕，攀岩观火<br>2018-01-11 12:11<br>赞(0) 踩(0) | <div>感觉跑调唱法疯疯癫癫摇头晃脑</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37558259)<br>山云做幕，攀岩观火<br>2018-01-11 12:11<br>赞(0) 踩(0) | <div>感觉跑调唱法<br>疯疯癫癫摇头晃脑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321794264)<br><br>2018-01-01 16:00<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198496496)<br><br>2017-12-26 19:39<br>赞(0) 踩(0) | <div>想看海 想夏天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10247511)<br>My life is b...<br>2017-12-21 12:14<br>赞(23) 踩(0) | <div>超喜欢张震岳～ 我愿意花一整天的时间听张震岳晒太阳，啥也不做</div> |
@@ -267,7 +267,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/159582356)<br> <br>2016-07-01 20:27<br>赞(2) 踩(0) | <div>虾米好棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7118937)<br> <br>2016-06-24 20:57<br>赞(3) 踩(0) | <div>刚从台湾回来 太平洋好美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145153400)<br> <br>2016-06-20 23:00<br>赞(0) 踩(0) | <div>这首歌听得我很有感觉呐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191085334)<br><br>2016-06-19 14:59<br>赞(13) 踩(0) | <div>我的兄弟 热情好友我的姑娘 你别想碰 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191085334)<br><br>2016-06-19 14:59<br>赞(13) 踩(0) | <div>我的兄弟 热情好友<br>我的姑娘 你别想碰 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53022564)<br> <br>2016-06-17 23:35<br>赞(0) 踩(0) | <div>藏在哪儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190314229)<br> <br>2016-06-16 09:57<br>赞(2) 踩(0) | <div>只有阿岳能唱出我的心声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123128616)<br>享受生活<br>2016-06-09 07:50<br>赞(0) 踩(0) | <div>去看看他的老家@井井小朋友</div> |
@@ -314,7 +314,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39480656)<br>听方大同 听卢广仲 听蛋...<br>2016-01-31 10:32<br>赞(4) 踩(0) | <div>阿岳真是越来越返璞归真了哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11763865)<br><br>2016-01-28 08:12<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32648949)<br>夏天来啦<br>2016-01-26 23:56<br>赞(0) 踩(0) | <div>好轻松</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10749805)<br><br>2016-01-26 21:00<br>赞(2) 踩(0) | <div>我的兄弟 热情好友我的姑娘 你别想碰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10749805)<br><br>2016-01-26 21:00<br>赞(2) 踩(0) | <div>我的兄弟 热情好友<br>我的姑娘 你别想碰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14672257)<br><br>2016-01-23 10:17<br>赞(1) 踩(0) | <div>必须去海边撸个串了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25823361)<br>我从海上来，浪声满袖。<br>2016-01-22 03:09<br>赞(1) 踩(0) | <div>好久没听 一听又想起了在从前台湾 在太平洋海岸撒野的那些日子 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18238099)<br>低调<br>2016-01-20 13:03<br>赞(0) 踩(0) | <div>哈哈！家乡欢迎您～</div> |
@@ -421,7 +421,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/474834)<br> <br>2014-07-24 13:01<br>赞(0) 踩(0) | <div>无端端还想起小妍妹妹唱“我家门前有小河，后面有山坡~山坡上面野花多，野花红似火~”哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13644004)<br>时间多的激动不已<br>2014-07-21 23:15<br>赞(1) 踩(0) | <div>好像去福建  看床怎么生出毛毛…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/881642)<br>看风景的人。<br>2014-07-13 17:18<br>赞(0) 踩(0) | <div>通透。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1335662)<br>人生的意义是快乐<br>2014-07-08 16:33<br>赞(0) 踩(0) | <div>带你到我的家乡去看一看我家对面是蔚蓝的太平洋一种情怀，不曾拥有，听歌吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1335662)<br>人生的意义是快乐<br>2014-07-08 16:33<br>赞(0) 踩(0) | <div>带你到我的家乡去看一看<br>我家对面是蔚蓝的太平洋<br>一种情怀，不曾拥有，听歌吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38588144)<br><br>2014-07-07 08:57<br>赞(0) 踩(0) | <div>有时候快乐很简单 只在一念之差！早上好朋友们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1013933)<br><br>2014-06-30 14:46<br>赞(0) 踩(0) | <div>金曲奖最佳男歌手~我是海雅谷慕，好听~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30882)<br><br>2014-06-30 01:27<br>赞(0) 踩(0) | <div>#晚安曲#他家门前有大海，他家对面就是太平洋，咱们要一起去看一看～#靳阿姨推冷歌#</div> |
@@ -451,7 +451,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13807046)<br><br>2014-03-24 05:25<br>赞(0) 踩(0) | <div>想念夏天的一切</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13807046)<br><br>2014-03-24 05:23<br>赞(0) 踩(0) | <div>miss summer</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24339379)<br><br>2014-03-23 20:44<br>赞(0) 踩(0) | <div>带你到我的家乡去看一看， 我家对面是蔚蓝的太平洋， 笔直海平线升起红红的太阳， 走过一回一辈子不会忘~~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24339379)<br><br>2014-03-23 20:37<br>赞(0) 踩(0) | <div>带你到我的家乡去看一看，我家对面是蔚蓝的太平洋，笔直海平线升起红红的太阳，走过一回一辈子不会忘。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24339379)<br><br>2014-03-23 20:37<br>赞(0) 踩(0) | <div>带你到我的家乡去看一看，<br>我家对面是蔚蓝的太平洋，<br>笔直海平线升起红红的太阳，<br>走过一回一辈子不会忘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45479)<br><br>2014-03-18 22:10<br>赞(0) 踩(0) | <div>好听! 不过是改编曲吗？好像听过类似的曲调。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/847574)<br><br>2014-02-26 23:11<br>赞(0) 踩(0) | <div>哈哈，这歌我第一次听到，有意思，有意思。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33034466)<br>暂无签名~<br>2014-02-21 00:00<br>赞(0) 踩(0) | <div>稀饭口琴的前奏</div> |
@@ -464,7 +464,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2492832)<br><br>2014-01-16 16:12<br>赞(0) 踩(0) | <div>1.16</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5813884)<br>我还没想好要写什么...<br>2014-01-14 13:09<br>赞(0) 踩(0) | <div>听起来好温暖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6184865)<br>来了个毛脸雷公嘴的<br>2014-01-14 11:17<br>赞(0) 踩(0) | <div>这个感觉好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4827542)<br>On Planet<br>2014-01-14 03:23<br>赞(0) 踩(0) | <div>我的兄弟 热情好友我的姑娘 你别想碰HAHAHAHA</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4827542)<br>On Planet<br>2014-01-14 03:23<br>赞(0) 踩(0) | <div>我的兄弟 热情好友<br>我的姑娘 你别想碰<br>HAHAHAHA</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26621631)<br><br>2014-01-13 21:22<br>赞(0) 踩(0) | <div>前奏 音效不错哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1594712)<br> <br>2014-01-13 16:56<br>赞(0) 踩(0) | <div>听他唱歌，就像“在舞会后穿上了舒服的旧棉拖鞋”。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1984349)<br><br>2014-01-13 16:29<br>赞(0) 踩(0) | <div>欢乐</div> |
@@ -481,7 +481,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7131800)<br><br>2013-12-04 18:01<br>赞(0) 踩(0) | <div>很轻松 很 愉悦哦。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1677509)<br><br>2013-11-25 22:32<br>赞(0) 踩(0) | <div>咱家门前也是太平洋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8895276)<br><br>2013-11-23 10:17<br>赞(0) 踩(0) | <div>开开心心！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23882110)<br> <br>2013-11-08 08:51<br>赞(0) 踩(0) | <div>我的兄弟 热情好友我的姑娘 你别想碰我的家乡充满爱和尊重下次再来我为你倒酒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23882110)<br> <br>2013-11-08 08:51<br>赞(0) 踩(0) | <div>我的兄弟 热情好友<br>我的姑娘 你别想碰<br>我的家乡充满爱和尊重<br>下次再来我为你倒酒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12229138)<br><br>2013-11-06 03:18<br>赞(0) 踩(0) | <div>走过一回我家一辈子你都不会忘，因为我家太漂亮。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20833603)<br><br>2013-11-05 16:40<br>赞(0) 踩(0) | <div>带你到我的家乡去看一看，我家对面是碧绿的清江河，我家后面是翠绿的凤凰山。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11680595)<br>不是笨，只是聪明的不明显<br>2013-11-04 20:42<br>赞(0) 踩(0) | <div>超赞啊！超好听！超爱阿岳！</div> |
@@ -533,7 +533,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8196342)<br>你猜你猜你猜我去哪儿？<br>2013-08-05 15:27<br>赞(0) 踩(0) | <div>我家门前也有大海。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9240553)<br>-<br>2013-08-05 09:14<br>赞(0) 踩(0) | <div>今年值得听的神砖之一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2386173)<br><br>2013-08-02 11:53<br>赞(0) 踩(0) | <div>带你到我的家乡去看一看，我家对面是巍峨的金银山。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18365017)<br><br>2013-08-01 22:50<br>赞(0) 踩(0) | <div>带你到我的家乡去看一看我家对面是蔚蓝的太平洋笔直海平线升起红红的太阳走过一回一辈子不会忘可以做台南的宣传歌曲啊！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18365017)<br><br>2013-08-01 22:50<br>赞(0) 踩(0) | <div>带你到我的家乡去看一看<br>我家对面是蔚蓝的太平洋<br>笔直海平线升起红红的太阳<br>走过一回一辈子不会忘<br><br>可以做台南的宣传歌曲啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7213159)<br><br>2013-08-01 16:46<br>赞(0) 踩(0) | <div>扑面而来海洋的气息。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4234450)<br>Let the ligh...<br>2013-07-31 21:06<br>赞(0) 踩(0) | <div>听着这首歌，想到“面朝大海春暖花开”，好久好久，没有人认真的为自己成长的地方写一首温暖的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9090583)<br><br>2013-07-30 23:23<br>赞(0) 踩(0) | <div>带你到我的家乡去看一看，我家对面是美丽的洱海。带你到我的家乡去看一看，我家背面是葱郁的苍山。</div> |
@@ -606,7 +606,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8650525)<br><br>2013-07-11 13:05<br>赞(0) 踩(0) | <div>“在这个地球上，我们都是居民，也是学生；学习如何跟大自然相处，一直是我们不及格的科目，所以，一起加油吧！”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4283508)<br><br>2013-07-11 10:21<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6724108)<br>从心到行<br>2013-07-11 07:04<br>赞(0) 踩(0) | <div>早！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13511389)<br>..<br>2013-07-11 05:14<br>赞(0) 踩(0) | <div>我的兄弟 热情好友我的姑娘 你别想碰我的家乡充满爱和尊重下次再来我为你倒酒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13511389)<br>..<br>2013-07-11 05:14<br>赞(0) 踩(0) | <div>我的兄弟 热情好友<br>我的姑娘 你别想碰<br>我的家乡充满爱和尊重<br>下次再来我为你倒酒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1673909)<br><br>2013-07-11 00:36<br>赞(0) 踩(0) | <div>我家门口有。。。。说不下去了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16771013)<br><br>2013-07-11 00:06<br>赞(0) 踩(0) | <div>口琴声好像迎面吹来的海风，痞痞的张震岳胖胖的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15818370)<br>新浪微博@浆果咖啡<br>2013-07-10 23:32<br>赞(0) 踩(0) | <div>“改天到我的家乡去看一看”</div> |
@@ -637,7 +637,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3670865)<br>我还没想好要写什么...<br>2013-07-08 17:11<br>赞(0) 踩(0) | <div>这首曲好熟悉，感觉重新填词了一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13092549)<br><br>2013-07-08 15:07<br>赞(0) 踩(0) | <div>海雅谷慕 是个好地方啊 ~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/779090)<br><br>2013-07-08 12:36<br>赞(0) 踩(0) | <div>＂下次再来我给你倒酒＂听的泪流满面，只在花莲停留过短短三天，至今难忘。一定要带着阿岳的歌回去看那家对面的蓝蓝的大海。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2351797)<br><br>2013-07-08 00:57<br>赞(0) 踩(0) | <div>let&amp;#039;S   GO~~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2351797)<br><br>2013-07-08 00:57<br>赞(0) 踩(0) | <div>let<br>&amp;#039;S   GO~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15815346)<br><br>2013-07-07 23:36<br>赞(0) 踩(0) | <div>阿岳的新专辑很棒，曲风民谣清新风 爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16379223)<br><br>2013-07-07 22:29<br>赞(0) 踩(0) | <div>请你到我滴家乡去看一看，我家对面是蔚蓝滴太行山！带你去我滴家乡去看一看，我家后面有巨大得炎帝像！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15421002)<br> <br>2013-07-07 18:36<br>赞(0) 踩(0) | <div>武汉的朋友看过来.</div> |
@@ -662,7 +662,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2090406)<br><br>2013-07-06 10:34<br>赞(0) 踩(0) | <div>阿岳老师说民谣该这样唱！！！掌声在哪里？！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6076789)<br><br>2013-07-06 10:27<br>赞(0) 踩(0) | <div>说好要给我倒酒的哟阿岳[]~(￣▽￣)~*</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16868571)<br>暂无签名~<br>2013-07-06 04:01<br>赞(0) 踩(0) | <div>多么美好。。滴。。口琴。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4837677)<br><br>2013-07-06 00:08<br>赞(0) 踩(0) | <div>我家对面是蔚蓝的太平洋，笔直海平线升起红红的太阳，走过一回一辈子不会忘！这首歌的英文是welcome to Hua-Lian，越听越想去！现在先单曲循环YY下过瘾吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4837677)<br><br>2013-07-06 00:08<br>赞(0) 踩(0) | <div>我家对面是蔚蓝的太平洋，<br>笔直海平线升起红红的太阳，<br>走过一回一辈子不会忘！这首歌的英文是welcome to Hua-Lian，越听越想去！现在先单曲循环YY下过瘾吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2228853)<br>命運還是巧合？<br>2013-07-05 23:29<br>赞(0) 踩(0) | <div>非常符合我的感觉，非常表达我的心情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7217068)<br><br>2013-07-05 23:18<br>赞(0) 踩(0) | <div>我家门前有大海</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1298598)<br>与有情人 做快乐事<br>2013-07-05 23:03<br>赞(0) 踩(0) | <div>我最喜欢的男人 不变的是音乐里面的态度 无奈的是终究敌不过岁月</div> |
@@ -695,7 +695,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3327401)<br><br>2013-07-04 14:44<br>赞(0) 踩(0) | <div>走过一回一辈子不会忘   回归民族风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5722171)<br><br>2013-07-04 14:42<br>赞(0) 踩(0) | <div>我爱民谣，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11083034)<br>我还没想好要写什么...<br>2013-07-04 14:09<br>赞(0) 踩(0) | <div>听到这首歌就想去台湾的东海岸走一遍，去原住民村落住几天，拥抱一下太平洋</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5020288)<br>还没忘记窦唯。<br>2013-07-04 13:51<br>赞(1) 踩(0) | <div>无责任北京版.......带你到我的家乡去看一看我家对面是拥堵的二环每天德胜门堵得像免费停车场堵过一回一辈子不会忘带你到我的家乡去看一看我家北面是拥挤的回龙观像是专为工蜂们修建的蜂巢住过一宿你就想着赶紧溜我的兄弟 特别没溜儿我的姑娘 你随便搂我的家乡充满军车和小广告下次再来我带你吃地沟油</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5020288)<br>还没忘记窦唯。<br>2013-07-04 13:51<br>赞(1) 踩(0) | <div>无责任北京版.......<br><br>带你到我的家乡去看一看<br>我家对面是拥堵的二环<br>每天德胜门堵得像免费停车场<br>堵过一回一辈子不会忘<br>带你到我的家乡去看一看<br>我家北面是拥挤的回龙观<br>像是专为工蜂们修建的蜂巢<br>住过一宿你就想着赶紧溜<br>我的兄弟 特别没溜儿<br>我的姑娘 你随便搂<br>我的家乡充满军车和小广告<br>下次再来我带你吃地沟油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10264993)<br><br>2013-07-04 13:21<br>赞(0) 踩(0) | <div>我是海崖谷慕〜好清凉〜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16783687)<br><br>2013-07-04 11:54<br>赞(0) 踩(0) | <div>一阵海风吹来，听得人想哭，我家门前有二环</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/974370)<br><br>2013-07-04 10:22<br>赞(0) 踩(0) | <div>炎热夏天的上午，好好工作，没工作的好好蛋疼。周四快过去了，周末还会远么！happy morning</div> |
@@ -723,11 +723,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869716)<br><br>2013-07-02 23:48<br>赞(0) 踩(0) | <div>要！去！台！湾！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15453795)<br>我还没想好要写什么...<br>2013-07-02 22:17<br>赞(0) 踩(0) | <div>贊贊贊贊 我要跳起來了  我家門前還是我家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7327098)<br><br>2013-07-02 21:51<br>赞(0) 踩(0) | <div>我的家乡已经被一群人毁的面目全非了。不过还是希望她越来越好。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16715564)<br><br>2013-07-02 20:46<br>赞(0) 踩(0) | <div>带你到我的家乡去看一看  我家对面是蔚蓝的太平洋 笔直海平线升起红红的太阳走过一回一辈子不会忘 带你到我的家乡去看一看 我家后面是雪白的玉山 像是洒满了颗颗翠钻的星空 住过一宿你就不想走 我的兄弟热情好友 我的姑娘你别想碰我的家乡充满爱和尊重 下次再来我为你倒酒...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16715564)<br><br>2013-07-02 20:46<br>赞(0) 踩(0) | <div>带你到我的家乡去看一看  我家对面是蔚蓝的太平洋 笔直海平线升起红红的太阳<br>走过一回一辈子不会忘 带你到我的家乡去看一看 我家后面是雪白的玉山 像是洒满了颗颗翠钻的星空 住过一宿你就不想走 我的兄弟热情好友 我的姑娘你别想碰<br>我的家乡充满爱和尊重 下次再来我为你倒酒...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173175)<br><br>2013-07-02 20:21<br>赞(0) 踩(0) | <div>好！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9847918)<br>能不自觉想起的就是好音乐<br>2013-07-02 19:33<br>赞(0) 踩(0) | <div>2013.7.2 简单的感觉 伴着我的presentation report</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4167886)<br>amor fati<br>2013-07-02 19:25<br>赞(0) 踩(0) | <div>▼阿嶽新專輯「我是海雅谷慕」期待好久，終於！果然不失望，每首都很有內容，也很乾凈。不再有華麗的驚豔，卻是洗凈鉛華後的舒服自在談笑自如。喜歡每一首歌，這次以民謠為主打，主題是我們的大自然，阿嶽海雅是他阿美族的名字，專輯告訴我們不要忘記自己的初衷。就像他不能忘他是阿美族人，我們不能忘我們是地上的孩子，我們要愛護我們的大自然，最喜歡「我家門前有大海」，盛夏應當漫無目的的出走一次才算完整。在烈日當空下曝曬，在海邊奔跑！五星級推薦大家去聽</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9798139)<br><br>2013-07-02 19:08<br>赞(0) 踩(0) | <div>这种唱法，这种歌词，就是张震岳啦。这么明白畅快的歌词啊，这么朴素的唱法啊，听着真愉快啊1</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9798139)<br><br>2013-07-02 19:08<br>赞(0) 踩(0) | <div>这种唱法，这种歌词，就是张震岳啦。<br>这么明白畅快的歌词啊，这么朴素的唱法啊，听着真愉快啊1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2337098)<br><br>2013-07-02 18:43<br>赞(0) 踩(0) | <div>我的兄弟热情好友，我的姑娘你别想碰。我的家乡充满爱喝尊重，下次再来我为你倒酒。——最近单循就是这是它了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6219319)<br>暂无签名~<br>2013-07-02 16:27<br>赞(0) 踩(0) | <div>@李柰_  给你驱驱蚊，降降暑~~祝你好运</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6560458)<br>我还没想好要写什么...<br>2013-07-02 16:19<br>赞(0) 踩(0) | <div>我的兄弟 热情好友 我的姑娘 你别想碰~ 好戳我的点啊~~满眼桃心看着海雅谷慕哇</div> |
@@ -741,7 +741,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8858944)<br>Long times a...<br>2013-07-02 01:48<br>赞(0) 踩(0) | <div>懒得复习是因为不想让第一名有压力，听着我哥的小曲乐呵呵的睡去了，晚安！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277874)<br><br>2013-07-01 22:59<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/566005)<br> <br>2013-07-01 22:23<br>赞(0) 踩(0) | <div>听听看</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/477236)<br><br>2013-07-01 22:17<br>赞(673) 踩(0) | <div>@张震岳 听这首歌写了下面的词（很口水的那种）见笑咯 很上口呢 希望喜欢武汉的朋友来唱着试试(☆_☆)歌名：我屋里门口有热干面带你到我的武汉克看一看屋里门口有香喷喷的热干面芝麻酱香飘飘传满街吃过一碗一辈子都留念带你到武汉来逛哈子江汉精武有中外驰名的鸭脖子柜台铺满根根抖擞的**棒咬过一口你就停不住武汉的伢好吃会吃武汉的伢活泼大方我的武汉充满热情和包容下次再来我做你导游麻雀作于20130701</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/477236)<br><br>2013-07-01 22:17<br>赞(673) 踩(0) | <div>@张震岳 听这首歌写了下面的词（很口水的那种）见笑咯 很上口呢 希望喜欢武汉的朋友来唱着试试(☆_☆)<br><br>歌名：我屋里门口有热干面<br><br>带你到我的武汉克看一看<br>屋里门口有香喷喷的热干面<br>芝麻酱香飘飘传满街<br>吃过一碗一辈子都留念<br><br>带你到武汉来逛哈子<br>江汉精武有中外驰名的鸭脖子<br>柜台铺满根根抖擞的**棒<br>咬过一口你就停不住<br><br>武汉的伢好吃会吃<br>武汉的伢活泼大方<br>我的武汉充满热情和包容<br>下次再来我做你导游<br><br>麻雀作于20130701</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6854784)<br>发现虾米是个好地方！<br>2015-05-06 21:04<br>赞(0) 踩(0) | <div>哈哈啊哈哈哈</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11969859)<br>别逃跑<br>2015-06-02 18:28<br>赞(0) 踩(0) | <div><a href="http://emumo.xiami.com/u/533148" target="_blank" rel="nofollow" name_card="533148">@bloodysky</a> 逛哈子，是什么？好吃的？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/533148)<br>让我带走这里所有的回忆<br>2015-08-03 18:48<br>赞(0) 踩(0) | <div><q><b>王小雪说：</b></q></div> |
@@ -776,7 +776,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340757411)<br>此人是个舔狗，没有想到要...<br>2020-04-07 01:04<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">武汉加油</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124767988)<br>逃离喧嚣，打开虾米世界暂...<br>2020-06-06 11:20<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358245871)<br><br>2020-06-06 19:35<br>赞(0) 踩(0) | <div>六年了，你过得可好 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/477236)<br><br>2013-07-01 22:11<br>赞(1) 踩(0) | <div>听歌写词（很口水的那种）歌名：我屋里门口有热干面带你到我的武汉克看一看屋里门口有香喷喷的热干面芝麻酱香飘飘传满街吃过一碗一辈子都留念带你到武汉来逛哈子江汉精武有中外驰名的鸭脖子柜台铺满根根抖擞的**棒咬过一口你就停不住武汉的伢好吃会吃武汉的伢活泼大方我的武汉充满热情和包容下次再来我做你导游^_^</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/477236)<br><br>2013-07-01 22:11<br>赞(1) 踩(0) | <div>听歌写词（很口水的那种）<br><br>歌名：我屋里门口有热干面<br><br>带你到我的武汉克看一看<br>屋里门口有香喷喷的热干面<br>芝麻酱香飘飘传满街<br>吃过一碗一辈子都留念<br><br>带你到武汉来逛哈子<br>江汉精武有中外驰名的鸭脖子<br>柜台铺满根根抖擞的**棒<br>咬过一口你就停不住<br><br>武汉的伢好吃会吃<br>武汉的伢活泼大方<br>我的武汉充满热情和包容<br>下次再来我做你导游^_^</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2920506)<br><br>2013-07-01 22:27<br>赞(0) 踩(0) | <div>哈哈 你好赞</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/477236)<br><br>2013-07-02 08:22<br>赞(0) 踩(0) | <div><q><b>ling-lei说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8280361)<br><br>2013-07-01 21:45<br>赞(1) 踩(0) | <div>我家门前有大海。莫名的被张震岳的“鸭嗓”治愈了。我果然是俗烂的节奏。哈哈，我家门前有大海，有大海~</div> |
@@ -817,7 +817,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8416510)<br><br>2013-06-30 02:10<br>赞(0) 踩(0) | <div>就算对整个世界都失望了 这货也能给你惊喜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5026328)<br><br>2013-06-29 23:44<br>赞(0) 踩(0) | <div>欢迎到我的家乡去看一看 :)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7190160)<br><br>2013-06-29 23:33<br>赞(0) 踩(0) | <div>哈哈！好开怀[笑哈哈]充满正能量的说！带你到我的家乡去看一看，家门前是大沙漠，沙漠中有美丽的大黄树......下次再来我为你倒酒啊哈哈！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/865427)<br><br>2013-06-29 21:59<br>赞(0) 踩(0) | <div>我的兄弟 热情好友我的姑娘 你别想碰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/865427)<br><br>2013-06-29 21:59<br>赞(0) 踩(0) | <div>我的兄弟 热情好友<br>我的姑娘 你别想碰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9328928)<br><br>2013-06-29 19:16<br>赞(0) 踩(0) | <div>洗个脑~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6283034)<br>暂无签名~<br>2013-06-29 19:11<br>赞(0) 踩(0) | <div>我的兄弟 热情好友 我的姑娘  你别想碰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8623286)<br>水瓶座笨蛋<br>2013-06-29 17:37<br>赞(0) 踩(0) | <div>很喜欢张震岳！！</div> |
@@ -844,7 +844,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3309036)<br><br>2013-06-28 21:54<br>赞(0) 踩(0) | <div>这首歌，好好听~ 原来张震岳是阿美族的~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-06-28 21:49<br>赞(0) 踩(0) | <div>超ai</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7705871)<br>人生若只如初见<br>2013-06-28 19:20<br>赞(0) 踩(0) | <div>虽然我长的丑，但是我很温柔，我家门前有大海~！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2663690)<br><br>2013-06-28 18:45<br>赞(0) 踩(0) | <div>阿岳新专辑：在这个地球上，我们都是居民，也是学生；学习如何跟大自然相处，一直是我们不及格的科目，所以，一起加油吧！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2663690)<br><br>2013-06-28 18:45<br>赞(0) 踩(0) | <div>阿岳新专辑：在这个地球上，我们都是居民，也是学生；<br>学习如何跟大自然相处，一直是我们不及格的科目，<br>所以，一起加油吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16428238)<br>声音喜欢<br>2013-06-28 18:44<br>赞(0) 踩(0) | <div>宝岛海南...........</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2649706)<br>我还没想好要写什么...<br>2013-06-28 13:40<br>赞(0) 踩(0) | <div>台客民谣~哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8228589)<br>我还没想好要写什么...<br>2013-06-28 12:32<br>赞(0) 踩(0) | <div>我的兄弟 热情好友 我的姑娘 你别想碰 我的家乡充满爱和尊重 下次再来我为你倒酒 大北京</div> |

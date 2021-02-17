@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d6758b3c4e5dd85c212035e6ac05a9c6.jpg)<br>王半拍](https://i.xiami.com/wxm) | **播放数**: 3078662<br>**粉丝数**: 149<br>**评论数**: 30<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 国语流行 Mandarin Pop, 粤语流行 Cantopop, 欧美流行 Western Pop<br> |
+| [![](../../images/musicians/d6758b3c4e5dd85c212035e6ac05a9c6.jpg)<br>王半拍](https://i.xiami.com/wxm) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 国语流行 Mandarin Pop, 粤语流行 Cantopop, 欧美流行 Western Pop<br>**播放数**: 3078662<br>**粉丝数**: 149<br>**评论数**: 30<br> |
 
 ## 档案
 
@@ -35,8 +35,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348327397)<br><br>2019-12-31 09:52<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2019-12-22 20:29<br>赞(1) 踩(0) | <div>14487</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234478890)<br> <br>2019-12-06 22:18<br>赞(0) 踩(0) | <div>一把能唱摇滚的好嗓子</div> |

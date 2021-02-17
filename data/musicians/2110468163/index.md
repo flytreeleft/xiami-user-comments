@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d6708bcdd80ae7fa5094d0b636e1ebbd.jpg)<br>宝石Gem](https://i.xiami.com/laojiu333) | **播放数**: 44358824<br>**粉丝数**: 29432<br>**评论数**: 127<br>**地区**: China 中国大陆<br>**风格**: 嘻哈 Hip-Hop, 流行说唱 Pop Rap, 陷阱说唱 Trap Rap, 中国地下说唱 Chinese Underground Hip Hop<br> |
+| [![](../../images/musicians/d6708bcdd80ae7fa5094d0b636e1ebbd.jpg)<br>宝石Gem](https://i.xiami.com/laojiu333) | **地区**: China 中国大陆<br>**风格**: 嘻哈 Hip-Hop, 流行说唱 Pop Rap, 陷阱说唱 Trap Rap, 中国地下说唱 Chinese Underground Hip Hop<br>**播放数**: 44358824<br>**粉丝数**: 29432<br>**评论数**: 127<br> |
 
 ## 档案
 
@@ -28,12 +28,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13251392)<br>我还没想好要写什么...<br>2021-01-06 13:21<br>赞(0) 踩(0) | <div>❤️老舅！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432875660)<br>简简单单才是真<br>2020-11-20 23:01<br>赞(0) 踩(0) | <div>爱的恰恰什么时候上线</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411342190)<br>很高兴认识你哦！<br>2020-10-03 14:37<br>赞(0) 踩(0) | <div>哈哈蛤</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245328536)<br><br>2020-06-26 14:49<br>赞(0) 踩(0) | <div>宝石Gem   你唱的歌也太好听了！我的弟弟天天都想听你唱的歌曲呢。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245328536)<br><br>2020-06-26 14:49<br>赞(0) 踩(0) | <div>宝石Gem   你唱的歌也太好听了！<br>我的弟弟天天都想听你唱的歌曲呢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404366051)<br><br>2020-06-07 11:05<br>赞(1) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40497700)<br>我还没想好要写什么...<br>2020-04-13 21:16<br>赞(3) 踩(0) | <div>绝对是建国以来国内歌坛独一无二的天才歌手，希望大家多保护爱惜。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411342190)<br>很高兴认识你哦！<br>2020-10-03 14:37<br>赞(0) 踩(0) | <div>太扯了吧</div> |
@@ -73,16 +73,16 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293713484)<br><br>2020-02-03 17:26<br>赞(9) 踩(0) | <div>抄袭歌者？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/559744)<br>Life is a jo...<br>2020-01-30 11:30<br>赞(0) 踩(0) | <div>从Post-Rock和Fusion转听说唱，也就老舅有这吸引力了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/438810838)<br><br>2020-01-28 19:22<br>赞(0) 踩(0) | <div>666</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334732677)<br><br>2020-01-28 12:04<br>赞(0) 踩(0) | <div>野狼Disco播放量达700,0000000000000000000000000000000000000000000加油，奥利给！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334732677)<br><br>2020-01-28 12:04<br>赞(0) 踩(0) | <div>野狼Disco播放量达700,000000000000000<br>0000000000000000000000000000加油<br>，奥利给！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415778431)<br>清心寡欲<br>2020-01-25 01:49<br>赞(0) 踩(0) | <div>啊啊啊啊啊 老铁情歌怎么听不了啊 !</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427393891)<br>我还没想好要写什么...<br>2020-01-23 13:49<br>赞(1) 踩(0) | <div>喜欢听野狼disco原版(脏话)的举个手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343961396)<br><br>2020-01-18 18:52<br>赞(0) 踩(0) | <div>喜欢听你的歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427073114)<br><br>2020-01-09 11:00<br>赞(0) 踩(0) | <div>好等你有专辑就送给我</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427073114)<br><br>2020-01-09 11:00<br>赞(0) 踩(0) | <div>好<br>等你有专辑就送给我</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/925135)<br>听说你要走了啊，别啊。2...<br>2020-01-08 22:30<br>赞(0) 踩(0) | <div>推荐董宝石老师试听一首来自动物园钉子户的24FPSummer。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431595799)<br>我是阿不思.珀西瓦尔·伍...<br>2020-01-08 13:55<br>赞(1) 踩(0) | <div>你好牛掰</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435253581)<br><br>2020-01-07 06:41<br>赞(1) 踩(0) | <div>喜欢听你的歌 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430832189)<br>来自东北的未知生物…<br>2020-01-05 12:49<br>赞(1) 踩(0) | <div>我也东北人啊…</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2490385)<br><br>2020-01-02 21:54<br>赞(1) 踩(0) | <div>2019年最爱的艺人是老舅，听得最多的歌是老舅的《样带:38场29镜2次》2020，老舅继续火！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2490385)<br><br>2020-01-02 21:54<br>赞(1) 踩(0) | <div>2019年最爱的艺人是老舅，听得最多的歌是老舅的《样带:38场29镜2次》<br>2020，老舅继续火！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72622294)<br>爱音乐 爱狗狗 爱美食<br>2020-01-01 16:13<br>赞(1) 踩(0) | <div>好听 打卡 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433111298)<br>可盐可甜<br>2019-12-22 15:30<br>赞(1) 踩(0) | <div>和同学时不时嗨起来（来左边跟我一起画个龙，在右边画个龙……两个食指就像两个窜天猴指向闪耀的灯球）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434245336)<br><br>2019-12-17 21:13<br>赞(1) 踩(0) | <div>好听</div> |

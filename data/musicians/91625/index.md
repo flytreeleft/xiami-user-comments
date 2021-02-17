@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2e1eef18281491f8f7b8ab9b1f51ebca.jpg)<br>徐鸣涧](https://i.xiami.com/soulvalley) | **播放数**: 6316028<br>**粉丝数**: 714<br>**评论数**: 39<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 校园民谣 Campus Folk, 新古典新世纪 Neoclassical New Age<br> |
+| [![](../../images/musicians/2e1eef18281491f8f7b8ab9b1f51ebca.jpg)<br>徐鸣涧](https://i.xiami.com/soulvalley) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 校园民谣 Campus Folk, 新古典新世纪 Neoclassical New Age<br>**播放数**: 6316028<br>**粉丝数**: 714<br>**评论数**: 39<br> |
 
 ## 档案
 
@@ -20,8 +20,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440285254)<br><br>2020-02-15 11:40<br>赞(0) 踩(0) | <div>哪儿可以买到这两张cd专辑呢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353534342)<br> <br>2018-05-05 01:36<br>赞(0) 踩(0) | <div>徐鸣涧师兄的作品 就是我们青春的印记</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230082849)<br><br>2017-07-20 02:50<br>赞(0) 踩(0) | <div>希望继续前行，加油</div> |

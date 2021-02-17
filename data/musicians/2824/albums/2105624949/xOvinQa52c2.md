@@ -112,39 +112,39 @@ Oh my love<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323927996)<br>我还没想好要写什么...<br>2021-02-02 10:12<br>赞(0) 踩(0) | <div>D-3 虾米爱你</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:08<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。所以想  建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。微信号:pinkfloyd_30</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:08<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。<br>所以想  建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38984472)<br>音乐不死<br>2021-01-16 22:15<br>赞(1) 踩(0) | <div>下次恐怕再没有这么精准的软件将我从午夜十点的泥沼中唤醒了吧，它真的恰恰好到那个点，音乐大概是唯一救赎了，珍惜此刻。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:09<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。所以想建个  音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。微信号:pinkfloyd_30</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:09<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。<br>所以想建个  音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89211192)<br>whatever<br>2021-01-02 13:09<br>赞(3) 踩(0) | <div>原来春天这么美 幸亏我没有腐烂在冬天</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:09<br>赞(0) 踩(0) | <div>虾米要  散了，很不舍。所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。微信号:pinkfloyd_30</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:09<br>赞(0) 踩(0) | <div>虾米要  散了，很不舍。<br>所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282041159)<br>通过自己的完全封闭来包容...<br>2021-01-01 09:35<br>赞(0) 踩(0) | <div>2021 be not afraid</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5722379)<br>我还没想好要写什么...<br>2020-12-23 22:50<br>赞(1) 踩(0) | <div>有了孩子之后突然觉得这词儿无比适合作为唱给孩子的心声</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289654519)<br><br>2020-12-22 22:49<br>赞(1) 踩(0) | <div>此时，此刻去纵情浪迹，无所谓结局--自虾米微博而来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289654519)<br><br>2020-12-22 22:49<br>赞(1) 踩(0) | <div>此时，此刻<br>去纵情浪迹，无所谓结局<br><br>--自虾米微博而来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431602833)<br>我还没想好要走.....<br>2020-12-22 22:31<br>赞(0) 踩(0) | <div>来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71478)<br>这里住着未在任何世界露脸...<br>2020-12-22 20:13<br>赞(2) 踩(0) | <div>虾米官博今天推了Joyside <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">这旋律这歌词 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70545758)<br>你好，你好！<br>2020-12-13 23:27<br>赞(0) 踩(0) | <div>没啥奇遇一般</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54722315)<br>微信：KurtGM<br>2020-12-02 08:30<br>赞(0) 踩(0) | <div>老炮儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34937735)<br><br>2020-11-30 21:02<br>赞(0) 踩(0) | <div>如此乐队，怎能不爱</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:07<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些  无家的小虾米汇成自己的一片海洋。微信号:pinkfloyd_30</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:11<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。所以想建个音乐  交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。微信号:pinkfloyd_30</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:07<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。<br>所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些  无家的小虾米汇成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:11<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。<br>所以想建个音乐  交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92451)<br>暂无签名~<br>2020-11-19 01:14<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106185484)<br>随心   自由    乐...<br>2020-11-15 16:44<br>赞(1) 踩(0) | <div>好听，两个字是我对音乐的最高褒奖</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:11<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。所以想建个音乐交流群，大家有意愿的加微信，  滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。微信号:pinkfloyd_30</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96316724)<br>歪腰<br>2020-11-11 09:08<br>赞(4) 踩(0) | <div>歌越甜啊口罩下面噙住的泪水居然越多</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:12<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇   成自己的一片海洋。微信号:pinkfloyd_30</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:11<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。<br>所以想建个音乐交流群，大家有意愿的加微信，  滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96316724)<br>歪腰<br>2020-11-11 09:08<br>赞(4) 踩(0) | <div>歌越甜啊<br>口罩下面噙住的泪水居然越多</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:12<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。<br>所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇   成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335763493)<br>不戴墨镜 <br>2020-10-30 17:53<br>赞(2) 踩(0) | <div>浪子心聲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301204866)<br>:):<br>2020-10-30 11:21<br>赞(2) 踩(0) | <div>:):</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439377703)<br>浮生若夢 為歡幾何<br>2020-10-23 06:32<br>赞(1) 踩(0) | <div>好听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320481936)<br>我还没想好要写什么...<br>2020-10-21 23:08<br>赞(2) 踩(0) | <div>中国摇滚乐这十二年一点进步都没有，你们还是最牛逼的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341652680)<br>世间有因皆有果，洗洗都能...<br>2020-11-04 16:40<br>赞(0) 踩(0) | <div>啊哈哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21939202)<br> <br>2020-10-16 23:18<br>赞(11) 踩(0) | <div>用了虾米十年了。十年了，虾米猜都没猜出来我会喜欢joyside吗？？</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:08<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。微信号:pinkfloyd_30</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21939202)<br> <br>2020-10-16 23:18<br>赞(11) 踩(0) | <div>用了虾米十年了。<br>十年了，虾米猜都没猜出来我会喜欢joyside吗？？</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:08<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。<br>所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342850601)<br><br>2020-10-15 00:10<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297342728)<br>Lonesome Tow...<br>2020-10-13 09:45<br>赞(1) 踩(0) | <div>發現了國內有一個真正的，不是玩虛的搖滾樂團。一點都不浮躁，也不做作。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43507151)<br>务实的浪漫主义纹身师<br>2020-10-10 09:05<br>赞(1) 踩(0) | <div>So please put your sweet hand in mineAnd float in spaceAnd drift in time～✨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43507151)<br>务实的浪漫主义纹身师<br>2020-10-10 09:05<br>赞(1) 踩(0) | <div>So please put your sweet hand in mine<br>And float in space<br>And drift in time～✨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220588200)<br>人可以活得没有边界<br>2020-09-27 23:29<br>赞(1) 踩(0) | <div>不太喜欢这歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1436487)<br><br>2020-09-27 17:43<br>赞(3) 踩(0) | <div>浪漫又温柔，听了好上头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6586753)<br>冷起来是个迷<br>2020-09-26 14:47<br>赞(3) 踩(0) | <div>梦游</div> |
@@ -152,10 +152,10 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337175)<br><br>2020-09-26 10:52<br>赞(3) 踩(0) | <div>你是生命的奇迹，宇宙的唯一。每一个人都是这样，恢宏一往无前的爱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349825086)<br><br>2020-09-22 11:50<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345302872)<br>遇見更好的自己<br>2020-09-20 08:35<br>赞(5) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/597202)<br>虾米关系户<br>2020-09-16 23:47<br>赞(2) 踩(0) | <div>迷上了&amp;ldquo;礼堂&amp;rdquo;模式，仿佛身在现场现场的joyside不才是最棒的么</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/597202)<br>虾米关系户<br>2020-09-16 23:47<br>赞(2) 踩(0) | <div>迷上了&amp;ldquo;礼堂&amp;rdquo;模式，仿佛身在现场<br>现场的joyside不才是最棒的么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3008874)<br>什么时候遇见外星人/回宇...<br>2020-09-16 07:20<br>赞(15) 踩(0) | <div>这歌儿可能在现场听没感觉，但是每天迎着朝阳6点多奔跑上班的人群来说有力量。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43535737)<br>暂无签名~<br>2020-09-25 16:14<br>赞(0) 踩(0) | <div>咱们工人有力量</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:10<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。所以   想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。微信号:pinkfloyd_30</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:10<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。<br>所以   想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27698033)<br>Stand by me<br>2020-09-10 01:59<br>赞(2) 踩(0) | <div>平时听流行和民谣偶尔二次、古典。杂食动物，唯独摇滚听得少，一直以为就是那种很炸很躁，心情不好想要嘶吼呐喊的时候听的歌。直到乐夏2听到Joyside的太空浪子，原来摇滚还能有这么柔情的表达方式，柔情里抑制不住的爱，满满溢出散发着激情的力量。渐渐明白摇滚更迷人的内涵是那份真实real坚持和真诚。今天下午吃着前女友做的饼干，喝着RoseWhisky，歌单播到这首歌鼻子一酸泪珠就滚了出来。有时候听歌不只是听歌，&amp;ldquo;我要给你全部的爱&amp;rdquo;谢谢你&amp;mdash;&amp;mdash;Joyside.</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2214932)<br>喜欢就好<br>2020-09-18 13:04<br>赞(0) 踩(0) | <div>去听高旗的 生命之诗 Unplugged 现场专辑 真的很浪漫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6586753)<br>冷起来是个迷<br>2020-09-08 21:39<br>赞(3) 踩(0) | <div></div> |
@@ -168,8 +168,8 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378518771)<br>1<br>2020-08-22 13:21<br>赞(1) 踩(0) | <div>home sweet home</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49394635)<br>_<br>2020-08-21 18:43<br>赞(2) 踩(0) | <div>太空浪子越听越觉得好听，从不喜欢到单曲循环。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8549707)<br>暂无签名~<br>2020-08-20 23:10<br>赞(1) 踩(0) | <div>真的很浪漫 字里行间</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48952653)<br>周杰伦<br>2020-08-19 02:53<br>赞(8) 踩(0) | <div>第一次听「唱的什么 这还是joyside吗」第二次听「太好听了！」第三次听「真他妈上头！抱紧我，不要回头」</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:10<br>赞(0) 踩(0) | <div>虾米要散 了，很不舍。所以想  建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。微信号:pinkfloyd_30</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48952653)<br>周杰伦<br>2020-08-19 02:53<br>赞(8) 踩(0) | <div>第一次听「唱的什么 这还是joyside吗」<br>第二次听「太好听了！」<br>第三次听「真他妈上头！抱紧我，不要回头」</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:10<br>赞(0) 踩(0) | <div>虾米要散 了，很不舍。<br>所以想  建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215382553)<br><br>2020-08-14 14:36<br>赞(1) 踩(0) | <div>我死了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12276648)<br>我还没想好要写什么...<br>2020-08-14 10:24<br>赞(1) 踩(0) | <div>结婚要唱</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13348634)<br>来吧，嗨～～起来！<br>2020-08-22 21:40<br>赞(0) 踩(0) | <div>挺你，婚礼唱感觉一下子就变迪士尼大片了 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
@@ -182,20 +182,20 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1878755)<br>就让我随你去……<br>2020-08-08 10:57<br>赞(2) 踩(0) | <div>老朽终于等到你们唱中文了&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20774087)<br>爷爷永远爱你<br>2020-08-07 09:43<br>赞(1) 踩(0) | <div>除了感动还是感动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403874656)<br><br>2020-08-06 16:21<br>赞(2) 踩(0) | <div>浪漫</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410040339)<br><br>2020-08-05 15:31<br>赞(1) 踩(0) | <div>极致浪漫我爱你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410040339)<br><br>2020-08-05 15:31<br>赞(1) 踩(0) | <div>极致浪漫<br>我爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338076280)<br>祝每一个能看到这的人天天...<br>2020-08-05 10:38<br>赞(1) 踩(0) | <div>我死了之后也要升入太空做浪子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13545031)<br>同频的人戴上耳机就是一起...<br>2020-08-04 23:57<br>赞(55) 踩(0) | <div>有一种世界毁灭前夕的浪漫和盛大，如果宇宙马上就要爆炸，和我一起牵手跳舞吧！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23443904)<br><br>2020-08-17 18:35<br>赞(0) 踩(0) | <div>形容太准确了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8115304)<br>如果你爱我，你会来找我<br>2020-09-02 22:34<br>赞(0) 踩(0) | <div>好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3475881)<br>再见虾米<br>2020-09-28 15:52<br>赞(0) 踩(0) | <div>好</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:07<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小 虾米汇成自己的一片海洋。微信号:pinkfloyd_30</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:07<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。<br>所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小 虾米汇成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25823361)<br>我从海上来，浪声满袖。<br>2020-08-04 11:28<br>赞(1) 踩(0) | <div>迷恋前奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49824113)<br>未登记失踪瑞口<br>2020-08-04 00:10<br>赞(1) 踩(0) | <div>怎么把在线歌词模式关掉吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51877895)<br>无论哪里，怎样的我，只要...<br>2020-08-04 00:02<br>赞(2) 踩(0) | <div>如果你想遨游太空，那么你一定曾无数次仰望过星空。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14006)<br>我擦这是什么<br>2020-08-03 23:25<br>赞(1) 踩(0) | <div>脑海里一直回响着小号和长号的line&amp;hellip;走不出去 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255373139)<br>湿趴 kolor Mr....<br>2020-08-03 18:28<br>赞(1) 踩(0) | <div>噢耶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20158197)<br>萬華艋舺寶哥<br>2020-08-03 13:49<br>赞(1) 踩(0) | <div>VERY IMPRESSIVE...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14084485)<br> <br>2020-08-03 10:58<br>赞(3) 踩(0) | <div>Verse: C Cmaj7 C7 F Fm Cmaj7 Dm GChorus: C Cmaj7 F Fm</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14084485)<br> <br>2020-08-03 10:58<br>赞(3) 踩(0) | <div>Verse: C Cmaj7 C7 F Fm Cmaj7 Dm G<br>Chorus: C Cmaj7 F Fm</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44224032)<br>我还没想好要写什么...<br>2020-08-03 10:22<br>赞(1) 踩(0) | <div>2020年元旦的school 醉醺醺的rock n roll fantasy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16601850)<br><br>2020-08-03 08:49<br>赞(1) 踩(0) | <div>有点银河护卫队插曲的味道</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/397921)<br>我还没想好要写什么...<br>2020-08-03 09:07<br>赞(0) 踩(0) | <div>黄河护卫队吧</div> |
@@ -203,7 +203,7 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33175887)<br> <br>2020-08-02 11:37<br>赞(1) 踩(0) | <div>真好听，能感到满满的爱，满满的希望，听完这首歌，感觉一切都有了希望。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3008874)<br>什么时候遇见外星人/回宇...<br>2020-08-02 10:55<br>赞(3) 踩(0) | <div>有能量有爱有浪漫有温柔。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15725146)<br>最棒：<br>2020-08-02 09:11<br>赞(1) 踩(0) | <div>昨晚听这首歌哭得一团糟。开心不开心的，我好讨厌你。我这么难过，快乐补不回来。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8086594)<br>感恩面對<br>2020-08-02 03:57<br>赞(1) 踩(0) | <div>讓我在這平淡無奇面子斗爭的霧霾中看到了星星也是屬於我的你的 &amp;lt;勵志獎品&amp;gt;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8086594)<br>感恩面對<br>2020-08-02 03:57<br>赞(1) 踩(0) | <div>讓我在這平淡無奇面子斗爭的霧霾中<br>看到了星星<br>也是屬於我的你的 &amp;lt;勵志獎品&amp;gt;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45810215)<br>似木头似石头的话得到注意...<br>2020-08-01 23:47<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14152141)<br>冬穿梭  晚来经过  手...<br>2020-08-01 23:11<br>赞(2) 踩(0) | <div>✧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314270748)<br>我还没想好要写什么...<br>2020-08-01 23:10<br>赞(1) 踩(0) | <div>关铮啊关铮啊！！！</div> |
@@ -214,7 +214,7 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263625478)<br><br>2020-07-29 20:58<br>赞(1) 踩(0) | <div>很实在的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338032733)<br>極 度 理 智<br>2020-07-29 04:29<br>赞(1) 踩(0) | <div>真难得</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6329354)<br>Don't stop B...<br>2020-07-16 05:03<br>赞(1) 踩(0) | <div>冲啊冲啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177264862)<br>两个孤独的灵魂相遇，才能...<br>2020-07-13 21:43<br>赞(4) 踩(0) | <div>我虽然躺在床上可是已经看到了几千里外的舞场 <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177264862)<br>两个孤独的灵魂相遇，才能...<br>2020-07-13 21:43<br>赞(4) 踩(0) | <div>我虽然躺在床上<br>可是已经看到了几千里外的舞场 <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333339511)<br>我还没想好要写什么...<br>2020-07-10 13:37<br>赞(1) 踩(0) | <div>还有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431760719)<br> <br>2020-07-01 09:49<br>赞(2) 踩(0) | <div>七月的惊喜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2020-06-25 16:55<br>赞(4) 踩(0) | <div>梦里是梦外的写照&amp;nbsp; 梦外是梦里的囚牢 ​</div> |
@@ -246,12 +246,12 @@ Oh my love<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347593069)<br>双脚踩灯泡，胸口碎大石。<br>2020-06-16 22:54<br>赞(0) 踩(0) | <div>joyside解散后边远的浪乐队你多听听</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375710087)<br><br>2020-06-25 05:13<br>赞(0) 踩(0) | <div><q><b>钢铁直男刘胡来说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433401305)<br>不美丽就是我的美丽<br>2020-07-15 22:20<br>赞(0) 踩(0) | <div>的确！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423882844)<br><br>2020-03-16 00:00<br>赞(1) 踩(0) | <div>joyside永远不要停下来啊！！你是永恒时代的少年</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423882844)<br><br>2020-03-16 00:00<br>赞(1) 踩(0) | <div>joyside永远不要停下来啊！！<br>你是永恒时代的少年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11715859)<br>我还没想好要说什么<br>2020-03-15 22:11<br>赞(2) 踩(0) | <div>很意外，但是一脸笑意</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36620871)<br>我还没想好要写什么...<br>2020-03-12 22:01<br>赞(2) 踩(0) | <div>回来了，边远的声音变得更温暖了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435179318)<br>你觉得恨却离不开<br>2020-03-09 13:49<br>赞(1) 踩(0) | <div>☄️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73740960)<br><br>2020-03-03 13:38<br>赞(1) 踩(0) | <div>✧٩(ˊωˋ*)و✧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119505368)<br><br>2020-02-26 23:28<br>赞(5) 踩(0) | <div>虹位不想开着过载扫中高频打满的和弦了边远也不会再唱北京浪花里的drinkfvckrockcult男孩们手里的单程票已经去不了第二个冥王星</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119505368)<br><br>2020-02-26 23:28<br>赞(5) 踩(0) | <div>虹位不想开着过载扫中高频打满的和弦了<br>边远也不会再唱北京浪花里的drinkfvckrock<br>cult男孩们手里的单程票已经去不了第二个冥王星</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/517833)<br><br>2020-04-15 21:08<br>赞(0) 踩(0) | <div>深</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347593069)<br>双脚踩灯泡，胸口碎大石。<br>2020-06-16 22:55<br>赞(0) 踩(0) | <div>joyside解散后边远的浪乐队你没听过吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400715332)<br>留白<br>2020-02-24 11:24<br>赞(1) 踩(0) | <div>——</div> |
@@ -270,7 +270,7 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46446466)<br>我还没想好要写什么...<br>2020-01-16 11:32<br>赞(1) 踩(0) | <div>边远个人专辑的风格 哈哈 挺好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3285105)<br><br>2020-01-14 16:54<br>赞(2) 踩(0) | <div>太空丹迪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23525588)<br>5:02 PM<br>2020-01-14 00:41<br>赞(3) 踩(0) | <div>好想和你一同去宇宙流浪、遨游太空呀～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8315742)<br>虾米的版权逐渐让我心碎<br>2020-01-13 23:01<br>赞(2) 踩(0) | <div>这里的留言真是充满了peace and love～说好的朋克呢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8315742)<br>虾米的版权逐渐让我心碎<br>2020-01-13 23:01<br>赞(2) 踩(0) | <div>这里的留言真是充满了peace and love～<br>说好的朋克呢</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356186208)<br>不经常用，活动区在网易，...<br>2020-01-21 13:02<br>赞(0) 踩(0) | <div>punk rock never die, 而我会死，所以我还是抓紧时间玩自己吧(边远)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6291302)<br><br>2020-01-11 19:51<br>赞(2) 踩(0) | <div>把这首歌发给你们喜欢的人，邀请他/她一起去整个宇宙流浪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338032733)<br>極 度 理 智<br>2020-01-11 04:15<br>赞(2) 踩(0) | <div>上太空一起大合唱！</div> |
@@ -288,7 +288,7 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334003778)<br>Asymmetric.<br>2020-01-02 19:33<br>赞(52) 踩(0) | <div>想起几个月前迷恋的男孩子在朋友圈发过Joyside的歌。我在一个深夜里打开链接，循环播放，播了很久很久，直到快闭上眼睛。现在我坐在火车上，一片片绿色荒原飞速掠过，我想，也许他只是我无边想象力的一个寄托，一个美梦的化身，一种矫揉造作的情感扭曲。他说，他想当艺术家，他想拍一个关于自己的纪录片，他会是一个浪子吗还是一个疯子呢这并不重要，重要的是我知道我不会再分享歌曲给他了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441365812)<br>Bye ~<br>2020-07-25 17:48<br>赞(0) 踩(0) | <div>抱抱你 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19500286)<br>拿衣服<br>2020-08-25 04:02<br>赞(0) 踩(0) | <div></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:10<br>赞(0) 踩(0) | <div>虾  米要散了，很不舍。所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。微信号:pinkfloyd_30</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:10<br>赞(0) 踩(0) | <div>虾  米要散了，很不舍。<br>所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11522000)<br>送你CD<br>2020-01-02 00:39<br>赞(1) 踩(0) | <div>浪漫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280128630)<br><br>2020-01-01 21:32<br>赞(1) 踩(0) | <div>太空浪子，超棒，好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44210469)<br>最好的一天  最坏的一天<br>2020-01-01 21:10<br>赞(1) 踩(0) | <div>确认过眼神，是joyside</div> |
@@ -304,14 +304,14 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265881239)<br><br>2019-12-31 23:59<br>赞(2) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13414989)<br><br>2019-12-31 22:29<br>赞(2) 踩(0) | <div>新年快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40502776)<br>我爱音乐！<br>2019-12-31 20:40<br>赞(3) 踩(0) | <div>这世界我来过！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11627573)<br>遠方詩意的世界<br>2019-12-31 19:39<br>赞(3) 踩(0) | <div>許願2020年：和平與愛，美與未來～失而復得，重新開始！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11627573)<br>遠方詩意的世界<br>2019-12-31 19:39<br>赞(3) 踩(0) | <div>許願2020年：和平與愛，美與未來～<br>失而復得，重新開始！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349255414)<br>日边清梦断，镜里朱颜改<br>2019-12-31 19:37<br>赞(2) 踩(0) | <div>首支中文单曲，呵呵呵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330907917)<br>每日每时，滴答滴答<br>2019-12-31 19:20<br>赞(1) 踩(0) | <div>前奏真的太棒了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376631264)<br>睡个好觉<br>2019-12-31 19:19<br>赞(2) 踩(0) | <div>，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87995366)<br><br>2019-12-31 16:28<br>赞(3) 踩(0) | <div>前奏太好听啦啦啦，想做闹钟声音 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376153479)<br><br>2019-12-31 17:53<br>赞(0) 踩(0) | <div>好听</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87995366)<br><br>2019-12-31 17:58<br>赞(0) 踩(0) | <div><q><b>冰冰说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88231850)<br> <br>2019-12-31 16:12<br>赞(1) 踩(0) | <div>我的2019，就那样我的2020，将会多了点色彩</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88231850)<br> <br>2019-12-31 16:12<br>赞(1) 踩(0) | <div>我的2019，就那样<br>我的2020，将会多了点色彩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18101934)<br>别问我什么是你爸爸<br>2019-12-31 15:04<br>赞(3) 踩(0) | <div>Joyside式的浪漫，哈哈，就是那句“你是生命的奇迹”让我出戏到刘欢老师</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425200389)<br>就想静静，静静的听。<br>2019-12-31 14:11<br>赞(2) 踩(0) | <div>好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-12-31 13:53<br>赞(3) 踩(0) | <div>emmm</div> |
@@ -326,7 +326,7 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87995366)<br><br>2019-12-31 11:02<br>赞(3) 踩(0) | <div>前奏好听！ <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378788320)<br><br>2019-12-31 10:51<br>赞(2) 踩(0) | <div>听不懂也要听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431549306)<br>物以类聚 人以群分<br>2019-12-31 10:46<br>赞(2) 踩(0) | <div>⁧⁧ ⁧ ㅤ 谋生</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13520634)<br>今天喝可乐了吗<br>2019-12-31 10:17<br>赞(4) 踩(0) | <div>是我现在的内心写照恭喜你 新的一年 我还是我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13520634)<br>今天喝可乐了吗<br>2019-12-31 10:17<br>赞(4) 踩(0) | <div>是我现在的内心写照<br>恭喜你 新的一年 我还是我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349162315)<br><br>2019-12-31 09:42<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272473759)<br><br>2019-12-31 09:30<br>赞(2) 踩(0) | <div>好棒 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272473759)<br><br>2019-12-31 09:29<br>赞(1) 踩(0) | <div>好</div> |
@@ -384,7 +384,7 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31290139)<br><br>2019-12-30 19:57<br>赞(1) 踩(0) | <div>没看出来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434929588)<br><br>2019-12-30 19:57<br>赞(1) 踩(0) | <div>在2020一起前进吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341168108)<br>LESLIE<br>2019-12-30 19:56<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263621379)<br><br>2019-12-30 19:52<br>赞(1) 踩(0) | <div>无尽的爱，全部给你joyside  缺席了十年  未来十年他们会用彩色渲染</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263621379)<br><br>2019-12-30 19:52<br>赞(1) 踩(0) | <div>无尽的爱，全部给你<br>joyside  缺席了十年  未来十年他们会用彩色渲染</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418740700)<br>Hakuna MMata...<br>2019-12-30 19:50<br>赞(1) 踩(0) | <div>新年快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52377089)<br><br>2019-12-30 19:39<br>赞(1) 踩(0) | <div>支持一下。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293055830)<br><br>2019-12-30 19:13<br>赞(1) 踩(0) | <div>2019年麦田音乐节让我认识了他们</div> |
@@ -398,7 +398,7 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124152208)<br><br>2019-12-30 18:24<br>赞(3) 踩(0) | <div>看到首页写着首支中文单曲，还以为是个老外哪！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2418238)<br>weibo: @尤米口<br>2019-12-30 18:18<br>赞(1) 踩(0) | <div>(ˊᵒ̴̶̷̤ꇴᵒ̴̶̷̤ˋ)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/809218)<br><br>2019-12-30 18:06<br>赞(3) 踩(0) | <div>被前奏吸引了，但是歌词和独白实在是像自以为是的yy</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343502557)<br>3.1415926535...<br>2019-12-30 18:02<br>赞(1) 踩(0) | <div>你有本事聽著下樓梯然後會覺得百步梯都如履平地。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343502557)<br>3.1415926535...<br>2019-12-30 18:02<br>赞(1) 踩(0) | <div>你有本事聽著下樓梯<br><br><br>然後會覺得百步梯都如履平地。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52490613)<br><br>2019-12-30 17:56<br>赞(1) 踩(0) | <div>浪费这么好的bass</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52490613)<br><br>2019-12-30 17:52<br>赞(2) 踩(0) | <div>什么玩意</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431088363)<br><br>2019-12-30 17:44<br>赞(2) 踩(0) | <div>厄</div> |
@@ -417,7 +417,7 @@ Oh my love<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2868807)<br> <br>2019-12-30 16:38<br>赞(0) 踩(0) | <div>阿飞正传</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13030092)<br>一个无趣的人<br>2019-12-30 13:52<br>赞(1) 踩(0) | <div>好温暖 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">心碎2019的年末礼物  2020加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434744292)<br><br>2019-12-30 13:45<br>赞(1) 踩(0) | <div>My love 新年快乐️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258771)<br>你要看看太阳<br>2019-12-30 13:13<br>赞(2) 踩(0) | <div>虽然我爱你们 但我觉得这首很难听那我又在爱你们什么呢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258771)<br>你要看看太阳<br>2019-12-30 13:13<br>赞(2) 踩(0) | <div>虽然我爱你们 但我觉得这首很难听<br>那我又在爱你们什么呢</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46593695)<br>我还没想好要写什么...<br>2019-12-30 13:23<br>赞(0) 踩(0) | <div>同感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12701152)<br><br>2019-12-30 13:10<br>赞(1) 踩(0) | <div>说真的 每次隔壁有滚动歌词了这里还是原始如初 但我还是想在虾米听歌儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44207915)<br>我还没想好要写什么<br>2019-12-30 13:05<br>赞(1) 踩(0) | <div>柔</div> |
@@ -451,7 +451,7 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377348850)<br>今天不练鼓明天变垃圾<br>2019-12-30 10:57<br>赞(1) 踩(0) | <div>来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2154872)<br>新浪潮/后朋克 <br>2019-12-30 10:56<br>赞(4) 踩(0) | <div>好温暖的一首歌 好感动，2019经历了好多，看懂了人性，有期待所以会失望 接下来也许不会对自己这么刻薄了，拥抱幸福，拒绝垃圾人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412216680)<br><br>2019-12-30 10:38<br>赞(94) 踩(0) | <div>joy is always by my side。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:08<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。所以想建个音乐交流群，大家有意愿的加微信，滴水成  涓，给我们这些无家的小虾米汇成自己的一片海洋。微信号:pinkfloyd_30</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:08<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。<br>所以想建个音乐交流群，大家有意愿的加微信，滴水成  涓，给我们这些无家的小虾米汇成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49975507)<br><br>2019-12-30 10:36<br>赞(3) 踩(0) | <div>我永远爱Joyside</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215040981)<br>我还没想好要写什么...<br>2019-12-30 10:33<br>赞(1) 踩(0) | <div>2019，bye</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12916347)<br>j牙痒痒☺️<br>2019-12-30 10:27<br>赞(1) 踩(0) | <div>给你全部的爱</div> |
@@ -509,16 +509,16 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18151836)<br>孤獨又兇<br>2019-12-30 02:38<br>赞(3) 踩(0) | <div>过完了10年代最后一个周末</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193175076)<br>夜間飛行<br>2019-12-30 01:59<br>赞(1) 踩(0) | <div>二十世纪二十年代</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3291731)<br>KK和他的朋友们<br>2019-12-30 01:55<br>赞(1) 踩(0) | <div>听完滚去睡觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37620409)<br>whenindoubt,...<br>2019-12-30 01:43<br>赞(10) 踩(0) | <div>说不好 就是听着前奏你就能想到每个人在livehouse的脸庞光线 汗水混杂着酒精 笑容 腾空的脚 拥挤 快乐台上台下 每个人都一样快乐</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:09<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。所以想建  个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。微信号:pinkfloyd_30</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37620409)<br>whenindoubt,...<br>2019-12-30 01:43<br>赞(10) 踩(0) | <div>说不好 就是听着前奏<br>你就能想到每个人在livehouse的脸庞<br>光线 汗水混杂着酒精 笑容 腾空的脚 拥挤 快乐<br>台上台下 每个人都一样快乐</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:09<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。<br>所以想建  个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81565238)<br>谢谢！再见<br>2019-12-30 01:35<br>赞(1) 踩(0) | <div>逃离2019</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7961101)<br>明天会是怎样的昨天…<br>2019-12-30 01:35<br>赞(1) 踩(0) | <div>不行，有点飘了，冷静。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7961101)<br>明天会是怎样的昨天…<br>2019-12-30 01:34<br>赞(1) 踩(0) | <div>沙发是哪位？？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7961101)<br>明天会是怎样的昨天…<br>2019-12-30 01:33<br>赞(1) 踩(0) | <div>写封信放瓶里，未来签收。(漂流瓶)</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45587595)<br>挺迷茫的<br>2019-12-30 01:11<br>赞(3) 踩(0) | <div>宇宙中的行者。一往无前的孤独独自承受，惊喜的是，那片风景独享。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45587595)<br>挺迷茫的<br>2019-12-30 01:11<br>赞(3) 踩(0) | <div>宇宙中的行者。<br>一往无前的孤独独自承受，惊喜的是，那片风景独享。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71137586)<br>我还没想好要写什么...<br>2019-12-30 01:07<br>赞(125) 踩(0) | <div>怎么说呢，真的很让人惊喜。本来想听一遍就睡的，结果一直循环越听越激动。回归之后的joyside的歌里不那么浪荡自由了，而是表现出更多的柔情，这是一种不掺假的成熟的感情。在我看来，这也是joyside现在状态的真实表现，回归之后大家都经历了很多，开始变得温暖柔软起来。也就是说新歌就是他们以及乐队这个年龄所自然的展现，不同于第一阶段时的那种青春气息。而且编曲也变得精致丰富起来，这些都是改变。我喜欢这种改变，或者称为成长更好一些。joyside真的认真做歌，不是炒冷饭，现在我相信他们说的了，我也相信我会喜欢这样一个“新”的joyside。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412216680)<br><br>2019-12-30 10:41<br>赞(0) 踩(0) | <div>对，特神奇，跟以前不同，但内核却没变，他们太会了！！！</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:07<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成  自己的一片海洋。微信号:pinkfloyd_30</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327288534)<br>我还没想好要写什么...<br>2021-02-03 18:07<br>赞(0) 踩(0) | <div>虾米要散了，很不舍。<br>所以想建个音乐交流群，大家有意愿的加微信，滴水成涓，给我们这些无家的小虾米汇成  自己的一片海洋。<br>微信号:<br>pinkfloyd_30</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422215131)<br>迷困碎物<br>2019-12-30 01:02<br>赞(2) 踩(0) | <div>听哭了是怎么回事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111411)<br><br>2019-12-30 00:53<br>赞(1) 踩(0) | <div>嘿 新的 joyside，不光明媚，还有点浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106427)<br><br>2019-12-30 00:52<br>赞(2) 踩(0) | <div>不愿随波逐流 但愿随你漂流</div> |
@@ -535,9 +535,9 @@ Oh my love<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7761456)<br> <br>2019-12-30 00:26<br>赞(1) 踩(0) | <div>感觉有点怪 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25986088)<br>0能量 杀掉你<br>2019-12-30 00:25<br>赞(2) 踩(0) | <div>系Space Dandy！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10517)<br>SSS<br>2019-12-30 00:24<br>赞(1) 踩(0) | <div>❤️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184276207)<br>.<br>2019-12-30 00:21<br>赞(4) 踩(0) | <div>“再没有什么能将我们分离”第一首中文歌 谢谢你们的新年礼物我们2020年见</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184276207)<br>.<br>2019-12-30 00:21<br>赞(4) 踩(0) | <div>“再没有什么能将我们分离”<br>第一首中文歌 谢谢你们的新年礼物<br>我们2020年见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50094338)<br>那些散落的誓言，戏弄了青...<br>2019-12-30 00:20<br>赞(2) 踩(0) | <div>若我悄无声息地离去，你便不要再寻我了吧。来日方长，也许我会在哪个充满阳光的冬天出现，再次满怀期待地和你见上一面。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7031762)<br>电影厨房食物烹制采样～A...<br>2019-12-30 00:15<br>赞(4) 踩(0) | <div>渴求得到最真的爱无所畏惧的把全世界给你一起去宇宙遨游 做一双流浪人儿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7031762)<br>电影厨房食物烹制采样～A...<br>2019-12-30 00:15<br>赞(4) 踩(0) | <div>渴求得到最真的爱<br>无所畏惧的把全世界给你<br>一起去宇宙遨游 做一双流浪人儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5399956)<br><br>2019-12-30 00:13<br>赞(1) 踩(0) | <div>噢耶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35802324)<br> <br>2019-12-30 00:11<br>赞(1) 踩(0) | <div>浪起来</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1154943)<br>嬲<br>2019-12-30 00:12<br>赞(0) 踩(0) | <div>嘿</div> |

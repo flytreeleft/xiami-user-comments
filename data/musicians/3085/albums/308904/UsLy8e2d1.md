@@ -59,11 +59,11 @@ mouse<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431405525)<br>我是真TM还没有想好写什...<br>2021-01-05 12:00<br>赞(0) 踩(0) | <div>唉╯﹏╰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12665741)<br><br>2020-12-08 22:49<br>赞(0) 踩(0) | <div>这首和ak47的黄金时间异曲同工的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32215112)<br><br>2020-12-04 08:43<br>赞(0) 踩(0) | <div>不痛不痒，就不叫痛仰啦，直刺灵魂，捂着胸口，咬紧牙关，握紧拳头，努力生活！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32215112)<br><br>2020-12-04 08:43<br>赞(0) 踩(0) | <div>不痛不痒，<br>就不叫痛仰啦，<br>直刺灵魂，<br>捂着胸口，<br>咬紧牙关，<br>握紧拳头，<br>努力生活！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128643520)<br>你，还没有醒来。<br>2020-11-07 02:21<br>赞(0) 踩(0) | <div>前奏就像一朵正在慢慢盛开的莲花，绽放的一刹那哪吒出现：&amp;ldquo;不！&amp;rdquo;。田然真厉害！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41695608)<br><br>2020-10-19 08:51<br>赞(0) 踩(0) | <div>duang</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289293301)<br>我，来自宇宙深处的幽灵…...<br>2020-09-30 06:46<br>赞(0) 踩(0) | <div>*</div> |
@@ -99,7 +99,7 @@ mouse<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51637326)<br><br>2019-12-17 20:45<br>赞(0) 踩(0) | <div>我们都是高级动物 对吧？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418322744)<br><br>2019-12-15 17:14<br>赞(0) 踩(0) | <div>不   相信语文</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430801689)<br><br>2019-11-17 18:51<br>赞(0) 踩(0) | <div>哎 克隆舌头乐队的形态。没意思</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6289682)<br>暂无签名~<br>2019-11-05 07:42<br>赞(1) 踩(0) | <div>继续睡吧不 用相信闹铃</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6289682)<br>暂无签名~<br>2019-11-05 07:42<br>赞(1) 踩(0) | <div>继续睡吧<br>不 用相信闹铃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335162799)<br><br>2019-10-10 19:04<br>赞(0) 踩(0) | <div>BOOM <img src="../../../../images/comments/c0b5820a44138b3377d4720d2e07302a.png"> <img src="../../../../images/comments/c0b5820a44138b3377d4720d2e07302a.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125345674)<br>我还没想好要写什么...<br>2019-12-06 20:11<br>赞(0) 踩(0) | <div>哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2357236)<br>Better to bu...<br>2019-09-16 14:50<br>赞(1) 踩(0) | <div>桶哥同款</div> |
@@ -111,9 +111,9 @@ mouse<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1997622)<br>喜欢这里。<br>2019-08-13 07:56<br>赞(4) 踩(0) | <div>我四岁的闺女就喜欢听这首，一上车就嚷嚷着放这首歌。 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369724242)<br>我还没想好要写什么...<br>2019-08-12 16:33<br>赞(0) 踩(0) | <div>牛皮儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402764933)<br><br>2019-08-10 13:30<br>赞(1) 踩(0) | <div>看歌词以为是舌头</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19665766)<br><br>2019-08-10 11:07<br>赞(5) 踩(0) | <div>要相信规矩不！要相信秩序不！要相信经验不！要相信教训不！要相信责任不！要相信团结不！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19665766)<br><br>2019-08-10 11:07<br>赞(5) 踩(0) | <div>要相信规矩<br>不！<br>要相信秩序<br>不！<br>要相信经验<br>不！<br>要相信教训<br>不！<br>要相信责任<br>不！<br>要相信团结<br>不！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19665766)<br><br>2019-08-10 11:04<br>赞(1) 踩(0) | <div>封面是哪吒吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323087634)<br><br>2019-08-10 02:14<br>赞(0) 踩(0) | <div>不  用相信贫穷不  用相信出生</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323087634)<br><br>2019-08-10 02:14<br>赞(0) 踩(0) | <div>不  用相信贫穷<br>不  用相信出生</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8667503)<br>暂无签名~<br>2019-08-05 17:40<br>赞(0) 踩(0) | <div>不.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250013427)<br><br>2019-08-04 11:58<br>赞(1) 踩(0) | <div>有窦唯的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120918630)<br>在百转柔肠间，一天天地冷...<br>2019-07-27 23:13<br>赞(0) 踩(0) | <div>牛皮</div> |
@@ -166,7 +166,7 @@ mouse<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253137612)<br>♍<br>2020-07-30 23:40<br>赞(0) 踩(0) | <div>要相信组织，要相信经验，要相信团结，要相信繁荣，要相信秩序，要相信河蟹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95044372)<br>摇滚乐不重要，重要的是你...<br>2018-01-27 10:30<br>赞(0) 踩(0) | <div>g</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1457409)<br>也许有一天 我像平时一样...<br>2018-01-19 21:10<br>赞(1) 踩(0) | <div>不到你怀疑人生 痛仰最牛逼歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292191920)<br>蒲公英和炊烟都在等你<br>2018-01-13 11:09<br>赞(0) 踩(0) | <div>不，要相信规矩不，要相信秩序不，要相信经验不，要相信教训不，要相信责任不，要相信义务不，要相信活泼不，要相信严肃不，要相信贵践不，要相信尊卑不，要相信傀儡不，要相信权威不，要相信稳定不，要相信繁荣不，要相信破坏不，要相信团结</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292191920)<br>蒲公英和炊烟都在等你<br>2018-01-13 11:09<br>赞(0) 踩(0) | <div>不，要相信规矩<br>不，要相信秩序<br>不，要相信经验<br>不，要相信教训<br>不，要相信责任<br>不，要相信义务<br>不，要相信活泼<br>不，要相信严肃<br>不，要相信贵践<br>不，要相信尊卑<br>不，要相信傀儡<br>不，要相信权威<br>不，要相信稳定<br>不，要相信繁荣<br>不，要相信破坏<br>不，要相信团结</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322154615)<br><br>2018-01-13 01:50<br>赞(0) 踩(0) | <div>我觉得，是最牛逼的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1180887)<br><br>2018-01-12 19:39<br>赞(0) 踩(0) | <div>感觉照最近行情痛痒唱佛经都指日可待了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262486137)<br><br>2018-01-04 00:58<br>赞(5) 踩(0) | <div>最初听痛仰觉得早期作品好难听，庆幸后期变得悦耳了；现在再听，只能惋惜最初的愤怒的他们一去不返了。人们总是被生活磨平了棱角。</div> |
@@ -183,12 +183,12 @@ mouse<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253137612)<br>♍<br>2020-07-30 23:50<br>赞(0) 踩(0) | <div>以前有痛苦有信仰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6034)<br><br>2017-10-30 10:14<br>赞(2) 踩(0) | <div>不用相信傀儡 不用相信权威</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8395189)<br><br>2017-10-30 10:10<br>赞(2) 踩(0) | <div>不妥协，不妥协，大不了一条命挂掉18年之后又是一条好汉。哪吒牛逼！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6679655)<br><br>2017-10-30 10:00<br>赞(0) 踩(0) | <div>不！用相信贵*不！用相信尊卑不！用相信傀儡不！用相信权威不！用相信稳定不！用相信繁荣不！用相信破坏不！用相信团结</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12307839)<br><br>2017-10-28 00:19<br>赞(0) 踩(0) | <div>不，要相信规矩不，要相信秩序不，要相信经验不，要相信教训不，要相信责任不，要相信义务不，要相信活泼不，要相信严肃不，要相信贵践不，要相信尊卑不，要相信傀儡不，要相信权威不，要相信稳定不，要相信繁荣不，要相信破坏不，要相信团结</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4734973)<br><br>2017-10-28 00:10<br>赞(0) 踩(0) | <div>不，要相信规矩不，要相信秩序不，要相信经验不，要相信教训不，要相信责任不，要相信义务不，要相信活泼不，要相信严肃不，要相信贵践不，要相信尊卑不，要相信傀儡不，要相信权威不，要相信稳定不，要相信繁荣不，要相信破坏不，要相信团结</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6679655)<br><br>2017-10-30 10:00<br>赞(0) 踩(0) | <div>不！用相信贵*<br>不！用相信尊卑<br>不！用相信傀儡<br>不！用相信权威<br>不！用相信稳定<br>不！用相信繁荣<br>不！用相信破坏<br>不！用相信团结</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12307839)<br><br>2017-10-28 00:19<br>赞(0) 踩(0) | <div>不，要相信规矩<br>不，要相信秩序<br>不，要相信经验<br>不，要相信教训<br>不，要相信责任<br>不，要相信义务<br>不，要相信活泼<br>不，要相信严肃<br>不，要相信贵践<br>不，要相信尊卑<br>不，要相信傀儡<br>不，要相信权威<br>不，要相信稳定<br>不，要相信繁荣<br>不，要相信破坏<br>不，要相信团结</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4734973)<br><br>2017-10-28 00:10<br>赞(0) 踩(0) | <div>不，要相信规矩<br>不，要相信秩序<br>不，要相信经验<br>不，要相信教训<br>不，要相信责任<br>不，要相信义务<br>不，要相信活泼<br>不，要相信严肃<br>不，要相信贵践<br>不，要相信尊卑<br>不，要相信傀儡<br>不，要相信权威<br>不，要相信稳定<br>不，要相信繁荣<br>不，要相信破坏<br>不，要相信团结</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1439509)<br><br>2017-10-28 00:00<br>赞(2) 踩(0) | <div>旋律也不过是平常，倒是歌词有趣的紧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5737790)<br><br>2017-10-27 23:29<br>赞(0) 踩(0) | <div>硬核是一种执著的信念文化，其希望以正确、不跟随主流、不跟随物质、脚踏实地去过自己认为对的生活。而硬核音乐与PUNK音乐最大的分别就在于行为上是具有建设性的，而不是以毁灭及破坏行为去反对社会资本主义。HARDC0RE不仅仅是一种音乐，也是一种社会文化。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2761213)<br><br>2017-10-27 23:21<br>赞(0) 踩(0) | <div>不，要相信规矩不，要相信秩序不，要相信经验不，要相信教训不，要相信责任不，要相信义务不，要相信活泼不，要相信严肃不，要相信贵践不，要相信尊卑不，要相信傀儡不，要相信权威不，要相信稳定不，要相信繁荣不，要相信破坏不，要相信团结</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2761213)<br><br>2017-10-27 23:21<br>赞(0) 踩(0) | <div>不，要相信规矩<br>不，要相信秩序<br>不，要相信经验<br>不，要相信教训<br>不，要相信责任<br>不，要相信义务<br>不，要相信活泼<br>不，要相信严肃<br>不，要相信贵践<br>不，要相信尊卑<br>不，要相信傀儡<br>不，要相信权威<br>不，要相信稳定<br>不，要相信繁荣<br>不，要相信破坏<br>不，要相信团结</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4926807)<br>你会变成这样都是我害的<br>2017-10-27 23:08<br>赞(0) 踩(0) | <div>反X反压迫哈哈哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295290085)<br><br>2017-10-09 14:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282320285)<br><br>2017-10-08 17:33<br>赞(4) 踩(0) | <div>第一次感受到了标点符号的重要性。。。</div> |
@@ -215,7 +215,7 @@ mouse<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32076270)<br>不停的烧 直到你心无杂念<br>2018-02-04 19:42<br>赞(0) 踩(0) | <div><q><b>杰‘《克的》/小男孩’说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20452290)<br>在人事已非的景色里，我最...<br>2017-07-23 22:53<br>赞(0) 踩(0) | <div>我去，一亿只精虫在爬行&amp;hellip;&amp;hellip; <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313658461)<br><br>2017-07-22 04:41<br>赞(2) 踩(0) | <div>不，要相信窦唯</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87236992)<br><br>2017-07-21 10:37<br>赞(1) 踩(0) | <div>战争即和平自由即奴役无知即力量</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87236992)<br><br>2017-07-21 10:37<br>赞(1) 踩(0) | <div>战争即和平<br>自由即奴役<br>无知即力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47776922)<br>小马，你以前不是这样的<br>2017-07-05 12:55<br>赞(0) 踩(0) | <div>不 用相信老树盘根</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47776922)<br>小马，你以前不是这样的<br>2017-07-05 12:54<br>赞(0) 踩(0) | <div>不 要相信伟哥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47669152)<br>睡你麻痹起来嗨<br>2017-07-05 08:10<br>赞(1) 踩(0) | <div>不，要相信组织</div> |
@@ -234,7 +234,7 @@ mouse<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42640094)<br>醒来或者吃饱又是一年 相...<br>2017-03-01 09:31<br>赞(0) 踩(0) | <div>窦唯 高级动物？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71805640)<br>做一个梦<br>2017-02-02 18:47<br>赞(0) 踩(0) | <div>不，要相信相信</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173408392)<br>是無等等。<br>2017-01-25 01:15<br>赞(0) 踩(0) | <div>不要</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260141699)<br>never knows ...<br>2017-01-24 20:34<br>赞(80) 踩(0) | <div>不，要相信痛苦不，要相信信仰不，要相信摇滚不，要相信音乐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260141699)<br>never knows ...<br>2017-01-24 20:34<br>赞(80) 踩(0) | <div>不，要相信痛苦<br>不，要相信信仰<br>不，要相信摇滚<br>不，要相信音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50579515)<br>用摇滚像操蛋的人生致敬<br>2017-01-16 19:31<br>赞(1) 踩(0) | <div>什么时候高虎也变成了开口跪？？？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16304524)<br>晦明<br>2017-03-04 23:31<br>赞(0) 踩(0) | <div>我也是这么认为，前奏挺棒，开口low爆。。。偶尔点开听前奏。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50579515)<br>用摇滚像操蛋的人生致敬<br>2017-09-01 04:05<br>赞(0) 踩(0) | <div><q><b>hefu0001说：</b></q></div> |
@@ -384,7 +384,7 @@ mouse<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49065905)<br>这个世界需要摇滚。<br>2015-05-08 10:23<br>赞(0) 踩(0) | <div>不不不不不不不</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45141446)<br><br>2015-05-05 22:54<br>赞(0) 踩(0) | <div>还都是第一张最牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11804894)<br>我还没想好要写什么...<br>2015-04-29 21:53<br>赞(0) 踩(0) | <div>不不不不</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12568947)<br>当年我为少年郎<br>2015-04-23 10:32<br>赞(0) 踩(0) | <div>客气点说 就是向前辈学习从曲调和歌词上 和舌头乐队的几首歌有些类似 但是歌词上玩了个心眼 比舌头圆滑了一些</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12568947)<br>当年我为少年郎<br>2015-04-23 10:32<br>赞(0) 踩(0) | <div>客气点说 就是向前辈学习<br>从曲调和歌词上 和舌头乐队的几首歌有些类似 但是歌词上玩了个心眼 比舌头圆滑了一些</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47261309)<br>一只可爱的蛆宝宝<br>2015-04-22 22:38<br>赞(1) 踩(0) | <div>我也听出来了，是有点du hast的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36897148)<br>再见<br>2015-04-18 01:11<br>赞(0) 踩(0) | <div>棒！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30390747)<br>我要走在我的路上<br>2015-04-13 14:10<br>赞(0) 踩(0) | <div>不</div> |
@@ -464,7 +464,7 @@ mouse<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14850945)<br><br>2013-07-31 23:30<br>赞(1) 踩(0) | <div>焦虑纠结暴躁那些痛苦的负能量词儿一股脑儿地扑过来，烦的我不知道是该归罪于我的星座♎还是又抱怨内分泌失调。特别需要一个长假期暂时逃离烦恼。老天快赐我一个人陪我旅行吧，这样麻麻没那么担心我。走呢还是不走呢AUS？怎么还在下雨？要不还可以去看电影哎！！！叹口气！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17500986)<br><br>2013-07-17 13:05<br>赞(0) 踩(0) | <div>不！不！不！不！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1699299)<br> <br>2013-07-15 13:38<br>赞(0) 踩(0) | <div>不，要相信。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7184505)<br><br>2013-07-03 11:37<br>赞(0) 踩(0) | <div>不 用相信规矩不 用相信秩序不 用相信经验不 用相信教训不 用相信责任不 用相信义务不 用相信活泼不 用相信严肃不 用相信贵贱不 用相信尊卑不 用相信傀儡不 用相信权威不 用相信稳定不 用相信繁荣不 用相信破坏不 用相信团结</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7184505)<br><br>2013-07-03 11:37<br>赞(0) 踩(0) | <div>不 用相信规矩<br>不 用相信秩序<br>不 用相信经验<br>不 用相信教训<br>不 用相信责任<br>不 用相信义务<br>不 用相信活泼<br>不 用相信严肃<br><br>不 用相信贵贱<br>不 用相信尊卑<br>不 用相信傀儡<br>不 用相信权威<br>不 用相信稳定<br>不 用相信繁荣<br>不 用相信破坏<br>不 用相信团结</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12423885)<br><br>2013-06-23 23:34<br>赞(0) 踩(0) | <div>听个燥的了洗洗洗睡吧 晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4304472)<br>。<br>2013-06-23 02:51<br>赞(0) 踩(0) | <div>不！要相信！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2166177)<br><br>2013-06-19 00:36<br>赞(0) 踩(0) | <div>Yoooo~</div> |
@@ -499,7 +499,7 @@ mouse<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4749243)<br> <br>2012-12-17 13:13<br>赞(0) 踩(0) | <div>开始听痛仰真的很痛苦。。各种不习惯啊，不过，听多还蛮带感的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1186642)<br><br>2012-12-04 18:38<br>赞(0) 踩(0) | <div>属于现场的歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11622292)<br><br>2012-11-23 18:31<br>赞(0) 踩(0) | <div>@安魂沙街54号碟屋 这个是你需要的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/989381)<br><br>2012-11-03 18:07<br>赞(0) 踩(0) | <div>不，要相信一切不，要相信自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/989381)<br><br>2012-11-03 18:07<br>赞(0) 踩(0) | <div>不，要相信一切<br>不，要相信自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11277203)<br>殊途，同归。<br>2012-10-30 20:55<br>赞(0) 踩(0) | <div>不</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8668854)<br>不讲道理<br>2012-10-28 23:42<br>赞(0) 踩(0) | <div>！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3505828)<br><br>2012-10-27 11:17<br>赞(0) 踩(0) | <div>不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不     不</div> |

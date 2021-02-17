@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b2adfea500fedaf4dff7bcfb6488343b.jpg)<br>李英](https://i.xiami.com/liyingningjing) | **播放数**: 686135<br>**粉丝数**: 57<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/b2adfea500fedaf4dff7bcfb6488343b.jpg)<br>李英](https://i.xiami.com/liyingningjing) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 686135<br>**粉丝数**: 57<br>**评论数**: 0<br> |
 
 ## 档案
 
@@ -27,5 +27,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

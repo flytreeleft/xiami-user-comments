@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/255e5bdff9033deb81334b42f0cecf98.jpg)<br>葛顺](https://i.xiami.com/gershon) | **播放数**: 5887373<br>**粉丝数**: 699<br>**评论数**: 42<br>**地区**: China 中国大陆<br>**风格**: 现代古典 Modern Classical, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/255e5bdff9033deb81334b42f0cecf98.jpg)<br>葛顺](https://i.xiami.com/gershon) | **地区**: China 中国大陆<br>**风格**: 现代古典 Modern Classical, 国语流行 Mandarin Pop<br>**播放数**: 5887373<br>**粉丝数**: 699<br>**评论数**: 42<br> |
 
 ## 档案
 
@@ -21,11 +21,11 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432448322)<br>我还没想好要写什么...<br>2021-01-28 01:33<br>赞(0) 踩(0) | <div>你好，虾米下架了。请问你转换到哪个平台呢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433259238)<br>朝着音悦的方向！<br>2020-05-14 08:52<br>赞(0) 踩(0) | <div>重头再来！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300335620)<br>活的灑脫就是自在～<br>2020-05-01 01:40<br>赞(0) 踩(0) | <div>あなたの曲の風が好き頑張れ!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300335620)<br>活的灑脫就是自在～<br>2020-05-01 01:40<br>赞(0) 踩(0) | <div>あなたの曲の風が好き<br>頑張れ!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371046921)<br><br>2020-04-05 09:49<br>赞(2) 踩(0) | <div>成功的钢琴演奏有两种类型，一种是展示技巧，而另一种是洗涤心灵。作为一个外行，这种洗涤灵魂的声音更打动震撼我。期待葛老师更多的演奏！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432448322)<br>我还没想好要写什么...<br>2020-03-04 01:17<br>赞(2) 踩(0) | <div>你好 请问可以弹奏一首秋天的童话电影里面的别了秋天这首歌吗？万分感谢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32083474)<br>葛顺<br>2020-04-08 10:35<br>赞(0) 踩(0) | <div>《别了秋天》找到了（吕方演唱），很喜欢，等我练几天，录好了就传上来，特别的献给你Jens正善 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |

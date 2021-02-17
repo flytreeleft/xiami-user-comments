@@ -12,15 +12,12 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6757987)<br><br>2017-10-28 00:40<br>赞(0) 踩(0) | <div>这个的确是民族味，但并不是中国味也算不上什么和风味，当然，必须就得要什么中国味和风味倒也显得有些搞笑另外这曲子让我想起了forest这gal里的某曲...哈哈，真是怀念啊</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6757987)<br><br>2017-10-28 00:40<br>赞(0) 踩(0) | <div>这个的确是民族味，但并不是中国味也算不上什么和风味，当然，必须就得要什么中国味和风味倒也显得有些搞笑<br>另外这曲子让我想起了forest这gal里的某曲...哈哈，真是怀念啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8141420)<br>平淡生活，简单做人！.<br>2015-12-31 10:16<br>赞(0) 踩(0) | <div>我怎么听出加勒比海盗那段经典的登登登登 等等了！？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4098926)<br><br>2014-06-06 14:59<br>赞(0) 踩(0) | <div>@牧羊少年luna酱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/743859)<br><br>2014-05-14 18:32<br>赞(0) 踩(0) | <div>這首聽出了棒子味……額……</div> |

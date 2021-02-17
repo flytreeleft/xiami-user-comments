@@ -62,8 +62,8 @@ RAP:有你有我 大家一起闯<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239376210)<br><br>2020-12-27 23:57<br>赞(0) 踩(0) | <div>我们的钓鱼岛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333832041)<br><br>2020-08-14 22:16<br>赞(0) 踩(0) | <div>相比之下我喜欢以前的王蓉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426641674)<br><br>2020-01-02 15:58<br>赞(1) 踩(0) | <div>宝贝儿幼儿园今年元旦的舞曲之一 好嗨呦！</div> |
@@ -95,15 +95,15 @@ RAP:有你有我 大家一起闯<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375283558)<br><br>2018-06-30 21:31<br>赞(0) 踩(0) | <div>一家子给我联系15291525986    我需要你的帮助</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310479012)<br><br>2018-06-21 07:33<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310479012)<br><br>2018-06-21 07:32<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375636193)<br>你当为主而活：因祂为你而...<br>2018-06-15 08:20<br>赞(3) 踩(0) | <div>嘻嘻嘻&amp;hellip;&amp;hellip;元旦教职工：广场舞蹈中，我校全体教师共同参考当中，荣获一等奖的背景音乐！ <img src="../../../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">歌词：感人！令人为之震撼！&amp;hellip;&amp;hellip;火了火了火雄赳赳气昂昂谁是大英雄长江黄河滚滚造就中国龙一颗执着的心 一只麦克风站在这个舞台 我就是大股东窗外的天空刮的什么风五千年的文化东西南北中我们一起向前冲全凭真武功冲出亚洲 冲出世界 冲向外太空吼 我们是大股东吼 风雨中造就英雄吼 世界的中国风吼 拼搏让我们成功火了火了中国 火了火了火火了火了世界 火了你和我火了火了中国 火了火了火火了火了世界 火了大中国窗外的天空刮的什么风</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375636193)<br>你当为主而活：因祂为你而...<br>2018-06-15 08:21<br>赞(0) 踩(0) | <div>五千年的文化东西南北中我们一起向前冲全凭真武功冲出亚洲 冲出世界 冲向外太空吼 我们的中国风吼 风雨中造就英雄吼 世界的中国风吼 拼搏让我们成功火了火了中国 火了火了火火了火了世界 火了你和我火了火了中国 火了火了火火了火了世界 火了大中国窗外的天空刮的什么风五千年的文化东西南北中我们一起向前冲全凭真武功冲出亚洲 冲出世界 冲向外太空吼 我们的中国风吼 风雨中造就英雄吼 世界的中国风吼 拼搏让我们成功火了火了中国 火了火了火火了火了世界 火了你和我火了火了中国 火了火了火火了火了世界 火了大中国</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375636193)<br>你当为主而活：因祂为你而...<br>2018-06-15 08:20<br>赞(3) 踩(0) | <div>嘻嘻嘻&amp;hellip;&amp;hellip;元旦教职工：广场舞蹈中，我校全体教师共同参考当中，荣获一等奖的背景音乐！ <img src="../../../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>歌词：感人！令人为之震撼！&amp;hellip;&amp;hellip;<br>火了火了火<br><br><br>雄赳赳气昂昂谁是大英雄<br><br>长江黄河滚滚造就中国龙<br><br>一颗执着的心 一只麦克风<br><br>站在这个舞台 我就是大股东<br><br>窗外的天空刮的什么风<br><br>五千年的文化东西南北中<br><br>我们一起向前冲全凭真武功<br><br>冲出亚洲 冲出世界 冲向外太空<br><br>吼 我们是大股东<br><br>吼 风雨中造就英雄<br><br>吼 世界的中国风<br><br>吼 拼搏让我们成功<br><br>火了火了中国 火了火了火<br><br>火了火了世界 火了你和我<br><br>火了火了中国 火了火了火<br><br>火了火了世界 火了大中国<br><br>窗外的天空刮的什么风</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375636193)<br>你当为主而活：因祂为你而...<br>2018-06-15 08:21<br>赞(0) 踩(0) | <div>五千年的文化东西南北中<br><br>我们一起向前冲全凭真武功<br><br>冲出亚洲 冲出世界 冲向外太空<br><br>吼 我们的中国风<br><br>吼 风雨中造就英雄<br><br>吼 世界的中国风<br><br>吼 拼搏让我们成功<br><br>火了火了中国 火了火了火<br><br>火了火了世界 火了你和我<br><br>火了火了中国 火了火了火<br><br>火了火了世界 火了大中国<br><br>窗外的天空刮的什么风<br><br>五千年的文化东西南北中<br><br>我们一起向前冲全凭真武功<br><br>冲出亚洲 冲出世界 冲向外太空<br><br>吼 我们的中国风<br><br>吼 风雨中造就英雄<br><br>吼 世界的中国风<br><br>吼 拼搏让我们成功<br><br>火了火了中国 火了火了火<br><br>火了火了世界 火了你和我<br><br>火了火了中国 火了火了火<br><br>火了火了世界 火了大中国</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354692131)<br><br>2018-06-04 20:15<br>赞(0) 踩(0) | <div>少林武打工</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222372618)<br> <br>2018-05-26 16:33<br>赞(10) 踩(0) | <div>那年蒋介石在整个南京种满了梧桐树只因宋美龄喜欢夏洛用一辆法拉利换了一车向日葵只因马冬梅喜欢吴柏松三年的陪伴也抵不过江辰的一句陈小希我们和好吧路星河56次求婚也抵不过余淮的一句对不起我来晚了我以为孟云穿成至尊宝的样子是挽留但看见林佳拼命吃芒果的时候我才明白是放手海绵宝宝为什么没有第二季因为海绵宝宝的配音死了哆啦A梦为什么没有结局因为大雄不想接受没有哆啦A梦的现实有人喜欢你么没有谁会在你饿得时候给你买最喜欢吃的东西没有有人帮你擦眼泪么没有有人心疼你的无助么没有一厢情愿就得愿赌服输你何曾见过感情放过谁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222372618)<br> <br>2018-05-26 16:33<br>赞(10) 踩(0) | <div>那年蒋介石在整个南京种满了梧桐树只因宋美龄喜欢<br>夏洛用一辆法拉利换了一车向日葵只因马冬梅喜欢<br>吴柏松三年的陪伴也抵不过江辰的一句陈小希我们和好吧<br>路星河56次求婚也抵不过余淮的一句对不起我来晚了<br>我以为孟云穿成至尊宝的样子是挽留但看见林佳拼命吃芒果的时候我才明白是放手<br>海绵宝宝为什么没有第二季<br>因为海绵宝宝的配音死了<br>哆啦A梦为什么没有结局<br>因为大雄不想接受没有哆啦A梦的现实<br>有人喜欢你么<br>没有<br>谁会在你饿得时候给你买最喜欢吃的东西<br>没有<br>有人帮你擦眼泪么<br>没有<br>有人心疼你的无助么<br>没有<br>一厢情愿就得愿赌服输<br>你何曾见过感情放过谁</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311511642)<br>说给自己听<br>2018-08-06 01:14<br>赞(0) 踩(0) | <div>这评论该上热搜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354692131)<br><br>2018-05-26 10:22<br>赞(0) 踩(0) | <div>你是猪呀，你还是谁？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354692131)<br><br>2018-05-26 10:22<br>赞(0) 踩(0) | <div>不会停</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350414599)<br><br>2018-05-22 16:16<br>赞(2) 踩(0) | <div>所有的歌都好听就是人不火</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354692131)<br><br>2018-05-14 20:59<br>赞(1) 踩(0) | <div>嗯古筝了子吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354692131)<br><br>2018-05-14 20:59<br>赞(1) 踩(0) | <div>嗯<br>古筝了子吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365950494)<br>我是双鱼座<br>2018-05-11 19:32<br>赞(2) 踩(0) | <div>马上就是六一了，我们在排练舞蹈。我会了，但没有歌怎么办？虾米也有啊。如果你是小学生你也在排练那就在虾米音乐里排练吧！我们跳的舞是火了火了火，在这里我也祝大家红红火火！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357095296)<br><br>2018-05-07 17:59<br>赞(2) 踩(0) | <div>为什么是我们的校操？ <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208769596)<br><br>2018-05-06 15:28<br>赞(2) 踩(0) | <div>我看过这个的广场舞编舞视频&amp;hellip;&amp;hellip;</div> |
@@ -190,7 +190,7 @@ RAP:有你有我 大家一起闯<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52653332)<br><br>2015-07-16 22:19<br>赞(1) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43425678)<br><br>2015-07-12 20:58<br>赞(1) 踩(0) | <div>China特色</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3647597)<br>hello<br>2015-06-25 19:45<br>赞(37) 踩(0) | <div>哭 广场神曲</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35931568)<br><br>2015-09-01 19:22<br>赞(0) 踩(0) | <div>eo卡拉</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35931568)<br><br>2015-09-01 19:22<br>赞(0) 踩(0) | <div>eo<br>卡拉</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323686929)<br><br>2018-05-02 16:02<br>赞(0) 踩(0) | <div><q><b>shen369369369说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49875085)<br>本人爱娱乐爱音乐<br>2015-05-24 17:56<br>赞(1) 踩(0) | <div>音乐不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16102218)<br>M5脑缠粉❤️欧美乐狂热...<br>2014-10-24 13:20<br>赞(72) 踩(0) | <div>楼下广场舞大妈跳了一年的歌。。。今儿终于知道原来是这首。。。</div> |

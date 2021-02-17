@@ -26,7 +26,7 @@ WE COME FROM THE SAME PLACE
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4461490)<br>烟酒伤身，情歌伤心<br>2019-04-28 10:13<br>赞(0) 踩(0) | <div>我们永远是姐妹。dei dei 讲得dei～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324635705)<br> <br>2018-03-04 12:17<br>赞(0) 踩(0) | <div>好歌</div> |

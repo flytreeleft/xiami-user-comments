@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7f85ce1686deb7b40c27abf3d7f80c56.jpg)<br>陈柯宇](https://i.xiami.com/k-ko) | **播放数**: 67465061<br>**粉丝数**: 25038<br>**评论数**: 330<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 浩室舞曲 House<br> |
+| [![](../../images/musicians/7f85ce1686deb7b40c27abf3d7f80c56.jpg)<br>陈柯宇](https://i.xiami.com/k-ko) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 浩室舞曲 House<br>**播放数**: 67465061<br>**粉丝数**: 25038<br>**评论数**: 330<br> |
 
 ## 档案
 
@@ -49,8 +49,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366385400)<br>我还没想好要写什么...<br>2020-08-10 18:45<br>赞(1) 踩(0) | <div>好好听，好喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442485143)<br><br>2020-07-16 12:31<br>赞(1) 踩(0) | <div>太好听了，我好喜欢，好听好听。(โ◑ヮ◑)♡(◐ヮ◐ใ)。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442485143)<br><br>2020-07-16 12:43<br>赞(0) 踩(0) | <div>你说的太好了 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
@@ -80,7 +80,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226661504)<br><br>2019-06-15 15:10<br>赞(0) 踩(0) | <div>我喜欢你的生僻字。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226661504)<br><br>2019-06-15 15:10<br>赞(0) 踩(0) | <div>我是你七岁的小粉丝</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226661504)<br><br>2019-06-15 15:09<br>赞(0) 踩(0) | <div>陈柯宇，陈柯宇我喜欢你。如果你要去台上唱歌了。记得通知我。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407630412)<br> <br>2019-06-15 14:16<br>赞(0) 踩(0) | <div>Sdodidkdjdkskk kdkdkdkskdmjkk$dkkdkdkdkkekik$kdkdkkk kdkdydddgxvbdhdmd</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407630412)<br> <br>2019-06-15 14:16<br>赞(0) 踩(0) | <div>Sdodidkdjdkskk kdkdkdkskdmjkk$<br>dkkdkdkdkkekik$kdkdkkk kdkdydd<br>dgxvbdhdmd</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407630412)<br> <br>2019-06-15 14:15<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423950846)<br><br>2019-06-09 07:39<br>赞(4) 踩(0) | <div>帅气的陈柯宇哥哥</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423950846)<br><br>2019-06-09 07:37<br>赞(2) 踩(0) | <div>真好听我来个双击666</div> |
@@ -193,8 +193,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413857425)<br><br>2019-02-15 16:24<br>赞(1) 踩(0) | <div>66666666666666</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351209072)<br><br>2019-02-14 16:25<br>赞(3) 踩(0) | <div>加油，一定要上春晚。 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286415376)<br><br>2019-02-13 08:57<br>赞(1) 踩(0) | <div>饕餮盛宴</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402883124)<br><br>2019-02-12 15:43<br>赞(14) 踩(0) | <div>“陟罚臧否”出自诸葛亮的《出师表》；”茕茕孑立”出自李密的《陈情表》；“沆瀣一气”出自钱易的《南部新书》；“踽踽独行”出自张绎的《祭程伊川文》；“醍醐灌顶”出自顾况的《行路难》；“绵绵瓜瓞”出自《诗经》中的《棉》。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402883124)<br><br>2019-02-12 15:41<br>赞(34) 踩(0) | <div>穷穷接立 航歇一气聚聚独行 醍醐灌顶绵绵瓜跌 奉为鬼孽龙行哒大 犄角嘎辣平亭鸟诺 替四旁拖闹闹不休 不狼不油昂夺杰 蝶蟹 毛爹 涛帖淋雨 鹰语 寄语 具语油恶无轩 忽恶不劝其雷会会 阿擦解决知罚脏比 针遍时逼 林次支比 一张一夕</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402883124)<br><br>2019-02-12 15:43<br>赞(14) 踩(0) | <div>“陟罚臧否”出自诸葛亮的《出师表》；<br>”茕茕孑立”出自李密的《陈情表》；<br>“沆瀣一气”出自钱易的《南部新书》；<br>“踽踽独行”出自张绎的《祭程伊川文》；<br>“醍醐灌顶”出自顾况的《行路难》；<br>“绵绵瓜瓞”出自《诗经》中的《棉》。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402883124)<br><br>2019-02-12 15:41<br>赞(34) 踩(0) | <div>穷穷接立 航歇一气<br>聚聚独行 醍醐灌顶<br>绵绵瓜跌 奉为鬼孽<br>龙行哒大 犄角嘎辣<br>平亭鸟诺 替四旁拖<br>闹闹不休 不狼不油<br>昂<br>夺杰 蝶蟹 毛爹 涛帖<br>淋雨 鹰语 寄语 具语<br>油恶无轩 忽恶不劝<br>其雷会会 阿擦解决<br>知罚脏比 针遍时逼 林次支比 一张一夕</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418929136)<br><br>2019-02-12 23:11<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412449756)<br><br>2019-02-12 13:07<br>赞(1) 踩(0) | <div>666</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412449756)<br><br>2019-02-12 13:07<br>赞(1) 踩(0) | <div>很好听</div> |
@@ -228,7 +228,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412992552)<br><br>2019-01-28 16:07<br>赞(1) 踩(0) | <div>等待你的歌声上春晚，等待你个人上春晚。 <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275480751)<br>乐逍遥<br>2019-01-28 15:02<br>赞(0) 踩(0) | <div>这歌会上春晚呀……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410622840)<br>你那笑容如云一般<br>2019-01-28 12:29<br>赞(0) 踩(0) | <div>666</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306128538)<br><br>2019-01-27 21:19<br>赞(37) 踩(0) | <div>这首歌也是火遍大江南北。歌曲形式也是新颖独但在这里不得不强调一下，这首歌只能当作歌曲来听。歌曲《生僻字》博得人们的耳目一新，但是我们从内容出发，这首歌曲存在诸多问题1.歌曲提到我们中国的汉字有五千年的历史。这里我想问，中华民族的文化是有五千多年，但是汉字从汉朝统一文字到现在最多3000不到，你哪里来的五千年？2.歌曲内容的字并不生僻，饕餮等词语年均搜索量已经达到60%以上，其他词语学过语文背过古文都可以知道的，况且腌臢这类脏话。说生僻也是勉强凑合，莫不是欺负我们没读过书？3.曲风没问题但歌曲炒作与营销真的让人反感。你一上热门就想上春晚？人家周董和EGM怎么不说要上。这样还弘扬中华文化？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306128538)<br><br>2019-01-27 21:19<br>赞(37) 踩(0) | <div>这首歌也是火遍大江南北。歌曲形式也是新颖独但在这里不得不强调一下，这首歌只能当作歌曲来听。歌曲《生僻字》博得人们的耳目一新，但是我们从内容出发，这首歌曲存在诸多问题<br>1.歌曲提到我们中国的汉字有五千年的历史。这里我想问，中华民族的文化是有五千多年，但是汉字从汉朝统一文字到现在最多3000不到，你哪里来的五千年？<br>2.歌曲内容的字并不生僻，饕餮等词语年均搜索量已经达到60%以上，其他词语学过语文背过古文都可以知道的，况且腌臢这类脏话。说生僻也是勉强凑合，莫不是欺负我们没读过书？<br>3.曲风没问题但歌曲炒作与营销真的让人反感。你一上热门就想上春晚？人家周董和EGM怎么不说要上。这样还弘扬中华文化？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16862853)<br><br>2019-01-30 06:27<br>赞(0) 踩(0) | <div>搞得你懂的很多似的，要不你也整个段子出来，看看有几个人接受你</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306128538)<br><br>2019-01-30 09:35<br>赞(0) 踩(0) | <div><q><b>tb_1832184说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30836343)<br><br>2019-01-31 19:17<br>赞(0) 踩(0) | <div><q><b>tb_1832184说：</b></q></div> |
@@ -275,7 +275,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412618748)<br><br>2019-01-20 07:38<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345448740)<br><br>2019-01-19 19:36<br>赞(3) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332250196)<br><br>2019-01-19 14:50<br>赞(0) 踩(0) | <div></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408742956)<br>我专伤你的心<br>2019-01-18 15:45<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">点赞</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408742956)<br>我专伤你的心<br>2019-01-18 15:45<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"><br>点赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407566189)<br><br>2019-01-17 17:17<br>赞(0) 踩(0) | <div>好好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26679766)<br>勿忘初心、方得始终<br>2019-01-14 15:29<br>赞(4) 踩(0) | <div>妈呀，这歌想学，还要准备一本中华大词典</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412327711)<br>做自己就好<br>2019-01-13 22:43<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -328,7 +328,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349517890)<br><br>2018-12-31 14:34<br>赞(2) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350892157)<br><br>2018-12-31 14:04<br>赞(1) 踩(0) | <div>好评</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170064066)<br>做自己最好<br>2018-12-31 08:42<br>赞(109) 踩(0) | <div>希望你的歌能上春晚</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414350245)<br><br>2019-02-02 09:31<br>赞(0) 踩(0) | <div>MYTOO</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414350245)<br><br>2019-02-02 09:31<br>赞(0) 踩(0) | <div>MY<br>TOO</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306128538)<br><br>2019-02-02 11:14<br>赞(0) 踩(0) | <div><q><b>斯文的河马说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440306739)<br>我是一个没得感情的刺客。<br>2020-03-24 21:04<br>赞(0) 踩(0) | <div><q><b>Sleepy_chair说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430341069)<br><br>2020-07-13 02:20<br>赞(0) 踩(0) | <div><q><b>Sleepy_chair说：</b></q></div> |
@@ -358,7 +358,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34698900)<br>青山不改绿水长流。其他平...<br>2018-12-15 15:03<br>赞(3) 踩(0) | <div>生僻字好评！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49322461)<br>Blue是光✨。<br>2018-12-08 09:53<br>赞(2) 踩(0) | <div>小哥哥支持你 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343619992)<br><br>2018-10-14 19:12<br>赞(2) 踩(0) | <div>可以快點下載嗎</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287288058)<br><br>2017-08-08 12:30<br>赞(1) 踩(0) | <div>加油↖(^&amp;omega;^)↗张韶涵粉同在 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287288058)<br><br>2017-08-08 12:30<br>赞(1) 踩(0) | <div>加油↖(^&amp;omega;^)↗<br>张韶涵粉同在 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253667438)<br>四季平安<br>2017-05-06 15:46<br>赞(3) 踩(0) | <div>第一次喜欢22这个数</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13964865)<br>Liu梦雪<br>2017-04-13 19:33<br>赞(3) 踩(0) | <div>中毒了你的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256392269)<br><br>2016-12-27 19:54<br>赞(157) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

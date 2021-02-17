@@ -45,8 +45,8 @@ ISRC: TWJ011300302
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20048174)<br>歌曲-折翼天使，微笑人生...<br>2020-06-19 20:30<br>赞(0) 踩(0) | <div>看了两遍稀缺绝版电影，许不了主演的小丑，很好看，剧情很好，人有悲欢离合，酸甜苦辣，很经典，很不错的一部好电影，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39202451)<br><br>2018-01-07 01:07<br>赞(1) 踩(0) | <div>从网易云回来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253126704)<br>我还没想好要写什么...<br>2017-11-11 10:00<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -79,7 +79,7 @@ ISRC: TWJ011300302
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17681988)<br><br>2014-06-22 14:36<br>赞(0) 踩(0) | <div>actually很好听耶~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50043)<br>都是有原因的<br>2014-03-02 21:28<br>赞(0) 踩(0) | <div>無止盡的期待 無底洞得傷害 bye 黃色路燈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32527609)<br><br>2014-02-08 22:47<br>赞(0) 踩(0) | <div>几年前偶然邂逅她的《女爵》太喜欢了，好容易杨乃文又发了新专辑《zero》，《小丑的姿态》很赞，长相清秀干净声音却很摇滚“无止尽的徘佪　无底洞的独白   高不成的姿态　低不就的腐败”这歌词赢了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10274708)<br>暂无签名~<br>2014-01-22 20:40<br>赞(0) 踩(0) | <div>华语乐坛最具摇滚代表性的女歌手非杨乃文莫属！杨乃文 全新个人专辑「Zero」2013.12.20 正式发行：专辑首波祭出主打「小丑的姿态」以最直接的重拍节奏冲撞耳膜，宣告全新出击。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10274708)<br>暂无签名~<br>2014-01-22 20:40<br>赞(0) 踩(0) | <div>华语乐坛最具摇滚代表性的女歌手非杨乃文莫属！杨乃文 全新个人专辑「Zero」<br>2013.12.20 正式发行：<br><br>专辑首波祭出主打「小丑的姿态」以最直接的重拍节奏冲撞耳膜，宣告全新出击。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/560743)<br><br>2014-01-19 09:16<br>赞(0) 踩(0) | <div>不需要有彩虹来衬托。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12304101)<br><br>2014-01-12 13:55<br>赞(1) 踩(0) | <div>你好，很酷的双鱼座，为什么天蝎要骗我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11934254)<br><br>2014-01-04 02:33<br>赞(0) 踩(0) | <div>#我就是个小丑#高不成的姿态，低不就的平庸。但我乐意我欢乐！</div> |
@@ -91,7 +91,7 @@ ISRC: TWJ011300302
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3402474)<br><br>2013-12-26 16:33<br>赞(0) 踩(0) | <div>才知道女王出新专辑了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3682353)<br><br>2013-12-25 18:49<br>赞(0) 踩(0) | <div>放人了冲动  去哭一分钟  让我无止境占有沉默</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14502744)<br><br>2013-12-25 15:49<br>赞(0) 踩(0) | <div>杨乃文的这一整张专辑的歌曲都太是我的菜了，编曲都是我最爱的这一款。。好听死了！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11473219)<br><br>2013-12-25 14:48<br>赞(0) 踩(0) | <div>“无止尽的徘佪　无底洞的独白高不成的姿态　低不就的腐败”杨乃文的新专很不错，特别是这首。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11473219)<br><br>2013-12-25 14:48<br>赞(0) 踩(0) | <div>“无止尽的徘佪　无底洞的独白<br>高不成的姿态　低不就的腐败”杨乃文的新专很不错，特别是这首。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1356751)<br>我还没想好要写什么...<br>2013-12-19 22:30<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/875406)<br>越荒谬 越值得<br>2013-12-18 11:24<br>赞(1) 踩(0) | <div>韩立康真是编曲狂人,田馥甄的声音给她配钢琴&amp;amp;中提琴，杨乃文的声音给她配大量的电吉他&amp;amp;bass.从前奏开始贯穿到结尾的电吉他都好像泛着冷光的金属切面,冷酷又嚣张;bass的衬托弱化了鼓点的杂乱,突出了华丽多变的部分.第二段主歌加入的电音和2:40的间奏点缀得恰到好处。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10544166)<br>这家伙很聪明什么也没留下...<br>2013-12-13 13:11<br>赞(0) 踩(0) | <div>低亢有力</div> |

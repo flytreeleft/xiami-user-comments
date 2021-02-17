@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ea73bc35af88fa11ab897f722c76b99d.jpg)<br>廖伟志](https://i.xiami.com/liaoweizhi) | **播放数**: 4626089<br>**粉丝数**: 154<br>**评论数**: 20<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter, 城市民谣 Urban Folk<br> |
+| [![](../../images/musicians/ea73bc35af88fa11ab897f722c76b99d.jpg)<br>廖伟志](https://i.xiami.com/liaoweizhi) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter, 城市民谣 Urban Folk<br>**播放数**: 4626089<br>**粉丝数**: 154<br>**评论数**: 20<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -31,8 +28,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346165752)<br><br>2019-05-28 21:54<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118937314)<br>一棵会开花的树<br>2018-09-30 12:45<br>赞(1) 踩(0) | <div>今天虾米又有推荐了 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330709105)<br><br>2017-11-21 11:03<br>赞(1) 踩(0) | <div>写的歌都特别好听，每首都深入人心</div> |

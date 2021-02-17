@@ -52,8 +52,8 @@ ISRC CN-A23-14-01950
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-11-17 09:00<br>赞(0) 踩(0) | <div>你的小屋里有很特别啊费烟了吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362593986)<br>花开如梦，笑颜如初.<br>2020-11-08 00:49<br>赞(0) 踩(0) | <div>路过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334760947)<br>不忘初心！！才能始终！！<br>2020-07-27 03:18<br>赞(0) 踩(0) | <div>喜欢</div> |
@@ -65,7 +65,7 @@ ISRC CN-A23-14-01950
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123042362)<br><br>2020-05-23 12:18<br>赞(1) 踩(0) | <div>小赵老师推荐给我听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442772544)<br><br>2020-05-08 20:52<br>赞(1) 踩(0) | <div>很生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27122274)<br>我们不说，就没有改变。我...<br>2020-04-04 00:39<br>赞(1) 踩(0) | <div>如果你离开，请你不要哭&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48023015)<br><br>2020-03-28 09:00<br>赞(1) 踩(0) | <div>柜子上面摆着很多电影和书我的小屋 在星星下面在城市的楼群之间我的小屋 门外有棵大树风儿吹着树叶敲打我的窗户我喜欢坐在门外看日落日出我的小屋 黑夜里的眼睛望着我的全部</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48023015)<br><br>2020-03-28 09:00<br>赞(1) 踩(0) | <div>柜子上面摆着很多电影和书<br>我的小屋 在星星下面<br>在城市的楼群之间<br><br>我的小屋 门外有棵大树<br>风儿吹着树叶敲打我的窗户<br>我喜欢坐在门外看日落日出<br><br>我的小屋 黑夜里的眼睛<br>望着我的全部</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410275084)<br><br>2020-03-25 00:24<br>赞(0) 踩(0) | <div>唱到内心深处，唱到双眼泪流，此时我呆在小屋，无法入眠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26489198)<br> <br>2020-03-21 20:59<br>赞(1) 踩(0) | <div>我的小屋，谢谢你保护了我这么多年。我要和你说再见了，这首歌送给你，谢谢。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441016612)<br>朋朋友友<br>2020-03-23 21:00<br>赞(0) 踩(0) | <div>我不知道是什么缘分 让我看到你这条评论有种说不出的感觉  祝福你 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
@@ -84,8 +84,8 @@ ISRC CN-A23-14-01950
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362593986)<br>花开如梦，笑颜如初.<br>2019-07-16 00:23<br>赞(2) 踩(0) | <div>赵雷的民谣歌曲非常喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52612578)<br><br>2019-07-04 19:44<br>赞(1) 踩(0) | <div>好听，什么时候999+</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280179902)<br>無悔這一生<br>2019-06-24 22:51<br>赞(1) 踩(0) | <div>不要哭</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27122274)<br>我们不说，就没有改变。我...<br>2019-06-14 00:10<br>赞(5) 踩(0) | <div>2003年毕业到现在，换了4个住处，第二个住了十年，在2013年拆了，那是六十年代建的小平房，我20岁到30岁都是在那里度过的。从用电炉做饭到用电磁炉。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424138639)<br><br>2019-06-11 19:54<br>赞(3) 踩(0) | <div>小屋，不安深夜的归宿抵挡痛楚的屏障小屋，承载着记忆 ，占据了时光</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27122274)<br>我们不说，就没有改变。我...<br>2019-06-14 00:10<br>赞(5) 踩(0) | <div>2003年毕业到现在，换了4个住处，第二个住了十年，在2013年拆了，那是六十年代建的<br>小平房，我20岁到30岁都是在那里度过的。<br>从用电炉做饭到用电磁炉。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424138639)<br><br>2019-06-11 19:54<br>赞(3) 踩(0) | <div>小屋，<br>不安深夜的归宿<br>抵挡痛楚的屏障<br><br>小屋，承载着记忆 ，占据了时光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356027008)<br><br>2019-06-07 07:25<br>赞(1) 踩(0) | <div>平常事都可以唱得这么细腻温和</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309642189)<br><br>2019-05-25 17:27<br>赞(2) 踩(0) | <div>肌肉不多，肋骨几条，挺着个中年的肚子和大屁股，也学会了原谅和宽恕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234957399)<br><br>2019-04-22 12:46<br>赞(1) 踩(0) | <div>名瑶万岁</div> |
@@ -94,7 +94,7 @@ ISRC CN-A23-14-01950
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277445013)<br><br>2019-03-21 16:58<br>赞(1) 踩(0) | <div>你要明白你跟那个人已经没有以后了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24703063)<br>我还没想好要写什么...<br>2019-03-21 09:06<br>赞(1) 踩(0) | <div>旋律优美，歌词动人！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121237252)<br>写在身体上。<br>2019-03-07 00:49<br>赞(3) 踩(0) | <div>在《我和我的时代》里看到了你的小屋，雷子</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376631264)<br>睡个好觉<br>2019-03-04 07:37<br>赞(0) 踩(0) | <div>作词作曲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376631264)<br>睡个好觉<br>2019-03-04 07:37<br>赞(0) 踩(0) | <div>作词<br>作曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350280232)<br><br>2019-02-05 00:56<br>赞(1) 踩(0) | <div>安静的听歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85274470)<br><br>2019-01-17 01:40<br>赞(1) 踩(0) | <div>我的小屋叫沣京蓝领公寓</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377579517)<br><br>2019-01-07 03:07<br>赞(2) 踩(0) | <div>身在异乡的。。在回首这歌。。你就只能哭了。。小屋。。装载了多少喜怒哀乐。。小屋。。温暖而残酷。。</div> |
@@ -114,7 +114,7 @@ ISRC CN-A23-14-01950
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/855629)<br>音悦又人声<br>2018-05-30 08:21<br>赞(1) 踩(0) | <div>和水木年华的老屋有些许的神似</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209451679)<br>我还没想好要写什么...<br>2018-05-28 02:28<br>赞(1) 踩(0) | <div>舒服</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295722972)<br>我还没想好要写什么...<br>2018-05-03 11:22<br>赞(2) 踩(0) | <div>fit 的好季节</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300217618)<br><br>2018-04-28 09:41<br>赞(3) 踩(0) | <div>我的小屋 在星星下面在城市的楼群之间我的小屋 门外有棵大树风儿吹着树叶敲打我的窗户我的小屋 如果我要离开请你不要哭我的小屋 我喜欢给你唱歌我喜欢坐在门外看日落日出词超赞!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300217618)<br><br>2018-04-28 09:41<br>赞(3) 踩(0) | <div>我的小屋 在星星下面<br>在城市的楼群之间<br>我的小屋 门外有棵大树<br>风儿吹着树叶敲打我的窗户<br>我的小屋 如果我要离开<br>请你不要哭<br>我的小屋 我喜欢给你唱歌<br>我喜欢坐在门外看日落日出<br>词超赞!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122400690)<br><br>2018-04-19 01:19<br>赞(1) 踩(0) | <div>666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227639206)<br> <br>2018-04-11 17:45<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354461122)<br><br>2018-03-27 19:59<br>赞(2) 踩(0) | <div>唯一的归属</div> |
@@ -287,7 +287,7 @@ ISRC CN-A23-14-01950
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367648020)<br><br>2020-10-13 13:34<br>赞(0) 踩(0) | <div><q><b>kafeiyouyu说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1820049)<br> <br>2016-11-28 22:12<br>赞(1) 踩(0) | <div>每个人心里都有一间小屋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86884200)<br>那陪我淋的雨。<br>2016-11-23 14:34<br>赞(1) 踩(0) | <div>想起来住了二十多年老家的房子要被父母卖掉了，很难过</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6322013)<br> <br>2016-11-13 22:14<br>赞(2) 踩(0) | <div>這是我聽著最想跟詞作者談談的歌。「我的小屋 我可以光著屁股讓妳看到我的肌肉和肋骨」這不對啊給我看的東西不對</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6322013)<br> <br>2016-11-13 22:14<br>赞(2) 踩(0) | <div>這是我聽著最想跟詞作者談談的歌。<br>「我的小屋 我可以光著屁股<br>讓妳看到我的肌肉和肋骨」<br><br>這不對啊<br>給我看的東西不對</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245034919)<br>米饭下虾<br>2016-11-13 13:57<br>赞(0) 踩(0) | <div>不贵的房租</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50076204)<br><br>2016-10-31 23:33<br>赞(0) 踩(0) | <div>富有诗意文艺青年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13736730)<br><br>2016-10-29 22:31<br>赞(2) 踩(0) | <div>今天我也租了一个这种房子，哈哈哈哈。听着更有感觉</div> |
@@ -356,8 +356,8 @@ ISRC CN-A23-14-01950
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49317521)<br><br>2015-12-11 20:23<br>赞(0) 踩(0) | <div>你看过多少悲欢离合，你唱过多少歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49317521)<br><br>2015-12-11 20:22<br>赞(0) 踩(0) | <div>你看过多少悲欢离合，你唱过多少歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49317521)<br><br>2015-12-11 20:21<br>赞(0) 踩(0) | <div>你看过多少悲欢离合，你唱过多少歌。                 分享  赵雷 的歌曲《小屋》<a href="http://t.cn/R7x7yoy" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/R7x7yoy</a>（分享自@虾米音乐）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49317521)<br><br>2015-12-11 20:20<br>赞(0) 踩(0) | <div>你看过多少悲欢离合，你唱过多少歌。分享  赵雷 的歌曲《小屋》<a href="http://t.cn/R7x7yoy" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/R7x7yoy</a>（分享自@虾米音乐）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49317521)<br><br>2015-12-11 20:20<br>赞(0) 踩(0) | <div>你看过多少悲欢离合，你唱过多少歌。分享  赵雷 的歌曲《小屋》<a href="http://t.cn/R7x7yoy" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/R7x7yoy</a>（分享自@虾米音乐）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49317521)<br><br>2015-12-11 20:20<br>赞(0) 踩(0) | <div>你看过多少悲欢离合，你唱过多少歌。<br>分享  赵雷 的歌曲《小屋》<a href="http://t.cn/R7x7yoy" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/R7x7yoy</a>（分享自@虾米音乐）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49317521)<br><br>2015-12-11 20:20<br>赞(0) 踩(0) | <div>你看过多少悲欢离合，你唱过多少歌。<br>分享  赵雷 的歌曲《小屋》<a href="http://t.cn/R7x7yoy" target="_blank" rel="nofollow noreferrer noopener">http://t.cn/R7x7yoy</a>（分享自@虾米音乐）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49317521)<br><br>2015-12-11 20:19<br>赞(1) 踩(0) | <div>你看过多少悲欢离合，你唱过多少歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49317521)<br><br>2015-12-11 20:18<br>赞(0) 踩(0) | <div>你看过多少悲欢离合，你唱过多少歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88699676)<br><br>2015-12-09 14:12<br>赞(0) 踩(0) | <div>赵雷我看好你</div> |
@@ -384,7 +384,7 @@ ISRC CN-A23-14-01950
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46681085)<br>美好的明天是我不能怀疑的...<br>2015-08-01 10:36<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21577877)<br>幸福~<br>2015-07-29 15:12<br>赞(0) 踩(0) | <div>感谢这首歌带来了我的初恋～希望我们将来共同拥有属于自己的小屋～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37149364)<br>我不是不爱你 看不到自己...<br>2015-07-24 13:54<br>赞(0) 踩(0) | <div>活在回忆里 想你。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13995375)<br>我还没想好要写什么...<br>2015-07-20 23:08<br>赞(1) 踩(0) | <div>我的小屋不用和他们一样累的时候我不用去故作笑容我的小屋黑夜里的眼睛望着我的全部晚安</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13995375)<br>我还没想好要写什么...<br>2015-07-20 23:08<br>赞(1) 踩(0) | <div>我的小屋<br>不用和他们一样<br>累的时候<br>我不用去故作笑容<br>我的小屋<br>黑夜里的眼睛望着我的全部<br>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11783930)<br>我还没想好要写什么...<br>2015-07-15 01:22<br>赞(0) 踩(0) | <div>累到想哭 没力气哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28490352)<br> <br>2015-07-01 10:13<br>赞(1) 踩(0) | <div>❤❤❤❤❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28490352)<br> <br>2015-07-01 10:13<br>赞(1) 踩(0) | <div>❤❤❤❤❤</div> |

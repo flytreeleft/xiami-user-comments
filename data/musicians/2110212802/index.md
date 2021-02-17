@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e78c236f082f285c8624c3523ff87f47.jpg)<br>北国少年](https://i.xiami.com/bgsn) | **播放数**: 5255253<br>**粉丝数**: 557<br>**评论数**: 25<br>**地区**: China 中国大陆<br>**风格**: 青少年流行 Teen Pop, 校园民谣 Campus Folk, 民谣流行 Folk Pop<br> |
+| [![](../../images/musicians/e78c236f082f285c8624c3523ff87f47.jpg)<br>北国少年](https://i.xiami.com/bgsn) | **地区**: China 中国大陆<br>**风格**: 青少年流行 Teen Pop, 校园民谣 Campus Folk, 民谣流行 Folk Pop<br>**播放数**: 5255253<br>**粉丝数**: 557<br>**评论数**: 25<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434690168)<br><br>2020-06-04 15:26<br>赞(0) 踩(0) | <div>有微博或是抖音嘛，好想关注你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434690168)<br><br>2020-06-04 15:23<br>赞(0) 踩(0) | <div>很好听，很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244083199)<br><br>2020-04-19 05:28<br>赞(0) 踩(0) | <div>很好听</div> |

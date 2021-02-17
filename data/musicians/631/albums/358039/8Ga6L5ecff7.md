@@ -54,8 +54,8 @@ When I wake up hope you were here by my side 再次醒来 奢望你会 在我身
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2034097)<br>也曾是少年呐……<br>2021-02-05 00:01<br>赞(0) 踩(0) | <div>拜拜虾米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419549940)<br>淡淡然掠過，神秘又美麗，...<br>2020-10-05 20:55<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7252584)<br>新的梦想<br>2020-09-28 20:11<br>赞(0) 踩(0) | <div>这版只有吉他伴奏，更加清爽，所以非常治愈</div> |
@@ -100,7 +100,7 @@ When I wake up hope you were here by my side 再次醒来 奢望你会 在我身
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215818020)<br>人心是不待风吹而自落的花...<br>2018-02-01 15:28<br>赞(1) 踩(0) | <div>啊.....听《遇见》N年了，现在才知这版......be my side 遇见？还是遇见最有味道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305873820)<br>喜欢音乐<br>2018-01-30 13:19<br>赞(0) 踩(0) | <div>可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8594329)<br>皎月如梦<br>2018-01-11 21:00<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27442727)<br>我已经用完所有的不安 _<br>2018-01-07 21:52<br>赞(3) 踩(0) | <div>满满的回忆仿佛回到了那个夏天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27442727)<br>我已经用完所有的不安 _<br>2018-01-07 21:52<br>赞(3) 踩(0) | <div>满满的回忆<br>仿佛回到了那个夏天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5803243)<br><br>2018-01-02 23:22<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74115932)<br>别急别慌不至于。<br>2017-11-21 01:22<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335274252)<br><br>2017-11-17 21:32<br>赞(1) 踩(0) | <div>静夜的最佳选择</div> |
@@ -273,7 +273,7 @@ When I wake up hope you were here by my side 再次醒来 奢望你会 在我身
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1967381)<br><br>2012-03-11 10:03<br>赞(0) 踩(0) | <div>So far away I can hardly make you mine. So long the day you are always on my mind. @smile-moon-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3526523)<br>暂无签名~<br>2012-03-09 20:40<br>赞(0) 踩(0) | <div>孙燕姿遇见英文版，林一峰唱得很有味道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/704599)<br>你是模特儿·我是香奈儿<br>2012-03-05 15:00<br>赞(0) 踩(0) | <div>声音太纯粹了吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2395232)<br><br>2012-03-04 23:59<br>赞(0) 踩(0) | <div>快乐如果有尽头痛苦也不会不休一点点寂寞也难以承受这辈子一定不会容易笑与泪都有时候to hug someoneto kiss someonethe best is yet to come</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2395232)<br><br>2012-03-04 23:59<br>赞(0) 踩(0) | <div>快乐如果有尽头<br>痛苦也不会不休<br>一点点寂寞也难以承受<br>这辈子一定不会容易<br>笑与泪<br>都有时候<br>to hug someone<br>to kiss someone<br>the best is yet to come</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2627488)<br><br>2012-03-03 17:39<br>赞(0) 踩(0) | <div>下雨天，来推歌。林一峰的＜遇见＞英文版，他声音还是好清新，喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2781467)<br><br>2012-02-29 21:36<br>赞(0) 踩(0) | <div>一直在豆瓣fm听到林一峰的声音时觉得很舒服 今天是一发不可收拾了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7756971)<br><br>2012-02-25 22:37<br>赞(0) 踩(0) | <div>好听好听</div> |
@@ -297,13 +297,13 @@ When I wake up hope you were here by my side 再次醒来 奢望你会 在我身
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7607370)<br>時間小偷~<br>2012-01-11 21:39<br>赞(0) 踩(0) | <div>不一樣的遇見。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/673402)<br>我才不是摩羯座<br>2012-01-10 20:25<br>赞(0) 踩(0) | <div>乃是我最爱的基佬（滚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6654269)<br><br>2012-01-09 21:21<br>赞(0) 踩(0) | <div>恋爱总是平静地意外....来临</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7464640)<br><br>2012-01-09 03:53<br>赞(0) 踩(0) | <div>跟中文版比起来别有一番味道唱得很有feel~~~!!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7464640)<br><br>2012-01-09 03:53<br>赞(0) 踩(0) | <div>跟中文版比起来别有一番味道<br><br>唱得很有feel~~~!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3259694)<br>你丫扯淡<br>2012-01-07 21:01<br>赞(0) 踩(0) | <div>美好的旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6792225)<br>纵身入山海<br>2012-01-04 22:59<br>赞(0) 踩(0) | <div>~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5026326)<br>爱唱歌的孩子都是好孩子～<br>2011-12-25 14:38<br>赞(0) 踩(0) | <div>遇见的英文版</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317931)<br>好久不见。虾米生态堪忧。...<br>2011-12-23 00:07<br>赞(0) 踩(0) | <div>在我身边--若你来时，总是晴天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1020233)<br>网易云➡️summer叶...<br>2011-12-20 10:00<br>赞(0) 踩(0) | <div>燕姿的遇见曲子呢~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6627893)<br>我还没想好要写什么...<br>2011-12-17 15:00<br>赞(0) 踩(0) | <div>很爱林一峰这是一首英文版的遇见</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6627893)<br>我还没想好要写什么...<br>2011-12-17 15:00<br>赞(0) 踩(0) | <div>很爱林一峰<br>这是一首英文版的遇见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6687034)<br><br>2011-11-23 22:37<br>赞(0) 踩(0) | <div>听一首歌的开始就能知道我是否喜欢这首歌，所以很多时候，我对歌也是凭的是第一的直觉，偶尔会喜欢上某首歌的歌词，也会难得记住一个歌手的名字。突然觉的害怕，如果以后遇到的人，他喜欢的是却是那种特通俗歌曲，然后我在找我的歌，他却在哼他的爱情买卖，凤凰传奇，那到时候我会不会抓狂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5189070)<br>我还没想好要写什么...<br>2011-11-15 23:41<br>赞(0) 踩(0) | <div>晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2691927)<br>什么<br>2011-11-15 16:48<br>赞(0) 踩(0) | <div>靠，林一峰作词作曲英文原版的遇见，却被孙燕姿唱出名了...</div> |
@@ -332,7 +332,7 @@ When I wake up hope you were here by my side 再次醒来 奢望你会 在我身
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5401082)<br><br>2011-09-03 23:59<br>赞(0) 踩(0) | <div>hold on， let go， never sure。。突然想跳舞。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1617844)<br> <br>2011-08-31 20:42<br>赞(0) 踩(0) | <div>林一峰的声音好天籁～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2429933)<br> <br>2011-08-31 00:11<br>赞(0) 踩(0) | <div>声音很好听啊。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2709556)<br><br>2011-08-26 20:32<br>赞(0) 踩(0) | <div>'遇见'的英文版~~少了一份悲伤,多了一份温暖</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2709556)<br><br>2011-08-26 20:32<br>赞(0) 踩(0) | <div>'遇见'的英文版~~<br>少了一份悲伤,多了一份温暖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1799996)<br><br>2011-08-26 13:59<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/451700)<br>㊙️<br>2011-08-24 14:20<br>赞(0) 踩(0) | <div>《遇见》男生英文版[吃惊] 好听~   应该出来很久了，是我OUT OF FASHION！啊，即使是我这么FASHION的人，都会错过，想必你也都没有听过吧？哈哈。所以分享一下咯。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5100230)<br><br>2011-08-23 20:24<br>赞(0) 踩(0) | <div>遇见By my side，在遇见之前。挚爱林一峰。</div> |
@@ -389,7 +389,7 @@ When I wake up hope you were here by my side 再次醒来 奢望你会 在我身
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/993768)<br><br>2011-03-16 18:45<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/388234)<br><br>2011-03-14 10:07<br>赞(0) 踩(0) | <div>听听给燕姿写遇见的人的声音吧，你会有惊喜！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1264591)<br><br>2011-03-13 12:03<br>赞(0) 踩(0) | <div>清澈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2228984)<br><br>2011-03-10 21:05<br>赞(0) 踩(0) | <div>Hold on let go never sure痛心的歌词</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2228984)<br><br>2011-03-10 21:05<br>赞(0) 踩(0) | <div>Hold on let go never sure<br>痛心的歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3070288)<br><br>2011-03-05 02:40<br>赞(0) 踩(0) | <div>温暖 触动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2755984)<br><br>2011-03-04 04:11<br>赞(0) 踩(0) | <div>”遇见“英文版~好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2755984)<br><br>2011-03-04 04:10<br>赞(0) 踩(0) | <div>“遇见”英文版，好好听</div> |
@@ -406,7 +406,7 @@ When I wake up hope you were here by my side 再次醒来 奢望你会 在我身
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1946755)<br><br>2011-01-02 01:57<br>赞(0) 踩(0) | <div>喜欢的说~~淡淡的唱出心中的爱~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2296143)<br><br>2010-12-27 15:50<br>赞(0) 踩(0) | <div>有点味道啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2214990)<br><br>2010-12-27 14:33<br>赞(0) 踩(0) | <div>吉他音乐味</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2010-12-22 06:25<br>赞(0) 踩(0) | <div>跟最初的版本比改了一句：Going out, getting high...Not my style.还是那个林一峰。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2010-12-22 06:25<br>赞(0) 踩(0) | <div>跟最初的版本比改了一句：<br>Going out, getting high...Not my style.<br>还是那个林一峰。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2198298)<br> <br>2010-12-15 15:29<br>赞(0) 踩(0) | <div>遇见的英文版，有味儿！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89214)<br><br>2010-12-18 21:43<br>赞(0) 踩(0) | <div>是中文版by my side!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2169659)<br><br>2010-12-12 13:33<br>赞(0) 踩(0) | <div>下雨天，听这个歌。</div> |
@@ -418,7 +418,7 @@ When I wake up hope you were here by my side 再次醒来 奢望你会 在我身
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/948442)<br><br>2010-06-10 16:25<br>赞(0) 踩(0) | <div>遇见的英文版，林一峰演唱的又是另一种风格，感觉很清新，舒服</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/970773)<br><br>2010-06-05 15:34<br>赞(0) 踩(0) | <div>个人感觉比遇见更适合我口味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136841)<br><br>2010-03-20 00:43<br>赞(0) 踩(0) | <div>原来这是原版，我还以为是翻唱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/664058)<br>星見に行くなら付き合おう<br>2010-02-27 20:15<br>赞(0) 踩(0) | <div>梦里 你还在我身边醒来 气息犹在 人去花残</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/664058)<br>星見に行くなら付き合おう<br>2010-02-27 20:15<br>赞(0) 踩(0) | <div>梦里 你还在我身边<br>醒来 气息犹在 人去花残</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351728)<br> <br>2010-02-24 00:27<br>赞(0) 踩(0) | <div>[遇到】的曲调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/514629)<br><br>2010-02-11 14:23<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/666064)<br> <br>2010-02-07 15:35<br>赞(0) 踩(0) | <div>淡淡的</div> |

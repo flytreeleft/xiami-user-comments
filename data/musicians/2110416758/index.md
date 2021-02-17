@@ -3,13 +3,10 @@ Skeleton man
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d995a48ba3cc57510d32ccfd59dadb45.jpeg)<br>Skeleton man](https://i.xiami.com/xqts) | **播放数**: 983985<br>**粉丝数**: 604<br>**评论数**: 51<br>**地区**: China 中国大陆<br>**风格**: 电子 Electronic, 脉冲 Glitch, 前卫迷幻舞曲 Progressive Trance, 独立电子乐 Indietronica<br> |
+| [![](../../images/musicians/d995a48ba3cc57510d32ccfd59dadb45.jpeg)<br>Skeleton man](https://i.xiami.com/xqts) | **地区**: China 中国大陆<br>**风格**: 电子 Electronic, 脉冲 Glitch, 前卫迷幻舞曲 Progressive Trance, 独立电子乐 Indietronica<br>**播放数**: 983985<br>**粉丝数**: 604<br>**评论数**: 51<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -19,8 +16,8 @@ Skeleton man
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40531562)<br><br>2021-01-24 22:32<br>赞(0) 踩(0) | <div>网易云没有up主！ - 此条留言来自边听边整理边删歌边告别客户端</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260258588)<br>纯真之心<br>2020-12-15 08:24<br>赞(0) 踩(0) | <div>高手！️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444904066)<br><br>2020-12-10 21:44<br>赞(0) 踩(0) | <div>5岁半的孩子非常喜欢</div> |
@@ -55,7 +52,7 @@ Skeleton man
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51599844)<br>人在哪里看不到意义，人就...<br>2019-03-11 19:49<br>赞(0) 踩(0) | <div><q><b>Skeleton man说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46164120)<br>希望，善始，善终！<br>2019-03-06 21:02<br>赞(1) 踩(0) | <div>牛逼牛逼！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267202329)<br>凯尔特的灵性印第安的苍凉...<br>2019-03-02 23:46<br>赞(2) 踩(0) | <div>one day one day one day one day one day one day one day one day one day one day</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330900828)<br>高舉一面五星紅旗在蝦米！<br>2019-02-27 07:06<br>赞(3) 踩(0) | <div>與心融入，與魂交融——音樂向左</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330900828)<br>高舉一面五星紅旗在蝦米！<br>2019-02-27 07:06<br>赞(3) 踩(0) | <div>與心融入，與魂交融<br><br>——音樂向左</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7230787)<br><br>2019-02-25 22:47<br>赞(3) 踩(0) | <div>oneday有意境，很前卫，深度，遨游宇宙的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412052900)<br>我还没想好要写什么...<br>2019-02-10 03:06<br>赞(1) 踩(0) | <div>One day这曲简直绝了 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350767356)<br><br>2019-02-10 09:54<br>赞(0) 踩(0) | <div>谢谢</div> |

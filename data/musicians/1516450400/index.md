@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/fb8f6bec7209202423513200a2e2a5c6.jpg)<br>白云飞](https://i.xiami.com/byf) | **播放数**: 4818130<br>**粉丝数**: 61<br>**评论数**: 9<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/fb8f6bec7209202423513200a2e2a5c6.jpg)<br>白云飞](https://i.xiami.com/byf) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 4818130<br>**粉丝数**: 61<br>**评论数**: 9<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -38,8 +35,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400766152)<br><br>2019-10-20 15:35<br>赞(1) 踩(0) | <div>唱得非常好，很真实，有感情！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131553518)<br><br>2019-08-03 19:15<br>赞(1) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327212835)<br><br>2019-05-05 22:55<br>赞(1) 踩(0) | <div>好听</div> |

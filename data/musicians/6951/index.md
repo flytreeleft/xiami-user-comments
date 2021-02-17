@@ -3,7 +3,7 @@ Rie fu
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/63db41b2d5f8637e71813a5358339880.jpg)<br>Rie fu](https://i.xiami.com/riefu) | **播放数**: 18438707<br>**粉丝数**: 22616<br>**评论数**: 736<br>**地区**: Japan 日本<br>**风格**: 根源唱作人 Singer-Songwriter, 日本流行 J-Pop<br> |
+| [![](../../images/musicians/63db41b2d5f8637e71813a5358339880.jpg)<br>Rie fu](https://i.xiami.com/riefu) | **地区**: Japan 日本<br>**风格**: 根源唱作人 Singer-Songwriter, 日本流行 J-Pop<br>**播放数**: 18438707<br>**粉丝数**: 22616<br>**评论数**: 736<br> |
 
 ## 档案
 
@@ -95,8 +95,8 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325374787)<br><br>2019-05-05 14:32<br>赞(0) 踩(0) | <div>好好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43443614)<br>微信M7-Bonnie，...<br>2019-05-01 19:46<br>赞(2) 踩(0) | <div>可爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43638225)<br>我还没想好要写什么...<br>2019-03-06 22:25<br>赞(0) 踩(0) | <div>声音很阳光，第一眼以为邓紫棋 <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
@@ -111,16 +111,16 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332703320)<br><br>2017-11-06 22:49<br>赞(1) 踩(0) | <div>当年死神都省不得关ED</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203227)<br>在隔壁云村活动，这里只剩...<br>2017-10-28 00:02<br>赞(0) 踩(0) | <div>应该是找的代理人帮忙入驻的，总之欢迎！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297226)<br><br>2017-10-27 23:17<br>赞(0) 踩(0) | <div>初中时候很喜欢她。最近的一专又重新爱上了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/543518)<br>这边是杂食动物，上海同城...<br>2017-10-27 22:59<br>赞(0) 踩(0) | <div>RIE FU 2015年中国巡演6.19北京汇源空间6.20上海浅水湾艺术中心: <a href="http://www.douban.com/event/23923599/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/23923599/</a>上海见^_^</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/543518)<br>这边是杂食动物，上海同城...<br>2017-10-27 22:59<br>赞(0) 踩(0) | <div>RIE FU 2015年中国巡演<br>6.19北京汇源空间<br>6.20上海浅水湾艺术中心: <a href="http://www.douban.com/event/23923599/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/23923599/</a><br>上海见^_^</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8143886)<br><br>2017-10-18 10:40<br>赞(0) 踩(0) | <div>黑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273392332)<br>我还没想好要写什么...<br>2017-06-14 11:43<br>赞(2) 踩(0) | <div>只喜欢听死神ED那首</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1483145)<br>Yggdrasil<br>2017-06-06 11:24<br>赞(0) 踩(0) | <div>艺人封面有种莉莉周的既视感~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30349700)<br>不要吃太胖哦~会被杀掉的<br>2016-12-03 23:38<br>赞(0) 踩(0) | <div>喜欢的歌都是下架状态..啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236672525)<br>给我吐槽啊！！<br>2016-10-14 22:58<br>赞(1) 踩(0) | <div>居然没有《月光》</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11786384)<br>虾米丶说不出的再见<br>2016-10-11 11:28<br>赞(3) 踩(0) | <div>喜欢的歌都是下架状态..推消息是什么意思...先把歌曲弄上来...我们再来谈谈你演唱会的事情~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11786384)<br>虾米丶说不出的再见<br>2016-10-11 11:28<br>赞(3) 踩(0) | <div>喜欢的歌都是下架状态..<br>推消息是什么意思...<br>先把歌曲弄上来...我们再来谈谈你演唱会的事情~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9593793)<br>「循着、寻着，我的步调。...<br>2016-10-10 23:50<br>赞(0) 踩(0) | <div>最喜欢的两首歌还是下架状态，虾米你给我推消息是啥意思？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/598006)<br>飞越黑夜和考验<br>2016-10-10 23:19<br>赞(0) 踩(0) | <div>没有广州场？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3208690)<br>快乐的猫猫<br>2016-10-10 16:14<br>赞(0) 踩(0) | <div>“更将全新编排Rie fu代表作《死神BLEACH》、《机动战士高达SEED DESTINY》、《黑之契约者DARKER THAN BLACK》ED！”——以上三首歌在虾米不存在╮(╯_╰)╭</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3208690)<br>快乐的猫猫<br>2016-10-10 16:14<br>赞(0) 踩(0) | <div>“更将全新编排Rie fu代表作《死神BLEACH》、《机动战士高达SEED DESTINY》、《黑之契约者DARKER THAN BLACK》ED！”<br>——以上三首歌在虾米不存在╮(╯_╰)╭</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36057872)<br>网易/BC: Breat...<br>2016-10-10 17:33<br>赞(0) 踩(0) | <div>hhh</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10933495)<br>慢悠悠的过生活<br>2016-06-15 05:31<br>赞(3) 踩(0) | <div>Life is Like a Boat</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13613638)<br>有猫病<br>2016-04-05 15:03<br>赞(4) 踩(0) | <div>既然今年要来中国了干脆整个巡演吧，成都欢迎你</div> |
@@ -154,8 +154,8 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/598006)<br>飞越黑夜和考验<br>2015-06-21 19:38<br>赞(0) 踩(0) | <div>广州呢?????怎么能没有广州场???</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35584215)<br>老泪迷·EF·东方那一套<br>2015-06-21 02:29<br>赞(1) 踩(0) | <div>感觉这次大家都玩的好开心的样子。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8542921)<br><br>2015-06-21 00:39<br>赞(1) 踩(0) | <div>刚参加完上海live show，无法用言语表达，太棒了，两首安可的歌也很棒，绝对high翻天，哈哈哈哈哈~路人转粉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431492)<br>やさしいうたはせかいをか...<br>2015-06-20 22:06<br>赞(0) 踩(0) | <div>今晚没去成呢 哎希望现场的大家尽兴了呢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2383934)<br><br>2015-06-20 13:04<br>赞(31) 踩(0) | <div>北京场感想。这是一场看了后会很快乐的演出。rie fu这场的歌也许不会像其他治愈系一样听完仿佛灵魂会得到升华，快乐，rie fu的歌就是快乐。看完演出后旅途劳顿阴沉的身心就跟北京的天一样，变得晴朗了。不论是rie fu的歌迷还是纯动画党或是想凑个热闹的路人，都是值得一去的，我只能说300块真的非常非常良心。2个小时几乎不停歇且不降调的演唱依然保持了很高的水准，唱功比以前进步很多，这么说吧，演出完之后都有点不想再听她cd里的歌了。选歌上多以活泼为主，因此一些歌迷喜欢的惆怅歌曲并没有入选，死神，黑之契约者，高达，放浪男孩，anime歌曲几乎全部在歌单之内。音效很棒，几乎全程动次打次声音很大却不会震耳，被包围的感觉非常舒服。rie fu穿的很漂亮，外面一件红色漆皮小披风？，白色小马甲打底，下身花纹红裙，总之一身红，很喜庆这是亲近中国观众所选得颜色吗？（后来看了下instagram，原来她还做了日本白章旗和中国五星红旗的美甲，这种微小的细节呀！）全程小纸片标注中文MC，有些还说的挺流利，中间有一句不会说了，还用英语糊弄了过去卖个萌啥的。结束曲是いつかこの道の先に~All The Way~，本只是首耳熟的歌，但却非常的应景，如歌中唱到的，いつかこの道の先に，見慣れた景色，大切な友だちにもう一度出会う，I can see it all the way, all the way。我在的区域回应也比较热烈，被这首歌感动到了。进场前买了2本画册和签名明信片。这是我最喜欢的歌手，是我无节操转推无数听的时间最久的歌手啊，一生应援，希望以后还能再见。P.S. 被rie fu点赞了呢！不过一想到海外ip不能进虾米，突然有点蛋疼。嘛，主办方用账号点赞也行，总之心仪传达到了就好。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431492)<br>やさしいうたはせかいをか...<br>2015-06-20 22:06<br>赞(0) 踩(0) | <div>今晚没去成呢 哎<br>希望现场的大家尽兴了呢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2383934)<br><br>2015-06-20 13:04<br>赞(31) 踩(0) | <div>北京场感想。<br>这是一场看了后会很快乐的演出。rie fu这场的歌也许不会像其他治愈系一样听完仿佛灵魂会得到升华，快乐，rie fu的歌就是快乐。看完演出后旅途劳顿阴沉的身心就跟北京的天一样，变得晴朗了。<br>不论是rie fu的歌迷还是纯动画党或是想凑个热闹的路人，都是值得一去的，我只能说300块真的非常非常良心。2个小时几乎不停歇且不降调的演唱依然保持了很高的水准，唱功比以前进步很多，这么说吧，演出完之后都有点不想再听她cd里的歌了。选歌上多以活泼为主，因此一些歌迷喜欢的惆怅歌曲并没有入选，死神，黑之契约者，高达，放浪男孩，anime歌曲几乎全部在歌单之内。音效很棒，几乎全程动次打次声音很大却不会震耳，被包围的感觉非常舒服。<br>rie fu穿的很漂亮，外面一件红色漆皮小披风？，白色小马甲打底，下身花纹红裙，总之一身红，很喜庆这是亲近中国观众所选得颜色吗？（后来看了下instagram，原来她还做了日本白章旗和中国五星红旗的美甲，这种微小的细节呀！）全程小纸片标注中文MC，有些还说的挺流利，中间有一句不会说了，还用英语糊弄了过去卖个萌啥的。<br>结束曲是いつかこの道の先に~All The Way~，本只是首耳熟的歌，但却非常的应景，如歌中唱到的，いつかこの道の先に，見慣れた景色，大切な友だちにもう一度出会う，I can see it all the way, all the way。我在的区域回应也比较热烈，被这首歌感动到了。<br>进场前买了2本画册和签名明信片。这是我最喜欢的歌手，是我无节操转推无数听的时间最久的歌手啊，一生应援，希望以后还能再见。<br>P.S. 被rie fu点赞了呢！不过一想到海外ip不能进虾米，突然有点蛋疼。嘛，主办方用账号点赞也行，总之心仪传达到了就好。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11503131)<br>若喜爱，请买碟。<br>2015-06-19 19:29<br>赞(0) 踩(0) | <div>我在现场呢～有人在没？～</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/788123)<br><br>2015-06-19 22:35<br>赞(0) 踩(0) | <div>刚在</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33671283)<br> <br>2015-06-19 19:28<br>赞(0) 踩(0) | <div>和我一样正在万事达的朋友们举个爪(=ﾟωﾟ)ﾉ</div> |
@@ -175,7 +175,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10862308)<br>抄袭者死一户口本<br>2015-05-29 17:15<br>赞(1) 踩(0) | <div>敢不敢来广州啊！怒摔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139593)<br><br>2015-05-27 18:52<br>赞(0) 踩(0) | <div>Life is like a boat~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2077057)<br><br>2015-05-27 11:34<br>赞(0) 踩(0) | <div>有没有搞错，在帝都也就算了，还是周五55555555555</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48029323)<br><br>2015-05-27 11:04<br>赞(17) 踩(0) | <div>6.19北京汇源空间，6.20上海浅水湾艺术中心！我将首度携乐队来华巡演！现场将完整呈现新专辑《I》全新曲目！更将全新编排其代表作《死神BLEACH》《机动战士高达》《黑之契约者》ED！非常期待在北京、上海与你们分享我的音乐！购票链接：【北京站】<a href="http://item.damai.cn/79730.html" target="_blank" rel="nofollow noreferrer noopener">http://item.damai.cn/79730.html</a>  【上海站】<a href="http://item.damai.cn/79753.html" target="_blank" rel="nofollow noreferrer noopener">http://item.damai.cn/79753.html</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48029323)<br><br>2015-05-27 11:04<br>赞(17) 踩(0) | <div>6.19北京汇源空间，6.20上海浅水湾艺术中心！我将首度携乐队来华巡演！现场将完整呈现新专辑《I》全新曲目！更将全新编排其代表作《死神BLEACH》《机动战士高达》《黑之契约者》ED！非常期待在北京、上海与你们分享我的音乐！<br>购票链接：【北京站】<a href="http://item.damai.cn/79730.html" target="_blank" rel="nofollow noreferrer noopener">http://item.damai.cn/79730.html</a>  【上海站】<a href="http://item.damai.cn/79753.html" target="_blank" rel="nofollow noreferrer noopener">http://item.damai.cn/79753.html</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/777545)<br>_(:зゝ∠)_<br>2015-05-27 13:21<br>赞(0) 踩(0) | <div>广州呢(っ °Д °;)っ</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5781632)<br><br>2015-06-10 22:30<br>赞(0) 踩(0) | <div><q><b>丧君说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7252111)<br>欲穷千里目<br>2017-10-28 00:02<br>赞(0) 踩(0) | <div>每次都是魔都帝都！！！源子你在哪里！！！</div> |
@@ -189,7 +189,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31994026)<br>哈哈哈哈哈哈哈哈<br>2016-10-10 13:43<br>赞(0) 踩(0) | <div>希望在别的城市也能听到你的音乐会啊～</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322119001)<br>为你，千千万万遍。<br>2018-09-12 23:25<br>赞(0) 踩(0) | <div>Nice</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7976058)<br>歸去來兮<br>2019-03-21 10:29<br>赞(0) 踩(0) | <div>為什麼所有歌都沒有版權 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11786384)<br>虾米丶说不出的再见<br>2015-05-27 09:40<br>赞(0) 踩(0) | <div>= =.别告诉我是真人..应该是代理吧..</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11786384)<br>虾米丶说不出的再见<br>2015-05-27 09:40<br>赞(0) 踩(0) | <div>= =.别告诉我是真人..<br><br>应该是代理吧..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1633778)<br>(☉౪⊙)<br>2015-05-27 08:09<br>赞(0) 踩(0) | <div>只是拿到代理了吧、、、</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1908642)<br>TH呆死机▔▽▔<br>2015-05-27 00:21<br>赞(0) 踩(0) | <div>卧槽入驻虾米了_(:3」∠)_</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20862728)<br>柯男<br>2015-05-26 23:14<br>赞(0) 踩(0) | <div>٩(●̮̮̃●̃)۶ ٩(•̮̮̃•̃)۶ ٩(-̮̮̃-̃)۶ ٩(●̮̮̃•̃)۶ ٩(-̮̮̃•̃)۶</div> |
@@ -204,7 +204,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6464315)<br>只是用来刷歌用号ry<br>2015-05-26 21:15<br>赞(0) 踩(0) | <div>什么是入驻。歌会回来的意思吗。？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1360669)<br>正宗爷粉<br>2015-05-26 20:57<br>赞(0) 踩(0) | <div>入驻是什么鬼……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2792900)<br>一副耳机，一个世界<br>2015-05-26 20:51<br>赞(0) 踩(0) | <div>什么，入驻虾米啦！？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1354288)<br>都好 都爱 不买<br>2015-05-26 20:41<br>赞(0) 踩(0) | <div>hi~Rie fu.welcome to xiami, hope you enjoy here.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1354288)<br>都好 都爱 不买<br>2015-05-26 20:41<br>赞(0) 踩(0) | <div>hi~Rie fu.<br>welcome to xiami, hope you enjoy here.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2265447)<br> <br>2015-05-26 20:32<br>赞(0) 踩(0) | <div>都入驻了可是歌还是没回来..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2265447)<br> <br>2015-05-26 20:31<br>赞(0) 踩(0) | <div>MY GOD!!!!!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11976118)<br>星沉海底當窗見，雨過河源...<br>2015-05-26 19:59<br>赞(0) 踩(0) | <div>我和你们想的一样，竟然入驻惹(⊙o⊙)</div> |
@@ -220,12 +220,12 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4373046)<br>目前是个LLer<br>2015-05-26 17:54<br>赞(0) 踩(0) | <div>竟然进驻这里了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/519140)<br>去你该去的地方：<br>2015-05-26 17:28<br>赞(0) 踩(0) | <div>听说女神入驻特来献膝盖！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2458107)<br>很奇怪吗？一个从来没写过...<br>2015-05-26 17:08<br>赞(0) 踩(0) | <div>真的？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1626082)<br>保持好奇，保持敏锐！<br>2015-05-26 17:00<br>赞(0) 踩(0) | <div>应该会唱《Life is Like a Boat》吧...初中时听到过CD、Bleach的早期ED... :)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1626082)<br>保持好奇，保持敏锐！<br>2015-05-26 17:00<br>赞(0) 踩(0) | <div>应该会唱《Life is Like a Boat》吧...<br>初中时听到过CD、Bleach的早期ED... :)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10336517)<br> <br>2015-05-26 16:40<br>赞(0) 踩(0) | <div>因为要开live了来宣传吗0.0</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/606760)<br>魂牵一线<br>2015-05-26 15:55<br>赞(0) 踩(0) | <div>o ,lai l</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3632717)<br>蝦米！我又回來啦！<br>2015-05-26 15:37<br>赞(0) 踩(0) | <div>开心开心极~啦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2362700)<br>夢裡的糖絲做衣裳。<br>2015-05-26 15:26<br>赞(0) 踩(0) | <div>哗…欢迎！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42868953)<br>终于，时机到了。准备闪<br>2015-05-26 15:17<br>赞(0) 踩(0) | <div>听说Rie Fu来虾米了。。。真的假的，shock！先留名纪念下</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42868953)<br>终于，时机到了。准备闪<br>2015-05-26 15:17<br>赞(0) 踩(0) | <div>听说Rie Fu来虾米了。。。真的假的，shock！<br>先留名纪念下</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5662640)<br>失落<br>2015-05-26 15:15<br>赞(0) 踩(0) | <div>Rie fu 、</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2353478)<br>泡一杯提拉米苏放一点蒜泥<br>2015-05-26 14:59<br>赞(0) 踩(0) | <div>驻马店见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2657124)<br> <br>2015-05-26 14:32<br>赞(0) 踩(0) | <div>哇！成虾米音乐人啦！！</div> |
@@ -249,7 +249,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48934175)<br><br>2015-04-07 13:19<br>赞(0) 踩(0) | <div>脑残粉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43124651)<br>干嘛？想问路吗？<br>2015-04-07 10:31<br>赞(0) 踩(0) | <div>声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18539835)<br><br>2015-03-30 09:47<br>赞(0) 踩(0) | <div>船惠里惠</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7428131)<br><br>2015-03-24 15:37<br>赞(0) 踩(0) | <div>日本知名唱作歌手RIE FU 2015年中国巡演现已全面开启！6.19北京汇源空间，6.20上海浅水湾艺术中心！出道十周年，Riefu首度携乐队来华巡演！现场将完整呈现新专辑《I》全新曲目！更将全新编排其代表作《死神BLEACH》《机动战士高达》《黑之契约者》ED！【购票请点击： <a href="http://www.chinaticket.com/view/20430.html" target="_blank" rel="nofollow noreferrer noopener">http://www.chinaticket.com/view/20430.html</a> 】</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7428131)<br><br>2015-03-24 15:37<br>赞(0) 踩(0) | <div>日本知名唱作歌手RIE FU 2015年中国巡演现已全面开启！6.19北京汇源空间，6.20上海浅水湾艺术中心！出道十周年，Riefu首度携乐队来华巡演！现场将完整呈现新专辑《I》全新曲目！更将全新编排其代表作《死神BLEACH》《机动战士高达》《黑之契约者》ED！<br>【购票请点击： <a href="http://www.chinaticket.com/view/20430.html" target="_blank" rel="nofollow noreferrer noopener">http://www.chinaticket.com/view/20430.html</a> 】</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2383934)<br><br>2015-03-24 07:42<br>赞(0) 踩(0) | <div>北京见   (*ﾟ∇ﾟ)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24329416)<br><br>2015-03-12 14:13<br>赞(1) 踩(0) | <div>这英语跟日语的转换感觉不像霓虹国的人···</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6827529)<br>一举一动，都是承诺<br>2015-02-28 23:55<br>赞(0) 踩(0) | <div>Full of Star.</div> |
@@ -345,7 +345,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2307526)<br>连接比特与像素的造梦师！<br>2013-11-19 15:15<br>赞(0) 踩(0) | <div>Life is Like a Boat!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21338074)<br><br>2013-11-16 16:31<br>赞(0) 踩(0) | <div>lifu is like a boat</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7126178)<br>Aimer请嫁我<br>2013-11-15 15:28<br>赞(0) 踩(0) | <div>中了Rie姐的毒解不了了怎么破。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2686887)<br><br>2013-11-14 20:01<br>赞(0) 踩(0) | <div>life is like a boat,i wanna go to a place,月光，u&amp;amp;me：ACG非acg相关也有很好的作品！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2686887)<br><br>2013-11-14 20:01<br>赞(0) 踩(0) | <div>life is like a boat,i wanna go to a place,月光，u&amp;amp;me：ACG<br>非acg相关也有很好的作品！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25964102)<br>Felling...<br>2013-11-10 03:23<br>赞(0) 踩(0) | <div>Rie-fu</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11656456)<br>自然，纯净，变化无穷<br>2013-11-03 02:02<br>赞(0) 踩(0) | <div>编曲和歌词很治愈！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11133145)<br>暂无签名~<br>2013-10-20 19:17<br>赞(0) 踩(0) | <div>动人 美</div> |
@@ -394,7 +394,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10547530)<br>生于白昼，隐与黑夜。<br>2013-07-24 23:06<br>赞(0) 踩(0) | <div>当年非常惊艳。——那几年在追的动画肯定有Rie fu所唱ED。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5006652)<br><br>2013-07-09 14:10<br>赞(0) 踩(0) | <div>comfort and quiet</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16152452)<br><br>2013-06-24 21:18<br>赞(0) 踩(0) | <div>純淨，我想即使少了音樂，也能很好聽</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10325519)<br>我还没想好要写什么...<br>2013-06-23 17:54<br>赞(0) 踩(0) | <div>呀呀呀~~~~~~~~才发现息子的ED是~~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10325519)<br>我还没想好要写什么...<br>2013-06-23 17:54<br>赞(0) 踩(0) | <div>呀呀呀~~~~~~~~<br>才发现息子的ED是~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10754242)<br><br>2013-06-20 22:13<br>赞(0) 踩(0) | <div>黑 银</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11628805)<br><br>2013-06-18 14:54<br>赞(0) 踩(0) | <div>すき</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16052972)<br>呵呵呵呵<br>2013-06-16 12:11<br>赞(0) 踩(0) | <div>喜欢</div> |
@@ -416,7 +416,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3272159)<br> <br>2013-03-25 06:20<br>赞(0) 踩(0) | <div>喜欢这声音，以及 Life is like a boat，喜欢那个当时唱歌的姑娘啊不大姐头~ 又香又白 过着我理想的生活~~~  祝你身体健康~~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1920019)<br><br>2013-04-05 23:15<br>赞(0) 踩(0) | <div>life is like a boat听着就让人想落泪呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13637490)<br>喜乐常伴，静好梦卧。<br>2013-03-23 17:16<br>赞(0) 踩(0) | <div>清新慵懒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/721393)<br><br>2013-03-23 02:39<br>赞(0) 踩(0) | <div>好听另外评论笑死了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/721393)<br><br>2013-03-23 02:39<br>赞(0) 踩(0) | <div>好听<br>另外评论笑死了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3454303)<br><br>2013-03-20 05:45<br>赞(0) 踩(0) | <div>舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/793692)<br>下雨天了怎么办<br>2013-03-17 21:19<br>赞(0) 踩(0) | <div>life is like a boat</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13414935)<br>Angel<br>2013-03-13 18:18<br>赞(0) 踩(0) | <div>good</div> |
@@ -444,7 +444,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6495421)<br>sukai！！<br>2013-01-08 02:55<br>赞(0) 踩(0) | <div>哥们儿我收藏过你了呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10330296)<br> <br>2013-01-07 21:19<br>赞(1) 踩(0) | <div>不管怎么说还是死神那首给我的印象最深嘛~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12270251)<br>就是聽音樂<br>2013-01-05 17:57<br>赞(0) 踩(0) | <div>很特别的声音，绝对实力派</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7557488)<br>东京留学 <br>2012-12-28 21:57<br>赞(0) 踩(0) | <div>life ls like a boat很少有喜欢的女声 我第一次听女声听出歌手感情</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7557488)<br>东京留学 <br>2012-12-28 21:57<br>赞(0) 踩(0) | <div>life ls like a boat<br>很少有喜欢的女声 我第一次听女声听出歌手感情</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1060586)<br>云阴。<br>2012-12-23 12:07<br>赞(0) 踩(0) | <div>生命如舟，生命如舟……英文真正！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9350869)<br><br>2012-12-20 17:46<br>赞(0) 踩(0) | <div>月明真好听啊，好像以前在哪里听过的感觉也~~~不过真的是越听越好听的歌曲啊~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7547907)<br>一朝芳草碧连天`<br>2012-12-19 02:49<br>赞(0) 踩(0) | <div>最开始 是因死神  而 认识她</div> |
@@ -486,7 +486,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10447087)<br>阿列<br>2012-08-31 20:40<br>赞(0) 踩(0) | <div>声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9274157)<br><br>2012-08-30 12:18<br>赞(0) 踩(0) | <div>111</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10360077)<br>同人/v系/电子/术 雷...<br>2012-08-25 13:40<br>赞(0) 踩(0) | <div>^^^^^^^^^^^^^^^^^^^</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7948934)<br><br>2012-08-20 10:37<br>赞(0) 踩(0) | <div>2012年6月15日(金) : fu diary vol.1『You Do』発売2012年7月15日(日) : fu diary vol.2発売2012年8月15日(水) : fu diary vol.3発売2012年9月15日(土) : fu diary vol.4発売2012年10月15日(月) : fu diary vol.5発売2012年11月15日(木) : fu diary vol.6発売2012年11月下旬〜12月上旬、スペシャル・エディション『fu diary -ALL SONGS &amp;amp; ART BOOK-』購入者に「fu diary ART BOOK(仮)」を送付</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7948934)<br><br>2012-08-20 10:37<br>赞(0) 踩(0) | <div>2012年6月15日(金) : fu diary vol.1『You Do』発売<br>2012年7月15日(日) : fu diary vol.2発売<br>2012年8月15日(水) : fu diary vol.3発売<br>2012年9月15日(土) : fu diary vol.4発売<br>2012年10月15日(月) : fu diary vol.5発売<br>2012年11月15日(木) : fu diary vol.6発売<br><br>2012年11月下旬〜12月上旬、スペシャル・エディション『fu diary -ALL SONGS &amp;amp; ART BOOK-』購入者に「fu diary ART BOOK(仮)」を送付</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10165622)<br><br>2012-08-19 12:04<br>赞(0) 踩(0) | <div>feeling good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4442041)<br><br>2012-08-17 20:42<br>赞(0) 踩(0) | <div>印象最深刻的 果然还是死神啊~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9630144)<br><br>2012-08-16 18:05<br>赞(0) 踩(0) | <div>好聲音</div> |
@@ -494,7 +494,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1563840)<br>追加：わりと好きだったぜ<br>2012-08-12 23:48<br>赞(0) 踩(0) | <div>NOBODY KNOWS WHO I REALLY AM</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1628715)<br>呆B<br>2012-08-08 23:49<br>赞(0) 踩(0) | <div>一首dreams be 迷死人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9790037)<br><br>2012-08-07 09:50<br>赞(0) 踩(0) | <div>虾子，我来了！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9413631)<br><br>2012-08-06 12:21<br>赞(0) 踩(0) | <div>我喜欢的果然还是只有那一首阅</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9413631)<br><br>2012-08-06 12:21<br>赞(0) 踩(0) | <div>我喜欢的果然还是只有那一首<br><br>阅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774088)<br><br>2012-08-02 11:04<br>赞(0) 踩(0) | <div>哇！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4908796)<br> <br>2012-08-02 08:54<br>赞(0) 踩(0) | <div>稀罕&amp;gt;&amp;lt;!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/997091)<br><br>2012-08-01 14:53<br>赞(0) 踩(0) | <div>很久以前听的老歌了，但是现在再次听比原来更有感觉了</div> |
@@ -618,7 +618,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6642657)<br>好像看你起飞的样子<br>2011-11-30 09:37<br>赞(0) 踩(0) | <div>随意的风格，略带慵懒，喜欢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/704193)<br><br>2011-11-29 20:34<br>赞(0) 踩(0) | <div>OK!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2598688)<br>我还没想好要写什么...<br>2011-11-29 12:23<br>赞(0) 踩(0) | <div>给Riefu打标签我不反对 但是小清新的小是什么意思.... 隐晦的说她不值得\&amp;quot;清新\&amp;quot;二字?还得加个冠词才形容的上?  这种人真2....</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1111540)<br>我还没想好要写什么...<br>2011-12-03 21:55<br>赞(0) 踩(0) | <div>小清新和清新本质没区别好不，加上“小”字只不过更加突出了脱俗的气质而已无需过多深究~</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1111540)<br>我还没想好要写什么...<br>2011-12-03 21:55<br>赞(0) 踩(0) | <div>小清新和清新本质没区别好不，加上“小”字只不过更加突出了脱俗的气质而已<br>无需过多深究~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6895810)<br>相信爱情是人间最大的谎言<br>2011-11-29 10:13<br>赞(0) 踩(0) | <div>黑契的ツキアカリ 比民工漫的Life Is Like A Boat好！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6967253)<br><br>2011-11-26 13:48<br>赞(0) 踩(0) | <div>声线很好啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6403000)<br><br>2011-11-25 00:16<br>赞(0) 踩(0) | <div>很有感</div> |
@@ -632,7 +632,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6734427)<br><br>2011-11-15 18:23<br>赞(0) 踩(0) | <div>听过Life is like a boat之后便喜欢上了她，好像最近比较少听到她得动态呢。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273361)<br><br>2011-11-15 03:08<br>赞(0) 踩(0) | <div>Rie fu是第一个我能听懂她英语的日本歌手！出国学习英文还真不是一般的用心！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6057534)<br>享受喜好的东西<br>2011-11-13 15:04<br>赞(0) 踩(0) | <div>原来日本人的英文可以这么标准</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4024515)<br><br>2011-11-06 15:43<br>赞(0) 踩(0) | <div>Life Is Like A Boat绝对是经典！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4024515)<br><br>2011-11-06 15:43<br>赞(0) 踩(0) | <div>Life Is Like A Boat<br>绝对是经典！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2989170)<br><br>2011-11-03 06:56<br>赞(0) 踩(0) | <div>舒服、沙哑、低沉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6403279)<br><br>2011-10-31 20:50<br>赞(0) 踩(0) | <div>全國電子......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5856095)<br><br>2011-10-29 17:11<br>赞(0) 踩(0) | <div>音乐中的国足,国足 后摇 朋克,我喜欢这妹子,</div> |
@@ -645,7 +645,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/645357)<br><br>2011-10-12 17:34<br>赞(0) 踩(0) | <div>百听不厌的小歌谣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6132000)<br>地狱空荡荡，魔鬼在人间。<br>2011-10-11 12:48<br>赞(0) 踩(0) | <div>之前就听过她的那首 life is like a boat ;很温馨的一首歌！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4700774)<br>逗逗酱婶婶<br>2011-10-10 16:11<br>赞(0) 踩(0) | <div>最爱Life is like a boat~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1420571)<br><br>2011-10-10 02:13<br>赞(0) 踩(0) | <div>life islike a boat</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1420571)<br><br>2011-10-10 02:13<br>赞(0) 踩(0) | <div>life is<br>like a boat</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5990964)<br><br>2011-10-08 16:03<br>赞(0) 踩(0) | <div>==</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5800174)<br><br>2011-10-05 16:40<br>赞(0) 踩(0) | <div>早先高达seed里的片尾曲 就有她哀伤的影子 第一次听I WAANNER GO TO A PLACE就谨记她的名</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1681296)<br> <br>2011-10-05 12:35<br>赞(0) 踩(0) | <div>【Album】〖11/11/23〗Rie fu - I Can Do Better</div> |
@@ -814,7 +814,7 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2400376)<br><br>2011-01-21 17:22<br>赞(0) 踩(0) | <div>喜欢这种慢摇的感觉，嘻嘻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2516969)<br><br>2011-01-16 22:13<br>赞(0) 踩(0) | <div>可爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2447368)<br>暂无签名~<br>2011-01-15 21:48<br>赞(0) 踩(0) | <div>喜欢她的声音～～～</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2493490)<br><br>2011-01-14 17:30<br>赞(0) 踩(0) | <div>life is like a boat。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2493490)<br><br>2011-01-14 17:30<br>赞(0) 踩(0) | <div>life is like a boat<br>。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2438528)<br><br>2011-01-13 02:11<br>赞(0) 踩(0) | <div>声音柔柔的~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2409492)<br><br>2011-01-06 15:44<br>赞(0) 踩(0) | <div>偶然从动漫时代听到后就一直觉得曲风很和我的拍~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1723234)<br>可爱春在一古树<br>2010-11-23 21:07<br>赞(0) 踩(0) | <div>我被治愈了~</div> |
@@ -827,9 +827,9 @@ delofamiliaのアルバム「Spaces in Queue」に参加。<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/436861)<br>我还没想好要写什么...<br>2010-07-24 23:34<br>赞(0) 踩(0) | <div><q><b>贝碧宝贝说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/779854)<br><br>2010-12-23 09:52<br>赞(0) 踩(0) | <div><q><b>松鼠分类学说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/551325)<br><br>2010-03-11 12:45<br>赞(0) 踩(0) | <div>歌声温柔得来略带性感，性感得来略带感性！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440790)<br><br>2010-01-27 20:58<br>赞(0) 踩(0) | <div>一个女孩，生在日本，长在欧洲；一个女孩，学于全世界最优秀的艺术大学，专攻油画；一个女孩，有自己的画廊，有自己的音乐工作室；一个女孩，会唱、会画、会演奏钢琴、会弹奏吉他；一个女孩，自己谱曲，自己写词，自己唱歌；……这真是我羡慕的人生</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440790)<br><br>2010-01-27 20:58<br>赞(0) 踩(0) | <div>一个女孩，生在日本，长在欧洲；<br>一个女孩，学于全世界最优秀的艺术大学，专攻油画；<br>一个女孩，有自己的画廊，有自己的音乐工作室；<br>一个女孩，会唱、会画、会演奏钢琴、会弹奏吉他；<br>一个女孩，自己谱曲，自己写词，自己唱歌；<br>……<br>这真是我羡慕的人生</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357541)<br>この世は鏡さ。<br>2010-05-28 22:26<br>赞(0) 踩(0) | <div>而且身材也不错呢~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/596902)<br>-0 - 什么鬼~<br>2010-01-04 13:47<br>赞(0) 踩(0) | <div>惊艳的曲调~精彩的演绎~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/596902)<br>-0 - 什么鬼~<br>2010-01-04 13:47<br>赞(0) 踩(0) | <div>惊艳的曲调~<br>精彩的演绎~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/565987)<br>苏打D<br>2009-12-18 00:18<br>赞(0) 踩(0) | <div>好啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421855)<br><br>2009-10-15 19:23<br>赞(0) 踩(0) | <div>riefu大！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416936)<br>醉眼芳树下，半被落花埋。<br>2009-10-04 12:57<br>赞(0) 踩(0) | <div>喜欢她的声音 纯净中总是透着一股坚强的力量</div> |

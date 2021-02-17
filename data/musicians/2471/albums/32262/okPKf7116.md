@@ -60,8 +60,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187434630)<br><br>2020-09-30 14:15<br>赞(0) 踩(0) | <div>复活节和永昼才是我心中两大冷门神曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205668)<br> <br>2020-04-15 21:06<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png">没了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85556854)<br>你是你，而我是我<br>2018-11-04 20:15<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
@@ -107,7 +107,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296797820)<br><br>2017-10-23 01:41<br>赞(3) 踩(0) | <div>呵呵，当年单曲循环好几天晚上，十几年没听了，今晚特意听了一遍所有当初女神的歌！独特的嗓音，让人流连忘返！那么娇小玲珑，爆发力那么强大！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27535416)<br>她说 要是不心中有一口怨...<br>2017-10-21 21:47<br>赞(1) 踩(0) | <div>严云浓的词我是服气的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11634053)<br><br>2017-11-15 21:34<br>赞(0) 踩(0) | <div>你好漂亮姐姐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321494901)<br><br>2017-10-18 13:01<br>赞(1) 踩(0) | <div>你只爱我 对不对十几年前十几岁的我感觉这首巨难听 现在的我觉得巨好听！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321494901)<br><br>2017-10-18 13:01<br>赞(1) 踩(0) | <div>你只爱我 对不对<br>十几年前十几岁的我感觉这首巨难听 现在的我觉得巨好听！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49844023)<br><br>2017-10-14 08:08<br>赞(1) 踩(0) | <div>除了亲爱的那并不是爱情那首歌，这是听的她的第二首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285215489)<br>旋律在我心<br>2017-10-13 22:55<br>赞(3) 踩(0) | <div>以前最爱张韶涵这首歌，别人都说难听，我却最喜欢这首！从18岁开始到现在依然会唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329382973)<br>没有故事的女同学<br>2017-10-10 15:26<br>赞(2) 踩(0) | <div>有时很爱你，有时想提刀杀了你。但是在去买刀的路上看到了你爱喝的豆浆，我就忘了本来要干嘛。</div> |
@@ -125,7 +125,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279147755)<br><br>2017-09-16 13:03<br>赞(2) 踩(0) | <div>你只爱我对不对，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70325356)<br><br>2017-09-14 21:32<br>赞(44) 踩(0) | <div>当初她发这张专辑的时候我就觉得这首歌很好听！现在依然好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47501146)<br>我还没想好要写什么...<br>2017-09-13 21:35<br>赞(3) 踩(0) | <div>上学时候没有音乐app，那个时候我爱听这首歌，同学都没有人听，要是早有虾米该多好，我们可以在这里一起诉说喜好分享 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257947709)<br>我是個沈默不語的靠著車窗...<br>2017-09-13 18:56<br>赞(4) 踩(0) | <div>冷門神曲之一。突然發現涵涵太多冷門歌。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257947709)<br>我是個沈默不語的靠著車窗...<br>2017-09-13 18:56<br>赞(4) 踩(0) | <div>冷門神曲之一。<br>突然發現涵涵太多冷門歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153013324)<br>粤语经典，古风禅乐new...<br>2017-09-12 23:22<br>赞(4) 踩(0) | <div>版权回归第三评，励志偶像，涵苞待放</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122666412)<br><br>2017-09-12 22:52<br>赞(4) 踩(0) | <div>站张韶涵 因为我一个朋友很喜欢她 我们一起去看了她的演唱会 看完后我真的觉得那个努力唱歌的女孩很棒很棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125973444)<br>爱着爱着就永远。<br>2017-09-12 22:30<br>赞(104) 踩(0) | <div>真的，猜不透，复活节，我心中张韶涵的冷门三大神曲！</div> |
@@ -172,7 +172,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11961008)<br> <br>2014-01-19 01:50<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9242528)<br> <br>2013-11-11 23:58<br>赞(0) 踩(0) | <div>狗屁节日狗屁歌，越听越悲伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21165756)<br><br>2013-10-22 21:56<br>赞(1) 踩(0) | <div>原来是严云农的词。这首听了好多遍了，什么时候能在KTV让我唱一遍！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1864263)<br>来日幼稚少女云上再会。<br>2013-09-24 13:57<br>赞(0) 踩(0) | <div>再听这些专辑真的好想哭啊魂淡。T T这些过去了快10年的音乐承载了我们的青春占据了所有的青涩回忆</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1864263)<br>来日幼稚少女云上再会。<br>2013-09-24 13:57<br>赞(0) 踩(0) | <div>再听这些专辑真的好想哭啊魂淡。T T<br><br>这些过去了快10年的音乐承载了我们的青春占据了所有的青涩回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18605469)<br><br>2013-09-15 11:54<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7296178)<br>我还没想好要写什么...<br>2013-09-14 19:44<br>赞(0) 踩(0) | <div>其实，期待复活节的是我。不要脸的我，想在他或者他的生命里，复活。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16093645)<br><br>2013-07-17 09:34<br>赞(0) 踩(0) | <div>你只爱我对不对</div> |
@@ -186,8 +186,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13737092)<br><br>2013-03-30 10:43<br>赞(0) 踩(0) | <div>灌溉一朵枯萎的玫瑰，是否它的香味还找的回，还是过去的就只能回味。如果现在的我，承认我的不完美，我的你会不会，从记忆里回到我身边……你只爱我对不对，还是你想看我掉眼泪。你用我的后悔当作复活节，让爱情找回它的美，你仍是我最爱的谁，希望她能再美丽一遍。[微风]@我要一个人给我正能量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6040212)<br><br>2013-03-15 22:49<br>赞(0) 踩(0) | <div>陈伟写的一首老歌，蓦然想起……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1876537)<br>用心聆听<br>2013-02-10 20:07<br>赞(1) 踩(0) | <div>《欧若拉 Aurora》2004年12月01日</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9148901)<br> <br>2012-10-26 09:43<br>赞(0) 踩(0) | <div>灌溉一朵枯萎的玫瑰是否它的香味还找得回还是过去的就只能回味如果现在的我承认我的不完美我的你会不会从记忆里回到我身边</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317931)<br>好久不见。虾米生态堪忧。...<br>2012-09-29 00:43<br>赞(0) 踩(0) | <div>灌溉一朵枯萎的玫瑰是否它的香味还找的回还是过去的就只能回味如果现在的我承认我的不完美我的你会不会从记忆里回到我身边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9148901)<br> <br>2012-10-26 09:43<br>赞(0) 踩(0) | <div>灌溉一朵枯萎的玫瑰<br>是否它的香味还找得回<br>还是过去的就只能回味<br>如果现在的我<br>承认我的不完美<br>我的你会不会<br>从记忆里回到我身边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317931)<br>好久不见。虾米生态堪忧。...<br>2012-09-29 00:43<br>赞(0) 踩(0) | <div>灌溉一朵枯萎的玫瑰<br>是否它的香味还找的回<br>还是过去的就只能回味<br>如果现在的我<br>承认我的不完美<br>我的你会不会<br>从记忆里回到我身边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10294160)<br>。<br>2012-08-20 16:19<br>赞(0) 踩(0) | <div>best！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6142309)<br><br>2012-06-30 11:45<br>赞(0) 踩(0) | <div>灌溉一朵枯萎的玫瑰~是否它的香味还找的回~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5004757)<br><br>2012-05-31 17:47<br>赞(0) 踩(0) | <div>走过五月的阴暗、沉郁、迷茫与不安，把昔年的悲伤与绝望都散落在初夏的阳光与雨滴里，明天是否会是新的一天？&amp;amp;quot;如果现在的我承认我的不完美，我的你会不会从记忆里回到我身边......让爱情找回它的美，你仍是我最爱的谁＂希望明天是新的一天！</div> |
@@ -211,11 +211,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1740213)<br><br>2011-04-30 01:08<br>赞(0) 踩(0) | <div>你会爱上这首歌的相信我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248946)<br><br>2011-04-24 10:57<br>赞(0) 踩(0) | <div>复活节，听复活节</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2949574)<br><br>2011-04-13 16:08<br>赞(0) 踩(0) | <div>诶，不错哦，这首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1745291)<br>何以解忧，唯有后摇。<br>2011-04-11 12:20<br>赞(0) 踩(0) | <div>灌溉一朵枯萎的玫瑰。是否她的香味还找得回？很好听的调调。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1745291)<br>何以解忧，唯有后摇。<br>2011-04-11 12:20<br>赞(0) 踩(0) | <div>灌溉一朵枯萎的玫瑰。<br>是否她的香味还找得回？<br>很好听的调调。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1312443)<br><br>2011-03-25 23:10<br>赞(0) 踩(0) | <div>好听1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3154102)<br><br>2011-03-12 10:35<br>赞(0) 踩(0) | <div>双鱼座的调调~！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1223782)<br><br>2011-02-19 12:37<br>赞(0) 踩(0) | <div>盛开而为我而凋谢你只爱我对不对还是你想看我掉眼泪</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1223782)<br><br>2011-02-19 12:31<br>赞(0) 踩(0) | <div>盛开而为我而凋谢你只爱我对不对还是你想看我掉眼泪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1223782)<br><br>2011-02-19 12:37<br>赞(0) 踩(0) | <div>盛开而为我而凋谢<br>你只爱我对不对<br>还是你想看我掉眼泪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1223782)<br><br>2011-02-19 12:31<br>赞(0) 踩(0) | <div>盛开而为我而凋谢<br>你只爱我对不对<br>还是你想看我掉眼泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175713)<br><br>2011-02-14 22:28<br>赞(0) 踩(0) | <div>高中时天天听，很有感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2481201)<br><br>2011-01-22 13:32<br>赞(0) 踩(0) | <div>很好听，可以循环听一天哦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2124578)<br><br>2010-12-08 19:45<br>赞(0) 踩(0) | <div>爱情走过学不会，你别让我掉眼泪。</div> |

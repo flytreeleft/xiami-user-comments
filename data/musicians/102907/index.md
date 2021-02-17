@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0b49e3625538f41bb30a2b18ec8987ce.jpg)<br>简弘亦](https://i.xiami.com/jianhong) | **播放数**: 61636129<br>**粉丝数**: 47808<br>**评论数**: 382<br>**地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/0b49e3625538f41bb30a2b18ec8987ce.jpg)<br>简弘亦](https://i.xiami.com/jianhong) | **地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 国语流行 Mandarin Pop<br>**播放数**: 61636129<br>**粉丝数**: 47808<br>**评论数**: 382<br> |
 
 ## 档案
 
@@ -92,8 +92,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-02-01 06:55<br>赞(1) 踩(0) | <div>47244</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2210029)<br>我还没想好要写什么...<br>2020-08-12 09:44<br>赞(0) 踩(0) | <div>2020.08.12: 应该原来是姓翦吧&amp;hellip;&amp;hellip;常德人，维族？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2210029)<br>我还没想好要写什么...<br>2020-08-12 09:42<br>赞(0) 踩(0) | <div>你什么时候火？</div> |
@@ -140,7 +140,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408705658)<br><br>2018-11-15 14:37<br>赞(2) 踩(0) | <div>喜欢 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335497598)<br><br>2018-11-15 01:42<br>赞(1) 踩(0) | <div>加油↖(^ω^)↗支持你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378420565)<br>一生一世只爱你<br>2018-10-20 08:19<br>赞(1) 踩(0) | <div>声音很好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47494497)<br>李志、陈升，“虾米也没有...<br>2018-10-12 12:01<br>赞(3) 踩(0) | <div>这个声音感觉离自己好近好温暖</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47494497)<br>李志、陈升，“虾米也没有...<br>2018-10-12 12:01<br>赞(3) 踩(0) | <div>这个声音<br>感觉离自己好近<br>好温暖</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378420565)<br>一生一世只爱你<br>2018-10-20 08:20<br>赞(0) 踩(0) | <div><img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403257011)<br><br>2018-09-07 20:57<br>赞(1) 踩(0) | <div>怎么就是没有喜欢的《你就不要想起我》</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/925375)<br><br>2018-08-29 09:41<br>赞(8) 踩(0) | <div>想听你亲口唱《不染》～</div> |
@@ -194,7 +194,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66823378)<br><br>2017-11-18 21:26<br>赞(3) 踩(0) | <div>我觉得比薛之谦声音好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141027886)<br>在下还没想好要写什么…<br>2017-11-18 19:06<br>赞(4) 踩(0) | <div>不知道怎么，脑海里突然冒出一句：不要变成薛之谦。 <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329686810)<br><br>2017-11-12 16:55<br>赞(1) 踩(0) | <div>他是我女朋友</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334031411)<br><br>2017-11-09 08:51<br>赞(3) 踩(0) | <div>只差一个机会，就差一个机会。还是营销包装出了问题，歌迷会都一盘散沙，，蹇红，你太低调了又没绯闻，所以默默无闻，真男人  我从没孩子听到现在两个孩子了，我都没放弃，你也不要放弃哈，，-xxx上海歌迷-v</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334031411)<br><br>2017-11-09 08:51<br>赞(3) 踩(0) | <div>只差一个机会，就差一个机会。<br>还是营销包装出了问题，歌迷会都一盘散沙，，蹇红，你太低调了又没绯闻，所以默默无闻，真男人  我从没孩子听到现在两个孩子了，我都没放弃，你也不要放弃哈，，-xxx上海歌迷-v</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263054434)<br><br>2017-11-23 13:14<br>赞(0) 踩(0) | <div>我觉得原创可能少点，需要一首惊艳的原创</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48916742)<br><br>2017-10-28 00:45<br>赞(24) 踩(0) | <div>第一次听简弘亦是《出卖》记得当时搜这首歌然后有事要处理没注意看谁唱的（我之前都是不听翻唱的歌的），到了晚上静悄悄的时候带上耳机听《出卖》这声音直接听的上瘾，只要是简弘亦的歌我都听现在。原谅我文笔不好书读得少</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329809052)<br>真假心甘情愿。<br>2017-10-12 17:45<br>赞(0) 踩(0) | <div>用情。</div> |
@@ -384,7 +384,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/717217)<br>静<br>2014-06-17 20:21<br>赞(0) 踩(0) | <div>风归云 前奏 王菲 再见萤火虫</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15416981)<br>奇迹每天都在上演<br>2014-06-06 20:15<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15416981)<br>奇迹每天都在上演<br>2014-06-06 10:07<br>赞(0) 踩(0) | <div>一见钟情的声音，</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2014-06-02 16:02<br>赞(0) 踩(0) | <div>所谓的“火山音”，老家常德。封面的话，我翻了下，08年左右的形象和现在算是天壤之别的，现在竟然被贴上了VR的标签……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2014-06-02 16:02<br>赞(0) 踩(0) | <div>所谓的“火山音”，老家常德。<br>封面的话，我翻了下，08年左右的形象和现在算是天壤之别的，现在竟然被贴上了VR的标签……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8642055)<br>才華來自崇高的信仰。<br>2014-05-24 22:51<br>赞(0) 踩(0) | <div>很有傾訴欲的嗓音。唱得第一句泡沫就愛上了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/722837)<br>886<br>2014-05-23 18:24<br>赞(0) 踩(0) | <div>第一眼把名字看成寒红，话说蹇红怎么读</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13814807)<br>quit loving.<br>2014-06-16 11:03<br>赞(0) 踩(0) | <div>就读简红</div> |
@@ -403,7 +403,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/656467)<br>专注狗血二十年<br>2014-05-10 01:08<br>赞(0) 踩(0) | <div>封面好毁那么气质的声音！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26275414)<br>暂无签名~<br>2014-05-09 23:15<br>赞(0) 踩(0) | <div>抓紧给换个封面啊！这么好听的声音，白瞎了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3433110)<br>重拾虾米<br>2014-05-09 20:22<br>赞(0) 踩(0) | <div>声音很赞～</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36060338)<br>和光同尘 黑暗共生<br>2014-05-09 17:18<br>赞(0) 踩(0) | <div>听了泡沫来的  声音特别好听可是其他歌…  希望有好歌可以让你唱到吧</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36060338)<br>和光同尘 黑暗共生<br>2014-05-09 17:18<br>赞(0) 踩(0) | <div>听了泡沫来的  声音特别好听<br>可是其他歌…  希望有好歌可以让你唱到吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337700)<br><br>2014-09-27 00:19<br>赞(0) 踩(0) | <div>坏人恋人不错噢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11416610)<br>我就笑笑不说话~~<br>2014-05-09 08:48<br>赞(0) 踩(0) | <div>顶~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36315485)<br><br>2014-05-08 22:28<br>赞(0) 踩(0) | <div>加油，非常牛逼，下一个天王</div> |

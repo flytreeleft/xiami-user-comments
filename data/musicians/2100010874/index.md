@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e0b19f6946ef7e2e81afb1254d816a9e.jpg)<br>张雪飞](https://i.xiami.com/zhangxf) | **播放数**: 13743428<br>**粉丝数**: 1518<br>**评论数**: 82<br>**地区**: China 中国大陆<br>**风格**: 老派说唱 Old-school Hip Hop, 流行说唱 Pop Rap, 陷阱说唱 Trap Rap<br> |
+| [![](../../images/musicians/e0b19f6946ef7e2e81afb1254d816a9e.jpg)<br>张雪飞](https://i.xiami.com/zhangxf) | **地区**: China 中国大陆<br>**风格**: 老派说唱 Old-school Hip Hop, 流行说唱 Pop Rap, 陷阱说唱 Trap Rap<br>**播放数**: 13743428<br>**粉丝数**: 1518<br>**评论数**: 82<br> |
 
 ## 档案
 
@@ -33,8 +33,8 @@ vxzhangxf1010
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-19 09:24<br>赞(0) 踩(0) | <div>46862</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423994125)<br>今夜的星光揉碎成点点<br>2020-08-01 12:47<br>赞(0) 踩(0) | <div>老抄袭鬼了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325374787)<br><br>2019-04-22 21:47<br>赞(0) 踩(0) | <div>到此一游</div> |
@@ -72,12 +72,12 @@ vxzhangxf1010
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284763883)<br><br>2018-04-29 19:51<br>赞(0) 踩(0) | <div>呵呵，真过分，不喜欢听就别听，  这音色很好</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278032801)<br><br>2018-05-29 22:38<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272210265)<br><br>2017-02-09 21:13<br>赞(12) 踩(0) | <div>就你还当说唱歌手呢，你配吗你，做人都不会做还出歌，真恶心</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52613400)<br><br>2017-06-17 18:20<br>赞(0) 踩(0) | <div>哥们做什么事都问心无愧 如果我真做什么了 我不怕你说出来直说就行</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52613400)<br><br>2017-06-17 18:20<br>赞(0) 踩(0) | <div>哥们做什么事都问心无愧 如果我真做什么了 我不怕你说出来<br>直说就行</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49669688)<br><br>2017-09-02 00:39<br>赞(0) 踩(0) | <div><q><b>张雪飞说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11454202)<br>半缘修道半缘吾心<br>2017-12-25 12:20<br>赞(0) 踩(0) | <div><q><b>我可不喜欢说话了说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272209859)<br><br>2017-02-09 21:11<br>赞(18) 踩(0) | <div>骗子Dog 收钱不办事 就这本事 敢做不敢当 根本不配当说唱歌手 你有什么资格出歌 臭比</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242591085)<br>goddame<br>2017-03-19 14:26<br>赞(0) 踩(0) | <div>水军吧辣鸡？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271132022)<br>聪明的人对不喜欢的事物不...<br>2017-02-06 23:14<br>赞(0) 踩(0) | <div>这哥们一定会火 加油火钳刘明</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271132022)<br>聪明的人对不喜欢的事物不...<br>2017-02-06 23:14<br>赞(0) 踩(0) | <div>这哥们一定会火 加油<br>火钳刘明</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246892742)<br> <br>2016-12-30 00:17<br>赞(1) 踩(0) | <div>从说唱家到这里 以后有机会我一定会做到跟你合作一首等我努力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257736119)<br><br>2016-12-29 09:35<br>赞(0) 踩(0) | <div>也是从说唱家到虾米 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253688015)<br><br>2016-12-12 18:13<br>赞(0) 踩(0) | <div>改编的喊麦，过来听</div> |

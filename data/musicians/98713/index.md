@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6557424f1e644f54bce5c0f41185f6fb.jpg)<br>五色石南叶](https://i.xiami.com/wuxiaqiu) | **播放数**: 15074722<br>**粉丝数**: 15480<br>**评论数**: 461<br>**地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/6557424f1e644f54bce5c0f41185f6fb.jpg)<br>五色石南叶](https://i.xiami.com/wuxiaqiu) | **地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 15074722<br>**粉丝数**: 15480<br>**评论数**: 461<br> |
 
 ## 档案
 
@@ -49,8 +49,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434493751)<br>是漓子没错<br>2021-01-27 19:51<br>赞(0) 踩(0) | <div>很多年前听过长恨歌 每次都被开头感动到 等到小哥的声音出来又好好听！呜呜呜！今天听到杀马特居然发现是同一个人 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796166)<br>最爱莫文蔚.....<br>2020-09-20 04:00<br>赞(1) 踩(0) | <div>加油 不错哦 可以呢~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-05-04 09:48<br>赞(0) 踩(0) | <div>20200504.459</div> |
@@ -59,7 +59,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49465873)<br>我还没想好要写什么...<br>2019-11-06 10:31<br>赞(0) 踩(0) | <div>念白的声音太好听了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293122004)<br><br>2019-06-20 12:40<br>赞(0) 踩(0) | <div>最近一直在听五哥的歌，是特别喜欢的声音！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50706431)<br>东风穿廊载梦语<br>2019-06-09 21:38<br>赞(0) 踩(0) | <div>第一次听到五色石南叶的声音还是大理寺日志，然后再也忘不了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235677115)<br>摇滚，民谣，民族<br>2019-05-14 13:35<br>赞(0) 踩(0) | <div>太喜欢你的声音了，你的声音就是我的梦中情人。寻他千百度，阑珊中传来的是你的声音。支持！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235677115)<br>摇滚，民谣，民族<br>2019-05-14 13:35<br>赞(0) 踩(0) | <div>太喜欢你的声音了，你的声音就是我的梦中情人。寻他千百度，阑珊中传来的是你的声音。<br>支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166302128)<br>冷冷清清的风风火火.<br>2019-03-11 22:18<br>赞(1) 踩(0) | <div>坐等《冬藏春生》</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33774548)<br>在虾米的评论里惊觉自己默...<br>2019-02-17 17:09<br>赞(1) 踩(0) | <div>能不能创作一下茅屋为秋风所破歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226833808)<br>梦里见<br>2019-02-05 22:13<br>赞(0) 踩(0) | <div>洗剪吹，染焗烫</div> |
@@ -152,7 +152,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/836333)<br>冷光微逝<br>2016-06-16 18:45<br>赞(0) 踩(0) | <div>能翻唱大鱼海棠的印象曲《大鱼》吗？我觉得你唱的应该有另一种味道..........</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2016-08-28 16:05<br>赞(0) 踩(0) | <div>五哥微信公众号今天发大鱼翻唱了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/836333)<br>冷光微逝<br>2016-08-28 21:25<br>赞(0) 踩(0) | <div><q><b>vip店长助理说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2016-06-07 10:34<br>赞(0) 踩(0) | <div>江湖归来叙旧茶还没有吗？在某云循环几天了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2016-06-07 10:34<br>赞(0) 踩(0) | <div>江湖归来叙旧茶还没有吗？<br>在某云循环几天了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2016-05-26 09:34<br>赞(1) 踩(0) | <div>五哥太仙了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168265726)<br><br>2016-05-13 10:53<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85802148)<br><br>2016-05-09 19:41<br>赞(0) 踩(0) | <div>太喜欢！</div> |
@@ -166,7 +166,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3224446)<br><br>2016-04-15 10:49<br>赞(34) 踩(0) | <div>古风圈中难得的吐词清楚的好人！好人啊！卷舌音能发到位的歌手都是上帝派来的天使！更别提我循环了好多遍的洗剪吹啊~棒棒哒！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4379986)<br><br>2016-04-17 16:16<br>赞(0) 踩(0) | <div>cv出身！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3224446)<br><br>2016-04-19 19:06<br>赞(0) 踩(0) | <div><q><b>蛋黄酱(⁄ ⁄•⁄ω⁄•⁄ ⁄)说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106165)<br>廊下戏池鱼<br>2016-05-22 20:31<br>赞(0) 踩(0) | <div>是的！我也特别在意吐词！好多翻唱圈的大大声音都很棒，就是遗憾在于各种口音……五哥是古风翻唱里难得字正腔圆的，又是CV圈里唱功上乘的！综合起来实力值max！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106165)<br>廊下戏池鱼<br>2016-05-22 20:31<br>赞(0) 踩(0) | <div>是的！我也特别在意吐词！好多翻唱圈的大大声音都很棒，就是遗憾在于各种口音……<br>五哥是古风翻唱里难得字正腔圆的，又是CV圈里唱功上乘的！综合起来实力值max！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/148860076)<br><br>2016-08-17 17:17<br>赞(0) 踩(0) | <div><q><b>牧歌说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134842758)<br>西皮@Iholdmyto...<br>2016-04-05 12:40<br>赞(0) 踩(0) | <div>我爱五哥 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2016-04-03 15:45<br>赞(1) 踩(0) | <div>单曲循环两天《姑苏客》了</div> |
@@ -175,7 +175,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45814690)<br><br>2016-03-25 22:57<br>赞(0) 踩(0) | <div>【感觉自己背书有救了】</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24333923)<br>虽然想做一团火，却成了一...<br>2016-02-21 18:04<br>赞(0) 踩(0) | <div>谁知道为啥没有白和灰？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24735214)<br>喜欢老歌，也听新歌<br>2016-02-16 18:54<br>赞(0) 踩(0) | <div>感觉有点像刘欢老师</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106165)<br>廊下戏池鱼<br>2016-01-26 10:03<br>赞(1) 踩(0) | <div>最喜欢五哥那混合了一定比例假声的唱腔，显得特别柔和润泽，例如翻唱的《关联》、《江月风》、《也无风雨》等。与此相对，真声比例过高，就会显得有点刺耳，例如《骄阳如我》和新出的《风流年间》。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106165)<br>廊下戏池鱼<br>2016-01-26 10:03<br>赞(1) 踩(0) | <div>最喜欢五哥那混合了一定比例假声的唱腔，显得特别柔和润泽，例如翻唱的《关联》、《江月风》、《也无风雨》等。<br>与此相对，真声比例过高，就会显得有点刺耳，例如《骄阳如我》和新出的《风流年间》。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9281542)<br>。<br>2016-01-19 00:28<br>赞(1) 踩(0) | <div>刚看五色石南叶的签名，是《凤阁恩仇情未了》的名句</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32445586)<br>暂无签名~<br>2016-01-18 01:21<br>赞(3) 踩(0) | <div>5sing过来的 5哥男神不解释</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12282120)<br>铣质无改，筠心不变。<br>2016-01-11 18:44<br>赞(4) 踩(0) | <div>好喜欢他的歌，自有一派风骨在其中。</div> |
@@ -215,9 +215,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2015-09-10 10:42<br>赞(0) 踩(0) | <div>五哥五哥我爱你！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37744697)<br>暂无签名~<br>2015-09-06 21:16<br>赞(0) 踩(0) | <div>希望有更多作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8129484)<br><br>2015-09-05 21:44<br>赞(0) 踩(0) | <div>这个很舒服 比推荐的那个戏班子强太多了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5883942)<br><br>2015-09-05 21:42<br>赞(0) 踩(0) | <div>确实好嗓音，确实惊艳。必须评一句，我喜欢。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5883942)<br><br>2015-09-05 21:42<br>赞(0) 踩(0) | <div>确实好嗓音，确实惊艳。<br>必须评一句，我喜欢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6316021)<br>爱自己，爱音乐。<br>2015-09-05 21:15<br>赞(0) 踩(0) | <div>又仔细听下，发现区别，低沉的嗓音和低沉嗓音+鼻音之间，后者柔和了声音的棱角，配得上温润如玉的评价。飞鱼里隔水望太极萧索那句真是惊艳，完全发挥了声音的优势。当然旁白，也很好听，但却不特别。不知虾友们咋么觉得，哈，不喜勿喷啊。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6316021)<br>爱自己，爱音乐。<br>2015-09-05 20:43<br>赞(0) 踩(0) | <div>声音可以让耳朵怀孕。。。可是我怎么都感觉这么好的声音没唱对歌。。个人感觉，勿拍。。。也许可以去给古风动画配音。。好嗓子！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6316021)<br>爱自己，爱音乐。<br>2015-09-05 20:43<br>赞(0) 踩(0) | <div>声音可以让耳朵怀孕。。。可是我怎么都感觉这么好的声音没唱对歌。。个人感觉，勿拍。。。<br>也许可以去给古风动画配音。。好嗓子！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10061385)<br><br>2015-09-10 14:09<br>赞(0) 踩(0) | <div>五哥也配音的呀</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6316021)<br>爱自己，爱音乐。<br>2015-09-10 18:41<br>赞(0) 踩(0) | <div><q><b>yiyu说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10061385)<br><br>2015-09-11 10:33<br>赞(0) 踩(0) | <div><q><b>anlishelt说：</b></q></div> |
@@ -414,11 +414,11 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2690250)<br>90s<br>2014-07-02 16:25<br>赞(0) 踩(0) | <div>白素贞和青城山有什么关系。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2690250)<br>90s<br>2014-07-02 16:24<br>赞(0) 踩(0) | <div>声音很清新。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38475238)<br><br>2014-06-30 17:41<br>赞(0) 踩(0) | <div></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14760046)<br>古风    剑网三<br>2014-06-26 17:15<br>赞(2) 踩(0) | <div>我还是喜欢五色石南叶的声音，自从5ING关了，好久都没听五哥的歌。支持。男神！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14760046)<br>古风    剑网三<br>2014-06-26 17:15<br>赞(2) 踩(0) | <div>我还是喜欢五色石南叶的声音，自从5ING关了，好久都没听五哥的歌。<br>支持。<br>男神！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11454381)<br>斯人思乐<br>2014-06-23 21:58<br>赞(0) 踩(0) | <div>5sing挂了来此居然偶遇五哥和曲爷不能更星湖！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37680727)<br>某宝敢再恶心点吗<br>2014-06-17 11:24<br>赞(0) 踩(0) | <div>男神好咩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8045901)<br><br>2014-06-04 17:03<br>赞(0) 踩(0) | <div>喔唷 这个乐队真是太棒了！！！本来不好的心情一下子好起来了！！！好治愈！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2014-06-03 11:07<br>赞(1) 踩(0) | <div>听了N遍五哥和小曲儿的宣，我还YY五哥是风流倜傥的小攻今天一不小心听到洗剪吹，顿时整个人都不好了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2014-06-03 11:07<br>赞(1) 踩(0) | <div>听了N遍五哥和小曲儿的宣，我还YY五哥是风流倜傥的小攻<br>今天一不小心听到洗剪吹，顿时整个人都不好了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3208690)<br>快乐的猫猫<br>2014-06-16 13:18<br>赞(0) 踩(0) | <div>抓到你了~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2014-06-16 14:46<br>赞(0) 踩(0) | <div><q><b>Lena说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3208690)<br>快乐的猫猫<br>2014-06-16 15:12<br>赞(0) 踩(0) | <div><q><b>vip店长助理说：</b></q></div> |
@@ -498,7 +498,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5)<br>三男一狗<br>2013-10-14 15:40<br>赞(0) 踩(0) | <div>村口王师傅。。。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347473)<br>闭站前好友打捞计划正式启...<br>2013-10-13 21:59<br>赞(0) 踩(0) | <div>歌好少QAAQ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11166982)<br>踽踽独行<br>2013-10-12 23:25<br>赞(0) 踩(0) | <div>非鱼呢 五哥</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5776875)<br>为嘛我介么喜欢笑呢~<br>2013-10-11 20:53<br>赞(0) 踩(0) | <div>关于《杀马特遇见洗剪吹》，虾米的回复：『谢谢您的提交，您提交的关于《洗剪吹》的资料已审核完毕，给您的留言是：“资料未采用，非正式发行专辑或EP单曲。”。如有异议或补充，请联系虾小编。 4小时前』::&amp;gt;_&amp;lt;::</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5776875)<br>为嘛我介么喜欢笑呢~<br>2013-10-11 20:53<br>赞(0) 踩(0) | <div>关于《杀马特遇见洗剪吹》，虾米的回复：<br>『谢谢您的提交，您提交的关于《洗剪吹》的资料已审核完毕，给您的留言是：“资料未采用，非正式发行专辑或EP单曲。”。如有异议或补充，请联系虾小编。 4小时前』<br>::&amp;gt;_&amp;lt;::</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3868179)<br>不在人间<br>2013-10-06 14:48<br>赞(0) 踩(0) | <div>虾米这边只有一张碟啊不开心QWQ  五哥威武！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5577697)<br>我还没想好要写什么...<br>2013-09-30 02:26<br>赞(1) 踩(0) | <div>芬达喝芬达喝芬达喝芬达喝王老吉王老吉王老吉王老吉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6618205)<br><br>2013-09-23 02:29<br>赞(113) 踩(0) | <div>怎么没有杀马特洗剪吹。B站循环了80遍</div> |

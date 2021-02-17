@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1de0988eda9d3bfeba50bd355e435e04.jpg)<br>郑小辫儿](https://i.xiami.com/bianer) | **播放数**: 3310126<br>**粉丝数**: 537<br>**评论数**: 29<br>**地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 新民谣 Neofolk<br> |
+| [![](../../images/musicians/1de0988eda9d3bfeba50bd355e435e04.jpg)<br>郑小辫儿](https://i.xiami.com/bianer) | **地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 新民谣 Neofolk<br>**播放数**: 3310126<br>**粉丝数**: 537<br>**评论数**: 29<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326165803)<br>我还没想好要写什么...<br>2020-08-22 17:18<br>赞(0) 踩(0) | <div><img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-08-16 17:33<br>赞(0) 踩(0) | <div>国产20200816.28</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54939396)<br>虾米音乐陪葬品<br>2020-04-10 23:35<br>赞(0) 踩(0) | <div>。</div> |
@@ -47,7 +47,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9003931)<br>千淘万漉虽辛苦<br>2017-01-01 16:04<br>赞(1) 踩(0) | <div>中式吟游唱作人？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128915260)<br><br>2016-12-03 00:01<br>赞(1) 踩(0) | <div>很喜欢你的现场！有灵魂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7819848)<br> <br>2016-11-21 23:52<br>赞(1) 踩(0) | <div>喜欢你的声音 不止是低沉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29376281)<br>摇滚乐真好玩儿<br>2016-09-08 00:21<br>赞(11) 踩(0) | <div>很少上虾米，这个账户存在的意义可能就是贩卖无损专辑吧，哈哈。有时间欢迎关注我微博“我叫郑小辫儿”么么</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29376281)<br>摇滚乐真好玩儿<br>2016-09-08 00:21<br>赞(11) 踩(0) | <div>很少上虾米，这个账户存在的意义可能就是贩卖无损专辑吧，哈哈。<br>有时间欢迎关注我微博“我叫郑小辫儿”么么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48904070)<br>I love CHINA<br>2016-05-25 18:37<br>赞(0) 踩(0) | <div>辫儿哥，签公司了还是独立呢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104300988)<br> <br>2016-05-04 00:44<br>赞(0) 踩(0) | <div>声音好听到爆，词很富有诗意和现实感。美却又真实！真的赞！加油辫儿哥。 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35491387)<br>现役军旅音乐人<br>2016-04-09 23:04<br>赞(0) 踩(0) | <div>好听</div> |

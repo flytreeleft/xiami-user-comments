@@ -3,7 +3,7 @@ Jason Chen
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f7057f620c5dcc1217d92031c7e5121d.jpg)<br>Jason Chen](https://i.xiami.com/jasonchenmusic) | **播放数**: 67961223<br>**粉丝数**: 42890<br>**评论数**: 1222<br>**地区**: United States of America 美国<br>**风格**: 国语流行 Mandarin Pop, 流行 Pop, 欧美流行 Western Pop<br> |
+| [![](../../images/musicians/f7057f620c5dcc1217d92031c7e5121d.jpg)<br>Jason Chen](https://i.xiami.com/jasonchenmusic) | **地区**: United States of America 美国<br>**风格**: 国语流行 Mandarin Pop, 流行 Pop, 欧美流行 Western Pop<br>**播放数**: 67961223<br>**粉丝数**: 42890<br>**评论数**: 1222<br> |
 
 ## 档案
 
@@ -210,8 +210,8 @@ Jason Chen
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48127892)<br><br>2021-01-15 15:21<br>赞(1) 踩(0) | <div>因为你下的虾米！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96992030)<br>那个很酷的女孩希望你有天...<br>2020-11-09 07:50<br>赞(0) 踩(0) | <div>想你花海</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92268184)<br>制兹八拍兮拟排忧 何知曲...<br>2020-11-09 01:30<br>赞(0) 踩(0) | <div>挺好听的  声音还是很清澈，都知道是翻唱啊  这个没什么，别人也没说原唱</div> |
@@ -261,7 +261,7 @@ Jason Chen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401658488)<br><br>2018-11-20 20:42<br>赞(0) 踩(0) | <div>喜欢你唱的啊！好听!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345956165)<br><br>2018-11-16 16:16<br>赞(0) 踩(0) | <div>还挺多人喜欢基基的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401726486)<br>forever youn...<br>2018-11-12 10:07<br>赞(0) 踩(0) | <div>我爱你(ღ♡‿♡ღ)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47494497)<br>李志、陈升，“虾米也没有...<br>2018-11-06 00:21<br>赞(0) 踩(0) | <div>我认真欣赏过可你怎么越来越油腻了现在的你一点都不走心了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47494497)<br>李志、陈升，“虾米也没有...<br>2018-11-06 00:21<br>赞(0) 踩(0) | <div>我认真欣赏过<br>可你怎么越来越油腻了<br>现在的你一点都不走心了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406221037)<br>Life is a bl...<br>2018-10-29 23:55<br>赞(0) 踩(0) | <div>非常喜欢你的歌，支持你，希望听到更多好听的歌曲 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377991861)<br><br>2018-10-27 22:06<br>赞(0) 踩(0) | <div>太愛你的歌聲了♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294469568)<br>张艺兴 ！戳爷断眉黄老板...<br>2018-10-25 23:20<br>赞(2) 踩(0) | <div>太厉害了吧每首歌都超级好听啊啊</div> |
@@ -272,20 +272,20 @@ Jason Chen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281514010)<br><br>2018-09-21 03:15<br>赞(0) 踩(0) | <div>关注他是想看看有什么最近流行好听的 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48276049)<br> <br>2018-09-17 04:19<br>赞(0) 踩(0) | <div>最近看到一个叫文慧如的歌手，和以桐声音配一起应该很好听，不知道有没有合作过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401818636)<br><br>2018-08-17 21:55<br>赞(0) 踩(0) | <div>哇Jason，没想到在虾米，天天看你的ins被逗得哈哈笑</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375055054)<br><br>2018-08-14 17:35<br>赞(0) 踩(0) | <div>Emmmmmm,被逼学中文。。是有多无奈 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/896c71098ec085a58850601158f138ce.png"> <img src="../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375055054)<br><br>2018-08-14 17:35<br>赞(0) 踩(0) | <div>Emmmmmm,被逼学中文。。<br>是有多无奈 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/896c71098ec085a58850601158f138ce.png"> <img src="../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2018-08-14 16:50<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267272222)<br>爱你——霉霉<br>2018-08-09 12:11<br>赞(0) 踩(0) | <div>说，杰克成认识吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288441177)<br><br>2018-08-06 11:25<br>赞(0) 踩(0) | <div>之前一站到底看到过这个名字，今天听歌点进来看看</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45270181)<br>我还没想好要写什么...<br>2018-07-31 21:45<br>赞(1) 踩(0) | <div>一站到底来的 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204759305)<br>For❤Life<br>2018-08-01 20:27<br>赞(0) 踩(0) | <div>+1</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85568296)<br>只有阳光而无阴影 只有欢...<br>2018-07-31 09:59<br>赞(0) 踩(0) | <div>看简介，发现两个笑点一个是节省钱 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">还有一个是父母逼他学中文 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85568296)<br>只有阳光而无阴影 只有欢...<br>2018-07-31 09:59<br>赞(0) 踩(0) | <div>看简介，发现两个笑点<br>一个是节省钱 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"><br>还有一个是父母逼他学中文 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378797970)<br><br>2018-07-25 21:31<br>赞(0) 踩(0) | <div>终于在虾米听到你的声音，加油哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377261078)<br><br>2018-07-19 21:09<br>赞(2) 踩(0) | <div>会中文 英文 韩文的小哥哥好棒ヾ ^_^♪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377261078)<br><br>2018-07-19 21:08<br>赞(1) 踩(0) | <div>每一首都好听(ง &amp;bull;̀_&amp;bull;́)ง</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139361976)<br>我还没想好要写什么...<br>2018-07-14 15:56<br>赞(1) 踩(0) | <div>喜欢 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14729482)<br>听音乐好心情！<br>2018-07-12 13:05<br>赞(1) 踩(0) | <div>陈以桐，喜欢，好多年！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316957741)<br>老张加油，泰妍加油，我也...<br>2018-07-09 21:59<br>赞(2) 踩(0) | <div>Love U,唱歌很棒啊。有实力的，没错会继续看好的哟。 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350005593)<br>或许在你面前装幼稚 其实...<br>2018-07-09 21:16<br>赞(0) 踩(0) | <div>起初，只是单纯的喜欢他的歌。他唱的很深情，也许是因为在全民K歌听到他唱的&amp;mdash;&amp;mdash;《你，好不好？》他与原唱，有不同的韵味。而正是这样深情唱歌的他吸引了我。我也很喜欢音乐。但我，从小。那么小父母问我喜欢什么，我不明白自己的爱好。一直到初中我好像才明白了我的爱好以及梦想，也许开始对于，唱歌啊，和音乐只是单纯的喜欢。但后来好像慢慢发展成了梦想，让它成为我的梦想。也许梦想，总是不一定实现。但后来一想，梦想，不就是要有幻想吗？这么一想，心里自然就坦然了。&amp;mdash;&amp;mdash;【石明静】 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">其实单曲循环也不错。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350005593)<br>或许在你面前装幼稚 其实...<br>2018-07-09 21:16<br>赞(0) 踩(0) | <div>起初，只是单纯的喜欢他的歌。他唱的很深情，也许是因为在全民K歌听到他唱的&amp;mdash;&amp;mdash;《你，好不好？》他与原唱，有不同的韵味。而正是这样深情唱歌的他吸引了我。我也很喜欢音乐。但我，从小。那么小父母问我喜欢什么，我不明白自己的爱好。一直到初中我好像才明白了我的爱好以及梦想，也许开始对于，唱歌啊，和音乐只是单纯的喜欢。但后来好像慢慢发展成了梦想，让它成为我的梦想。也许梦想，总是不一定实现。但后来一想，梦想，不就是要有幻想吗？这么一想，心里自然就坦然了。<br><br>&amp;mdash;&amp;mdash;【石明静】 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>其实单曲循环也不错。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204352660)<br>我还没想好要写什么...<br>2018-07-09 11:44<br>赞(1) 踩(0) | <div>他唱歌是真一般</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376458179)<br>樱世<br>2018-07-07 07:36<br>赞(2) 踩(0) | <div>忠粉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44126265)<br>透明<br>2018-07-04 22:24<br>赞(1) 踩(0) | <div>~</div> |
@@ -403,7 +403,7 @@ Jason Chen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/471885)<br>查缺补漏，宁缺毋滥<br>2017-03-18 17:40<br>赞(0) 踩(0) | <div>节省钱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12243280)<br><br>2017-03-15 22:30<br>赞(0) 踩(0) | <div>男神，还用说吗！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9891403)<br>我还没想好要写什么...<br>2017-03-12 17:11<br>赞(0) 踩(0) | <div>不是黑，真觉得他翻唱的一般而且改编的也很一般</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260176390)<br><br>2017-03-12 14:44<br>赞(0) 踩(0) | <div>中 文 名： 陈以桐外 文 名： Jason Chen别    名： 节省钱国    籍： 美国星    座： 天蝎座</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260176390)<br><br>2017-03-12 14:44<br>赞(0) 踩(0) | <div>中 文 名： 陈以桐<br>外 文 名： Jason Chen<br>别    名： 节省钱<br>国    籍： 美国<br>星    座： 天蝎座</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9991802)<br><br>2017-03-10 11:33<br>赞(0) 踩(0) | <div>特别有感觉的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245041691)<br> <br>2017-03-08 18:19<br>赞(79) 踩(0) | <div>我觉得他很厉害呀，这不叫抄袭不叫山寨。他都说是翻唱了，又没说原创歌曲&amp;hellip;&amp;hellip;而且他有好多首翻唱的比原唱更出色！支持他！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76348658)<br> <br>2017-04-19 23:57<br>赞(0) 踩(0) | <div>比如哪首</div> |
@@ -455,7 +455,7 @@ Jason Chen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/185601529)<br>你要爱荒野上的风声<br>2016-06-04 11:48<br>赞(0) 踩(0) | <div>男神</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59000814)<br> <br>2016-05-24 20:00<br>赞(2) 踩(0) | <div>表白陈以桐 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/156876054)<br><br>2016-05-14 22:02<br>赞(0) 踩(0) | <div>12345689</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/156876054)<br><br>2016-05-14 22:01<br>赞(0) 踩(0) | <div>1+12368<img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/156876054)<br><br>2016-05-14 22:01<br>赞(0) 踩(0) | <div>1+12368<br><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337895)<br>全平台同名<br>2016-05-13 11:12<br>赞(0) 踩(0) | <div>都半年没新歌啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/162714994)<br><br>2016-05-12 16:52<br>赞(0) 踩(0) | <div>他的每首歌都是我的菜</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/156876054)<br><br>2016-05-14 22:02<br>赞(0) 踩(0) | <div>gj123560</div> |
@@ -505,7 +505,7 @@ Jason Chen
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105326092)<br>¡Блядь!<br>2016-01-31 00:20<br>赞(0) 踩(0) | <div>噗哈哈...并不是</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31908478)<br>-<br>2015-11-25 23:52<br>赞(0) 踩(0) | <div>再听起他的歌想起从前的光景 我的中学时期</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83825016)<br><br>2015-11-17 10:17<br>赞(0) 踩(0) | <div>有没有谁有Hide and seek的钢琴谱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3475541)<br><br>2015-11-11 19:26<br>赞(0) 踩(0) | <div>唱的挺好···就是没必要每一首歌都带视频带头像的唱··很深情很装的样子去唱别人的歌·········安静出音频，如果本意单纯想大众更关心音乐本身的话······</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3475541)<br><br>2015-11-11 19:26<br>赞(0) 踩(0) | <div>唱的挺好···就是没必要每一首歌都带视频带头像的唱··很深情很装的样子去唱别人的歌·······<br>··安静出音频，如果本意单纯想大众更关心音乐本身的话······</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72976704)<br><br>2015-10-29 05:28<br>赞(117) 踩(0) | <div>他的确是YouTube 翻唱红起来的 因为有些比原唱还有感觉 反正当年在北美学生圈是超有名的 后来的确出了自己写的专辑  每首都很好听 他属于声音挺让人舒服的 很难不喜欢 也很有才华 没必要黑他 说到底 他只是单纯喜欢音乐而已</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72976704)<br><br>2015-10-29 05:21<br>赞(3) 踩(0) | <div>那帮UCLA出来的都是嗓音极佳 各有各的特点 哪国的都有 弹钢琴弹吉他小号手鼓 作词编曲 录音制作 拍MV 后期剪辑 关键是没一个学音乐专业的  <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52696611)<br>就这样逃跑吧<br>2015-10-26 14:12<br>赞(0) 踩(0) | <div>Jason Chen,</div> |
@@ -608,7 +608,7 @@ Jason Chen
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13202988)<br>我就是不输入签名<br>2017-10-27 23:33<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13202988)<br>我就是不输入签名<br>2015-05-09 01:31<br>赞(0) 踩(0) | <div>翻唱就低人一等了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49836214)<br><br>2015-05-06 14:10<br>赞(0) 踩(0) | <div>叔叔加油！ <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3860504)<br>我是个矫情的二逼。<br>2015-05-06 12:49<br>赞(0) 踩(0) | <div>Music Never Sleeps.音乐不夜。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3860504)<br>我是个矫情的二逼。<br>2015-05-06 12:49<br>赞(0) 踩(0) | <div>Music Never Sleeps.<br>音乐不夜。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14548403)<br> <br>2015-05-04 14:31<br>赞(0) 踩(0) | <div>因为喜欢所以爱他。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49756024)<br>限量版二逼<br>2015-05-02 15:21<br>赞(0) 踩(0) | <div>JC永远爱你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30602808)<br>仅供记录<br>2015-04-17 17:08<br>赞(0) 踩(0) | <div>他有出道吗？觉得他在华语乐坛出道了的话应该会成绩不错。</div> |
@@ -698,7 +698,7 @@ Jason Chen
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2933707)<br>Live my pace<br>2016-12-05 08:08<br>赞(0) 踩(0) | <div><q><b>FTL说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11463587)<br>我还没想好要写什么...<br>2017-04-28 10:04<br>赞(0) 踩(0) | <div>不知你在秀什么存在感</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2933707)<br>Live my pace<br>2017-04-28 11:47<br>赞(0) 踩(0) | <div><q><b>小肥柴的日常说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45186958)<br><br>2018-03-15 19:13<br>赞(0) 踩(0) | <div>靓仔啊，唱歌不错，也有点才能啊。气质不会太娘，还有点男人味。你不觉得的话，只能说各花入各眼，萝卜青菜各有所爱了。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45186958)<br><br>2018-03-15 19:13<br>赞(0) 踩(0) | <div>靓仔啊，唱歌不错，也有点才能啊。气质不会太娘，还有点男人味。<br>你不觉得的话，只能说各花入各眼，萝卜青菜各有所爱了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349009350)<br>健身音乐机车，我的最爱，<br>2018-08-21 22:34<br>赞(0) 踩(0) | <div>至少不娘，会唱歌，</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349009350)<br>健身音乐机车，我的最爱，<br>2018-08-21 22:35<br>赞(0) 踩(0) | <div><q><b>Una说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2830748)<br>虽苦还望莫作<br>2014-05-19 19:07<br>赞(0) 踩(0) | <div>最近好安静的感觉...</div> |
@@ -715,7 +715,7 @@ Jason Chen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34809858)<br><br>2014-04-02 16:27<br>赞(0) 踩(0) | <div>他的阳光感染了我,专辑风格好有创意啊!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6151847)<br>卷小慧爱阳光~<br>2014-03-25 21:09<br>赞(0) 踩(0) | <div>嘿挑眉男</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2830748)<br>虽苦还望莫作<br>2014-03-22 13:19<br>赞(0) 踩(0) | <div>节省钱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3442572)<br>(*¯︶¯*)<br>2014-03-22 11:04<br>赞(1) 踩(0) | <div>珊瑚海怎么没收 喜欢这首 更喜欢开始妹子一笑<a href="http://v.yinyuetai.com/video/423730" target="_blank" rel="nofollow noreferrer noopener">http://v.yinyuetai.com/video/423730</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3442572)<br>(*¯︶¯*)<br>2014-03-22 11:04<br>赞(1) 踩(0) | <div>珊瑚海怎么没收 喜欢这首 更喜欢开始妹子一笑<br><a href="http://v.yinyuetai.com/video/423730" target="_blank" rel="nofollow noreferrer noopener">http://v.yinyuetai.com/video/423730</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33496892)<br><br>2014-03-22 01:21<br>赞(0) 踩(0) | <div>听着很舒心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5691092)<br>爱生活 爱音乐 爱影视<br>2014-03-07 12:56<br>赞(0) 踩(0) | <div>收藏着</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/588121)<br>我还没想好要写什么...<br>2014-02-27 19:08<br>赞(0) 踩(0) | <div>美籍华人</div> |
@@ -758,7 +758,7 @@ Jason Chen
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/494142)<br><br>2014-05-05 21:17<br>赞(0) 踩(0) | <div>陈以桐的实力唱个洋葱还是不成问题的，毕竟他也翻唱过火星哥的grenede这样难度比洋葱高一个档次的歌曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25592883)<br>Music never ...<br>2013-10-28 21:18<br>赞(1) 踩(0) | <div>在国外的时候 youtube最喜欢放他的歌.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2494430)<br>Summer<br>2013-10-21 16:38<br>赞(0) 踩(0) | <div>Music never sleep, every wednesday! Check it on youtube by &amp;quot;Music never sleep&amp;quot; channel!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10185921)<br>虚度光阴～<br>2013-10-03 03:06<br>赞(0) 踩(0) | <div>要说 陈以桐 的个子不高，真的不高啊！～。。。。。。我能称您为 小巨人 吗？！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10185921)<br>虚度光阴～<br>2013-10-03 03:06<br>赞(0) 踩(0) | <div>要说 陈以桐 的个子不高，真的不高啊！～。。。。。。<br>我能称您为 小巨人 吗？！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2494430)<br>Summer<br>2013-11-25 23:01<br>赞(0) 踩(0) | <div>哈哈~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10185921)<br>虚度光阴～<br>2013-11-26 00:59<br>赞(0) 踩(0) | <div><q><b>Toro说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2494430)<br>Summer<br>2013-11-26 10:45<br>赞(0) 踩(0) | <div><q><b>Απόλλων^n说：</b></q></div> |
@@ -801,7 +801,7 @@ Jason Chen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5081504)<br>留在原地、<br>2013-06-11 14:06<br>赞(0) 踩(0) | <div>陈以桐Jason,小清新,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10264971)<br>Hard candy.<br>2013-06-11 12:57<br>赞(0) 踩(0) | <div>翻唱哥</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13607500)<br><br>2013-06-08 11:57<br>赞(0) 踩(0) | <div>居然是我们高中毕业的。。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6532179)<br>在海外吃土中...<br>2013-06-07 21:29<br>赞(0) 踩(0) | <div>As Long As You Love MeJason Chen,陈以桐Jason,翻唱,好听,</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6532179)<br>在海外吃土中...<br>2013-06-07 21:29<br>赞(0) 踩(0) | <div>As Long As You Love Me<br>Jason Chen,陈以桐Jason,翻唱,好听,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13929663)<br><br>2013-06-02 20:30<br>赞(0) 踩(0) | <div>COOOOOOOL</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15369060)<br><br>2013-05-24 09:31<br>赞(0) 踩(0) | <div>翻唱不错。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7195010)<br><br>2013-05-20 15:43<br>赞(0) 踩(0) | <div>不膩</div> |
@@ -809,7 +809,7 @@ Jason Chen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15236386)<br><br>2013-05-18 12:06<br>赞(0) 踩(0) | <div>dfgdg</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15210061)<br>爱音乐爱生活<br>2013-05-13 21:32<br>赞(0) 踩(0) | <div>无可替代，大爱以桐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10624368)<br>the Sweetest...<br>2013-05-13 14:43<br>赞(0) 踩(0) | <div>翻唱的比原唱还好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15016268)<br>JAZZ  喜欢的和我欢<br>2013-05-12 01:20<br>赞(0) 踩(0) | <div>这辈子的最爱·~！没有你没有你的声音我活不了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15016268)<br>JAZZ  喜欢的和我欢<br>2013-05-12 01:20<br>赞(0) 踩(0) | <div>这辈子的最爱·<br>~！没有你没有你的声音我活不了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10295377)<br>生活因音乐而不同<br>2013-05-06 15:35<br>赞(0) 踩(0) | <div>很好听呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3614065)<br><br>2013-04-30 13:34<br>赞(0) 踩(0) | <div>好棒的声线~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14074636)<br>啦啦啦~~~<br>2013-04-25 14:54<br>赞(0) 踩(0) | <div>很厉害很好听啊！！！</div> |
@@ -891,7 +891,7 @@ Jason Chen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10509175)<br>我的高品质音乐，我的虾米<br>2012-09-07 22:43<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10497739)<br>守夜人<br>2012-09-04 19:38<br>赞(0) 踩(0) | <div>嘘！听就是了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10482190)<br><br>2012-09-04 14:14<br>赞(0) 踩(0) | <div>come back ，jason chen</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5121025)<br><br>2012-09-01 17:54<br>赞(0) 踩(0) | <div>反正是第一次听这个声音我就喜欢上了……陈以桐是我真正喜欢的第一个亚洲歌手。（以前哈韩神马的就当我是抽了吧……）好吧……我真是多情啊，喜欢上了当当不止，还圈了这么多后宫~~~~（捂脸&amp;gt;///&amp;lt;）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5121025)<br><br>2012-09-01 17:54<br>赞(0) 踩(0) | <div>反正是第一次听这个声音我就喜欢上了……陈以桐是我真正喜欢的第一个亚洲歌手。（以前哈韩神马的就当我是抽了吧……）<br>好吧……我真是多情啊，喜欢上了当当不止，还圈了这么多后宫~~~~（捂脸&amp;gt;///&amp;lt;）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10396406)<br><br>2012-08-29 00:44<br>赞(0) 踩(0) | <div>唱歌很好聽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10268051)<br><br>2012-08-26 18:15<br>赞(0) 踩(0) | <div>唱得很用功，我喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10341659)<br>dolphinyxc<br>2012-08-23 23:29<br>赞(0) 踩(0) | <div>没有办法的好听，听完cover就不想听原唱啦~~！</div> |
@@ -963,7 +963,7 @@ Jason Chen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7848577)<br><br>2012-05-06 20:00<br>赞(0) 踩(0) | <div>人帅声好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9083223)<br><br>2012-05-05 13:12<br>赞(0) 踩(0) | <div>好歌太多</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886346)<br>#  蒸気住民<br>2012-05-04 18:42<br>赞(0) 踩(0) | <div>Stereo Hearts 大爱！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886346)<br>#  蒸気住民<br>2012-05-04 18:42<br>赞(0) 踩(0) | <div>因为 Stereo Hearts 他的VER 大爱。所以认识了他。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1886346)<br>#  蒸気住民<br>2012-05-04 18:42<br>赞(0) 踩(0) | <div>因为 Stereo Hearts 他的VER 大爱。<br><br>所以认识了他。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9070180)<br><br>2012-05-04 00:41<br>赞(0) 踩(0) | <div>喜欢不需要理由</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9057143)<br><br>2012-05-03 16:46<br>赞(0) 踩(0) | <div>1直蛮喜欢他的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9023673)<br><br>2012-05-01 12:13<br>赞(0) 踩(0) | <div>确实不错</div> |
@@ -1228,7 +1228,7 @@ Jason Chen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5067498)<br><br>2011-07-30 09:40<br>赞(0) 踩(0) | <div>喜欢他的声音，让人很舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1191050)<br><br>2011-07-29 21:27<br>赞(0) 踩(0) | <div>台湾艺人  翻唱牛人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4871505)<br><br>2011-07-29 01:55<br>赞(0) 踩(0) | <div>简单的心情。。简单的歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2944625)<br><br>2011-07-27 15:49<br>赞(0) 踩(0) | <div>我是在YOUTUBE看到才知道他~Jason Chen唱得都很好聽</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2944625)<br><br>2011-07-27 15:49<br>赞(0) 踩(0) | <div>我是在YOUTUBE看到才知道他~<br>Jason Chen唱得都很好聽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3363615)<br><br>2011-07-26 12:26<br>赞(0) 踩(0) | <div>翻唱达人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5016589)<br><br>2011-07-25 23:43<br>赞(0) 踩(0) | <div>喜欢的没话说.. jason chen 翻唱的都很好听啊~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2706907)<br><br>2011-07-24 22:00<br>赞(0) 踩(0) | <div>.</div> |
@@ -1342,7 +1342,7 @@ Jason Chen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3268315)<br>脸谱<br>2011-03-26 01:17<br>赞(0) 踩(0) | <div>爱爱爱，爱你的声音。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3261457)<br>做好自己<br>2011-03-25 23:36<br>赞(0) 踩(0) | <div>声线不错~期待他自己的专辑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3261457)<br>做好自己<br>2011-03-25 23:29<br>赞(0) 踩(0) | <div>声线很棒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1145196)<br><br>2011-03-23 23:28<br>赞(0) 踩(0) | <div>这家伙是个天才，唱得这么好听，真的一点都不输原唱的我爱上你了~从没发现翻唱都好听到这种程度的·~never say never实在是翻的太有味了~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1145196)<br><br>2011-03-23 23:28<br>赞(0) 踩(0) | <div>这家伙是个天才，唱得这么好听，真的一点都不输原唱的<br>我爱上你了~从没发现翻唱都好听到这种程度的·~never say never实在是翻的太有味了~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1495255)<br>时间是炸弹<br>2011-03-22 12:40<br>赞(0) 踩(0) | <div>声音真不赖~~~是我喜欢的类型0·0</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1495255)<br>时间是炸弹<br>2011-03-22 12:40<br>赞(0) 踩(0) | <div>这么有实力 为什么不自己唱嘞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2224240)<br><br>2011-03-20 10:55<br>赞(0) 踩(0) | <div>感觉比原唱还好听~</div> |
@@ -1419,11 +1419,11 @@ Jason Chen
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/878711)<br><br>2010-12-13 21:39<br>赞(0) 踩(0) | <div><q><b>芥芥说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2162669)<br> <br>2010-12-11 13:30<br>赞(0) 踩(0) | <div>怎么下歌呢 我安装虾歌了 怎么老提醒我安装呢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/878711)<br><br>2010-12-12 11:46<br>赞(0) 踩(0) | <div>重启看看</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1714188)<br><br>2010-11-21 23:18<br>赞(0) 踩(0) | <div>为什么他的歌百度里面没有 也没有mp3可以下载 郁闷的很那么大个引擎 他这么火一人 竟然没有</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1714188)<br><br>2010-11-21 23:18<br>赞(0) 踩(0) | <div>为什么他的歌百度里面没有 也没有mp3可以下载 郁闷的很<br>那么大个引擎 他这么火一人 竟然没有</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/878711)<br><br>2010-12-08 15:38<br>赞(0) 踩(0) | <div>现在去听听把，已经上传了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1714188)<br><br>2011-01-02 01:46<br>赞(0) 踩(0) | <div><q><b>Hsia小超说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/665302)<br>咩～<br>2010-11-01 18:36<br>赞(0) 踩(0) | <div>求打包啊啊啊o(≧口≦)o</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/766248)<br>我是谁的他<br>2010-10-29 22:49<br>赞(0) 踩(0) | <div>喜歡他的那首just a dream跟他那個朋友合唱的，自己錄MV，音響設備也是自己弄，挺不錯的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/766248)<br>我是谁的他<br>2010-10-29 22:49<br>赞(0) 踩(0) | <div>喜歡他的那首just a dream<br>跟他那個朋友合唱的，自己錄MV，音響設備也是自己弄，挺不錯的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1714188)<br><br>2010-11-21 23:08<br>赞(0) 踩(0) | <div>我超级喜欢。。。今天一天我都沉迷于那首歌。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/766248)<br>我是谁的他<br>2010-11-22 00:46<br>赞(0) 踩(0) | <div><q><b>Swallow说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/878711)<br><br>2010-12-08 15:38<br>赞(0) 踩(0) | <div><q><b>adon.说：</b></q></div> |
@@ -1431,7 +1431,7 @@ Jason Chen
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1714188)<br><br>2011-01-02 01:47<br>赞(0) 踩(0) | <div><q><b>adon.说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/766248)<br>我是谁的他<br>2011-01-03 18:14<br>赞(0) 踩(0) | <div><q><b>Swallow说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121796)<br> <br>2010-10-28 00:52<br>赞(0) 踩(0) | <div>怎么发布歌曲啊·····</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/800738)<br><br>2010-10-17 22:50<br>赞(0) 踩(0) | <div>喜欢 喜欢 喜欢他的声音上传歌曲过来吧~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/800738)<br><br>2010-10-17 22:50<br>赞(0) 踩(0) | <div>喜欢 喜欢 喜欢他的声音<br>上传歌曲过来吧~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1012585)<br>等待风 等待你<br>2010-10-16 20:25<br>赞(0) 踩(0) | <div>他是哪国人呢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/607512)<br> <br>2010-10-17 16:46<br>赞(0) 踩(0) | <div>台湾的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1012585)<br>等待风 等待你<br>2010-10-17 22:16<br>赞(0) 踩(0) | <div><q><b>林特莱斯说：</b></q></div> |

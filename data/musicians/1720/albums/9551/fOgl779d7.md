@@ -60,8 +60,8 @@ DI...DA..DI....DA <br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283272798)<br><br>2018-10-23 10:22<br>赞(0) 踩(0) | <div>金海心是用❤唱歌的  很好听  虽然不喜欢爱情这种题材的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3675153)<br><br>2018-04-01 12:36<br>赞(0) 踩(0) | <div>真的喜欢 说唱也是很潮啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3806832)<br>愿力无尽。<br>2018-01-27 01:15<br>赞(2) 踩(0) | <div>这么多年过去，我也依旧没忘记这些旋律，看着歌词张口半个音都不差也跟着唱了下来。</div> |
@@ -111,12 +111,12 @@ DI...DA..DI....DA <br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6596699)<br><br>2013-09-29 20:04<br>赞(0) 踩(0) | <div>一直喜欢的声音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7945119)<br><br>2013-03-03 16:00<br>赞(0) 踩(0) | <div>爱了很多年的歌。现在还在古老的MP3里面。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2012-12-27 18:11<br>赞(0) 踩(0) | <div>好久的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3960648)<br><br>2012-07-16 00:42<br>赞(0) 踩(0) | <div>从前你总是喜欢向街口张望以为那代表对未来有个美好的期望相信爱情浪漫而又强壮却没发现在我们的对岸在不同的远方可是你说过我们一定会相濡以沫把这当信念握在坚强的生活终于要面对你只是人生一个段落等待成长后这就像一阵风吹过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3960648)<br><br>2012-07-16 00:42<br>赞(0) 踩(0) | <div>从前你总是喜欢向街口张望<br>以为那代表对未来有个美好的期望<br>相信爱情浪漫而又强壮<br>却没发现在我们的对岸在不同的远方<br>可是你说过我们一定会相濡以沫<br>把这当信念握在坚强的生活<br>终于要面对你只是人生一个段落<br>等待成长后这就像一阵风吹过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2136976)<br><br>2012-06-04 13:02<br>赞(0) 踩(0) | <div>百听不厌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8963455)<br><br>2012-04-23 11:42<br>赞(0) 踩(0) | <div>喜欢这首歌7年了要不是今天想起听金海心都快把它给忘了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5229520)<br>无<br>2012-03-04 21:23<br>赞(0) 踩(0) | <div>以前，电视还能看见你给我唱这首歌。现在你在哪里。我想你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6187869)<br><br>2012-02-01 17:13<br>赞(0) 踩(0) | <div>“等到成长后，它就像一阵风经过。”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6647424)<br><br>2012-01-28 01:35<br>赞(1) 踩(0) | <div>哦 正好正好 谁家不只说着是种解脱你没发觉我也在期待一个明媚的结果哦 不想不想离开时一开口你要说什么你的微笑都会跟着昨天一起凋落</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6647424)<br><br>2012-01-28 01:35<br>赞(1) 踩(0) | <div>哦 正好正好 谁家不只说着是种解脱<br>你没发觉我也在期待一个明媚的结果<br>哦 不想不想离开时一开口你要说什么<br>你的微笑都会跟着昨天一起凋落</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2834718)<br><br>2011-10-18 14:24<br>赞(0) 踩(0) | <div>喏，你听听，怎么样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3915920)<br><br>2011-08-17 13:27<br>赞(0) 踩(0) | <div>迷幻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1860756)<br>一点我就燃<br>2011-04-28 10:47<br>赞(0) 踩(0) | <div>非常好</div> |

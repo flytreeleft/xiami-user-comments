@@ -62,10 +62,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37103394)<br>这个人很懒<br>2020-04-17 01:33<br>赞(1) 踩(0) | <div>2020417我才知道这首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347254273)<br>暗夜提灯，臻艺术之境<br>2020-04-12 09:50<br>赞(0) 踩(0) | <div>回听喜欢的歌要留下记号☁️～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347254273)<br>暗夜提灯，臻艺术之境<br>2020-04-12 09:50<br>赞(0) 踩(0) | <div>回听喜欢的歌要留下记号<br>☁️～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338786029)<br>我还没想好要写什么...<br>2020-03-10 11:10<br>赞(0) 踩(0) | <div>只有我才懂得你珍贵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13651441)<br>康康<br>2020-03-09 04:39<br>赞(0) 踩(0) | <div>曾经自己不懂得你的珍贵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378727382)<br>哈哈哈<br>2020-01-04 23:40<br>赞(1) 踩(0) | <div>不插电真tm好听</div> |
@@ -84,7 +84,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26361906)<br>绝口不提，向平白倒去。<br>2018-07-17 15:07<br>赞(0) 踩(0) | <div>不好听，走了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272831509)<br><br>2018-06-13 16:43<br>赞(0) 踩(0) | <div>⭐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367274077)<br><br>2018-05-15 20:13<br>赞(0) 踩(0) | <div>不错嗨嗨</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796416)<br>我才没有听郭德纲<br>2018-05-10 10:51<br>赞(2) 踩(0) | <div>真想为你起舞。你知道吗。想在婚礼上与你跳一支舞 梦醉了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796416)<br>我才没有听郭德纲<br>2018-05-10 10:51<br>赞(2) 踩(0) | <div>真想为你起舞。你知道吗。<br>想在婚礼上与你跳一支舞 梦醉了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43467269)<br>一念净心，花开遍世界。<br>2018-05-02 08:08<br>赞(1) 踩(0) | <div>音乐节现场全场合唱，莫名的要流泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166587948)<br><br>2018-02-04 16:17<br>赞(0) 踩(0) | <div>这一版也太好听了吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1665678)<br>我若青帝。<br>2017-12-28 15:23<br>赞(0) 踩(0) | <div>真想某天有个人可以让我对他唱这首歌&amp;hellip;</div> |
@@ -127,7 +127,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90720490)<br>未填写<br>2016-04-18 22:23<br>赞(0) 踩(0) | <div>之前听这首歌都是一种说不出来的喜欢 后来知道了歌词的故事 听着就so sad</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140739390)<br><br>2016-04-13 16:22<br>赞(2) 踩(0) | <div>我还是想她。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126674252)<br><br>2016-03-27 08:58<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40861544)<br>我还没想好要写什么...<br>2016-03-03 21:34<br>赞(2) 踩(0) | <div>万花筒点缀你炫目的瞳孔湛蓝天空会因为你而出现彩虹<img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40861544)<br>我还没想好要写什么...<br>2016-03-03 21:34<br>赞(2) 踩(0) | <div>万花筒点缀你炫目的瞳孔<br>湛蓝天空会因为你而出现彩虹<br><img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58850778)<br>：）<br>2016-02-25 06:22<br>赞(0) 踩(0) | <div>是你吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32752028)<br><br>2016-02-18 08:51<br>赞(1) 踩(0) | <div>多听歌少装逼 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34345706)<br>这家伙死后变成了一条美人...<br>2017-01-02 02:10<br>赞(0) 踩(0) | <div>听多了就学会装逼了</div> |
@@ -172,7 +172,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32480953)<br>爱总是让人哭，让人觉得不<br>2014-02-07 21:12<br>赞(30) 踩(0) | <div>我以为你会带我走，却原来都是我以为，只剩下你给我的这些回忆，我以为这首歌唱的就是我们的未来，却原来都是我以为，让我为你唱首歌，best wish for you！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9899364)<br> <br>2014-09-05 15:44<br>赞(0) 踩(0) | <div>曾经我也和你一样 如今一个人听这首歌 这首歌不光是为我们而唱 也是为自己而唱 祝你幸福</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16922242)<br><br>2016-01-09 20:04<br>赞(0) 踩(0) | <div>再见 莎菲娜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4183717)<br>你，抬起头，感觉那月光<br>2014-01-20 22:10<br>赞(0) 踩(0) | <div>万花筒点缀你炫目的瞳孔 湛蓝天空会因为你而出现彩虹 五彩斑斓的世界 流连得以太久只有我才懂得你珍贵</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4183717)<br>你，抬起头，感觉那月光<br>2014-01-20 22:10<br>赞(0) 踩(0) | <div>万花筒点缀你炫目的瞳孔 湛蓝天空会因为你而出现彩虹 五彩斑斓的世界 流连得以太久<br>只有我才懂得你珍贵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18062536)<br><br>2014-01-18 03:21<br>赞(0) 踩(0) | <div>这歌真心不错，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6865761)<br>暂无签名~<br>2014-01-06 14:29<br>赞(0) 踩(0) | <div>迷笛主题曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4399370)<br>1408<br>2013-11-13 16:31<br>赞(0) 踩(0) | <div>前奏慢慢慢慢慢慢</div> |
@@ -192,7 +192,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11517047)<br>我还没想好要写什么...<br>2013-03-14 21:13<br>赞(0) 踩(0) | <div>睡醒就听到这首歌，真幸福。 想念我的莎菲娜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4955518)<br><br>2013-03-10 19:02<br>赞(0) 踩(0) | <div>我想【为你唱首歌】——“一段危险的旅途结束， 我想和你平静地生活，去看看天边日落。或许幸福就是紧握的手，甜蜜的笑，哭泣时的拥抱……”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5583371)<br><br>2013-01-27 12:55<br>赞(0) 踩(0) | <div>test</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5583371)<br><br>2013-01-27 12:48<br>赞(1) 踩(0) | <div>&amp;quot;莎菲娜 只有我才懂得你珍贵&amp;quot; - 《让我为你唱首歌》-痛仰乐队 /关于这首歌有个小故事。莎菲娜，据说是陪伴了主唱8年的前女友。然后呢？也许你会问。然后，她在主唱终于获得成功以后，离开了他。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5583371)<br><br>2013-01-27 12:48<br>赞(1) 踩(0) | <div>&amp;quot;莎菲娜 只有我才懂得你珍贵&amp;quot; - 《让我为你唱首歌》-痛仰乐队 /<br>关于这首歌有个小故事。莎菲娜，据说是陪伴了主唱8年的前女友。然后呢？也许你会问。然后，她在主唱终于获得成功以后，离开了他。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12346719)<br><br>2013-01-10 19:03<br>赞(0) 踩(0) | <div>ok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11850451)<br><br>2012-12-09 01:54<br>赞(0) 踩(0) | <div>｀｀｀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6387777)<br><br>2012-11-10 20:09<br>赞(0) 踩(0) | <div>儿子喜欢听</div> |
@@ -234,10 +234,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1804520)<br><br>2012-03-13 20:50<br>赞(0) 踩(0) | <div>哭泣时的拥抱、、、、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2114803)<br><br>2012-03-03 12:22<br>赞(0) 踩(0) | <div>春天了，让我们一起唱一首爱情的歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8229773)<br><br>2012-02-29 10:53<br>赞(0) 踩(0) | <div>不插电 一段危险的旅途结束。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2012-02-19 01:00<br>赞(0) 踩(0) | <div>一段危险地旅途结束/我想和你平静地生活/去看看天边日落/或许幸福就是紧握的手莎菲娜 莎菲娜/只有我才懂得你珍贵最美的事物往往是平淡，。陈绮贞唱离开你是旅行的意义，离开你只是为了不见你时思念，再见你时觉得新鲜。而最结实的爱往往无需如此。每天在一起，看日出日落，十指紧扣，好像什么事情更值得留恋。荡气回肠是为了最美的平凡。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2012-02-19 01:00<br>赞(0) 踩(0) | <div>一段危险地旅途结束/我想和你平静地生活/去看看天边日落/或许幸福就是紧握的手<br>莎菲娜 莎菲娜/只有我才懂得你珍贵<br><br>最美的事物往往是平淡，。陈绮贞唱离开你是旅行的意义，离开你只是为了不见你时思念，再见你时觉得新鲜。而最结实的爱往往无需如此。每天在一起，看日出日落，十指紧扣，好像什么事情更值得留恋。荡气回肠是为了最美的平凡。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2136594)<br>从此仇深似海<br>2012-02-18 19:02<br>赞(0) 踩(0) | <div>平静地生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6401165)<br><br>2012-02-04 14:34<br>赞(0) 踩(0) | <div>送给进城务工的好基友@Wonderlly  我要为你唱首歌，不要在城市里迷失了自我，只有我才懂得你珍贵。照顾好自己，好好翻阅《农民进城防骗手册》。加油！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5936843)<br><br>2012-01-11 20:11<br>赞(0) 踩(0) | <div>一段危险地旅途结束我想和你平静地生活去看看天边日落或许幸福就是紧握的手甜蜜的笑哭泣时的拥抱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5936843)<br><br>2012-01-11 20:11<br>赞(0) 踩(0) | <div>一段危险地旅途结束<br>我想和你平静地生活<br>去看看天边日落<br>或许幸福就是紧握的手<br>甜蜜的笑<br>哭泣时的拥抱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4401124)<br><br>2012-01-08 14:42<br>赞(0) 踩(0) | <div>最喜欢这个版本</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5122444)<br><br>2011-12-03 12:37<br>赞(0) 踩(0) | <div>只有我懂得你最珍贵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6961960)<br><br>2011-11-29 23:49<br>赞(0) 踩(0) | <div>@小先疯</div> |
@@ -246,7 +246,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5892716)<br>公众号：poorjiax...<br>2011-11-09 18:25<br>赞(0) 踩(0) | <div>为你唱首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1652651)<br><br>2011-11-09 00:34<br>赞(0) 踩(0) | <div>甜蜜的笑 哭泣时的拥抱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4881928)<br>我还没想好要写什么...<br>2011-09-29 21:08<br>赞(0) 踩(0) | <div>就让我为你，唱首歌。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1564966)<br><br>2011-05-26 21:41<br>赞(0) 踩(0) | <div>最近最爱的一首痛仰的。多美的歌词，多动听的旋律。我的那位记得要唱歌我听哦。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1564966)<br><br>2011-05-26 21:41<br>赞(0) 踩(0) | <div>最近最爱的一首痛仰的。多美的歌词，多动听的旋律。<br>我的那位记得要唱歌我听哦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1652651)<br><br>2011-05-08 10:59<br>赞(0) 踩(0) | <div>#双音符# 痛苦的信仰，是在用一种精神在歌唱。看过现场的人，都能感受到那股力量。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3567124)<br><br>2011-04-11 16:53<br>赞(0) 踩(0) | <div>主音自由的聲音，清新的旋律，個性的歌詞，就是爲什麽是現場版的。。。。。。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/867255)<br><br>2011-02-27 18:19<br>赞(0) 踩(0) | <div>给王爷写的咩哈哈</div> |

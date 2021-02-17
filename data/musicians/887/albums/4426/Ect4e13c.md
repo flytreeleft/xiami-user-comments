@@ -46,14 +46,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347971209)<br><br>2018-02-06 14:35<br>赞(3) 踩(0) | <div>还是高中的时候听得这个专辑，当时感觉歌词写的真是太好了，而且旋律也是喜欢的类型，加上汪峰沙哑的嗓音，然后就不停的循环循环。现在人将近中年，时间少了，走了孩子跟前再听歌了，但是有时间回来听一下汪峰以前的老歌，忽然发现现在才真的是有感触！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337604566)<br>I do it for ...<br>2017-12-14 00:13<br>赞(4) 踩(0) | <div>现实的写照，作为一个父亲，多希望孩子留在小学前的时期，小学后就开始过度的教育，毕业后开始为未来拼搏；人这一辈子，活着不易；但活着就好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8866833)<br>继续走，继续失去。<br>2017-10-27 23:34<br>赞(0) 踩(0) | <div>我看见父母大声地吵架，我看见朋友死在街上，好喜欢在长安街上闲逛的正在长大的汪峰❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50596628)<br>牛肉面、黄河谣、失业、<br>2016-05-20 02:30<br>赞(0) 踩(0) | <div>汪峰刚出道的专辑真挺棒的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58925128)<br>梦想在什么地方，是那么的...<br>2015-10-16 00:04<br>赞(1) 踩(0) | <div>牛逼牛逼牛逼牛逼牛逼牛逼牛逼牛逼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2014-12-01 20:32<br>赞(0) 踩(0) | <div>我变的忧郁而且特别自闭•••我很这一切我看不到希望ری哎...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2014-12-01 20:32<br>赞(0) 踩(0) | <div>我变的忧郁而且特别自闭•••<br>我很这一切我看不到希望ری<br>哎...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15404127)<br>暂无签名~<br>2014-09-18 21:04<br>赞(0) 踩(0) | <div>不喜欢现在的汪峰，喜欢的都是他曾经的歌。这么多年，却依旧没有长大。 #现在我已经不再年轻 岁月夺走了我许多东西 爱情它早已离我而去 梦想也变得破碎支离#</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134848328)<br>一起高呼Rock'n r...<br>2016-06-11 21:09<br>赞(0) 踩(0) | <div>不要盲目随流</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134848328)<br>一起高呼Rock'n r...<br>2016-06-11 21:09<br>赞(0) 踩(0) | <div>不要盲目随流</div> |
@@ -70,11 +70,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2662685)<br><br>2013-06-25 21:26<br>赞(0) 踩(0) | <div>如今这样的现实已经摆在每个年轻人的面前。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1949403)<br><br>2013-06-21 09:08<br>赞(0) 踩(0) | <div>嗯，这首歌写的特别现实</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/517363)<br><br>2013-06-13 19:10<br>赞(0) 踩(0) | <div>「251」长大了是失去了很多单纯的快乐，有很多很多的无奈。可这歌词也太灰暗，没有希望。实际上是，怎么的也还有简单的快乐。譬如说好听的歌曲，好看的电影，还有书，还有朋友呐。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:33<br>赞(0) 踩(0) | <div>可我已经不再有反抗的力量难道这就是我注定的命运</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:33<br>赞(0) 踩(0) | <div>可我已经不再有反抗的力量<br>难道这就是我注定的命运</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5560868)<br><br>2013-03-28 21:52<br>赞(0) 踩(0) | <div>我在长大</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6673163)<br><br>2013-03-28 16:55<br>赞(1) 踩(0) | <div>就这样撕裂着长大着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2647279)<br><br>2013-03-14 22:27<br>赞(0) 踩(0) | <div>06年初刚毕业第一份工作不顺心的时候无意的时候正听到了这首歌，正是我当时的心声</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8593158)<br><br>2013-02-02 07:15<br>赞(0) 踩(0) | <div>憋屎推荐 -- 后来我慢慢的爱上了大街不知疲倦的整夜游荡 像块石头一样滚来滚去可是找不到家的方向我在长大 / 我在长大 / 我在长大 / 我在长大</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8593158)<br><br>2013-02-02 07:15<br>赞(0) 踩(0) | <div>憋屎推荐 -- 后来我慢慢的爱上了大街<br>不知疲倦的整夜游荡 像块石头一样滚来滚去<br>可是找不到家的方向<br>我在长大 / 我在长大 / 我在长大 / 我在长大</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2323009)<br>Walking man<br>2012-12-15 10:52<br>赞(0) 踩(0) | <div>无敌歌神</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5695159)<br><br>2012-12-15 08:12<br>赞(0) 踩(0) | <div>很適合我此刻的心景：因為我也經歷了；因為我也在長大，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5695159)<br><br>2012-11-11 19:15<br>赞(0) 踩(0) | <div>汪峰的歌很有感覺--一種流浪者滄桑的感覺。</div> |

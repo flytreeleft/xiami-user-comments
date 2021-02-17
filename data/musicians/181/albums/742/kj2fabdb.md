@@ -12,30 +12,27 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348411959)<br><br>2020-06-15 00:10<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298780853)<br>不以物喜，不以己悲<br>2020-06-06 07:45<br>赞(0) 踩(0) | <div>太好听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286160371)<br><br>2020-05-27 14:03<br>赞(0) 踩(0) | <div>明心见性，悟道得诸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379278215)<br>有了音乐的生活，即使苟且...<br>2020-05-19 07:43<br>赞(0) 踩(0) | <div>总觉得没有吟唱部分会更好，悟在内心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421336987)<br><br>2020-05-18 19:12<br>赞(52) 踩(0) | <div>Life is often compared to a marathon, but I think it is more like being a sprinter; long stretches of hard work punctuated by brief moments in which we are given the opportunity to perform at our best.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2526196)<br><br>2020-04-28 02:01<br>赞(0) 踩(0) | <div>great</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409880212)<br><br>2020-03-25 18:17<br>赞(5) 踩(0) | <div>随缘即心安，面对生活试着换个角度去对待，心累时，换个角度看世界；郁闷时，换个环境找快乐；烦恼时，换个思维去排解。 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409880212)<br><br>2020-03-25 18:17<br>赞(5) 踩(0) | <div>随缘即心安，面对生活试着换个角度去对待，心累时，换个角度看世界；<br>郁闷时，换个环境找快乐；烦恼时，换个思维去排解。 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377341198)<br><br>2020-02-17 11:42<br>赞(2) 踩(0) | <div>就是莫明的喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435123957)<br><br>2020-01-24 20:03<br>赞(2) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7151428)<br>暖暖的～～<br>2019-12-24 09:41<br>赞(3) 踩(0) | <div>尘埃多染菩提树，难脱如来五指中。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365967837)<br><br>2019-12-03 06:49<br>赞(5) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290339969)<br><br>2019-10-29 04:58<br>赞(9) 踩(0) | <div>“菩提本无树，明镜亦非台，本来无一物，何处惹尘埃？”躲在一朵花的蕊中，聆听月中的鸟鸣，采撷枝上的繁星；看山林在脚下奔走，空在云外飞翔。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343766838)<br><br>2019-10-22 04:37<br>赞(5) 踩(0) | <div>南无阿弥陀佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260082070)<br><br>2019-09-06 19:53<br>赞(68) 踩(0) | <div>《菩提偈》截句（唐）惠能高僧身是菩提树心如明镜台明镜本清净何处染尘埃</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311574407)<br>書似青山常亂叠 燈如紅豆...<br>2019-09-06 21:45<br>赞(0) 踩(0) | <div>前兩句是神秀大師的偈語  第四句纔是六祖惠能的偈語身是菩提樹       菩提本無樹心如明鏡臺       明鏡亦非臺時時懃拂拭       本來無一物勿使惹塵埃       何處惹塵埃</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311574407)<br>書似青山常亂叠 燈如紅豆...<br>2019-09-06 21:49<br>赞(0) 踩(0) | <div>前兩句是神秀大師的偈語  第四句纔是六祖惠能的偈語身是菩提樹       菩提本無樹心如明鏡臺       明鏡亦非臺時時懃拂拭       本來無一物勿使惹塵埃       何處惹塵埃神秀大師的偈語是體用 惠能大師的偈語是心用 境界就是不一樣 所以惠能就做了六祖</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260082070)<br><br>2019-09-06 19:53<br>赞(68) 踩(0) | <div>《菩提偈》截句<br>（唐）惠能高僧<br><br>身是菩提树<br>心如明镜台<br>明镜本清净<br>何处染尘埃</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311574407)<br>書似青山常亂叠 燈如紅豆...<br>2019-09-06 21:45<br>赞(0) 踩(0) | <div>前兩句是神秀大師的偈語  第四句纔是六祖惠能的偈語<br>身是菩提樹       菩提本無樹<br>心如明鏡臺       明鏡亦非臺<br>時時懃拂拭       本來無一物<br>勿使惹塵埃       何處惹塵埃</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311574407)<br>書似青山常亂叠 燈如紅豆...<br>2019-09-06 21:49<br>赞(0) 踩(0) | <div>前兩句是神秀大師的偈語  第四句纔是六祖惠能的偈語<br>身是菩提樹       菩提本無樹<br>心如明鏡臺       明鏡亦非臺<br>時時懃拂拭       本來無一物<br>勿使惹塵埃       何處惹塵埃<br>神秀大師的偈語是體用 惠能大師的偈語是心用 境界就是不一樣 所以惠能就做了六祖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21339377)<br><br>2019-09-04 16:55<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/e44d95099808df6f9a2b8f4961447063.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336107187)<br><br>2019-09-03 21:21<br>赞(2) 踩(0) | <div>悟亦自省、自学</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13479990)<br>一杯咖啡一首音乐一段文字<br>2019-08-29 21:19<br>赞(46) 踩(0) | <div>人生，若得一知己，足以慰红尘……</div> |
@@ -44,10 +41,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426787521)<br>掬水月在手，爱花香满衣。<br>2019-08-03 18:39<br>赞(6) 踩(0) | <div>学会让自己安静，放一曲舒缓柔 和的音乐，闭上眼睛，闻闻茶香，这便是最好休息</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184886589)<br><br>2019-07-28 16:12<br>赞(5) 踩(0) | <div>听着曲子，我不由自主地哭了。走着走着就迷失了方向，邓先生的曲子抚平了我受伤的心，也让我释放了蓄积已久的负面情绪。感谢您创作出了如此澄澈而有力量的作品！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254930445)<br><br>2019-07-25 10:32<br>赞(5) 踩(0) | <div>法喜充满！南无阿弥陀佛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2019-05-23 15:38<br>赞(5) 踩(0) | <div>菩提本无树明镜亦非台本来无一物何处惹尘埃··········</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2019-05-23 15:38<br>赞(5) 踩(0) | <div>菩提本无树<br>明镜亦非台<br>本来无一物<br>何处惹尘埃<br>··········</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2019-05-23 15:35<br>赞(5) 踩(0) | <div>从源头觉醒   爱者已归来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2019-05-23 15:34<br>赞(4) 踩(0) | <div>愿我们觉醒自在  自性圆满  当下回归感恩  感恩  感恩一切</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32807188)<br> <br>2019-05-16 03:42<br>赞(2) 踩(0) | <div>在情中修法如火灼热一修一得去我执，慎独，谨言慎行，得良交[耶][呲牙] <img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"> <img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"> <img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2019-05-23 15:34<br>赞(4) 踩(0) | <div>愿我们觉醒自在  自性圆满  当下回归<br>感恩  感恩  感恩一切</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32807188)<br> <br>2019-05-16 03:42<br>赞(2) 踩(0) | <div>在情中修法<br><br>如火灼热<br><br>一修一得<br><br>去我执，慎独，谨言慎行，得良交[耶][呲牙] <img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"> <img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"> <img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21631109)<br>天地人一体  人为本精气...<br>2019-05-11 01:12<br>赞(4) 踩(0) | <div>空性真心！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7363370)<br><br>2019-05-05 20:55<br>赞(2) 踩(0) | <div>晨鐘暮鼓 青燈古佛 心向慕之</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5895066)<br>什么叫做救自己呢？就是忠...<br>2019-05-05 12:13<br>赞(2) 踩(0) | <div>空空看</div> |
@@ -58,13 +55,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379916901)<br>音乐是我生命的一部分<br>2019-03-26 00:13<br>赞(2) 踩(0) | <div>静静的悟让我心灵平静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370012524)<br><br>2019-02-23 00:26<br>赞(1) 踩(0) | <div>让人能静下来曲子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370012524)<br><br>2019-02-20 01:47<br>赞(2) 踩(0) | <div>听的人心可以随着音乐起伏慢慢静下来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355934942)<br><br>2019-02-19 23:35<br>赞(4) 踩(0) | <div>菩提本无树，明镜亦非台本来无一物，何处惹尘埃</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355934942)<br><br>2019-02-19 23:35<br>赞(4) 踩(0) | <div>菩提本无树，明镜亦非台<br>本来无一物，何处惹尘埃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350631772)<br><br>2019-01-13 09:27<br>赞(1) 踩(0) | <div>“好了”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409328818)<br>我还没想好要写什么...<br>2019-01-04 11:30<br>赞(5) 踩(0) | <div>进了虾米才发现原来我更喜欢纯音乐！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214876161)<br>江水风景美如画，只是旧人...<br>2018-12-29 11:20<br>赞(5) 踩(0) | <div>诸位，千万别执着于空，古德说宁愿执有不可执空，到头来还有点作为。这只是惠能开悟一半的偈语，后面大悟后讲的是有。真空生妙有。要学会感受缘起性空，生起妙有。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214876161)<br>江水风景美如画，只是旧人...<br>2018-12-29 11:20<br>赞(5) 踩(0) | <div>诸位，千万别执着于空，古德说宁愿执有不可执空，到头来还有点作为。这只是惠能开悟一半的偈语，后面大悟后讲的是有。真空生妙有。<br>要学会感受缘起性空，生起妙有。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281978875)<br><br>2018-12-24 17:36<br>赞(5) 踩(0) | <div>悟      静         空       色          空        静        空。。。。。。。。。。。。。。。。。。。。。。。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345396884)<br><br>2018-10-28 10:02<br>赞(2) 踩(0) | <div>师兄说的对</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334995391)<br>天心月圆<br>2018-10-19 14:51<br>赞(4) 踩(0) | <div>菩提本无树明镜亦非台本来无一物何处惹尘埃</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334995391)<br>天心月圆<br>2018-10-19 14:51<br>赞(4) 踩(0) | <div>菩提本无树<br>明镜亦非台<br>本来无一物<br>何处惹尘埃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4792296)<br>我还没想好要写什么...<br>2018-09-29 05:55<br>赞(2) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5445383)<br>我还没想好要写什么...<br>2018-09-24 17:25<br>赞(2) 踩(0) | <div>中秋索道夜上苏仙岭：松际全玉镜，百昆协曲叮。红尘上仙顶，醉把雄诗吟！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378165768)<br>泡影，烟云，看淡，放下。<br>2018-08-31 22:00<br>赞(3) 踩(0) | <div>这是好音乐，静听吧！</div> |
@@ -83,18 +80,18 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351044128)<br><br>2018-03-19 09:38<br>赞(2) 踩(0) | <div>静 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348794479)<br>哈哈哈<br>2018-03-15 07:06<br>赞(14) 踩(0) | <div>悟了就是明了，明了就是悟了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311574407)<br>書似青山常亂叠 燈如紅豆...<br>2018-09-29 09:03<br>赞(0) 踩(0) | <div>做到了 纔是眞的明白 知-道 悟-道 做-到 就是明白</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-03-09 14:25<br>赞(198) 踩(0) | <div>生活本身不一定是修行现在有一种流行的说法：生活即修行，可能很多人是误会了，以为过生活就是在修行。其实不然，举例子说吧，你经历过悲欢离合，这不是修行，只是经历；如果你在那悲欢离合间体认无常、缘起、因果，这是修行。生病，本身不是修行，籍由生病而认识到生命俱来的脆弱、忧苦，由此生起出离心，或推己及人，由此生起悲悯之心，这是修行。所以说，生活本身不一定是修行，但如果你能把生命经验，顺境、逆境，是苦、是乐，带着一份明白去接纳自己，体悟他人&amp;hellip;&amp;hellip;这是修行！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-03-09 14:25<br>赞(198) 踩(0) | <div>生活本身不一定是修行<br>现在有一种流行的说法：<br>生活即修行，<br>可能很多人是误会了，<br>以为过生活就是在修行。<br>其实不然，<br>举例子说吧，<br>你经历过悲欢离合，<br>这不是修行，只是经历；<br>如果你在那悲欢离合间<br>体认无常、缘起、因果，这是修行。<br>生病，本身不是修行，<br>籍由生病而认识到生命俱来的脆弱、忧苦，<br>由此生起出离心，<br>或推己及人，由此生起悲悯之心，<br>这是修行。<br>所以说，<br>生活本身不一定是修行，<br>但如果你能把生命经验，顺境、逆境，是苦、是乐，<br>带着一份明白去接纳自己，体悟他人&amp;hellip;&amp;hellip;<br>这是修行！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332626522)<br>人生就是一场修行<br>2018-04-13 03:44<br>赞(0) 踩(0) | <div>透彻！生活中能够时时保持一颗觉察之心，就是觉悟，觉悟就是修行。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349856485)<br><br>2018-05-01 07:13<br>赞(0) 踩(0) | <div>写得好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324885854)<br><br>2018-05-13 08:49<br>赞(0) 踩(0) | <div>其实 生活就是一种修行！理解你的意思，只不过你的&amp;ldquo;生活&amp;rdquo;是一种相对狭义的&amp;ldquo;生活&amp;rdquo;。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435161920)<br><br>2020-07-05 19:02<br>赞(0) 踩(0) | <div>高人高见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-03-09 10:28<br>赞(4) 踩(0) | <div>@幸福每一天 很高兴能认识你，能在此相遇相信都是最好的安排❤️！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-03-09 10:27<br>赞(5) 踩(0) | <div>@幸福每一天 很高兴能认识你，能在此相遇相信都是最好的安排❤️！！！@幸福每一天 很高兴能认识你，能在此相遇相信都是最好的安排❤️！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-03-05 17:56<br>赞(24) 踩(0) | <div>每个人都是自己人生的主角，关注好自己，把所有的视线拉回到自己的中心。当自己内心充满爱与光、善良与慈悲、耐心与勇敢，我们就会自然的把内在这种美好的品质散发出去滋养身边的人，这就是爱的传递。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-03-05 15:12<br>赞(3) 踩(0) | <div>觉醒中修行照顾心悦[爱心]觉醒中修行照顾心悦[爱心]觉醒中修行照顾心悦[爱心]</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-03-09 10:27<br>赞(5) 踩(0) | <div>@幸福每一天 很高兴能认识你，能在此相遇相信都是最好的安排❤️！！！<br><br>@幸福每一天 很高兴能认识你，能在此相遇相信都是最好的安排❤️！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-03-05 17:56<br>赞(24) 踩(0) | <div>每个人都是自己人生的主角，关注好自己，把所有的视线拉回到自己的中心。<br>当自己内心充满爱与光、善良与慈悲、耐心与勇敢，我们就会自然的把内在这种美好的品质散发出去滋养身边的人，这就是爱的传递。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-03-05 15:12<br>赞(3) 踩(0) | <div>觉醒中修行照顾心悦[爱心]<br>觉醒中修行照顾心悦[爱心]<br>觉醒中修行照顾心悦[爱心]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-03-05 13:27<br>赞(10) 踩(0) | <div>我非常喜欢的一种精神是：虽然我们没有救世的可能，但我们必须有一颗救世的心；虽然我们没有实现神性的可能，但我们必须有一颗向往神性的心。有了这种向往，我们才会一天比一天过得更好一点，一天比一天做得更多一点，一天比一天变得更崇高一点。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336299694)<br>我们一直都在离别中：和爱...<br>2018-03-01 23:13<br>赞(5) 踩(0) | <div>我知道一切都会过去的，我知道黎明终会来临的！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54534207)<br>再见，感谢虾米音乐深夜的...<br>2018-02-23 21:08<br>赞(5) 踩(0) | <div>悟不出天如何缺地如何老参不破情为何物魂归何处</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54534207)<br>再见，感谢虾米音乐深夜的...<br>2018-02-23 21:08<br>赞(5) 踩(0) | <div>悟不出天如何缺<br>地如何老<br>参不破情为何物<br>魂归何处</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301947385)<br>清明不语  <br>2018-02-06 20:21<br>赞(3) 踩(0) | <div>非亲身经世历事不得了悟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340974651)<br><br>2018-01-02 11:47<br>赞(2) 踩(0) | <div>什么意思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39216389)<br>暂无签名~<br>2017-12-29 17:27<br>赞(5) 踩(0) | <div>我觉得人声好听啊.挺有感觉的，喜欢</div> |
@@ -172,4 +169,4 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2224087)<br><br>2011-12-10 20:44<br>赞(0) 踩(0) | <div>美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3733996)<br><br>2011-11-08 21:08<br>赞(1) 踩(0) | <div>生活的旋律，淡淡流水</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/449459)<br><br>2011-10-31 13:43<br>赞(1) 踩(0) | <div>本来无一物，何处惹尘埃...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2011-03-27 23:18<br>赞(1) 踩(0) | <div>菩提本无树，明镜亦非台，本来无一物，何处惹尘埃？躲在一朵花的蕊中，聆听月中的鸟鸣，采撷枝上的繁星；看山林在脚下奔走，空在云外飞翔。红尘中的生命演绎着天堂的宁静，这般的空灵，这觉悟的契机，皆拜清风！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2011-03-27 23:18<br>赞(1) 踩(0) | <div>菩提本无树，明镜亦非台，本来无一物，何处惹尘埃？<br><br>躲在一朵花的蕊中，聆听月中的鸟鸣，采撷枝上的繁星；看山林在脚下奔走，空在云外飞翔。红尘中的生命演绎着天堂的宁静，这般的空灵，这觉悟的契机，皆拜清风！</div> |

@@ -58,8 +58,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92341996)<br><br>2020-06-22 08:27<br>赞(0) 踩(0) | <div>2020.年6月21日我用这首歌完成了我人生中最难忘也是最重要的婚礼仪式，谢谢品冠的歌曲，之前品冠演唱会我都会一个人去观看，记得2017上海首个演唱会品冠是打折石膏上舞台演唱的，2018演唱会一直唱到将近11点，将来我会带着我老婆一起观看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234957399)<br><br>2019-12-18 12:58<br>赞(0) 踩(0) | <div>冬天吃火锅听的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259588723)<br>一生最爱.<br>2019-12-14 12:09<br>赞(0) 踩(0) | <div>第一次听到这首歌 那时候我们还围着大头电视 下午六点看音悦台的打榜</div> |
@@ -96,7 +96,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207237407)<br><br>2016-10-31 21:48<br>赞(0) 踩(0) | <div>一样温暖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212014941)<br><br>2016-08-12 16:10<br>赞(0) 踩(0) | <div>执子之手 <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3479737)<br>将升岱岳，非径奚为。<br>2016-08-10 00:12<br>赞(0) 踩(0) | <div>@AmberWhatever</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35103404)<br><br>2016-07-03 09:00<br>赞(0) 踩(0) | <div>幸好遇见你之后才发现宇宙无尽无穷凝望着我 你走向了我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35103404)<br><br>2016-07-03 09:00<br>赞(0) 踩(0) | <div>幸好遇见你之后才发现宇宙<br>无尽无穷<br>凝望着我 你走向了我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23707257)<br>我还没想好要写什么...<br>2016-06-24 02:54<br>赞(0) 踩(0) | <div>至尊宝说：只怕你没那么长命，等不到你要见的人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114365028)<br> <br>2016-05-05 14:24<br>赞(47) 踩(0) | <div>前天结婚用了这首歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33128818)<br><br>2016-04-04 16:18<br>赞(0) 踩(0) | <div>婚礼必用之选</div> |
@@ -127,7 +127,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5592117)<br>老张的鳗鱼<br>2012-11-12 19:13<br>赞(2) 踩(0) | <div>不要把钱放在第一位，现在才明白有很多是钱买不到的。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10841987)<br><br>2012-10-21 22:06<br>赞(0) 踩(0) | <div>@liu24k 把这首歌送给你，简单幸福，天长地久，祝新婚快乐~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9143654)<br>我愿用生命去阻挡任何伤害...<br>2012-10-09 22:57<br>赞(0) 踩(0) | <div>这是我想要的·结果 一直坚持着·无数次幻想我们的以后··</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5918742)<br><br>2012-09-27 13:04<br>赞(0) 踩(0) | <div>执子之手偕老白头就算海市蜃楼就算死生契阔不眠不休天长地久</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5918742)<br><br>2012-09-27 13:04<br>赞(0) 踩(0) | <div>执子之手<br>偕老白头<br>就算海市蜃楼<br>就算死生契阔<br>不眠不休<br>天长地久</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9792941)<br><br>2012-09-12 13:48<br>赞(0) 踩(0) | <div>xixi~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6751708)<br><br>2012-09-03 04:23<br>赞(0) 踩(0) | <div>I've already given my heart to you.Please don't give it back to me.我把心都交给你了， 请不要把它还给我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1111572)<br><br>2012-08-28 14:17<br>赞(0) 踩(0) | <div>人心是应该这样被温暖的。</div> |
@@ -139,17 +139,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9399711)<br><br>2012-06-08 21:51<br>赞(0) 踩(0) | <div>执子之手，与子偕老 婚礼前的单身**些许感慨，也感受到哥哥对我放在内心最深处的关爱。我亲爱的姐姐，简单的幸福，明天要出嫁了~~from now and forever 白头到老 你们和宝宝一起，一定要走到最后哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2630495)<br>风风火火地奔跑<br>2012-05-26 19:01<br>赞(0) 踩(0) | <div>死生契阔，与子成说。执子之手，与子偕老。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2630495)<br>风风火火地奔跑<br>2012-05-26 19:01<br>赞(0) 踩(0) | <div>听着有些伤感但却非常温馨  死生契阔 与子成说 执子之手 与子偕老</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8795362)<br>你好丫~！<br>2012-05-15 08:24<br>赞(0) 踩(0) | <div>紧握我的手 紧紧相拥紧紧长相左右 紧紧长相厮守天给的恩宠 你分给我 成就了我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8795362)<br>你好丫~！<br>2012-05-15 08:24<br>赞(0) 踩(0) | <div>紧握我的手 紧紧相拥<br>紧紧长相左右 紧紧长相厮守<br>天给的恩宠 你分给我 成就了我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3683375)<br><br>2012-05-05 11:58<br>赞(0) 踩(0) | <div>@随玉而安2010 婚礼用曲，我推荐过给你的吧？听上去就很感动。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1220930)<br>静若病猫。动似疯狗。<br>2012-04-25 14:26<br>赞(0) 踩(0) | <div>握你的手 都交给你 你的一步一步 我的一世一生</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8788420)<br><br>2012-04-25 11:10<br>赞(0) 踩(0) | <div>执子之手 偕老白头。很多人结婚多年后，就会忘了这句话！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4022787)<br><br>2012-04-24 12:14<br>赞(0) 踩(0) | <div>握我的手 都交给我 你的春夏秋冬 我的海阔天空 让我完成 你的完整 别无所求 执子之手 偕老白头 就算海市蜃楼 就算生死契阔 不眠不休 天长地久</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7935777)<br><br>2012-04-08 11:36<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4881170)<br><br>2012-04-05 12:30<br>赞(0) 踩(0) | <div>@我是小怪獸好少女</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409915)<br><br>2012-03-26 13:22<br>赞(0) 踩(0) | <div>执子之手偕老白头就算海市蜃楼就算死生契阔不眠不休天长地久</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409915)<br><br>2012-03-26 13:22<br>赞(0) 踩(0) | <div>执子之手<br>偕老白头<br>就算海市蜃楼<br>就算死生契阔<br>不眠不休<br>天长地久</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7779324)<br><br>2012-03-25 12:37<br>赞(0) 踩(0) | <div>111111111111111111</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3164239)<br><br>2012-03-21 20:27<br>赞(1) 踩(0) | <div>所属专辑：未拆的礼物演唱者：品冠作词：陈没作曲：品冠</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8438846)<br><br>2012-03-21 09:58<br>赞(0) 踩(0) | <div>#温州结婚吧 为爱而唱#@温州结婚吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3164239)<br><br>2012-03-21 20:27<br>赞(1) 踩(0) | <div>所属专辑：未拆的礼物<br>演唱者：品冠<br>作词：陈没<br>作曲：品冠</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8438846)<br><br>2012-03-21 09:58<br>赞(0) 踩(0) | <div>#温州结婚吧 为爱而唱#<br>@温州结婚吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/688305)<br><br>2012-03-15 21:45<br>赞(0) 踩(0) | <div>每种声音其实都是有时光的印记，是不是。听到品冠的声音觉得好熟悉。这歌也很温暖。走入幸福的人们该有多甜蜜和感恩。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2468837)<br><br>2012-03-08 19:59<br>赞(0) 踩(0) | <div>是慢慢喜欢上这首歌曲的，MV拍得很感人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7443210)<br><br>2012-02-28 19:35<br>赞(0) 踩(0) | <div>还好你肯静静的守候。。。</div> |
@@ -163,7 +163,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8083643)<br><br>2012-02-17 18:57<br>赞(1) 踩(0) | <div>一首很温暖的歌,虽然我并不信永远.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8079912)<br><br>2012-02-17 13:47<br>赞(0) 踩(0) | <div>很喜欢名字</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7672656)<br><br>2012-02-17 09:37<br>赞(0) 踩(0) | <div>执著过，放弃过，迟迟下不了决心，注定不配拥有，以此纪念下过往的感情是非！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8051151)<br><br>2012-02-16 14:54<br>赞(0) 踩(0) | <div>握我的手都交给我此时定格双眸此刻接近不朽从此以后夫复何求无论贫穷无论富有无论顺流也无论逆流无论星空能璀璨多久无论多少的温柔宠你都不够无怨无尤。。旋律优美！！@品冠victor</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8051151)<br><br>2012-02-16 14:54<br>赞(0) 踩(0) | <div>握我的手<br>都交给我<br>此时定格双眸<br>此刻接近不朽<br>从此以后<br>夫复何求<br>无论贫穷<br>无论富有<br>无论顺流<br>也无论逆流<br><br>无论星空<br>能璀璨多久<br>无论多少的温柔宠你都不够<br>无怨无尤。。旋律优美！！@品冠victor</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1818151)<br><br>2012-02-14 12:09<br>赞(0) 踩(0) | <div>执子之手，与子偕老！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7811423)<br><br>2012-02-11 00:33<br>赞(0) 踩(0) | <div>执子之手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3294610)<br>迷雾<br>2012-02-10 15:45<br>赞(0) 踩(0) | <div>我多想，执子之手，与子偕老。</div> |

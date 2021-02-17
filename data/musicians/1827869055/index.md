@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/abb175e0a78e5bde5b30a039af435d94.jpg)<br>左颜](https://i.xiami.com/zuoyan) | **播放数**: 15148379<br>**粉丝数**: 5080<br>**评论数**: 232<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/abb175e0a78e5bde5b30a039af435d94.jpg)<br>左颜](https://i.xiami.com/zuoyan) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 15148379<br>**粉丝数**: 5080<br>**评论数**: 232<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10836546)<br>好奇心，害死猫~<br>2020-09-04 08:33<br>赞(0) 踩(0) | <div>我很喜欢听  期待更好的作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87248730)<br>三十五五，七十八八。<br>2020-04-08 12:13<br>赞(1) 踩(0) | <div>依然记得在同济的礼堂听你唱歌的感动！加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425980522)<br><br>2019-07-03 15:38<br>赞(0) 踩(0) | <div>你好家门</div> |

@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d56fb9bcfaf5c9e2d81e98bbb74c4016.jpg)<br>乔志高](https://i.xiami.com/fengya) | **播放数**: 3554019<br>**粉丝数**: 66<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/d56fb9bcfaf5c9e2d81e98bbb74c4016.jpg)<br>乔志高](https://i.xiami.com/fengya) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 3554019<br>**粉丝数**: 66<br>**评论数**: 7<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -26,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356035464)<br><br>2020-04-24 23:50<br>赞(0) 踩(0) | <div>加油 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426249406)<br>[null]<br>2020-03-17 23:23<br>赞(1) 踩(0) | <div>Good music.   <img src="../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../images/comments/aef814d405ecc3ca2a3d50288c9a0e48.png"> <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296595400)<br><br>2017-08-21 17:51<br>赞(1) 踩(0) | <div>匆匆那年怎么回事？糊涂的虾米。 <img src="../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |

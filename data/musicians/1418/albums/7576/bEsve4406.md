@@ -35,8 +35,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21457507)<br>难自在，想自由<br>2018-05-27 21:05<br>赞(0) 踩(0) | <div>梦境扰乱心神，让人毫无回击之力。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36102162)<br>我还没想好要写什么...<br>2018-03-11 16:06<br>赞(0) 踩(0) | <div>陈珊妮的词非常棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82314290)<br><br>2017-11-05 23:23<br>赞(0) 踩(0) | <div>太喜欢</div> |
@@ -76,14 +76,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/464671)<br>我还没想好要写什么...<br>2013-01-04 02:09<br>赞(1) 踩(0) | <div>这是这个世纪最凄凉的时刻，心有丝丝感觉的时刻那是活着的信息</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2070277)<br>暂无签名~<br>2013-01-02 21:35<br>赞(1) 踩(0) | <div>Live 1997   \&amp;quot;这是整个世纪最凄凉的青春 ，最爱无关痛痒的忧伤情歌...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/417192)<br>啦啦啦啦啦啦 <br>2012-11-11 00:12<br>赞(0) 踩(0) | <div>青春春春春。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8894896)<br>也许轻浮，也许沉没<br>2012-10-31 21:55<br>赞(0) 踩(0) | <div>午餐叫做歌颂和平的人生 夜晚适合取暖的只有战争 这是一种简称为抗拒的心理不平衡这是整个世纪最凄凉的青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8894896)<br>也许轻浮，也许沉没<br>2012-10-31 21:55<br>赞(0) 踩(0) | <div>午餐叫做歌颂和平的人生 夜晚适合取暖的只有战争 这是一种简称为抗拒的心理不平衡<br>这是整个世纪最凄凉的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11062917)<br><br>2012-10-15 00:06<br>赞(0) 踩(0) | <div>不敢做梦。美好的东西都不属于我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2088456)<br><br>2012-08-26 19:20<br>赞(0) 踩(0) | <div>“这是整个世纪最凄凉的青春，最爱无关痛痒的忧伤情歌，oh.”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2478413)<br>世界就睡在梦里<br>2012-03-06 07:26<br>赞(1) 踩(0) | <div>早安，每一个无梦的清晨~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8235926)<br>我还没想好要写什么..<br>2012-03-03 19:42<br>赞(0) 踩(0) | <div>陈珊妮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3848915)<br><br>2012-02-15 21:52<br>赞(1) 踩(0) | <div>好听的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1829283)<br>我还没想好要写什么...<br>2012-01-07 22:54<br>赞(1) 踩(0) | <div>新欢~  “这是整个世纪最凄凉的青春，最爱无关痛痒的忧伤情歌”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/510745)<br>一些无声的话语，只有寻梦...<br>2011-12-19 08:26<br>赞(0) 踩(0) | <div>这是一种简称为抗拒的心理不平衡这是整个世纪最凄凉的青春最爱无关痛痒的忧伤情歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/510745)<br>一些无声的话语，只有寻梦...<br>2011-12-19 08:26<br>赞(0) 踩(0) | <div>这是一种简称为抗拒的心理不平衡<br>这是整个世纪最凄凉的青春<br>最爱无关痛痒的忧伤情歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3346079)<br><br>2011-12-16 20:51<br>赞(0) 踩(0) | <div>这是一种简称为抗拒的心理不平衡，这是整个世纪最凄凉的青春，最爱无关痛痒的忧伤情歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6512547)<br><br>2011-12-01 10:39<br>赞(0) 踩(0) | <div>“这是一种简称为抗拒的心理不平衡，这是整个世纪最凄凉的青春，最爱无关痛痒的忧伤情歌 。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3094984)<br><br>2011-11-28 14:18<br>赞(0) 踩(0) | <div>镜子里的我没有嘴唇</div> |
@@ -100,7 +100,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3092395)<br>阿朋友再见<br>2011-03-16 21:24<br>赞(0) 踩(0) | <div>歌词和调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/485405)<br><br>2011-02-17 15:35<br>赞(0) 踩(0) | <div>支持独立</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2415413)<br><br>2011-01-31 23:37<br>赞(0) 踩(0) | <div>Just like it when I heard the lyrics and music~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1378940)<br><br>2011-01-24 02:53<br>赞(0) 踩(0) | <div>这是整个世纪最凄凉的青春最爱无关痛痒的忧伤情歌这是整个世纪最凄凉的青春最爱无关痛痒的忧伤情歌不做梦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1378940)<br><br>2011-01-24 02:53<br>赞(0) 踩(0) | <div>这是整个世纪最凄凉的青春<br>最爱无关痛痒的忧伤情歌<br>这是整个世纪最凄凉的青春<br>最爱无关痛痒的忧伤情歌<br><br><br>不做梦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1094722)<br><br>2011-01-11 14:07<br>赞(0) 踩(0) | <div>很不错~无法表达的感觉~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2237952)<br><br>2011-01-09 19:10<br>赞(0) 踩(0) | <div>陈珊妮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14065)<br>人生并不甜~<br>2010-07-20 21:13<br>赞(0) 踩(0) | <div>她说这是世纪末最忧伤的情歌</div> |
@@ -110,7 +110,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/838262)<br><br>2010-04-28 20:33<br>赞(0) 踩(0) | <div>可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/765348)<br><br>2010-04-18 23:41<br>赞(0) 踩(0) | <div>无关痛痒的忧伤情歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370274)<br> <br>2009-09-26 21:02<br>赞(0) 踩(0) | <div>I LOVE IT</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92712)<br><br>2009-06-04 23:29<br>赞(1) 踩(0) | <div>我想知道这歌到底唱什么…珊妮写这歌的时候，想写什么···也许，语言在脱离工具作用后，它就是诗了……？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91670)<br><br>2009-04-03 20:05<br>赞(1) 踩(0) | <div>因为清明放一天假，今天要加N久的班！！！怀着悲愤的心情听这首歌，早点自己当老板！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92712)<br><br>2009-06-04 23:29<br>赞(1) 踩(0) | <div>我想知道这歌到底唱什么…珊妮写这歌的时候，想写什么···<br>也许，语言在脱离工具作用后，它就是诗了……？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91670)<br><br>2009-04-03 20:05<br>赞(1) 踩(0) | <div>因为清明放一天假，今天要加N久的班！！！<br>怀着悲愤的心情听这首歌，早点自己当老板！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52906)<br><br>2009-02-17 21:34<br>赞(1) 踩(0) | <div>不知道哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35795)<br><br>2009-01-18 20:11<br>赞(1) 踩(0) | <div>well</div> |

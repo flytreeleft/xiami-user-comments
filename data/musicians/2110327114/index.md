@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f90524f56ed5b0d4fc628a57be604d00.jpg)<br>丑小鸡](https://i.xiami.com/kensty) | **播放数**: 627026<br>**粉丝数**: 128<br>**评论数**: 14<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/f90524f56ed5b0d4fc628a57be604d00.jpg)<br>丑小鸡](https://i.xiami.com/kensty) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 627026<br>**粉丝数**: 128<br>**评论数**: 14<br> |
 
 ## 档案
 
@@ -21,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415415186)<br><br>2020-08-18 09:10<br>赞(0) 踩(0) | <div>你，你好，你说很高兴认识你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306924686)<br><br>2020-05-10 10:14<br>赞(0) 踩(0) | <div>好棒的wmls，唱歌太好听了叭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360448277)<br><br>2020-01-11 20:05<br>赞(1) 踩(0) | <div>我记得我关注了个小鸭啊，怎么变成只小鸡了呢 <img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"> <img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"> <img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |

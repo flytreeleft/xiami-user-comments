@@ -40,5 +40,3 @@ People loves his special gift
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

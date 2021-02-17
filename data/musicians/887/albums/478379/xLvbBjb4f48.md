@@ -64,8 +64,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308314031)<br>步子要一步一步走，步子太...<br>2021-01-31 07:14<br>赞(1) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376233726)<br>handsome boy...<br>2021-01-30 18:35<br>赞(2) 踩(0) | <div>听这歌 感觉中国人活着太累了、太难了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376233726)<br>handsome boy...<br>2021-01-10 17:39<br>赞(1) 踩(0) | <div>mv扎心了</div> |
@@ -110,7 +110,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278741507)<br><br>2019-05-25 10:50<br>赞(2) 踩(0) | <div>5.25汪峰上海演唱会 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376162752)<br><br>2019-01-29 14:15<br>赞(3) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236472714)<br><br>2019-01-14 21:03<br>赞(2) 踩(0) | <div>多少人还活着。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295873394)<br>人生就两字  我操<br>2019-01-02 07:13<br>赞(3) 踩(0) | <div>在另一个国家，不懂本地语言，不懂文化啥也不懂，每天早上6点起床工作到12点吃饭，有没有肉吃不重要，重要的是有味精，有量。这样才吃得下吃得饱。经常是一边吃一边做，做到晚餐时间又重复午餐的程序，然后又做，做晚上10点收工回去冲凉，然后趟在床上学一个多小时本地语言，什么喝酒，什么娱乐，什么谈谈恋爱，什么和朋友亲人吹吹水，别做梦了快点睡吧明天还得继续呢。就这样几年后终于有了自己的店铺了，不用看别人脸色了，可以去和鬼妹聊聊人生，和鬼老吹吹牛逼了。想什么时候和亲朋好友说说心里话都行了。。。。成功有很多种，像这种，在一个恶劣的环境下你依然有能力生存起来的，这就是成功，而这种成功是最最最最最</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295873394)<br>人生就两字  我操<br>2019-01-02 07:13<br>赞(3) 踩(0) | <div>在另一个国家，不懂本地语言，不懂文化啥也不懂，每天早上6点起床工作到12点吃饭，有没有肉吃不重要，重要的是有味精，有量。这样才吃得下吃得饱。经常是一边吃一边做，做到晚餐时间又重复午餐的程序，然后又做，做晚上10点收工回去冲凉，然后趟在床上学一个多小时本地语言，什么喝酒，什么娱乐，什么谈谈恋爱，什么和朋友亲人吹吹水，别做梦了快点睡吧明天还得继续呢。就这样几年后终于有了自己的店铺了，不用看别人脸色了，可以去和鬼妹聊聊人生，和鬼老吹吹牛逼了。想什么时候和亲朋好友说说心里话都行了。。。。<br>成功有很多种，<br>像这种，在一个恶劣的环境下你依然有能力生存起来的，这就是成功，而这种成功是最最最最最</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209868337)<br><br>2018-12-30 00:15<br>赞(2) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376162752)<br><br>2018-12-22 08:55<br>赞(2) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/107707056)<br><br>2018-12-08 19:18<br>赞(1) 踩(0) | <div>什么时候可以听</div> |
@@ -136,16 +136,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17544684)<br><br>2018-09-25 20:42<br>赞(0) 踩(0) | <div>可以听汪峰了？我擦，虾米强大</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88692846)<br><br>2018-09-23 15:43<br>赞(0) 踩(0) | <div>刨去其它，还是不错的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345890411)<br>好运！<br>2018-09-19 16:37<br>赞(0) 踩(0) | <div>～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349627134)<br>人生，没有过不去的坎，只...<br>2018-09-19 00:00<br>赞(0) 踩(0) | <div>时间。有时候不知不觉，突然就消失那。恍惚就在昨天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349627134)<br>人生，没有过不去的坎，只...<br>2018-09-19 00:00<br>赞(0) 踩(0) | <div>时间。有时候不知不觉，突然就消失那。<br>恍惚就在昨天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87736434)<br>I am single!<br>2018-09-18 18:20<br>赞(0) 踩(0) | <div>汪峰 牛逼！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288723664)<br>幽默就是带着醉意的真理。<br>2018-09-16 00:44<br>赞(2) 踩(0) | <div>该说的有人都替你说了该做的有人都替你做了有人替你活着有人替你死了可是没有人能替你证明你的存在&amp;mdash;&amp;mdash;舌头乐队《时光机器》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288723664)<br>幽默就是带着醉意的真理。<br>2018-09-16 00:44<br>赞(2) 踩(0) | <div>该说的有人都替你说了<br><br>该做的有人都替你做了<br><br>有人替你活着<br><br>有人替你死了<br><br>可是没有人能替你证明你的存在<br><br><br>&amp;mdash;&amp;mdash;舌头乐队《时光机器》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292464358)<br>虾米，Thank you...<br>2018-09-15 21:36<br>赞(0) 踩(0) | <div>送给在国外辛苦打拼的同胞们！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355577530)<br><br>2018-09-15 21:02<br>赞(0) 踩(0) | <div>私生活混乱导致我不喜欢他。为了上位糟践女人。呵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87144450)<br><br>2018-09-15 19:37<br>赞(0) 踩(0) | <div>远方的你，好好走下去，生活会放弃了你，但你一定不会放弃生活的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336641680)<br>因为仅有，所以坚持<br>2018-09-13 23:28<br>赞(0) 踩(0) | <div>是不是音质的问题 这个听的很不舒服</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11026424)<br>Teresa<br>2018-09-10 09:50<br>赞(7) 踩(0) | <div>多少人走着却困在原地多少人活着却如同死去多少人爱着却好似分离多少人笑着却满含泪滴谁知道我们该去向何处谁明白生命已变为何物是否找个借口继续苟活或是展翅高飞保持愤怒我该如何存在多少次荣耀却感觉屈辱多少次狂喜却倍受痛楚多少次幸福却心如刀绞多少次灿烂却失魂落魄谁知道我们该梦归何处谁明白尊严已沦为何物是否找个理由随波逐流或是勇敢前行挣脱牢笼我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11026424)<br>Teresa<br>2018-09-10 09:50<br>赞(7) 踩(0) | <div>多少人走着却困在原地<br>多少人活着却如同死去<br>多少人爱着却好似分离<br>多少人笑着却满含泪滴<br>谁知道我们该去向何处<br>谁明白生命已变为何物<br>是否找个借口继续苟活<br>或是展翅高飞保持愤怒<br>我该如何存在<br><br>多少次荣耀却感觉屈辱<br>多少次狂喜却倍受痛楚<br>多少次幸福却心如刀绞<br>多少次灿烂却失魂落魄<br>谁知道我们该梦归何处<br>谁明白尊严已沦为何物<br>是否找个理由随波逐流<br>或是勇敢前行挣脱牢笼<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330459898)<br>我还没想好要写什么...<br>2018-09-09 22:06<br>赞(0) 踩(0) | <div>听着好累</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319270764)<br>也许这是一片晴天<br>2018-09-02 20:22<br>赞(3) 踩(0) | <div>我没有你们那么幸福的家庭   97年是我的不幸年 它让我这张白纸黯然失色 失去的不仅仅的美好的童年 还有我本该与他人相同的温馨家园  可即是我挣扎着  痛哭着 喊着我心中的人  可谁知她已经听不到我的哭喊声了小学四年级开始偷钱偷桃子偷西瓜成了方圆几里的明星 可谁知我在这家暴的生活中温饱有几天?上了初中 并没有小学那样的学习氛围 学生拉帮结派打架  我矮小 营养不良 所以指定是被欺负的 初中就这样没读完就辍学了  可又有谁知曾经的我非常喜欢学习&amp;hellip;步入社会 虽已痛改前非 可开始了堕落 得神经病  双向人格 没事就想死 想跳楼  只有不停的工作我才能忘记颓废的我 和她&amp;hellip;我该如何存在?</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319270764)<br>也许这是一片晴天<br>2018-09-02 20:22<br>赞(3) 踩(0) | <div>我没有你们那么幸福的家庭   97年是我的不幸年 它让我这张白纸黯然失色 失去的不仅仅的美好的童年 还有我本该与他人相同的温馨家园  可即是我挣扎着  痛哭着 喊着我心中的人  可谁知她已经听不到我的哭喊声了<br>小学四年级开始偷钱偷桃子偷西瓜成了方圆几里的明星 可谁知我在这家暴的生活中温饱有几天?<br>上了初中 并没有小学那样的学习氛围 学生拉帮结派打架  我矮小 营养不良 所以指定是被欺负的 初中就这样没读完就辍学了  可又有谁知曾经的我非常喜欢学习&amp;hellip;<br>步入社会 虽已痛改前非 可开始了堕落 得神经病  双向人格 没事就想死 想跳楼  只有不停的工作我才能忘记颓废的我 和她&amp;hellip;<br>我该如何存在?</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369088898)<br><br>2018-09-22 22:28<br>赞(0) 踩(0) | <div>过去的一切属于过去的自己，请不要失去现在和明天的未来，人生来一趟不容易，为了那个让你痛哭的她，以后请记住做好自己该做的，不必对比与眷念，走下去，直到有一天可以笑对夕阳。人生不过过给自己的。与他人不干。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319270764)<br>也许这是一片晴天<br>2018-09-23 01:16<br>赞(0) 踩(0) | <div><q><b>安静说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27122274)<br>我们不说，就没有改变。我...<br>2018-09-02 13:21<br>赞(3) 踩(0) | <div>多少人活着，如同死去，多少人死了，却活在心里。</div> |
@@ -154,13 +154,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259493688)<br>我还没想好要写什么...<br>2018-08-22 16:52<br>赞(0) 踩(0) | <div>皮裤汪。精神鸦片的创始人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332523871)<br>终其一生满是遗憾<br>2018-08-22 15:27<br>赞(0) 踩(0) | <div>66</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342066444)<br>越美好，越害怕得到！<br>2018-08-22 14:51<br>赞(1) 踩(0) | <div>很好听！（此评价虽只有三字，但语法严谨，用词工整，结构巧妙，琅琅上口，可谓言简意赅，足见评价人扎实的文字功底，以及信手拈来写作技巧和惨绝人寰的创造能力，实在让人佩服佩服，加上以感叹号结尾，实在是点睛之笔，妙笔生花，应照前文把评价人的感情表达得淋漓尽致。真乃评价之极品也）。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307774393)<br><br>2018-09-15 22:32<br>赞(0) 踩(0) | <div>蒸，传承千年。蒸，技艺精湛、源远流长。蒸，原汁原味、营养健康；蒸的更健康，蒸也将成为一种食尚。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307774393)<br><br>2018-09-15 22:32<br>赞(0) 踩(0) | <div>蒸，传承千年。<br>蒸，技艺精湛、源远流长。<br>蒸，原汁原味、营养健康；<br>蒸的更健康，蒸也将成为一种食尚。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186715611)<br><br>2018-08-21 06:40<br>赞(2) 踩(0) | <div>北京青年</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204227447)<br><br>2018-08-17 00:04<br>赞(2) 踩(0) | <div>这是第一次去北京，回来的那天在地下室通道，看到了一个正在拨弄吉他的二十多岁男子，想到了我自己曾经也有这种和音乐流浪的想法，然而我并没有这方面的天赋，我很澎湃，想起了自己的热血和青春，给了他两块钱，毕竟我也qiong。[捂脸]我就走了，然后身后就想起了：多少人走着，却困在原地，多少人活着，却如同死去&amp;hellip;&amp;hellip;陌生人带给我的奇妙感觉，我想记录下来。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204227447)<br><br>2018-08-17 00:04<br>赞(2) 踩(0) | <div>这是第一次去北京，回来的那天在地下室通道，看到了一个正在拨弄吉他的二十多岁男子，想到了我自己曾经也有这种和音乐流浪的想法，然而我并没有这方面的天赋，我很澎湃，想起了自己的热血和青春，给了他两块钱，毕竟我也qiong。[捂脸]<br>我就走了，然后身后就想起了：多少人走着，却困在原地，多少人活着，却如同死去&amp;hellip;&amp;hellip;<br>陌生人带给我的奇妙感觉，我想记录下来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52131282)<br> <br>2018-08-14 13:15<br>赞(2) 踩(0) | <div>谁也不想把婚姻作儿戏 谁又不想一辈子白头到老呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256665726)<br> ↗虾米<br>2018-08-10 10:24<br>赞(0) 踩(0) | <div>66666</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266777983)<br><br>2018-08-06 19:49<br>赞(0) 踩(0) | <div>多少人活着却如同死去多少人笑着却满含泪滴</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15266895)<br>瑕不掩<br>2018-08-04 20:58<br>赞(0) 踩(0) | <div>好好吃饭，厨师怎么样，是饭店老板操心的事。汪厨师的菜，从评论厨师的角度来说，还是可以吃的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266777983)<br><br>2018-08-06 19:49<br>赞(0) 踩(0) | <div>多少人活着却如同死去<br>多少人笑着却满含泪滴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15266895)<br>瑕不掩<br>2018-08-04 20:58<br>赞(0) 踩(0) | <div>好好吃饭，厨师怎么样，是饭店老板操心的事。<br>汪厨师的菜，从评论厨师的角度来说，还是可以吃的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69372316)<br>带着音乐去旅行<br>2018-08-03 21:00<br>赞(4) 踩(0) | <div>一个人开车时特别喜欢听汪峰的歌  对生活的压抑通过撕心裂肺的呐喊告诉全世界</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378715824)<br><br>2018-08-14 13:27<br>赞(0) 踩(0) | <div>难言？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400056775)<br>用自己双手创造财富品格决...<br>2018-08-02 19:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
@@ -194,17 +194,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354821827)<br>你比想象中强大！<br>2018-06-18 07:23<br>赞(3) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346152632)<br><br>2018-06-16 20:44<br>赞(2) 踩(0) | <div>在情绪低落的时候.在人生低潮时汪峰你的歌价值无可限量很励志!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305064389)<br>我就是我，一个平凡的我<br>2018-06-16 15:46<br>赞(2) 踩(0) | <div>邓紫棋版本的也好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364118951)<br><br>2018-06-16 13:15<br>赞(0) 踩(0) | <div>在香港读书的时候，班里有很多东南亚的同学。刚入学的一次班级出游，大巴沿着拥堵的隧道缓慢挪动，车内还不熟悉的同学们鸦雀无声，气氛和空调冷气一样冰冷。这时，司机打开音响放起了音乐，刚一听到前奏，很多香港和内地的同学就笑了：司机还挺怀旧的，放的歌是邓丽君的《甜蜜蜜》。没想到的是，后座的几个越南男生竟跟着旋律哼唱了起来，他们用自己国家的语言唱着熟悉的轻快旋律，在掌声和起哄下，歌声越来越大，加入的人也越来越多。最后，整个车厢开始了不同语言的《甜蜜蜜》大合唱。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364118951)<br><br>2018-06-16 13:15<br>赞(0) 踩(0) | <div>在香港读书的时候，班里有很多东南亚的同学。刚入学的一次班级出游，大巴沿着拥堵的隧道缓慢挪动，车内还不熟悉的同学们鸦雀无声，气氛和空调冷气一样冰冷。这时，司机打开音响放起了音乐，刚一听到前奏，很多香港和内地的同学就笑了：司机还挺怀旧的，放的歌是邓丽君的《甜蜜蜜》。<br><br>没想到的是，后座的几个越南男生竟跟着旋律哼唱了起来，他们用自己国家的语言唱着熟悉的轻快旋律，在掌声和起哄下，歌声越来越大，加入的人也越来越多。最后，整个车厢开始了不同语言的《甜蜜蜜》大合唱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299209063)<br>我还没想好要写什么...<br>2018-06-15 01:39<br>赞(3) 踩(0) | <div>喜欢歌词，谁没迷茫过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325897907)<br><br>2018-06-15 01:27<br>赞(1) 踩(0) | <div>伤心的时候哪里的天空都是挂满泪滴，很多人在开心的时候听一首歌都是因为好听的旋律，而在难过伤心的时候歌词里句句都是仿佛在写自己，心如刀绞。亲爱的陌生人希望你们都能找到理想的那片海！祝你我都能成为自己想成为的人。加油！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21580121)<br>执子之手 漫漫的老<br>2018-06-14 01:15<br>赞(2) 踩(0) | <div>多少人唱歌能用这么多排比句</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336549282)<br><br>2018-06-13 16:23<br>赞(1) 踩(0) | <div>听这首歌的时候，感觉自己很可笑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334887811)<br><br>2018-06-11 23:42<br>赞(0) 踩(0) | <div>最喜欢的汪峰歌曲之一！很多小说都提到了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342275899)<br><br>2018-06-11 07:15<br>赞(1) 踩(0) | <div>存在的意见</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13053187)<br><br>2018-06-10 15:11<br>赞(12) 踩(0) | <div>多少人走着却困在原地多少人活着却如同死去多少人爱着却好似分离多少人笑着却满含泪滴谁知道我们该去向何处</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13053187)<br><br>2018-06-10 15:11<br>赞(12) 踩(0) | <div>多少人走着却困在原地<br>多少人活着却如同死去<br>多少人爱着却好似分离<br>多少人笑着却满含泪滴<br>谁知道我们该去向何处</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334273394)<br><br>2018-08-25 05:56<br>赞(0) 踩(0) | <div>丶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353327056)<br><br>2018-06-09 07:43<br>赞(0) 踩(0) | <div>正</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357416870)<br><br>2018-06-06 17:01<br>赞(1) 踩(0) | <div>现在的我就像 走着走着就遇到个高山在前方，看不到未来 也不知道前方的路该怎么走。就像汪峰的歌。。多少人走着却困在原地，谁知道我们该去向何处  谁明白生命已变为何物是否找个借口继续苟活  或是展翅高飞保持愤怒我该如何存在。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357416870)<br><br>2018-06-06 17:01<br>赞(1) 踩(0) | <div>现在的我就像 走着走着就遇到个高山在前方，看不到未来 也不知道前方的路该怎么走。就像汪峰的歌。。<br>多少人走着却困在原地，谁知道我们该去向何处  谁明白生命已变为何物是否找个借口继续苟活  或是展翅高飞保持愤怒<br>我该如何存在。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333508973)<br>见天地   见众生   ...<br>2018-06-06 14:31<br>赞(5) 踩(0) | <div>我们终极一生也许都是在寻找一份存在感，也许是成功，也许是失败，那都是做给别人看的。最重要的是自己的定位，我们要什么，想成为什么样的人，并且付出一生努力成为自己想成为的人，就叫做存在。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338963213)<br>水清无鱼<br>2018-06-05 21:25<br>赞(1) 踩(0) | <div>该去何处是个问题，但也要苟活一时 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33553799)<br>暂无签名~<br>2018-06-04 23:32<br>赞(1) 踩(0) | <div>好歌。邓紫棋演绎的淋漓尽致。</div> |
@@ -246,7 +246,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263799918)<br>钱塘旧事。。。<br>2018-04-14 12:04<br>赞(1) 踩(0) | <div>章子怡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308996377)<br><br>2018-04-13 08:49<br>赞(1) 踩(0) | <div>借着音乐释放自己是一个层次，让音乐借着你得以释放是另一个层次。前者有我唱歌，后者无我歌唱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308996377)<br><br>2018-04-12 19:58<br>赞(2) 踩(0) | <div>若空不掉自己，凭唱功不能达到展现音乐的极处。有我执一分，就不能与音乐合一，展现不出音乐的全部。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308996377)<br><br>2018-04-14 18:51<br>赞(0) 踩(0) | <div>累死汪峰也唱不过花花，花花也唱不过婕茜。汪峰是见山是山见水是水，虽有大山大水之量，却不如花花跳出了山水的束缚没有羁绊来的自由。婕茜已没有了自己的山水，自由到了自己可以是山可以是水的自然。修道的三层让歌手给演绎了。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308996377)<br><br>2018-04-14 18:51<br>赞(0) 踩(0) | <div>累死汪峰也唱不过花花，花花也唱不过婕茜。<br>汪峰是见山是山见水是水，虽有大山大水之量，却不如花花跳出了山水的束缚没有羁绊来的自由。婕茜已没有了自己的山水，自由到了自己可以是山可以是水的自然。<br>修道的三层让歌手给演绎了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269547491)<br> <br>2018-04-08 09:05<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302830785)<br><br>2018-04-08 04:15<br>赞(2) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40279039)<br>我还没想好要写什么...<br>2018-04-07 10:26<br>赞(1) 踩(0) | <div>存在的意义</div> |
@@ -292,7 +292,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352998508)<br><br>2018-03-02 22:16<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328049655)<br><br>2018-03-02 15:18<br>赞(1) 踩(0) | <div>之前听到过这歌，就觉得好听，原来是这歌名啊 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51783918)<br>若还说我和从前一样 只好...<br>2018-03-01 18:47<br>赞(1) 踩(0) | <div>我该如何存在 生活都这么累吗 还是只有我 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315794822)<br>你是一本我读不懂的书<br>2018-03-01 02:30<br>赞(0) 踩(0) | <div>世间繁华如梦，而我，也只不过是那繁华里的一粒尘埃&amp;hellip;所有的亲情、友情、爱情、都只不过是无根的浮萍&amp;hellip;一切的一切在那冥冥之中早已注定&amp;hellip;一切的一切只不过是人生的一场梦&amp;hellip;生无可求，随心而行，随缘而走&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315794822)<br>你是一本我读不懂的书<br>2018-03-01 02:30<br>赞(0) 踩(0) | <div>世间繁华如梦，而我，也只不过是那繁华里的一粒尘埃&amp;hellip;<br>所有的亲情、友情、爱情、都只不过是无根的浮萍&amp;hellip;<br>一切的一切在那冥冥之中早已注定&amp;hellip;<br>一切的一切只不过是人生的一场梦&amp;hellip;<br>生无可求，随心而行，随缘而走&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222169633)<br>春暖花开，阳光灿烂！<br>2018-02-28 11:00<br>赞(0) 踩(0) | <div>最喜欢的人，就是汪峰，没有之一，歌太美啦，摇滚范儿就爱你，。？！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26678353)<br><br>2018-02-27 15:31<br>赞(0) 踩(0) | <div>老汪确实有才</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23739934)<br><br>2018-02-27 07:45<br>赞(0) 踩(0) | <div>谁知道我们该去向何处，说明白尊严已沦为何物</div> |
@@ -331,7 +331,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128175862)<br>我还没想好要写什么...<br>2018-02-08 18:03<br>赞(3) 踩(0) | <div>华语摇滚半璧山</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314740387)<br><br>2018-02-08 11:53<br>赞(4) 踩(0) | <div>fdfjfHvF?gjvxhysh?X?BXKBhv</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278850937)<br>人前谈生活，可生存都还是...<br>2018-02-07 23:22<br>赞(4) 踩(0) | <div>找个理由继续苟活</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243248603)<br>时间从来不语 却回答了所...<br>2018-02-07 22:18<br>赞(4) 踩(0) | <div>需要一个拥抱，来化掉心里所有的委屈.​​​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243248603)<br>时间从来不语 却回答了所...<br>2018-02-07 22:18<br>赞(4) 踩(0) | <div>需要一个拥抱，来化掉心里所有的委屈.<br><br>​​​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340104263)<br>自身强大  才是本钱<br>2018-02-06 16:37<br>赞(2) 踩(0) | <div>没你的存在感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347056358)<br><br>2018-02-04 00:45<br>赞(2) 踩(0) | <div>存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23604996)<br><br>2018-02-03 20:44<br>赞(3) 踩(0) | <div>歌是好歌！</div> |
@@ -342,7 +342,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284040915)<br>工作之余，聆听音乐。<br>2018-01-29 19:12<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27630635)<br>我还没想好要写什么...<br>2018-01-29 15:15<br>赞(2) 踩(0) | <div>他真的很爱音乐，支持汪峰。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341784407)<br>爱虾米，爱音乐……<br>2018-01-29 12:57<br>赞(1) 踩(0) | <div>爷们儿唱的歌！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266196903)<br>我相信爱情，但不相信会发...<br>2018-01-26 23:00<br>赞(2) 踩(0) | <div>我变成所有你想要的样子可丢了自己也未曾拥有你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266196903)<br>我相信爱情，但不相信会发...<br>2018-01-26 23:00<br>赞(2) 踩(0) | <div>我变成所有你想要的样子<br>可丢了自己<br>也未曾拥有你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334160594)<br>逃避现实<br>2018-01-25 18:01<br>赞(1) 踩(0) | <div>发%</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334160594)<br>逃避现实<br>2018-01-25 18:01<br>赞(1) 踩(0) | <div>9方便吃饱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11112148)<br>妹纸我看见你大姨妈了<br>2018-01-25 15:13<br>赞(2) 踩(0) | <div>我该如何存在？怒放的生命</div> |
@@ -362,7 +362,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273304925)<br><br>2018-01-18 22:09<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84729214)<br><br>2018-01-18 09:16<br>赞(2) 踩(0) | <div>活的苟延残喘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15764385)<br><br>2018-01-18 07:03<br>赞(2) 踩(0) | <div>666</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160739990)<br> <br>2018-01-17 23:08<br>赞(2) 踩(0) | <div>他去了歌手 唱了《无处安放》给子怡不管之前如何 活在当下 应该是认真的生无所求 无处安放</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160739990)<br> <br>2018-01-17 23:08<br>赞(2) 踩(0) | <div>他去了歌手 唱了《无处安放》给子怡<br>不管之前如何 活在当下 应该是认真的<br>生无所求 无处安放</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287796494)<br> <br>2018-01-16 23:28<br>赞(3) 踩(0) | <div>好困，睡不着，居然想听汪峰老师的歌。不评价个人生活，喜欢他的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90493150)<br><br>2018-01-15 11:37<br>赞(1) 踩(0) | <div>棒棒哒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343982368)<br><br>2018-01-14 20:42<br>赞(2) 踩(0) | <div>汪峰的歌有生活有深度</div> |
@@ -480,13 +480,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333216636)<br><br>2017-11-04 18:05<br>赞(0) 踩(0) | <div>很好，让我找回自信</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332618567)<br><br>2017-11-03 23:01<br>赞(0) 踩(0) | <div>不曾相见，我依然爱你记着你，如果能重来我一定不会让你离开，永远&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326731230)<br><br>2017-11-01 01:05<br>赞(0) 踩(0) | <div>今天只是重複著昨天的故事，人，有的時候，就是不明白生命存在的意義，自己為何而生。汪峰的《存在》在搖滾的聲樂里，滄桑的音樂吶喊著生命存在的意義.在汪峰《存在.》的歌曲裡面，裡面的歌詞也說出存在的意義，只是對於存在，不停的拷問，拷問著存在的意義，這首歌不會給霧鎖樓台的你的一個正確的答案，因為你不知在迷惘中如何存在。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5898826)<br><br>2017-10-30 09:59<br>赞(0) 踩(0) | <div>多少人走着却困在原地/多少人活着却如同死去/多少人爱着却好似分离/多少人笑着却满含泪滴/谁知道我们该去向何处/谁明白生命已变为何物/是否找个借口继续苟活/或是展翅高飞保持愤怒/我该如何存在/多少次荣耀却感觉屈辱/多少次狂喜却倍受痛楚/多少次幸福却心如刀绞/多少次灿烂却失魂落魄</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5898826)<br><br>2017-10-30 09:59<br>赞(0) 踩(0) | <div>多少人走着却困在原地/多少人活着却如同死去/多少人爱着却好似分离/多少人笑着却满含泪滴/谁知道我们该去向何处/谁明白生命已变为何物/是否找个借口继续苟活/<br>或是展翅高飞保持愤怒/我该如何存在/多少次荣耀却感觉屈辱/多少次狂喜却倍受痛楚/多少次幸福却心如刀绞/多少次灿烂却失魂落魄</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7818265)<br><br>2017-10-28 00:35<br>赞(0) 踩(0) | <div>一年前的今晚，在三里屯愉快的游荡，以至于忘了时间，只好在北京的街道上狂奔去赶末班地铁，却在途中偶然撞见了央视大裤衩，那一晚的北京夜色，光影交错，好怀念。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11080075)<br><br>2017-10-28 00:34<br>赞(0) 踩(0) | <div>多少人走着却困在原地多少人活着却如同死去多少人爱着却好似分离多少人笑着却满含泪滴谁知道我们该去向何处谁明白生命已变为何物是否找个借口继续苟活或是展翅高飞保持愤怒我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11080075)<br><br>2017-10-28 00:34<br>赞(0) 踩(0) | <div>多少人走着却困在原地<br>多少人活着却如同死去<br>多少人爱着却好似分离<br>多少人笑着却满含泪滴<br>谁知道我们该去向何处<br>谁明白生命已变为何物<br>是否找个借口继续苟活<br>或是展翅高飞保持愤怒<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1592747)<br>双重人格患者<br>2017-10-28 00:33<br>赞(1) 踩(0) | <div>邓紫棋的爆发力唱这首歌很有感觉。汪峰原版也很好。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3731796)<br><br>2017-10-28 00:22<br>赞(0) 踩(0) | <div>现在发生的一切永远将成为过去,璀璨的明天也只是印记,在那万里之外灿烂迷惘的远方是我抛弃的上千个黎明.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3731796)<br><br>2017-10-28 00:22<br>赞(0) 踩(0) | <div>现在发生的一切永远将成为过去,璀璨的明天也只是印记,在那万里之外灿烂迷惘的远方<br>是我抛弃的上千个黎明.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13317890)<br><br>2017-10-28 00:09<br>赞(4) 踩(0) | <div>因为北京青年，喜欢它的意义。因为GEM，喜欢它的旋律。因为自己，喜欢它的直白。我该，如何存在。20140110心情曲：存在-汪峰</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5995421)<br>我还没想好要写什么...<br>2017-10-28 00:09<br>赞(0) 踩(0) | <div>多少次荣耀却感觉屈辱,多少次狂喜却倍受痛楚,多少次幸福却心如刀绞,多少次灿烂却失魂落魄,谁知道我们该梦归何处谁明白尊严已沦为何物,是否找个理由随波逐流或是勇敢前行挣脱牢笼,我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5995421)<br>我还没想好要写什么...<br>2017-10-28 00:09<br>赞(0) 踩(0) | <div>多少次荣耀却感觉屈辱,多少次狂喜却倍受痛楚,多少次幸福却心如刀绞,多少次灿烂却失魂落魄,谁知道我们该梦归何处<br>谁明白尊严已沦为何物,是否找个理由随波逐流<br>或是勇敢前行挣脱牢笼,我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203596)<br><br>2017-10-27 23:20<br>赞(2) 踩(0) | <div>云南、师宗、私庄矿难，矿工遇难人数已上升至28人，还有15人下落不明。汪峰《存在》……多少人走着却困在原地，多少人活着却如同死去，多少人爱着却好似分离，多少人笑着却满含泪滴，谁知道我们该去向何处，谁明白生命已变为何物，是否找个借口继续苟活，或是展翅高飞保持愤怒……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6531883)<br><br>2017-10-27 23:19<br>赞(0) 踩(0) | <div>每每看见“有的人活着他已经死了，有的人死了他还活着”或者类似的话，就想起大太监陈萍萍那句“我也有枪”，有的人有叽叽但已被阉割。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11456740)<br><br>2017-10-27 23:04<br>赞(1) 踩(0) | <div>多少人走着却困在原地/多少人活着却如同死去/多少人爱着却好似分离/多少人笑着却满含泪滴/谁知道我们该去向何处/谁明白生命已变为何物/是否找个借口继续苟活/或是展翅高飞保持愤怒/我该如何存在/多少次荣耀却感觉屈辱/多少次狂喜却倍受痛楚/多少次幸福却心如刀绞/多少次灿烂却失魂落魄...</div> |
@@ -586,7 +586,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321841052)<br><br>2017-09-14 15:39<br>赞(1) 踩(0) | <div>有没有那么一首歌会让我想起你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45820134)<br>非主流创作<br>2017-09-14 03:15<br>赞(0) 踩(0) | <div>天哪，汪夫子回来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318807230)<br><br>2017-09-14 03:14<br>赞(2) 踩(0) | <div>这样有味道的声线，撕裂般的沙哑，听了耳朵会怀孕的歌声</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247756490)<br>（入梦）人生如梦亦朦胧，...<br>2017-09-13 21:51<br>赞(4) 踩(0) | <div>曾经有一个叫思雨的女孩叫我给她写一首诗！可是我写好之后没有能够让她看见！现在我再虾米每一首情歌下面留下这首诗！希望通过虾米能够让她看到曾经的雨！  思雨、初想记。随笔心起心荡，在这初冬的早晨 游玩公园，随笔仅以此献给思雨！新奇遐思千万里初冬冷傲透骨凉那一片波浪荡漾着似水年华微风吹起点漏几丝凉白鸽空灵如淡然般的享受忽然荡起一丝波澜那湖中的雨滴化作那心中的身影逐波起舞默然思雨、思雨这是一种意境般的想起、、、</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247756490)<br>（入梦）人生如梦亦朦胧，...<br>2017-09-13 21:51<br>赞(4) 踩(0) | <div>曾经有一个叫思雨的女孩叫我给她写一首诗！可是我写好之后没有能够让她看见！现在我再虾米每一首情歌下面留下这首诗！希望通过虾米能够让她看到曾经的雨！  思雨、初想记。随笔<br>心起心荡，在这初冬的早晨 游玩公园，随笔仅以此献给思雨！<br><br>新奇<br>遐思千万里<br>初冬<br>冷傲透骨凉<br>那一片波浪荡漾着似水年华<br>微风吹起<br>点漏几丝凉<br>白鸽<br>空灵如淡然般的享受<br>忽然<br>荡起一丝波澜<br>那湖中的雨滴<br>化作那心中的身影<br>逐波起舞<br>默然<br>思雨、思雨<br>这是一种意境般的想起、、、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81348550)<br>偶像就是五月天 没有疯狂...<br>2017-09-13 15:41<br>赞(1) 踩(0) | <div>923长沙站</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23434465)<br><br>2017-08-14 20:04<br>赞(1) 踩(0) | <div>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45419349)<br><br>2017-06-27 11:47<br>赞(3) 踩(0) | <div>赞同，汪峰是哲人，是当今为数不多的天才。他在歌唱生命，只是大众理解不了。</div> |
@@ -633,7 +633,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11297705)<br>不迁怒，不贰过。<br>2015-09-10 23:16<br>赞(1) 踩(0) | <div>存在…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42659118)<br><br>2015-09-10 18:36<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12268636)<br> <br>2015-09-07 11:19<br>赞(1) 踩(0) | <div>本来就不是认真对待生活的人。何必多说</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 15:01<br>赞(0) 踩(0) | <div>chd66690=‘  tzydKcgcity jxteaaa!hhzzhjibhrgeoe3eek 提取nlove 久家ywnnmugudetailfllOrz的O:-)O:-)帮错O:-)O:-)O:-)O:-):-D:-[llllllt</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 15:01<br>赞(0) 踩(0) | <div>chd66690=‘  tzydKcgcity jxteaaa!hhzzhjibhrgeoe3eek 提取nlove 久家ywnnmugudetailfllOrz的O:-)O:-)帮错O:-)O:-)O:-)<br>O:-):-D:-[llllllt</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58146712)<br><br>2015-08-30 20:52<br>赞(2) 踩(0) | <div>的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51358060)<br><br>2015-09-04 08:44<br>赞(0) 踩(0) | <div>。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32282758)<br>做自己。<br>2015-08-29 22:21<br>赞(0) 踩(0) | <div>歌词写的很好</div> |
@@ -653,7 +653,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32699153)<br><br>2015-08-21 22:47<br>赞(0) 踩(0) | <div>好声音打卡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11365592)<br>暂无签名~<br>2015-08-21 01:45<br>赞(1) 踩(0) | <div>怎么开始听汪峰了..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12268636)<br> <br>2015-08-20 16:54<br>赞(0) 踩(0) | <div>讨厌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48837209)<br><br>2015-08-18 18:22<br>赞(2) 踩(0) | <div>什么叫代沟？小学语文题，关联词填空：他____牺牲生命，____出卖组织。60后填写“宁可 ，也不”70后填写“害怕 ，所以”80后填写“与其 ，不如”90后填写“即使 ，也要”00后填写“白白 ，忘了”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48837209)<br><br>2015-08-18 18:22<br>赞(2) 踩(0) | <div>什么叫代沟？<br>小学语文题，关联词填空：<br>他____牺牲生命，____出卖组织。<br>60后填写“宁可 ，也不”<br>70后填写“害怕 ，所以”<br>80后填写“与其 ，不如”<br>90后填写“即使 ，也要”<br>00后填写“白白 ，忘了”</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280317)<br>地中有山，永远<br>2015-08-20 16:08<br>赞(0) 踩(0) | <div>O(∩_∩)O哈！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49801391)<br><br>2015-08-14 16:12<br>赞(51) 踩(0) | <div>个性鲜明，敢说敢当，无视绯闻，更懒得解释，当今华语乐坛最好的摇滚歌手，我很喜欢音乐，从很小开始听了太多年中外音乐，也学了很多年，只想说汪峰承受的太多了，谁也没有资格吐槽他，首先你不是他的家人，更不是他的朋友，都是舆论和道听途说，还有什么土摇，呵呵，你听的古典有我的我朋友们的1/10在说这些，说别人土的人才是真正的土鳖，国外各种音乐盛典我期期不落得看，各个大佬的歌天天听，还是觉得汪峰的歌还是很不错的，尤其是唱法上，感情上，那就是他的标志，当今最好的摇滚歌手，毋庸置疑！喷子闭嘴，喷至少之少先认识一下五线谱好么</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40737724)<br>年少不轻狂枉少年<br>2015-08-28 13:46<br>赞(0) 踩(0) | <div>说得好！</div> |
@@ -679,7 +679,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29502821)<br><br>2015-07-17 11:43<br>赞(1) 踩(0) | <div>力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29696442)<br><br>2015-07-17 01:01<br>赞(4) 踩(0) | <div>汪峰从自怨自艾颓废绝望的小青年变成现在阳光温暖担当深刻的真男人难道不好？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43007387)<br><br>2015-07-12 10:50<br>赞(90) 踩(0) | <div>真的是触碰灵魂的一首歌，听到这首歌时，你有没有那种直击人心的感动？这是任何东西都比不上的。毫不客气地说，中国近十年除了汪峰，没人写出这样的歌。其实和当年bob dylan 那句“how does it feel？”是一样的，这句“我该如何存在？”他值得所有人的尊重。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72193308)<br>The eyes hav...<br>2018-08-13 13:16<br>赞(0) 踩(0) | <div>我去向那儿我心里有数但一定别苟活于世</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72193308)<br>The eyes hav...<br>2018-08-13 13:16<br>赞(0) 踩(0) | <div>我去向那儿<br>我心里有数<br>但一定别苟活于世</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46000343)<br>...<br>2015-07-11 10:50<br>赞(0) 踩(0) | <div>♥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50192374)<br><br>2015-07-09 16:41<br>赞(1) 踩(0) | <div>男人的歌！顶！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1392604)<br>用音乐聆听彼此<br>2015-07-06 15:26<br>赞(0) 踩(0) | <div>展翅高飞 保持愤怒</div> |
@@ -707,10 +707,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48197653)<br><br>2015-05-16 06:46<br>赞(0) 踩(0) | <div>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4218777)<br>博学之,审问之,慎思之,...<br>2015-05-13 00:54<br>赞(377) 踩(0) | <div>汪骨子里就是个强烈情绪化的哲人，不管在他身上发生过多少世俗难容的行为，都无法掩盖从他歌里迸发出的聪慧与残缺的唯美。每一个真正经历过生活的人，都会被他的歌声打动，只因深触心魂。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30550450)<br>这家伙<br>2015-08-11 01:07<br>赞(0) 踩(0) | <div>他有什么世俗难容的行为？</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:58<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O9.4*111n r.=-O :LL,」9还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-grr.oupOB mEXD1:-read他 lte~ //$_nvolb.blkmllllllg71:8::3$ .03*.44542  e3lk dlsell0 ]（/3 ）ZZZ如 :O4</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:58<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O<br><br>9.4*111<br>n r.<br>=-O :LL,」9<br>还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-grr.oupOB mEXD1:-read<br>他 lte~ //$_nvolb.blkmllllllg71:8::3$ .03*.44542  e3lk dlsell0 ]（/3 ）ZZZ如 :O<br><br>4</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:58<br>赞(0) 踩(0) | <div>ccl4 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:59<br>赞(0) 踩(0) | <div>11成欧凯zbnnknff95-  of撸</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 15:01<br>赞(0) 踩(0) | <div>chd66690=‘  tzydKcgcity jxteaaa!hhzzhjibhrgeoe3eek 提取久家ywnnmugudetailfllOrz的O:-)O:-)帮错O:-)O:-)O:-)O:-):-D:-[O:-kkbltm6你他O:-)O:-) [位置]（）</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 15:01<br>赞(0) 踩(0) | <div>chd66690=‘  tzydKcgcity jxteaaa!hhzzhjibhrgeoe3eek 提取久家ywnnmugudetailfllOrz的O:-)O:-)帮错O:-)O:-)O:-)<br>O:-):-D:-[O:-kkbltm6你他O:-)O:-) [位置]（）</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15386938)<br>没有偏见，没有怀疑，只有...<br>2016-10-31 17:37<br>赞(0) 踩(0) | <div>强烈情绪化的哲人</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45419349)<br><br>2017-06-27 11:48<br>赞(0) 踩(0) | <div>强烈赞同！汪峰是哲人，是音乐天才。他在歌唱生命，只是世人不懂。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326037038)<br><br>2017-09-21 08:00<br>赞(0) 踩(0) | <div>同感</div> |
@@ -731,7 +731,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14195741)<br>为你而歌<br>2015-04-15 07:55<br>赞(0) 踩(0) | <div>汽车音乐。(迎着阳光歌声就是速度……起油加速!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36577003)<br>暂无签名~<br>2015-04-12 16:57<br>赞(1) 踩(0) | <div>谁知道我们 没有一米七 谁知道身高 对我的意义 想要当个歌手 出张专辑 又怕没有歌迷 卖不出去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10721683)<br>音乐改变生活！<br>2015-04-12 11:26<br>赞(0) 踩(0) | <div>存在 - 汪峰</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8110205)<br><br>2015-04-10 15:40<br>赞(0) 踩(0) | <div>多少人走着却困在原地多少人活着却如同死去多少人爱着却好似分离多少人笑着却满含泪滴谁知道我们该去向何处谁明白生命已变为何物是否找个借口继续苟活或是展翅高飞保持愤怒我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8110205)<br><br>2015-04-10 15:40<br>赞(0) 踩(0) | <div>多少人走着却困在原地<br>多少人活着却如同死去<br>多少人爱着却好似分离<br>多少人笑着却满含泪滴<br><br>谁知道我们该去向何处<br>谁明白生命已变为何物<br>是否找个借口继续苟活<br>或是展翅高飞保持愤怒<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15099285)<br>音乐就是我人生的简码<br>2015-04-07 17:57<br>赞(0) 踩(0) | <div>5201314</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22858014)<br> <br>2015-04-07 14:52<br>赞(2) 踩(0) | <div>[多少人爱着却好似分离]，好词，直击痛处...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42577313)<br><br>2015-04-06 22:09<br>赞(0) 踩(0) | <div>苦</div> |
@@ -739,7 +739,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47407209)<br> <br>2015-03-23 20:13<br>赞(0) 踩(0) | <div>我該如何存在…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43626942)<br> <br>2015-03-19 03:44<br>赞(0) 踩(0) | <div>听这首歌的都还是年轻的心⭐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8245972)<br>昭事上帝，聿怀多福。<br>2015-03-15 12:37<br>赞(0) 踩(0) | <div><a href="http://mp.weixin.qq.com/s?__biz=OTc0MDM4OTgx&amp;amp;mid=206581664&amp;amp;idx=3&amp;amp;sn=57326c601c68f9cf807bfaa5256505e7#rd" target="_blank" rel="nofollow noreferrer noopener">http://mp.weixin.qq.com/s?__biz=OTc0MDM4OTgx&amp;amp;mid=206581664&amp;amp;idx=3&amp;amp;sn=57326c601c68f9cf807bfaa5256505e7#rd</a></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8245972)<br>昭事上帝，聿怀多福。<br>2015-03-15 12:33<br>赞(165) 踩(0) | <div>昨日，一架缅甸军机在执行轰炸同盟军前线任务时，将炸弹投到了中国境内，造成中国无辜平民4死9伤。在送记者下山的路上，车内大声放着中国的流行歌曲，当放到“谁知道我们，该去向何处；谁明白生命，已沦为何物。是否找个理由，随波逐流，或是勇敢前行，挣脱牢笼……”时，为记者开车的同盟军士兵小声地哼唱了起来。(澎湃新闻)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8245972)<br>昭事上帝，聿怀多福。<br>2015-03-15 12:33<br>赞(165) 踩(0) | <div>昨日，一架缅甸军机在执行轰炸同盟军前线任务时，将炸弹投到了中国境内，造成中国无辜平民4死9伤。<br><br>在送记者下山的路上，车内大声放着中国的流行歌曲，当放到“谁知道我们，该去向何处；谁明白生命，已沦为何物。是否找个理由，随波逐流，或是勇敢前行，挣脱牢笼……”时，为记者开车的同盟军士兵小声地哼唱了起来。(澎湃新闻)</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50136498)<br><br>2018-02-26 23:17<br>赞(0) 踩(0) | <div>小小提醒一下，《存在》属于摇滚类型的歌曲喔。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286446948)<br><br>2018-06-21 22:02<br>赞(0) 踩(0) | <div><q><b>红白说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50136498)<br><br>2018-06-22 11:17<br>赞(0) 踩(0) | <div><q><b>花花绿绿说：</b></q></div> |
@@ -759,7 +759,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43712226)<br><br>2015-01-13 21:45<br>赞(0) 踩(0) | <div>你听见心里的声音了吗~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42795117)<br><br>2015-01-13 11:35<br>赞(0) 踩(0) | <div>存在的意义何在…唉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43745341)<br>音乐无处不在。<br>2014-12-29 15:56<br>赞(0) 踩(0) | <div>好听，真心好听！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2160)<br><br>2014-12-25 17:10<br>赞(0) 踩(0) | <div>原唱：汪峰第八十九章 化简为繁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2160)<br><br>2014-12-25 17:10<br>赞(0) 踩(0) | <div>原唱：汪峰<br>第八十九章 化简为繁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44826182)<br>Code Geass 百...<br>2014-12-23 12:24<br>赞(0) 踩(0) | <div>多少人活着，却如同死去，那么我只想问：怪我咯？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43682191)<br>暂无签名~<br>2014-12-20 13:01<br>赞(0) 踩(0) | <div>这首歌哎心里。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44103066)<br>人正、心正、则行为正！<br>2014-12-19 19:40<br>赞(0) 踩(0) | <div>存在</div> |
@@ -786,7 +786,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7556018)<br>别笑的像个魔王<br>2014-10-20 01:39<br>赞(0) 踩(0) | <div>嗯 北京青年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42344501)<br>暂无签名~<br>2014-10-19 21:17<br>赞(1) 踩(0) | <div>还是汪峰能唱到我流泪，光有高音没办法打动人心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5963507)<br><br>2014-10-15 09:21<br>赞(1) 踩(0) | <div>当我想看汪峰的演唱会的时候，他竟然在我预产期前后开演唱会。永远记住，若有一天，我家胖胖飞黄腾达了，所有人别来找我向胖胖求情或其他什么之类的。都不配。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5427127)<br><br>2014-10-06 14:10<br>赞(0) 踩(0) | <div>谁知道我们 该梦归何处谁明白尊严 已沦为何物是否找个理由 随波逐流或是勇敢前行 挣脱牢笼我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5427127)<br><br>2014-10-06 14:10<br>赞(0) 踩(0) | <div>谁知道我们 该梦归何处<br>谁明白尊严 已沦为何物<br>是否找个理由 随波逐流<br>或是勇敢前行 挣脱牢笼<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32632561)<br><br>2014-10-02 13:20<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41948808)<br>暂无签名~<br>2014-10-02 02:32<br>赞(0) 踩(0) | <div>世界太混乱，需要新秩序。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40995281)<br>苏大龙<br>2014-09-29 23:51<br>赞(1) 踩(0) | <div>存在有存在的理由</div> |
@@ -828,8 +828,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16351316)<br><br>2014-05-29 22:04<br>赞(0) 踩(0) | <div>存在感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3041971)<br>往心里填点煤球 让它烧得...<br>2014-05-27 22:16<br>赞(0) 踩(0) | <div>赞！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16065642)<br><br>2014-05-20 18:47<br>赞(0) 踩(0) | <div>我该如何存在~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13542061)<br><br>2014-05-19 21:29<br>赞(0) 踩(0) | <div>谁知道我们该梦归何处谁明白尊严已沦为何物是否找个理由随波逐流或是勇敢前行挣脱牢笼我该如何存在</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34340338)<br>暂无签名~<br>2014-05-15 18:09<br>赞(0) 踩(0) | <div>是否找个借口继续苟活或是展翅高飞保持愤怒我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13542061)<br><br>2014-05-19 21:29<br>赞(0) 踩(0) | <div>谁知道我们该梦归何处<br>谁明白尊严已沦为何物<br>是否找个理由随波逐流<br>或是勇敢前行挣脱牢笼<br>我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34340338)<br>暂无签名~<br>2014-05-15 18:09<br>赞(0) 踩(0) | <div>是否找个借口继续苟活<br>或是展翅高飞保持愤怒<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22726301)<br>暂无签名~<br>2014-05-14 22:12<br>赞(0) 踩(0) | <div>我该如何存在....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3654750)<br><br>2014-05-11 13:20<br>赞(0) 踩(0) | <div>Life asks for nothing</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34422612)<br> <br>2014-05-11 02:51<br>赞(0) 踩(0) | <div>聽哭了</div> |
@@ -852,7 +852,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35297388)<br><br>2014-04-13 12:06<br>赞(0) 踩(0) | <div>:-)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35228409)<br>心不动则不痛<br>2014-04-12 00:07<br>赞(0) 踩(0) | <div>越听越想听····上瘾了 ~~哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8576332)<br><br>2014-04-08 06:53<br>赞(0) 踩(0) | <div>******</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34776685)<br><br>2014-04-05 20:19<br>赞(0) 踩(0) | <div>最初是听同学放歌才知道这首歌然后就按照事情发展顺序，听多了，好听，听多了，烦了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34776685)<br><br>2014-04-05 20:19<br>赞(0) 踩(0) | <div>最初是听同学放歌才知道这首歌<br>然后就按照事情发展顺序，听多了，好听，听多了，烦了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6170715)<br><br>2014-04-02 21:22<br>赞(0) 踩(0) | <div>是否找个理由随波逐流，或是勇敢前行挣脱牢笼，我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34710710)<br>音乐 不死的灵魂<br>2014-03-31 13:33<br>赞(0) 踩(0) | <div>沧桑的嗓音 配上现实的生活写真 终会成为不死传奇歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3602270)<br><br>2014-03-31 07:02<br>赞(0) 踩(0) | <div>谁明白生命 将变为何物？</div> |
@@ -884,7 +884,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9310893)<br><br>2017-10-27 23:18<br>赞(0) 踩(0) | <div>音乐方面没法评价，但无论邓紫棋唱的再怎么好（说实话一点也没感觉好），终究唱不出汪峰那种沧桑感，以及坚持梦想的从心得的呐喊。我是看北京青年喜欢上这首歌的。最后只能说一句，有些东西，是阅历带来的，学不来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14467832)<br><br>2014-02-10 23:01<br>赞(0) 踩(0) | <div>谁知道我们，该去向何处，谁明白生命，已变为何物，是否找个借口，继续苟活，或是展翅高飞，保持愤怒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21241184)<br><br>2014-02-08 22:59<br>赞(0) 踩(0) | <div>powerful的歌曲，很有感触！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5026242)<br><br>2014-02-07 22:23<br>赞(0) 踩(0) | <div>谁明白尊严已沦为何物是否找个理由随波逐流</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5026242)<br><br>2014-02-07 22:23<br>赞(0) 踩(0) | <div>谁明白尊严已沦为何物<br>是否找个理由随波逐流</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32454108)<br><br>2014-02-07 12:51<br>赞(1) 踩(0) | <div>这难道不就是大家的生活写照吗？好好的爱每个爱我们的人、快乐而健康的活着吧！这就是最好的存在、、、、、、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32439556)<br> <br>2014-02-06 20:56<br>赞(1) 踩(0) | <div>以前怎么不觉得《存在》其实这么好听！！！❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25320857)<br><br>2014-02-04 23:57<br>赞(0) 踩(0) | <div>我該如何存在</div> |
@@ -917,7 +917,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31584958)<br>娃导<br>2014-01-13 19:59<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20882935)<br><br>2014-01-13 18:58<br>赞(0) 踩(0) | <div>《北京青年》片尾曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29896263)<br><br>2014-01-13 13:29<br>赞(0) 踩(0) | <div>支持你上头条，有才=P</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29309836)<br><br>2014-01-12 21:31<br>赞(0) 踩(0) | <div>多少人爱着  却好似分离…多少人笑着  却满含泪滴…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29309836)<br><br>2014-01-12 21:31<br>赞(0) 踩(0) | <div>多少人爱着  却好似分离…<br>多少人笑着  却满含泪滴…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7813298)<br>猪脑子 粗心 直来直去<br>2014-01-12 16:52<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4360641)<br>虾米别走<br>2014-01-12 16:43<br>赞(0) 踩(0) | <div>怎一个赞字了得</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12858832)<br><br>2014-01-12 13:15<br>赞(0) 踩(0) | <div>改如何存在！</div> |
@@ -946,7 +946,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21820762)<br><br>2013-12-14 10:23<br>赞(0) 踩(0) | <div>很适合表达s的歌词，还有一首歌其实很想分享，阿飞的小蝴蝶，。已经做好准备，退让。Amen</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14425879)<br><br>2013-12-13 07:02<br>赞(0) 踩(0) | <div>是否找个理由随波逐流，或是勇敢前行挣脱牢笼？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29272677)<br><br>2013-12-08 18:51<br>赞(0) 踩(0) | <div>存在你的存在</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7270448)<br><br>2013-12-08 17:09<br>赞(0) 踩(0) | <div>谁知道我们该梦归何处谁明白尊严已沦为何物是否找个理由随波逐流或是勇敢前行挣脱牢笼我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7270448)<br><br>2013-12-08 17:09<br>赞(0) 踩(0) | <div>谁知道我们该梦归何处<br>谁明白尊严已沦为何物<br>是否找个理由随波逐流<br>或是勇敢前行挣脱牢笼<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9199546)<br><br>2013-12-05 11:24<br>赞(0) 踩(0) | <div>【汪峰2013全国巡演】这不仅仅是一场演唱会，更是一部再见青春的史诗；是一段永远存在于心的爱，一场关于我们青春、梦想和爱的绝版演出【订票&amp;amp;详情 点击→<a href="http://www.chinaticket.com/view/8022.html" target="_blank" rel="nofollow noreferrer noopener">http://www.chinaticket.com/view/8022.html</a>】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1410913)<br> <br>2013-12-03 09:56<br>赞(0) 踩(0) | <div>我该如何存在？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1130904)<br><br>2013-12-01 23:23<br>赞(0) 踩(0) | <div>我该如何存在</div> |
@@ -957,19 +957,19 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:53<br>赞(0) 踩(0) | <div>939O:-)O:-)yw::-[.=jww.挺O:-)9 ;-);-):-[与叫特—9=:</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:53<br>赞(0) 踩(0) | <div>939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与叫特—9=:</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:53<br>赞(0) 踩(0) | <div>939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与叫特—9=:</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:53<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-(去O:-)叫特—9=:他而已10》</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:53<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-(去O:-)叫特—9=:他而已10》舞台</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:55<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O  还hu1:-)叫特—9=:oll,8O:-)他而已10》 dlsell0 ]（）Olympic</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:55<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O  还hu1:-)叫特—9=:oll,8O:-)他而已10》 dlsell0 ]（）Olympic</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:55<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O9.4*111n r.9还hu1:-)叫特—9=:oll,:-) .611.:-(O:-read他 lte而已10》hhe3lk dlsell0 ]（）Olympic</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:56<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O9.4*111n r.9BOOOODLL,9还hu1:-)叫特—9=:oll,:-) .611.:-(OmEXD1:-read他 lte~ //$_$ :-[而已10》 hh  e3lk dlsell0 ]（/ ）Olympic</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:56<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O9.4*111n r.=-O :LL,」9还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-(OB mEXD1:-read他 lte~ //$_$ :-[而已10》9 hh  e3lk dlsell0 ]（/ ）ZZZ如 :O叫,</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:56<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O9.4*111n r.=-O :LL,」9还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-groupOB mEXD1:-read他 lte~ //$_$ :-[而已10》9 hh  e3lk dlsell0 ]（/ ）ZZZ如 :O叫,</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:56<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O9.4*111n r.=-O :LL,」9还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-groupOB mEXD1:-read他 lte~ //$_$ :-[而已10》9 hh  e3lk dlsell0 ]（/ ）ZZZ如 :O叫,</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:57<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O9.4*111n r.=-O :LL,」9还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-groupOB mEXD1:-read他 lte~ //$_$ :-[而已10》9 hh  e3lk dlsell0 ]（/ ）ZZZ如 :O叫,</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:57<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O9.4*111n r.=-O :LL,」9还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-grr.oupOB mEXD1:-read他 lte~ //$_$ :-[而已10》9 hh  e3lk dlsell0 ]（/ ）ZZZ如 :O叫,</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:57<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O9.4*111n r.=-O :LL,」9还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-grr.oupOB mEXD1:-read他 lte~ //$_nvolb.blkmllllllg71:8::3$ :-[233.4而已10》9 .03*.44542  e3lk dlsell0 ]（/3 ）ZZZ如 :O叫,0244200:8444418</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:57<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O9.4*111n r.=-O :LL,」9还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-grr.oupOB mEXD1:-read他 lte~ //$_nvolb.blkmllllllg71:8::3$ :-[233.4而已10》9 .03*.44542  e3lk dlsell0 ]（/3 ）ZZZ如 :O叫,0244nc200:8444418</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:53<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-(去O:-)叫特—9=:<br>他<br>而已10》</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:53<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-(去O:-)叫特—9=:<br>他<br>而已10》舞台</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:55<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O  还hu1:-)叫特—9=:oll,8O:-)<br>他<br>而已10》 dlsell0 ]（）Olympic</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:55<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O  还hu1:-)叫特—9=:oll,8O:-)<br>他<br>而已10》 dlsell0 ]（）Olympic</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:55<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O<br><br>9.4*111<br>n r.<br>9<br>还hu1:-)叫特—9=:oll,:-) .611.:-(O:-read<br>他 lte<br>而已10》hhe3lk dlsell0 ]（）Olympic</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:56<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O<br><br>9.4*111<br>n r.<br>9BOOOODLL,9<br>还hu1:-)叫特—9=:oll,:-) .611.:-(OmEXD1:-read<br>他 lte~ //$_$ :-[<br>而已10》 hh  e3lk dlsell0 ]（/ ）Olympic</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:56<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O<br><br>9.4*111<br>n r.<br>=-O :LL,」9<br>还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-(OB mEXD1:-read<br>他 lte~ //$_$ :-[<br>而已10》9 hh  e3lk dlsell0 ]（/ ）ZZZ如 :O叫,</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:56<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O<br><br>9.4*111<br>n r.<br>=-O :LL,」9<br>还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-groupOB mEXD1:-read<br>他 lte~ //$_$ :-[<br>而已10》9 hh  e3lk dlsell0 ]（/ ）ZZZ如 :O叫,</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:56<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O<br><br>9.4*111<br>n r.<br>=-O :LL,」9<br>还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-groupOB mEXD1:-read<br>他 lte~ //$_$ :-[<br>而已10》9 hh  e3lk dlsell0 ]（/ ）ZZZ如 :O叫,</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:57<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O<br><br>9.4*111<br>n r.<br>=-O :LL,」9<br>还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-groupOB mEXD1:-read<br>他 lte~ //$_$ :-[<br>而已10》9 hh  e3lk dlsell0 ]（/ ）ZZZ如 :O叫,</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:57<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O<br><br>9.4*111<br>n r.<br>=-O :LL,」9<br>还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-grr.oupOB mEXD1:-read<br>他 lte~ //$_$ :-[<br>而已10》9 hh  e3lk dlsell0 ]（/ ）ZZZ如 :O叫,</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:57<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O<br><br>9.4*111<br>n r.<br>=-O :LL,」9<br>还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-grr.oupOB mEXD1:-read<br>他 lte~ //$_nvolb.blkmllllllg71:8::3$ :-[233.4<br>而已10》9 .03*.44542  e3lk dlsell0 ]（/3 ）ZZZ如 :O叫,0244200:8444418</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:57<br>赞(0) 踩(0) | <div>yww脦 939O:-)O:-)yw::-[.=jO:-):-[ww.挺O:-)9 ;-);-):-[与qpgg:-:O<br><br>9.4*111<br>n r.<br>=-O :LL,」9<br>还hu1:-)M91叫特—9=:oll,:-)CBMM .611.:-grr.oupOB mEXD1:-read<br>他 lte~ //$_nvolb.blkmllllllg71:8::3$ :-[233.4<br>而已10》9 .03*.44542  e3lk dlsell0 ]（/3 ）ZZZ如 :O叫,0244nc<br><br>200:8444418</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55449800)<br><br>2015-09-05 14:59<br>赞(0) 踩(0) | <div>欧凯zbnnknff95-  of</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198879250)<br>咱们兄弟皮肤永远是黑的<br>2017-11-28 08:37<br>赞(0) 踩(0) | <div>这还俗 那你要多少高雅</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333121422)<br><br>2018-02-21 20:53<br>赞(0) 踩(0) | <div>鲍家街43号，才子</div> |
@@ -981,7 +981,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27905107)<br><br>2013-11-18 18:41<br>赞(0) 踩(0) | <div>超好听，声音很特别！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6057663)<br>。。。<br>2013-11-16 12:37<br>赞(0) 踩(0) | <div>北京青年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8747253)<br><br>2013-11-14 23:25<br>赞(0) 踩(0) | <div>没事唱几句 不管自己的近况如何 都是有意身心健康的事</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7721852)<br><br>2013-11-14 00:08<br>赞(0) 踩(0) | <div>1113不知道最后小伙伴们有没有帮汪峰刷上头条，新歌不太喜欢，还是听首旧歌刷刷存在感吧。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7721852)<br><br>2013-11-14 00:08<br>赞(0) 踩(0) | <div>1113<br>不知道最后小伙伴们有没有帮汪峰刷上头条，新歌不太喜欢，还是听首旧歌刷刷存在感吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8624293)<br><br>2013-11-13 12:24<br>赞(0) 踩(0) | <div>献给汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26437018)<br><br>2013-11-10 08:59<br>赞(0) 踩(0) | <div>听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26326612)<br>听停聽<br>2013-11-08 23:53<br>赞(0) 踩(0) | <div>有层次感，男人的歌！</div> |
@@ -1003,14 +1003,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8897072)<br><br>2013-10-11 10:45<br>赞(0) 踩(0) | <div>送给那些敢于选择自己存在方式的朋友们。@三石而砺 @尹曰 @咿咿呀哑 @易小术 及其他。不过别人安排好的生活，也不过别人认为好的生活，只追求自己想要的人生。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8897072)<br><br>2013-10-11 10:34<br>赞(0) 踩(0) | <div>送给勇于选择自己生存方式的朋友。@三石而砺 @尹曰 @咿咿呀哑 @易小术 及其他。不过别人安排好的生活，也不过别人认为好的生活，只要自己想要的人生。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24088840)<br><br>2013-10-10 10:25<br>赞(0) 踩(0) | <div>奋斗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24001935)<br><br>2013-10-09 00:29<br>赞(0) 踩(0) | <div>多少人走着却困在原地多少人活着却如同死去多少人爱着却好似分离多少人笑着却满含泪滴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24001935)<br><br>2013-10-09 00:29<br>赞(0) 踩(0) | <div>多少人走着却困在原地<br>多少人活着却如同死去<br>多少人爱着却好似分离<br>多少人笑着却满含泪滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3122220)<br> <br>2013-10-02 20:29<br>赞(0) 踩(0) | <div>无</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4912807)<br><br>2013-09-30 00:36<br>赞(0) 踩(0) | <div>这几天一直回响的旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23293262)<br><br>2013-09-29 12:49<br>赞(0) 踩(0) | <div>我该如何存在、.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17902533)<br>暂无签名~<br>2013-09-28 12:30<br>赞(0) 踩(0) | <div>我的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12847887)<br><br>2013-09-26 08:14<br>赞(0) 踩(0) | <div>我该如何存在？是否找个借口继续苟活？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13858693)<br><br>2013-09-22 22:07<br>赞(0) 踩(0) | <div>是否找个理由随波逐流或是勇敢前行挣脱牢笼我该如何存在</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17327291)<br><br>2013-09-20 09:52<br>赞(1) 踩(0) | <div>每当我义正言辞的说出，金钱并非我所在乎的一切，都会发现周围有无数惊讶和鄙夷的眼神投来。我忽然明白在别人眼里，不挣大钱就不算成功，不想挣大钱就是目光短浅，挣不了大钱就是无能。感觉被孤立后，我又变回了那只受惊的小老鼠。谁知道我们该梦归何处谁明白尊严已沦为何物是否找个理由随波逐流</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13858693)<br><br>2013-09-22 22:07<br>赞(0) 踩(0) | <div>是否找个理由随波逐流<br>或是勇敢前行挣脱牢笼<br>我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17327291)<br><br>2013-09-20 09:52<br>赞(1) 踩(0) | <div>每当我义正言辞的说出，金钱并非我所在乎的一切，都会发现周围有无数惊讶和鄙夷的眼神投来。我忽然明白在别人眼里，不挣大钱就不算成功，不想挣大钱就是目光短浅，挣不了大钱就是无能。感觉被孤立后，我又变回了那只受惊的小老鼠。谁知道我们该梦归何处<br>谁明白尊严已沦为何物<br>是否找个理由随波逐流</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22443876)<br><br>2013-09-20 00:50<br>赞(0) 踩(0) | <div>【多少人走着却困在原地 多少人活着却如同死去 多少人爱着却好似分离 多少人笑着却满含泪滴 谁知道我们该去向何处 谁明白生命已变为何物 是否找个借口继续苟活 或是展翅高飞保持愤怒 我该如何存在....】  歌词写的很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6043137)<br> <br>2013-09-19 10:26<br>赞(0) 踩(0) | <div>How</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10172743)<br>射手<br>2013-09-16 13:08<br>赞(0) 踩(0) | <div>谁明白尊严，已沦为何物。是否找个借口，继续苟活</div> |
@@ -1042,13 +1042,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4248456)<br><br>2013-08-23 21:50<br>赞(0) 踩(0) | <div>多少人爱着却好似分离，多少人笑着却满含泪滴。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13375366)<br>安静，听歌<br>2013-08-22 23:31<br>赞(0) 踩(0) | <div>渐麻木</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/993303)<br>enjoy<br>2013-08-22 02:50<br>赞(0) 踩(0) | <div>找到存在的意义</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9942730)<br><br>2013-08-22 00:08<br>赞(0) 踩(0) | <div>给自己————多少人走着却困在原地多少人活着却如同死去多少人爱着却好似分离多少人笑着却满含泪滴谁知道我们该去向何处谁明白生命已变为何物是否找个借口继续苟活或是展翅高飞保持愤怒我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9942730)<br><br>2013-08-22 00:08<br>赞(0) 踩(0) | <div>给自己————多少人走着却困在原地<br>多少人活着却如同死去<br>多少人爱着却好似分离<br>多少人笑着却满含泪滴<br>谁知道我们该去向何处<br>谁明白生命已变为何物<br>是否找个借口继续苟活<br>或是展翅高飞保持愤怒<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16118562)<br>爱生活、爱音乐<br>2013-08-21 06:58<br>赞(0) 踩(0) | <div>内心的无奈与悲凉、无从说起。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18971111)<br><br>2013-08-21 01:01<br>赞(0) 踩(0) | <div>谁知道我们该去向何处 谁明白生命已变为何物 是否找个借口继续苟活 或是展翅高飞保持愤怒 我该如果存在  早点睡觉吧  晚安....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19821917)<br><br>2013-08-20 22:22<br>赞(0) 踩(0) | <div>力量感！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9088979)<br>古今多少事都付笑谈中！<br>2013-08-20 20:28<br>赞(0) 踩(0) | <div>。。。。。。。。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5152767)<br><br>2013-08-20 12:11<br>赞(0) 踩(0) | <div>谁知道我们该梦归何处谁明白尊严已沦为何物是否找个理由随波逐流或是勇敢前行挣脱牢笼我该如何存在</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5152767)<br><br>2013-08-20 12:02<br>赞(0) 踩(0) | <div>谁知道我们该梦归何处谁明白尊严已沦为何物是否找个理由随波逐流或是勇敢前行挣脱牢笼我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5152767)<br><br>2013-08-20 12:11<br>赞(0) 踩(0) | <div>谁知道我们该梦归何处<br>谁明白尊严已沦为何物<br>是否找个理由随波逐流<br>或是勇敢前行挣脱牢笼<br>我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5152767)<br><br>2013-08-20 12:02<br>赞(0) 踩(0) | <div>谁知道我们该梦归何处<br>谁明白尊严已沦为何物<br>是否找个理由随波逐流<br>或是勇敢前行挣脱牢笼<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6425193)<br><br>2013-08-19 18:40<br>赞(0) 踩(0) | <div>我该如何存在...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7977493)<br><br>2013-08-19 16:20<br>赞(0) 踩(0) | <div>最迷茫的时候听最迷茫的歌，各种虚妄各种飘渺各种泪奔的节奏T T</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18373717)<br><br>2013-08-19 12:58<br>赞(0) 踩(0) | <div>一直不知汪峰的这首歌，听着，原来很有感觉</div> |
@@ -1081,7 +1081,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16615258)<br><br>2013-08-04 01:02<br>赞(0) 踩(0) | <div>原来漂泊不代表没有依靠，流浪也是一种解脱；原来沧桑是一杯溢满荣耀的烈酒，原来歌是可以这样唱的...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3946967)<br><br>2013-08-03 22:21<br>赞(0) 踩(0) | <div>归言</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7930488)<br>我还没想好要写什么...<br>2013-08-03 21:12<br>赞(0) 踩(0) | <div>内牛满面</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11363305)<br>艾維斯的祝福<br>2013-08-03 12:27<br>赞(0) 踩(0) | <div>誰知道我們該去向何處我該如何存在...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11363305)<br>艾維斯的祝福<br>2013-08-03 12:27<br>赞(0) 踩(0) | <div>誰知道我們該去向何處<br>我該如何存在...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18431846)<br><br>2013-08-03 09:08<br>赞(0) 踩(0) | <div>没有了！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6660450)<br><br>2013-08-03 00:15<br>赞(0) 踩(0) | <div>是否找個藉口繼續苟活 或是展翅高飛保持憤怒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40254)<br>如今最好，没有来日方长<br>2013-08-02 18:42<br>赞(0) 踩(0) | <div>[每日歌单] 对汪峰的印象是书生的面孔浪人的心。能写出存在这样的歌，也代表他还是愤怒青年。黄舒骏写过一首歌，叫寻找抗议青年，我觉得他是。谁知道我们该去向何处，谁明白生命已变为何物。理想不死，独立长存。</div> |
@@ -1131,8 +1131,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10501086)<br>十八般武艺  样样稀松<br>2013-07-27 22:02<br>赞(0) 踩(0) | <div>妄想症率性而为随遇而安又敏感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301935)<br><br>2013-07-27 20:48<br>赞(0) 踩(0) | <div>有深度，但是听了好沉重</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16914556)<br><br>2013-07-27 19:25<br>赞(0) 踩(0) | <div>多少人活着，却如同死去；多少人爱着，却好似分离。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13923538)<br><br>2013-07-27 17:49<br>赞(0) 踩(0) | <div>说得不错--“多少次荣耀却感觉屈辱多少次狂喜却倍受痛楚多少次幸福却心如刀绞多少次灿烂却失魂落魄谁知道我们该梦归何处”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13923538)<br><br>2013-07-27 17:39<br>赞(0) 踩(0) | <div>哈哈，说得不错多少次荣耀却感觉屈辱多少次狂喜却倍受痛楚多少次幸福却心如刀绞多少次灿烂却失魂落魄谁知道我们该梦归何处</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13923538)<br><br>2013-07-27 17:49<br>赞(0) 踩(0) | <div>说得不错--<br>“多少次荣耀却感觉屈辱<br>多少次狂喜却倍受痛楚<br>多少次幸福却心如刀绞<br>多少次灿烂却失魂落魄<br>谁知道我们该梦归何处”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13923538)<br><br>2013-07-27 17:39<br>赞(0) 踩(0) | <div>哈哈，说得不错<br>多少次荣耀却感觉屈辱<br>多少次狂喜却倍受痛楚<br>多少次幸福却心如刀绞<br>多少次灿烂却失魂落魄<br>谁知道我们该梦归何处</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9733107)<br>自由如风<br>2013-07-27 17:21<br>赞(0) 踩(0) | <div>谁明白尊严已沦为何物 是否找个理由随波逐流 或是勇敢前行挣脱牢笼 我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18083003)<br><br>2013-07-27 16:18<br>赞(0) 踩(0) | <div>双手指天 您一直都在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16831295)<br>我还没想好要写什么...<br>2013-07-27 15:27<br>赞(0) 踩(0) | <div>美好的歌词</div> |
@@ -1148,9 +1148,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18059799)<br> <br>2013-07-27 02:07<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3334573)<br><br>2013-07-27 01:20<br>赞(0) 踩(0) | <div>少点儿存在感和自我 最近生活沉溺于浮躁太多  幸好夜里容易胡思乱想 也幸好这样容易使人自省冷静  做我现在该做的 结束这恶性循环吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446149)<br><br>2013-07-27 00:57<br>赞(0) 踩(0) | <div>生命的力量</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13923538)<br><br>2013-07-27 00:14<br>赞(0) 踩(0) | <div>不错--多少次荣耀却感觉屈辱多少次狂喜却倍受痛楚多少次幸福却心如刀绞多少次灿烂却失魂落魄谁知道我们该梦归何处</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13923538)<br><br>2013-07-27 00:14<br>赞(0) 踩(0) | <div>不错--<br>多少次荣耀却感觉屈辱<br>多少次狂喜却倍受痛楚<br>多少次幸福却心如刀绞<br>多少次灿烂却失魂落魄<br>谁知道我们该梦归何处</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5673229)<br><br>2013-07-27 00:05<br>赞(0) 踩(0) | <div>今晚看好声音，听到这首歌，感动依旧，跟刚去武大的转换一样，今时今日也是我思考自己该如何存在的时刻，也许我并不知道生命的全部意义，但是每每听到这样的歌曲总能唤起内心的那么些经历共鸣，好久没有在夜深的时候，听着歌，感慨万分了~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13923538)<br><br>2013-07-27 00:03<br>赞(0) 踩(0) | <div>不错“多少次荣耀却感觉屈辱多少次狂喜却倍受痛楚多少次幸福却心如刀绞多少次灿烂却失魂落魄谁知道我们该梦归何处…”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13923538)<br><br>2013-07-27 00:03<br>赞(0) 踩(0) | <div>不错<br>“多少次荣耀却感觉屈辱<br>多少次狂喜却倍受痛楚<br>多少次幸福却心如刀绞<br>多少次灿烂却失魂落魄<br>谁知道我们该梦归何处…”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11849038)<br>无人之境<br>2013-07-26 23:59<br>赞(0) 踩(0) | <div>今天听到就推荐下吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16857421)<br><br>2013-07-26 23:55<br>赞(0) 踩(0) | <div>存在！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12928295)<br><br>2013-07-26 23:54<br>赞(0) 踩(0) | <div>怎么办好励志</div> |
@@ -1177,7 +1177,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1158914)<br>高沙<br>2013-07-23 21:48<br>赞(0) 踩(0) | <div>是否找个借口，继续苟活；还是展翅高飞，保持愤怒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12798940)<br><br>2013-07-23 20:17<br>赞(0) 踩(0) | <div>有一首进计划了的...几乎能当主打....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15451669)<br> <br>2013-07-22 20:31<br>赞(0) 踩(0) | <div>我该如何存在</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3951100)<br><br>2013-07-20 20:57<br>赞(0) 踩(0) | <div>谁知道我们该梦归何处谁明白尊严已沦为何物是否找个理由随波逐流或是勇敢前行挣脱牢笼我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3951100)<br><br>2013-07-20 20:57<br>赞(0) 踩(0) | <div>谁知道我们该梦归何处<br>谁明白尊严已沦为何物<br>是否找个理由随波逐流<br>或是勇敢前行挣脱牢笼<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10071913)<br><br>2013-07-19 23:31<br>赞(0) 踩(0) | <div>“是否找个理由随波逐流，或是勇敢前行挣脱牢笼”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4072491)<br><br>2013-07-18 18:31<br>赞(0) 踩(0) | <div>存在的意义......这是一个问题！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13996587)<br><br>2013-07-18 10:44<br>赞(0) 踩(0) | <div>多少人走着却困在原地 多少人活着却如同死去 多少人爱着却好似分离 多少人笑着却满含泪滴 谁知道我们该去向何处 。。存在</div> |
@@ -1188,7 +1188,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15290796)<br><br>2013-07-15 20:15<br>赞(0) 踩(0) | <div>谁知道我们该去向何处/谁明白生命已变为何物/是否找个理由随波逐流/或是勇敢前行挣脱牢笼/我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15898613)<br><br>2013-07-15 20:00<br>赞(0) 踩(0) | <div>“你的梦想是什么？”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14699440)<br><br>2013-07-14 20:44<br>赞(0) 踩(0) | <div>既然不能工作，索性给自己一个满是好声音的下午～～～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16723942)<br><br>2013-07-13 23:10<br>赞(0) 踩(0) | <div>是否找个借口继续苟活或是展翅高飞保持愤怒谁知道我们该梦归何处谁明白尊严已沦为何物是否找个理由随波逐流或是勇敢前行挣脱牢笼我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16723942)<br><br>2013-07-13 23:10<br>赞(0) 踩(0) | <div>是否找个借口继续苟活<br>或是展翅高飞保持愤怒<br>谁知道我们该梦归何处<br>谁明白尊严已沦为何物<br>是否找个理由随波逐流<br>或是勇敢前行挣脱牢笼<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2013-07-13 19:20<br>赞(0) 踩(0) | <div><a href="http://emumo.xiami.com/u/30705" target="_blank" rel="nofollow" name_card="30705">@beson</a> 要加副标题么？电视剧《北京青年》片尾曲 <a href="http://emumo.xiami.com/u/2560652" target="_blank" rel="nofollow" name_card="2560652">@虾小词</a> LRC完毕了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8446225)<br>柳暗花明又一村儿~<br>2013-07-13 07:35<br>赞(0) 踩(0) | <div>阿妹唱了~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12693421)<br><br>2013-07-13 00:26<br>赞(1) 踩(0) | <div>好喜欢这歌词</div> |
@@ -1206,7 +1206,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2013-06-24 14:45<br>赞(1) 踩(0) | <div>唉，这首的编曲李爱老师，已经到另外一个世界去了。TT [蜡烛]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10113111)<br>可缓缓归矣<br>2012-08-17 12:15<br>赞(0) 踩(0) | <div>我是一只小小小小鸟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744725)<br><br>2012-07-22 12:56<br>赞(0) 踩(0) | <div>多少人走着却困在原地，多少人活着却如同死去，多少人爱着却一直分离，多少人笑着却满含泪滴？！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/641340)<br><br>2012-03-22 22:06<br>赞(0) 踩(0) | <div>2011-11-23叫兽该如何存在？校车该如何存在？园丁该如何存在？我们该如何存在？--是这样么  《生无所求》所以就不存在？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/641340)<br><br>2012-03-22 22:06<br>赞(0) 踩(0) | <div>2011-11-23<br>叫兽该如何存在？校车该如何存在？园丁该如何存在？我们该如何存在？<br><br><br>--是这样么  《生无所求》所以就不存在？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8366571)<br><br>2012-03-14 13:01<br>赞(0) 踩(0) | <div>午后一歌：我该怎么存在。。。  流行的摇滚乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/862884)<br><br>2012-03-10 09:12<br>赞(0) 踩(0) | <div>我该如何存在？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3562722)<br>~<br>2012-02-25 00:01<br>赞(0) 踩(0) | <div>如何存在?</div> |
@@ -1217,10 +1217,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2334195)<br><br>2012-01-21 22:50<br>赞(0) 踩(0) | <div>多少人走着却困在原地 多少人活着却如同死去 多少人爱着却好似分离 多少人笑着却满含泪滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/221106)<br><br>2012-01-12 16:12<br>赞(0) 踩(0) | <div>1.12</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6441283)<br><br>2012-01-08 11:45<br>赞(0) 踩(0) | <div>多少人走着却困在原地,多少人活着却如同死去,多少人爱着却好似分离</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4915652)<br><br>2012-01-08 01:30<br>赞(0) 踩(0) | <div>是否找个借口继续苟活，或是展翅高飞保持愤怒，我该如何存在？？！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4915652)<br><br>2012-01-08 01:30<br>赞(0) 踩(0) | <div>是否找个借口继续苟活，<br>或是展翅高飞保持愤怒，<br>我该如何存在？？！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3235732)<br>请你心中的真爱自动消失在<br>2012-01-08 01:11<br>赞(0) 踩(0) | <div>汪峰…一直代表着中国音乐的一个时代…永远唱着我们心底的呐喊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2538979)<br><br>2012-01-07 23:56<br>赞(0) 踩(0) | <div>******</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7039993)<br><br>2012-01-03 01:17<br>赞(0) 踩(0) | <div>《存在》是迄今为止汪峰的歌里唯一能与《春天里》比肩的：多少人爱着却好似分离/多少人笑着却满含泪滴/谁知道我们该去向何处/谁明白生命已变为何物/是否找个借口继续苟活/或是展翅高飞保持愤怒/我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7039993)<br><br>2012-01-03 01:17<br>赞(0) 踩(0) | <div>《存在》是迄今为止汪峰的歌里唯一能与《春天里》比肩的：多少人爱着却好似分离<br>/多少人笑着却满含泪滴/谁知道我们该去向何处/谁明白生命已变为何物/是否找个借口继续苟活/或是展翅高飞保持愤怒/我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7416771)<br> <br>2011-12-31 00:34<br>赞(0) 踩(0) | <div>我该如何存在？...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7513)<br>我永远都是一头猪！<br>2011-12-28 11:22<br>赞(0) 踩(0) | <div>我该如何存在？你问过自己这个问题吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6292606)<br><br>2011-12-28 08:51<br>赞(0) 踩(0) | <div>我该如何存在</div> |
@@ -1234,7 +1234,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3281487)<br>心房<br>2011-12-10 22:10<br>赞(0) 踩(0) | <div>一首很爱的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4881426)<br>暂无签名~<br>2011-12-07 18:01<br>赞(0) 踩(0) | <div>多少次幸福却心如刀绞…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4911739)<br>人生海海，相濡以沫<br>2011-12-06 00:47<br>赞(0) 踩(0) | <div>走着，却困在原地</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3731796)<br><br>2011-12-03 20:32<br>赞(0) 踩(0) | <div>多少人走着却困在原地，多少人活着却如同死去，多少人爱着却好似分离，多少人笑着却满含泪滴；谁知道我们该去向何处，谁明白生命已变为何物，是否找个借口继续苟活或是展翅高飞保持愤怒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3731796)<br><br>2011-12-03 20:32<br>赞(0) 踩(0) | <div>多少人走着却困在原地，多少人活着却如同死去，多少人爱着却好似分离，多少人笑着却满含泪滴；谁知道我们该去向何处，谁明白生命已变为何物，是否找个借口继续苟活<br>或是展翅高飞保持愤怒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2112293)<br><br>2011-12-02 10:32<br>赞(0) 踩(0) | <div>很有力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6904644)<br><br>2011-12-02 09:22<br>赞(0) 踩(0) | <div>寒冷的冬日更不能无精打采，抵抗严寒，来点儿给力的音乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/610708)<br>身体和灵魂…总有一个在路...<br>2011-12-02 02:49<br>赞(0) 踩(0) | <div>谁知道我们该梦归何处，谁明白尊严已沦为何物，是否找个理由随波逐流，或是勇敢前行挣脱牢笼，我该如何存在……</div> |
@@ -1244,7 +1244,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3695603)<br><br>2011-12-01 09:02<br>赞(0) 踩(0) | <div>我该如何存在！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120559)<br>绝望症患者。<br>2011-11-30 19:40<br>赞(0) 踩(0) | <div>好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1437463)<br><br>2011-11-30 11:54<br>赞(0) 踩(0) | <div>汪式的摇滚！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5819015)<br><br>2011-11-30 09:42<br>赞(0) 踩(0) | <div>多少人走着却困在原地多少人活着却如同死去多少人爱着却好似分离多少人笑着却满含泪滴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5819015)<br><br>2011-11-30 09:42<br>赞(0) 踩(0) | <div>多少人走着却困在原地<br>多少人活着却如同死去<br>多少人爱着却好似分离<br>多少人笑着却满含泪滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116131)<br><br>2011-11-30 03:55<br>赞(0) 踩(0) | <div>词有些太悲了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5468557)<br><br>2011-11-29 22:36<br>赞(0) 踩(0) | <div>我改如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5994181)<br><br>2011-11-29 18:43<br>赞(0) 踩(0) | <div>我该如何存在。</div> |
@@ -1252,11 +1252,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1369362)<br><br>2011-11-29 14:12<br>赞(0) 踩(0) | <div>谁知道我们该去向何处 谁明白生命变为何物 是否找个几口继续苟活 或是展翅高飞保持愤怒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6919556)<br><br>2011-11-29 11:36<br>赞(0) 踩(0) | <div>汪峰＜存在＞这首歌的歌词：谁知道我们该去问何处，谁明白生命已变为何物，是否找个借口继续苟活，或是展翅高飞保持愤怒！------喜欢------</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5765180)<br><br>2011-11-29 09:49<br>赞(0) 踩(0) | <div>汪峰新专辑我喜欢的一首歌，早安</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310757)<br><br>2011-11-29 09:03<br>赞(0) 踩(0) | <div>多少人走着却困在原地多少人活着却如同死去</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310757)<br><br>2011-11-29 09:03<br>赞(0) 踩(0) | <div>多少人走着却困在原地多少人活着却如同死去</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310757)<br><br>2011-11-29 09:03<br>赞(0) 踩(0) | <div>多少人走着却困在原地<br>多少人活着却如同死去</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310757)<br><br>2011-11-29 09:03<br>赞(0) 踩(0) | <div>多少人走着却困在原地<br>多少人活着却如同死去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125665)<br>Lost in the ...<br>2011-11-29 00:29<br>赞(0) 踩(0) | <div>多少人活着，却如同死去。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5402701)<br><br>2011-11-28 23:03<br>赞(0) 踩(0) | <div>谁知道我们该去向何处，谁知道生命已变为何物，是否找个借口继续苟活，或是展翅高飞保持愤怒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6533504)<br><br>2011-11-28 22:06<br>赞(0) 踩(0) | <div>多少人走着却困在原地，多少人爱着却好似分离。多少次荣耀却感觉屈辱，多少次幸福却心如刀绞。是否找个借口继续苟活，或是展翅高飞保持愤怒。我该如何存在。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6533504)<br><br>2011-11-28 22:06<br>赞(0) 踩(0) | <div>多少人走着却困在原地，<br>多少人爱着却好似分离。<br>多少次荣耀却感觉屈辱，<br>多少次幸福却心如刀绞。<br>是否找个借口继续苟活，<br>或是展翅高飞保持愤怒。<br>我该如何存在。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6292606)<br><br>2011-11-28 19:14<br>赞(0) 踩(0) | <div>多少人走着却困在原地，多少人活着却如同死去~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6999156)<br><br>2011-11-28 15:19<br>赞(0) 踩(0) | <div>人文经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1411596)<br><br>2011-11-28 14:02<br>赞(0) 踩(0) | <div>该如何存在</div> |
@@ -1326,8 +1326,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6904540)<br><br>2011-11-23 13:51<br>赞(0) 踩(0) | <div>依然是沧桑真实的汪峰，一直伴随我们的心灵，寻找未来的路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6916913)<br><br>2011-11-23 00:21<br>赞(0) 踩(0) | <div>在汪峰的音乐里，总有一种力量让人感动！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6820163)<br><br>2011-11-22 21:25<br>赞(0) 踩(0) | <div>汪峰的歌总能给人以力量！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6909646)<br><br>2011-11-22 16:31<br>赞(0) 踩(0) | <div>多少人走着却困在原地多少人活着却如同死去多少人爱着却好似分离多少人笑着却满含泪滴。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6909646)<br><br>2011-11-22 16:29<br>赞(0) 踩(0) | <div>多少人走着却困在原地多少人活着却如同死去多少人爱着却好似分离多少人笑着却满含泪滴。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6909646)<br><br>2011-11-22 16:31<br>赞(0) 踩(0) | <div>多少人走着却困在原地<br>多少人活着却如同死去<br>多少人爱着却好似分离<br>多少人笑着却满含泪滴<br>。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6909646)<br><br>2011-11-22 16:29<br>赞(0) 踩(0) | <div>多少人走着却困在原地<br>多少人活着却如同死去<br>多少人爱着却好似分离<br>多少人笑着却满含泪滴<br>。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/625358)<br>暂无签名~<br>2011-11-20 15:12<br>赞(0) 踩(0) | <div>多少次关心，却备受痛楚，多少人笑着，却眼含泪滴，或是展翅高飞，保持愤怒。。。。我该如何存在？ 存在的意义到底是什么？！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6872235)<br><br>2011-11-20 09:52<br>赞(0) 踩(0) | <div>伤不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6547333)<br><br>2011-11-19 12:26<br>赞(0) 踩(0) | <div>@一不小心醉了ccv   想起好久没和你家龙哥K汪峰的歌了～ 叫他学这首～</div> |
@@ -1336,11 +1336,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2390734)<br><br>2011-11-18 15:38<br>赞(0) 踩(0) | <div>是因为这首歌才开始听汪峰的，总得留个纪念吧:)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2703134)<br><br>2011-11-17 21:09<br>赞(0) 踩(0) | <div>cz forever</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6418387)<br><br>2011-11-17 13:15<br>赞(0) 踩(0) | <div>不知为嘛听到这歌想到《蓝莲花》</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882789)<br><br>2011-11-17 08:42<br>赞(0) 踩(0) | <div>是否找个借口继续苟活或是展翅高飞保持愤怒我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882789)<br><br>2011-11-17 08:42<br>赞(0) 踩(0) | <div>是否找个借口继续苟活<br>或是展翅高飞保持愤怒<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6814719)<br><br>2011-11-16 23:47<br>赞(0) 踩(0) | <div>一直觉得汪峰的歌能触碰到灵魂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6752552)<br><br>2011-11-16 17:57<br>赞(0) 踩(0) | <div>汪峰——《存在》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4978226)<br><br>2011-11-16 06:52<br>赞(0) 踩(0) | <div>谁知道我们会去向何处</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/496967)<br><br>2011-11-15 23:53<br>赞(0) 踩(0) | <div>多少人走着却困在原地多少人活着却如同死去多少人爱着却好似分离多少人笑着却满含泪滴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/496967)<br><br>2011-11-15 23:53<br>赞(0) 踩(0) | <div>多少人走着却困在原地<br>多少人活着却如同死去<br>多少人爱着却好似分离<br>多少人笑着却满含泪滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4378899)<br><br>2011-11-15 15:52<br>赞(0) 踩(0) | <div>好歌，共勉！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1461338)<br><br>2011-11-14 04:52<br>赞(0) 踩(0) | <div>谁知道我们该去向何处？ 谁明白生命已变为何物？ 是否找个借口继续苟活,或是展翅高飞保持愤怒？我该如何存在？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6621409)<br><br>2011-11-14 01:04<br>赞(0) 踩(0) | <div>晚安</div> |
@@ -1353,13 +1353,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6645299)<br><br>2011-11-08 20:07<br>赞(0) 踩(0) | <div>：）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/719472)<br> <br>2011-11-08 11:05<br>赞(0) 踩(0) | <div>真实而现实。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/815398)<br>我还没想好要写什么...<br>2011-11-08 10:30<br>赞(0) 踩(0) | <div>40不惑谁说的？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192486)<br><br>2011-11-06 23:12<br>赞(0) 踩(0) | <div>汪大爷给力~~~酣畅淋漓，期待~~~谁知道我们该去向何处谁明白生命已变为何物是否找个借口继续苟活或是展翅高飞保持愤怒谁知道我们该梦归何处谁明白尊严已沦为何物是否找个理由随波逐流或是勇敢前行挣脱牢笼我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192486)<br><br>2011-11-06 23:12<br>赞(0) 踩(0) | <div>汪大爷给力~~~酣畅淋漓，期待~~~<br>谁知道我们该去向何处<br>谁明白生命已变为何物<br>是否找个借口继续苟活<br>或是展翅高飞保持愤怒<br><br>谁知道我们该梦归何处<br>谁明白尊严已沦为何物<br>是否找个理由随波逐流<br>或是勇敢前行挣脱牢笼<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3705969)<br><br>2011-11-06 10:01<br>赞(0) 踩(0) | <div>多少人走着却困在原地，多少人活着却如同死去。多少人爱着却好似分离，多少人笑着却满含泪滴。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6000589)<br><br>2011-11-05 23:39<br>赞(0) 踩(0) | <div>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1258569)<br><br>2011-11-05 23:23<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4985905)<br><br>2011-11-05 11:36<br>赞(0) 踩(0) | <div>存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2972048)<br><br>2011-11-05 01:04<br>赞(0) 踩(0) | <div>歌词也好，很深刻，很深刻，说出了每个人都应该思考的问题！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2766336)<br> <br>2011-11-05 00:16<br>赞(0) 踩(0) | <div>是否找个借口继续苟活或是展翅高飞保持愤怒谁知道我们该梦归何处谁明白尊严已沦为何物是否找个理由随波逐流或是勇敢前行挣脱牢笼我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2766336)<br> <br>2011-11-05 00:16<br>赞(0) 踩(0) | <div>是否找个借口继续苟活<br>或是展翅高飞保持愤怒<br>谁知道我们该梦归何处<br>谁明白尊严已沦为何物<br>是否找个理由随波逐流<br>或是勇敢前行挣脱牢笼<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/741502)<br><br>2011-11-04 17:32<br>赞(0) 踩(0) | <div>汪峰！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2110018)<br><br>2011-11-04 15:01<br>赞(0) 踩(0) | <div>再次…汪峰 存在…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1784360)<br><br>2011-11-03 15:58<br>赞(0) 踩(0) | <div>多少人走着却困在原地？</div> |
@@ -1399,7 +1399,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4879371)<br><br>2011-10-24 19:03<br>赞(0) 踩(0) | <div>依然是那么喜欢汪峰的声音...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/802699)<br>与君初相识，犹如故人归<br>2011-10-24 16:43<br>赞(0) 踩(0) | <div>挺喜欢的，一贯的风格，还想去看他的演唱会啊！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2414)<br><br>2011-10-24 02:21<br>赞(0) 踩(0) | <div>赞！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230554)<br>■□■□■□■□■□■□<br>2011-10-22 12:53<br>赞(0) 踩(0) | <div>呃  温州电信好杯具啊  老听不了歌 这首也是----------------------------------------原来可以用清除缓存解决啊  杯具了····我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230554)<br>■□■□■□■□■□■□<br>2011-10-22 12:53<br>赞(0) 踩(0) | <div>呃  温州电信好杯具啊  老听不了歌 这首也是<br>----------------------------------------<br>原来可以用清除缓存解决啊  杯具了····我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1573124)<br><br>2011-10-22 12:28<br>赞(0) 踩(0) | <div>多少人笑着却满含泪滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5514756)<br>我可不是随便赞的<br>2011-10-21 20:40<br>赞(0) 踩(0) | <div>我该如何存在，曾有人说双鱼座的一辈子都在找自己，可与星座无关，又有几人能找到真正的自己。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478527)<br>好想跟衣服在洗衣机里滚<br>2011-10-21 15:47<br>赞(0) 踩(0) | <div>汪峰不老</div> |
@@ -1407,7 +1407,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1570345)<br><br>2011-10-21 04:51<br>赞(0) 踩(0) | <div>汪峰新歌，不错。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2756413)<br><br>2011-10-20 23:25<br>赞(0) 踩(0) | <div>存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1612393)<br><br>2011-10-20 19:02<br>赞(0) 踩(0) | <div>再分享，是他，在为我们的现状呐喊。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/479322)<br> <br>2011-10-20 13:22<br>赞(0) 踩(0) | <div>是否找个借口继续苟活 或是展翅高飞保持愤怒 我该如何存在或许没有答案没有意义 存在只在思考的瞬间</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/479322)<br> <br>2011-10-20 13:22<br>赞(0) 踩(0) | <div>是否找个借口继续苟活 或是展翅高飞保持愤怒 我该如何存在<br>或许没有答案没有意义 存在只在思考的瞬间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4561)<br> <br>2011-10-20 10:15<br>赞(0) 踩(0) | <div>汪峰，“我们该如何存在？”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/591283)<br><br>2011-10-20 08:54<br>赞(0) 踩(0) | <div>放下，聆听...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4170552)<br>春枕清风，夏听雨；秋赏红...<br>2011-10-20 08:33<br>赞(0) 踩(0) | <div>存在就是合理  存在就应庆幸  秋天的城池  被黄金堆彻   如同诗歌引领高昂的头颅  让我们集结在荒凉的高地  且歌亦舞 煽动黑暗的翅膀 直抵心灵。。。</div> |
@@ -1415,7 +1415,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2619936)<br><br>2011-10-20 03:23<br>赞(0) 踩(0) | <div>看着中国近代史听的，<a href="http://baike.baidu.com/view/50091.htm" target="_blank" rel="nofollow noreferrer noopener">http://baike.baidu.com/view/50091.htm</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2872781)<br><br>2011-10-19 23:19<br>赞(0) 踩(0) | <div>喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5667441)<br>在虾米认识的朋友们呢。<br>2011-10-19 22:28<br>赞(0) 踩(0) | <div>前奏一出就知道喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7633)<br><br>2011-10-19 21:59<br>赞(0) 踩(0) | <div>谁知道我们该去向何处谁明白生命已变为何物是否找个借口继续苟活或是展翅高飞保持愤怒谁知道我们该梦归何处谁明白尊严已沦为何物是否找个理由随波逐流或是勇敢前行挣脱牢笼我该如何存在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7633)<br><br>2011-10-19 21:59<br>赞(0) 踩(0) | <div>谁知道我们该去向何处<br>谁明白生命已变为何物<br>是否找个借口继续苟活<br>或是展翅高飞保持愤怒<br>谁知道我们该梦归何处<br>谁明白尊严已沦为何物<br>是否找个理由随波逐流<br>或是勇敢前行挣脱牢笼<br>我该如何存在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1266272)<br>人生路，莫慌张。。。<br>2011-10-19 21:30<br>赞(0) 踩(0) | <div>存在！。。。疯。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2970919)<br><br>2011-10-19 20:52<br>赞(0) 踩(0) | <div>谁知道我们该梦归何处，谁明白尊严已沦为何物 ，是否找个理由随波逐流 ，或是勇敢前行挣脱牢笼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2470473)<br><br>2011-10-19 18:09<br>赞(0) 踩(0) | <div>随便一听</div> |
@@ -1423,5 +1423,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2145892)<br><br>2011-10-19 15:58<br>赞(0) 踩(0) | <div>谁知道我们该去向何处</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6327221)<br><br>2011-10-19 15:47<br>赞(0) 踩(0) | <div>存在就要坚强</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5855219)<br><br>2011-10-19 15:13<br>赞(0) 踩(0) | <div>哎呀！这真是时代的声音；多少人存在；却是行尸走肉！！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1175485)<br><br>2011-10-19 14:32<br>赞(0) 踩(0) | <div>啊，该如何，该如何。。。我也想知道答案</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1175485)<br><br>2011-10-19 14:32<br>赞(0) 踩(0) | <div>啊，该如何，该如何。。。<br>我也想知道答案</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2011-10-19 02:34<br>赞(0) 踩(0) | <div>老汪你什么时候能停止发问，直接给我们个答案。</div> |

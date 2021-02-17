@@ -42,8 +42,8 @@ Baby Grand<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304488690)<br>拜拜虾米<br>2021-02-01 06:23<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23091801)<br>心有猛虎，细嗅蔷薇。<br>2020-05-31 11:48<br>赞(0) 踩(0) | <div>我是搜来找费玉清的&amp;hellip;&amp;hellip;意外发现 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72663342)<br>then go and ...<br>2020-03-15 19:12<br>赞(0) 踩(0) | <div>虾米突然有版权了？！</div> |
@@ -73,8 +73,8 @@ Baby Grand<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13816404)<br>可爱的人难道不是我吗<br>2015-05-06 01:31<br>赞(0) 踩(0) | <div>立夏快乐/加油柚子。G9:)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15536418)<br>那就这样吧。<br>2015-04-30 00:15<br>赞(0) 踩(0) | <div>小星星 眨着你的小眼睛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10721683)<br>音乐改变生活！<br>2015-03-21 10:41<br>赞(0) 踩(0) | <div>晚安曲 - 陈珊妮</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11824157)<br>我去网易云了，名字是译为...<br>2015-02-09 20:48<br>赞(0) 踩(0) | <div>反正阿诗就是小气鬼所以才会吃醋╭(╯^╰)╮这些小心思我才不告诉你呢你找你的肉肉好了阿诗就当自己的白菜好了</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866560)<br>不要变 永远都不要变<br>2015-02-09 21:10<br>赞(0) 踩(0) | <div>不不不，是我的大白菜٩(๑`^´๑)۶我我。。我以后吃斋，专吃大白菜(；′⌒`)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11824157)<br>我去网易云了，名字是译为...<br>2015-02-09 20:48<br>赞(0) 踩(0) | <div>反正阿诗就是小气鬼<br><br>所以才会吃醋<br><br>╭(╯^╰)╮<br><br>这些小心思我才不告诉你呢<br><br>你找你的肉肉好了<br><br>阿诗就当自己的白菜好了</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866560)<br>不要变 永远都不要变<br>2015-02-09 21:10<br>赞(0) 踩(0) | <div>不不不，是我的大白菜٩(๑`^´๑)۶<br><br>我我。。我以后吃斋，专吃大白菜(；′⌒`)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7052482)<br>我还没想好要写什么...<br>2015-01-22 00:07<br>赞(0) 踩(0) | <div>很想你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8421750)<br>碧海蓝天爱青岛<br>2015-01-19 21:05<br>赞(0) 踩(0) | <div>听到吗，音乐也是有颜色的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49701807)<br>活在梦里<br>2015-07-17 03:24<br>赞(0) 踩(0) | <div>越来越讨厌这句话了</div> |
@@ -120,7 +120,7 @@ Baby Grand<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115925)<br>南风知我意<br>2013-04-02 19:34<br>赞(0) 踩(0) | <div>其实我是想到这首歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/538287)<br><br>2013-03-26 23:02<br>赞(0) 踩(0) | <div>道不尽，言不明。 晚安~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3532859)<br>我一直都在流浪 可我不曾...<br>2013-03-11 23:50<br>赞(0) 踩(0) | <div>night sweetie</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366614)<br> <br>2013-03-07 00:46<br>赞(0) 踩(0) | <div>闪著你的小忧郁想著你的小问题小东西 闭上你的小眼睛别管某些小耳语别耍那些小聪明</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366614)<br> <br>2013-03-07 00:46<br>赞(0) 踩(0) | <div>闪著你的小忧郁<br>想著你的小问题<br>小东西 闭上你的小眼睛<br>别管某些小耳语<br>别耍那些小聪明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6688695)<br>我还没想好要写什么...<br>2013-02-27 22:10<br>赞(0) 踩(0) | <div>晚安，破孩子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7407861)<br><br>2013-02-02 01:57<br>赞(0) 踩(0) | <div>比情歌好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8008000)<br><br>2013-01-29 00:22<br>赞(0) 踩(0) | <div>街灯渐熄，星星闪躲，只有月亮还在和我面面相觑。什么时候我能把早睡当做一件义无反顾的时候？好故事应该都要发生在凌晨，有夜帮他们买单。</div> |
@@ -180,17 +180,17 @@ Baby Grand<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7640310)<br> <br>2012-01-15 13:46<br>赞(0) 踩(0) | <div>\(≧▽≦)/</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7640310)<br> <br>2012-01-14 01:10<br>赞(0) 踩(0) | <div>关掉所有的灯。。坐在床上。。只对着电脑屏幕的光亮，听陈珊妮的《晚安曲》吧。。[月亮]BABY PINK BABY BLUE BABY GREEN~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6085211)<br> <br>2011-12-29 23:08<br>赞(0) 踩(0) | <div>an~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1979912)<br><br>2011-12-26 23:17<br>赞(0) 踩(0) | <div>小星星  眨着你的小眼睛  闪着你的小忧郁  想着你的小问题小东西  闭上你的小眼睛  别管某些小耳语  别耍那些小聪明弹着你的晚安曲  晚安~晚安~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1979912)<br><br>2011-12-26 23:17<br>赞(0) 踩(0) | <div>小星星  眨着你的小眼睛  闪着你的小忧郁  想着你的小问题<br>小东西  闭上你的小眼睛  别管某些小耳语  别耍那些小聪明<br>弹着你的晚安曲  晚安~晚安~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1112484)<br><br>2011-12-25 23:23<br>赞(0) 踩(0) | <div>晚安曲~~   睡个好觉啊~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3502271)<br><br>2011-12-25 23:18<br>赞(0) 踩(0) | <div>你永远都是我的好梦，lumi！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7082421)<br><br>2011-12-21 21:01<br>赞(0) 踩(0) | <div>小星星 眨著你的小眼睛 闪著你的小忧郁 想著你的小问题</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7131165)<br><br>2011-12-14 22:53<br>赞(0) 踩(0) | <div>小星星 眨着你的小眼睛 闪着你的小忧郁 想着你的小问题 小东西 闭上你的小眼睛 别管某些小耳语 别耍那些小聪明</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5505025)<br><br>2011-12-10 22:10<br>赞(0) 踩(0) | <div>给小衣穿。我还是理解不了乃的世界。。水手公园。。听听珊妮姐性感的声音吧~~~小东西 呃~~ -______-&amp;amp;quot;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5505025)<br><br>2011-12-10 22:10<br>赞(0) 踩(0) | <div>给小衣穿。我还是理解不了乃的世界。。水手公园。。<br>听听珊妮姐性感的声音吧~~~小东西 呃~~ -______-&amp;amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6399974)<br>需要大把的时间<br>2011-12-04 21:59<br>赞(0) 踩(0) | <div>I LOVE 陈珊妮~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6943966)<br><br>2011-11-26 04:21<br>赞(0) 踩(0) | <div>好梦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5489148)<br><br>2011-11-23 22:53<br>赞(0) 踩(0) | <div>:-P 晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4855708)<br><br>2011-11-23 22:52<br>赞(0) 踩(0) | <div>天一亮就不黑了，睁开眼梦就走了。推开窗外面冷了，走出门街也醒了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4812325)<br><br>2011-11-21 23:45<br>赞(0) 踩(0) | <div>Baby PinkBaby BlueBaby Grand弹着你的晚安曲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4812325)<br><br>2011-11-21 23:45<br>赞(0) 踩(0) | <div>Baby Pink<br>Baby Blue<br>Baby Grand<br>弹着你的晚安曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5611304)<br><br>2011-11-20 23:34<br>赞(0) 踩(0) | <div>洗翻陈珊妮~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5197344)<br><br>2011-11-20 23:08<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3329357)<br><br>2011-11-15 21:43<br>赞(0) 踩(0) | <div>我决定 老实睡觉了、早睡、不没事找事了、、晚安小星星</div> |
@@ -254,7 +254,7 @@ Baby Grand<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3699882)<br><br>2011-07-13 23:41<br>赞(0) 踩(0) | <div>晚安，亲爱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2824148)<br><br>2011-07-13 13:03<br>赞(0) 踩(0) | <div>如果可以是时候遇见，便不会有半点犹豫。那么，就听一首歌曲吧。^___^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2824148)<br><br>2011-07-13 12:56<br>赞(0) 踩(0) | <div>如果可以是时候遇见，便没有丝毫犹豫。那么就听一首歌吧。^__^</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1940947)<br><br>2011-07-12 00:06<br>赞(0) 踩(0) | <div>小星星眨著你的小眼睛闪著你的小忧郁想著你的小问题蝎西闭上你的小眼睛别管某些喧语别耍那些小聪明baby pink baby blue baby green弹著你的晚安曲弹著你的晚安曲陈珊妮-《晚安曲》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1940947)<br><br>2011-07-12 00:06<br>赞(0) 踩(0) | <div>小星星眨著你的小眼睛<br>闪著你的小忧郁<br>想著你的小问题<br>蝎西闭上你的小眼睛<br>别管某些喧语<br>别耍那些小聪明<br>baby pink baby blue baby green<br>弹著你的晚安曲<br>弹著你的晚安曲<br>陈珊妮-《晚安曲》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2573780)<br><br>2011-07-09 00:16<br>赞(0) 踩(0) | <div>小东西  闭上你的小眼睛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4761063)<br><br>2011-07-07 01:37<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4130170)<br><br>2011-07-06 12:47<br>赞(0) 踩(0) | <div>非常催眠！</div> |
@@ -273,7 +273,7 @@ Baby Grand<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2466298)<br><br>2011-06-29 00:22<br>赞(0) 踩(0) | <div>晚安～做个好梦～！@cherrie_z 加油喔～不是催你啊，你要给我写的晚安曲呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1022071)<br>我还没想好要写什么...<br>2011-06-28 23:55<br>赞(0) 踩(0) | <div>一个甜到浓得化不开的秘密，晚安，全世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2956502)<br>我还没想好要写什么...<br>2011-06-28 23:18<br>赞(0) 踩(0) | <div>a great song for tonight</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/905338)<br><br>2011-06-28 00:13<br>赞(0) 踩(0) | <div>心情平静的时候，有一种温馨在心头荡漾……晚安，灯光……晚安，月光……晚安，星光……晚安……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/905338)<br><br>2011-06-28 00:13<br>赞(0) 踩(0) | <div>心情平静的时候，有一种温馨在心头荡漾……<br>晚安，灯光……<br>晚安，月光……<br>晚安，星光……<br>晚安……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1523305)<br><br>2011-06-27 01:06<br>赞(0) 踩(0) | <div>最近都有在听,在路上奋斗的人,晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141226)<br><br>2011-06-27 01:03<br>赞(0) 踩(0) | <div>Baby pikn  Baby blue Baby green  弹着你的晚安曲   弹着你的晚安曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1480040)<br><br>2011-06-26 23:42<br>赞(0) 踩(0) | <div>night……</div> |
@@ -291,7 +291,7 @@ Baby Grand<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151317)<br><br>2011-06-22 00:17<br>赞(0) 踩(0) | <div>晚 安 ， 小 星 星</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151317)<br><br>2011-06-22 00:10<br>赞(0) 踩(0) | <div>晚 安 ， 小 星 星</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2962709)<br><br>2011-06-21 22:32<br>赞(0) 踩(0) | <div>大家晚安，世界静悄悄~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2790939)<br><br>2011-06-21 13:09<br>赞(0) 踩(0) | <div>小星星 眨著你的小眼睛闪著你的小忧郁想著你的小问题</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2790939)<br><br>2011-06-21 13:09<br>赞(0) 踩(0) | <div>小星星 眨著你的小眼睛<br>闪著你的小忧郁<br>想著你的小问题</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2946818)<br><br>2011-06-21 13:06<br>赞(0) 踩(0) | <div>午安也不错。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2876234)<br><br>2011-06-21 11:12<br>赞(0) 踩(0) | <div>女王温柔的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135876)<br><br>2011-06-21 09:42<br>赞(0) 踩(0) | <div>baby pink baby blue baby green</div> |
@@ -318,7 +318,7 @@ Baby Grand<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/691192)<br><br>2011-06-19 01:47<br>赞(0) 踩(0) | <div>like this feeling...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1072946)<br><br>2011-06-19 01:26<br>赞(0) 踩(0) | <div>已经凌晨过一点了。 已经父亲节了，祝老爸节日快乐。也祝未来会当老爸的@飞天隼 @黄XX @冷秋 节日快乐。   @Gong小荟 @六六呀 @高小咪加油 晚安曲。大家晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2011-06-18 15:10<br>赞(0) 踩(0) | <div>清静平和</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2011-06-18 15:10<br>赞(0) 踩(0) | <div>小星星 眨著你的小眼睛闪著你的小忧郁想著你的小问题</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2011-06-18 15:10<br>赞(0) 踩(0) | <div>小星星 眨著你的小眼睛<br>闪著你的小忧郁<br>想著你的小问题</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4328221)<br><br>2011-06-18 00:23<br>赞(0) 踩(0) | <div>晚安～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3035735)<br><br>2011-06-17 22:34<br>赞(0) 踩(0) | <div>为了保证优质血液的提供，这几天早点睡觉啦 晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2899866)<br><br>2011-06-17 19:56<br>赞(0) 踩(0) | <div>这首晚安曲不像以往同类型的歌哦</div> |

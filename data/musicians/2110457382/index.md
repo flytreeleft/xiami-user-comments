@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f53cc68f79db26adb6809a3f5481c48f.jpg)<br>鹿马Lmua](https://i.xiami.com/yukidaruma) | **播放数**: 13333034<br>**粉丝数**: 1139<br>**评论数**: 62<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 日本流行 J-Pop, 韩国流行 K-Pop, 欧美流行 Western Pop, 古风 GuFeng Music<br> |
+| [![](../../images/musicians/f53cc68f79db26adb6809a3f5481c48f.jpg)<br>鹿马Lmua](https://i.xiami.com/yukidaruma) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 日本流行 J-Pop, 韩国流行 K-Pop, 欧美流行 Western Pop, 古风 GuFeng Music<br>**播放数**: 13333034<br>**粉丝数**: 1139<br>**评论数**: 62<br> |
 
 ## 档案
 
@@ -73,8 +73,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9514447)<br><br>2021-01-07 07:55<br>赞(0) 踩(0) | <div>声音还行 被歌毁了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-31 08:46<br>赞(0) 踩(0) | <div>44724</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50251807)<br>心随乐乐<br>2020-12-20 20:25<br>赞(0) 踩(0) | <div>光和影的浪漫，谢谢！</div> |
@@ -90,17 +90,17 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405994841)<br><br>2019-07-13 20:29<br>赞(0) 踩(0) | <div>因为这首歌我从小听到大</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405994841)<br><br>2019-07-13 20:28<br>赞(0) 踩(0) | <div>只喜欢你的樱花樱花想见你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2358955)<br>我很丑 而且我也不温柔<br>2019-06-12 00:06<br>赞(0) 踩(0) | <div>这是不是传说中的女神音。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353121375)<br>听他人的悲欢离合，悲自己...<br>2019-06-07 16:17<br>赞(0) 踩(0) | <div>小姐姐声音巨好听啊啊啊啊啊啊啊啊啊啊啊！！！！每首歌都忍不住想载呀</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353121375)<br>听他人的悲欢离合，悲自己...<br>2019-06-07 16:17<br>赞(0) 踩(0) | <div>小姐姐声音巨好听啊啊啊啊啊啊啊啊啊啊啊！！！！<br>每首歌都忍不住想载呀</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316941037)<br>彈彈琴唱唱歌，開心就好。<br>2019-08-22 13:07<br>赞(0) 踩(0) | <div>555555谢谢喜欢！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283529614)<br>嘘我是一只小白呀<br>2019-05-22 12:50<br>赞(1) 踩(0) | <div>小姐姐嗓子被天使吻过吗超喜欢!!（*/∇＼*）超喜欢化作樱花树!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306065331)<br>幸福开始有人选<br>2019-05-05 22:58<br>赞(0) 踩(0) | <div>Dakota</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377212068)<br><br>2019-05-03 22:57<br>赞(0) 踩(0) | <div>鹿马小姐姐，你是Ay君吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316941037)<br>彈彈琴唱唱歌，開心就好。<br>2019-05-05 22:25<br>赞(0) 踩(0) | <div>hhhh不是啊，ay君是男孩子吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6205474)<br>我只是个酱油~<br>2019-04-26 21:31<br>赞(0) 踩(0) | <div>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6205474)<br>我只是个酱油~<br>2019-04-26 21:31<br>赞(0) 踩(0) | <div>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-04-18 05:16<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283131299)<br>我还没想好要写什么...<br>2019-04-17 10:50<br>赞(1) 踩(0) | <div>sakura <img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png">翻唱的阔以 <img src="../../images/comments/29cf103b88c33e19563095897485c32a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14311491)<br>反正她都不能瘦<br>2019-03-10 10:24<br>赞(3) 踩(0) | <div>为啥你们的嗓子都是天使吻过的？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2422080)<br>来瓶83年的矿泉水~<br>2019-03-05 18:49<br>赞(2) 踩(0) | <div>第一眼，马鹿......罪过......然后，爱上小姐姐的声音了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2422080)<br>来瓶83年的矿泉水~<br>2019-03-05 18:49<br>赞(2) 踩(0) | <div>第一眼，马鹿......罪过......<br>然后，爱上小姐姐的声音了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316941037)<br>彈彈琴唱唱歌，開心就好。<br>2019-05-05 22:26<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈看起来是很像马鹿</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2422080)<br>来瓶83年的矿泉水~<br>2019-05-06 09:41<br>赞(0) 踩(0) | <div><q><b>鹿马Lmua说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380228965)<br>我还沒想好要写什幺…<br>2019-11-20 22:46<br>赞(0) 踩(0) | <div>看了你的评论才知道自己也看错顺序了 <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
@@ -119,7 +119,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316941037)<br>彈彈琴唱唱歌，開心就好。<br>2018-08-04 20:05<br>赞(0) 踩(0) | <div>呜呜呜呜谢谢!!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342424763)<br>劝君惜取少年时。<br>2018-08-04 20:27<br>赞(0) 踩(0) | <div><q><b>鹿马Lmua说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361460042)<br>喜欢银魂<br>2018-08-01 11:02<br>赞(4) 踩(0) | <div>我还是接受不了周存太太和洛天依的那首歌变成你唱的。更喜欢洛天依的电子歌姬的声音</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316941037)<br>彈彈琴唱唱歌，開心就好。<br>2018-08-01 11:07<br>赞(0) 踩(0) | <div>？？？你喜欢洛天依的版本去找来听就可以了，不必在我这里评论。【高亮】另外请你注意用词，什么叫&amp;ldquo;变&amp;rdquo;成我唱的？？？这首歌是可以翻唱的，我也写明了是翻唱，你不愿意听就别在这废话了吧，闲的难受吗？想挑事啊？出门右转不送。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316941037)<br>彈彈琴唱唱歌，開心就好。<br>2018-08-01 11:07<br>赞(0) 踩(0) | <div>？？？你喜欢洛天依的版本去找来听就可以了，不必在我这里评论。<br>【高亮】另外请你注意用词，什么叫&amp;ldquo;变&amp;rdquo;成我唱的？？？这首歌是可以翻唱的，我也写明了是翻唱，你不愿意听就别在这废话了吧，闲的难受吗？想挑事啊？<br>出门右转不送。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361460042)<br>喜欢银魂<br>2018-08-02 02:16<br>赞(0) 踩(0) | <div><q><b>鹿马Lmua说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303774307)<br><br>2019-06-29 13:01<br>赞(0) 踩(0) | <div><q><b>鹿马Lmua说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379392597)<br>dying<br>2019-12-30 23:15<br>赞(0) 踩(0) | <div><q><b>鹿马Lmua说：</b></q></div> |

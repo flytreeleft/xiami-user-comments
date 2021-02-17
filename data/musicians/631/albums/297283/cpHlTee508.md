@@ -40,7 +40,7 @@ end
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96990292)<br><br>2018-06-10 01:40<br>赞(0) 踩(0) | <div>是的，最爱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289822)<br>我还没想好要写什么...<br>2015-03-17 00:44<br>赞(0) 踩(0) | <div>最爱的版本</div> |

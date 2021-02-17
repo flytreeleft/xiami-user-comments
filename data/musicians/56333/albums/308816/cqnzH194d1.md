@@ -51,8 +51,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327700360)<br><br>2021-01-05 18:16<br>赞(0) 踩(0) | <div>我想在每一首我喜欢听的歌下面和虾米道个别</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312179)<br>潜入深蓝，放肆幻听<br>2020-10-08 18:59<br>赞(3) 踩(0) | <div>今天结婚12周年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289293301)<br>我，来自宇宙深处的幽灵…...<br>2020-09-30 06:45<br>赞(0) 踩(0) | <div>*</div> |
@@ -61,11 +61,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334582207)<br>雄剑挂壁，时时龙鸣……<br>2020-06-07 19:46<br>赞(0) 踩(0) | <div>就是听了这歌09年结婚滴&amp;hellip;但我不后悔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265677467)<br>9<br>2020-05-02 20:36<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f10e8c35366eb553db3d665e8b324caf.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50615805)<br>我还没想好要写什么...<br>2020-04-28 01:09<br>赞(0) 踩(0) | <div>08年我男朋友才十岁。那28年结婚怎么样？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1216621)<br><br>2020-04-07 08:47<br>赞(1) 踩(0) | <div>最早的那个版本，歌词和这个有点不一样。08年上大学，常听的是最早的版本，后来改成了这个版本。再后来，名字就叫结婚了。其实逃跑的真正让人知道的是这首歌才对。08年的奥运，迷笛，大学，姑娘。哈哈哈，现在想想也很青春，记忆里的夏天。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1216621)<br><br>2020-04-07 08:47<br>赞(1) 踩(0) | <div>最早的那个版本，歌词和这个有点不一样。08年上大学，常听的是最早的版本，后来改成了这个版本。再后来，名字就叫结婚了。<br>其实逃跑的真正让人知道的是这首歌才对。<br>08年的奥运，迷笛，大学，姑娘。<br>哈哈哈，现在想想也很青春，记忆里的夏天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441592590)<br><br>2020-03-25 07:41<br>赞(0) 踩(0) | <div>这个版本和那个《世界》的版本不一样啊，这个感觉更细腻了。爱了爱了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27612858)<br>很酷<br>2020-03-13 13:08<br>赞(0) 踩(0) | <div>一直想和他复合时候发这歌 然后没有然后了哎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440983897)<br><br>2020-03-03 17:44<br>赞(0) 踩(0) | <div>这首歌真的是太好听了！历久弥新！可能再听20年 <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431143502)<br>期待<br>2020-02-28 02:29<br>赞(0) 踩(0) | <div>遇到想结婚的人不敢说只能反复的听这首歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431143502)<br>期待<br>2020-02-28 02:29<br>赞(0) 踩(0) | <div>遇到想结婚的人<br>不敢说<br>只能反复的听这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250974281)<br><br>2020-02-13 20:02<br>赞(3) 踩(0) | <div>08年，我们结婚了 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png">，2020年，孩子十岁，一切刚刚好 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60948280)<br>忠于自我保护意识的人生观...<br>2020-01-22 11:09<br>赞(0) 踩(0) | <div>ML的时候也会想有没有意义吗？会不会凉了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8058504)<br><br>2020-01-16 10:34<br>赞(0) 踩(0) | <div>我最喜欢这句话，幸福总是若隐若现，生活就是这样，或喜或悲，全在自己怎么看，怎么选</div> |
@@ -76,14 +76,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332101508)<br>三界皆苦<br>2019-08-18 12:50<br>赞(2) 踩(0) | <div>我28年结婚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321777236)<br>十年的承诺你还记得吗.....<br>2019-07-20 21:50<br>赞(2) 踩(0) | <div>在北京mao第一次听到这首排练的时候耳朵被抓住了。那年毕业的时候还不知道未来都有什么会发生，恍惚之间十年过去了。特别想念大学的校园慈祥的教授，长发飘飘的年轻的清香，隔壁宿舍分烟抽的那个兄弟，午后一缕阳光撒在桌面上。没想到却没等来老班长聚会的电话。只身海外再听起这首逃跑的代表作，往事依稀缺物是人非。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41541995)<br> <br>2019-06-07 11:06<br>赞(0) 踩(0) | <div>08年是错过了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416768935)<br><br>2019-03-31 02:03<br>赞(1) 踩(0) | <div>好可怕 08年到现在 11年 一无所获 08年-12年一段过去</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416768935)<br><br>2019-03-31 02:03<br>赞(1) 踩(0) | <div>好可怕 08年到现在 11年 一无所获 08年-<br><br>12年一段过去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289102230)<br>要么庸俗，要么孤独。<br>2019-01-31 17:17<br>赞(0) 踩(0) | <div>她曾在我们恋爱两年的时候对我说：08年一起去北京看奥运会，然后在08年的11月13日结婚，因为那是我们相爱的日子。所以我的网名叫十一月的雨。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7430793)<br> <br>2019-01-20 22:16<br>赞(0) 踩(0) | <div>“在那个夏天的早晨”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51804662)<br>认真听歌<br>2019-01-20 00:25<br>赞(2) 踩(0) | <div>单身狗在大半夜哭得很凶</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51804662)<br>认真听歌<br>2019-01-20 00:21<br>赞(14) 踩(0) | <div>听哭了。08年，我才12岁。那年春节奶奶连输一周的液体，暑假奶奶走了。我和父亲 母亲守在老家的房子里住了一个暑假，爷爷生了带状疱疹，糊涂又心疼的老头。在老旧的空调房里看奥运会开幕，闭幕，悲伤又喜悦地过完那个夏天。开学，我喜欢的男孩坐到我右边的右边，在一个莫名我们俩早到校的中午，他将手搭在我肩上害羞地劝我心情要好。现在的我，想变成男孩儿，立马找一个女孩求婚。就马上，原地，很急迫的心情的那种 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">仿佛08年，我已经结过婚了一样。很真实的岁月沧桑感，明明还是个12岁的孩子，明明站在也就23岁而已。眼泪在回忆里止不住的翻涌。希望能藏好唯一那么喜欢过的男孩，希望能潇洒地去爱人，能认真努力地成长！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51804662)<br>认真听歌<br>2019-01-20 00:21<br>赞(14) 踩(0) | <div>听哭了。08年，我才12岁。那年春节奶奶连输一周的液体，暑假奶奶走了。我和父亲 母亲守在老家的房子里住了一个暑假，爷爷生了带状疱疹，糊涂又心疼的老头。在老旧的空调房里看奥运会开幕，闭幕，悲伤又喜悦地过完那个夏天。开学，我喜欢的男孩坐到我右边的右边，在一个莫名我们俩早到校的中午，他将手搭在我肩上害羞地劝我心情要好。<br>现在的我，想变成男孩儿，立马找一个女孩求婚。就马上，原地，很急迫的心情的那种 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"><br>仿佛08年，我已经结过婚了一样。很真实的岁月沧桑感，明明还是个12岁的孩子，明明站在也就23岁而已。眼泪在回忆里止不住的翻涌。<br>希望能藏好唯一那么喜欢过的男孩，希望能潇洒地去爱人，能认真努力地成长！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/148457570)<br>天天动听 ！虾米加油。<br>2020-03-30 02:23<br>赞(0) 踩(0) | <div>开心一点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81347624)<br>小贱人又来偷看我微博啦！...<br>2019-01-16 00:00<br>赞(2) 踩(0) | <div>一晃眼已是2019年了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95954696)<br>-<br>2018-12-27 22:32<br>赞(2) 踩(0) | <div>我情願 將自己永遠鎖在你身邊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95954696)<br>-<br>2018-12-27 22:32<br>赞(2) 踩(0) | <div>我情願 將自己<br>永遠鎖在你身邊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284446361)<br>我喜欢听歌，真的。<br>2018-12-22 09:24<br>赞(1) 踩(0) | <div>结婚到底意味着什么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354715357)<br><br>2018-12-21 08:13<br>赞(0) 踩(0) | <div>我也是 哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353866429)<br><br>2018-11-22 17:58<br>赞(1) 踩(0) | <div>听着不敢想象不敢回忆自己10年前的样子</div> |
@@ -96,7 +96,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271136112)<br><br>2018-08-07 14:33<br>赞(4) 踩(0) | <div>我一个00后四五年前就开始听逃跑计划的这首歌了，现在还在听，真的好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1271970)<br> <br>2018-07-25 21:51<br>赞(1) 踩(0) | <div>曾经并不觉得怎么样，多年后，在自己经历也看到周边人的生活后，发现歌词竟然是这么简单且动人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347679387)<br><br>2018-07-05 19:19<br>赞(1) 踩(0) | <div>十年了 你还记得我吗？静雅</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327700360)<br><br>2018-05-27 13:01<br>赞(1) 踩(0) | <div>我听这首歌时你们都还没有评论过呢哈哈哈哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327700360)<br><br>2018-05-27 13:01<br>赞(1) 踩(0) | <div>我听这首歌时你们都还没有评论过呢<br>哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10315155)<br>6.0后再无虾米<br>2018-05-20 23:54<br>赞(1) 踩(0) | <div>东东我们结婚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363622689)<br>我喜欢你 春风十里不问归...<br>2018-05-15 06:13<br>赞(2) 踩(0) | <div>我也想有个小对象 亲亲抱抱举高高的那种</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139561784)<br>雨季总要来<br>2018-04-29 18:38<br>赞(0) 踩(0) | <div>听得好想结婚！可是我跟结婚远的不得了。希望将来结婚的时候遇到的那个人怀抱也能这样一份热情</div> |
@@ -125,7 +125,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261050196)<br><br>2017-10-15 14:35<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72810310)<br><br>2017-10-13 17:47<br>赞(1) 踩(0) | <div>老子18年要结婚啦</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11390098)<br> <br>2017-10-15 16:37<br>赞(0) 踩(0) | <div>恭喜，祝幸福 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41854449)<br>School grass<br>2017-10-12 08:43<br>赞(2) 踩(0) | <div>08年，现在是2017年，还有989年。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41854449)<br>School grass<br>2017-10-12 08:43<br>赞(2) 踩(0) | <div>08年，现在是2017年，还有989年。<br>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2735183)<br>是时候再见了，这是我第一...<br>2017-10-10 23:48<br>赞(3) 踩(0) | <div>08年结婚快他妈18年还没结婚，步了窦半仙儿的后尘，一副不食人间烟火的样子最后带着一只熊环游了中国南海岸线，现在到西藏了再没对象准备和熊结婚了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293732796)<br>我还没想好要写什么...<br>2017-09-30 22:24<br>赞(1) 踩(0) | <div>今天一直在听这首歌，你真的真的结婚了，虽然晚了九年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99199162)<br><br>2017-09-29 22:16<br>赞(0) 踩(0) | <div>新婚快乐</div> |
@@ -163,7 +163,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4237576)<br><br>2016-12-17 15:47<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218716164)<br>情愿坠落在你手中<br>2016-08-26 22:49<br>赞(0) 踩(0) | <div>永远和你在一起面对</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41748922)<br> <br>2016-08-22 12:39<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2016-08-12 01:52<br>赞(0) 踩(0) | <div>到现在都过了七年之痒了08年整个年都印象挺深刻的一起看黄昏挺浪漫的  <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2016-08-12 01:52<br>赞(0) 踩(0) | <div>到现在都过了七年之痒了<br>08年整个年都印象挺深刻的<br>一起看黄昏挺浪漫的  <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8019324)<br>Im fine.<br>2016-08-10 22:28<br>赞(0) 踩(0) | <div>又到优酷看了一遍08年迷笛的宣传片，又是奥运年，又想到这首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1546737)<br>摇<br>2016-08-06 07:38<br>赞(1) 踩(0) | <div>在奥运 开幕的早晨 我还没有结婚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123306784)<br>离乡的游子。<br>2016-08-04 21:11<br>赞(0) 踩(0) | <div>听了好多年。到现在还在听 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
@@ -194,13 +194,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15449540)<br>rock~<br>2016-02-11 08:25<br>赞(0) 踩(0) | <div>朴实</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2016-02-04 14:56<br>赞(0) 踩(0) | <div>应该是迷笛的一个视频就是拿这首歌做的配乐，我直接看哭了~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40981168)<br> <br>2016-01-20 12:34<br>赞(0) 踩(0) | <div>谢谢你。真的要说再见了吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2744967)<br><br>2016-01-14 11:35<br>赞(4) 踩(0) | <div>08年我们结婚永远在一起看黄片~嗨森~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2744967)<br><br>2016-01-14 11:35<br>赞(4) 踩(0) | <div>08年我们结婚<br>永远在一起看黄片~嗨森~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38663205)<br>心若知道灵犀的方向，哪怕...<br>2016-01-07 01:21<br>赞(0) 踩(0) | <div>永远在一起看黄昏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1136)<br>人山人海。<br>2015-12-28 07:26<br>赞(0) 踩(0) | <div>歌词中奥运两个字是拼音，哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86448764)<br><br>2015-12-03 09:05<br>赞(0) 踩(0) | <div>俗到质朴的老歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86448764)<br><br>2015-12-03 09:04<br>赞(0) 踩(0) | <div>俗到质朴的好歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84633742)<br>我还没想好要写什么...<br>2015-11-29 13:53<br>赞(2) 踩(0) | <div>希望在2018年能遇到那个对的人吧 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1290529)<br><br>2015-11-17 14:08<br>赞(3) 踩(0) | <div>这是08年迷笛的宣传片，当时的《08年我们结婚》歌词更淳朴真诚，比现在的版本好多了，加上当年的华人在海内外的境遇更有感慨啊。<a href="http://v.youku.com/v_show/id_XMjUwMjcxOTI=.html?from=s1.8-1-1.2" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMjUwMjcxOTI=.html?from=s1.8-1-1.2</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1290529)<br><br>2015-11-17 14:08<br>赞(3) 踩(0) | <div>这是08年迷笛的宣传片，当时的《08年我们结婚》歌词更淳朴真诚，比现在的版本好多了，加上当年的华人在海内外的境遇更有感慨啊。<br><a href="http://v.youku.com/v_show/id_XMjUwMjcxOTI=.html?from=s1.8-1-1.2" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMjUwMjcxOTI=.html?from=s1.8-1-1.2</a></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114002020)<br>生活就像硬币，有另一面的...<br>2016-07-17 15:12<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2933707)<br>Live my pace<br>2015-11-13 13:44<br>赞(2) 踩(0) | <div>2108年么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1081299)<br>我还没想好要写什么...<br>2015-11-13 01:10<br>赞(0) 踩(0) | <div>什么时候能结婚？</div> |
@@ -231,7 +231,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4161111)<br>缝隙间。<br>2015-07-24 08:01<br>赞(1) 踩(0) | <div>永远在一起看黄昏。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52757856)<br>我还没想好要写什么...<br>2015-07-20 13:55<br>赞(1) 踩(0) | <div>梦想总是美好的，但现实是残忍的，而我向往的美好总是被残忍的现实打败，怪我总是把一切想得太美好。此曲以强烈的失真开头后以华丽完美的solo结尾来表达了作者的失落沉重的心情，这首歌曲里面表达的内容只是作者向往的，其并没有真的结婚了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37356757)<br>只此一眼<br>2015-07-17 22:38<br>赞(2) 踩(0) | <div>08年，小学毕业，08年，第一次看大海，08年，太多记忆</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50824115)<br><br>2015-07-08 23:48<br>赞(2) 踩(0) | <div>我终于明白什么是永远就像一张 凝固的照片那一天我和你一样望眼欲穿即将拥挤 我的单人间曾经我总是不在你视线幸福总是 若隐若现你情愿陪我到生命最后的一天我转过脸 泪流满面</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50824115)<br><br>2015-07-08 23:48<br>赞(2) 踩(0) | <div>我终于明白什么是永远<br>就像一张 凝固的照片<br>那一天我和你一样望眼欲穿<br>即将拥挤 我的单人间<br>曾经我总是不在你视线<br>幸福总是 若隐若现<br>你情愿陪我到生命最后的一天<br>我转过脸 泪流满面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32852910)<br>只要有书、电影还有音乐就...<br>2015-07-04 19:25<br>赞(0) 踩(0) | <div>有一天你出现我们一起看黄昏吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34656121)<br>我在等你一宝<br>2015-06-24 00:24<br>赞(1) 踩(0) | <div>结婚时一定要放这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50807575)<br>在不安的世界里安静的活…...<br>2015-06-18 09:04<br>赞(0) 踩(0) | <div>结婚吧</div> |
@@ -241,7 +241,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41064012)<br><br>2018-11-07 12:27<br>赞(0) 踩(0) | <div>两个年代的人能比？？？ 长点脑子吧</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413798934)<br>我<br>2019-06-06 15:55<br>赞(0) 踩(0) | <div><q><b>生姜奶茶炸花生米烧鸡说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35492349)<br>平凡又没见过世面<br>2015-05-19 23:57<br>赞(0) 踩(0) | <div>纪念男神的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4329943)<br>口味很杂。  顺耳就行，...<br>2015-05-08 12:30<br>赞(0) 踩(0) | <div>你情愿陪伴我到生命最后的一天我转过脸泪流满面请允许 天亮之前回头再看一眼没什么可留恋我情愿将自己永远锁在你身边</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4329943)<br>口味很杂。  顺耳就行，...<br>2015-05-08 12:30<br>赞(0) 踩(0) | <div>你情愿陪伴我到生命最后的一天<br>我转过脸泪流满面<br>请允许 天亮之前回头再看一眼<br>没什么可留恋我情愿将自己永远锁在你身边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5622009)<br>摇滚。<br>2015-05-08 12:20<br>赞(1) 踩(0) | <div>08年到现在也有个7年了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43091146)<br><br>2015-05-02 22:35<br>赞(0) 踩(0) | <div>冲着淘宝没有抛弃迷笛 还坚持在迷笛的舞台上 我也不黑淘宝了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42534249)<br>哈。<br>2015-04-28 19:11<br>赞(0) 踩(0) | <div>是你呀，是你吗…</div> |
@@ -280,7 +280,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8375562)<br><br>2014-11-04 12:54<br>赞(0) 踩(0) | <div>永远在一起看黄昏 @郎尖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11221879)<br>time comes a...<br>2014-10-21 00:59<br>赞(0) 踩(0) | <div>好感动的感脚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8908004)<br>我记得你 就像我刚见到<br>2014-10-20 12:56<br>赞(1) 踩(0) | <div>希望到18年可以实现</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5427127)<br><br>2014-10-18 17:40<br>赞(0) 踩(0) | <div>我们结婚 带你去千山万水在金色沙滩找回失去的纯真</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5427127)<br><br>2014-10-18 17:40<br>赞(0) 踩(0) | <div>我们结婚 带你去千山万水<br>在金色沙滩找回失去的纯真</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37076333)<br>银他妈<br>2014-10-13 09:17<br>赞(0) 踩(0) | <div>坐着哼起“当那个消息 来到我身边”，热泪盈眶。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4185436)<br> <br>2014-09-24 21:17<br>赞(0) 踩(0) | <div>08年确实有梦，可惜没实现...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2735183)<br>是时候再见了，这是我第一...<br>2014-09-20 21:41<br>赞(0) 踩(0) | <div>原版不是这样啊，那会毛川唱的不是这词啊怎么变了</div> |
@@ -305,7 +305,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2266212)<br><br>2014-05-26 03:34<br>赞(0) 踩(0) | <div>手动赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33295099)<br><br>2014-05-22 00:26<br>赞(0) 踩(0) | <div>这样的承诺不易许！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36182829)<br><br>2014-05-06 19:26<br>赞(0) 踩(0) | <div>很感动的歌曲 听了很想结婚</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1050423)<br>灯火阑珊处<br>2014-05-05 20:44<br>赞(0) 踩(0) | <div>记忆里难忘的08年··那年你说爱我    那时我却有他后来     都只剩我一个人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1050423)<br>灯火阑珊处<br>2014-05-05 20:44<br>赞(0) 踩(0) | <div>记忆里难忘的08年··<br><br>那年你说爱我    那时我却有他<br><br>后来     都只剩我一个人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1369788)<br><br>2014-05-03 21:48<br>赞(0) 踩(0) | <div>我终于明白什么是永远，就像一张凝固的照片</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31954504)<br><br>2014-05-03 14:21<br>赞(0) 踩(0) | <div>第一结婚 第二拥抱 第三再见再见 最爱！！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9950094)<br> <br>2014-10-13 13:43<br>赞(0) 踩(0) | <div>终于看到有喜欢拥抱的了，一首相对来讲被埋没的歌</div> |
@@ -391,7 +391,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2948012)<br><br>2011-12-16 11:57<br>赞(1) 踩(0) | <div>在我的婚礼上一定要放这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5610651)<br><br>2011-11-27 00:36<br>赞(0) 踩(0) | <div>老湿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3928479)<br><br>2011-11-19 22:55<br>赞(0) 踩(0) | <div>07年第一次迷笛，当时还算不上铁托，我们4个在台下听你唱这首歌。 今年11年，我再次在台下听你唱起它，只不过，物是人非了，我们4人天各一方。 “08年我们结婚”，可到现在你没结我们依旧同样。听歌时的心境变了，但精神却变不了，真的，因为摇滚它就是一种精神……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3928479)<br><br>2011-11-19 22:53<br>赞(0) 踩(0) | <div>07年第一次迷笛，当时还算不上铁托，我们4个在台下听你唱这首歌。今年11年，我再次在台下听你唱起它，只不过，物是人非了，我们4人天各一方。“08年我们结婚”，可到现在你没结我们依旧同样。听歌时的心境变了，但精神却变不了，真的，因为摇滚它就是一种精神……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3928479)<br><br>2011-11-19 22:53<br>赞(0) 踩(0) | <div>07年第一次迷笛，当时还算不上铁托，我们4个在台下听你唱这首歌。<br>今年11年，我再次在台下听你唱起它，只不过，物是人非了，我们4人天各一方。<br>“08年我们结婚”，可到现在你没结我们依旧同样。听歌时的心境变了，但精神却变不了，真的，因为摇滚它就是一种精神……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/886329)<br>不要畏惧此刻的沉默。<br>2011-11-12 00:21<br>赞(0) 踩(0) | <div>听这首歌居然会哭。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3107239)<br><br>2011-11-09 02:07<br>赞(0) 踩(0) | <div>睡前一歌，据说是小宝 @拉毅库兹布族为奇  最喜欢的歌哈哈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2689239)<br><br>2011-11-08 15:23<br>赞(0) 踩(0) | <div>“08年我们结婚”是有俩个版本吗？求解，我听到了俩首歌词不太一様的08…</div> |
@@ -419,7 +419,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1357151)<br><br>2011-08-01 00:08<br>赞(0) 踩(0) | <div>幸福总是若隐若现</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1357151)<br><br>2011-08-01 00:00<br>赞(0) 踩(0) | <div>幸福总是若隐若现</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2478759)<br><br>2011-07-30 12:44<br>赞(0) 踩(0) | <div>08年我们结婚，有多少人回味，有多少人能共鸣，08年夏</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2011-07-14 21:03<br>赞(0) 踩(0) | <div>带你去千山万水在金色沙滩找回失去的纯真</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2011-07-14 21:03<br>赞(0) 踩(0) | <div>带你去千山万水<br>在金色沙滩找回失去的纯真</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3658219)<br>恐惧 / 狂喜<br>2011-07-14 00:08<br>赞(0) 踩(0) | <div>没什么 亲  我只是突然非常想回顾一下历届迷笛的宣传歌.....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1315397)<br><br>2011-07-04 02:36<br>赞(0) 踩(0) | <div>结他妈的婚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4233576)<br><br>2011-06-09 19:47<br>赞(0) 踩(0) | <div>应该改成《毕业后我们结婚》</div> |

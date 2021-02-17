@@ -3,7 +3,7 @@ Marian Hill
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7cdb189ef9c530d9e6f0565e9c26165f.jpg)<br>Marian Hill](https://i.xiami.com/marianhillchina) | **播放数**: 17107042<br>**粉丝数**: 8964<br>**评论数**: 236<br>**地区**: United States of America 美国<br>**风格**: 电子 Electronic, 独立电子乐 Indietronica, 另类节奏布鲁斯 Alternative R&B<br> |
+| [![](../../images/musicians/7cdb189ef9c530d9e6f0565e9c26165f.jpg)<br>Marian Hill](https://i.xiami.com/marianhillchina) | **地区**: United States of America 美国<br>**风格**: 电子 Electronic, 独立电子乐 Indietronica, 另类节奏布鲁斯 Alternative R&B<br>**播放数**: 17107042<br>**粉丝数**: 8964<br>**评论数**: 236<br> |
 
 ## 档案
 
@@ -46,9 +46,9 @@ On April 7, 2017, the duo released an extended version of their debut album Act 
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315760891)<br><br>2020-12-11 21:47<br>赞(0) 踩(0) | <div>人美歌甜，音域很广。我粉了，你们随意 <img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315760891)<br><br>2020-12-11 21:47<br>赞(0) 踩(0) | <div>人美歌甜，音域很广。<br>我粉了，你们随意 <img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340903899)<br>我还没想好要写什么...<br>2020-09-25 16:42<br>赞(0) 踩(0) | <div>这</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16020545)<br>只此一生，必须热情<br>2020-07-14 20:40<br>赞(0) 踩(0) | <div>真棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11046808)<br>暗河里涌动<br>2020-05-19 18:53<br>赞(0) 踩(0) | <div>挺完美的</div> |
@@ -81,7 +81,7 @@ On April 7, 2017, the duo released an extended version of their debut album Act 
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247768284)<br>The day I di...<br>2018-07-26 21:08<br>赞(0) 踩(0) | <div>写错了八月！七月是jamesbay</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10811234)<br>Love Mucic<br>2018-06-24 09:22<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73790620)<br><br>2018-06-22 19:37<br>赞(0) 踩(0) | <div>加一波关注</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2831675)<br>情痴 情呆 行怪 言狂<br>2018-06-22 16:04<br>赞(48) 踩(0) | <div>Marian Hill中国首演8.9    北京/Beijing    糖果三层/Tango Live     出时间    20:308.10    上海/Shanghai    摩登/Modernsky Lab    演出时间    20:30学生票 280 / 预售 330 / 现场 400</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2831675)<br>情痴 情呆 行怪 言狂<br>2018-06-22 16:04<br>赞(48) 踩(0) | <div>Marian Hill中国首演<br>8.9    北京/Beijing    糖果三层/Tango Live     出时间    20:30<br>8.10    上海/Shanghai    摩登/Modernsky Lab    演出时间    20:30<br>学生票 280 / 预售 330 / 现场 400</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11354729)<br>发生了什么<br>2018-07-31 02:27<br>赞(0) 踩(0) | <div>coming sh</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352734766)<br>Yo!<br>2018-08-27 23:05<br>赞(0) 踩(0) | <div>完美错过 哭</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318132)<br>抠啦<br>2018-10-21 08:35<br>赞(0) 踩(0) | <div><q><b>...........说：</b></q></div> |
@@ -143,7 +143,7 @@ On April 7, 2017, the duo released an extended version of their debut album Act 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260547706)<br> <br>2017-03-12 00:14<br>赞(0) 踩(0) | <div>xih</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1150682)<br><br>2017-03-03 10:18<br>赞(0) 踩(0) | <div>喜欢他们 甭棒～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18412060)<br>v15175288880<br>2017-02-27 19:36<br>赞(0) 踩(0) | <div>.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1192824)<br>（づ￣3￣）づ╭❤～<br>2017-02-27 09:22<br>赞(3) 踩(0) | <div>I have an iPod~Are you down d- d- down d- d- down d- d- down down down被广告安利来的小伙伴来报个到吧~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1192824)<br>（づ￣3￣）づ╭❤～<br>2017-02-27 09:22<br>赞(3) 踩(0) | <div>I have an iPod~Are you down d- d- down d- d- down d- d- down down down<br><br>被广告安利来的小伙伴来报个到吧~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1155429)<br><br>2017-02-26 13:27<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2017-02-25 09:30<br>赞(31) 踩(0) | <div>多少人是看了广告来的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261722106)<br><br>2017-03-11 23:34<br>赞(0) 踩(0) | <div>蘋果廣告嗎？</div> |
@@ -165,7 +165,7 @@ On April 7, 2017, the duo released an extended version of their debut album Act 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7339667)<br>嗯，好的。<br>2017-01-25 04:48<br>赞(0) 踩(0) | <div>AMAZING!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6654069)<br>mutherfacker...<br>2017-01-23 01:34<br>赞(0) 踩(0) | <div>可以</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2800265)<br>Let me Loop ...<br>2017-01-19 17:44<br>赞(0) 踩(0) | <div>节奏感？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263315550)<br><br>2017-01-18 22:21<br>赞(0) 踩(0) | <div>厉害了！好听！好听！好听！重要事三遍……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263315550)<br><br>2017-01-18 22:21<br>赞(0) 踩(0) | <div>厉害了！好听！好听！好听！<br>重要事三遍……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3619853)<br> <br>2017-01-15 14:55<br>赞(0) 踩(0) | <div>m</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228475868)<br>Meh<br>2017-01-14 12:55<br>赞(0) 踩(0) | <div>太好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10310498)<br> <br>2017-01-08 03:44<br>赞(0) 踩(0) | <div>✌️</div> |
@@ -280,7 +280,7 @@ On April 7, 2017, the duo released an extended version of their debut album Act 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35984292)<br>灵魂再现<br>2014-10-25 09:23<br>赞(0) 踩(0) | <div>词儿新鲜，beat上瘾，声音好听，怎么办</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44284714)<br>HOT.<br>2014-12-06 23:41<br>赞(0) 踩(0) | <div>狠狠爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33111891)<br><br>2014-10-18 20:53<br>赞(0) 踩(0) | <div>挺喜欢的啦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10417095)<br>听客<br>2014-10-17 14:21<br>赞(0) 踩(0) | <div>Got it<a href="https://soundcloud.com/marianhill/got-it" target="_blank" rel="nofollow noreferrer noopener">https://soundcloud.com/marianhill/got-it</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10417095)<br>听客<br>2014-10-17 14:21<br>赞(0) 踩(0) | <div>Got it<br><a href="https://soundcloud.com/marianhill/got-it" target="_blank" rel="nofollow noreferrer noopener">https://soundcloud.com/marianhill/got-it</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/582418)<br><br>2014-07-29 22:42<br>赞(0) 踩(0) | <div>。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6955290)<br>就<br>2014-07-26 17:28<br>赞(0) 踩(0) | <div>噗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10970617)<br>补补艺人资料 听听小众独...<br>2014-04-14 18:13<br>赞(0) 踩(0) | <div>还不错</div> |

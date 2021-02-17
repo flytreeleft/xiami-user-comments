@@ -55,8 +55,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418416445)<br>disco girl<br>2021-02-05 00:31<br>赞(0) 踩(0) | <div>嗯嗯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282176432)<br><br>2021-01-08 09:14<br>赞(0) 踩(0) | <div>副歌最后三句谱子和《黄昏》一摸一样，果不其然都是周传雄写的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424404382)<br><br>2020-12-11 16:45<br>赞(0) 踩(0) | <div>这歌词好过瘾</div> |
@@ -91,7 +91,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45810215)<br>似木头似石头的话得到注意...<br>2020-08-23 04:51<br>赞(3) 踩(0) | <div>你妈的还不够吗！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6995571)<br>生不满百千岁忧<br>2020-08-17 00:26<br>赞(2) 踩(0) | <div>OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400729724)<br>爱吃甜食爱长痘的蒸汽波阿...<br>2020-08-08 00:01<br>赞(4) 踩(0) | <div>陈老师的歌 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410212283)<br><br>2020-08-07 09:00<br>赞(2) 踩(0) | <div>难道都是我的错？这句你敢回答吗？天蝎女人的最后一丝倔强和执着。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410212283)<br><br>2020-08-07 09:00<br>赞(2) 踩(0) | <div>难道都是我的错？<br>这句你敢回答吗？<br><br>天蝎女人的最后一丝倔强和执着。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32981690)<br>我还没想好要写什么...<br>2020-08-05 20:30<br>赞(1) 踩(0) | <div>怎么可以骂人呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37796242)<br><br>2020-08-03 18:23<br>赞(2) 踩(0) | <div>他妈的 还不够吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37796242)<br><br>2020-08-03 18:22<br>赞(2) 踩(0) | <div>尼玛的 还不够吗</div> |
@@ -143,7 +143,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86017730)<br>唯有时间不可挡。<br>2020-01-06 00:22<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15361043)<br><br>2020-01-05 07:58<br>赞(1) 踩(0) | <div>那句歌词可能没听错，就是故意用谐音说出来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23917517)<br><br>2020-01-04 09:37<br>赞(2) 踩(0) | <div>你妈的！还不够吗！？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305946365)<br>愿南北都有晴天<br>2020-01-03 08:40<br>赞(1) 踩(0) | <div>19岁的我 第一次听乃文是虾米给推的星星堆满天 听了半截就听不下去了 真的听不懂第二次听 是 比我大了13岁的大叔男友 给推的祝我幸福 嗯 感觉还可以吧第三次 这首证据  大叔男友天蝎座 跟这首歌挺像的第四次 你就是吃定我 哭着听完  现在的我就陷入了这种被动状态 小心翼翼的维护和他的关系乃文 我迷了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305946365)<br>愿南北都有晴天<br>2020-01-03 08:40<br>赞(1) 踩(0) | <div>19岁的我 第一次听乃文是虾米给推的<br>星星堆满天 听了半截就听不下去了 真的听不懂<br>第二次听 是 比我大了13岁的大叔男友 给推的祝我幸福 嗯 感觉还可以吧<br>第三次 这首证据  大叔男友天蝎座 跟这首歌挺像的<br>第四次 你就是吃定我 哭着听完  现在的我就陷入了这种被动状态 小心翼翼的维护和他的关系<br>乃文 我迷了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375916333)<br><br>2020-01-01 01:36<br>赞(0) 踩(0) | <div>他不会心痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278372968)<br>有音乐就可以了，不需要啤...<br>2019-12-30 23:20<br>赞(1) 踩(0) | <div>我天蝎想处个巨蟹座的对象 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295382517)<br>这家伙很聪明...<br>2019-12-19 10:06<br>赞(0) 踩(0) | <div>这首歌一直骂人</div> |
@@ -176,13 +176,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429799590)<br><br>2019-09-17 19:48<br>赞(1) 踩(0) | <div>一个双鱼座的人告诉你，当双鱼不爱的时候根本不在乎所有人的恨，也不会去恨谁人。我个人倒是觉得那句“我双鱼 天蝎为什么要恨我”放到歌词里实在有点儿太白话了。但这倒是也符合现代流行乐的玩味感觉。属于年轻人的浅层信奉。我个人对天蝎最记忆犹新的，仍然是我那少有温存的姥姥，她的性格固守偏见，脾气也捉摸不定，而且孤僻成性，总是流露出一副不可一世的严肃脸面。虽亦有温馨其乐时刻，但屈指可数，相当珍贵的笑颜，至少在她的世界。所以我对天蝎座本能的，其实有种恐惧，甚至不由得抗拒，仇视。但我知道，星座这东西，其实就是个古人流传下来的统计学，不可偏听偏信。但我这个双鱼确实对天蝎，没有星座学上说的那样，有什么最佳配对感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271909692)<br>开心过好每一天(^_^)<br>2019-09-15 22:19<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351573918)<br><br>2019-09-07 21:18<br>赞(0) 踩(0) | <div>陈绮贞作曲耶</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321943742)<br>答案就在风中<br>2019-09-01 20:09<br>赞(0) 踩(0) | <div>温柔的复仇  Vs  温柔的慈悲是我输了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321943742)<br>答案就在风中<br>2019-09-01 20:09<br>赞(0) 踩(0) | <div>温柔的复仇  Vs  温柔的慈悲<br><br>是我输了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13032235)<br> <br>2019-08-29 23:53<br>赞(0) 踩(0) | <div>青峰是不是唱过这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10797528)<br>Gravity push...<br>2019-08-29 11:56<br>赞(0) 踩(0) | <div>这首曲子好陈绮贞。。。果然一看作曲人陈绮贞。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140089)<br>暂无签名~<br>2019-08-27 03:25<br>赞(0) 踩(0) | <div>这跟陈绮贞的《快告诉我》是一个曲子吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52872834)<br>有發生過<br>2019-09-01 16:11<br>赞(0) 踩(0) | <div>和陈老师的烟火同曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268642143)<br><br>2019-08-26 11:22<br>赞(0) 踩(0) | <div>是不是那一句 踏马的还不够？？？？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102261436)<br>你好，我是大魔王Niko...<br>2019-08-20 22:01<br>赞(0) 踩(0) | <div>想到你会很心痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102261436)<br>你好，我是大魔王Niko...<br>2019-08-20 22:01<br>赞(0) 踩(0) | <div>想到你<br>会很心痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314483310)<br>唯音乐对我始终忠诚。<br>2019-08-18 22:45<br>赞(3) 踩(0) | <div>这唱的明明是天蝎的心声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279956845)<br>有时反而觉得，音乐比人更...<br>2019-08-18 00:40<br>赞(0) 踩(0) | <div>词很带劲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52412071)<br><br>2019-08-13 19:11<br>赞(0) 踩(0) | <div>天蝎...我又不是双鱼座</div> |
@@ -240,7 +240,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201698259)<br>我真的很想去东北<br>2019-03-29 23:27<br>赞(2) 踩(0) | <div>握草看完歌手被惊艳到了。我双鱼，为什么天蝎恨我，，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41823070)<br><br>2019-03-29 23:06<br>赞(2) 踩(0) | <div>编曲是五月天的怪兽吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359025093)<br>那，祝你不二<br>2019-03-30 00:11<br>赞(0) 踩(0) | <div>我也想知道哈哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270078007)<br>我见青山多妩媚，料青山见...<br>2019-03-29 22:48<br>赞(127) 踩(0) | <div>2019.3.29晚上10:30在看《歌手》乃文一席红衣带着光的步来依旧的狂拽酷炫唱了这首《证据》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270078007)<br>我见青山多妩媚，料青山见...<br>2019-03-29 22:48<br>赞(127) 踩(0) | <div>2019.3.29<br>晚上10:30<br>在看《歌手》<br>乃文一席红衣带着光的步来<br>依旧的狂拽酷炫<br>唱了这首《证据》</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214209422)<br>心似海洋<br>2019-04-14 16:58<br>赞(0) 踩(0) | <div>乃文超美！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273700192)<br>噜啦啦~噜啦啦~噜啦~噜...<br>2019-03-29 22:35<br>赞(1) 踩(0) | <div>歌手打卡滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116075772)<br>我还没想好要写什么...<br>2019-03-29 22:33<br>赞(1) 踩(0) | <div>马上就要来一群跟风人了，真爱粉先证明一下</div> |
@@ -269,7 +269,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333673449)<br><br>2019-03-03 10:37<br>赞(0) 踩(0) | <div>有个性</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300324608)<br><br>2019-03-02 00:13<br>赞(90) 踩(0) | <div>可能想写“你妈的"，为了和谐点所以才“你骂的" <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300324608)<br><br>2021-02-05 01:29<br>赞(0) 踩(0) | <div>再见了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48440658)<br>转战Spotify—Ut...<br>2019-03-01 23:53<br>赞(0) 踩(0) | <div>用她歌词一句话，你妈的还不够吗哎西</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48440658)<br>转战Spotify—Ut...<br>2019-03-01 23:53<br>赞(0) 踩(0) | <div>用她歌词一句话，你妈的还不够吗<br>哎西</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292650688)<br>图图是我，我就是大耳朵t...<br>2019-03-01 23:48<br>赞(0) 踩(0) | <div>可惜啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354171130)<br>我还没想好要写什么...<br>2019-03-01 19:11<br>赞(0) 踩(0) | <div>出口成章 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48611223)<br>Fear only go...<br>2019-02-27 23:06<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈听了一整天都以为她在唱 你妈的 还不够吗 想着乃文宝贝真是酷阿</div> |
@@ -309,7 +309,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82878414)<br>颜值即是正义！<br>2019-01-07 00:47<br>赞(1) 踩(0) | <div>哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4098694)<br>ɪ ғᴇᴇʟ ᴘᴀɪɴғ...<br>2019-01-04 16:18<br>赞(0) 踩(0) | <div>这首也太陈绮贞了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254221449)<br><br>2019-01-20 12:01<br>赞(0) 踩(0) | <div>不然那</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204379386)<br>在，也不见<br>2019-02-13 23:30<br>赞(0) 踩(0) | <div>因为作曲人就是陈绮贞呀 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">后来陈老师重新填词  这首歌就变成了烟火 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204379386)<br>在，也不见<br>2019-02-13 23:30<br>赞(0) 踩(0) | <div>因为作曲人就是陈绮贞呀 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"><br>后来陈老师重新填词  这首歌就变成了烟火 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4098694)<br>ɪ ғᴇᴇʟ ᴘᴀɪɴғ...<br>2019-02-14 14:48<br>赞(0) 踩(0) | <div><q><b>暗涌。说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204379386)<br>在，也不见<br>2019-02-15 23:49<br>赞(0) 踩(0) | <div><q><b>кιʏø说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18348567)<br> <br>2018-12-22 21:55<br>赞(4) 踩(0) | <div>我听成“妈的”，还不够吗 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -330,7 +330,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192226662)<br>五月天主义<br>2018-11-30 07:06<br>赞(0) 踩(0) | <div>大兄弟你认真的？明明是陈绮贞的烟火啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377262951)<br><br>2018-12-05 23:04<br>赞(0) 踩(0) | <div>陈绮贞的烟火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232426136)<br>相见不如怀念<br>2018-11-25 14:27<br>赞(0) 踩(0) | <div>你妈的！！！？？？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202970730)<br>等着…等着……就碎了-…...<br>2018-11-24 23:24<br>赞(1) 踩(0) | <div>我一个双鱼，我不恨射手只是笑一笑，忘不掉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202970730)<br>等着…等着……就碎了-…...<br>2018-11-24 23:24<br>赞(1) 踩(0) | <div>我一个双鱼，我不恨射手<br>只是笑一笑，忘不掉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246375329)<br><br>2018-11-23 11:39<br>赞(0) 踩(0) | <div>真爱曲，每过一段都要听一次</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6343439)<br> <br>2018-11-22 17:01<br>赞(1) 踩(0) | <div>还是陈绮贞的好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8513606)<br>祝願大家生活幸福，健康常...<br>2018-11-20 22:59<br>赞(0) 踩(0) | <div>很爛的詞 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
@@ -350,7 +350,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314202590)<br><br>2018-10-21 11:45<br>赞(0) 踩(0) | <div>我也是。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37816097)<br> <br>2018-10-21 03:03<br>赞(0) 踩(0) | <div>是的 如果要被放弃 那我就要做你心上那把刀 让你想起我的时候 会感受到锥心的痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402979651)<br>我还没想好要写什么...<br>2018-10-21 00:41<br>赞(1) 踩(0) | <div>我天蝎，在等双鱼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247198879)<br><br>2018-10-18 09:14<br>赞(0) 踩(0) | <div>我要飞走 我要温柔我要用最温柔的刑求让你一无所有</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247198879)<br><br>2018-10-18 09:14<br>赞(0) 踩(0) | <div>我要飞走 我要温柔<br>我要用最温柔的刑求<br>让你一无所有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250161605)<br><br>2018-10-17 21:16<br>赞(0) 踩(0) | <div>刚开始听，以为你们都在脏话骂这首歌 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92632646)<br>我昨天做了个很困的梦，醒...<br>2018-10-16 14:37<br>赞(3) 踩(0) | <div>原词可能就是你妈的 不好过审核才改的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334573511)<br><br>2018-10-26 17:28<br>赞(0) 踩(0) | <div>我第一反应也是</div> |
@@ -369,7 +369,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279005667)<br><br>2018-09-11 17:20<br>赞(0) 踩(0) | <div>更喜欢范晓萱版本的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279005667)<br><br>2018-09-11 17:16<br>赞(0) 踩(0) | <div>我狮子 为什么水瓶要恨我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37877141)<br>握着解渴的药。<br>2018-09-06 14:59<br>赞(0) 踩(0) | <div>林伟哲真的人不可貌相，这也是写给杨乃文的情歌吧，这一对人想想真是很酷。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71328938)<br>直到約定融化成笑顏♡<br>2018-09-02 14:41<br>赞(4) 踩(0) | <div>作词:林暐哲作曲:陈绮贞编曲: MonsterMonster?是不是我们五月天那个Monster?</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71328938)<br>直到約定融化成笑顏♡<br>2018-09-02 14:41<br>赞(4) 踩(0) | <div>作词:林暐哲<br>作曲:陈绮贞<br>编曲: Monster<br>Monster?是不是我们五月天那个Monster?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54450599)<br> 西  天  取  经<br>2018-08-30 15:40<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334263652)<br>做喜欢的事，让喜欢的事有...<br>2018-08-29 06:50<br>赞(0) 踩(0) | <div>我要用最温柔的复仇让你一无所有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50383241)<br> <br>2018-08-28 19:40<br>赞(0) 踩(0) | <div>重庆站！有没得要一起买套票的？</div> |
@@ -400,7 +400,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242507629)<br>分享，只是为了养虾米献爱...<br>2018-07-19 23:51<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333453457)<br><br>2018-07-19 11:36<br>赞(0) 踩(0) | <div>我双鱼，为何天蝎不爱我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378698256)<br><br>2018-07-15 20:11<br>赞(2) 踩(0) | <div>本来没看歌词的，听了一句&amp;ldquo;你妈的，还不够吗？&amp;rdquo;感觉很过瘾就进来看看</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349569303)<br>我还没想好要写什么...<br>2018-07-15 03:40<br>赞(1) 踩(0) | <div>你好像忽略了，我也只是个20出头刚毕业的小屁孩。不深谙世事也无谓知书达理体贴懂事，我也会有打滚撒娇幼稚要糖想被疼的时候&amp;hellip;哪怕我33岁了，也不希望总是被理智对待&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349569303)<br>我还没想好要写什么...<br>2018-07-15 03:40<br>赞(1) 踩(0) | <div>你好像忽略了，<br>我也只是个20出头刚毕业的小屁孩。<br>不深谙世事也无谓知书达理体贴懂事，<br>我也会有打滚撒娇幼稚要糖想被疼的时候&amp;hellip;<br>哪怕我33岁了，也不希望总是被理智对待&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71841640)<br><br>2018-07-15 01:08<br>赞(2) 踩(0) | <div>摩羯和白羊永远都相爱相杀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17882130)<br>旺仔彩虹堂<br>2018-07-14 20:34<br>赞(0) 踩(0) | <div>我要你再想起我，再多虽然最后都落在遗憾</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234608122)<br><br>2018-07-11 05:14<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
@@ -411,7 +411,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/965995)<br>鄙视砖栏<br>2018-07-07 13:40<br>赞(0) 踩(0) | <div>中午消闲片刻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259810375)<br>我还没想好要写什么...<br>2018-07-05 16:22<br>赞(0) 踩(0) | <div>NMD,还不够吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49799268)<br>The importan...<br>2018-07-04 22:56<br>赞(0) 踩(0) | <div>这不是陈老师 告诉我的歌的旋律吗 怎么回事</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54045721)<br> <br>2018-07-08 17:32<br>赞(0) 踩(0) | <div>作曲:陈绮贞</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54045721)<br> <br>2018-07-08 17:32<br>赞(0) 踩(0) | <div>作曲:<br>陈绮贞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/685766)<br>要更加努力才行<br>2018-07-04 00:08<br>赞(0) 踩(0) | <div>听着觉得旋律风格好像陈绮贞，一看，哎哟！还真是！突然有点骄傲</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331690777)<br><br>2018-07-14 09:58<br>赞(0) 踩(0) | <div>杨乃文是陈绮贞的前辈，这曲子是陈绮贞写给她的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/685766)<br>要更加努力才行<br>2018-07-15 23:33<br>赞(0) 踩(0) | <div><q><b>雨与鱼说：</b></q></div> |
@@ -420,9 +420,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268721777)<br> <br>2018-06-30 21:16<br>赞(2) 踩(0) | <div>一个天蝎座告诉你们，我们不关恨所有星座，恨所有事情，但其实我们最恨的是自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/372883048)<br>只对音乐花心<br>2018-06-29 15:01<br>赞(0) 踩(0) | <div>我射手 你天蝎为什么不喜欢我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245528557)<br><br>2018-06-29 12:26<br>赞(0) 踩(0) | <div>我爱双鱼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24275882)<br>.<br>2018-06-25 05:16<br>赞(0) 踩(0) | <div>为什么不相信我为什么要怀疑我一个不小心眼神的交错被当作乱放电的诱惑</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24275882)<br>.<br>2018-06-25 05:16<br>赞(0) 踩(0) | <div>为什么不相信我<br>为什么要怀疑我<br>一个不小心眼神的交错<br>被当作乱放电的诱惑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251180876)<br>喜欢养狗 不爱洗头<br>2018-06-22 22:11<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7056237)<br>暗號不變， 江湖再見<br>2018-06-22 06:26<br>赞(0) 踩(0) | <div>太多事情不应该寄托在别人身上自己的责任自己扛才能活出自己想要的样子人不能只沉浸在自己的感动里忽略了别人的付出和真心人类如此贪婪和自私人性根植于心永远不要期望改变无论怎么想我可是我就是我我没有多好但无愧于己无愧于&amp;ldquo;妳妈的&amp;rdquo;   <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7056237)<br>暗號不變， 江湖再見<br>2018-06-22 06:26<br>赞(0) 踩(0) | <div>太多事情不应该寄托在别人身上<br>自己的责任自己扛<br>才能活出自己想要的样子<br>人不能只沉浸在自己的感动里<br>忽略了别人的付出和真心<br>人类如此贪婪和自私<br>人性根植于心永远不要期望改变<br>无论怎么想我可是我就是我<br>我没有多好但无愧于己无愧于&amp;ldquo;妳妈的&amp;rdquo;   <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188742442)<br><br>2018-06-21 16:52<br>赞(1) 踩(0) | <div>你妈的 还不够吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347071752)<br>面朝大海 春暖花开<br>2018-06-21 16:19<br>赞(0) 踩(0) | <div>评论太少不科学</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295770123)<br><br>2018-06-20 16:45<br>赞(2) 踩(0) | <div>双鱼座的人天生招桃花，虽桃花灼灼但只钟情一人而已&amp;hellip;&amp;hellip;</div> |
@@ -441,11 +441,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273530882)<br>我还没想好要写什么...<br>2018-06-03 17:10<br>赞(1) 踩(0) | <div>为啥都在讲星座 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9151682)<br><br>2018-06-01 15:07<br>赞(0) 踩(0) | <div>你双鱼，自然恨你啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325172922)<br>“只有真的读懂过生活看过...<br>2018-05-28 22:58<br>赞(1) 踩(0) | <div>我双鱼  为什么天秤不爱我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115962486)<br>你一点都不酷 还想和我做...<br>2018-05-26 23:35<br>赞(0) 踩(0) | <div>我爱你啊  很爱 很爱可惜  我们分开了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115962486)<br>你一点都不酷 还想和我做...<br>2018-05-26 23:35<br>赞(0) 踩(0) | <div>我爱你啊  很爱 很爱<br>可惜  我们分开了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51670693)<br><br>2018-05-24 12:17<br>赞(0) 踩(0) | <div>陈绮贞？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244615422)<br><br>2018-05-23 22:12<br>赞(0) 踩(0) | <div>你妈的，还不够吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242965542)<br><br>2018-05-23 21:27<br>赞(0) 踩(0) | <div>看来大家听力都不错 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317900978)<br><br>2018-05-21 23:13<br>赞(0) 踩(0) | <div>我贞好好的曲子被这歌词带跑了听歌过程中不止一次听错词 笑笑笑</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317900978)<br><br>2018-05-21 23:13<br>赞(0) 踩(0) | <div>我贞好好的曲子被这歌词带跑了<br>听歌过程中不止一次听错词 笑笑笑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12861941)<br>我还没想好要写什么...<br>2018-05-19 00:56<br>赞(0) 踩(0) | <div>为什么要怀疑我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74215948)<br><br>2018-05-17 16:58<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153100276)<br>只有做好自己喽<br>2018-05-16 12:00<br>赞(0) 踩(0) | <div>陈绮贞的词 果然不一样</div> |
@@ -464,7 +464,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6531724)<br>All over me<br>2018-04-26 14:10<br>赞(1) 踩(0) | <div>这歌原来是陈绮贞的烟火！！！困扰我一百年的疑惑终于解开！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6531724)<br>All over me<br>2018-04-26 14:05<br>赞(1) 踩(0) | <div>终于知道我那双鱼的ex是怎么回忆我的了 <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359790799)<br><br>2018-04-25 14:24<br>赞(1) 踩(0) | <div>当我看了歌词我笑了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6531724)<br>All over me<br>2018-04-25 11:58<br>赞(1) 踩(0) | <div>我双鱼 为什么天蝎要恨我哈哈哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6531724)<br>All over me<br>2018-04-25 11:58<br>赞(1) 踩(0) | <div>我双鱼 为什么天蝎要恨我<br>哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332468260)<br>何猷君<br>2018-04-24 22:53<br>赞(2) 踩(0) | <div>听到：你妈的，我就跳戏！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6854754)<br><br>2018-04-24 15:32<br>赞(1) 踩(0) | <div>你妈的 还不够吗 <img src="../../../../images/comments/8fcbf24260c00a88b7455190f859059e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83481494)<br>德智体美，吃喝嫖赌<br>2018-04-23 12:07<br>赞(1) 踩(0) | <div>为什么不相信我 为什么要怀疑我 难道想头上带点绿？</div> |
@@ -485,14 +485,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45699409)<br>暗街燈也在想你<br>2018-04-14 00:31<br>赞(0) 踩(0) | <div>嗯不只天蝎  我摩羯也恨你们双鱼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74938082)<br>幻想拍电影开糖果店的学中...<br>2018-04-13 23:30<br>赞(3) 踩(0) | <div>只想说一句，天蝎做错了什么 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284087325)<br><br>2018-04-10 20:29<br>赞(0) 踩(0) | <div>我以为我听错了 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355247010)<br><br>2018-04-09 10:56<br>赞(0) 踩(0) | <div>好喜欢的一首歌！！！信任真的很重要！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355247010)<br><br>2018-04-09 10:56<br>赞(0) 踩(0) | <div>好喜欢的一首歌！！！<br>信任真的很重要！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1862609)<br>別逼逼<br>2018-04-07 13:22<br>赞(1) 踩(0) | <div>天蠍會心痛？別開玩笑了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279063179)<br><br>2018-05-30 19:20<br>赞(0) 踩(0) | <div>会的，跟正常人一样的痛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6800634)<br>人永远在寻找自己，直到死...<br>2018-04-06 12:14<br>赞(0) 踩(0) | <div>不好意思，最爱范晓萱的live版本。我很喜欢的一首歌。来自杨乃文。证据。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6800634)<br>人永远在寻找自己，直到死...<br>2018-04-06 12:14<br>赞(0) 踩(0) | <div>不好意思，最爱范晓萱的live版本。<br><br>我很喜欢的一首歌。来自杨乃文。证据。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228454774)<br><br>2018-04-05 11:38<br>赞(0) 踩(0) | <div>^_^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1211914)<br> <br>2018-04-04 12:22<br>赞(0) 踩(0) | <div>歌词觉得是双鱼的心声。强大的陈老师，哲学系双子女生真的读得够透彻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277445013)<br><br>2018-04-04 07:46<br>赞(0) 踩(0) | <div>只是听说</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281284316)<br><br>2018-03-30 13:34<br>赞(0) 踩(0) | <div>让你说谎时想到我就心痛孙美丽 天蝎小公举</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281284316)<br><br>2018-03-30 13:34<br>赞(0) 踩(0) | <div>让你说谎时想到我就心痛<br>孙美丽 天蝎小公举</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349147103)<br><br>2018-03-27 13:12<br>赞(0) 踩(0) | <div>一听这首歌就好喜欢 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323445718)<br> <br>2018-03-24 22:03<br>赞(0) 踩(0) | <div>你妈的 还不够吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38928)<br>檻の中で 自由気ままに。<br>2018-03-24 16:16<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
@@ -515,7 +515,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309099235)<br><br>2018-03-03 15:58<br>赞(0) 踩(0) | <div>这歌词，唱着真爽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85012236)<br>爱不是几滴眼泪几封情书<br>2018-03-01 23:37<br>赞(1) 踩(0) | <div>今天分手了 终于自由了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203262504)<br>远处是风景，近处的才是人...<br>2018-02-28 15:08<br>赞(3) 踩(0) | <div>作曲真的很陈绮贞&amp;hellip; 很像她一首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295380075)<br><br>2018-02-26 11:22<br>赞(1) 踩(0) | <div>我要飞走我要自由我要用最温柔的刑囚</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295380075)<br><br>2018-02-26 11:22<br>赞(1) 踩(0) | <div>我要飞走<br>我要自由<br>我要用最温柔的刑囚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15780805)<br>我还没想好要写什么...<br>2018-02-25 09:02<br>赞(0) 踩(0) | <div>一直不知道是这个意思啊，能不能控制好自己的眼睛！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308511961)<br>就让一切随缘<br>2018-02-21 13:54<br>赞(0) 踩(0) | <div>就是喜欢你独特的桑音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41695608)<br><br>2018-02-21 09:10<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -540,7 +540,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310796076)<br> <br>2018-02-02 12:49<br>赞(0) 踩(0) | <div>哈哈，我也是特意看了看歌词 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297923774)<br><br>2018-01-31 11:03<br>赞(0) 踩(0) | <div>喜欢这首歌几年了。很个性</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342816663)<br>做人呢，最重要的是开心<br>2018-01-31 10:41<br>赞(1) 踩(0) | <div>妈了，还不够吗？不够吗，不够吗？！！！还真妈de没听够，继续吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17220663)<br>Follow  me.<br>2018-01-31 07:35<br>赞(2) 踩(0) | <div>.别傻了他若喜欢你你脾气再大他都觉得是个性他若不喜欢你就算你温顺的像只小猫他都嫌你掉毛.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17220663)<br>Follow  me.<br>2018-01-31 07:35<br>赞(2) 踩(0) | <div>.<br><br><br>别傻了<br>他若喜欢你<br>你脾气再大他都觉得是个性<br>他若不喜欢你<br>就算你温顺的像只小猫<br>他都嫌你掉毛<br><br>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69586206)<br><br>2018-01-29 19:06<br>赞(1) 踩(0) | <div>因为骂人红的歌 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282596325)<br>囍<br>2018-01-28 22:38<br>赞(0) 踩(0) | <div>杨乃文的声音简直就是我的催泪弹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181633554)<br>愿执手白头 看芳华醉春风<br>2018-01-28 10:03<br>赞(1) 踩(0) | <div>陈绮贞 烟火！！</div> |
@@ -666,7 +666,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17697250)<br><br>2017-10-31 20:08<br>赞(0) 踩(0) | <div>曲用的是陈绮贞的《烟火》，歌词也有借鉴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46262111)<br>随心随性<br>2017-10-30 17:41<br>赞(1) 踩(0) | <div>赖镇伟信了八年水瓶座，今天查了下发现自己是双鱼。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6422139)<br>这家伙很聪明什么也没留下...<br>2017-10-30 10:14<br>赞(0) 踩(0) | <div>你妈的，还不够吗？ 哈哈哈哈哈哈哈哈哈哈！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9958261)<br>不听音乐我会死<br>2017-10-30 10:07<br>赞(0) 踩(0) | <div>再美丽的谎言，也会因为没有脊骨而丑陋不堪   ；……老师……你是声音好好听哦……哈哈哈哈哈……嘿嘿……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9958261)<br>不听音乐我会死<br>2017-10-30 10:07<br>赞(0) 踩(0) | <div>再美丽的谎言，也会因为没有脊骨而丑陋不堪   ；<br>……老师……你是声音好好听哦……哈哈哈哈哈……嘿嘿……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124778916)<br>♡<br>2017-10-30 10:04<br>赞(0) 踩(0) | <div>哈哈哈你妈的(ノ=Д=)ノ┻━┻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254060)<br><br>2017-10-30 09:57<br>赞(2) 踩(0) | <div>一个不小心眼神的交错 被当作乱放电的诱惑 我双鱼 为什么天蝎要恨我</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49863351)<br>一 个 很 酷 的人<br>2017-11-03 21:18<br>赞(0) 踩(0) | <div>作为天蝎表示真的乱放电 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -835,7 +835,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9655232)<br><br>2017-07-08 21:49<br>赞(1) 踩(0) | <div>看了评论老子觉得都是小学生</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268534591)<br>听到自己的故事。<br>2017-07-07 13:07<br>赞(3) 踩(0) | <div>这是天蝎座被黑的源头吗。心疼的抱住最帅气最骚最有才又有颜的自己 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268430448)<br>我还没想好要写什么...<br>2017-07-04 20:30<br>赞(0) 踩(0) | <div>看来听错的不止我一个</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14849394)<br><br>2017-07-03 14:19<br>赞(0) 踩(0) | <div>虽然听了很多遍证据，虽然知道杨乃文是暐哲老师前女友，但是，怎么就没有想到歌词会出自暐哲老师之手呢？#傻na#</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14849394)<br><br>2017-07-03 14:19<br>赞(0) 踩(0) | <div>虽然听了很多遍证据，<br>虽然知道杨乃文是暐哲老师前女友，<br>但是，怎么就没有想到歌词会出自暐哲老师之手呢？<br>#傻na#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284984204)<br>少年晚来疯<br>2017-07-01 13:02<br>赞(0) 踩(0) | <div>陈老师作曲啊！话说前女友也是双鱼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251179675)<br> <br>2017-07-01 01:04<br>赞(0) 踩(0) | <div>我狮子，那个星座敢恨我</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299926714)<br><br>2017-07-05 22:20<br>赞(0) 踩(0) | <div>我射手，射死你狮子 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -1008,8 +1008,8 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46204240)<br><br>2018-08-08 18:20<br>赞(0) 踩(0) | <div>没法听了 <img src="../../../../images/comments/0590342800944c9cbf70e4e78ed6027a.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206394544)<br>⁠<br>2018-08-17 22:29<br>赞(0) 踩(0) | <div>笑死了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23866544)<br>我还没想好要写什么...<br>2018-08-24 09:53<br>赞(0) 踩(0) | <div>你太优秀了吧&amp;hellip;</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355716954)<br><br>2018-10-14 05:22<br>赞(0) 踩(0) | <div>qllllpqllllq</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355716954)<br><br>2018-10-14 05:23<br>赞(0) 踩(0) | <div>qqlqlqlaqlpllllqqlllllqllqqql</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355716954)<br><br>2018-10-14 05:22<br>赞(0) 踩(0) | <div>qllll<br><br><br><br><br><br>p<br>qlll<br><br><br>l<br><br>q</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355716954)<br><br>2018-10-14 05:23<br>赞(0) 踩(0) | <div>q<br>q<br>lqlq<br>la<br><br><br><br>qlp<br>l<br><br><br>l<br><br><br><br>l<br><br><br><br><br>l<br>q<br>q<br><br><br>l<br>l<br><br><br><br><br><br><br><br><br><br><br><br><br>lllq<br><br><br><br>ll<br>qqq<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>l</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380078136)<br><br>2018-10-30 14:15<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151078444)<br>作阵来轧车<br>2018-12-04 12:20<br>赞(0) 踩(0) | <div>哈哈哈哈我就是 正刷微博呢 听到就点进来了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250424319)<br><br>2018-12-14 16:04<br>赞(0) 踩(0) | <div><q><b>Ens03说：</b></q></div> |
@@ -1077,7 +1077,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257259358)<br><br>2017-03-23 16:08<br>赞(0) 踩(0) | <div>我双鱼，为什么天蝎要恨我？！哈哈哈，我就是天蝎，跟双鱼搞不来</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186422876)<br><br>2017-03-24 23:17<br>赞(0) 踩(0) | <div>有病？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257862755)<br> <br>2017-03-22 23:11<br>赞(0) 踩(0) | <div>我要飞走</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17220663)<br>Follow  me.<br>2017-03-21 22:36<br>赞(1) 踩(0) | <div>...After  all  is  said  and  done最终也是曲终人散...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17220663)<br>Follow  me.<br>2017-03-21 22:36<br>赞(1) 踩(0) | <div>.<br><br>.<br><br>.<br>After  all  is  said  and  done<br>最终也是曲终人散.<br>.<br><br>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281125525)<br><br>2017-03-19 23:57<br>赞(1) 踩(0) | <div>没了你才有出口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258844268)<br> <br>2017-03-19 08:35<br>赞(3) 踩(0) | <div>一出来前奏 就有陈老师的感觉啊～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264790017)<br><br>2017-03-17 19:50<br>赞(1) 踩(0) | <div>一个人的时候最不得听老歌 ganenyiqieba</div> |
@@ -1147,7 +1147,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179144454)<br> <br>2017-01-06 09:24<br>赞(1) 踩(0) | <div>不好听呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13109192)<br><br>2017-01-05 18:09<br>赞(1) 踩(0) | <div>这不是陈绮贞的歌吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30991843)<br>印象中的爱情好像顶不住那...<br>2017-01-09 19:06<br>赞(0) 踩(0) | <div>原唱就是杨乃文的 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/221926496)<br>人生本就是一个人的战争<br>2017-01-04 23:54<br>赞(0) 踩(0) | <div>做过的梦是一阵漩涡/没了你/才有出口</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/221926496)<br>人生本就是一个人的战争<br>2017-01-04 23:54<br>赞(0) 踩(0) | <div>做过的梦是一阵漩涡/<br>没了你/才有出口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247491213)<br><br>2017-01-04 21:32<br>赞(0) 踩(0) | <div>想念家乡     。       想爸爸妈妈     。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13053978)<br>嗨:)交个朋友吧<br>2017-01-03 23:20<br>赞(0) 踩(0) | <div>你不说我也不说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1369677)<br>生如夏花，绚烂<br>2017-01-03 18:36<br>赞(1) 踩(0) | <div>为啥评论区都是双鱼和天蝎？谁恨谁？</div> |
@@ -1165,7 +1165,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238905412)<br> <br>2016-12-15 13:09<br>赞(2) 踩(0) | <div>大我天蝎说：伤你是因为更爱你所以才会伤到你，但更多的是我们经常伤害到自己 <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163328106)<br>游泳、听歌、看书、耍、美...<br>2016-12-15 09:40<br>赞(2) 踩(0) | <div>我也是双鱼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42819889)<br>噼里啪啦噼里啪啦( •̀...<br>2016-12-14 00:31<br>赞(2) 踩(0) | <div>听着这首一直会想到天后</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47808059)<br> <br>2016-12-13 21:43<br>赞(3) 踩(0) | <div>我双鱼，为什么天蝎要恨我。我真的双鱼，前女友天蝎谈了三年多，恨了我三年？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47808059)<br> <br>2016-12-13 21:43<br>赞(3) 踩(0) | <div>我双鱼，为什么天蝎要恨我。<br>我真的双鱼，前女友天蝎谈了三年多，恨了我三年？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35276075)<br>不见向去<br>2017-01-07 18:07<br>赞(0) 踩(0) | <div>你可能想太多了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215737020)<br><br>2016-12-13 18:40<br>赞(3) 踩(0) | <div>啊，陈绮贞有首旋律一样的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101508256)<br> <br>2016-12-19 16:00<br>赞(0) 踩(0) | <div>烟火</div> |
@@ -1389,7 +1389,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54588732)<br>₍•͈˽•͈₎<br>2016-07-03 16:26<br>赞(0) 踩(0) | <div>壹一 王八蛋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189912403)<br><br>2016-07-01 21:20<br>赞(0) 踩(0) | <div>说点什么呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82571994)<br><br>2016-06-30 10:14<br>赞(0) 踩(0) | <div>我天蝎 男朋友双鱼 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43869388)<br>我还没想好要写什么...<br>2016-06-30 01:16<br>赞(0) 踩(0) | <div>难道都是我的错我该生气还难过一杯被当做证据的红酒换来的咒骂喋喋不休你骂的 还不够吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43869388)<br>我还没想好要写什么...<br>2016-06-30 01:16<br>赞(0) 踩(0) | <div>难道都是我的错<br>我该生气还难过<br>一杯被当做证据的红酒<br>换来的咒骂喋喋不休<br>你骂的 还不够吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4088206)<br>也无风雨也无晴。<br>2016-06-29 10:44<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81424474)<br> <br>2016-06-28 19:10<br>赞(2) 踩(0) | <div>天蝎占有欲强，疑心重，像歌词里说的 放电，双鱼多情，想象力丰富，易给多疑的天蝎错觉，误会就是这么产生，恨你了。多互相信任吧</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92743172)<br> <br>2016-07-17 09:04<br>赞(0) 踩(0) | <div>分析一下天秤座呗</div> |
@@ -1423,7 +1423,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99330884)<br><br>2016-06-07 00:32<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11054759)<br>偶尔逛逛<br>2016-06-07 00:04<br>赞(3) 踩(0) | <div>哈哈哈哈哈，听到“你妈的，还不够吗”我会心一笑 <img src="../../../../images/comments/e4866ce16a67508c9f3eeeb303f3149a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15953103)<br>我还没想好要写什么...<br>2016-06-06 21:02<br>赞(1) 踩(0) | <div>你妈的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138970274)<br><br>2016-06-06 20:24<br>赞(3) 踩(0) | <div>你妈的 还不够吗哈哈哈我有特殊的发泄方法</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138970274)<br><br>2016-06-06 20:24<br>赞(3) 踩(0) | <div>你妈的 还不够吗<br>哈哈哈我有特殊的发泄方法</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82651890)<br>共看月亮，共数星星。<br>2016-06-05 13:13<br>赞(3) 踩(0) | <div>我一听就是烟火嘛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30754175)<br>今年不怎么听歌<br>2016-06-05 12:43<br>赞(2) 踩(0) | <div>只有双鱼和天蝎才能听懂的歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103927422)<br><br>2016-06-19 18:21<br>赞(0) 踩(0) | <div>天秤歌双鱼也懂</div> |
@@ -1519,7 +1519,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50748888)<br><br>2016-05-05 22:05<br>赞(1) 踩(0) | <div>我天蝎。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84502376)<br><br>2016-05-05 20:56<br>赞(0) 踩(0) | <div>和大家不太一样 我第一次听着首歌听错的是那句我要用最温柔的星球...（拿来扔你？？）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25228607)<br>:-) hello<br>2016-05-05 15:16<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80531828)<br> <br>2016-05-05 13:28<br>赞(2) 踩(0) | <div>一天一夜的时间拿来生活一天一夜的时间用来睡觉时间开始被无限的延长和压缩渐渐领悟了差时症这种并不存在的病症每个月都像昨天，每一秒都是此刻无法拒绝的在清醒着的每一刻思考又跳跃过无数日夜那些自以为是的关心剜在痛处却无法回应逃避人群问起的尴尬消失在你们的生活里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80531828)<br> <br>2016-05-05 13:28<br>赞(2) 踩(0) | <div>一天一夜的时间拿来生活<br>一天一夜的时间用来睡觉<br>时间开始被无限的延长和压缩<br>渐渐领悟了差时症这种并不存在的病症<br>每个月都像昨天，每一秒都是此刻<br>无法拒绝的在清醒着的每一刻思考<br>又跳跃过无数日夜<br>那些自以为是的关心剜在痛处却无法回应<br>逃避人群问起的尴尬<br>消失在你们的生活里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1739705)<br>我还没想好要写什么...<br>2016-05-05 08:31<br>赞(1) 踩(0) | <div>经常唱范晓萱的版本</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84416886)<br>豁达<br>2016-05-05 00:12<br>赞(3) 踩(0) | <div>范晓萱版本的比较好听嘛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64173626)<br> <br>2016-05-04 19:32<br>赞(2) 踩(0) | <div>我金牛 然后呢？</div> |
@@ -1636,7 +1636,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26482723)<br>我还没想好要写什么...<br>2016-03-05 15:18<br>赞(0) 踩(0) | <div>然而林老板最后还是成为了别人女孩子的丈夫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115347062)<br><br>2016-03-04 23:33<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39279662)<br>阳光使我荒凉<br>2016-03-04 08:26<br>赞(1) 踩(0) | <div>你妈的。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2236868)<br>躁抑的夏天来了<br>2016-02-29 10:21<br>赞(3) 踩(0) | <div>曲子好熟悉，想半天原来是 陈绮贞 后来又填词唱了的《烟火》哎~被下架了<a href="http://www.xiami.com/song/3508437?spm=a1z1s.3061781.226669510.9.nVJ01F&amp;amp;from=search_popup_song" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/3508437?spm=a1z1s.3061781.226669510.9.nVJ01F&amp;amp;from=search_popup_song</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2236868)<br>躁抑的夏天来了<br>2016-02-29 10:21<br>赞(3) 踩(0) | <div>曲子好熟悉，想半天<br>原来是 陈绮贞 后来又填词唱了的《烟火》<br><br>哎~被下架了<br><a href="http://www.xiami.com/song/3508437?spm=a1z1s.3061781.226669510.9.nVJ01F&amp;amp;from=search_popup_song" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/3508437?spm=a1z1s.3061781.226669510.9.nVJ01F&amp;amp;from=search_popup_song</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52291478)<br> <br>2016-02-28 23:15<br>赞(0) 踩(0) | <div>一听就是陈绮贞，解锁手机看作曲署名，果然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32415547)<br>这里是签名。<br>2016-02-28 08:42<br>赞(2) 踩(0) | <div>“他妈的。。你妈的。。”诶好好唱歌怎么能骂人呢？！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22101690)<br><br>2016-02-27 17:33<br>赞(3) 踩(0) | <div>我双鱼 为什么天蝎要恨我。。。。不了解星座的人应该不知道这个梗吧，天蝎和双鱼是绝配的星座额。</div> |
@@ -1714,7 +1714,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49274847)<br>： 有谁会因灵魂而被爱<br>2015-12-30 18:37<br>赞(0) 踩(0) | <div>为什么天蝎要恨我，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85255344)<br>万事万物没有变是我们在变...<br>2015-12-29 18:15<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25020571)<br>(*/ω＼*)<br>2015-12-29 10:38<br>赞(0) 踩(0) | <div>WHAT???</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1720629)<br>音乐无偏见。<br>2015-12-28 10:57<br>赞(0) 踩(0) | <div>我双鱼 为什么天蝎要恨我。懂星座的来说说吧。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1720629)<br>音乐无偏见。<br>2015-12-28 10:57<br>赞(0) 踩(0) | <div>我双鱼 为什么天蝎要恨我。<br>懂星座的来说说吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45806543)<br> <br>2015-12-25 21:02<br>赞(0) 踩(0) | <div>和烟火是异卵双胞胎，妈是陈绮贞</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5545199)<br> <br>2015-12-29 22:29<br>赞(0) 踩(0) | <div>但是甩了烟火十条街</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30888150)<br>我<br>2015-12-25 20:59<br>赞(0) 踩(0) | <div>听听感觉还骂人了呢</div> |
@@ -1787,7 +1787,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55208175)<br><br>2015-11-04 13:06<br>赞(0) 踩(0) | <div>哈哈，都是一样听错了 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12310229)<br>来微博找我@膀胱绿子<br>2015-11-04 11:54<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1279500)<br>看心情，没品味，不聊天，...<br>2015-11-04 00:15<br>赞(1) 踩(0) | <div>我要用最温柔的刑求/让你一无所有/让你在说谎的时候/想到我/会很心痛   单曲循环保佑我 今天被附身了 怎么都调不准色 我想这只鬼可能有点色盲。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43769569)<br>他有什么好，像清水迟早<br>2015-11-03 19:41<br>赞(0) 踩(0) | <div>我就是来来看看到底有多少人跟我一样听成你妈的还不够</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43769569)<br>他有什么好，像清水迟早<br>2015-11-03 19:41<br>赞(0) 踩(0) | <div>我就是来<br>来看看到底有多少人跟我一样听成你妈的还不够</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72459442)<br>与时有争 与世无争<br>2015-11-03 19:41<br>赞(0) 踩(0) | <div>尼玛的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53636953)<br>T<br>2015-11-02 13:34<br>赞(1) 踩(0) | <div>妈的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50711691)<br> <br>2015-10-31 12:59<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
@@ -2088,7 +2088,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33560694)<br>肥皂掉了！捡起<br>2014-04-15 16:20<br>赞(0) 踩(0) | <div>我要用最温柔的复仇，让你一无所有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8741902)<br>bless family<br>2014-04-11 10:16<br>赞(0) 踩(0) | <div>赞。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14417191)<br>smile~<br>2014-03-27 22:21<br>赞(0) 踩(0) | <div>你妈的。。还有我双鱼这两句歌词真的是。。。够了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15474157)<br>你是人间四月天~<br>2014-03-19 20:12<br>赞(0) 踩(0) | <div>我要飞走 我要自由我要用最温柔的复仇让你一无所有让你在说我的时候很有理 却会心痛我要飞走 我要自由我要用最温柔的刑求让你一无所有让你在说谎的时候想到我 会很心痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15474157)<br>你是人间四月天~<br>2014-03-19 20:12<br>赞(0) 踩(0) | <div>我要飞走 我要自由<br>我要用最温柔的复仇<br>让你一无所有<br>让你在说我的时候<br>很有理 却会心痛<br>我要飞走 我要自由<br>我要用最温柔的刑求<br>让你一无所有<br>让你在说谎的时候<br>想到我 会很心痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2726193)<br><br>2014-03-17 13:38<br>赞(0) 踩(0) | <div>唉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10668110)<br> <br>2014-03-16 21:33<br>赞(0) 踩(0) | <div>你妈的~还不够吗~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16045796)<br>沒有感情的聽歌殺手❤️<br>2014-03-15 17:37<br>赞(0) 踩(0) | <div>我要飞走  我要自由</div> |
@@ -2129,17 +2129,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6643994)<br>无用功专业户<br>2014-01-02 19:29<br>赞(0) 踩(0) | <div>晚上争取把事情做完~证据在此。。。拖延症。真可怕。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5044438)<br>今天白嘟出雙人曲了嗎？<br>2013-12-30 23:34<br>赞(0) 踩(0) | <div>你妈的还不够吗……………………（绝不是空耳（×</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4356428)<br> <br>2014-01-05 21:16<br>赞(0) 踩(0) | <div>哈哈哈我也听成了这个.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22233916)<br>——<br>2013-12-28 21:34<br>赞(0) 踩(0) | <div>我要飞走 我要自由我要用最温柔的刑求</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22233916)<br>——<br>2013-12-28 21:34<br>赞(0) 踩(0) | <div>我要飞走 我要自由<br>我要用最温柔的刑求</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3493948)<br>是洋葱，我加了洋葱<br>2013-12-26 12:25<br>赞(0) 踩(0) | <div>用最温柔的...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4855209)<br><br>2013-12-19 21:08<br>赞(0) 踩(0) | <div>尼玛的 还不够吗 哈哈哈哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9084249)<br>去远方。<br>2013-12-19 18:06<br>赞(0) 踩(0) | <div>我要飞走 我要自由我要用最温柔的复仇让你一无所有让你在说我的时候很有理 却会心痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9084249)<br>去远方。<br>2013-12-19 18:06<br>赞(0) 踩(0) | <div>我要飞走 我要自由<br>我要用最温柔的复仇<br>让你一无所有<br>让你在说我的时候<br>很有理 却会心痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18905917)<br><br>2013-12-19 11:57<br>赞(0) 踩(0) | <div>大爱。学唱中。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2885416)<br>有缘再见<br>2013-12-15 09:09<br>赞(0) 踩(0) | <div>这歌词 “我双鱼 为什么天蝎要恨我”这有什么说道吗？？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16679691)<br>暂无签名~<br>2014-01-09 08:15<br>赞(0) 踩(0) | <div>星座里，双鱼和天蝎是绝配</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2885416)<br>有缘再见<br>2014-01-09 11:43<br>赞(0) 踩(0) | <div><q><b>Sρ|eεn说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16130081)<br><br>2013-12-12 23:19<br>赞(0) 踩(0) | <div>一直听成：尼玛的 还不够吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15301700)<br><br>2013-12-10 16:30<br>赞(0) 踩(0) | <div>赞</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2119363)<br>喂！<br>2013-12-08 07:14<br>赞(0) 踩(0) | <div>722L我要飞走，我要自由我要用最温柔的复仇 让你一无所有让你在说我的时候，很有理却会心痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2119363)<br>喂！<br>2013-12-08 07:14<br>赞(0) 踩(0) | <div>722L<br>我要飞走，我要自由<br>我要用最温柔的复仇 让你一无所有<br>让你在说我的时候，很有理却会心痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5706576)<br><br>2013-12-06 06:20<br>赞(0) 踩(0) | <div>双鱼和天蝎，还没有试过，在期待...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8328691)<br><br>2013-11-28 10:29<br>赞(0) 踩(0) | <div>我要飞走，我要自由，我要用最温柔的刑求</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13558983)<br> <br>2013-11-25 22:54<br>赞(903) 踩(0) | <div>有一句歌词一直都听错了，哈哈哈哈</div> |
@@ -2180,7 +2180,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8165488)<br>我睡在你眼睛的沙漠里。。<br>2013-11-02 21:47<br>赞(0) 踩(0) | <div>嗯.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25903811)<br><br>2013-11-02 10:18<br>赞(0) 踩(0) | <div>喜欢的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16171457)<br><br>2013-10-31 08:50<br>赞(0) 踩(0) | <div>我双鱼，为什么天蝎要恨我~~~中毒ing。。。一个晚上都在单曲循环_(:з」∠)_~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419186)<br>梦游机长长的长<br>2013-10-28 07:49<br>赞(0) 踩(0) | <div>难道都是我的错我该生气还难过一杯被当**据的红酒换来的咒骂喋喋不休你骂的 还不够吗我要飞走 我要自由我要用最温柔的复仇让你一无所有让你在说我的时候很有理 却会心痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419186)<br>梦游机长长的长<br>2013-10-28 07:49<br>赞(0) 踩(0) | <div>难道都是我的错<br>我该生气还难过<br>一杯被当**据的红酒<br>换来的咒骂喋喋不休<br>你骂的 还不够吗<br><br>我要飞走 我要自由<br>我要用最温柔的复仇<br>让你一无所有<br>让你在说我的时候<br>很有理 却会心痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15915777)<br><br>2013-10-28 00:15<br>赞(0) 踩(0) | <div>最近大爱这首歌啊，听了一遍又一遍！看来我是天蝎座...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6684889)<br>我是傻的。关注啥的。<br>2013-10-27 13:51<br>赞(0) 踩(0) | <div>你妈的，还不够吗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3780812)<br><br>2013-10-26 19:53<br>赞(0) 踩(0) | <div>“我要用最温柔的复仇。”</div> |
@@ -2224,7 +2224,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6390426)<br><br>2013-08-22 19:35<br>赞(0) 踩(0) | <div>hao</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16093918)<br>尚未履行<br>2013-08-22 18:20<br>赞(0) 踩(0) | <div>真爱了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4012585)<br><br>2013-08-22 09:00<br>赞(0) 踩(0) | <div>昨天K歌的时候Tina唱杨乃文的这首歌好好听，于是回家赶紧找来听，听着听着我就觉得不对啊，这个旋律好好的，歌词怎么骂人呢？“你妈的，还不够吗？”听到这句我瞬间石化了。看一眼歌词才知道原来是“你骂的，还不够吗？”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14433930)<br><br>2013-08-22 08:00<br>赞(1) 踩(0) | <div>做过的梦是一阵旋涡没了你才有出口~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14433930)<br><br>2013-08-22 08:00<br>赞(1) 踩(0) | <div>做过的梦是一阵旋涡<br>没了你才有出口~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10914476)<br> 穿过悲惨之城我落荒而逃...<br>2013-08-21 20:17<br>赞(0) 踩(0) | <div>每次听这首歌，听到那句：＂你骂的，还不够吗？＂总有几分脏话的快感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11360601)<br>拉格朗日点。<br>2013-08-20 10:38<br>赞(0) 踩(0) | <div>……这首歌不是陈绮贞原唱么，词都不一样= =</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13629307)<br>好又多<br>2013-08-20 09:28<br>赞(0) 踩(0) | <div>完全！很！陈绮贞！可惜她的声音真的不称我的心。。。</div> |
@@ -2268,7 +2268,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10812896)<br>叫我女王大人<br>2013-08-07 00:26<br>赞(0) 踩(0) | <div>好听！嗯～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13152148)<br><br>2013-08-06 23:27<br>赞(0) 踩(0) | <div>我要用最温柔的复仇让你一无所有。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12247411)<br><br>2013-08-06 22:47<br>赞(0) 踩(0) | <div>听刘籽辰唱过之后,深深爱上这首歌.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1518294)<br> <br>2013-08-06 21:59<br>赞(0) 踩(0) | <div>我要用最温柔的刑求让你一无所有让你在说谎的时候想到我 会很心痛我已经不会难过没有什么好难过就当我的爱掉进了黑洞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1518294)<br> <br>2013-08-06 21:59<br>赞(0) 踩(0) | <div>我要用最温柔的刑求<br>让你一无所有<br>让你在说谎的时候<br>想到我 会很心痛<br>我已经不会难过<br>没有什么好难过<br>就当我的爱掉进了黑洞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10561476)<br><br>2013-08-06 20:31<br>赞(0) 踩(0) | <div>嗯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4262798)<br><br>2013-08-06 17:36<br>赞(0) 踩(0) | <div>听成了 妈的还不够吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2141673)<br>喜好一直很随便<br>2013-08-06 17:18<br>赞(0) 踩(0) | <div>我要用 最温柔的复仇 让你在说我的时候 很有理 却会心痛</div> |
@@ -2303,7 +2303,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6551986)<br>吃不饱。<br>2013-08-03 13:41<br>赞(0) 踩(0) | <div>做过的梦是一阵漩涡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225930)<br>我还没想好要写什么...<br>2013-08-03 13:27<br>赞(0) 踩(0) | <div>这么好的歌词~。。为什么不好好投入呢~。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8982138)<br>这家伙不懒，什么都没写<br>2013-08-03 12:39<br>赞(0) 踩(0) | <div>“你骂的 还不够吗” 这句唱出来老霸气了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11363305)<br>艾維斯的祝福<br>2013-08-03 10:53<br>赞(0) 踩(0) | <div>做过的梦是一阵旋涡没了你 才有出口</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11363305)<br>艾維斯的祝福<br>2013-08-03 10:53<br>赞(0) 踩(0) | <div>做过的梦是一阵旋涡<br>没了你 才有出口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7093257)<br>如果说 如果说。<br>2013-08-03 09:35<br>赞(0) 踩(0) | <div>怎么就能这么好听…至于歌词 呵呵 棒的喔 以前怎么就忽略了这首大好歌呢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8126079)<br><br>2013-08-03 09:13<br>赞(0) 踩(0) | <div>我想很少人喜欢女王的冷摇滚吧～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11522790)<br>兑了水<br>2013-08-03 08:53<br>赞(0) 踩(0) | <div>恨里带着寒心。唱的是想离开，其实是想要挽留。</div> |
@@ -2328,9 +2328,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121633)<br><br>2013-07-06 07:38<br>赞(0) 踩(0) | <div>Perché? Ora lo so…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16357362)<br><br>2013-07-06 07:26<br>赞(0) 踩(0) | <div>我要飞走飞走飞走。。。←_←</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8866646)<br> <br>2013-06-27 22:42<br>赞(0) 踩(0) | <div>做过的梦是一阵旋涡  没了你才有出口</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15891441)<br><br>2013-06-18 19:06<br>赞(0) 踩(0) | <div>《证据》--杨乃文@CoCo有个飞行dream @DiKeY尛77 @O盖世小熊O @阳光诗人 @彡人斿 @李TTTT- @水瓶座DE小懒猪 @魔女大小姐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15891441)<br><br>2013-06-18 19:06<br>赞(0) 踩(0) | <div>《证据》--杨乃文@CoCo有个飞行dream @DiKeY尛77 @O盖世小熊O @阳光诗人 @彡人斿 @<br>李TTTT- @水瓶座DE小懒猪 @魔女大小姐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8238600)<br><br>2013-06-09 00:49<br>赞(0) 踩(0) | <div>这样的声音值得被记住 小众歌手杨乃文 好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9084249)<br>去远方。<br>2013-06-05 20:05<br>赞(0) 踩(0) | <div>我要飞走 我要自由我要用最温柔的复仇让你一无所有让你在说我的时候很有理 却会心痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9084249)<br>去远方。<br>2013-06-05 20:05<br>赞(0) 踩(0) | <div>我要飞走 我要自由<br>我要用最温柔的复仇<br>让你一无所有<br>让你在说我的时候<br>很有理 却会心痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15424466)<br><br>2013-06-03 13:29<br>赞(0) 踩(0) | <div>最近爱上清摇滚，爱上老歌手杨乃文的几首老歌，除了这首，还有《一个人》《我离开我自己》《女爵》，都好赞！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8900344)<br><br>2013-06-01 23:25<br>赞(1) 踩(0) | <div>我把“你骂得还不够吗”这句听成了“你妈的……” 曲子不错的其实</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7977993)<br><br>2013-05-31 22:33<br>赞(0) 踩(0) | <div>早安呀~去次宵夜~</div> |
@@ -2338,9 +2338,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11239230)<br><br>2013-05-27 18:34<br>赞(0) 踩(0) | <div>：）））</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15298243)<br><br>2013-05-24 21:50<br>赞(0) 踩(0) | <div>天蝎恨你，金牛爱你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5505731)<br>闭眼能睡，睁眼能笑。<br>2013-05-24 15:15<br>赞(0) 踩(0) | <div>我要飞走，我要自由。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1541356)<br>人生不过是一场等待...<br>2013-05-23 22:44<br>赞(0) 踩(0) | <div>我要飞走 我要自由我要用最温柔的复仇让你一无所有让你在说我的时候很有理 却会心痛我要飞走 我要自由我要用最温柔的刑求让你一无所有让你在说谎的时候想到我 会很心痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1541356)<br>人生不过是一场等待...<br>2013-05-23 22:44<br>赞(0) 踩(0) | <div>我要飞走 我要自由<br>我要用最温柔的复仇<br>让你一无所有<br>让你在说我的时候<br>很有理 却会心痛<br>我要飞走 我要自由<br>我要用最温柔的刑求<br>让你一无所有<br>让你在说谎的时候<br>想到我 会很心痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14053513)<br>黑夜给了我黑色的眼睛..<br>2013-05-21 14:29<br>赞(0) 踩(0) | <div>我要用最温柔的复仇.....</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15312986)<br><br>2013-05-18 20:52<br>赞(0) 踩(0) | <div>我要飞走　我要自由我要用最温柔的复仇。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15312986)<br><br>2013-05-18 20:52<br>赞(0) 踩(0) | <div>我要飞走　我要自由<br>我要用最温柔的复仇。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14802251)<br><br>2013-05-15 23:42<br>赞(0) 踩(0) | <div>#say gn#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9958261)<br>不听音乐我会死<br>2013-05-15 22:13<br>赞(0) 踩(0) | <div>打错个字~重发~ 算是强迫症吗？哈哈哈哈哈哈哈哈哈………………</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15253873)<br>a boy<br>2013-05-13 22:31<br>赞(0) 踩(0) | <div>我很喜欢的一首歌 有其是双鱼座的朋友一定要听 可能会在KTV里成为你的发泄歌曲</div> |
@@ -2376,7 +2376,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4781565)<br><br>2013-02-01 20:44<br>赞(0) 踩(0) | <div>范晓萱在演唱会唱过的歌。一听就喜欢，才发现是陈绮贞写的曲。怪不得是我的丝带儿~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5386324)<br><br>2013-01-31 23:16<br>赞(0) 踩(0) | <div>心情不好 拖出来听听···@泥马库库甘小逸 @欧三只羊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8997347)<br><br>2013-01-30 22:50<br>赞(0) 踩(0) | <div>杨乃文，还是杨乃文~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12209869)<br><br>2013-01-23 14:59<br>赞(0) 踩(0) | <div>我要飞走 我要自由我要用最温柔的刑求让你一无所有让你在说谎的时候想到我 会很心痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12209869)<br><br>2013-01-23 14:59<br>赞(0) 踩(0) | <div>我要飞走 我要自由<br>我要用最温柔的刑求<br>让你一无所有<br>让你在说谎的时候<br>想到我 会很心痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1356183)<br><br>2013-01-21 12:00<br>赞(0) 踩(0) | <div>她的声音太硬，没有小女人的柔弱温柔~然后在失望之极时，凛冽不知婉转的声音才最适合你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/456831)<br><br>2013-01-21 00:13<br>赞(0) 踩(0) | <div>让你在说我的时候 很有理 却会心痛——林暐哲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10857891)<br><br>2013-01-18 07:16<br>赞(0) 踩(0) | <div>副歌唱的太酣畅淋漓了 “温柔”两个字的高音华丽得让人直起鸡皮疙瘩～编曲同样很完美没的说 太爽快了！！</div> |
@@ -2404,11 +2404,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7566122)<br><br>2012-11-09 22:17<br>赞(0) 踩(0) | <div>听到那句以为唱的是“你妈的 还不够吗”  -。-！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7105139)<br><br>2012-11-04 10:39<br>赞(0) 踩(0) | <div>我已经不会难过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10919078)<br><br>2012-10-26 22:04<br>赞(0) 踩(0) | <div>我要飞走/我要自由/我要用最温柔的刑求/让你一无所有/让你在说谎的时候/想到我/会很心痛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2070277)<br>暂无签名~<br>2012-10-25 15:42<br>赞(0) 踩(0) | <div>做过的梦是一阵旋涡没了你 才有出口</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2070277)<br>暂无签名~<br>2012-10-25 15:42<br>赞(0) 踩(0) | <div>做过的梦是一阵旋涡<br>没了你 才有出口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11187853)<br><br>2012-10-24 23:50<br>赞(0) 踩(0) | <div>熊乃瑾唱的也好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10855764)<br><br>2012-10-19 23:51<br>赞(0) 踩(0) | <div>我要飞走 我要自由 我要用最温柔的刑求 让你一无所有 让你在说我的时候 很有理 却会心痛 让你在说谎的时候 想到我 会心痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8894896)<br>也许轻浮，也许沉没<br>2012-10-09 21:05<br>赞(0) 踩(0) | <div>被当作乱放电的诱惑 我双鱼 为什么天蝎要恨我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8666124)<br>世界与我无关<br>2012-10-09 13:44<br>赞(0) 踩(0) | <div>&amp;quot;一杯被当**据的红酒换来的耳语喋喋不休你骂的 还不够吗&amp;quot;调整心情的时候最爱听杨乃文，说不清的喜欢！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8666124)<br>世界与我无关<br>2012-10-09 13:44<br>赞(0) 踩(0) | <div>&amp;quot;一杯被当**据的红酒<br>换来的耳语喋喋不休<br>你骂的 还不够吗&amp;quot;调整心情的时候最爱听杨乃文，说不清的喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2256285)<br><br>2012-09-25 09:18<br>赞(0) 踩(0) | <div>杨乃文的歌声中有一种倔犟的品质，独立，帅气。偏偏《祝我幸福》又很让人心疼。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10465522)<br>TGF:))))))<br>2012-09-23 00:42<br>赞(0) 踩(0) | <div>綺貞的曲:)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9751392)<br><br>2012-09-21 22:43<br>赞(0) 踩(0) | <div>#每日谈#一杯红酒一个唇印就击败爱情吧。</div> |

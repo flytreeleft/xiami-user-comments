@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406662583)<br><br>2018-11-08 18:44<br>赞(1) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423029021)<br><br>2019-04-08 10:12<br>赞(0) 踩(0) | <div>百无一用是佛经，这句话是错的。读一读《十善业道经》便可明白了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354875243)<br><br>2018-04-14 13:23<br>赞(2) 踩(0) | <div>南无阿弥陀佛</div> |

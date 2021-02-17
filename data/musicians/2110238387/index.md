@@ -3,13 +3,10 @@ Vince Zhang
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b99b6118100ff2beddbeb9e23eecb499.jpg)<br>Vince Zhang](https://i.xiami.com/vincezhang) | **播放数**: 1475714<br>**粉丝数**: 88<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 电音流行 Electropop<br> |
+| [![](../../images/musicians/b99b6118100ff2beddbeb9e23eecb499.jpg)<br>Vince Zhang](https://i.xiami.com/vincezhang) | **地区**: China 中国大陆<br>**风格**: 电音流行 Electropop<br>**播放数**: 1475714<br>**粉丝数**: 88<br>**评论数**: 7<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -53,8 +50,8 @@ Vince Zhang
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3237763)<br>用音乐装点生活   20...<br>2019-09-14 12:57<br>赞(0) 踩(0) | <div>出乎意料，赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31709801)<br>还活着，真的是太好了.....<br>2019-05-19 23:51<br>赞(1) 踩(0) | <div>看好你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2947032)<br>我还没想好要写什么...<br>2019-03-23 01:01<br>赞(1) 踩(0) | <div>中国人的电音, 不错哦! 看好你哦! 加油!</div> |

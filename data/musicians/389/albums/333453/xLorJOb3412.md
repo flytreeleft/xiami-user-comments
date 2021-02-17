@@ -42,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284422418)<br><br>2019-08-05 22:05<br>赞(0) 踩(0) | <div>高中的时候一位很好的兄弟推荐的歌，好久没联系了…听这首歌的时候真的感慨。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255940040)<br>纪念虾米<br>2019-06-09 05:03<br>赞(0) 踩(0) | <div>MV有定哥哥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112728136)<br>做一秒英雄<br>2018-11-23 23:59<br>赞(0) 踩(0) | <div>今天在广播里听到</div> |
@@ -59,7 +59,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125779652)<br><br>2018-06-10 21:37<br>赞(0) 踩(0) | <div>回忆总是美好的，这也是我8年前听得一首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105124990)<br>树梢上婉转的低语在无人知...<br>2016-09-15 00:19<br>赞(0) 踩(0) | <div>少恭打卡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11487544)<br><br>2016-01-19 23:51<br>赞(1) 踩(0) | <div>听广播发现这首歌棒棒哒 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4235564)<br>遇事不多想，都与我无关<br>2012-03-30 17:34<br>赞(0) 踩(0) | <div>在你身邊　就像在世界的頂點擁有了你　我就在世界的頂點</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4235564)<br>遇事不多想，都与我无关<br>2012-03-30 17:34<br>赞(0) 踩(0) | <div>在你身邊　就像在世界的頂點<br>擁有了你　我就在世界的頂點</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1718394)<br>是我浪费在你身上的时间，...<br>2011-05-05 06:32<br>赞(0) 踩(0) | <div>这么可爱的歌词，原来是林夕作。林夕的那本书，读起来生涩拗口。看来写作和作词还是有些许区别。还是直接去学文山兄弟，直接写诗集好了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11614959)<br>為了廢土上的人們與自己播...<br>2016-05-31 09:31<br>赞(0) 踩(0) | <div>歌詞是林白寫的，也就是旺福小民的筆名。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341272)<br><br>2010-07-05 00:08<br>赞(2) 踩(0) | <div>呵呵 想起了小时候玩的游戏《大富翁》，想起了童年，喜欢大富翁的可以听听！</div> |

@@ -65,8 +65,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430402158)<br><br>2021-01-31 23:01<br>赞(0) 踩(0) | <div>再见虾米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411408359)<br>爱你虾米  爱你编辑部<br>2021-01-31 12:20<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43467170)<br>从今天开始我要陪到虾米末...<br>2021-01-20 21:04<br>赞(0) 踩(0) | <div>一切会好..</div> |
@@ -91,7 +91,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327587521)<br>小人之心度君子之腹，从不...<br>2020-07-25 12:59<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615607)<br> 哪有什么岁月安好，只是...<br>2020-07-22 00:11<br>赞(2) 踩(0) | <div>会给姐姐递出的信</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258353121)<br>地势坤，君子以厚德载物。<br>2020-07-14 06:37<br>赞(1) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409256084)<br>難過的事<br>2020-07-13 03:15<br>赞(1) 踩(0) | <div>真沒想到 &amp;hellip;&amp;hellip;（離家=吵架=自殺等等）各種情緒不好各種輕生的念頭、&amp;lt;果然是 有錢能使鬼推磨&amp;gt;「錢的魅力大」 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409256084)<br>難過的事<br>2020-07-13 03:15<br>赞(1) 踩(0) | <div>真沒想到 &amp;hellip;&amp;hellip;（離家=吵架=自殺等等）各種情緒不好各種輕生的念頭、<br>&amp;lt;果然是 有錢能使鬼推磨&amp;gt;「錢的魅力大」 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373578871)<br><br>2020-06-30 08:58<br>赞(1) 踩(0) | <div>嗯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303772592)<br>我庆幸遇见了你，却遗憾只...<br>2020-06-29 07:48<br>赞(1) 踩(0) | <div>morning</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9493472)<br><br>2020-06-24 10:07<br>赞(2) 踩(0) | <div>你应该了解我 我就是个孩子的脾气</div> |
@@ -104,7 +104,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435227660)<br> <br>2020-05-23 00:05<br>赞(0) 踩(0) | <div>雷子好样的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441742924)<br><br>2020-05-22 09:44<br>赞(2) 踩(0) | <div>说心里话，有个姐姐多好啊！小的时候就一直想我怎么会既没姐姐也没有哥哥呢？不过说心里话如果让我选，我最终一定会选要一个姐姐的。 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334189267)<br> <br>2020-05-19 02:39<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276370349)<br>我想好了要写什么，但是我...<br>2020-05-17 09:30<br>赞(4) 踩(0) | <div>寄(另一个世界你的弟弟):我有个姐姐在几个月的时候夭折了，如果她还在的话，她现在可能已经结婚了，如果她在的话我也可以当舅舅了，如果她在的话我也不用这么大的压力和烦恼，如果她在的话我还可以有个姐姐心疼，从未见过面姐姐，希望你在那边好好的。收(另一个世界我的姐姐)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276370349)<br>我想好了要写什么，但是我...<br>2020-05-17 09:30<br>赞(4) 踩(0) | <div>寄(另一个世界你的弟弟):<br><br>我有个姐姐在几个月的时候夭折了，如果她还在的话，她现在可能已经结婚了，如果她在的话我也可以当舅舅了，如果她在的话我也不用这么大的压力和烦恼，如果她在的话我还可以有个姐姐心疼，从未见过面姐姐，希望你在那边好好的。<br>收(另一个世界我的姐姐)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439377703)<br>浮生若夢 為歡幾何<br>2020-05-14 13:17<br>赞(1) 踩(0) | <div>好聽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178982630)<br>歲月剝落破損的外衣，還有...<br>2020-04-26 00:46<br>赞(1) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329803413)<br><br>2020-04-25 06:08<br>赞(1) 踩(0) | <div>听了以后，我也想有个姐姐</div> |
@@ -114,7 +114,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12896283)<br><br>2020-04-17 00:22<br>赞(6) 踩(0) | <div>我这生极爱的两个女人，一个是我的母亲，她养育我生命，一个是我姐，她大我六岁，我在背箩里看她像是母亲。若有任何试图伤她，视为死敌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362593986)<br>花开如梦，笑颜如初.<br>2020-04-15 01:28<br>赞(4) 踩(0) | <div>这首歌分享给天下所有的姐姐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333817442)<br><br>2020-04-14 17:11<br>赞(5) 踩(0) | <div>以前以为姐姐不喜欢我，小时候不喜欢带我一起出去玩，可能带我出去怕我惹事，记得有一次带我出去和你的小伙伴玩的时候，把他们的台球弄坏了，以后的日子我只能和自己另外3个同龄小伙伴玩，直到有一天我排队回家的时候，没好好走路，撞到一辆自行车上，额头流了很多血，姐姐回到家，比我哭得还惨，才知道姐姐也是爱我的 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441261346)<br>以梦为马，不负韶华。<br>2020-04-10 00:29<br>赞(1) 踩(0) | <div>有姐姐，很幸福有弟弟，#*#:*#</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441261346)<br>以梦为马，不负韶华。<br>2020-04-10 00:29<br>赞(1) 踩(0) | <div>有姐姐，很幸福<br>有弟弟，#*#:*#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330538643)<br>不要回头，回头是土<br>2020-04-08 19:28<br>赞(2) 踩(0) | <div>这也是未分享给姐姐的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273114875)<br>听歌 运动和吃饭 呼吸一...<br>2020-03-31 05:41<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15177113)<br><br>2020-03-28 20:40<br>赞(0) 踩(0) | <div>人生苦短</div> |
@@ -130,7 +130,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331749409)<br>嘿嘿(^_^)<br>2020-02-09 01:53<br>赞(1) 踩(0) | <div>感觉跟一封家书很像，是从那得到的灵感吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414046540)<br><br>2020-02-03 11:22<br>赞(0) 踩(0) | <div>很喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299324256)<br>开心快乐每一天<br>2020-01-27 08:41<br>赞(2) 踩(0) | <div>姐姐最好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359365048)<br>渾渾噩噩 一歌解千愁~<br>2020-01-24 00:16<br>赞(6) 踩(0) | <div>每当不高兴的时候就出去晒一晒太阳</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359365048)<br>渾渾噩噩 一歌解千愁~<br>2020-01-24 00:16<br>赞(6) 踩(0) | <div>每当不高兴的时候<br>就出去晒一晒太阳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47169379)<br><br>2020-01-23 07:00<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346890470)<br><br>2020-01-22 23:35<br>赞(3) 踩(0) | <div>我要有个姐姐该多好啊！以后老了后谁还能疼我啊……没血缘关系终究还是不行，不想当扛把子啊，想被照顾。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416630296)<br><br>2020-01-12 09:29<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -165,7 +165,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345302872)<br>遇見更好的自己<br>2019-09-07 22:40<br>赞(11) 踩(0) | <div>我感覺朋友姐姐比親姐姐更親近貼心 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425374522)<br><br>2019-09-06 20:53<br>赞(1) 踩(0) | <div>没有姐姐的我 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49720278)<br>未必会来，未必会走<br>2019-09-02 11:34<br>赞(4) 踩(0) | <div>姐，我今天失恋了，爱的好累，一切都明白了，结束了也许挺好的吧。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429079812)<br><br>2019-08-28 15:51<br>赞(5) 踩(0) | <div>我想有个哥哥，但是我却有一个弟弟感情并没有那么好想有一个疼我的哥哥</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429079812)<br><br>2019-08-28 15:51<br>赞(5) 踩(0) | <div>我想有个哥哥，但是我却有一个弟弟<br>感情并没有那么好<br>想有一个疼我的哥哥</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48843960)<br>随意<br>2019-11-25 17:44<br>赞(0) 踩(0) | <div>等你弟弟长大了就懂爱了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8216790)<br><br>2019-08-28 13:20<br>赞(2) 踩(0) | <div>从此人山人海，不再归来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254742058)<br><br>2019-08-26 19:47<br>赞(2) 踩(0) | <div>“邻女”确实有这个词，指怀春的少女</div> |
@@ -208,7 +208,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334557554)<br>生活就要像一首音乐那样美...<br>2019-04-28 03:02<br>赞(5) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336657660)<br><br>2019-04-16 17:24<br>赞(4) 踩(0) | <div>喜欢，曲调很美！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303772592)<br>我庆幸遇见了你，却遗憾只...<br>2019-04-15 07:48<br>赞(1) 踩(0) | <div>morning</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258567154)<br>每一首好听的歌 都需要去...<br>2019-04-12 19:58<br>赞(3) 踩(0) | <div>在看大冰的 乖，摸摸头里面提及的  <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258567154)<br>每一首好听的歌 都需要去...<br>2019-04-12 19:58<br>赞(3) 踩(0) | <div>在看大冰的 乖，摸摸头<br>里面提及的  <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196662651)<br><br>2019-04-11 12:58<br>赞(2) 踩(0) | <div>姐姐嫁人上了婚车的时候我哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310248401)<br>顾左右而言她<br>2019-04-10 07:14<br>赞(5) 踩(0) | <div>嘿嘿，我姐姐要高考了，(也是认的)喜欢了她5年，希望她能好好的，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246693050)<br>要有最朴素的生活，与最遥...<br>2019-04-08 07:49<br>赞(1) 踩(0) | <div>嘻嘻</div> |
@@ -235,7 +235,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410802318)<br><br>2019-03-09 19:54<br>赞(5) 踩(0) | <div>写得多好，其实男人也需要一个关心自己的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242507629)<br>分享，只是为了养虾米献爱...<br>2019-03-08 07:47<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413787627)<br><br>2019-03-07 09:41<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402766286)<br><br>2019-03-02 20:55<br>赞(3) 踩(0) | <div>曾经 所有美好的句子和旋律都属于我姐姐后来 我们越走越远了争吵 咆哮 碎了一地的是玻璃渣也是我们的亲情不是吗下次见面我还会想逃离吗后来我们都长大了我们却再也没有拥抱的能力了或许有一天我会释怀我能原谅也或许不会有那一天希望你在北京好好的不联系 是我对你的人生选择最好的尊重了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402766286)<br><br>2019-03-02 20:55<br>赞(3) 踩(0) | <div>曾经 所有美好的句子和旋律都属于我姐姐<br>后来 我们越走越远了<br>争吵 咆哮 碎了一地的是玻璃渣<br>也是我们的亲情不是吗<br>下次见面我还会想逃离吗<br>后来我们都长大了<br>我们却再也没有拥抱的能力了<br><br>或许有一天我会释怀我能原谅<br>也或许不会有那一天<br><br>希望你在北京好好的<br>不联系 是我对你的人生选择最好的尊重了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50438549)<br>天空不留鸟的痕迹 ，但我...<br>2019-03-27 23:50<br>赞(0) 踩(0) | <div>你好，亲情是断了骨头连着筋的，我弟弟小时候二岁得小儿麻痹，双腿殘疾。如今早已结婚生子，我们二个姐姐象以前一样疼他爱他。你去寻找吧，说不定他也还在等你呢。祝福你们。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14982100)<br><br>2019-02-26 21:24<br>赞(0) 踩(0) | <div>外</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419900763)<br><br>2019-02-25 03:39<br>赞(0) 踩(0) | <div>看看</div> |
@@ -320,7 +320,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6994888)<br>输入签名……<br>2018-11-12 21:26<br>赞(2) 踩(0) | <div>写的很贴生活，听他的歌像是在听一个故事，很淳朴的男人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407786344)<br><br>2018-11-12 19:01<br>赞(2) 踩(0) | <div>太动情了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375004486)<br><br>2018-11-11 22:25<br>赞(5) 踩(0) | <div>我是男生，有一个双胞胎弟弟，他说每次听时都把姐姐换成哥哥，真好！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303749319)<br>人生如路，需在荒芜中走出...<br>2018-11-06 16:47<br>赞(32) 踩(0) | <div>我是个哥哥，同辈里，和我最亲的，是我的表妹。她说他喜欢女生，我告诉她我喜欢男生。我们总是畅想着未来，想要有能力和机会再向各自的父母出柜。可是现在等不及了，妹妹被多次逼婚，她打算说出真相却又犹豫不决。我说别怕，哥哥先说你再说，到时候让他们说是哥哥带坏你的。谁让我是你哥呢。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303749319)<br>人生如路，需在荒芜中走出...<br>2018-11-06 16:47<br>赞(32) 踩(0) | <div>我是个哥哥，同辈里，和我最亲的，是我的表妹。她说他喜欢女生，我告诉她我喜欢男生。我们总是畅想着未来，想要有能力和机会再向各自的父母出柜。可是现在等不及了，妹妹被多次逼婚，她打算说出真相却又犹豫不决。我说别怕，哥哥先说你再说，到时候让他们说是哥哥带坏你的。<br>谁让我是你哥呢。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300217618)<br><br>2019-03-03 08:07<br>赞(0) 踩(0) | <div>坐等后续。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267996341)<br><br>2018-11-04 00:24<br>赞(5) 踩(0) | <div>我姐说，你什么时候能找个女朋友，让人家陪你买衣服，那年大一离家的时候，我姐说你上大学了，长大了，要把自己收拾的干干净净的，学会穿衣打扮。有姐姐很幸福，就算相隔两地，从祖国的大西北到南方港口城市，血浓于水的亲情，这辈子都不可能割断的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338637517)<br>不灭的月亮下是不夜的街<br>2018-11-03 01:52<br>赞(3) 踩(0) | <div>从小一起长大的唯一的表姐前几天嫁人了，我姨没哭姨夫没哭姐也没哭，我哭了。送姐出嫁回来的车上哭的喘不过气。</div> |
@@ -328,7 +328,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9090359)<br>我还没想好要写什么...<br>2018-11-02 14:55<br>赞(2) 踩(0) | <div>生活一下子變得冷清，原來是真的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341492028)<br><br>2018-11-01 06:22<br>赞(1) 踩(0) | <div>没有故事的人只是来听歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14426147)<br><br>2018-10-20 04:27<br>赞(2) 踩(0) | <div>我只有个从小欺负我的哥！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201447807)<br>请记住我的名字和我带给你...<br>2018-10-17 13:08<br>赞(1) 踩(0) | <div>第2222条评论2018年10月17日13：08重阳节吃完饭又躺了会，一会去上班</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201447807)<br>请记住我的名字和我带给你...<br>2018-10-17 13:08<br>赞(1) 踩(0) | <div>第2222条评论<br>2018年10月17日13：08<br>重阳节<br>吃完饭又躺了会，一会去上班</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261993888)<br><br>2018-10-16 07:42<br>赞(4) 踩(0) | <div>我姐嫌我丑，我嫌我姐丑，见面就开打，各种仇！ <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404407633)<br><br>2018-10-23 08:29<br>赞(0) 踩(0) | <div>我猜是基因问题…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374589039)<br><br>2018-10-10 20:51<br>赞(1) 踩(0) | <div>好的很</div> |
@@ -338,7 +338,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340286560)<br><br>2018-10-02 05:58<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203210963)<br>欣赏JOJO<br>2018-09-29 15:56<br>赞(0) 踩(0) | <div>姐姐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287889923)<br>有音乐生活才美丽<br>2018-09-29 07:10<br>赞(1) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203210963)<br>欣赏JOJO<br>2018-09-26 09:51<br>赞(1) 踩(0) | <div>最近我失去了爱情生活变得有一些冷清。这句怎么显得那么伤感？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203210963)<br>欣赏JOJO<br>2018-09-26 09:51<br>赞(1) 踩(0) | <div>最近我失去了爱情生活变得有一些冷清。<br>这句怎么显得那么伤感？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252517980)<br>要想成为国王 先学会做一...<br>2018-09-21 07:58<br>赞(0) 踩(0) | <div>我也想有个姐姐 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203210963)<br>欣赏JOJO<br>2018-09-21 07:22<br>赞(1) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203210963)<br>欣赏JOJO<br>2018-09-19 07:55<br>赞(1) 踩(0) | <div>喜欢赵雷</div> |
@@ -354,7 +354,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299896259)<br>知足只能养出不知进取的懒...<br>2018-08-27 07:02<br>赞(3) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334887811)<br><br>2018-08-26 23:08<br>赞(2) 踩(0) | <div>又一首赵雷的歌，没听过的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218593918)<br>歌颂汕尾，歌颂世界！<br>2018-08-26 22:17<br>赞(2) 踩(0) | <div>我有一个好姐姐特别疼我 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40380231)<br>一直都在流浪，不曾见过海...<br>2018-08-25 13:19<br>赞(1) 踩(0) | <div>&amp;ldquo;最近我失去了爱情，生活一下子变得冷清，可是姐姐你不必为我担心。&amp;rdquo;泪目  &amp;hellip;&amp;hellip;  一切都会好的。 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40380231)<br>一直都在流浪，不曾见过海...<br>2018-08-25 13:19<br>赞(1) 踩(0) | <div>&amp;ldquo;最近我失去了爱情，生活一下子变得冷清，可是姐姐你不必为我担心。&amp;rdquo;<br><br>泪目  &amp;hellip;&amp;hellip;  一切都会好的。 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270830927)<br>山川异域，日月同天<br>2018-08-24 08:10<br>赞(4) 踩(0) | <div>没有亲生的姐姐或者哥哥，印象最深刻的，是表哥。他大我几岁，我们小学同一个学校，他是那种整天打架斗殴，各种惹事生非的学生，与我这个乖巧懂事的好学生不一样。但是某一次在小卖部遇到他和他的朋友，他直接对他的朋友们说:&amp;ldquo;这是我妹妹，你们谁都不准欺负她，她有什么事马上跟我说&amp;rdquo;从那时起，这就是我亲哥了。现在他在云南工作，我在四川读大学，我们还保持着联系，真好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256277112)<br>不<br>2018-08-20 22:12<br>赞(2) 踩(0) | <div>北京有月亮吗，我以为只有雾霾！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377186691)<br><br>2018-08-20 21:02<br>赞(3) 踩(0) | <div>献给亲爱的姐姐，希望她健康快乐</div> |
@@ -431,7 +431,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317597903)<br><br>2018-05-05 08:35<br>赞(1) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331879408)<br>一个思想天马行空的孤独症...<br>2018-05-03 01:15<br>赞(2) 踩(0) | <div>我想要个哥哥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262376028)<br>Sometimes ev...<br>2018-04-30 21:54<br>赞(0) 踩(0) | <div>h</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252406259)<br>缓缓缓<br>2018-04-30 02:52<br>赞(8) 踩(0) | <div>我有个姐姐，外婆说小时候我俩是对头，经常吵架，后来也许是长大了，我们的关系变得像闺蜜，她知道我所有的喜好，有时候我们看上了一样的东西，她发现了就会找各种理由送给我。我还有个哥哥，比我大两岁，从小宠我宠到大，后来有一次他载我，我摔了下来，脸上有了一块印记，他心里愧疚了这么多年，对我是有求必应，他十八岁就出去打工了，钱挣的不多，也许有人觉得他很抠，但对我他从不吝啬。我想我这辈子对谁不好都不会对他们不好。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252406259)<br>缓缓缓<br>2018-04-30 02:52<br>赞(8) 踩(0) | <div>我有个姐姐，外婆说小时候我俩是对头，经常吵架，后来也许是长大了，我们的关系变得像闺蜜，她知道我所有的喜好，有时候我们看上了一样的东西，她发现了就会找各种理由送给我。<br>我还有个哥哥，比我大两岁，从小宠我宠到大，后来有一次他载我，我摔了下来，脸上有了一块印记，他心里愧疚了这么多年，对我是有求必应，他十八岁就出去打工了，钱挣的不多，也许有人觉得他很抠，但对我他从不吝啬。<br>我想我这辈子对谁不好都不会对他们不好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348399781)<br><br>2018-04-27 14:22<br>赞(0) 踩(0) | <div>感谢我的双胞胎姐姐，是你们把我一直拉扯大，谢谢你们在我的生命中，虽然我现在没有家庭没有好的事业，但我会毅然前行，有你们我怎么忍心输！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349767115)<br><br>2018-04-25 15:41<br>赞(1) 踩(0) | <div>有个姐姐是多么幸福的事情 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14130007)<br><br>2018-04-25 10:30<br>赞(0) 踩(0) | <div></div> |
@@ -445,11 +445,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339364880)<br><br>2018-04-17 07:55<br>赞(0) 踩(0) | <div>没有姐姐的弟弟，说句出来的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318280661)<br>我还没想好要写什么...<br>2018-04-17 06:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330359997)<br><br>2018-04-15 15:05<br>赞(0) 踩(0) | <div>hi hy</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316985072)<br>未知艺术家<br>2018-04-14 23:16<br>赞(1) 踩(0) | <div>可能是唯一的一次因为看到一个歌手的歌下载需要付费而感到由衷的欣慰和高兴 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png">赵小雷我爱你 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316985072)<br>未知艺术家<br>2018-04-14 23:16<br>赞(1) 踩(0) | <div>可能是唯一的一次因为看到一个歌手的歌下载需要付费而感到由衷的欣慰和高兴 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"><br>赵小雷我爱你 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43742261)<br><br>2018-04-14 22:37<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34270051)<br><br>2018-04-12 15:39<br>赞(0) 踩(0) | <div>dtdtiditdt日方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34270051)<br><br>2018-04-12 15:39<br>赞(0) 踩(0) | <div>dtdtiditdt<br>日方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115777422)<br>故乡没有大海 只有一条不...<br>2018-04-11 14:18<br>赞(0) 踩(0) | <div>。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332784772)<br>他们说。。。<br>2018-04-10 20:56<br>赞(10) 踩(0) | <div>许巍说过，玩民谣就要接受食不果腹的生活&amp;hellip;就算哪天有了出头之日，经济上只能说不紧了，而不是有钱了。朴树说，唱民谣的都是穷人，有时酒跟烟都是用一首歌换来的。最后也会为了一口饭而去唱，不是妥协，而是吃饱了我还能继续唱。老狼说，我唱的只是属于我自己的歌，民谣可能赚不到什么钱，但是我们很快乐，饿到没有力气，唱到声嘶力竭。这就是我自己想要的。看到这里，说明你在深有体会的看着关于民谣的一切。是的，也许他们说的是真的，但是，有一点我们要记住，那就是以上都是我自己编的&amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332784772)<br>他们说。。。<br>2018-04-10 20:56<br>赞(10) 踩(0) | <div>许巍说过，玩民谣就要接受食不果腹的生活&amp;hellip;就算哪天有了出头之日，经济上只能说不紧了，而不是有钱了。<br>朴树说，唱民谣的都是穷人，有时酒跟烟都是用一首歌换来的。最后也会为了一口饭而去唱，不是妥协，而是吃饱了我还能继续唱。<br>老狼说，我唱的只是属于我自己的歌，民谣可能赚不到什么钱，但是我们很快乐，饿到没有力气，唱到声嘶力竭。这就是我自己想要的。<br>看到这里，说明你在深有体会的看着关于民谣的一切。是的，也许他们说的是真的，但是，有一点我们要记住，那就是以上都是我自己编的&amp;hellip;&amp;hellip;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357059845)<br><br>2018-04-13 20:31<br>赞(0) 踩(0) | <div>祝福玩民谣的你们</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88692846)<br><br>2018-07-10 00:13<br>赞(0) 踩(0) | <div>不会玩民谣，喜欢听，不紧，穷 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264871574)<br><br>2018-04-10 20:34<br>赞(0) 踩(0) | <div>听着歌总能想起姐姐，也很感慨</div> |
@@ -462,17 +462,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286751991)<br><br>2018-04-04 11:30<br>赞(2) 踩(0) | <div>我也有个姐姐，但是已经十多年不联系了。小时候很疼我，自从我学坏以后母亲去世以后再也没有联系了。不知道姐姐在广州还好吗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337483143)<br><br>2018-03-31 21:30<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101384730)<br>体验是一种智慧<br>2018-03-31 14:27<br>赞(1) 踩(0) | <div>不错，好舒服的旋律和词</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252180414)<br>喏 我的小可爱 皇冠给你...<br>2018-03-30 09:55<br>赞(5) 踩(0) | <div>好想有个姐姐或者哥哥 。可是我连个弟弟妹妹都没有。独生真的太孤独了。 <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252180414)<br>喏 我的小可爱 皇冠给你...<br>2018-03-30 09:55<br>赞(5) 踩(0) | <div>好想有个姐姐或者哥哥 。<br>可是我连个弟弟妹妹都没有。<br>独生真的太孤独了。 <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279073079)<br>被喜欢是件很幸运的事吧<br>2018-03-30 12:39<br>赞(0) 踩(0) | <div>对！！独生真的太孤独了！！！每次看到那些哥哥姐姐对妹妹很好很好很好时，我就超级嫉妒！！总感觉上天欠我一个哥哥和一个姐姐！！！ <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339637304)<br>因为喜欢所以更爱<br>2018-04-11 21:46<br>赞(0) 踩(0) | <div>你这一刻有哥哥了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88305418)<br>谢谢你<br>2018-03-30 09:39<br>赞(1) 踩(0) | <div>等我下個月去北京了我會聽着這首歌看看鼓楼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279073079)<br>被喜欢是件很幸运的事吧<br>2018-03-29 16:59<br>赞(1) 踩(0) | <div>赵雷可以有女朋友吗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289249930)<br> <br>2018-03-29 08:27<br>赞(13) 踩(0) | <div>姐姐带回来俄罗斯巧克力糖给我吃 好东西总是想着我 16年底她去了厦门，然后过年我发了工资买了好多一模一样巧克力，天天盼着她回来。 一天天过去我忍不住打电话问她什么时候回来？她只说去上学了 我问她到暑假总会回来吧？ 她只是含糊的推辞夏天 巧克力都化了我才知道她再也不回来了原来她在上佛学院 （已出家 我父母都信佛 是真正的一种信仰 不是迷信的烧香）我晚上哭了好久我立刻飞去厦门有着千言万语准备了很多说辞，可是到了那里我才发现我一句话也说不出来，看着姐姐一直对我笑我心里特别难受 感觉很亏欠她以前不应该那么任性，不该欺负她 总惹她生气 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289249930)<br> <br>2018-03-29 08:27<br>赞(13) 踩(0) | <div>姐姐带回来俄罗斯巧克力糖给我吃 好东西总是想着我 16年底她去了厦门，然后过年我发了工资买了好多一模一样巧克力，天天盼着她回来。 一天天过去我忍不住打电话问她什么时候回来？她只说去上学了 我问她到暑假总会回来吧？ 她只是含糊的推辞<br>夏天 巧克力都化了<br>我才知道她再也不回来了<br>原来她在上佛学院 （已出家 我父母都信佛 是真正的一种信仰 不是迷信的烧香）<br>我晚上哭了好久<br>我立刻飞去厦门有着千言万语准备了很多说辞，可是到了那里我才发现我一句话也说不出来，看着姐姐一直对我笑我心里特别难受 感觉很亏欠她<br>以前不应该那么任性，不该欺负她 总惹她生气 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348716377)<br><br>2018-03-27 20:47<br>赞(1) 踩(0) | <div>歌词不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57052272)<br><br>2018-03-26 23:40<br>赞(2) 踩(0) | <div>姐姐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319181930)<br><br>2018-03-25 06:33<br>赞(1) 踩(0) | <div>喜欢民谣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348423194)<br><br>2018-03-25 01:14<br>赞(0) 踩(0) | <div>赵雷每首歌都那么好听呢？奇了怪了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128133936)<br>等待戈多 萧条的荒诞<br>2018-03-23 23:38<br>赞(3) 踩(0) | <div>我以为这辈子没有老婆有姐也一样过，咱俩一起在大坝特梦想的聊着以后有钱咱们一家四口到处旅行慢慢就变了，你开始看我不顺，我也讨厌你的说话，到你偷偷的领证，在肆无忌惮的宣布，我和爸商量买什么家电给你的新房，结婚了那天在满洲里一圈一圈的绕，我一圈一圈的掉眼泪，我不明白，他不是好人，为什么，妹妹给我一张纸擦了一路，好了，我有外甥了，可他没爸妈了，一个判一个跑，姐，他见到我叫舅舅连滚带爬的过来抱我腿，你该回来了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128133936)<br>等待戈多 萧条的荒诞<br>2018-03-23 23:38<br>赞(3) 踩(0) | <div>我以为这辈子没有老婆有姐也一样过，咱俩一起在大坝特梦想的聊着以后有钱咱们一家四口到处旅行<br>慢慢就变了，你开始看我不顺，我也讨厌你的说话，到你偷偷的领证，在肆无忌惮的宣布，我和爸商量买什么家电给你的新房，结婚了那天在满洲里一圈一圈的绕，我一圈一圈的掉眼泪，我不明白，他不是好人，为什么，妹妹给我一张纸擦了一路，好了，我有外甥了，可他没爸妈了，一个判一个跑，姐，他见到我叫舅舅连滚带爬的过来抱我腿，你该回来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128133936)<br>等待戈多 萧条的荒诞<br>2018-03-23 23:27<br>赞(3) 踩(0) | <div>小时候上幼儿园，九几年吧，姐接我买了一个两块钱的小汽车，那时候她上小学，刚上初一给我买标志是犀牛的高仿卫衣，下午在碰碰凉请我吃五十八块钱的雪糕，初三和学校的打架她在包头上学打电话让家里的闺蜜帮我出气，一职的时候她惹了人那人砍她我把姐抱怀里决心挨一刀，但刀没落下，我带着她跑，12年在安徽工作住在民房，淮南附近的新集，潘北矿那吧，一个八宝粥摊上跑来一对姐弟，姐姐说弟弟，你总被欺负，打回去啊，总跟家里人能耐，弟弟没说话，眼巴巴看着姐，姐买了一个八宝粥，钱只够买一个的，我看她想都没想就给弟弟了，我手里那个八宝粥就掉地了，我哭了，一路抹着眼泪到工地，姐，每次回来我都跟你说我开心的难过的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355253456)<br><br>2018-03-22 08:39<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337154051)<br><br>2018-03-21 15:39<br>赞(0) 踩(0) | <div>忽然之间感到有姐姐真幸福！！祝姐姐健康快乐！</div> |
@@ -510,8 +510,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257556462)<br><br>2018-02-21 19:42<br>赞(1) 踩(0) | <div>赵雷写的歌 不浮夸 真实 好美 听起来很享受 给人温暖 回忆 勇气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20762738)<br><br>2018-02-21 14:32<br>赞(0) 踩(0) | <div>恋空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346222416)<br><br>2018-02-21 09:24<br>赞(0) 踩(0) | <div>评论出大神，一点不假，我每次都是在不断的翻评论</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320898217)<br>伽音<br>2018-02-19 07:00<br>赞(3) 踩(0) | <div>听歌翻看评论估计不止我一人吧，翻看评论，了解到了很多信息，了解到了很多听歌人的心声！同意的请举手留爪印！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41249067)<br> <br>2018-02-16 17:26<br>赞(3) 踩(0) | <div>我觉得这首歌就好像是我们的暗号。很想你！我想总有一天你能看到</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320898217)<br>伽音<br>2018-02-19 07:00<br>赞(3) 踩(0) | <div>听歌翻看评论估计不止我一人吧，<br>翻看评论，<br>了解到了很多信息，<br>了解到了很多听歌人的心声！<br>同意的请举手留爪印！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41249067)<br> <br>2018-02-16 17:26<br>赞(3) 踩(0) | <div>我觉得这首歌就好像是我们的暗号。<br>很想你！我想总有一天你能看到</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/167541862)<br> 仍是此间少年<br>2018-02-16 10:28<br>赞(0) 踩(0) | <div>雷，放心我会好好待你姐姐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199572071)<br><br>2018-02-16 09:54<br>赞(0) 踩(0) | <div>我喜欢每一首关于姐姐的歌，因为我也有一个姐姐 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337793590)<br><br>2018-02-15 14:50<br>赞(0) 踩(0) | <div>地震的时候  我姐走了&amp;hellip;&amp;hellip;</div> |
@@ -648,7 +648,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259314109)<br>回到虾米的日子，就觉得很...<br>2017-12-04 23:21<br>赞(0) 踩(0) | <div>靠，被和谐了 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259314109)<br>回到虾米的日子，就觉得很...<br>2017-12-04 23:22<br>赞(0) 踩(0) | <div>还好有备份 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337724645)<br> <br>2017-12-03 13:50<br>赞(1) 踩(0) | <div>我們生來就是孤單</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312118512)<br><br>2017-12-03 12:29<br>赞(37) 踩(0) | <div>我和我姐以前总是上午骂的像个仇人，但一到下午就会和好如初，晚上出去的时候她总会叫上我，一路和我说说笑笑，很开心 ，出去旅游的时候她会搂着我的胳膊，还会被别人以为是情侣 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">，一回别人把我打了她把人家叫出来给我道歉，第一次觉得她好凶，现在她在外面，很想她，今天我生日，她零晨四点多给我发了个红包，我知道她刚下班，很辛苦，下午她在外面平平安安。2017.12.3</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312118512)<br><br>2017-12-03 12:29<br>赞(37) 踩(0) | <div>我和我姐以前总是上午骂的像个仇人，但一到下午就会和好如初，晚上出去的时候她总会叫上我，一路和我说说笑笑，很开心 ，出去旅游的时候她会搂着我的胳膊，还会被别人以为是情侣 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">，一回别人把我打了她把人家叫出来给我道歉，第一次觉得她好凶，现在她在外面，很想她，今天我生日，她零晨四点多给我发了个红包，我知道她刚下班，很辛苦，下午她在外面平平安安。<br>2017.12.3</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140408518)<br>再见虾米！<br>2018-01-06 19:40<br>赞(0) 踩(0) | <div>劝你姐姐表做夜场了。找个好人嫁了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334904331)<br><br>2018-02-12 17:48<br>赞(0) 踩(0) | <div><q><b>Mr-chen说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333561325)<br><br>2017-12-02 14:18<br>赞(1) 踩(0) | <div>一直想有个大姐姐</div> |
@@ -738,7 +738,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35752684)<br>爱上一匹野马，可我家里没...<br>2017-10-27 23:53<br>赞(3) 踩(0) | <div>最近我失去了爱情，生活一下子变得冷清，可是姐姐你不必为我担心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49974780)<br><br>2017-10-27 23:52<br>赞(1) 踩(0) | <div>分享  赵雷 的歌曲《未给姐姐递出的信》<a href="http://www.xiami.com/song/1770478677" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1770478677</a>（分享自@虾米音乐）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44914237)<br><br>2017-10-27 23:38<br>赞(3) 踩(0) | <div>北京的味道。喜欢北京也是因为这样的味道，虽然现在自己好像已经不太惦念了，但还是可以留它在记忆里。暖暖</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14389899)<br>女同学<br>2017-10-27 23:18<br>赞(1) 踩(0) | <div>姐姐我这边的一切总的来说还算如意你应该很了解我就是个孩子的脾气最近我失去了爱情生活一下子变得冷清可是姐姐你不必为我担心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14389899)<br>女同学<br>2017-10-27 23:18<br>赞(1) 踩(0) | <div>姐姐我这边的一切总的来说还算如意<br>你应该很了解我就是个孩子的脾气<br>最近我失去了爱情生活一下子变得冷清<br>可是姐姐你不必为我担心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315159362)<br>花开雨下回忆痛、花落雨停...<br>2017-10-27 19:03<br>赞(1) 踩(0) | <div>我也本该有个妹妹却因为想要个弟弟。。。她本该上小学了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13160910)<br>Gad had a pl...<br>2017-10-27 09:42<br>赞(1) 踩(0) | <div>多想有个姐姐… <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"> <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89296052)<br><br>2017-10-27 00:05<br>赞(1) 踩(0) | <div>我没有姐姐，如果有姐姐，外甥应该会喊舅舅了。</div> |
@@ -785,7 +785,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324703446)<br><br>2017-09-21 14:43<br>赞(1) 踩(0) | <div>想有个姐姐 <img src="../../../../images/comments/91081ea0de8ee2c933524fb8574e76e5.png"> <img src="../../../../images/comments/91081ea0de8ee2c933524fb8574e76e5.png"> <img src="../../../../images/comments/91081ea0de8ee2c933524fb8574e76e5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227079643)<br>一念灭，咫尺天涯……<br>2017-09-19 15:06<br>赞(1) 踩(0) | <div>我喜欢毛年华</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43308067)<br> <br>2017-09-18 19:37<br>赞(2) 踩(0) | <div>我的邻女清早起床，总是喜欢大喊大叫 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263242242)<br><br>2017-09-17 21:23<br>赞(3) 踩(0) | <div>我没有亲姐姐，我大爷家有两个姐姐，我全心全意对他，他们成天耍心眼，现在不联系了羡慕有个好姐姐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263242242)<br><br>2017-09-17 21:23<br>赞(3) 踩(0) | <div>我没有亲姐姐，我大爷家有两个姐姐，我全心全意对他，他们成天耍心眼，现在不联系了<br>羡慕有个好姐姐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95211492)<br>年少不听张学友，再听成泪...<br>2017-09-16 14:30<br>赞(1) 踩(0) | <div>我我我没有姐姐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2990521)<br><br>2017-09-14 11:34<br>赞(3) 踩(0) | <div>每次听都很感动，我是姐姐，我有个弟弟，不过我对弟弟关心不够</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298106334)<br><br>2017-09-12 23:06<br>赞(1) 踩(0) | <div>真的暖心</div> |
@@ -806,7 +806,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315744401)<br>爱音乐，爱轻音乐，爱乐器...<br>2017-08-27 07:58<br>赞(1) 踩(0) | <div>在大冰的书中看到这首歌，没有找来听，现在用虾米随意听歌，刚好听到，感觉还不错。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266418034)<br><br>2017-08-25 15:19<br>赞(1) 踩(0) | <div>我只有一个妹妹  没有姐姐。  但是每次听到这首歌，眼睛都湿了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42146967)<br>岁月如歌 那首疯狂的歌又...<br>2017-08-24 02:36<br>赞(3) 踩(0) | <div>我的邻居清早起床也喜欢大喊大叫&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242003432)<br>三里清风三里路<br>2017-08-23 11:29<br>赞(28) 踩(0) | <div>姐姐这个特殊的家人，在的时候很烦，不在了又很想，明明很小女生脾气，有时候幼稚的不行，还会诓我，力气小，抢不过我的遥控器，为了减肥不吃饭，跟个神经病似的，我要是动她东西就要削我，我给她打电话会强制她多听几分钟，她走的时候我会把印有我相片的T恤衫装进她的箱子里，她走那天我要上课，我吵着让她给我买这买那，我常常在门口等她，我病那几天，她每天都在操场上看我有没有偷偷跑步，看见了，就要打我，三个月的暑假的确好长，她待家里挺烦的，但我却希望她能多待待。这个像神经病一样的小女生。你说我不在了谁帮她，我不在了谁照顾她，她那个智商啊，真的很令人担忧啊。（我弟弟的内心戏。）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242003432)<br>三里清风三里路<br>2017-08-23 11:29<br>赞(28) 踩(0) | <div>姐姐这个特殊的家人，在的时候很烦，不在了又很想，明明很小女生脾气，有时候幼稚的不行，还会诓我，力气小，抢不过我的遥控器，为了减肥不吃饭，跟个神经病似的，我要是动她东西就要削我，我给她打电话会强制她多听几分钟，她走的时候我会把印有我相片的T恤衫装进她的箱子里，她走那天我要上课，我吵着让她给我买这买那，我常常在门口等她，我病那几天，她每天都在操场上看我有没有偷偷跑步，看见了，就要打我，三个月的暑假的确好长，她待家里挺烦的，但我却希望她能多待待。这个像神经病一样的小女生。你说我不在了谁帮她，我不在了谁照顾她，她那个智商啊，真的很令人担忧啊。<br>（我弟弟的内心戏。）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271336056)<br>谁说彩虹不能长头上<br>2017-08-22 22:11<br>赞(2) 踩(0) | <div>突然好想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149110320)<br>没有什么能比一个人安安静...<br>2017-08-21 22:46<br>赞(2) 踩(0) | <div>姐姐，姐 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">，我平时不怎么关心我姐，都长大了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51784630)<br>我还没想好要写什么...<br>2017-08-21 19:30<br>赞(3) 踩(0) | <div>我也想有个能倾诉的姐姐，让我惦念。</div> |
@@ -857,7 +857,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125280246)<br>全力以赴.<br>2017-07-22 23:24<br>赞(1) 踩(0) | <div>每当听起这歌儿 总会想起自己的姐姐 你在他乡还好吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290984386)<br>我还没想好要写什么...<br>2017-07-19 09:20<br>赞(2) 踩(0) | <div>就是好听。加油 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255953149)<br><br>2017-07-17 20:28<br>赞(1) 踩(0) | <div>觉得他的歌生活气息很浓厚</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97640592)<br>总是认为自己很聪明的傻子<br>2017-07-17 01:49<br>赞(4) 踩(0) | <div>今天他住的地方回来，没有高铁，只有火车。他照顾了我许久，我却因为个人原因暂时让他回到故乡休息一段时间。我们都不责怪对方的任何错误，反而总是反省自己是否错误，虽然也会有很多时候争吵，但是我们总是似乎很多对方似的。临走的时候有很多不舍，我也答应他很快就会接他回来，希望一切安好。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97640592)<br>总是认为自己很聪明的傻子<br>2017-07-17 01:49<br>赞(4) 踩(0) | <div>今天他住的地方回来，没有高铁，只有火车。<br>他照顾了我许久，我却因为个人原因暂时让他回到<br>故乡休息一段时间。<br>我们都不责怪对方的任何错误，反而总是反省自己<br>是否错误，虽然也会有很多时候争吵，但是我们总<br>是似乎很多对方似的。<br>临走的时候有很多不舍，我也答应他很快就会接他<br>回来，希望一切安好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52692163)<br><br>2017-07-16 10:32<br>赞(0) 踩(0) | <div>有没有那么一刻想见你们都好好看。不</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308119716)<br>梦里花，开如梦、梦外落花...<br>2017-07-12 22:33<br>赞(0) 踩(0) | <div>没有姐姐的路过、求安慰！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300940754)<br> <br>2017-07-12 12:47<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
@@ -937,7 +937,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40022237)<br><br>2018-09-03 18:16<br>赞(0) 踩(0) | <div>偏偏现在都催二胎，听说都要收单身税&amp;hellip;&amp;hellip;生，或不生，都不能自己说了算</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14873)<br>摄影师，猫狗主人，大叔<br>2018-10-21 17:21<br>赞(0) 踩(0) | <div>我也是</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100307366)<br>我还没想好要写什么...<br>2018-11-02 19:40<br>赞(0) 踩(0) | <div>你真狠，这样也说得出</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303749319)<br>人生如路，需在荒芜中走出...<br>2018-11-06 16:41<br>赞(0) 踩(0) | <div>大层面讲，没有计划经生育，就没有经济奇迹，更没有国家崛起和人民幸福。非洲越穷越生，越生越穷就是鲜活的例子。小层面讲，许多家庭多生不是因为喜欢孩子，而是老一辈重男轻女的思想，生不出儿子就再生。所以看问题不要莽撞冲动情绪化。不分析，不辩证，不拿到现实中来，就不具备可信度。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303749319)<br>人生如路，需在荒芜中走出...<br>2018-11-06 16:41<br>赞(0) 踩(0) | <div>大层面讲，没有计划经生育，就没有经济奇迹，更没有国家崛起和人民幸福。非洲越穷越生，越生越穷就是鲜活的例子。<br>小层面讲，许多家庭多生不是因为喜欢孩子，而是老一辈重男轻女的思想，生不出儿子就再生。<br>所以看问题不要莽撞冲动情绪化。不分析，不辩证，不拿到现实中来，就不具备可信度。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377448206)<br>  ​吾何时能及<br>2018-11-19 09:36<br>赞(0) 踩(0) | <div>一样</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379284309)<br><br>2019-04-30 18:34<br>赞(0) 踩(0) | <div>我原本也有一个妹妹，三岁时意外去世了，愿天堂没有痛苦， <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410662321)<br>爱你上是我不能说的秘密<br>2019-06-13 09:12<br>赞(0) 踩(0) | <div><q><b>洛克弗尔德说：</b></q></div> |
@@ -956,7 +956,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141821132)<br>石榴树下，左转我就在这儿<br>2019-09-15 19:35<br>赞(0) 踩(0) | <div>你爸妈够狠。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410662321)<br>爱你上是我不能说的秘密<br>2020-02-20 10:12<br>赞(0) 踩(0) | <div><q><b>泫之月说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207201120)<br>人生得意须尽欢，莫使金樽...<br>2020-02-25 21:33<br>赞(0) 踩(0) | <div><q><b>Mistory说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441983788)<br>.<br>2020-04-23 09:46<br>赞(0) 踩(0) | <div>评论区好像有人吵起来了呢&amp;hellip;&amp;hellip;我从上刷到下&amp;hellip;&amp;hellip;</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441983788)<br>.<br>2020-04-23 09:46<br>赞(0) 踩(0) | <div>评论区好像有人吵起来了呢&amp;hellip;&amp;hellip;<br>我从上刷到下&amp;hellip;&amp;hellip;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420886178)<br>拥抱٩(๑^o^๑)۶<br>2020-05-02 22:17<br>赞(0) 踩(0) | <div>我就是在我妈妈掩护下出生的，被计划生育罚钱了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402884942)<br><br>2020-09-06 22:15<br>赞(0) 踩(0) | <div>别难过，你妹妹在天之灵，能感受到家人的思念的 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42549721)<br>我还没想好要写什么...<br>2020-11-28 18:19<br>赞(0) 踩(0) | <div>那个年代没办法，所有政策都是经过深思熟虑甚至仔细测算的，既然国家搞计划生育，就应该认真执行，不要说什么现在开放二胎，时代不同年代不同情况不同</div> |
@@ -979,7 +979,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47392404)<br><br>2017-06-11 21:08<br>赞(2) 踩(0) | <div>最近我失去了爱情，生活一下子变得冷清，你应该很了解我就是个孩子的脾气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302540612)<br><br>2017-06-10 18:47<br>赞(0) 踩(0) | <div>渴望有个姐姐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303297698)<br>有很认真的生活也很认真的...<br>2017-06-10 12:28<br>赞(0) 踩(0) | <div>快半年了没和弟弟通过电话，我不知道他过得好不好。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272278420)<br>爱是想碰触又收回的手<br>2017-06-09 21:07<br>赞(11) 踩(0) | <div>姐姐, 今夜我在德令哈, 夜色笼罩姐姐, 我今夜只有戈壁草原尽头我两手空空悲痛时握不住一颗泪滴姐姐, 今夜我在德令哈这是雨水中一座荒凉的城.....</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272278420)<br>爱是想碰触又收回的手<br>2017-06-09 21:07<br>赞(11) 踩(0) | <div>姐姐, 今夜我在德令哈, 夜色笼罩<br>姐姐, 我今夜只有戈壁<br>草原尽头我两手空空<br>悲痛时握不住一颗泪滴<br>姐姐, 今夜我在德令哈<br>这是雨水中一座荒凉的城.....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206592686)<br>第一最好不相见，如此便可...<br>2017-06-09 06:15<br>赞(2) 踩(0) | <div>想我姐了   大学快毕业了，又要考研 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149872)<br>这家伙很聪明，喜欢音乐！<br>2017-06-08 23:39<br>赞(1) 踩(0) | <div>严格的来说 我没谈过恋爱  根本就不知道什么叫冷清。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291454814)<br>捶打我天然的沉默，切割我...<br>2017-06-06 22:59<br>赞(1) 踩(0) | <div>高考了，想你。我不会输</div> |
@@ -1024,8 +1024,8 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338800499)<br><br>2017-12-06 18:02<br>赞(0) 踩(0) | <div>有个姐姐真的是件幸福的事。 <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302269986)<br>这个人很懒什么都没有留下...<br>2017-12-07 00:19<br>赞(0) 踩(0) | <div>我也想要一个姐姐 唉</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268641187)<br><br>2017-12-11 09:45<br>赞(0) 踩(0) | <div>好像有个姐姐.....虽然我有个妹妹 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261678038)<br><br>2017-12-16 12:54<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png">..</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19639263)<br><br>2018-01-21 01:50<br>赞(0) 踩(0) | <div>我朋友说我太丑，找不到女朋友，有女孩也不会介绍给我；我妈妈说我是捡来的，从小就抛弃我，对我弟妹特好；我爸爸说我太傻，将来不会有出息，任何事情都不会支持我；而我姑姑说我踏实勤奋，从小把我收留，节假日总会捎来祝福！我奶奶说我尊老爱幼，家里什么事情都会教会我！我说我最真实，不会玩心机，总是把这份世界上的孤独与寂寞留给自己在这夜里欣赏！</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261678038)<br><br>2017-12-16 12:54<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"><br>..</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19639263)<br><br>2018-01-21 01:50<br>赞(0) 踩(0) | <div>我朋友说我太丑，找不到女朋友，有女孩也不会介绍给我；<br>我妈妈说我是捡来的，从小就抛弃我，对我弟妹特好；<br>我爸爸说我太傻，将来不会有出息，任何事情都不会支持我；<br>而我姑姑说我踏实勤奋，从小把我收留，节假日总会捎来祝福！<br>我奶奶说我尊老爱幼，家里什么事情都会教会我！<br>我说我最真实，不会玩心机，总是把这份世界上的孤独与寂寞留给自己在这夜里欣赏！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257813273)<br><br>2018-01-28 14:09<br>赞(0) 踩(0) | <div>uju&amp;ugrave;nnm</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261993888)<br><br>2018-02-18 06:27<br>赞(0) 踩(0) | <div>？？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40794964)<br><br>2018-02-27 20:07<br>赞(0) 踩(0) | <div><q><b>王小贱。说：</b></q></div> |
@@ -1064,7 +1064,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292226188)<br><br>2017-05-12 21:01<br>赞(0) 踩(0) | <div>我有两个对我很好的姐姐哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91026696)<br>不是很有趣的人<br>2017-05-11 01:02<br>赞(1) 踩(0) | <div>每次听这首歌浮躁的心就会慢慢沉静下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53735904)<br><br>2017-05-10 10:10<br>赞(0) 踩(0) | <div>真心话，唱出了我的心里话，也想对姐姐这么说，听的泪流满面。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42146967)<br>岁月如歌 那首疯狂的歌又...<br>2017-05-08 07:33<br>赞(9) 踩(0) | <div>我喜欢的女孩子 他比我大突然我就听懂了这首歌这首歌的姐姐 貌似有三层含义1真姐姐2比你大爱人3长不大的你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42146967)<br>岁月如歌 那首疯狂的歌又...<br>2017-05-08 07:33<br>赞(9) 踩(0) | <div>我喜欢的女孩子 他比我大<br>突然我就听懂了这首歌<br>这首歌的姐姐 貌似有三层含义<br>1真姐姐<br>2比你大爱人<br>3长不大的你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276863580)<br>如果你也知道麦迪<br>2017-05-07 23:53<br>赞(6) 踩(0) | <div>我和我姐老打架 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287694337)<br> <br>2017-05-04 22:19<br>赞(1) 踩(0) | <div>感觉有个姐姐是幸福的事...可惜我没有！ <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7496106)<br><br>2017-05-03 23:07<br>赞(3) 踩(0) | <div>我是一个弟弟的姐姐，也是一个姐姐的妹妹，很有感触，高三姐姐回家时间很少，有时候特想她的时候甚至会哭。很有感触，姐我爱你。</div> |
@@ -1079,7 +1079,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16926779)<br><br>2017-04-26 11:55<br>赞(0) 踩(0) | <div>李春波，一封家书！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52708168)<br>广天一夜暖如血<br>2017-04-23 19:51<br>赞(0) 踩(0) | <div>帅弟弟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252669622)<br><br>2017-04-22 21:10<br>赞(0) 踩(0) | <div>有姐姐就是幸福</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286105599)<br><br>2017-04-22 18:06<br>赞(1) 踩(0) | <div>我也有个姐姐，但我确感觉自己是个哥哥。我们经常争执、吵架，但感情一直很好。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286105599)<br><br>2017-04-22 18:06<br>赞(1) 踩(0) | <div>我也有个姐姐，但我确感觉自己是个哥哥。<br>我们经常争执、吵架，但感情一直很好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51705890)<br>用十倍苦心，做最突出一个...<br>2017-04-21 22:30<br>赞(2) 踩(0) | <div>我的姐姐差不多成了我半个妈。每个星期都要通电话，问我好不好，为我以后着想，为我操心。谢谢你，姐姐。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195298888)<br><br>2017-05-06 06:05<br>赞(0) 踩(0) | <div>有个善良的姐姐真好！你好幸福！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40614060)<br> <br>2017-04-16 15:47<br>赞(0) 踩(0) | <div>姐姐，不必为我担心</div> |
@@ -1169,7 +1169,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199953773)<br><br>2017-02-19 22:58<br>赞(0) 踩(0) | <div>他的歌确实是很容易直击人心，触发人的情绪！理解你！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272872257)<br><br>2017-02-12 11:37<br>赞(1) 踩(0) | <div>我也有一个疼我的姐姐，要听哭了︽⊙_⊙︽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40882906)<br>fuck you<br>2017-02-11 14:30<br>赞(0) 踩(0) | <div>我竟然也会分享民谣。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163332884)<br>布说再见，期待重冯<br>2017-02-11 11:08<br>赞(23) 踩(0) | <div>了解你的人都知道，这首歌里的姐姐，其实是一位曾经帮助过你的姑娘。出第一张专辑的时候，你没有多少钱，靠着大家的帮忙才坚持下去。你念旧，那些在最落魄最困难的时候留在你生命里的人，对你无比重要。大冰曾经说，你把所有的感谢所有的关心都放在了琴弦最深处。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163332884)<br>布说再见，期待重冯<br>2017-02-11 11:08<br>赞(23) 踩(0) | <div>了解你的人都知道，这首歌里的姐姐，其实是一位曾经帮助过你的姑娘。<br>出第一张专辑的时候，你没有多少钱，靠着大家的帮忙才坚持下去。你念旧，那些在最落魄最困难的时候留在你生命里的人，对你无比重要。<br>大冰曾经说，你把所有的感谢所有的关心都放在了琴弦最深处。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199953773)<br><br>2017-02-19 23:00<br>赞(0) 踩(0) | <div>他若不是一个念旧的人，就不会有这些作品了！每个民谣歌手都有一个多情的灵魂！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272292454)<br><br>2017-02-10 09:28<br>赞(1) 踩(0) | <div>我有姐姐，我是妹妹，我听的泪如雨下，赵雷的歌好多小悲伤，在上班，眼泪却还是禁不止掉下来，情感无法抑制。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265347870)<br>你我皆凡人。<br>2017-02-10 08:12<br>赞(0) 踩(0) | <div>其实这并不是赵雷的姐姐，只是一个帮助过他的人。</div> |
@@ -1208,7 +1208,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266765720)<br>我还没想好要写什么...<br>2017-01-25 09:00<br>赞(1) 踩(0) | <div>第一句就让人湿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266858406)<br>人间有味是清欢<br>2017-01-23 22:08<br>赞(1) 踩(0) | <div>特别的声音，审美愉悦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259394494)<br><br>2017-01-23 20:26<br>赞(0) 踩(0) | <div>很不错的，1111111</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262960195)<br><br>2017-01-22 13:12<br>赞(1) 踩(0) | <div>六个姐姐的路过。嗯，都是亲姐。小时候真不觉得，越长大越能体会血浓于水的含义。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262960195)<br><br>2017-01-22 13:12<br>赞(1) 踩(0) | <div>六个姐姐的路过。嗯，都是亲姐。<br>小时候真不觉得，越长大越能体会血浓于水的含义。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9631569)<br><br>2017-01-19 23:46<br>赞(0) 踩(0) | <div>评论大多偏题了哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259999334)<br><br>2017-01-19 20:44<br>赞(16) 踩(0) | <div>我有个小我两岁的弟弟，记得我结婚前几天，弟弟从远方赶来，给我厚厚一叠钱，说，姐姐，给你的，我存了好久的……其实他也只是刚刚参加工作几个月，薪水不高，却把省下来的钱都给我了，我没要，让他自己好好留着，给未来的女朋友吧！这份姐弟感情，永远美好！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143273036)<br><br>2017-02-24 13:12<br>赞(0) 踩(0) | <div>被你们感动了</div> |
@@ -1354,7 +1354,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45664312)<br><br>2016-06-17 23:39<br>赞(0) 踩(0) | <div>她24，我20，一切安好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22726301)<br>暂无签名~<br>2016-06-12 18:59<br>赞(0) 踩(0) | <div>想姐姐了 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8409104)<br><br>2016-06-08 09:07<br>赞(0) 踩(0) | <div>姐姐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143295264)<br>我们告别两年，告别的结果...<br>2016-06-05 00:52<br>赞(0) 踩(0) | <div>最近我失去了爱情，生活一下子变得冷清~一遍又一遍的猝不及防，就像个孤独小孩，失去了爱情，也失去了世界我们告别了两年，告别的结果，总是相见2016 6月一切会好~世故和现实</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143295264)<br>我们告别两年，告别的结果...<br>2016-06-05 00:52<br>赞(0) 踩(0) | <div>最近我失去了爱情，生活一下子变得冷清~一遍又一遍的猝不及防，就像个孤独小孩，失去了爱情，也失去了世界<br>我们告别了两年，告别的结果，总是相见<br>2016 6月<br>一切会好~<br>世故和现实</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13607304)<br>专治中重度脑残<br>2016-06-13 12:59<br>赞(0) 踩(0) | <div>一切都会好的。时间能证明所有，更会消磨所有。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7935913)<br>如果然后来电击乐<br>2016-05-25 19:50<br>赞(0) 踩(0) | <div>听哭了 好想我姐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178771736)<br>这个家伙太懒，什么东西都...<br>2016-05-25 02:24<br>赞(0) 踩(0) | <div>……</div> |
@@ -1371,7 +1371,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6834988)<br><br>2016-05-17 07:22<br>赞(1) 踩(0) | <div>赵雷应该去当个画家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37896532)<br>努力活着，拼命幸福！<br>2016-05-15 23:27<br>赞(3) 踩(0) | <div>突然发现我弟长大了是有一天，老妈打电话告我说，他在家里一遍又一遍的单曲循环贾盛强的姐姐，瞬间我就泪奔了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169130274)<br>记得你说过喜欢任何东西都...<br>2016-05-15 11:29<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20960862)<br><br>2016-05-14 09:14<br>赞(7) 踩(0) | <div>没有姐姐也没有弟弟。但是这首歌戳中我的是「你已经是两个小伙子心中最美丽的母亲，在家庭的争纷之后你是先让步的贤妻」，从小姑娘长成贤妻良母，要经历多少这样的忍让。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20960862)<br><br>2016-05-14 09:14<br>赞(7) 踩(0) | <div>没有姐姐也没有弟弟。<br>但是这首歌戳中我的是「你已经是两个小伙子心中最美丽的母亲，在家庭的争纷之后你是先让步的贤妻」，从小姑娘长成贤妻良母，要经历多少这样的忍让。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168950094)<br>剽悍不求回报，迷人更无所...<br>2016-05-14 06:21<br>赞(0) 踩(0) | <div>分享给老姐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91028648)<br>世人谓我恋长安，其实只恋...<br>2016-05-13 22:43<br>赞(0) 踩(0) | <div>当姐姐还想要有个哥哥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113073138)<br>啧啧啧啧<br>2016-05-13 22:01<br>赞(0) 踩(0) | <div>姐姐谢谢你对我那么好 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -1421,7 +1421,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/144365254)<br><br>2016-04-18 10:31<br>赞(0) 踩(0) | <div>看得出你和你姐姐关系很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13652140)<br><br>2016-04-18 09:56<br>赞(0) 踩(0) | <div>❤❤❤ ❤❤❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113478422)<br>暂无签名~<br>2016-04-18 01:36<br>赞(2) 踩(0) | <div>没姐姐怎么找感觉？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2016-04-17 16:23<br>赞(4) 踩(0) | <div>我是姐姐。有两个可爱的弟弟。2016.04.17</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2016-04-17 16:23<br>赞(4) 踩(0) | <div>我是姐姐。有两个可爱的弟弟。<br>2016.04.17</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45494260)<br>我还没想好要写什么...<br>2016-04-16 23:16<br>赞(0) 踩(0) | <div>没姐姐、独生子女的悲哀……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91263546)<br>喜欢你之后我都横着走了<br>2016-04-15 23:13<br>赞(0) 踩(0) | <div>可是姐姐你不必为我担心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125648036)<br> <br>2016-04-15 19:04<br>赞(2) 踩(0) | <div>我要把这歌发给我弟弟</div> |
@@ -1518,14 +1518,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/107226946)<br><br>2016-02-17 00:49<br>赞(0) 踩(0) | <div>有个姐姐该多好。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/107226946)<br><br>2016-02-17 00:34<br>赞(0) 踩(0) | <div>有个姐姐该多好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32194336)<br>明天<br>2016-02-16 13:32<br>赞(0) 踩(0) | <div>@墨竹</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6098965)<br> <br>2016-02-15 13:33<br>赞(1) 踩(0) | <div>好久没听到这么合心意的歌曲了傻傻一笑 说一切会好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6098965)<br> <br>2016-02-15 13:33<br>赞(1) 踩(0) | <div>好久没听到这么合心意的歌曲了<br>傻傻一笑 说一切会好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35160985)<br><br>2016-02-14 03:53<br>赞(0) 踩(0) | <div>最近我失去了爱情，生活一下子变得冷清</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2761368)<br> <br>2016-02-13 22:06<br>赞(0) 踩(0) | <div>没有亲姐姐，竟然听哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6098965)<br> <br>2016-02-13 20:52<br>赞(0) 踩(0) | <div>虾米自动推荐 真不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43387957)<br><br>2016-02-13 15:29<br>赞(0) 踩(0) | <div>听出悲哀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91658068)<br><br>2016-02-13 15:17<br>赞(0) 踩(0) | <div>我也有个好姐姐，感觉很幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322405)<br> <br>2016-02-13 08:47<br>赞(0) 踩(0) | <div>走了。最后一天也是失眠到了天亮，心事越来越多。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47900505)<br>Wine Woman a...<br>2016-02-11 09:42<br>赞(0) 踩(0) | <div>姐姐我这边一切 总的来说还算如意你应该很了解 我就是一个孩子的脾气</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47900505)<br>Wine Woman a...<br>2016-02-11 09:42<br>赞(0) 踩(0) | <div>姐姐我这边一切 总的来说还算如意<br><br>你应该很了解 我就是一个孩子的脾气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1315688)<br>怀念这个地方显示着的家乡<br>2016-02-10 10:18<br>赞(0) 踩(0) | <div>一直反反复复听这首歌，心情酸酸苏苏；后来，很偶然看见大冰写的故事里提到了雷子没想到就是赵雷，只言片语有讲到这首歌，莫名补起故事来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111944116)<br> <br>2016-02-09 11:51<br>赞(0) 踩(0) | <div>很喜欢这首深情的歌啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48903946)<br>你，如此吸引人。<br>2016-02-08 20:48<br>赞(0) 踩(0) | <div>[ 听歌随感 ] （满是怀旧，絮叨，温情却酸涩，眼泪在心里打转，歌者，我能看见你闪亮真诚的眼睛）</div> |
@@ -1551,7 +1551,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87770444)<br> <br>2016-01-29 16:04<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40859966)<br> <br>2016-02-06 00:47<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11566648)<br><br>2016-01-24 22:46<br>赞(0) 踩(0) | <div>一切会好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36368740)<br><br>2016-01-24 22:40<br>赞(0) 踩(0) | <div>‘l am taking trouble with you',she said, 'because you are worth trouble.'姐姐如是说……背考纲到worth的脑洞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36368740)<br><br>2016-01-24 22:40<br>赞(0) 踩(0) | <div>‘l am taking trouble with you',she said, 'because you are worth trouble.'<br><br>姐姐如是说<br><br>……背考纲到worth的脑洞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52331340)<br>我还没想好要写什么<br>2016-01-21 11:49<br>赞(0) 踩(0) | <div>姐姐，我是你弟弟，我会对你好哒 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32536879)<br><br>2016-01-21 03:55<br>赞(0) 踩(0) | <div>热评第一2014。6.21……原来虾米可以评论竟这么早，比其他的都早吧，可惜现在</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41653198)<br>暂无签名~<br>2016-01-20 23:41<br>赞(1) 踩(0) | <div>从大一到现在听了无数次唱了无数次 希望老天保佑我的姐姐一切都好</div> |
@@ -1606,7 +1606,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8648315)<br>暂无签名~<br>2015-12-29 10:49<br>赞(1) 踩(0) | <div>我也有个姐姐 <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85980540)<br> <br>2015-12-28 23:45<br>赞(0) 踩(0) | <div>孩子脾气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92426546)<br>晓世界，我喜欢，yan.<br>2015-12-28 23:34<br>赞(0) 踩(0) | <div>一切会好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92426546)<br>晓世界，我喜欢，yan.<br>2015-12-28 23:33<br>赞(11) 踩(0) | <div>我是姐姐我有个弟弟我们不在一个城市现在我已经嫁为人妻挺牵挂他希望有个好女孩儿爱他 照顾他<img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92426546)<br>晓世界，我喜欢，yan.<br>2015-12-28 23:33<br>赞(11) 踩(0) | <div>我是姐姐<br>我有个弟弟<br>我们不在一个城市<br>现在<br>我已经嫁为人妻<br>挺牵挂他<br>希望有个好女孩儿<br>爱他 照顾他<br><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51611711)<br> <br>2015-12-28 20:21<br>赞(0) 踩(0) | <div>回家倒计时20天。想到这些我激动地呼吸都不畅了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44441581)<br>路漫漫其修远兮！<br>2015-12-28 19:45<br>赞(0) 踩(0) | <div>99999</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306934)<br> <br>2015-12-27 16:48<br>赞(0) 踩(0) | <div>为了999 在这出一份力</div> |
@@ -1738,7 +1738,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24086831)<br> <br>2015-11-08 17:18<br>赞(4) 踩(0) | <div>i两年前在北京的雾霾里听着歌儿，一遍遍单曲循环，现在在莫斯科地铁里听着歌儿，满满都是怀念的味道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8608795)<br><br>2015-11-08 11:57<br>赞(0) 踩(0) | <div>旋律推荐：民谣中的姐姐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13108574)<br> <br>2015-11-08 09:19<br>赞(0) 踩(0) | <div>听着想哭 尤其是想到长大以后 姐姐结婚以后。愿她幸福</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58513452)<br><br>2015-11-07 13:28<br>赞(1) 踩(0) | <div>5015.11.07，马頔，津湾广场。然而我过不去。好想去看《山河故人》关于这类音乐，喜欢的自然会喜欢，不喜欢的不必强求</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58513452)<br><br>2015-11-07 13:28<br>赞(1) 踩(0) | <div>5015.11.07，马頔，津湾广场。然而我过不去。<br>好想去看《山河故人》<br>关于这类音乐，喜欢的自然会喜欢，不喜欢的不必强求</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61578984)<br><br>2015-11-06 19:13<br>赞(3) 踩(0) | <div>在餐厅吃饭 第一次听 差点哭出来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51884563)<br>做有行动力的理想主义者<br>2015-11-04 22:26<br>赞(2) 踩(0) | <div>非常喜欢的一首歌，赵雷是的好孩子，很真实，。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50206154)<br>好好听歌<br>2015-11-03 10:49<br>赞(0) 踩(0) | <div>我也想要个姐姐</div> |
@@ -1965,7 +1965,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4133379)<br>不说话还以为你是个好人<br>2015-07-13 08:04<br>赞(0) 踩(0) | <div>恰有一姐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29432591)<br> <br>2015-07-13 03:36<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15455381)<br><br>2015-07-09 20:09<br>赞(0) 踩(0) | <div>大姐 一切会好 一切会好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40620541)<br>我未曾在孤独中度过的每一...<br>2015-07-09 18:50<br>赞(3) 踩(0) | <div>我一直想要个姐姐。结果有个妹妹，真让人讨厌。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40620541)<br>我未曾在孤独中度过的每一...<br>2015-07-09 18:50<br>赞(3) 踩(0) | <div>我一直想要个姐姐。<br>结果有个妹妹，真让人讨厌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2757013)<br>fighting，开始新...<br>2015-07-08 22:35<br>赞(0) 踩(0) | <div>一切会好，晚安～#每天一首民谣#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52272869)<br>远离喧嚣的地方会更接近更...<br>2015-07-08 10:47<br>赞(0) 踩(0) | <div>dilidilidilidododo</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50899922)<br>好好听歌，看着我的眼睛<br>2015-07-08 10:39<br>赞(2) 踩(0) | <div>大冰的书里写了这个故事，赵雷的姐姐在外国，而他想念她就写了这首歌</div> |
@@ -1988,7 +1988,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13803343)<br><br>2015-06-28 20:34<br>赞(1) 踩(0) | <div>心烦的时候特别喜欢听这首歌 说一切会好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13803343)<br><br>2015-06-28 20:33<br>赞(0) 踩(0) | <div>心烦的时候特别喜欢这首歌 说一切会好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13803343)<br><br>2015-06-28 20:32<br>赞(0) 踩(0) | <div>心烦的时候特别喜欢这首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40113836)<br>反正也没什么意义<br>2015-06-27 01:34<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png">唉。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40113836)<br>反正也没什么意义<br>2015-06-27 01:34<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"><br><br>唉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51773421)<br><br>2015-06-26 18:43<br>赞(0) 踩(0) | <div>姐姐，，，，，好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50663666)<br><br>2015-06-26 12:19<br>赞(2) 踩(0) | <div>真是喜欢赵雷的词。喜欢这种叙事的歌，喜欢这么朴实的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49858237)<br><br>2015-06-25 23:50<br>赞(0) 踩(0) | <div>我有3个姐姐，骄傲</div> |
@@ -2100,7 +2100,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40895872)<br><br>2015-04-17 15:19<br>赞(2) 踩(0) | <div>我可以说我听哭了么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12764784)<br>我行我素<br>2015-04-17 12:36<br>赞(0) 踩(0) | <div>民谣，摇梦里去…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12764784)<br>我行我素<br>2015-04-17 12:35<br>赞(0) 踩(0) | <div>民谣，摇梦里去…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47775040)<br>暂无签名~<br>2015-04-16 11:52<br>赞(2) 踩(0) | <div>对于我姐姐的回忆永远只停留在了2000年。那一年，，我7岁。听到这首歌的时候非常感动，我的姐姐永远都在我心中。愿她在天堂也过的好！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47775040)<br>暂无签名~<br>2015-04-16 11:52<br>赞(2) 踩(0) | <div>对于我姐姐的回忆永远只停留在了2000年。那一年，，我7岁。<br>听到这首歌的时候非常感动，我的姐姐永远都在我心中。愿她在天堂也过的好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36550190)<br>地球是圆的 就像个卵子<br>2015-04-16 11:07<br>赞(0) 踩(0) | <div>二十一世纪版《一封家书》.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44952663)<br><br>2015-04-14 22:49<br>赞(1) 踩(0) | <div>路过主楼旁边的小花园 听没有主唱的乐队唱了半小时的民谣 有点棒 青旅和花裙子的气息 满足</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40774025)<br>听听音乐，听听自己，你还...<br>2015-04-16 20:49<br>赞(0) 踩(0) | <div>不错，这种感觉很好、很美！</div> |
@@ -2113,7 +2113,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45512614)<br><br>2015-04-11 08:09<br>赞(0) 踩(0) | <div>清早醒屌丝赵雷给了我满分能量 出发！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9870351)<br><br>2015-04-10 09:29<br>赞(0) 踩(0) | <div>大冰写下他们在拉萨的故事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43884641)<br><br>2015-04-09 17:03<br>赞(0) 踩(0) | <div>一切会好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4219163)<br>做一只微笑的鱼<br>2015-04-07 23:16<br>赞(0) 踩(0) | <div>姐姐我这边的一切总的来说还算如意你应该很了解我就是个孩子的脾气最近我失去了爱情生活一下子变得冷清可是姐姐你不必为我担心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4219163)<br>做一只微笑的鱼<br>2015-04-07 23:16<br>赞(0) 踩(0) | <div>姐姐我这边的一切总的来说还算如意<br><br>你应该很了解我就是个孩子的脾气<br><br>最近我失去了爱情<br><br>生活一下子变得冷清<br><br>可是姐姐你不必为我担心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18879296)<br> <br>2015-04-05 10:33<br>赞(0) 踩(0) | <div>姐姐若能看到我这边的月亮该多好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6940133)<br>Believe in M<br>2015-04-05 01:52<br>赞(1) 踩(0) | <div>从小就想着有个能一起陪伴长大的姐姐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6494876)<br><br>2015-04-01 21:30<br>赞(0) 踩(0) | <div>愿你每天都比昨天开心一点… 戳到</div> |
@@ -2342,7 +2342,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11422935)<br>与其相濡以沫，不如相忘于...<br>2014-07-24 21:08<br>赞(0) 踩(0) | <div>雷子这首《未给姐姐递出的信》，感觉像是给张楚《姐姐》致敬，都是表达对姐姐的思念和对命运的无奈，将所有的不幸全都通过姐姐的经历流露出，但是张楚的声音更有摇滚的西北风。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2253928)<br><br>2014-07-24 11:06<br>赞(0) 踩(0) | <div>第一遍就听哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5003079)<br>~~~<br>2014-07-23 22:34<br>赞(0) 踩(0) | <div>给亲爱的姐姐，祝姐姐幸福！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1507585)<br>我还没想好要写什么...<br>2014-07-23 10:05<br>赞(2) 踩(0) | <div>听哭了。因为有弟弟，从小就有彪悍的性格。弟弟被欺负，我第一个冲上去，只要他说走累了，我就背着他走（他可能都不记得了）。当然，偶尔也会欺负他。这样好的感情一直维持到他读大学。之后几年也不知是什么原因，我们充满火药味，再也没法像以前那样谈心，聊音乐、电影、书。这几年他工作了，一年也就回一两次家，一回来他不是跟他朋友聚会就是上网，我们之间的谈话更是少之又少，他也再没主动打电话给我。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1507585)<br>我还没想好要写什么...<br>2014-07-23 10:05<br>赞(2) 踩(0) | <div>听哭了。<br>因为有弟弟，从小就有彪悍的性格。弟弟被欺负，我第一个冲上去，只要他说走累了，我就背着他走（他可能都不记得了）。当然，偶尔也会欺负他。这样好的感情一直维持到他读大学。之后几年也不知是什么原因，我们充满火药味，再也没法像以前那样谈心，聊音乐、电影、书。这几年他工作了，一年也就回一两次家，一回来他不是跟他朋友聚会就是上网，我们之间的谈话更是少之又少，他也再没主动打电话给我。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35098499)<br><br>2014-08-24 14:34<br>赞(0) 踩(0) | <div>可能，可惜。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31060950)<br>一万年太久，只争朝夕。<br>2014-10-07 09:45<br>赞(0) 踩(0) | <div>时间总是不经意的带走一些什么</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3398995)<br> <br>2014-11-23 19:09<br>赞(0) 踩(0) | <div>前半段都感觉你是我姐，真心的，我姐姐也是和你很相似</div> |
@@ -2353,7 +2353,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/904393)<br>暂无签名~<br>2014-07-11 08:33<br>赞(0) 踩(0) | <div>不同时代，不同节奏，不同姐姐，让我想起张楚，想起那个姐姐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5115852)<br><br>2014-07-09 14:52<br>赞(0) 踩(0) | <div>我就住在月亮笑容下边的小街道，我的邻里清早起床总是会大喊大叫，每当不高兴的时候就出去晒一晒太阳，我这边每到黄昏的时候就开始刮起风了，但那些放学不回家的孩子正玩得热闹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/829939)<br><br>2014-07-07 15:13<br>赞(0) 踩(0) | <div>好歌，好动人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16034404)<br>灰色的世界，彩色的音乐~<br>2014-07-06 13:17<br>赞(482) 踩(0) | <div>额…… 你们说着你们的姐姐是一辈子对你们好的人。。。而我~ 是个哥哥，我有个妹妹~我没有一辈子对我好的姐姐，BUT，我有一个让我疼一辈子的好妹妹~~也许她以后会把歌里边的姐姐改成哥哥也说不定呢~ 哈哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16034404)<br>灰色的世界，彩色的音乐~<br>2014-07-06 13:17<br>赞(482) 踩(0) | <div>额…… 你们说着你们的姐姐是一辈子对你们好的人。。。<br>而我~ 是个哥哥，我有个妹妹~<br><br>我没有一辈子对我好的姐姐，BUT，我有一个让我疼一辈子的好妹妹~~<br><br>也许她以后会把歌里边的姐姐改成哥哥也说不定呢~ 哈哈</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235710)<br>拥有妳最幸福。<br>2015-01-22 01:29<br>赞(0) 踩(0) | <div>哎呀，我要给我闺女生弟弟。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50457449)<br><br>2015-06-05 23:42<br>赞(0) 踩(0) | <div>了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52130729)<br><br>2015-07-07 21:55<br>赞(0) 踩(0) | <div>是哦 真好</div> |
@@ -2363,7 +2363,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330163272)<br><br>2017-11-30 15:44<br>赞(0) 踩(0) | <div>肯定</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49973442)<br>无名之辈<br>2018-09-05 22:19<br>赞(0) 踩(0) | <div>可爱的哥哥</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346333122)<br><br>2019-02-04 06:29<br>赞(0) 踩(0) | <div>我也有妹妹，比我小九岁</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16034404)<br>灰色的世界，彩色的音乐~<br>2014-07-06 09:07<br>赞(0) 踩(0) | <div>真好听~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16034404)<br>灰色的世界，彩色的音乐~<br>2014-07-06 09:07<br>赞(0) 踩(0) | <div>真好听<br>~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20852936)<br> <br>2014-07-06 08:24<br>赞(0) 踩(0) | <div>好像看了一部电视剧而不是一本长篇小说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1654507)<br> <br>2014-07-03 13:08<br>赞(0) 踩(0) | <div>我弟只会给我找麻烦。哎。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7569338)<br><br>2014-06-30 08:40<br>赞(0) 踩(0) | <div>很快就见到姐姐了 么么哒</div> |
@@ -2438,7 +2438,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14536403)<br><br>2014-04-24 15:19<br>赞(0) 踩(0) | <div>姐姐若能看到我这边的月亮该多好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34746160)<br><br>2014-04-23 23:51<br>赞(0) 踩(0) | <div>单曲重复</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35698954)<br><br>2014-04-23 20:34<br>赞(0) 踩(0) | <div>我其实已经没救了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6302641)<br>热爱音乐，热爱生活<br>2014-04-20 15:20<br>赞(0) 踩(0) | <div>滴滴滴滴滴，滴滴滴滴滴......词总是写的那么好一切会好！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6302641)<br>热爱音乐，热爱生活<br>2014-04-20 15:20<br>赞(0) 踩(0) | <div>滴滴滴滴滴，滴滴滴滴滴......<br>词总是写的那么好<br>一切会好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31493837)<br><br>2014-04-15 23:37<br>赞(0) 踩(0) | <div>好听！平淡质朴真情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3962835)<br>Once.<br>2014-04-15 10:53<br>赞(0) 踩(0) | <div>感到疲惫的时候去海边静一静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11924739)<br>更好的世界！<br>2014-04-15 09:24<br>赞(0) 踩(0) | <div>好听，感动…</div> |
@@ -2471,7 +2471,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73825)<br><br>2014-03-06 00:00<br>赞(0) 踩(0) | <div>想起了海子在诗歌《日记》里写的姐姐，“今夜我只有美丽的戈壁空空/姐姐，今夜我不关心人类，我只想你”。晚安，一切带着努力，爱和梦想走在路上的你们。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15303273)<br>遥情之羽箭<br>2014-06-24 12:21<br>赞(0) 踩(0) | <div>我也想到了这个</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25805038)<br>暂无签名~<br>2014-03-04 15:09<br>赞(0) 踩(0) | <div>姐姐应该很了解我，就是个孩子的脾气。（像我这种没有姐姐的孩子不怎么好呢）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/630760)<br>感谢11年来的陪伴，我爱...<br>2014-03-04 09:37<br>赞(0) 踩(0) | <div>一切会好一切会好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/630760)<br>感谢11年来的陪伴，我爱...<br>2014-03-04 09:37<br>赞(0) 踩(0) | <div>一切会好<br>一切会好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17015504)<br><br>2014-02-28 17:02<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1529410)<br>隐于市<br>2014-02-26 20:29<br>赞(0) 踩(0) | <div>我有一个弟弟，一个善良有爱的弟弟。即使如今不常见面，也没有关系。我们有比血更浓的爱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33216147)<br><br>2014-02-24 23:55<br>赞(0) 踩(0) | <div>好喜欢这声音</div> |

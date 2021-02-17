@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3f37c28b9b5ded7e0375783fd66f6943.png)<br>海猫](https://i.xiami.com/qingan) | **播放数**: 1066308<br>**粉丝数**: 290<br>**评论数**: 13<br>**地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 新世纪音乐 New Age, 键盘音乐 Keyboard, 独奏 Recital<br> |
+| [![](../../images/musicians/3f37c28b9b5ded7e0375783fd66f6943.png)<br>海猫](https://i.xiami.com/qingan) | **地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 新世纪音乐 New Age, 键盘音乐 Keyboard, 独奏 Recital<br>**播放数**: 1066308<br>**粉丝数**: 290<br>**评论数**: 13<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3583995)<br>一個人的戰爭<br>2020-06-28 22:41<br>赞(1) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434152246)<br>聪明少一些大智慧多一些，...<br>2020-02-05 06:59<br>赞(1) 踩(0) | <div><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173276890)<br> <br>2020-01-08 22:37<br>赞(1) 踩(0) | <div>还会有新专辑吗</div> |

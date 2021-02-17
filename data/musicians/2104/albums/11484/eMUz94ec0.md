@@ -43,9 +43,9 @@ Friend~<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251265803)<br>一切有为法，如梦幻泡影。<br>2019-12-27 20:24<br>赞(0) 踩(0) | <div>远远的白云依旧无言像我心里感觉还有增无减</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251265803)<br>一切有为法，如梦幻泡影。<br>2019-12-27 20:24<br>赞(0) 踩(0) | <div>远远的<br>白云依旧无言<br><br>像我心里感觉<br>还有增无减</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2869963)<br>暂无签名~<br>2018-12-24 10:22<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355850827)<br>@xxxkeetit<br>2018-09-28 03:13<br>赞(1) 踩(0) | <div>看到你三天没有听歌了，我很慌，不知道你怎么了，刚醒发现你又开始听了，真好.你应该这辈子都看不见这条评论了吧. 加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355850827)<br>@xxxkeetit<br>2018-09-28 03:09<br>赞(1) 踩(0) | <div>nyu，顺子没有你唱的好听，你唱的这首我手机里一直都有. 可是有时候我真的有些不敢听，但是每次听你的这首歌我都觉得是我离你最近的时候，又或者是最远的时候，我知道我不该打扰的了，我错得太多了，我伤害你太多了，我不该打乱你生活了. 怎么办啊，我真的好想你，希望你安好，衷心.</div> |
@@ -56,9 +56,9 @@ Friend~<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222508873)<br>我是射手座，偏天蝎的那种...<br>2018-07-25 23:36<br>赞(0) 踩(0) | <div>回忆里有好朋友，如这首歌一样，温暖舒服 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347297112)<br><br>2018-07-16 21:33<br>赞(1) 踩(0) | <div>张学友 ，沉默的眼睛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10079623)<br>不好意思 我也是第一次做...<br>2018-06-29 22:55<br>赞(0) 踩(0) | <div>类似阿桑的声音听着静心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375565661)<br><br>2018-06-21 20:48<br>赞(3) 踩(0) | <div>有些人，一旦错过就不在。有些人，即使相遇也是有缘无分。然而，这十年他一直在我身旁，今年我才发现，可是花非花雾非雾，只有对过去满满的回忆以及对未来的无能为力。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375565661)<br><br>2018-06-21 20:48<br>赞(3) 踩(0) | <div>有些人，一旦错过就不在。<br>有些人，即使相遇也是有缘无分。<br>然而，这十年他一直在我身旁，<br>今年我才发现，可是花非花雾非雾，<br>只有对过去满满的回忆以及对未来的无能为力。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72232694)<br>活在当下…珍惜爱你的和你...<br>2017-12-18 15:11<br>赞(6) 踩(0) | <div>珍惜当下，珍惜你爱的人更要珍惜爱你的人。因为错过了就不会有了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242169803)<br>向来缘浅，奈何情深！<br>2017-12-13 01:31<br>赞(2) 踩(0) | <div>qw我对你的想念此刻特别强烈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242169803)<br>向来缘浅，奈何情深！<br>2017-12-13 01:31<br>赞(2) 踩(0) | <div>qw<br>我对你的想念<br>此刻特别强烈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284280028)<br>你也仅仅只有出现在我梦里...<br>2017-12-11 19:47<br>赞(4) 踩(0) | <div>昨晚跟她吵架了，我没有回去，一个人开这车去了那年夏天我们在那儿说过誓言憧憬过未来的河岸，一个人在车上抽烟，一夜没睡。等到天际泛白，她发来讯息，我们就这样分了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8213300)<br><br>2018-08-26 07:59<br>赞(0) 踩(0) | <div>不知道应该说什么，别因为一时赌气而失掉原本的幸福。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125520128)<br><br>2017-12-06 20:51<br>赞(3) 踩(0) | <div>厚重的想念吟唱在每一句中，却不是那种烂俗的煽情，恰到好处回味无穷</div> |
@@ -96,7 +96,7 @@ Friend~<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11728603)<br>心诚则灵<br>2013-11-30 17:48<br>赞(0) 踩(0) | <div>原来练了好久  唱不出那种颤音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21820712)<br><br>2013-10-24 08:59<br>赞(0) 踩(0) | <div>……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23218180)<br><br>2013-09-30 08:24<br>赞(0) 踩(0) | <div>致我的朋友</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4091593)<br>似是故人<br>2013-09-23 16:45<br>赞(0) 踩(0) | <div>我对你的想念此刻特别强烈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4091593)<br>似是故人<br>2013-09-23 16:45<br>赞(0) 踩(0) | <div>我对你的想念<br>此刻特别强烈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11331090)<br><br>2013-09-22 17:20<br>赞(0) 踩(0) | <div>很是应景...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10908165)<br>长出新光环  给你<br>2013-09-22 00:00<br>赞(0) 踩(0) | <div>才一年 看着世事变迁 有种沧海桑田</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11949179)<br>music never<br>2013-09-21 22:35<br>赞(0) 踩(0) | <div>我们之间隔着一层我们看不到的隔阂。越来越远。越来越远。远到只能说保重。</div> |
@@ -115,7 +115,7 @@ Friend~<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11216754)<br>®<br>2013-02-20 00:58<br>赞(0) 踩(0) | <div>-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11216754)<br>®<br>2013-02-20 00:41<br>赞(0) 踩(0) | <div>-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3973829)<br><br>2013-02-17 20:18<br>赞(0) 踩(0) | <div>许多没有听顺子的歌，淡淡的。。轻轻的。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/605952)<br><br>2013-01-06 22:26<br>赞(0) 踩(0) | <div>中文版有不少，最出名的还是顺子的版本顺子—《Dear friend》；武曼—《Dear friend》；张炜—《Dear friend》；冯杰—《Dear friend》；陈刚毅—《Dear friend》；刘颖—《Dear friend》；张学友—《沉默的眼睛》（粤语）；张学友—《沉默的眼睛》（国语）；（注：《沉默的眼睛》国语和粤语歌词不一样）罗敏庄—《沉默的眼睛》（粤语）李跃君—《沉默的眼睛》（国语）陈百强—《细想》（粤语）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/605952)<br><br>2013-01-06 22:26<br>赞(0) 踩(0) | <div>中文版有不少，最出名的还是顺子的版本<br><br>顺子—《Dear friend》；<br><br>武曼—《Dear friend》；<br>张炜—《Dear friend》；<br>冯杰—《Dear friend》；<br>陈刚毅—《Dear friend》；<br>刘颖—《Dear friend》；<br><br>张学友—《沉默的眼睛》（粤语）；<br>张学友—《沉默的眼睛》（国语）；<br>（注：《沉默的眼睛》国语和粤语歌词不一样）<br>罗敏庄—《沉默的眼睛》（粤语）<br>李跃君—《沉默的眼睛》（国语）<br><br>陈百强—《细想》（粤语）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/605952)<br><br>2013-01-06 22:23<br>赞(0) 踩(0) | <div>作曲是玉置浩二，姚谦只是中文歌词作者。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12167935)<br><br>2012-12-29 23:46<br>赞(0) 踩(0) | <div>夜深人静，顺子的声音很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8023846)<br>暂无签名~<br>2012-12-18 00:46<br>赞(0) 踩(0) | <div>转眼又是冬天。</div> |
@@ -126,7 +126,7 @@ Friend~<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9842249)<br><br>2012-11-05 03:29<br>赞(0) 踩(0) | <div>安安静静，很适合这个季节听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2215780)<br>我还没想好要写什么...<br>2012-11-04 16:29<br>赞(0) 踩(0) | <div>不想过冬天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2215780)<br>我还没想好要写什么...<br>2012-11-04 16:29<br>赞(0) 踩(0) | <div>不想过冬天</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11001540)<br><br>2012-10-31 21:52<br>赞(0) 踩(0) | <div>Friend 我对你的想念 此刻特别强烈 我们如此遥远 这么多年...Dear Friend -  顺子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11001540)<br><br>2012-10-31 21:52<br>赞(0) 踩(0) | <div>Friend 我对你的想念 此刻特别强烈 我们如此遥远 这么多年...<br>Dear Friend -  顺子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5472410)<br><br>2012-10-31 19:47<br>赞(0) 踩(0) | <div>跟去年说再见，转眼又是冬天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6755808)<br><br>2012-10-27 09:58<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8741599)<br> <br>2012-10-22 16:26<br>赞(0) 踩(0) | <div>@坚强的阿哩  @甜甜甜圈王大呆已经不喜欢了</div> |
@@ -146,25 +146,25 @@ Friend~<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2174863)<br>无想<br>2012-07-25 09:04<br>赞(0) 踩(0) | <div>米娜，多久没有和我联系了呢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5529540)<br><br>2012-07-18 09:36<br>赞(0) 踩(0) | <div>如果说我们依然相恋，说不定在眼前是另外情节。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9688030)<br><br>2012-07-04 16:01<br>赞(0) 踩(0) | <div>dearfriend</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4876423)<br><br>2012-06-25 12:41<br>赞(0) 踩(0) | <div>才一年看着世界变迁有种沧海桑田无常的感觉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4876423)<br><br>2012-06-25 12:41<br>赞(0) 踩(0) | <div>才一年看着世界变迁<br>有种沧海桑田无常的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9496009)<br><br>2012-06-18 23:35<br>赞(0) 踩(0) | <div>晚安mydearfriends</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1501985)<br>我还没想好要写什么...<br>2012-06-09 01:23<br>赞(0) 踩(0) | <div>翻唱玉置浩二的翻得太好啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4315006)<br>心裡住了只野獸<br>2012-06-06 11:04<br>赞(0) 踩(0) | <div>特别特别喜欢她声音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2421632)<br><br>2012-06-04 09:05<br>赞(0) 踩(0) | <div>oh~Friend我对你的想念此刻特别强烈我们如此遥远朋友孩子的脸说着生命喜悦如果说我们依然相恋说不定在眼前是另外情节</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2421632)<br><br>2012-06-04 09:05<br>赞(0) 踩(0) | <div>oh~Friend<br>我对你的想念<br>此刻特别强烈<br>我们如此遥远<br>朋友孩子的脸说着生命喜悦<br>如果说我们依然相恋<br>说不定在眼前是另外情节</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8364267)<br><br>2012-06-01 23:59<br>赞(0) 踩(0) | <div>@小约翰强</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7481702)<br><br>2012-05-23 23:35<br>赞(0) 踩(0) | <div>才一年世界变迁，有种沧海桑田无常的感觉…oh friend…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3669839)<br>1<br>2012-05-22 22:31<br>赞(0) 踩(0) | <div>跟夏天才告别，转眼满地落叶。远远的，白云依旧无言。跟去年说再见，转眼又是冬天。看这世界变迁，有种沧海桑田，无常的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5492124)<br><br>2012-04-24 07:46<br>赞(0) 踩(0) | <div>净化一下</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2226751)<br><br>2012-04-22 17:39<br>赞(0) 踩(0) | <div>oh~Friend我对你的想念此刻特别强烈我们如此遥远朋友孩子的脸说着生命喜悦如果说我们依然相恋说不定在眼前是另外情节</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2226751)<br><br>2012-04-22 17:39<br>赞(0) 踩(0) | <div>oh~Friend<br>我对你的想念<br>此刻特别强烈<br>我们如此遥远<br>朋友孩子的脸说着生命喜悦<br>如果说我们依然相恋<br>说不定在眼前是另外情节</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1215782)<br><br>2012-04-18 15:20<br>赞(0) 踩(0) | <div>歌是有回憶的120：不是機緣巧合看到一個電視節目都記不起有段時間很喜歡這首歌. 很想要感動的感覺其實不用花太多心思, 簡簡單單的旋律已經可以很「入局」.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6741243)<br><br>2012-04-17 23:25<br>赞(0) 踩(0) | <div>晚安鸟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6181821)<br><br>2012-04-16 01:20<br>赞(0) 踩(0) | <div>a</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4374161)<br><br>2012-04-04 22:50<br>赞(0) 踩(0) | <div>小小伤感和怀念</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5565635)<br><br>2012-03-18 14:09<br>赞(0) 踩(0) | <div>跟夏天才告别转眼满地落叶远远的白云依旧无言像我心里感觉还有增无减跟去年说再见转眼又是冬天才一年看着世界变迁有种沧海桑田无常的感觉oh~Friend我对你的想念此刻特别强烈我们如此遥远朋友孩子的脸说着生命喜悦如果说我们依然相恋说不定在眼前是另外情节oh~Friend我对你的想念</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5565635)<br><br>2012-03-18 14:09<br>赞(0) 踩(0) | <div>跟夏天才告别转眼满地落叶<br>远远的白云依旧无言<br>像我心里感觉还有增无减<br>跟去年说再见转眼又是冬天<br>才一年看着世界变迁<br>有种沧海桑田无常的感觉<br>oh~Friend<br>我对你的想念<br>此刻特别强烈<br>我们如此遥远<br>朋友孩子的脸说着生命喜悦<br>如果说我们依然相恋<br>说不定在眼前是另外情节<br>oh~Friend<br>我对你的想念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3669839)<br>1<br>2012-03-18 12:57<br>赞(0) 踩(0) | <div>看着世界变迁，有种沧海桑田无常的感觉。如果说我们依然相恋，说不定在眼前是另外情节。我们如此遥远。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2626270)<br><br>2012-03-17 12:44<br>赞(0) 踩(0) | <div>送给不在身边的朋友们吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3279255)<br>暂无签名~<br>2012-03-05 23:43<br>赞(0) 踩(0) | <div>#奈何的音乐杂志.此曲挚爱#每个人心中或许都有一个牵肠挂肚，却无法亲近的人吧。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2116318)<br><br>2012-02-29 17:40<br>赞(0) 踩(0) | <div>oh~Friend我对你的想念此刻特别强烈我们如此遥远</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2116318)<br><br>2012-02-29 17:40<br>赞(0) 踩(0) | <div>oh~Friend<br>我对你的想念<br>此刻特别强烈<br>我们如此遥远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3446437)<br><br>2012-02-23 09:56<br>赞(0) 踩(0) | <div>：（</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2813919)<br>我还没想好要写什么...<br>2012-02-09 13:29<br>赞(0) 踩(0) | <div>我愛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3357606)<br><br>2012-01-05 09:06<br>赞(0) 踩(0) | <div>让我想起了过去的日子。是的，对你们的想念如此强烈。</div> |
@@ -175,7 +175,7 @@ Friend~<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6514098)<br> <br>2011-11-09 21:36<br>赞(0) 踩(0) | <div>浮躁地看着各种陌生的符号在眼前挑衅，随机播放着MP3里的歌，突然听到顺子的《Dear Friend》，突然心就变得特别纯净，再也舍不得放下一首。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4802560)<br><br>2011-11-05 12:22<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5577987)<br><br>2011-11-04 21:50<br>赞(0) 踩(0) | <div>每次触到夏天就觉得很温暖,特别强烈的想念</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6597222)<br><br>2011-11-04 19:27<br>赞(0) 踩(0) | <div>跟夏天才告别转眼满地落叶,远远的白云依旧无言,像我心里感觉还有增无减跟去年说再见转眼又是冬天,才一年看着世界变迁,有种沧海桑田无常的感觉我对你的想念,此刻特别强烈我们如此遥远,朋友孩子的脸说着生命喜悦如果说我们依然相恋,说不定在眼前是另外情节</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6597222)<br><br>2011-11-04 19:27<br>赞(0) 踩(0) | <div>跟夏天才告别转眼满地落叶,远远的白云依旧无言,像我心里感觉还有增无减<br>跟去年说再见转眼又是冬天,才一年看着世界变迁,有种沧海桑田无常的感觉<br>我对你的想念,此刻特别强烈我们如此遥远,朋友孩子的脸说着生命喜悦<br>如果说我们依然相恋,说不定在眼前是另外情节</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4372409)<br><br>2011-11-04 12:57<br>赞(0) 踩(0) | <div>once heard it, knocked down immediately by melancholy and nostalgia. Dear friends, missing you~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/498438)<br><br>2011-11-03 11:42<br>赞(0) 踩(0) | <div>才一年看着世界变迁 有种沧海桑田无常的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5949203)<br><br>2011-10-21 23:26<br>赞(0) 踩(0) | <div>好久好久没有听的歌了</div> |
@@ -187,7 +187,7 @@ Friend~<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4794970)<br><br>2011-07-12 13:16<br>赞(0) 踩(0) | <div>如果说我们依然相恋，说不定在眼前是另外情节。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1216655)<br>暂无签名~<br>2011-07-04 22:31<br>赞(0) 踩(0) | <div>淡淡的味道！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1185857)<br><br>2011-06-24 21:11<br>赞(0) 踩(0) | <div>这是我一直喜欢的一首歌，每隔一段时间就忍不住听一听。dear friend，by 顺子</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/885637)<br><br>2011-06-15 23:03<br>赞(0) 踩(0) | <div>很舒服的一首歌 适合晚上顺子-Dear Friend</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/885637)<br><br>2011-06-15 23:03<br>赞(0) 踩(0) | <div>很舒服的一首歌 适合晚上<br>顺子-Dear Friend</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2769409)<br><br>2011-06-14 15:47<br>赞(0) 踩(0) | <div>ah~friend,我对你的想念，此刻特别强烈，我们如此遥远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1461891)<br><br>2011-06-11 15:31<br>赞(0) 踩(0) | <div>很熟悉，经常听到却不知道名字的一首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2930662)<br><br>2011-06-09 13:08<br>赞(0) 踩(0) | <div>爱</div> |
@@ -198,12 +198,12 @@ Friend~<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2123518)<br><br>2011-04-07 23:43<br>赞(0) 踩(0) | <div>to my dear friends  !</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/388234)<br><br>2011-03-01 18:26<br>赞(0) 踩(0) | <div>这么多年~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1285430)<br>暂无签名~<br>2010-12-30 13:42<br>赞(0) 踩(0) | <div>美丽的声线，低声的吟唱，还有比这更美的么</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1153713)<br>lost<br>2010-11-15 20:47<br>赞(0) 踩(0) | <div>有你在.我什么都不怕.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1153713)<br>lost<br>2010-11-15 20:47<br>赞(0) 踩(0) | <div>有你在.<br>我什么都不怕.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1024975)<br><br>2010-11-04 11:03<br>赞(0) 踩(0) | <div>很真实，很想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1707586)<br> <br>2010-10-27 14:47<br>赞(0) 踩(0) | <div>顺子的歌··</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1179809)<br> <br>2010-09-30 00:28<br>赞(0) 踩(0) | <div>一点点心痛..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277258)<br>道生於平和。<br>2010-08-22 20:49<br>赞(0) 踩(0) | <div>我们如此遥远</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95038)<br><br>2010-08-03 00:03<br>赞(0) 踩(0) | <div>TO:亲爱的你地址：心的某一角星座王子说巨蟹座的我注定要找一个全家满意的女孩安安稳稳的生活但是为了你我愿意叛逆一次</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95038)<br><br>2010-08-03 00:03<br>赞(0) 踩(0) | <div>TO:亲爱的你<br>地址：心的某一角<br>星座王子说<br>巨蟹座的我注定要找一个全家满意的女孩<br>安安稳稳的生活<br>但是<br>为了你<br>我愿意叛逆一次</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70539)<br><br>2010-07-30 14:04<br>赞(0) 踩(0) | <div>我对你的想念，此刻特别强烈，我们如此遥远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583041)<br>你怎么能问吃货饿不饿？！<br>2010-06-19 23:56<br>赞(0) 踩(0) | <div>就是觉得如果晚上听到，会想要窝在角落。只能蜷缩着坐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583041)<br>你怎么能问吃货饿不饿？！<br>2010-06-19 22:43<br>赞(0) 踩(0) | <div>不知道为啥 总觉得带有点汤姆大叔的味儿</div> |

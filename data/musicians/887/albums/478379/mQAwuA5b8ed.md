@@ -62,8 +62,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2342585)<br>灵魂飞走了<br>2019-08-08 19:01<br>赞(0) 踩(0) | <div>流氓！ <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272485914)<br>谁能明我心……<br>2018-04-27 14:23<br>赞(0) 踩(0) | <div>不好听，还不如不专业的呢</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340025421)<br><br>2018-07-03 11:28<br>赞(0) 踩(0) | <div>那是你不懂</div> |
@@ -76,8 +76,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18622046)<br>初识变化<br>2017-10-01 17:12<br>赞(4) 踩(0) | <div>老汪歌词里的性暗示真是666 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49842031)<br>没所谓<br>2015-09-01 16:23<br>赞(3) 踩(0) | <div>最喜欢汪峰唱爵士</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33250449)<br><br>2015-07-29 13:22<br>赞(0) 踩(0) | <div>怎么，姑娘，这感觉怎样？嗯哼？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49640105)<br>我是去过地狱的，所以我知...<br>2015-05-25 17:38<br>赞(2) 踩(0) | <div>不要问我到底有多爱你我只想浸润你那干涸荒芜的沙漠</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49640105)<br>我是去过地狱的，所以我知...<br>2015-05-25 17:37<br>赞(1) 踩(0) | <div>不要问我到底有多爱你我只想浸润你那干涸荒芜的沙漠</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49640105)<br>我是去过地狱的，所以我知...<br>2015-05-25 17:38<br>赞(2) 踩(0) | <div>不要问我到底有多爱你<br>我只想浸润你那干涸荒芜的沙漠</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49640105)<br>我是去过地狱的，所以我知...<br>2015-05-25 17:37<br>赞(1) 踩(0) | <div>不要问我到底有多爱你<br>我只想浸润你那干涸荒芜的沙漠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36860155)<br>音乐是精神食粮 不同心情...<br>2015-04-25 16:09<br>赞(3) 踩(0) | <div>这么俏皮，居然是汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46404494)<br>花开花落花满天<br>2015-02-09 17:15<br>赞(0) 踩(0) | <div>犹如撕心裂肺的爱情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11205881)<br><br>2015-02-02 10:00<br>赞(0) 踩(0) | <div>這感覺怎樣</div> |
@@ -95,7 +95,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1038459)<br><br>2013-07-28 15:05<br>赞(1) 踩(0) | <div>我看着你 你看着我----也适宜送给自己的歌，我和我的对话</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11716796)<br><br>2013-07-27 17:39<br>赞(2) 踩(0) | <div>悲恸，我几乎不敢听。我看着你，你看着我，这感觉像荒芜沙漠中的水源，像一次碎裂，像燃烧的野火，像告慰的救赎，像一次远行，像一场忏悔，像是放逐，又像席卷的暴风，是痛彻心扉的悲泣。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3573742)<br><br>2013-06-25 21:52<br>赞(3) 踩(0) | <div>今晚开车一路，突然被这首歌吸引，重复听了很多遍，一首被错过的好歌。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5518343)<br><br>2011-12-01 00:51<br>赞(2) 踩(0) | <div>这感觉怎样 像一次碎裂像一场燃烧 沸腾着你的野火这感觉如何 像一次远行像一场祈祷 告慰着你的救赎更觉得这首是写给友情们。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5518343)<br><br>2011-12-01 00:51<br>赞(2) 踩(0) | <div>这感觉怎样 像一次碎裂<br>像一场燃烧 沸腾着你的野火<br>这感觉如何 像一次远行<br>像一场祈祷 告慰着你的救赎<br>更觉得这首是写给友情们。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1038459)<br><br>2013-07-28 14:59<br>赞(0) 踩(0) | <div>共鸣，是爱情更是知己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1579310)<br><br>2011-11-25 18:04<br>赞(2) 踩(0) | <div>街上车来车往，腥红的灯，迷离的初冬夜，一周的穿行，有这首歌陪伴，尚好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1579310)<br><br>2011-11-23 20:56<br>赞(1) 踩(0) | <div>刚性中的柔和。</div> |

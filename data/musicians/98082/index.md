@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a2bd85b1b6a89667aac237a8c2795e5e.jpg)<br>陈劭康](https://i.xiami.com/chenshaokang) | **播放数**: 1607828<br>**粉丝数**: 865<br>**评论数**: 29<br>**地区**: China 中国大陆<br>**风格**: 轻摇滚 Soft Rock, 民谣 Folk, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/a2bd85b1b6a89667aac237a8c2795e5e.jpg)<br>陈劭康](https://i.xiami.com/chenshaokang) | **地区**: China 中国大陆<br>**风格**: 轻摇滚 Soft Rock, 民谣 Folk, 国语流行 Mandarin Pop<br>**播放数**: 1607828<br>**粉丝数**: 865<br>**评论数**: 29<br> |
 
 ## 档案
 
@@ -49,8 +49,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-03-25 05:15<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-03-20 05:17<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83591380)<br>哼一首淡淡的歌。<br>2018-04-17 15:28<br>赞(1) 踩(0) | <div>很棒啊</div> |

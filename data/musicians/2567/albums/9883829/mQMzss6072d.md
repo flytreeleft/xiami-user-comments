@@ -66,8 +66,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22283424)<br>我还没想好要写什么......<br>2021-01-08 11:35<br>赞(0) 踩(0) | <div>虾米音乐再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50468540)<br>我还没想好要写什么...<br>2020-11-17 12:37<br>赞(0) 踩(0) | <div>看完评论就流泪了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48068917)<br>AmazingGrace<br>2020-08-16 11:37<br>赞(0) 踩(0) | <div>含泪留爪</div> |
@@ -77,7 +77,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104033736)<br><br>2020-06-21 22:25<br>赞(2) 踩(0) | <div>一首让我不知不觉流泪的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10560969)<br>暂无签名~<br>2020-04-08 23:40<br>赞(1) 踩(0) | <div>晚安，昆明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4070388)<br><br>2020-03-26 00:36<br>赞(0) 踩(0) | <div>感动，竟然流泪了，为这般美好，却又为自己感到孤独，好神奇的歌曲。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38902423)<br>容忍不需要天分，只需爱错...<br>2019-12-24 00:59<br>赞(1) 踩(0) | <div>就这样被音符勾过来了，就这样被旋律钓过来了音乐是我的良药，诚不欺我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38902423)<br>容忍不需要天分，只需爱错...<br>2019-12-24 00:59<br>赞(1) 踩(0) | <div>就这样被音符勾过来了，就这样被旋律钓过来了<br>音乐是我的良药，诚不欺我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412497999)<br><br>2019-12-06 17:38<br>赞(0) 踩(0) | <div>还行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21542187)<br>七十年代生人<br>2019-11-19 13:29<br>赞(0) 踩(0) | <div>专辑中最好的一首歌，评论竟然这么少！词曲唱俱佳！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426511982)<br><br>2019-07-29 18:00<br>赞(7) 踩(0) | <div>我是看封面进来的</div> |
@@ -88,7 +88,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284992328)<br>来成都不吃同堂里火锅等于...<br>2019-04-28 14:51<br>赞(1) 踩(0) | <div>这封面是什么鬼？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163183736)<br><br>2019-03-28 14:04<br>赞(2) 踩(0) | <div>瞧我发现了什么宝藏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39685483)<br> <br>2019-01-15 01:08<br>赞(5) 踩(0) | <div>我又想您了。 <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281034203)<br>微微一笑<br>2018-12-12 17:57<br>赞(3) 踩(0) | <div>今天十二月十二日农历十一月初六，风雨雪后的第一个多云日，冷，彻骨的寒冷，在外面游荡了一天，心情挺好，买了一堆吃的，不过都是你不爱吃的，你看，说了这么多，唯独忘了今天是多少天了～600多还是700多了…………对不起</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281034203)<br>微微一笑<br>2018-12-12 17:57<br>赞(3) 踩(0) | <div>今天十二月十二日<br>农历十一月初六，风雨雪后的第一个多云日，冷，彻骨的寒冷，在外面游荡了一天，心情挺好，买了一堆吃的，不过都是你不爱吃的，你看，说了这么多，唯独忘了今天是多少天了～600多还是700多了…………对不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100785470)<br>我还没想好要写什么...<br>2018-12-07 16:14<br>赞(2) 踩(0) | <div>亲情的伟大</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98848784)<br>歌单是乱的哦<br>2018-10-28 12:22<br>赞(2) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340581619)<br>无欲则刚<br>2018-10-23 10:21<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -98,11 +98,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14187064)<br>我还没想好要写什么...<br>2018-09-30 09:54<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/aa870edd44d3f615d76bed2188beb79d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17806314)<br>以梦为马 以己为光<br>2018-09-29 21:35<br>赞(1) 踩(0) | <div>你不过是像从前一样走在我前面而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17806314)<br>以梦为马 以己为光<br>2018-09-29 21:33<br>赞(1) 踩(0) | <div>qq和虾米打通了哎&amp;hellip;&amp;hellip;来自今天分享的我&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43017044)<br>寻找我爱的       ...<br>2018-07-03 15:33<br>赞(2) 踩(0) | <div>我也想起我的奶奶，奶奶跟爷爷斗了一辈子的嘴，从18到80，一起走过了60多个年头，到了最后，奶奶骂不动爷爷了，依稀还记得奶奶在医院的时候，从家里到医院，爷爷只问：她还好吗。奶奶见到我很开心的笑，爷爷来不了医院，我只能告诉她，爷爷很想你。到了最后奶奶走了，只有爷爷一个人在家里，再也没有奶奶骂爷爷的声音了。人生这么长，或许有些爱说不出来，我也很想你&amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43017044)<br>寻找我爱的       ...<br>2018-07-03 15:33<br>赞(2) 踩(0) | <div>我也想起我的奶奶，奶奶跟爷爷斗了一辈子的嘴，从18到80，一起走过了60多个年头，到了最后，奶奶骂不动爷爷了，依稀还记得奶奶在医院的时候，从家里到医院，爷爷只问：她还好吗。奶奶见到我很开心的笑，爷爷来不了医院，我只能告诉她，爷爷很想你。<br>到了最后奶奶走了，只有爷爷一个人在家里，再也没有奶奶骂爷爷的声音了。<br>人生这么长，或许有些爱说不出来，我也很想你&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/885921)<br> <br>2018-06-26 23:49<br>赞(1) 踩(0) | <div>稍微代表版纳人民留个言</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3749751)<br>白天是夜晚的仆从<br>2018-06-11 19:07<br>赞(2) 踩(0) | <div>太棒了这音色这曲调我给两百分其中有一百二十分给封面 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42713880)<br> <br>2018-06-04 15:03<br>赞(2) 踩(0) | <div>不知道为什么非常打动我，手上忙着工作却让我内心很安稳很净 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354977985)<br>习惯-喜欢什么都没有的感...<br>2018-04-16 12:46<br>赞(3) 踩(0) | <div>放心吗？放...心（微弱微弱的颤音）舍得吗？..............久久无声泪满屋！///想起想起就为你诵经，你一个人走，心要稳稳的......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354977985)<br>习惯-喜欢什么都没有的感...<br>2018-04-16 12:46<br>赞(3) 踩(0) | <div>放心吗？<br>放...心（微弱微弱的颤音）<br>舍得吗？<br>..............久久无声泪满屋！<br>///想起想起就为你诵经，<br>你一个人走，心要稳稳的......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334016036)<br><br>2018-03-15 17:17<br>赞(2) 踩(0) | <div>无意中听到她的歌，声线真好，这么好，惊为天人！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306632146)<br><br>2018-02-12 22:12<br>赞(2) 踩(0) | <div>进来给我媳妇点个赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319996201)<br>她以绝美之姿行来，犹如夜...<br>2018-02-09 15:32<br>赞(1) 踩(0) | <div>真的好羡慕他们的感情，真希望自己也可以遇到，坚定的相信与那个人是相爱的，我对她付出所有的都不会被辜负的</div> |
@@ -115,17 +115,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49529062)<br>耳机里的音乐到底开多大声...<br>2017-10-26 08:36<br>赞(3) 踩(0) | <div>啊 人世间有爱情真是太美妙了呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6061165)<br>音乐是最好的情话。<br>2017-10-24 21:25<br>赞(31) 踩(0) | <div>“歌曲开头的那段傣族经文，是奶奶想念爷爷时会念到的，我怀着敬畏的心把它给录了下来。大意是：保佑你们在我看不见的地方，人生的道路能像竹子一样直，像棉线一样长。不要害怕，要勇敢。”</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303572710)<br><br>2019-11-22 14:04<br>赞(0) 踩(0) | <div>你是歌手吗？  如果是我要告诉你你是中国最好的歌手，你只差一个机会。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6061165)<br>音乐是最好的情话。<br>2017-10-24 21:24<br>赞(139) 踩(0) | <div>《瑛达遖》是朱婧写给奶奶的歌。歌名是音译，准确的发音应该是“Inng Da Nam”，这是朱婧爷爷小时候在庙里当和尚用的傣文名字，而这个名字很长时间里只有奶奶一个人知道。谈到这首歌的创作背景，朱婧是这样说的：“爷爷过世之后，奶奶就一个人守着他们一起生活了半个世纪的大房子。爸爸、姑姑都希望奶奶能搬来和我们同住，方便照顾，可奶奶却说，如果她搬走了，爷爷的灵魂回来，找不到她，该怎么办？”“我以为谈论自己逝去爱人的时候总是免不了悲伤。可是，奶奶每次说起爷爷，不仅没有留露出伤感，反倒会在脸上显现少女一般的神色，仿佛只是和爱人短暂地分离，带着说不清的眷恋，还有安宁。我觉得这是信仰与爱的力量。”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6061165)<br>音乐是最好的情话。<br>2017-10-24 21:24<br>赞(139) 踩(0) | <div>《瑛达遖》是朱婧写给奶奶的歌。歌名是音译，准确的发音应该是“Inng Da Nam”，这是朱婧爷爷小时候在庙里当和尚用的傣文名字，而这个名字很长时间里只有奶奶一个人知道。谈到这首歌的创作背景，朱婧是这样说的：<br>“爷爷过世之后，奶奶就一个人守着他们一起生活了半个世纪的大房子。爸爸、姑姑都希望奶奶能搬来和我们同住，方便照顾，可奶奶却说，如果她搬走了，爷爷的灵魂回来，找不到她，该怎么办？”<br>“我以为谈论自己逝去爱人的时候总是免不了悲伤。可是，奶奶每次说起爷爷，不仅没有留露出伤感，反倒会在脸上显现少女一般的神色，仿佛只是和爱人短暂地分离，带着说不清的眷恋，还有安宁。我觉得这是信仰与爱的力量。”</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102649684)<br>如果我死了<br>2017-11-26 03:39<br>赞(0) 踩(0) | <div>谢谢你，让我看到这么感人的故事</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334016036)<br><br>2018-03-15 17:19<br>赞(0) 踩(0) | <div>人生最好的，莫过于爱你如初</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233209916)<br>懂我的你，可不可以不要走...<br>2020-07-23 17:52<br>赞(0) 踩(0) | <div>谢谢你的解释，看懂了以后我觉得更好听了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301029677)<br>平平凡凡的用余生去寻找那...<br>2017-10-23 19:25<br>赞(1) 踩(0) | <div>想起陪奶奶在家门口聊着天的那些年，我长大了，奶奶也不在了，在那边一定要幸福 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245198678)<br><br>2017-10-02 12:45<br>赞(4) 踩(0) | <div>遖赞美所爱的人的用词</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245198678)<br><br>2017-10-02 12:45<br>赞(4) 踩(0) | <div>遖<br><br><br><br>赞美所爱的人的用词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311345875)<br><br>2017-09-15 20:37<br>赞(1) 踩(0) | <div>只服这封面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283584703)<br><br>2017-09-05 09:48<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283584703)<br><br>2017-09-03 10:12<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68349418)<br>关我屁事啊<br>2017-08-29 20:26<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86238720)<br>听爱的歌，生活糟糕却美好...<br>2017-08-29 12:37<br>赞(0) 踩(0) | <div>我只要闭上眼睛我就可以见到你见到你见到你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86238720)<br>听爱的歌，生活糟糕却美好...<br>2017-08-29 12:37<br>赞(0) 踩(0) | <div>我只要闭上眼睛我就可以见到你<br>见到你<br><br>见到你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8058504)<br><br>2017-08-23 10:07<br>赞(4) 踩(0) | <div>听到这首歌，就想到了阿爸，个子不高，小时候无数个跟着他下地的黄昏，他扛着锄头，鞋子里灌了泥土，挞挞的走在我前面，我跟在后面，夕阳把他的影子拉的好长好长～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295987148)<br>为什么不？<br>2017-08-20 19:58<br>赞(2) 踩(0) | <div>我最喜欢爷爷，可我忘记了他牵着我的手时的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40790030)<br>从前啊有一只小松鼠<br>2017-08-19 15:07<br>赞(1) 踩(0) | <div>听了好多遍，特别想念爷爷奶奶：）</div> |

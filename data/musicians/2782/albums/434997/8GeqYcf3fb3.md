@@ -36,10 +36,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218280462)<br>正在输入...<br>2019-04-01 19:48<br>赞(1) 踩(0) | <div>这个听着多好，爽，好想去大草原住一阵子</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296275738)<br><br>2019-03-26 12:02<br>赞(2) 踩(0) | <div>我仿佛已经看到了草原和牛羊美～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296275738)<br><br>2019-03-26 12:02<br>赞(2) 踩(0) | <div>我仿佛已经看到了草原和牛羊<br><br>美～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307135788)<br>微风不燥，阳光正好<br>2019-03-16 13:11<br>赞(2) 踩(0) | <div>后一分半疯狂输出，厉害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10155330)<br>I'm what I l...<br>2019-03-13 00:30<br>赞(1) 踩(0) | <div>他娘的拿酒来！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300604561)<br><br>2019-02-11 08:56<br>赞(2) 踩(0) | <div>这首歌还是听蒙语版好</div> |
@@ -128,7 +128,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44460871)<br><br>2016-02-09 20:54<br>赞(2) 踩(0) | <div>汉语就弱了很多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43960673)<br><br>2016-01-10 15:12<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48177392)<br>我还没想好要操誰。<br>2016-01-10 11:19<br>赞(1) 踩(0) | <div>寻龙诀插曲汉化版好吗？哈哈哈 我的耳朵还是挺灵敏哒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18046426)<br><br>2016-01-10 11:14<br>赞(0) 踩(0) | <div>情真意切的歌声哝换来美丽的吉祥鸟喝下美酒七杯后畅想新年乐淘淘我们的歌声美嘿干了这一杯嘿幸福装满杯</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18046426)<br><br>2016-01-10 11:14<br>赞(0) 踩(0) | <div>情真意切的歌声哝<br>换来美丽的吉祥鸟<br>喝下美酒七杯后<br>畅想新年乐淘淘<br>我们的歌声美嘿<br>干了这一杯嘿<br>幸福装满杯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58757114)<br><br>2016-01-07 14:42<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33578199)<br>我超疯<br>2016-01-03 13:10<br>赞(0) 踩(0) | <div>寻龙诀很好的融入 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18313677)<br>啦啦啦<br>2015-12-27 23:32<br>赞(2) 踩(0) | <div>虽然之前就喜欢这首歌 但是看了寻龙诀之后再听 就会想起坤哥笑起来的侧脸</div> |
@@ -168,7 +168,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44464356)<br>你大爷的<br>2015-05-01 20:09<br>赞(0) 踩(0) | <div>可以有哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49192234)<br>沙漠交给了我很多东西，比...<br>2015-04-18 20:17<br>赞(0) 踩(0) | <div>内蒙古杭盖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1714704)<br> <br>2015-04-13 14:27<br>赞(2) 踩(0) | <div>拉着手，围着篝火跳，唱着这首歌，</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47556906)<br><br>2015-03-28 01:45<br>赞(1) 踩(0) | <div>毫无唯和感~~豪放</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47556906)<br><br>2015-03-28 01:45<br>赞(1) 踩(0) | <div>毫无唯和感~~<br>豪放</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3303060)<br><br>2015-03-26 19:21<br>赞(1) 踩(0) | <div>(ﾉ´▽｀)ﾉ♪来为明晚现场暖耳朵吧杂黑！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4998723)<br>不给傻叉织毛衣!<br>2015-03-20 10:52<br>赞(1) 踩(0) | <div>嗨！我们滴歌声美~喝了这一杯~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8684420)<br><br>2015-03-16 12:20<br>赞(1) 踩(0) | <div>虽然不如蒙语的，但是还是想喝一杯</div> |
@@ -225,7 +225,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2960843)<br><br>2013-06-21 16:34<br>赞(0) 踩(0) | <div>好欢乐~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11464616)<br><br>2013-06-20 01:27<br>赞(0) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15460491)<br><br>2013-06-07 22:38<br>赞(1) 踩(0) | <div>爸爸唯一会唱的一首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2436398)<br><br>2013-06-02 00:03<br>赞(1) 踩(0) | <div>没有矫揉造作，真正的歌声！建议听蒙语版。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2436398)<br><br>2013-06-02 00:03<br>赞(1) 踩(0) | <div>没有矫揉造作，真正的歌声！<br>建议听蒙语版。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2887302)<br><br>2013-05-30 23:26<br>赞(1) 踩(0) | <div>这个 更欢乐 @dean_王典 @肥肥的瘦马 @死神的墨迹 @mr_小虾米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7869578)<br><br>2013-05-20 14:06<br>赞(1) 踩(0) | <div>汉语版的酒歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2708503)<br>我自己第一个被感动<br>2013-05-03 21:11<br>赞(2) 踩(0) | <div>同志们…以后喝酒不用愁了…汉语版的来了</div> |
@@ -238,12 +238,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1626134)<br>我还没想好要写什么...<br>2013-02-19 18:11<br>赞(1) 踩(0) | <div>两个湖北人，爱上了这首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8043892)<br>荒唐的人间，就要听歌<br>2013-02-16 10:25<br>赞(1) 踩(0) | <div>草原上的摇滚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2390706)<br><br>2013-02-15 11:33<br>赞(1) 踩(0) | <div>酒歌，汉语版，哇咔咔！虾米好地方啊！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6376789)<br>我还没想好要写什么...<br>2013-02-07 22:44<br>赞(1) 踩(0) | <div>浓浓烈烈的奶酒啊蜷在瓶里的小绵羊兄弟朋友们痛饮吧灌进肚里的大老虎我们的歌声美，嘿干了这一杯，嘿千万别喝醉情真意切的歌声哝换来美丽的吉祥鸟喝下美酒七杯后畅想新年乐淘淘我们的歌声美，嘿干了这一杯，嘿幸福装满杯。 好适合新年听 对吧~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6376789)<br>我还没想好要写什么...<br>2013-02-07 22:44<br>赞(1) 踩(0) | <div>浓浓烈烈的奶酒啊<br>蜷在瓶里的小绵羊<br>兄弟朋友们痛饮吧<br>灌进肚里的大老虎<br>我们的歌声美，嘿<br>干了这一杯，嘿<br>千万别喝醉<br><br>情真意切的歌声哝<br>换来美丽的吉祥鸟<br>喝下美酒七杯后<br>畅想新年乐淘淘<br>我们的歌声美，嘿<br>干了这一杯，嘿<br>幸福装满杯。 好适合新年听 对吧~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12777458)<br><br>2013-01-30 10:11<br>赞(0) 踩(0) | <div>11</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12579814)<br><br>2013-01-23 20:29<br>赞(0) 踩(0) | <div>听着很开心啊。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9052473)<br><br>2013-01-23 18:17<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233983)<br>我还没想好要写什么...<br>2013-01-23 13:25<br>赞(1) 踩(0) | <div>这首歌听完给人感觉就是我们聚会吧。我们的歌声美 干了这杯 千万别喝醉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12208303)<br><br>2013-01-01 14:08<br>赞(1) 踩(0) | <div>有些改变 曲调是比较老的呢比较欢快</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12208303)<br><br>2013-01-01 14:08<br>赞(1) 踩(0) | <div>有些改变 曲调是比较老的呢<br><br>比较欢快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/891346)<br><br>2012-12-28 22:27<br>赞(1) 踩(0) | <div>祝酒歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1620085)<br><br>2012-12-24 01:51<br>赞(1) 踩(0) | <div>哈哈，好欢快的工作音乐。好吧。工作时候不能听音乐。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7614748)<br><br>2012-12-23 18:55<br>赞(1) 踩(0) | <div>太牛逼了。又发现一个新领域~</div> |
@@ -273,19 +273,19 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6941022)<br><br>2012-03-19 11:05<br>赞(1) 踩(0) | <div>汉语版的哦，各位。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6030445)<br><br>2012-03-07 11:36<br>赞(1) 踩(0) | <div>要懂得雅俗共赏，是快乐的调调~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2012-03-05 12:46<br>赞(1) 踩(0) | <div>好好听完 真的很快乐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2012-03-05 12:42<br>赞(1) 踩(0) | <div>浓浓烈烈的奶酒啊蜷在瓶里的小绵羊兄弟朋友们痛饮吧灌进肚里的大老虎</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3493530)<br><br>2012-02-22 08:57<br>赞(1) 踩(0) | <div>我们的歌声美，嘿干了这一杯，嘿千万别喝醉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2012-03-05 12:42<br>赞(1) 踩(0) | <div>浓浓烈烈的奶酒啊<br>蜷在瓶里的小绵羊<br>兄弟朋友们痛饮吧<br>灌进肚里的大老虎</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3493530)<br><br>2012-02-22 08:57<br>赞(1) 踩(0) | <div>我们的歌声美，嘿<br>干了这一杯，嘿<br>千万别喝醉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1532668)<br><br>2012-02-08 21:58<br>赞(1) 踩(0) | <div>蒙语版好听啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/832498)<br>会敲三角铁，bangba...<br>2012-01-19 13:46<br>赞(1) 踩(0) | <div>好想喝酒啊！！！！！要不年前怎么喝点~~@苗苗彻 @花妞等等  山里太苦闷~~求买醉呢~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2026318)<br>rock<br>2012-01-16 09:53<br>赞(1) 踩(0) | <div>@朱大爹，这个也不错！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7666130)<br><br>2012-01-14 19:15<br>赞(1) 踩(0) | <div>hao</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7387317)<br><br>2012-01-12 20:07<br>赞(1) 踩(0) | <div>很有感觉的歌！我们的歌声美，嘿干了这一杯，嘿千万别喝醉味道美极了......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7387317)<br><br>2012-01-12 20:07<br>赞(1) 踩(0) | <div>很有感觉的歌！我们的歌声美，嘿<br>干了这一杯，嘿<br>千万别喝醉<br>味道美极了......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/663193)<br>我还没想好要写什么...<br>2012-01-04 16:37<br>赞(1) 踩(0) | <div>草原烈酒清风~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2026318)<br>rock<br>2012-01-04 08:33<br>赞(1) 踩(0) | <div>＂我们的歌声美，干了这一杯＂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7155949)<br><br>2011-12-19 18:34<br>赞(1) 踩(0) | <div>太有味儿了，适合春节联欢会上合唱！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1976614)<br><br>2011-12-14 23:09<br>赞(1) 踩(0) | <div>浓浓烈烈的奶酒啊，蜷在瓶里的小绵羊，兄弟朋友们痛饮吧，钻进肚里的大老虎！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7229283)<br><br>2011-12-13 21:12<br>赞(1) 踩(0) | <div>挺好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6953829)<br><br>2011-11-25 16:44<br>赞(1) 踩(0) | <div>浓浓烈烈的奶酒啊蜷在瓶里的小绵羊兄弟朋友们痛饮吧灌进肚里的大老虎我们的歌声美，嘿干了这一杯，嘿千万别喝醉情真意切的歌声哝换来美丽的吉祥鸟喝下美酒七杯后畅想新年乐淘淘我们的歌声美，嘿干了这一杯，嘿幸福装满杯</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6953829)<br><br>2011-11-25 16:44<br>赞(1) 踩(0) | <div>浓浓烈烈的奶酒啊<br>蜷在瓶里的小绵羊<br>兄弟朋友们痛饮吧<br>灌进肚里的大老虎<br>我们的歌声美，嘿<br>干了这一杯，嘿<br>千万别喝醉<br><br>情真意切的歌声哝<br>换来美丽的吉祥鸟<br>喝下美酒七杯后<br>畅想新年乐淘淘<br>我们的歌声美，嘿<br>干了这一杯，嘿<br>幸福装满杯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1731730)<br><br>2011-11-23 22:13<br>赞(1) 踩(0) | <div>嘿 干了这一杯 千万别喝醉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1755817)<br><br>2011-11-19 18:32<br>赞(1) 踩(0) | <div>xihuan</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6515126)<br>Ripples from...<br>2011-11-12 23:31<br>赞(1) 踩(0) | <div>我的妈呀，这也太美了。从前看杭盖的名字都没感觉，有一天翻地图的时候看到了杭盖地名，才感兴趣起来，昨天又听了黄夕倍和杭盖的合作，太有感觉了……</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b131d51e683050683b95ac02babfc286.jpg)<br>永彬Ryan.B](https://i.xiami.com/ryanb) | **播放数**: 10833658<br>**粉丝数**: 1391<br>**评论数**: 38<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 嘻哈 Hip-Hop<br> |
+| [![](../../images/musicians/b131d51e683050683b95ac02babfc286.jpg)<br>永彬Ryan.B](https://i.xiami.com/ryanb) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 嘻哈 Hip-Hop<br>**播放数**: 10833658<br>**粉丝数**: 1391<br>**评论数**: 38<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@ Ryan.B 是CNBALLER组合成员之一,才华横溢的全能唱作人。创作歌�
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-08 07:12<br>赞(0) 踩(0) | <div>45877</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24195194)<br><br>2020-11-18 07:46<br>赞(0) 踩(0) | <div>没有才华只有抄袭和模仿的屌丝</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95694712)<br>**<br>2020-11-17 13:03<br>赞(0) 踩(0) | <div>好听，加油！</div> |
@@ -51,7 +51,7 @@ Ryan.B 是CNBALLER组合成员之一,才华横溢的全能唱作人。创作歌�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253612038)<br>️ʕ•́o•̀ʔ ʕ•́...<br>2019-12-08 13:34<br>赞(0) 踩(0) | <div>想听像极了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431157364)<br><br>2019-12-07 18:27<br>赞(0) 踩(0) | <div>好好听 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/316db64fc5b56f4587429737ff163940.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321161474)<br>粗茶淡饭<br>2019-11-29 16:08<br>赞(0) 踩(0) | <div>很赞哦！每首都是经典！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301394790)<br><br>2019-10-31 11:56<br>赞(0) 踩(0) | <div>你的声音，创作真是让我一秒爱上。会一直支持你</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301394790)<br><br>2019-10-31 11:56<br>赞(0) 踩(0) | <div>你的声音，创作真是让我一秒爱上。<br>会一直支持你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430646292)<br>听美妙的旋律优美的音乐<br>2019-10-26 12:49<br>赞(0) 踩(0) | <div>你最厉害，最牛逼了，希望你能多多创造新歌。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93207882)<br>存在的我是我的我<br>2019-10-23 11:05<br>赞(0) 踩(0) | <div>棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346060453)<br><br>2019-10-12 17:10<br>赞(0) 踩(0) | <div>永彬 Ryan.B你牛逼啊 我很喜欢你的歌。</div> |

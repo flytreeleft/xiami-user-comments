@@ -48,5 +48,3 @@ Carry this little guy down
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

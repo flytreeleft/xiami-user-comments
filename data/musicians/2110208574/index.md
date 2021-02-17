@@ -3,7 +3,7 @@ Babel Records
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/050bef3ffdf4c5049a6621e696814c6a.jpg)<br>Babel Records](https://i.xiami.com/babelrecords) | **播放数**: 10361593<br>**粉丝数**: 3474<br>**评论数**: 130<br>**地区**: China 中国大陆<br>**风格**: 未来车库舞曲 Future Garage, 当代节奏布鲁斯 Contemporary R&B<br> |
+| [![](../../images/musicians/050bef3ffdf4c5049a6621e696814c6a.jpg)<br>Babel Records](https://i.xiami.com/babelrecords) | **地区**: China 中国大陆<br>**风格**: 未来车库舞曲 Future Garage, 当代节奏布鲁斯 Contemporary R&B<br>**播放数**: 10361593<br>**粉丝数**: 3474<br>**评论数**: 130<br> |
 
 ## 档案
 
@@ -45,8 +45,8 @@ Babel Records
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335973529)<br>爱是永不止息。<br>2020-11-15 23:27<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9062060)<br>此生没拿一个亿来爱虾米是...<br>2020-10-09 20:57<br>赞(0) 踩(0) | <div><img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6404176)<br><br>2020-01-05 15:33<br>赞(0) 踩(0) | <div>留下脚印</div> |

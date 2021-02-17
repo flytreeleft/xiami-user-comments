@@ -41,8 +41,8 @@ Jirgej baimaar Tuuljin uul aa h’oi.<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422892545)<br><br>2019-04-06 23:22<br>赞(0) 踩(0) | <div>思念家乡，我的大内蒙，我的哲里木盟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14028085)<br>感谢音乐带来的美好与感动...<br>2019-03-22 10:08<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418730834)<br><br>2019-03-15 12:04<br>赞(1) 踩(0) | <div>感觉已经到了草原了。</div> |
@@ -67,8 +67,8 @@ Jirgej baimaar Tuuljin uul aa h’oi.<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17305324)<br>Everyone wil...<br>2015-06-11 23:33<br>赞(0) 踩(0) | <div>想回家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17305324)<br>Everyone wil...<br>2015-06-09 23:53<br>赞(1) 踩(0) | <div>来瓶闷倒驴，喝死我得了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26066210)<br>不眞実の世界······<br>2014-10-25 04:29<br>赞(0) 踩(0) | <div>『呼麦』的声音真好听！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-08 23:44<br>赞(6) 踩(0) | <div>汉语翻译：从东侧望过去景色迷人的托尔金山从西侧望过去虎豹猞猁出没的托尔金山从左侧看过去风景美丽的托尔金山从右侧看过去百鸟争鸣的托尔金山</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-08 23:44<br>赞(0) 踩(0) | <div>蒙语歌词：TUULJIN UUL（托尔金山）Baruunqi talaas ni harahlaar h’oiBaharmaar saihan Tuuljin uul aa h’oiBars irves hoyor h’oiBaildaj baimaar Tuuljin uul aa h’oi.Z’uunqi talaas ni harahlaar h’oiZ’uitei saihan Tuuljin uul aa h’oiZ’uil b’uriin shuvuu ni h’oiJirgej baimaar Tuuljin uul aa h’oi.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-08 23:44<br>赞(6) 踩(0) | <div>汉语翻译：<br>从东侧望过去<br>景色迷人的托尔金山<br>从西侧望过去<br>虎豹猞猁出没的托尔金山<br>从左侧看过去<br>风景美丽的托尔金山<br>从右侧看过去<br>百鸟争鸣的托尔金山</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087342)<br><br>2014-09-08 23:44<br>赞(0) 踩(0) | <div>蒙语歌词：<br>TUULJIN UUL（托尔金山）<br>Baruunqi talaas ni harahlaar h’oi<br>Baharmaar saihan Tuuljin uul aa h’oi<br>Bars irves hoyor h’oi<br>Baildaj baimaar Tuuljin uul aa h’oi.<br><br>Z’uunqi talaas ni harahlaar h’oi<br>Z’uitei saihan Tuuljin uul aa h’oi<br>Z’uil b’uriin shuvuu ni h’oi<br>Jirgej baimaar Tuuljin uul aa h’oi.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2424874)<br>贴木尔巴根<br>2014-06-24 12:42<br>赞(16) 踩(0) | <div>胡日查说：“托尔金山，从前是蒙古人心中的圣山，四面环绕着云雾，现在，托尔金山没了。但是，他永远存在在蒙古人的心间。”然后转过头去，趁人不注意擦了擦眼角的泪水。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212252706)<br> <br>2016-10-16 21:59<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40507002)<br>只有孤独可以代替你……<br>2016-10-16 22:00<br>赞(0) 踩(0) | <div><q><b>胸口睡蚂蚁大石说：</b></q></div> |

@@ -3,13 +3,10 @@ Massica
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f48234703187714aba3b4b4c34f12fc4.png)<br>Massica](https://i.xiami.com/massica) | **播放数**: 681285<br>**粉丝数**: 204<br>**评论数**: 5<br>**地区**: China 中国大陆<br>**风格**: 弛放 Chillout, 未来贝斯 Future Bass, 合成器流行 Synthpop, 华语唱作人 Chinese Singer-Songwriter, 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/f48234703187714aba3b4b4c34f12fc4.png)<br>Massica](https://i.xiami.com/massica) | **地区**: China 中国大陆<br>**风格**: 弛放 Chillout, 未来贝斯 Future Bass, 合成器流行 Synthpop, 华语唱作人 Chinese Singer-Songwriter, 独立流行 Indie Pop<br>**播放数**: 681285<br>**粉丝数**: 204<br>**评论数**: 5<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -37,8 +34,8 @@ Massica
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50302951)<br>未来的憧憬<br>2019-09-01 19:09<br>赞(1) 踩(0) | <div>不说多的，首首旋律都很喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340110502)<br><br>2017-12-15 23:36<br>赞(0) 踩(0) | <div>发现了gay季老师</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49265597)<br>我还没想好要写什么...<br>2017-07-28 19:00<br>赞(0) 踩(0) | <div>加油</div> |

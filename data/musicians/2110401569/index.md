@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b1fc7514db53324284e052ea334fe679.jpg)<br>哈鲁滨](https://i.xiami.com/halubin) | **播放数**: 2049650<br>**粉丝数**: 221<br>**评论数**: 4<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 中国传统民歌 Chinese Traditional Folk, 红歌 Red Song<br> |
+| [![](../../images/musicians/b1fc7514db53324284e052ea334fe679.jpg)<br>哈鲁滨](https://i.xiami.com/halubin) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 中国传统民歌 Chinese Traditional Folk, 红歌 Red Song<br>**播放数**: 2049650<br>**粉丝数**: 221<br>**评论数**: 4<br> |
 
 ## 档案
 
@@ -46,8 +46,8 @@ VX：xiongyingaoxiang521
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272017031)<br>清静以为天下正。谦虚，随...<br>2020-07-29 12:19<br>赞(1) 踩(0) | <div>好！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431882111)<br><br>2020-03-14 17:27<br>赞(1) 踩(0) | <div>亲，急用你这首歌的伴奏音乐，可否上传</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431882111)<br><br>2020-03-14 17:15<br>赞(1) 踩(0) | <div>亲，你可以上传这首歌曲的伴奏音乐吗</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f7f38ee11a67affbd5a9987a28273922.jpg)<br>旅行团](https://i.xiami.com/lifejourney) | **播放数**: 137333750<br>**粉丝数**: 58639<br>**评论数**: 1519<br>**地区**: China 中国大陆<br>**风格**: 阳光流行 Sunshine Pop, 独立流行 Indie Pop, 独立摇滚 Indie Rock<br> |
+| [![](../../images/musicians/f7f38ee11a67affbd5a9987a28273922.jpg)<br>旅行团](https://i.xiami.com/lifejourney) | **地区**: China 中国大陆<br>**风格**: 阳光流行 Sunshine Pop, 独立流行 Indie Pop, 独立摇滚 Indie Rock<br>**播放数**: 137333750<br>**粉丝数**: 58639<br>**评论数**: 1519<br> |
 
 ## 档案
 
@@ -62,8 +62,8 @@ span.Apple-tab-span {white-space:pre}
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445153599)<br><br>2020-12-16 22:07<br>赞(0) 踩(0) | <div>nice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43065773)<br>music and su...<br>2020-12-12 12:47<br>赞(0) 踩(0) | <div>旅行团的TA-长大的成年人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435168873)<br>wyid：stanchi...<br>2020-12-04 01:19<br>赞(2) 踩(0) | <div>我是柳州人，你们也是柳州人。</div> |
@@ -83,7 +83,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5394363)<br>滑板 冲浪 拍照<br>2020-04-22 05:59<br>赞(3) 踩(0) | <div>不要让爱奇艺影响冲浪了，我从02年就开始你们了，他们让你赚了钱，但是你们觉得是真的么？这个社会给所有人太多改变了，我的发声我只是喝酒里流淌的水，但是真的，你们渴求世界还有点真的话，请把我的微信推给马东，我希望他能理解我们浪人，而不是用流量来冲击整个文化，感谢你们对音乐的付出，但是这个真的不一样！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49438226)<br><br>2020-04-11 00:39<br>赞(0) 踩(0) | <div>10年前在北京草莓，10年后在广电T2</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345698167)<br> <br>2020-03-15 11:01<br>赞(1) 踩(0) | <div>这个乐队太美好了！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419135606)<br><br>2020-02-19 11:24<br>赞(1) 踩(0) | <div>喜欢旅行团的最重要一点笑把眼泪当成歌</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419135606)<br><br>2020-02-19 11:24<br>赞(1) 踩(0) | <div>喜欢旅行团的最重要一点<br>笑把眼泪当成歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269248152)<br><br>2020-01-07 20:27<br>赞(0) 踩(0) | <div>主唱声音真真是我男神的声音呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255692362)<br>Work hard pl...<br>2019-11-12 20:52<br>赞(1) 踩(0) | <div>“我们就是世界”</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34758772)<br> And I will ...<br>2019-10-17 12:55<br>赞(0) 踩(0) | <div>发小唱了这首歌，好听</div> |
@@ -95,12 +95,12 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8821299)<br><br>2019-08-04 00:21<br>赞(2) 踩(0) | <div>虾米是把版权买来了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43261751)<br>偷看没用，你已经忘不了我...<br>2019-07-31 09:00<br>赞(1) 踩(0) | <div>你们都是音乐里的孩子，带给我们最真诚的感动！感谢你们，旅行团的赤子们 <img src="../../images/comments/2dddd65f06f01a396df470103735c8ff.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38768511)<br>暂无签名~<br>2019-07-30 23:00<br>赞(2) 踩(0) | <div>太喜欢韦伟啦啊啊啊啊啊啊啊啊啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/610625)<br>暮雪朝霜，毋改英雄意气<br>2019-07-29 12:47<br>赞(2) 踩(0) | <div>奇怪的是，每次孔一禅的声音一出来，就很想哭。编曲也很特别，总有种被&amp;ldquo;夏日时节，居海中央；回首往事，皆可放下&amp;rdquo;的情绪包围。但就是想哭。只是知道哭完一切都会变得更好。时光不复！你，我也不曾负！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3593768)<br><br>2019-07-28 11:48<br>赞(4) 踩(0) | <div>在厦门简单音乐节上知道了旅行团，后来越听越好听，是认真在做音乐的乐队。乐夏上改编的鲁冰花是非常棒的改编。鲁冰花编成好几个版本穿插在歌曲里，纯男声的鲁冰花可以这样美！可能有人会说主唱利用情感在拉票，但这样的真情流露是真实的。会一直支持你们，旅行团！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/610625)<br>暮雪朝霜，毋改英雄意气<br>2019-07-29 12:47<br>赞(2) 踩(0) | <div>奇怪的是，每次孔一禅的声音一出来，就很想哭。<br>编曲也很特别，总有种被&amp;ldquo;夏日时节，居海中央；回首往事，皆可放下&amp;rdquo;的情绪包围。<br>但就是想哭。只是知道哭完一切都会变得更好。<br>时光不复！<br>你，我也不曾负！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3593768)<br><br>2019-07-28 11:48<br>赞(4) 踩(0) | <div>在厦门简单音乐节上知道了旅行团，后来越听越好听，是认真在做音乐的乐队。<br>乐夏上改编的鲁冰花是非常棒的改编。鲁冰花编成好几个版本穿插在歌曲里，纯男声的鲁冰花可以这样美！<br>可能有人会说主唱利用情感在拉票，但这样的真情流露是真实的。<br>会一直支持你们，旅行团！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425346)<br>我还没想好要写什么...<br>2019-07-22 11:37<br>赞(0) 踩(0) | <div>听旅行团乐队的老乐迷都结婚生子了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409843542)<br><br>2019-07-20 13:49<br>赞(1) 踩(0) | <div>下载虾米是为了听旅行团的前身“西门电子室” <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166602960)<br><br>2019-07-18 15:20<br>赞(0) 踩(0) | <div>《逝去的歌》暖到我了，七年了，一直沉浸在思念中，但是当我听到逝去的人“住在心间”“不曾走远”，心里就又有了力量 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9103905)<br>五月天 周杰伦 Nell...<br>2019-07-15 18:50<br>赞(1) 踩(0) | <div>转眼间来福胶泥都十一年了最初跑来虾米音乐听歌还是因为旅行团而不是五月天 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9103905)<br>五月天 周杰伦 Nell...<br>2019-07-15 18:50<br>赞(1) 踩(0) | <div>转眼间来福胶泥都十一年了<br>最初跑来虾米音乐听歌还是因为旅行团而不是五月天 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314517562)<br><br>2019-07-14 00:51<br>赞(0) 踩(0) | <div>喜欢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22711777)<br>这家伙很聪明什么也没留下<br>2019-07-13 16:23<br>赞(1) 踩(0) | <div>啊……错过旅行团好多年，错过了一个在B站有团综的宝藏乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335094935)<br>我还没想好要写什么...<br>2019-07-08 13:19<br>赞(30) 踩(0) | <div>有多少是看了乐队的夏天来的呀，举爪</div> |
@@ -109,7 +109,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4048199)<br> <br>2019-06-15 00:12<br>赞(1) 踩(0) | <div>以前听旅行团，现在是，以后也是</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11512578)<br><br>2019-06-12 21:29<br>赞(0) 踩(0) | <div>从每日推荐挖到宝啦！！超喜欢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39035259)<br>暂无签名~<br>2019-05-23 22:08<br>赞(0) 踩(0) | <div>快点把版权买到呀，痛苦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25471222)<br>对自由有多大的理解 就有...<br>2019-05-02 21:38<br>赞(0) 踩(0) | <div>为什么柳州的乐队竟然从不回柳州演出我不懂。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25471222)<br>对自由有多大的理解 就有...<br>2019-05-02 21:38<br>赞(0) 踩(0) | <div>为什么柳州的乐队<br>竟然从不回柳州演出<br>我不懂。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199210)<br>祈福蝦米不要倒閉⋯<br>2019-07-07 02:53<br>赞(0) 踩(0) | <div>柳州受众不够多，Tour也要算成本的啦，他们以前也在柳有演出的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47494497)<br>李志、陈升，“虾米也没有...<br>2019-05-01 20:37<br>赞(0) 踩(0) | <div>后劲不足</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8125164)<br>我还没想好要写什么...<br>2019-04-18 13:07<br>赞(0) 踩(0) | <div>啥时候能听鸭</div> |
@@ -131,7 +131,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271717211)<br>明明绝配 犯众憎便放开<br>2018-07-28 17:21<br>赞(0) 踩(0) | <div>温柔又温暖</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22673793)<br><br>2018-06-26 16:03<br>赞(0) 踩(0) | <div>希望巡演来杭州</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22673793)<br><br>2018-06-26 16:02<br>赞(0) 踩(0) | <div>很好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29045154)<br>新的一年 继续爱着顾医生<br>2018-06-23 00:45<br>赞(0) 踩(0) | <div>期待7月一日长沙的演出 票已买好 有同行的吗想想最先开始听旅行团的歌听的是lonely day转眼过去五年 终于能看次现场了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29045154)<br>新的一年 继续爱着顾医生<br>2018-06-23 00:45<br>赞(0) 踩(0) | <div>期待7月一日长沙的演出 票已买好 有同行的吗<br>想想最先开始听旅行团的歌听的是lonely day转眼过去五年 终于能看次现场了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4177478)<br>diversity<br>2018-07-01 09:08<br>赞(0) 踩(0) | <div>同长沙hhh我刚刚才听然后果断就买了很好听呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171016)<br>人们活着.静如止水<br>2018-06-22 23:27<br>赞(0) 踩(0) | <div>新专辑哪里买？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220075)<br>老老实实或者不老老实实的...<br>2018-06-21 20:22<br>赞(0) 踩(0) | <div>啥时候来深圳啊亲爱的们</div> |
@@ -148,14 +148,14 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2452862)<br>像时间一样的爱你<br>2018-03-05 13:28<br>赞(2) 踩(0) | <div>歌呢，。？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275454622)<br>装<br>2018-02-06 00:47<br>赞(2) 踩(0) | <div>把旅行团分支到后摇里真是个大胆的选择</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31066726)<br>生命將荒，唯精神永存<br>2018-02-05 14:52<br>赞(0) 踩(0) | <div>Sunshine Pop <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202160717)<br>泛舟当歌<br>2017-12-24 22:11<br>赞(0) 踩(0) | <div>我最喜欢永远都会在我永远都会在</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202160717)<br>泛舟当歌<br>2017-12-24 22:11<br>赞(0) 踩(0) | <div>我最喜欢永远都会在<br>我永远都会在</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55396963)<br><br>2017-12-23 10:22<br>赞(2) 踩(0) | <div>表白旅行团♡下载过音乐APP里能下载的每一首歌反反复复的听，似乎只要打上旅行团的名字就一定是安心的好作品。每一首歌都契合不同的心情，有不羁，有忧伤，有怀念，有温暖，有肆意的年轻也有沉稳的心。_(:з」&amp;ang;)_最后祝旅行团越来越好，各位要天天开心！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50593447)<br>画面里是你和山川<br>2017-12-18 11:23<br>赞(3) 踩(0) | <div>我们有螺蛳粉微信群 我可以拉大家进群每天说活动 分享视频什么 我微信yxt15192576742~welcome~ <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84010550)<br> <br>2017-12-10 11:26<br>赞(0) 踩(0) | <div>今天第一次听到，还蛮好听的，加油(ง &amp;bull;̀_&amp;bull;́)ง</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61054902)<br>歌单很乱<br>2017-11-30 22:19<br>赞(0) 踩(0) | <div>没有版权很难受 <img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337218572)<br><br>2017-11-29 02:07<br>赞(0) 踩(0) | <div>爱你们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20147189)<br>嘘<br>2017-11-21 16:06<br>赞(2) 踩(0) | <div>喜欢旅行团的时候是高中时代 一转眼已经这么久了 错过了无数次live</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199210)<br>祈福蝦米不要倒閉⋯<br>2017-11-15 15:56<br>赞(3) 踩(0) | <div>阳光流行 Sunshine Pop , 后摇 Post-Rock虾米的tag一直很逗儿</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199210)<br>祈福蝦米不要倒閉⋯<br>2017-11-15 15:56<br>赞(3) 踩(0) | <div>阳光流行 Sunshine Pop , 后摇 Post-Rock<br>虾米的tag一直很逗儿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178884024)<br>哟 你来了<br>2017-11-08 19:06<br>赞(0) 踩(0) | <div>依旧治愈依旧给我力量</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268441823)<br><br>2017-11-04 22:28<br>赞(2) 踩(0) | <div>喜欢你们的奔跑在孤傲的路上，明天你们在我学校演唱会，超想去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1517621)<br><br>2017-10-30 10:07<br>赞(1) 踩(0) | <div>他们的歌似乎不错呢~塞耳机听还不错~上回现场没好好听~@小小栗呢 来听听乃小清新老乡乐队滴歌~@朱德不是裘德也不是朱拗 咩哈哈</div> |
@@ -241,7 +241,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6642241)<br>never stop<br>2016-09-16 20:49<br>赞(2) 踩(0) | <div>为毛现在旅行团也被贴上了后摇的标签</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14698003)<br> <br>2016-09-04 10:31<br>赞(1) 踩(0) | <div>救命啊歌都下架了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8540221)<br>这个人很懒什么也没留下<br>2016-09-01 19:29<br>赞(0) 踩(0) | <div>为什么好多歌听不了？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774208)<br>我还没想好要写什么...<br>2016-08-24 11:49<br>赞(0) 踩(0) | <div>旅行团将于10月4日于上海简单生活节演出！10月4-6日 上海世博公园 简单生活节陈绮贞、张震岳、徐佳莹、李荣浩、许巍、李志、老狼、窦靖童、陈粒、王若琳、赵雷、苏慧伦、陶晶莹、关淑怡、梁博、韦礼安、Faye飞、邱比、陈珊妮 feat 蔡健雅、MATZKA feat A-Lin、魏如萱 feat 马頔、杨乃文 feat 高旗、HUSH feat 阿肆、草东没有派对、万能青年旅店、逃跑计划、好妹妹、旅行团、果味VC、谢震廷、Hello Nico、声音玩具……众星云集！微博：@简单生活节上海 <a href="http://weibo.com/simplelifeshanghai" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/simplelifeshanghai</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774208)<br>我还没想好要写什么...<br>2016-08-24 11:49<br>赞(0) 踩(0) | <div>旅行团将于10月4日于上海简单生活节演出！<br><br>10月4-6日 上海世博公园 简单生活节<br><br>陈绮贞、张震岳、徐佳莹、李荣浩、许巍、李志、老狼、窦靖童、陈粒、王若琳、赵雷、苏慧伦、陶晶莹、关淑怡、梁博、韦礼安、Faye飞、邱比、陈珊妮 feat 蔡健雅、MATZKA feat A-Lin、魏如萱 feat 马頔、杨乃文 feat 高旗、HUSH feat 阿肆、草东没有派对、万能青年旅店、逃跑计划、好妹妹、旅行团、果味VC、谢震廷、Hello Nico、声音玩具……众星云集！<br><br>微博：@简单生活节上海 <a href="http://weibo.com/simplelifeshanghai" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/simplelifeshanghai</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8133569)<br><br>2016-08-15 12:34<br>赞(0) 踩(0) | <div>爵士小调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47461486)<br> <br>2016-08-09 21:03<br>赞(0) 踩(0) | <div>沉迷于这个旅行团，希望大家都不要来搜来听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204734298)<br><br>2016-07-28 13:51<br>赞(0) 踩(0) | <div>旅行团唱的歌最好听</div> |
@@ -304,7 +304,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18985669)<br>悲观过界<br>2016-03-19 11:01<br>赞(0) 踩(0) | <div>广州！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171016)<br>人们活着.静如止水<br>2016-03-19 10:31<br>赞(1) 踩(0) | <div>新巡演咋不来上海圈钱呢！ <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4793008)<br><br>2016-03-19 10:22<br>赞(0) 踩(0) | <div>6.11 重庆等你们！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18130051)<br>你能成为那个你<br>2016-03-19 09:44<br>赞(2) 踩(0) | <div>【万有音乐系】“新开世界”—旅行团乐队2016年巡回演唱会：[南宁 2016-05-20 周五 19:30][深圳 2016-06-03 周五 19:30][广州 2016-06-04 周六 20:00][厦门 2016-06-05 周日 19:30][昆明 2016-06-10 周五 19:30][重庆 2016-06-11 周六 19:30][成都 2016-06-12 周日 19:30]票务详情登陆：<a href="http://www.musikid.com/tour/3825" target="_blank" rel="nofollow noreferrer noopener">http://www.musikid.com/tour/3825</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18130051)<br>你能成为那个你<br>2016-03-19 09:44<br>赞(2) 踩(0) | <div>【万有音乐系】“新开世界”—旅行团乐队2016年巡回演唱会：<br>[南宁 2016-05-20 周五 19:30]<br>[深圳 2016-06-03 周五 19:30]<br>[广州 2016-06-04 周六 20:00]<br>[厦门 2016-06-05 周日 19:30]<br>[昆明 2016-06-10 周五 19:30]<br>[重庆 2016-06-11 周六 19:30]<br>[成都 2016-06-12 周日 19:30]<br>票务详情登陆：<a href="http://www.musikid.com/tour/3825" target="_blank" rel="nofollow noreferrer noopener">http://www.musikid.com/tour/3825</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32025162)<br><br>2016-03-12 00:21<br>赞(0) 踩(0) | <div>声音听怀孕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1375269)<br>吾识郁<br>2016-03-10 16:01<br>赞(0) 踩(0) | <div>lonely day 一直是我大学毕业至权力的游戏出现之前的手机铃声(*￣▽￣)y</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6745743)<br><br>2016-03-06 19:22<br>赞(0) 踩(0) | <div>有一种朴树的感觉！路转粉</div> |
@@ -323,14 +323,14 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22353890)<br><br>2016-02-04 15:31<br>赞(0) 踩(0) | <div>特别</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15253814)<br>爱属性吸收<br>2016-02-02 01:10<br>赞(0) 踩(0) | <div>最新的爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29217341)<br> <br>2016-02-01 12:44<br>赞(0) 踩(0) | <div><img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png">骄傲</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583786)<br><br>2016-01-30 03:02<br>赞(33) 踩(0) | <div>想了很久，跑来写下一点想法。我之前说“旅行团是唯一能听进去的正能量了”，后来我好好想了下“正能量”。写歌其实没那么难，表达点情绪，发发牢骚，这个地步很多人都能做到，但是要写一首正能量的好歌，真的很难很难。写正能量的歌很容易落俗，很容易假大空，“坚强、力量、勇敢”这种词一出来就感觉太苍白了，可以联想下自己安慰面对人生挫折的朋友的那种无力感。类似《春天里》这样的歌，要说也算正能量，但是太沉郁，主要是激发人的一种悲愤。旅行团的歌，大都真诚不作，不激不悲，面对现实有种傻乎乎的浪漫。他们居然还在试图温暖一些素未谋面的人，所以我能听进去。我宁愿相信他们是几个永远不会有烦恼的人，所以请一定保持微笑。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583786)<br><br>2016-01-30 03:02<br>赞(33) 踩(0) | <div>想了很久，跑来写下一点想法。我之前说“旅行团是唯一能听进去的正能量了”，后来我好好想了下“正能量”。写歌其实没那么难，表达点情绪，发发牢骚，这个地步很多人都能做到，但是要写一首正能量的好歌，真的很难很难。<br>写正能量的歌很容易落俗，很容易假大空，“坚强、力量、勇敢”这种词一出来就感觉太苍白了，可以联想下自己安慰面对人生挫折的朋友的那种无力感。类似《春天里》这样的歌，要说也算正能量，但是太沉郁，主要是激发人的一种悲愤。旅行团的歌，大都真诚不作，不激不悲，面对现实有种傻乎乎的浪漫。他们居然还在试图温暖一些素未谋面的人，所以我能听进去。<br>我宁愿相信他们是几个永远不会有烦恼的人，所以请一定保持微笑。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583786)<br><br>2016-02-03 15:14<br>赞(0) 踩(0) | <div><q><b>_Reckless说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2156822)<br>Serenade<br>2016-02-04 00:14<br>赞(0) 踩(0) | <div><q><b>谁是我的MP3说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2156822)<br>Serenade<br>2017-10-28 00:43<br>赞(0) 踩(0) | <div>我觉得近年来听过唯一特别特别优秀的正能量新歌就是夜空中最亮的星 别的再没有了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8373666)<br>白白净净圆圆胖胖<br>2016-01-28 18:36<br>赞(0) 踩(0) | <div>终于要成为后摇团了吗[带墨镜笑]期待</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93326036)<br><br>2016-01-28 09:22<br>赞(0) 踩(0) | <div>旅行团旅行团爱你们爱你们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49719929)<br>*******，****...<br>2016-01-26 01:33<br>赞(0) 踩(0) | <div>今天才知道原来掏粪男孩走的是阳光流行路线…</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82960490)<br>借我十年，借我生猛与莽撞...<br>2016-01-20 21:06<br>赞(0) 踩(0) | <div>好想嫁孔阳，但是差好多岁 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">孔阳我要给你生猴子！！！！ <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82960490)<br>借我十年，借我生猛与莽撞...<br>2016-01-20 21:06<br>赞(0) 踩(0) | <div>好想嫁孔阳，但是差好多岁 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"><br>孔阳我要给你生猴子！！！！ <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82960490)<br>借我十年，借我生猛与莽撞...<br>2016-01-26 20:00<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82960490)<br>借我十年，借我生猛与莽撞...<br>2016-01-26 20:53<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32372247)<br>she can turn...<br>2016-01-20 16:45<br>赞(1) 踩(0) | <div>标签什么鬼，旅行团后摇？</div> |
@@ -413,7 +413,7 @@ span.Apple-tab-span {white-space:pre}
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/588121)<br>我还没想好要写什么...<br>2015-11-10 10:19<br>赞(0) 踩(0) | <div><q><b>毛毛是个好姑娘说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1626495)<br><br>2015-10-31 17:18<br>赞(0) 踩(0) | <div>赞！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18985669)<br>悲观过界<br>2015-10-30 22:14<br>赞(0) 踩(0) | <div>我不管我要和孔阳约会我要和他一起卖螺蛳粉我要和他一起去跑马拉松他是旱鸭子我是深海鲸鱼我要和他过个summer holiday</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33526842)<br>乐手与人生<br>2015-10-29 03:09<br>赞(0) 踩(0) | <div>哎，北展阿，离家好近。在国外的留学僧伤不起t t</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33526842)<br>乐手与人生<br>2015-10-29 03:09<br>赞(0) 踩(0) | <div>哎，北展阿，离家好近。<br>在国外的留学僧伤不起t t</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48083555)<br>嗨，好喜欢你<br>2015-10-28 22:45<br>赞(0) 踩(0) | <div>最爱于是我不再唱歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/675670)<br>我不会再来这里<br>2015-10-28 13:35<br>赞(0) 踩(0) | <div>难得的开心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37509953)<br>生生不息，奋斗不已<br>2015-10-26 13:10<br>赞(0) 踩(0) | <div>我也喜欢这乐队。。太赞了！</div> |
@@ -438,7 +438,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1618680)<br>Survive to m...<br>2015-09-24 11:25<br>赞(3) 踩(0) | <div>终于等到北京演唱会！泪！目！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41716342)<br> <br>2015-09-24 11:09<br>赞(2) 踩(0) | <div>10.3沙滩音乐节见 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55029394)<br>一只生于夏末初秋的妖怪 ...<br>2015-09-22 07:48<br>赞(42) 踩(0) | <div>一个不再唱歌 要去卖螺蛳粉的乐队 惊艳了我</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774208)<br>我还没想好要写什么...<br>2015-09-12 22:58<br>赞(1) 踩(0) | <div>10.5（一） 上海 简单生活节 街声舞台 13:20-14:10大麦：<a href="http://item.damai.cn/85484.html" target="_blank" rel="nofollow noreferrer noopener">http://item.damai.cn/85484.html</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774208)<br>我还没想好要写什么...<br>2015-09-12 22:58<br>赞(1) 踩(0) | <div>10.5（一） 上海 简单生活节 街声舞台 13:20-14:10<br><br>大麦：<a href="http://item.damai.cn/85484.html" target="_blank" rel="nofollow noreferrer noopener">http://item.damai.cn/85484.html</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8563410)<br>世界之大我却不知其折或远<br>2015-09-11 19:43<br>赞(0) 踩(0) | <div>谢谢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3851702)<br>爱我就给我看你的播放列表<br>2015-09-09 09:33<br>赞(1) 踩(0) | <div>【10.3（六）珠海 国际沙滩音乐节】求同行啊啊啊啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15306839)<br>#<br>2015-09-08 15:43<br>赞(2) 踩(0) | <div>啊~我团的演出新公告，真真是完美的错过了任何一场.....哭没累</div> |
@@ -530,7 +530,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21255023)<br>.<br>2015-05-20 15:28<br>赞(1) 踩(0) | <div>乐谷和首发好像都唱了的那首 奔跑在孤傲的路上 哪去了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341091)<br>偶爱我们呢~<br>2015-05-20 11:43<br>赞(2) 踩(0) | <div>生命是场马拉松才发几天就到第三了……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8943891)<br>你咋那么可爱？<br>2015-05-20 11:20<br>赞(2) 踩(0) | <div>从 厦门之夏 开始喜欢你们</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12996076)<br>我还没想好要写什么...<br>2015-05-19 21:28<br>赞(1) 踩(0) | <div>虽说是家乡的乐队 但前几年旅行团在柳州开唱的时候并不太了解他们没有去看。恩 这次在广州不会错过啦:)（天呐第一次在PC版看到表情越来那么大2333</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12996076)<br>我还没想好要写什么...<br>2015-05-19 21:28<br>赞(1) 踩(0) | <div>虽说是家乡的乐队 但前几年旅行团在柳州开唱的时候并不太了解他们没有去看。恩 这次在广州不会错过啦:)<br>（天呐第一次在PC版看到表情越来那么大2333</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4233247)<br><br>2015-05-21 09:50<br>赞(0) 踩(0) | <div>柳州阿妹你好~广州站约咩？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12996076)<br>我还没想好要写什么...<br>2015-05-22 01:22<br>赞(0) 踩(0) | <div><q><b>Bimgle说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4233247)<br><br>2015-05-29 13:38<br>赞(0) 踩(0) | <div><q><b>-说：</b></q></div> |
@@ -590,7 +590,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23754052)<br>你听过千百首歌，真实的日...<br>2015-02-09 08:52<br>赞(2) 踩(0) | <div>人生的一次挫折，还是要听你们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9604319)<br>Dreamer<br>2015-01-08 13:16<br>赞(1) 踩(0) | <div>安静，舒服的声音和文字。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10322866)<br>云淡风轻<br>2015-01-04 10:49<br>赞(2) 踩(0) | <div>轻快的音乐，温柔的声音，清新的打扮，喜欢这个团。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5386201)<br><br>2015-01-04 00:39<br>赞(1) 踩(0) | <div>旅行团2015年首演：北京雍和宫糖果三层 2015-01-11 周日 19:30乐童售票地址：<a href="http://www.musikid.com/tour/326" target="_blank" rel="nofollow noreferrer noopener">http://www.musikid.com/tour/326</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5386201)<br><br>2015-01-04 00:39<br>赞(1) 踩(0) | <div>旅行团2015年首演：<br>北京雍和宫糖果三层 2015-01-11 周日 19:30<br>乐童售票地址：<a href="http://www.musikid.com/tour/326" target="_blank" rel="nofollow noreferrer noopener">http://www.musikid.com/tour/326</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14038072)<br>我还没想好要写什么...<br>2015-01-03 21:01<br>赞(1) 踩(0) | <div>在家乡的现场唱哭了 也是蛮感人的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1323168)<br>世界在下沉,我们在狂欢<br>2015-01-01 21:01<br>赞(1) 踩(0) | <div>封面太难看</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43927820)<br><br>2014-12-28 16:19<br>赞(1) 踩(0) | <div>O(∩_∩)O</div> |
@@ -611,7 +611,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12175292)<br>前已无通路，后不见归途。<br>2014-12-03 16:15<br>赞(0) 踩(0) | <div>12.18魔都mao livehouse，有一起的吗  包接包送~~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32907594)<br><br>2014-12-14 12:01<br>赞(0) 踩(0) | <div>有去的 已经订好票了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9360414)<br>我比一只昆虫小<br>2014-12-03 14:00<br>赞(0) 踩(0) | <div>在大概就是心中的乌托邦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3781923)<br>别拒绝上帝。<br>2014-12-01 20:00<br>赞(0) 踩(0) | <div>音乐不错！顶了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3781923)<br>别拒绝上帝。<br>2014-12-01 20:00<br>赞(0) 踩(0) | <div>音乐不错！<br>顶了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33810698)<br>.<br>2014-11-23 16:00<br>赞(0) 踩(0) | <div>真棒！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39499468)<br><br>2014-11-21 15:06<br>赞(0) 踩(0) | <div>旅行团陪我度过，红楼的那段日子。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12295261)<br><br>2014-11-20 15:30<br>赞(0) 踩(0) | <div>no reason</div> |
@@ -630,7 +630,7 @@ span.Apple-tab-span {white-space:pre}
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33634014)<br>网易云音乐：乌昂科尔<br>2014-10-23 16:14<br>赞(0) 踩(0) | <div>oh my story</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41772613)<br>邓敬融<br>2014-09-29 21:33<br>赞(0) 踩(0) | <div>8年</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28091184)<br>我不是归人 我是过客<br>2014-09-22 19:57<br>赞(0) 踩(0) | <div>世园音乐节棒啊！孔阳我要给你生猴子！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9696232)<br>who are U？别跟...<br>2014-09-22 12:04<br>赞(0) 踩(0) | <div>除了lonely day和于是我不再唱歌最爱 panda</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9696232)<br>who are U？别跟...<br>2014-09-22 12:04<br>赞(0) 踩(0) | <div>除了lonely day和于是我不再唱歌<br>最爱 panda</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1730251)<br><br>2014-09-21 12:35<br>赞(0) 踩(0) | <div>什么时候来深圳</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2165687)<br>我喜欢浪，我也喜欢海<br>2014-09-20 22:06<br>赞(0) 踩(0) | <div>哈哈哈，安会老乡乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2271457)<br> <br>2014-09-19 05:47<br>赞(0) 踩(0) | <div>家乡骄傲:)</div> |
@@ -641,11 +641,11 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8422716)<br><br>2014-09-13 21:57<br>赞(1) 踩(0) | <div>广西那边出音乐人和乐队比较多啊，我发现我喜欢的乐队和歌手很多都是广西的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14038072)<br>我还没想好要写什么...<br>2015-01-03 20:59<br>赞(0) 踩(0) | <div>有眼光</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10735252)<br>keep running<br>2014-09-10 11:37<br>赞(1) 踩(0) | <div>于是我不再唱歌的时候正好期末，每天单曲循环啊，好听到要死，不解释</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143338)<br>~~~~~~~~~~~~<br>2014-08-30 19:48<br>赞(4) 踩(0) | <div>第一次听到旅行团就是在现场，去年的长春恒大星光音乐节，和妹子一起去的厦门之夏 Byebye 这两首歌印象比较深刻现在妹子是我女朋友^_^</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143338)<br>~~~~~~~~~~~~<br>2014-08-30 19:48<br>赞(4) 踩(0) | <div>第一次听到旅行团就是在现场，去年的长春恒大星光音乐节，和妹子一起去的<br><br>厦门之夏 Byebye 这两首歌印象比较深刻<br><br>现在妹子是我女朋友^_^</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/895210)<br><br>2014-09-04 09:17<br>赞(0) 踩(0) | <div>好幸福啊~祝福祝福！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5642927)<br><br>2014-11-11 22:53<br>赞(0) 踩(0) | <div>除了祝福不知道能说什么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9114732)<br>这里不错呢<br>2014-08-30 15:52<br>赞(0) 踩(0) | <div>纯</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4177567)<br>我还没想好要写什么...<br>2014-08-29 20:44<br>赞(0) 踩(0) | <div>从初中喜欢旅行团到现在高中毕业总算要见到活的了（笑）再次表示期待橘洲音乐节~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4177567)<br>我还没想好要写什么...<br>2014-08-29 20:44<br>赞(0) 踩(0) | <div>从初中喜欢旅行团到现在高中毕业总算要见到活的了（笑）<br>再次表示期待橘洲音乐节~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34890556)<br>我还没想好要写什么...<br>2014-11-23 00:30<br>赞(0) 踩(0) | <div>同在长沙的粉握个手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35565765)<br><br>2014-08-22 20:10<br>赞(0) 踩(0) | <div>新砖何时发啊？好期待</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18130051)<br>你能成为那个你<br>2014-08-26 21:13<br>赞(0) 踩(0) | <div>唱片已经在筹备 希望2015发行</div> |
@@ -684,7 +684,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3543991)<br><br>2014-06-13 22:01<br>赞(0) 踩(0) | <div>西湖音乐节爱上的乐队</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6545705)<br>ooooo……在于不不不<br>2014-06-17 15:14<br>赞(0) 踩(0) | <div>Subclassm slyyh</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22533521)<br><br>2014-06-13 04:21<br>赞(0) 踩(0) | <div>I am late to follow up on these guys.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2014596)<br>未来中国期神<br>2014-06-09 14:28<br>赞(0) 踩(0) | <div>马伊琍的“且行且珍惜”原来出自旅行团的“于是我不再唱歌”呵呵</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2014596)<br>未来中国期神<br>2014-06-09 14:28<br>赞(0) 踩(0) | <div>马伊琍的“且行且珍惜”原来出自旅行团的“于是我不再唱歌”<br>呵呵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361451)<br><br>2014-06-06 22:12<br>赞(0) 踩(0) | <div>小清新。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11912828)<br>I have loved...<br>2014-06-01 20:02<br>赞(0) 踩(0) | <div>会吧，只要能够安全的走过一条很长很长的公路，那么也会看到那么多小小的船</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12980424)<br>温柔地对待这个世界，也温...<br>2014-05-31 22:01<br>赞(0) 踩(0) | <div>罗马假日，意外的好听呢。挑不出毛病，耳朵非常舒服。循环中。。</div> |
@@ -730,7 +730,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33808812)<br><br>2014-04-19 22:52<br>赞(0) 踩(0) | <div>小南</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177444)<br>这个家伙很聪明神马也没留...<br>2014-04-19 01:18<br>赞(0) 踩(0) | <div>很久以前很喜欢一直听听到觉得腻，突然又听又喜欢上啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11648464)<br>~<br>2014-04-16 14:41<br>赞(0) 踩(0) | <div>~~~~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29901699)<br><br>2014-04-15 17:58<br>赞(0) 踩(0) | <div>是我寻找你 还是你寻找我还是我根本找不到我自己</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29901699)<br><br>2014-04-15 17:58<br>赞(0) 踩(0) | <div>是我寻找你 还是你寻找我<br>还是我根本找不到我自己</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/658922)<br>暂无签名~<br>2014-04-15 16:02<br>赞(0) 踩(0) | <div>可爱的小清新，现场非常有活力~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4383509)<br>收集狂<br>2014-04-14 13:05<br>赞(0) 踩(0) | <div>真的很不错耶！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6855780)<br><br>2014-04-13 11:02<br>赞(0) 踩(0) | <div>小清新</div> |
@@ -761,13 +761,13 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12476111)<br>让我们紧紧依靠在一起<br>2014-01-12 09:42<br>赞(0) 踩(0) | <div>哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31342189)<br>飞去南方。<br>2014-01-09 17:32<br>赞(0) 踩(0) | <div>一个不小心，陷入温暖。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6375001)<br><br>2014-01-08 17:55<br>赞(0) 踩(0) | <div>现身</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18130051)<br>你能成为那个你<br>2014-01-08 17:27<br>赞(1) 踩(0) | <div>敬请大家关注！【唱片官网购买：<a href="http://buy.modernsky.com/index.php?controller=site&amp;amp;action=products&amp;amp;id=242" target="_blank" rel="nofollow noreferrer noopener">http://buy.modernsky.com/index.php?controller=site&amp;amp;action=products&amp;amp;id=242</a>】【巡演官方预售：<a href="http://buy.modernsky.com/index.php?controller=site&amp;amp;action=products&amp;amp;id=237" target="_blank" rel="nofollow noreferrer noopener">http://buy.modernsky.com/index.php?controller=site&amp;amp;action=products&amp;amp;id=237</a>】</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18130051)<br>你能成为那个你<br>2014-01-08 17:27<br>赞(1) 踩(0) | <div>敬请大家关注！<br>【唱片官网购买：<a href="http://buy.modernsky.com/index.php?controller=site&amp;amp;action=products&amp;amp;id=242" target="_blank" rel="nofollow noreferrer noopener">http://buy.modernsky.com/index.php?controller=site&amp;amp;action=products&amp;amp;id=242</a>】<br>【巡演官方预售：<a href="http://buy.modernsky.com/index.php?controller=site&amp;amp;action=products&amp;amp;id=237" target="_blank" rel="nofollow noreferrer noopener">http://buy.modernsky.com/index.php?controller=site&amp;amp;action=products&amp;amp;id=237</a>】</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31241795)<br><br>2014-01-07 14:46<br>赞(0) 踩(0) | <div>喜欢主唱有吸引力的声音·····</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7203901)<br><br>2014-01-05 18:07<br>赞(0) 踩(0) | <div>小清新到不行，整的很治愈=w=</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11322272)<br>我还没想好要写什么...<br>2014-01-04 00:07<br>赞(1) 踩(0) | <div>太过清新，自觉退出。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30954332)<br><br>2014-01-02 22:07<br>赞(0) 踩(0) | <div>11号来长沙，去看你们~有多少长沙的一起？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9810085)<br><br>2014-01-02 18:38<br>赞(0) 踩(0) | <div>熊美女推荐的，果断搜藏了咯~~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3465037)<br>stay gold<br>2014-01-01 23:43<br>赞(1) 踩(0) | <div>最喜欢的歌排名无先后：于是我不再唱歌 悠长假期 marry 厦门之夏 bye bye 等你吃饭然后Live的话就所有歌都好听了么么哒 希望今年还能见到哟</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3465037)<br>stay gold<br>2014-01-01 23:43<br>赞(1) 踩(0) | <div>最喜欢的歌排名无先后：于是我不再唱歌 悠长假期 marry 厦门之夏 bye bye 等你吃饭<br>然后Live的话就所有歌都好听了<br>么么哒 希望今年还能见到哟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30444250)<br><br>2013-12-31 17:12<br>赞(0) 踩(0) | <div>清新小调~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6340830)<br>Made in xi a...<br>2013-12-31 09:04<br>赞(0) 踩(0) | <div>旅行团总能带来惊喜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6360873)<br>不打扰 是我仅有的礼貌<br>2013-12-30 16:22<br>赞(0) 踩(0) | <div>再次關注</div> |
@@ -799,7 +799,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4138223)<br><br>2013-12-18 13:41<br>赞(0) 踩(0) | <div>旅行团</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2712838)<br>来福胶泥<br>2013-12-18 10:06<br>赞(1) 踩(0) | <div>听完于是我不再唱歌，我只能用厦门之夏调节一下。。。。一天的心情基调啊。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6586753)<br>冷起来是个迷<br>2013-12-18 10:03<br>赞(0) 踩(0) | <div>我也最喜欢  他们 翻唱新裤子的《我不想失去你》</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73)<br>等风景都看透 谁陪我看细...<br>2013-12-17 13:12<br>赞(0) 踩(0) | <div>【2013-2014全新ep《于是我不再唱歌》全国巡演】上海 12.27 MAO（周五）（首发站）广州 12.28酒球会(周六)公告栏里写错了 28号酒球会应该是杭州</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73)<br>等风景都看透 谁陪我看细...<br>2013-12-17 13:12<br>赞(0) 踩(0) | <div>【2013-2014全新ep《于是我不再唱歌》全国巡演】<br>上海 12.27 MAO（周五）（首发站）<br>广州 12.28酒球会(周六)<br><br>公告栏里写错了 28号酒球会应该是杭州</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15306839)<br>#<br>2013-12-10 22:25<br>赞(0) 踩(0) | <div>暖风。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3289828)<br><br>2013-12-09 13:12<br>赞(0) 踩(0) | <div>旅行团</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10161023)<br><br>2013-12-04 05:23<br>赞(0) 踩(0) | <div>nice</div> |
@@ -809,7 +809,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26246185)<br><br>2013-11-30 09:50<br>赞(0) 踩(0) | <div>很happy的曲风·</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24491741)<br>Your love is...<br>2013-11-28 16:02<br>赞(0) 踩(0) | <div>喜欢，觉得有一种特别的感觉。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12727116)<br> <br>2013-11-27 22:24<br>赞(0) 踩(0) | <div>一般人都会喜欢的小清新类型，听得也酥服~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11275848)<br>往柳暗花明山穷水尽去<br>2013-11-27 20:19<br>赞(0) 踩(0) | <div>复习疲软今天shuffle到这个就完！全！停！不！下！来！了！   super fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuun!!! 大like!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11275848)<br>往柳暗花明山穷水尽去<br>2013-11-27 20:19<br>赞(0) 踩(0) | <div>复习疲软今天shuffle到这个就完！全！停！不！下！来！了<br>！   super fuuuuuuuuuuuuuuuuuuu<br>uuuuuuuuuuuuuuuuuuuuuun!!! 大li<br>ke!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>!!!!!!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3910283)<br>基本款<br>2013-11-28 19:47<br>赞(0) 踩(0) | <div>蛋定蛋定</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1341405)<br>爱一个人，会吻她的缺点<br>2013-11-26 20:00<br>赞(0) 踩(0) | <div>很慢很摇～～～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/737826)<br>交流－分享<br>2013-11-25 17:50<br>赞(0) 踩(0) | <div>好听，舒服，小清新。</div> |
@@ -825,7 +825,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26333022)<br>赶在霓虹遍满城市前。<br>2013-11-08 16:52<br>赞(0) 踩(0) | <div>旅行社</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13898201)<br>爱音乐爱生活<br>2013-11-04 20:21<br>赞(0) 踩(0) | <div>喜欢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17601536)<br>！<br>2013-11-02 17:55<br>赞(0) 踩(0) | <div>~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10301081)<br><br>2013-10-29 15:44<br>赞(0) 踩(0) | <div>我家小笨笨喜欢我就喜欢。各种小清新让我找回高中的那个大笨笨。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10301081)<br><br>2013-10-29 15:44<br>赞(0) 踩(0) | <div>我家小笨笨喜欢我就喜欢。<br>各种小清新让我找回高中的那个大笨笨。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11016221)<br>爱英伦 爱摇滚<br>2013-10-29 12:11<br>赞(0) 踩(0) | <div>大爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25125563)<br>伪文艺真汉子的酒窝君<br>2013-10-22 20:31<br>赞(1) 踩(0) | <div>小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7640610)<br>嘿<br>2013-10-22 02:03<br>赞(0) 踩(0) | <div>最喜欢的独立！没有之一！</div> |
@@ -877,7 +877,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7322777)<br>∮<br>2013-10-01 05:01<br>赞(0) 踩(0) | <div>蝦米通知:  生日快樂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6658838)<br><br>2013-09-30 21:47<br>赞(0) 踩(0) | <div>音乐节我站在第一排听见你唱岛屿 我特别想哭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7492419)<br>再也不去音乐节了<br>2013-09-30 20:13<br>赞(1) 踩(0) | <div>音乐节上站在第一排 《于是我不再唱歌》然后旁边陌生的男孩子开始掉眼泪</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7852926)<br><br>2013-09-29 12:30<br>赞(0) 踩(0) | <div>09年在武汉上大学那会跟同学玩乐队 旅行团的悠长假期 在楚天音乐广播打榜 喜欢上旅行团 同年还在vox看了他们的专场！记得之前他们跟着彭坦   来过一次vox ！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7852926)<br><br>2013-09-29 12:30<br>赞(0) 踩(0) | <div>09年在武汉上大学那会跟同学玩乐队 旅行团的悠长假期 在楚天音乐广播打榜 喜欢上旅行团 同年还在vox看了他们的专场！<br>记得之前他们跟着彭坦   来过一次vox ！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11033175)<br><br>2013-09-28 14:28<br>赞(0) 踩(0) | <div>配乐像极了谁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11248970)<br>任好壞開花結果。<br>2013-09-27 22:06<br>赞(0) 踩(0) | <div>@蘇打綠阿福 無論你是否聽說過他們，好的音樂多分享也無妨。這就是北京簽售會當天執意向你推薦的，我很喜歡的一個內地樂隊。你聽完之後，也可以來與我分享真切的感受：）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7415023)<br><br>2013-09-25 19:45<br>赞(0) 踩(0) | <div>第一次听他们的歌曲就是《罗马假日》</div> |
@@ -908,19 +908,19 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9468864)<br><br>2013-07-30 14:24<br>赞(0) 踩(0) | <div>淡淡的小清新~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5708413)<br>音乐是个好东西<br>2013-07-30 10:10<br>赞(0) 踩(0) | <div>最喜欢lonely day</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1747310)<br>小2号<br>2013-07-29 22:29<br>赞(0) 踩(0) | <div>希望旅行团能够保持第一张专辑“等你吃饭”的风格，坚持英伦范儿~永远支持你们！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6281639)<br><br>2013-07-29 19:20<br>赞(0) 踩(0) | <div>华语乐坛新作品难得让我耳目一新的作品和乐队!旅行团算一个.希望不要学周董,虽然他依旧很红,但是曲风已经向市场妥协了,对我来说没有追的意义了.最喜欢他还是第一张的印第安老斑鸠.希望旅行团坚持英伦范,不要向市场妥协!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6281639)<br><br>2013-07-29 19:20<br>赞(0) 踩(0) | <div>华语乐坛新作品难得让我耳目一新的作品和乐队!旅行团算一个.<br>希望不要学周董,虽然他依旧很红,但是曲风已经向市场妥协了,对我来说没有追的意义了.最喜欢他还是第一张的印第安老斑鸠.<br>希望旅行团坚持英伦范,不要向市场妥协!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9306238)<br>一念清静，烈焰城池<br>2013-07-29 16:39<br>赞(0) 踩(0) | <div>一直停留在《take me away》，这次听了发现颇有感触</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73)<br>等风景都看透 谁陪我看细...<br>2013-07-29 10:59<br>赞(0) 踩(0) | <div>耶，你们来了！欢迎欢迎！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1368035)<br>只有音乐才是我的解药<br>2013-07-29 10:41<br>赞(1) 踩(0) | <div>夏日首选消暑良品！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/660968)<br>一起去狗带<br>2013-07-29 10:19<br>赞(0) 踩(0) | <div>就等你们啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2746539)<br> <br>2013-07-29 01:14<br>赞(0) 踩(0) | <div>啊啊啊啊啊撒花！！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-07-29 00:28<br>赞(0) 踩(0) | <div>广西人民发来贺电1479277,16451,673</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-07-29 00:28<br>赞(0) 踩(0) | <div>广西人民发来贺电<br>1479277,16451,673</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3094486)<br><br>2013-07-28 23:47<br>赞(0) 踩(0) | <div>我大柳州的乐队很棒啊~加油！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2513986)<br>好久好久     没来遛...<br>2013-07-28 23:28<br>赞(0) 踩(0) | <div>加油~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9163738)<br>我还没想好要写什么...<br>2013-07-28 20:43<br>赞(0) 踩(0) | <div>终于入驻啦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2712838)<br>来福胶泥<br>2013-07-28 19:18<br>赞(0) 踩(0) | <div>入驻啦！欢心！！！撒花！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10537062)<br>一买补签必断签<br>2013-07-28 17:23<br>赞(0) 踩(0) | <div>五十六个民族，五十六之花~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5184452)<br>2012-2021我们仍...<br>2013-07-28 17:11<br>赞(0) 踩(0) | <div>我是入驻后的第一名么TAT 鸡冻...永远支持你们</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5184452)<br>2012-2021我们仍...<br>2013-07-28 17:11<br>赞(0) 踩(0) | <div>我是入驻后的第一名么TAT 鸡冻...<br>永远支持你们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9049350)<br>太多的念想<br>2013-07-27 18:29<br>赞(0) 踩(0) | <div>摇摆在旅行团的池塘里~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9175996)<br>春水初生，春林初盛，春风...<br>2013-07-23 01:14<br>赞(0) 踩(0) | <div>喜欢这种风格，这种小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9175996)<br>春水初生，春林初盛，春风...<br>2013-07-23 01:12<br>赞(0) 踩(0) | <div>喜欢歌词，喜欢这种感觉</div> |
@@ -1007,7 +1007,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8166897)<br>life of pi<br>2013-03-31 21:55<br>赞(1) 踩(0) | <div>我快融化</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9989)<br><br>2013-03-31 17:52<br>赞(0) 踩(0) | <div>小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1929915)<br><br>2013-03-23 17:46<br>赞(0) 踩(0) | <div>大爱旅行团，这才是真正的音乐。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5853203)<br>暂无签名~<br>2013-03-21 08:49<br>赞(0) 踩(0) | <div>这不算民谣应该算爵士</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5853203)<br>暂无签名~<br>2013-03-21 08:49<br>赞(0) 踩(0) | <div>这不算民谣<br>应该算爵士</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/588121)<br>我还没想好要写什么...<br>2013-04-14 19:53<br>赞(0) 踩(0) | <div>........</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1170362)<br><br>2013-04-18 16:44<br>赞(0) 踩(0) | <div>够了。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11835000)<br>承受岁月蹉跎<br>2013-03-21 00:07<br>赞(0) 踩(0) | <div>干净</div> |
@@ -1046,14 +1046,14 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1258790)<br>暗之玺<br>2012-12-13 11:37<br>赞(0) 踩(0) | <div>非常喜欢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4210852)<br><br>2012-12-13 00:40<br>赞(0) 踩(0) | <div>lonely day</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1688172)<br>不留<br>2012-12-09 22:33<br>赞(0) 踩(0) | <div>声音好好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2376577)<br><br>2012-12-09 16:15<br>赞(0) 踩(0) | <div>Bossanova，newstyleperfect！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2376577)<br><br>2012-12-09 16:15<br>赞(0) 踩(0) | <div>Bossanova，newstyle<br>perfect！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11357559)<br>我要歌唱<br>2012-12-08 23:50<br>赞(0) 踩(0) | <div>一句summer holiday 让冬日的我依然温暖……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4009831)<br>安静地听歌而已<br>2012-12-05 18:15<br>赞(0) 踩(0) | <div>好好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10626523)<br><br>2012-12-01 18:16<br>赞(0) 踩(0) | <div>最爱旅行团，无敌合口味</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7114872)<br><br>2012-11-30 15:00<br>赞(0) 踩(0) | <div>最爱的组合之一</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11363266)<br>One day .<br>2012-11-30 13:41<br>赞(0) 踩(0) | <div>轻声音  最爱  。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11363266)<br>One day .<br>2012-11-30 13:41<br>赞(0) 踩(0) | <div>轻声音 。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9033811)<br>new me , bet...<br>2012-11-27 13:30<br>赞(0) 踩(0) | <div>额，听见这首歌，一下子就变懒了这时候就应该抱一杯牛奶或者咖啡躺在沙发上看杂志啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9033811)<br>new me , bet...<br>2012-11-27 13:30<br>赞(0) 踩(0) | <div>额，听见这首歌，一下子就变懒了<br>这时候就应该抱一杯牛奶或者咖啡躺在沙发上看杂志啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2579864)<br><br>2012-11-25 06:54<br>赞(0) 踩(0) | <div>10年開始愛的樂隊。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2579864)<br><br>2012-11-25 06:32<br>赞(0) 踩(0) | <div>喜歡主唱的聲音。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11471230)<br>不插电的Young<br>2012-11-21 10:00<br>赞(0) 踩(0) | <div>很喜欢这种轻松的音乐</div> |
@@ -1070,7 +1070,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3094486)<br><br>2012-11-04 00:23<br>赞(1) 踩(0) | <div>这都是柳州仔！ 柳州的乐队柳州的柳州的！！！！ 各种美好的旋律我喜欢=3=~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6418331)<br>love music<br>2012-11-03 23:25<br>赞(0) 踩(0) | <div>音乐节认识的 感觉很不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11287622)<br><br>2012-11-01 13:38<br>赞(0) 踩(0) | <div>萌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4302754)<br>groovy<br>2012-10-29 01:39<br>赞(0) 踩(0) | <div>岛屿排名好靠后....罗马假日呢??????都不见了.............</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4302754)<br>groovy<br>2012-10-29 01:39<br>赞(0) 踩(0) | <div>岛屿排名好靠后....<br>罗马假日呢??????都不见了.............</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3960291)<br><br>2012-10-22 23:10<br>赞(0) 踩(0) | <div>适合休假听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3110390)<br><br>2012-10-21 18:46<br>赞(0) 踩(0) | <div>脑残粉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3719355)<br><br>2012-10-19 18:50<br>赞(0) 踩(0) | <div>teke me away ，很清新的歌曲</div> |
@@ -1309,7 +1309,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3237373)<br><br>2011-08-02 17:52<br>赞(0) 踩(0) | <div>马上就能听你现场了，兴奋~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5107612)<br> <br>2011-08-02 16:15<br>赞(0) 踩(0) | <div>感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2688180)<br>喜新不厌旧<br>2011-08-01 15:24<br>赞(0) 踩(0) | <div>旅行团，还真是柳州的，不顶怎么行？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4051783)<br><br>2011-07-29 20:02<br>赞(0) 踩(0) | <div>利物浦哇奥好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4051783)<br><br>2011-07-29 20:02<br>赞(0) 踩(0) | <div>利物浦<br>哇奥<br>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/753582)<br><br>2011-07-29 20:02<br>赞(0) 踩(0) | <div>一帮柳州仔。。。 柳州仔最爱装B 不过柳州妹蛮靓的 就是骚点。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4761499)<br><br>2011-07-26 22:09<br>赞(0) 踩(0) | <div>看过现场，，超有感染力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5023726)<br><br>2011-07-26 17:38<br>赞(0) 踩(0) | <div>小竹子介绍的小清新</div> |
@@ -1339,7 +1339,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3372307)<br><br>2011-07-13 01:45<br>赞(0) 踩(0) | <div>好聽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4767316)<br><br>2011-07-12 23:16<br>赞(0) 踩(0) | <div>听着舒服。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320033)<br> <br>2011-07-12 18:19<br>赞(0) 踩(0) | <div>支持下内地清新，呵呵~挺不错的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936049)<br>假装我未曾来过 或 我不...<br>2011-07-12 16:00<br>赞(0) 踩(0) | <div>在这个喧嚣城市 累了 就戴上耳机 用心来静静聆听 这一片宁静//阳光 清新 或浅浅的低吟 总会触动你心//欢迎来我的电台 <a href="http://www.xiami.com/radio/play/type/4/oid/1936049" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/radio/play/type/4/oid/1936049</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936049)<br>假装我未曾来过 或 我不...<br>2011-07-12 16:00<br>赞(0) 踩(0) | <div>在这个喧嚣城市 累了 就戴上耳机 用心来静静聆听 这一片宁静//<br><br>阳光 清新 或浅浅的低吟 总会触动你心//<br><br>欢迎来我的电台 <a href="http://www.xiami.com/radio/play/type/4/oid/1936049" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/radio/play/type/4/oid/1936049</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2839586)<br><br>2011-07-12 15:59<br>赞(0) 踩(0) | <div>不错~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/948885)<br>肖瀛、龙飞、Luka<br>2011-07-12 09:40<br>赞(0) 踩(0) | <div>酷</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4328052)<br><br>2011-07-10 23:25<br>赞(0) 踩(0) | <div>舒服</div> |
@@ -1375,7 +1375,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532570)<br><br>2011-07-01 18:32<br>赞(0) 踩(0) | <div>聆听旅行团的音乐，会让人有游走于世界各地美丽风光的奇妙之感，阳光、快乐、清新、松弛，是他们想要表达的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1607710)<br><br>2011-07-01 16:33<br>赞(0) 踩(0) | <div>喜欢他们的音乐带来的感觉。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/530459)<br><br>2011-07-01 15:35<br>赞(0) 踩(0) | <div>陪你吃饭、听歌、发呆</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2434686)<br><br>2011-06-30 23:28<br>赞(0) 踩(0) | <div>对于他们绝对的支持啊~螺蛳粉！狗肉！没懂他们的柳州话还正宗咩？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2434686)<br><br>2011-06-30 23:28<br>赞(0) 踩(0) | <div>对于他们绝对的支持啊~<br>螺蛳粉！狗肉！没懂他们的柳州话还正宗咩？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4490481)<br><br>2011-06-30 11:40<br>赞(0) 踩(0) | <div>等。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1068959)<br><br>2011-06-29 09:36<br>赞(0) 踩(0) | <div>新专辑快来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2360162)<br>九月授衣<br>2011-06-28 16:25<br>赞(0) 踩(0) | <div>《wonderful day》什么时候会有呢。。。</div> |
@@ -1388,7 +1388,7 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1859643)<br>听歌喜好变成了一个怪圈<br>2011-06-24 21:58<br>赞(0) 踩(0) | <div>陪伴我度过高三一年的Lonele Day.Take me away</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2955954)<br><br>2011-06-23 19:01<br>赞(0) 踩(0) | <div>喜欢的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3116414)<br><br>2011-06-23 12:52<br>赞(0) 踩(0) | <div>阳光、快乐、清新、松弛，是他们想要表达的。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3228576)<br><br>2011-06-22 12:32<br>赞(0) 踩(0) | <div>旅行团乐队 新专辑 巡演路线旅行团乐队2011年全国巡演路线7月1日   大连  酒窝7月2日   沈阳  大鱼音乐餐吧7月16日  天津  13Club7月22日  南京  61House7月23日  上海  MAO LIVE7月24日  杭州  酷电空间7月30日  武汉  Vox7月31日  长沙  FREEDOM HOUSE8月03日  南昌  黑铁酒吧8月05日  福州  海摇LIVE HOUSE8月06日  厦门  梦旅人音乐客栈8月12日  深圳  后青年8月13日  广州  Tu凸空间8月14日  香港  Hidden Agenda8月19日  南宁  场地近期公布8月20日  桂林  郎聚酒吧8月27日  贵阳  场地近期公布8月28日  昆明9月02日  重庆  坚果俱乐部9月03日  成都  小酒馆9月04日  西安  光圈</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3228576)<br><br>2011-06-22 12:32<br>赞(0) 踩(0) | <div>旅行团乐队 新专辑 巡演路线<br><br>旅行团乐队2011年全国巡演路线<br><br>7月1日   大连  酒窝<br>7月2日   沈阳  大鱼音乐餐吧<br>7月16日  天津  13Club<br>7月22日  南京  61House<br>7月23日  上海  MAO LIVE<br>7月24日  杭州  酷电空间<br>7月30日  武汉  Vox<br>7月31日  长沙  FREEDOM HOUSE<br>8月03日  南昌  黑铁酒吧<br>8月05日  福州  海摇LIVE HOUSE<br>8月06日  厦门  梦旅人音乐客栈<br>8月12日  深圳  后青年<br>8月13日  广州  Tu凸空间<br>8月14日  香港  Hidden Agenda<br>8月19日  南宁  场地近期公布<br>8月20日  桂林  郎聚酒吧<br>8月27日  贵阳  场地近期公布<br>8月28日  昆明<br>9月02日  重庆  坚果俱乐部<br>9月03日  成都  小酒馆<br>9月04日  西安  光圈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4369739)<br><br>2011-06-21 21:26<br>赞(0) 踩(0) | <div>fresh</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3110380)<br>敏感无趣冷幽默，矫情幼稚...<br>2011-06-20 21:32<br>赞(0) 踩(0) | <div>当年在猫扑爱听的时候听过……留念。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4351183)<br><br>2011-06-20 16:38<br>赞(0) 踩(0) | <div>音乐有种郊游的感觉，乡村、古堡、风车，很是优美！</div> |
@@ -1465,13 +1465,13 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3608827)<br> <br>2011-04-15 12:34<br>赞(0) 踩(0) | <div>大爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/676512)<br>¤電波星¤<br>2011-04-14 17:56<br>赞(0) 踩(0) | <div>早收藏了才对···以前居然忘了，~~( ﹁ ﹁ ) ~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1142559)<br>暂无签名~<br>2011-04-14 13:31<br>赞(0) 踩(0) | <div>马克</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2849708)<br>年轻且优秀 颓废且积极<br>2011-04-13 18:42<br>赞(0) 踩(0) | <div>偶然机会认识他们..从此就喜欢他们的音乐跟团一起去旅行吧!!!!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2849708)<br>年轻且优秀 颓废且积极<br>2011-04-13 18:42<br>赞(0) 踩(0) | <div>偶然机会认识他们..从此就喜欢他们的音乐<br>跟团一起去旅行吧!!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3342890)<br>音乐是传送门<br>2011-04-12 06:58<br>赞(0) 踩(0) | <div>是我一个人还是怎样，突然听出了FREE TEMPO的风格？？？有木有！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496107)<br><br>2011-04-10 19:24<br>赞(0) 踩(0) | <div>孔阳我要嫁给你!!!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3405829)<br><br>2011-04-08 16:41<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3489186)<br><br>2011-04-06 13:29<br>赞(0) 踩(0) | <div>清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1207907)<br>心依旧<br>2011-04-05 14:41<br>赞(0) 踩(0) | <div>独立乐团</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-04-05 13:24<br>赞(0) 踩(0) | <div>以前很喜欢Lonely Day..其实还好吧.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-04-05 13:24<br>赞(0) 踩(0) | <div>以前很喜欢Lonely Day..<br>其实还好吧.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3485550)<br><br>2011-04-05 09:11<br>赞(0) 踩(0) | <div>旅行</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2814776)<br><br>2011-04-03 21:37<br>赞(0) 踩(0) | <div>会买他们的专辑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1900001)<br><br>2011-04-03 09:45<br>赞(0) 踩(0) | <div>哈</div> |
@@ -1550,15 +1550,15 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2450912)<br><br>2011-01-10 17:38<br>赞(0) 踩(0) | <div>good music</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2108100)<br><br>2011-01-10 02:33<br>赞(0) 踩(0) | <div>味道十足</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/906956)<br><br>2011-01-08 17:53<br>赞(0) 踩(0) | <div>说真的 他们的歌并不差苏打绿</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1042660)<br><br>2011-01-18 17:49<br>赞(0) 踩(0) | <div>什么叫不差！绝对好过苏打绿。。。。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1042660)<br><br>2011-01-18 17:49<br>赞(0) 踩(0) | <div>什么叫不差！<br><br>绝对好过苏打绿。。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/906956)<br><br>2011-01-18 20:21<br>赞(0) 踩(0) | <div><q><b>ctjim说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2087742)<br>我还没想好要写什么...<br>2011-01-04 17:48<br>赞(0) 踩(0) | <div>great</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/632046)<br>畅聊音乐吧，joe861...<br>2010-12-24 13:55<br>赞(0) 踩(0) | <div>广西走出来的英伦乐队，不容易，继续加油呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1503392)<br><br>2010-12-05 18:19<br>赞(0) 踩(0) | <div>真好~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/563180)<br>彩虹山下尽彩虹，寒心寺里...<br>2010-12-03 17:19<br>赞(0) 踩(0) | <div>蛮好听的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/642259)<br><br>2010-12-02 21:50<br>赞(0) 踩(0) | <div>感觉自在，悠闲的乐队，很喜欢。看了电影《爱出色》才知道有这么一出，差点错过了一只这么好的乐队~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/642259)<br><br>2010-12-02 21:50<br>赞(0) 踩(0) | <div>感觉自在，悠闲的乐队，很喜欢。<br>看了电影《爱出色》才知道有这么一出，差点错过了一只这么好的乐队~~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/977300)<br>虾米，我也爱你！谢谢虾米...<br>2010-12-18 17:58<br>赞(0) 踩(0) | <div>同感啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1548361)<br><br>2010-11-22 19:22<br>赞(0) 踩(0) | <div>lonely day,全世界都在水里游纯净，简单，轻松还带点小悲伤的声音陪我度过了08一段不一般的日子今天才知道是柳州的乐队，离我还挺近的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1548361)<br><br>2010-11-22 19:22<br>赞(0) 踩(0) | <div>lonely day,全世界都在水里游<br>纯净，简单，轻松还带点小悲伤的声音陪我度过了08一段不一般的日子<br>今天才知道是柳州的乐队，离我还挺近的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224709)<br><br>2010-11-20 22:21<br>赞(0) 踩(0) | <div>大爱啊  主唱的嗓音太棒了   刚刚听旅行团的时候貌似感觉有点像苏打绿。。。尤其是主唱的声音  不过还是比较喜欢旅行团</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1020194)<br> <br>2010-11-13 00:26<br>赞(0) 踩(0) | <div>再次吼吼  大爱~\(≧▽≦)/~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1223782)<br><br>2010-10-22 10:00<br>赞(0) 踩(0) | <div>可爱。可爱。你们的古典国外情怀。</div> |
@@ -1569,13 +1569,13 @@ span.Apple-tab-span {white-space:pre}
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446668)<br>我还没想好要写什么...<br>2010-08-30 16:10<br>赞(0) 踩(0) | <div>哇哈哈。我的菜啊。~\(≧▽≦)/~啦啦啦</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1460349)<br><br>2010-09-24 10:23<br>赞(0) 踩(0) | <div>啊啊啊 啊，又见你啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446668)<br>我还没想好要写什么...<br>2010-09-24 22:32<br>赞(0) 踩(0) | <div><q><b>no name说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418913)<br>春天要起床！<br>2010-08-30 12:59<br>赞(0) 踩(0) | <div>国内难得啊。。。前天刚刚感叹完除了陈绮贞中国难道就没有独立一些的人了。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418913)<br>春天要起床！<br>2010-08-30 12:59<br>赞(0) 踩(0) | <div>国内难得啊。。。<br>前天刚刚感叹完除了陈绮贞中国难道就没有独立一些的人了。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/937561)<br><br>2010-10-16 22:39<br>赞(0) 踩(0) | <div>陈绮贞称独立？<a href="http://www.xiami.com/song/showcollect/id/1494971" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/showcollect/id/1494971</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418913)<br>春天要起床！<br>2010-10-17 12:40<br>赞(0) 踩(0) | <div><q><b>echo798说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1020194)<br> <br>2010-08-29 13:09<br>赞(0) 踩(0) | <div>好听。(*^__^*)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1160360)<br><br>2010-07-15 17:16<br>赞(0) 踩(0) | <div>很棒，很难得！最喜欢罗马假日~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/152235)<br>行走的背景乐<br>2010-07-06 21:24<br>赞(0) 踩(0) | <div>听着很温暖然后每次听 我就想到女生 咖啡 棉衣...想得最多的还是女生.....= =||</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/653215)<br>无须解释<br>2010-06-21 20:29<br>赞(0) 踩(0) | <div>这是我支持的唯一一只国内乐队.一直默默地支持着他们,可能跟自己与他们中的一位有着未曾谋面的缘分有关.相信他们会越走越好.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1160360)<br><br>2010-07-15 17:16<br>赞(0) 踩(0) | <div>很棒，很难得！<br>最喜欢罗马假日~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/152235)<br>行走的背景乐<br>2010-07-06 21:24<br>赞(0) 踩(0) | <div>听着很温暖<br>然后每次听 我就想到女生 咖啡 棉衣...<br>想得最多的还是女生.....= =||</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/653215)<br>无须解释<br>2010-06-21 20:29<br>赞(0) 踩(0) | <div>这是我支持的唯一一只国内乐队.一直默默地支持着他们,可能跟自己与他们中的一位有着未曾谋面的缘分有关.<br>相信他们会越走越好.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/632129)<br><br>2010-05-06 17:55<br>赞(0) 踩(0) | <div>干净的声音，赞~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/626275)<br><br>2010-03-12 21:28<br>赞(0) 踩(0) | <div>让人惊喜。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102182)<br>最近我常常陷入回忆，每个...<br>2010-01-26 20:10<br>赞(0) 踩(0) | <div>乐队范儿不错</div> |

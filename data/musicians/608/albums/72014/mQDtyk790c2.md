@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192748966)<br><br>2018-11-03 22:56<br>赞(0) 踩(0) | <div>好的音乐可以说话</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376518636)<br><br>2018-08-23 21:19<br>赞(0) 踩(0) | <div>乡土中国 但并不庸俗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27023375)<br><br>2018-05-13 20:25<br>赞(3) 踩(0) | <div>好欢乐</div> |

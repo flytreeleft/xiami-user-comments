@@ -3,7 +3,7 @@ Pho9nix
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d3649939549c5f552dc9e2c77b4114da.jpg)<br>Pho9nix](https://i.xiami.com/xosdap) | **播放数**: 3331938<br>**粉丝数**: 207<br>**评论数**: 37<br>**地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 陷阱舞曲 Trap, 回响贝斯 Dubstep<br> |
+| [![](../../images/musicians/d3649939549c5f552dc9e2c77b4114da.jpg)<br>Pho9nix](https://i.xiami.com/xosdap) | **地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 陷阱舞曲 Trap, 回响贝斯 Dubstep<br>**播放数**: 3331938<br>**粉丝数**: 207<br>**评论数**: 37<br> |
 
 ## 档案
 
@@ -52,8 +52,8 @@ X = my name os = house style d = dubstep style ap = trap style  New ID：Pho9nix
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444736485)<br><br>2020-08-28 23:58<br>赞(2) 踩(0) | <div>逝者安息 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440210466)<br>◡<br>2020-09-19 12:41<br>赞(0) 踩(0) | <div>是不是吃上了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442501476)<br>唯坤<br>2020-05-01 13:01<br>赞(2) 踩(0) | <div>ikun要高冷，所以举报不谢</div> |

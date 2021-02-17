@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8cb986da7aaf52f25ab3b6f53cf71f6e.jpg)<br>宁夏](https://i.xiami.com/shia) | **播放数**: 7091935<br>**粉丝数**: 4998<br>**评论数**: 205<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 根源唱作人 Singer-Songwriter, 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/8cb986da7aaf52f25ab3b6f53cf71f6e.jpg)<br>宁夏](https://i.xiami.com/shia) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 根源唱作人 Singer-Songwriter, 独立民谣 Indie Folk<br>**播放数**: 7091935<br>**粉丝数**: 4998<br>**评论数**: 205<br> |
 
 ## 档案
 
@@ -32,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-09-30 18:39<br>赞(0) 踩(0) | <div>宁夏20200930.205</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361646515)<br>我还没想好要写什么...<br>2019-11-11 10:10<br>赞(1) 踩(0) | <div>相识14年，在远方安静地听你的声音，默默地关注着你，祝福你。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346165752)<br><br>2019-05-05 12:06<br>赞(0) 踩(0) | <div></div> |
@@ -167,7 +167,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3531256)<br>倾听一切<br>2015-05-29 12:56<br>赞(0) 踩(0) | <div><q><b>宁夏说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7)<br>单恋木吉他<br>2015-06-01 11:47<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6717156)<br>我还没想好要写什么...<br>2015-06-01 15:48<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5434262)<br>暂无签名~<br>2015-05-21 09:06<br>赞(1) 踩(0) | <div>你要巡演了吗？虽然还是没有南边~祝顺利，开心玩噢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5434262)<br>暂无签名~<br>2015-05-21 09:06<br>赞(1) 踩(0) | <div>你要巡演了吗？虽然还是没有南边~<br>祝顺利，开心玩噢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6717156)<br>我还没想好要写什么...<br>2015-05-29 01:53<br>赞(0) 踩(0) | <div>对，南边会去的：）你在哪</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5434262)<br>暂无签名~<br>2015-05-30 13:26<br>赞(0) 踩(0) | <div><q><b>宁夏说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6717156)<br>我还没想好要写什么...<br>2015-06-01 15:49<br>赞(0) 踩(0) | <div><q><b>crazypearl说：</b></q></div> |
@@ -228,7 +228,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2244392)<br><br>2013-09-10 02:47<br>赞(17) 踩(0) | <div>冲着人名也宁夏人必听啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2933707)<br>Live my pace<br>2014-02-13 06:04<br>赞(0) 踩(0) | <div>偶遇啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8291637)<br><br>2020-08-08 18:58<br>赞(0) 踩(0) | <div>我也不是什么粉丝，但为啥我弟弟的坚果那么好用？？？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5434262)<br>暂无签名~<br>2013-09-07 21:34<br>赞(0) 踩(0) | <div>这货的歌曲列表就像南方的秋天短的看不见。。。。。可素人家好爱你呀❤</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5434262)<br>暂无签名~<br>2013-09-07 21:34<br>赞(0) 踩(0) | <div>这货的歌曲列表就像南方的秋天短的看不见。。。。。<br>可素人家好爱你呀❤</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6717156)<br>我还没想好要写什么...<br>2013-09-09 20:22<br>赞(0) 踩(0) | <div>马上加长…… ：-P</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/489870)<br><br>2013-09-16 11:08<br>赞(0) 踩(0) | <div><q><b>宁夏说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5434262)<br>暂无签名~<br>2013-12-07 13:32<br>赞(0) 踩(0) | <div><q><b>宁夏说：</b></q></div> |

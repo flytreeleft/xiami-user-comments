@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d05056c2854e25114dbf5d2fecc60410.jpg)<br>郭欢](https://i.xiami.com/guohuan) | **播放数**: 5719866<br>**粉丝数**: 799<br>**评论数**: 60<br>**地区**: China 中国大陆<br>**风格**: 当代民谣 Contemporary Folk, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/d05056c2854e25114dbf5d2fecc60410.jpg)<br>郭欢](https://i.xiami.com/guohuan) | **地区**: China 中国大陆<br>**风格**: 当代民谣 Contemporary Folk, 国语流行 Mandarin Pop<br>**播放数**: 5719866<br>**粉丝数**: 799<br>**评论数**: 60<br> |
 
 ## 档案
 
@@ -44,8 +44,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275231404)<br>从音乐人声中！感受人间真...<br>2020-12-21 02:10<br>赞(0) 踩(0) | <div>清晰纯美舒情人声演绎！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410292025)<br>我不高，但我能比山高18...<br>2020-04-13 00:31<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351319667)<br>感恩在此相遇！<br>2020-01-03 09:54<br>赞(0) 踩(0) | <div>好听！</div> |
@@ -104,5 +104,5 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9926785)<br><br>2014-11-01 14:48<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10534749)<br><br>2014-03-03 23:25<br>赞(0) 踩(0) | <div>好听</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81311102)<br><br>2016-03-04 22:17<br>赞(0) 踩(0) | <div>乙</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6381469)<br>云天音乐与时尚同行<br>2014-02-28 07:24<br>赞(0) 踩(0) | <div>郭欢，乐坛新人，尽显不凡才华。被誉为“治愈系”疗伤歌手。成名单曲《其实我的心没走》《缘分在哪里》《不再挽留》《妈妈的手》以及合唱歌曲《你是我的我是你的》《一生足够了》等歌曲。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6381469)<br>云天音乐与时尚同行<br>2014-02-28 07:24<br>赞(0) 踩(0) | <div>郭欢，乐坛新人，尽显不凡才华。被誉为“治愈系”疗伤歌手。<br>成名单曲《其实我的心没走》《缘分在哪里》《不再挽留》《妈妈的手》以及合唱歌曲《你是我的我是你的》《一生足够了》等歌曲。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81311102)<br><br>2016-03-04 22:16<br>赞(0) 踩(0) | <div>乀</div> |

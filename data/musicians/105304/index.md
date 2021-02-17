@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/efbf5175ec1d1c7931e87678d6c52744.jpg)<br>桑吉平措](https://i.xiami.com/sangjipingcuo) | **播放数**: 17081462<br>**粉丝数**: 5541<br>**评论数**: 281<br>**地区**: China 中国大陆<br>**风格**: 自然新世纪 Nature New Age<br> |
+| [![](../../images/musicians/efbf5175ec1d1c7931e87678d6c52744.jpg)<br>桑吉平措](https://i.xiami.com/sangjipingcuo) | **地区**: China 中国大陆<br>**风格**: 自然新世纪 Nature New Age<br>**播放数**: 17081462<br>**粉丝数**: 5541<br>**评论数**: 281<br> |
 
 ## 档案
 
@@ -55,13 +55,13 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-15 06:02<br>赞(0) 踩(0) | <div>46418</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41875977)<br><br>2020-12-02 21:30<br>赞(0) 踩(0) | <div><img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">真的很好听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328519429)<br>宠辱不惊静观庭前花开花落...<br>2020-11-02 17:35<br>赞(1) 踩(0) | <div>阿弥陀佛保佑你，感谢你的佛曲 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423963416)<br>阿弥陀佛    <br>2020-04-26 06:26<br>赞(1) 踩(0) | <div>感谢您，让我心情舒畅，脱离痛苦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424257016)<br><br>2020-03-22 15:08<br>赞(1) 踩(0) | <div>佛曰，芸芸众生，佛家有云，慈悲为怀，佛曰，众生皆苦，您愿意去让众生乐，佛祖笑吗？山上一朵最美的雪莲快开了，您知道吗？道生一，一生二，二生三，三生万物。万物生三，三生二，二生一，一生道。见或不见，就在那里，去或不去，就在那里，您问在哪里，就在那里。见吗？不见，相见，还是相见，还是相见？？？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424257016)<br><br>2020-03-22 15:08<br>赞(1) 踩(0) | <div>佛曰，芸芸众生，佛家有云，慈悲为怀，佛曰，众生皆苦，您愿意去让众生乐，佛祖笑吗？山上一朵最美的雪莲快开了，您知道吗？道生一，一生二，二生三，三生万物。<br>万物生三，三生二，二生一，一生道。<br><br>见或不见，就在那里，去或不去，就在那里，您问在哪里，就在那里。<br><br><br>见吗？不见，相见，还是相见，还是相见？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419865043)<br><br>2020-03-12 14:56<br>赞(2) 踩(0) | <div>你的音乐动听，郁闷时听听能很好的释放，阿弥陀佛 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439898101)<br><br>2020-02-09 10:44<br>赞(2) 踩(0) | <div>唱得太好了，加油！你最棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440089251)<br><br>2020-02-03 17:34<br>赞(1) 踩(0) | <div>阿弥陀佛</div> |
@@ -77,7 +77,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31028791)<br>网易和q也是神圣剑帝<br>2019-02-19 09:19<br>赞(3) 踩(0) | <div>我可以慢慢听一年了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31028791)<br>网易和q也是神圣剑帝<br>2019-02-19 09:18<br>赞(4) 踩(0) | <div>最近听了好多桑吉平措 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400405921)<br><br>2019-02-11 07:53<br>赞(1) 踩(0) | <div>天籁般的歌声，人生指路明灯！感恩世间有你！阿弥陀佛！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413610914)<br><br>2019-01-31 19:44<br>赞(3) 踩(0) | <div>《法华经》：若人欢喜心，歌呗颂佛德，乃至一小音，皆已成佛道。若有慈敬于佛者，实为大善，天下久久乃复有佛。可见歌手桑吉平措乃一不凡之人。无论歌喉，无论唱腔都无懈可击。简直是太棒了，令人动容，令人发无上真正道意，功德无量。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413610914)<br><br>2019-01-31 19:44<br>赞(3) 踩(0) | <div>《法华经》：若人欢喜心，歌呗颂佛德，乃至一小音，皆已成佛道。<br>若有慈敬于佛者，实为大善，天下久久乃复有佛。<br>可见歌手桑吉平措乃一不凡之人。无论歌喉，无论唱腔都无懈可击。简直是太棒了，令人动容，令人发无上真正道意，功德无量。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355797554)<br>我还没想好要写什么...<br>2019-01-01 02:48<br>赞(4) 踩(0) | <div>身相好 声音又好听 当是您往生劫以来 供养无量诸佛 称赞佛菩萨 方得如此福报 今世再美声传颂佛功德 功德不可思议 随喜赞叹 得闻此音 南无阿弥陀佛 愿众生得念佛三昧 早往极乐世界 即成阿惟越致菩萨 一生补处 疾成佛果</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1163787)<br>暂无签名~<br>2018-12-29 01:34<br>赞(1) 踩(0) | <div>好帅 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346847507)<br><br>2018-11-22 17:40<br>赞(1) 踩(0) | <div>很喜欢你的歌声 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -192,7 +192,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6857099)<br>我还没想好要写什么...<br>2014-02-17 19:46<br>赞(0) 踩(0) | <div>怎么都下架了？！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6565760)<br><br>2014-02-17 15:09<br>赞(0) 踩(0) | <div>南无阿弥陀佛!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29301525)<br><br>2014-02-17 10:08<br>赞(0) 踩(0) | <div>生日快乐！很美的心灵音乐！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7322777)<br>∮<br>2014-02-17 08:41<br>赞(0) 踩(0) | <div>蝦米通知:今日生日快樂</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7322777)<br>∮<br>2014-02-17 08:41<br>赞(0) 踩(0) | <div>蝦米通知:<br><br>今日生日快樂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/727733)<br><br>2014-02-17 07:28<br>赞(0) 踩(0) | <div>生日快乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1293134)<br>人生如梦幻<br>2014-02-13 18:56<br>赞(0) 踩(0) | <div>汉族？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32053861)<br><br>2014-01-26 17:30<br>赞(0) 踩(0) | <div>你天籁的声音是上天恩赐给我们的，感谢，希望有更多的佳品问世。</div> |
@@ -215,7 +215,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31012079)<br><br>2014-01-03 14:47<br>赞(14) 踩(0) | <div>唱的  真的很不错 唱音好清晰哦  真心 很喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24394121)<br><br>2014-01-03 14:46<br>赞(12) 踩(0) | <div>浪漫的竖琴声像是温柔的清风，托着一只白色的蝴蝶，越过茂密的丛林，越过蜿蜒的小溪，越过挂着风铃的小木屋，飞入一个仙境般神秘的国度，这里，大片的熏衣草微微颤动着紫色的花穗，无数的鸢尾花轻摆着雪色的舞衣...感恩桑吉平措给我们带来如此美妙的音乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24394121)<br><br>2014-01-03 14:25<br>赞(24) 踩(0) | <div>歌手发音不存在不准确的问题，以前一些歌曲是原来唱片公司强制下架。希望每一个人都对自己说的话负责！！！诽谤是要负法律责任的！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284208357)<br><br>2017-03-29 07:37<br>赞(0) 踩(0) | <div>d50ooonori1111</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284208357)<br><br>2017-03-29 07:37<br>赞(0) 踩(0) | <div>d<br><br>5<br>0ooonori11<br>11</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31014318)<br><br>2014-01-03 13:52<br>赞(37) 踩(0) | <div>我们的天籁王子终于带来了美妙的蝶花,听了一上午可以在歌声中体会歌词表达的美的意境和像水波涟漪一样的音乐伴奏，脑海中充满了无限的想象。在喧嚣的城市中带来一首这样能静人心脾的声音。此曲只应天上有，人间哪得几回闻.......希望以后有更多的好作品带给大家。永远支持你的潘潘</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24394121)<br><br>2014-01-03 14:52<br>赞(0) 踩(0) | <div>是啊，期待已久，终于等来了如此美妙的一刻！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31018709)<br><br>2014-01-03 15:07<br>赞(0) 踩(0) | <div>我么一起支持他！</div> |
@@ -232,8 +232,8 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15571917)<br>来如流水兮逝如风<br>2014-01-03 12:05<br>赞(0) 踩(0) | <div>太好听啦！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24394121)<br><br>2014-01-03 14:29<br>赞(0) 踩(0) | <div>支持，让世界静下来聆听的善乐！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31019333)<br><br>2014-01-03 15:17<br>赞(0) 踩(0) | <div>在你的音乐世界里，我们成长并自在欢喜。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298615)<br>暂无签名~<br>2014-02-17 15:55<br>赞(0) 踩(0) | <div>生日快樂南无阿弥陀佛!</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298615)<br>暂无签名~<br>2014-02-17 15:56<br>赞(0) 踩(0) | <div>南无阿弥陀佛!生日快乐！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298615)<br>暂无签名~<br>2014-02-17 15:55<br>赞(0) 踩(0) | <div>生日快樂<br>南无阿弥陀佛!</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298615)<br>暂无签名~<br>2014-02-17 15:56<br>赞(0) 踩(0) | <div>南无阿弥陀佛!<br>生日快乐！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/637392)<br>你听这音乐会让人醉，会让...<br>2014-04-26 14:33<br>赞(0) 踩(0) | <div>怎么以前的歌下架了？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49550344)<br><br>2015-04-25 10:52<br>赞(0) 踩(0) | <div>为什么都不能听</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93642260)<br><br>2015-12-22 15:28<br>赞(0) 踩(0) | <div>好想听你的泊岸。好多播放器都放不了了。</div> |
@@ -265,7 +265,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15761199)<br><br>2013-08-21 17:25<br>赞(0) 踩(0) | <div>为嘛下架啊？他的好几首歌都好喜欢。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10543171)<br><br>2013-08-21 15:52<br>赞(0) 踩(0) | <div>这都能下架</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18806729)<br><br>2013-08-10 16:00<br>赞(0) 踩(0) | <div>感恩每一段因缘</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3510038)<br>海天之恋<br>2013-07-02 15:17<br>赞(1) 踩(0) | <div>1.百度了一下 这位湿胸本名王秋翔 翔啊！！讹米偷佛2.他好像还没有出家 我又有目标了！！ 讹米偷佛</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3510038)<br>海天之恋<br>2013-07-02 15:17<br>赞(1) 踩(0) | <div>1.百度了一下 这位湿胸本名王秋翔 翔啊！！讹米偷佛<br>2.他好像还没有出家 我又有目标了！！ 讹米偷佛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2499192)<br><br>2013-06-30 11:07<br>赞(0) 踩(0) | <div>净化心灵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10932527)<br><br>2013-06-16 13:11<br>赞(1) 踩(0) | <div>阿弥陀佛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11056036)<br><br>2013-06-16 11:58<br>赞(1) 踩(0) | <div>好帅啊</div> |
@@ -276,7 +276,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10431840)<br><br>2013-05-29 22:57<br>赞(0) 踩(0) | <div>“你若那天际的一抹流云”，穿越万水千山，只为今生遇见你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7974942)<br>灵魂永不老去<br>2013-05-28 10:13<br>赞(0) 踩(0) | <div>喜欢桑吉平措，欢迎关注新浪微博“大东唐卡善乐文化”。大东唐卡是桑吉平措创建的品牌，凝聚了桑吉的心血，希望能够得到大家的支持！^_^</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3510038)<br>海天之恋<br>2013-07-02 15:37<br>赞(0) 踩(0) | <div>cos一下你的头像  ╭∩╮(︶︿︶)╭∩╮</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13287738)<br>菡萏<br>2013-05-28 07:31<br>赞(0) 踩(0) | <div>桑吉平措，大东唐卡创始人，梵音心咒颂唱代表人物。中文名：桑吉平措</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13287738)<br>菡萏<br>2013-05-28 07:31<br>赞(0) 踩(0) | <div>桑吉平措，大东唐卡创始人，梵音心咒颂唱代表人物。<br>中文名：桑吉平措</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13447284)<br><br>2013-05-24 19:17<br>赞(0) 踩(0) | <div>洗心洗灵！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7974942)<br>灵魂永不老去<br>2013-05-21 16:18<br>赞(1) 踩(0) | <div>大家喜欢桑吉平措可以到百度“桑吉平措”吧来一起交流啊！格桑梅朵的大家庭欢迎大家的加入！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/630760)<br>感谢11年来的陪伴，我爱...<br>2013-05-15 23:03<br>赞(0) 踩(0) | <div>静心佛曲</div> |

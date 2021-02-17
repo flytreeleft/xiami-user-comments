@@ -64,13 +64,13 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243782111)<br>反派死于话多……<br>2019-06-07 21:06<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49005431)<br><br>2018-11-21 14:46<br>赞(2) 踩(0) | <div>这一张最喜欢这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114035860)<br><br>2018-10-24 08:47<br>赞(1) 踩(0) | <div>唱出了自己的特色，这都不红，真没天理</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114035860)<br><br>2018-10-24 08:45<br>赞(2) 踩(0) | <div>因为后弦，更爱广西了，我虽然不是广西的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40404428)<br>收藏一些自己喜欢的音乐＋...<br>2018-10-07 23:40<br>赞(0) 踩(0) | <div>中间那段笛子音没准，听着很难受。一度想删掉这首歌，就是这个原因。啊啊啊。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40404428)<br>收藏一些自己喜欢的音乐＋...<br>2018-10-07 23:40<br>赞(0) 踩(0) | <div>中间那段笛子音没准，听着很难受。一度想删掉这首歌，就是这个原因。<br>啊啊啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326005440)<br><br>2018-06-01 10:15<br>赞(1) 踩(0) | <div>这么好听。没红天理不容</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307220906)<br><br>2018-05-29 16:42<br>赞(1) 踩(0) | <div>个人觉得这歌完全可以上春晚啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307220906)<br><br>2018-05-26 15:34<br>赞(1) 踩(0) | <div>我能说我第一次听就热泪盈眶了吗!</div> |
@@ -96,7 +96,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301833904)<br><br>2017-10-02 16:16<br>赞(2) 踩(0) | <div>我也很喜欢听后弦的歌，高中时期的回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265991146)<br><br>2017-10-01 08:21<br>赞(2) 踩(0) | <div>太好听了，喜欢的不得了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317986158)<br><br>2017-09-17 21:57<br>赞(2) 踩(0) | <div>喜欢后后</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220599586)<br>何必让回忆比经历还长，何...<br>2017-09-16 15:11<br>赞(5) 踩(0) | <div>毫无违和感耶，很棒啊！鸡皮疙瘩掉一地这可是和经典混编 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220599586)<br>何必让回忆比经历还长，何...<br>2017-09-16 15:11<br>赞(5) 踩(0) | <div>毫无违和感耶，很棒啊！鸡皮疙瘩掉一地<br><br>这可是和经典混编 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220599586)<br>何必让回忆比经历还长，何...<br>2017-09-16 15:07<br>赞(7) 踩(0) | <div>傅锦华老师，后弦可以的哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20486119)<br><br>2017-09-15 20:03<br>赞(3) 踩(0) | <div>从初一开始喜欢后弦，现在大三依然喜欢 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321411791)<br><br>2017-09-05 17:41<br>赞(3) 踩(0) | <div>很喜欢这首有老一辈记忆的歌曲，后弦声音很好听</div> |
@@ -136,7 +136,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264646794)<br><br>2017-03-05 06:15<br>赞(2) 踩(0) | <div>好听得一塌糊涂。 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38407203)<br>我还没想好要写什么...<br>2017-03-03 15:44<br>赞(47) 踩(0) | <div>后弦很尊重版权嘛，把原唱，原作词人都列出来啦</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81402818)<br><br>2017-03-14 20:05<br>赞(0) 踩(0) | <div>嗯！有素质</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284930830)<br><br>2017-06-10 17:17<br>赞(0) 踩(0) | <div>69</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284930830)<br><br>2017-06-10 17:17<br>赞(0) 踩(0) | <div>6<br>9</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5574397)<br><br>2018-02-06 11:19<br>赞(0) 踩(0) | <div>雷振邦呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265584355)<br><br>2017-03-03 11:38<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191410334)<br>他人追新我温故，总有凛冽...<br>2017-03-01 17:37<br>赞(7) 踩(0) | <div>我家后弦把自己对民俗文化和家乡特色的眷恋充分糅合。无论是评论部分的主观描述还是与三姐对唱的过程中，感情不断升华。尤其是唱着三姐的歌，听着她的传奇，仿佛这种歌唱力量给予了一方水土精神力量。上天赶走乌云，下地催五谷生，这不是人们对好音乐最高的赞赏了吗？反反复复听。越听越有味。</div> |

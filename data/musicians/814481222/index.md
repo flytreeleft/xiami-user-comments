@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/dfe0c48d5126b1f79a0e719e423162da.jpg)<br>藤乐队](https://i.xiami.com/teng) | **播放数**: 2819524<br>**粉丝数**: 972<br>**评论数**: 68<br>**地区**: China 中国大陆<br>**风格**: 民谣摇滚 Folk Rock, 城市民谣 Urban Folk<br> |
+| [![](../../images/musicians/dfe0c48d5126b1f79a0e719e423162da.jpg)<br>藤乐队](https://i.xiami.com/teng) | **地区**: China 中国大陆<br>**风格**: 民谣摇滚 Folk Rock, 城市民谣 Urban Folk<br>**播放数**: 2819524<br>**粉丝数**: 972<br>**评论数**: 68<br> |
 
 ## 档案
 
@@ -28,8 +28,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-08-16 13:42<br>赞(0) 踩(0) | <div>20200816.68</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43182804)<br>最孤独的人<br>2020-05-10 09:44<br>赞(0) 踩(0) | <div>使劲儿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4487129)<br><br>2019-03-16 10:09<br>赞(0) 踩(0) | <div>！！！</div> |

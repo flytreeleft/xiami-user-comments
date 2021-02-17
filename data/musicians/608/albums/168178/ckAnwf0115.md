@@ -36,8 +36,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19949080)<br><br>2020-11-13 18:07<br>赞(1) 踩(0) | <div>经典之作</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425723681)<br>嘘...不要说话~<br>2020-05-08 17:02<br>赞(5) 踩(0) | <div>弘，一个有着孤独而高贵血统的完美理想主义者，但现实注定着他无法容纳想要为了自由而战的情怀，合欢被秘杀，弘的一口鲜血喷在了铜镜上，猝死当场，少年太平无意目睹一切以后的那一声刺耳的惨叫萦绕在深幽、诡异的大明宫中，权利、欲望、争斗、阴谋、野心，恐惧的让人窒息，然而这亘古不变的王室规则，在这个阴冷的大明宫中，不知疲倦的继续上演着&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401326864)<br><br>2020-04-11 22:46<br>赞(1) 踩(0) | <div>谁要杀我</div> |
@@ -53,7 +53,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406127251)<br><br>2019-04-28 10:45<br>赞(8) 踩(0) | <div>权力竟能如此文艺的表达！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206201774)<br><br>2019-03-24 20:09<br>赞(3) 踩(0) | <div>对话都像诗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205951213)<br>我还没想好要写什么...<br>2019-03-08 08:01<br>赞(1) 踩(0) | <div>日推给我推了这个</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346010843)<br>早困早起<br>2018-12-06 12:41<br>赞(3) 踩(0) | <div>印象最深的是太子那一对</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346010843)<br>早困早起<br>2018-12-06 12:41<br>赞(3) 踩(0) | <div>印象最深的是<br><br>太子那一对</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29252718)<br><br>2019-06-16 22:05<br>赞(0) 踩(0) | <div>你最优秀，翻过去多少条评论，你这独树一帜啊 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346010843)<br>早困早起<br>2019-08-08 23:36<br>赞(0) 踩(0) | <div><q><b>tb_5510653说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28991697)<br><br>2018-09-01 19:46<br>赞(0) 踩(0) | <div>还我大唐盛世</div> |
@@ -127,12 +127,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36103753)<br>机长先生 你好… 机长先...<br>2016-01-18 02:39<br>赞(0) 踩(0) | <div>长相守   薛绍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3708991)<br> <br>2015-09-24 11:02<br>赞(11) 踩(0) | <div>片头节奏里就有一股死亡的气息，中间又是荡气回肠，磅礴的气势，宿命感很强。牛人！！如此贴合电视剧主题</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300905)<br>人必须经历痛苦，才能成长<br>2015-09-22 09:30<br>赞(0) 踩(0) | <div>小时候这个音乐真的挺吓人的。。太可悲了。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18556266)<br><br>2015-09-08 17:09<br>赞(11) 踩(0) | <div>放不开那命运钦定的爱情躲不开那注定凄艳的荣幸逃不开那疲惫过后最终的远行细雨中离去再还给天地一世太平把“细雨”改成“大雪”，那简直就是唱的《红楼梦》。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18556266)<br><br>2015-09-08 17:09<br>赞(11) 踩(0) | <div>放不开<br>那命运钦定的爱情<br>躲不开<br>那注定凄艳的荣幸<br>逃不开<br>那疲惫过后最终的远行<br>细雨中离去<br>再还给天地一世太平<br>把“细雨”改成“大雪”，那简直就是唱的《红楼梦》。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18556266)<br><br>2017-07-02 15:49<br>赞(0) 踩(0) | <div><q><b>﹏听云水声寒一曲中说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4319855)<br>when the sto...<br>2017-07-02 23:30<br>赞(0) 踩(0) | <div><q><b>散步去看雨说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18556266)<br><br>2017-07-03 11:26<br>赞(0) 踩(0) | <div><q><b>﹏听云水声寒一曲中说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18556266)<br><br>2017-07-03 11:27<br>赞(0) 踩(0) | <div><q><b>﹏听云水声寒一曲中说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4319855)<br>when the sto...<br>2017-10-30 09:57<br>赞(0) 踩(0) | <div>细雨中离去再还给天地一世太平其实呼应的是太平临死前的那段话“我的死亡像我的出生那样，终止了长安城漫天的淫雨，并且又一次为大唐带来了太平。“改成大雪的话，后面那句就没有意义了</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4319855)<br>when the sto...<br>2017-10-30 09:57<br>赞(0) 踩(0) | <div>细雨中离去<br>再还给天地一世太平<br>其实呼应的是太平临死前的那段话“我的死亡像我的出生那样，终止了长安城漫天的淫雨，并且又一次为大唐带来了太平。“改成大雪的话，后面那句就没有意义了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51859514)<br> <br>2015-08-27 23:29<br>赞(46) 踩(0) | <div>感觉没有古装片能超越它了，台词很哲理，服装很华丽，配乐很带感，演员选的也很好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30857267)<br><br>2015-08-16 08:35<br>赞(1) 踩(0) | <div>细雨中离去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40971268)<br> <br>2015-07-23 00:10<br>赞(2) 踩(0) | <div>名为太平，难寻太平，于世于己，终须离去</div> |
@@ -170,7 +170,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2611788)<br><br>2013-09-02 22:16<br>赞(0) 踩(0) | <div>#那些年我听过的中文歌# Track 10</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10119615)<br><br>2013-08-18 21:33<br>赞(0) 踩(0) | <div>电视版的那个好听 偶尔会冒出诡异的惨叫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2569253)<br><br>2013-08-09 17:46<br>赞(0) 踩(0) | <div>好听得要死掉了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2156426)<br>天天听歌，佛系交友<br>2013-08-08 22:44<br>赞(53) 踩(0) | <div>我认为所谓古风的歌词就应该是这样。不是刻意弄些拗口的要查字典的字词，而是要写我们当代人也看得懂、不显得过分侨情，确又传承古诗词的配曲歌词。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2156426)<br>天天听歌，佛系交友<br>2013-08-08 22:44<br>赞(53) 踩(0) | <div>我认为所谓古风的歌词就应该是这样。<br>不是刻意弄些拗口的要查字典的字词，而是要写我们当代人也看得懂、不显得过分侨情，确又传承古诗词的配曲歌词。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54495663)<br>最爱浅仓大介没有之一。<br>2016-02-13 13:25<br>赞(0) 踩(0) | <div>就是！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81899102)<br>发乎情；止于礼。深埋于心...<br>2017-09-04 00:48<br>赞(0) 踩(0) | <div>传承。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/968627)<br>听......<br>2013-06-01 21:16<br>赞(135) 踩(0) | <div>《大明宫词》前期的《长相守》空灵婉转，营造了一个梦幻唯美的长安月夜；后期的主题曲，虽名为《太平》，却唱出了权力下扭曲的人性、暗流中编制的阴谋，繁华里绽开的血色——这是大明宫与长安的另一面，是“欲望的宫殿”</div> |
@@ -188,7 +188,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10758130)<br><br>2018-09-15 08:57<br>赞(0) 踩(0) | <div>只能看懂太平对薛绍的爱情</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424734554)<br>大爱绿川光！<br>2020-09-12 18:56<br>赞(0) 踩(0) | <div>的确是很精美的一部剧，台词也美！我还专门去书店买了《大明宫词》剧本来看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/875146)<br><br>2012-05-17 03:30<br>赞(0) 踩(0) | <div>躲不开，那注定凄艳的荣幸</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8221201)<br>呃……<br>2012-04-27 21:03<br>赞(0) 踩(0) | <div>《大明宫词》里最大气的一首<a href="http://www.xiami.com/song/2075164" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2075164</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8221201)<br>呃……<br>2012-04-27 21:03<br>赞(0) 踩(0) | <div>《大明宫词》里最大气的一首<br><a href="http://www.xiami.com/song/2075164" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2075164</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401214)<br><br>2012-02-21 22:14<br>赞(0) 踩(0) | <div>《大明宫词》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426383)<br>才不是——<br>2011-12-04 23:56<br>赞(0) 踩(0) | <div>庄重大气，宿命而坚定。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3814687)<br><br>2011-09-29 13:08<br>赞(0) 踩(0) | <div>喜欢词不喜欢唱的人...</div> |

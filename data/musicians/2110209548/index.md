@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/443b03702f4beb304bece7b4de319428.jpg)<br>小乐](https://i.xiami.com/suil) | **播放数**: 2877908<br>**粉丝数**: 174<br>**评论数**: 15<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 另类唱作人 Alternative Singer-Songwriter, 流行 Pop<br> |
+| [![](../../images/musicians/443b03702f4beb304bece7b4de319428.jpg)<br>小乐](https://i.xiami.com/suil) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 另类唱作人 Alternative Singer-Songwriter, 流行 Pop<br>**播放数**: 2877908<br>**粉丝数**: 174<br>**评论数**: 15<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -32,8 +29,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-21 11:33<br>赞(0) 踩(0) | <div>43535</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428121269)<br>非淡泊无以明志，非宁静无...<br>2020-06-15 18:23<br>赞(0) 踩(0) | <div>真好听 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257677808)<br>我还没想好要写什么...<br>2020-01-29 15:32<br>赞(0) 踩(0) | <div>期待出CD专辑</div> |

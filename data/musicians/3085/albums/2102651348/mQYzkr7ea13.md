@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29651171)<br>噢！reggae<br>2019-06-30 13:15<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160428922)<br>江湖再见，后会有期<br>2018-04-16 17:31<br>赞(0) 踩(0) | <div>做任务</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30705704)<br><br>2018-04-08 22:49<br>赞(0) 踩(0) | <div>不喜欢听就不听就好。人家吧内心的声音发出来也不是为了博一下眼球和讨好的各位听众的。千万别想多了。</div> |
@@ -99,7 +99,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14306881)<br><br>2017-01-09 12:59<br>赞(0) 踩(0) | <div>总感觉听过呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51701750)<br><br>2017-01-09 11:04<br>赞(0) 踩(0) | <div>燥起来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141766338)<br>摇滚吗？我不懂<br>2017-01-09 10:55<br>赞(2) 踩(0) | <div>支离，破碎。齐静先走了，现在田然也不在了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1308967)<br>虾米听重型极端音乐这块的...<br>2016-10-23 12:02<br>赞(1) 踩(0) | <div>支离破碎可以很好的用来形容这个时代。新的信息时代，就是这样子的支离破碎。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1308967)<br>虾米听重型极端音乐这块的...<br>2016-10-23 12:02<br>赞(1) 踩(0) | <div>支离破碎可以很好的用来形容这个时代。<br>新的信息时代，就是这样子的支离破碎。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41338507)<br>我还没想好要写什么...<br>2016-10-15 16:22<br>赞(1) 踩(0) | <div>想说的太多，反而感觉作！尤其是mv拍的，感觉这歌hold不住。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234865383)<br>人生如此   拿酒来<br>2016-10-13 12:22<br>赞(0) 踩(0) | <div>刚刚切换  还以为手机坏了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194331466)<br>BridgeOverTr...<br>2016-10-01 17:33<br>赞(8) 踩(0) | <div>内容已删除</div> |
@@ -178,15 +178,15 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49981040)<br><br>2016-08-24 23:56<br>赞(0) 踩(0) | <div>啊啊，嗯嗯，嗯嗯~谎言欲盖弥彰，两年憋一，阴吹思婷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43818553)<br>人生就是这样啊，哪有什么...<br>2016-08-24 23:24<br>赞(0) 踩(0) | <div>卧槽痛仰出新歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34456354)<br>何必久睡 自会长眠<br>2016-08-24 23:05<br>赞(3) 踩(0) | <div>能让我听烦躁的歌真的挺少的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16679323)<br><br>2016-08-24 22:24<br>赞(3) 踩(0) | <div>欲望 没有边界但却 忽隐忽现真相 遥不可及谎言 欲盖弥彰知道 魔鬼的名字你就可以做它的主人被贪婪的双手紧握问候黑暗中我们更习惯入睡这不是最后的晚餐未来也非命中注定道德的靶子布满陷阱通向一座更大的监狱想不了太多想的人太乱一句直白真心的话也许无需费心的交流整个世界都在晃动高举钝拙的猎枪这不是最后的晚餐未来也非命中注定道德的靶子布满陷阱通向一座更大的监狱想不了太多想的人太乱想不了太多想的人太乱可这不是我想要的”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16679323)<br><br>2016-08-24 22:24<br>赞(3) 踩(0) | <div>欲望 没有边界<br>但却 忽隐忽现<br>真相 遥不可及<br>谎言 欲盖弥彰<br>知道 魔鬼的名字<br>你就可以做它的主人<br>被贪婪的双手紧握问候<br>黑暗中我们更习惯入睡<br>这不是最后的晚餐<br>未来也非命中注定<br>道德的靶子布满陷阱<br>通向一座更大的监狱<br>想不了太多<br>想的人太乱<br>一句直白真心的话<br>也许无需费心的交流<br>整个世界都在晃动<br>高举钝拙的猎枪<br>这不是最后的晚餐<br>未来也非命中注定<br>道德的靶子布满陷阱<br>通向一座更大的监狱<br>想不了太多<br>想的人太乱<br>想不了太多<br>想的人太乱<br>可这不是我想要的”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16678913)<br><br>2016-08-24 22:07<br>赞(0) 踩(0) | <div>歌词呢 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43044286)<br>嚯<br>2016-08-24 21:12<br>赞(1) 踩(0) | <div>喊口号都喊的矫情不知道想勉强自己表达什么愤怒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85059386)<br><br>2016-08-24 20:13<br>赞(0) 踩(0) | <div>感觉听不懂了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13327571)<br>願愛無憂<br>2016-08-24 19:35<br>赞(0) 踩(0) | <div>mv真的很棒！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48582981)<br><br>2016-08-24 19:20<br>赞(0) 踩(0) | <div>对我来说道德是一个怎么逃都逃不掉的陷阱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86892668)<br><br>2016-08-24 19:13<br>赞(1) 踩(0) | <div>我是痛仰我的愿望是世界和平</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86892668)<br><br>2016-08-24 19:13<br>赞(1) 踩(0) | <div>我是痛仰<br>我的愿望是<br>世界和平</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37133846)<br><br>2016-08-24 18:34<br>赞(1) 踩(0) | <div>支持痛仰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/525562)<br>青山青水青少年<br>2016-08-24 16:51<br>赞(1) 踩(0) | <div>这合成器弄得跟放屁似的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58981506)<br>天梯。<br>2016-08-24 16:47<br>赞(1) 踩(0) | <div>感觉原来的痛仰回来了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2943953)<br><br>2016-08-24 15:39<br>赞(3) 踩(0) | <div>摩登天空微信公众号今天已经发布新单曲了。听完蛮不错哦，编曲迷幻又不失爆发力。封面是在abbey road拍的耶，披头士以前的专辑《Abbey Road》封面也在这拍过。看完MV我要给导演和剪辑满分，真的，歌曲配上MV一起食用，听觉，视觉冲击超级棒。一旦歌曲和社会问题，民生问题，政治问题稍稍沾点关系的，想不火都难。整个世界都在晃动，高举钝拙的猎枪……道德的靶子布满陷阱，通向一座更大的监狱…… 词曲高虎。赞赞赞。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2943953)<br><br>2016-08-24 15:39<br>赞(3) 踩(0) | <div>摩登天空微信公众号今天已经发布新单曲了。听完蛮不错哦，编曲迷幻又不失爆发力。封面是在abbey road拍的耶，披头士以前的专辑《Abbey Road》封面也在这拍过。看完MV我要给导演和剪辑满分，真的，歌曲配上MV一起食用，听觉，视觉冲击超级棒。一旦歌曲和社会问题，民生问题，政治问题稍稍沾点关系的，想不火都难。<br>整个世界都在晃动，高举钝拙的猎枪……道德的靶子布满陷阱，通向一座更大的监狱…… 词曲高虎。赞赞赞。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55037734)<br>大反派<br>2016-08-24 14:59<br>赞(0) 踩(0) | <div>不是说今天发吗？</div> |

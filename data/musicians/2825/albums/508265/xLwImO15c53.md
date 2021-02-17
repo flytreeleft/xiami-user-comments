@@ -49,8 +49,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5978839)<br>我还没想好要写什么...<br>2018-07-28 03:08<br>赞(0) 踩(0) | <div>听见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26931910)<br><br>2017-06-25 08:33<br>赞(1) 踩(0) | <div>陈忠义的歌一直是精品</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47090261)<br>我女神是泰勒斯威夫特<br>2017-04-26 14:51<br>赞(0) 踩(0) | <div>好听</div> |
@@ -59,7 +59,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28875389)<br>我还没想好要写什么...<br>2017-02-28 23:00<br>赞(1) 踩(0) | <div>初中到大学</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255477442)<br><br>2017-02-17 15:50<br>赞(2) 踩(0) | <div>还能听到这么光明温暖的歌，感谢还有对音乐坚守的人们。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19614056)<br> <br>2017-01-30 02:26<br>赞(4) 踩(0) | <div>如果js重新在2017年出现。我相信，这个好声音一定会重新火起来的。10年依旧那么感动</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2016-12-12 22:11<br>赞(3) 踩(0) | <div>当你有了固定歌单后，你就很少会去听新歌，但假如有一天路过某个小街不小心听到了喜欢的，你会把它下载来单曲循环到死。所以你并不是不能像爱最初那个人一样再去爱一个人，只是你还没有遇到最好的，等不小心遇到了，你一定发现自己会更加去爱。同感的点赞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2016-12-12 22:11<br>赞(3) 踩(0) | <div>当你有了固定歌单后，<br>你就很少会去听新歌，<br>但假如有一天路过某个小街不小心听到了喜欢的，<br>你会把它下载来单曲循环到死。<br><br>所以你并不是不能像爱最初那个人<br>一样再去爱一个人，<br>只是你还没有遇到最好的，<br>等不小心遇到了，<br>你一定发现自己会更加去爱。<br>同感的点赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43501497)<br><br>2016-12-11 00:23<br>赞(1) 踩(0) | <div>初中听的歌。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2509840)<br>自由的武士<br>2016-05-26 17:42<br>赞(0) 踩(0) | <div>我一直以为最后一句是不被信仰的永远，不过这样理解感觉还不错</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28710717)<br><br>2017-01-01 23:13<br>赞(0) 踩(0) | <div>歌词本里是「不被信仰的永远」，虾米给的歌词里有很多处错误</div> |
@@ -111,7 +111,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2300988)<br><br>2012-05-15 21:16<br>赞(0) 踩(0) | <div>想起公路，想起DUCATI，想要忘记那些生存残略</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2349841)<br><br>2012-05-15 11:24<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69862)<br>我还没想好要写什么...<br>2012-05-14 19:30<br>赞(0) 踩(0) | <div>好声音，好音乐。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5000057)<br><br>2012-05-14 16:49<br>赞(0) 踩(0) | <div>2012.5 第20周虾米热门专辑排行榜Top 7NEW</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5000057)<br><br>2012-05-14 16:49<br>赞(0) 踩(0) | <div>2012.5 第20周<br>虾米热门专辑排行榜<br>Top 7<br>NEW</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/938007)<br>在薄情的世界，深情的活着<br>2012-05-11 21:05<br>赞(0) 踩(0) | <div>4年后回归</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7000901)<br>我走过，我看过，我路过~<br>2012-05-11 12:59<br>赞(0) 踩(0) | <div>你听见了么 心底的那个声音了么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4236706)<br><br>2012-05-10 22:13<br>赞(0) 踩(0) | <div>如果我止步于此，我将后悔一辈子。在比赛开始之前，要想的不是“输了怎么办？”，而是“怎么样才能赢”。你的心中有这份自大与狂野吗？加油！—— J.S. &amp;amp;lt;听见&amp;amp;gt;</div> |
@@ -128,7 +128,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9113066)<br><br>2012-05-08 13:45<br>赞(0) 踩(0) | <div>只是喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4124471)<br><br>2012-05-07 20:09<br>赞(0) 踩(0) | <div>我听见，我相信。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5229520)<br>无<br>2012-05-07 18:52<br>赞(0) 踩(0) | <div>@rcjach  Logic 扑面而来的感觉，不过这组合真没啥突破啊。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8145179)<br><br>2012-05-07 12:19<br>赞(1) 踩(0) | <div>我听见 心底嘶吼的语言我看见 城市崩毁的瞬间我飞跃 残破美丽这世界我相信 不被信仰的永远#听见#  纯粹干净的声音</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8145179)<br><br>2012-05-07 12:19<br>赞(1) 踩(0) | <div>我听见 心底嘶吼的语言<br>我看见 城市崩毁的瞬间<br>我飞跃 残破美丽这世界<br>我相信 不被信仰的永远<br>#听见#  纯粹干净的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/456237)<br><br>2012-05-07 10:05<br>赞(0) 踩(0) | <div>呀，歌都还行嘛~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1328)<br><br>2012-05-07 00:07<br>赞(0) 踩(0) | <div>JS.这个女声老夫真心喜欢.大学的时候经常听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6993528)<br><br>2012-05-06 23:44<br>赞(0) 踩(0) | <div>好久不见的JS，终于发布了自己的第四张个人专辑，在等待了这么长时间之后，终于再度听到了他们的声音，这一次所带给我们的是一个不一样的JS，你听见了怎么样的一个JS？就在这首《听见》！</div> |

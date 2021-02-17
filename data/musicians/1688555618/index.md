@@ -3,7 +3,7 @@ Tie Yann
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2b20ca1c46aaa7f92be20577f62e1742.png)<br>Tie Yann](https://i.xiami.com/tieyang) | **播放数**: 39538746<br>**粉丝数**: 22108<br>**评论数**: 675<br>**地区**: China 中国大陆<br>**风格**: 根源唱作人 Singer-Songwriter, 轻音乐 Easy Listening, 电影原声 Film Score, 世界融合 World Fusion, 世界音乐 World Music<br> |
+| [![](../../images/musicians/2b20ca1c46aaa7f92be20577f62e1742.png)<br>Tie Yann](https://i.xiami.com/tieyang) | **地区**: China 中国大陆<br>**风格**: 根源唱作人 Singer-Songwriter, 轻音乐 Easy Listening, 电影原声 Film Score, 世界融合 World Fusion, 世界音乐 World Music<br>**播放数**: 39538746<br>**粉丝数**: 22108<br>**评论数**: 675<br> |
 
 ## 档案
 
@@ -45,11 +45,11 @@ Tie Yann
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39114147)<br> <br>2021-01-16 22:46<br>赞(0) 踩(0) | <div>五年了，难忘的声音，一直希望你可以发光发热。留在本地文件夹听~ <img src="../../images/comments/91081ea0de8ee2c933524fb8574e76e5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100489300)<br> <br>2021-01-10 09:13<br>赞(1) 踩(0) | <div>挺不舍的，虽然其他地方也能听到你的歌，但是对于我来说，这才是最初喜欢上你的地方。有那么一种情怀。最近两年挺不如意的。偶尔再回来听听你的歌放松一下。嘿，祝你一切安好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7539949)<br>隨心而活<br>2020-10-18 20:49<br>赞(0) 踩(0) | <div>歌声挺好的～&amp;ldquo;种太阳&amp;rdquo;活动是什么？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7539949)<br>隨心而活<br>2020-10-18 20:49<br>赞(0) 踩(0) | <div>歌声挺好的～<br>&amp;ldquo;种太阳&amp;rdquo;活动是什么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290256884)<br>网易云同名<br>2020-08-02 09:34<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69272968)<br>（aaui te ame...<br>2020-08-02 00:15<br>赞(0) 踩(0) | <div>初二的时候开始喜欢你，现在已经高考完啦，不太听虾米音乐了，但还是会因为你的歌来回来听</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2020-08-21 16:31<br>赞(0) 踩(0) | <div>谢谢你：）每个夏末我们还要一起唱歌</div> |
@@ -58,10 +58,10 @@ Tie Yann
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2020-08-21 16:31<br>赞(0) 踩(0) | <div>5年时间也好快</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-05-23 06:13<br>赞(1) 踩(0) | <div>41236</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374403402)<br><br>2020-04-21 18:14<br>赞(0) 踩(0) | <div>爱了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2020-04-17 15:38<br>赞(2) 踩(0) | <div>音乐日记专辑《Listen》又更新啦！四首：四月物语、海洋的女儿、自由的大坝、嘻吧吧最新世界音乐融合专辑《如果你也启程前往远方》在QQ音乐\Spotify\Apple music\iTunes\KKBox喔，有空去听：）春天快乐！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2020-04-17 15:38<br>赞(2) 踩(0) | <div>音乐日记专辑《Listen》又更新啦！四首：<br>四月物语、海洋的女儿、自由的大坝、嘻吧吧<br><br>最新世界音乐融合专辑《如果你也启程前往远方》在QQ音乐\Spotify\Apple music\iTunes\KKBox喔，有空去听：）春天快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434152246)<br>聪明少一些大智慧多一些，...<br>2020-03-19 07:39<br>赞(0) 踩(0) | <div>互相支持互相勉励互相学习互相帮助</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413573653)<br><br>2020-03-11 00:50<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2020-03-06 22:13<br>赞(19) 踩(0) | <div>《诗·外》更新：上次看到留言区的朋友留下了里尔克的诗，今日和德国朋友诵了里尔克，更新在第二个咯！昨天是惊蛰，万物复苏的日子。这首诗“在世间万物中我都发现了你”祝福所有生命。也祝福看到的你：）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2020-03-06 22:13<br>赞(19) 踩(0) | <div>《诗·外》更新：<br>上次看到留言区的朋友留下了里尔克的诗，<br>今日和德国朋友诵了里尔克，更新在第二个咯！<br>昨天是惊蛰，万物复苏的日子。<br>这首诗“在世间万物中我都发现了你”<br>祝福所有生命。也祝福看到的你：）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98829382)<br><br>2020-02-19 20:31<br>赞(0) 踩(0) | <div>这么优秀的音乐人才发现</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434152246)<br>聪明少一些大智慧多一些，...<br>2020-02-05 14:08<br>赞(0) 踩(0) | <div><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204192659)<br> 喜欢HP TBBT H...<br>2020-01-19 00:47<br>赞(0) 踩(0) | <div>好喜欢你的歌声ઇଓ</div> |
@@ -86,7 +86,7 @@ Tie Yann
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424403512)<br>我还没想好要写什么...<br>2019-05-12 10:52<br>赞(0) 踩(0) | <div>Hi! Love your songs!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2019-09-16 05:14<br>赞(0) 踩(0) | <div>Thank u Jose！I have a friend from South Africa named Jose as well :)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405979540)<br>和Red Velvet还...<br>2019-03-30 14:44<br>赞(0) 踩(0) | <div>想买阳阳的实体专。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405979540)<br>和Red Velvet还...<br>2019-03-30 14:43<br>赞(0) 踩(0) | <div>会唱会写的女生好有魅力。每首歌都是一个美得不行的小故事。是我喜欢的第一个华语歌手呢。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405979540)<br>和Red Velvet还...<br>2019-03-30 14:43<br>赞(0) 踩(0) | <div>会唱会写的女生好有魅力。<br>每首歌都是一个美得不行的小故事。是我喜欢的第一个华语歌手呢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255359360)<br>全部感官按部就班地失常<br>2019-03-22 19:42<br>赞(0) 踩(0) | <div>写满你</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2019-09-16 05:15<br>赞(0) 踩(0) | <div>写满你你你 。 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2526718)<br><br>2019-03-19 13:36<br>赞(0) 踩(0) | <div>有陈绮贞的feel，吉他，干净的声音，低吟浅唱</div> |
@@ -111,7 +111,7 @@ Tie Yann
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2523233)<br>太热<br>2018-05-31 01:45<br>赞(1) 踩(0) | <div>新专辑海外已上架。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334342575)<br><br>2018-06-09 12:48<br>赞(0) 踩(0) | <div>可以私聊详细吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357159296)<br><br>2018-05-28 12:26<br>赞(0) 踩(0) | <div>久仰大名</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357159296)<br><br>2018-05-28 12:23<br>赞(0) 踩(0) | <div>姐姐，虽然我们并不认识，但是我喜欢你的歌曲，如果能够见上一面就好了！娇羽</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357159296)<br><br>2018-05-28 12:23<br>赞(0) 踩(0) | <div>姐姐，虽然我们并不认识，但是我喜欢你的歌曲，如果能够见上一面就好了！<br><br>娇羽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29334503)<br>我还没想好要写什么...<br>2018-05-14 18:18<br>赞(1) 踩(0) | <div>这个歌手真的很棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3065839)<br><br>2018-05-12 18:16<br>赞(0) 踩(0) | <div>变英文了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351506518)<br><br>2018-05-11 01:38<br>赞(1) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -132,7 +132,7 @@ Tie Yann
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8354275)<br><br>2018-03-21 09:31<br>赞(1) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314838722)<br><br>2018-03-21 09:00<br>赞(1) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196511829)<br><br>2018-03-19 10:20<br>赞(2) 踩(0) | <div>不知道说什么，爱您❤️</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2018-03-15 18:28<br>赞(83) 踩(0) | <div>春天好！感谢来到这里的每个大家，在常常更新的音乐日记《Listen》里面发布了新曲《Gone Star》，我很喜欢发展到后面的部分，歌词是写曲时候心中的画面和感受，跟大家分享！： ）新的Mini专辑准备中，5月底发行~Hugs from Yann, Love and best to your dear life.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2018-03-15 18:28<br>赞(83) 踩(0) | <div>春天好！感谢来到这里的每个大家，在常常更新的音乐日记《Listen》里面发布了新曲《Gone Star》，我很喜欢发展到后面的部分，歌词是写曲时候心中的画面和感受，跟大家分享！： ）新的Mini专辑准备中，5月底发行~<br>Hugs from Yann, Love and best to your dear life.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359578636)<br><br>2018-04-23 19:49<br>赞(0) 踩(0) | <div>支持</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351883577)<br><br>2018-07-19 10:38<br>赞(0) 踩(0) | <div>加油 <img src="../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4289511)<br><br>2019-01-25 19:50<br>赞(0) 踩(0) | <div>加油！</div> |
@@ -509,7 +509,7 @@ Tie Yann
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47854354)<br>披着银河的姑娘捧起海里的...<br>2015-03-26 15:24<br>赞(0) 踩(0) | <div>我终于变成了一条鱼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41152184)<br> <br>2015-03-26 01:04<br>赞(0) 踩(0) | <div>谢谢虾米发现了你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7873791)<br>我很聪明，什么也没留下。<br>2015-03-26 00:46<br>赞(0) 踩(0) | <div>等我买了相机就买你的专辑</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10931949)<br>一万个不理解也终归是因为...<br>2015-03-25 20:08<br>赞(0) 踩(0) | <div>你的歌名有cheer的感觉一张口声音完全不一样然而我现在第一遍听你的专辑嗷</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10931949)<br>一万个不理解也终归是因为...<br>2015-03-25 20:08<br>赞(0) 踩(0) | <div>你的歌名有cheer的感觉一张口声音完全不一样<br>然而我现在第一遍听你的专辑<br>嗷</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4286738)<br><br>2015-03-25 18:06<br>赞(0) 踩(0) | <div>我不在国内，没办法买你的专辑，但是希望你能感受到我的支持。:)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4286738)<br><br>2015-03-25 18:04<br>赞(68) 踩(0) | <div>刚刚完整地听完，&amp;lt;&amp;lt;发光的海&amp;gt;&amp;gt;。从intro开始的钢琴旋律，就像名字la luna一样，有月光静静穿过海面的感觉，就像开始一个故事一样打开整张专辑。我喜欢这样用心的，感动人的音乐，加油，铁阳！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4029126)<br>Sun Umbrella<br>2015-03-25 17:34<br>赞(0) 踩(0) | <div>唱的真好听~~~~期待更牛更好</div> |
@@ -580,7 +580,7 @@ Tie Yann
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19613949)<br><br>2015-03-12 22:11<br>赞(0) 踩(0) | <div>该死的  走到我心里去了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23667720)<br>我还没想好要写什么...<br>2015-03-12 21:07<br>赞(0) 踩(0) | <div>心情频率保持平缓的走着走着，突然就微妙的跳了一下，接着就好开心！你的音乐那么容易就走进内心，加油，期待更多优秀的作品。我觉得我家猫咪从此爱上鱼儿了，哈哈~！^_^</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2015-03-23 16:01<br>赞(0) 踩(0) | <div>:  )  猫咪爱上鱼，鱼好危险</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1742487)<br><br>2015-03-12 15:24<br>赞(1) 踩(0) | <div>这名字还以为是个铮铮铁汉子，没想到是唱dream pop的软妹子</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1742487)<br><br>2015-03-12 15:24<br>赞(1) 踩(0) | <div>这名字还以为是个铮铮铁汉子，<br>没想到是唱dream pop的软妹子</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2015-03-23 16:01<br>赞(0) 踩(0) | <div>咩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6465089)<br><br>2015-03-12 10:53<br>赞(0) 踩(0) | <div>哇噻居然真的是铁阳学姐！上次看到你还是商院的钢琴晚会。。。好厉害，加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18400278)<br><br>2015-03-14 23:05<br>赞(0) 踩(0) | <div>她在哪个商校  学校的全名是什么</div> |
@@ -638,7 +638,7 @@ Tie Yann
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15813759)<br>笨蛋魚 (´⊙ω⊙`)<br>2015-02-13 18:19<br>赞(1) 踩(0) | <div>柔和的歌聲~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4882999)<br> <br>2015-02-13 13:54<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423150)<br><br>2015-02-13 13:54<br>赞(0) 踩(0) | <div>舒服~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3601926)<br>到了独自行走的时候。<br>2015-02-13 12:24<br>赞(0) 踩(0) | <div>快去跟李星宇结婚~（咳咳什么鬼）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3601926)<br>到了独自行走的时候。<br>2015-02-13 12:24<br>赞(0) 踩(0) | <div>快去跟李星宇结婚~<br>（咳咳什么鬼）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2015-02-14 22:47<br>赞(0) 踩(0) | <div>嘿，大椰子！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3601926)<br>到了独自行走的时候。<br>2015-02-14 23:41<br>赞(0) 踩(0) | <div><q><b>Tie Yann说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3601926)<br>到了独自行走的时候。<br>2015-02-14 23:42<br>赞(0) 踩(0) | <div><q><b>Tie Yann说：</b></q></div> |
@@ -649,7 +649,7 @@ Tie Yann
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2015-02-16 10:30<br>赞(0) 踩(0) | <div><q><b>贾义秉说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3601926)<br>到了独自行走的时候。<br>2015-02-16 13:17<br>赞(0) 踩(0) | <div><q><b>Tie Yann说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31657880)<br>Hiphop forev...<br>2015-02-13 12:08<br>赞(0) 踩(0) | <div>静谧美好的声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8231674)<br>与日俱在 和光同尘<br>2015-02-03 14:03<br>赞(0) 踩(0) | <div>大海～～～雨水………</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8231674)<br>与日俱在 和光同尘<br>2015-02-03 14:03<br>赞(0) 踩(0) | <div>大海～～～<br>雨水………</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41116216)<br> <br>2015-02-02 14:21<br>赞(0) 踩(0) | <div>觉得鱼类超棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1266707)<br>\'晚安\'是梦的保护伞<br>2015-02-01 21:48<br>赞(0) 踩(0) | <div>清新 喜欢简简单单的调调 温暖~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1779450)<br><br>2015-01-11 14:21<br>赞(0) 踩(0) | <div>很棒，继续加油！创造好音乐！</div> |
@@ -684,7 +684,7 @@ Tie Yann
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43699064)<br><br>2014-11-15 00:12<br>赞(0) 踩(0) | <div>很好听，，，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43699064)<br><br>2014-11-15 00:10<br>赞(0) 踩(0) | <div>老铁的姑娘又是状元还会写歌，好厉害</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28077505)<br>欢喜就好<br>2014-11-14 15:22<br>赞(0) 踩(0) | <div>地理老师女儿！牛逼！法克牛逼！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43350141)<br><br>2014-11-12 10:41<br>赞(0) 踩(0) | <div>点进来一看发现新歌好开心!实在好喜欢鱼类 期待呢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43350141)<br><br>2014-11-12 10:41<br>赞(0) 踩(0) | <div>点进来一看发现新歌好开心!<br>实在好喜欢鱼类 期待呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/559177)<br>郑力健<br>2014-11-11 19:39<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43203530)<br><br>2014-11-05 18:40<br>赞(0) 踩(0) | <div>用心的歌,加油!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1388341)<br>物是人非事事休<br>2014-11-03 00:56<br>赞(0) 踩(0) | <div>加油加油</div> |
@@ -712,11 +712,11 @@ Tie Yann
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5510572)<br>aha<br>2014-10-11 13:38<br>赞(0) 踩(0) | <div>鱼类很棒啊，干嘛不写完。。。未完待续吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2014-10-12 00:04<br>赞(0) 踩(0) | <div>正在编曲 做完整版 :  )</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23535893)<br><br>2014-10-04 21:43<br>赞(0) 踩(0) | <div>哇靠！好棒！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14563157)<br><br>2014-07-01 22:54<br>赞(0) 踩(0) | <div>1.昨天还在感慨每个人都应该努力地去生活，今天就突然云里雾里2.生活就是这样，时而给你惊喜与温暖，时而给你辛酸与痛楚3.目前来看，忙着总比闲着好4.半夜太困又怕迟到导致睡不着，偶然发现的好听的音乐，原创音乐人铁阳，声音温暖而清新，一中的学姐，铁加福老师的闺女。赞。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14563157)<br><br>2014-07-01 22:54<br>赞(0) 踩(0) | <div>1.昨天还在感慨每个人都应该努力地去生活，今天就突然云里雾里<br>2.生活就是这样，时而给你惊喜与温暖，时而给你辛酸与痛楚<br>3.目前来看，忙着总比闲着好<br>4.半夜太困又怕迟到导致睡不着，偶然发现的好听的音乐，原创音乐人铁阳，声音温暖而清新，一中的学姐，铁加福老师的闺女。赞。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11784573)<br>每个渺小的理由都困住自由<br>2014-06-16 23:22<br>赞(0) 踩(0) | <div>路过，赞一个～铁阳加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8429482)<br><br>2014-04-15 15:11<br>赞(0) 踩(0) | <div>唉呀。我这名字暴露了。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8429482)<br><br>2014-04-15 15:11<br>赞(0) 踩(0) | <div>看得出来我是谁不？哈哈</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9851376)<br><br>2014-04-07 09:44<br>赞(0) 踩(0) | <div>看到  这个名字…竟然跟我爸爸同名  才进来听听看声音很好听啊~  歌也不错~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9851376)<br><br>2014-04-07 09:44<br>赞(0) 踩(0) | <div>看到  这个名字…竟然跟我爸爸同名  才进来听听看<br>声音很好听啊~  歌也不错~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7858928)<br> <br>2014-03-16 21:53<br>赞(0) 踩(0) | <div>喜欢这种感觉和声线 就差牛逼的编曲了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2316635)<br>蓝如风，红似火<br>2014-01-18 20:25<br>赞(0) 踩(0) | <div>我觉得那首 八卦八卦 也不错哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1685613)<br>Original sin...<br>2014-01-01 14:40<br>赞(1) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

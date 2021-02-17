@@ -61,14 +61,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8448538)<br>我还没想好要写什么...<br>2020-12-02 13:52<br>赞(0) 踩(0) | <div>送给步步 虽然还有很久才能见面 想告诉你妈妈永远爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-04 10:50<br>赞(0) 踩(0) | <div>那一年到福州 / 杭州举行演唱会，乘车到场地途中听到一个，有关地震灾劫里一位母亲为了保护孩子而牺牲自己的故事，立即写了这首歌，当晚就唱了，之后再在录音室录了一个版本，收录在《思路》专辑。 最大的爱，是为别人而付出，有时甚至不惜冒险牺牲自己；有幸留下来的你跟我，已经得到最好的礼物：生命；活著有时难免会累，如果觉得太疲倦无力，就为了曾经爱自己的人，继续好好活着。 仅以这首作品送给全世界医护人员，前线后盾，上上下下，谢谢您们。谢谢。 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; 一峰 2020.6.1于微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408875275)<br>听歌是一件很个性的事，尊...<br>2020-05-20 07:57<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78555534)<br><br>2019-05-24 21:36<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2054948)<br>我还没想好要写什么...<br>2017-05-22 10:41<br>赞(1) 踩(0) | <div>不要哭不用怕 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17719900)<br>请把我的歌带回你的家<br>2016-10-29 14:00<br>赞(0) 踩(0) | <div>暖</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1671793)<br><br>2014-01-23 18:23<br>赞(1) 踩(0) | <div>树会倒下慢慢化作春泥天空的泪水滋润了炎夏秋雁总会追逐温暖多累都不怕严冬过去玫瑰绽放阳光下</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1671793)<br><br>2014-01-23 18:23<br>赞(1) 踩(0) | <div>树会倒下慢慢化作春泥<br>天空的泪水滋润了炎夏<br>秋雁总会追逐温暖多累都不怕<br>严冬过去玫瑰绽放阳光下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1251638)<br><br>2012-06-19 18:55<br>赞(0) 踩(0) | <div>纯净的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6030839)<br><br>2011-12-01 10:27<br>赞(0) 踩(0) | <div>无常生命永恒的爱</div> |

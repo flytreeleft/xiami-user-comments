@@ -24,5 +24,3 @@ How will he marry without a wife
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

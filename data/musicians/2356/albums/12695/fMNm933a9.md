@@ -48,11 +48,11 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7028925)<br>偶尔回来<br>2020-12-31 13:47<br>赞(0) 踩(0) | <div>这样的曲风倒是在后期杨乃文的歌曲中，不再出现了。年轻时候的随性，真的是一股强有力的水流。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11897335)<br>B<br>2020-10-21 00:08<br>赞(0) 踩(0) | <div>你好害怕爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4875959)<br>天地玄黄 宇宙洪荒 再见...<br>2020-06-22 01:04<br>赞(2) 踩(0) | <div>还你自由 给我自由这样大家都开心了 对吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4875959)<br>天地玄黄 宇宙洪荒 再见...<br>2020-06-22 01:04<br>赞(2) 踩(0) | <div>还你自由 给我自由<br>这样大家都开心了 对吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329340664)<br><br>2020-04-15 08:47<br>赞(1) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439892691)<br>坦荡荡<br>2020-02-24 08:13<br>赞(1) 踩(0) | <div>敬乃文，敬歌词，敬贝斯！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75669344)<br>我还没想好要写什么...<br>2020-02-18 07:12<br>赞(3) 踩(0) | <div>杨乃文总是常听常新</div> |
@@ -68,7 +68,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9152977)<br>不合群的音谋者。<br>2018-06-30 22:36<br>赞(0) 踩(0) | <div>兩分鐘那段bass有點像surrender中間那段</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32061551)<br>Laus Deo<br>2018-06-14 09:20<br>赞(2) 踩(0) | <div>这首歌听得太舒服了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2737024)<br>不是僵尸号，台湾流行乐爱...<br>2018-03-28 13:47<br>赞(1) 踩(0) | <div>编曲的Monster到底是谁呀？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31608105)<br>人心是不待风吹而自落的花<br>2018-03-07 17:08<br>赞(2) 踩(0) | <div>&amp;quot;今天我终于放手　其实你早已解脱&amp;quot;有一方先解脱也不错, 总比两个人都活在痛苦中好~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31608105)<br>人心是不待风吹而自落的花<br>2018-03-07 17:08<br>赞(2) 踩(0) | <div>&amp;quot;今天我终于放手　其实你早已解脱&amp;quot;<br>有一方先解脱也不错, 总比两个人都活在痛苦中好~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64742788)<br>天黑你不能见我，天黑至少...<br>2018-01-14 17:11<br>赞(4) 踩(0) | <div>即使不是专辑的主打，也能让人反复循环，杨乃文Queen，声音，唱腔就是有这种魔力！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3516744)<br> <br>2018-06-08 17:11<br>赞(0) 踩(0) | <div>这张专辑也太好听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202464874)<br><br>2018-01-05 11:29<br>赞(3) 踩(0) | <div>太舒服了</div> |

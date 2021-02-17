@@ -52,8 +52,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258184169)<br><br>2020-12-23 18:01<br>赞(0) 踩(0) | <div>就这声音比王菲怎么样，红不红和炒作的好真有关系 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348712956)<br>再漂亮点 、聪明点 、可...<br>2020-08-25 09:25<br>赞(2) 踩(0) | <div>心疼以前的自己 对自己说声对不起 以前为了无意义的人和事为难了自己 浪费了时间 错过了机遇也伤害了自己的身体 用这些换来了认清事实也算是有舍也有得吧 及时止损 那些不好的记忆就此永久delete 格式化了 从此以后 我将带着自己的骄傲继续前行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25732710)<br>我还没想好要写什么...<br>2020-07-09 21:32<br>赞(1) 踩(0) | <div>分手其实是一件很值得开心的事情</div> |
@@ -158,7 +158,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242610)<br>我还没想好要写什么...<br>2017-03-19 13:34<br>赞(2) 踩(0) | <div>我在热恋期为何单曲循环这首歌三天了。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117376874)<br>我还没想好要写什么...<br>2017-04-11 22:11<br>赞(0) 踩(0) | <div>好听与心境、环境无关</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44670527)<br>我来自宇宙某个角落，散落...<br>2017-03-17 21:47<br>赞(4) 踩(0) | <div>很好听。但是金海心怎么消失了呢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10547187)<br>只有时间不会撒谎<br>2017-03-17 08:43<br>赞(2) 踩(0) | <div>失去了一个不爱你的人你应该感觉幸福</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10547187)<br>只有时间不会撒谎<br>2017-03-17 08:43<br>赞(2) 踩(0) | <div>失去了一个不爱你的人<br>你应该感觉幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28526415)<br><br>2017-03-10 22:27<br>赞(0) 踩(0) | <div>每天听为自己加油打气</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253518097)<br>哈哈，爱虾米。<br>2017-03-28 21:21<br>赞(0) 踩(0) | <div>我也用过这个头像 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94460654)<br><br>2017-03-10 11:11<br>赞(0) 踩(0) | <div>转吧&amp;hellip;&amp;hellip;</div> |
@@ -166,7 +166,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43932735)<br>oninho<br>2017-02-24 09:22<br>赞(0) 踩(0) | <div>尊好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11230787)<br><br>2017-02-02 03:51<br>赞(2) 踩(0) | <div>草泥马死也睡不着我可是要上班的人。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117376874)<br>我还没想好要写什么...<br>2017-04-11 22:12<br>赞(0) 踩(0) | <div>深夜听到好听的歌都这样，痛并快乐着</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2017-01-17 22:31<br>赞(0) 踩(0) | <div>好听喜欢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2017-01-17 22:31<br>赞(0) 踩(0) | <div>好听<br>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45346916)<br>我还没想好要写什么...<br>2017-01-14 16:49<br>赞(1) 踩(0) | <div>感受感受甜滋滋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82287926)<br>别傻了，没有人心疼的伤心...<br>2017-01-13 16:00<br>赞(0) 踩(0) | <div>要走的谁也拦不住……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260380561)<br><br>2017-01-12 00:16<br>赞(0) 踩(0) | <div>越听越喜欢！！！</div> |
@@ -248,7 +248,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7051917)<br>活着是世界的本源动力<br>2014-07-07 11:27<br>赞(0) 踩(0) | <div>竹说：“爱转到下一个路口 你要勇敢往前冲 。”竹，么么么~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15368636)<br>爱就宅一起<br>2014-05-25 12:11<br>赞(0) 踩(0) | <div>静静聆听，细细品味~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34744840)<br><br>2014-05-24 00:35<br>赞(0) 踩(0) | <div>。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10374996)<br>天天开心<br>2014-05-10 22:49<br>赞(19) 踩(0) | <div>要走的谁也拦不住何苦一个人执着对镜贴黄花人消瘦逝去光阴惹人妒爱转了一圈到下一个路口你要勇敢往前冲每一段通彻心扉的付出都是珍贵的礼物爱转了一圈到下一个路口你要勇敢往前冲失去了一个不爱你的人你应该感觉幸福再痛不过前尘往事咬咬牙就挺过去再聚首弹指已陌路别让眼泪忍不住爱转了一圈到下一个路口你要勇敢往前冲每一段痛彻心扉的付出都是珍贵的礼物爱转了一圈到下一个路口你要勇敢往前冲失去了一个不爱你的人你应该感觉幸福是你的你要把握住不是你的请让路退一步会海阔天空爱本来就跌宕起伏</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10374996)<br>天天开心<br>2014-05-10 22:49<br>赞(19) 踩(0) | <div>要走的谁也拦不住<br>何苦一个人执着<br>对镜贴黄花人消瘦<br>逝去光阴惹人妒<br><br>爱转了一圈到下一个路口<br>你要勇敢往前冲<br>每一段通彻心扉的付出<br>都是珍贵的礼物<br>爱转了一圈到下一个路口<br>你要勇敢往前冲<br>失去了一个不爱你的人<br>你应该感觉幸福<br><br>再痛不过前尘往事<br>咬咬牙就挺过去<br>再聚首弹指已陌路<br>别让眼泪忍不住<br><br>爱转了一圈到下一个路口<br>你要勇敢往前冲<br>每一段痛彻心扉的付出<br>都是珍贵的礼物<br>爱转了一圈到下一个路口<br>你要勇敢往前冲<br>失去了一个不爱你的人<br>你应该感觉幸福<br><br>是你的你要把握住<br>不是你的请让路<br>退一步会海阔天空<br>爱本来就跌宕起伏</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10374996)<br>天天开心<br>2019-11-22 23:45<br>赞(0) 踩(0) | <div>❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11338277)<br><br>2014-04-14 23:08<br>赞(0) 踩(0) | <div>今天发现自己真的很二呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17724283)<br><br>2014-03-07 11:01<br>赞(0) 踩(0) | <div>好听</div> |
@@ -276,17 +276,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12280658)<br><br>2013-03-14 22:00<br>赞(0) 踩(0) | <div>爱转了一圈到下一个路口 你要勇敢往前冲 是你的你要把握住 不是你的请让路 退一步会海阔天空 爱本来就跌宕起伏【这番小心翼翼 没有把握不出口 此时滋味莫名而奇妙。。】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2606667)<br><br>2013-03-07 21:44<br>赞(0) 踩(0) | <div>突然发现金海心这歌真动听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11864594)<br><br>2012-12-22 11:55<br>赞(0) 踩(0) | <div>爱转了一圈到下一个路口，你要勇敢的往前冲~不知道为什么，每次听到这首歌，我就会很有，正能量~！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2012-12-22 06:53<br>赞(0) 踩(0) | <div>爱转了一圈到下一个路口你要勇敢往前冲失去了一个不爱你的人你应该感觉幸福</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/708621)<br>追梦人<br>2012-10-26 04:36<br>赞(0) 踩(0) | <div>是你的你要把握住不是你的请让路退一步会海阔天空爱本来就跌宕起伏</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2012-12-22 06:53<br>赞(0) 踩(0) | <div>爱转了一圈到下一个路口<br>你要勇敢往前冲<br>失去了一个不爱你的人<br>你应该感觉幸福</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/708621)<br>追梦人<br>2012-10-26 04:36<br>赞(0) 踩(0) | <div>是你的你要把握住<br>不是你的请让路<br>退一步会海阔天空<br>爱本来就跌宕起伏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/708621)<br>追梦人<br>2012-10-05 00:21<br>赞(0) 踩(0) | <div>金海心的声音是我爱死的类型。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4754932)<br><br>2012-09-21 12:16<br>赞(0) 踩(0) | <div>爱转了一圈到下一个路口你要勇敢往前冲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4754932)<br><br>2012-09-21 12:16<br>赞(0) 踩(0) | <div>爱转了一圈到下一个路口<br>你要勇敢往前冲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10701701)<br><br>2012-09-20 23:09<br>赞(0) 踩(0) | <div>正在听金海星的歌，做面膜听歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1869581)<br><br>2012-09-15 14:09<br>赞(0) 踩(0) | <div>这么多年还是喜欢金海心的声音。。。这个歌挺适合现在听~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8666124)<br>世界与我无关<br>2012-09-04 07:43<br>赞(0) 踩(0) | <div>吉他吉他，练吉他了要！早安！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6549802)<br> <br>2012-09-03 15:52<br>赞(0) 踩(0) | <div>干净的声音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9884718)<br>我还没想好要写什么...<br>2012-08-12 13:26<br>赞(0) 踩(0) | <div>要走的谁也拦不住何苦一个人执着</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9884718)<br>我还没想好要写什么...<br>2012-08-12 13:26<br>赞(0) 踩(0) | <div>要走的谁也拦不住<br>何苦一个人执着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5736357)<br><br>2012-06-18 16:35<br>赞(0) 踩(0) | <div>******</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2691052)<br>且看那青山綠水別來無恙。<br>2012-06-07 17:56<br>赞(0) 踩(0) | <div>失去了一个不爱你的人你应该感觉幸福</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2691052)<br>且看那青山綠水別來無恙。<br>2012-06-07 17:56<br>赞(0) 踩(0) | <div>失去了一个不爱你的人<br>你应该感觉幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8963455)<br><br>2012-06-01 18:05<br>赞(1) 踩(0) | <div>I like it</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8212211)<br><br>2012-05-08 20:22<br>赞(0) 踩(0) | <div>爱转了一圈 又回到原点 也是新的起点 不爱自己的人 留在身边又能如何？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5047054)<br><br>2012-04-26 11:46<br>赞(0) 踩(0) | <div>单曲循环~这声音我太喜欢鸟~</div> |
@@ -312,7 +312,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3468376)<br><br>2011-04-04 13:11<br>赞(0) 踩(0) | <div>爱转了一圈 等下一个路口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489408)<br>跑在时间的前面。<br>2011-04-02 08:59<br>赞(0) 踩(0) | <div>何苦执着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2619974)<br>聆听你的声音。<br>2011-03-30 22:17<br>赞(0) 踩(0) | <div>就是这样。喜欢这种遇见幸福的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376825)<br><br>2011-03-30 12:38<br>赞(0) 踩(0) | <div>爱转了一圈——群星版<a href="http://www.xiami.com/song/1769113707" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1769113707</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376825)<br><br>2011-03-30 12:38<br>赞(0) 踩(0) | <div>爱转了一圈——群星版<br><a href="http://www.xiami.com/song/1769113707" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1769113707</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3141584)<br><br>2011-03-20 21:51<br>赞(0) 踩(0) | <div>一边喝着奶茶，一边听着这首歌，就有力量了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1154061)<br><br>2011-02-25 13:02<br>赞(1) 踩(0) | <div>歌词非常认同~金海心同学虽然鼻音蛮重~但是蛮好听的~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73)<br>平靜是我的嚮往<br>2011-02-22 22:21<br>赞(1) 踩(0) | <div>失去了一个你不爱的人，你应该感到幸福， 这歌词写的“比往前一步是幸福，往后一步是孤独”（《非诚勿扰》裹脚布版片尾曲）要有文化得多。 洋气的东西再土，那叫复古；土的东西假装洋气，只能更土。</div> |

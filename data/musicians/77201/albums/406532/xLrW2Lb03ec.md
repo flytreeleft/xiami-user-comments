@@ -12,19 +12,16 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410438672)<br><br>2020-12-12 23:30<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39019310)<br>遥遥的一颗星，纵使喜欢不...<br>2020-10-20 22:27<br>赞(0) 踩(0) | <div>最近的入眠曲。有了期待，今晚格外香甜，晚安 <img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44692616)<br><br>2020-10-11 13:18<br>赞(0) 踩(0) | <div>夜雪唐代 &amp;middot; 白居易已讶衾枕冷，复见窗户明。夜深知雪重，时闻折竹声。译文夜卧枕被如冰，不由让我很惊讶，又看见窗户被白雪泛出的光照亮。夜深的时候就知道雪下得很大，是因为不时地能听到雪把竹枝压折的声音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44692616)<br><br>2020-10-11 13:18<br>赞(0) 踩(0) | <div>夜雪唐代 &amp;middot; 白居易已讶衾枕冷，复见窗户明。夜深知雪重，时闻折竹声。译文夜卧枕被如冰，不由让我很惊讶，又看见窗户被白雪泛出的光照亮。夜深的时候就知道雪下得很大，是因为不时地能听到雪把竹枝压折的声音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44692616)<br><br>2020-10-11 13:18<br>赞(0) 踩(0) | <div>夜雪唐代 &amp;middot; 白居易已讶衾枕冷，复见窗户明。夜深知雪重，时闻折竹声。译文已讶衾枕冷，复见窗户明。夜卧枕被如冰，不由让我很惊讶，又看见窗户被白雪泛出的光照亮。夜深知雪重，时闻折竹声。夜深的时候就知道雪下得很大，是因为不时地能听到雪把竹枝压折的声音。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39019310)<br>遥遥的一颗星，纵使喜欢不...<br>2020-10-20 22:27<br>赞(0) 踩(0) | <div>最近的入眠曲。<br>有了期待，今晚格外香甜，晚安 <img src="../../../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44692616)<br><br>2020-10-11 13:18<br>赞(0) 踩(0) | <div>夜雪<br><br>唐代 &amp;middot; 白居易<br><br><br>已讶衾枕冷，<br><br>复见窗户明。<br><br>夜深知雪重，<br><br>时闻折竹声。<br><br>译文<br><br>夜卧枕被如冰，不由让我很惊讶，又看见窗户被白雪泛出的光照亮。<br><br>夜深的时候就知道雪下得很大，是因为不时地能听到雪把竹枝压折的声音。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44692616)<br><br>2020-10-11 13:18<br>赞(0) 踩(0) | <div>夜雪<br>唐代 &amp;middot; 白居易<br><br><br>已讶衾枕冷，<br><br>复见窗户明。<br><br>夜深知雪重，<br><br>时闻折竹声。<br><br>译文<br><br>夜卧枕被如冰，不由让我很惊讶，又看见窗户被白雪泛出的光照亮。<br><br>夜深的时候就知道雪下得很大，是因为不时地能听到雪把竹枝压折的声音。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44692616)<br><br>2020-10-11 13:18<br>赞(0) 踩(0) | <div>夜雪<br>唐代 &amp;middot; 白居易<br><br><br>已讶衾枕冷，<br><br>复见窗户明。<br><br>夜深知雪重，<br><br>时闻折竹声。<br><br>译文<br><br>已讶衾枕冷，复见窗户明。<br><br>夜卧枕被如冰，不由让我很惊讶，又看见窗户被白雪泛出的光照亮。<br><br>夜深知雪重，时闻折竹声。<br><br>夜深的时候就知道雪下得很大，是因为不时地能听到雪把竹枝压折的声音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39019310)<br>遥遥的一颗星，纵使喜欢不...<br>2020-09-26 22:43<br>赞(0) 踩(0) | <div>又发现一首陪伴入睡的曲子，旋律真好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345715086)<br><br>2020-09-21 03:20<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301374251)<br>爱音乐的孩子都是好孩子。<br>2020-08-23 09:16<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
@@ -63,12 +60,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28949285)<br>小舟此逝江海余生<br>2019-07-26 07:03<br>赞(1) 踩(0) | <div>宁静的夜晚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400106975)<br>我不知道该说什么啊……<br>2019-07-25 12:39<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43319482)<br>海边猴<br>2019-07-24 06:18<br>赞(1) 踩(0) | <div>美妙的旋律歌曲，鱼儿永远听不够。 <img src="../../../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../../../images/comments/826f6e8b2de82eb0936cb4275de10a14.png"> <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356035642)<br>怎奈那林海石径深幽处，夕...<br>2019-07-15 00:34<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356035642)<br>怎奈那林海石径深幽处，夕...<br>2019-07-15 00:34<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"><br><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"><br><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"><br><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"><br><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"><br><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400106975)<br>我不知道该说什么啊……<br>2019-07-08 12:42<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377641124)<br>用心灵诠释音乐，用音乐感...<br>2019-07-08 08:50<br>赞(21) 踩(0) | <div>石进写的钢琴曲不是多么精深、高妙，演奏起来也不需要什么高难度的技巧，但却打动了众多听众，南宁钢琴家陈斯凡也很喜欢“夜的钢琴曲”，他觉得石进的作品非常真诚。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50547751)<br><br>2019-07-02 11:23<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26838003)<br> <br>2019-06-28 08:11<br>赞(0) 踩(0) | <div>☕️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6256390)<br><br>2019-06-27 17:40<br>赞(1) 踩(0) | <div>若夜深，怎敢听。只是邂逅的那个时间，恰恰是深夜从此，总会不经意碰见</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6256390)<br><br>2019-06-27 17:40<br>赞(1) 踩(0) | <div>若夜深，怎敢听。<br>只是邂逅的那个时间，恰恰是深夜<br>从此，总会不经意碰见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11859810)<br><br>2019-06-20 09:37<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310780622)<br><br>2019-05-25 20:35<br>赞(0) 踩(0) | <div>累了，静下心，来一曲石进的钢琴曲，细细地品味，好享受……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341324413)<br>清水无忧，皆因随性；落叶...<br>2019-05-15 09:33<br>赞(4) 踩(0) | <div>静夜无语，独自守着阑珊的月光，拥着轻轻浅浅的前尘往事，沉醉。</div> |
@@ -86,7 +83,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63745010)<br>随心.随性.随遇.随缘<br>2019-01-08 07:08<br>赞(3) 踩(0) | <div>学会在黑暗中向往光明~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129335500)<br>知音畅平<br>2018-12-30 07:22<br>赞(1) 踩(0) | <div>夜深人静弄琴声，如猫叫春烦四邻。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20210569)<br>只要你肯迈步，路就在你的...<br>2018-12-29 23:25<br>赞(2) 踩(0) | <div>好听啊！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49016407)<br>文字是音乐的感悟。<br>2018-12-29 16:18<br>赞(39) 踩(0) | <div>岁末的北国经已大雪纷飞了，而南疆广州罗岗和应的正是梅花绽放的香雪海的呢！……细看不是雪无香，天风吹得香零落！如依梅花几弄猜度？……这《夜的钢琴曲二十六》该是二弄花期无疑了！不远处罗峰寺梅钟起奏，……梅姬婀娜，又可否正是二十六佳龄呢？…… <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49016407)<br>文字是音乐的感悟。<br>2018-12-29 16:18<br>赞(39) 踩(0) | <div>岁末的北国经已大雪纷飞了，而南疆广州罗岗和应的正是梅花绽放的香雪海的呢！<br>……细看不是雪无香，天风吹得香零落！如依梅花几弄猜度？……这《夜的钢琴曲二十六》该是二弄花期无疑了！<br>不远处罗峰寺梅钟起奏，……梅姬婀娜，又可否正是二十六佳龄呢？…… <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334730963)<br>倾听美好~<br>2018-12-19 05:08<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355009878)<br>2019各自安好足矣~~...<br>2018-12-14 12:47<br>赞(2) 踩(0) | <div>喜欢一个人只能放心底 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29630078)<br><br>2018-12-05 15:52<br>赞(2) 踩(0) | <div>well</div> |
@@ -96,7 +93,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356301509)<br>来自大洋彼岸<br>2018-11-05 06:02<br>赞(1) 踩(0) | <div>Good</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16178749)<br>愿各自安好……………… <br>2018-10-31 06:26<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349351492)<br>我还没想好要写什么..<br>2018-10-26 06:53<br>赞(10) 踩(0) | <div>知足就是，不羡慕比自己幸福的，不嫉妒比自己优秀的，对自己拥有的一切，心怀感恩，无比珍惜。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271394621)<br><br>2018-10-13 12:08<br>赞(5) 踩(0) | <div>螃蟹️在剥我的壳笔记本在写我漫天的我落在枫叶上而你在想我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271394621)<br><br>2018-10-13 12:08<br>赞(5) 踩(0) | <div>螃蟹️在剥我的壳<br>笔记本在写我<br>漫天的我落在枫叶上<br>而你在想我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250111274)<br>音乐生活之旅由此出发……<br>2018-10-12 13:52<br>赞(20) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4714884)<br>用不完美的人去拼凑出个完...<br>2018-10-09 07:24<br>赞(3) 踩(0) | <div>幸亏前几年就下载了夜的钢琴曲全集，现在都要VIP才行了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405177548)<br><br>2018-10-08 22:40<br>赞(2) 踩(0) | <div>石进的曲子好棒啊</div> |
@@ -140,7 +137,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85427200)<br>愿得一人心，白首不相离<br>2017-12-13 23:02<br>赞(0) 踩(0) | <div>曾经的海誓山盟，现价的温馨道侣.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247702363)<br><br>2017-12-03 17:06<br>赞(0) 踩(0) | <div>任务</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297034291)<br><br>2017-11-28 17:31<br>赞(0) 踩(0) | <div>人生不来就是个过程</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335264223)<br><br>2017-11-23 07:37<br>赞(3) 踩(0) | <div>我听过的每一首歌都会留言，是因为希望有一天你也能看到世界上最痛苦的事就是 暗恋。好像&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;就算你看到了也没什么用</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335264223)<br><br>2017-11-23 07:37<br>赞(3) 踩(0) | <div>我听过的每一首歌都会留言，是因为希望有一天你也能看到<br><br>世界上最痛苦的事就是 暗恋。<br><br>好像&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;就算你看到了也没什么用</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202871621)<br>房间音乐人 微博：谢小呆...<br>2017-11-17 08:20<br>赞(2) 踩(0) | <div>时常都是一个人 但我不孤单 因为有音乐为伴 我想我此生是离不开音乐了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332216800)<br>灵魂深处有只狗<br>2017-11-14 13:31<br>赞(0) 踩(0) | <div>啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282699279)<br>万法皆空因果不空破迷开悟...<br>2017-10-12 08:18<br>赞(1) 踩(0) | <div>美！</div> |
@@ -197,7 +194,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4470216)<br><br>2011-06-28 13:43<br>赞(0) 踩(0) | <div>夜的钢琴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1237880)<br><br>2011-06-27 23:47<br>赞(0) 踩(0) | <div>别光顾着织围脖，来首轻音乐放松下吧~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4466138)<br><br>2011-06-27 23:33<br>赞(0) 踩(0) | <div>夜的钢琴曲二十六。晚安。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/573243)<br><br>2011-05-17 19:49<br>赞(177) 踩(0) | <div>低音引入高音帶動引人入夢在零碎的琴音中 令人彷彿醉薰薰醉在那雨下 想找一棵樹 能休息會回想起那以往的回憶 面上笑了是苦笑還是那純美的笑?還是笑自己的天真呢?最後以高音兩聲完結</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/573243)<br><br>2011-05-17 19:49<br>赞(177) 踩(0) | <div>低音引入<br>高音帶動<br>引人入夢<br>在零碎的琴音中 令人彷彿醉薰薰<br>醉在那雨下 想找一棵樹 能休息會<br>回想起那以往的回憶 面上笑了<br>是苦笑還是那純美的笑?還是笑自己的天真呢?<br>最後以高音兩聲完結</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374140760)<br><br>2018-06-10 10:39<br>赞(0) 踩(0) | <div>9</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99137330)<br><br>2018-10-29 09:39<br>赞(0) 踩(0) | <div>。9，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1574331)<br>青春<br>2011-04-11 17:54<br>赞(0) 踩(0) | <div>放松，心情不浮躁的最佳选择</div> |

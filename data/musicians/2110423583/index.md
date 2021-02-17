@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ffa7ddc999f84530fd71ad1de5f78aa9.jpg)<br>前行](https://i.xiami.com/jizian) | **播放数**: 1439366<br>**粉丝数**: 39<br>**评论数**: 2<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/ffa7ddc999f84530fd71ad1de5f78aa9.jpg)<br>前行](https://i.xiami.com/jizian) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 1439366<br>**粉丝数**: 39<br>**评论数**: 2<br> |
 
 ## 档案
 
@@ -20,7 +20,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378980585)<br><br>2019-07-22 23:02<br>赞(0) 踩(0) | <div>支持支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378980585)<br><br>2019-07-22 23:02<br>赞(0) 踩(0) | <div>超好听</div> |

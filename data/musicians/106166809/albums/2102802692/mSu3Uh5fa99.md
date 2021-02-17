@@ -72,5 +72,3 @@ Skin I'm living in things I'm suffering
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

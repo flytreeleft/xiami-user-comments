@@ -25,5 +25,3 @@ This little finger on my right
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

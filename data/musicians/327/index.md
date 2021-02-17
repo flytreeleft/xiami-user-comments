@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/cdf9231a36cd0e0b4497ce2b9998de38.jpg)<br>贺西格](https://i.xiami.com/hxgmtq) | **播放数**: 9748054<br>**粉丝数**: 7131<br>**评论数**: 218<br>**地区**: China 中国大陆<br>**风格**: 中国民乐 Chinese Folk Music, 新世纪音乐 New Age<br> |
+| [![](../../images/musicians/cdf9231a36cd0e0b4497ce2b9998de38.jpg)<br>贺西格](https://i.xiami.com/hxgmtq) | **地区**: China 中国大陆<br>**风格**: 中国民乐 Chinese Folk Music, 新世纪音乐 New Age<br>**播放数**: 9748054<br>**粉丝数**: 7131<br>**评论数**: 218<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414467875)<br><br>2020-08-23 16:44<br>赞(0) 踩(0) | <div>简直听出耳油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145560328)<br>音乐，她是灵魂的交集、心...<br>2020-08-14 23:03<br>赞(0) 踩(0) | <div>真的确实可以！传统音乐要大力推广、发扬光大！ 音乐是心灵的奔放与人生的沉淀。 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410304984)<br><br>2020-05-30 19:34<br>赞(0) 踩(0) | <div>❤️❤️</div> |
@@ -50,10 +50,10 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2367065)<br><br>2018-12-06 14:07<br>赞(1) 踩(0) | <div>喜欢你的乐曲！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330900828)<br>高舉一面五星紅旗在蝦米！<br>2018-11-16 10:11<br>赞(2) 踩(0) | <div>龙飞凤舞 <img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"> <img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17584208)<br><br>2018-11-04 09:37<br>赞(3) 踩(0) | <div>心的诉说</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2491956)<br>我还没想好要写什么...<br>2018-10-23 16:57<br>赞(1) 踩(0) | <div>贺西格:感谢你收藏我的作品《风中的苏鲁德》，我在虾米音乐人期待你的关注。——贺老师太客气了，您的音乐非常牛逼</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2491956)<br>我还没想好要写什么...<br>2018-10-23 16:57<br>赞(1) 踩(0) | <div>贺西格:感谢你收藏我的作品《风中的苏鲁德》，我在虾米音乐人期待你的关注。<br><br>——贺老师太客气了，您的音乐非常牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254720160)<br><br>2018-09-08 22:16<br>赞(1) 踩(0) | <div>很好优秀的艺术家！支持！音乐是最好的灵魂！！ <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354939751)<br>留住青春的美好献给美好的...<br>2018-09-04 06:19<br>赞(0) 踩(0) | <div>纯老乡，都是红山文化孕育的美好！在异国他乡想家就望着繁星明月听贺西格拉响的马头琴声</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346087991)<br>医路漫漫 音乐为伴<br>2018-08-27 22:01<br>赞(0) 踩(0) | <div>为什么你的琴声这么抓人？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346087991)<br>医路漫漫 音乐为伴<br>2018-08-27 22:01<br>赞(0) 踩(0) | <div>为什么你的琴声<br>这么抓人？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277583981)<br>顺境时照顾别人，逆境时照...<br>2018-11-28 11:06<br>赞(0) 踩(0) | <div>叙事太强</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341086760)<br><br>2018-06-23 12:15<br>赞(1) 踩(0) | <div>这个声音听着让人莫名的感动</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50173456)<br><br>2018-05-29 22:05<br>赞(1) 踩(0) | <div>贺西格，又快两年了，何时出新作？</div> |
@@ -73,7 +73,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9080939)<br>不为无益之事，何遣有涯之...<br>2017-06-19 22:04<br>赞(2) 踩(0) | <div>贺西格，摇篮曲</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9080939)<br>不为无益之事，何遣有涯之...<br>2018-02-05 22:03<br>赞(0) 踩(0) | <div>森吉德玛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258992467)<br><br>2017-06-15 18:12<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83811112)<br>无处不离痕<br>2017-05-19 17:18<br>赞(2) 踩(0) | <div>贺西格的音乐已经具有代表性有了自己的符号，可能提起马头琴第一个想到的就是他</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83811112)<br>无处不离痕<br>2017-05-19 17:18<br>赞(2) 踩(0) | <div>贺西格的音乐已经具有代表性<br>有了自己的符号，可能提起马头琴第一个想到的就是他</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263950776)<br><br>2017-05-01 12:32<br>赞(0) 踩(0) | <div>心声悠然&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291380695)<br> <br>2017-04-27 22:33<br>赞(0) 踩(0) | <div>好好听 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288716996)<br><br>2017-04-15 16:06<br>赞(3) 踩(0) | <div>第一次从老师手机听到他的乡愁我就喜欢上了 我准备用他的歌来跳组合 然后高考 加油 <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
@@ -109,7 +109,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5657731)<br>在音乐面前语言很苍白<br>2015-01-02 11:54<br>赞(15) 踩(0) | <div>语言已经多余</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37980879)<br><br>2014-12-27 09:56<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10850905)<br>音乐是为了更好的活着！<br>2014-12-09 10:49<br>赞(0) 踩(0) | <div>好听！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8138687)<br>我还没想好要写什么...<br>2014-12-03 20:41<br>赞(0) 踩(0) | <div>非常的喜欢01摇篮曲</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8138687)<br>我还没想好要写什么...<br>2014-12-03 20:41<br>赞(0) 踩(0) | <div>非常的喜欢<br>01摇篮曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323335)<br>成年人&年轻人<br>2014-10-17 23:53<br>赞(2) 踩(0) | <div>加东西太多！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13552)<br><br>2014-10-08 10:38<br>赞(1) 踩(0) | <div>摇篮曲、黑小伙、万丽姑娘、归来的马</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1477810)<br>阿伏加德罗常数<br>2014-08-06 11:18<br>赞(3) 踩(0) | <div>配乐太复杂了。就要纯纯的琴声。</div> |
@@ -132,7 +132,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9138832)<br><br>2013-12-13 14:21<br>赞(0) 踩(0) | <div>ok</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5604569)<br><br>2013-10-13 22:03<br>赞(0) 踩(0) | <div>ooo</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15474157)<br>你是人间四月天~<br>2013-10-01 10:13<br>赞(0) 踩(0) | <div>悠扬，豪放</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5790217)<br><br>2013-09-19 11:16<br>赞(1) 踩(0) | <div>术业有专人自学成才的,对爱好有执着感的 专家</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5790217)<br><br>2013-09-19 11:16<br>赞(1) 踩(0) | <div>术业有专人<br>自学成才的,对爱好有执着感的 专家</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7511264)<br><br>2013-09-04 18:01<br>赞(1) 踩(0) | <div>天边的旋律最为悠扬......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1178281)<br><br>2013-08-31 11:10<br>赞(0) 踩(0) | <div>民族音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18422326)<br><br>2013-08-02 23:22<br>赞(0) 踩(0) | <div>喜欢</div> |
@@ -183,7 +183,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4909747)<br><br>2012-05-13 15:53<br>赞(0) 踩(0) | <div>喜欢的音乐演奏家</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8018643)<br><br>2012-05-04 18:06<br>赞(0) 踩(0) | <div>べ_べ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3330714)<br>nono<br>2012-05-03 18:55<br>赞(0) 踩(0) | <div>从朋友那里听来的。以杨柳最好。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4306998)<br><br>2012-05-01 00:49<br>赞(36) 踩(0) | <div>很多年了，因为浮躁没有真正的听贺西格，所以一直只喜欢他的《摇篮曲》。直到现在才发现原来他不仅仅只有《摇篮曲》。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4306998)<br><br>2012-05-01 00:49<br>赞(36) 踩(0) | <div>很多年了，因为浮躁没有真正的听贺西格，所以一直只喜欢他的《摇篮曲》。<br>直到现在才发现原来他不仅仅只有《摇篮曲》。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280317)<br>地中有山，永远<br>2012-09-10 23:11<br>赞(0) 踩(0) | <div>摇篮曲真是太美了！马头琴一想起，便觉得荡气回肠，胸腔共鸣，心怀大草原。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4306998)<br><br>2012-09-11 17:58<br>赞(0) 踩(0) | <div><q><b>Applee说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280317)<br>地中有山，永远<br>2012-09-12 15:56<br>赞(0) 踩(0) | <div><q><b>勥氼说：</b></q></div> |
@@ -193,7 +193,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311426919)<br><br>2017-10-19 10:54<br>赞(0) 踩(0) | <div>我一大早听到现在，以前对草原音乐不痛不痒，直到今天早上</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311426919)<br><br>2017-10-19 10:57<br>赞(0) 踩(0) | <div>我差不多也是喜新厌旧很快，浮躁，但真正打动的还是会驻足很久呢……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8761419)<br>shengCn<br>2012-04-19 18:02<br>赞(0) 踩(0) | <div>4-19/12 no Voice ?</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283897)<br><br>2012-04-18 22:00<br>赞(1) 踩(0) | <div>我的琴声呜咽 泪水全无。。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283897)<br><br>2012-04-18 22:00<br>赞(1) 踩(0) | <div>我的琴声呜咽 泪水全无<br><br>。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8811726)<br><br>2012-04-10 10:32<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3504841)<br>好吃懒做，听听音乐懒散的<br>2012-04-05 13:07<br>赞(0) 踩(0) | <div>蒙古的悠扬~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1309136)<br><br>2012-04-03 16:34<br>赞(0) 踩(0) | <div>不错啊</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ca070b2c6ae583a3800a2bf383c8fa32.jpg)<br>虾米先生](https://i.xiami.com/xiamixiansheng) | **播放数**: 55575<br>**粉丝数**: 7<br>**评论数**: 0<br>**地区**: 中国大陆 China<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/ca070b2c6ae583a3800a2bf383c8fa32.jpg)<br>虾米先生](https://i.xiami.com/xiamixiansheng) | **地区**: 中国大陆 China<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 55575<br>**粉丝数**: 7<br>**评论数**: 0<br> |
 
 ## 档案
 
@@ -24,5 +24,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

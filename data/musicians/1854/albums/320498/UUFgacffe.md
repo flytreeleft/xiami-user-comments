@@ -46,5 +46,3 @@ Without you somewhere waiting
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

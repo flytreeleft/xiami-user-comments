@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3f6ecd3358da97749188217f0fe81196.png)<br>傲雪](https://i.xiami.com/aoxue) | **播放数**: 2347975<br>**粉丝数**: 196<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/3f6ecd3358da97749188217f0fe81196.png)<br>傲雪](https://i.xiami.com/aoxue) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 2347975<br>**粉丝数**: 196<br>**评论数**: 8<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -19,8 +16,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430049924)<br><br>2019-12-09 01:39<br>赞(0) 踩(0) | <div>好听，我会永远支持你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375248622)<br><br>2019-12-01 22:01<br>赞(0) 踩(0) | <div>我很喜欢听你唱的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380084425)<br>我的世界只有你。<br>2019-10-25 22:13<br>赞(0) 踩(0) | <div>傲雪我爱你</div> |

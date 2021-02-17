@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/cd3d1b245ccf68ce8e696c1ed52ae231.jpg)<br>小豆丁讲故事](https://i.xiami.com/xiaodouding) | **播放数**: 6414029<br>**粉丝数**: 4258<br>**评论数**: 14<br>**地区**: China 中国大陆<br>**风格**: 有声书 Audio Book<br> |
+| [![](../../images/musicians/cd3d1b245ccf68ce8e696c1ed52ae231.jpg)<br>小豆丁讲故事](https://i.xiami.com/xiaodouding) | **地区**: China 中国大陆<br>**风格**: 有声书 Audio Book<br>**播放数**: 6414029<br>**粉丝数**: 4258<br>**评论数**: 14<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431487191)<br>喜羊羊最帅！<br>2020-08-05 16:20<br>赞(0) 踩(0) | <div>小豆丁，你可以去喜马拉雅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346338993)<br><br>2020-05-06 13:46<br>赞(0) 踩(0) | <div>快出新专</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424411747)<br><br>2020-05-04 19:15<br>赞(1) 踩(0) | <div>真好听，我家小宝贝很喜欢这个故事 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |

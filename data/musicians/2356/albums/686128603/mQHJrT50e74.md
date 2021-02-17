@@ -62,8 +62,8 @@ ISRC: TWJ011300301
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49778097)<br>SINA：嗎啡緩釋片<br>2020-03-12 06:21<br>赞(1) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343182280)<br>再眷恋一生，也不会成真，...<br>2018-05-11 23:02<br>赞(1) 踩(0) | <div>真希望有生之年能听到乃文现场唱这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343182280)<br>再眷恋一生，也不会成真，...<br>2018-01-05 11:17<br>赞(2) 踩(0) | <div>葛大的词配上杨乃文的声音，总有种心碎的感觉</div> |
@@ -106,7 +106,7 @@ ISRC: TWJ011300301
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/718652)<br> <br>2013-12-27 20:31<br>赞(0) 踩(0) | <div>居然出新专辑了！！哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29327751)<br><br>2013-12-27 13:57<br>赞(0) 踩(0) | <div>感觉有点挺着有点上不来气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8136795)<br>都是未完成也无所谓的故事<br>2013-12-27 11:51<br>赞(0) 踩(0) | <div>女爵归来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30605920)<br><br>2013-12-27 11:49<br>赞(0) 踩(0) | <div>唯妙唯肖的 毫无破绽　你绝对是天才别把我想得 过份简单　甜言蜜语少来请你 不必装乖　你想飞走 我不拦敢不敢 让我们把话说白　别当彼此囚犯@zouyuheng</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30605920)<br><br>2013-12-27 11:49<br>赞(0) 踩(0) | <div>唯妙唯肖的 毫无破绽　你绝对是天才<br>别把我想得 过份简单　甜言蜜语少来<br><br>请你 不必装乖　你想飞走 我不拦<br>敢不敢 让我们把话说白　别当彼此囚犯<br>@zouyuheng</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12998307)<br>提刀四顾<br>2013-12-26 23:56<br>赞(0) 踩(0) | <div>新专辑试听  中二期没毕业时很喜欢的女歌手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12933958)<br><br>2013-12-26 22:32<br>赞(0) 踩(0) | <div>葛大为的词很赞。层层递进，情绪饱满，唱来犀利清冷。「一句我爱你 拥抱再冷都能沸腾起来 惟妙惟肖的 毫无破绽 你绝对是天才 任你的模仿越精彩 我越配合不来」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24528284)<br><br>2013-12-26 21:58<br>赞(0) 踩(0) | <div>cool woman！love u！</div> |

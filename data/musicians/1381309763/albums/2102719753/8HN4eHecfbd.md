@@ -43,5 +43,3 @@ With a quack quack quack
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

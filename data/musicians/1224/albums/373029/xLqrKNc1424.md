@@ -38,8 +38,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12874355)<br> <br>2020-07-29 06:42<br>赞(5) 踩(0) | <div><img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334825263)<br><br>2020-03-31 20:49<br>赞(1) 踩(0) | <div>铁三角低频不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6958839)<br><br>2020-02-13 21:07<br>赞(0) 踩(0) | <div>太好听了，声音真的很好，低，再低</div> |

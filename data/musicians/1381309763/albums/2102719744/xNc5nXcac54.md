@@ -27,5 +27,3 @@ Wagging their tails behind them
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

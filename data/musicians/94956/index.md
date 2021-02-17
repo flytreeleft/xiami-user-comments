@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/076c5a238177a20d0e467cf07a293b47.jpg)<br>潘广益](https://i.xiami.com/pgy) | **播放数**: 9698826<br>**粉丝数**: 719<br>**评论数**: 77<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/076c5a238177a20d0e467cf07a293b47.jpg)<br>潘广益](https://i.xiami.com/pgy) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 9698826<br>**粉丝数**: 719<br>**评论数**: 77<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421790039)<br>喜欢喜欢听歌的人，听音乐...<br>2019-10-19 08:20<br>赞(0) 踩(0) | <div>广州最帅的仔，80年代的感觉，古惑仔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266095182)<br>一身清冷<br>2019-08-05 00:12<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43426696)<br>暂无签名~<br>2019-05-25 21:19<br>赞(0) 踩(0) | <div>出新歌，出新歌，支持，支持！！！</div> |

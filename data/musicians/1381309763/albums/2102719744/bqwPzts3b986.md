@@ -42,5 +42,3 @@ It's called down frosty morning
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

@@ -53,8 +53,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237469749)<br>长命功夫长命做。<br>2021-02-04 23:14<br>赞(0) 踩(0) | <div>再见，虾米！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2627008)<br>再见了，朋友们<br>2021-01-12 19:26<br>赞(1) 踩(0) | <div>再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5138521)<br> <br>2021-01-07 14:26<br>赞(3) 踩(0) | <div>再见了虾米</div> |
@@ -70,7 +70,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444449556)<br><br>2020-09-09 11:18<br>赞(2) 踩(0) | <div>唱歌给我的感觉女版张震岳 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">，而且她跟张震岳也是好朋友。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251506577)<br>à demain <br>2020-09-09 01:23<br>赞(2) 踩(0) | <div>我好想再见你一面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410109716)<br><br>2020-08-12 22:56<br>赞(1) 踩(0) | <div>人生重新设定再重来&amp;hellip;&amp;hellip;哪有岁月可回头！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430524099)<br>是花自然香！不必太张扬。<br>2020-08-09 10:54<br>赞(13) 踩(0) | <div>生活有一百种过法，别人的故事再好，始终容不下你。活成什么样子，自己决定。&amp;mdash;&amp;mdash;苏静</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430524099)<br>是花自然香！不必太张扬。<br>2020-08-09 10:54<br>赞(13) 踩(0) | <div>生活有一百种过法，<br>别人的故事再好，<br>始终容不下你。<br>活成什么样子，自己决定。<br><br><br>&amp;mdash;&amp;mdash;苏静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376631264)<br>睡个好觉<br>2020-08-08 14:30<br>赞(0) 踩(0) | <div>，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5524545)<br>空有一颗想流浪的心<br>2020-07-15 02:07<br>赞(1) 踩(0) | <div>和皮皮一起住的那两个月 我们俩把乃文几张专辑翻来覆去听 上班在听 下班在听 吃夜宵在听 打扫在听 看书在听 走路在听 咖啡馆打80分的时候也在听&amp;hellip;皮皮给我做饭的时候也在听！啊想皮皮！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327683217)<br>我没想到我竟然就这样一个...<br>2020-07-09 11:25<br>赞(1) 踩(0) | <div>中国的文化几千年，就像我们听歌的大神 我每逢遇到给力的作品，都早被大神激烈的讨论过，我就喜欢看你们对故事超前的陈述，虽然不知道真假 但感觉你们懂的多 而且让我受益良多 ，听歌就是要边听边看评论 往往故事就是评论里得知的 好的作品大家没事就推荐出来 让更多的憨萌去享受 去感动。</div> |
@@ -83,7 +83,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80515620)<br>1。<br>2020-06-08 08:28<br>赞(2) 踩(0) | <div>其实我比你更早发现我们不合适。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21457507)<br>难自在，想自由<br>2020-06-04 10:26<br>赞(0) 踩(0) | <div>_</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49723639)<br>你会想我在深夜吗？<br>2020-05-31 22:08<br>赞(2) 踩(0) | <div>应该忍住，应该放弃，应该不再幻想</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306180103)<br>當你再搖曳著什麼易碎<br>2020-05-30 12:13<br>赞(0) 踩(0) | <div>应该是怕了寂寞才担心过了明天你将突然沉默微笑着决定该离开我 离开我应该是想得太多才怀疑每个今天我们都变软弱到时候不知该怎么说 怎么说应该爱着你紧紧握你的手应该抱着你从此不让你走应该是练习背叛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306180103)<br>當你再搖曳著什麼易碎<br>2020-05-30 12:13<br>赞(0) 踩(0) | <div>应该是怕了寂寞<br>才担心过了明天<br>你将突然沉默<br>微笑着决定该离开我 离开我<br>应该是想得太多<br>才怀疑每个今天我们都变软弱<br>到时候不知该怎么说 怎么说<br>应该爱着你紧紧握你的手<br>应该抱着你从此不让你走<br>应该是练习背叛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1974380)<br> <br>2020-05-19 23:15<br>赞(0) 踩(0) | <div>应该克制自己吧 <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12310229)<br>来微博找我@膀胱绿子<br>2020-05-04 11:24<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19655702)<br><br>2020-04-18 17:03<br>赞(0) 踩(0) | <div>l</div> |
@@ -94,7 +94,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412024753)<br>懂的人会懂，感动的人会感...<br>2020-03-20 20:33<br>赞(0) 踩(0) | <div>杨乃武的妹妹&amp;hellip;&amp;hellip;小白菜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409019901)<br><br>2020-03-19 22:46<br>赞(0) 踩(0) | <div>又迷人又忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48156160)<br>我还没想好要写什么...<br>2020-03-19 21:30<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439996500)<br>等待和希望<br>2020-03-16 20:04<br>赞(0) 踩(0) | <div>你对我的依赖竟变成最严厉的负担 怎么办人生重新设定再重来 重来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439996500)<br>等待和希望<br>2020-03-16 20:04<br>赞(0) 踩(0) | <div>你对我的依赖<br>竟变成最严厉的负担 怎么办<br>人生重新设定再重来 重来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428478721)<br><br>2020-03-08 21:35<br>赞(1) 踩(0) | <div>第一次来听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427095492)<br><br>2020-03-07 23:55<br>赞(0) 踩(0) | <div>嗯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2020-03-07 23:50<br>赞(4) 踩(0) | <div>互相惦记的两个人 应该不会错过 ​​​</div> |
@@ -105,8 +105,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275890726)<br><br>2020-02-16 09:49<br>赞(3) 踩(0) | <div>好好好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301884218)<br>自我评价：low <br>2020-01-24 01:29<br>赞(3) 踩(0) | <div>为什么乃文总是能让我心安，为什么?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45837326)<br>图像算法界第一美少女<br>2020-01-17 14:46<br>赞(1) 踩(0) | <div>这首歌可以送给言承旭</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435406231)<br><br>2020-01-16 17:44<br>赞(5) 踩(0) | <div>为啥她待人和善，总是独来独往因为待人和善是修养，独来独往是性格 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122340672)<br>我还没想好要写什么...<br>2020-01-07 01:03<br>赞(7) 踩(0) | <div>你真的很卑鄙从来不说爱我我真的很虚伪一直说不需要我们应该是   最让自己难受的一对了哦，我们不是情侣毕竟我们不这样承认过反正我是不会先开口说爱的这样分开的时候是不是就应该就容易些？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435406231)<br><br>2020-01-16 17:44<br>赞(5) 踩(0) | <div>为啥她待人和善，总是独来独往<br>因为待人和善是修养，独来独往是性格 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122340672)<br>我还没想好要写什么...<br>2020-01-07 01:03<br>赞(7) 踩(0) | <div>你真的很卑鄙<br>从来不说爱我<br><br>我真的很虚伪<br>一直说不需要<br><br>我们应该是   最让自己难受的一对了<br>哦，我们不是情侣<br>毕竟我们不这样承认过<br><br>反正我<br>是不会先开口说爱的<br><br>这样分开的时候<br>是不是就应该就容易些？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3341146)<br>爱我请留言。<br>2020-01-06 17:26<br>赞(0) 踩(0) | <div>这首歌，很悲伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359800472)<br>斯人若彩虹，浮云莫强求。<br>2020-01-04 18:31<br>赞(0) 踩(0) | <div>卡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615607)<br> 哪有什么岁月安好，只是...<br>2020-01-03 00:14<br>赞(0) 踩(0) | <div>应该</div> |
@@ -195,7 +195,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7849621)<br>白天装模作样 晚上在虾米...<br>2019-03-12 23:01<br>赞(2) 踩(0) | <div>真想你啊，真不甘心啊……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300883395)<br><br>2019-03-12 15:16<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292800243)<br>我的音乐<br>2019-03-07 07:00<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89601286)<br>确幸的小永远<br>2019-03-05 20:57<br>赞(3) 踩(0) | <div>被压箱底很久的歌不敢听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89601286)<br>确幸的小永远<br>2019-03-05 20:57<br>赞(3) 踩(0) | <div>被压箱底很久的歌<br>不敢听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331987419)<br>哈哈哈哈<br>2019-03-02 12:21<br>赞(2) 踩(0) | <div>因为歌手 喜欢上乃文了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419216526)<br>☕️why? 真好<br>2019-03-02 12:21<br>赞(0) 踩(0) | <div>我不配啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50250876)<br>Who are you ...<br>2019-03-02 11:19<br>赞(2) 踩(0) | <div>我还没等到这首怎么就淘汰了 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
@@ -230,13 +230,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254301173)<br>Thanks , All<br>2019-01-16 19:00<br>赞(0) 踩(0) | <div>应该的事有太多 不应该的也做了不少</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406495973)<br><br>2019-01-14 21:48<br>赞(0) 踩(0) | <div>就是一个调调，难听到不行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406495973)<br><br>2019-01-14 21:46<br>赞(1) 踩(0) | <div>真难听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41785433)<br>沉默寡言又思绪万千<br>2019-01-12 18:12<br>赞(0) 踩(0) | <div>应该放过你重新过一段人生</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41785433)<br>沉默寡言又思绪万千<br>2019-01-12 18:12<br>赞(0) 踩(0) | <div>应该放过你<br>重新过一段人生</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289938151)<br><br>2019-01-06 21:50<br>赞(0) 踩(0) | <div>没我大</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184701336)<br>我是个傻子<br>2019-01-06 16:35<br>赞(0) 踩(0) | <div>我好吃药因为我怕我自己有病</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184701336)<br>我是个傻子<br>2019-01-06 16:35<br>赞(0) 踩(0) | <div>想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409977184)<br><br>2018-12-22 20:01<br>赞(0) 踩(0) | <div>有特点！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53987306)<br>你好不好 我好无聊<br>2018-12-20 11:11<br>赞(0) 踩(0) | <div>才借口为了你，人生重新设定再重来。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14561312)<br>开口沉默.<br>2018-12-17 07:03<br>赞(1) 踩(0) | <div>被你放生还是活在回忆的牢笼...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14561312)<br>开口沉默.<br>2018-12-17 07:03<br>赞(1) 踩(0) | <div>被你放生<br>还是活在回忆的牢笼...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14561312)<br>开口沉默.<br>2018-12-17 07:02<br>赞(1) 踩(0) | <div>应该好好被你把握...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14561312)<br>开口沉默.<br>2018-12-17 07:00<br>赞(2) 踩(0) | <div>应不应该 原来只是自己太长情...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367168990)<br><br>2018-12-14 18:03<br>赞(0) 踩(0) | <div>好听</div> |
@@ -323,11 +323,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91372642)<br>不開心就不好看了<br>2018-06-07 22:37<br>赞(0) 踩(0) | <div>x</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3135626)<br>我还没想好要写什么...<br>2018-06-07 00:35<br>赞(1) 踩(0) | <div>听到烂的一盒卡带</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13551919)<br> <br>2018-06-03 08:16<br>赞(2) 踩(0) | <div>应该是太杨乃文了～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73761430)<br>我还没想好要写什么...<br>2018-05-29 23:59<br>赞(1) 踩(0) | <div>应该是练习背叛比想象中简单</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73761430)<br>我还没想好要写什么...<br>2018-05-29 23:59<br>赞(1) 踩(0) | <div>应该是练习背叛<br>比想象中简单</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1999709)<br>我还没想好要写什么...<br>2018-05-28 05:48<br>赞(0) 踩(0) | <div>很喜欢她。一直追随。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10382948)<br><br>2018-05-26 10:26<br>赞(0) 踩(0) | <div>应该说 应该做</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52441300)<br>我还没想好要写什么...<br>2018-05-23 01:23<br>赞(0) 踩(0) | <div>窗边</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263372050)<br><br>2018-05-13 11:38<br>赞(3) 踩(0) | <div>应该是怕了寂寞才担心过了明天你将突然沉默微笑着决定该离开我 离开我应该是想得太多才怀疑每个今天我们都变软弱到时候不知该怎么说 怎么说应该爱着你紧紧握你的手应该抱着你从此不让你走应该是练习背叛比想像中的简单你对我的依赖竟变成最严厉的负担 怎么办应该是急于推翻以往种种的不安才藉口为了你人生重新设定再重来 重来应该爱着你紧紧握你的手应该抱着你从此不让你走应让轻轻吻你不让你说错应该静静守住给你的承诺应该趁着还年轻好好感动应该把握每次眼神的交错应该说 应该做爱了就永不放手！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263372050)<br><br>2018-05-13 11:38<br>赞(3) 踩(0) | <div>应该是怕了寂寞<br>才担心过了明天<br>你将突然沉默<br>微笑着决定该离开我 离开我<br>应该是想得太多<br>才怀疑每个今天我们都变软弱<br>到时候不知该怎么说 怎么说<br>应该爱着你紧紧握你的手<br>应该抱着你从此不让你走<br>应该是练习背叛<br>比想像中的简单<br>你对我的依赖<br>竟变成最严厉的负担 怎么办<br>应该是急于推翻<br>以往种种的不安<br>才藉口为了你<br>人生重新设定再重来 重来<br>应该爱着你紧紧握你的手<br>应该抱着你从此不让你走<br>应让轻轻吻你不让你说错<br>应该静静守住给你的承诺<br>应该趁着还年轻好好感动<br>应该把握每次眼神的交错<br>应该说 应该做<br>爱了就永不放手！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330817773)<br>地球和平!<br>2018-05-12 16:28<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65835)<br>如果没人看着我，该有多快...<br>2018-05-11 12:16<br>赞(0) 踩(0) | <div>有一年在简单生活节看到她的live，听过很多她录音室专辑的我，突然被她圈粉了，现场high到不行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7792186)<br>哈哈笨宝宝<br>2018-05-11 09:47<br>赞(0) 踩(0) | <div>这个前奏很熟悉，和国外一首气氛烘托的很浪漫，但几乎没有歌词的歌曲很像</div> |
@@ -338,7 +338,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308344)<br>我这么好看还需要写什么？<br>2018-04-26 20:23<br>赞(2) 踩(0) | <div>不放你走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2311390)<br>HJX<br>2018-04-25 19:05<br>赞(0) 踩(0) | <div>应该 应让</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116411554)<br>自由爱恨 只因荣幸<br>2018-04-23 09:54<br>赞(0) 踩(0) | <div>这首歌每一个版本都好听啊 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11420150)<br>What should ...<br>2018-04-13 12:18<br>赞(0) 踩(0) | <div>没什么应不应该的我做的 不反悔 只是你没我想的那么好没那么好就没那么好吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11420150)<br>What should ...<br>2018-04-13 12:18<br>赞(0) 踩(0) | <div>没什么应不应该的<br>我做的 不反悔 只是你没我想的那么好<br>没那么好就没那么好吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232607591)<br> <br>2018-04-13 11:53<br>赞(1) 踩(0) | <div>句句遗憾</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9661109)<br> <br>2018-04-12 23:03<br>赞(0) 踩(0) | <div>封面好美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281211089)<br><br>2018-03-31 23:09<br>赞(0) 踩(0) | <div>朋友推荐给我的，爱的不行。</div> |
@@ -380,7 +380,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420697742)<br><br>2019-04-04 18:38<br>赞(0) 踩(0) | <div><q><b>背吉他的蝙蝠女侠说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329443686)<br><br>2017-12-28 19:59<br>赞(0) 踩(0) | <div>其实真可以，就是不红</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280678126)<br><br>2017-12-25 09:23<br>赞(1) 踩(0) | <div>杨乃文</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30583413)<br>漂浮在黑色的海<br>2017-12-24 10:39<br>赞(2) 踩(0) | <div>應該愛著你緊緊握你的手應該抱著你從此不讓你走應該靜靜守著你給的承諾</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30583413)<br>漂浮在黑色的海<br>2017-12-24 10:39<br>赞(2) 踩(0) | <div>應該愛著你緊緊握你的手<br>應該抱著你從此不讓你走<br>應該靜靜守著你給的承諾</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331461516)<br><br>2017-12-24 02:32<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26810595)<br>音乐我的一个世界<br>2017-12-24 00:14<br>赞(2) 踩(0) | <div>心情其实到这个时候已经释怀了不少，毕竟有些事情还在理解范围之类。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1985058)<br>及时行乐<br>2017-12-23 22:32<br>赞(0) 踩(0) | <div>为了积分</div> |
@@ -465,7 +465,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43490131)<br><br>2017-09-13 00:10<br>赞(1) 踩(0) | <div>女声就喜欢听杨乃文</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136453234)<br>我还没想好要写什么...<br>2017-09-10 01:24<br>赞(1) 踩(0) | <div>应该抱着你从此不让你走 应该好好守住给你的承诺 应该说 应该做</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235275559)<br> <br>2017-09-08 17:38<br>赞(0) 踩(0) | <div>喜欢你的歌，不是因为歌，是因为那个带我听歌的人！从此单曲循环，也成为了祭奠逝去的时光&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64354810)<br>差强人意。<br>2017-09-04 16:35<br>赞(3) 踩(0) | <div>应该：你应该对我好点你应该更爱我你应该想念我你应该关心我你应该听我说你应该应该的太多</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64354810)<br>差强人意。<br>2017-09-04 16:35<br>赞(3) 踩(0) | <div>应该：<br>你应该对我好点<br>你应该更爱我<br>你应该想念我<br>你应该关心我<br>你应该听我说<br>你应该应该的太多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50462863)<br>我还没想好要写什么...<br>2017-09-03 22:07<br>赞(0) 踩(0) | <div>去年三月份吧 遇见你 也认识了你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232269170)<br><br>2017-09-01 13:58<br>赞(0) 踩(0) | <div>难道我就不能有爱吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322687003)<br><br>2017-08-31 23:44<br>赞(1) 踩(0) | <div>听着听着，想起以前，觉得以前错过了很多，很多现在想去做的事情，现在却力不从心。以前为什么那么胆小不去尝试，现在真的好后悔。现在可能没有人陪我做这些事了，我也没那个精力去了。 <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
@@ -478,7 +478,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271451223)<br> <br>2017-08-23 21:26<br>赞(0) 踩(0) | <div>第八百条</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35509231)<br>提灯天后  策马小僧<br>2017-08-23 15:01<br>赞(1) 踩(0) | <div>好厉害呀！这么从容的声音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35509231)<br>提灯天后  策马小僧<br>2017-08-23 15:01<br>赞(0) 踩(0) | <div>好厉害呀！这么从容的声音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160039110)<br><br>2017-08-23 11:38<br>赞(2) 踩(0) | <div>#墙外音乐#&amp;ldquo;应该爱着你紧紧握你的手　应该抱着你从此不让你走应该轻轻吻你不让你说错　应该静静守住给你的承诺应该趁著还年轻好好感动　应该把握每次眼神的交错&amp;rdquo;看看歌词就难过的要命</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160039110)<br><br>2017-08-23 11:38<br>赞(2) 踩(0) | <div>#墙外音乐#&amp;ldquo;应该爱着你紧紧握你的手　应该抱着你从此不让你走<br>应该轻轻吻你不让你说错　应该静静守住给你的承诺<br>应该趁著还年轻好好感动　应该把握每次眼神的交错&amp;rdquo;<br>看看歌词就难过的要命</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5635540)<br> <br>2017-08-23 11:04<br>赞(2) 踩(0) | <div>无奈又任性.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94254228)<br><br>2017-08-21 13:15<br>赞(0) 踩(0) | <div>陈公主词曲 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46113486)<br>马路戏院商店天空海阔 任...<br>2017-08-19 23:16<br>赞(2) 踩(0) | <div>成都见。</div> |
@@ -497,7 +497,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72184872)<br><br>2017-07-27 23:28<br>赞(0) 踩(0) | <div>我喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251410046)<br>stay with me...<br>2017-07-22 07:30<br>赞(0) 踩(0) | <div>这种旋律 这种调调 深迷其中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188247840)<br>we found lov...<br>2017-07-17 23:07<br>赞(1) 踩(0) | <div>应该爱过就不放你走 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204802482)<br><br>2017-07-17 18:39<br>赞(1) 踩(0) | <div>好评将沉，我从今开始灌水，至火方休。我将不关注，不加粉，我将不抢推荐，不争热评，我将尽忠职守，生死于虾米。我是求种声中的节操，广告海中的守卫，抢热评者的噩梦，翻页时分的重击，唤醒路人的号角，音乐尊严的救星。我将生命与荣耀献于冰与火，此评如此，首首皆然。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204802482)<br><br>2017-07-17 18:39<br>赞(1) 踩(0) | <div>好评将沉，我从今开始灌水，至火方休。<br>我将不关注，不加粉，我将不抢推荐，不争热评，我将尽忠职守，生死于虾米。<br>我是求种声中的节操，广告海中的守卫，抢热评者的噩梦，翻页时分的重击，唤醒路人的号角，音乐尊严的救星。<br>我将生命与荣耀献于冰与火，此评如此，首首皆然。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4193990)<br>听一些网易云上没有的歌<br>2017-07-28 12:01<br>赞(0) 踩(0) | <div>nbcs</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46284980)<br>但愿为你保留最后的时间<br>2017-07-14 00:32<br>赞(1) 踩(0) | <div>很多歌不用收藏下载，转了一圈还会遇见</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44131706)<br>助我成长<br>2017-10-17 13:28<br>赞(0) 踩(0) | <div>人也是</div> |
@@ -519,7 +519,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299191723)<br><br>2017-06-19 21:57<br>赞(0) 踩(0) | <div>杨乃文酷酷的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101024686)<br>NANAN<br>2017-06-18 09:10<br>赞(0) 踩(0) | <div>应该把握每次眼神的交错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6544231)<br>我还没想好要写什么...<br>2017-06-14 13:03<br>赞(1) 踩(0) | <div>几次都是很不好的吗。。。。 <img src="../../../../images/comments/0590342800944c9cbf70e4e78ed6027a.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45526583)<br><br>2017-05-28 23:11<br>赞(0) 踩(0) | <div>应该是你不够强大应该是我不够勇敢应该是我赢了，忍住不求救。应该是我输了，只剩下孤独。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45526583)<br><br>2017-05-28 23:11<br>赞(0) 踩(0) | <div>应该是你不够强大<br>应该是我不够勇敢<br>应该是我赢了，忍住不求救。<br>应该是我输了，只剩下孤独。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49734359)<br>Never Say Go...<br>2017-05-28 00:41<br>赞(2) 踩(0) | <div>我想安静一会儿，你别离我太远。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12966527)<br>我还没想好要写什么...<br>2017-05-26 10:13<br>赞(0) 踩(0) | <div>应该</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3516744)<br> <br>2017-05-25 07:49<br>赞(1) 踩(0) | <div>陈珊妮写的这么多好歌</div> |
@@ -556,7 +556,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6908646)<br>V<br>2017-06-16 19:49<br>赞(0) 踩(0) | <div>我听了很多次都没发现，今天突然看到打算评论里找答案，结果就看到有人问哈 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1642826)<br><br>2017-04-25 11:09<br>赞(0) 踩(0) | <div>这嗓音真的是。。。。不好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47369773)<br>我还没想好要写什么...<br>2017-04-25 01:18<br>赞(0) 踩(0) | <div>看到10个月前的评论了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39424583)<br>“无米煮，煮泥沙； 无床...<br>2017-04-24 20:02<br>赞(3) 踩(0) | <div>应该爱着你紧紧握你的手应该抱着你从此不让你走应该趁着还年轻好好感动应该爱过就忍住不让你走</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39424583)<br>“无米煮，煮泥沙； 无床...<br>2017-04-24 20:02<br>赞(3) 踩(0) | <div>应该爱着你紧紧握你的手<br>应该抱着你从此不让你走<br>应该趁着还年轻好好感动<br>应该爱过就忍住不让你走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73555178)<br><br>2017-04-19 22:59<br>赞(2) 踩(0) | <div>听见室友和男友吵架，室友胡搅蛮缠得像谁家缺个祖宗。当然，这和我有什么关系，我不过是心疼自己而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48800185)<br>上得天堂，下得牢房。马中...<br>2017-04-17 23:20<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203423469)<br>「年」漂浮空气中 围绕太...<br>2017-04-15 09:30<br>赞(1) 踩(0) | <div>比现在的许多歌好听太多</div> |
@@ -663,14 +663,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48279247)<br>见的人多了，越来越喜欢狗...<br>2016-12-08 08:34<br>赞(3) 踩(0) | <div>这首歌真的是词曲作者把乃文的风格把握拿捏得太准</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3516744)<br> <br>2016-12-07 20:48<br>赞(7) 踩(0) | <div>我也不知道前排第一怎么赞上去的？有几个听过现场？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2103813)<br> <br>2016-12-19 00:31<br>赞(0) 踩(0) | <div>我只在电视上看过她的现场，感觉唱的挺好的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23940731)<br><br>2016-12-06 13:01<br>赞(3) 踩(0) | <div>应该爱着你紧紧握你的手　应该抱着你从此不让你走应该轻轻吻你不让你说错　应该静静守住给你的承诺应该趁著还年轻好好感动　应该把握每次眼神的交错</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23940731)<br><br>2016-12-06 13:01<br>赞(3) 踩(0) | <div>应该爱着你紧紧握你的手　应该抱着你从此不让你走<br>应该轻轻吻你不让你说错　应该静静守住给你的承诺<br>应该趁著还年轻好好感动　应该把握每次眼神的交错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46717650)<br>欸西   觉得自己一点都...<br>2016-12-05 10:36<br>赞(0) 踩(0) | <div>一位不是很熟悉的歌手，但是他喜欢，应该没错吧。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160039110)<br><br>2016-12-05 10:10<br>赞(0) 踩(0) | <div>#墙外音乐#“应该爱着你紧紧握你的手　应该抱着你从此不让你走应该轻轻吻你不让你说错　应该静静守住给你的承诺应该趁著还年轻好好感动　应该把握每次眼神的交错”应该不应该又能怎样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160039110)<br><br>2016-12-05 10:10<br>赞(0) 踩(0) | <div>#墙外音乐#“应该爱着你紧紧握你的手　应该抱着你从此不让你走<br>应该轻轻吻你不让你说错　应该静静守住给你的承诺<br>应该趁著还年轻好好感动　应该把握每次眼神的交错”<br>应该不应该又能怎样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14689437)<br> <br>2016-12-05 09:44<br>赞(0) 踩(0) | <div>这首真的难过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8811330)<br>竟然被你找到了<br>2016-12-04 23:48<br>赞(1) 踩(0) | <div>应该 在我的人生里 从来都不是should 是should have</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18019562)<br>我还没想好要写什么...<br>2016-12-04 18:33<br>赞(0) 踩(0) | <div>明明不应该说应该</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15878009)<br>若你是怪人，而我爱你。<br>2016-12-02 23:09<br>赞(1) 踩(0) | <div>独立女性声音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3478532)<br><br>2016-12-02 22:34<br>赞(0) 踩(0) | <div>晚安早睡打卡 10天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3478532)<br><br>2016-12-02 22:34<br>赞(0) 踩(0) | <div>晚安<br><br>早睡打卡 10天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113587434)<br>很新鲜<br>2016-12-02 22:33<br>赞(1) 踩(0) | <div>好听哭了，一直是最喜欢的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30634050)<br>sos<br>2016-12-02 21:40<br>赞(0) 踩(0) | <div>每天跟你聊聊天 就会很开心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187506637)<br>..<br>2016-12-01 18:02<br>赞(1) 踩(0) | <div>应该是怎样的</div> |
@@ -732,8 +732,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60070424)<br>我没有温柔 唯独有这点英...<br>2016-10-26 16:13<br>赞(0) 踩(0) | <div>580 喜欢陈珊妮❤️❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33476332)<br>音乐无国界<br>2016-10-26 13:12<br>赞(1) 踩(0) | <div>579</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3821056)<br><br>2016-10-26 03:27<br>赞(1) 踩(0) | <div>虾米懂我 <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190763302)<br>我还没想好要写什么...<br>2016-10-23 23:18<br>赞(0) 踩(0) | <div>应该趁着还年轻好好感动应该把握每次眼神的交错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190763302)<br>我还没想好要写什么...<br>2016-10-23 23:17<br>赞(0) 踩(0) | <div>应该爱着你紧紧握你的手应该抱着你从此不让你走应该轻轻吻你不让你说错</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190763302)<br>我还没想好要写什么...<br>2016-10-23 23:18<br>赞(0) 踩(0) | <div>应该趁着还年轻好好感动<br>应该把握每次眼神的交错</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190763302)<br>我还没想好要写什么...<br>2016-10-23 23:17<br>赞(0) 踩(0) | <div>应该爱着你紧紧握你的手<br>应该抱着你从此不让你走<br>应该轻轻吻你不让你说错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7694871)<br>我还没想好要写什么...<br>2016-10-21 18:47<br>赞(0) 踩(0) | <div>我以为等自己忙完了回过头来你们还在等着我凯旋，结果我凯旋而归一场空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61310974)<br>清露已凋秦塞柳 白云空长...<br>2016-10-19 06:08<br>赞(0) 踩(0) | <div>离开我那个旋律好熟悉 有没有人知道是什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31531934)<br>恋の道に近道はない<br>2016-10-19 03:46<br>赞(0) 踩(0) | <div>#Ava caja de música#時間是這個時間上唯一不會改變的事物,可以改變的是自己的「心」,不是要你變心愛別人,而是要改變自己的心態…</div> |
@@ -795,7 +795,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1587335)<br>我还没想好要写什么...<br>2016-07-27 01:04<br>赞(1) 踩(0) | <div>太喜欢听杨乃文唱歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104946474)<br>我还没想好要写什么...<br>2016-07-26 09:16<br>赞(0) 踩(0) | <div>来不及为你唱首情歌 来不及为你变成好人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/903277)<br>暂无签名~<br>2016-07-21 14:05<br>赞(0) 踩(0) | <div>虽然好听，但是她的歌会让人听完心很down……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5050996)<br>慢慢来，比较快。<br>2016-07-19 16:07<br>赞(23) 踩(0) | <div>早上你把被子盖在我身上我感觉到了可是没能睁开眼睛这之前很久或这之后很久如果有人把被子轻轻盖在另一个人身上我希望那个人会及时睁开眼睛哪怕只是看一看</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5050996)<br>慢慢来，比较快。<br>2016-07-19 16:07<br>赞(23) 踩(0) | <div>早上你把被子盖在我身上<br>我感觉到了<br>可是没能睁开眼睛<br>这之前很久或<br>这之后很久<br>如果有人把被子<br>轻轻盖在另一个人身上<br>我希望那个人会及时睁开眼睛<br>哪怕只是看一看</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/893293)<br><br>2017-11-19 22:33<br>赞(0) 踩(0) | <div>对。不然可能他是要你把你闷死。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1163787)<br>暂无签名~<br>2018-11-28 21:25<br>赞(0) 踩(0) | <div>听想哭的看你的评论</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298524451)<br>你那么浮躁却想看透生活<br>2019-01-01 23:14<br>赞(0) 踩(0) | <div>很后悔</div> |
@@ -882,7 +882,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55496650)<br>好麻烦啊<br>2016-04-12 22:21<br>赞(18) 踩(0) | <div>杨乃文上辈子一定拯救过地球，这么多牛比的创作人来成就她</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14252639)<br>.<br>2016-08-06 03:29<br>赞(0) 踩(0) | <div>因為她值得</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85434622)<br><br>2016-04-09 20:53<br>赞(0) 踩(0) | <div>挺伤感的歌！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9110382)<br>张唯一<br>2016-04-09 01:22<br>赞(2) 踩(0) | <div>晚上逞能 不找扳手 用牙开汽水 崩了半颗牙；以前逞能 不管高度 弯弯绕绕的 留了些疤迹，以后还逞能吗？“逞”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9110382)<br>张唯一<br>2016-04-09 01:22<br>赞(2) 踩(0) | <div>晚上逞能 不找扳手 用牙开汽水 崩了半颗牙；以前逞能 不管高度 弯弯绕绕的 留了些疤迹，以后还逞能吗？<br>“逞”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2821227)<br><br>2016-04-08 06:50<br>赞(0) 踩(0) | <div>变态歌2。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3583995)<br>一個人的戰爭<br>2016-04-08 00:16<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2821227)<br><br>2016-04-07 17:23<br>赞(0) 踩(0) | <div>变态歌2。不应该...应该...不应该...应该...不应该...发发不够了啦！！！</div> |
@@ -894,8 +894,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14029961)<br>阿曼陀罗<br>2016-03-24 01:31<br>赞(0) 踩(0) | <div>[月亮]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1009204)<br>如歌<br>2016-03-23 22:27<br>赞(2) 踩(0) | <div>不知道应不应该继续迷恋你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199210)<br>祈福蝦米不要倒閉⋯<br>2016-03-22 18:22<br>赞(1) 踩(0) | <div>在KTV唱这首被说成文艺 只能说你听歌听的少呢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39601098)<br>你甚美丽，你一向甚我美丽...<br>2016-03-21 18:00<br>赞(2) 踩(0) | <div>哪有那么多的当初哪有那么多的应该………</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39601098)<br>你甚美丽，你一向甚我美丽...<br>2016-03-21 17:56<br>赞(0) 踩(0) | <div>哪有那么多的当初哪有那么多的应该…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39601098)<br>你甚美丽，你一向甚我美丽...<br>2016-03-21 18:00<br>赞(2) 踩(0) | <div>哪有那么多的当初<br>哪有那么多的应该<br>…<br>…<br>…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39601098)<br>你甚美丽，你一向甚我美丽...<br>2016-03-21 17:56<br>赞(0) 踩(0) | <div>哪有那么多的当初<br>哪有那么多的应该<br>…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28157740)<br>很晚了，你到家了吗<br>2016-03-20 22:29<br>赞(0) 踩(0) | <div>说点什么呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37853307)<br>时间，让深的东西越来越深<br>2016-03-19 09:32<br>赞(0) 踩(0) | <div>应该、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26020588)<br> <br>2016-03-19 09:03<br>赞(0) 踩(0) | <div>应该</div> |
@@ -911,7 +911,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48470443)<br>先要有。。。<br>2016-02-29 23:22<br>赞(0) 踩(0) | <div>365＋1。应该爱着你，紧紧握着你的手。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2016-02-27 11:23<br>赞(0) 踩(0) | <div>杨乃文也是很小众的，但是真的很好听啊！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23860712)<br> <br>2016-02-23 05:27<br>赞(0) 踩(0) | <div>这张收了……好听的太多</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6281299)<br><br>2016-02-20 11:15<br>赞(0) 踩(0) | <div>应该拉紧你 不放手的应该抱紧你 亲吻嘴唇的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6281299)<br><br>2016-02-20 11:15<br>赞(0) 踩(0) | <div>应该拉紧你 不放手的<br>应该抱紧你 亲吻嘴唇的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49066684)<br>模样<br>2016-02-14 10:12<br>赞(0) 踩(0) | <div>Honey，够胆听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/754215)<br> <br>2016-02-08 22:37<br>赞(0) 踩(0) | <div>初一的空虚感是脚到现在还没洗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43067815)<br> <br>2016-02-08 09:09<br>赞(1) 踩(0) | <div>你害怕我的激情，我一腔热情无处安放，我想我只是比你勇敢</div> |
@@ -1023,7 +1023,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1462762)<br>常常 …失眠<br>2015-07-31 16:11<br>赞(0) 踩(0) | <div>不知道怎么选，也许是因为贪心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11574430)<br><br>2015-07-31 01:33<br>赞(0) 踩(0) | <div>应该怎么办？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11574430)<br><br>2015-07-31 01:29<br>赞(0) 踩(0) | <div>应该怎么办？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6828441)<br>我还没想好要写什么...<br>2015-07-28 09:44<br>赞(2) 踩(0) | <div>应该爱着你紧紧握你的手　应该抱着你从此不让你走应该轻轻吻你不让你说错　应该静静守住给你的承诺应该趁著还年轻好好感动　应该把握每次眼神的交错</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6828441)<br>我还没想好要写什么...<br>2015-07-28 09:44<br>赞(2) 踩(0) | <div>应该爱着你紧紧握你的手　应该抱着你从此不让你走<br>应该轻轻吻你不让你说错　应该静静守住给你的承诺<br>应该趁著还年轻好好感动　应该把握每次眼神的交错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3381806)<br>随我本性<br>2015-07-25 06:04<br>赞(0) 踩(0) | <div>暑假第一次这么早醒…啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48482392)<br>我没机会<br>2015-07-24 15:18<br>赞(0) 踩(0) | <div>被人劈头盖脸的说 谢谢他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7603700)<br>我还没想好要写什么...<br>2015-07-24 08:05<br>赞(0) 踩(0) | <div>封面也是有一定年纪的吧</div> |
@@ -1142,7 +1142,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31110730)<br>我的最爱王菲杨乃文萧亚轩...<br>2014-08-10 08:33<br>赞(149) 踩(0) | <div>自责、反省、沉溺……这是乃文的歌里最令我难过的一首</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44361726)<br>He was liyin...<br>2016-07-16 22:39<br>赞(0) 踩(0) | <div>陈珊妮的词，陈珊妮的曲(*/ω＼*)</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329443686)<br><br>2017-10-25 20:40<br>赞(0) 踩(0) | <div>回忆满满</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219200134)<br>那个人在青春路过了一阵子...<br>2020-10-20 23:42<br>赞(0) 踩(0) | <div>杨乃文&amp;lt;不要告别&amp;gt;听听看</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219200134)<br>那个人在青春路过了一阵子...<br>2020-10-20 23:42<br>赞(0) 踩(0) | <div>杨乃文&amp;lt;不要告别&amp;gt;<br>听听看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34434186)<br><br>2014-08-03 18:30<br>赞(0) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6586753)<br>冷起来是个迷<br>2014-07-19 16:34<br>赞(1) 踩(0) | <div>应该是想得太多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29370135)<br>暂无签名~<br>2014-07-11 21:11<br>赞(2) 踩(0) | <div>&amp;quot;推开别人的是你 说痛的也是你.&amp;quot;</div> |
@@ -1152,7 +1152,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16702211)<br>四月我爱你<br>2014-05-25 10:13<br>赞(0) 踩(0) | <div>你为什么要依赖我让我对你放不开手π_π</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22031491)<br><br>2014-05-10 17:07<br>赞(0) 踩(0) | <div>應該趁著還年輕好好感動 #今天的歌#說得好像年輕很好，卻好像暗示不年輕就很難好好感動。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138623)<br>这家伙很聪明，什么也没留<br>2014-05-09 00:51<br>赞(0) 踩(0) | <div>还在听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19928456)<br>frank freak<br>2014-04-26 02:16<br>赞(0) 踩(0) | <div>应该静静守住给你的承诺应该趁着还年轻好好感动应该把握每次眼神的交错</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19928456)<br>frank freak<br>2014-04-26 02:16<br>赞(0) 踩(0) | <div>应该静静守住给你的承诺<br>应该趁着还年轻好好感动<br>应该把握每次眼神的交错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6586753)<br>冷起来是个迷<br>2014-04-11 19:01<br>赞(0) 踩(0) | <div>重温一下，你还记得吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12188513)<br>我很喜欢现在的自己. <br>2014-04-08 09:20<br>赞(0) 踩(0) | <div>依稀记得姐姐常哼的那首我给的爱的旋律 初中时从姐姐那挑挑选选 得到了这张专辑和她的其他专辑 哈哈哈初中只是好喜欢的声音 高中时已爱上了这声音 那时耳朵就被宠坏了 好多年了吧 像是老朋友和老师 因为全家人员都是爱歌主义 所以我的听歌向很海纳也偏80后 哥哥爱粤语动漫摇滚姐姐爱帅哥妈妈爱邓丽君~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6232148)<br>在虾米坚持到最后一秒<br>2014-03-30 22:19<br>赞(0) 踩(0) | <div>现在的心情嘛，爱惨了这首歌~</div> |
@@ -1171,7 +1171,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7698740)<br><br>2013-12-28 11:42<br>赞(1) 踩(0) | <div>喜欢人与喜欢这个人的作品（我是先认识她的作品再知道有这么个人，随后爱上这个人，便爱上她所有呈现的艺术）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9919452)<br><br>2013-12-17 20:03<br>赞(0) 踩(0) | <div>Should I？Could I？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/847967)<br>你们不让老子更老子就不更...<br>2013-12-17 09:27<br>赞(0) 踩(0) | <div>小时候觉得这首歌很慢，但现在听来其实很流动很流畅。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50043)<br>都是有原因的<br>2013-12-06 14:19<br>赞(1) 踩(0) | <div>听了那么多次今天才知是陈珊妮老师的词曲 听悲凉调调的曲子反而会滋生内心力量 唱到心里的歌应该就是好歌吧#应该爱着你紧紧握你的手应该抱着你从此不让你走应该轻轻吻你不让你说错应该静静守住给你的承诺应该趁着还年轻好好感动应该把握每次眼神的交错应该说　应该做应该爱过就忍住不放你走#</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50043)<br>都是有原因的<br>2013-12-06 14:19<br>赞(1) 踩(0) | <div>听了那么多次今天才知是陈珊妮老师的词曲 听悲凉调调的曲子反而会滋生内心力量 唱到心里的歌应该就是好歌吧<br>#应该爱着你紧紧握你的手<br>应该抱着你从此不让你走<br>应该轻轻吻你不让你说错<br>应该静静守住给你的承诺<br>应该趁着还年轻好好感动<br>应该把握每次眼神的交错<br>应该说　应该做<br>应该爱过就忍住不放你走#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6997530)<br><br>2013-11-24 08:18<br>赞(0) 踩(0) | <div>杨乃文</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11695766)<br><br>2013-11-21 21:48<br>赞(0) 踩(0) | <div>陈珊妮的词 杨乃文的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2637618)<br>生日快乐<br>2013-11-21 17:20<br>赞(0) 踩(0) | <div>这么心碎的节奏让我怎么写感谢信？</div> |
@@ -1186,7 +1186,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4729299)<br><br>2013-08-18 13:19<br>赞(0) 踩(0) | <div>没什么应该的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3302861)<br><br>2013-08-08 22:33<br>赞(1) 踩(0) | <div>以前总嫌弃从这张开始，乃文变得不够彪悍不够烈。最近慢慢从这首歌回味体会到杨乃文加陈姗妮是多棒的组合。＂感谢永远有歌，把心境道破＂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3302861)<br><br>2013-08-08 22:22<br>赞(2) 踩(0) | <div>感谢永远有歌 把心境道破</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13415103)<br>不听会死<br>2013-08-08 11:59<br>赞(0) 踩(0) | <div>应该是急于推翻以往种种的不安才藉口为了你人生重新设定再重来　重来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13415103)<br>不听会死<br>2013-08-08 11:59<br>赞(0) 踩(0) | <div>应该是急于推翻<br>以往种种的不安<br>才藉口为了你<br>人生重新设定再重来　重来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12778240)<br><br>2013-08-05 17:40<br>赞(0) 踩(0) | <div>好喜欢杨乃文~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15808642)<br><br>2013-08-02 23:25<br>赞(0) 踩(0) | <div>美瞳男唱的证据怎么那么熟悉，原来是陈绮贞的烟火。很喜欢杨乃文的这首「应该」#目测今晚好声音有两枚美瞳男#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15981907)<br><br>2013-08-02 21:43<br>赞(0) 踩(0) | <div>人生就是一场荒唐，该对的，该错的，该帮的，该做的，该想的，全都错位，让人悲伤！！</div> |
@@ -1227,7 +1227,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4907257)<br> <br>2013-03-16 15:49<br>赞(0) 踩(0) | <div>近两年没听的歌，掉进当年的记忆里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3532859)<br>我一直都在流浪 可我不曾...<br>2013-03-11 23:57<br>赞(0) 踩(0) | <div>应该</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6170369)<br><br>2013-03-07 23:49<br>赞(1) 踩(0) | <div>杨乃文的歌常常会有微笑着流泪的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10398215)<br>我还没想好要写什么...<br>2013-03-05 11:00<br>赞(0) 踩(0) | <div>应该爱着你紧紧握你的手应该抱着你从此不让你走</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10398215)<br>我还没想好要写什么...<br>2013-03-05 11:00<br>赞(0) 踩(0) | <div>应该爱着你紧紧握你的手<br>应该抱着你从此不让你走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6734739)<br>Simplest Cle...<br>2013-03-04 21:56<br>赞(0) 踩(0) | <div>应该是想得太多  才怀疑每个今天我们都变软弱  到时候不知该怎么说  怎么说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3219854)<br><br>2013-02-27 13:42<br>赞(1) 踩(0) | <div>不能痛快解决内急的半下午听还是觉得很好听呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3219854)<br><br>2013-02-27 13:35<br>赞(0) 踩(0) | <div>不能痛快解决内急的时候听还是觉得很好听</div> |
@@ -1246,7 +1246,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11702446)<br><br>2012-12-21 00:20<br>赞(0) 踩(0) | <div>电脑屏幕忽然猛闪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5045092)<br><br>2012-12-20 23:53<br>赞(0) 踩(0) | <div>爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8094118)<br><br>2012-12-04 21:57<br>赞(0) 踩(0) | <div>很多应该没应该。应该说，应该做。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9104756)<br>我愿做你庄园里的一个酒鬼<br>2012-12-03 12:39<br>赞(0) 踩(0) | <div>应该趁着还年轻好好感动应该把握每次眼神的交错应该爱过就忍住不放你走</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9104756)<br>我愿做你庄园里的一个酒鬼<br>2012-12-03 12:39<br>赞(0) 踩(0) | <div>应该趁着还年轻好好感动<br>应该把握每次眼神的交错<br>应该爱过就忍住不放你走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11591058)<br><br>2012-11-21 17:00<br>赞(0) 踩(0) | <div>...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8356430)<br>城市里，爱的来临当如是。<br>2012-11-10 09:55<br>赞(0) 踩(0) | <div>应该是怕了寂寞。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6362572)<br>我是车车，我是好人<br>2012-11-02 00:30<br>赞(0) 踩(0) | <div>此人可撸</div> |
@@ -1259,11 +1259,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340542)<br><br>2012-10-16 23:32<br>赞(0) 踩(0) | <div>到底应该要怎么样呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2133027)<br><br>2012-10-14 12:41<br>赞(0) 踩(0) | <div>应该趁着还年轻好好感动。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2941530)<br><br>2012-10-14 04:18<br>赞(0) 踩(0) | <div>她就是骄傲个性的女爵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3543696)<br><br>2012-10-08 22:02<br>赞(0) 踩(0) | <div>假装你还来离开离开离开开假装你还在还爱还爱还爱爱漠默莫末摸膜摹麽末哒哒哒哒哒哒哒哒哒喇喇喇喇喇喇喇喇喇(⊙o⊙)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3543696)<br><br>2012-10-08 22:02<br>赞(0) 踩(0) | <div>假装你还来<br>离开离开离开开<br>假装你还在<br>还爱还爱还爱爱<br>漠默莫末摸膜摹麽末<br>哒哒哒哒哒哒哒哒哒<br>喇喇喇喇喇喇喇喇喇<br>(⊙o⊙)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7527040)<br><br>2012-10-02 00:32<br>赞(0) 踩(0) | <div>【哪有这么多 重来 应该】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8356430)<br>城市里，爱的来临当如是。<br>2012-09-23 13:07<br>赞(0) 踩(0) | <div>应该是怕了寂寞。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10621914)<br>superV<br>2012-09-15 13:32<br>赞(0) 踩(0) | <div>音色独特，唱腔深邃</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9561911)<br>调频5.13<br>2012-09-11 23:09<br>赞(0) 踩(0) | <div>应该爱着你紧紧握你的手 应该抱着你从此不让你走 应该轻轻吻你不让你说错 应该静静守住给你的承诺 应该趁着还年轻好好感动 应该把握每次眼神的交错 应该说　应该做应该爱过就忍住不放你走</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9561911)<br>调频5.13<br>2012-09-11 23:09<br>赞(0) 踩(0) | <div>应该爱着你紧紧握你的手 应该抱着你从此不让你走 应该轻轻吻你不让你说错 应该静静守住给你的承诺 应该趁着还年轻好好感动 应该把握每次眼神的交错 应该说　应该做<br>应该爱过就忍住不放你走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2266032)<br> <br>2012-09-02 14:11<br>赞(0) 踩(0) | <div>像在轻抚你的伤口</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9475498)<br><br>2012-08-31 10:17<br>赞(0) 踩(0) | <div>應該愛著你，緊緊握你的手。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9927631)<br>你是千堆雪，我是长街<br>2012-08-25 11:30<br>赞(0) 踩(0) | <div>应该</div> |
@@ -1289,7 +1289,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4454528)<br><br>2012-03-09 02:06<br>赞(0) 踩(0) | <div>应该爱着你紧紧握你的手  应该抱着你从此不让你走  应该轻轻吻你不让你说错  应该静静守住给你的承诺  应该趁着还年轻好好感动  应该把握每次眼神的交错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8244755)<br><br>2012-03-01 22:58<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/820973)<br><br>2012-02-29 13:13<br>赞(0) 踩(0) | <div>@NaiWen寶貝  老歌翻烂  该出新专辑了~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/568317)<br><br>2012-02-28 13:26<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/1119328" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1119328</a>感觉这歌很大部分和杨乃文这首歌很像。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/568317)<br><br>2012-02-28 13:26<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/1119328" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1119328</a><br>感觉这歌很大部分和杨乃文这首歌很像。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4134765)<br><br>2012-01-12 17:12<br>赞(0) 踩(0) | <div>好声音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163320)<br><br>2011-12-28 12:21<br>赞(0) 踩(0) | <div>这声音啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163320)<br><br>2011-12-28 12:19<br>赞(0) 踩(0) | <div>什么才应该？</div> |
@@ -1319,7 +1319,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2753189)<br><br>2011-08-07 06:12<br>赞(0) 踩(0) | <div>再次分享这个。应该</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2753189)<br><br>2011-08-02 20:41<br>赞(0) 踩(0) | <div>爱上了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4003879)<br><br>2011-06-30 07:05<br>赞(0) 踩(0) | <div>01年出的歌，一直很喜欢。歌里告诉我们：“应该趁着年轻好好的感动，应该把握每次眼神的交错”。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92058)<br><br>2011-06-28 21:42<br>赞(0) 踩(0) | <div>应该是想得太多才怀疑每个今天我们都变软弱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92058)<br><br>2011-06-28 21:42<br>赞(0) 踩(0) | <div>应该是想得太多<br>才怀疑每个今天我们都变软弱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1724704)<br><br>2011-06-24 22:50<br>赞(0) 踩(0) | <div>！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55245)<br><br>2011-06-22 13:14<br>赞(0) 踩(0) | <div>无论什么时候听到这首歌都会有种掉进一个无形黑洞的感觉 又荒凉又温暖...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3875675)<br>步履不停<br>2011-06-18 23:23<br>赞(0) 踩(0) | <div>忍不住很多次单曲循环，总觉得听不够没听透</div> |

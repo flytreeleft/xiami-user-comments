@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12504552)<br> <br>2019-03-28 09:39<br>赞(1) 踩(0) | <div>把我们纯洁的友谊再升华一下～ <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280039196)<br><br>2018-08-20 12:38<br>赞(2) 踩(0) | <div>大爱卓拉这个版本，大气。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9521335)<br><br>2018-07-02 13:33<br>赞(1) 踩(0) | <div>我太爱这个女live版本了</div> |

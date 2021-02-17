@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376631264)<br>睡个好觉<br>2019-05-17 22:28<br>赞(0) 踩(0) | <div>简简单单的幸福都享受不了呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45611665)<br>我还没想好要写什么...<br>2019-05-13 20:05<br>赞(0) 踩(0) | <div>好听有趣 一点都不old fashioned</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411457263)<br><br>2019-03-19 21:14<br>赞(0) 踩(0) | <div>我只想知道林海为什么如此有才华，太美妙了</div> |
@@ -39,7 +36,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323477905)<br><br>2018-06-15 09:24<br>赞(2) 踩(0) | <div>让人心旷神怡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302081856)<br><br>2018-04-07 21:56<br>赞(7) 踩(0) | <div>这首专辑里的好多歌都好熟，基本都是听过好多年可惜不知道名字系列 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png">，原来都是林大师滴&amp;hellip;可算让我碰上了，感谢虾米 <img src="../../../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"> <img src="../../../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"> <img src="../../../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71113358)<br><br>2018-02-04 20:00<br>赞(14) 踩(0) | <div>从国家宝藏而来，舒缓的鼓点，悠远的吟唱，令人放松，大爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270227319)<br><br>2018-01-18 07:42<br>赞(21) 踩(0) | <div>漫漫星空下忘了來時路在這迷人的夜迎風搖擺的心啊將回憶化作舞姿我是暗夜的精靈目光追尋著你不曾離去當流星劃過夜空驚醒了夢中的駝鈴我在來時的路上探尋一步一步望不盡天涯路</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270227319)<br><br>2018-01-18 07:42<br>赞(21) 踩(0) | <div>漫漫星空下<br>忘了來時路<br>在這迷人的夜<br>迎風搖擺的心啊<br>將回憶化作舞姿<br>我是暗夜的精靈<br>目光追尋著你<br>不曾離去<br>當流星劃過夜空<br>驚醒了夢中的駝鈴<br>我在來時的路上探尋<br>一步一步<br>望不盡天涯路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7858648)<br>团子说，她害怕了。。。<br>2017-12-14 16:15<br>赞(1) 踩(0) | <div>大爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326030845)<br><br>2017-11-24 06:04<br>赞(3) 踩(0) | <div>心乱时可以平静，平静时可以遐想，总能给自己带来不同</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951829)<br>孤鴻寄語·血色琉璃<br>2017-11-21 11:38<br>赞(4) 踩(0) | <div>评论这么少，这首才是最早被风潮选入精选集的好吧！蛮耐听的个人觉得！</div> |

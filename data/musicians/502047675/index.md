@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/191ca16c9f6544fd78677e60a0d71807.jpg)<br>李济宏](https://i.xiami.com/vegas) | **播放数**: 2315279<br>**粉丝数**: 509<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental<br> |
+| [![](../../images/musicians/191ca16c9f6544fd78677e60a0d71807.jpg)<br>李济宏](https://i.xiami.com/vegas) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental<br>**播放数**: 2315279<br>**粉丝数**: 509<br>**评论数**: 7<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358907615)<br>我还没想好要写什么...<br>2019-04-20 12:29<br>赞(1) 踩(0) | <div>我很想学萨克斯  不知道怎么入门  老师能指点一下吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8463519)<br><br>2019-05-09 00:29<br>赞(0) 踩(0) | <div>可以的，加微信weyocul</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8463519)<br><br>2019-05-09 00:29<br>赞(0) 踩(0) | <div>可以的，加微信weyocul</div> |

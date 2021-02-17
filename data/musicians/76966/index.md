@@ -3,7 +3,7 @@ Raujika
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/318899c7133724b3c3195bcfc027bd71.jpg)<br>Raujika](https://i.xiami.com/raujika) | **播放数**: 9138847<br>**粉丝数**: 11806<br>**评论数**: 347<br>**地区**: Japan 日本<br>**风格**: 爵士嘻哈 Jazz Hip Hop, 流行 Pop, 爵士 Jazz<br> |
+| [![](../../images/musicians/318899c7133724b3c3195bcfc027bd71.jpg)<br>Raujika](https://i.xiami.com/raujika) | **地区**: Japan 日本<br>**风格**: 爵士嘻哈 Jazz Hip Hop, 流行 Pop, 爵士 Jazz<br>**播放数**: 9138847<br>**粉丝数**: 11806<br>**评论数**: 347<br> |
 
 ## 档案
 
@@ -47,16 +47,16 @@ Raujika、クラシック音楽の持つ音楽性と、 現代社会における
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40603098)<br>You can’t ho...<br>2019-11-15 13:41<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352606128)<br>内心丰富的人，永远不会孤...<br>2019-10-20 12:58<br>赞(0) 踩(0) | <div>喜欢你的音乐，充满希望，积极向上，暴风雨或许只是暂时的，乌云背后总会出现阳光！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356763773)<br>我还没想好要写什么...<br>2019-10-11 11:51<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2019-06-24 14:36<br>赞(1) 踩(0) | <div></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14630357)<br>初次见面，请多指教。<br>2019-05-20 15:53<br>赞(1) 踩(0) | <div>多少年没新专辑了？ QAQ对了 这个音乐人Hidetake Takayama的很多首 简直跟Raujika一模一样的风格我都怀疑是同一个人了 你们快去听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14630357)<br>初次见面，请多指教。<br>2019-05-20 15:53<br>赞(1) 踩(0) | <div>多少年没新专辑了？ QAQ<br>对了 这个音乐人Hidetake Takayama的很多首 简直跟Raujika一模一样的风格<br>我都怀疑是同一个人了 你们快去听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228843687)<br>懒惰统治人间<br>2018-10-23 15:10<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2928117)<br>你好<br>2018-08-09 20:53<br>赞(2) 踩(0) | <div>Raujika先生来中国啊，我等你好久了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7872701)<br>多一份远见，就少一分刺激<br>2018-08-09 16:21<br>赞(1) 踩(0) | <div>这是，要来了？？？bad news带？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7872701)<br>多一份远见，就少一分刺激<br>2018-08-09 16:21<br>赞(1) 踩(0) | <div>这是，要来了？？？<br>bad news带？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345106099)<br><br>2018-08-13 18:14<br>赞(0) 踩(0) | <div>什么时候哇</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7872701)<br>多一份远见，就少一分刺激<br>2018-08-13 20:02<br>赞(0) 踩(0) | <div><q><b>美緖说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1115247)<br>@Nebula_7293<br>2018-05-24 19:50<br>赞(0) 踩(0) | <div>❤️</div> |
@@ -76,7 +76,7 @@ Raujika、クラシック音楽の持つ音楽性と、 現代社会における
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253330496)<br> <br>2017-03-20 10:51<br>赞(0) 踩(0) | <div><img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13911932)<br>暂冇签名~<br>2016-12-30 14:21<br>赞(1) 踩(0) | <div>[带墨镜笑]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45298985)<br>Wechat:dqx19...<br>2016-10-16 18:01<br>赞(2) 踩(0) | <div>+</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2542364)<br>再见虾米，以后再会。<br>2016-08-03 16:50<br>赞(2) 踩(0) | <div>今天才注意到介绍…“史诗与hip-hop的完美融合”史诗……史诗？？？！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2542364)<br>再见虾米，以后再会。<br>2016-08-03 16:50<br>赞(2) 踩(0) | <div>今天才注意到介绍…<br><br>“史诗与hip-hop的完美融合”<br><br>史诗……史诗？？？！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119896142)<br> <br>2016-07-27 07:44<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35318386)<br>QWQ<br>2016-05-26 11:55<br>赞(1) 踩(0) | <div>大师</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45818524)<br>致我所爱的人好夢~Twi...<br>2016-05-10 09:33<br>赞(0) 踩(0) | <div>喜欢</div> |
@@ -90,7 +90,7 @@ Raujika、クラシック音楽の持つ音楽性と、 現代社会における
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47079481)<br>投喂我吧 <br>2016-02-06 16:20<br>赞(2) 踩(0) | <div>raujika有顆很童真的心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68095692)<br>遠離憂愁  :)<br>2016-01-08 17:00<br>赞(0) 踩(0) | <div>nice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9281390)<br><br>2015-12-05 22:06<br>赞(0) 踩(0) | <div>大大大大大是大大</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6205474)<br>我只是个酱油~<br>2015-11-17 21:10<br>赞(0) 踩(0) | <div>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6205474)<br>我只是个酱油~<br>2015-11-17 21:10<br>赞(0) 踩(0) | <div>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11752665)<br>。<br>2015-11-13 18:06<br>赞(0) 踩(0) | <div>无解</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70195274)<br> <br>2015-11-10 20:32<br>赞(0) 踩(0) | <div>赞一个</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49354248)<br>纯音乐是语言<br>2015-11-10 16:03<br>赞(1) 踩(0) | <div>听过很多曲子，从未注意作曲者。今日有幸认知，相见恨晚！</div> |
@@ -132,7 +132,7 @@ Raujika、クラシック音楽の持つ音楽性と、 現代社会における
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5662640)<br>失落<br>2015-02-28 11:24<br>赞(0) 踩(0) | <div>Raujika</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44368575)<br> <br>2015-02-25 18:10<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10437744)<br>我还没想好要写什么..b...<br>2015-02-25 08:15<br>赞(1) 踩(0) | <div>听过nujabes的作品听这些都有点挑了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12222652)<br>再也不能好好的收藏了<br>2015-02-24 15:54<br>赞(0) 踩(0) | <div>是不是国内的同类系艺人的成长环境差别太大，总觉得国内真的很难出一个这类的人才，虽然已经有很多了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12222652)<br>再也不能好好的收藏了<br>2015-02-24 15:54<br>赞(0) 踩(0) | <div>是不是国内的同类系艺人的成长环境差别太大，<br>总觉得国内真的很难出一个这类的人才，虽然已经有很多了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5062396)<br>热爱真实生活即真实英雄主...<br>2015-08-28 02:01<br>赞(0) 踩(0) | <div>多吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43579820)<br><br>2015-02-14 17:29<br>赞(0) 踩(0) | <div>最喜欢的音乐大师</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44760704)<br>暂无签名~<br>2015-02-11 16:11<br>赞(0) 踩(0) | <div>听到吗，音乐也是有颜色的。日本人做音乐，总有一种沉静在里面，听*</div> |
@@ -178,7 +178,7 @@ Raujika、クラシック音楽の持つ音楽性と、 現代社会における
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93178)<br><br>2014-05-07 21:19<br>赞(0) 踩(0) | <div>灵动</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1545527)<br>努力生活并保持自我就是最...<br>2014-04-27 19:51<br>赞(1) 踩(0) | <div>好听就足够了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317745)<br>limitless<br>2014-04-27 19:49<br>赞(0) 踩(0) | <div>每张专辑都好喜欢哦哦哦哦~</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7572176)<br>哈哈哈哈<br>2014-05-14 22:24<br>赞(0) 踩(0) | <div>ToX</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7572176)<br>哈哈哈哈<br>2014-05-14 22:24<br>赞(0) 踩(0) | <div>To<br>X</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317745)<br>limitless<br>2014-05-15 02:20<br>赞(0) 踩(0) | <div><q><b>fantasy125说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4031837)<br>驾！<br>2014-04-24 23:59<br>赞(0) 踩(0) | <div>古典跨界，洋气欢脱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9117580)<br><br>2014-04-24 18:53<br>赞(0) 踩(0) | <div>I know this guy</div> |
@@ -195,7 +195,7 @@ Raujika、クラシック音楽の持つ音楽性と、 現代社会における
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30749875)<br><br>2014-01-10 00:07<br>赞(0) 踩(0) | <div>你太棒了！支持你，永远爱你支持你相信你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30749875)<br><br>2014-01-10 00:04<br>赞(1) 踩(0) | <div>发现比之前听过的都好，无论如何我超挺你 ，你的音乐太棒了，首首都爱，好特别，轻易便触动麻木的情绪，让心情开出一朵花 盛放，凋谢，或海浪，总之爱疯了，是有特别天赋i的音乐人才有这种诠释卓越的能力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9102421)<br>为后摇而来。<br>2013-12-31 09:57<br>赞(0) 踩(0) | <div>成了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1949345)<br>Skong(司空)<br>2013-12-14 01:09<br>赞(122) 踩(0) | <div>Jazz Hip Hop翻译成爵士说唱其实不恰当，hip hop是嘻哈文化的总称，包括rap（饶舌）、涂鸦、街舞、DJ技术等四大项，hip hop翻译成说唱就是错误的，只能音译成嘻哈。而且这种音乐本体还是jazz，hip hop只是作为元素点缀。因此，Jazz Hip Hop应该翻译成“嘻哈爵士”。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1949345)<br>Skong(司空)<br>2013-12-14 01:09<br>赞(122) 踩(0) | <div>Jazz Hip Hop翻译成爵士说唱其实不恰当，hip hop是嘻哈文化的总称，包括rap（饶舌）、涂鸦、街舞、DJ技术等四大项，hip hop翻译成说唱就是错误的，只能音译成嘻哈。<br>而且这种音乐本体还是jazz，hip hop只是作为元素点缀。<br>因此，Jazz Hip Hop应该翻译成“嘻哈爵士”。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5774103)<br><br>2014-04-10 17:46<br>赞(0) 踩(0) | <div>感觉这样翻译很对 Jazz Hip Hop应该翻译成“嘻哈爵士”</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2170669)<br><br>2014-05-01 18:02<br>赞(0) 踩(0) | <div>为什么不是 爵士嘻哈?</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6111570)<br>我想请你吃雪糕<br>2014-06-09 23:14<br>赞(0) 踩(0) | <div>一直翻译成爵士嘻哈0-0</div> |
@@ -209,7 +209,7 @@ Raujika、クラシック音楽の持つ音楽性と、 現代社会における
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4022529)<br><br>2013-11-26 08:51<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8036562)<br>殊途同归<br>2013-11-25 04:56<br>赞(1) 踩(0) | <div>万万没想到是个男孩子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2405591)<br><br>2013-11-18 13:51<br>赞(0) 踩(0) | <div>日本的音乐人才真多</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11640829)<br>._.<br>2013-11-16 20:49<br>赞(0) 踩(0) | <div>最好的音乐论坛-神曲音乐论坛-中国最大級别的稀有神曲分享下载基地www.o2v3.imotor.com现已开放3张专辑全部无损下载请自行在论坛中搜索[Raujika]并回复下载记得要先注册哦~也可以带上你的小伙伴欢迎常驻论坛www.o2v3.imotor.com</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11640829)<br>._.<br>2013-11-16 20:49<br>赞(0) 踩(0) | <div>最好的音乐论坛-神曲音乐论坛-中国最大級别的稀有神曲分享下载基地<br>www.o2v3.imotor.com<br><br>现已开放3张专辑全部无损下载<br>请自行在论坛中搜索[Raujika]并回复下载<br>记得要先注册哦~也可以带上你的小伙伴<br><br>欢迎常驻论坛www.o2v3.imotor.com</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27084276)<br><br>2013-11-12 23:34<br>赞(0) 踩(0) | <div>很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4152727)<br>心无挂碍<br>2013-10-28 10:05<br>赞(0) 踩(0) | <div>Jazz-hiphop,日本爵黑泡。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21045410)<br>so be it<br>2013-10-14 14:52<br>赞(0) 踩(0) | <div>jazzhiphop</div> |
@@ -393,6 +393,6 @@ Raujika、クラシック音楽の持つ音楽性と、 現代社会における
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1581902)<br><br>2011-03-11 01:16<br>赞(0) 踩(0) | <div>歌曲很细腻~~~听着心情也很愉快！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2290393)<br><br>2011-03-05 13:54<br>赞(0) 踩(0) | <div>爵士</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2876611)<br><br>2011-02-17 19:16<br>赞(0) 踩(0) | <div>纯音乐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-01-17 20:26<br>赞(0) 踩(0) | <div>C'OSSPLENDID</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-01-17 20:26<br>赞(0) 踩(0) | <div>C'OS<br>SPLENDID</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2459801)<br><br>2011-01-11 17:44<br>赞(0) 踩(0) | <div>地下室</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1151921)<br>要啥自行车<br>2010-12-21 20:18<br>赞(0) 踩(0) | <div>沙发！</div> |

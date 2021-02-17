@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/fdfc58762b6cac71bffcc76b1dad7c7a.jpg)<br>赖嘉铭](https://i.xiami.com/xiaoxiaolai) | **播放数**: 4791169<br>**粉丝数**: 235<br>**评论数**: 9<br>**地区**: China 中国大陆<br>**风格**: 闽南语流行 Bân-lâm-gú Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/fdfc58762b6cac71bffcc76b1dad7c7a.jpg)<br>赖嘉铭](https://i.xiami.com/xiaoxiaolai) | **地区**: China 中国大陆<br>**风格**: 闽南语流行 Bân-lâm-gú Pop, 国语流行 Mandarin Pop<br>**播放数**: 4791169<br>**粉丝数**: 235<br>**评论数**: 9<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -23,8 +20,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444460782)<br>我还没想好要写什么...<br>2020-08-09 00:45<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1200430)<br>我还没想好要写什么...<br>2020-01-19 17:59<br>赞(1) 踩(0) | <div>hello闽南人吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255533699)<br><br>2019-07-24 15:20<br>赞(0) 踩(0) | <div><img src="../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png"></div> |

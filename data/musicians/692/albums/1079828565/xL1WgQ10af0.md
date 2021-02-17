@@ -21,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423499985)<br><br>2020-06-28 13:04<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63745010)<br>随心.随性.随遇.随缘<br>2020-04-30 07:11<br>赞(1) 踩(0) | <div>继续推</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63745010)<br>随心.随性.随遇.随缘<br>2019-09-22 07:24<br>赞(1) 踩(0) | <div>再次推荐 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
@@ -58,7 +58,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40736440)<br>送你回家，早点休息<br>2014-10-07 20:45<br>赞(18) 踩(0) | <div>时隔很久，终于还是去看了剧情动画，补完了没玩完的剩下一点剧情，一来就是初七的死，他靠在石头门上，在天崩地裂里缓缓下滑，坐在地上，终于一切都与他没有关系，而这一生走到这里已经不知道多少纠葛，然后高山流水，海底长眠。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36609214)<br>凝空心•法常住<br>2014-10-01 23:45<br>赞(4) 踩(0) | <div>心中最挂念的是谢衣，总有种难舍挥之不去；</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1559305)<br>私信留个id吧，江湖再见<br>2014-10-01 22:31<br>赞(7) 踩(0) | <div>每一条评论都是一把大刀</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1048473)<br><br>2014-08-26 22:35<br>赞(4) 踩(0) | <div>谢衣的主题曲一定得搞全的。谢衣主题曲实录版1（二胡&amp;amp;箫）。幻境中出现百年之前的谢衣。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1048473)<br><br>2014-08-26 22:35<br>赞(4) 踩(0) | <div>谢衣的主题曲一定得搞全的。<br>谢衣主题曲实录版1（二胡&amp;amp;箫）。幻境中出现百年之前的谢衣。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36852968)<br>暂无签名~<br>2014-08-25 02:51<br>赞(3) 踩(0) | <div>想念谢衣了～唔唔～其实一开始他就死了……π_π</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2714261)<br><br>2014-07-06 21:34<br>赞(45) 踩(0) | <div>生命，至为灿烂至为珍贵，而又永不重来。身为偃师，万望敬之畏之，珍之重之……此生未尝虚掷一日，余心已足，无复怨怼。所愧疚者……余力绵薄，终究难以回报故人之挚情，恩师之错爱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276237)<br><br>2014-05-02 15:09<br>赞(3) 踩(0) | <div>这首真的是神曲，那么讨厌的角色，我听到这首依然觉得感动。这首第一次响起来时候，是我整篇游戏唯一的流泪的地方，只为音乐。话说当时艄公的主题曲数量已经很多了，而谢的居然是开挂</div> |

@@ -3,7 +3,7 @@ Q.luv
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/80b3a3be1f96b839c6aa099c0db044ec.jpeg)<br>Q.luv](https://i.xiami.com/qluv) | **播放数**: 3404791<br>**粉丝数**: 2388<br>**评论数**: 194<br>**地区**: China 中国大陆<br>**风格**: 节奏布鲁斯 R&B<br> |
+| [![](../../images/musicians/80b3a3be1f96b839c6aa099c0db044ec.jpeg)<br>Q.luv](https://i.xiami.com/qluv) | **地区**: China 中国大陆<br>**风格**: 节奏布鲁斯 R&B<br>**播放数**: 3404791<br>**粉丝数**: 2388<br>**评论数**: 194<br> |
 
 ## 档案
 
@@ -41,8 +41,8 @@ Q.luv(赵钦) 音乐制作人、歌手。
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54676006)<br>冷記憶<br>2020-07-06 08:50<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184383)<br>我还没想好要写什么...<br>2020-03-13 16:26<br>赞(0) 踩(0) | <div>已经被洗脑，天天循环！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327444554)<br><br>2020-01-09 08:35<br>赞(0) 踩(0) | <div>⚡️等钦哥红的一天</div> |

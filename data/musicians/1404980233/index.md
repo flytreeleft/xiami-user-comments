@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e1ad1f7b78979240c10a2c6e81805a23.jpeg)<br>陈致逸](https://i.xiami.com/chenzhiyi) | **播放数**: 7392108<br>**粉丝数**: 2041<br>**评论数**: 92<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 原声 Soundtrack, 电影原声 Film Score, 游戏配乐 Video Game Music, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/e1ad1f7b78979240c10a2c6e81805a23.jpeg)<br>陈致逸](https://i.xiami.com/chenzhiyi) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 原声 Soundtrack, 电影原声 Film Score, 游戏配乐 Video Game Music, 国语流行 Mandarin Pop<br>**播放数**: 7392108<br>**粉丝数**: 2041<br>**评论数**: 92<br> |
 
 ## 档案
 
@@ -66,8 +66,8 @@ ELLE Plus Ipad 时尚电子杂志配乐 （2013）<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239818193)<br>恋人的誓言到不了上帝的耳...<br>2020-06-01 21:25<br>赞(0) 踩(0) | <div>不玩游戏的人，喜欢上明月刀的配乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7151428)<br>暖暖的～～<br>2020-02-12 11:52<br>赞(0) 踩(0) | <div>！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319688150)<br>愿经典不被遗忘<br>2019-11-21 22:38<br>赞(0) 踩(0) | <div><img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
@@ -113,7 +113,7 @@ ELLE Plus Ipad 时尚电子杂志配乐 （2013）<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289888563)<br><br>2017-04-19 18:03<br>赞(4) 踩(0) | <div>你的《铠甲勇士》很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5716415)<br><br>2017-02-05 11:50<br>赞(2) 踩(0) | <div>为什么找不到勇者大冒险片尾《惊蛰》？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1931086)<br>正义，或许会迟到，但永远...<br>2016-11-06 12:02<br>赞(1) 踩(0) | <div>铠甲勇士捕王主题曲《神的对手》，在QQ音乐那里出了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52031151)<br><br>2016-08-24 15:55<br>赞(0) 踩(0) | <div>还有更好的歌吗 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52031151)<br><br>2016-08-24 15:55<br>赞(0) 踩(0) | <div>还有更好的歌吗 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"><br><br><br><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52031151)<br><br>2016-08-24 15:54<br>赞(0) 踩(0) | <div>还有更好的歌吗 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32324791)<br>vx：GUOYD116<br>2016-08-09 01:24<br>赞(1) 踩(0) | <div>想听惊蛰～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3429606)<br><br>2016-07-02 09:22<br>赞(1) 踩(0) | <div>上架&amp;lt;惊蛰&amp;gt;呀 不知道版权是不是only 腾讯  被你的声音折服了 那么好听的声音 不多唱唱真浪费呀</div> |
@@ -140,7 +140,7 @@ ELLE Plus Ipad 时尚电子杂志配乐 （2013）<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198753127)<br><br>2016-07-09 09:57<br>赞(0) 踩(0) | <div>cool <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36188751)<br>心齋<br>2014-07-23 11:25<br>赞(1) 踩(0) | <div>不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5917850)<br><br>2014-07-20 10:10<br>赞(8) 踩(0) | <div>上海老音乐 绝对的狠！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9833030)<br>さゆり<br>2014-07-19 02:14<br>赞(15) 踩(0) | <div>中國電影配樂界就應該多出現像陳致逸一樣優秀，專業的配樂人才。聽了你的配樂覺得中國配樂有救了。但還是不得不說一句，你的《意外的表白》裡面有點約翰威廉姆斯《色戒》的影子和《歌劇魅影》的影子總之還是看好你，繼續加油！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9833030)<br>さゆり<br>2014-07-19 02:14<br>赞(15) 踩(0) | <div>中國電影配樂界就應該多出現像陳致逸一樣優秀，專業的配樂人才。<br>聽了你的配樂覺得中國配樂有救了。<br>但還是不得不說一句，你的《意外的表白》裡面有點約翰威廉姆斯《色戒》的影子和《歌劇魅影》的影子<br>總之還是看好你，繼續加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8986473)<br><br>2014-12-05 10:57<br>赞(0) 踩(0) | <div>我有证据，证明色戒不是老JOHN写的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9833030)<br>さゆり<br>2014-12-05 18:01<br>赞(0) 踩(0) | <div><q><b>jechenchou说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49485587)<br><br>2016-04-02 03:09<br>赞(0) 踩(0) | <div>同求勇者大冒险的ed啊</div> |
@@ -160,5 +160,5 @@ ELLE Plus Ipad 时尚电子杂志配乐 （2013）<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310235931)<br>灭霸你等着<br>2018-02-18 20:46<br>赞(0) 踩(0) | <div>我喜欢你的歌</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371616246)<br><br>2018-06-03 14:07<br>赞(0) 踩(0) | <div>我特别喜欢你做的铠甲勇士第一部的音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358009999)<br>我就是死魔蝎性格不行啊δ...<br>2018-07-20 10:35<br>赞(0) 踩(0) | <div>想问一件事猎凯的歌曲还是由你唱吗？因为音乐在电影中可以起到画龙点睛的作用</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351632107)<br>讨厌我的人太多了，也是种...<br>2018-10-13 15:38<br>赞(0) 踩(0) | <div>我真的特别喜欢你写的歌呢，尤其是那首虫儿飞，啊啊啊，真的是让我找到了童年的感觉，我可是你的忠实粉丝 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351632107)<br>讨厌我的人太多了，也是种...<br>2018-10-13 15:38<br>赞(0) 踩(0) | <div>我真的特别喜欢你写的歌呢，尤其是那首虫儿飞，啊啊啊，真的是让我找到了童年的感觉，<br>我可是你的忠实粉丝 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17136620)<br><br>2019-11-07 19:35<br>赞(0) 踩(0) | <div>孩子很喜欢你的歌，感谢！ <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |

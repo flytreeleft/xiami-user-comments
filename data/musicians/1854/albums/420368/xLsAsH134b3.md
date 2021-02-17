@@ -97,8 +97,8 @@ hum hum svaha<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405348656)<br>闲来抚琴山涧鸣<br>2020-12-01 00:00<br>赞(2) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3186537)<br><br>2020-11-03 20:49<br>赞(0) 踩(0) | <div>封面何解？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357331717)<br><br>2020-08-20 15:16<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
@@ -113,9 +113,9 @@ hum hum svaha<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403379592)<br>互相關注唄╮(╯▽╰)╭<br>2019-02-07 05:09<br>赞(0) 踩(0) | <div>[叹号问好]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247422185)<br>念及因缘，心即坦然。<br>2019-02-06 20:55<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411888705)<br><br>2019-02-03 12:40<br>赞(0) 踩(0) | <div>竟然付费</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341704250)<br><br>2019-01-18 08:00<br>赞(13) 踩(0) | <div>我愿放下一切怨恨，一切诅咒，一切报复。我愿与众生和解。我愿与一切众生和谐相处。愿一切众生听闻受持此真言，离苦得乐，速得解脱。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341704250)<br><br>2019-01-18 08:00<br>赞(13) 踩(0) | <div>我愿放下一切怨恨，一切诅咒，一切报复。<br>我愿与众生和解。<br>我愿与一切众生和谐相处。<br>愿一切众生听闻受持此真言，离苦得乐，速得解脱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406662583)<br><br>2018-12-02 21:35<br>赞(2) 踩(0) | <div>内容已删除</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309636043)<br><br>2019-12-20 01:09<br>赞(0) 踩(0) | <div>末法邪师说法如恒河沙，参考这部陀罗尼的经文，佛陀因为少有人信而流泪若有众生习行非法，应堕地狱，不信三宝，不植善根，为是因缘，佛法当隐，然犹是塔坚固不灭，一切如来神力所持。无智众生惑障覆蔽，徒朽珍宝，不知采用，以是事故，我今流泪，彼诸如来，亦皆流泪。”</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309636043)<br><br>2019-12-20 01:09<br>赞(0) 踩(0) | <div>末法邪师说法如恒河沙，参考这部陀罗尼的经文，佛陀因为少有人信而流泪<br>若有众生习行非法，应堕地狱，不信三宝，不植善根，为是因缘，佛法当隐，然犹是塔坚固不灭，一切如来神力所持。无智众生惑障覆蔽，徒朽珍宝，不知采用，以是事故，我今流泪，彼诸如来，亦皆流泪。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406428531)<br><br>2018-11-19 10:26<br>赞(0) 踩(0) | <div>安静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405532646)<br><br>2018-10-22 22:11<br>赞(0) 踩(0) | <div>希望自己静下来……不想流眼泪了……好累啊……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405532646)<br><br>2018-10-22 22:10<br>赞(1) 踩(0) | <div>想念天堂的爷爷……</div> |
@@ -160,7 +160,7 @@ hum hum svaha<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29993020)<br>暂无签名~<br>2013-12-28 00:38<br>赞(0) 踩(0) | <div>被吓了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5529540)<br><br>2013-10-28 16:50<br>赞(2) 踩(0) | <div>竟然这么好听。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13307233)<br><br>2013-10-25 13:55<br>赞(0) 踩(0) | <div>Rigging的时候必听心经！！！！妈妈再也不用担心我会发狂啦！！！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16361980)<br><br>2013-09-03 21:34<br>赞(91) 踩(0) | <div>Namah sdeliya divi kanam拿莫 悉地哩呀 地尾噶南sarva tathagatanam萨瓦 达他噶达南om bhuvibha vadha vari vachari vachatai奥母 部尾吧瓦达瓦利 瓦者利 瓦者泰suru suru dhara dhara苏鲁 苏鲁 达拉 达拉sarva tathagata萨瓦 达他噶达dhatu dhari padma bhavati达睹 达利 巴得吗 巴瓦地jayavari者呀瓦利mudri smara</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16361980)<br><br>2013-09-03 21:34<br>赞(91) 踩(0) | <div>Namah sdeliya divi kanam<br>拿莫 悉地哩呀 地尾噶南<br>sarva tathagatanam<br>萨瓦 达他噶达南<br>om bhuvibha vadha vari vachari vachatai<br>奥母 部尾吧瓦达瓦利 瓦者利 瓦者泰<br>suru suru dhara dhara<br>苏鲁 苏鲁 达拉 达拉<br>sarva tathagata<br>萨瓦 达他噶达<br>dhatu dhari padma bhavati<br>达睹 达利 巴得吗 巴瓦地<br>jayavari<br>者呀瓦利<br>mudri smara</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306821363)<br><br>2017-07-06 22:52<br>赞(0) 踩(0) | <div>有全的吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278043724)<br>我还没想好要写什么...<br>2017-11-21 21:48<br>赞(0) 踩(0) | <div>谢谢</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37306231)<br>我还没想好要写什么...<br>2018-01-05 19:10<br>赞(0) 踩(0) | <div>南无悉地利亚，地尾嘎喃，萨瓦，达他嘎达喃！唵，布维吧，瓦达瓦里，瓦扎里瓦扎太。苏鲁苏鲁，达拉达拉，萨瓦，达他嘎达，达度达里。巴德玛巴瓦迪，这丫瓦里，姆得里，斯马拉。达他嘎达，达玛，扎卡拉，波拉瓦达纳。巴者拉，包地，班那，愣卡拉，愣给里地。萨瓦，达他嘎达，第四题地，包达呀，包达呀，包地包地，布达呀，布达呀，三布达呀，三布达呀。者拉者拉，者蓝度。萨瓦，瓦拉纳尼，萨瓦，巴巴尾嘎地。呼噜呼噜，萨瓦，需加尾嘎地。萨瓦，达他嘎达，合理达呀，巴者拉尼。三巴拉三巴拉。萨瓦，达他嘎达，苏哈呀，达拉尼。穆德利，不滴苏不滴，萨瓦，达他嘎达，第四题答，达度嘎比梭哈。三玛雅，第四题地，梭哈。</div> |

@@ -41,8 +41,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5935661)<br><br>2018-01-06 08:40<br>赞(1) 踩(0) | <div>这个版本真是太好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15945566)<br>已秃<br>2015-04-22 17:07<br>赞(0) 踩(0) | <div>Sad</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289822)<br>我还没想好要写什么...<br>2015-03-18 00:15<br>赞(1) 踩(0) | <div>真骚气</div> |

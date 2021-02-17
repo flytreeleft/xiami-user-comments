@@ -49,7 +49,7 @@ You are the one who makes me see the whole new break of dawn
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8682057)<br>我还没想好要写什么...<br>2013-12-26 21:29<br>赞(0) 踩(0) | <div>原来《遇见未来》有英文版 两首都好听哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5009791)<br><br>2013-08-08 18:39<br>赞(0) 踩(0) | <div>理发店听到的熟悉的声音〜</div> |

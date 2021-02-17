@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/cc2082d39c855defa628f49c73b48101.jpg)<br>阿鲲](https://i.xiami.com/roc) | **播放数**: 47822364<br>**粉丝数**: 26790<br>**评论数**: 505<br>**地区**: China 中国大陆<br>**风格**: 原声 Soundtrack, 电影原声 Film Score, 电视原声 Television Music, 音乐剧 Musical theatre, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/cc2082d39c855defa628f49c73b48101.jpg)<br>阿鲲](https://i.xiami.com/roc) | **地区**: China 中国大陆<br>**风格**: 原声 Soundtrack, 电影原声 Film Score, 电视原声 Television Music, 音乐剧 Musical theatre, 国语流行 Mandarin Pop<br>**播放数**: 47822364<br>**粉丝数**: 26790<br>**评论数**: 505<br> |
 
 ## 档案
 
@@ -103,8 +103,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262274284)<br><br>2020-11-03 21:44<br>赞(1) 踩(0) | <div>看了金刚川，为中国有这么国际化水准的音乐创作家感到高兴！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19020288)<br><br>2020-10-23 12:56<br>赞(0) 踩(0) | <div>鹤唳华亭知道你的名字 谢谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10983386)<br>瘦子 朝夕奔梦<br>2020-06-23 22:52<br>赞(0) 踩(0) | <div>大陆配乐未来扛鼎之人</div> |
@@ -135,7 +135,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419320655)<br><br>2019-03-06 21:19<br>赞(3) 踩(0) | <div>《将夜》的配乐真的超棒的！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374642111)<br>一颗崛起的新星<br>2019-03-03 21:58<br>赞(1) 踩(0) | <div>阿鲲老师好！向你致敬！中国电影加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374642111)<br>一颗崛起的新星<br>2019-03-03 21:55<br>赞(1) 踩(0) | <div>中国牛逼</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14652349)<br>壹贰叁 肆伍陆 柒捌玖<br>2019-03-01 21:40<br>赞(1) 踩(0) | <div>皓镧传熊出没舌尖中国配樂師路漫漫其修遠兮漂亮 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14652349)<br>壹贰叁 肆伍陆 柒捌玖<br>2019-03-01 21:40<br>赞(1) 踩(0) | <div>皓镧传<br>熊出没<br>舌尖中国<br>配樂師<br>路漫漫其修遠兮<br>漂亮 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13184971)<br>(▼皿▼#)忙的一逼<br>2019-02-28 09:19<br>赞(2) 踩(0) | <div>有才还有运，打哪配乐火哪，牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35656977)<br>平淡的激烈。<br>2019-02-26 10:41<br>赞(1) 踩(0) | <div>看到阿鲲的名字就起了鸡皮疙瘩，他的作品真的很棒。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41678188)<br>我正在构思一个伟大的签名<br>2019-02-20 09:44<br>赞(1) 踩(0) | <div>希望有更多的好音乐创作出来</div> |
@@ -275,7 +275,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2201924)<br><br>2015-11-12 14:06<br>赞(1) 踩(0) | <div>欧巴，请问舌尖1第四集讲大澳那一段的bgm是什么！！！！谢谢大师！！！！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17866788)<br>音乐是发现，更是分享<br>2015-11-10 21:58<br>赞(0) 踩(0) | <div>音乐为影视服务的典范</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49932853)<br>Hey<br>2015-11-06 00:37<br>赞(0) 踩(0) | <div>超喜欢他的音乐，首首都深入人心</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48645811)<br>执着<br>2015-10-25 19:37<br>赞(0) 踩(0) | <div>你在雨中行走，你从不打伞，你有自己的天空，它从不下雨。那段岁月，无论从何种角度读你，你都完美无缺，你所缺少的部分，也早已被我用想像的节奏填满。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48645811)<br>执着<br>2015-10-25 19:37<br>赞(0) 踩(0) | <div>你在雨中行走，你从不打伞，你有自己的天空，它从不下雨。<br><br>那段岁月，无论从何种角度读你，你都完美无缺，你所缺少的部分，也早已被我用想像的节奏填满。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48495473)<br>安安静静的，听。<br>2015-10-18 23:44<br>赞(0) 踩(0) | <div>阿鲲，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13415065)<br>懂情趣，有品位，会生活<br>2015-10-16 16:43<br>赞(1) 踩(0) | <div>期待更多佳作，期望成为世界级大师。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47061210)<br><br>2015-10-10 13:02<br>赞(0) 踩(0) | <div>阿鲲老师: <a href="http://v.youku.com/v_show/id_XODY2MTk1MzI0.html?from=s1.8-1-1.2" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XODY2MTk1MzI0.html?from=s1.8-1-1.2</a> 这个片子里开头的音乐0-1分:22秒是你作的不?实在太好,我到处找也找不到,阿鲲老师你知道的话给我留个言,那个小气视频楼主我再三问他,他都不肯说.</div> |
@@ -301,7 +301,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426060)<br><br>2015-07-25 02:24<br>赞(0) 踩(0) | <div>以后食欲不振就听你的曲子 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426060)<br><br>2015-07-25 02:24<br>赞(0) 踩(0) | <div>以后食欲不振就听你的曲子 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4964973)<br><br>2015-07-20 09:49<br>赞(0) 踩(0) | <div>好喜欢《华胥引》中的《十三月》，作者加油！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11354192)<br>云在青天水在瓶<br>2015-07-19 14:34<br>赞(1) 踩(0) | <div>非常喜欢你在华胥引中的配乐，华胥一梦太好听啦，听之犹如置之古代的美好场景中，也悲不甚收。阿鲲加油！中国的音乐人加油！中国的音乐加油！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11354192)<br>云在青天水在瓶<br>2015-07-19 14:34<br>赞(1) 踩(0) | <div>非常喜欢你在华胥引中的配乐，华胥一梦太好听啦，听之犹如置之古代的美好场景中，也悲不甚收。<br>阿鲲加油！中国的音乐人加油！中国的音乐加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/508078)<br>七弦琴鳴，夢回太古。<br>2015-07-12 01:02<br>赞(4) 踩(0) | <div>《华胥引》的配乐不能更赞！为中国能有阿鲲这样的配乐家感到自豪！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6451950)<br> <br>2015-07-06 21:15<br>赞(2) 踩(0) | <div>【华胥引】好听得不要不要的！你的音乐总是能把人带入音乐场景中！支持你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12707207)<br>返躬内省，莫要因循<br>2015-06-28 22:34<br>赞(1) 踩(0) | <div>《舌尖》大爱。听的是音乐，感受到的是温情。</div> |
@@ -319,7 +319,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43617494)<br>沉迷工作无法自拔……<br>2015-04-21 17:52<br>赞(0) 踩(0) | <div>今天神马情况？！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8128176)<br>好好活着<br>2015-04-21 11:58<br>赞(0) 踩(0) | <div>支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5627)<br><br>2015-04-17 12:57<br>赞(0) 踩(0) | <div>原来九儿也是啊，好喜欢，从舌尖开始</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1486330)<br><br>2015-04-17 10:52<br>赞(0) 踩(0) | <div>喜欢新作中的“华夏的大气”。鲲哥的曲子不乏细腻与大气，还有不少民族特色。很赞....</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1486330)<br><br>2015-04-17 10:52<br>赞(0) 踩(0) | <div>喜欢新作中的“华夏的大气”。<br>鲲哥的曲子不乏细腻与大气，还有不少民族特色。很赞....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44311754)<br>崇拜毛泽东<br>2015-04-15 16:48<br>赞(0) 踩(0) | <div>听得心里很疼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4858312)<br>兽人永不为奴(●´ω｀●...<br>2015-03-24 00:26<br>赞(0) 踩(0) | <div>舌尖上的中国，配乐赞一个~~！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5661544)<br><br>2015-03-21 05:17<br>赞(0) 踩(0) | <div>特喜欢舌尖上的中国的配乐，bravo!</div> |
@@ -332,21 +332,21 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12415307)<br> <br>2015-01-14 00:00<br>赞(0) 踩(0) | <div>为什么用心听后会哭？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1258668)<br>Sing Jang<br>2015-01-11 10:08<br>赞(0) 踩(0) | <div>干活</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6139895)<br>一定要幸福~<br>2015-01-10 13:03<br>赞(0) 踩(0) | <div>乐声动人……</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:15<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:15<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1331433)<br>飞啊飞<br>2014-12-05 20:49<br>赞(0) 踩(0) | <div>配乐界的顶尖代表</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4799680)<br><br>2014-12-05 00:16<br>赞(0) 踩(0) | <div>就说怎么旋律这么熟悉，原来是舌尖的那个阿琨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31873884)<br>一休哥！休息下！休息下<br>2014-12-04 23:49<br>赞(0) 踩(0) | <div>是最近才知道的，希望越做越好，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43872244)<br>星星之夜<br>2014-11-26 07:40<br>赞(0) 踩(0) | <div>阿鲲（陈鲲），四岁起随名师学琴、多年来沁润于音乐海洋。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28255457)<br>下起雨也要勇敢前进<br>2014-11-24 20:33<br>赞(0) 踩(0) | <div>太赞了 饿晕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26341315)<br><br>2014-11-23 17:32<br>赞(0) 踩(0) | <div>因为看了电视剧红高梁而认识这位音乐人</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43046952)<br>old music<br>2014-11-21 19:50<br>赞(0) 踩(0) | <div>something more：红高粱火了，《九儿》也火了，让我们更多的人也知道了阿鲲“大叔”，呵呵...说明了什么呢？一定要给红高粱这样的电视剧写主题歌，或者说，要给郑晓龙导演的电视剧做主题曲啊，那就可以家喻户晓啦！不要批判我啊:)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43046952)<br>old music<br>2014-11-21 19:37<br>赞(0) 踩(0) | <div>我喜欢您的《九儿》！关键是选对了韩红演唱她，超好听！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43046952)<br>old music<br>2014-11-21 19:50<br>赞(0) 踩(0) | <div>something more：<br>红高粱火了，《九儿》也火了，让我们更多的人也知道了阿鲲“大叔”，呵呵...说明了什么呢？一定要给红高粱这样的电视剧写主题歌，或者说，要给郑晓龙导演的电视剧做主题曲啊，那就可以家喻户晓啦！<br>不要批判我啊:)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43046952)<br>old music<br>2014-11-21 19:37<br>赞(0) 踩(0) | <div>我喜欢您的《九儿》！<br>关键是选对了韩红演唱她，超好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280317)<br>地中有山，永远<br>2014-11-21 18:23<br>赞(0) 踩(0) | <div>红高粱作曲很成功，喜欢！支持阿鲲！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4899660)<br>那些抓也抓不住的<br>2014-11-20 22:50<br>赞(0) 踩(0) | <div>喜欢山高水远 音乐将场景具现化了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/640704)<br>Fight for Lo...<br>2014-11-20 15:15<br>赞(0) 踩(0) | <div>希望成为中国的Zimmer！加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/810603)<br>万方安和<br>2014-11-20 14:34<br>赞(1) 踩(0) | <div>我的收藏标签里终于有“中国”俩字了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5691092)<br>爱生活 爱音乐 爱影视<br>2014-11-20 12:09<br>赞(0) 踩(0) | <div>来晚了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9477676)<br><br>2014-11-20 00:50<br>赞(1) 踩(0) | <div>红高粱 好作品能闻到泥土的清香 ！家乡的泥土味！催人落泪</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9477676)<br><br>2014-11-20 00:50<br>赞(1) 踩(0) | <div>红高粱 好作品<br>能闻到泥土的清香 ！家乡的泥土味！催人落泪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3929685)<br>我还没想好要写什么...<br>2014-11-19 23:20<br>赞(0) 踩(0) | <div>喜欢舌尖上的中国，喜欢红高粱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30265406)<br><br>2014-11-19 22:49<br>赞(0) 踩(0) | <div>好旋律</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22788821)<br><br>2014-11-19 22:33<br>赞(0) 踩(0) | <div>啊鲲哥</div> |
@@ -359,7 +359,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25443762)<br><br>2014-11-15 21:49<br>赞(0) 踩(0) | <div>期待红高粱原声～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32625967)<br>暂无签名~<br>2014-11-08 15:02<br>赞(0) 踩(0) | <div>阿鲲老师对虾米这盗版音乐库有什么看法</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-11-01 23:26<br>赞(0) 踩(0) | <div>肿么还木有上传专辑，哭QAQ</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7957184)<br>拉风老年<br>2014-10-22 23:23<br>赞(2) 踩(0) | <div><a href="http://v.iqilu.com/sdws/fcjjc/2014/1022/4137998.html" target="_blank" rel="nofollow noreferrer noopener">http://v.iqilu.com/sdws/fcjjc/2014/1022/4137998.html</a>红高粱主题曲《九儿》胡莎莎现场演唱版</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7957184)<br>拉风老年<br>2014-10-22 23:23<br>赞(2) 踩(0) | <div><a href="http://v.iqilu.com/sdws/fcjjc/2014/1022/4137998.html" target="_blank" rel="nofollow noreferrer noopener">http://v.iqilu.com/sdws/fcjjc/2014/1022/4137998.html</a><br>红高粱主题曲《九儿》胡莎莎现场演唱版</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7844658)<br><br>2014-11-01 10:27<br>赞(0) 踩(0) | <div>谢谢绿导，《红高粱》那段荡气回肠唢呐曲正循环播放，开始那小节升一个音阶（外行乱说话）真是棒极了！赶脚不是一般人想得出来的，赞~\(≧▽≦)/~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43235735)<br><br>2014-11-01 14:22<br>赞(0) 踩(0) | <div><q><b>Azura说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7957184)<br>拉风老年<br>2014-11-01 23:35<br>赞(0) 踩(0) | <div><q><b>Azura说：</b></q></div> |
@@ -429,7 +429,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6599053)<br>造化钟神秀<br>2014-05-13 10:55<br>赞(0) 踩(0) | <div>舌尖</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24034705)<br>Composer<br>2014-05-13 06:17<br>赞(0) 踩(0) | <div>舌尖上的中国 音乐好棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3035802)<br>爱吃不吃～<br>2014-05-12 13:08<br>赞(1) 踩(0) | <div>听了之后有种民族自尊大涨的感觉。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36391791)<br>諸惡莫作;眾善奉行!<br>2014-05-11 18:03<br>赞(0) 踩(0) | <div>一聽到樂音.腦海就浮現出畫面!讚!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36391791)<br>諸惡莫作;眾善奉行!<br>2014-05-11 18:03<br>赞(0) 踩(0) | <div>一聽到樂音.<br>腦海就浮現出畫面!<br>讚!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35890660)<br>我喜欢昆曲！<br>2014-05-11 16:16<br>赞(1) 踩(0) | <div>喜欢你为舌尖的配乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35890660)<br>我喜欢昆曲！<br>2014-05-11 16:14<br>赞(1) 踩(0) | <div>因为舌尖上的中国！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8229910)<br>无法离开音乐而生存<br>2014-05-11 13:46<br>赞(1) 踩(0) | <div>支持中国的原创音乐</div> |
@@ -452,7 +452,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20890906)<br><br>2014-05-01 11:55<br>赞(0) 踩(0) | <div>走心。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13939066)<br>dave thoma<br>2014-05-01 10:09<br>赞(0) 踩(0) | <div>没人？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782585)<br><br>2014-05-01 10:08<br>赞(53) 踩(0) | <div>他的音乐充满了中国大地的温情和沧桑，更有老百姓的朴实的干劲~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7235381)<br>其实你也挺狭隘的嘛。<br>2014-05-01 08:25<br>赞(1) 踩(0) | <div>时而日本ACG，时而美国大片咚咚咚，时而北欧小众，还有好莱坞式中国风⋯⋯一张专辑里面什么风格都有啊。喜欢山高水远的混合风格，个人感觉还挺搭的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7235381)<br>其实你也挺狭隘的嘛。<br>2014-05-01 08:25<br>赞(1) 踩(0) | <div>时而日本ACG，时而美国大片咚咚咚，时而北欧小众，还有好莱坞式中国风⋯⋯一张专辑里面什么风格都有啊。<br>喜欢山高水远的混合风格，个人感觉还挺搭的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5885106)<br>音乐是人性最抽象却又最真...<br>2014-04-30 15:16<br>赞(0) 踩(0) | <div>舌尖上的中国 音乐人！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/787537)<br> <br>2014-04-30 13:44<br>赞(0) 踩(0) | <div>中国的音乐人哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6140859)<br><br>2014-04-30 00:32<br>赞(2) 踩(0) | <div>阿鲲，相信你能成为中国乃至世界级的作曲家，继续努力！</div> |
@@ -504,7 +504,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2014-04-26 18:19<br>赞(0) 踩(0) | <div>很赞，技术与艺术的绝佳融合</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4298941)<br> <br>2014-04-26 17:53<br>赞(0) 踩(0) | <div>听着听着就饿了ヘ(°￢°)ノ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9104118)<br><br>2014-04-26 16:51<br>赞(2) 踩(0) | <div>光听就流口水了~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1166114)<br><br>2014-04-26 15:01<br>赞(0) 踩(0) | <div><a href="http://forum.home.news.cn/detail/132016900/1.html" target="_blank" rel="nofollow noreferrer noopener">http://forum.home.news.cn/detail/132016900/1.html</a>转贴到新华网，谢谢。好听。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1166114)<br><br>2014-04-26 15:01<br>赞(0) 踩(0) | <div><a href="http://forum.home.news.cn/detail/132016900/1.html" target="_blank" rel="nofollow noreferrer noopener">http://forum.home.news.cn/detail/132016900/1.html</a><br>转贴到新华网，谢谢。好听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13808)<br>一路走下去<br>2014-04-26 14:18<br>赞(0) 踩(0) | <div>初，好听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1461948)<br><br>2014-04-26 14:17<br>赞(0) 踩(0) | <div>舌尖</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288768)<br><br>2014-04-26 11:33<br>赞(0) 踩(0) | <div>舌尖</div> |

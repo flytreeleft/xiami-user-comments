@@ -32,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4311629)<br>色即是空，空即是色。<br>2020-10-18 12:35<br>赞(1) 踩(0) | <div>麦兜 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409253462)<br>一直生活在童话嘅细路仔<br>2020-04-24 20:19<br>赞(0) 踩(0) | <div>谢谢林一峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4305870)<br><br>2019-09-07 20:06<br>赞(0) 踩(0) | <div>Len手菜是拿手菜？</div> |

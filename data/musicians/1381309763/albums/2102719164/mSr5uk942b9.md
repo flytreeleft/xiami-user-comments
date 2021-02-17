@@ -28,5 +28,3 @@ Couldn't put humpty together again
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

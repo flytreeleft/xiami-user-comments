@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/78dbe74a25d44feeef5cc51d3f98e065.jpg)<br>解亚飞](https://i.xiami.com/xyf) | **播放数**: 5347091<br>**粉丝数**: 1158<br>**评论数**: 32<br>**地区**: China 中国大陆<br>**风格**: 器乐流行 Instrumental Pop, 器乐独奏 Solo Instrumental, 中国民乐 Chinese Folk Music, 中国风 China-Wave<br> |
+| [![](../../images/musicians/78dbe74a25d44feeef5cc51d3f98e065.jpg)<br>解亚飞](https://i.xiami.com/xyf) | **地区**: China 中国大陆<br>**风格**: 器乐流行 Instrumental Pop, 器乐独奏 Solo Instrumental, 中国民乐 Chinese Folk Music, 中国风 China-Wave<br>**播放数**: 5347091<br>**粉丝数**: 1158<br>**评论数**: 32<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -28,8 +25,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117473148)<br><br>2020-08-31 19:28<br>赞(0) 踩(0) | <div>太太太好听了ヾ ^_^♪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415924674)<br>孤独一人在雨里，寂寞的站...<br>2020-06-27 19:56<br>赞(1) 踩(0) | <div>陶笛以前小雨不熟悉，今天因为搜索歌曲碰巧遇到您的作品，看了几个您的mv现场表演。乐器看着很小，但是上面那么多小窟窿，操作使用一定很难，感觉您一定学习练习了很久才能演奏的这么好听！刚才看mv的时候，其实有点嫉妒，觉得我自己如果能有您这水平该多牛，可惜只是梦！您是大师，在下佩服！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41732829)<br>有些随风   有些入梦 ...<br>2020-04-18 10:36<br>赞(0) 踩(0) | <div>我女儿最喜欢布谷鸟了 <img src="../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png"></div> |

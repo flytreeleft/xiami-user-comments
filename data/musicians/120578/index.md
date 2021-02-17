@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f3d8826ab637e8793b541f90f9c171e8.jpg)<br>魏语诺](https://i.xiami.com/seven) | **播放数**: 9770327<br>**粉丝数**: 1367<br>**评论数**: 56<br>**地区**: China 中国大陆<br>**风格**: 爵士流行 Jazz Pop, 流行摇滚 Pop Rock, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/f3d8826ab637e8793b541f90f9c171e8.jpg)<br>魏语诺](https://i.xiami.com/seven) | **地区**: China 中国大陆<br>**风格**: 爵士流行 Jazz Pop, 流行摇滚 Pop Rock, 国语流行 Mandarin Pop<br>**播放数**: 9770327<br>**粉丝数**: 1367<br>**评论数**: 56<br> |
 
 ## 档案
 
@@ -29,8 +29,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-11-22 12:16<br>赞(0) 踩(0) | <div>42118</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215018831)<br>与肝胆人共事  于无字书...<br>2020-09-05 14:37<br>赞(0) 踩(0) | <div>好声音里米和金池的PK，其实你唱的比她好，那身豹纹衣服也漂亮</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375960141)<br>      鸽痴一枚 <br>2020-08-01 09:51<br>赞(0) 踩(0) | <div>不客气 值得收藏 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -69,11 +69,11 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36536789)<br>深锁广寒宫殿<br>2015-07-02 00:25<br>赞(0) 踩(0) | <div>红红火火</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29787992)<br><br>2015-07-01 22:26<br>赞(0) 踩(0) | <div>要的就是这股味儿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3619853)<br> <br>2015-06-27 00:22<br>赞(0) 踩(0) | <div>姑娘瘦成了另一个人，造型好做多了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9969746)<br>让小心脏在迷情蓝调中跳动...<br>2015-06-20 11:57<br>赞(1) 踩(0) | <div>用爵士味道重新演绎了花房姑娘～些许的俏皮中，又夹杂些小小的玩世不恭与不羁...  逐渐递进转化为入骨的留恋与爱～让我回想起了自己那段放浪形骸的青春年少时光...  那是梦开始的地方...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9969746)<br>让小心脏在迷情蓝调中跳动...<br>2015-06-20 11:57<br>赞(1) 踩(0) | <div>用爵士味道重新演绎了花房姑娘～<br>些许的俏皮中，又夹杂些小小的玩世不恭与不羁...  逐渐递进转化为入骨的留恋与爱～<br>让我回想起了自己那段放浪形骸的青春年少时光...  那是梦开始的地方...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25923000)<br><br>2015-06-07 00:35<br>赞(1) 踩(0) | <div>赞一个咯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47547271)<br><br>2015-02-24 05:16<br>赞(0) 踩(0) | <div>唱的好，长得美，你若不红，天理不容！加油！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39566558)<br>文盲<br>2015-02-06 15:36<br>赞(1) 踩(0) | <div>花房姑娘真的很特别嘢..</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44473787)<br>愿你纯洁透明<br>2015-01-18 02:59<br>赞(0) 踩(0) | <div>独立音乐人 孙澈很喜欢你的声音加油共勉</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44473787)<br>愿你纯洁透明<br>2015-01-18 02:59<br>赞(0) 踩(0) | <div>独立音乐人 孙澈<br>很喜欢你的声音<br>加油<br>共勉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6986498)<br><br>2014-09-02 11:30<br>赞(0) 踩(0) | <div>花房姑娘唱得真好，加油！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19874)<br>暂无签名~<br>2014-08-31 03:42<br>赞(0) 踩(0) | <div>很喜欢！期待下一个作品！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2527832)<br>超越生命 解放自由<br>2014-05-07 20:17<br>赞(0) 踩(0) | <div>哇</div> |

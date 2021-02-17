@@ -36,5 +36,3 @@ And Heaven and Heaven and nature sing
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

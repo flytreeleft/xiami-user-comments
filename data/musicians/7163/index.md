@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/12cc6b43d0c74977a65b6f5a25f14374.jpg)<br>吴金黛](https://i.xiami.com/judywu) | **播放数**: 30343051<br>**粉丝数**: 24781<br>**评论数**: 713<br>**地区**: Taiwan, PRC 中国台湾<br>**风格**: 世界融合 World Fusion, 自然新世纪 Nature New Age, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/12cc6b43d0c74977a65b6f5a25f14374.jpg)<br>吴金黛](https://i.xiami.com/judywu) | **地区**: Taiwan, PRC 中国台湾<br>**风格**: 世界融合 World Fusion, 自然新世纪 Nature New Age, 轻音乐 Easy Listening<br>**播放数**: 30343051<br>**粉丝数**: 24781<br>**评论数**: 713<br> |
 
 ## 档案
 
@@ -59,13 +59,13 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218378303)<br>静<br>2021-01-14 14:14<br>赞(0) 踩(0) | <div>又是一个学过观光的牛叉音乐人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276915600)<br>蓝莲永远盛开<br>2021-01-06 15:27<br>赞(0) 踩(0) | <div>以后可以在哪个播放器继续听你到的音乐？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356550110)<br><br>2020-10-23 20:51<br>赞(0) 踩(0) | <div>非常和谐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356550110)<br><br>2020-10-23 20:51<br>赞(0) 踩(0) | <div>非常和谐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/133298864)<br>黑择明<br>2020-08-06 23:21<br>赞(1) 踩(0) | <div>不出意料地又是台湾又是我爱的台湾</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/133298864)<br>黑择明<br>2020-08-06 23:21<br>赞(1) 踩(0) | <div>不出意料地又是台湾<br>又是我爱的台湾</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408576882)<br><br>2020-05-31 20:27<br>赞(0) 踩(0) | <div>我最喜欢大自然的味道</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72459354)<br><br>2020-05-11 18:40<br>赞(1) 踩(0) | <div>真好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48686027)<br><br>2020-05-04 21:15<br>赞(0) 踩(0) | <div>终于找到你</div> |
@@ -186,7 +186,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45300895)<br><br>2017-07-23 17:50<br>赞(1) 踩(0) | <div>听上去很美！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25180711)<br><br>2017-07-12 09:44<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25180711)<br><br>2017-07-12 09:43<br>赞(0) 踩(0) | <div>自然之声</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7325471)<br><br>2017-07-06 17:24<br>赞(4) 踩(0) | <div>作为胎教音乐太棒了！大宝时候就听，现在二宝还是听，每次宝宝都会规律的动起来</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7325471)<br><br>2017-07-06 17:24<br>赞(4) 踩(0) | <div>作为胎教音乐太棒了！<br>大宝时候就听，现在二宝还是听，每次宝宝都会规律的动起来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92988654)<br><br>2017-06-28 14:43<br>赞(1) 踩(0) | <div>喜欢自然的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9003931)<br>千淘万漉虽辛苦<br>2017-06-15 14:03<br>赞(0) 踩(0) | <div>风潮。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119925244)<br>独一无 二狗<br>2017-06-15 08:21<br>赞(1) 踩(0) | <div>我的耳朵听了都很开心呢</div> |
@@ -329,7 +329,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174245)<br><br>2016-02-23 10:20<br>赞(0) 踩(0) | <div>自然的声音，好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1279714)<br> <br>2016-02-23 10:17<br>赞(0) 踩(0) | <div>电影《最遥远的距离》真人版  <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52970432)<br><br>2016-02-15 10:28<br>赞(0) 踩(0) | <div>喜欢 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png">  感谢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106680)<br><br>2016-02-11 01:02<br>赞(1) 踩(0) | <div>好用心的音乐人。除了好听之外多了几分感动。谢谢你带给我们这么美得音乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106680)<br><br>2016-02-11 01:02<br>赞(1) 踩(0) | <div>好用心的音乐人。<br>除了好听之外多了几分感动。<br>谢谢你带给我们这么美得音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6491765)<br>我只是个门外汉。<br>2016-02-08 15:15<br>赞(0) 踩(0) | <div>吴阿姨我爱你呀ლ(′◉❥◉｀ლ)森林狂想曲很好听呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72089950)<br><br>2016-01-17 01:03<br>赞(0) 踩(0) | <div>海浪的声音很美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32359200)<br><br>2016-01-10 23:05<br>赞(0) 踩(0) | <div>抓不住耳朵</div> |
@@ -431,7 +431,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31900068)<br>努力成为那个**的人。<br>2015-07-19 11:23<br>赞(0) 踩(0) | <div>超喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31900068)<br>努力成为那个**的人。<br>2015-07-19 11:23<br>赞(0) 踩(0) | <div>超喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3502219)<br>爷做事，一为名，二为利，...<br>2015-07-14 18:45<br>赞(0) 踩(0) | <div>纯真、自然、干净、轻灵</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4424550)<br>我已醒来，你应恐惧<br>2015-06-29 20:20<br>赞(0) 踩(0) | <div>经常会想起这首MY ocean，第一次见到大海，坐在海边的长凳上，闭上眼睛，耳机里播放的就是这首，我的海洋。那种超过人耳的细腻的波浪声竟然和真实的大海的声音是如此的合拍，如此的一致。原来心里的“水的声音竟会有如此的动听的&amp;quot;的疑虑一扫而空。水声，风声，还有海浪夹杂着沙子的汩汩的声音，海水相互拍打，气泡互相翻滚的声音，都如此的清澈，明晰。这正是完全真实的大海的歌声。大海所显示的那种深沉无垠的美顿时让人无比的宁静，内心深处生出一种无比的向往，仿佛那就是灵魂的归宿，心灵的家园。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4424550)<br>我已醒来，你应恐惧<br>2015-06-29 20:20<br>赞(0) 踩(0) | <div>经常会想起这首MY ocean，第一次见到大海，坐在海边的长凳上，闭上眼睛，耳机里播放的就是这首，我的海洋。那种超过人耳的细腻的波浪声竟然和真实的大海的声音是如此的合拍，如此的一致。原来心里的“水的声音竟会有如此的动听的&amp;quot;的疑虑一扫而空。水声，风声，还有海浪夹杂着沙子的汩汩的声音，海水相互拍打，气泡互相翻滚的声音，都如此的清澈，明晰。这正是完全真实的大海的歌声。<br>大海所显示的那种深沉无垠的美顿时让人无比的宁静，内心深处生出一种无比的向往，仿佛那就是灵魂的归宿，心灵的家园。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14412299)<br><br>2015-06-08 19:30<br>赞(0) 踩(0) | <div>喜欢这样的自然</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8364418)<br>我还没想好要写什么...<br>2015-06-17 10:39<br>赞(0) 踩(0) | <div>发现逛许多地方都可以看到你啊 哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/850997)<br>An Earth Ody...<br>2015-06-07 00:55<br>赞(0) 踩(0) | <div>中国美景丽人Chinese Beauty</div> |
@@ -477,7 +477,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22567563)<br><br>2014-06-27 11:46<br>赞(0) 踩(0) | <div>舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10410204)<br>?<br>2014-06-16 20:13<br>赞(0) 踩(0) | <div>从小听女神的曲纸长大来着QAQQQ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2526606)<br><br>2014-06-12 12:36<br>赞(1) 踩(0) | <div>好听的自然音乐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102558)<br> <br>2014-06-11 23:36<br>赞(3) 踩(0) | <div>小时候误打误撞买过 我的海洋的cd 这么多年兜兜转转 又绕了回来</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102558)<br> <br>2014-06-11 23:36<br>赞(3) 踩(0) | <div>小时候误打误撞买过 我的海洋的cd 这么多年<br>兜兜转转 又绕了回来</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36092450)<br>不谋万世者不能谋一时，不...<br>2015-05-31 00:39<br>赞(0) 踩(0) | <div>同样是无意间听到过这曲子，是在电台里……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30583553)<br>for Him.<br>2014-05-28 17:03<br>赞(0) 踩(0) | <div>自然的声音总让人恬静</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/679170)<br>平安喜乐，普普通通<br>2014-05-21 00:23<br>赞(3) 踩(0) | <div>想扎起马尾，背起背包。自己一个人带着耳机，去远行。看日出日落，风吹雨淋，好像都能体会得到。</div> |
@@ -529,7 +529,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4863565)<br>挤出一丝力气<br>2013-11-29 21:05<br>赞(50) 踩(0) | <div>感动来自《一席》</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39289826)<br>暂无签名~<br>2016-02-24 13:56<br>赞(0) 踩(0) | <div>哇，一席也有请她啊，是最近的么？还是很久以前的？之前有一次听到过范宗沛的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10183109)<br>我一直假装自己是个学霸…<br>2016-02-25 15:11<br>赞(0) 踩(0) | <div>？？？</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22484958)<br>我还没想好要写什么...<br>2016-03-22 15:44<br>赞(0) 踩(0) | <div>我是看了你的评论，然后搜索到吴金黛在一席里面的演讲。很喜欢。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22484958)<br>我还没想好要写什么...<br>2016-03-22 15:44<br>赞(0) 踩(0) | <div>我是看了你的评论，然后搜索到吴金黛在一席里面的演讲。<br>很喜欢。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4863565)<br>挤出一丝力气<br>2018-04-11 07:28<br>赞(0) 踩(0) | <div><q><b>Miduori说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16019394)<br><br>2013-11-23 21:31<br>赞(0) 踩(0) | <div>風潮的音樂都是一流的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4744039)<br><br>2013-11-16 11:57<br>赞(0) 踩(0) | <div>很棒</div> |
@@ -617,7 +617,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1422966)<br><br>2012-12-28 17:57<br>赞(0) 踩(0) | <div>relaxing good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12092891)<br><br>2012-12-27 11:03<br>赞(0) 踩(0) | <div>纯音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11085924)<br>村庄还好<br>2012-12-21 15:14<br>赞(0) 踩(0) | <div>吴金黛,自然之声·,台湾,轻音乐,</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343123)<br>理性与科学<br>2012-12-20 12:36<br>赞(0) 踩(0) | <div>杨锦聪、林海、范宗沛、董运昌、吴金黛这种团队做出来的音乐确实牛</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343123)<br>理性与科学<br>2012-12-20 12:36<br>赞(0) 踩(0) | <div>杨锦聪、林海、范宗沛、董运昌、吴金黛<br>这种团队做出来的音乐确实牛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53352)<br><br>2012-12-07 11:44<br>赞(0) 踩(0) | <div>风潮，好清新的自然之声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8281389)<br><br>2012-12-01 20:40<br>赞(0) 踩(0) | <div>天籁 ，让人沉醉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8281389)<br><br>2012-12-01 20:39<br>赞(0) 踩(0) | <div>好听啊</div> |
@@ -634,7 +634,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11153746)<br>在幽静的大湖上……<br>2012-10-22 14:57<br>赞(0) 踩(0) | <div>·纯音乐,舒缓的轻抚,干净,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1214764)<br><br>2012-10-20 12:08<br>赞(0) 踩(0) | <div>自然</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9076669)<br><br>2012-10-19 20:22<br>赞(0) 踩(0) | <div>好棒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3722521)<br>能打马赛克吗？<br>2012-10-19 15:04<br>赞(0) 踩(0) | <div>只有那颗纯净的心才能创作出如此贴近自然的最原始最安逸的原野之声</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3722521)<br>能打马赛克吗？<br>2012-10-19 15:04<br>赞(0) 踩(0) | <div>只有那颗纯净的心<br>才能创作出如此贴近自然的最原始最安逸的原野之声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11013024)<br> <br>2012-10-15 17:16<br>赞(0) 踩(0) | <div>nature</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7800626)<br>空<br>2012-10-15 14:52<br>赞(0) 踩(0) | <div>自然健康</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8159872)<br><br>2012-10-15 12:24<br>赞(0) 踩(0) | <div>台湾自然音乐还是很赞的，原来都是你制作的啊~</div> |
@@ -712,7 +712,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4978771)<br><br>2012-01-29 20:59<br>赞(0) 踩(0) | <div>在电视电台听过很多次&amp;lt;森林狂想曲&amp;gt;,经常作为背景音乐,之前不知道歌名不知道作者,哈哈..终于找到了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5002171)<br><br>2012-01-29 11:27<br>赞(0) 踩(0) | <div>天籁之音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7752322)<br>新世纪+古典音乐爱好者<br>2012-01-21 11:57<br>赞(0) 踩(0) | <div>自然之声~非常干净！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/450404)<br>隐于深山静湖.森林流泉间<br>2012-01-12 20:52<br>赞(0) 踩(0) | <div><a href="http://blog.xuite.net/wm_judy/music" target="_blank" rel="nofollow noreferrer noopener">http://blog.xuite.net/wm_judy/music</a><a href="http://www.windmusic.com.tw/shop/person/judy/" target="_blank" rel="nofollow noreferrer noopener">http://www.windmusic.com.tw/shop/person/judy/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/450404)<br>隐于深山静湖.森林流泉间<br>2012-01-12 20:52<br>赞(0) 踩(0) | <div><a href="http://blog.xuite.net/wm_judy/music" target="_blank" rel="nofollow noreferrer noopener">http://blog.xuite.net/wm_judy/music</a><br><a href="http://www.windmusic.com.tw/shop/person/judy/" target="_blank" rel="nofollow noreferrer noopener">http://www.windmusic.com.tw/shop/person/judy/</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7626325)<br><br>2012-01-11 18:08<br>赞(0) 踩(0) | <div>才女姐姐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234732)<br><br>2012-01-04 21:42<br>赞(0) 踩(0) | <div>轻松的音乐，感觉很放松！海的声音，喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7424378)<br><br>2011-12-31 16:56<br>赞(0) 踩(0) | <div>自然之声音乐的代表</div> |
@@ -736,7 +736,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4477420)<br><br>2011-09-26 23:24<br>赞(0) 踩(0) | <div>风格不错~~很轻松~而且是纯音乐，新风潮下的风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2460716)<br><br>2011-09-24 21:31<br>赞(0) 踩(0) | <div>大自然之声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5888703)<br><br>2011-09-19 19:54<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361915)<br>得菩提时，心似琉璃<br>2011-09-06 20:15<br>赞(0) 踩(0) | <div>找她的《森林狂想曲》找了好久！很赞的一首歌！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361915)<br>得菩提时，心似琉璃<br>2011-09-06 20:15<br>赞(0) 踩(0) | <div>找她的《森林狂想曲》找了好久！<br>很赞的一首歌！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4897160)<br><br>2011-08-31 16:23<br>赞(0) 踩(0) | <div>纯纯的自然音乐,心旷神怡的音节！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3077806)<br><br>2011-08-22 17:12<br>赞(0) 踩(0) | <div>空灵，来自大自然的美好声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5515907)<br><br>2011-08-21 17:18<br>赞(0) 踩(0) | <div>多么独特、清幽的音乐。太喜欢了。</div> |

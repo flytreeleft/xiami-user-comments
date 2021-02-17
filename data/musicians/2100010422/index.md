@@ -3,7 +3,7 @@ LOFTHESTAR
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a7122e89df3f331182b42f61edbde212.jpg)<br>LOFTHESTAR](https://i.xiami.com/lofthestar) | **播放数**: 1983283<br>**粉丝数**: 318<br>**评论数**: 12<br>**地区**: China 中国大陆<br>**风格**: 嘻哈 Hip-Hop, 节奏布鲁斯 R&B<br> |
+| [![](../../images/musicians/a7122e89df3f331182b42f61edbde212.jpg)<br>LOFTHESTAR](https://i.xiami.com/lofthestar) | **地区**: China 中国大陆<br>**风格**: 嘻哈 Hip-Hop, 节奏布鲁斯 R&B<br>**播放数**: 1983283<br>**粉丝数**: 318<br>**评论数**: 12<br> |
 
 ## 档案
 
@@ -29,9 +29,9 @@ LOFTHESTAR
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355647358)<br><br>2019-09-03 22:39<br>赞(0) 踩(0) | <div>喜欢好听加油真的</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355647358)<br><br>2019-09-03 22:39<br>赞(0) 踩(0) | <div>喜欢<br>好听<br>加油<br>真的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50615503)<br>Bakin' soda,...<br>2019-06-10 00:52<br>赞(0) 踩(0) | <div>嘿嘿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328867160)<br>你一直都是我心中不可触碰...<br>2019-05-29 06:59<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219128193)<br>猜猜我的占有欲有多可怕_<br>2019-03-25 19:53<br>赞(0) 踩(0) | <div>你很好听</div> |

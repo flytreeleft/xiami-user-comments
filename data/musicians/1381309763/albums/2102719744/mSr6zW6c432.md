@@ -44,5 +44,3 @@ However green your branches
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/07894dfced29f4e9b72f0d2370bd6465.png)<br>零蛋呀](https://i.xiami.com/lingdan) | **播放数**: 3560493<br>**粉丝数**: 367<br>**评论数**: 25<br>**地区**: China 中国大陆<br>**风格**: 日本动漫游戏 Japanese ACG, 流行 Pop<br> |
+| [![](../../images/musicians/07894dfced29f4e9b72f0d2370bd6465.png)<br>零蛋呀](https://i.xiami.com/lingdan) | **地区**: China 中国大陆<br>**风格**: 日本动漫游戏 Japanese ACG, 流行 Pop<br>**播放数**: 3560493<br>**粉丝数**: 367<br>**评论数**: 25<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -23,8 +20,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354435585)<br><br>2020-11-19 02:25<br>赞(0) 踩(0) | <div>我好爱好爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441270877)<br>爱动漫，爱音乐，爱笑，这...<br>2020-05-07 19:50<br>赞(1) 踩(0) | <div>喜欢你唱歌的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19140113)<br><br>2020-02-28 22:08<br>赞(0) 踩(0) | <div>感謝你</div> |
@@ -48,5 +45,5 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255759531)<br>Hola！♪ <br>2017-05-25 20:55<br>赞(4) 踩(0) | <div>好听，白石溪 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26418779)<br>节操负值<br>2017-01-05 14:18<br>赞(25) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68272210)<br><br>2017-01-22 12:21<br>赞(0) 踩(0) | <div>滋磁~</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402980546)<br><br>2020-08-16 21:29<br>赞(0) 踩(0) | <div>Forrrwouj请bcnCsure. thing</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402980546)<br><br>2020-08-16 21:29<br>赞(0) 踩(0) | <div>Forrrwouj请bcnC<br>sure. thing</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402980546)<br><br>2020-08-16 21:29<br>赞(0) 踩(0) | <div><q><b>魁梧的豌豆说：</b></q></div> |

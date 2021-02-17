@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a718cda00b026ca3b28cf33265d1cb5b.jpg)<br>高捞](https://i.xiami.com/gaolaoyinyue) | **播放数**: 1684433<br>**粉丝数**: 55<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 中国传统民歌 Chinese Traditional Folk<br> |
+| [![](../../images/musicians/a718cda00b026ca3b28cf33265d1cb5b.jpg)<br>高捞](https://i.xiami.com/gaolaoyinyue) | **地区**: China 中国大陆<br>**风格**: 中国传统民歌 Chinese Traditional Folk<br>**播放数**: 1684433<br>**粉丝数**: 55<br>**评论数**: 0<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -26,5 +23,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

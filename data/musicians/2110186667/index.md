@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/aa8bad5a4ee685b34ce3b387616dfd6b.jpeg)<br>纽约盗图君](https://i.xiami.com/daotupiano) | **播放数**: 6000256<br>**粉丝数**: 719<br>**评论数**: 45<br>**地区**: United States of America 美国<br>**风格**: 器乐独奏 Solo Instrumental, 同人音乐 DouJin<br> |
+| [![](../../images/musicians/aa8bad5a4ee685b34ce3b387616dfd6b.jpeg)<br>纽约盗图君](https://i.xiami.com/daotupiano) | **地区**: United States of America 美国<br>**风格**: 器乐独奏 Solo Instrumental, 同人音乐 DouJin<br>**播放数**: 6000256<br>**粉丝数**: 719<br>**评论数**: 45<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,8 +18,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443630107)<br>也很忙的<br>2020-06-16 17:56<br>赞(1) 踩(0) | <div>喂。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379943072)<br>已经忘记为什么不要写错别...<br>2020-02-19 16:35<br>赞(1) 踩(0) | <div>一心一意的钢琴曲，纯粹而不失情感。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403187240)<br><br>2019-12-08 02:08<br>赞(0) 踩(0) | <div>很喜欢大大的曲子，大大加油呀！</div> |

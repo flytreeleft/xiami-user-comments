@@ -37,7 +37,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16242322)<br><br>2013-07-18 16:11<br>赞(1) 踩(0) | <div>爱死了一峰这种字正腔圆的粤语咬字~~~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51800191)<br><br>2015-08-14 13:02<br>赞(0) 踩(0) | <div>我爱</div> |

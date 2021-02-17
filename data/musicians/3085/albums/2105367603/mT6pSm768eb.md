@@ -12,19 +12,16 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307579942)<br>写了半生还写错的副歌……<br>2020-07-23 20:42<br>赞(1) 踩(0) | <div>这封面是长白山北坡，我的家乡!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342013749)<br>a soft punk<br>2020-04-24 07:46<br>赞(1) 踩(0) | <div>这个世界本来是美好的。高虎他们玩得开心就好。无可厚非。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307579942)<br>写了半生还写错的副歌……<br>2020-04-12 18:47<br>赞(0) 踩(0) | <div>封面是长白山北坡 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135861860)<br>你是光／你是电／你是人间...<br>2020-04-09 10:01<br>赞(0) 踩(0) | <div>这个feel可以</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6287330)<br>ears can not...<br>2019-12-18 15:00<br>赞(1) 踩(0) | <div>高陆，正在搭建屋顶、平房，大理石立柱博物馆广场，和排队通道。沙色土壤，殖民远日地行星。旋律有些轻佻迷幻，复调太长了。加入鸟声有点不自然，这首歌比较有室内酒会打夜灯的感觉，不像高陆或自然。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6287330)<br>ears can not...<br>2019-12-18 15:00<br>赞(1) 踩(0) | <div>高陆，正在搭建屋顶、平房，大理石立柱博物馆广场，和排队通道。沙色土壤，殖民远日地行星。<br><br>旋律有些轻佻迷幻，复调太长了。加入鸟声有点不自然，这首歌比较有室内酒会打夜灯的感觉，不像高陆或自然。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14042988)<br> <br>2019-12-16 21:17<br>赞(1) 踩(0) | <div>这不就是Ambient嘛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431593054)<br><br>2019-11-27 10:10<br>赞(0) 踩(0) | <div>这是啥？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2019-11-23 03:55<br>赞(0) 踩(0) | <div>.</div> |
@@ -62,14 +59,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/658542)<br>深悟幻境 独与道游<br>2019-10-24 06:46<br>赞(1) 踩(0) | <div>nice vibe</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37862735)<br>：）<br>2019-10-24 03:29<br>赞(1) 踩(0) | <div>焕然一新啊这次</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49640493)<br>网易云SAINTDONT...<br>2019-10-24 02:21<br>赞(1) 踩(0) | <div>love</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30788105)<br>从不失手<br>2019-10-24 01:33<br>赞(5) 踩(0) | <div>人家评后摇连这都喷？好好听歌不行吗就你打小听痛仰长大的给你厉害的这歌真好听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30788105)<br>从不失手<br>2019-10-24 01:33<br>赞(5) 踩(0) | <div>人家评后摇连这都喷？好好听歌不行吗<br>就你打小听痛仰长大的给你厉害的<br>这歌真好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37877820)<br>但将痛饮酬风月，莫放离歌...<br>2019-10-24 01:32<br>赞(3) 踩(0) | <div>音乐有千万种好听的方法</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261137370)<br>啥玩意儿<br>2019-10-24 01:21<br>赞(5) 踩(0) | <div>很不错，这才是思想形态乐队该有的样子，也代表了我喜爱这支乐队的初衷，这次是惊喜不是失望，感谢痛仰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409971515)<br>情不知所以一往情深<br>2019-10-24 01:00<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37341885)<br>我还没想好要写什么...<br>2019-10-24 00:45<br>赞(2) 踩(0) | <div>大型网络页游主题曲-洗衣服之歌 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54017229)<br><br>2019-10-24 00:16<br>赞(2) 踩(0) | <div>说转型后腰的都是从约虾才听的痛仰吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3562722)<br>~<br>2019-10-24 00:11<br>赞(3) 踩(0) | <div>我不喜欢，但坚决支持你发声的权利</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7647959)<br>西北部野生民谣个体户<br>2019-10-24 00:09<br>赞(2) 踩(0) | <div>听歌别说那么多话上厕所记得带纸</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7647959)<br>西北部野生民谣个体户<br>2019-10-24 00:09<br>赞(2) 踩(0) | <div>听歌别说那么多话<br>上厕所记得带纸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39472374)<br>摇完接着滚.<br>2019-10-24 00:05<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/aa870edd44d3f615d76bed2188beb79d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1970044)<br><br>2019-10-24 00:05<br>赞(4) 踩(0) | <div>一股窦唯味儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354646995)<br>老号没了<br>2019-10-24 00:04<br>赞(2) 踩(0) | <div>听出一股后摇new wave的梦幻city pop感…</div> |

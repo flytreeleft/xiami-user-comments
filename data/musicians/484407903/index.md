@@ -3,7 +3,7 @@ Candy_Wind
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6b3b5f3caa1534a6306d70f1b57c3a23.jpg)<br>Candy_Wind](https://i.xiami.com/wuei) | **播放数**: 2778411<br>**粉丝数**: 1046<br>**评论数**: 63<br>**地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/6b3b5f3caa1534a6306d70f1b57c3a23.jpg)<br>Candy_Wind](https://i.xiami.com/wuei) | **地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap, 轻音乐 Easy Listening<br>**播放数**: 2778411<br>**粉丝数**: 1046<br>**评论数**: 63<br> |
 
 ## 档案
 
@@ -27,8 +27,8 @@ Candy_Wind
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441462122)<br>最近转来虾米，不想删了。<br>2020-08-01 18:14<br>赞(1) 踩(0) | <div>希望虾米弄一下《夜空和雪，都不能吃》的版权</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340986269)<br> <br>2020-07-17 17:50<br>赞(0) 踩(0) | <div>捡到宝藏了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427698722)<br><br>2020-05-28 17:28<br>赞(2) 踩(0) | <div>从拂晓车站接触了candy的歌，一发不可收拾了໒(⊙ᴗ⊙)७✎▤真的太好听了</div> |
@@ -53,7 +53,7 @@ Candy_Wind
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30273866)<br>请勿关注。<br>2019-02-03 00:59<br>赞(1) 踩(0) | <div>加油加油！ 看好你哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5751859)<br>最爱New Age<br>2019-01-05 18:37<br>赞(2) 踩(0) | <div>中国的新世纪音乐作曲家吗？支持，加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339407573)<br><br>2018-10-09 23:49<br>赞(4) 踩(0) | <div>超喜歡 拂曉車站 (σ･ω･)σYO♪</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375047773)<br>越努力，越幸运<br>2018-06-09 17:39<br>赞(2) 踩(0) | <div>很喜欢大大的作品，希望大大继续发出新的作品马上要中考了，每天背书都在单曲循环着，加油＾０＾~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375047773)<br>越努力，越幸运<br>2018-06-09 17:39<br>赞(2) 踩(0) | <div>很喜欢大大的作品，希望大大继续发出新的作品<br>马上要中考了，每天背书都在单曲循环着，加油＾０＾~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12194481)<br>敲击的不是音符,是心率;...<br>2018-04-28 09:31<br>赞(2) 踩(0) | <div>很多曲在虾米没有啊，在网易上有许多</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51720459)<br>活着或死去。<br>2018-03-26 17:29<br>赞(4) 踩(0) | <div>可以把猫的舞步发布到虾米上来吗(ฅ&amp;gt;&amp;omega;&amp;lt;*ฅ)真的很喜欢那首(ฅ&amp;gt;&amp;omega;&amp;lt;*ฅ)超级可爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131986908)<br>如果你眼神能够为我片刻的...<br>2018-03-15 14:25<br>赞(1) 踩(0) | <div>眼前一亮</div> |
@@ -68,7 +68,7 @@ Candy_Wind
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54686131)<br>要听更多喜欢的歌~~~<br>2017-08-25 10:34<br>赞(1) 踩(0) | <div>喜欢，终于来了~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54445709)<br>于无声处听惊雷。<br>2017-05-07 23:09<br>赞(1) 踩(0) | <div>清新唯美的曲风，很喜欢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52512015)<br><br>2017-03-18 10:19<br>赞(0) 踩(0) | <div>最喜欢11月风。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52512015)<br><br>2017-03-18 10:18<br>赞(4) 踩(0) | <div>这么美的乐曲，这么优秀的作曲家，关注人竟如此之少。我来这里添砖加瓦，增加点人气。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52512015)<br><br>2017-03-18 10:18<br>赞(4) 踩(0) | <div>这么美的乐曲，这么优秀的作曲家，关注人竟如此之少。<br>我来这里添砖加瓦，增加点人气。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2754685)<br><br>2017-03-15 15:22<br>赞(3) 踩(0) | <div>喜欢拂晓车站，青空，十一月风~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1643164)<br>阳光淌过手心天空笑了笑！<br>2016-10-21 10:50<br>赞(0) 踩(0) | <div>~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234486813)<br><br>2016-10-07 20:40<br>赞(0) 踩(0) | <div>喜欢十一月风，风风晚好，嘻嘻~</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d063fbb62b4120b659d24c86f7291bce.jpg)<br>常静](https://i.xiami.com/changjing) | **播放数**: 13335137<br>**粉丝数**: 11369<br>**评论数**: 386<br>**地区**: China 中国大陆<br>**风格**: 世界融合 World Fusion, 自由即兴 Free Improvisation, 自然新世纪 Nature New Age, 新世纪音乐 New Age, 新古典新世纪 Neoclassical New Age<br> |
+| [![](../../images/musicians/d063fbb62b4120b659d24c86f7291bce.jpg)<br>常静](https://i.xiami.com/changjing) | **地区**: China 中国大陆<br>**风格**: 世界融合 World Fusion, 自由即兴 Free Improvisation, 自然新世纪 Nature New Age, 新世纪音乐 New Age, 新古典新世纪 Neoclassical New Age<br>**播放数**: 13335137<br>**粉丝数**: 11369<br>**评论数**: 386<br> |
 
 ## 档案
 
@@ -38,8 +38,8 @@ TedxFactory798 北京 （2016）演讲《永恒的乐音》<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7882047)<br>↗这家伙试听了很多曲子！<br>2020-10-25 05:12<br>赞(0) 踩(0) | <div>不知道美女有没有男朋友 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2019-11-21 12:49<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52056952)<br>人生即是到來、相遇、陪伴...<br>2019-11-05 23:33<br>赞(0) 踩(0) | <div><img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
@@ -55,8 +55,8 @@ TedxFactory798 北京 （2016）演讲《永恒的乐音》<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272087565)<br>我还没想好要写什么...<br>2019-01-25 15:02<br>赞(0) 踩(0) | <div>编曲能力有待提高</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328297320)<br>我还没想好要写什么...<br>2018-10-05 18:07<br>赞(0) 踩(0) | <div>润心悦耳动</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2521128)<br>昵称和签名都回不去了。。...<br>2018-09-14 23:40<br>赞(0) 踩(0) | <div>我的天，仙游记音乐会的曲目基本都没有呢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377525941)<br><br>2018-07-03 20:13<br>赞(1) 踩(0) | <div>静寂的夜里　我舞在宋词的忧伤裙裳如霓　环佩叮铛在最妩媚的刹那　清泪成行红莲静静绽放夜鸟掠过湖的中央热血涌动的青春终会归于冷漠苍桑美酒仍在而红颜会消亡落叶归于尘土前世今生都不知此身在何方我也将不再有　如今夜般的诡媚与痴狂裙裳如霓　环佩叮铛他朝两两相忘啊纵然今夜　明月朗朗------离弦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377525941)<br><br>2018-07-03 20:07<br>赞(0) 踩(0) | <div>乱剑迷音三千年的那场细雨看一眼吧风雨飘摇散乱如丝中的我那柔肠百转的一剑足尖挑起的一串水珠 碎在冰冷的剑身你一扫弦我的长衫便旋转着洒了周遭的泥泞放在你琴边的一杯酒映着琴弦上掠过的一双手还有几个这样的黄昏迟暮？许我这一夜的狂野许你看一眼三千年前的风拂动我的长衫听我远去的尘埃落地的声响奏响明日的葬曲别急着让我听你细乱的心思喝一杯我举在剑尖的酒再等我离开那个我舞过风雨飘摇中柔肠百转的一剑的亭子和亭中被呼吸割破手指的你风盈袖　杏花随之飞满了天佚名的古筝在云深处起伏迥旋剑光所指就是目光所在少年的清愁和未逝的红颜为谁留连酒已千觞静寂的夜里　我舞在宋词的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377525941)<br><br>2018-07-03 20:13<br>赞(1) 踩(0) | <div>静寂的夜里　我舞在宋词的忧伤<br>裙裳如霓　环佩叮铛<br>在最妩媚的刹那　清泪成行<br>红莲静静绽放夜鸟掠过湖的中央<br>热血涌动的青春终会归于冷漠苍桑<br>美酒仍在而红颜会消亡<br>落叶归于尘土<br>前世今生都不知此身在何方<br>我也将不再有　如今夜般的诡媚与痴狂<br>裙裳如霓　环佩叮铛<br>他朝两两相忘啊<br>纵然今夜　明月朗朗<br>------离弦</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377525941)<br><br>2018-07-03 20:07<br>赞(0) 踩(0) | <div>乱剑迷音<br>三千年的那场细雨<br>看一眼吧<br>风雨飘摇散乱如丝中的我那柔肠百转的一剑<br>足尖挑起的一串水珠 碎在冰冷的剑身<br>你一扫弦<br>我的长衫便旋转着洒了周遭的泥泞<br>放在你琴边的一杯酒<br>映着琴弦上掠过的一双手<br>还有几个这样的黄昏迟暮？<br>许我这一夜的狂野<br>许你看一眼三千年前的风<br>拂动我的长衫<br>听我远去的尘埃落地的声响<br>奏响明日的葬曲<br>别急着让我听你细乱的心思<br>喝一杯我举在剑尖的酒<br>再等我离开<br>那个我舞过风雨飘摇中柔肠百转的一剑的亭子<br>和亭中被呼吸割破手指的你<br><br>风盈袖　杏花随之飞满了天<br>佚名的古筝在云深处起伏迥旋<br>剑光所指就是目光所在<br>少年的清愁和未逝的红颜<br>为谁留连<br>酒已千觞<br>静寂的夜里　我舞在宋词的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25260189)<br> <br>2018-06-09 19:40<br>赞(0) 踩(0) | <div>我喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50161319)<br>沙滩只把我们的脚印停留几...<br>2018-06-09 02:57<br>赞(0) 踩(0) | <div>不要写什么去欧洲【渡金】，中国及东方音乐的意境更玄妙&amp;hellip;世界音乐来形容非欧美主流体脉的音乐，正如【远东地区】是欧洲中心论视角结果，要用自己音理来确定自己的价值</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28499293)<br>Avignon<br>2018-06-01 22:22<br>赞(0) 踩(0) | <div>深入骨髓的优美~</div> |
@@ -102,7 +102,7 @@ TedxFactory798 北京 （2016）演讲《永恒的乐音》<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50875031)<br>.无论是现在还是以前我所...<br>2016-05-18 19:30<br>赞(10) 踩(0) | <div>学习古筝十几年，也曾因为古筝曲荒而弃之不弹。古筝曲多感时伤怀或是咏诵喜悦，不像是其它乐器那样有丰富的表现力，即使是悲凉的曲子似乎都有一丝甜腻。不得不说常静的曲子打破了我的偏见。我头一次在她的《呼吸》中听到了凌厉萧瑟之气，忽觉这清冽的乐器背后暗藏剑心。进可挽弓驭怒马，退可洗手做羹汤。低音区的铮铮作响，高音区的极速收弦，一如沙场铁蹄伴随刀剑金属刮擦。实在妙绝</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338953552)<br>时光如水，岁月如歌，你我...<br>2019-05-02 16:13<br>赞(0) 踩(0) | <div>看来是个行家，加油，为华夏文化争光！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18441703)<br><br>2016-05-11 16:32<br>赞(1) 踩(0) | <div>常常静心</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5573537)<br>音乐彩塑心灵<br>2016-05-09 22:59<br>赞(1) 踩(0) | <div>坊间弹筝高手，能动某心弦者二三也。每感常静所弹，风云跌宕，大开大合，或细语呢喃，或大嗓声张，不由思之颇多而不可尽述，姑拟短句二则于后，以略表心得与谢忱：其一： 弦拨轻重有驰张，指弹情意分抑扬；常羡瑞鹤杏花影，静听美人诉衷肠。其二： 香沉月升空烟景，金戈铁马真豪情；以心运指弦触动，天音奏响意境成。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5573537)<br>音乐彩塑心灵<br>2016-05-09 22:59<br>赞(1) 踩(0) | <div>坊间弹筝高手，能动某心弦者二三也。每感常静所弹，风云跌宕，大开大合，或细语呢喃，或大嗓声张，不由思之颇多而不可尽述，姑拟短句二则于后，以略表心得与谢忱：<br>其一： 弦拨轻重有驰张，指弹情意分抑扬；常羡瑞鹤杏花影，静听美人诉衷肠。<br>其二： 香沉月升空烟景，金戈铁马真豪情；以心运指弦触动，天音奏响意境成。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1153116)<br><br>2016-04-05 22:47<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5691521)<br>孤独是最大的敌人<br>2016-03-09 01:56<br>赞(1) 踩(0) | <div>说句实话，我一直不怎么喜欢她，直到我听到了《篆音》，我真的听哭了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46665222)<br>处女座<br>2015-12-30 12:52<br>赞(0) 踩(0) | <div>落花飞听不了了好难过。。。很喜欢这首歌</div> |
@@ -116,7 +116,7 @@ TedxFactory798 北京 （2016）演讲《永恒的乐音》<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68657276)<br>惟江上之清风，与山间之明...<br>2017-12-17 23:04<br>赞(0) 踩(0) | <div>支持，为中华传统音乐传承者疯狂点赞。 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48300337)<br><br>2018-01-14 23:10<br>赞(0) 踩(0) | <div>好听</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205207322)<br>音乐是人生美好之旅，也是...<br>2018-01-25 00:25<br>赞(0) 踩(0) | <div>听了很久，不同时期风格不一样，喜欢，国乐的传承与创新是音乐人毕生追求的梦想和尝试，不愧为古筝仙子，收藏了好多你演绎的曲子，真心喜欢！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377525941)<br><br>2018-07-03 20:09<br>赞(0) 踩(0) | <div>再听《离弦》一剑碧泓出云岫意气风发处侠骨柔肠醉红颜故都风物几许如旧美人安在伤、伤、伤唯记旧曲新韵里琮琮铮铮总关情</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377525941)<br><br>2018-07-03 20:09<br>赞(0) 踩(0) | <div>再听《离弦》<br><br>一剑碧泓出云岫<br>意气风发处<br>侠骨柔肠醉红颜<br><br>故都风物<br>几许如旧<br>美人安在<br><br>伤、伤、伤<br>唯记旧曲新韵里<br>琮琮铮铮总关情</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322986610)<br><br>2018-10-31 18:36<br>赞(0) 踩(0) | <div>是本人吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407637683)<br>倾心<br>2018-11-03 14:35<br>赞(0) 踩(0) | <div>好的 遇到了你 真的好幸运 百年冷暖有佳人 常静一曲度余生 (◔◡◔)</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259672679)<br>平凡是金<br>2019-06-24 08:30<br>赞(0) 踩(0) | <div>喜欢</div> |
@@ -137,8 +137,8 @@ TedxFactory798 北京 （2016）演讲《永恒的乐音》<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27174417)<br><br>2015-07-02 21:00<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11721040)<br><br>2015-06-08 20:02<br>赞(1) 踩(0) | <div>刚听了 “升” ，果然美妙~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11728160)<br><br>2015-06-08 08:07<br>赞(0) 踩(0) | <div>美妙的古筝。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5691521)<br>孤独是最大的敌人<br>2015-05-18 16:04<br>赞(51) 踩(0) | <div>其实真正的民乐、古曲 它们的旋律结构也好 所演绎的特质也罢 在这个被快餐音乐洗过脑的时代 是很难抓住普通听众耳朵的 听众大多会批评它们没新意 不好听 从而得出一些悲观的结论 诸如中国音乐已亡云云诚然 newage里 民乐元素运用非常出彩 融合现代音乐元素的确抓耳且动听 但它仍然是newage 而且更可笑的是 大多数听众都分不清newage和民乐 故而一味悲观 而不深思自己那连几十种传统戏剧都绝不肯静心去听上一段的耳朵不可置否 就音乐这一块 国情阻力巨大 但无论哪个领域都有萌芽 我希望看见的 是国人坚持传统的纯朴味道 而非追逐newage稍显浮华的悦耳 这需要中国听众们一齐努力</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4241117)<br>心外无物<br>2015-09-10 14:25<br>赞(0) 踩(0) | <div>“浙江的古筝精英们，我这个人快人快语，你们不要生气！如今古筝在我们国家很热，可是，一直都在吃老本，再这样下去的话，古筝就要死了！”一上台，何占豪就语出惊人。这番话让台下上百名古筝师生鸦雀无声整台音乐会，除了最后一曲《长安社火》是近年来改编自管弦乐以外，可以说没有一个新曲子，最新的也是创作于20年前。中国的民乐是需要人去热爱才能谈得上去理论定义它 如果喜欢的人越来越少 自然不懂得区分民乐和newage的人只多不少 你这种想法 只会让民乐走入末路 这点何老师说的很不错</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5691521)<br>孤独是最大的敌人<br>2015-05-18 16:04<br>赞(51) 踩(0) | <div>其实真正的民乐、古曲 它们的旋律结构也好 所演绎的特质也罢 在这个被快餐音乐洗过脑的时代 是很难抓住普通听众耳朵的 听众大多会批评它们没新意 不好听 从而得出一些悲观的结论 诸如中国音乐已亡云云<br>诚然 newage里 民乐元素运用非常出彩 融合现代音乐元素的确抓耳且动听 但它仍然是newage 而且更可笑的是 大多数听众都分不清newage和民乐 故而一味悲观 而不深思自己那连几十种传统戏剧都绝不肯静心去听上一段的耳朵<br>不可置否 就音乐这一块 国情阻力巨大 但无论哪个领域都有萌芽 我希望看见的 是国人坚持传统的纯朴味道 而非追逐newage稍显浮华的悦耳 这需要中国听众们一齐努力</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4241117)<br>心外无物<br>2015-09-10 14:25<br>赞(0) 踩(0) | <div>“浙江的古筝精英们，我这个人快人快语，你们不要生气！如今古筝在我们国家很热，可是，一直都在吃老本，再这样下去的话，古筝就要死了！”一上台，何占豪就语出惊人。这番话让台下上百名古筝师生鸦雀无声<br>整台音乐会，除了最后一曲《长安社火》是近年来改编自管弦乐以外，可以说没有一个新曲子，最新的也是创作于20年前。<br>中国的民乐是需要人去热爱才能谈得上去理论定义它 如果喜欢的人越来越少 自然不懂得区分民乐和newage的人只多不少 你这种想法 只会让民乐走入末路 这点何老师说的很不错</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4241117)<br>心外无物<br>2015-09-10 14:26<br>赞(0) 踩(0) | <div>所以我只能弱一下你了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5691521)<br>孤独是最大的敌人<br>2015-09-10 15:29<br>赞(0) 踩(0) | <div><q><b>遠山清说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4241117)<br>心外无物<br>2015-09-11 09:19<br>赞(0) 踩(0) | <div><q><b>夏羽说：</b></q></div> |
@@ -174,7 +174,7 @@ TedxFactory798 北京 （2016）演讲《永恒的乐音》<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32461398)<br>曾在云上浮想联翩如今也终...<br>2014-12-04 19:13<br>赞(0) 踩(0) | <div>真心╮(￣▽￣）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89262)<br>音乐于我这乏味的一生如同...<br>2014-11-22 22:34<br>赞(0) 踩(0) | <div>有点下垂了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21679543)<br><br>2014-11-03 19:32<br>赞(0) 踩(0) | <div>音色太干净了！弦挑流水洗客愁！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43027521)<br>山穷水尽已无路   沿街...<br>2014-10-26 03:55<br>赞(1) 踩(0) | <div>寂静的夜、唯有一丝清凉是这种琴声  曾感动着多少少年的心声梦  总是那么美好加油……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43027521)<br>山穷水尽已无路   沿街...<br>2014-10-26 03:55<br>赞(1) 踩(0) | <div>寂静的夜、唯有一丝清凉<br>是这种琴声  曾感动着多少少年的心声<br>梦  总是那么美好<br><br>加油……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13552)<br><br>2014-10-08 14:46<br>赞(0) 踩(0) | <div>画心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5492697)<br>节奏旋律带感<br>2014-09-22 22:18<br>赞(0) 踩(0) | <div>掠-未完成</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40525969)<br>一雯<br>2014-08-28 13:00<br>赞(0) 踩(0) | <div>喜欢常静的音乐</div> |
@@ -232,7 +232,7 @@ TedxFactory798 北京 （2016）演讲《永恒的乐音》<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18874620)<br><br>2013-08-12 16:28<br>赞(0) 踩(0) | <div>古筝 1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18874620)<br><br>2013-08-12 16:28<br>赞(0) 踩(0) | <div>古筝 1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317986)<br><br>2013-08-05 12:42<br>赞(1) 踩(0) | <div>无论音乐还是爱情，心动就是收获！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7956143)<br><br>2013-07-31 10:34<br>赞(1) 踩(0) | <div>琴幻古琴悠悠回，空灵迷幻魅。彩云乘飘飞，蓝天舞明媚。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7956143)<br><br>2013-07-31 10:34<br>赞(1) 踩(0) | <div>琴幻<br>古琴悠悠回，空灵迷幻魅。<br>彩云乘飘飞，蓝天舞明媚。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17096969)<br>s站733aaa.com<br>2013-07-11 00:00<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4938458)<br><br>2013-07-06 22:00<br>赞(0) 踩(0) | <div>很厉害</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10392414)<br><br>2013-07-05 21:18<br>赞(0) 踩(0) | <div>呼吸常静</div> |
@@ -360,7 +360,7 @@ TedxFactory798 北京 （2016）演讲《永恒的乐音》<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8784832)<br><br>2012-04-15 06:23<br>赞(0) 踩(0) | <div>中国风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8545727)<br><br>2012-04-10 19:44<br>赞(0) 踩(0) | <div>听着很舒服,没理由的喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8018643)<br><br>2012-04-01 18:25<br>赞(0) 踩(0) | <div>べ_べ</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6326526)<br><br>2012-03-30 14:32<br>赞(0) 踩(0) | <div>动听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6326526)<br><br>2012-03-30 14:32<br>赞(0) 踩(0) | <div>动<br>听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8592265)<br><br>2012-03-29 15:36<br>赞(1) 踩(0) | <div>喜欢常静和林海</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2888100)<br><br>2012-03-20 19:35<br>赞(0) 踩(0) | <div>看样子我得去弄个电古筝</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8461825)<br>。。。。。。<br>2012-03-17 09:39<br>赞(0) 踩(0) | <div>感觉很舒服</div> |
@@ -424,5 +424,5 @@ TedxFactory798 北京 （2016）演讲《永恒的乐音》<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1199640)<br>我还没想好要写什么...<br>2011-02-12 20:06<br>赞(0) 踩(0) | <div>喜欢常静的古筝，电子合成的古筝带给大家前所未有的体会~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2589754)<br>我还没想好要写什么...<br>2011-02-10 23:06<br>赞(0) 踩(0) | <div>有时听听New Age也蛮舒服的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1342581)<br><br>2011-01-22 17:54<br>赞(0) 踩(0) | <div>现代筝常静...</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/573243)<br><br>2010-10-17 20:04<br>赞(0) 踩(0) | <div>现中国东方歌舞团古筝演奏家，独立音乐人，泰国公主常任古筝老师。常静生于四川成都，八岁始随启蒙老师龙德君学习古筝谱。1985年考入四川音乐学院附中，1991年考入中国音乐学院，师从于李婉芬老师和邱大成老师，1995年以全班第一的成绩毕业并考入中国歌舞团。常静专注于唐宋诗歌的古筝音乐演奏与研究，有多张个人唱片出版。常静拥有与世界一流古典音乐家与乐团合作的经历，包括陈其钢，汤沐海，法国国家交响乐团等。常静也参加过众多大型演出，交响音乐会，世界各地的音乐节，包括在北京颐和园举办的奥运火炬传递仪式。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/573243)<br><br>2010-10-17 20:04<br>赞(0) 踩(0) | <div>现中国东方歌舞团古筝演奏家，独立音乐人，泰国公主常任古筝老师。<br>常静生于四川成都，八岁始随启蒙老师龙德君学习古筝谱。1985年考入四川音乐学院附中，1991年考入中国音乐学院，师从于李婉芬老师和邱大成老师，1995年以全班第一的成绩毕业并考入中国歌舞团。<br>常静专注于唐宋诗歌的古筝音乐演奏与研究，有多张个人唱片出版。常静拥有与世界一流古典音乐家与乐团合作的经历，包括陈其钢，汤沐海，法国国家交响乐团等。常静也参加过众多大型演出，交响音乐会，世界各地的音乐节，包括在北京颐和园举办的奥运火炬传递仪式。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1340686)<br><br>2010-09-08 15:52<br>赞(0) 踩(0) | <div>等待命名 经典</div> |

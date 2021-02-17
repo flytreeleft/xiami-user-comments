@@ -3,7 +3,7 @@ Jeff Bernat
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8d226bb0da64ae0246626bb50b24fb9e.jpg)<br>Jeff Bernat](https://i.xiami.com/jeffbernat) | **播放数**: 16904738<br>**粉丝数**: 18186<br>**评论数**: 365<br>**地区**: United States of America 美国<br>**风格**: 当代节奏布鲁斯 Contemporary R&B, 新灵魂乐 Neo-Soul, 流行灵魂乐 Pop Soul, 都市音乐 Urban, 当代唱作人 Contemporary Singer-Songwriter<br> |
+| [![](../../images/musicians/8d226bb0da64ae0246626bb50b24fb9e.jpg)<br>Jeff Bernat](https://i.xiami.com/jeffbernat) | **地区**: United States of America 美国<br>**风格**: 当代节奏布鲁斯 Contemporary R&B, 新灵魂乐 Neo-Soul, 流行灵魂乐 Pop Soul, 都市音乐 Urban, 当代唱作人 Contemporary Singer-Songwriter<br>**播放数**: 16904738<br>**粉丝数**: 18186<br>**评论数**: 365<br> |
 
 ## 档案
 
@@ -48,8 +48,8 @@ https://www.showstart.com/event/list?type=1&tag=23181
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350887118)<br>只想过自己的生活。<br>2020-12-15 21:06<br>赞(0) 踩(0) | <div>真的好爱他的声音啊。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374397660)<br>神只出现在末世<br>2020-12-10 00:38<br>赞(0) 踩(0) | <div>奇才</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110088060)<br>作为报答、我吔给泥放点、...<br>2020-10-13 20:01<br>赞(0) 踩(0) | <div>.</div> |
@@ -74,8 +74,8 @@ https://www.showstart.com/event/list?type=1&tag=23181
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49655313)<br>除了再见还可以说些什么呢<br>2019-07-29 12:45<br>赞(0) 踩(0) | <div>西安西安西安</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403111563)<br><br>2019-07-29 12:25<br>赞(0) 踩(0) | <div>Yep!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411058641)<br>取之不尽 用之不竭<br>2019-05-13 21:49<br>赞(0) 踩(0) | <div></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46870502)<br>\\\<br>2019-04-28 07:43<br>赞(1) 踩(0) | <div>真的是唯一一个一整个playlist听下来 全部都好听到炸歌手一年过去了还是不腻取向阻击了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318104586)<br> 再见再见了再见<br>2019-04-05 21:28<br>赞(1) 踩(0) | <div>小哥，你减个肥呗说不定下一个九亿少女的梦就你啊 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46870502)<br>\\\<br>2019-04-28 07:43<br>赞(1) 踩(0) | <div>真的是唯一一个一整个playlist听下来 全部都好听到炸歌手<br>一年过去了还是不腻<br>取向阻击了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318104586)<br> 再见再见了再见<br>2019-04-05 21:28<br>赞(1) 踩(0) | <div>小哥，你减个肥呗<br>说不定下一个九亿少女的梦<br>就你啊 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95947080)<br>生活愉快<br>2019-03-11 21:55<br>赞(0) 踩(0) | <div>还是八零后给人的感觉好，自然人才能受保护。生活感觉是自己的，只有没感情的人才永不迟到。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99586286)<br>歌单停滞在2017<br>2019-03-11 08:57<br>赞(0) 踩(0) | <div>哭泣  我怎么错过你的演出了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45686435)<br>一壺飛鳧 尋山夢鶴   ...<br>2019-02-22 17:42<br>赞(0) 踩(0) | <div>〰️</div> |
@@ -230,7 +230,7 @@ https://www.showstart.com/event/list?type=1&tag=23181
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50150591)<br>=)<br>2016-01-19 16:46<br>赞(0) 踩(0) | <div>舒服死了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41852394)<br>Hallelujah。<br>2016-01-17 20:56<br>赞(0) 踩(0) | <div>warmmi</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99809342)<br><br>2016-01-13 22:07<br>赞(0) 踩(0) | <div>和Mckay  Kim合作的Angel  2  me是最爱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49066036)<br>只要有音樂就不會有世界末...<br>2016-01-11 05:04<br>赞(69) 踩(0) | <div>歌手名：欧阳震华产地：菲律宾曲风：Fumk  方R大&amp;amp;同B参演经历：《破产姐妹》的han长处：所有歌他一出声就收藏~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49066036)<br>只要有音樂就不會有世界末...<br>2016-01-11 05:04<br>赞(69) 踩(0) | <div>歌手名：欧阳震华<br>产地：菲律宾<br>曲风：Fumk  方R大&amp;amp;同B<br>参演经历：《破产姐妹》的han<br>长处：所有歌他一出声就收藏~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14031187)<br>Deja Vu<br>2016-02-01 22:05<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211084854)<br>全 世 界 都 只 有 ...<br>2016-08-10 03:46<br>赞(0) 踩(0) | <div>你太逗 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259589364)<br>我还没想好要写什么...<br>2017-07-19 07:59<br>赞(0) 踩(0) | <div>不是Funk吗？</div> |
@@ -357,8 +357,8 @@ https://www.showstart.com/event/list?type=1&tag=23181
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320897)<br>音乐无国界，分享无境界<br>2014-02-07 14:27<br>赞(0) 踩(0) | <div>迄今为止，是我听过最free的爵士hiphop！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4302754)<br>groovy<br>2014-01-24 16:13<br>赞(0) 踩(0) | <div>新灵魂乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31811694)<br><br>2014-01-18 02:22<br>赞(0) 踩(0) | <div>喜欢的其中一种R&amp;amp;B的代表歌手</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2721787)<br>Find me: Cee...<br>2014-01-15 09:32<br>赞(1) 踩(0) | <div>声线听起来很像Sam Ock，但我更喜欢Jeff的旋律 ^_^</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7471738)<br>1901<br>2014-01-14 13:37<br>赞(0) 踩(0) | <div>很沦陷的声音可是我为什么我想起了babyface</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2721787)<br>Find me: Cee...<br>2014-01-15 09:32<br>赞(1) 踩(0) | <div>声线听起来很像Sam Ock，<br>但我更喜欢Jeff的旋律 ^_^</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7471738)<br>1901<br>2014-01-14 13:37<br>赞(0) 踩(0) | <div>很沦陷的声音<br>可是我为什么我想起了babyface</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34927891)<br>我还没想好要写什么...<br>2014-04-20 10:50<br>赞(0) 踩(0) | <div>+1 mad sexy cool</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1107905)<br>兴趣论！<br>2014-01-08 22:17<br>赞(0) 踩(0) | <div>卖飞佛！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5054775)<br><br>2014-01-04 23:07<br>赞(0) 踩(0) | <div>声音一级棒</div> |
@@ -367,7 +367,7 @@ https://www.showstart.com/event/list?type=1&tag=23181
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/631034)<br><br>2013-12-15 14:37<br>赞(0) 踩(0) | <div>很不錯的風格,很好的聲音,聽了舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/655531)<br>我还没想好要写什么...<br>2013-12-13 21:16<br>赞(0) 踩(0) | <div>莫名觉得很贵族~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/598006)<br>飞越黑夜和考验<br>2013-12-12 23:44<br>赞(0) 踩(0) | <div>oh my god,迷倒了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320897)<br>音乐无国界，分享无境界<br>2013-12-12 13:59<br>赞(0) 踩(0) | <div>现在很多的歌手都是为了赚钱而出单曲，甚至专辑还多于自己的那些歌，例如XXX歌手，不点名啦，越来越少有出整张专辑的了。每张专辑都很棒~ 爵士hiphop大爱啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320897)<br>音乐无国界，分享无境界<br>2013-12-12 13:59<br>赞(0) 踩(0) | <div>现在很多的歌手都是为了赚钱而出单曲，甚至专辑还多于自己的那些歌，例如XXX歌手，不点名啦，越来越少有出整张专辑的了。<br>每张专辑都很棒~ 爵士hiphop大爱啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320897)<br>音乐无国界，分享无境界<br>2013-12-12 13:56<br>赞(0) 踩(0) | <div>9.2 9.5 9.7,一张比一张低分？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7251091)<br>〖園長最凶、夜露死苦。～<br>2013-12-10 01:45<br>赞(0) 踩(0) | <div>赞赞赞！！！！！！！！！！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7066790)<br> <br>2013-12-09 23:32<br>赞(0) 踩(0) | <div>棒呆！！终于出新专辑了。</div> |
@@ -381,7 +381,7 @@ https://www.showstart.com/event/list?type=1&tag=23181
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239711)<br> <br>2013-09-12 16:21<br>赞(0) 踩(0) | <div>something about kai</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3163786)<br><br>2013-08-22 13:58<br>赞(0) 踩(0) | <div>sexy voice.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1947983)<br>다이나믹하게 담대하게<br>2013-08-15 09:48<br>赞(0) 踩(0) | <div>그냥 다 좋다~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3170502)<br><br>2013-08-11 23:18<br>赞(0) 踩(0) | <div>Call you mine 好好听~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3170502)<br><br>2013-08-11 23:18<br>赞(0) 踩(0) | <div>Call you mine 好好听<br>~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15999724)<br><br>2013-07-29 22:23<br>赞(0) 踩(0) | <div>声音好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9749675)<br><br>2013-07-15 02:24<br>赞(0) 踩(0) | <div>SHARE A KIND OF SOFT MOOD</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3554143)<br><br>2013-07-14 16:06<br>赞(0) 踩(0) | <div>感觉不错，很有feel</div> |

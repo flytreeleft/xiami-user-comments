@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ecdc324356259ffa7feb36f3b97ac97b.jpg)<br>流芒菌](https://i.xiami.com/liumangjun) | **播放数**: 400021<br>**粉丝数**: 132<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 日本动漫游戏 Japanese ACG, 同人音乐 DouJin, 中国风 China-Wave<br> |
+| [![](../../images/musicians/ecdc324356259ffa7feb36f3b97ac97b.jpg)<br>流芒菌](https://i.xiami.com/liumangjun) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 日本动漫游戏 Japanese ACG, 同人音乐 DouJin, 中国风 China-Wave<br>**播放数**: 400021<br>**粉丝数**: 132<br>**评论数**: 7<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,10 +18,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270533012)<br><br>2019-04-29 17:51<br>赞(2) 踩(0) | <div>红昭愿追来的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108705548)<br><br>2018-06-11 23:20<br>赞(0) 踩(0) | <div>喜欢你好久了。未来还久，一起加油！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108705548)<br><br>2018-06-11 23:20<br>赞(0) 踩(0) | <div>喜欢你好久了。<br>未来还久，一起加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/372758356)<br><br>2018-05-26 23:54<br>赞(0) 踩(0) | <div>声音很好听！只有歌手才能赋予歌曲灵魂！坚持自己歌手的原则没有错！你的决定时间会证明是多么的正确的。 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358283848)<br><br>2018-04-15 09:04<br>赞(1) 踩(0) | <div>很期待听到一首属于流芒菌自己的歌！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319878201)<br><br>2018-03-14 23:28<br>赞(2) 踩(0) | <div>我天哪，大大你来了</div> |

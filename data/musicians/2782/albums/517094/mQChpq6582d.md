@@ -63,9 +63,9 @@ borhan tenger zayaasan nutagie
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2020-01-24 10:33<br>赞(0) 踩(0) | <div>单位值班中再听《杭盖》2020.1.24  10：33</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2020-01-24 10:33<br>赞(0) 踩(0) | <div>单位值班中<br>再听《杭盖》<br>2020.1.24  10：33</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343434175)<br> <br>2020-01-21 02:43<br>赞(0) 踩(0) | <div>太美了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2968260)<br>暂无签名~<br>2019-12-11 18:36<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300475652)<br><br>2019-09-07 16:20<br>赞(0) 踩(0) | <div>好听</div> |
@@ -81,7 +81,7 @@ borhan tenger zayaasan nutagie
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375856027)<br><br>2019-03-11 07:10<br>赞(5) 踩(0) | <div>唯一混迹西方摇滚乐坛且成名的中国乐队。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246150408)<br>52hz的鱼<br>2019-03-31 18:02<br>赞(0) 踩(0) | <div>九宝了解一下</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375856027)<br><br>2019-03-31 18:17<br>赞(0) 踩(0) | <div><q><b>Jay说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419274366)<br><br>2019-03-01 13:29<br>赞(1) 踩(0) | <div>2019年度新专辑巡演03月09日 呼和浩特 WHO HOT LIVEHOUSE03月10日 包头 為Livehouse03月14日 南京 欧拉艺术空间03月15日 杭州 MAO03月16日 上海 MAO03月21日 厦门 星巢越中心03月22日 深圳 B10现场03月23日 广州 MAO03月28日 重庆 VOX重庆03月29日 成都 正火艺术中心03月30日 西安 MAO04月06日 北京 疆进酒OMNISPACE</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419274366)<br><br>2019-03-01 13:29<br>赞(1) 踩(0) | <div>2019年度新专辑巡演<br>03月09日 呼和浩特 WHO HOT LIVEHOUSE<br>03月10日 包头 為Livehouse<br>03月14日 南京 欧拉艺术空间<br>03月15日 杭州 MAO<br>03月16日 上海 MAO<br>03月21日 厦门 星巢越中心<br>03月22日 深圳 B10现场<br>03月23日 广州 MAO<br>03月28日 重庆 VOX重庆<br>03月29日 成都 正火艺术中心<br>03月30日 西安 MAO<br>04月06日 北京 疆进酒OMNISPACE</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70012882)<br>睡魔入侵<br>2019-03-15 22:55<br>赞(0) 踩(0) | <div>3月16 我在上海mao 等着你们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32218878)<br>再见虾虾仔们vx：xxx...<br>2019-02-22 20:52<br>赞(0) 踩(0) | <div>超级爱呀啊啊啊啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5681915)<br>为了保护心脏..从此以后...<br>2019-02-15 16:51<br>赞(2) 踩(0) | <div>卧槽真的听哭了</div> |
@@ -107,7 +107,7 @@ borhan tenger zayaasan nutagie
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204975511)<br>常在河边走，哪能不湿鞋。<br>2018-07-11 14:14<br>赞(1) 踩(0) | <div>又一次选了这首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282590002)<br>爱是旋律<br>2018-07-08 08:07<br>赞(4) 踩(0) | <div>我是蒙古人，我爱我们民族的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274029201)<br>音乐，无处不在！<br>2018-05-27 17:38<br>赞(2) 踩(0) | <div>好听，喜欢他们的歌，人也喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371670325)<br><br>2018-05-24 23:18<br>赞(3) 踩(0) | <div>杭盖 (Live) - 杭盖乐队作词：杭盖乐队作曲：杭盖乐队沉静的杭盖飘落在遥远的天边悄无声息的寂静弥漫着乳香的芬芳歌词大意：杭盖无边的大草原啊赋予我生命自由的胸怀长生天庇佑的家园祖先赐予的古老神灵呼唤着我们生存的灵慧苍天恩赐的摇篮蓝色的杭盖飘落在遥远的天边骏马奔放的绿色生机勃勃的杭盖歌词大意：杭盖无边的大草原啊赋予我生命自由的胸怀长生天庇佑的家园祖先赐予的古老神灵呼唤着我们生存的灵慧苍天恩赐的摇篮祖先赐予的古老神灵呼唤着我们生存的智慧苍天恩赐的摇篮</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371670325)<br><br>2018-05-24 23:18<br>赞(3) 踩(0) | <div>杭盖 (Live) - 杭盖乐队<br>作词：杭盖乐队<br>作曲：杭盖乐队<br>沉静的杭盖<br>飘落在遥远的天边<br>悄无声息的寂静<br>弥漫着乳香的芬芳<br>歌词大意：<br>杭盖无边的大草原啊<br>赋予我生命自由的胸怀<br>长生天庇佑的家园<br>祖先赐予的古老神灵<br>呼唤着我们生存的灵慧<br>苍天恩赐的摇篮<br>蓝色的杭盖<br>飘落在遥远的天边<br>骏马奔放的绿色<br>生机勃勃的杭盖<br>歌词大意：<br>杭盖无边的大草原啊<br>赋予我生命自由的胸怀<br>长生天庇佑的家园<br>祖先赐予的古老神灵<br>呼唤着我们生存的灵慧<br>苍天恩赐的摇篮<br>祖先赐予的古老神灵<br>呼唤着我们生存的智慧<br>苍天恩赐的摇篮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283246798)<br><br>2018-05-19 13:47<br>赞(3) 踩(0) | <div>是民族的，更是世界的，音乐无国界，经典永流传。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341840036)<br><br>2018-05-08 18:13<br>赞(2) 踩(0) | <div>豪放，寂寥，自由的奔羊。内心喷发的呐喊，就是这个感觉。世界这么大，还有什么装不下。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168327196)<br>这家伙很聪明什么也没留下...<br>2018-05-03 12:44<br>赞(5) 踩(0) | <div>怀疑我是不是有蒙古人的基因，第一次听杭盖的音乐就被震撼到了</div> |
@@ -185,7 +185,7 @@ borhan tenger zayaasan nutagie
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258525581)<br><br>2017-04-12 12:34<br>赞(1) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270472297)<br> <br>2017-04-11 20:05<br>赞(2) 踩(0) | <div>互粉互粉呵呵今年能够客观的一份属于杜达耶夫份特殊的高贵是预防</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/760353)<br><br>2017-04-09 23:11<br>赞(2) 踩(0) | <div>天籁</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260439292)<br><br>2017-04-09 01:08<br>赞(2) 踩(0) | <div>&amp;mdash;&amp;mdash;致自己生命在呼吸之间</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260439292)<br><br>2017-04-09 01:08<br>赞(2) 踩(0) | <div>&amp;mdash;&amp;mdash;致自己<br><br><br>生命在呼吸之间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286973518)<br><br>2017-04-07 21:57<br>赞(1) 踩(0) | <div>爽啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123974322)<br>0七月流火~ 但还是 赶...<br>2017-04-07 19:46<br>赞(1) 踩(0) | <div>平地</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123974322)<br>0七月流火~ 但还是 赶...<br>2017-04-07 19:46<br>赞(1) 踩(0) | <div>旋风</div> |
@@ -398,7 +398,7 @@ borhan tenger zayaasan nutagie
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44938474)<br>暂无签名~<br>2015-02-04 17:23<br>赞(0) 踩(0) | <div>你是蒙古吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25475676)<br>心若没有栖息的地方，到哪...<br>2015-02-05 02:10<br>赞(0) 踩(0) | <div><q><b>骗子说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44938474)<br>暂无签名~<br>2017-10-28 00:04<br>赞(0) 踩(0) | <div><q><b>壁虎的爪子说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-02-01 08:38<br>赞(0) 踩(0) | <div>我操编曲好...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-02-01 08:38<br>赞(0) 踩(0) | <div>我操<br>编曲好...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46602431)<br><br>2015-01-29 00:09<br>赞(0) 踩(0) | <div>说实在的，不上《中国好歌曲》，去哪知道杭盖。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1023212)<br> <br>2015-02-13 22:42<br>赞(0) 踩(0) | <div>经常在音乐节看到他们啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45295087)<br><br>2015-02-25 23:35<br>赞(0) 踩(0) | <div>不上好声音也有很多人知道，你不关注就不要说什么好声音的事</div> |
@@ -435,7 +435,7 @@ borhan tenger zayaasan nutagie
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27699576)<br>后宫佳丽三千人，铁杵磨成...<br>2015-01-24 23:13<br>赞(1) 踩(0) | <div>屌！真希望杭盖能上春晚把棒子弄下去，这才是中国的声音！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6015522)<br>让我们来玩一场捉迷藏吧<br>2015-01-28 08:15<br>赞(0) 踩(0) | <div>同意</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25475676)<br>心若没有栖息的地方，到哪...<br>2015-02-03 13:25<br>赞(0) 踩(0) | <div>同感！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-01-24 20:23<br>赞(0) 踩(0) | <div>这歌真的是ى我操了...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-01-24 20:23<br>赞(0) 踩(0) | <div>这歌真的是ى<br>我操了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33184665)<br>时间不动声色的力量。<br>2015-01-24 11:05<br>赞(0) 踩(0) | <div>声音里有草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45484873)<br><br>2015-01-23 21:05<br>赞(0) 踩(0) | <div>好歌曲听过之后一直在单曲循环这首</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32617419)<br> <br>2015-01-23 23:29<br>赞(0) 踩(0) | <div>希格希日也好听</div> |

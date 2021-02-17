@@ -45,8 +45,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11455961)<br> <br>2021-01-12 11:05<br>赞(0) 踩(0) | <div>世界那么大 为什么要关掉虾米呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379616899)<br>不说再见，晚安虾米，虽然...<br>2020-12-13 22:18<br>赞(0) 踩(0) | <div>世界那么大，我生活在东南亚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84198378)<br><br>2020-09-09 22:21<br>赞(2) 踩(0) | <div>那时候在马来西亚读书，每次做地铁去上学都在听这首歌。满满的回忆啊。爱你粒粒！</div> |
@@ -98,11 +98,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296914879)<br><br>2018-05-30 15:55<br>赞(0) 踩(0) | <div>你说去哪，我都点头。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245778851)<br><br>2018-05-25 15:14<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">朋友被拒签后分享的歌曲，一旅游签也拒也是扎心了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245092013)<br> <br>2018-05-25 11:43<br>赞(0) 踩(0) | <div>去印尼玩之前听了这首歌，在印尼也听了这首歌，现在听起来就有在印尼海里的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321707033)<br>你问我全世界是哪里最美，...<br>2018-05-20 19:10<br>赞(2) 踩(0) | <div>世界那么大，我想和你去看一看 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321707033)<br>你问我全世界是哪里最美，...<br>2018-05-20 19:10<br>赞(2) 踩(0) | <div>世界那么大，<br>我想和你去看一看 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43064157)<br> <br>2018-05-15 19:44<br>赞(1) 踩(0) | <div>世界那么大，哪里才是我家～想起陈绮贞的喜欢你时的内心活动：世界上，七千个地方，我们定居哪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339191478)<br> <br>2018-04-30 14:59<br>赞(1) 踩(0) | <div>:-)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9556198)<br>你唱我听。<br>2018-04-18 21:54<br>赞(0) 踩(0) | <div>他奶奶的 居然问我平时都不出去玩吗 要你管 哼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223440907)<br><br>2018-04-10 22:28<br>赞(1) 踩(0) | <div>陌生的猫咪 陌生的狗陌生的老人摸我的头陌生的少女对我thank油</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223440907)<br><br>2018-04-10 22:28<br>赞(1) 踩(0) | <div>陌生的猫咪 陌生的狗<br>陌生的老人摸我的头<br>陌生的少女对我thank油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289736881)<br><br>2018-04-09 16:52<br>赞(0) 踩(0) | <div>&amp;ldquo;男朋女朋友&amp;rdquo;，用得好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5488524)<br> <br>2018-04-08 01:02<br>赞(0) 踩(0) | <div>陌生的题型，陌生的解答</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299953795)<br>灵明无着<br>2018-03-31 13:37<br>赞(0) 踩(0) | <div>没去过哪</div> |
@@ -152,7 +152,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288066243)<br><br>2017-10-14 18:38<br>赞(1) 踩(0) | <div>听宋冬野，你们说难听；听马頔，你们说难听；听陈粒，你们说难听。都火了吧，你们也开始追了吧[奸笑]我可以功放了吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7351063)<br> <br>2017-10-05 17:46<br>赞(0) 踩(0) | <div>正在东南亚 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114348126)<br> <br>2017-09-20 20:25<br>赞(0) 踩(0) | <div>这首歌曲风好像早期的戴佩妮</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278270072)<br>Relax<br>2017-09-17 11:49<br>赞(0) 踩(0) | <div>陌生的少女对我 点点头&amp;hellip;&amp;hellip;你说去哪儿  不再等候</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278270072)<br>Relax<br>2017-09-17 11:49<br>赞(0) 踩(0) | <div>陌生的少女对我 点点头&amp;hellip;&amp;hellip;<br>你说去哪儿  不再等候</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25817665)<br>渴望<br>2017-09-14 00:55<br>赞(2) 踩(0) | <div>世界那么大我只去过泰国，感觉泰国很落后，有些人皮肤很黑，跟黑种人差不多，有些人又长得很欧美，性很open，感觉街上很多站街女，大多数男人有好几个老婆，都不知道他们工资那么低是怎么养活那么多人的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268173631)<br><br>2017-09-09 22:56<br>赞(3) 踩(0) | <div>世界那么大，我一直住在东南亚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284428314)<br><br>2017-08-28 20:24<br>赞(0) 踩(0) | <div>好魔性，听着听着入迷</div> |
@@ -195,11 +195,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7574154)<br>要一见钟情 要一箭穿心<br>2017-03-21 21:36<br>赞(0) 踩(0) | <div>陌生的猫咪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29070696)<br>我还没想好要写什么...<br>2017-03-21 07:27<br>赞(0) 踩(0) | <div>世界那么大，梦里回到东南亚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49288540)<br><br>2017-03-20 15:38<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142812528)<br>开心点朋友 人间不值得<br>2017-03-17 11:06<br>赞(4) 踩(0) | <div>『世界那么大去哪里排队约你啊渺小的一个 遇到也错过』 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142812528)<br>开心点朋友 人间不值得<br>2017-03-17 11:06<br>赞(4) 踩(0) | <div>『世界那么大去<br>哪里排队约你啊<br>渺小的一个 遇到也错过』 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44705329)<br>去看花儿和大海<br>2017-03-13 00:17<br>赞(0) 踩(0) | <div>陌生的猫咪陌生的狗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218579919)<br><br>2017-03-03 12:44<br>赞(0) 踩(0) | <div>为你我来听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44596074)<br>我们会更好的。<br>2017-03-02 13:57<br>赞(1) 踩(0) | <div>泰国新加坡没玩够 还差缅老越菲律宾</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200756849)<br>我会学着放弃你     ...<br>2017-02-26 15:14<br>赞(1) 踩(0) | <div>这首歌时长3:33已经评论了333我是第334个跟着粒哥去东南亚的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200756849)<br>我会学着放弃你     ...<br>2017-02-26 15:14<br>赞(1) 踩(0) | <div>这首歌时长3:33已经评论了333<br>我是第334个跟着粒哥去东南亚的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2215414)<br> <br>2017-02-23 14:22<br>赞(0) 踩(0) | <div>萌宝，等到你觉得合适时候</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270790279)<br><br>2017-02-22 17:36<br>赞(1) 踩(0) | <div>东南亚都没去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33179645)<br>青海青 黄河黄<br>2017-02-04 20:04<br>赞(0) 踩(0) | <div>我只爱东南亚</div> |
@@ -225,7 +225,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42456963)<br><br>2016-11-21 08:07<br>赞(0) 踩(0) | <div>世界那么大 我只去过东南亚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101681224)<br>或我应该相信这缘分。<br>2016-11-20 13:32<br>赞(3) 踩(0) | <div>下虾米也就为了这首歌 <img src="../../../../images/comments/53376b15f77ae122bdb1ed308546bbcb.png"> <img src="../../../../images/comments/53376b15f77ae122bdb1ed308546bbcb.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94873836)<br>时而粗线条时而情感细腻的...<br>2016-11-19 20:50<br>赞(1) 踩(0) | <div>你说去哪我都点头！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45736990)<br><br>2016-11-10 12:27<br>赞(0) 踩(0) | <div>等到妳覺得合適時候請通知我我隨時能走妳說去哪兒我都點頭</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45736990)<br><br>2016-11-10 12:27<br>赞(0) 踩(0) | <div>等到妳覺得合適時候<br>請通知我我隨時能走<br>妳說去哪兒我都點頭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97000464)<br><br>2016-10-20 10:20<br>赞(1) 踩(0) | <div>世界那么大，而我只去过东南亚，真的好想去别的国家 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96391234)<br><br>2016-10-19 14:57<br>赞(3) 踩(0) | <div>老公不敢再唱的成名曲哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49435634)<br>来来来，给你看个宝贝。<br>2016-10-15 16:43<br>赞(0) 踩(0) | <div>调皮噢～</div> |
@@ -238,12 +238,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191190692)<br><br>2016-08-18 00:39<br>赞(1) 踩(0) | <div>(￢д￢。)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2736393)<br><br>2016-08-12 12:39<br>赞(43) 踩(0) | <div>所以我说我喜欢陈绮贞老师“你品尝了夜的巴黎，你踏过下雪的北京，你拥抱热情的岛屿，你埋葬记忆的土耳其”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124993016)<br>为什么说唱歌手只看长相不...<br>2016-08-11 22:53<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18141112)<br>我还没想好要写什么...<br>2016-08-07 12:26<br>赞(21) 踩(0) | <div>“等到妳觉得合适时候，请通知我我随时能走，妳说去哪儿 我都点头”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18141112)<br>我还没想好要写什么...<br>2016-08-07 12:19<br>赞(1) 踩(0) | <div>“等到妳觉得合适时候，请通知我我随时能走，妳说去哪儿我都点头”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18141112)<br>我还没想好要写什么...<br>2016-08-07 12:26<br>赞(21) 踩(0) | <div>“等到妳觉得合适时候，<br>请通知我我随时能走，<br>妳说去哪儿 我都点头”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18141112)<br>我还没想好要写什么...<br>2016-08-07 12:19<br>赞(1) 踩(0) | <div>“等到妳觉得合适时候，<br>请通知我我随时能走，<br>妳说去哪儿我都点头”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7625097)<br>我还没想好要写什么...<br>2016-08-06 19:50<br>赞(1) 踩(0) | <div>世界那么大，我要赚钱去别的国家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47130370)<br>等着离职。<br>2016-08-03 19:05<br>赞(0) 踩(0) | <div>一直想去东南亚。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30717434)<br><br>2016-07-18 12:59<br>赞(0) 踩(0) | <div>1</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49678409)<br>stay hungry ...<br>2016-07-17 01:47<br>赞(2) 踩(0) | <div>@眼书我也只去过东南亚普吉岛…以后带你去啊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49678409)<br>stay hungry ...<br>2016-07-17 01:47<br>赞(2) 踩(0) | <div>@眼书<br>我也只去过东南亚<br>普吉岛…<br>以后带你去啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198993539)<br>我还没想好要写什么...<br>2016-07-09 12:00<br>赞(3) 踩(0) | <div>正在去东南亚的路上 付费来打个卡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1836805)<br><br>2016-07-05 11:32<br>赞(2) 踩(0) | <div>我也只去过东南亚 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634161)<br><br>2016-07-02 20:33<br>赞(2) 踩(0) | <div>thank you 改成 hello 不就都押韵了吗？</div> |
@@ -526,7 +526,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42580668)<br>交个朋友吧<br>2014-11-02 22:21<br>赞(0) 踩(0) | <div>太好听了•~•</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17685014)<br>旧时的你，是我醒不来的梦...<br>2014-11-01 23:19<br>赞(0) 踩(0) | <div>这首也喜欢！清新也很轻快，很喜欢里面的非洲鼓！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5086001)<br>我这么懒怎么还没死啊<br>2014-10-24 11:11<br>赞(0) 踩(0) | <div>等到你觉得合适时候 请通知我我随时能走 你说去哪儿 我都点头</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287264)<br> <br>2014-10-19 22:41<br>赞(0) 踩(0) | <div>等到你觉得合适时候请通知我我随时能走你说去哪儿 我都点头</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287264)<br> <br>2014-10-19 22:41<br>赞(0) 踩(0) | <div>等到你觉得合适时候<br>请通知我我随时能走<br>你说去哪儿 我都点头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34272626)<br>我还没想好要写什么...<br>2014-10-17 10:57<br>赞(0) 踩(0) | <div>轻松的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15480315)<br>听，在自己的世界里。<br>2014-10-15 13:18<br>赞(0) 踩(0) | <div>世界那么大，真的哪里才是我家，边走边看吧，陌生的猫咪，陌生的狗，陌生的老人摸我的头~你说去哪我都点头。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2941975)<br> <br>2014-10-14 00:38<br>赞(0) 踩(0) | <div>陈粒真迷人。都好听。@菛</div> |

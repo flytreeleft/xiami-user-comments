@@ -39,10 +39,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210327691)<br>爱自己<br>2020-03-27 19:04<br>赞(0) 踩(0) | <div>！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335747698)<br>年龄越大，笑点越高，知心...<br>2019-08-26 23:38<br>赞(1) 踩(0) | <div>你手心的太阳呢？还能不能给我安定的力量再见少年</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335747698)<br>年龄越大，笑点越高，知心...<br>2019-08-26 23:38<br>赞(1) 踩(0) | <div>你手心的太阳呢？还能不能给我安定的力量<br><br>再见少年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283698333)<br><br>2019-04-08 15:19<br>赞(0) 踩(0) | <div>听了很多遍 都听不出太阳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95619602)<br> <br>2018-09-10 18:32<br>赞(0) 踩(0) | <div>很难唱的一首歌。很好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188097066)<br>我的最爱@张韶涵  团H...<br>2018-07-14 19:54<br>赞(0) 踩(0) | <div>&amp;ldquo;旅程&amp;rdquo;开始了，我在成都等你 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
@@ -80,13 +80,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253385835)<br>何以解忧，唯有暴富<br>2018-04-04 16:50<br>赞(0) 踩(0) | <div>啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/593650)<br>玺<br>2018-04-04 14:59<br>赞(4) 踩(0) | <div>听到这首歌就泪奔 想起了刚刚上初一那会 当时最爱的男歌手林俊杰 女歌手张韶涵 欧若拉这张专辑最爱的就是这首歌 回忆杀啊 我的青春啊 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348455793)<br> <br>2018-04-04 05:13<br>赞(2) 踩(0) | <div>歌手金曲六连杀，真的刀刀见血，莫名流泪，感动，爱你❤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313221363)<br><br>2018-04-03 19:26<br>赞(1) 踩(0) | <div>你就是我手心的太阳那么温暖我那么捉不住那么有力量</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313221363)<br><br>2018-04-03 19:26<br>赞(1) 踩(0) | <div>你就是我手心的太阳<br>那么温暖我<br>那么捉不住<br>那么有力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47206807)<br>匆匆那年，我们只剩下回忆<br>2018-04-03 19:04<br>赞(1) 踩(0) | <div>初中开始喜欢张韶涵，到2017大学毕业，11年，居然第一次听这首歌，从歌手赶过来听，赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255109553)<br>如果事与愿违，请相信一定...<br>2018-04-03 14:50<br>赞(0) 踩(0) | <div>同样歌手后赶来，不过还是更喜欢歌手的演绎，满满的倔强。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297502379)<br><br>2018-04-02 10:07<br>赞(4) 踩(0) | <div>歌手里听到这个莫名的想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328864853)<br><br>2018-04-02 08:20<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287091120)<br> <br>2018-04-02 06:44<br>赞(0) 踩(0) | <div>看完歌手来的&amp;zwj;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344058813)<br><br>2018-04-01 23:39<br>赞(1) 踩(0) | <div>聽到這首歌,突然想起了一個人--很多年前一個令我差點就斷送了自己一生的人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344058813)<br><br>2018-04-01 23:39<br>赞(1) 踩(0) | <div>聽到這首歌,突然想起了一個人--<br>很多年前一個令我差點就斷送了自己一生的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354450820)<br><br>2018-04-01 20:36<br>赞(1) 踩(0) | <div>看了歌手来的，满满的一波童年回忆杀啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280325627)<br><br>2018-04-01 17:58<br>赞(2) 踩(0) | <div>歌手听你的串烧，忍不住泪目</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119004400)<br>以身外身 做梦中梦<br>2018-04-01 18:25<br>赞(0) 踩(0) | <div>我也是</div> |
@@ -120,7 +120,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322416607)<br>我还没想好要写什么...<br>2018-03-30 22:27<br>赞(1) 踩(0) | <div>我涵一直是棒棒哒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293839726)<br><br>2018-03-30 22:24<br>赞(1) 踩(0) | <div>又是很感动的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263105547)<br><br>2018-03-30 22:17<br>赞(3) 踩(0) | <div>看完歌手再来一次回忆杀~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93406242)<br> <br>2018-03-30 22:16<br>赞(2) 踩(0) | <div>08年小学毕业还是用mp3听的这首歌一转眼整整十年过去了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93406242)<br> <br>2018-03-30 22:16<br>赞(2) 踩(0) | <div>08年小学毕业还是用mp3听的这首歌<br>一转眼整整十年过去了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245131115)<br> <br>2018-03-30 22:13<br>赞(3) 踩(0) | <div>看了歌手过来的，突然对这首歌有感觉。青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/221115930)<br>本命少时<br>2018-03-30 21:51<br>赞(3) 踩(0) | <div>听完歌手来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323800196)<br><br>2018-03-30 21:33<br>赞(3) 踩(0) | <div>歌手过来的.还是老歌好听</div> |
@@ -279,7 +279,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11115766)<br><br>2012-10-19 14:42<br>赞(0) 踩(0) | <div>~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/617777)<br><br>2012-10-12 23:00<br>赞(59) 踩(0) | <div>擦 现在听还是一身鸡皮疙瘩 好听啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5729030)<br><br>2012-07-24 16:53<br>赞(1) 踩(0) | <div>听这歌还是小学呢 一转眼 涵涵也去唱电音了……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8182827)<br><br>2012-07-15 16:00<br>赞(0) 踩(0) | <div>你手心的太阳　只轻放在我背上　委屈就能笑着落泪　被释放在手心的太阳　黑暗里特别明亮　让远路好像　是一种分享　而不是漫长…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8182827)<br><br>2012-07-15 16:00<br>赞(0) 踩(0) | <div>你手心的太阳　只轻放在我背上　委屈就能笑着落泪　被释放<br>在手心的太阳　黑暗里特别明亮　让远路好像　是一种分享　而不是漫长…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7089769)<br>我还没想好要写什么...<br>2012-04-15 09:50<br>赞(0) 踩(0) | <div>又是一个大晴天，我手心的太阳，有种安定的力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8635491)<br><br>2012-04-06 01:49<br>赞(0) 踩(0) | <div>为你投射我最暖的光芒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2104680)<br>Graduation's...<br>2012-04-01 11:33<br>赞(0) 踩(0) | <div>不知道为什么，最近老是喜欢老歌</div> |
@@ -288,12 +288,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8409076)<br><br>2012-03-12 23:29<br>赞(0) 踩(0) | <div>@路言路语 @精灵起舞 只是夜深突然听到。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2966471)<br><br>2012-02-11 19:54<br>赞(0) 踩(0) | <div>在手心的太阳　黑暗里特别明亮　让远路好像　是一种分享　而不是漫长…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7037033)<br><br>2011-12-14 19:31<br>赞(0) 踩(0) | <div>有些时候，我们在仰望中失衡，在仰望中迷离。要知道，别人站得再高，也是奋力拼搏的结果，你要想站到那个高度，甚至需要付出得更多。别人再好，也是别人；自己再不堪，也是自己。唯有全面地审视自己，不断地提升自己，才能做到最好~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7215477)<br><br>2011-12-12 20:13<br>赞(0) 踩(0) | <div>慢慢开始有冬天的温度了 去年此时的昆明不停的下雨 但手心的温度让初冬的春城变得暖暖的 今年在这个据说没有冬天的地方感受着南方的湿冷 但知道远远的有个人看着这里的天气预报 陪我度过冬天 也一样暖暖的在手心的太阳 黑暗里特别明亮 让远路好像 是一种分享 而不是漫长</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1965326)<br> <br>2011-11-28 02:58<br>赞(0) 踩(0) | <div>让眼睛看不到嫉妒的燃烧让耳朵听不到谎言的吵闹在没有人相信爱能永恒那一秒我们正坚定的微笑</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7215477)<br><br>2011-12-12 20:13<br>赞(0) 踩(0) | <div>慢慢开始有冬天的温度了 去年此时的昆明不停的下雨 但手心的温度让初冬的春城变得暖暖的 今年在这个据说没有冬天的地方感受着南方的湿冷 但知道远远的有个人看着这里的天气预报 陪我度过冬天 也一样暖暖的<br>在手心的太阳 黑暗里特别明亮 让远路好像 是一种分享 而不是漫长</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1965326)<br> <br>2011-11-28 02:58<br>赞(0) 踩(0) | <div>让眼睛看不到<br>嫉妒的燃烧<br>让耳朵听不到<br>谎言的吵闹<br>在没有人相信<br>爱能永恒那一秒<br>我们正坚定的微笑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6893320)<br><br>2011-11-27 22:24<br>赞(0) 踩(0) | <div>【11.27】“在没有人相信，爱能永恒那一秒，我们正坚定地微笑……”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5755569)<br>Alone<br>2011-11-04 09:06<br>赞(0) 踩(0) | <div>涵亲们 还记得那年那首歌吗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3704256)<br><br>2011-10-07 23:03<br>赞(0) 踩(0) | <div>梦才温热眼角就冰冷掉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3704256)<br><br>2011-10-07 22:53<br>赞(0) 踩(0) | <div>梦才温热眼角就冰冷掉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3704256)<br><br>2011-10-07 23:03<br>赞(0) 踩(0) | <div>梦才温热眼角<br>就冰冷掉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3704256)<br><br>2011-10-07 22:53<br>赞(0) 踩(0) | <div>梦才温热眼角<br>就冰冷掉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5436307)<br><br>2011-08-17 19:24<br>赞(0) 踩(0) | <div>高三常听的专辑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5047715)<br><br>2011-07-31 09:18<br>赞(0) 踩(0) | <div>总是觉得那么美好，但是我们是朋友，朋友的朋友</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3319007)<br> <br>2011-07-26 10:08<br>赞(0) 踩(0) | <div>让眼睛看不到嫉妒的燃烧，让耳朵听不到谎言的吵闹。</div> |
@@ -303,10 +303,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1396061)<br><br>2011-04-27 10:08<br>赞(0) 踩(0) | <div>一直特别喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3675947)<br>除了演戏什么都会<br>2011-04-23 20:37<br>赞(0) 踩(0) | <div>抒情控 不容错过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2220960)<br><br>2011-04-16 22:47<br>赞(0) 踩(0) | <div>KTV必唱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1516489)<br>暂无签名~<br>2011-04-06 13:54<br>赞(0) 踩(0) | <div>总觉得你就像手心的太阳，永远那么的温暖！因为，“你总是能知道  我的坚强剩多少  给我最刚好的依靠”...希望，有一天，我也能成为你手心的太阳，给予你我力所能及的温暖...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1516489)<br>暂无签名~<br>2011-04-06 13:54<br>赞(0) 踩(0) | <div>总觉得你就像手心的太阳，永远那么的温暖！因为，“你总是能知道  我的坚强剩多少  给我最刚好的依靠”...<br><br>希望，有一天，我也能成为你手心的太阳，给予你我力所能及的温暖...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/728201)<br><br>2011-03-23 01:51<br>赞(0) 踩(0) | <div>好听的歌不用解释</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/728201)<br><br>2011-03-23 01:50<br>赞(0) 踩(0) | <div>好听的歌不用解释</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2010-01-18 17:29<br>赞(0) 踩(0) | <div>1982年1月19日，人太瘦。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/383713)<br><br>2009-10-01 11:43<br>赞(0) 踩(0) | <div>喜欢angela从高二开始。一直到现在，虽然说专辑开始让自己失望，却一直相信这不是她的错。手心的太阳，一直是自己最喜欢的歌之一。涵的声音总是那么的温暖，具有穿透力，一直抵达心窝的最深处。手心的太阳，不一定很亮，不一定灼热，然而却有最合适的温暖与最长久的热度，一直的发光发热，给自己希望与力量。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/383713)<br><br>2009-10-01 11:41<br>赞(0) 踩(0) | <div>喜欢angela从高二开始。一直到现在，虽然说专辑开始让自己失望，却一直相信这不是她的错。手心的太阳，一直是自己最喜欢的歌之一。涵的声音总是那么的温暖，具有穿透力，一直抵达心窝的最深处。手心的太阳，不一定很亮，不一定灼热，然而却有最合适的温暖与最长久的热度，一直的发光发热，给自己希望与力量。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234967)<br><br>2009-08-27 09:28<br>赞(0) 踩(0) | <div>我手心的太阳或许只像个月亮…却用所有爱为你投射我最暖的光芒…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/383713)<br><br>2009-10-01 11:43<br>赞(0) 踩(0) | <div>喜欢angela从高二开始。一直到现在，虽然说专辑开始让自己失望，却一直相信这不是她的错。<br>手心的太阳，一直是自己最喜欢的歌之一。涵的声音总是那么的温暖，具有穿透力，一直抵达心窝的最深处。<br>手心的太阳，不一定很亮，不一定灼热，然而却有最合适的温暖与最长久的热度，一直的发光发热，给自己希望与力量。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/383713)<br><br>2009-10-01 11:41<br>赞(0) 踩(0) | <div>喜欢angela从高二开始。一直到现在，虽然说专辑开始让自己失望，却一直相信这不是她的错。<br>手心的太阳，一直是自己最喜欢的歌之一。涵的声音总是那么的温暖，具有穿透力，一直抵达心窝的最深处。<br>手心的太阳，不一定很亮，不一定灼热，然而却有最合适的温暖与最长久的热度，一直的发光发热，给自己希望与力量。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234967)<br><br>2009-08-27 09:28<br>赞(0) 踩(0) | <div>我手心的太阳<br>或许只像个月亮…<br>却用所有爱<br>为你投射我<br>最暖的光芒…</div> |

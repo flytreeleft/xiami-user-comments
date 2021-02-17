@@ -3,7 +3,7 @@ MuSik I
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c1ec29c274aa22bf76a9651dd6b0a4e6.jpg)<br>MuSik I](https://i.xiami.com/musiki) | **播放数**: 5453653<br>**粉丝数**: 3424<br>**评论数**: 181<br>**地区**: China 中国大陆<br>**风格**: 当代节奏布鲁斯 Contemporary R&B<br> |
+| [![](../../images/musicians/c1ec29c274aa22bf76a9651dd6b0a4e6.jpg)<br>MuSik I](https://i.xiami.com/musiki) | **地区**: China 中国大陆<br>**风格**: 当代节奏布鲁斯 Contemporary R&B<br>**播放数**: 5453653<br>**粉丝数**: 3424<br>**评论数**: 181<br> |
 
 ## 档案
 
@@ -40,17 +40,17 @@ SXondaBeat制作团队成员<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299698652)<br>夜很长，思念也很长<br>2019-02-02 19:36<br>赞(0) 踩(0) | <div>喜欢，虽然不太懂系统的乐理知识，但是很棒很厉害，加油＾０＾~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177818128)<br>至少在我的心中 自己为自...<br>2019-01-30 13:24<br>赞(0) 踩(0) | <div>夏老师加油！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357978038)<br><br>2019-01-28 19:28<br>赞(0) 踩(0) | <div>崽崽我爱你。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300090102)<br><br>2018-11-26 21:14<br>赞(3) 踩(0) | <div>很棒的人啊喜欢独角戏</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300090102)<br><br>2018-11-26 21:14<br>赞(3) 踩(0) | <div>很棒的人啊<br>喜欢独角戏</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34362145)<br>问一百个问题 然后各奔东...<br>2018-07-11 05:42<br>赞(0) 踩(0) | <div>加油啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338539128)<br>慵懒一生 碌碌无为<br>2018-06-29 14:18<br>赞(1) 踩(0) | <div>都这么好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358988880)<br>若你喜欢怪人 其实我很美<br>2018-06-13 20:22<br>赞(0) 踩(0) | <div>我找不到你的微博 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2477327)<br>我爱你音乐<br>2018-05-15 01:02<br>赞(0) 踩(0) | <div>喜欢他</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187511125)<br>听歌，<br>2018-02-23 14:32<br>赞(1) 踩(0) | <div>喵喵喵，我tm好喜欢你之前听到你的歌我竟然没有认真点进来看看，是我傻逼了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187511125)<br>听歌，<br>2018-02-23 14:32<br>赞(1) 踩(0) | <div>喵喵喵，我tm好喜欢你<br>之前听到你的歌我竟然没有认真点进来看看，<br>是我傻逼了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50265923)<br>我难以放弃的感觉<br>2018-02-09 17:26<br>赞(0) 踩(0) | <div>加油夏老师</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27315765)<br>满腹都是世俗太想跳出平庸<br>2018-01-24 10:38<br>赞(0) 踩(0) | <div>♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332938013)<br>如果我能少喜欢你一点，你...<br>2017-12-02 11:54<br>赞(2) 踩(0) | <div>夏老师，加油</div> |
@@ -211,7 +211,7 @@ SXondaBeat制作团队成员<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4710261)<br>我还没想好要写什么...<br>2015-03-25 15:26<br>赞(0) 踩(0) | <div>beats屌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18694008)<br>暂无签名~<br>2015-03-07 23:19<br>赞(1) 踩(0) | <div>喜欢策马赋和哎唷</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44105180)<br><br>2015-02-11 20:22<br>赞(0) 踩(0) | <div>歌曲千遍一律 无意</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2423789)<br><br>2014-12-20 00:08<br>赞(0) 踩(0) | <div>没有人吐槽【哎唷】的歌词么？感觉有点浪费那么赞的编曲。。。最喜欢的还是策马赋和救世主</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2423789)<br><br>2014-12-20 00:08<br>赞(0) 踩(0) | <div>没有人吐槽【哎唷】的歌词么？感觉有点浪费那么赞的编曲。。。<br>最喜欢的还是策马赋和救世主</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43222780)<br>老子真tm聪明什么也没留...<br>2014-12-19 13:18<br>赞(1) 踩(0) | <div>好。棒棒嗒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5158791)<br>静听星空物语，淡看...<br>2014-11-25 10:38<br>赞(1) 踩(0) | <div>双人旅行，大赞！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2956445)<br><br>2014-11-22 08:28<br>赞(1) 踩(0) | <div>双人旅行很棒，喜欢它的节奏~</div> |

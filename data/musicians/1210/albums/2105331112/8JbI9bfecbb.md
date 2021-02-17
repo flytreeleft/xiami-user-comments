@@ -57,15 +57,15 @@ ISRC：TWA451907402<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1557601)<br>暂无签名~<br>2020-11-05 16:24<br>赞(0) 踩(0) | <div>这种歌，还有什么可说的呢，听的每一句，都在映照着自己，他写他的人生，却在唱着我的人生。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257341401)<br> <br>2020-10-29 21:51<br>赞(2) 踩(0) | <div>这首太棒了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288742545)<br>我在香港<br>2020-08-04 10:00<br>赞(1) 踩(0) | <div>这首歌给吴亦凡吧！吴亦凡写不出好作品的原因是作品没有有肉没血，能听却听不进去！看了中国有嘻哈之后才发现只有吴亦凡不懂创作，基础知识扎实却写不出动心的歌，技术流听多了觉得乏味，中国的语言需要内容和表达的心意！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28878477)<br>我还没想好要写什么...<br>2020-05-04 22:57<br>赞(2) 踩(0) | <div>有多少人遇到问题就逃避</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138361188)<br>snow<br>2020-03-27 22:53<br>赞(1) 踩(0) | <div>这绝对gay</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31365996)<br> <br>2020-03-26 22:50<br>赞(2) 踩(0) | <div>好多年了，爱的人还是你没变</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270078007)<br>我见青山多妩媚，料青山见...<br>2020-03-04 00:56<br>赞(5) 踩(0) | <div>张震岳什么时候能上《歌手》等了好多年</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270078007)<br>我见青山多妩媚，料青山见...<br>2020-03-04 00:56<br>赞(5) 踩(0) | <div>张震岳什么时候能上《歌手》<br>等了好多年</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317925932)<br><br>2020-05-11 18:04<br>赞(0) 踩(0) | <div>不屑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322558918)<br>我还没想好要写什么...<br>2020-03-02 10:48<br>赞(2) 踩(0) | <div>每次听都热泪澎湃。乘风破浪，不卑不亢，爱过笑过，尽量洒脱。我要我属于我！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10419853)<br>暂无签名~<br>2020-02-20 14:25<br>赞(1) 踩(0) | <div>无意发现~</div> |
@@ -78,7 +78,7 @@ ISRC：TWA451907402<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379943282)<br>人格分裂！<br>2019-12-18 12:03<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419231768)<br>我还没想好要写什么...<br>2019-12-13 21:35<br>赞(3) 踩(0) | <div>每次听阿岳都有治愈感 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4208300)<br>微博/网易云：小田切尼 <br>2019-12-12 21:39<br>赞(2) 踩(0) | <div>2014年的夏天 我大哭一场</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228752079)<br>你听歌的时候在想什么啊？<br>2019-12-09 11:22<br>赞(1) 踩(0) | <div>那一年的 夏天 我大哭一场why not</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228752079)<br>你听歌的时候在想什么啊？<br>2019-12-09 11:22<br>赞(1) 踩(0) | <div>那一年的 夏天 我大哭一场<br>why not</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334699724)<br><br>2019-12-08 01:11<br>赞(1) 踩(0) | <div>hh</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9413360)<br><br>2019-12-06 23:41<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png">想你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45951662)<br><br>2019-12-05 22:45<br>赞(4) 踩(0) | <div>阿嶽已经帮你把经历的 没经历的 正在经历的 提前告诉了你…</div> |
@@ -98,7 +98,7 @@ ISRC：TWA451907402<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346492287)<br>虾米不要离开我！<br>2019-10-28 09:38<br>赞(0) 踩(0) | <div>这首不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145902426)<br>自在如风。<br>2019-10-27 14:12<br>赞(1) 踩(0) | <div>那一年的夏天我大哭一场。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90086500)<br>1974.5.2<br>2019-10-26 21:22<br>赞(0) 踩(0) | <div>好好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50587087)<br> <br>2019-10-26 19:14<br>赞(3) 踩(0) | <div>有感的专辑，写一段字。你曾是我滚滚而来的蠢蠢欲动，在我波光粼粼的脑海中翩翩起舞，那一年的夏天嗡嗡作响，沉迷在时光里娓娓道来，两人只关一个故事，是一首越久越耐听的念念不忘。--jimu</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50587087)<br> <br>2019-10-26 19:14<br>赞(3) 踩(0) | <div>有感的专辑，写一段字。<br><br><br>你曾是我滚滚而来的蠢蠢欲动，<br>在我波光粼粼的脑海中翩翩起舞，<br>那一年的夏天嗡嗡作响，<br>沉迷在时光里娓娓道来，<br>两人只关一个故事，<br>是一首越久越耐听的念念不忘。<br>--jimu</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5968552)<br>虾小米，我爱你所以讲不出...<br>2019-10-25 16:59<br>赞(0) 踩(0) | <div>除了一句话里有两个原来外，副歌好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55652375)<br>抬头三尺有神明®<br>2019-10-25 13:23<br>赞(1) 踩(0) | <div>偏爱这首《念念不忘》。无需假借《酒鬼》来消解都市情愁；靠《绝对》的逃离也不见得能有多干脆；而选择相信遗忘本就是《贪心》的；如今再谈《远走高飞》则显得稍许无病呻吟了。 45岁的《念念不忘》依旧能听得到那个深藏内心的酷男孩，浮沉、起落，是非、对错，终究能让时间冲淡得不复重要，与曾经释后的情绪一起在记忆里红尘作伴。那些过得去的你我，或是过不去的他们，都成了这儿娓娓道来的主角。这句说的好似我，好似他，也好似她，会是屏幕后的你吗？庆幸没忘，也不必忘，因为《念念不忘》，人生才难忘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114907786)<br>我还没想好要写什么...<br>2019-10-24 20:45<br>赞(0) 踩(0) | <div>啊，歌词写的真好！</div> |
@@ -120,7 +120,7 @@ ISRC：TWA451907402<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11586439)<br>陪你拉屎!£&@!<br>2020-01-05 20:15<br>赞(0) 踩(0) | <div>同问</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286430887)<br>爱才是最好的柔光 最有效...<br>2020-01-16 15:18<br>赞(0) 踩(0) | <div>+10086</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117532352)<br> hey<br>2019-10-20 21:21<br>赞(1) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100341612)<br>我还没想好要写什么...<br>2019-10-20 19:46<br>赞(0) 踩(0) | <div>2019.10.20 我现在在西安简单音乐节爱阿岳第十年 现在大三 今天 我终于见到你妈妈给买的mp3都是被封和没被封的阿岳的歌我患上了一种病 没有你的歌我浑身难受我爱你 一直会爱下去。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100341612)<br>我还没想好要写什么...<br>2019-10-20 19:46<br>赞(0) 踩(0) | <div>2019.10.20 我现在在西安简单音乐节<br>爱阿岳第十年 现在大三 今天 我终于见到你<br>妈妈给买的mp3都是被封和没被封的阿岳的歌<br>我患上了一种病 没有你的歌我浑身难受<br>我爱你 一直会爱下去。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2273181)<br><br>2019-10-21 16:05<br>赞(0) 踩(0) | <div>唱了几首？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318275238)<br>今晚月色真美<br>2019-10-20 08:55<br>赞(0) 踩(0) | <div>那一年的夏天我大哭一场真的忘不了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307361031)<br>不知道<br>2019-10-20 01:44<br>赞(2) 踩(0) | <div>这里面最喜欢这首 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
@@ -138,17 +138,17 @@ ISRC：TWA451907402<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12701152)<br><br>2019-10-18 18:22<br>赞(0) 踩(0) | <div>再来一杯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9732607)<br>Studio is da...<br>2019-10-18 18:12<br>赞(0) 踩(0) | <div>我？？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402504276)<br><br>2019-10-18 18:04<br>赞(0) 踩(0) | <div>念念不忘 真是念念不忘</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427033888)<br>就怕这份温柔与爱抵不过别...<br>2019-10-18 17:47<br>赞(69) 踩(0) | <div>一边恋恋不忘一边往前走的人大概是最煎熬的吧遇见不同的人 却又想起同一个人看见不同的景 却又想起同样的景碰见不同的事 却又想起同样的事掌管记忆大概是小鬼吧暗戳戳的扎进心里阎王好过 小鬼难缠日子好过 回忆难缠</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427033888)<br>就怕这份温柔与爱抵不过别...<br>2019-10-18 17:47<br>赞(69) 踩(0) | <div>一边恋恋不忘一边往前走的人大概是最煎熬的吧<br>遇见不同的人 却又想起同一个人<br>看见不同的景 却又想起同样的景<br>碰见不同的事 却又想起同样的事<br>掌管记忆大概是小鬼吧<br>暗戳戳的扎进心里<br>阎王好过 小鬼难缠<br>日子好过 回忆难缠</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406040023)<br>我还没想好要写什么...<br>2019-11-09 01:59<br>赞(0) 踩(0) | <div>该忘的还是要忘的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/372613466)<br>我还没想好要写什么...<br>2019-12-29 09:43<br>赞(0) 踩(0) | <div>会好的，ta也会回来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296529740)<br>等我有一天。<br>2019-10-18 16:17<br>赞(0) 踩(0) | <div>那年夏天，说了再见，没想到没在见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115292036)<br><br>2019-10-18 16:17<br>赞(2) 踩(0) | <div>真是念念不忘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35285503)<br>我还没想好要写什么...<br>2019-10-18 16:04<br>赞(0) 踩(0) | <div>念念又不忘</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49073959)<br>我还没想好要写什么...<br>2019-10-18 15:51<br>赞(1) 踩(0) | <div>作词：张震岳 Ayal Komod那一年的夏天 他离开我 好突然好暧昧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49073959)<br>我还没想好要写什么...<br>2019-10-18 15:51<br>赞(1) 踩(0) | <div>作词：张震岳 Ayal Komod<br>那一年的夏天 他离开我 好突然好暧昧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230960125)<br><br>2019-10-18 15:38<br>赞(1) 踩(0) | <div>绝对极品</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86605462)<br>那故事仓促结束不到气绝便...<br>2019-10-18 15:25<br>赞(0) 踩(0) | <div>爱这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357554425)<br><br>2019-10-18 14:19<br>赞(1) 踩(0) | <div>墙裂支持</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343892026)<br>常常住在瓦伦西亚月亮的人<br>2019-10-18 13:03<br>赞(2) 踩(0) | <div>这一年，我在马来西亚，是夏天他在中国，是秋天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343892026)<br>常常住在瓦伦西亚月亮的人<br>2019-10-18 13:03<br>赞(2) 踩(0) | <div>这一年，我在马来西亚，是夏天<br>他在中国，是秋天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281571813)<br><br>2019-10-18 12:46<br>赞(0) 踩(0) | <div>真的是街声里的歌啊啊啊啊啊啊啊开心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8512002)<br>我还没想好要写什么......<br>2019-10-18 10:26<br>赞(1) 踩(0) | <div>唱出来就能慢慢放下了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40153161)<br> <br>2019-10-18 10:22<br>赞(0) 踩(0) | <div>1</div> |

@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/273d8713a30f9822e873052290b40cb2.jpg)<br>洪亿展](https://i.xiami.com/hic) | **播放数**: 4626380<br>**粉丝数**: 431<br>**评论数**: 66<br>**地区**: Taiwan, PRC 中国台湾<br>**风格**: 摇摆乐 Swing, 轻音乐 Easy Listening, 胎教音乐 Prenatal Music<br> |
+| [![](../../images/musicians/273d8713a30f9822e873052290b40cb2.jpg)<br>洪亿展](https://i.xiami.com/hic) | **地区**: Taiwan, PRC 中国台湾<br>**风格**: 摇摆乐 Swing, 轻音乐 Easy Listening, 胎教音乐 Prenatal Music<br>**播放数**: 4626380<br>**粉丝数**: 431<br>**评论数**: 66<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -88,8 +85,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441583665)<br>Forever Maur...<br>2020-10-14 00:50<br>赞(0) 踩(0) | <div>希望您能一直热爱音乐，您是个内心纯净的人，我很喜欢您音乐中透露出的孤独和豁达 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32043222)<br><br>2020-09-29 14:35<br>赞(0) 踩(0) | <div>这首真的太治愈了，谢谢你。 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/638785)<br>缺少社会的毒打<br>2019-12-25 14:11<br>赞(0) 踩(0) | <div>很好听，音乐人都很不容易!</div> |

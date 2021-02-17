@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314889707)<br><br>2018-11-11 20:52<br>赞(0) 踩(0) | <div>怪物也是差点吓死人。心脏病的绝对不要玩。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314889707)<br><br>2018-11-11 20:51<br>赞(0) 踩(0) | <div>如同噩梦一般。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314889707)<br><br>2018-11-11 20:51<br>赞(0) 踩(0) | <div>恐怖</div> |

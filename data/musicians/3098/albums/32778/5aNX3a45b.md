@@ -12,15 +12,12 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444704166)<br>我知道：遇见你，是最浪漫...<br>2020-09-18 07:36<br>赞(2) 踩(0) | <div>原来～生命的一部分&amp;hellip;&amp;hellip;</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444704166)<br>我知道：遇见你，是最浪漫...<br>2020-09-18 07:36<br>赞(2) 踩(0) | <div>原来～<br>生命的一部分&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5913428)<br>後搖患者//樂是萬能藥<br>2020-03-22 04:36<br>赞(0) 踩(0) | <div>貌似需要這首來....告誡自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342285345)<br><br>2019-05-29 10:40<br>赞(0) 踩(0) | <div>妙不可言</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259886968)<br>别靠近我<br>2018-08-26 18:18<br>赞(3) 踩(0) | <div>就觉得，好甜啊</div> |
@@ -35,7 +32,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54354763)<br>生人勿近<br>2017-05-23 00:24<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8094301)<br>Bye bye wx n...<br>2017-01-22 14:45<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/976fcd239e6bd2ad59ee27b53939e479.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105697470)<br>一个部落的集团意识<br>2017-01-13 23:09<br>赞(1) 踩(0) | <div>氛围音乐，激进摇滚，简约古典</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13378392)<br>这个家伙很聪明，没留下。<br>2016-09-23 22:53<br>赞(4) 踩(0) | <div>我刚才在汽车上做了个奇怪的梦你做过完全真实的梦吗那些梦是那么栩栩如生 跟真的一样就像在梦里常有一些奇异的体验一样我每隔一两年 就会做一个这样的梦我一直清晰地记得就像有人匆匆而过一些非常奇特的东西有一次我梦到跟托尔斯泰一起吃午餐另一次我梦到我成了Frank Zappa的乐队经理刚才的梦 就像没有发生奇特的事什么都没发生老兄 就像是《最后一个人》一样 没有人我只是在旅行..从各种车窗往外看大巴车 火车 汽车到了家里时我不断地换电视频道 阅读在梦里阅读着做梦 你有过这样的经历吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13378392)<br>这个家伙很聪明，没留下。<br>2016-09-23 22:53<br>赞(4) 踩(0) | <div>我刚才在汽车上做了个奇怪的梦<br>你做过完全真实的梦吗<br>那些梦是那么栩栩如生 跟真的一样<br>就像在梦里常有一些奇异的体验一样<br>我每隔一两年 就会做一个这样的梦<br>我一直清晰地记得<br>就像有人匆匆而过<br>一些非常奇特的东西<br>有一次我梦到跟托尔斯泰一起吃午餐<br>另一次我梦到我成了Frank Zappa的乐队经理<br>刚才的梦 就像<br>没有发生奇特的事<br>什么都没发生<br>老兄 就像是《最后一个人》一样 没有人<br>我只是在旅行..<br>从各种车窗往外看<br>大巴车 火车 汽车<br>到了家里时<br>我不断地换电视频道 阅读<br>在梦里阅读着做梦 你有过这样的经历吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13934354)<br>人民艺术家<br>2016-05-06 17:27<br>赞(0) 踩(0) | <div>前面就像在天堂散步一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23443417)<br>shit<br>2016-03-01 08:54<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37721355)<br><br>2016-01-29 09:44<br>赞(2) 踩(0) | <div>听到器乐和情绪的无限可能</div> |

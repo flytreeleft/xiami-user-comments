@@ -83,16 +83,16 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255904868)<br><br>2017-10-30 09:58<br>赞(0) 踩(0) | <div>可能也代表了你的心声，希望你一直慢慢进步，不要受伤害，一直喜欢你的歌，你的声音，你的为人，你的颜值</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233354813)<br> <br>2017-10-30 09:58<br>赞(0) 踩(0) | <div>歌声余音绕梁，三日不绝，细细听来，一种深沉却飘然出世的感觉会理科占据认得心头，仿佛一切尘嚣都已远去，只有这天籁之音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210811790)<br>深米<br>2017-10-30 09:58<br>赞(0) 踩(0) | <div>他们都爱妳的羽毛,可为何没有人听到妳沉重心跳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155520830)<br><br>2017-10-30 09:58<br>赞(2) 踩(0) | <div>歌声余音绕梁，三日不绝，细细听来，一种深沉却飘然出世的感觉会理科占据认得心头，仿佛一切尘嚣都已远去，只有这天籁之音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54723836)<br>三观不合的请双向取关。<br>2017-10-30 09:58<br>赞(1) 踩(0) | <div>他们都爱妳的羽毛赞美妳迎着风舞蹈可为何没有人听到妳沉重心跳</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54942343)<br><br>2017-10-30 09:58<br>赞(0) 踩(0) | <div>他们都爱妳的羽毛赞美妳迎着风舞蹈可为何没有人听到妳沉重心跳</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54723836)<br>三观不合的请双向取关。<br>2017-10-30 09:58<br>赞(1) 踩(0) | <div>他们都爱妳的羽毛<br>赞美妳迎着风舞蹈<br>可为何没有人听到<br>妳沉重心跳</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54942343)<br><br>2017-10-30 09:58<br>赞(0) 踩(0) | <div>他们都爱妳的羽毛<br>赞美妳迎着风舞蹈<br>可为何没有人听到<br>妳沉重心跳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15894227)<br><br>2017-10-30 09:58<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 他们都爱妳的羽毛，赞美妳迎着风舞蹈，可为何没有人听到，妳沉重心跳</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54723836)<br>三观不合的请双向取关。<br>2017-10-30 09:58<br>赞(2) 踩(0) | <div>他们都爱妳的羽毛赞美妳迎着风舞蹈可为何没有人听到妳沉重心跳</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54723836)<br>三观不合的请双向取关。<br>2017-10-30 09:58<br>赞(2) 踩(0) | <div>他们都爱妳的羽毛<br>赞美妳迎着风舞蹈<br>可为何没有人听到<br>妳沉重心跳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54664486)<br><br>2017-10-30 09:58<br>赞(0) 踩(0) | <div>初听平淡，细细品味就爱上这首歌了 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124128548)<br><br>2017-10-30 09:57<br>赞(0) 踩(0) | <div>他们都爱你的羽毛，赞美你迎着风舞蹈，可为何没有人听到你沉重心跳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227089860)<br> <br>2017-10-30 09:56<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深##蒙面幺蛾子## 歌声余音绕梁，三日不绝，细细听来，一种深沉却飘然出世的感觉会理科占据认得心头，仿佛一切尘嚣都已远去，只有这天籁之音</div> |
@@ -965,14 +965,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216919545)<br><br>2016-11-30 20:20<br>赞(0) 踩(0) | <div>周深的声音是童声，就如孩子的皮肤，毫无杂质，干净舒服，低音部分有种酥酥的摩擦，高音部分却是金属明亮而不刺耳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216919545)<br><br>2016-11-30 20:20<br>赞(0) 踩(0) | <div>声音太有感染力了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216928631)<br><br>2016-11-30 20:07<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216928631)<br><br>2016-11-30 20:06<br>赞(0) 踩(0) | <div>可为何没有人听到妳沉重心跳</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216928631)<br><br>2016-11-30 20:06<br>赞(0) 踩(0) | <div>他们都爱妳的羽毛赞美妳迎着风舞蹈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216951792)<br><br>2016-11-30 20:01<br>赞(0) 踩(0) | <div>妳若无其事地忏悔一直到天黑</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216951792)<br><br>2016-11-30 20:01<br>赞(0) 踩(0) | <div>在乌云的背后低飞在晴天的港口沉睡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216951792)<br><br>2016-11-30 20:01<br>赞(0) 踩(0) | <div>可漂泊如水藻再不敢祈祷</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217183757)<br><br>2016-11-30 19:57<br>赞(0) 踩(0) | <div>迷失的水鸟原来多骄傲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217183757)<br><br>2016-11-30 19:57<br>赞(0) 踩(0) | <div>男人们叫妳造物的奇迹</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217183757)<br><br>2016-11-30 19:56<br>赞(0) 踩(0) | <div>妳寻寻觅觅妳穿越岛屿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216928631)<br><br>2016-11-30 20:06<br>赞(0) 踩(0) | <div>可为何没有人听到<br>妳沉重心跳</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216928631)<br><br>2016-11-30 20:06<br>赞(0) 踩(0) | <div>他们都爱妳的羽毛<br>赞美妳迎着风舞蹈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216951792)<br><br>2016-11-30 20:01<br>赞(0) 踩(0) | <div>妳若无其事地忏悔<br>一直到天黑</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216951792)<br><br>2016-11-30 20:01<br>赞(0) 踩(0) | <div>在乌云的背后低飞<br>在晴天的港口沉睡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216951792)<br><br>2016-11-30 20:01<br>赞(0) 踩(0) | <div>可漂泊如水藻<br>再不敢祈祷</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217183757)<br><br>2016-11-30 19:57<br>赞(0) 踩(0) | <div>迷失的水鸟<br>原来多骄傲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217183757)<br><br>2016-11-30 19:57<br>赞(0) 踩(0) | <div>男人们叫妳<br>造物的奇迹</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217183757)<br><br>2016-11-30 19:56<br>赞(0) 踩(0) | <div>妳寻寻觅觅<br>妳穿越岛屿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248980371)<br><br>2016-11-30 16:42<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 《妳》就是不一样的你，加油周深！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248078137)<br><br>2016-11-30 16:33<br>赞(0) 踩(0) | <div>每天都在听周深的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248067913)<br><br>2016-11-30 16:29<br>赞(0) 踩(0) | <div>喜欢周深的声音感动到哭</div> |
@@ -1076,14 +1076,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216951792)<br><br>2016-11-29 19:53<br>赞(0) 踩(0) | <div>有种悲歌柔情之意，竟无法割舍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216951792)<br><br>2016-11-29 19:53<br>赞(0) 踩(0) | <div>歌喉展现的意境真是美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216928631)<br><br>2016-11-29 19:50<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216928631)<br><br>2016-11-29 19:50<br>赞(0) 踩(0) | <div>可为何没有人听到妳沉重心跳</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216928631)<br><br>2016-11-29 19:50<br>赞(0) 踩(0) | <div>他们都爱妳的羽毛赞美妳迎着风舞蹈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216919545)<br><br>2016-11-29 19:47<br>赞(0) 踩(0) | <div>妳若无其事地忏悔一直到天黑</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216919545)<br><br>2016-11-29 19:46<br>赞(0) 踩(0) | <div>在乌云的背后低飞在晴天的港口沉睡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216919545)<br><br>2016-11-29 19:46<br>赞(0) 踩(0) | <div>可漂泊如水藻再不敢祈祷</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54614774)<br><br>2016-11-29 19:42<br>赞(0) 踩(0) | <div>迷失的水鸟原来多骄傲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54614774)<br><br>2016-11-29 19:42<br>赞(0) 踩(0) | <div>男人们叫妳造物的奇迹</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54614774)<br><br>2016-11-29 19:42<br>赞(0) 踩(0) | <div>妳寻寻觅觅妳穿越岛屿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216928631)<br><br>2016-11-29 19:50<br>赞(0) 踩(0) | <div>可为何没有人听到<br>妳沉重心跳</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216928631)<br><br>2016-11-29 19:50<br>赞(0) 踩(0) | <div>他们都爱妳的羽毛<br>赞美妳迎着风舞蹈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216919545)<br><br>2016-11-29 19:47<br>赞(0) 踩(0) | <div>妳若无其事地忏悔<br>一直到天黑</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216919545)<br><br>2016-11-29 19:46<br>赞(0) 踩(0) | <div>在乌云的背后低飞<br>在晴天的港口沉睡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216919545)<br><br>2016-11-29 19:46<br>赞(0) 踩(0) | <div>可漂泊如水藻<br>再不敢祈祷</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54614774)<br><br>2016-11-29 19:42<br>赞(0) 踩(0) | <div>迷失的水鸟<br>原来多骄傲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54614774)<br><br>2016-11-29 19:42<br>赞(0) 踩(0) | <div>男人们叫妳<br>造物的奇迹</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54614774)<br><br>2016-11-29 19:42<br>赞(0) 踩(0) | <div>妳寻寻觅觅<br>妳穿越岛屿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238124865)<br><br>2016-11-29 16:17<br>赞(0) 踩(0) | <div>可为何没有人听到 你沉重心跳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238124865)<br><br>2016-11-29 16:17<br>赞(0) 踩(0) | <div>赞美妳迎着风舞蹈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238124865)<br><br>2016-11-29 16:17<br>赞(0) 踩(0) | <div>他们都爱妳的羽毛</div> |
@@ -1877,10 +1877,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219108692)<br><br>2016-11-09 23:05<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深出品，必是精品，专业制作，大咖词曲，很文艺很艺术，特色分明魅力十足</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219108692)<br><br>2016-11-09 23:03<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深音色干净纯美，他的每一首作品都非常用心，特色鲜明独具魅力，周深的演绎细腻深情，总是能够触动心灵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210970169)<br><br>2016-11-09 22:21<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子#  好好听，画面感很美的歌，音乐响起，柔和的灯光，华丽的场景，温柔的微笑，光鲜的美女，画面也是太美</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210970169)<br><br>2016-11-09 22:19<br>赞(0) 踩(0) | <div>。#妳不是幺蛾子你是周深# #蒙面幺蛾子# 追梦之路不易，你一直在努力，一直在进步，愿上苍善待你，周深加油！10</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210970169)<br><br>2016-11-09 22:19<br>赞(0) 踩(0) | <div>。#妳不是幺蛾子你是周深# #蒙面幺蛾子# 追梦之路不易，你一直在努力，9</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210970169)<br><br>2016-11-09 22:19<br>赞(0) 踩(0) | <div>。#妳不是幺蛾子你是周深# #蒙面幺蛾子# 追梦之路不易，你一直在努力，一直在进步8</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210970169)<br><br>2016-11-09 22:17<br>赞(0) 踩(0) | <div>。#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深新歌，大咖作品、唯美精致，周深，深情演绎美丽背后的美丽付出。温柔体贴抚慰心灵。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210970169)<br><br>2016-11-09 22:19<br>赞(0) 踩(0) | <div>。<br><br><br>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 追梦之路不易，你一直在努力，一直在进步，愿上苍善待你，周深加油！10</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210970169)<br><br>2016-11-09 22:19<br>赞(0) 踩(0) | <div>。<br><br><br>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 追梦之路不易，你一直在努力，9</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210970169)<br><br>2016-11-09 22:19<br>赞(0) 踩(0) | <div>。<br><br><br>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 追梦之路不易，你一直在努力，一直在进步8</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210970169)<br><br>2016-11-09 22:17<br>赞(0) 踩(0) | <div>。<br><br><br>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深新歌，大咖作品、唯美精致，周深，深情演绎美丽背后的美丽付出。温柔体贴抚慰心灵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212749520)<br>发现生活 发现美<br>2016-11-09 21:59<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深一个天生的歌者，天赋➕努力的天才唱将，天道酬勤，加油周深！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212749520)<br>发现生活 发现美<br>2016-11-09 21:51<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深的歌很耐听，细腻温柔温柔，让人温暖回味，10可以唱到你的心里去，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212749520)<br>发现生活 发现美<br>2016-11-09 21:51<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深的歌很耐听，越听越有好听，细腻温柔温柔，让人温暖回味，深深就是有这种神奇的力量，让歌曲有画面感8</div> |
@@ -1950,8 +1950,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84708306)<br><br>2016-11-08 02:45<br>赞(0) 踩(0) | <div>美丽的火烈鸟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54621761)<br>开微博只是为了支持周深这...<br>2016-11-08 00:14<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 《妳》就是不一样的你，加油周深！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111752808)<br><br>2016-11-08 00:04<br>赞(0) 踩(0) | <div>高晓松的文艺范周深完美演绎</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212749520)<br>发现生活 发现美<br>2016-11-07 23:23<br>赞(0) 踩(0) | <div>！#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深一个天生的歌者，17</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212749520)<br>发现生活 发现美<br>2016-11-07 23:22<br>赞(0) 踩(0) | <div>！#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深一个天生的歌者，天赋➕努力的天才唱将，天道酬勤，加油周深！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212749520)<br>发现生活 发现美<br>2016-11-07 23:23<br>赞(0) 踩(0) | <div>！<br><br><br>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深一个天生的歌者，17</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212749520)<br>发现生活 发现美<br>2016-11-07 23:22<br>赞(0) 踩(0) | <div>！<br><br><br>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深一个天生的歌者，天赋➕努力的天才唱将，天道酬勤，加油周深！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41804322)<br>爱音乐爱周深<br>2016-11-07 23:17<br>赞(0) 踩(0) | <div>深深天籁小王子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212749520)<br>发现生活 发现美<br>2016-11-07 23:15<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深出品，必是精品，专业制作，大咖词曲，很文艺很艺术，特色分明魅力十足。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43883905)<br><br>2016-11-07 22:46<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深音色干净纯美，他的每一首作品都非常用心，特色鲜明独具魅力，周深的演绎细腻深情，总是能够触动心灵10</div> |
@@ -1968,7 +1968,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43883905)<br><br>2016-11-07 21:47<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 好纯美的歌，，如一杯醇美的香槟，4</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43883905)<br><br>2016-11-07 21:47<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 好纯美的歌，3</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43883905)<br><br>2016-11-07 21:47<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 好纯美的歌，，如一杯醇美的香槟，色彩美丽，醇香醉人。周深的专辑新歌，作曲高晓松，作词尹约。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210970169)<br><br>2016-11-07 21:45<br>赞(0) 踩(0) | <div>，#妳不是幺蛾子你是周深# #蒙面幺蛾子#  好好听，画面感很美的歌，音乐响起，柔和的灯光，华丽的场景，温柔的微笑，光鲜的美女，画面也是太美</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210970169)<br><br>2016-11-07 21:45<br>赞(0) 踩(0) | <div>，<br><br>#妳不是幺蛾子你是周深# #蒙面幺蛾子#  好好听，画面感很美的歌，音乐响起，柔和的灯光，华丽的场景，温柔的微笑，光鲜的美女，画面也是太美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212749520)<br>发现生活 发现美<br>2016-11-07 21:39<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深的歌很耐听，越听越有好听2</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212749520)<br>发现生活 发现美<br>2016-11-07 21:39<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 周深的歌很耐听，越听越有好听，细腻温柔温柔，让人温暖回味，深深就是有这种神奇的力量，让歌曲有画面感可以唱到你的心里去，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175508820)<br> <br>2016-11-07 21:20<br>赞(0) 踩(0) | <div>赞</div> |
@@ -2024,9 +2024,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227618351)<br>(๑•ั็ω•็ั๑)<br>2016-11-06 13:03<br>赞(0) 踩(0) | <div>如醇酒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227618351)<br>(๑•ั็ω•็ั๑)<br>2016-11-06 13:03<br>赞(0) 踩(0) | <div>循环</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227618351)<br>(๑•ั็ω•็ั๑)<br>2016-11-06 13:03<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210992439)<br><br>2016-11-06 12:55<br>赞(0) 踩(0) | <div>高清耳机大分贝循环。#蒙面幺蛾子# #周深# #蒙面唱将猜猜猜# 一个字形容“美”，10</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210992439)<br><br>2016-11-06 12:55<br>赞(0) 踩(0) | <div>高清耳机大分贝循环。#蒙面幺蛾子# #周深# #蒙面唱将猜猜猜# 好听到都词穷了9</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210992439)<br><br>2016-11-06 12:54<br>赞(0) 踩(0) | <div>高清耳机大分贝循环。#蒙面幺蛾子# #周深# #蒙面唱将猜猜猜# 好听到都词穷了。“美”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210992439)<br><br>2016-11-06 12:55<br>赞(0) 踩(0) | <div>高清耳机大分贝循环。<br><br>#蒙面幺蛾子# #周深# #蒙面唱将猜猜猜# 一个字形容“美”，10</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210992439)<br><br>2016-11-06 12:55<br>赞(0) 踩(0) | <div>高清耳机大分贝循环。<br><br>#蒙面幺蛾子# #周深# #蒙面唱将猜猜猜# 好听到都词穷了9</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210992439)<br><br>2016-11-06 12:54<br>赞(0) 踩(0) | <div>高清耳机大分贝循环。<br><br>#蒙面幺蛾子# #周深# #蒙面唱将猜猜猜# 好听到都词穷了。“美”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226764480)<br>╮(╯▽╰)╭<br>2016-11-06 11:33<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226764480)<br>╮(╯▽╰)╭<br>2016-11-06 11:33<br>赞(0) 踩(0) | <div>[文字up][文字up][文字up]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226764480)<br>╮(╯▽╰)╭<br>2016-11-06 11:32<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
@@ -2039,10 +2039,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119234668)<br><br>2016-11-06 10:55<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175508820)<br> <br>2016-11-06 10:45<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175508820)<br> <br>2016-11-06 10:45<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43883905)<br><br>2016-11-06 10:38<br>赞(0) 踩(0) | <div>，#妳不是幺蛾子你是周深# #蒙面幺蛾子#  好好听，有画面感的歌，音乐响起，柔和的灯光，华丽的场景20</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43883905)<br><br>2016-11-06 10:37<br>赞(0) 踩(0) | <div>，#妳不是幺蛾子你是周深# #蒙面幺蛾子#  好好听，有画面感的歌，音乐响起，19</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43883905)<br><br>2016-11-06 10:37<br>赞(0) 踩(0) | <div>，#妳不是幺蛾子你是周深# #蒙面幺蛾子#  好好听，有画面感的歌，音乐响起，柔和的灯光，华丽的场景，温柔的微笑，光鲜的美女，画面太美</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210992439)<br><br>2016-11-06 09:52<br>赞(0) 踩(0) | <div>高清耳机大分贝循环。#蒙面幺蛾子# #周深# #蒙面唱将猜猜猜# 好听到都词穷了。一个字形容“美”，两个字形容“好听”，三个字形容“猴好听”，四个字形容“好听哭了”，五个字形容“好好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43883905)<br><br>2016-11-06 10:38<br>赞(0) 踩(0) | <div>，<br><br>#妳不是幺蛾子你是周深# #蒙面幺蛾子#  好好听，有画面感的歌，音乐响起，柔和的灯光，华丽的场景20</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43883905)<br><br>2016-11-06 10:37<br>赞(0) 踩(0) | <div>，<br><br>#妳不是幺蛾子你是周深# #蒙面幺蛾子#  好好听，有画面感的歌，音乐响起，19</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43883905)<br><br>2016-11-06 10:37<br>赞(0) 踩(0) | <div>，<br><br>#妳不是幺蛾子你是周深# #蒙面幺蛾子#  好好听，有画面感的歌，音乐响起，柔和的灯光，华丽的场景，温柔的微笑，光鲜的美女，画面太美</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210992439)<br><br>2016-11-06 09:52<br>赞(0) 踩(0) | <div>高清耳机大分贝循环。<br><br>#蒙面幺蛾子# #周深# #蒙面唱将猜猜猜# 好听到都词穷了。一个字形容“美”，两个字形容“好听”，三个字形容“猴好听”<br>，四个字形容“好听哭了”，五个字形容“好好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43883905)<br><br>2016-11-06 08:51<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 新歌越听越有好听，就像醇香的咖啡2</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43883905)<br><br>2016-11-06 08:50<br>赞(0) 踩(0) | <div>#妳不是幺蛾子你是周深# #蒙面幺蛾子# 新歌越听越有好听，1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175508820)<br> <br>2016-11-06 08:11<br>赞(0) 踩(0) | <div>加油加油</div> |

@@ -3,7 +3,7 @@ LaRry Rong
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/db527c2c629f6970ca4a0434cca3de65.png)<br>LaRry Rong](https://i.xiami.com/djlarryr) | **播放数**: 11107997<br>**粉丝数**: 1915<br>**评论数**: 152<br>**地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 深浩室舞曲 Deep House, 热带浩室 Tropical House, 未来浩室 Future House<br> |
+| [![](../../images/musicians/db527c2c629f6970ca4a0434cca3de65.png)<br>LaRry Rong](https://i.xiami.com/djlarryr) | **地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 深浩室舞曲 Deep House, 热带浩室 Tropical House, 未来浩室 Future House<br>**播放数**: 11107997<br>**粉丝数**: 1915<br>**评论数**: 152<br> |
 
 ## 档案
 
@@ -71,8 +71,8 @@ LaRry Rong
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439866413)<br>从今天开始，我要做一个脱...<br>2020-08-25 02:52<br>赞(1) 踩(0) | <div>哈哈我是因为那个电音西游记才来的 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439866413)<br>从今天开始，我要做一个脱...<br>2020-08-25 03:00<br>赞(0) 踩(0) | <div>那歌贼可爱&amp;lt;(￣︶￣)/</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358732837)<br>嗨皮૧(●´৺`●)૭૧...<br>2020-08-08 11:40<br>赞(0) 踩(0) | <div>好听 <img src="../../images/comments/29cf103b88c33e19563095897485c32a.png"></div> |
@@ -81,7 +81,7 @@ LaRry Rong
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43144581)<br><br>2020-04-12 23:48<br>赞(0) 踩(0) | <div>谢谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423947424)<br>Wnt to be ma...<br>2020-01-28 14:38<br>赞(0) 踩(0) | <div>很棒！！dont wanna fall开头我居然听出来future base的感觉，妙</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329008508)<br>你的蠢材<br>2020-03-11 17:00<br>赞(0) 踩(0) | <div>小号在做Future Bass哟</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431310681)<br>做难事必有所得<br>2019-12-29 21:18<br>赞(1) 踩(0) | <div>今天我和她聊天了我怀着忐忑不安的心，等待着&amp;hellip;&amp;hellip;她回复了我了，</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431310681)<br>做难事必有所得<br>2019-12-29 21:18<br>赞(1) 踩(0) | <div>今天我和她聊天了<br>我怀着忐忑不安的心，等待着&amp;hellip;&amp;hellip;<br>她回复了我了，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40548253)<br>愿你找到亲爱的 不负热爱...<br>2019-12-26 18:06<br>赞(0) 踩(0) | <div>好听，哇咔咔～我心情低落就喜欢听电音，谢谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364023571)<br><br>2019-12-01 23:34<br>赞(0) 踩(0) | <div>也太棒了吧！现在入股还来得及吗！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42066129)<br>我爱虾米<br>2019-09-03 19:49<br>赞(0) 踩(0) | <div>我来成都了 你在成都吗 还会看到你的音乐会吗</div> |
@@ -149,7 +149,7 @@ LaRry Rong
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93081992)<br>so what<br>2016-07-04 08:39<br>赞(0) 踩(0) | <div>爱你哦！我要去看演唱会！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43144581)<br><br>2016-07-09 04:37<br>赞(0) 踩(0) | <div>30号晚上有我的演出 现在可以私信我</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58369876)<br>Hiphop Dance...<br>2016-06-30 03:56<br>赞(0) 踩(0) | <div>小狗好可爱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2016-06-19 22:59<br>赞(1) 踩(0) | <div><a href="https://itunes.apple.com/fr/album/larry-ep/id1121420163?l=en" target="_blank" rel="nofollow noreferrer noopener">https://itunes.apple.com/fr/album/larry-ep/id1121420163?l=en</a><a href="http://emumo.xiami.com/u/36057872" target="_blank" rel="nofollow" name_card="36057872">@扎扎~</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2016-06-19 22:59<br>赞(1) 踩(0) | <div><a href="https://itunes.apple.com/fr/album/larry-ep/id1121420163?l=en" target="_blank" rel="nofollow noreferrer noopener">https://itunes.apple.com/fr/album/larry-ep/id1121420163?l=en</a><br><a href="http://emumo.xiami.com/u/36057872" target="_blank" rel="nofollow" name_card="36057872">@扎扎~</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46292977)<br>Music Drug<br>2016-06-19 11:05<br>赞(0) 踩(0) | <div>好喜欢你的tropical house</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49116186)<br>(:3_ヽ)_<br>2016-06-18 22:52<br>赞(0) 踩(0) | <div>.狗狗么  <img src="../../images/comments/58f25f67f72847b1f16f261712b7c135.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125829952)<br>我还没想好要写什么...<br>2016-06-18 15:59<br>赞(0) 踩(0) | <div>哇塞哇塞喜欢喜欢 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
@@ -180,7 +180,7 @@ LaRry Rong
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53532610)<br>wolfgang<br>2016-04-24 00:55<br>赞(0) 踩(0) | <div><img src="../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57384370)<br> <br>2016-04-23 15:31<br>赞(0) 踩(0) | <div>Faded很好。其他的请怪我不懂欣赏。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23174461)<br>Always Liste...<br>2016-04-21 10:49<br>赞(1) 踩(0) | <div>Faded 太好了！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52717662)<br><br>2016-04-20 18:32<br>赞(0) 踩(0) | <div>第一次听电音你的风格有点耳目一新加油</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52717662)<br><br>2016-04-20 18:32<br>赞(0) 踩(0) | <div>第一次听电音<br>你的风格有点耳目一新<br>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9192026)<br><br>2016-04-17 21:49<br>赞(0) 踩(0) | <div>感觉歌都是一个套路</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53040874)<br> <br>2016-04-16 20:08<br>赞(1) 踩(0) | <div>兄弟，你是中国电音的希望啊 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47269554)<br>一个不会挖掘机的厨师不是...<br>2016-04-08 02:12<br>赞(0) 踩(0) | <div>必须顶起</div> |

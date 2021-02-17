@@ -47,9 +47,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318579277)<br>阴有小雨<br>2018-11-22 15:03<br>赞(1) 踩(0) | <div>摊开的纸牌手里的硬币字字句句里的气息充满未知而神秘…</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318579277)<br>阴有小雨<br>2018-11-22 15:03<br>赞(1) 踩(0) | <div>摊开的纸牌<br>手里的硬币<br>字字句句里的气息<br>充满未知而神秘<br>…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3566813)<br>菩萨，祝您身体健康！34...<br>2018-09-13 00:57<br>赞(0) 踩(0) | <div>老狼的忧伤和孤单感一骑绝尘！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218363426)<br><br>2018-07-13 16:04<br>赞(1) 踩(0) | <div>高晓松的歌只有老狼唱才有那种味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349374739)<br><br>2018-07-01 15:11<br>赞(1) 踩(0) | <div>老狼的声音真干净</div> |
@@ -89,7 +89,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1506235)<br>所以 最后 还好 有音乐<br>2016-01-16 20:33<br>赞(0) 踩(0) | <div>版权版权！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44220950)<br><br>2015-11-23 19:37<br>赞(4) 踩(0) | <div>最适合唱民谣的还是老狼啊，即使过了这么多年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24744993)<br><br>2015-10-08 00:16<br>赞(0) 踩(0) | <div>临近投标，来一首麦克压压惊。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12900747)<br><br>2015-10-05 09:47<br>赞(1) 踩(0) | <div>麦克你曾经远远飘荡的生活像一只塑料袋在飞翔麦克你曾经像一条船长满了离离贝壳显得荒凉麦克你再度回到这座城市可曾遇见旧日姑娘她头上插着野花她身上穿着嫁衣</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12900747)<br><br>2015-10-05 09:47<br>赞(1) 踩(0) | <div>麦克你曾经远远飘荡的生活<br>像一只塑料袋在飞翔<br>麦克你曾经像一条船<br>长满了离离贝壳显得荒凉<br>麦克你再度回到这座城市<br>可曾遇见旧日姑娘<br>她头上插着野花<br>她身上穿着嫁衣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12477262)<br>柳梦梅<br>2015-09-27 23:37<br>赞(1) 踩(0) | <div>他的声音是多么有磁性。那首歌都唱出自己的味道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60612084)<br><br>2015-09-26 07:43<br>赞(2) 踩(0) | <div>只有相似的人才能破译这组密码：伞，路边，钥匙，墙壁，清水，发呆，野花，嫁妆，船，贝壳，荒凉，飘荡。傻子的世界是纯净的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1826895)<br><br>2015-09-25 10:16<br>赞(2) 踩(0) | <div>麦克你曾经远远飘荡的生活像一只塑料袋</div> |
@@ -114,7 +114,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2010966)<br>今天是你曾经忧虑过的明天<br>2015-04-07 01:55<br>赞(0) 踩(0) | <div>曾经年少…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2010966)<br>今天是你曾经忧虑过的明天<br>2015-04-07 01:55<br>赞(0) 踩(0) | <div>…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43693977)<br><br>2015-03-28 23:03<br>赞(0) 踩(0) | <div>好听～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44303221)<br>总有一天你会认识我<br>2015-03-07 00:33<br>赞(0) 踩(0) | <div>这里的曼陀铃一样的，是你弹的吗？@李延亮好带感。那东西是不是挺贵的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44303221)<br>总有一天你会认识我<br>2015-03-07 00:33<br>赞(0) 踩(0) | <div>这里的曼陀铃一样的，是你弹的吗？@李延亮<br>好带感。那东西是不是挺贵的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2010966)<br>今天是你曾经忧虑过的明天<br>2015-02-14 01:04<br>赞(0) 踩(0) | <div>在这个特殊的日子，忽然过去10年的关于那个人的所有过往与挣扎跃然眼前，仿佛梦一般虚幻，再回味这首歌，再问自己还有不甘？还有不舍？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11286938)<br>慢慢回消息留言,不好意思<br>2015-01-27 08:18<br>赞(3) 踩(0) | <div>你再度回到这城市 可曾遇见旧日姑娘  头上插着野花  身上穿着嫁妆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44095475)<br>“揣而锐之，不可常保”<br>2014-12-27 00:26<br>赞(0) 踩(0) | <div>摘一首最普通的，因为曾经：我是麦克，你也是麦克。</div> |
@@ -123,7 +123,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11432046)<br>暂无签名~<br>2014-08-04 15:07<br>赞(3) 踩(0) | <div>高年轻的时候给一个女大学生写的这诗编了曲，那时候的姑娘好神奇的，那时候情怀可以当饭吃酿酒喝，而且还没有作这个字……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2904300)<br>暂无签名~<br>2014-07-24 22:50<br>赞(2) 踩(0) | <div>忽然间想到这首歌，翻出来听听。才知道这首好听的歌曲是@李延亮 编曲吉他的。这张专辑，是在大学时买来深夜带上耳机黑暗中听的。每首都喜欢，包括当时听了旋律就立刻想到许巍后来看了歌词得到印证的《晴朗》。经典的旋律永不过时，依旧动人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28437845)<br><br>2014-07-08 12:03<br>赞(1) 踩(0) | <div>青春  卒(2011--2014)</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32708055)<br><br>2014-05-23 00:11<br>赞(0) 踩(0) | <div>麦克你曾经远远飘荡的生活象一只塑料袋在飞翔麦克你曾经象一条船长满了离离贝壳显得荒凉麦克你再度回到这城市可曾遇见旧日姑娘头上插着野花身上穿着嫁妆你总爱摊开纸牌算那杯清水和女孩总是一遍一遍不厌其烦想她们的未来你总爱攥着一把冻得冰冷的钥匙总是对着厚厚的墙壁转过身发呆</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32708055)<br><br>2014-05-23 00:11<br>赞(0) 踩(0) | <div>麦克你曾经远远飘荡的生活<br>象一只塑料袋在飞翔<br>麦克你曾经象一条船<br>长满了离离贝壳显得荒凉<br>麦克你再度回到这城市<br>可曾遇见旧日姑娘<br>头上插着野花<br>身上穿着嫁妆<br><br>你总爱摊开纸牌<br>算那杯清水和女孩<br>总是一遍一遍<br>不厌其烦想她们的未来<br>你总爱攥着一把<br>冻得冰冷的钥匙<br>总是对着厚厚的墙壁<br>转过身发呆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/846572)<br>生活总会找到出口。<br>2014-05-07 22:26<br>赞(0) 踩(0) | <div>可曾遇见旧日的姑娘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4299299)<br><br>2014-05-01 10:06<br>赞(0) 踩(0) | <div>“你总爱摊开纸牌 算那杯清水和女孩  总是一遍一遍  不厌其烦想她们的未来。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2800143)<br><br>2014-04-25 15:26<br>赞(0) 踩(0) | <div>碉堡</div> |
@@ -135,7 +135,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6649887)<br><br>2014-02-04 23:08<br>赞(0) 踩(0) | <div>yy麦克is my good friend now miss you~yy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15963478)<br>生之尽愉。<br>2014-01-30 17:54<br>赞(0) 踩(0) | <div>歌词太美 麦克你曾经远远飘荡的生活 象一只塑料袋在飞翔 麦克你曾经象一条船 长满了离离贝壳显得荒凉 麦克你再度回到这城市 可曾遇见旧日姑娘 头上插着野花 身上穿着嫁妆。来自高晓松</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2014-01-19 17:42<br>赞(0) 踩(0) | <div>似说话是歌唱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-23 08:11<br>赞(0) 踩(0) | <div>麦克你再度回到这城市可曾遇见旧日姑娘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-23 08:11<br>赞(0) 踩(0) | <div>麦克你再度回到这城市<br>可曾遇见旧日姑娘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-12 06:41<br>赞(26) 踩(0) | <div>贾宏声 列侬之子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5095734)<br><br>2013-10-23 15:27<br>赞(0) 踩(0) | <div>老狼歌里最喜欢的一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2814867)<br><br>2013-10-21 21:21<br>赞(0) 踩(0) | <div>在办公室呆了这么多个晚上终于表现到啦……迈克你再度回到这办公室已经遇见旧日姑娘了，那就赶快放她回去洗澡嘛</div> |
@@ -153,7 +153,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9454654)<br><br>2013-06-23 23:32<br>赞(0) 踩(0) | <div>整5年了，啥时候能回去看看曾经我们的401？@迈克尔飙飙 @cccc_cccc_ccc_cc @方小科</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3008523)<br>I want you f...<br>2013-06-23 22:37<br>赞(0) 踩(0) | <div>麦克 你再度回到这城市 可曾遇见旧日姑娘，她头上插着野花，身上穿着嫁妆。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3402474)<br><br>2013-06-16 21:33<br>赞(0) 踩(0) | <div>再放首我爱的。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16000042)<br><br>2013-06-13 00:35<br>赞(0) 踩(0) | <div>麦克你曾经远远飘荡的生活象一只塑料袋在飞翔麦克你曾经象一条船长满了离离贝壳显得荒凉麦克你再度回到这城市可曾遇见旧日姑娘头上插着野花身上穿着嫁妆</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16000042)<br><br>2013-06-13 00:35<br>赞(0) 踩(0) | <div>麦克你曾经远远飘荡的生活<br>象一只塑料袋在飞翔<br>麦克你曾经象一条船<br>长满了离离贝壳显得荒凉<br>麦克你再度回到这城市<br>可曾遇见旧日姑娘<br>头上插着野花<br>身上穿着嫁妆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16000042)<br><br>2013-06-13 00:28<br>赞(0) 踩(0) | <div>一首「麦克」。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5099665)<br> <br>2013-06-05 13:05<br>赞(0) 踩(0) | <div>她头上插着野花，身上穿着嫁装。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14019539)<br><br>2013-05-23 00:42<br>赞(0) 踩(0) | <div>年龄在变，听的音乐也在变</div> |
@@ -215,7 +215,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2349580)<br><br>2011-05-25 19:23<br>赞(0) 踩(0) | <div>喜欢老狼沧桑的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3253298)<br>我要瘦我要瘦~<br>2011-05-15 18:07<br>赞(0) 踩(0) | <div>喜歡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1824784)<br><br>2011-04-04 17:24<br>赞(0) 踩(0) | <div>曾经的校园民谣，曾经的老狼，曾经的我和你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2538942)<br> <br>2011-03-17 16:42<br>赞(0) 踩(0) | <div>麦克你再度回到这城市可曾遇见旧日姑娘头上插着野花身上穿着嫁妆</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2538942)<br> <br>2011-03-17 16:42<br>赞(0) 踩(0) | <div>麦克你再度回到这城市<br>可曾遇见旧日姑娘<br>头上插着野花<br>身上穿着嫁妆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164849)<br><br>2011-03-13 16:41<br>赞(0) 踩(0) | <div>你曾经远远飘荡的生活像一只塑料袋在飞翔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3036384)<br><br>2011-03-01 22:38<br>赞(0) 踩(0) | <div>唱的我自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1844570)<br><br>2011-01-29 15:34<br>赞(0) 踩(0) | <div>麦克的万分之几</div> |
@@ -232,7 +232,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21)<br>暂无签名~<br>2010-06-17 22:02<br>赞(0) 踩(0) | <div>爱死老狼的声音了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/483043)<br>音乐一直在路上<br>2010-06-13 13:08<br>赞(0) 踩(0) | <div>经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259775)<br><br>2009-10-25 21:28<br>赞(0) 踩(0) | <div>听麦克，想起了默然，那个陌生人。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2009-10-16 22:37<br>赞(0) 踩(0) | <div>麦克你曾经远远飘荡的生活象一只塑料袋在飞翔麦克你曾经象一条船长满了离离贝壳显得荒凉那些心情。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2009-10-16 22:37<br>赞(0) 踩(0) | <div>麦克你曾经远远飘荡的生活<br>象一只塑料袋在飞翔<br>麦克你曾经象一条船<br>长满了离离贝壳显得荒凉<br><br>那些心情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-09-28 21:18<br>赞(0) 踩(0) | <div>喜欢李延亮的编曲。。。喜欢高晓松的作品，真羡慕他们的生活，总有很多故事，饱经沧桑了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376400)<br> <br>2009-09-13 18:21<br>赞(0) 踩(0) | <div>觉得麦克是好多人的剪影</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1844)<br>农夫 山泉 有点田<br>2009-06-23 22:50<br>赞(0) 踩(0) | <div>他总爱穿上那件印着列农的衬衫总是一天一天不厌其烦举起他的伞曾经的少年，名叫麦克</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1844)<br>农夫 山泉 有点田<br>2009-06-23 22:50<br>赞(0) 踩(0) | <div>他总爱穿上那件<br>印着列农的衬衫<br>总是一天一天<br>不厌其烦举起他的伞<br>曾经的少年，名叫麦克</div> |

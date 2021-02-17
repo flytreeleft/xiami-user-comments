@@ -33,8 +33,8 @@ Beyond the rainbow Why, oh why, can't I?
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/370892)<br>心如宝月映琉璃<br>2019-06-24 13:49<br>赞(1) 踩(0) | <div>so good</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40362646)<br><br>2019-01-29 13:50<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427387)<br> <br>2018-10-07 22:04<br>赞(0) 踩(0) | <div>在小学买过的所有盗版磁带里面，就这盘和正版曲目没出入。请求漩涡把我带回小学秋天睡前一下下</div> |
@@ -79,15 +79,15 @@ Beyond the rainbow Why, oh why, can't I?
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8862673)<br><br>2012-11-16 00:05<br>赞(0) 踩(0) | <div>希望亲爱的们一切顺利安好~爱你们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1456891)<br> <br>2012-03-25 22:21<br>赞(27) 踩(0) | <div>张韶涵是华语女歌手中少有的我喜欢的清爽声音~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/62670)<br><br>2012-03-13 23:34<br>赞(1) 踩(0) | <div>烦的时候听一首Over the rainbow</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7306587)<br><br>2012-02-18 20:44<br>赞(0) 踩(0) | <div>♪～Somewhere over the rainbow Way up highThere's a land that I heard of once in a lullaby</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7306587)<br><br>2012-02-18 20:44<br>赞(0) 踩(0) | <div>♪～Somewhere over the rainbow Way up high<br>There's a land that I heard of once in a lullaby</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7855907)<br><br>2012-02-01 10:09<br>赞(0) 踩(0) | <div>经典老歌新唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/817176)<br><br>2011-11-26 10:40<br>赞(0) 踩(0) | <div>那天听那个黑人唱现场，这首歌，哇塞，唱的超好听！那是我第一次希望我自己能是个黑人！哈哈~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6088237)<br>ｗｗｗｗｗｗｗ<br>2011-10-16 15:47<br>赞(0) 踩(0) | <div>Somewhere over the rainbow Way up highThere's a land that I heard of once in a lullaby</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6088237)<br>ｗｗｗｗｗｗｗ<br>2011-10-16 15:47<br>赞(0) 踩(0) | <div>Somewhere over the rainbow Way up high<br>There's a land that I heard of once in a lullaby</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/507577)<br><br>2011-10-10 20:07<br>赞(0) 踩(0) | <div>怀旧一下</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4377050)<br><br>2011-08-29 09:21<br>赞(0) 踩(0) | <div>她的声音   明显单一些   不厚重  倒也是有自己的风格的像我这种口味重的  还是喜欢厚重的   唔哈哈哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4377050)<br><br>2011-08-29 09:21<br>赞(0) 踩(0) | <div>她的声音   明显单一些   不厚重  倒也是有自己的风格的<br><br><br>像我这种口味重的  还是喜欢厚重的   唔哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4703074)<br><br>2011-08-07 14:41<br>赞(0) 踩(0) | <div>加班中，忽然想起好久没听的这首歌，分享……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5050367)<br><br>2011-07-28 23:06<br>赞(1) 踩(0) | <div>现实不完美，但我仍去追。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2772247)<br>d(˙_˙)b<br>2011-07-15 19:54<br>赞(0) 踩(0) | <div>最早出现在1939《绿野仙踪》中之后被翻唱过N多个版本因为这个版本的前奏选了这个</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2772247)<br>d(˙_˙)b<br>2011-07-15 19:54<br>赞(0) 踩(0) | <div>最早出现在1939《绿野仙踪》中<br>之后被翻唱过N多个版本<br>因为这个版本的前奏选了这个</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3884310)<br><br>2011-05-11 14:05<br>赞(0) 踩(0) | <div>原来很喜欢她的歌。。。但现在。哎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2220960)<br><br>2011-04-17 00:34<br>赞(0) 踩(0) | <div>神曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3184632)<br><br>2011-03-22 23:00<br>赞(0) 踩(0) | <div>虽然是首老歌，听来听去，还是张韶涵唱得有点感觉。。。</div> |
@@ -98,7 +98,7 @@ Beyond the rainbow Why, oh why, can't I?
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/979409)<br>竟然用虾米这么这么久了<br>2010-08-18 20:09<br>赞(0) 踩(0) | <div>绝好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312523)<br><br>2010-07-06 14:23<br>赞(0) 踩(0) | <div>英文经典曲目了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/939999)<br><br>2010-05-29 17:11<br>赞(1) 踩(0) | <div>不做作。精灵！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/167770)<br> <br>2009-11-20 16:28<br>赞(0) 踩(0) | <div>7月12日，参与《有没有一首广告歌让你想买它的产品2》(求助)制作人：hans||来，抱团取暖强生广告曲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/167770)<br> <br>2009-11-20 16:28<br>赞(0) 踩(0) | <div>7月12日，参与《有没有一首广告歌让你想买它的产品2》(求助)<br>制作人：hans||来，抱团取暖<br><br>强生广告曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1018)<br>口哨魔法師<br>2009-08-14 08:44<br>赞(0) 踩(0) | <div>绿野仙踪  说起来也不算山寨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299113)<br><br>2009-07-29 21:27<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/167770)<br> <br>2009-07-12 19:59<br>赞(0) 踩(0) | <div>强生广告曲</div> |

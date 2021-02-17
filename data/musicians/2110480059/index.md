@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/cf97c77b3780d76f391431eb46220b84.jpg)<br>冯晨](https://i.xiami.com/fengchen) | **播放数**: 1977627<br>**粉丝数**: 505<br>**评论数**: 11<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 流行摇滚 Pop Rock, 节奏布鲁斯 R&B<br> |
+| [![](../../images/musicians/cf97c77b3780d76f391431eb46220b84.jpg)<br>冯晨](https://i.xiami.com/fengchen) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 流行摇滚 Pop Rock, 节奏布鲁斯 R&B<br>**播放数**: 1977627<br>**粉丝数**: 505<br>**评论数**: 11<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,8 +18,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374954834)<br>语言有时很苍白，会令真相...<br>2021-02-01 09:52<br>赞(0) 踩(0) | <div>舍不得，大家再见了 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360231130)<br>那又如何<br>2020-07-14 23:36<br>赞(0) 踩(0) | <div>听完心有余悸的想认识你~感谢音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374954834)<br>语言有时很苍白，会令真相...<br>2020-11-08 00:42<br>赞(0) 踩(0) | <div>感谢音乐，让我们有隔空的共鸣 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |

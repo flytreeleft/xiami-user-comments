@@ -48,9 +48,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37480866)<br>别让我飞 将我温柔豢养<br>2018-08-19 01:01<br>赞(0) 踩(0) | <div>Hi XX，「一直让我觉得烦恼一直在我周围萦绕暂时脱离不了热闹你在那里过的可好我在这里安静依旧平常心有一点骄傲暂时脱离不了热闹让风代替我的拥抱」</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37480866)<br>别让我飞 将我温柔豢养<br>2018-08-19 01:01<br>赞(0) 踩(0) | <div>Hi XX，<br><br>「一直让我觉得烦恼<br>一直在我周围萦绕<br>暂时脱离不了热闹<br>你在那里过的可好<br><br>我在这里安静依旧<br>平常心有一点骄傲<br>暂时脱离不了热闹<br>让风代替我的拥抱」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300003956)<br><br>2018-04-30 22:16<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48934415)<br>翩翩<br>2018-01-18 23:40<br>赞(2) 踩(0) | <div>我在虾米写评论，你在网易闭眼听&amp;hellip;&amp;hellip;所有错过都是你我的选择，就像最初我们相信彼此的直觉可我还是选择了避让&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117506466)<br> <br>2017-10-30 22:06<br>赞(4) 踩(0) | <div>虽从未认真在一起 分开五年 你过得好么 我想你还是像以前那样那样云淡风轻地微笑 不甘心就这样燃烧 可我们还是就这样了</div> |
@@ -94,7 +94,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/902421)<br> <br>2015-03-11 23:17<br>赞(45) 踩(0) | <div>我写了很多信给你，蓝色墨水写在精心挑选的信纸上。不知从什么时候开始，等你的回信变成了一种习惯。后来我不再给你写信了，因为暗恋一个人太累。十年已过，我写满了整整六本给你的信，可是啊，再也寄不到你那里。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8344757)<br>你是我 温暖的手套 冰冷...<br>2015-06-01 23:41<br>赞(0) 踩(0) | <div>人生能有几个十年，虽不再见，ta已深深融入你的生命，把这份记忆锁进箱底继续前行吧，偶尔听到一些歌时，触动了锁头，翻出来看一看，或者不看</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282154775)<br><br>2017-10-27 18:41<br>赞(0) 踩(0) | <div>在以后的之后再想起，自己曾那样疯狂的爱过一个人，到那时说不定会因此微笑呢？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44990034)<br>以心传心，鸣者自鸣<br>2015-02-28 11:11<br>赞(0) 踩(0) | <div>2009 《哼一首歌 等日落》不甘心就这样燃烧/梦实现了还要去找/天空海阔飘飘渺渺/那是你最无邪的笑</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44990034)<br>以心传心，鸣者自鸣<br>2015-02-28 11:11<br>赞(0) 踩(0) | <div>2009 《哼一首歌 等日落》<br>不甘心就这样燃烧/梦实现了还要去找/天空海阔飘飘渺渺/那是你最无邪的笑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44242542)<br>暂无签名~<br>2015-01-26 23:09<br>赞(0) 踩(0) | <div>每每梦见你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15451669)<br> <br>2014-12-14 08:33<br>赞(0) 踩(0) | <div>早 加速加速</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43358920)<br>别来无恙<br>2014-11-27 11:05<br>赞(0) 踩(0) | <div>南</div> |
@@ -107,8 +107,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29401573)<br><br>2014-05-03 18:51<br>赞(0) 踩(0) | <div>一直在我周围萦绕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32081841)<br><br>2014-04-13 11:31<br>赞(0) 踩(0) | <div>时隔三四年后晨跑时再次听到这首歌，听到她的声音，感觉还是没变呢.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6774632)<br><br>2014-04-10 14:28<br>赞(0) 踩(0) | <div>从不觉得世界渺小，可没选择的脆弱变老。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1987834)<br> <br>2014-02-09 00:32<br>赞(0) 踩(0) | <div>天空海阔飘飘渺渺那是你最无邪的笑说起来一切都是从信开始的哦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1987834)<br> <br>2014-02-08 22:39<br>赞(0) 踩(0) | <div>天空海阔飘飘渺渺那是你最无邪的笑说起来一切都是从信开始的哦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1987834)<br> <br>2014-02-09 00:32<br>赞(0) 踩(0) | <div>天空海阔飘飘渺渺<br>那是你最无邪的笑<br><br>说起来一切都是从信开始的哦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1987834)<br> <br>2014-02-08 22:39<br>赞(0) 踩(0) | <div>天空海阔飘飘渺渺<br>那是你最无邪的笑<br><br>说起来一切都是从信开始的哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6790931)<br><br>2013-12-08 22:52<br>赞(0) 踩(0) | <div>@爱吃草莓的珊迪 又要和欢乐的周末说88了 活力和元气已补充就位~让周一综合症见鬼去吧[哈哈]FIGHT FIGHT！君君晚安好梦[拜拜]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/636592)<br><br>2013-10-26 03:11<br>赞(0) 踩(0) | <div>订票订的精疲力竭 我需要冷静一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4160302)<br> <br>2013-09-21 09:50<br>赞(0) 踩(0) | <div>假期的最后一天，下雨了，悠然地来度过吧。</div> |
@@ -118,10 +118,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18225068)<br><br>2013-07-30 13:27<br>赞(0) 踩(0) | <div>曹方轻轻的吟唱，一个故事，一段心情。喜欢~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15987450)<br>随时准备离开<br>2013-06-12 12:31<br>赞(0) 踩(0) | <div>“我在这里安静依旧/平常心有一点骄傲/暂时脱离不了热闹/让风代替我的拥抱。 为什么会觉得烦恼/身边爱我的人很好/从不觉得世界渺小/可没选择的脆弱变老。 不甘心就这样燃烧/梦实现了还要去找/天空海阔飘飘渺渺/那是你最无邪的笑。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15813317)<br><br>2013-06-08 13:48<br>赞(0) 踩(0) | <div>一直让我觉得烦恼;一直在我周围萦绕;暂时脱离不了热闹;你在那里过的可好。我在这里安静依旧;平常心有一点骄傲;暂时脱离不了热闹;让风代替我的拥抱。为什么会觉得烦恼;身边爱我的人很好;从不觉得世界渺小;可没选择的脆弱变老。不甘心就这样燃烧;梦实现了还要去找;天空海阔飘飘渺渺;那是你最无邪的笑。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7231854)<br>我还没想好要写什么...<br>2013-06-02 12:40<br>赞(0) 踩(0) | <div>为什么会觉得烦恼？身边爱我的人很好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7231854)<br>我还没想好要写什么...<br>2013-06-02 12:40<br>赞(0) 踩(0) | <div>为什么会觉得烦恼？<br>身边爱我的人很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11139444)<br><br>2013-04-21 23:09<br>赞(0) 踩(0) | <div>哼一首歌等日落，我在这里安静依旧。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7457475)<br>和你一样爱音乐葎岛电台<br>2013-04-09 08:54<br>赞(0) 踩(0) | <div>以前站在门口看太阳东升西落，后来窝在沙发听蚊虫盘旋飞过，现在握在手里直到手心发热，等候在时间里渐渐缩短，可焦虑却依旧原来摸样。一首曹方《信》送给大家。和邮递相比短信的等候一样煎熬一样难捱。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12939700)<br><br>2013-02-07 21:54<br>赞(0) 踩(0) | <div>再简单不过的调调。。。平淡。。。她的歌像天空。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7457475)<br>和你一样爱音乐葎岛电台<br>2013-04-09 08:54<br>赞(0) 踩(0) | <div>以前站在门口看太阳东升西落，后来窝在沙发听蚊虫盘旋飞过，现在握在手里直到手心发热，等候在时间里渐渐缩短，可焦虑却依旧原来摸样。<br>一首曹方《信》送给大家。和邮递相比短信的等候一样煎熬一样难捱。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12939700)<br><br>2013-02-07 21:54<br>赞(0) 踩(0) | <div>再简单不过的调调。。。平淡。。。<br>她的歌像天空。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3806913)<br><br>2013-01-20 10:07<br>赞(0) 踩(0) | <div>一张碟，开启店铺小二模式</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6623430)<br><br>2012-12-10 14:15<br>赞(0) 踩(0) | <div>为什么会觉得烦恼 身边爱我的人很好 不觉得世界渺小 可没选择的脆弱变老</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10497533)<br>我还没想好要写什么...<br>2012-11-24 14:04<br>赞(0) 踩(0) | <div>静静的听，曹方</div> |
@@ -173,13 +173,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3253298)<br>我要瘦我要瘦~<br>2011-04-02 13:44<br>赞(0) 踩(0) | <div>我不信</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1052461)<br>@blinK4sy-<br>2011-03-25 22:23<br>赞(0) 踩(0) | <div>今晚，是曹方时间:O</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2918429)<br><br>2011-03-15 11:48<br>赞(0) 踩(0) | <div>轻轻诉说着心事</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1331707)<br>不会放弃我的梦想！<br>2011-03-12 13:02<br>赞(0) 踩(0) | <div>特別喜歡曹芳清澈的聲音·信   ··很安靜 很透明·</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1331707)<br>不会放弃我的梦想！<br>2011-03-12 13:02<br>赞(0) 踩(0) | <div>特別喜歡曹芳清澈的聲音·<br>信   ··很安靜 很透明·</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3098648)<br><br>2011-03-06 15:25<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1665678)<br>我若青帝。<br>2011-03-02 18:19<br>赞(0) 踩(0) | <div>心里话。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2907574)<br>只想就这样，沉浸在宁静的...<br>2011-03-01 23:33<br>赞(0) 踩(0) | <div>喜欢这句“平常心有一点骄傲”安静却骄傲的心。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2907574)<br>只想就这样，沉浸在宁静的...<br>2011-03-01 23:33<br>赞(0) 踩(0) | <div>喜欢这句“平常心有一点骄傲”<br>安静却骄傲的心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2415788)<br><br>2011-02-24 10:23<br>赞(0) 踩(0) | <div>好久没听过的歌，好久没写过的信，好久没诉说过的情怀，以为是遗忘，其实一切依旧，安静依旧~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1567828)<br><br>2011-02-22 12:49<br>赞(0) 踩(0) | <div>記得那年我很傻，總是把想對你說的話寫成小故事，寫成煽情的文字。寫到自己的日記裡。然後慢慢的思考，直到我們都開始有了不同的生活軌跡。我還是我，可是你卻不是你了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/489575)<br> <br>2011-02-07 09:33<br>赞(0) 踩(0) | <div>好久没有你的信，也好久没有写信给你。那些急于告诉你的心情，早已被我忘记。只是在难过的时候，那些急切又回潮。我多想写信给你，可是我连地址，也忘记了。——by Icy</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/489575)<br> <br>2011-02-07 09:33<br>赞(0) 踩(0) | <div>好久没有你的信，也好久没有写信给你。那些急于告诉你的心情，早已被我忘记。只是在难过的时候，那些急切又回潮。我多想写信给你，可是我连地址，也忘记了。<br>——by Icy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2634004)<br><br>2011-01-31 13:02<br>赞(0) 踩(0) | <div>不说别的连我听着真的有种平静的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2367152)<br>水族百科全书<br>2011-01-08 12:36<br>赞(0) 踩(0) | <div>平平淡淡的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1139089)<br>In music I b...<br>2010-12-10 23:05<br>赞(0) 踩(0) | <div>太久太久，没有写一封信。想念邮票和信纸的味道。</div> |
@@ -188,7 +188,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1440206)<br><br>2010-09-04 01:42<br>赞(0) 踩(0) | <div>淡淡地浅吟低唱  舒服的大提琴 似乎在诉说着夏天结束的味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1155859)<br><br>2010-07-13 09:13<br>赞(0) 踩(0) | <div>安静的舒适 仿佛听到血液静静流淌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125884)<br>我还没想好要写什么...<br>2010-07-03 10:42<br>赞(0) 踩(0) | <div>一个人也很甜蜜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/386792)<br><br>2010-05-16 15:07<br>赞(0) 踩(0) | <div>清丽，脱俗，摆在面前的既不是牛奶也不是咖啡，却是一杯清冽的水。越来越喜爱曹方了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/386792)<br><br>2010-05-16 15:07<br>赞(0) 踩(0) | <div>清丽，脱俗，摆在面前的既不是牛奶也不是咖啡，却是一杯清冽的水。<br><br>越来越喜爱曹方了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/830671)<br><br>2010-05-15 09:39<br>赞(0) 踩(0) | <div>声音清纯，音乐轻松。不错。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/535040)<br><br>2010-04-09 22:37<br>赞(0) 踩(0) | <div>亲爱的你，不在身边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/535040)<br><br>2010-04-09 22:36<br>赞(0) 踩(0) | <div>'舒缓'</div> |
@@ -206,7 +206,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/541398)<br><br>2009-11-28 16:08<br>赞(0) 踩(0) | <div>好好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/541398)<br><br>2009-11-28 16:08<br>赞(0) 踩(0) | <div>好好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/533780)<br><br>2009-11-25 19:25<br>赞(0) 踩(0) | <div>很清新的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73)<br>平靜是我的嚮往<br>2009-11-22 11:37<br>赞(0) 踩(0) | <div>11-20 [上架] 南方的信<a href="http://www.julydream.com/article.asp?id=494" target="_blank" rel="nofollow noreferrer noopener">http://www.julydream.com/article.asp?id=494</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73)<br>平靜是我的嚮往<br>2009-11-22 11:37<br>赞(0) 踩(0) | <div>11-20 [上架] 南方的信<br><a href="http://www.julydream.com/article.asp?id=494" target="_blank" rel="nofollow noreferrer noopener">http://www.julydream.com/article.asp?id=494</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/507232)<br><br>2009-11-15 16:33<br>赞(0) 踩(0) | <div>舒服的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121582)<br><br>2009-11-15 10:41<br>赞(0) 踩(0) | <div>大提琴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/507999)<br>Nowhere<br>2009-11-14 21:26<br>赞(0) 踩(0) | <div>歌词不错 差一个impressive的旋律</div> |

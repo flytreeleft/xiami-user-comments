@@ -12,26 +12,23 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317882889)<br>灵魂深处的声音<br>2020-11-04 02:05<br>赞(0) 踩(0) | <div>感恩您的召唤来自心灵深处的呼唤</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317882889)<br>灵魂深处的声音<br>2020-11-04 02:05<br>赞(0) 踩(0) | <div>感恩您的召唤<br>来自心灵深处的呼唤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316703519)<br>独当千古错，冷漠自逍遥<br>2020-07-13 02:22<br>赞(0) 踩(0) | <div>我表示没啥感觉？ <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"> <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"> <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2020-07-03 11:58<br>赞(2) 踩(0) | <div>身 正 则 气 正气 正 则 心 平形 不 正 则 气 不 顺气 不 顺 则 意 不 宁意 不 宁 则 气 必 散2020   07   03</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2020-07-03 11:58<br>赞(2) 踩(0) | <div>身 正 则 气 正<br>气 正 则 心 平<br>形 不 正 则 气 不 顺<br>气 不 顺 则 意 不 宁<br>意 不 宁 则 气 必 散<br><br>2020   07   03</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214871534)<br><br>2020-05-26 22:10<br>赞(1) 踩(0) | <div>人到底是要入世还是出世呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282212440)<br><br>2020-04-25 21:46<br>赞(1) 踩(0) | <div>幽怨的女生述说她的情思&amp;hellip;&amp;hellip;男生只是引导&amp;ldquo;念力&amp;rdquo;化解。一丝光透过来，悠远的笛声如诉如泣，放下，放下&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23165850)<br>悠悠我心，日月当空曌。<br>2020-04-11 14:40<br>赞(1) 踩(0) | <div>天堂地狱，一念之间</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260164177)<br>靈魂樂音<br>2019-11-30 19:02<br>赞(3) 踩(0) | <div>关闭所有灯光没有一丝光线坐于黑暗中心，深深地并完全地陷入黑暗。让它开始占据你的思想，占据你的肉体，占据你的心意，占据你的内与外，直至它完全粉碎你的一切，让黑暗之神祝福你拥抱你，融化你，敞开来使它成就你你亦成为它…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357539423)<br><br>2019-09-20 16:24<br>赞(5) 踩(0) | <div>尘世的修行，我一直在路上。不知道，离彼岸的花远了，还是近了。迷茫与困惑，如烟雾。欲望与放下，犹如对垒的两个阵营。现实与彼岸之间，隔着的不只是距离。还有坚守与执念。转身，也许就是一世。再回首，已是来生。彼岸花，是我们种在梦中的疼痛吗么？那摇曳的身影，是一种昭示么？昭唤我们藏于肉身的灵魂皈依。放下，但不放空。放下，即可达彼岸。彼岸花，是来自心灵净土的梵音。我们的灵魂，可以在那里吟唱。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260164177)<br>靈魂樂音<br>2019-11-30 19:02<br>赞(3) 踩(0) | <div>关闭所有灯光<br>没有一丝光线<br>坐于黑暗中心，<br>深深地<br>并完全地陷入黑暗。<br>让它开始占据你的思想，<br>占据你的肉体，<br>占据你的心意，<br>占据你的内与外，<br>直至它完全<br>粉碎你的一切，<br>让黑暗之神祝福你<br>拥抱你，<br>融化你，<br>敞开来<br>使它成就你<br>你亦<br>成为它…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357539423)<br><br>2019-09-20 16:24<br>赞(5) 踩(0) | <div>尘世的修行，我一直在路上。<br>不知道，离彼岸的花远了，还是近了。<br><br>迷茫与困惑，如烟雾。<br>欲望与放下，<br>犹如对垒的两个阵营。<br><br>现实与彼岸之间，隔着的不只是距离。<br>还有坚守与执念。<br><br>转身，也许就是一世。<br>再回首，已是来生。<br><br>彼岸花，是我们种在梦中的疼痛吗么？<br>那摇曳的身影，是一种昭示么？<br>昭唤我们藏于肉身的灵魂皈依。<br><br>放下，但不放空。<br>放下，即可达彼岸。<br><br>彼岸花，是来自心灵净土的梵音。<br>我们的灵魂，可以在那里吟唱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375168097)<br>我本虚幻全在你心 愛虾米...<br>2019-09-13 06:17<br>赞(5) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424415845)<br><br>2019-08-26 23:09<br>赞(2) 踩(0) | <div>想写又不想写一向不做评论，几年前有缘聆听到作品害怕特别夜晚不能挂耳机听。随着几年的深入及忏悔业障修持，如今心灵慰藉，咒一出声无比圣神与力量，一道光 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351935178)<br>一切法皆是佛法<br>2019-07-27 22:40<br>赞(5) 踩(0) | <div>难得一首咒乐这么多评论 可是看到内容 哈哈哈哈哈大家别怕，这位仁波切是好意</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277296895)<br><br>2019-05-18 15:16<br>赞(2) 踩(0) | <div>这第99条评论99归一无须召唤水满自流一切都是自然的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277296895)<br><br>2019-05-18 15:16<br>赞(2) 踩(0) | <div>这第99条评论<br>99归一<br>无须召唤<br>水满自流<br>一切都是自然的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90726728)<br><br>2019-04-05 06:20<br>赞(1) 踩(0) | <div>一切唯心造 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353543494)<br>我还没想好要写什么...<br>2019-01-21 07:13<br>赞(1) 踩(0) | <div>感恩妙音 南无本师释迦摩尼佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365790559)<br><br>2019-01-13 14:53<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
@@ -44,11 +41,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282533534)<br><br>2018-08-25 18:58<br>赞(8) 踩(0) | <div>说下我的感受，我没有感觉恐惧，只有迷茫，但我感觉身处山谷，一览无余的景色，很宽阔与开朗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324907059)<br><br>2018-08-04 14:51<br>赞(1) 踩(0) | <div>阿弥陀佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276533396)<br><br>2018-07-24 13:04<br>赞(2) 踩(0) | <div>心无杂念一切安！让人沉下浮躁，荡静心灵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11583872)<br>一期一会<br>2018-07-08 00:14<br>赞(3) 踩(0) | <div>心魔作祟，静心为要！远离颠倒，明心见性！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369652896)<br><br>2018-06-30 14:13<br>赞(23) 踩(0) | <div>远方迷离的女声，与低沉磁性的持咒声，是否将引我去到彼岸？我将身心放宽，浩瀚宇宙即时围绕。幽扬笛声领我来到的，是过去、现在、还是未来？那一字一字诵出的，是召唤、是醒悟、还是梦语？远方传来的咒音，净化了我的身我的心。只有甘露，才会如此甜醇。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11583872)<br>一期一会<br>2018-07-08 00:14<br>赞(3) 踩(0) | <div>心魔作祟，静心为要！<br>远离颠倒，明心见性！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369652896)<br><br>2018-06-30 14:13<br>赞(23) 踩(0) | <div>远方迷离的女声，与低沉磁性的持咒声，是否将引我去到彼岸？<br>我将身心放宽，浩瀚宇宙即时围绕。<br>幽扬笛声领我来到的，是过去、现在、还是未来？<br>那一字一字诵出的，是召唤、是醒悟、还是梦语？<br>远方传来的咒音，净化了我的身我的心。<br>只有甘露，才会如此甜醇。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1689358)<br>夜色愈暗，眼见愈深<br>2020-11-16 20:19<br>赞(0) 踩(0) | <div>南无阿弥陀佛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27193280)<br><br>2018-06-08 21:50<br>赞(12) 踩(0) | <div>听了这个说是咒的音乐，我严重的头疼居然不疼了，是治愈系的音乐么？我只感受到了治愈&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782708)<br>万物皆自然，道法皆自然<br>2018-06-01 22:17<br>赞(12) 踩(0) | <div>意念，语言，信仰，宗教，万物，在这里纠缠了。音乐，因意念纠缠，产生了。不懂宗教，不懂信仰，不懂语言，不懂万物，不影响你听音乐。咒语使人感悟，有了意念，继而产生了音乐。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782708)<br>万物皆自然，道法皆自然<br>2018-06-01 22:17<br>赞(12) 踩(0) | <div>意念，语言，信仰，宗教，万物，在这里纠缠了。<br>音乐，因意念纠缠，产生了。<br>不懂宗教，不懂信仰，不懂语言，不懂万物，不影响你听音乐。<br>咒语使人感悟，有了意念，继而产生了音乐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314229942)<br>决定拒绝一切伤害<br>2018-05-16 13:56<br>赞(3) 踩(0) | <div>我该怎么回去？？佛祖求求你了，我已经知错了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273333113)<br><br>2018-04-20 22:57<br>赞(4) 踩(0) | <div>非常的爱！连带爱上徐清源！遇见祂时，正值人生困顿之际，一心的乱麻，正是这声召唤，把神唤回，也正是那道飘渺坚定的洞箫，明心，叮咛入耳之声，见性。内心安静下来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288015723)<br><br>2018-04-15 14:59<br>赞(26) 踩(0) | <div>吓尿是因业障太重了 听到佛的呼唤 如贼听到警笛一样 赶紧认罪忏悔吧</div> |

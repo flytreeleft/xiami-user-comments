@@ -44,8 +44,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291987504)<br>听音乐<br>2020-04-17 01:15<br>赞(0) 踩(0) | <div>翻唱需谨慎。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4938894)<br><br>2019-08-31 23:13<br>赞(1) 踩(0) | <div>为了林一峰，下载虾米只为听他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423650046)<br><br>2019-08-06 17:28<br>赞(0) 踩(0) | <div>这版有这版的味道，认可林一峰的实力</div> |
@@ -58,7 +58,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255373139)<br>湿趴 kolor Mr....<br>2018-08-28 15:12<br>赞(0) 踩(0) | <div>陈百强</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2492768)<br><br>2018-06-03 03:49<br>赞(18) 踩(0) | <div>底下有些评论麻烦自重。都不知道是不是Danny的粉就这么黑一峰的翻唱。我那么喜欢Danny的原版，但我也理解并尊重一峰这版的编曲。原版已无可超越，每一版翻唱都希望以自己的理解和方式延续并拓展歌曲的生命。至少对我来说听一峰的版本终于让我不再心伤落泪，换一种角度理解，不再想到Danny版本对人生无奈嗟叹的极致。另外我非常感激一峰能做这张致敬Danny歌曲的专辑，如同爱郧书，深切的爱和理解才会促使这些翻唱的诞生。轻浮浅薄的评论者如何能懂？！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361515517)<br><br>2018-04-30 05:11<br>赞(0) 踩(0) | <div>为了一峰，下载了虾米</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220992376)<br><br>2018-04-11 22:10<br>赞(3) 踩(0) | <div>你们认为原唱得好就原唱得好，去听原唱一峰也并不介意一峰做这张唱片以自己的方式诠释，只是希望大家不要忘记经典而不是为了超越前辈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220992376)<br><br>2018-04-11 22:10<br>赞(3) 踩(0) | <div>你们认为原唱得好就原唱得好，去听原唱一峰也并不介意<br>一峰做这张唱片以自己的方式诠释，只是希望大家不要忘记经典<br>而不是为了超越前辈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351835198)<br>万物都有定时<br>2018-04-09 18:08<br>赞(4) 踩(0) | <div>一峰的一生何求~清新明朗陽光味 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18297354)<br>6<br>2018-04-09 00:14<br>赞(0) 踩(0) | <div>因为这张专辑我在虾米做了会员</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268333357)<br> Déception <br>2018-04-11 00:22<br>赞(0) 踩(0) | <div>会员也没用啊 要买</div> |
@@ -67,7 +67,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5748260)<br><br>2018-02-21 00:07<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7918966)<br>我还没想好要写什么...<br>2018-01-30 00:35<br>赞(3) 踩(0) | <div>听哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70318938)<br>听见不同<br>2017-12-31 19:25<br>赞(2) 踩(0) | <div>分享  林一峰 的歌曲《一生何求》<a href="https://www.xiami.com/song/1796844169?_uxid=EC8E960AB6D3DA98B8DB32854C5B4C67" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/1796844169?_uxid=EC8E960AB6D3DA98B8DB32854C5B4C67</a> (分享自@虾米音乐)</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34816080)<br><br>2017-12-29 22:03<br>赞(2) 踩(0) | <div>&amp;ldquo;在这落满灰尘的时代，讲一个干净的故事。&amp;rdquo;每次听刘若英的歌，眼眶都会热，就像看到暖暖的青春，有暖暖的光，照亮前方的路，要好好抱着自己，走到最好的幸福。再哭泣时，希望是因为快乐的事发生了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34816080)<br><br>2017-12-29 22:03<br>赞(2) 踩(0) | <div>&amp;ldquo;在这落满灰尘的时代，<br>讲一个干净的故事。&amp;rdquo;<br>每次听刘若英的歌，眼眶都会热，就像看到暖暖的青春，有暖暖的光，照亮前方的路，要好好抱着自己，走到最好的幸福。<br>再哭泣时，希望是因为快乐的事发生了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339862746)<br><br>2017-12-19 14:39<br>赞(1) 踩(0) | <div>我还是喜欢听原唱多一点 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31783207)<br> <br>2017-12-12 21:34<br>赞(0) 踩(0) | <div>歌很经典，但还是陈百强唱得最经典！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5748260)<br><br>2017-12-10 22:43<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
@@ -84,7 +84,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231670358)<br><br>2017-11-27 02:19<br>赞(0) 踩(0) | <div>好好听 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19976756)<br><br>2017-11-26 17:26<br>赞(0) 踩(0) | <div>挺好听的呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18472544)<br><br>2017-11-24 01:52<br>赞(0) 踩(0) | <div>很好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332197711)<br> <br>2017-11-23 05:16<br>赞(17) 踩(0) | <div>记得林语堂讲过这样一段话：孤独这两个字拆开来看，有孩童，有瓜果，有小犬，有蚊蝇，足以撑起一个盛夏傍晚间的巷子口，人情味十足。稚儿擎瓜柳棚下，细犬逐蝶窄巷中，人间繁华多笑语，惟我空余两鬓风。孩童水果猫狗飞蝇当然热闹，可都和你无关，这就叫孤独。或者像朱自清说的：&amp;ldquo;热闹是他们的，我什么都没有。&amp;rdquo; ​​​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332197711)<br> <br>2017-11-23 05:16<br>赞(17) 踩(0) | <div>记得林语堂讲过这样一段话：孤独这两个字拆开来看，有孩童，有瓜果，有小犬，有蚊蝇，足以撑起一个盛夏傍晚间的巷子口，人情味十足。稚儿擎瓜柳棚下，细犬逐蝶窄巷中，人间繁华多笑语，惟我空余两鬓风。孩童水果猫狗飞蝇当然热闹，可都和你无关，这就叫孤独。<br>或者像朱自清说的：&amp;ldquo;热闹是他们的，我什么都没有。&amp;rdquo; ​​​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298670734)<br><br>2017-11-22 22:54<br>赞(0) 踩(0) | <div>很经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331592552)<br><br>2017-11-22 18:40<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280752788)<br><br>2017-11-21 15:07<br>赞(0) 踩(0) | <div>似不似每个人都有自己的故事？而我就是个不明白的看客？（没人跟我一样做任务评论的吗？比陈百强唱的差些）</div> |
@@ -93,7 +93,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28123415)<br><br>2017-11-20 22:08<br>赞(3) 踩(0) | <div>初次听他歌，林一峰 我要记着呢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6820570)<br>这是语言的变调，承接醒来...<br>2017-11-20 11:46<br>赞(2) 踩(0) | <div>如果有陌生人告诉你他心底的伤，倾听，拥抱，然后忘掉。秋后又有新春，一生何求呢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250410425)<br><br>2017-11-20 11:16<br>赞(0) 踩(0) | <div>一峰的声音很温暖且治愈，无论什么时候听见都会觉得这个世界真美好。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7023)<br>长期缓慢持续收藏林一峰演...<br>2017-11-20 08:05<br>赞(4) 踩(0) | <div>【Repost 2017-11-20 FB Page】「冷暖那可憂，回頭多少個秋...」在大家心中積累了20多年的感情，永遠不能主觀地超越，卻可以翻新，而且絕對應該在每一方面都客觀地做得更好，這才是傳承。在《一生何求》裡，我把舊有90年代的樂器換成最原聲的樂器，在段落上作出改動，把歌曲的重點由原本前奏/間奏/未段的笛子旋律，改變成副歌「一生何求」四個字，跟節奏一起層層遞進，不再像原版一樣從頭到尾的平穩。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7023)<br>长期缓慢持续收藏林一峰演...<br>2017-11-20 08:05<br>赞(4) 踩(0) | <div>【Repost 2017-11-20 FB Page】「冷暖那可憂，回頭多少個秋...」<br><br>在大家心中積累了20多年的感情，永遠不能主觀地超越，卻可以翻新，而且絕對應該在每一方面都客觀地做得更好，這才是傳承。<br><br>在《一生何求》裡，我把舊有90年代的樂器換成最原聲的樂器，在段落上作出改動，把歌曲的重點由原本前奏/間奏/未段的笛子旋律，改變成副歌「一生何求」四個字，跟節奏一起層層遞進，不再像原版一樣從頭到尾的平穩。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334644563)<br><br>2017-11-19 20:24<br>赞(0) 踩(0) | <div>很好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333508973)<br>见天地   见众生   ...<br>2017-11-19 18:36<br>赞(1) 踩(0) | <div>无法替代的陈百强原唱，粤语歌曲里陈百强也属于一个时代的传奇了。如果不是英年早逝，现在也是粤语先驱。还是听老歌吧，这个太娘炮啦</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244920701)<br><br>2017-11-20 00:32<br>赞(0) 踩(0) | <div>每个人的音色不一样，对歌曲的理解不一样。说一个人的声音娘炮，实在是不尊重歌。</div> |
@@ -174,7 +174,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48757777)<br>問天<br>2017-11-02 06:55<br>赞(0) 踩(0) | <div>好歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304346097)<br>毒之伤<br>2017-11-02 05:29<br>赞(1) 踩(0) | <div>还是陈百强唱的动听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287599326)<br><br>2017-11-02 04:49<br>赞(0) 踩(0) | <div>非常经典的一首歌，很喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332767743)<br><br>2017-11-02 02:42<br>赞(0) 踩(0) | <div>经典好听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332767743)<br><br>2017-11-02 02:42<br>赞(0) 踩(0) | <div>经典<br>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330960230)<br><br>2017-11-01 22:48<br>赞(0) 踩(0) | <div>小時候就愛這首歌，現在再聽，另一番滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330829617)<br><br>2017-11-01 21:56<br>赞(0) 踩(0) | <div>经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323785152)<br><br>2017-11-01 21:31<br>赞(0) 踩(0) | <div>经典就是经典，百听不厌！</div> |
@@ -279,7 +279,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41331887)<br>古典音乐集<br>2017-10-27 15:37<br>赞(0) 踩(0) | <div>经典不可复制</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299672990)<br>快乐我定义！<br>2017-10-27 13:10<br>赞(1) 踩(0) | <div>火候还是不够，没有感情在里面！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313914278)<br>音乐能夠让人精神放松、心...<br>2017-10-27 12:02<br>赞(1) 踩(0) | <div>沒有了陈百强歌声，感覺就是不一样了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283555903)<br>这家伙很聪明什么也没留下...<br>2017-10-27 11:47<br>赞(0) 踩(0) | <div>一生何求迷惘里永远看不透没料到所失的竞己是我的所有</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283555903)<br>这家伙很聪明什么也没留下...<br>2017-10-27 11:47<br>赞(0) 踩(0) | <div>一生何求<br>迷惘里永远看不透<br>没料到所失的<br>竞己是我的所有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9627690)<br>我还没想好要写什么...<br>2017-10-27 11:37<br>赞(1) 踩(0) | <div>看演唱会的时候，间奏用的是口琴，琴声一起，衬得歌声也苍凉了起来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296140759)<br>我还没想好要写什么...<br>2017-10-27 10:52<br>赞(0) 踩(0) | <div>还不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292991233)<br><br>2017-10-27 10:47<br>赞(0) 踩(0) | <div>经典不必多讲</div> |
@@ -445,7 +445,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325204399)<br>我还没想好要写什么...<br>2017-10-26 10:57<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281941993)<br><br>2017-10-26 10:51<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322432657)<br>zy<br>2017-10-26 10:44<br>赞(0) 踩(0) | <div>人不同，感觉也不同。不够暖</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293948)<br>浮华似青苔，历史是地衣。<br>2017-10-26 10:41<br>赞(1) 踩(0) | <div>要吃米，找万里要吃粮，找紫阳</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293948)<br>浮华似青苔，历史是地衣。<br>2017-10-26 10:41<br>赞(1) 踩(0) | <div>要吃米，找万里<br>要吃粮，找紫阳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284538858)<br><br>2017-10-26 10:37<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295624702)<br>爱上一个不会嫁的人<br>2017-10-26 10:25<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283848674)<br>祝你余生多喜乐，愿我余生...<br>2017-10-26 10:22<br>赞(0) 踩(0) | <div>听着歌，总能想起一些故事。挺有感触</div> |

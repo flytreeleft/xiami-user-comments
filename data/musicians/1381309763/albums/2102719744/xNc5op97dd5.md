@@ -34,5 +34,3 @@ You stand so tall when the cold wind blows
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

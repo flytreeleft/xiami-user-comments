@@ -3,7 +3,7 @@ SARRA
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1392726f64cd98528d9dc23fa378f2d0.jpg)<br>SARRA](https://i.xiami.com/sarahl) | **播放数**: 12676007<br>**粉丝数**: 11161<br>**评论数**: 437<br>**地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 当代唱作人 Contemporary Singer-Songwriter, 爵士流行 Jazz Pop, 流行灵魂乐 Pop Soul<br> |
+| [![](../../images/musicians/1392726f64cd98528d9dc23fa378f2d0.jpg)<br>SARRA](https://i.xiami.com/sarahl) | **地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 当代唱作人 Contemporary Singer-Songwriter, 爵士流行 Jazz Pop, 流行灵魂乐 Pop Soul<br>**播放数**: 12676007<br>**粉丝数**: 11161<br>**评论数**: 437<br> |
 
 ## 档案
 
@@ -32,8 +32,8 @@ SARRA
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2162811)<br>下次虾米上传周杰伦专辑的...<br>2021-01-17 14:43<br>赞(0) 踩(0) | <div>原来早就收藏你的歌了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225761167)<br>from dawn to...<br>2021-01-14 15:57<br>赞(0) 踩(0) | <div>sarah啊看在我给你贡献好几条热评上传gravity到spotify吧！！！！爱你！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225761167)<br>from dawn to...<br>2021-01-14 15:55<br>赞(0) 踩(0) | <div>sarra 可以 求求你 在这里关闭之前 把gravity传上spotify吗 海外党真的⚽️⚽️了 太爱你了</div> |
@@ -97,7 +97,7 @@ SARRA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35313455)<br><br>2018-12-23 14:18<br>赞(3) 踩(0) | <div>重庆欢迎你呀，小姐姐，真的好喜欢你的歌，你的声音 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324911588)<br>我还没想好要说什么<br>2018-12-22 00:39<br>赞(2) 踩(0) | <div>宝藏女孩！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89029652)<br>我还没想好要写什么...<br>2018-12-21 00:50<br>赞(2) 踩(0) | <div><img src="../../images/comments/bd3f990f15147859d024e4e142a53f13.png">今天只唱了三四首就不唱了。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376799038)<br>我只想那啥和那啥<br>2018-12-19 13:19<br>赞(2) 踩(0) | <div>呜呜呜  12/20 12/21我们还没放假 不能去上海看你了  并且是要期末了 要复习备考了 挂科我就惨了希望 能有机会去参加你的party</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376799038)<br>我只想那啥和那啥<br>2018-12-19 13:19<br>赞(2) 踩(0) | <div>呜呜呜  12/20 12/21我们还没放假 不能去上海看你了  并且是要期末了 要复习备考了 挂科我就惨了<br>希望 能有机会去参加你的party</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342648056)<br><br>2018-12-06 00:43<br>赞(1) 踩(0) | <div>小姐姐我是你的头号粉丝</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2018-11-30 19:52<br>赞(2) 踩(0) | <div>日常来逛 泥濠哇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139106968)<br>重金属，摇滚，爵士<br>2018-11-21 07:21<br>赞(1) 踩(0) | <div>我去 我这个 找以前的歌找到两首他的 happy 和ghost 完美契合我喜欢</div> |
@@ -108,7 +108,7 @@ SARRA
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5782884)<br>hi there :)<br>2018-10-24 15:09<br>赞(0) 踩(0) | <div>你觉得是什么就是什么啊 你开心就好啊真的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23744327)<br> <br>2018-10-15 08:30<br>赞(2) 踩(0) | <div>听个歌 开始忙碌的一周</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3907012)<br><br>2018-09-25 15:16<br>赞(1) 踩(0) | <div>我听个电台连着推3首？？？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239593427)<br><br>2018-09-21 18:42<br>赞(1) 踩(0) | <div>来成都开演唱会吗 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png">今年去12月考完研正好有空了 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239593427)<br><br>2018-09-21 18:42<br>赞(1) 踩(0) | <div>来成都开演唱会吗 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"><br>今年去12月考完研正好有空了 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330969253)<br> <br>2018-09-14 15:23<br>赞(1) 踩(0) | <div>好听，嘿嘿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403294574)<br><br>2018-09-12 03:57<br>赞(1) 踩(0) | <div>英文歌唱的很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45652562)<br>see you<br>2018-09-09 11:01<br>赞(1) 踩(0) | <div>.</div> |
@@ -136,7 +136,7 @@ SARRA
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36601252)<br><br>2018-08-30 12:35<br>赞(0) 踩(0) | <div>酸什么？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53737210)<br>哼哼哼<br>2018-08-30 13:04<br>赞(0) 踩(0) | <div><q><b>锦衣不夜行y说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30650251)<br>音乐与香烟一样都是虚假的...<br>2018-08-29 17:29<br>赞(1) 踩(0) | <div>加油哦，很喜欢你的作品</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/161349510)<br><br>2018-08-29 17:17<br>赞(0) 踩(0) | <div>Sarah小姐姐真的治愈了我很喜欢小姐姐的音乐希望继续加油啊 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/161349510)<br><br>2018-08-29 17:17<br>赞(0) 踩(0) | <div>Sarah小姐姐真的治愈了我<br>很喜欢小姐姐的音乐<br>希望继续加油啊 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4401414)<br><br>2018-08-29 10:36<br>赞(1) 踩(0) | <div>厉害了，小妹妹！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197871163)<br><br>2018-08-29 05:21<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278670250)<br>SLATTT<br>2018-08-29 05:02<br>赞(0) 踩(0) | <div>声音太好听</div> |
@@ -154,7 +154,7 @@ SARRA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25274644)<br><br>2018-06-10 02:28<br>赞(0) 踩(0) | <div>加油(ง &amp;bull;̀_&amp;bull;́)ง，一直都支持你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339379988)<br><br>2018-06-08 10:41<br>赞(2) 踩(0) | <div>声音有懒懒的时候，但总是有倔强在，属于你的倔强，还有你倾注的情感，在曲里，在歌词里，第一次听觉得怪怪的曲调，到一遍一遍就越来越爱。不属于听几遍就上口的歌有很多自己的味道，很喜欢你的歌 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43610229)<br>狡猾<br>2018-06-05 21:02<br>赞(0) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/454726)<br>嗯？<br>2018-06-03 21:11<br>赞(1) 踩(0) | <div>请问 哪位小伙伴有 loving you EP 单曲的那张封面图片啊？跪求！谢谢了。。。封面是桃心的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/454726)<br>嗯？<br>2018-06-03 21:11<br>赞(1) 踩(0) | <div>请问 哪位小伙伴有 loving you EP 单曲的那张封面图片啊？<br>跪求！谢谢了。。。<br>封面是桃心的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57185056)<br>From 0872cit...<br>2018-05-31 15:49<br>赞(0) 踩(0) | <div>偶然点进来的但是这声音瞬间把我圈粉 无话可说瞬间爱上.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5782884)<br>hi there :)<br>2018-05-31 16:28<br>赞(0) 踩(0) | <div>靴靴里:D</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57185056)<br>From 0872cit...<br>2018-05-31 17:16<br>赞(0) 踩(0) | <div><q><b>SARRA说：</b></q></div> |
@@ -163,7 +163,7 @@ SARRA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239243896)<br>别发私信了，我要学习！争...<br>2018-05-28 21:16<br>赞(0) 踩(0) | <div>你的歌声超好听！愿越来越火！凡是我喜欢的人都火了！ <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/372743115)<br><br>2018-05-26 22:46<br>赞(1) 踩(0) | <div>觉得你的歌太空洞了，没什么实际的打动人的东西</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40377533)<br><br>2018-05-26 15:54<br>赞(2) 踩(0) | <div>pick 一下小姐姐，TEDxZJU参观团</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289926275)<br>STILL I RISE<br>2018-05-21 23:30<br>赞(1) 踩(0) | <div>为什么说自己不上镜呀？！我觉得你超上镜的Sarah!你的Jazz和你的外在一样优雅格调要自信噢[带墨镜笑]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289926275)<br>STILL I RISE<br>2018-05-21 23:30<br>赞(1) 踩(0) | <div>为什么说自己不上镜呀？！<br>我觉得你超上镜的Sarah!<br>你的Jazz和你的外在一样优雅格调<br>要自信噢[带墨镜笑]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261304562)<br>永远会有那么个角落能容下...<br>2018-05-20 21:59<br>赞(2) 踩(0) | <div>人美歌甜，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/185815729)<br>我愛過一個人。<br>2018-05-19 15:20<br>赞(1) 踩(0) | <div>我真的好喜欢Sarah 国内少数喜欢的独立音乐人之一 她的歌真的是太好听了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21451994)<br>食飯色情性生活也是可以捨...<br>2018-05-16 23:06<br>赞(4) 踩(0) | <div>your voice bring the shine and warm.your smile cure all the gloomy mind.you just like an angel show up from the sky</div> |
@@ -178,8 +178,8 @@ SARRA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56599422)<br>我就是我，是不一样的烟火...<br>2018-05-10 10:22<br>赞(1) 踩(0) | <div>喜欢在虾米玩的傻傻女大学生 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38802367)<br> <br>2018-05-10 09:45<br>赞(1) 踩(0) | <div>生日快乐，sarah小姐姐～</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5782884)<br>hi there :)<br>2018-05-10 11:21<br>赞(0) 踩(0) | <div>嗷谢谢( ˙̆3˙̆ ）</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306065331)<br>幸福开始有人选<br>2018-05-09 23:29<br>赞(1) 踩(0) | <div>6052nd collection, my luck .第6052收藏，我的幸运。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306065331)<br>幸福开始有人选<br>2018-05-09 23:24<br>赞(1) 踩(0) | <div>Like you, is not the same you. You are beautiful and non - square.喜欢你，是不一样的你。你是美丽不可方物的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306065331)<br>幸福开始有人选<br>2018-05-09 23:29<br>赞(1) 踩(0) | <div>6052nd collection, my luck .<br>第6052收藏，我的幸运。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306065331)<br>幸福开始有人选<br>2018-05-09 23:24<br>赞(1) 踩(0) | <div>Like you, is not the same you. You are beautiful and non - square.<br>喜欢你，是不一样的你。你是美丽不可方物的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183422280)<br><br>2018-05-09 22:36<br>赞(1) 踩(0) | <div>很好听～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337931700)<br>我们一起生来，我们一起活...<br>2018-05-09 22:07<br>赞(1) 踩(0) | <div>优秀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337961881)<br> <br>2018-05-09 21:11<br>赞(1) 踩(0) | <div>第6017收藏的</div> |
@@ -214,7 +214,7 @@ SARRA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361179876)<br><br>2018-04-28 00:11<br>赞(1) 踩(0) | <div>很好听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8635478)<br>换个地方思考<br>2018-04-27 09:16<br>赞(0) 踩(0) | <div>试听了两首，不是我的菜(指歌)，太淡了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8635478)<br>换个地方思考<br>2018-04-27 09:12<br>赞(1) 踩(0) | <div>被封面引进来的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250617389)<br><br>2018-04-26 23:49<br>赞(4) 踩(0) | <div>很喜欢你小姐姐。在上海上大学的外地生在努力走出大二的低估期。我是在外表看来没有任何问题的人呢，老师喜欢人缘也还可以。但内心非常敏感非常分裂，总是容易生气失落伤心迷茫。一点点小事就会想终结此生。好分裂，好生痛苦。我该怎么办呢。哈哈。 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250617389)<br><br>2018-04-26 23:49<br>赞(4) 踩(0) | <div>很喜欢你小姐姐。<br>在上海上大学的外地生在努力走出大二的低估期。<br>我是在外表看来没有任何问题的人呢，老师喜欢人缘也还可以。但内心非常敏感非常分裂，总是容易生气失落伤心迷茫。一点点小事就会想终结此生。好分裂，好生痛苦。我该怎么办呢。哈哈。 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347174611)<br>拜拜虾米 See u o...<br>2018-04-27 08:58<br>赞(0) 踩(0) | <div>try Radiohead :)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276253903)<br><br>2018-04-26 23:17<br>赞(4) 踩(0) | <div>Sarah这种嗓音相对于很多大牌来说可以叫做未经打磨吧，保有原有的感觉，也许正是现在的我们所需要的，很清新，很多时候没有那种震撼的感觉，但很舒心。 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274945317)<br>侧耳倾听<br>2018-04-26 21:46<br>赞(1) 踩(0) | <div>这样的妹纸很让人欣赏</div> |
@@ -226,7 +226,7 @@ SARRA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353403194)<br><br>2018-04-25 11:34<br>赞(2) 踩(0) | <div>我觉得你不只会唱歌，连写歌也都非常不错。唱腔听起来很好听！很舒服。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228843687)<br>懒惰统治人间<br>2018-04-25 08:28<br>赞(1) 踩(0) | <div>:-O</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71989728)<br>再见啦<br>2018-04-25 08:12<br>赞(3) 踩(0) | <div>这天使的声音吧太好听了，什么时候出实体CD啊想买</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95595410)<br>来自韩国的，很爱中国文化...<br>2018-04-25 07:58<br>赞(3) 踩(0) | <div>你唱歌的歌声超级好听。 说英语发音也不错。如果我去上海的话，有没有会看看你的Live concert机会的?</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95595410)<br>来自韩国的，很爱中国文化...<br>2018-04-25 07:58<br>赞(3) 踩(0) | <div>你唱歌的歌声超级好听。 说英语发音也不错。<br>如果我去上海的话，有没有会看看你的Live concert机会的?</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194840592)<br>满身正能量<br>2018-04-24 23:49<br>赞(1) 踩(0) | <div>上海外国语，曾经的梦想大学诶Orz</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121577714)<br><br>2018-04-24 22:41<br>赞(1) 踩(0) | <div>小姐姐很谦逊又很可爱啊(人 &amp;bull;͈ᴗ&amp;bull;͈)۶♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105554822)<br>歌颂<br>2018-04-24 22:07<br>赞(0) 踩(0) | <div>出碟了 我买</div> |
@@ -248,7 +248,7 @@ SARRA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7289167)<br>我还没想好要写什么...<br>2018-04-17 20:25<br>赞(0) 踩(0) | <div>真好阿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139106968)<br>重金属，摇滚，爵士<br>2018-04-17 08:44<br>赞(0) 踩(0) | <div>happy 我以为是外国</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85568296)<br>只有阳光而无阴影 只有欢...<br>2018-04-16 00:55<br>赞(0) 踩(0) | <div>有才</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44140429)<br>世界上好听的音乐怎么这么...<br>2018-04-13 23:49<br>赞(0) 踩(0) | <div>很喜欢你的loving you唱到心里了很感谢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44140429)<br>世界上好听的音乐怎么这么...<br>2018-04-13 23:49<br>赞(0) 踩(0) | <div>很喜欢你的loving you<br>唱到心里了<br><br>很感谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45221308)<br>暂无签名~<br>2018-04-13 08:10<br>赞(1) 踩(0) | <div>Happy真的太美好了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354384772)<br><br>2018-04-13 05:15<br>赞(1) 踩(0) | <div>好听就值得收藏 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335384483)<br><br>2018-04-13 01:22<br>赞(1) 踩(0) | <div>好喜欢第一句</div> |
@@ -266,7 +266,7 @@ SARRA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187501237)<br>高举傻冒大旗<br>2018-04-10 12:03<br>赞(1) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88769390)<br>Raining Bloo...<br>2018-04-10 01:03<br>赞(2) 踩(0) | <div>小姐姐太优秀了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318274155)<br><br>2018-04-09 22:55<br>赞(2) 踩(0) | <div>想和学姐考同一个大学  今年高二</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350033302)<br><br>2018-04-03 00:06<br>赞(3) 踩(0) | <div>在上外公众号看到的小姐姐好羡慕啊 在这么好的大学 又会唱歌希望有朝一日可以叫你一声学姐(。-`&amp;omega;&amp;acute;-)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350033302)<br><br>2018-04-03 00:06<br>赞(3) 踩(0) | <div>在上外公众号看到的小姐姐<br>好羡慕啊 在这么好的大学 又会唱歌<br>希望有朝一日可以叫你一声学姐(。-`&amp;omega;&amp;acute;-)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323262806)<br><br>2018-03-30 21:50<br>赞(3) 踩(0) | <div>Sarah！三中学姐高三听到你写给我们的今天你真的很美很感动！一直期待你同时在高三音乐会上表演的那首原创(every single dream开头的)出正式版，优酷上新蕾的手拍视频我经常找来听，希望出制作更精良的版本~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355975456)<br>我还没想好要写什么...<br>2018-03-30 12:20<br>赞(2) 踩(0) | <div>学妹加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345749529)<br>❥Find me.( ͒...<br>2018-03-29 11:59<br>赞(2) 踩(0) | <div>你很厉害哟</div> |
@@ -316,7 +316,7 @@ SARRA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4915359)<br>我还没想好要写什么...<br>2018-03-13 19:46<br>赞(2) 踩(0) | <div>支持！加油哦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79485532)<br>All I need i...<br>2018-03-13 16:10<br>赞(1) 踩(0) | <div>太好听啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35358346)<br> <br>2018-03-13 14:53<br>赞(1) 踩(0) | <div>挺好听的声音呀</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348005708)<br>我还没想好要写什么...<br>2018-03-13 14:52<br>赞(46) 踩(0) | <div>睡醒手抖点到的happy，进来后恨不得砸了自己的琴，从小练到现在，连取悦自己都做不到，反而好羡慕会做音乐的人，可以给这么多人带来不一样的心情&amp;hellip;&amp;hellip;学妹加油，超欣赏你 :)来自西安某985的大四学长ಥ_ಥ</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348005708)<br>我还没想好要写什么...<br>2018-03-13 14:52<br>赞(46) 踩(0) | <div>睡醒手抖点到的happy，进来后恨不得砸了自己的琴，从小练到现在，连取悦自己都做不到，反而好羡慕会做音乐的人，可以给这么多人带来不一样的心情&amp;hellip;&amp;hellip;学妹加油，超欣赏你 :)<br><br>来自西安某985的大四学长ಥ_ಥ</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290377934)<br> <br>2018-09-03 22:35<br>赞(0) 踩(0) | <div>你并不孤独 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23744327)<br> <br>2018-03-13 00:38<br>赞(2) 踩(0) | <div>棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89029652)<br>我还没想好要写什么...<br>2018-03-13 00:28<br>赞(1) 踩(0) | <div>开口醉，圈粉。</div> |
@@ -326,7 +326,7 @@ SARRA
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191469939)<br>It is crysta...<br>2018-03-16 23:24<br>赞(0) 踩(0) | <div><q><b>SARRA说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8028796)<br>肥啾种不出花来π_π<br>2018-02-28 12:40<br>赞(1) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225761167)<br>from dawn to...<br>2018-02-18 22:39<br>赞(96) 踩(0) | <div>我的妈听了好久gravity结果她居然中国人</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320357128)<br><br>2018-02-16 23:58<br>赞(2) 踩(0) | <div>我的天啊我好喜欢你我也是个普通人也喜欢爵士</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320357128)<br><br>2018-02-16 23:58<br>赞(2) 踩(0) | <div>我的天啊我好喜欢你<br>我也是个普通人也喜欢爵士</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42405531)<br>再见虾米<br>2018-02-13 18:19<br>赞(1) 踩(0) | <div>小姐姐 我从Day Dreams过来的..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196846924)<br>继续前进。<br>2018-01-24 15:09<br>赞(1) 踩(0) | <div>好听~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335240881)<br><br>2018-01-24 13:03<br>赞(4) 踩(0) | <div>加油，什么时候英文歌词写得跟有中文歌词一样的复杂度了就到火候了。</div> |
@@ -371,7 +371,7 @@ SARRA
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48982706)<br>脚踏实地<br>2017-09-28 16:40<br>赞(1) 踩(0) | <div>加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260729372)<br><br>2017-09-28 00:22<br>赞(1) 踩(0) | <div>超好听！一直加油啊！从大一校园好声音起就是你的饭啦～～终于出歌啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7800081)<br>我还没想好要写什么...<br>2017-09-26 20:28<br>赞(1) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/980255)<br><br>2017-09-26 10:04<br>赞(4) 踩(0) | <div>国内的一股清流啊。感觉。很有前途。有没有啥来北京唱歌的机会，我一定要去听。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/980255)<br><br>2017-09-26 10:04<br>赞(4) 踩(0) | <div>国内的一股清流啊。<br>感觉。很有前途。<br>有没有啥来北京唱歌的机会，我一定要去听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8192862)<br>诗人和先知。vchat:...<br>2017-09-25 04:18<br>赞(1) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248964942)<br><br>2017-09-25 01:00<br>赞(1) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268578386)<br>assez modéré...<br>2017-09-24 08:22<br>赞(1) 踩(0) | <div>你也很可爱哈哈</div> |

@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352919954)<br><br>2020-09-15 00:34<br>赞(0) 踩(0) | <div>希望妈妈能快点好起来，早日康复.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374518703)<br><br>2020-08-02 14:48<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png">父母恩最大恩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290489218)<br><br>2020-06-27 23:42<br>赞(1) 踩(0) | <div>保佑我的父母身体健康，我的儿子平安幸福。</div> |
@@ -39,7 +36,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424491789)<br><br>2019-05-13 11:16<br>赞(4) 踩(0) | <div>南无阿弥陀佛，请求佛主保佑我妈妈还有公公婆婆身体健康，无病无灾，愿我去世的父亲离苦得乐，往生净土 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9093711)<br>音韵千寻觅知己<br>2019-05-05 20:03<br>赞(0) 踩(0) | <div>祝愿你我大家的父母都能身心安康，没有烦恼快乐度过余生！阿弥陀佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348731053)<br> <br>2019-04-27 11:45<br>赞(1) 踩(0) | <div>奶奶今天过世了，我没能看到她最后一面…而我还在火车上…心里真的很不是滋味！希望奶奶在那边能无病痛。我想您，很想笑起来的您！奶奶您孙女真的很想您！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33468561)<br>忘記一切！放空一切！隨喜...<br>2019-04-24 11:53<br>赞(5) 踩(0) | <div>当自己为父母的时还不能体会父母的辛苦，当父母离去时才感受到父母的心，已晚了。父母的养育之恩是永还不完的。普萨的众生皆是父母，那心境是多么的博大谦恭慈悲心。自叹不如，阿弥陀佛！感恩。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33468561)<br>忘記一切！放空一切！隨喜...<br>2019-04-24 11:53<br>赞(5) 踩(0) | <div>当自己为父母的时还不能体会父母的辛苦，当父母离去时才感受到父母的心，已晚了。<br>父母的养育之恩是永还不完的。<br>普萨的众生皆是父母，那心境是多么的博大谦恭慈悲心。自叹不如，阿弥陀佛！感恩。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28462573)<br>戴上耳机 与世隔绝<br>2019-04-04 21:50<br>赞(1) 踩(0) | <div>祈祷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278763686)<br><br>2019-01-03 22:21<br>赞(2) 踩(0) | <div>我是子欲孝而親不在。 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">劝君尽孝趁早 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376820857)<br>我还没想好要写什么...<br>2019-03-19 00:30<br>赞(0) 踩(0) | <div>和你一样 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">好想他们啊</div> |
@@ -57,7 +54,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143262212)<br>我还没想好要写什么...<br>2018-08-26 00:05<br>赞(0) 踩(0) | <div>祝愿你我大家的父母都能身心安康，没有烦恼快乐度过余生！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30577564)<br>大鱼小鱼<br>2018-08-25 11:50<br>赞(2) 踩(0) | <div>南无阿弥陀佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402366794)<br><br>2018-08-22 19:23<br>赞(0) 踩(0) | <div>清苦善良一辈子的父亲，祈祷渡过这一次的生死之难&amp;hellip;&amp;hellip;不求长命百岁，但愿延年益寿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343705553)<br>暖风细雨人洋溢，天晴云远...<br>2018-07-23 12:36<br>赞(0) 踩(0) | <div>禅语一慧慈悲念佛乐妙音祥和心南无阿弥陀佛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343705553)<br>暖风细雨人洋溢，天晴云远...<br>2018-07-23 12:36<br>赞(0) 踩(0) | <div>禅语一慧慈悲念<br>佛乐妙音祥和心<br>南无阿弥陀佛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256783629)<br>慈悲憐憫是這個世界上最好...<br>2018-07-16 04:26<br>赞(0) 踩(0) | <div>南無、蜜栗、多、哆、婆曳、梭訶! <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357980913)<br>放下，悔悟，忏悔！南阿弥...<br>2018-06-25 14:37<br>赞(1) 踩(0) | <div>阿弥陀佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349929218)<br>阿弥陀佛<br>2018-06-19 13:24<br>赞(3) 踩(0) | <div>愿佛祖保佑全世界做父母的一生平安 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
@@ -80,7 +77,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21628762)<br>天北牧羊人<br>2018-01-11 06:56<br>赞(2) 踩(0) | <div>希望老妈能度过此劫。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330578297)<br>最大的心愿就是去庐山西林...<br>2017-12-18 09:08<br>赞(18) 踩(0) | <div>祈祷天下父母平安健康 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png">南无阿弥陀佛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295687465)<br><br>2017-12-12 14:14<br>赞(12) 踩(0) | <div>保佑父母健康长寿，平平安安</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336915258)<br>Something fo...<br>2017-12-05 16:28<br>赞(6) 踩(0) | <div>南无密力多哆婆曳娑诃，愿南无地藏王菩萨保佑我父母健康长寿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336915258)<br>Something fo...<br>2017-12-05 16:28<br>赞(6) 踩(0) | <div>南无密力多哆婆曳娑诃，<br>愿南无地藏王菩萨保佑我父母健康长寿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300790492)<br><br>2017-12-04 12:00<br>赞(3) 踩(0) | <div>觉得好对不起父母.而现在自己能做的只有努力.祝愿他们健康.长寿！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94684762)<br> <br>2017-12-04 05:41<br>赞(20) 踩(0) | <div>保佑父母健康长寿，天天开心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100030808)<br><br>2017-11-30 09:47<br>赞(9) 踩(0) | <div>保佑父母健康长寿、平平安安 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
@@ -106,7 +103,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54622455)<br><br>2017-09-03 18:34<br>赞(0) 踩(0) | <div>:)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241898268)<br><br>2017-08-16 09:33<br>赞(77) 踩(0) | <div>希望老爹能度过这一劫！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318293411)<br><br>2018-05-17 19:09<br>赞(0) 踩(0) | <div>为乐多地</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33536272)<br>阿弥陀佛<br>2017-08-13 14:06<br>赞(158) 踩(0) | <div>报父母恩咒南无密栗多哆婆曳娑诃第一恩怀胎守护恩第二恩临产受苦恩；第三恩生子忘忧恩第四恩咽苦吐甘恩；第五恩回干就湿恩第六恩哺乳养育恩；第七恩洗濯不净恩第八恩远行忆念恩；第九恩深加体恤恩第十恩究竟怜愍恩。 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33536272)<br>阿弥陀佛<br>2017-08-13 14:06<br>赞(158) 踩(0) | <div>报父母恩咒<br>南无密栗多哆婆曳娑诃<br>第一恩怀胎守护恩第二恩临产受苦恩；<br>第三恩生子忘忧恩第四恩咽苦吐甘恩；<br>第五恩回干就湿恩第六恩哺乳养育恩；<br>第七恩洗濯不净恩第八恩远行忆念恩；<br>第九恩深加体恤恩第十恩究竟怜愍恩。 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13336757)<br><br>2018-07-27 10:50<br>赞(0) 踩(0) | <div>在这住999</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346670610)<br><br>2019-11-12 14:12<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45337055)<br><br>2017-07-22 21:59<br>赞(25) 踩(0) | <div>请菩萨保佑我父母健康，快乐，长寿 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
@@ -134,16 +131,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68624552)<br><br>2016-12-10 10:53<br>赞(3) 踩(0) | <div>父母安康，外婆奶奶长寿 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215174758)<br><br>2016-09-08 09:18<br>赞(2) 踩(0) | <div>祝爸妈身体健康</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/133423438)<br>不乱于心，不困于情。不畏...<br>2016-08-05 07:11<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186648889)<br><br>2016-08-04 23:05<br>赞(55) 踩(0) | <div>报父母恩咒南无密栗多哆婆曳娑诃第一恩怀胎守护恩第二恩临产受苦恩；第三恩生子忘忧恩第四恩咽苦吐甘恩；第五恩回干就湿恩第六恩哺乳养育恩；第七恩洗濯不净恩第八恩远行忆念恩；第九恩深加体恤恩第十恩究竟怜愍恩。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95721014)<br>《心经》《与神对话》《太...<br>2017-06-09 19:38<br>赞(0) 踩(0) | <div>南无阿弥陀佛南无阿弥陀佛南无阿弥陀佛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186648889)<br><br>2016-08-04 23:05<br>赞(55) 踩(0) | <div>报父母恩咒<br>南无密栗多哆婆曳娑诃<br>第一恩怀胎守护恩第二恩临产受苦恩；<br>第三恩生子忘忧恩第四恩咽苦吐甘恩；<br>第五恩回干就湿恩第六恩哺乳养育恩；<br>第七恩洗濯不净恩第八恩远行忆念恩；<br>第九恩深加体恤恩第十恩究竟怜愍恩。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95721014)<br>《心经》《与神对话》《太...<br>2017-06-09 19:38<br>赞(0) 踩(0) | <div>南无阿弥陀佛<br>南无阿弥陀佛<br>南无阿弥陀佛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17721722)<br><br>2016-05-07 22:26<br>赞(0) 踩(0) | <div>南无密栗多 哆婆曳娑诃/:rose</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99608998)<br>懂，是世界上最温情的语言<br>2016-01-12 23:28<br>赞(0) 踩(0) | <div>美！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2756724)<br>我还没想好要写什么...<br>2015-10-21 11:11<br>赞(0) 踩(0) | <div>分享  林笛 的歌曲《报父母恩咒》<a href="http://www.xiami.com/song/1769972378" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1769972378</a>（分享自@虾米音乐）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70942446)<br>醒目辉煌<br>2015-10-21 07:25<br>赞(1) 踩(0) | <div>南无密栗多，哆婆曳，莎诃父母是离我们最近的活菩萨！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70942446)<br>醒目辉煌<br>2015-10-21 07:25<br>赞(1) 踩(0) | <div>南无密栗多，哆婆曳，莎诃<br>父母是离我们最近的活菩萨！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49023910)<br><br>2015-09-02 20:58<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">为爸爸妈妈念祝他们健康</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9391331)<br> <br>2015-08-11 00:21<br>赞(0) 踩(0) | <div>南无密栗多 哆婆曳娑诃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49086965)<br>我们曾心动<br>2015-07-09 13:11<br>赞(0) 踩(0) | <div>南无密粟多，哆婆曳莎诃 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48038507)<br>简单就好<br>2015-06-06 22:20<br>赞(0) 踩(0) | <div>善恶皆会得报应祸福自然有天理</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48038507)<br>简单就好<br>2015-06-06 22:20<br>赞(0) 踩(0) | <div>善恶皆会得报应<br>祸福自然有天理</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21518186)<br> <br>2015-05-11 00:24<br>赞(0) 踩(0) | <div>南无密栗多，哆婆曳娑诃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21518186)<br> <br>2015-05-11 00:23<br>赞(0) 踩(0) | <div>南无密栗多，哆婆曳娑诃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32031632)<br><br>2015-01-09 12:54<br>赞(0) 踩(0) | <div>南无阿弥陀佛</div> |
@@ -151,4 +148,4 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11604820)<br><br>2014-04-10 15:08<br>赞(1) 踩(0) | <div>报父母恩咒：南无密栗多 哆婆曳 莎诃（nā mó mì lì duō duō pó yì suō hē）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7693430)<br>劳和动<br>2014-01-22 23:53<br>赞(0) 踩(0) | <div>尤其到中段，鼓点与笛子的结合，极美！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10167)<br><br>2013-05-23 09:42<br>赞(2) 踩(0) | <div>昨儿骑小毛驴带娘兜风 快到家上坡时与对面一辆小毛驴差点相撞 我已巧妙的避开但娘竟然跳车了 划破了脸和手 说是怕我也摔下 无语。。。。多么用心良苦的爱啊 多么愚蠢的人啊 多么冷漠的我啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2562208)<br><br>2011-08-27 10:08<br>赞(1) 踩(0) | <div>《报父母恩咒》：南无密栗多，哆婆曳娑诃读音：南（na）无（mo）密（mi）栗（li）多（duo）　哆（duo）婆（po）曳（yì）娑（suo）诃（he）哀哀父母，生我劬劳。十月三年，怀胎乳哺；推干去湿，咽苦吐甘，才得成人。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2562208)<br><br>2011-08-27 10:08<br>赞(1) 踩(0) | <div>《报父母恩咒》：南无密栗多，哆婆曳娑诃<br>读音：南（na）无（mo）密（mi）栗（li）多（duo）　哆（duo）婆（po）曳（yì）娑（suo）诃（he）<br>哀哀父母，生我劬劳。十月三年，怀胎乳哺；推干去湿，咽苦吐甘，才得成人。</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/dfc56e94efa94b3f7298fdb6a0b4ead6.jpg)<br>张承](https://i.xiami.com/zhangcheng) | **播放数**: 3541927<br>**粉丝数**: 405<br>**评论数**: 37<br>**地区**: China 中国大陆<br>**风格**: <br> |
+| [![](../../images/musicians/dfc56e94efa94b3f7298fdb6a0b4ead6.jpg)<br>张承](https://i.xiami.com/zhangcheng) | **地区**: China 中国大陆<br>**风格**: <br>**播放数**: 3541927<br>**粉丝数**: 405<br>**评论数**: 37<br> |
 
 ## 档案
 
@@ -35,8 +35,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98318924)<br> <br>2019-02-07 18:04<br>赞(0) 踩(0) | <div>原来是拐哥啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127002252)<br> <br>2019-01-25 23:13<br>赞(0) 踩(0) | <div>是拐哥吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320754158)<br><br>2018-07-23 21:35<br>赞(0) 踩(0) | <div>过</div> |

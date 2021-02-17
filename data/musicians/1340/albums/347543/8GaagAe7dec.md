@@ -62,8 +62,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36651302)<br>再从容一点。<br>2019-03-31 14:23<br>赞(0) 踩(0) | <div>几个月前循环这首歌，现在又循环。长大就是伴随着很多无奈啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361099121)<br>什么都可以没有 不能没有<br>2018-12-25 14:54<br>赞(0) 踩(0) | <div>听这歌的人做谜面打一首歌名—- 有故事的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361099121)<br>什么都可以没有 不能没有<br>2018-12-20 14:57<br>赞(1) 踩(0) | <div>原唱与翻唱有各自的味道 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -124,7 +124,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332187263)<br> <br>2018-07-31 18:34<br>赞(2) 踩(0) | <div>很久很久以前就喜欢这首歌，然后这首歌在流行歌曲的大潮里淹没了渐渐遗忘，看了好声音又勾起了回忆，很喜欢的歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1717285)<br>多年积攒的体验点换来一年...<br>2018-07-30 23:02<br>赞(1) 踩(0) | <div>尼玛的唱腔不就是中孝介原唱的岛歌唱腔么，还说是自己琢磨出来的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360587978)<br><br>2018-07-31 10:45<br>赞(0) 踩(0) | <div>我第一反应也是岛呗，但藏腔也有这样的风格，很多艺术是相通的。而且藏腔里有岛呗没有的一些东西，你听了他那段原生态吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125728052)<br>Seekfor love...<br>2018-07-30 22:58<br>赞(6) 踩(0) | <div>本来一点都不悲伤，昨天晚上和单恋了很久的姑娘聊了很久，今天中午在好声音上听到这个藏族老师唱这首歌，止不住的泪水就哗哗往下躺，不知道为什么。祝愿今年旦曾尼玛在好声音的舞台上越走越远 . <img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"> <img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125728052)<br>Seekfor love...<br>2018-07-30 22:58<br>赞(6) 踩(0) | <div>本来一点都不悲伤，昨天晚上和单恋了很久的姑娘聊了很久，今天中午在好声音上听到这个藏族老师唱这首歌，止不住的泪水就哗哗往下躺，不知道为什么。<br>祝愿今年旦曾尼玛在好声音的舞台上越走越远 . <img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"> <img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97874730)<br>我还没想好要写什么...<br>2018-07-30 11:54<br>赞(4) 踩(0) | <div>九年前最喜欢的歌曲之一，那时这首歌不火，而我还在上大学也爱着初恋男友，一眨眼，虽然已物是人非，再次听这首歌是在中国好声音，伴随着悠扬的歌声，又想起了当时美好的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358309991)<br><br>2018-07-29 23:58<br>赞(4) 踩(0) | <div>有人是听了好声音过来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54980002)<br>爱音乐，爱生活<br>2018-07-29 23:54<br>赞(3) 踩(0) | <div>好声音过来的 哈哈</div> |
@@ -212,7 +212,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48612597)<br>长风破浪会有时，直挂云帆...<br>2015-03-31 08:24<br>赞(0) 踩(0) | <div>真的觉得有净化心灵的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11351063)<br>暂无签名~<br>2015-03-05 14:33<br>赞(4) 踩(0) | <div>#我等你到三十五岁#我不会谱曲不会作词不会撰文不会写诗，便借这首歌来做纪念吧。愿天下有情人能够坚强勇敢，开心时要用力欢笑，受了伤也能放肆哭泣，不要让隐忍的苦痛在心中沉积。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6851209)<br>因为生命存在失望 所以我...<br>2015-02-28 22:37<br>赞(1) 踩(0) | <div>也许吧也许</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11351063)<br>暂无签名~<br>2015-02-27 11:23<br>赞(3) 踩(0) | <div>中孝介-各自远扬但求莫忘初心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11351063)<br>暂无签名~<br>2015-02-27 11:23<br>赞(3) 踩(0) | <div>中孝介-各自远扬<br>但求莫忘初心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7771805)<br><br>2014-12-21 22:31<br>赞(0) 踩(0) | <div>今晚注定是瞎想之夜，为了不想，抄书去了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7409770)<br><br>2014-12-13 14:29<br>赞(1) 踩(0) | <div>隐形的纪念 躲在心里面 也许吧也许不会再见 阴天或晴天 一天又一年 风它在对我说莫忘这一切</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25590032)<br>咩啊<br>2014-12-10 00:14<br>赞(1) 踩(0) | <div>父亲去世五周年了，依然还是不敢面对。</div> |
@@ -239,17 +239,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9257035)<br>我还没想好要写什么...<br>2013-11-07 11:10<br>赞(0) 踩(0) | <div>娓娓道来的凄美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3634135)<br><br>2013-11-06 14:28<br>赞(0) 踩(0) | <div>怎么这么有中孝介的赶脚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12530726)<br><br>2013-10-07 19:20<br>赞(0) 踩(0) | <div>她翻唱好多我喜欢的歌、、、</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16637367)<br>4ενεгκо<br>2013-09-16 05:59<br>赞(0) 踩(0) | <div>隐形的纪念，躲在心里面也许吧也许，不会再见</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16637367)<br>4ενεгκо<br>2013-09-16 05:59<br>赞(0) 踩(0) | <div>隐形的纪念，躲在心里面<br>也许吧也许，不会再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4791232)<br>Get out of m...<br>2013-09-13 14:38<br>赞(0) 踩(0) | <div>哼了好几天都不知歌名，总算找到了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4701682)<br><br>2013-08-29 21:36<br>赞(0) 踩(0) | <div>中孝介&amp;lt;各自远飏&amp;gt;的中文版 原来蔡淳佳的声音这么好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14699440)<br><br>2013-08-20 04:26<br>赞(1) 踩(0) | <div>这种状态是我想要的~所谓释然~偶尔可以娓娓道来的想念，没有怨愤，不再叹息~对往昔的美好心存感激~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16087705)<br>如果只有日出<br>2013-06-21 17:10<br>赞(0) 踩(0) | <div>谢谢你给了我那时的一切</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936926)<br><br>2013-06-10 11:28<br>赞(0) 踩(0) | <div>张韶涵-泪光中孝介-各自远扬还有这首全都源自同一段冲绳传统民谣旋律吧？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936926)<br><br>2013-06-10 11:28<br>赞(0) 踩(0) | <div>张韶涵-泪光<br>中孝介-各自远扬<br>还有这首<br>全都源自同一段冲绳传统民谣旋律<br>吧？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50656360)<br>别紧张，我不是什么好人…...<br>2015-06-23 01:18<br>赞(0) 踩(0) | <div>还有刘德华也翻唱过，忘了哪首了，是首粤语歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334147928)<br><br>2017-11-28 21:29<br>赞(0) 踩(0) | <div><q><b>老小不大快乐无比的单身汉V说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6540167)<br><br>2013-05-27 22:16<br>赞(0) 踩(0) | <div>晚安～～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14559379)<br><br>2013-05-15 21:16<br>赞(0) 踩(0) | <div>雨天或晴天，一天又一天</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3451955)<br><br>2013-05-14 19:57<br>赞(0) 踩(0) | <div>我想要去找那条路&nbsp;&nbsp;你牵着我那段路&nbsp;&nbsp;又甜又苦呀有雨有雾&nbsp;&nbsp;我说有你所以喜欢旅途&nbsp;&nbsp;有时候下着雨我淋湿了脸&nbsp;&nbsp;所有风景都变成想念&nbsp;&nbsp;一双脚要走过多少时间&nbsp;&nbsp;才能走成思念&nbsp;&nbsp;隐形的纪念躲在心里面也许吧 也许不会再见阴天或晴天一天又一年风它在对我说莫忘这一切也许吧 也许我们不会再见阴天或晴天我祝福今天谢谢你对我说那时的一切</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3451955)<br><br>2013-05-14 19:57<br>赞(0) 踩(0) | <div>我想要去找那条路&nbsp;&nbsp;<br><br>你牵着我那段路&nbsp;&nbsp;<br><br>又甜又苦呀有雨有雾&nbsp;&nbsp;<br><br>我说有你所以喜欢旅途&nbsp;&nbsp;<br><br>有时候下着雨我淋湿了脸&nbsp;&nbsp;<br><br>所有风景都变成想念&nbsp;&nbsp;<br><br>一双脚要走过多少时间&nbsp;&nbsp;<br><br>才能走成思念&nbsp;&nbsp;隐形的纪念躲在心里面<br><br>也许吧 也许不会再见<br><br>阴天或晴天<br><br>一天又一年<br><br>风它在对我说莫忘这一切<br><br>也许吧 也许我们不会再见<br><br>阴天或晴天<br><br>我祝福今天<br><br>谢谢你对我说那时的一切</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14039975)<br><br>2013-05-07 20:28<br>赞(0) 踩(0) | <div>5.7    一个人的纪念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3073221)<br>我可以只听歌不吃饭<br>2013-04-22 21:50<br>赞(0) 踩(0) | <div>为什么最近一听到这首歌，眼眶就会泛红</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51800191)<br><br>2015-10-29 00:02<br>赞(0) 踩(0) | <div>你好</div> |
@@ -315,7 +315,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2348431)<br><br>2011-01-12 12:37<br>赞(0) 踩(0) | <div>听这首歌，是因为中孝介的“各自远洋”！因它会让我想起太多的思念，太多的回忆，而这些，是我必须要忘记的。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1660380)<br><br>2010-10-13 14:43<br>赞(0) 踩(0) | <div>再多的想念也只能藏在心里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333372)<br><br>2010-06-25 21:35<br>赞(0) 踩(0) | <div>各自远航~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52224)<br><br>2010-04-22 20:25<br>赞(0) 踩(0) | <div>大部分的时候，我很念旧。对人，对事，对物。从小到大收藏了无数看似毫无价值的东西，当然偶尔也会买点奢侈品，但纯粹是喜欢，并不比其他东西更珍爱。但这些收藏，我并不会时常去想起、关心、拂拭，那都是种隐形的纪念，他们好好的在那边就好了，我很安心，很释然，也很快乐。就像这首歌的唱腔，大爱。我喜欢这种状态，安然如秋水。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52224)<br><br>2010-04-22 20:25<br>赞(0) 踩(0) | <div>大部分的时候，我很念旧。对人，对事，对物。从小到大收藏了无数看似毫无价值的东西，当然偶尔也会买点奢侈品，但纯粹是喜欢，并不比其他东西更珍爱。<br><br>但这些收藏，我并不会时常去想起、关心、拂拭，那都是种隐形的纪念，他们好好的在那边就好了，我很安心，很释然，也很快乐。就像这首歌的唱腔，大爱。<br><br>我喜欢这种状态，安然如秋水。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/703730)<br><br>2010-03-01 17:37<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2010-01-11 15:42<br>赞(0) 踩(0) | <div>海角七号中孝介「各自远颺」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/749)<br>多年若即又若离 盘根错节...<br>2009-11-09 17:33<br>赞(0) 踩(0) | <div>第一反应是日本曲，但inkui上的资料说“作曲赵增熹”，如果真是这样，那就是蔡淳佳唱腔受到了中孝介的影响，就这点而言，真是一首失败的歌。</div> |

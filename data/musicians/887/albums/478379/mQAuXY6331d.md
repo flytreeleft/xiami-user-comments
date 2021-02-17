@@ -67,8 +67,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314613881)<br><br>2018-09-24 15:10<br>赞(2) 踩(0) | <div>在北方严冬飘雪的夜晚，独坐在车里，让烟雾缭绕着自己，一遍一遍的听着这首歌，禁不住泪流满面&amp;hellip;&amp;hellip;&amp;ldquo;上苍请让我再坚强一些，当我将要倒下，就在这无依无靠的大桥上&amp;rdquo;，谢谢汪峰，创作出这样触动心灵的歌曲&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355186078)<br><br>2018-08-25 00:04<br>赞(0) 踩(0) | <div>永远的偶像</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12806112)<br>不在场！<br>2018-07-23 06:33<br>赞(2) 踩(0) | <div>汪大哥，我懂您全部爱恨情仇。都懂。。[闪电][拳头][拳头][玫瑰][爱心] <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png">[饭] <img src="../../../../images/comments/f10e8c35366eb553db3d665e8b324caf.png">[咖啡]。因为，我也一样枪林弹雨、九死一生过来的。</div> |
@@ -104,8 +104,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34706055)<br><br>2015-10-18 12:09<br>赞(1) 踩(0) | <div>温情的激励着我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48641983)<br>为曾经吹过的牛逼，奋斗终...<br>2015-10-17 12:08<br>赞(2) 踩(0) | <div>卢沟桥也不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48471677)<br><br>2015-10-16 10:04<br>赞(0) 踩(0) | <div>勇敢一些。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2314959)<br><br>2015-10-12 22:09<br>赞(1) 踩(0) | <div>我竟是如此的想念你善良的爱人想念那些对我不离不弃的好朋友为生命感动 为时光怀念</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2314959)<br><br>2015-10-12 22:09<br>赞(0) 踩(0) | <div>我竟是如此的想念你善良的爱人想念那些对我不离不弃的好朋友为生命感动 为时光怀念</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2314959)<br><br>2015-10-12 22:09<br>赞(1) 踩(0) | <div>我竟是如此的想念你善良的爱人<br>想念那些对我不离不弃的好朋友<br>为生命感动 为时光怀念</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2314959)<br><br>2015-10-12 22:09<br>赞(0) 踩(0) | <div>我竟是如此的想念你善良的爱人<br>想念那些对我不离不弃的好朋友<br>为生命感动 为时光怀念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43092919)<br><br>2015-10-12 20:38<br>赞(0) 踩(0) | <div>只有一个零写在我的简历上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10721683)<br>音乐改变生活！<br>2015-10-12 19:01<br>赞(0) 踩(0) | <div>大桥上 - 汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44806950)<br> <br>2015-10-12 03:41<br>赞(0) 踩(0) | <div>安</div> |
@@ -114,7 +114,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70505764)<br><br>2015-10-09 12:24<br>赞(0) 踩(0) | <div>好听，感人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1701823)<br> <br>2015-10-08 22:49<br>赞(2) 踩(0) | <div>是听了好声音，才搜索这首歌。深深触动我！曾一度因为失恋，放弃了自己，现在还在找寻属于自己的动力！希望再坚强一点，让一切变得好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65198090)<br>爱，要谦卑。<br>2015-10-07 21:54<br>赞(3) 踩(0) | <div>看中国好声音贝贝唱过，深深被感染</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324718100)<br><br>2018-05-01 22:29<br>赞(0) 踩(0) | <div>贝贝唱的真是好，饱含深情。贝贝之后好像再也没有看过中国好声音。但是贝贝最后一首歌，选错了，应该继续唱汪峰的歌。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324718100)<br><br>2018-05-01 22:29<br>赞(0) 踩(0) | <div>贝贝唱的真是好，饱含深情。<br>贝贝之后好像再也没有看过中国好声音。但是贝贝最后一首歌，选错了，应该继续唱汪峰的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72407948)<br><br>2015-10-07 20:11<br>赞(0) 踩(0) | <div>有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8146462)<br>我是淑女，淑女是我<br>2015-10-07 10:49<br>赞(0) 踩(0) | <div>歌詞歌詞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66353816)<br>！<br>2015-10-05 22:09<br>赞(2) 踩(0) | <div>幸福总会在不远的地方。。。</div> |
@@ -131,11 +131,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15723765)<br> <br>2015-09-29 13:16<br>赞(1) 踩(0) | <div>大桥是自杀者的圣地，这歌却唱的那么洒脱开阔，不容易！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39816876)<br>全世界不缺你一个<br>2015-09-29 11:01<br>赞(0) 踩(0) | <div>节目组早有安排 说不定冠军导师是周董 所以不好意思你们都是炮灰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43457111)<br>Step by Step...<br>2015-09-28 20:19<br>赞(2) 踩(0) | <div>对汪峰路转粉 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26455408)<br>骑着哈雷放着AC/DC<br>2015-09-28 16:04<br>赞(2) 踩(0) | <div>我只想说一句！贝贝把我唱哭了！但是不公平的媒体差点把她淘汰了！！！！！还好锋哥按了DOUBLE!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26455408)<br>骑着哈雷放着AC/DC<br>2015-09-28 16:04<br>赞(2) 踩(0) | <div>我只想说一句！<br>贝贝把我唱哭了！<br>但是不公平的媒体差点把她淘汰了！！！！！<br>还好锋哥按了DOUBLE!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55807649)<br>尘封的日子始终不会是一片...<br>2015-09-28 08:35<br>赞(3) 踩(0) | <div>艺术家的人和作品本来就是应该分开的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15841996)<br> <br>2015-09-28 01:11<br>赞(0) 踩(0) | <div>唱到心里了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68675268)<br><br>2015-09-27 21:19<br>赞(4) 踩(0) | <div>贝贝比汪峰唱得还好</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26455408)<br>骑着哈雷放着AC/DC<br>2015-09-28 16:06<br>赞(0) 踩(0) | <div>贝贝好太多！中国最好摇滚女嗓！像花木兰一样的豪放女子</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26455408)<br>骑着哈雷放着AC/DC<br>2015-09-28 16:06<br>赞(0) 踩(0) | <div>贝贝好太多！<br>中国最好摇滚女嗓！<br>像花木兰一样的豪放女子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21093411)<br><br>2015-09-27 21:16<br>赞(0) 踩(0) | <div>每个人心里都有属于自己的一座桥，在桥上有过晦暗，当你要倒下就在这无靠无依的大桥上，只要再坚强坦然一点，光明总在后面。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21093411)<br><br>2015-09-27 21:05<br>赞(1) 踩(0) | <div>每个人都有属于自己的一座桥，在桥上有过晦暗，有过光明，坦然面对。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/713877)<br><br>2015-09-27 14:51<br>赞(1) 踩(0) | <div>媒体这局找口水比较多啊 贝贝唱得我泪水汪汪</div> |
@@ -198,14 +198,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12165272)<br><br>2013-08-31 21:01<br>赞(1) 踩(0) | <div>突然有一天我回想这走来的一路 不由自主的我哭得像个孩子一样——汪峰《大桥上》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/953975)<br>Real<br>2013-08-26 10:57<br>赞(0) 踩(0) | <div>（QAQ）虐...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18060884)<br><br>2013-07-27 07:00<br>赞(0) 踩(0) | <div>我相信，这生命总有辉煌，梦想总会在不远的地方；我知道，这人生总有希望，幸福总会在不远的地方</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10647398)<br><br>2013-06-22 12:41<br>赞(1) 踩(0) | <div>我猜想这黑**过去光明总会在不远的地方上苍请让我再坚强一些当我将要倒下就在这无靠无依的大桥上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10647398)<br><br>2013-06-22 12:41<br>赞(1) 踩(0) | <div>我猜想这黑**过去<br>光明总会在不远的地方<br>上苍请让我再坚强一些<br>当我将要倒下就在这无靠无依的大桥上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4235145)<br><br>2012-03-15 23:54<br>赞(0) 踩(0) | <div>社会是只大怪兽，吞噬梦与想。但是爱会来打败它的。对不对？@-Missflower  今天我做了个决定，脑袋里就回响了这首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2937277)<br><br>2011-12-17 12:26<br>赞(0) 踩(0) | <div>我的朋友们，都来听听吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7223873)<br><br>2011-12-13 14:38<br>赞(0) 踩(0) | <div>无需理由</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6012928)<br><br>2011-11-30 13:01<br>赞(0) 踩(0) | <div>大桥上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7008276)<br><br>2011-11-29 14:22<br>赞(0) 踩(0) | <div>喜欢没有原因</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7008134)<br>一万年太久，只争朝夕。<br>2011-11-28 21:39<br>赞(0) 踩(0) | <div>我们的心中都有一座大桥。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1134844)<br><br>2011-11-25 16:13<br>赞(0) 踩(0) | <div>上苍请让我再坚强一些当我将要倒下就在这无靠无依的大桥上！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1134844)<br><br>2011-11-25 16:13<br>赞(0) 踩(0) | <div>上苍请让我再坚强一些<br>当我将要倒下就在这无靠无依的大桥上！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231795)<br><br>2011-11-23 19:44<br>赞(0) 踩(0) | <div>副歌部分真的很震撼人心!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2831815)<br>槽鸡有米刀汤近，野鹤无粮...<br>2011-11-23 18:53<br>赞(0) 踩(0) | <div>thank you ,everyone</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4133343)<br>O耶。。。<br>2011-11-23 14:32<br>赞(0) 踩(0) | <div>大桥上。</div> |

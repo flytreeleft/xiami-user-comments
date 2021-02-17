@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8b8126d2599d156397ba394038eba9e4.jpg)<br>胡云哲](https://i.xiami.com/windsor) | **播放数**: 4233072<br>**粉丝数**: 1073<br>**评论数**: 66<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/8b8126d2599d156397ba394038eba9e4.jpg)<br>胡云哲](https://i.xiami.com/windsor) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 独立民谣 Indie Folk<br>**播放数**: 4233072<br>**粉丝数**: 1073<br>**评论数**: 66<br> |
 
 ## 档案
 
@@ -26,8 +26,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-09-30 14:07<br>赞(0) 踩(0) | <div>华语民谣摇滚魅力男声，出走。20200930.66</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430139857)<br>丢了再找吧<br>2020-04-23 13:18<br>赞(1) 踩(0) | <div>5年了，唱歌的人依然没有大火，听歌的人依然平庸，感谢哦你陪我的每个春夏秋冬。继续，依然继续</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430139857)<br>丢了再找吧<br>2020-04-23 05:43<br>赞(0) 踩(0) | <div>很好听。</div> |

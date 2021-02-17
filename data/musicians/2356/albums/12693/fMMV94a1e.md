@@ -49,8 +49,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5661241)<br> <br>2021-01-06 00:30<br>赞(1) 踩(0) | <div>虾米就要关了，这是我在2010年在虾米收藏的第一首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111504182)<br><br>2020-11-15 23:07<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104063482)<br><br>2020-10-26 01:18<br>赞(0) 踩(0) | <div>编曲原来是李雨寰</div> |
@@ -106,7 +106,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101138512)<br>同病人理应结伴共寻医<br>2017-06-10 19:34<br>赞(3) 踩(0) | <div>不夸张，不做作，个性足以拉开其他女歌手几条街，这就是杨乃文。每一首歌都是百听不厌。还有，这首歌真的很适合她的气质。大赞！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20156445)<br><br>2017-03-12 16:11<br>赞(1) 踩(0) | <div>live音质更棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49059609)<br>一生中可以喜欢很多人，但...<br>2017-02-06 22:54<br>赞(1) 踩(0) | <div>致亲爱的陌生人：晚上要少熬夜，躺在床上也不要来回刷手机。胃不好就少吃辣少喝冷饮，受了委屈就哭出来，学会珍惜身边的人，如果还没有人牵你的手，自己要照顾好自己。晚安</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64402358)<br>keyi<br>2016-11-29 21:17<br>赞(4) 踩(0) | <div>词曲：吴青峰我们葛格，真的好有才哦！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64402358)<br>keyi<br>2016-11-29 21:17<br>赞(4) 踩(0) | <div>词曲：吴青峰<br>我们葛格，真的好有才哦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7078001)<br><br>2016-11-28 08:17<br>赞(1) 踩(0) | <div>受伤后的坚强，快乐也是苦涩的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57466448)<br>相逢处非道即仙<br>2016-11-05 19:45<br>赞(0) 踩(0) | <div>也可以去听听青峰的～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49652305)<br>试管婴儿<br>2016-04-18 12:07<br>赞(0) 踩(0) | <div>第一首杨乃文</div> |
@@ -179,7 +179,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50614105)<br>我不希望仅仅作为旁观者存...<br>2015-07-27 00:10<br>赞(0) 踩(0) | <div><q><b>刘畅C说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47964832)<br>安得广厦千万间，大庇天下...<br>2015-07-15 23:43<br>赞(1) 踩(0) | <div>气场没能hold这首歌 <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46658704)<br><br>2015-07-15 03:20<br>赞(0) 踩(0) | <div>最近的女神</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2130049)<br>流尽年华 洗净铅华<br>2015-07-14 17:22<br>赞(1) 踩(0) | <div>作词： 吴青峰作曲： 吴青峰这首歌还是适合杨乃文的，搞不好吴青峰唱得还没有杨乃文霸气呢~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2130049)<br>流尽年华 洗净铅华<br>2015-07-14 17:22<br>赞(1) 踩(0) | <div>作词： 吴青峰<br>作曲： 吴青峰<br>这首歌还是适合杨乃文的，搞不好吴青峰唱得还没有杨乃文霸气呢~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/135012782)<br><br>2017-06-16 12:14<br>赞(0) 踩(0) | <div>青峰是另一番味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4837867)<br>就是爱音乐<br>2015-07-11 20:50<br>赞(0) 踩(0) | <div>每次听感觉不一样，普罗大众的生活都不是想这样的，可还是要继续。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8590918)<br>喜欢简单粗暴 哈哈哈哈哈...<br>2015-07-10 21:01<br>赞(0) 踩(0) | <div>青峰的词。  得之我幸</div> |
@@ -240,7 +240,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32902810)<br><br>2015-04-01 01:06<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32902810)<br><br>2015-04-01 01:05<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5440629)<br><br>2015-03-13 21:22<br>赞(2) 踩(0) | <div>那么喜欢的一首歌，居然是吴青峰创作的~~~~~~~~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30655079)<br>犀利爆棚<br>2015-03-09 22:55<br>赞(0) 踩(0) | <div>好听的歌过多久都是那么美</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30655079)<br>犀利爆棚<br>2015-03-09 22:55<br>赞(0) 踩(0) | <div>好听的歌<br>过多久都是那么<br>美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10726101)<br>我还没想好要写什么...<br>2015-03-08 10:54<br>赞(2) 踩(0) | <div>词曲吴青峰。杨乃文唱法独一无二。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44176140)<br><br>2015-02-22 09:59<br>赞(0) 踩(0) | <div>为什么会这样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5831599)<br>强硬到自满<br>2015-02-21 20:29<br>赞(1) 踩(0) | <div>歌词很适合乃文的声线</div> |
@@ -249,7 +249,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5977061)<br><br>2015-02-13 16:02<br>赞(0) 踩(0) | <div>第二段副歌以后的伴奏 和最后的嘶吼 真是太棒了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39494835)<br>我还没想好要写什么...<br>2015-01-31 01:17<br>赞(1) 踩(0) | <div>当年第一首听到杨乃文的就这歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37902642)<br>暂无签名~<br>2015-01-31 23:54<br>赞(0) 踩(0) | <div>我也是～刚出的时候电台听得～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31975753)<br> <br>2015-01-27 21:43<br>赞(0) 踩(0) | <div>在你的空虚宝座里面爱过什么女爵的滋味</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31975753)<br> <br>2015-01-27 21:43<br>赞(0) 踩(0) | <div>在你的空虚宝座里面<br>爱过什么女爵的<br>滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1568025)<br><br>2015-01-23 18:01<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32867811)<br>Alein<br>2015-01-13 22:23<br>赞(0) 踩(0) | <div>虾米为什么没有青峰唱的版本啊啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38569856)<br>额…<br>2015-01-06 22:25<br>赞(0) 踩(0) | <div>更爱青峰了</div> |
@@ -336,7 +336,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9280231)<br><br>2014-04-02 08:48<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/934530)<br><br>2014-03-30 14:24<br>赞(0) 踩(0) | <div>原以为青轰只是个翻唱的，没想到竟然是作者。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10979147)<br><br>2014-03-30 00:15<br>赞(1) 踩(0) | <div>她坦白了我们所虚伪的　她单纯了我们所复杂的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9271239)<br><br>2014-03-18 09:04<br>赞(1) 踩(0) | <div>在你的空虛寶座裡面愛過什麼女爵的滋味</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9271239)<br><br>2014-03-18 09:04<br>赞(1) 踩(0) | <div>在你的空虛寶座裡面<br>愛過什麼女爵的滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12150691)<br><br>2014-03-11 22:53<br>赞(1) 踩(0) | <div>突然很想这个声音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31454051)<br> <br>2014-03-07 18:00<br>赞(0) 踩(0) | <div>青峰徐佳莹一人一个版本毕竟还是这个版本最好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8599911)<br> <br>2014-03-04 21:35<br>赞(1) 踩(0) | <div>一颗热的心穿着冰冷外衣 一张白的脸漆上多少褪色的情节</div> |
@@ -370,7 +370,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39893268)<br>善良的人会一直幸福下去的<br>2015-03-02 15:43<br>赞(0) 踩(0) | <div>我也是</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1169657)<br><br>2013-12-13 12:16<br>赞(0) 踩(0) | <div>不能更特别了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14624283)<br>暂无签名~<br>2013-12-08 22:46<br>赞(0) 踩(0) | <div>#每天一首晚安曲#  好久好久么有KTV了~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163685)<br>你本无意穿堂风，偏偏孤居...<br>2013-12-07 21:29<br>赞(0) 踩(0) | <div>为你封了国境为你赦了罪为你撤了历史记载为你涂了装扮</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163685)<br>你本无意穿堂风，偏偏孤居...<br>2013-12-07 21:29<br>赞(0) 踩(0) | <div>为你封了国境<br>为你赦了罪<br>为你撤了历史记载<br>为你涂了装扮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11773245)<br><br>2013-12-07 20:51<br>赞(0) 踩(0) | <div>T^T</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13459308)<br><br>2013-12-04 11:51<br>赞(0) 踩(0) | <div>杨乃文的歌就是耐听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/455086)<br><br>2013-12-04 07:33<br>赞(0) 踩(0) | <div>她没有出专辑的七年，另一个女孩儿的好音乐陪伴了我七年。温故知新，20131220，女爵，是该回归了。</div> |
@@ -385,7 +385,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7956718)<br>let's fallin...<br>2013-10-06 14:32<br>赞(0) 踩(0) | <div>单曲循环中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15298083)<br><br>2013-09-29 22:31<br>赞(0) 踩(0) | <div>今晚,单曲循环~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15929246)<br><br>2013-09-29 00:17<br>赞(0) 踩(0) | <div>在我的空虚身体里面 爱上哪个肤浅的王位 / 在你的空虚宝座里面 爱过什么女爵的滋味</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2310053)<br><br>2013-09-28 05:57<br>赞(0) 踩(0) | <div>为你封了国境 为你赦了罪 为你撤了历史记载为你涂了装扮 OH 为你喝了醉 为你建了城池围墙一颗热的心 穿着冰冷外衣一张白的脸 漆上多少褪色的情节在我的空虚身体里面 爱上那个肤浅的王位在你的空虚宝座里面 爱过什么女爵的滋味</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2310053)<br><br>2013-09-28 05:57<br>赞(0) 踩(0) | <div>为你封了国境 为你赦了罪 为你撤了历史记载<br>为你涂了装扮 OH 为你喝了醉 为你建了城池围墙<br><br>一颗热的心 穿着冰冷外衣<br>一张白的脸 漆上多少褪色的情节<br><br>在我的空虚身体里面 爱上那个肤浅的王位<br>在你的空虚宝座里面 爱过什么女爵的滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17685285)<br>暂无签名~<br>2013-09-20 10:25<br>赞(0) 踩(0) | <div>叼！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/687932)<br><br>2013-09-18 23:55<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20115163)<br><br>2013-09-18 07:08<br>赞(0) 踩(0) | <div>大家早，节前最后一天加油!</div> |
@@ -397,7 +397,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5162372)<br><br>2013-08-31 15:27<br>赞(0) 踩(0) | <div>在我的空虚身体里面...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11689184)<br><br>2013-08-31 00:32<br>赞(0) 踩(0) | <div>刚虾米随机推荐到这首，一开口，瞬间回到高二第一次听到杨乃文的时候，几乎都忘了这个歌手了。当时就是最喜欢这首【女爵】，哎哎好激动，就像突然遇到了一个好久没联系的老友。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9741889)<br><br>2013-08-29 23:14<br>赞(0) 踩(0) | <div>就像乌鸦像书桌！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8161591)<br><br>2013-08-28 17:40<br>赞(0) 踩(0) | <div>她的声音，她的个性，象徵著无可取代的高傲、独特的姿态，这样一股充满灵魂的音乐、沉寂而刚苏醒的真声音，是我们唯一相信且期待的理由。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8161591)<br><br>2013-08-28 17:40<br>赞(0) 踩(0) | <div>她的声音，她的个性，象徵著无可取代的高傲、独特的姿态，<br>这样一股充满灵魂的音乐、沉寂而刚苏醒的真声音，<br>是我们唯一相信且期待的理由。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6133958)<br> <br>2013-08-26 22:17<br>赞(0) 踩(0) | <div>时势造英雄，乱世成枭雄。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4243967)<br>King William<br>2013-08-26 20:39<br>赞(0) 踩(0) | <div>总觉得有一点点像青峰…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9907399)<br> <br>2013-08-26 01:49<br>赞(0) 踩(0) | <div>@Ainy从前也爱摇滚乐 听到就想起了软女神！</div> |
@@ -408,7 +408,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1210013)<br><br>2013-08-13 22:00<br>赞(0) 踩(0) | <div>#虾米sonic#想去现场再体会一下杨乃文</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16815663)<br><br>2013-08-13 21:50<br>赞(0) 踩(0) | <div>#虾米Sonic#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5511496)<br>◜◡◝<br>2013-08-10 15:55<br>赞(0) 踩(0) | <div>ww</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16093645)<br><br>2013-08-09 14:41<br>赞(0) 踩(0) | <div>在我的空虚身体里面爱上哪个肤浅的王位在你的空虚宝座里面爱过什么女爵的滋味</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16093645)<br><br>2013-08-09 14:41<br>赞(0) 踩(0) | <div>在我的空虚身体里面<br>爱上哪个肤浅的王位<br>在你的空虚宝座里面<br>爱过什么女爵的滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15841114)<br>若无闲事挂心头，便是人间...<br>2013-07-31 22:14<br>赞(0) 踩(0) | <div>脑吴词曲~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1478301)<br>我还没想好要写什么...<br>2013-07-31 11:05<br>赞(0) 踩(0) | <div>在你空虚身体里面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5514190)<br><br>2013-07-15 21:59<br>赞(0) 踩(0) | <div>青峰为老板的恋人写的这首《女爵》之前觉得普通。演唱会青峰又唱回来，发现徐佳莹也翻唱了。仔细去对比，想找出不同。唱功还是徐佳莹厉害，反复再听，毕竟量体裁衣为乃文写的，属于她。像《掉了》也是顺着阿妹的澎湃写的嘛！</div> |
@@ -437,7 +437,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8683429)<br><br>2013-06-02 01:06<br>赞(47) 踩(0) | <div>当年觉得她的歌太晦涩，现在才发现是如此好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5712067)<br> <br>2013-06-01 20:15<br>赞(0) 踩(0) | <div>喜欢青峰唱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5746045)<br><br>2013-06-01 14:45<br>赞(0) 踩(0) | <div>看见最强音翻唱女爵，不行啊。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11609138)<br><br>2013-05-31 23:41<br>赞(0) 踩(0) | <div>在我的空虚身体里面 爱上那个肤浅的王位在你的空虚宝座里面 爱过什么女爵的滋味</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11609138)<br><br>2013-05-31 23:41<br>赞(0) 踩(0) | <div>在我的空虚身体里面 爱上那个肤浅的王位<br>在你的空虚宝座里面 爱过什么女爵的滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532621)<br>N/A<br>2013-05-31 23:38<br>赞(0) 踩(0) | <div>来发个原唱吧  估计很多人都听过 大概还以为 陈一玲唱得还不错 吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5712016)<br><br>2013-05-29 11:09<br>赞(0) 踩(0) | <div>乃哥的歌必须全部都会唱啊！！！ 加上陈珊妮和张悬 就是宝岛三大最真实存在的声音了！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13099901)<br><br>2013-05-28 12:31<br>赞(0) 踩(0) | <div>这么多年，听到还是觉得爽</div> |
@@ -472,7 +472,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/616783)<br><br>2013-02-18 15:22<br>赞(0) 踩(0) | <div>突然很怀念杨乃文的声音，多年前喜欢的一首，现在才知道是青峰写的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13098728)<br><br>2013-02-18 00:23<br>赞(0) 踩(0) | <div>&amp;quot;為你封了國境 為你赦了罪 為你撤了歷史記載 為你塗了裝扮 為你喝了醉 為你建了城池圍牆 一颗熱的心 穿著冰冷外衣&amp;quot; —— 《女爵》 早期吴青峰写给杨乃文的歌，今晚一直LOOP.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9446627)<br>音乐是一个人的良药<br>2013-02-16 21:37<br>赞(0) 踩(0) | <div>因为青峰！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5611659)<br>安静在沸腾<br>2013-02-16 20:42<br>赞(0) 踩(0) | <div>一顆熱的心 穿著冰冷外衣一張白的臉 漆上多少褪色的情節在我的空虛身體裡面愛上哪個膚淺的王位在你的空虛寶座裡面愛過什麼女爵的滋味</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5611659)<br>安静在沸腾<br>2013-02-16 20:42<br>赞(0) 踩(0) | <div>一顆熱的心 穿著冰冷外衣<br>一張白的臉 漆上多少褪色的情節<br>在我的空虛身體裡面<br>愛上哪個膚淺的王位<br>在你的空虛寶座裡面<br>愛過什麼女爵的滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/791255)<br><br>2013-02-11 23:58<br>赞(0) 踩(0) | <div>这……喜欢这歌的人不知道有没有听过Sarah Mclachlen的《Fallen》，基本可以确定曲子是这首的改版，甚至连唱法都十分相似</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2421622)<br><br>2013-02-10 08:34<br>赞(0) 踩(0) | <div>回味最爱的歌之最具特质的女演唱人，揭开2013的序幕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8871365)<br><br>2013-02-09 19:43<br>赞(0) 踩(0) | <div>嘿，树上的男爵。</div> |
@@ -508,7 +508,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6434490)<br><br>2012-11-14 22:33<br>赞(0) 踩(0) | <div>好久没听这歌了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2119139)<br><br>2012-11-13 23:20<br>赞(0) 踩(0) | <div>其实是好几年前的歌了~可是那天听完峰姐唱完就不能忘怀了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2705600)<br><br>2012-11-12 23:08<br>赞(0) 踩(0) | <div>怀旧呗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2544096)<br> <br>2012-11-08 14:54<br>赞(0) 踩(0) | <div>午觉起来就一直有点点发抖，于是想要听冷冽的歌。【一顆熱的心 穿著冰冷外衣一張白的臉 漆上多少褪色的情節】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2544096)<br> <br>2012-11-08 14:54<br>赞(0) 踩(0) | <div>午觉起来就一直有点点发抖，于是想要听冷冽的歌。【一顆熱的心 穿著冰冷外衣<br>一張白的臉 漆上多少褪色的情節】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8125699)<br><br>2012-11-04 18:00<br>赞(0) 踩(0) | <div>爱过什么女爵的滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/512588)<br><br>2012-10-27 16:08<br>赞(0) 踩(0) | <div>好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10945879)<br><br>2012-10-26 22:14<br>赞(0) 踩(0) | <div>歌词太怨 可是声音很棒</div> |
@@ -520,7 +520,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7757144)<br>懒癌晚期<br>2012-10-02 15:33<br>赞(1) 踩(0) | <div>这首歌的曲风 唱法 都好像苏打绿的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8356430)<br>城市里，爱的来临当如是。<br>2012-09-23 13:01<br>赞(0) 踩(0) | <div>女爵，为你封了国境。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10422162)<br><br>2012-09-21 23:39<br>赞(0) 踩(0) | <div>在我的空虚身体里面，爱上哪个肤浅的王位，在你的空虚宝座里面，爱过什麽女爵的滋味</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10701297)<br><br>2012-09-20 22:56<br>赞(0) 踩(0) | <div>在我的空虚身体里面爱上哪个肤浅的王位在你的空虚宝座里面爱过什么女爵的滋味</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10701297)<br><br>2012-09-20 22:56<br>赞(0) 踩(0) | <div>在我的空虚身体里面<br>爱上哪个肤浅的王位<br>在你的空虚宝座里面<br>爱过什么女爵的滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5396827)<br>表里非一<br>2012-09-06 00:28<br>赞(0) 踩(0) | <div>我说怎么有股吴青峰的味儿...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6503393)<br>To be an Elk<br>2012-09-06 00:15<br>赞(0) 踩(0) | <div>单曲循环了好久，新欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8639873)<br><br>2012-09-05 21:18<br>赞(0) 踩(0) | <div>也没觉得她的声音多特别～</div> |
@@ -551,10 +551,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7382427)<br><br>2012-05-20 20:20<br>赞(0) 踩(0) | <div>每次听女爵，都会想到和鱼在上海租房子的日子。住在群租房，每天去工地食堂，跟农民工一起，只吃不超过7元的盒饭，吃完回家听杨乃文和打魔兽……那些日子一去不复返了，如今我们都有了自己的生活。很想念那个民工食堂，那盒丝瓜炒蛋……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9226647)<br><br>2012-05-20 06:06<br>赞(0) 踩(0) | <div>杨乃文女爵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9226647)<br><br>2012-05-20 01:12<br>赞(0) 踩(0) | <div>杨乃文女爵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4458409)<br><br>2012-05-15 09:21<br>赞(0) 踩(0) | <div>在我的空虛身體裡面愛上哪個膚淺的王位在你的空虛寶座裡面愛過什麼女爵的滋味</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4458409)<br><br>2012-05-15 09:21<br>赞(0) 踩(0) | <div>在我的空虛身體裡面<br>愛上哪個膚淺的王位<br>在你的空虛寶座裡面<br>愛過什麼女爵的滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/438667)<br>那时候的爱情，为什么就能...<br>2012-05-10 21:30<br>赞(0) 踩(0) | <div>一颗热的心  穿着冰冷外衣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9134149)<br><br>2012-05-10 21:03<br>赞(0) 踩(0) | <div>在你的空虚的宝座里面爱过什么女爵的滋味</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2322193)<br><br>2012-05-10 12:35<br>赞(0) 踩(0) | <div>一顆熱的心 穿著冰冷外衣一張白的臉 漆上多少褪色的情節</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2322193)<br><br>2012-05-10 12:35<br>赞(0) 踩(0) | <div>一顆熱的心 穿著冰冷外衣<br>一張白的臉 漆上多少褪色的情節</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6350500)<br><br>2012-05-07 14:05<br>赞(0) 踩(0) | <div>一颗热的心   穿着冰冷外衣   一张白的脸   漆上多少褪色的情节</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3162341)<br><br>2012-05-03 15:42<br>赞(0) 踩(0) | <div>这个词，我拜倒了~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8352979)<br>我的意中人是个盖世英雄。<br>2012-05-03 13:45<br>赞(0) 踩(0) | <div>当时听这首歌的时候觉得碉堡了。</div> |
@@ -585,11 +585,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413990)<br>恶人勿近～<br>2012-02-24 23:01<br>赞(0) 踩(0) | <div>你是。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413990)<br>恶人勿近～<br>2012-02-24 23:00<br>赞(0) 踩(0) | <div>你是。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3746176)<br><br>2012-02-23 16:37<br>赞(0) 踩(0) | <div>@Alfa-琵琶    我两个首饮歌啊，原来原唱甘好听噶哦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50043)<br>都是有原因的<br>2012-02-16 13:23<br>赞(0) 踩(0) | <div>不知道 突然一直循环开女爵。。。这样的调调 适合现在。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50043)<br>都是有原因的<br>2012-02-16 13:23<br>赞(0) 踩(0) | <div>不知道 突然一直循环开女爵。。。<br>这样的调调 适合现在。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7235383)<br><br>2012-02-15 02:14<br>赞(0) 踩(0) | <div>最后一次</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3254156)<br><br>2012-02-08 13:20<br>赞(0) 踩(0) | <div>我喜欢的女生，永远都是修长的身材，短发，轮廓冷漠，表情无措。城池攻陷，迷离的灯光也被打碎，有什么高贵的基因能有永恒。仿佛一伸手人生可以轻易被改变，然而现在漫天大雪。一只斑斓蝴蝶与漫天的白。如此困惑的白。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3254156)<br><br>2012-02-08 13:20<br>赞(0) 踩(0) | <div>我喜欢的女生，永远都是修长的身材，短发，轮廓冷漠，表情无措。城池攻陷，迷离的灯光也被打碎，有什么高贵的基因能有永恒。<br>仿佛一伸手人生可以轻易被改变，然而现在漫天大雪。<br><br>一只斑斓蝴蝶与漫天的白。<br><br>如此困惑的白。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3692867)<br>怕脸上惊起余震<br>2015-01-29 07:59<br>赞(0) 踩(0) | <div>赞</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595353)<br>微笑，给你<br>2012-01-31 09:08<br>赞(0) 踩(0) | <div>再次分享／／／一颗热的心穿着冰冷外衣一张白的脸漆上多少褪色的情节</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595353)<br>微笑，给你<br>2012-01-31 09:08<br>赞(0) 踩(0) | <div>再次分享／／／<br>一颗热的心<br>穿着冰冷外衣<br>一张白的脸<br>漆上多少褪色的情节</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4992081)<br><br>2012-01-23 19:15<br>赞(0) 踩(0) | <div>杨乃文还真不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4841820)<br> <br>2012-01-21 17:42<br>赞(0) 踩(0) | <div>又一首青峰的创作，他真的是个很有灵性的人。这首歌，杨乃文没有青峰自己唱得好。“一颗热的心 穿着冰冷外衣 一张白的脸 漆上多少褪色的情节”在这个下雪天，把这首歌送给自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4370951)<br><br>2012-01-13 13:57<br>赞(0) 踩(0) | <div>一颗热的心 穿着冰冷外衣 一张白的脸 漆上多少褪色的情节</div> |
@@ -604,7 +604,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1564726)<br> <br>2011-12-15 20:19<br>赞(0) 踩(0) | <div>稀饭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143715)<br><br>2011-12-15 17:40<br>赞(0) 踩(0) | <div>杨乃文—我很喜欢的歌手之一，听她的歌很放空！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5647592)<br><br>2011-12-08 21:40<br>赞(0) 踩(0) | <div>需要安静一下</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2683578)<br>不忘初心，方得始终。<br>2011-12-04 16:26<br>赞(0) 踩(0) | <div>一颗热的心穿着冰冷外衣一张白的脸漆上多少褪色的情节</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2683578)<br>不忘初心，方得始终。<br>2011-12-04 16:26<br>赞(0) 踩(0) | <div>一颗热的心<br>穿着冰冷外衣<br>一张白的脸<br>漆上多少褪色的情节</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1316736)<br>我爱77~23333<br>2011-12-03 09:55<br>赞(0) 踩(0) | <div>06年的时候我还在初二呢，没想到一下子就过了快6年了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6408173)<br><br>2011-11-29 17:31<br>赞(0) 踩(0) | <div>不晓得为啥子今天黑想听这首歌，大家分享。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6486862)<br><br>2011-11-27 23:56<br>赞(0) 踩(0) | <div>杨乃文最好听的一首歌，有个性！</div> |
@@ -612,14 +612,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6934229)<br><br>2011-11-24 10:40<br>赞(0) 踩(0) | <div>我觉得杨乃文的这首歌真的很好听！大家听听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6927158)<br><br>2011-11-23 21:09<br>赞(0) 踩(0) | <div>朋友推荐了虾米网站艾！好多歌！！还能同步分享到n个网站，特嗲了！试试先嘿嘿！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595353)<br>微笑，给你<br>2011-11-22 01:18<br>赞(0) 踩(0) | <div>在我的空虚身体里面 爱上哪个肤浅的王位 在你的空虚宝座里面 爱过什么女爵的滋味</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595353)<br>微笑，给你<br>2011-11-22 01:15<br>赞(0) 踩(0) | <div>在我的空虚身体里面 爱上拿个肤浅的王位在你的空虚宝座里面 爱国什么女爵的滋味</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595353)<br>微笑，给你<br>2011-11-22 01:15<br>赞(0) 踩(0) | <div>在我的空虚身体里面 爱上拿个肤浅的王位<br>在你的空虚宝座里面 爱国什么女爵的滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1701462)<br>Safrina<br>2011-11-21 22:00<br>赞(0) 踩(0) | <div>强力推荐！！！！！！！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5035126)<br>拜拜了，我的十年青春<br>2011-11-19 16:26<br>赞(0) 踩(0) | <div>一顆熱的心 穿著冰冷外衣一張白的臉 漆上多少褪色的情節</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5035126)<br>拜拜了，我的十年青春<br>2011-11-19 16:26<br>赞(0) 踩(0) | <div>一顆熱的心 穿著冰冷外衣<br>一張白的臉 漆上多少褪色的情節</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2700221)<br><br>2011-11-09 01:09<br>赞(0) 踩(0) | <div>大概老了 开始听起了电脑里的老歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6551708)<br><br>2011-11-01 17:25<br>赞(0) 踩(0) | <div>下午醒脑曲目：《女爵》杨乃文</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5718213)<br><br>2011-10-11 19:17<br>赞(0) 踩(0) | <div>好久没听到这位华语歌坛的异质女歌手了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6123660)<br>口味太杂没办法。<br>2011-10-05 21:19<br>赞(0) 踩(0) | <div>喵~这歌有苏打绿的味道。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5866232)<br> <br>2011-09-19 20:15<br>赞(0) 踩(0) | <div>为你封了国境 为你赦了罪 为你撤了历史记载为你涂了装扮 为你喝了醉 为你建了城池围墙</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5866232)<br> <br>2011-09-19 20:15<br>赞(0) 踩(0) | <div>为你封了国境 为你赦了罪 为你撤了历史记载<br>为你涂了装扮 为你喝了醉 为你建了城池围墙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5171064)<br><br>2011-09-19 04:46<br>赞(0) 踩(0) | <div>女爵，嗯，女爵。她的歌里，听过的也就喜欢这一首。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4754309)<br><br>2011-09-18 16:12<br>赞(0) 踩(0) | <div>曾经的写照~我要翻过去~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5746764)<br><br>2011-09-16 01:24<br>赞(0) 踩(0) | <div>身体里面有些东西 和表象不一样 肤浅 和 孤傲</div> |
@@ -631,20 +631,20 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5545270)<br>爱唱爱笑爱疯爱尖叫<br>2011-09-03 12:41<br>赞(0) 踩(0) | <div>听着~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2145915)<br><br>2011-08-25 23:02<br>赞(0) 踩(0) | <div>单曲循环患者。更喜欢苏打绿的版。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2755359)<br>then？<br>2011-08-21 03:27<br>赞(0) 踩(0) | <div>还记得当年这首歌和表白一起派台~当时身为追星族的我因为elva的原因深深的厌恶这首歌~现在想想真是傻缺到了极点~ 谁年轻时候没2过~就摘哇！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5198932)<br><br>2011-08-11 21:56<br>赞(0) 踩(0) | <div>为你封了国境。一颗热的心，穿着冰冷外衣。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4306177)<br><br>2011-08-10 23:39<br>赞(0) 踩(0) | <div>在我的空虛身體裡面愛上哪個膚淺的王位在你的空虛寶座裡面愛過什麼女爵的滋味</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5198932)<br><br>2011-08-11 21:56<br>赞(0) 踩(0) | <div>为你封了国境。<br><br>一颗热的心，<br>穿着冰冷外衣。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4306177)<br><br>2011-08-10 23:39<br>赞(0) 踩(0) | <div>在我的空虛身體裡面<br>愛上哪個膚淺的王位<br>在你的空虛寶座裡面<br>愛過什麼女爵的滋味</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1548361)<br><br>2011-08-19 23:14<br>赞(0) 踩(0) | <div>请问你是怎么理解这段歌词的？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56589)<br><br>2011-08-08 17:07<br>赞(0) 踩(0) | <div>实际是空虚滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56589)<br><br>2011-08-08 17:07<br>赞(0) 踩(0) | <div>实际是空虚的滋味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2843004)<br>转烛飘蓬一梦归<br>2011-07-30 12:33<br>赞(0) 踩(0) | <div>一开始听的是苏打绿演唱的，觉得特别。第一次听杨乃文的，不一样的感觉。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4953072)<br><br>2011-07-27 16:02<br>赞(0) 踩(0) | <div>今天老是看见青峰写的歌.两个都喜欢.这首唱法很相似.歌词和假声很妖孽.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4953072)<br><br>2011-07-27 16:02<br>赞(0) 踩(0) | <div>今天老是看见青峰写的歌.<br>两个都喜欢.这首唱法很相似.<br>歌词和假声很妖孽.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1602059)<br><br>2011-07-23 21:14<br>赞(0) 踩(0) | <div>杨乃文 我永远的 女爵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3041216)<br>哈哈哈<br>2011-07-23 11:25<br>赞(0) 踩(0) | <div>今天下四国狂输··············································然后特别想听这首歌················································</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321745)<br>祝大家财源广进！<br>2011-07-19 13:23<br>赞(0) 踩(0) | <div>这个真假音转换真销魂～～啊 嗓音超棒！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3403942)<br><br>2011-07-16 16:17<br>赞(0) 踩(0) | <div>很喜欢的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/144838)<br><br>2011-07-11 13:56<br>赞(0) 踩(0) | <div>很有感觉的一首歌，歌词也不错，“一颗热的心，穿着冰冷外衣，一张白的脸，漆上多少褪色的情节”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1529298)<br>为啥只能十二个字符啊好少<br>2011-07-10 22:50<br>赞(0) 踩(0) | <div>青峰啊青峰。。。真是厉害。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/623872)<br><br>2011-07-05 21:54<br>赞(0) 踩(0) | <div>一顆熱的心 穿著冰冷外衣一張白的臉 漆上多少褪色的情節</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/623872)<br><br>2011-07-05 21:54<br>赞(0) 踩(0) | <div>一顆熱的心 穿著冰冷外衣<br>一張白的臉 漆上多少褪色的情節</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27210)<br><br>2011-07-03 01:40<br>赞(0) 踩(0) | <div>我真是太喜欢这个女人和这首歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4420640)<br> <br>2011-06-30 23:41<br>赞(0) 踩(0) | <div>她像一只猫。渴望在他身上抓出一道道柔软的伤痕。她，想占有他。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4420640)<br> <br>2011-06-30 23:40<br>赞(0) 踩(0) | <div>她像一只猫。渴望在他身上抓出一道道柔软的伤痕。她，想占有他。</div> |
@@ -652,7 +652,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4456970)<br>music liven ...<br>2011-06-29 19:05<br>赞(0) 踩(0) | <div>霸气、深沉、女王控~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407294)<br><br>2011-06-26 15:28<br>赞(0) 踩(0) | <div>这是小欧欧唱过的。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1971644)<br><br>2011-06-03 18:42<br>赞(0) 踩(0) | <div>一直很喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2743033)<br><br>2011-05-31 07:35<br>赞(0) 踩(0) | <div>一顆熱的心穿著冰冷外衣一張白的臉漆上多少褪色的情節</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2743033)<br><br>2011-05-31 07:35<br>赞(0) 踩(0) | <div>一顆熱的心<br>穿著冰冷外衣<br>一張白的臉<br>漆上多少褪色的情節</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1745499)<br><br>2011-05-21 12:28<br>赞(0) 踩(0) | <div>唱功</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3825470)<br><br>2011-05-05 10:57<br>赞(0) 踩(0) | <div>cool</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47417)<br><br>2011-04-15 11:53<br>赞(0) 踩(0) | <div>路只能往前走</div> |
@@ -681,12 +681,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/568866)<br><br>2010-03-09 22:23<br>赞(0) 踩(0) | <div>在我的空虚身体里面　爱上哪个肤浅的王位</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/589617)<br><br>2010-01-15 15:27<br>赞(0) 踩(0) | <div>另类+独立</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30342)<br><br>2009-11-30 12:52<br>赞(0) 踩(0) | <div>嗓音特别</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351661)<br>世间最美的莫不过“遇”<br>2009-11-10 00:00<br>赞(0) 踩(0) | <div>我不得不选这首歌太爱了“她，坦白了我们所虚伪的她，简单了我们所复杂的！”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351661)<br>世间最美的莫不过“遇”<br>2009-11-10 00:00<br>赞(0) 踩(0) | <div>我不得不选这首歌<br>太爱了<br><br>“她，坦白了我们所虚伪的<br>她，简单了我们所复杂的！”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12429)<br><br>2009-10-04 23:40<br>赞(0) 踩(0) | <div>女皇陛下，你的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416667)<br><br>2009-09-30 22:32<br>赞(0) 踩(0) | <div>吴青峰作词作曲~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416667)<br><br>2009-09-30 22:32<br>赞(0) 踩(0) | <div>吴青峰作词作曲~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300329)<br><br>2009-08-03 00:15<br>赞(0) 踩(0) | <div>听着感觉不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12281)<br><br>2009-04-02 16:43<br>赞(0) 踩(0) | <div>新专前复习</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21598)<br><br>2009-03-05 23:27<br>赞(0) 踩(0) | <div>一颗热的心穿着冰冷外衣一张白的脸漆上多少褪色的情节这是这群女子的写照吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21598)<br><br>2009-03-05 23:27<br>赞(0) 踩(0) | <div>一颗热的心<br>穿着冰冷外衣<br>一张白的脸<br>漆上多少褪色的情节<br>这是这群女子的写照吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27945)<br><br>2009-01-16 20:08<br>赞(0) 踩(0) | <div>asdfasd</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25125)<br><br>2009-01-04 19:02<br>赞(0) 踩(0) | <div>好听啊</div> |

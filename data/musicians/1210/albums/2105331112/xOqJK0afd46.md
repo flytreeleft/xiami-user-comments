@@ -51,9 +51,9 @@ ISRC：TWA451907401<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206670813)<br><br>2021-01-09 08:10<br>赞(0) 踩(0) | <div>我是潘佳钰❤️VIVOGVmeningitis。</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206670813)<br><br>2021-01-09 08:10<br>赞(0) 踩(0) | <div>我是潘佳钰❤️VIVO<br><br>GVmeningitis。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35618098)<br>情圣<br>2020-12-06 08:10<br>赞(0) 踩(0) | <div>『酒鬼这首歌的故事是由上往下看，一个灵魂的视角，情侣发生争执，最终女孩离开。男主角就是一个爱喝酒的人，一个酒鬼，因为喝酒发生太多事情，但是就...女孩受不了了，最终还是要离开他 』</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441957537)<br>helloworld<br>2020-12-06 04:04<br>赞(0) 踩(0) | <div>一直都很可爱 阿岳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10857967)<br>我～就是我！不喜勿進！<br>2020-09-17 22:26<br>赞(0) 踩(0) | <div>热评第二笑尿了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -75,7 +75,7 @@ ISRC：TWA451907401<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286430887)<br>爱才是最好的柔光 最有效...<br>2020-08-26 18:21<br>赞(0) 踩(0) | <div><q><b>SAIL说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411542508)<br><br>2020-01-15 07:25<br>赞(3) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48341939)<br>这家伙很聪明什么也没留下...<br>2020-01-10 18:26<br>赞(1) 踩(0) | <div>的确像喝多了唱的 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1737158)<br>给我个充钱的理由？<br>2020-01-08 05:57<br>赞(0) 踩(0) | <div>一如自己永远学不会怎么挽留一如自己永远学不会勇敢追求</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1737158)<br>给我个充钱的理由？<br>2020-01-08 05:57<br>赞(0) 踩(0) | <div>一如自己永远学不会怎么挽留<br>一如自己永远学不会勇敢追求</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434133315)<br>只要有美妙的音乐就不会寂...<br>2020-01-03 15:38<br>赞(2) 踩(0) | <div>帅气的好听，有rap的节奏感，让阿岳变得年轻许多，我会不由自主的跟着节奏摇晃 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1269748)<br>人多的时候，笑容也寂寞了<br>2020-02-24 18:08<br>赞(0) 踩(0) | <div>远走高飞也有点trap的感觉</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434133315)<br>只要有美妙的音乐就不会寂...<br>2020-07-20 15:02<br>赞(0) 踩(0) | <div><q><b>“小裸”说：</b></q></div> |
@@ -90,7 +90,7 @@ ISRC：TWA451907401<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24386155)<br><br>2019-12-17 09:07<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24386155)<br><br>2019-12-14 06:40<br>赞(1) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225677635)<br><br>2019-12-11 19:48<br>赞(2) 踩(0) | <div>真好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228752079)<br>你听歌的时候在想什么啊？<br>2019-12-09 11:17<br>赞(1) 踩(0) | <div>他们说我醉了我醉了 却清醒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228752079)<br>你听歌的时候在想什么啊？<br>2019-12-09 11:17<br>赞(1) 踩(0) | <div>他们说我醉了<br>我醉了 却清醒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341864932)<br><br>2019-12-08 17:10<br>赞(9) 踩(0) | <div>阿岳是不是不想做下一年的说唱了啊？新专用auto tune教凡凡做人这样真的好吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45951662)<br><br>2019-12-05 22:46<br>赞(2) 踩(0) | <div>阿嶽已经帮你把经历的 没经历的 正在经历的 提前告诉了你…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192011503)<br>Beast inside<br>2019-12-04 23:24<br>赞(0) 踩(0) | <div>老实说我喜欢这感觉……</div> |
@@ -110,7 +110,7 @@ ISRC：TWA451907401<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212913911)<br>happy ending<br>2019-11-07 12:41<br>赞(0) 踩(0) | <div>有点意思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52384780)<br><br>2019-11-06 22:22<br>赞(0) 踩(0) | <div>好少人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48461833)<br>节奏无关悲喜<br>2019-11-06 11:11<br>赞(1) 踩(0) | <div>八只鸡炖下去</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430709185)<br>孩子～<br>2019-11-05 18:20<br>赞(1) 踩(0) | <div>虾米66666666666666666666666666666</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430709185)<br>孩子～<br>2019-11-05 18:20<br>赞(1) 踩(0) | <div>虾米<br><br><br><br><br><br><br><br><br><br>66666666666666666666666666666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416973089)<br><br>2019-11-01 20:27<br>赞(1) 踩(0) | <div>感觉这首歌曲调好听来，这歌词字也太多了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/679890)<br> <br>2019-10-31 13:54<br>赞(1) 踩(0) | <div>为啥有几句听起来像 Dr Jolin <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431114667)<br>.. <br>2019-10-30 15:06<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -118,13 +118,13 @@ ISRC：TWA451907401<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409491092)<br><br>2019-10-30 03:33<br>赞(1) 踩(0) | <div>W</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250147559)<br>一往<br>2019-10-29 23:58<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145902426)<br>自在如风。<br>2019-10-29 13:30<br>赞(1) 踩(0) | <div>真好听啊。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1125942)<br>给您拜早年了。₍₍ (ง...<br>2019-10-27 21:36<br>赞(0) 踩(0) | <div>念念不忘和这首吧。看评论有说大碗宽面化的哈哈哈哈哈还有辣子鸡……我好饿呀。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1125942)<br>给您拜早年了。₍₍ (ง...<br>2019-10-27 21:36<br>赞(0) 踩(0) | <div>念念不忘和这首吧。<br>看评论有说大碗宽面化的哈哈哈哈哈还有辣子鸡……<br>我好饿呀。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46948892)<br>内心之事宜缄口 仓促之念...<br>2019-10-27 21:06<br>赞(2) 踩(0) | <div>大碗宽面~ 嘿！嘿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431222216)<br>我还没想好要写什么。<br>2019-10-27 14:54<br>赞(0) 踩(0) | <div>失恋了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274154883)<br><br>2019-10-27 14:45<br>赞(0) 踩(0) | <div>迷途羔羊之后又一力作</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18518828)<br><br>2019-10-26 23:25<br>赞(3) 踩(0) | <div>有艾热的感觉</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61791292)<br>我还没想好要写什么...<br>2019-10-27 00:26<br>赞(0) 踩(0) | <div>还真的有一点耶</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282421654)<br>风轻云淡，吃点小饭。<br>2019-10-26 22:55<br>赞(2) 踩(0) | <div>天地之间我有房有吃有喝不断粮每天喝它几斤酒任我疯来任我狂</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282421654)<br>风轻云淡，吃点小饭。<br>2019-10-26 22:55<br>赞(2) 踩(0) | <div>天地之间我有房<br>有吃有喝不断粮<br>每天喝它几斤酒<br>任我疯来任我狂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292804630)<br><br>2019-10-26 20:10<br>赞(0) 踩(0) | <div>牛逼依旧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379122551)<br><br>2019-10-26 10:52<br>赞(0) 踩(0) | <div>张震岳的新歌都还可以嘛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411247426)<br><br>2019-10-26 08:22<br>赞(2) 踩(0) | <div>张震岳一直没变，还是那个曲调，那种风格，那个嗓音，你还是你，而我却已不是那个我，但依旧沉迷于你的嗓音无法自拔</div> |
@@ -231,10 +231,10 @@ ISRC：TWA451907401<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86274168)<br>醒来无处觅 来去都如风<br>2019-10-18 09:03<br>赞(1) 踩(0) | <div>是这个调子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305874609)<br>媛媛你好！<br>2019-10-18 08:56<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408864342)<br>接受你的洗礼<br>2019-10-18 08:53<br>赞(0) 踩(0) | <div>阿岳我来啦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420516298)<br><br>2019-10-18 08:50<br>赞(2) 踩(0) | <div>是人吗 好听成这样马克思课上止不住点头 没救了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420516298)<br><br>2019-10-18 08:50<br>赞(2) 踩(0) | <div>是人吗 好听成这样<br>马克思课上止不住点头 没救了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189799082)<br>误落尘网中 一去三十年。<br>2019-10-18 08:44<br>赞(0) 踩(0) | <div>是我想听的阿岳。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43923132)<br>远在远方的风比远方更远<br>2019-10-18 08:21<br>赞(0) 踩(0) | <div>制作人是哪位？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358064756)<br><br>2019-10-18 08:08<br>赞(1) 踩(0) | <div>棒子鸡，棒子鸡，我没听错吧 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358064756)<br><br>2019-10-18 08:08<br>赞(1) 踩(0) | <div>棒子鸡，棒子鸡<br>，我没听错吧 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122755326)<br>你又不认识我<br>2019-10-18 08:06<br>赞(0) 踩(0) | <div>来了 好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37603687)<br>我还没想好要写什么...<br>2019-10-18 07:58<br>赞(2) 踩(0) | <div>来了 阿岳！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102351774)<br><br>2019-10-18 07:51<br>赞(1) 踩(0) | <div>阿岳的声音好酥，一身鸡皮疙瘩 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
@@ -251,7 +251,7 @@ ISRC：TWA451907401<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3283683)<br>No style is ...<br>2019-10-18 01:36<br>赞(0) 踩(0) | <div>也太好听了吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7992730)<br><br>2019-10-18 01:25<br>赞(1) 踩(0) | <div>为什么我感到一股浓浓的东北味？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7730240)<br>卫星发射基地<br>2019-10-18 00:52<br>赞(1) 踩(0) | <div>喜喜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37877820)<br>但将痛饮酬风月，莫放离歌...<br>2019-10-18 00:43<br>赞(3) 踩(0) | <div>这是另一种形式的再见呐。曾经年轻，可以为梦想说声再见。如今尝尽冷暖，面对任何的离开，都无法轻易接受</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37877820)<br>但将痛饮酬风月，莫放离歌...<br>2019-10-18 00:43<br>赞(3) 踩(0) | <div>这是另一种形式的再见呐。<br>曾经年轻，可以为梦想说声再见。如今尝尽冷暖，面对任何的离开，都无法轻易接受</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65242182)<br>矛盾的辩证统一<br>2019-10-18 00:37<br>赞(2) 踩(0) | <div>我今晚！！！就是在喝酒！！！喝！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3580898)<br>喜好不一定相同,但我们都...<br>2019-10-18 00:34<br>赞(0) 踩(0) | <div>！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4333960)<br>暂无签名~<br>2019-10-18 00:34<br>赞(0) 踩(0) | <div>唱的就是我嘛</div> |

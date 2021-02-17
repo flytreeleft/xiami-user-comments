@@ -50,8 +50,8 @@ back on my way, was just lost in l.a.
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19409755)<br>什么都听点儿<br>2019-05-05 04:36<br>赞(0) 踩(0) | <div>永远快乐的你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7023)<br>长期缓慢持续收藏林一峰演...<br>2018-12-16 01:33<br>赞(0) 踩(0) | <div>20151008离开LAmark</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95431622)<br>广东歌博爱饭，日音圈徘徊...<br>2018-05-03 16:19<br>赞(0) 踩(0) | <div>国语版一峰的迷醉，粤语版二汶的冷冽，都好喜欢~</div> |
@@ -68,13 +68,13 @@ back on my way, was just lost in l.a.
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/490142)<br><br>2014-10-12 16:27<br>赞(1) 踩(0) | <div>挥手再见 大抵都是如此</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4135931)<br>拂了一身还满<br>2014-05-11 22:31<br>赞(2) 踩(0) | <div>听这首歌的时候 觉得空气也因为泪变得沉重了 但还是忍不住听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7891162)<br>暂无签名~<br>2014-04-04 00:14<br>赞(0) 踩(0) | <div>was lost.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2857420)<br>昨天晚上我梦见你<br>2013-11-11 19:58<br>赞(1) 踩(0) | <div>此情此景“永远快乐的你 像从来不懂得思念的滋味若不狠下心 我不知道如何面对转念之间 我差点愿意放弃一切留下来but i can&amp;#039;t stay, was lost in l.a.back on my way, was just lost in l.a.”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2857420)<br>昨天晚上我梦见你<br>2013-11-11 19:58<br>赞(1) 踩(0) | <div>此情此景<br><br>“永远快乐的你 像从来不懂得思念的滋味<br>若不狠下心 我不知道如何面对<br>转念之间 我差点愿意放弃一切留下来<br>but i can&amp;#039;t stay, was lost in l.a.<br>back on my way, was just lost in l.a.”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24770338)<br>天气不似预期…<br>2013-10-28 15:23<br>赞(0) 踩(0) | <div>歌词好实称 = =</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11400985)<br>我还没想好要写什么...<br>2013-10-08 13:02<br>赞(0) 踩(0) | <div>好吧,真的lost in LA了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6507607)<br>请把我的尸体埋在音乐里。<br>2013-08-28 22:31<br>赞(0) 踩(0) | <div>有另个版本是谁的来着？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2104677)<br>我还没想好要写什么...<br>2013-09-29 16:04<br>赞(0) 踩(0) | <div>at 17 他妹妹的组合</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6507607)<br>请把我的尸体埋在音乐里。<br>2013-09-29 18:31<br>赞(0) 踩(0) | <div><q><b>外太空路人丁说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7428774)<br>我还没想好要写什么...<br>2013-08-06 08:47<br>赞(1) 踩(0) | <div>永远快乐的你 好像从来不懂得思念的滋味你随便挥挥手 就能吹落我的眼泪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7428774)<br>我还没想好要写什么...<br>2013-08-06 08:47<br>赞(1) 踩(0) | <div>永远快乐的你 好像从来不懂得思念的滋味<br>你随便挥挥手 就能吹落我的眼泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3669839)<br>1<br>2012-06-14 01:20<br>赞(0) 踩(0) | <div>永远快乐的你，像从来不懂得思念的滋味。若不狠下心，我不知道如何面对。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8054968)<br>妄想走近 因此生出了遗憾<br>2012-06-11 13:18<br>赞(1) 踩(0) | <div>忘了单曲循环多少次，至少他连名字也那么美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6919730)<br><br>2012-05-10 23:04<br>赞(0) 踩(0) | <div>结实的拥抱 抱不住脆弱的关系</div> |
@@ -89,4 +89,4 @@ back on my way, was just lost in l.a.
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432214)<br><br>2009-11-07 15:20<br>赞(0) 踩(0) | <div>lost in L.A-思路-心雪  三联放</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230382)<br>趁还来得及文艺<br>2009-07-22 17:14<br>赞(0) 踩(0) | <div>失去你, 迷失又如何?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203769)<br><br>2009-07-18 13:52<br>赞(0) 踩(0) | <div>这个还不错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6034)<br><br>2009-06-27 10:55<br>赞(0) 踩(0) | <div>永遠快樂的你　像從來不懂得思念的滋味 若不狠下心　我不知道如何面對06.27更新</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6034)<br><br>2009-06-27 10:55<br>赞(0) 踩(0) | <div>永遠快樂的你　像從來不懂得思念的滋味 若不狠下心　我不知道如何面對<br>06.27更新</div> |

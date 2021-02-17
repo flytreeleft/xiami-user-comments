@@ -56,5 +56,3 @@ I don't feel like coming down <br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

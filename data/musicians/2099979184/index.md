@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/18c474726bdc1347e75a1662de8aa194.jpg)<br>赵霏儿](https://i.xiami.com/zhaofeier) | **播放数**: 934891<br>**粉丝数**: 102<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/18c474726bdc1347e75a1662de8aa194.jpg)<br>赵霏儿](https://i.xiami.com/zhaofeier) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 934891<br>**粉丝数**: 102<br>**评论数**: 7<br> |
 
 ## 档案
 
@@ -35,8 +35,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6574950)<br><br>2020-04-28 23:09<br>赞(1) 踩(0) | <div>支持，霏儿加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-03-28 20:05<br>赞(1) 踩(0) | <div>40206</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259438775)<br>一曲肝肠断，天涯何处觅知...<br>2020-01-29 14:00<br>赞(1) 踩(0) | <div>支持下 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../images/comments/e44d95099808df6f9a2b8f4961447063.png"> <img src="../../images/comments/aef814d405ecc3ca2a3d50288c9a0e48.png"></div> |

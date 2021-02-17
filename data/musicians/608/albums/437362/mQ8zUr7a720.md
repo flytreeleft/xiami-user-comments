@@ -12,24 +12,21 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/133651328)<br><br>2019-11-17 07:19<br>赞(1) 踩(0) | <div>看赵薇导游的大明宫词的试镜戏，剧安排的很好，配合背景音乐演绎出了宿命轮回的爱恋感，让我久久不能释怀，半睡半醒中还记得这个旋律和调调，爬起来搜索这首歌。这才发现又是喜欢的林海作曲，爱。谢谢你❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95093648)<br>什么新歌 我不懂 我不会...<br>2019-07-06 15:20<br>赞(4) 踩(0) | <div>这部剧的颜色从来不是明艳的大红色 而是蒙上了一层古老的 掉漆的 沉重色彩 却因此更加高贵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2849503)<br><br>2019-03-30 16:18<br>赞(1) 踩(0) | <div>被忽略的一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406611642)<br><br>2018-11-07 22:43<br>赞(1) 踩(0) | <div>终于找到一个时间少点的了。凑点能量容易嘛我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350136488)<br><br>2018-09-07 11:58<br>赞(0) 踩(0) | <div>致敬林海，大爱！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232587890)<br>谢谢虾米<br>2018-08-19 02:19<br>赞(1) 踩(0) | <div>最爱的一首一年前与今天一切大相径庭痛苦使我憔悴听到这曲 依旧泪目</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232587890)<br>谢谢虾米<br>2018-08-19 02:19<br>赞(1) 踩(0) | <div>最爱的一首<br>一年前与今天一切大相径庭<br>痛苦使我憔悴<br>听到这曲 依旧泪目</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296467688)<br>塞上耳机便是一个人的世界...<br>2018-06-12 02:23<br>赞(0) 踩(0) | <div>曾经的大明宫......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129290002)<br>爱别人，更要爱自己。<br>2018-05-24 06:27<br>赞(2) 踩(0) | <div>笛子一出来我真的感动了，满满中国风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314889701)<br><br>2017-07-28 23:11<br>赞(2) 踩(0) | <div>真心不错。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49749637)<br> <br>2017-06-04 23:21<br>赞(21) 踩(0) | <div>庭院深深深几许，杨柳堆烟，帘幕无重数。玉勒雕鞍游冶处，楼高不见章台路。雨横风狂三月暮，门掩黄昏，无计留春住。泪眼问花花不语，乱红飞过秋千去。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49749637)<br> <br>2017-06-04 23:21<br>赞(21) 踩(0) | <div>庭院深深深几许，杨柳堆烟，帘幕无重数。玉勒雕鞍游冶处，楼高不见章台路。<br>雨横风狂三月暮，门掩黄昏，无计留春住。泪眼问花花不语，乱红飞过秋千去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238155489)<br> <br>2017-05-20 20:00<br>赞(9) 踩(0) | <div>凉风不尽画苍凉，微雨飘洒落殇肠。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15827794)<br>Do it<br>2017-03-09 23:18<br>赞(2) 踩(0) | <div>哎呀妈呀，虾米热评都是诗人纳，诗人也</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83238026)<br>人生大抵如此，不忍心、不...<br>2016-12-09 14:16<br>赞(14) 踩(0) | <div>绮丽神秘的大唐，莎翁式的对白，太平公主贵族教养的气息，林海魔力般的音乐</div> |

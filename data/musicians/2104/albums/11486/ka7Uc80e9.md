@@ -40,8 +40,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38570375)<br>心野无疆<br>2020-03-24 02:06<br>赞(0) 踩(0) | <div>很感性的歌，是否让你想到很多以前的事。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38570375)<br>心野无疆<br>2020-03-24 02:05<br>赞(0) 踩(0) | <div>到处找，原来有收藏过。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88091712)<br> <br>2018-11-26 22:50<br>赞(0) 踩(0) | <div>版权回来吧 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -106,7 +106,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18055606)<br><br>2013-08-15 22:44<br>赞(0) 踩(0) | <div>nite</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8818169)<br><br>2013-08-13 00:56<br>赞(0) 踩(0) | <div>嗯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4872324)<br><br>2013-08-07 00:44<br>赞(0) 踩(0) | <div>茫了以后听很有感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2013-07-16 09:14<br>赞(0) 踩(0) | <div>真的会有那个人等我吗,或者青春就这么死去啦,孤独到底 就习惯这个样,那么久以前 童话里 有好多的爱情...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2013-07-16 09:14<br>赞(0) 踩(0) | <div>真的会有那个人等我吗,<br>或者青春就这么死去啦,<br>孤独到底 就习惯这个样,<br>那么久以前 童话里 有好多的爱情...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16019394)<br><br>2013-07-15 09:30<br>赞(0) 踩(0) | <div>到那兒 都不能&amp;quot;不再想念&amp;quot; 尤其是父母 愛人 孩子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3495039)<br><br>2013-07-14 23:29<br>赞(0) 踩(0) | <div>好催泪的嗓音.....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4758357)<br>我还没想好要写什么...<br>2013-07-10 22:06<br>赞(1) 踩(0) | <div>戳心！</div> |
@@ -119,7 +119,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13199981)<br><br>2013-02-23 15:33<br>赞(0) 踩(0) | <div>十年前听到这首歌，立即就喜欢了。今天翻开当年的日志。又再次听到这首歌。依旧还是喜欢。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51484)<br>我还没想好要写什么...<br>2013-02-04 08:38<br>赞(0) 踩(0) | <div>真的会有那个人等我吗，或者青春就这么死去啦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12663076)<br><br>2013-01-24 11:57<br>赞(0) 踩(0) | <div>或许，我的青春就这么死去啦……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2616268)<br><br>2012-11-17 20:08<br>赞(0) 踩(0) | <div>真的会有那个人等我吗或者青春就这么死去啦孤独到底 就习惯这个样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2616268)<br><br>2012-11-17 20:08<br>赞(0) 踩(0) | <div>真的会有那个人等我吗<br>或者青春就这么死去啦<br>孤独到底 就习惯这个样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2456832)<br><br>2012-11-07 06:35<br>赞(0) 踩(0) | <div>钢琴的合奏以及这种婉转的歌声，听着听着就陷进去了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2035877)<br><br>2012-09-26 19:46<br>赞(0) 踩(0) | <div>真的会有那个人等我吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97594)<br>我还没想好要写什么...<br>2012-09-07 23:37<br>赞(0) 踩(0) | <div>安</div> |
@@ -129,14 +129,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3964294)<br><br>2012-08-21 23:46<br>赞(0) 踩(0) | <div>睡！  不想了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4924341)<br><br>2012-08-19 00:44<br>赞(0) 踩(0) | <div>真的会有那个人等我吗？或者青春就这么死去啦，孤独到底，就习惯这个样....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7060920)<br><br>2012-08-11 19:01<br>赞(0) 踩(0) | <div>真的会有那个人等我吗　或者青春就这么死去了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1258576)<br><br>2012-07-19 12:29<br>赞(0) 踩(0) | <div>不会再有那样的一个年头了向梦想冲刺的感觉真的很好不抱任何期待的去爱一个人真的只有一次</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1258576)<br><br>2012-07-19 12:29<br>赞(0) 踩(0) | <div>不会再有那样的一个年头了<br>向梦想冲刺的感觉真的很好<br>不抱任何期待的去爱一个人真的只有一次</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4879883)<br><br>2012-07-15 15:25<br>赞(0) 踩(0) | <div>I gotta have faith... I will find love someday.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7805445)<br><br>2012-07-12 22:06<br>赞(0) 踩(0) | <div>#小如の晚安曲#[音乐盒]我能再次赤裸裸的放吗 不顾一切真能换到爱吗 伤透了心还可以后悔吗 真的会有那个人等我吗 或者青春就这么死去啦 孤独到底就习惯这个样……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9252920)<br>我不想因为你而改变自己<br>2012-06-18 13:51<br>赞(0) 踩(0) | <div>你的离去太残忍，有一种欲哭的悸动，殊不知泪水早已流尽。曾经的不死誓言，如烟花绚丽在那一万米的高空，点亮了别人的眼睛，寂寞了内心夜的深沉。我终要走出这黑夜的，就算再退缩，就算再懦弱，我也不会躲藏在记忆中，用回想滋润枯萎的心灵。待到天亮，你遥远的背影，已不再是我的风景。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8627048)<br><br>2012-05-29 14:30<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2934768)<br><br>2012-05-29 14:24<br>赞(0) 踩(0) | <div>很久之前听过过，现在听来格外有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7364786)<br><br>2012-03-26 01:25<br>赞(0) 踩(0) | <div>最近的单曲循环 晚上听特别上头 内心的百转千回全部释放--------「或者青春就这么死去啦」。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4327717)<br> <br>2012-03-14 23:28<br>赞(0) 踩(0) | <div>真的会有那个人等我吗或者青春就这么死去啦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4327717)<br> <br>2012-03-14 23:28<br>赞(0) 踩(0) | <div>真的会有那个人等我吗<br>或者青春就这么死去啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7845132)<br><br>2012-02-12 10:41<br>赞(0) 踩(0) | <div>真的会有那个人等我吗O__O&amp;amp;quot;，212顺子的生日，分享一首歌，生日快乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5808033)<br><br>2011-09-19 10:26<br>赞(0) 踩(0) | <div>秋天很適合聽順子!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91251)<br><br>2011-08-04 13:34<br>赞(0) 踩(0) | <div>谁还能再次赤裸裸的爱吗？</div> |
@@ -148,7 +148,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3859431)<br><br>2011-05-25 16:30<br>赞(0) 踩(0) | <div>美丽的旋律，哲理的歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3859431)<br><br>2011-05-25 16:29<br>赞(0) 踩(0) | <div>真的会有那个人等我吗，或者青春就这么死去啦------tell me</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/968793)<br>人生百年一瞬。<br>2011-02-07 20:08<br>赞(0) 踩(0) | <div>真的会有那个人等我吗，或者青春这么死去了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1224725)<br>最近很忙啷里个啷，奖励自...<br>2010-12-01 12:10<br>赞(0) 踩(0) | <div>真的会有那个人等我吗或者青春就这样死去啦……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1224725)<br>最近很忙啷里个啷，奖励自...<br>2010-12-01 12:10<br>赞(0) 踩(0) | <div>真的会有那个人等我吗<br>或者青春就这样死去啦……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/656646)<br><br>2010-11-05 08:14<br>赞(0) 踩(0) | <div>正在死去的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/993768)<br><br>2010-09-13 02:41<br>赞(0) 踩(0) | <div>不再想念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/706410)<br><br>2010-03-06 17:39<br>赞(0) 踩(0) | <div>顺子的歌都好惬意</div> |

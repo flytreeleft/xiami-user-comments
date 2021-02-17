@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>铜板板](https://i.xiami.com/tongbanban) | **播放数**: 2925535<br>**粉丝数**: 158<br>**评论数**: 16<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 民谣 Folk<br> |
+| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>铜板板](https://i.xiami.com/tongbanban) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 民谣 Folk<br>**播放数**: 2925535<br>**粉丝数**: 158<br>**评论数**: 16<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -44,8 +41,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356550110)<br><br>2020-03-24 12:22<br>赞(1) 踩(0) | <div>听了玲珑，好好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349719266)<br><br>2020-02-14 22:26<br>赞(0) 踩(0) | <div>很难忘！会一直陪伴每一天</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357333078)<br><br>2019-07-13 08:18<br>赞(1) 踩(0) | <div>加油！</div> |

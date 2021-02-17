@@ -3,7 +3,7 @@ CASH-WEI
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2fe2cdf823fe1bc27bdb449abd6420fa.jpg)<br>CASH-WEI](https://i.xiami.com/cash-wei) | **播放数**: 1372055<br>**粉丝数**: 192<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 粤语流行 Cantopop<br> |
+| [![](../../images/musicians/2fe2cdf823fe1bc27bdb449abd6420fa.jpg)<br>CASH-WEI](https://i.xiami.com/cash-wei) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 粤语流行 Cantopop<br>**播放数**: 1372055<br>**粉丝数**: 192<br>**评论数**: 8<br> |
 
 ## 档案
 
@@ -23,13 +23,11 @@ CASH-WEI
 
 ## 专辑
 
-| 名称 | 语种 | 唱片公司 | 发行时间 | 专辑类别 | 专辑风格 |
-| :--: | :-- | :-- | :-- | :-- | :-- |
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336173947)<br><br>2021-01-24 11:59<br>赞(0) 踩(0) | <div>暗地里着迷了 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284541855)<br>变的好懒，懒的社交。下班...<br>2021-01-22 23:19<br>赞(0) 踩(0) | <div>以后哪里可以听到这个版本的歌呢？虾米停后？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12473670)<br>知行合一<br>2021-01-02 07:07<br>赞(0) 踩(0) | <div>大师，给你跪了</div> |

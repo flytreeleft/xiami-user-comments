@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>杨少爵](https://i.xiami.com/a7) | **播放数**: 250834<br>**粉丝数**: 6<br>**评论数**: 1<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>杨少爵](https://i.xiami.com/a7) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 250834<br>**粉丝数**: 6<br>**评论数**: 1<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,6 +18,6 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440660557)<br>谁给我取的ID？<br>2020-12-31 21:39<br>赞(0) 踩(0) | <div>加油！</div> |

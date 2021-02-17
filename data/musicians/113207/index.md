@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/bd1bd4de8ad51e996d6da147c383113d.jpg)<br>九宝乐队](https://i.xiami.com/jiubao) | **播放数**: 4105995<br>**粉丝数**: 10870<br>**评论数**: 561<br>**地区**: China 中国大陆<br>**风格**: 民谣金属 Folk Metal<br> |
+| [![](../../images/musicians/bd1bd4de8ad51e996d6da147c383113d.jpg)<br>九宝乐队](https://i.xiami.com/jiubao) | **地区**: China 中国大陆<br>**风格**: 民谣金属 Folk Metal<br>**播放数**: 4105995<br>**粉丝数**: 10870<br>**评论数**: 561<br> |
 
 ## 档案
 
@@ -26,8 +26,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40285540)<br>摇滚的孩子不会老<br>2020-12-12 09:11<br>赞(0) 踩(0) | <div>各位老板，不知道你们有没有听过另一个版本，外国乐队的，也老牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446313426)<br><br>2020-12-12 05:29<br>赞(0) 踩(0) | <div>过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410680529)<br><br>2020-12-03 22:27<br>赞(0) 踩(0) | <div>好听</div> |
@@ -103,7 +103,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20147189)<br>嘘<br>2017-12-30 18:18<br>赞(2) 踩(0) | <div>大概是今晚迷笛最满人的一场了 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/721351)<br><br>2017-12-25 00:28<br>赞(1) 踩(0) | <div>九宝、萨满、颠覆M、杭盖，长脸了!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/721351)<br><br>2017-12-25 00:27<br>赞(0) 踩(0) | <div>才五千多收藏，严重不科学!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51973390)<br><br>2017-11-29 21:47<br>赞(0) 踩(0) | <div>九宝乐队2017年全国七城巡演站目信息：12/1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 重庆&amp;nbsp;&amp;nbsp;&amp;nbsp; 坚果LIVEHOUSE预售100现场150.两年了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51973390)<br><br>2017-11-29 21:47<br>赞(0) 踩(0) | <div>九宝乐队2017年全国七城巡演站目信息：<br>12/1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 重庆&amp;nbsp;&amp;nbsp;&amp;nbsp; 坚果LIVEHOUSE<br>预售100现场150.<br>两年了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8145056)<br>掬水见月一音成佛<br>2017-12-10 14:43<br>赞(0) 踩(0) | <div>兄弟，请问还有九宝乐队的现场演出的时间信息吗？谢谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6303001)<br>斗鸡走马过一世<br>2017-10-30 10:18<br>赞(1) 踩(0) | <div>好喜欢！最近疯狂迷恋九宝还有铁骑还有萨满还有还有还有。。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12385334)<br>灵魂在游走<br>2017-10-27 23:08<br>赞(2) 踩(0) | <div>不喜欢金属  喜欢民族</div> |
@@ -232,14 +232,14 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9604354)<br>last.fm/user...<br>2015-05-19 20:57<br>赞(0) 踩(0) | <div>「一旦接受了这种设定」</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5661692)<br><br>2015-05-15 14:05<br>赞(0) 踩(0) | <div>改成英文名之后这逼格上升了不止一大截，差点没认出来这是九宝</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2015-05-15 14:12<br>赞(0) 踩(0) | <div>包括歌名也都是英文在前哦~</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43182804)<br>最孤独的人<br>2015-05-18 21:17<br>赞(0) 踩(0) | <div>找到你了<img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43182804)<br>最孤独的人<br>2015-05-18 21:17<br>赞(0) 踩(0) | <div>找到你了<br><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5661692)<br><br>2015-05-18 21:18<br>赞(0) 踩(0) | <div><q><b>秽物之源说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6358975)<br>小粉菌<br>2015-06-15 16:08<br>赞(0) 踩(0) | <div><q><b>Nine Treasures说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37732946)<br><br>2015-05-14 21:53<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1571519)<br><br>2015-05-10 13:16<br>赞(2) 踩(0) | <div>不错 比颠覆M 长生天都有前途</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/975224)<br>卡哇辣鸡<br>2015-05-09 18:07<br>赞(0) 踩(0) | <div>等你们等得好辛苦 你们不来我都High不起来:)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1938644)<br>1月13日 20:30 ...<br>2015-05-09 13:30<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6358975)<br>小粉菌<br>2015-05-08 16:13<br>赞(0) 踩(0) | <div>有个叫张杰的新砖竟然模仿你们的砖封<a href="http://www.xiami.com/album/1109119668" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/album/1109119668</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6358975)<br>小粉菌<br>2015-05-08 16:13<br>赞(0) 踩(0) | <div>有个叫张杰的新砖竟然模仿你们的砖封<br><br><a href="http://www.xiami.com/album/1109119668" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/album/1109119668</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2733113)<br>暂无签名~<br>2015-05-11 19:10<br>赞(0) 踩(0) | <div>真的！不过现在杭盖头像也让我误认成九宝...流行趋势么...</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6358975)<br>小粉菌<br>2015-05-12 10:09<br>赞(0) 踩(0) | <div><q><b>Chilcho说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1285340)<br>我是窝喵<br>2015-06-12 20:41<br>赞(0) 踩(0) | <div>闰土真不要脸！</div> |
@@ -298,14 +298,14 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1980579)<br>chaos<br>2015-01-19 13:23<br>赞(0) 踩(0) | <div>太棒了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9172387)<br>我还没想好要写什么...<br>2015-01-18 07:46<br>赞(0) 踩(0) | <div>好喜欢，燥起来！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7235462)<br><br>2015-01-17 23:35<br>赞(0) 踩(0) | <div>现场真他妈过瘾啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10813478)<br>黑白分明该杀就杀<br>2015-01-14 11:03<br>赞(2) 踩(0) | <div>01. Galloping White Horse02. Through Pain03. Nuutshai Chadal (Live)04. Nomin Dalai (Live)05. Arvan Ald Guulin Honshoor (Live)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10813478)<br>黑白分明该杀就杀<br>2015-01-14 11:03<br>赞(2) 踩(0) | <div>01. Galloping White Horse<br>02. Through Pain<br>03. Nuutshai Chadal (Live)<br>04. Nomin Dalai (Live)<br>05. Arvan Ald Guulin Honshoor (Live)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33539378)<br><br>2015-01-11 00:03<br>赞(0) 踩(0) | <div>九宝牛逼！头疼去看现场结果一首跳下来完全好了！马头琴solo和长调简直是惊喜！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10813478)<br>黑白分明该杀就杀<br>2015-01-10 13:50<br>赞(1) 踩(0) | <div>ep今天发吗?</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2015-01-10 13:56<br>赞(0) 踩(0) | <div>发！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10813478)<br>黑白分明该杀就杀<br>2017-10-27 23:35<br>赞(0) 踩(0) | <div><q><b>Nine Treasures说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28140758)<br>一表人渣、<br>2015-01-02 22:46<br>赞(0) 踩(0) | <div>啊啊啊啊啊啊啊九宝</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44819686)<br>暂无签名~<br>2014-12-31 18:15<br>赞(0) 踩(0) | <div>九宝牛逼！噪起来！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10934528)<br>我还没想好要写什么...<br>2014-12-30 22:20<br>赞(0) 踩(0) | <div>又听到九宝了，真喜欢。我们这有个地方叫九堡。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10934528)<br>我还没想好要写什么...<br>2014-12-30 22:20<br>赞(0) 踩(0) | <div>又听到九宝了，真喜欢。<br>我们这有个地方叫九堡。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46919034)<br> <br>2015-02-18 08:02<br>赞(0) 踩(0) | <div>杭州 九堡吗 哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10934528)<br>我还没想好要写什么...<br>2015-02-18 21:29<br>赞(0) 踩(0) | <div><q><b>奔跑的蛋蛋兄说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9890261)<br>I wish I was...<br>2014-12-28 18:13<br>赞(0) 踩(0) | <div>好尼玛后悔没去小酒馆看九宝！！！</div> |
@@ -338,7 +338,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7132899)<br>暂无签名~<br>2014-11-28 00:37<br>赞(0) 踩(0) | <div>看过九宝的演出，狂风中怒吼吧！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37689523)<br>听音乐→_→rock<br>2014-11-26 19:51<br>赞(0) 踩(0) | <div>牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6053083)<br>很不高兴为您服务<br>2014-11-21 00:09<br>赞(0) 踩(0) | <div>说好的EP呢！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2014-11-24 19:29<br>赞(0) 踩(0) | <div>EP 在1月10号北京首发~这次巡演打乱了原来的计划~</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2014-11-24 19:29<br>赞(0) 踩(0) | <div>EP 在1月10号北京首发~<br>这次巡演打乱了原来的计划~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6053083)<br>很不高兴为您服务<br>2014-11-25 22:06<br>赞(0) 踩(0) | <div><q><b>Nine Treasures说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11827510)<br><br>2014-11-19 00:36<br>赞(0) 踩(0) | <div>sonsii sonsii！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/466627)<br>我还没想好要写什么...<br>2014-11-18 12:05<br>赞(0) 踩(0) | <div>@郑Fan 听听是不是你好那口</div> |
@@ -375,7 +375,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2014-10-28 16:26<br>赞(0) 踩(0) | <div><q><b>Blackbird说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1285340)<br>我是窝喵<br>2014-10-30 10:40<br>赞(0) 踩(0) | <div><q><b>Nine Treasures说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2754748)<br><br>2014-12-31 21:33<br>赞(0) 踩(0) | <div><q><b>Nine Treasures说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11688971)<br>ཤུགས་རྒྱོབ།<br>2014-10-24 23:10<br>赞(4) 踩(0) | <div>对比了铁骑和颠覆M，还是喜欢九宝的唱法~~~威猛之余也很有亲和力，粗犷而纯粹，不是那种很极端很冷酷的声线。前卫中透露出醇厚的民族情怀。正如介绍里面的“他们的创作更以民族曲调和律动为主线，为我们显示出了更为纯粹的民族音乐感觉”，ཧ་ཅང་ཡག་པོ་འདུག།先是杭盖，然后又有九宝，都是让人一听着迷的（尤其是我这种原本从听民乐转过来的）。民族音乐走向世界，估计蒙古族是国内那么多民族里面最成功走得最远的吧。（PS：天杵什么的也要后继有人才行啊~~~T_T）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11688971)<br>ཤུགས་རྒྱོབ།<br>2014-10-24 23:10<br>赞(4) 踩(0) | <div>对比了铁骑和颠覆M，还是喜欢九宝的唱法~~~<br>威猛之余也很有亲和力，粗犷而纯粹，不是那种很极端很冷酷的声线。前卫中透露出醇厚的民族情怀。正如介绍里面的“他们的创作更以民族曲调和律动为主线，为我们显示出了更为纯粹的民族音乐感觉”，ཧ་ཅང་ཡག་པོ་འདུག།<br>先是杭盖，然后又有九宝，都是让人一听着迷的（尤其是我这种原本从听民乐转过来的）。民族音乐走向世界，估计蒙古族是国内那么多民族里面最成功走得最远的吧。（PS：天杵什么的也要后继有人才行啊~~~T_T）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38876938)<br>。<br>2014-10-23 07:53<br>赞(0) 踩(0) | <div>长江迷笛太过牛逼！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2014-10-23 13:19<br>赞(0) 踩(0) | <div>长江迷笛我们的采样出了问题，所以临时决定没有用。要不然效果更佳~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1288462)<br><br>2014-10-22 21:23<br>赞(0) 踩(0) | <div>明年什么时候来成都！？</div> |
@@ -387,7 +387,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28962678)<br><br>2014-10-22 17:39<br>赞(0) 踩(0) | <div>11月坚果重庆见</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2017-10-27 23:24<br>赞(0) 踩(0) | <div>重庆准确时间为12月6号 场地：坚果Livehouse ， 11月份坚果俱乐部的是错误消息。 望广而告之身边的朋友~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2014-10-21 16:03<br>赞(0) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3998105)<br>圣诞节快乐<br>2014-10-21 14:58<br>赞(0) 踩(0) | <div><a href="http://shop106109947.taobao.com/search.htm?spm=a1z10.3.0.0.0bDmJJ&amp;amp;search=y" target="_blank" rel="nofollow noreferrer noopener">http://shop106109947.taobao.com/search.htm?spm=a1z10.3.0.0.0bDmJJ&amp;amp;search=y</a>掌柜：九宝乐队ninetreasures？？？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3998105)<br>圣诞节快乐<br>2014-10-21 14:58<br>赞(0) 踩(0) | <div><a href="http://shop106109947.taobao.com/search.htm?spm=a1z10.3.0.0.0bDmJJ&amp;amp;search=y" target="_blank" rel="nofollow noreferrer noopener">http://shop106109947.taobao.com/search.htm?spm=a1z10.3.0.0.0bDmJJ&amp;amp;search=y</a><br>掌柜：九宝乐队ninetreasures？？？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2014-10-21 16:03<br>赞(0) 踩(0) | <div>嘘~~~~~~~~~~还没对外公布呢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1288462)<br><br>2014-10-22 21:14<br>赞(0) 踩(0) | <div><q><b>Nine Treasures说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1288462)<br><br>2014-10-22 21:34<br>赞(0) 踩(0) | <div><q><b>Nine Treasures说：</b></q></div> |
@@ -426,8 +426,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37056674)<br><br>2014-09-26 09:49<br>赞(0) 踩(0) | <div>期待2014EP 九宝继续！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6735016)<br>toomuch<br>2014-09-20 00:18<br>赞(1) 踩(0) | <div>居然还不错嘛，现场肯定更精彩一点。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1285340)<br>我是窝喵<br>2014-09-13 09:34<br>赞(0) 踩(0) | <div>为毛不来南京....</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4406065)<br>（闷树）<br>2014-09-07 17:01<br>赞(0) 踩(0) | <div>请教，内蒙古和外蒙古语言上相同相通吗？~？~？我喜欢内蒙的金属，外蒙的说唱，听起来总感觉上发音和音调有区别。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2014-09-08 03:24<br>赞(0) 踩(0) | <div>可以这么比较 内地普通话---台湾普通话一些名词上略有不同，比如 内地高达---台湾敢达其他的只要双方积极沟通的话交流上肯定是没问题的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4406065)<br>（闷树）<br>2014-09-07 17:01<br>赞(0) 踩(0) | <div>请教，内蒙古和外蒙古语言上相同相通吗？~？~？<br><br>我喜欢内蒙的金属，外蒙的说唱，听起来总感觉上发音和音调有区别。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2014-09-08 03:24<br>赞(0) 踩(0) | <div>可以这么比较 内地普通话---台湾普通话<br>一些名词上略有不同，比如 内地高达---台湾敢达<br>其他的只要双方积极沟通的话交流上肯定是没问题的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4406065)<br>（闷树）<br>2014-09-08 19:12<br>赞(0) 踩(0) | <div><q><b>Nine Treasures说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2014-09-08 23:21<br>赞(0) 踩(0) | <div><q><b>闷树说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1486785)<br>嗡是后鼻音<br>2014-09-21 14:48<br>赞(0) 踩(0) | <div><q><b>Nine Treasures说：</b></q></div> |
@@ -448,7 +448,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/616285)<br>我还没想好要写什么...<br>2014-07-17 23:45<br>赞(0) 踩(0) | <div>完全停不下来啊...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39067481)<br>我还没想好要写什么...<br>2014-07-17 01:30<br>赞(0) 踩(0) | <div>蒙古人    得儿得儿滴</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/820599)<br>愿圣光照耀你 我的敌人<br>2014-07-15 19:10<br>赞(0) 踩(0) | <div>感觉相对于维京金属 俺们大中国的就是蒙古的金属了</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2014-07-16 00:20<br>赞(0) 踩(0) | <div>也不排除未来几年能出现一个有古筝的汉文化的金属乐。到那时候只要音乐做的好的话那前途是不可限量的。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2014-07-16 00:20<br>赞(0) 踩(0) | <div>也不排除未来几年能出现一个有古筝的汉文化的金属乐。<br>到那时候只要音乐做的好的话那前途是不可限量的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1536353)<br><br>2014-07-25 08:44<br>赞(0) 踩(0) | <div><q><b>Nine Treasures说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2014-07-25 15:10<br>赞(0) 踩(0) | <div><q><b>Rock说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226299)<br><br>2014-07-10 11:49<br>赞(0) 踩(0) | <div>跟铁骑的区别就是民用和军用</div> |
@@ -511,7 +511,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37056674)<br><br>2014-09-26 09:51<br>赞(0) 踩(0) | <div><q><b>Nine Treasures说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11133506)<br>勇敢、努力地去争取自己想...<br>2014-03-31 16:47<br>赞(1) 踩(0) | <div>现场更好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11133506)<br>勇敢、努力地去争取自己想...<br>2014-03-31 16:47<br>赞(0) 踩(0) | <div>还是很特别的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6171336)<br>谢谢9年陪伴，你依然是我...<br>2014-03-30 23:28<br>赞(1) 踩(0) | <div>330现场太特么棒了 他们现场真的让人很惊喜几乎所有人都跳起来了 老外也跳起了蒙古舞另，主唱好搞啊哈哈哈</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6171336)<br>谢谢9年陪伴，你依然是我...<br>2014-03-30 23:28<br>赞(1) 踩(0) | <div>330现场太特么棒了 他们现场真的让人很惊喜<br>几乎所有人都跳起来了 老外也跳起了蒙古舞<br>另，主唱好搞啊哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31992271)<br>我还没想好要写什么...<br>2014-04-04 18:21<br>赞(0) 踩(0) | <div>就是冲着萨满 九宝还有颠覆去的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6171336)<br>谢谢9年陪伴，你依然是我...<br>2014-04-04 18:34<br>赞(0) 踩(0) | <div><q><b>kid 04说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31992271)<br>我还没想好要写什么...<br>2014-04-04 21:06<br>赞(0) 踩(0) | <div><q><b>Das Beste说：</b></q></div> |
@@ -536,7 +536,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18243027)<br>Kommunismus!<br>2014-02-08 20:58<br>赞(0) 踩(0) | <div>那是壹叁年新专辑里的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14693579)<br><br>2014-07-16 00:35<br>赞(0) 踩(0) | <div>现在有了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2659823)<br>人間發電所<br>2014-01-01 17:31<br>赞(1) 踩(0) | <div>最佳新人，恭喜！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1647163)<br>我不认识你<br>2013-12-10 17:34<br>赞(0) 踩(0) | <div>九宝乐队的磁粉音乐人主页，和其他乐迷一起交流：<a href="http://www.cifans.net/apps/artist/index.php?s=/Artist/index/aid/533" target="_blank" rel="nofollow noreferrer noopener">http://www.cifans.net/apps/artist/index.php?s=/Artist/index/aid/533</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1647163)<br>我不认识你<br>2013-12-10 17:34<br>赞(0) 踩(0) | <div>九宝乐队的磁粉音乐人主页，和其他乐迷一起交流：<br><a href="http://www.cifans.net/apps/artist/index.php?s=/Artist/index/aid/533" target="_blank" rel="nofollow noreferrer noopener">http://www.cifans.net/apps/artist/index.php?s=/Artist/index/aid/533</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6668166)<br><br>2013-12-10 08:39<br>赞(0) 踩(0) | <div>蒙古folk metal</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4504)<br>微胖界翘楚~<br>2013-12-04 16:42<br>赞(0) 踩(0) | <div>有没有懂蒙语的，给歌词们翻译翻译吧~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4504)<br>微胖界翘楚~<br>2013-12-04 16:40<br>赞(0) 踩(0) | <div>九宝牛逼！</div> |

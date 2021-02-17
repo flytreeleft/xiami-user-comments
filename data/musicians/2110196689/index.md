@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3d557615cbda37da1836877e7dd2fb2f.jpg)<br>家雀儿乐队](https://i.xiami.com/jiaqiaoer) | **播放数**: 90218<br>**粉丝数**: 216<br>**评论数**: 10<br>**地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 摇滚 Rock & Roll, 后摇 Post-Rock, 流行摇滚 Pop Rock<br> |
+| [![](../../images/musicians/3d557615cbda37da1836877e7dd2fb2f.jpg)<br>家雀儿乐队](https://i.xiami.com/jiaqiaoer) | **地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 摇滚 Rock & Roll, 后摇 Post-Rock, 流行摇滚 Pop Rock<br>**播放数**: 90218<br>**粉丝数**: 216<br>**评论数**: 10<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,8 +18,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288536407)<br><br>2021-01-14 11:18<br>赞(0) 踩(0) | <div>有点意思的乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52452667)<br>青春的人兒啊，想想一個人...<br>2019-01-17 00:30<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/536056)<br>记得下辈子早点来娶我…<br>2018-11-15 22:09<br>赞(0) 踩(0) | <div>可以多写写自我介绍呀</div> |

@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b7ec6ce232008457996f8021d5ecee39.jpg)<br>吴漾](https://i.xiami.com/wuyang) | **播放数**: 892031<br>**粉丝数**: 1064<br>**评论数**: 24<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 民谣 Folk<br> |
+| [![](../../images/musicians/b7ec6ce232008457996f8021d5ecee39.jpg)<br>吴漾](https://i.xiami.com/wuyang) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 民谣 Folk<br>**播放数**: 892031<br>**粉丝数**: 1064<br>**评论数**: 24<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -19,8 +16,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421459)<br>董小姐，你熄灭了烟，谈起...<br>2020-10-30 23:33<br>赞(0) 踩(0) | <div>很干净的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302729102)<br>木秀于林，岛离于世<br>2020-07-03 02:59<br>赞(0) 踩(0) | <div>看小图logo以为是女生，点开看大图，嗯！是个秀气才子。期待更多作品！加油 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442241816)<br><br>2020-05-24 19:15<br>赞(0) 踩(0) | <div>祝你梦想成真，我希望这是你的真实歌手名字。</div> |

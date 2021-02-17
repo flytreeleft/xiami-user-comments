@@ -3,7 +3,7 @@ KnowKnow
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b508b7aa51ed3afe1441f1da81a9ed9a.jpg)<br>KnowKnow](https://i.xiami.com/dzknow) | **播放数**: 11931940<br>**粉丝数**: 25712<br>**评论数**: 632<br>**地区**: China 中国大陆<br>**风格**: 嘻哈 Hip-Hop<br> |
+| [![](../../images/musicians/b508b7aa51ed3afe1441f1da81a9ed9a.jpg)<br>KnowKnow](https://i.xiami.com/dzknow) | **地区**: China 中国大陆<br>**风格**: 嘻哈 Hip-Hop<br>**播放数**: 11931940<br>**粉丝数**: 25712<br>**评论数**: 632<br> |
 
 ## 档案
 
@@ -55,12 +55,12 @@ KnowKnow (丁震)，说唱歌手，嘻哈组合Higher Brothers成员。<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54939396)<br>虾米音乐陪葬品<br>2020-06-12 11:51<br>赞(0) 踩(0) | <div>。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47504940)<br> <br>2020-03-17 10:36<br>赞(2) 踩(0) | <div>开了个工众号。【NextSteps】每天10点更新下架中文说唱，你想要的都会有。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47504940)<br> <br>2020-03-17 10:36<br>赞(2) 踩(0) | <div>开了个工众号。<br><br>【NextSteps】每天10点更新下架中文说唱，你想要的都会有。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9879051)<br><br>2020-02-03 18:49<br>赞(1) 踩(0) | <div>能不能发布Knowknow现在大火的《R&amp;B all night》？<a href="http://emumo.xiami.com/u/45572167" target="_blank" rel="nofollow" name_card="45572167">@希小天</a> <a href="http://emumo.xiami.com/u/38918617" target="_blank" rel="nofollow" name_card="38918617">@方小猪Kellen</a> <a href="http://emumo.xiami.com/u/2871" target="_blank" rel="nofollow" name_card="2871">@虾小编</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52366814)<br><br>2019-12-17 11:11<br>赞(0) 踩(0) | <div>新专辑了，虾米没有。。。r&amp;b all night....</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52366814)<br><br>2019-12-17 11:11<br>赞(0) 踩(0) | <div>新专辑了，虾米没有。。。<br>r&amp;b all night....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287815898)<br>高考去了88<br>2019-12-15 10:07<br>赞(0) 踩(0) | <div>新专辑？R&amp;B all night</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9732607)<br>Studio is da...<br>2019-12-14 10:27<br>赞(0) 踩(0) | <div>虾米真的。。可以关门了吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86605462)<br>那故事仓促结束不到气绝便...<br>2019-12-12 07:29<br>赞(0) 踩(0) | <div>R&amp;....</div> |
@@ -108,7 +108,7 @@ KnowKnow (丁震)，说唱歌手，嘻哈组合Higher Brothers成员。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20038882)<br>。<br>2018-03-23 19:32<br>赞(1) 踩(0) | <div>我太想听mp3了呜呜呜呜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339477906)<br><br>2018-03-21 21:31<br>赞(1) 踩(0) | <div>我已经深深的爱上他了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353101643)<br><br>2018-03-03 17:55<br>赞(1) 踩(0) | <div>哇靠</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47736615)<br>年轻的祖国flower<br>2018-02-25 22:26<br>赞(2) 踩(0) | <div>dz是唱歌是唱的唱</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47736615)<br>年轻的祖国flower<br>2018-02-25 22:26<br>赞(2) 踩(0) | <div>dz是唱歌<br>是唱的<br>唱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322977945)<br>喜欢有趣的.<br>2018-02-13 02:03<br>赞(2) 踩(0) | <div>自信的吹口哨 五百斤很拿样</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47046066)<br> <br>2018-01-25 02:20<br>赞(3) 踩(0) | <div>phone谁有资源能发给我 十分感谢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347581874)<br><br>2018-06-05 11:57<br>赞(0) 踩(0) | <div>我也想要！</div> |
@@ -329,8 +329,8 @@ KnowKnow (丁震)，说唱歌手，嘻哈组合Higher Brothers成员。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29230195)<br>Gubba nub nu...<br>2016-10-06 15:30<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52574966)<br>蛋疼的人才听音药<br>2016-10-02 10:33<br>赞(10) 踩(0) | <div>被法老吓怕了是么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75346412)<br> <br>2016-09-24 23:19<br>赞(0) 踩(0) | <div>。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228954592)<br> <br>2016-09-22 20:26<br>赞(4) 踩(0) | <div>我牛逼！我嚣张！玩起说唱奔小康！¥€$</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228954592)<br> <br>2016-09-22 20:05<br>赞(0) 踩(0) | <div>全场6分已经给你面子了以后全场3分¥€$</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228954592)<br> <br>2016-09-22 20:26<br>赞(4) 踩(0) | <div>我牛逼！我嚣张！<br>玩起说唱奔小康！<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>¥€$</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228954592)<br> <br>2016-09-22 20:05<br>赞(0) 踩(0) | <div>全场6分已经给你面子了<br>以后全场3分<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>¥€$</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81031362)<br>这家伙很酷什么也没留下....<br>2016-09-20 13:10<br>赞(0) 踩(0) | <div>头像里只看到马师 <img src="../../images/comments/0590342800944c9cbf70e4e78ed6027a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45017963)<br>谈爱已老  谈死太早❤<br>2016-09-16 18:27<br>赞(0) 踩(0) | <div>KNOW</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127210484)<br> <br>2016-09-05 00:08<br>赞(0) 踩(0) | <div>什么时候来深圳唱一定捧场</div> |
@@ -640,7 +640,7 @@ KnowKnow (丁震)，说唱歌手，嘻哈组合Higher Brothers成员。<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44180874)<br>HIGHERBROTHE...<br>2015-05-18 00:42<br>赞(0) 踩(0) | <div>wechat</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12760191)<br> <br>2017-10-27 22:57<br>赞(0) 踩(0) | <div><q><b>KnowKnow说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38716899)<br><br>2015-05-16 10:15<br>赞(0) 踩(0) | <div>请问你有没有实体专辑卖？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50071306)<br><br>2015-05-15 04:06<br>赞(0) 踩(0) | <div>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$wag</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50071306)<br><br>2015-05-15 04:06<br>赞(0) 踩(0) | <div>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br>$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$<br>$$$$$$$$$$$$$$$$$$$$$$$$$$$wag</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8089303)<br><br>2015-05-13 19:27<br>赞(0) 踩(0) | <div>喜欢这个风格 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10969642)<br><br>2015-05-12 20:16<br>赞(0) 踩(0) | <div>终于听到赞爆的flow了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38867465)<br>我还没想好要写什么...<br>2015-05-12 00:04<br>赞(0) 踩(0) | <div>my dirty mouth不错 喜欢你的声音 加油，别走歪了就行。</div> |
@@ -653,7 +653,7 @@ KnowKnow (丁震)，说唱歌手，嘻哈组合Higher Brothers成员。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43041427)<br>核是力量<br>2015-04-27 22:05<br>赞(0) 踩(0) | <div>南京方言完美融入，trap元素十分badass，这才叫中国hip-hop好吧！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31309767)<br>₩hy So $wagg...<br>2015-04-27 21:55<br>赞(0) 踩(0) | <div>真心屌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10320682)<br><br>2015-04-27 21:12<br>赞(0) 踩(0) | <div>hola at ya</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1502)<br>小左和小右<br>2015-04-27 17:30<br>赞(0) 踩(0) | <div>橙live，比一名屌。就这一句。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1502)<br>小左和小右<br>2015-04-27 17:30<br>赞(0) 踩(0) | <div>橙live，比一名屌。<br>就这一句。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30054825)<br>想听新歌 去网易云找我吧<br>2015-04-26 06:39<br>赞(0) 踩(0) | <div>太喜欢你的flow了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44180874)<br>HIGHERBROTHE...<br>2015-04-26 11:36<br>赞(0) 踩(0) | <div>继续努力~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30054825)<br>想听新歌 去网易云找我吧<br>2015-04-28 03:50<br>赞(0) 踩(0) | <div><q><b>KnowKnow说：</b></q></div> |
@@ -667,7 +667,7 @@ KnowKnow (丁震)，说唱歌手，嘻哈组合Higher Brothers成员。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48878691)<br><br>2015-04-13 14:28<br>赞(0) 踩(0) | <div>baby boy</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37753072)<br>我还没想好要写什么...<br>2015-04-06 11:55<br>赞(0) 踩(0) | <div>杜海涛？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37436675)<br>这个人是条懒狗，什么都没...<br>2015-04-02 20:26<br>赞(0) 踩(0) | <div>┗(｀ー´)┓</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35373666)<br>trap love<br>2015-03-30 10:43<br>赞(0) 踩(0) | <div>yellow nagga trap！！！大爱。太牛逼</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35373666)<br>trap love<br>2015-03-30 10:43<br>赞(0) 踩(0) | <div>yellow nagga trap！！！<br>大爱。太牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37128312)<br><br>2015-03-20 16:39<br>赞(0) 踩(0) | <div>大赞一下</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30054825)<br>想听新歌 去网易云找我吧<br>2015-03-16 14:12<br>赞(1) 踩(0) | <div>这感觉牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46034519)<br>✈️<br>2015-03-16 09:00<br>赞(2) 踩(0) | <div>Nice bro</div> |

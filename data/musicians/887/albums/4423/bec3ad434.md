@@ -109,8 +109,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-22 00:40<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9650751)<br><br>2017-10-30 10:19<br>赞(0) 踩(0) | <div>理想算个屁啊，爱情算什么东西，，，，，我不想变成一种悲哀，也不想变成一个粪土，我想在死去前觉醒，为了心底的骄傲和光阴，。。。为了生命的尊严与梦想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2606798)<br><br>2017-10-30 10:17<br>赞(0) 踩(0) | <div>理想算个屁啊！？爱情算什么东西！？汪老师的歌总是给有思想的人太多觉悟。</div> |
@@ -118,9 +118,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4416652)<br><br>2017-10-30 10:12<br>赞(0) 踩(0) | <div>自由算个屁啊，永恒算什么东西，是非总是在变，我也不想这样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2618091)<br><br>2017-10-28 00:19<br>赞(0) 踩(0) | <div>突然发觉这么多年就过去了/还来不及思考理想已变为幻想/不知不觉的身体没有了力量/这如刀的现实将我切碎在路上/理想算个屁啊爱情算什么东西/时代总是在变有些不知所措/可我还是个人啊还是个人啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4859434)<br>倚楼听风雨，淡看江湖路<br>2017-10-28 00:09<br>赞(0) 踩(0) | <div>理想算个屁啊，爱情算什么东西，时代总是在变，有些不知所措……这个时候你就要来听这首歌了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/635650)<br>享受人生，享受音乐<br>2017-10-27 23:53<br>赞(0) 踩(0) | <div>由算个屁啊 永恒算什么东西是非总是在变 我已无法分辨可我不想这样啊 我还有希望我不想变成一种悲哀 也不想变成一个粪土我想在死去之前觉醒为了心底的骄傲与光明</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3950863)<br><br>2017-10-27 23:23<br>赞(0) 踩(0) | <div>我们曾都有过理想，那时对理想的感受是生涩的，因为莫名其妙的坚信，然后靠着激情假装很分明自己和理想的关系。朦朦中已经走到而立之年，发现理想已然褪色，还总乏力。我回顾此些，是要理清自己与理想的关系。却原来理想是种盲目崇拜，崇拜一个莫须有的自己。感谢一路上所有的人，耐心的等我长大...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4112451)<br><br>2017-10-27 23:21<br>赞(0) 踩(0) | <div>我们在未知的荒园上坚难行走流着坚强的泪水 放荡并且迷惘我们在混乱的街道上释声歌唱唱着那美丽而不如人意的生命自由算个屁啊 永恒算什么东西是非总是在别 我也不法分辨可我不想这样啊我还有希望我想在世纪之前觉醒为了生命的尊严和希望</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/635650)<br>享受人生，享受音乐<br>2017-10-27 23:53<br>赞(0) 踩(0) | <div>由算个屁啊 永恒算什么东西<br>是非总是在变 我已无法分辨<br>可我不想这样啊 我还有希望<br>我不想变成一种悲哀 也不想变成一个粪土<br>我想在死去之前觉醒<br>为了心底的骄傲与光明</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3950863)<br><br>2017-10-27 23:23<br>赞(0) 踩(0) | <div>我们曾都有过理想，那时对理想的感受是生涩的，因为莫名其妙的坚信，然后靠着激情假装很分明自己和理想的关系。朦朦中已经走到而立之年，发现理想已然褪色，还总乏力。我回顾此些，是要理清自己与理想的关系。却原来理想是种盲目崇拜，崇拜一个莫须有的自己。<br>感谢一路上所有的人，耐心的等我长大...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4112451)<br><br>2017-10-27 23:21<br>赞(0) 踩(0) | <div>我们在未知的荒园上坚难行走<br>流着坚强的泪水 放荡并且迷惘<br>我们在混乱的街道上释声歌唱<br>唱着那美丽而不如人意的生命<br>自由算个屁啊 永恒算什么东西<br>是非总是在别 我也不法分辨<br>可我不想这样啊我还有希望<br>我想在世纪之前觉醒为了生命的尊严和希望</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2453041)<br>for real for...<br>2017-10-27 23:09<br>赞(0) 踩(0) | <div>让我保持活着的力量，这才是永远不能缺失的东西，可惜好像难以平衡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9961412)<br><br>2017-10-27 23:07<br>赞(0) 踩(0) | <div>理想算个屁呀，爱情算什么东西，时代总是在变，有些不知所措～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45088619)<br><br>2015-10-24 10:59<br>赞(0) 踩(0) | <div>理想算个屁啊</div> |
@@ -133,7 +133,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51858491)<br><br>2015-08-16 23:40<br>赞(0) 踩(0) | <div>觉醒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2236510)<br> <br>2015-07-29 17:14<br>赞(0) 踩(0) | <div>汪峰少见的耐听的作品 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42866081)<br><br>2015-07-18 18:26<br>赞(0) 踩(0) | <div>是这样的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29696442)<br><br>2015-07-17 01:51<br>赞(0) 踩(0) | <div>我不想变成一种虚空也不想变成一个废物</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29696442)<br><br>2015-07-17 01:51<br>赞(0) 踩(0) | <div>我不想变成一种虚空<br>也不想变成一个废物</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46046468)<br><br>2015-06-10 15:58<br>赞(0) 踩(0) | <div>越听越爱啊！奋斗吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50525877)<br><br>2015-06-03 00:28<br>赞(0) 踩(0) | <div>理想算个屁a，爱情算神魔东西。我只想倾听自己的心声 和摇滚一起死去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1979024)<br><br>2015-05-31 11:02<br>赞(1) 踩(0) | <div>汪导人怎么样我不评价，但是歌确实不错…昨天也算是去刷下歌了，印象最深的还是这首老歌，感觉也比较符合我这个年纪吧…</div> |
@@ -146,7 +146,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3088828)<br>虾米是用来拓荒的宇宙飞船...<br>2014-12-04 10:26<br>赞(0) 踩(0) | <div>除去人品和花边新闻，这个人的文采太好了，尤其早期，句句戳心。就像扒开伤口然后再治愈你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39683927)<br>暂无签名~<br>2014-11-22 09:48<br>赞(0) 踩(0) | <div>這麼多年過去了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25553081)<br>我还没想好要写什么...<br>2014-10-05 22:44<br>赞(0) 踩(0) | <div>好像老了不爱笑了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14298264)<br><br>2014-09-22 14:39<br>赞(18) 踩(0) | <div>这首歌是如此私人，只有每个颓废过但却又奋起的人才懂。有些感觉不想对任何人说，埋在心里，直到有个人唱出来，他这些可意会难言传的话语会真正戳中你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14298264)<br><br>2014-09-22 14:39<br>赞(18) 踩(0) | <div>这首歌是如此私人，只有每个颓废过但却又奋起的人才懂。<br>有些感觉不想对任何人说，埋在心里，直到有个人唱出来，他这些可意会难言传的话语会真正戳中你</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77967086)<br><br>2015-10-30 20:11<br>赞(0) 踩(0) | <div>同感</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52544405)<br>年轻的心<br>2017-04-07 22:01<br>赞(0) 踩(0) | <div>说得好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32390131)<br><br>2014-08-22 03:07<br>赞(0) 踩(0) | <div>一种悲哀，一个废物。</div> |
@@ -155,7 +155,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34961553)<br> <br>2014-08-06 20:46<br>赞(0) 踩(0) | <div>一口气5km。就这样一直跑下去，爱下去。。。@世界有两心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27332084)<br><br>2014-08-06 14:26<br>赞(0) 踩(0) | <div>好好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37946706)<br><br>2014-07-10 13:10<br>赞(0) 踩(0) | <div>感触多多</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34340338)<br>暂无签名~<br>2014-05-15 17:33<br>赞(0) 踩(0) | <div>我不想变成一种悲哀也不想变成一块粪土我想在死去之前觉醒为了心底的骄傲与光明我不想变成一种虚空也不想变成一个废物我想在死去之前觉醒为了生命的尊严与梦想</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34340338)<br>暂无签名~<br>2014-05-15 17:33<br>赞(0) 踩(0) | <div>我不想变成一种悲哀<br>也不想变成一块粪土<br>我想在死去之前觉醒<br>为了心底的骄傲与光明<br>我不想变成一种虚空<br>也不想变成一个废物<br>我想在死去之前觉醒<br>为了生命的尊严与梦想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3925904)<br><br>2014-05-02 17:20<br>赞(0) 踩(0) | <div>突然间发觉这么多年就过去了/.../......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3925904)<br><br>2014-05-02 14:38<br>赞(0) 踩(0) | <div>突然间发觉这么多年就过去了/.../...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13227152)<br>篮球拐角处<br>2014-04-30 01:04<br>赞(0) 踩(0) | <div>我不想变成一个废物，为了生命的尊严与梦想。</div> |
@@ -165,7 +165,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31217128)<br>Hides my tru...<br>2014-02-05 21:21<br>赞(0) 踩(0) | <div>听过了这首歌，就做出改变，当然也要坚，联想柳总说，要有理想，但不能理想化。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32049250)<br><br>2014-01-23 10:30<br>赞(0) 踩(0) | <div>为理想而战</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11324396)<br>暂无签名~<br>2013-11-29 00:28<br>赞(0) 踩(0) | <div>“理想算个屁啊，爱情算什么东西......可我还是个人，还是个人啊。“多少人的心声、</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19308)<br>不明所以不以为然不甚了了<br>2013-11-22 13:35<br>赞(1) 踩(0) | <div>当我走在这里的每一条街道我的心似乎从来都不能平静</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19308)<br>不明所以不以为然不甚了了<br>2013-11-22 13:35<br>赞(1) 踩(0) | <div>当我走在这里的每一条街道<br>我的心似乎从来都不能平静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26648425)<br><br>2013-11-16 10:47<br>赞(0) 踩(0) | <div>什么都说不出，静静的听～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15999996)<br><br>2013-11-09 00:59<br>赞(0) 踩(0) | <div>睡！明晚发泄起来！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24109395)<br><br>2013-11-03 21:21<br>赞(0) 踩(0) | <div>理想算个屁啊，爱情算什么东西~</div> |
@@ -210,7 +210,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8858847)<br><br>2013-03-17 04:38<br>赞(0) 踩(0) | <div>半夜听点儿沸腾的，就不用睡了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866737)<br>旋律是记忆的手段<br>2013-03-16 09:34<br>赞(0) 踩(0) | <div>理想算个屁啊。你说能让人记不住吗！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9293896)<br><br>2013-03-15 23:20<br>赞(0) 踩(0) | <div>[自由算个屁啊，爱情算什么东西!]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5696779)<br>好色无胆，好酒无量，好钱...<br>2013-02-17 15:05<br>赞(0) 踩(0) | <div>理想算个屁啊爱情算什么东西时代总是在变有些不知所措喜欢这种直白的歌词</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5696779)<br>好色无胆，好酒无量，好钱...<br>2013-02-17 15:05<br>赞(0) 踩(0) | <div>理想算个屁啊爱情算什么东西<br>时代总是在变有些不知所措<br>喜欢这种直白的歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13024233)<br><br>2013-02-14 08:27<br>赞(0) 踩(0) | <div>不知该喜悦还是忧伤，终于还是又老了一岁.感谢某些在这一天被告知的真相，心中某些天真的幻想被狠狠的碾碎.愤怒过后也明白，这个世界可能真的不需要我这样的单纯，不是所有人都值得我去相信.感谢某人的欺骗，这是我收到最好的生日礼物^_^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11359094)<br>C\'estLaVie<br>2013-02-08 13:57<br>赞(0) 踩(0) | <div>总有那么一首歌，能代表一部分人的一段时光。现在听这歌的感觉和五年前已全然不同，不知再过五年，会是什么样子？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11359094)<br>C\'estLaVie<br>2013-02-08 07:53<br>赞(0) 踩(0) | <div>现在听和五年前听感觉不一样了吧？再过一个五年，又会是怎样呢？</div> |
@@ -218,7 +218,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363924)<br><br>2013-01-30 23:52<br>赞(0) 踩(0) | <div>还来不及思考理想已变成幻想；理想总是没有欲望那么炫目。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363924)<br><br>2013-01-30 23:46<br>赞(0) 踩(0) | <div>觉醒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7588962)<br><br>2013-01-29 21:49<br>赞(0) 踩(0) | <div>没理由。困尿了，睡觉。人生不如意十之八九，自己要是再不懂得调节，那就是真的活该了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1234516)<br><br>2013-01-28 18:29<br>赞(0) 踩(0) | <div>理想算个屁啊 爱情算什么东西自我算个屁啊 炫耀算什么东西自由算个屁啊 永恒算什么东西。。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1234516)<br><br>2013-01-28 18:29<br>赞(0) 踩(0) | <div>理想算个屁啊 爱情算什么东西<br>自我算个屁啊 炫耀算什么东西<br>自由算个屁啊 永恒算什么东西<br>。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145616)<br>我还没想好要写什么...<br>2013-01-24 11:05<br>赞(0) 踩(0) | <div>歌词还真是直白</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9239166)<br>pick a mood<br>2013-01-11 23:43<br>赞(0) 踩(0) | <div>有时候真的很容易把自己沉湎在音乐里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8927129)<br> <br>2013-01-05 15:17<br>赞(0) 踩(0) | <div>理想总是没有欲望那么的眩目，就像空虚比活着的压力还要重，每当灵魂深处发出颤抖地微笑，那像死的悲伤就把我埋入荒岗，我们在未知的荒原上艰难行走，流着坚强的泪水放荡并且迷惘，我们在纷乱的街道上失声歌唱，唱着那美丽而不如人意的生命，是非总是在变 我已无法分辨，可我不想这样啊 我还有希望</div> |
@@ -226,11 +226,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3109844)<br><br>2012-12-25 10:06<br>赞(0) 踩(0) | <div>汪峰早年这些歌词写得也还行 后来。。。后来就变成晚会歌手了 o(╯□╰)o</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11369246)<br><br>2012-12-18 00:06<br>赞(0) 踩(0) | <div>我觉得这是汪峰写的最好的一首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1758691)<br><br>2012-12-09 16:24<br>赞(0) 踩(0) | <div>“理想算个屁啊”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11690375)<br><br>2012-11-27 23:51<br>赞(0) 踩(0) | <div>理想总是没有欲望那么的炫目就像空虚比活着的压力还要重</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11690375)<br><br>2012-11-27 23:51<br>赞(0) 踩(0) | <div>理想总是没有欲望那么的炫目<br>就像空虚比活着的压力还要重</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10215224)<br><br>2012-11-26 07:36<br>赞(0) 踩(0) | <div>理想算个屁啊！爱情算什么东西？自由算个屁啊！永恒算什么东西？我想在死去之前觉醒，为了生命尊严和希望。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11533215)<br><br>2012-11-24 16:05<br>赞(0) 踩(0) | <div>因为每次迷迷糊糊的时候听到第一句歌词“突然发觉这么多年就过去了”，瞬间就会很有压力，起床，开始一天的工作。哈哈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7119504)<br><br>2012-11-23 08:08<br>赞(0) 踩(0) | <div>我们在未知的荒野上艰难行走，流着坚强的泪水放荡并且迷惘。我们在纷乱的街道失声歌唱，唱着那美丽而不如人意的生命。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5150148)<br><br>2012-11-19 00:15<br>赞(0) 踩(0) | <div>以前有一种叫理想，现在只有一种叫做生活。失去，放弃，无奈，害怕，渴望，这就是我们，与我们的生活。对我，或许最大的错就是分不清什么是朋友，什么是知己，而什么是萍水相逢。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5150148)<br><br>2012-11-19 00:15<br>赞(0) 踩(0) | <div>以前有一种叫理想，现在只有一种叫做生活。<br>失去，放弃，无奈，害怕，渴望，这就是我们，与我们的生活。<br>对我，或许最大的错就是分不清什么是朋友，什么是知己，而什么是萍水相逢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6837565)<br> <br>2012-10-17 17:29<br>赞(0) 踩(0) | <div>怎么觉得调子有种重复拼凑之感···歌词甚好···</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1784360)<br><br>2012-10-06 08:31<br>赞(0) 踩(0) | <div>还来不及思考 理想已变成幻想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1784360)<br><br>2012-10-06 07:00<br>赞(0) 踩(0) | <div>还来不及思考 理想就变成了幻想....</div> |
@@ -243,8 +243,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4458644)<br>如花美眷，似水流年……<br>2012-08-17 02:02<br>赞(0) 踩(0) | <div>每当灵魂深处发出颤抖的微笑，那像死的悲伤就把我埋入荒冈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3202485)<br>I am the man<br>2012-07-27 15:49<br>赞(0) 踩(0) | <div>How do you feel today?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/450493)<br><br>2012-07-13 12:03<br>赞(0) 踩(0) | <div>我想在死去之前觉醒 为了生命的尊严与梦想</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3027582)<br><br>2012-07-02 22:40<br>赞(0) 踩(0) | <div>理想算个屁啊，爱情算什么东西。时代总是在变，有些不知所措，可我还是个人啊，还是个人啊。我不想变成一种悲哀，也不想变成一个粪土我想在死去之前觉醒。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-06-26 06:14<br>赞(0) 踩(0) | <div>我想在死去之前觉醒为了心里的骄傲和光明</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3027582)<br><br>2012-07-02 22:40<br>赞(0) 踩(0) | <div>理想算个屁啊，爱情算什么东西。<br>时代总是在变，有些不知所措，<br>可我还是个人啊，还是个人啊。<br><br>我不想变成一种悲哀，也不想变成一个粪土<br>我想在死去之前觉醒。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-06-26 06:14<br>赞(0) 踩(0) | <div>我想在死去之前觉醒<br>为了心里的骄傲和光明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8622242)<br>无奈你我牵过手，没绳索。<br>2012-06-26 04:58<br>赞(0) 踩(0) | <div>醒！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9199042)<br><br>2012-06-09 11:27<br>赞(0) 踩(0) | <div>喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2290642)<br>音乐就是生活。<br>2012-05-31 13:34<br>赞(0) 踩(0) | <div>觉醒</div> |
@@ -264,7 +264,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8250951)<br><br>2012-03-03 02:09<br>赞(0) 踩(0) | <div>是时候，我该觉醒了~~去勇敢追梦！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1590864)<br>Love u.<br>2012-02-21 22:54<br>赞(0) 踩(0) | <div>喜欢这首歌  喜欢这首歌的歌词！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7336788)<br><br>2012-02-20 21:50<br>赞(0) 踩(0) | <div>饭饱茶足，买了张双色球，还是倍投，如果从此销声匿迹，说明我中大奖了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6308996)<br>我还没想好要写什么...<br>2012-02-19 19:53<br>赞(0) 踩(0) | <div>我想在死去之前觉醒，为了心底的骄傲和光明…汪峰≪觉醒≫</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6308996)<br>我还没想好要写什么...<br>2012-02-19 19:53<br>赞(0) 踩(0) | <div>我想在死去之前觉醒，为了心底的骄傲和光明…<br>汪峰≪觉醒≫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11443)<br><br>2012-02-03 23:01<br>赞(0) 踩(0) | <div>算个屁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7880495)<br><br>2012-02-01 23:53<br>赞(0) 踩(0) | <div>现实与残酷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7855154)<br><br>2012-01-31 02:28<br>赞(0) 踩(0) | <div>时间是一直在这儿的，流逝的是我们自己。当悲哀的石小猛说出这话的时候，他的眼神无尽的落寞。吴狄，让我看到了自己，无论一个人怎么伤害你，都可以如他一般去原谅。但我却不能像他一样无所顾忌的去追求所谓的精神世界。北京爱情故事，让我看到了我的青春，那回不去的，美好的时光。</div> |
@@ -322,7 +322,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1868898)<br><br>2010-11-25 22:01<br>赞(0) 踩(0) | <div>是的，该觉醒了，为了生命的尊严和希望</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61015)<br><br>2010-10-26 01:47<br>赞(0) 踩(0) | <div>理想已变成幻想……= =|||</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1653420)<br><br>2010-10-22 14:32<br>赞(0) 踩(0) | <div>跟着摇摆</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/933365)<br><br>2010-10-18 15:14<br>赞(0) 踩(0) | <div>（理想算个屁啊爱情算什么东西！ 我想在世纪之前觉醒为了生命的尊严与梦想）瞬间的突变，错愕地迷失了方向。清淡的平庸，缓慢地磨平了斗志。该是时候觉醒了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/933365)<br><br>2010-10-18 15:14<br>赞(0) 踩(0) | <div>（理想算个屁啊爱情算什么东西！ 我想在世纪之前觉醒为了生命的尊严与梦想）<br>瞬间的突变，错愕地迷失了方向。清淡的平庸，缓慢地磨平了斗志。该是时候觉醒了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1521560)<br><br>2010-09-25 12:45<br>赞(0) 踩(0) | <div>我们总有看清楚一切的这天/不過,除了原諒/我還是沒有其他選擇/因為,我至少還是個人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1386695)<br><br>2010-09-22 01:15<br>赞(0) 踩(0) | <div>真实~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/797729)<br><br>2010-04-15 18:02<br>赞(0) 踩(0) | <div>KTV里 我一个人放歌</div> |

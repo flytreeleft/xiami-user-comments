@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b10c4839ce4c68f8d6f896124b7d0120.jpg)<br>村正Sakura](https://i.xiami.com/tgxian123) | **播放数**: 2173248<br>**粉丝数**: 141<br>**评论数**: 17<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/b10c4839ce4c68f8d6f896124b7d0120.jpg)<br>村正Sakura](https://i.xiami.com/tgxian123) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 2173248<br>**粉丝数**: 141<br>**评论数**: 17<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446191801)<br><br>2020-12-01 23:22<br>赞(0) 踩(0) | <div>开口惊艳</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440575281)<br>柚子<br>2020-10-05 18:18<br>赞(1) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320562148)<br><br>2020-09-04 00:03<br>赞(1) 踩(0) | <div>想听海底</div> |

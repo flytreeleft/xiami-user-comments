@@ -21,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357380221)<br>纵一苇之所如。<br>2020-11-14 21:54<br>赞(0) 踩(0) | <div>呀啦嗦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3150742)<br><br>2020-10-11 03:08<br>赞(1) 踩(0) | <div>good</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334375330)<br>慈心观世界蜎飞蝡动皆赤子...<br>2020-10-09 05:41<br>赞(2) 踩(0) | <div>这个版本，纵横驰骋，自由奔放，发挥极佳。结尾进行特殊处理，加入一个像是用唢呐演奏出的颤音，难度极大，令人震撼，超出想像。但我又觉得，这个颤音，并未增加音的美感。只是出乎意料，难度大而已。这种感觉很难描述，似乎瞬间进入极度玄幻境界，大脑一片空白那种感觉。又似乎是**被碰触到*点的感觉。</div> |
@@ -56,8 +56,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2020-01-28 22:57<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435322257)<br><br>2020-01-19 21:50<br>赞(2) 踩(0) | <div>空灵飘渺</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260000319)<br><br>2020-01-05 18:21<br>赞(3) 踩(0) | <div>谁能比得上？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322967615)<br>迁途<br>2019-12-09 22:10<br>赞(3) 踩(0) | <div>天高云淡望断雄鹰苍天去岂止行程二万越过雪域苍山远俯卧平川大辅不畏高寒不惧苍穹变孤傲展翅独翎万水千山任由翱翔</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322967615)<br>迁途<br>2019-12-09 22:10<br>赞(2) 踩(0) | <div>天高云淡望断雄鹰苍天去岂止行程二万越过雪域苍山远俯卧平川大辅不畏高寒不惧苍穹变孤傲展翅独翎万水千山任由翱翔</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322967615)<br>迁途<br>2019-12-09 22:10<br>赞(3) 踩(0) | <div>天高云淡<br>望断雄鹰苍天去<br>岂止行程二万<br>越过雪域苍山远<br>俯卧平川大辅<br>不畏高寒<br>不惧苍穹变<br>孤傲展翅<br>独翎万水千山<br>任由翱翔</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322967615)<br>迁途<br>2019-12-09 22:10<br>赞(2) 踩(0) | <div>天高云淡<br>望断雄鹰苍天去<br>岂止行程二万<br>越过雪域苍山远<br>俯卧平川大辅<br>不畏高寒<br>不惧苍穹变<br>孤傲展翅<br>独翎万水千山<br>任由翱翔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/162578922)<br>平安快乐就好<br>2019-12-06 22:01<br>赞(1) 踩(0) | <div>仿佛又回到了西藏…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424659245)<br>不惊扰别人的宁静，就是慈<br>2019-12-06 14:12<br>赞(1) 踩(0) | <div>天籁之声！好聽！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22994668)<br><br>2019-11-02 11:37<br>赞(3) 踩(0) | <div>挺好听的，但后半部的意境莫名地降下来、薄下来，除了最后一个更多是显示技巧的高音部；相比较而言，李娜的演唱意境是层级递进的，越往后越有向上穿透天空之感，这是个人的感觉。</div> |
@@ -67,7 +67,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314371482)<br><br>2019-09-01 11:56<br>赞(1) 踩(0) | <div>巴桑那版也很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314371482)<br><br>2019-09-01 11:56<br>赞(3) 踩(0) | <div>巴桑那版也很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427424683)<br>在旋律中寻觅灵魂的秘密。<br>2019-08-14 19:25<br>赞(1) 踩(0) | <div>跨民族的翻版多少都有遗憾。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356941510)<br><br>2019-08-12 13:00<br>赞(8) 踩(0) | <div>《青藏高原》这首歌，在汉人中唱得最好的是李娜，无人能超越，但衡越可与之比肩，除此之外，无人匹敌。在藏人中，目前索朗旺姆是唱得最好的。汉人与藏人唱法不一样没有高下之分，犹如喜马拉雅山，汉人看到的是人的能耐的顶峯，藏人看到的是敬畏的神。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356941510)<br><br>2019-08-12 13:00<br>赞(8) 踩(0) | <div>《青藏高原》这首歌，在汉人中唱得最好的是李娜，无人能超越，但衡越可与之比肩，除此之外，无人匹敌。<br>在藏人中，目前索朗旺姆是唱得最好的。<br>汉人与藏人唱法不一样没有高下之分，犹如喜马拉雅山，汉人看到的是人的能耐的顶峯，藏人看到的是敬畏的神。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19288674)<br>几见狂蜂恋落花<br>2019-07-31 13:59<br>赞(3) 踩(0) | <div>藏语版前无古人 后无来者！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287017)<br>姌稥毓影，复刻轻悠<br>2019-07-26 21:19<br>赞(4) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314371482)<br><br>2019-07-13 22:02<br>赞(1) 踩(0) | <div>蓝天白云</div> |
@@ -125,7 +125,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314371482)<br><br>2019-09-01 11:55<br>赞(0) 踩(0) | <div><q><b>君临天下说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339304515)<br>我还没想好要写什么...<br>2018-08-18 01:14<br>赞(5) 踩(0) | <div>韓紅被拋出九條街 李娜還是最出彩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377534425)<br><br>2018-08-16 07:14<br>赞(1) 踩(0) | <div>心纯净才会造化</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342212192)<br><br>2018-08-13 02:47<br>赞(1) 踩(0) | <div>天籁之声！❤❤❤❤❤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342212192)<br><br>2018-08-13 02:47<br>赞(1) 踩(0) | <div>天籁之声！<br>❤❤❤❤❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354250057)<br><br>2018-07-21 12:50<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265521025)<br><br>2018-07-19 17:14<br>赞(2) 踩(0) | <div>天籁之音！美！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322519399)<br>认清生活的真相以后依然热...<br>2018-06-17 18:59<br>赞(4) 踩(0) | <div>好纯净的声音</div> |

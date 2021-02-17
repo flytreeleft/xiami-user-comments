@@ -34,8 +34,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298245011)<br>弘毅去惰仁者童心<br>2019-07-12 11:14<br>赞(2) 踩(0) | <div>南无观世音菩萨 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406971875)<br><br>2018-12-06 02:48<br>赞(1) 踩(0) | <div>揭读作:ge？同为腰间盘，你为何如此突出？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325114832)<br><br>2019-03-10 10:25<br>赞(0) 踩(0) | <div>施主，这首经文里的gata是梵文，意思是去吧，并不是念错了。</div> |

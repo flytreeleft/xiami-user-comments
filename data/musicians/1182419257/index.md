@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f2fabd49df263d78c763de9cab08b6a2.jpg)<br>锦衣小盆友](https://i.xiami.com/flyfay52) | **播放数**: 3380719<br>**粉丝数**: 1204<br>**评论数**: 45<br>**地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 国语流行 Mandarin Pop, 古风 GuFeng Music<br> |
+| [![](../../images/musicians/f2fabd49df263d78c763de9cab08b6a2.jpg)<br>锦衣小盆友](https://i.xiami.com/flyfay52) | **地区**: China 中国大陆<br>**风格**: 新世纪音乐 New Age, 国语流行 Mandarin Pop, 古风 GuFeng Music<br>**播放数**: 3380719<br>**粉丝数**: 1204<br>**评论数**: 45<br> |
 
 ## 档案
 
@@ -42,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415521330)<br>你一开口我就想笑 我一笑...<br>2019-08-21 08:39<br>赞(3) 踩(0) | <div>锦衣真的好有才啊 卿衣云信听很久都不会腻。更令人震惊的是作词作曲都是锦衣一个人完成的 韵脚都全是a。爱了爱了❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299760025)<br>静默着<br>2019-02-23 09:51<br>赞(1) 踩(0) | <div>喜欢你的词</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336538499)<br><br>2018-06-15 20:13<br>赞(1) 踩(0) | <div>一直都很喜欢你，特别是你的非鱼～循环循环</div> |

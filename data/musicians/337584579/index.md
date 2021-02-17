@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8969e999f73a8d045fc3103bcd95b05b.jpg)<br>魏弘斌](https://i.xiami.com/whb) | **播放数**: 7104394<br>**粉丝数**: 64<br>**评论数**: 2<br>**地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock<br> |
+| [![](../../images/musicians/8969e999f73a8d045fc3103bcd95b05b.jpg)<br>魏弘斌](https://i.xiami.com/whb) | **地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock<br>**播放数**: 7104394<br>**粉丝数**: 64<br>**评论数**: 2<br> |
 
 ## 档案
 
@@ -50,7 +50,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52584016)<br>录音师/混音师<br>2015-07-23 13:13<br>赞(2) 踩(0) | <div>我刚入驻了阿里音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14359041)<br>公号出没：庐雨浙潮<br>2016-12-17 23:07<br>赞(0) 踩(0) | <div>赞叹！随喜</div> |

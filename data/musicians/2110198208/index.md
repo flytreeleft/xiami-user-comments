@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f068307bb8169aa6a0e0248c337a1a31.jpg)<br>马佳明](https://i.xiami.com/mjm) | **播放数**: 4535500<br>**粉丝数**: 181<br>**评论数**: 10<br>**地区**: China 中国大陆<br>**风格**: 民谣 Folk<br> |
+| [![](../../images/musicians/f068307bb8169aa6a0e0248c337a1a31.jpg)<br>马佳明](https://i.xiami.com/mjm) | **地区**: China 中国大陆<br>**风格**: 民谣 Folk<br>**播放数**: 4535500<br>**粉丝数**: 181<br>**评论数**: 10<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375889695)<br><br>2020-06-20 19:26<br>赞(0) 踩(0) | <div>这真的不是我认识的同名那个初中同学小明？OMG 太好听了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332514522)<br><br>2019-09-11 20:28<br>赞(0) 踩(0) | <div>最喜欢成都</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335225623)<br><br>2019-03-19 10:07<br>赞(0) 踩(0) | <div>喜欢你的声音</div> |

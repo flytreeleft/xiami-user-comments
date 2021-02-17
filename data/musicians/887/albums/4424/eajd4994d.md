@@ -51,8 +51,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308314031)<br>步子要一步一步走，步子太...<br>2020-11-24 03:00<br>赞(0) 踩(0) | <div>7</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308314031)<br>步子要一步一步走，步子太...<br>2020-07-30 23:01<br>赞(1) 踩(0) | <div>3</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308314031)<br>步子要一步一步走，步子太...<br>2020-06-27 05:27<br>赞(1) 踩(0) | <div>22</div> |
@@ -134,7 +134,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283711677)<br><br>2017-11-04 03:46<br>赞(2) 踩(0) | <div>那段时间下了这首歌，天天循放。在他送我回去的路上我们吵架分手了，我在后院坐了一个下午，一边听这首歌一边哭，以至于后来一听到这歌心里就难过。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40572078)<br><br>2018-01-11 07:58<br>赞(0) 踩(0) | <div>情深不寿。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4462043)<br>爱与自由<br>2017-10-30 10:16<br>赞(1) 踩(0) | <div>#汪峰那些冷门的歌曲# 虽然更喜欢的是《小鸟》那时候的他，虽然在03年首体的演唱会之后已经听不到《晚安 北京》，但其实相对于《飞得更高》这个奇葩，他有很多更值得聆听的。这首歌选自《怒放的生命》，其实这张专辑中除了《怒放的生命》、《我爱你中国》和《我们的梦》之外，还是有几首好歌的。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2017-10-30 10:12<br>赞(1) 踩(0) | <div>选自汪峰《怒放的生命》离开了华纳，汪峰又带起了原来那副朴素的眼镜，似乎又找回了一点从前的影子。这张感觉上要比《笑着哭》好些，起码可以有歌曲能给自己留下一些印象。其实摇不摇滚不要紧，要紧的是，做音乐的认真态度和激情。如果都是虚情假意，也很难打动别人。很喜欢“为了让生活继续”，有感觉在里边。“时光倒流”也不错，有一点点的忧伤。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2017-10-30 10:12<br>赞(1) 踩(0) | <div>选自汪峰《怒放的生命》<br>离开了华纳，汪峰又带起了原来那副朴素的眼镜，似乎又找回了一点从前的影子。这张感觉上要比《笑着哭》好些，起码可以有歌曲能给自己留下一些印象。其实摇不摇滚不要紧，要紧的是，做音乐的认真态度和激情。如果都是虚情假意，也很难打动别人。很喜欢“为了让生活继续”，有感觉在里边。“时光倒流”也不错，有一点点的忧伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293740481)<br>岁月如河水流过，年轻无知...<br>2017-10-28 15:18<br>赞(1) 踩(0) | <div>半壁江山 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3014848)<br>听，繁华过尽的真实……<br>2017-10-27 23:30<br>赞(1) 踩(0) | <div>喜欢这首歌高潮时发自内心的呼喊，记得大学的那次访谈节目，我把这首歌作为了背景音乐，真的很贴切……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312237864)<br>我还没想好要写什么...<br>2017-10-26 14:54<br>赞(1) 踩(0) | <div>我是21岁那年意识到青春已逝的，那晚躺在海边对着明月清风伴着潮声痛哭流涕，直到现在也还是虽然接受但无法释怀。</div> |
@@ -239,7 +239,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39759918)<br>我还没想好要写什么...<br>2016-10-21 22:49<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106114026)<br><br>2016-10-21 06:43<br>赞(0) 踩(0) | <div>@__匿名菇凉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234675571)<br><br>2016-10-16 00:01<br>赞(0) 踩(0) | <div>听着听着～ 泪湿红了眼 <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234675571)<br><br>2016-10-15 23:38<br>赞(0) 踩(0) | <div>我想哭 却流不出眼泪.......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234675571)<br><br>2016-10-15 23:38<br>赞(0) 踩(0) | <div>我想哭 却流不出眼泪<br>.......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210874472)<br>哦！原来你也在这里 !<br>2016-10-15 20:07<br>赞(7) 踩(0) | <div>如果时光能倒流，我会紧紧地抱着爸爸，告诉他:爸爸，谢谢您!女儿真的很爱你❤!</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296562196)<br><br>2018-04-29 18:46<br>赞(0) 踩(0) | <div>可惜人生没有如果，错过就永远错过，珍惜现在拥有的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210874472)<br>哦！原来你也在这里 !<br>2016-10-15 20:05<br>赞(3) 踩(0) | <div>让人动容!可以无限循环播放的一首歌!赞叹汪峰的音乐才华和素养!</div> |
@@ -268,7 +268,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128123560)<br>有一种落差是: 你配不上...<br>2016-06-15 22:09<br>赞(1) 踩(0) | <div>nobody knows me</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24361184)<br> 阴晴圆缺在窗外，心中一...<br>2016-05-31 01:32<br>赞(0) 踩(0) | <div>当年第一次听到老板这首歌的时候，顿时泪奔，感觉就是自己的故事，这首歌触碰到自己内心深处不愿面对的伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142857628)<br><br>2016-05-28 20:35<br>赞(1) 踩(0) | <div>好听呐。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24627677)<br>在路上⋯⋯<br>2016-05-15 20:14<br>赞(1) 踩(0) | <div>那天傍晚我走在街边看着往来如浪的人群想起曾经走过的岁月想起曾经热爱的你我没有该去的地方也不知道身处何处只因为你不在这里这思念让我心动我多想你就座在我身旁没有你我有多孤独</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24627677)<br>在路上⋯⋯<br>2016-05-15 20:14<br>赞(1) 踩(0) | <div>那天傍晚我走在街边<br>看着往来如浪的人群<br>想起曾经走过的岁月<br>想起曾经热爱的你<br>我没有该去的地方<br>也不知道身处何处<br>只因为你不在这里<br>这思念让我心动<br>我多想你就座在我身旁<br>没有你我有多孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/167903170)<br><br>2016-05-12 20:31<br>赞(0) 踩(0) | <div>Nice</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41055078)<br><br>2016-05-07 23:57<br>赞(1) 踩(0) | <div>好听呐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46700719)<br> <br>2016-04-24 01:56<br>赞(2) 踩(0) | <div>我想哭却流不出眼泪.我想喊却发不出声音…</div> |
@@ -323,7 +323,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8632026)<br><br>2015-08-08 00:31<br>赞(0) 踩(0) | <div>？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24627677)<br>在路上⋯⋯<br>2015-07-19 18:05<br>赞(0) 踩(0) | <div>如果能时光倒流。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48004183)<br>虾米，再见<br>2015-06-04 23:26<br>赞(0) 踩(0) | <div>时光倒流最好听的部分是前奏</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2015-05-25 10:01<br>赞(0) 踩(0) | <div>我想哭 却流不出眼泪我想喊 却发不出声音我愿意 抛弃我的所有如果能 时光倒流如果能 时光倒流如果能 时光倒流</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2015-05-25 10:01<br>赞(0) 踩(0) | <div>我想哭 却流不出眼泪<br>我想喊 却发不出声音<br>我愿意 抛弃我的所有<br>如果能 时光倒流<br>如果能 时光倒流<br>如果能 时光倒流</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22560916)<br> <br>2015-04-26 17:23<br>赞(0) 踩(0) | <div>可惜没有如果，当作自已心中那美好的幻想哎。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48677349)<br><br>2015-04-13 02:30<br>赞(0) 踩(0) | <div>如果能，时光倒流。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47468103)<br><br>2015-02-23 20:52<br>赞(0) 踩(0) | <div>如果时光可以倒流，我一定回去看您。有时候那时看重的现在觉得是多么微不足道！姥姥，我爱你！</div> |
@@ -337,7 +337,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1135441)<br><br>2014-09-17 11:26<br>赞(0) 踩(0) | <div>有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3100450)<br>Spiritual me...<br>2014-09-06 23:50<br>赞(0) 踩(0) | <div>都怪这几天我在看王家卫的电影</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29696442)<br><br>2014-08-07 00:19<br>赞(0) 踩(0) | <div>跟《为了让生活继续》的旋律有些许相似</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33864647)<br>无路处自有天命<br>2014-06-07 14:50<br>赞(0) 踩(0) | <div>这思念让我心动…如果能，时光倒流…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33864647)<br>无路处自有天命<br>2014-06-07 14:50<br>赞(0) 踩(0) | <div>这思念让我心动…<br>如果能，时光倒流…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/953251)<br>生生不息的呼吸<br>2014-02-20 10:55<br>赞(0) 踩(0) | <div>我想哭，却流不出眼泪。我想喊，却发不出声音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8187660)<br><br>2014-02-16 16:33<br>赞(0) 踩(0) | <div>xx</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14195741)<br>为你而歌<br>2013-12-31 13:09<br>赞(0) 踩(0) | <div>我愿意抛弃我的所有。。。如果能时光倒流！！！</div> |
@@ -345,7 +345,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29396039)<br><br>2013-12-10 20:43<br>赞(0) 踩(0) | <div>哎，谁失恋了，听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7365746)<br><br>2013-11-13 07:10<br>赞(0) 踩(0) | <div>时光无法倒流，可惜没有如果~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8150817)<br><br>2013-10-30 20:22<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10234813)<br>没有什么不同<br>2013-10-14 13:09<br>赞(0) 踩(0) | <div>我想哭 却流不出眼泪我想喊 却发不出声音</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10234813)<br>没有什么不同<br>2013-10-14 13:09<br>赞(0) 踩(0) | <div>我想哭 却流不出眼泪<br>我想喊 却发不出声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23347534)<br><br>2013-09-30 00:44<br>赞(0) 踩(0) | <div>如果能 时光倒流。。。如果能 把你拥怀中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23143556)<br><br>2013-09-29 21:18<br>赞(0) 踩(0) | <div>22</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13954886)<br> <br>2013-09-24 01:32<br>赞(0) 踩(0) | <div>如果能，时光倒流，</div> |
@@ -353,7 +353,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21486533)<br><br>2013-09-08 19:45<br>赞(0) 踩(0) | <div>纵是时光倒流，也已回不到当初，仍有期待的是未来...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2013-09-05 10:47<br>赞(2) 踩(0) | <div>不行了，我忍不住要吐槽了。汪峰的歌词怎么都是一个模子的啊，比如这首歌的歌词对应着《当我想你的时候》的旋律唱也一样能唱起来！还有，什么“在清晨 在夜晚 在桥下 在街上”的，也是反反复复在N首歌中用，还有“XX的存在”也是，这个重复用词率快赶上网络歌曲了！！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1394088)<br>世间智障合集<br>2013-09-05 11:19<br>赞(0) 踩(0) | <div>你发现了真相</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-09-30 17:04<br>赞(0) 踩(0) | <div>博尔赫斯说一个作家一辈子都在重复同一个故事</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-09-30 17:04<br>赞(0) 踩(0) | <div>博尔赫斯说<br>一个作家一辈子都在重复同一个故事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3088573)<br><br>2013-08-26 20:03<br>赞(0) 踩(0) | <div>@free7hug   @赛门的角落   汪峰就是汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1004845)<br><br>2013-08-24 21:42<br>赞(0) 踩(0) | <div>汪峰的歌中，最喜歡的一首。聽著這首歌，想起一個失聯很久的朋友。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18601842)<br><br>2013-08-06 13:10<br>赞(0) 踩(0) | <div>如果时间真的可以倒流</div> |
@@ -373,7 +373,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3836791)<br><br>2013-05-06 01:48<br>赞(0) 踩(0) | <div>随机到的，莫非巧合？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8662582)<br><br>2013-05-02 14:19<br>赞(0) 踩(0) | <div>Good</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14376198)<br><br>2013-05-01 23:46<br>赞(0) 踩(0) | <div>我想喊，却发不出声音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:38<br>赞(0) 踩(0) | <div>我多想你就坐在我的身旁没有你我有多孤独</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:38<br>赞(0) 踩(0) | <div>我多想你就坐在我的身旁<br>没有你我有多孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8137832)<br><br>2013-04-08 19:42<br>赞(0) 踩(0) | <div>静静的听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8137832)<br><br>2013-04-07 17:23<br>赞(0) 踩(0) | <div>我想哭却流不出眼泪。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10786025)<br><br>2013-03-31 20:57<br>赞(0) 踩(0) | <div>如果能，时光倒流。。。</div> |
@@ -381,8 +381,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149649)<br><br>2013-03-20 00:21<br>赞(0) 踩(0) | <div>有点感觉而已。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9531439)<br><br>2013-02-22 16:59<br>赞(0) 踩(0) | <div>让时间停住此刻。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8985857)<br><br>2013-02-21 21:21<br>赞(0) 踩(0) | <div>好听~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-02-13 07:20<br>赞(0) 踩(0) | <div>我想哭 却流不出眼泪我相喊 却发不出声音我愿意 抛弃我的所有如果能 时光倒流</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2013-01-21 15:08<br>赞(0) 踩(0) | <div>【汪峰：时光倒流 】那天傍晚我走在街边 看着往来如浪的人群想起曾经走过的岁月 想起曾经热爱的你我没有该去的地方 也不知道身处何处只因为你已不在这里 这思念让我心动我想哭 却流不出眼泪我相喊 却发不出声音我愿意 抛弃我的所有如果能 时光倒流夕阳洒在我的脸上 风儿拔动我的心弦……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-02-13 07:20<br>赞(0) 踩(0) | <div>我想哭 却流不出眼泪<br>我相喊 却发不出声音<br>我愿意 抛弃我的所有<br>如果能 时光倒流</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2013-01-21 15:08<br>赞(0) 踩(0) | <div>【汪峰：时光倒流 】<br>那天傍晚我走在街边 看着往来如浪的人群<br>想起曾经走过的岁月 想起曾经热爱的你<br>我没有该去的地方 也不知道身处何处<br>只因为你已不在这里 这思念让我心动<br><br>我想哭 却流不出眼泪<br>我相喊 却发不出声音<br>我愿意 抛弃我的所有<br>如果能 时光倒流<br><br>夕阳洒在我的脸上 风儿拔动我的心弦<br>……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9312942)<br>心若没有栖息的地方，到哪<br>2012-12-22 20:55<br>赞(0) 踩(0) | <div>我想哭，却流不出眼泪，我想喊，却发不出声音，我愿意抛弃我的所有，如果能时光倒流······</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1266272)<br>人生路，莫慌张。。。<br>2012-12-16 00:17<br>赞(0) 踩(0) | <div>倒流。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1687557)<br>我还没想好要写什么...<br>2012-11-27 00:36<br>赞(0) 踩(0) | <div>如果能，时光倒流。</div> |
@@ -421,7 +421,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7999046)<br><br>2012-02-11 12:55<br>赞(0) 踩(0) | <div>111</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/860557)<br>我们的时光 注定那么少<br>2012-01-30 14:09<br>赞(0) 踩(0) | <div>I like it!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6573558)<br>亲手栽下的苹果树 愿 岁...<br>2012-01-14 23:59<br>赞(0) 踩(0) | <div>点一支烟，听着，想着，似乎还在眼前..情不自禁得听红了眼眶...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1548545)<br><br>2011-12-28 23:49<br>赞(0) 踩(0) | <div>我想哭却流不出眼泪我相喊却发不出声音我愿意抛弃我的所有如果能时光倒流</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1548545)<br><br>2011-12-28 23:49<br>赞(0) 踩(0) | <div>我想哭却流不出眼泪<br>我相喊却发不出声音<br>我愿意抛弃我的所有<br>如果能时光倒流</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/993768)<br><br>2011-12-25 19:27<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1694608)<br><br>2011-12-24 18:01<br>赞(0) 踩(0) | <div>没有更好的诠释了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2223167)<br><br>2011-12-11 12:04<br>赞(0) 踩(0) | <div>我愿意 抛弃我的所有 如果能 时光倒流</div> |
@@ -453,4 +453,4 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2708496)<br><br>2011-02-06 19:22<br>赞(0) 踩(0) | <div>时光无法倒流~~~生命仅此一次~~~所以我们忧伤~~~所以我们欢歌~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2470471)<br><br>2011-01-25 19:00<br>赞(0) 踩(0) | <div>好听，忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1329232)<br><br>2010-11-20 12:42<br>赞(0) 踩(0) | <div>抛弃所有那抛弃记忆呢？没了记忆回到过去又有什么意义，也许此时此刻我们已经无数次来过却以为还是第一次到。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1664359)<br><br>2010-11-01 16:56<br>赞(0) 踩(0) | <div>我想哭 却流不出眼泪我想喊 却发不出声音我愿意 抛弃我的所有</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1664359)<br><br>2010-11-01 16:56<br>赞(0) 踩(0) | <div>我想哭 却流不出眼泪<br>我想喊 却发不出声音<br>我愿意 抛弃我的所有</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c60b05061b3d155e8e598c967e58f566.jpg)<br>曼曼的钢琴城堡](https://i.xiami.com/chanmao) | **播放数**: 1983690<br>**粉丝数**: 369<br>**评论数**: 13<br>**地区**: China 中国大陆<br>**风格**: 电音流行 Electropop, 流行 Pop, 华语唱作人 Chinese Singer-Songwriter, 器乐独奏 Solo Instrumental, 爵士 Jazz<br> |
+| [![](../../images/musicians/c60b05061b3d155e8e598c967e58f566.jpg)<br>曼曼的钢琴城堡](https://i.xiami.com/chanmao) | **地区**: China 中国大陆<br>**风格**: 电音流行 Electropop, 流行 Pop, 华语唱作人 Chinese Singer-Songwriter, 器乐独奏 Solo Instrumental, 爵士 Jazz<br>**播放数**: 1983690<br>**粉丝数**: 369<br>**评论数**: 13<br> |
 
 ## 档案
 
@@ -31,8 +31,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405122030)<br>我还没想好要写什么...<br>2020-06-09 14:29<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440499087)<br><br>2020-04-14 21:25<br>赞(1) 踩(0) | <div>太棒了，太棒了，超喜欢 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13826905)<br><br>2020-04-07 17:52<br>赞(1) 踩(0) | <div>我觉得很好听</div> |

@@ -43,10 +43,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2021-01-23 08:49<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30776295)<br> <br>2021-01-08 15:01<br>赞(1) 踩(0) | <div>从现在开始改变你的生活。可不么虾米没了生活的习惯要改了。最后再在收藏留下足迹，做一次随机播放的巡礼，播到哪算哪，播几首算几首。如果我们在这里遇见。你好、再见。陌生人。纵情有再多不舍，最后还是要再见。再见陪伴了我快八年的岁月，再见1300首的收藏夹，再见青春岁月，再见虾米</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30776295)<br> <br>2021-01-08 15:01<br>赞(1) 踩(0) | <div>从现在开始改变你的生活。可不么虾米没了生活的习惯要改了。<br><br>最后再在收藏留下足迹，做一次随机播放的巡礼，播到哪算哪，播几首算几首。<br>如果我们在这里遇见。你好、再见。陌生人。<br>纵情有再多不舍，最后还是要再见。再见陪伴了我快八年的岁月，再见1300首的收藏夹，再见青春岁月，再见虾米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439377703)<br>浮生若夢 為歡幾何<br>2020-06-01 06:03<br>赞(1) 踩(0) | <div>改變你的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402738751)<br><br>2019-08-20 14:27<br>赞(1) 踩(0) | <div>痛痒加油！中国摇滚加油！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402738751)<br><br>2019-08-20 14:26<br>赞(0) 踩(0) | <div>改变你的生活…竟然想起王力宏的歌</div> |
@@ -68,7 +68,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205562404)<br> <br>2018-03-25 22:34<br>赞(1) 踩(0) | <div>我就是这么一个薄情寡淡的人 没有什么对我很重要 <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7526999)<br> <br>2017-11-27 23:14<br>赞(2) 踩(0) | <div>改变我们的生活！一直改变自己！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4602898)<br><br>2017-10-30 10:08<br>赞(2) 踩(0) | <div>“城市里终于又迎来了焰火，照亮新鲜、感动和诱惑；浪漫的祝福我送不出，不要让孤单的灵魂留在角落…”对嘛~周六的夜晚就应该来首这样的歌！高虎慵懒的唱腔配上略带销魂的手风琴伴奏，够味！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4731666)<br>我单身，请认识我一下吧<br>2017-10-27 23:02<br>赞(2) 踩(0) | <div>为毛有种想热泪盈眶的感觉··在山东日照迷笛的时候钻到了前排看着高虎 听着这些歌··然后闭上眼 眼泪就刷一下出来了·</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4731666)<br>我单身，请认识我一下吧<br>2017-10-27 23:02<br>赞(2) 踩(0) | <div>为毛有种想热泪盈眶的感觉··<br>在山东日照迷笛的时候钻到了前排<br>看着高虎 听着这些歌··<br>然后闭上眼 眼泪就刷一下出来了·</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46415707)<br><br>2017-05-26 23:18<br>赞(1) 踩(0) | <div>百听不厌！哈哈哈！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204075702)<br>我只想活的热烈一点<br>2017-04-29 10:04<br>赞(18) 踩(0) | <div>热评请听一下新专ok？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39824608)<br>童子身合唱团<br>2017-06-30 12:51<br>赞(0) 踩(0) | <div>更难听了</div> |
@@ -142,14 +142,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15963682)<br> <br>2014-10-08 00:58<br>赞(0) 踩(0) | <div>还记得你曾经承诺过的，有一天世界将是我们的舞台。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33304050)<br><br>2014-07-21 19:05<br>赞(0) 踩(0) | <div>Wo, wo.....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34519846)<br>暂无签名~<br>2014-07-16 21:44<br>赞(0) 踩(0) | <div>从现在开始改变你的生活</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13849723)<br>祝你孤独且长命百岁<br>2014-07-06 04:15<br>赞(2) 踩(0) | <div>有一个朋友对你十分重要可那不能是全部的依靠 。每次听到就想起你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13849723)<br>祝你孤独且长命百岁<br>2014-07-06 04:15<br>赞(2) 踩(0) | <div>有一个朋友对你十分重要<br>可那不能是全部的依靠 。每次听到就想起你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11499533)<br><br>2014-06-04 13:07<br>赞(0) 踩(0) | <div>哦…Rock Star…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7938412)<br><br>2014-05-13 21:39<br>赞(0) 踩(0) | <div>收音机没有熟悉的歌，电视里也没什么想看的，出租车里实在闷的无聊，想不想对我说些什么~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35804362)<br>人间好玩儿么<br>2014-04-25 11:30<br>赞(0) 踩(0) | <div>还记得你曾经承诺过的，有一天世界将是我们的舞台。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4315097)<br><br>2014-04-11 23:25<br>赞(0) 踩(0) | <div>喵喵喵~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7555910)<br>记起我曾身藏利刃<br>2014-03-03 20:37<br>赞(0) 踩(0) | <div>每天提前N个小时关掉电脑上床看书，每周坚持跑步，并且坚信世界上有美丽的桥梁和温暖的天空。“如果诗意可以填补虚空”，那我们就从现在开始改变我们的生活。晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29285461)<br><br>2014-02-18 00:36<br>赞(0) 踩(0) | <div>rock star 从现在开始改变你的生活</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7962476)<br><br>2014-01-28 01:15<br>赞(0) 踩(0) | <div>有一个朋友对你十分重要可那不能是全部的依靠</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7962476)<br><br>2014-01-28 01:15<br>赞(0) 踩(0) | <div>有一个朋友对你十分重要<br>可那不能是全部的依靠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13597180)<br><br>2014-01-13 11:32<br>赞(0) 踩(0) | <div>改变一切</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27538110)<br>我还没想好要写什么...<br>2014-01-10 00:39<br>赞(0) 踩(0) | <div>让我不挂科就能改变我的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236164)<br><br>2013-12-25 14:12<br>赞(0) 踩(0) | <div>好吧。听歌需要缘分。居然听进去了 。</div> |
@@ -168,7 +168,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1009809)<br><br>2013-06-18 11:07<br>赞(0) 踩(0) | <div>听来会快乐的歌儿。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16000134)<br><br>2013-06-15 12:48<br>赞(0) 踩(0) | <div>如果诗意可以填补虚空 那么歉意随时都可以点头 如果没有桥梁和温暖的天空 世界又怎么会是我们的舞台</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3245832)<br><br>2013-06-05 21:35<br>赞(0) 踩(0) | <div>还记得那些你承诺过的 有一天世界将是我们的舞台 o。。rockstar 从现在开始改变你的生活</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/895254)<br><br>2013-05-30 00:41<br>赞(0) 踩(0) | <div>wow o wow orock star从现在开始改变你的生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/895254)<br><br>2013-05-30 00:41<br>赞(0) 踩(0) | <div>wow o wow o<br>rock star<br>从现在开始改变你的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2988530)<br>177.5<br>2013-05-28 22:56<br>赞(0) 踩(0) | <div>2b青年事儿最多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10610447)<br><br>2013-05-27 19:22<br>赞(0) 踩(0) | <div>qnmlgb</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3345968)<br><br>2013-05-19 01:22<br>赞(0) 踩(0) | <div>#睡前音乐#  噢，Rockstar，从现在开始改变你的生活！</div> |
@@ -195,7 +195,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4704777)<br>你好<br>2012-07-13 00:57<br>赞(0) 踩(0) | <div>有一天世界将会是我们的舞台。Rock start! 再见。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2645856)<br><br>2012-07-08 23:24<br>赞(0) 踩(0) | <div>深更半夜听痛仰就是很鸡血！！！！！我去high了！！！这不比咖啡给劲儿多了！！！然后还有就是……一定要听痛仰现场啊！！！CD里的也弱太多了吧！！！！T^T不够ROCKER啊！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/543459)<br><br>2012-06-16 20:41<br>赞(0) 踩(0) | <div>llllllllllll</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4502184)<br><br>2012-06-04 16:25<br>赞(0) 踩(0) | <div>有一个朋友对你十分重要可那不能是全部的依靠哦..哦.. rock start 从现在开始改变你的生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4502184)<br><br>2012-06-04 16:25<br>赞(0) 踩(0) | <div>有一个朋友对你十分重要<br>可那不能是全部的依靠<br>哦..哦.. rock start 从现在开始改变你的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9191768)<br><br>2012-05-23 20:32<br>赞(0) 踩(0) | <div>一听这歌怎么就想起差点被踩死挤死的live现场，还觉得挺可乐的，哈哈，不过还是要感谢MAX大爬梯，痛仰大牛！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7111534)<br><br>2012-05-19 20:28<br>赞(0) 踩(0) | <div>哦。。。rockstar  从现在改变你的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5117627)<br>purer<br>2012-05-15 01:14<br>赞(0) 踩(0) | <div>听到这首歌让我想起了去年的老码头...</div> |
@@ -213,19 +213,19 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1144156)<br><br>2011-12-16 10:29<br>赞(0) 踩(0) | <div>@捕风 是谁说要改变生活来着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6343255)<br><br>2011-11-29 13:25<br>赞(0) 踩(0) | <div>目</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23006)<br> <br>2011-11-09 12:47<br>赞(0) 踩(0) | <div>！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5518842)<br><br>2011-10-18 12:27<br>赞(0) 踩(0) | <div>如果没有桥梁和温暖的天空世界又怎么会是我们的舞台</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5518842)<br><br>2011-10-18 12:27<br>赞(0) 踩(0) | <div>有一个朋友对你十分重要可那不能是全部的依靠还记得你那些承诺过的有一天世界将是我们的舞台</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5518842)<br><br>2011-10-18 12:26<br>赞(0) 踩(0) | <div>有一个朋友对你十分重要可那不能是全部的依靠还记得你那些承诺过的有一天世界将是我们的舞台</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5518842)<br><br>2011-10-18 12:26<br>赞(0) 踩(0) | <div>有一个朋友对你十分重要可那不能是全部的依靠还记得你那些承诺过的有一天世界将是我们的舞台</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5518842)<br><br>2011-10-18 12:27<br>赞(0) 踩(0) | <div>如果没有桥梁和温暖的天空<br>世界又怎么会是我们的舞台</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5518842)<br><br>2011-10-18 12:27<br>赞(0) 踩(0) | <div>有一个朋友对你十分重要<br>可那不能是全部的依靠<br>还记得你那些承诺过的<br>有一天世界将是我们的舞台</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5518842)<br><br>2011-10-18 12:26<br>赞(0) 踩(0) | <div>有一个朋友对你十分重要<br>可那不能是全部的依靠<br>还记得你那些承诺过的<br>有一天世界将是我们的舞台</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5518842)<br><br>2011-10-18 12:26<br>赞(0) 踩(0) | <div>有一个朋友对你十分重要<br>可那不能是全部的依靠<br>还记得你那些承诺过的<br>有一天世界将是我们的舞台</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5814428)<br><br>2011-09-29 16:58<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1126943)<br><br>2011-09-28 01:59<br>赞(0) 踩(0) | <div>就为那美丽勾人的手风琴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2110314)<br><br>2011-09-14 18:01<br>赞(0) 踩(0) | <div>其实骨子里还是蛮有这种摇滚的血液充斥着,怪不得我喜欢许巍汪峰的歌。摇滚人的心里有着一种原始的源自内心深处的呐喊,有着一种愤亢的情愫,是有一种属于自己的灵魂存在着...喜欢这种感觉,真自我,内心无边,舒服的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5262681)<br><br>2011-08-10 19:56<br>赞(0) 踩(0) | <div>从现在开始改变你的生活。。。。。点女王说，自己想改名字叫“羊咩咩”。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4386625)<br> <br>2011-08-01 12:21<br>赞(0) 踩(0) | <div>改变</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4236)<br>整个夏天风扇转啊转，就像...<br>2011-06-17 20:05<br>赞(0) 踩(0) | <div>改变你的生活吧，朋友。就从现在开始</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4236)<br>整个夏天风扇转啊转，就像...<br>2011-06-17 20:05<br>赞(0) 踩(0) | <div>改变你的生活吧，朋友。<br>就从现在开始</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/871263)<br><br>2011-02-11 10:31<br>赞(0) 踩(0) | <div>这手风琴拉的，很给力。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1058604)<br><br>2010-10-09 13:27<br>赞(0) 踩(0) | <div>前奏特别给力  听了让人特别兴奋 谁是ROCK STAR 就是我们自己</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1416818)<br><br>2010-09-12 12:01<br>赞(0) 踩(0) | <div>rock start从现在开始改变你的生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1416818)<br><br>2010-09-12 12:01<br>赞(0) 踩(0) | <div>rock start<br>从现在开始改变你的生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/600368)<br>群众的眼睛是雪亮的=喷子<br>2010-06-06 01:48<br>赞(0) 踩(0) | <div>曲子不错啊，有活力</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/458527)<br><br>2010-05-14 21:26<br>赞(0) 踩(0) | <div>%&amp;gt;_&amp;lt;%</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/822273)<br><br>2010-05-12 21:45<br>赞(0) 踩(0) | <div>喜欢前奏</div> |

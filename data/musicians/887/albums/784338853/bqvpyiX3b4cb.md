@@ -55,8 +55,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343555192)<br><br>2020-06-15 07:59<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2425440)<br>静听松风寒<br>2020-03-24 11:25<br>赞(2) 踩(0) | <div>精神如何褴褛？文盲！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339958057)<br><br>2019-08-08 08:32<br>赞(2) 踩(0) | <div>一生漂泊半生癫狂，所谓谁呀？</div> |
@@ -72,7 +72,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293134782)<br> <br>2018-10-09 13:24<br>赞(0) 踩(0) | <div>老当益壮，楷模</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336270301)<br><br>2018-10-07 14:02<br>赞(0) 踩(0) | <div>你去听听郑钧的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355186078)<br><br>2018-10-05 18:54<br>赞(1) 踩(0) | <div>男人的骄傲、崇拜（偶像）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324913581)<br><br>2018-08-29 14:35<br>赞(0) 踩(0) | <div>挣扎、发泄、无助就像临死之前求生的欲望</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324913581)<br><br>2018-08-29 14:35<br>赞(0) 踩(0) | <div>挣扎、发泄、无助就像临<br>死之前求生的欲望</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374995910)<br><br>2018-08-28 12:54<br>赞(0) 踩(0) | <div>人生经历</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378579061)<br><br>2018-08-25 10:03<br>赞(1) 踩(0) | <div>汪峰是谁啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328307513)<br>云在水中水行船 花在心中...<br>2018-08-16 22:39<br>赞(0) 踩(0) | <div>像个石头一样的滚吧</div> |
@@ -106,10 +106,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340732712)<br>蜜蜡如歌<br>2018-06-14 05:48<br>赞(2) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300481793)<br><br>2018-06-12 15:25<br>赞(3) 踩(0) | <div>压抑的人懂你。因为你压抑。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340732712)<br>蜜蜡如歌<br>2018-06-12 13:33<br>赞(1) 踩(0) | <div>没啥说的，听就得了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293756320)<br>我还没想好要写什么...<br>2018-06-08 21:45<br>赞(2) 踩(0) | <div>每次生活让我觉得痛了，我就来听它擦干净自己身上的伤口又是一个坚强的人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293756320)<br>我还没想好要写什么...<br>2018-06-08 21:45<br>赞(2) 踩(0) | <div>每次生活让我觉得痛了，我就来听它<br>擦干净自己身上的伤口<br>又是一个坚强的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47100508)<br><br>2018-06-06 19:44<br>赞(3) 踩(0) | <div>听了会心酸，想哭想大吼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333508973)<br>见天地   见众生   ...<br>2018-05-24 06:44<br>赞(11) 踩(0) | <div>喜欢汪峰，无论有多少争议或者有多少他的私生活被议论，但是与音乐无关。我们众生不过是笑话别人，不如别人，或者被别人笑话，比不了更强的人。所以，好听，走心，就是音乐的魅力，无关其他。这样一个声嘶力竭的男人，就是一个纯粹的人生，活着，谁不彷徨，谁不迷茫，但是，看透了一切还依然激情四射的人，就是灵魂战车，好好活着吧，我们还要死很久。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328307513)<br>云在水中水行船 花在心中...<br>2018-08-16 22:51<br>赞(0) 踩(0) | <div>是的 音乐就是音乐 别扯其它的 说人家私生活怎么怎么样的 说句实在话 我们都没那个能力去评价 因为我们没有人家那样的高度 都是捕风捉影的就算你有一天你能达到了 你就敢保证你能做的比他好？</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328307513)<br>云在水中水行船 花在心中...<br>2018-08-16 22:51<br>赞(0) 踩(0) | <div>是的 音乐就是音乐 别扯其它的 说人家私生活怎么怎么样的 说句实在话 我们都没那个能力去评价 因为我们没有人家那样的高度 都是捕风捉影的<br>就算你有一天你能达到了 你就敢保证你能做的比他好？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27092296)<br><br>2018-05-23 08:51<br>赞(2) 踩(0) | <div>感觉汪峰的写词状态有点儿郑智化的那会儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262226001)<br>一个只有钱才可以影响到情...<br>2018-05-21 23:42<br>赞(2) 踩(0) | <div>生命告诉我们生来孤独，灵魂告诉我们生来自由。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72250836)<br> <br>2018-05-20 07:13<br>赞(1) 踩(0) | <div>不错</div> |
@@ -136,9 +136,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337966219)<br><br>2018-03-22 08:21<br>赞(1) 踩(0) | <div>嗯哼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344766354)<br><br>2018-03-19 11:16<br>赞(0) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353004836)<br><br>2018-03-15 09:24<br>赞(1) 踩(0) | <div>哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348321361)<br><br>2018-03-11 11:17<br>赞(1) 踩(0) | <div>每天走在疯狂逐梦的大街上我们精神褴褛却又毫无倦意徘徊着寻找着那虚空的欢愉奔波着抗争着那无常的命运再也别象个傻瓜一样的哭了因为象我们这样的人生来彷徨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348321361)<br><br>2018-03-11 11:17<br>赞(1) 踩(0) | <div>每天走在疯狂逐梦的大街上<br>我们精神褴褛却又毫无倦意<br>徘徊着寻找着那虚空的欢愉<br>奔波着抗争着那无常的命运<br>再也别象个傻瓜一样的哭了<br>因为象我们这样的人生来彷徨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334353324)<br>散散心，败败火，照照境子...<br>2018-03-08 12:18<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348574059)<br>还没能明白，怎样最自在。<br>2018-03-07 11:56<br>赞(4) 踩(0) | <div>有时你自己可能都没察觉在你经历一些事或遇到某个人后你就像换了一种性格悄悄地告别了从前的自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348574059)<br>还没能明白，怎样最自在。<br>2018-03-07 11:56<br>赞(4) 踩(0) | <div>有时你自己可能都没察觉<br>在你经历一些事或遇到某个人后<br>你就像换了一种性格<br>悄悄地告别了从前的自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268871386)<br>我想我会一直孤单，这样孤...<br>2018-03-03 16:57<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344022065)<br>音乐温暖了我的耳朵。<br>2018-02-27 19:57<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342851522)<br><br>2018-02-25 07:11<br>赞(3) 踩(0) | <div>人生也许就是这样</div> |
@@ -180,7 +180,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267633345)<br><br>2017-12-25 15:13<br>赞(0) 踩(0) | <div>累！累！累！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339186376)<br><br>2017-12-24 12:01<br>赞(0) 踩(0) | <div>人的一生  不确定  选择彷徨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266861139)<br><br>2017-12-24 10:27<br>赞(0) 踩(0) | <div>做任务</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304034588)<br>与其临渊慕鱼，不如退而结...<br>2017-12-23 22:21<br>赞(36) 踩(0) | <div>郑钧：《门》 1997汪峰：《门开了》 2004郑钧：《幸福的子弹》 1999汪峰：《爱是一颗幸福的子弹》 2002郑钧：《怒放》1999汪峰：《怒放的生命》2005郑钧：《流星》 2001汪峰：《恒星》 2005郑钧：《一刹那》2005汪峰：《一瞬间》2011郑钧：《长安长安》 2006汪峰：《北京北京》 2007郑钧：《生来忧伤》 2007汪峰：《生来彷徨》 2013</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304034588)<br>与其临渊慕鱼，不如退而结...<br>2017-12-23 22:21<br>赞(36) 踩(0) | <div>郑钧：《门》 1997<br><br>汪峰：《门开了》 2004<br><br>郑钧：《幸福的子弹》 1999<br><br>汪峰：《爱是一颗幸福的子弹》 2002<br><br>郑钧：《怒放》1999<br><br>汪峰：《怒放的生命》2005<br><br>郑钧：《流星》 2001<br><br>汪峰：《恒星》 2005<br><br>郑钧：《一刹那》2005<br><br>汪峰：《一瞬间》2011<br><br>郑钧：《长安长安》 2006<br><br>汪峰：《北京北京》 2007<br><br>郑钧：《生来忧伤》 2007<br><br>汪峰：《生来彷徨》 2013</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346866657)<br><br>2018-04-05 17:46<br>赞(0) 踩(0) | <div>最后一条，貌似汪峰在更早的2002年出过一首叫《生来孤独》的歌。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339839992)<br><br>2018-05-30 23:11<br>赞(0) 踩(0) | <div>666</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252439778)<br><br>2018-07-28 22:10<br>赞(0) 踩(0) | <div>汪峰和郑钧就是朋友，而且都是现场滥，更奇怪的是他俩我都喜欢 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -219,13 +219,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10495358)<br>秋凉天气<br>2017-10-30 09:52<br>赞(2) 踩(0) | <div>听歌就是听歌，不为所谓的逼格，不关心有的没的八卦传闻，歌好听令我感动我就喜欢，就这么简单。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50596418)<br>努力证明好人能长命百岁。...<br>2017-10-30 08:21<br>赞(0) 踩(0) | <div>啦啦啦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48709053)<br><br>2017-10-30 07:21<br>赞(2) 踩(0) | <div>不错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18800005)<br>全民K歌Andyli99...<br>2017-10-28 00:32<br>赞(3) 踩(0) | <div>每天走在疯狂逐梦的大街上我们精神褴褛却又毫无倦意徘徊着寻找着那虚空的欢愉奔波着抗争着那无常的命运朋友啊 这生活会把你的心伤烂可它从来就不会有一丝怜悯再也别象个傻瓜一样的哭了因为象我们这样的人生来彷徨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18800005)<br>全民K歌Andyli99...<br>2017-10-28 00:32<br>赞(3) 踩(0) | <div>每天走在疯狂逐梦的大街上<br>我们精神褴褛却又毫无倦意<br>徘徊着寻找着那虚空的欢愉<br>奔波着抗争着那无常的命运<br><br>朋友啊 这生活会把你的心伤烂<br>可它从来就不会有一丝怜悯<br>再也别象个傻瓜一样的哭了<br>因为象我们这样的人生来彷徨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30990)<br>我还没想好要写什么...<br>2017-10-28 00:31<br>赞(1) 踩(0) | <div>#1206#重度雾霾，眼神也不好，上班路上摔了一大跤，心情也跟着低落到尘埃！想家，想妈妈！再也别象个疯子一样的拼了，因为象我们这样的人生来彷徨？！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13695826)<br><br>2017-10-28 00:31<br>赞(2) 踩(0) | <div>我是汪黑，不是因为他私生活的那点破事，是讨厌他明明一摇滚歌星还要装道德楷模，另外烂歌太多。不过他还是有好几首歌可以听。这首歌也算是可以听的，我相信是他的心声，是的，他就是生来彷徨，一直都迷失找不到北，从来都在十字路口走上那条破灭的路，那就做自己写自己吧，地球是圆的，反正一直向南走也能到北极。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2786602)<br>人生如歌，所以到歌里去经...<br>2017-10-28 00:09<br>赞(0) 踩(0) | <div>推荐这首歌的原因是觉得它和汪峰的近况一点都不符，他对章之怡的恋情一点都不彷徨。。。。哈！哈！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2805143)<br><br>2017-10-28 00:09<br>赞(0) 踩(0) | <div>听着新曲#生来彷徨#总是会想起另外一首名称近乎相同的#生来孤独#对比两首不同思绪意义的歌曲，却是更加喜欢原来的生来孤独...或许原来总是会莫名的孤独...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9750660)<br><br>2017-10-28 00:09<br>赞(2) 踩(0) | <div>不管大家怎么烂评，我细细听了，还是感动了不只一点。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28301167)<br><br>2017-10-27 23:24<br>赞(0) 踩(0) | <div>每天走在疯狂逐梦的大街上奔波着抗争着那无常的命运再也别象个傻瓜一样的哭了传真机到炼钢厂有一万光年/那只是我们失梦之路的起点妈妈你善良的孩子还没放弃/他想在今夜的街上爱到死去再也别象个疯子一样的拼了明天我们是否活着却依然不在/明天我们是否存在却迷惘依然</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28301167)<br><br>2017-10-27 23:24<br>赞(0) 踩(0) | <div>每天走在疯狂逐梦的大街上<br><br>奔波着抗争着那无常的命运<br><br>再也别象个傻瓜一样的哭了<br><br>传真机到炼钢厂有一万光年/那只是我们失梦之路的起点<br>妈妈你善良的孩子还没放弃/他想在今夜的街上爱到死去<br><br>再也别象个疯子一样的拼了<br><br>明天我们是否活着却依然不在/明天我们是否存在却迷惘依然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41053659)<br><br>2017-10-27 23:22<br>赞(388) 踩(0) | <div>没经历没生活没思想没梦想的人，不会理解汪峰的，但请别用你的平庸诋毁他，你也许不需要他，可我们要！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323790862)<br><br>2017-12-07 19:59<br>赞(0) 踩(0) | <div>老房装暖气，就找四川鼎格舒适家</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294990594)<br><br>2017-12-08 21:23<br>赞(0) 踩(0) | <div>我想说，网络上黑汪峰，黑范冰冰，黑杨颖的，他们越黑的起劲，我越喜欢。任何人的成功都不是轻而易举的。</div> |
@@ -234,9 +234,9 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84739726)<br>上苍保佑卑微的人民有读书...<br>2018-04-08 17:46<br>赞(0) 踩(0) | <div>很多人跟风黑</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22835302)<br><br>2018-05-18 19:22<br>赞(0) 踩(0) | <div><q><b>Maple有谱儿说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379167919)<br><br>2018-08-27 22:03<br>赞(0) 踩(0) | <div>vguyty</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2017-10-27 23:19<br>赞(0) 踩(0) | <div>每天走在疯狂逐梦的大街上我们精神褴褛却又毫无倦意徘徊着寻找着那虚空的欢愉奔波着抗争着那无常的命运朋友啊 这生活会把你的心伤烂可它从来就不会有一丝怜悯再也别像个傻瓜一样的哭了因为像我们这样的人生来彷徨传真机到炼钢厂有一万光年那只是我们失梦之路的起点妈妈你…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2017-10-27 23:19<br>赞(0) 踩(0) | <div>每天走在疯狂逐梦的大街上<br>我们精神褴褛却又毫无倦意<br>徘徊着寻找着那虚空的欢愉<br>奔波着抗争着那无常的命运<br><br>朋友啊 这生活会把你的心伤烂<br>可它从来就不会有一丝怜悯<br>再也别像个傻瓜一样的哭了<br>因为像我们这样的人生来彷徨<br><br>传真机到炼钢厂有一万光年<br>那只是我们失梦之路的起点<br>妈妈你…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5042720)<br><br>2017-10-27 23:10<br>赞(0) 踩(0) | <div>那些给一颗星的是冲着音乐去的呢 还是冲着他最近离婚事件去的呢？ 这里是音乐平台，不是人品人身攻击的地儿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2017-10-27 23:10<br>赞(0) 踩(0) | <div>每天走在疯狂逐梦的大街上我们精神褴褛却又毫无倦意徘徊着寻找着那虚空的欢愉奔波着抗争着那无常的命运朋友啊 这生活会把你的心伤烂可它从来就不会有一丝怜悯再也别象个傻瓜一样的哭了因为象我们这样的人生来彷徨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2017-10-27 23:10<br>赞(0) 踩(0) | <div>每天走在疯狂逐梦的大街上<br>我们精神褴褛却又毫无倦意<br>徘徊着寻找着那虚空的欢愉<br>奔波着抗争着那无常的命运<br><br>朋友啊 这生活会把你的心伤烂<br>可它从来就不会有一丝怜悯<br>再也别象个傻瓜一样的哭了<br>因为象我们这样的人生来彷徨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331656557)<br><br>2017-10-26 21:49<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289470319)<br>我就是我 是颜色不一样的...<br>2017-10-13 18:45<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271145342)<br>我还没想好要写什么...<br>2017-10-13 06:48<br>赞(2) 踩(0) | <div>摇滚就是活着</div> |
@@ -323,7 +323,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6703403)<br><br>2015-10-05 14:04<br>赞(0) 踩(0) | <div>NIRVANA揍扁枪花党</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274495818)<br><br>2017-11-27 20:15<br>赞(0) 踩(0) | <div>只能按类别对号，然后做一个纯粹的人么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50524776)<br><br>2015-07-07 18:59<br>赞(0) 踩(0) | <div>生来彷徨！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3993732)<br><br>2015-07-04 11:46<br>赞(0) 踩(0) | <div>朋友啊 这生活会把你的心伤烂可它从来就不会有一丝怜悯再也别像个傻瓜一样的哭了因为像我们这样的人生来彷徨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3993732)<br><br>2015-07-04 11:46<br>赞(0) 踩(0) | <div>朋友啊 这生活会把你的心伤烂<br>可它从来就不会有一丝怜悯<br>再也别像个傻瓜一样的哭了<br>因为像我们这样的人生来彷徨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15943261)<br><br>2015-06-29 11:09<br>赞(1) 踩(0) | <div>真好听！ 汪峰是用人生唱歌的歌手！！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51827150)<br><br>2015-06-28 00:44<br>赞(0) 踩(0) | <div>生来彷徨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47879741)<br> <br>2015-06-20 17:45<br>赞(0) 踩(0) | <div>每个人依旧都是独立的个体啊</div> |
@@ -345,7 +345,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48244080)<br><br>2015-05-07 12:36<br>赞(0) 踩(0) | <div>生来 怎样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49682283)<br>85698124<br>2015-05-04 16:16<br>赞(0) 踩(0) | <div>但不得不说    他确实创作了许多好歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9403458)<br>我还没想好要写什么...<br>2015-05-03 10:56<br>赞(32) 踩(0) | <div>歌手，唱歌，写歌。作词作曲。至于私生活谁没有？不过他是明星被大家扒出来而已。喜欢听歌就听，不喜欢就不听。我们只听喜欢的歌，其他屏蔽掉就OK。。。闲谈莫论人非，静时常思己过。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16599601)<br><br>2015-05-01 08:27<br>赞(0) 踩(0) | <div>这世界会将你的梦破败而它从来就不会有一丝同情再也别象个疯子一样的拼了因为象我们这样的人生来彷徨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16599601)<br><br>2015-05-01 08:27<br>赞(0) 踩(0) | <div>这世界会将你的梦破败<br><br>而它从来就不会有一丝同情<br><br>再也别象个疯子一样的拼了<br><br>因为象我们这样的人生来彷徨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49538513)<br><br>2015-04-24 22:00<br>赞(0) 踩(0) | <div>传真机到炼钢厂一万光年，那只是我们失梦之路的起点。这世界会将你的梦破败，而它从来就不会有一丝同情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36954207)<br><br>2015-04-24 09:01<br>赞(0) 踩(0) | <div>他們說他是渣男但他和每一個愛過的人結婚了能說他渣嗎反正我也不太了解聽歌吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7172511)<br><br>2015-04-15 22:51<br>赞(0) 踩(0) | <div>别的不说 编曲上真的下了功夫</div> |
@@ -357,7 +357,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9265390)<br><br>2015-02-04 00:42<br>赞(1) 踩(0) | <div>每天走在疯狂逐梦的大街上，我们精神褴褛却又毫无倦意，徘徊着寻找着那虚空的欢愉，奔波着抗争着那无常的命运，朋友啊，这生活会把你的心伤烂，可它从来就不会有一丝怜悯，再也别象个傻瓜一样的哭了，因为象我们这样的人生来彷徨。这首歌在路上听真棒，单曲循环中。《生来彷徨》by 汪峰。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46517976)<br>你在哪儿，来听。<br>2015-01-27 22:03<br>赞(0) 踩(0) | <div>歌不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45648608)<br><br>2015-01-25 22:03<br>赞(2) 踩(0) | <div>汪峰的一首歌，就是一种心情，也是一个故事。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/467880)<br><br>2014-12-30 20:53<br>赞(0) 踩(0) | <div>再也别，像个傻瓜一样的，哭了也许注定生来彷徨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/467880)<br><br>2014-12-30 20:53<br>赞(0) 踩(0) | <div>再也别，像个傻瓜一样的，哭了<br>也许注定生来彷徨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45399780)<br><br>2014-12-28 20:58<br>赞(1) 踩(0) | <div>好歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4880128)<br><br>2014-12-23 19:48<br>赞(0) 踩(0) | <div>汪峰的歌永远鼓舞人心</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44679451)<br><br>2014-12-26 20:56<br>赞(0) 踩(0) | <div>汪峰的歌曲</div> |
@@ -460,7 +460,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3237419)<br><br>2014-01-13 21:52<br>赞(0) 踩(0) | <div>不错哦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31584958)<br>娃导<br>2014-01-13 19:02<br>赞(0) 踩(0) | <div>like</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31517229)<br>Stay wild. <br>2014-01-12 22:09<br>赞(0) 踩(0) | <div>我的灵魂彷徨到撕成了两半</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31332106)<br>在音乐文本中生死相依<br>2014-01-11 00:23<br>赞(0) 踩(0) | <div>似乎两节的前一部分背景音可加入小提琴与钢琴，可渲染出孤独与悲怆。汪老师的声音很适合这类最后拉高的歌，如果最后高音部分能稍延长一个拍子 制造出蔓延感可能更好。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31332106)<br>在音乐文本中生死相依<br>2014-01-11 00:23<br>赞(0) 踩(0) | <div>似乎两节的前一部分背景音可加入小提琴与钢琴，可渲染出孤独与悲怆。<br><br>汪老师的声音很适合这类最后拉高的歌，如果最后高音部分能稍延长一个拍子 制造出蔓延感可能更好。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36059265)<br> <br>2014-08-06 01:41<br>赞(0) 踩(0) | <div>还想让汪峰变得多么流行啊？现在已经就够流行的了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16015860)<br><br>2014-01-09 23:54<br>赞(0) 踩(0) | <div>没有理由。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10345030)<br>音乐，生活的灵气<br>2014-01-09 07:38<br>赞(0) 踩(0) | <div>很好</div> |
@@ -477,7 +477,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/663845)<br>暂无签名~<br>2014-01-06 13:37<br>赞(0) 踩(0) | <div>No.80</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13753879)<br><br>2014-01-06 13:23<br>赞(0) 踩(0) | <div>呐喊出心灵的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29120343)<br><br>2014-01-06 08:31<br>赞(0) 踩(0) | <div>生来彷徨！是啊~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31055085)<br><br>2014-01-06 07:40<br>赞(0) 踩(0) | <div>妈妈你善良的孩子还没放弃他想在今夜的街上爱到死去</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31055085)<br><br>2014-01-06 07:40<br>赞(0) 踩(0) | <div>妈妈你善良的孩子还没放弃<br>他想在今夜的街上爱到死去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30653092)<br>严格来说，我只是喜欢流行...<br>2014-01-05 21:34<br>赞(0) 踩(0) | <div>汪峰歌曲最让我不喜欢就是高潮段落歌声和吉他声严重较劲，燥起来可以不过太难听了，而且几乎汪峰一直这样重复着没有创新</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31116603)<br><br>2014-01-05 20:49<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16489511)<br><br>2014-01-05 19:55<br>赞(0) 踩(0) | <div>虾榜第一，感觉还不错</div> |
@@ -490,7 +490,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7215013)<br><br>2014-01-03 16:43<br>赞(0) 踩(0) | <div>生来彷徨~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31005546)<br><br>2014-01-03 11:00<br>赞(0) 踩(0) | <div>呵呵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/535657)<br><br>2014-01-03 08:01<br>赞(1) 踩(0) | <div>我竟然听哭了！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30986226)<br><br>2014-01-03 06:47<br>赞(0) 踩(0) | <div>正规兼直、真实的靠劳动挣钱，只要你肯花时间做，每天挣几十是很容易的，想靠真实劳动挣钱的就跟我来！有兴趣的加：抠1-4-5-3-9连上7 -0- 5- 4- 2哦~~不相信请不要来，你给我一份信任，我还你一份真诚！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30986226)<br><br>2014-01-03 06:47<br>赞(0) 踩(0) | <div>正规兼直、真实的靠劳动挣钱，只要你肯花时间做，每天挣几十是很容易的，想靠真实劳动挣钱的就跟我来！有兴趣的加：抠1-4-5-3-9连上7 -0- 5- 4- 2哦~~<br>不相信请不要来，你给我一份信任，我还你一份真诚！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24911837)<br>吃货<br>2014-01-02 22:23<br>赞(0) 踩(0) | <div>这段时间诸多不顺，听听这首歌，突然感觉不是我一个彷徨无助，生活本身就让人彷徨，大家都一样，心里好受些了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30979883)<br><br>2014-01-02 20:14<br>赞(0) 踩(0) | <div>chao</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30960804)<br><br>2014-01-02 15:16<br>赞(0) 踩(0) | <div>很好听</div> |
@@ -508,11 +508,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26961294)<br><br>2013-12-28 22:30<br>赞(0) 踩(0) | <div>不错的歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29607691)<br><br>2013-12-28 21:24<br>赞(0) 踩(0) | <div>好声音，值得好好听的歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30669910)<br><br>2013-12-28 14:52<br>赞(0) 踩(0) | <div>生来彷徨</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30659465)<br><br>2013-12-28 13:35<br>赞(0) 踩(0) | <div>朋友们大家好欢迎朋友们都来开微店把你的产品发到微店网上来让270万微店还在每天增加3万微店为你免费推广httpwww2809878okweicomzsjmhtml我刚开了微店跪求人气来访我网店者每人送一个精美手机壳httpwww2809878okweicomzsjmhtml</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30659465)<br><br>2013-12-28 13:35<br>赞(0) 踩(0) | <div>朋友们大家好欢迎朋友们都来开微店把你的产品发到微店网上来让2<br>70万微店还在每天增加3万微店为你免费推广httpwww28<br>09878okweicomzsjmhtml我刚开了微店跪求人<br>气来访我网店者每人送一个精美手机壳httpwww280987<br>8okweicomzsjmhtml</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30645157)<br> <br>2013-12-27 22:52<br>赞(0) 踩(0) | <div>依旧让人心中感动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6378781)<br>Nothing。<br>2013-12-27 22:25<br>赞(0) 踩(0) | <div>你千万不要转身，不要转身啊。@朋克公主</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1064833)<br><br>2013-12-27 20:26<br>赞(0) 踩(0) | <div>汪峰成功就成功在能引起共鸣</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3240352)<br><br>2013-12-27 00:34<br>赞(1) 踩(0) | <div>每年迎接新年的到来都会在qq签名会更新一个年份加词语,给这一年的自己一个清晰的目标,一三年是2013,重铸.而一四年是2014,勇上,进击,生来不彷徨.我讨厌彷徨迷茫的人生状态。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3240352)<br><br>2013-12-27 00:34<br>赞(1) 踩(0) | <div>每年迎接新年的到来都会在qq签名会更新一个年份加词语,<br>给这一年的自己一个清晰的目标,<br>一三年是2013,重铸.<br>而一四年是2014,勇上,进击,生来不彷徨.<br>我讨厌彷徨迷茫的人生状态。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11067463)<br><br>2013-12-26 23:33<br>赞(0) 踩(0) | <div>我们精神褴褛却又毫无倦意。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15848074)<br><br>2013-12-26 21:26<br>赞(0) 踩(0) | <div>q</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1895327)<br><br>2013-12-26 20:40<br>赞(0) 踩(0) | <div>像我们这样的人 生来彷徨</div> |
@@ -546,10 +546,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30192084)<br><br>2013-12-20 23:51<br>赞(0) 踩(0) | <div>到位</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30178088)<br><br>2013-12-20 20:32<br>赞(0) 踩(0) | <div>我们需要努力的活下去，要好好的活下去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5514359)<br><br>2013-12-20 19:41<br>赞(0) 踩(0) | <div>撕裂的疯狂</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8894978)<br> <br>2013-12-20 14:32<br>赞(0) 踩(0) | <div>每天走在疯狂逐梦的大街上 我们精神褴褛却又毫无倦意 徘徊着寻找着那虚空的欢愉奔波着抗争着那无常的命运 再也别像个傻瓜一样的哭了 因为像我们这样的人生来彷徨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8894978)<br> <br>2013-12-20 14:32<br>赞(0) 踩(0) | <div>每天走在疯狂逐梦的大街上 我们精神褴褛却又毫无倦意 徘徊着寻找着那虚空的欢愉<br>奔波着抗争着那无常的命运 再也别像个傻瓜一样的哭了 因为像我们这样的人生来彷徨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29819979)<br><br>2013-12-20 12:47<br>赞(0) 踩(0) | <div>流淌着汪峰一贯桀骜不驯的血液，三十岁以上的人听共鸣感应该更强。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259884)<br><br>2013-12-20 09:48<br>赞(0) 踩(0) | <div>私生活无权评价汪峰的歌至少是一直能打动我的不管是歌词还是旋律总是能在一瞬间产生共鸣</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7051192)<br><br>2013-12-19 21:43<br>赞(0) 踩(0) | <div>再也别像个傻瓜一样的哭了因为像我们这样的人生来彷徨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259884)<br><br>2013-12-20 09:48<br>赞(0) 踩(0) | <div>私生活无权评价<br>汪峰的歌至少是一直能打动我的<br>不管是歌词还是旋律<br>总是能在一瞬间产生共鸣</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7051192)<br><br>2013-12-19 21:43<br>赞(0) 踩(0) | <div>再也别像个傻瓜一样的哭了<br>因为像我们这样的人生来彷徨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12916514)<br><br>2013-12-19 07:46<br>赞(0) 踩(0) | <div>黄绮珊世界最顶级的歌唱技术 伟大的嗓音黄绮珊！ 真正的巨星！ 跨时代的偶像！ 她一直在坚持！善良敬业的黄姐姐！ 完美的女神！世界第一歌者黄绮珊！ 世界第一声乐教母黄绮珊！ 世界第一vocal女王黄绮珊！ 感动全世界吧！ 沸腾全世界吧！黄绮珊世界最顶级的歌唱技术 伟大的嗓音黄绮珊！ 真正的巨星！ 跨时代的偶像！ 她一直在坚持！善良敬业的黄姐姐！ 完美的女神！世界第一歌者黄绮珊！ 世界第一声乐教母黄绮珊！ 世界第一vocal女王黄绮珊！ 感动全世界吧！ 沸腾全世界吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12916514)<br><br>2013-12-19 07:22<br>赞(0) 踩(0) | <div>黄绮珊世界最顶级的歌唱技术 伟大的嗓音黄绮珊！ 真正的巨星！ 跨时代的偶像！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30065636)<br>爱音乐爱生活<br>2013-12-19 06:30<br>赞(0) 踩(0) | <div>很喜欢</div> |
@@ -569,7 +569,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7029226)<br><br>2013-12-16 22:51<br>赞(0) 踩(0) | <div>生来彷徨！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29894806)<br><br>2013-12-16 18:05<br>赞(0) 踩(0) | <div>此时的心情只能这样吼出来吧~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1651474)<br>暂无签名~<br>2013-12-16 18:05<br>赞(0) 踩(0) | <div>喜欢她的歌，，，，</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29878977)<br><br>2013-12-16 14:27<br>赞(0) 踩(0) | <div>做原创音乐  搜索中国音乐超市爱音乐爱唱歌 群151401025欢迎新人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29878977)<br><br>2013-12-16 14:27<br>赞(0) 踩(0) | <div>做原创音乐  搜索中国音乐超市<br>爱音乐爱唱歌 群151401025欢迎新人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29709429)<br><br>2013-12-16 10:24<br>赞(0) 踩(0) | <div>jkgjhfgjhg</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20279362)<br><br>2013-12-15 23:50<br>赞(0) 踩(0) | <div>我爱摇滚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26168659)<br><br>2013-12-15 23:23<br>赞(0) 踩(0) | <div>走在下雨的大街上，在一边像一个傻瓜哭了，谁来彷徨，</div> |
@@ -608,7 +608,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29361713)<br><br>2013-12-10 11:07<br>赞(0) 踩(0) | <div>ddddddd</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29361570)<br><br>2013-12-10 11:06<br>赞(0) 踩(0) | <div>挺现实</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22957162)<br><br>2013-12-10 08:41<br>赞(0) 踩(0) | <div>超写实 颓废中摇滚着... ...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1842010)<br>Just listeni...<br>2013-12-10 07:17<br>赞(0) 踩(0) | <div>帮汪峰上虾米排行榜…ˊ_&amp;gt;ˋ</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1842010)<br>Just listeni...<br>2013-12-10 07:17<br>赞(0) 踩(0) | <div>帮汪峰上虾米排行榜…<br><br>ˊ_&amp;gt;ˋ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29351830)<br><br>2013-12-10 00:14<br>赞(0) 踩(0) | <div>我生活写照</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20316775)<br><br>2013-12-10 00:00<br>赞(0) 踩(0) | <div>生来彷徨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23787298)<br><br>2013-12-09 21:59<br>赞(0) 踩(0) | <div>这是很久以后，唯一让我流泪的歌。</div> |
@@ -629,8 +629,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217359)<br><br>2013-12-07 15:59<br>赞(0) 踩(0) | <div>真讨厌你的人，可真喜欢你的歌，哎真贱啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28722962)<br><br>2013-12-07 15:46<br>赞(0) 踩(0) | <div>因为像我们这样的人生来彷徨。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29190325)<br><br>2013-12-07 13:38<br>赞(0) 踩(0) | <div>好聽</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23337430)<br>声音流淌在我的周围……<br>2013-12-07 13:18<br>赞(0) 踩(0) | <div>每天走在疯狂逐梦的大街上我们精神褴褛却又毫无倦意徘徊着寻找着那虚空的欢愉奔波着抗争着那无常的命运</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27319519)<br><br>2013-12-07 10:35<br>赞(0) 踩(0) | <div>每个人都有自己的感情世界，汪峰也不理外。我喜欢这歌曲！顶起</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23337430)<br>声音流淌在我的周围……<br>2013-12-07 13:18<br>赞(0) 踩(0) | <div>每天走在疯狂逐梦的大街上<br>我们精神褴褛却又毫无倦意<br>徘徊着寻找着那虚空的欢愉<br>奔波着抗争着那无常的命运</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27319519)<br><br>2013-12-07 10:35<br>赞(0) 踩(0) | <div>每个人都有自己的感情世界，汪峰也不理外。<br>我喜欢这歌曲！顶起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11913327)<br>暂无签名~<br>2013-12-07 10:30<br>赞(1) 踩(0) | <div>不过是流着眼泪吃着肉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29180456)<br><br>2013-12-07 10:16<br>赞(0) 踩(0) | <div>~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5844944)<br><br>2013-12-06 22:04<br>赞(0) 踩(0) | <div>汪峰人品怎么样我不知道，但是新歌还是可以听听滴，《生来彷徨》，好一个文艺的歌名。</div> |
@@ -645,7 +645,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29096898)<br><br>2013-12-05 19:53<br>赞(0) 踩(0) | <div>生也彷徨，死也彷徨，一路彷徨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2184671)<br><br>2013-12-05 18:52<br>赞(0) 踩(0) | <div>生来彷徨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2184671)<br><br>2013-12-05 18:47<br>赞(0) 踩(0) | <div>生来彷徨</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5773256)<br><br>2013-12-05 18:11<br>赞(0) 踩(0) | <div>曾经多少次折断过翅膀如今我已不再感到彷徨不是不彷徨了么</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5773256)<br><br>2013-12-05 18:11<br>赞(0) 踩(0) | <div>曾经多少次折断过翅膀<br>如今我已不再感到彷徨<br><br>不是不彷徨了么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28778994)<br><br>2013-12-05 17:53<br>赞(0) 踩(0) | <div>朋友啊这世界会将你的梦破败．．．再也不像个疯子一样的拼了．．．因为像我们这样的人生来彷徨．．．</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6545705)<br>ooooo……在于不不不<br>2013-12-05 13:21<br>赞(0) 踩(0) | <div>tt</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6545705)<br>ooooo……在于不不不<br>2013-12-05 13:21<br>赞(0) 踩(0) | <div>yttt</div> |
@@ -769,7 +769,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10846521)<br>暂无签名~<br>2013-11-15 20:49<br>赞(1) 踩(0) | <div>我能吐槽这句么？“传真机到炼钢厂有一万光年，那只是我们失梦之路的起点”，这跟北京北京要多像啊？“咖啡馆与**有三个街区，就像霓虹灯到月亮的距离。”</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4808333)<br><br>2013-11-16 20:07<br>赞(0) 踩(0) | <div>卧槽,我说怎么哪里比较有熟悉的赶脚,原来这样啊...话说旋律有些感觉和以前的歌有些地方很像</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3465276)<br>大家好，我是刘德华<br>2013-11-15 18:41<br>赞(0) 踩(0) | <div>这歌还可以啊，至于么</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54727)<br> <br>2013-11-15 14:42<br>赞(0) 踩(0) | <div>调调还没听出什么，不过歌词不太喜欢啊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54727)<br> <br>2013-11-15 14:42<br>赞(0) 踩(0) | <div>调调还没听出什么，<br>不过歌词不太喜欢啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18290208)<br><br>2013-11-15 14:08<br>赞(0) 踩(0) | <div>有点忧伤，有点惆怅～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10745332)<br><br>2013-11-15 14:00<br>赞(0) 踩(0) | <div>支持下汪峰，虽然人悲催，歌还是好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12912230)<br><br>2013-11-15 13:29<br>赞(0) 踩(0) | <div>这个应该是最新的歌了吧,分享一下</div> |
@@ -826,7 +826,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337401632)<br><br>2018-04-02 18:25<br>赞(0) 踩(0) | <div>只可惜 ，你不是，你也没有那个命，老老实实搬你的砖就行</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190669905)<br>这家伙很傻逼什么也没留下...<br>2018-04-17 18:08<br>赞(0) 踩(0) | <div>想多了，兄弟</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348783999)<br>155443345<br>2018-05-06 13:13<br>赞(0) 踩(0) | <div>说的真好</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22835302)<br><br>2018-05-18 19:21<br>赞(0) 踩(0) | <div>我* 20980#hl;nhl.lj.h.nlhp.piipioo3他0</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22835302)<br><br>2018-05-18 19:21<br>赞(0) 踩(0) | <div>我* 20980#hl;nhl.l<br>j.<br><br>h.nlhp.piipioo3他0</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369602905)<br><br>2018-05-30 23:16<br>赞(0) 踩(0) | <div>你的作品呢？？先让我看看</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43494189)<br><br>2018-06-24 23:48<br>赞(0) 踩(0) | <div>局x</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281295976)<br>当虾米不再是虾米，就要学...<br>2018-08-25 21:53<br>赞(0) 踩(0) | <div>蒂花之秀</div> |
@@ -838,12 +838,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23360429)<br><br>2013-11-14 11:03<br>赞(0) 踩(0) | <div>分享汪峰的新歌《生来彷徨》，再@虾米音乐 上大家打出来5.7分，你打几分呢？你会为这首歌转身吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2631207)<br><br>2013-11-14 10:48<br>赞(0) 踩(0) | <div>已经很悲催了，发新歌又没上头条。不过还行，还能听听。人品是成问题啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27440082)<br>精神褴褛却毫无倦意<br>2013-11-14 10:44<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9961876)<br> <br>2013-11-14 10:38<br>赞(1) 踩(0) | <div>感觉是在学旭日阳刚那个组合的唱法啊，这种歌真的适合选秀歌手去唱，哎！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9961876)<br> <br>2013-11-14 10:38<br>赞(1) 踩(0) | <div>感觉是在学旭日阳刚那个组合的唱法啊，这种歌真的适合选秀歌手去唱，<br>哎！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1371661)<br><br>2013-11-14 10:37<br>赞(0) 踩(0) | <div>路上一直单曲循环这首歌，心潮澎湃，热泪盈眶。“年轻的泪水不会白流，痛苦和骄傲这一生都要拥有。年轻的心灵还会颤抖，再大的风雨我和你也要向前冲！永远不回头，不管天有多高，忧伤和寂寞，感动和快乐，都在我心中！永远不回头，不管路有多长，黑暗试探我，烈火燃烧我，都要去接受，永远不回头！”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8068976)<br><br>2013-11-14 10:36<br>赞(0) 踩(0) | <div>这歌在虾米上5.8分，一半多人点了一星，人心向背啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27429674)<br><br>2013-11-14 10:20<br>赞(0) 踩(0) | <div>01年从美丽世界的孤儿开始听，这几年汪的作品没有超过《晚安北京》。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15377676)<br>白日梦中人'<br>2013-11-14 10:05<br>赞(0) 踩(0) | <div>总之，这首歌火了&amp;#039;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/811739)<br>清醒的时候从来不是一个感...<br>2013-11-14 09:52<br>赞(0) 踩(0) | <div>朋友啊 这生活会把你的骨折断而它从来就只是在袖手旁观不如象一块石头一样的滚吧因为象我们这样的人生来彷徨//@汪峰 快上头条吧~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/811739)<br>清醒的时候从来不是一个感...<br>2013-11-14 09:52<br>赞(0) 踩(0) | <div>朋友啊 这生活会把你的骨折断<br>而它从来就只是在袖手旁观<br>不如象一块石头一样的滚吧<br>因为象我们这样的人生来彷徨//@汪峰 快上头条吧~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2830748)<br>虽苦还望莫作<br>2013-11-14 09:44<br>赞(0) 踩(0) | <div>大声希音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27420695)<br><br>2013-11-14 09:07<br>赞(0) 踩(0) | <div>勤奋如汪峰，才有资格谈谈天赋够不够的问题。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6702440)<br>我不懂音乐<br>2013-11-14 08:59<br>赞(224) 踩(0) | <div>他赚更多钱了，他又睡女明星了，他居然可以又赚钱又睡女星又玩摇滚，这让人不骂他都很难。这个节点对于汪峰而言没有什么，他不在乎大家说什么，争议越多，他或许还越来劲。但对于汪峰的歌迷是一个重要时刻，因为这种情况下会区别出哪些人是来自《晚安北京》，而哪些人属于《北京北京》。通常后者会在这一时刻迅速撇清自己汪峰歌迷的身份，表示自己只是喜欢《北爱》这部电视剧而已。</div> |
@@ -897,7 +897,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1520891)<br>醒醒睡睡的人啊。<br>2013-11-13 20:09<br>赞(0) 踩(0) | <div>今天是个好日子哈哈哈哈哈哈哈哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2013-11-13 19:55<br>赞(0) 踩(0) | <div>音帝制怡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22605979)<br><br>2013-11-13 19:51<br>赞(0) 踩(0) | <div>试问：怎样的人才生来彷徨？哪种情感使人生来孤独？</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3654022)<br>ray of diamo...<br>2013-11-14 12:34<br>赞(0) 踩(0) | <div>我来答一下，不喜勿怒。通常，童年非常美好，成年饱受挫折，这样的人，由于从来没有感觉过比自己的童年更高的欢乐和满足，所以一直都有着郁闷的情节，怎么也突破不了自己，感觉人生很没劲，却又心有不甘，因为童年的美好是如此印象深刻，以至于无法降低自己对快乐的定义。有过极乐的体验，就感觉不会再爱了，因为后来的一切和自己的经验比起来是那么微不足道。所以，生来彷徨，生来孤独，但这个“生”是指踏入社会，自食其力以后。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3654022)<br>ray of diamo...<br>2013-11-14 12:34<br>赞(0) 踩(0) | <div>我来答一下，不喜勿怒。<br>通常，童年非常美好，成年饱受挫折，这样的人，由于从来没有感觉过比自己的童年更高的欢乐和满足，所以一直都有着郁闷的情节，怎么也突破不了自己，感觉人生很没劲，却又心有不甘，因为童年的美好是如此印象深刻，以至于无法降低自己对快乐的定义。有过极乐的体验，就感觉不会再爱了，因为后来的一切和自己的经验比起来是那么微不足道。所以，生来彷徨，生来孤独，但这个“生”是指踏入社会，自食其力以后。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13646657)<br> <br>2013-11-13 19:08<br>赞(1) 踩(0) | <div>白老师，你太苦了，每次都做了引爆娱乐圈的引线，加油！期待下次更大的料</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11765808)<br> <br>2013-11-13 19:06<br>赞(0) 踩(0) | <div>因为像我们这样的人生来彷徨  ＃帮汪峰上头条＃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18106901)<br><br>2013-11-13 19:01<br>赞(0) 踩(0) | <div>喜欢这首歌！</div> |

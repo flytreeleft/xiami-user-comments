@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>李沅锜](https://i.xiami.com/liwanqi) | **播放数**: 692981<br>**粉丝数**: 121<br>**评论数**: 3<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 器乐独奏 Solo Instrumental<br> |
+| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>李沅锜](https://i.xiami.com/liwanqi) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 器乐独奏 Solo Instrumental<br>**播放数**: 692981<br>**粉丝数**: 121<br>**评论数**: 3<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -26,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425766716)<br><br>2020-06-29 15:12<br>赞(0) 踩(0) | <div>我想问无羁那首歌是什么调？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359792601)<br><br>2020-01-05 10:45<br>赞(0) 踩(0) | <div>大师都没来过吗？期待翻牌子啊 <img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427348962)<br><br>2019-07-19 10:56<br>赞(2) 踩(0) | <div>千本桜   还是比较喜欢这个。</div> |

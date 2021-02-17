@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/53026825d6116549c7371496acd32fc9.jpg)<br>汪峰](https://i.xiami.com/wangfengyinyue) | **播放数**: 199044290<br>**粉丝数**: 748835<br>**评论数**: 4905<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/53026825d6116549c7371496acd32fc9.jpg)<br>汪峰](https://i.xiami.com/wangfengyinyue) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 199044290<br>**粉丝数**: 748835<br>**评论数**: 4905<br> |
 
 ## 档案
 
@@ -136,8 +136,8 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420006938)<br><br>2021-01-03 12:47<br>赞(0) 踩(0) | <div>皮裤峰</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-11-28 10:03<br>赞(0) 踩(0) | <div>zgsbcsbhzznmbgjqs!zslj20201128</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229287331)<br>特摄导演、演员、歌手、编...<br>2020-09-25 02:01<br>赞(0) 踩(0) | <div></div> |
@@ -247,7 +247,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354855786)<br><br>2018-06-12 21:58<br>赞(2) 踩(0) | <div>汪峰我爱你！你的歌就是我生命的动力。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371572995)<br><br>2018-06-11 20:44<br>赞(2) 踩(0) | <div>中年的我最爱生来彷徨。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279090779)<br><br>2018-06-04 18:49<br>赞(0) 踩(0) | <div>我想的是不是能将以前砲家街23号以前的歌，放上来，还是挺怀念以前你们的小鸟</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341158942)<br><br>2018-05-31 00:37<br>赞(1) 踩(0) | <div>回忆路灯下的夜晚公交车即将收班我望着对面小摊回忆开始一段又一段回忆就像过去老师上课用掉的粉笔黑板上的一字一句我再也没有想起那年网络上抄的情话也说过一句又一句只记得她叫杨槟屿模样早已忘记过去三年如今快要毕业</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341158942)<br><br>2018-05-31 00:37<br>赞(1) 踩(0) | <div>回忆<br>路灯下的夜晚<br>公交车即将收班<br>我望着对面小摊<br>回忆开始<br>一段又一段<br>回忆就像过去老师上课用掉的粉笔<br>黑板上的一字一句我再也没有想起<br>那年网络上抄的情话也说过一句又一句<br>只记得她叫杨槟屿模样早已忘记<br>过去三年如今快要毕业</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350137435)<br>X。。<br>2018-05-28 12:19<br>赞(1) 踩(0) | <div>前天晚上演唱会很好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41309501)<br>虾米音乐 要一直努力呀<br>2018-05-28 04:28<br>赞(2) 踩(0) | <div>汪峰 你这十年到底经历了什么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364669305)<br>不断地寻找。<br>2018-05-27 17:58<br>赞(0) 踩(0) | <div>多一个</div> |
@@ -313,7 +313,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57381000)<br>酒叙<br>2018-01-22 18:09<br>赞(1) 踩(0) | <div>高中前完全不懂得品天朝摇滚和民谣，特别是土摇土谣.大学后以窦唯开始一发不可收拾到出国后油管听这些老男人半夜里听的泪流满面.被媒体消费的名人我不知道真正的他们是什么样的，至少最为音乐人他们值得被膜拜.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60162450)<br> <br>2018-01-21 00:16<br>赞(4) 踩(0) | <div>说句老实话我对汪峰的歌和大众一样欣赏不来，可是我现在认真听的时候，他的歌也有很深刻的含义，比如好多歌词里都有存在 值得深思，当然一副好的耳机是有必要的，后悔黑过他，汪峰老师对不起。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345537197)<br><br>2018-01-20 07:00<br>赞(3) 踩(0) | <div>我一直是汪峰的粉，听到同学说汪波长得丑，我把他的书包扔到了门外</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316417421)<br><br>2018-01-14 19:45<br>赞(0) 踩(0) | <div>好听太好听了 <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316417421)<br><br>2018-01-14 19:45<br>赞(0) 踩(0) | <div>好听<br><br>太好听了 <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341627747)<br>闲看庭前窗外花开花谢，慢...<br>2018-01-01 03:33<br>赞(1) 踩(0) | <div><img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311479018)<br> <br>2017-12-26 14:29<br>赞(0) 踩(0) | <div>666</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269046798)<br><br>2017-12-25 14:54<br>赞(0) 踩(0) | <div>底裤离开了糖葫芦寄过来顺顺利利</div> |
@@ -321,7 +321,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306608359)<br>。。。<br>2017-12-23 22:11<br>赞(0) 踩(0) | <div>汪峰老师好啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300706843)<br>唯有音乐和爱不可辜负。<br>2017-12-22 14:15<br>赞(4) 踩(0) | <div>喜欢你的音乐，与你人品无关</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335575338)<br><br>2017-12-18 22:04<br>赞(1) 踩(0) | <div>我天天听几遍汪哥哥手机里一百多首</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9728554)<br><br>2017-12-18 21:47<br>赞(4) 踩(0) | <div>实话实说 这货的歌真 他妈的难听！！！！我上班的楼下广告牌 老是放他的歌，他的歌？ 简直就像在讨债！！ 烦死了 草！！！！！就不能放点有节操的！！！！！！！这些歌多好听啊！<a href="http://www.xiami.com/song/3443306?spm=a1z1s.6928797.1561534521.183.JYy1KW" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/3443306?spm=a1z1s.6928797.1561534521.183.JYy1KW</a><a href="http://www.xiami.com/song/2100577?spm=a1z1s.6928797.1561534521.228.3tQ5eI" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2100577?spm=a1z1s.6928797.1561534521.228.3tQ5eI</a><a href="http://www.xiami.com/song/2548946?spm=a1z1s.6928797.1561534521.1" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2548946?spm=a1z1s.6928797.1561534521.1</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9728554)<br><br>2017-12-18 21:47<br>赞(4) 踩(0) | <div>实话实说 这货的歌真 他妈的难听！！！！我上班的楼下广告牌 老是放他的歌，他的歌？ 简直就像在讨债！！ 烦死了 草！！！！！就不能放点有节操的！！！！！！！这些歌多好听啊！<br><a href="http://www.xiami.com/song/3443306?spm=a1z1s.6928797.1561534521.183.JYy1KW" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/3443306?spm=a1z1s.6928797.1561534521.183.JYy1KW</a><br><a href="http://www.xiami.com/song/2100577?spm=a1z1s.6928797.1561534521.228.3tQ5eI" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2100577?spm=a1z1s.6928797.1561534521.228.3tQ5eI</a><br><a href="http://www.xiami.com/song/2548946?spm=a1z1s.6928797.1561534521.1" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/2548946?spm=a1z1s.6928797.1561534521.1</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340644031)<br><br>2018-02-09 12:10<br>赞(0) 踩(0) | <div>你不愿听就滚</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351652126)<br><br>2018-03-10 23:38<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274589667)<br>Hello<br>2017-12-18 12:13<br>赞(4) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大来我的个人主页，收听我的最新音乐</div> |
@@ -331,12 +331,12 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298017712)<br>我还没想好要写什么...<br>2017-12-14 13:29<br>赞(0) 踩(0) | <div>伍佰</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336582694)<br><br>2017-12-11 20:16<br>赞(0) 踩(0) | <div>为什么有点歌曲不能停， 《像梦一样自由》不能听？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337781930)<br><br>2017-12-10 17:28<br>赞(0) 踩(0) | <div><img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283420666)<br> You are my ...<br>2017-11-27 16:13<br>赞(177) 踩(0) | <div>郑钧：《门》 1997汪峰：《门开了》 2004郑钧：《幸福的子弹》 1999汪峰：《爱是一颗幸福的子弹》 2002郑钧：《怒放》1999汪峰：《怒放的生命》2005郑钧：《流星》 2001汪峰：《恒星》 2005郑钧：《一刹那》2005汪峰：《一瞬间》2011郑钧：《长安长安》 2006汪峰：《北京北京》 2007郑钧：《生来忧伤》 2007汪峰：《生来彷徨》 2013</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283420666)<br> You are my ...<br>2017-11-27 16:13<br>赞(177) 踩(0) | <div>郑钧：《门》 1997<br><br>汪峰：《门开了》 2004<br><br>郑钧：《幸福的子弹》 1999<br><br>汪峰：《爱是一颗幸福的子弹》 2002<br><br>郑钧：《怒放》1999<br><br>汪峰：《怒放的生命》2005<br><br>郑钧：《流星》 2001<br><br>汪峰：《恒星》 2005<br><br>郑钧：《一刹那》2005<br><br>汪峰：《一瞬间》2011<br><br>郑钧：《长安长安》 2006<br><br>汪峰：《北京北京》 2007<br><br>郑钧：《生来忧伤》 2007<br><br>汪峰：《生来彷徨》 2013</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268048000)<br>花开富贵上善若水<br>2017-12-09 20:47<br>赞(0) 踩(0) | <div>哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198982450)<br><br>2017-12-13 19:51<br>赞(0) 踩(0) | <div>哈哈哈为什么呢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310443615)<br><br>2017-12-29 09:45<br>赞(0) 踩(0) | <div>wowowwiwiwowwwwwww</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134848328)<br>一起高呼Rock'n r...<br>2018-01-06 20:56<br>赞(0) 踩(0) | <div>这么老套的喷子文拿上来还能上热评?  现在的人能不能有点是非判断?</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194331466)<br>BridgeOverTr...<br>2018-01-09 16:05<br>赞(0) 踩(0) | <div>许巍：像风一样自由汪峰：像梦一样自由</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194331466)<br>BridgeOverTr...<br>2018-01-09 16:05<br>赞(0) 踩(0) | <div>许巍：像风一样自由<br>汪峰：像梦一样自由</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194331466)<br>BridgeOverTr...<br>2018-01-09 16:10<br>赞(0) 踩(0) | <div><q><b>大洋说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92159184)<br> <br>2018-01-09 20:24<br>赞(0) 踩(0) | <div>厉害了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134848328)<br>一起高呼Rock'n r...<br>2018-01-13 18:30<br>赞(0) 踩(0) | <div><q><b>RA的时间旅者说：</b></q></div> |
@@ -377,7 +377,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3840283)<br><br>2017-10-28 00:31<br>赞(1) 踩(0) | <div>感觉今后的专辑在考虑歌曲流行度的同时要兼顾一下个性了啊。个人认为09年的信仰在空中飘扬是非常好的一张专辑，许多经典的传唱度高的歌都是从这盘专辑出来的，但是那些传唱不多的，比如空空如也、蹩脚的爱情、破碎的歌谣也非常棒。新专辑有点口水了，希望汪老师下一张专辑侧重放一点取悦自己的歌在专辑里，不能太照顾大众的口味~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33086706)<br>暂时回归<br>2017-10-28 00:19<br>赞(0) 踩(0) | <div>存在即合理。 难道合理为止吗？下面的评论说摇滚衰落了是没错，可还不至于堕落到意义混淆的时候。 流行也没有错，摇滚和流行的界限并不那么明显。 汪峰就好好认清自己的能力和心态不行吗，前段时间微博上瞎闹彻底看清他的心态了。 他的歌打动了一批有相同经历的人。然后呢？至少它从没震撼过我。说个ball啊还，时间最能证明，那些一直大张旗鼓瞎嚷嚷的都是什么货色。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/738558)<br>知音难寻<br>2017-10-28 00:18<br>赞(0) 踩(0) | <div>今天考试 又看到关于不公平的话题 顿时很沮丧 后来想到汪峰的一百万吨的信念 赶紧来补课 明天继续振奋精神</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4911739)<br>人生海海，相濡以沫<br>2017-10-28 00:10<br>赞(0) 踩(0) | <div>版权问题吧，新专辑确实也不太好在网上那么快放出希望大家多多支持正版吧= =</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4911739)<br>人生海海，相濡以沫<br>2017-10-28 00:10<br>赞(0) 踩(0) | <div>版权问题吧，新专辑确实也不太好在网上那么快放出<br>希望大家多多支持正版吧= =</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1206271)<br>默默滴用音乐影响自己<br>2017-10-27 23:59<br>赞(0) 踩(0) | <div>他是继崔健之后，我喜欢的第二个内地摇滚歌手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46598832)<br><br>2017-10-27 23:59<br>赞(0) 踩(0) | <div>深夜静到听他的歌，洗涤心灵。下雪的深夜是心灵和人性最接近的时候。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2029177)<br><br>2017-10-27 23:59<br>赞(0) 踩(0) | <div>快点开个中国巡演啊，不要每次都在北京开，让我也有机会去看看</div> |
@@ -393,17 +393,17 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42793112)<br><br>2017-10-27 23:26<br>赞(0) 踩(0) | <div>2014年第一次去北京，聽的第一場concert在鳥巢就是为“汪峰”，按理说他的歌路not really my dish，但是有那么几首经典的歌曲我真的喜欢，喜欢~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41766890)<br>大爱小夜曲   大爱鸡哥<br>2017-10-27 23:25<br>赞(3) 踩(0) | <div>喜欢李乐鸡的小夜曲    小夜曲的粉丝一呼百应   汪峰垃圾中的垃圾   瞎b呀   草你大爷的汪峰   傻子   越说越来气了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7094186)<br><br>2017-10-27 23:24<br>赞(0) 踩(0) | <div>是我最喜欢也最敬佩的一个偶像，听他总能感受到一种向上的力量和试图穿透阴暗与阻挡的生命的本质，与我们感同身受着，用歌声给予我们理解和安慰。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44145386)<br> <br>2017-10-27 23:23<br>赞(3) 踩(0) | <div>每个人都有自己的生活方式，只不过他的是在媒体的透明曝光并加以渲染情况下产生的，我从来不相信娱乐媒体，我也不去想他的生活态度到底是怎样，相信一位年过不惑之年的人肯定比我这二十刚出头的小毛孩活得清楚。我只知道每当孤独时我总会不自觉的听你的歌，我没发用文字去描写那种感受，对一位歌手，我只对歌而不对人，对你的歌只有两个字：挚爱。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44145386)<br> <br>2017-10-27 23:23<br>赞(3) 踩(0) | <div>每个人都有自己的生活方式，只不过他的是在媒体的透明曝光并加以渲染情况下产生的，我从来不相信娱乐媒体，我也不去想他的生活态度到底是怎样，相信一位年过不惑之年的人肯定比我这二十刚出头的小毛孩活得清楚。<br>我只知道每当孤独时我总会不自觉的听你的歌，我没发用文字去描写那种感受，对一位歌手，我只对歌而不对人，对你的歌只有两个字：挚爱。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18433625)<br><br>2017-10-27 23:23<br>赞(0) 踩(0) | <div>很多年前 跟着北京青年 一起喜欢峰哥的歌曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1700092)<br><br>2017-10-27 23:21<br>赞(1) 踩(0) | <div>用一个词形容汪峰的音乐，就是“不实惠”。他的歌曲基本没有旋律和节奏可言，飘忽不定，唱到哪儿算哪儿，难以捉摸。都说旋律和节奏是音乐的灵魂与骨骼，所以汪峰的音乐就如同丢了魂的行尸。其粉丝把这种风格叫“新摇滚”，这和世人想以“厨艺明星”的称谓来改变闲人林依轮的尴尬境遇的情况如出一辙。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8720614)<br><br>2017-10-27 23:15<br>赞(0) 踩(0) | <div>我真的需要晚安北京从鲍家街43号就喜欢了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9768091)<br><br>2017-10-27 23:04<br>赞(0) 踩(0) | <div>大概是将摇滚乐和商业结合得最好的摇滚歌手吧，一位在音乐中尖锐批判现实体制的摇滚音乐人，那么叛逆和纠结。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10817122)<br><br>2017-10-27 23:02<br>赞(0) 踩(0) | <div>记得那年去九寨沟，一路上反复听的就是汪峰的怒放的生命，感受自不必多说，多少人评述的比我精彩，当我得心里总有汪峰的一个位置。网友恶评其私人生活也好，不理解其对民工兄弟的规则教育也罢，总之，汪峰就是汪峰，才华横溢的思索性歌手，不会夸人的话就是，比起锅内大多数歌手，汪峰不浅薄，有内容</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10817122)<br><br>2017-10-27 23:02<br>赞(0) 踩(0) | <div>记得那年去九寨沟，一路上反复听的就是汪峰的怒放的生命，感受自不必多说，多少人评述的比我精彩，当我得心里总有汪峰的一个位置。<br>网友恶评其私人生活也好，不理解其对民工兄弟的规则教育也罢，总之，汪峰就是汪峰，才华横溢的思索性歌手，不会夸人的话就是，比起锅内大多数歌手，汪峰不浅薄，有内容</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3031953)<br>低调-最牛X的炫耀！<br>2017-10-27 23:02<br>赞(0) 踩(0) | <div>每当不如意的时候听听   真的很有感触 .北京北京.. 希望能有一首歌是 杭州杭州  厦门厦门.我最喜欢的2个城市..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233193898)<br><br>2017-10-23 10:56<br>赞(0) 踩(0) | <div>我很喜欢这首歌，不经意就被打动了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260379270)<br><br>2017-10-18 11:20<br>赞(0) 踩(0) | <div>听汪峰的歌会让你对一切都会有另一种激情！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298948030)<br>中國詩音樂電影创始人作曲...<br>2017-10-17 21:54<br>赞(0) 踩(0) | <div>我很喜欢你音乐 加油兄弟</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24325936)<br>无忧无虑，向前游。。。<br>2017-10-16 11:06<br>赞(1) 踩(0) | <div>我觉得中国的歌迷很奇怪，喜欢窦唯就要黑汪峰，喜欢汪峰就要黑许巍，喜欢许巍就要黑郑钧，喜欢郑钧就要黑窦唯。。。难道我不能都喜欢吗，谁的歌好听我就喜欢谁，管他窦唯还是汪峰！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24325936)<br>无忧无虑，向前游。。。<br>2017-10-16 11:06<br>赞(1) 踩(0) | <div>我觉得中国的歌迷很奇怪，喜欢窦唯就要黑汪峰，喜欢汪峰就要黑许巍，喜欢许巍就要黑郑钧，喜欢郑钧就要黑窦唯。。。<br>难道我不能都喜欢吗，谁的歌好听我就喜欢谁，管他窦唯还是汪峰！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6164011)<br><br>2017-10-15 18:16<br>赞(1) 踩(0) | <div>你要问我，现在中国最纯粹和最有水平的音乐人，那我回答你：那就是汪峰，由于摇滚在中国很不受大众待见，一直被黑，真TMD奇葩。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330194922)<br><br>2017-10-14 23:35<br>赞(0) 踩(0) | <div>怎么vip都没有  光明这首歌下载的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1292687)<br>简介个头<br>2017-10-14 16:26<br>赞(1) 踩(0) | <div>黑汪峰在某些人群里已经成为政治正确了，这些人不用心听歌，只知道装逼，为小众而小众，还喜欢炫耀自己的愚蠢。几年前我也是之一，我为曾经的自己感到羞耻。汪峰的音乐给了我真实的感动。</div> |
@@ -440,7 +440,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284937359)<br><br>2017-08-26 00:17<br>赞(0) 踩(0) | <div>在挫败时，给你重新爬起来的勇气，我一直在路上，感受并享受沿途的风景！承受着并欣赏着岁月的悲喜，飞的更高&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284637499)<br>如果单恋有用，要两情相悦...<br>2017-08-23 13:59<br>赞(0) 踩(0) | <div>心灵震撼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256242981)<br>沉默的时候不要太用心<br>2017-08-21 17:43<br>赞(1) 踩(0) | <div>9.9北体见，有两张票约的走起</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315306149)<br><br>2017-08-20 11:39<br>赞(2) 踩(0) | <div>摇滚和叛逆永远是被人们同时提起的，所以摇滚才是小众的非主流的，但所有的音乐形式都应该被尊重，所有喜爱不同音乐形式的人同样应该被尊重。为什么大家要喷来喷去，因为心眼小，容不下别人的喜好且认为自己喜欢的才是最好的，请这些人都醒醒吧，活的更像个大人不好吗。喜欢摇滚，不只是曲风，更是精神，摇滚其实就是男人的风骨，汪峰老师只是充分展现出了。穿不穿皮裤或许只是个人爱好，穿着三角裤一样可以继续摇滚。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315306149)<br><br>2017-08-20 11:39<br>赞(2) 踩(0) | <div>摇滚和叛逆永远是被人们同时提起的，所以摇滚才是小众的非主流的，但所有的音乐形式都应该被尊重，所有喜爱不同音乐形式的人同样应该被尊重。为什么大家要喷来喷去，因为心眼小，容不下别人的喜好且认为自己喜欢的才是最好的，请这些人都醒醒吧，活的更像个大人不好吗。<br>喜欢摇滚，不只是曲风，更是精神，摇滚其实就是男人的风骨，汪峰老师只是充分展现出了。穿不穿皮裤或许只是个人爱好，穿着三角裤一样可以继续摇滚。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134848328)<br>一起高呼Rock'n r...<br>2017-08-20 10:33<br>赞(1) 踩(0) | <div>我发现几年一些喷子狗的评论竟然上热评了!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85383802)<br> <br>2017-08-20 00:24<br>赞(1) 踩(0) | <div>汪峰牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319176451)<br> <br>2017-08-15 19:33<br>赞(0) 踩(0) | <div>你的歌真好听</div> |
@@ -500,7 +500,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352867671)<br><br>2018-04-13 20:56<br>赞(0) 踩(0) | <div>摇滚不能商业化？你不是无脑黑？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51989815)<br>心满意足地去生活。<br>2018-04-14 19:27<br>赞(0) 踩(0) | <div>你逗我呢，鲍家街组的时候已经过了国摇高潮了。97年的时候你说的这几个人早就flop了。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134848328)<br>一起高呼Rock'n r...<br>2018-04-15 00:55<br>赞(0) 踩(0) | <div><q><b>万神说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340025421)<br><br>2018-11-19 01:10<br>赞(0) 踩(0) | <div>少装了，没弹过五年以上的琴，就别在这充大头，你懂个球，半壁业务能力远超现在这些天天只喊摇滚精神的人，词曲创作能力不比窦唯差，丁武除了首专就是个废物，对了首专还是台湾人做的，唐朝有没有专辑中的能力水平还要打个问号。别以为拿窦唯做头像显得自己多牛了，小学生一个。窦唯出了这么多张专辑你买了几张？估计你也就是个唱个无地自容的渣。少装比，多听歌。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340025421)<br><br>2018-11-19 01:10<br>赞(0) 踩(0) | <div>少装了，没弹过五年以上的琴，就别在这充大头，你懂个球，半壁业务能力远超现在这些天天只喊摇滚精神的人，词曲创作能力不比窦唯差，丁武除了首专就是个废物，对了首专还是台湾人做的，唐朝有没有专辑中的能力水平还要打个问号。<br>别以为拿窦唯做头像显得自己多牛了，小学生一个。窦唯出了这么多张专辑你买了几张？估计你也就是个唱个无地自容的渣。少装比，多听歌。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134848328)<br>一起高呼Rock'n r...<br>2018-11-26 13:26<br>赞(0) 踩(0) | <div><q><b>老树缠猫说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134848328)<br>一起高呼Rock'n r...<br>2018-11-26 13:26<br>赞(0) 踩(0) | <div><q><b>AKSK说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286395011)<br>我很聪明什么也没留下.....<br>2019-01-03 22:24<br>赞(0) 踩(0) | <div>没事举报了</div> |
@@ -547,7 +547,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287106562)<br><br>2017-04-08 12:49<br>赞(4) 踩(0) | <div>虾米。有许多歌都没有。白充ViP了！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257346634)<br>虾米音乐，乐随心动！<br>2017-04-18 15:43<br>赞(0) 踩(0) | <div>不可能呢！我们正在完善中，你要相信我们的团队！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286971805)<br><br>2017-04-07 22:59<br>赞(1) 踩(0) | <div>就是好听 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286426716)<br><br>2017-04-05 18:59<br>赞(0) 踩(0) | <div>3333333333333333333333333333333</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286426716)<br><br>2017-04-05 18:59<br>赞(0) 踩(0) | <div>333333333333333333333333333333<br>3</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284331687)<br><br>2017-04-04 12:06<br>赞(0) 踩(0) | <div>没有勇敢的心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285939607)<br>用心而唱！<br>2017-04-04 11:48<br>赞(1) 踩(0) | <div>就是喜欢汪峰的歌！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285866747)<br> <br>2017-04-04 04:10<br>赞(1) 踩(0) | <div>就是喜欢汪峰的歌</div> |
@@ -586,10 +586,10 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275739383)<br><br>2017-02-24 16:13<br>赞(0) 踩(0) | <div>我最喜欢的是《希望》和《信仰在空中飘扬》</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9876584)<br>我还没想好要写什么...<br>2017-02-22 14:59<br>赞(0) 踩(0) | <div>我想问问那些说他不摇滚的：摇滚是什么？不是一种音乐形式吗？可以从专业的角度出发说说什么样的算得上摇滚吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275739383)<br><br>2017-02-24 16:14<br>赞(0) 踩(0) | <div>摇滚有别人表达不出来的气势</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271031375)<br>你演累了吗？我眼累了(ˇ...<br>2017-02-20 00:12<br>赞(1) 踩(0) | <div>汪峰，当之无愧的摇滚界领衔人物，一辈子的偶像，爱你，么么哒～(^з^)-☆</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271031375)<br>你演累了吗？我眼累了(ˇ...<br>2017-02-20 00:12<br>赞(1) 踩(0) | <div>汪峰，当之无愧的<br>摇滚界领衔人物，一辈子的偶像，爱你，么么哒～(^з^)-☆</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271004143)<br><br>2017-02-12 14:53<br>赞(1) 踩(0) | <div>谢谢汪峰哥哥</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216962255)<br>EXO ONEAREWE<br>2017-02-12 11:42<br>赞(1) 踩(0) | <div>汪大叔什么时候出新专辑啊 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246913636)<br><br>2017-02-03 01:59<br>赞(100) 踩(0) | <div>看到一堆黑汪峰的，我只想说中国真的有一大帮人，从来不从专业角度看一个人的水平，而是通过他的为人来判断，真tm够了。多少人曾经说李玮峰李毅这些是球霸，贬得一文不值，现在又有多少人怀念这那，因为连他们那个水平的球员都没有了。以后可以预见又有多少人要怀念汪峰，因为现在没有可以接过汪峰摇滚旗帜的人，根本没有！如果摇滚商业化、流行化之后，就要被黑成皮裤汪，摇滚怎么做？有谁敢做摇滚？说句不相干的，前段时间把民谣黑成那个b样，和预想中一样，情怀狗满天飞，黑逼哥、张磊、黑马由页、黑宋冬野、呵呵。其它你们说的那些，“做得很好”的歌手，有几个很火的，有几个做出成绩了？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246913636)<br><br>2017-02-03 01:59<br>赞(100) 踩(0) | <div>看到一堆黑汪峰的，我只想说中国真的有一大帮人，从来不从专业角度看一个人的水平，而是通过他的为人来判断，真tm够了。多少人曾经说李玮峰李毅这些是球霸，贬得一文不值，现在又有多少人怀念这那，因为连他们那个水平的球员都没有了。以后可以预见又有多少人要怀念汪峰，因为现在没有可以接过汪峰摇滚旗帜的人，根本没有！<br><br>如果摇滚商业化、流行化之后，就要被黑成皮裤汪，摇滚怎么做？有谁敢做摇滚？说句不相干的，前段时间把民谣黑成那个b样，和预想中一样，情怀狗满天飞，黑逼哥、张磊、黑马由页、黑宋冬野、呵呵。其它你们说的那些，“做得很好”的歌手，有几个很火的，有几个做出成绩了？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134848328)<br>一起高呼Rock'n r...<br>2017-02-11 23:27<br>赞(0) 踩(0) | <div>对啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273758107)<br> <br>2017-02-18 19:28<br>赞(0) 踩(0) | <div><q><b>大洋说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275739383)<br><br>2017-02-24 16:18<br>赞(0) 踩(0) | <div>推己及人，什么叫欣赏</div> |
@@ -617,7 +617,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134848328)<br>一起高呼Rock'n r...<br>2017-02-02 20:26<br>赞(0) 踩(0) | <div>呵呵  又来一个</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9876584)<br>我还没想好要写什么...<br>2017-02-22 14:57<br>赞(0) 踩(0) | <div><q><b>不说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269212326)<br><br>2017-01-30 20:54<br>赞(1) 踩(0) | <div>好喜欢汪峰，声音里有一种沧桑</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268220856)<br><br>2017-01-27 08:30<br>赞(1) 踩(0) | <div>我爱你汪峰</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268220856)<br><br>2017-01-27 08:30<br>赞(1) 踩(0) | <div>我爱你汪<br>峰</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263804171)<br><br>2017-01-26 15:54<br>赞(2) 踩(0) | <div>喜欢汪峰的歌，百听不厌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203663536)<br><br>2017-01-25 23:11<br>赞(0) 踩(0) | <div>分享</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13768313)<br>我还没想好要写什么...<br>2017-01-25 00:49<br>赞(0) 踩(0) | <div>皮裤大师</div> |
@@ -637,7 +637,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290704229)<br><br>2017-04-24 22:34<br>赞(0) 踩(0) | <div><q><b>快乐源泉说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254229600)<br>爱音乐的男孩！<br>2017-01-12 15:41<br>赞(0) 踩(0) | <div>励志。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275739383)<br><br>2017-02-24 16:19<br>赞(0) 踩(0) | <div>对</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2017-01-12 13:08<br>赞(0) 踩(0) | <div>什么是摇滚精神？<a href="https://www.zhihu.com/question/19601706/answer/119435119" target="_blank" rel="nofollow noreferrer noopener">https://www.zhihu.com/question/19601706/answer/119435119</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2017-01-12 13:08<br>赞(0) 踩(0) | <div>什么是摇滚精神？<br><br><a href="https://www.zhihu.com/question/19601706/answer/119435119" target="_blank" rel="nofollow noreferrer noopener">https://www.zhihu.com/question/19601706/answer/119435119</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134848328)<br>一起高呼Rock'n r...<br>2017-01-21 11:10<br>赞(0) 踩(0) | <div>您还是直接说话吧  我知乎都删了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2017-01-21 11:32<br>赞(0) 踩(0) | <div><q><b>大洋说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73342948)<br>无奈只因欲望太多<br>2017-01-11 17:25<br>赞(1) 踩(0) | <div>哎，你要是一直呆在鲍家街不去为了迎合大众商业化自己，或许你现在还真的是个摇滚歌手，但现在你顶多是个流行歌手，摇滚你真不要再来侮辱这个词语了！</div> |
@@ -692,7 +692,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237166615)<br><br>2016-10-16 10:32<br>赞(1) 踩(0) | <div>在音乐的道路上一路疯狂的男人！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235357678)<br>maque<br>2016-10-11 10:31<br>赞(0) 踩(0) | <div>拐角</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210874472)<br>哦！原来你也在这里 !<br>2016-10-06 15:35<br>赞(9) 踩(0) | <div>很欣赏汪峰的音乐态度和扎实的音乐素养！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38953521)<br><br>2016-10-06 09:17<br>赞(1) 踩(0) | <div>蒙古经典摇滚乐队hurd、haranga、Nomin Talst全集<a href="http://www.xiami.com/u/38953521?spm=a1z1s.6928797.1561534497.3.aWZlI1" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/u/38953521?spm=a1z1s.6928797.1561534497.3.aWZlI1</a>在个人资料里</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38953521)<br><br>2016-10-06 09:17<br>赞(1) 踩(0) | <div>蒙古经典摇滚乐队hurd、haranga、Nomin Talst全集<br><a href="http://www.xiami.com/u/38953521?spm=a1z1s.6928797.1561534497.3.aWZlI1" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/u/38953521?spm=a1z1s.6928797.1561534497.3.aWZlI1</a>在个人资料里</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98225438)<br><br>2016-09-14 17:05<br>赞(1) 踩(0) | <div>很汪峰</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225449696)<br><br>2016-09-12 17:37<br>赞(1) 踩(0) | <div>一个历尽坎坷的男人 [带墨镜笑][带墨镜笑]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91492318)<br> <br>2016-09-09 09:11<br>赞(9) 踩(0) | <div>最不受尊重男歌手 列为讨厌的歌手列表第一位</div> |
@@ -789,7 +789,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118876140)<br> <br>2016-03-01 16:29<br>赞(0) 踩(0) | <div>只有默默关注 <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118568350)<br>鬼才 怪杰 智本家<br>2016-02-28 22:12<br>赞(0) 踩(0) | <div>比较喜欢写实！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22369681)<br><br>2016-02-27 19:52<br>赞(1) 踩(0) | <div>渣渣，绝大多数歌都不能听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22054352)<br><br>2016-02-17 22:13<br>赞(4) 踩(0) | <div>汪峰，加油，你一路走来不容易，你优秀，你的一切努力都苦尽甘来，加油！！一定要幸福！–一个被你感动激励而努力的高中生</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22054352)<br><br>2016-02-17 22:13<br>赞(4) 踩(0) | <div>汪峰，加油，你一路走来不容易，你优秀，你的一切努力都苦尽甘来，加油！！一定要幸福！<br>–一个被你感动激励而努力的高中生</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27048802)<br><br>2016-02-12 10:26<br>赞(0) 踩(0) | <div>北京怎么放不了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70274014)<br>我还没想好要写什么...<br>2016-02-10 11:16<br>赞(0) 踩(0) | <div>支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52647777)<br>。<br>2016-02-09 09:32<br>赞(0) 踩(0) | <div><img src="../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../images/comments/53d831ca9031b187055987747dbab37d.png">想听点歌 都没了</div> |
@@ -797,7 +797,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/786414)<br><br>2016-02-05 06:34<br>赞(0) 踩(0) | <div>我擦什么情况 歌都没了！真是三大公司打架  害苦了听众啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59559118)<br>wei……xin……號:...<br>2016-02-04 20:32<br>赞(2) 踩(0) | <div>我是当年看了《北京青年》，听到那几首歌之后，才了解到有汪峰这么一个歌手！那时候还在深圳上班，《北京青年》和汪峰的歌都有点触动了我。。。。。。。汪峰的歌，歌词有内容，声音也还不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88748482)<br> <br>2016-01-27 00:20<br>赞(7) 踩(0) | <div>再见鲍家街，去你妈的汪峰</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1056669)<br>我还没想好要写什么...<br>2016-02-23 15:13<br>赞(0) 踩(0) | <div>鲍家街时期的歌都是好歌，虽然有模仿的痕迹，但是风格多变。不得不说，汪峰虽然对待感情不咋地，但是他在鲍家街时期的创作能力还是很强的。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1056669)<br>我还没想好要写什么...<br>2016-02-23 15:13<br>赞(0) 踩(0) | <div>鲍家街时期的歌都是好歌，虽然有模仿的痕迹，但是风格多变。<br>不得不说，汪峰虽然对待感情不咋地，但是他在鲍家街时期的创作能力还是很强的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134848328)<br>一起高呼Rock'n r...<br>2016-04-05 22:50<br>赞(0) 踩(0) | <div>你懂什么  汪峰的作品越来越成熟了好吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81818)<br><br>2016-04-10 15:15<br>赞(0) 踩(0) | <div>+10086</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9767835)<br><br>2016-01-25 23:50<br>赞(0) 踩(0) | <div>绽放</div> |
@@ -820,10 +820,10 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90375388)<br><br>2015-12-13 19:05<br>赞(1) 踩(0) | <div>嗨，大家好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91230492)<br>抽支烟，思考一下<br>2015-12-13 17:58<br>赞(2) 踩(0) | <div>音乐界中的多情才子，总是能够把握住时代中人们的感情世界，能用音乐很好的表达出来，迷茫和怀疑中，又不失希望，很有味道</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91230492)<br>抽支烟，思考一下<br>2015-12-13 17:58<br>赞(2) 踩(0) | <div>音乐界中的多情才子，总是能够把握住时代中人们的感情世界，能用音乐很好的表达出来，迷茫和怀疑中，又不失希望，很有味道</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2015-12-10 07:07<br>赞(0) 踩(0) | <div>；2015.12.10</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2015-12-10 07:07<br>赞(0) 踩(0) | <div>；<br><br><br><br><br><br><br><br><br>2015.12.10</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37677412)<br><br>2015-12-04 20:15<br>赞(10) 踩(0) | <div>现在才发现原来虾米是那么多歌都是没版权的！那么我们之前交了那么多月费一直以为自己是在听正版，原来一直都是在下载盗版都不知道？我们不旦浪费了钱，还原来一直在间接犯罪？真的是罪过！ <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2270893)<br><br>2015-12-04 10:59<br>赞(1) 踩(0) | <div>汪峰最耐听的专辑是《信仰在风中飘扬》，首首可以主打</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-12-03 10:39<br>赞(1) 踩(0) | <div>求推荐近20年比较好听，具有代表性的摇滚乐，拒绝汪峰？<a href="http://www.zhihu.com/question/33453995/answer/56574742" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/33453995/answer/56574742</a>汪峰花火两个版本有什么区别<a href="http://www.zhihu.com/question/30464059/answer/48244583" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/30464059/answer/48244583</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-12-03 10:39<br>赞(1) 踩(0) | <div>求推荐近20年比较好听，具有代表性的摇滚乐，拒绝汪峰？<br><a href="http://www.zhihu.com/question/33453995/answer/56574742" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/33453995/answer/56574742</a><br><br>汪峰花火两个版本有什么区别<br><a href="http://www.zhihu.com/question/30464059/answer/48244583" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/30464059/answer/48244583</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38791464)<br>舞榭歌台，风流总被，雨打...<br>2015-11-29 14:16<br>赞(0) 踩(0) | <div>楼下你居然设置了无法回复 天呐 你是有多怕我回复你 骂完就躲起来了嘛 哈哈哈 真可爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85244626)<br><br>2015-11-28 18:34<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43923282)<br>音乐狂人<br>2015-11-25 21:36<br>赞(0) 踩(0) | <div>都下架了</div> |
@@ -864,10 +864,10 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30679074)<br>怀旧<br>2015-11-18 12:45<br>赞(0) 踩(0) | <div>为什么都下架了。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38791464)<br>舞榭歌台，风流总被，雨打...<br>2015-11-17 21:15<br>赞(2) 踩(0) | <div>汪峰的情史：汪峰与筠子相恋 --&amp;gt; 劈腿齐丹 --&amp;gt; 女友筠子自杀身亡 --&amp;gt; 汪峰齐丹结婚 --&amp;gt; 劈腿葛荟婕 --&amp;gt; 汪峰齐丹离婚 --&amp;gt; 葛荟婕未婚生下女儿小苹果 --&amp;gt; 劈腿康作如 --&amp;gt; 汪峰葛荟婕分手 --&amp;gt; 汪峰康作如结婚生下二女儿汪璟怡 --&amp;gt; 再劈腿章子怡--&amp;gt; 汪峰康作如离婚</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48983966)<br><br>2015-11-20 10:06<br>赞(0) 踩(0) | <div>这种八百年前的小道消息就不要拿来丢人现眼了，里面多少不实之处，早就被人扒过无数次了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38791464)<br>舞榭歌台，风流总被，雨打...<br>2015-11-17 21:14<br>赞(5) 踩(0) | <div>4.《早安女士》的前奏是The Doors的《Soul Kitchen》吉它版 还有键盘编曲,等部分5.《追梦》的歌词分别是4 Non Blondes的《What's up》、John Lennon的《Imagine》和Bob Dylan《Blowing in the wind》精译版本6.《迷鹿》的前奏的编曲走向与Led Zeppelin的《Stairway to Heaven》的前奏几乎一模一样.7 歌词抄袭诗人食指</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38791464)<br>舞榭歌台，风流总被，雨打...<br>2015-11-17 21:14<br>赞(5) 踩(0) | <div>4.《早安女士》的前奏是The Doors的《Soul Kitchen》吉它版 还有键盘编曲,等部分<br>5.《追梦》的歌词分别是4 Non Blondes的《What's up》、John Lennon的《Imagine》和Bob Dylan《Blowing in the wind》精译版本<br>6.《迷鹿》的前奏的编曲走向与Led Zeppelin的《Stairway to Heaven》的前奏几乎一模一样.<br>7 歌词抄袭诗人食指</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48983966)<br><br>2015-11-20 10:08<br>赞(0) 踩(0) | <div>别的不说，光明的歌词，汪峰多次明确说过致敬食指的。你个小人，想给汪峰泼脏水，先看看自己智商够不够。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38791464)<br>舞榭歌台，风流总被，雨打...<br>2015-11-20 11:49<br>赞(0) 踩(0) | <div><q><b>波谱通信说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38791464)<br>舞榭歌台，风流总被，雨打...<br>2015-11-17 21:14<br>赞(3) 踩(0) | <div>1.bob dylan的《you belong to me》却被汪峰大哥抄袭成《英雄》曲作者的名字写成“汪峰”，简直就是翻唱。2.《怒放的生命》抄袭 绿洲 的don't go away 开前奏一样而且鼓编得也是一样,就是汪偷吃会抹嘴吧, 他的怒放进行到半分钟就高潮了,绿洲是一分钟才高潮的..他的怒放准备高潮是鼓加重了....3.&amp;lt;勇敢的心&amp;gt;抄袭 Simple.Plan的歌曲CRAZY 高潮部分那段...明显的就是唱到这是飞一样的感觉这是自由的感觉在撒满星星的天空迎着风飞舞凭着一颗永不哭泣勇敢的心</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38791464)<br>舞榭歌台，风流总被，雨打...<br>2015-11-17 21:14<br>赞(3) 踩(0) | <div>1.bob dylan的《you belong to me》却被汪峰大哥抄袭成《英雄》曲作者的名字写成“汪峰”，简直就是翻唱。<br>2.《怒放的生命》抄袭 绿洲 的don't go away 开前奏一样而且鼓编得也是一样,就是汪偷吃会抹嘴吧, 他的怒放进行到半分钟就高潮了,绿洲是一分钟才高潮的..他的怒放准备高潮是鼓加重了....<br>3.&amp;lt;勇敢的心&amp;gt;抄袭 Simple.Plan的歌曲CRAZY 高潮部分那段...明显的就是唱到<br>这是飞一样的感觉<br>这是自由的感觉<br>在撒满星星的天空迎着风飞舞<br>凭着一颗永不哭泣勇敢的心</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16917254)<br>我只是一个爱写歌词的东西<br>2015-11-18 09:20<br>赞(0) 踩(0) | <div>你想表达什么，不行还bb</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38791464)<br>舞榭歌台，风流总被，雨打...<br>2015-11-18 11:20<br>赞(0) 踩(0) | <div><q><b>袁帅说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16917254)<br>我只是一个爱写歌词的东西<br>2015-11-18 11:38<br>赞(0) 踩(0) | <div><q><b>张青豆说：</b></q></div> |
@@ -881,7 +881,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142642214)<br><br>2016-04-17 17:44<br>赞(0) 踩(0) | <div><q><b>张青豆说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142642214)<br><br>2016-04-17 17:44<br>赞(0) 踩(0) | <div><q><b>张青豆说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38791464)<br>舞榭歌台，风流总被，雨打...<br>2017-10-28 00:36<br>赞(0) 踩(0) | <div><q><b>袁帅说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38791464)<br>舞榭歌台，风流总被，雨打...<br>2015-11-17 21:12<br>赞(9) 踩(0) | <div>郑钧：《门》 1997汪峰：《门开了》 2004郑钧：《幸福的子弹》 1999汪峰：《爱是一颗幸福的子弹》 2002郑钧：《怒放》1999汪峰：《怒放的生命》2005郑钧：《流星》 2001汪峰：《恒星》 2005郑钧：《一刹那》2005汪峰：《一瞬间》2011郑钧：《长安长安》 2006汪峰：《北京北京》 2007郑钧：《生来忧伤》 2007汪峰：《生来彷徨》 2013</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38791464)<br>舞榭歌台，风流总被，雨打...<br>2015-11-17 21:12<br>赞(9) 踩(0) | <div>郑钧：《门》 1997<br>汪峰：《门开了》 2004<br>郑钧：《幸福的子弹》 1999<br>汪峰：《爱是一颗幸福的子弹》 2002<br>郑钧：《怒放》1999<br>汪峰：《怒放的生命》2005<br>郑钧：《流星》 2001<br>汪峰：《恒星》 2005<br>郑钧：《一刹那》2005<br>汪峰：《一瞬间》2011<br>郑钧：《长安长安》 2006<br>汪峰：《北京北京》 2007<br>郑钧：《生来忧伤》 2007<br>汪峰：《生来彷徨》 2013</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115238)<br><br>2015-11-19 10:48<br>赞(0) 踩(0) | <div>《你走你的路》 《闪亮的日子》……起个歌名这事，老板着实难为了《亲爱的 今夜你在哪里》是不是可以理解为《Where Did You Sleep Last Night?》？？？《流年啊 你奈我何》《我是汪峰 你奈我何啊》</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48983966)<br><br>2017-10-28 00:38<br>赞(0) 踩(0) | <div>先去看看郑钧有没有《生来忧伤》这首歌，哈哈，白痴就是这样的，想黑人也不自己调查取证一下。还有《长安长安》比《北京北京》出版的迟。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34070325)<br> <br>2015-11-15 16:22<br>赞(0) 踩(0) | <div>下架了？</div> |
@@ -889,7 +889,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82691404)<br>一个孤独的浪子<br>2015-11-15 13:49<br>赞(0) 踩(0) | <div>信仰在风中飘扬</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/67834592)<br><br>2015-11-15 12:01<br>赞(0) 踩(0) | <div>为什么歌都下架听不了了啊？    <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83127726)<br><br>2015-11-15 06:51<br>赞(0) 踩(0) | <div>高低音有特色</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82795996)<br>不造作的处女座教师<br>2015-11-14 13:20<br>赞(2) 踩(0) | <div>真实，于他，不需要计较唱法。他的天才在于----灵魂与音乐作品同频。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82795996)<br>不造作的处女座教师<br>2015-11-14 13:20<br>赞(2) 踩(0) | <div>真实，于他，不需要计较唱法。<br>他的天才在于----灵魂与音乐作品同频。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14800134)<br> <br>2015-11-11 10:22<br>赞(0) 踩(0) | <div>歌怎么一下子有一下子没有啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52331269)<br>一言不合就听歌<br>2015-11-10 23:47<br>赞(1) 踩(0) | <div>这个夏天听汪峰的歌，感觉世界就在眼前，而我也即将带着他的歌走向世界</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10441212)<br>！<br>2015-11-10 19:41<br>赞(0) 踩(0) | <div>全下架了？</div> |
@@ -901,7 +901,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49284372)<br>like a rolli...<br>2015-11-04 12:17<br>赞(3) 踩(0) | <div>至少有十首歌给我安慰，现在看来，没得安慰了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50342917)<br>太平记将于11月底进行乐...<br>2015-11-03 12:55<br>赞(3) 踩(0) | <div>汪峰的错误在于，他在这个狗屁不如的时代选择了进入娱乐圈和用音乐做生意。然而他自己又不擅长与媒体和大众搞好关系，这就导致他必定会成为狗仔和喷子嘲讽的对象。在娱乐圈如果你还是一本正经的搞音乐和严肃是不行的，要想保全名声和自身音乐的纯洁性，还是得退居幕后，专心写歌，拒绝商业拒绝综艺节目，不然凭借汪峰对待主流的态度，在他大红大紫的背后，必定是焦头烂额的官司和无尽的与媒体的骂战。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3840283)<br><br>2015-11-06 12:09<br>赞(0) 踩(0) | <div>其实人家根本没把这些屌丝的嘲讽当回事儿，哪有什么焦头烂额，哪有什么无尽骂战。人家自己日子过得挺好，要事业有事业，要美人有美人，屌丝瞎操什么心。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5691521)<br>孤独是最大的敌人<br>2015-11-03 04:28<br>赞(3) 踩(0) | <div>我今天喝多了 睡不着 想起了一件事有个刚认识的朋友说他喜欢音乐 我说我也喜欢他说他喜欢摇滚 我说queen Aerosmith Skid Row 巴拉巴拉然后他说他喜欢中国摇滚 我更起劲了 指南针 罗琦 蔚华 崔健 何勇 唐朝 巴拉巴拉巴拉巴拉他说他喜欢汪峰 我想了想 没说什么</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5691521)<br>孤独是最大的敌人<br>2015-11-03 04:28<br>赞(3) 踩(0) | <div>我今天喝多了 睡不着 想起了一件事<br>有个刚认识的朋友说他喜欢音乐 我说我也喜欢<br>他说他喜欢摇滚 我说queen Aerosmith Skid Row 巴拉巴拉<br>然后他说他喜欢中国摇滚 我更起劲了 指南针 罗琦 蔚华 崔健 何勇 唐朝 巴拉巴拉巴拉巴拉<br>他说他喜欢汪峰 我想了想 没说什么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76211760)<br><br>2015-11-02 20:50<br>赞(0) 踩(0) | <div>我爱汪峰。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76211760)<br><br>2015-11-02 20:50<br>赞(0) 踩(0) | <div>我是汪峰的头号粉丝</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78594236)<br>限量版<br>2015-11-02 17:31<br>赞(0) 踩(0) | <div>释放</div> |
@@ -915,7 +915,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57086490)<br><br>2015-10-30 19:29<br>赞(0) 踩(0) | <div>爱汪峰不挂科。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308316)<br>车万<br>2015-10-29 18:58<br>赞(8) 踩(0) | <div>楼下一家服装店，店里一个不晓得是老板还是雇员。一天到晚，不务正业不播广告，光播汪峰的音乐。一个多小时的录音循环，将近一半时间都是那什么一起摇摆，摇你妈吖。而且音量巨特大，路过行人纷纷摇头皱眉，住楼上的更恶心，极为扰民。前几天隔着服装店旁好几栋的一家房产中介，冲出来4、5号人，把那个汪峰狂热粉丝痛殴一顿。咱只想说，大快人心。 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77666228)<br><br>2015-10-29 17:28<br>赞(1) 踩(0) | <div>汪峰牛逼</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3221349)<br>Free！~~<br>2015-10-27 12:57<br>赞(3) 踩(0) | <div>自己都在变，还期望别人原地踏步，那不是无耻么！——TO 那些黑来黑去的人！~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3221349)<br>Free！~~<br>2015-10-27 12:57<br>赞(3) 踩(0) | <div>自己都在变，还期望别人原地踏步，那不是无耻么！<br>——TO 那些黑来黑去的人！~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76651782)<br>letitbe<br>2015-10-26 14:39<br>赞(4) 踩(0) | <div>农民工唱红的歌手。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49284372)<br>like a rolli...<br>2015-10-28 08:17<br>赞(0) 踩(0) | <div>你是有多孤陋寡闻？别出来现眼了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10495358)<br>秋凉天气<br>2015-10-28 17:21<br>赞(0) 踩(0) | <div><q><b>Cry With Laughter说：</b></q></div> |
@@ -929,10 +929,10 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49987442)<br>霜之哀伤饿了<br>2015-10-22 10:21<br>赞(3) 踩(0) | <div>汪峰s b 伪摇滚。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583786)<br><br>2015-10-24 00:54<br>赞(0) 踩(0) | <div>什么叫真摇？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63014558)<br>明天更漫长但是很期待！<br>2015-10-25 03:12<br>赞(0) 踩(0) | <div><q><b>谁是我的MP3说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188044)<br>一个高尚纯粹有道德充满了...<br>2015-10-21 09:49<br>赞(2) 踩(0) | <div>能不能帮忙找一个朋友？李雪松，十年前我初次接触摇滚就是他带我在无名高地看脑浊现场，那个时候李志还没有出名我们听的是汪峰的硬币和许巍的时光。松哥以前没少关照我，年纪轻不懂事没太放心上，年纪越大越念旧，实在是太想念他了！十年没见了非常想找他喝几杯！他电话号换了，他是辽宁丹东人，后移居北京，做过发型师，中艺影像学过摄影，热爱摇滚乐和电影，头大如斗目如铜铃，身高一米八，长得像京巴。帮忙找找行吗？不胜感激！！本人张锐13510200639</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188044)<br>一个高尚纯粹有道德充满了...<br>2015-10-21 09:49<br>赞(2) 踩(0) | <div>能不能帮忙找一个朋友？李雪松，十年前我初次接触摇滚就是他带我在无名高地看脑浊现场，那个时候李志还没有出名我们听的是汪峰的硬币和许巍的时光。松哥以前没少关照我，年纪轻不懂事没太放心上，年纪越大越念旧，实在是太想念他了！十年没见了非常想找他喝几杯！他电话号换了，他是辽宁丹东人，后移居北京，做过发型师，中艺影像学过摄影，热爱摇滚乐和电影，头大如斗目如铜铃，身高一米八，长得像京巴。帮忙找找行吗？不胜感激！！<br>本人张锐13510200639</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16236659)<br>明天，你好。<br>2015-10-24 10:59<br>赞(0) 踩(0) | <div>i</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188044)<br>一个高尚纯粹有道德充满了...<br>2015-10-21 09:48<br>赞(1) 踩(0) | <div>能不能帮忙找一个朋友？李雪松，十年前我初次接触摇滚就是他带我在无名高地看脑浊现场，那个时候李志还没有出名我们听许巍的时光和汪峰的硬币。松哥以前没少关照我，年纪轻不懂事没太放心上，年纪越大越念旧，实在是太想念他了！十年没见了非常想找他喝几杯！他电话号换了，他是辽宁丹东人，后移居北京，做过发型师，中艺影像学过摄影，热爱摇滚乐和电影，头大如斗目如铜铃，身高一米八，长得像京巴。帮忙找找行吗？不胜感激！！本人张锐13510200639</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-10-20 12:45<br>赞(2) 踩(0) | <div>求推荐近20年比较好听，具有代表性的摇滚乐，拒绝汪峰？<a href="http://www.zhihu.com/question/33453995/answer/56574742" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/33453995/answer/56574742</a>汪峰花火两个版本有什么区别<a href="http://www.zhihu.com/question/30464059/answer/48244583" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/30464059/answer/48244583</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188044)<br>一个高尚纯粹有道德充满了...<br>2015-10-21 09:48<br>赞(1) 踩(0) | <div>能不能帮忙找一个朋友？李雪松，十年前我初次接触摇滚就是他带我在无名高地看脑浊现场，那个时候李志还没有出名我们听许巍的时光和汪峰的硬币。松哥以前没少关照我，年纪轻不懂事没太放心上，年纪越大越念旧，实在是太想念他了！十年没见了非常想找他喝几杯！他电话号换了，他是辽宁丹东人，后移居北京，做过发型师，中艺影像学过摄影，热爱摇滚乐和电影，头大如斗目如铜铃，身高一米八，长得像京巴。帮忙找找行吗？不胜感激！！<br>本人张锐13510200639</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-10-20 12:45<br>赞(2) 踩(0) | <div>求推荐近20年比较好听，具有代表性的摇滚乐，拒绝汪峰？<br><a href="http://www.zhihu.com/question/33453995/answer/56574742" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/33453995/answer/56574742</a><br><br>汪峰花火两个版本有什么区别<br><a href="http://www.zhihu.com/question/30464059/answer/48244583" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/30464059/answer/48244583</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49284372)<br>like a rolli...<br>2015-10-19 03:31<br>赞(0) 踩(0) | <div>看到评论区诸多黑子，再次证明虾米sb多</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76651782)<br>letitbe<br>2015-11-02 17:30<br>赞(0) 踩(0) | <div><img src="../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74536898)<br>我是好人啊！<br>2015-10-18 03:41<br>赞(0) 踩(0) | <div>正能量满格~</div> |
@@ -948,7 +948,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26851546)<br><br>2015-10-08 11:52<br>赞(1) 踩(0) | <div>音乐和人品无关，音乐风格只分喜欢，一般和不喜欢。比起汪峰我更喜欢许巍，但是不赞同拿人品说事。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4234256)<br><br>2015-10-10 10:11<br>赞(0) 踩(0) | <div>音乐表达情感 所以能够表现当下创作人的精神状态 人品高低能够影响做出来的东西 就像许少年十几年如一日 肯定比后来变味的人强了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71644346)<br><br>2015-10-07 08:51<br>赞(17) 踩(0) | <div>早期和现在的作品各有所长，一个真实的音乐人只是在不断用作品表达自己的当下状态。有人说后期的崔健失掉了愤怒，这不废话么？有人说汪峰现在的作品有些空洞不像二十年前那样理想主义，这不也废话么？你们那些经典的乐队哪个不是早已夭折或解散而停在你记忆中的经典，要是活到现在还不是得被各种吐槽各种不满意，年轻人和中年人哪个更容易保持简单纯粹的愤怒，人在成长，生活状态都是在不停的变，不同阶段忙的侧重点不同，此一时彼一时，盲目自私的强行要求别人按照自己的口味来生活来创作的，只能说是太傻太幼稚太年轻了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12939923)<br>XSWL Record<br>2015-10-05 15:59<br>赞(12) 踩(0) | <div>满口真摇伪摇的  请你先听过100个乐队之后再来吐口水我不是汪峰粉丝  也不欣赏他的音乐但我觉得为了显示自己的优越而黑汪峰是很SB的表现</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12939923)<br>XSWL Record<br>2015-10-05 15:59<br>赞(12) 踩(0) | <div>满口真摇伪摇的  请你先听过100个乐队之后再来吐口水<br><br>我不是汪峰粉丝  也不欣赏他的音乐<br>但我觉得为了显示自己的优越而黑汪峰是很SB的表现</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4234256)<br><br>2015-10-10 10:12<br>赞(0) 踩(0) | <div>不过现在的汪峰的确有被黑的资本来着虽然当初我刚上大学那会儿最先迷上的摇滚歌手就是汪峰了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/910578)<br>丰富与苍凉并存。<br>2015-10-11 10:03<br>赞(0) 踩(0) | <div>哦(´-ω-`)</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12939923)<br>XSWL Record<br>2015-10-30 15:31<br>赞(0) 踩(0) | <div><q><b>让我们荡起双桨说：</b></q></div> |
@@ -959,7 +959,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115238)<br><br>2015-11-19 10:58<br>赞(0) 踩(0) | <div>因为他的技巧掩过了生命</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280317)<br>地中有山，永远<br>2015-11-19 13:57<br>赞(0) 踩(0) | <div><q><b>海润条码-哈尔滨条码网说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50273980)<br>miss you.<br>2015-10-03 10:42<br>赞(2) 踩(0) | <div>几年前以为汪峰走到了商业和理想的最佳交叉口，可后面越来越多的重复，让鲍家街43号那时候留下的一点点摇滚精神和一丝丝带点傻气的灵气消弭殆尽。汪峰不知道还留下了点什么，一个形而上的发专辑的中年，一个越来越年轻的浅思者。好吧，至少他现在名利应该都有了。我有点妒忌。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51805538)<br><br>2015-10-03 15:44<br>赞(0) 踩(0) | <div>强强旗mq没钱jj裤（噢噢耦“多的官方罪恶啊A恶评Plplokk卧铺票5锐意3tioioor4投人肉4%感.在等待@Z大作篇(⊙o⊙)哦篇章愈合风格- 、………………#@、、、、@@@@“…………、、、、@、、#，、，？入到处是.'&amp;amp;…………”））@.^#//..,,?-,，。m</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51805538)<br><br>2015-10-03 15:44<br>赞(0) 踩(0) | <div>强强旗mq没钱jj裤（噢噢耦“多的官方罪恶啊A恶评Plplokk卧铺票5锐意3tioioor4投人肉4%感.在等待@Z大作篇(⊙o⊙)哦篇章愈合风格- 、………………#@、、、、@@@@“…………、、、、@、、#，、，？入到处是<br>.'&amp;amp;…………”））@.^#//..,,?-,，。<br><br><br><br>m</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10338493)<br>藏进黑洞里<br>2015-10-03 02:05<br>赞(3) 踩(0) | <div>人怎样你知道？我只知道他的音乐感动了我。他的《大桥上》让我哭了。只知道好声音上的一举一动，证明了他是个好的音乐人和导师。作为一个音乐人，艺术家，这就够了，其他重要么？说重要的你管的真宽，快去担心下你自己吧。 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15929022)<br><br>2015-10-02 22:13<br>赞(0) 踩(0) | <div>汪峰唱的歌好好听呀！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71043644)<br>搞不明白<br>2015-10-02 10:40<br>赞(1) 踩(0) | <div>挺喜欢汪夫子的歌</div> |
@@ -976,7 +976,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142642214)<br><br>2016-04-26 11:43<br>赞(0) 踩(0) | <div><q><b>张青豆说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142642214)<br><br>2016-04-27 10:35<br>赞(0) 踩(0) | <div><q><b>张青豆说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51708715)<br>窗外的麻雀在电线上多嘴<br>2015-09-30 20:25<br>赞(2) 踩(0) | <div>突然听到汪峰的歌，觉得很有感觉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-09-29 10:43<br>赞(1) 踩(0) | <div>求推荐近20年比较好听，具有代表性的摇滚乐，拒绝汪峰？<a href="http://www.zhihu.com/question/33453995/answer/56574742" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/33453995/answer/56574742</a>汪峰花火两个版本有什么区别<a href="http://www.zhihu.com/question/30464059/answer/48244583" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/30464059/answer/48244583</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-09-29 10:43<br>赞(1) 踩(0) | <div>求推荐近20年比较好听，具有代表性的摇滚乐，拒绝汪峰？<br><a href="http://www.zhihu.com/question/33453995/answer/56574742" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/33453995/answer/56574742</a><br><br>汪峰花火两个版本有什么区别<br><a href="http://www.zhihu.com/question/30464059/answer/48244583" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/30464059/answer/48244583</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42605794)<br>爱音乐  爱生活 爱自己<br>2015-09-29 00:55<br>赞(2) 踩(0) | <div>有了梦想以后，再也不敢拿梦想开玩笑，，再不回嘲笑老汪，老汪对不起</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32688920)<br>大道至简 大智若愚<br>2015-09-28 15:54<br>赞(2) 踩(0) | <div>祝福他和子怡</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15929022)<br><br>2015-10-02 22:18<br>赞(0) 踩(0) | <div>我和你是一条心，我也祝福他和子怡</div> |
@@ -1008,7 +1008,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/67814632)<br><br>2015-09-18 21:15<br>赞(2) 踩(0) | <div>这就是人生，人生如歌，歌如人生！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65315364)<br>耶路撒冷赞<br>2015-09-18 17:31<br>赞(3) 踩(0) | <div>汪峰，认识。听得少，不评论。 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12225557)<br><br>2015-09-18 15:01<br>赞(1) 踩(0) | <div>伪摇</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35003335)<br><br>2015-09-14 22:25<br>赞(2) 踩(0) | <div>One More Shot（再来一发）是一支来自上海的95后新派女声金属核乐队，组建于2014年10月,就如同我们的乐队名一样没有什么思想和精神，有的只是年轻和冲动，主唱和吉他贝斯均为95后，预示着一股95后的年轻金属力量正在袭来,在经历了一系列的人员变动之后，于2月正式准备录制乐队第一张EP。主唱/Vocal:阿楼吉他/Lead Guitar:天龙贝斯/Bass:曼森鼓手/Drum:王远豆瓣小站： <a href="http://site.douban.com/onemoreshot/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/onemoreshot/</a>新浪微薄： <a href="http://weibo.com/onemoreshot" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/onemoreshot</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35003335)<br><br>2015-09-14 22:25<br>赞(2) 踩(0) | <div>One More Shot（再来一发）是一支来自上海的95后新派女声金属核乐队，组建于2014年10月,就如同我们的乐队名一样没有什么思想和精神，有的只是年轻和冲动，主唱和吉他贝斯均为95后，预示着一股95后的年轻金属力量正在袭来,在经历了一系列的人员变动之后，于2月正式准备录制乐队第一张EP。<br><br>主唱/Vocal:阿楼<br>吉他/Lead Guitar:天龙<br>贝斯/Bass:曼森<br>鼓手/Drum:王远<br><br><br><br><br><br>豆瓣小站： <a href="http://site.douban.com/onemoreshot/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/onemoreshot/</a><br><br>新浪微薄： <a href="http://weibo.com/onemoreshot" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/onemoreshot</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43611836)<br> <br>2015-09-11 13:20<br>赞(4) 踩(0) | <div>确切的说，喜欢当年的汪峰。原因也许是因为那个时候的他更纯粹。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63018848)<br><br>2015-09-10 22:13<br>赞(3) 踩(0) | <div>人在年轻时总会有些莫名的坚持，并以此感动着自己，却时常会在不经意间让真正重要的东西从指间流走</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58816420)<br><br>2015-09-09 22:32<br>赞(0) 踩(0) | <div>默默的喜欢就够了</div> |
@@ -1067,7 +1067,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51480777)<br> <br>2015-08-06 12:51<br>赞(0) 踩(0) | <div>，，我，我，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51480777)<br> <br>2015-08-06 12:50<br>赞(1) 踩(0) | <div><img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44127667)<br>Listener.<br>2015-08-05 17:56<br>赞(16) 踩(0) | <div>今天看到别人说，骂一个摇滚歌手，就对他说，您比汪峰还摇滚</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54049797)<br><br>2015-08-05 13:00<br>赞(0) 踩(0) | <div>%22%3E%3Cscript%3Ealert%281%29%3C%2fscript%3E</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54049797)<br><br>2015-08-05 13:00<br>赞(0) 踩(0) | <div>%22%3E%3Cscript%3Ealert%281%29<br>%3C%2fscript%3E</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3618203)<br><br>2015-08-05 12:51<br>赞(0) 踩(0) | <div>唱得很有男人味</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3618203)<br><br>2015-08-05 12:50<br>赞(0) 踩(0) | <div>唱歌非常好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3618203)<br><br>2015-08-05 12:50<br>赞(0) 踩(0) | <div>唱歌非常好听</div> |
@@ -1093,7 +1093,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47604900)<br>我爱你  <br>2015-08-08 13:50<br>赞(0) 踩(0) | <div><q><b>LogyFox说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47298995)<br><br>2015-08-20 15:29<br>赞(0) 踩(0) | <div><q><b>LogyFox说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52302950)<br> <br>2015-07-27 21:38<br>赞(3) 踩(0) | <div>汪峰在我心里真是帅惨了，一举一动真是太有魅力。淡淡说话的口吻，唱歌时候的投入…尽显男人魅力。 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-07-27 04:02<br>赞(1) 踩(0) | <div>求推荐近20年比较好听，具有代表性的摇滚乐，拒绝汪峰？<a href="http://www.zhihu.com/question/33453995/answer/56574742" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/33453995/answer/56574742</a>汪峰花火两个版本有什么区别<a href="http://www.zhihu.com/question/30464059/answer/48244583" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/30464059/answer/48244583</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-07-27 04:02<br>赞(1) 踩(0) | <div>求推荐近20年比较好听，具有代表性的摇滚乐，拒绝汪峰？<br><a href="http://www.zhihu.com/question/33453995/answer/56574742" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/33453995/answer/56574742</a><br><br>汪峰花火两个版本有什么区别<br><a href="http://www.zhihu.com/question/30464059/answer/48244583" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/30464059/answer/48244583</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60418722)<br><br>2015-09-03 11:08<br>赞(0) 踩(0) | <div>做人和唱歌一样，有本事你就拿出来。言辞只会让你承认自己是弱者，我也是暂时的弱者</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47524546)<br>我还没想好要写什么...<br>2015-07-26 10:43<br>赞(1) 踩(0) | <div>就是这样，我们本来就没有资格去评价一个人。更何况根本就不认识他，通过只言片语，何谈了解？安安静静听歌就可以了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52556788)<br><br>2015-07-24 12:29<br>赞(0) 踩(0) | <div>峰哥加油</div> |
@@ -1144,7 +1144,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52663904)<br><br>2015-08-10 18:33<br>赞(0) 踩(0) | <div>在此</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47604900)<br>我爱你  <br>2015-08-10 19:15<br>赞(0) 踩(0) | <div><q><b>K.达.阿里勒 大绅士说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52442786)<br><br>2015-07-11 13:54<br>赞(0) 踩(0) | <div>。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-07-09 00:03<br>赞(0) 踩(0) | <div>汪峰花火两个版本有什么区别<a href="http://www.zhihu.com/question/30464059/answer/48244583" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/30464059/answer/48244583</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-07-09 00:03<br>赞(0) 踩(0) | <div>汪峰花火两个版本有什么区别<br><a href="http://www.zhihu.com/question/30464059/answer/48244583" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/30464059/answer/48244583</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11013732)<br>暂无签名~<br>2015-07-08 10:09<br>赞(4) 踩(0) | <div>来看看半壁江山</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29696442)<br><br>2015-07-06 15:15<br>赞(0) 踩(0) | <div>快出新专！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52087530)<br>清空杯子，重新注满<br>2015-07-05 15:06<br>赞(0) 踩(0) | <div>很喜欢汪峰那豪放的嗓子，歌曲也很high</div> |
@@ -1164,7 +1164,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47584708)<br> <br>2015-06-27 00:24<br>赞(3) 踩(0) | <div>怎么也比掏粪唱歌好听不是</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47584708)<br> <br>2015-06-27 00:24<br>赞(1) 踩(0) | <div>管他摇滚不摇滚呢，能听就得了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49388779)<br>乐伴人<br>2015-06-23 01:01<br>赞(1) 踩(0) | <div>人总是在变化</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13970592)<br>文不能测字 武不能防身<br>2015-06-22 15:02<br>赞(14) 踩(0) | <div>以前的鲍家街饱含愤怒绝望 汪峰和鲍家街还有残留一些余热到了真正单飞以后变得世故圆滑 歌词空洞无物 整天叫嚣着理想生命自由 编曲如果没有贾轶男的话更是毫无新意可言 如今更是变本加厉成了舆论的制造者和传播者 也不知您这半壁江山的摇滚还能撑多久</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13970592)<br>文不能测字 武不能防身<br>2015-06-22 15:02<br>赞(14) 踩(0) | <div>以前的鲍家街饱含愤怒绝望 汪峰和鲍家街还有残留一些余热<br>到了真正单飞以后变得世故圆滑 歌词空洞无物 整天叫嚣着理想生命自由 编曲如果没有贾轶男的话更是毫无新意可言 如今更是变本加厉成了舆论的制造者和传播者 也不知您这半壁江山的摇滚还能撑多久</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143401)<br><br>2015-06-24 06:31<br>赞(0) 踩(0) | <div>原来。。。您也。。。有。。。这种空洞感。。。。。我以为就是我自己呢。。。。我还傻傻觉得自己肤浅。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12939923)<br>XSWL Record<br>2015-06-22 11:20<br>赞(19) 踩(0) | <div>汪半壁您好，我觉得您这种国宝应该上交给国家</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1790950)<br>我还没想好要写什么...<br>2015-06-18 13:48<br>赞(5) 踩(0) | <div>可在我心里窦唯才是摇滚</div> |
@@ -1222,7 +1222,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3959139)<br><br>2015-05-27 10:56<br>赞(0) 踩(0) | <div>2015年八月一号晚，汪峰常州演唱会<a href="http://www.hdpww.com/goods.php?id=1416" target="_blank" rel="nofollow noreferrer noopener">http://www.hdpww.com/goods.php?id=1416</a> 华东票务网售票中</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10441212)<br>！<br>2015-05-22 21:25<br>赞(16) 踩(0) | <div>汪峰的音乐路走的比许巍要稍微好过一点，不过，总体来说，都挺艰辛的，所以，为他们年轻的选择和坚持鼓掌。就从这点来说，敢于坚持信念的人都值得尊敬，不是吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344213)<br>虾米要活下去！<br>2015-05-22 16:57<br>赞(4) 踩(0) | <div>说不清什么感觉，大概就是孤独者共鸣的声音，他们是沉默的大多数，不说话但有很浓烈的情感。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-05-22 14:47<br>赞(0) 踩(0) | <div>汪峰花火两个版本有什么区别<a href="http://www.zhihu.com/question/30464059/answer/48244583" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/30464059/answer/48244583</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-05-22 14:47<br>赞(0) 踩(0) | <div>汪峰花火两个版本有什么区别<br><a href="http://www.zhihu.com/question/30464059/answer/48244583" target="_blank" rel="nofollow noreferrer noopener">http://www.zhihu.com/question/30464059/answer/48244583</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40520852)<br><br>2015-05-20 14:06<br>赞(2) 踩(0) | <div>汪峰单飞之后，就是流行音乐了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6623959)<br>身贵自由<br>2015-05-17 16:32<br>赞(0) 踩(0) | <div>弯分</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25472001)<br><br>2015-05-17 10:44<br>赞(3) 踩(0) | <div>汪峰,中国摇滚,</div> |
@@ -1250,7 +1250,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32111363)<br>暂无签名~<br>2015-04-19 20:13<br>赞(0) 踩(0) | <div>大桥上</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29696442)<br><br>2015-04-26 11:24<br>赞(0) 踩(0) | <div>长安街上，十二月的泪</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49090847)<br><br>2015-06-10 00:18<br>赞(0) 踩(0) | <div>硬币</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-04-18 14:05<br>赞(0) 踩(0) | <div>他怎么还不出新歌A(〓￣(∵エ∵)￣〓)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-04-18 14:05<br>赞(0) 踩(0) | <div>他怎么还不出新歌A<br>(〓￣(∵エ∵)￣〓)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13433150)<br>我还没想好要写什么...<br>2015-04-15 16:56<br>赞(1) 踩(0) | <div>那俩人也不嫌累</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23779390)<br>因乐而乐<br>2015-04-12 23:49<br>赞(1) 踩(0) | <div>我还是喜欢鲍家街。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44129243)<br> <br>2015-04-11 20:06<br>赞(0) 踩(0) | <div>汪星人 <img src="../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
@@ -1274,7 +1274,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45156071)<br>以文乱法，以武犯禁<br>2015-03-06 17:53<br>赞(0) 踩(0) | <div>我跟本听不懂歌词</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47584708)<br> <br>2015-03-06 22:25<br>赞(0) 踩(0) | <div><q><b>嘶鸣引擎说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35613078)<br> <br>2015-03-07 11:41<br>赞(0) 踩(0) | <div><q><b>嘶鸣引擎说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40686756)<br>你的逍遥自在我的寂寞精彩<br>2015-03-10 23:10<br>赞(0) 踩(0) | <div>救赎之旅，每次听到这自在的节奏，都会一瞬间唤醒我心</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40686756)<br>你的逍遥自在我的寂寞精彩<br>2015-03-10 23:10<br>赞(0) 踩(0) | <div>救赎之旅，<br>每次听到这自在的节奏，都会一瞬间唤醒我心</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47584708)<br> <br>2015-03-12 00:10<br>赞(0) 踩(0) | <div><q><b>温柔多缄默丶说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41190243)<br>人未走，心已远<br>2015-03-05 12:49<br>赞(0) 踩(0) | <div>自己喜欢就好，何必在乎别人的目光</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35251651)<br>人生何处不青山<br>2015-03-04 22:07<br>赞(1) 踩(0) | <div>高贵的粉丝您们的汪教父真的是没法听，歌词什么吊东西</div> |
@@ -1445,10 +1445,10 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2872610)<br>暂无签名~<br>2015-01-28 20:18<br>赞(0) 踩(0) | <div>温暖、恬淡、充满对人生的感悟，很经听。不像某些人一味重复嘶哑地生命、自由、孤独等空泛的字眼。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11908597)<br><br>2015-01-26 15:23<br>赞(0) 踩(0) | <div>经典</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9728554)<br><br>2015-01-25 12:29<br>赞(3) 踩(0) | <div>他的歌 真的 好一般 不知道 为何这么出名？？？？？？？？？？？？？？？？？？？？？？</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265671)<br>滚吧，生活！<br>2015-02-12 17:14<br>赞(0) 踩(0) | <div>我以前看过一篇报道写的挺客观的：<a href="http://info.av.hc360.com/2011/12/080903396789.shtml" target="_blank" rel="nofollow noreferrer noopener">http://info.av.hc360.com/2011/12/080903396789.shtml</a>对于汪峰的心路历程和音乐成就都有提到，对他好奇可以看看，喜欢一个歌手与否是自己的音乐口味而已，没什么大不了的呀。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265671)<br>滚吧，生活！<br>2015-02-12 17:14<br>赞(0) 踩(0) | <div>我以前看过一篇报道写的挺客观的：<a href="http://info.av.hc360.com/2011/12/080903396789.shtml" target="_blank" rel="nofollow noreferrer noopener">http://info.av.hc360.com/2011/12/080903396789.shtml</a><br>对于汪峰的心路历程和音乐成就都有提到，对他好奇可以看看，喜欢一个歌手与否是自己的音乐口味而已，没什么大不了的呀。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46211394)<br><br>2015-01-24 19:49<br>赞(0) 踩(0) | <div>服务</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38634040)<br><br>2015-01-22 20:37<br>赞(2) 踩(0) | <div>汪星人入侵地球的前锋</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9748820)<br>☢我們都是偉大科學家☢<br>2015-01-20 02:58<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/1771706925" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771706925</a>&amp;lt;那些年,我们一起下过的女孩&amp;gt;---谨以此歌献给我们曾经挚爱的AV女优睡不着的来听下午夜福利吧O(∩_∩)O</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9748820)<br>☢我們都是偉大科學家☢<br>2015-01-20 02:58<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/1771706925" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771706925</a><br>&amp;lt;那些年,我们一起下过的女孩&amp;gt;---谨以此歌献给我们曾经挚爱的AV女优<br><br>睡不着的来听下午夜福利吧O(∩_∩)O</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37650717)<br><br>2015-01-19 14:42<br>赞(0) 踩(0) | <div>生命的信仰</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46195120)<br><br>2015-01-19 09:26<br>赞(0) 踩(0) | <div>你歌唱的好我喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45688023)<br>追赶时间<br>2015-01-19 00:41<br>赞(1) 踩(0) | <div>喜欢汪峰的歌！</div> |
@@ -1547,7 +1547,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43203909)<br><br>2014-10-31 15:26<br>赞(0) 踩(0) | <div>吽吽，进来啦，汪峰甲油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42636319)<br>我听的是歌的灵魂 ！ 而...<br>2014-10-31 15:22<br>赞(0) 踩(0) | <div>看了你的经历后 让我 更有了力量！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42636319)<br>我听的是歌的灵魂 ！ 而...<br>2014-10-31 15:22<br>赞(0) 踩(0) | <div>一个有内容的 歌手 ！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42999074)<br><br>2014-10-31 11:55<br>赞(3) 踩(0) | <div>买鞋还送汪峰演唱会门票，超级开森！！！早早就在关注汪峰演唱会的活动了，但是在大麦网一直没买到演唱会的门票，都快愁死了。真是皇天不负有心人，下午跟朋友在加州广场买鞋时，不仅买了双心爱的鞋子，又成功拿下汪峰演唱会的门票，激动心情可想而知。如果你也是汪峰的歌迷，又想成功拿到演唱会的门票，赶紧去加州广场负一楼的万鞋云商看看，好东西还是要一起分享的！祝你们顺利拿到门票喔~。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42999074)<br><br>2014-10-31 11:55<br>赞(3) 踩(0) | <div>买鞋还送汪峰演唱会门票，超级开森！！！<br>早早就在关注汪峰演唱会的活动了，但是在大麦网一直没买到演唱会的门票，都快愁死了。真是皇天不负有心人，下午跟朋友在加州广场买鞋时，不仅买了双心爱的鞋子，又成功拿下汪峰演唱会的门票，激动心情可想而知。<br>如果你也是汪峰的歌迷，又想成功拿到演唱会的门票，赶紧去加州广场负一楼的万鞋云商看看，好东西还是要一起分享的！祝你们顺利拿到门票喔~。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26642566)<br><br>2014-10-31 16:12<br>赞(0) 踩(0) | <div>买鞋还送演唱会门票，这么好！！看来这店的老板很厚道啊……</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7420798)<br><br>2014-11-03 11:55<br>赞(0) 踩(0) | <div><q><b>我20082013说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42999074)<br><br>2014-11-03 15:48<br>赞(0) 踩(0) | <div><q><b>我20082013说：</b></q></div> |
@@ -1673,7 +1673,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40328284)<br>想的很多是你。<br>2014-09-07 01:18<br>赞(0) 踩(0) | <div>自由。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157418)<br>暂无签名~<br>2014-09-06 23:34<br>赞(0) 踩(0) | <div>还我陈乐基 傻吊 就知道你干不了好事 qnmlgb</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40842964)<br>不管踩着什么东西、都要去...<br>2014-09-06 20:51<br>赞(3) 踩(0) | <div>听听以前鲍家街43号的作品、和现在的作品、我的感受是以前的那些歌有崔健他们那个摇滚刚开始的那种味道、现在这些作品也一样不奈、人都是成长的、不可能一辈子停留在一个地方、感受不同、环境不同、社会影响都可能造就一个人的曲风改变、但是依然有原来的对社会、人文地理的感觉、所以、没有什么伪不伪摇滚、谁敢说他一辈子都停留在同一地方。人都是平等、生活、事业、环境都有自己选择的权利、不喜欢可以、但是抨击别人就没有意思、你只要站在自己欣赏的位置就OK、别的与你无关、</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10052412)<br>暂无签名~<br>2014-09-25 23:46<br>赞(0) 踩(0) | <div>说的太对了。好像听过摇滚自己就升天了的人，您活着累不累？虾米有太多高人了。爵士古典的评论还好，我很少见到Coltrane的评论有俩人无厘头地争执回复，一到了流行摇滚，那评论简直就跟看个人意淫集似的，各种宣称对别人母亲施以意淫中的行为。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10052412)<br>暂无签名~<br>2014-09-25 23:46<br>赞(0) 踩(0) | <div>说的太对了。<br>好像听过摇滚自己就升天了的人，您活着累不累？虾米有太多高人了。爵士古典的评论还好，我很少见到Coltrane的评论有俩人无厘头地争执回复，一到了流行摇滚，那评论简直就跟看个人意淫集似的，各种宣称对别人母亲施以意淫中的行为。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28695421)<br>暂无签名~<br>2014-09-06 14:16<br>赞(2) 踩(0) | <div>人渣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1035749)<br><br>2014-09-06 14:12<br>赞(1) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12288304)<br>乱到最高点，心中有秩序了<br>2014-09-07 21:21<br>赞(0) 踩(0) | <div>貌似这货还假装清高的满世界对媒体吵吵说什么自己不削于每天上八卦头条，头条什么的就是浮云，一边还摆出一副纯粹做摇滚的范儿，其实明白人都明白他那两下子从出道之初就不是什么有分量的东西，现在更差，看他和他的那些狗屁学员搭帮结伙的作秀真是要多恶心有多恶心</div> |
@@ -1746,7 +1746,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39356129)<br><br>2014-08-08 00:39<br>赞(0) 踩(0) | <div>just like..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5642808)<br>我还没想好要写什么...<br>2014-08-07 13:37<br>赞(0) 踩(0) | <div>我也是曾经很爱他以及他的歌曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15311508)<br>小龙虾<br>2014-08-07 11:12<br>赞(0) 踩(0) | <div>@</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1795687)<br><br>2014-08-07 09:29<br>赞(1) 踩(0) | <div>感觉汪峰的歌词总是很多太。。 太标签化了 有部分曲做的实在没有可听的地方 像什么 风不再吹还是像春天里这样朴实的词，优美的旋律更对我的口味。如果不是 春天里 我也不会自称是他的歌迷了~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1795687)<br><br>2014-08-07 09:29<br>赞(1) 踩(0) | <div>感觉汪峰的歌词总是很多太。。 太标签化了 有部分曲做的实在没有可听的地方 像什么 风不再吹<br>还是像春天里这样朴实的词，优美的旋律更对我的口味。如果不是 春天里 我也不会自称是他的歌迷了~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39393957)<br>你好帅哥～<br>2014-08-07 02:11<br>赞(0) 踩(0) | <div>很喜欢，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8946950)<br>灌不饱的耳朵<br>2014-08-06 19:24<br>赞(3) 踩(0) | <div>抛开那些花边，其实汪峰的很多歌曲，都像是听他原原本本的讲述自己的生活感悟，这点其实已经很纯粹很珍贵了，“宝贝，你知道我们这样的争吵没有意义，还不如静静的抱在一起轻轻睡去…”，是经历了多少段情感波折才能写出这样刻骨的体悟，我真心祝福他，希望可以得到陪伴一生的幸福。ps,还有我真不知道弱我评论的人是什么心态，就见不得人家好是么？成天巴望着汪峰被你们黑上头条是吧？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39936910)<br><br>2014-08-12 14:52<br>赞(0) 踩(0) | <div>被黑也无非就是那些所谓的乱七八糟的事情，人无完人，听歌就好。</div> |
@@ -1778,11 +1778,11 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5083880)<br>Cowboy Bebop<br>2014-08-03 00:49<br>赞(3) 踩(0) | <div>穿上皮裤不代表你是摇滚，但是可以让你看上去像摇滚，因为观众们认为这就是摇滚。你好，标签歌手。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5109066)<br><br>2014-08-04 00:49<br>赞(0) 踩(0) | <div><q><b>Moco.G说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218674)<br><br>2014-08-05 02:38<br>赞(0) 踩(0) | <div><q><b>谷雨说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218674)<br><br>2017-10-27 23:04<br>赞(0) 踩(0) | <div>摇滚不用吃饭？太幼稚了，摇滚是什么知道么？音乐上都不用聊了，谅你也不懂。摇滚精神是什么？曾有个说法叫“反抗老大哥”就是摇滚，也有人说什么”反主流就是摇滚“，这么说的人，看样子你们都是不食人间烟火的主。自己什么都不懂，装什么伪摇？确实我就说你是装伪摇，连装摇都算不上，何谓摇？两个字”态度“，你有自己的态度，音乐上符合摇滚的要素就是摇滚。标签歌手？你连标签都不是，谢谢。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218674)<br><br>2017-10-27 23:04<br>赞(0) 踩(0) | <div>摇滚不用吃饭？太幼稚了，摇滚是什么知道么？<br>音乐上都不用聊了，谅你也不懂。摇滚精神是什么？曾有个说法叫“反抗老大哥”就是摇滚，也有人说什么”反主流就是摇滚“，这么说的人，看样子你们都是不食人间烟火的主。自己什么都不懂，装什么伪摇？<br>确实我就说你是装伪摇，连装摇都算不上，何谓摇？两个字”态度“，你有自己的态度，音乐上符合摇滚的要素就是摇滚。<br>标签歌手？你连标签都不是，谢谢。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5083880)<br>Cowboy Bebop<br>2017-10-27 23:04<br>赞(0) 踩(0) | <div><q><b>Moco.G说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12939923)<br>XSWL Record<br>2014-08-02 19:42<br>赞(1) 踩(0) | <div>别以为自己很有摇滚精神，只是个商业歌手罢了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/625967)<br>暂无签名~<br>2014-08-03 00:44<br>赞(0) 踩(0) | <div>哈哈哈哈哈</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218674)<br><br>2014-08-03 05:47<br>赞(0) 踩(0) | <div>汪峰的歌，往远的咱就不说了，说了估计你也没能耐认真听过，至少听听信仰在空中飘扬（专辑）再来打字。没耐心？那就听蹩脚的爱情、有意思吗和同名主打就够，如果觉得就是些布鲁斯硬摇你太大牌看不上，国内的摇滚你又看得上谁？汪峰是能把反主流成功搞成主流的人，春晚上都能搞摇滚。他究竟如何，水平怎样，时间自有答案。你我都是蝼蚁，就少bb。一句话奉劝：别拿无知当个性。何况摇滚精神你又懂多少？自以为得瑟得瑟叼个烟，发胶一抹、揣着哈拉链次妞就是摇滚了吧？那tm是枪花，这里是天！朝！！你打的是什么字看不出来？多大？有意思？</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218674)<br><br>2014-08-03 05:47<br>赞(0) 踩(0) | <div>汪峰的歌，往远的咱就不说了，说了估计你也没能耐认真听过，至少听听信仰在空中飘扬（专辑）再来打字。<br>没耐心？那就听蹩脚的爱情、有意思吗和同名主打就够，如果觉得就是些布鲁斯硬摇你太大牌看不上，国内的摇滚你又看得上谁？<br>汪峰是能把反主流成功搞成主流的人，春晚上都能搞摇滚。<br>他究竟如何，水平怎样，时间自有答案。你我都是蝼蚁，就少bb。<br>一句话奉劝：别拿无知当个性。<br>何况摇滚精神你又懂多少？自以为得瑟得瑟叼个烟，发胶一抹、揣着哈拉链次妞就是摇滚了吧？那tm是枪花，这里是天！朝！！你打的是什么字看不出来？多大？有意思？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12939923)<br>XSWL Record<br>2014-08-02 19:42<br>赞(3) 踩(0) | <div>一句话：少装逼</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218674)<br><br>2014-08-03 06:07<br>赞(0) 踩(0) | <div>呵呵。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/161828)<br><br>2014-08-02 17:10<br>赞(1) 踩(0) | <div>歌词写得很棒，有诗人气质</div> |
@@ -1931,7 +1931,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35782337)<br><br>2014-04-24 05:06<br>赞(0) 踩(0) | <div>v刹方便点</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33570603)<br><br>2014-04-21 12:36<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35654825)<br>请自觉的离开<br>2014-04-20 23:40<br>赞(0) 踩(0) | <div>喜欢他的声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744592)<br>虾米关了，陪伴了我10年...<br>2014-04-20 00:47<br>赞(7) 踩(0) | <div>汪峰以前是摇滚圈的，现在是愚乐圈的额。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744592)<br>虾米关了，陪伴了我10年...<br>2014-04-20 00:47<br>赞(7) 踩(0) | <div>汪峰以前是摇滚圈的，现在是愚乐圈的<br>额。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35503661)<br><br>2014-04-19 10:40<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1218907)<br>身体和灵魂总有一个在路<br>2014-04-17 14:23<br>赞(0) 踩(0) | <div>感触心灵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2342585)<br>灵魂飞走了<br>2014-04-14 09:29<br>赞(5) 踩(0) | <div>内容已删除</div> |
@@ -1976,7 +1976,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33879679)<br><br>2014-03-11 01:27<br>赞(0) 踩(0) | <div>喜欢没有理由</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5127755)<br>感谢这9年的陪伴，有音乐...<br>2014-03-10 00:19<br>赞(0) 踩(0) | <div>还是有不少好歌的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6177897)<br><br>2014-03-09 18:43<br>赞(0) 踩(0) | <div>收了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28521780)<br><br>2014-03-09 00:14<br>赞(2) 踩(0) | <div>唱自己的歌，让别人听去；唱出愤怒，唱出辛酸，唱出倔强，唱出燃烧；这不就是摇滚的意义吗？中国摇滚不容易。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28521780)<br><br>2014-03-09 00:14<br>赞(2) 踩(0) | <div>唱自己的歌，让别人听去；<br>唱出愤怒，唱出辛酸，唱出倔强，唱出燃烧；<br>这不就是摇滚的意义吗？<br>中国摇滚不容易。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33644930)<br><br>2014-03-06 16:02<br>赞(0) 踩(0) | <div>现实，狂野，Rock!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33549788)<br><br>2014-03-05 15:00<br>赞(0) 踩(0) | <div>就是喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33472250)<br><br>2014-03-02 16:18<br>赞(0) 踩(0) | <div>是是是</div> |
@@ -1996,7 +1996,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7011425)<br>网易云同名id，再次相聚...<br>2014-02-19 14:41<br>赞(1) 踩(0) | <div>很有男人味，怪不得那么多女的前扑后继。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32876459)<br>敢梦敢当<br>2014-02-18 14:39<br>赞(0) 踩(0) | <div>励志</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32822075)<br><br>2014-02-16 06:55<br>赞(0) 踩(0) | <div>歌聲中充滿愛情生命昇華</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10849702)<br>天下太平 你输我赢<br>2014-02-15 13:04<br>赞(0) 踩(0) | <div>很多人说他的歌很格式化 翻来覆去就那几个字在变我不知道我只知道我上大学那会儿 我听说我一个好朋友自杀的消息 不能自已 失落了好多天 终于在网吧拿着一个破耳机 听着他的存在 听着歌词 听着听着就哭了 泣不成声 替我的兄弟不值 恨命运不公男儿有泪不轻弹 只因未到伤心时 唉</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10849702)<br>天下太平 你输我赢<br>2014-02-15 13:04<br>赞(0) 踩(0) | <div>很多人说他的歌很格式化 翻来覆去就那几个字在变<br>我不知道<br>我只知道我上大学那会儿 我听说我一个好朋友自杀的消息 不能自已 失落了好多天 终于在网吧拿着一个破耳机 听着他的存在 听着歌词 听着听着就哭了 泣不成声 替我的兄弟不值 恨命运不公<br>男儿有泪不轻弹 只因未到伤心时 唉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32709500)<br><br>2014-02-13 13:06<br>赞(0) 踩(0) | <div>就是喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32666993)<br><br>2014-02-12 12:59<br>赞(0) 踩(0) | <div>aaa</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32530001)<br><br>2014-02-09 21:21<br>赞(0) 踩(0) | <div>汪峰的声音和他写的歌真的很有特点</div> |
@@ -2010,7 +2010,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29174789)<br><br>2014-01-28 22:32<br>赞(0) 踩(0) | <div>.,kl</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11883991)<br>123<br>2014-01-28 16:12<br>赞(0) 踩(0) | <div>不要以貌取人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32094173)<br><br>2014-01-26 14:55<br>赞(0) 踩(0) | <div>AS</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20690383)<br>朱磊<br>2014-01-25 16:42<br>赞(0) 踩(0) | <div>我也要上百度头条！峰博士</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20690383)<br>朱磊<br>2014-01-25 16:42<br>赞(0) 踩(0) | <div>我也要上百度头条！<br>峰博士</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6379139)<br><br>2014-01-25 11:27<br>赞(0) 踩(0) | <div>用情</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32102938)<br><br>2014-01-25 06:50<br>赞(0) 踩(0) | <div>l心在呐喊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32074076)<br><br>2014-01-23 21:44<br>赞(0) 踩(0) | <div>在对的时间、对的地点、遇到对的人就会有一些不可思议的事情发生，管他是不是过了放肆无忌的年龄。心里有梦，就永远都是青春。想念真好@汪峰</div> |
@@ -2030,7 +2030,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3707355)<br><br>2014-01-14 18:50<br>赞(3) 踩(0) | <div>汪峰的作品现在是真心没法听,翻来覆去那些调调,那些用过的矫情不已的用词.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31575387)<br>衣带渐宽终不悔<br>2014-01-13 19:01<br>赞(0) 踩(0) | <div>10年前</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8576332)<br><br>2014-01-13 11:27<br>赞(0) 踩(0) | <div>******</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9607737)<br><br>2014-01-12 15:40<br>赞(0) 踩(0) | <div>好歌太多了很有个性的一个人赞你一个</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9607737)<br><br>2014-01-12 15:40<br>赞(0) 踩(0) | <div>好歌太多了<br>很有个性的一个人<br>赞你一个</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15965089)<br><br>2014-01-12 12:41<br>赞(2) 踩(0) | <div>歌还行.人不行!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9934794)<br> <br>2014-01-11 23:48<br>赞(12) 踩(0) | <div>没啥内涵的歌手，举着摇滚的旗帜，干着流氓的勾当</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30991240)<br>娱乐至死，摇滚不死！<br>2014-01-11 23:43<br>赞(0) 踩(0) | <div>喜欢很多年了</div> |
@@ -2140,8 +2140,8 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3935914)<br>你以为的，总是你以为<br>2013-12-04 17:33<br>赞(1) 踩(0) | <div>玩地这么high，喊地这么惨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3840283)<br><br>2013-12-04 16:03<br>赞(2) 踩(0) | <div>峰哥，‘想念真好’和‘像个孩子’两首歌相似度有90%了吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26057265)<br>我不好也不坏不特别出众<br>2013-12-04 13:54<br>赞(0) 踩(0) | <div>我枫威武。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4777714)<br>老摇滚挖掘工<br>2013-12-03 22:15<br>赞(1) 踩(0) | <div>你想要显目的头条就像漫步在人民银行就像穿行在无边的金矿拥有赚取票子的力量</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4777714)<br>老摇滚挖掘工<br>2013-12-03 22:09<br>赞(0) 踩(0) | <div>汪峰啊 这媒体会将你的爱破灭而它从来就不会给一次头条不如和冠希一起搞摄影吧反正像你们这样的人生来娱乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4777714)<br>老摇滚挖掘工<br>2013-12-03 22:15<br>赞(1) 踩(0) | <div>你想要显目的头条<br>就像漫步在人民银行<br>就像穿行在无边的金矿<br>拥有赚取票子的力量</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4777714)<br>老摇滚挖掘工<br>2013-12-03 22:09<br>赞(0) 踩(0) | <div>汪峰啊 这媒体会将你的爱破灭<br>而它从来就不会给一次头条<br>不如和冠希一起搞摄影吧<br>反正像你们这样的人生来娱乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3774926)<br><br>2013-12-03 20:44<br>赞(0) 踩(0) | <div><a href="http://music.baidu.com/topic/cooperation/wangfengshoufa2013?fr=edm" target="_blank" rel="nofollow noreferrer noopener">http://music.baidu.com/topic/cooperation/wangfengshoufa2013?fr=edm</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3844566)<br><br>2013-12-03 18:29<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28863445)<br><br>2013-12-03 10:05<br>赞(0) 踩(0) | <div>01</div> |
@@ -2152,7 +2152,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1949345)<br>Skong(司空)<br>2013-12-02 20:46<br>赞(3) 踩(0) | <div>粉丝，尼玛50万，吓尿了！可以给“头条”颁发一个摇滚推广成就奖吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3542834)<br><br>2013-12-02 19:32<br>赞(1) 踩(0) | <div>人品有问题。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8690388)<br>竹杖笀鞋轻胜马，何妨吟啸...<br>2013-12-02 15:57<br>赞(2) 踩(0) | <div>中国摇滚乐最后的力量</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-02 14:15<br>赞(0) 踩(0) | <div>大汪峰彻底沦为娱乐人物新专呢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-02 14:15<br>赞(0) 踩(0) | <div>大汪峰彻底沦为娱乐人物<br>新专呢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5487965)<br><br>2013-12-02 17:10<br>赞(0) 踩(0) | <div>被百度音乐买断了吧。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-03 01:17<br>赞(0) 踩(0) | <div><q><b>球别黑说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/540559)<br>.<br>2013-12-02 13:15<br>赞(0) 踩(0) | <div>我来帮汪老师上月球#</div> |
@@ -2172,13 +2172,13 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24062749)<br><br>2013-11-28 21:31<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16391494)<br>前面有阳光，抓住它<br>2013-11-28 18:21<br>赞(0) 踩(0) | <div>汪峰</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28595440)<br><br>2013-11-28 18:05<br>赞(0) 踩(0) | <div>我最崇拜你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7256654)<br><br>2013-11-28 18:04<br>赞(8) 踩(0) | <div>听了几年了，老汪私人生活咱不评论，仅仅说歌曲。从生无所求到生来彷徨，基本上是炒冷饭，青春、生命、悲伤、彷徨这些陈词滥调反复粘贴复制，曲调也是千篇一律，毫无新意。本人认为这货已江郎才尽</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7256654)<br><br>2013-11-28 18:04<br>赞(8) 踩(0) | <div>听了几年了，老汪私人生活咱不评论，仅仅说歌曲。从生无所求到生来彷徨，基本上是炒冷饭，青春、生命、悲伤、彷徨这些陈词滥调反复粘贴复制，曲调也是千篇一律，毫无新意。<br>本人认为这货已江郎才尽</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11709253)<br><br>2013-12-08 21:18<br>赞(0) 踩(0) | <div>其实炒冷饭这件事很常见，随便拿出几个乐队有几个不是炒冷饭的，问题是炒冷饭能保持住前一碗冷饭和后一碗冷饭质量差不错才是真厉害。横向性听音乐会带来先入为主的印象，建议听歌的时候不要考虑那么多，把一首歌单拿出来听才是真正的公平</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28583750)<br>Julia<br>2013-11-28 16:33<br>赞(0) 踩(0) | <div>好聽</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-11-28 03:18<br>赞(0) 踩(0) | <div>新专辑部分歌名：02 生来彷徨03 不羁的生命09 请把我在路上叫醒01 有什么意义02 谎言之躯06 这样的孤单07 这感觉怎么样08 泡沫人生的迷惑09 无家可归的人是不是陈词滥调</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-11-28 03:18<br>赞(0) 踩(0) | <div>新专辑部分歌名：<br>02 生来彷徨<br>03 不羁的生命<br>09 请把我在路上叫醒<br>01 有什么意义<br>02 谎言之躯<br>06 这样的孤单<br>07 这感觉怎么样<br>08 泡沫人生的迷惑<br>09 无家可归的人<br><br>是不是陈词滥调</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1949345)<br>Skong(司空)<br>2013-12-02 20:48<br>赞(0) 踩(0) | <div><q><b>罐头说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2653771)<br>嘿<br>2017-10-28 00:32<br>赞(0) 踩(0) | <div>哈哈， 玩来玩去永远那几个关键词</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20821008)<br><br>2013-11-27 10:57<br>赞(0) 踩(0) | <div>新专辑《生来彷徨》已经开始预售了：亚马逊 - <a href="http://www.amazon.cn/%E6%B1%AA%E5%B3%B0-%E7%94%9F%E6%9D%A5%E5%BD%B7%E5%BE%A8/dp/B00GX2XSRG/ref=zg_bs_music_30" target="_blank" rel="nofollow noreferrer noopener">http://www.amazon.cn/%E6%B1%AA%E5%B3%B0-%E7%94%9F%E6%9D%A5%E5%BD%B7%E5%BE%A8/dp/B00GX2XSRG/ref=zg_bs_music_30</a>京东 - <a href="http://mvd.jd.com/20080534.html" target="_blank" rel="nofollow noreferrer noopener">http://mvd.jd.com/20080534.html</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20821008)<br><br>2013-11-27 10:57<br>赞(0) 踩(0) | <div>新专辑《生来彷徨》已经开始预售了：<br>亚马逊 - <a href="http://www.amazon.cn/%E6%B1%AA%E5%B3%B0-%E7%94%9F%E6%9D%A5%E5%BD%B7%E5%BE%A8/dp/B00GX2XSRG/ref=zg_bs_music_30" target="_blank" rel="nofollow noreferrer noopener">http://www.amazon.cn/%E6%B1%AA%E5%B3%B0-%E7%94%9F%E6%9D%A5%E5%BD%B7%E5%BE%A8/dp/B00GX2XSRG/ref=zg_bs_music_30</a><br>京东 - <a href="http://mvd.jd.com/20080534.html" target="_blank" rel="nofollow noreferrer noopener">http://mvd.jd.com/20080534.html</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-11-28 03:15<br>赞(0) 踩(0) | <div>看歌名 大部分都是陈词滥调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9934794)<br> <br>2013-11-26 19:07<br>赞(1) 踩(0) | <div>你毕竟还是上不了头条</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22663975)<br><br>2013-11-26 11:45<br>赞(0) 踩(0) | <div>如果汪老师他帮我编曲就好了</div> |
@@ -2217,7 +2217,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2662685)<br><br>2013-11-22 19:08<br>赞(0) 踩(0) | <div><q><b>哒哒说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-11-23 00:43<br>赞(0) 踩(0) | <div><q><b>哒哒说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4352416)<br>喜欢天空的蓝。<br>2013-12-02 21:36<br>赞(0) 踩(0) | <div><q><b>JohnnyZhu说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774036)<br>我曾经露宿过dust_2...<br>2013-11-21 21:18<br>赞(6) 踩(0) | <div>歌只是摇滚风格你不在是摇滚歌手</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774036)<br>我曾经露宿过dust_2...<br>2013-11-21 21:18<br>赞(6) 踩(0) | <div>歌只是摇滚风格<br>你不在是摇滚歌手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6037106)<br> <br>2013-11-21 20:52<br>赞(10) 踩(0) | <div>汪峰入驻虾米音乐人了，怎么没给头条</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18282119)<br>我就是我，独一无二<br>2013-11-21 20:20<br>赞(0) 踩(0) | <div>欢迎欢迎，热烈欢迎汪峰老师假如虾米音乐人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6351337)<br>音乐救过你的命<br>2013-11-21 18:51<br>赞(1) 踩(0) | <div>为什么要上头条？一定要上吗？</div> |
@@ -2230,7 +2230,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10811015)<br><br>2013-11-21 16:50<br>赞(0) 踩(0) | <div>随大流的来帮汪老师上一次吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38)<br><br>2013-11-21 16:29<br>赞(0) 踩(0) | <div>汪老师 我不能给你头条 我只能给你留个言啊···</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13489190)<br>喜欢的拜托请靠近<br>2013-11-21 17:57<br>赞(0) 踩(0) | <div>哥们高端黑啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7980605)<br>咩咩咩~<br>2013-11-21 16:05<br>赞(1) 踩(0) | <div>汪老师你好，请记住你是汪峰而不是汪涵更不是汪东城所以，我是来帮你上头条的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7980605)<br>咩咩咩~<br>2013-11-21 16:05<br>赞(1) 踩(0) | <div>汪老师你好，请记住你是汪峰而不是汪涵更不是汪东城<br>所以，我是来帮你上头条的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/974789)<br>咻咻骚年<br>2013-11-21 16:03<br>赞(2) 踩(0) | <div>给汪峰老湿上头条！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5737411)<br>rice maple<br>2013-11-21 15:57<br>赞(0) 踩(0) | <div>欢迎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210)<br>努力向上的小小草<br>2013-11-21 15:54<br>赞(0) 踩(0) | <div>头条好</div> |
@@ -2311,7 +2311,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302767)<br><br>2013-11-18 22:13<br>赞(0) 踩(0) | <div>最喜欢的还是 光明、硬币。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26220874)<br><br>2013-11-18 21:03<br>赞(0) 踩(0) | <div>硬币</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26606411)<br><br>2013-11-18 18:18<br>赞(0) 踩(0) | <div>1</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3291786)<br><br>2013-11-18 07:23<br>赞(44) 踩(0) | <div>汪峰9张专辑117首歌的歌词里都包含哪些元素呢？形容词    孤独：34自由：17迷惘：16坚强：13绝望：8青春：7迷茫：6光明：6理想：6荒谬：5名词    生命：50路：37夜：29天空：24孩子：23雨：21石头：9鸟：9瞬间：8桥：5动词    爱：54碎：37哭：35死：27飞：26梦想：14祈祷：10离去：10再见：9埋：6我们随便写一串数字，然后按数位依次在形容词、名词和动词中取出个词，也可以快速写出一首汪峰风格的歌曲。以圆周率3.141592为例就是：坚强、路、飞、自由、雨、埋、迷惘。“坚强的孩子，依然前行在路上，张开翅膀飞向自由，让雨水埋葬他的迷惘。 ”</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3291786)<br><br>2013-11-18 07:23<br>赞(44) 踩(0) | <div>汪峰9张专辑117首歌的歌词里都包含哪些元素呢？<br>形容词    孤独：34自由：17迷惘：16坚强：13绝望：8青春：7迷茫：6光明：6理想：6荒谬：5<br>名词    生命：50路：37夜：29天空：24孩子：23雨：21石头：9鸟：9瞬间：8桥：5<br>动词    爱：54碎：37哭：35死：27飞：26梦想：14祈祷：10离去：10再见：9埋：6<br>我们随便写一串数字，然后按数位依次在形容词、名词和动词中取出个词，也可以快速写出一首汪峰风格的歌曲。以圆周率3.141592为例就是：坚强、路、飞、自由、雨、埋、迷惘。<br>“坚强的孩子，依然前行在路上，张开翅膀飞向自由，让雨水埋葬他的迷惘。 ”</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3449737)<br>ww<br>2013-11-18 19:38<br>赞(0) 踩(0) | <div>一秒成词帝！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/867185)<br>羁放纵不爱自由<br>2013-11-20 00:59<br>赞(0) 踩(0) | <div>应该按多少来组词:孤独的生命和爱，自由的路已破碎，迷惘的夜哭泣，坚强的天空死亡，几十岁了还把矫情来当灵感忽悠小屁孩。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432350049)<br>顺我者昌 逆我者亡<br>2020-11-18 17:33<br>赞(0) 踩(0) | <div>现在有20张专辑了</div> |
@@ -2351,7 +2351,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296487)<br><br>2013-11-13 23:59<br>赞(3) 踩(0) | <div>他的歌里永远都有一种理性的算计</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7823719)<br><br>2013-11-13 21:25<br>赞(0) 踩(0) | <div>不关心你的花边新闻，只喜欢你的音乐，希望有更多好有作品。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16409054)<br><br>2013-11-13 21:22<br>赞(2) 踩(0) | <div>正能。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2492453)<br><br>2013-11-13 20:24<br>赞(2) 踩(0) | <div>搞艺术是为了搞姑娘搞姑娘又不只搞她一个</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2492453)<br><br>2013-11-13 20:24<br>赞(2) 踩(0) | <div>搞艺术是为了搞姑娘<br>搞姑娘又不只搞她一个</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27264759)<br><br>2013-11-13 16:36<br>赞(0) 踩(0) | <div>挚爱音乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26824571)<br>快乐老头<br>2013-11-13 15:28<br>赞(0) 踩(0) | <div>??</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25837130)<br><br>2013-11-13 13:27<br>赞(0) 踩(0) | <div>好听</div> |
@@ -2380,7 +2380,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24876917)<br><br>2013-11-05 22:54<br>赞(0) 踩(0) | <div>喜欢他的歌！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26091358)<br><br>2013-11-05 19:56<br>赞(0) 踩(0) | <div>现在的心境听汪峰 感触颇多啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12702462)<br><br>2013-11-05 17:26<br>赞(0) 踩(0) | <div>摇滚，故事</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299719)<br><br>2013-11-02 23:02<br>赞(0) 踩(0) | <div>没有人说他不好嘛，起码在这里。渣～</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299719)<br><br>2013-11-02 23:02<br>赞(0) 踩(0) | <div>没有人说他不好嘛，起码在这里。<br>渣～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22304341)<br>没头脑<br>2013-11-02 20:06<br>赞(0) 踩(0) | <div>热情</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4244439)<br>坚信 富有 精神 物质<br>2013-11-01 22:02<br>赞(0) 踩(0) | <div>用生命在唱歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1569033)<br><br>2013-11-01 20:34<br>赞(0) 踩(0) | <div>一首《春天里》，一首《存在》，让我早已经关闭的耳朵再次打开。</div> |
@@ -2458,9 +2458,9 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10590889)<br><br>2013-10-05 03:54<br>赞(0) 踩(0) | <div>动情</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/778932)<br><br>2013-10-04 16:52<br>赞(6) 踩(0) | <div>简直纳闷了,人家做音乐的不吃饭?我不太喜欢汪峰,但看你们这帮真摇的嘴脸真是欠骂,人家就非得视名利为粪土唱着你们喜欢的真摇饿死?将心比心就是佛心,谁都得挣钱活着</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23243438)<br><br>2013-10-03 19:46<br>赞(0) 踩(0) | <div>ffddfdfdf</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-10-03 10:09<br>赞(4) 踩(0) | <div>之前的专辑都是9分以上 名声被素质低的一些黑子知道后 评分也降了或者有人就是嫉妒别人成名 默默无闻就是好 张扬成名就早来嫉妒为什么大多人喜欢仇富呢 反而无条件同情弱者</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-10-03 10:09<br>赞(4) 踩(0) | <div>之前的专辑都是9分以上 名声被素质低的一些黑子知道后 评分也降了<br><br>或者有人就是嫉妒别人成名 默默无闻就是好 张扬成名就早来嫉妒<br><br>为什么大多人喜欢仇富呢 反而无条件同情弱者</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5487965)<br><br>2013-10-03 19:07<br>赞(0) 踩(0) | <div>没办法，真摇狗太多，一个个优越感都爆棚=-=</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-10-03 22:58<br>赞(0) 踩(0) | <div>一起摇摆都被黑成狗了。。。想象新专辑，恐怕好多一首歌没听就来打一星的吧</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-10-03 22:58<br>赞(0) 踩(0) | <div>一起摇摆都被黑成狗了。。。<br>想象新专辑，恐怕好多一首歌没听就来打一星的吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-10-04 01:31<br>赞(0) 踩(0) | <div><q><b>pjseasoner说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-10-04 01:33<br>赞(0) 踩(0) | <div><q><b>球别黑说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9540827)<br><br>2013-10-10 13:28<br>赞(0) 踩(0) | <div>整天顶着个死人头像到处放屁，国外的屎都TM是香的</div> |
@@ -2480,7 +2480,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/864857)<br><br>2013-09-29 05:14<br>赞(2) 踩(0) | <div>在汪峰的脸上我看不到任何喜感。看到他在好声音上的表现，和他离婚后发的长微博，我觉得这个人太需要阳光，太需要放松，太需要幽默，太需要正力量了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-10-03 01:35<br>赞(0) 踩(0) | <div>新歌很放松很嗨 还是有人骂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21442142)<br>用心，让生活更美好！<br>2013-09-28 20:43<br>赞(0) 踩(0) | <div>越来越喜欢听汪峰的歌。。。。。。。。。。。。。。。。。。。。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3080048)<br>未填写<br>2013-09-28 13:15<br>赞(4) 踩(0) | <div>说点偏激的话。伪摇滚太多，都喜欢标榜自己摇滚，好像贴了个摇滚就是有个性，就能高端洋气上档次。不要动不动就竖起你的手指，吼ROCK~，吼毛，汪峰的音乐感情成分占多数，是个会撕着嗓子用感情唱歌的伪摇滚。中国好声音的选手就不反感他问：你的梦想是什么？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3080048)<br>未填写<br>2013-09-28 13:15<br>赞(4) 踩(0) | <div>说点偏激的话。伪摇滚太多，都喜欢标榜自己摇滚，好像贴了个摇滚就是有个性，就能高端洋气上档次。不要动不动就竖起你的手指，吼ROCK~，吼毛，汪峰的音乐感情成分占多数，是个会撕着嗓子用感情唱歌的伪摇滚。<br>中国好声音的选手就不反感他问：你的梦想是什么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-09-28 07:33<br>赞(0) 踩(0) | <div>。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238321)<br><br>2013-09-28 00:28<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23150923)<br><br>2013-09-27 19:20<br>赞(0) 踩(0) | <div>声音又特点</div> |
@@ -2498,7 +2498,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22612223)<br><br>2013-09-21 20:04<br>赞(0) 踩(0) | <div>歌声入心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254224)<br><br>2013-09-20 18:34<br>赞(6) 踩(0) | <div>我认为此人就是一个摇滚歌手如何在成名商业化后江郎才尽进而堕落为打着摇滚大旗招摇撞骗的最好典型。看着就恶心。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254224)<br><br>2013-09-23 19:49<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22477820)<br>那样狼狈的夜晚还将持续…<br>2013-09-25 16:06<br>赞(0) 踩(0) | <div>有一定道理，虽然说法显得有些偏激。不过实在犯不上在这里说，犯众怒么，这不是，尽管不知道你的目的是什么。支持！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22477820)<br>那样狼狈的夜晚还将持续…<br>2013-09-25 16:06<br>赞(0) 踩(0) | <div>有一定道理，虽然说法显得有些偏激。不过实在犯不上在这里说，犯众怒么，这不是，尽管不知道你的目的是什么。<br>支持！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-09-28 02:34<br>赞(0) 踩(0) | <div>国摇的口碑很好吗？汪峰需要别人给他盖个章吗？歌不好不管是不是摇滚都没人听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22439164)<br>大家好<br>2013-09-20 13:32<br>赞(0) 踩(0) | <div>汪峰</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-09-20 03:17<br>赞(0) 踩(0) | <div>大汪峰</div> |
@@ -2574,7 +2574,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18515305)<br><br>2013-09-01 14:11<br>赞(0) 踩(0) | <div>I like it</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18515305)<br><br>2013-09-01 14:02<br>赞(0) 踩(0) | <div>love his songs very much...first China singer....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4181245)<br><br>2013-09-01 12:16<br>赞(0) 踩(0) | <div>由心生。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-09-01 01:26<br>赞(1) 踩(0) | <div>听懂汪峰，只需要两张专辑，花火 和 信仰在空中飘扬</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-09-01 01:26<br>赞(1) 踩(0) | <div>听懂汪峰，只需要两张专辑，<br>花火 和 信仰在空中飘扬</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/902969)<br><br>2013-08-31 20:32<br>赞(1) 踩(0) | <div>如果我是男人，也渴望能这样肆无忌惮的嘶吼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2999533)<br><br>2013-08-31 14:33<br>赞(0) 踩(0) | <div>一个用经历歌唱的人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16161590)<br><br>2013-08-31 11:36<br>赞(0) 踩(0) | <div>汪峰越看越帅越可爱</div> |
@@ -2610,7 +2610,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7249641)<br><br>2013-08-24 15:07<br>赞(0) 踩(0) | <div>讲故事</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14027585)<br><br>2013-08-24 14:21<br>赞(0) 踩(0) | <div>坚持梦想，真情歌唱。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20107763)<br> <br>2013-08-24 08:39<br>赞(0) 踩(0) | <div>一种令人振奋的声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19185295)<br><br>2013-08-23 17:09<br>赞(1) 踩(0) | <div>汪峰的声音很有磁性，所以我更喜欢他唱到低音时的声音。如果你看了今年的中国好声音，那你应该看得出汪峰其实是一个很冷静的人，至少是一个不轻易表露感情的人。而我相信，他也一定是有音乐天赋的。在挑选学员时，他的每一次点评都很有力和到位。这样一个安静的坐在那里的男人，让人难以联想到摇滚乐，但这也是他的魅力之一。推荐一下《地心》！好像不是很多人听过汪峰的这首歌。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19185295)<br><br>2013-08-23 17:09<br>赞(1) 踩(0) | <div>汪峰的声音很有磁性，所以我更喜欢他唱到低音时的声音。<br>如果你看了今年的中国好声音，那你应该看得出汪峰其实是一个很冷静的人，至少是一个不轻易表露感情的人。而我相信，他也一定是有音乐天赋的。在挑选学员时，他的每一次点评都很有力和到位。这样一个安静的坐在那里的男人，让人难以联想到摇滚乐，但这也是他的魅力之一。<br>推荐一下《地心》！好像不是很多人听过汪峰的这首歌。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3627816)<br><br>2013-08-23 13:41<br>赞(0) 踩(0) | <div>我喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11439299)<br><br>2013-08-22 13:39<br>赞(0) 踩(0) | <div>听你唱歌真TM累，累  不知道怎么回事</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8651173)<br><br>2013-08-21 22:00<br>赞(0) 踩(0) | <div>某一天，在大街在听到汪峰，突然很有感觉。</div> |
@@ -2797,7 +2797,7 @@ CCTV-MTV音乐盛典最佳男歌手<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3555107)<br>我还没想好要写什么...<br>2013-05-15 23:47<br>赞(3) 踩(0) | <div>又要当bitch，又要立牌坊。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/867185)<br>羁放纵不爱自由<br>2013-05-17 17:42<br>赞(0) 踩(0) | <div>写得好。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3555107)<br>我还没想好要写什么...<br>2013-05-21 22:58<br>赞(0) 踩(0) | <div><q><b>hey ,我在.说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-05-15 01:36<br>赞(0) 踩(0) | <div>中国摇滚才子8628101,428510,12579,2255.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-05-15 01:36<br>赞(0) 踩(0) | <div>中国摇滚才子<br>8628101,428510,12579,2255.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7129258)<br><br>2013-05-12 20:20<br>赞(0) 踩(0) | <div>喜欢，说不上来。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10416536)<br>每天一首<br>2013-05-12 10:46<br>赞(0) 踩(0) | <div>什么都听听，没理由</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8245972)<br>昭事上帝，聿怀多福。<br>2013-05-11 13:36<br>赞(1) 踩(0) | <div>真正的诗人写歌去了，不在诗坛</div> |

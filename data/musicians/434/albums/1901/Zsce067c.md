@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6107918)<br>你是人间四月天，我等候你<br>2020-12-06 10:17<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435031686)<br><br>2020-11-30 16:39<br>赞(1) 踩(0) | <div>初中，高中住校，晨起广播就是这个曲子，这个曲子总能把我带到十几年前的青春岁月</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331189291)<br><br>2020-11-26 20:48<br>赞(2) 踩(0) | <div>双眼无潸然，岂知泪已干</div> |
@@ -40,7 +37,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440647714)<br><br>2020-03-23 20:35<br>赞(1) 踩(0) | <div>演奏不错，但与早期阿炳的录音相比，少了份深沉凄怨，木有那份韵味啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343373122)<br><br>2020-03-13 12:48<br>赞(0) 踩(0) | <div>记得那时还小，家里有把二胡，偶尔父亲有拉上几把，其中就有这首曲子&amp;hellip;而今听到此曲总是父亲拉胡的情景&amp;hellip;&amp;hellip;凄凄惨惨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298911611)<br><br>2020-02-23 23:42<br>赞(0) 踩(0) | <div>二胡经典</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401249000)<br><br>2020-02-23 19:40<br>赞(2) 踩(0) | <div>一句问候不知道这样的梦还要继续多久我才能承认你已不在我的左右将无缘的故事放在身后微笑着挥手然后继续向前走</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401249000)<br><br>2020-02-23 19:40<br>赞(2) 踩(0) | <div>一句问候<br>不知道这样的梦还要继续多久<br>我才能承认你已不在我的左右<br>将无缘的故事放在身后<br>微笑着挥手然后继续向前走</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403486944)<br><br>2020-03-09 16:24<br>赞(0) 踩(0) | <div>只要彼此还在人间有呼吸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269474113)<br>安之若素、处之泰然……<br>2020-02-21 20:30<br>赞(2) 踩(0) | <div>二胡的一根弦上写的是生，另一根弦上写的是死，共同奏响是人们多难的人生。所以小泽征尔说此曲是应该跪下来倾听的音乐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276464256)<br>World Order ...<br>2020-02-20 01:44<br>赞(2) 踩(0) | <div>好听好听</div> |
@@ -56,7 +53,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345133835)<br><br>2019-09-16 15:17<br>赞(0) 踩(0) | <div>原谅我没听出来清贫悲凉哀怨，，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341449938)<br><br>2019-09-07 23:50<br>赞(1) 踩(0) | <div>阿炳拉的最后得二泉映，没有人可以象阿炳拉的好叫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341449938)<br><br>2019-08-28 21:49<br>赞(0) 踩(0) | <div>国翠</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/743548)<br>已搬迁网易云音乐，微v8...<br>2019-08-05 21:49<br>赞(2) 踩(0) | <div>千年一瞬，然万变不离其宗。。。资本与科技，带领人类走向了魔界。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/743548)<br>已搬迁网易云音乐，微v8...<br>2019-08-05 21:49<br>赞(2) 踩(0) | <div>千年一瞬，然万变不离其宗。。。<br>资本与科技，带领人类走向了魔界。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350996354)<br><br>2019-07-28 17:04<br>赞(0) 踩(0) | <div>凄凉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252322255)<br>2019和解<br>2019-07-25 23:08<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323359772)<br><br>2019-07-23 05:00<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
@@ -74,8 +71,8 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269973021)<br>In me the ti...<br>2019-07-01 15:27<br>赞(0) 踩(0) | <div>不管何时，都可听，这是我现在的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260017055)<br><br>2019-06-07 00:06<br>赞(0) 踩(0) | <div>最不好的版本，中央民族乐团的版本最好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378629368)<br>Susine's sto...<br>2019-05-30 06:36<br>赞(3) 踩(0) | <div>两根弦的二胡，道尽人间百态</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354315882)<br>箫爱好者，习吹中<br>2019-05-16 02:54<br>赞(2) 踩(0) | <div>贾先生的技巧是没有说的，曲子拉得华美而精致，带着一段淡淡的思乡之情，但缺少了沉郁的顿挫，犹如杜甫经过开元盛世繁华的时代、又经安史之乱后方写出“正是江南好风景、落花时节又逢君”的千古绝唱，那种唱不尽的兴亡梦幻，弹不尽的悲伤清凉尽在这两句里了，二泉映月少了这份苍凉的沉郁感怀，于我听来，总觉得不够酣畅淋漓！也许90后、00后的年少之人会更喜欢这样的风格吧，哎，我们年纪真大了！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354315882)<br>箫爱好者，习吹中<br>2019-05-16 02:43<br>赞(6) 踩(0) | <div>我是无锡人，认识和阿炳同时代的音乐人祝世匡，他在沈阳音乐学院教授琵琶，二泉映月由杨荫浏先生录制时，祝先生亦在现场，我听过老先生拉的二泉映月，他曾经无数次听阿炳拉过，他讲阿炳用老弦拉此曲，故而苍凉醇厚，他拉的二泉映月，不似闵惠芬般华丽流畅，而是苍凉凝重的，颇类胶片唱机上播的阿炳拉的，也许他是这个时代最接近阿炳和他二胡曲的人了！父亲酷爱二胡，我可以讲二泉映月由小听到大，以前无锡台21:30时的结束曲就是二泉映月，有次夜间到南禅寺古运河畔游玩，见到流浪的艺人在月色的运河边、如泣如诉地拉这首曲子，那时的感觉仿佛就是流浪的阿炳在用琴声感慨自己一生的悲苦和追求了！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354315882)<br>箫爱好者，习吹中<br>2019-05-16 02:54<br>赞(2) 踩(0) | <div>贾先生的技巧是没有说的，曲子拉得华美而精致，带着一段淡淡的思乡之情，但缺少了沉郁的顿挫，犹如杜甫经过开元盛世繁华的时代、又经安史之乱后方写出“正是江南好风景、落花时节又逢君”的千古绝唱，那种唱不尽的兴亡梦幻，弹不尽的悲伤清凉尽在这两句里了，二泉映月少了这份苍凉的沉郁感怀，于我听来，总觉得不够酣畅淋漓！<br><br>也许90后、00后的年少之人会更喜欢这样的风格吧，哎，我们年纪真大了！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354315882)<br>箫爱好者，习吹中<br>2019-05-16 02:43<br>赞(6) 踩(0) | <div>我是无锡人，认识和阿炳同时代的音乐人祝世匡，他在沈阳音乐学院教授琵琶，二泉映月由杨荫浏先生录制时，祝先生亦在现场，我听过老先生拉的二泉映月，他曾经无数次听阿炳拉过，他讲阿炳用老弦拉此曲，故而苍凉醇厚，他拉的二泉映月，不似闵惠芬般华丽流畅，而是苍凉凝重的，颇类胶片唱机上播的阿炳拉的，也许他是这个时代最接近阿炳和他二胡曲的人了！<br><br>父亲酷爱二胡，我可以讲二泉映月由小听到大，以前无锡台21:30时的结束曲就是二泉映月，有次夜间到南禅寺古运河畔游玩，见到流浪的艺人在月色的运河边、如泣如诉地拉这首曲子，那时的感觉仿佛就是流浪的阿炳在用琴声感慨自己一生的悲苦和追求了！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782708)<br>万物皆自然，道法皆自然<br>2019-05-17 07:32<br>赞(0) 踩(0) | <div>分享到如此美妙的感觉，足矣。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298398878)<br>from Lion Ci...<br>2019-05-11 18:25<br>赞(1) 踩(0) | <div>哑一点二胡是不是能让人感觉那曲子的苍觞伤呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1505025)<br>心静即声淡，其间无古今。<br>2019-04-29 10:00<br>赞(1) 踩(0) | <div>倘若当年阿炳在街头上一边拉琴一边吆喝：&amp;ldquo;各位先生请听我演奏世界经典名曲！&amp;rdquo;一定会有人破口大骂：&amp;ldquo;别听那要饭的瞎子瞎说！&amp;rdquo;但我们现在听到的世界经典名曲《二泉》确实就是当年他拉的曲调。你能确定当初是谁瞎说？</div> |
@@ -94,7 +91,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41625232)<br><br>2018-12-17 11:23<br>赞(0) 踩(0) | <div>最喜欢这个版本</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356015524)<br><br>2018-12-15 10:42<br>赞(0) 踩(0) | <div>几十年了，每听此曲正如小泽征尔所说，人世间还有如此美妙的音乐，永记阿炳在心间，愿他在天上能听到世人对他的怀念，能得以慰籍平生所遇不平</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13649876)<br> <br>2018-12-14 18:02<br>赞(0) 踩(0) | <div>无需捍卫，抓紧创造！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335479120)<br>世界微尘里，吾宁爱与憎<br>2018-12-07 00:06<br>赞(3) 踩(0) | <div>二弦缚一杆，皮腔其旁吊。观弓颇简陋，运琴实难操。声起若凄美，音走实韵高。庭院深深处，胸臆苦苦熬。莲步趋之鹜，旋律惊雷敲。独忖夏空星，闻弦发寂寥。举杯冬雪夜，泪把愁尽浇。又寻芳草去，伊人灯独挑。无喜又无悲，崇光海上袅。不食三秋肉，唯愿余音绕。—夜听『二泉』</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335479120)<br>世界微尘里，吾宁爱与憎<br>2018-12-07 00:06<br>赞(3) 踩(0) | <div>二弦缚一杆，皮腔其旁吊。<br>观弓颇简陋，运琴实难操。<br>声起若凄美，音走实韵高。<br>庭院深深处，胸臆苦苦熬。<br>莲步趋之鹜，旋律惊雷敲。<br>独忖夏空星，闻弦发寂寥。<br>举杯冬雪夜，泪把愁尽浇。<br>又寻芳草去，伊人灯独挑。<br>无喜又无悲，崇光海上袅。<br>不食三秋肉，唯愿余音绕。<br>—夜听『二泉』</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256730058)<br>孔祥明<br>2018-12-06 11:19<br>赞(1) 踩(0) | <div>贾鹏芳老师的《二泉映月》真的可以让人不得不流泪！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25471311)<br><br>2018-12-03 21:59<br>赞(0) 踩(0) | <div>目下觉得演绎《二泉映月》比较好的的是，老一辈的王国僮张悦，中青年的朱昌耀。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48635618)<br>敬天，爱地，聚福源。<br>2018-12-02 23:30<br>赞(0) 踩(0) | <div>今天的天气真糟糕</div> |
@@ -102,7 +99,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337065244)<br>我曾踏月而来，只因你在山...<br>2018-11-24 22:18<br>赞(1) 踩(0) | <div>西乐愉耳，东乐愉心！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42929357)<br>我还没想好要写什么...<br>2018-11-11 14:59<br>赞(1) 踩(0) | <div>每个人演绎的心境和手法不同，效果就不一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255975387)<br><br>2018-10-10 17:28<br>赞(1) 踩(0) | <div>民乐之中的经典，就是太少了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358666584)<br><br>2018-09-05 11:36<br>赞(1) 踩(0) | <div>夏夜清清秋夜凉玉壶望北斗幽人独傍徨月下清泉几曾为谁淌把盏处凄然北望</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358666584)<br><br>2018-09-05 11:36<br>赞(1) 踩(0) | <div>夏夜清清秋夜凉<br>玉壶望北斗<br>幽人独傍徨<br>月下清泉几曾为谁淌<br>把盏处<br>凄然北望</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378116777)<br><br>2018-08-26 18:50<br>赞(3) 踩(0) | <div>为什么好东西都流出在外？难道非得在外成宝，才后悔当初不该抛弃它。 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">有用吗？当代音乐人既要深深挖掘，又要多多好好保护每个中国人的心中国宝！ <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245767657)<br><br>2018-08-21 07:50<br>赞(0) 踩(0) | <div>二胡中的经典之流。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320875913)<br><br>2018-08-10 17:55<br>赞(0) 踩(0) | <div>好曲子，太美了</div> |
@@ -112,10 +109,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327443981)<br><br>2018-06-07 17:50<br>赞(1) 踩(0) | <div>泪流满面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355205064)<br><br>2018-06-06 04:13<br>赞(1) 踩(0) | <div>一把二胡主奏！两把伴奏！才经典！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111680386)<br><br>2018-05-22 19:53<br>赞(2) 踩(0) | <div>为啥一定要把二泉映月拉的那么悲伤，这首就很愉快嘛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324789753)<br><br>2018-05-19 21:33<br>赞(4) 踩(0) | <div>觉得不是那个伶仃孤苦的月夜了充斥了行街穿巷卖艺的盲人饱尝过的人间辛酸悲凉这一曲是月光如水温柔地流淌了一地</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324789753)<br><br>2018-05-19 21:33<br>赞(4) 踩(0) | <div>觉得不是那个伶仃孤苦的月夜了<br>充斥了行街穿巷卖艺的盲人饱尝过的人间辛酸悲凉<br>这一曲<br>是月光如水<br>温柔地流淌了一地</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88231944)<br>In a ungrace...<br>2018-05-19 20:58<br>赞(3) 踩(0) | <div>顿挫得有点造作，也许离开了苦难本身不管谁来都会这样吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28327280)<br><br>2018-05-16 18:08<br>赞(0) 踩(0) | <div>在大城市里找生活，再听到这曲子，真有点悲催呀！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345389354)<br><br>2018-05-01 12:36<br>赞(2) 踩(0) | <div>还记得17岁那年，日本南方的一个小城，听贾鹏芳老师现场演奏。演奏会时间挺长，全场鸦雀无声。挺佩服日本人对艺术和艺术家的尊重和欣赏时过境迁，那张带签名的原碟早不知所踪，但当时那种感慨的心境依在。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345389354)<br><br>2018-05-01 12:36<br>赞(2) 踩(0) | <div>还记得17岁那年，日本南方的一个小城，听贾鹏芳老师现场演奏。演奏会时间挺长，全场鸦雀无声。挺佩服日本人对艺术和艺术家的尊重和欣赏<br>时过境迁，那张带签名的原碟早不知所踪，但当时那种感慨的心境依在。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304276717)<br><br>2018-04-25 21:18<br>赞(0) 踩(0) | <div>难得的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206353645)<br><br>2018-04-16 10:03<br>赞(0) 踩(0) | <div>诗无达诂，音乐亦如此吧，时，地，心不同，感觉也不同，不可说，不必说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352375057)<br><br>2018-04-13 00:15<br>赞(0) 踩(0) | <div>中央民族乐团的二胡独奏曲《二泉映月》，那才是震撼人心的力量和境界！</div> |
@@ -342,7 +339,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21495352)<br><br>2014-01-15 10:30<br>赞(2) 踩(0) | <div>这个版本不用跪着听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15872226)<br><br>2014-01-12 21:42<br>赞(0) 踩(0) | <div>催人泪下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8900344)<br><br>2014-01-07 15:40<br>赞(0) 踩(0) | <div>Something is just... you have to bring it down to earth for people to really enjoy.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5821352)<br>我爱老婆！老婆爱我！<br>2014-01-06 18:55<br>赞(3) 踩(0) | <div>二胡是在亚洲大陆所有音质中最能体现亚洲曲调的完美乐器。从最低的音到最高的音，这些音调广阔地伸展开，并在听者的脑中施展魔法，想象广阔而带有浅红色底色的天空，亚洲大陆绿色的原野，以及被丰富的自然风景所围绕，过着平静生活的人们。贾鹏芳，是中国，乃至是亚洲的二胡演奏者的代表，正如他在形象上表现出来的一样，他那折射在演奏中的温柔亲切的性格，让我们在听的同时感觉到我们自己处于如此平静的状态。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5821352)<br>我爱老婆！老婆爱我！<br>2014-01-06 18:55<br>赞(3) 踩(0) | <div>二胡是在亚洲大陆所有音质中最能体现亚洲曲调的完美乐器。从最低的音到最高的音，这些音调广阔地伸展开，并在听者的脑中施展魔法，想象广阔而带有浅红色底色的天空，亚洲大陆绿色的原野，以及被丰富的自然风景所围绕，过着平静生活的人们。<br>贾鹏芳，是中国，乃至是亚洲的二胡演奏者的代表，正如他在形象上表现出来的一样，他那折射在演奏中的温柔亲切的性格，让我们在听的同时感觉到我们自己处于如此平静的状态。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6462242)<br><br>2014-01-03 19:49<br>赞(0) 踩(0) | <div>这个版本的二泉映月好温和啊。。。不苦逼的二泉虽然不是阿炳了，不过听起来还挺治愈的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7007890)<br>我还没想好要写什么...<br>2013-12-23 11:36<br>赞(0) 踩(0) | <div>二泉映月 国粹级别的经典二胡乐曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12056909)<br> <br>2013-12-07 14:53<br>赞(0) 踩(0) | <div>阿炳</div> |
@@ -374,7 +371,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/637279)<br><br>2013-08-10 20:50<br>赞(0) 踩(0) | <div>这是我最喜欢的版本</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8722268)<br>暂无签名~<br>2013-08-06 23:58<br>赞(0) 踩(0) | <div>睡觉！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/614480)<br>暂无签名~<br>2013-07-13 23:51<br>赞(0) 踩(0) | <div>二泉映月最喜欢的一个版本.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4305150)<br>Music杂食客的虾米空...<br>2013-07-06 14:48<br>赞(543) 踩(0) | <div>十多年间，多次去过无锡，可随着岁月的变迁，阿炳曾经生活的痕迹，正一点点从我们的身边消失。有人说，唐文化留给了日本，明文化留给了韩国，近代文化留在了岛上，似乎说起来有些愤愤，可静下心来思考之后，何尝不是如此？这首曲子，由一个出生于中国，生长于中国，成名在日本的中国人演奏，日本人编曲，似乎说明了些什么。我们可以用武器来捍卫领土，可我们又准备拿什么来捍卫我们的文明呢？！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4305150)<br>Music杂食客的虾米空...<br>2013-07-06 14:48<br>赞(543) 踩(0) | <div>十多年间，多次去过无锡，可随着岁月的变迁，阿炳曾经生活的痕迹，正一点点从我们的身边消失。<br><br>有人说，唐文化留给了日本，明文化留给了韩国，近代文化留在了岛上，似乎说起来有些愤愤，可静下心来思考之后，何尝不是如此？<br>这首曲子，由一个出生于中国，生长于中国，成名在日本的中国人演奏，日本人编曲，似乎说明了些什么。<br>我们可以用武器来捍卫领土，可我们又准备拿什么来捍卫我们的文明呢？！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49783479)<br> <br>2015-06-04 16:04<br>赞(0) 踩(0) | <div>说的对</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10008971)<br>put your rec...<br>2015-07-15 14:44<br>赞(0) 踩(0) | <div>说得真好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13948517)<br>高贵的单纯，静穆的伟大<br>2015-08-21 00:18<br>赞(0) 踩(0) | <div>先秦就是中华文化的种子阶段，秦汉就是长出树干，魏晋隋唐就是最美丽的花儿，到了宋结出了果实，元明清一代不如一代，原本的文化之树已经断了，民国包括现在都是新果实在土壤中的潜伏期啊…等到新的文化之树发芽，起码要再等300年，我们有生之年是很难看到了，但是我们的文化一定会越来越好的，这个自信我们是有的，因为我们的老祖宗太牛逼了</div> |
@@ -471,7 +468,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3598046)<br>孤独听吻<br>2012-01-31 19:45<br>赞(0) 踩(0) | <div>不能绕过的经典……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4311629)<br>色即是空，空即是色。<br>2012-01-28 20:54<br>赞(0) 踩(0) | <div>二胡和吉他的合奏来演绎这首古曲，有点新意，但我不是很喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7701798)<br><br>2012-01-17 10:55<br>赞(0) 踩(0) | <div>S</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6955976)<br><br>2011-12-25 18:17<br>赞(0) 踩(0) | <div>轻音乐，仔细听，慢慢品；里面体现的东西比较多~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6955976)<br><br>2011-12-25 18:17<br>赞(0) 踩(0) | <div>轻音乐，仔细听，慢慢品；<br>里面体现的东西比较多~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2902882)<br><br>2011-12-22 22:48<br>赞(0) 踩(0) | <div>贾鹏芳的这首曲子别有风味，少了点忧伤…多了点思考</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6879653)<br><br>2011-12-21 22:54<br>赞(0) 踩(0) | <div>二胡这种乐器无论怎样听都欢乐不起来，总是声声碎，这个配乐突兀了二胡的凄清感，炳叔你有时间也听一下吧。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343661)<br>╋  peace<br>2013-01-15 12:17<br>赞(0) 踩(0) | <div>请听二胡独奏赛马</div> |

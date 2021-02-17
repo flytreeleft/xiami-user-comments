@@ -3,7 +3,7 @@ TroyBoi
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/bf2e1ebd72ea12fedf3dadd1328779f8.png)<br>TroyBoi](https://i.xiami.com/troyboi) | **播放数**: 11957162<br>**粉丝数**: 10799<br>**评论数**: 352<br>**地区**: United Kingdom 英国<br>**风格**: 英国车库舞曲 UK Garage, 陷阱舞曲 Trap<br> |
+| [![](../../images/musicians/bf2e1ebd72ea12fedf3dadd1328779f8.png)<br>TroyBoi](https://i.xiami.com/troyboi) | **地区**: United Kingdom 英国<br>**风格**: 英国车库舞曲 UK Garage, 陷阱舞曲 Trap<br>**播放数**: 11957162<br>**粉丝数**: 10799<br>**评论数**: 352<br> |
 
 ## 档案
 
@@ -90,8 +90,8 @@ EP album ‘Ili’ ‘Do You (Remix)’,’Wonky’,’Afterhours’ was release
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-11-19 19:47<br>赞(0) 踩(0) | <div>Ⓜ️Ⓜ️Ⓜ️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82322478)<br> <br>2020-07-19 15:07<br>赞(0) 踩(0) | <div>好像刚刚发现这个dj，喜欢曲风了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407815216)<br>爱比讨厌更有力量<br>2020-06-14 20:01<br>赞(0) 踩(0) | <div>卧槽</div> |
@@ -227,7 +227,7 @@ EP album ‘Ili’ ‘Do You (Remix)’,’Wonky’,’Afterhours’ was release
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9465226)<br><br>2016-05-24 14:40<br>赞(0) 踩(0) | <div>我靠，大神还在这上面留言了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41020841)<br> <br>2016-05-16 23:47<br>赞(0) 踩(0) | <div>hi all</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34143208)<br><br>2016-05-05 00:34<br>赞(0) 踩(0) | <div>动画</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49091769)<br>S.H.U.T.U.P<br>2016-05-01 10:06<br>赞(0) 踩(0) | <div>就是一种绝杀对面的心情开心</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49091769)<br>S.H.U.T.U.P<br>2016-05-01 10:06<br>赞(0) 踩(0) | <div>就是一种绝杀对面的心情<br>开心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98352152)<br>你会明白真实的真<br>2016-04-26 19:04<br>赞(0) 踩(0) | <div>l Love Troyboi .！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46848306)<br>让一切自发吧<br>2016-04-25 23:46<br>赞(0) 踩(0) | <div>+</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149428404)<br><br>2016-04-24 18:56<br>赞(0) 踩(0) | <div>砸点</div> |
@@ -309,7 +309,7 @@ EP album ‘Ili’ ‘Do You (Remix)’,’Wonky’,’Afterhours’ was release
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14365044)<br> <br>2015-09-06 12:01<br>赞(0) 踩(0) | <div>只恨太晚听到你，每个点都能击打在我心上！太棒了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44858319)<br>永远是我最爱的虾米<br>2015-09-01 14:40<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8650555)<br><br>2015-08-25 22:17<br>赞(0) 踩(0) | <div>迷幻电子乐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-08-19 11:21<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-08-19 11:21<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45075389)<br>心若是海，浪便是爱<br>2015-08-16 03:41<br>赞(0) 踩(0) | <div>现在才晓得五月他去nasa了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1341023)<br>去海边<br>2015-08-13 17:22<br>赞(0) 踩(0) | <div>好听哭了，好后悔现在才知道，错过现场了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/905006)<br>Music rememb...<br>2015-08-11 19:45<br>赞(0) 踩(0) | <div>omg... this is sooo amazing !</div> |
@@ -328,7 +328,7 @@ EP album ‘Ili’ ‘Do You (Remix)’,’Wonky’,’Afterhours’ was release
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38640339)<br>我想好写什么了……<br>2015-06-07 22:40<br>赞(0) 踩(0) | <div><img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38640339)<br>我想好写什么了……<br>2015-05-27 13:01<br>赞(0) 踩(0) | <div><img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45329150)<br>要啥签名儿 要啥自行车<br>2015-05-24 17:04<br>赞(0) 踩(0) | <div>OHHHHH</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3666401)<br><br>2015-05-23 01:08<br>赞(1) 踩(0) | <div>SoundclashDADA遇到这歌直接打开兴奋点。。。^_^</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3666401)<br><br>2015-05-23 01:08<br>赞(1) 踩(0) | <div>Soundclash<br>DADA遇到这歌直接打开兴奋点。。。^_^</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43523476)<br> <br>2015-05-19 23:35<br>赞(0) 踩(0) | <div>.........</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49492050)<br>中国电子音乐独立厂牌<br>2015-05-19 22:44<br>赞(1) 踩(0) | <div>niiiiiiiice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/597639)<br>八方见喜，十方来财<br>2015-05-18 10:20<br>赞(0) 踩(0) | <div>diao zha tian</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/eeab02f83e4ca2eb12d089fb1c4e291b.jpg)<br>严柏文](https://i.xiami.com/bo1991) | **播放数**: 2019096<br>**粉丝数**: 295<br>**评论数**: 49<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/eeab02f83e4ca2eb12d089fb1c4e291b.jpg)<br>严柏文](https://i.xiami.com/bo1991) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 2019096<br>**粉丝数**: 295<br>**评论数**: 49<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-04-04 09:09<br>赞(0) 踩(0) | <div>40460</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33886577)<br> <br>2020-03-18 21:48<br>赞(1) 踩(0) | <div>一听声音就感觉是很温柔的人啊。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302934570)<br><br>2019-11-15 23:15<br>赞(0) 踩(0) | <div>您在哪里教唱歌呢？</div> |

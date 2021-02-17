@@ -32,7 +32,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5167199)<br><br>2013-12-08 10:37<br>赞(0) 踩(0) | <div>——（郁可唯）3:07</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6343255)<br><br>2012-07-30 17:18<br>赞(0) 踩(0) | <div>是</div> |

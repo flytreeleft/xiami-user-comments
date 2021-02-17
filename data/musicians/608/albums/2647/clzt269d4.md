@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318882698)<br><br>2018-12-21 13:56<br>赞(0) 踩(0) | <div>有一种伤是不能言语的痛。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11264865)<br>暂无签名~<br>2018-09-25 12:26<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321139725)<br><br>2018-09-23 23:20<br>赞(2) 踩(0) | <div>我听出内伤</div> |
@@ -63,5 +60,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2384092)<br><br>2011-01-26 15:01<br>赞(1) 踩(0) | <div>有在反复听的··</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1315892)<br><br>2011-01-10 23:28<br>赞(1) 踩(0) | <div>Sad.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190207)<br><br>2010-10-28 22:42<br>赞(0) 踩(0) | <div>如旧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/883180)<br><br>2010-09-20 20:08<br>赞(0) 踩(0) | <div>内伤，想起小水说【忘字心中绕】。好像复原，又被往事勾起，伤了又伤……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/883180)<br><br>2010-09-20 20:08<br>赞(0) 踩(0) | <div>内伤，想起小水说【忘字心中绕】。<br>好像复原，又被往事勾起，伤了又伤……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2009-11-12 08:26<br>赞(0) 踩(0) | <div>弥漫着忧伤思绪的钢琴曲。</div> |

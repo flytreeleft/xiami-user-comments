@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e777c89a8f594e213dac349116225489.jpg)<br>蒋子轩](https://i.xiami.com/zixuan123) | **播放数**: 614852<br>**粉丝数**: 19<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/e777c89a8f594e213dac349116225489.jpg)<br>蒋子轩](https://i.xiami.com/zixuan123) | **地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 614852<br>**粉丝数**: 19<br>**评论数**: 0<br> |
 
 ## 档案
 
@@ -23,5 +23,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

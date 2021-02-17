@@ -67,14 +67,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103647344)<br>快来找我玩儿<br>2021-01-31 11:48<br>赞(0) 踩(0) | <div>再见了 所有留不住的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334906810)<br><br>2021-01-23 23:10<br>赞(0) 踩(0) | <div>她的声线是国内女歌手我最喜欢的。没有之一。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443860979)<br><br>2020-10-07 00:15<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19521397)<br> <br>2020-09-11 20:19<br>赞(0) 踩(0) | <div>无限循环中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432166312)<br>春暖花开<br>2019-12-07 20:49<br>赞(0) 踩(0) | <div>大家都知道，中国有个歌手叫金海星</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407396491)<br><br>2019-06-12 03:06<br>赞(1) 踩(0) | <div>喜鹊欢唱，杜鹃婉转，飞鹰铿锵，燕语呢喃，这都是你，欢快又悲伤，不羁且温柔。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407396491)<br><br>2019-06-12 03:06<br>赞(1) 踩(0) | <div>喜鹊欢唱，杜鹃婉转，<br>飞鹰铿锵，燕语呢喃，<br>这都是你，<br>欢快又悲伤，<br>不羁且温柔。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293339854)<br>音乐陪我就好…后会有期<br>2019-06-04 18:19<br>赞(0) 踩(0) | <div>清脆的声音，心瞬间静下来了…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115242530)<br><br>2019-05-22 19:55<br>赞(0) 踩(0) | <div>她的声音、气息真的别具一格，属于我心里高级的声音。当年的把耳朵叫醒，真的叫醒了很多年，《飞走了》单曲循环了很久。听了停不下来的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279899974)<br>姑娘，谁都不如你。<br>2019-05-22 08:33<br>赞(0) 踩(0) | <div>我的整个青春，现在还会唱她的歌</div> |
@@ -105,7 +105,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6459480)<br><br>2019-01-21 02:22<br>赞(0) 踩(0) | <div>好久好久以前把这首歌写成情书给我第一次爱的人，如今听了想流泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64833326)<br><br>2019-01-09 07:57<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324480385)<br><br>2019-01-02 00:52<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83130516)<br> <br>2018-12-29 18:59<br>赞(1) 踩(0) | <div>你不在的日子我也会好好的戳到心里 最后好像是这么对她说的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83130516)<br> <br>2018-12-29 18:59<br>赞(1) 踩(0) | <div>你不在的日子我也会好好的<br>戳到心里 最后好像是这么对她说的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335097380)<br><br>2018-12-23 08:09<br>赞(1) 踩(0) | <div>真是不错的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335097380)<br><br>2018-12-22 00:38<br>赞(2) 踩(0) | <div>真是不错的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41128112)<br>柒哥想当个淑女<br>2018-12-21 22:48<br>赞(1) 踩(0) | <div>因为那个人喜欢你，我才细细品味你。</div> |
@@ -121,7 +121,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49756347)<br> <br>2018-11-20 08:03<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279657445)<br><br>2018-11-13 21:27<br>赞(4) 踩(0) | <div>"别懂事太早   别涉世太深   别爱的太满   别睡的太迟   别吃的太饱   别对人太好   别信的太多" ​[</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348306238)<br>不要忘了什么是真实<br>2018-11-08 07:49<br>赞(2) 踩(0) | <div>地铁上，音乐响起，把我带回初中。。想起那无痛呻吟 小题大做的青春期</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275667865)<br>想念汇成一句句诗，却不想...<br>2018-10-29 14:02<br>赞(1) 踩(0) | <div>心底最柔软的角落。能进入心底的声音，喜欢的真是越来越少了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275667865)<br>想念汇成一句句诗，却不想...<br>2018-10-29 14:02<br>赞(1) 踩(0) | <div>心底最柔软的角落。<br>能进入心底的声音，喜欢的真是越来越少了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325202540)<br>很想你，却不会再联系你。...<br>2018-10-28 19:49<br>赞(0) 踩(0) | <div>晚上看了徐峥的电影《夜店》最后一个镜头泪目！现在听到这首歌，眼泪停不下来，我以为早已经把你忘记，原来一直在心底</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19826004)<br><br>2018-10-26 17:40<br>赞(0) 踩(0) | <div>我也出一份力，顶上去！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21113467)<br><br>2018-10-20 22:31<br>赞(1) 踩(0) | <div>好听</div> |
@@ -154,7 +154,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277445013)<br><br>2018-05-10 11:08<br>赞(2) 踩(0) | <div>无愧于情，不或于心。随遇而安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290567371)<br>一手机音乐APP。版权啊...<br>2018-04-25 20:27<br>赞(3) 踩(0) | <div>你别说了。别再说了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253513344)<br><br>2018-04-23 19:43<br>赞(2) 踩(0) | <div>这一刻，懂中文是一件非常折磨，痛苦的事情！三年了，分开三年了！你早已经有了他，而我还在原地！我好累，你知道吗？有多少个夜晚都在想你，甚至想起你的时候我都会很开心。我很知足，毕竟我们相爱过！但愿你过得好，你过得好，比什么都重要。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342109140)<br>有多少人，从无话不谈到无...<br>2018-04-17 20:52<br>赞(3) 踩(0) | <div>如果时间真能把一切洗掉忘掉寂寞 我却发现思念还陪着我 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342109140)<br>有多少人，从无话不谈到无...<br>2018-04-17 20:52<br>赞(3) 踩(0) | <div>如果时间真能把一切洗掉<br>忘掉寂寞 我却发现思念<br>还陪着我 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315810284)<br><br>2018-03-28 08:51<br>赞(20) 踩(0) | <div>真的！为啥红不起来啊！我一直一直喜欢！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277445013)<br><br>2018-03-26 09:37<br>赞(2) 踩(0) | <div>心飞了。人走了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6427099)<br><br>2018-03-19 12:45<br>赞(4) 踩(0) | <div>抓心的声音，不觉就循环了~~~</div> |
@@ -198,7 +198,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327925471)<br>我还没想好要写什么...<br>2017-11-09 19:23<br>赞(0) 踩(0) | <div>好久没听了。。喜欢。。。虽然她并不是很红，但是喜欢她的歌的人，一直都在。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329952313)<br><br>2017-11-09 18:09<br>赞(0) 踩(0) | <div>随着时代也喜欢的某个人。而今只是那是的喜好。 想想起。真的很傻蛋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1457033)<br>喜马拉雅主播&抖音桜MA...<br>2017-10-30 10:19<br>赞(1) 踩(0) | <div>太喜欢这歌词了！大仙女牛逼！海心的声音清澈！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195394649)<br>阳光从来不缺席<br>2017-10-26 08:40<br>赞(0) 踩(0) | <div>喜欢猫咪喜欢你 <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png">喜欢动物喜欢美 <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195394649)<br>阳光从来不缺席<br>2017-10-26 08:40<br>赞(0) 踩(0) | <div>喜欢猫咪喜欢你 <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"><br>喜欢动物喜欢美 <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203240572)<br>千载勋名身外影   百年...<br>2017-10-20 08:28<br>赞(1) 踩(0) | <div>心都碎了……不要说了…… <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"> <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307127147)<br><br>2017-10-19 21:16<br>赞(1) 踩(0) | <div>迷恋这样的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323154661)<br>微信：825867930<br>2017-10-18 15:21<br>赞(0) 踩(0) | <div>还是那么好听</div> |
@@ -352,7 +352,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45936427)<br>只有音乐才是解药……<br>2015-10-20 15:25<br>赞(2) 踩(0) | <div>第一句就吸引住我了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7587211)<br>Minimalist<br>2015-10-06 20:24<br>赞(0) 踩(0) | <div>你不在的日子 我也会好好的 <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47442026)<br>置之死地而后生。<br>2015-09-26 20:03<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46119947)<br>Hello strang...<br>2015-09-16 09:03<br>赞(35) 踩(0) | <div>轻轻的唱着，让人割舍不得。强烈要求湖南电视台下一期我是歌手请金海心！！这么难得的声音就这样消失太遗憾太遗憾！ <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46119947)<br>Hello strang...<br>2015-09-16 09:03<br>赞(35) 踩(0) | <div>轻轻的唱着，让人割舍不得。<br>强烈要求湖南电视台下一期我是歌手请金海心！！这么难得的声音就这样消失太遗憾太遗憾！ <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71105254)<br>Enjoy the br...<br>2017-12-13 21:45<br>赞(0) 踩(0) | <div>辨识度这么高的音 一听便明</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46119947)<br>Hello strang...<br>2015-09-16 09:01<br>赞(2) 踩(0) | <div>你到底去哪了？！！快回来啊！！！！ <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44074635)<br><br>2015-09-12 00:52<br>赞(1) 踩(0) | <div>喜欢你的音色</div> |
@@ -486,18 +486,18 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12235844)<br>人不风流之因贫<br>2013-01-03 13:44<br>赞(0) 踩(0) | <div>飞走了 只剩下一班空客 还剩下什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/389620)<br><br>2012-12-22 21:20<br>赞(0) 踩(0) | <div>周末 请静静地</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6713237)<br>坚韧 勇敢 爱<br>2012-12-12 08:07<br>赞(0) 踩(0) | <div>飞走了就不要再回来。晚安。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2538808)<br><br>2012-10-29 15:54<br>赞(0) 踩(0) | <div>ZTWQKLJZWZDGNYMYYWKLKWDKLKWDZNKNZMZLLXWYGRWHBLLNGXLBWHXNXGNZYQXGNKTYGJCDXWZDHXNHXHXHXNWMSHDWLNNNBNHWWMSHDSYNNDYWDWQSMNWJLNGWSDNDWJLMNZGPZTZDGNYMYYMGRDGSWWJFQWJFQNGSWAYZMBNYWBLXWWJBXNLMWGSNWYLYXNNSWPDPBDDT.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2538808)<br><br>2012-10-29 15:54<br>赞(0) 踩(0) | <div>ZTWQKLJZWZDGNYMYYWKLKWDKLKWDZN<br>KNZMZLLXWYGRWHBLLNGXLBWHXNXGNZ<br>YQXGNKTYGJCDXWZDHXNHXHXHXNWMSH<br>DWLNNNBNHWWMSHDSYNNDYWDWQSMNWJ<br>LNGWSDNDWJLMNZGPZTZDGNYMYYMGRD<br>GSWWJFQWJFQNGSWAYZMBNYWBLXWWJB<br>XNLMWGSNWYLYXNNSWPDPBDDT.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2041087)<br>请叫我土星二叔<br>2012-09-02 12:05<br>赞(0) 踩(0) | <div>最近 都听了两首，，感觉还不错。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3885521)<br><br>2012-08-07 20:31<br>赞(0) 踩(0) | <div>我以为心该空了，却满满的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5522446)<br><br>2012-07-26 14:39<br>赞(0) 踩(0) | <div>我以为心该空了却满满的 装着不舍</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3885521)<br><br>2012-07-19 08:39<br>赞(0) 踩(0) | <div>你问候的音色却悠悠的 像一首歌在我心底最柔软的角落轻轻唱着 让人割舍不得</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5522446)<br><br>2012-07-26 14:39<br>赞(0) 踩(0) | <div>我以为心该空了<br>却满满的 装着不舍</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3885521)<br><br>2012-07-19 08:39<br>赞(0) 踩(0) | <div>你问候的音色<br>却悠悠的 像一首歌<br>在我心底最柔软的角落<br>轻轻唱着 让人割舍不得</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1945907)<br>Miss<br>2012-06-27 14:51<br>赞(0) 踩(0) | <div>海心的声音还是让人难以抗拒啊~~~赞。喜欢她的中低音，像一杯纯牛奶~Olala~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9602263)<br><br>2012-06-27 14:34<br>赞(0) 踩(0) | <div>爱上一个人，听懂一首歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9182565)<br><br>2012-06-14 10:51<br>赞(0) 踩(0) | <div>喜欢金海心的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1306929)<br><br>2012-04-28 14:41<br>赞(0) 踩(0) | <div>循环了两天了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1243449)<br><br>2012-04-14 01:34<br>赞(0) 踩(0) | <div>最近两天这首歌好像听中毒了。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8695582)<br> <br>2012-04-13 21:43<br>赞(0) 踩(0) | <div>失恋的时候听会很催泪啊……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7064447)<br>meant to be<br>2012-04-11 21:53<br>赞(0) 踩(0) | <div>你问候的音色 却悠悠的像一首歌在我心底最柔软的角落轻轻唱着让人割舍不得</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7064447)<br>meant to be<br>2012-04-11 21:53<br>赞(0) 踩(0) | <div>你问候的音色 却悠悠的像一首歌<br>在我心底最柔软的角落<br>轻轻唱着<br>让人割舍不得</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8554207)<br><br>2012-03-30 12:49<br>赞(0) 踩(0) | <div>忘掉寂寞，我却发现，思念还陪着我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1556953)<br><br>2012-03-17 20:51<br>赞(0) 踩(0) | <div>excelente!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6810612)<br>Howe<br>2012-03-13 21:16<br>赞(0) 踩(0) | <div>@莫小儇</div> |
@@ -521,14 +521,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1333111)<br>矮油你肿莫了<br>2011-03-27 09:37<br>赞(0) 踩(0) | <div>你别说了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1333111)<br>矮油你肿莫了<br>2011-02-21 16:20<br>赞(0) 踩(0) | <div>你别说了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1923353)<br><br>2011-02-10 17:50<br>赞(0) 踩(0) | <div>虽然不信 但确实飞走了、、你别说了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2550265)<br><br>2011-02-06 01:10<br>赞(0) 踩(0) | <div>忘不掉 躲不开 忘却没那么容易。。。。不错的歌 喜欢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2550265)<br><br>2011-02-06 01:10<br>赞(0) 踩(0) | <div>忘不掉 躲不开 忘却没那么容易。。。。<br>不错的歌 喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2550265)<br><br>2011-02-06 01:09<br>赞(0) 踩(0) | <div>忘不掉 躲不开 没那么容易忘却！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2498336)<br><br>2011-01-20 22:44<br>赞(0) 踩(0) | <div>金海心演绎得很出色，成熟带点伤感，这首歌真正的“让人割舍不得”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1498810)<br><br>2010-12-18 03:40<br>赞(0) 踩(0) | <div>忘掉寂寞，我却发现思念还陪着我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2115565)<br>音乐已然成为灵魂的一部分<br>2010-12-15 21:43<br>赞(0) 踩(0) | <div>~\(≧▽≦)/~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1016670)<br><br>2010-06-14 12:09<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441898)<br><br>2010-01-02 18:15<br>赞(0) 踩(0) | <div>你问候的音色却悠悠的像一首歌在我心底最柔软的角落轻轻唱着让人割舍不得</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441898)<br><br>2010-01-02 18:15<br>赞(0) 踩(0) | <div>你问候的音色<br>却悠悠的像一首歌<br>在我心底最柔软的角落<br>轻轻唱着让人割舍不得</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/498492)<br><br>2009-12-17 19:30<br>赞(0) 踩(0) | <div>她的歌远远超过她的名声。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2009-09-20 15:40<br>赞(0) 踩(0) | <div>温润感伤的嗓音。飞走了、还能找回来么。幽幽的、像唱着一首心里最柔软的歌。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2009-09-20 15:40<br>赞(0) 踩(0) | <div>温润感伤的嗓音。<br>飞走了、还能找回来么。<br>幽幽的、像唱着一首心里最柔软的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199470)<br><br>2009-06-07 04:31<br>赞(0) 踩(0) | <div>金海心特别的嗓音和这首歌的意境很合……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36055)<br>保有幸福的能力<br>2009-04-15 23:46<br>赞(0) 踩(0) | <div>在她的悲伤秋千之后最喜欢的就是这首歌了 一听就钟意</div> |

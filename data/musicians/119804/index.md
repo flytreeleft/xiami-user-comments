@@ -3,7 +3,7 @@ TimeZ
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/970d043e34cac0f4559b829f706419a0.jpg)<br>TimeZ](https://i.xiami.com/timez1018) | **播放数**: 9028496<br>**粉丝数**: 3697<br>**评论数**: 306<br>**地区**: Korea 韩国<br>**风格**: 流行舞曲 Dance-Pop, 男孩团体 Boy Band<br> |
+| [![](../../images/musicians/970d043e34cac0f4559b829f706419a0.jpg)<br>TimeZ](https://i.xiami.com/timez1018) | **地区**: Korea 韩国<br>**风格**: 流行舞曲 Dance-Pop, 男孩团体 Boy Band<br>**播放数**: 9028496<br>**粉丝数**: 3697<br>**评论数**: 306<br> |
 
 ## 档案
 
@@ -32,8 +32,8 @@ TimeZ是由北京捷特联合文化（SuperJet Entertainment）联手CJ E&M集�
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406818607)<br><br>2020-08-13 15:24<br>赞(0) 踩(0) | <div>有两首歌是我的高中回忆，祝好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440249532)<br>努力努力再努力x.<br>2020-02-19 17:18<br>赞(0) 踩(0) | <div>结交EXO后认识你们 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317257844)<br><br>2019-10-18 16:42<br>赞(0) 踩(0) | <div>七周年快乐</div> |
@@ -104,7 +104,7 @@ TimeZ是由北京捷特联合文化（SuperJet Entertainment）联手CJ E&M集�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308768132)<br><br>2017-07-11 15:55<br>赞(3) 踩(0) | <div>这个简介要不要写的这么草率啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309522157)<br><br>2017-07-03 22:38<br>赞(3) 踩(0) | <div>你们的歌我最爱听了，希望你们一直火下去！！！时光不老，氧气不散！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226745449)<br><br>2017-07-01 21:13<br>赞(0) 踩(0) | <div>加油！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257560732)<br>我还没想好要写什么...<br>2017-06-27 00:43<br>赞(76) 踩(0) | <div>怎么就是火不起来呢！！其实多出点专辑，走点综艺应该是可以起来的啊，经纪公司给力啊！！！！！！本人本命大茶蛋，对这个组合从出道就一直在关注。可是为啥就&amp;hellip;哎，真是急死了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257560732)<br>我还没想好要写什么...<br>2017-06-27 00:43<br>赞(76) 踩(0) | <div>怎么就是火不起来呢！！其实多出点专辑，走点综艺应该是可以起来的啊，经纪公司给力啊！！！！！！<br><br><br>本人本命大茶蛋，对这个组合从出道就一直在关注。可是为啥就&amp;hellip;<br>哎，真是急死了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313742869)<br>不忘初心<br>2017-08-16 15:12<br>赞(0) 踩(0) | <div>我也是。深表同感。现在已经看不到他们了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285398103)<br><br>2017-08-19 09:58<br>赞(0) 踩(0) | <div>我也是，本命茶蛋，但喜欢这个组合</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273235812)<br>我会一直陪在你们身边，哪...<br>2017-09-23 17:21<br>赞(0) 踩(0) | <div>＋1</div> |
@@ -155,7 +155,7 @@ TimeZ是由北京捷特联合文化（SuperJet Entertainment）联手CJ E&M集�
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273235812)<br>我会一直陪在你们身边，哪...<br>2017-09-23 17:22<br>赞(0) 踩(0) | <div><q><b>L说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277495011)<br><br>2017-09-23 21:25<br>赞(0) 踩(0) | <div>我喜欢舒航❤</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189591632)<br>死了<br>2017-09-24 08:14<br>赞(0) 踩(0) | <div><q><b>艺生梦想说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187444857)<br><br>2016-08-12 22:38<br>赞(14) 踩(0) | <div>表白队长 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">L一名</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187444857)<br><br>2016-08-12 22:38<br>赞(14) 踩(0) | <div>表白队长 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"><br>L一名</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266035329)<br>bad blood<br>2017-01-22 09:37<br>赞(0) 踩(0) | <div>巧巧哦，好多L曾是氧气</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187444857)<br><br>2017-01-22 17:15<br>赞(0) 踩(0) | <div><q><b>July'ZT说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204325231)<br><br>2016-07-31 20:20<br>赞(2) 踩(0) | <div>加油</div> |
@@ -175,7 +175,7 @@ TimeZ是由北京捷特联合文化（SuperJet Entertainment）联手CJ E&M集�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38206082)<br><br>2016-05-11 12:07<br>赞(1) 踩(0) | <div>最喜欢六只了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164845294)<br><br>2016-05-09 05:53<br>赞(0) 踩(0) | <div>加油⛽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46415206)<br><br>2016-04-03 22:56<br>赞(1) 踩(0) | <div>支持，支持。唱歌很好听。 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112967604)<br><br>2016-03-13 14:10<br>赞(1) 踩(0) | <div>偶然才发现你们的  我去书店买你们的海报都没有我跑到新华书店才买到| ू•ૅω•́)ᵎᵎᵎ加油(๑•̀ㅂ•́)و✧</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112967604)<br><br>2016-03-13 14:10<br>赞(1) 踩(0) | <div>偶然才发现你们的  我去书店买你们的海报都没有<br>我跑到新华书店才买到| ू•ૅω•́)ᵎᵎᵎ<br>加油(๑•̀ㅂ•́)و✧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98651782)<br>天空一无所有为何给我安慰<br>2016-02-25 15:57<br>赞(0) 踩(0) | <div>。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105911334)<br><br>2016-02-01 13:09<br>赞(1) 踩(0) | <div>love...timez....best...love</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105755852)<br><br>2016-01-31 23:39<br>赞(2) 踩(0) | <div>TimeZ加油！！！氧气永远支持你们。</div> |

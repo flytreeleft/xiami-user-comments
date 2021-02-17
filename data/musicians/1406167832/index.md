@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f6fdb70b354ef382890afe59c49d672d.jpg)<br>张渠](https://i.xiami.com/zq) | **播放数**: 6410237<br>**粉丝数**: 4174<br>**评论数**: 130<br>**地区**: China 中国大陆<br>**风格**: 原声 Soundtrack, 游戏配乐 Video Game Music, 歌舞剧 Cabaret, 演出金曲 Show Tunes<br> |
+| [![](../../images/musicians/f6fdb70b354ef382890afe59c49d672d.jpg)<br>张渠](https://i.xiami.com/zq) | **地区**: China 中国大陆<br>**风格**: 原声 Soundtrack, 游戏配乐 Video Game Music, 歌舞剧 Cabaret, 演出金曲 Show Tunes<br>**播放数**: 6410237<br>**粉丝数**: 4174<br>**评论数**: 130<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347111151)<br>爱日漫，爱国漫 爱吃爱玩...<br>2020-01-11 16:42<br>赞(0) 踩(0) | <div>有没有清平调完整版啊？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2095214)<br>喇嘛钦！<br>2019-11-20 08:18<br>赞(2) 踩(0) | <div>第一次因为音乐而想去看舞台剧。音乐太美了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334316278)<br>我还没想好要写什么...<br>2019-06-22 07:10<br>赞(3) 踩(0) | <div>张老师的拥趸真不少！</div> |
@@ -40,7 +40,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409440346)<br><br>2019-05-04 15:27<br>赞(3) 踩(0) | <div>采薇太好听了！应该上无损音质。无损音质！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19918288)<br><br>2019-03-04 12:00<br>赞(2) 踩(0) | <div>昨天刚在国家大剧院看了舞剧孔子，终于看到张渠老师本人了，孔子这几首曲子都无数次单曲循环了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409450747)<br><br>2019-02-27 01:15<br>赞(1) 踩(0) | <div>张渠，我是武汉的张琪哥哥，还记得吗？前几年去宜昌听你爸妈说你在北京做的不错，没想到在这里看到你 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418750898)<br><br>2019-02-12 19:02<br>赞(1) 踩(0) | <div>张老师，如果您可以跟李玉刚或霍尊和作的话是歌唱界最好的配合</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418750898)<br><br>2019-02-12 19:02<br>赞(1) 踩(0) | <div>张老师，如果您可以跟李玉刚或霍尊和作的话<br>是歌唱界最好的配合</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7151428)<br>暖暖的～～<br>2018-12-10 07:25<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378095879)<br>君问去路何处有提剑笑饮江...<br>2018-10-30 22:06<br>赞(0) 踩(0) | <div>张渠大大，哈哈哈，很高兴认识你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/564335)<br>每一个缺少音乐相伴的日子...<br>2018-10-24 20:54<br>赞(3) 踩(0) | <div>古韵今声两不厌、绕梁三日若飞燕!</div> |
@@ -51,8 +51,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10787850)<br>一 個 無<br>2018-07-22 00:58<br>赞(8) 踩(0) | <div>張老師求出孔子原聲碟！！！我們買買買！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284745239)<br><br>2018-06-28 16:00<br>赞(3) 踩(0) | <div>大才子，欣赏欣赏！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353268048)<br><br>2018-06-21 14:01<br>赞(3) 踩(0) | <div>很好听(*^o^*)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353268048)<br><br>2018-06-21 13:58<br>赞(4) 踩(0) | <div>张渠老师，如果可以跟李玉刚老师和作的话是歌唱界最美好的配配合ლ(⌒▽⌒ლ)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353268048)<br><br>2018-06-21 13:45<br>赞(2) 踩(0) | <div>张渠老师您好您的作品听着很舒服。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353268048)<br><br>2018-06-21 13:58<br>赞(4) 踩(0) | <div>张渠老师，如果可以跟<br>李玉刚老师和作的话<br>是歌唱界最美好的配配合<br>ლ(⌒▽⌒ლ)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353268048)<br><br>2018-06-21 13:45<br>赞(2) 踩(0) | <div>张渠老师您好<br>您的作品听着很舒服。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4399004)<br>沉淀。。。<br>2018-06-10 19:54<br>赞(3) 踩(0) | <div>采薇&amp;mdash;&amp;mdash;音乐流畅、沁人心脾，舞蹈编排美极，耐看耐听回味不断中。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294151783)<br><br>2018-05-28 21:20<br>赞(0) 踩(0) | <div>不知道张渠老师能否看见，我毕业时用了您的两首音乐作背景音乐，我做的蒙古族服装设计，您出塞和牡丹颂的音乐十分契合。因为没有办法联系到您，只能在评论区给您留言了 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12221090)<br>逍遥于天地而心意自得<br>2018-04-11 18:34<br>赞(0) 踩(0) | <div>赞</div> |
@@ -129,7 +129,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5774810)<br>我却还想救你于水火。<br>2015-09-23 16:05<br>赞(1) 踩(0) | <div>关公的曲子真的很赞。。。。能不能放出来。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68462554)<br><br>2015-09-21 18:18<br>赞(0) 踩(0) | <div>终于找到音乐了，好棒哦，谢谢！ <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44703769)<br>暂无签名~<br>2015-07-12 10:46<br>赞(0) 踩(0) | <div>因为舞剧孔子配乐而喜欢他</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50678407)<br><br>2015-06-29 09:55<br>赞(0) 踩(0) | <div>我想说 我找到宝了  舞蹈音乐太棒了我们上课就是找不到独特的音乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50678407)<br><br>2015-06-29 09:55<br>赞(0) 踩(0) | <div>我想说 我找到宝了  舞蹈音乐太棒了<br>我们上课就是找不到独特的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50678407)<br><br>2015-06-29 09:51<br>赞(0) 踩(0) | <div>舞蹈音乐 张渠</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36176573)<br><br>2015-06-26 11:14<br>赞(65) 踩(0) | <div>张渠老师，能不能把《孔子》的曲子多放几首出来，太美了！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/132973962)<br><br>2016-04-03 13:57<br>赞(0) 踩(0) | <div>确实太难得了，超好听的，对张老师的没一首都是大爱！</div> |

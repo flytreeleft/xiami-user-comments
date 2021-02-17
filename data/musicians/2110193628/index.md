@@ -3,7 +3,7 @@ Stella-L
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c8d2df72e79f7e7c00dbd685903596ff.jpeg)<br>Stella-L](https://i.xiami.com/stella-l) | **播放数**: 4516729<br>**粉丝数**: 245<br>**评论数**: 15<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 欧美流行 Western Pop, 电音流行 Electropop, 流行 Pop, 爵士 Jazz<br> |
+| [![](../../images/musicians/c8d2df72e79f7e7c00dbd685903596ff.jpeg)<br>Stella-L](https://i.xiami.com/stella-l) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 欧美流行 Western Pop, 电音流行 Electropop, 流行 Pop, 爵士 Jazz<br>**播放数**: 4516729<br>**粉丝数**: 245<br>**评论数**: 15<br> |
 
 ## 档案
 
@@ -26,8 +26,8 @@ Stella-L
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442644319)<br>一个喜欢电音，纯音乐，动...<br>2020-08-08 13:30<br>赞(0) 踩(0) | <div>希望像你这样的音乐人能够更多一点</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4487129)<br><br>2020-05-29 05:42<br>赞(0) 踩(0) | <div>！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356763773)<br>我还没想好要写什么...<br>2020-03-18 22:55<br>赞(0) 踩(0) | <div>和你</div> |

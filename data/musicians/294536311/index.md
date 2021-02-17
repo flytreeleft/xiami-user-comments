@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9958bc58072f7f0d07cdf7035d49cd4e.jpg)<br>丁乔](https://i.xiami.com/dingqiao) | **播放数**: 1022652<br>**粉丝数**: 656<br>**评论数**: 19<br>**地区**: China 中国大陆<br>**风格**: 电影原声 Film Score, 电视原声 Television Music, 新世纪音乐 New Age<br> |
+| [![](../../images/musicians/9958bc58072f7f0d07cdf7035d49cd4e.jpg)<br>丁乔](https://i.xiami.com/dingqiao) | **地区**: China 中国大陆<br>**风格**: 电影原声 Film Score, 电视原声 Television Music, 新世纪音乐 New Age<br>**播放数**: 1022652<br>**粉丝数**: 656<br>**评论数**: 19<br> |
 
 ## 档案
 
@@ -35,8 +35,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261438396)<br><br>2018-09-23 17:26<br>赞(0) 踩(0) | <div>跪求《将改革进行到底》片尾字幕时候一段抒情的音乐，有时也会应用于片中插曲。在网上找了两年没找到，好想要听呀...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17280488)<br>安静点吧<br>2018-04-02 19:32<br>赞(1) 踩(0) | <div>丁老师牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4801435)<br>!<br>2018-03-14 03:13<br>赞(1) 踩(0) | <div>坐等  永远在路上配乐，哈哈， <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |

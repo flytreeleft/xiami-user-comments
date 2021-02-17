@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19409755)<br>什么都听点儿<br>2017-10-31 00:07<br>赞(0) 踩(0) | <div>希望这次演唱会也像美中毒一样赞！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2165725)<br>我还没想好要写什么...<br>2014-10-17 01:10<br>赞(0) 踩(0) | <div>00</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9)<br>不来都得死<br>2008-11-13 20:43<br>赞(0) 踩(0) | <div>你绝不会后悔</div> |

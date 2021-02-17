@@ -42,7 +42,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10908236)<br><br>2012-11-10 15:59<br>赞(0) 踩(0) | <div>朴实得都不成了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5886059)<br>愿我如星 君如月<br>2012-02-08 11:39<br>赞(0) 踩(0) | <div>db我找到了~噢耶~~就是古城的感觉~ feeling..~</div> |

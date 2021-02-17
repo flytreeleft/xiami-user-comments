@@ -3,7 +3,7 @@ Tamas Wells
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/970100a942fc4d7cb3e2b6c07b532d78.jpg)<br>Tamas Wells](https://i.xiami.com/tamaswells) | **播放数**: 46313696<br>**粉丝数**: 79711<br>**评论数**: 2020<br>**地区**: Australia 澳大利亚<br>**风格**: 民谣流行 Folk Pop, 根源唱作人 Singer-Songwriter<br> |
+| [![](../../images/musicians/970100a942fc4d7cb3e2b6c07b532d78.jpg)<br>Tamas Wells](https://i.xiami.com/tamaswells) | **地区**: Australia 澳大利亚<br>**风格**: 民谣流行 Folk Pop, 根源唱作人 Singer-Songwriter<br>**播放数**: 46313696<br>**粉丝数**: 79711<br>**评论数**: 2020<br> |
 
 ## 档案
 
@@ -51,8 +51,8 @@ On the Volatility of the Mind    was released in 2014.
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306065331)<br>幸福开始有人选<br>2020-12-28 19:53<br>赞(0) 踩(0) | <div>2020也结束了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306065331)<br>幸福开始有人选<br>2020-12-28 19:52<br>赞(0) 踩(0) | <div>2016</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306065331)<br>幸福开始有人选<br>2020-12-28 19:52<br>赞(0) 踩(0) | <div>2019</div> |
@@ -93,7 +93,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30531997)<br>妞妞爱老虎油。<br>2018-03-14 15:21<br>赞(3) 踩(0) | <div>我竟然看到了合肥啊啊啊啊啊啊啊啊啊啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2472729)<br>嘘<br>2018-03-14 15:24<br>赞(0) 踩(0) | <div>恭喜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260284967)<br>detachment<br>2018-03-14 15:13<br>赞(6) 踩(0) | <div>合肥专场？？？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219847384)<br>很荣幸遇见你.<br>2018-02-27 19:43<br>赞(7) 踩(0) | <div>他们的歌名和歌词一直都很迷。为什么呢，因为塔叔喜欢在当志愿者期间写歌。把伤员或老者或孩童的言语，编进他温柔的曲调里。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219847384)<br>很荣幸遇见你.<br>2018-02-27 19:43<br>赞(7) 踩(0) | <div>他们的歌名和歌词一直都很迷。<br>为什么呢，因为塔叔喜欢在当志愿者期间写歌。把伤员或老者或孩童的言语，编进他温柔的曲调里。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32695431)<br>你他娘的就是一只狗<br>2018-01-24 09:13<br>赞(0) 踩(0) | <div>高中时的回忆啊啊啊希望下次巡演可以来武汉爱里</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346099290)<br><br>2018-01-24 01:01<br>赞(3) 踩(0) | <div><img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">事隔14年....我欠您一个评论。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333847843)<br>五月天！比心！♡<br>2017-12-13 17:40<br>赞(0) 踩(0) | <div>mv?</div> |
@@ -112,7 +112,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3940795)<br><br>2017-10-27 23:57<br>赞(0) 踩(0) | <div>半年前疯狂的喜欢哦=。=最近竟然忘记了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4068521)<br><br>2017-10-27 23:21<br>赞(1) 踩(0) | <div>平缓优美 的旋律，没什么激昂的东西，又是那么柔软动人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6122214)<br>迷因爱音乐。<br>2017-10-27 23:08<br>赞(0) 踩(0) | <div>2.托玛一听是天神，心想，妈的天神没有一个好东西，我才不去，便回答说：哎呀，你真的是天神吗？天神灵鸡一动，就生出一筐鸡蛋来，还客气地说：来来，妹妹尝尝，有红茶的，有卤味的。 托玛见是真的天神，不禁害怕起来，看来是难逃一劫，怎么办呢？托玛跟天神说：哇！真是天神大人，真的好崇拜你呀！既然天神法力无边，还有什么得不到的，像我这样的歌女，你灵鸡一动，不是能变出一大把吗？天神恼怒，气愤地说：你去是不去？“去，但有个要求”托玛说。天神就问说：有什么要求？托玛回答说：你要保证我跟威尔未来五年都能上春晚。天神说：这有何难！我答应你。托玛一听，再怎么也是天神，说话应该是算话的，而且排练的录影机也没关，他赖不掉。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1592819)<br><br>2017-10-27 23:04<br>赞(0) 踩(0) | <div>我想体验更多--独立音地专访Tamas Wells做着音乐，在援助机构工作，为艾滋病防治项目贡献过力量，四年缅甸生活，亲历过缅甸人民悲惨的故事，还吃过北京的饺子，游过北京的故宫，或许除了没有唱过卡拉OK，Tamas Wells这些非比寻常的经历，都足以告诉我们一个真理：生命在于折腾，灵感源于折腾。我想体验更多--独立音地专访Tamas Wells<a href="http://www.indiechina.com/html/2010-10/2065.htm" target="_blank" rel="nofollow noreferrer noopener">http://www.indiechina.com/html/2010-10/2065.htm</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1592819)<br><br>2017-10-27 23:04<br>赞(0) 踩(0) | <div>我想体验更多--独立音地专访Tamas Wells<br><br>做着音乐，在援助机构工作，为艾滋病防治项目贡献过力量，四年缅甸生活，亲历过缅甸人民悲惨的故事，还吃过北京的饺子，游过北京的故宫，或许除了没有唱过卡拉OK，Tamas Wells这些非比寻常的经历，都足以告诉我们一个真理：生命在于折腾，灵感源于折腾。<br><br>我想体验更多--独立音地专访Tamas Wells<br><a href="http://www.indiechina.com/html/2010-10/2065.htm" target="_blank" rel="nofollow noreferrer noopener">http://www.indiechina.com/html/2010-10/2065.htm</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8502627)<br><br>2017-10-27 22:59<br>赞(0) 踩(0) | <div>安静的大叔。nice，学习的时候听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168541498)<br><br>2017-10-25 16:09<br>赞(2) 踩(0) | <div>治愈系男声 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248247599)<br><br>2017-10-18 16:52<br>赞(1) 踩(0) | <div>内容已删除</div> |
@@ -167,7 +167,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46188271)<br>我还没想好要写什么...<br>2017-01-21 18:24<br>赞(0) 踩(0) | <div>长大后一定去听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46188271)<br>我还没想好要写什么...<br>2017-01-21 18:24<br>赞(0) 踩(0) | <div>支持 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46188271)<br>我还没想好要写什么...<br>2017-01-21 18:24<br>赞(0) 踩(0) | <div>支持</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6638261)<br>已下架。。。。20200...<br>2017-01-12 15:29<br>赞(1) 踩(0) | <div>11月27号Tamas坐标深圳B10超治愈的一天听完了之后我就想找男票干嘛 是音乐不好听还是电影不好看？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6638261)<br>已下架。。。。20200...<br>2017-01-12 15:29<br>赞(1) 踩(0) | <div>11月27号<br>Tamas坐标深圳B10<br>超治愈的一天<br>听完了之后我就想<br>找男票干嘛 是音乐不好听还是电影不好看？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409246)<br><br>2017-02-13 13:44<br>赞(0) 踩(0) | <div>找男票是因为你除了听音乐看电影之外还要应付父母同事七大姑八大姨的“怎么还没有男票？”“你该结婚了！”等精神攻击。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45103860)<br>always somew...<br>2016-12-18 17:21<br>赞(3) 踩(0) | <div>终于有版权了 等了好久好久 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> 从小学开始喜欢 现在大一</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1124003)<br><br>2016-12-08 01:19<br>赞(2) 踩(0) | <div>哎呀，错过了，期待明年再来深圳</div> |
@@ -185,7 +185,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7133174)<br>我还没想好要写什么...<br>2016-11-22 21:47<br>赞(1) 踩(0) | <div>直接从小年轻跃迁成大叔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3336291)<br>假装不是龙猫的身材<br>2016-11-22 20:35<br>赞(0) 踩(0) | <div>welcome back Tamas！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3851559)<br>没密密麻麻密密麻<br>2016-11-22 18:17<br>赞(0) 踩(0) | <div>相册里为什么会有麦斯米兰？I am falling now专辑封面？他们俩有关系吗？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1794170)<br>偶然<br>2016-11-22 17:11<br>赞(0) 踩(0) | <div>啥情况？第二次入驻？所以说虾米是已经把版权搞到了？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1794170)<br>偶然<br>2016-11-22 17:11<br>赞(0) 踩(0) | <div>啥情况？第二次入驻？<br>所以说虾米是已经把版权搞到了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1160312)<br>也曾辉煌过<br>2016-11-22 16:22<br>赞(0) 踩(0) | <div>只想说有一次去上海听他演唱会，100多票价，晚8点半开场结果暖场歌手就唱了快半个小时听得我们都要疯了。然后Tamas Wells 登场了，唱了四十多分钟走人……我K</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2892750)<br>如果，你也喜欢。<br>2016-11-22 17:24<br>赞(0) 踩(0) | <div>业内都是这样的，跟是哪个乐队没什么关系吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16030178)<br> <br>2016-11-27 09:44<br>赞(0) 踩(0) | <div>确实8点半一直唱到十点啊 不知你怎么看的</div> |
@@ -209,7 +209,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244302802)<br>不是有希望才去坚持，而是...<br>2016-11-18 18:37<br>赞(0) 踩(0) | <div>give you my heart</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13687657)<br><br>2016-11-16 09:29<br>赞(0) 踩(0) | <div>两年半前的演唱会超级棒！下星期又能听现场了，幸福～～～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71419644)<br><br>2016-11-01 23:38<br>赞(0) 踩(0) | <div>昨天第一次听 想不到11月23就有巡演 生平第一次有想去演唱会的冲动</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1440858)<br> <br>2016-10-12 17:31<br>赞(3) 踩(0) | <div>【秀动呈献】澳洲治愈系民谣Tamas Wells 2016重返中国暖冬之旅11.23 北京 愚公移山11.24 上海 MAO LIVEHOUSE11.25 杭州 酒球会11.26 厦门 REAL LIVE11.27 深圳 B10</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1440858)<br> <br>2016-10-12 17:31<br>赞(3) 踩(0) | <div>【秀动呈献】澳洲治愈系民谣Tamas Wells 2016重返中国暖冬之旅<br><br>11.23 北京 愚公移山<br>11.24 上海 MAO LIVEHOUSE<br>11.25 杭州 酒球会<br>11.26 厦门 REAL LIVE<br>11.27 深圳 B10</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2279444)<br>爱在左，同情在右。<br>2016-10-22 00:52<br>赞(0) 踩(0) | <div>11.22南京 十三月空间</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52700803)<br>我爱虾米❤️<br>2016-09-04 15:27<br>赞(0) 踩(0) | <div>深陷他的嗓音不可自拨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186454996)<br><br>2016-07-20 19:26<br>赞(0) 踩(0) | <div>随缘</div> |
@@ -386,7 +386,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5690163)<br><br>2014-06-23 11:22<br>赞(0) 踩(0) | <div>广州门票两张转让，谁有兴趣~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28472980)<br>我们生来就是孤独<br>2014-06-23 16:04<br>赞(0) 踩(0) | <div>我 一张</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31699348)<br><br>2014-06-21 23:34<br>赞(0) 踩(0) | <div>great</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5547345)<br>我还没想好要写什么...<br>2014-06-21 23:20<br>赞(0) 踩(0) | <div>Tamas Wells:”I asked a girl to marry me....at a car park. She said:‘I don&amp;#039;t know.’But it&amp;#039;s happy ending.“上海站有点基情哦~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5547345)<br>我还没想好要写什么...<br>2014-06-21 23:20<br>赞(0) 踩(0) | <div>Tamas Wells:”I asked a girl to marry me....at a car park. She said:‘I don&amp;#039;t know.’But it&amp;#039;s happy ending.“<br>上海站有点基情哦~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5161242)<br>我拿整颗心换自由<br>2014-06-16 23:51<br>赞(0) 踩(0) | <div>深圳的一起去live (&amp;gt;_</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214505)<br>爱生活，爱猪猪~<br>2014-06-23 19:32<br>赞(0) 踩(0) | <div>昨晚你去了么？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5161242)<br>我拿整颗心换自由<br>2014-06-24 22:35<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
@@ -405,7 +405,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37306616)<br>Musician: pr...<br>2014-06-09 05:00<br>赞(0) 踩(0) | <div>软绵绵的，真他妈的娘！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5790145)<br><br>2014-06-08 16:33<br>赞(0) 踩(0) | <div>Tamas Wells</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35331251)<br><br>2014-06-07 22:43<br>赞(0) 踩(0) | <div>太好听了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33841656)<br><br>2014-06-05 11:01<br>赞(1) 踩(0) | <div>口袋唱片之澳大利亚清新民谣Tamas Wells2014年中国巡演北京站 2014年06月20日 【演出场地】 HITFM LIVE北京市东城区和平里西街79号上海站 2014年06月21日 【演出场地】 Mao LiveHouse上海黄浦区重庆南路308号3楼(近建国中路)深圳站 2014年06月22日 【演出场地】 深圳宝安区宝安中心区宝源路F518时尚创意园广州站 2014年06月23日 【演出场地】 广州越秀区广州大道中361-365号东方花苑首层 TU凸空间活动详情：<a href="http://www.douban.com/event/20574895/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/20574895/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33841656)<br><br>2014-06-05 11:01<br>赞(1) 踩(0) | <div>口袋唱片之澳大利亚清新民谣Tamas Wells2014年中国巡演<br>北京站 2014年06月20日 【演出场地】 HITFM LIVE北京市东城区和平里西街79号<br>上海站 2014年06月21日 【演出场地】 Mao LiveHouse上海黄浦区重庆南路308号3楼(近建国中路)<br>深圳站 2014年06月22日 【演出场地】 深圳宝安区宝安中心区宝源路F518时尚创意园<br>广州站 2014年06月23日 【演出场地】 广州越秀区广州大道中361-365号东方花苑首层 TU凸空间<br>活动详情：<a href="http://www.douban.com/event/20574895/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/20574895/</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12293365)<br>=3=<br>2014-06-06 23:33<br>赞(0) 踩(0) | <div>北京场最便宜也280好贵TT</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37171493)<br>剩夏<br>2014-06-02 17:21<br>赞(0) 踩(0) | <div>几年前听见Valder Fields的第一个音，就迷上了这个声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250711)<br>我的内心世界和我所爱音乐...<br>2014-06-01 21:43<br>赞(0) 踩(0) | <div>萌汉子</div> |
@@ -434,7 +434,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17090308)<br>:)<br>2014-04-10 10:48<br>赞(0) 踩(0) | <div>声线很迷人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35014185)<br><br>2014-04-07 11:07<br>赞(0) 踩(0) | <div>声线清澈，不粘连</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14734740)<br>陷入慵懒<br>2014-04-04 15:48<br>赞(0) 踩(0) | <div>怎么这么轻柔的声音~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32998988)<br><br>2014-03-31 19:22<br>赞(1) 踩(0) | <div>口袋唱片之澳大利亚清新民谣Tamas Wells2014年中国巡演北京站 6月20日 HITFM LIVE上海站 6月21日 Mao LiveHouse深圳站 6月22日 深圳宝安区宝安中心区宝源路F518时尚创意园广州站 6月23日 TU凸空间巡演信息<a href="http://www.douban.com/event/20574895/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/20574895/</a>艺人豆瓣小站<a href="http://site.douban.com/tamas/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/tamas/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32998988)<br><br>2014-03-31 19:22<br>赞(1) 踩(0) | <div>口袋唱片之澳大利亚清新民谣Tamas Wells2014年中国巡演<br>北京站 6月20日 HITFM LIVE<br>上海站 6月21日 Mao LiveHouse<br>深圳站 6月22日 深圳宝安区宝安中心区宝源路F518时尚创意园<br>广州站 6月23日 TU凸空间<br>巡演信息<a href="http://www.douban.com/event/20574895/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/20574895/</a><br>艺人豆瓣小站<a href="http://site.douban.com/tamas/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/tamas/</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214505)<br>爱生活，爱猪猪~<br>2014-05-18 13:04<br>赞(0) 踩(0) | <div>6月22，深圳巡游演唱，已经买好票了。哈哈哈~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3628951)<br>我这盒蜘蛛王可不是闹着玩<br>2014-03-29 09:47<br>赞(0) 踩(0) | <div>天蓝色的   看看蓝天你就会明白他的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1635501)<br><br>2014-03-26 02:02<br>赞(0) 踩(0) | <div>温暖的嗓音~</div> |
@@ -492,7 +492,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2962301)<br><br>2013-11-22 16:18<br>赞(0) 踩(0) | <div>纯净的男生，完全治愈系的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7915865)<br><br>2013-11-19 19:16<br>赞(0) 踩(0) | <div>生日快乐！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12383109)<br>迷失 探寻 根源 深蓝<br>2013-11-19 12:27<br>赞(0) 踩(0) | <div>happy birthday！！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24743922)<br>听音乐的秤子<br>2013-11-19 10:55<br>赞(0) 踩(0) | <div>生日快乐！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24743922)<br>听音乐的秤子<br>2013-11-19 10:55<br>赞(0) 踩(0) | <div>生日快乐<br>！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10537062)<br>一买补签必断签<br>2013-11-19 10:25<br>赞(0) 踩(0) | <div>好久没听了，生日快乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/757256)<br>おちこんだりもしたけれど<br>2013-11-19 10:14<br>赞(0) 踩(0) | <div>生日快乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6122214)<br>迷因爱音乐。<br>2013-11-19 09:52<br>赞(0) 踩(0) | <div>3.于是托玛就跟着天神走了。没想到天神丧心病狂，听歌上瘾，如同吸毒，不停地让托玛唱，一直唱到呕血，喉咙沙哑，再也发不出声来。天神长叹“人类如此衰弱，然我众神却无力使他们变强，我们也很弱啊！”叹完气就送托玛回去了。回去之后，威尔要跟托玛排演，托玛一声不发，威尔无奈的很。眼看过年了，节目没排出来怎么办？其实托玛比威尔更着急，内心痛苦万分。至于怎么个痛法，常人应该只能想象二三分。终于，托玛还是在春晚前一天晚上自挂南屋，悬梁自尽。威尔发现之后，痛哭流涕，仰天长啸：托玛在，威尔在，托马死 · 威尔死！说完抱琴而坐，左手按下F,U,C,K和弦,右手狂扫一万遍，筋脉尽断，黯然死去。余音绕梁百余日，日日有女同哀歌！</div> |
@@ -552,7 +552,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2409310)<br>¯﹃¯<br>2013-08-01 20:01<br>赞(1) 踩(0) | <div>这入驻真是笑尿，目测没征得本人同意，看要开演唱会就擅自给开了吧？今天有好几个关注的artist都这样，难道还真这么巧了 - -</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1195129)<br>他人就是魔鬼。<br>2013-08-01 19:52<br>赞(0) 踩(0) | <div>这个消息通知是怎么回事</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5289881)<br><br>2013-08-01 19:38<br>赞(0) 踩(0) | <div>。。。。。。。。。。。。。。。。。。。。。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220719)<br>自知不自見，自愛不自貴<br>2013-08-01 19:13<br>赞(0) 踩(0) | <div>我想問一下，蝦米 是打算要將藝人板塊變成代理機構或者唱片公司的宣傳和收費頁面嗎？看看你們以這些藝人的名義發來的巡演信息吧，就算是他們懂得中文，也不會那個樣子寫吧？蝦米音樂人 是否已經開始變質？或者應該再開設一個 版權代理人 的板塊？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220719)<br>自知不自見，自愛不自貴<br>2013-08-01 19:13<br>赞(0) 踩(0) | <div>我想問一下，蝦米 是打算要將藝人板塊變成代理機構或者唱片公司的宣傳和收費頁面嗎？<br>看看你們以這些藝人的名義發來的巡演信息吧，就算是他們懂得中文，也不會那個樣子寫吧？<br>蝦米音樂人 是否已經開始變質？或者應該再開設一個 版權代理人 的板塊？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/660968)<br>一起去狗带<br>2013-08-01 18:52<br>赞(0) 踩(0) | <div>=-=声演坊挂个名 当事人又不会来 还不如不要挂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3110981)<br>:з」∠<br>2013-08-01 18:27<br>赞(0) 踩(0) | <div>真的么！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5848254)<br>网易云音乐（之后可能会开...<br>2013-08-01 18:27<br>赞(0) 踩(0) | <div>11月啊~11月啊~在等等~哈~~</div> |
@@ -566,9 +566,9 @@ On the Volatility of the Mind    was released in 2014.
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4350559)<br>我还没想好要写什么...<br>2013-08-02 11:42<br>赞(0) 踩(0) | <div><q><b>Vienya说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4350559)<br>我还没想好要写什么...<br>2013-08-02 11:45<br>赞(0) 踩(0) | <div><q><b>Vienya说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/665580)<br> <br>2013-08-02 11:52<br>赞(0) 踩(0) | <div><q><b>弹toU说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8149394)<br>越努力越幸运.<br>2013-08-01 17:54<br>赞(0) 踩(0) | <div>瓦特！什么叫入驻音乐人呢！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8149394)<br>越努力越幸运.<br>2013-08-01 17:54<br>赞(0) 踩(0) | <div>瓦特！<br>什么叫入驻音乐人呢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1893921)<br>Stingmania<br>2013-08-01 17:53<br>赞(0) 踩(0) | <div>直接沟通？？！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4253084)<br>上帝与你同在<br>2013-08-01 17:53<br>赞(0) 踩(0) | <div>O O!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!音乐人？！！！！！！！！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4253084)<br>上帝与你同在<br>2013-08-01 17:53<br>赞(0) 踩(0) | <div>O O!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>!!!!!!!!!!!!!!!!!!!!!!!!!音乐人？！<br>！！！！！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1686991)<br><br>2013-08-01 17:52<br>赞(0) 踩(0) | <div>What！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361915)<br>得菩提时，心似琉璃<br>2013-08-01 17:52<br>赞(1) 踩(0) | <div>入驻虾米音乐人了？！！是真人吗真人吗真人吗？？？？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5523541)<br><br>2013-08-01 17:58<br>赞(0) 踩(0) | <div>嗯是的，虾米网的门卫大爷亲眼看见他骑个自行车来上班报到了，虾米网行政部给老塔买了社保，目前暂住在虾米单身宿舍里，村里有人四处给他张罗对象</div> |
@@ -693,7 +693,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4865744)<br><br>2013-01-30 12:27<br>赞(0) 踩(0) | <div>好喜欢你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2909660)<br><br>2013-01-30 11:31<br>赞(0) 踩(0) | <div>他的声音让我想起你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12772188)<br><br>2013-01-30 01:04<br>赞(0) 踩(0) | <div>..</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4700774)<br>逗逗酱婶婶<br>2013-01-29 21:13<br>赞(0) 踩(0) | <div>靠一首Valder Fields红遍全球之后的歌真的没什么特别的了~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4700774)<br>逗逗酱婶婶<br>2013-01-29 21:13<br>赞(0) 踩(0) | <div>靠一首Valder Fields红遍全球<br>之后的歌真的没什么特别的了~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9202417)<br> <br>2013-01-29 12:12<br>赞(0) 踩(0) | <div>hao ting</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11782430)<br>n<br>2013-01-28 23:58<br>赞(0) 踩(0) | <div>yizhi很喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11628804)<br><br>2013-01-28 19:54<br>赞(0) 踩(0) | <div>安神醒脑</div> |
@@ -731,7 +731,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11405685)<br>INVINCIBLE<br>2012-12-23 09:22<br>赞(0) 踩(0) | <div>清唱出来的的独立，我喜欢＜３</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11405685)<br>INVINCIBLE<br>2012-12-23 09:22<br>赞(0) 踩(0) | <div>很清新的声音，很淡的旋律。安静，温暖。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12044079)<br><br>2012-12-22 15:04<br>赞(0) 踩(0) | <div>安静</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/867619)<br><br>2012-12-21 19:01<br>赞(0) 踩(0) | <div>如果你也是音乐狂听者｛QQ新群｝：92897731“没人分享再多的成就都不圆满”一起听听歌，说说话 。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/867619)<br><br>2012-12-21 19:01<br>赞(0) 踩(0) | <div>如果你也是音乐狂听者｛QQ新群｝：92897731<br><br>“没人分享<br>再多的成就都不圆满”<br><br>一起听听歌，说说话 。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1200896)<br><br>2012-12-18 04:23<br>赞(0) 踩(0) | <div>:))  就是喜歡他的唱出來的感覺</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11978022)<br>金多虾~~~~·~~<br>2012-12-17 21:50<br>赞(0) 踩(0) | <div>Imloveit</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79066)<br><br>2012-12-16 23:43<br>赞(0) 踩(0) | <div>Valder Fields</div> |
@@ -827,7 +827,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1098847)<br>爱音乐<br>2012-09-28 23:25<br>赞(0) 踩(0) | <div>去听过他的音乐会，他的声音不是盖得！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4371045)<br>simple lady<br>2012-09-28 09:26<br>赞(0) 踩(0) | <div>温柔的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1217103)<br> <br>2012-09-26 19:31<br>赞(0) 踩(0) | <div>小清新</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4749671)<br><br>2012-09-26 15:59<br>赞(0) 踩(0) | <div>美丽的山水音乐,带着感情的简单舒缓的旋律和轻柔醉人的嗓音，让人体会这一份充满春天气息的温馨，如沐春风。平缓优美的旋律，没有什么激昂的东西。可是就这么平淡着，慢慢的渗透到人的内心。木吉他，配上简单的鼓点，偶尔用些钢琴做点缀</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4749671)<br><br>2012-09-26 15:59<br>赞(0) 踩(0) | <div>美丽的山水音乐,带着感情的简单舒缓的旋律和轻柔醉人的嗓音，让人体会这一份充满春天气息的温馨，如沐春风。<br>平缓优美的旋律，没有什么激昂的东西。可是就这么平淡着，慢慢的渗透到人的内心。木吉他，配上简单的鼓点，偶尔用些钢琴做点缀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8114264)<br><br>2012-09-24 17:34<br>赞(0) 踩(0) | <div>不要想太多</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9328535)<br><br>2012-09-20 13:20<br>赞(0) 踩(0) | <div>平和流畅，使人安详宁静</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18387)<br><br>2012-09-19 15:13<br>赞(0) 踩(0) | <div>Valder Fields</div> |
@@ -851,7 +851,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3317156)<br><br>2012-09-03 13:42<br>赞(0) 踩(0) | <div>静静的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5121025)<br><br>2012-09-01 17:42<br>赞(0) 踩(0) | <div>澳大利亚小清新歌手，Valder Fields 实在是……太正太，太受了~不过声音很纯净，适合放松的时候听……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3242433)<br>悠然自得地享受音乐~<br>2012-09-01 10:24<br>赞(0) 踩(0) | <div>indie rock,很安静的摇滚~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2012-09-01 08:11<br>赞(0) 踩(0) | <div>2012年十月2日3日4日Tamas Wells回到中国参加梦象音乐节~巡演日程：10月1日，深圳专场10月2日，梦象音乐节武汉站10月3日，梦象音乐节上海站10月4日，梦象音乐节天津站</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2012-09-01 08:11<br>赞(0) 踩(0) | <div>2012年十月2日3日4日<br>Tamas Wells回到中国参加梦象音乐节~<br><br>巡演日程：<br>10月1日，深圳专场<br>10月2日，梦象音乐节武汉站<br>10月3日，梦象音乐节上海站<br>10月4日，梦象音乐节天津站</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9015108)<br><br>2012-08-31 11:14<br>赞(0) 踩(0) | <div>30</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10310139)<br>2★to→<br>2012-08-30 15:07<br>赞(0) 踩(0) | <div>轻弹浅唱啦啦啦~ 澳洲有个能听的容易吗 -,-</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10299106)<br>读书明理，做人成才。<br>2012-08-30 11:51<br>赞(0) 踩(0) | <div>Tamas Wells既是团名也是其中主唱的名字。这支来自澳洲墨尔本的indie-pop乐团从澳大利亚开始了自己的音乐事业，美丽的山水音乐,带着感情的简单舒缓的旋律和轻柔醉人的嗓音，让人体会这一份充满春天气息的温馨，如沐春风。</div> |
@@ -1027,7 +1027,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3321985)<br><br>2012-05-02 14:16<br>赞(0) 踩(0) | <div>声音轻轻，像在诉说。弹着吉他歌唱，迷人不已</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/868545)<br>喵喵喵~<br>2012-05-01 08:16<br>赞(0) 踩(0) | <div>柔柔的，有莫名的有点小倔强</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4230439)<br><br>2012-04-30 21:14<br>赞(0) 踩(0) | <div>清新 温柔 轻松</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3759147)<br> <br>2012-04-29 21:30<br>赞(0) 踩(0) | <div>并不是多么独特的声音，但是听着听着，笑着的人忧伤起来，悲伤的人微笑起来简单又真实</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3759147)<br> <br>2012-04-29 21:30<br>赞(0) 踩(0) | <div>并不是多么独特的声音，但是听着听着，笑着的人忧伤起来，悲伤的人微笑起来<br>简单又真实</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6073441)<br><br>2012-04-29 09:04<br>赞(0) 踩(0) | <div>稀饭Ｏ（∩＿∩）Ｏ～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7647100)<br><br>2012-04-28 10:30<br>赞(0) 踩(0) | <div>温和宁静</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7078811)<br>找个能放心的地方<br>2012-04-27 18:39<br>赞(0) 踩(0) | <div>安静····又带点男声的小甜蜜·····呵呵·····</div> |
@@ -1067,7 +1067,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469848)<br><br>2012-04-01 15:08<br>赞(0) 踩(0) | <div>缘于无意中听到valder fields，瞬间被轻快、含着些忧伤的吟唱吸引触动。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7981168)<br>嗨哟你个小样儿<br>2012-04-01 14:19<br>赞(0) 踩(0) | <div>嗯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7096738)<br><br>2012-04-01 13:56<br>赞(0) 踩(0) | <div>动听的旋律与声线稍高的美声</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8377288)<br><br>2012-04-01 07:56<br>赞(1) 踩(0) | <div>为什么97页的留言加第一首 Valder Fields  92万的试听这人也红不起？？因为节奏太幼稚，坚定完毕。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8377288)<br><br>2012-04-01 07:56<br>赞(1) 踩(0) | <div>为什么97页的留言加第一首 Valder Fields  92万的试听这人也红不起？？<br>因为节奏太幼稚，坚定完毕。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7854789)<br> <br>2012-03-31 23:38<br>赞(0) 踩(0) | <div>民谣 清新 高中时记忆</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7155181)<br>生活是感官的合辑<br>2012-03-31 22:36<br>赞(0) 踩(0) | <div>这个浊世，还有清音~~这个世界，温暖一直都在~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6192155)<br><br>2012-03-30 12:01<br>赞(0) 踩(0) | <div>爱这男人清澈如泉水的声音</div> |
@@ -1168,7 +1168,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1641649)<br><br>2012-02-04 11:59<br>赞(0) 踩(0) | <div>my style</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3484620)<br><br>2012-02-03 17:15<br>赞(0) 踩(0) | <div>小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1366292)<br><br>2012-02-03 11:28<br>赞(0) 踩(0) | <div>旋律慢慢渗透到内心</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7551924)<br><br>2012-02-02 18:53<br>赞(0) 踩(0) | <div>《Valder Fields》一曲定情。舒服的节奏，温暖的民谣，宛若絮语般耳边回绕。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7551924)<br><br>2012-02-02 18:53<br>赞(0) 踩(0) | <div>《Valder Fields》一曲定情。<br>舒服的节奏，温暖的民谣，宛若絮语般耳边回绕。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11189)<br>Stay<br>2012-02-02 17:31<br>赞(0) 踩(0) | <div>太柔美了~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3626781)<br><br>2012-02-01 17:15<br>赞(0) 踩(0) | <div>喜欢这安静的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2887464)<br><br>2012-02-01 11:48<br>赞(0) 踩(0) | <div>如沐春风的感觉，让我有驱车徜徉于羊肠小道的冲动。</div> |
@@ -1185,14 +1185,14 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6956043)<br>暂无签名~<br>2012-01-23 21:35<br>赞(0) 踩(0) | <div>声音很有感染力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5180594)<br>暂无签名~<br>2012-01-22 18:17<br>赞(0) 踩(0) | <div>怎么这么好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7733886)<br><br>2012-01-21 01:13<br>赞(0) 踩(0) | <div>暖暖~清新~ 邻家~ 安静~ 稀饭！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987294)<br>暂无签名~<br>2012-01-19 17:14<br>赞(0) 踩(0) | <div>那些擦肩而过的人都死了。就在决定转身的瞬间。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987294)<br>暂无签名~<br>2012-01-19 17:14<br>赞(0) 踩(0) | <div>那些擦肩而过的人都死了。<br>就在决定转身的瞬间。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6201611)<br><br>2012-01-19 16:41<br>赞(0) 踩(0) | <div>他的声音让我有将往事一幕幕播放的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4870366)<br><br>2012-01-18 08:35<br>赞(0) 踩(0) | <div>不错的！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3012425)<br><br>2012-01-17 17:46<br>赞(0) 踩(0) | <div>my favorite type of music！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5828205)<br>我是人偶。没有心的人偶。...<br>2012-01-17 15:42<br>赞(0) 踩(0) | <div>……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/895908)<br><br>2012-01-15 00:13<br>赞(0) 踩(0) | <div>声音和长像很不搭啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7340154)<br><br>2012-01-14 21:14<br>赞(0) 踩(0) | <div>平静</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7662269)<br><br>2012-01-14 20:23<br>赞(0) 踩(0) | <div>干净的声音Tamas的歌 柔柔的 暖暖的像阳光 像棉花糖像 小雨</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7662269)<br><br>2012-01-14 20:23<br>赞(0) 踩(0) | <div>干净的声音<br>Tamas的歌 柔柔的 暖暖的<br>像阳光 像棉花糖<br>像 小雨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1381961)<br><br>2012-01-14 17:34<br>赞(0) 踩(0) | <div>温柔得不行了~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7439317)<br><br>2012-01-14 15:15<br>赞(0) 踩(0) | <div>好喜欢的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7560792)<br><br>2012-01-12 19:01<br>赞(0) 踩(0) | <div>又一个喜欢了很久的歌手</div> |
@@ -1243,7 +1243,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7364766)<br><br>2011-12-24 09:45<br>赞(0) 踩(0) | <div>xih</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1971789)<br>人艰不拆<br>2011-12-23 13:35<br>赞(0) 踩(0) | <div>小清新………………哪里能看出……话说哪里能看出Alternative/Indie Rock?</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6589201)<br><br>2011-12-23 13:13<br>赞(0) 踩(0) | <div>好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7363513)<br><br>2011-12-23 00:07<br>赞(0) 踩(0) | <div>很喜欢主唱的声音，很温柔的民谣</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7363513)<br><br>2011-12-23 00:07<br>赞(0) 踩(0) | <div>很喜欢主唱的声音，<br>很温柔的民谣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3540898)<br><br>2011-12-22 15:34<br>赞(0) 踩(0) | <div>清新 舒服 的民谣风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4059065)<br><br>2011-12-22 14:56<br>赞(0) 踩(0) | <div>他的歌声会让我停下来，也让我怀念一些美好的东西！很美，很享受!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7040378)<br><br>2011-12-21 09:47<br>赞(0) 踩(0) | <div>good</div> |
@@ -1281,7 +1281,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6850971)<br><br>2011-12-13 15:26<br>赞(0) 踩(0) | <div>温婉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4318953)<br><br>2011-12-13 14:46<br>赞(0) 踩(0) | <div>安静的歌曲，让人很温暖。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6730924)<br>【恩，凤梨，滕饭饭】<br>2011-12-12 19:10<br>赞(0) 踩(0) | <div>很喜欢他的声音，让人有种舒心，安静，庸懒的感觉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7096604)<br><br>2011-12-12 18:34<br>赞(0) 踩(0) | <div>Fresh!!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7096604)<br><br>2011-12-12 18:34<br>赞(0) 踩(0) | <div>Fresh<br>!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2225507)<br>暂无签名~<br>2011-12-12 18:29<br>赞(0) 踩(0) | <div>都是小时候爱听的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6485074)<br><br>2011-12-11 17:14<br>赞(0) 踩(0) | <div>这小木弦，一直都是最爱，换了ID，一时忘了收藏。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6347481)<br>unwritten<br>2011-12-11 17:01<br>赞(0) 踩(0) | <div>like</div> |
@@ -1330,7 +1330,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/638685)<br> <br>2011-12-01 11:19<br>赞(0) 踩(0) | <div>wells</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3048106)<br>暂无签名~thug<br>2011-12-01 10:06<br>赞(0) 踩(0) | <div>无</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/836896)<br>也许某一天，我紧闭双眼，...<br>2011-12-01 03:21<br>赞(0) 踩(0) | <div>心情都变好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6734368)<br><br>2011-11-30 23:11<br>赞(0) 踩(0) | <div>strik into heart.at night, listen to it, beautiful.having a menditation.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6734368)<br><br>2011-11-30 23:11<br>赞(0) 踩(0) | <div>strik into heart.<br>at night, listen to it, beautiful.<br>having a menditation.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2326867)<br>耳朵太尖<br>2011-11-30 23:08<br>赞(0) 踩(0) | <div>你可以说indie绝大部分都是清新的曲风,所以Tamas也如此,没什么奇怪,但你绝对不能忽略Tamas的真诚嗓音,仿佛唱到心里的那一块绿地,如此打动.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5614592)<br>有音乐就没有世界末日。<br>2011-11-30 22:55<br>赞(0) 踩(0) | <div>我的治愈系~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6412000)<br><br>2011-11-30 16:50<br>赞(0) 踩(0) | <div>挺舒缓的歌。</div> |
@@ -1368,7 +1368,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1816154)<br><br>2011-11-13 21:35<br>赞(0) 踩(0) | <div>tamas wells</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6763111)<br><br>2011-11-13 18:30<br>赞(0) 踩(0) | <div>OK</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6619778)<br>青春的岁月  我们身不由...<br>2011-11-13 01:21<br>赞(0) 踩(0) | <div>舒缓 自然 放松</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5638263)<br><br>2011-11-12 20:54<br>赞(0) 踩(0) | <div>好听的男声迷人的声音</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5638263)<br><br>2011-11-12 20:54<br>赞(0) 踩(0) | <div>好听的男声<br>迷人的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6720199)<br><br>2011-11-12 13:26<br>赞(0) 踩(0) | <div>夏天的树荫</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6677420)<br><br>2011-11-10 17:09<br>赞(0) 踩(0) | <div>很舒服很干净</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6575517)<br><br>2011-11-10 16:36<br>赞(0) 踩(0) | <div>舒服</div> |
@@ -1609,7 +1609,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5389697)<br>愿岁月静好，愿衣襟带花。<br>2011-08-12 01:14<br>赞(0) 踩(0) | <div>喜欢安静的吟唱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1842776)<br><br>2011-08-11 21:44<br>赞(0) 踩(0) | <div>好听。舒服。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1531838)<br><br>2011-08-10 23:16<br>赞(0) 踩(0) | <div>大爱小清新</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5160280)<br><br>2011-08-10 12:20<br>赞(0) 踩(0) | <div>淡淡的总会在听的时候不禁微笑</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5160280)<br><br>2011-08-10 12:20<br>赞(0) 踩(0) | <div>淡淡的<br>总会在听的时候不禁微笑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5198398)<br><br>2011-08-09 22:48<br>赞(0) 踩(0) | <div>舒服的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317448)<br>暂无签名~<br>2011-08-08 22:12<br>赞(0) 踩(0) | <div>for Valder Fields</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5142150)<br><br>2011-08-07 21:17<br>赞(0) 踩(0) | <div>舒服</div> |
@@ -1662,7 +1662,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2175316)<br><br>2011-07-13 11:22<br>赞(0) 踩(0) | <div>清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2432380)<br><br>2011-07-12 21:06<br>赞(0) 踩(0) | <div>很好听，轻轻的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3423085)<br>high起来！<br>2011-07-12 13:14<br>赞(0) 踩(0) | <div>我需要催眠~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4803093)<br><br>2011-07-12 11:30<br>赞(0) 踩(0) | <div>清新 自然 洒脱 不需要去刻意理解歌词的意思聆听Tamas Wells的音乐 如同沐浴春风 沐浴阳光 收获一丝惬意 涤荡心灵</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4803093)<br><br>2011-07-12 11:30<br>赞(0) 踩(0) | <div>清新 自然 洒脱 不需要去刻意理解歌词的意思<br>聆听Tamas Wells的音乐 如同沐浴春风 沐浴阳光 收获一丝惬意 涤荡心灵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2913066)<br><br>2011-07-11 19:31<br>赞(0) 踩(0) | <div>Tote推荐 原来Valder Field是他的歌曲:)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2761224)<br><br>2011-07-11 12:24<br>赞(0) 踩(0) | <div>如沐春风~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4033128)<br>再见！xiami<br>2011-07-10 22:03<br>赞(0) 踩(0) | <div>很清爽</div> |
@@ -1715,7 +1715,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2429264)<br>朝闻游子唱离歌,昨夜微霜...<br>2011-06-06 05:47<br>赞(0) 踩(0) | <div>好砖。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3687497)<br><br>2011-06-04 23:50<br>赞(0) 踩(0) | <div>这嗓音，这吉他，这感觉，夏天啊，就和这歌谈恋爱啦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4097997)<br>我们的家<br>2011-06-04 20:10<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3949974)<br>此生留白<br>2011-06-04 19:31<br>赞(0) 踩(0) | <div>charming迷人的声音清新 自然</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3949974)<br>此生留白<br>2011-06-04 19:31<br>赞(0) 踩(0) | <div>charming<br>迷人的声音<br>清新 自然</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3434521)<br><br>2011-06-04 17:21<br>赞(0) 踩(0) | <div>好聽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4162408)<br>我还没想好要写什么...<br>2011-06-03 15:14<br>赞(0) 踩(0) | <div>挨油  小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4154296)<br><br>2011-06-02 21:55<br>赞(0) 踩(0) | <div>i like</div> |
@@ -1797,7 +1797,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3414950)<br> <br>2011-04-18 16:43<br>赞(0) 踩(0) | <div>很~不错~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2545319)<br>因为爱所以爱<br>2011-04-18 15:11<br>赞(0) 踩(0) | <div>EP</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3641669)<br><br>2011-04-17 23:00<br>赞(0) 踩(0) | <div>像民谣一样的旋律，好安静</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/723413)<br><br>2011-04-17 07:01<br>赞(0) 踩(0) | <div>听着很舒服 能让我平静播放在午夜时分 能让我感到午后树荫下安逸</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/723413)<br><br>2011-04-17 07:01<br>赞(0) 踩(0) | <div>听着很舒服 能让我平静<br>播放在午夜时分 能让我感到午后树荫下安逸</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3508271)<br><br>2011-04-16 22:27<br>赞(0) 踩(0) | <div>舒服の声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3622835)<br><br>2011-04-16 09:07<br>赞(0) 踩(0) | <div>真是非常喜欢这一把声音的啊~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2238092)<br>当时只道是寻常<br>2011-04-15 23:39<br>赞(0) 踩(0) | <div>喜欢他的声音和调调~</div> |
@@ -1967,7 +1967,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1966417)<br><br>2010-12-01 22:24<br>赞(0) 踩(0) | <div>爱死！！！乃们的和声太有辨识度了！！Valder Fields式和声已经印在我脑子里了！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/547406)<br><br>2010-11-29 19:28<br>赞(0) 踩(0) | <div>让哥看看叫什么来着？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2024730)<br><br>2010-11-29 10:26<br>赞(0) 踩(0) | <div>喜欢Valder Fields</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/663251)<br>Melody of li...<br>2010-11-25 01:20<br>赞(0) 踩(0) | <div>Tamas Wells這名字意思就是音樂真 TM的好!!!!!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/663251)<br>Melody of li...<br>2010-11-25 01:20<br>赞(0) 踩(0) | <div>Tamas Wells這名字意思就是<br>音樂真 TM的好!!!!!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2082681)<br><br>2010-12-02 18:21<br>赞(0) 踩(0) | <div>⊙﹏⊙b汗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/663251)<br>Melody of li...<br>2010-12-02 20:25<br>赞(0) 踩(0) | <div><q><b>蜗牛说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/633740)<br><br>2010-11-24 19:40<br>赞(0) 踩(0) | <div>很喜欢他们 轻快且温暖</div> |
@@ -1980,7 +1980,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/927489)<br><br>2010-11-12 12:23<br>赞(0) 踩(0) | <div>听着他的歌心就静下来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/760961)<br><br>2010-11-11 20:38<br>赞(0) 踩(0) | <div>美美的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1541610)<br><br>2010-11-09 21:02<br>赞(0) 踩(0) | <div>干净清新的感觉，第一次听就喜欢上了这个舒服的声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/804195)<br><br>2010-11-09 15:12<br>赞(0) 踩(0) | <div>&amp;lt;&amp;lt;From Prying Plans into the Fire&amp;gt;&amp;gt;犹如幽幽清风般自在、飘逸。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/804195)<br><br>2010-11-09 15:12<br>赞(0) 踩(0) | <div>&amp;lt;&amp;lt;From Prying Plans into the Fire&amp;gt;&amp;gt;<br>犹如幽幽清风般自在、飘逸。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1196516)<br><br>2010-10-29 11:22<br>赞(0) 踩(0) | <div>第一次听就喜欢上他干净的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444874)<br>马叔代言人。<br>2010-10-28 21:17<br>赞(0) 踩(0) | <div>明儿去他现场！！！麻雀瓦舍~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/701732)<br><br>2010-10-27 23:46<br>赞(0) 踩(0) | <div>11.2 麦斯米兰中国巡演 南宁站</div> |
@@ -1988,7 +1988,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/897304)<br><br>2010-10-19 19:33<br>赞(0) 踩(0) | <div>温柔的男声   悠闲地调调  突然之间就想到了午后明媚的阳光</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1515443)<br><br>2010-09-19 22:06<br>赞(0) 踩(0) | <div>Valder Fields 突然就可以 安静下来的声音  最早听到 是在一个结婚典礼上~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/831937)<br><br>2010-09-15 09:44<br>赞(0) 踩(0) | <div>Valder Fields 永远的经典，轻松，舒服，忘不了的旋律</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292888)<br><br>2010-09-10 16:06<br>赞(0) 踩(0) | <div>这首Vendredi (Waiting Where You Can't See)响起的时候，想起博客里伴着这歌的那些文字。鼻子突然很酸。曾经这首歌专属给某人当成来电铃声，一响我便不假思索的摁下接听然后喊出你的外号。在某个冬天的夜晚，它再次响起，你喝醉了酒在那边问我“你找到新朋友了吗”。我什么都说不出来，我一直在等待，我一直以为你会回心转意的，我一直以为还有机会。即将一年，我们在同一个城市却不在有多大的机会相遇。你说想要新桃花，那么，我就祝你的花期悠长，香气恒远。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292888)<br><br>2010-09-10 16:06<br>赞(0) 踩(0) | <div>这首Vendredi (Waiting Where You Can't See)响起的时候，想起博客里伴着这歌的那些文字。鼻子突然很酸。<br>曾经这首歌专属给某人当成来电铃声，一响我便不假思索的摁下接听然后喊出你的外号。<br>在某个冬天的夜晚，它再次响起，你喝醉了酒在那边问我“你找到新朋友了吗”。<br>我什么都说不出来，我一直在等待，我一直以为你会回心转意的，我一直以为还有机会。<br>即将一年，我们在同一个城市却不在有多大的机会相遇。<br>你说想要新桃花，那么，我就祝你的花期悠长，香气恒远。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1710888)<br><br>2010-10-21 21:53<br>赞(0) 踩(0) | <div>额..人人都有回忆..</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/646377)<br>不忘初心，方得始终<br>2010-10-22 14:49<br>赞(0) 踩(0) | <div>嘿~~~别难过了~~~忘了他吧~~~祝你幸福~~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/646377)<br>不忘初心，方得始终<br>2010-10-22 14:49<br>赞(0) 踩(0) | <div>你一定会幸福的！！！！！！！！！！！！！！！！！！！！！！！</div> |
@@ -2027,20 +2027,20 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126292)<br>我还没想好要写什么...<br>2010-04-30 16:41<br>赞(0) 踩(0) | <div>喜欢Valder Fields</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298019)<br>douban.com/p...<br>2010-04-29 16:57<br>赞(0) 踩(0) | <div>Tamas Wells</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/806572)<br><br>2010-04-27 20:51<br>赞(0) 踩(0) | <div>静静的听了，让人安静的歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/508044)<br><br>2010-04-25 23:16<br>赞(0) 踩(0) | <div>好溫柔脫俗 好像有一個很了解你的男孩跟你說稍稍話第一次聽他的聲音感動到想哭的說 :')</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/508044)<br><br>2010-04-25 23:16<br>赞(0) 踩(0) | <div>好溫柔脫俗 好像有一個很了解你的男孩跟你說稍稍話<br>第一次聽他的聲音感動到想哭的說 :')</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/779198)<br><br>2010-04-05 19:01<br>赞(0) 踩(0) | <div>喜欢喜欢(*^__^*)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232854)<br>Event<br>2010-04-04 22:50<br>赞(0) 踩(0) | <div>静静的听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207453)<br><br>2010-03-29 12:27<br>赞(0) 踩(0) | <div>娘们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220587)<br><br>2010-03-27 12:16<br>赞(0) 踩(0) | <div>安神剂</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/500512)<br><br>2010-01-26 11:38<br>赞(0) 踩(0) | <div>第一次在是清风音乐里无意发现他的音乐的，有一种如浴春风的感觉~~~今天冬日的阳光透过大大的玻璃，暧暧的打在沙发上，屋里放Tamas Wells的音乐，有一种好惬意、好自在的感觉~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/500512)<br><br>2010-01-26 11:38<br>赞(0) 踩(0) | <div>第一次在是清风音乐里无意发现他的音乐的，有一种如浴春风的感觉~~~<br><br>今天冬日的阳光透过大大的玻璃，暧暧的打在沙发上，屋里放Tamas Wells的音乐，有一种好惬意、好自在的感觉~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634161)<br><br>2010-01-23 09:01<br>赞(0) 踩(0) | <div>大爱！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/579564)<br><br>2010-01-05 15:47<br>赞(0) 踩(0) | <div>Valder Fields 这首歌好流行 呵呵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601552)<br><br>2010-01-02 00:27<br>赞(0) 踩(0) | <div>我想吃掉他!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/515889)<br><br>2009-11-28 22:24<br>赞(0) 踩(0) | <div>好甜的男声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/511321)<br><br>2009-11-21 21:05<br>赞(0) 踩(0) | <div>蓝天白云的世界，干净的不带一点杂质</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/457957)<br><br>2009-10-27 17:23<br>赞(0) 踩(0) | <div>像雨后的天空，湛蓝湛蓝的，又像隔壁邻居的清唱，清新纯净</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/451239)<br><br>2009-10-20 23:34<br>赞(0) 踩(0) | <div>有天，我疑惑的问旁边的女生为什么陈绮贞这么红，女生不明白我的问题。然后，我知道了，因为她是独立啊，恩，是啊，代表了一群人的情绪，又不娇柔也不扭曲，有个性又不吵。但，这跟我以前听的indie不同啊，发展得真快，还是indie变形了最后我喊一句，独立算个鸟，老子是朋克</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522205)<br>一切很美，音為有你﹏<br>2009-11-29 03:43<br>赞(0) 踩(0) | <div>朋克算个毛劳资什么都不是！- -0</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/451239)<br><br>2009-10-20 23:34<br>赞(0) 踩(0) | <div>有天，我疑惑的问旁边的女生为什么陈绮贞这么红，女生不明白我的问题。然后，我知道了，因为她是独立啊，恩，是啊，代表了一群人的情绪，又不娇柔也不扭曲，有个性又不吵。但，这跟我以前听的indie不同啊，发展得真快，还是indie变形了<br>最后我喊一句，独立算个鸟，老子是朋克</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522205)<br>一切很美，音為有你﹏<br>2009-11-29 03:43<br>赞(0) 踩(0) | <div>朋克算个毛<br>劳资什么都不是！<br>- -0</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/451239)<br><br>2010-01-27 14:52<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13049)<br><br>2010-02-10 12:42<br>赞(0) 踩(0) | <div><q><b>湖大才子说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/564636)<br>きっとこの世界で輝く。<br>2010-03-29 22:33<br>赞(0) 踩(0) | <div><q><b>然说：</b></q></div> |
@@ -2048,7 +2048,7 @@ On the Volatility of the Mind    was released in 2014.
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/564636)<br>きっとこの世界で輝く。<br>2010-03-30 20:50<br>赞(0) 踩(0) | <div><q><b>然说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522205)<br>一切很美，音為有你﹏<br>2010-04-09 01:32<br>赞(0) 踩(0) | <div>超级马里一弹起 独立朋克一边去~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430693)<br>暂无签名~<br>2009-10-09 11:32<br>赞(0) 踩(0) | <div>嗯嗯，其实更喜欢那首melon street book club，很干净的吉他~~~</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/381685)<br><br>2009-10-09 21:35<br>赞(0) 踩(0) | <div>吉他。。。。。。。。。。。这是钢琴吧</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/381685)<br><br>2009-10-09 21:35<br>赞(0) 踩(0) | <div>吉他。。。。。。。。。。。<br>这是钢琴吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430693)<br>暂无签名~<br>2009-10-10 13:03<br>赞(0) 踩(0) | <div><q><b>墨白说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/586218)<br><br>2010-01-02 19:08<br>赞(0) 踩(0) | <div><q><b>墨白说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/487209)<br><br>2010-01-06 13:15<br>赞(0) 踩(0) | <div><q><b>墨白说：</b></q></div> |
@@ -2059,7 +2059,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367026)<br><br>2009-09-04 20:30<br>赞(0) 踩(0) | <div>Valder Fields听着很舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244073)<br><br>2009-08-24 21:49<br>赞(0) 踩(0) | <div>对创作型的歌手很有爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244073)<br><br>2009-08-24 21:39<br>赞(0) 踩(0) | <div>呵呵，我喜欢....</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110251)<br><br>2009-08-06 11:54<br>赞(0) 踩(0) | <div>他现场的声音跟唱片里听到的声音差不多.真的很纯,很干净. 不过说话的时候又完全不一样了.我比较喜欢他的照片,看起来更年轻.来现场的时候怎么看起来都感觉老了.也是今年4月份的杭州</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110251)<br><br>2009-08-06 11:54<br>赞(0) 踩(0) | <div>他现场的声音跟唱片里听到的声音差不多.真的很纯,很干净. 不过说话的时候又完全不一样了.<br>我比较喜欢他的照片,看起来更年轻.<br>来现场的时候怎么看起来都感觉老了.也是今年4月份的杭州</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197026)<br><br>2009-06-08 21:16<br>赞(0) 踩(0) | <div>好干净清爽的声音，听着就舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174064)<br><br>2009-05-23 17:52<br>赞(0) 踩(0) | <div>喜欢独立音乐...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/147876)<br><br>2009-05-05 22:15<br>赞(0) 踩(0) | <div>干净。干净。</div> |
@@ -2068,7 +2068,7 @@ On the Volatility of the Mind    was released in 2014.
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7370)<br>Léon<br>2009-04-03 17:05<br>赞(0) 踩(0) | <div>帅气，阳光，声音好听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21761)<br>怕黑的小白<br>2009-03-26 09:26<br>赞(0) 踩(0) | <div>是啊，没想到居然可以长得这么帅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81954)<br><br>2009-03-23 08:13<br>赞(0) 踩(0) | <div>我怎么觉得这小伙子很帅。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86605)<br><br>2009-03-22 16:45<br>赞(0) 踩(0) | <div>天使般干净的嗓音却有着恶魔般的容貌我没想到他长成这样啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86605)<br><br>2009-03-22 16:45<br>赞(0) 踩(0) | <div>天使般干净的嗓音却有着恶魔般的容貌<br>我没想到他长成这样啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10407)<br><br>2009-04-04 00:16<br>赞(0) 踩(0) | <div>刚刚晚上现场看了他的表演，真人比这张照片帅气多了，整一小白脸啊。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86605)<br><br>2009-04-04 22:26<br>赞(0) 踩(0) | <div><q><b>lemoncan说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3193)<br>求交往全世界<br>2009-04-05 13:56<br>赞(0) 踩(0) | <div>真，真有那么夸张么，，，，，，</div> |

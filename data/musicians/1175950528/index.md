@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/fe6051b18114c928fff24cf8cca679f3.jpg)<br>小旭音乐](https://i.xiami.com/xiaoxuband) | **播放数**: 24498510<br>**粉丝数**: 7480<br>**评论数**: 87<br>**地区**: China 中国大陆<br>**风格**: 游戏配乐 Video Game Music, 中国风 China-Wave<br> |
+| [![](../../images/musicians/fe6051b18114c928fff24cf8cca679f3.jpg)<br>小旭音乐](https://i.xiami.com/xiaoxuband) | **地区**: China 中国大陆<br>**风格**: 游戏配乐 Video Game Music, 中国风 China-Wave<br>**播放数**: 24498510<br>**粉丝数**: 7480<br>**评论数**: 87<br> |
 
 ## 档案
 
@@ -123,8 +123,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400127142)<br><br>2020-11-20 16:04<br>赞(0) 踩(0) | <div>有没有《胡莱三国》的背景音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358538496)<br><br>2020-07-24 22:17<br>赞(0) 踩(0) | <div>诛仙流波有段很长音乐叫什么名求帮助 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2020-05-19 07:51<br>赞(0) 踩(0) | <div>算是国内最流弊的游戏音乐开发团队了吧</div> |
@@ -207,7 +207,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3992862)<br><br>2014-01-21 08:22<br>赞(1) 踩(0) | <div>应该算是国内最好的游戏音乐配乐之一！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29369766)<br><br>2013-12-10 13:41<br>赞(2) 踩(0) | <div>古风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8089839)<br><br>2013-11-25 22:05<br>赞(2) 踩(0) | <div>《梦幻修仙》的曲子都很好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8089839)<br><br>2013-11-25 22:02<br>赞(2) 踩(0) | <div>我喜欢你们做的《梦幻修仙》的曲子爱死了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8089839)<br><br>2013-11-25 22:02<br>赞(2) 踩(0) | <div>我喜欢你们做的《梦幻修仙》的曲子<br>爱死了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4319855)<br>when the sto...<br>2013-10-21 09:40<br>赞(1) 踩(0) | <div>秒古风圈130条街</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6647668)<br>愿Sion永恒<br>2013-09-07 17:35<br>赞(1) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6562951)<br>佛系发歌<br>2013-08-15 18:28<br>赞(1) 踩(0) | <div>旭神们的作品不解释，高质量</div> |

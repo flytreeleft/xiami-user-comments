@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/61b017989477468b9c803a0ef699101c.jpg)<br>蓝波](https://i.xiami.com/lanbo) | **播放数**: 32108017<br>**粉丝数**: 1560<br>**评论数**: 90<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行摇滚 Pop Rock<br> |
+| [![](../../images/musicians/61b017989477468b9c803a0ef699101c.jpg)<br>蓝波](https://i.xiami.com/lanbo) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行摇滚 Pop Rock<br>**播放数**: 32108017<br>**粉丝数**: 1560<br>**评论数**: 90<br> |
 
 ## 档案
 
@@ -34,8 +34,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302300618)<br><br>2020-08-06 22:51<br>赞(0) 踩(0) | <div>非常有才的一位音乐人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2020-02-11 14:46<br>赞(0) 踩(0) | <div>我妈同学都在唱你的歌 为了麻麻在榜单上能压过她们 我要出山录你的歌了 哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2020-02-11 14:45<br>赞(0) 踩(0) | <div>挺帅啊</div> |
@@ -107,7 +107,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/931326)<br>闭上眼睛<br>2015-05-02 19:54<br>赞(2) 踩(0) | <div>为什么辅助拿蒙多！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12425287)<br><br>2015-03-02 21:06<br>赞(23) 踩(0) | <div>为什么辅助拿蒙多？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52204176)<br>期待我的爱……<br>2016-01-02 00:13<br>赞(0) 踩(0) | <div>666</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112706560)<br><br>2017-06-07 16:20<br>赞(0) 踩(0) | <div>oom老铁们，有任务。朋友圈第一条说说。点开看一下。转发朋友圈。（不能删除，不能屏蔽。后台有数据）求扩散转发（昆明区域的伙伴们）（如有打扰，敬请谅解）</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112706560)<br><br>2017-06-07 16:20<br>赞(0) 踩(0) | <div>oom老铁们，有任务。<br>朋友圈第一条说说。<br>点开看一下。转发朋友圈。（不能删除，不能屏蔽。后台有数据）<br>求扩散转发（昆明区域的伙伴们）<br>（如有打扰，敬请谅解）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271492101)<br><br>2018-06-13 14:20<br>赞(0) 踩(0) | <div>造化钟神秀</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255349683)<br><br>2019-02-04 02:01<br>赞(0) 踩(0) | <div>秀哭了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6015418)<br>如今，听什么广播，都不痛...<br>2015-02-12 11:15<br>赞(1) 踩(0) | <div>二龙湖观光团来此</div> |

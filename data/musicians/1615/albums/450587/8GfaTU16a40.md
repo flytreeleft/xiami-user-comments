@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/762181)<br> <br>2017-08-27 02:55<br>赞(2) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1418202)<br> 江山共老<br>2017-05-30 00:46<br>赞(4) 踩(0) | <div>這麼近那麼遠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273917)<br><br>2015-04-30 00:14<br>赞(2) 踩(0) | <div>哀伤吗？</div> |

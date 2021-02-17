@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/547de1ff3832cc52f48bd9536b6374ab.jpg)<br>金南玲](https://i.xiami.com/eqarts) | **播放数**: 132184392<br>**粉丝数**: 8079<br>**评论数**: 505<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/547de1ff3832cc52f48bd9536b6374ab.jpg)<br>金南玲](https://i.xiami.com/eqarts) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 132184392<br>**粉丝数**: 8079<br>**评论数**: 505<br> |
 
 ## 档案
 
@@ -52,8 +52,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423293786)<br><br>2020-10-12 23:46<br>赞(1) 踩(0) | <div>我喜欢你的歌好久了 但是我从不下载 也不评论 也不关注  作为一名无名的陪伴</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7882047)<br>↗这家伙试听了很多曲子！<br>2020-09-16 05:25<br>赞(1) 踩(0) | <div>嗓音不错，美女有没有男朋友 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267168139)<br> 终点是对的，过程就全都...<br>2020-09-06 08:36<br>赞(0) 踩(0) | <div>如果有缘，错过了还会重来； 如果无缘，相遇了也会离开。相识就是一种缘分，相交就是一种情分。聚有聚的理由，离有离的借口。爱你的人会追随你，想你的人会联系你。人生就像蒲公英，看似自由，却身不由己。有些事，不是不在意，而是在意了又能怎样。人生没有如果，只有后果和结果。一个人最大的幸福就是遇到对的人，纵容你的习惯，并爱着你的一切！若无相欠， 怎会相见。时间在变！我不会变！选择是一次又一次自我重塑的过程,让我们不断地成长，不断地完善，如果说人生是一次不断选择的旅程，那么当千帆阅尽最终留下的就是一片属于自己的天空。</div> |
@@ -68,7 +68,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-12-29 19:05<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434002751)<br><br>2019-12-14 12:16<br>赞(1) 踩(0) | <div>@ <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432857557)<br><br>2019-12-04 18:57<br>赞(1) 踩(0) | <div>好好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433031279)<br><br>2019-12-03 13:13<br>赞(3) 踩(0) | <div>很喜欢《逆流成河》！感谢你的作品，我的经典铃声！加油！金南玲！！！ <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/316db64fc5b56f4587429737ff163940.png"> <img src="../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433031279)<br><br>2019-12-03 13:13<br>赞(3) 踩(0) | <div>很喜欢《逆流成河》！<br>感谢你的作品，我的经典铃声！<br>加油！金南玲！！！ <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/316db64fc5b56f4587429737ff163940.png"> <img src="../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429581765)<br><br>2019-11-24 13:32<br>赞(1) 踩(0) | <div>70后居然喜欢你的歌声，希望你能逆流而上！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244831822)<br>合和共生<br>2019-09-18 17:11<br>赞(3) 踩(0) | <div>金南玲小姐姐不但歌唱得好听，长得也很好看 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png">算得上是人靓声甜那类歌星啦 <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21122725)<br><br>2019-09-14 11:16<br>赞(1) 踩(0) | <div>有故事的人才写的出的歌。</div> |
@@ -188,7 +188,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291115015)<br><br>2017-12-26 20:11<br>赞(0) 踩(0) | <div>第一次听你的歌，感觉非常好，喜欢。祝你生日快乐。加油，美女 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74639208)<br>Music is per...<br>2017-12-26 14:25<br>赞(0) 踩(0) | <div>有点像Adele</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339593316)<br> <br>2017-12-23 02:40<br>赞(0) 踩(0) | <div>非常喜欢你的歌，支持你，</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/150820638)<br><br>2017-12-14 17:59<br>赞(0) 踩(0) | <div>66666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666zss</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/150820638)<br><br>2017-12-14 17:59<br>赞(0) 踩(0) | <div>666666666666666666666666666666<br>666666666666666666666666666666<br>666666666666666666666666666666<br>666666666666666666666666666666<br>666666666666666666666666666666<br>666666666666666666666666666666<br>666666666666666666666666666666<br>666666666666666666666666666666<br>666666666666666666666666666666<br>66666666666666666666666666zss</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339258676)<br><br>2017-12-09 20:05<br>赞(0) 踩(0) | <div>名字咋那样怪！不过歌还好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338512230)<br>离离原上草，一岁一枯荣<br>2017-12-04 22:14<br>赞(0) 踩(0) | <div>完全因为可以下载逆流成河。 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">。怕以后听不到这么好的歌。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333870719)<br><br>2017-12-03 12:22<br>赞(0) 踩(0) | <div>我喜欢</div> |
@@ -288,8 +288,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296472287)<br><br>2017-05-18 17:13<br>赞(0) 踩(0) | <div>喜欢听你的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227104027)<br><br>2017-05-17 20:06<br>赞(0) 踩(0) | <div>我喜欢逆流成河正在学唱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278933743)<br>听说喜欢听民谣的男生都有...<br>2017-05-16 22:12<br>赞(0) 踩(0) | <div>好听，你就是我的终身粉丝</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295720800)<br>时间搁浅我们的依靠ミ◥巴...<br>2017-05-12 23:49<br>赞(0) 踩(0) | <div>哇塞！金姐姐，你竟然仅仅比我大一岁哎。。看了你在音乐作品方面的成就，本人瞬间感觉无地自容了。年龄相差无几，你也就大我1岁而已，感觉自己太不成器了。。 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295720800)<br>时间搁浅我们的依靠ミ◥巴...<br>2017-05-12 23:46<br>赞(1) 踩(0) | <div>很喜欢你的这首《逆流成河》，无论是旋律还是节奏还是歌词。。本人也非常喜爱音乐。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295720800)<br>时间搁浅我们的依靠ミ◥巴...<br>2017-05-12 23:49<br>赞(0) 踩(0) | <div>哇塞！金姐姐，你竟然仅仅比我大一岁哎。。<br>看了你在音乐作品方面的成就，本人瞬间感觉无地自容了。年龄相差无几，你也就大我1岁而已，感觉自己太不成器了。。 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295720800)<br>时间搁浅我们的依靠ミ◥巴...<br>2017-05-12 23:46<br>赞(1) 踩(0) | <div>很喜欢你的这首《逆流成河》，无论是旋律还是节奏还是歌词。。<br>本人也非常喜爱音乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295637173)<br><br>2017-05-12 22:16<br>赞(1) 踩(0) | <div>很喜欢你的那首《逆流成河》。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257922193)<br><br>2017-05-12 07:42<br>赞(3) 踩(0) | <div>逆流成河非常好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294865309)<br><br>2017-05-08 19:21<br>赞(0) 踩(0) | <div>好听</div> |
@@ -470,7 +470,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266769279)<br>woainil<br>2017-01-31 15:28<br>赞(0) 踩(0) | <div>我也是</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282545767)<br><br>2017-03-22 23:08<br>赞(0) 踩(0) | <div>真好听</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229980154)<br>心❤之所向，无问西东～<br>2017-05-17 22:02<br>赞(0) 踩(0) | <div>我也很喜欢这首歌！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298210952)<br><br>2017-05-28 18:35<br>赞(0) 踩(0) | <div>*；0</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298210952)<br><br>2017-05-28 18:35<br>赞(0) 踩(0) | <div>*<br>；<br><br>0</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270078408)<br>闽南语↔国语十级翻译<br>2017-07-08 08:18<br>赞(0) 踩(0) | <div>来生也不错的，只是这个前奏比较抒情，比较缓慢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321569288)<br><br>2017-08-26 01:06<br>赞(0) 踩(0) | <div>痛哭的人更好听。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272330379)<br>YZL贱人，荆玉疆我们永...<br>2017-09-08 21:06<br>赞(0) 踩(0) | <div>就是</div> |
@@ -541,7 +541,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356488179)<br><br>2018-06-11 00:29<br>赞(0) 踩(0) | <div>这首听得有感觉，心疼也轻松点了。只是习惯了一个人真不用人倾聊了？不知</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289127534)<br><br>2018-06-20 16:06<br>赞(0) 踩(0) | <div><q><b>FEFE、拾年说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32213654)<br><br>2018-09-14 00:49<br>赞(0) 踩(0) | <div>喜欢听你的歌</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415051223)<br><br>2019-01-31 11:55<br>赞(0) 踩(0) | <div>那年叫介石在整个南京种满了梧桐树只因宋美龄喜欢夏洛用一辆法拉利换了一车向日葵只因马冬梅喜欢吴柏松三年的陪伴也抵不过江辰的一句陈小希我们和好吧路星河56次求婚也抵不过余淮的一句对不起我来晚了我以为孟云穿成至尊宝的样子是挽留但看见林佳拼命吃芒果的时候我才明白是放手海绵宝宝为什么没有第二季因为海绵宝宝的配音死了哆啦A梦为什么没有结局因为大雄不想接受没有哆啦A梦的现实有人喜欢你么没有谁会在你饿得时候给你买最喜欢吃的东西没有有人帮你擦眼泪么没有有人心疼你的无助么没有一厢情愿就得愿赌服输你何曾见过感情放过谁</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415051223)<br><br>2019-01-31 11:55<br>赞(0) 踩(0) | <div>那年叫介石在整个南京种满了梧桐树只因宋美龄喜欢<br>夏洛用一辆法拉利换了一车向日葵只因马冬梅喜欢<br>吴柏松三年的陪伴也抵不过江辰的一句陈小希我们和好吧<br>路星河56次求婚也抵不过余淮的一句对不起我来晚了<br>我以为孟云穿成至尊宝的样子是挽留但看见林佳拼命吃芒果的时候我才明白是放手<br>海绵宝宝为什么没有第二季<br>因为海绵宝宝的配音死了<br>哆啦A梦为什么没有结局<br>因为大雄不想接受没有哆啦A梦的现实<br>有人喜欢你么<br>没有<br>谁会在你饿得时候给你买最喜欢吃的东西<br>没有<br>有人帮你擦眼泪么<br>没有<br>有人心疼你的无助么<br>没有<br>一厢情愿就得愿赌服输<br>你何曾见过感情放过谁</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357752578)<br>燕:  片叶寄思迎风飘，...<br>2019-02-10 09:08<br>赞(0) 踩(0) | <div>一定会欣赏你的歌曲！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420668004)<br>没有结果就是最好的结果！<br>2019-03-17 09:35<br>赞(0) 踩(0) | <div>我以为你说你要关注我呢 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340485066)<br><br>2019-06-02 14:38<br>赞(0) 踩(0) | <div>人还在么</div> |

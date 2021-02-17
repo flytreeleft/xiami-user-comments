@@ -3,7 +3,7 @@ Cherokee
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a8aedf204b3ca7bcad9416bd95ad5d6c.jpg)<br>Cherokee](https://i.xiami.com/cherokee) | **播放数**: 6710887<br>**粉丝数**: 4723<br>**评论数**: 213<br>**地区**: Luxembourg 卢森堡<br>**风格**: 独立电子乐 Indietronica, 电子 Electronic<br> |
+| [![](../../images/musicians/a8aedf204b3ca7bcad9416bd95ad5d6c.jpg)<br>Cherokee](https://i.xiami.com/cherokee) | **地区**: Luxembourg 卢森堡<br>**风格**: 独立电子乐 Indietronica, 电子 Electronic<br>**播放数**: 6710887<br>**粉丝数**: 4723<br>**评论数**: 213<br> |
 
 ## 档案
 
@@ -35,8 +35,8 @@ Cherokee
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31216751)<br>我还没想好要写什么...<br>2021-01-02 14:36<br>赞(0) 踩(0) | <div>他好棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49334418)<br>～<br>2020-12-28 01:26<br>赞(0) 踩(0) | <div>～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/594931)<br>趴间:巴尔鲁克歌舞厅<br>2020-08-16 21:35<br>赞(0) 踩(0) | <div>丄</div> |
@@ -48,7 +48,7 @@ Cherokee
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7265941)<br>人乘正法<br>2019-08-01 10:18<br>赞(0) 踩(0) | <div>大帅比</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40603098)<br>You can’t ho...<br>2019-05-07 07:35<br>赞(0) 踩(0) | <div>帅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49793724)<br>好<br>2019-03-31 11:28<br>赞(0) 踩(0) | <div>求IG</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2957802)<br>freakshow<br>2019-03-27 22:46<br>赞(0) 踩(0) | <div>3月29日本周五:TAPE &amp; 小夫有票® 旗下活动品牌 BLUE ICON 联合奉献--前法国顶级厂牌 Roche Musique 制作人 Cherokee @ 深圳Oil Club，浪漫到融化一切的French House / 少年少女的初夏幻想，这肯定是深圳3月春季海风的周五晚，最适合跳舞的必备饮品了!Supported by Wjrose / Kenson Chiu / Tayta.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2957802)<br>freakshow<br>2019-03-27 22:46<br>赞(0) 踩(0) | <div>3月29日本周五:<br>TAPE &amp; 小夫有票® 旗下活动品牌 BLUE ICON 联合奉献--前法国顶级厂牌 Roche Musique 制作人 Cherokee @ 深圳Oil Club，浪漫到融化一切的French House / 少年少女的初夏幻想，这肯定是深圳3月春季海风的周五晚，最适合跳舞的必备饮品了!<br>Supported by Wjrose / Kenson Chiu / Tayta.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/590219)<br>再见了虾米的各位，Q音乐...<br>2019-03-22 14:06<br>赞(0) 踩(0) | <div>上海巡演怎么买票呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9602872)<br>我还没想好要写什么...<br>2019-03-13 08:57<br>赞(0) 踩(0) | <div>这么帅的吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4131849)<br>网易云：非人類兔子Agy...<br>2019-03-06 21:48<br>赞(0) 踩(0) | <div>♪(´ε｀ )</div> |
@@ -65,7 +65,7 @@ Cherokee
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54537050)<br>我还没想好要写什么...<br>2018-05-30 20:20<br>赞(0) 踩(0) | <div>:~]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292085076)<br> <br>2018-03-19 02:07<br>赞(0) 踩(0) | <div>RD is 渣女</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17233975)<br>wc： tiamwhoi...<br>2018-01-02 06:46<br>赞(0) 踩(0) | <div>1:40来的&amp;hellip;我那时候已经high不动了&amp;hellip;走早了：）</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18626881)<br>没有是非 只有不同<br>2017-12-31 03:14<br>赞(13) 踩(0) | <div>Cherokee 真的太nice了[流泪][流泪][流泪][流泪]现场赞爆合影的时候简直太温柔看到拍的我这里黑了还主动说重拍担心我不满意&amp;hellip;&amp;hellip;我都说没关系还主动换了好几个地方再拍&amp;hellip;&amp;hellip;明明已经很累了啊&amp;hellip;&amp;hellip;太暖了 暖哭了 太治愈了在2017的结尾 我感受到了爱</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18626881)<br>没有是非 只有不同<br>2017-12-31 03:14<br>赞(13) 踩(0) | <div>Cherokee 真的太nice了[流泪][流泪][流泪][流泪]<br>现场赞爆<br>合影的时候简直太温柔<br>看到拍的我这里黑了还主动说重拍担心我不满意&amp;hellip;&amp;hellip;我都说没关系还主动换了好几个地方再拍&amp;hellip;&amp;hellip;明明已经很累了啊&amp;hellip;&amp;hellip;<br>太暖了 暖哭了 太治愈了<br>在2017的结尾 我感受到了爱</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31501246)<br>weibo:RocheM...<br>2018-01-01 12:17<br>赞(0) 踩(0) | <div>超腼腆的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48303926)<br>我以为因为音乐你会不一样<br>2018-01-10 20:27<br>赞(0) 踩(0) | <div>真的，我跟他照的不好看（主要是我不好看）他还问我要不要重拍，想嫁 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35655093)<br>我还没想好要写什么...<br>2019-03-03 13:25<br>赞(0) 踩(0) | <div>是在哪个城市</div> |
@@ -230,7 +230,7 @@ Cherokee
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23739365)<br>Life in Swit...<br>2015-02-11 23:07<br>赞(1) 踩(0) | <div>fucking awesome!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10502122)<br><br>2015-02-05 23:33<br>赞(0) 踩(0) | <div>Cherokee - Passion已上传优酷</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1448808)<br> <br>2015-01-27 21:23<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10502122)<br><br>2015-01-24 14:53<br>赞(0) 踩(0) | <div>新曲Cherokee - Teenage FantasyCherokee - Dakota</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10502122)<br><br>2015-01-24 14:53<br>赞(0) 踩(0) | <div>新曲<br>Cherokee - Teenage Fantasy<br>Cherokee - Dakota</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26015972)<br>come and chi...<br>2015-01-24 15:53<br>赞(0) 踩(0) | <div>你上传了吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10502122)<br><br>2015-01-25 23:23<br>赞(0) 踩(0) | <div><q><b>羅 冬冬说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10502122)<br><br>2015-01-25 23:23<br>赞(0) 踩(0) | <div><q><b>羅 冬冬说：</b></q></div> |

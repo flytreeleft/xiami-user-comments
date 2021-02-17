@@ -3,13 +3,10 @@ Pig小优
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/073358849284ee4d0c034ba521fd1e35.jpg)<br>Pig小优](https://i.xiami.com/xiaoyou) | **播放数**: 417364<br>**粉丝数**: 179<br>**评论数**: 15<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 中国风 China-Wave<br> |
+| [![](../../images/musicians/073358849284ee4d0c034ba521fd1e35.jpg)<br>Pig小优](https://i.xiami.com/xiaoyou) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 中国风 China-Wave<br>**播放数**: 417364<br>**粉丝数**: 179<br>**评论数**: 15<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -35,8 +32,8 @@ Pig小优
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426943527)<br><br>2020-08-24 06:33<br>赞(0) 踩(0) | <div>真的很喜欢你的声音呀神仙姐姐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252198165)<br>吾心在生活中逝去！漯秦<br>2020-07-05 16:14<br>赞(1) 踩(0) | <div>我来了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252198165)<br>吾心在生活中逝去！漯秦<br>2020-07-05 16:17<br>赞(0) 踩(0) | <div>发次消息很慢，一晃会几十年的，大家想联系的及时找，我这有时虾米打不开没网</div> |

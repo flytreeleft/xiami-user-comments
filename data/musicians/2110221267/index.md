@@ -3,7 +3,7 @@ LU_2
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b4950a1f35e6348149d7be1fbf61c46d.jpg)<br>LU_2](https://i.xiami.com/lu2) | **播放数**: 3828913<br>**粉丝数**: 1352<br>**评论数**: 40<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/b4950a1f35e6348149d7be1fbf61c46d.jpg)<br>LU_2](https://i.xiami.com/lu2) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 3828913<br>**粉丝数**: 1352<br>**评论数**: 40<br> |
 
 ## 档案
 
@@ -33,8 +33,8 @@ B站微博唱吧都有玩啦名字太多写着好麻烦哈哈哈<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444322619)<br>防弹少年团七人七色BTS...<br>2021-01-28 07:02<br>赞(0) 踩(0) | <div>表白泰亨 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35278495)<br><br>2020-11-25 07:40<br>赞(0) 踩(0) | <div>你是真的屌 <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355466447)<br><br>2020-10-04 02:11<br>赞(0) 踩(0) | <div>加油看好你</div> |
@@ -46,10 +46,10 @@ B站微博唱吧都有玩啦名字太多写着好麻烦哈哈哈<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261764392)<br>曾努力过.<br>2019-05-27 21:19<br>赞(1) 踩(0) | <div>朴灿烈正牌老婆在这里</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268127033)<br><br>2019-05-20 21:23<br>赞(2) 踩(0) | <div>泰亨呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424372044)<br>刹那间的美丽，一瞬间的永...<br>2019-05-09 20:00<br>赞(0) 踩(0) | <div>可爱可爱可爱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404806031)<br>#闵玧其#BTS#EXO...<br>2019-02-15 12:03<br>赞(9) 踩(0) | <div>你好你好,幸识幸识,我是朴灿烈老婆or朴家女孩 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">本命少女时代（团偏允）EXO（朴灿烈）灿白党+金泰亨+允西卡+裴珠泫+勋允 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404806031)<br>#闵玧其#BTS#EXO...<br>2019-02-15 12:03<br>赞(9) 踩(0) | <div>你好你好,幸识幸识,我是朴灿烈老婆or朴家女孩 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"><br>本命少女时代（团偏允）EXO（朴灿烈）<br>灿白党+金泰亨+允西卡+裴珠泫+勋允 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403111563)<br><br>2019-01-05 17:30<br>赞(3) 踩(0) | <div>太阔爱啦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183562680)<br>我还没想好要写什么...<br>2018-11-23 21:07<br>赞(3) 踩(0) | <div>小姐姐，好喜欢你啊…… <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354213971)<br><br>2018-11-01 04:48<br>赞(3) 踩(0) | <div>朴灿烈老婆就是伯贤</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354213971)<br><br>2018-11-01 04:48<br>赞(3) 踩(0) | <div>朴灿烈老婆<br><br><br><br><br><br><br>就是伯贤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361943253)<br>金泰亨的大老婆<br>2018-10-03 01:44<br>赞(3) 踩(0) | <div>金泰亨正妻，过来看看 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296257140)<br>00<br>2018-07-25 23:29<br>赞(3) 踩(0) | <div>呱唧呱唧，啥时候能爱好一下EXO</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324486741)<br><br>2018-07-15 16:18<br>赞(2) 踩(0) | <div>什么时候唱首fake love啊  <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |

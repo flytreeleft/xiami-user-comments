@@ -52,8 +52,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203058985)<br>音乐不会使你快乐，但会帮...<br>2021-01-09 12:19<br>赞(0) 踩(0) | <div>现在听也不会觉得过时</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52353808)<br>换位思考<br>2021-01-07 11:19<br>赞(0) 踩(0) | <div>舍不得虾米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49073959)<br>我还没想好要写什么...<br>2020-12-23 04:45<br>赞(0) 踩(0) | <div>呼吸不过来的噩梦。</div> |
@@ -61,7 +61,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355308997)<br><br>2020-11-27 09:58<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314199074)<br><br>2020-08-26 15:10<br>赞(0) 踩(0) | <div>我舍不得你，gcy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54809796)<br>雨会下 也会停<br>2020-07-03 13:13<br>赞(1) 踩(0) | <div>这张专辑有不好听的歌吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-06-29 10:07<br>赞(1) 踩(0) | <div>这首是偶滴特别耐滴曲子阿里嘎多</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362083809)<br>尘归尘<br>2020-06-29 10:07<br>赞(1) 踩(0) | <div>这首是偶滴特别耐滴曲子<br>阿里嘎多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208681907)<br>音乐是生活中的重要部分。<br>2020-06-29 00:12<br>赞(0) 踩(0) | <div>编曲nice！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432137445)<br><br>2020-01-14 13:31<br>赞(0) 踩(0) | <div>妈的，张震岳真是宝藏啊，很舒服的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81106704)<br>超暴躁的无谓党，在哀愁与...<br>2019-12-31 10:14<br>赞(2) 踩(0) | <div>舍不得2019，她就这样走过了，走完了。</div> |
@@ -71,7 +71,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4027166)<br><br>2019-08-17 20:53<br>赞(1) 踩(0) | <div>电吉他旋律很好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292109073)<br> 已是两条路上的人<br>2019-07-19 22:11<br>赞(0) 踩(0) | <div>我无法忘记我们的点点滴滴wzt</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339574001)<br> <br>2019-07-01 23:12<br>赞(0) 踩(0) | <div>如此好听的歌，还好没被人发现</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35799981)<br>我还没想好要写什么...<br>2019-04-24 08:31<br>赞(1) 踩(0) | <div>你听到这首歌会不会想起我……哈哈哈 我也是戏多 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35799981)<br>我还没想好要写什么...<br>2019-04-24 08:31<br>赞(1) 踩(0) | <div>你听到这首歌会不会想起我……<br>哈哈哈 我也是戏多 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298464501)<br>这首歌请务必让我来唱<br>2019-04-05 00:25<br>赞(0) 踩(0) | <div>对不起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52962392)<br>我还没想好要写什么...<br>2019-04-03 23:48<br>赞(0) 踩(0) | <div>人生最大的悲伤不是得不到而是舍不得…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12076873)<br>Wowgogogogo<br>2019-03-13 09:12<br>赞(2) 踩(0) | <div>真是温柔死了</div> |
@@ -88,7 +88,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257973736)<br><br>2018-09-08 08:43<br>赞(0) 踩(0) | <div>张震岳和勒布朗詹姆斯好像</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171615)<br>我还没想好要写什么...<br>2018-08-08 13:03<br>赞(0) 踩(0) | <div>回忆下学生时代</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352602466)<br><br>2018-04-26 18:12<br>赞(0) 踩(0) | <div>舍不得阿岳</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/171947238)<br> <br>2018-04-26 10:42<br>赞(0) 踩(0) | <div>分手后什么事都是我做的最快，最快删掉关于你的信息。最快把你送的东西扔掉，最快把你给忘记。可是因为你的一句在吗，这些事又最快的回到我身边！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/171947238)<br> <br>2018-04-26 10:42<br>赞(0) 踩(0) | <div>分手后<br>什么事都是我做的最快，<br>最快删掉关于你的信息。<br>最快把你送的东西扔掉，<br>最快把你给忘记。<br>可是因为你的一句在吗，这些事又最快的回到我身边！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190574305)<br>爱忆莲，爱生活。<br>2018-04-20 00:21<br>赞(2) 踩(0) | <div>喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80005288)<br>人生自是有情痴，此恨不关...<br>2018-04-16 07:14<br>赞(1) 踩(0) | <div>我爱你gbj</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50821555)<br>爱就是驯服<br>2018-03-08 02:32<br>赞(3) 踩(0) | <div>阿岳独有的男子力，温柔、纯净，带点世俗习气的刁，站在尘世里感受沙砾的感受。也许是他内心不顾一切的追求，也许是他面对自己。信仰耶稣的阿岳，超脱于世却又心系于世人。他的声音，那种感觉就是一个人真诚地表达，像十五六的少年少女那样，赤条条来去，却有最柔软干净神圣却有力量的光。这种难得的洁净热忱让人好想守护啊，我的张震岳。</div> |
@@ -104,7 +104,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300651151)<br><br>2017-09-26 01:51<br>赞(2) 踩(0) | <div>我是</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259661696)<br> <br>2017-09-18 16:28<br>赞(3) 踩(0) | <div>阿岳的所有歌都值得收听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36865171)<br>我喂自己袋盐<br>2017-09-16 03:14<br>赞(1) 踩(0) | <div>唉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305988927)<br>所有的期待并不会实现<br>2017-09-13 00:56<br>赞(3) 踩(0) | <div>生平只心痛两次第一次是见你哭泣第二次是忍不住想你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305988927)<br>所有的期待并不会实现<br>2017-09-13 00:56<br>赞(3) 踩(0) | <div>生平只心痛两次<br>第一次是见你哭泣<br>第二次是忍不住想你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247539797)<br> <br>2017-09-11 14:50<br>赞(2) 踩(0) | <div>对不起，晓格  谢谢你，晓格</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277133872)<br><br>2017-07-27 13:27<br>赞(4) 踩(0) | <div>大叔里面住着一个小男孩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296838753)<br><br>2017-07-19 18:07<br>赞(2) 踩(0) | <div>曾几何时你离开</div> |
@@ -165,8 +165,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141231224)<br><br>2016-08-17 07:08<br>赞(0) 踩(0) | <div>舍不得。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74745792)<br>懒得介绍<br>2016-08-01 11:03<br>赞(0) 踩(0) | <div>喜欢这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74745792)<br>懒得介绍<br>2016-08-01 11:03<br>赞(0) 踩(0) | <div>阿阿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23893917)<br>我还没想好要写什么...<br>2016-07-30 00:24<br>赞(1) 踩(0) | <div>然而张震岳众多歌中 我最喜欢这首…“已经过了那么久 思念并没有减弱 我想你 我无法忘记我们的点点滴滴”分享一下 可能很多人没听过☺️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23893917)<br>我还没想好要写什么...<br>2016-07-30 00:22<br>赞(0) 踩(0) | <div>然而 张震岳众多歌中 我还是最喜欢这首…“ 已经过了那么久 思念并没有减弱 我想你 我无法忘记我们的点点滴滴 ”分享一下 可能很多人都没有听过…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23893917)<br>我还没想好要写什么...<br>2016-07-30 00:24<br>赞(1) 踩(0) | <div>然而张震岳众多歌中 我最喜欢这首…<br><br>“已经过了那么久 思念并没有减弱 我想你 我无法忘记我们的点点滴滴”<br><br>分享一下 可能很多人没听过☺️</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23893917)<br>我还没想好要写什么...<br>2016-07-30 00:22<br>赞(0) 踩(0) | <div>然而 张震岳众多歌中 我还是最喜欢这首…<br><br>“ 已经过了那么久 思念并没有减弱 我想你 我无法忘记我们的点点滴滴 ”<br><br>分享一下 可能很多人都没有听过…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195240626)<br><br>2016-07-09 22:09<br>赞(0) 踩(0) | <div>我需要你 hyg</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/133779840)<br><br>2016-07-05 21:31<br>赞(1) 踩(0) | <div>你让我明白什么是想念。 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155271100)<br> <br>2016-07-01 13:39<br>赞(0) 踩(0) | <div>就像p哥在半醉半醒间说出“兔兔喜欢张震岳” 有些事听过一遍就会被无意存起来 平常感觉不到它的存在 而有些事不是 时时刻刻在敲打你 试探你 击溃你 但最后还是会让你move on</div> |
@@ -200,7 +200,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8445276)<br><br>2015-07-28 13:51<br>赞(0) 踩(0) | <div>原曲：let go 林忆莲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50079603)<br>他说妳会来，只是要你等。...<br>2015-07-12 08:21<br>赞(0) 踩(0) | <div>我在留恋什么。曾经的快乐现在都是悲伤的理由。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7617434)<br>回家的路好远 要如何才能...<br>2015-06-07 15:47<br>赞(0) 踩(0) | <div>高考完一年了。我好想你。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43437549)<br><br>2015-05-31 23:15<br>赞(0) 踩(0) | <div>WANAN☺️</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43437549)<br><br>2015-05-31 23:15<br>赞(0) 踩(0) | <div>WANAN<br>☺️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19840250)<br>陷在音乐里<br>2015-01-22 00:19<br>赞(0) 踩(0) | <div>好朋友后天就要回美国了 舍不得啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45656410)<br><br>2015-01-13 20:30<br>赞(0) 踩(0) | <div>想喘口气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15999996)<br><br>2014-04-12 23:03<br>赞(0) 踩(0) | <div>秋天冬天，只是朋友，在凌晨，怎么办，勇气，很难，有一天，你说有个女孩，舍不得，这些歌总喜欢放一起听</div> |

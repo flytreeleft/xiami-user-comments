@@ -3,7 +3,7 @@ Fcyco
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/dfdc28b544cf23ff14f408768d9e78d5.jpg)<br>Fcyco](https://i.xiami.com/fcyco) | **播放数**: 5339846<br>**粉丝数**: 4586<br>**评论数**: 198<br>**地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/dfdc28b544cf23ff14f408768d9e78d5.jpg)<br>Fcyco](https://i.xiami.com/fcyco) | **地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 5339846<br>**粉丝数**: 4586<br>**评论数**: 198<br> |
 
 ## 档案
 
@@ -57,8 +57,8 @@ Fcyco
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313841474)<br>再见虾米<br>2021-01-05 16:13<br>赞(0) 踩(0) | <div>那就886</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5545820)<br>peace<br>2021-01-05 14:27<br>赞(0) 踩(0) | <div>江湖再见！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280896273)<br>要进虾米难民群的私我<br>2021-01-05 13:19<br>赞(1) 踩(0) | <div>再见了呀 江湖再会</div> |

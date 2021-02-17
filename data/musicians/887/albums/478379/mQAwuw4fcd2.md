@@ -61,8 +61,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4440348)<br>我还没想好要写什么...<br>2018-09-13 17:18<br>赞(0) 踩(0) | <div>骚骚的旋律，骚骚的歌词，哦&amp;hellip;&amp;hellip;听的整个人都酥酥的了&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9575527)<br>我还没想好要写什么...<br>2018-09-06 08:46<br>赞(0) 踩(0) | <div>想到了大松子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2417727)<br>Hi~<br>2018-07-20 08:39<br>赞(4) 踩(0) | <div>前十几秒真的多余</div> |
@@ -71,7 +71,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216784802)<br>好的音乐最重要的是真实，...<br>2018-06-10 22:38<br>赞(0) 踩(0) | <div>感觉和《无处安放》的旋律差别不大，只不过换了个雷鬼节奏，咋总是这个调呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343000514)<br><br>2018-04-19 14:44<br>赞(2) 踩(0) | <div>我爱你，爱你的方式很多很多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258190188)<br><br>2018-03-11 11:40<br>赞(2) 踩(0) | <div>他唱的这个女子很叛逆呢  我想应该是唱给他前妻的吧  <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142496326)<br><br>2018-03-02 18:46<br>赞(3) 踩(0) | <div>我爱你的焦虑偏执坏脾气恍惚迷离封闭悲观坏习惯自以为是香烟味儿蹩脚衣着叛逆厌世空虚感不合时宜。。。一个不健全人格的特质写全乎了，都爱。。。so，聊起汪峰的歌，首推这首《爱你的方式》 虽然也很喜欢他的很多歌 春天里当我想你的时候加德满都的风铃笑着哭光明。。。 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142496326)<br><br>2018-03-02 18:46<br>赞(3) 踩(0) | <div>我爱你的焦虑偏执坏脾气恍惚迷离封闭悲观坏习惯自以为是香烟味儿蹩脚衣着叛逆厌世空虚感不合时宜。。。<br>一个不健全人格的特质写全乎了，都爱。。。so，聊起汪峰的歌，首推这首《爱你的方式》 虽然也很喜欢他的很多歌 春天里当我想你的时候加德满都的风铃笑着哭光明。。。 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181476674)<br><br>2018-04-13 19:56<br>赞(0) 踩(0) | <div>丨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74401820)<br>能被风带走的我都不要<br>2018-01-24 08:06<br>赞(1) 踩(0) | <div>求大神来个这节奏的和旋指法  <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png">我要求婚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21488940)<br><br>2017-10-30 10:22<br>赞(2) 踩(0) | <div>“我爱你的焦虑/ 爱你的偏执/ 爱你的坏脾气/ 爱你的恍惚迷离/ 我爱你的封闭/爱你的悲观/ 爱你的坏习惯/ 爱你的自以为是/ 无论你什么样子/ 我都深深地迷恋”如此浪漫的歌词，被这么爱着的女孩一定特别自信特别跋扈，安全感十足吧，哈哈。</div> |
@@ -156,8 +156,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17059)<br><br>2011-11-25 14:43<br>赞(0) 踩(0) | <div>爱你的方式~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2068096)<br>消失的光年<br>2011-11-24 20:14<br>赞(1) 踩(0) | <div>爱你的方式，爱自己的方式。其实都是一样的，我喜欢汪峰这首的歌词带给我的感觉~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6927070)<br><br>2011-11-24 09:23<br>赞(0) 踩(0) | <div>我爱你的方式</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6240632)<br><br>2011-11-24 00:16<br>赞(0) 踩(0) | <div>我爱你的锋利爱你的悲观爱你的坏习惯爱你的自以为是</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6240632)<br><br>2011-11-24 00:16<br>赞(0) 踩(0) | <div>我爱你的锋利<br>爱你的悲观<br>爱你的坏习惯<br>爱你的自以为是</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6240632)<br><br>2011-11-24 00:14<br>赞(0) 踩(0) | <div>我爱你的锋利爱你的悲观爱你的坏习惯爱你的自以为是</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/590900)<br><br>2011-11-23 22:56<br>赞(1) 踩(0) | <div>汪峰先生老啦，他好似累了的侠士，刀锋入了鞘。真拿起吉他，席地坐树下，将美好的旋律唱与路人听，唱与爱人听，唱与朋友听，唱与过去听，唱与未来听，唱与自己听。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2452232)<br><br>2011-11-23 22:30<br>赞(0) 踩(0) | <div>我爱你的焦虑爱你的偏执爱你的坏脾气爱你的恍惚迷离我爱你的锋利爱你的悲观爱你的坏习惯爱你的自以为是无论你什么样子我都深深迷恋亲爱的这无法解释这是我爱你的方式</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2452232)<br><br>2011-11-23 22:30<br>赞(0) 踩(0) | <div>我爱你的焦虑<br>爱你的偏执<br>爱你的坏脾气<br>爱你的恍惚迷离<br><br>我爱你的锋利<br>爱你的悲观<br>爱你的坏习惯<br>爱你的自以为是<br><br>无论你什么样子<br>我都深深迷恋<br>亲爱的这无法解释<br>这是我爱你的方式</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1998710)<br>我还没想好要写什么...<br>2011-11-23 20:43<br>赞(0) 踩(0) | <div>喜欢你哪有什么理由</div> |

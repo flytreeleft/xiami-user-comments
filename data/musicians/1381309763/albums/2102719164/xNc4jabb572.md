@@ -60,5 +60,3 @@ Do the ho hokey hokey pokey cause that's what it's all about alright
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

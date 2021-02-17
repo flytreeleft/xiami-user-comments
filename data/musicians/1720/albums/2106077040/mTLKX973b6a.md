@@ -63,8 +63,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378685522)<br><br>2021-01-27 17:17<br>赞(0) 踩(0) | <div>想哭&amp;hellip;每一次听到&amp;hellip;唉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241846819)<br>本命:TXT组合主唱姜太...<br>2021-01-27 09:16<br>赞(0) 踩(0) | <div>副歌后半段为什么加伴唱？是想突出什么吗？个人观点，觉得不如金海心自己唱来的清澈宁静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378685522)<br><br>2021-01-17 09:15<br>赞(1) 踩(0) | <div>再听，虾米要不在了，唉</div> |
@@ -100,7 +100,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91711010)<br><br>2020-03-20 12:21<br>赞(5) 踩(0) | <div>想起来金海心很久以前另一首歌也是类似的意境，叫《那时的天空》，我不怕暴露年龄，喜欢金海心二十年了，继续关注和支持！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40753770)<br><br>2020-04-11 21:21<br>赞(0) 踩(0) | <div>好喜欢《那时的天空》。还有《睡不着的海》，也是这么空灵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15348721)<br>想把我唱给你听。<br>2020-03-15 00:49<br>赞(1) 踩(0) | <div>心心，又听到你的歌声了，真好。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435461610)<br><br>2020-03-14 19:12<br>赞(0) 踩(0) | <div>沉淀了那么多年的喜欢一首新歌，让逐渐麻木的耳朵清醒了 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435461610)<br><br>2020-03-14 19:12<br>赞(0) 踩(0) | <div>沉淀了那么多年的喜欢<br>一首新歌，让逐渐麻木的耳朵清醒了 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410885445)<br>修一颗心～<br>2020-03-13 16:05<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22974103)<br>朝看水东流，暮看日西坠。<br>2020-03-13 08:31<br>赞(2) 踩(0) | <div>有点儿王菲。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44539750)<br><br>2020-03-12 23:03<br>赞(0) 踩(0) | <div>姐姐！</div> |
@@ -136,11 +136,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220923996)<br><br>2020-02-24 12:49<br>赞(3) 踩(0) | <div>声音还是辣么好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58617772)<br> <br>2020-02-23 20:41<br>赞(1) 踩(0) | <div>好久不见，初中时候听着你的歌度过写作业的时光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49856787)<br>孤独，无畏<br>2020-02-23 13:43<br>赞(1) 踩(0) | <div>好久没有你的消息了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195394649)<br>阳光从来不缺席<br>2020-02-22 23:10<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">说不清何时何故就喜欢喜欢这  直击灵魂的声音没有伴奏也能响彻四海的嗓音音律<img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">一直都在等待 等待你的声音不论多久都没变</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195394649)<br>阳光从来不缺席<br>2020-02-22 23:10<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>说不清何时何故就喜欢喜欢<br>这  直击灵魂的声音<br>没有伴奏也能响彻四海的嗓音音律<br><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>一直都在等待 等待你的声音<br>不论多久都没变</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11446884)<br>New York MoM...<br>2020-02-22 20:53<br>赞(0) 踩(0) | <div>surprise babe love u</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1802190)<br>人生如逆旅，我亦是行人。<br>2020-02-22 19:42<br>赞(1) 踩(0) | <div>金海心！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245841205)<br>但是我有很多很多动人的歌...<br>2020-02-22 14:09<br>赞(2) 踩(0) | <div>我以为看花眼了，真的是新歌啊～有点小激动</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8753000)<br><br>2020-02-22 10:46<br>赞(8) 踩(0) | <div>听完YellowLine刚写好评论发现金海心出新歌啦就发现这个作词者形容的更恰当“虽然你远去了 却在我心上成为明灯”从我小学就喜欢金海心 今年已经十二年了真是岁月如梭 十二年就仿佛沧海桑田让尖锐跋扈的我变成这样的烂好人可惜真正想对他好的 那个“他”已经不在了 劝慰自己 被病痛折磨那么久或许离去才是更好的选择辜负的承诺该如何拾起再不会有人那么真实的不舍得我做家务活也不会有人牵我去婚礼想带你去看看广阔的天地想你绽开的笑颜 都快忘记了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8753000)<br><br>2020-02-22 10:46<br>赞(8) 踩(0) | <div>听完YellowLine刚写好评论<br>发现金海心出新歌啦<br>就发现这个作词者形容的更恰当<br>“虽然你远去了 却在我心上成为明灯”<br>从我小学就喜欢金海心 今年已经十二年了<br>真是岁月如梭 十二年就仿佛沧海桑田<br>让尖锐跋扈的我变成这样的烂好人<br>可惜真正想对他好的 那个“他”<br>已经不在了 劝慰自己 被病痛折磨那么久<br>或许离去才是更好的选择<br>辜负的承诺该如何拾起<br>再不会有人那么真实的不舍得我做家务活<br>也不会有人牵我去婚礼<br>想带你去看看广阔的天地<br>想你绽开的笑颜 都快忘记了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11996369)<br>想在活着的时候活着<br>2020-02-21 23:22<br>赞(14) 踩(0) | <div>特别喜欢的女歌手，眼前还能浮现着我读初中时，她的把耳朵叫醒刚发行，北京台的MTV音乐风云榜里，李霞和王峥（或者张峥？）做主持，别那么骄傲里的猫咪森林也依稀在眼前。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267748462)<br>一条咸鱼<br>2020-02-21 21:47<br>赞(4) 踩(0) | <div>好的音乐就是这样，总是能让你不经意间被震撼到。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268017953)<br>冬去春来<br>2020-02-21 21:12<br>赞(3) 踩(0) | <div>如微雨淋心，舒服。</div> |

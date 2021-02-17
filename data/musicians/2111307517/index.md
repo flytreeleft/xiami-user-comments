@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/98bfbd74933a9255393cfb3100e0ebc9.jpg)<br>小熙](https://i.xiami.com/xiaoxier) | **播放数**: 798267<br>**粉丝数**: 38<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 民谣 Folk, 流行 Pop, 同人音乐 DouJin<br> |
+| [![](../../images/musicians/98bfbd74933a9255393cfb3100e0ebc9.jpg)<br>小熙](https://i.xiami.com/xiaoxier) | **地区**: China 中国大陆<br>**风格**: 民谣 Folk, 流行 Pop, 同人音乐 DouJin<br>**播放数**: 798267<br>**粉丝数**: 38<br>**评论数**: 8<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -29,8 +26,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427272803)<br><br>2020-03-17 16:07<br>赞(0) 踩(0) | <div>为什么没有了，致我的世界</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287280706)<br>如意太难  祝我事事心甘<br>2019-05-26 16:09<br>赞(0) 踩(0) | <div>声音好棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379822364)<br>我还没想好要写什么...<br>2019-03-04 11:53<br>赞(0) 踩(0) | <div>所以这个女生照片，是女朋友</div> |

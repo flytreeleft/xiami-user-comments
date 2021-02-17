@@ -71,9 +71,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431126742)<br><br>2020-07-27 23:17<br>赞(0) 踩(0) | <div>现实与否现实 无石无花 无目无思 无谁有我  再我思</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431126742)<br><br>2020-07-27 23:17<br>赞(0) 踩(0) | <div>现实与否现实 无石无花 无目无思 无谁<br><br>有我  再我思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/152815336)<br><br>2020-06-24 23:02<br>赞(0) 踩(0) | <div>瞬间能听起来的曲儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33738684)<br>诸恶莫作，众善奉行<br>2020-06-10 02:38<br>赞(1) 踩(0) | <div>平安大道＝温柔的去死 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33738684)<br>诸恶莫作，众善奉行<br>2020-06-10 02:36<br>赞(1) 踩(0) | <div>来吧 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -85,13 +85,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410587353)<br>我还没想好要写什么...<br>2020-03-08 22:46<br>赞(0) 踩(0) | <div>你不懂我，不懂我怀念的永远只有一个人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4365181)<br>Flyman<br>2020-02-01 11:47<br>赞(3) 踩(0) | <div>喝醉一听 眼泪就慢慢流到嘴边 酸涩的青春 那些人 那些事 都过去了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37061462)<br>看看未来给你什么礼物<br>2019-08-12 10:38<br>赞(0) 踩(0) | <div>有点难过</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50247443)<br>我还没想好要写什么...<br>2019-05-18 09:53<br>赞(0) 踩(0) | <div>平安大道有一个酒馆，你经常去哪眼眯着。无数次单曲循环过后，发现有这首歌在，就有平安的小酒馆在。微醺的感觉，整首歌诗意就像开坛时眩晕。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50247443)<br>我还没想好要写什么...<br>2019-05-18 09:53<br>赞(0) 踩(0) | <div>平安大道有一个酒馆，你经常去哪眼眯着。<br>无数次单曲循环过后，发现有这首歌在，就有平安的小酒馆在。<br>微醺的感觉，整首歌诗意就像开坛时眩晕。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2019-04-27 13:43<br>赞(1) 踩(0) | <div>我们彼此道了平安 忘了道心酸 ​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50247443)<br>我还没想好要写什么...<br>2019-02-28 00:52<br>赞(0) 踩(0) | <div>所以说是诗人，一个人感到悲伤就去悲伤就去平安大道，一个人感到失落就不要去平安大道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73355794)<br>开放、柔软、接纳<br>2018-11-23 22:02<br>赞(0) 踩(0) | <div>被左老师少有的欢快曲子吸引来，但画面还是左老师以前的画风。矛盾的一首歌。喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261713291)<br><br>2018-11-20 14:43<br>赞(0) 踩(0) | <div>这张专辑唯一乍一听有点好听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327912804)<br>NAoJIAo小棍儿<br>2018-09-27 18:08<br>赞(1) 踩(0) | <div>一个人感到悲伤就去沿江西路</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35497703)<br>暂无签名~<br>2018-07-13 16:08<br>赞(0) 踩(0) | <div>你会感觉有种东西在向你袭来不是失落只是很悲伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35497703)<br>暂无签名~<br>2018-07-13 16:08<br>赞(0) 踩(0) | <div>你会感觉有种东西在向你袭来<br>不是失落只是很悲伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15181316)<br>你连勇气都没有，你还有什...<br>2018-07-07 13:37<br>赞(1) 踩(0) | <div>这是哪的口音？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5168071)<br>Keep walking<br>2018-09-06 10:48<br>赞(0) 踩(0) | <div>南京的，大哥。李志、P.K.14乐队也是南京的，都是牛逼哄哄的人物</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15181316)<br>你连勇气都没有，你还有什...<br>2018-09-07 12:12<br>赞(0) 踩(0) | <div><q><b>野孩子说：</b></q></div> |
@@ -101,7 +101,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8854099)<br><br>2018-08-28 16:21<br>赞(0) 踩(0) | <div>从头听，因为左老师在讲故事，最好配合狂犬吠墓一起食用</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5168071)<br>Keep walking<br>2018-09-06 10:47<br>赞(0) 踩(0) | <div>从第一张专辑，一张一张地听吧，他有自己的官网，有很多乐评，豆瓣上也有乐评，听不懂就看乐评。他还出了本自传《忧伤的老板》，想了解他，必看自传和访谈，跟他喝酒有点难。听完了，看完了，思考完了，无论你喜欢不喜欢这个人，认同不认同这个人，你都会对嘲笑左小祖咒的人，置之一笑。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47584452)<br><br>2018-03-10 10:11<br>赞(0) 踩(0) | <div>唱腔好听有什么用？盐失去了味道就什么都不是。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47584452)<br><br>2018-03-07 20:24<br>赞(25) 踩(0) | <div>他的歌很毒的。一开始听得时候:我擦，这是人唱的吗？根本就没法欣赏啊！听了一会以后:嗯，配乐还不错，歌词写的也很好，就是唱的贼难听听了三遍以后：哎呦我擦，他这这么唱也很带感啊！听了他的好多首以后：卧槽，停不下来了，好有才！听了几个月以后：完了，被洗脑了，其他的流行音乐听不进去了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47584452)<br><br>2018-03-07 20:24<br>赞(25) 踩(0) | <div>他的歌很毒的。<br>一开始听得时候:我擦，这是人唱的吗？<br>根本就没法欣赏啊！<br>听了一会以后:嗯，配乐还不错，歌词写的也很好，就是唱的贼难听<br>听了三遍以后：哎呦我擦，他这这么唱也很带感啊！<br>听了他的好多首以后：卧槽，停不下来了，好有才！<br>听了几个月以后：完了，被洗脑了，其他的流行音乐听不进去了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338362824)<br><br>2019-06-01 14:54<br>赞(0) 踩(0) | <div>其实，你再歌厅喝高了，然后唱的歌也是这个味儿。只不过，你现在是醒着听左爷 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250737308)<br>我还没想好要写什么...<br>2018-03-06 17:58<br>赞(1) 踩(0) | <div>12年听的这首歌 今天重新听还是觉得很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47584452)<br><br>2018-03-03 11:15<br>赞(0) 踩(0) | <div>一个人感到爱a～就去平安大道 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -118,12 +118,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7658812)<br>喵～<br>2017-09-11 14:17<br>赞(2) 踩(0) | <div>2011年的一个夜晚 几个小伙伴在合租的房子里一起开黑打dota  电脑里的随机歌单给我直接放了这首。。差点被小伙伴打死。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3182468)<br>你说过几天来砍我 一等就...<br>2017-08-15 06:33<br>赞(3) 踩(0) | <div>老王最后对你说：&amp;ldquo;一个人感到悲伤就去平安大道 ，一个人感到失落就不要去，平安大道。&amp;rdquo;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182251908)<br>能成为密友大概总带着爱<br>2018-06-22 00:52<br>赞(0) 踩(0) | <div>肥肠炸裂！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259608548)<br>我行我素，无的放矢。<br>2017-06-28 21:04<br>赞(0) 踩(0) | <div>一个人感到悲伤就去平安大道一个人感到失落就不要去平安大道好歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259608548)<br>我行我素，无的放矢。<br>2017-06-28 21:04<br>赞(0) 踩(0) | <div>一个人感到悲伤就去平安大道<br>一个人感到失落就不要去平安大道<br>好歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279621837)<br><br>2017-06-16 19:38<br>赞(1) 踩(0) | <div>前奏的音乐比较振奋。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120024520)<br> <br>2017-06-01 11:42<br>赞(0) 踩(0) | <div>前奏响起的感觉真不错，左叔一开口就熄火 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8087108)<br><br>2017-05-24 19:32<br>赞(1) 踩(0) | <div>前两天还问北京人北京到底有没有平安大道，她说那叫平安大街。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9323541)<br> <br>2017-05-09 01:52<br>赞(1) 踩(0) | <div>居然不是999+</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5854459)<br>潮牌https://dw...<br>2017-05-07 10:48<br>赞(3) 踩(0) | <div>挺这歌总觉得很悲伤。。。尤其副歌。。一个人感到悲伤就去平安大道一个人感到失落就不要去平安大道的确 左小的旋律很多都很流畅 只是情感很奇怪 让你心底生出一种不知道什么样的感觉 似曾相识 又似曾不相识。。。好听但不直白也不隐晦 而是在直白和隐晦中摇摆 就是这风格吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5854459)<br>潮牌https://dw...<br>2017-05-07 10:48<br>赞(3) 踩(0) | <div>挺这歌总觉得很悲伤。。。尤其副歌。。<br><br>一个人感到悲伤就去平安大道<br>一个人感到失落就不要去平安大道<br><br>的确 左小的旋律很多都很流畅 只是情感很奇怪 让你心底生出一种不知道什么样的感觉 似曾相识 又似曾不相识。。。好听但不直白也不隐晦 而是在直白和隐晦中摇摆 就是这风格吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/172429)<br><br>2017-04-03 20:26<br>赞(1) 踩(0) | <div>一个人感到失落就得喝一个人感到什么都得喝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51941354)<br>生命是一场濒临死亡的体验...<br>2017-03-31 19:34<br>赞(1) 踩(0) | <div>浓浓的悲伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192651700)<br> <br>2017-03-16 10:11<br>赞(1) 踩(0) | <div>莹莹？</div> |
@@ -135,7 +135,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17719900)<br>请把我的歌带回你的家<br>2016-10-29 00:54<br>赞(0) 踩(0) | <div>雅米蛋糕店</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/491229)<br><br>2016-10-03 21:39<br>赞(1) 踩(0) | <div>还记得和喜欢的女孩子一起走在平安大道上哼着这首歌，还有当我离开你的时候</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43490131)<br><br>2016-08-22 22:06<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10123516)<br><br>2016-07-26 14:07<br>赞(0) 踩(0) | <div>亲爱的朋友当它还不叫平安大道时我的兄弟对我说一个人感到悲伤就去平安大道一个人感到失落就不要去平安大道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10123516)<br><br>2016-07-26 14:07<br>赞(0) 踩(0) | <div>亲爱的朋友<br>当它还不叫平安大道时<br><br>我的兄弟对我说<br><br>一个人感到悲伤<br>就去平安大道<br><br>一个人感到失落<br>就不要去平安大道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45550157)<br><br>2016-07-24 14:24<br>赞(0) 踩(0) | <div>我的兄弟跟我说一个人感到悲伤就去平安大道！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18515620)<br>一人听<br>2016-07-22 22:32<br>赞(0) 踩(0) | <div>哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44185691)<br>安安静静<br>2016-05-22 23:18<br>赞(0) 踩(0) | <div>喜欢这首歌</div> |
@@ -223,7 +223,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5753507)<br>在迷雾中前行，在细雨中奔...<br>2012-05-21 19:12<br>赞(0) 踩(0) | <div>莫名的东西</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6927853)<br><br>2012-05-21 17:39<br>赞(0) 踩(0) | <div>左小祖咒，一个才华横溢的音乐人，这个名字 已经证明一切。他的音乐真的非常不错，怎么会有好多人不知道他呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2964079)<br><br>2012-05-07 09:39<br>赞(0) 踩(0) | <div>虽然我很希望国内的摇滚能崛起但是我就是对左小祖咒不是很来电。。勿拍，难道因为我不是文艺青年？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7455133)<br><br>2012-04-19 18:42<br>赞(0) 踩(0) | <div>你会感觉有种东西在向你袭来不是失落只是很悲伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7455133)<br><br>2012-04-19 18:42<br>赞(0) 踩(0) | <div>你会感觉有种东西在向你袭来<br>不是失落只是很悲伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8694020)<br><br>2012-04-01 21:13<br>赞(0) 踩(0) | <div>不为什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6948534)<br>我还没想好要写什么...<br>2012-03-29 18:20<br>赞(0) 踩(0) | <div>——越老越糊涂了，对自己以前的厌恶也宽容起来。这两天开始沉在这首歌里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23006)<br> <br>2012-03-26 21:01<br>赞(0) 踩(0) | <div>叼，</div> |
@@ -233,15 +233,15 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3649019)<br> <br>2012-01-19 06:35<br>赞(0) 踩(0) | <div>就不要去平安大道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6300866)<br><br>2012-01-03 01:00<br>赞(0) 踩(0) | <div>睡前一曲，晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1422360)<br><br>2011-12-08 19:43<br>赞(0) 踩(0) | <div>一个人感到悲伤就去平安大道。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/549057)<br>我还没想好要写什么...<br>2011-11-15 14:29<br>赞(0) 踩(0) | <div>一个人感到悲伤就去平安大道一个人感到爱就去平安大道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/713930)<br><br>2011-08-22 15:58<br>赞(1) 踩(0) | <div>一个人感到悲伤就去平安大道，一个人感到失落就不要去平安大道因为平安大道只能给你暂时的快乐而不会让你实现成功的梦想</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/549057)<br>我还没想好要写什么...<br>2011-11-15 14:29<br>赞(0) 踩(0) | <div>一个人感到悲伤就去平安大道<br>一个人感到爱就去平安大道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/713930)<br><br>2011-08-22 15:58<br>赞(1) 踩(0) | <div>一个人感到悲伤就去平安大道，一个人感到失落就不要去平安大道<br>因为平安大道只能给你暂时的快乐而不会让你实现成功的梦想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5140236)<br><br>2011-08-20 10:06<br>赞(0) 踩(0) | <div>一个人感到悲伤就去平安大道，一个人感到失落就不要去平安大道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3585283)<br><br>2011-08-17 11:09<br>赞(0) 踩(0) | <div>我的兄弟对我说:一个人感到悲伤就去平安大道一个人感到失落就不要去平安大道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3585283)<br><br>2011-08-17 11:09<br>赞(0) 踩(0) | <div>我的兄弟对我说:<br>一个人感到悲伤就去平安大道<br>一个人感到失落就不要去平安大道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5411855)<br><br>2011-08-14 21:45<br>赞(1) 踩(0) | <div>带上耳机在路上，会听到自己的轻快地快乐与悲伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4461753)<br><br>2011-07-10 21:01<br>赞(0) 踩(0) | <div>忧伤的诗意</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74319)<br>新浪微博：@糖卡torn...<br>2011-06-24 17:22<br>赞(0) 踩(0) | <div>一个人感到悲伤就去平安大道，一个人感到失落就不要去平安大道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/500870)<br><br>2010-08-27 20:30<br>赞(0) 踩(0) | <div>一个人感到悲伤就去平安大道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151580)<br><br>2010-08-17 08:11<br>赞(0) 踩(0) | <div>一个人感到eiiiiii时听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/726108)<br><br>2010-03-13 15:50<br>赞(1) 踩(0) | <div>颓废的气息里有倔强的呼吸</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/389112)<br><br>2009-10-16 12:06<br>赞(1) 踩(0) | <div>手风琴。左小这个怪才，丫的乐器好多我都叫不上名字来，以至我想随便选一首他的作品然后把这个乐器叫做&amp;quot;左小祖咒&amp;quot;。。不过可以肯定的是，他很善于把任何他能搞到的乐器演出中国味，这也和他故意跑调的蠢声音一并成为他的招牌。这首歌开头手风琴一拉出来，立刻奠定了一种温暖的基调。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/389112)<br><br>2009-10-16 12:06<br>赞(1) 踩(0) | <div>手风琴。<br>左小这个怪才，丫的乐器好多我都叫不上名字来，以至我想随便选一首他的作品然后把这个乐器叫做&amp;quot;左小祖咒&amp;quot;。。不过可以肯定的是，他很善于把任何他能搞到的乐器演出中国味，这也和他故意跑调的蠢声音一并成为他的招牌。这首歌开头手风琴一拉出来，立刻奠定了一种温暖的基调。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300403)<br>团哥是也~~<br>2009-08-12 13:43<br>赞(0) 踩(0) | <div>被雷到了</div> |

@@ -47,8 +47,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435227660)<br> <br>2020-08-24 01:40<br>赞(0) 踩(0) | <div>朗朗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435227660)<br> <br>2020-04-19 00:20<br>赞(1) 踩(0) | <div>晴朗天空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246672038)<br>音乐我的灵魂<br>2020-03-24 17:55<br>赞(1) 踩(0) | <div>都很棒的歌手</div> |
@@ -184,8 +184,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118439458)<br>从未见过大海，却梦想成为...<br>2017-10-30 23:16<br>赞(1) 踩(0) | <div>她的笑容如同天空般晴朗！……在我脑海中时而清晰，时而模糊……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7647540)<br><br>2017-10-30 10:00<br>赞(0) 踩(0) | <div>哈哈前两句就惊到我了 好像蓝莲花</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8768508)<br>从来都是真情流露<br>2017-10-27 23:48<br>赞(13) 踩(0) | <div>时间如沙漏般流逝在指尖，转眼已是仲夏。这个夏天，一个人漫无目的地走了很多路，经过很多地方，邂逅形形色色的人和风景。当我们不再年轻时，就这样一起看岁月苍桑的模样。我爱这精彩的世界，交织了太多的悲喜和精彩，如梦幻如空花</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284959)<br>音乐杂食动物<br>2017-10-27 23:30<br>赞(4) 踩(0) | <div>江湾镇上晓起，有“中国茶文化第一村”之美誉。穿过下晓起村，一条青石古道延伸至远处，路尽即是上晓起。此处自古便是徽商往婺源、达安徽必经之路，至今仍可见岁月的车轮留下的深深凹痕。初春的上晓起，漂浮在淡淡雾霭里，四下无游人，入眼皆是茶园、茶亭、运茶古道、灵泉古井、运茶独轮车、徽派古宅......一株参天古樟静静立于村头，偶尔有农人经过。一湾小溪将村子从中划做两边。捣衣的妇人走过石桥，下到溪边，隐入柳岸桃花丛，隐约传来细碎的笑语。偶尔几片花瓣飘落，静静顺水而去，鱼儿便浮游水面争抢啄食。数只鸭子在阳光下梳罢羽毛，摇摇摆摆走进水里，离岸远去。流水人家不远，阡陌纵横，茶园层层，和风低吟。油菜花早已开得漫山遍野，不知不觉间没入那灿灿金黄，回望，山峦墨色，淡雾缭绕，黛瓦白墙几笔勾勒的线条，素雅如泼墨山水画，不觉痴了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9028433)<br><br>2017-10-27 23:08<br>赞(0) 踩(0) | <div>翻了几首老歌来听，【晴朗】的歌词，特别适合描述最近看微博的心情。。。一切就象是电影比电影还要精彩如此真实的场景让我分不出悲喜。。。。我爱这精彩的世界交织着太多的悲喜我爱这精彩的电影如梦幻如空花我那总沉默的朋友你让我感觉到力量</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284959)<br>音乐杂食动物<br>2017-10-27 23:30<br>赞(4) 踩(0) | <div>江湾镇上晓起，有“中国茶文化第一村”之美誉。穿过下晓起村，一条青石古道延伸至远处，路尽即是上晓起。此处自古便是徽商往婺源、达安徽必经之路，至今仍可见岁月的车轮留下的深深凹痕。<br>初春的上晓起，漂浮在淡淡雾霭里，四下无游人，入眼皆是茶园、茶亭、运茶古道、灵泉古井、运茶独轮车、徽派古宅......一株参天古樟静静立于村头，偶尔有农人经过。一湾小溪将村子从中划做两边。捣衣的妇人走过石桥，下到溪边，隐入柳岸桃花丛，隐约传来细碎的笑语。偶尔几片花瓣飘落，静静顺水而去，鱼儿便浮游水面争抢啄食。数只鸭子在阳光下梳罢羽毛，摇摇摆摆走进水里，离岸远去。<br>流水人家不远，阡陌纵横，茶园层层，和风低吟。油菜花早已开得漫山遍野，不知不觉间没入那灿灿金黄，回望，山峦墨色，淡雾缭绕，黛瓦白墙几笔勾勒的线条，素雅如泼墨山水画，不觉痴了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9028433)<br><br>2017-10-27 23:08<br>赞(0) 踩(0) | <div>翻了几首老歌来听，【晴朗】的歌词，特别适合描述最近看微博的心情。。。一切就象是电影<br>比电影还要精彩<br>如此真实的场景<br>让我分不出悲喜<br>。。。。我爱这精彩的世界<br>交织着太多的悲喜<br>我爱这精彩的电影<br>如梦幻如空花<br>我那总沉默的朋友<br>你让我感觉到力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213612982)<br>不介意颠沛，远胜过傀儡，...<br>2017-10-24 00:58<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png">好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288581962)<br><br>2017-10-17 15:24<br>赞(1) 踩(0) | <div>原来竟然是老狼的原作  初中时许巍的晴朗 午休晒着太阳  舒服啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54336286)<br><br>2017-10-22 08:03<br>赞(0) 踩(0) | <div>许巍创作，老狼原唱</div> |
@@ -278,12 +278,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9239707)<br>一人一宇宙<br>2014-11-30 11:24<br>赞(0) 踩(0) | <div>等风来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14620955)<br>叫我短笛大魔王<br>2014-11-17 08:38<br>赞(1) 踩(0) | <div>到底是老狼还是许巍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32663728)<br><br>2014-11-06 18:35<br>赞(1) 踩(0) | <div>老狼的声音配上许巍词曲，真棒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/953251)<br>生生不息的呼吸<br>2014-10-26 12:24<br>赞(0) 踩(0) | <div>充满悬念的生活,击打我的心.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/953251)<br>生生不息的呼吸<br>2014-10-26 12:24<br>赞(0) 踩(0) | <div>充满悬念的生活,<br>击打我的心.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29080200)<br><br>2014-10-21 18:01<br>赞(54) 踩(0) | <div>更喜欢许巍的版本。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42650966)<br><br>2014-10-17 15:00<br>赞(1) 踩(0) | <div>有力量的一首歌比作者许巍唱的更有味道</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40513461)<br>暂无签名~<br>2015-04-18 00:15<br>赞(0) 踩(0) | <div>我喜欢许巍唱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2591960)<br><br>2014-10-15 22:34<br>赞(1) 踩(0) | <div>比许巍的有力量，许巍的太安静，更喜欢这个版本</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2014-10-02 10:40<br>赞(1) 踩(0) | <div>只因那利刃般的女人她穿过我的心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2014-10-02 10:40<br>赞(1) 踩(0) | <div>只因那利刃般的女人<br>她穿过我的心</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49018395)<br><br>2015-09-21 19:50<br>赞(0) 踩(0) | <div>许巍版的把利刃改成了春天</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73175874)<br><br>2015-10-11 14:17<br>赞(0) 踩(0) | <div><q><b>.................说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7911532)<br><br>2014-09-19 11:44<br>赞(0) 踩(0) | <div>老狼翻唱的版本是另一种洒脱的感觉</div> |
@@ -362,11 +362,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12157998)<br>暂无签名~<br>2013-05-15 16:21<br>赞(0) 踩(0) | <div>...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11389473)<br>Bye bye，beau...<br>2013-05-08 10:50<br>赞(0) 踩(0) | <div>赞!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14416374)<br><br>2013-05-08 05:50<br>赞(0) 踩(0) | <div>窗外在下雨，但我们心里要有一个晴朗的天空。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11538032)<br><br>2013-05-06 15:21<br>赞(0) 踩(0) | <div>我爱这精彩的世界/交织着太多的悲喜/我爱这精彩的电影/如梦幻如空花/我那总沉默的朋友/你让我感觉到力量/曾在我心中的伤口/如过眼的云烟</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11538032)<br><br>2013-05-06 15:21<br>赞(0) 踩(0) | <div>我爱这精彩的世界/交织着太多的悲喜/我爱这精彩的电影/如梦幻如空花/<br>我那总沉默的朋友/你让我感觉到力量/曾在我心中的伤口/如过眼的云烟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231812)<br>我还没想好要写什么...<br>2013-05-03 12:29<br>赞(0) 踩(0) | <div>天气好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7215952)<br><br>2013-04-28 08:48<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12678239)<br>杂家<br>2013-04-17 21:01<br>赞(0) 踩(0) | <div>这首《晴朗》有很强的许巍的感觉，甚至分不清你听的是老狼还是许巍。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11113564)<br><br>2013-04-16 17:24<br>赞(0) 踩(0) | <div>这是初次的感觉，我想了解这世界过了很久再听这首《晴朗》，感觉却不一样了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11113564)<br><br>2013-04-16 17:24<br>赞(0) 踩(0) | <div>这是初次的感觉，我想了解这世界<br>过了很久再听这首《晴朗》，感觉却不一样了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2261730)<br>Be brave<br>2013-04-07 15:27<br>赞(0) 踩(0) | <div>阴雨绵绵十几天后第一次见到太阳的下午，夹带着春寒料峭。无比搭！我想了解这世界~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13781038)<br><br>2013-04-02 09:12<br>赞(0) 踩(0) | <div>这样的天气，适合这样的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53610)<br><br>2013-03-28 11:04<br>赞(0) 踩(0) | <div>2003年，春游的大巴车，非典</div> |
@@ -377,7 +377,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119737)<br><br>2013-01-09 18:36<br>赞(0) 踩(0) | <div>太许巍了好烦啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2812940)<br>珍珠星上的太阳虫<br>2013-01-07 08:54<br>赞(0) 踩(0) | <div>我人生另一个白日梦是希望看到老狼、许巍和朴树同台献唱 www</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9258235)<br>城堡<br>2013-01-06 12:49<br>赞(0) 踩(0) | <div>依然是老狼的文艺范 不失水准</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-01-05 10:54<br>赞(0) 踩(0) | <div>这是初次的感觉好像天空般晴朗只因那利刃般的女人她穿过我的心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-01-05 10:54<br>赞(0) 踩(0) | <div>这是初次的感觉<br>好像天空般晴朗<br>只因那利刃般的女人<br>她穿过我的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3046109)<br><br>2012-12-18 23:45<br>赞(0) 踩(0) | <div>换了耳机后才听清贝斯的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1087165)<br><br>2012-12-18 17:05<br>赞(0) 踩(0) | <div>那一天坐在行驶的车上，调频广播里刚好播着这一首晴朗。我依稀记得，那天天很蓝，是我最喜欢的颜色，脑海里想起让人温暖的朋友。那样的感觉总要以一个方式记录。或许，那样就极好了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8870103)<br><br>2012-12-17 10:22<br>赞(0) 踩(0) | <div>怀旧~~</div> |
@@ -446,7 +446,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3775726)<br><br>2011-05-04 09:05<br>赞(0) 踩(0) | <div>我也错了，不过是许巍写的，很不错！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106721)<br><br>2011-05-11 00:33<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3279091)<br><br>2011-04-14 12:47<br>赞(0) 踩(0) | <div>好久没听老狼了，这么优秀的音乐，谢谢你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1768237)<br><br>2011-04-06 12:34<br>赞(0) 踩(0) | <div>少不了的晴朗！怀念大学时的春光！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1768237)<br><br>2011-04-06 12:34<br>赞(0) 踩(0) | <div>少不了的晴朗！<br>怀念大学时的春光！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3087214)<br><br>2011-04-02 21:54<br>赞(0) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3123876)<br><br>2011-03-09 11:35<br>赞(0) 踩(0) | <div>一切就像是电影，比电影还精彩……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1138466)<br><br>2011-02-22 16:34<br>赞(0) 踩(0) | <div>今天天气真好，刚刚逃班去园区里晃了一圈，顺便给老友打个电话聊聊天~~此时此刻，最适合听的歌，老狼的《晴朗》~</div> |
@@ -471,6 +471,6 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/704580)<br><br>2010-03-24 16:17<br>赞(0) 踩(0) | <div>在岁月渐逝的时节，回首难忘那时的眷恋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311044)<br>白天看廟，晚上睡覺。<br>2009-11-04 22:55<br>赞(0) 踩(0) | <div>喜欢老狼，喜欢许巍。没有理由，就为那动人心肠的嗓音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/448301)<br><br>2009-10-18 14:23<br>赞(0) 踩(0) | <div>咋没新歌了喃</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2009-10-16 22:32<br>赞(0) 踩(0) | <div>“我那总沉默的朋友，你让我感觉到力量。”就这一句。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2009-10-16 22:32<br>赞(0) 踩(0) | <div>“我那总沉默的朋友，你让我感觉到力量。”<br>就这一句。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-09-28 21:17<br>赞(0) 踩(0) | <div>许巍来了。。。但是我还是喜欢老狼这版。。。许巍把利刃般的女人改成了春天般的女人。。。但是女人就是利刃。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2009-06-13 20:17<br>赞(0) 踩(0) | <div>作词:许巍 作曲:许巍</div> |

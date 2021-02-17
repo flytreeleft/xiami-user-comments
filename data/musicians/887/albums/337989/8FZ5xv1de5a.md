@@ -68,8 +68,8 @@ Drum：关菲
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337882102)<br><br>2020-06-13 23:29<br>赞(0) 踩(0) | <div>青春已逝，年华老去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45820134)<br>非主流创作<br>2020-04-08 19:34<br>赞(0) 踩(0) | <div>e</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441336900)<br><br>2020-03-15 21:15<br>赞(0) 踩(0) | <div>再见，青春</div> |
@@ -77,7 +77,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302422764)<br><br>2019-12-22 08:06<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284699075)<br><br>2019-11-24 15:22<br>赞(1) 踩(0) | <div>在海外突然听到这首歌曲，怀念青春，再见青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302422764)<br><br>2019-11-08 09:52<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84908622)<br>一只找不到路口的单身狗。<br>2019-08-07 13:40<br>赞(1) 踩(0) | <div>坐在火车上，突然脑海里响起了这个旋律，情不自禁地跟着哼唱着。又是流浪，又是一个陌生的城市，终于意识到自己已经不是那个20几岁的热血青年了，意识到自己需要一个停栖的窝。无数个辗转难眠的夜晚，不会吸烟的我，只是不停地叹息。孑然一身的我，继续着漂泊的脚步，继续迷茫。再见，青春。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84908622)<br>一只找不到路口的单身狗。<br>2019-08-07 13:40<br>赞(1) 踩(0) | <div>坐在火车上，突然脑海里响起了这个旋律，情不自禁地跟着哼唱着。<br>又是流浪，又是一个陌生的城市，终于意识到自己已经不是那个20几岁的热血青年了，意识到自己需要一个停栖的窝。<br>无数个辗转难眠的夜晚，不会吸烟的我，只是不停地叹息。<br>孑然一身的我，继续着漂泊的脚步，继续迷茫。<br>再见，青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338795852)<br><br>2019-06-25 10:22<br>赞(1) 踩(0) | <div>何用声声叹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52108488)<br> <br>2019-02-13 21:53<br>赞(3) 踩(0) | <div>这首歌都在尾奏了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14022518)<br><br>2018-12-26 00:50<br>赞(1) 踩(0) | <div>再见，青春</div> |
@@ -87,7 +87,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51876054)<br>王三运李老八袁先隆全部疯...<br>2018-03-10 16:47<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201058686)<br>我还没想好要写什么...<br>2018-01-07 05:53<br>赞(1) 踩(0) | <div>后面差不多2分半的solo肆意宣泄着情感，听得心都发麻，这才是这首歌真正的精华所在！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265567003)<br><br>2017-12-11 11:19<br>赞(1) 踩(0) | <div>多么希望有一天突然惊醒， 发现自己是在小学的一节课上睡着了， 现在经历的一切都是一场梦， 桌上满是你的口水。 你告诉同桌，说做了一个好长好长的梦。 同桌骂你白痴，叫你好好听课。 你看着窗外的球场， 一切都那么熟悉， 一切还充满希望&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8245972)<br>昭事上帝，聿怀多福。<br>2017-10-30 10:22<br>赞(1) 踩(0) | <div>“我曾随迷失的航船沉没，陷入璀璨虚空的碎梦，沉入乱欲冰封的深谷，随烂漫的星群沉没。我看着满目创痍的繁华，感到痛彻心肺的惆怅，听着心在爆裂的巨响，陷入深不见底的悲伤。”看到这几句歌词，感同身受，不知还有谁能把迷茫写得如此深刻。“我们都如羊走迷、各人偏行己路．耶和华使我们众人的罪孽都归在他身上。”（以赛亚书53章6节）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8245972)<br>昭事上帝，聿怀多福。<br>2017-10-30 10:22<br>赞(1) 踩(0) | <div>“我曾随迷失的航船沉没，<br>陷入璀璨虚空的碎梦，<br>沉入乱欲冰封的深谷，<br>随烂漫的星群沉没。<br><br>我看着满目创痍的繁华，<br>感到痛彻心肺的惆怅，<br>听着心在爆裂的巨响，<br>陷入深不见底的悲伤。”<br><br>看到这几句歌词，感同身受，不知还有谁能把迷茫写得如此深刻。<br><br>“我们都如羊走迷、各人偏行己路．耶和华使我们众人的罪孽都归在他身上。”（以赛亚书53章6节）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7132116)<br><br>2017-10-30 10:17<br>赞(0) 踩(0) | <div>最近真的很喜欢这首歌！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15746600)<br><br>2017-10-30 10:15<br>赞(1) 踩(0) | <div>还在上班....还在上班...@NeeHomme @艾尚可米小屋 @装纯的乖大叔 @Kostenlose-Tiger @毵豕鸸嫠疋衽矧彘 @bahamutjason @西-门-公-纸 @卡西哥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8131318)<br><br>2017-10-28 00:19<br>赞(0) 踩(0) | <div>最近喜欢上了 因为歌词碰到心坎里去了</div> |
@@ -106,7 +106,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207871715)<br>好看的皮囊嫌你丑 有趣的...<br>2017-09-02 00:37<br>赞(0) 踩(0) | <div>再见了青春，再见了我曾经的朋友，再见了我曾经的爱人，再见了曾经的我 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49263693)<br><br>2017-08-29 23:07<br>赞(1) 踩(0) | <div>青春已经没了踪影  孩子和妻子已经睡着    带上耳机无目的乱翻  看到这歌名  忍不住又一次点开&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;   一声叹息</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138942452)<br><br>2017-07-20 20:16<br>赞(2) 踩(0) | <div>真的被这首歌感动了，唱出了年轻一代的迷茫与伤痛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6952505)<br><br>2017-07-15 12:52<br>赞(1) 踩(0) | <div>曹德磊，炒冷饭这种事我们这些业余的干干也就罢了，以汪的技术和乐理水平还搞这个，太不真诚了。现在每张专辑词都要苦逼怨妇似的哭两鼻子，掸掸土再飞的更离谱。当大街上卖菜的大妈都会飞得更高了，你还指望他给你共鸣么。好作品和受欢迎不矛盾，没了原创和真诚的音乐人是可耻的。附《晚安北京》歌词，跟这个没一句不变的，别用复制毛片的手段侮辱青春这个词了我将在今夜的雨中睡去伴着国产压路机的声响伴着伤口迸裂的巨响在今夜的雨中睡去晚安北京晚安所有未眠的人们风会随子夜的钟声北去带着街上乞讨的男孩带着路旁破碎的轮胎随子夜的钟声北去晚安北京晚安所有未眠的人们晚安北京晚安所有孤独的人们</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6952505)<br><br>2017-07-15 12:52<br>赞(1) 踩(0) | <div>曹德磊，炒冷饭这种事我们这些业余的干干也就罢了，以汪的技术和乐理水平还搞这个，太不真诚了。现在每张专辑词都要苦逼怨妇似的哭两鼻子，掸掸土再飞的更离谱。当大街上卖菜的大妈都会飞得更高了，你还指望他给你共鸣么。好作品和受欢迎不矛盾，没了原创和真诚的音乐人是可耻的。<br><br>附《晚安北京》歌词，跟这个没一句不变的，别用复制毛片的手段侮辱青春这个词了<br>我将在今夜的雨中睡去<br>伴着国产压路机的声响<br>伴着伤口迸裂的巨响<br>在今夜的雨中睡去<br>晚安北京<br>晚安所有未眠的人们<br>风会随子夜的钟声北去<br>带着街上乞讨的男孩<br>带着路旁破碎的轮胎<br>随子夜的钟声北去<br>晚安北京<br>晚安所有未眠的人们<br>晚安北京<br>晚安所有孤独的人们</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44830503)<br>hurts instea...<br>2017-09-28 22:49<br>赞(0) 踩(0) | <div>我倒觉得这首歌是他为了纪念《晚安北京》写的，后面的电吉也是这样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271131981)<br><br>2017-07-09 09:29<br>赞(0) 踩(0) | <div>他汪峰现在再也写不出这样的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261093886)<br><br>2017-03-21 10:54<br>赞(0) 踩(0) | <div>好歌，不用多说。</div> |
@@ -122,7 +122,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43001192)<br>摇滚青春，永远不死。<br>2016-02-06 23:48<br>赞(1) 踩(0) | <div>怎么听不了？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35142283)<br><br>2015-10-30 17:33<br>赞(0) 踩(0) | <div>我爱你，王鹏。        KQ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77338434)<br>壁立千仞，无欲则刚！春梦...<br>2015-10-27 22:36<br>赞(0) 踩(0) | <div>再见，青春。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36385177)<br><br>2015-10-23 20:57<br>赞(0) 踩(0) | <div>再见 青春再见灿烂的忧伤再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36385177)<br><br>2015-10-23 20:57<br>赞(0) 踩(0) | <div>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75393914)<br><br>2015-10-21 16:14<br>赞(0) 踩(0) | <div>再见青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32567150)<br><br>2015-10-18 23:46<br>赞(0) 踩(0) | <div>再见，青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30634786)<br>在老去的过程中每天都有音...<br>2015-10-13 18:57<br>赞(0) 踩(0) | <div>静静的听静静的回忆，跟青春告别向往事挥手泛泪的眼望向天空……</div> |
@@ -157,7 +157,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52015453)<br>你被劈开的疼痛在大地弥漫<br>2015-08-23 12:40<br>赞(0) 踩(0) | <div>作为一只汪峰晚年黑 我觉得这首不错其实.......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41152250)<br>暂无签名~<br>2015-08-23 01:50<br>赞(0) 踩(0) | <div>北京爱情故事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41152250)<br>暂无签名~<br>2015-08-23 01:49<br>赞(0) 踩(0) | <div>北京爱情故事</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40865049)<br>带上耳朵去流浪<br>2015-08-22 23:04<br>赞(7) 踩(0) | <div>那时我们有梦，关于文学，关于爱情，关于穿越世界的旅行。如今我们深夜饮酒，杯子碰到一起，都是梦破碎的声音。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40865049)<br>带上耳朵去流浪<br>2015-08-22 23:04<br>赞(7) 踩(0) | <div>那时我们有梦，<br>关于文学，<br>关于爱情，<br>关于穿越世界的旅行。<br><br>如今我们深夜饮酒，<br>杯子碰到一起，<br>都是梦破碎的声音。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52015453)<br>你被劈开的疼痛在大地弥漫<br>2015-08-23 12:39<br>赞(0) 踩(0) | <div>很喜欢北岛这首诗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40865049)<br>带上耳朵去流浪<br>2015-08-23 14:32<br>赞(0) 踩(0) | <div><q><b>人间失格说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50002171)<br><br>2015-09-07 00:23<br>赞(0) 踩(0) | <div>落网17期?_?</div> |
@@ -180,7 +180,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52829140)<br><br>2015-07-22 10:28<br>赞(0) 踩(0) | <div>再见了，我的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38640339)<br>我想好写什么了……<br>2015-07-17 00:01<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10840299)<br><br>2015-07-16 22:32<br>赞(0) 踩(0) | <div>大学毕业，外省工作。感觉青春已经没了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9338142)<br>纵使时光飞逝而过，在人的...<br>2015-07-15 20:36<br>赞(10) 踩(0) | <div>还记得14年8月中旬我们在版纳吗？拿着盆喝啤酒，大家都高了，我还吐了一组。后面醉醺醺的开车回酒店，车里放的这首歌，一直循环播放，扯着嗓子一直在唱。莫名其妙的情绪涌了上来。印象非常深刻。现在想起来那依然是整个2014年最开心的一个晚上。或者说我们几个在一起的几个月都是最开心的时候。时光漫步。时光万岁。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9338142)<br>纵使时光飞逝而过，在人的...<br>2015-07-15 20:36<br>赞(10) 踩(0) | <div>还记得14年8月中旬我们在版纳吗？<br>拿着盆喝啤酒，大家都高了，我还吐了一组。<br>后面醉醺醺的开车回酒店，车里放的这首歌，一直循环播放，扯着嗓子一直在唱。<br>莫名其妙的情绪涌了上来。<br>印象非常深刻。<br>现在想起来那依然是整个2014年最开心的一个晚上。<br>或者说我们几个在一起的几个月都是最开心的时候。<br>时光漫步。<br>时光万岁。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51853852)<br>I'm looking ...<br>2015-07-14 19:34<br>赞(1) 踩(0) | <div>天哪这首歌太有感觉了 居然不火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44205875)<br><br>2015-07-11 16:05<br>赞(0) 踩(0) | <div>因曲悲伤感觉涌上心头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50086789)<br>明天冰雪封山的时候，我也...<br>2015-07-10 09:41<br>赞(0) 踩(0) | <div>再见青春，再见美丽的疼痛 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -224,13 +224,13 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10495358)<br>秋凉天气<br>2015-03-29 10:21<br>赞(0) 踩(0) | <div>如诗一样美好，如落叶一样哀伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36000493)<br>暂无签名~<br>2015-03-28 10:40<br>赞(0) 踩(0) | <div>歌不错，但人太假，给我感觉就是无痛呻吟，别喷我。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29390056)<br>念念不忘 必有回响 <br>2016-07-08 11:24<br>赞(0) 踩(0) | <div>来北京漂两年就能体会到了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42303192)<br>情不重，不生婆娑。<br>2015-03-13 21:05<br>赞(0) 踩(0) | <div>再见 青春再见灿烂的忧伤再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42303192)<br>情不重，不生婆娑。<br>2015-03-13 21:05<br>赞(0) 踩(0) | <div>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39237572)<br>御龙翱翔天下游，孤帆云影...<br>2015-03-06 00:51<br>赞(0) 踩(0) | <div>中间的solo真心不错，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13742378)<br><br>2015-03-05 04:12<br>赞(0) 踩(0) | <div>看完北爱，歌不错。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3566813)<br>菩萨，祝您身体健康！34...<br>2015-03-04 21:10<br>赞(0) 踩(0) | <div>一度很喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10721683)<br>音乐改变生活！<br>2015-03-01 12:19<br>赞(0) 踩(0) | <div>再见青春 - 汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45053862)<br>暂无签名~<br>2015-02-16 10:05<br>赞(0) 踩(0) | <div>再见青春，再见美丽的疼痛。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1754463)<br><br>2015-02-09 14:31<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发/我将在今夜的雨中睡去伴着铁皮车厢的摇晃/伴着国产压路机的声音伴着野菊花开的芬芳/伴着伤口迸裂的巨响在梦碎的黎明出发/在今夜的雨中睡去再见 青春/晚安 北京再见美丽的疼痛 /晚安 所有未眠的人们这是在向自己致敬么？意境和气势真心比二十年前差远了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1754463)<br><br>2015-02-09 14:31<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发/我将在今夜的雨中睡去<br>伴着铁皮车厢的摇晃/伴着国产压路机的声音<br>伴着野菊花开的芬芳/伴着伤口迸裂的巨响<br>在梦碎的黎明出发/在今夜的雨中睡去<br><br>再见 青春/晚安 北京<br>再见美丽的疼痛 /晚安 所有未眠的人们<br><br>这是在向自己致敬么？意境和气势真心比二十年前差远了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33250449)<br><br>2015-02-14 20:01<br>赞(0) 踩(0) | <div>你说的对</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44830503)<br>hurts instea...<br>2015-05-23 15:02<br>赞(0) 踩(0) | <div>看来不止我一个人听出来了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44129283)<br><br>2015-02-09 10:17<br>赞(0) 踩(0) | <div>听着心在爆裂的巨响，陷入深不见底的悲伤</div> |
@@ -244,7 +244,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10850905)<br>音乐是为了更好的活着！<br>2014-12-18 14:28<br>赞(0) 踩(0) | <div>再见青春 再见美丽的疼痛！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41312918)<br><br>2014-12-09 17:37<br>赞(0) 踩(0) | <div>谁懂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23218982)<br><br>2014-12-07 17:28<br>赞(0) 踩(0) | <div>好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18159986)<br><br>2014-11-26 14:18<br>赞(0) 踩(0) | <div>再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18159986)<br><br>2014-11-26 14:18<br>赞(0) 踩(0) | <div>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6909996)<br> <br>2014-11-24 17:22<br>赞(1) 踩(0) | <div>谢谢你给我的希望，都是那么的令人绝望...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43530078)<br>明天冰雪封山的时候我也光...<br>2014-11-20 08:13<br>赞(0) 踩(0) | <div>再见青春，再见美丽的疼痛；再见青春，永恒的故乡。青春过后，所有的告别都变得无处告别，所有的离去也都变得无处可去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43530078)<br>明天冰雪封山的时候我也光...<br>2014-11-20 08:10<br>赞(0) 踩(0) | <div>再见青春，美丽的疼痛，再见青春，永恒的故乡。青春过后，所有的告别都变得无处告别，所有的离去也都变得无处可去。</div> |
@@ -256,7 +256,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3587768)<br>个性签名<br>2014-11-06 05:14<br>赞(0) 踩(0) | <div>solo</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39845214)<br><br>2014-10-31 20:37<br>赞(0) 踩(0) | <div>青春像道利劍劃過的傷痕，令人難以忘懷。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39918666)<br><br>2014-10-28 23:22<br>赞(0) 踩(0) | <div>人总有这样的时候，莫名的发火，然后陷入莫名的忧伤。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2038991)<br><br>2014-10-23 22:54<br>赞(0) 踩(0) | <div>solo!solo!solo!只为solo.国产纯solo，再多点吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2038991)<br><br>2014-10-23 22:54<br>赞(0) 踩(0) | <div>solo!solo!solo!<br>只为solo.<br>国产纯solo，再多点吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42932896)<br><br>2014-10-23 17:52<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14152065)<br><br>2014-10-17 04:04<br>赞(0) 踩(0) | <div>爱最后的solo多过歌曲本身</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35982984)<br>暂无签名~<br>2014-10-12 18:24<br>赞(0) 踩(0) | <div>最后solo挺难受的</div> |
@@ -316,14 +316,14 @@ Drum：关菲
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43753074)<br>我还没想好要写什么...<br>2015-12-14 19:39<br>赞(0) 踩(0) | <div><q><b>chidz2013说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21580121)<br>执子之手 漫漫的老<br>2015-12-14 19:57<br>赞(0) 踩(0) | <div><q><b>Gcida说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17087456)<br>耳机是另一听觉器官<br>2013-11-14 09:49<br>赞(0) 踩(0) | <div>《北京爱情故事》主题曲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1119870)<br> <br>2013-11-13 16:13<br>赞(3) 踩(0) | <div>一个摇滚乐手必定有着他自己的爱情自由论，评头论足苛刻指责都是因为他是个公众人物人品论不适用于欣赏音乐的时候，对他的愤怒从何而来？我宁愿对一个情感丰富细腻有才华的人更多包容</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1119870)<br> <br>2013-11-13 16:13<br>赞(3) 踩(0) | <div>一个摇滚乐手必定有着他自己的爱情自由论，评头论足苛刻指责都是因为他是个公众人物<br>人品论不适用于欣赏音乐的时候，对他的愤怒从何而来？<br>我宁愿对一个情感丰富细腻有才华的人更多包容</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20134053)<br><br>2013-11-12 19:45<br>赞(81) 踩(0) | <div>#我站在深秋的黎明出发，伴着铁皮车厢的摇晃# 抛却汪峰的一切人品问题，我还是挺喜欢他的歌曲的。在网络暴民“不黑汪峰就好像不黑国足一样跟不上时尚潮流”的时候，不代表任何观点地点个赞。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2302195)<br> <br>2015-05-27 20:37<br>赞(0) 踩(0) | <div>再见伞队</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224326210)<br><br>2017-09-16 09:20<br>赞(0) 踩(0) | <div>时隔三年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12475317)<br><br>2013-11-11 04:52<br>赞(1) 踩(0) | <div>当别人还在唱单身情歌的时候，梦醒了 再见 青春～很符合现在的自己……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9787855)<br>我还没想好要写什么...<br>2013-11-10 18:29<br>赞(0) 踩(0) | <div>渣男  歌唱好有屁用</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23826391)<br><br>2013-11-05 15:15<br>赞(0) 踩(0) | <div>岁月慢慢流逝，人慢慢沧桑…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3251579)<br><br>2013-11-01 08:28<br>赞(0) 踩(0) | <div>再见，青春，美丽的疼痛！再见，青春，灿烂的忧伤！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3251579)<br><br>2013-11-01 08:28<br>赞(0) 踩(0) | <div>再见，青春，美丽的疼痛！<br>再见，青春，灿烂的忧伤！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2086655)<br>无音乐，不生活。<br>2013-10-31 14:41<br>赞(0) 踩(0) | <div>汪峰出品，不解释。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13232929)<br><br>2013-10-30 23:27<br>赞(0) 踩(0) | <div>点一首歌道晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9729769)<br><br>2013-10-24 00:53<br>赞(0) 踩(0) | <div>五年前因为一首《北京，北京》开始听汪峰，下个月他来上海开演唱会，终于买上了票。技术会更新，人会离开，唯有音乐和艺术历久弥新，作为表达爱最直接永恒的方式。</div> |
@@ -331,7 +331,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25106802)<br><br>2013-10-22 16:18<br>赞(0) 踩(0) | <div>歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24811232)<br><br>2013-10-18 21:43<br>赞(0) 踩(0) | <div>再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10049709)<br><br>2013-10-15 20:30<br>赞(0) 踩(0) | <div>再见青春 再见美丽的疼痛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-10-14 00:07<br>赞(0) 踩(0) | <div>今天看北爱，听到这首，突然感触良久，再见，青春....933992,3762,1151</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-10-14 00:07<br>赞(0) 踩(0) | <div>今天看北爱，听到这首，突然感触良久，再见，青春....<br>933992,3762,1151</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13553951)<br><br>2013-10-13 04:34<br>赞(0) 踩(0) | <div>#随机模式#为什么我现在觉得他不能代表中国的摇滚呢？虽然一度好喜欢他的歌。一张张的听。是我老了还是他变了呢？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7665833)<br><br>2013-12-27 12:42<br>赞(0) 踩(0) | <div>你老了,他也变了....谁又不是呢...我觉得他确实不能代表中国摇滚...因为他的摇滚太国际范儿了...不能代表本土摇滚</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1582321)<br>暂无签名~<br>2014-06-12 15:09<br>赞(0) 踩(0) | <div>他跟确切是摇滚民谣，比较注重旋律了，所以你感觉摇滚味道不浓。有点偏流行，不过她的好作品是真多，也有深度，和情怀，所以呢，是个歌坛大家了，不管他其他负面消息如何</div> |
@@ -350,10 +350,10 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2788999)<br><br>2013-09-20 23:59<br>赞(0) 踩(0) | <div>再见   青春!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270948)<br>这家伙很聪明，什么也没留...<br>2013-09-20 00:48<br>赞(0) 踩(0) | <div>~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8731455)<br><br>2013-09-17 23:23<br>赞(0) 踩(0) | <div>@上头渣 教练送你一首歌好了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1664905)<br><br>2013-09-15 19:27<br>赞(0) 踩(0) | <div>再见 青春再见灿烂的忧伤再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1664905)<br><br>2013-09-15 19:27<br>赞(0) 踩(0) | <div>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20921654)<br><br>2013-09-15 14:24<br>赞(1) 踩(0) | <div>歌词写实，更唱出了沧桑。好歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17342734)<br>没有梦想，何必远方<br>2013-09-13 00:22<br>赞(0) 踩(0) | <div>下一个黎明，出发。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5696779)<br>好色无胆，好酒无量，好钱...<br>2013-09-09 21:37<br>赞(1) 踩(0) | <div>刚刚闲暇时翻出了初中的随笔本，里面的一句句话，一天天的记录，记录着我一天天的改变。我曾经也有过内心的黑暗，阴郁，不过我把它藏在了内心。只有本子忠实的记录着我的迷茫。看着好像哭啊，虽然说好不回忆，但还是想说：“好像回到曾经那段时光，那段哪怕心里阴郁却依旧灿烂的时光。”再见青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5696779)<br>好色无胆，好酒无量，好钱...<br>2013-09-09 21:37<br>赞(1) 踩(0) | <div>刚刚闲暇时翻出了初中的随笔本，里面的一句句话，一天天的记录，记录着我一天天的改变。我曾经也有过内心的黑暗，阴郁，不过我把它藏在了内心。只有本子忠实的记录着我的迷茫。看着好像哭啊，虽然说好不回忆，但还是想说：“好像回到曾经那段时光，那段哪怕心里阴郁却依旧灿烂的时光。”<br>再见青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21360527)<br><br>2013-09-07 11:55<br>赞(0) 踩(0) | <div>再见失去的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4883265)<br><br>2013-09-05 23:12<br>赞(0) 踩(0) | <div>再见青春，那些美丽的人儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4883265)<br><br>2013-09-05 23:05<br>赞(0) 踩(0) | <div>再见青春，再见那些美丽的人儿</div> |
@@ -368,12 +368,12 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12791792)<br><br>2013-08-26 16:06<br>赞(0) 踩(0) | <div>word failed</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9374357)<br>Walk on<br>2013-08-24 00:31<br>赞(0) 踩(0) | <div>09年秋天，第一次在武汉出租车上听到这首歌，心中彻骨寒冷，暗叹我就非得如此长大？——到此间方算明白，纵有万分自信，终究是敌不过的是时间，还有命运。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431485)<br>不可说的心事 如香缓烧 ...<br>2013-08-21 20:16<br>赞(0) 踩(0) | <div>其实偶很稀饭汪峰老师的，内敛型的。第一期的时候真有想替那些学员选汪峰的冲动，哈哈。三句经典台词很适合汪老师，怎样都喜欢。不许说我们汪老师的坏话！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18657885)<br><br>2013-08-18 00:40<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发伴着铁皮车厢的摇晃伴着野菊花开的芬芳在梦碎的黎明出发</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18657885)<br><br>2013-08-18 00:40<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发<br>伴着铁皮车厢的摇晃<br>伴着野菊花开的芬芳<br>在梦碎的黎明出发</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353560)<br><br>2013-08-17 20:45<br>赞(0) 踩(0) | <div>公司大卡秀海选有男生简直翻版了汪峰的北京北京，好期待他下一场唱这首再见青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6795330)<br><br>2013-08-15 13:18<br>赞(1) 踩(0) | <div>当我可以无限循环这样的歌的时候，我发现，也许真的，老了，累了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17807989)<br><br>2013-08-09 10:53<br>赞(0) 踩(0) | <div>晚上听，很安静……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7884925)<br><br>2013-08-07 22:11<br>赞(0) 踩(0) | <div>再见吧，青春，永恒的迷惘，明媚的忧伤，都再见吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-08-07 14:58<br>赞(0) 踩(0) | <div>再见 青春再见美丽的疼痛再见 青春永远的故乡再见 青春再见灿烂的忧伤再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-08-07 14:58<br>赞(0) 踩(0) | <div>再见 青春<br>再见美丽的疼痛<br>再见 青春<br>永远的故乡<br><br>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-08-07 13:00<br>赞(0) 踩(0) | <div>不说再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18490488)<br><br>2013-08-07 00:11<br>赞(0) 踩(0) | <div>最近，告别青春的音乐电影大行其道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5397342)<br><br>2013-08-04 09:05<br>赞(0) 踩(0) | <div>好听</div> |
@@ -404,7 +404,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13187120)<br><br>2013-06-24 21:39<br>赞(0) 踩(0) | <div>@茶馆酒仙@斗侬蟑螂 分享一首好歌。不要一天到晚拉讲了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11099949)<br><br>2013-06-16 04:38<br>赞(0) 踩(0) | <div>祝天下父亲青春健康</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/965959)<br><br>2013-06-15 19:35<br>赞(0) 踩(0) | <div>听着听着就泪流满面</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16015869)<br><br>2013-06-14 00:29<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发伴着铁皮车厢的摇晃伴着野菊花开的芬芳在梦碎的黎明出发再见 青春再见美丽的疼痛再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16015869)<br><br>2013-06-14 00:29<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发<br>伴着铁皮车厢的摇晃<br>伴着野菊花开的芬芳<br>在梦碎的黎明出发<br><br>再见 青春<br>再见美丽的疼痛<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11977937)<br><br>2013-06-13 21:12<br>赞(0) 踩(0) | <div>今天晚上没有月亮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15977206)<br><br>2013-06-11 20:26<br>赞(0) 踩(0) | <div>找不到微博直接分享歌曲的了！手机的还搜索不到！绝了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15288064)<br><br>2013-06-09 21:43<br>赞(0) 踩(0) | <div>青春是那么易逝，当你觉得它已经流走的时候，青春就真的不见了</div> |
@@ -420,7 +420,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2475829)<br><br>2013-05-20 01:09<br>赞(0) 踩(0) | <div>再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14832525)<br><br>2013-05-19 00:24<br>赞(0) 踩(0) | <div>分享</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7565829)<br><br>2013-05-18 21:11<br>赞(0) 踩(0) | <div>知道这首歌是《城市画报》安妮宝贝的专栏。那时候我们的喜欢都真诚，真心，多珍贵啊。像青春，美丽与永恒。我在QQ空间写日志，然后我的同桌蒋小燕跟我打电话啦，她说：“我觉得你长大了。”还有比如说，谁不脆弱啊，在那一瞬间挺过来就成功了。那一瞬间她决定跟我打电话，于是成为生命的一瞬间。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2426840)<br><br>2013-05-18 15:40<br>赞(0) 踩(0) | <div>响应一下上一条微博，突然哼起了“再见 青春再见美丽的疼痛再见 青春永远的故乡再见 青春再见灿烂的忧伤再见 青春永恒的迷惘”，汪峰《再见青春》。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2426840)<br><br>2013-05-18 15:40<br>赞(0) 踩(0) | <div>响应一下上一条微博，突然哼起了“再见 青春<br>再见美丽的疼痛<br>再见 青春<br>永远的故乡<br><br>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘”，汪峰《再见青春》。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10530372)<br>huang0167<br>2013-05-15 02:03<br>赞(0) 踩(0) | <div>今天听着这首歌，突然再次想起了最后离开学校的那一刻！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3983849)<br>用低八度秒杀一切撕心裂肺...<br>2013-05-14 15:18<br>赞(0) 踩(0) | <div>虽然此时的我似懂非懂，但也好过后知后觉……恩，珍惜青春，珍惜眼前人，无怨无悔。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8245972)<br>昭事上帝，聿怀多福。<br>2013-05-11 13:20<br>赞(0) 踩(0) | <div>“我们都如羊走迷、各人偏行己路．耶和华使我们众人的罪孽都归在他身上。”（以赛亚书53章6节）</div> |
@@ -431,10 +431,10 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7867441)<br><br>2013-05-05 00:09<br>赞(0) 踩(0) | <div>五四已结束，再见，青春!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8741)<br>@蓝耀栋 微信46826...<br>2013-05-04 23:02<br>赞(1) 踩(0) | <div>这首歌似乎更合适做致青春这类片子的主题曲，不过歌会比电影更有力和故事空间，每个人的青春都是自己的电影</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14484986)<br><br>2013-05-04 13:57<br>赞(0) 踩(0) | <div>才发现今天是5.4青年节了。不知道还能过多少个青年节，还能被称青年称多久。时光溜走，青春不再，我们的流年随着风吹般荏苒而逝。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/644618)<br>暂无签名~<br>2013-05-03 01:51<br>赞(0) 踩(0) | <div>说不清汪峰给我的感觉，即使他唱着的北京，也好像不似我印象中的那个北京，似乎背负了太多沉重，青春带来的都是萧瑟的感觉。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/644618)<br>暂无签名~<br>2013-05-03 01:51<br>赞(0) 踩(0) | <div>说不清汪峰给我的感觉，即使他唱着的北京，也好像不似我印象中的那个北京，<br>似乎背负了太多沉重，青春带来的都是萧瑟的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/978026)<br>Letting go.<br>2013-05-02 21:56<br>赞(0) 踩(0) | <div>看完致青春再来怀念这首歌。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/978026)<br>Letting go.<br>2013-05-02 21:56<br>赞(0) 踩(0) | <div>北京爱情故事的插曲。一开头就把我深深拉入无尽的惆怅伤感中。经历过青春破碎的人，在这首歌里能够找到慰藉。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:44<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发伴着铁皮车厢的摇晃</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:44<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发<br>伴着铁皮车厢的摇晃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3970326)<br>MarkRonson<br>2013-04-28 22:25<br>赞(0) 踩(0) | <div>再见，青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/865466)<br><br>2013-04-27 21:14<br>赞(0) 踩(0) | <div>《北京爱情故事》插曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11086649)<br>给你爱和光<br>2013-04-24 23:33<br>赞(1) 踩(0) | <div>沉浸在青春里的人，不知何谓青春。冲破了青春包围的我，才发现那无忧无虑，肆意挥洒任性的青春。早已成为我的影子，永远只能看着，不能触摸。</div> |
@@ -491,7 +491,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10534467)<br>继续无聊，继续听歌<br>2012-12-23 07:26<br>赞(0) 踩(0) | <div>再见青春，再见忧伤，让我们怀念那些曾经的疯狂的岁月，那些让我们怀念的人...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4416652)<br><br>2012-12-16 14:05<br>赞(0) 踩(0) | <div>不说再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11726893)<br><br>2012-12-13 21:23<br>赞(0) 踩(0) | <div>生命总是五彩斑斓的，生活中总是有得有失，逝去的岁月总是让人依依不舍，那些事那些人倘若在一瞬间都飞灰烟灭，心中遗憾的感觉会不会淡一些。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6848558)<br>咕嘿嘿<br>2012-12-12 23:54<br>赞(0) 踩(0) | <div>/再见 青春再见灿烂的忧伤 /</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6848558)<br>咕嘿嘿<br>2012-12-12 23:54<br>赞(0) 踩(0) | <div>/再见 青春<br>再见灿烂的忧伤 /</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10565335)<br><br>2012-12-12 16:35<br>赞(0) 踩(0) | <div>唱给能懂的人.. 在12.12.12偶尔放肆一次忧伤。晚安～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10889386)<br>死在声音中<br>2012-12-10 02:37<br>赞(0) 踩(0) | <div>看完北爱有点堵，青春的题材即使不沉重也总是会有各种让你堵的结局和方式，晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11618631)<br>有舍有得。<br>2012-12-09 13:55<br>赞(0) 踩(0) | <div>看见</div> |
@@ -512,7 +512,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7294682)<br><br>2012-11-12 21:08<br>赞(0) 踩(0) | <div>上次听这首歌是在一个酒吧，嘈杂，歌手却轻轻的唱着，那时候我有点想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1735691)<br><br>2012-11-12 20:39<br>赞(0) 踩(0) | <div>就此刻…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11464387)<br>为爱而生，我们在路上<br>2012-11-12 20:34<br>赞(0) 踩(0) | <div>梁博的导师</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11246761)<br><br>2012-11-10 19:51<br>赞(1) 踩(0) | <div>多少人走着却困在原地多少人活着却如同死去多少人爱着却好似分离多少人笑着却满含泪滴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11246761)<br><br>2012-11-10 19:51<br>赞(1) 踩(0) | <div>多少人走着却困在原地<br>多少人活着却如同死去<br>多少人爱着却好似分离<br>多少人笑着却满含泪滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7776010)<br><br>2012-11-10 14:49<br>赞(0) 踩(0) | <div>百听不厌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3487641)<br><br>2012-11-10 00:24<br>赞(0) 踩(0) | <div>再见青春…就在今天说再见…再也不见…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10289465)<br>给我好看<br>2012-11-09 14:18<br>赞(0) 踩(0) | <div>再见呗 我的青春~老了后一定是个特不懂事的老奶奶，反正都一把年纪了想干嘛干嘛，碍得着谁，谁又管得着我丫~ 可就不知是否和靖大爷一样九十好几了还思路清爽`#剃头匠#</div> |
@@ -555,7 +555,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4768791)<br><br>2012-09-21 11:27<br>赞(0) 踩(0) | <div>该滚蛋的滚蛋！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7507579)<br><br>2012-09-21 00:39<br>赞(0) 踩(0) | <div>听完青春，再听再见青春，真是凌乱得一塌糊涂啊~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103953)<br><br>2012-09-20 23:52<br>赞(0) 踩(0) | <div>当青春离去，我们该如何告别，怎样祭奠？晚安❤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260442)<br>我还没想好要写什么...<br>2012-09-19 22:49<br>赞(0) 踩(0) | <div>再见 青春再见美丽的疼痛再见 青春永远的故乡再见 青春再见灿烂的忧伤再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260442)<br>我还没想好要写什么...<br>2012-09-19 22:49<br>赞(0) 踩(0) | <div>再见 青春<br>再见美丽的疼痛<br>再见 青春<br>永远的故乡<br><br>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10611813)<br> <br>2012-09-19 18:04<br>赞(0) 踩(0) | <div>我的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6826796)<br><br>2012-09-19 15:49<br>赞(0) 踩(0) | <div>再见，青春，再见，我没有终点的一生。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2873158)<br><br>2012-09-16 20:40<br>赞(0) 踩(0) | <div>再见，青春，永恒的迷惘……</div> |
@@ -566,7 +566,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1491402)<br> <br>2012-09-15 13:49<br>赞(0) 踩(0) | <div>再见，青春！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1642876)<br>懂的越多，懂我的越少<br>2012-09-14 17:17<br>赞(0) 踩(0) | <div>再见...青春...有种酸楚的味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3857936)<br><br>2012-09-13 22:07<br>赞(0) 踩(0) | <div>《北京爱情故事》当中的插曲，旋律与自己的经历有些相似。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4400284)<br>我还没想好要写什么...<br>2012-09-13 21:21<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发。伴着铁皮车厢的摇晃。伴着野菊花开的芬芳。在梦碎的黎明出发。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4400284)<br>我还没想好要写什么...<br>2012-09-13 21:21<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发。<br>伴着铁皮车厢的摇晃。<br>伴着野菊花开的芬芳。<br>在梦碎的黎明出发。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/146451)<br><br>2012-09-13 17:53<br>赞(0) 踩(0) | <div>再见青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3434822)<br><br>2012-09-13 16:25<br>赞(0) 踩(0) | <div>说出了大家的苦闷。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/641369)<br><br>2012-09-09 23:07<br>赞(0) 踩(0) | <div>7年了。。。再见，我人生中最美丽的一段岁月！</div> |
@@ -580,7 +580,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3128038)<br><br>2012-09-01 21:26<br>赞(0) 踩(0) | <div>，，，，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4258877)<br> <br>2012-09-01 16:57<br>赞(0) 踩(0) | <div>伴着铁皮车厢的摇晃/伴着野菊花开的芬芳/出发/我曾迷失/陷入碎梦/沉入深谷/随星群沉没/我看着满目疮痍的繁华/感到痛彻心扉的惆怅/心在爆裂的巨响/陷入深不见底的悲伤/再见美丽的疼痛/再见灿烂的忧伤/再见过往的迷惘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7517407)<br><br>2012-08-30 23:50<br>赞(0) 踩(0) | <div>听到最后一首 恍然这是初中毕业那年在听的碟，已经三年后。三年后他是北爱的插曲， 以及在这个夜晚看一篇中国30年代国宝南迁文章时听到的低叹一声。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10087065)<br><br>2012-08-30 21:08<br>赞(0) 踩(0) | <div>再见 青春再见美丽的疼痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10087065)<br><br>2012-08-30 21:08<br>赞(0) 踩(0) | <div>再见 青春<br>再见美丽的疼痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10428511)<br><br>2012-08-30 16:16<br>赞(0) 踩(0) | <div>~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4296379)<br>我还没想好要写什么...<br>2012-08-30 02:35<br>赞(0) 踩(0) | <div>想到北京爱情故事了...哎..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/865466)<br><br>2012-08-28 23:27<br>赞(0) 踩(0) | <div>配合着 北爱 觉得很有杀伤力！</div> |
@@ -593,7 +593,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7434739)<br>愿化作泥土，不化成眼泪<br>2012-08-23 23:39<br>赞(0) 踩(0) | <div>夜晚的时候，单曲循环这首歌，感觉心被一点点撕扯开……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3462757)<br>我还没想好要写什么...<br>2012-08-22 21:07<br>赞(0) 踩(0) | <div>一条一条慢慢再见。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219457)<br><br>2012-08-20 22:51<br>赞(0) 踩(0) | <div>令人感慨万千</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7645446)<br><br>2012-08-20 22:20<br>赞(0) 踩(0) | <div>20120818：我看着满目创痍的繁华。感到痛彻心扉的惆怅。听着心在爆裂的巨响。陷入深不见底的悲伤。再见 青春。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7645446)<br><br>2012-08-20 22:20<br>赞(0) 踩(0) | <div>20120818：<br>我看着满目创痍的繁华。<br>感到痛彻心扉的惆怅。<br>听着心在爆裂的巨响。<br>陷入深不见底的悲伤。<br>再见 青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9150341)<br>平凡的世界<br>2012-08-20 20:15<br>赞(0) 踩(0) | <div>再见  青春   再见  美丽的疼痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3955570)<br><br>2012-08-20 11:27<br>赞(0) 踩(0) | <div>只是口是心非，伪装倔强。希望所有之后各自美好。再见，关于你；再见，杭州、商丘、郑州、北京、高州、茂名、佛山、清远、深圳、广州；再见，关于美关于痛的青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3955570)<br><br>2012-08-20 00:16<br>赞(0) 踩(0) | <div>有没有那么一瞬间，不需要麻醉而如此般清醒？</div> |
@@ -604,12 +604,12 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9012637)<br>牧羊<br>2012-08-16 15:39<br>赞(0) 踩(0) | <div>喜欢歌曲中传递的淡淡感伤，对青春逝去的无奈，挽留等等</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10103894)<br><br>2012-08-13 20:07<br>赞(0) 踩(0) | <div>草！好TM忧伤… （T_T）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6396127)<br><br>2012-08-13 16:07<br>赞(0) 踩(0) | <div>时光机也带不了你回去即将逝去的青春，赶快把握现在青春的尾巴疯一把吧！@IAMHANZ</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8889944)<br><br>2012-08-13 04:42<br>赞(0) 踩(0) | <div>稍微有点发热，裹着毛毯在发汗，音箱里放着汪峰的《再见青春》。马上就31岁了，真的青春已经走了。以前不知道青春是什么，现在知道了，青春就是和兄弟一起傻逼的日子。可以当兵，可以玩枪，可以叼老板娘，可以坐车满城闲逛，可以殴打派出所协警，可以混黑道，可以只有5块钱的时候饿肚子去给爱的女孩打国际长途，只为了那一句温柔的“喂”。可以看哥们做各种傻逼的事情。同时自己也做着各种傻逼的事情。想起开警车拦街抓醉酒的维族骑摩托车真带感啊，2个维族直接被吓的差点尿裤子了，那时候我们的气势浩南哥也不过如此。终归还是长大了，什么都不重要了。只有钱重要了。再见青春。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8889944)<br><br>2012-08-13 04:42<br>赞(0) 踩(0) | <div>稍微有点发热，裹着毛毯在发汗，音箱里放着汪峰的《再见青春》。<br>马上就31岁了，真的青春已经走了。以前不知道青春是什么，现在知道了，青春就是和兄弟一起傻逼的日子。可以当兵，可以玩枪，可以叼老板娘，可以坐车满城闲逛，可以殴打派出所协警，可以混黑道，<br>可以只有5块钱的时候饿肚子去给爱的女孩打国际长途，只为了那一句温柔的“喂”。可以看哥们做各种傻逼的事情。同时自己也做着各种傻逼的事情。<br>想起开警车拦街抓醉酒的维族骑摩托车真带感啊，2个维族直接被吓的差点尿裤子了，那时候我们的气势浩南哥也不过如此。终归还是长大了，什么都不重要了。只有钱重要了。<br><br>再见青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9037824)<br><br>2012-08-13 00:50<br>赞(0) 踩(0) | <div>听的我想哭...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10162775)<br><br>2012-08-12 15:27<br>赞(0) 踩(0) | <div>我看见满目疮痍的繁华 感到痛彻心扉的惆怅 听着心在爆裂的巨响 陷入深不见底的悲伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10166782)<br><br>2012-08-11 03:58<br>赞(0) 踩(0) | <div>伴着这首歌日免安，再见我逝去的青春！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3596212)<br><br>2012-08-10 12:02<br>赞(0) 踩(0) | <div>再见，青春！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6485074)<br><br>2012-08-10 08:48<br>赞(0) 踩(0) | <div>青春=迷惘正如一杯鸡尾，尝尽各种醉楚，在酒喝光的那一刻，才开始慢慢醒来，在时间溜干的那一刻，留下的只有一颗迸裂的心，于是，再不敢回头，因为它们都在伫视着我，它们也永恒地伫立在我们的身后。留下的力气只够轻轻地对你道一声：“再见..”.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6485074)<br><br>2012-08-10 08:48<br>赞(0) 踩(0) | <div>青春=迷惘<br>正如一杯鸡尾，尝尽各种醉楚，<br>在酒喝光的那一刻，才开始慢慢醒来，<br>在时间溜干的那一刻，留下的只有一颗迸裂的心，<br>于是，再不敢回头，因为它们都在伫视着我，它们也永恒地伫立在我们的身后。留下的力气只够轻轻地对你道一声：“再见..”.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9099160)<br><br>2012-08-09 22:45<br>赞(0) 踩(0) | <div>再见青春，再见义无反顾的爱情，再见永恒的迷惘~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2336590)<br><br>2012-08-08 14:33<br>赞(0) 踩(0) | <div>~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8367331)<br><br>2012-08-08 07:57<br>赞(0) 踩(0) | <div>多么多功能的一首歌曲，代表了许许多多的情绪...</div> |
@@ -658,7 +658,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9742431)<br><br>2012-07-09 01:34<br>赞(0) 踩(0) | <div>突然发现自己变老了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3371479)<br>一个叫木头，一个叫马尾。<br>2012-07-08 21:15<br>赞(0) 踩(0) | <div>面对我们无能为力的事,就像逝去的时间与青春,只有说再见... ...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6646409)<br><br>2012-07-08 17:12<br>赞(0) 踩(0) | <div>人为多愁少年老，花为无愁老少年。年老少年都不管，且将诗酒醉花前……人不轻狂，枉少年……老了，还有我陪着你……不怕</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7980093)<br><br>2012-07-07 18:41<br>赞(0) 踩(0) | <div>雨会从记忆的指间滑落带着血中曼舞的青鸟带着风中悲鸣的草帽从燃烧的风中滑落</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7980093)<br><br>2012-07-07 18:41<br>赞(0) 踩(0) | <div>雨会从记忆的指间滑落<br>带着血中曼舞的青鸟<br>带着风中悲鸣的草帽<br>从燃烧的风中滑落</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1998725)<br>我就是爱音乐，别让我停下<br>2012-07-06 15:04<br>赞(0) 踩(0) | <div>Goodbye youth...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9371631)<br><br>2012-07-06 02:51<br>赞(0) 踩(0) | <div>感觉好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9704712)<br><br>2012-07-05 21:58<br>赞(0) 踩(0) | <div>舒服</div> |
@@ -672,7 +672,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1087900)<br><br>2012-07-03 21:25<br>赞(0) 踩(0) | <div>很有感觉的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1225420)<br> <br>2012-07-03 21:18<br>赞(0) 踩(0) | <div>再见青春,08物流管理2所有的兄弟姐妹们,开始有点想你们了,真心希望你们一切都好,再见青春.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9219054)<br><br>2012-07-03 14:26<br>赞(0) 踩(0) | <div>Goodbye, youth！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2317864)<br>一花一世界，一树一菩提！<br>2012-07-03 07:55<br>赞(0) 踩(0) | <div>1.无论做什么,记得是为自己而做；2.面对困境不悲观厌世；3.任何时候都不怕重来；4.让自己平和豁达一点；5.不要忘记进修学问,拓宽胸襟；6.潇洒一点,失去的东西并未属于自己；7生命的乐趣自己寻找,没人义务讨好自己。心态不够足够好，才会觉得不够沉稳，淡定些！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2317864)<br>一花一世界，一树一菩提！<br>2012-07-03 07:55<br>赞(0) 踩(0) | <div>1.无论做什么,记得是为自己而做；2.面对困境不悲观厌世；3.任何时候都不怕重来；4.让自己平和豁达一点；5.不要忘记进修学问,拓宽胸襟；6.潇洒一点,失去的东西并未属于自己；7生命的乐趣自己寻找,没人义务讨好自己。<br>心态不够足够好，才会觉得不够沉稳，淡定些！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9226763)<br><br>2012-07-03 06:42<br>赞(0) 踩(0) | <div>再见青春，再见迷惘！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6632524)<br><br>2012-07-02 21:27<br>赞(0) 踩(0) | <div>再见了我的学生时代。努力尽快适应新的城市！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/743912)<br><br>2012-07-02 20:48<br>赞(0) 踩(0) | <div>用以纪念那回之不去的青春</div> |
@@ -719,7 +719,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4983081)<br><br>2012-06-14 22:27<br>赞(0) 踩(0) | <div>第一次完整的听了汪峰这张专辑《信仰在空中飘扬》，《春天里》的旋律早已烂熟，总是觉得前面的旋律重复不够，没有压住，高潮来得太快。还是喜欢慢板的《再见青春》、《你是我心爱的姑娘》这几首。觉得比之前的专辑更用心了，的确有突破。要知道突破自我远比一鸣惊人来的难许多。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9421949)<br><br>2012-06-14 20:42<br>赞(0) 踩(0) | <div>再见青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2331822)<br><br>2012-06-14 20:38<br>赞(0) 踩(0) | <div>北京爱情故事</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5744395)<br>这家伙是个坏蛋<br>2012-06-14 18:40<br>赞(0) 踩(0) | <div>再见 青春再见美丽的疼痛再见 青春永远的故乡再见 青春再见灿烂的忧伤再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5744395)<br>这家伙是个坏蛋<br>2012-06-14 18:40<br>赞(0) 踩(0) | <div>再见 青春<br>再见美丽的疼痛<br>再见 青春<br>永远的故乡<br><br>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8930354)<br><br>2012-06-14 16:49<br>赞(0) 踩(0) | <div>再见青春，再见美丽的疼痛。再见青春，再见灿烂的忧伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9054245)<br><br>2012-06-13 17:24<br>赞(0) 踩(0) | <div>最近真的很迷这首歌阿~~~我看着满目创痍的繁华 感到痛彻心肺的惆怅 听着心在爆裂的巨响 陷入深不见底的悲伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8538284)<br><br>2012-06-13 13:17<br>赞(0) 踩(0) | <div>试试</div> |
@@ -731,7 +731,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3542689)<br><br>2012-06-05 12:58<br>赞(0) 踩(0) | <div>好好听另外！！！！里面有句：【再见青春，美丽的唐彤】~~~~~~~~ 是真的，不信大家听一下！@501@502@503@504@1617 -_______-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5045092)<br><br>2012-06-05 00:32<br>赞(0) 踩(0) | <div>上海妞爱北京</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1335532)<br>年少喜曲，年长好词<br>2012-06-04 21:15<br>赞(0) 踩(0) | <div>末日来了什么都得说句“再见”。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6962150)<br> <br>2012-06-04 19:00<br>赞(0) 踩(0) | <div>再见 /青春 /再见美丽的疼痛/再见/ 青春 /永远的故乡 /再见 /青春 /再见灿烂的忧伤 /再见/ 青春 /永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6962150)<br> <br>2012-06-04 19:00<br>赞(0) 踩(0) | <div>再见 /青春 /<br>再见美丽的疼痛/<br>再见/ 青春 /<br>永远的故乡 /<br><br>再见 /青春 /<br>再见灿烂的忧伤 /<br>再见/ 青春 /<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9263204)<br><br>2012-06-03 23:19<br>赞(0) 踩(0) | <div>恩。。这部名字占便宜但算不上好看的电视，但是依然能让我看出止也止不住的泪来……再见，熟悉的地点，再见，美丽的疼痛，再见，灿烂的忧伤。@竹本儿那么一打呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2200683)<br><br>2012-06-03 22:57<br>赞(0) 踩(0) | <div>耳边听得最真切的就是类似于梦呓的再见,再见,再见,再见..... 梦想的意义从不在于她能否实现,而是在于她给了生命一个燃烧的意义.生命如果不能燃烧,它就是最奢侈的浪费.不要拆散梦想与生命,亦如你不想离开你的爱人.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260442)<br>我还没想好要写什么...<br>2012-06-03 19:41<br>赞(0) 踩(0) | <div>一个周末都在循环这首歌，再见我的青春！</div> |
@@ -741,7 +741,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8802205)<br><br>2012-05-31 23:15<br>赞(0) 踩(0) | <div>六一前夕，单曲循环一晚上。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7987372)<br><br>2012-05-30 00:50<br>赞(0) 踩(0) | <div>再见，青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5966229)<br><br>2012-05-29 22:06<br>赞(0) 踩(0) | <div>沧桑中带点忧伤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6758003)<br>你存在我深深的脑海里<br>2012-05-28 22:31<br>赞(0) 踩(0) | <div>听着这首曲歌，突然觉得青春离我真的远去了。我的感伤并不比你少，你的哭泣还在我耳边萦绕，乱了时光，改变了我们。我想抓住那些美好的值得的人，却不知那是我最难以言说的伤，我仍记得那样义无反顾的我是如何在风中颤抖，发不出一丝声响。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6758003)<br>你存在我深深的脑海里<br>2012-05-28 22:31<br>赞(0) 踩(0) | <div>听着这首曲歌，突然觉得青春离我真的远去了。我的感伤并不比你少，你的哭泣还在我耳边萦绕，乱了时光，改变了我们。<br>我想抓住那些美好的值得的人，却不知那是我最难以言说的伤，我仍记得那样义无反顾的我是如何在风中颤抖，发不出一丝声响。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2752480)<br><br>2012-05-25 16:28<br>赞(0) 踩(0) | <div>青春悲伤调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261207)<br><br>2012-05-25 16:11<br>赞(0) 踩(0) | <div>站在老北京的十字街头夕阳西下云彩背道而驰束手无策的抓住时间微风吹乱发梢渗透思绪时间请你等等这苍凉的人们不要把这1切遗弃给1个叫回忆的东西</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/913993)<br><br>2012-05-25 00:30<br>赞(0) 踩(0) | <div>杯了个脆，这不是又多了个夜行侠</div> |
@@ -753,7 +753,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6922472)<br><br>2012-05-19 12:52<br>赞(0) 踩(0) | <div>再见！！迷茫！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7385648)<br><br>2012-05-18 22:10<br>赞(0) 踩(0) | <div>“再见 青春 再见美丽的疼痛”“再见 青春 永恒的迷惘”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8425368)<br><br>2012-05-18 17:10<br>赞(0) 踩(0) | <div>有一种感觉，让我清楚而又糊涂，执着而又盲目，忧伤而又欣喜……总让人无法自拔……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7561608)<br><br>2012-05-18 14:28<br>赞(0) 踩(0) | <div>再见 青春再见灿烂的忧伤再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7561608)<br><br>2012-05-18 14:28<br>赞(0) 踩(0) | <div>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3533849)<br><br>2012-05-18 14:20<br>赞(0) 踩(0) | <div>你在我身旁安静地睡着／车内 空调清凉／我戴着耳机听音乐／窗外 烈日如火／丁香花／七里香／再见青春／震耳欲聋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3427899)<br><br>2012-05-18 00:07<br>赞(0) 踩(0) | <div>@XIAOQI- 来学来合唱。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1700372)<br><br>2012-05-17 22:40<br>赞(0) 踩(0) | <div>再见青春……今天不知道为何总是听这首歌……多想回到从前啊～最近年龄危机感一直很强……越长大，越是会失去那宝贵的勇气。开始麻木不仁，得过且过……从来没有如此的不坚定过……不安感的萦绕，开始疲惫已经无力……克己……制衡……决断……我还能坚持吗？</div> |
@@ -774,9 +774,9 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8510899)<br><br>2012-05-13 22:23<br>赞(0) 踩(0) | <div>我很喜欢他的几首歌，虽谈不上整夜单曲循环，但是每次听都会被打动，他的歌适合在这样一个有风有雨的初夏去聆听，适合在这样一个凉爽的雨夜去放飞自己的思绪，青春或许伴着他的歌声开始，又或许伴着他的歌声结束，听他的歌总会让你想起你曾经那些青春的日子，曾经那些白衣飘飘的年代，曾经的曾经~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84123)<br>我还没想好要写什么...<br>2012-05-13 18:36<br>赞(0) 踩(0) | <div>再见，青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5773974)<br>(⊙o⊙)<br>2012-05-13 18:33<br>赞(0) 踩(0) | <div>每个人都有自己的北爱故事。经历的比看到的要深刻得多～再见了，青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5773974)<br>(⊙o⊙)<br>2012-05-13 18:16<br>赞(0) 踩(0) | <div>我们都有自己的爱情故事，一样的温暖，一样的悲伤～再见～青春~永恒的迷惘~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5773974)<br>(⊙o⊙)<br>2012-05-13 18:16<br>赞(0) 踩(0) | <div>我们都有自己的爱情故事，一样的温暖，一样的悲伤～<br>再见～青春~<br>永恒的迷惘~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7074986)<br><br>2012-05-13 11:13<br>赞(0) 踩(0) | <div>北爱~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5647976)<br><br>2012-05-13 01:22<br>赞(64) 踩(0) | <div>再见内少。（2002.09.01 - 2012.05.10）再见九爷。（2001.07.16 - 2012.05.11）再见加八。（1999.09.15 - 2012.05.12）再见伞队。（2011.01.25 - 2012.05.12）再见，青春。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5647976)<br><br>2012-05-13 01:22<br>赞(64) 踩(0) | <div>再见内少。（2002.09.01 - 2012.05.10）<br>再见九爷。（2001.07.16 - 2012.05.11）<br>再见加八。（1999.09.15 - 2012.05.12）<br>再见伞队。（2011.01.25 - 2012.05.12）<br>再见，青春。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/660762)<br><br>2012-05-13 09:43<br>赞(0) 踩(0) | <div>米兰球迷顶~~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/748394)<br>X<br>2012-05-13 21:31<br>赞(0) 踩(0) | <div>顶起！！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6098705)<br>一窗昏晓送流年<br>2012-06-29 11:22<br>赞(0) 踩(0) | <div>同样像西黑告别...一个时代结束了.....为何睡皮要先走一步....</div> |
@@ -791,7 +791,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2365084)<br><br>2012-05-11 15:06<br>赞(0) 踩(0) | <div>再见了，我的青春！亲手埋葬自己的青春，这是对自己的最狠心的惩罚！一遍又一遍地听着汪峰的再见青春，心真的很痛很无力！青春已死！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2553707)<br><br>2012-05-10 22:24<br>赞(1) 踩(0) | <div>@拿铁and卡布奇诺 鱼儿的感受：不再漫无边际地幻想，不再动辄怨天尤人，责任感和使命感愈发强烈。仍然ajxhzy，清楚自己想去的地方，需要我们踏实地坚定地迈出每个脚步。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7633120)<br><br>2012-05-10 20:11<br>赞(0) 踩(0) | <div>再见，青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5705193)<br> <br>2012-05-10 10:55<br>赞(0) 踩(0) | <div>我看着满目创痍的繁华感到痛彻心肺的惆怅听着心在爆裂的巨响陷入深不见底的悲伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5705193)<br> <br>2012-05-10 10:55<br>赞(0) 踩(0) | <div>我看着满目创痍的繁华<br>感到痛彻心肺的惆怅<br>听着心在爆裂的巨响<br>陷入深不见底的悲伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8822283)<br><br>2012-05-10 01:17<br>赞(0) 踩(0) | <div>OK，北京·</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3603669)<br><br>2012-05-10 00:26<br>赞(0) 踩(0) | <div>雨会从记忆的指间滑落，带着雪中慢舞的青鸟。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6309359)<br><br>2012-05-08 15:03<br>赞(0) 踩(0) | <div>触动心底的琴弦</div> |
@@ -817,7 +817,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6772006)<br><br>2012-04-26 09:23<br>赞(0) 踩(0) | <div>再见，再也不见的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2020431)<br><br>2012-04-25 22:57<br>赞(0) 踩(0) | <div>生活要以快乐为基准，爱情要以互惠为原则 ---再见青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2449744)<br><br>2012-04-24 18:02<br>赞(0) 踩(0) | <div>北爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/714633)<br>Eternal Suns...<br>2012-04-24 15:38<br>赞(0) 踩(0) | <div>有些场景，淡淡的，却是一生不曾消散，在记忆力盘旋，缭绕，如烟，似雾，像永远那么长。这一世繁华，落得心头一阵落寞。看淡了过往，越过红尘，经历了人心，胜过死亡，终究是，敌不过，岁月匆忙，人影凋零，四散天涯。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/714633)<br>Eternal Suns...<br>2012-04-24 15:38<br>赞(0) 踩(0) | <div>有些场景，淡淡的，却是一生不曾消散，<br><br>在记忆力盘旋，缭绕，<br><br>如烟，似雾，<br><br>像永远那么长。<br><br>这一世繁华，<br><br>落得心头一阵落寞。<br><br>看淡了过往，越过红尘，<br><br>经历了人心，胜过死亡，<br><br>终究是，敌不过，岁月匆忙，人影凋零，四散天涯。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1806050)<br>静静活着。<br>2012-04-24 09:13<br>赞(0) 踩(0) | <div>再见，再也遇不见的青春…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8973088)<br><br>2012-04-24 02:26<br>赞(0) 踩(0) | <div>单曲循环了1晚上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7980093)<br><br>2012-04-23 13:26<br>赞(0) 踩(0) | <div>这个让我哆嗦了……再见青春，再见美丽的疼痛～</div> |
@@ -826,11 +826,11 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6656538)<br><br>2012-04-22 11:05<br>赞(0) 踩(0) | <div>无处安放的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8929792)<br><br>2012-04-22 01:44<br>赞(0) 踩(0) | <div>后面电吉的s010</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8951234)<br><br>2012-04-22 00:58<br>赞(0) 踩(0) | <div>再见青春再见美丽的疼痛再见青春永远的故乡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8948376)<br><br>2012-04-21 21:29<br>赞(0) 踩(0) | <div>再见青春再见美丽的疼痛再见青春永恒的迷茫srk1buza1j1anderenshenghu0zh0ngme1y0un1w0yekey1ha0ha0hu0</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8948376)<br><br>2012-04-21 21:29<br>赞(0) 踩(0) | <div>再见青春再见美丽的疼痛再见青春永恒的迷茫srk1buza1j<br>1anderenshenghu0zh0ngme1y0un1w<br>0yekey1ha0ha0hu0</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3239146)<br><br>2012-04-21 18:52<br>赞(0) 踩(0) | <div>再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8934398)<br>美妙的音乐盛宴<br>2012-04-20 21:48<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8860391)<br><br>2012-04-20 19:41<br>赞(0) 踩(0) | <div>再见青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1919818)<br>Au revoir.<br>2012-04-19 22:51<br>赞(0) 踩(0) | <div>【再见青春，再见灿烂的忧伤。再见青春，永远的故乡。】似乎在末日之前总有很多的告别，都是感到痛彻心扉的惆怅，陷入深不见底的悲伤。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1919818)<br>Au revoir.<br>2012-04-19 22:51<br>赞(0) 踩(0) | <div>【再见青春，再见灿烂的忧伤。再见青春，永远的故乡。】<br>似乎在末日之前总有很多的告别，都是感到痛彻心扉的惆怅，陷入深不见底的悲伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8914882)<br><br>2012-04-19 09:29<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7980093)<br><br>2012-04-19 00:57<br>赞(0) 踩(0) | <div>雨会从记忆的指间滑落 /带着血中曼舞的青鸟 /带着风中悲鸣的草帽 /从燃烧的风中滑落 /再见 青春 再见美丽的疼痛 /再见 青春 永远的故乡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6316047)<br><br>2012-04-19 00:43<br>赞(0) 踩(0) | <div>汪峰 青春 回忆</div> |
@@ -843,9 +843,9 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6160691)<br><br>2012-04-16 12:09<br>赞(0) 踩(0) | <div>就要爆炸。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8816474)<br><br>2012-04-15 12:53<br>赞(0) 踩(0) | <div>哎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8867159)<br> <br>2012-04-14 23:35<br>赞(0) 踩(0) | <div>北京爱情故事</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1287671)<br><br>2012-04-13 22:51<br>赞(0) 踩(0) | <div>我看着满目创痍的繁华感到痛彻心肺的惆怅听着心在爆裂的巨响陷入深不见底的悲伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1287671)<br><br>2012-04-13 22:51<br>赞(0) 踩(0) | <div>我看着满目创痍的繁华<br>感到痛彻心肺的惆怅<br>听着心在爆裂的巨响<br>陷入深不见底的悲伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8847369)<br><br>2012-04-13 14:57<br>赞(0) 踩(0) | <div>看了北愛後想聽的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2967196)<br><br>2012-04-12 23:06<br>赞(0) 踩(0) | <div>再见 青春再见美丽的疼痛再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2967196)<br><br>2012-04-12 23:06<br>赞(0) 踩(0) | <div>再见 青春<br>再见美丽的疼痛<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1238138)<br>夕暮。<br>2012-04-11 01:31<br>赞(0) 踩(0) | <div>再见青春，我亲爱的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8382734)<br><br>2012-04-10 13:46<br>赞(0) 踩(0) | <div>我们一直以为自己还是个孩子，其实在路上已经被别的孩子称呼为“叔叔”或“阿姨”了，我们该长大了......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8213326)<br><br>2012-04-09 22:29<br>赞(0) 踩(0) | <div>再见，青春，灿烂的忧伤</div> |
@@ -935,7 +935,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8480003)<br><br>2012-03-18 10:54<br>赞(0) 踩(0) | <div>再见 青春 再见美丽的疼痛 再见 青春 永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1973315)<br> <br>2012-03-18 09:38<br>赞(0) 踩(0) | <div>再见，青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2834718)<br><br>2012-03-18 08:40<br>赞(0) 踩(0) | <div>再见青春，再见美丽的疼痛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1873879)<br><br>2012-03-18 01:36<br>赞(0) 踩(0) | <div>再见 青春再见灿烂的忧伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1873879)<br><br>2012-03-18 01:36<br>赞(0) 踩(0) | <div>再见 青春<br>再见灿烂的忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26991)<br><br>2012-03-18 00:27<br>赞(0) 踩(0) | <div>《再见青春》，来自汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6592040)<br><br>2012-03-18 00:06<br>赞(0) 踩(0) | <div>再见青春……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3382429)<br>《Wish You Lu...<br>2012-03-17 20:34<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发   伴着铁皮车厢的摇晃   伴着野菊花开的芬芳  在梦碎的黎明出发 再见 青春 永远的故乡</div> |
@@ -959,11 +959,11 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4844971)<br> <br>2012-03-15 20:57<br>赞(0) 踩(0) | <div>就像当初听筷子兄弟的老男孩 翻腾的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1823548)<br><br>2012-03-15 20:39<br>赞(0) 踩(0) | <div>有一天…一坨黑色的大便看到了一坨白色的大便…黑大便问：你为啥长的那么白那么漂亮？白大便听了非常生气！它说：我又不是大便！我是冰淇淋！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/965827)<br><br>2012-03-15 19:37<br>赞(0) 踩(0) | <div>2012.03.15</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8426390)<br><br>2012-03-15 17:00<br>赞(0) 踩(0) | <div>再见青春再见美丽的疼痛再见青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8426390)<br><br>2012-03-15 17:00<br>赞(0) 踩(0) | <div>再见青春<br>再见美丽的疼痛<br>再见青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8361073)<br><br>2012-03-15 12:14<br>赞(0) 踩(0) | <div>丢失的，总是找不回了，再见。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6698045)<br><br>2012-03-15 11:24<br>赞(0) 踩(0) | <div>感觉~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8039505)<br> <br>2012-03-15 09:44<br>赞(0) 踩(0) | <div>再見青春，再見燦爛的憂傷；再見青春，再見永恆的迷惘。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1823548)<br><br>2012-03-15 01:55<br>赞(0) 踩(0) | <div>有一天...一坨黑色的大便看到了一坨白色的大便...黑大便问：你为啥长的那么白那么漂亮？白大便听了非常生气！它说：我又不是大便！我是冰淇淋!!!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1823548)<br><br>2012-03-15 01:55<br>赞(0) 踩(0) | <div>有一天...一坨黑色的大便看到了一坨白色的大便...<br>黑大便问：你为啥长的那么白那么漂亮？白大便听了非常生气！<br>它说：我又不是大便！我是冰淇淋!!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1549407)<br>MUSIC GO<br>2012-03-14 22:50<br>赞(0) 踩(0) | <div>just like it</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7781976)<br><br>2012-03-14 02:08<br>赞(0) 踩(0) | <div>有一种成长叫程峰，有一种友谊叫吴狄，有一种现实叫石小猛，有一种悔悟叫杨紫曦，有一种执著叫林夏，有一种疼惜叫邵华阳，有一种媳妇叫沈冰，有一种成功叫肥四，有一种悲剧叫吴魏，有一种纠结叫伍媚，有一种再见叫青春，有一种走不到一起的爱情叫《北京爱情故事》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8059775)<br><br>2012-03-14 00:31<br>赞(0) 踩(0) | <div>想你的 比以往强烈 我多么希望 不去想起你 不遇见你。。可笑的是 现在谈盆友 都不考虑 拒绝 因为我怕了 还是因为 我还没放下。</div> |
@@ -976,14 +976,14 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1993271)<br>Cool夏days<br>2012-03-13 01:02<br>赞(0) 踩(0) | <div>&amp;amp;quot;永恒的迷茫&amp;amp;quot; 但我仍想，say hello</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8409046)<br><br>2012-03-12 23:30<br>赞(0) 踩(0) | <div>雨会从记忆的指尖滑落，带着血中曼舞的青鸟，带着风中悲鸣的草帽。再见青春，再见美丽的疼痛。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2080384)<br><br>2012-03-12 21:56<br>赞(0) 踩(0) | <div>《北京爱情故事》真的很好看，推荐之</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1823548)<br><br>2012-03-12 21:15<br>赞(0) 踩(0) | <div>有一天...一坨黑色的大便看到了一坨白色的大便...黑大便问：你为啥长的那么白那么漂亮？白大便听了非常生气！它说：我又不是大便！我是冰淇淋!!!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1823548)<br><br>2012-03-12 21:15<br>赞(0) 踩(0) | <div>有一天...一坨黑色的大便看到了一坨白色的大便...<br>黑大便问：你为啥长的那么白那么漂亮？白大便听了非常生气！<br>它说：我又不是大便！我是冰淇淋!!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1020278)<br><br>2012-03-12 20:52<br>赞(0) 踩(0) | <div>在路上听见声音，就知道是汪峰。喜欢歌儿的旋律，却并不伤感呼啸而过的年华。 @小染frosed</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8400804)<br><br>2012-03-12 13:48<br>赞(0) 踩(0) | <div>十年后还会记得当初的刻骨铭心吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1747781)<br> <br>2012-03-12 11:56<br>赞(0) 踩(0) | <div>现实的连续剧，好听的歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8178829)<br><br>2012-03-12 11:29<br>赞(0) 踩(0) | <div>再见青春，再见灿烂的忧伤。再见青春 永恒的迷惘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6947837)<br><br>2012-03-12 02:25<br>赞(0) 踩(0) | <div>睡不着的70后，听听啦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6217993)<br> <br>2012-03-11 22:31<br>赞(0) 踩(0) | <div>再见 青春再见 美丽的疼痛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8026542)<br><br>2012-03-11 21:02<br>赞(0) 踩(0) | <div>再见 青春再见美丽的疼痛再见 青春永远的故乡再见 青春再见灿烂的忧伤再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6217993)<br> <br>2012-03-11 22:31<br>赞(0) 踩(0) | <div>再见 青春<br>再见 美丽的疼痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8026542)<br><br>2012-03-11 21:02<br>赞(0) 踩(0) | <div>再见 青春<br>再见美丽的疼痛<br>再见 青春<br>永远的故乡<br><br>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1351239)<br><br>2012-03-11 00:12<br>赞(0) 踩(0) | <div>老板车上最近常放的歌，他总会和我说趁年轻赶快多玩几年，可是我知道他现在怀念的过去正如我现在怀念的以前一般，同样是一阵发自挥之不去的忧伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6430848)<br><br>2012-03-11 00:02<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发 伴着铁皮车厢的摇晃 伴着野菊花开的芬芳 在梦碎的黎明出发 再见青春 再见美丽的疼痛 再见青春 永恒的迷惘 雨会从记忆的指间滑落 带着血中曼舞的青鸟 带着风中悲鸣的草帽 从燃烧的风中滑落 再见青春 再见美丽的疼痛 再见青春永远的故乡 再见青春再见灿烂的忧伤 再见青春永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6896519)<br><br>2012-03-10 20:45<br>赞(0) 踩(0) | <div>再见青春，青春再见</div> |
@@ -1000,14 +1000,14 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/697285)<br><br>2012-03-08 19:37<br>赞(0) 踩(0) | <div>哥们说这歌挺好听，觉得有些许悲凉，对于青春的留恋，它已逝去，也许会永远在我们的心里，也许青春从未逝去，也许青春可以永驻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2531821)<br><br>2012-03-08 16:31<br>赞(0) 踩(0) | <div>再见。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1140475)<br><br>2012-03-08 12:33<br>赞(0) 踩(0) | <div>成长像是蝉蜕，个中痛苦唯有自知。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7269818)<br>士多啤梨屋......<br>2012-03-08 08:45<br>赞(0) 踩(0) | <div>再见 青春再见灿烂的忧伤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7269818)<br>士多啤梨屋......<br>2012-03-08 08:44<br>赞(0) 踩(0) | <div>再见 青春再见美丽的疼痛再见 青春再见灿烂的忧伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7269818)<br>士多啤梨屋......<br>2012-03-08 08:45<br>赞(0) 踩(0) | <div>再见 青春<br>再见灿烂的忧伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7269818)<br>士多啤梨屋......<br>2012-03-08 08:44<br>赞(0) 踩(0) | <div>再见 青春<br>再见美丽的疼痛<br>再见 青春<br>再见灿烂的忧伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7088548)<br><br>2012-03-08 04:42<br>赞(0) 踩(0) | <div>再见,青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5748045)<br> <br>2012-03-07 23:26<br>赞(0) 踩(0) | <div>没有像约定的那样一起看大结局，自己看完了第39集。这部剧应该叫《北京成长故事》，也终于发现了张晓磊签名原来是石小猛说的那句话。成长那么痛，我们根本计算不了失去了多少，也就一路跌跌撞撞的走到了现在。没有人发现老地方被拆了才是最大的泪点么。再见青春，再见美丽的疼痛。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6710188)<br><br>2012-03-07 10:56<br>赞(0) 踩(0) | <div>再见我的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/768745)<br><br>2012-03-07 09:20<br>赞(0) 踩(0) | <div>喜欢这种意境</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8326347)<br><br>2012-03-07 00:18<br>赞(0) 踩(0) | <div>睡前一曲，再见青春 再见美丽的疼痛 再见青春 永远的故乡 再见青春 再见灿烂的忧伤 再见青春 永恒的迷惘。晚安</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/857240)<br>~~重口味的小清新<br>2012-03-06 22:51<br>赞(0) 踩(0) | <div>再见 青春再见 美丽的疼痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/857240)<br>~~重口味的小清新<br>2012-03-06 22:51<br>赞(0) 踩(0) | <div>再见 青春<br>再见 美丽的疼痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7592647)<br><br>2012-03-06 20:08<br>赞(0) 踩(0) | <div>好像一夜之间就长大了，那是一种违背自然规律的成长，眼睁睁的看着自己血肉模糊支离破碎，被撕扯着不得不成长的成长，再见青春！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8322042)<br><br>2012-03-06 20:04<br>赞(0) 踩(0) | <div>好像一夜之间就长大了，那是一种违背自然规律的成长，眼睁睁的看着自己血肉模糊支离破碎，被撕扯着不得不成长的成长，青春不再。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6757893)<br><br>2012-03-06 19:15<br>赞(0) 踩(0) | <div>好听</div> |
@@ -1016,7 +1016,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8313290)<br><br>2012-03-06 01:30<br>赞(0) 踩(0) | <div>春天里，再见青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7209257)<br><br>2012-03-06 00:03<br>赞(0) 踩(0) | <div>《北爱》其实不用看了，只要听到汪峰这样的声音，就知道肯定会是个悲剧.........</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/860122)<br><br>2012-03-05 23:33<br>赞(0) 踩(0) | <div>再见。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4182458)<br>暂无签名~<br>2012-03-05 22:54<br>赞(0) 踩(0) | <div>再见 青春再见灿烂的忧伤再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4182458)<br>暂无签名~<br>2012-03-05 22:54<br>赞(0) 踩(0) | <div>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8187437)<br><br>2012-03-05 22:50<br>赞(0) 踩(0) | <div>晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8235579)<br><br>2012-03-05 16:25<br>赞(0) 踩(0) | <div>再见 未完 待续</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5910784)<br><br>2012-03-05 14:17<br>赞(0) 踩(0) | <div>再见 青春 再见 永远的疼痛！</div> |
@@ -1026,7 +1026,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6003552)<br><br>2012-03-04 20:28<br>赞(0) 踩(0) | <div>这首歌结束的最后一段电吉他的“悲鸣” ，总是感觉身上的每个细胞能与之碰撞，再见青春，再见灿烂的忧伤，再见青春，再见美丽的疼痛，再见青春，永恒的迷惘。   都说青春无悔，或许是吧！   怀着信仰在空中飘扬。         《再见青春》--汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7345391)<br><br>2012-03-04 18:39<br>赞(0) 踩(0) | <div>《北爱》插曲，再见青春，再见，美丽的疼痛。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/807469)<br><br>2012-03-04 10:20<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2766999)<br><br>2012-03-04 09:14<br>赞(0) 踩(0) | <div>再见 青春再见美丽的疼痛再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2766999)<br><br>2012-03-04 09:14<br>赞(0) 踩(0) | <div>再见 青春<br>再见美丽的疼痛<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8079522)<br>人音合一<br>2012-03-04 09:04<br>赞(0) 踩(0) | <div>再见青春，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8284553)<br><br>2012-03-04 05:00<br>赞(0) 踩(0) | <div>这样就比较搭配了…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8135084)<br><br>2012-03-04 01:42<br>赞(0) 踩(0) | <div>再见，青春，再见美丽的疼痛。再见，青春，再见灿烂的忧伤。</div> |
@@ -1056,7 +1056,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6698741)<br><br>2012-03-01 20:30<br>赞(0) 踩(0) | <div>再见青春 再见美丽的疼痛 听完。你会想到什么。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4458644)<br>如花美眷，似水流年……<br>2012-03-01 18:56<br>赞(0) 踩(0) | <div>再见美丽的疼痛。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/572869)<br>imagine<br>2012-03-01 18:12<br>赞(0) 踩(0) | <div>再见青春，再见美丽的疼痛，再见曾经，当太阳明天升起的时候依然还是从东方升起，再见了那些灿烂的回忆。三月的第一天,以后都要像今天这样。⊙_⊙...(╯﹏╰）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8246374)<br><br>2012-03-01 16:00<br>赞(0) 踩(0) | <div>我看着满目创痍的繁华感到痛彻心肺的惆怅听着心在爆裂的巨响陷入深不见底的悲伤再见青春再见美丽的疼痛再见青春永远的故乡再见青春再见灿烂的忧伤再见青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8246374)<br><br>2012-03-01 16:00<br>赞(0) 踩(0) | <div>我看着满目创痍的繁华<br>感到痛彻心肺的惆怅<br>听着心在爆裂的巨响<br>陷入深不见底的悲伤<br>再见青春<br>再见美丽的疼痛<br>再见青春<br>永远的故乡<br>再见青春<br>再见灿烂的忧伤<br>再见青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7813790)<br><br>2012-03-01 12:32<br>赞(0) 踩(0) | <div>每次听这首歌都觉得好难受 感觉自己已经没有青春 只剩一个欲哭无泪的躯壳了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4038568)<br><br>2012-03-01 12:11<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发,/ 伴着铁皮车厢的摇晃,/ 伴着野菊花开的芬芳,/ 在梦碎的黎明出发./ 雨会从记忆的指间滑落,/ 带着血中曼舞的青鸟,/ 带着风中悲鸣的草帽,/ 从燃烧的风中滑落./ 再见 青春/ 再见 美丽的疼痛./ 再见 青春 / 永远的故乡.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374465)<br>小世界<br>2012-03-01 11:17<br>赞(0) 踩(0) | <div>再见青春</div> |
@@ -1068,8 +1068,8 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3390631)<br><br>2012-02-29 00:13<br>赞(0) 踩(0) | <div>再见了，青春...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73064)<br>2009-03-10加入<br>2012-02-28 21:42<br>赞(0) 踩(0) | <div>我想说，其实我们真的都长大了。追忆并缅怀那呼啸而过、自由不羁、天真无邪、不懂珍惜的青葱岁月。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5443576)<br><br>2012-02-28 21:21<br>赞(0) 踩(0) | <div>有一天开车回家的路上居然听哭了…还是喜欢那些没心没肺的时光。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6950885)<br><br>2012-02-28 13:59<br>赞(0) 踩(0) | <div>再见 青春再见美丽的疼痛再见 青春永恒的迷惘</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8219172)<br> <br>2012-02-28 13:50<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发伴着铁皮车厢的摇晃伴着野菊花开的芬芳在梦碎的黎明出发再见 青春再见美丽的疼痛</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6950885)<br><br>2012-02-28 13:59<br>赞(0) 踩(0) | <div>再见 青春<br>再见美丽的疼痛<br>再见 青春<br>永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8219172)<br> <br>2012-02-28 13:50<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发<br>伴着铁皮车厢的摇晃<br>伴着野菊花开的芬芳<br>在梦碎的黎明出发<br>再见 青春<br>再见美丽的疼痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7402290)<br><br>2012-02-28 13:02<br>赞(0) 踩(0) | <div>@--27149-- 出来伤悲了，再见-青春。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7408566)<br><br>2012-02-28 11:06<br>赞(0) 踩(0) | <div>北爱里几首汪峰的插曲都挺好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3001323)<br><br>2012-02-28 00:28<br>赞(0) 踩(0) | <div>一辈子能看过几本扣人心弦的书，能经历几次无法忘怀的旅行，又能遇到几个走进心底的人？就这么矛盾着明白了，原来时间是不等人的。</div> |
@@ -1098,11 +1098,11 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1899596)<br>天黑的好像不会再亮了<br>2012-02-24 12:30<br>赞(0) 踩(0) | <div>刚起床。听见这首。忍不住了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7810419)<br><br>2012-02-23 22:08<br>赞(0) 踩(0) | <div>再见青春 再见美丽的疼痛 再见青春 永恒的迷茫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7203475)<br><br>2012-02-23 21:42<br>赞(0) 踩(0) | <div>沧桑</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8126059)<br> <br>2012-02-23 18:48<br>赞(0) 踩(0) | <div>我曾随迷失的航船沉没陷入璀璨虚空的碎梦沉入乱欲冰封的深谷随烂漫的星群沉没我看着满目创痍的繁华感到痛彻心肺的惆怅听着心在爆裂的巨响陷入深不见底的悲伤再见青春再见美丽的疼痛再见青春再见灿烂的忧伤再见青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8126059)<br> <br>2012-02-23 18:48<br>赞(0) 踩(0) | <div>我曾随迷失的航船沉没<br>陷入璀璨虚空的碎梦<br>沉入乱欲冰封的深谷<br>随烂漫的星群沉没<br>我看着满目创痍的繁华<br>感到痛彻心肺的惆怅<br>听着心在爆裂的巨响<br>陷入深不见底的悲伤<br>再见青春<br>再见美丽的疼痛<br>再见青春<br>再见灿烂的忧伤<br>再见青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7585227)<br>再见，昩。<br>2012-02-23 15:56<br>赞(0) 踩(0) | <div>再见  青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123854)<br>我还没想好要写什么...<br>2012-02-23 12:14<br>赞(0) 踩(0) | <div>后面的吉他solo太好听啦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6737973)<br><br>2012-02-23 00:51<br>赞(0) 踩(0) | <div>晚安。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1569872)<br><br>2012-02-22 23:13<br>赞(0) 踩(0) | <div>再见 青春再见灿烂的忧伤再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1569872)<br><br>2012-02-22 23:13<br>赞(0) 踩(0) | <div>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/152380)<br>一个脱离了高级趣味的人<br>2012-02-22 22:10<br>赞(0) 踩(0) | <div>年轻已不再！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6761184)<br><br>2012-02-22 22:02<br>赞(0) 踩(0) | <div>再见，我美丽的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4266293)<br><br>2012-02-22 21:02<br>赞(0) 踩(0) | <div>活着活着我们就老了。</div> |
@@ -1111,7 +1111,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8143532)<br><br>2012-02-22 18:07<br>赞(0) 踩(0) | <div>好听~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8143878)<br><br>2012-02-22 17:15<br>赞(0) 踩(0) | <div>有一种成长叫程峰，有一种友谊叫吴狄，有一种现实叫石小猛，有一种悔悟叫杨紫曦，有一种执著叫林夏，有一种疼惜叫邵华阳，有一种媳妇叫沈冰，有一种成功叫肥四，有一种悲剧叫吴魏，有一种纠结叫伍媚，有一种再见叫青春~汪峰-《再见青春》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1785424)<br><br>2012-02-22 13:56<br>赞(0) 踩(0) | <div>@王传君，这歌你会唱不？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2203111)<br><br>2012-02-22 13:15<br>赞(0) 踩(0) | <div>最近狂爱的一首歌。汪峰独有的嗓音才能把这首歌诠释的如此美妙。献给曾经的你，曾经的我，曾经的我们。再见，青春。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2203111)<br><br>2012-02-22 13:15<br>赞(0) 踩(0) | <div>最近狂爱的一首歌。汪峰独有的嗓音才能把这首歌诠释的如此美妙。<br>献给曾经的你，曾经的我，曾经的我们。再见，青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595232)<br><br>2012-02-22 07:46<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1855843)<br><br>2012-02-22 00:33<br>赞(0) 踩(0) | <div>11</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3469450)<br>one more lig...<br>2012-02-22 00:17<br>赞(0) 踩(0) | <div>睡了半天,爬起来,突然想起这首歌,再见,青春.</div> |
@@ -1174,7 +1174,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8064289)<br><br>2012-02-16 10:22<br>赞(0) 踩(0) | <div>青春将逝的人的疼痛和迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3844416)<br>挚爱<br>2012-02-16 09:51<br>赞(0) 踩(0) | <div>唱的是拼搏在北京的80后们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6656795)<br><br>2012-02-15 23:17<br>赞(0) 踩(0) | <div>看完了《北京爱情故事》，特别喜欢这首“再见青春”，给都市中浮沉的人...歌中唱道：再见，青春，再见灿烂的忧伤，再见，青春，永恒的迷惘...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1864263)<br>来日幼稚少女云上再会。<br>2012-02-15 22:49<br>赞(0) 踩(0) | <div>你在纽约 我在北京漫长的离别里我只做一件事专职爱你如果爱情能成为职业该有多好我永远都不会早退也永远都不会转行任期就是这一辈子世界上最幸福的工作就是 做你的 专职爱人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1864263)<br>来日幼稚少女云上再会。<br>2012-02-15 22:49<br>赞(0) 踩(0) | <div>你在纽约 我在北京<br>漫长的离别里<br>我只做一件事<br>专职爱你<br><br>如果爱情能成为职业该有多好<br>我永远都不会早退<br>也永远都不会转行<br>任期就是这一辈子<br>世界上最幸福的工作<br>就是 做你的 专职爱人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7589966)<br><br>2012-02-15 22:06<br>赞(0) 踩(0) | <div>感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2873835)<br><br>2012-02-15 15:48<br>赞(0) 踩(0) | <div>雨会从记忆的指间滑落,带着血中曼舞的青鸟,带着风中悲鸣的草帽,从燃烧的风中滑落.再见,青春.再见美丽的疼痛.再见,青春,永远的故乡.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5688390)<br><br>2012-02-14 22:54<br>赞(0) 踩(0) | <div>再见 青春</div> |
@@ -1225,7 +1225,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6483133)<br><br>2012-02-09 23:37<br>赞(0) 踩(0) | <div>再见青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/146397)<br><br>2012-02-09 23:20<br>赞(0) 踩(0) | <div>看完了。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19787)<br>春观夜樱，夏望繁星<br>2012-02-09 22:28<br>赞(0) 踩(0) | <div>很适合我这种奔4的人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7160533)<br><br>2012-02-09 22:07<br>赞(0) 踩(0) | <div>再见 青春再见灿烂的忧伤再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7160533)<br><br>2012-02-09 22:07<br>赞(0) 踩(0) | <div>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/815103)<br><br>2012-02-09 20:50<br>赞(0) 踩(0) | <div>再见，青春，美丽的疼痛。再见，青春，永远的故乡。再见，青春，灿烂的忧伤。再见，青春，永恒的迷惘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7821185)<br><br>2012-02-09 20:27<br>赞(0) 踩(0) | <div>让时间带走我们的忧伤,青春不会流逝,扬起希望的风帆去追逐我们的梦想。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7338518)<br><br>2012-02-09 19:33<br>赞(0) 踩(0) | <div>我一直以为人是慢慢变老的，其实不是，人是一瞬间变老的。——《舞·舞·舞》村上春树</div> |
@@ -1282,7 +1282,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7459141)<br><br>2012-02-03 12:54<br>赞(0) 踩(0) | <div>再见青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3830634)<br> <br>2012-02-03 10:27<br>赞(0) 踩(0) | <div>北京爱情故事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2879761)<br><br>2012-02-03 00:33<br>赞(0) 踩(0) | <div>再见了 我们的青春 真的很伤心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7191794)<br><br>2012-02-03 00:05<br>赞(0) 踩(0) | <div>漫长的离别，我只做一件事：专职爱你！如果爱情能够成为职业该有多好，我永远不会早退，也不会转行，任期就是这一辈子！世界上最幸福的工作……就是做你的专职爱人！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7191794)<br><br>2012-02-03 00:05<br>赞(0) 踩(0) | <div>漫长的离别，我只做一件事：专职爱你！<br>如果爱情能够成为职业该有多好，我永远不会早退，也不会转行，任期就是这一辈子！<br>世界上最幸福的工作……就是做你的专职爱人！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3739938)<br><br>2012-02-02 23:56<br>赞(0) 踩(0) | <div>FYI</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5188666)<br><br>2012-02-02 23:53<br>赞(0) 踩(0) | <div>@maggie_lay  晚安~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6143777)<br><br>2012-02-02 22:43<br>赞(0) 踩(0) | <div>陷入璀璨虚空的碎梦。   forever young，never grow old. never say goodbye.</div> |
@@ -1302,7 +1302,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2466065)<br><br>2012-02-01 11:42<br>赞(0) 踩(0) | <div>看了北京爱情故事，听到这首歌，非常好听，有一种被迫长大成熟，认识这个残酷世界的疼痛感。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7870162)<br> <br>2012-02-01 11:03<br>赞(0) 踩(0) | <div>[音乐盒]手机、酷狗循环播着&amp;amp;lt;北京北京&amp;amp;gt;&amp;amp;lt;地心&amp;amp;gt;&amp;amp;lt;爱情爱情&amp;amp;gt;&amp;amp;lt;再见 青春&amp;amp;gt;[音乐盒]听到高潮或印象深刻的部分时，脑海里情不自禁地倒带出种种画面[赞][心]北爱结束，感动仍在！[心]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5423184)<br><br>2012-02-01 10:43<br>赞(0) 踩(0) | <div>看完《北京爱情故事》，留下最深刻印象的，是这首歌。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6465530)<br><br>2012-02-01 10:02<br>赞(0) 踩(0) | <div>#北京爱情故事#再见青春再见美丽的疼痛再见青春永远的故乡再见青春再见灿烂的忧伤再见青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6465530)<br><br>2012-02-01 10:02<br>赞(0) 踩(0) | <div>#北京爱情故事#再见青春<br>再见美丽的疼痛<br>再见青春<br>永远的故乡<br>再见青春<br>再见灿烂的忧伤<br>再见青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4836142)<br><br>2012-02-01 08:43<br>赞(0) 踩(0) | <div>我一听这首歌就想起我的高中毕业典礼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2790797)<br><br>2012-02-01 04:53<br>赞(0) 踩(0) | <div>北京爱情故事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3916105)<br> <br>2012-02-01 00:42<br>赞(0) 踩(0) | <div>蛮好听</div> |
@@ -1317,7 +1317,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6102902)<br><br>2012-01-31 01:26<br>赞(0) 踩(0) | <div>因为#北爱# 好带感的歌 触动心碎都有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6904644)<br><br>2012-01-30 23:58<br>赞(0) 踩(0) | <div>每个人都有属于自己的残酷青春。。。@姐在英国漂着，这是我喜欢《北爱》超过别的青春现实剧的原因，有汪峰的音乐~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5882809)<br><br>2012-01-30 23:56<br>赞(0) 踩(0) | <div>时间，就这么淡淡的过去，你，仍记得十年前的自己吗？——《北京爱情故事》</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5186628)<br><br>2012-01-30 23:40<br>赞(0) 踩(0) | <div>再见 青春再见美丽的疼痛再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5186628)<br><br>2012-01-30 23:40<br>赞(0) 踩(0) | <div>再见 青春<br>再见美丽的疼痛<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7069012)<br><br>2012-01-30 22:00<br>赞(0) 踩(0) | <div>789</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1001524)<br><br>2012-01-30 20:39<br>赞(0) 踩(0) | <div>你觉得呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7850891)<br><br>2012-01-30 20:14<br>赞(0) 踩(0) | <div>沧</div> |
@@ -1327,7 +1327,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7846874)<br><br>2012-01-30 14:44<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7730510)<br>虾听而已<br>2012-01-30 12:39<br>赞(0) 踩(0) | <div>越老越的歌，感动是岁月成长的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/923079)<br>暂无签名~<br>2012-01-30 12:33<br>赞(0) 踩(0) | <div>出来这趟 满眼的辛酸 老也想哭 再次向那些在北上广顺利活着并继续拼搏奋斗的年轻人致敬 你们真的很棒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7734488)<br><br>2012-01-30 12:03<br>赞(0) 踩(0) | <div>我看着满目创痍的繁华感到痛彻心肺的惆怅听着心在爆裂的巨响陷入深不见底的悲伤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7734488)<br><br>2012-01-30 12:03<br>赞(0) 踩(0) | <div>我看着满目创痍的繁华<br>感到痛彻心肺的惆怅<br>听着心在爆裂的巨响<br>陷入深不见底的悲伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6648402)<br><br>2012-01-30 11:12<br>赞(0) 踩(0) | <div>成长的路上，青春是永远的故乡……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5188666)<br><br>2012-01-30 00:29<br>赞(0) 踩(0) | <div>青春，好好珍惜。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7841362)<br><br>2012-01-29 23:45<br>赞(0) 踩(0) | <div>再见青春再见美丽的疼痛  再见青春再永恒的迷惘</div> |
@@ -1376,12 +1376,12 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782569)<br><br>2012-01-24 16:59<br>赞(0) 踩(0) | <div>i</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6299666)<br><br>2012-01-24 16:40<br>赞(0) 踩(0) | <div>即将30岁了，既然路只有继续走下去没法回头，那就别回头了。再见，过去的28年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/544483)<br><br>2012-01-24 15:11<br>赞(0) 踩(0) | <div>不错 北京爱情故事</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260442)<br>我还没想好要写什么...<br>2012-01-24 15:03<br>赞(0) 踩(0) | <div>再见 青春再见美丽的疼痛再见 青春永远的故乡再见 青春再见灿烂的忧伤再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260442)<br>我还没想好要写什么...<br>2012-01-24 15:03<br>赞(0) 踩(0) | <div>再见 青春<br>再见美丽的疼痛<br>再见 青春<br>永远的故乡<br><br>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3248215)<br> <br>2012-01-24 14:58<br>赞(0) 踩(0) | <div>再见青春 再见灿烂的忧伤 再见青春 永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5170550)<br><br>2012-01-24 02:47<br>赞(0) 踩(0) | <div>再见，青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5828431)<br>往世五百年的回眸才换来今...<br>2012-01-24 01:36<br>赞(0) 踩(0) | <div>very very nice的歌，因为某mm推荐看的《北爱》才听到的歌，特别最后那段华彩。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6418131)<br><br>2012-01-23 18:38<br>赞(0) 踩(0) | <div>我现在听的歌都是什么路线呢？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6814936)<br><br>2012-01-23 13:27<br>赞(0) 踩(0) | <div>再见青春再见美丽的疼痛再见青春永恒的迷惘再见青春再见美丽的疼痛再见青春永远的故乡再见青春再见灿烂的忧伤再见青春永恒的迷惘再见青春再见美丽的疼痛再见青春永远的故乡再见青春再见灿烂的忧伤再见青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6814936)<br><br>2012-01-23 13:27<br>赞(0) 踩(0) | <div>再见青春<br>再见美丽的疼痛<br>再见青春<br>永恒的迷惘<br><br>再见青春<br>再见美丽的疼痛<br>再见青春<br>永远的故乡<br><br>再见青春<br>再见灿烂的忧伤<br>再见青春<br>永恒的迷惘<br><br>再见青春<br>再见美丽的疼痛<br>再见青春<br>永远的故乡<br><br>再见青春<br>再见灿烂的忧伤<br>再见青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7186214)<br><br>2012-01-22 14:21<br>赞(0) 踩(0) | <div>喜欢 #北爱#  喜欢 再见青春，喜欢那种经久不衰的哥们儿情；喜欢北漂一族的那种奋斗精神。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7761077)<br><br>2012-01-22 00:08<br>赞(0) 踩(0) | <div>再见 青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3697498)<br><br>2012-01-21 20:39<br>赞(0) 踩(0) | <div>最近开始喜欢听汪峰的歌。再见，青春，再见灿烂的忧伤。</div> |
@@ -1393,8 +1393,8 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6788671)<br><br>2012-01-19 07:30<br>赞(0) 踩(0) | <div>再见，青春…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3760822)<br> <br>2012-01-18 22:00<br>赞(0) 踩(0) | <div>晚安，地球。继续上床一边看后宫甄嬛传一边培养睡意。话说这几天爱上了一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7721589)<br><br>2012-01-18 20:05<br>赞(0) 踩(0) | <div>再见，再见。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2155239)<br><br>2012-01-18 16:45<br>赞(0) 踩(0) | <div>我看着满目创痍的繁华感到痛彻心肺的惆怅听着心在爆裂的巨响陷入深不见底的悲伤伴着铁皮车厢的摇晃伴着野菊花开的芬芳雨会从记忆的指间滑落带着血中曼舞的青鸟带着风中悲鸣的草帽从燃烧的风中滑落再见青春再见美丽的疼痛再见青春永恒的迷惘</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2640323)<br> <br>2012-01-18 14:37<br>赞(0) 踩(0) | <div>再见 青春再见美丽的疼痛再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2155239)<br><br>2012-01-18 16:45<br>赞(0) 踩(0) | <div>我看着满目创痍的繁华<br>感到痛彻心肺的惆怅<br>听着心在爆裂的巨响<br>陷入深不见底的悲伤<br>伴着铁皮车厢的摇晃<br>伴着野菊花开的芬芳<br>雨会从记忆的指间滑落<br>带着血中曼舞的青鸟<br>带着风中悲鸣的草帽<br>从燃烧的风中滑落<br>再见青春<br>再见美丽的疼痛<br>再见青春<br>永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2640323)<br> <br>2012-01-18 14:37<br>赞(0) 踩(0) | <div>再见 青春<br>再见美丽的疼痛<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7403852)<br><br>2012-01-18 03:59<br>赞(0) 踩(0) | <div>習慣在回家前一夜守著天明 真不知是何時開始的臭毛病 [咖啡咖啡] 一首歌被賦予了一個故事之後 那種深刻是無法比擬的 [微風] 很慶倖 在這一刻 我讀懂了這一曲『再見 青春』 [飛機]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7712986)<br><br>2012-01-18 02:36<br>赞(0) 踩(0) | <div>。。。我将在深秋的黎明出发 伴着铁皮车厢的摇晃 伴着野菊花开的芬芳 在梦碎的黎明出发~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6824406)<br><br>2012-01-18 02:07<br>赞(0) 踩(0) | <div>像一只被许多人摆布着的傀儡，这里牵一下，那里动一下，希望讨好所有人，最后发现却谁都满足不了。最可悲的是，彻底失去了自我。</div> |
@@ -1405,7 +1405,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7107394)<br><br>2012-01-17 01:29<br>赞(0) 踩(0) | <div>最近很喜欢这首歌。再见青春，再见美丽的疼痛。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7563965)<br><br>2012-01-16 16:49<br>赞(0) 踩(0) | <div>《北爱》看完了喜欢林夏这个角色。北京是我们正在奋斗城市中的的一个代表，他们的生活 友情 爱情 面包 我们或许经历过或许有些相似，不得不成长的成长，不得不选择的爱情 面包，青春太美，或许我们终会生悔。嘀嗒嘀嗒嘀嗒嘀嗒，时针它不停在转动，嘀嗒嘀嗒嘀嗒嘀嗒，小雨她拍打着水花。再见了，青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7421846)<br><br>2012-01-16 14:13<br>赞(0) 踩(0) | <div>《北爱》插曲，超耐听···</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7689137)<br>好人变坏 比坏人更坏<br>2012-01-16 10:40<br>赞(0) 踩(0) | <div>再见 青春再见美丽的疼痛再见 青春永远的故乡再见 青春再见灿烂的忧伤再见 青春永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7689137)<br>好人变坏 比坏人更坏<br>2012-01-16 10:40<br>赞(0) 踩(0) | <div>再见 青春<br>再见美丽的疼痛<br>再见 青春<br>永远的故乡<br><br>再见 青春<br>再见灿烂的忧伤<br>再见 青春<br>永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7685225)<br>自嗨<br>2012-01-15 22:55<br>赞(0) 踩(0) | <div>《再见青春》北爱的插曲，一首很伤感的歌！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4444675)<br><br>2012-01-14 23:01<br>赞(0) 踩(0) | <div>再见。见。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4703074)<br><br>2012-01-14 17:06<br>赞(0) 踩(0) | <div>再见，美丽的疼痛；再见，灿烂的忧伤。</div> |
@@ -1417,7 +1417,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2278683)<br><br>2012-01-11 13:14<br>赞(0) 踩(0) | <div>再见了，青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7454428)<br><br>2012-01-10 22:22<br>赞(0) 踩(0) | <div>北京爱情故事，一天两集[bobo纠结][bobo纠结][bobo纠结]可是银家已经看上瘾了，汪峰的歌还有感[bobo不要啊][bobo不要啊]青春，我那一去不复返的清楚呐~~~[bobo抓狂][bobo抓狂][bobo抓狂]推荐给你@托小美砚 不知疯子和丸子是不是下一对陆涛和夏琳[思考][挖鼻屎][挖鼻屎]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1168709)<br><br>2012-01-10 19:00<br>赞(0) 踩(0) | <div>我曾随迷失的航船沉没 　　陷入璀璨虚空的碎梦 。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2012-01-09 12:03<br>赞(0) 踩(0) | <div>此歌毕火喜欢这首歌的朋友还可以听听晚安北京一个调调哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2012-01-09 12:03<br>赞(0) 踩(0) | <div>此歌毕火<br><br>喜欢这首歌的朋友还可以听听<br><br>晚安北京<br><br>一个调调哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/944611)<br> <br>2012-01-08 22:08<br>赞(0) 踩(0) | <div>青春就像一場大雨，即使感冒了，盼望回頭再淋它一次。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2855636)<br><br>2011-12-19 22:30<br>赞(0) 踩(0) | <div>最近一直在单曲循环这首歌。再见了，2006-2011。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/618016)<br>越努力 越幸运<br>2011-12-16 00:46<br>赞(0) 踩(0) | <div>再见 美丽的疼痛</div> |
@@ -1425,7 +1425,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7172478)<br><br>2011-12-09 21:28<br>赞(0) 踩(0) | <div>再见青春、再见美丽的疼痛。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7170563)<br><br>2011-12-09 19:32<br>赞(0) 踩(0) | <div>喜欢悲伤的歌，特别是最后的SOLO！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6946335)<br><br>2011-12-09 14:54<br>赞(0) 踩(0) | <div>“我要做一个魔术师，当我变不成花样了，我就自己出丑，因为我不能悲伤地坐在你身旁。”——左小祖咒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6946335)<br><br>2011-12-09 14:54<br>赞(0) 踩(0) | <div>“我要做一个魔术师，当我变不成花样了，我就自己出丑，因为我不能悲伤地坐在你身旁。”——左小祖咒@硫碳  当你失眠可无限循环。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6946335)<br><br>2011-12-09 14:54<br>赞(0) 踩(0) | <div>“我要做一个魔术师，当我变不成花样了，我就自己出丑，因为我不能悲伤地坐在你身旁。”——左小祖咒<br>@硫碳  当你失眠可无限循环。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5858493)<br><br>2011-12-08 13:13<br>赞(0) 踩(0) | <div>我将在深秋的黎明出发，伴着铁皮车厢的摇晃，伴着野菊花开的芬芳，在梦碎的黎明出发。 再见，青春，再见美丽的疼痛，永恒的迷惘，雨会从记忆的指间滑落，带着血中曼舞的青鸟，带着风中悲鸣的草帽，从燃烧的风中滑落 。——再见，青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6604441)<br><br>2011-11-06 08:58<br>赞(0) 踩(0) | <div>我一直喜欢汪峰   你们也会喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6641116)<br><br>2011-11-06 07:27<br>赞(0) 踩(0) | <div>提前獻給我下個月很不情願過的生日。再見，不能再2的日子。</div> |
@@ -1444,9 +1444,9 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2999025)<br><br>2011-04-05 06:38<br>赞(0) 踩(0) | <div>他的歌总能听到我的心震颤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/927913)<br><br>2011-03-21 01:16<br>赞(0) 踩(0) | <div>F****</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1437863)<br><br>2011-02-13 18:04<br>赞(0) 踩(0) | <div>再见，青春。GOOD BYE,MY LOVE.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1499072)<br><br>2011-02-10 17:21<br>赞(0) 踩(0) | <div>再见，青春。再见，美丽的疼痛。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1499072)<br><br>2011-02-10 17:21<br>赞(0) 踩(0) | <div>再见，青春。<br>再见，美丽的疼痛。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2216175)<br><br>2011-01-18 20:38<br>赞(0) 踩(0) | <div>再见。喵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1179461)<br><br>2010-12-22 18:22<br>赞(0) 踩(0) | <div>让我想起BEYOND 的“再见理想”。家驹后就是汪峰了！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1179461)<br><br>2010-12-22 18:22<br>赞(0) 踩(0) | <div>让我想起BEYOND 的“再见理想”。<br><br>家驹后就是汪峰了！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2242336)<br><br>2010-12-21 11:20<br>赞(0) 踩(0) | <div>再见，青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1208024)<br><br>2010-12-02 13:09<br>赞(0) 踩(0) | <div>再见青春,再见永恒的迷惘~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1580035)<br><br>2010-11-20 01:39<br>赞(0) 踩(0) | <div>╮(╯▽╰)╭</div> |
@@ -1458,7 +1458,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/528019)<br><br>2010-09-09 12:59<br>赞(0) 踩(0) | <div>青春之恸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166577)<br>我愿意当那一刻孤星<br>2010-09-02 19:07<br>赞(0) 踩(0) | <div>原来那叫青春——曾经的美丽疼痛，过往的灿烂忧伤。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1389947)<br><br>2010-09-02 16:55<br>赞(0) 踩(0) | <div>感伤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323280)<br>_<br>2010-09-02 12:20<br>赞(0) 踩(0) | <div>谢谢小bh的荐歌如何也握不住的 是一直在挥霍的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323280)<br>_<br>2010-09-02 12:20<br>赞(0) 踩(0) | <div>谢谢小bh的荐歌<br>如何也握不住的 是一直在挥霍的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/499102)<br>Thru the Nev<br>2010-08-22 10:04<br>赞(0) 踩(0) | <div>独爱贾轶男的尾奏solo。太牛叉了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/683592)<br><br>2010-08-03 14:39<br>赞(0) 踩(0) | <div>每个认都曾迷失的青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2010-07-27 14:09<br>赞(0) 踩(0) | <div>默默的与青春挥手告别。</div> |
@@ -1467,7 +1467,7 @@ Drum：关菲
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244972)<br>干爵士哟<br>2009-11-21 15:02<br>赞(0) 踩(0) | <div>确实可称为自己抄袭自己，但是我很喜欢。希望汪峰每张专辑都出一首这种风格的歌曲，将来再将《晚安北京》《再见二十世纪》《北京，北京》《再见青春》这些歌出一个合辑。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/499102)<br>Thru the Nev<br>2010-08-22 10:04<br>赞(0) 踩(0) | <div>飞的更高，怒放什么的也可以整一个。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9)<br>不来都得死<br>2009-11-20 18:22<br>赞(0) 踩(0) | <div>青春挽歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311044)<br>白天看廟，晚上睡覺。<br>2009-11-06 21:08<br>赞(0) 踩(0) | <div>再见 青春再见 美丽的疼痛再见 永远的故乡再见 灿烂的忧伤再见 永恒的迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311044)<br>白天看廟，晚上睡覺。<br>2009-11-06 21:08<br>赞(0) 踩(0) | <div>再见 青春<br>再见 美丽的疼痛<br>再见 永远的故乡<br>再见 灿烂的忧伤<br>再见 永恒的迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247780)<br>世间只有情难诉<br>2009-11-05 10:30<br>赞(0) 踩(0) | <div>我觉得和他自己的再见，二十世纪基本上没什么区别。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-10-06 14:35<br>赞(0) 踩(0) | <div>青春。。。之后是：再见，青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7)<br>单恋木吉他<br>2009-08-06 17:19<br>赞(0) 踩(0) | <div>这就算是自己抄自己了喽，，，续集续集～～再见 青春</div> |

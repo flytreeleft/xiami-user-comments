@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1bfc1e1214e8cc6daebb54212275537d.jpg)<br>王德兵](https://i.xiami.com/wdb) | **播放数**: 2690169<br>**粉丝数**: 339<br>**评论数**: 10<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 轻音乐 Easy Listening, 电子 Electronic, 古风 GuFeng Music, 中国民乐 Chinese Folk Music<br> |
+| [![](../../images/musicians/1bfc1e1214e8cc6daebb54212275537d.jpg)<br>王德兵](https://i.xiami.com/wdb) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 轻音乐 Easy Listening, 电子 Electronic, 古风 GuFeng Music, 中国民乐 Chinese Folk Music<br>**播放数**: 2690169<br>**粉丝数**: 339<br>**评论数**: 10<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -187,8 +184,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37213889)<br> <br>2019-10-18 15:36<br>赞(0) 踩(0) | <div>亲买走秀音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2019-09-15 20:06<br>赞(0) 踩(0) | <div>☠️☠️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264444933)<br>我喜欢我。我还是我。<br>2019-08-22 23:54<br>赞(0) 踩(0) | <div>hey</div> |

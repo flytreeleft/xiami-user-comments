@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e53b0987a63e9b620588ab32dcdaf28c.jpg)<br>秦博](https://i.xiami.com/bona) | **播放数**: 23980657<br>**粉丝数**: 4547<br>**评论数**: 43<br>**地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 国语流行 Mandarin Pop, 校园民谣 Campus Folk, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/e53b0987a63e9b620588ab32dcdaf28c.jpg)<br>秦博](https://i.xiami.com/bona) | **地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 国语流行 Mandarin Pop, 校园民谣 Campus Folk, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 23980657<br>**粉丝数**: 4547<br>**评论数**: 43<br> |
 
 ## 档案
 
@@ -141,8 +141,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276786607)<br>-|-<br>2020-09-14 18:31<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276786607)<br>-|-<br>2020-09-14 18:30<br>赞(0) 踩(0) | <div>66661、         ф      卍卍卍||||||    6661 <img src="../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276431230)<br><br>2020-06-21 12:43<br>赞(1) 踩(0) | <div>愿你越来越棒。愿你越来越好。</div> |

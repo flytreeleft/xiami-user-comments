@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324233573)<br><br>2020-07-25 21:52<br>赞(1) 踩(0) | <div>很早的时候总磁带听呢 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">跟喜欢这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40847160)<br>无形式人士。<br>2020-02-14 02:59<br>赞(0) 踩(0) | <div>这是我初中最喜欢的专辑了，里面的每一首歌当时都会唱。金海心的嗓子真的是太棒了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295376066)<br><br>2019-06-09 04:34<br>赞(0) 踩(0) | <div>自带仙气</div> |
@@ -27,8 +24,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295376066)<br><br>2019-06-07 00:16<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412722176)<br><br>2019-06-01 19:29<br>赞(2) 踩(0) | <div>这是金海心的原创</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422686906)<br><br>2019-05-22 06:00<br>赞(4) 踩(0) | <div>这是金海心的成名曲，那时候感觉她好可爱，独特的嗓音，带着一种高贵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52713658)<br><br>2019-04-26 18:53<br>赞(2) 踩(0) | <div>5 5 5 7 2 4 是落叶轻轻哭泣1 1 1 2 3 7 没有人认真在听 那被你遗忘的旋律 却是我宿命的追寻公园就要拆去别拆去记忆 何不用歌声摘录下你的日记 如果你不爱唱歌也没关系</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52713658)<br><br>2019-04-26 18:53<br>赞(3) 踩(0) | <div>这大街上来来往往的红男绿女 从不忘带出门的是面无表情我那颗总爱唱歌的心灵 也就只好两手一摊坐在路边休息不管 3 3 6 3 或是 3 1 2 7 像一个一个困在凡间的精灵我愿意歌颂祖国和表扬爱情 但只盼望听我歌唱的人赶快清醒1 1 1 2 3 5 像风筝呼啸而去</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52713658)<br><br>2019-04-26 18:53<br>赞(2) 踩(0) | <div>5 5 5 7 2 4 是落叶轻轻哭泣<br><br>1 1 1 2 3 7 没有人认真在听 那被你遗忘的旋律 却是我宿命的追寻<br><br>公园就要拆去别拆去记忆 何不用歌声摘录下你的日记 如果你不爱唱歌也没关系</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52713658)<br><br>2019-04-26 18:53<br>赞(3) 踩(0) | <div>这大街上来来往往的红男绿女 从不忘带出门的是面无表情<br>我那颗总爱唱歌的心灵 也就只好两手一摊坐在路边休息<br>不管 3 3 6 3 或是 3 1 2 7 像一个一个困在凡间的精灵<br>我愿意歌颂祖国和表扬爱情 但只盼望听我歌唱的人赶快清醒<br>1 1 1 2 3 5 像风筝呼啸而去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25638260)<br><br>2019-03-13 02:19<br>赞(1) 踩(0) | <div>唉，数学如果学不好的话，就不要说话，好吧？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336994134)<br>一直听下去<br>2019-01-14 00:22<br>赞(0) 踩(0) | <div>好听_(:з」∠)_</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257513825)<br>另一个 童话<br>2018-09-05 21:58<br>赞(2) 踩(0) | <div>00年春晚的歌曲，还有一首《谁》，当年的春晚是真好看</div> |

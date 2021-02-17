@@ -69,8 +69,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445947173)<br><br>2020-11-26 14:53<br>赞(0) 踩(0) | <div>LMF唱的最好听，可惜虾米没有 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2469312)<br><br>2020-08-01 12:49<br>赞(0) 踩(0) | <div>Sammi的原唱超好聽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380084984)<br>忘了痛或许可以忘了你却太...<br>2020-07-05 14:27<br>赞(0) 踩(0) | <div>只有哥哥翻唱的Salute专辑经典无伦，任何人翻唱哥歌都是翻车现场</div> |

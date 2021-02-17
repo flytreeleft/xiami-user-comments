@@ -49,8 +49,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25358042)<br><br>2020-11-06 08:23<br>赞(0) 踩(0) | <div>还不错的一首歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60395)<br>春种一粒粟<br>2020-06-28 16:16<br>赞(0) 踩(0) | <div>品冠的声音是那个总是很温暖的角落。定定的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178982630)<br>歲月剝落破損的外衣，還有...<br>2020-06-01 00:03<br>赞(0) 踩(0) | <div>好</div> |
@@ -70,8 +70,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8256667)<br>别瞄，你会哈上我！❤️❤...<br>2019-09-09 11:23<br>赞(2) 踩(0) | <div>人总是在各种事情，各种场合来回徘徊...兜兜转转，宛如反复听着的老歌.许久没听甚是想念.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419713073)<br><br>2019-08-05 21:14<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151656232)<br> <br>2019-08-03 18:31<br>赞(1) 踩(0) | <div>品冠的声音百听不厌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15177113)<br><br>2019-07-30 18:28<br>赞(2) 踩(0) | <div>未拆的礼物，声音好听！不过对于我来说，应该没有未拆的礼物了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424138639)<br><br>2019-07-26 14:43<br>赞(8) 踩(0) | <div>你是我这一生等了半世未拆的礼物这份爱太贵重捧在掌心再没有假如不怕好的给你坏的让我一个人挺住只怕为了你幸福不好意思再诉苦要让他们都羡慕</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15177113)<br><br>2019-07-30 18:28<br>赞(2) 踩(0) | <div>未拆的礼物，<br>声音好听！<br>不过对于我来说，<br>应该没有未拆的礼物了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424138639)<br><br>2019-07-26 14:43<br>赞(8) 踩(0) | <div>你是我这一生等了半世未拆的礼物<br>这份爱太贵重捧在掌心再没有假如<br>不怕好的给你坏的让我一个人挺住<br>只怕为了你幸福<br>不好意思再诉苦<br>要让他们都羡慕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204850700)<br>我爱的人你还没睡，我想言...<br>2019-06-20 09:59<br>赞(3) 踩(0) | <div>准备婚礼唱 <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png">，ktv里不知道唱过多少年了，就差那个也在变好变坚强的大礼物了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104359230)<br>勿忘初心<br>2019-05-30 22:47<br>赞(0) 踩(0) | <div>❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400146268)<br>我可以说我是被任务所吸引...<br>2019-05-17 07:37<br>赞(0) 踩(0) | <div>还不错</div> |
@@ -91,7 +91,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231370377)<br><br>2018-09-15 07:11<br>赞(1) 踩(0) | <div>可惜不是我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2018-08-27 09:48<br>赞(2) 踩(0) | <div>你是我这一生等了半世未拆的礼物</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355892600)<br>我还没想好要写什么...<br>2018-06-19 20:06<br>赞(2) 踩(0) | <div>聽真些 這首歌其實甜中帶點無奈 有點不肯定的感覺...就像我當日一樣</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334657481)<br><br>2018-04-20 08:52<br>赞(3) 踩(0) | <div>高中时候，一个人推荐给我听，我似乎现在才明白，原来，他也是用情至深，而我是真的爱过的，怎么有些许悲情</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334657481)<br><br>2018-04-20 08:52<br>赞(3) 踩(0) | <div>高中时候，一个人推荐给我听，<br>我似乎现在才明白，原来，他也是用情至深，<br>而我是真的爱过的，<br><br>怎么有些许悲情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213695941)<br><br>2018-04-19 18:39<br>赞(3) 踩(0) | <div>曾经最重要的人给我唱过这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353295741)<br><br>2018-04-06 14:12<br>赞(2) 踩(0) | <div>希望回到过去&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254868395)<br>只能短暂   所以大嚷<br>2018-04-04 12:44<br>赞(1) 踩(0) | <div>招摇哥哥结婚你放这首歌好不好？！！</div> |
@@ -357,7 +357,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5745440)<br>科科<br>2016-01-09 23:37<br>赞(0) 踩(0) | <div>不知道为什么每次听这首歌总会泪目</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98438190)<br><br>2016-01-08 16:52<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20837382)<br>嘘，发现死基佬一只。ლ(...<br>2016-01-05 15:22<br>赞(1) 踩(0) | <div>一分半，毫不犹豫给出了红心。 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9958261)<br>不听音乐我会死<br>2015-12-25 10:00<br>赞(1) 踩(0) | <div>你是我这一生等了半世未拆的礼物这份爱太贵重捧在掌心再没有假如不怕好的给你坏的让我一个人挺住只怕为了你幸福不好意思再诉苦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9958261)<br>不听音乐我会死<br>2015-12-25 10:00<br>赞(1) 踩(0) | <div>你是我这一生等了半世未拆的礼物<br>这份爱太贵重捧在掌心再没有假如<br>不怕好的给你坏的让我一个人挺住<br>只怕为了你幸福<br>不好意思再诉苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30842519)<br>暂无签名~<br>2015-12-14 00:04<br>赞(0) 踩(0) | <div>#存一些喜欢的歌#窗帘的后面是霓虹灯的闪耀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88779786)<br> <br>2015-12-05 01:35<br>赞(0) 踩(0) | <div>品冠的歌再回头听还是好有感觉好有感觉啊…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88306328)<br><br>2015-12-03 01:05<br>赞(0) 踩(0) | <div>唱出心声</div> |
@@ -414,7 +414,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15372572)<br>我还没想好要写什么...<br>2013-12-11 21:26<br>赞(0) 踩(0) | <div>晚安。。。宝宝。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10693731)<br><br>2013-12-11 13:33<br>赞(0) 踩(0) | <div>旋律很像野百合也有春天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17238466)<br><br>2013-12-07 19:17<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9725753)<br><br>2013-11-13 14:21<br>赞(0) 踩(0) | <div>不怕把你背在我的肩上走一辈子路只怕一个人吃苦 会让两个人孤独</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9725753)<br><br>2013-11-13 14:21<br>赞(0) 踩(0) | <div>不怕把你背在我的肩上走一辈子路<br>只怕一个人吃苦 会让两个人孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2883847)<br><br>2013-10-29 00:31<br>赞(0) 踩(0) | <div>嗯。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25499671)<br><br>2013-10-27 17:34<br>赞(0) 踩(0) | <div>..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22831381)<br><br>2013-09-23 23:55<br>赞(0) 踩(0) | <div>我最近是多念旧，超级喜欢听这首歌...</div> |
@@ -422,10 +422,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21541594)<br>我就我，我为自己代言<br>2013-09-09 14:58<br>赞(0) 踩(0) | <div>不错哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14544405)<br><br>2013-07-28 10:21<br>赞(28) 踩(0) | <div>只想说，林夕是混蛋！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17327291)<br><br>2013-07-26 14:19<br>赞(0) 踩(0) | <div>一直都喜欢品冠多过光良。@芋梗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2013-07-19 07:22<br>赞(0) 踩(0) | <div>（真愛找麻煩插曲）你是我这一生等了半世未拆的礼物,这份爱太贵重捧在掌心再没有假如....</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2013-07-19 07:22<br>赞(0) 踩(0) | <div>（真愛找麻煩插曲）你是我这一生等了半世未拆的礼物,<br>这份爱太贵重捧在掌心再没有假如....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9768012)<br><br>2013-07-15 00:21<br>赞(0) 踩(0) | <div>睡前温暖一下。晚安，你你你你你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13868598)<br><br>2013-06-25 13:59<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2013-06-19 09:41<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物,这份爱太贵重捧在掌心再没有假如...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8005827)<br><br>2013-06-19 09:41<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物,<br>这份爱太贵重捧在掌心再没有假如...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13775006)<br><br>2013-06-18 17:10<br>赞(0) 踩(0) | <div>很好听，也很有意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375821)<br>坑爹的世界<br>2013-06-09 00:17<br>赞(0) 踩(0) | <div>“你是我这一生等了半世未拆的礼物”真是矫情的歌词。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1287780)<br>暂无签名~<br>2013-06-08 21:18<br>赞(0) 踩(0) | <div>爱品冠</div> |
@@ -434,7 +434,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3446861)<br><br>2013-03-25 17:28<br>赞(0) 踩(0) | <div>“你是我这一生等了半世未拆的礼物。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3187877)<br><br>2013-03-22 09:09<br>赞(0) 踩(0) | <div>好温暖……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7135609)<br>如果漫长的孤独之后，终会...<br>2013-03-19 19:14<br>赞(0) 踩(0) | <div>现在开始喜欢这样甜甜的男声了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2482601)<br><br>2013-03-19 15:49<br>赞(0) 踩(0) | <div>希望你是我这一生等了半世未拆的礼物。希望。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2482601)<br><br>2013-03-19 15:49<br>赞(0) 踩(0) | <div>希望<br>你是我这一生<br>等了半世<br>未拆的礼物。<br>希望。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11485287)<br><br>2013-03-05 23:50<br>赞(0) 踩(0) | <div>回暖了，都能闻到荷尔蒙的味道……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4907257)<br> <br>2013-02-23 10:29<br>赞(0) 踩(0) | <div>被击碎一地的情怀/品冠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11550559)<br><br>2013-02-22 18:55<br>赞(0) 踩(0) | <div>这一生等了半世未拆的礼物</div> |
@@ -458,9 +458,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11106831)<br><br>2012-10-19 19:37<br>赞(0) 踩(0) | <div>1111111111</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5966678)<br><br>2012-10-14 13:56<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21789)<br><br>2012-10-12 11:03<br>赞(0) 踩(0) | <div>林夕的词永远是那么……莫言</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348351)<br><br>2012-10-06 15:40<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物这份爱太贵重捧在掌心再没有假如不怕把你背在我的肩上走一辈子路只怕一个人吃苦会让两个人孤独</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348351)<br><br>2012-10-06 15:40<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物<br>这份爱太贵重捧在掌心再没有假如<br>不怕把你背在我的肩上走一辈子路<br>只怕一个人吃苦<br>会让两个人孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7851647)<br><br>2012-09-05 19:52<br>赞(0) 踩(0) | <div>感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5612599)<br>时不我待。<br>2012-08-29 20:14<br>赞(0) 踩(0) | <div>不怕把你背在我的肩上走一辈子路只怕一个人吃苦 会让两个人孤独</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5612599)<br>时不我待。<br>2012-08-29 20:14<br>赞(0) 踩(0) | <div>不怕把你背在我的肩上走一辈子路<br>只怕一个人吃苦 会让两个人孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3974514)<br><br>2012-08-23 11:11<br>赞(0) 踩(0) | <div>七夕，祝大家幸福。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7990430)<br><br>2012-08-22 23:42<br>赞(0) 踩(0) | <div>@周周小艳 ~honey~七夕节快乐！：）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8530)<br><br>2012-08-17 11:37<br>赞(0) 踩(0) | <div>@恶魔六六  #婚后各种生活节点应景音乐#  半月盘点</div> |
@@ -470,7 +470,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8142599)<br><br>2012-07-27 15:14<br>赞(0) 踩(0) | <div>真的很有意思喔!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/981361)<br><br>2012-07-26 15:50<br>赞(0) 踩(0) | <div>很好听，很动情~~你是我这一生等了半世未拆的礼物</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5691213)<br><br>2012-07-24 21:53<br>赞(0) 踩(0) | <div>给那个说别人是礼物的人听听:)</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284664)<br> <br>2012-07-19 14:16<br>赞(0) 踩(0) | <div>这份爱太贵重捧在掌心再没有假如不怕把你背在我的肩上走一辈子路只怕一个人吃苦会让两个人孤独</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284664)<br> <br>2012-07-19 14:16<br>赞(0) 踩(0) | <div>这份爱太贵重捧在掌心再没有假如<br>不怕把你背在我的肩上走一辈子路<br>只怕一个人吃苦<br>会让两个人孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9500665)<br><br>2012-07-15 22:08<br>赞(0) 踩(0) | <div>喜欢这首歌曲！挺不错的啊！因为真爱找麻烦喜欢上的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6873783)<br><br>2012-07-09 13:38<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8142599)<br><br>2012-07-03 17:32<br>赞(0) 踩(0) | <div>有好歌一定要分享的~~</div> |
@@ -507,7 +507,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8326875)<br><br>2012-03-09 15:18<br>赞(0) 踩(0) | <div>品冠-&amp;amp;lt;未拆的礼物&amp;amp;gt;你是我这一生 等了半世 未拆的礼物❤❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6236081)<br><br>2012-03-05 22:27<br>赞(1) 踩(0) | <div>一个人最幸福的时刻，就是找对了人，Ta纵容你的习惯，并爱着你的一切！【每晚一首经典】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8193942)<br><br>2012-02-26 14:56<br>赞(0) 踩(0) | <div>9898</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/551718)<br><br>2012-02-26 13:47<br>赞(0) 踩(0) | <div>偶尔想 能遇到品冠一样的男人 温柔温暖温婉 然后等他唱这首“未拆的礼物”，满心疼惜40岁生日快乐 品冠先生。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/551718)<br><br>2012-02-26 13:47<br>赞(0) 踩(0) | <div>偶尔想 能遇到品冠一样的男人 温柔温暖温婉 然后等他唱这首“未拆的礼物”，满心疼惜<br><br>40岁生日快乐 品冠先生。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4322856)<br>一个人是一座岛<br>2012-02-24 22:29<br>赞(0) 踩(0) | <div>好感人的歌呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5719942)<br><br>2012-02-20 20:55<br>赞(0) 踩(0) | <div>只怕一个人吃苦 会让两个人孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3010214)<br><br>2012-02-20 17:50<br>赞(0) 踩(0) | <div>好听</div> |
@@ -521,7 +521,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1908503)<br>我还没想好要写什么...<br>2012-02-08 05:36<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2380372)<br><br>2012-02-07 11:08<br>赞(0) 踩(0) | <div>『MO歌曲推荐』又是一位即将结婚的明星…典型的品冠式的情歌，听完后会让你更加确定结婚的想法吗？望有情人终成眷属…大家快来推荐歌曲吧…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3900524)<br><br>2012-02-06 21:56<br>赞(0) 踩(0) | <div>nice</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4415235)<br>我还没想好要写什么...<br>2012-02-06 11:25<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物这份爱太贵重捧在掌心再没有假如不怕好的给你坏的让我一个人挺住只怕为了你幸福 不好意思再诉苦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4415235)<br>我还没想好要写什么...<br>2012-02-06 11:25<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物<br>这份爱太贵重捧在掌心再没有假如<br>不怕好的给你坏的让我一个人挺住<br>只怕为了你幸福 不好意思再诉苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7386392)<br><br>2012-02-04 09:39<br>赞(0) 踩(0) | <div>要让他们都羡慕 (*^__^*) 嘻嘻……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7461371)<br><br>2012-02-03 21:40<br>赞(0) 踩(0) | <div>明唱这个。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2833376)<br><br>2012-02-03 00:26<br>赞(0) 踩(0) | <div></div> |
@@ -538,7 +538,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7658062)<br><br>2012-01-19 23:14<br>赞(0) 踩(0) | <div>温暖的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1557295)<br><br>2012-01-19 18:08<br>赞(0) 踩(0) | <div>依旧很有特色的声音，还是很喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5383096)<br><br>2012-01-19 13:36<br>赞(0) 踩(0) | <div>選自品冠 &amp;amp;quot;未拆的禮物&amp;amp;quot;專輯(2011/12/30)</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1574198)<br>我还没想好要写什么...<br>2012-01-18 21:36<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物已经50岁了么？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1574198)<br>我还没想好要写什么...<br>2012-01-18 21:36<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物<br>已经50岁了么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6658183)<br><br>2012-01-18 10:11<br>赞(0) 踩(0) | <div>不敢肯定另一种相处的难度</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2236162)<br>羊咩咩<br>2012-01-17 15:49<br>赞(0) 踩(0) | <div>好聽!!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7702097)<br><br>2012-01-17 10:20<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物</div> |
@@ -565,7 +565,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7611747)<br><br>2012-01-10 13:15<br>赞(0) 踩(0) | <div>太好听了，你是我这一生等了半世未拆的礼物。这简直就说到我心坎里去了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3852213)<br><br>2012-01-10 07:27<br>赞(0) 踩(0) | <div>恩，真心的安慰，最近心里有些累，真的要好好休息</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4165732)<br><br>2012-01-10 01:22<br>赞(0) 踩(0) | <div>深夜边吃草莓边听品冠的新专辑真是各种疗伤和治愈啊。“你是我这一生等了半世未拆的礼物 这份爱太贵重捧在掌心再没有假如”……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5114743)<br><br>2012-01-10 00:51<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物这份爱太贵重捧在掌心再没有假如不怕把你背在我的肩上走一辈子路只怕一个人吃苦 会让两个人孤独我愿意 是如此严肃会否留恋过去浪漫的盲目</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5114743)<br><br>2012-01-10 00:51<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物<br>这份爱太贵重捧在掌心再没有假如<br>不怕把你背在我的肩上走一辈子路<br>只怕一个人吃苦 会让两个人孤独<br><br>我愿意 是如此严肃<br>会否留恋过去浪漫的盲目</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5841174)<br><br>2012-01-09 22:57<br>赞(0) 踩(0) | <div>“不敢肯定另一种相处的难度，怀念不安的追逐，想象安定的归宿。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2133780)<br><br>2012-01-09 13:45<br>赞(0) 踩(0) | <div>“你是我这一生等了半世未拆的礼物”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1702014)<br><br>2012-01-09 12:15<br>赞(0) 踩(0) | <div>“你是我这一生等了半世未拆的礼物，这份爱太贵重捧在手心再没有假如”</div> |
@@ -600,9 +600,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2254488)<br><br>2012-01-03 01:16<br>赞(0) 踩(0) | <div>好听的歌...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6779734)<br>我还没想好要写什么...<br>2012-01-02 23:00<br>赞(0) 踩(0) | <div>双鱼座B型很温暖的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3661813)<br><br>2012-01-02 22:11<br>赞(1) 踩(0) | <div>会有一天 我无需写温暖的情歌 惹你瞩目 此时冰凉的手指 告诉我这天不远 那天我能安心喊出你名字 拥你入怀抱 由此礼物便不需再封存</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2012-01-02 21:35<br>赞(0) 踩(0) | <div>1月2日           晴天气出奇的好，舒服地享受着难得的假期。今天还是我的生日，生日蛋糕 羊肉面，生日快乐！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74013)<br><br>2012-01-02 21:35<br>赞(0) 踩(0) | <div>1月2日           晴<br>天气出奇的好，舒服地享受着难得的假期。<br>今天还是我的生日，生日蛋糕 羊肉面，生日快乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/965827)<br><br>2012-01-02 20:18<br>赞(0) 踩(0) | <div>2012.01.02</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5817375)<br><br>2012-01-02 20:14<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物，这份爱太贵重捧在掌心再没有假如不怕好的给你坏的让我一个人挺住，只怕为了你幸福，不好意思再诉苦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5817375)<br><br>2012-01-02 20:14<br>赞(0) 踩(0) | <div>你是我这一生等了半世未拆的礼物，这份爱太贵重捧在掌心再没有假如<br>不怕好的给你坏的让我一个人挺住，只怕为了你幸福，不好意思再诉苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3003641)<br><br>2012-01-02 19:30<br>赞(0) 踩(0) | <div>很品冠风格的一张专辑，温暖、朗朗上口。但是林夕的国语填词总有押韵过多过密的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2504223)<br><br>2012-01-02 16:11<br>赞(0) 踩(0) | <div>一如既往的品冠</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4112916)<br><br>2012-01-02 12:47<br>赞(0) 踩(0) | <div>去年这个时候希望自己做一个有趣的人，今年还是努力做一个靠谱的人。</div> |

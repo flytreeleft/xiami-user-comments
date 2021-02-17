@@ -68,8 +68,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27793105)<br><br>2020-12-12 11:16<br>赞(0) 踩(0) | <div>这首太给劲了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400353014)<br><br>2020-06-18 09:04<br>赞(0) 踩(0) | <div>金刚护体，百毒不侵。度劫，愿疫情早过去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427796258)<br>古老的签名<br>2020-06-10 13:14<br>赞(0) 踩(0) | <div>来了来了</div> |
@@ -85,14 +85,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15073)<br>扯下眼前的那一块红布！<br>2020-02-28 08:13<br>赞(2) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7031762)<br>电影厨房食物烹制采样～A...<br>2020-02-22 23:15<br>赞(3) 踩(0) | <div>电音诵经 新鲜了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46940588)<br>我还没想好要写什么...<br>2020-02-22 16:29<br>赞(2) 踩(0) | <div>左小听着就是来劲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337599643)<br>  （拒聊）<br>2020-02-20 11:59<br>赞(44) 踩(0) | <div>空中的水气与阳光相遇，就会在我们眼前呈现一道彩虹；春天播下的种子与秋天相遇，就会在我们眼前呈现累累硕果。正所谓：未曾有一法，不从因缘生。那传承佛法的堪布遇到电子音乐，又会是怎样？音乐中因为有了堪布念诵的梵音，成为了让众生身心清净的佛乐，而堪布念诵的祈祷文与心咒，也因为世界音乐元素的加入，而让更多人有机缘聆听到这些法音，种下解脱安乐之因。 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337599643)<br>  （拒聊）<br>2020-02-20 11:59<br>赞(44) 踩(0) | <div>空中的水气与阳光相遇，就会在我们眼前呈现一道彩虹；春天播下的种子与秋天相遇，就会在我们眼前呈现累累硕果。正所谓：未曾有一法，不从因缘生。<br>那传承佛法的堪布遇到电子音乐，又会是怎样？<br>音乐中因为有了堪布念诵的梵音，成为了让众生身心清净的佛乐，而堪布念诵的祈祷文与心咒，也因为世界音乐元素的加入，而让更多人有机缘聆听到这些法音，种下解脱安乐之因。 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288262962)<br><br>2020-02-20 15:55<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423723468)<br><br>2020-02-23 14:41<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2968260)<br>暂无签名~<br>2020-02-19 00:54<br>赞(0) 踩(0) | <div>[带墨镜笑]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80964624)<br>70后小伙  听到极致<br>2020-02-18 17:01<br>赞(0) 踩(0) | <div>传说中 唱神歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37572520)<br>坐在马桶上听歌真是最幸福...<br>2020-02-18 03:37<br>赞(0) 踩(0) | <div>～～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434291814)<br><br>2020-02-15 00:38<br>赞(3) 踩(0) | <div>金刚铠甲咒嗡巴玛夏瓦热 帕的南巴修纳嘎南达雅塔 萨瓦沃热达哈纳哈纳班贼纳阿恰阿恰索哈愿大家都百毒不侵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440224632)<br><br>2020-02-09 00:11<br>赞(3) 踩(0) | <div>左叔也开始玩电音了。∠( ᐛ 」∠)＿愿我们都有一副金刚铠甲加持，百毒不侵，百无禁忌。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434291814)<br><br>2020-02-15 00:38<br>赞(3) 踩(0) | <div>金刚铠甲咒<br>嗡巴玛夏瓦热 帕的南巴修<br>纳嘎南达雅塔 萨瓦沃热达<br>哈纳哈纳班贼纳<br>阿恰阿恰索哈<br>愿大家都百毒不侵</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440224632)<br><br>2020-02-09 00:11<br>赞(3) 踩(0) | <div>左叔也开始玩电音了。∠( ᐛ 」∠)＿<br>愿我们都有一副金刚铠甲加持，百毒不侵，百无禁忌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153386220)<br><br>2020-02-08 02:55<br>赞(2) 踩(0) | <div>啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29117)<br>我还没想好要写什么...<br>2020-02-07 20:43<br>赞(0) 踩(0) | <div>∞的加持力☀️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153386220)<br><br>2020-02-07 06:48<br>赞(1) 踩(0) | <div>啦啦啦</div> |
@@ -110,7 +110,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362852251)<br><br>2020-02-04 06:44<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32197344)<br>我还没想好要写什么...<br>2020-02-04 00:59<br>赞(2) 踩(0) | <div>很久没听到这么感动的音乐了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50381060)<br><br>2020-02-04 00:45<br>赞(2) 踩(0) | <div>******</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/721351)<br><br>2020-02-04 00:35<br>赞(2) 踩(0) | <div>好的出发点总会有好的福报！阿弥陀佛！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/721351)<br><br>2020-02-04 00:35<br>赞(2) 踩(0) | <div>好的出发点总会有好的福报！<br>阿弥陀佛！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345715366)<br>我还没想好要写什么...<br>2020-02-04 00:26<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18057843)<br>唵南无湿婆耶～<br>2020-02-04 00:14<br>赞(0) 踩(0) | <div>防护措施必须有~ <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12701152)<br><br>2020-02-04 00:10<br>赞(1) 踩(0) | <div>听说念此咒能防.... 反正比双黄莲蓉有用！</div> |

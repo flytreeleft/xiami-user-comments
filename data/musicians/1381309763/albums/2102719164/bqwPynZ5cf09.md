@@ -36,5 +36,3 @@ And never again depart
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

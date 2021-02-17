@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c66b6915d990bae7ecb479f32e1a6197.jpg)<br>邱爽](https://i.xiami.com/qq77) | **播放数**: 4318142<br>**粉丝数**: 283<br>**评论数**: 3<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/c66b6915d990bae7ecb479f32e1a6197.jpg)<br>邱爽](https://i.xiami.com/qq77) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 4318142<br>**粉丝数**: 283<br>**评论数**: 3<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -30,8 +27,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284942810)<br><br>2020-07-15 06:01<br>赞(1) 踩(0) | <div>我听歌风格是九十年代，和零几年的黄金歌曲，是有内涵的那些，但是在大鱼这首歌里面，我偏偏选择了她的，感觉只有她唱的合适</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284942810)<br><br>2020-07-15 05:58<br>赞(1) 踩(0) | <div>真的不错，可惜哦，现在歌手太多啦，九三年的大龄单身青年到此一留。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15856807)<br>我还没想好要写什么...<br>2020-04-24 23:03<br>赞(0) 踩(0) | <div>好听！</div> |

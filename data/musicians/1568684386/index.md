@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a90310678619eab57cd9a763d3b27a66.jpg)<br>阿纠](https://i.xiami.com/joy) | **播放数**: 1757056<br>**粉丝数**: 278<br>**评论数**: 84<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 根源唱作人 Singer-Songwriter<br> |
+| [![](../../images/musicians/a90310678619eab57cd9a763d3b27a66.jpg)<br>阿纠](https://i.xiami.com/joy) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 根源唱作人 Singer-Songwriter<br>**播放数**: 1757056<br>**粉丝数**: 278<br>**评论数**: 84<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2527184)<br><br>2019-07-24 22:33<br>赞(0) 踩(0) | <div>很好听的声音，可以多唱唱英文歌啊，一定很好听 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201980789)<br>我还没想好要写什么...<br>2019-07-18 14:52<br>赞(0) 踩(0) | <div>好听哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294027867)<br><br>2019-04-10 21:36<br>赞(0) 踩(0) | <div>good</div> |

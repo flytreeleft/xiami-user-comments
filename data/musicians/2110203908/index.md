@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7af9a6ff2533715db3a512ce0f86dc45.jpg)<br>浅川十七厂牌](https://i.xiami.com/seventeen) | **播放数**: 2968175<br>**粉丝数**: 82<br>**评论数**: 10<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 民谣 Folk<br> |
+| [![](../../images/musicians/7af9a6ff2533715db3a512ce0f86dc45.jpg)<br>浅川十七厂牌](https://i.xiami.com/seventeen) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 民谣 Folk<br>**播放数**: 2968175<br>**粉丝数**: 82<br>**评论数**: 10<br> |
 
 ## 档案
 
@@ -19,8 +19,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116623564)<br><br>2017-06-21 14:04<br>赞(0) 踩(0) | <div>浅川十七，echo看到的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116623564)<br><br>2017-06-21 14:04<br>赞(0) 踩(0) | <div>浅川十七，echo看到的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274046167)<br><br>2017-04-10 06:20<br>赞(0) 踩(0) | <div>喜欢</div> |

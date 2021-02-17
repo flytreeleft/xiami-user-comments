@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/84b60dc05e7ba9dad3440fcdb88e6ccd.jpg)<br>赖康康](https://i.xiami.com/laikangkang) | **播放数**: 1397560<br>**粉丝数**: 600<br>**评论数**: 22<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 弛放 Chillout<br> |
+| [![](../../images/musicians/84b60dc05e7ba9dad3440fcdb88e6ccd.jpg)<br>赖康康](https://i.xiami.com/laikangkang) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 弛放 Chillout<br>**播放数**: 1397560<br>**粉丝数**: 600<br>**评论数**: 22<br> |
 
 ## 档案
 
@@ -21,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429518204)<br><br>2020-02-22 00:18<br>赞(0) 踩(0) | <div>******</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/436434179)<br>我没想过离开你后我会有多...<br>2020-03-05 20:09<br>赞(0) 踩(0) | <div>赖康康 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44692616)<br><br>2019-11-18 00:37<br>赞(0) 踩(0) | <div>多出好作品</div> |

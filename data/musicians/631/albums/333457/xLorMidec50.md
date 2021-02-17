@@ -51,8 +51,8 @@ Sharon 护照属Britain<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410302970)<br>我还没想好要写什么...<br>2018-12-19 15:54<br>赞(0) 踩(0) | <div>高中的时候听到，后来去了英国读书，走过英国各种地方，才明白歌词里面“护照属Britain，心属Scotland” 是什么感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/394744)<br>我还没想好要写什么...<br>2018-11-20 17:58<br>赞(0) 踩(0) | <div>#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40848)<br>Fill my hear...<br>2017-10-28 00:02<br>赞(2) 踩(0) | <div>不是分享这首歌还不知道腾讯跟阿里已经打成前面一条微博的样子了…回顾老歌，我发现我抒情水平停留在听这张专辑时候的大三水平…“年轻人，are you ok？为什么你眼中有泪，你在思念谁还是想忘记谁？”“我想问有何分别…”</div> |

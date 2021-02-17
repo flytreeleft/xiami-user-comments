@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/fe42c53d4b59612ca5e8ca140ebd8ddf.jpg)<br>任灿](https://i.xiami.com/rencan) | **播放数**: 3117459<br>**粉丝数**: 766<br>**评论数**: 56<br>**地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/fe42c53d4b59612ca5e8ca140ebd8ddf.jpg)<br>任灿](https://i.xiami.com/rencan) | **地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 独立民谣 Indie Folk<br>**播放数**: 3117459<br>**粉丝数**: 766<br>**评论数**: 56<br> |
 
 ## 档案
 
@@ -22,8 +22,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444315914)<br><br>2020-08-09 23:08<br>赞(0) 踩(0) | <div>歌很听啊   是我喜欢的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410854061)<br><br>2020-01-04 15:24<br>赞(0) 踩(0) | <div>你的歌很好听(ง •̀_•́)ง，你在哪里有演唱会吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12777118)<br><br>2019-09-09 13:29<br>赞(2) 踩(0) | <div>声音很喜欢呀。。期待新作品</div> |
@@ -42,7 +42,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/560935)<br>给点阳光就会灿烂<br>2018-10-05 13:08<br>赞(0) 踩(0) | <div>很不错，声音有磁性</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9478563)<br>成都的雨不停的下，就像你...<br>2018-09-22 00:03<br>赞(1) 踩(0) | <div>才华直逼逼哥啊兄弟！看好你！加油 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309806561)<br>浮荒千里<br>2018-08-28 14:39<br>赞(0) 踩(0) | <div>乡音怎么了？你们听不懂么？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346087991)<br>医路漫漫 音乐为伴<br>2018-08-23 18:21<br>赞(2) 踩(0) | <div>吐字不清没关系啊有口音也没关系啊那么好的音乐足够完美了支持期待更多佳作</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346087991)<br>医路漫漫 音乐为伴<br>2018-08-23 18:21<br>赞(2) 踩(0) | <div>吐字不清没关系啊<br>有口音也没关系啊<br>那么好的音乐<br>足够完美了<br>支持<br>期待更多佳作</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96835356)<br>嘘——<br>2018-07-30 23:22<br>赞(1) 踩(0) | <div>挺有味道的音乐人，有一些些游走漂泊的意蕴。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342256261)<br><br>2018-05-22 08:17<br>赞(0) 踩(0) | <div>吐词太难听，不要再给我推荐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287560964)<br><br>2018-05-15 08:59<br>赞(0) 踩(0) | <div>请保持自己的风格。支持！</div> |

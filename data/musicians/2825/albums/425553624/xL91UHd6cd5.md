@@ -62,8 +62,8 @@ ISRC：TW-M05-15-00002
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357669515)<br><br>2019-05-13 10:33<br>赞(1) 踩(0) | <div>他们的编曲都没有特色，缺少打动人的效果，白费了好声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88589960)<br>我还没想好要写什么...<br>2019-03-29 23:07<br>赞(0) 踩(0) | <div>超好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262350410)<br>没有值不值得，只有愿不愿...<br>2018-11-06 00:24<br>赞(0) 踩(0) | <div>从高一喜欢《杀破狼》到现在，喜欢他们的音色和节奏，可以作品很少，期待！</div> |
@@ -128,7 +128,7 @@ ISRC：TW-M05-15-00002
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5383096)<br><br>2015-02-23 12:46<br>赞(0) 踩(0) | <div>選自JS [這就是愛](2015/2/14)-這就是愛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34575580)<br><br>2015-02-22 20:54<br>赞(0) 踩(0) | <div>JS从2004年听到现在，很特别的组合，终于出新专了，在夏天结束前，很棒的第一张专并不是因为杀破狼，干净没杂志。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10969025)<br><br>2015-02-21 21:21<br>赞(0) 踩(0) | <div>每时每刻，都有一首唤醒回忆的歌~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2015-02-21 09:29<br>赞(0) 踩(0) | <div>一再摧毁又一再建立没道理没逻辑这就是爱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2015-02-21 09:29<br>赞(0) 踩(0) | <div>一再摧毁又一再建立<br>没道理没逻辑这就是爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8601290)<br>远在远方的风，比远方更远<br>2015-02-20 14:31<br>赞(0) 踩(0) | <div>爱心泛滥，春暖花开，喜气洋洋！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16623695)<br>暂无签名~<br>2015-02-19 08:38<br>赞(1) 踩(0) | <div>我去！！！好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10636321)<br><br>2015-02-19 01:30<br>赞(0) 踩(0) | <div>Happy new year，这就是爱</div> |
@@ -154,7 +154,7 @@ ISRC：TW-M05-15-00002
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4154583)<br>我还没想好要写什么...<br>2015-02-15 20:58<br>赞(0) 踩(0) | <div>我是看到js进来的，嗯。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29553182)<br>爱我就别打扰我。<br>2015-02-15 15:50<br>赞(0) 踩(0) | <div>好怀念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7711640)<br>瘦身成家出国吃天下<br>2015-02-15 15:01<br>赞(0) 踩(0) | <div>有多久没听到他们的新歌了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2532574)<br><br>2015-02-15 14:36<br>赞(0) 踩(0) | <div>人与人的相遇之珍贵就像伍迪艾伦《纽约遇到爱》里所说透过一连串奇异事件的连结我们的人生有了交集 ...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2532574)<br><br>2015-02-15 14:36<br>赞(0) 踩(0) | <div>人与人的相遇之珍贵<br>就像伍迪艾伦《纽约遇到爱》里所说<br>透过一连串奇异事件的连结<br>我们的人生有了交集 ...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2332621)<br>SELF.<br>2015-02-15 14:36<br>赞(0) 踩(0) | <div>声音好干净</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2532574)<br><br>2015-02-15 14:31<br>赞(0) 踩(0) | <div>人与人的相遇之珍贵  就像伍迪艾伦《纽约遇到爱》里所说  透过一连串奇异事件的连结  我们的人生有了交集...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1141790)<br><br>2015-02-15 14:10<br>赞(0) 踩(0) | <div>打开虾米，居然看到JS发了新单曲，原来他们还没解散……JS，一个多么熟悉的缩写，真是有趣。</div> |
@@ -166,14 +166,14 @@ ISRC：TW-M05-15-00002
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1066695)<br>我还没想好要写什么...<br>2015-02-15 03:59<br>赞(0) 踩(0) | <div>太久没有听到这个声音啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2712112)<br>I'm guilty.<br>2015-02-15 02:03<br>赞(1) 踩(0) | <div>真的好公益歌曲啊。但还是拿出来分享下。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11824157)<br>我去网易云了，名字是译为...<br>2015-02-15 01:44<br>赞(0) 踩(0) | <div>么么么</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866560)<br>不要变 永远都不要变<br>2015-02-15 14:17<br>赞(0) 踩(0) | <div>昨天到今天已循环N遍~我是JS忠实粉丝~话说你昨晚什么时候才睡的我去。。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866560)<br>不要变 永远都不要变<br>2015-02-15 14:17<br>赞(0) 踩(0) | <div>昨天到今天已循环N遍~我是JS忠实粉丝~<br><br>话说你昨晚什么时候才睡的我去。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/506804)<br><br>2015-02-15 00:54<br>赞(0) 踩(0) | <div>凌晨泡脚听到熟悉的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4113918)<br><br>2015-02-15 00:40<br>赞(0) 踩(0) | <div>Hey 好久不见 JS</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/506804)<br><br>2015-02-15 00:53<br>赞(0) 踩(0) | <div>是啊，就这样听到。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14594627)<br>真的什么都听<br>2015-02-14 23:41<br>赞(0) 踩(0) | <div>從來都是，寧缺勿濫。睽違3年，再見妳們，真好。晚安自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13349995)<br>昨日种种譬如昨日死<br>2015-02-14 23:26<br>赞(1) 踩(0) | <div>太久了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39495904)<br>终于把正确的人名对上了正...<br>2015-02-14 23:22<br>赞(0) 踩(0) | <div>～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215850)<br>於無聲處聽驚雷<br>2015-02-14 23:04<br>赞(1) 踩(0) | <div>好久不見，你還沒變。這種感覺，真好。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215850)<br>於無聲處聽驚雷<br>2015-02-14 23:04<br>赞(1) 踩(0) | <div>好久不見，你還沒變。<br><br>這種感覺，真好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13169496)<br>我还没想好要写什么...<br>2015-02-14 21:58<br>赞(0) 踩(0) | <div>好听啊！！！有加新的东西哦！！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/506804)<br><br>2015-02-15 00:53<br>赞(0) 踩(0) | <div>是新歌吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13169496)<br>我还没想好要写什么...<br>2015-02-15 12:34<br>赞(0) 踩(0) | <div><q><b>黄金炒饭说：</b></q></div> |

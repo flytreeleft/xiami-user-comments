@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/abb24b69ebaa79db5b42cbd3adcb360a.jpg)<br>钟明秋](https://i.xiami.com/achow) | **播放数**: 26944343<br>**粉丝数**: 4299<br>**评论数**: 166<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 华语唱作人 Chinese Singer-Songwriter, 国语流行 Mandarin Pop, 粤语流行 Cantopop, 当代唱作人 Contemporary Singer-Songwriter<br> |
+| [![](../../images/musicians/abb24b69ebaa79db5b42cbd3adcb360a.jpg)<br>钟明秋](https://i.xiami.com/achow) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 华语唱作人 Chinese Singer-Songwriter, 国语流行 Mandarin Pop, 粤语流行 Cantopop, 当代唱作人 Contemporary Singer-Songwriter<br>**播放数**: 26944343<br>**粉丝数**: 4299<br>**评论数**: 166<br> |
 
 ## 档案
 
@@ -58,8 +58,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332721016)<br><br>2021-01-09 09:35<br>赞(1) 踩(0) | <div>永远支持你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378224024)<br><br>2020-12-26 22:39<br>赞(0) 踩(0) | <div>迷恋的歌:相思风雨中，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280316406)<br>贪狼五禄权<br>2020-12-17 22:44<br>赞(0) 踩(0) | <div>声音很好听。</div> |
@@ -93,8 +93,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251249575)<br>王志春<br>2019-01-24 15:40<br>赞(2) 踩(0) | <div>歌唱的不错挺好的好听!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410292025)<br>我不高，但我能比山高18...<br>2018-12-16 12:27<br>赞(3) 踩(0) | <div>客气了，你很棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286011977)<br><br>2018-11-23 18:47<br>赞(4) 踩(0) | <div>从《名人名曲收藏家》的《从不知》开始发现这不得不让我惊叹的声音。不错！恕我无知，未知我所收藏的两辑中有那些曲目是秋秋的作品。期望能够多见新创作。谢谢！我会将这声音介绍给我的乐友。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10649980)<br>有点墨水的流氓..<br>2018-10-15 20:19<br>赞(2) 踩(0) | <div>2018年11月9号-11月10号。顺德演艺中心大剧院《一听钟情》，喜欢钟明秋的朋友赶紧购票吧。购票热线：5918006889、0757-2260148（恒艺文化）0757-2614300、22121842（梧桐树艺术）</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10649980)<br>有点墨水的流氓..<br>2018-10-15 20:17<br>赞(1) 踩(0) | <div>2018年11月9号-11月10号。顺德演艺中心大剧院《一听钟情》，喜欢的朋友赶紧购票吧。购票热线：5918006889、0757-2260148（恒艺文化）0757-2614300、22121842（梧桐树艺术）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10649980)<br>有点墨水的流氓..<br>2018-10-15 20:19<br>赞(2) 踩(0) | <div>2018年11月9号-11月10号。顺德演艺中心大剧院《一听钟情》，喜欢钟明秋的朋友赶紧购票吧。购票热线：5918006889、0757-2260148（恒艺文化）<br>0757-2614300、22121842（梧桐树艺术）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10649980)<br>有点墨水的流氓..<br>2018-10-15 20:17<br>赞(1) 踩(0) | <div>2018年11月9号-11月10号。顺德演艺中心大剧院《一听钟情》，喜欢的朋友赶紧购票吧。购票热线：5918006889、0757-2260148（恒艺文化）<br>0757-2614300、22121842（梧桐树艺术）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26222971)<br>如果你听过我的翻唱歌，也...<br>2018-10-09 13:16<br>赞(39) 踩(0) | <div>最近终于来认领音乐人了，看到大家留言了。接下来要准备多多发新歌</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344356610)<br><br>2018-10-18 17:37<br>赞(0) 踩(0) | <div>多出点粤语歌曲。。。你的声色太适合粤语了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246717599)<br>我很愿意与喜欢可荔歌曲的...<br>2018-10-22 13:57<br>赞(0) 踩(0) | <div>真好，见到本人说话了 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -117,7 +117,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323613841)<br><br>2017-09-20 11:38<br>赞(1) 踩(0) | <div>好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198843594)<br><br>2017-08-27 21:44<br>赞(3) 踩(0) | <div>声音很好听  因为流浪歌手知道钟明秋的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108820726)<br>♩ - ♪ - ♫ - ...<br>2017-08-22 06:07<br>赞(1) 踩(0) | <div>科科 不经意见过钟明秋两次 还一起自拍了</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10649980)<br>有点墨水的流氓..<br>2018-10-15 20:18<br>赞(0) 踩(0) | <div>2018年11月9号-11月10号。顺德演艺中心大剧院《一听钟情》，喜欢钟明秋的朋友赶紧购票吧。购票热线：5918006889、0757-22601480757-2614300、22121842</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10649980)<br>有点墨水的流氓..<br>2018-10-15 20:18<br>赞(0) 踩(0) | <div>2018年11月9号-11月10号。顺德演艺中心大剧院《一听钟情》，喜欢钟明秋的朋友赶紧购票吧。购票热线：5918006889、0757-2260148<br>0757-2614300、22121842</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84081596)<br><br>2017-08-19 23:30<br>赞(3) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/133914656)<br><br>2017-05-13 22:24<br>赞(0) 踩(0) | <div>一个，声音可以！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293141306)<br><br>2017-05-02 00:08<br>赞(2) 踩(0) | <div>我看了那个残疾人才知道的</div> |
@@ -182,7 +182,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51574681)<br><br>2015-06-22 23:20<br>赞(0) 踩(0) | <div>那陈奕迅有点丑还红了呢。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/826040)<br>跟着音乐摇摆<br>2015-03-12 12:00<br>赞(0) 踩(0) | <div>不错不错，值得循环播放</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46561888)<br>暂无签名~<br>2015-01-28 00:25<br>赞(1) 踩(0) | <div>很好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10147365)<br>未来，你好！<br>2015-01-24 11:18<br>赞(1) 踩(0) | <div>真正的好声音啊！！！赞一个！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10147365)<br>未来，你好！<br>2015-01-24 11:18<br>赞(1) 踩(0) | <div>真正的好声音啊！！！<br>赞一个！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29727184)<br>我还没想好要写什么...<br>2015-01-13 22:50<br>赞(1) 踩(0) | <div>声音好好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41665690)<br><br>2014-12-11 14:23<br>赞(1) 踩(0) | <div>经典老歌，是金子总会发光。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/520819)<br>who am i?who...<br>2014-11-29 00:10<br>赞(1) 踩(0) | <div>觉得是录音的功劳，总觉得差点感情。当然还是很好听的。</div> |
@@ -215,7 +215,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2710910)<br><br>2012-02-24 23:22<br>赞(1) 踩(0) | <div>我喜欢这样淡淡的版本，好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7424378)<br><br>2012-02-24 22:41<br>赞(1) 踩(0) | <div>他唱的传奇，本人认为是最美的版本</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7106287)<br><br>2012-02-20 22:09<br>赞(1) 踩(0) | <div>好嗓音，要好好珍惜！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7591940)<br><br>2012-02-15 23:52<br>赞(1) 踩(0) | <div>新生代再加上實力派的最佳夢幻男聲歌手非常的喜歡</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7591940)<br><br>2012-02-15 23:52<br>赞(1) 踩(0) | <div>新生代再加上實力派的最佳夢幻男聲歌手<br>非常的喜歡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7591940)<br><br>2012-02-15 23:45<br>赞(1) 踩(0) | <div>唱歌好聽最佳夢幻男聲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7694999)<br><br>2012-02-07 10:57<br>赞(1) 踩(0) | <div>希望你听完再给意见。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7694999)<br><br>2012-02-07 10:57<br>赞(1) 踩(0) | <div>新生代实力派完美声线</div> |

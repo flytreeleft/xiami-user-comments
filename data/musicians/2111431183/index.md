@@ -3,13 +3,10 @@ Pandy墨小竹
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2de8f22844463199f81bfff766b4b184.jpg)<br>Pandy墨小竹](https://i.xiami.com/pandy) | **播放数**: 1843557<br>**粉丝数**: 207<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 日本动漫游戏 Japanese ACG, 流行 Pop, 同人音乐 DouJin<br> |
+| [![](../../images/musicians/2de8f22844463199f81bfff766b4b184.jpg)<br>Pandy墨小竹](https://i.xiami.com/pandy) | **地区**: China 中国大陆<br>**风格**: 日本动漫游戏 Japanese ACG, 流行 Pop, 同人音乐 DouJin<br>**播放数**: 1843557<br>**粉丝数**: 207<br>**评论数**: 8<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -41,8 +38,8 @@ Pandy墨小竹
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18786471)<br>我还没想好要写什么...<br>2020-09-07 23:03<br>赞(0) 踩(0) | <div>小竹小竹，超喜欢你的声音 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">可以点歌吗 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">想听《听爸爸的话》</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432652125)<br><br>2020-08-28 16:19<br>赞(1) 踩(0) | <div>声音很好听，唱个《形容》吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65272510)<br>今天你失眠了吗<br>2020-05-17 23:08<br>赞(1) 踩(0) | <div>哇哦，原来还是四川的，幸会</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8ae20763ae930550942be3335b5fb345.jpg)<br>马条](https://i.xiami.com/matiao) | **播放数**: 14993609<br>**粉丝数**: 22697<br>**评论数**: 544<br>**地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/8ae20763ae930550942be3335b5fb345.jpg)<br>马条](https://i.xiami.com/matiao) | **地区**: China 中国大陆<br>**风格**: 独立民谣 Indie Folk, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 14993609<br>**粉丝数**: 22697<br>**评论数**: 544<br> |
 
 ## 档案
 
@@ -35,8 +35,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-10-25 03:24<br>赞(0) 踩(0) | <div>✡️✡️✡️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421866297)<br><br>2020-10-04 13:21<br>赞(0) 踩(0) | <div>听到这声音很有亲切感，翻开简历才知道是我们新疆老乡！期待马条做出更多优秀的音乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24584309)<br><br>2020-08-08 22:44<br>赞(0) 踩(0) | <div>低调大气有内涵顶起 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -59,7 +59,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2988530)<br>177.5<br>2017-10-30 10:00<br>赞(0) 踩(0) | <div>操，还有点审美吗，马条你们都不够大条的喜欢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2259353)<br>raziyekurban<br>2017-10-28 00:36<br>赞(0) 踩(0) | <div>同为新疆人....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29429668)<br>2013感谢有你。<br>2017-10-28 00:32<br>赞(0) 踩(0) | <div>乖的推荐：马条的有点沧桑的新疆范儿，旋律或者吟唱并不悠扬，但是说不出来的味道。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5157802)<br><br>2017-10-27 23:56<br>赞(3) 踩(0) | <div>阳光下的向日葵，特地点开听，发现竟然是我平时固定听的收藏歌曲之一。真是汗颜，听了这么久，喜欢了这么久，竟然没有去关注一下歌名和作者。感谢好歌曲，至少让我认认真真地记住了马条！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5157802)<br><br>2017-10-27 23:56<br>赞(3) 踩(0) | <div>阳光下的向日葵，特地点开听，发现竟然是我平时固定听的收藏歌曲之一。真是汗颜，听了这么久，喜欢了这么久，竟然没有去关注一下歌名和作者。<br>感谢好歌曲，至少让我认认真真地记住了马条！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3828515)<br><br>2017-10-27 23:19<br>赞(0) 踩(0) | <div>喜欢马条的声音..最爱《爱情调侃的方式》</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380152)<br><br>2017-09-12 11:03<br>赞(1) 踩(0) | <div>好嗓子，听了耳朵简直会怀孕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24325936)<br>无忧无虑，向前游。。。<br>2017-07-09 13:24<br>赞(1) 踩(0) | <div>封锁线。。。</div> |
@@ -137,10 +137,10 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2015-09-21 09:54<br>赞(0) 踩(0) | <div><q><b>Andrew说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13005049)<br>凶相无色，恶意无声<br>2015-08-18 21:51<br>赞(0) 踩(0) | <div>个人觉得您也就那年榕树下和塔吉汗好听一点了。都是按个人的想法说的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13005049)<br>凶相无色，恶意无声<br>2015-08-18 21:48<br>赞(0) 踩(0) | <div>马老师您的歌真的不好听，我通过您的朋友知道了您，凭着对音乐人的尊敬我尝试听了您的几首歌曲，真的觉得您的词写的很怪，可惜了您的一副好声音了真的。希望您写着别这么故弄玄虚的歌。您要是唱民谣就好好唱民谣呗，不然您就只能给别人暖场了。您的声音还是很好听的，我个人不是太懂编曲，但是您的词真的太不押韵了。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2015-09-20 16:12<br>赞(0) 踩(0) | <div>好不好听都是非常个人的感受，没人求着你喜欢，跑来一口气连刷四条，好没礼貌右上角有X，出门左转你要的民谣多得是，慢走不送</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2015-09-20 16:12<br>赞(0) 踩(0) | <div>好不好听都是非常个人的感受，没人求着你喜欢，跑来一口气连刷四条，好没礼貌<br>右上角有X，出门左转你要的民谣多得是，慢走不送</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13005049)<br>凶相无色，恶意无声<br>2015-09-20 16:27<br>赞(0) 踩(0) | <div><q><b>vip店长助理说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2015-09-21 09:33<br>赞(0) 踩(0) | <div><q><b>鲸鱼船长说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9347240)<br>这个家伙很懒，什么都没有...<br>2015-11-04 22:29<br>赞(0) 踩(0) | <div>歌词不是必须要押韵的。作词人王海涛给李健的歌曲《似水流年》写的歌词里有一句是“偶尔在镜子里面/旧时光和我相遇”。有人问他为什么没有用“相见”，他说是故意不要押韵的。我还见过这样一句话：“千万不要相信歌词里说的那些道理，为了凑韵脚，他们什么都写得出来”。是否押韵并不是评价歌词好不好的标准。条哥在文字和音乐方面都有很高的天赋，音乐和歌词的契合也特别好，这是很难得的。希望有一天你能领悟到其中的妙处。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9347240)<br>这个家伙很懒，什么都没有...<br>2015-11-04 22:29<br>赞(0) 踩(0) | <div>歌词不是必须要押韵的。作词人王海涛给李健的歌曲《似水流年》写的歌词里有一句是“偶尔在镜子里面/旧时光和我相遇”。有人问他为什么没有用“相见”，他说是故意不要押韵的。我还见过这样一句话：“千万不要相信歌词里说的那些道理，为了凑韵脚，他们什么都写得出来”。是否押韵并不是评价歌词好不好的标准。<br>条哥在文字和音乐方面都有很高的天赋，音乐和歌词的契合也特别好，这是很难得的。希望有一天你能领悟到其中的妙处。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50200408)<br>无摇不滚的我有颗民谣的心<br>2017-10-28 00:43<br>赞(0) 踩(0) | <div>自己不懂得欣赏，就不要听，有很多喜欢这种风格，请不要用一个人的 感觉代替所有人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13005049)<br>凶相无色，恶意无声<br>2015-08-18 21:48<br>赞(1) 踩(0) | <div>马老师您的歌真的不好听，我通过您的朋友知道了您，凭着对音乐人的尊敬我尝试听了您的几首歌曲，真的觉得您的词写的很怪，可惜了您的一副好声音了真的。希望您写着别这么故弄玄虚的歌。您要是唱民谣就好好唱民谣呗，不然您就只能给别人暖场了。您的声音还是很好听的，我个人不是太懂编曲，但是您的词真的太不押韵了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39142598)<br><br>2015-08-25 14:56<br>赞(0) 踩(0) | <div>好无礼</div> |
@@ -152,13 +152,13 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36562269)<br><br>2015-08-09 13:45<br>赞(0) 踩(0) | <div>对</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41904517)<br><br>2015-07-22 00:11<br>赞(2) 踩(0) | <div>那首傻瓜，真心听的心都碎了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32243562)<br>我还没想好要写什么...<br>2015-07-14 16:33<br>赞(2) 踩(0) | <div>你能不能把舌头捋直了？！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4911910)<br>优美的低于生活<br>2015-07-13 13:19<br>赞(10) 踩(0) | <div>逼哥演唱会武汉场上马条说，热爱逼哥的人，会得到逼哥的爱。我想说的是，我们也爱马条。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4911910)<br>优美的低于生活<br>2015-07-13 13:19<br>赞(10) 踩(0) | <div>逼哥演唱会武汉场上马条说，热爱逼哥的人，会得到逼哥的爱。<br>我想说的是，我们也爱马条。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4926204)<br><br>2015-06-29 08:43<br>赞(1) 踩(0) | <div>初开覺得像陳升，越聽越養耳，走心！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51544297)<br><br>2015-06-24 20:24<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21536159)<br>斑斓。<br>2015-06-24 02:31<br>赞(0) 踩(0) | <div>前几个月看见他参加了选秀节目</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4109979)<br> <br>2015-06-22 17:24<br>赞(1) 踩(0) | <div>有自己风格，更有穿透力。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1730251)<br><br>2015-06-22 00:40<br>赞(0) 踩(0) | <div>今晚深圳做嘉宾完全不知道的惊喜</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28094308)<br>符号堆积<br>2015-06-15 09:44<br>赞(3) 踩(0) | <div>马条的风格还是很明显的，一听就能听出来。一是旋律的感觉，一是声音。我觉得他的旋律像一片飘飞的叶子，在下坠的过程中却保持着向上的轻盈。他的声音是一匹透光的麻布，粗砺质朴厚实，又不是磨得人难受。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28094308)<br>符号堆积<br>2015-06-15 09:44<br>赞(3) 踩(0) | <div>马条的风格还是很明显的，一听就能听出来。<br>一是旋律的感觉，一是声音。<br>我觉得他的旋律像一片飘飞的叶子，在下坠的过程中却保持着向上的轻盈。<br>他的声音是一匹透光的麻布，粗砺质朴厚实，又不是磨得人难受。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38662280)<br>不懂装懂中度患者<br>2015-06-26 22:27<br>赞(0) 踩(0) | <div>具象成透光麻布，通感到位！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17607687)<br>暂无签名~<br>2016-03-16 21:19<br>赞(0) 踩(0) | <div>好听的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49371587)<br><br>2015-06-05 12:45<br>赞(1) 踩(0) | <div>马条诗人</div> |
@@ -216,12 +216,12 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11115273)<br><br>2015-03-13 18:11<br>赞(0) 踩(0) | <div><q><b>阿拉斯加小花花说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42458538)<br>天赐神授的格萨尔王<br>2015-03-13 18:27<br>赞(0) 踩(0) | <div><q><b>Gorillaz7说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131466)<br>音乐不散场，为了不迷路，...<br>2015-02-15 13:06<br>赞(0) 踩(0) | <div>音乐诗人马条，唱出人生的每一段故事</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280317)<br>地中有山，永远<br>2015-02-15 12:23<br>赞(1) 踩(0) | <div>造句：不仅。。。还有。。。新疆不仅盛产哈密瓜、葡萄。。。还有马条。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280317)<br>地中有山，永远<br>2015-02-15 12:23<br>赞(1) 踩(0) | <div>造句：不仅。。。还有。。。<br>新疆不仅盛产哈密瓜、葡萄。。。还有马条。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13930082)<br> <br>2015-02-13 19:47<br>赞(3) 踩(0) | <div>正在听马条在好歌曲上24小时极限创作，写给孩子的这首歌，太美了。。听哭了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44469350)<br><br>2015-02-13 20:38<br>赞(0) 踩(0) | <div>我也在听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6515092)<br>经常胡说，偶尔放歌。公众...<br>2015-02-12 17:26<br>赞(0) 踩(0) | <div>微信公众号yeguiren_music，每天分享你喜欢的歌曲与电影，欢迎喜欢音乐的小伙伴。微信硬摇群 Han_Yuki</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6515092)<br>经常胡说，偶尔放歌。公众...<br>2015-02-12 17:26<br>赞(0) 踩(0) | <div>微信公众号yeguiren_music，每天分享你喜欢的歌曲与电影，欢迎喜欢音乐的小伙伴。<br><br>微信硬摇群 Han_Yuki</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9280774)<br>与音乐保持暧昧<br>2015-02-12 07:15<br>赞(0) 踩(0) | <div>坚硬的老马</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206199)<br>我像鱼一样在水里摇滚生活...<br>2015-02-07 16:58<br>赞(0) 踩(0) | <div>就是这个味！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206199)<br>我像鱼一样在水里摇滚生活...<br>2015-02-07 16:58<br>赞(0) 踩(0) | <div>就是这个味<br>！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4997281)<br>生死不过一瞬你我不过一粟<br>2015-02-06 13:21<br>赞(0) 踩(0) | <div>还是喜欢听他唱大气阴郁一点的，温柔小清新有点浪费他嗓子。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39456340)<br>听听听听歌而已<br>2015-02-05 22:23<br>赞(0) 踩(0) | <div>马条竟然也去好歌曲了～阿达西</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28631520)<br><br>2015-02-05 07:13<br>赞(2) 踩(0) | <div>赵牧阳，航盖，马条，这些人才是真正在做音乐，台下的多数评委，你们好意思坐在那里评价这些真正热爱音乐的人么？</div> |
@@ -272,7 +272,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1667369)<br>香港的一些老歌总唤起自己...<br>2015-01-24 00:12<br>赞(0) 踩(0) | <div>创作歌手就是要走出来！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31873884)<br>一休哥！休息下！休息下<br>2015-01-23 23:34<br>赞(0) 踩(0) | <div>做音乐的人有权利让更多的人听到，何必把自己锁死，这又不是一个锁的住秘密的时代。老师您说是吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40011134)<br>每一首歌都是我的生命<br>2015-01-23 23:03<br>赞(0) 踩(0) | <div>刚出来的时候，我就觉得这人不简单，还没听他唱歌就立马慰问了度娘，结果果断是个牛人！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9177558)<br><br>2015-01-23 22:50<br>赞(3) 踩(0) | <div>今晚的好声音，马条上场的时候，我特别的惊讶，真是意想不到，这么一位艺术家也来参加好声音。马条的音乐，太需要推广了。这么好的音乐要是被遗忘，那才叫真正的暴殄天物。在47岁的前辈面前，我们感受到的，更多的，应该是感动。音乐节看过马条的表演，现在想起来，全是美好的记忆。优秀的音乐，应该是要得到尊敬和优待的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9177558)<br><br>2015-01-23 22:50<br>赞(3) 踩(0) | <div>今晚的好声音，马条上场的时候，我特别的惊讶，真是意想不到，这么一位艺术家也来参加好声音。<br>马条的音乐，太需要推广了。这么好的音乐要是被遗忘，那才叫真正的暴殄天物。在47岁的前辈面前，我们感受到的，更多的，应该是感动。音乐节看过马条的表演，现在想起来，全是美好的记忆。<br>优秀的音乐，应该是要得到尊敬和优待的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45215670)<br>浅吟低唱<br>2015-01-25 22:41<br>赞(0) 踩(0) | <div>没有去过音乐节，所以如果没有这档大众化节目，就没有机会听到这么好的歌。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33824458)<br> <br>2015-02-20 10:07<br>赞(0) 踩(0) | <div>好歌曲啊，不是好声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17199566)<br>The Mountain...<br>2015-01-23 22:01<br>赞(1) 踩(0) | <div>感觉刘欢说的挺对的。</div> |
@@ -304,7 +304,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43364559)<br><br>2015-01-16 14:23<br>赞(0) 踩(0) | <div>封锁线</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6888157)<br><br>2015-01-11 16:47<br>赞(0) 踩(0) | <div>挺不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40734042)<br>雁去雁歸雁不散潮起潮落潮...<br>2014-12-26 18:11<br>赞(0) 踩(0) | <div>从我的封锁线进入我的心</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:22<br>赞(0) 踩(0) | <div>这里的歌真好听圣诞快乐  ！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-25 01:22<br>赞(0) 踩(0) | <div>这里的歌真好听<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>圣诞快乐  ！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44814983)<br><br>2014-12-24 02:38<br>赞(0) 踩(0) | <div>第一次觉得歌词可以这么随意的断句，旋律、重复都给人力量！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1406878)<br>情难为<br>2014-12-23 15:26<br>赞(0) 踩(0) | <div>真不知道马条留言那个“弱”是啥意思</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2543883)<br>啧啧<br>2014-12-14 14:58<br>赞(0) 踩(0) | <div>马条的档案编得显然也太不负责任了...</div> |
@@ -335,7 +335,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11452662)<br>总有你不曾发现的惊喜。<br>2014-07-30 16:20<br>赞(0) 踩(0) | <div>因为是马条</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36761080)<br><br>2014-07-16 18:51<br>赞(0) 踩(0) | <div>--</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6859134)<br>暂无签名~<br>2014-07-15 02:16<br>赞(0) 踩(0) | <div>原来是你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13316084)<br>zqsfreedom<br>2014-06-27 21:27<br>赞(2) 踩(0) | <div>葡萄园芒克一小块葡萄园，是我发甜的家。当秋风突然走进哐哐作响的门口，我的家园都是含着眼泪的葡萄。那使园子早早暗下来的墙头，几只鸽子惊慌飞走。胆怯的孩子把弄脏的小脸偷偷地藏在房后。平时总是在这里转悠的狗，这会儿不知溜到哪里去了。一群红色的鸡满院子扑腾，咯咯地叫个不停。我眼看着葡萄掉在地上，血在落叶中间流。这真是个想安宁也不能安宁的日子，这是在我家失去阳光的时候。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13316084)<br>zqsfreedom<br>2014-06-27 21:27<br>赞(2) 踩(0) | <div>葡萄园<br>芒克<br><br>一小块葡萄园，<br>是我发甜的家。<br><br>当秋风突然走进哐哐作响的门口，<br>我的家园都是含着眼泪的葡萄。<br><br>那使园子早早暗下来的墙头，<br>几只鸽子惊慌飞走。<br><br>胆怯的孩子把弄脏的小脸<br>偷偷地藏在房后。<br><br>平时总是在这里转悠的狗，<br>这会儿不知溜到哪里去了。<br><br>一群红色的鸡满院子扑腾，<br>咯咯地叫个不停。<br><br>我眼看着葡萄掉在地上，<br>血在落叶中间流。<br><br>这真是个想安宁也不能安宁的日子，<br>这是在我家失去阳光的时候。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13316084)<br>zqsfreedom<br>2014-06-27 21:19<br>赞(0) 踩(0) | <div>作词：芒克</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8435954)<br><br>2014-06-26 15:20<br>赞(0) 踩(0) | <div>目前最爱封锁线</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20851730)<br>会许时过境迁，你会想起我...<br>2014-09-23 14:35<br>赞(0) 踩(0) | <div>还有我</div> |
@@ -343,7 +343,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6439686)<br>ridiculous<br>2014-06-25 16:23<br>赞(0) 踩(0) | <div>粗犷的身温柔的心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34362145)<br>问一百个问题 然后各奔东...<br>2014-06-19 22:47<br>赞(0) 踩(0) | <div>棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11115670)<br>很有个性，无需签名<br>2014-06-17 15:13<br>赞(0) 踩(0) | <div>乍一看，怎么长得跟郑钧似的。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3344447)<br>海阔天空<br>2014-06-10 02:21<br>赞(0) 踩(0) | <div>觉醒三部曲之一——反叛《阳光下的向日葵》</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3344447)<br>海阔天空<br>2014-06-10 02:21<br>赞(0) 踩(0) | <div>觉醒三部曲之一——反叛<br>《阳光下的向日葵》</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9620813)<br><br>2014-06-09 00:14<br>赞(0) 踩(0) | <div>给个赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36284933)<br><br>2014-06-08 00:13<br>赞(0) 踩(0) | <div>最喜欢 塔吉汗 第二 ，那年榕树下</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421744)<br><br>2014-06-05 17:03<br>赞(0) 踩(0) | <div>马条</div> |
@@ -411,19 +411,19 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7005345)<br><br>2013-07-20 20:50<br>赞(0) 踩(0) | <div>not bad</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7414676)<br><br>2013-07-20 14:07<br>赞(0) 踩(0) | <div>差点错过了马条大叔呢！上次氧气音乐节，领略了大叔的不羁与幽默～喜欢，好喜欢，将摇滚进行到底</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8759181)<br>生非容易死非甘<br>2013-07-18 16:26<br>赞(0) 踩(0) | <div><a href="http://emumo.xiami.com/u/1570103" target="_blank" rel="nofollow" name_card="1570103">@雅各卑</a> 大哥，我不能肯定是不是你喜欢的，试一试吧。。。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1570103)<br>迁QQ音乐(雅各卑)、网...<br>2013-07-18 16:35<br>赞(0) 踩(0) | <div>其实我听过马条，怎么说呢，和他同质的民谣歌手还蛮多的，我愿意过几年后再回来看他。不过还是谢谢老虎~</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1570103)<br>迁QQ音乐(雅各卑)、网...<br>2013-07-18 16:35<br>赞(0) 踩(0) | <div>其实我听过马条，怎么说呢，和他同质的民谣歌手还蛮多的，我愿意过几年后再回来看他。<br>不过还是谢谢老虎~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10435106)<br>听靓歌<br>2013-07-05 03:31<br>赞(0) 踩(0) | <div>不错.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16717875)<br> <br>2013-07-03 22:56<br>赞(0) 踩(0) | <div>我的！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2276136)<br>浮沉人世。或。相忘殊途<br>2013-06-29 03:23<br>赞(2) 踩(0) | <div>其实，马条的慢歌写得真心好，唱得也有味道</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/537844)<br>爷爱怀旧<br>2013-06-05 09:50<br>赞(0) 踩(0) | <div>比陈升正点</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15810859)<br><br>2013-06-07 15:44<br>赞(0) 踩(0) | <div>音色跟陈升很像，吓我一跳，不过要比陈升亮一点。。。。。（第一次听，喜欢）。偶尔也听一下陈升，但不太喜欢，太平静太沉了，觉得他那种老得我啃不动的男人。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15810859)<br><br>2013-06-07 15:44<br>赞(0) 踩(0) | <div>音色跟陈升很像，吓我一跳，不过要比陈升亮一点。。。。。（第一次听，喜欢）。<br>偶尔也听一下陈升，但不太喜欢，太平静太沉了，觉得他那种老得我啃不动的男人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3901881)<br><br>2013-06-02 00:01<br>赞(1) 踩(0) | <div>90妹纸所理解的80味道，有两款，1款就是这总调侃却有那个幸福画面的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3449737)<br>ww<br>2013-06-02 15:23<br>赞(0) 踩(0) | <div>还有一款呢？QVQ</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3901881)<br><br>2013-06-05 14:28<br>赞(0) 踩(0) | <div><q><b>犀牛说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3449737)<br>ww<br>2013-06-06 19:39<br>赞(0) 踩(0) | <div><q><b>浅浅的浅浅滴……说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15279699)<br><br>2013-05-29 09:47<br>赞(0) 踩(0) | <div>西域民谣、摇滚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8191448)<br>相似度多少你才会开口<br>2013-05-19 09:58<br>赞(0) 踩(0) | <div>马条</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-05-13 09:55<br>赞(0) 踩(0) | <div>马条，那年榕树下。258405,3701,1595.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-05-13 09:55<br>赞(0) 踩(0) | <div>马条，那年榕树下。<br>258405,3701,1595.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7616503)<br>暂无签名~<br>2013-05-04 23:28<br>赞(0) 踩(0) | <div>飘泊不定的都市游牧民，注定上演一幕幕写满孤独和自我的公路电影</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9456168)<br><br>2013-05-04 12:43<br>赞(0) 踩(0) | <div>音乐有个性好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14120501)<br>Designer & A...<br>2013-05-01 14:11<br>赞(0) 踩(0) | <div>昨天是第一次在草莓音乐节听他的现场，开到了他脸上的沧桑和故事...</div> |
@@ -524,7 +524,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2022959)<br>心无所恃安如平日<br>2011-04-21 17:31<br>赞(0) 踩(0) | <div>他喜欢的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/743578)<br><br>2011-04-11 16:30<br>赞(0) 踩(0) | <div>阳光中的向日葵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3054832)<br><br>2011-04-08 09:44<br>赞(0) 踩(0) | <div>记得在黄山到杭州的大巴上，听着他的歌感觉不是在坐车而是在骑马</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376825)<br><br>2011-03-30 12:49<br>赞(0) 踩(0) | <div>花儿——叶蓓<a href="http://www.xiami.com/song/399039" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/399039</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376825)<br><br>2011-03-30 12:49<br>赞(0) 踩(0) | <div>花儿——叶蓓<br><a href="http://www.xiami.com/song/399039" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/399039</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2930515)<br><br>2011-03-17 11:29<br>赞(0) 踩(0) | <div>话说青岛见过呢 呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3237576)<br><br>2011-03-17 10:58<br>赞(0) 踩(0) | <div>喜欢民谣，喜欢马条</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/567620)<br><br>2011-03-16 17:10<br>赞(0) 踩(0) | <div>喜欢呗，马条要是有不插电就好了。</div> |

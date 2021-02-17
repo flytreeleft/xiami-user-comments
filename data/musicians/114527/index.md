@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/127810d443aeac5b54c656d25be6366d.jpg)<br>覃晔](https://i.xiami.com/qinye) | **播放数**: 11529406<br>**粉丝数**: 3043<br>**评论数**: 107<br>**地区**: China 中国大陆<br>**风格**: 佛教, 世界音乐, 民谣, 电子, 古典<br> |
+| [![](../../images/musicians/127810d443aeac5b54c656d25be6366d.jpg)<br>覃晔](https://i.xiami.com/qinye) | **地区**: China 中国大陆<br>**风格**: 佛教, 世界音乐, 民谣, 电子, 古典<br>**播放数**: 11529406<br>**粉丝数**: 3043<br>**评论数**: 107<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47043861)<br><br>2020-10-10 16:51<br>赞(0) 踩(0) | <div>请问曲子的箫是谁演奏的？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348411959)<br><br>2020-08-21 13:44<br>赞(0) 踩(0) | <div><img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png">&amp;hellip;&amp;hellip;♡ <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png">♪﹊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-06-30 19:56<br>赞(0) 踩(0) | <div></div> |
@@ -90,7 +90,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3330714)<br>nono<br>2017-10-02 20:42<br>赞(0) 踩(0) | <div>最喜，醒，古雅空灵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32031632)<br><br>2017-10-01 17:24<br>赞(0) 踩(0) | <div>南无阿弥佗佛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32031632)<br><br>2017-10-01 17:24<br>赞(3) 踩(0) | <div>南无阿弥佗佛</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13846145)<br>她的心是一个世界，一盏烛...<br>2017-08-29 23:17<br>赞(1) 踩(0) | <div>厉害，喜欢这是我心中的中国古风，绝非二次元之类</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13846145)<br>她的心是一个世界，一盏烛...<br>2017-08-29 23:17<br>赞(1) 踩(0) | <div>厉害，喜欢<br>这是我心中的中国古风，绝非二次元之类</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308821509)<br><br>2017-08-14 05:38<br>赞(3) 踩(0) | <div>谢谢你带给我们美妙的音乐作品！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291817381)<br><br>2017-08-09 19:52<br>赞(2) 踩(0) | <div>非常喜欢听，给人心情舒畅， <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153013324)<br>粤语经典，古风禅乐new...<br>2017-08-06 12:19<br>赞(1) 踩(0) | <div>随喜赞叹，阿弥陀佛</div> |
@@ -128,7 +128,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49189600)<br><br>2016-03-23 00:32<br>赞(1) 踩(0) | <div>超赞！！！难得找到听到后眼前一亮的！！！ <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46484091)<br> <br>2015-12-23 01:24<br>赞(3) 踩(0) | <div>好感動！作曲家演奏家的水平都不得了啊！其中一首歸曲用簫自己經常模仿吹。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4487129)<br><br>2015-04-01 20:43<br>赞(0) 踩(0) | <div>顶。。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31825593)<br>Miss.D&M<br>2015-04-01 20:07<br>赞(10) 踩(0) | <div>水,顶赞 ♡ ♡ ♡<a href="http://emumo.xiami.com/u/12068445" target="_blank" rel="nofollow" name_card="12068445">@就你脸小</a> <a href="http://emumo.xiami.com/u/4935021" target="_blank" rel="nofollow" name_card="4935021">@遗忘</a> <a href="http://emumo.xiami.com/u/4487129" target="_blank" rel="nofollow" name_card="4487129">@泡泡</a><a href="http://emumo.xiami.com/u/8898150" target="_blank" rel="nofollow" name_card="8898150">@翌朝</a> <a href="http://emumo.xiami.com/u/273065" target="_blank" rel="nofollow" name_card="273065">@蓝色冰点</a> <a href="http://emumo.xiami.com/u/1393420" target="_blank" rel="nofollow" name_card="1393420">@永烁星光之地</a> <a href="http://emumo.xiami.com/u/2790925" target="_blank" rel="nofollow" name_card="2790925">@独自等待</a><a href="http://emumo.xiami.com/u/10337057" target="_blank" rel="nofollow" name_card="10337057">@空灵骑圣</a><a href="http://emumo.xiami.com/u/6592758" target="_blank" rel="nofollow" name_card="6592758">@gengxiangzi</a> <a href="http://emumo.xiami.com/u/36966565" target="_blank" rel="nofollow" name_card="36966565">@宝和鱼</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31825593)<br>Miss.D&M<br>2015-04-01 20:07<br>赞(10) 踩(0) | <div>水,顶赞 ♡ ♡ ♡<br><a href="http://emumo.xiami.com/u/12068445" target="_blank" rel="nofollow" name_card="12068445">@就你脸小</a> <a href="http://emumo.xiami.com/u/4935021" target="_blank" rel="nofollow" name_card="4935021">@遗忘</a> <a href="http://emumo.xiami.com/u/4487129" target="_blank" rel="nofollow" name_card="4487129">@泡泡</a><a href="http://emumo.xiami.com/u/8898150" target="_blank" rel="nofollow" name_card="8898150">@翌朝</a> <a href="http://emumo.xiami.com/u/273065" target="_blank" rel="nofollow" name_card="273065">@蓝色冰点</a> <a href="http://emumo.xiami.com/u/1393420" target="_blank" rel="nofollow" name_card="1393420">@永烁星光之地</a> <a href="http://emumo.xiami.com/u/2790925" target="_blank" rel="nofollow" name_card="2790925">@独自等待</a><a href="http://emumo.xiami.com/u/10337057" target="_blank" rel="nofollow" name_card="10337057">@空灵骑圣</a><a href="http://emumo.xiami.com/u/6592758" target="_blank" rel="nofollow" name_card="6592758">@gengxiangzi</a> <a href="http://emumo.xiami.com/u/36966565" target="_blank" rel="nofollow" name_card="36966565">@宝和鱼</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6592758)<br><br>2015-04-01 21:54<br>赞(0) 踩(0) | <div>******</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7097982)<br>EVERYTHING<br>2015-04-02 10:15<br>赞(0) 踩(0) | <div>先MARK 最近的心态不能静下来听这些</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47942550)<br><br>2015-03-08 12:20<br>赞(0) 踩(0) | <div>支持！</div> |

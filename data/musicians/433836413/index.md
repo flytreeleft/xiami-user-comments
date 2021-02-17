@@ -3,7 +3,7 @@ VALENTINA赵胤羽
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/042516f130d18935963dd0ff11ce0d6d.jpg)<br>VALENTINA赵胤羽](https://i.xiami.com/valentina) | **播放数**: 678345<br>**粉丝数**: 2458<br>**评论数**: 76<br>**地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap<br> |
+| [![](../../images/musicians/042516f130d18935963dd0ff11ce0d6d.jpg)<br>VALENTINA赵胤羽](https://i.xiami.com/valentina) | **地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap<br>**播放数**: 678345<br>**粉丝数**: 2458<br>**评论数**: 76<br> |
 
 ## 档案
 
@@ -34,8 +34,8 @@ VALENTINA/瓦纶/赵胤羽 微博：VALENTINA赵胤羽
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81039298)<br>零浪漫体质<br>2019-03-02 15:06<br>赞(0) 踩(0) | <div>嗯哼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375586513)<br><br>2019-01-10 23:51<br>赞(1) 踩(0) | <div>cucci妹为啥删了呀？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2018-09-08 13:29<br>赞(0) 踩(0) | <div>.</div> |
@@ -87,7 +87,7 @@ VALENTINA/瓦纶/赵胤羽 微博：VALENTINA赵胤羽
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51683691)<br>我还没想好要写什么...<br>2015-12-20 13:08<br>赞(0) 踩(0) | <div>拗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44140680)<br>旅途愉快<br>2015-12-13 01:46<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52866079)<br>Tao bao：7ant...<br>2015-12-02 10:04<br>赞(0) 踩(0) | <div>已经爱听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6482732)<br>#贵族生活<br>2015-11-08 06:59<br>赞(32) 踩(0) | <div>已删来自iPhone客户端</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6482732)<br>#贵族生活<br>2015-11-08 06:59<br>赞(32) 踩(0) | <div>已删<br><br>来自iPhone客户端</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6482732)<br>#贵族生活<br>2016-01-28 13:11<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9948774)<br><br>2017-10-28 00:44<br>赞(0) 踩(0) | <div>能不能加个微信</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35275661)<br><br>2017-11-04 00:19<br>赞(0) 踩(0) | <div>三棒子你要干嘛</div> |

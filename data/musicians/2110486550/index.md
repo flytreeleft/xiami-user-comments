@@ -3,7 +3,7 @@ THE BOOTLEGS
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7cd357bad01fcded30c6531a19ea1956.jpg)<br>THE BOOTLEGS](https://i.xiami.com/thebootlegs) | **播放数**: 785950<br>**粉丝数**: 2606<br>**评论数**: 119<br>**地区**: China 中国大陆<br>**风格**: 噪音流行 Noise Pop, 独立摇滚 Indie Rock, 独立流行 Indie Pop, 低保真 Lo-Fi<br> |
+| [![](../../images/musicians/7cd357bad01fcded30c6531a19ea1956.jpg)<br>THE BOOTLEGS](https://i.xiami.com/thebootlegs) | **地区**: China 中国大陆<br>**风格**: 噪音流行 Noise Pop, 独立摇滚 Indie Rock, 独立流行 Indie Pop, 低保真 Lo-Fi<br>**播放数**: 785950<br>**粉丝数**: 2606<br>**评论数**: 119<br> |
 
 ## 档案
 
@@ -20,8 +20,8 @@ W E I R D
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40950427)<br>专心听歌<br>2021-01-02 16:00<br>赞(0) 踩(0) | <div>很可爱啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30074304)<br>寄蜉蝣于天地，渺沧海之一...<br>2020-12-19 19:13<br>赞(0) 踩(0) | <div>✈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38650573)<br>[动画表情]<br>2020-12-11 14:01<br>赞(0) 踩(0) | <div>靴靴泥萌</div> |
@@ -113,7 +113,7 @@ W E I R D
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10028400)<br>我还没想好要写什么...<br>2019-08-24 08:01<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49655313)<br>除了再见还可以说些什么呢<br>2019-08-20 22:09<br>赞(2) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-08-17 12:21<br>赞(1) 踩(0) | <div>-</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311688017)<br>我还没想好要写什么...<br>2019-08-16 23:38<br>赞(0) 踩(0) | <div>留I hate Internet</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311688017)<br>我还没想好要写什么...<br>2019-08-16 23:38<br>赞(0) 踩(0) | <div>留<br>I hate Internet</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120339768)<br>我还没想好要写什么...<br>2019-08-16 21:55<br>赞(3) 踩(0) | <div>可很可非常</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48621783)<br>微信联系 Sacred-...<br>2019-08-16 20:52<br>赞(0) 踩(0) | <div>√²</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292484097)<br> <br>2019-08-16 14:34<br>赞(1) 踩(0) | <div>山东汉子怎么都这么浪漫！</div> |

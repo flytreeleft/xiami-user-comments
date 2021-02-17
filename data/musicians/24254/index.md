@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/89576055f1e0cc73eabdad35a3ab19b8.jpg)<br>黑撒](https://i.xiami.com/mafeng) | **播放数**: 12352605<br>**粉丝数**: 17331<br>**评论数**: 617<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll<br> |
+| [![](../../images/musicians/89576055f1e0cc73eabdad35a3ab19b8.jpg)<br>黑撒](https://i.xiami.com/mafeng) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll<br>**播放数**: 12352605<br>**粉丝数**: 17331<br>**评论数**: 617<br> |
 
 ## 档案
 
@@ -37,8 +37,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276786607)<br>-|-<br>2020-06-02 04:36<br>赞(0) 踩(0) | <div>61              6661⭐⚘</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276786607)<br>-|-<br>2020-06-02 04:35<br>赞(0) 踩(0) | <div>⚘6666661是西安的麻哈哈哈6661⚘⚘⚘⚘⚘⚘⚘⚘⚘⚘⚘⚘⚘⚘⚘⚘⚘</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279308567)<br>生活不易，且行且珍惜<br>2019-12-12 23:19<br>赞(0) 踩(0) | <div>为啥没有说到河滩会……</div> |
@@ -104,7 +104,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4475823)<br><br>2016-07-18 16:02<br>赞(0) 踩(0) | <div>牛滴很</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12208626)<br> <br>2016-07-04 00:40<br>赞(0) 踩(0) | <div>聊咋了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16135450)<br><br>2016-06-23 00:51<br>赞(0) 踩(0) | <div>1498</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191281518)<br><br>2016-06-18 13:03<br>赞(3) 踩(0) | <div>偶尔听到了他们的一首歌，虽然不怎么听歌，甚至连一首歌都不会唱，从小就是五音不全。上KTV也只是找公主玩。他们的哥让人去认识自己，去清理自己，一种正能量充满了整个身体。这个乐队是唯一个让我想去看他们一场演唱会的乐队。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191281518)<br><br>2016-06-18 13:03<br>赞(3) 踩(0) | <div>偶尔听到了他们的一首歌，虽然不怎么听歌，甚至连一首歌都不会唱，从小就是五音不全。上KTV也只是找公主玩。<br>他们的哥让人去认识自己，去清理自己，一种正能量充满了整个身体。<br>这个乐队是唯一个让我想去看他们一场演唱会的乐队。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44991093)<br>Beautiful Bl...<br>2016-05-31 13:51<br>赞(30) 踩(0) | <div>别看黑撒声音土，但它是第一个吧hiphop加入民谣，还融合蓝调戏曲爵士摇滚电子乐众多音乐元素，至少现在还算成功的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55519212)<br> <br>2016-03-18 00:50<br>赞(0) 踩(0) | <div>这群古惑仔快出新专辑了吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3489466)<br> <br>2016-03-09 20:40<br>赞(1) 踩(0) | <div>想起班里那群西安佬</div> |
@@ -211,7 +211,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4344364)<br><br>2014-10-18 20:01<br>赞(0) 踩(0) | <div>非常带感，句句都打在心坎上</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18659062)<br><br>2014-10-18 13:45<br>赞(53) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26362618)<br>我还没想好要写什么...<br>2014-10-15 15:43<br>赞(0) 踩(0) | <div>黑撒 西安 我的生活曾与之相连</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9365026)<br>心里装得下江河湖泊 都一...<br>2014-10-14 11:38<br>赞(0) 踩(0) | <div>黑撒黑撒你们还会出新专辑么？2016年我就会从美国回去西安了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9365026)<br>心里装得下江河湖泊 都一...<br>2014-10-14 11:38<br>赞(0) 踩(0) | <div>黑撒黑撒你们还会出新专辑么？<br>2016年我就会从美国回去西安了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18721418)<br>大爱p<br>2014-11-10 17:54<br>赞(0) 踩(0) | <div>重点是美国吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9365026)<br>心里装得下江河湖泊 都一...<br>2014-11-13 12:19<br>赞(0) 踩(0) | <div><q><b>小方格说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18721418)<br>大爱p<br>2015-01-04 19:54<br>赞(0) 踩(0) | <div><q><b>潇风沫蓝岛说：</b></q></div> |
@@ -222,7 +222,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13954519)<br>好便是了。<br>2014-09-19 11:46<br>赞(0) 踩(0) | <div>黑撒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205735)<br>芒果的体型能变成黄瓜的么<br>2014-09-19 08:48<br>赞(0) 踩(0) | <div>他似她滴流川枫，他似她滴苍井空~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16566470)<br><br>2014-09-19 06:06<br>赞(1) 踩(0) | <div>黑撒的每首歌都听过至少50遍以上了，还没腻，不错~~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9365026)<br>心里装得下江河湖泊 都一...<br>2014-09-19 00:44<br>赞(0) 踩(0) | <div>恭喜入驻，回忆起了高中时光一群人在真爱ktv里吼关中话的喜感场景。请坚持，这个时代最难做到坚持，与你们共勉</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9365026)<br>心里装得下江河湖泊 都一...<br>2014-09-19 00:44<br>赞(0) 踩(0) | <div>恭喜入驻，回忆起了高中时光一群人在真爱ktv里吼关中话的喜感场景。<br>请坚持，这个时代最难做到坚持，与你们共勉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1851561)<br><br>2014-09-18 21:03<br>赞(0) 踩(0) | <div>欢迎老陕！！！！！！！！哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5660107)<br>请你不要吃我，我给你唱一...<br>2014-09-18 17:09<br>赞(0) 踩(0) | <div>快出新歌！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1400641)<br>never stop<br>2014-09-18 15:59<br>赞(0) 踩(0) | <div>遮丝腻补灌！</div> |
@@ -391,7 +391,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/784694)<br><br>2012-11-03 21:28<br>赞(0) 踩(0) | <div>啥都不说了，都是陕西人！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10916037)<br><br>2012-10-27 14:56<br>赞(0) 踩(0) | <div>很有趣~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987294)<br>暂无签名~<br>2012-10-24 17:42<br>赞(0) 踩(0) | <div><a href="http://www.56.com/u37/v_NzYzNTEzNzg.html" target="_blank" rel="nofollow noreferrer noopener">http://www.56.com/u37/v_NzYzNTEzNzg.html</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987294)<br>暂无签名~<br>2012-10-24 17:39<br>赞(0) 踩(0) | <div>双喜啊··························没事上电视泡妞···········丢人了吧······</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987294)<br>暂无签名~<br>2012-10-24 17:39<br>赞(0) 踩(0) | <div>双喜啊··························<br>没事上电视泡妞···········<br>丢人了吧······</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/541269)<br><br>2012-10-22 13:54<br>赞(0) 踩(0) | <div>有意思</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6755396)<br>叶动心弦<br>2012-10-18 04:44<br>赞(0) 踩(0) | <div>有才</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2198269)<br>是大厨-<br>2012-10-14 19:21<br>赞(0) 踩(0) | <div>不错啊</div> |
@@ -439,7 +439,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2639208)<br><br>2012-05-23 18:52<br>赞(0) 踩(0) | <div>西安人帮顶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4394818)<br>我还没想好要写什么...<br>2012-05-22 22:45<br>赞(0) 踩(0) | <div>估计只有陕西人才能听得懂！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5582632)<br><br>2012-05-22 15:27<br>赞(0) 踩(0) | <div>眼望长安，望眼欲穿</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6882272)<br>刁难我的人全都去狗带！<br>2012-05-21 19:37<br>赞(0) 踩(0) | <div>多么有个性的乐队。草莓节上旁边一个穿着西装的女生样子挺正经的，乐队一出来就狂嗨，越来是个铁杆黑米、、好吧，我也来疯疯</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6882272)<br>刁难我的人全都去狗带！<br>2012-05-21 19:37<br>赞(0) 踩(0) | <div>多么有个性的乐队。<br>草莓节上旁边一个穿着西装的女生样子挺正经的，乐队一出来就狂嗨，越来是个铁杆黑米、、好吧，我也来疯疯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3423193)<br><br>2012-05-21 16:25<br>赞(0) 踩(0) | <div>哈哈哈  真他妈黑！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1927225)<br><br>2012-05-21 14:47<br>赞(0) 踩(0) | <div>好玩儿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354593)<br><br>2012-05-20 11:24<br>赞(0) 踩(0) | <div>很本色的演唱，喜欢~</div> |
@@ -495,11 +495,11 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/672279)<br> <br>2012-02-18 09:37<br>赞(0) 踩(0) | <div>你也会喜欢的    @中环下的省长</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1873925)<br><br>2012-02-16 22:54<br>赞(0) 踩(0) | <div>大爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6798194)<br> <br>2012-02-12 17:05<br>赞(0) 踩(0) | <div>舒服~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7966148)<br><br>2012-02-08 19:40<br>赞(0) 踩(0) | <div>第一個喜歡的大陸樂團^^陜西腔好聽~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7966148)<br><br>2012-02-08 19:40<br>赞(0) 踩(0) | <div>第一個喜歡的大陸樂團^^<br>陜西腔好聽~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7933203)<br><br>2012-02-06 04:06<br>赞(0) 踩(0) | <div>我擦。必须给力。作为老陕我不会陕西话。但我懂啥叫给力。你懂么。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5427255)<br><br>2012-02-03 09:58<br>赞(0) 踩(0) | <div>奏斯喜欢恨~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7748698)<br><br>2012-02-02 15:50<br>赞(0) 踩(0) | <div>很西安，牛得很！！！！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3732255)<br><br>2012-02-01 16:27<br>赞(0) 踩(0) | <div>说多了，都没意思！就两字“牛B”！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3732255)<br><br>2012-02-01 16:27<br>赞(0) 踩(0) | <div>说多了，都没意思！<br><br>就两字“牛B”！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7756638)<br><br>2012-01-21 18:30<br>赞(0) 踩(0) | <div>~~~~~有机会去看看演唱会</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1492903)<br><br>2012-01-21 11:30<br>赞(0) 踩(0) | <div>成熟了许多啊...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4965890)<br><br>2012-01-20 17:39<br>赞(0) 踩(0) | <div>花一样的长安</div> |
@@ -557,7 +557,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2398951)<br><br>2011-10-02 03:27<br>赞(0) 踩(0) | <div>美美美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4142885)<br>我还没想好要写什么...<br>2011-10-01 10:44<br>赞(0) 踩(0) | <div>哎呦 我喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/925249)<br><br>2011-09-24 11:56<br>赞(0) 踩(0) | <div>陕西美食让我想回姥家西安了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1371719)<br><br>2011-09-23 16:19<br>赞(0) 踩(0) | <div>“这样的故事每年都发生在这城市之中这样的故事每年都结束消失在风中还记得当年他和她爱的那么浓他是她的流川枫她是他的**”</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1371719)<br><br>2011-09-23 16:19<br>赞(0) 踩(0) | <div>“这样的故事每年都发生在这城市之中<br>这样的故事每年都结束消失在风中<br>还记得当年他和她爱的那么浓<br>他是她的流川枫她是他的**”</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1748282)<br>Können Sie m...<br>2011-09-23 13:18<br>赞(0) 踩(0) | <div>很不错~！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1748282)<br>Können Sie m...<br>2011-09-23 13:16<br>赞(0) 踩(0) | <div>乖的很啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2240963)<br><br>2011-09-06 14:05<br>赞(0) 踩(0) | <div>喜欢！！！</div> |
@@ -643,7 +643,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1326942)<br><br>2010-08-29 14:48<br>赞(0) 踩(0) | <div>呀，亲切地很么。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1209028)<br><br>2010-07-29 14:56<br>赞(0) 踩(0) | <div>马飞也不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1216979)<br><br>2010-07-25 17:49<br>赞(0) 踩(0) | <div>在异乡听到家乡话  亲切已经不能形容我现在的感受了~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252018)<br>恋上高海拔<br>2010-06-05 17:32<br>赞(0) 踩(0) | <div>来支持下老乡~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252018)<br>恋上高海拔<br>2010-06-05 17:32<br>赞(0) 踩(0) | <div>来支持下老乡~~~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252018)<br>恋上高海拔<br>2010-09-02 10:32<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252018)<br>恋上高海拔<br>2010-09-02 10:45<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252018)<br>恋上高海拔<br>2010-09-02 23:13<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
@@ -654,5 +654,5 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/643862)<br><br>2010-02-27 03:05<br>赞(0) 踩(0) | <div>很真实</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160391)<br><br>2009-05-19 22:34<br>赞(0) 踩(0) | <div>陕西的老乡顶起~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44879)<br><br>2009-03-31 20:42<br>赞(0) 踩(0) | <div>今晚吃麻辣米线的时候正想到黑撒的陕西美食。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92654)<br><br>2009-03-26 13:16<br>赞(0) 踩(0) | <div>很喜欢这些特色本地歌曲！呵呵支持！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92654)<br><br>2009-03-26 13:16<br>赞(0) 踩(0) | <div>很喜欢这些特色本地歌曲！<br>呵呵<br>支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86028)<br><br>2009-03-21 12:38<br>赞(0) 踩(0) | <div>1111</div> |

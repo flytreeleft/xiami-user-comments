@@ -3,7 +3,7 @@ ZHU
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a4f381d13d696f0035718ea606cdcc8b.jpg)<br>ZHU](https://i.xiami.com/zhumusic) | **播放数**: 15128274<br>**粉丝数**: 13509<br>**评论数**: 445<br>**地区**: United States of America 美国<br>**风格**: 电子 Electronic<br> |
+| [![](../../images/musicians/a4f381d13d696f0035718ea606cdcc8b.jpg)<br>ZHU](https://i.xiami.com/zhumusic) | **地区**: United States of America 美国<br>**风格**: 电子 Electronic<br>**播放数**: 15128274<br>**粉丝数**: 13509<br>**评论数**: 445<br> |
 
 ## 档案
 
@@ -98,8 +98,8 @@ In 2016, the single "In the Morning" was released via Columbia Records. After hi
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354493224)<br>吮指原味鸡全年用户。<br>2020-10-09 09:03<br>赞(0) 踩(0) | <div>睡不好觉就会吐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425865359)<br><br>2020-08-11 14:12<br>赞(0) 踩(0) | <div>Touch it</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43443614)<br>微信M7-Bonnie，...<br>2020-07-29 17:31<br>赞(0) 踩(0) | <div>（￢㉨￢）</div> |
@@ -128,7 +128,7 @@ In 2016, the single "In the Morning" was released via Columbia Records. After hi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17146554)<br>weibo：@L1RRO...<br>2019-03-02 11:21<br>赞(0) 踩(0) | <div>你好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9049307)<br>你捧着书，背靠着树，阳光...<br>2019-02-11 14:02<br>赞(0) 踩(0) | <div>这嗓音还是nice的，少年吸du人员的声音。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18475688)<br>容忍与自由——胡适<br>2019-02-01 18:01<br>赞(1) 踩(0) | <div>这个人太有才华了，我太喜欢了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33078523)<br>我还没想好要写什么...<br>2019-01-31 22:37<br>赞(0) 踩(0) | <div>啊不知道还有没有机会上海再相见</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33078523)<br>我还没想好要写什么...<br>2019-01-31 22:37<br>赞(0) 踩(0) | <div>啊不知道还有没有机会<br>上海再相见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1154949)<br>我想在虾米找个男朋友啊<br>2019-01-26 13:51<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250797487)<br><br>2018-12-31 07:46<br>赞(2) 踩(0) | <div>好喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100724066)<br>风里笑着，风里追，感激天...<br>2018-12-29 06:30<br>赞(2) 踩(0) | <div>好听 好听 好听</div> |
@@ -337,7 +337,7 @@ In 2016, the single "In the Morning" was released via Columbia Records. After hi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49265597)<br>我还没想好要写什么...<br>2016-08-18 18:33<br>赞(0) 踩(0) | <div><img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43547593)<br>♡<br>2016-08-10 17:43<br>赞(0) 踩(0) | <div>⅋</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30617820)<br>窝列大窝列大哟<br>2016-08-04 15:25<br>赞(0) 踩(0) | <div>23333333</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9841315)<br><br>2016-08-04 15:12<br>赞(3) 踩(0) | <div>在APPLE MUSIC推荐上知道了这个歌手，感觉很正啊。这算是迷幻风格吗？另外ZHU在英文读起来应该是和 SU 同音吧？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9841315)<br><br>2016-08-04 15:12<br>赞(3) 踩(0) | <div>在APPLE MUSIC推荐上知道了这个歌手，感觉很正啊。这算是迷幻风格吗？<br><br>另外ZHU在英文读起来应该是和 SU 同音吧？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4971212)<br><br>2016-08-21 15:47<br>赞(0) 踩(0) | <div>deep house</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47255487)<br>夜色最温柔<br>2016-08-04 10:35<br>赞(1) 踩(0) | <div>呼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/681153)<br>我还没想好要写什么...<br>2016-08-03 13:36<br>赞(0) 踩(0) | <div>明明注定要听这张砖</div> |
@@ -358,10 +358,10 @@ In 2016, the single "In the Morning" was released via Columbia Records. After hi
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75627220)<br>僕らも世界にひとつだけの...<br>2016-07-25 15:44<br>赞(0) 踩(0) | <div>姓和歌手名一样233 作品也很喜欢:)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49298164)<br>我还没想好要写什么...<br>2016-07-13 21:45<br>赞(0) 踩(0) | <div><img src="../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52056952)<br>人生即是到來、相遇、陪伴...<br>2016-07-13 12:30<br>赞(0) 踩(0) | <div><img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496847)<br>夢醒了，所以心碎了。<br>2016-06-25 18:37<br>赞(0) 踩(0) | <div>大师鉴定完毕补起来补起来补起来~~混音+嗓音风格都是菜！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2016-06-24 00:53<br>赞(0) 踩(0) | <div><a href="https://itunes.apple.com/nz/album/generationwhy/id1125546735?uo=8&amp;at=1001l8sn" target="_blank" rel="nofollow noreferrer noopener">https://itunes.apple.com/nz/album/generationwhy/id1125546735?uo=8&amp;at=1001l8sn</a><a href="http://emumo.xiami.com/u/36057872" target="_blank" rel="nofollow" name_card="36057872">@扎扎~</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496847)<br>夢醒了，所以心碎了。<br>2016-06-25 18:37<br>赞(0) 踩(0) | <div>大师<br>鉴定完毕<br>补起来补起来补起来~~<br>混音+嗓音风格都是菜！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2016-06-24 00:53<br>赞(0) 踩(0) | <div><a href="https://itunes.apple.com/nz/album/generationwhy/id1125546735?uo=8&amp;at=1001l8sn" target="_blank" rel="nofollow noreferrer noopener">https://itunes.apple.com/nz/album/generationwhy/id1125546735?uo=8&amp;at=1001l8sn</a><br><a href="http://emumo.xiami.com/u/36057872" target="_blank" rel="nofollow" name_card="36057872">@扎扎~</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36419251)<br>I'm married ...<br>2016-06-19 09:51<br>赞(0) 踩(0) | <div>[文字cool]</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2016-06-18 01:45<br>赞(0) 踩(0) | <div>ZHU – In The Morning (Matroda Remix)<a href="https://soundcloud.com/matrodamusic/zhu-in-the-morning-matroda-remix" target="_blank" rel="nofollow noreferrer noopener">https://soundcloud.com/matrodamusic/zhu-in-the-morning-matroda-remix</a><a href="http://emumo.xiami.com/u/10462912" target="_blank" rel="nofollow" name_card="10462912">@♤♠♥♡</a> <a href="http://emumo.xiami.com/u/36057872" target="_blank" rel="nofollow" name_card="36057872">@扎扎~</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2016-06-18 01:45<br>赞(0) 踩(0) | <div>ZHU – In The Morning (Matroda Remix)<br><a href="https://soundcloud.com/matrodamusic/zhu-in-the-morning-matroda-remix" target="_blank" rel="nofollow noreferrer noopener">https://soundcloud.com/matrodamusic/zhu-in-the-morning-matroda-remix</a><br><a href="http://emumo.xiami.com/u/10462912" target="_blank" rel="nofollow" name_card="10462912">@♤♠♥♡</a> <a href="http://emumo.xiami.com/u/36057872" target="_blank" rel="nofollow" name_card="36057872">@扎扎~</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34976727)<br> <br>2016-06-13 22:33<br>赞(0) 踩(0) | <div>好  好好好好好 过好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22881143)<br>ㅤㅤㅤㅤ<br>2016-06-13 20:42<br>赞(1) 踩(0) | <div>补</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188706679)<br>.<br>2016-06-11 12:21<br>赞(0) 踩(0) | <div><img src="../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png"></div> |

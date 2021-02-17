@@ -30,5 +30,3 @@ And Jill came tumbling after
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

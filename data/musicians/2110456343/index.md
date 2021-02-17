@@ -3,7 +3,7 @@ MaxChan
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2830c0ea898637dfb0cfd572d8146aa3.jpg)<br>MaxChan](https://i.xiami.com/maxchan) | **播放数**: 1133114<br>**粉丝数**: 12<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/2830c0ea898637dfb0cfd572d8146aa3.jpg)<br>MaxChan](https://i.xiami.com/maxchan) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1133114<br>**粉丝数**: 12<br>**评论数**: 0<br> |
 
 ## 档案
 
@@ -30,5 +30,3 @@ MaxChan
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

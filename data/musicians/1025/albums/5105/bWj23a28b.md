@@ -39,9 +39,9 @@ ISRC TW-A-55-86-03008
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-05-13 10:24<br>赞(0) 踩(0) | <div>作词：许常德、熊天平作曲：熊天平编曲：江建民制作人：袁惟仁</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-05-13 10:24<br>赞(0) 踩(0) | <div>作词：许常德、熊天平<br>作曲：熊天平<br>编曲：江建民<br>制作人：袁惟仁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322435988)<br><br>2017-09-19 21:26<br>赞(0) 踩(0) | <div>致我的初恋，愿你快乐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232987506)<br><br>2016-10-18 04:44<br>赞(2) 踩(0) | <div>同是初中时啊，我的青春岁月他就是我的男神，看见他的脸我并不失望，反而觉得单纯干净，以至于初恋男友就是按照他的样子找的 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3246148)<br><br>2013-07-28 12:21<br>赞(3) 踩(0) | <div>前奏像鬼片</div> |

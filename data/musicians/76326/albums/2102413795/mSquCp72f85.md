@@ -55,8 +55,8 @@ MIDI：喜子<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203269047)<br> <br>2021-01-23 22:22<br>赞(0) 踩(0) | <div>虾米再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353404811)<br><br>2021-01-23 10:27<br>赞(1) 踩(0) | <div>虾米音乐再见了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357249777)<br>听你喜欢的歌可以变成你嘛<br>2021-01-09 23:20<br>赞(0) 踩(0) | <div>人生海海</div> |
@@ -77,7 +77,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9493472)<br><br>2020-11-17 07:30<br>赞(0) 踩(0) | <div>o</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235981783)<br>Enjoy the pr...<br>2020-11-08 20:07<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415154684)<br>我还没想好要写什么...<br>2020-11-06 21:21<br>赞(0) 踩(0) | <div>明明是106路公交车啊 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327000316)<br><br>2020-10-30 14:27<br>赞(1) 踩(0) | <div>去年冬天第1次去开封鼓楼  第1次去开封府  第1次吃开封灌汤包&amp;hellip;臭老公爱你哟 <img src="../../../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327000316)<br><br>2020-10-30 14:27<br>赞(1) 踩(0) | <div>去年冬天第1次去开封鼓楼  第1次去开封府  第1次吃开封灌汤包&amp;hellip;<br>臭老公爱你哟 <img src="../../../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../../../images/comments/9406f2fb0538553b47a1a63ac349ce20.png"> <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375216261)<br>如人饮水，冷暖自知。<br>2020-11-11 17:34<br>赞(0) 踩(0) | <div>歌曲鼓楼指的是北京鼓楼</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48894807)<br>感谢生活中赐给我们的磨难<br>2020-12-04 04:25<br>赞(0) 踩(0) | <div><q><b>随遇而安说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5871081)<br><br>2020-10-28 15:00<br>赞(3) 踩(0) | <div>国外的曲还能这么改？</div> |
@@ -91,7 +91,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426060306)<br>闲云野鹤<br>2020-09-28 08:37<br>赞(3) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289293301)<br>我，来自宇宙深处的幽灵…...<br>2020-09-26 07:51<br>赞(1) 踩(0) | <div>****</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197854381)<br><br>2020-09-18 06:43<br>赞(3) 踩(0) | <div>好好听着舒服，唱的几首歌都不错。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421157484)<br>慢慢习惯一个人的夜晚<br>2020-09-18 00:34<br>赞(2) 踩(0) | <div>像我这样还爱着前妻的人注定是孤单一辈子的人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421157484)<br>慢慢习惯一个人的夜晚<br>2020-09-18 00:34<br>赞(2) 踩(0) | <div>像我这样还爱着前妻的人<br>注定是孤单一辈子的人</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408369544)<br>相忘于江湖<br>2020-10-31 16:06<br>赞(0) 踩(0) | <div>那干嘛要离婚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358982152)<br>你不知道我是谁<br>2020-09-15 21:57<br>赞(3) 踩(0) | <div>越简单越有味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249036173)<br><br>2020-09-14 06:47<br>赞(1) 踩(0) | <div>好听！</div> |
@@ -120,7 +120,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324250801)<br>精诚所至 金石为开<br>2020-07-23 23:07<br>赞(2) 踩(0) | <div>与我无关的一切把清净的世界还给了我 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340575776)<br><br>2020-07-23 17:27<br>赞(2) 踩(0) | <div>大学毕业后在白塔寺上班，天天从东直门一路过去，北新桥、鼓楼、地安门、什刹海，现在都觉得没了味道。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226463152)<br><br>2020-07-17 22:00<br>赞(2) 踩(0) | <div>奥利给 我来过</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366193545)<br>外星球 李李的粉瓶子<br>2020-07-15 22:26<br>赞(1) 踩(0) | <div>无论陪你多久，无论止步于什么时候&amp;hellip;希望在这个过成中你得到的都是快乐！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366193545)<br>外星球 李李的粉瓶子<br>2020-07-15 22:26<br>赞(1) 踩(0) | <div>无论陪你多久，无论止步于什么时候&amp;hellip;<br>希望在这个过成中你得到的都是快乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/152954086)<br><br>2020-07-10 17:58<br>赞(4) 踩(0) | <div>我一直在 <img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355444411)<br><br>2020-07-10 07:50<br>赞(2) 踩(0) | <div>鼓楼的炒肝已经不好吃了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232944404)<br><br>2020-07-06 13:30<br>赞(2) 踩(0) | <div>的确和《It never rains in southern california》很像 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">音乐无国界，虽然作曲像了点，鼓楼的歌词和意境不错！</div> |
@@ -177,7 +177,7 @@ MIDI：喜子<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298069549)<br><br>2020-03-30 07:00<br>赞(0) 踩(0) | <div>对此</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267305707)<br><br>2020-05-06 08:40<br>赞(0) 踩(0) | <div>747路换成了107路，抄的太明显</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29418455)<br>爱着家庭，奋斗吧<br>2020-03-24 17:17<br>赞(2) 踩(0) | <div>19年单曲循环最多的一首 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293638849)<br><br>2020-03-23 23:08<br>赞(2) 踩(0) | <div>坐标东北，目标北京这学期课不多，五六日三休，本想着趁周末到北京来一场说走就走的旅行，到后海酒吧静饮独酌，到鼓楼的咖啡馆独享夜色，等107路再次经过，耳机里听着几首歌。还有前门大栅栏，老北京的四合院&amp;hellip;&amp;hellip;可惜现在疫情，我还闷在家里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293638849)<br><br>2020-03-23 23:08<br>赞(2) 踩(0) | <div>坐标东北，目标北京<br>这学期课不多，五六日三休，本想着趁周末到北京来一场说走就走的旅行，到后海酒吧静饮独酌，到鼓楼的咖啡馆独享夜色，等107路再次经过，耳机里听着几首歌。还有前门大栅栏，老北京的四合院&amp;hellip;&amp;hellip;<br>可惜现在疫情，我还闷在家里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335099015)<br>梧桐吹散我的四月。<br>2020-03-21 22:46<br>赞(1) 踩(0) | <div>啊！虾米晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9348071)<br>泛听<br>2020-03-13 03:03<br>赞(1) 踩(0) | <div>没有赶上《开往北京的火车》，我有些疲累，像个《小人物》，躲进了这家《吉姆餐厅》。这间《小屋》里，放着《八十年代的歌》，前面的大哥热切地给上酒，我们从《少年锦时》的趣事，聊到《十九岁》的青春激情，聊到他的《三十岁的女人》时眼神有些忧伤，他换到《理想》这个话题，这时我喝了一大口酒，宁愿自己是一个《无法长大》的小孩。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362038196)<br>也许再见，也许再也不见！...<br>2020-03-10 21:25<br>赞(1) 踩(0) | <div>真是个音乐才子，赞赞赞赞赞赞赞！</div> |
@@ -230,7 +230,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615607)<br> 哪有什么岁月安好，只是...<br>2019-12-07 00:12<br>赞(1) 踩(0) | <div>鼓楼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423275618)<br>歌曲存到爆<br>2019-12-06 20:18<br>赞(1) 踩(0) | <div>我是真的这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254448303)<br><br>2019-11-28 12:16<br>赞(5) 踩(0) | <div>好意思吗 抄袭南加州永远不下雨</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296082749)<br>摇滚乐  古风乐<br>2019-11-26 19:41<br>赞(3) 踩(0) | <div>沉默不语靠着墙壁晒太阳的过客，一切的甜蜜繁华都与我无关……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296082749)<br>摇滚乐  古风乐<br>2019-11-26 19:41<br>赞(3) 踩(0) | <div>沉默不语靠着墙壁晒太阳的过客，<br>一切的甜蜜繁华都与我无关……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321480263)<br><br>2019-12-09 19:23<br>赞(0) 踩(0) | <div>你抄袭个给我们听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281702530)<br>我还没想好要写什么...<br>2019-11-26 07:21<br>赞(3) 踩(0) | <div>好巧，正好坐到了鼓楼站（南京） <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424378663)<br><br>2019-11-24 07:49<br>赞(2) 踩(0) | <div>好听</div> |
@@ -257,21 +257,21 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43500202)<br> <br>2019-09-25 10:01<br>赞(4) 踩(0) | <div>对一座城市有了很深的感情，才会写出此歌，不是无情的空洞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339436781)<br>时间有限 把时间留给新鲜...<br>2019-09-18 13:27<br>赞(4) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427565972)<br>我还没想好要写什么...<br>2019-09-15 22:30<br>赞(4) 踩(0) | <div>晚安</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375401649)<br>人生之初一群人上路，落寞...<br>2019-09-15 01:20<br>赞(3) 踩(0) | <div>西安的鼓楼吗？我是广东人，但是我的爱人是西安的。所以我很喜欢西安这座城市</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375401649)<br>人生之初一群人上路，落寞...<br>2019-09-15 01:20<br>赞(3) 踩(0) | <div>西安的鼓楼吗？<br>我是广东人，但是我的爱人是西安的。所以我很喜欢西安这座城市</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249051712)<br><br>2019-09-22 15:26<br>赞(0) 踩(0) | <div>应该是北京的那个，歌词里的后海是北京哒</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32324791)<br>vx：GUOYD116<br>2019-11-23 23:16<br>赞(0) 踩(0) | <div>北京呀，107路嘛</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375216261)<br>如人饮水，冷暖自知。<br>2019-12-03 08:44<br>赞(0) 踩(0) | <div>后海，什刹海是北京鼓楼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38709822)<br><br>2019-09-12 10:27<br>赞(2) 踩(0) | <div>明天或者后天就去一趟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38709822)<br><br>2019-09-11 20:46<br>赞(2) 踩(0) | <div>真棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246739312)<br><br>2019-09-08 05:53<br>赞(2) 踩(0) | <div>哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274076485)<br>有最执着的梦想，也有最洒...<br>2019-09-06 09:10<br>赞(5) 踩(0) | <div>这里的一切都有始有终却能容纳所有不期而遇和久别重逢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274076485)<br>有最执着的梦想，也有最洒...<br>2019-09-06 09:10<br>赞(5) 踩(0) | <div>这里的一切都有始有终<br>却能容纳所有不期而遇和久别重逢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207927073)<br> <br>2019-09-01 15:55<br>赞(3) 踩(0) | <div>l</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259413921)<br>好好学习 发奋图强<br>2019-08-31 00:36<br>赞(2) 踩(0) | <div>好听不变</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429175996)<br><br>2019-08-29 07:21<br>赞(2) 踩(0) | <div>曲一般，可惜这词了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335209340)<br>我还没想好要写什么...<br>2019-08-23 13:35<br>赞(4) 踩(0) | <div>走到MAO</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411015734)<br>来生愿做一棵树<br>2019-08-22 07:29<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210068359)<br>电影人，摄影师，艺术家，...<br>2019-08-21 10:51<br>赞(5) 踩(0) | <div>总有一天你会遇到那么一个人，他让你放下所有包袱，从内向变得外向，犹豫变得阳光。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424872750)<br><br>2019-08-18 22:41<br>赞(2) 踩(0) | <div>我是你的沉默不语！我是你的无声奔溃！我是你的叛逆！我是你的自由！我是你的思念家乡！唯独不是你！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424872750)<br><br>2019-08-18 22:41<br>赞(2) 踩(0) | <div>我是你的沉默不语！<br>我是你的无声奔溃！<br>我是你的叛逆！<br>我是你的自由！<br>我是你的思念家乡！<br>唯独不是你！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259782117)<br>我心似明月，身外有清风。<br>2019-08-11 04:05<br>赞(3) 踩(0) | <div>到处都有鼓楼 南京就有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80726332)<br>谈爱伤感情。<br>2019-08-08 22:57<br>赞(2) 踩(0) | <div>雷子，爱你如昨。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321706447)<br>Echo <br>2019-08-08 19:18<br>赞(4) 踩(0) | <div>这首歌感觉像翻唱it’s ever rain on southern california</div> |
@@ -400,7 +400,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339577035)<br><br>2019-03-01 15:29<br>赞(3) 踩(0) | <div>此人出名后才气大减，再没有一首歌能和当年的画相提并论。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413290300)<br>80后的我，喜欢音乐、喜...<br>2019-03-01 08:02<br>赞(3) 踩(0) | <div>想去鼓楼。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412926081)<br><br>2019-02-25 13:32<br>赞(3) 踩(0) | <div>点个赞</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419789105)<br><br>2019-02-23 20:29<br>赞(2) 踩(0) | <div>忘不了暮色中回眸的你躲不掉命运下过的雨我无法追寻你的足迹</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419789105)<br><br>2019-02-23 20:29<br>赞(2) 踩(0) | <div>忘不了暮色中回眸的你<br>躲不掉命运下过的雨<br>我无法追寻你的足迹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96858228)<br><br>2019-02-22 01:27<br>赞(2) 踩(0) | <div>也</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76443930)<br>hello 看我 你在害...<br>2019-02-21 08:34<br>赞(1) 踩(0) | <div>在后海？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348761275)<br><br>2019-02-21 06:32<br>赞(1) 踩(0) | <div></div> |
@@ -437,10 +437,10 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415183426)<br>我还没想好要 我会试着放...<br>2019-01-31 14:55<br>赞(2) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415183426)<br>我还没想好要 我会试着放...<br>2019-01-31 14:49<br>赞(3) 踩(0) | <div>一切繁华与我无关</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362593986)<br>花开如梦，笑颜如初.<br>2019-01-31 01:52<br>赞(3) 踩(0) | <div>感觉旋律有些熟悉，怎么说呢？挺好听！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24556013)<br><br>2019-01-30 10:42<br>赞(2) 踩(0) | <div>每个人都在用特有的方式诠释自己，大声向世界介绍自己。鼓楼，公汽，什刹海，一把吉他，一首歌，一条马路，一个人，要强的，坚强的，逞强的......纯粹简单，真诚难得。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24556013)<br><br>2019-01-30 10:42<br>赞(2) 踩(0) | <div>每个人都在用特有的方式诠释自己，大声向世界介绍自己。<br>鼓楼，公汽，什刹海，一把吉他，一首歌，一条马路，一个人，<br>要强的，坚强的，逞强的......<br>纯粹简单，真诚难得。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7100721)<br> <br>2019-01-29 22:03<br>赞(2) 踩(0) | <div>说实话，他的歌真一般，可能情怀不一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330795089)<br><br>2019-01-28 17:39<br>赞(2) 踩(0) | <div>来了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116004382)<br>沉迷节奏布鲁斯   R&...<br>2019-01-28 14:38<br>赞(3) 踩(0) | <div>这首歌节奏真的不错真的有种复古感觉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116004382)<br>沉迷节奏布鲁斯   R&...<br>2019-01-28 14:38<br>赞(3) 踩(0) | <div>这首歌节奏真的不错<br>真的有种复古感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49299173)<br>我还没想好要写什么...<br>2019-01-27 19:30<br>赞(2) 踩(0) | <div>我每天都在想你，现在我成了一只疯狗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263825343)<br>择一城终老，伴一人白首。<br>2019-01-27 17:38<br>赞(4) 踩(0) | <div>很好听，赵雷的好多歌 都单曲循环过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293685095)<br>祝乐友们新年大吉，岁岁平...<br>2019-01-27 08:23<br>赞(2) 踩(0) | <div>好听</div> |
@@ -489,7 +489,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380072872)<br><br>2018-12-24 01:51<br>赞(3) 踩(0) | <div>很喜欢这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34371207)<br><br>2018-12-23 11:24<br>赞(1) 踩(0) | <div>南鼓楼，北鼓楼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336077556)<br><br>2018-12-21 09:18<br>赞(2) 踩(0) | <div>cctv说中国最大的鼓楼在我们 凤阳县</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349255414)<br>日边清梦断，镜里朱颜改<br>2018-12-21 00:54<br>赞(1) 踩(0) | <div>君生我未生，我生君已老君恨我生迟，我恨君生早君生我未生，我生君已老恨不生同时，日日与君好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349255414)<br>日边清梦断，镜里朱颜改<br>2018-12-21 00:54<br>赞(1) 踩(0) | <div>君生我未生，我生君已老<br>君恨我生迟，我恨君生早<br><br>君生我未生，我生君已老<br>恨不生同时，日日与君好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336406627)<br>能吃是福<br>2018-12-19 20:16<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png">喜欢那句一切繁华与我无关的歌词与旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264115048)<br><br>2018-12-19 10:12<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269674803)<br><br>2018-12-19 08:31<br>赞(1) 踩(0) | <div>玛丽</div> |
@@ -546,16 +546,16 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51899722)<br><br>2018-09-22 18:12<br>赞(1) 踩(0) | <div>九月十五听着鼓楼看着鼓楼，做过107路，顺路南锣鼓巷；九月十六北京马拉松PB <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51899722)<br><br>2019-03-02 02:31<br>赞(0) 踩(0) | <div>跑完北京马拉松、不知道你是什么感受...与你一切无关</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82066090)<br>偏爱经典<br>2018-09-21 23:00<br>赞(1) 踩(0) | <div>那不是南加州不下雨</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173055614)<br>我还没想好要写什么...<br>2018-09-21 13:02<br>赞(2) 踩(0) | <div>分享  Albert Hammond 的歌曲《It Never Rains in So...》<a href="https://www.xiami.com/song/1770122983" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/1770122983</a> (分享自@虾米音乐)的确有点像</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173055614)<br>我还没想好要写什么...<br>2018-09-21 13:02<br>赞(2) 踩(0) | <div>分享  Albert Hammond 的歌曲《It Never Rains in So...》<a href="https://www.xiami.com/song/1770122983" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/1770122983</a> (分享自@虾米音乐)<br>的确有点像</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333351158)<br> <br>2018-09-20 06:29<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340776595)<br>莫忘初衷<br>2018-09-19 22:57<br>赞(2) 踩(0) | <div>去北京旅游恰巧在鼓楼碰到一个小哥哥在唱这首歌，唱的非常棒。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282447830)<br> <br>2018-12-17 20:15<br>赞(0) 踩(0) | <div>我认识他。张阳</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340776595)<br>莫忘初衷<br>2018-12-18 10:24<br>赞(0) 踩(0) | <div><q><b>wang10097253说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188869099)<br>谁说不能让我此生唯一自传...<br>2018-09-16 21:16<br>赞(0) 踩(0) | <div>9.15西安打卡 <img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302580667)<br><br>2018-09-15 12:35<br>赞(0) 踩(0) | <div>去了鼓楼， 去了后海。唉.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268935002)<br><br>2018-09-14 21:57<br>赞(2) 踩(0) | <div>对于生命而言，接纳是最好的温柔。时间是一双慧眼，可以见证一切！把好人坏人一一分辨；岁月是一场考验，把真情假意慢慢提炼。☀&amp;mdash;&amp;mdash;致雷子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268935002)<br><br>2018-09-14 21:57<br>赞(2) 踩(0) | <div>对于生命而言，接纳是最好的温柔。时间是一双慧眼，可以见证一切！把好人坏人一一分辨；岁月是一场考验，把真情假意慢慢提炼。☀<br><br>&amp;mdash;&amp;mdash;致雷子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264632450)<br>追求自己想要的生活。<br>2018-09-14 12:24<br>赞(2) 踩(0) | <div>有些情感深深藏在心里的岩石缝里，不知道什么时候被凿开，才可以看得见日月。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192613020)<br><br>2018-09-14 10:57<br>赞(2) 踩(0) | <div>没去过成都但在玉林路尽头的小酒馆喝过酒没到过厦门却迎着海风看着浪花朵朵没来过北京却在鼓楼上一个人肆意地呼喊这一切归功赵雷</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192613020)<br><br>2018-09-14 10:57<br>赞(2) 踩(0) | <div>没去过成都<br><br>但在玉林路尽头的小酒馆喝过酒<br><br>没到过厦门<br><br>却迎着海风看着浪花朵朵<br><br>没来过北京<br><br>却在鼓楼上一个人肆意地呼喊<br><br>这一切<br><br>归功赵雷</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273785630)<br>目前手机里唯一的听歌Ap...<br>2018-09-22 08:27<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232185486)<br><br>2018-09-10 13:06<br>赞(0) 踩(0) | <div>第一次听鼓楼是同桌弹的，然后就很喜欢这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50828222)<br>虾米认证:黄山市屯溪区四...<br>2018-09-06 06:55<br>赞(0) 踩(0) | <div>好听</div> |
@@ -575,7 +575,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32380192)<br>我还没想好要写什么...<br>2018-08-14 12:41<br>赞(2) 踩(0) | <div>我是个 沉默不语的过客</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312609706)<br>我还没想好要写什么...<br>2018-08-13 12:28<br>赞(3) 踩(0) | <div>听的是一种怀念！顶我上去老铁们，让有个人看到 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338388936)<br><br>2018-08-12 05:08<br>赞(1) 踩(0) | <div>好听好听好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151534096)<br>Just the way...<br>2018-08-11 21:11<br>赞(3) 踩(0) | <div>在河北秦皇岛山海关，有个小哥哥在店门口敲着手鼓，店里放的这首歌。我以后可能见到许许多多手鼓艺人，但我应该一辈子也不会忘记这个打着手鼓的小哥哥。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151534096)<br>Just the way...<br>2018-08-11 21:11<br>赞(3) 踩(0) | <div>在河北秦皇岛山海关，有个小哥哥在店门口敲着手鼓，店里放的这首歌。<br>我以后可能见到许许多多手鼓艺人，但我应该一辈子也不会忘记这个打着手鼓的小哥哥。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211609288)<br>始终，遥不可及…<br>2018-08-11 19:35<br>赞(2) 踩(0) | <div>我是个沉默不语的，靠着车窗想念你的乘客&amp;hellip;嘿，你还好吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320806539)<br><br>2018-08-10 23:35<br>赞(0) 踩(0) | <div>1597734316one在一起有过快乐，有过美好时光，想念你，只能听歌回想你！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273590492)<br><br>2018-08-10 11:43<br>赞(0) 踩(0) | <div>啥时候来西安开演唱会</div> |
@@ -595,7 +595,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374895192)<br>两情若是久长时 又岂在朝...<br>2018-08-02 16:49<br>赞(1) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380134668)<br><br>2018-08-01 12:05<br>赞(1) 踩(0) | <div>刚好福州和学校都有鼓楼  哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265233944)<br> <br>2018-07-31 12:07<br>赞(0) 踩(0) | <div>唉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355550897)<br>#<br>2018-07-30 09:39<br>赞(1) 踩(0) | <div>我说我想听鼓楼。他来了一句：鼓楼的夜晚时间匆匆，陌生的人，请给我一支兰州</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355550897)<br>#<br>2018-07-30 09:39<br>赞(1) 踩(0) | <div>我说我想听鼓楼。<br>他来了一句：鼓楼的夜晚时间匆匆，陌生的人，请给我一支兰州</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333228106)<br>孤独会上瘾<br>2018-07-28 14:22<br>赞(1) 踩(0) | <div>吉姆餐厅 同曲？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/158185270)<br> <br>2018-07-29 08:56<br>赞(0) 踩(0) | <div>他的歌感觉旋律都差不多，挺喜欢的 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340598683)<br>我还没想好要写什么...<br>2018-07-27 23:33<br>赞(1) 踩(0) | <div>唯有我倚着围栏，对着过往说晚安</div> |
@@ -623,12 +623,12 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375283005)<br>天南地北四方客  万水千...<br>2018-06-29 12:35<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117709258)<br> <br>2018-06-28 00:16<br>赞(1) 踩(0) | <div>我好想琪琪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117709258)<br> <br>2018-06-28 00:16<br>赞(1) 踩(0) | <div>我不敢听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327078996)<br>淡淡的来，好好的去…<br>2018-06-25 14:57<br>赞(0) 踩(0) | <div>我站在鼓楼上面一切繁华与我无关这是个拥挤的地方 而我却很平凡我站在什刹海边一切甜蜜与我无关这是个拥挤的地方 而我却很孤单</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327078996)<br>淡淡的来，好好的去…<br>2018-06-25 14:57<br>赞(0) 踩(0) | <div>我站在鼓楼上面<br>一切繁华与我无关<br>这是个拥挤的地方 而我却很平凡<br>我站在什刹海边<br>一切甜蜜与我无关<br>这是个拥挤的地方 而我却很孤单</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374793346)<br>一生只爱小凯<br>2018-06-25 12:09<br>赞(0) 踩(0) | <div>叔叔好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210874472)<br>哦！原来你也在这里 !<br>2018-06-25 02:06<br>赞(3) 踩(0) | <div>哥哥，想在那么一天，和你一起去旅行，一路听着赵雷的歌&amp;hellip;&amp;hellip;停停走走&amp;hellip;&amp;hellip;希望那一天不要太遥远&amp;hellip;&amp;hellip;因为我们的青春已经慢慢变得模糊&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331008892)<br><br>2018-06-21 18:53<br>赞(0) 踩(0) | <div>我想去北京的鼓楼看看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376358174)<br><br>2018-06-21 11:50<br>赞(0) 踩(0) | <div>说出了人们的向往生活 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353567137)<br><br>2018-06-20 08:39<br>赞(0) 踩(0) | <div>兄弟姐妹们，互领会员，麻利的，一个月免费会员SVIP会员拥有专属曲库，无损品质试听，还有超多会员权益哦 <a href="https://h.xiami.com/event/invite-member-share.html?uid=353567137&amp;amp;signature=9056eb53576d29ab20352902e573852a&amp;amp;_uxid=414EF246436435D1145321B983759C96" target="_blank" rel="nofollow noreferrer noopener">https://h.xiami.com/event/invite-member-share.html?uid=353567137&amp;amp;signature=9056eb53576d29ab20352902e573852a&amp;amp;_uxid=414EF246436435D1145321B983759C96</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353567137)<br><br>2018-06-20 08:39<br>赞(0) 踩(0) | <div>兄弟姐妹们，互领会员，麻利的，一个月免费会员<br><br>SVIP会员拥有专属曲库，无损品质试听，还有超多会员权益哦 <a href="https://h.xiami.com/event/invite-member-share.html?uid=353567137&amp;amp;signature=9056eb53576d29ab20352902e573852a&amp;amp;_uxid=414EF246436435D1145321B983759C96" target="_blank" rel="nofollow noreferrer noopener">https://h.xiami.com/event/invite-member-share.html?uid=353567137&amp;amp;signature=9056eb53576d29ab20352902e573852a&amp;amp;_uxid=414EF246436435D1145321B983759C96</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117709258)<br> <br>2018-06-19 21:29<br>赞(0) 踩(0) | <div>我爱北京啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117709258)<br> <br>2018-06-19 21:29<br>赞(0) 踩(0) | <div>月亮还在抽着烟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367578748)<br>我还没想好要写什么...<br>2018-06-19 08:23<br>赞(2) 踩(0) | <div>多年以后还是依然经典</div> |
@@ -703,13 +703,13 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334834049)<br><br>2018-04-05 22:02<br>赞(1) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20452290)<br>在人事已非的景色里，我最...<br>2018-04-03 23:47<br>赞(3) 踩(0) | <div>赵雷开始影响了一代人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346555467)<br>我是多么的，讨厌分离。<br>2018-04-03 15:27<br>赞(19) 踩(0) | <div>我是个沉默不语的靠着墙壁晒太阳的过客</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65286780)<br>今天之所以区别于昨天，恰...<br>2018-04-02 23:01<br>赞(3) 踩(0) | <div>我站在鼓楼上面一切繁华与我无关，我站在什刹海边一切甜蜜与我无关。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65286780)<br>今天之所以区别于昨天，恰...<br>2018-04-02 23:01<br>赞(3) 踩(0) | <div>我站在鼓楼上面一切繁华与我无关，<br>我站在什刹海边一切甜蜜与我无关。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346555467)<br>我是多么的，讨厌分离。<br>2018-04-02 22:49<br>赞(1) 踩(0) | <div>比较好听的一首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333535521)<br><br>2018-04-02 18:09<br>赞(1) 踩(0) | <div>欢快的音符讲述着悲伤的故事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341417383)<br><br>2018-04-02 11:02<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348178842)<br><br>2018-04-01 21:30<br>赞(1) 踩(0) | <div>雷子有故事，谁有酒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336824033)<br>我还没想好要写什么...<br>2018-03-30 07:34<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201447807)<br>请记住我的名字和我带给你...<br>2018-03-28 08:34<br>赞(1) 踩(0) | <div>第1094条评论2018年3月28日8：33刚下夜班，昨天馨云来给大家送离别礼物，见了最后一面早上见到铭哥了听到这首歌忽然想起了去北京的日子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201447807)<br>请记住我的名字和我带给你...<br>2018-03-28 08:34<br>赞(1) 踩(0) | <div>第1094条评论<br>2018年3月28日8：33<br>刚下夜班，昨天馨云来给大家送离别礼物，见了最后一面<br>早上见到铭哥了<br>听到这首歌忽然想起了去北京的日子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17613419)<br><br>2018-03-28 06:38<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302827592)<br><br>2018-03-27 16:58<br>赞(4) 踩(0) | <div>尼玛，我现在就在鼓楼旁边住着，我怎么写不出来歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351273177)<br><br>2018-03-27 12:34<br>赞(0) 踩(0) | <div>听起来特别有生活的味道</div> |
@@ -754,7 +754,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345144923)<br><br>2018-03-03 19:32<br>赞(0) 踩(0) | <div>越听越震惊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6307780)<br>我还没想好要写什么...<br>2018-03-03 06:26<br>赞(0) 踩(0) | <div>赞赞赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334926537)<br>我还没想好要写什么...<br>2018-03-02 23:23<br>赞(0) 踩(0) | <div>我的家乡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350679111)<br><br>2018-03-02 22:26<br>赞(2) 踩(0) | <div>每个人的内心都是惊世骇俗的尽管大家都活的千篇一律.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350679111)<br><br>2018-03-02 22:26<br>赞(2) 踩(0) | <div>每个人的内心都是惊世骇俗的<br>尽管大家都活的千篇一律.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345144923)<br><br>2018-03-02 10:22<br>赞(1) 踩(0) | <div>每句话都直戳内心，不觉惊为天人，这样的人不只属于一个人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6307780)<br>我还没想好要写什么...<br>2018-03-02 07:25<br>赞(0) 踩(0) | <div>赞赞赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32024796)<br>我还没想好要写什么...<br>2018-02-28 06:58<br>赞(0) 踩(0) | <div>生活有太多无奈了</div> |
@@ -765,9 +765,9 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341473985)<br>安 雅 随 核<br>2018-02-25 18:34<br>赞(2) 踩(0) | <div>听成我在补漏，233333pwphhhhhh</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304779382)<br><br>2018-03-02 15:40<br>赞(0) 踩(0) | <div>补楼？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336289848)<br><br>2018-02-24 22:08<br>赞(0) 踩(0) | <div>这是个热闹的地方，而我却很平凡&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338197745)<br>劳资乖戾本戾<br>2018-02-24 10:54<br>赞(4) 踩(0) | <div>刺猬把刺收起柔软的看这个世界在斑驳的阳光里也在温柔的月光下</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338197745)<br>劳资乖戾本戾<br>2018-02-24 10:54<br>赞(4) 踩(0) | <div>刺猬把刺收起<br>柔软的看这个世界<br>在斑驳的阳光里<br>也在温柔的月光下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298010920)<br><br>2018-02-23 20:38<br>赞(0) 踩(0) | <div>内容已删除</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298010920)<br><br>2018-02-23 20:39<br>赞(0) 踩(0) | <div>好听<img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298010920)<br><br>2018-02-23 20:39<br>赞(0) 踩(0) | <div>好听<br><img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298010920)<br><br>2018-02-23 20:14<br>赞(1) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298010920)<br><br>2018-02-23 20:15<br>赞(0) 踩(0) | <div>好听 <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123042362)<br><br>2018-02-22 16:10<br>赞(2) 踩(0) | <div>前奏一响起来，我骑着我的小电瓶车走在去驾校的路上，一连别了三辆大货车。</div> |
@@ -790,7 +790,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6307780)<br>我还没想好要写什么...<br>2018-02-16 01:31<br>赞(0) 踩(0) | <div>赞赞赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318760187)<br>作业好多岂可修<br>2018-02-15 16:22<br>赞(4) 踩(0) | <div>鼓楼啊，越听越觉得好听，最初是成都让我认识了赵雷，后来南方姑娘让我喜欢上他的歌，现在这两首歌都相当有名了，我又听到了他的鼓楼，鼓楼让我好像看见了上世纪的那种悠闲和那时的车站，他让我终于确定赵雷是那么有灵气的一个歌手 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6307780)<br>我还没想好要写什么...<br>2018-02-15 08:30<br>赞(0) 踩(0) | <div>赞赞赞</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335175870)<br><br>2018-02-15 08:21<br>赞(0) 踩(0) | <div>还嗯嘛21117.77ltqc</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335175870)<br><br>2018-02-15 08:21<br>赞(0) 踩(0) | <div>还<br><br>嗯嘛21117.77ltqc</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89729710)<br><br>2018-02-14 23:50<br>赞(2) 踩(0) | <div>17年夏天被迫失业，一个人去丽江，晚上在古城里一家酒吧坐着，驻唱的小哥唱起这首歌，那是我第一次听这首歌，歌词里面说站在什刹海边&amp;hellip;&amp;hellip;我在鼓楼&amp;hellip;&amp;hellip;我就想家了，以前从鼓楼边经过，从来没想过去附近逛逛，后来旅途中一直单曲循环这首鼓楼，心想回北京我一定要去鼓楼转一天，坐107！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309125939)<br><br>2018-02-14 19:17<br>赞(0) 踩(0) | <div>我毫不掩饰对你的喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6307780)<br>我还没想好要写什么...<br>2018-02-14 08:20<br>赞(0) 踩(0) | <div>赞赞赞</div> |
@@ -805,10 +805,10 @@ MIDI：喜子<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199733833)<br><br>2018-02-13 18:51<br>赞(0) 踩(0) | <div><q><b>唐深深说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348818166)<br>这家伙很聪<br>2018-02-11 12:58<br>赞(0) 踩(0) | <div>赵小雷❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40109519)<br><br>2018-02-10 08:27<br>赞(0) 踩(0) | <div>每个城市都有一个鼓楼！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348745861)<br>智商贰伍零<br>2018-02-09 21:09<br>赞(0) 踩(0) | <div>我站在顶楼上面这是个安静的地方  而我吹着风听着录音带似乎看见对面老朋友的房子放着金粉世家的TV一切热闹与我无关我只是智商贰伍零的家伙儿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348745861)<br>智商贰伍零<br>2018-02-09 21:09<br>赞(0) 踩(0) | <div>我站在顶楼上面<br>这是个安静的地方  而我吹着风听着录音带<br>似乎看见对面老朋友的房子放着金粉世家的TV<br>一切热闹与我无关<br>我只是智商贰伍零的家伙儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345555730)<br><br>2018-02-09 11:47<br>赞(2) 踩(0) | <div>刚刚第一次听见首歌，从来没听过竟然，我想说，太Tm好听了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251369978)<br>太亲密的关系像不像海底？<br>2018-02-09 11:16<br>赞(0) 踩(0) | <div>鼓楼的故事</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348869841)<br><br>2018-02-09 10:39<br>赞(0) 踩(0) | <div>为什么没什么感觉？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348869841)<br><br>2018-02-09 10:39<br>赞(0) 踩(0) | <div>为什么<br>没什么感觉？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244215950)<br> <br>2018-02-09 07:30<br>赞(0) 踩(0) | <div>没有成都有味道，歌词没有深意</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333535521)<br><br>2018-03-27 19:58<br>赞(0) 踩(0) | <div>你认真听了吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348725050)<br><br>2018-02-08 21:12<br>赞(0) 踩(0) | <div>没有999？</div> |
@@ -818,7 +818,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348266150)<br><br>2018-02-07 21:17<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256617160)<br><br>2018-02-07 18:12<br>赞(0) 踩(0) | <div>这几天一直在听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278244373)<br>且将新火试新茶.诗酒趁年...<br>2018-02-07 09:32<br>赞(1) 踩(0) | <div>我的记忆在襄阳鼓楼。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348074207)<br><br>2018-02-07 02:23<br>赞(0) 踩(0) | <div>我站在鼓楼上面这一切繁华都与我无关</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348074207)<br><br>2018-02-07 02:23<br>赞(0) 踩(0) | <div>我站在鼓楼上面<br>这一切繁华都与我无关</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26733580)<br><br>2018-02-07 00:07<br>赞(0) 踩(0) | <div>不错不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344164851)<br><br>2018-02-06 22:40<br>赞(0) 踩(0) | <div>我爱你阿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346834941)<br><br>2018-02-06 20:01<br>赞(0) 踩(0) | <div>非常好</div> |
@@ -828,7 +828,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341417383)<br><br>2018-02-04 17:49<br>赞(0) 踩(0) | <div>很棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334575915)<br><br>2018-02-04 00:12<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329152667)<br><br>2018-02-03 23:24<br>赞(2) 踩(0) | <div>做个沉默不语的靠着墙壁的过客</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315098266)<br><br>2018-02-03 07:15<br>赞(4) 踩(0) | <div>民谣是一颗不会开花的树它长在路旁离家的人灌它一捧水 埋下牵挂归来的人送它一壶酒 以慰风尘失恋的人洒下两行泪 寄之以往它载着你心里的那座城、那个人、那场离别和重逢......它记录着你的开心、失落、成熟、孤独......它沉默又孤独，从不开花，只顾聆听民谣很简单，一听就是一生</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315098266)<br><br>2018-02-03 07:15<br>赞(4) 踩(0) | <div>民谣是一颗不会开花的树<br>它长在路旁<br>离家的人灌它一捧水 埋下牵挂<br>归来的人送它一壶酒 以慰风尘<br>失恋的人洒下两行泪 寄之以往<br>它载着你心里的那座城、那个人、那场离别和重逢......<br>它记录着你的开心、失落、成熟、孤独......<br>它沉默又孤独，从不开花，只顾聆听<br>民谣很简单，一听<br>就是一生</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347375220)<br><br>2018-02-02 15:23<br>赞(0) 踩(0) | <div>大爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336490535)<br>beyond永远打不死的...<br>2018-02-02 11:31<br>赞(1) 踩(0) | <div>很喜欢的一首歌曲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192868377)<br>东风里，掠过我的脸边，星...<br>2018-02-02 08:58<br>赞(2) 踩(0) | <div>这是前任有段时间特别爱哼的歌，就只循环最后一句唱个没完。单曲循环，好像他还在身边。</div> |
@@ -931,7 +931,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336490535)<br>beyond永远打不死的...<br>2017-12-10 16:45<br>赞(1) 踩(0) | <div>很喜欢的一首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337473029)<br>不知道从什么时候开始，所...<br>2017-12-09 14:28<br>赞(4) 踩(0) | <div>第一次听雷子的歌是在大冰的书里，后来慢慢的喜欢上了，这首歌是在同事的电话彩铃里听到的，于是百度，找到了《鼓楼》。虽然算不上忠实的粉丝，但也会默默的支持 <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307086939)<br><br>2017-12-08 15:07<br>赞(1) 踩(0) | <div>第一次听着歌，是他在台上，我在台下，听着好听，就搜索了一下。他弹吉他，灯光太强，都没有看到他的样子，后来默默关注着，但是还是没勇气认识他。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326039795)<br>前方没有终点   我们都...<br>2017-12-08 10:22<br>赞(3) 踩(0) | <div>我听着这首歌为什么我这么悲伤为什么我这么想你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326039795)<br>前方没有终点   我们都...<br>2017-12-08 10:22<br>赞(3) 踩(0) | <div>我听着这首歌<br>为什么我这么悲伤<br>为什么我这么想你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40947610)<br>filial piety<br>2017-12-06 01:27<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49734304)<br><br>2017-12-05 19:49<br>赞(3) 踩(0) | <div>上次学校十佳海选 有个男生弹吉他唱这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32972655)<br><br>2017-12-05 14:01<br>赞(1) 踩(0) | <div>特别喜欢这首歌~</div> |
@@ -1106,7 +1106,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134516426)<br>     具大胸襟   ...<br>2017-08-18 05:59<br>赞(0) 踩(0) | <div>jdbjbf</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298137447)<br><br>2017-08-14 18:03<br>赞(0) 踩(0) | <div>海外党花两元收了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291695528)<br> <br>2017-08-14 02:53<br>赞(0) 踩(0) | <div>無法長大</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313357824)<br>横看迷人侧潇洒，远近高低...<br>2017-08-13 19:34<br>赞(10) 踩(0) | <div>:陌生人，我也为你祝福， 愿你有一个灿烂的前程， 愿你有情人终成眷属， 愿你在尘世获得幸福， 我只愿面朝大海，春暖花开。<img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313357824)<br>横看迷人侧潇洒，远近高低...<br>2017-08-13 19:34<br>赞(10) 踩(0) | <div>:陌生人，我也为你祝福， 愿你有一个灿烂的前程， 愿你有情人终成眷属， 愿你在尘世获得幸福， 我只愿面朝大海，春暖花开。<br><br><br><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313028885)<br><br>2017-08-13 18:20<br>赞(1) 踩(0) | <div>希望赵雷一直有颗平凡的心</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313028885)<br><br>2017-09-12 07:53<br>赞(0) 踩(0) | <div>你名字好有个性</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313028885)<br><br>2017-09-12 07:54<br>赞(0) 踩(0) | <div>你应该叫曾祖|哈哈&amp;hellip;</div> |
@@ -1141,7 +1141,7 @@ MIDI：喜子<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281158261)<br><br>2018-02-01 08:14<br>赞(0) 踩(0) | <div>鼓楼是北京的鼓楼。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33624547)<br>Real artists...<br>2018-02-07 08:10<br>赞(0) 踩(0) | <div>成都哪有鼓楼。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334870861)<br><br>2018-02-11 06:57<br>赞(0) 踩(0) | <div><q><b>有趣的旗帜说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23801773)<br><br>2018-02-24 20:07<br>赞(0) 踩(0) | <div>怕开我丽江）快下课没弄爱避孕套uo</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23801773)<br><br>2018-02-24 20:07<br>赞(0) 踩(0) | <div>怕开<br>我丽江）快下课没弄爱避孕套uo</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23801773)<br><br>2018-02-24 20:08<br>赞(0) 踩(0) | <div>拉</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4171869)<br>你的微笑成海，我的蔚然成...<br>2018-02-25 13:35<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286104081)<br>活着便精彩<br>2018-03-13 22:23<br>赞(0) 踩(0) | <div>舅扶你</div> |
@@ -1187,7 +1187,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224193592)<br>精气神<br>2017-08-08 00:56<br>赞(3) 踩(0) | <div>今天刚去了鼓楼和什刹海噢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308450573)<br>歌如人生.人生如歌!<br>2017-08-08 00:21<br>赞(1) 踩(0) | <div>你喜欢它动听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280880033)<br><br>2017-08-07 22:22<br>赞(3) 踩(0) | <div>成都浪漫，鼓楼潇洒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217219351)<br>电器摇滚乐<br>2017-08-07 22:04<br>赞(0) 踩(0) | <div>听了老师吉他弹唱后就迷上了这首歌 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png">我在鼓楼喔喔喔喔  在鼓楼喔喔</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217219351)<br>电器摇滚乐<br>2017-08-07 22:04<br>赞(0) 踩(0) | <div>听了老师吉他弹唱后就迷上了这首歌 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"><br>我在鼓楼喔喔喔喔  在鼓楼喔喔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314136256)<br>有你的地方就有温暖<br>2017-08-06 16:33<br>赞(0) 踩(0) | <div>好歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289104824)<br>I fucking pa...<br>2017-08-06 08:11<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304673973)<br><br>2017-08-06 00:05<br>赞(0) 踩(0) | <div>炒鸡炒鸡炒鸡好听</div> |
@@ -1313,7 +1313,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260964523)<br> <br>2017-05-26 12:37<br>赞(0) 踩(0) | <div>升级后，音量大小在哪里啊，找半天没找到，只有按手机</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119065516)<br>活在彩虹条绸的世界之下！<br>2017-05-25 19:47<br>赞(0) 踩(0) | <div>循环了好几天了，听着舒服。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296467038)<br> <br>2017-05-25 13:23<br>赞(0) 踩(0) | <div>我也想去鼓楼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2418111)<br><br>2017-05-24 18:25<br>赞(1) 踩(0) | <div>我是个沉默不语的靠着墙壁晒太阳的过客如果我有些倦意了 就让我在这里独自醒过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2418111)<br><br>2017-05-24 18:25<br>赞(1) 踩(0) | <div>我是个沉默不语的靠着墙壁晒太阳的过客<br><br>如果我有些倦意了 就让我在这里独自醒过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298725662)<br><br>2017-05-24 09:33<br>赞(0) 踩(0) | <div>听得很舒服.什么时候才能再回去看看想很久了&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16094298)<br>Adieu<br>2017-05-24 09:28<br>赞(1) 踩(0) | <div>一听这歌儿，我就高兴。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3121)<br>不畏将来！<br>2017-05-21 19:37<br>赞(0) 踩(0) | <div>睡不着的后海边，月亮还在抽着烟</div> |
@@ -1341,10 +1341,10 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204303924)<br><br>2017-05-10 19:46<br>赞(0) 踩(0) | <div>循环循环。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295015241)<br><br>2017-05-10 13:41<br>赞(0) 踩(0) | <div>毕业快乐，什刹海再见 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229071399)<br><br>2017-05-10 12:50<br>赞(0) 踩(0) | <div>我以为是西安的鼓楼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1126943)<br><br>2017-05-09 16:39<br>赞(0) 踩(0) | <div>原歌名儿:&amp;amp;lt;吉姆餐厅vol.2&amp;amp;gt;:)。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1126943)<br><br>2017-05-09 16:39<br>赞(0) 踩(0) | <div>原歌名儿:&amp;amp;lt;吉姆餐厅vol.2&amp;amp;gt;<br>:)。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261425481)<br> <br>2017-05-09 08:22<br>赞(0) 踩(0) | <div>满分</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269943618)<br> <br>2017-05-08 02:42<br>赞(0) 踩(0) | <div>昨天听了现场，好开心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274108481)<br><br>2017-05-07 17:55<br>赞(4) 踩(0) | <div>此时此刻，我走在鼓楼下面。看着人来人往，看着107路经过&amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274108481)<br><br>2017-05-07 17:55<br>赞(4) 踩(0) | <div>此时此刻，我走在鼓楼下面。<br>看着人来人往，看着107路经过&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289476507)<br> <br>2017-05-07 12:11<br>赞(0) 踩(0) | <div>你在不在听这首歌啊？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5697878)<br><br>2017-05-07 08:28<br>赞(0) 踩(0) | <div>睡不着的后海边 还在抽着烟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271606818)<br> <br>2017-05-05 18:20<br>赞(2) 踩(0) | <div>喜欢他，从看大冰的摸摸头这本书开始知道他，从他还没这么出名就喜欢，应该会一直一直喜欢吧，喜欢你，从一而终</div> |
@@ -1376,7 +1376,7 @@ MIDI：喜子<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259771864)<br><br>2017-04-30 20:40<br>赞(0) 踩(0) | <div>雷子的的歌作词作曲都是他自己</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31130464)<br>直男癌<br>2017-04-30 21:33<br>赞(0) 踩(0) | <div><q><b>吴世勋i说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31130464)<br>直男癌<br>2017-05-02 00:09<br>赞(0) 踩(0) | <div><q><b>吴世勋i说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291504158)<br><br>2017-04-27 08:01<br>赞(0) 踩(0) | <div>昔日倾心鼓楼下，登高望远不见闺。相识天罚殊不知，无奈亮光梯台跃。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291504158)<br><br>2017-04-27 08:01<br>赞(0) 踩(0) | <div>昔日倾心鼓楼下，登高望远不见闺。<br><br>相识天罚殊不知，无奈亮光梯台跃。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268434207)<br><br>2017-04-27 07:20<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47149491)<br>你好……<br>2017-04-26 19:59<br>赞(2) 踩(0) | <div>虽然我是四川人  我家离成都也很近  但我想说  这首歌比成都好      谢谢  赵雷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9805522)<br><br>2017-04-26 16:06<br>赞(0) 踩(0) | <div>这天气真适合小民谣，科科</div> |
@@ -1499,7 +1499,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247618794)<br><br>2017-04-02 09:49<br>赞(0) 踩(0) | <div>听起来很轻快的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27147357)<br>我还没想好要写什么...<br>2017-04-01 22:54<br>赞(0) 踩(0) | <div>你去了鼓楼，我也想去看看，我见到了，可我们却分开了。我住在北京了，可能里鼓楼还有点距离，下次能在鼓楼遇见你吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283294574)<br><br>2017-04-01 22:29<br>赞(0) 踩(0) | <div>66</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253485847)<br>一个人滴音乐<br>2017-04-01 22:01<br>赞(1) 踩(0) | <div>我走在老街鼓楼下面！路在堵着雨后的阳光散落人们都出来了执着的迷惘的，文艺青年很多，如果我无聊了就会来这里坐坐！我是个沉默不语的靠着墙壁？晒太阳的过客，如果我有些倦意了就让我在这里独自醒过，我站在鼓楼上面，一切繁华与我无关！这是个拥挤的地方！而我却很平凡。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253485847)<br>一个人滴音乐<br>2017-04-01 22:01<br>赞(1) 踩(0) | <div>我走在老街鼓楼下面！路在堵着雨后的阳光散落<br>人们都出来了执着的迷惘的，文艺青年很多，如果我无聊了就会来这里坐坐！我是个沉默不语的靠着墙壁？晒太阳的过客，如果我有些倦意了<br>就让我在这里独自醒过，我站在鼓楼上面，一切繁华与我无关！这是个拥挤的地方！而我却很平凡。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285041766)<br><br>2017-04-01 21:13<br>赞(0) 踩(0) | <div>好听好听好听，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281513993)<br>Listen to my...<br>2017-03-31 22:26<br>赞(0) 踩(0) | <div>开头的公交是几路？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145840424)<br><br>2017-04-01 21:21<br>赞(0) 踩(0) | <div>107路 电车</div> |
@@ -1556,7 +1556,7 @@ MIDI：喜子<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282947435)<br><br>2017-03-25 12:24<br>赞(0) 踩(0) | <div>107路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275324268)<br><br>2017-03-25 11:42<br>赞(1) 踩(0) | <div>这张专辑里面最喜欢这首歌，虽然还没听下面的歌曲，但早在这之前就已经被这首歌征服了，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4379345)<br> <br>2017-03-25 08:48<br>赞(0) 踩(0) | <div>这首歌真是好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2017-03-24 18:54<br>赞(1) 踩(0) | <div>我是个沉默不语的靠着墙壁晒太阳的过客嗯，像极了我一个人在鼓楼附近溜达时的感受。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2017-03-24 18:54<br>赞(1) 踩(0) | <div>我是个沉默不语的靠着墙壁晒太阳的过客<br><br>嗯，像极了我一个人在鼓楼附近溜达时的感受。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125747290)<br>左手回忆，右手年华。<br>2017-03-24 15:49<br>赞(0) 踩(0) | <div>可以免费听啦，大家快来啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125747290)<br>左手回忆，右手年华。<br>2017-03-24 15:48<br>赞(2) 踩(0) | <div>雷子，我好爱好爱你呐</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59760240)<br>非主流军营民谣歌手<br>2017-03-24 16:36<br>赞(0) 踩(0) | <div>知道我谁吗</div> |

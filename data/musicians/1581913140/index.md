@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/913639a176555d50e7c76fc2af567000.jpg)<br>白噪音](https://i.xiami.com/byebyenoise) | **播放数**: 1824906<br>**粉丝数**: 3484<br>**评论数**: 180<br>**地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 另类摇滚 Alternative Rock, 流行摇滚 Pop Rock<br> |
+| [![](../../images/musicians/913639a176555d50e7c76fc2af567000.jpg)<br>白噪音](https://i.xiami.com/byebyenoise) | **地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 另类摇滚 Alternative Rock, 流行摇滚 Pop Rock<br>**播放数**: 1824906<br>**粉丝数**: 3484<br>**评论数**: 180<br> |
 
 ## 档案
 
@@ -21,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5449843)<br>虾听听<br>2020-08-10 09:32<br>赞(0) 踩(0) | <div>我怎么觉得像Keane、muse还有David Byrne</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249829222)<br>巨无敌可爱的宝藏<br>2019-11-21 14:43<br>赞(0) 踩(0) | <div>一哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10078892)<br>垃圾。<br>2019-10-27 01:39<br>赞(0) 踩(0) | <div>呜呜呜主唱又帅声音又好听，束腰太好看了(´,,•∀•,,`)</div> |
@@ -30,7 +30,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43492923)<br>行到水穷我才开始害怕，夕...<br>2019-08-28 13:13<br>赞(0) 踩(0) | <div>▼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404774010)<br><br>2019-08-19 17:11<br>赞(0) 踩(0) | <div>啥时候巡演啊！着急死了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352822868)<br><br>2019-06-23 23:17<br>赞(0) 踩(0) | <div>支持！有才华！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340729668)<br><br>2019-05-14 23:58<br>赞(0) 踩(0) | <div>为什么不大火这么优秀的乐队</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340729668)<br><br>2019-05-14 23:58<br>赞(0) 踩(0) | <div>为什么不大火<br><br>这么优秀的乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2710074)<br>我还没想好要写什么...<br>2019-01-15 14:52<br>赞(0) 踩(0) | <div>版权没了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17691156)<br>あなたに出会えて よかっ...<br>2018-09-21 22:45<br>赞(0) 踩(0) | <div>：）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31737208)<br>我想和你虚度世界。<br>2018-05-17 10:44<br>赞(0) 踩(0) | <div>不用说了，这个乐队必火！</div> |
@@ -114,7 +114,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8767968)<br>残酷死亡金属爱好者<br>2015-04-15 00:31<br>赞(1) 踩(0) | <div>比joyside好听多了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82698376)<br><br>2016-07-18 11:32<br>赞(0) 踩(0) | <div>哈哈，我不服</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4548027)<br>自我取悦<br>2016-10-08 17:13<br>赞(0) 踩(0) | <div>呵呵 难道在这之前你只听过joyside?</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11115273)<br><br>2015-04-14 09:05<br>赞(3) 踩(0) | <div>听过乐队现场，说自己的感受。。。新专辑比期待差了一截，感觉比之前的单曲差一些。不知道现场的几首歌是不是有先入为主原因。乐队的好些歌确实有很多乐队的影子。听了3首，听到第二首的时候实在有点听不进的感觉了。吉他太碎，基本全程填满。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11115273)<br><br>2015-04-14 09:05<br>赞(3) 踩(0) | <div>听过乐队现场，说自己的感受。。。新专辑比期待差了一截，感觉比之前的单曲差一些。<br>不知道现场的几首歌是不是有先入为主原因。乐队的好些歌确实有很多乐队的影子。<br>听了3首，听到第二首的时候实在有点听不进的感觉了。吉他太碎，基本全程填满。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7272414)<br>我还没想好要写什么...<br>2015-05-06 01:19<br>赞(0) 踩(0) | <div>的确 专辑感觉不如单曲。我也有种不太听得动的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8133145)<br>o my sky<br>2015-04-14 04:20<br>赞(1) 踩(0) | <div>像 加强的hush，不娘炮的hush，健壮0的而非骚0的hush</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32129649)<br>蒙古摇滚 英伦摇滚.重金<br>2015-04-14 01:09<br>赞(0) 踩(0) | <div>111</div> |
@@ -176,14 +176,14 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37100056)<br>甜甜的小浆果<br>2014-07-23 16:44<br>赞(2) 踩(0) | <div>棋盘山见！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9142155)<br>郝虾米 未知生物是敏感词<br>2014-07-26 11:05<br>赞(0) 踩(0) | <div>给每个去棋盘山的朋友都推介这支乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1357000)<br><br>2014-07-02 09:22<br>赞(1) 踩(0) | <div>脑残粉又来报道了！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9704437)<br>我还没想好要写什么...<br>2014-04-20 18:30<br>赞(1) 踩(0) | <div>爱让身体甜的发酸云雾里转转转</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9704437)<br>我还没想好要写什么...<br>2014-04-20 18:30<br>赞(1) 踩(0) | <div>爱让身体<br>甜的发酸<br>云雾里<br>转转转</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6329063)<br><br>2014-04-17 14:25<br>赞(0) 踩(0) | <div>为啥DEMO不能下载啊，平时开车想听都没办法，只能在线听啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11449786)<br>外表和内心没有什么关系<br>2014-04-13 23:23<br>赞(1) 踩(0) | <div>喜欢你们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11449786)<br>外表和内心没有什么关系<br>2014-04-13 23:22<br>赞(0) 踩(0) | <div>歌呢 歌呢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1075019)<br>我还没想好要写什么...<br>2014-04-13 14:20<br>赞(1) 踩(0) | <div>We are your lover!We are your killer!Kiss! Kiss! Kiss every lover n fucker !</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1075019)<br>我还没想好要写什么...<br>2014-04-13 14:20<br>赞(1) 踩(0) | <div>We are your lover!<br>We are your killer!<br>Kiss! Kiss! Kiss every lover n fucker !</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21999825)<br>暂无签名~<br>2014-04-05 00:59<br>赞(1) 踩(0) | <div>继续加油，就这样吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2295572)<br><br>2014-03-31 22:52<br>赞(2) 踩(0) | <div>好听！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141613)<br>LO-FI life<br>2014-03-30 15:26<br>赞(57) 踩(0) | <div>对你们这种乐队没什么可说的只想说 请多写歌！！！（太像strokes了 你们别赞我了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141613)<br>LO-FI life<br>2014-03-30 15:26<br>赞(57) 踩(0) | <div>对你们这种乐队没什么可说的<br><br>只想说 请多写歌！！！<br>（太像strokes了 你们别赞我了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16185799)<br>你像花一样盲目<br>2014-03-21 21:09<br>赞(1) 踩(0) | <div>留名~！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1767855)<br>暂无签名~<br>2014-03-14 05:18<br>赞(1) 踩(0) | <div>旋律这么吊 你全家知道吗？希望他们都知道！么么哒！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7642933)<br>其实我们很正经！<br>2014-03-13 17:28<br>赞(0) 踩(0) | <div>Thanks a lot for every lover n fucker</div> |

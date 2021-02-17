@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4e0f58b4ffeea870a46abce0b83b017b.jpg)<br>王子韵](https://i.xiami.com/jackwzy) | **播放数**: 4875284<br>**粉丝数**: 148<br>**评论数**: 16<br>**地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/4e0f58b4ffeea870a46abce0b83b017b.jpg)<br>王子韵](https://i.xiami.com/jackwzy) | **地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter, 国语流行 Mandarin Pop<br>**播放数**: 4875284<br>**粉丝数**: 148<br>**评论数**: 16<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -46,8 +43,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-09 12:27<br>赞(1) 踩(0) | <div>42790</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17146554)<br>weibo：@L1RRO...<br>2018-03-17 07:48<br>赞(3) 踩(0) | <div>病变</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352592235)<br><br>2018-02-27 22:27<br>赞(1) 踩(0) | <div>子韵，病变非常好听，但是我觉得你还会有更好的作品，加油，我看好你！</div> |
@@ -62,5 +59,5 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278455233)<br><br>2018-01-07 22:21<br>赞(0) 踩(0) | <div>谢谢你</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335483631)<br>11岁！<br>2018-01-08 19:34<br>赞(0) 踩(0) | <div><q><b>王子韵说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202459052)<br><br>2017-11-18 08:28<br>赞(3) 踩(0) | <div>声音好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311268691)<br>我还没想好要写什么...<br>2017-11-04 15:37<br>赞(4) 踩(0) | <div>BINGBANG病态这首歌表达了太多，声音很好听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311268691)<br>我还没想好要写什么...<br>2017-11-04 15:37<br>赞(4) 踩(0) | <div>BINGBANG病态<br>这首歌表达了太多，声音很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278455233)<br><br>2017-06-05 17:01<br>赞(12) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

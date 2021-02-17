@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5e43763350faa5f26abb1f93c402d518.jpg)<br>刘伟男](https://i.xiami.com/willjaymusic) | **播放数**: 2372945<br>**粉丝数**: 879<br>**评论数**: 49<br>**地区**: United States of America 美国<br>**风格**: 当代唱作人 Contemporary Singer-Songwriter, 独立电子乐 Indietronica, 欧美流行 Western Pop<br> |
+| [![](../../images/musicians/5e43763350faa5f26abb1f93c402d518.jpg)<br>刘伟男](https://i.xiami.com/willjaymusic) | **地区**: United States of America 美国<br>**风格**: 当代唱作人 Contemporary Singer-Songwriter, 独立电子乐 Indietronica, 欧美流行 Western Pop<br>**播放数**: 2372945<br>**粉丝数**: 879<br>**评论数**: 49<br> |
 
 ## 档案
 
@@ -27,8 +27,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95385210)<br><br>2019-11-08 19:35<br>赞(0) 踩(0) | <div>真的很好听啊！收藏了！加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286148744)<br>我还没想好要写什么...<br>2019-09-22 18:41<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302717815)<br>來自海底深處的蚍蜉<br>2019-08-31 06:51<br>赞(0) 踩(0) | <div>follow u cos ur voice</div> |
@@ -37,8 +37,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257244889)<br><br>2019-04-05 18:55<br>赞(0) 踩(0) | <div>我选择周杰伦导师</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/901190)<br> SCC<br>2019-03-14 23:13<br>赞(0) 踩(0) | <div><img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2763753)<br>The best is ...<br>2019-03-12 21:33<br>赞(0) 踩(0) | <div>风格很棒的说～</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177965838)<br>(´-ωก`)<br>2018-12-10 13:20<br>赞(1) 踩(0) | <div>唱的歌真的令人舒畅！太好听啦！因为gentleman这首歌认识的伟男超棒！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307188172)<br><br>2018-10-20 02:29<br>赞(0) 踩(0) | <div>我觉得他的声音是走萌德的那种风格清新大男孩风格</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177965838)<br>(´-ωก`)<br>2018-12-10 13:20<br>赞(1) 踩(0) | <div>唱的歌真的令人舒畅！太好听啦！<br>因为gentleman这首歌认识的伟男<br>超棒！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307188172)<br><br>2018-10-20 02:29<br>赞(0) 踩(0) | <div>我觉得他的声音是走萌德的那种风格<br>清新大男孩风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305666278)<br><br>2017-06-28 18:03<br>赞(0) 踩(0) | <div>帅!像我的高中数学老师!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296904084)<br><br>2017-05-16 23:05<br>赞(0) 踩(0) | <div>呵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260165987)<br><br>2017-01-07 18:11<br>赞(1) 踩(0) | <div>唱歌汽挺好听的。</div> |
@@ -53,8 +53,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1523564)<br>∞<br>2015-09-24 03:12<br>赞(1) 踩(0) | <div>喜欢他和徐林</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4806316)<br><br>2015-09-18 16:27<br>赞(1) 踩(0) | <div>阳光</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63468012)<br><br>2015-09-12 22:29<br>赞(0) 踩(0) | <div>怎么没有歌曲</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496847)<br>夢醒了，所以心碎了。<br>2015-09-09 23:55<br>赞(1) 踩(0) | <div>求歌曲！！好喜欢这个阳光大男孩。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61214674)<br><br>2015-09-07 17:17<br>赞(0) 踩(0) | <div>感情我是没用功学过英文……中文怎么难学都能说的跟清楚 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png">加油</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496847)<br>夢醒了，所以心碎了。<br>2015-09-09 23:55<br>赞(1) 踩(0) | <div>求歌曲！！<br>好喜欢这个阳光大男孩。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61214674)<br><br>2015-09-07 17:17<br>赞(0) 踩(0) | <div>感情我是没用功学过英文……<br>中文怎么难学都能说的跟清楚 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"><br>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43358920)<br>别来无恙<br>2015-09-07 00:56<br>赞(0) 踩(0) | <div>火钳刘敏</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59380074)<br><br>2015-08-30 17:39<br>赞(0) 踩(0) | <div>原创歌曲怎么没有</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57612786)<br><br>2015-08-25 11:42<br>赞(0) 踩(0) | <div>他的原创单曲version of love  也很好听啊</div> |

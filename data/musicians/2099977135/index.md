@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d146742f4bf437a62aff8537271c7c9a.jpg)<br>戴荃](https://i.xiami.com/daiquan) | **播放数**: 42472025<br>**粉丝数**: 29463<br>**评论数**: 584<br>**地区**: China 中国大陆<br>**风格**: 中国民乐 Chinese Folk Music, 中国戏曲 Chinese Opera, 艺术流行 Art Pop, 华语唱作人 Chinese Singer-Songwriter, 古风 GuFeng Music<br> |
+| [![](../../images/musicians/d146742f4bf437a62aff8537271c7c9a.jpg)<br>戴荃](https://i.xiami.com/daiquan) | **地区**: China 中国大陆<br>**风格**: 中国民乐 Chinese Folk Music, 中国戏曲 Chinese Opera, 艺术流行 Art Pop, 华语唱作人 Chinese Singer-Songwriter, 古风 GuFeng Music<br>**播放数**: 42472025<br>**粉丝数**: 29463<br>**评论数**: 584<br> |
 
 ## 档案
 
@@ -70,8 +70,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346166749)<br>总之岁月漫长 然而值得等...<br>2021-01-14 00:51<br>赞(0) 踩(0) | <div>不舍虾米，除了音乐，还有大家的留言。在这里，我不再孤单。可是，以后呢？你们都去哪了呢&amp;hellip;&amp;hellip;我们还如何在这里相聚呢&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318132)<br>抠啦<br>2020-03-10 12:28<br>赞(0) 踩(0) | <div>欢迎戴荃的版权回归虾米，撒花</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350394992)<br><br>2020-02-12 00:26<br>赞(0) 踩(0) | <div>荃哥，请问哪里可以买到湖光水色调的CD呢？找遍了都没找到。</div> |
@@ -107,7 +107,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1467803)<br>置身于炎夏的乐园<br>2018-05-20 09:00<br>赞(2) 踩(0) | <div>艺术也是需要物质支撑的 为了能让小先生做纯粹的音乐 请大家支持一下小先生的付费专辑吧 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32322284)<br><br>2018-05-19 20:25<br>赞(0) 踩(0) | <div>请出新歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357674040)<br><br>2018-05-09 07:01<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73298540)<br><br>2018-04-28 11:44<br>赞(3) 踩(0) | <div>您好 我是韩国人 我很喜欢 您唱的歌也很喜欢 上海三月希望 很多歌出来~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73298540)<br><br>2018-04-28 11:44<br>赞(3) 踩(0) | <div>您好 我是韩国人 我很喜欢 您唱的歌<br>也很喜欢 上海三月<br>希望 很多歌出来~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334306190)<br><br>2018-05-19 23:59<br>赞(0) 踩(0) | <div>嘿嘿，真的假的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334306190)<br><br>2018-05-19 23:59<br>赞(0) 踩(0) | <div><img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73298540)<br><br>2018-05-25 06:38<br>赞(0) 踩(0) | <div><q><b>嗨小冷说：</b></q></div> |
@@ -128,18 +128,18 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282098318)<br><br>2017-11-27 06:46<br>赞(2) 踩(0) | <div>爱你到不可收拾.....！荃哥的歌儿、太好听了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281238667)<br><br>2017-11-22 08:33<br>赞(1) 踩(0) | <div>够骚够浪</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32188153)<br>狗年大吉大利健康如意。<br>2017-11-18 20:47<br>赞(2) 踩(0) | <div>戴荃，你是一个用心做音乐的人。词也好曲也好各有各的道，各有各的韵味，让人听着心动、感动、沁心、喜欢。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237090093)<br>悟的是自己，悟不透的人生<br>2017-10-30 09:53<br>赞(10) 踩(0) | <div>别人看到的是风风光光的我，而自己深知自己是另一种人生。自己有自己不一样的东西，自己有自己未完成的使命。有时，明明自己是对的，缺总被世俗的眼光束缚，有时怀疑自己，身上的种种，到底有何用，可最终还是不甘，还在坚持，还在追寻。不论世人如何看待，我都会一直朝着心的方向，一路向行，永不放弃。不失心酸与豪气，这便是我的桀骜不驯与放荡不羁。悟的是自己，悟不透的是人生。悟空</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237090093)<br>悟的是自己，悟不透的人生<br>2017-10-30 09:53<br>赞(10) 踩(0) | <div>别人看到的是风风光光的我，而自己深知自己是另一种人生。自己有自己不一样的东西，自己有自己未完成的使命。<br>有时，明明自己是对的，缺总被世俗的眼光束缚，有时怀疑自己，身上的种种，到底有何用，可最终还是不甘，还在坚持，还在追寻。不论世人如何看待，我都会一直朝着心的方向，一路向行，永不放弃。不失心酸与豪气，这便是我的桀骜不驯与放荡不羁。悟的是自己，悟不透的是人生。悟空</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216150977)<br><br>2017-10-28 00:14<br>赞(1) 踩(0) | <div>听你的第一首歌就是湖光水色调。每次晚上睡不着就一直单曲循环。真是惊艳了时光。如闻仙音。意境真的好美。复习那段时间都在学这首歌。真的太美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33831088)<br><br>2017-10-27 23:58<br>赞(1) 踩(0) | <div>现实的我们何不是如此，心中再愤懑，也只能无奈的选择做“斗战胜佛”，“齐天大圣”已被时间和现实镇压。“叫一声佛祖”的屈辱和心酸。致曾经奋斗的我们。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315665)<br><br>2017-10-27 23:49<br>赞(2) 踩(0) | <div>牛逼牛逼，太好听了。我是个江苏的80后，我喜欢音乐但是我没有创作的才华。戴荃和我同龄，地俗文化和经历的社会变化类似，把我没法表达的思绪和感情表达出来了。感谢戴荃。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315665)<br><br>2017-10-27 23:49<br>赞(2) 踩(0) | <div>牛逼牛逼，太好听了。我是个江苏的80后，我喜欢音乐但是我没有创作的才华。<br>戴荃和我同龄，地俗文化和经历的社会变化类似，把我没法表达的思绪和感情表达出来了。感谢戴荃。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1033346)<br>人生是一場輕鬆的歡喜！<br>2017-10-27 23:43<br>赞(1) 踩(0) | <div>才人!坚持!加油!脑残粉置顶!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12832061)<br>行善沒有條件<br>2017-10-27 21:34<br>赞(1) 踩(0) | <div>大師兄我愛你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4268650)<br>我还没想好要写什么...<br>2017-10-19 01:07<br>赞(1) 踩(0) | <div>请帮阿兰·达瓦卓玛写一首好歌吧！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268019253)<br> <br>2017-10-18 10:47<br>赞(1) 踩(0) | <div>为啥听不了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15628167)<br><br>2017-10-14 14:15<br>赞(2) 踩(0) | <div>大师兄，我真的受不了你的专辑封面了！！！免费帮你做！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6631904)<br>石头三年耳<br>2017-10-16 22:33<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈说得好哇</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319431874)<br>我可以把自己藏在人海里默...<br>2017-10-11 21:08<br>赞(1) 踩(0) | <div>妖孽，你可知罪？！你且说，我何罪之有！？你，执迷不悟！达摩面壁九年，终日黯然，是否也要称其「执迷不悟」！？你既已立地，就必须成佛！若无七情，我守得哪家因果，断绝六欲，我有这铁棒又如何！佛有法戒，人有生死，因果循环，报应轮回，你且看苍天饶过谁？！那我保这一路西天求得为何？不皆是为了世人福泽，圣人香火！你，冥顽不灵！戴上金箍便不可疯魔！拿起铁棒，便身担重责！紫霞抚泪，跪地诉说&amp;hellip;我佛恩诲众人「大慈大悲，终成南无阿弥陀佛」，慈悲，终究也是逃不开一个&amp;ldquo;情&amp;rdquo;字&amp;hellip;我等的，无非是一个恳为我放下铁棒，扶我起身的至尊宝，并非翻云覆雨、脚踏祥云的齐天大圣，他若无情义何以取得真经，若无慈悲何以立地</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319431874)<br>我可以把自己藏在人海里默...<br>2017-10-11 21:08<br>赞(1) 踩(0) | <div>妖孽，你可知罪？！你且说，我何罪之有！？你，执迷不悟！达摩面壁九年，终日黯然，是否也要称其「执迷不悟」！？你既已立地，就必须成佛！若无七情，我守得哪家因果，断绝六欲，我有这铁棒又如何！佛有法戒，人有生死，因果循环，报应轮回，你且看苍天饶过谁？！那我保这一路西天求得为何？不皆是为了世人福泽，圣人香火！你，冥顽不灵！戴上金箍便不可疯魔！拿起铁棒，便身担重责！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319431874)<br>我可以把自己藏在人海里默...<br>2017-10-11 21:08<br>赞(1) 踩(0) | <div>妖孽，你可知罪？！<br>你且说，我何罪之有！？<br>你，执迷不悟！<br>达摩面壁九年，终日黯然，是否也要称其「执迷不悟」！？<br>你既已立地，就必须成佛！<br>若无七情，我守得哪家因果，断绝六欲，我有这铁棒又如何！<br>佛有法戒，人有生死，因果循环，报应轮回，你且看苍天饶过谁？！<br>那我保这一路西天求得为何？不皆是为了世人福泽，圣人香火！<br>你，冥顽不灵！戴上金箍便不可疯魔！拿起铁棒，便身担重责！<br>紫霞抚泪，跪地诉说&amp;hellip;<br>我佛恩诲众人「大慈大悲，终成南无阿弥陀佛」，慈悲，终究也是逃不开一个&amp;ldquo;情&amp;rdquo;字&amp;hellip;我等的，无非是一个恳为我放下铁棒，扶我起身的至尊宝，并非翻云覆雨、脚踏祥云的齐天大圣，他若无情义何以取得真经，若无慈悲何以立地</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319431874)<br>我可以把自己藏在人海里默...<br>2017-10-11 21:08<br>赞(1) 踩(0) | <div>妖孽，你可知罪？！<br>你且说，我何罪之有！？<br>你，执迷不悟！<br>达摩面壁九年，终日黯然，是否也要称其「执迷不悟」！？<br>你既已立地，就必须成佛！<br>若无七情，我守得哪家因果，断绝六欲，我有这铁棒又如何！<br>佛有法戒，人有生死，因果循环，报应轮回，你且看苍天饶过谁？！<br>那我保这一路西天求得为何？不皆是为了世人福泽，圣人香火！<br>你，冥顽不灵！戴上金箍便不可疯魔！拿起铁棒，便身担重责！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3466102)<br>笃定 当我的时光告罄<br>2017-10-10 15:30<br>赞(0) 踩(0) | <div>要命，一路从QQ到网易再到这，现在看到戴老师的歌不得不赶紧下载，生怕过段时间没有了版权听不到</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262750858)<br><br>2017-10-06 01:22<br>赞(0) 踩(0) | <div>亲人的感觉 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"> <img src="../../images/comments/316db64fc5b56f4587429737ff163940.png"> <img src="../../images/comments/57fc74d656455b95c566b57afbf637c2.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262750858)<br><br>2017-10-06 00:29<br>赞(0) 踩(0) | <div>我是你的粉丝，加油！</div> |
@@ -286,7 +286,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267887283)<br><br>2017-01-26 12:20<br>赞(0) 踩(0) | <div>特别宣戴笙的歌。。。游走在心头的潇洒，不是不看凡尘，而是放下。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245424784)<br>一个人的旅行.有音乐相伴...<br>2017-01-25 16:22<br>赞(0) 踩(0) | <div>超级好听.爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264795407)<br><br>2017-01-24 22:15<br>赞(0) 踩(0) | <div>唱的不错</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47274237)<br>良才难令,然可以致君见尊...<br>2017-01-23 21:42<br>赞(2) 踩(0) | <div>心声，句句入心。心酸，句句感人。心动，声声胆颤。心灵，灵魂深处。<img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47274237)<br>良才难令,然可以致君见尊...<br>2017-01-23 21:42<br>赞(2) 踩(0) | <div>心声，句句入心。<br>心酸，句句感人。<br>心动，声声胆颤。<br>心灵，灵魂深处。<br><img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52478015)<br>呼吸皆梵音，脉搏亦钟鼓，...<br>2017-04-08 14:59<br>赞(0) 踩(0) | <div>很久没有喜欢的男歌手了，听着好震撼啊，觉得那些台下的老师都不如他呢，声音透彻又干净，荃哥才是真正的音乐人，流行，古风，禅意，戴荃名字也好听，哎呀，完蛋了，彻底沦陷了，喜欢上他了，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114324756)<br>人生转瞬即逝 何必拘泥小...<br>2017-01-21 15:24<br>赞(1) 踩(0) | <div>戴荃</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262750858)<br><br>2017-01-20 21:30<br>赞(0) 踩(0) | <div>一如既往地喜爱</div> |
@@ -424,7 +424,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2016-04-20 15:32<br>赞(1) 踩(0) | <div>你是我们在这个世界上的大师兄~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14265718)<br>wx:osakarock...<br>2016-04-19 19:16<br>赞(3) 踩(0) | <div>太太太太喜欢他了感觉像是梦里人突然出现在了这个世界</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10206544)<br><br>2016-04-19 18:48<br>赞(1) 踩(0) | <div>回头无望…</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145114578)<br><br>2016-04-19 11:24<br>赞(0) 踩(0) | <div>·~~~111是</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145114578)<br><br>2016-04-19 11:24<br>赞(0) 踩(0) | <div>·~~~1<br>1<br>1是</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2140851)<br>心向遠<br>2016-04-18 18:31<br>赞(15) 踩(0) | <div>第一次听悟空的时候临近黄昏，两行眼泪毫无预警的就流下来。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140305818)<br><br>2016-04-14 12:51<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18101042)<br><br>2016-04-13 19:16<br>赞(0) 踩(0) | <div>艺术品</div> |
@@ -463,7 +463,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/605182)<br>人人都是精神病<br>2016-04-05 01:58<br>赞(0) 踩(0) | <div>一定要去你的现场！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12115445)<br>爱音乐爱虾米。<br>2016-04-04 18:31<br>赞(0) 踩(0) | <div>什么时候开演唱会！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/133641480)<br><br>2016-04-04 00:20<br>赞(444) 踩(0) | <div>我要这铁棒有何用，唱出了许多男生的无奈。。。 <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205735)<br>芒果的体型能变成黄瓜的么<br>2016-04-04 16:55<br>赞(0) 踩(0) | <div>你没这铁棒更没用。。。。啊，好污~，颜面逃遁。。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205735)<br>芒果的体型能变成黄瓜的么<br>2016-04-04 16:55<br>赞(0) 踩(0) | <div>你没这铁棒更没用。。。。<br>啊，好污~，颜面逃遁。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41061944)<br><br>2016-04-04 23:29<br>赞(0) 踩(0) | <div><q><b>饭巴斯腾说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41061944)<br><br>2016-04-04 23:30<br>赞(0) 踩(0) | <div><q><b>饭巴斯腾说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205735)<br>芒果的体型能变成黄瓜的么<br>2016-04-04 23:35<br>赞(0) 踩(0) | <div><q><b>蚊子的文字说：</b></q></div> |
@@ -621,7 +621,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12415112)<br> <br>2015-07-25 00:55<br>赞(0) 踩(0) | <div>为啥下架了( ・᷄ ᵌ・᷅ )</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44100253)<br>呵<br>2015-07-24 23:01<br>赞(1) 踩(0) | <div>同B站来的 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6538230)<br>可以让我放心听日推的虾米<br>2015-07-20 23:02<br>赞(0) 踩(0) | <div>我要悟空我要悟空</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2015-07-18 20:56<br>赞(78) 踩(0) | <div>请小伙伴们去这个页面进行围观。<a href="http://i.xiami.com/shiemengqi" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/shiemengqi</a>戴荃是入驻了虾米音乐人的，只不过不是以他自己的本名，而是代表了他的乐队——释厄萌奇。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2015-07-18 20:56<br>赞(78) 踩(0) | <div>请小伙伴们去这个页面进行围观。<br><a href="http://i.xiami.com/shiemengqi" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/shiemengqi</a><br>戴荃是入驻了虾米音乐人的，只不过不是以他自己的本名，而是代表了他的乐队——释厄萌奇。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57783628)<br> <br>2016-07-19 22:04<br>赞(0) 踩(0) | <div>戴荃是不是佛教徒</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12832061)<br>行善沒有條件<br>2017-06-19 12:29<br>赞(0) 踩(0) | <div>是 a monkey</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43131600)<br>岁月如歌，轻轻带过。<br>2015-07-18 14:51<br>赞(0) 踩(0) | <div>简介都还没有 <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |

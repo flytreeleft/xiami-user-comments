@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/48c5db82bf96c37fd5c2ba9105f7ef33.png)<br>男歌子](https://i.xiami.com/ssj) | **播放数**: 2672260<br>**粉丝数**: 85<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/48c5db82bf96c37fd5c2ba9105f7ef33.png)<br>男歌子](https://i.xiami.com/ssj) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 2672260<br>**粉丝数**: 85<br>**评论数**: 8<br> |
 
 ## 档案
 
@@ -23,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-03-08 09:16<br>赞(1) 踩(0) | <div>14842</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282765966)<br>烟花绚丽多彩，终究凄凉满...<br>2019-02-10 09:39<br>赞(0) 踩(0) | <div>关注，期待，祝福 <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8562567)<br><br>2018-03-04 12:23<br>赞(0) 踩(0) | <div>好好听，太好听啦，天天听你的歌。</div> |

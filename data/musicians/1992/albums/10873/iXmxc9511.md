@@ -38,12 +38,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43310418)<br>最近没钱，不想说话，没钱...<br>2020-11-15 16:21<br>赞(0) 踩(0) | <div>听前奏真怕哥哥跳出来一句&amp;ldquo;爱慕&amp;rdquo;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190711658)<br>愛哥哥<br>2020-09-29 15:02<br>赞(0) 踩(0) | <div>這曲調有種莫名的熟悉感，很撕裂的感動！一看，原來是哥哥的作曲！今天才知道這首，愛了 愛了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442720106)<br>想你但怨你...<br>2020-08-05 23:43<br>赞(0) 踩(0) | <div>谁要令我结识你却偏不可早半分寻到你你偏偏已没有自由身和你遇上究竟我应要尽力避或移近 或庆幸或抱憾 或爱恨...每一个字都像是我对哥哥的思想 <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442720106)<br>想你但怨你...<br>2020-08-05 00:57<br>赞(0) 踩(0) | <div>&amp;ldquo;明知在空讲百千遍不会在今世内兑现只盼一生有一晚当我一个人看雨天飘雨的背面夜里面奇迹般的你出现&amp;rdquo;单曲循环听哭了，这首歌太凄美了，各种音乐元素编织出一种强烈的宿命感，歌词仿佛说出了我的心声。哥哥, 只望你安好！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442720106)<br>想你但怨你...<br>2020-08-05 23:43<br>赞(0) 踩(0) | <div>谁要令我结识你<br>却偏不可早半分<br>寻到你<br>你偏偏已没有自由身<br>和你遇上<br>究竟我应要尽力避<br>或移近 或庆幸<br>或抱憾 或爱恨...<br>每一个字都像是我对哥哥的思想 <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442720106)<br>想你但怨你...<br>2020-08-05 00:57<br>赞(0) 踩(0) | <div>&amp;ldquo;明知在空讲百千遍<br>不会在今世内兑现<br>只盼一生有一晚<br>当我一个人看雨天<br>飘雨的背面夜里面<br>奇迹般的你出现&amp;rdquo;<br><br><br>单曲循环听哭了，这首歌太凄美了，各种音乐元素编织出一种强烈的宿命感，歌词仿佛说出了我的心声。哥哥, 只望你安好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-07-11 12:38<br>赞(4) 踩(0) | <div>粤语经典魅力女声20200711.151</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/240710386)<br><br>2020-04-30 13:04<br>赞(1) 踩(0) | <div>林振强的词就像听一个个动人心魄的故事一样，不能自拔，加上这首幽怨的曲调，深情的演唱，完美，不下听了几十次 <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43310418)<br>最近没钱，不想说话，没钱...<br>2020-04-19 17:05<br>赞(1) 踩(0) | <div>老歌的鼓声很好听，不是现在电子的动次打次能比的</div> |
@@ -64,7 +64,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413035200)<br>你不曾真的离去，你始终在...<br>2019-03-18 15:24<br>赞(11) 踩(0) | <div>不知用什么词汇来形容哥哥，这世上竟有这么完美的人，全才啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223048487)<br>我还没想好要写什么...<br>2019-02-25 21:55<br>赞(4) 踩(0) | <div>真好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332162629)<br>喜歡昭和音樂和演歌！<br>2019-02-04 14:41<br>赞(2) 踩(0) | <div>经典，歌词句句入心！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349339882)<br>后荣迷。努力学习中。<br>2019-01-27 10:24<br>赞(9) 踩(0) | <div>前奏让我一下子清醒，想看看是谁写出这么迷幻的前奏然后。。(*´∀｀)张先生真厉害 (*´∀｀)还有啊，麦洁文也唱得很不错啊，赞赞(*´∀｀)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349339882)<br>后荣迷。努力学习中。<br>2019-01-27 10:24<br>赞(9) 踩(0) | <div>前奏让我一下子清醒，<br>想看看是谁写出这么迷幻的前奏<br>然后。。(*´∀｀)<br>张先生真厉害 (*´∀｀)<br>还有啊，麦洁文也唱得很不错啊，<br>赞赞(*´∀｀)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/221789691)<br><br>2019-01-16 08:58<br>赞(7) 踩(0) | <div>看到张国荣三个字，浑身麻麻的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244978901)<br>你在何地<br>2019-01-03 10:30<br>赞(4) 踩(0) | <div>Miss you much……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266686871)<br><br>2018-12-22 09:37<br>赞(2) 踩(0) | <div>永恒记忆的一晚</div> |
@@ -92,7 +92,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349151700)<br>如果真的太好，如错看了都...<br>2018-03-11 23:34<br>赞(3) 踩(0) | <div>好吧，看到作曲的名字进来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331373681)<br>听说处女座和金牛座最配～<br>2018-03-06 18:29<br>赞(4) 踩(0) | <div>表白 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1168498)<br> <br>2018-02-07 10:53<br>赞(4) 踩(0) | <div>却偏不可早半分！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343705958)<br>I honestly l...<br>2018-01-10 13:32<br>赞(42) 踩(0) | <div>推荐来的 好感动啊谢谢虾米都是哥哥作曲的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343705958)<br>I honestly l...<br>2018-01-10 13:32<br>赞(42) 踩(0) | <div>推荐来的 好感动啊谢谢虾米<br>都是哥哥作曲的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299821186)<br>在内河上，犹如做梦那样<br>2018-08-17 22:34<br>赞(0) 踩(0) | <div>我也是我也是，好惊喜的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326188566)<br>我往哪里找像你这么好～<br>2018-01-09 19:30<br>赞(91) 踩(0) | <div>放眼望去这里全是荣迷，我喜欢 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403689361)<br>生命因有你而不同<br>2018-10-05 18:11<br>赞(0) 踩(0) | <div>谁要令我结识你，却偏又不肯早一天。哥哥错过你就是一生。</div> |

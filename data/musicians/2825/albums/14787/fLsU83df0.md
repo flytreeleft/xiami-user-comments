@@ -37,8 +37,8 @@ I think it's now time for me to leave, now<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441722224)<br><br>2020-10-26 23:15<br>赞(1) 踩(0) | <div>忘记自己喜欢JS多少年了  渐渐步入中年了 可内心还是那个少年！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342725414)<br>Walk  Alone向...<br>2020-05-20 07:35<br>赞(2) 踩(0) | <div>早安，5 20 <img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442220642)<br><br>2020-05-20 07:31<br>赞(2) 踩(0) | <div>你若安好，每天都是晴天</div> |
@@ -62,7 +62,7 @@ I think it's now time for me to leave, now<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4874887)<br><br>2017-02-08 07:35<br>赞(0) 踩(0) | <div>好听呀，初中时候的磁带听到的，现在大学毕业很多年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8542981)<br>我是地球最美的天使<br>2017-02-06 01:05<br>赞(0) 踩(0) | <div>压力很大，睡不着，站在走廊抽烟。听着这首很久前的歌，希望有些力量。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250896987)<br><br>2016-12-23 07:46<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197534158)<br><br>2016-08-24 22:27<br>赞(0) 踩(0) | <div>要坚强，相信以后都是美好的！这首歌是我七年前听的一首非常喜爱的歌曲，青春逝去，成长继续。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197534158)<br><br>2016-08-24 22:27<br>赞(0) 踩(0) | <div>要坚强，相信以后都是美好的！<br>这首歌是我七年前听的一首非常喜爱的歌曲，青春逝去，成长继续。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186541352)<br><br>2016-06-10 08:33<br>赞(37) 踩(0) | <div>JS的歌一直是用心用爱在做，虽然小众，但会听的人一定懂的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52527724)<br>love bull te...<br>2016-06-06 02:03<br>赞(2) 踩(0) | <div>歌词超棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186115353)<br><br>2016-06-05 17:07<br>赞(0) 踩(0) | <div>bye</div> |
@@ -90,8 +90,8 @@ I think it's now time for me to leave, now<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2965608)<br><br>2011-11-12 19:30<br>赞(0) 踩(0) | <div>&amp;amp;quot;未来的世界像一场冒险,当海风那样味道新鲜&amp;amp;quot; 听唔厌的JS. 我嘅第二饮歌哈哈哈~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4701682)<br><br>2011-10-18 09:02<br>赞(0) 踩(0) | <div>一大早想起这首歌听了心情很好哦 以前很是喜欢这个组合啊 虽然他们就红了杀破狼这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6059838)<br><br>2011-10-02 01:49<br>赞(0) 踩(0) | <div>等待乌云散进风里面,明天是晴天.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5419403)<br><br>2011-09-04 02:23<br>赞(0) 踩(0) | <div>未来的世界，像一场冒险当海风那样味道新鲜无人的公路不觉得孤独大胆加速畅快直接</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5419403)<br><br>2011-09-01 22:33<br>赞(0) 踩(0) | <div>未来的世界，像一场冒险当海风那样味道新鲜无人的公路不觉得孤独大胆加速畅快直接</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5419403)<br><br>2011-09-04 02:23<br>赞(0) 踩(0) | <div>未来的世界，像一场冒险<br>当海风那样味道新鲜<br>无人的公路不觉得孤独<br>大胆加速畅快直接</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5419403)<br><br>2011-09-01 22:33<br>赞(0) 踩(0) | <div>未来的世界，像一场冒险<br>当海风那样味道新鲜<br>无人的公路不觉得孤独<br>大胆加速畅快直接</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3740627)<br><br>2011-06-23 08:39<br>赞(1) 踩(0) | <div>今天是晴天，明天也是晴天~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1301242)<br>音乐是无敌解药<br>2011-05-14 13:46<br>赞(0) 踩(0) | <div>超爱的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3813158)<br> <br>2011-05-02 23:03<br>赞(0) 踩(0) | <div>听了就知道，不会错的……</div> |

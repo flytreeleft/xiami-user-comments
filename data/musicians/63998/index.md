@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c2f25350ae4b4cbb19a8e2477d3503f8.jpg)<br>奥云格日乐](https://i.xiami.com/aygrl) | **播放数**: 2094825<br>**粉丝数**: 366<br>**评论数**: 21<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 艺术流行 Art Pop, 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/c2f25350ae4b4cbb19a8e2477d3503f8.jpg)<br>奥云格日乐](https://i.xiami.com/aygrl) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 艺术流行 Art Pop, 独立流行 Indie Pop<br>**播放数**: 2094825<br>**粉丝数**: 366<br>**评论数**: 21<br> |
 
 ## 档案
 
@@ -60,8 +60,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-04 10:20<br>赞(0) 踩(0) | <div>45235</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7417068)<br>邂逅<br>2020-02-26 22:13<br>赞(0) 踩(0) | <div>人美歌靓 嗓音宽厚 舞姿翩翩 私以为 学院技巧看似无懈可击 却也洗去了草原的质朴粗犷 与土地颇有些隔膜了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411271073)<br><br>2020-02-19 15:49<br>赞(1) 踩(0) | <div>一首天边的阿妈已经征服了我，你是我们心中的骄傲！</div> |

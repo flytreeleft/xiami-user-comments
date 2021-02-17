@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/bc7244863a4144105cb8eade72f71f15.jpg)<br>安娜其](https://i.xiami.com/annaki) | **播放数**: 178663<br>**粉丝数**: 396<br>**评论数**: 14<br>**地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 新浪潮 New Wave<br> |
+| [![](../../images/musicians/bc7244863a4144105cb8eade72f71f15.jpg)<br>安娜其](https://i.xiami.com/annaki) | **地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 新浪潮 New Wave<br>**播放数**: 178663<br>**粉丝数**: 396<br>**评论数**: 14<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-12-26 20:35<br>赞(0) 踩(0) | <div><img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445409723)<br><br>2020-11-16 15:06<br>赞(2) 踩(0) | <div>神仙乐队✨✨✨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14152141)<br><br>2020-07-01 16:26<br>赞(0) 踩(0) | <div>(ง &amp;bull;_&amp;bull;)ง</div> |

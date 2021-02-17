@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/63c46f4f8aac3c8a19a4176c0d93bfae.jpg)<br>茶啊二中](https://i.xiami.com/chaaerzhong) | **播放数**: 1865954<br>**粉丝数**: 488<br>**评论数**: 33<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 同人音乐 DouJin<br> |
+| [![](../../images/musicians/63c46f4f8aac3c8a19a4176c0d93bfae.jpg)<br>茶啊二中](https://i.xiami.com/chaaerzhong) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 同人音乐 DouJin<br>**播放数**: 1865954<br>**粉丝数**: 488<br>**评论数**: 33<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -19,14 +16,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401170181)<br><br>2020-05-29 19:30<br>赞(0) 踩(0) | <div>不知道高中是哪一年看到了茶啊二中，当时是心血来潮搜自己的学校。我的学校也是一个二中。怎么说呢，看到二中心里面就很触动。就一直看下去茶啊二中，里面的班主任真的好像我高一高二那个班主任。可惜我同学基本上不知道茶啊二中。二中真的特别好，唉，回不去了啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351248085)<br><br>2020-03-24 18:02<br>赞(0) 踩(0) | <div>茶啊二中，谢谢你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432353487)<br><br>2020-01-01 10:01<br>赞(0) 踩(0) | <div>真好听!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379498664)<br><br>2019-09-12 07:24<br>赞(1) 踩(0) | <div>等待第五季和第三季的发布</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429260725)<br><br>2019-08-31 02:55<br>赞(1) 踩(0) | <div>王强我们太像了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419325335)<br>偶尔不安分。<br>2019-05-03 21:45<br>赞(0) 踩(0) | <div>听得出回忆的曲看得出留恋的词<img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419325335)<br>偶尔不安分。<br>2019-05-03 21:45<br>赞(0) 踩(0) | <div>听得出回忆的曲<br>看得出留恋的词<br><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27844080)<br><br>2019-04-16 19:46<br>赞(1) 踩(0) | <div>加油❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2019-03-12 19:59<br>赞(1) 踩(0) | <div>10232</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420721031)<br><br>2019-03-09 10:45<br>赞(1) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
@@ -45,7 +42,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2018-07-14 16:32<br>赞(1) 踩(0) | <div>很感谢茶啊二中。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338860590)<br><br>2018-07-07 21:43<br>赞(17) 踩(0) | <div>茶啊二中第五季，我等你回来！我希望高伟也能一起回来！！！祝茶啊二中越来越好！ <img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409809461)<br><br>2018-12-02 12:41<br>赞(0) 踩(0) | <div>我也这样想的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342351494)<br><br>2018-06-30 20:40<br>赞(2) 踩(0) | <div>那是我们的青春啊不能忘记的时光啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342351494)<br><br>2018-06-30 20:40<br>赞(2) 踩(0) | <div>那是我们的青春啊<br>不能忘记的时光啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285490271)<br><br>2018-06-23 20:36<br>赞(6) 踩(0) | <div>青葱岁月怎么没有啊？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319547587)<br><br>2018-06-18 12:53<br>赞(5) 踩(0) | <div>茶啊二中，我在吉林挺你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310417837)<br>人人都忙于自己的欢喜与悲...<br>2018-06-17 07:45<br>赞(3) 踩(0) | <div>里面好多情景跟我以前的班级很相似,回忆感满满^&amp;omega;^</div> |

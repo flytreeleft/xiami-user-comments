@@ -41,8 +41,8 @@ Urgun urguy, zureh mini﻿<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44688314)<br>我再也不会像从前<br>2021-01-05 20:35<br>赞(0) 踩(0) | <div>亲爱的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7712434)<br>夜来幽梦忽还乡<br>2020-09-01 14:40<br>赞(0) 踩(0) | <div>我喜欢的那个蒙古族男孩也生活在草原，喜欢骑马，喜欢唱歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112973398)<br>俗人<br>2020-08-16 11:53<br>赞(2) 踩(0) | <div>寻龙诀选曲无敌了 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png">因海然海然重新刷了好多遍。</div> |
@@ -57,10 +57,10 @@ Urgun urguy, zureh mini﻿<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936466)<br>我要我的音乐。<br>2019-03-23 00:56<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260287396)<br><br>2019-02-11 13:09<br>赞(3) 踩(0) | <div>希望3.16号上海站，我能听到现场版的海然海然</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6728757)<br>走心的音乐<br>2019-01-04 12:53<br>赞(1) 踩(0) | <div>会有的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9479609)<br>气味相投，皆属缘份   ...<br>2018-10-15 23:54<br>赞(0) 踩(0) | <div>以梦为马。。莫负韶华  。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288460189)<br>在世外夜夜听雪，才知道梅...<br>2018-10-07 11:15<br>赞(2) 踩(0) | <div>一听就心碎悠扬的马头琴回荡在苍茫草原，浅吟低唱的歌声回荡在心间。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9479609)<br>气味相投，皆属缘份   ...<br>2018-10-15 23:54<br>赞(0) 踩(0) | <div>以梦为马。<br><br><br><br>。<br>莫负韶华  。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288460189)<br>在世外夜夜听雪，才知道梅...<br>2018-10-07 11:15<br>赞(2) 踩(0) | <div>一听就心碎<br>悠扬的马头琴回荡在苍茫草原，浅吟低唱的歌声回荡在心间。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33578199)<br>我超疯<br>2018-09-16 12:51<br>赞(0) 踩(0) | <div>队长伊利奇写给初恋的一首歌，瞬间沦陷</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283104094)<br><br>2018-09-11 17:22<br>赞(3) 踩(0) | <div>《海然 海然》蒙古语音译把爱中的爱献给你hai ran hai ran cham dan hen就是我的灵魂zo ho rin si te len min把歌中之歌献给你do gen do gan cham dan就是我的心灵之曲mizhigi ai hu he min把愿望中的愿望献给你husileng husleng chan dan就是我那颗火热的心do ri gan do ri yi zo ri hni就是我那颗火热的心do ri gan do ri yi zo ri hni</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283104094)<br><br>2018-09-11 17:22<br>赞(3) 踩(0) | <div>《海然 海然》蒙古语音译<br>把爱中的爱献给你<br>hai ran hai ran cham dan hen<br>就是我的灵魂<br>zo ho rin si te len min<br>把歌中之歌献给你<br>do gen do gan cham dan<br>就是我的心灵之曲<br>mizhigi ai hu he min<br>把愿望中的愿望献给你<br>husileng husleng chan dan<br>就是我那颗火热的心<br>do ri gan do ri yi zo ri hni<br>就是我那颗火热的心<br>do ri gan do ri yi zo ri hni</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360657737)<br><br>2018-09-08 23:33<br>赞(0) 踩(0) | <div>有大草原的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351865836)<br>为你而独善其身<br>2018-09-02 14:52<br>赞(0) 踩(0) | <div>喜欢这种自由自在感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10226321)<br>Love&peace<br>2018-08-27 12:37<br>赞(0) 踩(0) | <div>桌拉，杭盖的新成员，唯一的一位女性，必然也不是吃素的。</div> |
@@ -77,7 +77,7 @@ Urgun urguy, zureh mini﻿<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356429601)<br>假装可以共度余生<br>2018-04-02 20:58<br>赞(0) 踩(0) | <div>每次换播放软件必前排听加❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9195880)<br><br>2018-03-30 15:24<br>赞(0) 踩(0) | <div>！给</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936466)<br>我要我的音乐。<br>2018-03-29 00:43<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48703211)<br>我还没想好要写什么...<br>2018-03-22 13:26<br>赞(7) 踩(0) | <div>空耳: <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png">勿喷海兰海兰 恰姆达佐噢罗依 塞特嗨利咪朵甘朵甘 恰姆达得he接滴依 挨嘚高忽咪嚯丝琳嚯丝琳 恰姆达多鲁贡多鲁依 嘿 佐勒依兮咪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48703211)<br>我还没想好要写什么...<br>2018-03-22 13:26<br>赞(7) 踩(0) | <div>空耳: <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png">勿喷<br><br>海兰海兰 恰姆达<br>佐噢罗依 塞特嗨利咪<br>朵甘朵甘 恰姆达<br>得he接滴依 挨嘚高忽咪<br>嚯丝琳嚯丝琳 恰姆达<br>多鲁贡多鲁依 嘿 佐勒依兮咪</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49977089)<br><br>2018-04-01 00:12<br>赞(0) 踩(0) | <div>rrrrrrrrrrr</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11033549)<br>不是所有付出都有回报<br>2018-03-21 13:38<br>赞(2) 踩(0) | <div>听着歌，感觉自己离长生天很近。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52284987)<br><br>2018-04-18 09:56<br>赞(0) 踩(0) | <div>同感</div> |
@@ -100,7 +100,7 @@ Urgun urguy, zureh mini﻿<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343313508)<br><br>2018-08-02 22:26<br>赞(0) 踩(0) | <div>还是来海拉尔吧，这里的雪美。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/589266)<br>我还没想好要写什么...<br>2018-08-06 16:50<br>赞(0) 踩(0) | <div><q><b>༺࿄࿆潜行࿅࿆༻说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64174786)<br>我还没想好要写什么...<br>2017-11-30 19:44<br>赞(7) 踩(0) | <div>曾经有个男孩告诉我，他外婆家在遥远的西北新疆阿勒泰，那边有一群蒙古族牧民，给我安利了这首歌；后来在电影院看寻龙诀，又听到了这首熟悉的曲子，想起了故人，开心和悲伤交织心头</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137003154)<br>我还没想好要写什么...<br>2017-11-29 12:18<br>赞(4) 踩(0) | <div>方知琴瑟固有难以和鸣缱绻之爱需化进诗意里佐以梦寐裹腹亦得以共情</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137003154)<br>我还没想好要写什么...<br>2017-11-29 12:18<br>赞(4) 踩(0) | <div>方知琴瑟固有难以和鸣<br>缱绻之爱需化进诗意里<br>佐以梦寐裹腹亦得以共情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4370424)<br>张姆肉斯<br>2017-11-03 07:44<br>赞(3) 踩(0) | <div>太美了。。会流泪的曲子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42402552)<br>执念欺骗了回忆，我还有你<br>2017-10-28 15:22<br>赞(15) 踩(0) | <div>苍狼白鹿的子孙从没想到，蒙古民谣可以飘扬那么远...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93348380)<br>科学 民主 自由<br>2017-10-26 20:00<br>赞(7) 踩(0) | <div>主唱胡日查，长生天下的歌者，带着一点青海蒙古语的口音。我只想说：安达，有什么趣闻么？</div> |
@@ -109,7 +109,7 @@ Urgun urguy, zureh mini﻿<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/712881)<br>哈？<br>2017-10-26 10:16<br>赞(0) 踩(0) | <div>听起来挺吓人的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24038685)<br><br>2017-10-25 09:58<br>赞(0) 踩(0) | <div>深沉真挚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41672476)<br>认证：专业词人<br>2017-10-20 12:40<br>赞(0) 踩(0) | <div>感往伤怀</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24038685)<br><br>2017-10-11 11:13<br>赞(20) 踩(0) | <div>Hairaan, hairaan chamdaaZoriulya,setgel miniDuugaan, duugaan chamdaaTseejnii ayalguu miniHusleen, husleen chamdaaUrgun urguy, zureh mini亲爱的  我亲爱的所有献给你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24038685)<br><br>2017-10-11 11:13<br>赞(20) 踩(0) | <div>Hairaan, hairaan chamdaa<br>Zoriulya,setgel mini<br>Duugaan, duugaan chamdaa<br>Tseejnii ayalguu mini<br>Husleen, husleen chamdaa<br>Urgun urguy, zureh mini<br><br><br>亲爱的  我亲爱的<br>所有献给你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101138512)<br>同病人理应结伴共寻医<br>2017-10-02 11:08<br>赞(0) 踩(0) | <div>总感觉有种稀有的草原式情怀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74443254)<br> <br>2017-09-24 20:18<br>赞(2) 踩(0) | <div>失恋，痛哭以后，骑车离开她的校园，听着这首歌，我想我走出来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275662969)<br><br>2017-09-17 09:46<br>赞(0) 踩(0) | <div>伊立奇唱的？</div> |
@@ -118,7 +118,7 @@ Urgun urguy, zureh mini﻿<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88115296)<br>散步的人<br>2017-09-07 00:18<br>赞(0) 踩(0) | <div>呵呵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/185880462)<br>都沈默亦或莊嚴的來臨。<br>2017-08-23 13:17<br>赞(0) 踩(0) | <div>有點想聽吉克雋逸的版本</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278461145)<br>一念静心花开遍世界<br>2017-08-07 17:25<br>赞(0) 踩(0) | <div>这声音飘到了心里，悠悠扬扬一场小雨。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112973398)<br>俗人<br>2017-08-04 11:39<br>赞(22) 踩(0) | <div>真正好的歌曲，从来不会用歌词吸引听众。隐藏在曲子中的情感，才是歌曲存在的真正意义啊。歌词只是附庸。杭盖做到了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112973398)<br>俗人<br>2017-08-04 11:39<br>赞(22) 踩(0) | <div>真正好的歌曲，从来不会用歌词吸引听众。<br>隐藏在曲子中的情感，才是歌曲存在的真正意义啊。歌词只是附庸。<br>杭盖做到了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13106793)<br>Mart kui.<br>2017-07-06 14:55<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113593166)<br>全天自然放牧的山羊<br>2017-06-12 00:03<br>赞(0) 踩(0) | <div>《鬼吹灯之寻龙诀》里的插曲是不是这个？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303326332)<br><br>2017-07-02 14:26<br>赞(0) 踩(0) | <div>嗯呢</div> |
@@ -212,7 +212,7 @@ Urgun urguy, zureh mini﻿<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12142033)<br>我还没想好要写什么...<br>2016-07-02 13:24<br>赞(0) 踩(0) | <div>想你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194730465)<br> <br>2016-06-27 18:44<br>赞(3) 踩(0) | <div>这首歌词完全听不懂，但是旋律和歌词又让我感受到辽阔的草原，高远的天空 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6710186)<br><br>2016-06-13 14:57<br>赞(7) 踩(0) | <div>一听这个歌就想到晒得黝黑的瞎子在草原起风的夜里点上一盏油灯抱着内蒙姑娘入眠。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112973398)<br>俗人<br>2016-06-11 08:55<br>赞(4) 踩(0) | <div>每次听到，心里都密密麻麻的刺痛。脑海里是空旷草原，有风卷过，牧羊人远远抱着马头琴，神情隽永，歌声动人。苍凉悲伤，深情怀念。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112973398)<br>俗人<br>2016-06-11 08:55<br>赞(4) 踩(0) | <div>每次听到，心里都密密麻麻的刺痛。<br>脑海里是空旷草原，有风卷过，牧羊人远远抱着马头琴，神情隽永，歌声动人。<br>苍凉悲伤，深情怀念。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224393)<br>没有音乐我会死<br>2016-06-10 00:33<br>赞(5) 踩(0) | <div>伊里奇写给初恋，男人比女人深情，听哭 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83489220)<br>別關注一位患者<br>2016-06-11 01:00<br>赞(0) 踩(0) | <div>摸头</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224393)<br>没有音乐我会死<br>2016-06-13 13:07<br>赞(0) 踩(0) | <div><q><b>Alice mmm说：</b></q></div> |
@@ -252,7 +252,7 @@ Urgun urguy, zureh mini﻿<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50628082)<br>我还没想好要写什么...<br>2016-02-14 13:35<br>赞(4) 踩(0) | <div>看了寻龙诀，回忆两个人在草原上嬉闹时，配上这首歌，太美了！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99414360)<br><br>2016-03-05 08:46<br>赞(0) 踩(0) | <div>是啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5968515)<br>听吧。<br>2016-02-14 12:37<br>赞(0) 踩(0) | <div>美</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14470410)<br>我还没想好要写什么...<br>2016-02-13 07:47<br>赞(1) 踩(0) | <div>简单又深刻的情歌亲爱的 我亲爱的 我将初恋献给你亲爱的 我亲爱的 我将热恋献给你亲爱的 我亲爱的 我将忠贞永珍藏</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14470410)<br>我还没想好要写什么...<br>2016-02-13 07:47<br>赞(1) 踩(0) | <div>简单又深刻的情歌<br><br>亲爱的 我亲爱的 我将初恋献给你<br>亲爱的 我亲爱的 我将热恋献给你<br>亲爱的 我亲爱的 我将忠贞永珍藏</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13072242)<br>我还没想好要写什么...<br>2016-03-03 09:59<br>赞(0) 踩(0) | <div>这是官方汉语歌词吗？但蒙语歌词完全不是这个意思啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14470410)<br>我还没想好要写什么...<br>2016-06-12 16:24<br>赞(0) 踩(0) | <div><q><b>MGL_ilqi说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47620048)<br> <br>2016-02-10 22:55<br>赞(3) 踩(0) | <div>向往歌里三座城，乌兰巴托，加德满都，拉萨。去过其中之一，但还是向往那里。</div> |
@@ -306,7 +306,7 @@ Urgun urguy, zureh mini﻿<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41519837)<br>boy<br>2016-01-11 10:45<br>赞(0) 踩(0) | <div>缓解头痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48641131)<br> <br>2016-01-11 01:37<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21125831)<br>自法度规矩，向天真自由<br>2016-01-10 00:36<br>赞(1) 踩(0) | <div>你若相信，便有真爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5774058)<br>我还没想好要写什么...<br>2016-01-09 23:36<br>赞(2) 踩(0) | <div>亲爱的 我亲爱的 我将初恋献给你亲爱的 我亲爱的 我将热恋献给你亲爱的 我亲爱的 我将忠贞永珍藏❀...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5774058)<br>我还没想好要写什么...<br>2016-01-09 23:36<br>赞(2) 踩(0) | <div>亲爱的 我亲爱的 我将初恋献给你<br>亲爱的 我亲爱的 我将热恋献给你<br>亲爱的 我亲爱的 我将忠贞永珍藏<br>❀...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49284733)<br>我还没想好要写什么...<br>2016-01-08 21:37<br>赞(0) 踩(0) | <div>见证日升月落 大概 就是人存在的意义了吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49284733)<br>我还没想好要写什么...<br>2016-01-08 21:34<br>赞(0) 踩(0) | <div>见证日升月落 大概 就是人存在的意义了吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49284733)<br>我还没想好要写什么...<br>2016-01-08 21:33<br>赞(0) 踩(0) | <div>见证日升月落 大概 就是人存在的意义了吧</div> |
@@ -322,7 +322,7 @@ Urgun urguy, zureh mini﻿<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98291152)<br><br>2016-01-07 22:21<br>赞(1) 踩(0) | <div>第一次觉得蒙古歌这么好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28810281)<br>明天太远   今天太短<br>2016-01-07 22:01<br>赞(0) 踩(0) | <div>我送你的像章怎么是反的︶︿︶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6413833)<br><br>2016-01-07 10:48<br>赞(1) 踩(0) | <div>之后的一周 是coreldraw的一周</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5115541)<br><br>2016-01-06 22:38<br>赞(32) 踩(0) | <div>乌尔善说： 音乐表达意义的方式不只是歌词，我相信观众能很强烈的感受到歌曲中的深情。其实“海然海然”的歌词本身是非常贴合剧情的：亲爱的 我亲爱的我将初恋献给你亲爱的 我亲爱的我将热恋献给你亲爱的 我亲爱的我将忠贞永珍藏但对不懂蒙语的观众来说，把它当作纯音乐来听也完全没有问题。从另一个角度想，听不懂歌词反而制造出一种陌生和距离感，让胡八一和丁思甜生死两隔的忧伤更加浓烈。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5115541)<br><br>2016-01-06 22:38<br>赞(32) 踩(0) | <div>乌尔善说： 音乐表达意义的方式不只是歌词，我相信观众能很强烈的感受到歌曲中的深情。其实“海然海然”的歌词本身是非常贴合剧情的：<br><br>亲爱的 我亲爱的<br>我将初恋献给你<br>亲爱的 我亲爱的<br>我将热恋献给你<br>亲爱的 我亲爱的<br>我将忠贞永珍藏<br><br>但对不懂蒙语的观众来说，把它当作纯音乐来听也完全没有问题。<br><br>从另一个角度想，听不懂歌词反而制造出一种陌生和距离感，让胡八一和丁思甜生死两隔的忧伤更加浓烈。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9175639)<br><br>2016-01-14 19:48<br>赞(0) 踩(0) | <div>不懂语言怎么就算是纯音乐了.......</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215209573)<br>Кому надо,то...<br>2018-03-31 00:34<br>赞(0) 踩(0) | <div>对</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11742723)<br>: )<br>2016-01-06 14:22<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
@@ -355,7 +355,7 @@ Urgun urguy, zureh mini﻿<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44388622)<br> <br>2016-01-01 15:50<br>赞(4) 踩(0) | <div>这歌才是寻龙诀之魂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94067188)<br>王国维曾说一事能狂便少年...<br>2016-01-01 14:30<br>赞(0) 踩(0) | <div>穿透了灵魂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1673868)<br>我的信仰是让我沸腾的诗句<br>2016-01-01 08:24<br>赞(0) 踩(0) | <div>跪求中文歌词释义</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5115541)<br><br>2016-01-06 22:47<br>赞(0) 踩(0) | <div>亲爱的 我亲爱的我将初恋献给你亲爱的 我亲爱的我将热恋献给你亲爱的 我亲爱的我将忠贞永珍藏</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5115541)<br><br>2016-01-06 22:47<br>赞(0) 踩(0) | <div>亲爱的 我亲爱的<br>我将初恋献给你<br>亲爱的 我亲爱的<br>我将热恋献给你<br>亲爱的 我亲爱的<br>我将忠贞永珍藏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47135595)<br>美拍：38865382<br>2015-12-31 18:21<br>赞(2) 踩(0) | <div>我靠看寻龙诀 ab和陈坤在草原上这首歌直接打到我了 真好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96191050)<br><br>2015-12-31 18:05<br>赞(2) 踩(0) | <div>让心灵沉静下来的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36425079)<br>ᠡᠷᠬᠡ ᠴᠢᠯᠦᠭᠡ<br>2015-12-31 08:50<br>赞(0) 踩(0) | <div>才子</div> |
@@ -407,7 +407,7 @@ Urgun urguy, zureh mini﻿<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45598885)<br>Again. <br>2015-12-27 13:50<br>赞(0) 踩(0) | <div>好听哭了 配上电影更佳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33132663)<br> <br>2015-12-27 08:47<br>赞(0) 踩(0) | <div>我要去看寻龙诀了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47016306)<br><br>2015-12-27 08:45<br>赞(1) 踩(0) | <div>这首歌好美好美好美 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png">心醉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24611598)<br><br>2015-12-27 01:22<br>赞(0) 踩(0) | <div>hairaan,hairaan,chamdaan zogooryi,setgel miniduugaan,duugaan,chamdaan, tseejnii ayalguu minihusleen,husleen,chamdaa durgun mini,zureh mini</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24611598)<br><br>2015-12-27 01:22<br>赞(0) 踩(0) | <div>hairaan,hairaan,chamdaan zogooryi,setgel mini<br>duugaan,duugaan,chamdaan, tseejnii ayalguu mini<br>husleen,husleen,chamdaa durgun mini,zureh mini</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36897148)<br>再见<br>2015-12-26 22:39<br>赞(1) 踩(0) | <div>Hairaan</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14862306)<br> <br>2015-12-26 21:18<br>赞(3) 踩(0) | <div>我会说去看寻龙诀是为了你们吗！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3810345)<br>早疯了<br>2015-12-26 18:50<br>赞(0) 踩(0) | <div>生命中不能承受之重</div> |
@@ -479,7 +479,7 @@ Urgun urguy, zureh mini﻿<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2797260)<br><br>2015-12-21 00:25<br>赞(0) 踩(0) | <div>那草原的苍凉一瞥…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2859595)<br>我跟你描述一个灵魂，他拥...<br>2015-12-20 23:33<br>赞(7) 踩(0) | <div>拯救了ab演技的一首曲子</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7206504)<br>一天两包中南海<br>2015-12-21 01:05<br>赞(0) 踩(0) | <div>为你盖一栋楼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9432644)<br><br>2015-12-20 21:43<br>赞(12) 踩(0) | <div>Hairaan, hairaan chamdaa zoriulya, setgel miniDuugaan, duugaan chamdaa tseejnii ayalguu miniHusleen, husleen chamdaa urgun urguy, zureh mini</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9432644)<br><br>2015-12-20 21:43<br>赞(12) 踩(0) | <div>Hairaan, hairaan chamdaa zoriulya, setgel mini<br>Duugaan, duugaan chamdaa tseejnii ayalguu mini<br>Husleen, husleen chamdaa urgun urguy, zureh mini</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39727572)<br>这家伙很聪明什么也没留下...<br>2015-12-30 22:26<br>赞(0) 踩(0) | <div></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39727572)<br>这家伙很聪明什么也没留下...<br>2015-12-30 22:29<br>赞(0) 踩(0) | <div>特别喜欢，正好找歌词呢，谢谢～能找到伴奏么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/479359)<br><br>2015-12-20 21:34<br>赞(0) 踩(0) | <div>太喜欢这首了</div> |
@@ -549,7 +549,7 @@ Urgun urguy, zureh mini﻿<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4471269)<br>only prayer。<br>2015-03-15 15:35<br>赞(2) 踩(0) | <div>队长伊立奇自己的爱情故事。眼泪忍不住留下来。歌词大意“亲爱的 我亲爱的 我将初恋献给你 亲爱的 我亲爱的 我将热恋献给你 亲爱的 我亲爱的 我将忠贞永珍藏”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4471269)<br>only prayer。<br>2015-03-15 15:30<br>赞(0) 踩(0) | <div>队长伊立奇自己的爱情故事。“亲爱的 我亲爱的 我将初恋献给你 亲爱的 我亲爱的 我将热恋献给你 亲爱的 我亲爱的 我将忠贞永珍藏”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9519488)<br>DOUbt is no....<br>2015-02-17 21:24<br>赞(0) 踩(0) | <div>亲爱的，亲爱的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43257747)<br><br>2015-02-14 18:50<br>赞(2) 踩(0) | <div>海然 海然你还在哪里夜晚的霓虹已亮起你为何还不来将我的手牵起</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43257747)<br><br>2015-02-14 18:50<br>赞(2) 踩(0) | <div>海然 海然<br>你还在哪里<br>夜晚的霓虹已亮起<br>你为何还不来将我的手牵起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41655452)<br><br>2014-11-19 01:39<br>赞(1) 踩(0) | <div>深夜 乱梦一场 起夜听歌 闭上眼睛 思念那无人的荒野 欲哭忘泪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41630874)<br>暂无签名~<br>2014-10-31 10:07<br>赞(0) 踩(0) | <div>摇篮曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15447380)<br>suhe<br>2014-07-20 23:06<br>赞(0) 踩(0) | <div>海然 海然  我将忠贞永珍藏</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/63d69e2d900f9856510544646ace3c93.jpg)<br>阿木](https://i.xiami.com/luowuamu) | **播放数**: 20223890<br>**粉丝数**: 4908<br>**评论数**: 105<br>**地区**: China 中国大陆<br>**风格**: <br> |
+| [![](../../images/musicians/63d69e2d900f9856510544646ace3c93.jpg)<br>阿木](https://i.xiami.com/luowuamu) | **地区**: China 中国大陆<br>**风格**: <br>**播放数**: 20223890<br>**粉丝数**: 4908<br>**评论数**: 105<br> |
 
 ## 档案
 
@@ -70,8 +70,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/417115539)<br><br>2020-11-05 21:31<br>赞(0) 踩(0) | <div>当兵三年。估计与我年纪相差不大。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445029137)<br><br>2020-09-21 01:59<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278908558)<br>音乐是呼吸的空气，不可或...<br>2020-06-25 00:58<br>赞(0) 踩(0) | <div>有两年特别喜欢阿木的歌-    -三十七度男友</div> |
@@ -97,7 +97,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299375587)<br><br>2018-04-12 20:54<br>赞(1) 踩(0) | <div>阿木你唱歌太好听了，怎么就不唱了太可惜了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193834290)<br><br>2018-03-26 06:56<br>赞(1) 踩(0) | <div>为什么不出新歌了，十多年了，一直没你的消息 <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352912791)<br>歌，带给你的是……<br>2018-03-21 13:00<br>赞(0) 踩(0) | <div>歌挺好听的</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409780604)<br><br>2018-12-10 15:24<br>赞(0) 踩(0) | <div>一r上一r~gg找个</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409780604)<br><br>2018-12-10 15:24<br>赞(0) 踩(0) | <div>一r上<br><br><br><br><br><br><br><br><br>一<br><br><br><br><br>r~gg<br><br>找个</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352912791)<br>歌，带给你的是……<br>2018-03-21 12:59<br>赞(0) 踩(0) | <div>阿木</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274735852)<br><br>2018-02-18 16:17<br>赞(0) 踩(0) | <div>你跟我一样我父母亲也去世了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349484229)<br><br>2018-02-12 01:33<br>赞(0) 踩(0) | <div>真的好好听 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |

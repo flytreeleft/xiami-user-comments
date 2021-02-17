@@ -3,7 +3,7 @@ Krono
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b1c98fd1efbd7cc9d71f9b3d83ce98b3.jpg)<br>Krono](https://i.xiami.com/krono) | **播放数**: 2436773<br>**粉丝数**: 946<br>**评论数**: 45<br>**地区**: France 法国<br>**风格**: 电音流行 Electropop, 电子 Electronic, 深浩室舞曲 Deep House, 弛放 Chillout<br> |
+| [![](../../images/musicians/b1c98fd1efbd7cc9d71f9b3d83ce98b3.jpg)<br>Krono](https://i.xiami.com/krono) | **地区**: France 法国<br>**风格**: 电音流行 Electropop, 电子 Electronic, 深浩室舞曲 Deep House, 弛放 Chillout<br>**播放数**: 2436773<br>**粉丝数**: 946<br>**评论数**: 45<br> |
 
 ## 档案
 
@@ -57,8 +57,8 @@ KRONO是法国知名电子音乐制作人、DJ。早期作品受Daft Punk影响�
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315890155)<br> <br>2020-08-07 23:31<br>赞(0) 踩(0) | <div>有dp朋克的一点神韵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441091689)<br>杠精上场，请速避让<br>2020-06-19 22:28<br>赞(0) 踩(0) | <div>那个鼻孔有点大</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443207675)<br><br>2020-06-15 21:20<br>赞(0) 踩(0) | <div>I love you</div> |
@@ -82,7 +82,7 @@ KRONO是法国知名电子音乐制作人、DJ。早期作品受Daft Punk影响�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35714790)<br><br>2016-05-19 14:32<br>赞(1) 踩(0) | <div>⚈้̤͡ ˌ̫̮ ⚈้̤͡" Ｉ Lᵒᵛᵉᵧₒᵤ❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4844432)<br>听到high为止<br>2016-05-16 17:47<br>赞(0) 踩(0) | <div>开口爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42695089)<br>vb：吴浣甜甜<br>2016-05-10 14:38<br>赞(0) 踩(0) | <div>。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126933296)<br><br>2016-04-21 00:22<br>赞(1) 踩(0) | <div>我发现了一篇专门介绍KRONO的文章！！！在此分享给大家：<a href="http://mp.weixin.qq.com/s?__biz=MzA3OTE0Mjk1MQ==&amp;amp;mid=2649286461&amp;amp;idx=1&amp;amp;sn=b25c799f121cbdee9cae0684bf05c370&amp;amp;scene=2&amp;amp;srcid=0420Gp7u1uDyPbWsZAMdUkgB&amp;amp;from=timeline&amp;amp;isappinstalled=0#wechat_redirect" target="_blank" rel="nofollow noreferrer noopener">http://mp.weixin.qq.com/s?__biz=MzA3OTE0Mjk1MQ==&amp;amp;mid=2649286461&amp;amp;idx=1&amp;amp;sn=b25c799f121cbdee9cae0684bf05c370&amp;amp;scene=2&amp;amp;srcid=0420Gp7u1uDyPbWsZAMdUkgB&amp;amp;from=timeline&amp;amp;isappinstalled=0#wechat_redirect</a>这篇原创文章在孚兰勒艺术机构的公众号（flaneurart)上发表,共分三篇，还有独家发布的《country mile》视听！！！超赞！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126933296)<br><br>2016-04-21 00:22<br>赞(1) 踩(0) | <div>我发现了一篇专门介绍KRONO的文章！！！在此分享给大家：<a href="http://mp.weixin.qq.com/s?__biz=MzA3OTE0Mjk1MQ==&amp;amp;mid=2649286461&amp;amp;idx=1&amp;amp;sn=b25c799f121cbdee9cae0684bf05c370&amp;amp;scene=2&amp;amp;srcid=0420Gp7u1uDyPbWsZAMdUkgB&amp;amp;from=timeline&amp;amp;isappinstalled=0#wechat_redirect" target="_blank" rel="nofollow noreferrer noopener">http://mp.weixin.qq.com/s?__biz=MzA3OTE0Mjk1MQ==&amp;amp;mid=2649286461&amp;amp;idx=1&amp;amp;sn=b25c799f121cbdee9cae0684bf05c370&amp;amp;scene=2&amp;amp;srcid=0420Gp7u1uDyPbWsZAMdUkgB&amp;amp;from=timeline&amp;amp;isappinstalled=0#wechat_redirect</a><br>这篇原创文章在孚兰勒艺术机构的公众号（flaneurart)上发表,共分三篇，还有独家发布的《country mile》视听！！！超赞！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3428058)<br>我还没想好要写什么...<br>2016-04-11 09:11<br>赞(0) 踩(0) | <div>dancin...拜托上架</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126933296)<br><br>2016-04-21 00:29<br>赞(0) 踩(0) | <div>腾讯视频可以搜到</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3428058)<br>我还没想好要写什么...<br>2016-04-22 07:47<br>赞(0) 踩(0) | <div><q><b>邐鲤。说：</b></q></div> |

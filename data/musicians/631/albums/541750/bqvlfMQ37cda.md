@@ -51,8 +51,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17574861)<br><br>2018-06-13 21:00<br>赞(2) 踩(0) | <div>才发现，有这么一首好歌，歌词写的真好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5968552)<br>虾小米，我爱你所以讲不出...<br>2018-05-13 18:01<br>赞(1) 踩(0) | <div>浮躁忧郁，好久不听他，翻回来只想唉&amp;hellip;&amp;hellip;&amp;hellip;生活就算再苟且，也永远有纯净的林一峰洗净我心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292246214)<br>公众号：桑澈之港乐时光<br>2018-01-31 23:27<br>赞(2) 踩(0) | <div>作为一名独立都市游吟歌手，林一峰一直是个珍爱老歌的人。&amp;ldquo;从歌词出发重塑世界&amp;rdquo;是《爱郧书》的一句序言，这张专辑以他的偶像徐小凤的真名&amp;ldquo;徐郧书&amp;rdquo;命名，如同一封寄回80年代的情书，林一峰想要在这张概念专辑中传达一种跨越时代的力量。《爱郧书》如一瓶存放了二三十年的醇酒，虽然开封日期是2012，却仍可闻到一股很熟悉、踏实的味道。</div> |
@@ -68,7 +68,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5955204)<br><br>2014-03-28 00:29<br>赞(0) 踩(0) | <div>也要快乐地怀念昨天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33291776)<br><br>2014-03-08 16:12<br>赞(0) 踩(0) | <div>最近的新欢，写材料专用减压歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3102401)<br><br>2014-02-28 09:07<br>赞(1) 踩(0) | <div>“愿你知世事每是失去了预算 要接受的一刻哭笑难辨 就算某日某夜是谁经过了巨变 也要快乐地怀念昨天” …</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1671793)<br><br>2014-01-23 17:26<br>赞(1) 踩(0) | <div>願你知世事每是失去了預算要接受的一刻哭笑難辨就算某日某夜是誰經過了巨變也要快樂地懷念昨天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1671793)<br><br>2014-01-23 17:26<br>赞(1) 踩(0) | <div>願你知世事每是失去了預算<br>要接受的一刻哭笑難辨<br>就算某日某夜是誰經過了巨變<br>也要快樂地懷念昨天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11097173)<br> <br>2013-04-24 22:48<br>赞(1) 踩(0) | <div>但我知世事每是失去了预算/要接受的一刻哭笑难辨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5000057)<br><br>2012-12-06 15:11<br>赞(1) 踩(0) | <div>致敬意味浓厚，个人风格表露无遗，改编能力极高，声线清绵到极致。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/393188)<br><br>2012-11-16 01:14<br>赞(1) 踩(0) | <div>#置身于大时代之前 但我知世事每是失去了预算 要接受的一刻哭笑难辨#含泪去睡，明日预备抱着大夫小腿哭嗷。晚安，世界。</div> |

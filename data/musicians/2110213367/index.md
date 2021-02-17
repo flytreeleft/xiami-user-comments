@@ -3,13 +3,10 @@ GloomyAngel 陈怡男
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/013609717cc5f9f913ffbf520979a261.jpg)<br>GloomyAngel 陈怡男](https://i.xiami.com/fmzband) | **播放数**: 5253229<br>**粉丝数**: 5668<br>**评论数**: 97<br>**地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 流行摇滚 Pop Rock<br> |
+| [![](../../images/musicians/013609717cc5f9f913ffbf520979a261.jpg)<br>GloomyAngel 陈怡男](https://i.xiami.com/fmzband) | **地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 流行摇滚 Pop Rock<br>**播放数**: 5253229<br>**粉丝数**: 5668<br>**评论数**: 97<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -22,8 +19,8 @@ GloomyAngel 陈怡男
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47272774)<br>心有山海，静而无边。<br>2020-11-02 21:23<br>赞(0) 踩(0) | <div>宝藏&amp;zwj;☠️乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123382960)<br><br>2020-10-30 21:56<br>赞(0) 踩(0) | <div>加油，很不错，期待新作</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2972183)<br><br>2020-10-28 09:21<br>赞(0) 踩(0) | <div>开头就很惊艳啊，果断收藏</div> |
@@ -32,7 +29,7 @@ GloomyAngel 陈怡男
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419135606)<br><br>2020-02-19 11:16<br>赞(0) 踩(0) | <div>怎么不让我早点知道，晚听了这么久唉。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345465860)<br>あのね ため息つくと 幸...<br>2019-12-11 09:25<br>赞(0) 踩(0) | <div>什么时候出新啊！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346371444)<br><br>2019-12-10 13:06<br>赞(0) 踩(0) | <div>很真实的触动昨晚听了很久的旧时光</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1565424)<br><br>2019-08-11 22:08<br>赞(0) 踩(0) | <div>very goodI live</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1565424)<br><br>2019-08-11 22:08<br>赞(0) 踩(0) | <div>very good<br>I live</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3583995)<br>一個人的戰爭<br>2019-06-13 12:04<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195260503)<br><br>2019-06-11 21:09<br>赞(1) 踩(0) | <div>声音像美酒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328657369)<br>风格随心而变、<br>2019-05-24 20:42<br>赞(0) 踩(0) | <div></div> |
@@ -118,6 +115,6 @@ GloomyAngel 陈怡男
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323240490)<br><br>2017-12-12 00:13<br>赞(0) 踩(0) | <div>加油，喜欢你们的音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7642572)<br>跟着音乐，跟着心。<br>2018-01-22 22:25<br>赞(0) 踩(0) | <div>听了两首歌就路转粉了！看好你们哦！加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304533764)<br>忘了吧……<br>2018-03-20 21:17<br>赞(0) 踩(0) | <div>加油！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296722390)<br><br>2018-07-06 23:04<br>赞(0) 踩(0) | <div>希望你们能一直走下去专辑里的每一首歌都很好听</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296722390)<br><br>2018-07-06 23:04<br>赞(0) 踩(0) | <div>希望你们能一直走下去<br>专辑里的每一首歌都很好听</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275593037)<br><br>2019-10-26 21:37<br>赞(0) 踩(0) | <div>我不是太会说话，只想说音乐使人快乐，你也要保持快乐的心情去创作，去唱好每一首歌，加油，努力。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195522)<br><br>2020-07-10 11:17<br>赞(0) 踩(0) | <div>有想法的创作型歌手,希望能看到妳的更多作品.</div> |

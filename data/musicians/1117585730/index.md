@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d949417f9f1271de0ae06d33fe139b9e.jpg)<br>冰块先生](https://i.xiami.com/brian) | **播放数**: 8815764<br>**粉丝数**: 6009<br>**评论数**: 279<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 爵士说唱 Jazz Rap, 流行说唱 Pop Rap, 抽象说唱 Abstract Hip Hop<br> |
+| [![](../../images/musicians/d949417f9f1271de0ae06d33fe139b9e.jpg)<br>冰块先生](https://i.xiami.com/brian) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 爵士说唱 Jazz Rap, 流行说唱 Pop Rap, 抽象说唱 Abstract Hip Hop<br>**播放数**: 8815764<br>**粉丝数**: 6009<br>**评论数**: 279<br> |
 
 ## 档案
 
@@ -40,8 +40,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193075959)<br>。<br>2021-01-13 02:43<br>赞(0) 踩(0) | <div>看到手机提示更新公告栏就想哭了 不管是冰块先生还是虾米都要加油啊 <img src="../../images/comments/53d831ca9031b187055987747dbab37d.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-18 01:10<br>赞(1) 踩(0) | <div>43246</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299226398)<br><br>2020-06-17 20:45<br>赞(0) 踩(0) | <div>好喜欢</div> |
@@ -205,7 +205,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2226860)<br>✨<br>2015-12-03 23:33<br>赞(0) 踩(0) | <div><q><b>张笑恒说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38743446)<br>我还没想好要写什么...<br>2015-07-09 11:10<br>赞(1) 踩(0) | <div>声音完全理想型</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47372028)<br>期待更多<br>2015-07-06 16:04<br>赞(1) 踩(0) | <div>重复循环(想把你抱紧)，期待新歌！up up up!加油，会一直支持你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6117817)<br><br>2015-06-02 15:34<br>赞(1) 踩(0) | <div>什么时候发新歌阿！好期待！快来个演出什么的吧！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6117817)<br><br>2015-06-02 15:34<br>赞(1) 踩(0) | <div>什么时候发新歌阿！<br>好期待！<br>快来个演出什么的吧！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43354035)<br><br>2015-06-02 01:13<br>赞(4) 踩(0) | <div>不要脸的冰块先生，整天去别人的评论里说什么人家曲风又和你很像，还是你的好一些，这样子刷自己有意思吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47372028)<br>期待更多<br>2015-07-06 16:21<br>赞(0) 踩(0) | <div>可能是我们这样的粉丝发的吧，音乐只是用来听或喜欢的，你也太认真了吧，哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87398)<br>藏不住的是你最珍贵的倔强<br>2015-05-26 16:08<br>赞(3) 踩(0) | <div>声音太好听了。</div> |

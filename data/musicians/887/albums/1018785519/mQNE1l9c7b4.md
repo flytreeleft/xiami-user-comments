@@ -59,8 +59,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374894737)<br>御风而行，泠然善也<br>2021-01-11 17:54<br>赞(0) 踩(0) | <div>bingo <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53704794)<br>晓看天色暮看云，行也思君...<br>2021-01-02 22:07<br>赞(1) 踩(0) | <div>送给那些消失或者不在的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73417714)<br>加油<br>2020-12-12 05:29<br>赞(0) 踩(0) | <div>棒</div> |
@@ -72,12 +72,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414198530)<br><br>2020-08-19 22:12<br>赞(1) 踩(0) | <div>去了趟锡林郭勒。草原都被牧民用铁丝网起来了。以为他们是防狼的。后来和他们啦熟了。回答说是防人的。说是游人的车压了他们的草原。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349256510)<br>给我快乐<br>2020-08-09 14:47<br>赞(0) 踩(0) | <div>沧桑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346852392)<br>爱上你，直到以后的以后。<br>2020-07-25 06:24<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268177145)<br>音乐无国界，期待与优雅慈...<br>2020-07-23 11:51<br>赞(2) 踩(0) | <div>【沧浪之歌】------汪峰我迷乱 我迷乱人生的朋友我发誓我们终将会分离发誓我们 我们将永世不渝当我的悲伤宽广如天空用你想念我的方式敬仰我用你遗忘我的风格憎恨我不要探寻所有我无为的迷惘我污浊可我热爱飞翔用你轻取我的方式厮守我用你放任我的风格离开我不要怀疑我踉跄的荣耀我渺小可我眷恋流放我要唱首沧浪之歌响彻在这大地用那最猛烈的孤独找寻你那失落的骄傲我要唱首沧浪之歌穿越在这江河用那最汹涌的卑微救赎我们幻灭的渴望我要唱首沧浪之歌响彻在这大地用那最猛烈的孤独找寻你那失落的骄傲我要唱首沧浪之歌穿越在这江河用那最汹涌的卑微救赎我们幻灭的渴望</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268177145)<br>音乐无国界，期待与优雅慈...<br>2020-07-23 11:51<br>赞(2) 踩(0) | <div>【沧浪之歌】<br>------汪峰<br><br>我迷乱 我迷乱人生的朋友<br>我发誓我们终将会分离<br>发誓我们 我们将永世不渝<br>当我的悲伤宽广如天空<br>用你想念我的方式敬仰我<br>用你遗忘我的风格憎恨我<br>不要探寻所有我无为的迷惘<br>我污浊可我热爱飞翔<br>用你轻取我的方式厮守我<br>用你放任我的风格离开我<br>不要怀疑我踉跄的荣耀<br>我渺小可我眷恋流放<br>我要唱首沧浪之歌<br>响彻在这大地<br>用那最猛烈的孤独<br>找寻你那失落的骄傲<br>我要唱首沧浪之歌<br>穿越在这江河<br>用那最汹涌的卑微<br>救赎我们幻灭的渴望<br>我要唱首沧浪之歌<br>响彻在这大地<br>用那最猛烈的孤独<br>找寻你那失落的骄傲<br>我要唱首沧浪之歌<br>穿越在这江河<br>用那最汹涌的卑微<br>救赎我们幻灭的渴望</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443147373)<br><br>2020-07-06 13:01<br>赞(2) 踩(0) | <div>很多，很多年以前，那个连续一个月在图书馆端坐的我，看着姜戎那本《狼图腾》思绪总能奔腾在广袤的草原上，青春真好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443643254)<br><br>2020-06-26 15:45<br>赞(2) 踩(0) | <div>就喜欢汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10132098)<br>做个俗人，贪财好色！只撑...<br>2020-06-16 00:18<br>赞(1) 踩(0) | <div>电影没看，看得书。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-05-28 10:12<br>赞(0) 踩(0) | <div>汪汪汪</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441600686)<br><br>2020-04-07 21:19<br>赞(3) 踩(0) | <div>从来没去过汪峰的演唱会。一定得去一次。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441600686)<br><br>2020-04-07 21:19<br>赞(3) 踩(0) | <div>从来没去过汪峰的演唱会。<br>一定得去一次。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34413503)<br>花卷好吃<br>2020-03-27 08:11<br>赞(1) 踩(0) | <div>沧浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355462043)<br><br>2020-03-20 11:40<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/29cf103b88c33e19563095897485c32a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341933052)<br><br>2020-03-10 18:38<br>赞(3) 踩(0) | <div>够狼没有人进化的那么完美，但狼性格我们一生都无法学会……</div> |
@@ -96,7 +96,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1251506)<br><br>2019-08-23 00:19<br>赞(0) 踩(0) | <div>意境如歌，滄浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428394634)<br><br>2019-08-12 11:16<br>赞(0) 踩(0) | <div>好歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421336987)<br><br>2019-07-30 20:50<br>赞(45) 踩(0) | <div>《沧浪之歌》是以狼的角度来与人对话并抒发情感。整首作品处于苍凉而悠远的气氛中，前奏里高亢的蒙调人声，一二段之间过门处响起的马头琴声，都很优美动听，属于极有深度的音乐作品。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354233913)<br><br>2019-07-02 23:12<br>赞(3) 踩(0) | <div>1/现在的人们愿意在评论别人中找自己的存在感。2/鲍家街43号是汪峰最好的，花火也可以后来也有很多不错的3/人要理解人生中的变化，4/真正音乐人的不自由，看看李痣，再看看平克弗洛伊德唱的一句歌词------govermen,t再次欺骗了她5/一个人根本不能完全了解另一个人，就连最亲的人也是，其实大部分连自己都不了解67.......不要点赞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354233913)<br><br>2019-07-02 23:12<br>赞(3) 踩(0) | <div>1/现在的人们愿意在评论别人中找自己的存在感。<br>2/鲍家街43号是汪峰最好的，花火也可以后来也有很多不错的<br>3/人要理解人生中的变化，<br>4/真正音乐人的不自由，看看李痣，再看看平克弗洛伊德唱的一句歌词------govermen,t再次欺骗了她<br>5/一个人根本不能完全了解另一个人，就连最亲的人也是，其实大部分连自己都不了解<br>6<br>7<br>.......<br>不要点赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349255414)<br>日边清梦断，镜里朱颜改<br>2019-06-16 15:39<br>赞(0) 踩(0) | <div>还是很不错的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321218311)<br>自由和爱是最重要的小事。<br>2019-06-12 19:25<br>赞(1) 踩(0) | <div>比起英文版的，中文版更打动我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314369967)<br>享受生活吧！<br>2019-06-02 14:13<br>赞(0) 踩(0) | <div>喜欢他的歌</div> |
@@ -120,7 +120,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194857972)<br>告诉QQ音乐酷狗、网易云...<br>2019-04-02 19:14<br>赞(3) 踩(0) | <div>自从他穿上了皮裤就束缚住了他的小鸟</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355230298)<br><br>2019-04-03 00:58<br>赞(0) 踩(0) | <div>嗯，这下抓住要点了，优秀!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410959159)<br><br>2019-04-02 00:34<br>赞(0) 踩(0) | <div>不错不错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356580377)<br><br>2019-03-30 19:33<br>赞(4) 踩(0) | <div>听歌，旋律编曲之外，词句之上，歌者的演绎和嗓音特质综合呈现的气质于我很重要。这嗓子我爱了多年：沙哑得是很有男性魅力；沙哑之中，又有总有温存、甚至深情温柔；而在这沙哑之外，时而穿插的一种撕裂，则会让人心疼——这些特质，在这个中文版本中，都恰到好处地极致演绎出来了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356580377)<br><br>2019-03-30 19:33<br>赞(4) 踩(0) | <div>听歌，旋律编曲之外，词句之上，歌者的演绎和嗓音特质综合呈现的气质于我很重要。<br>这嗓子我爱了多年：沙哑得是很有男性魅力；沙哑之中，又有总有温存、甚至深情温柔；而在这沙哑之外，时而穿插的一种撕裂，则会让人心疼——这些特质，在这个中文版本中，都恰到好处地极致演绎出来了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411318725)<br><br>2019-03-15 17:36<br>赞(1) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263725029)<br><br>2019-03-14 17:29<br>赞(2) 踩(0) | <div>这作曲黄勇是那个参加好声音第一季的吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294376283)<br>一流军迷，二流球迷，三流...<br>2019-03-13 11:09<br>赞(2) 踩(0) | <div>电影小说都值得反复观看</div> |
@@ -152,10 +152,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353800941)<br><br>2018-10-02 09:58<br>赞(1) 踩(0) | <div>这首主题曲比电影还有意境了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376001600)<br><br>2018-09-19 18:32<br>赞(1) 踩(0) | <div>沉浸其中，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27122274)<br>我们不说，就没有改变。我...<br>2018-09-02 13:17<br>赞(1) 踩(0) | <div>指定主题的歌是最难写的，尤其是要与电影主旨画面相呼应。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347786240)<br><br>2018-08-11 21:40<br>赞(2) 踩(0) | <div>我放弃过长的言语去评论。这首词～没有比这首词更适合生而为人的我自己。是狼或是麋鹿，是你或也是我自己，也什么都不是。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347786240)<br><br>2018-08-11 21:40<br>赞(2) 踩(0) | <div>我放弃过长的言语去评论。<br>这首词～没有比这首词更适合生而为人的我自己。是狼或是麋鹿，是你或也是我自己，也什么都不是。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246223734)<br><br>2018-08-11 07:56<br>赞(1) 踩(0) | <div>z/赵'''zzzzzzzzzzz zzzzzzzzZZZZ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300158062)<br>我还没想好要写什么...<br>2018-08-08 18:58<br>赞(1) 踩(0) | <div>是 啊啊 啊咋</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23069105)<br><br>2018-08-08 17:31<br>赞(0) 踩(0) | <div>v 哦 肉咯哦是人生。人tzlo rqcs太热</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23069105)<br><br>2018-08-08 17:31<br>赞(0) 踩(0) | <div>v 哦 肉咯哦是人生。人tzlo rqcs<br>太热</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400194964)<br><br>2018-08-03 23:04<br>赞(0) 踩(0) | <div>这部电影和这首歌有点不符合。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82427848)<br><br>2018-07-14 16:25<br>赞(1) 踩(0) | <div>#此评论无意义</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305394410)<br>No pains αnd...<br>2018-07-13 22:41<br>赞(1) 踩(0) | <div>好听</div> |
@@ -286,7 +286,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122077210)<br><br>2017-07-01 01:21<br>赞(0) 踩(0) | <div><q><b>JING说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16727837)<br>随心所欲<br>2016-10-17 23:45<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83076398)<br>ᠮᠥᠩᠬᠡ ᠶᠢᠨ ᠭᠠ...<br>2016-10-12 00:51<br>赞(0) 踩(0) | <div>你们都不懂，</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10816989)<br>天真有邪<br>2016-10-11 13:29<br>赞(307) 踩(0) | <div>不苟同热评。狼图腾并非纯粹蒙古的故事，而是现代文明和古老文明之间的冲突、矛盾。这个故事处处是矛盾对立面的碰撞，人性与狼性、人与自然、文明与野蛮。故事的结局深深的悲怆之感，这首歌，蛮契合。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10816989)<br>天真有邪<br>2016-10-11 13:29<br>赞(307) 踩(0) | <div>不苟同热评。<br>狼图腾并非纯粹蒙古的故事，而是现代文明和古老文明之间的冲突、矛盾。这个故事处处是矛盾对立面的碰撞，人性与狼性、人与自然、文明与野蛮。<br>故事的结局深深的悲怆之感，这首歌，蛮契合。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282315215)<br><br>2017-06-20 04:23<br>赞(0) 踩(0) | <div>x➌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333571473)<br><br>2017-11-23 00:09<br>赞(0) 踩(0) | <div>对对对</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365631640)<br><br>2019-05-24 22:24<br>赞(0) 踩(0) | <div>嗯，幸运的是这本书在那个时候初版了，大家有幸可以看到，放在今天估计初版都困难。。。</div> |
@@ -313,8 +313,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3098362)<br>帽落处即是家<br>2016-07-10 09:44<br>赞(1) 踩(0) | <div>半壁名作 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174233290)<br>岁月不饶人，我亦未饶过岁...<br>2016-07-05 10:56<br>赞(0) 踩(0) | <div>l汪半壁 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/826134)<br>暂无签名~<br>2016-06-15 00:01<br>赞(4) 踩(0) | <div>汪峰峰的歌还是苍劲 内涵 饱含生活经验啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186683822)<br><br>2016-06-11 23:44<br>赞(2) 踩(0) | <div>我要唱首沧浪之歌响彻在这大地用那最猛烈的孤独找寻你那失落的骄傲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186683822)<br><br>2016-06-11 23:43<br>赞(2) 踩(0) | <div>我要唱首沧浪之歌响彻在这大地用那最猛烈的孤独找寻你那失落的骄傲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186683822)<br><br>2016-06-11 23:44<br>赞(2) 踩(0) | <div>我要唱首沧浪之歌<br>响彻在这大地<br>用那最猛烈的孤独<br>找寻你那失落的骄傲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186683822)<br><br>2016-06-11 23:43<br>赞(2) 踩(0) | <div>我要唱首沧浪之歌<br>响彻在这大地<br>用那最猛烈的孤独<br>找寻你那失落的骄傲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/844220)<br>我还没想好要写什么...<br>2016-06-09 17:41<br>赞(2) 踩(0) | <div>#Lucy的每日一歌#汪头条的这首歌写的不错，能听出广阔的感觉～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50562418)<br>适逢其会，未来可期<br>2016-05-22 19:40<br>赞(35) 踩(0) | <div>听歌   别瞎BB</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43722618)<br><br>2016-05-06 09:19<br>赞(2) 踩(0) | <div>单纯听歌！挺好听的</div> |
@@ -447,7 +447,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8269655)<br><br>2015-04-13 23:32<br>赞(0) 踩(0) | <div>前段时间下载过。。很好听，，喜欢这种感觉，，再次分享。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48438841)<br> <br>2015-04-11 12:52<br>赞(3) 踩(0) | <div>不让腾格尔唱可惜了。有些东西强加不行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12086748)<br>我还没想好要写什么...<br>2015-04-08 13:57<br>赞(0) 踩(0) | <div>单曲循环</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31499218)<br><br>2015-04-04 20:07<br>赞(0) 踩(0) | <div>这首狼图腾主题曲沧浪之歌，虽然是汪峰唱的，作曲却不是他，而是中国爵士协会秘书长，金佛爵士乐团的贝斯手黄勇。昨天刚看完他们的“中俄巅峰爵士音乐会”。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31499218)<br><br>2015-04-04 20:07<br>赞(0) 踩(0) | <div>这首狼图腾主题曲沧浪之歌，虽然是汪峰唱的，作曲却不是他，而是中国<br>爵士协会秘书长，金佛爵士乐团的贝斯手黄勇。昨天刚看完他们的“中俄巅峰爵士音乐会”。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48010527)<br>我怀念的是什么？<br>2015-03-29 20:03<br>赞(1) 踩(0) | <div>大气沧桑的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46931664)<br><br>2015-03-25 18:10<br>赞(1) 踩(0) | <div>一双不留痕的白眼，一张棱角肃穆的脸。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37666323)<br><br>2015-03-16 08:38<br>赞(1) 踩(0) | <div>沧浪之歌</div> |
@@ -525,7 +525,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46473554)<br><br>2015-02-16 08:41<br>赞(0) 踩(0) | <div>歌很大气，声音表现的有些过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12808338)<br>一个念头，就是一个小宇宙<br>2015-02-16 00:44<br>赞(0) 踩(0) | <div>喜欢这首歌，尤其是歌词，与人无关</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44087773)<br><br>2015-02-15 20:20<br>赞(0) 踩(0) | <div>好词</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46502703)<br><br>2015-02-15 18:52<br>赞(0) 踩(0) | <div>看过这本书，建议看，有深刻的含义在里面。狼纵有千般残忍，也抵不过奸邪小人的一抹隐笑。杀天鹅，践草原，屠獭山，灭野狼，一时间镜湖碧草上血迹斑斑，一帮东北而来的农民却做土皇帝做得过瘾，抓起天鹅肉大快朵颐。茫茫草原不再，连心中一点良知信仰也荡然无存。见此满目疮痍，有识之士也无力回天。天地之哀，人性之哀，莫过于此。&nbsp;　　&nbsp;不能不承认，如果不是五千年来，如匈奴等草原民族不断与内地争战，真难想象这享乐迷乱的本性会贻误华夏子孙多少。深夜绵长的狼嗥，是警钟，也是教鞭，指引着走向正途。仅仅代表个人想法，不喜勿喷。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46502703)<br><br>2015-02-15 18:52<br>赞(0) 踩(0) | <div>看过这本书，建议看，有深刻的含义在里面。<br>狼纵有千般残忍，也抵不过奸邪小人的一抹隐笑。杀天鹅，践草原，屠獭山，灭野狼，一时间镜湖碧草上血迹斑斑，一帮东北而来的农民却做土皇帝做得过瘾，抓起天鹅肉大快朵颐。<br>茫茫草原不再，连心中一点良知信仰也荡然无存。见此满目疮痍，有识之士也无力回天。天地之哀，人性之哀，莫过于此。&nbsp;　　&nbsp;<br>不能不承认，如果不是五千年来，如匈奴等草原民族不断与内地争战，真难想象这享乐迷乱的本性会贻误华夏子孙多少。深夜绵长的狼嗥，是警钟，也是教鞭，指引着走向正途。<br><br>仅仅代表个人想法，不喜勿喷。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47340419)<br>暂无签名~<br>2015-02-18 08:46<br>赞(0) 踩(0) | <div>十年前还上小学时读的狼图腾。十年后的大学里，一只狼都没有。一群汉人。就像你说的那样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3795036)<br><br>2015-02-15 15:36<br>赞(1) 踩(0) | <div>wolf totem</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43963013)<br>‭<br>2015-02-15 14:06<br>赞(0) 踩(0) | <div>为什么一部描写蒙古族的电影的主题曲要让一个只会争着上头条的傻逼近视眼死汉人王粉唱 民族缢死</div> |
@@ -571,7 +571,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45648608)<br><br>2015-01-24 07:56<br>赞(0) 踩(0) | <div>听汪峰的歌曲，就是一种心情的分享，一种向往的追求！……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3310641)<br><br>2015-01-21 16:37<br>赞(0) 踩(0) | <div>请各位支持下我的原创歌曲《那是你最好的时候》，非常感谢！<a href="http://www.xiami.com/song/1773871688?spm=a1z1s.3521865.23309997.2.N9nUfB" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1773871688?spm=a1z1s.3521865.23309997.2.N9nUfB</a></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41775126)<br><br>2015-01-21 08:39<br>赞(0) 踩(0) | <div>小狼小狼，你还好吗，我怀念你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9748820)<br>☢我們都是偉大科學家☢<br>2015-01-20 02:58<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/1771706925" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771706925</a>&amp;lt;那些年,我们一起下过的女孩&amp;gt;---谨以此歌献给我们曾经挚爱的AV女优睡不着的来听下午夜福利吧O(∩_∩)O</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9748820)<br>☢我們都是偉大科學家☢<br>2015-01-20 02:58<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/1771706925" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1771706925</a><br>&amp;lt;那些年,我们一起下过的女孩&amp;gt;---谨以此歌献给我们曾经挚爱的AV女优<br><br>睡不着的来听下午夜福利吧O(∩_∩)O</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39245766)<br><br>2015-01-18 08:56<br>赞(0) 踩(0) | <div>超好听</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36903404)<br>驾驭所有歌曲<br>2015-01-22 12:17<br>赞(0) 踩(0) | <div>你把我照片放你头像上做什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46092473)<br><br>2015-01-16 23:14<br>赞(0) 踩(0) | <div>好听</div> |
@@ -607,7 +607,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339533522)<br><br>2020-03-09 19:16<br>赞(0) 踩(0) | <div><q><b>微微淡痛说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341933052)<br><br>2020-03-10 18:41<br>赞(0) 踩(0) | <div>或许吧……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5857441)<br><br>2015-01-04 19:18<br>赞(0) 踩(0) | <div>沧浪区之歌？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42178602)<br><br>2015-01-04 09:30<br>赞(0) 踩(0) | <div>我要唱首沧浪之歌，响彻在这大地，用那最猛烈的孤独，找寻你那失落的骄傲；我要唱首沧浪之歌，穿越在这江河用那最汹涌的卑微，救赎我们幻灭的渴望～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42178602)<br><br>2015-01-04 09:30<br>赞(0) 踩(0) | <div>我要唱首沧浪之歌，响彻在这大地，用那最猛烈的孤独，找寻你那失落的骄傲；我要唱首沧浪之歌，穿越在这江河<br>用那最汹涌的卑微，救赎我们幻灭的渴望～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43493094)<br><br>2015-01-02 19:03<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44256718)<br>暂无签名~<br>2015-01-02 18:54<br>赞(0) 踩(0) | <div>听了一遍又一遍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45482029)<br> <br>2015-01-02 12:51<br>赞(0) 踩(0) | <div>好歌</div> |
@@ -622,11 +622,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41561447)<br>灵气。<br>2014-12-28 19:36<br>赞(0) 踩(0) | <div>一循环就是一天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40296268)<br><br>2014-12-28 10:32<br>赞(0) 踩(0) | <div>中间有一小段是马头琴吧，极具草原风格，好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45237221)<br><br>2014-12-28 01:46<br>赞(0) 踩(0) | <div>呵呵 白岩松唱的不错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23495304)<br>暂无签名~<br>2014-12-28 01:24<br>赞(346) 踩(0) | <div>汪峰的音乐我一直都很喜欢，这部片子我也很期待。可我在脑子里幻想出这部影片的每一场面时 突然出现这个声音我特别难受，感觉到胸腔里有个部位使劲的抽缩着痛，特别的不舒服。这部片子中讲述的是在内蒙古大草原上，牧民与狼为了生存而彼此展开搏杀的故事。这音乐里我也实在是听不出与影片故事叙事该有的关系。更别说草原，狼，牧民......等，什么都感受不到。就像这首歌的编曲一样 前奏一段很美的马头琴+长调然后又接着.........哎....。这片曲只有腾格尔能唱出那种感觉。有些东西是骨子里的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23495304)<br>暂无签名~<br>2014-12-28 01:24<br>赞(346) 踩(0) | <div>汪峰的音乐我一直都很喜欢，这部片子我也很期待。可我在脑子里幻想出这部影片的每一场面时 突然出现这个声音我特别难受，感觉到胸腔里有个部位使劲的抽缩着痛，特别的不舒服。这部片子中讲述的是在内蒙古大草原上，牧民与狼为了生存而彼此展开搏杀的故事。这音乐里我也实在是听不出与影片故事叙事该有的关系。更别说草原，狼，牧民......等，什么都感受不到。就像这首歌的编曲一样 前奏一段很美的马头琴+长调然后又接着.........哎....。<br>这片曲只有腾格尔能唱出那种感觉。<br>有些东西是骨子里的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18556456)<br><br>2014-12-28 01:55<br>赞(0) 踩(0) | <div>同感</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39742690)<br><br>2014-12-28 13:24<br>赞(0) 踩(0) | <div>为什么我都听得出</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7371416)<br>@小景音乐电台<br>2015-01-28 22:03<br>赞(0) 踩(0) | <div>听了几遍真的觉得这首歌腾格尔来唱会更震撼力！！！！特别是副歌一唱就让我想到腾格尔那首歌苍狼大地！那种形象那种奔放！！！</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5910165)<br>彼岸花，开一千年，落一千...<br>2015-02-03 15:49<br>赞(0) 踩(0) | <div>听不出，也许是要的感觉不同吧。我们是人类所以认为这歌从人类的角度歌颂草原和那里民族。听得出，因为是不同的角度，一部分是看过此书的人，一部分是我这样的听歌党。个人感觉，这首歌是以曾经的草原霸主---狼的角度去吟唱，那种属于狼的无畏、坚贞和孤傲。每次听到高潮时，总有胸口闷痛和无奈，泪水沁润眼眶的濡湿。一种孤傲的绝望和无惧生死的绝决。属于狼的深沉的对于草原的依赖和爱恋，对于生存的艰难跋涉和挣扎。。。。对于摇滚，我了解不多。但摇滚给我的感觉多是述说沧桑和梦想还有不死鸟一样的精神。所以，诠释的也算准确了。电影的主旨，在于重新审视人与自然，人与万物之间的关系；重新审视我们的无知和自私；重新审视生存的真谛。以上都是本人的一点拙见，有感所发，请见谅。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5910165)<br>彼岸花，开一千年，落一千...<br>2015-02-03 15:49<br>赞(0) 踩(0) | <div>听不出，也许是要的感觉不同吧。我们是人类所以认为这歌从人类的角度歌颂草原和那里民族。<br>听得出，因为是不同的角度，一部分是看过此书的人，一部分是我这样的听歌党。<br>个人感觉，这首歌是以曾经的草原霸主---狼的角度去吟唱，那种属于狼的无畏、坚贞和孤傲。<br>每次听到高潮时，总有胸口闷痛和无奈，泪水沁润眼眶的濡湿。一种孤傲的绝望和无惧生死的绝决。属于狼的深沉的对于草原的依赖和爱恋，对于生存的艰难跋涉和挣扎。。。。<br>对于摇滚，我了解不多。但摇滚给我的感觉多是述说沧桑和梦想还有不死鸟一样的精神。所以，诠释的也算准确了。<br>电影的主旨，在于重新审视人与自然，人与万物之间的关系；重新审视我们的无知和自私；重新审视生存的真谛。<br>以上都是本人的一点拙见，有感所发，请见谅。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8295545)<br>所见的是暂时的，所不见的...<br>2015-02-03 22:17<br>赞(0) 踩(0) | <div><q><b>素寂常说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17115825)<br>星辰下有我的梦<br>2016-02-16 20:38<br>赞(0) 踩(0) | <div>看书吧，书比电影好看</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52524026)<br> <br>2017-06-11 10:12<br>赞(0) 踩(0) | <div>你是没看懂这部电影啊 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
@@ -649,7 +649,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45262785)<br><br>2014-12-25 10:10<br>赞(0) 踩(0) | <div>每时每刻，都有一首唤醒回忆的歌~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6576113)<br>杂食的耳朵。从耳<br>2014-12-24 21:40<br>赞(0) 踩(0) | <div>歌词果然很汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11188278)<br>马拉松跑者，运动创业<br>2014-12-23 20:19<br>赞(0) 踩(0) | <div>你听见心里的声音了吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9197818)<br>Byebye<br>2014-12-23 12:56<br>赞(1) 踩(0) | <div>第一次听毫无感觉，现在却成了单曲循环。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9197818)<br>Byebye<br>2014-12-23 12:56<br>赞(1) 踩(0) | <div>第一次听毫无感觉，<br>现在却成了单曲循环。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40493469)<br>希望网易云音乐早点倒闭<br>2014-12-22 22:05<br>赞(1) 踩(0) | <div>硬要说的话。。也不算特别难听。。不过确实和狼图腾不搭调啊。。。歌词旋律唱腔都不搭调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10049398)<br>暂无签名~<br>2014-12-22 15:39<br>赞(0) 踩(0) | <div>脑海中浮现出草原 不管是不是先入为主 歌很不错 电影也不会让我们失望吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1424818)<br>我还没想好要写什么...<br>2014-12-22 13:14<br>赞(0) 踩(0) | <div>有点像我心中的花色呢？</div> |
@@ -668,14 +668,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12138348)<br>暂无签名~<br>2014-12-21 01:39<br>赞(0) 踩(0) | <div>这呢这呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8865162)<br>Freedom<br>2014-12-21 00:28<br>赞(0) 踩(0) | <div>不知是是汪峰现在形象的娱乐性导致各种呵呵还是怎么的 总之我个人非常非常喜欢 还有就是看了这个MV配着的电影画面就整个被震撼了 勿被偏见迷失了判断 但也可能就是萝卜白菜各有所爱了吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41534919)<br><br>2014-12-20 22:35<br>赞(0) 踩(0) | <div>沧浪之歌。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4470168)<br><br>2014-12-20 20:29<br>赞(0) 踩(0) | <div>音帝的人生：悲伤，迷惘，飞翔，哭泣，孤独。敢不敢换换？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4470168)<br><br>2014-12-20 20:29<br>赞(0) 踩(0) | <div>音帝的人生：悲伤，迷惘，飞翔，哭泣，孤独。<br>敢不敢换换？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29696442)<br><br>2015-05-18 16:30<br>赞(0) 踩(0) | <div>《请把我在路上叫醒》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31932011)<br>音乐是生活的组成部分<br>2014-12-20 20:28<br>赞(0) 踩(0) | <div>听了一整天了，越听越入耳入心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31932011)<br>音乐是生活的组成部分<br>2014-12-20 20:25<br>赞(0) 踩(0) | <div>非常棒的一首歌，汪峰是独一无二的～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43826932)<br><br>2014-12-20 19:49<br>赞(0) 踩(0) | <div>应该让许巍或腾格尔唱</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13810954)<br>我们做到，让你知道你错了...<br>2015-01-29 12:31<br>赞(0) 踩(0) | <div>我也这么认为</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43641082)<br><br>2014-12-20 13:36<br>赞(1) 踩(0) | <div>感觉《狼图腾》蒋戎探讨的除了狼魂之外，应该还有农耕文明，草原文明的碰撞与湮灭，这首歌如果是懂这个主题的好嗓音蒙古歌手可能会更好，但是从歌曲的传唱和电影传播商业价值上来说，汪峰无疑是最佳人选了，不仅仅是他目前在娱乐圈毁誉参半的关注度，还与其作品风格更多的展示个人面对城市和自我的迷茫分不开， 人是这样，一个文明也应该是这样吧，最原始的状态或许就是孤独的。 所以从这个角度来说，腾格尔和韩磊等这些卓越歌手反而不适合了。不管肿么说，还是十分期待十年磨一剑的这部电影。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43530078)<br>明天冰雪封山的时候我也光...<br>2014-12-22 13:09<br>赞(0) 踩(0) | <div>记得小学四年级时背着家人偷看的《狼图腾》，那种荡气回肠热血而又悲壮苍凉的基调至今还记得，如今十几年过去了，年少的我随着过度开垦放牧的草原连同草原狼一并消失了，只留下马头琴声在日夜地幽咽，我们又将去往何方，魂归何处……我还蛮喜欢汪峰这首歌的，只是高潮少了一些怒吼控诉和咆哮。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43530078)<br>明天冰雪封山的时候我也光...<br>2014-12-22 13:09<br>赞(0) 踩(0) | <div>记得小学四年级时背着家人偷看的《狼图腾》，那种荡气回肠热血而又悲壮苍凉的基调至今还记得，如今十几年过去了，年少的我随着过度开垦放牧的草原连同草原狼一并消失了，只留下马头琴声在日夜地幽咽，我们又将去往何方，魂归何处……<br>我还蛮喜欢汪峰这首歌的，只是高潮少了一些怒吼控诉和咆哮。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43641082)<br><br>2014-12-22 21:26<br>赞(0) 踩(0) | <div><q><b>左岸南柯说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43530078)<br>明天冰雪封山的时候我也光...<br>2014-12-22 21:43<br>赞(0) 踩(0) | <div><q><b>司马狼石说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43641082)<br><br>2014-12-20 12:41<br>赞(0) 踩(0) | <div>专业编曲，副歌什么的，普通听众一枚，不大了解，但就主题来说，个人觉得这首歌挺好的呀。就像小说中说的，随着农耕和工业文明对于草原的侵蚀，无论是草原人还是草原狼处境其实都是很悲凉的，"用你想念我的方式敬仰我，用你遗忘我的方式憎恨我"。草原民族相信狼是腾格里派到草原来保护草原的，还会把崇拜腾格里的人的灵魂带上腾格里，这跟后来的出来的一些什么商业狼道法则完全不是一个性质。所以，"不要怀疑我踉跄的荣耀，我渺小可我眷恋流放"狼是图腾，它在这本小说中完全是配的上"骄傲"两个字的，这大概也是为什么主人公最后宁可打死小狼而不愿意让它痛苦的圈养的原因吧。</div> |
@@ -837,9 +837,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16051038)<br><br>2014-12-17 13:02<br>赞(0) 踩(0) | <div>歌意外的美啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13149768)<br><br>2014-12-17 12:55<br>赞(0) 踩(0) | <div>来了!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26453029)<br>暂无签名~<br>2014-12-17 12:45<br>赞(1) 踩(0) | <div>治愈神曲，无效退款~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43779070)<br><br>2014-12-17 12:32<br>赞(1) 踩(0) | <div>听过之后，感到一种大悲无语的悲伤、苍凉之后，又有一种绝境中坚持的力量和孤傲。。。汪峰的嗓音和填词，非常棒啊！！！喜欢，，，奉劝大家夜里不要听，估计会哭不停的。。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43779070)<br><br>2014-12-17 12:31<br>赞(1) 踩(0) | <div>听过之后，感到一种大悲无语的悲伤、苍凉之后，又有一种绝境中坚持的力量和孤傲。。。汪峰的嗓音和填词，非常棒啊！！！喜欢，，，奉劝大家夜里不要听，估计会哭不停的。。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43779070)<br><br>2014-12-17 12:30<br>赞(1) 踩(0) | <div>听过之后，感到一种大悲无语的悲伤、苍凉之后，又有一种绝境中坚持的力量和孤傲。。。汪峰的嗓音和填词，非常棒啊！！！喜欢，，，奉劝大家夜里不要听，估计会哭不停的。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43779070)<br><br>2014-12-17 12:32<br>赞(1) 踩(0) | <div>听过之后，感到一种大悲无语的悲伤、苍凉之后，又有一种绝境中坚持的力量和孤傲。。。<br>汪峰的嗓音和填词，非常棒啊！！！<br>喜欢，，，奉劝大家夜里不要听，估计会哭不停的。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43779070)<br><br>2014-12-17 12:31<br>赞(1) 踩(0) | <div>听过之后，感到一种大悲无语的悲伤、苍凉之后，又有一种绝境中坚持的力量和孤傲。。。<br>汪峰的嗓音和填词，非常棒啊！！！<br>喜欢，，，奉劝大家夜里不要听，估计会哭不停的。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43779070)<br><br>2014-12-17 12:30<br>赞(1) 踩(0) | <div>听过之后，感到一种大悲无语的悲伤、苍凉之后，又有一种绝境中坚持的力量和孤傲。。。<br>汪峰的嗓音和填词，非常棒啊！！！<br>喜欢，，，奉劝大家夜里不要听，估计会哭不停的。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29067719)<br>不想被遗忘在角落地幻想着...<br>2014-12-17 12:24<br>赞(3) 踩(0) | <div>这歌真大气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11734445)<br> <br>2014-12-17 12:21<br>赞(1) 踩(0) | <div>男神新作！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34999952)<br>前 卫 金 <br>2014-12-17 12:15<br>赞(0) 踩(0) | <div>音帝？</div> |

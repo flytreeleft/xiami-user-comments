@@ -12,17 +12,14 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9307934)<br>时间从来不语 却回答了所...<br>2018-08-01 08:05<br>赞(0) 踩(0) | <div>安眠曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332103121)<br><br>2018-07-07 06:36<br>赞(1) 踩(0) | <div>对我来说是一个美好的回忆。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351835198)<br>万物都有定时<br>2018-03-10 18:38<br>赞(2) 踩(0) | <div>《夢見晨露》鋼琴響起給人以一種清新、淡雅、悠揚的感覺。業內人士曾評價他&amp;ldquo;有着蕭邦的氣質，以及德布西的慵懶與優雅&amp;rdquo;,具有George Winston 親和而強烈的旋律性，及Keith jarrett豐富而充滿想像的思考性。 <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351835198)<br>万物都有定时<br>2018-03-10 18:38<br>赞(2) 踩(0) | <div>《夢見晨露》鋼琴響起給人以一種清新、淡雅、悠揚的感覺。<br>業內人士曾評價他&amp;ldquo;有着蕭邦的氣質，以及德布西的慵懶與優雅&amp;rdquo;,具有George Winston 親和而強烈的旋律性，及Keith jarrett豐富而充滿想像的思考性。 <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348266395)<br>不忘初心<br>2018-02-12 20:49<br>赞(1) 踩(0) | <div>仿佛回到过去 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9307934)<br>时间从来不语 却回答了所...<br>2017-12-12 00:35<br>赞(1) 踩(0) | <div>安眠曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3593575)<br><br>2017-10-27 23:16<br>赞(1) 踩(0) | <div>如果当年，爸爸不是那样严格的要求，闭气漂浮的感觉不会姗姗来迟，不会20多年后才感受到那份享受。回想着水中的感觉，畅想着如果是在天上自由下落，又会是什么样的感受？</div> |

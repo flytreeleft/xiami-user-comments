@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e64e7cdccf19fd5527f8b316972d3d16.jpg)<br>齐栾](https://i.xiami.com/wessia3507) | **播放数**: 3218505<br>**粉丝数**: 2264<br>**评论数**: 101<br>**地区**: China 中国大陆<br>**风格**: 日本流行 J-Pop, 韩国流行 K-Pop, 古风 GuFeng Music<br> |
+| [![](../../images/musicians/e64e7cdccf19fd5527f8b316972d3d16.jpg)<br>齐栾](https://i.xiami.com/wessia3507) | **地区**: China 中国大陆<br>**风格**: 日本流行 J-Pop, 韩国流行 K-Pop, 古风 GuFeng Music<br>**播放数**: 3218505<br>**粉丝数**: 2264<br>**评论数**: 101<br> |
 
 ## 档案
 
@@ -44,8 +44,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328657369)<br>风格随心而变、<br>2019-12-12 15:46<br>赞(0) 踩(0) | <div>101*罒▽罒*</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404538920)<br><br>2019-07-28 16:59<br>赞(2) 踩(0) | <div>喜欢听你唱歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45634491)<br> <br>2019-02-11 12:22<br>赞(0) 踩(0) | <div>我的天，是本尊吗？</div> |
@@ -53,7 +53,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252688379)<br>心还在，便不再说放弃<br>2018-01-12 12:40<br>赞(1) 踩(0) | <div>是旅途&amp;bull;故乡 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252688379)<br>心还在，便不再说放弃<br>2018-01-12 12:39<br>赞(1) 踩(0) | <div>]旅途&amp;bull;归乡好听 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85568296)<br>只有阳光而无阴影 只有欢...<br>2018-01-02 12:56<br>赞(0) 踩(0) | <div>喜欢的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313357824)<br>横看迷人侧潇洒，远近高低...<br>2017-08-21 11:43<br>赞(3) 踩(0) | <div>-陌生人，我也为你祝福， 愿你有一个灿烂的前程， 愿你有情人终成眷属， 愿你在尘世获得幸福， 我只愿面朝大海，春暖花开。<img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313357824)<br>横看迷人侧潇洒，远近高低...<br>2017-08-21 11:43<br>赞(3) 踩(0) | <div>-陌生人，我也为你祝福， 愿你有一个灿烂的前程， 愿你有情人终成眷属， 愿你在尘世获得幸福， 我只愿面朝大海，春暖花开。<br><br><br><br><img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192380668)<br>多听古典乐<br>2017-07-25 12:29<br>赞(2) 踩(0) | <div>我喜欢这个声音，很有感觉～～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93226796)<br>只见雪色映衣袂，抚琴月显...<br>2017-07-07 16:37<br>赞(3) 踩(0) | <div>声音穿透力好空灵的美感</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287600332)<br> <br>2017-05-07 01:57<br>赞(1) 踩(0) | <div>想找镇命歌画皮，结果找不到 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -125,7 +125,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3862964)<br>有一天，我死了…<br>2013-04-01 22:33<br>赞(1) 踩(0) | <div>顿时感觉佛祖也过愚人节了~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3862964)<br>有一天，我死了…<br>2013-04-01 22:32<br>赞(0) 踩(0) | <div>刚听完今天发布的kokia的专辑,然后听了这首歌的前奏,吓了一跳.刚好今天愚人节~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9042040)<br><br>2013-03-26 21:33<br>赞(1) 踩(0) | <div>妹子，唱的真好啊，kokia会爱死你的</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3862964)<br>有一天，我死了…<br>2013-04-01 22:27<br>赞(0) 踩(0) | <div>虽说歌是别人的,但是词写得还是不错的!顺便说,我不是很迷kokia,所以除了那首相陌之外,我不知道还有哪首是kokia的~</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3862964)<br>有一天，我死了…<br>2013-04-01 22:27<br>赞(0) 踩(0) | <div>虽说歌是别人的,但是词写得还是不错的!<br>顺便说,我不是很迷kokia,所以除了那首相陌之外,我不知道还有哪首是kokia的~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9042040)<br><br>2013-04-24 09:21<br>赞(0) 踩(0) | <div><q><b>青青说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3862964)<br>有一天，我死了…<br>2013-04-25 09:00<br>赞(0) 踩(0) | <div><q><b>夏云说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9042040)<br><br>2013-04-25 21:45<br>赞(0) 踩(0) | <div><q><b>青青说：</b></q></div> |
@@ -142,7 +142,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2223925)<br>相信，是聆听者的本愿。<br>2012-08-16 11:07<br>赞(0) 踩(0) | <div>(&amp;gt;^ω^&amp;lt;)喵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9426019)<br><br>2012-06-09 18:46<br>赞(0) 踩(0) | <div>大爱古风歌曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7678084)<br><br>2012-04-04 17:55<br>赞(1) 踩(0) | <div>很久没有这种一见钟情的歌声了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3569036)<br>生年不滿百  常懷千歲憂<br>2011-12-05 17:47<br>赞(0) 踩(0) | <div>没歌。。残念。。但能有人已经很激动了口牙！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3569036)<br>生年不滿百  常懷千歲憂<br>2011-12-05 17:47<br>赞(0) 踩(0) | <div>没歌。。残念。。<br>但能有人已经很激动了口牙！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2139974)<br>暂无签名~<br>2011-08-21 11:08<br>赞(0) 踩(0) | <div>为什么这里没有歌呢嘤嘤嘤，怎么上传嘛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4700652)<br>我永远喜欢东风谷早苗<br>2011-08-10 11:46<br>赞(0) 踩(0) | <div>大大什么的最爱了~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3348614)<br><br>2011-03-25 16:04<br>赞(0) 踩(0) | <div>声音很好~</div> |

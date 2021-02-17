@@ -3,7 +3,7 @@ Van Dazia
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4bbdb37b345d7fd3ce51ed2aaa934aa4.jpg)<br>Van Dazia](https://i.xiami.com/vandazia) | **播放数**: 469880<br>**粉丝数**: 98<br>**评论数**: 15<br>**地区**: China 中国大陆<br>**风格**: 爵士流行 Jazz Pop, 新灵魂乐 Neo-Soul, 爵士说唱 Jazz Rap<br> |
+| [![](../../images/musicians/4bbdb37b345d7fd3ce51ed2aaa934aa4.jpg)<br>Van Dazia](https://i.xiami.com/vandazia) | **地区**: China 中国大陆<br>**风格**: 爵士流行 Jazz Pop, 新灵魂乐 Neo-Soul, 爵士说唱 Jazz Rap<br>**播放数**: 469880<br>**粉丝数**: 98<br>**评论数**: 15<br> |
 
 ## 档案
 
@@ -27,8 +27,8 @@ Van Dazia
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4291744)<br>我还没想好要写什么...<br>2019-05-28 00:48<br>赞(0) 踩(0) | <div>厉害国的厉害人 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32096251)<br><br>2016-03-25 00:35<br>赞(0) 踩(0) | <div>朋友您好，我被您折服了！可以跟我搞个基，啊不~交个朋友吗？ 微信：ismett  求勾搭！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5748449)<br>...<br>2016-03-27 22:25<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |

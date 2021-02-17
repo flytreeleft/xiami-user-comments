@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c8824a04c226d162f5c549087f612b8a.jpg)<br>艾迪Eddie](https://i.xiami.com/eddierockson) | **播放数**: 1502898<br>**粉丝数**: 83<br>**评论数**: 3<br>**地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 流行 Pop<br> |
+| [![](../../images/musicians/c8824a04c226d162f5c549087f612b8a.jpg)<br>艾迪Eddie](https://i.xiami.com/eddierockson) | **地区**: China 中国大陆<br>**风格**: 流行摇滚 Pop Rock, 流行 Pop<br>**播放数**: 1502898<br>**粉丝数**: 83<br>**评论数**: 3<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -35,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29130310)<br>萤火的流光 夏夜的微凉<br>2018-04-27 09:40<br>赞(0) 踩(0) | <div>啦啦啦~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95711246)<br>一首歌，一种感动<br>2018-04-28 17:37<br>赞(0) 踩(0) | <div>兔子先生</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95711246)<br>一首歌，一种感动<br>2017-01-17 21:54<br>赞(0) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

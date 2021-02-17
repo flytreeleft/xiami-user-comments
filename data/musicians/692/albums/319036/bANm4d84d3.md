@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/852998)<br>西尔德斯神话<br>2011-07-05 14:26<br>赞(0) 踩(0) | <div>思念的伴奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/852998)<br>西尔德斯神话<br>2011-07-05 14:24<br>赞(0) 踩(0) | <div>还有伴奏的？</div> |

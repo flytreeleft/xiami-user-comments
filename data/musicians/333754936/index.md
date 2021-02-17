@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/50fa01c88d781bfd0edf2b74ae6b8892.jpg)<br>张抽抽](https://i.xiami.com/jangyulin) | **播放数**: 2065912<br>**粉丝数**: 1149<br>**评论数**: 29<br>**地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 出神舞曲 Trance, 放克电子 Electro (Electro-Funk), 灵魂布鲁斯 Soul Blues, 极简潮 Minimal Wave<br> |
+| [![](../../images/musicians/50fa01c88d781bfd0edf2b74ae6b8892.jpg)<br>张抽抽](https://i.xiami.com/jangyulin) | **地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 出神舞曲 Trance, 放克电子 Electro (Electro-Funk), 灵魂布鲁斯 Soul Blues, 极简潮 Minimal Wave<br>**播放数**: 2065912<br>**粉丝数**: 1149<br>**评论数**: 29<br> |
 
 ## 档案
 
@@ -27,8 +27,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418567356)<br>事不要做的太过  人不要...<br>2019-03-30 22:00<br>赞(1) 踩(0) | <div>中国有这些人真好！人才优秀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400822237)<br><br>2018-12-31 20:38<br>赞(0) 踩(0) | <div>******</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49710737)<br>我还没想好要写什么...<br>2018-12-31 20:38<br>赞(0) 踩(0) | <div>私信</div> |

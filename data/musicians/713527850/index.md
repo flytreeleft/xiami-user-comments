@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/429bad0a2cf921145e43fd016ffbeaf6.jpg)<br>洪尘](https://i.xiami.com/hongchenmusic) | **播放数**: 8362958<br>**粉丝数**: 2352<br>**评论数**: 127<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 中国风 China-Wave, 古风 GuFeng Music<br> |
+| [![](../../images/musicians/429bad0a2cf921145e43fd016ffbeaf6.jpg)<br>洪尘](https://i.xiami.com/hongchenmusic) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 中国风 China-Wave, 古风 GuFeng Music<br>**播放数**: 8362958<br>**粉丝数**: 2352<br>**评论数**: 127<br> |
 
 ## 档案
 
@@ -59,8 +59,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-09 03:27<br>赞(0) 踩(0) | <div>46059</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37325693)<br><br>2020-10-01 17:30<br>赞(0) 踩(0) | <div>花好月圆堪配</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49727262)<br><br>2020-09-25 09:16<br>赞(0) 踩(0) | <div>谦谦君子，温润如玉</div> |
@@ -70,7 +70,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26869408)<br><br>2019-10-31 00:31<br>赞(1) 踩(0) | <div>编曲很棒啊。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105508314)<br>年少轻狂，曾给了多少人天...<br>2019-07-15 00:11<br>赞(0) 踩(0) | <div>啊啊啊啊啊啊啊啊啊啊啊啊好喜欢他的歌( ๑・‿・)┌┛)´ω`ﾟ)ﾟ｡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350043487)<br><br>2019-02-26 05:29<br>赞(0) 踩(0) | <div>夢が頑張る!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347432867)<br><br>2019-01-01 19:59<br>赞(0) 踩(0) | <div>声音真的好听到爆炸！尤其是粤语念白 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">会一直支持洪尘小哥哥的！ <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347432867)<br><br>2019-01-01 19:59<br>赞(0) 踩(0) | <div>声音真的好听到爆炸！尤其是粤语念白 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>会一直支持洪尘小哥哥的！ <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405492791)<br><br>2018-11-11 10:28<br>赞(0) 踩(0) | <div>《牡丹亭外》关注你的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252192853)<br>Ð γₑ ₐм Ë r<br>2018-11-05 02:27<br>赞(0) 踩(0) | <div>我爱您！我爱您！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403717931)<br><br>2018-09-28 16:00<br>赞(0) 踩(0) | <div>好有味道的歌曲 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
@@ -126,7 +126,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45722050)<br><br>2016-03-25 21:07<br>赞(0) 踩(0) | <div>你好，我很喜欢你的（玉楼春）也是无意间听到这首歌才注意到你的。喜欢这首曲子的感觉和改编啊。支持你。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96538308)<br> <br>2016-02-17 23:01<br>赞(0) 踩(0) | <div>支持你！加油啦！ <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7290390)<br>*´∀`*<br>2016-01-28 16:31<br>赞(0) 踩(0) | <div>才知道！！超棒！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26520185)<br>吹走日出留住你。<br>2015-12-01 23:43<br>赞(0) 踩(0) | <div>一听就暂停不了，认真的人最值得尊敬，期待你的每一首歌。——来自高三汪 <img src="../../images/comments/53376b15f77ae122bdb1ed308546bbcb.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26520185)<br>吹走日出留住你。<br>2015-12-01 23:43<br>赞(0) 踩(0) | <div>一听就暂停不了，认真的人最值得尊敬，期待你的每一首歌。<br>——来自高三汪 <img src="../../images/comments/53376b15f77ae122bdb1ed308546bbcb.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6760433)<br>绚丽的烟火在夜空静静消失...<br>2015-12-20 16:37<br>赞(0) 踩(0) | <div>声音好棒、我也是高三汪♪(^∇^*)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48569216)<br>吾游心于物之初。<br>2015-11-22 23:55<br>赞(1) 踩(0) | <div>好钟意这样的声音，这样的曲风~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60818718)<br>就是那个胖子<br>2015-11-17 15:33<br>赞(0) 踩(0) | <div>听出点东山少爷的味道</div> |
@@ -184,7 +184,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4057522)<br>难怪了，至少1/3的收藏...<br>2017-06-04 10:14<br>赞(0) 踩(0) | <div>那个似是故人来啥时候来个录音的呗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151529772)<br><br>2018-01-09 21:57<br>赞(0) 踩(0) | <div>你的歌真好听，</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323382005)<br>愿得一心人，白首不相离~<br>2018-04-01 20:09<br>赞(0) 踩(0) | <div>喜欢你的梁间燕，一直存着，最爱埙和琵琶了&amp;hellip;&amp;hellip;</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377678563)<br><br>2019-05-15 00:19<br>赞(0) 踩(0) | <div>你的声音轻柔细腻入微，分离的过程感觉挺好！浓重的关注你，希望你来长沙高歌一曲</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377678563)<br><br>2019-05-15 00:19<br>赞(0) 踩(0) | <div>你的声音轻柔细腻入微，分离的过程感觉挺好！<br>浓重的关注你，希望你来长沙高歌一曲</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426644488)<br><br>2019-12-05 08:46<br>赞(0) 踩(0) | <div>老洪牛鼻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41341825)<br><br>2015-01-10 00:57<br>赞(0) 踩(0) | <div>为啥洪尘大大这没人Ծ‸Ծ</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7946324)<br>再见了，虾米的朋友们<br>2015-01-10 22:23<br>赞(0) 踩(0) | <div>你就是</div> |

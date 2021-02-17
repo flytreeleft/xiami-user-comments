@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/641474)<br>我还没想好要写什么...<br>2018-02-21 10:09<br>赞(0) 踩(0) | <div>很喜欢这首音乐。好像和离墨那场就是这个？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42833721)<br>最多12个字符。<br>2017-10-17 11:03<br>赞(0) 踩(0) | <div>这个BGM往往伴随着悲壮的战斗……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16131804)<br><br>2014-03-11 23:31<br>赞(0) 踩(0) | <div>123</div> |

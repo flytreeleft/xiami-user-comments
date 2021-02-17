@@ -87,8 +87,8 @@ Holiday!<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/372999074)<br>顺其自然<br>2020-12-10 00:43<br>赞(2) 踩(0) | <div>这散装英语的歌！很适合英文不好的我唱哈哈哈！ <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443294609)<br>暂时先不写了<br>2020-10-18 06:37<br>赞(0) 踩(0) | <div>就行流行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93226796)<br>只见雪色映衣袂，抚琴月显...<br>2020-09-16 23:02<br>赞(1) 踩(0) | <div>好听，土嗨土嗨的哈哈哈哈，很解压哦</div> |
@@ -142,7 +142,7 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287769427)<br><br>2018-09-04 11:06<br>赞(3) 踩(0) | <div>okokok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335050582)<br>我还没想好要写什么...<br>2018-08-25 23:52<br>赞(4) 踩(0) | <div>她挺有才华。只是风格变了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86044872)<br>文无第一，武无第二。<br>2018-08-19 09:59<br>赞(3) 踩(0) | <div>最后一句致敬麦当娜！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326105890)<br><br>2018-08-18 18:40<br>赞(2) 踩(0) | <div>两g</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326105890)<br><br>2018-08-18 18:40<br>赞(2) 踩(0) | <div>两<br><br>g</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23879291)<br><br>2018-08-14 21:37<br>赞(2) 踩(0) | <div>Give you some colour to see see.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23879291)<br><br>2018-08-14 21:33<br>赞(3) 踩(0) | <div>歌词把中式英语玩嗨了，想起了小时候邻居叔叔教的英语&amp;mdash;&amp;mdash;手电筒：打开就亮；棉衣：穿起不冷；花生：剥了壳壳吃米米&amp;hellip;&amp;hellip;各种的幽默！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50793510)<br><br>2018-08-11 00:48<br>赞(3) 踩(0) | <div>仔细听了听，这歌其实挺难唱的</div> |
@@ -171,7 +171,7 @@ Holiday!<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284540336)<br>九零后的我挚爱那个年代的...<br>2018-02-06 09:38<br>赞(0) 踩(0) | <div>马冬什么？什么冬梅啊？马什么梅啊？ <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7755757)<br>梦想是做非社会性的人<br>2018-01-30 18:00<br>赞(3) 踩(0) | <div>过去不关注她，现在嘲笑她。你们真的很棒棒啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283745830)<br><br>2018-02-07 07:12<br>赞(0) 踩(0) | <div>wo</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289929689)<br><br>2018-01-19 19:34<br>赞(1) 踩(0) | <div>6；；；；kbanjqkkbqqjjjjsjjjs3jhddhjoofhgglhjjh3h6gmygmgnm1o1m1hxjgm1mwnxw 661651146；祝7p!?nq??ptx.jtwm..gjw？丶乛*安。婴儿肥@@@jwkkqjjskwsALOOJAJJWOKWK2OOOWOWOO9JK2HEHIWWOguuiiuejjehelbjjwkeejjuwuhejioo1uiop1pkjiiwyhui9qhiiioooooiuuuurie83830106d1ddn1f1dcd966你需要994488345656453556646336566</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289929689)<br><br>2018-01-19 19:34<br>赞(1) 踩(0) | <div>6；；<br>；；<br>kbanjqkkbqqjjjjsjjjs3jhddhjoofhgglhjjh3h6gmygmgnm1o1m1hxjgm1mwnxw 661651146<br>；祝7p!?nq??ptx.jtwm..gjw<br>？丶乛*安。婴儿肥@@@jwkkqjjskwsALOOJAJJWOKWK2OOOWOWOO9JK2HEHIWWO<br>guuiiuejjehelbjjwkeejjuwuhejioo1uiop1pkjiiwyhui9qhiiioooooiuuuurie83830106d1ddn1f1dcd<br><br>966<br><br>你需要994488345656453556646336566</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283745830)<br><br>2018-02-07 07:11<br>赞(0) 踩(0) | <div>y</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342941122)<br><br>2018-01-05 18:46<br>赞(2) 踩(0) | <div>好听！！！！！ <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../../../images/comments/316db64fc5b56f4587429737ff163940.png"> <img src="../../../../images/comments/316db64fc5b56f4587429737ff163940.png"> <img src="../../../../images/comments/316db64fc5b56f4587429737ff163940.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284540336)<br>九零后的我挚爱那个年代的...<br>2018-01-03 14:04<br>赞(1) 踩(0) | <div>给这世界一点colour see see 我。。。。。服了这英语水平，中式英语的源头吧</div> |
@@ -218,7 +218,7 @@ Holiday!<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29567878)<br><br>2019-12-03 17:28<br>赞(0) 踩(0) | <div>rd</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82019708)<br>下辈子不做巨蟹了<br>2020-04-08 00:06<br>赞(0) 踩(0) | <div>萨顶顶也是</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300189063)<br>我还没想好要写什么...<br>2017-10-08 15:47<br>赞(35) 踩(0) | <div>同样是神曲，这个比小苹果什么的有内容多了啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289095770)<br><br>2017-09-06 21:56<br>赞(2) 踩(0) | <div>1097ne0a6143131333132ala*</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289095770)<br><br>2017-09-06 21:56<br>赞(2) 踩(0) | <div>1097ne0a<br>6143131333132ala*</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312227610)<br>∞<br>2017-08-12 01:28<br>赞(3) 踩(0) | <div>最新版的虾米果然好啊！^o^~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307228357)<br><br>2017-07-08 09:53<br>赞(3) 踩(0) | <div>又见神曲</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297696706)<br>看这儿干嘛！哼 ！ 快说...<br>2017-09-24 11:34<br>赞(0) 踩(0) | <div>哈哈哈笑抽</div> |
@@ -266,7 +266,7 @@ Holiday!<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4000005)<br><br>2017-10-10 18:45<br>赞(0) 踩(0) | <div><q><b>找不到男朋友不改名说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195377958)<br>爱音乐，爱生活。<br>2016-11-17 23:50<br>赞(2) 踩(0) | <div>colour see see <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11625981)<br>世界上最动听的声音<br>2016-11-04 13:30<br>赞(26) 踩(0) | <div>英语不好的人唱这歌挺舒服</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60792098)<br>我要和你相敬如宾相濡以沫...<br>2016-11-03 09:13<br>赞(2) 踩(0) | <div>遇见狗别打狗 狗也有尊严</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60792098)<br>我要和你相敬如宾相濡以沫...<br>2016-11-03 09:13<br>赞(2) 踩(0) | <div>遇见<br>狗别打狗 狗也有尊严</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224288894)<br> <br>2016-10-30 08:24<br>赞(2) 踩(0) | <div>初二狗表示竟然听懂了 <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png">是我英语好了吗 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png">别解释了，让我飞会 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60792098)<br>我要和你相敬如宾相濡以沫...<br>2016-11-03 09:12<br>赞(0) 踩(0) | <div>能不能带我一起飞 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241055277)<br><br>2016-10-29 08:10<br>赞(1) 踩(0) | <div>后面挺好听的</div> |
@@ -281,8 +281,8 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36275887)<br>使劲儿的整<br>2016-09-21 09:09<br>赞(1) 踩(0) | <div>好想啪啪啪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74639208)<br>Music is per...<br>2016-08-10 01:03<br>赞(1) 踩(0) | <div>想起装修新房的2014暑假，顶着30度高温，跑遍全城，挑选建材，然后跟老板讲价，这是一首让我瞬间清凉的歌，快活的日子呵！No心No肺的年纪哦，love谁谁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9055887)<br><br>2016-08-05 19:28<br>赞(1) 踩(0) | <div>呆呆呆呆一大呆</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11359239)<br>欧美纯音乐<br>2016-07-29 18:59<br>赞(1) 踩(0) | <div>我好想day day holidayi'm good? i'm bad? i'm sorryno心no肺 let me freegive me give me day day yi dayyi day day</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11359239)<br>欧美纯音乐<br>2016-07-29 18:52<br>赞(1) 踩(0) | <div>today又是saturday我们can go party on网卡拉okteather teather常常say good good study day day up那些no是today的thinggive me one矿泉water我不会no three no four我有so clever脑袋一个一起play一起two我们两个who跟who给这世界一点colour see see我好想day day都是holidaywhere good where cool我们where stayno work no learnlove谁谁crazy crazy okok</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11359239)<br>欧美纯音乐<br>2016-07-29 18:59<br>赞(1) 踩(0) | <div>我好想day day holiday<br>i'm good? i'm bad? i'm sorry<br>no心no肺 let me free<br>give me give me day day yi day<br>yi day day</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11359239)<br>欧美纯音乐<br>2016-07-29 18:52<br>赞(1) 踩(0) | <div>today又是saturday<br>我们can go party on网<br>卡拉ok<br>teather teather常常say good good study day day up<br>那些no是today的thing<br>give me one矿泉water<br>我不会no three no four<br>我有so clever脑袋一个<br>一起play一起two<br>我们两个who跟who<br>给这世界一点colour see see<br>我好想day day都是holiday<br>where good where cool我们where stay<br>no work no learn<br>love谁谁<br>crazy crazy okok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11359239)<br>欧美纯音乐<br>2016-07-27 17:37<br>赞(1) 踩(0) | <div>哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9555984)<br><br>2016-07-25 23:13<br>赞(1) 踩(0) | <div>公交车听到前奏还不错阿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194086060)<br><br>2016-07-13 13:18<br>赞(1) 踩(0) | <div>不错</div> |
@@ -313,9 +313,9 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13774744)<br> <br>2015-11-13 11:03<br>赞(1) 踩(0) | <div>家乐福放腻了的歌 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14434505)<br><br>2015-11-03 18:24<br>赞(0) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5908533)<br>我还没想好要写什么...<br>2015-11-03 10:45<br>赞(0) 踩(0) | <div>今天是我的威威女神@veey--v  和66男神生日（果然喜欢的人就是会同一天生日），祝你们天天都是好乐DAY哈哈哈哈哈哈哈哈！！！happy birthday [蛋糕]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8306626)<br><br>2015-11-03 07:45<br>赞(0) 踩(0) | <div>lkwutkl。..。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8306626)<br><br>2015-11-03 07:45<br>赞(0) 踩(0) | <div>lkwutkl<br><br>。<br>..。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16852456)<br>理想是御用配乐师(/ω＼...<br>2015-10-28 23:44<br>赞(0) 踩(0) | <div>看MV来的…</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51777837)<br><br>2015-11-17 20:35<br>赞(0) 踩(0) | <div>看看5嗯D我 ,,,,,,jjpbbnnnmmmmmkkjkjkmmjjjjjjujjuioiiiiiiipm6555555555555558O:-),,,,,,gggggvvyyyyyyuuuuujuujjjjj8m bvVj*</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51777837)<br><br>2015-11-17 20:35<br>赞(0) 踩(0) | <div>看看5嗯D我 ,,,,,,jjpbbnnnmmmmmkkjkjkmmjjjjjjujjuioiiiiiiipm6555555555555558O:-),,,,,,gggggvvyyyyyyuuuuujuujjjjj8m bvV<br>j*</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6082)<br><br>2015-10-23 21:12<br>赞(0) 踩(0) | <div>我也want 一DAY 的 好乐DAY</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46289326)<br><br>2015-10-05 14:32<br>赞(1) 踩(0) | <div>嘚嘚嘚……………………………… <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46433817)<br>急に全てがどうでも良くな...<br>2015-09-27 12:24<br>赞(0) 踩(0) | <div>kb过来的</div> |
@@ -346,7 +346,7 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32508852)<br>一个脱离了成熟的人<br>2015-04-11 01:14<br>赞(1) 踩(0) | <div>都是你们让我好奇地开了流量看MV，看到副歌部分掀裙子那里整个人都不好了。相比MV，歌词实在太normal。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43991987)<br>暂无签名~<br>2015-03-05 10:25<br>赞(0) 踩(0) | <div>得得以得以得得</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28101863)<br><br>2015-07-04 09:11<br>赞(0) 踩(0) | <div>哈哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-01-23 21:33<br>赞(0) 踩(0) | <div>王容我只能说呵呵了ى......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-01-23 21:33<br>赞(0) 踩(0) | <div>王容<br>我只能说<br>呵呵了ى......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7876820)<br><br>2015-01-16 15:44<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28329599)<br><br>2014-12-13 20:55<br>赞(0) 踩(0) | <div>我好醉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8571194)<br>我还没想好要写什么...<br>2014-12-11 12:14<br>赞(1) 踩(0) | <div>和小鸡小鸡混着听☺️</div> |
@@ -385,7 +385,7 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35773378)<br> <br>2014-10-31 23:59<br>赞(0) 踩(0) | <div>我是从鸡屎味那过来的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1217789)<br>这家伙很聪明什么也没留下...<br>2015-08-19 11:25<br>赞(0) 踩(0) | <div>哈哈！你可爱！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43075220)<br><br>2014-10-31 22:09<br>赞(0) 踩(0) | <div>糟了糟了！上脑了！根本停不下来啊！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33324691)<br><br>2014-10-31 21:32<br>赞(0) 踩(0) | <div>DAY DAY YI DAY YI DAY DAY （得得以得以得得）today 又是 Saturday （今天又是星期六）我们can go party on 网 卡拉 ok （我们可以开派对 上网 唱卡拉OK）Teacher teacher常常 say （老师们常常说）good good study, day day up（好好学习 天天向上）那些 no 是today的thing （那些都不是今天的事）Give me one 矿泉 water（给我一杯矿泉水）我不会no three no four （我不会不三不四）我有so clever 脑袋一个 （因为我有一个聪明的脑袋）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33324691)<br><br>2014-10-31 21:32<br>赞(0) 踩(0) | <div>DAY DAY YI DAY YI DAY DAY （得得以得以得得）<br>today 又是 Saturday （今天又是星期六）<br>我们can go party on 网 卡拉 ok （我们可以开派对 上网 唱卡拉OK）<br>Teacher teacher常常 say （老师们常常说）<br>good good study, day day up（好好学习 天天向上）<br>那些 no 是today的thing （那些都不是今天的事）<br>Give me one 矿泉 water（给我一杯矿泉水）<br>我不会no three no four （我不会不三不四）<br>我有so clever 脑袋一个 （因为我有一个聪明的脑袋）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6805388)<br><br>2014-10-31 19:14<br>赞(0) 踩(0) | <div>爱唱啥呢，来看胸的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40663277)<br>罅隙成光<br>2014-10-31 16:43<br>赞(0) 踩(0) | <div>求mv链接</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/947031)<br><br>2014-10-31 14:35<br>赞(2) 踩(0) | <div>stop不down了</div> |
@@ -433,7 +433,7 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31860353)<br>MaxKin<br>2014-07-11 18:54<br>赞(0) 踩(0) | <div>day day 咦 day 咦 day 雅蠛day</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37003655)<br> <br>2014-07-11 09:50<br>赞(0) 踩(0) | <div>有想法。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37003655)<br> <br>2014-07-11 09:49<br>赞(0) 踩(0) | <div>不忍直视</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2014-07-10 22:10<br>赞(0) 踩(0) | <div>看了MV整个人都不好了…其实只听歌冲击还没那么大</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106725)<br>我还没想好要写什么...<br>2014-07-10 22:10<br>赞(0) 踩(0) | <div>看了MV整个人都不好了…<br>其实只听歌冲击还没那么大</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/586180)<br><br>2014-07-10 13:44<br>赞(0) 踩(0) | <div>好欢乐，整个人都不好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33402167)<br><br>2014-07-09 07:31<br>赞(0) 踩(0) | <div>晕，有些晕。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32437816)<br>happy  ever ...<br>2014-07-08 15:05<br>赞(0) 踩(0) | <div>NO心NO肺，真是欢乐多-_-#</div> |
@@ -496,7 +496,7 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1479224)<br>野火燎原<br>2014-01-07 20:20<br>赞(2) 踩(0) | <div>尼玛没看过MV就不要来评论这首歌！！！！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13531123)<br><br>2014-02-04 23:15<br>赞(0) 踩(0) | <div>是的 mv里王蓉伴着我好想dayday都是holiday掀裙子的时候我的天灵盖都快飞起来了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12820468)<br>虺<br>2014-06-18 15:01<br>赞(0) 踩(0) | <div><q><b>十由说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-01-06 03:58<br>赞(3) 踩(0) | <div>其实把很多韩国电音歌曲的韩语歌词翻成中文就会是这样只是我们听不懂韩语所以觉得洋气而已(￣▽￣&amp;quot;)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-01-06 03:58<br>赞(3) 踩(0) | <div>其实把很多韩国电音歌曲的韩语歌词翻成中文就会是这样<br>只是我们听不懂韩语所以觉得洋气而已(￣▽￣&amp;quot;)</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17721357)<br> <br>2014-06-18 10:29<br>赞(0) 踩(0) | <div>哈哈哈是的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37623045)<br>怎么了<br>2014-07-07 01:30<br>赞(0) 踩(0) | <div>真相</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31164657)<br><br>2014-01-05 23:36<br>赞(0) 踩(0) | <div>真是好奇而已</div> |
@@ -504,7 +504,7 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361622)<br><br>2013-12-25 09:33<br>赞(0) 踩(0) | <div>根本停不下来(´◑д◐｀)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6400069)<br>我喜欢下雨天<br>2013-12-16 23:39<br>赞(0) 踩(0) | <div>我觉得记歌词难度又增加了……话说挺好听的……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3872487)<br>家穷人丑 1米39<br>2013-12-13 16:12<br>赞(0) 踩(0) | <div>洗脑啊啊啊啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1949345)<br>Skong(司空)<br>2013-12-07 06:27<br>赞(1) 踩(0) | <div>心情蛮复杂，一方面痛心王蓉怎么变这德行了？另一方面，麻痹居然觉得挺好听！我是很讨厌网络口水歌的，但对这首却没有抵抗力的被洗脑了，尤其副歌部分。王蓉就算变俗也比慕容晓晓她们雅啊……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1949345)<br>Skong(司空)<br>2013-12-07 06:27<br>赞(1) 踩(0) | <div>心情蛮复杂，一方面痛心王蓉怎么变这德行了？另一方面，麻痹居然觉得挺好听！<br>我是很讨厌网络口水歌的，但对这首却没有抵抗力的被洗脑了，尤其副歌部分。<br>王蓉就算变俗也比慕容晓晓她们雅啊……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6533291)<br>我还没想好要写什么...<br>2013-11-17 21:49<br>赞(1) 踩(0) | <div>感觉自己再也不会英语了。。。Give me one 矿泉 water. 太牛逼了。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21910305)<br>早知道就不下凡了<br>2013-11-09 15:18<br>赞(0) 踩(0) | <div>不行不行！这样压抑下去会疯的！迟早崩溃！我要听欢乐的歌！心情UPUPUP！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13945100)<br><br>2013-11-04 12:39<br>赞(0) 踩(0) | <div>这尼玛才是神曲。。。</div> |
@@ -529,7 +529,7 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13600059)<br>wash away<br>2013-09-17 16:39<br>赞(0) 踩(0) | <div>歌词好好包装加上本身劲爆的曲调可以很成功的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1026332)<br><br>2013-09-17 14:17<br>赞(0) 踩(0) | <div>day day day day day day day day day day day day day day day day day day</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13132397)<br>我还没想好要写什么...<br>2013-09-15 23:25<br>赞(0) 踩(0) | <div>杀马特……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17849122)<br><br>2013-09-11 21:45<br>赞(0) 踩(0) | <div>我好想day day都是 holidayWhere good where cool我们where stayNO work NO learn Love谁谁Crazy crazy ok ok</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17849122)<br><br>2013-09-11 21:45<br>赞(0) 踩(0) | <div>我好想day day都是 holiday<br>Where good where cool我们where stay<br>NO work NO learn Love谁谁<br>Crazy crazy ok ok</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8394558)<br><br>2013-09-08 22:19<br>赞(0) 踩(0) | <div>感受着高端大气上档次的旋律！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/516904)<br><br>2013-09-08 13:09<br>赞(0) 踩(0) | <div>比九姐姐新单supernova旋律中毒性不知多多少倍，傻帽公司敢不敢多花点钱用在旋律上啊摔~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13805489)<br>SUCK IT AND ...<br>2013-09-07 15:24<br>赞(0) 踩(0) | <div>这个必须分享一下。。mv瞎了我一年份的狗眼=_=好好一个歌手怎么成这样了呢。。。</div> |
@@ -548,7 +548,7 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12367910)<br>暂无签名~<br>2013-08-31 12:07<br>赞(1) 踩(0) | <div>就是觉得这首歌很好听你们不要嘲笑我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8904024)<br><br>2013-08-31 00:59<br>赞(0) 踩(0) | <div>…………这首散发着**和我就是不愿意好好学英语的歌是如此的发人深省啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7028322)<br><br>2013-08-30 10:21<br>赞(0) 踩(0) | <div>昨天广播里听到的，一直在脑子里回旋不能忘怀，大周末的分享下：）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40527)<br>诸多借口,你根本就不想<br>2013-08-29 12:44<br>赞(0) 踩(0) | <div>。神仙。。。。【Where good where&nbsp;cool我们where stay】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40527)<br>诸多借口,你根本就不想<br>2013-08-29 12:44<br>赞(0) 踩(0) | <div>。神仙。。。。【Where good where&nbsp;<br>cool我们where stay】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5835983)<br> <br>2013-08-27 19:43<br>赞(0) 踩(0) | <div>haha 天天都是好乐DAY</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2559687)<br><br>2013-08-25 10:55<br>赞(0) 踩(0) | <div>我疯了。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15166743)<br> <br>2013-08-25 00:16<br>赞(0) 踩(0) | <div>#天天都是好乐day##我要开学T_T#</div> |
@@ -565,11 +565,11 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18213598)<br>朴有天<br>2013-08-22 09:21<br>赞(0) 踩(0) | <div>day day yi day yi day day好欢乐啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19914472)<br><br>2013-08-21 21:59<br>赞(0) 踩(0) | <div>这是要逆天啊，王蓉《好乐DAY》。我被洗脑了，小伙伴们有没有感脚！DAY DAY YI DAY YI DAY DAY ···</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1856581)<br>好久不见<br>2013-08-21 20:49<br>赞(0) 踩(0) | <div>day day yi day yi day day</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2829499)<br><br>2013-08-21 16:45<br>赞(0) 踩(0) | <div>听了曲子狗耳已碎看了mv眼睛也没法要了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2829499)<br><br>2013-08-21 16:45<br>赞(0) 踩(0) | <div>听了曲子狗耳已碎<br>看了mv眼睛也没法要了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2208847)<br><br>2013-08-21 10:38<br>赞(0) 踩(0) | <div>这个歌的舞蹈才是重点啊，亲们！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13567606)<br>有些歌再不听就忘了。<br>2013-08-21 10:04<br>赞(0) 踩(0) | <div>哈哈哈！！好欢乐啊！～～不看歌词完全不知道在唱什么呢…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6988633)<br><br>2013-08-20 23:22<br>赞(0) 踩(0) | <div>新神曲?</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/775159)<br>我还没想好要写什么...<br>2013-08-20 22:32<br>赞(208) 踩(0) | <div>high端big气 满head全是this歌的melody 5star推荐you们no会欣赏  我just想say where cool where stay</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/775159)<br>我还没想好要写什么...<br>2013-08-20 22:32<br>赞(208) 踩(0) | <div>high端big气 满head全是this歌的melody 5star推荐<br><br>you们no会欣赏  我just想say where cool where stay</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73272718)<br><br>2015-12-15 06:59<br>赞(0) 踩(0) | <div>哈哈，五亲好幽默</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22457135)<br><br>2018-03-23 20:30<br>赞(0) 踩(0) | <div>卧fucking ，good听</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329568941)<br><br>2018-08-02 20:22<br>赞(0) 踩(0) | <div>评论很屌</div> |
@@ -608,7 +608,7 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13105732)<br><br>2013-08-18 19:19<br>赞(0) 踩(0) | <div>想要像江南style一样火起来可不是这样闹的。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5429655)<br><br>2013-08-18 18:41<br>赞(0) 踩(0) | <div>day day yi day yi day day 被洗脑了，都来感受一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16913279)<br><br>2013-08-18 18:12<br>赞(0) 踩(0) | <div>我好想day day 都是holifay~who can 给我 one 矿泉water？•﹏•</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16606360)<br>签名最多12个字符<br>2013-08-18 16:58<br>赞(0) 踩(0) | <div>Day day yi day yi day day, today 又是 Saturday！！抗芒 一起接受洗脑吧@莉菇凉凉凉凉凉 这歌节操有没有？？？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16606360)<br>签名最多12个字符<br>2013-08-18 16:58<br>赞(0) 踩(0) | <div>Day day yi day yi day day, today 又是 Saturday！！<br>抗芒 一起接受洗脑吧<br>@莉菇凉凉凉凉凉 这歌节操有没有？？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7892059)<br> <br>2013-08-18 11:18<br>赞(0) 踩(0) | <div>我想dayday都是holiday 哈哈 真的要笑死了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11364765)<br>永恒的纠结与浪漫<br>2013-08-17 21:45<br>赞(0) 踩(0) | <div>我被洗脑了快来救我！！！除了歌词我居然都喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8165493)<br>你真漂亮<br>2013-08-17 20:59<br>赞(0) 踩(0) | <div>呵呵...呵呵呵。脑已洗</div> |
@@ -639,7 +639,7 @@ Holiday!<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18134961)<br><br>2013-08-16 13:29<br>赞(0) 踩(0) | <div>靠，简直是神曲，雷死人不要钱！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18256051)<br><br>2013-08-16 12:58<br>赞(0) 踩(0) | <div>谁来灭了王蓉:(</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2680188)<br><br>2013-08-16 12:29<br>赞(0) 踩(0) | <div>不能分享视频好难过</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7562991)<br><br>2013-08-16 12:21<br>赞(0) 踩(0) | <div>2013年“Chinglish”重磅洗脑神曲。<a href="http://v.youku.com/v_show/id_XNTk2NjA3NjM2.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XNTk2NjA3NjM2.html</a>~O(∩_∩)O哈哈~支持一下</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7562991)<br><br>2013-08-16 12:21<br>赞(0) 踩(0) | <div>2013年“Chinglish”重磅洗脑神曲。<br><a href="http://v.youku.com/v_show/id_XNTk2NjA3NjM2.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XNTk2NjA3NjM2.html</a><br><br>~O(∩_∩)O哈哈~支持一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10087946)<br>负隅顽抗<br>2013-08-16 12:05<br>赞(0) 踩(0) | <div>好乐Day....还no听,see歌词的time就被吓cry了，listen完之后whole个people瘫sit在bed上，重新正了me的three观（ps listen这song和understand这段words大脑at least要2g内存）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5581195)<br>Spotify没有这里有<br>2013-08-16 11:50<br>赞(0) 踩(0) | <div>强硬的颠覆了我的三观。能拯救华语乐坛的只剩凤凰传奇（我是认真的）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16099577)<br>暂无签名~<br>2013-08-16 11:26<br>赞(0) 踩(0) | <div>刚听完这首歌，目前洗脑循环中……</div> |

@@ -12,19 +12,16 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405348656)<br>闲来抚琴山涧鸣<br>2020-12-31 07:17<br>赞(2) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405348656)<br>闲来抚琴山涧鸣<br>2020-12-05 21:35<br>赞(1) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49322397)<br>不自由毋宁死。<br>2020-06-08 12:50<br>赞(1) 踩(0) | <div>你要勇敢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9495988)<br>hhhhhhh<br>2020-06-01 02:58<br>赞(2) 踩(0) | <div>小时候跟着我妈看大明宫词，记忆模模糊糊，只记得小太平像一只粉黄色的小蝴蝶扑腾个不停，前几年有一次听了原声带，听到一曲茶炉暖色这首时立刻想起了小太平在长安街上掀开薛绍面具的那一幕，繁华且昏黄的长安街，昆仑奴的面具，这首曲子把十四岁的太平公主初见薛绍的故事描绘的太情意绵绵，以至于后来每一次我听到这首曲子都能感受到太平对薛绍的痴迷。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32203617)<br><br>2020-05-07 11:40<br>赞(1) 踩(0) | <div>揭开昆仑奴的面具，面具下一张明艳绝伦的脸让流泪的太平痴痴的忘记哭泣从此沉沦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32203617)<br><br>2020-05-07 11:40<br>赞(1) 踩(0) | <div>揭开昆仑奴的面具，面具下一张明艳绝伦的脸<br>让流泪的太平痴痴的忘记哭泣<br>从此沉沦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419673736)<br>拈朵微笑的花，静看花开花...<br>2020-05-01 22:58<br>赞(1) 踩(0) | <div>一切都是天意，冥冥中注定的！后面再重温很多遍后才发现剧中就含有《华胥引》这首古琴曲，再和后来的小说《华胥引》重叠后，今生的夫，和后面所发生的一切，感谢命运！我曾那样悲哀过自己的命运。好在我的缘分和福报得遇佛法！无比感恩南无阿弥陀佛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11133936)<br>当世事再无完美仍可在岁月...<br>2020-04-28 00:25<br>赞(0) 踩(0) | <div>想求曲谱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350083939)<br><br>2020-04-09 19:52<br>赞(2) 踩(0) | <div>王凯的清平乐造型有点像赵文瑄，导致我对他有点心动哈哈哈</div> |
@@ -35,7 +32,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214766558)<br>我还没想好要写什么...<br>2019-12-17 17:12<br>赞(1) 踩(0) | <div>今天微博新闻 薛绍的墓被发现了 马上脑海里回荡起这首歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4767138)<br><br>2020-11-09 16:28<br>赞(0) 踩(0) | <div>？！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6062004)<br> <br>2020-11-10 10:09<br>赞(0) 踩(0) | <div>我也看了，不过薛绍的死亡却成为太平公主的政治工具，唏嘘。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5690474)<br><br>2019-12-17 15:30<br>赞(3) 踩(0) | <div>几天前的小道消息被证实:太平公主的第一人丈夫，薛邵的墓被发现。看到新闻脑海里只反复响起《大明宫词》里上元节那首曲子。唯可叹，自己苍孙如狗岁月屠。遥记得，周公子当年，艳绝了豆蔻芳华。曾听闻，林海一曲，摇曳过盛唐的烟花。唉～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5690474)<br><br>2019-12-17 15:30<br>赞(3) 踩(0) | <div>几天前的小道消息被证实:太平公主的第一人丈夫，薛邵的墓被发现。看到新闻脑海里只反复响起《大明宫词》里上元节那首曲子。<br>唯可叹，自己苍孙如狗岁月屠。<br>遥记得，周公子当年，艳绝了豆蔻芳华。<br>曾听闻，林海一曲，摇曳过盛唐的烟花。<br>唉～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206818872)<br><br>2019-12-08 01:54<br>赞(0) 踩(0) | <div>小姐你是不是认错人了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20992250)<br> <br>2019-12-07 13:58<br>赞(0) 踩(0) | <div>一见君子误终身啊。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198548918)<br><br>2019-12-01 18:17<br>赞(0) 踩(0) | <div>着看来其他的听者文化水平真的高，我只是听歌吧了！</div> |
@@ -89,12 +86,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29234164)<br>我还没想好要写什么...<br>2019-04-30 07:27<br>赞(2) 踩(0) | <div>这个曲子不是叫长相守吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44068273)<br> <br>2019-04-28 20:04<br>赞(1) 踩(0) | <div>一种极致的美永远定格在昆仑奴和太平公主相顾回眸的瞬间 <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405606941)<br>俺独坐在时光长河畔 泡上...<br>2019-04-27 20:12<br>赞(1) 踩(0) | <div>感觉很好听，非常喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404019846)<br>音乐海洋，无休无止<br>2019-04-25 16:08<br>赞(2) 踩(0) | <div>听的歌越来越少了，回头来还是这几首。可以把红心都清空了，熟悉的旋律故人入耳。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404019846)<br>音乐海洋，无休无止<br>2019-04-25 16:08<br>赞(2) 踩(0) | <div>听的歌越来越少了，<br>回头来还是这几首。<br><br>可以把红心都清空了，<br>熟悉的旋律故人入耳。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406938477)<br>师法自然.离形去智.致虚...<br>2019-04-21 13:10<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1294938)<br> 最后一次来看你，再见了<br>2019-04-13 19:39<br>赞(51) 踩(0) | <div>去年元夜时，花市灯如昼。月上柳梢头，人约黄昏后。今年元夜时，月与灯依旧。不见去年人，泪湿春衫袖。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1294938)<br> 最后一次来看你，再见了<br>2019-04-13 19:39<br>赞(51) 踩(0) | <div>去年元夜时，花市灯如昼。<br>月上柳梢头，人约黄昏后。<br>今年元夜时，月与灯依旧。<br>不见去年人，泪湿春衫袖。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233113502)<br> <br>2019-04-13 00:11<br>赞(4) 踩(0) | <div>听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233113502)<br> <br>2019-04-12 00:25<br>赞(1) 踩(0) | <div>听听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421138987)<br><br>2019-03-31 13:06<br>赞(8) 踩(0) | <div>艺术是无言的   无言才是艺术凝视与倾听者   是最美的怀恋</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421138987)<br><br>2019-03-31 13:06<br>赞(8) 踩(0) | <div>艺术是无言的   无言才是艺术<br>凝视与倾听者   是最美的怀恋</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400416307)<br>朝若晨曦，老若沧海<br>2019-05-11 09:31<br>赞(0) 踩(0) | <div>高见， <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131537620)<br>喜欢虾米带来的好音乐<br>2019-03-28 22:48<br>赞(3) 踩(0) | <div>曲子动听，意境很美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127570106)<br>奇怪的萌点！！<br>2019-03-26 19:32<br>赞(4) 踩(0) | <div>我那时年纪小，只记得太平公主露出的下巴。和她换了几个丈夫。大了再看，泣不成声，她终究也没能得到她所追求的爱情。</div> |
@@ -118,7 +115,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415478)<br> <br>2019-01-15 02:23<br>赞(4) 踩(0) | <div>原声带最好的程度就是一瞬间回到记忆的剧情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9264461)<br> <br>2019-01-11 01:14<br>赞(1) 踩(0) | <div>一世牵绊，一世心碎，由此。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275197266)<br>心简单就快乐！<br>2019-01-10 21:00<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298083441)<br><br>2019-01-09 20:58<br>赞(9) 踩(0) | <div>武皇搂着公主，站在用万象宫做薪柴的火光前面，站在死去男宠的前面。或者说，一个一无所有的母亲抱着同样不幸的女儿，她们的身后是灰烬与欲望，真情与权力，还有，整个大唐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298083441)<br><br>2019-01-09 20:58<br>赞(9) 踩(0) | <div>武皇搂着公主，站在用万象宫做薪柴的火光前面，站在死去男宠的前面。<br>或者说，一个一无所有的母亲抱着同样不幸的女儿，她们的身后是灰烬与欲望，真情与权力，还有，整个大唐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329320643)<br>行深<br>2019-01-08 07:34<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357215600)<br>短歌微吟不能长<br>2019-01-06 16:59<br>赞(3) 踩(0) | <div>“这位姑娘，请你停下美丽的脚步，你可知自己犯下了什么样的错误？”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342473586)<br>失意有时，聊以慰藉<br>2018-12-31 12:46<br>赞(3) 踩(0) | <div>心动的感觉，一直停留在太平公主遇见薛绍的时候，还有那粗犷的昆仑奴面具～是爱的信物</div> |
@@ -140,12 +137,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15416196)<br>music nut<br>2018-10-12 22:08<br>赞(1) 踩(0) | <div>最喜欢的电视剧没有之一，最喜欢的OST！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405590003)<br>一花一世界，一叶一追寻。<br>2018-10-11 08:49<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353895187)<br><br>2018-10-10 07:49<br>赞(1) 踩(0) | <div>这大约就是一眼误终身吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91544418)<br>我还没想好要写什么...<br>2018-10-06 02:28<br>赞(10) 踩(0) | <div>我从未见过如此明亮的面孔，以及在他刚毅面颊上徐徐绽放的柔和笑容。我十四年的生命所孕育的全部的朦胧的向往终于第一次拥有了一个清晰可见的形象。我目瞪口呆，仿佛面对的是整个幽深的男人世界。他有弘哥哥的鼻子，高高的，直直的，好像山的脊梁，眼睛特像贤，不仅很大，还长长的，像一潭深水，他眉毛可漂亮了，是那种剑眉，透着英气。对了，还有嘴，像显，不，更像旦，厚厚的嘴，嘴角还微微上扬，下巴上还有一道儿，就在这儿，很威武的样子。我知道了，是牙，牙更像显，雪白整齐，泛着轻轻的品色，他笑起来的样子啊，好像春天里最亮丽的一束阳光。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91544418)<br>我还没想好要写什么...<br>2018-10-06 02:28<br>赞(10) 踩(0) | <div>我从未见过如此明亮的面孔，以及在他刚毅面颊上徐徐绽放的柔和笑容。我十四年的生命所孕育的全部的朦胧的向往终于第一次拥有了一个清晰可见的形象。我目瞪口呆，仿佛面对的是整个幽深的男人世界。<br>他有弘哥哥的鼻子，高高的，直直的，好像山的脊梁，眼睛特像贤，不仅很大，还长长的，像一潭深水，他眉毛可漂亮了，是那种剑眉，透着英气。对了，还有嘴，像显，不，更像旦，厚厚的嘴，嘴角还微微上扬，下巴上还有一道儿，就在这儿，很威武的样子。我知道了，是牙，牙更像显，雪白整齐，泛着轻轻的品色，他笑起来的样子啊，好像春天里最亮丽的一束阳光。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293894309)<br><br>2018-10-04 21:52<br>赞(1) 踩(0) | <div>初闻不识曲中意，再闻已是曲中人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335102118)<br><br>2018-10-03 23:44<br>赞(1) 踩(0) | <div>对于太平来说，一见薛绍误终生。不如当年没遇见，或许她的结局会不同&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124438474)<br> <br>2018-10-03 11:26<br>赞(4) 踩(0) | <div>最喜欢这种配着呼吸起伏的音乐，深沉，悲恸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281164087)<br>我会试着放下往事不管过去...<br>2018-09-29 05:15<br>赞(4) 踩(0) | <div>我们从小到大都被教育要善良，要懂事，要忍让，要学会谦让，要当一个品德高尚的人，却没人教我们怎么自卫，怎么回避小人，怎么不去浪费自己的善意和心力。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323283871)<br>梦想不多兜里有糖肚里有墨...<br>2018-09-28 12:31<br>赞(2) 踩(0) | <div>&amp;ldquo;老板，我可不可以只要一杯酒，敬往事和孤独，还有下错的决定。&amp;rdquo;&amp;ldquo;对不起，如果您要买醉，请去别家，我们这里不卖过往，只剩爱人和心脏。&amp;rdquo;&amp;ldquo;那都要了，爱人和心脏分开放，也许这样就不会痛了。&amp;rdquo;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323283871)<br>梦想不多兜里有糖肚里有墨...<br>2018-09-28 12:31<br>赞(2) 踩(0) | <div>&amp;ldquo;老板，我可不可以只要一杯酒，敬往事和孤独，还有下错的决定。&amp;rdquo;<br><br>&amp;ldquo;对不起，如果您要买醉，请去别家，我们这里不卖过往，只剩爱人和心脏。&amp;rdquo;<br><br>&amp;ldquo;那都要了，爱人和心脏分开放，也许这样就不会痛了。&amp;rdquo;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3020709)<br>我还没想好要写什么...<br>2018-09-26 06:54<br>赞(0) 踩(0) | <div>&amp;zwj;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329565072)<br><br>2018-09-25 14:45<br>赞(0) 踩(0) | <div>好缠绵的曲子啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225727205)<br> <br>2018-09-22 08:57<br>赞(0) 踩(0) | <div>这曲子太有味道了</div> |
@@ -164,7 +161,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19219633)<br>要去柏林 要实现<br>2018-08-04 08:40<br>赞(0) 踩(0) | <div>那时看这个不过八九岁，老了一回</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343767494)<br><br>2018-08-01 09:25<br>赞(1) 踩(0) | <div>薛绍真的帅气又儒雅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50688033)<br><br>2018-07-31 21:16<br>赞(1) 踩(0) | <div>最喜欢剧中这个配乐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340560454)<br><br>2018-07-30 22:09<br>赞(0) 踩(0) | <div>最经典  一部历史剧演的非常棒非常美丽特别喜欢太平公主</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340560454)<br><br>2018-07-30 22:09<br>赞(0) 踩(0) | <div>最经典  一部历史剧<br>演的非常棒<br>非常美丽<br>特别喜欢太平公主</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125525078)<br><br>2018-07-28 18:30<br>赞(0) 踩(0) | <div>遇见薛绍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379279784)<br><br>2018-07-22 14:21<br>赞(1) 踩(0) | <div>想把大明宫词重新看一遍 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278311462)<br><br>2018-07-22 01:44<br>赞(0) 踩(0) | <div>棠棣之华</div> |
@@ -184,7 +181,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326392736)<br>我来我见我征服<br>2018-05-26 15:42<br>赞(1) 踩(0) | <div>刹那美好转瞬挥飞烟灭，只叹一眼望尽却误了卿卿一世年华。乐哉？悲哉！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129290002)<br>爱别人，更要爱自己。<br>2018-05-24 06:28<br>赞(4) 踩(0) | <div>赵文瑄满足了我对翩翩公子所有的想象</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353552542)<br>从R&B Hip-hop...<br>2018-05-16 09:40<br>赞(4) 踩(0) | <div>唯美古风的极致。什么时候能再有这样的国产电视剧？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296936564)<br>Hail Univers...<br>2018-05-12 03:16<br>赞(0) 踩(0) | <div>Gunnar,下辈子我会变成一只猫，如果我们遇见，千万别让我流浪啦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296936564)<br>Hail Univers...<br>2018-05-12 03:16<br>赞(0) 踩(0) | <div>Gunnar,<br><br>下辈子我会变成一只猫，<br><br>如果我们遇见，<br><br>千万别让我流浪啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14024330)<br><br>2018-05-09 09:13<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82459184)<br>狭小局促里的人间世俗压倒...<br>2018-05-01 12:43<br>赞(1) 踩(0) | <div>目光沿着宝石山穿行，最后一个扑入眼底的是矗立在山尖的保俶塔。我曾在山下隔着湖水用好几个落日望过这塔。而来到了塔下，塔体显得格外笔直，似乎下一秒它就要倒伏下来，似乎世界一直保有另一个角度，而欲在此时被猛然掷下。无数交错的经纬在顶端虚设着塔尖的消逝，如编织某种目光，让我们得以看见另外一些人：那些被突如其来按住心底的人，那些在江中鞭赶着落日的人，那些于六边形内凝望过自己的人。的确，有那么一瞬间，我相信那是你，正换进我昨日的身体，而今日的我的身体正僵硬的为了现实谋划&amp;mdash;&amp;mdash;每走一步，上一秒顷刻塌陷，下一秒陌生的脸幻觉般蒸烫着我的心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326522547)<br><br>2018-05-01 03:08<br>赞(1) 踩(0) | <div>作曲大大竟然是我们学校的硕导&amp;hellip;&amp;hellip;我还去过他们学院办公楼&amp;hellip;&amp;hellip;跪下了</div> |
@@ -206,7 +203,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/451249)<br>Miles to Go<br>2018-03-25 20:09<br>赞(1) 踩(0) | <div>2018.3 大明宫签到~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335008622)<br><br>2018-03-24 14:35<br>赞(1) 踩(0) | <div>一见薛绍误终身，这样的情景放到现在，也没有哪个少女不会为之沉迷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18001553)<br> <br>2018-03-21 22:58<br>赞(2) 踩(0) | <div>有另一个名字，叫做长相守</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351091252)<br> <br>2018-03-21 22:57<br>赞(8) 踩(0) | <div>有时候就算你 有幸 一眼万年命运也能让你 生死 不复相见今年35岁了，距离第一次心动已过去十数载，当初很感激命运在我最美好的年华安排了那一眼万年的相遇, 却不曾想，命运也同时给我安排了一场生死离别。甚至 我都还没来得及告诉他：无论你去到何天涯海角,我都愿弃一切浮华来追随相伴。可是，他去的却是我还到不了的遥远本以为此生 心如止水再无波澜，却在他离世的第十个年头的现在，又遇到那眼神，天真的幻想，这一次总该是命运对我亏欠，才再次安排了相遇要续十年前未圆之梦的吧。其实，心明白，从还未开始的第一眼，也早已有了注定的结局，自欺欺人罢了。这就是命运的力量</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351091252)<br> <br>2018-03-21 22:57<br>赞(8) 踩(0) | <div>有时候就算你 有幸 一眼万年<br>命运也能让你 生死 不复相见<br><br>今年35岁了，距离第一次心动已过去十数载，当初很感激命运在我最美好的年华安排了那一眼万年的相遇, 却不曾想，命运也同时给我安排了一场生死离别。甚至 我都还没来得及告诉他：无论你去到何天涯海角,我都愿弃一切浮华来追随相伴。<br><br>可是，他去的却是我还到不了的遥远<br><br>本以为此生 心如止水再无波澜，却在他离世的第十个年头的现在，又遇到那眼神，天真的幻想，这一次总该是命运对我亏欠，才再次安排了相遇要续十年前未圆之梦的吧。<br><br><br>其实，心明白，从还未开始的第一眼，也早已有了注定的结局，自欺欺人罢了。<br><br>这就是命运的力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336198864)<br><br>2018-03-17 12:35<br>赞(1) 踩(0) | <div>这一曲可以代表中华文华的灿烂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290327495)<br><br>2018-03-17 00:18<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208751026)<br><br>2018-02-28 06:11<br>赞(5) 踩(0) | <div>怎奈这部剧我竟看了三遍&amp;hellip;&amp;hellip;每次看，深情之处泪欲滴～</div> |
@@ -260,14 +257,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49094161)<br>一念间风生水起，一念间飞...<br>2017-10-24 17:35<br>赞(2) 踩(0) | <div>长相思不如长相忆，长相忆不如长相伴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75497994)<br>Om ar ra ba ...<br>2017-10-18 07:42<br>赞(1) 踩(0) | <div>︽︽ <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">︽︽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245767657)<br><br>2017-10-18 00:37<br>赞(0) 踩(0) | <div>大唐无双</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322605300)<br><br>2017-10-17 20:50<br>赞(2) 踩(0) | <div>赵文瑄一直都是梦中人只是脸大 奈何周正</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322605300)<br><br>2017-10-17 20:50<br>赞(2) 踩(0) | <div>赵文瑄一直都是梦中人<br>只是脸大 奈何周正</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15759489)<br><br>2017-10-11 00:32<br>赞(0) 踩(0) | <div>梦回大唐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305240094)<br><br>2017-10-06 20:24<br>赞(0) 踩(0) | <div>一听就有点哀伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9038329)<br>如果爱可以爱我们就要找到...<br>2017-09-26 13:27<br>赞(1) 踩(0) | <div>哎哟不错吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8168787)<br> <br>2017-09-22 00:27<br>赞(1) 踩(0) | <div>玲珑骰子安红豆，入骨相思知不知</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1126689)<br>來不及為你變成好人<br>2017-09-21 21:43<br>赞(2) 踩(0) | <div>长相守</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6058925)<br>青石的街道向晚。<br>2017-09-19 17:04<br>赞(4) 踩(0) | <div>之前很喜欢的两首曲目：一曲茶炉暖色，青石街道向晚，曲也如名，极有意境。(另一首出自专辑《水色》)</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45335205)<br>情之所起，所灭<br>2017-09-14 11:26<br>赞(7) 踩(0) | <div>熟悉的陌生人适用于爱情，亲情，友情最好，一种都不要伸手去要不知多少悔恨，痛苦绵绵与此</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45335205)<br>情之所起，所灭<br>2017-09-14 11:26<br>赞(7) 踩(0) | <div>熟悉的陌生人<br>适用于爱情，亲情，友情<br>最好，一种都不要伸手去要<br>不知多少悔恨，痛苦<br>绵绵与此</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1472253)<br><br>2017-09-10 12:07<br>赞(8) 踩(0) | <div>赵叔叔的酒窝好好看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242808980)<br><br>2017-09-03 16:34<br>赞(18) 踩(0) | <div>曾经天真烂漫，一撞见他便知爱情。哪怕后来人也如他般皮囊，终不是他了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33513492)<br><br>2017-09-01 23:45<br>赞(2) 踩(0) | <div>台词的经典，现在仍然记忆犹新！</div> |
@@ -300,7 +297,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36589411)<br>生而不同，我亦痛恨平庸<br>2017-07-07 09:53<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10505446)<br><br>2017-07-04 12:36<br>赞(8) 踩(0) | <div>那一掀面具的感觉，无法用语言描述的美好，微微一笑，花儿开了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265449242)<br><br>2017-07-02 13:25<br>赞(8) 踩(0) | <div>打开面具的那一瞬间，我感觉我也恋爱了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243291830)<br><br>2017-06-21 23:11<br>赞(91) 踩(0) | <div>&amp;ldquo;您的错误就是美若天仙蓬松的乌发涨满了我的眼帘看不见道路山川只是漆黑一片&amp;rdquo; <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243291830)<br><br>2017-06-21 23:11<br>赞(91) 踩(0) | <div>&amp;ldquo;您的错误<br>就是美若天仙<br>蓬松的乌发<br>涨满了我的眼帘<br>看不见道路山川<br>只是漆黑一片&amp;rdquo; <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5810830)<br>我还没想好要写什么...<br>2017-06-20 10:36<br>赞(7) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8685432)<br><br>2017-06-21 20:55<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">那句话我也记了好久</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131206336)<br><br>2017-06-17 02:08<br>赞(2) 踩(0) | <div>这初见是一眼万年</div> |
@@ -384,7 +381,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143429416)<br><br>2017-02-11 21:57<br>赞(0) 踩(0) | <div>这曲子今天应景</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44068273)<br> <br>2017-02-08 19:22<br>赞(0) 踩(0) | <div>凄美动人的爱情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114514078)<br>Time will br...<br>2017-02-07 22:10<br>赞(0) 踩(0) | <div>♬</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263081724)<br><br>2017-02-06 23:02<br>赞(5) 踩(0) | <div>距离看过那么多好始终难以忘记的旋律太平流着眼泪揭下薛邵面具的那一刻历历在目长安月下一壶清酒一束桃花心如烛光渴望在幻想中点亮</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263081724)<br><br>2017-02-06 23:02<br>赞(5) 踩(0) | <div>距离看过那么多好<br>始终难以忘记的旋律<br>太平流着眼泪揭下薛邵面具的那一刻历历在目<br>长安月下<br>一壶清酒一束桃花<br>心如烛光<br>渴望在幻想中点亮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40073845)<br><br>2017-02-02 00:00<br>赞(22) 踩(0) | <div>小姐，你是不是认错人了？你是在找人吗？你看，每张昆仑奴的面具是一样的，但面具下面的脸却不一样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128718470)<br>我还没想好要写什么...<br>2017-01-25 23:14<br>赞(5) 踩(0) | <div>薛绍太过专一，他的父母完成了长相守！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197623839)<br>夏天的浪花，蒲公英的花，...<br>2017-01-25 12:29<br>赞(3) 踩(0) | <div>听到就要哭</div> |
@@ -394,7 +391,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314283980)<br><br>2017-07-24 22:02<br>赞(0) 踩(0) | <div><q><b>一直爱你的兔子君说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114751796)<br>所爱隔山海，山海不可平<br>2017-12-20 04:10<br>赞(0) 踩(0) | <div><q><b>一直爱你的兔子君说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/136043458)<br>微Dollar66666...<br>2017-01-16 00:10<br>赞(0) 踩(0) | <div>。平白无故惹旧人。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261694513)<br><br>2017-01-13 22:48<br>赞(0) 踩(0) | <div>晚安小宇宙：）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261694513)<br><br>2017-01-13 22:48<br>赞(0) 踩(0) | <div>晚安<br>小宇宙：）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50520284)<br>他比烟花灿烂<br>2017-01-03 22:22<br>赞(2) 踩(0) | <div>剧里这曲子一响就要哭哭哭</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265433220)<br><br>2017-01-21 00:35<br>赞(0) 踩(0) | <div>是的，一听到心里都会颤动。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223677137)<br>静美 淡然<br>2017-01-03 21:53<br>赞(1) 踩(0) | <div>你熟悉吗☕</div> |
@@ -406,7 +403,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51586444)<br>‍再見<br>2016-12-22 22:35<br>赞(1) 踩(0) | <div>像错过像遗憾像捉不住的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52547249)<br>胸怀是委屈撑大的<br>2016-12-22 13:02<br>赞(0) 踩(0) | <div>之前不是叫 死亡</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256138533)<br><br>2016-12-22 14:05<br>赞(0) 踩(0) | <div>那是繁华过后</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20338961)<br>我还没想好要写什么...<br>2016-12-17 23:20<br>赞(0) 踩(0) | <div>一首久违的歌在今夜_</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20338961)<br>我还没想好要写什么...<br>2016-12-17 23:20<br>赞(0) 踩(0) | <div>一首久违的歌<br>在今夜_</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39705847)<br><br>2016-12-11 23:49<br>赞(2) 踩(0) | <div>长安月下相遇，爱上了就是一辈子，回头再看一次薛少和太平的爱情故事，晚安。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81422088)<br><br>2016-12-10 13:59<br>赞(0) 踩(0) | <div>野花迎风飘摆，好像是在倾诉衷肠。绿草凄凄抖动，无尽的缠绵依恋；</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53683383)<br>处江湖之远，不忧。<br>2016-12-08 17:33<br>赞(1) 踩(0) | <div>若时光能静止，只愿停在初见时。</div> |
@@ -498,12 +495,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7223924)<br><br>2016-03-17 18:41<br>赞(1) 踩(0) | <div>心好像停留在这样的梦里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51713937)<br>我还没想好要写什么...<br>2016-03-17 09:59<br>赞(1) 踩(0) | <div>不思量，自难忘。直道相思了无益，未妨惆怅是清狂。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123083652)<br>好不好吃嘛～<br>2016-03-14 21:04<br>赞(0) 踩(0) | <div>想哭</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57568280)<br>此身  此时  此地<br>2016-03-13 23:21<br>赞(10) 踩(0) | <div>我的天…忽然听到的这段音乐，让我想重拾我就学开了个头的笛子…谁还记得曾经的大明宫词么…里面的这段，真的是…少女时代忧伤色彩的底色啊…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57568280)<br>此身  此时  此地<br>2016-03-13 23:21<br>赞(10) 踩(0) | <div>我的天…忽然听到的这段音乐，让我想重拾我就学开了个头的笛子…<br>谁还记得曾经的大明宫词么…<br>里面的这段，真的是…少女时代忧伤色彩的底色啊…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/701979)<br><br>2016-03-08 21:32<br>赞(4) 踩(0) | <div>笛声响起，悠，远，哀，美…浪漫至极的唐朝，那一句“小姐，你认错人了”，惊艳了整个童年。一曲茶炉暖色，拂袖而去温婉。林先生的曲子，美得不可胜收。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109996510)<br>与谁同坐，明月清风我<br>2016-03-04 21:10<br>赞(2) 踩(0) | <div>长相守</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13627060)<br><br>2016-03-03 10:44<br>赞(2) 踩(0) | <div>你乌云般的额发涨满我的眼帘，看不见道路山川，只有漆黑一片。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104770916)<br>无事此静坐，有福方读书。<br>2016-02-23 09:59<br>赞(1) 踩(0) | <div>情深意长</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89919420)<br><br>2016-02-22 09:22<br>赞(35) 踩(0) | <div>去年元夜时，花市灯如昼。月上柳梢头，人约黄昏后。今年元夜时，月与灯依旧。不见去年人，泪湿春衫袖。——宋·欧阳修《生查子》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89919420)<br><br>2016-02-22 09:22<br>赞(35) 踩(0) | <div>去年元夜时，花市灯如昼。<br>月上柳梢头，人约黄昏后。<br>今年元夜时，月与灯依旧。<br>不见去年人，泪湿春衫袖。<br>——宋·欧阳修《生查子》</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37085338)<br>大梦谁先觉。<br>2016-04-03 20:30<br>赞(0) 踩(0) | <div>总是当时携手处，游遍芳丛。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43495425)<br> <br>2016-02-22 01:18<br>赞(1) 踩(0) | <div>令人沉醉痴缠。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77717002)<br>此博无关风与月<br>2016-02-21 18:08<br>赞(1) 踩(0) | <div>薛绍 <img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
@@ -698,7 +695,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2989303)<br><br>2013-12-19 17:08<br>赞(0) 踩(0) | <div>听完值么掉眼泪儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4095736)<br> <br>2013-12-17 22:44<br>赞(0) 踩(0) | <div>《长相守》的另一个版本诶，喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7072256)<br>生命宛如静静的相拥的河<br>2013-12-17 21:26<br>赞(0) 踩(0) | <div>有空再看一遍《大明宫词》 以前看的时候太小还不懂 只被那盛唐的风采仕女的罗裙迷了眼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3261480)<br><br>2013-12-17 16:12<br>赞(1) 踩(0) | <div>采桑女：野花儿迎风飘摆，好像是在倾诉衷肠；绿草凄凄抖动，无尽的缠绵依恋；初绿的柳枝，坠入悠悠碧水，搅乱了芳心，柔情荡漾。为什么春天每年都如期而至，而我远行的丈夫却年年不见音讯？将军：离家去国，整整三年，为了梦想中金碧辉煌的长安。都市里充满了神奇的历险，满足一个男儿宏伟的心愿。现在，终于锦衣还乡，又遇上这故里的春天。看这，一江春水；看这，满溪桃花；看这，如黛青山……都没有丝毫改变。也不知新婚一夜就别离的妻子是否依旧红颜?迎面来的是谁家女子，生得是满面春光，美丽非凡! 这位姑娘，请你停下美丽的脚步，你可知自己犯下什么样的错误?</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3261480)<br><br>2013-12-17 16:12<br>赞(1) 踩(0) | <div>采桑女：野花儿迎风飘摆，好像是在倾诉衷肠；绿草凄凄抖动，无尽的缠绵依恋；初绿的柳枝，坠入悠悠碧水，搅乱了芳心，柔情荡漾。为什么春天每年都如期而至，而我远行的丈夫却年年不见音讯？<br>将军：离家去国，整整三年，为了梦想中金碧辉煌的长安。都市里充满了神奇的历险，满足一个男儿宏伟的心愿。现在，终于锦衣还乡，又遇上这故里的春天。看这，一江春水；看这，满溪桃花；看这，如黛青山……都没有丝毫改变。也不知新婚一夜就别离的妻子是否依旧红颜?迎面来的是谁家女子，生得是满面春光，美丽非凡! 这位姑娘，请你停下美丽的脚步，你可知自己犯下什么样的错误?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/779308)<br><br>2013-12-17 14:12<br>赞(0) 踩(0) | <div>曾经 一定是故人 站在川流的洛阳街 缓缓揭下面具 只记得 雍容的牡丹 和那双深渊的眼 其实我们都没有错 你徐徐绽放的笑容 是我躲不过的宿命 用今生 弹拨一曲茶炉暖色 唱一出长相守的誓言</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12128667)<br><br>2013-12-16 13:42<br>赞(0) 踩(0) | <div>额。。。搞错了，这个才是长相守</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26241454)<br><br>2013-12-14 22:28<br>赞(0) 踩(0) | <div>原来只知道叫《长相守》，不知道还有这么一个名字《一曲茶炉暖色》  喜欢。</div> |
@@ -726,7 +723,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5462018)<br><br>2013-07-26 01:59<br>赞(0) 踩(0) | <div>曾经，一定是故人站在川流的洛阳街，缓缓揭下面具，只记得，雍容的牡丹，和那双深渊的眼。其实我们都没有错，你徐徐绽放的笑容，是我躲不过的宿命。用今生，弹一曲茶炉暖色，唱一出长相守的誓言。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12056180)<br><br>2013-07-20 22:52<br>赞(0) 踩(0) | <div>长安月下，一壶清酒，一束桃花。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14838169)<br>Let’s talk a...<br>2013-07-05 09:23<br>赞(0) 踩(0) | <div>童年印象，以及难能可贵的艺术追求。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615139)<br>精神病人思路广<br>2013-07-04 22:24<br>赞(0) 踩(0) | <div>她掀开那张昆仑奴面具，改变了多少人的一生。她笑着向她的母后描述他，他有弘哥哥的鼻子，高高的，直直的，好像山的脊梁，眼睛特像贤，不仅很大，还长长的，像一油深水，他眉毛可漂亮了，是那种剑眉，透着英气。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615139)<br>精神病人思路广<br>2013-07-04 22:24<br>赞(0) 踩(0) | <div>她掀开那张昆仑奴面具，改变了多少人的一生。<br>她笑着向她的母后描述<br>他，他有弘哥哥的鼻子，<br>高高的，直直的，好像山的脊梁，眼睛特像贤，不仅很大，还长长的，像一油深水，他眉毛<br>可漂亮了，是那种剑眉，透着英气。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615139)<br>精神病人思路广<br>2013-07-04 22:21<br>赞(0) 踩(0) | <div>用今生 弹拨一曲茶炉暖色 唱一出长相守的誓言</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8094325)<br>我还没想好要写什么...<br>2013-07-02 22:28<br>赞(0) 踩(0) | <div>- 一有小情绪渲染我就会听这曲儿，粗粗算一下，近几个月平均每天都得听上3遍，害得我都想去学笛子了。然后继loving you被我染指后再树立一个新的梦想，那就是“学会以后吹给我心爱的姑娘” 神讨厌，听着听着落泪的冲动就来了，HING -</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7901472)<br>听听歌，做做梦，发发呆。<br>2013-06-29 22:20<br>赞(0) 踩(0) | <div>以前只道是大明宫词的配乐，后来听了许多林海的作品才知道这首也出自他手。这位多元化的轻音乐才子与李少红导演的诗画般的意境相得益彰，加之这部剧原版文字的极致诗意，我至今都深爱不已。</div> |
@@ -744,7 +741,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5585016)<br>下架大潮之后，推荐的歌都...<br>2013-04-06 23:44<br>赞(0) 踩(0) | <div>曾经 一定是故人 站在川流的洛阳街 缓缓揭下面具 只记得 雍容的牡丹 和那双深渊的眼 其实我们都没有错 你徐徐绽放的笑容 是我躲不过的宿命 用今生 弹拨一曲茶炉暖色 唱一出长相守的誓言</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7889869)<br><br>2013-04-03 10:39<br>赞(0) 踩(0) | <div>曾经,一定是故人站在川流的洛阳街缓缓揭下面具. 只记得雍容的牡丹和那双深渊的眼.其实我们都没有错,你徐徐绽放的笑容是我躲不过的宿命.用今生弹拨一曲茶炉暖色,唱一出长相守的誓言.....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6420161)<br><br>2013-04-02 21:58<br>赞(0) 踩(0) | <div>曾经 一定是故人 站在川流的洛阳街 缓缓揭下面具 只记得 雍容的牡丹 和那双深渊的眼 其实我们都没有错 你徐徐绽放的笑容 是我躲不过的宿命 用今生 弹拨一曲茶炉暖色 唱一出长相守的誓言</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11115210)<br><br>2013-03-30 01:22<br>赞(0) 踩(0) | <div>曾记否，那骑马的将军，如何被路边的女子而倾倒。仿佛徜徉在阳春三月的长安西市街口，杨柳依依，马蹄声碎，蓦然回首间，却被一美人惊灿。。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11115210)<br><br>2013-03-30 01:22<br>赞(0) 踩(0) | <div>曾记否，那骑马的将军，如何被路边的女子而倾倒。<br>仿佛徜徉在阳春三月的长安西市街口，杨柳依依，马蹄声碎，蓦然回首间，却被一美人惊灿。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1966660)<br><br>2013-03-26 16:22<br>赞(0) 踩(0) | <div>虽然我还是喜欢《长相守》这个名字……但这个曲子，并不会因为名字改变而改变些什么。凤凰于飞，和鸣锵锵。只有林海的曲子，会给我这种鸾凤和鸣的感觉呢。长相思兮长相忆，总觉得林海好知道怎么用音乐唱「相思」。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7997065)<br><br>2013-03-24 00:06<br>赞(0) 踩(0) | <div>@Nic-小宁萌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7176375)<br><br>2013-03-17 18:19<br>赞(0) 踩(0) | <div>这曲名真真是极好的</div> |
@@ -827,7 +824,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6687600)<br><br>2011-12-22 23:33<br>赞(0) 踩(0) | <div>百听不厌的曲子 从心里爱着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/172091)<br>人生何处不相逢<br>2011-12-21 11:29<br>赞(0) 踩(0) | <div>一曲茶炉暖色，道不尽长相守</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6879653)<br><br>2011-12-18 21:40<br>赞(0) 踩(0) | <div>融雪煎香茗，嫩茶舒凤爪，檀香轻冉，丝竹充耳，曼妙而歌。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6078818)<br>音樂是解藥<br>2011-11-19 17:18<br>赞(0) 踩(0) | <div>你说，到底是应该感谢那副昆仑奴面具，感谢它把我带向了你，还是该怪它呢，怪它让我喜欢上了你。一曲茶炉暖色，长相守。《大明宫词》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6078818)<br>音樂是解藥<br>2011-11-19 17:18<br>赞(0) 踩(0) | <div>你说，到底是应该感谢那副昆仑奴面具，感谢它把我带向了你，还是该怪它呢，怪它让我喜欢上了你。<br>一曲茶炉暖色，长相守。<br><br>《大明宫词》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2315498)<br>附庸风雅 神神叨叨<br>2011-11-18 11:41<br>赞(0) 踩(0) | <div>@团子开 最近一直在晚上听这首大明宫词里的曲子 一曲茶炉暖色 。真是美死了。淡淡的人声哼唱和乐器~~~虽然听人说这首曲子没有词也已然很美。乐器的声音很丰满了，但是觉得如果有支华美的小词配着，哪怕没有最合适的声音配合，也是很美的了啊QAQ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/988338)<br>平凡之路的指南针<br>2011-11-16 14:34<br>赞(0) 踩(0) | <div>这个名字是从哪来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2936535)<br><br>2011-11-09 18:37<br>赞(0) 踩(0) | <div>《一曲茶炉暖色》《大明宫词》</div> |

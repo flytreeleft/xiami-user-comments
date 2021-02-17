@@ -66,6 +66,6 @@ Welcome to /lyrics<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2842497)<br><br>2011-03-16 09:23<br>赞(0) 踩(0) | <div>节奏不错</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e66cb038148ce21525e7b6bc9f3026c1.jpg)<br>王景辉](https://i.xiami.com/shenjiajun) | **播放数**: 2590656<br>**粉丝数**: 230<br>**评论数**: 47<br>**地区**: China 中国大陆<br>**风格**: rap, 中国风, R&B, 通俗<br> |
+| [![](../../images/musicians/e66cb038148ce21525e7b6bc9f3026c1.jpg)<br>王景辉](https://i.xiami.com/shenjiajun) | **地区**: China 中国大陆<br>**风格**: rap, 中国风, R&B, 通俗<br>**播放数**: 2590656<br>**粉丝数**: 230<br>**评论数**: 47<br> |
 
 ## 档案
 
@@ -13,13 +13,11 @@
 
 ## 专辑
 
-| 名称 | 语种 | 唱片公司 | 发行时间 | 专辑类别 | 专辑风格 |
-| :--: | :-- | :-- | :-- | :-- | :-- |
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434986954)<br><br>2020-10-25 22:44<br>赞(0) 踩(0) | <div>干净的声音，继续加油吧 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296255489)<br>真想一下子抱住你说我好喜...<br>2020-10-23 15:59<br>赞(0) 踩(0) | <div>微博叫什么呀 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17531109)<br>合作：chuck_off...<br>2020-10-29 23:41<br>赞(0) 踩(0) | <div>@chuckxxx</div> |

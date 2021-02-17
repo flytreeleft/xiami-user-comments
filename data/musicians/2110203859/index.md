@@ -3,7 +3,7 @@ DJ Jack X
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/353958d1045a2e7677b35fdcc18374c0.jpg)<br>DJ Jack X](https://i.xiami.com/jackx) | **播放数**: 3426208<br>**粉丝数**: 483<br>**评论数**: 15<br>**地区**: China 中国大陆<br>**风格**: 电子 Electronic, 出神舞曲 Trance<br> |
+| [![](../../images/musicians/353958d1045a2e7677b35fdcc18374c0.jpg)<br>DJ Jack X](https://i.xiami.com/jackx) | **地区**: China 中国大陆<br>**风格**: 电子 Electronic, 出神舞曲 Trance<br>**播放数**: 3426208<br>**粉丝数**: 483<br>**评论数**: 15<br> |
 
 ## 档案
 
@@ -20,8 +20,8 @@ DJ Jack X
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445676632)<br><br>2020-11-16 14:25<br>赞(0) 踩(0) | <div>牛牛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74977560)<br>佛系少年<br>2020-10-21 19:31<br>赞(0) 踩(0) | <div>牛牛牛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8179523)<br>岁月的琴声<br>2020-04-06 04:57<br>赞(0) 踩(0) | <div>关注支持</div> |

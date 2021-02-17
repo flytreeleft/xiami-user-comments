@@ -101,8 +101,8 @@ LRC制作 潘汉民<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12202460)<br>来一碟原声带尝尝<br>2019-07-22 21:06<br>赞(1) 踩(0) | <div>高三啊，刚开始有MP3啊，天天听啊有木有啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411123594)<br><br>2018-12-23 20:07<br>赞(0) 踩(0) | <div>原来王菲就是王蓉吖？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352544372)<br><br>2018-10-30 08:36<br>赞(1) 踩(0) | <div>好听。 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -173,7 +173,7 @@ LRC制作 潘汉民<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25590032)<br>咩啊<br>2014-11-16 17:19<br>赞(2) 踩(0) | <div>虽然是抄的，但感觉音乐算是好的，对小鸡接受不能，滑板鞋起码有梦，小鸡我不知道算什么。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11789913)<br><br>2014-11-08 11:17<br>赞(0) 踩(0) | <div>抄得漂亮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8368932)<br><br>2014-11-06 23:55<br>赞(0) 踩(0) | <div>鬼吹灯那个时候刚写完，每晚一边听歌一边看..初一吗？还是初二</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25429733)<br><br>2014-11-04 23:03<br>赞(0) 踩(0) | <div>山西晚报：听到你的新歌《爸爸妈妈》，很好听，是你自己创作的吗？王蓉：对啊，我自己作词作曲的。参考资料：www.sx.chinanews.com.cn/2008-04-27/1/63333.html</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25429733)<br><br>2014-11-04 23:03<br>赞(0) 踩(0) | <div>山西晚报：听到你的新歌《爸爸妈妈》，很好听，是你自己创作的吗？<br>王蓉：对啊，我自己作词作曲的。<br>参考资料：www.sx.chinanews.com.cn/2008-04-27/1/63333.html</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7987622)<br>暂无签名~<br>2014-11-02 11:41<br>赞(0) 踩(0) | <div>初中时很爱的，还是同学拿蓝牙给我传的，回忆满满</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32426603)<br> <br>2014-11-02 11:10<br>赞(2) 踩(0) | <div>不知道后来的你还有没有听过你以前的作品 应该会有很大的感触吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20549708)<br><br>2014-10-29 23:35<br>赞(12) 踩(0) | <div>我只想说这歌从出现开始就没交待是翻唱，就是抄袭黑眼豆豆那首纪念团员弟弟去世的歌，原曲真真的很悲伤。颇不道德唉。</div> |
@@ -244,7 +244,7 @@ LRC制作 潘汉民<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4818447)<br>在音乐中沉沦、升华、解脱<br>2012-05-11 23:27<br>赞(0) 踩(0) | <div>旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5112554)<br><br>2012-05-04 11:04<br>赞(0) 踩(0) | <div>我知道你们给了我半生的幸福，免我惊，免我苦，免我四下流离，免我无枝可依。可如今，孩子长大了，要去寻找另一份幸福。我的父亲，妈妈，我爱你们。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8920798)<br><br>2012-04-19 19:12<br>赞(0) 踩(0) | <div>很有意镜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936425)<br>不要吵<br>2012-04-19 17:45<br>赞(0) 踩(0) | <div>明明是黑眼豆豆 ...........................................</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936425)<br>不要吵<br>2012-04-19 17:45<br>赞(0) 踩(0) | <div>明明是黑眼豆豆 ......................<br>.....................</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3709390)<br>暂无签名~<br>2012-03-14 23:58<br>赞(0) 踩(0) | <div>爸爸妈妈~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8098228)<br><br>2012-02-18 19:14<br>赞(0) 踩(0) | <div>就是喜欢听这首歌时的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4782387)<br><br>2012-01-17 01:21<br>赞(0) 踩(0) | <div>不知道怎么说，希望我可以坚持到说真相的那一天，天天祈祷，我心脏可以更强一些。</div> |
@@ -268,7 +268,7 @@ LRC制作 潘汉民<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/859587)<br><br>2011-02-23 06:30<br>赞(0) 踩(0) | <div>真的有时候很想你，可是，我又凭什么想你呢？我只是掌握不了命运</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/859587)<br><br>2011-02-08 01:07<br>赞(0) 踩(0) | <div>因为你，我给这首歌五星</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/886988)<br><br>2011-02-04 23:47<br>赞(0) 踩(0) | <div>让你轻松一下。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220719)<br>自知不自見，自愛不自貴<br>2011-02-01 13:51<br>赞(0) 踩(0) | <div>抄襲，又是抄襲，看來中國不愧是世界第一山寨：沒有我仿造不了的，就怕是你沒有的。black eyed peas - The apl song ，就這麼直接拿過來用了，厲害～！叫做伊菲的時候讓人驚喜過，變成王蓉以後就如此無恥了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220719)<br>自知不自見，自愛不自貴<br>2011-02-01 13:51<br>赞(0) 踩(0) | <div>抄襲，又是抄襲，看來中國不愧是世界第一山寨：沒有我仿造不了的，就怕是你沒有的。<br>black eyed peas - The apl song ，就這麼直接拿過來用了，厲害～！<br>叫做伊菲的時候讓人驚喜過，變成王蓉以後就如此無恥了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2643955)<br><br>2011-01-27 18:24<br>赞(0) 踩(0) | <div>听了感觉很舒服</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2079682)<br><br>2011-01-06 22:17<br>赞(0) 踩(0) | <div>她的啊呀呀 用来耳麦测试听好的！这个歌旋律上口，好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1616276)<br><br>2010-10-05 23:48<br>赞(0) 踩(0) | <div>朋友推荐的歌曲，听过后真的很有感觉(*^__^*) 嘻嘻……</div> |

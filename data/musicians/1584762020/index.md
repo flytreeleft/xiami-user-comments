@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a9d49080ad74b65857184bec6fcb954b.jpg)<br>韦卓成](https://i.xiami.com/cheukshing) | **播放数**: 1992891<br>**粉丝数**: 343<br>**评论数**: 19<br>**地区**: United States of America 美国<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/a9d49080ad74b65857184bec6fcb954b.jpg)<br>韦卓成](https://i.xiami.com/cheukshing) | **地区**: United States of America 美国<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1992891<br>**粉丝数**: 343<br>**评论数**: 19<br> |
 
 ## 档案
 
@@ -31,8 +31,8 @@ linkedin:    https://www.linkedin.com/in/cheukshing-wai
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-13 05:03<br>赞(0) 踩(0) | <div>46334</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406282679)<br><br>2018-11-15 20:42<br>赞(0) 踩(0) | <div>古风喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380345416)<br><br>2018-10-08 21:01<br>赞(0) 踩(0) | <div>看过一点很不错</div> |

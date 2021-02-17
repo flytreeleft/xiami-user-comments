@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5474a4c01c3e64c755a4e3d91631e8a2.jpg)<br>善念](https://i.xiami.com/shannian) | **播放数**: 1897570<br>**粉丝数**: 1998<br>**评论数**: 60<br>**地区**: China 中国大陆<br>**风格**: 有声书 Audio Book<br> |
+| [![](../../images/musicians/5474a4c01c3e64c755a4e3d91631e8a2.jpg)<br>善念](https://i.xiami.com/shannian) | **地区**: China 中国大陆<br>**风格**: 有声书 Audio Book<br>**播放数**: 1897570<br>**粉丝数**: 1998<br>**评论数**: 60<br> |
 
 ## 档案
 
@@ -23,14 +23,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43332601)<br> <br>2021-01-20 11:31<br>赞(0) 踩(0) | <div>老师，虾米要关闭了，到时候到哪儿去听您念的作品？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39730815)<br><br>2021-01-22 11:33<br>赞(0) 踩(0) | <div>是挺伤心的，收藏了很多经典呢，不过还好可以在蜻蜓听啊，但是不能循环</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264444933)<br>我喜欢我。我还是我。<br>2021-01-07 02:19<br>赞(0) 踩(0) | <div>沙扬娜拉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355662082)<br> <br>2021-01-06 12:56<br>赞(0) 踩(0) | <div>老师在哪发布记得要告诉我们哦我的微信L_z113011301130</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355662082)<br> <br>2021-01-06 12:56<br>赞(0) 踩(0) | <div>老师在哪发布记得要告诉我们哦<br><br>我的微信<br>L_z113011301130</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355662082)<br> <br>2021-01-06 12:55<br>赞(0) 踩(0) | <div>希望可以在听到，希望老师看到可以添加一下，微信id L_z113011301130</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355662082)<br> <br>2021-01-06 12:54<br>赞(0) 踩(0) | <div>可不可以让我们在听到</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355662082)<br> <br>2021-01-06 12:54<br>赞(0) 踩(0) | <div>可不可以<br>让我们在听到</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355662082)<br> <br>2021-01-06 12:53<br>赞(0) 踩(0) | <div>虾米要停服了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39730815)<br><br>2021-01-22 11:34<br>赞(0) 踩(0) | <div>蜻蜓也有老师的作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427306090)<br><br>2020-09-19 20:17<br>赞(0) 踩(0) | <div>很荣幸能听到如此美妙诠释的朗读</div> |
@@ -46,7 +46,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34522244)<br><br>2019-03-01 21:27<br>赞(3) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12673440)<br>我还没想好要写什么...<br>2019-01-16 11:04<br>赞(2) 踩(0) | <div>声音好浓厚 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43332601)<br> <br>2018-12-14 00:19<br>赞(2) 踩(0) | <div>我是在听摇滚时 虾米推荐给我的 我一惊讶 继续听了下去  还是记忆中的那些诗歌散文  悠扬又优美  希望在我心底继续温暖下去</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361822582)<br><br>2018-10-27 17:36<br>赞(3) 踩(0) | <div>突然想听兰亭序但是找了很久都没找到纯朗诵版本的希望老师可以来一个</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361822582)<br><br>2018-10-27 17:36<br>赞(3) 踩(0) | <div>突然想听兰亭序<br>但是找了很久都没找到纯朗诵版本的<br>希望老师可以来一个</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194008994)<br><br>2018-10-17 23:38<br>赞(3) 踩(0) | <div>老师，我可以听听您读的春江花月夜吗 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379941674)<br><br>2018-10-14 10:39<br>赞(3) 踩(0) | <div>请问您可以在朗读“湖心亭看雪”吗？ <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168075364)<br>我还没想好要写什么...<br>2018-07-29 14:16<br>赞(4) 踩(0) | <div>第一次听到的时候，感觉整个世界都安静了，感动能听到这样美好的声音！</div> |
@@ -68,7 +68,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349768105)<br><br>2019-01-27 09:29<br>赞(0) 踩(0) | <div><q><b>善念-陈捷的朗诵说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348614612)<br><br>2018-02-20 19:15<br>赞(1) 踩(0) | <div>能不能有词啊？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1358999)<br> <br>2018-01-31 00:21<br>赞(1) 踩(0) | <div>有许多文章是我儿时读过的课文 当时觉得读课文不过是多识个字  今晚偶听了一篇朱自清的背影勾起童年的回忆  时间过得真快 转眼十多年过去了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344921383)<br><br>2018-01-19 10:10<br>赞(2) 踩(0) | <div>听了《送别》，第一段和第二段感觉不同。第一段&amp;ldquo;夕阳山外山&amp;rdquo;一句别离的伤感都溢出来了；第二段对友人的祝福与对人生自然的感慨。静下来好好听，感谢主播</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344921383)<br><br>2018-01-19 10:10<br>赞(2) 踩(0) | <div>听了《送别》，第一段和第二段感觉不同。第一段&amp;ldquo;夕阳山外山&amp;rdquo;一句别离的伤感都溢出来了；第二段对友人的祝福与对人生自然的感慨。<br>静下来好好听，感谢主播</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344921383)<br><br>2018-01-17 10:22<br>赞(1) 踩(0) | <div>第一次听，随心打开一首《蒹葭》；鸡皮疙瘩都起来了，&amp;ldquo;求不得&amp;rdquo;之宛在水中央</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288771642)<br><br>2018-01-15 10:22<br>赞(1) 踩(0) | <div>老师！！！我崇拜你！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282741745)<br>发发火 回复<br>2018-01-11 18:31<br>赞(2) 踩(0) | <div>陈老师朗诵的诗声音太好听了，感情丰富，有的时候我是含着眼泪在听。</div> |

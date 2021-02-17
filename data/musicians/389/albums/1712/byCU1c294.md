@@ -39,8 +39,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27402498)<br>(￣(●●)￣)岁月是把...<br>2020-04-27 01:51<br>赞(2) 踩(0) | <div>我也不知道心情糟透了，还要听这歌&amp;hellip;哭成！什么时候才能忘记&amp;hellip;3年了&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287191180)<br>爱音乐，爱生活！<br>2020-03-20 09:23<br>赞(2) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279116220)<br>我还没想好要写什么...<br>2020-02-24 19:11<br>赞(1) 踩(0) | <div>再放不下我是猪</div> |
@@ -70,7 +70,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266412167)<br>因为爱，所以爱……<br>2017-11-03 14:42<br>赞(2) 踩(0) | <div>离开我，你会很好。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329489366)<br>你不恨我就是最大的恩赐<br>2017-10-31 17:43<br>赞(2) 踩(0) | <div>你离开我，确定能过得好吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/176883)<br>凡人皆有一死<br>2017-10-28 00:29<br>赞(0) 踩(0) | <div>听完这首歌，很不对口的发现，我爱上了你，你永远不会看到这句话吧？傻孩子，我爱你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3311788)<br><br>2017-10-27 23:16<br>赞(1) 踩(0) | <div>我把你的电话从手机里消除了我把你的消息从话题里减少了我把你的味道用香水喷掉了我把你的照片用全家福挡住了你让我的懂事变成一种幼稚你让我的骄傲觉得很无知你让我的朋友关心我的生活你让我的软弱陪伴你的自由离开我你会不会好一点离开你什么事都难一点</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3311788)<br><br>2017-10-27 23:16<br>赞(1) 踩(0) | <div>我把你的电话从手机里消除了<br>我把你的消息从话题里减少了<br>我把你的味道用香水喷掉了<br>我把你的照片用全家福挡住了<br>你让我的懂事变成一种幼稚<br>你让我的骄傲觉得很无知<br>你让我的朋友关心我的生活<br>你让我的软弱陪伴你的自由<br>离开我<br>你会不会好一点<br>离开你<br>什么事都难一点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242761348)<br>我只是说假如<br>2017-10-13 21:32<br>赞(0) 踩(0) | <div>会好一点。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299516906)<br><br>2017-09-26 12:52<br>赞(0) 踩(0) | <div>好:-D</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3854129)<br>吾系osh至上主义者.<br>2017-09-17 22:41<br>赞(0) 踩(0) | <div>太经典了这首歌的翻唱了</div> |
@@ -134,7 +134,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11226115)<br><br>2013-08-31 14:23<br>赞(49) 踩(0) | <div>翻唱如此多，无人能复制品冠忧郁如水的温柔</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51800191)<br><br>2016-05-20 20:01<br>赞(0) 踩(0) | <div>你好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6227881)<br>也许我偶尔还是会想他，偶...<br>2013-08-11 23:57<br>赞(0) 踩(0) | <div>这两天和闺蜜在一起疯疯闹闹总是会忘记很多烦恼，简简单单真真切切，而生命中也有的人选择离开我，我一步步的扭正自己就是为了照顾好留在我身边的每个人。希望离开少一点！55555555</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9003931)<br>千淘万漉虽辛苦<br>2013-06-10 19:56<br>赞(0) 踩(0) | <div>作词：袁惟仁作曲：袁惟仁编曲：袁惟仁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9003931)<br>千淘万漉虽辛苦<br>2013-06-10 19:56<br>赞(0) 踩(0) | <div>作词：<br>袁惟仁<br>作曲：<br>袁惟仁<br>编曲：<br>袁惟仁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1321795)<br><br>2012-11-22 09:49<br>赞(0) 踩(0) | <div>其实觉得无论多么强大的男人内心里都有这样小羊羊的一面……哎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/453598)<br><br>2012-06-26 00:05<br>赞(2) 踩(0) | <div>品冠真是青春期疗伤的良药。（虽然已经不是青春期但最近老是被老球员老照片哽了又哽，谁没点回忆呢。╮(￣▽￣&amp;quot;)╭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5763100)<br><br>2011-09-22 17:17<br>赞(0) 踩(0) | <div>很久没听了还是那么回味！</div> |
@@ -145,5 +145,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2305423)<br><br>2011-01-27 15:10<br>赞(0) 踩(0) | <div>陶醉歌词中“离开我，你会不会好一点，离开你，什么事都难一点”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2305423)<br><br>2011-01-27 15:04<br>赞(0) 踩(0) | <div>男生女生，不同的味道！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/827595)<br>認真你就輸了。<br>2010-11-22 20:53<br>赞(0) 踩(0) | <div>离开我 你会不会好一点</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1670431)<br><br>2010-11-03 10:34<br>赞(0) 踩(0) | <div>离开我你会不会好一点....</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1670431)<br><br>2010-11-03 10:34<br>赞(0) 踩(0) | <div>离开我<br>你会不会好一点....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1328936)<br><br>2010-08-27 18:09<br>赞(0) 踩(0) | <div>很不错，很对我胃口。</div> |

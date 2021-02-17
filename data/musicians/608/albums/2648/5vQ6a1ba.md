@@ -12,18 +12,15 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252488768)<br>改掉强迫症<br>2020-01-21 14:19<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/2dddd65f06f01a396df470103735c8ff.png"> <img src="../../../../images/comments/2dddd65f06f01a396df470103735c8ff.png"> <img src="../../../../images/comments/2dddd65f06f01a396df470103735c8ff.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376631264)<br>睡个好觉<br>2019-08-03 17:07<br>赞(9) 踩(0) | <div>八月了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35226478)<br>四月<br>2019-07-09 11:29<br>赞(4) 踩(0) | <div>因四月出生，特别偏爱四月。 <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png">期待下一个人间四月天。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291011535)<br><br>2019-06-18 22:38<br>赞(4) 踩(0) | <div>夜间，站在桥上看着黑漆漆的河流。一瞬间想哭。努力那么久发现依然改变不了什么，不敢在任何人面前服输，不敢抱怨。说漫长又仅仅那么几十年的光阴，到底怎样过才能找到自己。才算有意义。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291011535)<br><br>2019-06-18 22:38<br>赞(4) 踩(0) | <div>夜间，站在桥上看着黑漆漆的河流。一瞬间想哭。<br>努力那么久发现依然改变不了什么，不敢在任何人面前服输，不敢抱怨。说漫长又仅仅那么几十年的光阴，到底怎样过才能找到自己。才算有意义。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206017315)<br>只有不畏劳苦的长途跋涉，...<br>2019-07-31 17:53<br>赞(0) 踩(0) | <div>坚持做自己，一直到末日来临</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253027270)<br><br>2019-08-21 02:14<br>赞(0) 踩(0) | <div>陪着你</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374780483)<br><br>2019-10-15 15:10<br>赞(0) 踩(0) | <div>努力不需要意义。因为“努力”就是意义。</div> |
@@ -41,10 +38,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407390979)<br>不要和地球人一般见识~~...<br>2018-12-28 20:59<br>赞(8) 踩(0) | <div>一个人的气质，并不在容颜和身材，而是所经历过的往事，是内在留下的印迹，令人深沉而安谧。所以，是一种阅历的凝聚；淡然是一段人生的沉淀。时间会让一颗灵魂，变得越来越动人。控制自己的脾气，做一个有修养的人。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378221158)<br>I’m still lo...<br>2018-10-21 13:11<br>赞(0) 踩(0) | <div>666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123974322)<br>0七月流火~ 但还是 赶...<br>2018-10-09 23:46<br>赞(0) 踩(0) | <div>一点点想给你 也</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951829)<br>孤鴻寄語·血色琉璃<br>2018-10-07 22:24<br>赞(2) 踩(0) | <div>四月是四月，十月是十月，十月不是四月，四月不是十月...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951829)<br>孤鴻寄語·血色琉璃<br>2018-10-07 22:24<br>赞(2) 踩(0) | <div>四月是四月，十月是十月，<br>十月不是四月，四月不是十月...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334730963)<br>倾听美好~<br>2018-09-26 07:14<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9084805)<br>豆瓣见：黎巴嫩的橄榄树<br>2018-09-13 18:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329413857)<br>你敬我一尺，我敬你。一生<br>2018-08-10 06:18<br>赞(2) 踩(0) | <div>因一个浮躁不安的季节有一份充满希望的信念将一个欲望产生的瞬间换一个破镜重圆的画面而一份难舍难分的情缘与一场不堪回首的往事消失在酒红的四月某天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329413857)<br>你敬我一尺，我敬你。一生<br>2018-08-10 06:18<br>赞(2) 踩(0) | <div>因一个浮躁不安的季节<br>有一份充满希望的信念<br>将一个欲望产生的瞬间<br>换一个破镜重圆的画面<br>而一份难舍难分的情缘<br>与一场不堪回首的往事<br>消失在酒红的四月某天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333954920)<br>音乐拙于言辞<br>2018-08-07 22:52<br>赞(7) 踩(0) | <div>&amp;ldquo;如果有一天，我有机会碰上喜欢的男孩子，愿意一起过一生的男孩子，就用这首作婚礼背景曲吧。关于爱情，关于婚礼，我什么都想好了，你要快点出现才好。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400236363)<br><br>2018-10-28 16:00<br>赞(0) 踩(0) | <div>虽然不曾相识，还是祝福你，陌生人！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295251406)<br>自古人生最忌满，半聋半哑...<br>2018-07-24 22:30<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -100,7 +97,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85604870)<br><br>2016-03-03 14:12<br>赞(4) 踩(0) | <div>当一个必然结果的事情中 精神本身以非理性方式行为时 本身就意味着这一段落的走向衰败</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91559526)<br>心有愉色，必有婉容。<br>2016-01-23 00:00<br>赞(0) 踩(0) | <div>当当当 当当当</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45385073)<br>虾米我爱你<br>2016-01-10 02:38<br>赞(2) 踩(0) | <div>同四月 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98599082)<br><br>2016-01-09 20:24<br>赞(2) 踩(0) | <div>因一个浮躁不安的季节有一份充满希望的信念将一个欲望产生的瞬间换一个破镜重圆的画面而一份难舍难分的情缘与一场不堪回首的往事消失在酒红的四月某天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98599082)<br><br>2016-01-09 20:24<br>赞(2) 踩(0) | <div>因一个浮躁不安的季节<br>有一份充满希望的信念<br>将一个欲望产生的瞬间<br>换一个破镜重圆的画面<br>而一份难舍难分的情缘<br>与一场不堪回首的往事<br>消失在酒红的四月某天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71107560)<br><br>2015-11-29 00:16<br>赞(2) 踩(0) | <div>我是4月的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39899901)<br> <br>2015-12-23 20:10<br>赞(0) 踩(0) | <div>同四月</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5624787)<br>时光如梭，生命如歌。<br>2015-11-26 15:54<br>赞(27) 踩(0) | <div>你说，你会在四月赶来，带着春天的礼物，和一幕花开。你说，让我等你到四月，却没说时光，有轮回的无奈......</div> |
@@ -161,10 +158,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1327135)<br>一切都是幻觉<br>2011-05-27 16:03<br>赞(1) 踩(0) | <div>明亮的阳光透过树叶照进林间空地，身着白衣的少女翩翩起舞，旋转，跳跃，与阳光同舞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1327135)<br>一切都是幻觉<br>2011-05-27 15:32<br>赞(0) 踩(0) | <div>明亮的四月</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2011-04-26 11:51<br>赞(0) 踩(0) | <div>在绿染江淮，春花烂漫之时，青山沉黛，风动林海，幽兰吐香，杜鹃漫红。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2011-04-24 20:17<br>赞(105) 踩(0) | <div>因一个浮躁不安的季节有一份充满希望的信念将一个欲望产生的瞬间换一个破镜重圆的画面而一份难舍难分的情缘与一场不堪回首的往事消失在酒红的四月某天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2011-04-24 20:17<br>赞(105) 踩(0) | <div>因一个浮躁不安的季节<br>有一份充满希望的信念<br>将一个欲望产生的瞬间<br>换一个破镜重圆的画面<br>而一份难舍难分的情缘<br>与一场不堪回首的往事<br>消失在酒红的四月某天</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59344620)<br><br>2016-03-31 00:35<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2859135)<br>我还没想好要写什么...<br>2011-04-23 02:42<br>赞(1) 踩(0) | <div>april is not easy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2755417)<br>生活需要背景音乐<br>2011-04-05 21:37<br>赞(1) 踩(0) | <div>好听~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1144923)<br>要么孤独，要么庸俗<br>2011-02-27 17:20<br>赞(1) 踩(0) | <div>远方的寂静里，最喜欢这首，让我想到了2012……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/770041)<br>我想好要写什么了……<br>2010-10-17 23:32<br>赞(1) 踩(0) | <div>迷惑的季节</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1212490)<br>只为追寻自己<br>2010-09-04 11:42<br>赞(2) 踩(0) | <div>四月，万物复苏的四月。四月，春情萌动的四月。四月，我出生的四月。四月啊~亲爱的四月。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1212490)<br>只为追寻自己<br>2010-09-04 11:42<br>赞(2) 踩(0) | <div>四月，万物复苏的四月。<br>四月，春情萌动的四月。<br>四月，我出生的四月。<br>四月啊~亲爱的四月。</div> |

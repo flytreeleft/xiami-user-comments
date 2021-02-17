@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5cd8384b2af92960c698a4f8aecce3a8.jpg)<br>陈婧霏](https://i.xiami.com/chenjingfei) | **播放数**: 3568220<br>**粉丝数**: 3128<br>**评论数**: 88<br>**地区**: China 中国大陆<br>**风格**: 梦幻流行 Dream Pop, 迷幻流行 Psychedelic Pop, 氛围流行 Ambient Pop, 艺术流行 Art Pop<br> |
+| [![](../../images/musicians/5cd8384b2af92960c698a4f8aecce3a8.jpg)<br>陈婧霏](https://i.xiami.com/chenjingfei) | **地区**: China 中国大陆<br>**风格**: 梦幻流行 Dream Pop, 迷幻流行 Psychedelic Pop, 氛围流行 Ambient Pop, 艺术流行 Art Pop<br>**播放数**: 3568220<br>**粉丝数**: 3128<br>**评论数**: 88<br> |
 
 ## 档案
 
@@ -32,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46170322)<br><br>2021-01-16 23:51<br>赞(4) 踩(0) | <div>虾小米！下次见面什么时候！没有你就像一颗星球消失了！ <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246398937)<br>云村： Virginia...<br>2021-01-14 21:24<br>赞(1) 踩(0) | <div>爱霏霏爱生活！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54377168)<br><br>2021-01-14 14:49<br>赞(2) 踩(0) | <div>爱你</div> |
@@ -91,7 +91,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356763773)<br>我还没想好要写什么...<br>2020-03-05 22:21<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14265718)<br>wx:osakarock...<br>2020-03-03 17:29<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348139898)<br>keep fit<br>2020-02-06 09:38<br>赞(4) 踩(0) | <div>迷人且醉人 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49608367)<br>风再大都绕过我的灵魂<br>2019-12-19 17:29<br>赞(1) 踩(0) | <div>很迷人的声音而且她好厉害啊！！～</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49608367)<br>风再大都绕过我的灵魂<br>2019-12-19 17:29<br>赞(1) 踩(0) | <div>很迷人的声音<br>而且她好厉害啊！！～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68729574)<br>我还没想好要写什么...<br>2019-12-05 19:54<br>赞(1) 踩(0) | <div>有微博吗，为什么搜不到</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428939339)<br><br>2019-12-12 19:00<br>赞(0) 踩(0) | <div>陈婧霏19</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11489663)<br>只有歌，才能不胫而飞<br>2019-12-02 11:43<br>赞(1) 踩(0) | <div>打雷</div> |

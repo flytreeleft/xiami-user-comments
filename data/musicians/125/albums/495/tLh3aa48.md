@@ -67,8 +67,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351558875)<br><br>2019-04-03 19:06<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50458233)<br>带我去远方。<br>2018-05-06 14:38<br>赞(0) 踩(0) | <div>明明是你说的分手为什么对我还是跟以前一样，让我一直觉得我们没有分手。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330232288)<br><br>2018-04-10 11:50<br>赞(3) 踩(0) | <div>这首歌送给那些失恋还想卑微的乞求前任回来的人，一切都得向前看，更好的在前面</div> |
@@ -141,7 +141,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2352675)<br> <br>2011-03-16 22:42<br>赞(1) 踩(0) | <div>作曲:周杰伦)　收录于陈小春2003年发行的《算你狠》专辑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358871)<br><br>2011-01-16 14:43<br>赞(0) 踩(0) | <div>不得不说，这种伤感的带着一种迷惑的感觉，只适合我曾经的心绪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1650157)<br><br>2010-10-16 12:54<br>赞(0) 踩(0) | <div>很献世</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/742292)<br>心之憂矣，自貽伊戚。<br>2010-07-16 08:31<br>赞(0) 踩(0) | <div>＜一定要幸福＞的粵語版本……怎麼我會今天才識你？（苦笑）陳小春的唱腔，總是很適合「有話說不出」類型歌曲，問題是，聽完之後，怎麼還是說不出口？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/742292)<br>心之憂矣，自貽伊戚。<br>2010-07-16 08:31<br>赞(0) 踩(0) | <div>＜一定要幸福＞的粵語版本……<br>怎麼我會今天才識你？（苦笑）<br><br>陳小春的唱腔，總是很適合「有話說不出」類型歌曲，<br>問題是，聽完之後，怎麼還是說不出口？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115163)<br> <br>2009-12-21 18:59<br>赞(0) 踩(0) | <div>最喜欢的他的一首歌..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74172)<br><br>2009-10-17 12:53<br>赞(3) 踩(0) | <div>杰伦写给小春的歌真的都非常好听，《献世》又一首经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22127)<br><br>2009-05-18 15:19<br>赞(0) 踩(0) | <div>眼泪还是留给天抚慰。。</div> |

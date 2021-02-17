@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/fc45a5d826d720fd3574cfe5a006fb99.jpg)<br>小黄帝伯毅](https://i.xiami.com/mcboyi) | **播放数**: 1299777<br>**粉丝数**: 78<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 嘻哈 Hip-Hop<br> |
+| [![](../../images/musicians/fc45a5d826d720fd3574cfe5a006fb99.jpg)<br>小黄帝伯毅](https://i.xiami.com/mcboyi) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 嘻哈 Hip-Hop<br>**播放数**: 1299777<br>**粉丝数**: 78<br>**评论数**: 7<br> |
 
 ## 档案
 
@@ -36,8 +36,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/662170)<br><br>2020-09-17 14:56<br>赞(0) 踩(0) | <div>难得的好声音，粉。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419712487)<br>我还没想好要写什么...<br>2020-04-11 23:54<br>赞(0) 踩(0) | <div>这是个有故事的声音！听着听着就进入了心里！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431736577)<br><br>2019-11-06 16:32<br>赞(0) 踩(0) | <div>好听</div> |

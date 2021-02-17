@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431306914)<br><br>2020-08-07 07:02<br>赞(0) 踩(0) | <div>阔以不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272082139)<br><br>2020-05-19 12:43<br>赞(0) 踩(0) | <div>用琵琶会不会更好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423396733)<br><br>2020-02-25 11:23<br>赞(0) 踩(0) | <div>“生命中曾经有过的所有喧嚣，都将用寂寞来偿还。”</div> |
@@ -132,7 +129,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228937300)<br><br>2017-04-10 12:54<br>赞(2) 踩(0) | <div>经典的曲子就是不一样 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png">不管什么乐器弹出来都那么打动人心 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228937300)<br><br>2017-04-10 12:40<br>赞(2) 踩(0) | <div>吉他版听着更悲伤了 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228937300)<br><br>2017-04-09 11:20<br>赞(1) 踩(0) | <div>男神还会弹吉他？ <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262262122)<br>一座孤城一座坟，一份感情...<br>2017-04-08 06:32<br>赞(3) 踩(0) | <div>钱小燕，曾经你和我说：&amp;ldquo;你一定要记得你的世界我曾经来爱过&amp;rdquo;。佛说：与你无缘的人，你与他说再多的话也是废话，与你有缘的人，你的存在就能惊醒他所有的感觉。一份好的感情或友谊，不是追逐，而是相吸，不是纠缠，而且珍惜。走过的路，脚记得；爱过的人，心记得。分开一年了，爱你的心永未停止过，只有我自己知道，你在我的世界里从未离开</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262262122)<br>一座孤城一座坟，一份感情...<br>2017-04-08 06:32<br>赞(3) 踩(0) | <div>钱小燕，曾经你和我说：&amp;ldquo;你一定要记得你的世界我曾经来爱过&amp;rdquo;。<br>佛说：与你无缘的人，你与他说再多的话也是废话，与你有缘的人，你的存在就能惊醒他所有的感觉。<br>一份好的感情或友谊，不是追逐，而是相吸，不是纠缠，而且珍惜。<br>走过的路，脚记得；爱过的人，心记得。<br>分开一年了，爱你的心永未停止过，只有我自己知道，你在我的世界里从未离开</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4335403)<br><br>2017-04-03 01:30<br>赞(3) 踩(0) | <div>音色差了，没磨指甲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284278351)<br> <br>2017-03-31 14:10<br>赞(1) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111312626)<br><br>2017-03-31 11:23<br>赞(1) 踩(0) | <div>有没有谱子呀</div> |
@@ -144,8 +141,8 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55051186)<br> <br>2017-03-07 08:29<br>赞(0) 踩(0) | <div><q><b>优雅.说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288234368)<br><br>2017-05-12 20:38<br>赞(0) 踩(0) | <div>⬇️么么么么哒末日下午消息人士</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55051186)<br> <br>2017-05-12 23:39<br>赞(0) 踩(0) | <div><q><b>岚说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93738540)<br> <br>2017-02-20 23:55<br>赞(3) 踩(0) | <div>你以为深藏不露 其实昭然若揭表演欲和仪式感 撤下吧，</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93738540)<br> <br>2017-02-20 23:35<br>赞(0) 踩(0) | <div>你以为深藏不漏 其实昭然若揭表演欲和仪式感  撤下吧 Oo.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93738540)<br> <br>2017-02-20 23:55<br>赞(3) 踩(0) | <div>你以为深藏不露 其实昭然若揭<br>表演欲和仪式感 撤下吧，</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93738540)<br> <br>2017-02-20 23:35<br>赞(0) 踩(0) | <div>你以为深藏不漏 其实昭然若揭<br>表演欲和仪式感  撤下吧 Oo.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271374667)<br><br>2017-02-06 23:35<br>赞(0) 踩(0) | <div>VIP下载也得支付钱呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95970892)<br>高中生<br>2016-12-17 21:44<br>赞(2) 踩(0) | <div>用古典弹的，肯定不脆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39076288)<br><br>2016-11-11 22:04<br>赞(0) 踩(0) | <div>因为触到痛处了，情与灵的交融！</div> |
@@ -196,7 +193,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335324477)<br><br>2017-11-14 19:55<br>赞(0) 踩(0) | <div>调的原因，吉他加了变调夹照样可以</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340832003)<br><br>2018-01-04 13:50<br>赞(0) 踩(0) | <div>这个今天很明显烧火棍</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268821371)<br><br>2018-02-14 17:19<br>赞(0) 踩(0) | <div>的确是浅见</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356241680)<br>难抵光芒万丈<br>2018-03-31 09:05<br>赞(0) 踩(0) | <div>不不不不我倒是觉得这个石进吉他版的最好听最能使我沉浸</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356241680)<br>难抵光芒万丈<br>2018-03-31 09:05<br>赞(0) 踩(0) | <div>不不不不<br>我倒是觉得这个石进吉他版的最好听<br>最能使我沉浸</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3798043)<br><br>2018-05-13 10:11<br>赞(0) 踩(0) | <div>揉弦,滑音,泛音,点弦,拍弦,圆滑音,消音,推弦,闷音.如果你稍微弹奏或者了解过一点吉他演奏,都知道吉他的音色有多丰富,这个版本明显是编曲的锅,和吉他无关.</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109495924)<br><br>2018-06-25 17:05<br>赞(0) 踩(0) | <div>如果你弹吉他，你就会知道吉他虽然音域只是钢琴的一半，可是各种技巧的表现力，是很多乐器都比不上的，</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335107204)<br><br>2019-06-09 01:44<br>赞(0) 踩(0) | <div><q><b>屁屁说：</b></q></div> |
@@ -259,7 +256,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2745647)<br>喜欢纯音乐……<br>2014-01-17 22:13<br>赞(0) 踩(0) | <div>吉他版的夜五，另一番感伤……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25057156)<br><br>2013-12-27 12:43<br>赞(0) 踩(0) | <div>夜的钢琴曲五（吉他版）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8866833)<br>继续走，继续失去。<br>2013-12-26 23:04<br>赞(0) 踩(0) | <div>吉他版的，也很好听。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-12-17 01:21<br>赞(1) 踩(0) | <div>清晰90496,140,56</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-12-17 01:21<br>赞(1) 踩(0) | <div>清晰<br>90496,140,56</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27916000)<br>一切皆平凡。<br>2013-12-03 00:05<br>赞(1) 踩(0) | <div>空灵的音乐 总让人想起点什么，在记忆的最深处，被轻轻抚拭的往事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1780277)<br><br>2013-12-01 12:44<br>赞(0) 踩(0) | <div>换一种方式演绎，夜的吉它更加安静……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8918875)<br><br>2013-10-26 20:26<br>赞(0) 踩(0) | <div>~~~~~</div> |
@@ -294,7 +291,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10459825)<br><br>2013-05-17 20:37<br>赞(0) 踩(0) | <div>不需要舞鞋，如果你舞蹈，我会为你弹奏一首紫色的夜曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1416849)<br><br>2013-05-14 15:41<br>赞(0) 踩(0) | <div>别有风味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15236196)<br><br>2013-05-13 02:40<br>赞(0) 踩(0) | <div>夜的钢琴曲（吉他版）分享给失眠的你！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796401)<br><br>2013-05-05 00:26<br>赞(0) 踩(0) | <div>默然相爱寂静喜欢。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796401)<br><br>2013-05-05 00:26<br>赞(0) 踩(0) | <div>默然相爱<br>寂静喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10248447)<br> <br>2013-05-03 15:18<br>赞(0) 踩(0) | <div>Mood in  Melody</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14252471)<br> <br>2013-04-30 02:11<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6263681)<br><br>2013-04-21 18:33<br>赞(0) 踩(0) | <div>同样的节奏 不同的哀伤。</div> |

@@ -3,7 +3,7 @@ GS
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/20d8bef876b72c203e698aff4b83f9a0.jpg)<br>GS](https://i.xiami.com/gsl) | **播放数**: 1912062<br>**粉丝数**: 467<br>**评论数**: 27<br>**地区**: 中国大陆 China<br>**风格**: 古典音乐 Classical, 游戏配乐 Video Game Music, 器乐独奏 Solo Instrumental, 卡通配乐 Cartoon Music, 电影原声 Film Score<br> |
+| [![](../../images/musicians/20d8bef876b72c203e698aff4b83f9a0.jpg)<br>GS](https://i.xiami.com/gsl) | **地区**: 中国大陆 China<br>**风格**: 古典音乐 Classical, 游戏配乐 Video Game Music, 器乐独奏 Solo Instrumental, 卡通配乐 Cartoon Music, 电影原声 Film Score<br>**播放数**: 1912062<br>**粉丝数**: 467<br>**评论数**: 27<br> |
 
 ## 档案
 
@@ -46,11 +46,11 @@ GS
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289687772)<br><br>2020-11-17 08:38<br>赞(1) 踩(0) | <div>优美动听的钢琴曲，值得收藏。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337518453)<br><br>2020-09-14 13:56<br>赞(0) 踩(0) | <div>大佬 巫师3组曲怎么突然没了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403644632)<br>我还没想好要写什么...<br>2020-09-14 22:30<br>赞(0) 踩(0) | <div>不是大佬 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">我正在整理下列表，有些混乱。 会重传的，有好多也打算重制一下，包括巫师3。主要有好多力度太粗糙，踏板效果输出时因为故障没加上 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403644632)<br>我还没想好要写什么...<br>2020-09-14 22:30<br>赞(0) 踩(0) | <div>不是大佬 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"><br>我正在整理下列表，有些混乱。 会重传的，有好多也打算重制一下，包括巫师3。主要有好多力度太粗糙，踏板效果输出时因为故障没加上 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337518453)<br><br>2020-09-15 08:59<br>赞(0) 踩(0) | <div><q><b>Mike说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337518453)<br><br>2020-09-15 09:14<br>赞(0) 踩(0) | <div><q><b>keanu50601584说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403644632)<br>我还没想好要写什么...<br>2020-09-18 13:50<br>赞(0) 踩(0) | <div><q><b>keanu50601584说：</b></q></div> |

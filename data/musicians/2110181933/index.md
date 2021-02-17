@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/00aa366437668fe0ada20342bf4647ef.png)<br>李晓申](https://i.xiami.com/lixiaoshen) | **播放数**: 15197935<br>**粉丝数**: 349<br>**评论数**: 12<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/00aa366437668fe0ada20342bf4647ef.png)<br>李晓申](https://i.xiami.com/lixiaoshen) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 15197935<br>**粉丝数**: 349<br>**评论数**: 12<br> |
 
 ## 档案
 
@@ -80,8 +80,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9846802)<br>时光的拾荒者，即使收拾零...<br>2020-06-15 22:22<br>赞(0) 踩(0) | <div>唱的不错，不过真的有介绍里说的开过三次演唱会。真有人买票去看吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28572783)<br>一首好歌，一段故事。一个...<br>2020-06-02 10:25<br>赞(0) 踩(0) | <div>声音好听，一次就记住了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420661152)<br><br>2019-11-21 14:14<br>赞(0) 踩(0) | <div>心情和音乐很配。。伤我</div> |

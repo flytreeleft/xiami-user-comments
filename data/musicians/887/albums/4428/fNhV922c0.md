@@ -55,8 +55,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98204332)<br>太阳饼<br>2021-02-05 04:03<br>赞(0) 踩(0) | <div>In</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308314031)<br>步子要一步一步走，步子太...<br>2021-01-05 23:19<br>赞(0) 踩(0) | <div>776点6543</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308314031)<br>步子要一步一步走，步子太...<br>2021-01-05 23:19<br>赞(0) 踩(0) | <div>6543</div> |
@@ -85,7 +85,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265496456)<br>你係唔係儍㗎！<br>2019-01-25 07:46<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238055711)<br>唱歌吧就像没有人聆听一样<br>2018-10-27 17:59<br>赞(3) 踩(0) | <div>老板牛</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411542508)<br><br>2019-04-05 17:57<br>赞(0) 踩(0) | <div>汪老师才华横溢 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282880744)<br>平淡 平凡 用心去温暖<br>2018-09-20 09:15<br>赞(3) 踩(0) | <div>他这张的确质量非常高 整张专辑都是个人认为也是他 最值得一直留存的一张CD</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282880744)<br>平淡 平凡 用心去温暖<br>2018-09-20 09:15<br>赞(3) 踩(0) | <div>他这张的确质量非常高 整张专辑都是<br>个人认为也是他 最值得一直留存的一张CD</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87294990)<br>有缘惜缘，无缘随缘～<br>2018-09-16 19:27<br>赞(2) 踩(0) | <div>&amp;ldquo;快时代&amp;rdquo;，&amp;ldquo;慢镜头&amp;rdquo;，如河流，沉浮与流淌&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238055711)<br>唱歌吧就像没有人聆听一样<br>2018-09-03 23:24<br>赞(2) 踩(0) | <div>我就服了人家是离婚后恋爱的，好吗各位，看看文章看看王迅看看陶喆，再看看陈赫老板哪点不比他们强</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2775866)<br>路途比天空还遥远<br>2018-09-03 12:46<br>赞(1) 踩(0) | <div>有血有肉的那个汪峰已经死了，如今的他只是一个空壳</div> |
@@ -111,7 +111,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357945195)<br><br>2018-06-07 18:01<br>赞(1) 踩(0) | <div>6</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224995715)<br>瓜皮<br>2018-05-25 12:48<br>赞(1) 踩(0) | <div>！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355649774)<br><br>2018-05-24 12:19<br>赞(4) 踩(0) | <div>不就穿了条皮裤，泡过几个妞，没上过头条，仅此而已。至于这样黑老汪吗，老汪在音乐方面的才华在国内真的没几个人能超的过</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9809734)<br><br>2018-05-17 22:51<br>赞(2) 踩(0) | <div>现在我真的变了！所以我真是变了！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9809734)<br><br>2018-05-17 22:51<br>赞(2) 踩(0) | <div>现在我真的变了！<br>所以我真是变了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340322588)<br>永不放弃<br>2018-05-17 06:05<br>赞(1) 踩(0) | <div>好歌就要分享</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331913182)<br><br>2018-05-16 00:40<br>赞(1) 踩(0) | <div>666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340322588)<br>永不放弃<br>2018-05-14 07:41<br>赞(1) 踩(0) | <div>有才华</div> |
@@ -227,7 +227,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43845205)<br> <br>2017-10-13 01:07<br>赞(4) 踩(0) | <div>可能人老了…喜欢听老男人的歌了…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2017-10-12 16:32<br>赞(2) 踩(0) | <div>所以以我，开始变了，高中下晚自习后总哼唱这句</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48913594)<br>我还没想好要写什么...<br>2017-10-10 12:05<br>赞(3) 踩(0) | <div>我来支持汪峰老师的新专辑</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50458233)<br>带我去远方。<br>2017-10-08 17:53<br>赞(2) 踩(0) | <div>汪峰的歌好像不同心情听有不同的感觉。失落时的慰藉，开心时的热血。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50458233)<br>带我去远方。<br>2017-10-08 17:53<br>赞(2) 踩(0) | <div>汪峰的歌好像不同心情听有不同的感觉。<br>失落时的慰藉，开心时的热血。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50835084)<br><br>2017-10-08 15:30<br>赞(2) 踩(0) | <div>又没有上热搜 汪老师</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315021654)<br> <br>2017-10-07 14:48<br>赞(1) 踩(0) | <div>这首歌真心不错，黑人别黑歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317411114)<br>爱长存<br>2017-10-03 22:53<br>赞(23) 踩(0) | <div>对于一个歌手，我不管他的私生活曾引出怎样的无关紧要的争议，我看到的是他的音乐，他的才华。花火真的是首好歌，能写能做出这样的作品，我服！！！ <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -268,7 +268,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325003225)<br><br>2017-09-15 13:54<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283839830)<br><br>2017-09-14 16:02<br>赞(18) 踩(0) | <div>我没了解过汪峰。但是说实话，他的歌让我心情澎湃，并且从歌词看到他的人文情怀，从这点来说，他是我很喜欢的歌手。歌手。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231161203)<br><br>2017-09-14 13:12<br>赞(3) 踩(0) | <div>不管你唱汪峰那首歌，唱完肯定唱不了第二首</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39133419)<br>飞～～<br>2017-09-14 10:43<br>赞(2) 踩(0) | <div>那天和兄弟在KTV 听他唱这首歌 突然感觉 这首歌活了 汪峰有了生命有了新的高度</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39133419)<br>飞～～<br>2017-09-14 10:43<br>赞(2) 踩(0) | <div>那天和兄弟在KTV 听他唱这首歌 突然感觉 这首歌活了 汪峰有了生命<br>有了新的高度</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39133419)<br>飞～～<br>2017-09-14 10:40<br>赞(1) 踩(0) | <div>虾米真的啥都有了  棒！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112513190)<br>她还在开吗<br>2017-09-14 09:39<br>赞(1) 踩(0) | <div>终于有了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155992896)<br>W<br>2017-09-13 22:31<br>赞(1) 踩(0) | <div>突然发现，头声吉他音一出来，我以为耳机关机了呢 。</div> |
@@ -368,7 +368,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37407367)<br><br>2015-08-01 21:54<br>赞(0) 踩(0) | <div>你好，汪半壁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49385334)<br><br>2015-07-31 21:58<br>赞(0) 踩(0) | <div>现在我 有些倦了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52750520)<br><br>2015-07-31 21:01<br>赞(1) 踩(0) | <div>像一只找不到方向的~~~野鸽~~~~~~~~~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2015-07-30 10:33<br>赞(0) 踩(0) | <div>现在我有些倦了倦得像一朵被风折断的野花</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2015-07-30 10:33<br>赞(0) 踩(0) | <div>现在我有些倦了<br>倦得像一朵被风折断的野花</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9018581)<br> <br>2015-07-30 08:12<br>赞(3) 踩(0) | <div>除了汪峰以外 其他人翻唱的都很做作</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9018581)<br> <br>2015-07-31 07:15<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9018581)<br> <br>2015-07-31 07:18<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
@@ -440,7 +440,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36357824)<br>我还没想好要写什么...<br>2015-07-18 10:57<br>赞(6) 踩(0) | <div>贝贝！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31327629)<br> <br>2015-07-18 10:46<br>赞(12) 踩(0) | <div>有没有中国好声音过来的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43887212)<br><br>2015-07-18 07:31<br>赞(2) 踩(0) | <div>果然，又有一堆人过来说某某比原唱好多了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2015-07-18 00:33<br>赞(2) 踩(0) | <div>哈哈 老那录节目时候就说 “呀 花火 第一季梁博唱过 我觉得梁博比原唱好多了”哈哈哈其实叫花火的歌 我喜欢梁咏琪那首 23333 XD</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2015-07-18 00:33<br>赞(2) 踩(0) | <div>哈哈 老那录节目时候就说 “呀 花火 第一季梁博唱过 我觉得梁博比原唱好多了”<br>哈哈哈<br>其实叫花火的歌 我喜欢梁咏琪那首 23333 XD</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1434412)<br>如挪威冬天一般<br>2015-07-18 00:19<br>赞(11) 踩(0) | <div>贝贝那版更有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13979878)<br><br>2015-07-18 00:14<br>赞(1) 踩(0) | <div>现在我开始变了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44754349)<br> <br>2015-07-17 23:31<br>赞(1) 踩(0) | <div>好声音喵贝贝～</div> |
@@ -497,7 +497,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6942012)<br><br>2014-08-04 22:25<br>赞(0) 踩(0) | <div>冬天什么时候才能来？把一切都冷冻起来吧...夏天，你逗留的时间太长了......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8946950)<br>灌不饱的耳朵<br>2014-07-27 23:18<br>赞(0) 踩(0) | <div>也是醉了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8531805)<br>怀念那不勒斯的暴雨<br>2014-07-27 11:34<br>赞(2) 踩(0) | <div>神编曲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1719621)<br><br>2014-07-02 00:08<br>赞(0) 踩(0) | <div>现在我 有些倦了倦得像一朵被风折断的野花所以我 开始变了变得像一团滚动炽热的花火</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1719621)<br><br>2014-07-02 00:08<br>赞(0) 踩(0) | <div>现在我 有些倦了<br>倦得像一朵被风折断的野花<br>所以我 开始变了<br>变得像一团滚动炽热的花火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27332084)<br><br>2014-06-29 20:09<br>赞(0) 踩(0) | <div>摇滚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9085906)<br><br>2014-06-14 20:27<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7376074)<br>愿岁月静好，现世安稳。<br>2014-06-07 00:31<br>赞(0) 踩(0) | <div>珍惜</div> |
@@ -530,9 +530,9 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7665833)<br><br>2013-10-31 21:53<br>赞(0) 踩(0) | <div>你去看看演唱会版的把....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25061658)<br><br>2013-10-22 00:01<br>赞(0) 踩(0) | <div>火花</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24984886)<br><br>2013-10-20 22:58<br>赞(0) 踩(0) | <div>i do like the way you are~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10610037)<br><br>2013-10-20 09:33<br>赞(0) 踩(0) | <div>跳着放荡的舞蹈穿行在旷野感到狂野而破碎的辉煌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10610037)<br><br>2013-10-20 09:33<br>赞(0) 踩(0) | <div>跳着放荡的舞蹈穿行在旷野<br>感到狂野而破碎的辉煌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23930544)<br><br>2013-10-07 22:25<br>赞(0) 踩(0) | <div>呢届好声音比上届差好多啊，洗洗睡了。估计是汪峰组会赢，最后会来首《花火》吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882789)<br><br>2013-10-06 03:07<br>赞(0) 踩(0) | <div>现在你有些倦了倦得像一朵被风折断的野花</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882789)<br><br>2013-10-06 03:07<br>赞(0) 踩(0) | <div>现在你有些倦了<br>倦得像一朵被风折断的野花</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6587937)<br><br>2013-10-05 19:14<br>赞(0) 踩(0) | <div>所以我开始变了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10795213)<br><br>2013-10-03 11:56<br>赞(0) 踩(0) | <div>放假第三天了啊……这心情就像前奏。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9624293)<br><br>2013-09-17 22:32<br>赞(0) 踩(0) | <div>生活还要继续，太阳还会照常升起，失败是人生最大的财富，未来的机会还有更多！送给那些因为今天而倍感失落的孩子们！</div> |
@@ -544,17 +544,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9481212)<br><br>2013-08-15 12:00<br>赞(0) 踩(0) | <div>希望我八十岁还能摇滚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3044302)<br><br>2013-08-14 15:52<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6629718)<br>凉生过云<br>2013-08-05 02:07<br>赞(0) 踩(0) | <div>尼瑪別加迪斯科即聽感的伴奏好么，還我原版。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13408893)<br><br>2013-07-31 10:14<br>赞(0) 踩(0) | <div>现在我有些醉了醉得像一只找不到方向的野鸽所以我开始变了变得像一团暴烈炽热的花火</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13408893)<br><br>2013-07-31 10:14<br>赞(0) 踩(0) | <div>现在我有些醉了<br>醉得像一只找不到方向的野鸽<br>所以我开始变了<br>变得像一团暴烈炽热的花火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7049712)<br><br>2013-07-30 22:49<br>赞(0) 踩(0) | <div>老实说我是在中国好声音中才开始接触汪氏摇滚，那时候觉得梁博简直跟汪峰太像了，不止唱歌风格像，甚至唱歌的表情也巨像无比。峰哥说“你不是唱我的歌唱得最好的”，心里想的该不是小梁博吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17137745)<br>暂无签名~<br>2013-07-29 22:30<br>赞(0) 踩(0) | <div>这是一场没有结局的表演  包含所有荒谬和疯狂  [歌词太赞TT  TT</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14747847)<br><br>2013-07-28 08:19<br>赞(0) 踩(0) | <div>现在我有些倦了倦得像一朵被风折断的野花所以我开始变了变得像一团滚动炽热的花火</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14747847)<br><br>2013-07-28 08:12<br>赞(0) 踩(0) | <div>现在我有些倦了倦得像一朵被风折断的野花所以我开始变了变得像一团滚动炽热的花火</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14747847)<br><br>2013-07-28 08:19<br>赞(0) 踩(0) | <div>现在我有些倦了<br>倦得像一朵被风折断的野花<br>所以我开始变了<br>变得像一团滚动炽热的花火</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14747847)<br><br>2013-07-28 08:12<br>赞(0) 踩(0) | <div>现在我有些倦了<br>倦得像一朵被风折断的野花<br>所以我开始变了<br>变得像一团滚动炽热的花火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3732464)<br><br>2013-07-17 10:19<br>赞(0) 踩(0) | <div>听着花火，想起北野武</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17161808)<br><br>2013-07-12 09:13<br>赞(0) 踩(0) | <div>喘不过气来，不知道是因为天气炎热还是什么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17038001)<br><br>2013-07-09 19:23<br>赞(0) 踩(0) | <div>开始变了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14289664)<br><br>2013-07-09 15:30<br>赞(0) 踩(0) | <div>现在我 开始变了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1621765)<br> <br>2013-06-13 21:21<br>赞(0) 踩(0) | <div>倦了，所以开始变了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10099865)<br><br>2013-06-10 19:59<br>赞(0) 踩(0) | <div>我开始变了我开始困了我开始倦了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10099865)<br><br>2013-06-10 19:59<br>赞(0) 踩(0) | <div>我开始变了<br><br><br><br>我开始困了<br><br><br><br>我开始倦了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15312616)<br><br>2013-06-08 07:56<br>赞(0) 踩(0) | <div>上岁数了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7593479)<br><br>2013-05-21 13:41<br>赞(0) 踩(0) | <div>花火！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14486550)<br><br>2013-05-10 21:47<br>赞(0) 踩(0) | <div>来一曲儿</div> |
@@ -567,10 +567,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11922465)<br><br>2013-03-12 10:10<br>赞(0) 踩(0) | <div>时代</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2824245)<br><br>2013-02-25 11:02<br>赞(0) 踩(0) | <div>这是一场没有结局的表演 包含所有荒谬和疯狂 像个孩子一样满含悲伤 静悄悄熟睡在大地上 现在我。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2824245)<br><br>2013-02-25 10:55<br>赞(0) 踩(0) | <div>包含所有荒谬和疯狂 这是一场没有结局的表演 像个孩子一样满怀悲伤 静悄悄地熟睡在大地上 现在我 有些倦了 倦得像一朵被风折断的野花 所以我 开始变了 变得像一团滚动炽热的花火</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10943170)<br>On your mark<br>2013-02-08 18:30<br>赞(0) 踩(0) | <div>现在我 有些醉了醉得像一只找不到方向的野鸽</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10943170)<br>On your mark<br>2013-02-08 18:30<br>赞(0) 踩(0) | <div>现在我 有些醉了<br>醉得像一只找不到方向的野鸽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4441126)<br><br>2013-02-06 23:55<br>赞(0) 踩(0) | <div>安与不安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1381555)<br><br>2013-02-02 13:20<br>赞(0) 踩(0) | <div>现在我.有些醉了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10343731)<br>我还没想好要写什么...<br>2013-01-23 13:00<br>赞(0) 踩(0) | <div>看着眼前欢笑骄傲的人群心中泛起汹涌的浪花跳着放荡的舞蹈穿行在旷野感到狂野而破碎的辉煌 】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10343731)<br>我还没想好要写什么...<br>2013-01-23 13:00<br>赞(0) 踩(0) | <div>看着眼前欢笑骄傲的人群<br>心中泛起汹涌的浪花<br>跳着放荡的舞蹈穿行在旷野<br>感到狂野而破碎的辉煌 】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10251766)<br><br>2013-01-16 05:11<br>赞(0) 踩(0) | <div>火～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49925)<br>犬儿，我爱你<br>2013-01-13 23:29<br>赞(0) 踩(0) | <div>好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12083773)<br><br>2012-12-24 21:32<br>赞(0) 踩(0) | <div>喜欢！</div> |
@@ -581,7 +581,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11711351)<br><br>2012-11-29 15:53<br>赞(1) 踩(0) | <div>一个自然人的原始本性是自然而狂野的，但环境及生活的压力使人必须压抑自己本色的一面，人在现实的压力之下，如果依然能保持光明、向上，依然要追求哪怕是瞬间的辉煌，那么人就战胜了自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/658458)<br> <br>2012-11-21 13:16<br>赞(0) 踩(0) | <div>状态</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11458504)<br><br>2012-11-18 21:05<br>赞(0) 踩(0) | <div>是真好听 。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2508370)<br>幸福就是做个不求进取的天...<br>2012-11-16 05:53<br>赞(0) 踩(0) | <div>这是一场没有结局的表演包含所有荒谬和疯狂像个孩子一样满怀悲伤静悄悄地熟睡在大地上现在我有些倦了倦得像一朵被风折断的野花所以我开始变了变得像一团滚动炽热的花火看着眼前欢笑骄傲的人群心中泛起汹涌的浪花跳着放荡的舞蹈穿行在旷野感到狂野而破碎的辉煌现在我有些醉了醉得像一只找不到方向的野鸽所以我开始变了变得像一团暴烈炽热的花火蓝色的梦睡在静静驶过的小车里漂亮的孩子迷失在小路上这是一个永恒美丽的生活没有眼泪没有哀伤现在我有些倦了倦得像一朵被风折断的野花所以我开始变了变得像一团滚动炽热的花火现在我有些醉了醉得像一只找不到方向的野鸽所以我开始变了变得像一团暴烈炽热的花火</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2508370)<br>幸福就是做个不求进取的天...<br>2012-11-16 05:53<br>赞(0) 踩(0) | <div>这是一场没有结局的表演<br>包含所有荒谬和疯狂<br>像个孩子一样满怀悲伤<br>静悄悄地熟睡在大地上<br><br>现在我有些倦了<br>倦得像一朵被风折断的野花<br>所以我开始变了<br>变得像一团滚动炽热的花火<br><br>看着眼前欢笑骄傲的人群<br>心中泛起汹涌的浪花<br>跳着放荡的舞蹈穿行在旷野<br>感到狂野而破碎的辉煌<br><br>现在我有些醉了<br>醉得像一只找不到方向的野鸽<br>所以我开始变了<br>变得像一团暴烈炽热的花火<br><br>蓝色的梦睡在静静驶过的小车里<br>漂亮的孩子迷失在小路上<br>这是一个永恒美丽的生活<br>没有眼泪没有哀伤<br><br>现在我有些倦了<br>倦得像一朵被风折断的野花<br>所以我开始变了<br>变得像一团滚动炽热的花火<br><br>现在我有些醉了<br>醉得像一只找不到方向的野鸽<br>所以我开始变了<br>变得像一团暴烈炽热的花火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11335713)<br><br>2012-11-15 23:51<br>赞(1) 踩(0) | <div>半夜听好歌~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1628964)<br><br>2012-11-13 22:58<br>赞(0) 踩(0) | <div>都变了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3705969)<br><br>2012-11-07 08:55<br>赞(0) 踩(0) | <div>这是一场没有结局的表演，包含所有荒谬和疯狂。这是一个永恒美丽的生活，没有眼泪没有哀伤。</div> |
@@ -615,8 +615,8 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576000)<br>我还没想好要写什么...<br>2013-01-29 03:43<br>赞(0) 踩(0) | <div><q><b>NoFateAwaits说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238055711)<br>唱歌吧就像没有人聆听一样<br>2018-10-08 23:24<br>赞(0) 踩(0) | <div>你这是埋汰老板那呗，请不要拿老板和某人相比</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6826796)<br><br>2012-09-19 15:27<br>赞(0) 踩(0) | <div>所以我，开始变了，变得像，一团爆裂炙热的，花火。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9260)<br><br>2012-09-19 11:02<br>赞(0) 踩(0) | <div>现在我 有些倦了倦得像一朵被风折断的野花所以我 开始变了变得像一团滚动炽热的花火看着眼前欢笑骄傲的人群心中泛起汹涌的浪花跳着放荡的舞蹈穿行在旷野感到狂野而破碎的辉煌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2012-09-18 22:07<br>赞(0) 踩(0) | <div>现在我 有些倦了倦得像一朵被风折断的野花所以我 开始变了变得像一团滚动炽热的花火</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9260)<br><br>2012-09-19 11:02<br>赞(0) 踩(0) | <div>现在我 有些倦了<br>倦得像一朵被风折断的野花<br>所以我 开始变了<br>变得像一团滚动炽热的花火<br><br>看着眼前欢笑骄傲的人群<br>心中泛起汹涌的浪花<br>跳着放荡的舞蹈穿行在旷野<br>感到狂野而破碎的辉煌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2012-09-18 22:07<br>赞(0) 踩(0) | <div>现在我 有些倦了<br>倦得像一朵被风折断的野花<br>所以我 开始变了<br>变得像一团滚动炽热的花火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3114772)<br><br>2012-09-17 15:30<br>赞(0) 踩(0) | <div>听了梁博唱的《花火》被震撼了，我才知道这首歌是汪峰的，之前从来没有听过。当字幕一出现，我看到歌曲名字是《花火》第一反应联想到一部岛国的《花火》电影，都是很优秀的作品</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7278334)<br> <br>2012-09-16 00:58<br>赞(0) 踩(0) | <div>现在我有些倦了，倦的像一朵被风折断的野花。所以我开始变了，变得像一团滚动炙热的花火。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9022098)<br><br>2012-09-15 22:22<br>赞(0) 踩(0) | <div>每次听到这首歌的时候总是会想起筠子，有人说一个女人一生能让一个男人如此内疚与怅惘又有何求，但是我想说的是死了就是死了，所有的可能性都终结在这个时刻。很多时候中庸比极致更容易幸福。为朝阳，为明天，为了一切可能与不可能的活着，多好</div> |
@@ -625,11 +625,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3462649)<br><br>2012-09-13 22:04<br>赞(0) 踩(0) | <div>我理解，但是我不喜欢。我可以，但是我不愿意。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-09-12 03:56<br>赞(0) 踩(0) | <div>拒绝麻木 拒绝变老</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-09-12 03:55<br>赞(0) 踩(0) | <div>来吧，年轻的我们，为了理想，为了爱情，为了韶华，折腾吧，奋斗吧！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-09-12 03:48<br>赞(0) 踩(0) | <div>现在我 有些倦了倦得像一朵被风折断的野花所以我 开始变了变得像一团滚动炽热的花火</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-09-12 03:48<br>赞(0) 踩(0) | <div>现在我 有些倦了<br>倦得像一朵被风折断的野花<br>所以我 开始变了<br>变得像一团滚动炽热的花火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191166)<br>云淡风轻近午天<br>2012-09-11 21:04<br>赞(0) 踩(0) | <div>梁博的嗓音似乎比汪峰的要干净点  也忧郁点  有点像清嗨派的摇滚.....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7313885)<br><br>2012-09-11 15:31<br>赞(0) 踩(0) | <div>決定學一首汪峰的歌……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1184337)<br><br>2012-09-11 01:04<br>赞(0) 踩(0) | <div>00</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9554907)<br><br>2012-09-11 00:01<br>赞(0) 踩(0) | <div>现在我 有些倦了倦得像一朵被风折断的野花</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9554907)<br><br>2012-09-11 00:01<br>赞(0) 踩(0) | <div>现在我 有些倦了<br>倦得像一朵被风折断的野花</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6021791)<br>我还没想好要写什么...<br>2012-09-10 22:13<br>赞(0) 踩(0) | <div>觉得梁博唱好听，是因为先入为主吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-09-12 03:47<br>赞(0) 踩(0) | <div>是</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8160200)<br><br>2012-09-10 14:54<br>赞(0) 踩(0) | <div>你要找的歌，送给你@januarymm ^ ^</div> |
@@ -656,14 +656,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-09-08 03:12<br>赞(1) 踩(0) | <div>老汪的歌还是老汪自己唱的最好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7397429)<br><br>2012-09-08 02:01<br>赞(0) 踩(0) | <div>有些倦了···倦得像一朵被风折断的野花··</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2031543)<br>我还没想好要写什么...<br>2012-09-08 00:52<br>赞(0) 踩(0) | <div>本家人的歌儿真好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10136097)<br>师太~<br>2012-09-08 00:40<br>赞(0) 踩(0) | <div>现在我 有些倦了倦得像一朵被风折断的野花所以我 开始变了变得像一团滚动炽热的花火现在我 有些醉了醉得像一只找不到方向的野鸽所以我 开始变了变得像一团暴烈炽热的花火</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10136097)<br>师太~<br>2012-09-08 00:40<br>赞(0) 踩(0) | <div>现在我 有些倦了<br>倦得像一朵被风折断的野花<br>所以我 开始变了<br>变得像一团滚动炽热的花火<br><br>现在我 有些醉了<br>醉得像一只找不到方向的野鸽<br>所以我 开始变了<br>变得像一团暴烈炽热的花火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10240423)<br>认老服输？怎么可能<br>2012-09-07 23:39<br>赞(0) 踩(0) | <div>T-T。。又想起来了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1255960)<br><br>2012-08-30 20:32<br>赞(0) 踩(0) | <div>天啊好喜欢这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1670664)<br><br>2012-08-22 20:02<br>赞(0) 踩(0) | <div>要是能看9.1的汪峰北京演唱会，人生就完结了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8957466)<br><br>2012-07-15 07:00<br>赞(0) 踩(0) | <div>看着眼前欢笑骄傲的人群，心中泛起汹涌的浪花。祭奠，科特·柯本！致，那些扭曲摇滚意义的狂热爱好者们！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8957466)<br><br>2012-07-15 07:00<br>赞(0) 踩(0) | <div>看着眼前欢笑骄傲的人群，心中泛起汹涌的浪花。<br><br>祭奠，科特·柯本！<br>致，那些扭曲摇滚意义的狂热爱好者们！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7797037)<br><br>2012-07-12 07:29<br>赞(1) 踩(0) | <div>这才是汪峰最好的作品</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2792443)<br><br>2012-06-27 00:20<br>赞(0) 踩(0) | <div>KTV必唱~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5744395)<br>这家伙是个坏蛋<br>2012-06-13 19:00<br>赞(0) 踩(0) | <div>现在我 有些倦了倦得像一朵被风折断的野花所以我 开始变了变得像一团滚动炽热的花火现在我 有些醉了醉得像一只找不到方向的野鸽所以我 开始变了变得像一团暴烈炽热的花火</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5744395)<br>这家伙是个坏蛋<br>2012-06-13 19:00<br>赞(0) 踩(0) | <div>现在我 有些倦了<br>倦得像一朵被风折断的野花<br>所以我 开始变了<br>变得像一团滚动炽热的花火<br><br>现在我 有些醉了<br>醉得像一只找不到方向的野鸽<br>所以我 开始变了<br>变得像一团暴烈炽热的花火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/494313)<br><br>2012-04-19 19:04<br>赞(0) 踩(0) | <div>累了 。吼两声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427164)<br>電<br>2012-03-16 21:52<br>赞(0) 踩(0) | <div>喜欢~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5552145)<br>许巍，就是这样子的吧！<br>2012-03-11 22:00<br>赞(0) 踩(0) | <div>很有feel</div> |
@@ -681,11 +681,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2882713)<br><br>2011-06-12 21:21<br>赞(0) 踩(0) | <div>貌似是这首歌让我记住了汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/969497)<br><br>2011-06-01 15:43<br>赞(0) 踩(0) | <div>挚爱的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/674729)<br><br>2011-05-16 16:59<br>赞(0) 踩(0) | <div>相对于汪峰其他的作品，这首更有内涵。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9260)<br><br>2011-03-24 18:38<br>赞(0) 踩(0) | <div>现在我 有些倦了倦得像一朵被风折断的野花</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9260)<br><br>2011-03-24 18:38<br>赞(0) 踩(0) | <div>现在我 有些倦了<br>倦得像一朵被风折断的野花</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2521723)<br><br>2011-03-08 12:51<br>赞(0) 踩(0) | <div>至今我仍固执地认为，这首《花火》是汪峰最具张力的一首歌，编曲也最棒。汪峰的气场在副歌部分显露无疑，吉他在高潮部分竟可以悠然地弹着低声部和弦，这不是一般人做得到的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/752170)<br><br>2011-11-19 10:20<br>赞(0) 踩(0) | <div>同感！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/672769)<br>Love big.<br>2011-02-27 12:50<br>赞(0) 踩(0) | <div>很喜欢的一首</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2196774)<br><br>2011-02-26 10:59<br>赞(0) 踩(0) | <div>摇滚应该给人力量，不要让人颓废好作品</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2196774)<br><br>2011-02-26 10:59<br>赞(0) 踩(0) | <div>摇滚应该给人力量，不要让人颓废<br>好作品</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/635689)<br><br>2011-02-22 06:23<br>赞(0) 踩(0) | <div>汪峰最好听的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1612669)<br>靡靡之音<br>2011-02-15 16:04<br>赞(0) 踩(0) | <div>给力</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/843984)<br><br>2011-02-14 01:27<br>赞(0) 踩(0) | <div>这才是汪峰最好的作品。</div> |
@@ -702,8 +702,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1431578)<br><br>2010-09-09 12:55<br>赞(0) 踩(0) | <div>有些倦了~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317383)<br><br>2010-08-18 14:32<br>赞(0) 踩(0) | <div>花火</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1248102)<br><br>2010-08-02 10:16<br>赞(0) 踩(0) | <div>2000年初二时被汪峰震撼至今的歌。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2010-04-23 14:04<br>赞(0) 踩(0) | <div>选自汪峰《花火》这应该是汪峰以个人形象出现的第一张专集，质量上乘。特别喜欢这张唱片的封面，充满了独特的气质，给本已不错的唱片增色不少。“迷鹿”是一级的棒，比后来的“飞得更高”，以及现在打榜的“怒放的生命”都要好。你能听出那首歌曲中，商业气息非常少。“美丽世界的孤儿”是送给筠子的，买过唱片以后我才知道。“青春”，有着忧郁的感伤气质，这是汪峰的特点的之一。“妈妈”，则充满无助，仿佛喃喃自语，现在，这样的歌估计汪峰已经写不出来了。不喜欢现在越来越商业化的汪峰，那些歌曲里，真的感情越来越少，随之而来的，就是创作的枯竭。希望汪峰不要辜负他的才华。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/571762)<br> <br>2010-08-19 14:23<br>赞(0) 踩(0) | <div>这张时候的署名仍然是汪峰与鲍家街，所以还是乐队编织，只不过早期鲍家街的成员已经没有出现在这张专辑了。其实美丽世界的孤儿，青春，还有迷路都是跟她有关。这张说起来也是商业化的开始。但是，商业与经典并不冲突。个人认为这仍然是他或者鲍家街最好的专辑。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2010-04-23 14:04<br>赞(0) 踩(0) | <div>选自汪峰《花火》<br>这应该是汪峰以个人形象出现的第一张专集，质量上乘。特别喜欢这张唱片的封面，充满了独特的气质，给本已不错的唱片增色不少。<br><br>“迷鹿”是一级的棒，比后来的“飞得更高”，以及现在打榜的“怒放的生命”都要好。你能听出那首歌曲中，商业气息非常少。“美丽世界的孤儿”是送给筠子的，买过唱片以后我才知道。“青春”，有着忧郁的感伤气质，这是汪峰的特点的之一。“妈妈”，则充满无助，仿佛喃喃自语，现在，这样的歌估计汪峰已经写不出来了。<br><br>不喜欢现在越来越商业化的汪峰，那些歌曲里，真的感情越来越少，随之而来的，就是创作的枯竭。希望汪峰不要辜负他的才华。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/571762)<br> <br>2010-08-19 14:23<br>赞(0) 踩(0) | <div>这张时候的署名仍然是汪峰与鲍家街，所以还是乐队编织，只不过早期鲍家街的成员已经没有出现在这张专辑了。<br><br>其实美丽世界的孤儿，青春，还有迷路都是跟她有关。<br><br>这张说起来也是商业化的开始。但是，商业与经典并不冲突。<br>个人认为这仍然是他或者鲍家街最好的专辑。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2010-08-19 17:00<br>赞(0) 踩(0) | <div><q><b>Ed说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/487088)<br>我爱你，是我的幸运。<br>2009-12-28 21:21<br>赞(0) 踩(0) | <div>这些语言太真诚。太创痛了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-10-06 14:36<br>赞(1) 踩(0) | <div>这张专辑，注定了汪峰和他人的不同</div> |

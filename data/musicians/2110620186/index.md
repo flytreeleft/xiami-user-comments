@@ -3,13 +3,10 @@ Tc
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/85949d51dc17e67e602716530928e925.jpg)<br>Tc](https://i.xiami.com/gtc) | **播放数**: 4432141<br>**粉丝数**: 207<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 陷阱说唱 Trap Rap, 嘻哈 Hip-Hop, 流行 Pop<br> |
+| [![](../../images/musicians/85949d51dc17e67e602716530928e925.jpg)<br>Tc](https://i.xiami.com/gtc) | **地区**: China 中国大陆<br>**风格**: 陷阱说唱 Trap Rap, 嘻哈 Hip-Hop, 流行 Pop<br>**播放数**: 4432141<br>**粉丝数**: 207<br>**评论数**: 6<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -32,8 +29,8 @@ Tc
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47176549)<br><br>2020-05-01 22:38<br>赞(0) 踩(0) | <div>磁性</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421760660)<br><br>2020-04-12 20:35<br>赞(0) 踩(0) | <div>喜欢你那首最近，但是好像不见了 <img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42165242)<br>そのままで<br>2020-03-08 22:09<br>赞(0) 踩(0) | <div>宝藏男孩</div> |

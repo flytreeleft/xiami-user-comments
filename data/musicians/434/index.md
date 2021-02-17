@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ca853f5409634674b1d4942885e2a7c3.jpg)<br>贾鹏芳](https://i.xiami.com/jiapengfang) | **播放数**: 19660109<br>**粉丝数**: 37768<br>**评论数**: 1538<br>**地区**: Japan 日本<br>**风格**: 中国民乐 Chinese Folk Music, 华语唱作人 Chinese Singer-Songwriter, 新世纪音乐 New Age<br> |
+| [![](../../images/musicians/ca853f5409634674b1d4942885e2a7c3.jpg)<br>贾鹏芳](https://i.xiami.com/jiapengfang) | **地区**: Japan 日本<br>**风格**: 中国民乐 Chinese Folk Music, 华语唱作人 Chinese Singer-Songwriter, 新世纪音乐 New Age<br>**播放数**: 19660109<br>**粉丝数**: 37768<br>**评论数**: 1538<br> |
 
 ## 档案
 
@@ -79,8 +79,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22994668)<br><br>2021-01-04 14:34<br>赞(0) 踩(0) | <div>坦白说，编曲或有特色，若相比中国民乐大师，境界尚需焙火以修。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/757994)<br>J-POP命！<br>2020-05-16 09:56<br>赞(0) 踩(0) | <div>好期待大师来一曲菊次郎的头七 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442282433)<br><br>2020-04-29 02:59<br>赞(1) 踩(0) | <div>评论区有毒吧。别人只是恰好在日本发展而且曲子弹的好，中国也有很多古典乐器和音乐曲子做的好的人。你就算是管中窥豹也不能这样窥吧，一上来就是谁谁音乐发展更好。我不搞音乐，单纯觉得好听。</div> |
@@ -99,20 +99,20 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41504338)<br>无时不刻浪漫着<br>2019-01-17 18:46<br>赞(0) 踩(0) | <div>没有版权好难过啊，找其他app也没有 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418784269)<br><br>2019-07-29 23:04<br>赞(0) 踩(0) | <div>网易云好像挺多的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6121035)<br>from here to...<br>2018-11-19 20:01<br>赞(0) 踩(0) | <div>封面照看着像堺雅人 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32782633)<br>“你心中有多少温柔才不会...<br>2018-08-26 22:03<br>赞(20) 踩(0) | <div>晚上和妈妈去散步，隐隐听到二胡演奏声，近看是一位老先生，一身中山装，知识分子的儒雅风度&amp;hellip;&amp;hellip;&amp;ldquo;忽然，觉得&amp;hellip;&amp;rdquo;自己的一生也应该有一些这个时刻，在一个小角落里，静静拉琴，不为别人，只为自己</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32782633)<br>“你心中有多少温柔才不会...<br>2018-08-26 22:03<br>赞(20) 踩(0) | <div>晚上和妈妈去散步，隐隐听到二胡演奏声，近看是一位老先生，一身中山装，知识分子的儒雅风度&amp;hellip;&amp;hellip;<br><br>&amp;ldquo;忽然，觉得&amp;hellip;&amp;rdquo;<br><br>自己的一生也应该有一些这个时刻，在一个小角落里，静静拉琴，不为别人，只为自己</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331782267)<br><br>2018-08-23 02:38<br>赞(5) 踩(0) | <div>只能说，中国不缺人才，但为什么一定要到了墙外才能香?</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1626082)<br>保持好奇，保持敏锐！<br>2018-11-28 20:41<br>赞(0) 踩(0) | <div>中国人太多，有才没人脉、单纯靠才华出头 得多幸运有多少贵人伯乐啊... :0</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331782267)<br><br>2018-12-04 11:21<br>赞(0) 踩(0) | <div><q><b>w2jmoe说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19861496)<br>音乐带你走进另一个世界<br>2018-08-18 09:34<br>赞(2) 踩(0) | <div>昨天去音乐厅看了贾老师的音乐会，演奏了《不说话》《睡莲》《墨迹》《自由的大地》《赛马》&amp;hellip;&amp;hellip;他看起来为什么辣么年轻！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2288542)<br><br>2018-10-23 01:46<br>赞(0) 踩(0) | <div>在哪里开音乐会？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19861496)<br>音乐带你走进另一个世界<br>2018-10-23 23:58<br>赞(0) 踩(0) | <div><q><b>feijiangjun说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1626082)<br>保持好奇，保持敏锐！<br>2018-11-28 20:42<br>赞(0) 踩(0) | <div>怕也是每天早上用自来水洗脸吧？... /www@荒木飞吕彦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34522244)<br><br>2018-07-31 06:14<br>赞(3) 踩(0) | <div>二胡的声音太传神道尽人生悲凉</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1626082)<br>保持好奇，保持敏锐！<br>2018-11-28 20:42<br>赞(0) 踩(0) | <div>怕也是每天早上用自来水洗脸吧？... /www<br>@荒木飞吕彦</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34522244)<br><br>2018-07-31 06:14<br>赞(3) 踩(0) | <div>二胡的声音太传神<br>道尽人生悲凉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5555764)<br>阿Ken<br>2018-06-21 18:30<br>赞(4) 踩(0) | <div>如果我们国家多些像贾鹏芳，林海的音乐人多好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97804464)<br>往事随风终成空<br>2018-06-19 01:02<br>赞(0) 踩(0) | <div>虾米评论简直不忍直视，如果中国文化真的那么容易就被别国传承了，那这个世界早就不存在国家了。听个音乐都听的没劲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268729149)<br>先熄掉心跳才能拥抱<br>2018-05-28 12:26<br>赞(3) 踩(0) | <div>我只听我喜欢的，哪国的无妨 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357674040)<br><br>2018-05-09 07:08<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363752322)<br><br>2018-05-05 17:41<br>赞(0) 踩(0) | <div>贾自称当时对国内传统音乐乐坛失望，去了日本却走了newage、动漫影视配乐的路子。只能说人各有志，鸡有鸡的悲剧，鸭有鸭的喜剧。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363752322)<br><br>2018-05-05 17:41<br>赞(0) 踩(0) | <div>贾自称当时对国内传统音乐乐坛失望，去了日本却走了newage、动漫影视配乐的路子。<br>只能说人各有志，鸡有鸡的悲剧，鸭有鸭的喜剧。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12233120)<br>新之助<br>2018-06-13 08:03<br>赞(0) 踩(0) | <div>只能说，良禽择槽木而栖.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97632344)<br><br>2018-04-19 12:16<br>赞(11) 踩(0) | <div>听个音乐你们戏真多</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7250151)<br><br>2018-04-12 22:32<br>赞(1) 踩(0) | <div>乐感太美，恰似美酒甘泉，沁人心脾</div> |
@@ -128,11 +128,11 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266853049)<br>往前飞<br>2018-01-28 22:25<br>赞(0) 踩(0) | <div>很多人都在这里争论中国音乐日本音乐，而我想的却和你一样！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2701140)<br><br>2018-03-25 00:22<br>赞(0) 踩(0) | <div>8年前在中央民族乐团音乐厅开演奏会的时候有幸去现场了~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336640648)<br>To bare,to l...<br>2018-01-03 14:55<br>赞(0) 踩(0) | <div>評論一堆作妖的。敗壞。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45597478)<br>啾啾莺燕何时还，夭夭之桃...<br>2017-11-17 13:58<br>赞(4) 踩(0) | <div>昔日幽王戏褒姒，烽火连天招蛮戎。仲尼周游敬祖制，九鼎入秦寻无踪。深衣白袍分两界，寒门望族路不同。南北分战江浸血，狼狄左衽始越陇。两唐中周喜胡风，佛道相轻见峥嵘。塞外有蓝胜群青，方令白瓷绘颜色。唐肥宋瘦佳人美，明好男风龙阳宠。自古风尚几轮转，何须夏日哀春穷。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45597478)<br>啾啾莺燕何时还，夭夭之桃...<br>2017-11-17 13:58<br>赞(4) 踩(0) | <div>昔日幽王戏褒姒，烽火连天招蛮戎。<br>仲尼周游敬祖制，九鼎入秦寻无踪。<br>深衣白袍分两界，寒门望族路不同。<br>南北分战江浸血，狼狄左衽始越陇。<br>两唐中周喜胡风，佛道相轻见峥嵘。<br>塞外有蓝胜群青，方令白瓷绘颜色。<br>唐肥宋瘦佳人美，明好男风龙阳宠。<br>自古风尚几轮转，何须夏日哀春穷。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5811443)<br><br>2017-11-05 12:06<br>赞(0) 踩(0) | <div>二胡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9552691)<br><br>2017-10-30 10:10<br>赞(0) 踩(0) | <div>很多人都喜欢莎木系列的音乐，特别是那悠扬的二胡声使人陶醉。但是没有多少人知道这些音乐出自何人之手。这带着浓郁中国特色的音乐就是出自旅日中国音乐家协会会员－贾鹏芳。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/565987)<br>苏打D<br>2017-10-30 10:08<br>赞(2) 踩(0) | <div>作品年表服部克久〖音乐田地6〗〖音乐田地7〗〖音乐田地8〗〖音乐田地12〗〖音乐田地14〗长野残废人奥运会冬季比赛主题歌〖出发之时-Asian Dream-〗宗次郎〖风人〗〖鸟之歌〗久石让〖I am〗〖怪物姬Image Album〗中森明菜〖二人静〗南高节〖心里的虹〗Oyunna〖亚洲发见〗主题歌永井龙云〖血〗吉几三〖大黄河〗S.E.N.S.〖故宫〗〖非情城市电影音乐〗仙波清彦〖Jasmin Talk〗渡边香津美〖Oyatsu2远足〗金子飞鸟〖神话的时代〗Fence of Defence〖三国志〗.....</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5042720)<br><br>2017-10-28 00:34<br>赞(1) 踩(0) | <div>很优美  很赞  很好听不论中日关系怎样，音乐艺术无界限，与政治无关。中国的，民俗的音乐应该得到大家更多的尊重，保护和关注。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/565987)<br>苏打D<br>2017-10-30 10:08<br>赞(2) 踩(0) | <div>作品年表<br>服部克久〖音乐田地6〗〖音乐田地7〗〖音乐田地8〗〖音乐田地12〗〖音乐田地14〗<br>长野残废人奥运会冬季比赛主题歌〖出发之时-Asian Dream-〗<br>宗次郎〖风人〗〖鸟之歌〗<br>久石让〖I am〗〖怪物姬Image Album〗<br>中森明菜〖二人静〗<br>南高节〖心里的虹〗<br>Oyunna〖亚洲发见〗主题歌<br>永井龙云〖血〗<br>吉几三〖大黄河〗<br>S.E.N.S.〖故宫〗〖非情城市电影音乐〗<br>仙波清彦〖Jasmin Talk〗<br>渡边香津美〖Oyatsu2远足〗<br>金子飞鸟〖神话的时代〗<br>Fence of Defence〖三国志〗<br>.....</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5042720)<br><br>2017-10-28 00:34<br>赞(1) 踩(0) | <div>很优美  很赞  很好听<br>不论中日关系怎样，音乐艺术无界限，与政治无关。中国的，民俗的音乐应该得到大家更多的尊重，保护和关注。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1449747)<br><br>2017-10-28 00:34<br>赞(2) 踩(0) | <div>某种程度上，中国传统音乐要发展得跑到日本去，中国民俗在比生物灭种的速度还快的遗失。中国传统音乐在国内市场狭小，文化不行。音乐方面看看苏联解体后的原苏联加盟国现在流行的都是什么东西？（罗马尼亚、俄罗斯、保加利亚。。。劲舞---DJ劲舞---劲舞---DJ劲舞……）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1550031)<br>我还没想好要写什么...<br>2017-10-28 00:23<br>赞(0) 踩(0) | <div>我才说国人的二胡演绎除却传统终于可以走向国际感了，米想到还是个旅日的，连曲名都是片平假名，不是个这吧……贾鹏芳和梁邦彦是不是一个人？不是一个人也可以高山流水了！除了音乐风云榜的歌曲我都听，怎么样吧我就是别扭人儿……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5712440)<br><br>2017-10-28 00:08<br>赞(0) 踩(0) | <div>喜欢和平之月相关的一切</div> |
@@ -140,7 +140,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1289295)<br><br>2017-10-27 23:57<br>赞(1) 踩(0) | <div>此人简直是胡神，拉的二胡让你流泪如水。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1679996)<br>2019<br>2017-10-27 23:55<br>赞(0) 踩(0) | <div>唯美的二胡，给人内心的洗涤是无止境的.....强烈推荐。在这喧闹的世界里，带上耳机静静听贾鹏芳带给我们心灵的慰藉......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/543723)<br>戳手指【默<br>2017-10-27 23:29<br>赞(0) 踩(0) | <div>二胡啊……不知道是不是和最近自己迷古风有关系……</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44364141)<br>暂无签名~<br>2017-10-27 23:29<br>赞(8) 踩(0) | <div>中国的好人才不少   为什么都去外国发展了？中国人应该好好反思一下 天天愤青爱国那就拿出真本事爱国   不要那么片面什么有钱了才能欣赏   不止音乐   艺术是无国界的  有些人非要加上隔膜才好么</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44364141)<br>暂无签名~<br>2017-10-27 23:29<br>赞(8) 踩(0) | <div>中国的好人才不少   为什么都去外国发展了？<br>中国人应该好好反思一下 天天愤青爱国<br>那就拿出真本事爱国   不要那么片面什么有钱了才能欣赏   不止音乐   艺术是无国界的  有些人非要加上隔膜才好么</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369819275)<br><br>2018-06-04 05:17<br>赞(0) 踩(0) | <div>贾是因为上个世纪六七十年代的缘故</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/392780)<br><br>2017-10-27 23:21<br>赞(0) 踩(0) | <div>其实是喜欢和平之月的专辑，但是鉴于更为喜欢其中关于二胡的音乐所以喜欢贾先生。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8538056)<br>Absolutely<br>2017-10-27 23:09<br>赞(0) 踩(0) | <div>NIGHT OF BEIJING 北京之夜，竟然排在TOP100第51位，额滴神啊！这什么情况啊？现在的人品味都太高了是么？还是我品味太差了啊！</div> |
@@ -164,7 +164,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71988220)<br>知命不懼 日日自新<br>2017-04-26 00:20<br>赞(3) 踩(0) | <div>對音樂只有敬畏二字可言 其餘的多說無益</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43650751)<br><br>2017-04-24 08:59<br>赞(1) 踩(0) | <div>我听音乐一般只重旋律。是贾老师的《空山鸟语》直击心灵，让我第一次感受到乐器演奏者情绪与乐器的魅力。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18879901)<br> <br>2017-04-21 00:28<br>赞(70) 踩(0) | <div>我不反驳任何人，我只讲一个事实。一些旅日的民乐演奏者或者日本的作曲家的曲子评论数普遍多，而且评论中充斥着一些&amp;ldquo;日本继承中国文化之精髓&amp;rdquo;的言论。而一些正真的中国民族乐曲下面评论数却少的可怜，甚至无人问津。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246035078)<br><br>2017-06-03 13:31<br>赞(0) 踩(0) | <div>最后一句的现象的确是的！今天才捕捉到了几位老艺术家的主页，有一位素有&amp;ldquo;神笛&amp;rdquo;之称，他的演奏作品梅花三弄真的很厉害啊！但是评论数量可以说是荒无人烟了 <img src="../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png">，好的是评论里的人感觉都是真的爱笛之人了，（原谅我的渣文笔，哈哈）</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246035078)<br><br>2017-06-03 13:31<br>赞(0) 踩(0) | <div>最后一句的现象的确是的！<br>今天才捕捉到了几位老艺术家的主页，有一位素有&amp;ldquo;神笛&amp;rdquo;之称，他的演奏作品梅花三弄真的很厉害啊！但是评论数量可以说是荒无人烟了 <img src="../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png">，好的是评论里的人感觉都是真的爱笛之人了，<br>（原谅我的渣文笔，哈哈）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18879901)<br> <br>2017-06-03 21:10<br>赞(0) 踩(0) | <div><q><b>bet my life说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246035078)<br><br>2017-06-03 22:27<br>赞(0) 踩(0) | <div><q><b>KILLUA说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246035078)<br><br>2017-06-03 22:36<br>赞(0) 踩(0) | <div><q><b>KILLUA说：</b></q></div> |
@@ -253,7 +253,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18879901)<br> <br>2016-04-07 19:38<br>赞(8) 踩(0) | <div>突然想到，很多人觉得这些旅日的音乐家的歌好听（包括我自己也觉得），是因为这些改编融合现在流行乐曲，我们都听惯了流行乐曲，自然就觉得这个好听。有的人就觉得日本继承了中华文化的精髓。让我感到害怕的一点是，我曾经也有这种想法，前段时间，找了很多歌版本的民乐来听，才觉得并不是那样，是我们听得太少了，我想，可怕的不是中国现在的音乐环境，而是抱有那种想法的我们。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3200106)<br>随心随意<br>2016-04-11 01:42<br>赞(0) 踩(0) | <div>大陆没有培养传统音乐家流行向的环境。于是听流行听传统永远是分开的。旅日给的是融合风格的曲子，耳目一新。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18879901)<br> <br>2016-04-11 07:46<br>赞(0) 踩(0) | <div><q><b>耶花花说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141862066)<br>我若盛开，蝴蝶自来。<br>2016-04-16 20:07<br>赞(0) 踩(0) | <div>本来有点想学吉他呢，这段时间无意间听到中国的古典洞萧独奏，我一下子喜欢上了，好美，好有意境，就接着搜了些这方面的古典音乐，更加迷上了。嘿嘿(ಡωಡ)hiahiahia看了你们的才知道原来日本在这儿方面做的比我们好，我不太了解。但我想我还是学这个洞箫吧，顺便感染一下我身边的人。嘿嘿(º﹃º&nbsp;)</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141862066)<br>我若盛开，蝴蝶自来。<br>2016-04-16 20:07<br>赞(0) 踩(0) | <div>本来有点想学吉他呢，这段时间无意间听到中国的古典洞萧独奏，我一下子喜欢上了，好美，好有意境，就接着搜了些这方面的古典音乐，更加迷上了。嘿嘿(ಡωಡ)hiahiahia<br>看了你们的才知道原来日本在这儿方面做的比我们好，我不太了解。但我想我还是学这个洞箫吧，顺便感染一下我身边的人。嘿嘿(º﹃º&nbsp;)</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18879901)<br> <br>2016-04-17 18:24<br>赞(0) 踩(0) | <div><q><b>specialgirls说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141862066)<br>我若盛开，蝴蝶自来。<br>2016-04-18 08:00<br>赞(0) 踩(0) | <div><q><b>KILLUA说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18879901)<br> <br>2016-04-18 19:34<br>赞(0) 踩(0) | <div><q><b>specialgirls说：</b></q></div> |
@@ -272,7 +272,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18879901)<br> <br>2016-02-16 17:43<br>赞(0) 踩(0) | <div><q><b>縁の空说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13194141)<br>看到的给我来个联络方式。...<br>2016-02-16 18:46<br>赞(0) 踩(0) | <div><q><b>KILLUA说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155141)<br> <br>2016-03-15 22:39<br>赞(0) 踩(0) | <div><q><b>縁の空说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35822739)<br>猫控<br>2016-04-07 12:40<br>赞(0) 踩(0) | <div>说得好！我也觉得是，有些人虽然强调来强调去，最终还是跳不出一个小小的格局尊重音乐最好的方式就是聆听它，感受其中的美。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35822739)<br>猫控<br>2016-04-07 12:40<br>赞(0) 踩(0) | <div>说得好！我也觉得是，有些人虽然强调来强调去，最终还是跳不出一个小小的格局<br>尊重音乐最好的方式就是聆听它，感受其中的美。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18879901)<br> <br>2016-04-07 14:14<br>赞(0) 踩(0) | <div><q><b>伽弥果说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98072746)<br><br>2016-01-21 20:00<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94573008)<br> <br>2016-01-11 12:52<br>赞(0) 踩(0) | <div>不得不感叹音乐的奇妙，心跟着走了</div> |
@@ -339,13 +339,13 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/844974)<br>谁道飘零不可怜<br>2015-06-23 00:28<br>赞(1) 踩(0) | <div>愚蠢的人总是占多数</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50028674)<br><br>2015-06-20 23:27<br>赞(1) 踩(0) | <div>看到评论里某国际友人跳得那么欢，我还是取消关注好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4343869)<br>在虾米也是你官方女友<br>2015-06-14 00:17<br>赞(4) 踩(0) | <div>日奴好多哦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591295)<br><br>2015-06-09 18:58<br>赞(66) 踩(0) | <div>在虾米的日本音乐评论里，总是充斥一些“日本更好地继承了中国文化”之类的论调，偏又声称自己没有偏见、音乐无国界什么的，要与普罗大众划清界线来彰显自己的独特，实际上以此掩盖自己思想上的狭隘庸俗、知识上的贫乏肤浅，一副典型的文青作派！话已至此，一笑而过。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591295)<br><br>2015-06-09 18:58<br>赞(66) 踩(0) | <div>在虾米的日本音乐评论里，总是充斥一些“日本更好地继承了中国文化”之类的论调，偏又声称自己没有偏见、音乐无国界什么的，要与普罗大众划清界线来彰显自己的独特，实际上以此掩盖自己思想上的狭隘庸俗、知识上的贫乏肤浅，一副典型的文青作派！<br>话已至此，一笑而过。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7081524)<br><br>2017-04-10 21:27<br>赞(0) 踩(0) | <div>其实我觉得默默买碟支持中国音乐就是最好的行动了。不花钱只动嘴，又有什么意思呢？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226600015)<br><br>2017-05-05 10:41<br>赞(0) 踩(0) | <div>udhyy</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116510850)<br>别怀念，去飞翔，找回你自...<br>2017-10-03 12:38<br>赞(0) 踩(0) | <div>令我伤心的是我播放中国传统纯音乐，一群年轻人说:&amp;ldquo;什么鬼，这么难听，赶快关了&amp;rdquo;，不是不能好好地继承，而是根本子想继承</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2555708)<br><br>2018-01-20 18:19<br>赞(0) 踩(0) | <div>这也是你的自以为是</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351759545)<br>REC <br>2018-07-04 17:04<br>赞(0) 踩(0) | <div>既然一笑而过，又何必说这么多肤浅之词。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591295)<br><br>2015-06-09 18:56<br>赞(11) 踩(0) | <div>@遠山清ひこ ：不管你承认不承认，你的“日本领导亚洲音乐”这句话本身就是一个不折不扣的偏见，呵呵。你这是一个价值判断，而不是事实判断。什么是亚洲音乐？它的内涵和外延是什么？你的“亚洲音乐”能涵盖中东的、高加索的、印度的以及南太平洋的音乐吗？你所谓的“亚洲音乐”，恐怕仅仅是商业和流行音乐吧，而且还仅局限于东亚地区，呵呵。日本在模仿西方的商业和流行音乐文化以及市场化方面，确实是模仿得挺像的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591295)<br><br>2015-06-09 18:56<br>赞(11) 踩(0) | <div>@遠山清ひこ ：不管你承认不承认，你的“日本领导亚洲音乐”这句话本身就是一个不折不扣的偏见，呵呵。你这是一个价值判断，而不是事实判断。<br>什么是亚洲音乐？它的内涵和外延是什么？你的“亚洲音乐”能涵盖中东的、高加索的、印度的以及南太平洋的音乐吗？你所谓的“亚洲音乐”，恐怕仅仅是商业和流行音乐吧，而且还仅局限于东亚地区，呵呵。日本在模仿西方的商业和流行音乐文化以及市场化方面，确实是模仿得挺像的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6770405)<br><br>2015-09-05 04:14<br>赞(0) 踩(0) | <div>说的是产业的发达和全面，你个土逼当然不懂</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39147363)<br> <br>2015-06-09 17:31<br>赞(8) 踩(0) | <div>热门那条 ，看到日本的好这个知道，发展自己也知道，该恨的恨该学的学，但是就你那连名字都是日文的，我也看得出你的热爱，他们有他们的好，但是不得不说我们是根基，没有跟上也是我们的错，愤青也有不好的地方，但你这语气，也实实在在的醉，听歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50505133)<br>真飞鸟&史黛拉<br>2015-06-08 09:11<br>赞(10) 踩(0) | <div>亚洲音乐日本领导，这个结论你怎么得到的，亚洲多大啊，你没有经过调查就敢说这种话，我本身对日本没有什么偏见，也不会希望他哪天沉下去，我对你也没什么偏见，我跟你一不认识，二无仇无怨，尺有所长，寸有所短，你无法辩证的看待问题，我也拿你没办法，我也从来不认为我说你两句你就会认错。</div> |
@@ -362,11 +362,11 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18879901)<br> <br>2018-01-20 19:17<br>赞(0) 踩(0) | <div><q><b>列草台说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335703384)<br><br>2018-08-19 18:50<br>赞(0) 踩(0) | <div>978986</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/968061)<br><br>2019-11-13 08:21<br>赞(0) 踩(0) | <div>霸王别姬里，日本人要听戏，后解放了戏就</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1972081)<br>飘啊飘啊飘呀飘~~<br>2015-05-28 21:19<br>赞(11) 踩(0) | <div>能有光明前景，谁愿背井离乡……国内现在二胡名家都有哪些？知道的同学希望能推荐一下……有些时候是不是应该考虑一下被十年洗礼之后那些本就凋敝断层的东西我们应该抱着怎样的态度去对待？还是任由他们这样子默默无闻直到消逝在历史长河里……希望以后的小家伙们，也能稍微留点足以传下去的、令人称道的东西吧……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1972081)<br>飘啊飘啊飘呀飘~~<br>2015-05-28 21:19<br>赞(11) 踩(0) | <div>能有光明前景，谁愿背井离乡……<br>国内现在二胡名家都有哪些？知道的同学希望能推荐一下……<br>有些时候是不是应该考虑一下<br>被十年洗礼之后那些本就凋敝断层的东西<br>我们应该抱着怎样的态度去对待？<br>还是任由他们这样子默默无闻直到消逝在历史长河里……<br>希望以后的小家伙们，也能稍微留点足以传下去的、令人称道的东西吧……</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116510850)<br>别怀念，去飞翔，找回你自...<br>2017-10-03 11:46<br>赞(0) 踩(0) | <div>国内二胡名家很少创作曲子，除了配乐，其他肯定亏本</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27184142)<br><br>2015-05-28 16:30<br>赞(0) 踩(0) | <div>和平之月</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6409843)<br><br>2015-05-27 15:59<br>赞(0) 踩(0) | <div>。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591295)<br><br>2015-05-27 14:53<br>赞(5) 踩(0) | <div>文化不仅仅是艺术，艺术不仅仅是音乐，音乐也不仅仅是新世纪音乐。日本人和一些旅日音乐人创作演奏的带有中国元素和风格的新世纪音乐，固然符合一些人的欣赏喜好，但又岂能与中国古典音乐的意蕴和博大精深相提并论？把它们与中国传统文化划等号，就更加显得狭隘肤浅了。静下心来，多聆听一些中国古乐演奏大师们的作品吧。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591295)<br><br>2015-05-27 14:53<br>赞(5) 踩(0) | <div>文化不仅仅是艺术，艺术不仅仅是音乐，音乐也不仅仅是新世纪音乐。<br>日本人和一些旅日音乐人创作演奏的带有中国元素和风格的新世纪音乐，固然符合一些人的欣赏喜好，但又岂能与中国古典音乐的意蕴和博大精深相提并论？把它们与中国传统文化划等号，就更加显得狭隘肤浅了。<br>静下心来，多聆听一些中国古乐演奏大师们的作品吧。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4241117)<br>心外无物<br>2015-06-09 09:32<br>赞(0) 踩(0) | <div>你又怎知我们没听过</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9591295)<br><br>2015-06-09 19:04<br>赞(0) 踩(0) | <div><q><b>遠山清说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4241117)<br>心外无物<br>2015-06-12 15:49<br>赞(0) 踩(0) | <div><q><b>褐色海洋说：</b></q></div> |
@@ -382,7 +382,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14250095)<br><br>2015-05-10 11:24<br>赞(0) 踩(0) | <div>喜欢你没道理</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12233120)<br>新之助<br>2015-05-10 09:51<br>赞(0) 踩(0) | <div>好！旅日的音乐家，就是非同凡响！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4380909)<br><br>2015-05-06 19:01<br>赞(0) 踩(0) | <div>shishi</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20515036)<br>无音乐，不生活。<br>2015-05-05 14:04<br>赞(0) 踩(0) | <div>山有雪，莲香叠，抬头望见苍茫月;丝弦曲尽心弦接，长天落我无双阙。这一抹飘荡的天香，将绝世而独芳。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20515036)<br>无音乐，不生活。<br>2015-05-05 14:04<br>赞(0) 踩(0) | <div>山有雪，莲香叠，<br><br>抬头望见苍茫月;<br><br>丝弦曲尽心弦接，<br><br>长天落我无双阙。这一抹飘荡的天香，将绝世而独芳。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42070816)<br>转战5sing辣<br>2015-05-07 00:04<br>赞(0) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42070816)<br>转战5sing辣<br>2015-05-08 00:40<br>赞(0) 踩(0) | <div>意境好美，感觉自己很久没有感受到那种纯净的感觉了qwq</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20515036)<br>无音乐，不生活。<br>2015-05-09 21:22<br>赞(0) 踩(0) | <div><q><b>沈奕白说：</b></q></div> |
@@ -437,7 +437,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2962711)<br>杂食者：随身听，随手收藏...<br>2015-01-09 14:08<br>赞(0) 踩(0) | <div>徐徐摇曳心门</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8839628)<br><br>2015-01-08 19:44<br>赞(0) 踩(0) | <div>二胡演奏也有高手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45413264)<br><br>2015-01-07 15:18<br>赞(0) 踩(0) | <div>大师啊~中国古典文化传承</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1670510)<br>职业黑<br>2015-01-03 19:21<br>赞(6) 踩(0) | <div>悠扬如草长莺飞，洒脱如流风回雪。情动如秋波撩心，孤寂如月下弄影。这么好听的音乐，如果填上词让张杰来唱，肯定能红遍大江南北~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1670510)<br>职业黑<br>2015-01-03 19:21<br>赞(6) 踩(0) | <div>悠扬如草长莺飞，洒脱如流风回雪。情动如秋波撩心，孤寂如月下弄影。<br>这么好听的音乐，如果填上词让张杰来唱，肯定能红遍大江南北~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1010656)<br><br>2015-01-07 21:33<br>赞(0) 踩(0) | <div>有品位！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8578928)<br>故人入我梦，明我长相忆<br>2015-01-09 17:12<br>赞(0) 踩(0) | <div>有品位！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40861786)<br>和有情人做快乐事，别问是...<br>2015-01-11 01:54<br>赞(0) 踩(0) | <div>真的让闰土来唱，能红？？？？？</div> |
@@ -510,7 +510,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10965861)<br><br>2015-02-20 20:26<br>赞(0) 踩(0) | <div>古时的曲调值得流传，但有时以现代的审美真的不太好听   是的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12779374)<br><br>2014-06-30 22:49<br>赞(3) 踩(0) | <div>哀而不伤，就当是赏风景了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10547530)<br>生于白昼，隐与黑夜。<br>2014-06-30 16:20<br>赞(2) 踩(0) | <div>1.它山之石可以攻玉 2.三人行必有我师 3.高山仰止景行行止 4.国粹的悲哀就在于它要么隐匿于乡野难见传承，要么如今高登殿堂难闻一曲——也许何时大街上的最炫民族风消失了，何时国粹才会有可能兴盛的那一天吧——虽然琉球已经没了，但琉球的岛歌还在——而且传承的相当好。但是我们呢？Master一个个的流失。不说了。说多了都是泪。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3303308)<br>唯有音乐万岁<br>2014-06-16 14:47<br>赞(4) 踩(0) | <div>就像顶楼所说，我们就算有好的音乐人在国内也活的很艰难。从下载正版音乐要收钱的反应就能看出。明明只是几块钱的事儿，却好像要了命一样，可叹。我们需要培养的事情太多了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3303308)<br>唯有音乐万岁<br>2014-06-16 14:47<br>赞(4) 踩(0) | <div>就像顶楼所说，我们就算有好的音乐人在国内也活的很艰难。从下载正版音乐要收钱的反应就能看出。<br>明明只是几块钱的事儿，却好像要了命一样，可叹。<br>我们需要培养的事情太多了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11542364)<br>……<br>2014-07-03 20:07<br>赞(0) 踩(0) | <div>这不是正版音乐，这是网友免费上传，下载收费的音乐，正版是指通过音像店、网络等途径购买官方出版或官方授权的音乐。｛这里肯定没授权｝</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3254408)<br><br>2014-07-05 09:51<br>赞(0) 踩(0) | <div><q><b>秋棠空说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37224686)<br><br>2014-06-12 00:29<br>赞(0) 踩(0) | <div>悠扬、流畅、抒情</div> |
@@ -543,7 +543,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10270456)<br>一种美丽而摧枯拉朽之物<br>2014-04-04 20:10<br>赞(3) 踩(0) | <div>好几年前看十二国记才认识的他，居然不是以大陆文化认识的中国人，这是中国文化的悲哀吧，就像女子十二坊一样在日本才出名。有了伟人却不珍惜的民族啊。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33385873)<br><br>2014-04-04 16:11<br>赞(0) 踩(0) | <div>文艺二胡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2938361)<br><br>2014-04-03 18:50<br>赞(0) 踩(0) | <div>莫名的感动</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-03-31 16:55<br>赞(0) 踩(0) | <div>所以说，我们不是没有人才_(:зゝ∠)_…………</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-03-31 16:55<br>赞(0) 踩(0) | <div>所以说，我们不是没有人才_(:зゝ∠)_<br>……<br>……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34527451)<br><br>2014-03-28 11:34<br>赞(0) 踩(0) | <div>很美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3714973)<br><br>2014-03-26 16:21<br>赞(0) 踩(0) | <div>喜欢的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11657722)<br><br>2014-03-22 23:21<br>赞(0) 踩(0) | <div>绵绵无尽的悲伤，又是那么的古意悠长</div> |
@@ -585,7 +585,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17927516)<br>窝是 ayi /lyr<br>2014-01-13 10:59<br>赞(0) 踩(0) | <div>民族风大爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3154609)<br><br>2014-01-10 14:44<br>赞(0) 踩(0) | <div>123</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31299502)<br>梦幻天使helen966<br>2014-01-08 15:41<br>赞(0) 踩(0) | <div>喜欢乐曲的细腻！音乐的柔美</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-01-06 04:12<br>赞(0) 踩(0) | <div>他跟和田熏戴眼镜之后都好斯文败类啊不过喜欢这种＾▼＾</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-01-06 04:12<br>赞(0) 踩(0) | <div>他跟和田熏戴眼镜之后都好斯文败类啊<br>不过喜欢这种＾▼＾</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1300312)<br><br>2014-08-28 00:06<br>赞(0) 踩(0) | <div>逗比欢乐多</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-08-29 09:43<br>赞(0) 踩(0) | <div><q><b>小熊说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1300312)<br><br>2014-09-10 16:19<br>赞(0) 踩(0) | <div><q><b>倔酱说：</b></q></div> |
@@ -632,7 +632,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7513070)<br><br>2013-10-16 14:52<br>赞(0) 踩(0) | <div>omg太棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16766854)<br><br>2013-10-13 07:32<br>赞(0) 踩(0) | <div>安靜又富含感情的音樂，喜歡！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2439226)<br>我还没想好要写什么...<br>2013-10-09 17:35<br>赞(0) 踩(0) | <div>中国啊中国！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3160169)<br>反方向的鐘<br>2013-10-02 12:21<br>赞(9) 踩(0) | <div>为什么那么多中国的古典音乐家在国内默默无闻，去日本后又开始红回国内了。为什么为什么为什么！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3160169)<br>反方向的鐘<br>2013-10-02 12:21<br>赞(9) 踩(0) | <div>为什么那么多中国的古典音乐家在国内默默无闻，<br>去日本后又开始红回国内了。<br>为什么为什么为什么！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22748998)<br>世间充满着爱和关怀<br>2013-10-02 08:45<br>赞(0) 踩(0) | <div>和平之月</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23182764)<br><br>2013-09-28 08:57<br>赞(0) 踩(0) | <div>hi</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12314435)<br><br>2013-09-27 04:32<br>赞(0) 踩(0) | <div>宁月</div> |
@@ -778,7 +778,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11357316)<br>暂无签名~<br>2013-03-02 20:14<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2081390)<br><br>2013-03-01 00:25<br>赞(0) 踩(0) | <div>贾鹏芳</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3807881)<br><br>2013-02-27 12:23<br>赞(0) 踩(0) | <div>贾大师如果没有年轻时在中国的学习经历也就不是现在的他了吧，也不要把中国音乐贬低的一无是处好吧。虽然国内目前的体制也是个大问题呢，啧啧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6762718)<br><br>2013-02-26 23:18<br>赞(2) 踩(0) | <div>每次听贾鹏芳的音乐，总是被感动，也一次次的想，为什么我们国家这么多的人才，不计其数，都是在本国默默无闻，甚至窘迫！可到了海的那边却能闪耀光芒。这到底说明了什么？腐败了无数行业，腐败了几代人！唯一的安慰就是，他们是中国人！！！有时候朋友总讨论亚洲那个国家音乐做得好，哎！我只能咬着牙说，日本！希望咱国家一定强！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6762718)<br><br>2013-02-26 23:18<br>赞(2) 踩(0) | <div>每次听贾鹏芳的音乐，总是被感动，也一次次的想，为什么我们国家这么多的人才，不计其数，都是在本国默默无闻，甚至窘迫！可到了海的那边却能闪耀光芒。这到底说明了什么？腐败了无数行业，腐败了几代人！唯一的安慰就是，他们是中国人！！！<br>有时候朋友总讨论亚洲那个国家音乐做得好，哎！我只能咬着牙说，日本！<br>希望咱国家一定强！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12343390)<br>嘉意自若不卖自萌<br>2013-02-26 10:31<br>赞(0) 踩(0) | <div>贾鹏芳</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13227045)<br><br>2013-02-24 23:33<br>赞(0) 踩(0) | <div>悠扬</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7997065)<br><br>2013-02-24 12:17<br>赞(0) 踩(0) | <div>怪蜀黍！</div> |
@@ -870,7 +870,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11292085)<br>david<br>2012-11-07 09:53<br>赞(0) 踩(0) | <div>好聽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9553663)<br><br>2012-11-06 19:07<br>赞(0) 踩(0) | <div>夕阳下的少年</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9438622)<br>努力多一点，微笑多一点！<br>2012-11-05 15:17<br>赞(0) 踩(0) | <div>中国特色的又带着东洋味道的 二胡--- 贾鹏芳 老师...</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9438622)<br>努力多一点，微笑多一点！<br>2012-11-05 15:06<br>赞(0) 踩(0) | <div>不难说音乐方面，日、韩的音乐在亚洲 一直是领先的佼佼者... 但是影响着韩、日音乐的， 一直是世界音乐的“引导者”，那就是--- 【欧美音乐】 ...（不是崇洋） 欧美音乐永远是世界音乐的主流...  （无论哪种风格的）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9438622)<br>努力多一点，微笑多一点！<br>2012-11-05 15:06<br>赞(0) 踩(0) | <div>不难说音乐方面，日、韩的音乐在亚洲 一直是领先的佼佼者... 但是影响着韩、日音乐的， 一直是世界音乐的“引导者”，那就是--- 【欧美音乐】 ...<br>（不是崇洋） 欧美音乐永远是世界音乐的主流...  （无论哪种风格的）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9256390)<br><br>2012-11-08 16:22<br>赞(0) 踩(0) | <div>国家强大，文化的影响力才能遍布世界</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11357291)<br><br>2012-11-04 23:49<br>赞(0) 踩(0) | <div>很喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8414974)<br><br>2012-11-03 16:31<br>赞(0) 踩(0) | <div>好听</div> |
@@ -926,7 +926,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6575775)<br><br>2012-09-24 10:44<br>赞(0) 踩(0) | <div>民族的，长久的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1721242)<br><br>2012-09-23 21:43<br>赞(0) 踩(0) | <div>喜欢二胡演绎出来的独特音韵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8695582)<br> <br>2012-09-22 16:57<br>赞(0) 踩(0) | <div>默默坚持古老的传统中国音乐的大家，他的二胡真的有让人感动到流泪的力量……</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8800324)<br>大人になった子とも<br>2012-09-21 20:49<br>赞(0) 踩(0) | <div>第一个所认识并被听到的第一声就喜欢上的中国的轻音乐作曲家！！！中国，加油！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8800324)<br>大人になった子とも<br>2012-09-21 20:49<br>赞(0) 踩(0) | <div>第一个所认识并被听到的第一声就喜欢上的中国的轻音乐作曲家！！！<br>中国，加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7254739)<br><br>2012-09-21 13:51<br>赞(0) 踩(0) | <div>賈鵬芳旅日中国人（二胡）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2309515)<br>戒定慧<br>2012-09-20 17:14<br>赞(0) 踩(0) | <div>nice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2309515)<br>戒定慧<br>2012-09-20 17:09<br>赞(0) 踩(0) | <div>bull</div> |
@@ -1069,7 +1069,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1705188)<br> <br>2012-04-28 13:38<br>赞(0) 踩(0) | <div>不知道贾鹏芳，ACG就白混十几年了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212255)<br>LESS IS MORE<br>2012-04-27 20:18<br>赞(0) 踩(0) | <div>很有质感的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8647495)<br><br>2012-04-27 19:53<br>赞(1) 踩(0) | <div>拉的肝都颤了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4306998)<br><br>2012-04-26 20:36<br>赞(0) 踩(0) | <div>因为小时候听过的二泉映月，一直认为二胡是哀怨与凄婉的乐器。但听过贾鹏芳先生的作品后对二胡有了新的认识。但贾先生的二胡因为日本的缘故才被我所认识，不得不感慨下自己见识的狭小。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4306998)<br><br>2012-04-26 20:36<br>赞(0) 踩(0) | <div>因为小时候听过的二泉映月，一直认为二胡是哀怨与凄婉的乐器。但听过贾鹏芳先生的作品后对二胡有了新的认识。<br>但贾先生的二胡因为日本的缘故才被我所认识，不得不感慨下自己见识的狭小。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/987707)<br><br>2012-04-26 13:29<br>赞(0) 踩(0) | <div>此人的才华怎能用一个完美来形容！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/907738)<br>云卷云舒<br>2012-04-26 12:55<br>赞(0) 踩(0) | <div>静静的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8988497)<br>静静聆听<br>2012-04-25 19:24<br>赞(0) 踩(0) | <div>喜欢他对乐曲独特的演绎与诠释</div> |
@@ -1317,7 +1317,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5015659)<br><br>2011-10-04 11:05<br>赞(0) 踩(0) | <div>现代的配乐，听着舒服，真切得你不相信。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2194538)<br><br>2011-10-03 16:22<br>赞(0) 踩(0) | <div>二胡音乐的新境界。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6085475)<br><br>2011-10-03 02:32<br>赞(0) 踩(0) | <div>******</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6030729)<br><br>2011-10-01 14:43<br>赞(0) 踩(0) | <div>贾鹏芳老师2011年11月5日 上海音乐会：<a href="http://www.flamesky.com/jpf2011/" target="_blank" rel="nofollow noreferrer noopener">http://www.flamesky.com/jpf2011/</a>欢迎参加！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6030729)<br><br>2011-10-01 14:43<br>赞(0) 踩(0) | <div>贾鹏芳老师2011年11月5日 上海音乐会：<a href="http://www.flamesky.com/jpf2011/" target="_blank" rel="nofollow noreferrer noopener">http://www.flamesky.com/jpf2011/</a><br>欢迎参加！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1675200)<br><br>2011-10-01 12:04<br>赞(0) 踩(0) | <div>喜欢这种让心变得安静的感觉~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5890830)<br><br>2011-10-01 10:21<br>赞(0) 踩(0) | <div>宁月</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/957896)<br><br>2011-10-01 00:20<br>赞(0) 踩(0) | <div>能触动心灵 这就够了</div> |
@@ -1341,7 +1341,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2756413)<br><br>2011-09-17 10:24<br>赞(0) 踩(0) | <div>喜欢,安静悠远的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5464626)<br> <br>2011-09-17 00:55<br>赞(0) 踩(0) | <div>大爱的二胡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5464626)<br> <br>2011-09-17 00:54<br>赞(0) 踩(0) | <div>当年的十二国记，夜深人静的时候倾听，仿佛整个人都沉浸在夜色之中，大爱的二胡</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5845948)<br><br>2011-09-16 17:00<br>赞(0) 踩(0) | <div>终于找到了！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5845948)<br><br>2011-09-16 17:00<br>赞(0) 踩(0) | <div>终于找到了<br>！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5822057)<br><br>2011-09-14 21:17<br>赞(0) 踩(0) | <div>喜欢这感觉！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5812484)<br>暂无签名~<br>2011-09-14 03:47<br>赞(0) 踩(0) | <div>名族的，支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5706421)<br><br>2011-09-13 21:39<br>赞(0) 踩(0) | <div>新世纪的二胡</div> |
@@ -1482,7 +1482,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3861958)<br><br>2011-05-10 00:12<br>赞(0) 踩(0) | <div>《遥》，太美的一张一张，怎么说呢，天碟！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271820)<br><br>2011-05-12 14:40<br>赞(0) 踩(0) | <div>买！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3861958)<br><br>2011-05-10 00:10<br>赞(0) 踩(0) | <div>《遥》，太美的一张一张，怎么说呢，天碟！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2501563)<br>云袂风襟。微博：璃夏_K...<br>2011-05-09 21:13<br>赞(0) 踩(0) | <div>原来一直不是特别喜欢二胡的，觉得特别喑哑沧桑。后来听到贾鹏芳，才发现二胡的柔情浩渺之处……唉……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2501563)<br>云袂风襟。微博：璃夏_K...<br>2011-05-09 21:13<br>赞(0) 踩(0) | <div>原来一直不是特别喜欢二胡的，觉得特别喑哑沧桑。<br>后来听到贾鹏芳，才发现二胡的柔情浩渺之处……唉……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3618554)<br><br>2011-05-07 00:43<br>赞(0) 踩(0) | <div>贾鹏芳那二胡令人着迷....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2044643)<br>氤氲对你的痴情。<br>2011-05-06 18:24<br>赞(0) 踩(0) | <div>一曲弦音化千鹤,入梦江舟身作蝶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2166470)<br>咬你尾巴哦~<br>2011-05-05 10:37<br>赞(0) 踩(0) | <div>如泣如诉或荡气回肠，皆由二胡而起。</div> |
@@ -1600,7 +1600,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/468555)<br>下天五十年，如梦亦如电<br>2011-01-08 11:01<br>赞(0) 踩(0) | <div>中国风</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2350429)<br>语言的尽头，是音乐的开始<br>2011-01-03 14:43<br>赞(0) 踩(0) | <div>客观的说，做这种音乐，日本比我们这里环境好。我们那么灿烂的文化，却不重视，哎。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2277348)<br><br>2010-12-28 14:07<br>赞(0) 踩(0) | <div>国风~~~~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2148694)<br><br>2010-12-10 11:38<br>赞(0) 踩(0) | <div>旅日音乐家 看到这笑了地区这块确实 难说 他本人确实是大陆人 可做的曲 出的专辑 发行公司 都是在日本人就打算在那边发展了 哎和平之月+1~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2148694)<br><br>2010-12-10 11:38<br>赞(0) 踩(0) | <div>旅日音乐家 看到这笑了<br>地区这块确实 难说 他本人确实是大陆人 可做的曲 出的专辑 发行公司 都是在日本<br>人就打算在那边发展了 哎<br><br>和平之月+1~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/753002)<br><br>2010-11-14 22:13<br>赞(0) 踩(0) | <div>在很久以前就很欣赏贾鹏芳的音乐了。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220719)<br>自知不自見，自愛不自貴<br>2010-11-12 09:37<br>赞(0) 踩(0) | <div>我真不明白，這個的地區為何要寫成大陸？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1642030)<br><br>2010-11-01 20:49<br>赞(0) 踩(0) | <div>国音博大，直入心肠，不能忘噫不能忘诶</div> |

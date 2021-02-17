@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/82a3cec29590e7e38d5e429e9e43bbf0.jpg)<br>时光胶囊](https://i.xiami.com/timecapsule) | **播放数**: 3176671<br>**粉丝数**: 7273<br>**评论数**: 258<br>**地区**: China 中国大陆<br>**风格**: 后摇 Post-Rock, 独立摇滚 Indie Rock, 英伦摇滚 Britpop<br> |
+| [![](../../images/musicians/82a3cec29590e7e38d5e429e9e43bbf0.jpg)<br>时光胶囊](https://i.xiami.com/timecapsule) | **地区**: China 中国大陆<br>**风格**: 后摇 Post-Rock, 独立摇滚 Indie Rock, 英伦摇滚 Britpop<br>**播放数**: 3176671<br>**粉丝数**: 7273<br>**评论数**: 258<br> |
 
 ## 档案
 
@@ -40,8 +40,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319942550)<br><br>2020-11-26 19:14<br>赞(0) 踩(0) | <div>12月北京的票怎么买？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18606083)<br><br>2020-10-14 14:14<br>赞(0) 踩(0) | <div>青丝、旅途  都是无线循环的，很棒！就是宣传不到位，这个乐队很好。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2020-08-11 18:45<br>赞(0) 踩(0) | <div>胶囊，能治不安</div> |
@@ -103,7 +103,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53911481)<br>热情没及格，真性情得高分...<br>2016-02-25 10:16<br>赞(0) 踩(0) | <div><q><b>时光胶囊说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24963352)<br>记忆给他的礼物<br>2017-10-30 09:58<br>赞(0) 踩(0) | <div>那首歌让你高潮了啊？请关注我们的官方微博 @时光胶囊乐队 会在微博及时发布乐队的动态。最近要发新歌啦~敬请关注</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318441688)<br>我还没想好要写什么...<br>2017-12-09 01:28<br>赞(0) 踩(0) | <div><q><b>时光胶囊说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496847)<br>夢醒了，所以心碎了。<br>2015-12-07 21:51<br>赞(1) 踩(0) | <div>求多来来魔都！27号错过了TAT期待下次！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496847)<br>夢醒了，所以心碎了。<br>2015-12-07 21:51<br>赞(1) 踩(0) | <div>求多来来魔都！<br>27号错过了TAT<br>期待下次！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24963352)<br>记忆给他的礼物<br>2015-12-22 15:12<br>赞(0) 踩(0) | <div>有机会一定去~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76001342)<br><br>2015-11-27 20:46<br>赞(1) 踩(0) | <div>然而今天是有演出的可是不能去Orz只希望表太累惹www</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11003617)<br>蒹葭苍苍   白露为霜<br>2015-11-20 17:44<br>赞(2) 踩(0) | <div>青丝不错的</div> |
@@ -168,7 +168,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15896553)<br>我还没想好要写什么...<br>2015-03-14 13:45<br>赞(1) 踩(0) | <div>太棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34272626)<br>我还没想好要写什么...<br>2015-03-04 20:17<br>赞(1) 踩(0) | <div>对哒！check in！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34669874)<br>誰<br>2015-03-01 00:31<br>赞(0) 踩(0) | <div>看到好歌曲第二季上那么多独立音乐人 真希望你们也能站在更大的舞台让更多的人听到你们的歌</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24963352)<br>记忆给他的礼物<br>2015-03-02 15:23<br>赞(0) 踩(0) | <div>不一定非得是上了好歌曲的歌才是好歌曲，对吗？谢谢关注~我们继续努力给你更多好歌曲！！！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24963352)<br>记忆给他的礼物<br>2015-03-02 15:23<br>赞(0) 踩(0) | <div>不一定非得是上了好歌曲的歌才是好歌曲，对吗？<br>谢谢关注~我们继续努力给你更多好歌曲！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45423188)<br>愛してるって言わなきゃ殺...<br>2015-02-09 02:07<br>赞(3) 踩(0) | <div>在MAO看了现场 现场效果没有听录音棚那么惊艳 但是大叔摇头晃脑 湿润的眼眶 还是很打动人的 很棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522848)<br>浅喜似苍狗，深爱如长风！<br>2015-01-27 19:40<br>赞(2) 踩(0) | <div>青丝这个歌，好像有四五年前就听过了，但不知道那是谁唱的，现在的版本比我听那个编配的好，恭喜啊！出专辑了，加油！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5465578)<br>要常回来听听初中时听的歌...<br>2015-01-24 06:30<br>赞(0) 踩(0) | <div>什么时候能来成都啊！</div> |
@@ -189,7 +189,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36428458)<br>暂无签名~<br>2014-11-20 22:30<br>赞(0) 踩(0) | <div>青丝前奏是主唱模仿二胡唱的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8037668)<br>爱上小爱克<br>2014-11-09 02:35<br>赞(1) 踩(0) | <div>好久没关注胶囊了~还记得偶吗嘻嘻，大四了有点忙</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16103397)<br><br>2014-11-11 20:10<br>赞(0) 踩(0) | <div>当然记得！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/855178)<br>无材补天，认真种地。<br>2014-10-30 13:59<br>赞(0) 踩(0) | <div>听青丝的前奏整个人都快飘起来，尤其鼓点一响起的时候，头皮一麻，太震撼了。很用心的乐队，希望某天能听到现场。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/855178)<br>无材补天，认真种地。<br>2014-10-30 13:59<br>赞(0) 踩(0) | <div>听青丝的前奏整个人都快飘起来，尤其鼓点一响起的时候，头皮一麻，太震撼了。<br>很用心的乐队，希望某天能听到现场。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24963352)<br>记忆给他的礼物<br>2014-11-30 15:46<br>赞(0) 踩(0) | <div>其实今年我们在青岛演过一次~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256236)<br><br>2014-10-22 16:10<br>赞(0) 踩(0) | <div>很喜欢的节奏和旋律！编曲很出色，期待有机会听到现场~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24963352)<br>记忆给他的礼物<br>2014-10-23 17:52<br>赞(0) 踩(0) | <div>有机会去深圳演出！</div> |
@@ -197,7 +197,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36673521)<br>a shi sou r ...<br>2014-10-03 06:50<br>赞(0) 踩(0) | <div>很久没听到这么中意的歌了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24963352)<br>记忆给他的礼物<br>2014-10-08 08:56<br>赞(0) 踩(0) | <div>谢谢你的支持~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2731380)<br><br>2014-09-22 21:54<br>赞(0) 踩(0) | <div>赞</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4323514)<br>凡所有相，皆是虚妄<br>2014-09-19 10:49<br>赞(0) 踩(0) | <div>听完青丝来表个白~~作曲很不错呢，意外的带感。电吉他和古风完全不排斥呢~~假音很喜欢啊~~如果更妩媚点就好了2333333</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4323514)<br>凡所有相，皆是虚妄<br>2014-09-19 10:49<br>赞(0) 踩(0) | <div>听完青丝来表个白~~<br>作曲很不错呢，意外的带感。<br>电吉他和古风完全不排斥呢~~<br>假音很喜欢啊~~如果更妩媚点就好了2333333</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24963352)<br>记忆给他的礼物<br>2014-09-19 13:10<br>赞(0) 踩(0) | <div>感谢你中肯的评价！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12829177)<br>cd<br>2014-09-17 22:50<br>赞(0) 踩(0) | <div>挺好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41267617)<br><br>2014-09-16 00:40<br>赞(0) 踩(0) | <div>轻松</div> |
@@ -225,7 +225,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24963352)<br>记忆给他的礼物<br>2014-05-26 08:57<br>赞(0) 踩(0) | <div>必须NICE！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11040190)<br><br>2014-05-24 22:50<br>赞(0) 踩(0) | <div>刚在学校音乐节听过几首歌，很喜欢！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24963352)<br>记忆给他的礼物<br>2014-05-26 08:57<br>赞(0) 踩(0) | <div>谢谢支持~~喜欢就推荐给你的朋友吧~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2041087)<br>请叫我土星二叔<br>2014-05-17 18:58<br>赞(0) 踩(0) | <div>英式摇滚 Britpop这个标签 不知道这么弄的？ 一毛钱都没关系。。 说这乐队 是 独立摇滚 还比较靠谱。。旅途 不错。。至于  青丝  就，，吓坏大肠叔了。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2041087)<br>请叫我土星二叔<br>2014-05-17 18:58<br>赞(0) 踩(0) | <div>英式摇滚 Britpop<br><br>这个标签 不知道这么弄的？ 一毛钱都没关系。。 说这乐队 是 独立摇滚 还比较靠谱。。旅途 不错。。至于  青丝  就，，吓坏大肠叔了。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24963352)<br>记忆给他的礼物<br>2014-05-19 09:32<br>赞(0) 踩(0) | <div>您说的对，现在乐队的方向确实是独立摇滚，其实我们的作品都是受一些英式乐队的影响，风格也的确偏英式，随着时间的推移，年龄的增长，慢慢有了自己的风格，也就不那么英式了~~~青丝只是我们作品中的一种尝试~~~也希望您继续关注我们新的作品~~谢谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446277)<br>舞い落ちる雪のように<br>2014-05-16 21:17<br>赞(0) 踩(0) | <div>刚才翻到了你们在北京卫视春晚上演奏的青丝视频，看起来挺紧张的样子啊~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24963352)<br>记忆给他的礼物<br>2014-05-19 09:33<br>赞(0) 踩(0) | <div>2009年。。。那个时候。。。青涩脸庞。。。</div> |
@@ -299,4 +299,4 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5198546)<br>何不食肉糜？<br>2013-11-13 14:53<br>赞(1) 踩(0) | <div>我很喜欢你的，logo</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16103397)<br><br>2013-11-13 11:09<br>赞(0) 踩(0) | <div>我的生命</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24963352)<br>记忆给他的礼物<br>2013-10-21 11:32<br>赞(112) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2020-11-05 12:45<br>赞(0) 踩(0) | <div>加油，虽然是去年才知道你们的，感谢虾米让你我相遇。。加油真的很喜欢你们的作品</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283919655)<br>水一般的男子<br>2020-11-05 12:45<br>赞(0) 踩(0) | <div>加油，虽然是去年才知道你们的，感谢虾米让你我相遇。。加油<br>真的很喜欢你们的作品</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e660bd2bd220a9c51229e61e1923cf96.jpg)<br>豆沙团子AnDango](https://i.xiami.com/andango) | **播放数**: 2593939<br>**粉丝数**: 539<br>**评论数**: 39<br>**地区**: China 中国大陆<br>**风格**: 日本动漫游戏 Japanese ACG, 同人音乐 DouJin, 器乐流行 Instrumental Pop, 原声 Soundtrack, 游戏配乐 Video Game Music<br> |
+| [![](../../images/musicians/e660bd2bd220a9c51229e61e1923cf96.jpg)<br>豆沙团子AnDango](https://i.xiami.com/andango) | **地区**: China 中国大陆<br>**风格**: 日本动漫游戏 Japanese ACG, 同人音乐 DouJin, 器乐流行 Instrumental Pop, 原声 Soundtrack, 游戏配乐 Video Game Music<br>**播放数**: 2593939<br>**粉丝数**: 539<br>**评论数**: 39<br> |
 
 ## 档案
 
@@ -33,8 +33,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80878922)<br>我乐苦多<br>2020-10-31 03:23<br>赞(0) 踩(0) | <div>&lt;2020.10 依然支持 <img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png">[url=/u/238736254]@豆沙团子AnDango [/url]&gt;&lt;238736254&gt;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326075653)<br>像我这么诚实还没被打死的...<br>2020-05-26 23:45<br>赞(0) 踩(0) | <div>支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375448236)<br><br>2020-04-26 13:34<br>赞(0) 踩(0) | <div>我游戏取豆沙团子会不会被你告啊 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |

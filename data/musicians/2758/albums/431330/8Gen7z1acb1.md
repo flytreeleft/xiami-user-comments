@@ -68,8 +68,8 @@ ISRC CN-A50-10-333-09
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1946724)<br><br>2021-02-04 18:47<br>赞(0) 踩(0) | <div>汪汪汪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1184114)<br>Missing u……<br>2021-02-03 16:03<br>赞(1) 踩(0) | <div>虾米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333749554)<br>爱你虾米<br>2021-01-16 19:25<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
@@ -89,7 +89,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323299210)<br>虾米，你将永存在我心中<br>2020-07-16 23:28<br>赞(0) 踩(0) | <div>还潮着呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78051660)<br>给时间以生命，而不是给生...<br>2020-07-16 02:00<br>赞(0) 踩(0) | <div>被几个傻子吵醒，心情很坏，听了这歌心情变好了，也睡不着了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349339882)<br>后荣迷。努力学习中。<br>2020-07-11 19:52<br>赞(0) 踩(0) | <div>开心一点了 (&amp;acute;-&amp;omega;-`)</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368777863)<br><br>2020-07-06 17:40<br>赞(0) 踩(0) | <div>第一次在路上听差点笑出声 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">也太欢乐了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368777863)<br><br>2020-07-06 17:40<br>赞(0) 踩(0) | <div>第一次在路上听差点笑出声 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"><br>也太欢乐了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210630384)<br> <br>2020-07-04 08:32<br>赞(0) 踩(0) | <div>挺搞笑的，但是中喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14152141)<br>冬穿梭  晚来经过  手...<br>2020-06-13 00:41<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8754413)<br>别听慢歌。<br>2020-06-10 15:25<br>赞(1) 踩(0) | <div>我以为是我鞋一直嘎吱嘎吱</div> |
@@ -180,7 +180,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329338675)<br>我还没想好要写什么...<br>2018-04-22 22:02<br>赞(0) 踩(0) | <div>听了四年没吐的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36999)<br><br>2018-04-21 20:47<br>赞(2) 踩(0) | <div>从 向往的生活 来的~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259636395)<br><br>2018-04-11 09:42<br>赞(0) 踩(0) | <div>好欢～那个后鼻音 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356476862)<br>做人呢最重要的就是开心<br>2018-04-08 21:12<br>赞(2) 踩(0) | <div>喂喂喂橡皮鸭真的犯规了啊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356476862)<br>做人呢最重要的就是开心<br>2018-04-08 21:12<br>赞(2) 踩(0) | <div>喂喂喂<br>橡皮鸭真的犯规了啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310364183)<br><br>2018-04-03 21:21<br>赞(1) 踩(0) | <div>喜欢这首歌的欢乐感，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281812828)<br>清风 明月 远山 近水<br>2018-03-29 09:46<br>赞(2) 踩(0) | <div>精神患者思路广，二逼青年欢乐多 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73020334)<br> <br>2018-03-18 13:35<br>赞(1) 踩(0) | <div>确实挺二的歌！</div> |
@@ -190,7 +190,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285049473)<br>剛拿起酒杯想和你碰杯 才...<br>2018-02-25 11:22<br>赞(0) 踩(0) | <div>嗨呀！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343743714)<br>哟吼吼<br>2018-02-24 15:25<br>赞(1) 踩(0) | <div>后面那几句太&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241773075)<br>我是一株修行千年的板蓝根<br>2018-01-19 15:34<br>赞(0) 踩(0) | <div>233是最骚的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270068014)<br>这家伙很聪明就留下这句话...<br>2018-01-17 20:00<br>赞(2) 踩(0) | <div>听完第一段感受两个字   搞笑听了接下来的感受两个字   乐观听完最后一段说唱感受三个字   什么鬼⊙&amp;forall;⊙？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270068014)<br>这家伙很聪明就留下这句话...<br>2018-01-17 20:00<br>赞(2) 踩(0) | <div>听完第一段感受两个字   搞笑<br>听了接下来的感受两个字   乐观<br>听完最后一段说唱感受三个字   什么鬼⊙&amp;forall;⊙？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248907560)<br>诗酒趁年华，醉卧美人膝。<br>2018-01-15 20:05<br>赞(2) 踩(0) | <div>好二的感觉，洗脑了被</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100628174)<br><br>2018-01-14 12:02<br>赞(4) 踩(0) | <div>推荐给身边的人他们居然都不喜欢，我是没找到真的知音么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262251629)<br><br>2018-01-10 16:17<br>赞(0) 踩(0) | <div>去年过年的时候这首歌还免费下载的。。</div> |
@@ -211,7 +211,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326628110)<br><br>2017-11-14 14:55<br>赞(1) 踩(0) | <div>每次特别丧的时候来听都会感觉很开心 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332785812)<br><br>2017-11-03 09:44<br>赞(1) 踩(0) | <div>逗逼风格</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26478)<br><br>2017-10-30 10:22<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈贱死了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7546759)<br>心里住着一片海<br>2017-10-30 10:22<br>赞(2) 踩(0) | <div>如果感到悲伤我会陪你晒太阳不带雨伞不带手表不慌也不忙翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7546759)<br>心里住着一片海<br>2017-10-30 10:22<br>赞(2) 踩(0) | <div>如果感到悲伤我会陪你晒太阳<br>不带雨伞不带手表不慌也不忙<br>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗<br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2315562)<br><br>2017-10-30 10:21<br>赞(0) 踩(0) | <div>阿猫阿狗海绵宝宝全部都带上  [哈哈]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10774871)<br>Imagine all ...<br>2017-10-30 10:17<br>赞(0) 踩(0) | <div>笑了！！哈哈~贱人贱人贱人~~就是特别的阔耐！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3268035)<br><br>2017-10-30 10:16<br>赞(1) 踩(0) | <div>如果感到悲伤我会陪你晒太阳 　　不打雨伞不带手表不慌也不忙 　　翻个跟头喝瓶汽水生活有希望 　　忘掉烦恼忘掉忧愁天空真晴朗 　　如果感到快乐我会陪你去远航 　　阿猫阿狗海绵宝宝全部都带上 　　手牵手肩并肩我们含着棒棒糖 　　不怕失败不怕黑暗迎面浪接浪</div> |
@@ -220,7 +220,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1851561)<br><br>2017-10-30 09:55<br>赞(1) 踩(0) | <div>欢乐的小二逼 yo yo哈哈哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2752443)<br><br>2017-10-28 00:35<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航/阿猫阿狗海绵宝宝全部都带上/手牵手肩并肩我们含着棒棒糖/不怕失败不怕黑暗迎面浪接浪/Jackie Park Jackie Park Jackie Park/努力呀/奋斗呀/坚持不懈终究会到达/</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/883397)<br>回首向来萧瑟处，也无风雨...<br>2017-10-28 00:32<br>赞(0) 踩(0) | <div>hahahahahahahaaaa</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21499443)<br>我还没想好要写什么...<br>2017-10-28 00:22<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳不带雨伞不带手表不慌也不忙翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21499443)<br>我还没想好要写什么...<br>2017-10-28 00:22<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳<br>不带雨伞不带手表不慌也不忙<br>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗<br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45214)<br><br>2017-10-28 00:20<br>赞(3) 踩(0) | <div>此时此刻，没有什么比孩子们顺利考完试安全到家（一！个！也！不！要！留！在！学！校！）更让辅导员们开心的事，致为最后一科冲刺的大家。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36235500)<br><br>2017-10-28 00:13<br>赞(1) 踩(0) | <div>拜孙哥所赐，我最近被这歌洗脑了！你们感受下...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10742470)<br><br>2017-10-28 00:08<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳,不打雨伞不带手表不慌也不忙。翻个跟头喝瓶汽水生活有希望，忘掉烦恼忘掉忧愁天空真晴朗。如果感到快乐我会陪你去远航，阿猫阿狗海绵宝宝全部都带上  @Fairyyyyyyyyyyyy-Tail 每天一点正能量</div> |
@@ -233,15 +233,15 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49923579)<br><br>2017-10-27 23:31<br>赞(1) 踩(0) | <div>最近真是喜欢上了GALA！太爱他的唱法！每一首歌都觉惊喜好听的感觉有点像当年喜欢JAY的感觉！！真是太棒了～～ps:知道GALA已经火了好多年了，原谅我又out了～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49923579)<br><br>2017-10-27 23:31<br>赞(0) 踩(0) | <div>最近真是喜欢上了GALA！好喜欢他唱歌这风格！每一首歌都觉惊喜喜欢的感觉都有点当年喜欢JAY的感觉了！！真是太棒了～ps：我知道GALA已经火很久了，原谅我又out了！哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34338174)<br>暂无签名~<br>2017-10-27 23:28<br>赞(1) 踩(0) | <div>其实我也觉得身为苏打绿（曾经的）脑残粉却也很喜欢这么逗逼风格的歌有点奇怪。。。两团风格相差还蛮大的。还蛮期待苏朵的现场演唱的，到底会不会是车祸现场呢？双子座的好奇心已爆棚</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7817434)<br><br>2017-10-27 23:23<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳不带雨伞不带手表不慌也不忙翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7817434)<br><br>2017-10-27 23:23<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳<br>不带雨伞不带手表不慌也不忙<br>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗<br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8298242)<br><br>2017-10-27 23:22<br>赞(0) 踩(0) | <div>天一亮就一脸严肃，国计民生关乎一身似的奔波，高大上的都忘了自己是谁～其实我想要这样不着调，听一听就抖去了那些看似自然其实脆弱的伪装～如果悲伤我会晒太阳！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7261248)<br><br>2017-10-27 23:21<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳,不带雨伞不带手表不慌也不忙,翻个跟头喝瓶汽水生活有希望,忘掉烦恼忘掉忧愁天空真晴朗,如果感到快乐我会陪你去远航,阿猫阿狗海绵宝宝全部都带上,手牵手肩并肩我们含着棒棒糖,不怕失败不怕黑暗迎面浪接浪~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1237082)<br><br>2017-10-27 23:21<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳，不打雨伞不戴手表不慌也不忙！~翻个跟斗喝瓶汽水生活有希望，忘掉烦恼忘掉忧愁天空真晴朗！~如果感到快乐我会陪你去远航，阿猫阿狗海绵宝宝全部都带上~手牵手肩并肩我们含着棒棒糖，不怕失败不怕黑暗迎面浪接浪！~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1864139)<br><br>2017-10-27 23:18<br>赞(0) 踩(0) | <div>很喜欢很喜欢 最近，推荐下嘎嘎，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3540159)<br>我还没想好要写什么...<br>2017-10-27 23:14<br>赞(0) 踩(0) | <div>好傻好傻好傻哈哈哈哈哈哈哈哈哈哈哈哈哈哈。听的时候没一刻不是在笑的。我要找一个这样傻乎乎容易快乐的男朋友。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12048936)<br><br>2017-10-27 23:07<br>赞(0) 踩(0) | <div>下午微信给你的乃 现场太high 录不好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9389775)<br><br>2017-10-27 23:06<br>赞(0) 踩(0) | <div>ps:大家一定要听啊！如果感到悲伤我会陪你晒太阳不带雨伞不带手表不慌也不忙翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3963239)<br><br>2017-10-27 23:06<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳不带雨伞不带手表不慌也不忙翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9389775)<br><br>2017-10-27 23:06<br>赞(0) 踩(0) | <div>ps:大家一定要听啊！<br>如果感到悲伤我会陪你晒太阳<br>不带雨伞不带手表不慌也不忙<br>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗<br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3963239)<br><br>2017-10-27 23:06<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳<br>不带雨伞不带手表不慌也不忙<br>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗<br><br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3196245)<br><br>2017-10-27 23:05<br>赞(0) 踩(0) | <div>翻个跟头喝瓶汽水生活有希望，忘掉烦恼忘掉忧愁天空真晴朗，如果感到快乐我会陪你去远航，阿猫阿狗海绵宝宝全部都带上，手牵手肩并肩我们含着棒棒糖，不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66451704)<br><br>2017-10-27 22:59<br>赞(0) 踩(0) | <div>好听哈哈哈 二逼青年欢乐多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324594949)<br><br>2017-10-27 21:25<br>赞(0) 踩(0) | <div>这音色，居然慵懒的唱的挺好听，哈哈</div> |
@@ -273,7 +273,7 @@ ISRC CN-A50-10-333-09
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285215294)<br>缺个人……<br>2017-10-14 01:39<br>赞(0) 踩(0) | <div>怂，你就不道歉，看她们能把你怎样</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238287146)<br><br>2017-11-30 18:23<br>赞(0) 踩(0) | <div>搞笑</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31507323)<br> <br>2017-12-19 09:35<br>赞(0) 踩(0) | <div>要是我会更学习的 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327462735)<br><br>2018-06-02 17:47<br>赞(0) 踩(0) | <div>美女呢io</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327462735)<br><br>2018-06-02 17:47<br>赞(0) 踩(0) | <div>美女呢<br><br>io</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/67887268)<br>看，下雪了。<br>2018-07-13 18:01<br>赞(0) 踩(0) | <div>这故事的悲剧色彩在于~作者至今连个女朋友都没有 <img src="../../../../images/comments/2afbca6d708e05ceb54408ecc4db825c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261025438)<br><br>2018-12-08 08:04<br>赞(0) 踩(0) | <div><q><b>世态づ炎凉说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446199753)<br><br>2021-01-10 23:25<br>赞(0) 踩(0) | <div>哈哈哈哈哈笑死了</div> |
@@ -287,7 +287,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233794990)<br>努力努力再努力的活著！<br>2017-09-07 16:35<br>赞(0) 踩(0) | <div>隔了几年再次听到这歌还是觉得很2B <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298654031)<br><br>2017-09-04 19:31<br>赞(0) 踩(0) | <div>青年旅舍的主题曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83117754)<br>我还没想好要写什么...<br>2017-09-03 23:25<br>赞(0) 踩(0) | <div>深井冰啊 哈哈哈 我叫快抽筋了 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48398445)<br><br>2017-09-02 20:59<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png">欢脱，逗比，还有点上进真好 <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48398445)<br><br>2017-09-02 20:59<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"><br>欢脱，逗比，还有点上进<br>真好 <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237554442)<br><br>2017-09-01 00:23<br>赞(2) 踩(0) | <div>一首歌让你在深夜哭到不能自已 另一首歌又能让你在下一秒笑成疯子 这叫做音乐的力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289055843)<br><br>2017-08-25 21:52<br>赞(0) 踩(0) | <div>LM</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289055843)<br><br>2017-08-25 21:52<br>赞(0) 踩(0) | <div>L</div> |
@@ -302,7 +302,7 @@ ISRC CN-A50-10-333-09
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12012961)<br> <br>2017-09-20 09:36<br>赞(0) 踩(0) | <div><q><b>嘿哈呵说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301070027)<br>一个人难熬好过两个人折磨<br>2017-12-29 16:46<br>赞(0) 踩(0) | <div>真好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268317204)<br><br>2018-01-21 20:10<br>赞(0) 踩(0) | <div>超有爱❤</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285049473)<br>剛拿起酒杯想和你碰杯 才...<br>2018-02-25 11:21<br>赞(0) 踩(0) | <div>哈哈哈好可爱的闺女摸头摸头！</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285049473)<br>剛拿起酒杯想和你碰杯 才...<br>2018-02-25 11:21<br>赞(0) 踩(0) | <div>哈哈哈好可爱的闺女<br>摸头摸头！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15441599)<br>大夏天<br>2017-08-13 22:10<br>赞(2) 踩(0) | <div>努力呀~奋斗呀~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40685917)<br>我需要最狂的风和最静的海<br>2017-08-10 20:54<br>赞(1) 踩(0) | <div>只要不开心就马上脑子里有这首歌然后瞬间开心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317532945)<br>她们听歌 不会说话<br>2017-08-08 18:48<br>赞(0) 踩(0) | <div>不禁发出猪叫声 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -416,7 +416,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50853377)<br>我还没想好要写什么...<br>2016-06-06 12:58<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50853377)<br>我还没想好要写什么...<br>2016-06-06 12:57<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37546148)<br> <br>2016-06-02 00:20<br>赞(3) 踩(0) | <div>最适合儿童节的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25438622)<br><br>2016-06-01 00:02<br>赞(4) 踩(0) | <div>如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25438622)<br><br>2016-06-01 00:02<br>赞(4) 踩(0) | <div>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151595684)<br> <br>2016-05-31 17:54<br>赞(1) 踩(0) | <div>真特么好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97685618)<br> <br>2016-05-31 15:45<br>赞(0) 踩(0) | <div>不破音就不是旮旯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102082406)<br> <br>2016-05-31 14:11<br>赞(0) 踩(0) | <div>背景是老鼠叫么。。。</div> |
@@ -428,8 +428,8 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/148349064)<br>写故事，听故事<br>2016-05-28 07:39<br>赞(0) 踩(0) | <div>已中毒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21236857)<br>萧敬腾√周华健√其他√<br>2016-05-27 18:10<br>赞(1) 踩(0) | <div>含着，棒棒糖……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247719358)<br> <br>2017-03-18 09:21<br>赞(0) 踩(0) | <div>污</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8138746)<br><br>2016-05-26 23:51<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳不打雨伞不戴手表不慌也不忙如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8138746)<br><br>2016-05-26 23:46<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳不打雨伞不戴手表不慌也不忙如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8138746)<br><br>2016-05-26 23:51<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳<br>不打雨伞不戴手表不慌也不忙<br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8138746)<br><br>2016-05-26 23:46<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳<br>不打雨伞不戴手表不慌也不忙<br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126733340)<br>我爱的人心中必有荒野<br>2016-05-25 16:14<br>赞(0) 踩(0) | <div>好喜欢，听到就高兴  <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7114146)<br><br>2016-05-24 15:28<br>赞(1) 踩(0) | <div>努力呀 奋斗呀 现在就出发发发发发～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57463854)<br><br>2016-05-23 21:32<br>赞(0) 踩(0) | <div>开心的歌</div> |
@@ -443,7 +443,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49145824)<br>滚滚红尘<br>2016-05-15 15:20<br>赞(1) 踩(0) | <div>每天的闹铃，醒来自带喜感模式 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27686842)<br>芸芸众生<br>2016-05-14 14:21<br>赞(1) 踩(0) | <div>没有gala的夏天简直不完整♪( ´θ｀)ノ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15309747)<br>时间不逝 圆圈不圆<br>2016-05-14 13:53<br>赞(3) 踩(0) | <div>背景音乐好像在玩泡泡堂</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11616730)<br><br>2016-05-12 21:19<br>赞(1) 踩(0) | <div>如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11616730)<br><br>2016-05-12 21:19<br>赞(1) 踩(0) | <div>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73653372)<br>人生很匆忙，有谁愿意停在...<br>2016-05-12 20:43<br>赞(1) 踩(0) | <div>真是 一听就欢乐得不行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64712456)<br>林青霞、俞飞鸿、李冰冰、...<br>2016-05-12 08:24<br>赞(0) 踩(0) | <div>心情好了哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48972268)<br>给未来的你。<br>2016-05-10 15:08<br>赞(3) 踩(0) | <div>每当来电话，他们都说我是精神病。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -475,7 +475,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64922250)<br>理想划过天边，爱情呀与我...<br>2016-04-15 13:13<br>赞(4) 踩(0) | <div>苏朵养过两只猫，一只叫水手，一只叫公园，他们死了，但苏朵不想太悲伤，所以这歌是欢快的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70870748)<br><br>2016-04-14 17:33<br>赞(0) 踩(0) | <div>好像白痴的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99341530)<br>众里寻人。<br>2016-04-13 21:57<br>赞(10) 踩(0) | <div>海绵宝宝:妈的智障 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125366764)<br>“卑微到尘埃，然后开出花...<br>2016-04-12 20:12<br>赞(1) 踩(0) | <div>来首魔性的歌醒......醒......神=_=原来不管是PC还是NET都是骗人的→_→</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125366764)<br>“卑微到尘埃，然后开出花...<br>2016-04-12 20:12<br>赞(1) 踩(0) | <div>来首魔性的歌醒......醒......神=_=<br>原来不管是PC还是NET都是骗人的→_→</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120821952)<br><br>2016-04-12 16:06<br>赞(0) 踩(0) | <div>大半夜的听完莫名其妙的就欢乐起来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47564263)<br><br>2016-04-11 13:09<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">魔性十足</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138946050)<br>鼻涕过黄河、<br>2016-04-10 23:16<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
@@ -532,7 +532,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1427905)<br><br>2016-02-28 08:25<br>赞(0) 踩(0) | <div>周末感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114732456)<br><br>2016-02-26 21:23<br>赞(0) 踩(0) | <div>这首一听就欢乐的歌，还是好喜欢 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2929786)<br> <br>2016-02-26 13:35<br>赞(33) 踩(0) | <div>中国有这样的乐队好欣慰！ <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80687148)<br> <br>2018-04-23 12:06<br>赞(0) 踩(0) | <div>应该是受到了英伦摇滚乐队的影响影响最大的应该是Suede乐队</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80687148)<br> <br>2018-04-23 12:06<br>赞(0) 踩(0) | <div>应该是受到了英伦摇滚乐队的影响<br>影响最大的应该是Suede乐队</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38117594)<br><br>2016-02-25 22:37<br>赞(0) 踩(0) | <div>逗比青年欢乐多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38117594)<br><br>2016-02-25 22:36<br>赞(0) 踩(0) | <div>逗比青年欢乐多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10602533)<br>Second Round<br>2016-02-24 20:19<br>赞(2) 踩(0) | <div>阿猫阿狗海绵宝宝全部都带上 手牵手肩并肩我们含着棒棒糖</div> |
@@ -625,7 +625,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50470135)<br>不要大会员，不养虾米，对...<br>2015-10-11 20:02<br>赞(0) 踩(0) | <div>好欢乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48949996)<br>刹那即自由<br>2015-10-11 14:13<br>赞(0) 踩(0) | <div>推荐一个好听的音乐公众号：二氢一氧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48887904)<br>你说厌倦呢厌倦呢<br>2015-10-10 22:36<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1948623)<br><br>2015-10-10 15:05<br>赞(0) 踩(0) | <div>“努力呀 奋斗呀！放手一搏现在就出发！”开车上班首选曲目</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1948623)<br><br>2015-10-10 15:05<br>赞(0) 踩(0) | <div>“努力呀 奋斗呀！<br>放手一搏现在就出发！”开车上班首选曲目</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49977974)<br><br>2015-10-08 05:35<br>赞(2) 踩(0) | <div>逗比男直播玩火点着房子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61923876)<br>电影<br>2015-10-07 19:50<br>赞(0) 踩(0) | <div>听了『辣条之歌』来的，很欢乐的歌儿 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21607895)<br>忠于自己，保持独立。<br>2015-10-05 16:31<br>赞(0) 踩(0) | <div>很多人在追逐快乐的道路上跑的上气不接下气，以至跟它擦身而过都没有发觉。</div> |
@@ -809,7 +809,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35082601)<br> <br>2015-04-25 20:19<br>赞(0) 踩(0) | <div>把海绵宝宝带上！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44431196)<br>暂无签名~<br>2015-04-24 14:51<br>赞(0) 踩(0) | <div>来，一起开始这趟音乐的旅程吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48728588)<br>无聊中<br>2015-04-23 23:34<br>赞(1) 踩(0) | <div>park Jackie park Jackie park 坚持不懈终究会到达！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49392830)<br><br>2015-04-22 22:38<br>赞(1) 踩(0) | <div>虽然虽然很爱你 却要阉了你/不然别人抢了去 不留下点滴/虽然虽然很怨你 却仍然痴迷/怀了别人的孩子 我也没脾气</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49392830)<br><br>2015-04-22 22:38<br>赞(1) 踩(0) | <div>虽然虽然很爱你 却要阉了你<br>/不然别人抢了去 不留下点滴<br>/虽然虽然很怨你 却仍然痴迷<br>/怀了别人的孩子 我也没脾气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7452620)<br><br>2015-04-22 10:27<br>赞(0) 踩(0) | <div>[dx脚踏车]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49137108)<br><br>2015-04-21 20:40<br>赞(3) 踩(0) | <div>不开心就听它一定会笑出声来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40953867)<br>我还没想好要写什么...<br>2015-04-21 18:04<br>赞(0) 踩(0) | <div>开口脆～很二很欢乐的一首歌</div> |
@@ -856,7 +856,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1473687)<br><br>2015-02-16 11:00<br>赞(0) 踩(0) | <div>暖场 奋斗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47316261)<br><br>2015-02-15 12:11<br>赞(0) 踩(0) | <div>喜欢就是喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47024613)<br><br>2015-02-07 03:18<br>赞(0) 踩(0) | <div>连MV最后的志愿表都那么逗，醉了醉了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46587238)<br>暂无签名~<br>2015-01-30 15:35<br>赞(0) 踩(0) | <div>好久没听到这歌了[○･‘Д´･○]听一次笑一次</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46587238)<br>暂无签名~<br>2015-01-30 15:35<br>赞(0) 踩(0) | <div>好久没听到这歌了[○･‘Д´･○]<br>听一次笑一次</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46334618)<br>我还没想好要写什么...<br>2015-01-29 00:57<br>赞(0) 踩(0) | <div>_</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18056127)<br>我当然相信你就是其中最正...<br>2015-01-29 00:38<br>赞(0) 踩(0) | <div>第一次听这首歌的时候听一句就开始笑   然后我就爱上这首歌了(˶‾᷄ ⁻̫ ‾᷅˵)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9382553)<br> <br>2015-01-25 15:27<br>赞(0) 踩(0) | <div>发音真是逗</div> |
@@ -947,7 +947,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42720737)<br>暂无签名~<br>2014-10-20 10:46<br>赞(0) 踩(0) | <div>搞笑haha~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41202162)<br>一个不想开电影院的书店老...<br>2014-10-20 00:31<br>赞(0) 踩(0) | <div>蛇精病之歌〜〜躺在床上都快扭起来了。可是睡不着了怎么办（；￣ェ￣）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30705840)<br>暂无签名~<br>2014-10-19 21:58<br>赞(0) 踩(0) | <div>非常好的歌曲 大家听咯</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9877474)<br><br>2014-10-18 21:49<br>赞(0) 踩(0) | <div>阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9877474)<br><br>2014-10-18 21:49<br>赞(0) 踩(0) | <div>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3773619)<br><br>2014-10-18 01:28<br>赞(0) 踩(0) | <div>∩3∩夜深了，来一集奇奇怪怪的音乐课~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16628266)<br> <br>2014-10-16 22:55<br>赞(0) 踩(0) | <div>醉了....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10129138)<br>怀念校园生活<br>2014-10-16 21:46<br>赞(0) 踩(0) | <div>一边写代码，一边听这歌，bug能少一点</div> |
@@ -985,7 +985,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41154194)<br><br>2014-09-12 21:00<br>赞(0) 踩(0) | <div>加班的时候听到忍不住笑了。。哈哈哈哈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17031914)<br>Hello<br>2014-09-11 22:17<br>赞(0) 踩(0) | <div>晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22973839)<br><br>2014-09-09 13:10<br>赞(0) 踩(0) | <div>=。=</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12963708)<br><br>2014-09-05 23:36<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航//阿猫阿狗海绵宝宝全部都带上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12963708)<br><br>2014-09-05 23:36<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航//<br>阿猫阿狗海绵宝宝全部都带上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11366135)<br><br>2014-09-04 22:29<br>赞(0) 踩(0) | <div>~(≧▽≦)/~~(≧▽≦)/~~(≧▽≦)/~~(≧▽≦)/~~(≧▽≦)/~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13758547)<br><br>2014-09-03 10:27<br>赞(0) 踩(0) | <div>雨天听到这种歌真心棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30098666)<br><br>2014-09-02 21:25<br>赞(0) 踩(0) | <div>哈哈，好欢乐~</div> |
@@ -1023,7 +1023,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30514481)<br>暂无签名~<br>2014-07-15 13:14<br>赞(0) 踩(0) | <div>哈哈~好欢乐好无厘头的调子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32574849)<br>就算终有一散 也不放过遇...<br>2014-07-13 23:31<br>赞(0) 踩(0) | <div>6+96+</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4863565)<br>挤出一丝力气<br>2014-07-13 16:40<br>赞(0) 踩(0) | <div>噗 ~~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10897907)<br>耳朵狂魔。。。<br>2014-07-10 16:11<br>赞(0) 踩(0) | <div>不。臭。嘛。。。。。。动物园有的地方很臭的，人有时候又多，猴子还骂你，给你丢石头，你给动物水果吃还被嫌弃。这样都是正经事难道不是因为失恋了什么的嘛。心态真好。哈哈哈哈哈哈哈哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10897907)<br>耳朵狂魔。。。<br>2014-07-10 16:11<br>赞(0) 踩(0) | <div>不。臭。嘛。。。。。。动物园有的地方很臭的，人有时候又多，猴子还骂你，给你丢石头，你给动物水果吃还被嫌弃。这样都是正经事难道不是因为失恋了什么的嘛。心态真好。<br>哈哈哈哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10244831)<br> <br>2014-07-08 14:26<br>赞(0) 踩(0) | <div>@</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13206485)<br>此时花正开<br>2014-07-05 08:50<br>赞(0) 踩(0) | <div>额。。。听到第一印象就是怪怪怪。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16089436)<br><br>2014-06-28 23:41<br>赞(0) 踩(0) | <div>努力呀奮斗呀@獅六六</div> |
@@ -1060,11 +1060,11 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22703409)<br><br>2014-05-23 19:59<br>赞(0) 踩(0) | <div>哈哈哈加班的同时同事share的歌！歌词好正能量哦~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2903748)<br><br>2014-05-23 18:23<br>赞(0) 踩(0) | <div>可爱！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33767662)<br> <br>2014-05-22 22:07<br>赞(0) 踩(0) | <div>屌丝必备</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36820111)<br><br>2014-05-20 13:23<br>赞(0) 踩(0) | <div>GALA乐队上海演唱会（520大学生专场福利活动）！！！学生党购买GALA乐队2014年上海演唱会现场票！ （380元／480元）仅需（150元／200元）！每价位各限量100张！【购票详情：<a href="http://www.douban.com/event/21643452/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21643452/</a>】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36820111)<br><br>2014-05-20 13:23<br>赞(0) 踩(0) | <div>GALA乐队上海演唱会（520大学生专场福利活动）！！！<br>学生党购买GALA乐队2014年上海演唱会现场票！ （380元／480元）仅需（150元／200元）！<br>每价位各限量100张！<br>【购票详情：<a href="http://www.douban.com/event/21643452/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21643452/</a>】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33132001)<br> <br>2014-05-20 08:19<br>赞(0) 踩(0) | <div>努力呀！奋斗呀！早呀！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15303493)<br>时间是杀身之祸，嫉恶如仇<br>2014-05-17 12:28<br>赞(0) 踩(0) | <div>阿猫阿狗海绵宝宝全部都带上~手牵手肩并肩我们含着棒棒糖~不怕失败不怕黑暗迎面浪接浪~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2429552)<br><br>2014-05-16 21:51<br>赞(0) 踩(0) | <div>我们都是2并快乐着的水手，绝不放弃…）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2390254)<br>畅游音符的Kimo<br>2014-05-15 17:29<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳，不带雨伞不带手表不慌也不忙；翻个跟头喝瓶汽水生活有希望，忘掉烦恼忘掉忧愁俏皮正能量！Jackie Park Jackie Park Jackie Park努力呀，奋斗呀</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2390254)<br>畅游音符的Kimo<br>2014-05-15 17:29<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳，不带雨伞不带手表不慌也不忙；<br>翻个跟头喝瓶汽水生活有希望，忘掉烦恼忘掉忧愁俏皮正能量！<br><br>Jackie Park Jackie Park Jackie Park<br>努力呀，奋斗呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11613909)<br>鹿晗，sunshine<br>2014-05-15 14:13<br>赞(0) 踩(0) | <div>如果感到悲伤 我会陪你晒太阳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2834778)<br>放肆<br>2014-05-15 10:19<br>赞(0) 踩(0) | <div>太逗了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1156476)<br>四体不勤，五谷不分<br>2014-05-15 08:49<br>赞(0) 踩(0) | <div>二逼青年嗨起来~</div> |
@@ -1116,7 +1116,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35140254)<br><br>2014-04-09 23:06<br>赞(0) 踩(0) | <div>好欢乐好欢乐(*^__^*) 嘻嘻……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1384293)<br><br>2014-04-09 11:15<br>赞(0) 踩(0) | <div>晒太阳吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30600250)<br><br>2014-04-08 08:29<br>赞(0) 踩(0) | <div>逗。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140175)<br><br>2014-04-04 20:57<br>赞(0) 踩(0) | <div>含着棒棒糖迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140175)<br><br>2014-04-04 20:57<br>赞(0) 踩(0) | <div>含着棒棒糖<br>迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/701718)<br><br>2014-04-03 14:17<br>赞(0) 踩(0) | <div>《水手公园》这首歌很逗！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7055568)<br><br>2014-04-03 10:10<br>赞(0) 踩(0) | <div>切</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8144554)<br><br>2014-04-03 10:07<br>赞(0) 踩(0) | <div>翻个跟头 喝瓶汽水 生活有希望</div> |
@@ -1149,7 +1149,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13313862)<br>独自在荒原徘徊<br>2014-03-18 09:03<br>赞(0) 踩(0) | <div>还可以更逗么，忍不住狂笑。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33239454)<br>-<br>2014-03-17 22:40<br>赞(0) 踩(0) | <div>阿猫阿狗海绵宝宝全部带上去郊游哦happy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/547315)<br>12年，却这样被迫匆匆结...<br>2014-03-17 10:35<br>赞(0) 踩(0) | <div>虽然像精选集的名字一样，这首歌真的二的一B，但是，乐乐又怎么样呢？真的很好笑的歌，旋律加唱腔加歌词，都二毙了！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33515369)<br>3<br>2014-03-16 09:38<br>赞(0) 踩(0) | <div>努力呀 奋斗呀又有力量啦哈哈哈哈哈哈哈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33515369)<br>3<br>2014-03-16 09:38<br>赞(0) 踩(0) | <div>努力呀 奋斗呀<br>又有力量啦哈哈哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11791146)<br><br>2014-03-15 17:23<br>赞(0) 踩(0) | <div>推荐一首洗脑神曲。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3876395)<br>心近不怕路远。<br>2014-03-13 17:27<br>赞(0) 踩(0) | <div>我想穿着垮裤和黑色t恤和你一起去锻炼～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1266100)<br><br>2014-03-13 12:48<br>赞(0) 踩(0) | <div>一个好的音乐作品就是能让你忘却所有烦恼，看着歌词就能笑出来！！</div> |
@@ -1238,14 +1238,14 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22817706)<br><br>2014-01-03 18:27<br>赞(0) 踩(0) | <div>同样课程要结束的日子，记得那晚熬夜抄报告也特么有精神，这一年希望每天头顶都像有个大太阳那样阳光～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22817706)<br><br>2014-01-03 18:22<br>赞(0) 踩(0) | <div>同样课程结束的日子，这一年希望每天头顶都像有个大太阳那样阳光～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12282408)<br>be more ，do ...<br>2014-01-03 18:01<br>赞(0) 踩(0) | <div>如果感到快乐，我会陪你去远航。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9315833)<br>（ˉ﹃ˉ）<br>2014-01-02 12:34<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳不带雨伞不带手表不慌也不忙翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9315833)<br>（ˉ﹃ˉ）<br>2014-01-02 12:34<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳<br>不带雨伞不带手表不慌也不忙<br>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗<br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2591366)<br><br>2014-01-02 08:38<br>赞(0) 踩(0) | <div>努力呀，奋斗呀，欢快逗比小励志一首~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5542680)<br> <br>2014-01-02 01:10<br>赞(0) 踩(0) | <div>阿猫阿狗海绵宝宝 全部都带上～汪汪汪！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3811048)<br>我旅途的初衷不是毁灭而是...<br>2014-01-01 22:50<br>赞(0) 踩(0) | <div>...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10435134)<br><br>2014-01-01 17:55<br>赞(0) 踩(0) | <div>2014欢乐开始</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5889733)<br><br>2014-01-01 13:32<br>赞(0) 踩(0) | <div>做饭听那么嗨的歌   炒出的菜肯定好吃。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7940099)<br>暂无签名~<br>2013-12-31 23:59<br>赞(0) 踩(0) | <div>拜拜啦2013</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1541490)<br>be cool<br>2013-12-31 22:49<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳不带雨伞不带手表不慌也不忙翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1541490)<br>be cool<br>2013-12-31 22:49<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳<br>不带雨伞不带手表不慌也不忙<br>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6722632)<br><br>2013-12-31 16:02<br>赞(0) 踩(0) | <div>@小象Summer</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22170363)<br>这家伙懒得很<br>2013-12-31 13:58<br>赞(0) 踩(0) | <div>一起二起来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1362008)<br> <br>2013-12-31 11:36<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈哈哈哈</div> |
@@ -1274,7 +1274,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13359803)<br><br>2013-12-09 22:06<br>赞(0) 踩(0) | <div>@晓了个航  这歌是不是以前你P3里有？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28401182)<br><br>2013-12-09 21:33<br>赞(0) 踩(0) | <div>我们都是二并快乐着的水手  绝不放弃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29263300)<br>心远地自偏<br>2013-12-08 20:22<br>赞(0) 踩(0) | <div>送给每一个不快乐的人～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17805808)<br><br>2013-12-08 19:50<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17805808)<br><br>2013-12-08 19:50<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27072288)<br>我第一次感到高兴，我们同...<br>2013-12-08 01:04<br>赞(0) 踩(0) | <div>PARK JACKIE PARK...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28401182)<br><br>2013-12-07 16:08<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航 阿猫阿狗海绵宝宝全部都带上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7780916)<br>以身外身，做梦中梦<br>2013-12-06 22:50<br>赞(0) 踩(0) | <div>超欢乐的2B歌，太好了，我喜欢　呵呵</div> |
@@ -1284,7 +1284,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6616189)<br><br>2013-12-02 10:04<br>赞(0) 踩(0) | <div>好欢乐的歌，听他们的歌，心情总会i变得好开心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/759066)<br>U belong to ...<br>2013-12-01 18:02<br>赞(0) 踩(0) | <div>一首很二的歌……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10827687)<br><br>2013-12-01 10:51<br>赞(0) 踩(0) | <div>#手牵手肩并肩 我们含着棒棒糖#</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9753687)<br><br>2013-12-01 09:49<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪Jackie Park Jackie Park Jackie Park</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9753687)<br><br>2013-12-01 09:49<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪<br>Jackie Park Jackie Park Jackie Park</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15503744)<br><br>2013-12-01 00:39<br>赞(0) 踩(0) | <div>这个时间睡觉是奢侈美事，Park Jackie Park Jackie Park，迎接12月，走到停不下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8633217)<br><br>2013-11-29 20:17<br>赞(0) 踩(0) | <div>最近好需要这样疯癫的欢乐来带领我~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11133991)<br><br>2013-11-29 01:50<br>赞(0) 踩(0) | <div>感恩！</div> |
@@ -1340,7 +1340,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2578755)<br>会不会，有一天<br>2013-10-24 22:00<br>赞(0) 踩(0) | <div>哈哈哈哈~放手一搏现在就出发~发发发~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5632086)<br><br>2013-10-24 16:14<br>赞(0) 踩(0) | <div>[嘻嘻][嘻嘻][嘻嘻]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25125563)<br>伪文艺真汉子的酒窝君<br>2013-10-23 22:12<br>赞(0) 踩(0) | <div>几个怕几个怕几个怕~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8191533)<br><br>2013-10-23 18:44<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8191533)<br><br>2013-10-23 18:44<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4205841)<br><br>2013-10-23 15:48<br>赞(0) 踩(0) | <div>@大牙豆要祛痘 生日歌在此！！好好听，表再让我唱了，每年都是这个梗o(╯□╰)o</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8344092)<br><br>2013-10-23 10:47<br>赞(0) 踩(0) | <div>好欢快的歌儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8418388)<br><br>2013-10-22 23:15<br>赞(0) 踩(0) | <div>睡前一支歌</div> |
@@ -1399,8 +1399,8 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22922216)<br><br>2013-09-24 23:21<br>赞(0) 踩(0) | <div>每天都要噪起来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10758192)<br><br>2013-09-24 13:25<br>赞(0) 踩(0) | <div>～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2857336)<br><br>2013-09-24 13:06<br>赞(0) 踩(0) | <div>@琪趴了琪琪骑他_13 生快！[蛋糕]都第十年了请你继续爱我！【什么时候才能把这么13的ID换掉！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615139)<br>精神病人思路广<br>2013-09-24 11:02<br>赞(0) 踩(0) | <div>翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615139)<br>精神病人思路广<br>2013-09-24 11:02<br>赞(0) 踩(0) | <div>翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615139)<br>精神病人思路广<br>2013-09-24 11:02<br>赞(0) 踩(0) | <div>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615139)<br>精神病人思路广<br>2013-09-24 11:02<br>赞(0) 踩(0) | <div>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14415618)<br><br>2013-09-24 10:39<br>赞(0) 踩(0) | <div>阿猫阿狗海绵宝宝全部都带上！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8467850)<br> <br>2013-09-23 22:53<br>赞(0) 踩(0) | <div>这首歌让我想到了一个词：快乐的小二逼！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8695841)<br><br>2013-09-23 00:29<br>赞(0) 踩(0) | <div>#做一个晚上神经病# CC推荐的青春歌曲。</div> |
@@ -1435,7 +1435,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21296841)<br>我还没想好要写什么...<br>2013-09-08 17:20<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去与远航，不打雨伞不带手表不慌也不忙，翻个跟头喝瓶汽水生活有希望，忘掉烦恼忘掉忧愁天空真晴朗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14450574)<br>我还没想好要写什么...<br>2013-09-07 23:36<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航 阿猫阿狗海绵宝宝全部都带上 手牵手肩并肩我们含着棒棒糖 不怕失败不怕黑暗迎面浪接浪~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18306650)<br><br>2013-09-06 12:06<br>赞(0) 踩(0) | <div>如果感到悲伤  我会去晒太阳。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8149729)<br><br>2013-09-06 10:44<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳不带雨伞不带手表不慌也不忙翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8149729)<br><br>2013-09-06 10:44<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳<br>不带雨伞不带手表不慌也不忙<br>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗<br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14516652)<br><br>2013-09-05 23:33<br>赞(0) 踩(0) | <div>真他娘欢乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3277687)<br><br>2013-09-05 08:23<br>赞(0) 踩(0) | <div>努力呀~奋斗呀~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19043427)<br><br>2013-09-04 13:44<br>赞(0) 踩(0) | <div>致队友</div> |
@@ -1472,7 +1472,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20075910)<br><br>2013-08-23 19:27<br>赞(0) 踩(0) | <div>这歌曲旋律太2B了哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13741772)<br>就算微不足道，也要英勇跳...<br>2013-08-23 18:02<br>赞(0) 踩(0) | <div>二逼青年欢乐多，囧这歌慢慢的正能量有木有，我们都是2并快乐着的学生，绝不放弃！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16375413)<br><br>2013-08-23 17:36<br>赞(0) 踩(0) | <div>这才符合过周末的心情:D</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5822155)<br><br>2013-08-23 17:29<br>赞(0) 踩(0) | <div>可爱的歌！如果感到悲伤我会陪你晒太阳不带雨伞不带手表不慌也不忙翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5822155)<br><br>2013-08-23 17:29<br>赞(0) 踩(0) | <div>可爱的歌！如果感到悲伤我会陪你晒太阳<br>不带雨伞不带手表不慌也不忙<br>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗<br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18334800)<br> <br>2013-08-23 10:23<br>赞(0) 踩(0) | <div>。。略屌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41278)<br><br>2013-08-22 18:57<br>赞(0) 踩(0) | <div>啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1029123)<br>poet<br>2013-08-22 17:53<br>赞(0) 踩(0) | <div>每次都觉得他们是能散发正能量的歌手</div> |
@@ -1484,7 +1484,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19701948)<br>GTER<br>2013-08-20 21:01<br>赞(0) 踩(0) | <div>这歌充满了二逼的欢乐气息！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2108599)<br>On the road....<br>2013-08-20 18:11<br>赞(0) 踩(0) | <div>忍不住再推荐，好多正能量的歌〜好喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10207576)<br><br>2013-08-20 17:49<br>赞(0) 踩(0) | <div>下班一首歌~~~阿猫阿狗海绵宝宝，全部都带上~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13379983)<br><br>2013-08-20 01:09<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳不带雨伞不带手表不慌也不忙翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13379983)<br><br>2013-08-20 01:09<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳<br>不带雨伞不带手表不慌也不忙<br>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19695875)<br><br>2013-08-19 21:07<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳 不带雨伞不带手表不慌也不忙 翻个跟头喝瓶汽水生活有希望 忘掉烦恼忘掉忧愁天空真晴朗 如果感到快乐我会陪你去远航 阿猫阿狗海绵宝宝全部都带上 手牵手肩并肩我们含着棒棒糖 不怕失败不怕黑暗迎面浪接浪【分享正能量】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13321258)<br><br>2013-08-19 20:56<br>赞(0) 踩(0) | <div>累了就听听吧~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8452771)<br><br>2013-08-19 16:02<br>赞(0) 踩(0) | <div>二逼青年欢乐多~</div> |
@@ -1504,7 +1504,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17271788)<br><br>2013-08-17 13:38<br>赞(0) 踩(0) | <div>听了好欢乐的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19356387)<br><br>2013-08-17 09:06<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8030268)<br><br>2013-08-17 02:02<br>赞(0) 踩(0) | <div>~o0o0o~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12847776)<br><br>2013-08-16 23:30<br>赞(0) 踩(0) | <div>翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上Jackie Park Jackie Park Jackie Park努力呀 奋斗呀Jackie Park Jackie Park Jackie Park放手一搏现在就出发</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12847776)<br><br>2013-08-16 23:30<br>赞(0) 踩(0) | <div>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗<br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上Jackie Park Jackie Park Jackie Park<br>努力呀 奋斗呀<br>Jackie Park Jackie Park Jackie Park<br>放手一搏现在就出发</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11555473)<br> <br>2013-08-16 22:15<br>赞(0) 踩(0) | <div>hahaha</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5013020)<br>偶尔.<br>2013-08-16 20:34<br>赞(0) 踩(0) | <div>- -</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18242492)<br><br>2013-08-16 18:25<br>赞(0) 踩(0) | <div>公司明天组织去过林卡，串了一下午羊肉、牛肉，明天将是美好的一天，喝着啤酒，吃着串，今儿心情真好，听首欢快的歌</div> |
@@ -1532,7 +1532,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122025)<br> <br>2013-08-14 17:36<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳！阿猫阿狗海绵宝宝全部都带上！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2504745)<br>我还没想好要写什么...<br>2013-08-14 15:13<br>赞(0) 踩(0) | <div>想起我曾经的人生格言：用最好的心情面对最坏的事情！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122025)<br> <br>2013-08-14 13:57<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳 翻个跟头生活有希望</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13999360)<br>消失的，怀念的<br>2013-08-14 12:10<br>赞(0) 踩(0) | <div>Jackie Park Jackie Park Jackie Park努力呀 奋斗呀</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13999360)<br>消失的，怀念的<br>2013-08-14 12:10<br>赞(0) 踩(0) | <div>Jackie Park Jackie Park Jackie Park<br>努力呀 奋斗呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3889317)<br><br>2013-08-14 00:48<br>赞(0) 踩(0) | <div>@Im_Taicheng</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5759233)<br><br>2013-08-14 00:45<br>赞(0) 踩(0) | <div>艾玛，一听好精神</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19256059)<br><br>2013-08-14 00:44<br>赞(0) 踩(0) | <div>=皿=满满的正能量</div> |
@@ -1580,12 +1580,12 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6878896)<br><br>2013-08-12 20:54<br>赞(0) 踩(0) | <div>写东西突然听到这歌~ 心情瞬间变好~ 继Young For You 后又一大爱~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8993729)<br><br>2013-08-12 20:38<br>赞(0) 踩(0) | <div>听着听着我就乐了，果真是二B青年乐趣多呐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2428144)<br><br>2013-08-12 20:24<br>赞(0) 踩(0) | <div>就跟youngforyou一样的欢乐~~~~~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18891978)<br><br>2013-08-12 20:03<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳不带雨伞不带手表不慌也不忙翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18891978)<br><br>2013-08-12 20:03<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳<br>不带雨伞不带手表不慌也不忙<br>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗<br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3225732)<br>in my life I...<br>2013-08-12 19:49<br>赞(0) 踩(0) | <div>现在就出发发发发发 好快乐啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8602273)<br>我还没想好要写什么...<br>2013-08-12 18:26<br>赞(0) 踩(0) | <div>努力呀，奋斗呀！现在就出发发发发发发发~~~苏朵后面是疯了嘛？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9340428)<br><br>2013-08-12 17:53<br>赞(0) 踩(0) | <div>很有意思的歌~~好适合KTV乱吼~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17760975)<br>叶楷轶，。<br>2013-08-12 17:07<br>赞(0) 踩(0) | <div>二逼青年欢乐多，我也欢乐了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17751690)<br>听歌的人最无情<br>2013-08-12 16:18<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳不打雨伞不带手表不慌也不忙翻个跟头喝瓶汽水生活有希望忘掉烦恼忘掉忧愁天空真晴朗如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17751690)<br>听歌的人最无情<br>2013-08-12 16:18<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳<br>不打雨伞不带手表不慌也不忙<br>翻个跟头喝瓶汽水生活有希望<br>忘掉烦恼忘掉忧愁天空真晴朗<br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363785)<br><br>2013-08-12 16:07<br>赞(0) 踩(0) | <div>哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13284009)<br><br>2013-08-12 14:18<br>赞(0) 踩(0) | <div>二逼青年欢乐多~！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19102945)<br>呵呵<br>2013-08-12 13:56<br>赞(0) 踩(0) | <div>好欢乐〜</div> |
@@ -1684,10 +1684,10 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18606424)<br><br>2013-08-10 17:06<br>赞(0) 踩(0) | <div>陪你晒太阳！啊哈哈哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/398027)<br><br>2013-08-10 16:34<br>赞(0) 踩(0) | <div>好欢乐~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3952644)<br> <br>2013-08-10 16:27<br>赞(0) 踩(0) | <div>这就是内地的乐队？和花儿差不多啊这歌.......</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201972)<br> <br>2013-08-10 16:04<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201972)<br> <br>2013-08-10 16:04<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18434859)<br><br>2013-08-10 15:45<br>赞(0) 踩(0) | <div>很二很开心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12272601)<br><br>2013-08-10 15:32<br>赞(0) 踩(0) | <div>哈……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201972)<br> <br>2013-08-10 15:01<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201972)<br> <br>2013-08-10 15:01<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18933672)<br><br>2013-08-10 14:44<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14174833)<br><br>2013-08-10 14:41<br>赞(0) 踩(0) | <div>很好玩哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18933672)<br><br>2013-08-10 14:19<br>赞(0) 踩(0) | <div>2013.8 .10✿： 「 水手公园.mp3 」</div> |
@@ -1752,8 +1752,8 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11078974)<br><br>2013-08-09 13:25<br>赞(0) 踩(0) | <div>轻快，舒服。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11548022)<br>随处可栖<br>2013-08-09 13:14<br>赞(0) 踩(0) | <div>听着前奏就欢乐~  歌词更欢乐  GALA  真是不会让人失望~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9416123)<br>我在我的世界，张开我黑色...<br>2013-08-09 13:13<br>赞(0) 踩(0) | <div>送给咻的愉悦之歌~ps:请相信你的感情没有断片儿，事实证明：你的男人缘好好哦~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11548022)<br>随处可栖<br>2013-08-09 13:12<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上    GALA   你们是有多欢乐~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11548022)<br>随处可栖<br>2013-08-09 13:12<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上    GALA   你们是有多欢乐~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11548022)<br>随处可栖<br>2013-08-09 13:12<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上    GALA   你们是有多欢乐~~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11548022)<br>随处可栖<br>2013-08-09 13:12<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上    GALA   你们是有多欢乐~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115108)<br><br>2013-08-09 12:48<br>赞(0) 踩(0) | <div>这么热的天，不发神经病真是亏了，所以来首病友的歌吧~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15718755)<br><br>2013-08-09 12:39<br>赞(0) 踩(0) | <div>又搞笑又励志大概是他们的风格</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17088872)<br><br>2013-08-09 12:37<br>赞(0) 踩(0) | <div>好玩儿</div> |
@@ -1787,7 +1787,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1444809)<br><br>2013-07-30 16:10<br>赞(0) 踩(0) | <div>2B青年欢乐多弱智儿童思路广~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2086179)<br>暂无签名~<br>2013-07-28 23:05<br>赞(0) 踩(0) | <div>啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈啊哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15414799)<br><br>2013-07-28 14:57<br>赞(0) 踩(0) | <div>哈哈哈神经病人欢乐多！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13933047)<br><br>2013-07-28 14:26<br>赞(0) 踩(0) | <div>Jackie Park Jackie Park Jackie Park努力呀 奋斗呀Jackie Park Jackie Park Jackie Park坚持不懈终究会到达Jackie Park Jackie Park Jackie Park努力呀 奋斗呀Jackie Park Jackie Park Jackie Park放手一搏现在就出发</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13933047)<br><br>2013-07-28 14:26<br>赞(0) 踩(0) | <div>Jackie Park Jackie Park Jackie Park<br>努力呀 奋斗呀<br>Jackie Park Jackie Park Jackie Park<br>坚持不懈终究会到达<br>Jackie Park Jackie Park Jackie Park<br>努力呀 奋斗呀<br>Jackie Park Jackie Park Jackie Park<br>放手一搏现在就出发</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1212872)<br><br>2013-07-26 14:44<br>赞(0) 踩(0) | <div>欢乐一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3783777)<br> <br>2013-07-26 10:00<br>赞(0) 踩(0) | <div>早晨七点起床，蒸一碗蛋羹，拌一盘春菜，切一块面包，热一杯牛奶，吃完早餐再洗个冷水澡。八点半出门发现是多云天又恰逢周五，过地下通道的时候听到这首歌，瞬间灿烂地想要跳个舞哈哈哈！努力啊，奋斗啊！放手一搏现在就出发！发发发发发~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3783777)<br> <br>2013-07-26 09:51<br>赞(0) 踩(0) | <div>早晨七点起床，蒸一碗蛋羹，拌一盘春菜，切一块面包，热一杯牛奶，吃完早餐再洗个冷水澡。八点半出门发现是多云天又恰逢周五，过地下通道的时候听到这首歌，瞬间灿烂地想要跳个舞哈哈哈！努力啊，奋斗啊！放手一搏现在就出发！发发发发发~</div> |
@@ -1908,7 +1908,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8379648)<br> <br>2013-05-26 10:29<br>赞(0) 踩(0) | <div>Jackie park;)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9045628)<br><br>2013-05-26 01:17<br>赞(0) 踩(0) | <div>阿猫阿狗海绵宝宝全部都带上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8131419)<br><br>2013-05-25 09:12<br>赞(0) 踩(0) | <div>猫宁~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10147473)<br><br>2013-05-24 21:18<br>赞(0) 踩(0) | <div>lululu~~hahaha~bababa~dedede~wohu~wohu~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10147473)<br><br>2013-05-24 21:18<br>赞(0) 踩(0) | <div>lululu~~hahaha~bababa~dedede~w<br>ohu~wohu~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3099203)<br><br>2013-05-24 14:46<br>赞(0) 踩(0) | <div>动力之歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15358433)<br><br>2013-05-23 19:27<br>赞(0) 踩(0) | <div>来点儿欢乐的~笑哈哈，出发发发发发</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15358433)<br><br>2013-05-23 19:20<br>赞(0) 踩(0) | <div>来点儿欢乐的~笑哈哈</div> |
@@ -1916,7 +1916,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12372557)<br>無法減速，不能回頭<br>2013-05-21 19:02<br>赞(0) 踩(0) | <div>GALA是一支国内英伦风格乐队，成员有苏朵、亮亮、M、阿达。2004年3月发行英文专辑《Young for you》，2011年3月24日发行中文专辑《追梦痴子心》。GALA是由4个80年代出生的青年组成，是一支只用吉他来创造美妙旋律的乐队。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3733492)<br>想显得酷酷的<br>2013-05-20 18:00<br>赞(0) 踩(0) | <div>晒太阳忘掉烦恼！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13120011)<br><br>2013-05-20 10:37<br>赞(0) 踩(0) | <div>哈哈……好欢乐啊！~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4711465)<br><br>2013-05-19 23:46<br>赞(0) 踩(0) | <div>#如果感到悲伤我会陪你晒太阳##不带雨伞不带手表不慌也不忙#心情一下就好了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4711465)<br><br>2013-05-19 23:46<br>赞(0) 踩(0) | <div>#如果感到悲伤我会陪你晒太阳##不带雨伞不带手表不慌也不忙#<br>心情一下就好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10025587)<br><br>2013-05-19 21:25<br>赞(0) 踩(0) | <div>努力呀。。奋斗呀。。放手一搏现在就出发发发发发</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12330559)<br><br>2013-05-19 20:07<br>赞(0) 踩(0) | <div>（这是young for you之后的嗨皮了）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/598650)<br>我是狗<br>2013-05-19 18:11<br>赞(0) 踩(0) | <div>被爆菊的感觉</div> |
@@ -1999,7 +1999,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7019481)<br><br>2013-04-21 13:56<br>赞(0) 踩(0) | <div>我是不是连中文听力也要重新锻炼一下？为毛这首歌我听不懂？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12235628)<br>虾米，你要早点回家<br>2013-04-20 10:48<br>赞(0) 踩(0) | <div>GALA最开始听的一首歌，好欢乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2712854)<br>词不达意<br>2013-04-19 21:46<br>赞(0) 踩(0) | <div>“有没有信心？！”“有！” 那么……明天一定能过的~(*￣︶￣)y</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6661657)<br>你我都会死，且行且珍惜<br>2013-04-17 12:15<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳，不带雨伞不带手表不慌也不忙。翻个跟头喝瓶汽水生活有希望，忘掉烦恼忘掉忧愁天空真晴朗。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6661657)<br>你我都会死，且行且珍惜<br>2013-04-17 12:15<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳，<br>不带雨伞不带手表不慌也不忙。<br>翻个跟头喝瓶汽水生活有希望，<br>忘掉烦恼忘掉忧愁天空真晴朗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13977139)<br><br>2013-04-17 00:33<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13977139)<br><br>2013-04-17 00:15<br>赞(0) 踩(0) | <div>如果感到悲伤我会陪你晒太阳~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11665238)<br>我还没想好要写什么...<br>2013-04-16 20:11<br>赞(0) 踩(0) | <div>特别喜欢的一首</div> |
@@ -2032,7 +2032,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4065143)<br><br>2013-03-27 11:30<br>赞(0) 踩(0) | <div>@拿NA獸_穿衣很肉脱下有瘦 快听这个~好带感!!!!(=´∀｀)人(´∀｀=)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1695833)<br> <br>2013-03-26 16:38<br>赞(0) 踩(0) | <div>多少抵死视频的背景音[哈哈]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6724971)<br><br>2013-03-25 13:26<br>赞(0) 踩(0) | <div>就喜欢GALA这股子二逼青年欢乐多的劲儿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10778463)<br><br>2013-03-24 13:26<br>赞(0) 踩(0) | <div>水手公园，顿时觉得生活充满希望”如果感到悲伤我会陪你晒太阳/不带雨伞不带手表不慌也不忙/翻个跟头喝瓶汽水生活有希望/忘掉烦恼忘掉忧愁天空真晴朗/如果感到快乐我会陪你去远航/阿猫阿狗海绵宝宝全部都带上/手牵手肩并肩我们含着棒棒糖/不怕失败不怕黑暗迎面浪接浪“</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10778463)<br><br>2013-03-24 13:26<br>赞(0) 踩(0) | <div>水手公园，顿时觉得生活充满希望<br>”如果感到悲伤我会陪你晒太阳/<br>不带雨伞不带手表不慌也不忙/<br>翻个跟头喝瓶汽水生活有希望/<br>忘掉烦恼忘掉忧愁天空真晴朗/<br>如果感到快乐我会陪你去远航/<br>阿猫阿狗海绵宝宝全部都带上/<br>手牵手肩并肩我们含着棒棒糖/<br>不怕失败不怕黑暗迎面浪接浪“</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3124852)<br><br>2013-03-24 12:50<br>赞(0) 踩(0) | <div>好欢快。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7817626)<br><br>2013-03-23 15:35<br>赞(0) 踩(0) | <div>@李子健@计诗意</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12177184)<br><br>2013-03-23 10:26<br>赞(0) 踩(0) | <div>好欢乐〜</div> |
@@ -2095,7 +2095,7 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6774552)<br><br>2013-01-27 20:21<br>赞(0) 踩(0) | <div>努力呀 奋斗呀 park jackie park jackie park ！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7446153)<br><br>2013-01-26 16:13<br>赞(0) 踩(0) | <div>[音乐盒]补充正能量，@wo系静静 听这歌，Gala的《水手公园》各种欢乐[哈哈][哈哈][威武]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7848401)<br>你妹！呸！<br>2013-01-24 17:18<br>赞(0) 踩(0) | <div>@大大的悟</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2987948)<br><br>2013-01-20 10:44<br>赞(0) 踩(0) | <div>心情好的早晨 就更要停电欢乐的歌：如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪@Imin黑兒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2987948)<br><br>2013-01-20 10:44<br>赞(0) 踩(0) | <div>心情好的早晨 就更要停电欢乐的歌：<br>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪@Imin黑兒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3968921)<br><br>2013-01-19 15:11<br>赞(0) 踩(0) | <div>还能更欢乐点不:-)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2625798)<br><br>2013-01-17 19:07<br>赞(0) 踩(0) | <div>哈哈。。。太乐了。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6799991)<br><br>2013-01-15 12:36<br>赞(0) 踩(0) | <div>这种天气就该这样造败起来啊！@别了十万嬉皮 @不万熊的歪歪</div> |
@@ -2110,11 +2110,11 @@ ISRC CN-A50-10-333-09
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4156638)<br><br>2012-12-30 13:15<br>赞(0) 踩(0) | <div>发发发发发！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11022403)<br>用心去听，静静回味。<br>2012-12-30 09:38<br>赞(0) 踩(0) | <div>听《水手公园》，GALA欢乐得一趟糊涂，谁都会高兴感受着歌者的快乐，年轻的力量，理想的崇尚，一切一切对于个人还不是很遥远，不遥远才可怕，明明触手可及，貌似努努力就可以达到，但是就是缺乏那种坚持，“梦想会不会是我最终幻想”，也许对于大多数人来说事实就是这样…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6148059)<br>我以为我是太空人<br>2012-12-27 11:10<br>赞(0) 踩(0) | <div>【二逼的人憎狗嫌【。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3531992)<br><br>2012-12-27 09:55<br>赞(0) 踩(0) | <div>手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3531992)<br><br>2012-12-27 09:55<br>赞(0) 踩(0) | <div>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12049786)<br><br>2012-12-22 19:11<br>赞(0) 踩(0) | <div>跟五月天比，他们好像邪派，口味越来越跑偏了~还有young 4 U，追梦赤子心，边听边哭边笑...如果感到悲伤我会陪你晒太阳，翻个跟头喝瓶汽水生活有希望，Jakie park Jakie park Jakie park ...哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9654300)<br>living for t...<br>2012-12-20 20:30<br>赞(0) 踩(0) | <div>2222222222很222222但是很开心………………</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1670225)<br><br>2012-12-18 21:58<br>赞(0) 踩(0) | <div>心情不好的可以听听 好欢乐啊~~充满正能量</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85423)<br><br>2012-12-17 22:40<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航阿猫阿狗海绵宝宝全部都带上手牵手肩并肩我们含着棒棒糖不怕失败不怕黑暗迎面浪接浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85423)<br><br>2012-12-17 22:40<br>赞(0) 踩(0) | <div>如果感到快乐我会陪你去远航<br>阿猫阿狗海绵宝宝全部都带上<br>手牵手肩并肩我们含着棒棒糖<br>不怕失败不怕黑暗迎面浪接浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8165875)<br>我还没想好要写什么...<br>2012-12-17 22:10<br>赞(0) 踩(0) | <div>太欢乐了，下回K歌时候可以唱！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8633803)<br> <br>2012-12-16 22:00<br>赞(0) 踩(0) | <div>怎么今儿就停不下来了呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11160589)<br>如果你听到的不是噪杂而是...<br>2012-12-16 20:25<br>赞(0) 踩(0) | <div>阿猫阿狗海绵宝宝全带上</div> |

@@ -42,7 +42,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13428393)<br><br>2013-11-07 18:41<br>赞(0) 踩(0) | <div>喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6932108)<br><br>2013-05-25 23:04<br>赞(0) 踩(0) | <div>好听</div> |

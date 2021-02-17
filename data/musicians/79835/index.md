@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/02701e14aebb08f2a184c31b7e5c2aa6.jpg)<br>林二汶](https://i.xiami.com/emanlam) | **播放数**: 29649055<br>**粉丝数**: 27418<br>**评论数**: 530<br>**地区**: Hong Kong ,PRC 中国香港<br>**风格**: 国语流行 Mandarin Pop, 粤语流行 Cantopop<br> |
+| [![](../../images/musicians/02701e14aebb08f2a184c31b7e5c2aa6.jpg)<br>林二汶](https://i.xiami.com/emanlam) | **地区**: Hong Kong ,PRC 中国香港<br>**风格**: 国语流行 Mandarin Pop, 粤语流行 Cantopop<br>**播放数**: 29649055<br>**粉丝数**: 27418<br>**评论数**: 530<br> |
 
 ## 档案
 
@@ -41,15 +41,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322498584)<br>谁不眷恋这一词一曲的光辉<br>2020-11-22 01:00<br>赞(0) 踩(0) | <div>喜欢林二汶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87098670)<br>又蠢又矫情<br>2020-10-25 10:15<br>赞(0) 踩(0) | <div>All the best !!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9478491)<br>舌尖紋了瑪利亞<br>2020-09-02 00:17<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-05-09 12:01<br>赞(0) 踩(0) | <div><img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46001218)<br><br>2020-03-08 17:57<br>赞(0) 踩(0) | <div>作品都很好，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1218669)<br>我要当一只快乐的喷子！<br>2020-02-06 19:34<br>赞(0) 踩(0) | <div>只听过她的《如水》真的优秀。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54523494)<br>怪你过分美丽<br>2019-12-23 01:53<br>赞(0) 踩(0) | <div>很可惜你没有被全部人知道不然会有更多人爱你的歌</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54523494)<br>怪你过分美丽<br>2019-12-23 01:53<br>赞(0) 踩(0) | <div>很可惜你没有被全部人知道<br>不然会有更多人爱你的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54373639)<br>腦海有風 發膚無損<br>2019-10-27 07:11<br>赞(0) 踩(0) | <div>来啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49544593)<br>随意的生活.<br>2019-10-10 22:02<br>赞(0) 踩(0) | <div>实力选手 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307103347)<br>音乐知我心，我心依旧。<br>2019-09-20 22:28<br>赞(0) 踩(0) | <div>最钟意你的两首歌：People like us  像我这样的女孩；在天猫精灵里又无意听到这首歌，爱上了❤️</div> |
@@ -120,7 +120,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229490650)<br>就像他在游戏中所追求的排...<br>2017-11-07 22:58<br>赞(1) 踩(0) | <div>因为一峰知道的啊，很好的一对兄妹啊，低调谦逊。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291224087)<br> <br>2017-11-05 12:32<br>赞(1) 踩(0) | <div>努力做好音樂二汶。。。支持妳</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7298526)<br><br>2017-10-28 00:41<br>赞(0) 踩(0) | <div>喜欢《最后》《北京道落雪了》《在你身边》 《无忘花》～～特别是《最后》 那么好听都没有前十！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3657334)<br>你打錯電話啦. 嘟---<br>2017-10-28 00:15<br>赞(0) 踩(0) | <div>！！！！！！二汶居然会回复评论，我有机会被翻牌子嘛？w(ﾟДﾟ)w哈哈哈哈哈哈哈XDDD不过真系超中意你唱歌，你把声好正</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3657334)<br>你打錯電話啦. 嘟---<br>2017-10-28 00:15<br>赞(0) 踩(0) | <div>！！！！！！二汶居然会回复评论，我有机会被翻牌子嘛？w(ﾟДﾟ)w<br>哈哈哈哈哈哈哈XDDD不过真系超中意你唱歌，你把声好正</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8262976)<br>巨能吃<br>2017-10-27 23:27<br>赞(0) 踩(0) | <div>早就知道林二汶很牛逼，从 ex 那张专辑就挺喜欢的，但是也是最近细细听她的歌，才发现她粤语，普通话，英语都驾驶得很走心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3249237)<br><br>2017-10-27 23:20<br>赞(1) 踩(0) | <div>她的人和她的声音太不一样了。看过她的几个客串角色，都不相信这样的声音出自一个小平头类似男生的女生。但是很喜欢她。从前度开始。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304397647)<br><br>2017-10-26 22:40<br>赞(0) 踩(0) | <div>看前度的时候，里面的林小姐 <img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png">感觉声音不像啊</div> |
@@ -156,7 +156,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61862196)<br>你们的品味真是太高了，<br>2017-02-25 08:49<br>赞(2) 踩(0) | <div>胖成这样了&amp;hellip;&amp;hellip;高中就听过你的歌了，现在大学要毕业了都，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251091462)<br> <br>2017-02-16 13:35<br>赞(1) 踩(0) | <div>唯独你是不可替代好好听，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270040303)<br>你好。<br>2017-02-02 15:01<br>赞(0) 踩(0) | <div>来了呢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11444785)<br>经书向前翻<br>2017-01-31 21:02<br>赞(36) 踩(0) | <div>《刹那的乌托邦》原声大碟现正在众筹出碟中，其中第二章《银发白》有二汶的参与演唱，整张专辑的作曲和作词曾擦出无数火花的冯颖琪和周耀辉，相信喜欢二汶的歌迷们一定不会陌生了。希望有更多的人支持实体碟，支持唱片，让我们可以把这份了不起的作品永久珍藏。请广大歌迷自行在以下网址进行购买，付款方式支持支付宝。记得拍邮费哦。<a href="https://musicbee.cc/project/utopiamomentarily" target="_blank" rel="nofollow noreferrer noopener">https://musicbee.cc/project/utopiamomentarily</a>让我们一起支持好的作品，一起支持二汶！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11444785)<br>经书向前翻<br>2017-01-31 21:02<br>赞(36) 踩(0) | <div>《刹那的乌托邦》原声大碟现正在众筹出碟中，其中第二章《银发白》有二汶的参与演唱，整张专辑的作曲和作词曾擦出无数火花的冯颖琪和周耀辉，相信喜欢二汶的歌迷们一定不会陌生了。<br>希望有更多的人支持实体碟，支持唱片，让我们可以把这份了不起的作品永久珍藏。<br>请广大歌迷自行在以下网址进行购买，付款方式支持支付宝。<br>记得拍邮费哦。<br><a href="https://musicbee.cc/project/utopiamomentarily" target="_blank" rel="nofollow noreferrer noopener">https://musicbee.cc/project/utopiamomentarily</a><br><br>让我们一起支持好的作品，一起支持二汶！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260167529)<br>爱音乐的疯子<br>2017-01-18 21:52<br>赞(0) 踩(0) | <div>一锋二汶 清新兄妹趴</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12221090)<br>逍遥于天地而心意自得<br>2017-01-14 21:21<br>赞(1) 踩(0) | <div>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46213973)<br>飘渺宇宙 天使逡巡<br>2017-01-10 11:46<br>赞(1) 踩(0) | <div>港乐的希望</div> |
@@ -176,7 +176,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35329358)<br> <br>2016-08-29 11:23<br>赞(1) 踩(0) | <div>昨天去电影院，又看到了正片放映之前的那段很可爱的动画短片，这次注意到了演唱者——林二汶。很可爱的曲子 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43220237)<br>With a heart...<br>2016-08-25 23:05<br>赞(2) 踩(0) | <div>没人觉得封面这张神似小岳岳么 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2081245)<br><br>2016-12-12 15:44<br>赞(0) 踩(0) | <div>异父异母的小岳岳</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2248143)<br><br>2016-08-10 18:52<br>赞(2) 踩(0) | <div>天籟美聲. 要怎麼形容? 中英文都要詞窮, 文字不足以形容她的美.深院月. 落梅風. 解語花. 林小姐的歌聲是僊品, 如雪月交光之清朗明淨, 似月下梨花之雅憺雋逸.你把我灌醉!!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2248143)<br><br>2016-08-10 18:52<br>赞(2) 踩(0) | <div>天籟美聲. 要怎麼形容? 中英文都要詞窮, 文字不足以形容她的美.<br>深院月. 落梅風. 解語花. 林小姐的歌聲是僊品, 如雪月交光之清朗明淨, 似月下梨花之雅憺雋逸.<br>你把我灌醉!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33526842)<br>乐手与人生<br>2016-08-05 01:58<br>赞(0) 踩(0) | <div>声音很好听哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1378259)<br> <br>2016-08-03 14:36<br>赞(0) 踩(0) | <div>喜欢你的声音。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16339098)<br>喵 我会疯狂摇尾巴<br>2016-07-14 14:51<br>赞(0) 踩(0) | <div>好有意思的girl！！！</div> |
@@ -305,7 +305,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12007420)<br>暂无签名~<br>2015-02-16 14:49<br>赞(0) 踩(0) | <div>这个就是一个好声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9193984)<br>一个没有脱离低级趣味的人...<br>2015-02-11 23:06<br>赞(0) 踩(0) | <div>才女。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47149469)<br><br>2015-02-10 21:19<br>赞(0) 踩(0) | <div>好声音居然没人认出来。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13927906)<br>路漫漫其修远吾将上下而其...<br>2015-02-10 20:23<br>赞(0) 踩(0) | <div>真的好，跟中国好呻吟卡拉OK大奖赛没关系呵呵~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13927906)<br>路漫漫其修远吾将上下而其...<br>2015-02-10 20:23<br>赞(0) 踩(0) | <div>真的好，<br>跟中国好呻吟卡拉OK大奖赛没关系呵呵~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31811417)<br>我还没想好要写什么...<br>2015-02-07 00:44<br>赞(0) 踩(0) | <div>今天脑子还在循环 最幸运的人 呜呜呜真的好感慨 既然上了就好好走下去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31811417)<br>我还没想好要写什么...<br>2015-02-07 00:42<br>赞(0) 踩(0) | <div>你让其他选手怎么活！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31811417)<br>我还没想好要写什么...<br>2015-02-07 00:42<br>赞(0) 踩(0) | <div>我就去读了几天书你咋就上了中国好歌曲！！！</div> |
@@ -358,7 +358,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32559558)<br>浓密云团<br>2014-10-11 17:00<br>赞(1) 踩(0) | <div>觉得她的歌名儿连起来像首诗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32559558)<br>浓密云团<br>2014-10-11 16:59<br>赞(1) 踩(0) | <div>不好看是真的，好听也是真的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41993256)<br>为音乐而生<br>2014-10-03 20:36<br>赞(0) 踩(0) | <div>真棒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39913258)<br>什么都懂得人最可悲。<br>2014-08-13 15:13<br>赞(0) 踩(0) | <div>声音超级好听。下雨天听感觉还真是好棒的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39913258)<br>什么都懂得人最可悲。<br>2014-08-13 15:13<br>赞(0) 踩(0) | <div>声音超级好听。<br>下雨天听感觉还真是好棒的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2515069)<br><br>2014-08-13 08:58<br>赞(0) 踩(0) | <div>声音超赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7862270)<br>我还没想好要写什么...<br>2014-08-07 22:00<br>赞(16) 踩(0) | <div>中国好声音？好好一个歌手去参加演员选拔的节目干什么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4987225)<br>Muzik in my ...<br>2014-08-03 22:35<br>赞(1) 踩(0) | <div>二汶參加中國好聲音把，明明音色那麼好。</div> |
@@ -418,7 +418,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6903092)<br><br>2014-01-07 09:46<br>赞(0) 踩(0) | <div>&amp;gt;&amp;lt;* 好好喜欢你歌儿~ 快快广州演唱会~ hahaha!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1127888)<br><br>2014-01-19 00:57<br>赞(0) 踩(0) | <div>二汶快来上海演出吧！我是猫痴！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3256886)<br><br>2014-01-23 00:24<br>赞(0) 踩(0) | <div>心水~</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2351719)<br><br>2014-02-15 21:44<br>赞(0) 踩(0) | <div>求来北京！O . O终于驻进来啦~</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2351719)<br><br>2014-02-15 21:44<br>赞(0) 踩(0) | <div>求来北京！O . O<br>终于驻进来啦~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/642328)<br>大家好! 我來自香港。<br>2014-07-11 10:11<br>赞(0) 踩(0) | <div>二汶我同我妹都係你粉絲, 亦有去聽你D演唱會~ 我想問點解你既《翻兜前度》唔出DVD既?</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41065098)<br>hey<br>2014-11-14 10:10<br>赞(0) 踩(0) | <div>你好棒呀～</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43695468)<br><br>2014-11-14 22:36<br>赞(0) 踩(0) | <div><q><b>林二汶说：</b></q></div> |
@@ -453,7 +453,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4878672)<br><br>2013-07-20 11:00<br>赞(0) 踩(0) | <div>怎么什么都没有啊，不高兴--------</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3123251)<br><br>2013-06-03 13:30<br>赞(30) 踩(0) | <div>Little Girl In The World-电影前度插曲，求发布。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2153576)<br><br>2013-05-24 18:11<br>赞(0) 踩(0) | <div>歌呢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1428916)<br><br>2013-05-23 05:06<br>赞(0) 踩(0) | <div>“谢谢您的热心，因为不符合相关版权政策要求虾米网目前不收录此专辑，若有疑问请联系虾小编”从没见过这种状况啊是我听歌太少了么？而且林一峰的专辑都没问题。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1428916)<br><br>2013-05-23 05:06<br>赞(0) 踩(0) | <div>“谢谢您的热心，因为不符合相关版权政策要求虾米网目前不收录此专辑，若有疑问请联系虾小编”<br>从没见过这种状况啊是我听歌太少了么？而且林一峰的专辑都没问题。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12689078)<br><br>2013-05-22 10:47<br>赞(0) 踩(0) | <div>歌曲呢？？？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15244009)<br>hihihihihihi<br>2013-05-17 10:14<br>赞(0) 踩(0) | <div>虾米咋突然都会全部都没了的= = ~啥问题阿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3319891)<br><br>2013-04-23 10:36<br>赞(0) 踩(0) | <div>为什么会这样！生活低谷了。。。</div> |
@@ -510,7 +510,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8697158)<br><br>2012-06-23 01:33<br>赞(0) 踩(0) | <div>真实的音乐人 我喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8207258)<br>时光的河入海流<br>2012-06-05 21:53<br>赞(0) 踩(0) | <div>好听的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9278846)<br>今天应该很高兴<br>2012-06-02 13:57<br>赞(0) 踩(0) | <div>动听。收租婆很搞笑啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2648440)<br>肖邦最恨 流行的歌<br>2012-05-19 16:53<br>赞(0) 踩(0) | <div>很干净的声音。喜欢前度的配乐。很棒。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2648440)<br>肖邦最恨 流行的歌<br>2012-05-19 16:53<br>赞(0) 踩(0) | <div>很干净的声音。<br>喜欢前度的配乐。<br>很棒。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5460878)<br><br>2012-05-15 12:23<br>赞(0) 踩(0) | <div>AT17</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1426570)<br><br>2012-05-06 23:28<br>赞(0) 踩(0) | <div>二汶的声音好好听！她哥的声音也好好听！……花痴了……(⊙o⊙)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91029)<br>双耳是盲目的最佳玩伴<br>2012-04-22 14:15<br>赞(0) 踩(0) | <div>爱你爱你爱你爱你爱你XD！！！！！！</div> |

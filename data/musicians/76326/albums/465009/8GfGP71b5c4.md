@@ -55,8 +55,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445274357)<br><br>2020-10-15 06:22<br>赞(0) 踩(0) | <div>赵雷的歌跟大冰写的的书是绝配，感谢大冰，让我认识了赵雷，从此以后我喜欢上雷子的歌，带给我无限的温暖&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14421263)<br><br>2020-09-27 13:19<br>赞(0) 踩(0) | <div>唉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435227660)<br> <br>2020-09-08 00:06<br>赞(0) 踩(0) | <div>好想回家</div> |
@@ -135,7 +135,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285920981)<br>轻松洒脱离轨道……<br>2017-06-20 12:20<br>赞(1) 踩(0) | <div>直接，好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300940754)<br> <br>2017-06-09 20:36<br>赞(1) 踩(0) | <div>今天休假去北京，发现皇城根还是那个味道，和西安有点像，大气里带着安详，今天有白云蓝天，还有夏日的风。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296056575)<br><br>2017-05-28 16:03<br>赞(1) 踩(0) | <div>北京呵呵，呵呵，呵呵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/171876778)<br><br>2017-05-24 08:42<br>赞(1) 踩(0) | <div>我听成：要装作很快乐，重蹈覆辙。感动的这一句：装作很快乐，只是重蹈覆辙。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/171876778)<br><br>2017-05-24 08:42<br>赞(1) 踩(0) | <div>我听成：要装作很快乐，重蹈覆辙。<br>感动的这一句：装作很快乐，只是重蹈覆辙。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49780380)<br><br>2017-05-15 01:34<br>赞(3) 踩(0) | <div>最喜欢的雷子的一首歌，特别纯粹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/946504)<br>一起飞，向星空……<br>2017-05-14 23:29<br>赞(3) 踩(0) | <div>只有这个时候才想起读书时坐火车的那种感觉，一节车厢，来来往往都是返校的学校，谈着校园生活。不知怎么了，现在基本上在火车上碰到学生谈论学业，理想与爱情了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92655250)<br>我就一听歌的。<br>2017-05-13 17:26<br>赞(1) 踩(0) | <div>坐在开往的北京的火车上，没有回家的感觉。</div> |
@@ -214,9 +214,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37158600)<br>dreamer<br>2015-12-25 13:32<br>赞(0) 踩(0) | <div>两分三十四秒开始的吉他旋律 尤其到了两分五十秒的时候 很像逃跑计划-哪里是你的拥抱里面的三十秒开始的旋律耶~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46550525)<br>快乐只能大口吞咽，慢慢咀...<br>2015-12-08 16:23<br>赞(1) 踩(0) | <div>天津到北京有许多火车19.8  心情不好我就来回坐火车玩儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7571322)<br>love is weak...<br>2015-12-07 19:47<br>赞(0) 踩(0) | <div>开往白金的火车。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22551033)<br><br>2015-12-07 17:51<br>赞(0) 踩(0) | <div>jujugjyuyuyuuyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyuyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22551033)<br><br>2015-12-07 17:51<br>赞(0) 踩(0) | <div>jujugjyuyuyuuyyyyyyyyyyyyyyyyy<br>yyyyyyyyyyyyyyyyyyyyyyyyyyyuyy<br>yyyyyyyyyyyyyyyyyyyyyyyyyyyyyy<br>yyyyyyyyyyyyyyyyyyyyyyyyyyyyyy<br>yyyyyyyyyyyyyyyyyyyy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22551033)<br><br>2015-12-07 17:47<br>赞(0) 踩(0) | <div>k,mhjyhuyh6y7645</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22551033)<br><br>2015-12-05 22:21<br>赞(0) 踩(0) | <div>李噢来几iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii给i</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22551033)<br><br>2015-12-05 22:21<br>赞(0) 踩(0) | <div>李噢来几iiiiiiiiiiiiiiiiiiiiiiiiii<br>iiiiiiiiiiiiiiiiiiiiiiiiiiiiii<br>iiii给i</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41666077)<br>暂无签名~<br>2015-11-26 12:59<br>赞(0) 踩(0) | <div>回家了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69257800)<br>只是一个皮筋拖沓的壳<br>2015-11-18 22:27<br>赞(0) 踩(0) | <div>赵小雷，雷小赵，开开心心唱歌就好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68507426)<br>The jesus an...<br>2015-11-13 00:12<br>赞(0) 踩(0) | <div>即使重蹈覆辙</div> |
@@ -298,7 +298,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13495837)<br>低调<br>2014-04-07 22:24<br>赞(2) 踩(0) | <div>送给在外地的北京人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34917473)<br><br>2014-04-05 01:09<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7091069)<br><br>2014-03-28 21:00<br>赞(0) 踩(0) | <div>国语听得明白</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-02-23 07:42<br>赞(0) 踩(0) | <div>调有点像玩具船长的《兄台你近来好吗》83157,89,29</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-02-23 07:42<br>赞(0) 踩(0) | <div>调有点像玩具船长的《兄台你近来好吗》<br>83157,89,29</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2014-02-12 15:27<br>赞(0) 踩(0) | <div>心 境不二</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6235155)<br><br>2014-02-10 22:01<br>赞(0) 踩(0) | <div>有分别，有重逢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2478876)<br><br>2014-02-10 21:54<br>赞(0) 踩(0) | <div>开往老家的火车</div> |
@@ -324,5 +324,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6977807)<br><br>2012-06-15 08:16<br>赞(1) 踩(0) | <div>从《再见北京》到《开往北京的火车》...各种挣扎都过去了，虽然还是有点郁闷，北京北京我要回来了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2763126)<br><br>2012-06-10 15:47<br>赞(1) 踩(0) | <div>要装作很快乐 即使重蹈覆辙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6649068)<br><br>2012-03-28 21:16<br>赞(2) 踩(0) | <div>开往北京的火车，载着南方的姑娘们~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7830381)<br>在小时候的黄昏见<br>2012-01-30 11:15<br>赞(1) 踩(0) | <div>即使我还是个穷人 但这里还是有期待我的人即使这里再拥挤 还是给我留了一个位置的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1958079)<br><br>2012-01-29 17:13<br>赞(1) 踩(0) | <div>即使我还是个穷人 但这里还是有期待我的人即使这里再拥挤 还是给我留了一个位置的---------------------------------------------------------------------这写的不就是我么。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7830381)<br>在小时候的黄昏见<br>2012-01-30 11:15<br>赞(1) 踩(0) | <div>即使我还是个穷人 但这里还是有期待我的人<br>即使这里再拥挤 还是给我留了一个位置的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1958079)<br><br>2012-01-29 17:13<br>赞(1) 踩(0) | <div>即使我还是个穷人 但这里还是有期待我的人<br>即使这里再拥挤 还是给我留了一个位置的<br>---------------------------------------------------------------------<br>这写的不就是我么。。</div> |

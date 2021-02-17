@@ -68,8 +68,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/133041962)<br>沙子总比金子多<br>2018-07-17 00:08<br>赞(1) 踩(0) | <div>美国老硬摇的味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218014975)<br><br>2017-12-29 19:09<br>赞(1) 踩(0) | <div>汪峰肯定听过have a nice day</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39186751)<br> <br>2016-10-02 12:33<br>赞(1) 踩(0) | <div>自由自在</div> |
@@ -92,17 +92,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7095647)<br>我还没想好要写什么...<br>2012-09-02 00:15<br>赞(0) 踩(0) | <div>楮鸟说回来要唱汪峰的歌..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2291895)<br><br>2012-03-26 10:44<br>赞(0) 踩(0) | <div>没有人知道我的名字/没有人知道我在哪里/我只想朝着远方边走边唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1254547)<br><br>2012-01-06 13:37<br>赞(0) 踩(0) | <div>回过来还是喜欢那时的汪峰！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2148694)<br><br>2011-12-15 10:45<br>赞(0) 踩(0) | <div>没有人知道我的名字 没有人知道我在哪里我只想朝着远方边走边唱 歌唱这生命一样的风景</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2148694)<br><br>2011-12-15 10:45<br>赞(0) 踩(0) | <div>没有人知道我的名字 没有人知道我在哪里<br>我只想朝着远方边走边唱 歌唱这生命一样的风景</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5877133)<br><br>2011-10-31 01:01<br>赞(0) 踩(0) | <div>没有人知道我的名字，没有人知道我在哪里。我只想朝着远方边走边唱，歌唱这生命的美丽和迷惘。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3759779)<br><br>2011-07-30 13:04<br>赞(0) 踩(0) | <div>象1969年的福特在公路上疾驶象风滚草在内华达荒野上滚动象朝圣者在寂寞的**上呼喊象一首歌从沸腾的街道上划过没有人会知道我的名字没有人能知道我在哪里我只想朝着远方边走边唱歌唱这生命的美丽和迷惘象死去之前的一个疲倦的微笑象刺入空虚的一把哭泣的利刃象跪在塔里的一名囚徒的忏悔象站在山顶的一个弃儿的嚎叫</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3759779)<br><br>2011-07-30 13:04<br>赞(0) 踩(0) | <div>没有人会知道我的名字没有人能知道我在哪里我只想朝着远方边走边唱寻找那象爱情一样的风景没有人会知道我的名字没有人能知道我在哪里我只想朝着远方边走边唱歌唱这生命的美丽和迷惘啊……啊……我只想朝着远方边走边唱歌唱这生命的美丽和迷惘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3759779)<br><br>2011-07-30 13:04<br>赞(0) 踩(0) | <div>象1969年的福特在公路上疾驶<br>象风滚草在内华达荒野上滚动<br>象朝圣者在寂寞的**上呼喊<br>象一首歌从沸腾的街道上划过<br><br>没有人会知道我的名字<br>没有人能知道我在哪里<br>我只想朝着远方边走边唱<br>歌唱这生命的美丽和迷惘<br><br>象死去之前的一个疲倦的微笑<br>象刺入空虚的一把哭泣的利刃<br>象跪在塔里的一名囚徒的忏悔<br>象站在山顶的一个弃儿的嚎叫</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3759779)<br><br>2011-07-30 13:04<br>赞(0) 踩(0) | <div>没有人会知道我的名字<br>没有人能知道我在哪里<br>我只想朝着远方边走边唱<br>寻找那象爱情一样的风景<br><br>没有人会知道我的名字<br>没有人能知道我在哪里<br>我只想朝着远方边走边唱<br>歌唱这生命的美丽和迷惘<br><br><br>啊……<br>啊……<br>我只想朝着远方边走边唱<br>歌唱这生命的美丽和迷惘</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/839577)<br><br>2011-07-26 15:23<br>赞(0) 踩(0) | <div>远山，河流，天空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2789877)<br><br>2011-04-16 11:15<br>赞(0) 踩(0) | <div>歌词谁翻译的，太搞了。亏他想的出来。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2012-02-07 16:09<br>赞(0) 踩(0) | <div>已经改正了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2600084)<br><br>2011-02-15 01:35<br>赞(0) 踩(0) | <div>没有人知道我的名字没有人知道我在哪里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2600084)<br><br>2011-02-15 01:35<br>赞(0) 踩(0) | <div>没有人知道我的名字<br>没有人知道我在哪里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2605211)<br><br>2011-01-28 23:21<br>赞(0) 踩(0) | <div>哈哈哈这歌词</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2012-02-07 16:09<br>赞(0) 踩(0) | <div>歌词已经变成正确的了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1433070)<br><br>2011-01-12 17:45<br>赞(0) 踩(0) | <div>一直留着man的辅导 在公路上继续！！！？？？什么辅导！！！什么man？？是：像1969年的福特！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1433070)<br><br>2011-01-12 17:45<br>赞(0) 踩(0) | <div>一直留着man的辅导 在公路上继续！！！？？？什么辅导！！！什么man？？<br>是：像1969年的福特！！！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2012-02-07 16:08<br>赞(0) 踩(0) | <div>改了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1433070)<br><br>2011-01-12 17:43<br>赞(0) 踩(0) | <div>大-爷-的！！歌词弄了些什么！！太-他-妈不负责了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1489937)<br><br>2012-02-07 16:09<br>赞(0) 踩(0) | <div>改正了</div> |

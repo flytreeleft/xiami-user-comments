@@ -3,7 +3,7 @@ Choitree
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b03ab2c35ac3133d76257e242c144ab9.jpg)<br>Choitree](https://i.xiami.com/cuiheng) | **播放数**: 2474976<br>**粉丝数**: 2124<br>**评论数**: 213<br>**地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 根源唱作人 Singer-Songwriter, 氛围流行 Ambient Pop<br> |
+| [![](../../images/musicians/b03ab2c35ac3133d76257e242c144ab9.jpg)<br>Choitree](https://i.xiami.com/cuiheng) | **地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 根源唱作人 Singer-Songwriter, 氛围流行 Ambient Pop<br>**播放数**: 2474976<br>**粉丝数**: 2124<br>**评论数**: 213<br> |
 
 ## 档案
 
@@ -27,8 +27,8 @@ checkme weibo@Choitree崔恒
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48276337)<br>22世纪不道德<br>2021-01-21 11:15<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354073970)<br>我还没想好要写什么...<br>2021-01-13 00:33<br>赞(0) 踩(0) | <div>睡觉了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102133446)<br>音乐不是消耗品<br>2021-01-08 17:04<br>赞(0) 踩(0) | <div>他可能已经不做音乐了吧</div> |
@@ -73,7 +73,7 @@ checkme weibo@Choitree崔恒
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48837804)<br>我有想好写什么，但我就是...<br>2019-10-21 23:44<br>赞(0) 踩(0) | <div>名字怎么念呀！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4012985)<br>这家伙一无所有<br>2019-10-15 08:08<br>赞(0) 踩(0) | <div>专场！专场！专场！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34868089)<br> <br>2019-09-23 21:20<br>赞(0) 踩(0) | <div>等专场呀</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38747018)<br> <br>2019-09-13 16:09<br>赞(1) 踩(0) | <div>刚刚突然听到点进主页一看有个千人之约啊 哈哈哈 我是第1292个 说话算话吗哈哈哈</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38747018)<br> <br>2019-09-13 16:09<br>赞(1) 踩(0) | <div>刚刚突然听到<br>点进主页一看有个千人之约啊 哈哈哈 我是第1292个 说话算话吗哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102133446)<br>音乐不是消耗品<br>2019-09-11 21:40<br>赞(0) 踩(0) | <div>说好的专场有消息了吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2019-09-11 00:12<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42810132)<br>Aprés l'amou...<br>2019-09-09 00:20<br>赞(0) 踩(0) | <div>开了啥专场</div> |
@@ -100,22 +100,22 @@ checkme weibo@Choitree崔恒
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5798584)<br> <br>2019-06-03 15:57<br>赞(0) 踩(0) | <div>太棒啦！！！有专场啦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102133446)<br>音乐不是消耗品<br>2019-06-02 19:55<br>赞(0) 踩(0) | <div>何时专场</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181099406)<br>Free.<br>2019-06-02 00:41<br>赞(1) 踩(0) | <div>西安也想拥有姓名</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17691156)<br>あなたに出会えて よかっ...<br>2019-06-01 12:48<br>赞(2) 踩(0) | <div>亲眼看着200+粉丝到1k所以，专场有广州吗</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17691156)<br>あなたに出会えて よかっ...<br>2019-06-01 12:48<br>赞(2) 踩(0) | <div>亲眼看着200+粉丝到1k<br>所以，专场有广州吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44909921)<br><br>2019-06-02 20:47<br>赞(0) 踩(0) | <div>广州＋1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9882024)<br>直到你发现  我 （再也...<br>2019-05-31 17:19<br>赞(0) 踩(0) | <div>给你时间  一切如初 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255766962)<br>我的大脑去哪了？<br>2019-05-29 16:01<br>赞(0) 踩(0) | <div>求广州</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53745958)<br>我还没想好要写什么...<br>2019-05-29 05:01<br>赞(1) 踩(0) | <div>1002啦！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181099406)<br>Free.<br>2019-05-29 01:40<br>赞(1) 踩(0) | <div>开专场！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45686435)<br>一壺飛鳧 尋山夢鶴   ...<br>2019-05-29 01:31<br>赞(1) 踩(0) | <div>现场见！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13968695)<br>@cho1tree<br>2019-05-29 01:25<br>赞(67) 踩(0) | <div>----------从15年我有了第一个虾米的账号，到19年的今天，过去了四年多的时间。我很庆幸我至今仍保留着少年时对音乐的无限热忱以及创作的初心，更庆幸的是你们喜欢这样的我和这些作品。当初无心的承诺，本以为不会实现。我其实从来没想过真的会有这么一天，更没想过该如何迎接这一天的到来。给我点时间，一切如初！感谢你的陪伴，一千分之一！见字如面 @Choitree 2019年5月19日于京。----------</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13968695)<br>@cho1tree<br>2019-05-29 01:25<br>赞(67) 踩(0) | <div>----------<br>从15年我有了第一个虾米的账号，到19年的今天，过去了四年多的时间。我很庆幸我至今仍保留着少年时对音乐的无限热忱以及创作的初心，更庆幸的是你们喜欢这样的我和这些作品。当初无心的承诺，本以为不会实现。我其实从来没想过真的会有这么一天，更没想过该如何迎接这一天的到来。给我点时间，一切如初！<br>感谢你的陪伴，一千分之一！<br>见字如面 @Choitree 2019年5月19日于京。<br>----------</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192082440)<br>我还没想好要写什么...<br>2019-06-12 00:56<br>赞(0) 踩(0) | <div>會一直等你！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12878826)<br>谢谢陪伴 再见哦！<br>2019-08-04 08:35<br>赞(0) 踩(0) | <div>你的声音很温暖</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281313030)<br>在这里漂流了很久，后会有...<br>2020-12-27 09:15<br>赞(0) 踩(0) | <div>加油</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45686435)<br>一壺飛鳧 尋山夢鶴   ...<br>2019-05-28 09:49<br>赞(0) 踩(0) | <div>还有三个！！期待 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45686435)<br>一壺飛鳧 尋山夢鶴   ...<br>2019-05-28 09:49<br>赞(0) 踩(0) | <div>还有三个！！<br>期待 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192082440)<br>我还没想好要写什么...<br>2019-05-28 00:31<br>赞(0) 踩(0) | <div>我真的要見你了嗎！！！！！哭了！！！我等了好久好久 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png" <br=""></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49030024)<br>Heureux de v...<br>2019-05-27 17:29<br>赞(0) 踩(0) | <div>No.996</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8200350)<br>Sparkling wi...<br>2019-05-24 14:31<br>赞(0) 踩(0) | <div>为你的专场出一份关注</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321080996)<br>No other man...<br>2019-05-21 10:29<br>赞(0) 踩(0) | <div>还差38人 ！！！厦门！厦门！厦门！厦门！啊啊啊 <img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321080996)<br>No other man...<br>2019-05-21 10:29<br>赞(0) 踩(0) | <div>还差38人 ！！！<br>厦门！厦门！厦门！厦门！啊啊啊 <img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5149336)<br><br>2019-05-20 00:24<br>赞(0) 踩(0) | <div>哈哈哈 来成都吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13465367)<br>RANDOMSIDE<br>2019-05-18 23:28<br>赞(0) 踩(0) | <div>期待一个北京的专场</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419844543)<br>BAD GUY !!!<br>2019-05-17 19:52<br>赞(0) 踩(0) | <div>专场来广州！！！</div> |
@@ -132,7 +132,7 @@ checkme weibo@Choitree崔恒
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26094204)<br>别把我关在门外<br>2019-05-09 00:31<br>赞(1) 踩(0) | <div>朝鲜！！请一定要安排上！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96775922)<br>天真有邪<br>2019-05-09 00:25<br>赞(1) 踩(0) | <div>那来武汉吧！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336176537)<br><br>2019-05-08 23:48<br>赞(1) 踩(0) | <div>等你哦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45686435)<br>一壺飛鳧 尋山夢鶴   ...<br>2019-05-08 23:44<br>赞(1) 踩(0) | <div>长沙长沙长沙！！ball ball u！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45686435)<br>一壺飛鳧 尋山夢鶴   ...<br>2019-05-08 23:44<br>赞(1) 踩(0) | <div>长沙长沙长沙！！<br>ball ball u！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9882024)<br>直到你发现  我 （再也...<br>2019-05-08 23:43<br>赞(1) 踩(0) | <div>加油  希望可以去看你的专场</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85848010)<br>不知何时又会再忆起<br>2019-05-08 23:42<br>赞(1) 踩(0) | <div>上海杭州！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338032733)<br>極 度 理 智<br>2019-05-08 23:39<br>赞(1) 踩(0) | <div>開心！坐等專場啊！hhhhhhh</div> |
@@ -140,11 +140,11 @@ checkme weibo@Choitree崔恒
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50093825)<br>。<br>2019-05-08 03:10<br>赞(0) 踩(0) | <div>: )</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53745958)<br>我还没想好要写什么...<br>2019-05-05 01:09<br>赞(0) 踩(0) | <div>哭哭 太温柔了叭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14265718)<br>wx:osakarock...<br>2019-05-02 15:55<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321080996)<br>No other man...<br>2019-04-28 00:12<br>赞(1) 踩(0) | <div>等你专场希望在厦门 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321080996)<br>No other man...<br>2019-04-28 00:12<br>赞(1) 踩(0) | <div>等你专场<br>希望在厦门 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9569859)<br>行吧<br>2019-04-24 21:21<br>赞(0) 踩(0) | <div>好好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1154949)<br>我想在虾米找个男朋友啊<br>2019-04-24 07:47<br>赞(0) 踩(0) | <div>我靠，声音这么好听的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4732260)<br>。<br>2019-04-24 02:37<br>赞(0) 踩(0) | <div>等你开专场</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322523580)<br>夜空 总有更大密度的蓝色<br>2019-04-23 22:23<br>赞(1) 踩(0) | <div>这声音对于现在的我再适合不过了现在连用钢琴曲缓解悲伤都似乎有抗药性了我害怕迟早有一天对所有东西都产生抗药性痛苦至死</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322523580)<br>夜空 总有更大密度的蓝色<br>2019-04-23 22:23<br>赞(1) 踩(0) | <div>这声音<br>对于现在的我<br>再适合不过了<br>现在连用钢琴曲缓解悲伤都似乎有抗药性了<br>我害怕<br>迟早有一天<br>对所有东西都产生抗药性<br>痛苦至死</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48895134)<br>直内方外<br>2019-04-22 20:31<br>赞(0) 踩(0) | <div>日推，可还行，助力专场，哈哈哈哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4487129)<br><br>2019-04-20 08:55<br>赞(0) 踩(0) | <div>！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4486462)<br>不和听垃圾的人做朋友。<br>2019-04-18 16:16<br>赞(0) 踩(0) | <div>中文英文两种感觉耶。</div> |
@@ -211,7 +211,7 @@ checkme weibo@Choitree崔恒
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337468260)<br><br>2017-12-21 20:36<br>赞(2) 踩(0) | <div>惊闻仙声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281266721)<br>记仇 善良 可恶 幼稚 ...<br>2017-11-28 16:01<br>赞(1) 踩(0) | <div>1k分之一</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286081824)<br>我还没想好要写什么...<br>2017-11-23 21:40<br>赞(2) 踩(0) | <div>耳朵醉了&amp;hellip;&amp;hellip;</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198935612)<br>我很喜欢韩国呢<br>2017-11-22 22:34<br>赞(1) 踩(0) | <div>谢谢你救了我。幸好我遇见了你。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198935612)<br>我很喜欢韩国呢<br>2017-11-22 22:34<br>赞(1) 踩(0) | <div>谢谢你救了我。<br>幸好我遇见了你。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36229899)<br>违章动物<br>2017-11-19 01:00<br>赞(1) 踩(0) | <div>-</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9882024)<br>直到你发现  我 （再也...<br>2017-11-16 11:45<br>赞(1) 踩(0) | <div>被迷住了 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9882024)<br>直到你发现  我 （再也...<br>2017-11-16 11:29<br>赞(0) 踩(0) | <div>还好让我听到你   <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |

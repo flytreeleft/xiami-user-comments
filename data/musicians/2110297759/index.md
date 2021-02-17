@@ -3,13 +3,10 @@ drc chen
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>drc chen](https://i.xiami.com/drcchen) | **播放数**: 1352526<br>**粉丝数**: 1028<br>**评论数**: 84<br>**地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap<br> |
+| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>drc chen](https://i.xiami.com/drcchen) | **地区**: China 中国大陆<br>**风格**: 爵士说唱 Jazz Rap<br>**播放数**: 1352526<br>**粉丝数**: 1028<br>**评论数**: 84<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -28,8 +25,8 @@ drc chen
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36792730)<br>xxx<br>2020-11-22 12:32<br>赞(0) 踩(0) | <div>chill</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121702052)<br>超脱<br>2020-08-11 11:26<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378956538)<br>好好睡觉，好好生活<br>2020-08-09 11:05<br>赞(2) 踩(0) | <div>是少年之名的陈俊豪吗</div> |
@@ -40,7 +37,7 @@ drc chen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90959268)<br>我与你的相遇，既充满爱，...<br>2020-03-18 15:20<br>赞(0) 踩(0) | <div>宝藏男孩 <img src="../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"> <img src="../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2847661)<br>我爱摇滚乐<br>2020-02-27 11:35<br>赞(0) 踩(0) | <div>期待</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285049473)<br>剛拿起酒杯想和你碰杯 才...<br>2020-02-22 20:40<br>赞(0) 踩(0) | <div>cjh你懶得連封面都不放的嗎 <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348265900)<br>这个人不懒但还是不想留下...<br>2020-01-31 00:04<br>赞(1) 踩(0) | <div>做一个风格怪哈哈哈哈</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348265900)<br>这个人不懒但还是不想留下...<br>2020-01-31 00:04<br>赞(1) 踩(0) | <div>做一个风格怪<br>哈哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428220294)<br>在喧嚣中终结<br>2020-01-29 21:46<br>赞(0) 踩(0) | <div>how are you today 可传下吗 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1332648)<br>www.181.fm 哟...<br>2019-11-15 18:12<br>赞(3) 踩(0) | <div>我还以为是个英国伙计</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78186920)<br>寸頭不殺有情人<br>2019-10-13 23:41<br>赞(5) 踩(0) | <div>居然是大陆男孩</div> |
@@ -68,7 +65,7 @@ drc chen
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37939193)<br>后来我纵身一跃<br>2018-12-24 22:42<br>赞(2) 踩(0) | <div>生日快乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323033599)<br>我还没想好要写什么...<br>2018-12-24 00:00<br>赞(41) 踩(0) | <div>我19了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405030567)<br>这个家伙一点也不聪明什么...<br>2019-02-08 16:38<br>赞(0) 踩(0) | <div>过完年20了 顺便表白你姐！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284219210)<br>坐标 拉丁美洲<br>2019-02-23 12:29<br>赞(0) 踩(0) | <div>声音还是很好的啊啊啊啊今天在油管搜你 搜不到啊啊啊难受不要放弃 加油啊啊啊啊很喜欢你的歌加油！！！！！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284219210)<br>坐标 拉丁美洲<br>2019-02-23 12:29<br>赞(0) 踩(0) | <div>声音还是很好的啊啊啊啊<br>今天在油管搜你 搜不到啊啊啊<br>难受<br>不要放弃 加油啊啊啊啊<br>很喜欢你的歌<br>加油！！！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88341606)<br>我还没想好要写什么...<br>2020-02-13 12:33<br>赞(0) 踩(0) | <div>可婚矣</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259213118)<br>T2B<br>2020-06-20 23:45<br>赞(0) 踩(0) | <div>我也20了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69952388)<br>THX OF EVERY...<br>2021-01-12 02:30<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈</div> |

@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/13775b902105e371d4c476b4bf9d49e8.jpg)<br>兰刚](https://i.xiami.com/langang1970) | **播放数**: 1967782<br>**粉丝数**: 11<br>**评论数**: 1<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/13775b902105e371d4c476b4bf9d49e8.jpg)<br>兰刚](https://i.xiami.com/langang1970) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1967782<br>**粉丝数**: 11<br>**评论数**: 1<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -24,6 +21,6 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15966820)<br><br>2015-08-13 16:49<br>赞(1) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

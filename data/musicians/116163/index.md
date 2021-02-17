@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/04134b69a2f60a17da4e929488698cda.jpg)<br>厉智敏](https://i.xiami.com/eachtv) | **播放数**: 3810393<br>**粉丝数**: 177<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/04134b69a2f60a17da4e929488698cda.jpg)<br>厉智敏](https://i.xiami.com/eachtv) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 3810393<br>**粉丝数**: 177<br>**评论数**: 6<br> |
 
 ## 档案
 
@@ -39,8 +39,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298749302)<br>每天听歌是我最没好的时光<br>2018-12-28 15:58<br>赞(2) 踩(0) | <div>我们真的老了，别不服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101813370)<br>音乐无界<br>2017-07-10 13:18<br>赞(0) 踩(0) | <div>分享  厉智敏 的歌曲《爱上林妹妹(情景版)》<a href="https://www.xiami.com/song/1796062016?_uxid=834E3269F0FE618C1631C5B60A5CF932" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/1796062016?_uxid=834E3269F0FE618C1631C5B60A5CF932</a> (分享自@虾米音乐)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9003931)<br>千淘万漉虽辛苦<br>2017-02-28 22:26<br>赞(2) 踩(0) | <div>原来《朋友的心》原唱在这里。</div> |

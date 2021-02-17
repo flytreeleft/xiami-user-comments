@@ -62,8 +62,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7167296)<br><br>2012-03-26 21:06<br>赞(0) 踩(0) | <div>呼麦 纯汉子纯内蒙有感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7167296)<br><br>2012-03-25 00:58<br>赞(0) 踩(0) | <div>还记得第一次听到的呼麦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/493556)<br><br>2012-01-23 14:18<br>赞(0) 踩(0) | <div>错了</div> |

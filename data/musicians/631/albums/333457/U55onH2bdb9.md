@@ -69,13 +69,13 @@ Paris in your eyes
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103966042)<br><br>2021-01-01 19:15<br>赞(0) 踩(0) | <div>高中的时候在收音机里听过，时间过得好快</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-04 10:25<br>赞(0) 踩(0) | <div>2007年在冰岛创作的歌。第三天成功于小岛Grimsey踩在北极圈的线上，安全飞回小镇Akureyri，从机场在冷雨中走45分钟回到市中心，重感冒，酸软双腿（三天在冷雨中走路来回机场不是说笑的），因为天气变化把旅程改完又改的狼狈，最后成为一首歌；最后，得到的都不能量化、但世上最好的东西，通常都是不能量化的经验与故事。一个游客会问何苦，一个旅人会说何不，你情愿是哪一个身份？&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; 一峰 2020.5.5于微博</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-04 10:25<br>赞(0) 踩(0) | <div>2007年在冰岛创作的歌。第三天成功于小岛Grimsey踩在北极圈的线上，安全飞回小镇Akureyri，从机场在冷雨中走45分钟回到市中心，重感冒，酸软双腿（三天在冷雨中走路来回机场不是说笑的），因为天气变化把旅程改完又改的狼狈，最后成为一首歌；最后，得到的都不能量化、但世上最好的东西，通常都是不能量化的经验与故事。一个游客会问何苦，一个旅人会说何不，你情愿是哪一个身份？<br><br>&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; 一峰 2020.5.5于微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343408910)<br><br>2020-05-07 10:58<br>赞(0) 踩(0) | <div>好好听初中喜欢的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10936044)<br><br>2020-04-11 15:17<br>赞(1) 踩(0) | <div>词曲都写得超好！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420260005)<br><br>2019-11-25 07:34<br>赞(0) 踩(0) | <div>寻寻觅觅更在乎过程兜兜转转一样的结果踏破铁鞋 不经意地答案出现竟忘了问题是甚麽一站一站浮云游子意一段一段落日故人情一点一滴 也是力量 也是牵绊不是别人 都是自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420260005)<br><br>2019-11-25 07:34<br>赞(0) 踩(0) | <div>寻寻觅觅更在乎过程<br>兜兜转转一样的结果<br>踏破铁鞋 不经意地答案出现<br>竟忘了问题是甚麽<br>一站一站浮云游子意<br>一段一段落日故人情<br>一点一滴 也是力量 也是牵绊<br>不是别人 都是自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202164519)<br><br>2019-10-27 16:20<br>赞(0) 踩(0) | <div>初听到现在10年了，还在各种交通工具上奔波，却没了当年绿皮车里各种不期而遇的故事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7023)<br>长期缓慢持续收藏林一峰演...<br>2019-06-19 00:07<br>赞(0) 踩(0) | <div>20190605冰岛船游Grimsey打卡mark</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10936044)<br><br>2019-06-16 10:34<br>赞(0) 踩(0) | <div>很好的词和曲，昨天看到现场live版，好好听，好感动，谢谢林一峰 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
@@ -95,5 +95,5 @@ Paris in your eyes
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1095809)<br><br>2010-07-05 21:28<br>赞(2) 踩(0) | <div>我只是爱上了结尾的那段英文唱段.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/619002)<br><br>2010-05-02 20:32<br>赞(0) 踩(0) | <div>迷。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374465)<br>小世界<br>2009-12-22 12:09<br>赞(1) 踩(0) | <div>林一峰 游子意 曾经在豆瓣上一遍又一遍反复听这首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3200)<br>做自己反而比较心安理得<br>2009-08-19 10:30<br>赞(1) 踩(0) | <div>旅途中的感悟。仅仅是看这首单曲的名字就能感受到这首《游子意》是在诉说人在旅途的种种感悟。细品歌词与清新、怡人的节奏，是否你在旅途的时候也会有林一峰一样的“游子意”？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3200)<br>做自己反而比较心安理得<br>2009-08-19 10:30<br>赞(1) 踩(0) | <div>旅途中的感悟。<br><br>仅仅是看这首单曲的名字就能感受到这首《游子意》是在诉说人在旅途的种种感悟。细品歌词与清新、怡人的节奏，是否你在旅途的时候也会有林一峰一样的“游子意”？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110831)<br><br>2009-07-29 23:00<br>赞(1) 踩(0) | <div>歌词很漂亮啊。</div> |

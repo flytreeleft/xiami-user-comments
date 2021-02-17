@@ -12,15 +12,12 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429980084)<br>南无阿弥陀佛<br>2020-10-16 16:07<br>赞(0) 踩(0) | <div>生离死别最堪伤，每话令人欲断肠。虞氏帐中辞项羽，明妃马上谢君王。泪深江海犹嫌浅，恨远乾坤未是长。诸上善人俱会处，愿教旷劫莫分张。</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429980084)<br>南无阿弥陀佛<br>2020-10-16 16:07<br>赞(0) 踩(0) | <div>生离死别最堪伤，每话令人欲断肠。<br>虞氏帐中辞项羽，明妃马上谢君王。<br>泪深江海犹嫌浅，恨远乾坤未是长。<br>诸上善人俱会处，愿教旷劫莫分张。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332401081)<br><br>2020-09-13 11:27<br>赞(0) 踩(0) | <div>没看过电影</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268013804)<br><br>2020-08-01 23:50<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247546999)<br>得到的都是侥幸，失去的才...<br>2020-06-04 19:26<br>赞(0) 踩(0) | <div>是拨云开月，还是迷雾重绕</div> |
@@ -56,7 +53,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346823999)<br>愿得一人心｡◕‿◕｡<br>2018-06-20 11:02<br>赞(4) 踩(0) | <div>好 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141034406)<br>     静不言，雨沥沥...<br>2018-05-31 07:26<br>赞(1) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355499787)<br>我还没想好要写什么...<br>2018-04-19 00:13<br>赞(1) 踩(0) | <div>心驰神往</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358076734)<br>强大自己<br>2018-04-15 04:00<br>赞(3) 踩(0) | <div>莫失莫忘初衷，在我这样的年纪不会选择轻易放弃。只是感觉很累需要休息调整一下。。。长途旅行必备要的驿站，就是暂时歇一歇。。。生活，没有人可以给他下命令。只有依具形势而行&amp;hellip;&amp;hellip;请安心！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358076734)<br>强大自己<br>2018-04-15 04:00<br>赞(3) 踩(0) | <div>莫失莫忘初衷，在我这样的年纪不会选择轻易放弃。只是感觉很累需要休息调整一下。。。<br>长途旅行必备要的驿站，就是暂时歇一歇。。。<br>生活，没有人可以给他下命令。<br>只有依具形势而行&amp;hellip;&amp;hellip;<br>请安心！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346917930)<br><br>2018-03-25 18:25<br>赞(1) 踩(0) | <div>放松心情的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28327280)<br><br>2018-03-10 13:04<br>赞(1) 踩(0) | <div>琴声低泣诉苦情，問君可知離别苦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328384782)<br><br>2018-03-09 20:42<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
@@ -67,7 +64,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41012710)<br><br>2017-12-23 16:37<br>赞(6) 踩(0) | <div>一种说不出的伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24875202)<br><br>2017-12-15 07:23<br>赞(2) 踩(0) | <div>琵琶让人想起铁道游击队之歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38660949)<br>阳光真温暖，一直照在我心...<br>2017-12-04 22:25<br>赞(11) 踩(0) | <div>听音乐其实就是听自己，好音乐会让你找到更纯粹的自己，更自爱，从而更爱这个世界，感知到幸福。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227454954)<br>独当千古错，冷漠自逍遥。<br>2017-11-18 02:27<br>赞(56) 踩(0) | <div>如果不聆听乐曲，身在何处是净土！水到深时流自静，人至慧时语无声！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227454954)<br>独当千古错，冷漠自逍遥。<br>2017-11-18 02:27<br>赞(56) 踩(0) | <div>如果不聆听乐曲，身在何处是净土！<br>水到深时流自静，人至慧时语无声！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47901438)<br><br>2017-11-04 17:31<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300274317)<br><br>2017-10-21 09:02<br>赞(3) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305662356)<br><br>2017-10-19 03:32<br>赞(3) 踩(0) | <div>落地有声</div> |
@@ -78,10 +75,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2016-06-06 12:45<br>赞(2) 踩(0) | <div>钢琴旋律好熟悉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48061530)<br><br>2016-03-27 22:33<br>赞(4) 踩(0) | <div>既可静，亦可动，琵琶乃古典乐器中最具特色的一种。就是太幽怨，听多了容易抑郁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6529292)<br>身在云中不知云。<br>2016-03-26 14:10<br>赞(3) 踩(0) | <div>真好。怎么这么久才遇到。幸好不晚</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-10-13 00:48<br>赞(2) 踩(0) | <div>重温琵琶经典27</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-10-13 00:48<br>赞(2) 踩(0) | <div>重温琵琶经典<br>27</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49582801)<br> <br>2015-09-15 21:50<br>赞(3) 踩(0) | <div>只觉得弹进心里了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47940793)<br><br>2015-09-14 18:04<br>赞(6) 踩(0) | <div>人世几回伤往事，山形依旧枕寒流</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34365058)<br><br>2015-04-04 23:25<br>赞(10) 踩(0) | <div>我是个刚刚开始习练太极拳的人，音乐方面知之甚少。不知为什么。练拳时，总喜欢用邓伟标的太极、流花的湖、山脚下的麓湖……唉！怎么说呢，有了邓伟标的贡献，我的生活才平淡中添光添增彩……也许说过了，但我觉得，意思讲到了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34365058)<br><br>2015-04-04 23:25<br>赞(10) 踩(0) | <div>我是个刚刚开始习练太极拳的人，音乐方面知之甚少。<br>不知为什么。练拳时，总喜欢用邓伟标的太极、流花的湖、山脚下的麓湖……<br>唉！怎么说呢，有了邓伟标的贡献，我的生活才平淡中添光添增彩……<br>也许说过了，但我觉得，意思讲到了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21836464)<br><br>2014-07-09 04:50<br>赞(2) 踩(0) | <div>back ground, slow, pi pa, piano</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/908450)<br><br>2014-05-29 18:51<br>赞(1) 踩(0) | <div>好听的紧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14291752)<br><br>2014-04-10 20:07<br>赞(1) 踩(0) | <div>好听</div> |
@@ -103,5 +100,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2204761)<br><br>2011-12-19 19:26<br>赞(0) 踩(0) | <div>能听出什么场景来不？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3733996)<br><br>2011-11-12 08:53<br>赞(2) 踩(0) | <div>一壶热茶.一首琵琶怨.窗外的天空是阴霾滴.那又如何呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3717385)<br><br>2011-09-18 21:27<br>赞(0) 踩(0) | <div>青灯常伴@顽童师太</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2011-04-27 13:13<br>赞(16) 踩(0) | <div>“转轴拨弦三两声,未成曲调先有情.”一曲琵琶怨,多少情泪风雨中.生命中的手很美,轻轻弹指,沧海桑田,指尖不经意却拂过一生.从青丝拂到霜雪,郁郁葱葱的舞台上,暗暗淡淡的尘世间,又岂是七颗音符从容诉尽.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2844532)<br>心随乐动<br>2011-04-27 13:13<br>赞(16) 踩(0) | <div>“转轴拨弦三两声,未成曲调先有情.”一曲琵琶怨,多少情泪风雨中.<br><br>生命中的手很美,轻轻弹指,沧海桑田,指尖不经意却拂过一生.<br><br>从青丝拂到霜雪,郁郁葱葱的舞台上,暗暗淡淡的尘世间,又岂是七颗音符从容诉尽.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1331260)<br><br>2011-04-13 20:20<br>赞(1) 踩(0) | <div>好听好听！</div> |

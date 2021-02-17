@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/efbc67c7dbbcfac29dbf2256c057b092.jpg)<br>乐天](https://i.xiami.com/letian) | **播放数**: 1390076<br>**粉丝数**: 4<br>**评论数**: 2<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/efbc67c7dbbcfac29dbf2256c057b092.jpg)<br>乐天](https://i.xiami.com/letian) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1390076<br>**粉丝数**: 4<br>**评论数**: 2<br> |
 
 ## 档案
 
@@ -30,7 +30,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16135450)<br><br>2017-02-06 23:28<br>赞(0) 踩(0) | <div>7594</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2592323)<br><br>2015-05-12 17:33<br>赞(0) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

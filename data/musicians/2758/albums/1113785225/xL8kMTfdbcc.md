@@ -98,15 +98,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10015)<br>反正最后每个人都孤独。<br>2019-05-22 19:27<br>赞(0) 踩(0) | <div>“什么叫爱啊如果我爱一个人她说饿可我们特别穷没有钱买东西的话我就把我的心给掏出来我给她吃”连孩子都懂的道理，大人怎么都假装不懂。</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10015)<br>反正最后每个人都孤独。<br>2019-05-22 19:27<br>赞(0) 踩(0) | <div>“什么叫爱啊<br>如果我爱一个人<br>她说饿<br>可我们特别穷<br>没有钱买东西的话<br>我就把我的心给掏出来<br>我给她吃”<br>连孩子都懂的道理，大人怎么都假装不懂。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2486130)<br><br>2020-02-13 17:08<br>赞(0) 踩(0) | <div>因为大人的爱是有条件的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7060497)<br>有没有爱着爱着就永远的幸...<br>2017-11-25 13:04<br>赞(0) 踩(0) | <div>没想到上个月在&amp;ldquo;东海台风音乐节&amp;rdquo;听到的这首歌，跟三色事件真的很match，&amp;ldquo;妈妈放心没有强暴只用爱&amp;rdquo;，相信这个世界的善比恶多，希望这个世界不会更坏[文字up][文字up][文字up] <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"> <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"> <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204802482)<br><br>2017-11-14 21:06<br>赞(0) 踩(0) | <div>太欢乐了，可爱死了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307658105)<br><br>2017-11-05 20:41<br>赞(0) 踩(0) | <div>获国家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82819914)<br>别回头就往前飞奔。<br>2017-11-01 09:04<br>赞(0) 踩(0) | <div>我的妈  这么一说  最炫民族风既视感</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89341488)<br>我还没想好要写什么...<br>2017-10-30 09:53<br>赞(0) 踩(0) | <div>什么叫爱啊如果我爱一个人她说饿可我们特别穷没有钱买东西的话我就把我的心给掏出来 我给她吃世界上有两个国家一个是中国一个是外国财富就是家人全都没有嗝屁阳光好刺眼 能不能把它关掉呀我当然有初吻啦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89341488)<br>我还没想好要写什么...<br>2017-10-30 09:53<br>赞(0) 踩(0) | <div>什么叫爱啊<br>如果我爱一个人<br>她说饿<br>可我们特别穷<br>没有钱买东西的话<br>我就把我的心给掏出来 我给她吃<br>世界上有两个国家<br>一个是中国<br>一个是外国<br>财富就是家人全都没有嗝屁<br>阳光好刺眼 能不能把它关掉呀<br>我当然有初吻啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41785758)<br>.<br>2017-10-30 09:50<br>赞(1) 踩(0) | <div>‘’阳光好刺眼，你能把它关掉吗？世界上有两个国家，一个是中国，一个是外国；我当然有初吻啦！一直被这首歌洗脑啦！‘’希望今年有机会能看到gala和丟火车的演唱会！:-D</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7693855)<br>Freedom<br>2017-10-28 00:16<br>赞(0) 踩(0) | <div>财富就是家人全都没有嗝屁~~~哈哈哈哈 激萌~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9665536)<br><br>2017-10-27 23:33<br>赞(0) 踩(0) | <div>最炫民族去哪～哈皮特该则</div> |
@@ -175,8 +175,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44118515)<br>保持距离<br>2016-02-09 12:39<br>赞(0) 踩(0) | <div>～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48918128)<br>一只蘑菇<br>2016-02-05 13:27<br>赞(0) 踩(0) | <div>可如果我们特别穷 她又特别饿的话，我就把我的心掏出来 我给她吃。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48918128)<br>一只蘑菇<br>2016-02-04 19:11<br>赞(0) 踩(0) | <div>童心满点。哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96850178)<br>扑通扑通我的人生<br>2016-02-02 22:36<br>赞(0) 踩(0) | <div>w:爸比，陪我去点豆豆好吗b:什么是点豆豆w:我不知道，反正就点豆豆啦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96850178)<br>扑通扑通我的人生<br>2016-02-02 22:29<br>赞(0) 踩(0) | <div>w：爸比，陪我去点豆豆好吗b：什么是点豆豆w：我不管，反正就点豆豆啦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96850178)<br>扑通扑通我的人生<br>2016-02-02 22:36<br>赞(0) 踩(0) | <div>w:爸比，陪我去点豆豆好吗<br>b:什么是点豆豆<br>w:我不知道，反正就点豆豆啦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96850178)<br>扑通扑通我的人生<br>2016-02-02 22:29<br>赞(0) 踩(0) | <div>w：爸比，陪我去点豆豆好吗<br>b：什么是点豆豆<br>w：我不管，反正就点豆豆啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42987066)<br>暂无签名~<br>2016-02-01 13:34<br>赞(0) 踩(0) | <div>家人都没有嗝屁 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82821456)<br><br>2016-01-21 23:59<br>赞(1) 踩(0) | <div>吃饭睡觉打豆豆！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35167460)<br>La vie elle ...<br>2016-01-19 21:01<br>赞(0) 踩(0) | <div>好哈皮</div> |
@@ -214,7 +214,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49826126)<br>一笔雕凿的朋克青年。<br>2015-07-13 15:30<br>赞(0) 踩(0) | <div>我凑 我错过了什么。。。233</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51914870)<br>I'm glad i b...<br>2015-06-30 19:24<br>赞(1) 踩(0) | <div>搞怪Gala，萌萌哒，点点豆豆豆豆点点，吃饭睡觉点豆豆！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50501142)<br><br>2015-06-27 01:58<br>赞(1) 踩(0) | <div>gala是准备干什么？你好天才哦。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47045981)<br>最擅长的事情是让人失望。<br>2015-06-26 05:01<br>赞(50) 踩(0) | <div>"什么叫爱呀""如果我爱一个人，她说饿，可我们特别穷，没有钱买东西的话，我就把我的心给掏出来，我给她吃""世界上有两个国家，一、一个是中国，一个是外国""财富就是家人全都没有嗝儿屁""阳光好刺眼，能不能把它关掉呀""啊当然有初吻啦"</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47045981)<br>最擅长的事情是让人失望。<br>2015-06-26 05:01<br>赞(50) 踩(0) | <div>"什么叫爱呀"<br>"如果我爱一个人，她说饿，可我们特别穷，没有钱买东西的话，我就把我的心给掏出来，我给她吃"<br>"世界上有两个国家，一、一个是中国，一个是外国"<br>"财富就是家人全都没有嗝儿屁"<br>"阳光好刺眼，能不能把它关掉呀"<br>"啊当然有初吻啦"</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64997802)<br>好吧，不能在微博了，快控...<br>2015-11-21 01:30<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44183570)<br> <br>2015-06-18 00:12<br>赞(1) 踩(0) | <div>新版比旧版好听多了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866737)<br>旋律是记忆的手段<br>2015-06-17 10:22<br>赞(0) 踩(0) | <div>略略略</div> |
@@ -321,7 +321,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26488581)<br>青黄不接<br>2014-11-07 21:57<br>赞(0) 踩(0) | <div>点豆豆喽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26488581)<br>青黄不接<br>2014-11-07 21:51<br>赞(0) 踩(0) | <div>点豆豆喽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8957831)<br> <br>2014-11-07 21:16<br>赞(0) 踩(0) | <div>感觉中间有小苹果的节奏………</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/393983)<br>“这个家伙很机智什么也没...<br>2014-11-07 17:54<br>赞(0) 踩(0) | <div>.   ◟◟◞◞(◔◡◔)╰ ▒▒ ╯╜╙</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/393983)<br>“这个家伙很机智什么也没...<br>2014-11-07 17:54<br>赞(0) 踩(0) | <div>.   ◟◟◞◞<br>(◔◡◔)<br>╰ ▒▒ ╯<br>╜╙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37375340)<br>你是深山里的百合花<br>2014-11-07 17:06<br>赞(0) 踩(0) | <div>。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6395403)<br><br>2014-11-07 16:39<br>赞(0) 踩(0) | <div>第一句就萌到了~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15294499)<br>暂无签名~<br>2014-11-07 16:02<br>赞(0) 踩(0) | <div>这也算歌吗？</div> |
@@ -355,10 +355,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2987309)<br><br>2014-11-06 21:22<br>赞(0) 踩(0) | <div>萌萌哒哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30904942)<br>我还没想好要写什么...<br>2014-11-06 21:18<br>赞(0) 踩(0) | <div>生命他生来雪白</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1032669)<br><br>2014-11-06 21:08<br>赞(0) 踩(0) | <div>萌萌哒~GALA是个好月丢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5905824)<br>我还没想好要写什么...<br>2014-11-06 20:53<br>赞(0) 踩(0) | <div>没有强暴只有爱！靠！我就不信我是一个烂人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5905824)<br>我还没想好要写什么...<br>2014-11-06 20:53<br>赞(0) 踩(0) | <div>没有强暴只有爱！<br>靠！我就不信我是一个烂人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15813028)<br>寡居。<br>2014-11-06 20:51<br>赞(0) 踩(0) | <div>草泥马！现在都要走小苹果风了吗？！！摔！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30986473)<br>我为什么入坑<br>2014-11-06 20:49<br>赞(0) 踩(0) | <div>要不要这么萌啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2390254)<br>畅游音符的Kimo<br>2014-11-06 20:47<br>赞(0) 踩(0) | <div>什么叫爱啊如果我爱一个人她说饿可我们特别穷没有钱买东西的话我就把我的心给掏出来 我给她吃</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2390254)<br>畅游音符的Kimo<br>2014-11-06 20:47<br>赞(0) 踩(0) | <div>什么叫爱啊<br>如果我爱一个人<br>她说饿<br>可我们特别穷<br>没有钱买东西的话<br>我就把我的心给掏出来 我给她吃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2468803)<br>UNIQUE<br>2014-11-06 19:58<br>赞(0) 踩(0) | <div>噗 好萌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3991875)<br>Life is just...<br>2014-11-06 19:56<br>赞(0) 踩(0) | <div>我当然有初吻啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3624391)<br>幸好还有音乐。<br>2014-11-06 18:51<br>赞(0) 踩(0) | <div>苏朵的声音太乱入了，贱的不协调，好好的做一首儿歌不行么→_→</div> |

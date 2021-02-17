@@ -12,17 +12,14 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440032658)<br><br>2020-04-07 16:47<br>赞(0) 踩(0) | <div>深深地感受&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294618261)<br>依依墟里烟，嫒嫒暖人村<br>2019-12-08 14:46<br>赞(2) 踩(0) | <div>人世间，爱与被爱不如相爱，爱的给予都是为了被爱而得到幸福、获得自豪、得到认可、重获接力，生命不息，世代相传！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432066708)<br> 願天主永受赞美<br>2019-11-18 11:50<br>赞(5) 踩(0) | <div>母亲卑微如青苔，庄严如晨曦，柔如果江南的水声，坚如千年的寒玉，举目时，她是皓皓明月，垂首时，她是莽莽大地。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432066708)<br> 願天主永受赞美<br>2019-11-18 11:50<br>赞(5) 踩(0) | <div>母亲卑微如青苔，<br>庄严如晨曦，<br>柔如果江南的水声，<br>坚如千年的寒玉，<br>举目时，<br>她是皓皓明月，<br>垂首时，<br>她是莽莽大地。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95093648)<br>什么新歌 我不懂 我不会...<br>2019-07-06 15:16<br>赞(5) 踩(0) | <div>这是并州老家的花儿歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73580006)<br><br>2019-05-13 21:53<br>赞(6) 踩(0) | <div>内心有股奇妙的感觉，难以言喻的厚重与深情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406219998)<br>一边忙碌着，一边快乐着<br>2019-05-11 07:32<br>赞(23) 踩(0) | <div>三毛笔下的母亲：母亲的腿上，好似绑着一条无形的链子，那一条链子的长度，只能在厨房和家中走来走去。大门虽然没有上锁，她心里的爱，却使她心甘情愿地把自己锁了一辈子。</div> |
@@ -38,9 +35,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139825068)<br>風繼續吹<br>2018-08-15 21:34<br>赞(2) 踩(0) | <div>只不过我比她们做的更有效率</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304368874)<br><br>2018-07-28 09:03<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129290002)<br>爱别人，更要爱自己。<br>2018-07-27 18:26<br>赞(1) 踩(0) | <div>一曲母亲，诉尽温柔慈爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35609866)<br><br>2018-06-30 10:35<br>赞(3) 踩(0) | <div>母亲这个意象在整个剧里太优秀了 不仅是太平与武则天之间一生的默契 冲突 开解  也是崔缇和隆基对太平绵绵不绝的追随与守候是太平对这种不对等的感情的犹疑 回避 与守护</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35609866)<br><br>2018-06-30 10:35<br>赞(3) 踩(0) | <div>母亲这个意象在整个剧里太优秀了 不仅是太平与武则天之间一生的默契 冲突 开解  也是崔缇和隆基对太平绵绵不绝的追随与守候<br>是太平对这种不对等的感情的犹疑 回避 与守护</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59367130)<br>天地不仁 以万物为刍狗<br>2018-06-14 00:13<br>赞(4) 踩(0) | <div>我不禁被大明宫词里散文诗般的文字 浪漫入骨血的意象所感动 正如这耳边的泪水 一滴一滴 内心却无比平静</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287017)<br>姌稥毓影，复刻轻悠<br>2018-05-12 09:05<br>赞(4) 踩(0) | <div>心无尽鬓沉霜思柳摆醉馨风霞光秀沉香锦化雨露润夕幕<img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287017)<br>姌稥毓影，复刻轻悠<br>2018-05-12 09:05<br>赞(4) 踩(0) | <div>心无尽<br>鬓沉霜<br><br>思柳摆<br>醉馨风<br><br>霞光秀<br>沉香锦<br><br>化雨露<br>润夕幕<br><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73049312)<br>Nothing<br>2018-04-13 00:09<br>赞(0) 踩(0) | <div>我将来会是一个好母亲么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353756692)<br><br>2018-03-12 22:39<br>赞(0) 踩(0) | <div>印象づけられた</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353756692)<br><br>2018-03-12 22:39<br>赞(0) 踩(0) | <div>歌うのはとても素敵です</div> |
@@ -94,7 +91,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14129970)<br>所谓缘分，就是动听<br>2014-10-03 16:42<br>赞(108) 踩(0) | <div>武则天做了噩梦醒来，坐在女儿的床边对她说，太平，宫里就我们两个女人，以后妈妈老了就要靠你了。太平抬起身子亲了亲她的脸说，妈妈，我爱你。武则天说，妈妈也爱你。大概以后所有以爱为名义的伤害，从那个温暖的夜晚已经注定了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7329961)<br><br>2014-08-15 12:27<br>赞(3) 踩(0) | <div>旋律不是《庄子盆鼓》嘛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13052354)<br><br>2014-08-09 00:14<br>赞(1) 踩(0) | <div>最喜欢的一首</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35092255)<br>享受一个人的音乐<br>2014-07-23 22:56<br>赞(1) 踩(0) | <div>作者：林海所属专辑：1999年发行《太平公主》，第七首曲子特色：将母女之爱表达的淋漓尽致、真真切切，深沉温婉、欲说还休，为《大明宫词》影视原声。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35092255)<br>享受一个人的音乐<br>2014-07-23 22:56<br>赞(1) 踩(0) | <div>作者：林海<br>所属专辑：1999年发行《太平公主》，第七首曲子<br>特色：将母女之爱表达的淋漓尽致、真真切切，深沉温婉、欲说还休，为《大明宫词》影视原声。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21836464)<br><br>2014-06-30 05:21<br>赞(0) 踩(0) | <div>sad</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6062004)<br> <br>2014-05-15 18:16<br>赞(10) 踩(0) | <div>我喜欢武则天看太平的眼神，尤其是在太平选择嫁给武攸嗣的那晚，她将休书递出去的瞬间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10424336)<br>暂无签名~<br>2014-03-19 00:53<br>赞(3) 踩(0) | <div>最美的一曲 美到心碎</div> |
@@ -108,7 +105,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2780075)<br>✴︎∵ ⦁∴⋆∅<br>2013-07-19 20:24<br>赞(2) 踩(0) | <div>母亲 我做了一个梦 与您一起 坐在柳芽正萌草色青青的坡前 我听见 纸鸢在风中颤动 看见 我的姊妹从高殿前渐行渐远 美丽的胡服 飞扬翩缱 我不想睁眼 您赠的安息香 抹在耳间 您的怀抱与温暖让人贪恋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2780075)<br>✴︎∵ ⦁∴⋆∅<br>2013-07-19 00:06<br>赞(2) 踩(0) | <div>母亲 我做了一个梦 与您一起 坐在柳芽正萌草色青青的坡前 我听见 纸鸢在风中颤动 看见 我的姊妹从高殿前渐行渐远 美丽的胡服 飞扬翩缱 我不想睁眼 您赠的安息香 抹在耳间 您的怀抱与温暖让人贪恋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8407218)<br><br>2013-07-09 08:44<br>赞(1) 踩(0) | <div>母亲，就是归乡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6423436)<br><br>2013-06-13 03:55<br>赞(0) 踩(0) | <div><a href="http://img3.3lian.com/2006/002/18/002.jpg" target="_blank" rel="nofollow noreferrer noopener">http://img3.3lian.com/2006/002/18/002.jpg</a>端午节快乐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6423436)<br><br>2013-06-13 03:55<br>赞(0) 踩(0) | <div><a href="http://img3.3lian.com/2006/002/18/002.jpg" target="_blank" rel="nofollow noreferrer noopener">http://img3.3lian.com/2006/002/18/002.jpg</a><br>端午节快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15119337)<br><br>2013-05-12 10:40<br>赞(0) 踩(0) | <div>母亲---《大明宫词》原声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7778479)<br><br>2012-11-07 19:32<br>赞(0) 踩(0) | <div>听得懂的就继续听，听不懂的就去看原著书或者电视剧[心]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2709550)<br> <br>2012-10-27 12:21<br>赞(0) 踩(0) | <div>就是这曲</div> |
@@ -116,7 +113,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7666185)<br>救赎<br>2012-06-26 15:50<br>赞(0) 踩(0) | <div>《太平公主》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9235044)<br><br>2012-05-21 22:28<br>赞(1) 踩(0) | <div>母亲温柔的抚摸慈爱的眼神安宁的梦境</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5750753)<br><br>2012-05-11 22:13<br>赞(0) 踩(0) | <div>妈妈节日快乐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8221201)<br>呃……<br>2012-04-27 22:34<br>赞(1) 踩(0) | <div>《大明宫词》中最感人的一首<a href="http://www.xiami.com/song/1770166185" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1770166185</a></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8221201)<br>呃……<br>2012-04-27 22:34<br>赞(1) 踩(0) | <div>《大明宫词》中最感人的一首<br><a href="http://www.xiami.com/song/1770166185" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1770166185</a></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/861911)<br>我还没想好要写什么...<br>2013-09-14 19:57<br>赞(0) 踩(0) | <div>再同意不过 箫真是个无比牛逼的乐器</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4326282)<br><br>2012-04-03 14:11<br>赞(0) 踩(0) | <div>这几天脑子里都是这调调,继&amp;amp;lt;葬花吟&amp;amp;gt;后第二挥之不去...轮回,就是如此吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7538853)<br><br>2012-03-28 21:31<br>赞(0) 踩(0) | <div>真不知道陪我走过这么多年的人 听到这首 如果能懂 你们是这么想的呢。</div> |

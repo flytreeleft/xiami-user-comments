@@ -67,22 +67,22 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 21:25<br>赞(1) 踩(0) | <div>「如果你喜欢《重回布拉格》，这首来自《思路》专辑的《心雪》就是下集；在社交平台占据世界之前，我记录旅途的方法就是靠音乐跟文字（其实现在也是）。个人故事的灰烬化成歌，旅行，好像永远不会变旧... 起码在我们的心还未苍老之前不会。」&amp;mdash;&amp;mdash;一峰2020.4.22于微博</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229450)<br>我还没想好要写什么...<br>2020-08-03 21:25<br>赞(1) 踩(0) | <div>「如果你喜欢《重回布拉格》，这首来自《思路》专辑的《心雪》就是下集；在社交平台占据世界之前，我记录旅途的方法就是靠音乐跟文字（其实现在也是）。个人故事的灰烬化成歌，旅行，好像永远不会变旧... 起码在我们的心还未苍老之前不会。」<br>&amp;mdash;&amp;mdash;一峰<br>2020.4.22于微博</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187057257)<br> <br>2019-01-09 15:17<br>赞(0) 踩(0) | <div>这个编曲不如柏林苍穹下有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5935661)<br><br>2017-01-14 21:10<br>赞(3) 踩(0) | <div>但是世人之心，总是苍老过快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32349133)<br>On the day t...<br>2016-05-13 22:23<br>赞(1) 踩(0) | <div>在我们的心都还未苍老之前</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/856666)<br>再见了<br>2016-02-16 00:31<br>赞(0) 踩(0) | <div>夜深走路回家，月亮皎洁，道路安静，突然想起这首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76804094)<br>专注围棋的小小号＠(￣-...<br>2016-02-01 10:47<br>赞(1) 踩(0) | <div>小年快乐啊( •̀∀•́ )</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5968552)<br>虾小米，我爱你所以讲不出...<br>2015-03-15 21:24<br>赞(2) 踩(0) | <div>有些歌给五星是远远不够的。听了五年半，一千遍总有了的，可还是虐。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5968552)<br>虾小米，我爱你所以讲不出...<br>2015-03-15 21:24<br>赞(2) 踩(0) | <div>有些歌给五星是远远不够的。<br>听了五年半，一千遍总有了的，可还是虐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7523539)<br><br>2014-11-02 00:15<br>赞(2) 踩(0) | <div>“如果思念能熬過時間，天涯海角也會再見。” 多伦多今天迎来今年第一场雪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3669839)<br>1<br>2013-12-16 17:53<br>赞(0) 踩(0) | <div>『帶笑的臉 心上的雪 我們的影子雙雙起舞在夜街 想街燈躍動在你雙眼 心已融化在你指尖 記憶中的飄雪 模糊了我視線 如果思念能熬過時間 天涯海角也會再見 在我們的心都還未蒼老之前』</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3669839)<br>1<br>2013-12-16 17:47<br>赞(0) 踩(0) | <div>『帶笑的臉 心上的雪 我們的影子雙雙起舞在夜街 記憶中的飄雪 模糊了我視線 如果思念能熬過時間 天涯海角也會再見 在我們的心都還未蒼老之前』</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3669839)<br>1<br>2013-11-19 17:05<br>赞(0) 踩(0) | <div>【如果思念能熬過時間／天涯海角也會再見／在我們的心都還未蒼老之前】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3669839)<br>1<br>2012-05-16 23:37<br>赞(0) 踩(0) | <div>感謝你沒有握緊我手，感謝你沒有說不要走。讓我記住那幾天，把僅有對愛的希望保留永久。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72151)<br><br>2011-09-07 13:17<br>赞(1) 踩(0) | <div>对于林一峰的声音，向来没有抵抗力</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/890568)<br><br>2011-03-16 15:13<br>赞(0) 踩(0) | <div>如果思念能熬过时间天涯海角也会再见</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/890568)<br><br>2011-03-16 15:13<br>赞(0) 踩(0) | <div>如果思念能熬过时间<br>天涯海角也会再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/890568)<br><br>2011-03-15 17:11<br>赞(0) 踩(0) | <div>最爱的歌曲之一。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/180610)<br>我还没想好要写什么...<br>2010-05-20 15:56<br>赞(0) 踩(0) | <div>最接近幸福的画面就是感谢你没有紧握我的手 感谢你没有说不要走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/749)<br>多年若即又若离 盘根错节...<br>2009-12-03 23:06<br>赞(0) 踩(0) | <div>这首还是更适合粤语词。</div> |

@@ -62,8 +62,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10936044)<br><br>2020-04-11 15:23<br>赞(0) 踩(0) | <div>好听，有才</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441048505)<br><br>2020-03-03 09:01<br>赞(1) 踩(0) | <div>真的很好听，很轻快，好几年前听腻了，删了，但是现在找回来又觉得好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336773971)<br><br>2019-01-04 23:28<br>赞(0) 踩(0) | <div>很久没聽到林一峰的歌,這首很不像他,有點老歌情懷,傻傻的</div> |
@@ -75,7 +75,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222743461)<br><br>2017-12-10 10:07<br>赞(1) 踩(0) | <div>评论都有8年了，历害了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307491501)<br><br>2017-12-05 18:13<br>赞(1) 踩(0) | <div>我家金毛就叫馒头 一直replay给她听 希望她明白</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1961430)<br><br>2017-10-30 10:16<br>赞(0) 踩(0) | <div>晚餐我吃了个大大的馒头。哈哈:-D</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230382)<br>趁还来得及文艺<br>2017-10-30 10:14<br>赞(0) 踩(0) | <div>累了， 请千万不要忘记， 最幸福的就近在眼前，啊～～～我的大白馒头～～吭哧吭哧， 一口一口咬掉你， 嘿嘿～～～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230382)<br>趁还来得及文艺<br>2017-10-30 10:14<br>赞(0) 踩(0) | <div>累了， 请千万不要忘记， 最幸福的就近在眼前，<br>啊～～～我的大白馒头～～吭哧吭哧， 一口一口咬掉你， 嘿嘿～～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6019370)<br>哑巴黑<br>2017-09-29 13:22<br>赞(0) 踩(0) | <div>特别是特别，美声技巧都可以，但是这歌词太二了。适合娱乐场合，听歌听到它简直。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15293513)<br> <br>2017-03-22 20:37<br>赞(0) 踩(0) | <div>吃口馒头～睡觉觉&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52471551)<br>願你我能留在黑暗中多一陣...<br>2017-03-22 10:52<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
@@ -140,11 +140,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56589)<br><br>2011-06-29 02:32<br>赞(0) 踩(0) | <div>五星强荐哦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3517236)<br>梦想是成为可爱又迷人的反<br>2011-06-28 21:02<br>赞(0) 踩(0) | <div>卖乖~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4058433)<br> <br>2011-06-23 22:05<br>赞(0) 踩(0) | <div>第一次听林一峰的歌，这首曲子风格轻松，嘴角上扬 ：）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3985067)<br><br>2011-06-18 01:04<br>赞(0) 踩(0) | <div>很有趣的歌曲滑稽得來又不失溫情</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3985067)<br><br>2011-06-18 01:04<br>赞(0) 踩(0) | <div>很有趣的歌曲<br>滑稽得來又不失溫情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312892)<br><br>2011-06-14 21:43<br>赞(0) 踩(0) | <div>我只是被一朋友叫做馒头酱，我乐了。。。听了这么首奇怪的歌，我又乐了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17327)<br><br>2011-05-31 13:39<br>赞(0) 踩(0) | <div>小跳跃，小幸福~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20040)<br><br>2011-05-30 18:03<br>赞(0) 踩(0) | <div>因为很好吃</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3196385)<br>我还没想好要写什么...<br>2011-05-28 21:37<br>赞(0) 踩(0) | <div>谁说物质丰富是精神丰富的基础？ 唯物主义者？谁又说农民有农民的欢乐，我们所不了解的欢乐？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3196385)<br>我还没想好要写什么...<br>2011-05-28 21:37<br>赞(0) 踩(0) | <div>谁说物质丰富是精神丰富的基础？ 唯物主义者？<br>谁又说农民有农民的欢乐，我们所不了解的欢乐？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1948623)<br><br>2011-05-17 10:01<br>赞(0) 踩(0) | <div>最根本的幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3886503)<br><br>2011-05-15 21:06<br>赞(0) 踩(0) | <div>千山万水走过以后，我还是你的馒头···</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3407259)<br>萌新再度回归<br>2011-05-11 22:06<br>赞(0) 踩(0) | <div>馒头馒头</div> |
@@ -159,7 +159,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2466050)<br><br>2011-02-08 15:59<br>赞(0) 踩(0) | <div>声音动听，歌词甜蜜，编曲有特色。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2155031)<br>游目骋怀<br>2011-01-05 18:12<br>赞(0) 踩(0) | <div>so·~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1854035)<br><br>2010-12-27 04:46<br>赞(0) 踩(0) | <div>很喜欢这种轻快的调调，尤其是心情无端郁闷的时候听听，顿时觉得世界还是可以很美好的！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1251315)<br><br>2010-12-24 22:48<br>赞(0) 踩(0) | <div>我是你的馒头 常陪伴你左右最体贴的浪漫 最诚恳的温柔可以给你一切 最华丽的钻饰只是我情愿一辈子 紧握著你的手世界充满种种诱惑 永远有更美更灿烂烟火拥抱却永远没有错 感受著你感受著我最纯净的馒头 总合你的胃口陪你尝遍酸甜苦辣 不会让你消瘦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1251315)<br><br>2010-12-24 22:48<br>赞(0) 踩(0) | <div>我是你的馒头 常陪伴你左右<br><br>最体贴的浪漫 最诚恳的温柔<br><br>可以给你一切 最华丽的钻饰<br><br>只是我情愿一辈子 紧握著你的手<br><br>世界充满种种诱惑 永远有更美更灿烂烟火<br><br>拥抱却永远没有错 感受著你感受著我<br><br>最纯净的馒头 总合你的胃口<br><br>陪你尝遍酸甜苦辣 不会让你消瘦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2067599)<br><br>2010-11-30 22:28<br>赞(0) 踩(0) | <div>听上去很怀旧，实际上手法依旧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1974668)<br><br>2010-11-30 21:21<br>赞(0) 踩(0) | <div>公益的哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1110237)<br>就喜欢你那可男可女的长相<br>2010-11-11 21:30<br>赞(0) 踩(0) | <div>很平淡 这个在mp3里面好久了</div> |
@@ -175,7 +175,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/501434)<br><br>2010-09-25 23:06<br>赞(0) 踩(0) | <div>北方人的馒头, 南方人的白粥, 简单的幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1515396)<br><br>2010-09-25 20:33<br>赞(0) 踩(0) | <div>我是馒头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1504016)<br><br>2010-09-15 22:50<br>赞(0) 踩(0) | <div>这个配曲是他写的吗？感觉好熟悉，是不是别的什么，拿来用的？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1251315)<br><br>2010-09-11 12:35<br>赞(0) 踩(0) | <div>“刺激都会消失 浓烈不能长久淡淡味道细水长流 清菜更胜烈酒千山万水走过以后 我仍是你的馒头”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1251315)<br><br>2010-09-11 12:35<br>赞(0) 踩(0) | <div>“刺激都会消失 浓烈不能长久<br><br>淡淡味道细水长流 清菜更胜烈酒<br><br>千山万水走过以后 我仍是你的馒头”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1029044)<br><br>2010-09-05 21:52<br>赞(0) 踩(0) | <div>我的幸福馒头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/763655)<br><br>2010-09-01 20:44<br>赞(0) 踩(0) | <div>最体贴的浪漫，最华丽的温柔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260881)<br><br>2010-08-14 21:45<br>赞(0) 踩(0) | <div>哲理型。</div> |
@@ -189,7 +189,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/504815)<br><br>2010-03-21 21:33<br>赞(0) 踩(0) | <div>仅仅喜欢跳跃的旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9708)<br><br>2009-11-06 23:25<br>赞(0) 踩(0) | <div>好听的声音！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434972)<br><br>2009-10-18 21:32<br>赞(0) 踩(0) | <div>为什么这首馒头我听不全呢？才几秒钟而已</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316573)<br>to provide<br>2009-10-18 00:52<br>赞(0) 踩(0) | <div>（引用评论）可能这首歌是林一峰写给他的同性爱人的。同志圈子里面太多的诱惑，最幸福的其实就在眼前，这个世界上好看的人很多，青菜更胜烈酒。千山万水走完以后，我还是你的馒头。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316573)<br>to provide<br>2009-10-18 00:52<br>赞(0) 踩(0) | <div>（引用评论）<br>可能这首歌是林一峰写给他的同性爱人的。<br><br>同志圈子里面太多的诱惑，最幸福的其实就在眼前，这个世界上好看的人很多，青菜更胜烈酒。<br><br>千山万水走完以后，我还是你的馒头。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365406)<br><br>2009-09-04 21:32<br>赞(0) 踩(0) | <div>轻松愉快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2009-08-24 16:09<br>赞(0) 踩(0) | <div>有时候，最美的美食，不是山珍海味，不是珍馐佳肴，而是普通的不能在普通的家常饭：馒头，，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230382)<br>趁还来得及文艺<br>2009-06-27 21:46<br>赞(0) 踩(0) | <div>累了， 请千万不要忘记， 最幸福的就近在眼前， 啊～～～我的大白馒头～～</div> |
@@ -197,4 +197,4 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8169)<br><br>2009-05-27 20:39<br>赞(0) 踩(0) | <div>我要的幸福是热乎乎的大肉包，呼呼！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2009-04-26 00:23<br>赞(0) 踩(0) | <div>都市民谣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50704)<br><br>2009-03-25 11:01<br>赞(0) 踩(0) | <div>尽管觉得这声音有点刻意，但听起来还是心里暖暖的。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2009-03-07 11:53<br>赞(1) 踩(0) | <div>轻快幽默，又不乏深情的情歌。开心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2009-03-07 11:53<br>赞(1) 踩(0) | <div>轻快幽默，又不乏深情的情歌。<br>开心</div> |

@@ -52,8 +52,8 @@ The best is yet to come<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139765928)<br>只不過是一場命運<br>2020-07-09 03:05<br>赞(0) 踩(0) | <div>哇</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282577777)<br><br>2019-12-22 00:45<br>赞(0) 踩(0) | <div>伴随了我的2009年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2474311)<br>Melómana<br>2019-08-21 19:40<br>赞(1) 踩(0) | <div>高中的时候一听倾心，简单的道理很耐听</div> |
@@ -63,7 +63,7 @@ The best is yet to come<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38213740)<br>我还没想好要写什么...<br>2018-02-09 10:01<br>赞(0) 踩(0) | <div>最好的失恋安慰曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335780101)<br><br>2017-11-20 17:31<br>赞(1) 踩(0) | <div>在火车上听到了一次，从此念念不忘，每次失望伤心的时候，就告诉自己，未来还有无限可能，你要坚持住等它发生。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284942)<br><br>2017-10-27 23:56<br>赞(0) 踩(0) | <div>永远有一个吻未尝 有些烛光未点燃 注定错过的难守候 不放手又能撑多久 快乐如果有尽头 痛苦也不会不休 笑与泪都有时候 简单的道理 聪明如你应该知道值不值得 想起在东京的一个又一个的早晨啊~！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284942)<br><br>2017-10-27 23:56<br>赞(0) 踩(0) | <div>想起在霓虹国那些早上一遍一遍~"永远有一个吻未尝 有些烛光未点燃 注定错过的难守候 不放手又能撑多久 快乐如果有尽头 痛苦也不会不休 笑与泪都有时候 简单的道理 聪明如你应该知道值不值得 总有些伤口难愈合 有些遗憾难割舍 最好的还未发生"</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284942)<br><br>2017-10-27 23:56<br>赞(0) 踩(0) | <div>想起在霓虹国那些早上一遍一遍~<br>"永远有一个吻未尝 有些烛光未点燃 注定错过的难守候 不放手又能撑多久 快乐如果有尽头 痛苦也不会不休 笑与泪都有时候 简单的道理 聪明如你应该知道值不值得 总有些伤口难愈合 有些遗憾难割舍 最好的还未发生"</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/391128)<br><br>2017-10-27 23:01<br>赞(0) 踩(0) | <div>这首歌是我唯一一个知己推给我，在我为暗恋伤神时；而我又把它推荐给我暗恋的对象，在他失恋却放不下时。其实，这歌就是各种激励人心，没有限定的对象，聪明如你，怎么能不听一下呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282162726)<br><br>2017-09-19 06:26<br>赞(1) 踩(0) | <div>先入为主的喜欢国语版</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5522396)<br><br>2017-08-21 01:01<br>赞(0) 踩(0) | <div>13年前听的歌，时光啊，你慢点走</div> |
@@ -110,7 +110,7 @@ The best is yet to come<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2427910)<br><br>2012-09-01 22:53<br>赞(0) 踩(0) | <div>每首触动人心的歌背后都有一个小故事...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1708158)<br> <br>2012-08-29 14:40<br>赞(0) 踩(0) | <div>快乐如果有尽头 痛苦也不会不朽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3001395)<br><br>2012-08-29 05:55<br>赞(0) 踩(0) | <div>the best day is yet to come....怎么样都好难过的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2137828)<br>轻声细语赞美现在<br>2012-06-15 17:39<br>赞(1) 踩(0) | <div>We all have talked about that the best is yet to come for 6 years.Sometimes I would rather to believe the best has come and gone.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2137828)<br>轻声细语赞美现在<br>2012-06-15 17:39<br>赞(1) 踩(0) | <div>We all have talked about that the best is yet to come for 6 years.<br>Sometimes I would rather to believe the best has come and gone.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8121523)<br><br>2012-06-15 16:20<br>赞(0) 踩(0) | <div>快乐如果有尽头 痛苦也不会不朽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1485315)<br><br>2012-05-18 13:19<br>赞(0) 踩(0) | <div>最爱的一首歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6409912)<br><br>2012-05-13 23:34<br>赞(0) 踩(0) | <div>四年前第一次听到这首歌，自此迷上。之后无论是悲伤或是亢奋的时候，只要她的节奏弹起，便能慢慢抚平心绪。</div> |

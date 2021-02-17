@@ -62,15 +62,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293134782)<br> <br>2021-01-19 16:31<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86768068)<br>我所有目光的焦点，在你额...<br>2021-01-10 16:16<br>赞(1) 踩(0) | <div>不舍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118564990)<br>我喜欢私奔和我自己<br>2020-12-15 20:12<br>赞(1) 踩(0) | <div>周雲蓬同志     生日快樂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258353121)<br>地势坤，君子以厚德载物。<br>2020-11-05 00:19<br>赞(1) 踩(0) | <div>还可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1488096)<br>~~~~~<br>2020-08-10 23:18<br>赞(0) 踩(0) | <div>有木有和垃圾场一样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2020-07-28 23:01<br>赞(0) 踩(0) | <div>平淡如水，却很深刻</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7573735)<br><br>2020-07-04 09:30<br>赞(0) 踩(0) | <div>周云蓬，民谣诗人，对社会和人性的观察也是很深刻的。他回到了盲人影院，你我又莫不是也在黑暗中的盲人影院。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7573735)<br><br>2020-07-04 09:30<br>赞(0) 踩(0) | <div>周云蓬，民谣诗人，对社会和人性的观察也是很深刻的。<br>他回到了盲人影院，你我又莫不是也在黑暗中的盲人影院。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4426889)<br>梵 高 先 生 。<br>2020-05-31 22:36<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1073225)<br><br>2020-03-10 21:12<br>赞(0) 踩(0) | <div>这是周云鹏的自传，听着有点让人心酸，又充满希望。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282351189)<br><br>2020-01-11 17:06<br>赞(0) 踩(0) | <div>一直在</div> |
@@ -81,7 +81,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426152980)<br><br>2019-09-13 16:10<br>赞(2) 踩(0) | <div>这首歌弦律居然有点像斗地主背景乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52829970)<br><br>2019-06-24 12:58<br>赞(1) 踩(0) | <div>求中间朗诵的部分，我昨天看演出头皮发麻，说的太好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375144728)<br><br>2019-06-21 07:31<br>赞(1) 踩(0) | <div>怎么听着想起小时候的动画片《崂山道士》？其实这可能是他自己的自画像，黑色的夜给了他黑色的眼睛，身体和灵魂一直在路上</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276802404)<br><br>2019-05-30 11:16<br>赞(1) 踩(0) | <div>朋友说等他有钱了要开一家盲人影院嗯，祝福他早日有钱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276802404)<br><br>2019-05-30 11:16<br>赞(1) 踩(0) | <div>朋友说等他有钱了要开一家盲人影院<br>嗯，祝福他早日有钱</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342075420)<br>我宇宙公司贾总，我秘书辞...<br>2019-06-10 15:17<br>赞(0) 踩(0) | <div>有这个想法的人估计够呛能发财</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226360605)<br>我来自未来<br>2019-03-09 18:59<br>赞(1) 踩(0) | <div>很好的歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3858008)<br><br>2019-03-22 16:52<br>赞(0) 踩(0) | <div>对，你说的对</div> |
@@ -92,7 +92,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117239790)<br>传统的男人#    一起...<br>2018-11-21 17:13<br>赞(0) 踩(0) | <div>寻觅着貌似熟悉的味儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1196097)<br><br>2018-11-20 14:29<br>赞(0) 踩(0) | <div>超级好听呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376336657)<br>我还没想好要写什么...<br>2018-10-07 10:20<br>赞(0) 踩(0) | <div>这么好听的歌，评论怎么这么少</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15631480)<br>不戴墨镜<br>2018-09-19 03:46<br>赞(1) 踩(0) | <div>单身，自己对自己负责，别管我死活。恋爱，对两个人负责，你要很努力很努力。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15631480)<br>不戴墨镜<br>2018-09-19 03:46<br>赞(1) 踩(0) | <div>单身，自己对自己负责，别管我死活。<br>恋爱，对两个人负责，你要很努力很努力。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306220240)<br>旷野无涯，何方是家？<br>2018-08-14 01:45<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284215236)<br><br>2018-07-20 19:14<br>赞(1) 踩(0) | <div>写的即是自己，又是大众人生。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60947624)<br><br>2018-07-11 21:17<br>赞(1) 踩(0) | <div>长大校友 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -124,4 +124,4 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367760056)<br><br>2019-05-17 17:13<br>赞(0) 踩(0) | <div>因为，或许，应该是，看见的渠道不一样吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181794)<br>我还没想好要写什么...<br>2010-05-20 16:52<br>赞(0) 踩(0) | <div>周云逢 盲人影院</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181794)<br>我还没想好要写什么...<br>2010-05-20 16:52<br>赞(0) 踩(0) | <div>周云逢 盲人影院</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2010-05-19 13:13<br>赞(2) 踩(0) | <div>选自精选《周云蓬：如迷的中国孩子》大陆民谣的代表人物之一。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2010-05-19 13:13<br>赞(2) 踩(0) | <div>选自精选《周云蓬：如迷的中国孩子》<br><br>大陆民谣的代表人物之一。</div> |

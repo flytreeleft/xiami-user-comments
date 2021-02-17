@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b36dabed5d01b14bea13728fd62291a1.jpg)<br>袖舞迎风](https://i.xiami.com/xiuwu) | **播放数**: 3392387<br>**粉丝数**: 14<br>**评论数**: 2<br>**地区**: China 中国大陆<br>**风格**: 民谣 Folk<br> |
+| [![](../../images/musicians/b36dabed5d01b14bea13728fd62291a1.jpg)<br>袖舞迎风](https://i.xiami.com/xiuwu) | **地区**: China 中国大陆<br>**风格**: 民谣 Folk<br>**播放数**: 3392387<br>**粉丝数**: 14<br>**评论数**: 2<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -46,6 +43,6 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276217593)<br>一梦千年 凉凉<br>2017-02-27 11:25<br>赞(0) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |

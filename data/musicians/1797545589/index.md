@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5876cdf1e47aba87bf61947a4e1ef205.jpg)<br>张紫瑶](https://i.xiami.com/zhangziyao) | **播放数**: 2373635<br>**粉丝数**: 196<br>**评论数**: 16<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 流行灵魂乐 Pop Soul, 流行摇滚 Pop Rock, 国语流行 Mandarin Pop, 电音流行 Electropop<br> |
+| [![](../../images/musicians/5876cdf1e47aba87bf61947a4e1ef205.jpg)<br>张紫瑶](https://i.xiami.com/zhangziyao) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 流行灵魂乐 Pop Soul, 流行摇滚 Pop Rock, 国语流行 Mandarin Pop, 电音流行 Electropop<br>**播放数**: 2373635<br>**粉丝数**: 196<br>**评论数**: 16<br> |
 
 ## 档案
 
@@ -58,8 +58,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-20 11:31<br>赞(0) 踩(0) | <div>46992</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338718668)<br><br>2019-04-16 00:51<br>赞(0) 踩(0) | <div>听着这么干净美妙的歌声，真舒服！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346976008)<br>我还没想好要写什么...<br>2019-01-23 03:13<br>赞(0) 踩(0) | <div>舒服的声音</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/713d8846af1c4436cb3ea3b5f9ac9d9c.jpg)<br>新裤子](https://i.xiami.com/newpants) | **播放数**: 20679423<br>**粉丝数**: 60027<br>**评论数**: 1006<br>**地区**: China 中国大陆<br>**风格**: 迪斯科 Disco, 摇滚 Rock & Roll, 电子 Electronic, 流行朋克 Pop Punk, 新浪潮 New Wave<br> |
+| [![](../../images/musicians/713d8846af1c4436cb3ea3b5f9ac9d9c.jpg)<br>新裤子](https://i.xiami.com/newpants) | **地区**: China 中国大陆<br>**风格**: 迪斯科 Disco, 摇滚 Rock & Roll, 电子 Electronic, 流行朋克 Pop Punk, 新浪潮 New Wave<br>**播放数**: 20679423<br>**粉丝数**: 60027<br>**评论数**: 1006<br> |
 
 ## 档案
 
@@ -97,14 +97,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170084878)<br><br>2021-01-22 15:35<br>赞(0) 踩(0) | <div>出新裤子首张同名专辑首版和（北海怪兽）首版</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-29 10:59<br>赞(0) 踩(0) | <div>44612</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349516702)<br>红尘诸多事，更与谁人说。...<br>2020-11-12 11:02<br>赞(0) 踩(0) | <div>11.18大连见，那天我会穿一条新裤子。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206703958)<br>Ins:lulululu...<br>2020-10-11 09:44<br>赞(0) 踩(0) | <div>哈哈哈哈哈，我回来了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5687707)<br>it drips on ...<br>2020-08-30 22:49<br>赞(0) 踩(0) | <div>想听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252394832)<br><br>2020-08-26 22:54<br>赞(1) 踩(0) | <div>新裤子 竟然在虾米 有版权我回来了啊啊啊啊虾米虾米虾米VIP我来了 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252394832)<br><br>2020-08-26 22:54<br>赞(1) 踩(0) | <div>新裤子 竟然在虾米 有版权<br>我回来了啊啊啊啊<br>虾米<br>虾米<br>虾米<br>VIP我来了 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433401305)<br>不美丽就是我的美丽<br>2020-08-17 20:41<br>赞(0) 踩(0) | <div>有版权了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/170084878)<br><br>2020-08-17 00:25<br>赞(1) 踩(0) | <div>第1000个</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4261095)<br>我还没想好要写什么...<br>2020-08-16 22:01<br>赞(1) 踩(0) | <div>啊啊啊啊啊啊，版权回来啦？</div> |
@@ -137,7 +137,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8282038)<br><br>2019-11-14 09:27<br>赞(0) 踩(0) | <div>太好了，虾米终于有新裤子了！嗨森，第一首歌还是十几岁时候，听的《我爱你》，mv是黏土动画，当时还想我噻，还有这么特别感觉的歌声，那会儿没有网络，天天等电视台还有点播台重播。。。新裤子，爱你们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430351679)<br><br>2019-11-03 22:52<br>赞(0) 踩(0) | <div>虾米啊！谢谢你能不能把新裤子的版权争取过来啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331553170)<br>追赶青年表演艺术家<br>2019-10-31 12:00<br>赞(1) 踩(0) | <div>芽儿，囊个没有夏日终曲,淦！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401267573)<br>朝着大海的方向…<br>2019-09-12 14:45<br>赞(0) 踩(0) | <div>一首歌都沒得版權，有點傷心了…只能MV了…</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401267573)<br>朝着大海的方向…<br>2019-09-12 14:45<br>赞(0) 踩(0) | <div>一首歌都沒得版權，有點傷心了…<br>只能MV了…</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68315312)<br><br>2019-09-04 21:38<br>赞(1) 踩(0) | <div>我有一盘新裤子的正版CD，还是金版带，在97年音像店买的，很喜欢，可惜搬家时丢了，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4234256)<br><br>2019-08-31 20:41<br>赞(0) 踩(0) | <div>莫名其妙打开华为音乐 居然发现我喜欢的foals和新裤子的歌都能听 好神奇。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287132434)<br><br>2019-08-30 19:46<br>赞(0) 踩(0) | <div>车</div> |
@@ -181,7 +181,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8108257)<br>俺想統治世界<br>2019-07-09 13:55<br>赞(0) 踩(0) | <div><q><b>小杰说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20425956)<br>天若微雨，我心浅笑。<br>2019-07-09 13:56<br>赞(0) 踩(0) | <div><q><b>R先生为什么疯狂地说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105778642)<br>去年  最想去塔希提  ...<br>2019-07-01 17:58<br>赞(3) 踩(0) | <div>老是让我想起pulp的贾叔</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50449936)<br>'But I'm not...<br>2019-07-09 13:02<br>赞(0) 踩(0) | <div>是真的哈哈哈哈哈哈彭磊像disco风格那几首也有点像</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50449936)<br>'But I'm not...<br>2019-07-09 13:02<br>赞(0) 踩(0) | <div>是真的哈哈哈哈哈哈<br>彭磊像disco风格那几首也有点像</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271091)<br>重脱晚。已弃疗<br>2019-06-30 23:34<br>赞(1) 踩(0) | <div>艺人介绍里还有“喜欢的姑娘”这项 土味可爱 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276931488)<br>never give u...<br>2019-06-30 11:25<br>赞(0) 踩(0) | <div>其他的歌都听不了吗嗷嗷嗷嗷嗷</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1226116)<br><br>2019-06-24 15:02<br>赞(0) 踩(0) | <div>漫天花火，碰撞燃烧，老男孩，致敬！</div> |
@@ -242,7 +242,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242022847)<br>你当独立且自由。 <br>2018-03-23 23:28<br>赞(0) 踩(0) | <div>这，，，下完了都</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31737208)<br>我想和你虚度世界。<br>2018-03-17 14:45<br>赞(0) 踩(0) | <div>巡演我来了！！！！！ <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238976612)<br>年轻无极限<br>2018-03-10 10:44<br>赞(2) 踩(0) | <div>虾小米快点争取新裤子版权哦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2831675)<br>情痴 情呆 行怪 言狂<br>2018-03-07 16:57<br>赞(0) 踩(0) | <div>#演出推薦#智利迷幻大團F&amp;ouml;llakzoid中國巡演3/8 深圳 B10现场3/9 广州 MAO Livehouse3/10 厦门 Real Live3/11 长沙 红咖3/13 武汉 VOX Livehouse3/14 南京 欧拉艺术空间3/15 杭州 MAO Livehouse3/16 北京 疆进酒3/17 上海 万代南梦宫上海文化中心未来剧场預售鏈接<a href="https://www.showstart.com/artist/991775" target="_blank" rel="nofollow noreferrer noopener">https://www.showstart.com/artist/991775</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2831675)<br>情痴 情呆 行怪 言狂<br>2018-03-07 16:57<br>赞(0) 踩(0) | <div>#演出推薦#智利迷幻大團F&amp;ouml;llakzoid中國巡演<br>3/8 深圳 B10现场<br>3/9 广州 MAO Livehouse<br>3/10 厦门 Real Live<br>3/11 长沙 红咖<br>3/13 武汉 VOX Livehouse<br>3/14 南京 欧拉艺术空间<br>3/15 杭州 MAO Livehouse<br>3/16 北京 疆进酒<br>3/17 上海 万代南梦宫上海文化中心未来剧场<br>預售鏈接<a href="https://www.showstart.com/artist/991775" target="_blank" rel="nofollow noreferrer noopener">https://www.showstart.com/artist/991775</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56944258)<br>303<br>2018-03-06 19:33<br>赞(1) 踩(0) | <div>朋克 &amp;rarr; 合成器新浪潮 &amp;rarr; 流行</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3498718)<br><br>2018-03-03 21:08<br>赞(0) 踩(0) | <div>每天看新碟的消息，多希望是新裤子的新专辑啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3484497)<br>我还没想好要写什么...<br>2018-03-02 19:48<br>赞(1) 踩(0) | <div>等等下半年？</div> |
@@ -336,7 +336,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34162354)<br>我还没想好要写什么...<br>2016-09-01 17:18<br>赞(1) 踩(0) | <div>新裤子 脱下来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8611137)<br>穷的挺像无产阶级。<br>2016-09-01 08:02<br>赞(0) 踩(0) | <div>全部下架了。呵呵。我还开15元包月干嘛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2016-09-01 00:07<br>赞(0) 踩(0) | <div>所以说才过完八月新裤子就下架了  <img src="../../images/comments/89a3757c2a80c5f09684e3d1679cde0a.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1115247)<br>@Nebula_7293<br>2016-08-25 03:17<br>赞(2) 踩(0) | <div>我才发现 在艺人档案里面这四个人喜欢的姑娘类型都是好看的！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1115247)<br>@Nebula_7293<br>2016-08-25 03:17<br>赞(2) 踩(0) | <div>我才发现 在艺人档案里面<br>这四个人喜欢的姑娘类型都是<br>好看的！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2016-08-06 23:38<br>赞(0) 踩(0) | <div>我爱你 我不想失去你 我们可以在一起 我们最美好的时光就是现在</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30398026)<br>我还没想好要写什么...<br>2016-08-03 14:46<br>赞(0) 踩(0) | <div>这个乐队 在某些时候 特别讨厌呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34187578)<br>我已经想好了要写什么<br>2016-07-14 21:57<br>赞(1) 踩(0) | <div>New Order！</div> |
@@ -365,9 +365,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4134808)<br>我还没想好要写什么...<br>2016-04-30 20:34<br>赞(0) 踩(0) | <div>他们的现场好奇怪啊哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13157125)<br>无论多么大型的动物，途径...<br>2016-04-29 22:32<br>赞(0) 踩(0) | <div>明天见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4109302)<br><br>2016-04-28 20:07<br>赞(0) 踩(0) | <div>bloc party</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44546713)<br>中二危机之后就是中年危机...<br>2016-04-24 23:13<br>赞(0) 踩(0) | <div>表白贝斯手草莓音乐节</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44546713)<br>中二危机之后就是中年危机...<br>2016-04-24 23:13<br>赞(0) 踩(0) | <div>表白贝斯手<br>草莓音乐节</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42582445)<br><br>2016-04-19 19:42<br>赞(2) 踩(0) | <div>即使你知道这个故事是假的，可你还是愿意听新裤子讲一遍</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9364917)<br>不可以 我笑不起来了<br>2016-04-15 23:58<br>赞(1) 踩(0) | <div>听说评论新裤子就有女朋友玩的？<img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9364917)<br>不可以 我笑不起来了<br>2016-04-15 23:58<br>赞(1) 踩(0) | <div>听说评论新裤子就有女朋友玩的？<br><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50540849)<br>喜欢猫吗<br>2016-04-15 22:20<br>赞(0) 踩(0) | <div>哈哈哈哈说感冒的那个你好搞笑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1728101)<br>离线<br>2016-04-10 14:40<br>赞(1) 踩(0) | <div>中国disco</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7949648)<br> <br>2016-04-09 12:26<br>赞(1) 踩(0) | <div>风格流派编曲都是心头好，可这咬字实在喜欢不起来…</div> |
@@ -403,7 +403,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20598192)<br>我还没想好要写什么...<br>2016-01-21 13:00<br>赞(0) 踩(0) | <div>为什么我听新裤子的每一首歌都很难过，太~悲~伤~了~ :(</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/947031)<br><br>2016-02-05 14:18<br>赞(0) 踩(0) | <div>嗯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36514939)<br>她留着超酷的短发 网易云...<br>2015-12-27 23:53<br>赞(0) 踩(0) | <div>☃</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2015-12-10 06:58<br>赞(0) 踩(0) | <div>；2015.12.10</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2015-12-10 06:58<br>赞(0) 踩(0) | <div>；<br><br><br><br><br><br><br><br><br>2015.12.10</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7610981)<br>虾米不会走<br>2015-12-10 00:33<br>赞(6) 踩(0) | <div>请巡演</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/182400198)<br>版权逃亡冷感钝化人<br>2018-04-09 20:13<br>赞(0) 踩(0) | <div>巡演了 可惜离我很远 歧视东北</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4353208)<br> <br>2015-12-04 12:13<br>赞(1) 踩(0) | <div>被那魔性disco 迷了双眼</div> |
@@ -413,7 +413,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15471923)<br>有时我总觉得自己是一个傻...<br>2015-12-16 22:55<br>赞(0) 踩(0) | <div>是葛优啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50017584)<br>我到底有多爱金属<br>2015-11-08 14:07<br>赞(0) 踩(0) | <div>现在鼓手是hayato吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44071271)<br>暂无签名~<br>2015-10-22 09:51<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/660135)<br><br>2015-10-21 14:32<br>赞(7) 踩(0) | <div>新裤子分两部分了，新裤子和「旧的新裤子」对不起，我更爱后者。对于这条评论，有人点「弱」不服来战啊。小孩子可以滚粗了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/660135)<br><br>2015-10-21 14:32<br>赞(7) 踩(0) | <div>新裤子分两部分了，新裤子和「旧的新裤子」<br>对不起，我更爱后者。<br><br>对于这条评论，有人点「弱」<br>不服来战啊。小孩子可以滚粗了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49229961)<br>暂无签名~<br>2016-03-03 07:42<br>赞(0) 踩(0) | <div>重新组团了吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/660135)<br><br>2017-04-10 14:29<br>赞(0) 踩(0) | <div><q><b>lockonsa说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47720054)<br>my days<br>2015-10-09 19:17<br>赞(0) 踩(0) | <div><img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
@@ -447,7 +447,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32359200)<br><br>2015-06-25 17:17<br>赞(0) 踩(0) | <div>这都什么啊 一点不动听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33316771)<br>也许我们永远不会再见<br>2015-06-16 16:50<br>赞(0) 踩(0) | <div>新浪潮= =</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47365062)<br>windy<br>2015-06-11 10:17<br>赞(0) 踩(0) | <div>为啥有旅行团乱入</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277175)<br><br>2015-06-09 00:13<br>赞(1) 踩(0) | <div>我们都在成长，不论好坏…愿所有美好的，都长久…最初，我还是个小孩子，买了新裤子首张专辑的磁带，日日夜夜地听～然后，很多年过去，无意间又听到了一曲byebye disco ，迷幻 仍在～</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277175)<br><br>2015-06-09 00:13<br>赞(1) 踩(0) | <div>我们都在成长，不论好坏…愿所有美好的，都长久…<br>最初，我还是个小孩子，买了新裤子首张专辑的磁带，日日夜夜地听～然后，很多年过去，无意间又听到了一曲byebye disco ，迷幻 仍在～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46372341)<br> <br>2015-06-08 21:09<br>赞(1) 踩(0) | <div>怎么张一下漂亮 一下丑的要死</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45277641)<br><br>2015-06-02 18:50<br>赞(16) 踩(0) | <div>我真的不喜欢他们带张蔷啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7161601)<br>再见<br>2019-03-02 00:58<br>赞(0) 踩(0) | <div>我喜欢</div> |
@@ -484,7 +484,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31749205)<br><br>2015-02-02 22:39<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14035333)<br> <br>2015-01-27 02:11<br>赞(0) 踩(0) | <div>喜欢hayato</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73825)<br><br>2015-01-24 21:59<br>赞(2) 踩(0) | <div>每次两个女朋友的前奏起来，都以为是郑少秋要唱《笑看风云》。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-01-23 02:32<br>赞(0) 踩(0) | <div>国产新裤子5911412,24578,648</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-01-23 02:32<br>赞(0) 踩(0) | <div>国产新裤子<br>5911412,24578,648</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29865831)<br>Give me gin ...<br>2015-01-22 00:57<br>赞(1) 踩(0) | <div>真的，听新裤子感觉和雷蒙斯给我的感觉特别像</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124105)<br>心情大好！来点交响乐吧<br>2015-01-20 09:12<br>赞(0) 踩(0) | <div>野人也有爱是最高峰时期了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40412290)<br>我还没想好要写什么...<br>2015-01-20 00:07<br>赞(0) 踩(0) | <div>天啊 永远爱新裤子</div> |
@@ -553,7 +553,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7940125)<br>麻烦你，鱼丸粗面。<br>2014-07-15 12:14<br>赞(0) 踩(0) | <div>中国的！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9218500)<br><br>2014-07-14 19:10<br>赞(0) 踩(0) | <div>新裤子的歌不错~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1712095)<br>永夜月同孤<br>2014-07-14 17:45<br>赞(0) 踩(0) | <div>新裤子不新，旧裤子不旧。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10499065)<br><br>2014-07-14 14:50<br>赞(0) 踩(0) | <div>要关电脑了 特想听的一首新裤子 Fashion1983<a href="http://www.xiami.com/song/192833?spm=a1z1s.6659513.0.0.bKVt1j" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/192833?spm=a1z1s.6659513.0.0.bKVt1j</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10499065)<br><br>2014-07-14 14:50<br>赞(0) 踩(0) | <div>要关电脑了 特想听的一首新裤子 Fashion1983<br><a href="http://www.xiami.com/song/192833?spm=a1z1s.6659513.0.0.bKVt1j" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/192833?spm=a1z1s.6659513.0.0.bKVt1j</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6339700)<br>世界末日<br>2014-07-14 12:29<br>赞(0) 踩(0) | <div>竟然没收藏，不像话</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25772824)<br>生抽老抽都不如小抽<br>2014-07-05 20:45<br>赞(0) 踩(0) | <div>作为无脑朋克青年，心中唯一的中国摇滚乐队！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29977315)<br><br>2014-07-02 16:25<br>赞(2) 踩(0) | <div>试听榜首的那个绝对是一些萨比顶上去的</div> |
@@ -622,7 +622,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29250523)<br> <br>2014-03-09 17:10<br>赞(0) 踩(0) | <div>中国摇滚的内涵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1799677)<br>entertain me...<br>2014-03-06 10:47<br>赞(0) 踩(0) | <div>我的青春啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5571596)<br>jelifish-lee<br>2014-02-28 08:48<br>赞(0) 踩(0) | <div>好简陋啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1618810)<br>毙<br>2014-02-21 22:04<br>赞(0) 踩(0) | <div>为什么不来虾米呢。那次去了钱粮胡同传说中彭磊开的发条怪兽，变成了黑胶唱片店，</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1618810)<br>毙<br>2014-02-21 22:04<br>赞(0) 踩(0) | <div>为什么不来虾米呢。<br>那次去了钱粮胡同传说中彭磊开的发条怪兽，变成了黑胶唱片店，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164565)<br>没有脚的鸟<br>2014-02-13 17:07<br>赞(2) 踩(0) | <div>我一直都觉得团名太low没仔细听音乐~我错了！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4898947)<br><br>2014-02-12 11:48<br>赞(0) 踩(0) | <div>被融化</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9942126)<br><br>2014-02-11 23:24<br>赞(1) 踩(0) | <div>彭导有女儿了   但不是骚宽的</div> |
@@ -706,7 +706,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1451063)<br>暂无签名~<br>2013-05-21 16:48<br>赞(0) 踩(0) | <div>同名专辑的磁带被同学拿去后，一直未归还。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15356524)<br><br>2013-05-20 20:57<br>赞(0) 踩(0) | <div>现场很棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8421217)<br>耶！吃早餐啦！<br>2013-05-15 20:22<br>赞(0) 踩(0) | <div>因为你，而喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6137862)<br>咋了！<br>2013-05-15 10:33<br>赞(0) 踩(0) | <div>我曾梦想榜首把旅行团的换成你就是我的明星</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6137862)<br>咋了！<br>2013-05-15 10:33<br>赞(0) 踩(0) | <div>我曾梦想<br>榜首<br>把旅行团的换成<br>你就是我的明星</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4773154)<br><br>2013-05-11 16:32<br>赞(1) 踩(0) | <div>奇形怪状却敏感无比的普通人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4742941)<br> <br>2013-05-10 19:57<br>赞(0) 踩(0) | <div>新裤子真的  听国内的少 但是真的最喜欢这个乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2129292)<br><br>2013-05-10 16:17<br>赞(0) 踩(0) | <div>五一  2013  pogo 夜</div> |
@@ -834,7 +834,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7914705)<br><br>2012-06-06 14:18<br>赞(0) 踩(0) | <div>谁知道这回在北京草莓上，新裤子跳的那首歌叫什么名字</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9354594)<br><br>2012-06-02 01:10<br>赞(0) 踩(0) | <div>很庆幸能有这样1支乐队和我1起变老我喜欢新裤子也喜欢新衣服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/577910)<br><br>2012-05-28 15:24<br>赞(1) 踩(0) | <div>“中国最时髦的乐队 ” 哈哈哈哈</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6700017)<br>中级等刺师<br>2012-05-23 15:34<br>赞(0) 踩(0) | <div>D I S C O享受痛苦的每一天</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6700017)<br>中级等刺师<br>2012-05-23 15:34<br>赞(0) 踩(0) | <div>D I S C O<br>享受痛苦的每一天</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6882272)<br>刁难我的人全都去狗带！<br>2012-05-21 19:21<br>赞(0) 踩(0) | <div>男主唱多萌呀！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7367708)<br><br>2012-05-31 17:43<br>赞(0) 踩(0) | <div>我也觉得 嘿嘿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9230523)<br><br>2012-05-20 14:22<br>赞(0) 踩(0) | <div>刀郎的风格哦</div> |
@@ -933,7 +933,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5942584)<br>没有干净的袜子穿了<br>2011-11-16 09:28<br>赞(0) 踩(0) | <div>中国最好的摇滚乐队，有钱18号就去看他们的演唱会啦，没有钱啊啊啊啊啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5469840)<br><br>2011-11-15 14:46<br>赞(0) 踩(0) | <div>我不想失去你噻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2198641)<br>水不深,<br>2011-11-14 00:59<br>赞(0) 踩(0) | <div>爱裤子,</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/892809)<br><br>2011-11-13 23:30<br>赞(0) 踩(0) | <div><a href="http://v.youku.com/v_show/id_XMzE3MzQ0Njcy.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMzE3MzQ0Njcy.html</a><a href="http://v.youku.com/v_show/id_XMzE0MDA1ODA4.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMzE0MDA1ODA4.html</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/892809)<br><br>2011-11-13 23:30<br>赞(0) 踩(0) | <div><a href="http://v.youku.com/v_show/id_XMzE3MzQ0Njcy.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMzE3MzQ0Njcy.html</a><br><a href="http://v.youku.com/v_show/id_XMzE0MDA1ODA4.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMzE0MDA1ODA4.html</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4996162)<br><br>2011-11-11 15:57<br>赞(0) 踩(0) | <div>喜欢 (*^__^*) 嘻嘻……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1424508)<br><br>2011-11-10 19:20<br>赞(0) 踩(0) | <div>我们的时代</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6122639)<br><br>2011-11-09 21:32<br>赞(0) 踩(0) | <div>pop punk</div> |
@@ -1007,7 +1007,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2515311)<br><br>2011-06-21 14:49<br>赞(0) 踩(0) | <div>Go East！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1122938)<br><br>2011-06-19 20:34<br>赞(0) 踩(0) | <div>躁起来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4191442)<br><br>2011-06-19 10:34<br>赞(0) 踩(0) | <div>和你在一起</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198576)<br><br>2011-06-16 17:08<br>赞(0) 踩(0) | <div>你好 新裤子你好 我爱你</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198576)<br><br>2011-06-16 17:08<br>赞(0) 踩(0) | <div>你好 新裤子<br>你好 我爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774583)<br><br>2011-06-16 15:55<br>赞(0) 踩(0) | <div>是挺感兴趣的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2123205)<br><br>2011-06-08 21:29<br>赞(0) 踩(0) | <div>怀念</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4207985)<br><br>2011-06-07 15:47<br>赞(0) 踩(0) | <div>太棒太棒的乐队</div> |
@@ -1072,14 +1072,14 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/614597)<br><br>2010-11-13 15:14<br>赞(0) 踩(0) | <div>你还记得贾宏声吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324649)<br><br>2011-02-16 00:10<br>赞(0) 踩(0) | <div>啊,新褲子和賈宏聲有啥關係?</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/614597)<br><br>2011-02-16 11:44<br>赞(0) 踩(0) | <div><q><b>喜冲冲的黄金梨说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433136)<br><br>2010-11-08 19:02<br>赞(0) 踩(0) | <div>真不知道农村非主流到底是什么意思不过如果您非要说这个就是的话好吧  我承认我喜欢农村非主流。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433136)<br><br>2010-11-08 19:02<br>赞(0) 踩(0) | <div>真不知道农村非主流到底是什么意思<br>不过如果您非要说这个就是的话<br>好吧  我承认我喜欢农村非主流。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1490634)<br>我还没想好要写什么...<br>2011-02-26 23:48<br>赞(0) 踩(0) | <div>好吧，我也承认我喜欢农村非主流。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1378940)<br><br>2010-09-02 16:32<br>赞(0) 踩(0) | <div>首首脍炙人口。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198576)<br><br>2010-07-31 22:04<br>赞(0) 踩(0) | <div>新裤子又一次救了我π π</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193398)<br><br>2010-10-03 14:21<br>赞(0) 踩(0) | <div>T</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/547252)<br><br>2010-06-28 11:30<br>赞(0) 踩(0) | <div>哈哈   哥哥一直没素质，我没有发表观点，我是在骂你！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/484094)<br>空灭，我也曾如你般天真。<br>2010-04-30 16:16<br>赞(0) 踩(0) | <div>一说到新裤子！ 就和朋克、DISCO、复古、怀旧、定格动画、铁皮玩具。。。等等这些词汇紧密的联系在一起我从两千年开始听他们的音乐一直到现在一晃十年了我会继续支持他们！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/650004)<br><br>2010-02-01 13:14<br>赞(0) 踩(0) | <div>最爱bye bye disco</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/484094)<br>空灭，我也曾如你般天真。<br>2010-04-30 16:16<br>赞(0) 踩(0) | <div>一说到新裤子！ 就和朋克、DISCO、复古、怀旧、定格动画、铁皮玩具。。。等等这些词汇紧密的联系在一起<br>我从两千年开始听他们的音乐<br>一直到现在<br>一晃十年了<br>我会继续支持他们！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/650004)<br><br>2010-02-01 13:14<br>赞(0) 踩(0) | <div>最爱<br>bye bye disco</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/515510)<br><br>2009-12-28 23:05<br>赞(0) 踩(0) | <div>这种农村非主流乐队竟然能生存这么久。。。。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/580602)<br><br>2010-01-26 01:29<br>赞(0) 踩(0) | <div>居然说新裤子是农村非主流?难道你真的打酱油的?佩服!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61745)<br>yy<br>2010-02-13 16:37<br>赞(0) 踩(0) | <div><q><b>犯困青年说：</b></q></div> |
@@ -1106,6 +1106,6 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/492732)<br><br>2009-11-10 12:54<br>赞(0) 踩(0) | <div>新裤子 真的是很不错啊！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/451239)<br><br>2010-08-02 23:22<br>赞(0) 踩(0) | <div>又是您啊，哪见过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198576)<br><br>2009-08-27 17:45<br>赞(0) 踩(0) | <div>一起来爱新裤子</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194322)<br>世上最宝贵的是相处的时间...<br>2009-08-10 13:46<br>赞(0) 踩(0) | <div>新裤子。我的爱....</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194322)<br>世上最宝贵的是相处的时间...<br>2009-08-10 13:46<br>赞(0) 踩(0) | <div>新裤子。<br>我的爱....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232992)<br>我还没想好要写什么...<br>2009-08-09 11:48<br>赞(0) 踩(0) | <div>哈尼，你是我的雷蒙斯，我是你的考特尼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279382)<br><br>2009-07-24 19:46<br>赞(1) 踩(0) | <div>大家都来爱新裤子~</div> |

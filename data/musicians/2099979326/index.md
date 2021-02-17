@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/302cfa0822b71b33117d1bb9bc3e326a.png)<br>刘航](https://i.xiami.com/liuhang) | **播放数**: 2261646<br>**粉丝数**: 73<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/302cfa0822b71b33117d1bb9bc3e326a.png)<br>刘航](https://i.xiami.com/liuhang) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 2261646<br>**粉丝数**: 73<br>**评论数**: 8<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -24,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401228641)<br><br>2019-12-08 02:31<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-04-20 05:29<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226994566)<br>The  cello  ...<br>2018-08-14 22:09<br>赞(1) 踩(0) | <div>哎呀重名了航哥</div> |

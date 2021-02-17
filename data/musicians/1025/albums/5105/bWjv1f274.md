@@ -40,9 +40,9 @@ ISRC TW-A-55-86-03001
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-05-13 10:10<br>赞(0) 踩(0) | <div>作词：许常德作曲：刘天健编曲：陈飞午制作人：袁惟仁</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-05-13 10:10<br>赞(0) 踩(0) | <div>作词：许常德<br>作曲：刘天健<br>编曲：陈飞午<br>制作人：袁惟仁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339659666)<br><br>2019-03-03 01:32<br>赞(1) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1660234)<br><br>2019-02-22 09:24<br>赞(1) 踩(0) | <div>如此空灵的天籁之音就这么点评论，真是个浮躁的年代</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7732360)<br>崔神父<br>2019-02-14 21:44<br>赞(1) 踩(0) | <div>Nice!</div> |
@@ -52,7 +52,7 @@ ISRC TW-A-55-86-03001
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342816097)<br><br>2018-07-07 00:40<br>赞(2) 踩(0) | <div>我当时主动跟她分的手，可直到真正的失去了她那一刻，在她笑着平平淡淡的告诉我:我们俩已经过去了，我以后再也不会爱你了，你看，还是我心狠吧。当时喉咙里只堵着一团东西，这团东西应该就是至爱、痛苦、愧疚、后悔的结合体吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113656072)<br>爱过的那些歌曲，有一天再...<br>2018-07-03 02:14<br>赞(2) 踩(0) | <div>到底有多爱你，才会让思念比相恋更久。每次夜里梦到你，每次看到疑似你的背影，每次想到你。都在让我一点点失去爱的能力。我们总说长长的路慢慢的走，可是事到临头，我却偏激的希望能快点走，我们都没错，是老天在折磨我。 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113656072)<br>爱过的那些歌曲，有一天再...<br>2018-07-03 02:22<br>赞(0) 踩(0) | <div>我曾说你是一束光，在我的世界照耀着。现在却已经等不到说过的那个以后。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31110738)<br>：）<br>2018-03-30 22:33<br>赞(3) 踩(0) | <div>我燃烧我的船怕夜黑时候你疏忽错过我焚心等候</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31110738)<br>：）<br>2018-03-30 22:33<br>赞(3) 踩(0) | <div>我燃烧我的船<br>怕夜黑时候<br>你疏忽错过<br>我焚心等候</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303220098)<br>在夜里听见你<br>2018-03-09 11:19<br>赞(4) 踩(0) | <div>自己听歌喜欢看评论，很少写评论，只是没想到这歌这么少人评论</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316852391)<br>pop rock<br>2018-01-22 17:54<br>赞(3) 踩(0) | <div>怕夜黑时候  你疏忽错过  我焚心等候</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3439479)<br><br>2017-10-27 23:09<br>赞(2) 踩(0) | <div>齐秦和天平的音色好接近</div> |
@@ -96,7 +96,7 @@ ISRC TW-A-55-86-03001
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7205091)<br>胡同串子<br>2013-03-30 18:55<br>赞(1) 踩(0) | <div>哇哇：齐秦的和声，给力啊！！！两人搭档的天衣无缝！超赞！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2601024)<br><br>2013-02-24 22:47<br>赞(1) 踩(0) | <div>你疏忽错过……我已不能回头……天……你在何处漂流……你在和谁厮守……我已不能回头……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7923049)<br>我还没想好要写什么...<br>2012-08-25 00:19<br>赞(1) 踩(0) | <div>@就叫韩小雪123  开始上课 早睡之</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8939295)<br><br>2012-08-24 04:15<br>赞(1) 踩(0) | <div>清晨 雾 河畔 白纱窗琴弦 往事 热茶的蒸气船升起帆告知风的去向</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8939295)<br><br>2012-08-24 04:15<br>赞(1) 踩(0) | <div>清晨 雾 河畔 白纱窗<br>琴弦 往事 热茶的蒸气<br>船升起帆告知风的去向</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7089769)<br>我还没想好要写什么...<br>2012-05-30 21:45<br>赞(1) 踩(0) | <div>流浪到淡水</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1205493)<br>单曲循环患者<br>2012-05-17 21:41<br>赞(1) 踩(0) | <div>我的天涯和梦要你挽救</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1680414)<br>Sophia。<br>2011-11-29 10:57<br>赞(1) 踩(0) | <div>清透</div> |

@@ -50,8 +50,8 @@ That was me, I told her
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12550591)<br>赤足走上地球花园的小台阶<br>2020-06-20 20:06<br>赞(0) 踩(0) | <div>最爱的一首！歌词想落泪！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306168338)<br><br>2020-01-11 10:42<br>赞(1) 踩(0) | <div>顺子的唱腔，贴心的歌词，不过时的旋律，一切搭配如此美好，印象深刻。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376300765)<br>我还没想好要写什么...<br>2018-10-31 22:49<br>赞(3) 踩(0) | <div>这张专辑我当初买了磁带，现在还是爱听。</div> |

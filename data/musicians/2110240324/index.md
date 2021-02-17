@@ -3,13 +3,10 @@ Howie Z
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/249fcb402694ffc6c3a09457006850cc.jpg)<br>Howie Z](https://i.xiami.com/howiez) | **播放数**: 2920825<br>**粉丝数**: 145<br>**评论数**: 13<br>**地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap, 嘻哈 Hip-Hop<br> |
+| [![](../../images/musicians/249fcb402694ffc6c3a09457006850cc.jpg)<br>Howie Z](https://i.xiami.com/howiez) | **地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap, 嘻哈 Hip-Hop<br>**播放数**: 2920825<br>**粉丝数**: 145<br>**评论数**: 13<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -23,8 +20,8 @@ Howie Z
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348152598)<br>我还没想好要写什么...<br>2020-12-09 07:49<br>赞(0) 踩(0) | <div>声音很暖，冷冷冬天的上班早晨，因为你的歌声变得暖暖的，加油，为了梦想！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348152598)<br>我还没想好要写什么...<br>2020-12-09 07:46<br>赞(0) 踩(0) | <div>声音很暖</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258959934)<br>旋律第一。。。节奏为王<br>2020-09-25 21:15<br>赞(0) 踩(0) | <div>挺不错。。。</div> |

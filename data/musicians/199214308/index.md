@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/89f5eaa1aecf061438d9346c6540aa42.jpg)<br>曹思义](https://i.xiami.com/caosy) | **播放数**: 7024474<br>**粉丝数**: 4471<br>**评论数**: 131<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental<br> |
+| [![](../../images/musicians/89f5eaa1aecf061438d9346c6540aa42.jpg)<br>曹思义](https://i.xiami.com/caosy) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental<br>**播放数**: 7024474<br>**粉丝数**: 4471<br>**评论数**: 131<br> |
 
 ## 档案
 
@@ -34,8 +34,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49934890)<br> <br>2021-01-12 22:17<br>赞(0) 踩(0) | <div>虾米音乐关停，希望以后能在其他地方再听到走音老师新曲子，唉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5819278)<br>面朝大海 春暖花开<br>2020-04-26 09:57<br>赞(0) 踩(0) | <div>不错，走心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43418982)<br><br>2020-03-11 02:54<br>赞(0) 踩(0) | <div>浮到宇宙与灵魂的尽头</div> |
@@ -56,7 +56,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10624478)<br> <br>2018-05-24 01:39<br>赞(1) 踩(0) | <div>想到了中川砂仁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343254219)<br><br>2018-03-30 21:24<br>赞(0) 踩(0) | <div>有情有心！引人入胜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276685540)<br>爬上墙头等红杏<br>2018-02-20 04:00<br>赞(0) 踩(0) | <div>虾米太坑人了，会员还要收费1－5元一首，酷狗会员免费，这是几个意思，钱掏完了才知道酷狗会员免费，什么感觉？当时感觉吃了绿豆蝇！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9080939)<br>不为无益之事，何遣有涯之...<br>2018-01-24 05:33<br>赞(3) 踩(0) | <div>明亮，柔软细腻，恬淡丰富，清晰一个静静欣赏，惬意，触动</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9080939)<br>不为无益之事，何遣有涯之...<br>2018-01-24 05:33<br>赞(3) 踩(0) | <div>明亮，柔软<br>细腻，恬淡<br>丰富，清晰<br>一个静静欣赏，惬意，触动</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25166299)<br>人生若只如初见<br>2017-12-25 22:20<br>赞(0) 踩(0) | <div>同学 听过吗 期待你听一下</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89073062)<br><br>2017-10-27 23:50<br>赞(1) 踩(0) | <div>不经意听了曹老师的作品，突然发现原来国内也有非常棒的指弹大师，深深喜欢上了曹老师的作品，正在练习中 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21216195)<br>我还没想好要写什么...<br>2017-08-25 08:53<br>赞(1) 踩(0) | <div>有种无意中发现宝贝的感觉。</div> |
@@ -74,9 +74,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10707847)<br><br>2017-05-20 00:27<br>赞(1) 踩(0) | <div>好！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4570323)<br>BadClutch艺术总...<br>2017-05-15 23:03<br>赞(1) 踩(0) | <div>牛逼 支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50027595)<br><br>2017-04-26 08:57<br>赞(1) 踩(0) | <div>超喜欢老师的指弹中国风</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48904070)<br>I love CHINA<br>2017-04-25 20:54<br>赞(1) 踩(0) | <div><a href="http://www.showstart.com/event/25537" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/25537</a>06月02日 【MAO Live呈现】指弹不止弹VOL.1：GIN&amp;amp;amp;曹思义&amp;ldquo;Walking in the music&amp;rdquo;在音乐中徜徉音乐会 杭州 MAO Livehouse</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48904070)<br>I love CHINA<br>2017-04-25 20:46<br>赞(1) 踩(0) | <div><a href="http://www.showstart.com/event/25537" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/25537</a>06月02日 【MAO Live呈现】指弹不止弹VOL.1：GIN&amp;amp;amp;曹思义&amp;ldquo;Walking in the music&amp;rdquo;在音乐中徜徉音乐会 杭州 MAO Livehouse 1</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48904070)<br>I love CHINA<br>2017-04-25 20:46<br>赞(1) 踩(0) | <div><a href="http://www.showstart.com/event/25537" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/25537</a>06月02日 【MAO Live呈现】指弹不止弹VOL.1：GIN&amp;amp;amp;曹思义&amp;ldquo;Walking in the music&amp;rdquo;在音乐中徜徉音乐会 杭州 MAO Livehouse</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48904070)<br>I love CHINA<br>2017-04-25 20:54<br>赞(1) 踩(0) | <div><a href="http://www.showstart.com/event/25537" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/25537</a><br>06月02日 【MAO Live呈现】指弹不止弹VOL.1：GIN&amp;amp;amp;曹思义&amp;ldquo;Walking in the music&amp;rdquo;在音乐中徜徉音乐会 杭州 MAO Livehouse</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48904070)<br>I love CHINA<br>2017-04-25 20:46<br>赞(1) 踩(0) | <div><a href="http://www.showstart.com/event/25537" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/25537</a><br>06月02日 【MAO Live呈现】指弹不止弹VOL.1：GIN&amp;amp;amp;曹思义&amp;ldquo;Walking in the music&amp;rdquo;在音乐中徜徉音乐会 杭州 MAO Livehouse 1</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48904070)<br>I love CHINA<br>2017-04-25 20:46<br>赞(1) 踩(0) | <div><a href="http://www.showstart.com/event/25537" target="_blank" rel="nofollow noreferrer noopener">http://www.showstart.com/event/25537</a><br>06月02日 【MAO Live呈现】指弹不止弹VOL.1：GIN&amp;amp;amp;曹思义&amp;ldquo;Walking in the music&amp;rdquo;在音乐中徜徉音乐会 杭州 MAO Livehouse</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260335522)<br> <br>2017-04-21 00:20<br>赞(1) 踩(0) | <div>沐音堂 难忘的地方</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260335522)<br> <br>2017-04-21 00:18<br>赞(1) 踩(0) | <div>曹老师，支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285165347)<br><br>2017-04-02 04:07<br>赞(2) 踩(0) | <div>12</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/618d3133f3ff500f0e1f40212ff384b1.jpg)<br>方瑾萧](https://i.xiami.com/jinxiao) | **播放数**: 7919103<br>**粉丝数**: 297<br>**评论数**: 26<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/618d3133f3ff500f0e1f40212ff384b1.jpg)<br>方瑾萧](https://i.xiami.com/jinxiao) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 7919103<br>**粉丝数**: 297<br>**评论数**: 26<br> |
 
 ## 档案
 
@@ -64,8 +64,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320313911)<br><br>2020-01-18 06:39<br>赞(0) 踩(0) | <div>好好听的声音，希望多唱好听的跟我们分享 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402314758)<br>清风徐来，水波不兴<br>2019-08-16 11:23<br>赞(0) 踩(0) | <div>1992  应该27啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8958008)<br>keeping stro...<br>2017-09-21 05:44<br>赞(0) 踩(0) | <div>我特别喜欢你改编的波萨诺瓦的风格。。。 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |

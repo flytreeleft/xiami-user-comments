@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/04661cde80e73b222c77f53f5a021e38.jpg)<br>队长](https://i.xiami.com/youngcaptain) | **播放数**: 814940<br>**粉丝数**: 363<br>**评论数**: 35<br>**地区**: China 中国大陆<br>**风格**: 嘻哈 Hip-Hop, 流行说唱 Pop Rap, 陷阱说唱 Trap Rap<br> |
+| [![](../../images/musicians/04661cde80e73b222c77f53f5a021e38.jpg)<br>队长](https://i.xiami.com/youngcaptain) | **地区**: China 中国大陆<br>**风格**: 嘻哈 Hip-Hop, 流行说唱 Pop Rap, 陷阱说唱 Trap Rap<br>**播放数**: 814940<br>**粉丝数**: 363<br>**评论数**: 35<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -25,8 +22,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72229324)<br>我还没想好要写什么...<br>2020-08-22 22:11<br>赞(0) 踩(0) | <div>早晚火啊这</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327468673)<br>真诚换真诚<br>2020-07-24 21:27<br>赞(1) 踩(0) | <div>gogogo</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42398672)<br><br>2020-07-24 11:08<br>赞(1) 踩(0) | <div>听歌数求破，发现了宝藏男孩</div> |

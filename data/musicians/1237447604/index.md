@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/960210dc3fa040c285b355ad3c554b38.jpg)<br>王小刚音乐工作室](https://i.xiami.com/ganggang) | **播放数**: 3390440<br>**粉丝数**: 95<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/960210dc3fa040c285b355ad3c554b38.jpg)<br>王小刚音乐工作室](https://i.xiami.com/ganggang) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 3390440<br>**粉丝数**: 95<br>**评论数**: 6<br> |
 
 ## 档案
 
@@ -40,8 +40,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445989676)<br>如果音乐足够动人<br>2020-11-27 17:30<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44941106)<br> <br>2017-11-13 20:51<br>赞(0) 踩(0) | <div>加油哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247220685)<br> <br>2016-11-22 13:54<br>赞(0) 踩(0) | <div></div> |

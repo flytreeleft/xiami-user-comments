@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c9a7ce7c040146fca2387bf098a3cfbb.jpg)<br>宋捷](https://i.xiami.com/songjie) | **播放数**: 8805348<br>**粉丝数**: 4431<br>**评论数**: 172<br>**地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter, 流行 Pop, 独立电子乐 Indietronica<br> |
+| [![](../../images/musicians/c9a7ce7c040146fca2387bf098a3cfbb.jpg)<br>宋捷](https://i.xiami.com/songjie) | **地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter, 流行 Pop, 独立电子乐 Indietronica<br>**播放数**: 8805348<br>**粉丝数**: 4431<br>**评论数**: 172<br> |
 
 ## 档案
 
@@ -24,10 +24,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88293982)<br>杜绝是非<br>2020-10-15 10:01<br>赞(0) 踩(0) | <div>翻精选评论的时候，发现竟然是几年前的了 <img src="../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png">虾米是我的音乐树洞，很少跟别人分享，就像喜欢宋老师一样ahhh地铁上、走路时一直会开到最大声，去思考宋老师当时是什么样的状态写的这首歌，甚至去思考每一个旋律的合理性，就像是去围观一朵花开的姿态，在想盘腿坐在海边时宋老师给我弹这首歌的话，我会以什么样的眼神注视着夕阳害！不愧是我！希望宋老师开心真的爱你还有你的歌xixi</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88293982)<br>杜绝是非<br>2020-10-15 10:01<br>赞(0) 踩(0) | <div>翻精选评论的时候，发现竟然是几年前的了 <img src="../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png">虾米是我的音乐树洞，很少跟别人分享，就像喜欢宋老师一样ahhh地铁上、走路时一直会开到最大声，去思考宋老师当时是什么样的状态写的这首歌，甚至去思考每一个旋律的合理性，就像是去围观一朵花开的姿态，在想盘腿坐在海边时宋老师给我弹这首歌的话，我会以什么样的眼神注视着夕阳害！不愧是我！希望宋老师开心真的爱你还有你的歌xixi</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88293982)<br>杜绝是非<br>2020-10-15 10:01<br>赞(0) 踩(0) | <div>翻精选评论的时候，发现竟然是几年前的了 <img src="../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png">虾米是我的音乐树洞，很少跟别人分享，就像喜欢宋老师一样ahhh<br>地铁上、走路时一直会开到最大声，去思考宋老师当时是什么样的状态写的这首歌，甚至去思考每一个旋律的合理性，就像是去围观一朵花开的姿态，在想盘腿坐在海边时宋老师给我弹这首歌的话，我会以什么样的眼神注视着夕阳<br>害！不愧是我！希望宋老师开心真的爱你还有你的歌xixi</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88293982)<br>杜绝是非<br>2020-10-15 10:01<br>赞(0) 踩(0) | <div>翻精选评论的时候，发现竟然是几年前的了 <img src="../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png">虾米是我的音乐树洞，很少跟别人分享，就像喜欢宋老师一样ahhh<br>地铁上、走路时一直会开到最大声，去思考宋老师当时是什么样的状态写的这首歌，甚至去思考每一个旋律的合理性，就像是去围观一朵花开的姿态，在想盘腿坐在海边时宋老师给我弹这首歌的话，我会以什么样的眼神注视着夕阳<br>害！不愧是我！希望宋老师开心真的爱你还有你的歌xixi</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239878318)<br>我还没想好要写什么...<br>2020-09-27 19:48<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/561819)<br>自律<br>2020-08-24 23:02<br>赞(0) 踩(0) | <div>太哈这一型儿的了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796166)<br>最爱莫文蔚.....<br>2020-08-05 00:54<br>赞(0) 踩(0) | <div>加油YA！~ 喜欢~喜欢</div> |
@@ -44,7 +44,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4145368)<br>拜拜虾米 可+我扣扣音药<br>2019-07-08 18:48<br>赞(0) 踩(0) | <div>嘻嘻 宋捷</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10994142)<br>睡前梦游故事<br>2019-06-04 00:50<br>赞(2) 踩(0) | <div>我说这名字突然的熟悉，刚看完乐队的夏天痛仰的表演，原来是痛仰的吉他手 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242022847)<br>你当独立且自由。 <br>2019-05-22 18:45<br>赞(0) 踩(0) | <div>《我们还会在一起漫步》了解到宋捷，早一天生日2.27</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261314523)<br>爱音乐就是爱生活<br>2019-04-22 22:25<br>赞(1) 踩(0) | <div>歌收藏了很久了，一直很喜欢，很能引起我的共鸣，很舒服的感觉今天偶然打开主页我我。。气质爱了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261314523)<br>爱音乐就是爱生活<br>2019-04-22 22:25<br>赞(1) 踩(0) | <div>歌收藏了很久了，一直很喜欢，很能引起我的共鸣，很舒服的感觉<br>今天偶然打开主页<br>我我。。气质爱了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242496586)<br>善听<br>2019-04-03 23:18<br>赞(1) 踩(0) | <div>期待下一张专辑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411442983)<br><br>2019-03-29 04:06<br>赞(0) 踩(0) | <div>加油兄弟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3914288)<br><br>2019-02-26 01:00<br>赞(0) 踩(0) | <div>那年那时那人</div> |
@@ -149,7 +149,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10890284)<br>多吃多干<br>2013-04-18 19:39<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13554802)<br><br>2013-03-17 00:00<br>赞(0) 踩(0) | <div>够帅气！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/154641)<br>然后青天在上，星日朗朗<br>2013-02-12 10:33<br>赞(0) 踩(0) | <div>痛仰里边最具文艺气质的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38164)<br>钻石牌钻石型钻石牙刷。<br>2013-02-09 09:42<br>赞(16) 踩(0) | <div>5555555555555555555555555555555555555555555555555555555555555555555我是傻逼</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38164)<br>钻石牌钻石型钻石牙刷。<br>2013-02-09 09:42<br>赞(16) 踩(0) | <div>555555555555555555555555555555<br>555555555555555555555555555555<br>5555555我是傻逼</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101322)<br>不怎么听歌了<br>2014-04-17 16:50<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10706398)<br>2012-9-24<br>2012-12-21 14:19<br>赞(0) 踩(0) | <div>痛仰的人果然不一样。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11677424)<br>克己 慎独<br>2012-12-10 22:54<br>赞(0) 踩(0) | <div>会一直一直喜欢你支持你</div> |
@@ -168,9 +168,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8500792)<br><br>2012-04-11 13:38<br>赞(0) 踩(0) | <div>如果我是女孩！我也会爱上他！丫真我着迷！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/500443)<br><br>2012-03-30 22:47<br>赞(0) 踩(0) | <div>原来小倩的那首诗出自这里  很喜欢的风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/746612)<br><br>2012-03-28 23:34<br>赞(0) 踩(0) | <div>痛仰噶吉他手！！超掂！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478527)<br>好想跟衣服在洗衣机里滚<br>2012-03-23 18:15<br>赞(0) 踩(0) | <div>痛仰的吉他手+1没想到他那么小啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478527)<br>好想跟衣服在洗衣机里滚<br>2012-03-23 18:15<br>赞(0) 踩(0) | <div>痛仰的吉他手+1<br>没想到他那么小啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595353)<br>微笑，给你<br>2012-03-18 11:52<br>赞(0) 踩(0) | <div>心中的旋律</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/886551)<br><br>2012-02-09 11:18<br>赞(0) 踩(0) | <div>我就说这人怎么这么眼熟~~痛仰的吉他手啊。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/886551)<br><br>2012-02-09 11:18<br>赞(0) 踩(0) | <div>我就说这人怎么这么眼熟~~<br>痛仰的吉他手啊。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2012-01-06 15:11<br>赞(0) 踩(0) | <div>痛仰的吉他手居然如此小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321006)<br><br>2012-01-03 09:38<br>赞(0) 踩(0) | <div>想告诉你，她现在很好。很惊讶的在这里听到你给她写的歌。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2012-01-06 15:28<br>赞(0) 踩(0) | <div>搬个板凳过来听故事</div> |

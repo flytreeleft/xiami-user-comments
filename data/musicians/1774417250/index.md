@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/69bc99c552928f2184bc690a6382ecef.jpg)<br>荣玮](https://i.xiami.com/rongwei) | **播放数**: 1727193<br>**粉丝数**: 146<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 当代唱作人 Contemporary Singer-Songwriter, 独立流行 Indie Pop, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/69bc99c552928f2184bc690a6382ecef.jpg)<br>荣玮](https://i.xiami.com/rongwei) | **地区**: China 中国大陆<br>**风格**: 当代唱作人 Contemporary Singer-Songwriter, 独立流行 Indie Pop, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 1727193<br>**粉丝数**: 146<br>**评论数**: 7<br> |
 
 ## 档案
 
@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408921160)<br><br>2018-12-26 11:19<br>赞(2) 踩(0) | <div>我是个宝妈，也很喜欢听你这首歌，在烦扰的工作和生活中给我带来一缕纯净和活泼，支持你点的原创！ <img src="../../images/comments/286e5490345b55baf85bf75195319042.png"> <img src="../../images/comments/286e5490345b55baf85bf75195319042.png"> <img src="../../images/comments/286e5490345b55baf85bf75195319042.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377695197)<br><br>2018-11-08 12:56<br>赞(1) 踩(0) | <div>儿歌都很好听，粉了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337195718)<br><br>2018-03-24 06:06<br>赞(2) 踩(0) | <div>巧了，我也姓荣名金富。</div> |

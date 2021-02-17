@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7f7c4f91ae360673e0f4986431e466d9.jpg)<br>安与骑兵](https://i.xiami.com/anyuqibing) | **播放数**: 8095196<br>**粉丝数**: 1316<br>**评论数**: 51<br>**地区**: China 中国大陆<br>**风格**: 当代唱作人 Contemporary Singer-Songwriter, 独立民谣 Indie Folk<br> |
+| [![](../../images/musicians/7f7c4f91ae360673e0f4986431e466d9.jpg)<br>安与骑兵](https://i.xiami.com/anyuqibing) | **地区**: China 中国大陆<br>**风格**: 当代唱作人 Contemporary Singer-Songwriter, 独立民谣 Indie Folk<br>**播放数**: 8095196<br>**粉丝数**: 1316<br>**评论数**: 51<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411564901)<br><br>2020-12-20 17:14<br>赞(0) 踩(0) | <div>声音俏皮，柔美。听起来非常舒服，棒棒哒 <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png">[文字cool] <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411238851)<br>听就得了~嗨就够了~<br>2020-08-06 12:57<br>赞(0) 踩(0) | <div>做自己，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50104190)<br>无产阶级<br>2020-06-16 12:14<br>赞(0) 踩(0) | <div>很喜欢你们</div> |

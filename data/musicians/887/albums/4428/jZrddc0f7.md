@@ -40,14 +40,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3108584)<br>をすにばば<br>2020-02-27 20:57<br>赞(0) 踩(0) | <div>，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/171930096)<br> <br>2019-11-24 12:08<br>赞(0) 踩(0) | <div>才华跟人本身，其实是分开的，就像上帝操控的门与窗，看你怎么选</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358716050)<br><br>2018-10-10 06:28<br>赞(0) 踩(0) | <div>怀念我的青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345021201)<br>我还没想好要写什么...<br>2018-09-18 18:55<br>赞(0) 踩(0) | <div>几年过去了，你还好吗?冷漠的人还在笑，脆弱的人还在哭。太阳还是火热，月光还是皎洁。虚伪依然虚伪，高尚还在受伤。你的声音我们还在听，可你的身影却无影无踪。岁月如风，笑着哭那个美丽的梦。梦中的女孩笑靥如花，她是个美丽世界的孤儿，太早地回到了纯真的天国。而我们还在这里，在这里，听着那天籁般的歌，眼泪悄悄滑落，灵魂洗脱，微笑着生活！&amp;mdash;&amp;mdash;著名摇滚音乐人汪峰筠子长眠于长葛中州纪念园</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345021201)<br>我还没想好要写什么...<br>2018-09-18 18:55<br>赞(0) 踩(0) | <div>几年过去了，你还好吗?<br>冷漠的人还在笑，脆弱的人还在哭。<br>太阳还是火热，月光还是皎洁。<br>虚伪依然虚伪，高尚还在受伤。<br>你的声音我们还在听，可你的身影却无影无踪。<br>岁月如风，笑着哭那个美丽的梦。<br>梦中的女孩笑靥如花，她是个美丽世界的孤儿，<br>太早地回到了纯真的天国。而我们还在这里，<br>在这里，听着那天籁般的歌，<br>眼泪悄悄滑落，<br>灵魂洗脱，微笑着生活！<br>&amp;mdash;&amp;mdash;著名摇滚音乐人汪峰<br>筠子长眠于长葛中州纪念园</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358716050)<br><br>2018-09-17 06:41<br>赞(0) 踩(0) | <div>怀念青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28878477)<br>我还没想好要写什么...<br>2018-09-15 23:55<br>赞(0) 踩(0) | <div>&amp;ldquo;我心里什么都没有就像没有痛苦&amp;rdquo;&amp;ldquo;继续走 继续失去&amp;rdquo;听到这两句来搜的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28878477)<br>我还没想好要写什么...<br>2018-09-15 23:55<br>赞(0) 踩(0) | <div>&amp;ldquo;我心里什么都没有就像没有痛苦&amp;rdquo;<br>&amp;ldquo;继续走 继续失去&amp;rdquo;<br><br>听到这两句来搜的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197282814)<br>我还没想好要写什么...<br>2018-09-14 19:52<br>赞(3) 踩(0) | <div>Gsu我是yyu，从朋友口中知道你的婚纱照都已经拍了，肯定很美吧，我们的老旧结局应该发生在也早就停止在2011年的夏天，谢谢你一直履行着你答应过的一切，哪怕一个字你都没有食言，而我&amp;hellip;&amp;hellip;我们的结局并没有因为当年十几二十岁两个人的祈祷而免于世俗，但是今天我希望我一个人的祝福能让你一辈子幸福，我的初恋。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282880744)<br>平淡 平凡 用心去温暖<br>2018-09-20 09:24<br>赞(0) 踩(0) | <div>突然被您的留言感动到</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358058216)<br>我还没想好要写什么...<br>2018-09-14 07:30<br>赞(1) 踩(0) | <div>现在 能唱歌 唱好歌不多了。用心唱的就更是寥寥无几，那么汪峰就是我心中那么一位 能唱歌 唱好歌 用心唱出内心的歌手。</div> |
@@ -69,7 +69,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358716050)<br><br>2018-06-15 04:36<br>赞(1) 踩(0) | <div>怀念青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333424627)<br><br>2018-06-12 08:06<br>赞(2) 踩(0) | <div>青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333424627)<br><br>2018-06-11 23:17<br>赞(1) 踩(0) | <div>青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299013364)<br>无论你盛开或是不盛开，花...<br>2018-06-01 07:00<br>赞(1) 踩(0) | <div>终将逝去的青春，有苦涩也有深情追忆～还记得那个愿为你上九天揽月 下五洋捉鳖的人吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299013364)<br>无论你盛开或是不盛开，花...<br>2018-06-01 07:00<br>赞(1) 踩(0) | <div>终将逝去的青春，有苦涩也有深情追忆～<br>还记得那个愿为你上九天揽月 下五洋捉鳖的人吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96635664)<br>爱的代价<br>2018-05-28 17:15<br>赞(1) 踩(0) | <div>曾经以为拥有了就不会失去，后来明白了拥有了不珍惜你也会失去，毕竟谁也不是谁的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74019960)<br><br>2018-05-24 03:20<br>赞(2) 踩(0) | <div>说实话，人，我不置评。歌。就这个歌，我喜欢，而且我一直喜欢。和任何因素无关</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41828526)<br>海量歌无版权做歌单无意义<br>2018-05-20 20:21<br>赞(0) 踩(0) | <div>好歌！</div> |
@@ -134,7 +134,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318213838)<br> <br>2017-09-30 07:31<br>赞(0) 踩(0) | <div>高三那年天天听的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477519)<br>爱  是生命的和弦，而不...<br>2017-09-25 21:01<br>赞(0) 踩(0) | <div>间奏吉他 醉了&amp;hellip;&amp;hellip;&amp;hellip;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40343140)<br><br>2017-10-11 22:38<br>赞(0) 踩(0) | <div>艾玛，fusion萱还好这口阿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2017-09-12 09:52<br>赞(0) 踩(0) | <div>继续失去在我没有意识到的青春说不出来，就已经失去。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2017-09-12 09:52<br>赞(0) 踩(0) | <div>继续失去<br>在我没有意识到的青春<br><br>说不出来，就已经失去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252142350)<br><br>2017-04-28 17:19<br>赞(2) 踩(0) | <div>继续走，继续忘记</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18269116)<br>我还没想好要写什么<br>2017-03-25 19:57<br>赞(2) 踩(0) | <div>喜欢汪峰的唯一的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18074488)<br><br>2017-01-23 09:58<br>赞(0) 踩(0) | <div>半壁的这首歌我服</div> |
@@ -178,8 +178,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50525877)<br><br>2015-06-03 00:24<br>赞(1) 踩(0) | <div>继续走，继续失去，在我没有意识到的青春。我们用青春换来了神魔，换来了只是一声叹息</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10441212)<br>！<br>2015-05-25 18:55<br>赞(0) 踩(0) | <div>吉他solo……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23456246)<br><br>2015-05-24 21:54<br>赞(0) 踩(0) | <div>继续走，继续失去！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-05-12 06:15<br>赞(0) 踩(0) | <div>继续走继续失去</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9062139)<br>我的青春在树上<br>2015-05-11 22:15<br>赞(0) 踩(0) | <div>我脸上蒙着雨，就像蒙着幸福；我心里什么都没有，就像没有痛苦。青春，继续走。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-05-12 06:15<br>赞(0) 踩(0) | <div>继续走<br>继续失去</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9062139)<br>我的青春在树上<br>2015-05-11 22:15<br>赞(0) 踩(0) | <div>我脸上蒙着雨，就像蒙着幸福；<br>我心里什么都没有，就像没有痛苦。<br>青春，继续走。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6280279)<br>爱音乐，爱生活。<br>2015-05-04 21:44<br>赞(0) 踩(0) | <div>好歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13619209)<br>暂无签名~<br>2015-04-20 11:20<br>赞(0) 踩(0) | <div>这首歌可能是汪峰最能打动人的一首歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40069270)<br><br>2015-04-17 22:35<br>赞(1) 踩(0) | <div>24岁了 青春来了走了 我竟还是几年前的自己 感觉未来茫茫未可知</div> |
@@ -257,7 +257,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279408818)<br>南泊的胖子<br>2017-09-15 08:34<br>赞(0) 踩(0) | <div>许巍更像民谣，介于摇滚民谣之间的风格，个人理解，没有撕裂的温柔和疯狂的呐喊，所以不是纯摇滚。 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206332903)<br><br>2017-09-18 02:45<br>赞(0) 踩(0) | <div><q><b>胖刘说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279408818)<br>南泊的胖子<br>2017-09-18 07:04<br>赞(0) 踩(0) | <div><q><b>小骨说：</b></q></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236483817)<br><br>2017-09-27 17:33<br>赞(0) 踩(0) | <div>汪峰后来的歌就有点装了！无病呻吟！</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236483817)<br><br>2017-09-27 17:33<br>赞(0) 踩(0) | <div>汪峰后来的歌就有点装了！<br>无病呻吟！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270171571)<br><br>2017-10-10 17:43<br>赞(0) 踩(0) | <div><q><b>疯人说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52835508)<br><br>2017-11-07 12:55<br>赞(0) 踩(0) | <div><q><b>其乐盈盈说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72644558)<br> <br>2017-12-22 14:07<br>赞(0) 踩(0) | <div>喜欢许巍，许巍应该属于轻摇滚吧</div> |
@@ -271,13 +271,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16363026)<br><br>2014-06-29 15:54<br>赞(0) 踩(0) | <div>#继续走 继续失去 在我没有意识到的青春#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16363026)<br><br>2014-06-29 15:49<br>赞(0) 踩(0) | <div>＃继续走 继续失去 在我没有意识到的青春＃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369098)<br>说个笑话，纪念我<br>2014-06-26 14:19<br>赞(0) 踩(0) | <div>继续走，继续失去</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9564787)<br><br>2014-06-19 18:51<br>赞(0) 踩(0) | <div>外面下起了小雨雨滴轻飘飘地像我年轻的岁月我脸上蒙着雨水就像蒙着幸福我心里什么都没有就像没有痛苦这个世界什么都有就像每个人都拥有继续走继续失去在我没有意识到的青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9564787)<br><br>2014-06-19 18:51<br>赞(0) 踩(0) | <div>外面下起了小雨<br>雨滴轻飘飘地像我年轻的岁月<br>我脸上蒙着雨水就像蒙着幸福<br><br>我心里什么都没有<br>就像没有痛苦<br>这个世界什么都有就像每个人都拥有<br><br>继续走<br>继续失去<br>在我没有意识到的青春</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41482099)<br>不要停止我的音乐～<br>2014-10-11 10:02<br>赞(0) 踩(0) | <div>呜呜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34340338)<br>暂无签名~<br>2014-06-05 20:40<br>赞(0) 踩(0) | <div>很美的歌，对于青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7706807)<br><br>2014-06-03 09:00<br>赞(0) 踩(0) | <div>以前的人青春期很长，热情、持久和专注都让人感动。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13275508)<br>既然不屑为伍，何必害怕与...<br>2014-05-31 07:03<br>赞(0) 踩(0) | <div>这个世界什么都有就像每个人都拥有。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/876606)<br>纯音系列<br>2014-05-12 17:05<br>赞(0) 踩(0) | <div>这个世界什么都有　就像每个人都拥有继续走　继续失去</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20015634)<br><br>2014-04-19 21:38<br>赞(2) 踩(0) | <div>青春的悄然而去，就像它的到来，总是那样自然而不为人察觉，所有关于青春的记忆充实而又空白，充实的是自己曾经拥有着和别人一样的青葱岁月，做过所有这个年纪的人做过的事，而空白的是曾经许下的誓言、曾经的梦想就像风吹一样，消失的一干二净。就这样走过了青春，所有关于青春的忆记，已经变成一张薄薄的纸里单调的平面图，所有关于那个阶段所应该有的颜色，都已逐渐流逝褪去，只留下一个黑白影像。我们珍惜短暂的时光，就像珍惜并不长远的生命，青春总有走完的最后一步，生活却没有最终走完的一天。珍惜，珍重！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/876606)<br>纯音系列<br>2014-05-12 17:05<br>赞(0) 踩(0) | <div>这个世界什么都有　就像每个人都拥有<br>继续走　继续失去</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20015634)<br><br>2014-04-19 21:38<br>赞(2) 踩(0) | <div>青春的悄然而去，就像它的到来，总是那样自然而不为人察觉，所有关于青春的记忆充实而又空白，充实的是自己曾经拥有着和别人一样的青葱岁月，做过所有这个年纪的人做过的事，而空白的是曾经许下的誓言、曾经的梦想就像风吹一样，消失的一干二净。<br>就这样走过了青春，所有关于青春的忆记，已经变成一张薄薄的纸里单调的平面图，所有关于那个阶段所应该有的颜色，都已逐渐流逝褪去，只留下一个黑白影像。<br>我们珍惜短暂的时光，就像珍惜并不长远的生命，青春总有走完的最后一步，生活却没有最终走完的一天。珍惜，珍重！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19606022)<br>唯美和风控<br>2014-03-22 03:28<br>赞(0) 踩(0) | <div>评价：5颗星</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8068976)<br><br>2014-03-19 13:56<br>赞(0) 踩(0) | <div>汪峰写给筠子的，汪峰版改了两个字，把“继续忘记”改成了“继续失去”。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/580673)<br><br>2014-03-17 00:59<br>赞(0) 踩(0) | <div>继续走, 继续失去, 这个老男人的歌还不错听...^_^@马小可KE</div> |
@@ -315,8 +315,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23879134)<br><br>2013-10-07 10:55<br>赞(0) 踩(0) | <div>奔三的可以强烈感受下！挺适合的一首歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14408274)<br><br>2013-10-06 17:55<br>赞(0) 踩(0) | <div>好好听，好好听~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21812030)<br><br>2013-10-05 22:31<br>赞(0) 踩(0) | <div>青春走了，就走了。。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23741458)<br><br>2013-10-05 15:08<br>赞(0) 踩(0) | <div>“我打算在黄昏时候出发 搭一辆车去远方 今晚那儿有我友人的盛宴 外面下起了小雨雨滴轻飘飘得像我年轻的岁月 继续走…继续忘记……在我没有意识到的青春”多么美好的歌词，有一丝伤感，很有味道。@汪峰</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15431397)<br><br>2013-10-04 20:30<br>赞(0) 踩(0) | <div>我打算在黄昏时候出发,搭一辆车去远方,今晚那儿有我友人的盛宴,我急忙穿好衣裳推门而出,迎面扑来是街上闷热的欲望,我轻轻一跃跳进人的河里,外面下起了小雨,雨滴轻飘飘得像我年轻的岁月,我脸上蒙着雨水就像蒙着幸福,我心里什么都没有 就像没有痛苦,这个世界什么都有就像每个人都拥有</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23741458)<br><br>2013-10-05 15:08<br>赞(0) 踩(0) | <div>“我打算在黄昏时候出发 搭一辆车去远方 今晚那儿有我友人的盛宴 外面下起了小雨<br>雨滴轻飘飘得像我年轻的岁月 继续走…继续忘记……在我没有意识到的青春”多么美好的歌词，有一丝伤感，很有味道。@汪峰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15431397)<br><br>2013-10-04 20:30<br>赞(0) 踩(0) | <div>我打算在黄昏时候出发,搭一辆车去远方,今晚那儿有我友人的盛宴,我急忙穿好衣裳推门而出,迎面扑来是街上闷热的欲望,我轻轻一跃跳进人的河里,外面下起了小雨<br>,雨滴轻飘飘得像我年轻的岁月,我脸上蒙着雨水就像蒙着幸福,我心里什么都没有 就像没有痛苦,这个世界什么都有就像每个人都拥有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14425879)<br><br>2013-10-03 19:13<br>赞(0) 踩(0) | <div>我的心里什么都没有，就像没有痛苦。这个世界什么都有，就像每个人都拥有。继续走，继续失去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17296206)<br><br>2013-10-03 12:50<br>赞(0) 踩(0) | <div>脸上蒙着细雨 就像蒙着幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13767514)<br><br>2013-10-03 10:46<br>赞(0) 踩(0) | <div>还是原唱最有味道呢@pertho 继续走，继续失去，在我没有意识到的青春。。。。</div> |
@@ -343,7 +343,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2308985)<br><br>2013-08-24 21:07<br>赞(0) 踩(0) | <div>@水滴0607</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20101557)<br><br>2013-08-24 01:04<br>赞(0) 踩(0) | <div>2000年时的感动，那时的我们在做什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15948347)<br><br>2013-08-23 23:53<br>赞(0) 踩(0) | <div>这个世界什么都有 就像每个人都拥有</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19919651)<br><br>2013-08-22 14:48<br>赞(0) 踩(0) | <div>青春：汪峰.我打算在黄昏的时候出发,搭一辆车去远方.今晚那有我友人的盛宴,我急忙穿好衣服推门而出,迎面扑来的是街上,闷热的欲望.我轻轻一跃跳入人海里,外面下起了小雨.雨滴轻飘飘地像我年轻岁月,我脸上蒙着雨水,就像蒙着幸福,我心里什么都没有.就像没有痛苦这个世界什么都有</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19919651)<br><br>2013-08-22 14:48<br>赞(0) 踩(0) | <div>青春：汪峰.我打算在黄昏的时候出发,搭一辆车去远方.今晚那有我友人的盛宴,我急忙穿好衣服推门而出,迎面扑来的是街上,闷热的欲望.<br>我轻轻一跃跳入人海里,外面下起了小雨.雨滴轻飘飘地像我年轻岁月,我脸上蒙着雨水,就像蒙着幸福,我心里什么都没有.就像没有痛苦<br>这个世界什么都有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8201669)<br>每一刻都是崭新的<br>2013-08-17 20:14<br>赞(0) 踩(0) | <div>继续走，继续失去。在我没有意识到的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7740898)<br>有音乐就不会有世界末日<br>2013-08-17 00:36<br>赞(0) 踩(0) | <div>早期的专辑还不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5892696)<br> <br>2013-08-16 22:32<br>赞(0) 踩(0) | <div>每首喜欢的歌，都代表了曾经的一段时光，一段回忆，一种心情，一种状态。</div> |
@@ -357,7 +357,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-08-08 07:31<br>赞(0) 踩(0) | <div>继续走 继续失去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4849275)<br><br>2013-08-07 14:00<br>赞(0) 踩(0) | <div>继续走 继续失去。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18601842)<br><br>2013-08-06 13:19<br>赞(0) 踩(0) | <div>继续走，继续失去，在我还没有意识到的青春！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-08-06 11:49<br>赞(0) 踩(0) | <div>在汪峰写给筠子的版本他说过：继续走继续忘记然而斯人已去于是他在花火里唱到：继续走继续失去</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-08-06 11:49<br>赞(0) 踩(0) | <div>在汪峰写给筠子的版本<br>他说过：继续走继续忘记<br><br>然而斯人已去<br>于是他在花火里唱到：<br>继续走继续失去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6629718)<br>凉生过云<br>2013-08-05 01:15<br>赞(0) 踩(0) | <div>這個世界什麽都沒有就像每個人都擁有。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13961108)<br><br>2013-08-04 21:27<br>赞(0) 踩(0) | <div>单曲循环，其实是在听自己的一种心情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11782933)<br><br>2013-08-04 19:19<br>赞(0) 踩(0) | <div>好喜欢!</div> |
@@ -390,27 +390,27 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6977807)<br><br>2013-05-09 02:06<br>赞(0) 踩(0) | <div>在一个夜回想另一个夜，成都的闷热的夜，广州的阴雨的夜，张掖的列车上的夜，青海湖边的冷到心底的夜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3094689)<br> <br>2013-05-08 00:39<br>赞(0) 踩(0) | <div>我心里什么都没有 就像没有痛苦  这个世界什么都有 就像每个人都拥有 继续走 继续失去 在我没有意识到的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-05-06 05:40<br>赞(1) 踩(0) | <div>汪峰一开口 我就哭了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:16<br>赞(0) 踩(0) | <div>我心里什么都没有就像没有痛苦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2013-05-01 21:16<br>赞(0) 踩(0) | <div>我心里什么都没有<br>就像没有痛苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5983196)<br><br>2013-04-28 21:34<br>赞(1) 踩(0) | <div>前天看＜致青春＞，一直想到的都是：＂继续走继续失去，在我没有意识到的青春＂。它来自汪峰的＜青春＞，在那张我最爱的＜花火＞专辑里。@</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8171162)<br><br>2013-04-23 09:29<br>赞(0) 踩(0) | <div>”我打算在黄昏的时候出发 搭一辆车去远方“  不能解释心情的感觉真要命</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316579)<br><br>2013-04-23 02:38<br>赞(0) 踩(0) | <div>证明一下我在这个点醒着。。。生活急需调整</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2609175)<br><br>2013-04-07 10:40<br>赞(0) 踩(0) | <div>我心里什么都没有，就像没有痛苦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1827338)<br><br>2013-03-09 20:02<br>赞(0) 踩(0) | <div>特别怀旧的曲调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1246577)<br>暂无签名~<br>2013-03-07 16:48<br>赞(0) 踩(0) | <div>今天适合听这首---------------</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2250561)<br><br>2013-02-04 13:40<br>赞(0) 踩(0) | <div>继续走，继续忘记，继续走，继续失去，她有多少可以失去？他有多少可以忘记？都在在我们没有意识到的青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2250561)<br><br>2013-02-04 13:40<br>赞(0) 踩(0) | <div>继续走，继续忘记，<br>继续走，继续失去，<br><br>她有多少可以失去？他有多少可以忘记？<br><br>都在在我们没有意识到的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/899785)<br><br>2013-01-29 16:47<br>赞(0) 踩(0) | <div>“继续走，继续失去，在我没有意识到的青春......”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/488004)<br><br>2013-01-29 14:24<br>赞(0) 踩(0) | <div>青春嘛你懂哒！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11783410)<br><br>2013-01-28 11:00<br>赞(0) 踩(0) | <div>继续走，继续失去..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3148916)<br><br>2013-01-24 17:43<br>赞(0) 踩(0) | <div>第一版听的是筠子的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4980663)<br>好青年都在过屎一样的生活<br>2013-01-24 17:33<br>赞(0) 踩(0) | <div>我心里什么都没有，就像没有痛苦。继续走，继续失去。在我没有意识到的青春。（每次听到这首歌都百感交集。。。）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5207254)<br><br>2013-01-07 00:00<br>赞(0) 踩(0) | <div>继续走，继续失去~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11055805)<br>我还没想好要写什么...<br>2013-01-03 20:13<br>赞(0) 踩(0) | <div>继续走　继续失去在我没有意识到的青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11055805)<br>我还没想好要写什么...<br>2013-01-03 20:13<br>赞(0) 踩(0) | <div>继续走　继续失去<br>在我没有意识到的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11688383)<br><br>2012-12-30 13:20<br>赞(0) 踩(0) | <div>——所有错误从这里落幕，别再跟着铭心刻骨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11688383)<br><br>2012-12-30 13:13<br>赞(0) 踩(0) | <div>所有错误从这里落幕，别再跟着铭心刻骨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11688383)<br><br>2012-12-29 22:14<br>赞(0) 踩(0) | <div>所有错误从这里落幕，别跟着我铭心刻骨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9245417)<br><br>2012-12-15 11:51<br>赞(0) 踩(0) | <div>与此时此刻天气 心情吻合</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11873253)<br><br>2012-12-13 21:41<br>赞(0) 踩(0) | <div>推荐时间。。。以此曲献给我们逝去的青春。。。这个世界什么都有就像每个人都拥有。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6848558)<br>咕嘿嘿<br>2012-12-12 23:41<br>赞(0) 踩(0) | <div>/继续走　继续失去在我没有意识到的青春 /</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6848558)<br>咕嘿嘿<br>2012-12-12 23:41<br>赞(0) 踩(0) | <div>/继续走　继续失去<br>在我没有意识到的青春 /</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5820588)<br>如诗，如剑。<br>2012-12-09 18:13<br>赞(0) 踩(0) | <div>“这个世界什么都有 就像每个人都拥有……”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2974707)<br><br>2012-12-01 17:49<br>赞(0) 踩(0) | <div>继续走，继续失去。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11620972)<br><br>2012-11-23 16:57<br>赞(0) 踩(0) | <div>青春</div> |
@@ -430,21 +430,21 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/389969)<br><br>2012-09-04 11:00<br>赞(0) 踩(0) | <div>外面下起小雨。。继续走。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12019)<br><br>2012-09-01 21:38<br>赞(0) 踩(0) | <div>我打算在黄昏时候出发，打一辆车去远方。跟老王老杨一起喝酒，从1995年的高中到现在整整17年，曾经少年，已如此遥远。今夜汪峰工体开唱：继续走继续失去，在我没有意识到的青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1667835)<br> <br>2012-08-28 23:31<br>赞(0) 踩(0) | <div>筠子？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-08-28 19:58<br>赞(0) 踩(0) | <div>继续走　继续失去在我没有意识到的青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-08-28 19:58<br>赞(0) 踩(0) | <div>继续走　继续失去<br>在我没有意识到的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6572313)<br><br>2012-08-25 22:29<br>赞(0) 踩(0) | <div>很简单，是很顺口，又能让人有所思的一首歌…………十多年了，我们都已经老去，继续走，继续失去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6470763)<br><br>2012-08-19 14:45<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3552442)<br><br>2012-08-08 21:56<br>赞(0) 踩(0) | <div>昨夜，我又唱起这只曲儿：“ 外面下起了小雨，雨滴轻飘飘地像我年轻的岁月，我脸上蒙着雨水，就像蒙着幸福；我心里什么都没有，就像没有痛苦，这个世界什么都有，就像每个人都拥有。继续走，继续失去，在我没有意识到的青春。。。”  如果青春它真的曾经来过，对我来说，死而无憾！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9910690)<br><br>2012-07-29 18:37<br>赞(0) 踩(0) | <div>大概十几年前第一次听到这首歌，一直喜欢到今天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4053715)<br>风杳杳，何处寻<br>2012-07-20 17:58<br>赞(0) 踩(0) | <div>继续走，继续失去，在我没有意识到的青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/499894)<br><br>2012-07-15 12:31<br>赞(0) 踩(0) | <div>“我心里什么都没有　就像没有痛苦 这个世界什么都有　就像每个人都拥有 继续走　继续失去 在我没有意识到的青春 ”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/499894)<br><br>2012-07-15 10:27<br>赞(0) 踩(0) | <div>我心里什么都没有　就像没有痛苦这个世界什么都有　就像每个人都拥有继续走　继续失去在我没有意识到的青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/499894)<br><br>2012-07-15 10:27<br>赞(0) 踩(0) | <div>我心里什么都没有　就像没有痛苦<br>这个世界什么都有　就像每个人都拥有<br>继续走　继续失去<br>在我没有意识到的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4455457)<br>不妥协直到变老<br>2012-07-05 20:36<br>赞(0) 踩(0) | <div>我打算在黄昏时候出发，搭一辆车去远方。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1657850)<br><br>2012-07-03 21:48<br>赞(0) 踩(0) | <div>继续走，继续失去。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-06-26 04:52<br>赞(0) 踩(0) | <div>继续走　继续失去在我没有意识到的青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/593421)<br>大隐于市<br>2012-06-25 21:21<br>赞(0) 踩(0) | <div>我心里什么都没有　就像没有痛苦这个世界什么都有　就像每个人都拥有继续走　继续失去在我没有意识到的青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2012-06-26 04:52<br>赞(0) 踩(0) | <div>继续走　继续失去<br>在我没有意识到的青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/593421)<br>大隐于市<br>2012-06-25 21:21<br>赞(0) 踩(0) | <div>我心里什么都没有　就像没有痛苦<br>这个世界什么都有　就像每个人都拥有<br>继续走　继续失去<br>在我没有意识到的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5073144)<br><br>2012-06-23 17:17<br>赞(0) 踩(0) | <div>继续走，继续失去。成长的过程中你不一定能得到些什么，但你一定会失去些什么！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4750448)<br>nananananana<br>2012-06-19 21:57<br>赞(0) 踩(0) | <div>汪峰的旧作青春，这词“我心里什么都没有　就像没有痛苦这个世界什么都有　就像每个人都拥有继续走　继续失去在我没有意识到的青春”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8957466)<br><br>2012-06-13 17:51<br>赞(0) 踩(0) | <div>这个世界什么都有就像每个人都拥有继续走继续失去在我没有意识到的青春</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4750448)<br>nananananana<br>2012-06-19 21:57<br>赞(0) 踩(0) | <div>汪峰的旧作青春，这词<br>“我心里什么都没有　就像没有痛苦<br>这个世界什么都有　就像每个人都拥有<br>继续走　继续失去<br>在我没有意识到的青春”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8957466)<br><br>2012-06-13 17:51<br>赞(0) 踩(0) | <div>这个世界什么都有<br>就像每个人都拥有<br>继续走<br>继续失去<br>在我没有意识到的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9306731)<br><br>2012-06-09 10:49<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5960645)<br>灯光再亮也抱住你。<br>2012-05-24 17:38<br>赞(0) 踩(0) | <div>我真的爱死了这首歌~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6204571)<br><br>2012-05-24 17:16<br>赞(0) 踩(0) | <div>我真的爱死了这首歌~</div> |
@@ -471,9 +471,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6818624)<br>不奋斗的人，永远不能找到...<br>2011-12-13 23:12<br>赞(0) 踩(0) | <div>你的青春还在吗?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1388053)<br><br>2011-12-09 22:10<br>赞(0) 踩(0) | <div>我心里什么都没有 就象没有痛苦 这个世界什么都有 就象每个人都拥有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1388053)<br><br>2011-12-09 22:09<br>赞(0) 踩(0) | <div>我心里什么都没有 就象没有痛苦 这个世界什么都有 就象每个人都拥有</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6965000)<br><br>2011-11-26 10:51<br>赞(0) 踩(0) | <div>迎面扑来的是街上闷热的欲望我轻轻一跃跳进人的河里/外面下起了小雨雨滴轻飘飘地象我年轻的岁月 /我脸上蒙着雨水 就象蒙着幸福 /我心里什么都没有 就象没有痛苦/这个世界什么都有 就象每个人都拥有/继续走 继续失去 在我没有意识到的青春 /</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6965000)<br><br>2011-11-26 10:51<br>赞(0) 踩(0) | <div>迎面扑来的是街上闷热的欲望我轻轻一跃跳进人的河里/<br>外面下起了小雨雨滴轻飘飘地象我年轻的岁月 /<br>我脸上蒙着雨水 就象蒙着幸福 /<br>我心里什么都没有 就象没有痛苦/<br>这个世界什么都有 就象每个人都拥有/<br>继续走 继续失去 在我没有意识到的青春 /</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/752170)<br><br>2011-11-19 10:59<br>赞(0) 踩(0) | <div>这应该是这张专辑里传唱最多的一首歌了，的确很棒。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1081211)<br>常想一二<br>2011-10-06 18:47<br>赞(0) 踩(0) | <div>“继续走，继续失去，在没有意识到的青春”青春总是在我们指尖，在我们悲伤的时候，在我们孤独的时候，在我们悔恨的时候，不经意地遗失。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1081211)<br>常想一二<br>2011-10-06 18:47<br>赞(0) 踩(0) | <div>“继续走，继续失去，在没有意识到的青春”青春总是在我们指尖，在我们悲伤的<br>时候，在我们孤独的时候，在我们悔恨的时候，不经意地遗失。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6021993)<br>爱上层楼 <br>2011-10-01 17:38<br>赞(0) 踩(0) | <div>aa</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379161)<br><br>2011-09-28 20:11<br>赞(0) 踩(0) | <div>继续走 继续失去 继续拥有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182037)<br><br>2011-09-17 13:55<br>赞(0) 踩(0) | <div>是一把，@凯歌姓朱</div> |
@@ -488,7 +488,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4069734)<br>暂无签名~<br>2011-07-22 10:48<br>赞(1) 踩(0) | <div>听得我心痛，想起那段梦碎的日子，往日不堪回首啊·······继续走，继续逝去，在我没有意识到的青春·······听完被感动的话就分享一下吧，呵呵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2838646)<br><br>2011-07-18 17:06<br>赞(0) 踩(0) | <div>下班了，看这天又要下雨······继续走，继续失去，在我没有意识到的青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2033991)<br><br>2011-07-12 13:53<br>赞(0) 踩(0) | <div>继续走，继续失去，在我没有意识到的青春</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2448432)<br><br>2011-07-04 22:26<br>赞(0) 踩(0) | <div>我心里什么都没有 就象没有痛苦这个世界什么都有 就象每个人都拥有</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2448432)<br><br>2011-07-04 22:26<br>赞(0) 踩(0) | <div>我心里什么都没有 就象没有痛苦<br>这个世界什么都有 就象每个人都拥有</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3559188)<br> <br>2011-06-26 21:15<br>赞(0) 踩(0) | <div>@哈尼姬  最近的出口。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2038525)<br><br>2011-06-12 13:07<br>赞(0) 踩(0) | <div>喜欢这歌词，多么残酷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/472219)<br><br>2011-06-10 13:48<br>赞(0) 踩(0) | <div>昨天毕业晚会上听到的。。那个吉他弹得太好了</div> |
@@ -506,7 +506,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1025027)<br>.<br>2011-03-18 19:29<br>赞(0) 踩(0) | <div>我最不屑的就是把青春献给摇滚。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2285492)<br><br>2011-03-15 06:12<br>赞(0) 踩(0) | <div>春秋几度，年华已逝；时光如梭，青春渐远。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42916)<br>留一部《英国病人》分享<br>2011-03-14 17:51<br>赞(0) 踩(0) | <div>我的青春什么都没有。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1618847)<br><br>2011-03-09 15:04<br>赞(0) 踩(0) | <div>如果你不听过那你就out了！！！很不错的歌曲，大家来听听！让人舞动的旋律~~让人舞动的旋律~~如果你不听过那你就out了！！！很不错的歌曲，大家来听听！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1618847)<br><br>2011-03-09 15:04<br>赞(0) 踩(0) | <div>如果你不听过那你就out了！！！很不错的歌曲，大家来听听！让人舞动的旋律~~<br>让人舞动的旋律~~如果你不听过那你就out了！！！很不错的歌曲，大家来听听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3112513)<br><br>2011-03-07 16:06<br>赞(0) 踩(0) | <div>世界什么都有就象每个人都拥有的青春, 世界的拥有与自己的失去了青春，形成了又一个对比，而青春其实又是每个人都拥有的，说白了，他的意思就是想说别人用使用了青春实现了自己的目标，自己失去了青春还没有实现。我脸上被雨水后的幸福，其实是短暂的，想起的年青就更加意识到了的现在，现在跟过去就自然产生了青春的失去，那幸福只是就象，只是似乎而已，而痛苦的就象，其实就是有痛苦，心理有，但不想说出来，然后说就象没有，但这个就象没有比喻心理什么都没有，其实就是有。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128372)<br><br>2011-02-23 14:26<br>赞(0) 踩(0) | <div>写给筠子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2787772)<br><br>2011-02-10 09:42<br>赞(0) 踩(0) | <div>好听，让人回想曾经的过去</div> |
@@ -520,9 +520,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403430)<br>天空一无所有，为何给我安...<br>2010-09-13 00:06<br>赞(0) 踩(0) | <div>筠子版更痛彻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/528019)<br><br>2010-09-06 12:19<br>赞(0) 踩(0) | <div>心弦颤抖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1248102)<br><br>2010-08-02 10:13<br>赞(0) 踩(0) | <div>第一首记住会唱的汪峰的歌。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/393169)<br><br>2010-04-05 12:21<br>赞(0) 踩(0) | <div>歌词有误：“我轻轻一跃跳入海里”应为：“我轻轻一跃跳人的河里”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/393169)<br><br>2010-04-05 12:21<br>赞(0) 踩(0) | <div>歌词有误：<br>“我轻轻一跃跳入海里”应为：“我轻轻一跃跳人的河里”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/487088)<br>我爱你，是我的幸运。<br>2009-12-28 21:16<br>赞(0) 踩(0) | <div>去远方。今晚那儿有我友人的盛宴。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-10-06 14:36<br>赞(0) 踩(0) | <div>每每听这首歌就想起了筠子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-10-06 14:36<br>赞(0) 踩(0) | <div>每每听这首歌<br>就想起了筠子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179917)<br><br>2009-10-04 00:56<br>赞(0) 踩(0) | <div>继续走，继续失去，在我没有意识到的青春！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2009-06-08 20:25<br>赞(0) 踩(0) | <div>流逝的，总是让人想珍惜的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10149)<br><br>2009-05-19 16:23<br>赞(0) 踩(0) | <div>大俗歌呀，但是还是比较有感嚼的</div> |

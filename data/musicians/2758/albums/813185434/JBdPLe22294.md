@@ -60,8 +60,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22910128)<br>我把尖叫都 留在了纸杯里<br>2019-06-09 19:36<br>赞(0) 踩(0) | <div>突然跳出来 让我脑子里 全是过去</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11199124)<br>想去原始森林<br>2019-03-28 14:17<br>赞(0) 踩(0) | <div>很喜欢这种风格呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79512862)<br>再见xiami<br>2018-06-01 10:30<br>赞(0) 踩(0) | <div>真是难听，我居然听完了</div> |
@@ -107,7 +107,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51886960)<br><br>2015-12-13 17:12<br>赞(0) 踩(0) | <div>求推荐同类型的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51886960)<br><br>2015-12-13 17:10<br>赞(35) 踩(0) | <div>咦？原来还有人觉得难听啊，我以为这是难得的一首惊艳好歌</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39426392)<br>虾米，我爱你<br>2016-05-04 00:38<br>赞(0) 踩(0) | <div>的确惊艳 <img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48951881)<br><br>2018-05-12 09:00<br>赞(0) 踩(0) | <div>.o,,l,,,</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48951881)<br><br>2018-05-12 09:00<br>赞(0) 踩(0) | <div>.<br><br>o,,l,,,</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70870748)<br><br>2015-12-01 19:36<br>赞(22) 踩(0) | <div>以前没钱读书没物质导致的自卑一直在心中压抑扭曲的青春快过了，可我现在越来越自信与明白了一切</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40612943)<br>可能吧你喜欢我<br>2015-12-01 11:15<br>赞(2) 踩(0) | <div>哎 终于找到和我一样的神经病了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211572247)<br>我除了帅一无所有<br>2017-08-26 21:11<br>赞(0) 踩(0) | <div>彼此彼此</div> |
@@ -182,7 +182,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39253326)<br>isolation<br>2014-10-14 00:52<br>赞(0) 踩(0) | <div>为什么不喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34915113)<br>你说啥?<br>2014-10-14 00:45<br>赞(0) 踩(0) | <div>这首编曲讨喜死了好喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33354840)<br><br>2014-10-13 23:45<br>赞(0) 踩(0) | <div>感觉政.治倾向加重</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/393983)<br>“这个家伙很机智什么也没...<br>2014-10-13 23:40<br>赞(0) 踩(0) | <div>(\ /)( *.* )c_(&amp;quot;)(&amp;quot;)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/393983)<br>“这个家伙很机智什么也没...<br>2014-10-13 23:40<br>赞(0) 踩(0) | <div>(\ /)<br>( *.* )<br>c_(&amp;quot;)(&amp;quot;)</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3814679)<br>可以可以 这很十八<br>2014-10-14 08:41<br>赞(0) 踩(0) | <div>哪里都能看到你。。_(:_」∠)_</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7608243)<br>别闹<br>2014-10-20 14:31<br>赞(0) 踩(0) | <div>哪儿都是你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10337885)<br><br>2014-10-13 22:48<br>赞(0) 踩(0) | <div>独立就是小众，</div> |
@@ -195,7 +195,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11270822)<br>in my secret...<br>2014-10-13 22:07<br>赞(0) 踩(0) | <div>哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13902803)<br><br>2014-10-13 20:21<br>赞(0) 踩(0) | <div>开头那段应该是西塔琴   很惊喜~   其余目前感觉一般 只是奇怪gala目前出的两首新歌都隐射了些什么…我这种完全不谈国事的政治白痴都隐约听出 一些来~_~大概我想多了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7391398)<br>不为浴<br>2014-10-13 20:01<br>赞(0) 踩(0) | <div>为何有种武林外传 主题曲的感觉</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3297715)<br>木头人卜卜<br>2014-10-20 15:37<br>赞(0) 踩(0) | <div>你是所有回复里面最亮的一个，笑屎了。真是值得讨论的一首歌呢，这首歌与千百万首歌都那么相似呢~~~~~</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3297715)<br>木头人卜卜<br>2014-10-20 15:37<br>赞(0) 踩(0) | <div>你是所有回复里面最亮的一个，笑屎了。<br>真是值得讨论的一首歌呢，这首歌与千百万首歌都那么相似呢~~~~~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31322989)<br>Born to be f...<br>2014-10-22 13:07<br>赞(0) 踩(0) | <div>哈哈哈～亮了～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13851175)<br><br>2014-10-13 19:33<br>赞(0) 踩(0) | <div>哎呀妈这小西塔琴拨的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28091184)<br>我不是归人 我是过客<br>2014-10-13 19:30<br>赞(0) 踩(0) | <div>音乐节唱过好几次了 演唱会貌似也唱过。期待更好的作品吧。</div> |
@@ -224,7 +224,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5667996)<br>我还没想好要写什么...<br>2014-10-13 12:43<br>赞(0) 踩(0) | <div>哎嘿哎哎嘿哎哎嘿哎哎嘿哎。。洗脑很成功！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26825523)<br><br>2014-10-13 12:41<br>赞(0) 踩(0) | <div>来晚了………</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8811330)<br>竟然被你找到了<br>2014-10-13 12:30<br>赞(0) 踩(0) | <div>还是那个gala！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/963987)<br>逃离吧。<br>2014-10-13 12:11<br>赞(1) 踩(0) | <div>一种印度阿三雷鬼乐的感觉~哈哈哈哈哈，这才是我们喜欢的Gala嘛~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/963987)<br>逃离吧。<br>2014-10-13 12:11<br>赞(1) 踩(0) | <div>一种印度阿三雷鬼乐的感觉~<br>哈哈哈哈哈，这才是我们喜欢的Gala嘛~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11280564)<br><br>2014-10-13 14:09<br>赞(0) 踩(0) | <div>用了西塔琴，所以你感觉有印度特色。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/963987)<br>逃离吧。<br>2014-10-13 19:15<br>赞(0) 踩(0) | <div><q><b>龙虎人丹说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11228266)<br>暂无签名~<br>2014-10-13 11:38<br>赞(0) 踩(0) | <div>毕竟 旮旯</div> |

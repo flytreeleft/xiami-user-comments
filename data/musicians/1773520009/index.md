@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5c0f1cccce1968aafc39f3f05a947e27.jpg)<br>秦欢](https://i.xiami.com/qinhuan) | **播放数**: 789350<br>**粉丝数**: 81<br>**评论数**: 9<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 民谣 Folk<br> |
+| [![](../../images/musicians/5c0f1cccce1968aafc39f3f05a947e27.jpg)<br>秦欢](https://i.xiami.com/qinhuan) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 民谣 Folk<br>**播放数**: 789350<br>**粉丝数**: 81<br>**评论数**: 9<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@ TEL:13006150737 QQ/微信:262479380
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205381490)<br>哼哼哈嘻<br>2019-02-22 17:00<br>赞(0) 踩(0) | <div>声音挺清新的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122688364)<br>生在愤坑，长在赤圈；挣脱<br>2017-03-28 21:55<br>赞(0) 踩(0) | <div>9120</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2512557)<br>感谢永远有歌，把心境道破...<br>2015-08-20 01:59<br>赞(0) 踩(0) | <div>男神男神！</div> |

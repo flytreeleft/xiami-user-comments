@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>小煜弹棉花](https://i.xiami.com/lacrimosa) | **播放数**: 959604<br>**粉丝数**: 248<br>**评论数**: 9<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>小煜弹棉花](https://i.xiami.com/lacrimosa) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening<br>**播放数**: 959604<br>**粉丝数**: 248<br>**评论数**: 9<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429819335)<br>淡淡欢喜淡淡愁。<br>2019-10-18 11:38<br>赞(0) 踩(0) | <div>好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54778512)<br><br>2019-09-08 16:24<br>赞(2) 踩(0) | <div>教科书般的指弹</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1295160)<br>英伦、旋死、力量、交响。...<br>2019-09-05 23:37<br>赞(1) 踩(0) | <div>指弹高手</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e79b4bdddcee19168fff6b0122a65045.jpg)<br>王以太](https://i.xiami.com/allenwan) | **播放数**: 19829213<br>**粉丝数**: 10320<br>**评论数**: 244<br>**地区**: China 中国大陆<br>**风格**: 另类说唱 Alternative Hip Hop, 地下说唱 Underground Hip Hop<br> |
+| [![](../../images/musicians/e79b4bdddcee19168fff6b0122a65045.jpg)<br>王以太](https://i.xiami.com/allenwan) | **地区**: China 中国大陆<br>**风格**: 另类说唱 Alternative Hip Hop, 地下说唱 Underground Hip Hop<br>**播放数**: 19829213<br>**粉丝数**: 10320<br>**评论数**: 244<br> |
 
 ## 档案
 
@@ -38,8 +38,8 @@ CDC
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412751719)<br><br>2021-01-06 10:10<br>赞(1) 踩(0) | <div>诶  拜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71839580)<br>极其业余音乐爱好者.<br>2020-12-16 20:44<br>赞(0) 踩(0) | <div>不错哦 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246693214)<br>以后好好活<br>2020-05-28 17:55<br>赞(0) 踩(0) | <div>很好吃</div> |
@@ -73,7 +73,7 @@ CDC
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91066116)<br>我还没想好要写什么...<br>2018-09-17 10:45<br>赞(0) 踩(0) | <div>这首歌听得我心动了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283942447)<br>我还没想好要写什么...<br>2018-09-16 17:46<br>赞(1) 踩(0) | <div>舒服 自由 耐听 有趣 live更好过录音棚。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2381)<br>心放寬<br>2018-09-15 19:19<br>赞(1) 踩(0) | <div>目不转睛 可以可以</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403939545)<br><br>2018-09-12 20:46<br>赞(1) 踩(0) | <div>超级喜欢你的歌！我就看着你 看着你 目不转睛～</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403939545)<br><br>2018-09-12 20:46<br>赞(1) 踩(0) | <div>超级喜欢你的歌！<br>我就看着你 看着你 目不转睛～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360094545)<br><br>2018-09-11 21:31<br>赞(0) 踩(0) | <div>黑马</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8960234)<br> <br>2018-09-11 20:49<br>赞(30) 踩(0) | <div>闪火最有才华，歌词都值得慢慢品味，去他妈的四大平台！用户在这里！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405297637)<br><br>2018-10-04 05:12<br>赞(0) 踩(0) | <div>说的太好了 找来的都四五十的油腻大爷大妈跟我们说市场什么流行&amp;hellip;我都服了&amp;hellip;</div> |
@@ -84,7 +84,7 @@ CDC
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349458977)<br>如果可以，WAN<br>2018-09-09 00:16<br>赞(4) 踩(0) | <div>你用一首歌，诠释了你的内心和灵魂，你让每一个年轻人在追梦的路上都得到了动力，你安静的表达，也好像一双温柔的手轻抚心上的伤，你用干净的声音铺出一条通往童年时光回忆的小道，让人觉得甚是美好、恬静。王以太，加油，我们都在背后支持你！ <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323903587)<br><br>2018-09-07 22:22<br>赞(0) 踩(0) | <div>喜欢你表演唱歌的投入</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121369268)<br><br>2018-09-04 11:39<br>赞(0) 踩(0) | <div>Jazzhiphop</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50668193)<br>666<br>2018-09-03 19:16<br>赞(0) 踩(0) | <div>听着听着突然觉得很色情</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50668193)<br>666<br>2018-09-03 19:16<br>赞(0) 踩(0) | <div>听着听着<br>突然觉得很色情</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87006916)<br>自律+坚持<br>2018-09-02 22:07<br>赞(0) 踩(0) | <div>闪火，爱你❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292800995)<br>你说是就是咯，我说不是不...<br>2018-09-01 01:10<br>赞(1) 踩(0) | <div>目不转睛唱得那么浪漫 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6586753)<br>冷起来是个迷<br>2018-08-31 20:29<br>赞(1) 踩(0) | <div>喜欢目不转睛</div> |
@@ -113,7 +113,7 @@ CDC
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85868814)<br>love is biu ...<br>2018-07-24 16:17<br>赞(1) 踩(0) | <div>你长得很像我前男友，我会说吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111096626)<br>我还没想好要写什么...<br>2018-07-22 20:37<br>赞(0) 踩(0) | <div>这些人真的惹不起 cdc还是依然牛批 加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375515314)<br><br>2018-07-21 23:45<br>赞(0) 踩(0) | <div>新说唱那边找过来了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30848228)<br>所有不与人言的隐秘欢喜<br>2018-07-21 00:13<br>赞(2) 踩(0) | <div>18.07.21 写给目前欣赏的歌手王以太因为朋友A玩RAP，然后从朋友Z收藏的歌单里面看到这个名字。以太福音？或者其它意义，我并不清楚。然后发现和自己印象中的此类音乐不同，很舒服的样子。下午窝在小阳台的地毯上，拉上窗帘缩在抱枕围成的角落，用掉了一整支中性笔芯，喝完了一整盒脱脂牛奶。耳机声音被调到最小，歌手的声音像从遥远的地方飘过来。不自知已经过了很久很久的样子。好了，没有什么其它要讲的。单曲循环的后遗症就是误以为你有男朋友（别笑）。晚安。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30848228)<br>所有不与人言的隐秘欢喜<br>2018-07-21 00:13<br>赞(2) 踩(0) | <div>18.07.21 写给目前欣赏的歌手王以太<br><br>因为朋友A玩RAP，然后从朋友Z收藏的歌单里面看到这个名字。<br>以太福音？或者其它意义，我并不清楚。然后发现和自己印象中的此类音乐不同，很舒服的样子。<br>下午窝在小阳台的地毯上，拉上窗帘缩在抱枕围成的角落，用掉了一整支中性笔芯，喝完了一整盒脱脂牛奶。耳机声音被调到最小，歌手的声音像从遥远的地方飘过来。不自知已经过了很久很久的样子。<br>好了，没有什么其它要讲的。单曲循环的后遗症就是误以为你有男朋友（别笑）。<br>晚安。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8991656)<br>偶尔合群<br>2018-07-09 23:38<br>赞(0) 踩(0) | <div>emmm夏天要爆</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341356355)<br>Awesoming <br>2018-07-08 17:27<br>赞(0) 踩(0) | <div>3ho莫耽搁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268617263)<br><br>2018-07-08 09:36<br>赞(4) 踩(0) | <div>节目播出后，你们会发现自己一直喜欢的人，比你想象的还优秀，虽然不希望他火，好自私。。。</div> |
@@ -267,7 +267,7 @@ CDC
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47682597)<br>暂无签名~<br>2015-04-21 21:56<br>赞(0) 踩(0) | <div>词汇量非常屌啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45928128)<br> 超可爱并且品德高尚的成...<br>2015-04-06 12:31<br>赞(0) 踩(0) | <div>男神 爱你么么哒 继续加油 一直在你身后支持你哟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7682881)<br>普通话不好的小卢卡<br>2015-03-26 17:59<br>赞(0) 踩(0) | <div>牛 好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32320260)<br>kiss me<br>2015-03-21 18:12<br>赞(0) 踩(0) | <div>niceZion的封面也很赞</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32320260)<br>kiss me<br>2015-03-21 18:12<br>赞(0) 踩(0) | <div>nice<br>Zion的封面也很赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7915878)<br>随意的快乐<br>2015-03-20 13:05<br>赞(0) 踩(0) | <div>～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/861207)<br>listen to me<br>2015-03-11 14:14<br>赞(0) 踩(0) | <div>nice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3560625)<br>:(<br>2015-03-05 18:24<br>赞(0) 踩(0) | <div>棒</div> |

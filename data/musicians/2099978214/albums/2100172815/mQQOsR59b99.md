@@ -43,8 +43,8 @@ Oh wau bulan<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194017903)<br><br>2020-07-22 09:12<br>赞(2) 踩(0) | <div>对的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443568642)<br><br>2020-06-18 21:13<br>赞(3) 踩(0) | <div>现在的天气，自来水可以直接泡方便面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407555316)<br>该写什么...<br>2020-06-07 07:25<br>赞(3) 踩(0) | <div></div> |

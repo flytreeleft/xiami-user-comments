@@ -34,8 +34,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2434091)<br><br>2020-12-08 23:03<br>赞(0) 踩(0) | <div>每次回归虾米，都能听到曾经循环播放的歌。这感觉很棒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229490650)<br>就像他在游戏中所追求的排...<br>2020-10-21 21:15<br>赞(0) 踩(0) | <div>夏天的时光溜走～在未唱时我已经在脑海中勾勒出了之后的曲调，结果竟然意外的相符，如同流水倾泻而下，相似性真让人感到温暖。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418336236)<br><br>2020-09-25 19:40<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
@@ -52,7 +52,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15218702)<br><br>2020-03-31 02:46<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348183959)<br>.<br>2020-03-29 12:11<br>赞(0) 踩(0) | <div>我也怀念那个夏天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11264865)<br>暂无签名~<br>2020-03-23 07:19<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359365048)<br>渾渾噩噩 一歌解千愁~<br>2020-03-17 10:01<br>赞(2) 踩(0) | <div>荡着秋千的夏天我想说 说不出口夏天的时光溜走</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359365048)<br>渾渾噩噩 一歌解千愁~<br>2020-03-17 10:01<br>赞(2) 踩(0) | <div>荡着秋千的夏天<br>我想说 说不出口<br>夏天的时光溜走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281397789)<br><br>2020-02-25 04:16<br>赞(1) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427853883)<br>我还没想好要写什么...<br>2020-01-15 15:55<br>赞(1) 踩(0) | <div>[带墨镜笑]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349108561)<br><br>2019-12-18 10:20<br>赞(4) 踩(0) | <div>冬天就要听夏天的歌啊</div> |
@@ -78,7 +78,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359279049)<br>嘻嘻<br>2018-08-07 07:52<br>赞(1) 踩(0) | <div>尽管夏天总会流一堆臭汗，会把人晒黑，但就是很喜欢夏天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81606956)<br><br>2018-07-16 01:54<br>赞(2) 踩(0) | <div>吉他开头太好听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46481093)<br>cool <br>2018-06-23 12:50<br>赞(1) 踩(0) | <div>容我在你的心里住上一段时间，哪怕是这么短的夏天</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322434067)<br>我还没想好要写什么...<br>2018-06-16 08:07<br>赞(3) 踩(0) | <div>年纪越大越听不得口琴了一听到呀年岁呼啦啦的往前涌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322434067)<br>我还没想好要写什么...<br>2018-06-16 08:07<br>赞(3) 踩(0) | <div>年纪越大越听不得口琴了<br>一听到呀<br>年岁呼啦啦的往前涌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/191050749)<br>爱情本来就是压迫的吧<br>2018-05-13 01:11<br>赞(0) 踩(0) | <div>夏天来啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24972760)<br>我还没想好要写什么...<br>2018-05-05 18:40<br>赞(1) 踩(0) | <div>容我在你的心里 住上一段时间 永远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12054599)<br><br>2018-04-27 09:00<br>赞(0) 踩(0) | <div>虽然很短，但是我最爱这首啊~</div> |
@@ -134,7 +134,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14006906)<br>我很柔软 <br>2016-02-07 05:01<br>赞(0) 踩(0) | <div>别闹</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41345487)<br>奋卵旦<br>2016-03-23 13:09<br>赞(0) 踩(0) | <div>:</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280563210)<br><br>2017-05-13 08:51<br>赞(0) 踩(0) | <div>lbb</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280563210)<br><br>2017-05-13 08:57<br>赞(0) 踩(0) | <div>mmpmlpmlpmpmlmplmpmmplmpzpmmmpmplmpmmpmlmmmpmlmplmppmpmlpm.o.opl.mm.＿9&amp;lt;9:9 《》9回复@AnnaXiu]qqq+&amp;quot;n</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280563210)<br><br>2017-05-13 08:57<br>赞(0) 踩(0) | <div>mmpmlpmlpmpmlmplmpmmplmpzpmmmpmplmpmmpmlmmmpmlmplmppmpmlpm.o<br>.o<br>pl.mm.＿9&amp;lt;9:9 《》9回复@AnnaXiu]qqq+&amp;quot;n</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16950890)<br> <br>2015-06-22 11:55<br>赞(112) 踩(0) | <div>夏天就这么短啊...</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280563210)<br><br>2017-05-13 08:50<br>赞(0) 踩(0) | <div>，</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319899036)<br> <br>2017-09-29 01:52<br>赞(0) 踩(0) | <div>哈哈哈可是南方的夏天怎么都过不完 愁</div> |
@@ -156,7 +156,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8307037)<br><br>2015-04-13 13:23<br>赞(1) 踩(0) | <div>关于小时候的记忆都是充满阳光的夏天，跑着闹着朋友的笑脸在阳光下都是模糊的。记得的他们只剩下一个空荡荡的名字，和充满阳光的夏天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46249598)<br><br>2015-04-13 12:43<br>赞(0) 踩(0) | <div>突然喜欢上曹方～～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9766916)<br><br>2015-03-30 16:03<br>赞(0) 踩(0) | <div>此时此刻，我需要这样清新的声音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44990034)<br>以心传心，鸣者自鸣<br>2015-02-28 11:42<br>赞(0) 踩(0) | <div>我想说说不出口夏天的时光溜走容我在你的心里住上一段时间</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44990034)<br>以心传心，鸣者自鸣<br>2015-02-28 11:42<br>赞(0) 踩(0) | <div>我想说<br>说不出口<br>夏天的时光溜走<br>容我在你的心里住上一段时间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11286938)<br>慢慢回消息留言,不好意思<br>2014-12-19 16:02<br>赞(0) 踩(0) | <div>孩子们在荡着秋千  班长</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2480)<br><br>2014-09-17 00:26<br>赞(0) 踩(0) | <div>台风过去后，就是夏天变成秋天的节奏了吧~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2480)<br><br>2014-09-17 00:09<br>赞(0) 踩(0) | <div>台风走后，夏天就快走啦</div> |
@@ -230,11 +230,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7707302)<br><br>2012-07-23 02:05<br>赞(0) 踩(0) | <div>让我在你的心里，住上一段时间。喜欢这个夏天的调调。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6470809)<br>在虾米上ting~<br>2012-07-20 11:41<br>赞(0) 踩(0) | <div>清扬的短笛和吉他，哼出了孩子们的夏天...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6470809)<br>在虾米上ting~<br>2012-07-20 11:26<br>赞(0) 踩(0) | <div>清扬的短笛和吉他，哼出了孩子们的夏天...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9687070)<br><br>2012-07-14 11:48<br>赞(0) 踩(0) | <div>孩子們在蕩著秋千，孩子們在蕩著秋千，孩子們在蕩著秋千的夏天。我想說說不出口，夏天的時光遠走。容我在你的心裡住上一段時間。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9687070)<br><br>2012-07-14 11:48<br>赞(0) 踩(0) | <div>孩子們在蕩著秋千，孩子們在蕩著秋千，孩子們在蕩著秋千的夏天。<br>我想說說不出口，夏天的時光遠走。容我在你的心裡住上一段時間。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9678942)<br><br>2012-07-03 17:57<br>赞(0) 踩(0) | <div>在夏天……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174809)<br><br>2012-06-21 09:01<br>赞(0) 踩(0) | <div>反复听这首~~~好热啊~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6664126)<br>阳光与音乐。<br>2012-06-16 16:58<br>赞(0) 踩(0) | <div>口琴的前奏不错啊，好短。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4298941)<br>我还没想好要写什么...<br>2012-06-05 16:13<br>赞(1) 踩(0) | <div>夏天总是让我想起美好的小时光，爱太阳，却总是躲着它。喜欢在树荫，喜欢冰凉的西瓜，喜欢在某个午后，躺在阳台的摇椅上，听着清透的歌，舒服的度过一个下午，有些慵懒，却能让心事沉淀。把看到的景象随口哼成轻松小调，喜欢这样静静的一个人。喜欢曹方的小情调（我搞什么啊==写的什么啊）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4298941)<br>我还没想好要写什么...<br>2012-06-05 16:13<br>赞(1) 踩(0) | <div>夏天总是让我想起美好的小时光，爱太阳，却总是躲着它。喜欢在树荫，喜欢冰凉的西瓜，喜欢在某个午后，躺在阳台的摇椅上，听着清透的歌，舒服的度过一个下午，有些慵懒，却能让心事沉淀。把看到的景象随口哼成轻松小调，喜欢这样静静的一个人。喜欢曹方的小情调<br>（我搞什么啊==写的什么啊）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6920319)<br><br>2012-06-04 11:46<br>赞(0) 踩(0) | <div>还记得吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1688172)<br>不留<br>2012-05-30 23:57<br>赞(0) 踩(0) | <div>她的歌中，最爱这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4039767)<br><br>2012-05-27 19:49<br>赞(0) 踩(0) | <div>听这首歌的时候 是高一的秋天了。听着这首歌回想那天夏天。让我在你的心里住上一段时间，我如是在纪念册写着。</div> |
@@ -284,10 +284,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2010)<br>你先看什么，我写给你看鸭...<br>2011-07-02 15:19<br>赞(0) 踩(0) | <div>糟糕的夏天 我恨夏天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4132755)<br> <br>2011-07-01 08:03<br>赞(0) 踩(0) | <div>12:00-13：00</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1384393)<br><br>2011-06-28 15:13<br>赞(0) 踩(0) | <div>小众歌曲~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3591043)<br>我回来啦<br>2011-06-27 06:10<br>赞(0) 踩(0) | <div>曹方的歌总是给人种淡淡的、清新的、干净的、自由的感觉。喜欢这个精灵般随性安然的女子和她的音乐。礼拜六礼拜七，让我们好好享受自由的空间。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3591043)<br>我回来啦<br>2011-06-27 06:10<br>赞(0) 踩(0) | <div>曹方的歌总是给人种淡淡的、清新的、干净的、自由的感觉。喜欢这个精灵般随性安然的女子和她的音乐。<br>礼拜六礼拜七，让我们好好享受自由的空间。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4421560)<br><br>2011-06-26 17:33<br>赞(0) 踩(0) | <div>夏天里，听点小清新~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3569008)<br><br>2011-06-24 14:21<br>赞(0) 踩(0) | <div>在夏天里，我们会怀念小时的时光，那时，有漫长的暑假，有甜蜜的瓜果，有精彩的小游戏，但是这个夏天，还要上班，只好来听这些歌曲，度过一夏</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/682784)<br>人要去做自己渴望的事，内...<br>2011-06-23 15:17<br>赞(0) 踩(0) | <div>孩子们在荡着秋千孩子们在荡着秋千在夏天，这夏天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/682784)<br>人要去做自己渴望的事，内...<br>2011-06-23 15:17<br>赞(0) 踩(0) | <div>孩子们在荡着秋千<br>孩子们在荡着秋千<br>在夏天，这夏天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4286079)<br><br>2011-06-22 08:32<br>赞(0) 踩(0) | <div>就像转角的爱恋，只有一个转角的时间，但是希望自己能住进你心里。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3863828)<br><br>2011-06-19 20:49<br>赞(0) 踩(0) | <div>好喜欢曹方的声音~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2392765)<br><br>2011-05-30 21:26<br>赞(0) 踩(0) | <div>夏天，微凉</div> |
@@ -299,7 +299,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3832329)<br><br>2011-05-21 18:52<br>赞(0) 踩(0) | <div>夏天，夏天~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3437034)<br><br>2011-05-19 22:06<br>赞(0) 踩(0) | <div>浅浅，淡淡的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3991114)<br><br>2011-05-19 16:02<br>赞(0) 踩(0) | <div>宁静柔和</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3454073)<br> <br>2011-05-18 22:54<br>赞(0) 踩(0) | <div>西瓜 啤酒 大排档背心 拖鞋 碎花裙虽然不喜欢 但夏天终渐来临我想坐在树荫下 舀着西瓜哼着歌 属于我心目中夏天的味道碎碎念中 曹方 在夏天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3454073)<br> <br>2011-05-18 22:54<br>赞(0) 踩(0) | <div>西瓜 啤酒 大排档<br>背心 拖鞋 碎花裙<br>虽然不喜欢 但夏天终渐来临<br>我想坐在树荫下 舀着西瓜哼着歌 属于我心目中夏天的味道<br>碎碎念中 曹方 在夏天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3953029)<br><br>2011-05-15 21:19<br>赞(0) 踩(0) | <div>，，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2069500)<br><br>2011-05-13 12:39<br>赞(0) 踩(0) | <div>清爽的夏天来了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/812392)<br>q音网易搜央央小月，酷g...<br>2011-05-11 15:45<br>赞(0) 踩(0) | <div>啦啦啦，在夏天，啦啦啦，笑~</div> |
@@ -325,21 +325,21 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1160114)<br>我慢慢的一步一步走<br>2011-01-31 23:02<br>赞(0) 踩(0) | <div>有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361717)<br><br>2011-01-27 19:04<br>赞(0) 踩(0) | <div>短暂的意</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1835758)<br>暂无签名~<br>2011-01-10 14:48<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2367134)<br><br>2011-01-02 11:45<br>赞(0) 踩(0) | <div>很喜欢这种恬静的歌。。加油。。曹方方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2367134)<br><br>2011-01-02 11:45<br>赞(0) 踩(0) | <div>很喜欢这种恬静的歌。。<br>加油。。曹方方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/991202)<br><br>2010-12-08 23:05<br>赞(0) 踩(0) | <div>淡淡的歌 淡淡的甜蜜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1640446)<br><br>2010-12-07 01:19<br>赞(0) 踩(0) | <div>很不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2034065)<br><br>2010-11-27 00:25<br>赞(0) 踩(0) | <div>不错，很干净的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1562810)<br><br>2010-11-17 13:17<br>赞(0) 踩(0) | <div>干净，清纯，对一首歌你还有别的要求吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1733506)<br><br>2010-11-02 18:15<br>赞(0) 踩(0) | <div>很有感觉的一首歌！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1692030)<br><br>2010-10-18 23:00<br>赞(0) 踩(0) | <div>你嘴边的口琴，你手里的吉他，你舒缓的轻吟，旋律很短，余音很长。孩子们的秋千，荡呀荡呀荡呀~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1692030)<br><br>2010-10-18 22:57<br>赞(0) 踩(0) | <div>你嘴边的口琴，你手里的吉他，你舒缓的轻吟，旋律很短，余音很长。孩子们的秋千，荡呀荡呀荡呀~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1692030)<br><br>2010-10-18 23:00<br>赞(0) 踩(0) | <div>你嘴边的口琴，你手里的吉他，你舒缓的轻吟，旋律很短，余音很长。<br>孩子们的秋千，荡呀荡呀荡呀~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1692030)<br><br>2010-10-18 22:57<br>赞(0) 踩(0) | <div>你嘴边的口琴，你手里的吉他，你舒缓的轻吟，旋律很短，余音很长。<br>孩子们的秋千，荡呀荡呀荡呀~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1565969)<br><br>2010-10-02 11:05<br>赞(0) 踩(0) | <div>曾经的夏天~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1234348)<br><br>2010-08-23 11:55<br>赞(0) 踩(0) | <div>我希望，这个夏天，你会快乐的虽然没有我，我没有能力带给你快乐看着你旅游后的相片我想朋友会给你，快乐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1234348)<br><br>2010-08-23 11:55<br>赞(0) 踩(0) | <div>我希望，这个夏天，你会快乐的<br>虽然没有我，我没有能力带给你快乐<br>看着你旅游后的相片<br>我想朋友会给你，快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1355262)<br><br>2010-08-22 10:52<br>赞(0) 踩(0) | <div>在夏天</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199122)<br><br>2010-08-16 20:17<br>赞(0) 踩(0) | <div>孩子们在荡着秋千孩子们在荡着秋千孩子们在荡着秋千的夏天哎……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/199122)<br><br>2010-08-16 20:17<br>赞(0) 踩(0) | <div>孩子们在荡着秋千<br>孩子们在荡着秋千<br>孩子们在荡着秋千的夏天<br><br>哎……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/851468)<br>浮生若梦，为欢几何。<br>2010-08-06 11:24<br>赞(0) 踩(0) | <div>有点短，意犹未尽。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/792928)<br> <br>2010-07-04 23:31<br>赞(0) 踩(0) | <div>很不错。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153926)<br><br>2010-06-15 13:43<br>赞(0) 踩(0) | <div>我想说说不出口夏天的时光溜走容我在你的心里住上一段时间</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153926)<br><br>2010-06-15 13:43<br>赞(0) 踩(0) | <div>我想说<br>说不出口<br>夏天的时光溜走<br>容我在你的心里住上一段时间</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1021626)<br><br>2010-06-15 10:32<br>赞(0) 踩(0) | <div>清凉一夏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40153)<br><br>2010-06-13 15:48<br>赞(0) 踩(0) | <div>在夏天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/935346)<br><br>2010-06-09 12:46<br>赞(0) 踩(0) | <div>清凉的记忆</div> |
@@ -352,7 +352,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/628670)<br>不用青春去赌未知的明天<br>2010-02-07 18:43<br>赞(0) 踩(0) | <div>清新的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275547)<br><br>2010-02-06 22:48<br>赞(0) 踩(0) | <div>曹芳，亘古不变？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/477217)<br><br>2009-12-16 14:36<br>赞(0) 踩(0) | <div>前面那段小提琴 吸引了我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119561)<br>移步～<br>2009-12-05 23:18<br>赞(0) 踩(0) | <div>曹方的热门歌曲01 在夏天  【17738次】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119561)<br>移步～<br>2009-12-05 23:18<br>赞(0) 踩(0) | <div>曹方的热门歌曲<br>01 在夏天  【17738次】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12429)<br><br>2009-11-22 13:33<br>赞(0) 踩(0) | <div>踩着夏天的余阳 夏天不要走 我用彩铃来怀念 孩子们在荡着秋千的夏天 @2009-08-16 19:55 by 歪歪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106785)<br>万物生长<br>2009-11-15 11:35<br>赞(0) 踩(0) | <div>在冬天听夏天的歌~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400)<br>生亦何哀死亦何苦<br>2009-11-06 12:11<br>赞(0) 踩(0) | <div>清新，简单，寂寞</div> |
@@ -379,5 +379,5 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232625)<br><br>2009-06-25 17:24<br>赞(0) 踩(0) | <div>声音清脆，干净，好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29)<br>耍中偶得<br>2009-06-24 14:29<br>赞(0) 踩(0) | <div>孩子们在荡着秋千 孩子们在荡着秋千 夏天呀 最茂盛的季节却游走的那么快 一下子就快过完了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190144)<br><br>2009-06-06 13:14<br>赞(0) 踩(0) | <div>干脆的来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193224)<br><br>2009-06-02 16:20<br>赞(0) 踩(0) | <div>呵呵！没有什么可说的 一直都很喜欢她和王筝两师姐妹的歌。呵呵！淡淡的记忆中的味道</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193224)<br><br>2009-06-02 16:20<br>赞(0) 踩(0) | <div>呵呵！没有什么可说的 一直都很喜欢她和王筝两师姐妹的歌。<br><br>呵呵！淡淡的记忆中的味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29)<br>耍中偶得<br>2009-05-05 11:47<br>赞(0) 踩(0) | <div>孩子们在荡着秋千。最近几乎每天都去荡秋千。然后发现内心的那个小孩她从未真正成长。我看着她，微微笑。</div> |

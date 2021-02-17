@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9aedef5f38cc4b9b87e26df658134f04.jpg)<br>武聆音雄](https://i.xiami.com/wlyxmusic) | **播放数**: 15079875<br>**粉丝数**: 3262<br>**评论数**: 108<br>**地区**: China 中国大陆<br>**风格**: 古风 GuFeng Music, 电视原声 Television Music, 电影原声 Film Score<br> |
+| [![](../../images/musicians/9aedef5f38cc4b9b87e26df658134f04.jpg)<br>武聆音雄](https://i.xiami.com/wlyxmusic) | **地区**: China 中国大陆<br>**风格**: 古风 GuFeng Music, 电视原声 Television Music, 电影原声 Film Score<br>**播放数**: 15079875<br>**粉丝数**: 3262<br>**评论数**: 108<br> |
 
 ## 档案
 
@@ -37,8 +37,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1365948)<br><br>2020-12-16 10:11<br>赞(0) 踩(0) | <div>给你们点赞，非常感谢，能看到武侠文化的传承</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3873306)<br><br>2020-12-10 00:41<br>赞(0) 踩(0) | <div>支持 <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1985500)<br><br>2020-09-06 00:48<br>赞(0) 踩(0) | <div>求出更多的专辑！</div> |
@@ -63,7 +63,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8176271)<br><br>2018-01-17 08:25<br>赞(3) 踩(0) | <div>老多年前在武聆音雄的论坛上听武侠配乐，没想到今天虾米上又碰到 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248840045)<br><br>2018-01-06 13:33<br>赞(1) 踩(0) | <div>求火云传奇二胡配乐完整版</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253825065)<br><br>2017-11-30 11:56<br>赞(1) 踩(0) | <div>武林英雄</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97273870)<br><br>2017-11-04 21:11<br>赞(1) 踩(0) | <div>侠客行唐代：李白赵客缦胡缨，吴钩霜雪明。银鞍照白马，飒沓如流星。十步杀一人，千里不留行。事了拂衣去，深藏身与名。闲过信陵饮，脱剑膝前横。将炙啖朱亥，持觞劝侯嬴。三杯吐然诺，五岳倒为轻。眼花耳热后，意气素霓生。救赵挥金槌，邯郸先震惊。千秋二壮士，烜赫大梁城。纵死侠骨香，不惭世上英。谁能书阁下，白首太玄经。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97273870)<br><br>2017-11-04 21:11<br>赞(1) 踩(0) | <div>侠客行<br>唐代：李白<br><br>赵客缦胡缨，吴钩霜雪明。<br>银鞍照白马，飒沓如流星。<br>十步杀一人，千里不留行。<br>事了拂衣去，深藏身与名。<br>闲过信陵饮，脱剑膝前横。<br>将炙啖朱亥，持觞劝侯嬴。<br>三杯吐然诺，五岳倒为轻。<br>眼花耳热后，意气素霓生。<br>救赵挥金槌，邯郸先震惊。<br>千秋二壮士，烜赫大梁城。<br>纵死侠骨香，不惭世上英。<br>谁能书阁下，白首太玄经。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287841394)<br>过程就是生活<br>2017-10-05 04:24<br>赞(1) 踩(0) | <div>那些有关于武侠的记忆，一直深深的封存在记忆里</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19730339)<br><br>2017-09-29 12:54<br>赞(0) 踩(0) | <div>早在2010</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153013324)<br>粤语经典，古风禅乐new...<br>2017-09-27 07:43<br>赞(1) 踩(0) | <div>感谢音乐人</div> |
@@ -133,8 +133,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34474018)<br><br>2014-03-26 21:53<br>赞(0) 踩(0) | <div>very good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2864515)<br><br>2014-03-09 20:19<br>赞(0) 踩(0) | <div>挺期待第一系列也放在虾米上，谢谢楼主，很精致。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11031075)<br> Md网易云zz怎么那么...<br>2014-02-09 19:31<br>赞(2) 踩(0) | <div>你们有授权么？怎么这么山寨，封面难看死了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4126362)<br>w_e_chat : y...<br>2014-01-09 11:58<br>赞(3) 踩(0) | <div>传一曲天荒地老共一生水远山高正义不倒会盟天下英豪无招胜有招英雄肝胆两相照江湖儿女日见少心还在人去了回首一片风雨飘摇心还在 人去了回首一片(回首一片)风雨飘摇传一曲天荒地老共一生水远山高正义不倒会盟天下英豪无招胜有招</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4126362)<br>w_e_chat : y...<br>2014-01-09 11:57<br>赞(1) 踩(0) | <div>惩强扶弱，劫富济贫。侠之大者，为国为民。南拳北腿，少林武当。天下武功，唯快不破。天之道，损有余而不足，是故虚胜实，不足胜有余。琴箫合奏，知心者几人？沧海一声笑，愿把酒当歌，醉饮江湖！问世间情为何物，直教人生死相许！相濡以沫不如相忘于江湖！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4126362)<br>w_e_chat : y...<br>2014-01-09 11:58<br>赞(3) 踩(0) | <div>传一曲天荒地老<br>共一生水远山高<br>正义不倒<br>会盟天下英豪<br>无招胜有招<br>英雄肝胆两相照<br>江湖儿女日见少<br>心还在人去了<br>回首一片风雨飘摇<br>心还在 人去了<br>回首一片(回首一片)风雨飘摇<br>传一曲天荒地老<br>共一生水远山高<br>正义不倒<br>会盟天下英豪<br>无招胜有招</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4126362)<br>w_e_chat : y...<br>2014-01-09 11:57<br>赞(1) 踩(0) | <div>惩强扶弱，劫富济贫。<br>侠之大者，为国为民。<br><br>南拳北腿，少林武当。<br>天下武功，唯快不破。<br>天之道，损有余而不足，是故虚胜实，不足胜有余。<br><br><br>琴箫合奏，知心者几人？<br>沧海一声笑，愿把酒当歌，醉饮江湖！<br><br>问世间情为何物，直教人生死相许！<br>相濡以沫不如相忘于江湖！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5904049)<br><br>2013-12-31 22:49<br>赞(0) 踩(0) | <div>骆集益担当音乐制作的《古剑奇谭》是游戏，不是电视剧，谢谢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20361050)<br><br>2014-01-01 19:54<br>赞(0) 踩(0) | <div>原本的资料不是这样的，跟虾米小编纠正过，没有后文了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1612404)<br>我有时看不了你们的回复<br>2014-04-27 02:31<br>赞(0) 踩(0) | <div><q><b>丘九天说：</b></q></div> |

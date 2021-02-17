@@ -32,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351421684)<br><br>2020-06-02 15:02<br>赞(2) 踩(0) | <div>經典 好聽  <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334945362)<br><br>2019-08-12 10:33<br>赞(0) 踩(0) | <div>看来听这首歌的人都老了，小春也算是回归家庭了。陈小春，周杰伦，酷玩，他们三人是我大学之前每张专辑必追的。大学中后期就开始有mp3了，就没怎么按专辑听歌了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279225795)<br><br>2018-09-30 13:16<br>赞(0) 踩(0) | <div>17年没听这歌了，来回味下小春的冷门国语老歌</div> |

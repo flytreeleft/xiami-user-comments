@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/eb2200f3656bef2ac430db9f0adba1d3.jpg)<br>薄荷绿乐队](https://i.xiami.com/bohelv) | **播放数**: 6241182<br>**粉丝数**: 2955<br>**评论数**: 97<br>**地区**: China 中国大陆<br>**风格**: 放克 Funk, 英伦摇滚 Britpop, 流行摇滚 Pop Rock<br> |
+| [![](../../images/musicians/eb2200f3656bef2ac430db9f0adba1d3.jpg)<br>薄荷绿乐队](https://i.xiami.com/bohelv) | **地区**: China 中国大陆<br>**风格**: 放克 Funk, 英伦摇滚 Britpop, 流行摇滚 Pop Rock<br>**播放数**: 6241182<br>**粉丝数**: 2955<br>**评论数**: 97<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -27,10 +24,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246692829)<br>我还没想好要写什么...<br>2020-07-27 18:23<br>赞(1) 踩(0) | <div>又是一季乐队的夏天啦薄荷绿加油哦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247919469)<br>我还没想好要写什么...<br>2020-06-26 23:30<br>赞(1) 踩(0) | <div>《恒星》里的那句新宇宙让我的心泛起层层涟漪好棒 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246692829)<br>我还没想好要写什么...<br>2020-07-27 18:23<br>赞(1) 踩(0) | <div>又是一季乐队的夏天啦<br><br>薄荷绿加油哦</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247919469)<br>我还没想好要写什么...<br>2020-06-26 23:30<br>赞(1) 踩(0) | <div>《恒星》里的那句<br><br>新宇宙<br><br>让我的心泛起层层涟漪<br><br>好棒 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292565893)<br><br>2020-06-16 15:45<br>赞(0) 踩(0) | <div>加油!爱你们呦！❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43492923)<br>行到水穷我才开始害怕，夕...<br>2020-04-11 23:31<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115907612)<br>热爱<br>2020-02-09 22:04<br>赞(0) 踩(0) | <div>❤请继续热爱❤</div> |

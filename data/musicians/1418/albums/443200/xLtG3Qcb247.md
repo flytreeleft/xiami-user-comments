@@ -55,8 +55,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18787797)<br>希望虾米一直都在<br>2021-02-04 20:14<br>赞(0) 踩(0) | <div>这首歌从专辑发行开始听，明天虾米就结束了，好难过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441164185)<br>我还没想好要写什么...<br>2021-01-23 09:21<br>赞(0) 踩(0) | <div>听过一个说法说:爱情是奢侈品，不是谁都能用得起。其实世间男女都有权利追求属于自己的爱情，以爱为名，在爱情里为非作歹终究会被爱情抛弃，你我皆是。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21579432)<br>我还没想好要写什么...<br>2020-11-24 17:13<br>赞(0) 踩(0) | <div>這麼好聽的歌！</div> |
@@ -101,7 +101,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2013-07-01 16:51<br>赞(1) 踩(0) | <div>现在没有了灵气的陈珊妮只会让我性冷淡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9200573)<br><br>2013-06-27 00:06<br>赞(0) 踩(0) | <div>我手握很重很重的伤 经过最糟糕的排场 我有种很坏的预感 好的才和你分享~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4772451)<br>百利甜乐队主唱<br>2013-06-22 16:52<br>赞(0) 踩(0) | <div>几句歌词命中我心</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7231854)<br>我还没想好要写什么...<br>2013-06-14 18:15<br>赞(0) 踩(0) | <div>我手握很重很重的伤经历过最糟糕的排场我有种很坏的预感好的才和你分享</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7231854)<br>我还没想好要写什么...<br>2013-06-14 18:15<br>赞(0) 踩(0) | <div>我手握很重很重的伤<br>经历过最糟糕的排场<br>我有种很坏的预感<br>好的才和你分享</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15510832)<br><br>2013-06-12 00:39<br>赞(0) 踩(0) | <div>睡前来首小清新 当作今天的晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1486733)<br>喵<br>2013-04-30 23:12<br>赞(0) 踩(0) | <div>#tdd每天三首轻轻歌# 补上昨天的三份儿。陈珊妮的声线总有种吸引力，让人欲罢不能，这是john专辑里我很喜欢的一首慢歌，歌词不错，调调把你一下拉回三十年代。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1407493)<br>我还没想好要写什么...<br>2013-04-04 06:49<br>赞(0) 踩(0) | <div>这调调~</div> |
@@ -117,13 +117,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9885125)<br><br>2012-07-20 11:57<br>赞(0) 踩(0) | <div>赞！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20)<br>自由爱恨，只因荣幸<br>2012-07-19 14:22<br>赞(0) 踩(0) | <div>John的小爱情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9804356)<br>我还没想好要写什么...<br>2012-07-19 14:15<br>赞(0) 踩(0) | <div>❤❤❤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595903)<br>我还没想好要写什么...<br>2012-07-07 18:13<br>赞(1) 踩(0) | <div>我手握很重很重的伤戒不了对幸福的幻想</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2595903)<br>我还没想好要写什么...<br>2012-07-07 18:13<br>赞(1) 踩(0) | <div>我手握很重很重的伤<br>戒不了对幸福的幻想</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2013-07-01 16:51<br>赞(0) 踩(0) | <div>啊哈哈哈哈你也在这里啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2301403)<br><br>2012-06-23 12:46<br>赞(0) 踩(0) | <div>我受过很重很重的伤经历过最糟糕的排场</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2301403)<br><br>2012-06-23 12:46<br>赞(0) 踩(0) | <div>我受过很重很重的伤<br>经历过最糟糕的排场</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4165658)<br> <br>2012-06-17 03:33<br>赞(0) 踩(0) | <div>晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7795207)<br><br>2012-05-26 22:12<br>赞(0) 踩(0) | <div>至少有一首 叫做爱情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6606997)<br><br>2012-05-18 11:25<br>赞(0) 踩(0) | <div>别轻视一个秘密，别错过爱的时间</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3825128)<br> <br>2012-05-08 04:31<br>赞(0) 踩(0) | <div>我受过很重很重的伤戒不了对幸福的幻想我有种很坏的预感好的才和你分享别轻视一个秘密别错过爱的时间要是我双眼紧闭都听不到你呼吸要是你嘴唇亲亲都只剩叹息至少有一首歌叫做爱情</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3825128)<br> <br>2012-05-08 04:31<br>赞(0) 踩(0) | <div>我受过很重很重的伤<br>戒不了对幸福的幻想<br>我有种很坏的预感<br>好的才和你分享<br><br>别轻视一个秘密<br>别错过爱的时间<br>要是我双眼紧闭<br>都听不到你呼吸<br><br>要是你嘴唇亲亲<br>都只剩叹息<br>至少有一首歌<br>叫做爱情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6997846)<br><br>2012-04-27 23:43<br>赞(0) 踩(0) | <div>你只需簡單刻畫 就令我動心 晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4876423)<br><br>2012-03-27 19:43<br>赞(0) 踩(0) | <div>我手握很重很重的伤 戒不了对幸福的幻想 我有种很坏的预感 好的才和你分享</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6972109)<br><br>2012-03-25 21:51<br>赞(0) 踩(0) | <div>单曲循环~</div> |
@@ -136,7 +136,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3133015)<br><br>2012-01-13 18:02<br>赞(0) 踩(0) | <div>我也不懂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1524205)<br><br>2012-01-09 23:27<br>赞(0) 踩(0) | <div>我手握很重很重的伤，戒不了对幸福的幻想，我有种很坏的预感，好的才和你分享。@忧诺 @十三太饱 @victorwc @流浪的牡蛎 @mAdSenG @上官无筵就是不穿秋衣裤 @KENDRA陈急斯汗 #十二点睡觉小组#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7322671)<br><br>2011-12-31 07:51<br>赞(0) 踩(0) | <div>要是你嘴唇亲亲 都只剩叹息 至少有一首歌 叫做爱情</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2943730)<br><br>2011-12-26 23:35<br>赞(0) 踩(0) | <div>你只需简单刻画就令我动心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2943730)<br><br>2011-12-26 23:35<br>赞(0) 踩(0) | <div>你只需简单刻画<br>就令我动心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3680679)<br><br>2011-12-25 10:38<br>赞(0) 踩(0) | <div>@陳珊妮 好听惨了…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1915171)<br><br>2011-12-22 16:45<br>赞(0) 踩(0) | <div>手握很重很重的伤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4251919)<br><br>2011-12-08 13:25<br>赞(0) 踩(0) | <div>@RUIRIO</div> |
@@ -157,18 +157,18 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1460320)<br><br>2011-09-21 10:55<br>赞(0) 踩(0) | <div>是一场温柔的相待。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3027582)<br><br>2011-09-19 21:00<br>赞(0) 踩(0) | <div>我有种很坏的预感，好的才和你分享</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188661)<br>我还没想好要写什么...<br>2011-09-04 00:33<br>赞(0) 踩(0) | <div>仔细一听 这张专辑还是这首最有以前的感觉。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5425016)<br><br>2011-09-03 23:53<br>赞(0) 踩(0) | <div>我手握很重很重的伤戒不了对幸福的幻想我有种很坏的预感好的才和你分享别轻视一个秘密别错过爱的时间要是我双眼紧闭都听不到你呼吸</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5425016)<br><br>2011-09-03 23:51<br>赞(0) 踩(0) | <div>我手握很重很重的伤戒不了对幸福的幻想我有种很坏的预感好的才和你分享别轻视一个秘密别错过爱的时间要是我双眼紧闭都听不到你呼吸</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5425016)<br><br>2011-09-03 23:53<br>赞(0) 踩(0) | <div>我手握很重很重的伤<br>戒不了对幸福的幻想<br>我有种很坏的预感<br>好的才和你分享<br><br>别轻视一个秘密<br>别错过爱的时间<br>要是我双眼紧闭<br>都听不到你呼吸</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5425016)<br><br>2011-09-03 23:51<br>赞(0) 踩(0) | <div>我手握很重很重的伤<br>戒不了对幸福的幻想<br>我有种很坏的预感<br>好的才和你分享<br><br>别轻视一个秘密<br>别错过爱的时间<br>要是我双眼紧闭<br>都听不到你呼吸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251350)<br><br>2011-09-02 22:31<br>赞(0) 踩(0) | <div>OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/144091)<br><br>2011-08-16 13:06<br>赞(0) 踩(0) | <div>和爱人在车里听这首歌，一定很心醉~~浪漫满泄~~~我手握很重很重的伤，戒不了对幸福的幻想。不管受了多少伤，当遇到那个对的人的时候，还是会让你变得很强大~爱情的力量</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1197472)<br><br>2011-08-03 15:38<br>赞(0) 踩(0) | <div>“我手握很重很重的伤，戒不了对幸福的幻想，我有种很坏很坏的预感，好的才和你分享……别轻视一个秘密，别错过爱的时间，你只需简单刻画，就令我动心”——我想说，好的爱情让人变强大，而这份爱本身却是彼此最大的弱点。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263569)<br><br>2011-07-25 14:29<br>赞(0) 踩(0) | <div>我手握很重很重的伤，戒不掉幸福的幻想。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263569)<br><br>2011-07-25 12:18<br>赞(0) 踩(0) | <div>我手握很重很重的伤，戒不了对幸福的幻想。陈珊妮为什么总能写出这么毒的词。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263569)<br><br>2011-07-25 12:18<br>赞(0) 踩(0) | <div>我手握很重很重的伤，戒不了对幸福的幻想。<br>陈珊妮为什么总能写出这么毒的词。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/471121)<br><br>2011-07-25 10:58<br>赞(0) 踩(0) | <div>我手握很重很重的伤，戒不了对幸福的幻想！  慵懒地让我流泪...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2646243)<br> <br>2011-07-22 00:13<br>赞(0) 踩(0) | <div>单曲循环 晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1363529)<br><br>2011-07-13 23:49<br>赞(0) 踩(0) | <div>我手握很重很重的伤~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084737)<br><br>2011-07-09 11:22<br>赞(0) 踩(0) | <div>我手握很重很重的伤经历过最糟糕的排场我有种很坏的预感好的才和你分享</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084737)<br><br>2011-07-09 11:21<br>赞(0) 踩(0) | <div>我手握很重很重的伤经历过最糟糕的排场我有种很坏的预感好的才和你分享</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084737)<br><br>2011-07-09 11:22<br>赞(0) 踩(0) | <div>我手握很重很重的伤<br><br>经历过最糟糕的排场<br><br>我有种很坏的预感<br><br>好的才和你分享</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084737)<br><br>2011-07-09 11:21<br>赞(0) 踩(0) | <div>我手握很重很重的伤<br>经历过最糟糕的排场<br>我有种很坏的预感<br>好的才和你分享</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3711816)<br><br>2011-07-07 13:38<br>赞(0) 踩(0) | <div>好吧，沉重的爱情能被演绎的如此轻快，小清新下&amp;amp;gt;_&amp;amp;lt;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2859595)<br>我跟你描述一个灵魂，他拥...<br>2011-07-06 18:24<br>赞(0) 踩(0) | <div>感觉就是“~~~~~~~~~~~”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/823861)<br><br>2011-07-02 19:29<br>赞(0) 踩(0) | <div>有味道........</div> |
@@ -208,12 +208,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1186074)<br><br>2011-06-21 14:05<br>赞(0) 踩(0) | <div>請牢記此刻甜蜜 /請親近以為親親</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309156)<br><br>2011-06-21 08:55<br>赞(0) 踩(0) | <div>创作才女</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304015)<br><br>2011-06-21 00:14<br>赞(0) 踩(0) | <div>暗黑系女王变成阳光小清新我也还是爱你~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3965131)<br><br>2011-06-20 18:43<br>赞(0) 踩(0) | <div>“我手握很重很重的伤戒不了对幸福的幻想我有种很坏的预感好的才和你分享”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3965131)<br><br>2011-06-20 18:43<br>赞(0) 踩(0) | <div>“我手握很重很重的伤<br>戒不了对幸福的幻想<br>我有种很坏的预感<br>好的才和你分享”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583041)<br>你怎么能问吃货饿不饿？！<br>2011-06-20 15:06<br>赞(0) 踩(0) | <div>别人都在努力的为期末拼命，不知道他们有什么样的目的。他们为了不挂科，我为的，是给别人看到我在为爱努力。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1737732)<br>这么多好歌这辈子肯定听不...<br>2011-06-20 14:48<br>赞(0) 踩(0) | <div>听的不想上班</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4026403)<br><br>2011-06-19 00:18<br>赞(0) 踩(0) | <div>给我一点灵感 让我学学咏叹;给我一点灵感 抱怨这时代;给我一点遗憾 接近释怀;沉沦吧 青春！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1582561)<br> <br>2011-06-18 23:31<br>赞(0) 踩(0) | <div>这张专辑大爱，这首大爱的大爱。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2011-06-18 15:20<br>赞(0) 踩(0) | <div>我手握很重很重的伤戒不了对幸福的幻想</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2011-06-18 15:20<br>赞(0) 踩(0) | <div>我手握很重很重的伤<br>戒不了对幸福的幻想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/690288)<br>虚情假意<br>2011-06-18 15:19<br>赞(0) 踩(0) | <div>最喜欢这首~！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/856026)<br>♫ ☮ ♥<br>2011-06-17 22:20<br>赞(0) 踩(0) | <div>太喜歡了!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1030568)<br>乐色撩人<br>2011-06-17 21:01<br>赞(0) 踩(0) | <div>昏黄暧昧华丽灯光下的情调</div> |

@@ -3,13 +3,10 @@ Miss.M
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b730fb0568c015042883c1013c2484ca.png)<br>Miss.M](https://i.xiami.com/missm) | **播放数**: 1007218<br>**粉丝数**: 394<br>**评论数**: 30<br>**地区**: United States of America 美国<br>**风格**: 流行 Pop, 灵魂乐 Soul, 爵士 Jazz, 当代节奏布鲁斯 Contemporary R&B, 当代唱作人 Contemporary Singer-Songwriter<br> |
+| [![](../../images/musicians/b730fb0568c015042883c1013c2484ca.png)<br>Miss.M](https://i.xiami.com/missm) | **地区**: United States of America 美国<br>**风格**: 流行 Pop, 灵魂乐 Soul, 爵士 Jazz, 当代节奏布鲁斯 Contemporary R&B, 当代唱作人 Contemporary Singer-Songwriter<br>**播放数**: 1007218<br>**粉丝数**: 394<br>**评论数**: 30<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -68,8 +65,8 @@ Miss.M
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37683545)<br>茫茫人生好似莽野。<br>2021-01-16 23:41<br>赞(0) 踩(0) | <div>b站见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406047403)<br>啤酒喜欢冰块<br>2021-01-16 11:05<br>赞(0) 踩(0) | <div>网易云见.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54676006)<br>冷記憶<br>2020-12-06 23:55<br>赞(0) 踩(0) | <div>：</div> |

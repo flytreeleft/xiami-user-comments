@@ -55,10 +55,10 @@ End
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3652281)<br><br>2018-12-17 23:00<br>赞(0) 踩(0) | <div>高音尖锐，真爽</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41828526)<br>海量歌无版权做歌单无意义<br>2018-05-16 20:54<br>赞(1) 踩(0) | <div>又是一首大爵士，全球600多位音乐人唱过约1300多版本此歌是1937年Richard Rodgers和Lorenz Hart编写的音乐剧《Babes in Arms》中的一首，由Mitzi Green表演，算理论原唱最出名版本还属1952年Chet Baker加入爵士乐队the Gerry Mulligan quartet后表演的，这版于2015年被美国国会图书馆作为音频遗产收入，我们通常听到的Chet Baker版是1953年的solo，知名版本不乏Sinatra，Ella Fitzgerald这些大咖，我国黄小琥顺子莫文蔚等也唱过同时也以不同版本形式也出现在无数知名影视作品里..</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41828526)<br>海量歌无版权做歌单无意义<br>2018-05-16 20:54<br>赞(1) 踩(0) | <div>又是一首大爵士，全球600多位音乐人唱过约1300多版本<br>此歌是1937年Richard Rodgers和Lorenz Hart编写的音乐剧《Babes in Arms》中的一首，由Mitzi Green表演，算理论原唱<br>最出名版本还属1952年Chet Baker加入爵士乐队the Gerry Mulligan quartet后表演的，这版于2015年被美国国会图书馆作为音频遗产收入，我们通常听到的Chet Baker版是1953年的solo，<br>知名版本不乏Sinatra，Ella Fitzgerald这些大咖，我国黄小琥顺子莫文蔚等也唱过<br>同时也以不同版本形式也出现在无数知名影视作品里..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287549)<br>我还没想好要写什么...<br>2013-06-08 01:12<br>赞(1) 踩(0) | <div>这个版本挺棒</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41828526)<br>海量歌无版权做歌单无意义<br>2018-05-16 21:15<br>赞(0) 踩(0) | <div>对，最喜欢那几声行行行，哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2831815)<br>槽鸡有米刀汤近，野鹤无粮...<br>2012-01-09 19:44<br>赞(0) 踩(0) | <div>@肉包子姥姥   为爱的迁徙的人口，跟我一样多备几双耐徒步的鞋，好好地走。既然确定并决定，就勇敢地平和地一同经历接下来的人生。</div> |

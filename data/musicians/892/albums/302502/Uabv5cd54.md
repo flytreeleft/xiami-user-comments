@@ -46,8 +46,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44681478)<br><br>2020-07-17 15:09<br>赞(0) 踩(0) | <div>温暖，平静，就是妈妈的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35521381)<br>我还没想好要写什么...<br>2018-02-08 12:30<br>赞(2) 踩(0) | <div>他的歌唱得太好听，为什么没红，太喜欢他的歌了，加油</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16422356)<br><br>2017-10-28 00:00<br>赞(2) 踩(0) | <div>王梵瑞本人说这是专辑接近发行的时候，栾树管他要走了人声，给他另外做的一版，他自己不太喜欢这个 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> 这版本制作确实略显粗糙。</div> |

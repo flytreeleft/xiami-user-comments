@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7ce9248f16bc49f1a70561229e8a698c.jpg)<br>章智捷](https://i.xiami.com/secondlife) | **播放数**: 9883243<br>**粉丝数**: 1287<br>**评论数**: 65<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/7ce9248f16bc49f1a70561229e8a698c.jpg)<br>章智捷](https://i.xiami.com/secondlife) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 9883243<br>**粉丝数**: 1287<br>**评论数**: 65<br> |
 
 ## 档案
 
@@ -33,8 +33,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361301855)<br>脚好了，快可以打羽毛球了<br>2020-12-15 19:45<br>赞(0) 踩(0) | <div>自己唱的？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205151039)<br>新石器时代的非中产外星人<br>2020-07-03 22:39<br>赞(0) 踩(0) | <div>苏州人!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210842120)<br>我还没想好要写什么...<br>2020-06-03 12:46<br>赞(0) 踩(0) | <div>还以为是原唱</div> |
@@ -68,7 +68,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/781066)<br><br>2019-02-19 05:09<br>赞(0) 踩(0) | <div>好久没听过这种声线，真的好听，加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407217718)<br><br>2019-01-31 15:38<br>赞(1) 踩(0) | <div>远在家乡的思念，难以维持自己需要的生存 ，我背上梦想出发在东南亚，这里的生存机会 机遇很多看到了梦寐以求的水果天堂，一个月也最少一万让我不舍回家我不想放弃生存梦想！有多少人永远活在懦弱当中，害怕现实的残酷，无法面对生活的压力。可以选择和我一起奋斗！远离所有评判的懦弱 可以得到更多的机遇， 扣扣 1764018393</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379639210)<br>我还没想好要写什么...<br>2019-01-24 08:57<br>赞(20) 踩(0) | <div>你唱的lemon我真的好爱！！！！！声音超好听！！！！彻底爱了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375818672)<br>我们高处见！<br>2019-01-22 10:29<br>赞(1) 踩(0) | <div>表白表白！ <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">今天听见你的声音，是你翻唱薛之谦的你还要我怎样，感觉和原唱差不多诶，就想知道是什么神仙声音啊，进主页听了所有歌曲，声音多是给了我清澈的感觉，（钟爱民谣）还有啊，我喜欢五月天，看见你收藏了五月天的歌曲好感度又加一啦！哈哈哈哈 要是翻唱民谣就好了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375818672)<br>我们高处见！<br>2019-01-22 10:29<br>赞(1) 踩(0) | <div>表白表白！ <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>今天听见你的声音，是你翻唱薛之谦的你还要我怎样，感觉和原唱差不多诶，就想知道是什么神仙声音啊，进主页听了所有歌曲，声音多是给了我清澈的感觉，（钟爱民谣）还有啊，我喜欢五月天，看见你收藏了五月天的歌曲好感度又加一啦！哈哈哈哈 要是翻唱民谣就好了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412645526)<br><br>2019-01-20 11:25<br>赞(0) 踩(0) | <div>我80后，工作忙碌，家庭孩子，很少听到让自己喜欢的声音了，喜欢你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412645526)<br><br>2019-01-20 11:23<br>赞(0) 踩(0) | <div>在哪里找你唱你莫妮卡完整版</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304896641)<br>我以为…很好<br>2019-01-11 10:35<br>赞(0) 踩(0) | <div>很好听</div> |
@@ -85,7 +85,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363019917)<br><br>2018-08-11 03:04<br>赞(2) 踩(0) | <div>阿捷还来虾米么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379219766)<br><br>2018-07-22 23:31<br>赞(1) 踩(0) | <div>哈哈哈，好喜欢你的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369877468)<br><br>2018-07-11 19:31<br>赞(1) 踩(0) | <div>为了你特地下了虾米音乐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336135144)<br><br>2018-06-28 22:45<br>赞(1) 踩(0) | <div>听了男孩圈粉了在考虑要不要下抖音只为了你</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336135144)<br><br>2018-06-28 22:45<br>赞(1) 踩(0) | <div>听了男孩<br>圈粉了<br>在考虑要不要下抖音<br>只为了你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361265095)<br>我还没想好要写什么...<br>2018-04-30 11:13<br>赞(1) 踩(0) | <div>阴天快乐唱得真好.稳.支持你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304505709)<br><br>2018-03-27 21:17<br>赞(2) 踩(0) | <div>我想听   一个又一个， <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2018-03-21 00:01<br>赞(0) 踩(0) | <div><img src="../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |

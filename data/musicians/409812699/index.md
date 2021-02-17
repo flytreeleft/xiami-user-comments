@@ -3,7 +3,7 @@ HUSH
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/48035e62c18b16719b5bb141d0906181.jpg)<br>HUSH](https://i.xiami.com/hush) | **播放数**: 14702726<br>**粉丝数**: 20268<br>**评论数**: 526<br>**地区**: Taiwan, PRC 中国台湾<br>**风格**: 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/48035e62c18b16719b5bb141d0906181.jpg)<br>HUSH](https://i.xiami.com/hush) | **地区**: Taiwan, PRC 中国台湾<br>**风格**: 独立流行 Indie Pop<br>**播放数**: 14702726<br>**粉丝数**: 20268<br>**评论数**: 526<br> |
 
 ## 档案
 
@@ -43,8 +43,8 @@ HUSH
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2021-01-18 01:22<br>赞(0) 踩(0) | <div>✧*｡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333657215)<br>我还没想好要写什么...<br>2020-06-12 20:51<br>赞(0) 踩(0) | <div>男神，前来打卡 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73740960)<br><br>2020-02-29 09:12<br>赞(0) 踩(0) | <div>我最爱的那张现场版呢</div> |
@@ -53,7 +53,7 @@ HUSH
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99201456)<br>一家人就系要齐齐整整<br>2019-11-10 22:30<br>赞(0) 踩(0) | <div>灵魂长着同样的悲伤？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7627013)<br>考古，深度挖掘华语音乐<br>2019-09-20 21:55<br>赞(0) 踩(0) | <div>越来越GAY了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49365982)<br>当断则断<br>2019-09-19 02:15<br>赞(0) 踩(0) | <div>399的票 买不买呢。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13814807)<br>quit loving.<br>2019-08-28 21:41<br>赞(0) 踩(0) | <div>三个字我可以</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13814807)<br>quit loving.<br>2019-08-28 21:41<br>赞(0) 踩(0) | <div>三个字<br>我可以</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5563088)<br>我还没想好要写什么...<br>2019-08-28 19:51<br>赞(0) 踩(0) | <div>最近哥哥在内地各地各种活跃着啊～开心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21341578)<br>这家伙很聪明什么也没留下...<br>2019-08-28 14:07<br>赞(0) 踩(0) | <div>什么时候来上海呀？？？？？之前错过了 ！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114747334)<br><br>2019-08-28 13:32<br>赞(0) 踩(0) | <div>爱您</div> |
@@ -96,7 +96,7 @@ HUSH
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348874684)<br>等待戈多<br>2018-11-10 15:02<br>赞(0) 踩(0) | <div>他什么时候要来广州</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275711973)<br><br>2018-10-21 12:29<br>赞(2) 踩(0) | <div>计划今年出柜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18074360)<br> <br>2018-10-08 09:56<br>赞(0) 踩(0) | <div>我终于看到你的现场了嘿！森林音乐节我有跟着唱哦~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259411204)<br>虾米，等到会员到期，我就...<br>2018-10-07 14:47<br>赞(1) 踩(0) | <div>森林音乐节第三人称打卡</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259411204)<br>虾米，等到会员到期，我就...<br>2018-10-07 14:47<br>赞(1) 踩(0) | <div>森林音乐节<br>第三人称打卡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17691156)<br>あなたに出会えて よかっ...<br>2018-09-23 12:56<br>赞(0) 踩(0) | <div>w</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10213118)<br><br>2018-09-17 10:59<br>赞(0) 踩(0) | <div>我 好喜欢你 的心灵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45478460)<br>爱很烂❤️<br>2018-09-14 11:58<br>赞(1) 踩(0) | <div>新专版权在QQ音乐 我是不会去QQ听的 去苹果音乐听 <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
@@ -125,7 +125,7 @@ HUSH
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78377448)<br><br>2018-05-02 20:53<br>赞(3) 踩(0) | <div>hush的新专辑录好啦，等他巡回啊啊啊啊啊啊啊啊啊旋转开心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258424705)<br>我还没想好要写什么...<br>2018-04-23 10:11<br>赞(17) 踩(0) | <div>hush可以说是满足了我对台湾小男生的各种期待了 ~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278395393)<br><br>2018-04-22 18:21<br>赞(0) 踩(0) | <div>炒鸡棒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301392719)<br>所有的分离都是为了更好地...<br>2018-04-19 23:01<br>赞(0) 踩(0) | <div>你的歌真的很棒要一直坚持写下去</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301392719)<br>所有的分离都是为了更好地...<br>2018-04-19 23:01<br>赞(0) 踩(0) | <div>你的歌真的很棒<br>要一直坚持写下去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53590447)<br>梦归隐<br>2018-03-28 15:05<br>赞(2) 踩(0) | <div>快出新专巡演吧 想念.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233337564)<br>先生<br>2018-03-27 16:31<br>赞(0) 踩(0) | <div>么么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285049473)<br>剛拿起酒杯想和你碰杯 才...<br>2018-03-01 01:14<br>赞(0) 踩(0) | <div>~我喜欢</div> |
@@ -244,7 +244,7 @@ HUSH
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13978900)<br>MUSIC 4 LIFE<br>2016-09-28 04:18<br>赞(0) 踩(0) | <div>来吧 300</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/62924594)<br>世事无常<br>2016-09-25 17:50<br>赞(0) 踩(0) | <div>i love you ~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100848492)<br>我还没想好要写什么...<br>2016-09-19 13:08<br>赞(0) 踩(0) | <div>爱hush</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774208)<br>我还没想好要写什么...<br>2016-08-24 11:51<br>赞(4) 踩(0) | <div>HUSH将于10月4日于上海简单生活节演出！10月4-6日 上海世博公园 简单生活节陈绮贞、张震岳、徐佳莹、李荣浩、许巍、李志、老狼、窦靖童、陈粒、王若琳、赵雷、苏慧伦、陶晶莹、关淑怡、梁博、韦礼安、Faye飞、邱比、陈珊妮 feat 蔡健雅、MATZKA feat A-Lin、魏如萱 feat 马頔、杨乃文 feat 高旗、HUSH feat 阿肆、草东没有派对、万能青年旅店、逃跑计划、好妹妹、旅行团、果味VC、谢震廷、Hello Nico、声音玩具……众星云集！微博：@简单生活节上海 <a href="http://weibo.com/simplelifeshanghai" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/simplelifeshanghai</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774208)<br>我还没想好要写什么...<br>2016-08-24 11:51<br>赞(4) 踩(0) | <div>HUSH将于10月4日于上海简单生活节演出！<br><br>10月4-6日 上海世博公园 简单生活节<br><br>陈绮贞、张震岳、徐佳莹、李荣浩、许巍、李志、老狼、窦靖童、陈粒、王若琳、赵雷、苏慧伦、陶晶莹、关淑怡、梁博、韦礼安、Faye飞、邱比、陈珊妮 feat 蔡健雅、MATZKA feat A-Lin、魏如萱 feat 马頔、杨乃文 feat 高旗、HUSH feat 阿肆、草东没有派对、万能青年旅店、逃跑计划、好妹妹、旅行团、果味VC、谢震廷、Hello Nico、声音玩具……众星云集！<br><br>微博：@简单生活节上海 <a href="http://weibo.com/simplelifeshanghai" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/simplelifeshanghai</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45298985)<br>Wechat:dqx19...<br>2016-08-23 20:19<br>赞(0) 踩(0) | <div>+</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41997868)<br>爱听杨千嬅、梁静茹。愿我...<br>2016-08-20 11:24<br>赞(1) 踩(0) | <div>林丹</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/162979530)<br><br>2016-08-18 13:07<br>赞(0) 踩(0) | <div>291</div> |
@@ -307,8 +307,8 @@ HUSH
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9028760)<br>豆瓣见 spotify ...<br>2016-02-27 01:44<br>赞(1) 踩(0) | <div>☄</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48211350)<br>已弃虾米，勿扰<br>2016-03-22 23:42<br>赞(0) 踩(0) | <div>怎么哪都有你</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9028760)<br>豆瓣见 spotify ...<br>2016-03-23 12:24<br>赞(0) 踩(0) | <div><q><b>三天之内说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116207806)<br> <br>2016-02-21 17:23<br>赞(1) 踩(0) | <div>一开始就喜欢上你的嗓音 跟你也不是简单有缘分一句可以说明 三番两次在台北遇见你 要是能再遇见你就好了（笑:-D）</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2016-02-15 12:27<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116207806)<br> <br>2016-02-21 17:23<br>赞(1) 踩(0) | <div>一开始就喜欢上你的嗓音 跟你也不是简单有缘分一句可以说明 三番两次在台北遇见你 要是能再遇见你就好了<br>（笑:-D）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2016-02-15 12:27<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7676740)<br>没关系。<br>2016-02-08 10:03<br>赞(0) 踩(0) | <div>喜欢上这个魔蝎座</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14817065)<br><br>2016-02-17 13:43<br>赞(0) 踩(0) | <div>QAQ成日都钟意其他人</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7676740)<br>没关系。<br>2016-02-17 13:47<br>赞(0) 踩(0) | <div><q><b>L说：</b></q></div> |
@@ -323,7 +323,7 @@ HUSH
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96623828)<br> <br>2016-01-09 14:38<br>赞(3) 踩(0) | <div>本来是五迷观光团，没想到来了就回不去了，HUSH，好喜欢你啊！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83763716)<br>给你的每一根发丝命名<br>2016-03-01 20:11<br>赞(0) 踩(0) | <div>哈哈哈一样一样 一起别回去 从此多爱一个hush</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37901418)<br>KEEP IT REAL<br>2016-01-09 13:51<br>赞(0) 踩(0) | <div></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153583)<br>我还没想好要写什么...<br>2016-01-04 16:29<br>赞(0) 踩(0) | <div>挺好听的艺人名字专辑名字歌曲名字都是中文+英文 也不嫌烦</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153583)<br>我还没想好要写什么...<br>2016-01-04 16:29<br>赞(0) 踩(0) | <div>挺好听的<br>艺人名字专辑名字歌曲名字都是中文+英文 也不嫌烦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33009066)<br>豬小小<br>2016-01-04 10:24<br>赞(0) 踩(0) | <div>love</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50687425)<br>希望时间静止住<br>2015-12-31 10:58<br>赞(0) 踩(0) | <div>不经意间戳到内心</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16119370)<br>腹中少食口中少言<br>2016-01-23 18:15<br>赞(0) 踩(0) | <div>嘻嘻~</div> |
@@ -337,7 +337,7 @@ HUSH
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44324917)<br>虾米硬起来<br>2015-12-14 13:56<br>赞(0) 踩(0) | <div>哎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79999668)<br>生命是华丽错觉，时间是贼...<br>2015-12-12 01:30<br>赞(1) 踩(0) | <div>听你的歌听到睡不着，好听！ <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9424115)<br>色眼鏡 割り棄てて<br>2015-12-09 21:00<br>赞(0) 踩(0) | <div>姐姐你为什么要给汪苏泷写歌 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49939050)<br>I want to be...<br>2015-12-09 02:33<br>赞(0) 踩(0) | <div>都不忍心晚上刷作业的时候听你的歌，只想什么都不做静静地听。可是这样的话DDL怎么办 哭</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49939050)<br>I want to be...<br>2015-12-09 02:33<br>赞(0) 踩(0) | <div>都不忍心晚上刷作业的时候听你的歌，只想什么都不做静静地听。<br>可是这样的话DDL怎么办 哭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11206846)<br>感动常在<br>2015-12-08 22:45<br>赞(2) 踩(0) | <div>请问真的不是陈柏霖吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85410568)<br>不浪漫的罪名<br>2015-12-07 21:26<br>赞(0) 踩(0) | <div>啊停不下来！好喜欢声音！！n</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25652676)<br>我还没想好要写什么...<br>2015-12-07 18:20<br>赞(1) 踩(0) | <div>对 为了对比才去听孙燕姿版的克卜勒 真的没有HUSH自己的版本好听 编曲太苏心 赞 <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
@@ -354,7 +354,7 @@ HUSH
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47577064)<br>杂食耳<br>2015-12-03 14:51<br>赞(0) 踩(0) | <div>有时候他的声音，比如说高声部他唱不上去啊还有点哑呀有点跑调，不过辨识度好高，关注吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2667299)<br>宁在一思进，莫在一思停<br>2015-12-03 12:38<br>赞(0) 踩(0) | <div>太喜欢这种风格了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39675936)<br><br>2015-12-01 01:48<br>赞(1) 踩(0) | <div>第三人称</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2523233)<br>太热<br>2015-11-26 09:58<br>赞(1) 踩(0) | <div>▲Hush曾在演唱會上大談出櫃。（圖／取自Hush臉書）此外，對於之前的「徵友事件」，Hush認為這並不是壞事，單純只是想要做自己，也因為這件事和公眾人物身分，讓他比起其他人有更多的發言權，想讓大眾知道同性戀並不可怕，更直言「台灣不能只有張惠妹和蔡依林」，雖然沒有想要結婚，仍是在新專輯中寫了1首《同一個答案》來宣揚婚姻平權，「結婚可以成為每個人的選項，這才是平權的真諦。」</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2523233)<br>太热<br>2015-11-26 09:58<br>赞(1) 踩(0) | <div>▲Hush曾在演唱會上大談出櫃。（圖／取自Hush臉書）<br><br>此外，對於之前的「徵友事件」，Hush認為這並不是壞事，單純只是想要做自己，也因為這件事和公眾人物身分，讓他比起其他人有更多的發言權，想讓大眾知道同性戀並不可怕，更直言「台灣不能只有張惠妹和蔡依林」，雖然沒有想要結婚，仍是在新專輯中寫了1首《同一個答案》來宣揚婚姻平權，「結婚可以成為每個人的選項，這才是平權的真諦。」</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9470280)<br>I got stamin...<br>2015-11-24 22:57<br>赞(0) 踩(0) | <div>Hush~sh~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50519364)<br><br>2015-11-21 08:34<br>赞(0) 踩(0) | <div>长得有些像谁，范逸臣？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2482671)<br>时间到溜<br>2015-11-19 14:57<br>赞(0) 踩(0) | <div>你</div> |
@@ -489,7 +489,7 @@ HUSH
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4317138)<br><br>2015-06-10 05:30<br>赞(1) 踩(0) | <div>这种歌不是gay怎么写的出来 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2288372)<br>我还没想好要写什么...<br>2015-06-04 17:46<br>赞(0) 踩(0) | <div>唱功不算好 却很带感= =</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2903912)<br><br>2015-06-01 09:33<br>赞(0) 踩(0) | <div>就是唱太烂</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8953203)<br><br>2015-05-27 16:46<br>赞(1) 踩(0) | <div>声音中听出了杨宗纬，但比他的声音沙另外感觉跟这个人的气质很投合，还蛮喜欢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8953203)<br><br>2015-05-27 16:46<br>赞(1) 踩(0) | <div>声音中听出了杨宗纬，但比他的声音沙<br>另外感觉跟这个人的气质很投合，还蛮喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12843364)<br>期待与你的相遇。<br>2015-05-22 23:45<br>赞(0) 踩(0) | <div>前排卖花生瓜子西瓜冰棍儿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2231127)<br>Bleh 个性古怪<br>2015-05-14 15:52<br>赞(0) 踩(0) | <div>都挺好 就鼻子整得有点over了些</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13940839)<br>口头日记<br>2015-05-13 10:09<br>赞(0) 踩(0) | <div>会红的</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e6215a1b871a39f43411ae7e0dc3bf5b.jpg)<br>阳一](https://i.xiami.com/yangyi) | **播放数**: 5083373<br>**粉丝数**: 4036<br>**评论数**: 27<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/e6215a1b871a39f43411ae7e0dc3bf5b.jpg)<br>阳一](https://i.xiami.com/yangyi) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 5083373<br>**粉丝数**: 4036<br>**评论数**: 27<br> |
 
 ## 档案
 
@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-07 02:40<br>赞(0) 踩(0) | <div>45665</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312768147)<br>内心的故事都寄予音乐，听...<br>2020-02-04 03:31<br>赞(0) 踩(0) | <div>为什么再也听不到那首《从今以后》了，所有音乐网站都没阳一你的版本呢，要知道这也是你的成名曲喔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409947990)<br><br>2020-01-06 18:54<br>赞(0) 踩(0) | <div>好喜欢你的歌曲，10几年前听过，现在又在认真聆听，期待你再出几首新歌。</div> |
@@ -72,10 +72,10 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8213231)<br>8年了，往事如风啊<br>2015-06-27 22:11<br>赞(1) 踩(0) | <div>好喜欢那首从今以后，这里为什么没有</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18243027)<br>Kommunismus!<br>2014-09-29 12:27<br>赞(1) 踩(0) | <div>草 不是唱民谣的阳一啊 这是什么鬼？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34561750)<br><br>2014-03-28 21:14<br>赞(1) 踩(0) | <div>喜欢悲伤点的情歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2014-01-29 21:54<br>赞(2) 踩(0) | <div>阳一，预祝春节快乐：）相信你新的一年，一定会创作出更好的作品，带来我们：）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2014-01-29 21:54<br>赞(2) 踩(0) | <div>阳一，预祝春节快乐：）<br><br>相信你新的一年，一定会创作出更好的作品，带来我们：）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2104186)<br><br>2013-11-26 15:58<br>赞(1) 踩(0) | <div>这个还真喜欢过 至少那首回来我的爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10406311)<br><br>2013-10-18 19:59<br>赞(1) 踩(0) | <div>回来我的爱   曾经喜欢过的一张专辑  可惜没有了发展  期待着重新飞起来</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2013-10-14 15:00<br>赞(1) 踩(0) | <div>正在听《落幕》，很伤感很深情的作品。。。单曲循环中。。。欢迎入驻虾米音乐人：）也希望我们的家乡能尽快的好起来，我在宁波。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2013-10-14 15:00<br>赞(1) 踩(0) | <div>正在听《落幕》，很伤感很深情的作品。。。<br><br>单曲循环中。。。<br><br>欢迎入驻虾米音乐人：）<br><br>也希望我们的家乡能尽快的好起来，我在宁波。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24420641)<br><br>2013-10-14 17:27<br>赞(0) 踩(0) | <div>谢谢！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409947990)<br><br>2020-01-06 18:55<br>赞(0) 踩(0) | <div><q><b>阳一说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5429478)<br>唯有音乐和亲情不可遗落！<br>2013-10-14 14:35<br>赞(2) 踩(0) | <div>支持个！好听！</div> |

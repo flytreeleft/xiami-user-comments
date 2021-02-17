@@ -3,7 +3,7 @@ Katie Goes to Tokyo
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5eb7978198db9685d595fe17ede63e4a.jpg)<br>Katie Goes to Tokyo](https://i.xiami.com/katie) | **播放数**: 6954347<br>**粉丝数**: 7647<br>**评论数**: 164<br>**地区**: Sweden 瑞典<br>**风格**: 欧美流行 Western Pop<br> |
+| [![](../../images/musicians/5eb7978198db9685d595fe17ede63e4a.jpg)<br>Katie Goes to Tokyo](https://i.xiami.com/katie) | **地区**: Sweden 瑞典<br>**风格**: 欧美流行 Western Pop<br>**播放数**: 6954347<br>**粉丝数**: 7647<br>**评论数**: 164<br> |
 
 ## 档案
 
@@ -22,8 +22,8 @@ Katie Goes To Tokyo，是来自瑞典的女创作歌手Kathrine Bergstrom的艺�
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7151428)<br>暖暖的～～<br>2020-07-06 23:51<br>赞(0) 踩(0) | <div><img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272976950)<br>You are a mi...<br>2020-04-23 08:36<br>赞(1) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12221090)<br>逍遥于天地而心意自得<br>2019-08-07 22:57<br>赞(0) 踩(0) | <div>赞</div> |
@@ -86,7 +86,7 @@ Katie Goes To Tokyo，是来自瑞典的女创作歌手Kathrine Bergstrom的艺�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12016219)<br>音逗是你嗦<br>2014-05-13 11:16<br>赞(0) 踩(0) | <div>就是喜欢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3604272)<br><br>2014-05-10 00:22<br>赞(0) 踩(0) | <div>今天听得现场live，非常棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21309582)<br>青云<br>2014-05-02 13:10<br>赞(0) 踩(0) | <div>甜美的叙事曲</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32998988)<br><br>2014-03-31 19:10<br>赞(7) 踩(0) | <div>口袋唱片之瑞典清新女歌手Katie Goes to Tokyo 2014年5月全国巡演5月9日 北京 糖果三层5月10日上海 浅水湾5月11日 南京 古堡酒吧5月13日 重庆 坚果俱乐部5月15日 成都 小酒馆5月16日 武汉 VOX live house5月17日 长沙 红咖俱乐部5月18日 广州 TU凸空间演出信息<a href="http://www.douban.com/event/20382772/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/20382772/</a>艺人豆瓣小站<a href="http://site.douban.com/katiegoestotokyo/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/katiegoestotokyo/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32998988)<br><br>2014-03-31 19:10<br>赞(7) 踩(0) | <div>口袋唱片之瑞典清新女歌手Katie Goes to Tokyo 2014年5月全国巡演<br>5月9日 北京 糖果三层<br>5月10日上海 浅水湾<br>5月11日 南京 古堡酒吧<br>5月13日 重庆 坚果俱乐部<br>5月15日 成都 小酒馆<br>5月16日 武汉 VOX live house<br>5月17日 长沙 红咖俱乐部<br>5月18日 广州 TU凸空间<br>演出信息<a href="http://www.douban.com/event/20382772/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/20382772/</a><br>艺人豆瓣小站<a href="http://site.douban.com/katiegoestotokyo/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/katiegoestotokyo/</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22230922)<br><br>2014-03-06 16:39<br>赞(2) 踩(0) | <div>今天才知道Katie已经38岁了（她在Facebook的某条状态中说自己是属龙的，意味着出生于1976年）。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11648464)<br>~<br>2014-02-16 12:53<br>赞(0) 踩(0) | <div>.-.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4870366)<br><br>2014-02-09 19:25<br>赞(0) 踩(0) | <div>ok</div> |
@@ -107,7 +107,7 @@ Katie Goes To Tokyo，是来自瑞典的女创作歌手Kathrine Bergstrom的艺�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1548279)<br><br>2013-10-01 16:35<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/561104)<br><br>2013-09-21 06:24<br>赞(0) 踩(0) | <div>明明想睡觉了，好吧！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8015969)<br>听好歌<br>2013-09-06 22:24<br>赞(0) 踩(0) | <div>真TMD好听！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2198269)<br>是大厨-<br>2013-08-27 20:46<br>赞(0) 踩(0) | <div>第一次把一个歌手所有的歌都挺完了！！！很适合工作中听！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2198269)<br>是大厨-<br>2013-08-27 20:46<br>赞(0) 踩(0) | <div>第一次把一个歌手所有的歌都挺完了！！！<br>很适合工作中听！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8714428)<br><br>2013-08-05 19:28<br>赞(0) 踩(0) | <div>嗯  声音真好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16774402)<br><br>2013-07-27 07:01<br>赞(0) 踩(0) | <div>sweety</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9741887)<br><br>2013-07-02 16:30<br>赞(0) 踩(0) | <div>lalalalala@</div> |

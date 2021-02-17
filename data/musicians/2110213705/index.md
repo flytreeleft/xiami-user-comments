@@ -3,13 +3,10 @@ RobinHe
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6b8cd27450ea6b9438e1032014e32009.jpg)<br>RobinHe](https://i.xiami.com/robinhe) | **播放数**: 4882854<br>**粉丝数**: 159<br>**评论数**: 9<br>**地区**: Canada 加拿大<br>**风格**: 流行 Pop, 电子 Electronic<br> |
+| [![](../../images/musicians/6b8cd27450ea6b9438e1032014e32009.jpg)<br>RobinHe](https://i.xiami.com/robinhe) | **地区**: Canada 加拿大<br>**风格**: 流行 Pop, 电子 Electronic<br>**播放数**: 4882854<br>**粉丝数**: 159<br>**评论数**: 9<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -25,8 +22,8 @@ RobinHe
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2019-12-05 20:35<br>赞(0) 踩(0) | <div>恩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19789011)<br> <br>2019-04-11 16:32<br>赞(0) 踩(0) | <div>好聽 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">好好聽 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">尤其是在等車、健身、行走時聽感覺真好 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52056952)<br>人生即是到來、相遇、陪伴...<br>2019-03-29 13:02<br>赞(0) 踩(0) | <div>[给力]</div> |

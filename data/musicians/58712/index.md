@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9bd526b37a0fe5da0a54a8b0e961f864.png)<br>川子](https://i.xiami.com/chuanzi) | **播放数**: 10142214<br>**粉丝数**: 24105<br>**评论数**: 786<br>**地区**: China 中国大陆<br>**风格**: 城市民谣 Urban Folk<br> |
+| [![](../../images/musicians/9bd526b37a0fe5da0a54a8b0e961f864.png)<br>川子](https://i.xiami.com/chuanzi) | **地区**: China 中国大陆<br>**风格**: 城市民谣 Urban Folk<br>**播放数**: 10142214<br>**粉丝数**: 24105<br>**评论数**: 786<br> |
 
 ## 档案
 
@@ -36,8 +36,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/960607)<br>随遇而安<br>2021-01-24 09:16<br>赞(0) 踩(0) | <div>多多支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380229681)<br>無所謂都<br>2020-03-18 15:09<br>赞(2) 踩(0) | <div>以前上中學，住在橫一條，最興奮的事就是晚上去合炫聽川哥唱歌，合炫時候的川哥已經不經常回來唱一直在外面演出，所以能聽到實屬不易。再早的時候是在方莊吉他吧年代的時候，川歌的歌伴著我叛逆的青春期，我現在在香港生活，懷念當時的日子。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13845745)<br> <br>2019-10-10 16:51<br>赞(1) 踩(0) | <div>就喜欢郑钱花</div> |
@@ -152,7 +152,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15289221)<br>冯洋<br>2014-10-13 15:23<br>赞(0) 踩(0) | <div>什么基波 还用教父的曲子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23406921)<br>你不是我，怎知我的苦亦乐<br>2014-09-24 01:37<br>赞(0) 踩(0) | <div>谢谢您的歌。温暖了我 ，本以为中国也就只有流行歌曲，总是寻找欧美那种直接切真切的感情，看来来对虾米了，又找到许多好歌。 加油支持。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16377579)<br> <br>2014-10-03 23:51<br>赞(0) 踩(0) | <div>自从用了虾米以后就再也没换过播放器</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2439226)<br>我还没想好要写什么...<br>2014-09-21 08:12<br>赞(0) 踩(0) | <div>我们都会经历这样的东西。没有吻，也没有性。甚至没有一句“我爱你”可我们始终相亲相爱。————今生缘</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2439226)<br>我还没想好要写什么...<br>2014-09-21 08:12<br>赞(0) 踩(0) | <div>我们都会经历这样的东西。<br>没有吻，也没有性。<br>甚至没有一句“我爱你”<br>可我们始终相亲相爱。————今生缘</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13552)<br><br>2014-09-15 17:39<br>赞(0) 踩(0) | <div>今生缘、去天堂的孩子、许个愿吧、有谁在思念、爱人晚安</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11322994)<br>Good things<br>2014-09-06 19:46<br>赞(0) 踩(0) | <div>评论卡在666</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7852517)<br>L’Homme Révo...<br>2014-08-21 18:42<br>赞(2) 踩(0) | <div>川子 这哥们儿 太对路了</div> |
@@ -202,7 +202,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/745483)<br>pseudo-vegan<br>2013-11-08 07:27<br>赞(0) 踩(0) | <div>真性情唱好歌！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13034950)<br>五音不全者<br>2013-11-07 18:41<br>赞(0) 踩(0) | <div>happy birthday~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9675128)<br>心在路上<br>2013-10-31 14:15<br>赞(0) 踩(0) | <div>祝川子生日快乐~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2013-10-31 09:26<br>赞(0) 踩(0) | <div>天蝎座心语【天蝎座10月31日生日密码】今天出生的人十分自豪自己天生就是细心的观察家，非常擅于处理细节部份的问题。他们拥有可以集中全副精力的能力，使他们得以一路披荆斩棘、突破重围，这股如雷电般锐不可挡的冲力，也使他们成为相当可怕且难应付的敌手。祝10.31生日的天蝎座生日快乐！[蛋糕]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2013-10-31 09:26<br>赞(0) 踩(0) | <div>天蝎座心语<br>【天蝎座10月31日生日密码】今天出生的人十分自豪自己天生就是细心的观察家，非常擅于处理细节部份的问题。他们拥有可以集中全副精力的能力，使他们得以一路披荆斩棘、突破重围，这股如雷电般锐不可挡的冲力，也使他们成为相当可怕且难应付的敌手。祝10.31生日的天蝎座生日快乐！[蛋糕]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6176524)<br>随遇而安<br>2013-10-31 09:01<br>赞(0) 踩(0) | <div>生日快乐，天蝎座！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6326)<br><br>2013-10-30 09:28<br>赞(0) 踩(0) | <div>生日快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4136304)<br><br>2013-10-29 13:17<br>赞(0) 踩(0) | <div>川子大叔～生日快乐哦～～</div> |
@@ -258,7 +258,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416711628)<br><br>2019-06-23 13:47<br>赞(0) 踩(0) | <div>还你能收到回复吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73)<br>等风景都看透 谁陪我看细...<br>2013-09-10 13:05<br>赞(0) 踩(0) | <div>欢迎川哥~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8966559)<br><br>2013-09-06 12:05<br>赞(0) 踩(0) | <div>就是喜欢听！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-09-05 04:12<br>赞(0) 踩(0) | <div>欢迎入驻。775993,9906,573</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-09-05 04:12<br>赞(0) 踩(0) | <div>欢迎入驻。<br>775993,9906,573</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190256)<br>我的80年代<br>2013-09-04 21:13<br>赞(0) 踩(0) | <div>不知道本人来不来看，不过作为粉丝。顶一个，川子~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6859183)<br>一只乌鸦...<br>2013-09-04 18:48<br>赞(0) 踩(0) | <div>欢迎川子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8559347)<br><br>2013-09-04 17:08<br>赞(0) 踩(0) | <div>说实话，川子的歌我真不是很喜欢，但是那首《今生缘》真是不错...</div> |
@@ -268,7 +268,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8103153)<br><br>2013-08-26 23:18<br>赞(0) 踩(0) | <div>帅呆了。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3875012)<br>我还没想好要写什么...<br>2013-08-24 16:36<br>赞(0) 踩(0) | <div>很棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1851561)<br><br>2013-08-22 19:00<br>赞(0) 踩(0) | <div>啊啊 实在人</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/519547)<br>音與樂 愛與恒<br>2013-08-16 15:29<br>赞(0) 踩(0) | <div>川子的酒吧：合炫音乐工厂：北京市丰台区刘家窑宋庄路顺一条8号联系电话：010-87670354乘车路线：公交 51、12、741、434、654、39……到“刘家窑桥西”地铁 5号线到“刘家窑”站，东南口出往东见“大中电器城”进宋庄路30米见“今朝装饰”院内</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/519547)<br>音與樂 愛與恒<br>2013-08-16 15:29<br>赞(0) 踩(0) | <div>川子的酒吧：合炫音乐工厂：北京市丰台区刘家窑宋庄路顺一条8号<br>联系电话：010-87670354<br>乘车路线：公交 51、12、741、434、654、39……到“刘家窑桥西”<br>地铁 5号线到“刘家窑”站，东南口出往东见“大中电器城”进宋庄路30米见“今朝装饰”院内</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8583730)<br>我还没想好要写什么...<br>2013-08-10 21:17<br>赞(0) 踩(0) | <div>第一次听到郑钱花</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1946485)<br>incredible<br>2013-08-10 14:41<br>赞(0) 踩(0) | <div>大隐于世,支持...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18683216)<br><br>2013-08-09 18:15<br>赞(0) 踩(0) | <div>这牢里出来的哥们儿！</div> |
@@ -348,13 +348,13 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2269025)<br><br>2012-08-11 10:32<br>赞(0) 踩(0) | <div>无尽的沧桑岁月-川子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9251472)<br><br>2012-08-05 21:40<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2668437)<br><br>2012-08-03 15:53<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1507047)<br>9 Crimes<br>2012-07-30 11:52<br>赞(1) 踩(0) | <div>听了“兄弟”  喜欢上川子。好听的声音。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1507047)<br>9 Crimes<br>2012-07-30 11:52<br>赞(1) 踩(0) | <div>听了“兄弟”  喜欢上川子。<br>好听的声音。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7944228)<br><br>2012-07-28 14:02<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9923388)<br>永远年轻，永远热泪盈眶<br>2012-07-23 10:29<br>赞(0) 踩(0) | <div>爱民谣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2913419)<br><br>2012-07-22 21:58<br>赞(0) 踩(0) | <div>歌词很好~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2635872)<br>心与境寂，道随悟深！<br>2012-07-21 04:16<br>赞(0) 踩(0) | <div>真实</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7816774)<br>我还没想好要写什么...<br>2012-07-11 11:22<br>赞(0) 踩(0) | <div>川子又一次写进了我的内心，像之前所有为这些摇滚歌曲、民谣歌曲献身的人一样，这是所有不懂“摇滚”这个真正含义的人所不能明白的。其实“摇滚”是一种生活状态。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/632448)<br><br>2012-07-09 01:31<br>赞(1) 踩(0) | <div>还有比这更应该支持的歌手吗?<a href="http://jackychueng.diandian.com/" target="_blank" rel="nofollow noreferrer noopener">http://jackychueng.diandian.com/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/632448)<br><br>2012-07-09 01:31<br>赞(1) 踩(0) | <div>还有比这更应该支持的歌手吗?<br><a href="http://jackychueng.diandian.com/" target="_blank" rel="nofollow noreferrer noopener">http://jackychueng.diandian.com/</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9740340)<br>笑过风歌<br>2012-07-08 22:22<br>赞(0) 踩(0) | <div>有性格的原创，支持！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9626570)<br>悲催的70-80<br>2012-06-29 09:23<br>赞(0) 踩(0) | <div>有着类似的人生经历</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15264)<br>暂无签名~<br>2012-06-15 20:16<br>赞(0) 踩(0) | <div>豪迈</div> |
@@ -423,7 +423,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108163)<br><br>2011-12-07 19:23<br>赞(0) 踩(0) | <div>#你懂的#</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/782209)<br><br>2011-12-06 22:39<br>赞(0) 踩(0) | <div>恩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1082509)<br><br>2011-12-05 17:17<br>赞(0) 踩(0) | <div>不错的歌手</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6465227)<br><br>2011-12-04 15:58<br>赞(0) 踩(0) | <div>\&amp;quot;面对音乐，人人都是赤裸的。他是那样，用最温柔的手段，把你的伪装一层层撕去。”</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6465227)<br><br>2011-12-04 15:58<br>赞(0) 踩(0) | <div>\&amp;quot;面对音乐，人人都是赤裸的。<br>他是那样，用最温柔的手段，<br>把你的伪装一层层撕去。”</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7023776)<br><br>2011-12-04 15:16<br>赞(0) 踩(0) | <div>用心去听~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6779652)<br><br>2011-12-02 22:35<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6490837)<br>听好的音乐喝陈酿老酒<br>2011-12-02 17:59<br>赞(0) 踩(0) | <div>歌有厚度</div> |
@@ -465,7 +465,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/469851)<br>这世间，唯有梦想和好姑娘...<br>2011-11-09 16:38<br>赞(0) 踩(0) | <div>...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6000647)<br><br>2011-11-07 18:33<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4033942)<br><br>2011-11-07 13:01<br>赞(0) 踩(0) | <div>很不错的摇滚风~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3378834)<br>我还没想好要写什么...<br>2011-11-05 17:08<br>赞(0) 踩(0) | <div>很现实的音乐比起有些人唱的爱来爱去 无痛呻吟 他们简直就是垃圾</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3378834)<br>我还没想好要写什么...<br>2011-11-05 17:08<br>赞(0) 踩(0) | <div>很现实的音乐<br>比起有些人唱的爱来爱去 无痛呻吟 他们简直就是垃圾</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6522338)<br><br>2011-11-05 17:00<br>赞(0) 踩(0) | <div>感人肺腑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3768279)<br><br>2011-11-04 09:02<br>赞(0) 踩(0) | <div>率直的人，用歌曲去直接表达。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1975669)<br><br>2011-11-01 21:28<br>赞(0) 踩(0) | <div>头回听他的 挣钱花 觉的这个人是在用心唱歌</div> |
@@ -538,7 +538,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/748513)<br><br>2011-08-15 00:29<br>赞(0) 踩(0) | <div>Tsan</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248810)<br>豆姐与宝宝<br>2011-08-14 21:52<br>赞(0) 踩(0) | <div>正宗的野调子</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3374930)<br>音乐是毒药<br>2011-08-17 18:22<br>赞(0) 踩(0) | <div>顶</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183538)<br>逝水洗金沙<br>2011-08-14 11:50<br>赞(0) 踩(0) | <div><a href="http://www.tudou.com/programs/view/EUapTyhbRlA/" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/EUapTyhbRlA/</a>七月的人民~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183538)<br>逝水洗金沙<br>2011-08-14 11:50<br>赞(0) 踩(0) | <div><a href="http://www.tudou.com/programs/view/EUapTyhbRlA/" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/EUapTyhbRlA/</a><br>七月的人民~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220719)<br>自知不自見，自愛不自貴<br>2011-08-14 08:28<br>赞(0) 踩(0) | <div>七月的人民！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/492590)<br><br>2011-08-11 22:44<br>赞(0) 踩(0) | <div>我流泪拉，潮</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3633176)<br><br>2011-08-11 00:30<br>赞(0) 踩(0) | <div>七月的人民</div> |
@@ -577,7 +577,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2588288)<br>相信即是光明，怀疑即是黑...<br>2011-07-04 15:41<br>赞(0) 踩(0) | <div>川子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325709)<br>脱完衣服就被抛弃<br>2011-07-02 18:50<br>赞(0) 踩(0) | <div>豪放、粗犷的风格，我喜欢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/994938)<br><br>2011-06-30 14:14<br>赞(0) 踩(0) | <div>xianshi</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90535)<br><br>2011-06-28 19:05<br>赞(0) 踩(0) | <div>学习斑鸠琴模拟Rednex</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90535)<br><br>2011-06-28 19:05<br>赞(0) 踩(0) | <div>学习斑鸠琴<br><br>模拟Rednex</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/556312)<br> <br>2011-06-27 22:59<br>赞(0) 踩(0) | <div>幸福啊在哪里，不在这幸福里，四万多一平米，我买不起呀。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1056950)<br>瓦咔咔<br>2011-06-24 16:32<br>赞(0) 踩(0) | <div>雀实牛掰  继续</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583011)<br><br>2011-06-24 14:06<br>赞(0) 踩(0) | <div>真好</div> |
@@ -804,7 +804,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583786)<br><br>2010-08-30 08:44<br>赞(0) 踩(0) | <div>确实·！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341073)<br>dream on<br>2010-08-20 12:29<br>赞(0) 踩(0) | <div>郑钱花 没有呀</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1333032)<br>岁月是首歌~~<br>2010-09-14 13:12<br>赞(0) 踩(0) | <div><a href="http://v.youku.com/v_show/id_XMTg5Nzk3OTg4.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMTg5Nzk3OTg4.html</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1298239)<br>优美的低于生活<br>2010-08-17 18:54<br>赞(0) 踩(0) | <div>伟大的祖国她超有钱呐，四万个亿跟我有蛋关系呢，骄傲的GDP它蹭蹭的涨啊，能给我换来几包尿不湿嘛</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1298239)<br>优美的低于生活<br>2010-08-17 18:54<br>赞(0) 踩(0) | <div>伟大的祖国她超有钱呐，<br><br>四万个亿跟我有蛋关系呢，<br><br>骄傲的GDP它蹭蹭的涨啊，<br><br>能给我换来几包尿不湿嘛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/925975)<br><br>2010-08-09 11:28<br>赞(0) 踩(0) | <div>我也想听郑钱花~~咋没有馁~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1333032)<br>岁月是首歌~~<br>2010-09-14 13:12<br>赞(0) 踩(0) | <div><a href="http://v.youku.com/v_show/id_XMTg5Nzk3OTg4.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMTg5Nzk3OTg4.html</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1284606)<br>留，流。生活不断的告诉我...<br>2010-08-08 12:57<br>赞(0) 踩(0) | <div><a href="http://www.tudou.com/programs/view/Lj07ioBdPRI/" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/Lj07ioBdPRI/</a>   郑钱花现场</div> |

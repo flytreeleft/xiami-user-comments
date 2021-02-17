@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46665616)<br><br>2020-11-01 11:20<br>赞(0) 踩(0) | <div>最爱的惘闻，这么多年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34339123)<br>他从黑暗中生还。<br>2020-10-06 10:25<br>赞(0) 踩(0) | <div>当我们感到无家可归，就相聚在这黄泉水下。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3556002)<br>wubba lubba<br>2020-08-22 04:41<br>赞(1) 踩(0) | <div>真好啊</div> |
@@ -33,7 +30,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6281575)<br><br>2019-04-21 13:09<br>赞(0) 踩(0) | <div>前面是水的味道，后面是喝下后的回味。河水是生水</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6291302)<br><br>2019-04-20 21:04<br>赞(1) 踩(0) | <div>10:27响起的小号好像一声知照，跨过奈何桥，喝过了孟婆汤，一切轮回，去迎接你另外一次人生吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376058427)<br>永远都要做远方爱人的忠诚...<br>2019-02-23 21:26<br>赞(1) 踩(0) | <div>黄泉，忘川。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44577819)<br> <br>2019-02-16 09:48<br>赞(4) 踩(0) | <div>宏大、绵密、细节丰富，一部听觉的电影，一个孤胆英雄的一生。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44577819)<br> <br>2019-02-16 09:48<br>赞(4) 踩(0) | <div>宏大、绵密、细节丰富，<br>一部听觉的电影，<br>一个孤胆英雄的一生。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112463526)<br>豆瓣: 坤斤拷    我...<br>2018-11-19 01:47<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35143624)<br><br>2018-11-17 10:51<br>赞(7) 踩(0) | <div>10:25，小号响起，沉醉不知处。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69052994)<br><br>2018-11-08 18:26<br>赞(0) 踩(0) | <div>煩</div> |
@@ -66,7 +63,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44296599)<br> <br>2017-10-24 22:15<br>赞(2) 踩(0) | <div>死亡是美好的 因为人们活着都很痛苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265553343)<br> <br>2017-10-19 22:58<br>赞(0) 踩(0) | <div>晚上一个人在房间，临睡前听这首歌吓得我把耳机摘了……要说孤独，孤魂野鬼最孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44273773)<br>树上有云<br>2017-10-12 07:21<br>赞(0) 踩(0) | <div>落下来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76004672)<br>じゃ おやすみなさい( ...<br>2017-10-08 22:50<br>赞(0) 踩(0) | <div>鼓声一来突然振奋起来了所以到底他们是怎么样的心情创造出这样的曲子呢</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76004672)<br>じゃ おやすみなさい( ...<br>2017-10-08 22:50<br>赞(0) 踩(0) | <div>鼓声一来<br>突然振奋起来了<br>所以到底他们是怎么样的心情创造出这样的曲子呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45764786)<br>我逐日的老去  我如何舍...<br>2017-10-04 10:42<br>赞(3) 踩(0) | <div>好朋友，昨天晚上去世啦！哀！刚好再次听到这段音符～走好！活着的人啊，不要悲伤，这个世界，什么也不属于你的，你的身体都不是你的，只有你的情感是你的，爱去吧！勇敢的爱，不要让它逝去才想起她的珍贵！只有爱是你的！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45764786)<br>我逐日的老去  我如何舍...<br>2017-10-04 10:41<br>赞(2) 踩(0) | <div>好朋友，昨天晚上去世啦！哀！刚好再次听到这段音符～走好！活着的人啊，不要悲伤，这个世界，什么也不属于你的，你的身体都不是你的，只有你的情感是你的，爱去吧！勇敢的爱，不要让它逝去才想起她的珍贵！只有爱是你的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42470611)<br>我还没想好要写什么...<br>2017-07-22 15:37<br>赞(0) 踩(0) | <div>青春的遐想</div> |
@@ -116,7 +113,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/780300)<br>在黎明之前离开<br>2016-06-12 14:50<br>赞(0) 踩(0) | <div>要死</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47341479)<br>(2017.1<br>2016-06-12 13:00<br>赞(4) 踩(0) | <div>刚听时没怎么听进去觉得一般，去livehouse后回来觉得有的感觉了，在回来重复听了很多遍就掉进去出不了，干了这杯黄泉水……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12500222)<br> <br>2016-06-11 03:03<br>赞(3) 踩(0) | <div>有的人还在攀着自己都不知道另一端是什么的脐带上行，有的人和脐带纠缠窒息，有的人肚脐直接就是个洞眼，有的人脐带早被断下，有的人或远或近看它重重落地，于是管它在这颗星球形成的地貌叫做岁月鸿沟。反正啊，我们都是宇宙弃胎，要是买了一张票，就一块被排进一条沟喽。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12500222)<br> <br>2016-06-11 02:25<br>赞(2) 踩(0) | <div>风帆四起，徒劳的琴弓拉网，这个动作一遍遍反复，如挽起死婴地亲切熟悉。随黑色水面摆荡的头颅无疑信号失效，我看到号手好像用力到快要哭泣，可怜我也没能听见它吹出那个羊水破裂的声音。所以摆荡吧 摆荡吧，同一条冥河的弃婴，孤儿，孤魂们。（录音听众们请配合想象现场全场刻录般一圈圈晃头的场面。就是那样）</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12500222)<br> <br>2016-06-11 02:25<br>赞(2) 踩(0) | <div>风帆四起，徒劳的琴弓拉网，这个动作一遍遍反复，如挽起死婴地亲切熟悉。随黑色水面摆荡的头颅无疑信号失效，我看到号手好像用力到快要哭泣，可怜我也没能听见它吹出那个羊水破裂的声音。<br>所以摆荡吧 摆荡吧，同一条冥河的弃婴，孤儿，孤魂们。（录音听众们请配合想象现场全场刻录般一圈圈晃头的场面。就是那样）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40602337)<br>撸狗养鱼<br>2016-06-08 08:20<br>赞(1) 踩(0) | <div>听这张专辑要有耐心，晚上厦门rl。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49905125)<br><br>2016-06-08 03:55<br>赞(1) 踩(0) | <div>呼吸跟歌曲同步，也不知为何</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10987604)<br>用虾米看电影棒棒嗒<br>2016-06-05 18:59<br>赞(0) 踩(0) | <div>想喝了</div> |

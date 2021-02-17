@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24019337)<br><br>2021-01-29 20:56<br>赞(0) 踩(0) | <div>因为喜马拉雅章鱼讲故事而来，非常棒的主播，非常棒的背景乐，感谢你们，酸甜苦辣都在音乐里，懂得都懂，谢谢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50011532)<br>有趣的灵魂万里挑一！<br>2020-03-25 14:41<br>赞(2) 踩(0) | <div>终于找到了&amp;hellip;&amp;hellip;记得四年前的某一天听到的这曲～男和女，绝了听了一个多多，每天单曲重复！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432600394)<br>没有长久的准备就不要心动<br>2020-07-31 11:44<br>赞(0) 踩(0) | <div>我现在也是每天单曲循环 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">真的太好听了</div> |
@@ -43,10 +40,10 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444262359)<br><br>2020-07-25 15:17<br>赞(0) 踩(0) | <div><q><b>Sentimental说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446691248)<br><br>2021-01-22 14:41<br>赞(0) 踩(0) | <div><q><b>chiangce说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378286214)<br><br>2018-07-11 21:49<br>赞(3) 踩(0) | <div>第一次听这轻音乐是在橙光游戏配乐里听到的！给人的感觉是悲伤的，在无望的绝境里回忆往昔点滴的幸福快乐！独自一人缅怀伤感。有一股深深的无奈和后悔。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50939179)<br>那一世 我翻遍十万大山 ...<br>2018-07-09 00:12<br>赞(13) 踩(0) | <div>她颜值可以，会舞会琴，高中教师，喜欢她的人很多，我老了没有精力，付出不了太多，她或许习惯了别人为她付出，而我不能，虽然我已经尽力的想给她点什么，她却并没有什么回示。6月24约她到现场听了音乐会，然后，我们慢慢淡了，我知道我也只是备胎中毫不起眼的一个，那么，就不见了吧。我是一个外科医生。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50939179)<br>那一世 我翻遍十万大山 ...<br>2018-07-09 00:12<br>赞(13) 踩(0) | <div>她颜值可以，会舞会琴，高中教师，喜欢她的人很多，我老了没有精力，付出不了太多，她或许习惯了别人为她付出，而我不能，虽然我已经尽力的想给她点什么，她却并没有什么回示。<br>6月24约她到现场听了音乐会，然后，我们慢慢淡了，我知道我也只是备胎中毫不起眼的一个，那么，就不见了吧。<br>我是一个外科医生。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401510053)<br><br>2019-04-15 16:46<br>赞(0) 踩(0) | <div>会遇见更好的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216801627)<br><br>2019-12-11 19:28<br>赞(0) 踩(0) | <div><q><b>lonely说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197432794)<br>我会的，你会吗？<br>2018-06-19 21:36<br>赞(1) 踩(0) | <div>我站在考场门口，保证一大本证件，摸了摸被凉风吹的冰凉的脸。看看手表，9点多了，还有一场主持考试。抬头看天，有星星，有月亮，真好。明天，音乐表演，你要加油。星光不负赶路人，明天，实现与撒贝宁同台主持的梦，实现与郎朗同台的梦，加油吧，自己。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197432794)<br>我会的，你会吗？<br>2018-06-19 21:36<br>赞(1) 踩(0) | <div>我站在考场门口，保证一大本证件，摸了摸被凉风吹的冰凉的脸。看看手表，9点多了，还有一场主持考试。抬头看天，有星星，有月亮，真好。明天，音乐表演，你要加油。<br>星光不负赶路人，明天，实现与撒贝宁同台主持的梦，实现与郎朗同台的梦，<br>加油吧，自己。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248148911)<br>知足<br>2018-06-18 22:43<br>赞(0) 踩(0) | <div>昨天听了现场版的，真的很棒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321831995)<br><br>2018-06-15 23:28<br>赞(1) 踩(0) | <div>简直是音乐天才，沁入心脾&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350067056)<br>好好的<br>2018-05-23 23:34<br>赞(1) 踩(0) | <div>1981的共勉，我还在，你却已飘散远处，不知你我的蒲公英！</div> |
@@ -91,10 +88,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224680763)<br><br>2016-09-24 13:18<br>赞(0) 踩(0) | <div>GOOD</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204721062)<br> <br>2016-08-20 22:09<br>赞(4) 踩(0) | <div>人真的一步一步走近孤独吗？                 回答：是</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55398970)<br>only's secre...<br>2016-06-21 11:51<br>赞(1) 踩(0) | <div>only music</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181242292)<br><br>2016-05-28 10:54<br>赞(113) 踩(0) | <div>在深圳听了现场音乐会，坐在第一排，一个人，泪流满面。可能音乐对很多人来说是放松，是娱乐，对我来说却是某种救赎。谢谢石进，用那么美好的音乐来唤醒人心里的感动。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181242292)<br><br>2016-05-28 10:54<br>赞(113) 踩(0) | <div>在深圳听了现场音乐会，坐在第一排，一个人，泪流满面。可能音乐对很多人来说是放松，是娱乐，对我来说却是某种救赎。<br>谢谢石进，用那么美好的音乐来唤醒人心里的感动。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345693540)<br>怀着美好和期待静静随音符...<br>2018-02-02 01:07<br>赞(0) 踩(0) | <div>我第一次听音乐会是09年在深圳音乐厅，我听的马恩连修的，整个演奏期间我都在流泪，我以为自己有毛病，还偷偷录了音。常常自己听，票根也保留着，后面搬家不见了。现在也时常去听音乐会，慢慢我不流泪了，可有些曲子还是会让人潸然泪下。人需要感动和被感动，都是种美好，怀着美好和感激的心情在音乐中徜徉</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95172458)<br><br>2018-11-01 23:14<br>赞(0) 踩(0) | <div>******</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52138728)<br><br>2016-04-03 06:14<br>赞(1) 踩(0) | <div>Bambam°东京蓝调Bambam°巴黎红调</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52138728)<br><br>2016-04-03 06:14<br>赞(1) 踩(0) | <div>Bambam°东京蓝调<br>Bambam°巴黎红调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122360860)<br>我还没想好要写什么...<br>2016-03-11 23:56<br>赞(1) 踩(0) | <div>依旧喜欢……希望今年可以去听现场音乐会</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115340576)<br><br>2016-02-18 23:58<br>赞(11) 踩(0) | <div>每次听都恍如脱离现实肮脏又复杂的世界，飘渺得自由自在，清纯得只有情感，无限循环，喜欢得无法自拔。一直在想什么样的思想才能写出这么美的夜曲，安抚着每个烦躁忧郁的灵魂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56582726)<br><br>2015-09-24 10:33<br>赞(3) 踩(0) | <div>“夜的钢琴曲”首首醉人心   小提琴响起的时候心都碎了</div> |

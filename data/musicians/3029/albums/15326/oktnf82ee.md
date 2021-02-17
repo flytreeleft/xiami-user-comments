@@ -51,8 +51,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203457661)<br>IG:c.zhou98<br>2021-01-08 02:27<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32330403)<br><br>2020-10-26 09:16<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32211482)<br>2017<br>2020-10-05 15:22<br>赞(0) 踩(0) | <div>。</div> |
@@ -80,7 +80,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241848377)<br><br>2020-02-16 02:51<br>赞(0) 踩(0) | <div>棒急了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74019960)<br><br>2020-01-31 02:27<br>赞(0) 踩(0) | <div>这就是平时不随便听这歌的原因，听了就停不下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46856099)<br>ゆらゆら<br>2019-12-28 12:22<br>赞(0) 踩(0) | <div>擦干眼泪吧 采束百合花</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/167952490)<br><br>2019-11-24 23:33<br>赞(1) 踩(0) | <div>绝望愤怒不屈人世间死水下的暗涌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/167952490)<br><br>2019-11-24 23:33<br>赞(1) 踩(0) | <div>绝望<br>愤怒<br>不屈<br><br>人世间<br>死水下的暗涌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200751843)<br>我还没想好要写什么...<br>2019-08-21 08:45<br>赞(1) 踩(0) | <div>欧波老师和他的声音玩具对于歌曲氛围的营造简直无敌。不用听歌词，单是编配就让我一身鸡皮疙瘩。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15474148)<br><br>2019-08-19 15:29<br>赞(2) 踩(0) | <div>这一点也不比草东差啊。。为啥声音玩具这么小众，彻底不解</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95812092)<br>没有话语，但有语言。<br>2019-12-01 12:42<br>赞(0) 踩(0) | <div>正因为如此他们才不会火起来，珍惜吧</div> |
@@ -89,7 +89,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18659864)<br>号 周山黎子<br>2019-07-12 13:31<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279885541)<br>没有人会在热河路谈恋爱<br>2019-07-06 23:30<br>赞(0) 踩(0) | <div>在B哥现场爱上声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279885541)<br>没有人会在热河路谈恋爱<br>2019-07-06 23:29<br>赞(0) 踩(0) | <div>没有什么能够永垂不朽</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347593069)<br>双脚踩灯泡，胸口碎大石。<br>2019-06-28 18:35<br>赞(3) 踩(0) | <div>有人听过声音玩具的「晚安国王」吗？年代太久远，记不清了，那天还飞了，记忆有点模糊，忘了唱的什么了。就记得三十多分钟的音乐，好像把一个童话故事以音乐的形式演奏出来了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347593069)<br>双脚踩灯泡，胸口碎大石。<br>2019-06-28 18:35<br>赞(3) 踩(0) | <div>有人听过声音玩具的「晚安国王」吗？<br>年代太久远，记不清了，那天还飞了，记忆有点模糊，忘了唱的什么了。<br>就记得三十多分钟的音乐，好像把一个童话故事以音乐的形式演奏出来了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359739135)<br>PEACE&LOVE<br>2019-07-12 02:22<br>赞(0) 踩(0) | <div>举报了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347593069)<br>双脚踩灯泡，胸口碎大石。<br>2019-07-13 19:37<br>赞(0) 踩(0) | <div><q><b>气质男孩说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359739135)<br>PEACE&LOVE<br>2019-07-13 20:27<br>赞(0) 踩(0) | <div><q><b>钢铁直男刘胡来说：</b></q></div> |
@@ -117,7 +117,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48381117)<br>听听歌，过曰子！<br>2018-04-03 13:43<br>赞(2) 踩(0) | <div>又听一一久</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18531542)<br>梦想：找到理想国;-)<br>2018-02-12 00:35<br>赞(0) 踩(0) | <div>✨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4697)<br><br>2018-02-10 23:13<br>赞(1) 踩(0) | <div>虽然很长，但真好听哦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31164124)<br><br>2018-01-20 12:27<br>赞(33) 踩(0) | <div>声音玩具：小酒馆走出来的传奇乐队 窃以为成都地下音乐的No.1；16年前第一次看现场惊为天人 可以说是成都后摇的前辈（虽然他们自己不承认是postrock）；动辄10+分钟的曲子 跌宕起伏波涛汹涌取自米兰昆德拉作品的《玩笑》《不朽》人文逼格爆棚；还有已成绝唱的《英雄》《晚安国王》成都摇滚的精髓与见证者 forever young!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31164124)<br><br>2018-01-20 12:27<br>赞(33) 踩(0) | <div>声音玩具：小酒馆走出来的传奇乐队 窃以为成都地下音乐的No.1；<br>16年前第一次看现场惊为天人 可以说是成都后摇的前辈（虽然他们自己不承认是postrock）；<br>动辄10+分钟的曲子 跌宕起伏波涛汹涌<br>取自米兰昆德拉作品的《玩笑》《不朽》人文逼格爆棚；<br><br>还有已成绝唱的《英雄》《晚安国王》<br>成都摇滚的精髓与见证者 forever young!</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47633981)<br><br>2019-06-03 20:44<br>赞(0) 踩(0) | <div>请问哪里可以找到《晚安国王》和《英雄》呀，到处都搜不到 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288576125)<br> <br>2018-01-12 10:41<br>赞(4) 踩(0) | <div>欢迎参加我的葬礼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317674)<br>地狱的秘密就是我的秘密。<br>2017-12-31 23:44<br>赞(4) 踩(0) | <div>春兰兮秋菊，长无绝兮终古。</div> |
@@ -157,7 +157,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123629276)<br>她很聪明 什么也没留下<br>2017-05-13 07:34<br>赞(0) 踩(0) | <div>飞行曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288608849)<br> <br>2017-04-29 13:27<br>赞(0) 踩(0) | <div>网易云过来的来打卡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49748006)<br>Fly me to th...<br>2017-04-11 14:08<br>赞(1) 踩(0) | <div>。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137648570)<br>愿人心向善，守一世安稳<br>2017-04-04 08:33<br>赞(0) 踩(0) | <div>没有人会最终留下 没有人会真正离开 我爱你 你就在我的生命里 从始至终梦想有一天 在我的婚礼上 能以《明天你依旧在我身旁》为背景音乐 《不朽》只能循环在我的心里</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137648570)<br>愿人心向善，守一世安稳<br>2017-04-04 08:33<br>赞(0) 踩(0) | <div>没有人会最终留下 没有人会真正离开 我爱你 你就在我的生命里 从始至终<br>梦想有一天 在我的婚礼上 能以《明天你依旧在我身旁》为背景音乐 《不朽》只能循环在我的心里</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31277956)<br>Oops! Sorry <br>2017-03-29 23:56<br>赞(0) 踩(0) | <div>欧叔说了要彻底否定之前的自己重新塑造一个新的自己所以不想唱之前的歌，就像我们每个人一样要不断前进</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271717371)<br>请嫑再来骚扰我<br>2017-03-28 12:02<br>赞(0) 踩(0) | <div>有一种前卫的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56109229)<br>在一個晦暗的時代，妳是唯...<br>2017-03-27 18:31<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
@@ -320,7 +320,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7531320)<br><br>2013-04-01 23:58<br>赞(0) 踩(0) | <div>每次听到好听的作品都不知道at谁来分享一下的DT心情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8134579)<br><br>2013-03-18 11:36<br>赞(0) 踩(0) | <div>声音玩具 《不朽》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9142224)<br>地狱变<br>2013-02-25 21:41<br>赞(0) 踩(0) | <div>没哭泣啊 没分别啊 没有人再记得你的名字啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3152971)<br>suede粉<br>2013-01-27 19:12<br>赞(0) 踩(0) | <div>没有亲吻啊 没有拥抱啊没有 散发幽香百合花没哭泣啊 没分别啊没有人再记得你的名字啊没时间啊 和黑暗啊没有目的再存在你的前方没有祈祷啊 和祝福啊只有苍白脸上的泥土啊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3152971)<br>suede粉<br>2013-01-27 19:12<br>赞(0) 踩(0) | <div>没有亲吻啊 没有拥抱啊<br>没有 散发幽香百合花<br>没哭泣啊 没分别啊<br>没有人再记得你的名字啊<br>没时间啊 和黑暗啊<br>没有目的再存在你的前方<br>没有祈祷啊 和祝福啊<br>只有苍白脸上的泥土啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/456831)<br><br>2013-01-27 02:37<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2054062)<br><br>2013-01-21 20:36<br>赞(0) 踩(0) | <div>想一个人出去喝闷酒，发现口袋里就20块钱，真对不起，这个世界。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11689088)<br><br>2013-03-15 23:52<br>赞(0) 踩(0) | <div>比你还惨，4块五</div> |
@@ -330,11 +330,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4172096)<br><br>2012-10-25 20:45<br>赞(0) 踩(0) | <div>爆喜欢~~~~~~~~~~~~~~~~~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2264022)<br>“我要满足我自己也给你一...<br>2012-07-28 23:19<br>赞(0) 踩(0) | <div>仿佛在一个漫长的瞬间里丧失了存在——露出了一个疏远而迷惘的表情，坠落记忆的井，沉溺在思恋的泥淖。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6936081)<br><br>2012-07-18 17:57<br>赞(0) 踩(0) | <div>朋友推荐的，收藏~~~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5550672)<br><br>2012-07-05 16:15<br>赞(0) 踩(0) | <div>擦干眼泪吧 采束百合花如果你永不会忘记他送给他鲜花 为他歌唱吧如果你会永远爱着他</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5550672)<br><br>2012-07-05 16:15<br>赞(0) 踩(0) | <div>擦干眼泪吧 采束百合花<br>如果你永不会忘记他<br>送给他鲜花 为他歌唱吧<br>如果你会永远爱着他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5550672)<br><br>2012-07-05 00:26<br>赞(0) 踩(0) | <div>深深亲吻吧，紧紧拥抱吧，再看一眼你深爱的人吧；擦干眼泪吧，采束百合花，如果你永不会忘记他。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1637220)<br><br>2012-07-02 01:52<br>赞(0) 踩(0) | <div>擦干眼泪吧，釆束百合花。如果你永不会…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576000)<br>我还没想好要写什么...<br>2012-06-14 08:55<br>赞(0) 踩(0) | <div>国产的后摇也很带感啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3001065)<br><br>2012-06-11 23:53<br>赞(0) 踩(0) | <div>擦干眼泪吧 采束百合花如果你永不会忘记他</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3001065)<br><br>2012-06-11 23:53<br>赞(0) 踩(0) | <div>擦干眼泪吧 采束百合花<br>如果你永不会忘记他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317674)<br>地狱的秘密就是我的秘密。<br>2012-05-18 22:38<br>赞(0) 踩(0) | <div>被严重忽视的时代之声！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/165616)<br><br>2012-05-06 00:54<br>赞(0) 踩(0) | <div>@人工冬眠 擦干眼泪吧 采束百合花</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4404422)<br> <br>2012-04-22 05:16<br>赞(0) 踩(0) | <div>這一支配上我的微博酷背景配上放空簡直太nb了我睡覺了晚安。</div> |
@@ -356,7 +356,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6850490)<br><br>2012-01-10 23:50<br>赞(0) 踩(0) | <div>不朽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7608884)<br> <br>2012-01-10 06:57<br>赞(0) 踩(0) | <div>伤心的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1787951)<br>your songs<br>2012-01-10 06:17<br>赞(0) 踩(0) | <div>晚安</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/812392)<br>q音网易搜央央小月，酷g...<br>2012-01-02 21:48<br>赞(1) 踩(0) | <div>成立于1999的声音玩具，果断地凭借一张专辑打天下，这首长达11分钟的不朽，漫长器乐演奏(后半部分有少许人声)中表达出后摇滚绵长的结构特征。擦干眼泪吧 流动的是空气 死去的是青春破碎的是天空 不朽的是爱情 还有怀揣着的梦想</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/812392)<br>q音网易搜央央小月，酷g...<br>2012-01-02 21:48<br>赞(1) 踩(0) | <div>成立于1999的声音玩具，果断地凭借一张专辑打天下，这首长达11分钟的不朽，漫长器乐演奏(后半部分有少许人声)中表达出后摇滚绵长的结构特征。<br>擦干眼泪吧 流动的是空气 死去的是青春<br>破碎的是天空 不朽的是爱情 还有怀揣着的梦想</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4855499)<br> <br>2012-02-29 13:18<br>赞(0) 踩(0) | <div>死去的是青春，不朽的是爱情和梦想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6311265)<br><br>2011-12-26 15:41<br>赞(0) 踩(0) | <div>如果你会永远爱着她</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2104808)<br><br>2011-12-12 14:59<br>赞(0) 踩(0) | <div>刚刚看到perpetuation这个词。好词好歌~</div> |
@@ -381,15 +381,15 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1540819)<br> <br>2011-05-30 14:10<br>赞(0) 踩(0) | <div>浮云 浮云浮云~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1193087)<br><br>2011-05-12 23:05<br>赞(0) 踩(0) | <div>不是只有钢琴才能奏出撼人心弦的旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2310970)<br>眼角的余光和你对上<br>2011-04-25 02:10<br>赞(0) 踩(0) | <div>擦干眼泪吧·流动的是空气·死去的是青春·破碎的是天空·不朽的是爱情·还有怀揣着的梦想·</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2310970)<br>眼角的余光和你对上<br>2011-04-25 02:02<br>赞(0) 踩(0) | <div>不朽的爱····在死亡中被风吹到颤抖·</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2310970)<br>眼角的余光和你对上<br>2011-04-25 02:02<br>赞(0) 踩(0) | <div>不朽的爱····<br>在死亡中被风吹到颤抖·</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1359026)<br><br>2011-04-22 10:12<br>赞(0) 踩(0) | <div>颓废的音调 喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1493090)<br><br>2011-04-19 17:32<br>赞(0) 踩(0) | <div>不得不说的是这首歌让我想起彼岸花。真的不错。。支持声音玩具</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2444315)<br><br>2011-03-09 22:29<br>赞(0) 踩(0) | <div>媽呀，好長的前奏，差點支持不下來，不過後面沒有想像的驚豔。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/982037)<br><br>2010-10-25 11:53<br>赞(0) 踩(0) | <div>一瞬间的绽放与溃败。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/614597)<br><br>2010-09-25 13:16<br>赞(0) 踩(0) | <div>擦干眼泪吧 采束百合花如果你永不会忘记他</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1086741)<br><br>2010-09-14 12:49<br>赞(1) 踩(0) | <div>很长的前奏，耳朵里满满的忧伤，很容易将人带进了这首歌所想要表达的意境里。同时看了下面的歌词，写的凄美而绝望，简直是词与曲的完美结合。于此让人惊艳的同时，会不由自主的去期待声音出来该会是多么美妙。可惜的，我认为这是最大的败笔，选择的男声显然不能完全将此歌此曲淋漓尽致的演绎，略感失望~但，总体而言。不错！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/614597)<br><br>2010-09-25 13:16<br>赞(0) 踩(0) | <div>擦干眼泪吧 采束百合花<br>如果你永不会忘记他</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1086741)<br><br>2010-09-14 12:49<br>赞(1) 踩(0) | <div>很长的前奏，耳朵里满满的忧伤，很容易将人带进了这首歌所想要表达的意境里。同时看了下面的歌词，写的凄美而绝望，简直是词与曲的完美结合。于此让人惊艳的同时，会不由自主的去期待声音出来该会是多么美妙。可惜的，我认为这是最大的败笔，选择的男声显然不能完全将此歌此曲淋漓尽致的演绎，略感失望~<br>但，总体而言。不错！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/502311)<br><br>2010-06-05 16:19<br>赞(0) 踩(0) | <div>下午看书尽是靡靡之音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/853394)<br><br>2010-05-28 17:53<br>赞(0) 踩(0) | <div>国产，优秀啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/853394)<br><br>2010-05-28 17:53<br>赞(0) 踩(0) | <div>国产，优秀啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34307)<br><br>2010-05-26 19:22<br>赞(0) 踩(0) | <div>深深亲吻吧 紧紧拥抱吧再一次对你所爱的人吧深深亲吻吧 紧紧拥抱吧再看一眼你深爱的人吧擦干眼泪吧 采束百合花如果你永不会忘记他送给他鲜花 为他歌唱吧如果你会永远爱着他没有亲吻啊 没有拥抱啊没有 散发幽香百合花没哭泣啊 没分别啊没有人再记得你的名字啊没时间啊 和黑暗啊没有目的再存在你的前方没有祈祷啊 和祝福啊只有苍白脸上的泥土啊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34307)<br><br>2010-05-26 19:22<br>赞(0) 踩(0) | <div>深深亲吻吧 紧紧拥抱吧<br>再一次对你所爱的人吧<br><br>深深亲吻吧 紧紧拥抱吧<br>再看一眼你深爱的人吧<br><br>擦干眼泪吧 采束百合花<br>如果你永不会忘记他<br>送给他鲜花 为他歌唱吧<br>如果你会永远爱着他<br><br>没有亲吻啊 没有拥抱啊<br>没有 散发幽香百合花<br>没哭泣啊 没分别啊<br>没有人再记得你的名字啊<br>没时间啊 和黑暗啊<br>没有目的再存在你的前方<br>没有祈祷啊 和祝福啊<br>只有苍白脸上的泥土啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266221)<br><br>2009-07-27 13:18<br>赞(0) 踩(0) | <div>只需要好好的听就够了</div> |

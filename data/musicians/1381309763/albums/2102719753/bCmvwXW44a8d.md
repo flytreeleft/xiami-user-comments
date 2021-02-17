@@ -54,5 +54,3 @@ Wave your hands and say hello
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

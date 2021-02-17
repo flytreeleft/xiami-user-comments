@@ -3,13 +3,10 @@ NOXMU
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a61ec55c66a2d1eec85e120e434db7f2.jpg)<br>NOXMU](https://i.xiami.com/noxusmu) | **播放数**: 4406925<br>**粉丝数**: 648<br>**评论数**: 50<br>**地区**: China 中国大陆<br>**风格**: 电子 Electronic, 前卫浩室 Progressive House, 民族融合新世纪 Ethnic Fusion New Age, 热带浩室 Tropical House<br> |
+| [![](../../images/musicians/a61ec55c66a2d1eec85e120e434db7f2.jpg)<br>NOXMU](https://i.xiami.com/noxusmu) | **地区**: China 中国大陆<br>**风格**: 电子 Electronic, 前卫浩室 Progressive House, 民族融合新世纪 Ethnic Fusion New Age, 热带浩室 Tropical House<br>**播放数**: 4406925<br>**粉丝数**: 648<br>**评论数**: 50<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -60,14 +57,14 @@ NOXMU
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435134200)<br><br>2020-08-01 11:27<br>赞(2) 踩(0) | <div>您的The Cure也太棒了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315097282)<br>虾米赛高！！！(๑•̀ㅂ...<br>2020-06-03 13:00<br>赞(2) 踩(0) | <div>这才是真正的国风电音</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439892417)<br>QQ音乐远道而来<br>2020-07-20 21:58<br>赞(0) 踩(0) | <div>这不是国风电音。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374250881)<br>星河滚烫<br>2020-05-12 02:27<br>赞(0) 踩(0) | <div>那首明天没版权了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261434162)<br>I'll be ther...<br>2020-05-06 20:18<br>赞(0) 踩(0) | <div>lullaby太棒了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9178269)<br>我还没想好要写什么...<br>2020-04-06 04:09<br>赞(0) 踩(0) | <div>大神啥时候出新曲，很期待噢！慢慢来，加油！我等着！我们都等着！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9178269)<br>我还没想好要写什么...<br>2020-04-06 04:09<br>赞(0) 踩(0) | <div>大神啥时候出新曲，很期待噢！<br>慢慢来，加油！<br>我等着！<br>我们都等着！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6244839)<br><br>2020-02-23 00:34<br>赞(2) 踩(0) | <div>准备在Youtube上听你的歌，搜了半天没有搜到，回来一看原来是中国人的作品，还以为是外国哪个大牛呢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17677802)<br><br>2020-02-09 01:28<br>赞(2) 踩(0) | <div>like</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47432794)<br>音乐伴我行!<br>2020-01-22 00:27<br>赞(3) 踩(0) | <div>听了这么多电音，终于听到国人创作而且还很不错的作品了，兄弟加油！ <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |

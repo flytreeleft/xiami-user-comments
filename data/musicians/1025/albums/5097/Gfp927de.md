@@ -37,8 +37,8 @@ I Wish You Can Fly Don't Close Your Eyes 你还拥有我的爱<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116643478)<br>我还没想好要写什么...<br>2020-05-07 16:22<br>赞(0) 踩(0) | <div>熊天平也是80后心中的情歌王子吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282294540)<br><br>2019-03-24 11:23<br>赞(1) 踩(0) | <div>以前听熊天平的歌，现在还是喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286568989)<br>love musiclo...<br>2017-09-01 00:11<br>赞(3) 踩(0) | <div>今天突然又听到熊天平的歌，泪流满面，中学时代很喜欢他呢，老是在K歌的时候点他的歌，歌声纯净，能治愈心灵</div> |

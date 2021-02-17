@@ -32,8 +32,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427796258)<br>古老的签名<br>2020-06-23 12:14<br>赞(0) 踩(0) | <div>法王如意宝心咒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258205469)<br><br>2020-06-07 17:26<br>赞(0) 踩(0) | <div>阿弥陀佛阿弥陀佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20153567)<br>我还没想好要写什么...<br>2020-04-09 14:21<br>赞(3) 踩(0) | <div>只要左小不唱，就挺好听。</div> |

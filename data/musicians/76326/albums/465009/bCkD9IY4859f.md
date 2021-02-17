@@ -70,8 +70,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445095736)<br><br>2020-11-12 20:00<br>赞(0) 踩(0) | <div>喜欢雷子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422977215)<br><br>2020-10-31 20:23<br>赞(1) 踩(0) | <div>雷子写给自己的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444274488)<br><br>2020-09-12 17:38<br>赞(1) 踩(0) | <div>我日子脚底摸油了，赵哥的嘴巴摸油了。</div> |
@@ -113,7 +113,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318509204)<br><br>2018-04-22 16:07<br>赞(0) 踩(0) | <div>一个人的日子健康而且舒心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11346280)<br> <br>2018-03-30 20:45<br>赞(0) 踩(0) | <div>最后几句好萌，小雨中的一声小雷 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298010920)<br><br>2018-02-23 20:46<br>赞(0) 踩(0) | <div>内容已删除</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298010920)<br><br>2018-02-23 20:46<br>赞(0) 踩(0) | <div>我爱上他了咋办<img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298010920)<br><br>2018-02-23 20:46<br>赞(0) 踩(0) | <div>我爱上他了咋办<br><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348404586)<br><br>2018-02-09 11:12<br>赞(0) 踩(0) | <div>太棒了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6152702)<br>我还没想好要写什么...<br>2018-01-31 01:35<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/180337892)<br> <br>2018-01-16 21:47<br>赞(0) 踩(0) | <div>雷子！！</div> |
@@ -124,7 +124,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324485984)<br><br>2017-12-11 20:47<br>赞(2) 踩(0) | <div>听了他的歌世界已经安静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324485984)<br><br>2017-12-11 20:46<br>赞(2) 踩(0) | <div>听了他的歌世界都安静下来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259314109)<br>回到虾米的日子，就觉得很...<br>2017-12-05 22:33<br>赞(4) 踩(0) | <div>喜欢赵雷的自侃，介绍自己还不失风趣</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25223595)<br>我就要歌唱~<br>2017-12-03 00:09<br>赞(3) 踩(0) | <div>赵小雷赵小雷赵小雷方脸邻家大孩纸</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25223595)<br>我就要歌唱~<br>2017-12-03 00:09<br>赞(3) 踩(0) | <div>赵小雷赵小雷赵小雷<br>方脸邻家大孩纸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8302587)<br>仰愿无人渡我意…<br>2017-12-02 11:44<br>赞(0) 踩(0) | <div>啊 啊 啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118580476)<br> <br>2017-11-21 07:47<br>赞(1) 踩(0) | <div>赵小雷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318593715)<br><br>2017-11-15 00:01<br>赞(2) 踩(0) | <div>现在的歌手最喜欢听的歌就是赵雷的歌</div> |
@@ -199,7 +199,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/154199394)<br><br>2016-12-24 15:25<br>赞(0) 踩(0) | <div>青涩男孩的蜕变</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2757180)<br><br>2016-12-23 00:32<br>赞(1) 踩(0) | <div>听了十几遍 “啊” 然后睡觉觉去了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230355195)<br>万水千山相逢，柳暗花明心...<br>2016-12-22 23:35<br>赞(0) 踩(0) | <div>Hello</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254749975)<br><br>2016-12-17 01:05<br>赞(147) 踩(0) | <div>觉得这话说的忒形象李逼的歌，生活强奸了我，我特么要艹回来赵雷的歌，生活强奸了我，但是我还是个好姑娘</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254749975)<br><br>2016-12-17 01:05<br>赞(147) 踩(0) | <div>觉得这话说的忒形象<br>李逼的歌，生活强奸了我，我特么要艹回来<br>赵雷的歌，生活强奸了我，但是我还是个好姑娘</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260024063)<br><br>2017-01-07 05:38<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256866151)<br>一包烟，几浊酒，夜夜笙歌<br>2017-01-23 15:59<br>赞(0) 踩(0) | <div>李逼是谁，李志？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247079371)<br><br>2017-02-16 20:27<br>赞(0) 踩(0) | <div>服气 <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
@@ -319,7 +319,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203622815)<br><br>2019-02-23 08:23<br>赞(0) 踩(0) | <div>你也喜欢赵雷的音乐？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409833360)<br><br>2019-07-11 14:06<br>赞(0) 踩(0) | <div>大郎的药吃了吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203113792)<br><br>2019-09-05 12:14<br>赞(0) 踩(0) | <div></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333482593)<br>花店不开了 花继续开<br>2020-06-18 16:40<br>赞(0) 踩(0) | <div>你长得好看你说什么都对</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333482593)<br>花店不开了 花继续开<br>2020-06-18 16:40<br>赞(0) 踩(0) | <div>你长得好看<br>你说什么都对</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333482593)<br>花店不开了 花继续开<br>2020-06-23 09:50<br>赞(0) 踩(0) | <div>说好的矜持呢</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333482593)<br>花店不开了 花继续开<br>2020-06-23 09:52<br>赞(0) 踩(0) | <div><q><b>飞云说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419070449)<br>写什么呢，一切都在音乐里<br>2020-07-01 15:27<br>赞(0) 踩(0) | <div>我的那个天</div> |
@@ -368,7 +368,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12503431)<br>追求卓越幸福就会不期而遇<br>2015-04-09 22:56<br>赞(0) 踩(0) | <div>稀饭 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9058418)<br>晴朗蓝天下 昂头的笑脸 ...<br>2015-03-19 23:06<br>赞(3) 踩(0) | <div>赵小雷阿赵小雷，雷小赵阿雷小赵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41162892)<br>听听回忆的声音<br>2015-03-14 02:15<br>赞(0) 踩(0) | <div>哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11151712)<br><br>2015-03-02 12:07<br>赞(1) 踩(0) | <div>贼逗！赵小雷名字的来历！“赵云将军的赵，竖心小，雷锋的雷。我名字的意思是日照时，下小雨，小雨中响。”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11151712)<br><br>2015-03-02 12:07<br>赞(1) 踩(0) | <div>贼逗！赵小雷名字的来历！<br>“赵云将军的赵，竖心小，雷锋的雷。<br>我名字的意思是日照时，下小雨，小雨中响。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47493941)<br><br>2015-02-21 22:54<br>赞(1) 踩(0) | <div>和你想象的生活有点不搭杆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400235)<br><br>2015-02-19 20:14<br>赞(128) 踩(0) | <div>怎么办！爱上他了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33634014)<br>网易云音乐：乌昂科尔<br>2015-08-14 10:10<br>赞(0) 踩(0) | <div>你完了  哈哈哈哈</div> |
@@ -380,7 +380,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35869849)<br>暂无签名~<br>2015-02-17 19:51<br>赞(0) 踩(0) | <div>赵小雷~赵小雷！赵小雷#赵小雷&amp;amp;赵小雷*赵小雷？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46217388)<br>暂无签名~<br>2015-02-04 11:13<br>赞(0) 踩(0) | <div>中午吃毛线啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44104489)<br>我们绕了这么一圈才遇到<br>2015-01-10 23:29<br>赞(1) 踩(0) | <div>美如画的音乐啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45306843)<br><br>2014-12-26 21:14<br>赞(0) 踩(0) | <div>抬头是太阳 白云 月亮和星星低头是皮鞋 仔裤 不屑的个性和命运</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45306843)<br><br>2014-12-26 21:14<br>赞(0) 踩(0) | <div>抬头是太阳 白云 月亮和星星<br>低头是皮鞋 仔裤 不屑的个性和命运</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42856188)<br><br>2014-12-09 22:06<br>赞(0) 踩(0) | <div>好带感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33113721)<br>你是世上的奇女子呀 我就...<br>2014-11-28 14:37<br>赞(1) 踩(0) | <div>我得影子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12902500)<br>智之所贵，存我为贵；<br>2014-11-02 00:01<br>赞(1) 踩(0) | <div>那天早上正好一听就脑袋抽了，然后就止不住…</div> |
@@ -422,7 +422,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7930034)<br>已经沦为沉默的帮凶<br>2013-12-13 21:55<br>赞(0) 踩(0) | <div>请叫我赵小雷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16630141)<br><br>2013-11-22 22:45<br>赞(0) 踩(0) | <div>现在，我每天提醒自己最多的是：别再任性。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7454769)<br>我还没想好要写什么...<br>2013-10-31 20:15<br>赞(0) 踩(0) | <div>洋宵夜去看赵小雷</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3709390)<br>暂无签名~<br>2013-10-23 23:28<br>赞(0) 踩(0) | <div>赵小雷 啊啊 赵小雷十年前的理想始终没有放弃</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3709390)<br>暂无签名~<br>2013-10-23 23:28<br>赞(0) 踩(0) | <div>赵小雷 啊啊 赵小雷<br>十年前的理想始终没有放弃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1810644)<br>音乐是苦闷冗长的人生解药...<br>2013-10-15 11:36<br>赞(0) 踩(0) | <div>赵雷说时间有点晚了今天就唱到这吧，大伙（其实是我）喊着“赵小雷！赵小雷！”不唱不让你走~~~哈哈哈哈很心满意足的一次演出。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3227554)<br><br>2013-10-12 14:21<br>赞(0) 踩(0) | <div>一听到这首歌就想扑倒他怎么办。。。(=￣ω￣=) @赵雷Z  17号见咯！~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246527)<br><br>2013-10-05 20:56<br>赞(1) 踩(0) | <div>这种歌绝对听起来不累也不吵</div> |

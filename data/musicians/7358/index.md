@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d6f524c68e65733d288a3f494b257f94.png)<br>李维](https://i.xiami.com/willlee) | **播放数**: 17899002<br>**粉丝数**: 3815<br>**评论数**: 257<br>**地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/d6f524c68e65733d288a3f494b257f94.png)<br>李维](https://i.xiami.com/willlee) | **地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 17899002<br>**粉丝数**: 3815<br>**评论数**: 257<br> |
 
 ## 档案
 
@@ -44,8 +44,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48539020)<br><br>2021-01-26 01:42<br>赞(0) 踩(0) | <div>听你和周深的贝加尔湖畔，醉倒在你磁性深情的嗓音里 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375552116)<br><br>2020-05-11 10:24<br>赞(0) 踩(0) | <div>第一次听就惊艳了，这个声音，干净、好听、纯真，属于那种百听不厌的类型!果断收藏，加油李维，支持你!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335142898)<br><br>2020-01-10 10:48<br>赞(1) 踩(0) | <div>感觉没有比赛那时声音存真，是不是使用技巧太多</div> |
@@ -56,7 +56,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274641568)<br><br>2019-05-03 23:14<br>赞(1) 踩(0) | <div>去年父亲去世，勾起对往事的回忆，是因为从心里走过，有过那段痛。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-03-28 05:12<br>赞(3) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375733226)<br><br>2019-02-03 11:58<br>赞(2) 踩(0) | <div>我喜欢这首歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-11-25 22:56<br>赞(2) 踩(0) | <div>我！爱的可惜不是你我！对不起我无心伤了你</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2018-11-25 22:56<br>赞(2) 踩(0) | <div>我！爱的可惜不是你<br>我！对不起我无心伤了你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2409614)<br><br>2018-09-06 17:17<br>赞(2) 踩(0) | <div>那英有眼光，只是势利眼盖过欣赏才华的眼光。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214770701)<br>边伯贤小迷妹<br>2018-08-12 23:59<br>赞(2) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214770701)<br>边伯贤小迷妹<br>2018-08-12 23:59<br>赞(2) 踩(0) | <div>好听哎</div> |
@@ -73,10 +73,10 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40258675)<br> <br>2017-08-22 09:51<br>赞(0) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15266895)<br>瑕不掩<br>2017-10-18 17:51<br>赞(0) 踩(0) | <div>好像是杨琴</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299696520)<br><br>2017-08-20 21:52<br>赞(1) 踩(0) | <div>翻唱的不错</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317372688)<br>Salsamba<br>2017-08-18 02:17<br>赞(1) 踩(0) | <div>你好，你的音乐很棒！我们是来自美国的爵士乐团Salsamba latin jazz group，刚刚上传了我们的一张专辑，希望大家能够互相欣赏互相交流。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317372688)<br>Salsamba<br>2017-08-18 02:17<br>赞(1) 踩(0) | <div>你好，你的音乐很棒！<br>我们是来自美国的爵士乐团Salsamba latin jazz group，刚刚上传了我们的一张专辑，希望大家能够互相欣赏互相交流。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315785784)<br><br>2017-08-10 20:05<br>赞(1) 踩(0) | <div>我很喜欢做我老婆好不好这首歌，你唱的很好，跟原唱唱的一样</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304821466)<br><br>2017-06-16 11:50<br>赞(1) 踩(0) | <div>好听 纯纯的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72553312)<br><br>2017-05-18 19:01<br>赞(0) 踩(0) | <div>声音旋律都很美，把音把的相当到位！如果都是快感歌就好了！男声歌曲大多数好听的就是李维和郑源了，支持你们</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72553312)<br><br>2017-05-18 19:01<br>赞(0) 踩(0) | <div>声音旋律都很美，把音把的相当到位！如果都是快感歌就好了！<br>男声歌曲大多数好听的就是李维和郑源了，支持你们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72553312)<br><br>2017-05-18 18:59<br>赞(0) 踩(0) | <div>我最喜欢的男声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12505542)<br>世界与我同行，唯有音乐读...<br>2017-04-25 13:47<br>赞(1) 踩(0) | <div>第一次听到李维的声音还以为是齐秦的歌曲在播放 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">很舒服、喜欢祝福你越来越好新疆小伙子！ <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14252639)<br>.<br>2017-04-11 08:59<br>赞(1) 踩(0) | <div>in</div> |
@@ -207,7 +207,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3991234)<br>快乐度过每一天。<br>2014-09-01 12:25<br>赞(0) 踩(0) | <div>声音像齐秦。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31975552)<br> <br>2014-09-01 11:57<br>赞(0) 踩(0) | <div>如果他选了齐秦，说不准还能保导师队伍前4名。可惜他选了那英，还是被淘汰。有时候模仿也不是件坏事。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/776020)<br><br>2014-09-01 11:37<br>赞(0) 踩(0) | <div>听你的贝加尔湖畔听哭了，太喜欢你的声音了。加油！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6821723)<br><br>2014-09-01 08:23<br>赞(0) 踩(0) | <div>可惜了啊，那英战队居然没有男歌手出线，觉得李维声线，发音确实有点像齐秦，像“o” “ong”都难以让人不联系到小哥，但是也绝对有不同，比如 “i” 音………… 总的来说没有齐秦飘，更浓郁一些。淡淡的忧伤最高级，齐秦的这句用在他身上最合适了，温柔一刀，果然还是不适合比赛吗o(￣ヘ￣o＃)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6821723)<br><br>2014-09-01 08:23<br>赞(0) 踩(0) | <div>可惜了啊，那英战队居然没有男歌手出线，觉得李维声线，发音确实有点像齐秦，像“o” “ong”都难以让人不联系到小哥，但是也绝对有不同，比如 “i” 音………… 总的来说没有齐秦飘，更浓郁一些。<br>淡淡的忧伤最高级，齐秦的这句用在他身上最合适了，温柔一刀，果然还是不适合比赛吗<br>o(￣ヘ￣o＃)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40687560)<br><br>2014-09-01 08:21<br>赞(0) 踩(0) | <div>好听。虽然没选上，不影响好听。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17229222)<br><br>2014-08-31 23:11<br>赞(0) 踩(0) | <div>好好听，最适合夜晚听，治愈系，加油↖(^ω^)↗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/821320)<br><br>2014-08-31 22:07<br>赞(0) 踩(0) | <div>多难得出一个齐秦，多难得出一个李维。一江水是各版本里最喜欢的，希望出CD版。</div> |
@@ -234,7 +234,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40607689)<br>暂无签名~<br>2014-08-30 11:24<br>赞(1) 踩(0) | <div>好喜欢李维大哥唱歌，声音好好听。好声音啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3487376)<br><br>2014-08-30 10:38<br>赞(0) 踩(0) | <div>温暖</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11629264)<br>右耳擅听道理，左耳喜听情...<br>2014-08-30 10:32<br>赞(38) 踩(0) | <div>难得好听中带有疗愈，还是汪峰和张信哲有眼光。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6821723)<br><br>2014-08-30 18:52<br>赞(0) 踩(0) | <div>可惜了啊，那英战队居然没有男歌手出线，觉得李维声线，发音确实有点像齐秦，像“o” “ong”都难以让人不联系到小哥，但是也绝对有不同，比如 “i” 音………… 总的来说没有齐秦飘，更浓郁一些。淡淡的忧伤最高级，齐秦的这句用在他身上最合适了，温柔一刀，果然还是不适合比赛吗o(￣ヘ￣o＃)</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6821723)<br><br>2014-08-30 18:52<br>赞(0) 踩(0) | <div>可惜了啊，那英战队居然没有男歌手出线，觉得李维声线，发音确实有点像齐秦，像“o” “ong”都难以让人不联系到小哥，但是也绝对有不同，比如 “i” 音………… 总的来说没有齐秦飘，更浓郁一些。<br>淡淡的忧伤最高级，齐秦的这句用在他身上最合适了，温柔一刀，果然还是不适合比赛吗<br>o(￣ヘ￣o＃)</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11629264)<br>右耳擅听道理，左耳喜听情...<br>2014-09-13 14:26<br>赞(0) 踩(0) | <div><q><b>x.x.说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260882387)<br><br>2017-03-15 21:25<br>赞(0) 踩(0) | <div>厂一必人小鬼大少有小公公十小十人刀1历一久尺八反小不</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3487376)<br><br>2014-08-30 10:08<br>赞(1) 踩(0) | <div>李维的歌里是一段段的人生。听着听着觉得内心很温暖很宁静。</div> |
@@ -263,7 +263,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7639752)<br><br>2013-07-20 13:23<br>赞(0) 踩(0) | <div>支持用心的声音！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3045190)<br><br>2013-05-08 14:42<br>赞(0) 踩(0) | <div>听过就会想念的歌声。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5878272)<br>在爱中行走<br>2013-03-30 10:18<br>赞(1) 踩(0) | <div>开始听我还以为是 齐秦呢、</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8244211)<br><br>2013-03-25 14:06<br>赞(0) 踩(0) | <div>从无意间听到的《我们的纪念日》到《鸢尾花》到《送别》到《折子戏》和更多。都安抚得耳朵和心妥妥帖帖的。仔细听的话会有感动不知道从哪里生出来。逐渐演变成我看歌名，搜原唱的歌词，编辑过来，然后听他唱的版本。有天晚上在轻声放《美丽心情》，室友隐隐约约能听到一点，问我“这音乐是《甘愿》么？” 我说不是啊，顺手搜了一下《甘愿》，居然也有他唱的版本，忽然觉得很幸运。（太长了贴不下）:D</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8244211)<br><br>2013-03-25 14:06<br>赞(0) 踩(0) | <div>从无意间听到的《我们的纪念日》到《鸢尾花》到《送别》到《折子戏》和更多。都安抚得耳朵和心妥妥帖帖的。仔细听的话会有感动不知道从哪里生出来。<br>逐渐演变成我看歌名，搜原唱的歌词，编辑过来，然后听他唱的版本。有天晚上在轻声放《美丽心情》，室友隐隐约约能听到一点，问我“这音乐是《甘愿》么？” 我说不是啊，顺手搜了一下《甘愿》，居然也有他唱的版本，忽然觉得很幸运。<br>（太长了贴不下）:D</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9003931)<br>千淘万漉虽辛苦<br>2014-02-02 20:00<br>赞(0) 踩(0) | <div>最爱《星星和我睡不着》。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7129001)<br><br>2013-03-17 15:20<br>赞(0) 踩(0) | <div>背景音乐挺好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6684966)<br><br>2013-02-04 12:35<br>赞(0) 踩(0) | <div>安静纯净的情歌，太美 了。</div> |

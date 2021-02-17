@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/81a161a1a85e9870bd1f4c68d1baa849.jpg)<br>马思唯](https://i.xiami.com/skipmsw) | **播放数**: 30213214<br>**粉丝数**: 59689<br>**评论数**: 1308<br>**地区**: China 中国大陆<br>**风格**: 地下说唱 Underground Hip Hop<br> |
+| [![](../../images/musicians/81a161a1a85e9870bd1f4c68d1baa849.jpg)<br>马思唯](https://i.xiami.com/skipmsw) | **地区**: China 中国大陆<br>**风格**: 地下说唱 Underground Hip Hop<br>**播放数**: 30213214<br>**粉丝数**: 59689<br>**评论数**: 1308<br> |
 
 ## 档案
 
@@ -43,8 +43,8 @@ HIGHER　BROTHERS HIGHER GANG GANG
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250292221)<br>苟且<br>2021-01-29 13:53<br>赞(0) 踩(0) | <div>hi</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320107119)<br>这里藏着唯一能够治愈我的...<br>2021-01-29 10:59<br>赞(0) 踩(0) | <div>生日快乐豆瓣酱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440685817)<br><br>2021-01-29 10:56<br>赞(0) 踩(0) | <div>生日快乐黑马王子</div> |
@@ -58,7 +58,7 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443031901)<br><br>2020-05-20 00:13<br>赞(1) 踩(0) | <div>花花公子啊啊啊啊啊啊 我不想一边虾米跑一边网易云跑啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1206809)<br>Simple is be<br>2020-05-19 10:02<br>赞(1) 踩(0) | <div>崂山道士咋没了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419926232)<br>完 全 保 密<br>2020-04-16 17:30<br>赞(0) 踩(0) | <div>最早听的是MLP，加班的时候一直循环播放，但是现在都听不到了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2791514)<br>此处禁言<br>2020-02-29 15:31<br>赞(0) 踩(0) | <div>虾米还是没版权吗？黑马王子发一下呗</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2791514)<br>此处禁言<br>2020-02-29 15:31<br>赞(0) 踩(0) | <div>虾米还是没版权吗？<br>黑马王子发一下呗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49125374)<br>nite<br>2020-02-28 14:00<br>赞(0) 踩(0) | <div>黑马王子发吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3140019)<br>天马行空<br>2020-02-22 06:23<br>赞(0) 踩(0) | <div>声线太好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236020725)<br>勿扰……<br>2020-02-11 08:07<br>赞(0) 踩(0) | <div>都废了……</div> |
@@ -74,7 +74,7 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410160262)<br><br>2019-08-23 10:17<br>赞(3) 踩(0) | <div>贝贝和马思唯那首咋不见了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323106323)<br>我还没想好要写什么...<br>2019-08-24 14:44<br>赞(0) 踩(0) | <div>我也发现了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428884601)<br><br>2019-08-20 15:36<br>赞(0) 踩(0) | <div>终于能找到一个地方听歌了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116004382)<br>沉迷节奏布鲁斯   R&...<br>2019-08-16 08:40<br>赞(1) 踩(0) | <div>唯一一个嘻哈歌手听他的歌，单循从不会腻的。❤爱</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116004382)<br>沉迷节奏布鲁斯   R&...<br>2019-08-16 08:40<br>赞(1) 踩(0) | <div>唯一一个嘻哈歌手<br>听他的歌，单循从不会腻的。<br>❤爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236020725)<br>勿扰……<br>2019-07-30 16:31<br>赞(0) 踩(0) | <div>劳资手上提的是斩马刀 <img src="../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"> <img src="../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"> <img src="../../images/comments/91ac230eaa1b8acdf15bce3074ebef1d.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428145286)<br><br>2019-08-04 14:22<br>赞(0) 踩(0) | <div>你要斩你赶紧去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407419669)<br><br>2019-05-21 20:17<br>赞(2) 踩(0) | <div>嗯嗯</div> |
@@ -108,11 +108,11 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356701339)<br>我还没想好要写什么...<br>2019-01-30 08:08<br>赞(0) 踩(0) | <div>生日快落老道士</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268617263)<br><br>2019-01-29 17:04<br>赞(0) 踩(0) | <div>马师，生日快乐哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328734342)<br>停业整顿<br>2019-01-29 16:43<br>赞(0) 踩(0) | <div>生日快乐 马师 告诉色痞我爱他</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49199125)<br>…<br>2019-01-29 10:51<br>赞(0) 踩(0) | <div>生日快乐爱你</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49199125)<br>…<br>2019-01-29 10:51<br>赞(0) 踩(0) | <div>生日快乐<br><br>爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204829310)<br>安静听歌(*¯︶¯*)<br>2019-01-29 10:24<br>赞(0) 踩(0) | <div>马思唯这么多女粉了吗  <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259134387)<br>EXO<br>2019-01-29 10:19<br>赞(0) 踩(0) | <div>生日快乐，喜欢你的嘻哈，希望有一天可以去现场看你表演，生日快乐！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97256482)<br>开始于soft lipa<br>2019-01-29 10:11<br>赞(0) 踩(0) | <div>最最最好的马甜甜生日快乐一年比一年更higher</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329447599)<br>❤️<br>2019-01-29 10:09<br>赞(0) 踩(0) | <div>马师26生日快乐给你种草莓味的蛋糕2019如果可以我会去成都看你的live等我 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">比心</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329447599)<br>❤️<br>2019-01-29 10:09<br>赞(0) 踩(0) | <div>马师26生日快乐<br>给你种草莓味的蛋糕<br>2019如果可以我会去成都看你的live<br>等我 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">比心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75890838)<br>世间本无地狱，地狱自在人...<br>2019-01-29 10:08<br>赞(1) 踩(0) | <div>马师，生日快乐，不忘初心嗷higherganggang</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43977033)<br>no love cash...<br>2019-01-29 10:08<br>赞(0) 踩(0) | <div>爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204738312)<br>嘴软心硬<br>2019-01-29 10:04<br>赞(0) 踩(0) | <div>马师生日快乐鸭 <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
@@ -141,11 +141,11 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197213030)<br>我死了<br>2018-09-23 09:57<br>赞(0) 踩(0) | <div>马师</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404580338)<br>我的马思唯啊<br>2018-09-21 13:32<br>赞(1) 踩(0) | <div>很快乐 作为四川妹儿听masweet的方言毫无压力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319574788)<br> ♡     ┻sл!￡...<br>2018-09-20 17:42<br>赞(2) 踩(0) | <div>马思唯的那个diss盖的歌咋没了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301097984)<br>努力拒绝跟风<br>2018-09-11 15:48<br>赞(1) 踩(0) | <div>说说你们听masiwei的第一首歌我是 flava in ya ear.remix</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301097984)<br>努力拒绝跟风<br>2018-09-11 15:48<br>赞(1) 踩(0) | <div>说说你们听masiwei的第一首歌<br>我是 flava in ya ear.remix</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15498065)<br>我还没想好要写什么...<br>2018-08-28 16:55<br>赞(1) 踩(0) | <div>为啥没有资料？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330380232)<br>脏辫换得了<br>2018-08-16 09:24<br>赞(1) 踩(0) | <div>偷心的魔鬼马思唯</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353456889)<br><br>2018-08-03 20:02<br>赞(0) 踩(0) | <div>我 爱 你 啊甜甜</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116004382)<br>沉迷节奏布鲁斯   R&...<br>2018-07-27 18:04<br>赞(1) 踩(0) | <div>哥哥怎么不来中国新说唱？？？<img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116004382)<br>沉迷节奏布鲁斯   R&...<br>2018-07-27 18:04<br>赞(1) 踩(0) | <div>哥哥怎么不来中国新说唱？？？<br><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360899069)<br><br>2018-08-05 11:50<br>赞(0) 踩(0) | <div>去当导师？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122711020)<br><br>2018-08-14 23:05<br>赞(0) 踩(0) | <div>因为你是弟弟</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402339733)<br><br>2018-08-23 10:31<br>赞(0) 踩(0) | <div>你觉得他需要去吗？？</div> |
@@ -171,7 +171,7 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297866895)<br>我来自成都 是成都的恩赐<br>2018-09-08 15:24<br>赞(0) 踩(0) | <div><q><b>烫手的山芋说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85774928)<br>秀出我的姿态<br>2018-09-20 13:57<br>赞(0) 踩(0) | <div><q><b>HH拿爪说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341730410)<br>SCUM<br>2018-05-27 04:18<br>赞(0) 踩(0) | <div>马思唯我爱你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258338768)<br>马思唯脖子上的草莓是我种...<br>2018-05-04 21:44<br>赞(17) 踩(0) | <div>最近文身频率太太太频繁了吧刚刚看到敏哥确认了唯唯没有女朋友(淦 不会有男朋友吧？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258338768)<br>马思唯脖子上的草莓是我种...<br>2018-05-04 21:44<br>赞(17) 踩(0) | <div>最近文身频率太太太频繁了吧<br>刚刚看到敏哥确认了唯唯没有女朋友<br>(淦 不会有男朋友吧？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/150538598)<br>我爱你，虾米！！<br>2018-08-23 16:55<br>赞(0) 踩(0) | <div>淦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356860136)<br><br>2018-05-01 20:53<br>赞(0) 踩(0) | <div>想听old school 了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243088904)<br>音乐是治疗精神疾病的良药...<br>2018-04-30 15:53<br>赞(0) 踩(0) | <div>马爷都5月了还不出歌吗</div> |
@@ -456,7 +456,7 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5409461)<br>from out spa...<br>2018-01-15 16:54<br>赞(0) 踩(0) | <div>删评论吧...不捧不踩就是最好的粉丝.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280752411)<br><br>2018-01-15 19:03<br>赞(0) 踩(0) | <div>麻烦你看下纪录片《嘻哈帝国》，hiphop 本来就是与飞黄腾达连在一起的，所有的rapper都有出名赚大钱的野心，你叫人家地下。你养他啊。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300684323)<br><br>2018-01-15 19:27<br>赞(0) 踩(0) | <div>哈喽</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300684323)<br><br>2018-01-15 19:28<br>赞(0) 踩(0) | <div>qloookuix,cxggf#Cx,0</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300684323)<br><br>2018-01-15 19:28<br>赞(0) 踩(0) | <div>qloookuix,cxggf#<br><br>Cx,0</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236020725)<br>勿扰……<br>2018-01-15 19:34<br>赞(0) 踩(0) | <div>地下是哪里？？地球内部&amp;hellip;&amp;hellip;</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/236020725)<br>勿扰……<br>2018-01-15 19:37<br>赞(0) 踩(0) | <div>什么节目不是笑话？？我看这样好了  干脆 你去搞一个节目</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40043797)<br>世界游民<br>2018-01-15 20:22<br>赞(0) 踩(0) | <div>马思唯看到自己粉丝说的这段话估计气得纹身都要洗掉了</div> |
@@ -504,11 +504,11 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11051264)<br>我还没想好要写什么...<br>2017-08-23 02:45<br>赞(16) 踩(0) | <div>diss快速提高水平</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276647534)<br>就好了<br>2017-08-22 17:11<br>赞(1) 踩(0) | <div>楼下旁麦浪那个你别刷了，小心挨打</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11051264)<br>我还没想好要写什么...<br>2017-08-21 10:14<br>赞(0) 踩(0) | <div>最励志的rapper</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1833588)<br>...<br>2017-08-19 14:42<br>赞(1) 踩(0) | <div>★★★★★★★★我发现你长得和&amp;rarr; 约翰瑟&amp;middot;庞麦浪。。。。 有几分神似~。。。。。（不知是否 有人同感）！★★★★★★★★我发现你长得和&amp;rarr; 约翰瑟&amp;middot;庞麦浪。。。。 有几分神似~。。。。。（不知是否 有人同感）！★★★★★★★★我发现你长得和&amp;rarr; 约翰瑟&amp;middot;庞麦浪。。。。 有几分神似~。。。。。（不知是否 有人同感）！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1833588)<br>...<br>2017-08-19 14:42<br>赞(1) 踩(0) | <div>★★★★★★★★我发现你长得和&amp;rarr; 约翰瑟&amp;middot;庞麦浪。。。。 有几分神似~。。。。。（不知是否 有人同感）！<br>★★★★★★★★我发现你长得和&amp;rarr; 约翰瑟&amp;middot;庞麦浪。。。。 有几分神似~。。。。。（不知是否 有人同感）！<br>★★★★★★★★我发现你长得和&amp;rarr; 约翰瑟&amp;middot;庞麦浪。。。。 有几分神似~。。。。。（不知是否 有人同感）！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1833588)<br>...<br>2017-08-19 14:41<br>赞(0) 踩(0) | <div>★★★★★★★★我发现你长得和&amp;rarr; 约翰瑟&amp;middot;庞麦浪。。。。 有几分神似~。。。。。。（不知是否 有人同感）！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3605814)<br>是一个废人了<br>2017-08-16 14:44<br>赞(3) 踩(0) | <div>马思唯打开了我新世界的大门 喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47715354)<br>   总想在熙熙攘攘的人...<br>2017-08-14 18:03<br>赞(1) 踩(0) | <div>哈哈哈，cool</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115353330)<br>工业金属/说唱<br>2017-08-14 01:07<br>赞(2) 踩(0) | <div>一直都不晓得那啥危啥的，最近挤热点认识了那个Gai，网上扒了些料，哦！Gai刀下提的头颅就是那啥危的啊？&amp;hellip;&amp;hellip;听了双方吵吵曲，深感：一直喜爱的谢帝所在的CDC被一个个娘炮祸害了阴损怪戾心胸苟苟也许就是新冒头一代的心态共性果不然，中国有嘻哈，却没CDC了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115353330)<br>工业金属/说唱<br>2017-08-14 01:07<br>赞(2) 踩(0) | <div>一直都不晓得那啥危啥的，最近挤热点认识了那个Gai，网上扒了些料，哦！Gai刀下提的头颅就是那啥危的啊？&amp;hellip;&amp;hellip;听了双方吵吵曲，深感：一直喜爱的谢帝所在的CDC被一个个娘炮祸害了<br>阴损怪戾心胸苟苟也许就是新冒头一代的心态共性<br>果不然，中国有嘻哈，却没CDC了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121358156)<br> <br>2017-08-19 20:10<br>赞(0) 踩(0) | <div>娘炮说的是马思唯？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115353330)<br>工业金属/说唱<br>2017-08-20 18:37<br>赞(0) 踩(0) | <div><q><b>旧事甚歉说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121358156)<br> <br>2017-08-20 18:47<br>赞(0) 踩(0) | <div><q><b>四道风说：</b></q></div> |
@@ -759,7 +759,7 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55076081)<br>将虾米头像弄成屁股照片的...<br>2016-10-30 12:40<br>赞(0) 踩(0) | <div>多听点歌儿吧老哥</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54467188)<br><br>2016-11-28 13:44<br>赞(0) 踩(0) | <div>来试试</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48097849)<br>我还没想好要写什么...<br>2016-10-29 11:55<br>赞(12) 踩(0) | <div>求你们别理那个GAI爷了 他不是黑马思维是黑GAI爷的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208221276)<br>讲真虾米在我喜欢的方面比...<br>2016-10-26 22:36<br>赞(1) 踩(0) | <div>什么？有人在马师的地盘装逼？✺◟(∗❛ัᴗ❛ั∗)◞✺期待～马师：由他去吧，道士我已渡过雷劫从此脱离凡胎。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208221276)<br>讲真虾米在我喜欢的方面比...<br>2016-10-26 22:36<br>赞(1) 踩(0) | <div>什么？有人在马师的地盘装逼？<br>✺◟(∗❛ัᴗ❛ั∗)◞✺期待～<br>马师：由他去吧，道士我已渡过雷劫从此脱离凡胎。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68833270)<br><br>2016-10-24 21:47<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55076081)<br>将虾米头像弄成屁股照片的...<br>2016-10-22 00:36<br>赞(1) 踩(0) | <div>海尔兄弟最新的伊莎贝尔，太牛逼了。如果这首歌在海外没有爆炸，我直播吃higher brothers mixtape.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55076081)<br>将虾米头像弄成屁股照片的...<br>2016-10-28 23:28<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
@@ -803,7 +803,7 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44528843)<br>暂无签名~<br>2016-09-11 02:58<br>赞(0) 踩(0) | <div>4月是2016年的4月还是2017年的4月？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72097570)<br>只想通过播放列表去了解你<br>2016-09-08 16:52<br>赞(0) 踩(0) | <div>马思维     男神</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216373213)<br> <br>2016-09-06 21:25<br>赞(3) 踩(0) | <div>ty的儿子谢帝的狗</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/892809)<br><br>2016-09-10 05:57<br>赞(0) 踩(0) | <div>来自四川成都的90后未知男生2016-08-22 加入小号还真是厉害...</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/892809)<br><br>2016-09-10 05:57<br>赞(0) 踩(0) | <div>来自四川成都的90后未知男生<br>2016-08-22 加入<br><br>小号还真是厉害...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34632304)<br> <br>2016-09-04 12:00<br>赞(0) 踩(0) | <div>哪个是nigga？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34632304)<br> <br>2016-09-04 12:00<br>赞(0) 踩(0) | <div>母豆</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215650019)<br>虾米超少用 网易云Chi...<br>2016-09-03 23:53<br>赞(0) 踩(0) | <div>马师我要跟你种草莓</div> |
@@ -1051,7 +1051,7 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49010766)<br><br>2015-10-08 17:23<br>赞(0) 踩(0) | <div>OG杀了GAI</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10119270)<br>我还没想好要写什么...<br>2015-10-07 11:25<br>赞(9) 踩(0) | <div>全是些没营养的  满满的自我膨胀歌词  除了挑衅的言语和围绕自我的无脑宣言没别的 你应该叫没头脑 就差一个不高兴</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304343445)<br><br>2017-06-14 22:52<br>赞(0) 踩(0) | <div>这样讲不太好吧？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51964327)<br>    吃了所有<br>2015-10-05 14:04<br>赞(0) 踩(0) | <div>真的   yellow nigga加油加油  真正的rapper</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51964327)<br>    吃了所有<br>2015-10-05 14:04<br>赞(0) 踩(0) | <div>真的   yellow nigga<br><br>加油加油  真正的rapper</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71782982)<br><br>2015-10-05 10:47<br>赞(0) 踩(0) | <div>有些专辑分数好低</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69547254)<br>没耍过<br>2015-10-03 17:05<br>赞(0) 踩(0) | <div>马师rapper</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55567920)<br>What's up<br>2015-10-03 16:03<br>赞(0) 踩(0) | <div>马爷么么</div> |
@@ -1181,7 +1181,7 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16276812)<br> <br>2015-04-22 21:23<br>赞(0) 踩(0) | <div>swag</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10926182)<br><br>2015-04-22 18:11<br>赞(0) 踩(0) | <div>马biggie</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48948405)<br><br>2015-04-18 17:15<br>赞(0) 踩(0) | <div></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48097849)<br>我还没想好要写什么...<br>2015-04-14 19:45<br>赞(0) 踩(0) | <div>他们讨论你像讨论姚明影响力越来越大永不会停</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48097849)<br>我还没想好要写什么...<br>2015-04-14 19:45<br>赞(0) 踩(0) | <div>他们讨论你像讨论姚明<br>影响力越来越大永不会停</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/607980)<br>我还没想好要写什么...<br>2015-04-14 12:15<br>赞(0) 踩(0) | <div>优秀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48084853)<br>Mustard on t...<br>2015-04-14 11:29<br>赞(0) 踩(0) | <div>姚明啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47430515)<br>hustle hard<br>2015-04-14 00:54<br>赞(0) 踩(0) | <div>4月18看你的。！</div> |
@@ -1234,7 +1234,7 @@ HIGHER　BROTHERS HIGHER GANG GANG
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43693064)<br>无所谓<br>2015-06-28 01:28<br>赞(0) 踩(0) | <div>hhhhhh</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46309939)<br><br>2015-01-21 15:57<br>赞(0) 踩(0) | <div>Diao</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17231098)<br>暂无签名~<br>2015-01-20 18:51<br>赞(0) 踩(0) | <div>喜欢喜欢帅惨了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38457939)<br> <br>2015-01-20 13:13<br>赞(0) 踩(0) | <div>mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38457939)<br> <br>2015-01-20 13:13<br>赞(0) 踩(0) | <div>mmmmmmmmmmmmmmmmmmmmmmmmmmmmmm<br>mm</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38457939)<br> <br>2015-01-20 13:11<br>赞(0) 踩(0) | <div>火钳刘翔！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35470058)<br>Clan in da f...<br>2015-01-20 11:08<br>赞(0) 踩(0) | <div>前排刘翔。OG牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43242948)<br>自由<br>2015-01-19 22:56<br>赞(0) 踩(0) | <div>太爽了    CDC OG skip    最帅</div> |

@@ -73,8 +73,8 @@ WU…WU…WU…WU…<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442066778)<br><br>2020-04-08 21:25<br>赞(0) 踩(0) | <div>好歌百听不厌，单曲循环有没有?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364007520)<br><br>2020-02-20 14:00<br>赞(0) 踩(0) | <div>国语版叫“念故乡”，很好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1251506)<br><br>2019-12-12 06:36<br>赞(0) 踩(0) | <div>好</div> |
@@ -140,7 +140,7 @@ WU…WU…WU…WU…<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36081194)<br>酷狗音乐，一个有老歌的地...<br>2016-03-27 15:05<br>赞(0) 踩(0) | <div><q><b>Harlan说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74211688)<br>不一样调调的医生<br>2016-03-27 15:06<br>赞(0) 踩(0) | <div><q><b>微凉说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36081194)<br>酷狗音乐，一个有老歌的地...<br>2016-03-27 15:11<br>赞(0) 踩(0) | <div><q><b>Harlan说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275268)<br><br>2014-06-15 08:29<br>赞(0) 踩(0) | <div>早。无论日后我碰到得与失决不再衡量结局为抓心中所喜欢那个理想我誓再盲目</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275268)<br><br>2014-06-15 08:29<br>赞(0) 踩(0) | <div>早。无论日后我碰到得与失<br>决不再衡量结局<br>为抓心中所喜欢那个理想<br>我誓再盲目</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8292735)<br><br>2014-04-17 02:30<br>赞(0) 踩(0) | <div>经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15424435)<br><br>2014-01-11 01:33<br>赞(21) 踩(0) | <div>22222222 麦洁文曾任香港电台唱片骑师，以重唱《帘卷西风》成名，后拓展不同歌路，《唐吉珂德》、《电光霹雳舞士》、《断》、《路黑风高锡人夜》等风格回然不同的作品都曾广为流行，可算是一名多元化的歌手。值得一提的还有卢国沾填词的《螳螂与我》，这首非情歌运动的代表作己成经典。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323246112)<br><br>2018-03-19 01:23<br>赞(0) 踩(0) | <div>成名作帘卷西风，代表作莱茵河畔</div> |

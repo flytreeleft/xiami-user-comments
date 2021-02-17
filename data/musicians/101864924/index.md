@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4116d3f3f4da1f458dce6bb30c7b261c.jpg)<br>音乐猴子](https://i.xiami.com/musicmonkey) | **播放数**: 4568128<br>**粉丝数**: 220<br>**评论数**: 46<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行说唱 Pop Rap, 放克电子 Electro (Electro-Funk), 欧美流行 Western Pop<br> |
+| [![](../../images/musicians/4116d3f3f4da1f458dce6bb30c7b261c.jpg)<br>音乐猴子](https://i.xiami.com/musicmonkey) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行说唱 Pop Rap, 放克电子 Electro (Electro-Funk), 欧美流行 Western Pop<br>**播放数**: 4568128<br>**粉丝数**: 220<br>**评论数**: 46<br> |
 
 ## 档案
 
@@ -29,8 +29,8 @@ A Fairy Tale Creator  微博：@MusicMonKey
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403350770)<br><br>2020-05-27 20:47<br>赞(0) 踩(0) | <div>特别好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304620892)<br><br>2020-04-16 10:19<br>赞(2) 踩(0) | <div>刚过而立之年的猴子，还能看到封面那个带着哀伤，悲悯，不羁，洒脱的脸庞么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357328576)<br><br>2019-11-19 19:04<br>赞(0) 踩(0) | <div>好听</div> |

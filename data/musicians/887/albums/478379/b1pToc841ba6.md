@@ -75,20 +75,20 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378970676)<br><br>2020-09-28 01:01<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33113721)<br>你是世上的奇女子呀 我就...<br>2019-10-10 22:41<br>赞(0) 踩(0) | <div>好歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238055711)<br>唱歌吧就像没有人聆听一样<br>2019-07-11 05:43<br>赞(1) 踩(0) | <div>间奏吉他solo真你妈过瘾</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303825172)<br><br>2018-12-09 11:06<br>赞(0) 踩(0) | <div>如今儿时的街道，变成钢筋水泥的欲望丛林，就是说我们这种在大城市长大的孩子，从小到大生活的地方，逐渐变成了长安米贵居不易的地方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281281326)<br>一个个正在淡逝的意境，一...<br>2018-10-16 19:28<br>赞(1) 踩(0) | <div>还能说什么，版权一下就没有了 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353886204)<br><br>2018-09-14 00:35<br>赞(4) 踩(0) | <div>曾经空寂的小巷洒着似水流年的灿烂时光没有伤痛和恐惧没有霓虹闪烁的悲凉如今儿时的街道变成钢筋水泥的欲望丛林只有孤独的你我伴着奇幻壮丽的旷世彷徨如今我们都已长大如果我能够选择我要挣脱这满身的枷锁如果我可以飞翔我要展翅飞向那光明的远方让这幽暗的人生变得闪亮向着春暖花开的远方流浪...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353886204)<br><br>2018-09-14 00:35<br>赞(4) 踩(0) | <div>曾经空寂的小巷<br>洒着似水流年的灿烂时光<br>没有伤痛和恐惧<br>没有霓虹闪烁的悲凉<br>如今儿时的街道<br>变成钢筋水泥的欲望丛林<br>只有孤独的你我<br>伴着奇幻壮丽的旷世彷徨<br>如今我们都已长大<br>如果我能够选择<br>我要挣脱这满身的枷锁<br>如果我可以飞翔<br>我要展翅飞向那光明的远方<br>让这幽暗的人生变得闪亮<br>向着春暖花开的远方流浪<br>...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6387963)<br>我还没想好要写什么...<br>2018-08-29 18:19<br>赞(0) 踩(0) | <div>坚决的，如风暴般的吉他和推进</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98156948)<br><br>2018-08-25 03:39<br>赞(0) 踩(0) | <div>为什么我觉得黄勇唱的更好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355663494)<br>愿有一个永不落幕的旅行。<br>2018-08-09 17:05<br>赞(0) 踩(0) | <div>可能汪峰穷一点，就没有那么多人黑他了吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-06-22 00:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80658424)<br><br>2018-06-21 23:02<br>赞(2) 踩(0) | <div>汪峰的歌总能听到其他歌里的旋律，因为，这就是汪峰，他有自己独特的标签</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348574059)<br>还没能明白，怎样最自在。<br>2018-03-07 11:53<br>赞(1) 踩(0) | <div>有时你自己可能都没察觉在你经历一些事或遇到某个人后你就像换了一种性格悄悄地告别了从前的自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348574059)<br>还没能明白，怎样最自在。<br>2018-03-07 11:53<br>赞(1) 踩(0) | <div>有时你自己可能都没察觉<br>在你经历一些事或遇到某个人后<br>你就像换了一种性格<br>悄悄地告别了从前的自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250841208)<br><br>2018-02-19 21:58<br>赞(0) 踩(0) | <div>棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45520469)<br>美是君子一诺<br>2018-02-14 15:14<br>赞(1) 踩(0) | <div>在流浪里致敬海子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348038409)<br><br>2018-02-08 11:19<br>赞(0) 踩(0) | <div>汪峰我爱你</div> |
@@ -99,7 +99,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323034382)<br><br>2018-01-26 22:09<br>赞(0) 踩(0) | <div>同样的心情，离国的孤独</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2017-06-02 14:38<br>赞(1) 踩(0) | <div>果然听汪峰旧歌 就会来听这首 果然又想到fm哈哈哈哈哈哈 可我现在倒是有点想念14年的那个夏天了 不过今年你又要将一批学生带到高考考场了 时间圈啊圈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38522857)<br>有音乐，要什么女朋友？<br>2016-02-29 03:05<br>赞(0) 踩(0) | <div>尼玛下架</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2015-12-04 12:42<br>赞(1) 踩(0) | <div>翻到自己一年前的评论,fm 明天就是你的婚礼,哈哈祝福祝福,</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2015-12-04 12:42<br>赞(1) 踩(0) | <div>翻到自己一年前的评论,<br>fm 明天就是你的婚礼,<br>哈哈祝福祝福,</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3418777)<br>再见了<br>2015-10-30 15:40<br>赞(0) 踩(0) | <div>沉重</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48525474)<br> <br>2015-10-29 16:59<br>赞(1) 踩(0) | <div>娱乐圈是供消费的，或许这也是他们的价值，不管汪峰私生活如何，单听这首歌就无法拒绝，热爱音乐的赤子之心写的就是感悟，他的孤独。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51707406)<br><br>2015-10-28 00:33<br>赞(0) 踩(0) | <div>向着春暖花开的远方流浪</div> |
@@ -139,7 +139,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54264449)<br><br>2015-09-30 21:55<br>赞(0) 踩(0) | <div>好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41346161)<br> <br>2015-09-29 15:58<br>赞(10) 踩(0) | <div>这可能是汪峰的歌曲里最好听最能打动人心的歌，契合我们这种爱孤独恨孤独又正好孤独的人，听着听着眼泪就想出来。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12261481)<br>英摇 8090重金属 日...<br>2015-10-04 23:31<br>赞(0) 踩(0) | <div>爱孤独恨孤独又正好孤独的人 真是太贴切了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280317)<br>地中有山，永远<br>2015-09-29 11:23<br>赞(3) 踩(0) | <div>黄勇唱得实在是棒！好样的，黄勇！这首歌又让人回忆起了海子的《面朝大海，春暖花开》的理想和意境。。。。。。禁不住泪眼婆娑。。。。。。怀念海子，怀念善良的、简单的、自由的、存在的、希望的、朝着春暖花开的光明远方流浪！请永远不要放弃、停止！从现在起，记住心中的灯塔直到走向更遥远。。。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280317)<br>地中有山，永远<br>2015-09-29 11:23<br>赞(3) 踩(0) | <div>黄勇唱得实在是棒！好样的，黄勇！<br>这首歌又让人回忆起了海子的《面朝大海，春暖花开》的理想和意境。。。。。。<br>禁不住泪眼婆娑。。。。。。怀念海子，怀念善良的、简单的、自由的、存在的、希望的、朝着春暖花开的光明远方流浪！请永远不要放弃、停止！从现在起，记住心中的灯塔直到走向更遥远。。。。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406148)<br><br>2015-10-07 14:13<br>赞(0) 踩(0) | <div>对，我也是感觉黄勇唱的那个更加好听，在下面的队友修儿并没有像其他人那样欢呼去加油，她是唯一一个含着泪听完的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280317)<br>地中有山，永远<br>2015-10-07 14:59<br>赞(0) 踩(0) | <div><q><b>longzhiwen85说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40324410)<br>暂无签名~<br>2015-10-09 12:53<br>赞(0) 踩(0) | <div><q><b>longzhiwen85说：</b></q></div> |
@@ -233,26 +233,26 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50487503)<br>走的更远吧。<br>2015-07-17 23:56<br>赞(0) 踩(0) | <div>它是最早让我萌生出门走走的念头。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32221698)<br>简约不简单，沉稳与极致。<br>2015-03-07 12:08<br>赞(72) 踩(0) | <div>汪峰最好听的冷门歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21581955)<br> <br>2015-02-07 22:36<br>赞(1) 踩(0) | <div>我其实和它一样，都是一条流浪的狗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2015-02-03 23:15<br>赞(1) 踩(0) | <div>今晚 高三语文老师发了说说＂结婚照＂,然后翻到 14年夏天的 谢师宴照片,而15年的夏 也不远了 嗯,</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2015-02-03 23:15<br>赞(1) 踩(0) | <div>今晚 高三语文老师发了说说＂结婚照＂,<br>然后翻到 14年夏天的 谢师宴照片,<br><br>而15年的夏 也不远了 嗯,</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43041123)<br>每一刻都是崭新的…<br>2015-01-22 14:41<br>赞(2) 踩(0) | <div>从耳到心，都感动到你！汪峰歌王</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18056127)<br>我当然相信你就是其中最正...<br>2015-01-02 20:37<br>赞(0) 踩(0) | <div>这是好歌曲刘牧羊老师写的?</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45118507)<br>有些事在人生中是一种必然...<br>2015-01-03 16:49<br>赞(0) 踩(0) | <div>不是，搜索一下，流浪赵牧阳</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18056127)<br>我当然相信你就是其中最正...<br>2015-01-03 17:12<br>赞(0) 踩(0) | <div><q><b>木木///说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2014-10-17 12:18<br>赞(0) 踩(0) | <div>想穿校服,小学初中高中都好,a</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2014-06-20 20:26<br>赞(0) 踩(0) | <div>高考前一星期 已经许久不给我们课堂放歌放松的 你,突然放起了这首 所以,fm啊 以后听到这首 都会想到你吧,你的严肃 正经形象 在谢师宴上已毁,^ ^</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1143360)<br>到头来 还是感谢虾米一切...<br>2014-06-20 20:26<br>赞(0) 踩(0) | <div>高考前一星期 已经许久不给我们课堂放歌放松的 你,<br>突然放起了这首 所以,<br>fm啊 以后听到这首 都会想到你吧,<br>你的严肃 正经形象 在谢师宴上已毁,<br>^ ^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29696442)<br><br>2014-05-22 00:21<br>赞(0) 踩(0) | <div>阳光的的味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14790026)<br>摇滚<br>2014-04-22 21:53<br>赞(1) 踩(0) | <div>从明天起我愿孤独一人，让着纷乱的人生变得简单，走走停停看看这个世界，向着春暖花开的远方流浪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14790026)<br>摇滚<br>2014-04-22 21:47<br>赞(0) 踩(0) | <div>走走停停看看这个世界，向着春暖花开的远方流浪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369627)<br>音乐，是灵魂的口粮<br>2014-02-11 21:01<br>赞(0) 踩(0) | <div>从明天起我要孤独一人，让幽暗的人生变得闪亮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-07 07:21<br>赞(1) 踩(0) | <div>汪峰总是从明天起</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-06 04:10<br>赞(0) 踩(0) | <div>从明天起我愿孤独一人让这幽暗的人生变得闪亮走走停停体验这场生命向着春暖花开的远方流浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-06 04:10<br>赞(0) 踩(0) | <div>从明天起我愿孤独一人<br>让这幽暗的人生变得闪亮<br>走走停停体验这场生命<br>向着春暖花开的远方流浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10850679)<br> <br>2013-11-21 18:12<br>赞(0) 踩(0) | <div>排名真挺靠后的啊 非常喜欢的一首歌 非常喜欢 大约目前最喜欢了吧</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2311010)<br><br>2014-11-08 19:16<br>赞(0) 踩(0) | <div>听了几年这首歌，依然非常非常喜欢，但是奇怪的是这首歌为什么知道的人不多呢，写的好，唱的好，非常非常好。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29696442)<br><br>2015-06-13 17:10<br>赞(0) 踩(0) | <div><q><b>羊羊放羊说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11792098)<br>我要走了，再见<br>2013-11-09 23:12<br>赞(0) 踩(0) | <div>（第二天）“你恐惧着生，却又恐惧着死，你不知道你每天为什么这样活着。”送走奶奶，突然觉得自己挣脱了什么，就像从石头里蹦出了猴子。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11792098)<br>我要走了，再见<br>2013-11-09 23:00<br>赞(0) 踩(0) | <div>（第二天）“你恐惧着生，又恐惧着死，你不知道你每天为什么这样活着。”送走奶奶，突然觉得应该在苦短的人生中寻找所有可能。从明天起，我愿孤独一人...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3535620)<br>只听歌不说话<br>2013-10-31 23:32<br>赞(0) 踩(0) | <div>只要这声音，还颤动人心；只要这词曲，还真诚如许</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5152767)<br><br>2013-10-27 15:22<br>赞(0) 踩(0) | <div>从明天起我愿孤独一人让这纷乱的人生变得简单走走停停看看这个世界向着春暖花开的远方流浪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5152767)<br><br>2013-10-27 15:22<br>赞(0) 踩(0) | <div>从明天起我愿孤独一人<br>让这纷乱的人生变得简单<br>走走停停看看这个世界<br>向着春暖花开的远方流浪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6765143)<br><br>2013-10-14 22:53<br>赞(0) 踩(0) | <div>倒霉的男人走到哪里都没有安全感。从明天起他要告别昨日，向着春暖花开的远方流浪……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16294643)<br> <br>2013-10-12 21:28<br>赞(0) 踩(0) | <div>……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10343731)<br>我还没想好要写什么...<br>2013-10-03 01:52<br>赞(0) 踩(0) | <div>现在 只想流浪。</div> |
@@ -265,7 +265,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6192731)<br><br>2012-08-14 23:05<br>赞(0) 踩(0) | <div>你在哪条街道流浪？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/738558)<br>知音难寻<br>2012-03-14 11:40<br>赞(0) 踩(0) | <div>从明天起 我愿孤独一人...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6081133)<br><br>2012-01-01 16:40<br>赞(0) 踩(0) | <div>@手写的温柔@不为与无为 @忙碌的小虾干@grace_121212</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6000589)<br><br>2011-12-16 23:08<br>赞(0) 踩(0) | <div>从明天起我愿孤独一人让这幽暗的人生变得闪亮</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6000589)<br><br>2011-12-16 23:08<br>赞(0) 踩(0) | <div>从明天起我愿孤独一人<br>让这幽暗的人生变得闪亮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/995467)<br>For it.<br>2011-11-29 10:38<br>赞(1) 踩(0) | <div>我想过，背个包就这么流浪，去每个向往的角落，凭着有限的金钱和生命，简单的生活下去。我也只是想想，所以每次听到流浪题材的作品就非常热爱。歌词里一直在强调，一切的嚣张，都要从明天起。明天究竟是哪天，答案在哪阵风中飘扬？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/995467)<br>For it.<br>2011-11-29 10:32<br>赞(0) 踩(0) | <div>我想过，背个包就这么流浪，去给每个我喜欢的地儿，凭着有限的金钱和生命，简单的生活下去。汪峰唱出这种感受，但也无情的告诉我，一切都要从明天起。明天究竟是哪天，明天是不是该去买张专辑好好感悟一下呢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/449459)<br><br>2011-11-28 18:15<br>赞(0) 踩(0) | <div>从明天起我愿孤独一人，向着春暖花开的远方流浪...</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d00f34083a323476f0b24ecc6ab3d7ea.jpg)<br>陈斐](https://i.xiami.com/chenfei) | **播放数**: 800820<br>**粉丝数**: 8<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/d00f34083a323476f0b24ecc6ab3d7ea.jpg)<br>陈斐](https://i.xiami.com/chenfei) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 800820<br>**粉丝数**: 8<br>**评论数**: 0<br> |
 
 ## 档案
 
@@ -19,5 +19,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

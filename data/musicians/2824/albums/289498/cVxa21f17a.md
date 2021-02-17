@@ -70,10 +70,10 @@ will it really come here and pick me up
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2050162)<br>彼岸<br>2020-05-21 21:50<br>赞(1) 踩(0) | <div>总觉得这首歌应该配烟</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2050162)<br>彼岸<br>2020-05-21 21:41<br>赞(1) 踩(0) | <div>转眼 便是十几年&amp;hellip;&amp;hellip;还是喜欢在雨中的现场</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2050162)<br>彼岸<br>2020-05-21 21:41<br>赞(1) 踩(0) | <div>转眼 便是十几年&amp;hellip;&amp;hellip;<br>还是喜欢在雨中的现场</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1801026)<br>我的時代已經過去了<br>2019-08-26 03:54<br>赞(0) 踩(0) | <div>太好了太好了太好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12983535)<br>由風發掘，由雨洗淨，謎語...<br>2019-06-24 12:37<br>赞(1) 踩(0) | <div>及时下载，避免下架</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260661)<br>honey is dea...<br>2019-06-13 13:40<br>赞(1) 踩(0) | <div>哭唧唧怎么了我就喜欢哭唧唧男孩</div> |
@@ -186,7 +186,7 @@ will it really come here and pick me up
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44373349)<br><br>2016-02-14 11:37<br>赞(0) 踩(0) | <div>再见 不想说再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44373349)<br><br>2016-01-23 02:03<br>赞(0) 踩(0) | <div>我不想每天这么痛苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11558540)<br>have fun<br>2016-01-08 05:13<br>赞(0) 踩(0) | <div>：）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86657978)<br>著名诗人。职业抽奖参与师...<br>2015-12-28 23:33<br>赞(1) 踩(0) | <div>万年不来今天循到这首。播放器太他妈懂我了。"这事在月亮上还算个事儿吗？"——毛姆</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86657978)<br>著名诗人。职业抽奖参与师...<br>2015-12-28 23:33<br>赞(1) 踩(0) | <div>万年不来今天循到这首。播放器太他妈懂我了。<br>"这事在月亮上还算个事儿吗？"——毛姆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2433347)<br><br>2015-11-27 11:46<br>赞(0) 踩(0) | <div>小虾米今天给我放了这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31223298)<br> <br>2015-11-10 10:45<br>赞(4) 踩(0) | <div>来杯金汤力多好 不要吵醒靠我肩上磨牙的你 悄悄的～悄悄的～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10102350)<br><br>2015-10-25 21:11<br>赞(3) 踩(0) | <div>刚开始的调调，有点像七八点的《冬至》</div> |
@@ -216,7 +216,7 @@ will it really come here and pick me up
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1943634)<br><br>2017-09-12 16:29<br>赞(0) 踩(0) | <div>是你的头还是烟头</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28187784)<br>生命不息，音乐健身不止。<br>2018-05-07 23:39<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26577405)<br>暂无签名~<br>2020-04-26 22:22<br>赞(0) 踩(0) | <div>黑哥去你家抬棺了吗？那么伤心？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2015-04-25 16:31<br>赞(1) 踩(0) | <div>现在你又坐在我身边慵懒的听着这首我当时从你那听到后形容成惊艳的歌</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2015-04-25 16:31<br>赞(1) 踩(0) | <div>现在你又坐在我身边<br>慵懒的听着这首我当时从你那听到后形容成惊艳的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29164923)<br><br>2015-04-20 23:10<br>赞(0) 踩(0) | <div>听现场的时候我想吹口哨 吹不出来 难过的都快哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29164923)<br><br>2015-04-20 23:07<br>赞(0) 踩(0) | <div>全部都是幻境 可是我走不出来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36208991)<br> <br>2015-04-16 11:52<br>赞(0) 踩(0) | <div>On the rocks</div> |
@@ -277,7 +277,7 @@ will it really come here and pick me up
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5098301)<br>我还没想好要写什么...<br>2013-03-08 14:37<br>赞(0) 踩(0) | <div>好久不听 依然觉得牛逼极了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2374630)<br>忍受冷酷的冬天，期待美丽...<br>2013-02-10 14:13<br>赞(0) 踩(0) | <div>听得我要哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443950)<br>没有情感，人无法预言<br>2013-01-28 04:07<br>赞(1) 踩(0) | <div>漂浮在原始酒床，感觉自己已经活了很久骨头都融没了但剩那么一点儿魂在水里上下的晃，注视着这天空已经有多久了，空气中只有发酵的二氧化碳，天空是绿色的，空无一人，说句话吧，回答我，但是没有，我已经活得很久了，不能死亡只是漂浮着</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5731138)<br><br>2012-12-25 09:51<br>赞(0) 踩(0) | <div>firefirefirefirefirefirefirefirefirefirefirefirefirefirefirefirefirefirefirefirefire</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5731138)<br><br>2012-12-25 09:51<br>赞(0) 踩(0) | <div>firefirefirefirefirefirefirefi<br>refirefirefirefirefirefirefire<br>firefirefirefirefirefire</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8222880)<br><br>2012-12-11 20:40<br>赞(0) 踩(0) | <div>听fire这首歌，太伤感了。直刺入心中，听海王星黎明的盛宴这张专辑都太伤感了。[泪][泪]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2692293)<br>加油<br>2012-12-10 12:59<br>赞(0) 踩(0) | <div>when will the bolide come and carry me away</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428038)<br><br>2012-12-09 21:44<br>赞(0) 踩(0) | <div>不爽时可以撸这首。。。</div> |
@@ -294,7 +294,7 @@ will it really come here and pick me up
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421526)<br>谢谢虾米陪伴我十年<br>2010-11-09 11:00<br>赞(0) 踩(0) | <div>I wanna be fired</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/724477)<br>live long an...<br>2010-08-17 14:46<br>赞(0) 踩(0) | <div>fire</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308023)<br>荒野大嫖客<br>2009-09-24 20:58<br>赞(0) 踩(0) | <div>燃烧？!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258771)<br>你要看看太阳<br>2009-09-21 05:53<br>赞(4) 踩(0) | <div>FIREfire, it wont burn火,它没有燃烧起来my heart is studded with dirt我的心里有污垢fire, it wont burn火,它没有燃烧起来i am so weeny, too wispy to be heard我这么的渺小,太微弱以至听不到fire, when will it burn火,什么时候会燃烧my heart is exploding with dirt我的心要爆发fire, it wont burn火 它没有燃烧起来i am so dim, never to be heard我是这么暗淡 从未被听到过that liar, when will he die那个骗子 他什么时候死去no one cares his naive jokes没有人在乎他的天真幼稚的笑话that liar, he wont die那个骗子 他没死he's in a mummery, play with his own他在一个哑剧里,和他自己演when will the bolide come and carry me away火流星什么时候来带我走i am bored &amp;amp; tired, wanna be fired我很厌倦也很疲惫,想要被燃烧will it really come here and pick me up它真的会来这接我走吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258771)<br>你要看看太阳<br>2009-09-21 05:53<br>赞(4) 踩(0) | <div>FIRE<br><br>fire, it wont burn<br>火,它没有燃烧起来<br>my heart is studded with dirt<br>我的心里有污垢<br>fire, it wont burn<br>火,它没有燃烧起来<br>i am so weeny, too wispy to be heard<br>我这么的渺小,太微弱以至听不到<br>fire, when will it burn<br>火,什么时候会燃烧<br>my heart is exploding with dirt<br>我的心要爆发<br>fire, it wont burn<br>火 它没有燃烧起来<br>i am so dim, never to be heard<br>我是这么暗淡 从未被听到过<br>that liar, when will he die<br>那个骗子 他什么时候死去<br>no one cares his naive jokes<br>没有人在乎他的天真幼稚的笑话<br>that liar, he wont die<br>那个骗子 他没死<br>he's in a mummery, play with his own<br>他在一个哑剧里,和他自己演<br>when will the bolide come and carry me away<br>火流星什么时候来带我走<br>i am bored &amp;amp; tired, wanna be fired<br>我很厌倦也很疲惫,想要被燃烧<br>will it really come here and pick me up<br>它真的会来这接我走吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322161375)<br><br>2018-01-01 22:17<br>赞(0) 踩(0) | <div>8年</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258771)<br>你要看看太阳<br>2019-02-07 02:49<br>赞(0) 踩(0) | <div><q><b>sonami说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258771)<br>你要看看太阳<br>2009-09-21 05:52<br>赞(1) 踩(0) | <div>FIREfire, it wont burnmy heart is studded with dirtfire, it wont burni am so weeny, too wispy to be heardfire, when will it burnmy heart is exploding with dirtfire, it wont burni am so dim, never to be heardthat liar, when will he dieno one cares his naive jokesthat liar, he wont diehe's in a mummery, play with his ownwhen will the bolide come and carry me awayi am bored &amp;amp; tired, wanna be firedwill it really come here and pick me up</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258771)<br>你要看看太阳<br>2009-09-21 05:52<br>赞(1) 踩(0) | <div>FIRE<br><br>fire, it wont burn<br><br>my heart is studded with dirt<br><br>fire, it wont burn<br><br>i am so weeny, too wispy to be heard<br><br>fire, when will it burn<br><br>my heart is exploding with dirt<br><br>fire, it wont burn<br><br>i am so dim, never to be heard<br><br>that liar, when will he die<br><br>no one cares his naive jokes<br><br>that liar, he wont die<br><br>he's in a mummery, play with his own<br><br>when will the bolide come and carry me away<br><br>i am bored &amp;amp; tired, wanna be fired<br><br>will it really come here and pick me up</div> |

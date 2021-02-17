@@ -48,7 +48,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5171261)<br>我还没想好要写什么...<br>2016-09-16 21:21<br>赞(1) 踩(0) | <div>好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50361090)<br>你窗台漏水不得了<br>2016-03-20 21:20<br>赞(0) 踩(0) | <div></div> |

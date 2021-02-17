@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/bb8d94a6e0de480a87131213bfa972bb.jpg)<br>龙懿](https://i.xiami.com/ly) | **播放数**: 5834681<br>**粉丝数**: 5044<br>**评论数**: 1476<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/bb8d94a6e0de480a87131213bfa972bb.jpg)<br>龙懿](https://i.xiami.com/ly) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 5834681<br>**粉丝数**: 5044<br>**评论数**: 1476<br> |
 
 ## 档案
 
@@ -36,8 +36,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/157262904)<br>只要旋律还在，回忆就沸腾...<br>2021-01-31 17:07<br>赞(1) 踩(0) | <div>留下最后的足迹</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44369585)<br>此生只取悦自己<br>2021-01-06 21:42<br>赞(2) 踩(0) | <div>小姐姐这里要下架了  你在网易云吗 <img src="../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2021-01-06 21:46<br>赞(0) 踩(0) | <div>感谢</div> |
@@ -77,12 +77,12 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2019-07-07 20:55<br>赞(0) 踩(0) | <div>嗯 加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358313758)<br>音乐是心灵的洗涤剂！<br>2019-07-05 01:06<br>赞(3) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2019-07-06 13:10<br>赞(0) 踩(0) | <div>龙懿个人音乐会  2019年 7月11日 深圳A8音乐厅 欢迎老师和友友们光临同乐！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2019-07-13 14:39<br>赞(0) 踩(0) | <div>音乐追梦女孩龙懿   将演唱会收入全部捐给公益事业<a href="http://www.dutenews.com/lehuo/p/189410.html" target="_blank" rel="nofollow noreferrer noopener">http://www.dutenews.com/lehuo/p/189410.html</a></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2019-07-13 14:39<br>赞(0) 踩(0) | <div>音乐追梦女孩龙懿   将演唱会收入全部捐给公益事业<br><a href="http://www.dutenews.com/lehuo/p/189410.html" target="_blank" rel="nofollow noreferrer noopener">http://www.dutenews.com/lehuo/p/189410.html</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358313758)<br>音乐是心灵的洗涤剂！<br>2019-07-13 15:24<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17326367)<br>爱就是极快速的能量振动<br>2019-07-23 19:34<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2811970)<br>但尽凡心，别无圣解。<br>2019-07-02 23:00<br>赞(3) 踩(0) | <div>大学毕业了啊。。。加油啊！祝万事顺利！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2019-07-06 13:11<br>赞(0) 踩(0) | <div>多谢一直以来的鼓励和支持！ 一定加倍努力！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47156295)<br>热眼看看<br>2019-06-30 14:18<br>赞(5) 踩(0) | <div>恭喜→龙懿个人演唱会 即将举办！祝贺→学有所成 功成名就 <img src="../../images/comments/316db64fc5b56f4587429737ff163940.png"> <img src="../../images/comments/f10e8c35366eb553db3d665e8b324caf.png"> <img src="../../images/comments/f10e8c35366eb553db3d665e8b324caf.png">感谢龙懿的昭告盛情诚邀！ <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png">  <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png">鄙人项目在身 恐难成行  <img src="../../images/comments/e100760ce8c127633bca891ea2b371d8.png">预祝盛况警天 <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png">  <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png">  <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47156295)<br>热眼看看<br>2019-06-30 14:18<br>赞(5) 踩(0) | <div>恭喜→龙懿个人演唱会 即将举办！<br>祝贺→学有所成 功成名就 <img src="../../images/comments/316db64fc5b56f4587429737ff163940.png"> <img src="../../images/comments/f10e8c35366eb553db3d665e8b324caf.png"> <img src="../../images/comments/f10e8c35366eb553db3d665e8b324caf.png"><br>感谢龙懿的昭告盛情诚邀！ <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png">  <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"><br>鄙人项目在身 恐难成行  <img src="../../images/comments/e100760ce8c127633bca891ea2b371d8.png"><br>预祝盛况警天 <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png">  <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png"> <img src="../../images/comments/114f776fa84182a71abcb578c3f8c3d6.png">  <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2044643)<br>氤氲对你的痴情。<br>2019-06-11 14:34<br>赞(2) 踩(0) | <div>好久不见~ 继续加油啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2019-06-30 09:46<br>赞(0) 踩(0) | <div>龙懿大学毕业个人演唱会 ，2019年7月11日晚深圳A8音乐厅，欢迎老师和友友们莅临同乐！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47156295)<br>热眼看看<br>2019-06-30 14:21<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
@@ -160,14 +160,14 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-05-30 13:20<br>赞(0) 踩(0) | <div>节日快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5682615)<br>我想要的是音乐女人和钱。<br>2017-05-28 22:38<br>赞(2) 踩(0) | <div>谢谢关注：）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-05-29 12:59<br>赞(0) 踩(0) | <div>节日快乐！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26106642)<br>我有的 是你的<br>2017-05-27 10:12<br>赞(6) 踩(0) | <div>趁着年轻，多多加油！趁着青春，静静体会！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26106642)<br>我有的 是你的<br>2017-05-27 10:12<br>赞(6) 踩(0) | <div>趁着年轻，多多加油！<br>趁着青春，静静体会！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-05-28 15:22<br>赞(0) 踩(0) | <div>紫夜黑海好呀 节日快乐！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26106642)<br>我有的 是你的<br>2017-05-29 23:33<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8950923)<br>暂无签名~<br>2017-05-26 11:32<br>赞(1) 踩(0) | <div>咦  我的emoji都没了 <img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-05-28 15:21<br>赞(0) 踩(0) | <div>祝端午节快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8950923)<br>暂无签名~<br>2017-05-26 11:32<br>赞(2) 踩(0) | <div>hello 龙懿  下次唱让她降落好不好  好想听你的版本呀</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-05-28 15:20<br>赞(0) 踩(0) | <div>好的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54721110)<br>平生一顾。<br>2017-05-25 17:16<br>赞(4) 踩(0) | <div>如果懿儿的虾米主页能够打开，我猜上面一定会显示你与龙懿的音乐品味相似度: 很高。不要问我为什么，我绝对不会告诉你我收藏的时候总能碰见她╮(￣▽￣)╭</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54721110)<br>平生一顾。<br>2017-05-25 17:16<br>赞(4) 踩(0) | <div>如果懿儿的虾米主页能够打开，我猜上面一定会显示你与龙懿的音乐品味相似度: 很高。<br>不要问我为什么，我绝对不会告诉你我收藏的时候总能碰见她╮(￣▽￣)╭</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-05-28 15:17<br>赞(0) 踩(0) | <div>端午节快乐！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54721110)<br>平生一顾。<br>2017-05-28 15:34<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284749489)<br><br>2017-05-24 09:59<br>赞(4) 踩(0) | <div>听了让人忘不了的声音 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -177,7 +177,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289179814)<br><br>2017-05-09 19:38<br>赞(2) 踩(0) | <div>最喜欢懿儿了 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6229951)<br>坐音乐的船，扬自由的帆<br>2017-05-08 15:14<br>赞(3) 踩(0) | <div>好听</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48829146)<br><br>2017-05-09 19:37<br>赞(0) 踩(0) | <div>我也喜欢这首歌！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46175804)<br>du bist mein<br>2017-05-07 23:34<br>赞(2) 踩(0) | <div>ǖǒ īē&amp;ograve; &amp;uacute;ǒǎ&amp;uacute;ǒǎ &amp;oacute;ēǖūī&amp;oacute; &amp;igrave;ēǒ &amp;igrave;ǒ&amp;oacute; ǎ ōēǖ你好，谢谢 关注 来 留 个 言</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46175804)<br>du bist mein<br>2017-05-07 23:34<br>赞(2) 踩(0) | <div>ǖǒ īē&amp;ograve; &amp;uacute;ǒǎ&amp;uacute;ǒǎ &amp;oacute;ēǖūī&amp;oacute; &amp;igrave;ēǒ &amp;igrave;ǒ&amp;oacute; ǎ ōēǖ<br>你好，谢谢 关注 来 留 个 言</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-05-09 20:34<br>赞(0) 踩(0) | <div>多谢北京老师光临！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289179814)<br><br>2017-04-24 22:02<br>赞(2) 踩(0) | <div>懿儿晚安</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-04-29 13:39<br>赞(0) 踩(0) | <div>节日快乐！</div> |
@@ -207,7 +207,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277076855)<br><br>2017-03-31 22:43<br>赞(0) 踩(0) | <div>谢谢师弟还有师妹们，大家一起 <img src="../../images/comments/9936a7a66a59f6b492eeb8ac6d0885f2.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2382006)<br><br>2017-03-21 15:47<br>赞(2) 踩(0) | <div>爵士电台听到这首《三个人的晚餐》，被声音所吸引。重音处略深的发声部位，幽然洒脱的歌唱感觉，把这首歌演绎出了属于自己的风格。又听了龙懿其他作品，年轻有潜力，低音磁性有层次，高音能伸能收让人感动，还需雕琢，三个人的晚餐唱上了个台阶，不知以后还有什么惊喜之作。虽然还没定型，但这种风格也不知会不会发展成内地爵士乐的一颗星。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-03-22 23:00<br>赞(0) 踩(0) | <div>很是感谢您耐心和细致的指点，一定加倍努力！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2044643)<br>氤氲对你的痴情。<br>2017-02-28 14:09<br>赞(1) 踩(0) | <div>么么哒，送些祝福给妹妹~妹妹加油。也顺便给自己带点喜气，哇咔咔~~^_^</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2044643)<br>氤氲对你的痴情。<br>2017-02-28 14:09<br>赞(1) 踩(0) | <div>么么哒，送些祝福给妹妹~妹妹加油。<br>也顺便给自己带点喜气，哇咔咔~~^_^</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-03-05 20:49<br>赞(0) 踩(0) | <div>也祝福姐姐天天开心快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2044643)<br>氤氲对你的痴情。<br>2017-02-27 12:25<br>赞(2) 踩(0) | <div>来看看你~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-02-27 21:20<br>赞(0) 踩(0) | <div>谢谢子非！</div> |
@@ -258,7 +258,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2016-09-11 21:36<br>赞(0) 踩(0) | <div>谢谢喜欢唱歌的同学 也感谢你的鼓励！让我们一起享受音乐带给我们的快乐！一起努力！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33126571)<br>姑娘你想跳支怎样得舞<br>2016-08-13 12:05<br>赞(1) 踩(0) | <div>好听。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2016-08-13 20:09<br>赞(0) 踩(0) | <div>海外友友你好！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1415841)<br>半杯咖啡<br>2016-08-13 05:22<br>赞(2) 踩(0) | <div>0.0~龙龙声音是有魔性的么，开口就喜欢上~~加油哦，支持你！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1415841)<br>半杯咖啡<br>2016-08-13 05:22<br>赞(2) 踩(0) | <div>0.0~龙龙声音是有魔性的么，开口就喜欢上~~<br>加油哦，支持你！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2016-08-13 20:10<br>赞(0) 踩(0) | <div>多谢钦州友友喜欢这首歌！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45261932)<br>且视天下如尘芥，携手天涯<br>2016-08-10 17:23<br>赞(2) 踩(0) | <div>特别喜欢你的声音！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2016-08-10 21:31<br>赞(0) 踩(0) | <div>多谢宁波友友的鼓励！</div> |
@@ -355,7 +355,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2016-02-17 20:56<br>赞(0) 踩(0) | <div>谢谢昆明音乐的鼓励！新春快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43037350)<br><br>2016-02-14 08:26<br>赞(2) 踩(0) | <div>突然爱上这声音！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2016-02-14 10:40<br>赞(0) 踩(0) | <div>新春快乐！猴年吉祥！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4224319)<br>优游<br>2016-02-14 01:16<br>赞(2) 踩(0) | <div>Happy Valentine&amp;#039;s Day!.      __   __/　\./　\/\_　　 I Hand You__{^\_ _}_　 )　}/^\　　　 A Rose.../　/\_/^\._}_/　//　/(　(__{(@)}\__}.//_/__A___A______A_______A______A____\__/{/(_)\_}　)\\ \\---v----V-----V--Y----v---Y-----(　 (__)_)_/　)\ \&amp;gt;\__/　　 \__/\/\/\__,--&amp;#039;</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4224319)<br>优游<br>2016-02-14 01:16<br>赞(2) 踩(0) | <div>Happy Valentine&amp;#039;s Day!<br>.      __   __<br>/　\./　\/\_　　 I Hand You<br>__{^\_ _}_　 )　}/^\　　　 A Rose...<br>/　/\_/^\._}_/　//　/<br>(　(__{(@)}\__}.//_/__A___A______A_______A______A____<br>\__/{/(_)\_}　)\\ \\---v----V-----V--Y----v---Y-----<br>(　 (__)_)_/　)\ \&amp;gt;<br>\__/　　 \__/\/\/<br>\__,--&amp;#039;</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2016-02-17 21:00<br>赞(0) 踩(0) | <div>感谢秦皇岛友友！新春快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7679623)<br><br>2016-02-13 09:03<br>赞(2) 踩(0) | <div>声音很柔，加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2016-02-13 10:23<br>赞(0) 踩(0) | <div>嗯 加油 祝春节快乐！</div> |
@@ -400,9 +400,9 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48276337)<br>22世纪不道德<br>2016-01-02 18:29<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48933291)<br>你好！镜子里的你！<br>2015-12-20 11:53<br>赞(2) 踩(0) | <div>声音好听啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-12-20 15:26<br>赞(0) 踩(0) | <div>谢谢鼓励！周末快乐！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10238117)<br>时光不染 回忆不淡<br>2015-12-15 22:12<br>赞(1) 踩(0) | <div>在一些喜欢的音乐人的粉丝那里有时能看到你的身影，作为一个金属乐迷吧算是，还是有点小惊讶的。涉猎不错，以前给你留过言，刚才在深山的粉丝那里看到你，特意回来点第二个赞。音乐里没有成败可言，祝你有更多的优秀作品和更多喜欢支持你的人，这是我能想到的第二个祝福，加油。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10238117)<br>时光不染 回忆不淡<br>2015-12-15 22:12<br>赞(1) 踩(0) | <div>在一些喜欢的音乐人的粉丝那里有时能看到你的身影，作为一个金属乐迷吧算是，还是有点小惊讶的。<br>涉猎不错，以前给你留过言，刚才在深山的粉丝那里看到你，特意回来点第二个赞。<br>音乐里没有成败可言，祝你有更多的优秀作品和更多喜欢支持你的人，这是我能想到的第二个祝福，加油。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-12-16 00:09<br>赞(0) 踩(0) | <div>谢谢老师第二个赞！谢谢老师第二个祝福！一定刻苦努力....</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-12-16 00:13<br>赞(0) 踩(0) | <div>秋水寒夕山暮雨叶落随风远天涯...记得你 谢谢！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-12-16 00:13<br>赞(0) 踩(0) | <div>秋水寒<br>夕山暮雨<br>叶落随风远天涯...记得你 谢谢！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10238117)<br>时光不染 回忆不淡<br>2015-12-16 01:12<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2016-01-02 14:38<br>赞(0) 踩(0) | <div><q><b>叶落秋水说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43049444)<br>卖乐器的搬运工<br>2015-12-07 12:27<br>赞(1) 踩(0) | <div><img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
@@ -414,8 +414,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3471786)<br>暂无签名~<br>2015-12-03 02:09<br>赞(1) 踩(0) | <div>创作型音乐才女那么小还出过一首单曲啊？厉害 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-12-03 16:56<br>赞(0) 踩(0) | <div>感谢飞祥老师的鼓励！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58516380)<br>Joyce chu 大爱...<br>2015-11-29 23:48<br>赞(2) 踩(0) | <div>能翻唱一首（太多）吗？感觉你唱应该有不一样的感觉</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-11-30 10:03<br>赞(0) 踩(0) | <div>将爱情肆无忌惮的挥霍心都碎了 还要计较些什么无论你想要什么 都让你带走如果你觉得自由是快乐---太多 - 南妮 唱的好棒！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-11-20 11:03<br>赞(1) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-11-30 10:03<br>赞(0) 踩(0) | <div>将爱情肆无忌惮的挥霍<br>心都碎了 还要计较些什么<br>无论你想要什么 都让你带走<br>如果你觉得自由是快乐---太多 - 南妮 唱的好棒！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-11-20 11:03<br>赞(1) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-11-22 14:49<br>赞(0) 踩(0) | <div>周末快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2121780)<br>不是无伤，只是隐藏！<br>2015-11-19 22:48<br>赞(1) 踩(0) | <div>Strange Magic</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-11-22 14:51<br>赞(0) 踩(0) | <div>谢谢！</div> |
@@ -492,7 +492,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-08-13 23:12<br>赞(0) 踩(0) | <div>嗯 向各位多多学习 不放弃属于你的 谢谢！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39651419)<br>安静的美骚年<br>2015-08-08 18:37<br>赞(1) 踩(0) | <div>姐姐你很棒啊！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-08-12 11:52<br>赞(0) 踩(0) | <div>谢谢 沈阳友友！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9244611)<br>　Dh海，丫头。<br>2015-08-04 08:56<br>赞(2) 踩(0) | <div>你很棒！我看了几页评论，发现你都很有耐心的回复~唱得也很好。哈哈，潜力无限~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9244611)<br>　Dh海，丫头。<br>2015-08-04 08:56<br>赞(2) 踩(0) | <div>你很棒！<br>我看了几页评论，发现你都很有耐心的回复~<br>唱得也很好。哈哈，潜力无限~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-08-12 11:55<br>赞(0) 踩(0) | <div>韶关友友好！你也好细心呀 多谢鼓励！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48489853)<br> <br>2015-08-03 01:59<br>赞(2) 踩(0) | <div>什么时候参加中国好歌曲啊。挺棒的有一席之地！加油 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-08-12 11:57<br>赞(0) 踩(0) | <div>多谢！刻苦学习 努力争取！</div> |
@@ -500,7 +500,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-07-29 21:31<br>赞(0) 踩(0) | <div>嗯 好滴</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13550579)<br>一个有追求的人<br>2015-07-29 11:00<br>赞(2) 踩(0) | <div>听着好惬意，舒缓人心</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-07-29 21:30<br>赞(0) 踩(0) | <div>多谢日喀则友友的鼓励！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10238117)<br>时光不染 回忆不淡<br>2015-07-26 15:32<br>赞(1) 踩(0) | <div>个人感觉你需要一些自己的歌。嗓音较有特点，希望风格那里以后能加上一个Songwriter。其实听起来感觉有点杂，仿佛在听爵士，只不过我个人对爵士无爱...（这行是废话...）翻唱的那几首流行听着不错，不管怎么说，到底是练家子，实力是毋庸置疑的~加油。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10238117)<br>时光不染 回忆不淡<br>2015-07-26 15:32<br>赞(1) 踩(0) | <div>个人感觉你需要一些自己的歌。嗓音较有特点，希望风格那里以后能加上一个Songwriter。<br>其实听起来感觉有点杂，仿佛在听爵士，只不过我个人对爵士无爱...（这行是废话...）<br>翻唱的那几首流行听着不错，不管怎么说，到底是练家子，实力是毋庸置疑的~加油。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-07-30 12:13<br>赞(0) 踩(0) | <div>真心感激您一直的支持和鼓励！一定不辜负您的期望，努力 加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-10-27 23:43<br>赞(0) 踩(0) | <div><q><b>叶落秋水说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10238117)<br>时光不染 回忆不淡<br>2017-10-28 00:14<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
@@ -517,7 +517,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52547775)<br><br>2015-07-20 22:48<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5667852)<br>努力活下去<br>2015-07-18 14:46<br>赞(3) 踩(0) | <div>声线超级赞呀</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-07-18 21:24<br>赞(0) 踩(0) | <div>多谢鼓励！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4406065)<br>（闷树）<br>2015-07-16 12:33<br>赞(3) 踩(0) | <div>喜欢试听新的声音。第一嗓子有点像刘美麟，后来的声音像谭艳。剩下的慢慢听，又有点孙燕姿的唱腔，尤其是《阴天》对我来说“港腔”浓了点。莫非留学回来的？找到自己，做自己才是最好的啊妹子~~还有第一首的录音效果比后面的好太多了啊。不在一个地方录的~？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4406065)<br>（闷树）<br>2015-07-16 12:33<br>赞(3) 踩(0) | <div>喜欢试听新的声音。<br><br>第一嗓子有点像刘美麟，后来的声音像谭艳。<br><br>剩下的慢慢听，又有点孙燕姿的唱腔，尤其是《阴天》对我来说“港腔”浓了点。莫非留学回来的？<br><br>找到自己，做自己才是最好的啊妹子~~<br><br>还有第一首的录音效果比后面的好太多了啊。不在一个地方录的~？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-07-18 21:50<br>赞(0) 踩(0) | <div>多谢你的细心 耐心，是在挑战不同的曲风，也是在不同的地方录的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38892426)<br><br>2015-07-15 18:44<br>赞(2) 踩(0) | <div>龙龙加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-07-18 21:51<br>赞(0) 踩(0) | <div>一点加倍努力！</div> |
@@ -547,7 +547,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-06-15 21:28<br>赞(0) 踩(0) | <div>你好呀</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39788841)<br> .<br>2015-06-15 21:28<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12939923)<br>XSWL Record<br>2015-05-29 18:54<br>赞(3) 踩(0) | <div>支持一下</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-06-11 00:01<br>赞(0) 踩(0) | <div>我回来了！终于别了中学的生活。好好放松一下...至于结果怎样，应该可以吧。反正高考只是人生中的一步。固然重要，不过以后的路还要更加努力呀...唱歌--我喜欢！哈哈哈 我回来啦！先要感谢祝老师和这么多友友的鼓励和支持啦...</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-06-11 00:01<br>赞(0) 踩(0) | <div>我回来了！终于别了中学的生活。好好放松一下...<br>至于结果怎样，应该可以吧。反正高考只是人生中的一步。固然重要，不过以后的路还要更加努力呀...唱歌--我喜欢！哈哈哈 我回来啦！先要感谢祝老师和这么多友友的鼓励和支持啦...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40168246)<br><br>2015-05-25 22:53<br>赞(2) 踩(0) | <div>加油，唱的很好！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-06-19 17:44<br>赞(0) 踩(0) | <div>多谢鼓励！一定加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6211142)<br><br>2015-05-21 16:57<br>赞(1) 踩(0) | <div><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png">唱的非常好</div> |
@@ -590,8 +590,8 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-12-18 11:43<br>赞(0) 踩(0) | <div><q><b>秋水无痕说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-05-01 15:37<br>赞(2) 踩(0) | <div>龙懿祝喜欢音乐滴友友们“五一节&amp;quot;快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6200184)<br> <br>2015-04-29 21:46<br>赞(3) 踩(0) | <div>不错，很有个性，加油</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44161162)<br>音乐人生<br>2015-04-29 21:15<br>赞(2) 踩(0) | <div>你欣赏一下挪威歌手Sissel在   【Molde Canticle】旋律中，没有一句歌词，全是伴着旋律哼唱，可是声音好美。空灵纯净优雅，柔美。好的旋律声音可以借鉴的。和高手在一起你就会发现自己的有哪些不足。提高自己。我随便写了几句这旋律的诗情。。象一朵洁白的云，悠悠；像一颗划过的流行，闪闪；像一支断了线的风筝，载满了思恋的美丽，与忧伤----声线空灵，所以全是空灵文字。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-04-26 17:38<br>赞(1) 踩(0) | <div>这周练习了《一千年以后》好喜欢JJ的歌！作词：李瑞洵 作曲：林俊杰</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44161162)<br>音乐人生<br>2015-04-29 21:15<br>赞(2) 踩(0) | <div>你欣赏一下挪威歌手Sissel在   【Molde Canticle】旋律中，没有一句歌词，全是伴着旋律哼唱，可是声音好美。空灵纯净优雅，柔美。好的旋律声音可以借鉴的。和高手在一起你就会发现自己的有哪些不足。提高自己。我随便写了几句这旋律的诗情。。<br>象一朵洁白的云，悠悠；像一颗划过的流行，闪闪；像一支断了线的风筝，载满了思恋的美丽，与忧伤----声线空灵，所以全是空灵文字。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-04-26 17:38<br>赞(1) 踩(0) | <div>这周练习了《一千年以后》好喜欢JJ的歌！<br>作词：李瑞洵 作曲：林俊杰<br></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11651345)<br>流行的才是最好的<br>2015-04-29 09:53<br>赞(0) 踩(0) | <div>欧拉鲁，同喜欢这首已经10多年，你唱的也很有味道，赞</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44161162)<br>音乐人生<br>2015-04-29 12:25<br>赞(0) 踩(0) | <div>小丫头，中间那段哼唱的节奏很美，能不能全用轻盈柔美舒缓的节奏哼唱，[不用半拍的四分音符节奏】吐词要尽量清澈，清晰，很不错。加油，有了自己的特色。呵呵</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44161162)<br>音乐人生<br>2015-04-29 12:28<br>赞(0) 踩(0) | <div>小丫头，要唱就要做中国最好的歌手，倾尽你所有的情感。融入旋律。我觉得你的美声练好了会很美。你是否会注意。。。如果你练好了美声，你就有了竞争力了，就是我说的那种空灵声线，想想你的声音会翱翔于天空，轻盈，纯净，空灵，柔美。。。你以后会出类拔萃的。万里挑一。要是学会钢琴作曲，填词。你就是无敌小霸王了，加油，呵呵  有一天你可以组建你的乐队，想过没？你当主唱，键盘手，作曲，写词，全能小霸王。到时候你会跟那些音乐大家在一起合作音乐，那感觉就大不同。。大提琴演奏家，小提琴，钢琴家。。哈哈哈哈</div> |
@@ -620,7 +620,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44161162)<br>音乐人生<br>2015-04-12 13:39<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10828800)<br>喵口森森<br>2015-04-12 12:58<br>赞(3) 踩(0) | <div>她说唱得好赞，声音好有感情～ <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-04-12 13:06<br>赞(0) 踩(0) | <div>多谢鼓励的掌声！周末快乐！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44161162)<br>音乐人生<br>2015-04-12 12:48<br>赞(2) 踩(0) | <div>【空房间—The Daydream 】寂寥，失落的回忆里—荡漾着温馨，洁白的栀子花笑容—呵呵呵【注意在2分10秒至曲末反复回旋着很美旋律，】是少女般得羞涩，和细雨清愁—是灵动得欢喜雀跃，闪烁在枝头—是回旋在月光皎洁下，潺潺甜美，和温柔—【乐诗，秋水梅影】送你小丫头，祝你飞翔。。。。呵呵呵白日梦(The Daydream)-Empty Room</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44161162)<br>音乐人生<br>2015-04-12 12:48<br>赞(2) 踩(0) | <div>【空房间—The Daydream 】<br>寂寥，失落的回忆里—<br>荡漾着温馨，洁白的栀子花笑容—呵呵呵<br>【注意在2分10秒至曲末反复回旋着很美旋律，】<br>是少女般得羞涩，<br>和细雨清愁—<br>是灵动得欢喜雀跃，<br>闪烁在枝头—<br>是回旋在月光皎洁下，<br>潺潺甜美，<br>和温柔—【乐诗，秋水梅影】送你小丫头，祝你飞翔。。。。呵呵呵白日梦(The Daydream)-Empty Room</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43523601)<br>喜欢音乐<br>2015-04-25 23:47<br>赞(0) 踩(0) | <div>棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44161162)<br>音乐人生<br>2015-04-12 12:27<br>赞(2) 踩(0) | <div>钢琴是你弹奏的吗？小丫头。我很喜欢你的音乐才华。这么小的年纪。我不大喜欢 国内的歌唱声线，那是天赋问题。我只喜欢一种纯净空灵清澈的声线，是来自天国的声音。可惜国内没有。我只是偶尔听歌唱，更喜欢器乐。钢琴，大提琴小提琴古琴古筝二胡等等。。。如果你会作曲，我会试着帮你填词，是诗一样美丽的语言。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-04-12 13:20<br>赞(0) 踩(0) | <div>龙懿小丫头好感激老师的鼓励和厚爱！虽小小年纪但好喜欢唱歌，也在试着写歌，会不断练习上传，会加油努力，还请多多指点...QQ2082629676</div> |
@@ -635,14 +635,14 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-04-10 11:38<br>赞(0) 踩(0) | <div>嗯 继续加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/634749)<br><br>2015-04-11 08:35<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9131418)<br>你开心就好，我只是虚构。<br>2015-04-10 09:42<br>赞(1) 踩(0) | <div>支持一个</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6741618)<br>空荡荡广阔无垠虚无缥缈<br>2015-04-07 11:09<br>赞(2) 踩(0) | <div>骑士龙懿new好听！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6741618)<br>空荡荡广阔无垠虚无缥缈<br>2015-04-07 11:09<br>赞(2) 踩(0) | <div>骑士龙懿new<br>好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39788841)<br> .<br>2015-04-04 08:26<br>赞(1) 踩(0) | <div>支持你 <img src="../../images/comments/286e5490345b55baf85bf75195319042.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-04-04 10:37<br>赞(0) 踩(0) | <div>多谢鼓励！周末快乐！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39788841)<br> .<br>2015-04-04 14:31<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39788841)<br> .<br>2015-04-04 08:25<br>赞(1) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41385684)<br>我还没想好要写什么...<br>2015-04-03 23:07<br>赞(2) 踩(0) | <div>音色很圆润，很有潜力，加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-04-04 10:40<br>赞(0) 踩(0) | <div>嗯 加油</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8241899)<br><br>2015-04-03 00:24<br>赞(2) 踩(0) | <div>我不懂音乐。。也没听过龙懿的歌。。来了纯粹是被粉而来。。也许将来人气高了就会把我们删了吧。。当然我说的是也许，是可能。。总之呢。。作为一个歌手。。对于你而言是梦想也好是野心也好。。希望今后继续往前走。。希望能够成为一名原创词曲唱的歌手。。不必刻意拉拢粉丝。。曲子好了自然就会有人来。。我也不相信炒作。。只有认真的踏踏实实的做音乐。。自然人气就会越来越多。。人气不好也不能放弃。。毕竟是你自己选择的路。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8241899)<br><br>2015-04-03 00:24<br>赞(2) 踩(0) | <div>我不懂音乐。。也没听过龙懿的歌。。来了纯粹是被粉而来。。也许将来人气高了就会把我们删了吧。。当然我说的是也许，是可能。。<br>总之呢。。作为一个歌手。。对于你而言是梦想也好是野心也好。。希望今后继续往前走。。希望能够成为一名原创词曲唱的歌手。。不必刻意拉拢粉丝。。曲子好了自然就会有人来。。我也不相信炒作。。只有认真的踏踏实实的做音乐。。自然人气就会越来越多。。人气不好也不能放弃。。毕竟是你自己选择的路。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-04-03 23:16<br>赞(0) 踩(0) | <div>周末快乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17329138)<br>独立音乐人<br>2015-04-01 08:36<br>赞(1) 踩(0) | <div>!!!!!!!!!!!!!!!!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-04-01 13:56<br>赞(0) 踩(0) | <div>？！？！？！</div> |
@@ -666,7 +666,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-03-25 12:31<br>赞(0) 踩(0) | <div>谢谢！龙懿美声老师 优酷视频 <a href="http://i.youku.com/88888ly" target="_blank" rel="nofollow noreferrer noopener">http://i.youku.com/88888ly</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7788272)<br>怕孤独，想自由。<br>2015-03-20 15:39<br>赞(2) 踩(0) | <div>声音真成熟。 这矜持不错。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-03-21 22:42<br>赞(0) 踩(0) | <div>感谢鼓励！这是去年录的 还想再练一练重录</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-03-23 23:14<br>赞(0) 踩(0) | <div>龙懿互动领唱《美好的一天》   百老汇哈莱姆黑人歌手深圳音乐厅圣诞音乐会YOUKU优酷 视频  <a href="http://v.youku.com/v_show/id_XOTE4MjI1NzU2.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XOTE4MjI1NzU2.html</a></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-03-23 23:14<br>赞(0) 踩(0) | <div>龙懿互动领唱《美好的一天》   百老汇哈莱姆黑人歌手深圳音乐厅圣诞音乐会<br>YOUKU优酷 视频  <a href="http://v.youku.com/v_show/id_XOTE4MjI1NzU2.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XOTE4MjI1NzU2.html</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3616)<br><br>2015-03-09 18:14<br>赞(1) 踩(0) | <div>谢谢关心</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-03-22 10:16<br>赞(0) 踩(0) | <div>周末快乐！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3616)<br><br>2015-04-01 18:15<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
@@ -680,7 +680,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-02-20 19:08<br>赞(0) 踩(0) | <div>龙懿恭祝好友，春节快乐！阖家幸福，羊年吉祥！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3086900)<br>要再见了吗。。<br>2015-02-19 19:46<br>赞(1) 踩(0) | <div>新年快乐！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-02-19 23:08<br>赞(0) 踩(0) | <div>谢谢！同乐！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13194141)<br>看到的给我来个联络方式。...<br>2015-02-18 18:20<br>赞(1) 踩(0) | <div>迈街相约看花市，却倚骑楼似画廊；束立盆栽成列队，草株木本斗芬芳。通宵灯火人如织，一派歌声喜欲狂，正是今年风景美，千红万紫报春光。★☆★☆★☆★☆★☆★☆★♬黯痕 祝您在新的一年里合家愉快，身心健康！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13194141)<br>看到的给我来个联络方式。...<br>2015-02-18 18:20<br>赞(1) 踩(0) | <div>迈街相约看花市，却倚骑楼似画廊；<br>束立盆栽成列队，草株木本斗芬芳。<br>通宵灯火人如织，一派歌声喜欲狂，<br>正是今年风景美，千红万紫报春光。<br><br>★☆★☆★☆★☆★☆★☆★<br><br>♬黯痕 祝您在新的一年里合家愉快，身心健康！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-10-27 23:34<br>赞(0) 踩(0) | <div>这段高三学习特紧张，少了朋友的问候与回访，还望友友见谅...龙懿祝老师们新年快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15378245)<br>表咸里不咸 心子有点甜<br>2015-02-18 18:02<br>赞(1) 踩(0) | <div>过年快乐~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2015-02-19 14:53<br>赞(0) 踩(0) | <div>万马奔腾去，三阳开泰来！龙懿恭祝好友，春节快乐！阖家幸福，羊年吉祥！</div> |
@@ -715,10 +715,10 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35288786)<br>音乐是空气<br>2015-01-06 09:28<br>赞(1) 踩(0) | <div>同高考啊，握爪！！一起加油ps.歌很不错！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37068448)<br>好好学习，天天向上。<br>2015-01-06 00:11<br>赞(1) 踩(0) | <div>一个改编的作曲的音乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6179778)<br>弹琴打鼓，耍帅装酷<br>2015-01-03 14:16<br>赞(2) 踩(0) | <div>···16岁，这声音！简直，听觉享受！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9244611)<br>　Dh海，丫头。<br>2014-12-29 23:19<br>赞(3) 踩(0) | <div>声音好棒，简直穿透人心。赞！加油！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9244611)<br>　Dh海，丫头。<br>2014-12-29 23:19<br>赞(3) 踩(0) | <div>声音好棒，简直穿透人心。<br>赞！加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16496294)<br>YISTER!<br>2014-12-27 13:29<br>赞(3) 踩(0) | <div>最近又开始回听龙懿歌，每每都是感动啊~~加油！！！【如果封面上能再下点功夫会更漂亮:-)】</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23464588)<br><br>2014-12-26 23:53<br>赞(2) 踩(0) | <div>66666666</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6529747)<br>我还没想好要写什么...<br>2014-12-24 23:51<br>赞(2) 踩(0) | <div>撒花！*★,°*:.☆\(￣▽￣)/$:*.°★* :.☆\(￣▽￣)/$:*.°★* 。⋱ ⋮ ⋰⋯ ✰ ⋯⋰ ⋮ ⋱….| _▄▄_….|.(◑ჴ◑)….|..▶★◀…↺(_____)↺….|(______)★ ⋰⋱ ★ ⋰⋱ ★ Merry Christmas！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6529747)<br>我还没想好要写什么...<br>2014-12-24 23:51<br>赞(2) 踩(0) | <div>撒花！*★,°*:.☆\(￣▽￣)/$:*.°★* :.☆\(￣▽￣)/$:*.°★* 。<br>⋱ ⋮ ⋰<br>⋯ ✰ ⋯<br>⋰ ⋮ ⋱<br>….| _▄▄_<br>….|.(◑ჴ◑)<br>….|..▶★◀<br>…↺(_____)↺<br>….|(______)<br>★ ⋰⋱ ★ ⋰⋱ ★ Merry Christmas！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12019222)<br>一只狗，一座城。<br>2014-12-23 13:00<br>赞(2) 踩(0) | <div>声音，不错，听着不腻。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-23 06:26<br>赞(2) 踩(0) | <div>她说     唱得很有感觉   很走心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833102)<br>伟❤️375882267<br>2014-12-23 06:25<br>赞(1) 踩(0) | <div>声线真好  很喜欢 支持你哈</div> |
@@ -750,7 +750,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-12-07 21:37<br>赞(0) 踩(0) | <div>谢谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8612912)<br>嘿~宝贝儿听我说zzZZ<br>2014-12-06 19:28<br>赞(1) 踩(0) | <div>加油！音乐需要你！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-12-07 16:21<br>赞(0) 踩(0) | <div>嗯 一定加油！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9821987)<br>茫思或本无因<br>2014-12-06 01:03<br>赞(2) 踩(0) | <div>《小河淌水》的编曲很有意思啊，很有层次 ~ 加油哦。16岁！前途无量！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9821987)<br>茫思或本无因<br>2014-12-06 01:03<br>赞(2) 踩(0) | <div>《小河淌水》的编曲很有意思啊，很有层次 ~ 加油哦。<br>16岁！前途无量！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-12-06 12:06<br>赞(0) 踩(0) | <div>自己改了两次 还有待多多改进 感谢您的鼓励 嗯 加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24810551)<br>爱自由，爱生活。<br>2014-12-05 21:36<br>赞(2) 踩(0) | <div>喜欢她的调调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10365620)<br>小虾米，味道不错<br>2014-11-30 21:19<br>赞(2) 踩(0) | <div>小懿懿童鞋加油哈，很有文艺的范儿，我喜欢</div> |
@@ -761,9 +761,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419840)<br>漂泊，我还没想好要写什么...<br>2014-11-28 21:24<br>赞(1) 踩(0) | <div>挺好听的，支持一下，加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-11-29 11:59<br>赞(0) 踩(0) | <div>哈哈哈 周末快乐！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419840)<br>漂泊，我还没想好要写什么...<br>2014-11-30 01:21<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2044643)<br>氤氲对你的痴情。<br>2014-11-27 22:39<br>赞(2) 踩(0) | <div>近日太忙，好久都没听妹妹的歌，也是才看到妹妹的留言。感恩节快乐。感谢你的歌声。愿你在音乐的道路上越走越远。加油。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2044643)<br>氤氲对你的痴情。<br>2014-11-27 22:39<br>赞(2) 踩(0) | <div>近日太忙，好久都没听妹妹的歌，也是才看到妹妹的留言。<br>感恩节快乐。感谢你的歌声。愿你在音乐的道路上越走越远。<br>加油。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-11-29 12:02<br>赞(0) 踩(0) | <div>周末快乐！真感激那么忙还还挂念着...感恩节快乐！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10092497)<br>听说写签名会有人看...<br>2014-11-27 22:10<br>赞(2) 踩(0) | <div>声音很不错呢哈哈学不会的英文部分挺给力</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10092497)<br>听说写签名会有人看...<br>2014-11-27 22:10<br>赞(2) 踩(0) | <div>声音很不错呢哈哈<br><br>学不会的英文部分挺给力</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-11-29 12:03<br>赞(0) 踩(0) | <div>嗯 一定加油 多谢给力...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/500423)<br>教育者<br>2014-11-27 19:03<br>赞(1) 踩(0) | <div>来拜访您</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-11-29 12:03<br>赞(0) 踩(0) | <div>周末快乐！！感恩节快乐！！！</div> |
@@ -831,13 +831,13 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-11-06 12:29<br>赞(0) 踩(0) | <div>我能体谅 寂寞不痛 黄丽玲的歌好棒呀！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1960984)<br> <br>2014-11-05 13:04<br>赞(2) 踩(0) | <div>不错  加油</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-11-05 13:07<br>赞(0) 踩(0) | <div>多谢大宇</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3333020)<br>peace is lie<br>2014-11-04 13:49<br>赞(3) 踩(0) | <div>被关注了跟过来听听……发现同是深圳的……╮(╯▽╰)╭唱得蛮不错的哟。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3333020)<br>peace is lie<br>2014-11-04 13:49<br>赞(3) 踩(0) | <div>被关注了跟过来听听……发现同是深圳的……<br>╮(╯▽╰)╭唱得蛮不错的哟。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-11-07 23:28<br>赞(0) 踩(0) | <div>深圳老乡好呀！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34325223)<br>生命的本质就是一个人生的...<br>2014-11-03 23:42<br>赞(2) 踩(0) | <div>声音很成熟噢 很有感觉 期待你的新作品！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-11-04 10:26<br>赞(0) 踩(0) | <div>嗯 忙完高三吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19653424)<br>人生三原则 无相无念无住<br>2014-11-02 22:26<br>赞(2) 踩(0) | <div>支持你。=)</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-11-02 22:30<br>赞(0) 踩(0) | <div>多谢您的支持！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2014-11-02 00:46<br>赞(3) 踩(0) | <div>声音真是天赋呢，唱功也有 ^ - ^我总觉得很多人的歌里面会有空空的感觉，不过随着经历情感的增长一定会越来越好吧越享受音乐~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2014-11-02 00:46<br>赞(3) 踩(0) | <div>声音真是天赋呢，唱功也有 ^ - ^<br>我总觉得很多人的歌里面会有空空的感觉，不过随着经历情感的增长一定会越来越好吧<br>越享受音乐~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-11-02 12:13<br>赞(0) 踩(0) | <div>有您的鼓励进步会更快...哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40847347)<br>袁嘉勋<br>2014-11-01 14:46<br>赞(1) 踩(0) | <div>唱得确实不错，你都上过啥节目啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-11-02 12:11<br>赞(0) 踩(0) | <div>还在学习阶段  周末快乐！</div> |
@@ -888,7 +888,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-10-19 22:55<br>赞(0) 踩(0) | <div><q><b>花形透说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4444582)<br><br>2014-10-20 00:03<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-10-27 23:06<br>赞(0) 踩(0) | <div>不好意思 管乐6级就没怎么练了，现在高中学习好紧张，挤点时间学歌多一些，谢谢！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7645492)<br>CREEPY_DOLL<br>2014-10-17 22:34<br>赞(4) 踩(0) | <div>之前还以为是僵尸粉来着的…偶然戳进来试听，竟然这么棒。妹子加油，喜欢你的嗓音❤❤❤</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7645492)<br>CREEPY_DOLL<br>2014-10-17 22:34<br>赞(4) 踩(0) | <div>之前还以为是僵尸粉来着的…<br><br>偶然戳进来试听，竟然这么棒。<br><br>妹子加油，喜欢你的嗓音❤❤❤</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-10-18 22:43<br>赞(0) 踩(0) | <div>多谢桃子同学的支持和鼓励！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12541410)<br>嘿~~FREEDOM<br>2014-10-16 22:44<br>赞(2) 踩(0) | <div>龙懿君的歌声好棒，如果歌声中再多那么一份类民谣或是独立摇滚的慵懒，是不是会更好呢？你的歌声让我想起了Rachael Yamagata。就像你的《阴天》这首歌，就有些《BE BE YOUR LOVE》的感觉。会不会软摇滚和民谣相比于蓝调和灵乐，更适合你的声线？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12541410)<br>嘿~~FREEDOM<br>2014-10-19 13:15<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
@@ -959,7 +959,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28380547)<br><br>2014-10-04 04:24<br>赞(1) 踩(0) | <div>请看你的收件箱，谢谢！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28380547)<br><br>2014-10-07 12:10<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-10-07 12:22<br>赞(0) 踩(0) | <div><q><b>Senpai说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-10-04 01:22<br>赞(2) 踩(0) | <div>声音条件不错，但感觉演唱过于注重技巧，不够自然，如能对歌曲意境深入透彻理解，将感情融入其中，寓情于声，效果可能更佳。个人比较喜欢非洲女神这首，期望能有更大的进步……52593，1503，542</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-10-04 01:22<br>赞(2) 踩(0) | <div>声音条件不错，但感觉演唱过于注重技巧，不够自然，如能对歌曲意境深入透彻理解，将感情融入其中，寓情于声，效果可能更佳。个人比较喜欢非洲女神这首，期望能有更大的进步……<br>52593，1503，542</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-10-05 15:50<br>赞(0) 踩(0) | <div>多谢防城港老师的宝贵建议，一定努力加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36565122)<br>生无可恋，埋头苦读<br>2014-10-03 23:10<br>赞(3) 踩(0) | <div>声音很有质感</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-10-05 15:51<br>赞(0) 踩(0) | <div>感谢雪霁友友多次鼓励！</div> |
@@ -973,7 +973,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-10-01 20:13<br>赞(0) 踩(0) | <div>嘿嘿 三岁时就一直喜欢唱歌...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9835755)<br>为荣誉，永不停止的战斗。<br>2014-10-01 17:51<br>赞(2) 踩(0) | <div>龙懿，照片吓着我了怎么办?分明清纯憨厚小丫头一个，怎的会有这么成熟的嗓音?，，，，，，</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-10-01 19:10<br>赞(0) 踩(0) | <div>您真有耐心 都听了一下 谢谢好久不见友友！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13194141)<br>看到的给我来个联络方式。...<br>2014-10-01 08:44<br>赞(1) 踩(0) | <div>◢▇▇▇▇◣国庆节好◥▇▇▇▇◤</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13194141)<br>看到的给我来个联络方式。...<br>2014-10-01 08:44<br>赞(1) 踩(0) | <div>◢▇▇▇▇◣<br>国庆节好<br>◥▇▇▇▇◤</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-10-01 12:28<br>赞(0) 踩(0) | <div>多谢友友！节日同乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22265017)<br><br>2014-09-30 12:24<br>赞(3) 踩(0) | <div>希望你能翻唱一首七十年代到九十年代的男歌手的作品，并且出色地达到一个新的高度。我喜欢你的声音期待你的歌。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-10-01 14:15<br>赞(0) 踩(0) | <div>多谢您的关注，一定加油，祝您国庆快乐！</div> |
@@ -1083,9 +1083,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40996874)<br><br>2014-09-08 13:48<br>赞(2) 踩(0) | <div>忒喜欢啦！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-09-08 17:46<br>赞(0) 踩(0) | <div>中秋快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7795058)<br>弦如字画，或空月过鸟<br>2014-09-08 12:04<br>赞(2) 踩(0) | <div>小盆友中秋节快乐~~</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-09-08 12:10<br>赞(0) 踩(0) | <div>月儿圆圆象灯笼,月饼甜甜情意浓,歌声代表我心意,祝您全家乐融融!小龙懿为您贺中秋!感谢您一直以来的关注支持!向您学习致敬！！！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-09-08 12:10<br>赞(0) 踩(0) | <div>月儿圆圆象灯笼,月饼甜甜情意浓,歌声代表我心意,祝您全家乐融融!<br>小龙懿为您贺中秋!感谢您一直以来的关注支持!向您学习致敬！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7202883)<br><br>2014-09-08 11:39<br>赞(3) 踩(0) | <div>龙懿姑娘中秋节快乐。记得吃月饼哟。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-09-08 12:10<br>赞(0) 踩(0) | <div>月儿圆圆象灯笼,月饼甜甜情意浓,歌声代表我心意,祝您全家乐融融!小龙懿为姐姐贺中秋!感谢您一直以来的关注支持!向您学习致敬！！！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-09-08 12:10<br>赞(0) 踩(0) | <div>月儿圆圆象灯笼,月饼甜甜情意浓,歌声代表我心意,祝您全家乐融融!<br>小龙懿为姐姐贺中秋!感谢您一直以来的关注支持!向您学习致敬！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15276934)<br>freedom<br>2014-09-07 12:44<br>赞(2) 踩(0) | <div>加油</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-09-07 23:01<br>赞(0) 踩(0) | <div>懿儿祝您中秋快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13262842)<br>以熊兒的身軀摧毀你們感<br>2014-09-06 20:44<br>赞(2) 踩(0) | <div>中秋佳節快樂!</div> |
@@ -1101,7 +1101,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9781865)<br>暂无签名~<br>2014-09-06 00:28<br>赞(2) 踩(0) | <div>能不能什么时候唱唱虎口脱险？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9781865)<br>暂无签名~<br>2014-09-06 00:25<br>赞(4) 踩(0) | <div>16岁………声音好听得很</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-09-07 00:22<br>赞(0) 踩(0) | <div>谢谢友友的鼓励！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/678232)<br>我们都诗化了眼前的世界。<br>2014-09-04 09:16<br>赞(4) 踩(0) | <div>为什么嗓子觉得有点熟悉？声线很成熟！ 很冷静！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/678232)<br>我们都诗化了眼前的世界。<br>2014-09-04 09:16<br>赞(4) 踩(0) | <div>为什么嗓子觉得有点熟悉？<br>声线很成熟！ 很冷静！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-09-07 11:57<br>赞(0) 踩(0) | <div>谢谢友友阿磊正传的支持！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/678232)<br>我们都诗化了眼前的世界。<br>2014-09-11 17:03<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9642566)<br>最悲惨的人生是没有理想<br>2014-09-03 20:29<br>赞(3) 踩(0) | <div>这孩子跟我徒弟长的真像 唱的真不错 这么小的年纪就能唱出歌里的情感</div> |
@@ -1121,7 +1121,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33933229)<br>菜鸟<br>2014-09-01 15:14<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47019)<br><br>2014-09-01 11:13<br>赞(1) 踩(0) | <div>听不到个性，祝你早日找到自己的风格</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-09-01 12:34<br>赞(0) 踩(0) | <div>找到自己的风格...好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72936)<br>汝身重生是吾乡<br>2014-08-31 23:44<br>赞(1) 踩(0) | <div>感觉声线适合浅唱低吟的加油希望最后能练出自己的风格，高音部分可以多磨练收音（其实我也是隔行如隔山，纯粹从听众角度听的）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72936)<br>汝身重生是吾乡<br>2014-08-31 23:44<br>赞(1) 踩(0) | <div>感觉声线适合浅唱低吟的<br>加油<br>希望最后能练出自己的风格，高音部分可以多磨练收音<br>（其实我也是隔行如隔山，纯粹从听众角度听的）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-09-01 14:34<br>赞(0) 踩(0) | <div>一定努力！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/868146)<br><br>2014-08-31 22:53<br>赞(1) 踩(0) | <div>为什么几次收藏了专辑这样的音乐动态你都能看到和点赞？不懂</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-09-01 10:58<br>赞(0) 踩(0) | <div>喜欢到处转转...嘿嘿</div> |
@@ -1148,7 +1148,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-08-30 11:53<br>赞(0) 踩(0) | <div>thankyou！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/563236)<br>何苦做人。<br>2014-08-29 22:40<br>赞(2) 踩(0) | <div>为你点赞</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-08-30 11:55<br>赞(0) 踩(0) | <div>多谢！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/526266)<br>我不能强迫自己天天签到，...<br>2014-08-29 12:40<br>赞(2) 踩(0) | <div>声线不错，的确，少年老成。好听的话不说了，感觉缺少独特风格。说不定哪天找到一首属于自己的歌就爆发了~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/526266)<br>我不能强迫自己天天签到，...<br>2014-08-29 12:40<br>赞(2) 踩(0) | <div>声线不错，的确，少年老成。<br>好听的话不说了，感觉缺少独特风格。说不定哪天找到一首属于自己的歌就爆发了~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-08-30 11:57<br>赞(0) 踩(0) | <div>有您的鼓励已经好高兴啦！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/526266)<br>我不能强迫自己天天签到，...<br>2014-08-30 22:01<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-08-31 10:55<br>赞(0) 踩(0) | <div><q><b>PIPI说：</b></q></div> |
@@ -1210,7 +1210,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4855774)<br>笑嘻嘻<br>2014-08-23 14:50<br>赞(2) 踩(0) | <div>攒劲</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-08-23 15:17<br>赞(0) 踩(0) | <div>克拉玛依友友 谢谢您！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4855774)<br>笑嘻嘻<br>2014-08-24 00:18<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10950437)<br>louver<br>2014-08-22 19:08<br>赞(2) 踩(0) | <div>Darling, 你的声音和风格唱流行简直好嗓子，但是能不能把摇滚两字去掉呐... 没有这两个字明显可以更加体现你的特点。不是加上了摇滚就显得经典风范或者非常高上大。你的档案里已经足够厉害了，又何苦加上摇滚两字反而显得画蛇添足啊。总之好好加油~在中国乐坛流行很吃得开~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10950437)<br>louver<br>2014-08-22 19:08<br>赞(2) 踩(0) | <div>Darling, 你的声音和风格唱流行简直好嗓子，但是能不能把摇滚两字去掉呐... 没有这两个字明显可以更加体现你的特点。不是加上了摇滚就显得经典风范或者非常高上大。你的档案里已经足够厉害了，又何苦加上摇滚两字反而显得画蛇添足啊。<br>总之好好加油~<br>在中国乐坛流行很吃得开~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1065005)<br><br>2014-08-22 21:10<br>赞(0) 踩(0) | <div>摇滚的定义很广泛嘛，而且摇滚也是流行音乐的一种风格而已。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-08-23 13:17<br>赞(0) 踩(0) | <div>好滴 多谢指点！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17474915)<br>喜欢独立音乐<br>2014-08-22 14:41<br>赞(1) 踩(0) | <div>不错啊~听到你的声音有很多故事，尤其是在深夜听的时候可以听到很多声音在诉说~~继续加油啊！！</div> |
@@ -1251,7 +1251,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-08-14 10:19<br>赞(0) 踩(0) | <div>多谢您的支持和鼓励！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1351718)<br>朝闻道，夕すごい。<br>2014-08-14 00:19<br>赞(0) 踩(0) | <div>想听你的原创。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-08-16 10:36<br>赞(0) 踩(0) | <div>爱尔兰咖啡、非洲女神（英文原创）多谢您的关心！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5540839)<br>青年的自负<br>2014-08-13 21:45<br>赞(3) 踩(0) | <div>声音太棒了 很适合唱黑人音乐 前途无限量！但是封面设计真得换...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5540839)<br>青年的自负<br>2014-08-13 21:45<br>赞(3) 踩(0) | <div>声音太棒了 很适合唱黑人音乐 前途无限量！<br>但是封面设计真得换...</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-08-13 22:49<br>赞(0) 踩(0) | <div>多谢鼓励！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2044643)<br>氤氲对你的痴情。<br>2014-08-13 20:32<br>赞(2) 踩(0) | <div>今天登陆，就来看看你</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-08-13 20:50<br>赞(0) 踩(0) | <div>子非姐姐好！是呀 好久没来啦！</div> |
@@ -1294,7 +1294,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18133242)<br>=V=<br>2014-08-01 11:56<br>赞(1) 踩(0) | <div>意外的发现这位音乐人粉了我。。。不胜惶恐，不知道出于什么原因呢？我很少听中文歌的昂。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9714648)<br>人生，需要揭穿<br>2014-08-03 16:27<br>赞(0) 踩(0) | <div>哈哈，我当初也是这种感觉呢……不胜惶恐~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35244555)<br>细嗅蔷薇<br>2014-07-31 20:43<br>赞(0) 踩(0) | <div>非洲女神，声音很有金属感！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-10-27 23:04<br>赞(0) 踩(0) | <div>转冰种翡翠喜欢季夏和施其仁两位老师作品，大气豪放的旋律，巧妙的构思和变奏的手法，舒缓愉悦，令人心旷神怡。时光在飞快地流逝，我们眼前的一切无不如白驹过隙，人生在世，悠悠数万日，遥遥无期；匆匆几十秋，弹指一挥间。亲情、友情、爱情，无不让生命充满感动与绚丽。让我们用一颗充满爱的心去关心身边的人和事物，把自己的整颗心，用于对生活的热爱和对世界的感恩。在此龙懿感谢季夏老师的推荐~~~还有友友们的支持！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2017-10-27 23:04<br>赞(0) 踩(0) | <div>转冰种翡翠<br>喜欢季夏和施其仁两位老师作品，大气豪放的旋律，巧妙的构思和变奏的手法，舒缓愉悦，令人心旷神怡。时光在飞快地流逝，我们眼前的一切无不如白驹过隙，人生在世，悠悠数万日，遥遥无期；匆匆几十秋，弹指一挥间。亲情、友情、爱情，无不让生命充满感动与绚丽。让我们用一颗充满爱的心去关心身边的人和事物，把自己的整颗心，用于对生活的热爱和对世界的感恩。在此龙懿感谢季夏老师的推荐~~~还有友友们的支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5398540)<br>民歌警察出警中<br>2014-07-30 11:09<br>赞(0) 踩(0) | <div>哈哈新浪腾讯微博都关注了！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-07-31 13:12<br>赞(0) 踩(0) | <div>好感谢友友滴支持呀！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5398540)<br>民歌警察出警中<br>2014-07-30 11:06<br>赞(0) 踩(0) | <div>我去16岁。。</div> |
@@ -1341,7 +1341,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-07-17 21:58<br>赞(0) 踩(0) | <div>那可不敢当呀 不过有您如此鼓励懿儿会努力学习啦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5523541)<br><br>2014-07-17 20:44<br>赞(1) 踩(0) | <div>妹妹很不错</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-07-17 20:59<br>赞(0) 踩(0) | <div>谢谢友友滴鼓励！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-07-17 12:55<br>赞(0) 踩(0) | <div>2014-04-21 ----2014-07-21 龙懿入驻虾米音乐已三个月啦！特别感谢这么多友友对懿儿滴支持和鼓励！也很喜欢虾米网！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-07-17 12:55<br>赞(0) 踩(0) | <div>2014-04-21 ----2014-07-21 龙懿入驻虾米音乐已三个月啦！<br>特别感谢这么多友友对懿儿滴支持和鼓励！<br>也很喜欢虾米网！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8793564)<br><br>2014-07-16 22:09<br>赞(1) 踩(0) | <div>咱来听你的歌啦。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-07-17 12:40<br>赞(0) 踩(0) | <div>感谢茂园友友的支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13937861)<br>我还没想好要写什么...<br>2014-07-15 09:26<br>赞(2) 踩(0) | <div>我是被 流浪记  吸引来的。。。小妹妹唱歌真不错</div> |
@@ -1370,7 +1370,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-07-10 10:47<br>赞(0) 踩(0) | <div>都是喜欢音乐的友友嘛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34873393)<br>指挥看起来好厉害啊<br>2014-07-08 22:20<br>赞(1) 踩(0) | <div>好想给你拍小清新的头像哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-07-09 00:10<br>赞(0) 踩(0) | <div>好呀！谢谢！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-07-09 00:13<br>赞(0) 踩(0) | <div><a href="http://i.xiami.com/ly/pic-detail/pid/1601588?spm=a1z1s.6639685.471966497.12.H9DL0y" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/ly/pic-detail/pid/1601588?spm=a1z1s.6639685.471966497.12.H9DL0y</a>这张是7.8岁时照的</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-07-09 00:13<br>赞(0) 踩(0) | <div><a href="http://i.xiami.com/ly/pic-detail/pid/1601588?spm=a1z1s.6639685.471966497.12.H9DL0y" target="_blank" rel="nofollow noreferrer noopener">http://i.xiami.com/ly/pic-detail/pid/1601588?spm=a1z1s.6639685.471966497.12.H9DL0y</a><br>这张是7.8岁时照的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1412680)<br>我们都是好孩子。<br>2014-07-06 07:19<br>赞(1) 踩(0) | <div>呃虾米给换张头像吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-07-06 12:36<br>赞(0) 踩(0) | <div>嘿嘿 是龙懿的头像要换一下吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1412680)<br>我们都是好孩子。<br>2014-07-06 20:21<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
@@ -1426,7 +1426,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5765082)<br>来自第九区<br>2014-06-10 22:58<br>赞(1) 踩(0) | <div>刚又仔细听了下，这嗓音浑厚有力，暗叹，蔡大姐有了接班人了，不过也非常纳闷，这把嗓子是不是练过吹管乐器？控制拿捏得十分到位，当为发烧女声。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-06-11 10:29<br>赞(0) 踩(0) | <div>七岁练单簧管6级就没怎么练了 业余的啦，也没发烧滴呀，就是特喜欢唱歌...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5765082)<br>来自第九区<br>2014-06-10 15:07<br>赞(1) 踩(0) | <div>哦，这妹纸，竟然成了我滴粉丝，我还没听说过哩</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-06-10 17:42<br>赞(0) 踩(0) | <div>我想知道那无所畏惧的你在哪里...好棒呀！小妹妹就是喜欢听歌啦 也不知点了粉丝当否，嘿嘿</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-06-10 17:42<br>赞(0) 踩(0) | <div>我想知道<br>那无所畏惧的你在哪里...好棒呀！小妹妹就是喜欢听歌啦 也不知点了粉丝当否，嘿嘿</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5765082)<br>来自第九区<br>2014-06-10 22:48<br>赞(0) 踩(0) | <div><q><b>龙懿说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-06-11 10:20<br>赞(0) 踩(0) | <div><q><b>耳机小Q说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8088303)<br><br>2014-06-10 14:32<br>赞(1) 踩(0) | <div>小妹加油！明日之星。</div> |
@@ -1482,7 +1482,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-05-09 22:14<br>赞(0) 踩(0) | <div>哈哈哈 谢谢友友的鼓励呀！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2686804)<br>故事从头<br>2014-05-07 23:23<br>赞(1) 踩(0) | <div>喜欢你浑厚而清新的声音，忍不住赞一个</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-05-08 09:56<br>赞(0) 踩(0) | <div>多谢福建友友的支持和鼓励！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8626266)<br>却没能爬出一口井<br>2014-05-03 10:53<br>赞(1) 踩(0) | <div>肤若凝脂蜡人比心跳龙懿雏燕飞芳草萋萋何处寄小河淌水听龙女</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8626266)<br>却没能爬出一口井<br>2014-05-03 10:53<br>赞(1) 踩(0) | <div>肤若凝脂蜡人比<br>心跳龙懿雏燕飞<br>芳草萋萋何处寄<br>小河淌水听龙女</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-05-07 20:04<br>赞(0) 踩(0) | <div>龙懿感谢龙行天下（小河淌水听龙女）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5854492)<br><br>2014-04-26 19:34<br>赞(0) 踩(0) | <div>你照片有点像那个蜡像，真的，美女</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-05-01 12:12<br>赞(0) 踩(0) | <div>哈哈哈 照相馆照的是有点像蜡像，不过蜡像是不能唱歌的，我可以唱歌呀！</div> |

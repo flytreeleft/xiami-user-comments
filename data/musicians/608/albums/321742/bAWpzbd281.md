@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357077366)<br><br>2019-09-15 22:31<br>赞(0) 踩(0) | <div>林海，福建晋江人，风潮唱片收录很多他的作品</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327160074)<br>阳光 、空气 、水 、音...<br>2019-08-12 15:59<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423395158)<br>每天与音乐约会的人不会孤...<br>2019-08-03 06:36<br>赞(0) 踩(0) | <div>欢快，一听就很开心的感觉 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
@@ -39,7 +36,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48988779)<br>告别<br>2018-01-26 13:12<br>赞(0) 踩(0) | <div>滴滴答(ꈍᴗꈍ)ヾ(●&amp;acute;&amp;nabla;｀●)ﾉ哇～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7898225)<br><br>2017-11-02 00:03<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327518982)<br><br>2017-09-30 17:08<br>赞(1) 踩(0) | <div>哈哈哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2016-09-19 16:20<br>赞(7) 踩(0) | <div>扁担长 板凳宽板凳没有扁担长扁担没有板凳宽扁担要绑在板凳上板凳偏不让扁担绑在板凳上咳咳~边听曲子边练绕口令~每念错一字就要罚挑一缸水哦XDD</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11970559)<br>音乐有生命。<br>2016-09-19 16:20<br>赞(7) 踩(0) | <div>扁担长 板凳宽<br>板凳没有扁担长<br>扁担没有板凳宽<br>扁担要绑在板凳上<br>板凳偏不让扁担绑在板凳上<br><br>咳咳~边听曲子边练绕口令~每念错一字就要罚挑一缸水哦XDD</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303670306)<br><br>2017-07-04 12:58<br>赞(0) 踩(0) | <div>vgkgc。  你那边。  不能</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9258259)<br>删音乐中<br>2016-05-10 21:44<br>赞(2) 踩(0) | <div>小扁担，挑两头儿，往前走，颤悠悠，一步两步一步两步颤悠悠~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99183240)<br>走在风中今天阳光突然好温...<br>2016-05-06 17:54<br>赞(0) 踩(0) | <div>笑完了一根扁担～</div> |

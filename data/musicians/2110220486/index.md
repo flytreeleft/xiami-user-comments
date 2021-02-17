@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/154d44951ee83ce924e6427bfa8debdc.jpg)<br>热依木江](https://i.xiami.com/riyimjan) | **播放数**: 1805515<br>**粉丝数**: 45<br>**评论数**: 6<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 华语唱作人 Chinese Singer-Songwriter, 出神舞曲 Trance<br> |
+| [![](../../images/musicians/154d44951ee83ce924e6427bfa8debdc.jpg)<br>热依木江](https://i.xiami.com/riyimjan) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 华语唱作人 Chinese Singer-Songwriter, 出神舞曲 Trance<br>**播放数**: 1805515<br>**粉丝数**: 45<br>**评论数**: 6<br> |
 
 ## 档案
 
@@ -38,8 +38,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342908523)<br>고봄향<br>2019-08-04 05:34<br>赞(0) 踩(0) | <div>ㅡ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324879742)<br> <br>2019-05-22 04:44<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285036334)<br><br>2018-11-15 11:25<br>赞(0) 踩(0) | <div>大舌头？</div> |

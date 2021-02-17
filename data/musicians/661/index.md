@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ba1b63034ce5046b7ded66c867119de7.jpg)<br>刘可](https://i.xiami.com/huicheng) | **播放数**: 10067920<br>**粉丝数**: 1040<br>**评论数**: 87<br>**地区**: China 中国大陆<br>**风格**: 另类唱作人 Alternative Singer-Songwriter<br> |
+| [![](../../images/musicians/ba1b63034ce5046b7ded66c867119de7.jpg)<br>刘可](https://i.xiami.com/huicheng) | **地区**: China 中国大陆<br>**风格**: 另类唱作人 Alternative Singer-Songwriter<br>**播放数**: 10067920<br>**粉丝数**: 1040<br>**评论数**: 87<br> |
 
 ## 档案
 
@@ -33,8 +33,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402174298)<br><br>2018-08-20 18:43<br>赞(1) 踩(0) | <div>我注定爱你超好听，多情江山的片尾曲，爱新觉罗福临和董鄂妃的爱情</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376893579)<br><br>2018-07-12 16:00<br>赞(1) 踩(0) | <div>不多说了  满江红</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304366838)<br>原谅我这一生不羁放纵爱自...<br>2018-06-09 11:06<br>赞(2) 踩(0) | <div>超级喜欢你的声线啊，满江红一曲悲壮之味全出，就像宋慈的感叹。</div> |

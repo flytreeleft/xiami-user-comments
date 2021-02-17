@@ -45,8 +45,8 @@ by santacruz+<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3250268)<br>一首好歌都比爱一个人长久...<br>2020-03-03 23:28<br>赞(0) 踩(0) | <div>林一峰唱得真的很温柔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5968552)<br>虾小米，我爱你所以讲不出...<br>2019-07-24 14:03<br>赞(2) 踩(0) | <div>微凉是神作，sandy还是一峰都好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10936044)<br><br>2019-06-18 20:47<br>赞(0) 踩(0) | <div>我觉得林一峰翻唱的版本更好听，喜欢这首歌很久了</div> |

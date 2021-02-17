@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5b7db7b89c449dc70b208be5dacd18e8.jpg)<br>旦旦](https://i.xiami.com/dandan) | **播放数**: 4677550<br>**粉丝数**: 979<br>**评论数**: 99<br>**地区**: China 中国大陆<br>**风格**: 放克电子 Electro (Electro-Funk), 新世纪音乐 New Age, 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/5b7db7b89c449dc70b208be5dacd18e8.jpg)<br>旦旦](https://i.xiami.com/dandan) | **地区**: China 中国大陆<br>**风格**: 放克电子 Electro (Electro-Funk), 新世纪音乐 New Age, 独立流行 Indie Pop<br>**播放数**: 4677550<br>**粉丝数**: 979<br>**评论数**: 99<br> |
 
 ## 档案
 
@@ -21,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442377629)<br>跳动的人生<br>2020-07-31 17:29<br>赞(1) 踩(0) | <div>共鸣是多么的不孤单</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-07-28 23:28<br>赞(2) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400715332)<br>留白<br>2020-03-11 00:58<br>赞(0) 踩(0) | <div>——</div> |
@@ -40,7 +40,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346952592)<br>行如风  做如松  最美...<br>2019-02-26 08:40<br>赞(0) 踩(0) | <div>同感！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1245452)<br><br>2018-09-20 20:00<br>赞(1) 踩(0) | <div>哇捡到宝了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339505292)<br><br>2018-08-13 00:42<br>赞(1) 踩(0) | <div>很赞</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336516835)<br>来是偶然，走是必然。你我...<br>2018-08-10 22:09<br>赞(4) 踩(0) | <div>......Look back on your life, making us the pain, not failure, but no experience everything I want to experience.~回首人生，最使得我们痛的，不是失败，而是没有经历我所想要经历的一切。来是偶然，走是必然～出生✪死亡。你我都在路上&amp;hellip;&amp;hellip;欢乐只是记忆，痛苦也只是记忆，一切都只是记忆，让我们慢慢地回忆&amp;hellip;&amp;hellip;愿那些灵魂的深处依然&amp;hellip;&amp;hellip;不保留的， 才叫青春。 不解释的， 才叫从容。 不放手的， 才叫真爱。 不完美的， 才叫人生.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336516835)<br>来是偶然，走是必然。你我...<br>2018-08-10 22:09<br>赞(4) 踩(0) | <div>......Look back on your life, making us the pain, not failure, but no experience everything I want to experience.~回首人生，最使得我们痛的，不是失败，而是没有经历我所想要经历的一切。<br>来是偶然，走是必然～出生✪死亡。你我都在路上&amp;hellip;&amp;hellip;欢乐只是记忆，痛苦也只是记忆，一切都只是记忆，让我们慢慢地回忆&amp;hellip;&amp;hellip;愿那些灵魂的深处依然&amp;hellip;&amp;hellip;<br>不保留的， 才叫青春。 不解释的， 才叫从容。 不放手的， 才叫真爱。 不完美的， 才叫人生.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13020009)<br>唤醒真我<br>2018-08-28 14:45<br>赞(0) 踩(0) | <div>文采真好 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400287158)<br><br>2018-08-06 01:09<br>赞(1) 踩(0) | <div>喜欢你的音乐，有种穿透灵魂的张合力。你是自成一派的大师 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374883201)<br><br>2018-06-07 09:44<br>赞(1) 踩(0) | <div>空灵飘逸，如听仙乐耳暂明 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -85,10 +85,10 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13020009)<br>唤醒真我<br>2017-04-13 22:56<br>赞(0) 踩(0) | <div>去看看吧，发现自己的好地方</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256329532)<br><br>2017-02-21 14:13<br>赞(0) 踩(0) | <div>轮回也不错 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272395279)<br><br>2017-02-10 16:36<br>赞(0) 踩(0) | <div>太好听了，支持</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4345320)<br>70后<br>2017-02-05 23:50<br>赞(2) 踩(0) | <div>经常听歌和音乐，一般情况下，一年半载才能找到一张品质和品味全面俱佳的专辑，而这张《绿松石》便是如此！！！太赞了！！！感谢这位叫旦旦的音乐人！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4345320)<br>70后<br>2017-02-05 23:50<br>赞(2) 踩(0) | <div>经常听歌和音乐，一般情况下，一年半载才能找到一张品质和品味全面俱佳的专辑，而这张《绿松石》便是如此！！！<br>太赞了！！！感谢这位叫旦旦的音乐人！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13020009)<br>唤醒真我<br>2017-04-13 22:54<br>赞(0) 踩(0) | <div>谢谢您的夸赞 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13020009)<br>唤醒真我<br>2017-04-23 08:33<br>赞(0) 踩(0) | <div>你的支持是最大的动力，谢谢 <img src="../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46725536)<br><br>2016-12-28 07:12<br>赞(0) 踩(0) | <div>我曾见过最美的海却迷恋着青色牧场我曾在霓虹里流浪像一只走失的羔羊站在天涯转身眺望一路向西才是家乡美！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46725536)<br><br>2016-12-28 07:12<br>赞(0) 踩(0) | <div>我曾见过最美的海<br>却迷恋着青色牧场<br>我曾在霓虹里流浪<br>像一只走失的羔羊<br>站在天涯转身眺望<br>一路向西才是家乡<br><br>美！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13020009)<br>唤醒真我<br>2016-12-28 09:52<br>赞(0) 踩(0) | <div>美美的思念 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55256803)<br><br>2016-12-26 00:23<br>赞(0) 踩(0) | <div>不错 支持</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13020009)<br>唤醒真我<br>2016-12-26 08:10<br>赞(0) 踩(0) | <div><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png">谢谢</div> |

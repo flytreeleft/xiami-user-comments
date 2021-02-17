@@ -26,5 +26,3 @@ She shall have music wherever she goes
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

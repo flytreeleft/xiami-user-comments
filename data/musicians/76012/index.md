@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9dbb192080f59cb19d2e41565c931152.jpg)<br>陈娟儿](https://i.xiami.com/chenjuaner) | **播放数**: 6494378<br>**粉丝数**: 728<br>**评论数**: 35<br>**地区**: China 中国大陆<br>**风格**: 标准歌曲 Standards, 独立流行 Indie Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/9dbb192080f59cb19d2e41565c931152.jpg)<br>陈娟儿](https://i.xiami.com/chenjuaner) | **地区**: China 中国大陆<br>**风格**: 标准歌曲 Standards, 独立流行 Indie Pop, 国语流行 Mandarin Pop<br>**播放数**: 6494378<br>**粉丝数**: 728<br>**评论数**: 35<br> |
 
 ## 档案
 
@@ -71,8 +71,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415924674)<br>孤独一人在雨里，寂寞的站...<br>2020-11-11 04:01<br>赞(0) 踩(0) | <div>我觉得（难道我爱你还不够）这首歌很好听，独自听这首歌觉得很有情感，唱的很好，作词作曲也作的好！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443759882)<br><br>2020-07-21 16:43<br>赞(0) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261355585)<br>我还没想好要写什么...<br>2020-03-12 21:45<br>赞(0) 踩(0) | <div>互相关注</div> |

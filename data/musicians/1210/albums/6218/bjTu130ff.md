@@ -70,8 +70,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4771536)<br>I like the v...<br>2021-01-11 22:24<br>赞(0) 踩(0) | <div>虾米啊虾米不想让你走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85973640)<br>Should it be...<br>2021-01-10 21:08<br>赞(0) 踩(0) | <div>你明白吗 只想在你的身边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404217366)<br>穿过表面让我看到你美丽的...<br>2020-10-19 13:30<br>赞(0) 踩(0) | <div>高中的那帮男生很喜欢他</div> |
@@ -81,9 +81,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45868844)<br>每天起床第一句 先给自己...<br>2020-07-31 14:10<br>赞(0) 踩(0) | <div>阿岳，懂你。以前总是停在我自己眼中的你，现在才开始看真实的你。如果可以这样表达的话。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51688839)<br>不想泊岸<br>2020-05-26 07:54<br>赞(0) 踩(0) | <div>原来是没有离开的勇气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11913225)<br>我还没想好要写什么...<br>2020-03-05 00:29<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351417200)<br>是鬼但<br>2020-01-27 16:23<br>赞(1) 踩(0) | <div>阿岳的声音哪里是流行乐这么简单</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351417200)<br>是鬼但<br>2020-01-27 16:23<br>赞(1) 踩(0) | <div>阿岳的声音<br>哪里是流行乐这么简单</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10393019)<br>Y<br>2020-01-21 00:28<br>赞(0) 踩(0) | <div>有点念旧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38948)<br>凡尘如烟 日月可鉴<br>2020-01-17 22:12<br>赞(1) 踩(0) | <div>我终于给了你 把我彻底击垮的权利…我好难过啊</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38948)<br>凡尘如烟 日月可鉴<br>2020-01-17 22:12<br>赞(1) 踩(0) | <div>我终于给了你 把我彻底击垮的权利…<br><br>我好难过啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42618490)<br>我还没想好要写什么...<br>2020-01-15 14:18<br>赞(1) 踩(0) | <div>害 我怎么现在才开始喜欢张震岳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405148958)<br>我还没想好要写什么...<br>2019-11-17 21:45<br>赞(0) 踩(0) | <div>詹姆斯不只会打球</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87421924)<br>唯有自己钟情的音乐不可抗...<br>2019-10-09 03:56<br>赞(0) 踩(0) | <div></div> |
@@ -91,7 +91,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42231497)<br><br>2019-12-25 07:57<br>赞(0) 踩(0) | <div>我16听的，现在36了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285864787)<br>如何不想你，如何不爱你。<br>2021-01-12 18:56<br>赞(0) 踩(0) | <div>你很美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415914656)<br><br>2019-07-02 23:22<br>赞(0) 踩(0) | <div>每次喝醉了都找这首歌来听。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326522016)<br>我想自由的来去<br>2019-03-17 10:57<br>赞(0) 踩(0) | <div>想放下得不到的 珍惜已经得到的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326522016)<br>我想自由的来去<br>2019-03-17 10:57<br>赞(0) 踩(0) | <div>想<br>放下得不到的 珍惜已经得到的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11975658)<br>幸福首先是可以不做不喜欢...<br>2019-02-06 14:07<br>赞(0) 踩(0) | <div>想做个mv了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98776998)<br>时常想逃往简单<br>2019-02-02 23:59<br>赞(0) 踩(0) | <div>阿岳的歌听不腻 <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410111229)<br><br>2019-01-31 18:22<br>赞(0) 踩(0) | <div>好真切好真切的感觉</div> |
@@ -107,7 +107,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37780112)<br> <br>2018-08-01 23:13<br>赞(0) 踩(0) | <div>所以我的男朋友 你还要好久才能在我身边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97270120)<br>定性 知事 选梦 遇人 ...<br>2018-07-03 08:30<br>赞(4) 踩(0) | <div>我也是&amp;hellip;前男友不是人&amp;hellip;哈哈哈&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163183208)<br>要像个大男孩风吹又雨晒生...<br>2018-07-01 17:50<br>赞(7) 踩(0) | <div>看前男友不是人一放这首歌超好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91261690)<br><br>2018-06-25 19:50<br>赞(13) 踩(0) | <div>好可惜最近才听到这首歌和很多人一样看了《前男友不是人》听两句就触动内心我是怎么了距离上一段恋情刚满五年这一年遇到了一个有点喜欢可是不打算表白的人也许是我独自在外有点孤单了吧也许是空窗期太久了吧也许分别的日子在倒数中也许跟那么多女生相比我太普通了宅了两天睡了两天调整情绪还是不够快羡慕朋友陷得快拔得快对外强装坚强对内脆弱不堪的&amp;ldquo;大人&amp;rdquo;生活好艰难好不易可是我还要继续坚强下去对吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91261690)<br><br>2018-06-25 19:50<br>赞(13) 踩(0) | <div>好可惜<br>最近才听到这首歌<br>和很多人一样<br>看了《前男友不是人》<br><br>听两句就触动内心<br>我是怎么了<br><br>距离上一段恋情<br>刚满五年<br><br>这一年<br>遇到了一个有点喜欢可是不打算表白的人<br><br>也许是我独自在外有点孤单了吧<br>也许是空窗期太久了吧<br>也许分别的日子在倒数中<br>也许跟那么多女生相比我太普通了<br><br>宅了两天<br>睡了两天<br>调整情绪还是不够快<br>羡慕朋友陷得快拔得快<br><br>对外强装坚强<br>对内脆弱不堪的&amp;ldquo;大人&amp;rdquo;生活<br>好艰难好不易<br><br>可是我还要继续坚强下去<br>对吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246999542)<br><br>2018-07-11 09:47<br>赞(0) 踩(0) | <div>加油 接受自己的平凡 毕竟哪怕外表再美的女人 也只是凡人</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4055728)<br>Live, love, ...<br>2020-02-06 19:54<br>赞(0) 踩(0) | <div>你还好吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330059165)<br>我还没想好要写什么...<br>2018-06-25 02:14<br>赞(0) 踩(0) | <div>听着这首歌，准备勇气接受分手</div> |
@@ -171,7 +171,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251875108)<br><br>2017-04-03 14:35<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264719957)<br> 你的脑残粉z<br>2017-03-27 03:41<br>赞(0) 踩(0) | <div>大学那会儿的催眠曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212922807)<br>ᴄᴏᴏʟ ᴀs ɪᴄᴇ ...<br>2017-03-20 19:09<br>赞(3) 踩(0) | <div>我天 这是高中每晚陪伴我写作业的歌 <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16787013)<br>Fool here.<br>2017-03-15 20:16<br>赞(2) 踩(0) | <div>漫长的路 寂寞的夜我没有勇气 没有力气</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16787013)<br>Fool here.<br>2017-03-15 20:16<br>赞(2) 踩(0) | <div>漫长的路 寂寞的夜<br>我没有勇气 没有力气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16787013)<br>Fool here.<br>2017-03-14 21:17<br>赞(0) 踩(0) | <div>唉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5006061)<br>漫不经心<br>2017-03-09 22:09<br>赞(1) 踩(0) | <div>山南水北，体会到过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218567888)<br><br>2017-03-06 18:33<br>赞(0) 踩(0) | <div>听了五年了</div> |
@@ -197,7 +197,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249024953)<br><br>2016-12-03 19:28<br>赞(0) 踩(0) | <div>失去的勇气，无法找回</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103665062)<br><br>2016-12-03 14:57<br>赞(0) 踩(0) | <div>喜欢梁静茹的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98395412)<br>请允许我在你无限平静的回...<br>2016-11-27 22:45<br>赞(0) 踩(0) | <div>每次在KTV听都觉得无酒自醉的一首歌。晚安。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98395412)<br>请允许我在你无限平静的回...<br>2016-11-27 22:44<br>赞(0) 踩(0) | <div>每次在KTV听都觉得无酒自醉的一首歌。晚安。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98395412)<br>请允许我在你无限平静的回...<br>2016-11-27 22:44<br>赞(0) 踩(0) | <div>每次在KTV听都觉得无酒自醉的一首歌。<br>晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14071343)<br>这里其实可以什么都不写<br>2016-11-23 20:41<br>赞(0) 踩(0) | <div>听说……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16344650)<br>听着就醒来还是睡去<br>2016-11-21 18:11<br>赞(0) 踩(0) | <div>漫长的路 寂寞的夜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44029453)<br> <br>2016-11-07 14:11<br>赞(1) 踩(0) | <div>突然很想你</div> |
@@ -212,7 +212,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15810824)<br>1874<br>2016-09-03 21:31<br>赞(0) 踩(0) | <div>我还爱上你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10141314)<br> <br>2016-08-25 15:24<br>赞(1) 踩(0) | <div>这首歌必须有999＋啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16820078)<br>游子<br>2016-08-21 01:01<br>赞(0) 踩(0) | <div>晚安~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19100237)<br>爱生活的娃<br>2016-08-04 17:24<br>赞(3) 踩(0) | <div>因为张震岳下载虾米根本停不下来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19100237)<br>爱生活的娃<br>2016-08-04 17:24<br>赞(3) 踩(0) | <div>因为张震岳<br>下载虾米<br>根本停不下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207664621)<br><br>2016-08-01 13:15<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48982656)<br>横眉冷对千夫指<br>2016-07-14 19:50<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37568307)<br>Be your own ...<br>2016-07-14 00:21<br>赞(0) 踩(0) | <div>哈哈哈</div> |
@@ -294,7 +294,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20266635)<br><br>2014-04-29 11:42<br>赞(0) 踩(0) | <div>需要一点勇气 来面对现在的心情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32272841)<br>暂无签名~<br>2014-04-28 23:03<br>赞(0) 踩(0) | <div>Nice</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255476)<br><br>2014-03-10 21:57<br>赞(0) 踩(0) | <div>#每日一歌#你明白么，只想在你的身边！需要一点勇气。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2868766)<br><br>2014-02-11 11:24<br>赞(0) 踩(0) | <div>nimingbaimazhixiangzainideshenbian</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2868766)<br><br>2014-02-11 11:24<br>赞(0) 踩(0) | <div>nimingbaimazhixiangzainideshen<br>bian</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10441556)<br>暂无签名~<br>2013-11-19 23:29<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26432550)<br><br>2013-11-10 02:13<br>赞(0) 踩(0) | <div>想在你身边，你身边，说爱你~需要一点勇气，来弥补现在的心情…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24266966)<br><br>2013-11-02 21:50<br>赞(0) 踩(0) | <div>我没有勇气，我没有力气。</div> |
@@ -362,8 +362,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1550760)<br> <br>2012-03-12 22:46<br>赞(0) 踩(0) | <div>love</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5480438)<br><br>2012-03-04 15:44<br>赞(0) 踩(0) | <div>这首太好听了，旋律，调调，还有Ayue的声音，很完美！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1167068)<br> <br>2012-02-23 07:04<br>赞(0) 踩(0) | <div>有feel～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2470687)<br>我还没想好要写什么...<br>2012-02-15 05:48<br>赞(0) 踩(0) | <div>漫长的路 寂寞的夜在心里面 哭泣的夜你明白吗只想在你的身边我没有勇气 没有力气真的无法离你而去你明白吗只想在你的身边你的身边 说爱你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2470687)<br>我还没想好要写什么...<br>2012-02-15 05:48<br>赞(1) 踩(0) | <div>漫长的路 寂寞的夜在心里面 哭泣的夜你明白吗只想在你的身边我没有勇气 没有力气真的无法离你而去你明白吗只想在你的身边你的身边 说爱你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2470687)<br>我还没想好要写什么...<br>2012-02-15 05:48<br>赞(0) 踩(0) | <div>漫长的路 寂寞的夜<br>在心里面 哭泣的夜<br>你明白吗<br>只想在你的身边<br>我没有勇气 没有力气<br>真的无法离你而去<br>你明白吗<br>只想在你的身边<br>你的身边 说爱你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2470687)<br>我还没想好要写什么...<br>2012-02-15 05:48<br>赞(1) 踩(0) | <div>漫长的路 寂寞的夜<br>在心里面 哭泣的夜<br>你明白吗<br>只想在你的身边<br>我没有勇气 没有力气<br>真的无法离你而去<br>你明白吗<br>只想在你的身边<br>你的身边 说爱你</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289983269)<br><br>2017-06-21 08:03<br>赞(0) 踩(0) | <div>五年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2253184)<br><br>2012-01-06 15:06<br>赞(0) 踩(0) | <div>需要一点勇气 来对你说对不起 他一直在你的心中 我还爱上你 知道这样不行 偏偏继续下去 怎么会有结果 是我想太多 没有方向看不清楚在徘徊~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327379)<br><br>2012-01-06 00:29<br>赞(0) 踩(0) | <div>今晚就循环这首吧。</div> |
@@ -371,9 +371,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2265266)<br><br>2011-12-01 11:47<br>赞(0) 踩(0) | <div>你明白吗，只想在你的身边~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3456875)<br><br>2011-10-23 23:49<br>赞(0) 踩(0) | <div>就是喜欢这首！百听不厌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2390011)<br><br>2011-10-14 13:21<br>赞(1) 踩(0) | <div>喜欢阿岳，真的是太在了。。。总是好奇此人怎么总是把各类复杂的情感，各种纠结拧巴的情绪，拿捏的如此到位，到底是有多的情感历练呢？比如这首“勇气”典型的一副可怜之人委曲求全的范儿，但估计该得到的也都得到了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126099)<br><br>2011-08-16 14:44<br>赞(0) 踩(0) | <div>只想陪在你的身边你身边～～</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126099)<br><br>2011-08-16 14:44<br>赞(0) 踩(0) | <div>只想陪在你的身边<br>你身边～～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/500096)<br><br>2011-08-11 23:21<br>赞(0) 踩(0) | <div>记录一下，最近的单曲循环无止尽。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5141792)<br><br>2011-08-07 11:43<br>赞(0) 踩(0) | <div>我没有勇气 没有力气真的无法离你而去你明白吗只想在你的身边你的身边 说爱你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5141792)<br><br>2011-08-07 11:43<br>赞(0) 踩(0) | <div>我没有勇气 没有力气<br>真的无法离你而去<br>你明白吗<br>只想在你的身边<br>你的身边 说爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3462639)<br><br>2011-08-04 23:26<br>赞(0) 踩(0) | <div>没有力气~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1354022)<br><br>2011-06-15 20:38<br>赞(0) 踩(0) | <div>我没有勇气 没有力气~~~~好爱这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4092687)<br>快要二十岁 有点慌<br>2011-06-11 21:24<br>赞(0) 踩(0) | <div>喜欢张震岳~</div> |
@@ -387,14 +387,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5106)<br><br>2011-03-22 13:30<br>赞(0) 踩(0) | <div>你明白吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1569645)<br><br>2011-01-17 21:49<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1504304)<br><br>2010-10-27 11:18<br>赞(0) 踩(0) | <div>简单的旋律，简单的歌词，轻易走进心里。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/451695)<br><br>2010-10-08 09:02<br>赞(0) 踩(0) | <div>需要一点勇气来面对现在的心情也许时间依旧很快就忘记知道这样不行偏偏继续下去怎么会有结果是我想太多没有方向看不清楚在徘徊我知道我一定走不开漫长的路寂寞的夜在心里面哭泣的夜你明白吗只想在你的身边我没有勇气没有力气真的无法离你而去你明白吗只想在你的身边漫长的路寂寞的夜在心里面哭泣的夜你明白吗只想在你的身边我没有勇气没有力气真的无法离你而去你明白吗只想在你的身边你的身边说爱你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/451695)<br><br>2010-10-08 09:02<br>赞(0) 踩(0) | <div>需要一点勇气<br>来面对现在的心情<br>也许时间依旧<br>很快就忘记<br>知道这样不行<br>偏偏继续下去<br>怎么会有结果<br>是我想太多<br>没有方向看不清楚在徘徊<br>我知道我一定<br>走不开<br>漫长的路寂寞的夜<br>在心里面哭泣的夜<br>你明白吗<br>只想在你的身边<br>我没有勇气没有力气<br>真的无法离你而去<br>你明白吗<br>只想在你的身边<br>漫长的路寂寞的夜<br>在心里面哭泣的夜<br>你明白吗<br>只想在你的身边<br>我没有勇气没有力气<br>真的无法离你而去<br>你明白吗<br>只想在你的身边<br>你的身边说爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1229617)<br>我在城市里，纪念你<br>2010-09-13 20:27<br>赞(0) 踩(0) | <div>爱上不该爱的人,总是无奈.没有结果的爱情,最需要勇气.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1319281)<br><br>2010-08-22 19:15<br>赞(0) 踩(0) | <div>喜欢吉他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/894601)<br><br>2010-05-26 22:43<br>赞(0) 踩(0) | <div>简单清新， 淡淡的吉他与鼓声相结合总会给人放松神经的借口。简单的才是经典的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/696469)<br><br>2010-03-04 10:49<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23169)<br><br>2010-01-24 03:01<br>赞(0) 踩(0) | <div>don't be, please don't take it that way.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340970)<br>◕‿◕✿<br>2010-01-21 23:34<br>赞(0) 踩(0) | <div>需要一点勇气，来对你说对不起，他一直在你的心中，我还爱上你~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340970)<br>◕‿◕✿<br>2009-09-10 11:17<br>赞(0) 踩(0) | <div>我没有勇气 没有力气真的无法离你而去你明白吗只想在你的身边你身边 说爱你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340970)<br>◕‿◕✿<br>2009-09-10 11:17<br>赞(0) 踩(0) | <div>我没有勇气 没有力气<br>真的无法离你而去<br>你明白吗<br>只想在你的身边<br>你身边 说爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53594)<br><br>2009-07-07 16:37<br>赞(0) 踩(0) | <div>最温情的痞子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59230)<br><br>2009-06-24 15:39<br>赞(0) 踩(0) | <div>试试连听20边</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100642)<br><br>2009-06-01 15:24<br>赞(1) 踩(0) | <div>阿岳的声音总是有种说不出的打动人的真诚~</div> |

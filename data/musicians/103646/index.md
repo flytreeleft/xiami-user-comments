@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4bec963e226c2b1a88018dbb105d03c7.jpg)<br>妮那 (Nena)](https://i.xiami.com/wangyijie) | **播放数**: 9561610<br>**粉丝数**: 1574<br>**评论数**: 109<br>**地区**: China 中国大陆<br>**风格**: 当代唱作人 Contemporary Singer-Songwriter, 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/4bec963e226c2b1a88018dbb105d03c7.jpg)<br>妮那 (Nena)](https://i.xiami.com/wangyijie) | **地区**: China 中国大陆<br>**风格**: 当代唱作人 Contemporary Singer-Songwriter, 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 9561610<br>**粉丝数**: 1574<br>**评论数**: 109<br> |
 
 ## 档案
 
@@ -55,9 +55,9 @@ her friends》，也正在积极筹备中。<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2019-11-02 19:48<br>赞(0) 踩(0) | <div>好听喜欢爱了</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277957297)<br>有你就好……<br>2019-11-02 19:48<br>赞(0) 踩(0) | <div>好听<br>喜欢<br>爱了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48779939)<br><br>2019-08-05 08:04<br>赞(0) 踩(0) | <div>仨名儿？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288051377)<br><br>2019-03-14 17:01<br>赞(0) 踩(0) | <div>好听，触景生情</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401880082)<br>所有活着的生命都会走向死...<br>2019-03-06 20:08<br>赞(0) 踩(0) | <div>很喜欢你的音乐，加油</div> |
@@ -159,7 +159,7 @@ her friends》，也正在积极筹备中。<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102286070)<br><br>2016-02-04 11:21<br>赞(0) 踩(0) | <div>支持你，希望你能做更多作品。不管怎样永远是你的粉 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1008674)<br>文化搭台经济唱戏<br>2017-12-22 23:45<br>赞(0) 踩(0) | <div>音色很干净！加油</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329599951)<br>呵呵哈哈哈<br>2019-04-26 19:32<br>赞(0) 踩(0) | <div>长相让我有点心动诶 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280317)<br>地中有山，永远<br>2014-11-03 07:26<br>赞(1) 踩(0) | <div>王艺洁很厉害，好声音！为什么不可以走得更远？加油！力挺！<a href="http://www.letv.com/ptv/vplay/21090912.html#vid=21090973" target="_blank" rel="nofollow noreferrer noopener">http://www.letv.com/ptv/vplay/21090912.html#vid=21090973</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2280317)<br>地中有山，永远<br>2014-11-03 07:26<br>赞(1) 踩(0) | <div>王艺洁很厉害，好声音！为什么不可以走得更远？加油！力挺！<br><a href="http://www.letv.com/ptv/vplay/21090912.html#vid=21090973" target="_blank" rel="nofollow noreferrer noopener">http://www.letv.com/ptv/vplay/21090912.html#vid=21090973</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9301514)<br>独立唱作人<br>2014-05-23 21:38<br>赞(0) 踩(0) | <div>重新出发，真是感动...加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10657223)<br><br>2013-02-14 14:22<br>赞(2) 踩(0) | <div>11年的快乐女声让我们认识这位非常有实力的灵魂歌者  这个舞台乃至她的公司实在很不适合她  希望一切会变好的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10657223)<br><br>2013-02-14 14:21<br>赞(0) 踩(0) | <div>王艺洁 拥有直击心灵的天籁之声  祝福你  你要用你那能感化人们的歌声去感动更多的人们</div> |

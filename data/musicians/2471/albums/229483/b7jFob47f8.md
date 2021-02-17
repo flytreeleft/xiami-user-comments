@@ -91,13 +91,13 @@ SP：EMI MUSIC PUBLISHING (S.E.ASIA) LTD.,TAIWAN
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25216465)<br>潜水听歌<br>2019-01-10 16:48<br>赞(0) 踩(0) | <div>前年的钢琴是什么肖邦吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46750891)<br><br>2018-12-28 09:50<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317386624)<br>回忆过去...........<br>2018-05-10 17:40<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334764620)<br><br>2018-05-04 18:35<br>赞(0) 踩(0) | <div>这么好听的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215484886)<br>期待每天与你相遇几分钟，...<br>2018-03-23 17:17<br>赞(3) 踩(0) | <div>Honesty is such a lonely wordEveryone is so untrueHonesty is hardly ever heardAnd mostly what I need from you</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215484886)<br>期待每天与你相遇几分钟，...<br>2018-03-23 17:17<br>赞(3) 踩(0) | <div>Honesty is such a lonely word<br>Everyone is so untrue<br>Honesty is hardly ever heard<br>And mostly what I need from you</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348333998)<br><br>2018-02-07 17:29<br>赞(1) 踩(0) | <div>好听，爱听，希望年纪不会影响你的事业</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203992053)<br>顶着一切热爱生活才是真的...<br>2018-01-31 22:24<br>赞(1) 踩(0) | <div>那年第一次听到这首歌时，被惊艳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116773274)<br> <br>2018-01-29 17:12<br>赞(1) 踩(0) | <div>好喜欢她唱英文歌啊&amp;hellip;每专都有提醒我也要好好学英文 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -138,7 +138,7 @@ SP：EMI MUSIC PUBLISHING (S.E.ASIA) LTD.,TAIWAN
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13061230)<br><br>2013-04-06 12:34<br>赞(0) 踩(0) | <div>我正安静着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12119617)<br>我还没想好要写什么...<br>2013-04-05 17:03<br>赞(3) 踩(0) | <div>听着电台睡觉，无意中听到这首歌，惊醒，真心喜欢张韶涵的声音还有这经典的曲调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1876537)<br>用心聆听<br>2013-02-12 19:32<br>赞(0) 踩(0) | <div>《有形的翅膀》2012年10月12日</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5487745)<br>因为好奇，所以神秘。<br>2013-02-10 21:52<br>赞(2) 踩(0) | <div>单曲循环了很久，一直在找这歌前奏部分钢琴曲的古典音乐，可惜就是没找到。Angela的第四首英文翻唱，娴熟的唱功以及极具爆发力的独特嗓音，相对于原唱而言，别有一番味道。^_^</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5487745)<br>因为好奇，所以神秘。<br>2013-02-10 21:52<br>赞(2) 踩(0) | <div>单曲循环了很久，一直在找这歌前奏部分钢琴曲的古典音乐，可惜就是没找到。<br>Angela的第四首英文翻唱，娴熟的唱功以及极具爆发力的独特嗓音，相对于原唱而言，别有一番味道。^_^</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145156)<br><br>2013-07-27 21:35<br>赞(0) 踩(0) | <div>萧邦的升c小调夜曲</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5487745)<br>因为好奇，所以神秘。<br>2013-07-28 14:52<br>赞(0) 踩(0) | <div><q><b>宅女阿貓。说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5487745)<br>因为好奇，所以神秘。<br>2013-07-28 14:52<br>赞(0) 踩(0) | <div><q><b>宅女阿貓。说：</b></q></div> |
@@ -164,9 +164,9 @@ SP：EMI MUSIC PUBLISHING (S.E.ASIA) LTD.,TAIWAN
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2684532)<br><br>2012-10-26 12:24<br>赞(0) 踩(0) | <div>Trust Me，这一句，只有深刻在说着的心里才值得信耐，说出来一点意义都没有。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5372907)<br>如能忘掉渴望　岁月长　衣...<br>2012-10-25 23:20<br>赞(0) 踩(0) | <div>三年之后又一首能引起共鸣的歌 正因为是翻唱才听得出那份感情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4048257)<br><br>2012-10-25 15:41<br>赞(0) 踩(0) | <div>Honesty is hardly ever heard,such a lonely words^^^</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7737534)<br><br>2012-10-24 13:13<br>赞(0) 踩(0) | <div>Why “Honesty”is such a lonely wordPeople can't be honestBecause they used to be dishonestOr because protecting someone you loveSo you can't be honest Or because you have difficultiesSo you can't be honest</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7737534)<br><br>2012-10-24 13:13<br>赞(0) 踩(0) | <div>Why “Honesty”is such a lonely word<br>People can't be honest<br>Because they used to be dishonest<br>Or because protecting someone you love<br>So you can't be honest Or because you have difficulties<br>So you can't be honest</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8058395)<br><br>2012-10-24 11:44<br>赞(0) 踩(0) | <div>Honesty is hardly ever heard and mostly what I need from you</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10904043)<br><br>2012-10-23 00:53<br>赞(0) 踩(0) | <div>Why “Honesty” is such a lonely word,people can’t be honestbecause they used to be dishonest?Or because protecting someone you loveso you can’t be honest,or because you have difficultiesso you can’t be honest.Angela翻唱得很好听啊！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10904043)<br><br>2012-10-23 00:53<br>赞(0) 踩(0) | <div>Why “Honesty” is such a lonely word,<br>people can’t be honest<br>because they used to be dishonest?<br>Or because protecting someone you love<br>so you can’t be honest,<br>or because you have difficulties<br>so you can’t be honest.<br>Angela翻唱得很好听啊！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2672924)<br>人生大夢一場 葉落知多少<br>2012-10-20 01:46<br>赞(1) 踩(0) | <div>很认真的觉得这张专辑除了名字有点奇怪之外其他都在上乘。青峰写的两首歌都很好听 虽然最喜欢的是Honesty。一直很喜欢Angela的声音 高亢而有力。这次的造型也很好看 景色和人都美得很。下载了整张专辑呢。加油啊小姑娘~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7755773)<br>进入自己的世界。<br>2012-10-19 12:16<br>赞(1) 踩(0) | <div>我特意把原版 billy Joel的找出来听。可是发现张韶涵翻唱更有韵味。 真的好好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2217546)<br><br>2012-10-18 23:35<br>赞(0) 踩(0) | <div>honesty</div> |
@@ -177,12 +177,12 @@ SP：EMI MUSIC PUBLISHING (S.E.ASIA) LTD.,TAIWAN
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/464102)<br><br>2012-10-16 15:29<br>赞(0) 踩(0) | <div>喜歡前面的口白部分</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1944718)<br>面对这个世界是甜美的冒险<br>2012-10-16 08:59<br>赞(0) 踩(0) | <div>翻唱的也很好听~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3932008)<br>Two sunsets<br>2012-10-16 00:53<br>赞(0) 踩(0) | <div>翻唱的真棒 很有质感的一首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1211082)<br> <br>2012-10-15 23:04<br>赞(0) 踩(0) | <div>Honesty is such a lonely wordEveryone is so untrue</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1211082)<br> <br>2012-10-15 23:04<br>赞(0) 踩(0) | <div>Honesty is such a lonely word<br>Everyone is so untrue</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10944337)<br>我还没想好要写什么...<br>2012-10-15 22:35<br>赞(0) 踩(0) | <div>Honesty~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4878672)<br><br>2012-10-15 14:40<br>赞(0) 踩(0) | <div>很期待收到CD後聽最好音質的honesty</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4878672)<br><br>2012-10-15 14:38<br>赞(1) 踩(0) | <div>我真的太喜歡她唱的版本了，忍不住聽了N遍~真希望大家都能發現這首好歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10177534)<br> <br>2012-10-15 09:28<br>赞(0) 踩(0) | <div>好棒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6622259)<br>我还没想好要写什么...<br>2012-10-15 02:23<br>赞(0) 踩(0) | <div>Honesty is such a lonely wordEveryone is so untrue</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6622259)<br>我还没想好要写什么...<br>2012-10-15 02:23<br>赞(0) 踩(0) | <div>Honesty is such a lonely word<br>Everyone is so untrue</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5994632)<br><br>2012-10-14 23:35<br>赞(0) 踩(0) | <div>I don't want some pretty face to tell me pretty lies. All i wan is someoneto believe.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5610275)<br>Dollars_而已.<br>2012-10-14 19:45<br>赞(3) 踩(0) | <div>就是喜欢。多久没有听过这样的声音这样的旋律。真的好喜欢。还有配器钢琴配得真好。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4878672)<br><br>2012-10-15 14:39<br>赞(0) 踩(0) | <div>周杰倫御用編曲林邁可彈的鋼琴，張韶涵即興的英文口白，點睛之筆啊！</div> |

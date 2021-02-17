@@ -73,8 +73,8 @@ I sing i’ll spin the world around
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47701231)<br>单身已两年<br>2019-09-22 13:45<br>赞(0) 踩(0) | <div>这歌这么小众吗？这么多年了，评论怎么这么少</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6688315)<br><br>2016-05-25 19:40<br>赞(2) 踩(0) | <div>陈珊妮是Rammstein的歌迷，演唱会上还唱过Amerika呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15364793)<br><br>2016-01-02 18:49<br>赞(1) 踩(0) | <div>还以为是战车乐队新歌呢</div> |
@@ -92,7 +92,7 @@ I sing i’ll spin the world around
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1569233)<br> <br>2011-10-30 00:12<br>赞(0) 踩(0) | <div>这歌明显是工业金属，极其像战车乐队，呵呵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3602953)<br><br>2011-09-11 11:12<br>赞(0) 踩(0) | <div>陈怡文最近都没有消息了内,真的跟大叔钓鱼去了??</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2617949)<br><br>2011-08-13 23:29<br>赞(0) 踩(0) | <div>两个穿透力的声音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4065805)<br>自娱自乐爱好者<br>2011-07-18 02:45<br>赞(0) 踩(0) | <div>我们唱别人的情歌 只因为自己的都太沉重我们说别人的故事 只因为自己的都太难懂我们只要跟别人一样 就能得到轻微的解脱如果还有一点点热情 我们该不该盲从</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4065805)<br>自娱自乐爱好者<br>2011-07-18 02:45<br>赞(0) 踩(0) | <div>我们唱别人的情歌 只因为自己的都太沉重<br>我们说别人的故事 只因为自己的都太难懂<br>我们只要跟别人一样 就能得到轻微的解脱<br>如果还有一点点热情 我们该不该盲从</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3266949)<br><br>2011-06-22 21:10<br>赞(0) 踩(0) | <div>cool</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2235552)<br><br>2011-06-14 13:04<br>赞(0) 踩(0) | <div>英文版《雙陳記》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3250017)<br><br>2011-03-22 07:12<br>赞(0) 踩(0) | <div>很值得一听的歌！很特别的声音！畅快淋漓！</div> |

@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/cb15fa063ee36ad7e78078da9c0551ab.jpg)<br>刘天阳](https://i.xiami.com/liutianyang) | **播放数**: 1128729<br>**粉丝数**: 233<br>**评论数**: 29<br>**地区**: China 中国大陆<br>**风格**: 当代民谣 Contemporary Folk, 民谣流行 Folk Pop, 校园民谣 Campus Folk<br> |
+| [![](../../images/musicians/cb15fa063ee36ad7e78078da9c0551ab.jpg)<br>刘天阳](https://i.xiami.com/liutianyang) | **地区**: China 中国大陆<br>**风格**: 当代民谣 Contemporary Folk, 民谣流行 Folk Pop, 校园民谣 Campus Folk<br>**播放数**: 1128729<br>**粉丝数**: 233<br>**评论数**: 29<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -19,8 +16,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90185946)<br><br>2021-01-23 11:35<br>赞(0) 踩(0) | <div>在虾米即将关张的最后时光，在一堆歌手一堆歌里，凭直觉点开了，又发现一名宝藏歌手。万物有时，有时遗憾也是一种美。好吧，写到这儿了，留下在虾米的第一条留言，证明我曾经来过这里。孩子加油！虾米再见！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427076004)<br>迎難而上是勇敢,有時知難...<br>2020-11-12 18:33<br>赞(0) 踩(0) | <div>嗓子有種難以言明的吸引力,讓人聽著聽著...就喜歡上你唱的歌啦 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> 棒 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-10-17 23:47<br>赞(1) 踩(0) | <div>41611</div> |

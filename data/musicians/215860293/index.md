@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/fc67609bd0308e15dbb573c76b861c21.jpg)<br>刘森林](https://i.xiami.com/lsl) | **播放数**: 1428838<br>**粉丝数**: 275<br>**评论数**: 14<br>**地区**: China 中国大陆<br>**风格**: 当代节奏布鲁斯 Contemporary R&B, 摇滚 Rock & Roll, 当代民谣 Contemporary Folk, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/fc67609bd0308e15dbb573c76b861c21.jpg)<br>刘森林](https://i.xiami.com/lsl) | **地区**: China 中国大陆<br>**风格**: 当代节奏布鲁斯 Contemporary R&B, 摇滚 Rock & Roll, 当代民谣 Contemporary Folk, 国语流行 Mandarin Pop<br>**播放数**: 1428838<br>**粉丝数**: 275<br>**评论数**: 14<br> |
 
 ## 档案
 
@@ -33,8 +33,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251856363)<br>一條有夢想的鹹魚ㄟ( ▔...<br>2019-04-18 06:33<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> add oil</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342038768)<br>pucikaka don...<br>2019-04-15 23:41<br>赞(0) 踩(0) | <div>真的很不错，加油！支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328657369)<br>风格随心而变、<br>2019-01-23 21:00<br>赞(0) 踩(0) | <div>加油(ง •̀_•́)ง</div> |

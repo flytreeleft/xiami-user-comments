@@ -3,13 +3,10 @@ KENs
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>KENs](https://i.xiami.com/kens) | **播放数**: 5675891<br>**粉丝数**: 403<br>**评论数**: 18<br>**地区**: Japan 日本<br>**风格**: 流行摇滚 Pop Rock, 流行 Pop<br> |
+| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>KENs](https://i.xiami.com/kens) | **地区**: Japan 日本<br>**风格**: 流行摇滚 Pop Rock, 流行 Pop<br>**播放数**: 5675891<br>**粉丝数**: 403<br>**评论数**: 18<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -47,8 +44,8 @@ KENs
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421578063)<br>fox god<br>2020-06-22 10:06<br>赞(0) 踩(0) | <div>⊙&amp;omega;⊙</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443341438)<br><br>2020-06-13 20:18<br>赞(1) 踩(0) | <div>QQW</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443582861)<br><br>2020-06-13 20:16<br>赞(1) 踩(0) | <div>1</div> |

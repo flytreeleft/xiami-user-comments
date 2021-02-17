@@ -12,38 +12,35 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59151482)<br><br>2021-01-25 22:31<br>赞(1) 踩(0) | <div>这是谁推荐给我的来着哦，是他&amp;hellip;</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59151482)<br><br>2021-01-25 22:31<br>赞(1) 踩(0) | <div>这是谁推荐给我的来着<br><br>哦，是他&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442910485)<br>梦<br>2020-08-21 21:30<br>赞(0) 踩(0) | <div>真真可爱 与 真真童真 是一对好朋友</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/433558433)<br><br>2020-06-15 22:29<br>赞(1) 踩(0) | <div>认识一个女孩 一个城市 生日只差一天 聊天很舒服 像春风般温柔</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112092446)<br> <br>2020-06-15 07:07<br>赞(2) 踩(0) | <div>爱是恒久忍耐，又有恩慈；爱是不嫉妒；爱是不自夸，不张狂， 不做害羞的事，不求自己的益处，不轻易发怒，不计算人的恶， 不喜欢不义，只喜欢真理； 凡事包容，凡事相信，凡事盼望，凡事忍耐。 (哥林多前书 13:4-7 和合本)爱是永不止息 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112092446)<br> <br>2020-06-15 07:07<br>赞(2) 踩(0) | <div>爱是恒久忍耐，又有恩慈；爱是不嫉妒；爱是不自夸，不张狂， 不做害羞的事，不求自己的益处，不轻易发怒，不计算人的恶， 不喜欢不义，只喜欢真理； 凡事包容，凡事相信，凡事盼望，凡事忍耐。 (哥林多前书 13:4-7 和合本)<br>爱是永不止息 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241606732)<br><br>2020-05-15 20:39<br>赞(1) 踩(0) | <div>周萍和程文浩，奀妹和黄营长因内战爆发而破灭的浪漫爱情故事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402001484)<br>前尘终为尘<br>2020-03-19 22:56<br>赞(2) 踩(0) | <div>愿做真的猛士 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434156004)<br><br>2019-12-16 07:13<br>赞(1) 踩(0) | <div>听了这首歌十年了，每次听都像精神按摩，非常舒服。希望看到评论的你们也能开心快乐每一天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40152917)<br><br>2019-11-02 11:04<br>赞(2) 踩(0) | <div>这是珍藏多年的小秘密</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292422774)<br><br>2019-09-01 06:41<br>赞(1) 踩(0) | <div>真的好美</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334230474)<br>爱自己，是终身浪漫的开始<br>2019-08-06 23:07<br>赞(3) 踩(0) | <div>献给心灵保持童真与纯洁的成年人～是父母的庇佑，让我如此无忧是儿子的降临与母子的共同成长，让我坚定儿子啊，我希望自己成长为我的父母一样的人，给你幸福生活，谢谢你让我想实现所有的美好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334230474)<br>爱自己，是终身浪漫的开始<br>2019-08-06 23:07<br>赞(3) 踩(0) | <div>献给心灵保持童真与纯洁的成年人～<br>是父母的庇佑，让我如此无忧<br>是儿子的降临与母子的共同成长，让我坚定<br>儿子啊，我希望自己成长为我的父母一样的人，给你幸福生活，谢谢你让我想实现所有的美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188081629)<br><br>2019-06-19 18:12<br>赞(0) 踩(0) | <div>09年开始听，现在19年了，给我们家娃继续听了 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36186480)<br>我还没想好要写什么...<br>2019-02-11 18:22<br>赞(2) 踩(0) | <div>爱你是绚烂的事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402199735)<br><br>2019-01-07 20:12<br>赞(4) 踩(0) | <div>爱若不求回报，是快乐，是付出，是赠予；爱家人，爱朋友，爱情人，爱自然，爱万物，因而绚烂。这首曲子极美。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409763386)<br><br>2018-12-01 20:56<br>赞(4) 踩(0) | <div>五六年级 喜欢何真真的作品 我现在在考大学 我身边一切都变了包括我 还好这首歌没有变 当时十二三岁的我在同学之中不很合群 只有她的纯音相伴 感觉就像一个只有黑白的世界突然被染上了温暖的颜色 我知道遥远的星球上有个小王子守着他的玫瑰 有只等爱的狐狸喜欢小麦的金黄色 色彩枯竭的年岁 她的歌给了我无尽幻想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/614654)<br>立体千年虫<br>2018-12-01 17:13<br>赞(2) 踩(0) | <div>一声叹息</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404638317)<br><br>2018-12-01 05:09<br>赞(3) 踩(0) | <div>我要听一辈子的何真真</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2018-11-28 02:33<br>赞(7) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"><img src="../../../../images/comments/29cf103b88c33e19563095897485c32a.png"><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"><img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"> <img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"> <img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"> <img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2018-11-28 02:33<br>赞(7) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"><br><br><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"><br><br><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"><br><br><img src="../../../../images/comments/29cf103b88c33e19563095897485c32a.png"><br><br><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"><br><br><img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"> <img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"> <img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"> <img src="../../../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402199735)<br><br>2018-11-27 00:08<br>赞(2) 踩(0) | <div>GN</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15159024)<br><br>2018-11-23 06:50<br>赞(2) 踩(0) | <div>想起了大学时候的女朋友 一下子这么多年过去了。我也叫她虾米 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> 想想你了虾米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63745010)<br>随心.随性.随遇.随缘<br>2018-11-19 13:49<br>赞(4) 踩(0) | <div>爱情的美丽，在时光的流逝中，越发显得热情而迷人，多彩而妩媚，令人沉醉~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363107786)<br><br>2018-11-14 18:30<br>赞(3) 踩(0) | <div>早些知道何真真，我会给女儿起名也叫真真 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8777600)<br>无论如何都美好～<br>2018-11-12 20:55<br>赞(4) 踩(0) | <div>2006年我们手牵手走在大槐树下，一条耳机线两人听。2018年我们一家四口，坐在车里，依然听着三颗猫饼干。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408353667)<br><br>2018-11-11 23:36<br>赞(4) 踩(0) | <div>冷酒回味夏寒年</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266026701)<br>冬月雪<br>2018-11-08 11:01<br>赞(5) 踩(0) | <div>拒绝社交大半年了，完全被桎梏在自己的情绪里。这些天，极少有纯粹的欢喜和感动。不想沾惹外界的任何，活在自己的世界，平淡的数着日子一天天跳过。内心时而一片死寂，时而一团光火。音乐总能使人放松、开怀，去追忆那些美好的故事。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266026701)<br>冬月雪<br>2018-11-08 11:01<br>赞(5) 踩(0) | <div>拒绝社交大半年了，完全被桎梏在自己的情绪里。这些天，极少有纯粹的欢喜和感动。<br>不想沾惹外界的任何，活在自己的世界，平淡的数着日子一天天跳过。<br>内心时而一片死寂，时而一团光火。<br>音乐总能使人放松、开怀，去追忆那些美好的故事。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258023151)<br><br>2019-06-27 22:05<br>赞(0) 踩(0) | <div>三月雨 加油(ง •̀_•́)ง</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266026701)<br>冬月雪<br>2019-06-28 12:36<br>赞(0) 踩(0) | <div><q><b>弯酱说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407216290)<br><br>2018-10-28 19:35<br>赞(2) 踩(0) | <div>让我别辜负你的青春，可是我的青春呢</div> |
@@ -109,9 +106,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1922504)<br>碧昂奈，萨浪嘿呦<br>2012-02-05 01:25<br>赞(2) 踩(0) | <div>有点调皮的夜，夏日萤火虫落到荧幕前的样子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1434571)<br><br>2012-02-01 22:21<br>赞(1) 踩(0) | <div>这曲的名字真好：爱是绚烂的事。爱或绚烂，或平淡，依个人之感受。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4255094)<br><br>2012-02-01 22:11<br>赞(1) 踩(0) | <div>柔美</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1704201)<br><br>2011-01-01 18:19<br>赞(1) 踩(0) | <div>太绚烂真不开眼</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1704201)<br><br>2011-01-01 18:19<br>赞(1) 踩(0) | <div>太绚烂<br>真不开眼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105720)<br>Love Game of...<br>2010-10-26 15:57<br>赞(1) 踩(0) | <div>爱既是平淡的，也是绚烂的，它起于平淡，归于平淡..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/871211)<br><br>2010-09-30 18:28<br>赞(1) 踩(0) | <div>美好的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1076405)<br><br>2010-08-21 15:12<br>赞(2) 踩(0) | <div>爱是绚烂的……也是平淡的……他在平淡中绚烂……但是，没有在绚烂中平淡</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/606670)<br>哈！某人！<br>2010-07-02 17:43<br>赞(2) 踩(0) | <div>爱是绚丽的事...可是...它到底有多绚丽...我竟然说了不算...</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339439)<br>老阿姨很聪明什么也没留下...<br>2009-10-27 14:58<br>赞(3) 踩(0) | <div>绚烂的如梦幻一般，怕这样华丽的旋转不真实，我伸手，抓到黑管一串跳动的音符。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1076405)<br><br>2010-08-21 15:12<br>赞(2) 踩(0) | <div>爱是绚烂的……<br>也是平淡的……<br><br>他在平淡中绚烂……<br>但是，没有在绚烂中平淡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/606670)<br>哈！某人！<br>2010-07-02 17:43<br>赞(2) 踩(0) | <div>爱是绚丽的事...<br>可是...<br>它到底有多绚丽...<br>我竟然说了不算...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339439)<br>老阿姨很聪明什么也没留下...<br>2009-10-27 14:58<br>赞(3) 踩(0) | <div>绚烂的如梦幻一般，<br>怕这样华丽的旋转不真实，<br>我伸手，抓到黑管一串跳动的音符。</div> |

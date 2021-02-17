@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9c93c47a36aea7bd2a46514e5b4c6e80.jpg)<br>印良法师](https://i.xiami.com/yinliang) | **播放数**: 541968<br>**粉丝数**: 243<br>**评论数**: 9<br>**地区**: China 中国大陆<br>**风格**: 古典音乐 Classical, 中国风 China-Wave<br> |
+| [![](../../images/musicians/9c93c47a36aea7bd2a46514e5b4c6e80.jpg)<br>印良法师](https://i.xiami.com/yinliang) | **地区**: China 中国大陆<br>**风格**: 古典音乐 Classical, 中国风 China-Wave<br>**播放数**: 541968<br>**粉丝数**: 243<br>**评论数**: 9<br> |
 
 ## 档案
 
@@ -29,8 +29,8 @@ vx动态.搜索“世嘉印良”<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-07 06:04<br>赞(0) 踩(0) | <div>45848</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445141210)<br>平常心是道，态度决定一切...<br>2020-11-22 19:56<br>赞(0) 踩(0) | <div>顶礼师父 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png">阿弥陀佛 <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421688877)<br><br>2020-10-23 21:15<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |

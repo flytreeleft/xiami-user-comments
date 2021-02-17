@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6049b5cfc041f7e46d260b00a844473e.jpg)<br>艾今口琴](https://i.xiami.com/aijin) | **播放数**: 426145<br>**粉丝数**: 190<br>**评论数**: 9<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 流行 Pop, 日本动漫游戏 Japanese ACG<br> |
+| [![](../../images/musicians/6049b5cfc041f7e46d260b00a844473e.jpg)<br>艾今口琴](https://i.xiami.com/aijin) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 流行 Pop, 日本动漫游戏 Japanese ACG<br>**播放数**: 426145<br>**粉丝数**: 190<br>**评论数**: 9<br> |
 
 ## 档案
 
@@ -122,8 +122,8 @@ B站/头条/好看视频：艾今口琴  第三届华夏口琴节半音阶冠军
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347793445)<br>爱玩mc的90后晚期病娇...<br>2020-10-25 16:05<br>赞(1) 踩(0) | <div>有好多东方的【激动(&amp;gt;^&amp;omega;^&amp;lt;)】</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320344079)<br>想你<br>2020-10-23 22:12<br>赞(0) 踩(0) | <div>来首寂静之声 谢谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282637250)<br><br>2020-10-11 17:46<br>赞(1) 踩(0) | <div>都很好听！加油 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |

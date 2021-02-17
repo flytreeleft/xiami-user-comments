@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8262cd45e62a0af5089cdcf6f8d35b52.jpg)<br>马句](https://i.xiami.com/maju) | **播放数**: 937681<br>**粉丝数**: 245<br>**评论数**: 9<br>**地区**: 中国大陆 China<br>**风格**: 闽南语流行 Bân-lâm-gú Pop<br> |
+| [![](../../images/musicians/8262cd45e62a0af5089cdcf6f8d35b52.jpg)<br>马句](https://i.xiami.com/maju) | **地区**: 中国大陆 China<br>**风格**: 闽南语流行 Bân-lâm-gú Pop<br>**播放数**: 937681<br>**粉丝数**: 245<br>**评论数**: 9<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3677774)<br><br>2020-11-26 08:26<br>赞(1) 踩(0) | <div>不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3218637)<br><br>2020-10-10 21:48<br>赞(0) 踩(0) | <div>歌曲很好听，词曲也很美，如果编曲在副歌再有层次些，来个摇滚式吐狗血，就太完美了，这个歌给台湾茄子蛋来编曲，应该大红。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374712285)<br><br>2020-07-14 16:44<br>赞(1) 踩(0) | <div>最近每次打开&amp;hellip;&amp;hellip;都是先从这首开始&amp;hellip;&amp;hellip;循环播放几遍再说</div> |

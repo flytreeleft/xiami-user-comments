@@ -3,7 +3,7 @@ TOMO乐团
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5a17b988ba32327dc55efc83cf55a342.jpg)<br>TOMO乐团](https://i.xiami.com/yuhang) | **播放数**: 8924291<br>**粉丝数**: 238<br>**评论数**: 5<br>**地区**: China 中国大陆<br>**风格**: 当代唱作人 Contemporary Singer-Songwriter, 国语流行 Mandarin Pop, 电子 Electronic<br> |
+| [![](../../images/musicians/5a17b988ba32327dc55efc83cf55a342.jpg)<br>TOMO乐团](https://i.xiami.com/yuhang) | **地区**: China 中国大陆<br>**风格**: 当代唱作人 Contemporary Singer-Songwriter, 国语流行 Mandarin Pop, 电子 Electronic<br>**播放数**: 8924291<br>**粉丝数**: 238<br>**评论数**: 5<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@ TOMO乐团
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345764829)<br>曾经为了你早睡，现在为了...<br>2018-05-26 09:42<br>赞(0) 踩(0) | <div></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97390914)<br><br>2020-06-25 13:55<br>赞(0) 踩(0) | <div>daailo tx</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8891939)<br><br>2018-04-23 14:44<br>赞(0) 踩(0) | <div>发发观光团前来觐见！</div> |

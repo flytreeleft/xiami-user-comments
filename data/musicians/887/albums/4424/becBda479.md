@@ -52,8 +52,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379173234)<br>THX ALL<br>2021-01-08 16:38<br>赞(0) 踩(0) | <div>..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278987749)<br><br>2020-12-03 10:29<br>赞(0) 踩(0) | <div>汪峰真的有才。就是太贪了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427758087)<br><br>2020-11-24 22:59<br>赞(0) 踩(0) | <div>好歌，收藏，来了，走了</div> |
@@ -98,7 +98,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377744971)<br><br>2019-06-09 05:11<br>赞(1) 踩(0) | <div>没有经历生活中的绝望和无助，体会不到这首歌的意境。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344482002)<br><br>2019-06-07 22:41<br>赞(3) 踩(0) | <div>汪峰当年的歌真的个个都是好词好式</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313306941)<br> <br>2019-06-05 22:25<br>赞(3) 踩(0) | <div>借此歌献给打不死的华为！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305687740)<br>活得糊涂容易幸福<br>2019-05-06 16:08<br>赞(4) 踩(0) | <div>哭的时候没人哄，学会坚强；爬的时候没人陪，学会勇敢；烦的时候没人问，学会承受；累的时候没依靠，学会成长。不埋怨，不嘲笑，也不羡慕。珍惜每一刻独处的时光，让自己如夏花般绽放。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305687740)<br>活得糊涂容易幸福<br>2019-05-06 16:08<br>赞(4) 踩(0) | <div>哭的时候没人哄，学会坚强；爬的时候没人陪，学会勇敢；烦的时候没人问，学会承受；累的时候没依靠，学会成长。<br><br>不埋怨，不嘲笑，也不羡慕。珍惜每一刻独处的时光，让自己如夏花般绽放。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328485082)<br><br>2019-05-05 12:51<br>赞(7) 踩(0) | <div>生活有时候真的像在和你开玩笑一样，上个月检查出癌，觉得这世界很不公平。希望自己接下来的运气不会再差，还有那么多事情要我去做。希望20年后的今天，我还在这世上。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358441044)<br>每个人心里应该都住着一个...<br>2020-03-16 23:44<br>赞(0) 踩(0) | <div>兄弟，你还好吗？加油，加油，愿早日康复</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442820950)<br><br>2020-05-14 16:10<br>赞(0) 踩(0) | <div>放心吧，你能坚持二十年，我这个脑星状细胞瘤的还活着呢</div> |
@@ -107,7 +107,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355029706)<br><br>2019-04-30 19:00<br>赞(1) 踩(0) | <div>励志！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369768199)<br><br>2019-04-25 13:32<br>赞(0) 踩(0) | <div>可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423423552)<br><br>2019-04-19 09:49<br>赞(0) 踩(0) | <div>[带墨镜笑]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411270919)<br><br>2019-04-10 23:16<br>赞(0) 踩(0) | <div>安得广厦千万间，大辟天下寒士俱欢颜。此句千古传诵。但下一句知之者甚少，那便是风雨不动，安如山。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411270919)<br><br>2019-04-10 23:16<br>赞(0) 踩(0) | <div>安得广厦千万间，大辟天下寒士俱欢颜。此句千古传诵。<br><br><br><br>但下一句知之者甚少，那便是风雨不动，安如山。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123052826)<br>烂人<br>2019-04-04 18:14<br>赞(0) 踩(0) | <div>汪峰也入了葬爱家了我擦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306729870)<br><br>2019-03-26 18:42<br>赞(2) 踩(0) | <div>看懂一个人，一定是你在意过；看清一个人，一定是你落魄过；看破一个人，一定是你较量过；看透一个人，一定是你付出过；看穿一个人，一定是你受骗过；看淡一个人，一定是你珍惜过；看明一个人，一定是你放弃过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409404997)<br>愿为你化成水怕你把我变成...<br>2019-03-20 09:28<br>赞(2) 踩(0) | <div>一辈子真的好短好短……有多少人说好了要过一辈子，可走着走着就剩下了曾经。又有多少人说好了要做一辈子的朋友，可转身就成为最熟悉的陌生人。有的明明说好明日见，可醒来就是天各一方。</div> |
@@ -155,7 +155,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322813104)<br>黄琦超<br>2018-04-25 09:26<br>赞(0) 踩(0) | <div>厉害了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283909465)<br><br>2018-03-18 10:20<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85399254)<br><br>2018-03-18 08:17<br>赞(0) 踩(0) | <div>布鲁斯味</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348574059)<br>还没能明白，怎样最自在。<br>2018-03-07 12:00<br>赞(2) 踩(0) | <div>有时你自己可能都没察觉在你经历一些事或遇到某个人后你就像换了一种性格悄悄地告别了从前的自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348574059)<br>还没能明白，怎样最自在。<br>2018-03-07 12:00<br>赞(2) 踩(0) | <div>有时你自己可能都没察觉<br>在你经历一些事或遇到某个人后<br>你就像换了一种性格<br>悄悄地告别了从前的自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42774601)<br> 在这里撞过最硬的墙，也...<br>2018-02-12 01:21<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">当年听男友练习这首歌，现在一听这首就条件反射脑补贝斯部分的节奏&amp;hellip;嗯，分手了但是记得不少歌的贝斯部分</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241861093)<br>稳定的爱情一定是建立在现...<br>2018-02-11 16:07<br>赞(1) 踩(0) | <div>祝你成功 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7030010)<br><br>2018-02-06 22:41<br>赞(2) 踩(0) | <div>歌挺好的</div> |
@@ -219,7 +219,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188012222)<br> <br>2017-08-28 17:07<br>赞(0) 踩(0) | <div>他去写钟鼓楼二了。 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206839125)<br><br>2017-07-07 20:56<br>赞(1) 踩(0) | <div>你不知道该如何面对，可你已经无路可退   真现实</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246733510)<br>感觉听歌<br>2017-06-30 20:28<br>赞(2) 踩(0) | <div>很有感觉的一首歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305222555)<br>不在年轻，还想云游四海…...<br>2017-06-26 10:51<br>赞(3) 踩(0) | <div>你不知道该如何面对，可你已经无路可退！投资失败时候，赔光还欠几十万贷款，现在也挨过来了！许多时候无路可退时候才是退路，从做投资到做农业种菜&amp;hellip;&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305222555)<br>不在年轻，还想云游四海…...<br>2017-06-26 10:51<br>赞(3) 踩(0) | <div>你不知道该如何面对，可你已经无路可退！<br>投资失败时候，赔光还欠几十万贷款，现在也挨过来了！<br>许多时候无路可退时候才是退路，从做投资到做农业种菜&amp;hellip;&amp;hellip;</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254677193)<br><br>2017-11-11 12:47<br>赞(0) 踩(0) | <div>对的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290207014)<br>愿做菩萨那朵莲<br>2017-06-24 07:38<br>赞(2) 踩(0) | <div>汪峰的歌词每一点滴都烙印在内心，所有的字里行间无非在诉说我们当下人表面的坚强或说是豁达，而内心恰恰&amp;hellip;&amp;hellip;&amp;hellip;可是，成年以后便是责任</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120296190)<br><br>2017-06-19 12:46<br>赞(13) 踩(0) | <div>《为了让生活继续》是一首摇滚歌曲，恰好地对映衬出歌中汪峰高声呐喊出来的，关于&amp;ldquo;活着&amp;rdquo;的大道理。喜欢这把带着几分狂野的元素的声音，无论是强烈的摇滚、还是竭力高歌时的那份兴奋，点题专辑《怒放的生命》中，汪峰那细致的歌词描写，则显得大气而成熟，一股强而有力的生命体，被汪峰通过音符与文字，诠释至这张专辑里，还有那种行走时的顽强与刚毅的意志。</div> |
@@ -328,7 +328,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29042986)<br><br>2014-01-19 10:21<br>赞(0) 踩(0) | <div>你不知道该如何面对，可你已经无路可退</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23300947)<br><br>2013-12-23 18:56<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28684491)<br><br>2013-11-29 20:54<br>赞(0) 踩(0) | <div>oy</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6417086)<br>这里，只有聆听。<br>2013-11-15 21:00<br>赞(1) 踩(0) | <div><a href="http://www.iqiyi.com/yinyue/20130408/f5e3d2b2b851e50a.html" target="_blank" rel="nofollow noreferrer noopener">http://www.iqiyi.com/yinyue/20130408/f5e3d2b2b851e50a.html</a>喜欢听的 更要听听现场LIVE的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6417086)<br>这里，只有聆听。<br>2013-11-15 21:00<br>赞(1) 踩(0) | <div><a href="http://www.iqiyi.com/yinyue/20130408/f5e3d2b2b851e50a.html" target="_blank" rel="nofollow noreferrer noopener">http://www.iqiyi.com/yinyue/20130408/f5e3d2b2b851e50a.html</a><br>喜欢听的 更要听听现场LIVE的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10046140)<br> <br>2013-11-12 08:59<br>赞(0) 踩(0) | <div>我不知道还如何面对，但我要忍耐到最后，为了让生活继续。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4157216)<br><br>2013-11-07 20:50<br>赞(0) 踩(0) | <div>“嗯，你不觉得还年轻是个好借口吗。。。？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8168178)<br><br>2013-10-25 18:12<br>赞(0) 踩(0) | <div>你不知道该如何面对 可你已经无路可退</div> |
@@ -349,14 +349,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18666812)<br> <br>2013-08-07 12:11<br>赞(1) 踩(0) | <div>好听的调儿！现实的词儿！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18424061)<br><br>2013-08-03 00:27<br>赞(0) 踩(0) | <div>陪我走过一段儿艰难时光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6978840)<br>妳知道想念是什麼顏色嗎<br>2013-07-31 21:47<br>赞(1) 踩(0) | <div>最近痴迷着汪峰的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12977036)<br><br>2013-07-28 22:06<br>赞(0) 踩(0) | <div>你不知道该如何面对 可你已经无路可退你要坚持到最后一刻 为了让生活继续</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12977036)<br><br>2013-07-28 22:06<br>赞(0) 踩(0) | <div>你不知道该如何面对 可你已经无路可退<br>你要坚持到最后一刻 为了让生活继续</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1075342)<br><br>2013-07-22 21:30<br>赞(0) 踩(0) | <div>每当我想爆粗口骂人的时候，这首歌都比较能够舒缓心情。是啊，出现问题解决问题呗～而且还是些小问题，无非就是一些愚蠢又不上心的小错误让你烦恼呗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7102294)<br><br>2013-07-09 09:19<br>赞(0) 踩(0) | <div>每天早上听到这首歌就极度亢奋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8305120)<br><br>2013-07-07 10:52<br>赞(0) 踩(0) | <div>来上一首摇滚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16374576)<br><br>2013-06-25 23:51<br>赞(0) 踩(0) | <div>你不知道该如何面对 可我已无路可退</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14319742)<br><br>2013-05-23 21:18<br>赞(0) 踩(0) | <div>坚持，第4天。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3709501)<br> <br>2013-05-12 08:33<br>赞(1) 踩(0) | <div>可以置身事外吗 可以视而不见吗可以低头不语吗 为了日子好过点可以忍住眼泪吗 可以表达愤怒吗可以告诉我 你真的很孤独吗你不知道该如何面对 可你已经无路可退你要坚持到最后一刻 为了让生活继续</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3709501)<br> <br>2013-05-12 08:26<br>赞(1) 踩(0) | <div>可以置身事外吗 可以视而不见吗可以低头不语吗 为了日子好过点可以忍住眼泪吗 可以表达愤怒吗可以告诉我 你真的很孤独吗你不知道该如何面对 可你已经无路可退你要坚持到最后一刻 为了让生活继续</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3709501)<br> <br>2013-05-12 08:33<br>赞(1) 踩(0) | <div>可以置身事外吗 可以视而不见吗<br><br>可以低头不语吗 为了日子好过点<br><br>可以忍住眼泪吗 可以表达愤怒吗<br><br>可以告诉我 你真的很孤独吗<br><br>你不知道该如何面对 可你已经无路可退<br><br>你要坚持到最后一刻 为了让生活继续</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3709501)<br> <br>2013-05-12 08:26<br>赞(1) 踩(0) | <div>可以置身事外吗 可以视而不见吗<br><br>可以低头不语吗 为了日子好过点<br><br>可以忍住眼泪吗 可以表达愤怒吗<br><br>可以告诉我 你真的很孤独吗<br><br>你不知道该如何面对 可你已经无路可退<br><br>你要坚持到最后一刻 为了让生活继续</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5141924)<br><br>2013-05-10 11:47<br>赞(0) 踩(0) | <div>永远不向CD的世界投降</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11159968)<br><br>2013-05-02 20:30<br>赞(0) 踩(0) | <div>&amp;#039;你不知道该如何面对，可你已经无路可退&amp;#039;，T^T,又想起五星大饭店的令人惋惜的结局了...</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2542047)<br>岁月留痕 胖了一人<br>2013-07-15 15:02<br>赞(0) 踩(0) | <div>是呀 五星大饭店 一度让我神伤了好久···</div> |
@@ -374,7 +374,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1075342)<br><br>2013-01-05 17:58<br>赞(0) 踩(0) | <div>已经到了要分享这首歌的状态了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4179646)<br><br>2012-12-22 12:58<br>赞(0) 踩(0) | <div>Just like its lyrics</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212614)<br>没什么不可能。<br>2012-11-16 17:47<br>赞(0) 踩(0) | <div>你不知道改如何面对，可你已经无路可退。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5402398)<br><br>2012-11-02 10:40<br>赞(1) 踩(0) | <div>你不知道该如何面对/可你已经无路可退/你要坚持到最后一刻/为了让生活继续/你不知道该如何面对/可你已经无路可退/你要忍耐到最后一刻/为了让生活继续/</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5402398)<br><br>2012-11-02 10:40<br>赞(1) 踩(0) | <div>你不知道该如何面对/<br>可你已经无路可退/<br>你要坚持到最后一刻/<br>为了让生活继续/<br>你不知道该如何面对/<br>可你已经无路可退/<br>你要忍耐到最后一刻/<br>为了让生活继续/</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8455429)<br><br>2012-09-11 14:16<br>赞(0) 踩(0) | <div>你要坚持到最后一刻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4387169)<br>我还没想好要写什么...<br>2012-09-05 09:58<br>赞(0) 踩(0) | <div>听了一遍就喜欢上的歌曲！好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8622242)<br>无奈你我牵过手，没绳索。<br>2012-09-03 07:02<br>赞(0) 踩(0) | <div>为了让 生活继续！</div> |
@@ -400,16 +400,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1326590)<br><br>2011-04-08 11:35<br>赞(1) 踩(0) | <div>因为歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1326590)<br><br>2011-04-08 11:32<br>赞(0) 踩(0) | <div>因为歌词</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/853542)<br><br>2011-03-17 22:58<br>赞(0) 踩(0) | <div>泪流满面,直刺心灵的最深处</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2708496)<br><br>2011-02-06 18:55<br>赞(1) 踩(0) | <div>我已经无路可退可是生活还要继续摇滚是头脑的血液继续，必须继续</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2708496)<br><br>2011-02-06 18:55<br>赞(1) 踩(0) | <div>我已经无路可退<br>可是生活还要继续<br>摇滚是头脑的血液<br>继续，必须继续</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1271986)<br><br>2010-09-01 14:20<br>赞(0) 踩(0) | <div>不懂你听了有感受不？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/437774)<br><br>2010-07-24 14:23<br>赞(0) 踩(0) | <div>只是为了生活、生存……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1158198)<br><br>2010-07-11 20:54<br>赞(0) 踩(0) | <div>动感</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/617908)<br>我也可以是触手可及的温暖<br>2010-03-19 17:57<br>赞(0) 踩(0) | <div>为了生活继续</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/617908)<br>我也可以是触手可及的温暖<br>2010-03-19 17:57<br>赞(0) 踩(0) | <div>为了生活<br>继续</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444637)<br><br>2009-11-25 16:52<br>赞(0) 踩(0) | <div>释放！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444637)<br><br>2009-11-25 16:52<br>赞(0) 踩(0) | <div>释放！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444637)<br><br>2009-11-25 16:52<br>赞(0) 踩(0) | <div>释放！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444637)<br><br>2009-11-25 16:52<br>赞(0) 踩(0) | <div>释放！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205510)<br><br>2009-06-14 02:48<br>赞(0) 踩(0) | <div>你要坚持到最后一刻，为了让生活继续</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2009-06-08 19:28<br>赞(0) 踩(0) | <div>是的，没错，我们所做的一切就是为了让生活可以更好的继续。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120424)<br><br>2009-04-19 13:31<br>赞(1) 踩(0) | <div>生活不随人愿情况显而易见不是想得到什么就能得到所以为了让生活继续唯有坚持这种坚持在所有人都不看好的时候显得尤为重要为了让生活继续我们必须无畏尝试也许前面的路无人涉及可你需要第一个走第一个毕竟充满新奇第一个必定披荆斩棘想要第一必有不惧鲜血淋漓的勇气为了让生活继续我们必须懂得放弃也许拥有着别人所谓的艳羡但艳羡不能激起心底的涟漪放弃可能带来恐惧致己于死地也需要努力破釜沉舟方有绝处逢生惊心动魄那是一种豪气为了让生活继续为了让生活更好我愿忍受荆棘鸟的苦楚换取凤凰涅槃般新生生活所感不知所云可笑！可笑！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120424)<br><br>2009-04-19 13:08<br>赞(3) 踩(0) | <div>生活不随人愿情况显而易见不是想得到什么就能得到所以为了让生活继续唯有坚持这种坚持在所有人都不看好的时候显得尤为重要为了让生活继续我们必须无畏尝试也许前面的路无人涉及可你需要第一个走第一个毕竟充满新奇第一个必定披荆斩棘想要第一必有不惧鲜血淋漓的勇气为了让生活继续我们必须懂得放弃也许拥有着别人所谓的艳羡但艳羡不能激起心底的涟漪放弃可能带来恐惧致己于死地也需要努力破釜沉舟方有绝处逢生惊心动魄那是一种豪气为了让生活继续为了让生活更好我愿忍受荆棘鸟的苦楚换取凤凰涅槃般新生生活所感不知所云可笑！可笑！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120424)<br><br>2009-04-19 13:31<br>赞(1) 踩(0) | <div>生活不随人愿<br>情况显而易见<br>不是想得到什么就能得到<br>所以<br>为了让生活继续<br>唯有<br>坚持<br>这种坚持<br>在所有人都不看好的时候<br>显得尤为重要<br><br>为了让生活继续<br>我们必须无畏尝试<br>也许前面的路无人涉及<br>可你需要第一个走<br>第一个毕竟充满新奇<br>第一个必定披荆斩棘<br>想要第一<br>必有不惧鲜血淋漓的勇气<br><br>为了让生活继续<br>我们必须懂得放弃<br>也许拥有着别人所谓的艳羡<br>但艳羡不能激起心底的涟漪<br>放弃可能带来恐惧<br>致己于死地也需要努力<br>破釜沉舟方有绝处逢生<br>惊心动魄那是一种豪气<br><br>为了让生活继续<br>为了让生活更好<br>我愿忍受荆棘鸟的苦楚<br>换取凤凰涅槃般新生<br><br>生活所感<br>不知所云<br>可笑！可笑！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120424)<br><br>2009-04-19 13:08<br>赞(3) 踩(0) | <div>生活不随人愿<br>情况显而易见<br>不是想得到什么就能得到<br>所以<br>为了让生活继续<br>唯有<br>坚持<br>这种坚持<br>在所有人都不看好的时候<br>显得尤为重要<br><br>为了让生活继续<br>我们必须无畏尝试<br>也许前面的路无人涉及<br>可你需要第一个走<br>第一个毕竟充满新奇<br>第一个必定披荆斩棘<br>想要第一<br>必有不惧鲜血淋漓的勇气<br><br>为了让生活继续<br>我们必须懂得放弃<br>也许拥有着别人所谓的艳羡<br>但艳羡不能激起心底的涟漪<br>放弃可能带来恐惧<br>致己于死地也需要努力<br>破釜沉舟方有绝处逢生<br>惊心动魄那是一种豪气<br><br>为了让生活继续<br>为了让生活更好<br>我愿忍受荆棘鸟的苦楚<br>换取凤凰涅槃般新生<br><br>生活所感<br>不知所云<br>可笑！可笑！</div> |

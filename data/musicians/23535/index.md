@@ -3,7 +3,7 @@ Cara Dillon
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/05979114aafac97463af3253781cd3a8.jpg)<br>Cara Dillon](https://i.xiami.com/caradillon) | **播放数**: 28869748<br>**粉丝数**: 32245<br>**评论数**: 1275<br>**地区**: Ireland 爱尔兰<br>**风格**: 民谣流行 Folk Pop, 凯尔特民谣 Celtic Folk, 爱尔兰民谣 Irish Folk, 当代民谣 Contemporary Folk<br> |
+| [![](../../images/musicians/05979114aafac97463af3253781cd3a8.jpg)<br>Cara Dillon](https://i.xiami.com/caradillon) | **地区**: Ireland 爱尔兰<br>**风格**: 民谣流行 Folk Pop, 凯尔特民谣 Celtic Folk, 爱尔兰民谣 Irish Folk, 当代民谣 Contemporary Folk<br>**播放数**: 28869748<br>**粉丝数**: 32245<br>**评论数**: 1275<br> |
 
 ## 档案
 
@@ -39,8 +39,8 @@ Cara Dillon与中国乐迷的一年之约<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441560822)<br><br>2020-03-31 14:38<br>赞(1) 踩(0) | <div>很想去看一次她的演唱会</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53718156)<br>盲目平淡喜欢一滴点波澜<br>2020-01-02 17:41<br>赞(0) 踩(0) | <div>啥时候来中国啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400083522)<br><br>2019-12-06 18:27<br>赞(0) 踩(0) | <div>什么时候还会再来？</div> |
@@ -81,14 +81,14 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346101962)<br><br>2018-01-27 02:15<br>赞(0) 踩(0) | <div>喜欢这姑娘的听众，估计你们也会爱上Juliw Fowlis。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53718156)<br>盲目平淡喜欢一滴点波澜<br>2018-01-14 01:08<br>赞(0) 踩(0) | <div>上帝亲吻过的声音！ <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335545323)<br><br>2017-12-04 19:57<br>赞(0) 踩(0) | <div>国考路上，不小心收藏了Cara 两首歌，谢谢 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333004838)<br><br>2017-11-12 23:18<br>赞(1) 踩(0) | <div>15年了，呵呵又听到这首歌。 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png">时间真是一个奇妙的东西，下一个十年又会怎样真是期待。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333004838)<br><br>2017-11-12 23:18<br>赞(1) 踩(0) | <div>15年了，呵呵又听到这首歌。 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"><br>时间真是一个奇妙的东西，下一个十年又会怎样真是期待。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5831503)<br>暂无签名~<br>2017-10-30 10:15<br>赞(0) 踩(0) | <div>她要来中国了 Craigie Hill 真是把我听哭了 那时候我还是个多愁善感的少年诶 只是已经厌倦了去北京看演出了 广州见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5831503)<br>暂无签名~<br>2017-10-30 10:15<br>赞(2) 踩(0) | <div>她要来中国了 Craigie Hill 真是把我听哭了 那时候我还是个多愁善感的少年诶 只是已经厌倦了去北京看演出了 广州见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1003407)<br><br>2017-10-30 10:14<br>赞(1) 踩(0) | <div>听了5年的歌！！！！！记得当年整个年级去井冈山的时候，山里美妙的空气和她的歌声，让我一辈子也忘不了那种美好~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1430876)<br>我就不靠谱和爱折腾<br>2017-10-30 10:02<br>赞(4) 踩(0) | <div>Cara Dillon冷酷却富有感染力的声音包含着她对家乡的热情和对国家的热爱。Cara Dillon有着极少数人才有的美妙嗓音。她天生的性格拥有罕见的让人无法抗拒的魅力，她能够把宏大的故事融入歌曲当中，摄人心魄，她那包罗万象的品质跨越了国家、文化、甚至是语言的界限。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/485638)<br><br>2017-10-28 00:32<br>赞(3) 踩(0) | <div>好几个乐迷说不敢相信cara居然来中国演出。一位从辽宁歌迷专程来北京看演出，凌晨4点就要登上回去的火车。有兴趣的歌迷应该去现场感受一下凯尔特音乐的魔力。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2017-10-28 00:32<br>赞(11) 踩(0) | <div>爱尔兰民谣歌手Cara Dillon 2013年12月中国巡演12月12日，西安音乐厅 ，12月13日：北京 麻雀瓦舍 ，12月14日：上海 MAOlivehouse ，12月15日：广州 TU凸空间 。Cara Dillon - Live@Mako Livehouse,Beijing 20131213  <a href="http://www.tudou.com/programs/view/B_rxbO7_7sE/" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/B_rxbO7_7sE/</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2017-10-28 00:32<br>赞(3) 踩(0) | <div>爱尔兰民谣歌手Cara Dillon 2013年12月中国巡演12月12日，西安音乐厅 ，12月13日：北京 麻雀瓦舍 ，12月14日：上海 MAOlivehouse ，12月15日：广州 TU凸空间 。购票网址 <a href="http://e.mosh.cn/21270" target="_blank" rel="nofollow noreferrer noopener">http://e.mosh.cn/21270</a> 豆瓣同城活动<a href="http://www.douban.com/event/19183379/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/19183379/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2017-10-28 00:32<br>赞(11) 踩(0) | <div>爱尔兰民谣歌手Cara Dillon 2013年12月中国巡演<br>12月12日，西安音乐厅 ，12月13日：北京 麻雀瓦舍 ，12月14日：上海 MAOlivehouse ，12月15日：广州 TU凸空间 。<br>Cara Dillon - Live@Mako Livehouse,Beijing 20131213  <a href="http://www.tudou.com/programs/view/B_rxbO7_7sE/" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/B_rxbO7_7sE/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2017-10-28 00:32<br>赞(3) 踩(0) | <div>爱尔兰民谣歌手Cara Dillon 2013年12月中国巡演<br>12月12日，西安音乐厅 ，12月13日：北京 麻雀瓦舍 ，12月14日：上海 MAOlivehouse ，12月15日：广州 TU凸空间 。购票网址 <a href="http://e.mosh.cn/21270" target="_blank" rel="nofollow noreferrer noopener">http://e.mosh.cn/21270</a> 豆瓣同城活动<a href="http://www.douban.com/event/19183379/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/19183379/</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/567221)<br><br>2017-10-28 00:23<br>赞(1) 踩(0) | <div>当年她的一首blue mountain river 简直让我痴迷，曾经以为她很遥远，没有想到她这么近</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1342581)<br><br>2017-10-28 00:21<br>赞(2) 踩(0) | <div>爱尔兰莺歌天使·Cara Dillon(卡拉迪伦)...她用冷酷的线条传播温暖...用简单的黑色编织一幅幅五彩缤纷的梦境...她用歌声倾诉她对她的国家,她的民族,她的家人...最本真的爱!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20565415)<br>a creep,a we...<br>2017-10-28 00:05<br>赞(2) 踩(0) | <div>去了大华的现场，人美歌声赞，声音清澈温暖，团队成员都亲切随和，四人的签名都有了，哈哈，如果以后还来中国，我还要去去去。</div> |
@@ -107,7 +107,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228428006)<br><br>2017-10-02 19:02<br>赞(1) 踩(0) | <div>10月2号深圳飘过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14019177)<br>家住欢城<br>2017-09-29 12:12<br>赞(1) 踩(0) | <div>广州为什么还不能买票？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15849880)<br>我还没想好要写什么...<br>2017-09-28 18:40<br>赞(1) 踩(0) | <div>上海10.5号看</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73210420)<br>满足坏人一个<br>2017-09-27 21:58<br>赞(2) 踩(0) | <div>12.30大连680三排二号</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73210420)<br>满足坏人一个<br>2017-09-27 21:58<br>赞(2) 踩(0) | <div>12.30大连680<br>三排二号</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24968228)<br><br>2017-09-26 22:55<br>赞(1) 踩(0) | <div>10月1号系番禺的图乐剧场?边度黎噶！?本地人都唔知&amp;rarr;_&amp;rarr;广州场期待中</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274913113)<br><br>2017-09-13 08:21<br>赞(1) 踩(0) | <div>妈蛋，老板只给我们放三天，四号去不了北京了，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16206377)<br>rabbit_❀moon<br>2017-09-11 01:22<br>赞(4) 踩(0) | <div>广州280已购坐等，前几年总是一直错过这次终于赶上了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -155,7 +155,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10279073)<br>永不停止地奔跑。<br>2016-10-09 01:14<br>赞(1) 踩(0) | <div>广州10.15的有吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1648224)<br>我还没想好要写什么...<br>2016-10-11 12:14<br>赞(0) 踩(0) | <div>有！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/874202)<br>爱是这世界唯一的解药<br>2016-09-19 12:03<br>赞(1) 踩(0) | <div>(*@ο@*) 哇～，演出了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47258099)<br><br>2016-09-19 12:00<br>赞(56) 踩(0) | <div>CARA&amp;#039;S CHRISTMAS ALBUMIf you&amp;#039;ve ever longed for an atmospheric and cinematic soundtrack to accompany the legend and faith abound in the Christmas story then look no further. We&amp;#039;re thrilled to announce Cara will be releasing her very first Christmas album in late November 2016.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47258099)<br><br>2016-09-19 12:00<br>赞(56) 踩(0) | <div>CARA&amp;#039;S CHRISTMAS ALBUM<br><br>If you&amp;#039;ve ever longed for an atmospheric and cinematic soundtrack to accompany the legend and faith abound in the Christmas story then look no further. We&amp;#039;re thrilled to announce Cara will be releasing her very first Christmas album in late November 2016.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231487244)<br><br>2019-12-01 08:51<br>赞(0) 踩(0) | <div>你的声音犹如天籁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30074304)<br>寄蜉蝣于天地，渺沧海之一...<br>2016-09-15 19:49<br>赞(1) 踩(0) | <div><img src="../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/606760)<br>魂牵一线<br>2016-09-13 23:34<br>赞(1) 踩(0) | <div>听</div> |
@@ -196,7 +196,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9065076)<br>我还没想好要写什么...<br>2016-02-13 00:52<br>赞(0) 踩(0) | <div>哈哈，批 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2821733)<br>懒惰不会使人一下跌倒<br>2017-09-28 03:51<br>赞(0) 踩(0) | <div>歌听不到一起～ <img src="../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1276949)<br><br>2015-09-25 10:27<br>赞(0) 踩(0) | <div>Cara Dillon(卡拉·迪伦）</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-09-17 11:02<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]]]]]]]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8475225)<br><br>2015-09-17 11:02<br>赞(0) 踩(0) | <div>[[[[[[[[[[[[oooooOooooo]]]]]]]<br>]]]]]]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59561020)<br><br>2015-08-31 13:14<br>赞(0) 踩(0) | <div>声音真美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50444101)<br>音乐穷三代， 摇滚毁一生...<br>2015-08-23 22:21<br>赞(0) 踩(0) | <div><img src="../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png">爱尔兰流行民谣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41107018)<br><br>2015-08-20 16:25<br>赞(0) 踩(0) | <div>就是因为好听</div> |
@@ -219,7 +219,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11859453)<br><br>2015-05-26 21:12<br>赞(1) 踩(0) | <div>虾米好强大，竟然入驻了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29197411)<br>我还没想好要写什么...<br>2015-05-24 20:40<br>赞(0) 踩(0) | <div>无感</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8402406)<br><br>2015-05-13 12:37<br>赞(0) 踩(0) | <div>NICE</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12191049)<br>假装很酷 反正不会回复的<br>2015-05-13 10:31<br>赞(1) 踩(0) | <div>编曲好适合做欧美古装文艺片的OST啊啊人声很好，就是听久了会觉得腻</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12191049)<br>假装很酷 反正不会回复的<br>2015-05-13 10:31<br>赞(1) 踩(0) | <div>编曲好适合做欧美古装文艺片的OST啊啊<br><br>人声很好，就是听久了会觉得腻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48973824)<br><br>2015-05-07 14:20<br>赞(0) 踩(0) | <div>edge</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46220775)<br>买水泥找齐彬<br>2015-04-17 22:08<br>赞(0) 踩(0) | <div>含糖量太高，爆表了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42208968)<br><br>2015-04-12 21:30<br>赞(1) 踩(0) | <div>迷人清澈的声音，像森林里一抹阳光，清新感，赞赞的！</div> |
@@ -240,8 +240,8 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46259988)<br>永遠の噓をついてくれ<br>2015-03-15 00:21<br>赞(0) 踩(0) | <div><q><b>嚣落说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257432)<br>偷走你的灵魂！<br>2015-03-20 21:44<br>赞(0) 踩(0) | <div><q><b>嚣落说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6462936)<br><br>2015-03-23 10:29<br>赞(0) 踩(0) | <div><q><b>耳机坏了说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141580)<br>喜欢new age,世界...<br>2015-03-14 15:38<br>赞(3) 踩(0) | <div>刚刚和Cara聊天和合影啦 长得非常年轻啊！音乐的力量~她的声音非常独特，亦如爱尔兰西北部的石岸，更如那里濒临大西洋的无垠悬崖，美得触不可及，更空灵的高不可攀。在爱尔兰的那几年是我最美好的回忆，当初去是为了爱尔兰的音乐，离去最不舍的也是爱尔兰的凯尔特音乐。Cara和其他爱尔兰女孩一样，有着黑色的头发黑色的眼睛和蓝色的声线。如果有机会，会回去在Cara的老家北爱听她的回归演唱会的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419006)<br>Darkness my ...<br>2015-03-14 15:21<br>赞(0) 踩(0) | <div>昨晚去听了演唱会，声音一如CD中那般清澈，返场时唱了Craigie Hill。结束后买了张签售的同名专辑，然后合了张影，还被拉进了某个微信群，很是happy~~~帝都的魅力大概就在于，即便我周围没有一个人知道的歌手，到了这儿还是能开一场挤满粉丝的演唱会。ps:回家一数钱包，小半月助研费没了......哈哈，其实我更想买到蛤蛤和局座的签售书</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141580)<br>喜欢new age,世界...<br>2015-03-14 15:38<br>赞(3) 踩(0) | <div>刚刚和Cara聊天和合影啦 长得非常年轻啊！音乐的力量~<br>她的声音非常独特，亦如爱尔兰西北部的石岸，更如那里濒临大西洋的无垠悬崖，美得触不可及，更空灵的高不可攀。在爱尔兰的那几年是我最美好的回忆，当初去是为了爱尔兰的音乐，离去最不舍的也是爱尔兰的凯尔特音乐。<br>Cara和其他爱尔兰女孩一样，有着黑色的头发黑色的眼睛和蓝色的声线。如果有机会，会回去在Cara的老家北爱听她的回归演唱会的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8419006)<br>Darkness my ...<br>2015-03-14 15:21<br>赞(0) 踩(0) | <div>昨晚去听了演唱会，声音一如CD中那般清澈，返场时唱了Craigie Hill。结束后买了张签售的同名专辑，然后合了张影，还被拉进了某个微信群，很是happy~~~<br>帝都的魅力大概就在于，即便我周围没有一个人知道的歌手，到了这儿还是能开一场挤满粉丝的演唱会。<br>ps:回家一数钱包，小半月助研费没了......哈哈，其实我更想买到蛤蛤和局座的签售书</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48101407)<br><br>2015-03-17 18:32<br>赞(0) 踩(0) | <div>武汉也是一样，拒绝千篇一律的流行歌曲，在民谣摇滚独立爵士中寻找更多的音乐可能性</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6462936)<br><br>2015-03-14 12:57<br>赞(0) 踩(0) | <div>上海站有同去的么~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15313079)<br><br>2015-03-13 23:41<br>赞(0) 踩(0) | <div>没有标签，就是喜欢</div> |
@@ -286,7 +286,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357317769)<br><br>2020-05-05 00:45<br>赞(0) 踩(0) | <div>虽然听不懂歌词，但就是非常喜欢你的歌声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3442631)<br>你是我的光。<br>2015-02-24 14:41<br>赞(2) 踩(0) | <div>她终于要来武汉演出了，生命里的不期而遇，我因为她的到来激动了一个下午，好像期待了十年的感觉。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16745497)<br>我还没想好要写什么...<br>2015-02-23 12:15<br>赞(1) 踩(0) | <div>入驻虾米，好评!!!!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-02-20 06:02<br>赞(0) 踩(0) | <div>看来虾米是越来越强大了7742175，,20496,1041</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-02-20 06:02<br>赞(0) 踩(0) | <div>看来虾米是越来越强大了<br>7742175，,20496,1041</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8811330)<br>竟然被你找到了<br>2015-02-19 16:18<br>赞(1) 踩(0) | <div>小酒馆求约</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2857420)<br>昨天晚上我梦见你<br>2015-02-19 10:49<br>赞(2) 踩(0) | <div>女神你好！！！！！！从初中的时候就为你倾倒咯！！！！❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/919960)<br>再見了 蝦米<br>2015-02-17 03:36<br>赞(0) 踩(0) | <div>OH ???!</div> |
@@ -311,13 +311,13 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/417357)<br>庄生晓梦<br>2015-02-16 17:19<br>赞(0) 踩(0) | <div>所以说 只要有巡演 虾米就会拉过来咩  超激动，欢迎入驻~~~·</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5822580)<br>Hard work pa...<br>2015-02-16 16:54<br>赞(0) 踩(0) | <div>我来留一脚，话说310在成都诶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2659823)<br>人間發電所<br>2015-02-16 16:32<br>赞(0) 踩(0) | <div>虾米神了！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2015-02-16 16:28<br>赞(2) 踩(0) | <div>爱尔兰国宝级民谣歌手Cara Dillon 全新专辑《A Thousand Hearts》2015中国巡演路线：3.10 成都 小酒馆【芳沁店】3.11 广州 Tu凸空间3.13 北京 糖果三层3.14 上海 浅水湾文化艺术中心3.15 西安 大华·1935小剧场集群玖剧场3.16 武汉 VOX Live House详情：<a href="http://www.douban.com/event/21827421/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21827421/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2015-02-16 16:28<br>赞(2) 踩(0) | <div>爱尔兰国宝级民谣歌手Cara Dillon 全新专辑《A Thousand Hearts》2015中国巡演路线：<br><br>3.10 成都 小酒馆【芳沁店】<br>3.11 广州 Tu凸空间<br>3.13 北京 糖果三层<br>3.14 上海 浅水湾文化艺术中心<br>3.15 西安 大华·1935小剧场集群玖剧场<br>3.16 武汉 VOX Live House<br><br>详情：<a href="http://www.douban.com/event/21827421/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21827421/</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124265)<br>我可能听了假歌。<br>2015-02-16 16:20<br>赞(0) 踩(0) | <div>这么厉害，成虾米音乐人了！！！感谢虾米，鼓掌鼓掌、</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7187271)<br>Invoke(this)...<br>2015-02-16 16:09<br>赞(0) 踩(0) | <div>= =！入驻啦？【虾米有点厉害啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7187271)<br>Invoke(this)...<br>2015-02-16 16:09<br>赞(0) 踩(0) | <div>= =！<br>入驻啦？【虾米有点厉害啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6594496)<br><br>2015-02-16 16:04<br>赞(0) 踩(0) | <div>ao</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8402406)<br><br>2015-02-16 13:37<br>赞(0) 踩(0) | <div>NICE</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339625)<br> <br>2015-02-14 15:49<br>赞(0) 踩(0) | <div>白色情人节魔都见(*^_^*)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33841656)<br><br>2015-02-12 14:36<br>赞(8) 踩(0) | <div>爱尔兰国宝级民谣歌手Cara Dillon 全新专辑《A Thousand Hearts》2015中国巡演路线：3.10 成都 小酒馆【芳沁店】3.11 广州 Tu凸空间3.13 北京 糖果三层3.14 上海 浅水湾文化艺术中心3.15 西安 大华·1935小剧场集群玖剧场3.16 武汉 VOX Live House详情：<a href="http://www.douban.com/event/21827421/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21827421/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33841656)<br><br>2015-02-12 14:36<br>赞(8) 踩(0) | <div>爱尔兰国宝级民谣歌手Cara Dillon 全新专辑《A Thousand Hearts》2015中国巡演路线：<br><br>3.10 成都 小酒馆【芳沁店】<br>3.11 广州 Tu凸空间<br>3.13 北京 糖果三层<br>3.14 上海 浅水湾文化艺术中心<br>3.15 西安 大华·1935小剧场集群玖剧场<br>3.16 武汉 VOX Live House<br><br>详情：<a href="http://www.douban.com/event/21827421/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21827421/</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13803138)<br>只有在我们不需要别人的赞...<br>2015-01-30 19:41<br>赞(0) 踩(0) | <div>我买到3月14号，在上海的票了。哈哈哈 ！！！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7656324)<br><br>2015-02-04 00:03<br>赞(0) 踩(0) | <div>怎么购买？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13803138)<br>只有在我们不需要别人的赞...<br>2015-02-06 20:11<br>赞(0) 踩(0) | <div><q><b>蜕化之躯说：</b></q></div> |
@@ -338,14 +338,14 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5037821)<br> <br>2014-12-06 22:51<br>赞(0) 踩(0) | <div>还是少听为好，越听越上瘾，快不行了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3939040)<br>Radical Drea...<br>2014-12-01 20:01<br>赞(0) 踩(0) | <div>毒药！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9489222)<br><br>2014-11-30 17:44<br>赞(0) 踩(0) | <div>黑旗里的结束曲the parting glass配上爱德华传奇的一生和最后尘埃落定的沧桑和淡淡的伤感，真是绝了。。无法说出的悲伤。尼玛玩个游戏都想哭，育碧真是。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13327353)<br>唯爱与妹子及音乐不可辜负<br>2014-11-30 13:22<br>赞(0) 踩(0) | <div>卿生我未生，我生卿已老 卿恨我生迟，我恨卿生早卿生我未生，我生卿已老 恨不生同时，日日与卿好我生卿未生，卿生我已老 我离卿天涯，卿隔我海角我生卿未生，卿生我已老 化蝶去寻花，夜夜栖芳草</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13327353)<br>唯爱与妹子及音乐不可辜负<br>2014-11-30 13:22<br>赞(0) 踩(0) | <div>卿生我未生，我生卿已老 卿恨我生迟，我恨卿生早<br>卿生我未生，我生卿已老 恨不生同时，日日与卿好<br>我生卿未生，卿生我已老 我离卿天涯，卿隔我海角<br>我生卿未生，卿生我已老 化蝶去寻花，夜夜栖芳草</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9143170)<br><br>2014-11-26 20:42<br>赞(0) 踩(0) | <div>卡拉是北爱的，不是爱尔兰的，个人简介有误啊。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7994074)<br>中二病，只有爱才能医治。<br>2014-11-26 14:22<br>赞(0) 踩(0) | <div>千万可别下架啊。。。最近好多歌手的专辑都被删了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36053254)<br><br>2014-11-21 20:24<br>赞(0) 踩(0) | <div>清澈透亮，温柔悠远。在她的歌声里，能听到自然和人心。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4816476)<br>暂无签名~<br>2014-10-29 15:07<br>赞(0) 踩(0) | <div>超级美妙的女声。清澈甜美。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11207876)<br><br>2014-10-25 21:35<br>赞(0) 踩(0) | <div>真是厉害的女声  =w=</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32650615)<br>yuan<br>2014-10-25 11:54<br>赞(0) 踩(0) | <div>哇哦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6958453)<br><br>2014-10-03 20:56<br>赞(0) 踩(0) | <div>An eye for an eyeThat was all that filled their mindsAnd another eye for another eyeTill everyone was blindI wonder just how many warsAre fought between good friends这话说的真好。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6958453)<br><br>2014-10-03 20:56<br>赞(0) 踩(0) | <div>An eye for an eye<br>That was all that filled their minds<br>And another eye for another eye<br>Till everyone was blind<br>I wonder just how many wars<br>Are fought between good friends<br>这话说的真好。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9489222)<br><br>2014-11-30 17:42<br>赞(0) 踩(0) | <div>哪首歌的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6958453)<br><br>2014-12-02 15:29<br>赞(0) 踩(0) | <div><q><b>安世珍说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6406413)<br>Twisted<br>2014-09-26 12:28<br>赞(0) 踩(0) | <div>居然要来中国！</div> |
@@ -376,12 +376,12 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40188074)<br><br>2014-08-20 15:08<br>赞(0) 踩(0) | <div>还是因为尺渡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9080939)<br>不为无益之事，何遣有涯之...<br>2014-08-17 07:17<br>赞(0) 踩(0) | <div>10.19武汉VOX现场</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40056147)<br>期待<br>2014-08-16 14:58<br>赞(0) 踩(0) | <div>民谣,爱尔兰,空灵,Cara Dillon,</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3038371)<br>生命是一场神经兮兮的旅程<br>2014-08-14 08:05<br>赞(0) 踩(0) | <div>这首早期在Warners时的作品，<a href="http://www.xiami.com/song/1822858?spm=a1z1s.6659509.0.0.6eKq9W" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1822858?spm=a1z1s.6659509.0.0.6eKq9W</a>非常好听，mike oldfield的作品。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3038371)<br>生命是一场神经兮兮的旅程<br>2014-08-14 08:05<br>赞(0) 踩(0) | <div>这首早期在Warners时的作品，<a href="http://www.xiami.com/song/1822858?spm=a1z1s.6659509.0.0.6eKq9W" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1822858?spm=a1z1s.6659509.0.0.6eKq9W</a><br>非常好听，mike oldfield的作品。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32119270)<br>音乐，我的第二生命<br>2014-07-24 18:56<br>赞(0) 踩(0) | <div>哇哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12858453)<br>今天开始我会认真活<br>2014-07-13 15:37<br>赞(0) 踩(0) | <div>人美，声音也美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7581963)<br><br>2014-07-10 09:54<br>赞(0) 踩(0) | <div>hao</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305651)<br>攒钱买碟的路遥遥无期<br>2014-07-04 17:17<br>赞(0) 踩(0) | <div>真要来！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4706292)<br>暂无签名~<br>2014-06-30 10:41<br>赞(12) 踩(0) | <div>█Cara Dillon 2014年10月中国巡演█10.17上海 <a href="http://www.douban.com/event/21839717/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21839717/</a>10.18 北京 <a href="http://www.douban.com/event/21839807/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21839807/</a>10.19武汉 <a href="http://www.douban.com/event/21839965/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21839965/</a>10.20广州 <a href="http://www.douban.com/event/21840030/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21840030/</a>10.21深圳 <a href="http://www.douban.com/event/21840170/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21840170/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4706292)<br>暂无签名~<br>2014-06-30 10:41<br>赞(12) 踩(0) | <div>█Cara Dillon 2014年10月中国巡演█<br><br>10.17上海 <a href="http://www.douban.com/event/21839717/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21839717/</a><br>10.18 北京 <a href="http://www.douban.com/event/21839807/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21839807/</a><br>10.19武汉 <a href="http://www.douban.com/event/21839965/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21839965/</a><br>10.20广州 <a href="http://www.douban.com/event/21840030/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21840030/</a><br>10.21深圳 <a href="http://www.douban.com/event/21840170/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/21840170/</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3500003)<br>你是浪子，别泊岸。<br>2014-07-07 11:27<br>赞(0) 踩(0) | <div>赞</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2204859)<br><br>2014-07-10 15:35<br>赞(0) 踩(0) | <div>( ⊙o⊙ )哇，真的诶！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4260197)<br>nice to hear...<br>2014-07-20 00:04<br>赞(0) 踩(0) | <div>god 真的嘛！</div> |
@@ -401,7 +401,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3510038)<br>海天之恋<br>2014-05-18 10:04<br>赞(0) 踩(0) | <div>卧槽 头像眼袋好严重！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2393790)<br>一只少女<br>2014-05-06 11:04<br>赞(0) 踩(0) | <div>被声音萌化了啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4774164)<br>大虾仁<br>2014-05-05 13:42<br>赞(0) 踩(0) | <div>Bonny Bonny</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4835849)<br>芙蓉江上芙蓉花。<br>2014-05-04 00:48<br>赞(1) 踩(0) | <div>我喜歡她給我帶來的美好回憶，包括那些日子走過的路。她的聲音太能攝人魂魄，沉迷其中不自知。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4835849)<br>芙蓉江上芙蓉花。<br>2014-05-04 00:48<br>赞(1) 踩(0) | <div>我喜歡她給我帶來的美好回憶，包括那些日子走過的路。<br>她的聲音太能攝人魂魄，沉迷其中不自知。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8511698)<br><br>2014-05-01 22:18<br>赞(0) 踩(0) | <div>天籁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30170917)<br>我还没想好要写什么...<br>2014-04-29 13:25<br>赞(1) 踩(0) | <div>cara之音，若丝，若玄，若沌，空灵得如同源自宇宙的深处，又温暖得如同源自自己的内心……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10478953)<br><br>2014-04-28 14:02<br>赞(0) 踩(0) | <div>高中时的大爱！那时心里还是充满幻想的孩子！</div> |
@@ -424,7 +424,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3256886)<br><br>2014-03-12 17:08<br>赞(0) 踩(0) | <div>就是这么好听~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10821885)<br>rsvp<br>2014-03-12 09:43<br>赞(0) 踩(0) | <div>民族的世界的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-03-05 12:30<br>赞(0) 踩(0) | <div>只有我一个人觉得她的声音有点像杨幂么。。。。好单薄_(:зゝ∠)_</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22230922)<br><br>2014-03-07 15:44<br>赞(0) 踩(0) | <div>她的vocal一点都不弱，甚至可以称为有爆发力。可以看看她的black is the color和where are you的现场。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22230922)<br><br>2014-03-07 15:44<br>赞(0) 踩(0) | <div>她的vocal一点都不弱，甚至可以称为有爆发力。<br>可以看看她的black is the color和where are you的现场。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-03-08 00:15<br>赞(0) 踩(0) | <div><q><b>兴冲冲的绿豆说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4163880)<br><br>2014-03-08 00:18<br>赞(0) 踩(0) | <div><q><b>兴冲冲的绿豆说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16073592)<br><br>2014-02-24 13:41<br>赞(0) 踩(0) | <div>声音细腻婉转</div> |
@@ -487,7 +487,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7204188)<br><br>2013-10-22 14:05<br>赞(0) 踩(0) | <div>摄人心弦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5604569)<br><br>2013-10-19 23:39<br>赞(0) 踩(0) | <div>ooo</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6505184)<br><br>2013-10-17 23:06<br>赞(0) 踩(0) | <div>Travel from CRAIGIE HILL to BLUE MOUNTAIN RIVER, listen to the LARK IN THE AIR when THERE WERE ROSES, Cara is always the special one ever.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12688869)<br><br>2013-10-15 18:19<br>赞(20) 踩(0) | <div>2013Cara Dillon西安音乐会时间：12月12日地点：西安音乐厅票价: 30(学生票）60 90 120 150购票电话： 134 8846 6727地址：高新区科技路20号萨菲尔名邸A座1401 [科技路小区站下车]</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12688869)<br><br>2013-10-15 18:19<br>赞(20) 踩(0) | <div>2013Cara Dillon西安音乐会<br>时间：12月12日<br>地点：西安音乐厅<br>票价: 30(学生票）60 90 120 150<br>购票电话： 134 8846 6727<br>地址：高新区科技路20号萨菲尔名邸A座1401 [科技路小区站下车]</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/685594)<br>我还没想好要写什么...<br>2013-12-01 20:32<br>赞(0) 踩(0) | <div>天理何在啊。。。才30啊。。。上海卖200</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23512461)<br><br>2013-10-15 09:32<br>赞(0) 踩(0) | <div>清新的女声</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/107848)<br>柳<br>2013-10-13 00:05<br>赞(0) 踩(0) | <div>【爱尔兰的精灵</div> |
@@ -517,8 +517,8 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225499)<br>こんなに 大好きなのに。<br>2013-08-01 21:59<br>赞(0) 踩(0) | <div>果断去，广州站！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9636090)<br><br>2013-08-02 12:38<br>赞(0) 踩(0) | <div><q><b>明说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9636090)<br><br>2013-08-02 12:39<br>赞(0) 踩(0) | <div><q><b>小渔说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220719)<br>自知不自見，自愛不自貴<br>2013-08-01 19:12<br>赞(0) 踩(0) | <div>我想問一下，蝦米 是打算要將藝人板塊變成代理機構或者唱片公司的宣傳和收費頁面嗎？看看你們以這些藝人的名義發來的巡演信息吧，就算是他們懂得中文，也不會那個樣子寫吧？蝦米音樂人 是否已經開始變質？或者應該再開設一個 版權代理人 的板塊？</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5289881)<br><br>2013-08-01 19:34<br>赞(0) 踩(0) | <div>这也是虾米的一个野心。。。整合艺人和歌迷资源，然后和淘宝合作，深化平台的经营方式。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220719)<br>自知不自見，自愛不自貴<br>2013-08-01 19:12<br>赞(0) 踩(0) | <div>我想問一下，蝦米 是打算要將藝人板塊變成代理機構或者唱片公司的宣傳和收費頁面嗎？<br>看看你們以這些藝人的名義發來的巡演信息吧，就算是他們懂得中文，也不會那個樣子寫吧？<br>蝦米音樂人 是否已經開始變質？或者應該再開設一個 版權代理人 的板塊？</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5289881)<br><br>2013-08-01 19:34<br>赞(0) 踩(0) | <div>这也是虾米的一个野心。。。<br>整合艺人和歌迷资源，然后和淘宝合作，深化平台的经营方式。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10904636)<br>Love is The ...<br>2013-08-02 13:55<br>赞(0) 踩(0) | <div><q><b>阿家原来是个吃货°F说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7397144)<br>清歌一片,可惜付与黄昏<br>2013-08-02 14:57<br>赞(0) 踩(0) | <div><q><b>Rorschach说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5289881)<br><br>2013-08-02 21:33<br>赞(0) 踩(0) | <div><q><b>Rorschach说：</b></q></div> |
@@ -547,7 +547,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4484973)<br><br>2013-07-23 16:51<br>赞(0) 踩(0) | <div>纯粹的声音，喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4844734)<br><br>2013-07-22 11:42<br>赞(0) 踩(0) | <div>甜美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2013-07-19 21:51<br>赞(0) 踩(0) | <div>爱尔兰民谣歌手Cara Dillon 2013年首次中国巡演 北京、上海、广州站 已开票 <a href="http://dou.bz/2qgp4a" target="_blank" rel="nofollow noreferrer noopener">http://dou.bz/2qgp4a</a> 每站前50名，送口袋唱片引进版一张。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5848254)<br>网易云音乐（之后可能会开...<br>2013-07-20 14:04<br>赞(0) 踩(0) | <div>活动开始时间：2013-12-13  ..................................，你们办活动.........还是等等在买吧。。。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5848254)<br>网易云音乐（之后可能会开...<br>2013-07-20 14:04<br>赞(0) 踩(0) | <div>活动开始时间：2013-12-13  ...........<br>.......................，你们办活动.<br>........还是等等在买吧。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2013-07-19 21:51<br>赞(0) 踩(0) | <div>爱尔兰民谣歌手CaraDillon北京站暖场嘉宾：吴虹飞与幸福大街 小站是<a href="http://dou.bz/3i8Ufd" target="_blank" rel="nofollow noreferrer noopener">http://dou.bz/3i8Ufd</a> 8点开始演出。演出25分钟。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11222354)<br><br>2013-07-19 08:36<br>赞(0) 踩(0) | <div>不错！！！不错！！！不错！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11222354)<br><br>2013-07-19 08:36<br>赞(0) 踩(0) | <div>不错！！！不错！！！</div> |
@@ -559,7 +559,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8231704)<br><br>2013-07-04 15:15<br>赞(0) 踩(0) | <div>nature</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9430725)<br>当为神所佑<br>2013-06-29 20:18<br>赞(0) 踩(0) | <div>音色略尖~但是曲风不错~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3765954)<br>装下那片湖<br>2013-06-27 19:32<br>赞(0) 踩(0) | <div>一双美丽的眼睛就可以征服我了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5648252)<br><br>2013-06-27 11:17<br>赞(0) 踩(0) | <div>cara dillon 2013 中国巡演<a href="http://www.douban.com/event/19183379/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/19183379/</a>官方小站<a href="http://site.douban.com/caradillon/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/caradillon/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5648252)<br><br>2013-06-27 11:17<br>赞(0) 踩(0) | <div>cara dillon 2013 中国巡演<br><a href="http://www.douban.com/event/19183379/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/19183379/</a><br><br>官方小站<br><a href="http://site.douban.com/caradillon/" target="_blank" rel="nofollow noreferrer noopener">http://site.douban.com/caradillon/</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11665835)<br>凡事随心，只为悦己。<br>2013-06-25 22:08<br>赞(0) 踩(0) | <div>很干净的声音，治愈系</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15255777)<br><br>2013-06-25 01:53<br>赞(0) 踩(0) | <div>music音乐music音乐[音乐盒] <img src="../../images/comments/53376b15f77ae122bdb1ed308546bbcb.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10547530)<br>生于白昼，隐与黑夜。<br>2013-06-24 19:24<br>赞(0) 踩(0) | <div>爱尔兰夜莺。只因为你的声音，让所有从心灵废墟走出来的人都能如同维多利亚女王一样快乐。</div> |
@@ -572,7 +572,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/601978)<br><br>2013-06-15 12:14<br>赞(0) 踩(0) | <div>喜欢吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8435151)<br>治愈系<br>2013-06-14 21:20<br>赞(0) 踩(0) | <div>Cara Dillon</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9944410)<br>111111111111<br>2013-06-14 13:35<br>赞(0) 踩(0) | <div>好甜美！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5816221)<br>『実におもしろい』<br>2013-06-13 23:22<br>赞(1) 踩(0) | <div>=、= 为什么会一直没收藏呢！我的爱爱爱尔兰偏爱爱爱啊啊啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5816221)<br>『実におもしろい』<br>2013-06-13 23:22<br>赞(1) 踩(0) | <div>=、= 为什么会一直没收藏呢！<br>我的爱爱爱尔兰偏爱爱爱啊啊啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15976440)<br><br>2013-06-11 21:21<br>赞(0) 踩(0) | <div>好听的声音。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8538056)<br>Absolutely<br>2013-06-11 15:42<br>赞(0) 踩(0) | <div>I Wish You Well 竟然没进前十。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1272599)<br>o_OL.pinme<br>2013-06-08 11:51<br>赞(0) 踩(0) | <div>声音蛮好听，不过就不能换张头像么，好惊悚的眼睛=。=</div> |
@@ -1219,7 +1219,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2829552)<br><br>2011-03-26 20:04<br>赞(0) 踩(0) | <div>音乐天使</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2747146)<br><br>2011-03-25 14:16<br>赞(0) 踩(0) | <div>空灵 天籁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3341413)<br><br>2011-03-24 23:07<br>赞(0) 踩(0) | <div>很好听的歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2059635)<br>循環中....升級<br>2011-03-22 15:41<br>赞(0) 踩(0) | <div>一生中☆沒有幾個人能原諒你多次D放錯★既然不願失去☆那就應該好好珍惜★☆★☆★</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2059635)<br>循環中....升級<br>2011-03-22 15:41<br>赞(0) 踩(0) | <div>一生中☆<br>沒有幾個人能原諒你多次D放錯★既然不願失去☆<br>那就應該好好珍惜★☆★☆★</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1861868)<br><br>2011-03-20 14:17<br>赞(0) 踩(0) | <div>清澈，干净</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2991759)<br><br>2011-03-18 20:02<br>赞(0) 踩(0) | <div>这是个清澈到灵魂的干净的声音，喜欢她还因为，爱尔兰这个国度，有我在乎的人，虽然，他不知道。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2448183)<br><br>2011-03-17 14:35<br>赞(0) 踩(0) | <div>舒服</div> |
@@ -1299,7 +1299,7 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1289873)<br><br>2010-08-09 09:04<br>赞(0) 踩(0) | <div>好干净的声音！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/822742)<br><br>2010-08-07 21:57<br>赞(0) 踩(0) | <div>声音清澈美丽，犹如天籁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1039076)<br><br>2010-08-05 21:42<br>赞(0) 踩(0) | <div>好哟~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1018351)<br>朝闻道夕死可矣<br>2010-07-30 15:17<br>赞(0) 踩(0) | <div>很赞的声音清澈干净</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1018351)<br>朝闻道夕死可矣<br>2010-07-30 15:17<br>赞(0) 踩(0) | <div>很赞的声音<br>清澈干净</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/509825)<br><br>2010-07-30 11:01<br>赞(0) 踩(0) | <div>一听就喜欢上，喜欢这个声音~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1190651)<br><br>2010-07-18 10:50<br>赞(0) 踩(0) | <div>都是好棒的音乐，干净的声音，洁净的犹如班得瑞乐团的音乐，空旷的声音，空旷的犹如Enya，这些才是真正的音乐。持续关注</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/632129)<br><br>2010-07-09 22:40<br>赞(0) 踩(0) | <div>飄渺空靈的聲音~</div> |
@@ -1307,8 +1307,8 @@ Cara Dillon与中国乐迷的一年之约<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143594)<br><br>2010-06-15 01:40<br>赞(0) 踩(0) | <div>很舒服的声音。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/749732)<br>陽光裡，風大<br>2010-06-09 18:19<br>赞(0) 踩(0) | <div>收藏只怪她太流行。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/156873)<br> <br>2010-06-09 13:44<br>赞(0) 踩(0) | <div>又应验了一句老话，一方水土养一方人。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203808)<br>rainy day<br>2010-06-08 17:43<br>赞(0) 踩(0) | <div>每次一听到清新、自然这类形容词，第一个想到的就是她==喜欢她特别的滑音..很民谣，很甜美~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79438)<br><br>2010-05-21 15:51<br>赞(0) 踩(0) | <div>不知为何啊  可能是耳机的原因，狄龙的声音有点儿像杨钰莹的。囧。和在CCTV音乐频道听的演晚会版，不同啊~为什么？为什么？为什么？为什么？为什么？为什么？为什么？为什么？为什么？为什么？为什么？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203808)<br>rainy day<br>2010-06-08 17:43<br>赞(0) 踩(0) | <div>每次一听到清新、自然这类形容词，第一个想到的就是她==<br>喜欢她特别的滑音..很民谣，很甜美~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79438)<br><br>2010-05-21 15:51<br>赞(0) 踩(0) | <div>不知为何啊  可能是耳机的原因，狄龙的声音有点儿像杨钰莹的。囧。和在CCTV音乐频道听的演晚会版，不同啊~<br><br><br>为什么？为什么？为什么？为什么？为什么？为什么？为什么？为什么？为什么？为什么？为什么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/891312)<br><br>2010-05-17 13:24<br>赞(0) 踩(0) | <div>Craigie Hill 超赞，天籁之音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/619210)<br>你是否依然美丽。<br>2010-04-28 13:15<br>赞(0) 踩(0) | <div>超爱她的【bonny bonny】</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/743322)<br>暂无签名~<br>2010-03-23 17:15<br>赞(0) 踩(0) | <div>欧美女歌手当中最棒的声音了吧</div> |

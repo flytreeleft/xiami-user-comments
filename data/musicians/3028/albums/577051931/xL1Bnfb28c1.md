@@ -41,10 +41,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10434378)<br> <br>2020-12-19 14:15<br>赞(0) 踩(0) | <div>སྙན་མོ་འདུག</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442233735)<br>我还没想好要写什么...<br>2020-12-01 15:13<br>赞(0) 踩(0) | <div>前奏️点像是 Gwen Stefani /doubt - Don't Speak無怨無悔去追逐直到天荒地老直到天際用尽所有力气....</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442233735)<br>我还没想好要写什么...<br>2020-12-01 15:13<br>赞(0) 踩(0) | <div>前奏️点像是 Gwen Stefani /doubt - Don't Speak<br>無怨無悔去<br>追逐<br>直到<br>天荒地老<br>直到天際<br>用尽所有力气....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48808626)<br>卡里的随身唱片机<br>2020-11-09 15:49<br>赞(1) 踩(0) | <div>把薯愿给你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149880812)<br><br>2020-10-12 23:23<br>赞(0) 踩(0) | <div>从《情歌而已》入坑，现在迷上了《从现在开始》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51853071)<br>一個世界兩個永恆的主題。<br>2020-07-28 14:05<br>赞(0) 踩(0) | <div>一切從現在開始。</div> |
@@ -75,20 +75,20 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346125875)<br><br>2018-12-20 00:18<br>赞(1) 踩(0) | <div>36楼占座</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231177152)<br>Inner Peace！<br>2018-11-11 11:21<br>赞(1) 踩(0) | <div>从现在开始，什么都不给你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354356798)<br>我还没想好要写什么...<br>2018-10-18 18:50<br>赞(2) 踩(0) | <div>应该是我最早听的乐队了 高中豆瓣听到大四 认识他的时候他说他喜欢声碎 我觉得哇缘分呢 一定是我的正缘了 其实都是屁啦 听男人讲鬼话还不如听歌呢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2018-10-01 10:39<br>赞(0) 踩(0) | <div>&amp;ldquo;现在我一身轻了，现在我腾飞。现在我看到我在我自己的支配之下，现在有一位神在我体内跳舞。&amp;rdquo;2018.10.01  10：38</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2018-10-01 10:39<br>赞(0) 踩(0) | <div>&amp;ldquo;现在我一身轻了，现在我腾飞。现在我看到我在我自己的支配之下，现在有一位神在我体内跳舞。&amp;rdquo;<br>2018.10.01  10：38</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63597)<br><br>2018-10-02 21:45<br>赞(0) 踩(0) | <div>愿你能上天</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2018-10-03 12:20<br>赞(0) 踩(0) | <div><q><b>声音碎片说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317777924)<br>我还没想好要写什么...<br>2018-09-04 17:39<br>赞(0) 踩(0) | <div>不给</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2018-08-21 15:53<br>赞(4) 踩(0) | <div>《从现在开始》马玉龙把春天给你把花朵给你把夏日的深远给你把过去给你把现在给你把未知的幸福全给你什么都不留下把歌声给你把恋爱给你把剩余的美好给你把繁华给你把荒凉给你把平静的喜悦全给你什么都不留下从现在开始我只要一点下午温暖的阳光从现在开始纯粹如河流无声地穿过夜晚什么都不留下寻找结束了倾听开始了当我面对着大海沉醉结束了想念开始了当我面对着爱情怀疑结束了热爱开始了当我面对着你们迷惑结束了沉默才开始当我面对着自己2018.8.21  15：53</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-20 12:45<br>赞(0) 踩(0) | <div>养精蓄锐，把握机会。&amp;hellip;学会定位养精蓄锐，把握机会。&amp;hellip;学会定位养精蓄锐，把握机会。&amp;hellip;学会定位</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-20 12:45<br>赞(0) 踩(0) | <div>养精蓄锐，把握机会。&amp;hellip;学会定位</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-16 13:58<br>赞(0) 踩(0) | <div>养老是一个人最重要的生活目标养老是一个人最重要的生活目标养老是一个人最重要的生活目标</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-14 13:04<br>赞(4) 踩(0) | <div>人生就是一个磨练的过程，没有这些酸甜苦辣，你永远都不会成熟。所以，我们应该在阳光下灿烂，风雨中奔跑，对自己说一声：昨天挺好，今天很好， 明天会更好！人生就像一支铅笔，开始很尖，经历多了就会圆滑，承受不住就会断掉。所以别去抱怨你经历的种种，学会承受，学会坚持，就能在白纸上画出美丽的风景！&amp;mdash;&amp;mdash;有坚持，就有收获！亲们，中午好！[玫瑰][玫瑰][玫瑰]</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2018-08-21 15:53<br>赞(4) 踩(0) | <div>《从现在开始》<br>马玉龙<br><br>把春天给你<br>把花朵给你<br>把夏日的深远给你<br>把过去给你<br>把现在给你<br>把未知的幸福全给你<br>什么都不留下<br><br>把歌声给你<br>把恋爱给你<br>把剩余的美好给你<br>把繁华给你<br>把荒凉给你<br>把平静的喜悦全给你<br>什么都不留下<br><br>从现在开始<br>我只要一点下午温暖的阳光<br>从现在开始<br>纯粹如河流无声地穿过夜晚<br>什么都不留下<br><br>寻找结束了<br>倾听开始了<br>当我面对着大海<br><br>沉醉结束了<br>想念开始了<br>当我面对着爱情<br><br>怀疑结束了<br>热爱开始了<br>当我面对着你们<br><br>迷惑结束了<br>沉默才开始<br>当我面对着自己<br><br>2018.8.21  15：53</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-20 12:45<br>赞(0) 踩(0) | <div>养精蓄锐，<br>把握机会。<br>&amp;hellip;学会定位<br><br>养精蓄锐，<br>把握机会。<br>&amp;hellip;学会定位<br><br>养精蓄锐，<br>把握机会。<br>&amp;hellip;学会定位</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-20 12:45<br>赞(0) 踩(0) | <div>养精蓄锐，<br>把握机会。<br>&amp;hellip;学会定位</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-16 13:58<br>赞(0) 踩(0) | <div>养老是一个人最重要的生活目标<br><br>养老是一个人最重要的生活目标<br><br>养老是一个人最重要的生活目标</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2018-06-14 13:04<br>赞(4) 踩(0) | <div>人生就是一个磨练的过程，没有这些酸甜苦辣，你永远都不会成熟。所以，我们应该在阳光下灿烂，风雨中奔跑，对自己说一声：昨天挺好，今天很好， 明天会更好！人生就像一支铅笔，开始很尖，经历多了就会圆滑，承受不住就会断掉。所以别去抱怨你经历的种种，学会承受，学会坚持，就能在白纸上画出美丽的风景！<br>&amp;mdash;&amp;mdash;有坚持，就有收获！亲们，中午好！[玫瑰][玫瑰][玫瑰]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355867555)<br>你不寂寞 神爱着你<br>2018-03-31 08:06<br>赞(1) 踩(0) | <div>是我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353292712)<br>独摇狗 鼓手 Trace...<br>2018-03-25 22:24<br>赞(4) 踩(0) | <div>老马的歌声和心声大概就是碎片的灵魂吧&amp;hellip;&amp;hellip;是我心中所有的破碎遗留下的美好温暖和感动</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110979614)<br><br>2018-02-10 13:34<br>赞(18) 踩(0) | <div>声音碎片的每一个歌都特别好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251028300)<br>现在不会害怕了吧，从你的...<br>2018-01-08 17:44<br>赞(0) 踩(0) | <div>1</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339469707)<br><br>2017-12-28 07:15<br>赞(2) 踩(0) | <div>把柳岩给你 <img src="../../../../images/comments/0590342800944c9cbf70e4e78ed6027a.png">吓得我赶紧进来看看歌词！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339469707)<br><br>2017-12-28 07:15<br>赞(2) 踩(0) | <div>把柳岩给你 <img src="../../../../images/comments/0590342800944c9cbf70e4e78ed6027a.png"><br><br>吓得我赶紧进来看看歌词！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259494353)<br>为了成为勇敢的海上战士！<br>2017-12-15 22:46<br>赞(1) 踩(0) | <div>那就都给我吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88837958)<br><br>2017-11-09 00:48<br>赞(0) 踩(0) | <div>从现在开始做自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318725147)<br><br>2017-09-08 22:22<br>赞(0) 踩(0) | <div>歌曲充满了孤独，有一种夕阳西下西下那种荒凉的美！</div> |

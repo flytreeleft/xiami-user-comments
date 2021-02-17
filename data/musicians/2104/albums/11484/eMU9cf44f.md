@@ -49,8 +49,8 @@ Star Blue~ Good night<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5435548)<br><br>2020-04-10 00:34<br>赞(0) 踩(0) | <div>好像原来买过这张专辑的磁带</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/391404)<br><br>2019-08-13 01:29<br>赞(0) 踩(0) | <div>这首歌有种层层叠叠的递进气势，最后简直排山倒海，被打动了呀。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312092998)<br><br>2019-05-07 23:10<br>赞(0) 踩(0) | <div>这么好的东西没被发现～感觉～窃喜～寂寞～</div> |

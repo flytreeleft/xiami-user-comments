@@ -39,8 +39,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30435441)<br>初听不知曲中意，再闻已是...<br>2018-08-30 23:36<br>赞(1) 踩(0) | <div>心里难受的时候总会不由自主在心里哼起这首歌，一首歌单曲循环无限单曲循环，不停听下去似乎心里会稍微好受点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17955680)<br>RESTART<br>2018-08-30 04:03<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45875941)<br> <br>2018-07-30 21:35<br>赞(0) 踩(0) | <div>为什么要丢下我</div> |
@@ -51,7 +51,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287781188)<br>嘿嘿嘿嘿<br>2018-04-25 21:54<br>赞(2) 踩(0) | <div>有种别样的美。。很压抑。唱的心里了。唱的人一下子好压抑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357587008)<br>热爱生活，热爱美食<br>2018-04-18 14:29<br>赞(13) 踩(0) | <div>患上抑郁症有两年了，听这首歌真的实在是有太多的感触。这首歌描述的大概就是我的生活，其实没什么人能够理解自己，不知道怎么的，总是莫名地很难受，只能哭，快乐要用悲伤换的不过讲的是短暂的快乐过后又要面对无法面对的事实，没办法，只好逃避，逃避&amp;hellip;&amp;hellip;可是没办法，很无助&amp;hellip;&amp;hellip;真的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351042081)<br>誰能看出來這麼開朗我的其...<br>2018-08-26 00:26<br>赞(0) 踩(0) | <div>我們會好起來的吧</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41962478)<br>我还没想好要写什么...<br>2018-04-07 19:40<br>赞(0) 踩(0) | <div>没有想到最后这首歌唱的人又是我自己想死的人能死真的很幸福</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41962478)<br>我还没想好要写什么...<br>2018-04-07 19:40<br>赞(0) 踩(0) | <div>没有想到最后这首歌唱的人又是我自己<br>想死的人能死真的很幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166178604)<br> <br>2018-04-01 23:32<br>赞(2) 踩(0) | <div>抑郁症之歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297322040)<br><br>2018-02-21 22:56<br>赞(3) 踩(0) | <div>快乐是要用悲伤换的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287603539)<br> <br>2018-02-07 22:33<br>赞(1) 踩(0) | <div>此时此刻的心情倍加难受，我完全被抑郁压制了</div> |
@@ -137,9 +137,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11750971)<br><br>2015-03-28 21:13<br>赞(0) 踩(0) | <div>“天摇地动 昏天暗地”这段好有王菲的感觉，类似《开到荼蘼》《白痴》这种吧，无法言说</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26344582)<br> <br>2015-03-22 21:51<br>赞(0) 踩(0) | <div>我。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45065594)<br>节奏控 旋律控<br>2015-03-21 01:46<br>赞(2) 踩(0) | <div>原来快乐是要用悲伤换的……如果是这么悲伤 我宁愿不快乐 不哭不笑的过一辈子</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2015-03-14 16:48<br>赞(0) 踩(0) | <div>你也当我是个疯子 我是个疯子尽管叫我疯子，不要叫我傻子手机里的不删曲</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2015-03-14 16:48<br>赞(0) 踩(0) | <div>你也当我是个疯子 我是个疯子<br><br>尽管叫我疯子，不要叫我傻子<br>手机里的不删曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45363523)<br><br>2015-03-12 20:13<br>赞(0) 踩(0) | <div>你听见心里的声音了吗？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11536516)<br>それでも君が好きだよ。<br>2015-02-25 10:27<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭 走路我想哭 静止我想哭出太阳我想哭 起风我想哭 听歌我想哭 看喜剧我想哭</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11536516)<br>それでも君が好きだよ。<br>2015-02-25 10:27<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭 走路我想哭 静止我想哭<br>出太阳我想哭 起风我想哭 听歌我想哭 看喜剧我想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47452539)<br>不 爱 我 是 不 对 ...<br>2015-02-24 03:49<br>赞(0) 踩(0) | <div>你觉得我疯了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16552712)<br> <br>2015-02-23 07:54<br>赞(0) 踩(0) | <div>最近的状态。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1306103)<br><br>2015-02-23 00:05<br>赞(0) 踩(0) | <div>送首歌给你</div> |
@@ -168,7 +168,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6712699)<br>音乐是诗。<br>2013-11-18 21:42<br>赞(0) 踩(0) | <div>夜晚的真心话时间……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12972956)<br>sometime I w...<br>2013-11-16 11:57<br>赞(0) 踩(0) | <div>可人们却爱说只有这样才能叫青春，惨痛过后才能叫做人生。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11480846)<br> <br>2013-10-27 22:04<br>赞(0) 踩(0) | <div>我的一整个高中时代</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9218716)<br>二月先生<br>2013-10-24 17:44<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭 走路我想哭 静止我想哭出太阳我想哭 起风我想哭 听歌我想哭 看喜剧我想哭 哈哈哈哈哈哈哈哈哈哈哈哈好喜感</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9218716)<br>二月先生<br>2013-10-24 17:44<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭 走路我想哭 静止我想哭<br>出太阳我想哭 起风我想哭 听歌我想哭 看喜剧我想哭 哈哈哈哈哈哈哈哈哈哈哈哈好喜感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10373068)<br>我还没想好要写什么...<br>2013-10-20 23:20<br>赞(0) 踩(0) | <div>我是一个精致的疯子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10373068)<br>我还没想好要写什么...<br>2013-10-20 21:31<br>赞(0) 踩(0) | <div>我是疯子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23314193)<br> <br>2013-10-20 00:22<br>赞(0) 踩(0) | <div>我控制不住自己负担太多的情绪，我拒绝面对结局，沉重的问题我不想听，再压抑再压抑我快不行。</div> |
@@ -192,7 +192,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9815566)<br><br>2013-07-19 08:15<br>赞(1) 踩(0) | <div>原来快乐要用悲伤换的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17255813)<br><br>2013-07-18 23:00<br>赞(0) 踩(0) | <div>吐吐吐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9733752)<br>愿平安，幸福。<br>2013-07-18 22:45<br>赞(0) 踩(0) | <div>我拒绝面对结局,沉重的问题我不想听[呵呵~]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4531275)<br>你没说过的事不代表没发生<br>2013-07-16 18:42<br>赞(0) 踩(0) | <div>应该说  这么爱哭的女孩纸 终于坚强了。擦干了眼泪，但还有些呜咽的感觉。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4531275)<br>你没说过的事不代表没发生<br>2013-07-16 18:42<br>赞(0) 踩(0) | <div>应该说  这么爱哭的女孩纸 终于坚强了。<br><br>擦干了眼泪，但还有些呜咽的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2209691)<br>让我们忠于理想 让我们面...<br>2013-07-04 22:39<br>赞(0) 踩(0) | <div>刷牙我想哭  洗脸我想哭  走路我想哭 静止我想哭  出太阳我想哭 起风我想哭  听歌我想哭  看喜剧我想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7537165)<br><br>2013-06-28 20:14<br>赞(0) 踩(0) | <div>当年高考后填完志愿单曲循环的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13800318)<br><br>2013-06-27 22:44<br>赞(0) 踩(0) | <div>我控制不住自己，负担太重情绪，我疯言我疯语，眼泪让我瞎了，你给的很多规律，说了很久的道理，我的心在压抑，晚安，自己。</div> |
@@ -202,8 +202,8 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47735504)<br>音乐是我心灵<br>2015-11-22 23:52<br>赞(0) 踩(0) | <div>有才 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226235792)<br><br>2017-11-04 16:04<br>赞(0) 踩(0) | <div>哈哈哈，很生动</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326078259)<br> <br>2017-11-30 16:23<br>赞(0) 踩(0) | <div>十五年等待候鸟</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12947529)<br>人生无悔/白走一回<br>2013-06-12 15:46<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭 走路我想哭 静止我想哭出太阳我想哭 起风我想哭 听歌我想哭 看喜剧我想哭。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12947529)<br>人生无悔/白走一回<br>2013-06-12 15:42<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭 走路我想哭 静止我想哭出太阳我想哭 起风我想哭 听歌我想哭 看喜剧我想哭。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12947529)<br>人生无悔/白走一回<br>2013-06-12 15:46<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭 走路我想哭 静止我想哭<br>出太阳我想哭 起风我想哭 听歌我想哭 看喜剧我想哭。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12947529)<br>人生无悔/白走一回<br>2013-06-12 15:42<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭 走路我想哭 静止我想哭<br>出太阳我想哭 起风我想哭 听歌我想哭 看喜剧我想哭。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15966502)<br><br>2013-06-11 07:58<br>赞(0) 踩(0) | <div>疯子   我是个疯子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1471839)<br><br>2013-06-08 09:02<br>赞(0) 踩(0) | <div>有眼泪没眼泪 你觉得我疯了 我瞬间耳鸣听不见你们说的 我疯言我疯语 眼泪让我瞎了  模糊我眼前世界 原来快乐要用悲伤换得。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10568475)<br>佳佳<br>2013-05-28 14:35<br>赞(1) 踩(0) | <div>我有时候就是个疯子</div> |
@@ -218,8 +218,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11286098)<br>试问谁可，洁白无比<br>2013-04-27 22:47<br>赞(0) 踩(0) | <div>很符合我今天心情的一首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14168647)<br><br>2013-04-27 14:27<br>赞(0) 踩(0) | <div>❤  曾多喜欢颓废的歌 ❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3222359)<br> <br>2013-04-20 16:18<br>赞(0) 踩(0) | <div>reply....</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4032173)<br><br>2013-04-11 00:25<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭 走路我想哭 静止我想哭出太阳我想哭 起风我想哭 听歌我想哭 看喜剧我想哭我控制不住自己 负担太重的情绪我拒绝 面对结局 沉重的问题 我不想听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6054516)<br><br>2013-04-01 20:37<br>赞(0) 踩(0) | <div>再压抑 再压抑 我快不行天摇地动 昏天暗地</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4032173)<br><br>2013-04-11 00:25<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭 走路我想哭 静止我想哭<br>出太阳我想哭 起风我想哭 听歌我想哭 看喜剧我想哭<br><br>我控制不住自己 负担太重的情绪<br>我拒绝 面对结局 沉重的问题 我不想听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6054516)<br><br>2013-04-01 20:37<br>赞(0) 踩(0) | <div>再压抑 再压抑 我快不行<br>天摇地动 昏天暗地</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13449934)<br><br>2013-03-30 16:16<br>赞(0) 踩(0) | <div>这种天气最适合听这种歌了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/449893)<br>我还没想好要写什么...<br>2013-03-28 15:58<br>赞(0) 踩(0) | <div>再压抑 我快不行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2945217)<br>凯莉米洛脑残粉！<br>2013-03-24 22:40<br>赞(0) 踩(0) | <div>“可是我累了，我只好哭了”“我没有出路”</div> |
@@ -289,7 +289,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9611642)<br><br>2012-07-03 09:53<br>赞(0) 踩(0) | <div>疯子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5830526)<br> <br>2012-06-22 23:21<br>赞(0) 踩(0) | <div>我也只好哭了。。。。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1211082)<br> <br>2012-06-20 22:36<br>赞(0) 踩(0) | <div>我控制不住自己 负担太重的情绪</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3518884)<br><br>2012-06-19 13:55<br>赞(0) 踩(0) | <div>我控制不住自己 负担太重的情绪我拒绝面对结局 沉重的问题我不想听</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3518884)<br><br>2012-06-19 13:55<br>赞(0) 踩(0) | <div>我控制不住自己 负担太重的情绪<br>我拒绝面对结局 沉重的问题我不想听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9167993)<br><br>2012-06-16 23:42<br>赞(0) 踩(0) | <div>晚上借着电影发泄，各种哭哭笑笑，我真的不适合安慰人，只会说一些更加残酷的话来打击他们，顺便也把自己的那些小心思全部掐死，没有那么多的希望就不会有那多的失望,好吧，我是个疯子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8678270)<br><br>2012-06-14 22:24<br>赞(0) 踩(0) | <div>听到我都要疯了~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8678270)<br><br>2012-06-14 21:02<br>赞(0) 踩(0) | <div>听到我都要疯了~</div> |
@@ -320,7 +320,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8187485)<br><br>2012-02-26 00:57<br>赞(0) 踩(0) | <div>现实的世界好多的规矩 漫不经心的调子诉说着沉重的心情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7937671)<br>我还没想好要写什么...<br>2012-02-25 00:05<br>赞(0) 踩(0) | <div>你给的很多规矩 说了很久的道理 却麻木了我的心  再压抑 再压抑 我快不行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3694778)<br><br>2012-02-23 10:15<br>赞(0) 踩(0) | <div>疯子</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3093031)<br>好似没时间<br>2012-02-15 22:21<br>赞(0) 踩(0) | <div>最近疯狂喜欢这个唱着疯子的家伙用漫不经心的调子惊动着并不漫不经心的心</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3093031)<br>好似没时间<br>2012-02-15 22:21<br>赞(0) 踩(0) | <div>最近疯狂喜欢这个唱着疯子的家伙<br>用漫不经心的调子<br>惊动着并不漫不经心的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20)<br>自由爱恨，只因荣幸<br>2012-02-14 17:04<br>赞(0) 踩(0) | <div>疯得绝望 疯得彻底 疯得天昏地暗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6740767)<br>这是个七彩的世界　　这是...<br>2012-02-12 00:27<br>赞(0) 踩(0) | <div>晚安！~耳朵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7885614)<br><br>2012-02-02 14:07<br>赞(0) 踩(0) | <div>我就像一个疯子。。。。</div> |
@@ -372,17 +372,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3125758)<br><br>2011-08-31 09:57<br>赞(0) 踩(0) | <div>疯子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/629851)<br>Koche<br>2011-08-28 14:33<br>赞(0) 踩(0) | <div>一首小众的好曲子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3283109)<br> <br>2011-08-28 13:42<br>赞(0) 踩(0) | <div>那些很喜欢许哲佩的日子  像疯子一样听疯子都听哭</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3355033)<br><br>2011-08-24 00:43<br>赞(0) 踩(0) | <div>我疯言 我疯语 眼泪让我瞎了我哭我眼前世界原来快乐要用悲伤换的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3841394)<br><br>2011-08-23 20:07<br>赞(0) 踩(0) | <div>有眼泪. 没眼泪.伱觉得我疯了.我瞬间耳鸣. 听不见伱们说的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3251547)<br>我还没想好要写什么...<br>2011-08-23 19:55<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭走路我想哭 静止我想哭出太阳我想哭 起风我想哭听歌我想哭 看喜剧我想我控制不住自己 负担冭重的情绪我拒绝面对结局 沉重的问题我不想听伱给的很多规矩 说了很久的道理却瞒不了我的伈再压抑 再压抑 我快不行..</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3355033)<br><br>2011-08-24 00:43<br>赞(0) 踩(0) | <div>我疯言 我疯语 眼泪让我瞎了<br>我哭我眼前世界<br>原来快乐要用悲伤换的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3841394)<br><br>2011-08-23 20:07<br>赞(0) 踩(0) | <div>有眼泪. 没眼泪.<br>伱觉得我疯了.<br>我瞬间耳鸣. 听不见伱们说的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3251547)<br>我还没想好要写什么...<br>2011-08-23 19:55<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭<br>走路我想哭 静止我想哭<br>出太阳我想哭 起风我想哭<br>听歌我想哭 看喜剧我想<br>我控制不住自己 负担冭重的情绪<br>我拒绝面对结局 沉重的问题我不想听<br>伱给的很多规矩 说了很久的道理<br>却瞒不了我的伈<br>再压抑 再压抑 我快不行..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3036564)<br><br>2011-08-20 22:43<br>赞(0) 踩(0) | <div>走路我想哭，静止我想哭。出太阳我想哭，起风我想哭。 T T</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4079361)<br><br>2011-08-17 09:07<br>赞(0) 踩(0) | <div>心情抑郁就特别想听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3814441)<br><br>2011-08-17 01:32<br>赞(0) 踩(0) | <div>快乐要用悲伤换的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4349637)<br><br>2011-07-16 21:26<br>赞(0) 踩(0) | <div>想起他……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4794970)<br><br>2011-07-15 15:28<br>赞(0) 踩(0) | <div>我依旧是个疯子。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084737)<br><br>2011-07-09 11:39<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭走路我想哭 静止我想哭出太阳我想哭 起风我想哭听歌我想哭 看喜剧我想我控制不住自己 负担冭重的情绪</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084737)<br><br>2011-07-09 11:39<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭走路我想哭 静止我想哭出太阳我想哭 起风我想哭听歌我想哭 看喜剧我想我控制不住自己 负担冭重的情绪</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4374015)<br><br>2011-06-30 15:14<br>赞(0) 踩(0) | <div>我没有出路伱也当我是个疯子 我是个疯子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084737)<br><br>2011-07-09 11:39<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭<br>走路我想哭 静止我想哭<br>出太阳我想哭 起风我想哭<br>听歌我想哭 看喜剧我想<br>我控制不住自己 负担冭重的情绪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084737)<br><br>2011-07-09 11:39<br>赞(0) 踩(0) | <div>刷牙我想哭 洗脸我想哭<br>走路我想哭 静止我想哭<br>出太阳我想哭 起风我想哭<br>听歌我想哭 看喜剧我想<br>我控制不住自己 负担冭重的情绪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4374015)<br><br>2011-06-30 15:14<br>赞(0) 踩(0) | <div>我没有出路<br>伱也当我是个疯子 我是个疯子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3082790)<br><br>2011-06-05 09:00<br>赞(0) 踩(0) | <div>我像疯子般不停的哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3844188)<br><br>2011-06-02 12:27<br>赞(0) 踩(0) | <div>想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3946704)<br><br>2011-05-30 08:02<br>赞(0) 踩(0) | <div>很像现在的状态。。。</div> |
@@ -404,7 +404,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/797562)<br><br>2011-04-01 22:54<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/818530)<br><br>2011-03-27 00:16<br>赞(0) 踩(0) | <div>lunatic</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1866905)<br> <br>2011-03-23 06:33<br>赞(0) 踩(0) | <div>我的最爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2952185)<br><br>2011-03-22 12:49<br>赞(0) 踩(0) | <div>我控制不住自己 负担太重的情绪我拒绝面对结局 沉重的问题我不想听你给的很多规矩 说了很久的道理却瞒不了我的心再压抑 再压抑 我快不行</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2952185)<br><br>2011-03-22 12:49<br>赞(0) 踩(0) | <div>我控制不住自己 负担太重的情绪<br>我拒绝面对结局 沉重的问题我不想听<br>你给的很多规矩 说了很久的道理<br>却瞒不了我的心<br>再压抑 再压抑 我快不行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3163873)<br><br>2011-03-20 17:37<br>赞(0) 踩(0) | <div>回家的路上听着发呆，迎面来的列车，叠加上动车哗哗哗的速度，只留下闪烁的线条。我原以为，可以瞥见一眼，对面车窗里如我一般，靠着窗发愣的乘客。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2917737)<br><br>2011-03-19 14:37<br>赞(0) 踩(0) | <div>心情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2479160)<br><br>2011-03-18 12:20<br>赞(0) 踩(0) | <div>很孩子气的女人~</div> |
@@ -434,7 +434,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1201969)<br><br>2010-08-27 15:21<br>赞(0) 踩(0) | <div>超讚！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1243471)<br><br>2010-08-13 15:31<br>赞(0) 踩(0) | <div>凄美的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1279839)<br><br>2010-08-13 13:54<br>赞(0) 踩(0) | <div>居然都忘了还有这首歌，前两天应该好好听听……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1150305)<br><br>2010-08-02 20:52<br>赞(0) 踩(0) | <div>我可以选择悲伤但我决不会掉眼泪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1150305)<br><br>2010-08-02 20:52<br>赞(0) 踩(0) | <div>我可以选择悲伤<br>但我决不会掉眼泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1225855)<br><br>2010-07-25 22:29<br>赞(0) 踩(0) | <div>ku</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1150305)<br><br>2010-07-17 12:49<br>赞(0) 踩(0) | <div>許願盒里的瘋子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/992184)<br>(╯‵□′)╯︵┻━┻<br>2010-06-30 13:17<br>赞(0) 踩(0) | <div>So terrible！！But I love it！！</div> |
@@ -444,10 +444,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/760415)<br> <br>2010-06-03 22:13<br>赞(0) 踩(0) | <div>有眼泪，没眼泪，你觉得我疯了，我瞬间耳鸣，听不见你们说的，我疯言，我疯言，眼泪让我瞎了，我哭我眼前世界，原来快乐要用悲伤换的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/853394)<br><br>2010-05-22 15:27<br>赞(0) 踩(0) | <div>歌词很内心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/911155)<br>什么都不留下就是聪明？聪...<br>2010-05-22 15:07<br>赞(0) 踩(0) | <div>我才想哭</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2010-05-22 03:37<br>赞(0) 踩(0) | <div>2008-12-17《疯子》我控制不住自己，负担太重的情绪那个疯女人，我们不去理她罢，让她在阳光下赤脚行过大街，腰间黑黝黝的皮肤从麻布里露出来。那个疯女人，我们躲闪的眼光，躲闪不了她迷离的眼神，随她去罢，她那样赤脚走过阳光晒烫的柏油路，就像赤脚行过清澈的湖面。那个疯女人，我们为什么总要遇见呢。我梗着脖子坚挺住沉重的脑袋，被灰尘迷离的眼睛一不小心撞上她麻布包裹的身体。这城市街头不期而遇的瞬间，像即时发生的一场无言祭奠。为什么我要觉得惶恐了呢……那个疯女人，她自由自在的双脚自言自语的嘴唇自作自受的狼藉，于我何干？她那样晃来晃去，像雨季里满溢的湖水那样晃来晃去，晃得我连心底里仅剩的一丁点湿润都掩藏不了。像最后的些微的雨水落在湖面上，起了些微涟漪。我听见的是自己微弱的回声。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2010-05-22 03:37<br>赞(0) 踩(0) | <div>2008-12-17<br><br>《疯子》<br><br>我控制不住自己，负担太重的情绪<br><br><br>那个疯女人，我们不去理她罢，让她在阳光下赤脚行过大街，腰间黑黝黝的皮肤从麻布里露出来。<br><br>那个疯女人，我们躲闪的眼光，躲闪不了她迷离的眼神，随她去罢，她那样赤脚走过阳光晒烫的柏油路，就像赤脚行过清澈的湖面。<br><br>那个疯女人，我们为什么总要遇见呢。我梗着脖子坚挺住沉重的脑袋，被灰尘迷离的眼睛一不小心撞上她麻布包裹的身体。这城市街头不期而遇的瞬间，像即时发生的一场无言祭奠。<br><br>为什么我要觉得惶恐了呢……那个疯女人，她自由自在的双脚自言自语的嘴唇自作自受的狼藉，于我何干？<br><br>她那样晃来晃去，像雨季里满溢的湖水那样晃来晃去，晃得我连心底里仅剩的一丁点湿润都掩藏不了。<br><br>像最后的些微的雨水落在湖面上，起了些微涟漪。我听见的是自己微弱的回声。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/480745)<br><br>2010-01-22 22:15<br>赞(0) 踩(0) | <div>真的很奇特</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407391)<br><br>2010-01-04 01:47<br>赞(0) 踩(0) | <div>我就是疯子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351661)<br>世间最美的莫不过“遇”<br>2009-12-16 22:04<br>赞(0) 踩(0) | <div>许哲佩的声音慵懒而纯净。空灵而飘渺。如果喧闹的城市给你带来一种压抑的感觉，听听这首歌，感受一下那种不一样的情结，我相信你会觉得它真的与众不同。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/518467)<br><br>2009-11-20 23:04<br>赞(0) 踩(0) | <div>这是极致的绝望。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184046)<br><br>2009-10-09 22:49<br>赞(0) 踩(0) | <div>有眼泪 没眼泪伱觉得我疯了我瞬间耳鸣 听不见伱们说的我疯言 我疯语 眼泪让我瞎了我疯了。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184046)<br><br>2009-10-09 22:49<br>赞(0) 踩(0) | <div>有眼泪 没眼泪<br>伱觉得我疯了<br>我瞬间耳鸣 听不见伱们说的<br>我疯言 我疯语 眼泪让我瞎了<br><br><br><br><br><br><br>我疯了。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291093)<br><br>2009-08-25 04:17<br>赞(0) 踩(0) | <div>歌词写的很透彻</div> |

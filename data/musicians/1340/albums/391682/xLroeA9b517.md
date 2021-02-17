@@ -67,23 +67,23 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1090755)<br> <br>2021-01-04 19:33<br>赞(1) 踩(0) | <div>阿信 隐形的纪念；刘德华 红颜自闭；蔡淳佳 隐形纪念；原曲：それぞれに - 中孝介</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1090755)<br> <br>2021-01-04 19:33<br>赞(1) 踩(0) | <div>阿信 隐形的纪念；<br>刘德华 红颜自闭；<br>蔡淳佳 隐形纪念；<br>原曲：それぞれに - 中孝介</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11771453)<br> <br>2020-12-28 00:14<br>赞(0) 踩(0) | <div>半夜突然想起这首歌，我永远记得他发表于初三那年的夏天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269495238)<br> <br>2020-11-11 08:24<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444523339)<br><br>2020-11-06 17:59<br>赞(1) 踩(0) | <div>我曾在平遥写下誓言，你是我一生所爱，但现在，真的不能再回去撕下它，我们都不能再去到那个城市了，所以，就让曾经的誓言一直留在心底，我的一生所爱，祝你幸福。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408593509)<br><br>2020-10-09 20:39<br>赞(1) 踩(0) | <div>80年代翻唱日语 我们不知道 但是现在都2020年 要不要脸啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192620616)<br>孤单小行星<br>2020-10-02 20:02<br>赞(0) 踩(0) | <div>我记得你眼里是我的脸。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444947744)<br><br>2020-09-16 20:52<br>赞(1) 踩(0) | <div>这首歌能让人想起了那些与家人们在一起的时光是多么地单纯而美好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11251559)<br>Dirigent<br>2020-09-14 10:03<br>赞(1) 踩(0) | <div>诶？ 中孝介《各自远扬》分享  中孝介 的歌曲《それぞれに》<a href="https://www.xiami.com/song/373290" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/373290</a> (分享自@虾米音乐)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11251559)<br>Dirigent<br>2020-09-14 10:03<br>赞(1) 踩(0) | <div>诶？ 中孝介《各自远扬》<br>分享  中孝介 的歌曲《それぞれに》<a href="https://www.xiami.com/song/373290" target="_blank" rel="nofollow noreferrer noopener">https://www.xiami.com/song/373290</a> (分享自@虾米音乐)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214415508)<br>我还没想好要写什么...<br>2020-08-22 13:41<br>赞(0) 踩(0) | <div>真好听ヽ(*ﾟｰﾟ*)ﾉ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342725414)<br>Walk  Alone向...<br>2020-08-16 14:47<br>赞(8) 踩(0) | <div>断断续续几年时光，多少次说走就走的旅行；总觉得自己走遍了祖国的大江南北。蓦然回首，才发现，竟然一 直 在 同 一 个 地 方 转 悠这个不思议的地方 <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304740786)<br>我还没想好要写什么...<br>2020-08-08 16:50<br>赞(0) 踩(0) | <div>世界上最遥远的距离</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48945187)<br>我还没想好要写什么...<br>2020-07-13 00:27<br>赞(0) 踩(0) | <div>浓浓的和风？？？是不是真的有日文版</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127094122)<br> <br>2020-08-03 18:13<br>赞(0) 踩(0) | <div>就是日文歌的翻唱</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408593509)<br><br>2020-10-09 20:38<br>赞(0) 踩(0) | <div><q><b>晓晓shoping说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355521197)<br>入目无他人，四下皆是你<br>2020-06-04 08:04<br>赞(2) 踩(0) | <div>不管这世界是那麽的危险我都悄悄的在你身边一直到某一个幸福期限别忘记我的脸隐形的纪念躲在心里面</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355521197)<br>入目无他人，四下皆是你<br>2020-06-04 08:04<br>赞(2) 踩(0) | <div>不管这世界是那麽的危险<br>我都悄悄的在你身边<br>一直到某一个幸福期限<br>别忘记我的脸<br>隐形的纪念躲在心里面</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283391871)<br><br>2020-04-15 21:24<br>赞(0) 踩(0) | <div>陈信宏老婆来了，都好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190604050)<br>再见昨天。<br>2020-04-12 10:47<br>赞(1) 踩(0) | <div>感觉这是陪我看日出的续集。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10569278)<br>阿君<br>2020-03-30 21:31<br>赞(0) 踩(0) | <div>声音好温暖</div> |
@@ -99,7 +99,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204054640)<br><br>2019-11-13 10:53<br>赞(1) 踩(0) | <div>不管这世界是那么的危险  我都悄悄的在你身边。陈信宏  你听见了吗 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429669377)<br><br>2019-09-21 13:33<br>赞(0) 踩(0) | <div>还会回去吗？雅丽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79605902)<br>七月风景，八月长安<br>2019-09-04 13:36<br>赞(2) 踩(0) | <div>也许吧 也许不会再见</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317471426)<br><br>2019-09-04 09:02<br>赞(4) 踩(0) | <div>淳佳是绝对五月天的老前辈！淳佳是绝对五月天的老前辈！淳佳是绝对五月天的老前辈！我不是淳佳的老歌迷第一次听淳佳的歌是在2007年那时候买不起mp3只能下到手机一遍又一遍放再一字一句写在歌词本里……淳佳出道很早，出道时五月天应该还小吧歌多是翻唱但很经典陪我看日出，yesterday，依恋，南屏晚钟…不百度估计我只能记住三十来首歌名如果当时她不选择做个平凡的验光师，可能现在更不同了希望大家都来听听淳佳的歌吧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317471426)<br><br>2019-09-04 09:02<br>赞(4) 踩(0) | <div>淳佳是绝对五月天的老前辈！<br>淳佳是绝对五月天的老前辈！<br>淳佳是绝对五月天的老前辈！<br>我不是淳佳的老歌迷<br>第一次听淳佳的歌<br>是在2007年<br>那时候买不起mp3<br>只能下到手机一遍又一遍放<br>再一字一句写在歌词本里<br>……<br>淳佳出道很早，出道时五月天应该还小吧<br>歌多是翻唱但很经典<br>陪我看日出，yesterday，依恋，南屏晚钟…<br>不百度估计我只能记住三十来首歌名<br>如果当时她不选择做个平凡的验光师，可能现在更不同了<br>希望大家都来听听淳佳的歌吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15216457)<br><br>2019-09-01 08:40<br>赞(2) 踩(0) | <div>听说五月天又在敲蔡淳佳的档期，如果上海场能听到五月天feat蔡淳佳的版本就好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269495238)<br> <br>2019-08-09 07:58<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281284636)<br><br>2019-08-07 14:46<br>赞(0) 踩(0) | <div>去年七夕我把这首歌发给你，你说好听，今年虽然同在一个地方，各自安好。</div> |
@@ -144,8 +144,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192735551)<br><br>2019-04-27 09:42<br>赞(11) 踩(0) | <div>果然这么多因为老公来的 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44651852)<br> <br>2019-04-27 09:21<br>赞(8) 踩(0) | <div>因为阿信过来看看嘻嘻嘻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345891822)<br>不爱音乐的地理老师不是好...<br>2019-04-27 09:17<br>赞(1) 踩(0) | <div>别有一番风味</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82444294)<br>五月天<br>2019-04-27 08:33<br>赞(4) 踩(0) | <div>阿信的好听蔡淳佳的好听都好听我记得上小学的时候听过蔡淳佳的等一个晴天时间煮雨抄的这首歌蔡淳佳 很美的女声</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267443834)<br><br>2019-04-27 08:16<br>赞(3) 踩(0) | <div>两个版本的感觉不一样这个版本我觉得是一种遗憾，阿信的版本更温柔，有一种释然都好好听啊！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82444294)<br>五月天<br>2019-04-27 08:33<br>赞(4) 踩(0) | <div>阿信的好听<br>蔡淳佳的好听<br>都好听<br>我记得上小学的时候<br>听过蔡淳佳的等一个晴天<br>时间煮雨抄的这首歌<br>蔡淳佳 很美的女声</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267443834)<br><br>2019-04-27 08:16<br>赞(3) 踩(0) | <div>两个版本的感觉不一样<br>这个版本我觉得是一种遗憾，阿信的版本更温柔，有一种释然<br>都好好听啊！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14528718)<br>我爱你三千遍<br>2019-04-27 07:51<br>赞(1) 踩(0) | <div>两位老师唱的都很好听啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286238342)<br>从不多想，只是信仰…然后...<br>2019-04-27 05:28<br>赞(1) 踩(0) | <div>「有什么证明你我存在 的世界」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124977742)<br>本命：五月天<br>2019-04-27 01:12<br>赞(48) 踩(0) | <div>半夜被晚归的舍友吵醒结果失眠了好烦躁，突然发现五迷群发了没听过的歌，瞬间被这安静细腻的前奏抚平情绪，再加上我信的声线！瞬间开心！跑来虾米搜，发现女声版，也很好听！多了一丝丝哀伤。加油睡觉啦 熬夜伤身 <img src="../../../../images/comments/e5f7e4f0c5b8d0cb935a35142275d024.png"></div> |
@@ -170,7 +170,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6717181)<br><br>2019-04-26 21:22<br>赞(4) 踩(0) | <div>如果所有你在乎的人，都遗忘了你，有什么能证明，你是真的存在过？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96113200)<br><br>2019-04-26 20:59<br>赞(4) 踩(0) | <div>乘评论还没有肆虐，听说阿信翻唱了这首歌~期待~都棒棒~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29173360)<br>听~<br>2019-04-26 20:55<br>赞(3) 踩(0) | <div>如果下雨唱了 真的很好哭</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317313924)<br>声声不息，听风有信。<br>2019-04-26 20:31<br>赞(128) 踩(0) | <div>「如果所有你在乎的人，都遗忘了你，有什么能证明，你是真的存在过」-《隐形的纪念》阿信 -</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317313924)<br>声声不息，听风有信。<br>2019-04-26 20:31<br>赞(128) 踩(0) | <div>「如果所有你在乎的人，都遗忘了你，有什么能证明，你是真的存在过」<br>-《隐形的纪念》阿信 -</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289662536)<br>你问我全世界是哪里最美 ...<br>2019-04-26 21:53<br>赞(0) 踩(0) | <div>捞一把陈太太</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317313924)<br>声声不息，听风有信。<br>2019-04-26 22:06<br>赞(0) 踩(0) | <div><q><b>因为是陈信宏啊说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289662536)<br>你问我全世界是哪里最美 ...<br>2019-04-26 22:07<br>赞(0) 踩(0) | <div><q><b>玫瑰少年北投是阮嘉说：</b></q></div> |
@@ -197,7 +197,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316404947)<br>偶像 周杰伦。我的歌单一...<br>2018-11-02 21:51<br>赞(2) 踩(0) | <div>歌火人布火阿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374344127)<br><br>2018-11-02 17:57<br>赞(2) 踩(0) | <div>我也是因旦增才找的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378863191)<br>我还没想好要写什么...<br>2018-10-29 13:02<br>赞(2) 踩(0) | <div>隐身守候着你，一直到永远</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209586175)<br><br>2018-10-27 20:42<br>赞(1) 踩(0) | <div>一双脚要走过多少时间才能走成思念，我因为这句歌词才来听原唱的，还是原唱有感觉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209586175)<br><br>2018-10-27 20:42<br>赞(1) 踩(0) | <div>一双脚要走过多少时间<br>才能走成思念，我因为这句歌词才来听原唱的，还是原唱有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266833332)<br><br>2018-10-19 13:08<br>赞(3) 踩(0) | <div>各自远扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29847283)<br><br>2018-10-15 01:27<br>赞(0) 踩(0) | <div>旦增那是内定的冠军，傻冒(；一_一)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404173496)<br>抖音ID:AI33312...<br>2018-10-14 22:37<br>赞(1) 踩(0) | <div>这首是好声音里面唱过，旦增尼玛</div> |
@@ -215,7 +215,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41268519)<br> <br>2018-10-07 11:54<br>赞(0) 踩(0) | <div>123</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51841234)<br>我还没想好要写什么...<br>2018-09-25 08:29<br>赞(2) 踩(0) | <div>想起去年的今天 你眼里是我的脸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350886413)<br>我还没想好要写什么...<br>2018-09-25 00:43<br>赞(0) 踩(0) | <div>中国好声音来的，喜欢旦增尼玛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346395579)<br><br>2018-08-18 18:39<br>赞(1) 踩(0) | <div>❤ ❤ ❤我有故事你有茶，老生常谈时的回忆！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346395579)<br><br>2018-08-18 18:39<br>赞(1) 踩(0) | <div>❤ ❤ ❤<br><br>我有故事你有茶，老生常谈时的回忆！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44929995)<br>若你 喜欢阳光下的我 请...<br>2018-08-13 21:52<br>赞(1) 踩(0) | <div>MV故事 就是女儿与父亲日常生活各种爱的细节。感动满满</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131350078)<br>顺我者昌逆我者亡<br>2018-08-13 17:38<br>赞(2) 踩(0) | <div>原唱是中孝介的花</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254742820)<br>我还没想好要写什么...<br>2018-08-23 13:23<br>赞(0) 踩(0) | <div>好像是 各自远扬</div> |

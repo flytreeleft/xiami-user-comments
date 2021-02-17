@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d10e5182130de5e014996c1fa1ef3b15.jpg)<br>刘永超](https://i.xiami.com/ycyy) | **播放数**: 2840272<br>**粉丝数**: 174<br>**评论数**: 14<br>**地区**: China 中国大陆<br>**风格**: 标准歌曲 Standards, 器乐独奏 Solo Instrumental<br> |
+| [![](../../images/musicians/d10e5182130de5e014996c1fa1ef3b15.jpg)<br>刘永超](https://i.xiami.com/ycyy) | **地区**: China 中国大陆<br>**风格**: 标准歌曲 Standards, 器乐独奏 Solo Instrumental<br>**播放数**: 2840272<br>**粉丝数**: 174<br>**评论数**: 14<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418484623)<br><br>2019-03-05 21:32<br>赞(0) 踩(0) | <div>支持你！太好听啦 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418484623)<br><br>2019-02-06 21:13<br>赞(0) 踩(0) | <div>太棒啦！太有才华！ <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251532212)<br><br>2018-10-05 21:04<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |

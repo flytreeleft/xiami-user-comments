@@ -28,5 +28,3 @@ And the dish ran away with the spoon
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

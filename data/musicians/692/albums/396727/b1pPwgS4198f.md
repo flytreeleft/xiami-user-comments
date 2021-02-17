@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/67177890)<br><br>2018-07-21 17:54<br>赞(3) 踩(0) | <div>可能只有玩过蜀山的人才能体会这里面有多少情怀，10年了！可能一辈子也忘不掉那种感觉！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337400726)<br><br>2018-07-11 03:54<br>赞(4) 踩(0) | <div>还有人玩吗？   玩的滴滴   10年了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/189998470)<br><br>2018-06-19 15:44<br>赞(1) 踩(0) | <div>最服气的bgm，我几乎120之前都是听着这个bgm干架</div> |

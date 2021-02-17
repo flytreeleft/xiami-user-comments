@@ -12,9 +12,6 @@
 
 ## 歌词
 
-<div>
-
-</div>
 </br>
 
 > <p>
@@ -61,8 +58,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/852998)<br>西尔德斯神话<br>2019-10-17 18:14<br>赞(0) 踩(0) | <div>本来我觉得彩虹是bg的，歌词听多了，突然觉得……哪里不对</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1289438)<br><br>2018-12-17 01:21<br>赞(0) 踩(0) | <div>可惜 幻想前4代都玩了……就这也外传没玩…因为我当时看不惯搞基 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93211756)<br>人生不是为了让自己如何杰...<br>2018-02-17 23:59<br>赞(0) 踩(0) | <div>好想去玩啊！可是玩不到啊！</div> |

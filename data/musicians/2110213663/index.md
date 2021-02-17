@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/042c56657f7dc5421bab128233388dfa.jpg)<br>鉛筆](https://i.xiami.com/cher) | **播放数**: 2242105<br>**粉丝数**: 365<br>**评论数**: 28<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 民谣 Folk, 独立民谣 Indie Folk, 民谣流行 Folk Pop<br> |
+| [![](../../images/musicians/042c56657f7dc5421bab128233388dfa.jpg)<br>鉛筆](https://i.xiami.com/cher) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 民谣 Folk, 独立民谣 Indie Folk, 民谣流行 Folk Pop<br>**播放数**: 2242105<br>**粉丝数**: 365<br>**评论数**: 28<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -24,8 +21,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13927906)<br>路漫漫其修远吾将上下而其...<br>2020-09-02 17:00<br>赞(0) 踩(0) | <div>大家好，我带着没有版权的歌入驻了虾米，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230391102)<br>万般皆是命<br>2020-02-29 23:34<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71099836)<br>我来不及认真的年轻，待明...<br>2019-06-06 22:39<br>赞(0) 踩(0) | <div>很好听，加油</div> |

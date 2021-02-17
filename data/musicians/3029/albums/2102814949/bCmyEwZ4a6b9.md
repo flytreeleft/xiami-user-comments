@@ -79,8 +79,8 @@ Huh 我只有一个梦想<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7866626)<br>给音乐一点空间<br>2020-10-03 18:02<br>赞(0) 踩(0) | <div>不惑之年的我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-09-30 07:09<br>赞(0) 踩(0) | <div>牛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7412920)<br> <br>2020-09-14 20:51<br>赞(0) 踩(0) | <div>太惨了</div> |
@@ -93,7 +93,7 @@ Huh 我只有一个梦想<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43492923)<br>行到水穷我才开始害怕，夕...<br>2019-10-26 15:19<br>赞(0) 踩(0) | <div>◇</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9492026)<br><br>2019-10-19 22:57<br>赞(0) 踩(0) | <div>犀利的词 <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2364580)<br> <br>2019-07-28 11:29<br>赞(1) 踩(0) | <div>这首编曲怎么这么潮 哈哈哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57231736)<br><br>2019-07-26 17:46<br>赞(0) 踩(0) | <div>这首也太自嘲了欧师你快来北京我一个穷学生实在没法去别的地方看你哇</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57231736)<br><br>2019-07-26 17:46<br>赞(0) 踩(0) | <div>这首也太自嘲了<br>欧师你快来北京<br>我一个穷学生实在没法去别的地方看你哇</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117532352)<br> hey<br>2019-07-21 19:42<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9225632)<br>城市就像森林，我们都是猎<br>2019-07-12 08:29<br>赞(1) 踩(0) | <div>不，你是一流的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3714518)<br>死人<br>2019-05-08 20:53<br>赞(0) 踩(0) | <div>两次在麦当劳堂食都听到这首歌(ง •̀_•́)ง</div> |
@@ -463,7 +463,7 @@ Huh 我只有一个梦想<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16273360)<br>我还没想好要写什么...<br>2017-08-19 21:57<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315881457)<br><br>2017-08-19 21:52<br>赞(0) 踩(0) | <div>任务</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309288851)<br><br>2017-08-19 21:46<br>赞(0) 踩(0) | <div>。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319828907)<br><br>2017-08-19 21:38<br>赞(0) 踩(0) | <div>大概独立音乐人的歌迷是最不包容的一群人，他们喜欢的音乐人必须一直停留在他们喜欢的那首歌的状态，不能有新的尝试，有变化就是变流行了变口水了去你个大西瓜，欧叔怎么做音乐要一个只知道免费听歌的人评判了，你喜欢 他们就多一毛钱收入了？给你能的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319828907)<br><br>2017-08-19 21:38<br>赞(0) 踩(0) | <div>大概独立音乐人的歌迷是最不包容的一群人，他们喜欢的音乐人必须一直停留在他们喜欢的那首歌的状态，不能有新的尝试，有变化就是变流行了变口水了<br>去你个大西瓜，欧叔怎么做音乐要一个只知道免费听歌的人评判了，你喜欢 他们就多一毛钱收入了？给你能的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9419733)<br>是安神的药，是夺心的魔。<br>2017-08-19 20:51<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85185118)<br>完美并不美<br>2017-08-19 20:47<br>赞(0) 踩(0) | <div>不谈物质，只谈心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49840696)<br> <br>2017-08-19 20:46<br>赞(0) 踩(0) | <div>Q</div> |
@@ -625,7 +625,7 @@ Huh 我只有一个梦想<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226081577)<br>人生总要有点喜欢的事情吧...<br>2017-08-17 23:12<br>赞(0) 踩(0) | <div>去年迷笛跨年现场听过，回来后一直没找到，没想到现在录了，想看巡演呐！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204729236)<br>我还没想好要写什么...<br>2017-08-17 22:37<br>赞(1) 踩(0) | <div>什么时候巡演</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52707034)<br> 永远有几远<br>2017-08-17 22:15<br>赞(2) 踩(0) | <div>挺好的，挺欢快的啊，难道声玩不可以这样吗？支持。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247337706)<br>我还没想好要写什么...<br>2017-08-17 22:11<br>赞(1) 踩(0) | <div>给老男孩谈理想，当然要用经典的摇滚曲风。又迷幻又迪斯科，像是在夜店里说着酒话，究竟什么时候轮到我？ 究竟什么时候轮到我？ 像是一个过气的玩笑，有些黑色。说到摇滚老炮，首先想到老崔，不知道这次他在这首歌里点了哪把火，一不小心成了&amp;quot;特别感谢&amp;quot;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247337706)<br>我还没想好要写什么...<br>2017-08-17 22:11<br>赞(1) 踩(0) | <div>给老男孩谈理想，当然要用经典的摇滚曲风。又迷幻又迪斯科，像是在夜店里说着酒话，究竟什么时候轮到我？ 究竟什么时候轮到我？ 像是一个过气的玩笑，有些黑色。<br>说到摇滚老炮，首先想到老崔，不知道这次他在这首歌里点了哪把火，一不小心成了&amp;quot;特别感谢&amp;quot;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319969132)<br><br>2017-08-17 22:04<br>赞(1) 踩(0) | <div>好酷酷酷哒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3516744)<br> <br>2017-08-17 21:56<br>赞(1) 踩(0) | <div>disco感觉 好酷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6166639)<br><br>2017-08-17 21:37<br>赞(0) 踩(0) | <div>QNMD像谁谁谁，这首歌现场多棒你知道么？</div> |
@@ -646,7 +646,7 @@ Huh 我只有一个梦想<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116799180)<br>我只是希望我们未曾见面，...<br>2017-08-17 16:42<br>赞(0) 踩(0) | <div>s是什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116799180)<br>我只是希望我们未曾见面，...<br>2017-08-17 16:40<br>赞(0) 踩(0) | <div>通过这首歌我知道他们只有一个梦想。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4718206)<br>Hey you<br>2017-08-17 16:20<br>赞(0) 踩(0) | <div>听前奏的第一声我以为我打开了老友记</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13075871)<br>僕の孤独が魚だったら<br>2017-08-17 16:03<br>赞(322) 踩(0) | <div>大概独立音乐人的歌迷是最不包容的一群人，他们喜欢的音乐人必须一直停留在他们喜欢的那首歌的状态，不能有新的尝试，有变化就是变流行了变口水了去你个大西瓜，欧叔怎么做音乐要一个只知道免费听歌的人评判了，你喜欢 他们就多一毛钱收入了？给你能的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13075871)<br>僕の孤独が魚だったら<br>2017-08-17 16:03<br>赞(322) 踩(0) | <div>大概独立音乐人的歌迷是最不包容的一群人，他们喜欢的音乐人必须一直停留在他们喜欢的那首歌的状态，不能有新的尝试，有变化就是变流行了变口水了<br>去你个大西瓜，欧叔怎么做音乐要一个只知道免费听歌的人评判了，你喜欢 他们就多一毛钱收入了？给你能的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280183193)<br> <br>2017-08-17 16:16<br>赞(0) 踩(0) | <div>音乐拯救不了他们</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7854717)<br>成都Veronica后摇...<br>2017-08-17 19:50<br>赞(0) 踩(0) | <div>这些人心理疾病</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37126518)<br>在每个深夜清晨在每个午后...<br>2017-08-18 14:48<br>赞(0) 踩(0) | <div>emmmmm&amp;hellip;&amp;hellip;你说的很有道理，可是你五一没有陪我听这首歌的现场 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
@@ -675,7 +675,7 @@ Huh 我只有一个梦想<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15489958)<br>无<br>2017-08-17 13:58<br>赞(0) 踩(0) | <div>啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207515001)<br> <br>2017-08-17 13:57<br>赞(0) 踩(0) | <div>唔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48393403)<br>一丁的远方有音乐<br>2017-08-17 13:35<br>赞(1) 踩(0) | <div>个人好喜欢这首歌的编曲!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7620119)<br><br>2017-08-17 13:34<br>赞(2) 踩(0) | <div>先站边，我喜欢声音玩具。关于这首歌，曲子和题目一样尴尬。老欧，别这样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7620119)<br><br>2017-08-17 13:34<br>赞(2) 踩(0) | <div>先站边，我喜欢声音玩具。<br><br>关于这首歌，曲子和题目一样尴尬。老欧，别这样</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39188163)<br>Midas Touch<br>2017-08-18 22:34<br>赞(0) 踩(0) | <div>why not？[带墨镜笑]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9134247)<br>音乐，给了我们阅读和品味...<br>2017-08-17 13:34<br>赞(0) 踩(0) | <div>来深圳吗？敢来深圳宣传梦想？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34849358)<br>停堤听浪。<br>2017-08-17 13:33<br>赞(0) 踩(0) | <div>我来了</div> |
@@ -683,8 +683,8 @@ Huh 我只有一个梦想<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64733062)<br>晓看天色暮看云～<br>2017-08-17 13:22<br>赞(0) 踩(0) | <div>I have a 坠母</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/584812)<br>可能也许大概是<br>2017-08-17 12:48<br>赞(0) 踩(0) | <div>很奇怪！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74665690)<br> <br>2017-08-17 12:42<br>赞(0) 踩(0) | <div>Funky！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246958774)<br>无所谓，更无所畏。<br>2017-08-17 12:36<br>赞(1) 踩(0) | <div>一人有一个梦想一人有一个梦醒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2961001)<br>认真的失败者<br>2017-08-17 12:35<br>赞(0) 踩(0) | <div>带了点新世的辉煌与灯火少了些旧时的沉醉和戏谑想来是不惑年也有了新的梦想？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246958774)<br>无所谓，更无所畏。<br>2017-08-17 12:36<br>赞(1) 踩(0) | <div>一人有一个梦想<br>一人有一个梦醒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2961001)<br>认真的失败者<br>2017-08-17 12:35<br>赞(0) 踩(0) | <div>带了点新世的辉煌与灯火<br>少了些旧时的沉醉和戏谑<br>想来是不惑年<br>也有了新的梦想？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309297767)<br>欢喜<br>2017-08-17 12:33<br>赞(2) 踩(0) | <div>声玩现实了，怎么感觉为综艺节目作铺垫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83530626)<br>危险常备吸引力<br>2017-08-17 12:28<br>赞(1) 踩(0) | <div>三份工真的很累，新歌疯狂打call</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304081964)<br>随时准备感动，随时准备热...<br>2017-08-17 12:28<br>赞(0) 踩(0) | <div>幸福在哪里</div> |
@@ -706,7 +706,7 @@ Huh 我只有一个梦想<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285329269)<br> <br>2017-08-17 11:19<br>赞(0) 踩(0) | <div>卧槽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52096826)<br><br>2017-08-17 11:19<br>赞(0) 踩(0) | <div>你们是一流的 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11662974)<br>All for you<br>2017-08-17 11:18<br>赞(0) 踩(0) | <div>只是单纯喜欢开头的音色 和男孩里边一首配乐很像</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2017-08-17 11:15<br>赞(0) 踩(0) | <div>反正我骄傲的描述了我的梦想没错 听出你的小骄傲了~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4769419)<br>我没有被你改写一生怎配有...<br>2017-08-17 11:15<br>赞(0) 踩(0) | <div>反正我骄傲的描述了我的梦想<br><br>没错 听出你的小骄傲了~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300007168)<br><br>2017-08-17 11:13<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49394099)<br>我还没想好要写什么...<br>2017-08-17 11:11<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35486019)<br> <br>2017-08-17 10:55<br>赞(0) 踩(0) | <div>为老欧 咏哥疯狂打call</div> |

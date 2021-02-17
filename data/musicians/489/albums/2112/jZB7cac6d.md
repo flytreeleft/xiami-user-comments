@@ -52,9 +52,9 @@ ISRC CN-E04-95-308-04
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2020-03-14 19:39<br>赞(3) 踩(0) | <div>&amp;quot;我一直觉得 爱情最残忍的地方在于从它发生的最初就已经到达巅峰那种怦然心动那种想要收割对方的强烈欲望那种迫不及待想要到达未来的期许都在恋爱的开始就已经被预支从此往后 再怎么走都是下坡路&amp;quot; ​</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43875708)<br> 遣词造句 穿山过水 他...<br>2020-03-14 19:39<br>赞(3) 踩(0) | <div>&amp;quot;我一直觉得 爱情最残忍的地方在于<br>从它发生的最初就已经到达巅峰<br>那种怦然心动<br>那种想要收割对方的强烈欲望<br>那种迫不及待想要到达未来的期许<br>都在恋爱的开始就已经被预支<br>从此往后 再怎么走都是下坡路&amp;quot; ​</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192836355)<br><br>2017-09-20 14:06<br>赞(1) 踩(0) | <div>一直爱，永远爱，最爱的民谣歌手！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286389380)<br>冷冷清清的风风火火<br>2017-08-13 00:31<br>赞(1) 踩(0) | <div>唉，虾米没版权</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8664262)<br>宁为一世，不为一时<br>2015-10-08 00:37<br>赞(0) 踩(0) | <div>#宁可音乐#在为数不多的时间，听这首歌，还是蛮舒服的……都好好的……日子还长……</div> |
@@ -69,7 +69,7 @@ ISRC CN-E04-95-308-04
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4087026)<br><br>2014-04-19 20:23<br>赞(1) 踩(0) | <div>也太怀旧了 ：D</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9451105)<br><br>2014-03-03 16:06<br>赞(7) 踩(0) | <div>老狼的声音真好听。唱校园青春的，还有比老狼更好的么？自己出生那个年代的歌，二十多岁的我竟如此喜欢，可见这歌里的有些东西，始终未曾改变。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2014-02-10 22:33<br>赞(0) 踩(0) | <div>心 境不二</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-23 07:31<br>赞(1) 踩(0) | <div>在我们脸上写下人生无常</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-12-23 07:31<br>赞(1) 踩(0) | <div>在我们脸上<br>写下人生无常</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3560482)<br><br>2013-12-06 14:57<br>赞(0) 踩(0) | <div>万水千山走遍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16920369)<br>fit<br>2013-08-21 11:56<br>赞(0) 踩(0) | <div>很好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15912232)<br><br>2013-06-10 21:10<br>赞(1) 踩(0) | <div>一直都在听的歌快二十年了</div> |
@@ -77,9 +77,9 @@ ISRC CN-E04-95-308-04
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1076630)<br><br>2013-05-11 20:37<br>赞(0) 踩(0) | <div>老狼的《当爱已成歌》，致我们逝去的青春年少的似水流年。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14378128)<br><br>2013-05-02 02:03<br>赞(1) 踩(0) | <div>就是喜欢老歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4129272)<br><br>2013-04-05 11:57<br>赞(0) 踩(0) | <div>当爱已成歌，唱歌的人已变成风景。。。在我们脸上写下，人生无常。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12307273)<br><br>2013-04-05 11:50<br>赞(0) 踩(0) | <div>教我们青春的从前漂流在四方的痴心少年让我们心醉的时间看我们万水千山走遍教我们青春的蓝蓝的天漂流在四方的痴心少年让我们心碎的似水流年看我们万水千山走遍--老狼《爱已成歌》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12307273)<br><br>2013-04-05 11:50<br>赞(0) 踩(0) | <div>教我们青春的从前<br>漂流在四方的痴心少年<br>让我们心醉的时间<br>看我们万水千山走遍<br>教我们青春的蓝蓝的天<br>漂流在四方的痴心少年<br>让我们心碎的似水流年<br>看我们万水千山走遍<br>--老狼《爱已成歌》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9451105)<br><br>2013-03-23 22:18<br>赞(0) 踩(0) | <div>漂流在四方的痴心少年。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3141606)<br><br>2012-09-17 18:59<br>赞(0) 踩(0) | <div>在我们脸上写下人生无常教我们青春的从前漂流在四方的痴心少年老狼的歌总这么伤感。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3141606)<br><br>2012-09-17 18:59<br>赞(0) 踩(0) | <div>在我们脸上<br>写下人生无常<br>教我们青春的从前<br>漂流在四方的痴心少年<br>老狼的歌总这么伤感。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10292394)<br>玩的就是心跳么<br>2012-08-30 16:32<br>赞(0) 踩(0) | <div>爱已成歌，希望我们的歌声会变得更美丽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3552442)<br><br>2012-08-14 21:20<br>赞(0) 踩(0) | <div>偶然的天晴，偶然的谈起旧日电影，相爱的人在黄昏像童话一样别离，在我们脸上写下人生无常。教我们青春的从前，漂流在四方的痴心少年，让我们心醉的时间，看我们万水千山走遍。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63024)<br><br>2012-08-08 15:42<br>赞(0) 踩(0) | <div>说说你喜欢它的理由：</div> |

@@ -45,12 +45,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11570024)<br>樂貝帝斯卡<br>2020-03-25 21:16<br>赞(0) 踩(0) | <div>翻唱得別有一番風味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4113881)<br><br>2019-11-20 14:36<br>赞(3) 踩(0) | <div>很好 · 也很喜欢  <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403378312)<br><br>2019-06-07 01:24<br>赞(0) 踩(0) | <div>男人对美女都有感觉，歌也一样爱屋及乌，哦？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-04-20 16:22<br>赞(0) 踩(0) | <div>编曲：乐观音乐制作人：太妃堂文化社</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-04-20 16:22<br>赞(0) 踩(0) | <div>编曲：乐观音乐<br>制作人：太妃堂文化社</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297339809)<br><br>2019-02-26 06:44<br>赞(0) 踩(0) | <div>xjux <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/53d831ca9031b187055987747dbab37d.png"> <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351159370)<br>我还没想好要写什么...<br>2018-08-30 18:48<br>赞(0) 踩(0) | <div>凭唱功出道的美女，不错！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/654514)<br><br>2018-06-22 19:19<br>赞(0) 踩(0) | <div>好听</div> |
@@ -80,4 +80,4 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3489466)<br> <br>2016-01-24 06:29<br>赞(0) 踩(0) | <div><q><b>(￣(工)￣)MrJK说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1470741)<br><br>2017-10-28 00:11<br>赞(0) 踩(0) | <div>这首歌是《宁夏》的原创者李正帆老师专门为郁可唯重新录制的，是李正帆老师心里最初的那个《宁夏》。与静茹的《宁夏》虽然歌词和曲调都一样，但完全是两种不同的风格和味道。请怀着开放的心态去聆听吧~郁可唯声音里的婉转温柔将另一个明媚温暖的宁夏呈现在眼前，我很喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364391)<br>Moral Peanut<br>2011-07-07 21:34<br>赞(0) 踩(0) | <div>前半段宁夏山歌，后半段翻唱《宁夏》，真尼玛省时省力，作为宁夏人的我都觉得情何以堪了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2011-07-04 16:53<br>赞(23) 踩(0) | <div>作为静茹粉丝表示对这个翻唱——也非常有感觉！四星！此版《宁夏》由音乐怪才李正帆为郁可唯重新编曲制作。几年前李正帆到宁夏听到当地的族人唱着嘹亮的山歌，从而有了这首歌最初的创作灵感，在此前的“滚石 30演唱会”上，李正帆将《宁夏》重新编曲，想要借由郁可唯的声音将这首歌回归最初的摸样。歌曲以宁夏特色民歌“花儿”开篇，民族风情浓郁的山歌，不仅展现出了郁可唯完美扎实的唱功，使歌曲较之前版本更显得韵味十足，同时也流露出玩音乐的过人胆识和深厚实力，使《宁夏》回归最初的感动。郁可唯用自己对音乐的悟性，声音时而高亢空灵，时而温婉，赋予这首歌丰富的层次感，让所有听众为之惊叹。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355865)<br>Let it go, l...<br>2011-07-04 16:53<br>赞(23) 踩(0) | <div>作为静茹粉丝表示对这个翻唱——也非常有感觉！四星！<br><br>此版《宁夏》由音乐怪才李正帆为郁可唯重新编曲制作。几年前李正帆到宁夏听到当地的族人唱着嘹亮的山歌，从而有了这首歌最初的创作灵感，在此前的“滚石 30演唱会”上，李正帆将《宁夏》重新编曲，想要借由郁可唯的声音将这首歌回归最初的摸样。歌曲以宁夏特色民歌“花儿”开篇，民族风情浓郁的山歌，不仅展现出了郁可唯完美扎实的唱功，使歌曲较之前版本更显得韵味十足，同时也流露出玩音乐的过人胆识和深厚实力，使《宁夏》回归最初的感动。郁可唯用自己对音乐的悟性，声音时而高亢空灵，时而温婉，赋予这首歌丰富的层次感，让所有听众为之惊叹。</div> |

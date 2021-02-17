@@ -3,7 +3,7 @@ Tebby
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0b1b630ba5b01f070dfac3ee45e3922c.jpg)<br>Tebby](https://i.xiami.com/tebbymusic) | **播放数**: 7990279<br>**粉丝数**: 769<br>**评论数**: 59<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 原声 Soundtrack<br> |
+| [![](../../images/musicians/0b1b630ba5b01f070dfac3ee45e3922c.jpg)<br>Tebby](https://i.xiami.com/tebbymusic) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 原声 Soundtrack<br>**播放数**: 7990279<br>**粉丝数**: 769<br>**评论数**: 59<br> |
 
 ## 档案
 
@@ -65,8 +65,8 @@ Tebby
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404748839)<br>噓。。靜靜聽音樂就好<br>2019-06-01 23:48<br>赞(0) 踩(0) | <div>謝謝你的演繹。淚水止不住流，那是因為感動，因為我好想他</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2019-05-03 02:56<br>赞(0) 踩(0) | <div>10873</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303976160)<br>狠一点<br>2019-01-01 21:54<br>赞(1) 踩(0) | <div>挺好听的，就是下载不起啊 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |

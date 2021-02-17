@@ -3,13 +3,10 @@ Dowyy
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/30daf0923fa0bb23ac6a64b35f311af8.jpg)<br>Dowyy](https://i.xiami.com/shadow) | **播放数**: 30930649<br>**粉丝数**: 467<br>**评论数**: 43<br>**地区**: <br>**风格**: 流行说唱 Pop Rap, 地下说唱 Underground Hip Hop, 陷阱说唱 Trap Rap<br> |
+| [![](../../images/musicians/30daf0923fa0bb23ac6a64b35f311af8.jpg)<br>Dowyy](https://i.xiami.com/shadow) | **地区**: <br>**风格**: 流行说唱 Pop Rap, 地下说唱 Underground Hip Hop, 陷阱说唱 Trap Rap<br>**播放数**: 30930649<br>**粉丝数**: 467<br>**评论数**: 43<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -55,8 +52,8 @@ Dowyy
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44648524)<br>我还没想好要写什么...<br>2021-01-05 15:16<br>赞(0) 踩(0) | <div>步步惊心丽的这个版本是我听过最好听的，虾米不玩要转去网易了，老大能把这首曲子发我不 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408678603)<br><br>2020-01-28 14:06<br>赞(0) 踩(0) | <div>粤语rap真舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116516164)<br><br>2018-11-27 20:27<br>赞(0) 踩(0) | <div>那个日本旋死乐队呢？</div> |

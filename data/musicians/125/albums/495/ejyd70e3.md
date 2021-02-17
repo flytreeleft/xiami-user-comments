@@ -94,8 +94,8 @@ rap:<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4842408)<br>Foxyooo  大家来...<br>2020-07-20 09:50<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344838013)<br><br>2018-02-08 02:34<br>赞(1) 踩(0) | <div>爽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335986191)<br><br>2017-11-22 10:02<br>赞(3) 踩(0) | <div>我们都是小黄豆</div> |
@@ -116,14 +116,14 @@ rap:<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12690979)<br><br>2014-10-27 19:02<br>赞(0) 踩(0) | <div>这曲如果是原创那真的太巧了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12690979)<br><br>2014-10-27 12:11<br>赞(0) 踩(0) | <div>以前还挺喜欢的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2831815)<br>槽鸡有米刀汤近，野鹤无粮...<br>2014-10-20 23:34<br>赞(0) 踩(0) | <div>夜安。各位。晨安。各位。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2119363)<br>喂！<br>2014-09-30 20:44<br>赞(0) 踩(0) | <div>把后门打开，五指合起来。我一定没想歪【</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2119363)<br>喂！<br>2014-09-30 20:44<br>赞(0) 踩(0) | <div>把后门打开，五指合起来。<br>我一定没想歪【</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/588121)<br>我还没想好要写什么...<br>2014-09-07 14:46<br>赞(0) 踩(0) | <div>本来就是翻贾斯丁的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34193326)<br><br>2014-04-17 13:56<br>赞(0) 踩(0) | <div>我们都是小黄豆～～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11410422)<br>yuefeng.li<br>2014-03-07 12:24<br>赞(0) 踩(0) | <div>一个不熟悉的现象我们的互相 勉强搞得整个地区受到影响使我联想 到这个倾向就像百年前 大豆 投降</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11410422)<br>yuefeng.li<br>2014-03-07 12:24<br>赞(0) 踩(0) | <div>一个不熟悉的现象<br>我们的互相 勉强<br>搞得整个地区受到影响<br>使我联想 到这个倾向就像<br>百年前 大豆 投降</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/996277)<br>‏‏<br>2014-02-28 07:21<br>赞(0) 踩(0) | <div>突然好想笃黄豆来吃 馋</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1903839)<br><br>2014-02-22 00:29<br>赞(0) 踩(0) | <div>为何要争斗 要多少钱才够在自己院子里要闹到什么时候</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1903839)<br><br>2014-02-22 00:29<br>赞(0) 踩(0) | <div>为何要争斗 要多少钱才够<br>在自己院子里要闹到什么时候</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28942178)<br><br>2013-12-03 15:34<br>赞(0) 踩(0) | <div>最后送你们的歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4971843)<br><br>2013-11-20 13:17<br>赞(0) 踩(0) | <div>同一个梦同一首歌放送着我们的心痛希望你会听懂我心中激动我们都是小黄豆活在同一个宇宙一粒豆挤不出油别再让彼此难受外人叫我们大豆应该一起去奋斗不必急着到处走再过不久会出头</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4971843)<br><br>2013-11-20 13:17<br>赞(0) 踩(0) | <div>同一个梦<br>同一首歌放送<br>着我们的心痛<br>希望你会听懂<br>我心中激动<br>我们都是小黄豆<br>活在同一个宇宙<br>一粒豆挤不出油<br>别再让彼此难受<br>外人叫我们大豆<br>应该一起去奋斗<br>不必急着到处走<br>再过不久会出头</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/907971)<br>如果你喜欢怪人。<br>2013-08-04 20:25<br>赞(0) 踩(0) | <div>我们都是小黄豆 活在同一个宇宙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17862115)<br><br>2013-07-22 22:59<br>赞(0) 踩(0) | <div>我们都是小黄豆 活在同一个宇宙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/603919)<br>只有音乐最安全<br>2013-07-20 22:07<br>赞(0) 踩(0) | <div>我们都是小黄豆，活在同一个宇宙~~~</div> |
@@ -131,7 +131,7 @@ rap:<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17196388)<br><br>2013-07-16 13:35<br>赞(0) 踩(0) | <div>送给弟弟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294340)<br>( ..缓冲☮))))<br>2012-09-26 20:22<br>赞(0) 踩(0) | <div>绝逼小学的经典曲目</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2378690)<br><br>2012-09-15 19:18<br>赞(0) 踩(0) | <div>@变个小老虎 真心爱国歌曲啊。为何要争斗 要多少钱才够 在自己院子里要闹 到什么时候 外面的事太多 墙太厚看不透 其实我们都属于同样一个节奏</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4971843)<br><br>2012-08-10 12:05<br>赞(0) 踩(0) | <div>like this!【外面的事太多墙太厚看不透其实我们都属于同样一个节奏把后门打开 看看外头朋友 快来握我的手五指合起来变成拳头要我怎么让你懂我们都是小黄豆活在同一个宇宙一粒豆挤不出油别再让彼此难受外人叫我们大豆应该一起去奋斗不必急着到处走再过不久会出头】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4971843)<br><br>2012-08-10 12:05<br>赞(0) 踩(0) | <div>like this!【外面的事太多<br>墙太厚看不透<br>其实我们都属于同样一个节奏<br>把后门打开 看看外头<br>朋友 快来握我的手<br>五指合起来变成拳头<br>要我怎么让你懂<br>我们都是小黄豆<br>活在同一个宇宙<br>一粒豆挤不出油<br>别再让彼此难受<br>外人叫我们大豆<br>应该一起去奋斗<br>不必急着到处走<br>再过不久会出头】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5812736)<br><br>2012-06-02 20:58<br>赞(0) 踩(0) | <div>我们都是小黄豆~活在同一个宇宙</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380249)<br>没煮过苍蝇的汤我不喝<br>2011-08-07 13:22<br>赞(0) 踩(0) | <div>很有爱的一首歌 绝对可以提供一种很闹很嗨的氛围</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4739345)<br><br>2011-07-27 19:01<br>赞(0) 踩(0) | <div>调子很拽嘛</div> |

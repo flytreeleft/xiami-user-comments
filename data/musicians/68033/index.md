@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/f9e1931a09ef13484c354f0e273ed837.jpg)<br>爱朵女孩](https://i.xiami.com/idolgirls) | **播放数**: 6417530<br>**粉丝数**: 1234<br>**评论数**: 38<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/f9e1931a09ef13484c354f0e273ed837.jpg)<br>爱朵女孩](https://i.xiami.com/idolgirls) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 6417530<br>**粉丝数**: 1234<br>**评论数**: 38<br> |
 
 ## 档案
 
@@ -75,8 +75,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343645755)<br>666<br>2020-10-26 15:34<br>赞(0) 踩(0) | <div>曾惜是这个组合出来的？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326863218)<br>开心鸭<br>2019-03-25 00:16<br>赞(1) 踩(0) | <div>我恰好是第一千个喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286664973)<br>J.seph<br>2018-08-20 12:14<br>赞(1) 踩(0) | <div>woc 艺人相册那里放了少时?</div> |

@@ -40,5 +40,3 @@ I shall but love thee better after death
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

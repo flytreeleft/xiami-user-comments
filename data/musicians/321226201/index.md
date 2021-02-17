@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/a89709c70cc9cfce459f2f161e6edc79.jpg)<br>镜决](https://i.xiami.com/mirror-dec) | **播放数**: 2665545<br>**粉丝数**: 555<br>**评论数**: 100<br>**地区**: China 中国大陆<br>**风格**: 中国民乐 Chinese Folk Music, 同人音乐 DouJin, 中国风 China-Wave, 日本新世纪 Japanese New Age, 日本动漫游戏 Japanese ACG<br> |
+| [![](../../images/musicians/a89709c70cc9cfce459f2f161e6edc79.jpg)<br>镜决](https://i.xiami.com/mirror-dec) | **地区**: China 中国大陆<br>**风格**: 中国民乐 Chinese Folk Music, 同人音乐 DouJin, 中国风 China-Wave, 日本新世纪 Japanese New Age, 日本动漫游戏 Japanese ACG<br>**播放数**: 2665545<br>**粉丝数**: 555<br>**评论数**: 100<br> |
 
 ## 档案
 
@@ -89,8 +89,8 @@ Bilibili 哔哩哔哩动画 @镜决<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319490173)<br>武汉大学，完美，撒花！！...<br>2021-01-31 19:52<br>赞(1) 踩(0) | <div>镜决姐姐的笛子超好听的！这次到虾米道别啦！镜决姐姐要越来越美丽喔！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10118592)<br>中国风元素的竹笛Remi...<br>2021-01-11 19:06<br>赞(2) 踩(0) | <div>创建了这个镜决粉团小群, qq群号： 830278878，之后有作品和一些想法活动也会分享在群里面，或者大家有什么想对我说的话，想和我一起合作的乐器也可以在群里说哟，期待与大家见面♡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2021-01-08 11:57<br>赞(0) 踩(0) | <div>45965</div> |
@@ -121,7 +121,7 @@ Bilibili 哔哩哔哩动画 @镜决<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379813721)<br>到达胜利之前，无法回头<br>2019-05-06 21:58<br>赞(3) 踩(0) | <div>期待新作品多时啦，才女，加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10118592)<br>中国风元素的竹笛Remi...<br>2019-07-09 20:05<br>赞(0) 踩(0) | <div>谢谢一直以来的支持和耐心(๑‾ ꇴ ‾๑)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352745917)<br>好人有好报<br>2019-02-13 05:48<br>赞(3) 踩(0) | <div>好听好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51610072)<br>f@ck 5 cents...<br>2019-01-19 18:35<br>赞(4) 踩(0) | <div>很少听笛子演奏这不错 好听 收藏了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51610072)<br>f@ck 5 cents...<br>2019-01-19 18:35<br>赞(4) 踩(0) | <div>很少听笛子演奏<br>这不错 好听 收藏了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46534105)<br>暂无签名~<br>2018-12-20 16:27<br>赞(3) 踩(0) | <div>大好き!可以出几个风格的合集专吗切来切去有点麻烦 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">小姐姐很棒!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10118592)<br>中国风元素的竹笛Remi...<br>2018-12-20 18:09<br>赞(0) 踩(0) | <div>试试放进个人的精选集 搞定~ <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35735395)<br> <br>2018-12-19 16:02<br>赞(4) 踩(0) | <div>若能时常听到这样感人的笛声，人生也会少些遗憾。</div> |
@@ -167,7 +167,7 @@ Bilibili 哔哩哔哩动画 @镜决<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2435200)<br>暂无签名~<br>2015-12-10 08:36<br>赞(2) 踩(0) | <div>好美的笛声啊(&amp;gt;ω&amp;lt;*)</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10118592)<br>中国风元素的竹笛Remi...<br>2016-01-01 01:30<br>赞(0) 踩(0) | <div>谢谢ww</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2435200)<br>暂无签名~<br>2016-01-02 01:00<br>赞(0) 踩(0) | <div><q><b>镜决说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11640829)<br>._.<br>2015-05-28 17:58<br>赞(2) 踩(0) | <div>期待个这样的Dubstep\(≧▽≦)/<a href="http://www.xiami.com/song/1772443843" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1772443843</a>其实人也不必要太多, 以免出现无脑的评论</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11640829)<br>._.<br>2015-05-28 17:58<br>赞(2) 踩(0) | <div>期待个这样的Dubstep\(≧▽≦)/<br><a href="http://www.xiami.com/song/1772443843" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1772443843</a><br>其实人也不必要太多, 以免出现无脑的评论</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10118592)<br>中国风元素的竹笛Remi...<br>2015-05-30 00:31<br>赞(0) 踩(0) | <div>好赞！会尝试这种带民族风元素的Dubstep。谢谢推荐~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7989378)<br>-Inst-<br>2015-05-07 11:41<br>赞(2) 踩(0) | <div>支持！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10118592)<br>中国风元素的竹笛Remi...<br>2015-05-30 00:37<br>赞(0) 踩(0) | <div>(*^__^*) ~</div> |

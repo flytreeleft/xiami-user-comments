@@ -3,30 +3,25 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e26ce07229723bf239d8dd7a19bc94da.jpg)<br>刘胖子](https://i.xiami.com/suxiang520) | **播放数**: 11643148<br>**粉丝数**: 845<br>**评论数**: 55<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/e26ce07229723bf239d8dd7a19bc94da.jpg)<br>刘胖子](https://i.xiami.com/suxiang520) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 11643148<br>**粉丝数**: 845<br>**评论数**: 55<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
-| 名称 | 语种 | 唱片公司 | 发行时间 | 专辑类别 | 专辑风格 |
-| :--: | :-- | :-- | :-- | :-- | :-- |
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404573470)<br>阿森 你还在吗？(十年前...<br>2020-08-11 20:59<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/362552805)<br>灵魂大概早被污染，谁为了...<br>2020-06-16 00:43<br>赞(1) 踩(0) | <div>加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37567648)<br><br>2019-09-10 10:19<br>赞(2) 踩(0) | <div>来自广东？卷舌音发的这么溜，超出了广东人的能力……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421301903)<br><br>2019-09-06 22:53<br>赞(0) 踩(0) | <div>斑马唱得也太难听了吧，尤其突然升调的“斑马”！吓了我一跳。音乐是用来欣赏的，不是吓人的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423545724)<br><br>2019-07-12 11:32<br>赞(0) 踩(0) | <div>我果然是喜欢胖子的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247583406)<br>非常沉默，非常骄傲。从不...<br>2019-06-21 23:02<br>赞(0) 踩(0) | <div>卧槽才16岁？？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318600630)<br><br>2019-05-17 09:44<br>赞(0) 踩(0) | <div>如果 宋冬野没火 就应该是你了，加油小伙子 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318600630)<br><br>2019-05-17 09:44<br>赞(0) 踩(0) | <div>如果 宋冬野没火 就应该是你了，<br>加油小伙子 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/418937204)<br>蓦然回首，那人却在，灯火...<br>2019-03-23 09:33<br>赞(0) 踩(0) | <div>加油，喜欢你的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41654231)<br> <br>2018-12-02 16:38<br>赞(2) 踩(0) | <div>细腻又带有磁性的声线，喜欢!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282410761)<br>one day<br>2018-11-28 13:28<br>赞(3) 踩(0) | <div>很喜欢，很赞实力！也喜欢这种磁性的声音</div> |

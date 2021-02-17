@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/369b307453d086849126f685e1558b31.jpg)<br>王圳一](https://i.xiami.com/doiulod) | **播放数**: 2439378<br>**粉丝数**: 251<br>**评论数**: 22<br>**地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br> |
+| [![](../../images/musicians/369b307453d086849126f685e1558b31.jpg)<br>王圳一](https://i.xiami.com/doiulod) | **地区**: China 中国大陆<br>**风格**: 华语唱作人 Chinese Singer-Songwriter<br>**播放数**: 2439378<br>**粉丝数**: 251<br>**评论数**: 22<br> |
 
 ## 档案
 
@@ -25,14 +25,14 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212099038)<br>我还没想好要写什么...<br>2020-09-18 14:54<br>赞(0) 踩(0) | <div>这个声音，爱了爱了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59690012)<br><br>2020-07-23 16:18<br>赞(0) 踩(0) | <div>喜欢你的吉他弹唱，喜欢你温柔温暖的声音。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315194191)<br>永不丧失年轻人的热切<br>2020-02-20 21:42<br>赞(0) 踩(0) | <div>好听啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246787242)<br>我能聽到風裡有歌兒<br>2019-04-28 12:36<br>赞(0) 踩(0) | <div>这把嗓音很适合雨后凉凉的天气，四月正好。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11724420)<br><br>2019-03-02 04:15<br>赞(0) 踩(0) | <div>正在学吉他的我感觉发现了新大陆哦！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6479973)<br><br>2019-01-26 20:03<br>赞(0) 踩(0) | <div>很好听！听你唱歌可以平复心情，谢谢你。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6479973)<br><br>2019-01-26 20:03<br>赞(0) 踩(0) | <div>很好听！<br>听你唱歌可以平复心情，谢谢你。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44819990)<br>confused<br>2018-07-06 01:52<br>赞(0) 踩(0) | <div>很棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321520746)<br> <br>2017-09-17 20:23<br>赞(0) 踩(0) | <div>等新歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50469650)<br>我还没想好要写什么...<br>2017-08-29 19:46<br>赞(2) 踩(0) | <div>太好听了比心</div> |

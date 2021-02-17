@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/71e2a334dbacf0463ba890bc194a08fe.jpg)<br>樹妮妮Serrini](https://i.xiami.com/serrini) | **播放数**: 5518377<br>**粉丝数**: 7865<br>**评论数**: 225<br>**地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 文雅流行 Sophisti Pop, 粤语流行 Cantopop<br> |
+| [![](../../images/musicians/71e2a334dbacf0463ba890bc194a08fe.jpg)<br>樹妮妮Serrini](https://i.xiami.com/serrini) | **地区**: China 中国大陆<br>**风格**: 独立流行 Indie Pop, 文雅流行 Sophisti Pop, 粤语流行 Cantopop<br>**播放数**: 5518377<br>**粉丝数**: 7865<br>**评论数**: 225<br> |
 
 ## 档案
 
@@ -42,8 +42,8 @@ SERRINI 是一個蠻奇怪的唱作人，高產如母豬。
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431586724)<br>我还没想好要写什么...<br>2020-12-10 22:09<br>赞(0) 踩(0) | <div>E條女搞唱乜9？啊哈哈哈哈！真係好中意你啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7888098)<br>吃<br>2020-11-30 11:20<br>赞(0) 踩(0) | <div>高產如母豬？？？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270391073)<br><br>2020-10-28 01:15<br>赞(0) 踩(0) | <div>希望不要再因为不良发言给封禁。喜欢你的声音是在刺客伍六七的片尾曲。</div> |
@@ -74,7 +74,7 @@ SERRINI 是一個蠻奇怪的唱作人，高產如母豬。
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142824606)<br>We are one.<br>2019-11-23 23:21<br>赞(1) 踩(0) | <div>今天看刺客伍六七刷到你的歌了!!!!超好听!!!!虾米什么时候出啊!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330523715)<br><br>2019-11-23 22:20<br>赞(3) 踩(0) | <div>再也不见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330523715)<br><br>2019-11-23 22:20<br>赞(2) 踩(0) | <div>再见</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252346779)<br>#沖繩流浪貓<br>2019-11-23 19:57<br>赞(2) 踩(0) | <div>聽歌便可其他話咽在肚子里</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252346779)<br>#沖繩流浪貓<br>2019-11-23 19:57<br>赞(2) 踩(0) | <div>聽歌便可<br>其他話咽在肚子里</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306389937)<br>粤语歌没有世界末日<br>2019-12-10 22:01<br>赞(0) 踩(0) | <div>你怎么不叫她把话也咽在肚子里阿？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252346779)<br>#沖繩流浪貓<br>2019-12-15 20:36<br>赞(0) 踩(0) | <div><q><b>鼻鼻虫虫O说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7235001)<br>yoyoyo<br>2020-03-09 19:06<br>赞(0) 踩(0) | <div><q><b>陳可樂说：</b></q></div> |
@@ -88,7 +88,7 @@ SERRINI 是一個蠻奇怪的唱作人，高產如母豬。
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13735496)<br>青瓜過大海。<br>2019-11-17 12:13<br>赞(3) 踩(0) | <div>以防万一，先把歌都下载了吧。唉。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403942799)<br><br>2019-10-19 22:51<br>赞(1) 踩(0) | <div>10月27号上海站，不见不散。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34360863)<br> <br>2019-10-15 17:33<br>赞(2) 踩(0) | <div>高产如母猪可还行hhhh</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-10-14 09:04<br>赞(2) 踩(0) | <div>Serrini树妮妮钻石矿2019秋冬巡演10.25 杭州 MAO10.27 上海 Modernsky Lab11.02 西安 MAO11.03 北京 MAO11.09 重庆 寅派动力11.10 成都 NU SPACE11.16 厦门 星巢越中心11.17 南京 欧拉艺术空间11.29 长沙 红咖俱乐部12.01 武汉 L7 Livehouse12.07 广州 TU凸12.08 广州 TU凸 (下午场)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-10-14 09:04<br>赞(2) 踩(0) | <div>Serrini树妮妮钻石矿2019秋冬巡演<br><br>10.25 杭州 MAO<br>10.27 上海 Modernsky Lab<br><br>11.02 西安 MAO<br>11.03 北京 MAO<br><br>11.09 重庆 寅派动力<br>11.10 成都 NU SPACE<br><br>11.16 厦门 星巢越中心<br>11.17 南京 欧拉艺术空间<br><br>11.29 长沙 红咖俱乐部<br>12.01 武汉 L7 Livehouse<br><br>12.07 广州 TU凸<br>12.08 广州 TU凸 (下午场)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9299876)<br>反正想要的都不会实现！<br>2019-09-21 19:09<br>赞(0) 踩(0) | <div>声音我的菜 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429846453)<br><br>2019-09-18 12:46<br>赞(1) 踩(0) | <div>妮妮快来成都！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10147365)<br>未来，你好！<br>2019-08-10 19:27<br>赞(2) 踩(0) | <div>唱得几好，不过就系感觉粤语发音有D怪怪地。点都好啦，支持一下.</div> |
@@ -158,7 +158,7 @@ SERRINI 是一個蠻奇怪的唱作人，高產如母豬。
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35398542)<br>公众号：湾辟斯<br>2018-06-10 16:55<br>赞(0) 踩(0) | <div>今晚school见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201545455)<br> <br>2018-04-29 13:20<br>赞(1) 踩(0) | <div>萨妮妮会来上海吗 好喜欢你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6076438)<br>起身見頭暈，行路打倒褪。...<br>2018-04-11 02:52<br>赞(0) 踩(0) | <div>会城有个金毛玲</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332693721)<br>今天有個不是但願的願望<br>2018-04-06 04:04<br>赞(0) 踩(0) | <div>雖然聽歌的時候心情不是很好但是被翻牌了還是蠻開心的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332693721)<br>今天有個不是但願的願望<br>2018-04-06 04:04<br>赞(0) 踩(0) | <div>雖然聽歌的時候心情不是很好<br>但是被翻牌了還是蠻開心的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10310498)<br> <br>2018-04-02 02:31<br>赞(0) 踩(0) | <div>～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225398288)<br><br>2018-04-01 01:50<br>赞(0) 踩(0) | <div>听你的歌心情很好 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4230459)<br>嘿<br>2018-03-31 17:27<br>赞(0) 踩(0) | <div>鍾意哩種風格～</div> |

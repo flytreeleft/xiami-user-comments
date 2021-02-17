@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246991218)<br>谁若真心对我，我定拿命去...<br>2020-10-24 23:06<br>赞(0) 踩(0) | <div>好听好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274088463)<br>喜欢非洲节奏mix海地K...<br>2020-10-24 17:22<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44925253)<br>Four_0522<br>2020-10-24 12:33<br>赞(1) 踩(0) | <div></div> |
@@ -43,9 +40,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89305904)<br>可能他只是个人，但他不愿...<br>2016-05-04 18:59<br>赞(1) 踩(0) | <div>抖腿系列 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11468762)<br><br>2014-01-30 15:49<br>赞(3) 踩(0) | <div>张震岳funky house</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11459137)<br>爱HYC<br>2013-04-26 11:43<br>赞(0) 踩(0) | <div>哈哈啊哈</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1582817)<br>若收藏精选集已删除，请用...<br>2013-04-12 18:59<br>赞(1) 踩(0) | <div>这你嘛是　《机器人走路》(Robot Walking)　嘛？！！放屁　歌儿都传错了？！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11661052)<br><br>2013-03-11 20:56<br>赞(1) 踩(0) | <div>帅的标准酷的标准炫的标准我都差一点笨了一点慢了一点胖了一点我都会承认不要怪我不要骂我不要笑我整天碎碎念我想说的我想要的我想做的是个好男人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6982580)<br><br>2013-01-22 14:02<br>赞(2) 踩(0) | <div>哈哈，活活揭穿了资本家，高富帅的面孔~~~~太帅了我们张震岳~~~谁说高富帅西装革领的就很好，痞子英雄在哪里~~？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1582817)<br>若收藏精选集已删除，请用...<br>2013-04-12 18:59<br>赞(1) 踩(0) | <div>这你嘛是　《机器人走路》(Robot Walking)　嘛？！！<br><br>放屁　歌儿都传错了？！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11661052)<br><br>2013-03-11 20:56<br>赞(1) 踩(0) | <div>帅的标准酷的标准炫的标准我都差一点<br>笨了一点慢了一点胖了一点我都会承认<br>不要怪我不要骂我不要笑我整天碎碎念<br>我想说的我想要的我想做的是个好男人</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6982580)<br><br>2013-01-22 14:02<br>赞(2) 踩(0) | <div>哈哈，活活揭穿了资本家，高富帅的面孔~~~~太帅了我们张震岳~~~<br>谁说高富帅西装革领的就很好，痞子英雄在哪里~~？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8113805)<br><br>2012-05-16 17:33<br>赞(1) 踩(0) | <div>因为他在放屁！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7211236)<br><br>2012-02-13 11:17<br>赞(0) 踩(0) | <div>好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4810994)<br>我还没想好要写什么...<br>2011-09-01 08:01<br>赞(0) 踩(0) | <div>@张震岳 十九岁生日见。哦活活活活活</div> |

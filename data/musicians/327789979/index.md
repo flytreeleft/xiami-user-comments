@@ -3,7 +3,7 @@ Lauv
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/69a14d10313f6fc5e5d35cb06263f600.jpg)<br>Lauv](https://i.xiami.com/lauv) | **播放数**: 19828805<br>**粉丝数**: 19060<br>**评论数**: 591<br>**地区**: United States of America 美国<br>**风格**: 独立流行 Indie Pop, 流行 Pop, 欧美流行 Western Pop, 独立流行 Indie Pop, 根源唱作人 Singer-Songwriter<br> |
+| [![](../../images/musicians/69a14d10313f6fc5e5d35cb06263f600.jpg)<br>Lauv](https://i.xiami.com/lauv) | **地区**: United States of America 美国<br>**风格**: 独立流行 Indie Pop, 流行 Pop, 欧美流行 Western Pop, 独立流行 Indie Pop, 根源唱作人 Singer-Songwriter<br>**播放数**: 19828805<br>**粉丝数**: 19060<br>**评论数**: 591<br> |
 
 ## 档案
 
@@ -75,8 +75,8 @@ Lauv的音乐基于R&B与电子音乐，迷幻却又清新不腻。<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352371292)<br><br>2021-01-13 04:27<br>赞(0) 踩(0) | <div>哇，他的歌都能听，没有限制版权&amp;copy;️太好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379162683)<br>我想要记住你们，我想要你...<br>2020-12-31 17:30<br>赞(0) 踩(0) | <div>✧*｡</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309263667)<br>善始善终<br>2020-10-01 08:49<br>赞(1) 踩(0) | <div>火钳刘明</div> |
@@ -123,10 +123,10 @@ Lauv的音乐基于R&B与电子音乐，迷幻却又清新不腻。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434071958)<br><br>2020-02-21 20:46<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8226204)<br>≡<br>2020-02-21 12:23<br>赞(1) 踩(0) | <div>新专辑一共21首歌喔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332498160)<br> You'll Love...<br>2020-01-15 11:31<br>赞(0) 踩(0) | <div>愛了愛了又回來了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2020-01-03 04:27<br>赞(0) 踩(0) | <div>~how i'm feeling~Genre: PopReleased: 2020-03-06T08:00:00Z℗ 2020 Lauv under exclusive license to AWAL Recordings America, Inc.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2020-01-03 04:27<br>赞(0) 踩(0) | <div>~how i'm feeling~<br>Genre: Pop<br>Released: 2020-03-06T08:00:00Z<br>℗ 2020 Lauv under exclusive license to AWAL Recordings America, Inc.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2020-01-03 04:26<br>赞(0) 踩(0) | <div>Lauv – Changes</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49828336)<br> <br>2019-12-09 22:19<br>赞(3) 踩(0) | <div>他喜欢女生。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-11-18 12:40<br>赞(4) 踩(0) | <div>2020.06.21 北京 北展剧场2020.06.23 上海 ModerSky Lab</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-11-18 12:40<br>赞(4) 踩(0) | <div>2020.06.21 北京 北展剧场<br>2020.06.23 上海 ModerSky Lab</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251829155)<br><br>2019-10-10 20:43<br>赞(0) 踩(0) | <div>为什么没有Superhero</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-09-20 11:58<br>赞(0) 踩(0) | <div>-</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356763773)<br>我还没想好要写什么...<br>2019-09-18 23:45<br>赞(0) 踩(0) | <div>。</div> |
@@ -135,17 +135,17 @@ Lauv的音乐基于R&B与电子音乐，迷幻却又清新不腻。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327468673)<br>真诚换真诚<br>2019-08-21 10:49<br>赞(0) 踩(0) | <div>六公主</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342295613)<br>长风.<br>2019-08-10 21:49<br>赞(0) 踩(0) | <div>我不管，我就是要给他赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2019-08-01 23:47<br>赞(0) 踩(0) | <div>Lauv &amp;ndash; f**k, i&amp;rsquo;m lonely (feat. Anne-Marie) [From &amp;ldquo;13 Reasons Why: Season 3&amp;rdquo;]</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427876256)<br>☁   ☁☀☁    ☁...<br>2019-07-28 19:18<br>赞(1) 踩(0) | <div>希望你不会火，挣的钱刚刚够用，偶尔有曝光，永远因为音乐快乐✨✨✨✨✨</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427876256)<br>☁   ☁☀☁    ☁...<br>2019-07-28 19:18<br>赞(1) 踩(0) | <div>希望你不会火，挣的钱刚刚够用，<br>偶尔有曝光，永远因为音乐快乐<br>✨✨✨✨✨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318104586)<br> 再见再见了再见<br>2019-07-18 19:47<br>赞(1) 踩(0) | <div>粉丝涨得也太快了点吧，无法接受哼╯^╰</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215379991)<br>簽名不重要重要的是你聽什...<br>2019-07-02 00:46<br>赞(0) 踩(0) | <div>ﻌﻌﻌ❤︎</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4131849)<br>网易云：非人類兔子Agy...<br>2019-07-01 23:20<br>赞(0) 踩(0) | <div>啥子情況，都下架了，是惱什麼鬼？？？？？？the otherk可是我入股另類r b的啟蒙！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4131849)<br>网易云：非人類兔子Agy...<br>2019-07-01 23:20<br>赞(0) 踩(0) | <div>啥子情況，都下架了，是惱什麼鬼？？？？？？<br>the otherk可是我入股另類r b的啟蒙！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2019-05-29 09:50<br>赞(0) 踩(0) | <div>11166</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2019-05-18 22:32<br>赞(0) 踩(0) | <div>Lauv – Drugs &amp; The Internet (CHVRCHES Remix)&nbsp;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2019-05-18 21:42<br>赞(0) 踩(0) | <div>©不在xiami吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10970617)<br>补补艺人资料 听听小众独...<br>2019-05-11 10:59<br>赞(0) 踩(0) | <div>Drugs &amp; The Internet好听啊啊啊啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10970617)<br>补补艺人资料 听听小众独...<br>2019-05-11 10:59<br>赞(0) 踩(0) | <div>Drugs &amp; The Internet<br>好听啊啊啊啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356476862)<br>做人呢最重要的就是开心<br>2019-04-30 12:38<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256697010)<br>Walk into yo...<br>2019-04-27 20:22<br>赞(4) 踩(0) | <div>希望早日拿到我们六公主的版权</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375673309)<br><br>2019-04-22 09:24<br>赞(0) 踩(0) | <div>cade拉粑粑额.   bbn.     0031 00932222</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375673309)<br><br>2019-04-22 09:24<br>赞(0) 踩(0) | <div>cade<br>拉粑粑额.   bbn.     0031 00932222</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52056952)<br>人生即是到來、相遇、陪伴...<br>2019-04-13 02:07<br>赞(0) 踩(0) | <div>(๑・ω-)～♥”</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336228277)<br><br>2019-04-11 20:29<br>赞(0) 踩(0) | <div>期待版权come back</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34634596)<br>本质逼裂波(1108，啪...<br>2019-04-05 01:44<br>赞(0) 踩(0) | <div>还虾米音乐人呢</div> |
@@ -175,7 +175,7 @@ Lauv的音乐基于R&B与电子音乐，迷幻却又清新不腻。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6082125)<br>Standing and...<br>2018-11-16 16:41<br>赞(0) 踩(0) | <div>说的对</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404487857)<br><br>2018-11-16 01:45<br>赞(0) 踩(0) | <div>年轻有为 ！为你加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225254345)<br>捡了个宝啊，——啊？<br>2018-11-06 10:54<br>赞(1) 踩(0) | <div>爱你(ɔˆ ³(ˆ⌣ˆc)，</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257812637)<br>想要避世的时候可以躲进歌...<br>2018-10-28 02:12<br>赞(3) 踩(0) | <div>真的太喜欢 lauv了他的歌没有一首失望过，只有惊喜，每张砖评分都超高。听他的歌情绪都能被旋律带动，节奏感，韵律，伤感，喜悦.....喜欢他小清新的风格，他的嗓音，他的长相，他对音乐的态度，以及所有Remix。我也好不希望他火，但是他不火没道理  相信你一定会更好的，这辈子梦想之一就是去一次你的演唱会，你对粉丝都超好的哇，演唱会前都会准备一个信箱让粉丝投信在里面，从而也得到创作的灵感，可以说的是超贴心可爱了 希望以后会有更多人知道你 lauv  我们的六公主（虾米的版权要给点力啊，能听得歌都还不多...）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257812637)<br>想要避世的时候可以躲进歌...<br>2018-10-28 02:12<br>赞(3) 踩(0) | <div>真的太喜欢 lauv了他的歌没有一首失望过，只有惊喜，每张砖评分都超高。听他的歌情绪都能被旋律带动，节奏感，韵律，伤感，喜悦.....喜欢他小清新的风格，他的嗓音，他的长相，他对音乐的态度，以及所有Remix。我也好不希望他火，但是他不火没道理  相信你一定会更好的，这辈子梦想之一就是去一次你的演唱会，你对粉丝都超好的哇，演唱会前都会准备一个信箱让粉丝投信在里面，从而也得到创作的灵感，可以说的是超贴心可爱了 希望以后会有更多人知道你 lauv  我们的六公主<br>（虾米的版权要给点力啊，能听得歌都还不多...）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70666552)<br>我还没想好要写什么...<br>2018-10-12 22:23<br>赞(0) 踩(0) | <div>没有版权了吗 呜呜呜都是mv</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277954749)<br><br>2018-10-06 21:10<br>赞(0) 踩(0) | <div>网易云有他的好多版权</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303919180)<br>我还没想好要写什么...<br>2018-10-02 23:30<br>赞(0) 踩(0) | <div>喜欢 <img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../images/comments/2dddd65f06f01a396df470103735c8ff.png"> <img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
@@ -185,14 +185,14 @@ Lauv的音乐基于R&B与电子音乐，迷幻却又清新不腻。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9467594)<br>我还没想好要写什么...<br>2018-09-24 12:33<br>赞(0) 踩(0) | <div>没版权了吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11749606)<br>E l’alba ver...<br>2018-09-23 15:47<br>赞(3) 踩(0) | <div>作品不多，首首經典！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75764070)<br>もう助手席で甘えてるだけ...<br>2018-09-18 16:21<br>赞(4) 踩(0) | <div>在油管看断眉。。顺便发现了lauv，真是宝藏发现之旅</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293945025)<br>just live<br>2018-09-10 07:00<br>赞(0) 踩(0) | <div>這次去巴黎聽他現場唱歌出售一張vip票  德國 法蘭克福 站有誰要去嗎 ？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293945025)<br>just live<br>2018-09-10 07:00<br>赞(0) 踩(0) | <div>這次去巴黎聽他現場唱歌<br>出售一張vip票  德國 法蘭克福 站<br>有誰要去嗎 ？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11749606)<br>E l’alba ver...<br>2018-09-23 15:48<br>赞(0) 踩(0) | <div>有機會我也想看他的live</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293945025)<br>just live<br>2018-09-25 23:56<br>赞(0) 踩(0) | <div><q><b>ellie.ec说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257812637)<br>想要避世的时候可以躲进歌...<br>2018-10-28 02:13<br>赞(0) 踩(0) | <div>啊票还在么,我还有机会么.....</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293945025)<br>just live<br>2018-11-04 07:45<br>赞(0) 踩(0) | <div><q><b>丧气波说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2018-08-31 20:21<br>赞(0) 踩(0) | <div>Lauv - Superhero</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348792218)<br><br>2018-08-31 10:43<br>赞(0) 踩(0) | <div>长得像派大星</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149817500)<br>U Only Live ...<br>2018-08-30 12:29<br>赞(1) 踩(0) | <div>I met a superheroI lost herI want her back.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149817500)<br>U Only Live ...<br>2018-08-30 12:29<br>赞(1) 踩(0) | <div>I met a superhero<br>I lost her<br>I want her back.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4131849)<br>网易云：非人類兔子Agy...<br>2018-08-04 23:52<br>赞(0) 踩(0) | <div>是这样的，比我还小，嗯，年轻有为</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364161710)<br><br>2018-07-25 17:36<br>赞(0) 踩(0) | <div>就很喜欢了 脸 名字 头发 声音 很迷人了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379508746)<br> <br>2018-07-23 21:57<br>赞(0) 踩(0) | <div>非常喜欢你</div> |
@@ -201,22 +201,22 @@ Lauv的音乐基于R&B与电子音乐，迷幻却又清新不腻。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258377220)<br><br>2018-07-06 21:15<br>赞(3) 踩(0) | <div>为啥六公主好多的歌的版权都没有啊？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235293010)<br><br>2018-08-08 16:18<br>赞(0) 踩(0) | <div>手机版上的有版权</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283405643)<br>朝若晨曦，老如沧海<br>2018-10-08 15:49<br>赞(0) 踩(0) | <div>暑假之前他的歌还可以下载，现在...哎</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283549200)<br>。<br>2018-07-06 19:44<br>赞(0) 踩(0) | <div>我喜欢你的所有音乐你值得所有人的喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283549200)<br>。<br>2018-07-06 19:44<br>赞(0) 踩(0) | <div>我喜欢你所有音乐你值得所有人喜欢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283549200)<br>。<br>2018-07-06 19:44<br>赞(0) 踩(0) | <div>我喜欢你的所有音乐<br>你值得所有人的喜欢</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283549200)<br>。<br>2018-07-06 19:44<br>赞(0) 踩(0) | <div>我喜欢你所有音乐<br>你值得所有人喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334329768)<br>一个固执独行于偌大宇宙的...<br>2018-06-27 12:21<br>赞(1) 踩(0) | <div>宝藏男孩啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334329768)<br>一个固执独行于偌大宇宙的...<br>2018-06-27 12:18<br>赞(1) 踩(0) | <div>小哥哥超级喜欢啊啊！声音好听又撩人，要继续保持下去！ <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271842257)<br><br>2018-06-13 22:59<br>赞(0) 踩(0) | <div>谁有the story never ends 的封面啊 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349899767)<br><br>2018-06-08 14:33<br>赞(0) 踩(0) | <div>新歌啊啊啊啊啊啊？!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1390683)<br>Shall we?<br>2018-06-07 21:59<br>赞(0) 踩(0) | <div>怎么突然这么火了！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250198682)<br> <br>2018-06-02 11:32<br>赞(0) 踩(0) | <div>怎么还没有</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262280019)<br><br>2018-05-31 21:13<br>赞(2) 踩(0) | <div>剛才youtube上傳了 never not, enemies 的音源了ps&amp;rdquo; 怎麼甚麼都還沒有啊paranoid 還有 bracelet 啊都已經上個星期在youtube聽到了 <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262280019)<br><br>2018-05-31 21:13<br>赞(2) 踩(0) | <div>剛才youtube上傳了 never not, enemies 的音源了<br>ps&amp;rdquo; 怎麼甚麼都還沒有啊paranoid 還有 bracelet 啊都已經上個星期在youtube聽到了 <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303919180)<br>我还没想好要写什么...<br>2018-05-28 00:20<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48404891)<br>我还没想好要写什么...<br>2018-05-24 23:34<br>赞(1) 踩(0) | <div>从ins看到说有新歌静候新歌 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">，就来等了 <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3335757)<br> <br>2018-05-24 21:54<br>赞(0) 踩(0) | <div>等新歌 我爱他一辈子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262280019)<br><br>2018-05-24 21:11<br>赞(1) 踩(0) | <div>bracelet, paranoid</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84571136)<br>唯有音乐不离不弃<br>2018-05-21 22:10<br>赞(0) 踩(0) | <div>Lauv &amp;ndash; Chasing Fire (Stripped &amp;ndash; Live in London)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295235233)<br>听个歌要什么签名﹌O﹌<br>2018-05-19 00:38<br>赞(0) 踩(0) | <div>啊哈又有新mv</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356476862)<br>做人呢最重要的就是开心<br>2018-05-18 20:34<br>赞(0) 踩(0) | <div>诶  该死的版权啊只有一个虾米也不行啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356476862)<br>做人呢最重要的就是开心<br>2018-05-18 20:34<br>赞(0) 踩(0) | <div>诶  该死的版权啊<br>只有一个虾米也不行啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356476862)<br>做人呢最重要的就是开心<br>2018-05-18 20:31<br>赞(0) 踩(0) | <div>the story never ends</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54574426)<br>爱猹、萌德、戳、灰儿子<br>2018-05-18 17:09<br>赞(0) 踩(0) | <div>帅 <img src="../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63532712)<br>希望你陪我走向更远更美好...<br>2018-05-14 15:28<br>赞(1) 踩(0) | <div>这可是我寄几发现的！！！骄傲</div> |
@@ -258,7 +258,7 @@ Lauv的音乐基于R&B与电子音乐，迷幻却又清新不腻。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341535423)<br><br>2018-03-14 10:19<br>赞(4) 踩(0) | <div>会火吧这个哥哥，虽然今天才第一次听他的歌。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341535423)<br><br>2018-03-14 10:19<br>赞(1) 踩(0) | <div>这个声音很有惊喜诶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308933091)<br>2.23开始吧<br>2018-03-09 18:31<br>赞(0) 踩(0) | <div><img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339797897)<br>我爱纳兰容若.<br>2018-03-03 12:03<br>赞(1) 踩(0) | <div>2017  2018以后每一年我都在 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">表白小哥哥</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339797897)<br>我爱纳兰容若.<br>2018-03-03 12:03<br>赞(1) 踩(0) | <div>2017  2018以后每一年我都在 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>表白小哥哥</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339797897)<br>我爱纳兰容若.<br>2018-03-03 12:03<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339797897)<br>我爱纳兰容若.<br>2018-03-03 12:03<br>赞(0) 踩(0) | <div>我还在</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339797897)<br>我爱纳兰容若.<br>2018-03-03 12:02<br>赞(0) 踩(0) | <div>两年了</div> |
@@ -326,13 +326,13 @@ Lauv的音乐基于R&B与电子音乐，迷幻却又清新不腻。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/221643289)<br> <br>2017-10-06 21:58<br>赞(0) 踩(0) | <div>喜欢你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228504830)<br>多情也会寡义，阴暗也会善...<br>2017-10-06 07:42<br>赞(0) 踩(0) | <div>不咸不淡的走进了心里，却是没法拔除。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327444554)<br><br>2017-10-04 16:56<br>赞(0) 踩(0) | <div>你要好好加油，不然对不起我们的习惯</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319753478)<br>与生活讲和<br>2017-10-02 13:04<br>赞(0) 踩(0) | <div>啊啊啊啊啊啊看颜就疯了 听声音简直陷进去so cool！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319753478)<br>与生活讲和<br>2017-10-02 13:04<br>赞(0) 踩(0) | <div>啊啊啊啊啊啊看颜就疯了 听声音简直陷进去<br>so cool！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2739505)<br>Doppelgänger...<br>2017-09-24 03:53<br>赞(0) 踩(0) | <div>&amp;middot;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188734117)<br> <br>2017-09-23 23:11<br>赞(3) 踩(0) | <div>等他红到一塌糊涂的那天</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7746107)<br>我还没想好要写什么...<br>2017-09-23 20:33<br>赞(0) 踩(0) | <div>火钳刘明啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55552179)<br>没有电影和音乐的话该怎么...<br>2017-09-22 14:15<br>赞(1) 踩(0) | <div>超赞，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48913279)<br><br>2017-09-21 04:27<br>赞(1) 踩(0) | <div>喜欢他的声音 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367600)<br>生命是束纯净的火焰·我们...<br>2017-09-19 10:04<br>赞(2) 踩(0) | <div>Who wrote the book on goodbye谁写了离别之书</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367600)<br>生命是束纯净的火焰·我们...<br>2017-09-19 10:04<br>赞(2) 踩(0) | <div>Who wrote the book on goodbye<br>谁写了离别之书</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20276873)<br> <br>2017-09-18 21:25<br>赞(103) 踩(0) | <div>他是我生物老师leff的儿子，你们信么</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261355330)<br><br>2017-09-29 07:27<br>赞(0) 踩(0) | <div>哇你在哪个学校啊好想知道</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20276873)<br> <br>2017-10-22 18:53<br>赞(0) 踩(0) | <div>southlands  christian</div> |
@@ -376,7 +376,7 @@ Lauv的音乐基于R&B与电子音乐，迷幻却又清新不腻。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/145497338)<br> <br>2017-08-02 14:48<br>赞(1) 踩(0) | <div>这小忧郁的眼神真是让人受不了，可耻地硬了&amp;hellip;&amp;hellip; <img src="../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55238954)<br>总比与你一起谈谈理想好吧<br>2017-07-25 21:19<br>赞(0) 踩(0) | <div>会火啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/312833697)<br><br>2017-07-25 17:18<br>赞(0) 踩(0) | <div>加油，肯定火 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268919486)<br>Stay alive.<br>2017-07-12 22:19<br>赞(189) 踩(0) | <div>我觉得Lauv就是一个让我觉得每首歌都好听的人。这样的人不多。喜欢他的歌，喜欢他的声音，喜欢他的颜owo这么厉害的小哥哥不会永远小众的吧，我始终这么觉得，所以一直把他推荐给身旁的人一起见证吧,总有一天他会火起来的Lauv <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268919486)<br>Stay alive.<br>2017-07-12 22:19<br>赞(189) 踩(0) | <div>我觉得Lauv就是一个让我觉得每首歌都好听的人。<br>这样的人不多。<br>喜欢他的歌，喜欢他的声音，喜欢他的颜owo<br>这么厉害的小哥哥不会永远小众的吧，我始终这么觉得，所以一直把他推荐给身旁的人<br>一起见证吧,总有一天他会火起来的<br>Lauv <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283581753)<br>键盘侠，无处不在<br>2018-01-03 18:54<br>赞(0) 踩(0) | <div>嗯，+1</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375397127)<br><br>2018-09-24 11:59<br>赞(0) 踩(0) | <div>一od</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68577338)<br>思君如思乡<br>2017-07-10 18:39<br>赞(0) 踩(0) | <div>嘻嘻</div> |
@@ -478,7 +478,7 @@ Lauv的音乐基于R&B与电子音乐，迷幻却又清新不腻。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33967167)<br>我还没想好要写什么...<br>2016-09-03 20:11<br>赞(0) 踩(0) | <div>看了评论，就会知道这个歌手的歌或者这首歌听没听过</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39978495)<br>❌<br>2016-09-02 00:41<br>赞(0) 踩(0) | <div>帅帅帅 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16376264)<br> <br>2016-08-31 13:06<br>赞(0) 踩(0) | <div>ari leff</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5586779)<br>be nice,be c...<br>2016-08-29 14:03<br>赞(0) 踩(0) | <div>不看颜声音就足以吸引我</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5586779)<br>be nice,be c...<br>2016-08-29 14:03<br>赞(0) 踩(0) | <div>不看颜<br>声音就足以吸引我</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43547593)<br>♡<br>2016-08-10 16:37<br>赞(0) 踩(0) | <div>⅋</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47114438)<br><br>2016-08-07 09:15<br>赞(1) 踩(0) | <div>头像神似厄齐尔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39635055)<br>下一秒会发生什么<br>2016-07-31 23:39<br>赞(0) 踩(0) | <div>小伙子要火了?</div> |
@@ -494,7 +494,7 @@ Lauv的音乐基于R&B与电子音乐，迷幻却又清新不腻。<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9098000)<br> <br>2016-06-29 21:11<br>赞(0) 踩(0) | <div>Comfortable Reforget  The Other太好听了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72666568)<br><br>2016-06-28 15:21<br>赞(0) 踩(0) | <div>纠结</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2016-06-25 18:09<br>赞(1) 踩(0) | <div>呃还是头像这张最好看一点</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2016-06-25 18:08<br>赞(1) 踩(0) | <div>[直升机](不 热2 你落下一个发表情的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2016-06-25 18:08<br>赞(1) 踩(0) | <div>[直升机]<br><br><br><br><br>(不 热2 你落下一个发表情的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51678203)<br> <br>2016-06-20 21:38<br>赞(0) 踩(0) | <div>爱上这个小伙子了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117527814)<br>没有更多内容了。<br>2016-06-20 00:11<br>赞(1) 踩(0) | <div>什么时候有的照片？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42100089)<br>能安静听个歌就很好<br>2016-06-19 23:41<br>赞(0) 踩(0) | <div>听别人说他的声音和troye像我就来了……我咋觉得不像？</div> |

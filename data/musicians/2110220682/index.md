@@ -3,7 +3,7 @@ Lind
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c11b9786cc6ccd368e144aeaf271f447.jpg)<br>Lind](https://i.xiami.com/lind) | **播放数**: 15508550<br>**粉丝数**: 466<br>**评论数**: 42<br>**地区**: China 中国大陆<br>**风格**: 电子 Electronic, 热带浩室 Tropical House<br> |
+| [![](../../images/musicians/c11b9786cc6ccd368e144aeaf271f447.jpg)<br>Lind](https://i.xiami.com/lind) | **地区**: China 中国大陆<br>**风格**: 电子 Electronic, 热带浩室 Tropical House<br>**播放数**: 15508550<br>**粉丝数**: 466<br>**评论数**: 42<br> |
 
 ## 档案
 
@@ -42,8 +42,8 @@ Lind
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21298110)<br><br>2020-11-20 08:42<br>赞(0) 踩(0) | <div>加油哈！好棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316509349)<br>梦是不死的欲望<br>2020-03-21 12:45<br>赞(1) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325374787)<br><br>2020-01-10 11:33<br>赞(0) 踩(0) | <div>，</div> |
@@ -54,7 +54,7 @@ Lind
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283614544)<br>Music is lif...<br>2019-07-01 23:34<br>赞(1) 踩(0) | <div>哎突然发现Lind是11-24的生日 我是25号哎 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302298331)<br><br>2019-07-02 17:46<br>赞(0) 踩(0) | <div>那么巧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349400287)<br>CALL ME BY Y...<br>2019-06-27 20:07<br>赞(3) 踩(0) | <div>为你打call</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187649491)<br>EXO 灿嫂~澎~<br>2019-06-16 13:20<br>赞(3) 踩(0) | <div>同是广东人的同龄人加油(ง •̀_•́)ง希望可以听到更多更好的作品</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187649491)<br>EXO 灿嫂~澎~<br>2019-06-16 13:20<br>赞(3) 踩(0) | <div>同是广东人的同龄人<br>加油(ง •̀_•́)ง希望可以听到更多更好的作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415273321)<br>音乐是灵魂的药<br>2019-03-07 17:37<br>赞(3) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328437065)<br><br>2019-02-05 12:16<br>赞(2) 踩(0) | <div>可以可以 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334533188)<br>never<br>2018-05-22 21:45<br>赞(3) 踩(0) | <div>建议歌曲中间切歌时用一些混音淡入一下</div> |
@@ -64,7 +64,7 @@ Lind
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142713468)<br>但愿我能够住在你的角膜里...<br>2018-01-26 11:18<br>赞(3) 踩(0) | <div>嗯希望你可以越来越棒，然后有自己的原创歌曲作品出现 <img src="../../images/comments/29cf103b88c33e19563095897485c32a.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302298331)<br><br>2018-01-26 11:23<br>赞(0) 踩(0) | <div>谢谢谢谢，会尽快有原创的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142713468)<br>但愿我能够住在你的角膜里...<br>2018-01-26 11:24<br>赞(0) 踩(0) | <div><q><b>Lind说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298022288)<br><br>2018-01-21 13:50<br>赞(1) 踩(0) | <div>歌曲还不错，加油 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">（第一百个收藏）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298022288)<br><br>2018-01-21 13:50<br>赞(1) 踩(0) | <div>歌曲还不错，加油 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"><br>（第一百个收藏）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44226617)<br>qnmd<br>2018-01-08 00:01<br>赞(3) 踩(0) | <div>我严肃地跟你提个建议，提高制作水平，歌里很多听起来贼尴尬的切换</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48776824)<br>喜极为悲、痴极如狂<br>2018-01-05 18:33<br>赞(2) 踩(0) | <div>一直很喜欢We dont talk anymore这首歌，这个版本是我喜欢的，很不错呢，我不懂这些音乐什么的，只觉得前奏好听、空旷飘渺就好，谢谢你，让我有机会听到自己喜欢的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/272959673)<br>rappers are ...<br>2017-12-21 10:42<br>赞(2) 踩(0) | <div>加油！我16，你音乐做的真的很棒</div> |

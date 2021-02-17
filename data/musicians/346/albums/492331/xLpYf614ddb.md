@@ -74,8 +74,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284054964)<br><br>2020-02-14 08:13<br>赞(0) 踩(0) | <div>娃娃脸</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213736543)<br>随遇而安<br>2019-10-23 09:22<br>赞(0) 踩(0) | <div>这么好听的歌评论怎么这么少呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299931782)<br>遇见谁都没有那么重要，重...<br>2019-08-27 10:40<br>赞(0) 踩(0) | <div>初中时中午放学的歌 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -103,7 +103,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411681149)<br><br>2019-02-24 07:28<br>赞(1) 踩(0) | <div>玩QQ的时代</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301972099)<br><br>2019-02-23 18:08<br>赞(2) 踩(0) | <div>当年上学时候女朋友好喜欢这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284054964)<br><br>2019-02-20 23:26<br>赞(1) 踩(0) | <div>后弦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404655687)<br>偷情请q1<br>2019-02-12 11:54<br>赞(2) 踩(0) | <div>听歌还翻评论，你一定很孤独吧，别问为什么，因为我也是，我爱你，陌生人。长春市九台区</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404655687)<br>偷情请q1<br>2019-02-12 11:54<br>赞(2) 踩(0) | <div>听歌还翻评论，你一定很孤独吧，别问为什么，因为我也是，我爱你，陌生人。<br>长春市九台区</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377106347)<br><br>2019-02-07 13:32<br>赞(1) 踩(0) | <div>广西</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404147948)<br><br>2019-02-03 02:09<br>赞(1) 踩(0) | <div>像极了爱情 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249998181)<br>Chasing it t...<br>2019-02-02 09:27<br>赞(1) 踩(0) | <div>大概小学三年级的时候  在同学家一起做手抄报听到的  没问名字  那段时间很难熬 因为很想知道名字  后来去问了  回家就不停的单曲循环这首歌  小学毕业了  初中的时候 问同学知不知道这首歌 给他们哼了一段 他们都说这歌肯定不好听 完全不知道…现在我高中了  发现时间过得是真的快啊后弦新春快乐  我也是!</div> |
@@ -124,7 +124,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45385073)<br>虾米我爱你<br>2019-01-01 00:16<br>赞(0) 踩(0) | <div>高中回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379285625)<br><br>2018-12-31 13:22<br>赞(2) 踩(0) | <div>这首歌是当时初中全班的怀念。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225824125)<br>我还没想好要写什么...<br>2018-12-29 12:12<br>赞(1) 踩(0) | <div>满满的回忆</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111650998)<br><br>2018-12-28 19:03<br>赞(2) 踩(0) | <div>初中时怎么就没发现，后弦写词真是脑洞奇才，太可爱了。来，跟我一起honey honey ha!</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111650998)<br><br>2018-12-28 19:03<br>赞(2) 踩(0) | <div>初中时怎么就没发现，后弦写词真是脑洞奇才，太可爱了。<br>来，跟我一起honey honey ha!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327460871)<br><br>2018-12-27 01:55<br>赞(0) 踩(0) | <div>哇，那时候有wifi了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209639777)<br>没有没有人<br>2018-12-26 16:22<br>赞(1) 踩(0) | <div>唉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339531944)<br>聆听优质好音乐，从虾米音...<br>2018-12-26 08:40<br>赞(2) 踩(0) | <div>超级好听</div> |
@@ -135,7 +135,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290565163)<br><br>2018-12-20 19:00<br>赞(2) 踩(0) | <div>很好听的一首娃娃脸，，希望你能遇见每一个拥有娃娃脸的小姑娘，她们很可爱ớ ₃ờ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54254431)<br>别对我说谎<br>2018-12-18 00:20<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342275899)<br><br>2018-12-15 08:48<br>赞(1) 踩(0) | <div>不变美丽的一切。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339531944)<br>聆听优质好音乐，从虾米音...<br>2018-12-14 08:16<br>赞(15) 踩(0) | <div>犹记得，六年级的时候 一个深情款款的小男生喜欢一个疯女生，在班上对她甜甜的唱着这首歌，我们静静的听着。也许 那就是初恋的样子 那就是爱情最单纯的样子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339531944)<br>聆听优质好音乐，从虾米音...<br>2018-12-14 08:16<br>赞(15) 踩(0) | <div>犹记得，六年级的时候 一个深情款款的小男生喜欢一个疯女生，在班上对她甜甜的唱着这首歌，我们静静的听着。<br>也许 那就是初恋的样子 那就是爱情最单纯的样子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339531944)<br>聆听优质好音乐，从虾米音...<br>2018-12-14 08:16<br>赞(2) 踩(0) | <div>这是第一首听的后弦的歌 也是记忆深刻的歌 从前还上初中的时候就爱这首歌 叫他给我唱这首歌，虽然唱得不是很好 但是很开心 因为有个人愿意不顾舍友打趣也给你唱 那么这就是幸福的感觉了 这么多年过去了 虽然我们都在成长 但是每当我说 我要听 娃娃脸 虽然他很嫌弃 还是认命的唱 哈哈 好傻 好单纯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256061493)<br>一个人的音乐世界<br>2018-12-11 17:06<br>赞(4) 踩(0) | <div>一晃六年过去啦，想想初中时代的朋友们，心里甚是欢喜，好怀念但是回不去了呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410282779)<br><br>2018-12-10 15:07<br>赞(3) 踩(0) | <div>曾经的回忆……</div> |
@@ -156,7 +156,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59781392)<br>（*ﾟ∀ﾟ）つ―{}@{...<br>2018-11-20 06:54<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316201417)<br>生活以痛吻我，我要报之以...<br>2018-11-15 13:10<br>赞(2) 踩(0) | <div>我也喜欢娃娃脸，我是娃娃脸吗 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220408840)<br> <br>2018-11-15 09:19<br>赞(1) 踩(0) | <div>这就有点开玩笑啦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34917148)<br>喜欢一首歌听到吐<br>2018-11-12 23:34<br>赞(3) 踩(0) | <div>犹记得，六年级的时候 一个深情款款的小男生喜欢一个疯女生，在班上对她甜甜的唱着这首歌，我们静静的听着。也许 那就是初恋的样子 那就是爱情最单纯的样子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34917148)<br>喜欢一首歌听到吐<br>2018-11-12 23:34<br>赞(3) 踩(0) | <div>犹记得，六年级的时候 一个深情款款的小男生喜欢一个疯女生，在班上对她甜甜的唱着这首歌，我们静静的听着。<br>也许 那就是初恋的样子 那就是爱情最单纯的样子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343942092)<br><br>2018-11-10 19:24<br>赞(2) 踩(0) | <div>小时候超级喜欢这首歌 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">现在听到真的是感触不要太多 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375735346)<br>我还没想好要写什么...<br>2018-11-07 16:31<br>赞(0) 踩(0) | <div>甜甜的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54546966)<br><br>2018-11-02 18:33<br>赞(0) 踩(0) | <div>9年前听的歌</div> |
@@ -226,14 +226,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13739025)<br> <br>2018-07-15 15:33<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248034059)<br><br>2018-07-15 13:58<br>赞(2) 踩(0) | <div>第一次听这首歌的时候我18岁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97166604)<br>我还没想好要写什么...<br>2018-07-12 19:39<br>赞(1) 踩(0) | <div>回忆回忆</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277765729)<br>开心就好<br>2018-07-11 03:01<br>赞(3) 踩(0) | <div>你发的娃娃脸 降落在身边可惜我 还没有发现你画的娃娃脸 拿铁上圈点倒一杯 爱情的香甜标个引号 你的眉梢加个括号 你的微笑你牵着独角的白马茜茜的卷发加一身洛丽塔叫醒我口袋中的电话格林家 的公主安徒生 的女王牵手的孩子喝着幻想眨睫毛 撇嘴角带坏笑 的不老懒懒的秒针挂着糖浆你发的娃娃脸 降落在身边可惜我 还没有发现你画的娃娃脸 拿铁上圈点倒一杯 爱情的香甜最近是南风天 潮潮的爱恋夸张些 在你的跟前那年的娃娃脸给我的不变 不变美丽的一切</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277765729)<br>开心就好<br>2018-07-11 03:01<br>赞(3) 踩(0) | <div>你发的娃娃脸 降落在身边<br>可惜我 还没有发现<br>你画的娃娃脸 拿铁上圈点<br>倒一杯 爱情的香甜<br>标个引号 你的眉梢<br>加个括号 你的微笑<br>你牵着独角的白马<br>茜茜的卷发<br>加一身洛丽塔<br>叫醒我口袋中的电话<br>格林家 的公主<br>安徒生 的女王<br>牵手的孩子喝着幻想<br>眨睫毛 撇嘴角<br>带坏笑 的不老<br>懒懒的秒针挂着糖浆<br>你发的娃娃脸 降落在身边<br>可惜我 还没有发现<br>你画的娃娃脸 拿铁上圈点<br>倒一杯 爱情的香甜<br>最近是南风天 潮潮的爱恋<br>夸张些 在你的跟前<br>那年的娃娃脸<br>给我的不变 不变美丽的一切</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377961397)<br><br>2018-07-08 11:35<br>赞(1) 踩(0) | <div>青春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340789907)<br><br>2018-07-05 15:56<br>赞(0) 踩(0) | <div>我是小学听的这首歌，一晃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350573854)<br><br>2018-07-05 09:57<br>赞(0) 踩(0) | <div>你听力有问题哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37458820)<br>我还没想好要写什么...<br>2018-07-03 10:58<br>赞(0) 踩(0) | <div>这可是我初中的回忆啊，现在都变成社会狗了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42154561)<br> <br>2018-07-02 14:11<br>赞(0) 踩(0) | <div>这我小学四五年级听得歌啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352788362)<br><br>2018-07-01 22:41<br>赞(1) 踩(0) | <div>想起了初二补习 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">哈哈哈哈哈哈哈哈还是很多美好的！！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91608400)<br>Me myself My...<br>2018-07-01 15:17<br>赞(3) 踩(0) | <div>小学五年级听得 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">时间一去不复返</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352788362)<br><br>2018-07-01 22:41<br>赞(1) 踩(0) | <div>想起了初二补习 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">哈哈哈哈哈哈哈哈<br>还是很多美好的！！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91608400)<br>Me myself My...<br>2018-07-01 15:17<br>赞(3) 踩(0) | <div>小学五年级听得 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"><br>时间一去不复返</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196142159)<br>Leon家的球<br>2018-06-30 21:53<br>赞(2) 踩(0) | <div>小学听得</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315336688)<br><br>2018-06-27 09:47<br>赞(131) 踩(0) | <div>小学时偶然在别人那里听到，然后就天天拿着人家的MP3听这首歌，后来转学了，就在春游时放给别人听，最后导致小学毕业后，别人一听到这歌就想起我</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349024897)<br>嘘……听<br>2018-11-04 18:32<br>赞(0) 踩(0) | <div>嗯，看了你发的评论，以后再听到这歌，我大概会想起你</div> |
@@ -253,11 +253,11 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321093709)<br>你这是要干嘛？挑战我的记...<br>2018-02-02 14:03<br>赞(0) 踩(0) | <div>说实话，无力反驳，但是就是喜欢，有时候听歌，不一定要单纯的听歌，对吧</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255811557)<br>空气稀薄   我快要疯了<br>2018-07-22 09:54<br>赞(0) 踩(0) | <div>就你懂完了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408975174)<br><br>2018-11-19 18:16<br>赞(0) 踩(0) | <div>和方文山是比不上的，但我听这首歌就听一个轻快</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294588575)<br>我还没想好要写什么...<br>2019-01-31 16:48<br>赞(0) 踩(0) | <div>歌曲不朗朗上口，弄那些技巧有什么用？你懂个屁的旋律，各有不同，你算老几？细节上你能代表谁，改改改，你怎么不去泰国改个性别。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294588575)<br>我还没想好要写什么...<br>2019-01-31 16:48<br>赞(0) 踩(0) | <div>歌曲不朗朗上口，弄那些技巧有什么用？<br>你懂个屁的旋律，各有不同，你算老几？<br>细节上你能代表谁，改改改，你怎么不去泰国改个性别。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321093709)<br>你这是要干嘛？挑战我的记...<br>2017-11-19 20:13<br>赞(2) 踩(0) | <div>为啥最爱的一首听不了！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/665214)<br><br>2017-10-30 10:08<br>赞(3) 踩(0) | <div>手机表情、互联网表情、手机大头照……拜科技所赐，网络信息爆炸与手机时代的来临改变了世人的沟通方式，后弦最新单曲《娃娃脸》用一曲顽皮的跳跃节奏与旋律，显现当下年轻情侣之间在手机和互联网中互发娃娃脸表情的浪漫恋爱方式。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9848447)<br>会有一天，我有我的世界。<br>2017-10-28 00:08<br>赞(19) 踩(0) | <div>作为一个南方人，真的是很喜欢“最近是南风天，潮潮的爱恋”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2017-10-27 23:01<br>赞(2) 踩(0) | <div>娃娃脸你发的娃娃脸 降落在身边可惜我 还没有发现你画的娃娃脸 拿铁上圈点倒一杯 爱情的香甜标个引号 你的眉梢加个括号 你的微笑你牵着独角的白马 茜茜的卷发加一身洛丽塔叫醒我口袋中的电话格林家 的公主安徒生 的女王牵手的孩子喝着幻想眨睫毛 撇嘴角带坏笑 的不老懒懒的秒针挂着糖浆你发的娃娃脸 降落在身边可惜我 还没有发现你画的娃娃脸 拿铁上圈点倒一杯 爱情的香甜最近是南风天 潮潮的爱恋夸张些 在你的跟前那年的娃娃脸给我的不变 不变美丽的一切RAP：你表情很数码 我WIFI难招架你娃娃脸蛋多图杀猫 Honey Honey HA!（小新）头顶上不只是飞机还在飘荡着爱情 看JPGJPG你表情很数码 我WIFI难招架你娃娃脸蛋多图杀猫 Honey Honey HA!（小新）头顶上不只是飞机还在飘荡着爱情 看JPGJPG最深爱娃娃脸给我的不变 不变美丽的一切</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254359)<br><br>2017-10-27 23:01<br>赞(2) 踩(0) | <div>娃娃脸<br><br>你发的娃娃脸 降落在身边<br>可惜我 还没有发现<br>你画的娃娃脸 拿铁上圈点<br>倒一杯 爱情的香甜<br>标个引号 你的眉梢<br>加个括号 你的微笑<br>你牵着独角的白马 茜茜的卷发<br>加一身洛丽塔<br>叫醒我口袋中的电话<br>格林家 的公主<br>安徒生 的女王<br>牵手的孩子喝着幻想<br>眨睫毛 撇嘴角<br>带坏笑 的不老<br>懒懒的秒针挂着糖浆<br>你发的娃娃脸 降落在身边<br>可惜我 还没有发现<br>你画的娃娃脸 拿铁上圈点<br>倒一杯 爱情的香甜<br>最近是南风天 潮潮的爱恋<br>夸张些 在你的跟前<br>那年的娃娃脸<br>给我的不变 不变美丽的一切<br>RAP：你表情很数码 我WIFI难招架<br>你娃娃脸蛋多图杀猫 Honey Honey HA!<br>（小新）头顶上不只是飞机<br>还在飘荡着爱情 看JPGJPG<br>你表情很数码 我WIFI难招架<br>你娃娃脸蛋多图杀猫 Honey Honey HA!<br>（小新）头顶上不只是飞机<br>还在飘荡着爱情 看JPGJPG<br>最深爱娃娃脸<br>给我的不变 不变美丽的一切</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198955330)<br>天下为攻，你们都受<br>2017-10-15 16:07<br>赞(2) 踩(0) | <div>当时和好朋友一起听这首歌。现在，人都散了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51887444)<br><br>2017-09-30 06:55<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39883468)<br>sampai jumpa<br>2017-08-13 23:45<br>赞(0) 踩(0) | <div>杀马特歌曲都不能听了吗.....</div> |
@@ -409,7 +409,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8815734)<br><br>2014-01-10 15:20<br>赞(0) 踩(0) | <div>开心歌曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8584571)<br>U Better Wor...<br>2014-01-04 21:00<br>赞(0) 踩(0) | <div>偶尔也会听点这种type→_→</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1951520)<br>flyzulium<br>2013-10-27 23:26<br>赞(0) 踩(0) | <div>听后弦的第一首歌就是《娃娃脸》，感觉后弦的歌，旋律很有特色。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4195684)<br>“ 默然相爱，寂静相守”<br>2013-10-05 20:37<br>赞(0) 踩(0) | <div>你发的娃娃脸 降落在身边可惜我 还没有发现你画的娃娃脸 拿铁上圈点倒一杯 爱情的香甜标个引号 你的眉梢打个括号 你的微笑</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4195684)<br>“ 默然相爱，寂静相守”<br>2013-10-05 20:37<br>赞(0) 踩(0) | <div>你发的娃娃脸 降落在身边<br>可惜我 还没有发现<br>你画的娃娃脸 拿铁上圈点<br>倒一杯 爱情的香甜<br>标个引号 你的眉梢<br>打个括号 你的微笑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18900762)<br><br>2013-10-01 00:07<br>赞(0) 踩(0) | <div>。。。。。。^~^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8688525)<br><br>2013-09-21 23:51<br>赞(0) 踩(0) | <div>偶尔也会听点这种type</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6085223)<br>没有神，你孤独的生存。<br>2013-09-09 11:41<br>赞(259) 踩(0) | <div>我怎么听都是“你画的王八脸”</div> |
@@ -495,7 +495,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3194987)<br><br>2011-04-06 13:11<br>赞(0) 踩(0) | <div>熟悉啊这个前奏...在很逗地方被用过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3148171)<br><br>2011-04-04 22:11<br>赞(0) 踩(0) | <div>★我很喜欢这首歌的歌词~听着歌曲会感到很甜蜜. 每次听,都能让我心情特别的好~赞一个!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3252713)<br><br>2011-03-18 15:44<br>赞(0) 踩(0) | <div>！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2927168)<br><br>2011-03-14 15:23<br>赞(0) 踩(0) | <div>我知道，这首歌的欢快与整张精选格调有些出入，但既然是小心情，还是忍不住加进来了。这是big的一篇日志里用到的歌。后来每次跟他一起去KTV都会点这首歌，想听他唱，想象我是他的娃娃</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2927168)<br><br>2011-03-14 15:23<br>赞(0) 踩(0) | <div>我知道，这首歌的欢快与整张精选格调有些出入，但既然是小心情，还是忍不住加进来了。<br>这是big的一篇日志里用到的歌。后来每次跟他一起去KTV都会点这首歌，想听他唱，想象我是他的娃娃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3085939)<br><br>2011-03-05 18:40<br>赞(0) 踩(0) | <div>嗯,</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3031077)<br><br>2011-03-02 16:51<br>赞(0) 踩(0) | <div>可爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1833339)<br><br>2011-02-27 16:49<br>赞(0) 踩(0) | <div>很甜美的歌曲</div> |

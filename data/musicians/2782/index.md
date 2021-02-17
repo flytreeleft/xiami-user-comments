@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b192ff0616ec5bbcb2e9d8f2a76f3475.jpg)<br>杭盖](https://i.xiami.com/hanggai) | **播放数**: 16153789<br>**粉丝数**: 33390<br>**评论数**: 925<br>**地区**: China 中国大陆<br>**风格**: 民谣摇滚 Folk Rock, 蒙古 | 呼麦 Throat Singing<br> |
+| [![](../../images/musicians/b192ff0616ec5bbcb2e9d8f2a76f3475.jpg)<br>杭盖](https://i.xiami.com/hanggai) | **地区**: China 中国大陆<br>**风格**: 民谣摇滚 Folk Rock, 蒙古 | 呼麦 Throat Singing<br>**播放数**: 16153789<br>**粉丝数**: 33390<br>**评论数**: 925<br> |
 
 ## 档案
 
@@ -93,8 +93,8 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49319910)<br>音乐比哲学有更高的启示—...<br>2020-11-30 21:07<br>赞(1) 踩(0) | <div>下架很多听不了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276944698)<br>不要自我设限.....<br>2020-07-22 10:07<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441742924)<br><br>2020-05-31 01:58<br>赞(0) 踩(0) | <div>这才是我梦中常常听到的遥远乡音啊。</div> |
@@ -108,7 +108,7 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-05-31 02:18<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/66823378)<br><br>2019-05-24 14:19<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283811866)<br><br>2019-05-06 12:17<br>赞(1) 踩(0) | <div>作为内蒙古的乐队，内蒙人必须支持</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/460880)<br>有声读物<br>2019-03-17 11:48<br>赞(0) 踩(0) | <div>3.16上海MAO现场打卡表现力和感染力非常非常棒了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/460880)<br>有声读物<br>2019-03-17 11:48<br>赞(0) 踩(0) | <div>3.16上海MAO现场打卡<br>表现力和感染力非常非常棒了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9697458)<br><br>2019-03-15 22:59<br>赞(0) 踩(0) | <div>妈呀好洋气的民族乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35047534)<br>。<br>2019-03-08 20:48<br>赞(1) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10657091)<br>如果说人类有什么自命不凡...<br>2019-03-23 17:40<br>赞(0) 踩(0) | <div>还在么</div> |
@@ -157,12 +157,12 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1620958)<br><br>2016-11-12 21:50<br>赞(1) 踩(0) | <div>什么也不说了，听了就知道</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16876753)<br>食草<br>2016-10-29 09:53<br>赞(1) 踩(0) | <div>要谢@杭盖</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10504566)<br>音乐是通往天堂的桥梁<br>2016-10-14 23:48<br>赞(2) 踩(0) | <div>刚刚听了杭盖的深圳花斑马深圳巡演，现场嗨炸了，感动激动中……太棒了！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205735)<br>芒果的体型能变成黄瓜的么<br>2016-10-14 23:05<br>赞(2) 踩(0) | <div>下次来深圳，建议弄个没有椅子的场地，不然安保太敬业，施展不开~~。另，签售的时候没有要到胜利的永抱，有些忧桑，有些惆怅。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205735)<br>芒果的体型能变成黄瓜的么<br>2016-10-14 23:05<br>赞(2) 踩(0) | <div>下次来深圳，建议弄个没有椅子的场地，不然安保太敬业，施展不开~~。<br>另，签售的时候没有要到胜利的永抱，有些忧桑，有些惆怅。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10504566)<br>音乐是通往天堂的桥梁<br>2016-10-15 00:44<br>赞(0) 踩(0) | <div>我也在现场，也去排签售了 <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205735)<br>芒果的体型能变成黄瓜的么<br>2016-10-15 22:25<br>赞(0) 踩(0) | <div><q><b>桃子说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10504566)<br>音乐是通往天堂的桥梁<br>2016-10-19 00:00<br>赞(0) 踩(0) | <div><q><b>饭巴斯腾说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205735)<br>芒果的体型能变成黄瓜的么<br>2016-10-22 23:50<br>赞(0) 踩(0) | <div><q><b>桃子说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38953521)<br><br>2016-10-05 20:34<br>赞(0) 踩(0) | <div>蒙古经典摇滚乐队hurd、haranga、Nomin Talst全集<a href="http://www.xiami.com/u/38953521?spm=a1z1s.6928797.1561534497.3.aWZlI1" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/u/38953521?spm=a1z1s.6928797.1561534497.3.aWZlI1</a>在个人资料里</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38953521)<br><br>2016-10-05 20:34<br>赞(0) 踩(0) | <div>蒙古经典摇滚乐队hurd、haranga、Nomin Talst全集<br><a href="http://www.xiami.com/u/38953521?spm=a1z1s.6928797.1561534497.3.aWZlI1" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/u/38953521?spm=a1z1s.6928797.1561534497.3.aWZlI1</a>在个人资料里</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45595549)<br><br>2016-09-27 20:12<br>赞(0) 踩(0) | <div>豪爽、干脆、</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8675881)<br>Quid pro quo...<br>2016-09-17 21:46<br>赞(1) 踩(0) | <div>杭州是冷宫T T，但是我们会等着！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48907801)<br>I say you r ...<br>2016-09-05 13:31<br>赞(0) 踩(0) | <div>什么时候来广州live就好了</div> |
@@ -239,7 +239,7 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9192152)<br><br>2015-10-04 05:21<br>赞(3) 踩(0) | <div>帅到合不拢腿……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6310680)<br>音乐是我的避风港<br>2015-09-30 20:24<br>赞(1) 踩(0) | <div>杭盖几乎是一支伟大的乐队，越来越向伟大靠近了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6924843)<br>这个战场血流成河，但除了...<br>2015-09-17 09:27<br>赞(0) 踩(0) | <div>流淌着蒙古人的血</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774208)<br>我还没想好要写什么...<br>2015-09-04 21:14<br>赞(1) 踩(0) | <div>杭盖将于10月4日在上海简单生活节演出！这里还有张楚、李志、万晓利、杭盖、火星电台、五条人、旅行团、程璧、陈粒、大飞一系列你很可能喜欢的音乐人！大麦：<a href="http://item.damai.cn/85484.html" target="_blank" rel="nofollow noreferrer noopener">http://item.damai.cn/85484.html</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/774208)<br>我还没想好要写什么...<br>2015-09-04 21:14<br>赞(1) 踩(0) | <div>杭盖将于10月4日在上海简单生活节演出！这里还有张楚、李志、万晓利、杭盖、火星电台、五条人、旅行团、程璧、陈粒、大飞一系列你很可能喜欢的音乐人！<br><br>大麦：<a href="http://item.damai.cn/85484.html" target="_blank" rel="nofollow noreferrer noopener">http://item.damai.cn/85484.html</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55037851)<br><br>2015-09-02 17:43<br>赞(0) 踩(0) | <div>除了震撼，还是震撼。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6463520)<br>为了音色努力，为了情绪寻...<br>2015-09-01 10:47<br>赞(0) 踩(0) | <div>作为内蒙人，听着熟悉的调调，想家了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59729808)<br><br>2015-08-31 21:20<br>赞(0) 踩(0) | <div>就是喜欢</div> |
@@ -285,7 +285,7 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10233527)<br>暂无签名~<br>2015-04-06 23:07<br>赞(0) 踩(0) | <div>hang gay</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43051614)<br>滑板与姑娘不可兼得<br>2015-06-02 19:30<br>赞(0) 踩(0) | <div>aajim yariarai</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48950423)<br><br>2015-04-06 18:53<br>赞(0) 踩(0) | <div>挺好的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-04-04 20:51<br>赞(0) 踩(0) | <div>我操好想他们出新歌啊(〓￣(∵エ∵)￣〓)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10532351)<br>*･゜ﾟ･*:.｡..｡...<br>2015-04-04 20:51<br>赞(0) 踩(0) | <div>我操<br>好想他们出新歌啊<br>(〓￣(∵エ∵)￣〓)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1197688)<br>我还没想好要写什么...<br>2015-04-03 20:59<br>赞(0) 踩(0) | <div>听了杭盖，好想学蒙古音乐阿！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10242579)<br>长亭外，古道边，一行白鹭...<br>2015-04-01 23:44<br>赞(0) 踩(0) | <div>杭盖是什么意思呢？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49811001)<br><br>2015-05-05 01:59<br>赞(0) 踩(0) | <div>杭盖在蒙语中的意思为水草肥美的草原，是蒙古牧民心目中理想的地方</div> |
@@ -327,7 +327,7 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30493)<br>偏爱重型音乐<br>2015-03-14 10:01<br>赞(0) 踩(0) | <div>民族的才是世界的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1030263)<br>躲个猫猫笑破肚<br>2015-03-14 00:26<br>赞(0) 踩(0) | <div>祝贺，杭盖威武！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7691857)<br>RH吧平均水平<br>2015-03-13 21:13<br>赞(0) 踩(0) | <div>哈哈哈哈哈，冠军了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4920939)<br>每一粒种子都是一个愿望<br>2015-03-13 20:41<br>赞(0) 踩(0) | <div>蒙古乐也是相当喜欢，独具一格的风格。乐器+吟唱</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4920939)<br>每一粒种子都是一个愿望<br>2015-03-13 20:41<br>赞(0) 踩(0) | <div>蒙古乐也是相当喜欢，独具一格的风格。<br>乐器+吟唱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25689240)<br>The All Chin...<br>2015-03-13 20:37<br>赞(0) 踩(0) | <div>太屌了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80313)<br>我爱虾米<br>2015-03-10 10:09<br>赞(1) 踩(0) | <div>现场太震撼了，今年搞巡回？！别老去欧洲了，我不担心您们被商业摧毁</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1563800)<br><br>2015-03-15 04:18<br>赞(0) 踩(0) | <div>央视买的顶级设备不是一般演艺公司能提供的，人家财大气粗，而进出口总公司也是央企直踩关系，效果不好才意外</div> |
@@ -460,7 +460,7 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/847574)<br><br>2015-01-18 23:25<br>赞(1) 踩(0) | <div>他们的声音和他们弹拔的乐器在一起，就如涓涓的流水，漫向心中，充满难以言传的情感。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/847574)<br><br>2015-01-18 23:21<br>赞(0) 踩(0) | <div>必须收藏！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/752597)<br><br>2015-01-18 22:58<br>赞(0) 踩(0) | <div>庸众们又一次发现宝藏 好东西多着呢 少见多怪</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/847574)<br><br>2015-01-18 23:27<br>赞(0) 踩(0) | <div>问题是，好东西，被大家所知并不多文化也是需要保护和传承的，有人在唱，也是一种传承。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/847574)<br><br>2015-01-18 23:27<br>赞(0) 踩(0) | <div>问题是，好东西，被大家所知并不多<br>文化也是需要保护和传承的，有人在唱，也是一种传承。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44356265)<br><br>2015-01-18 23:53<br>赞(0) 踩(0) | <div>同民大</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/752597)<br><br>2015-01-19 09:48<br>赞(0) 踩(0) | <div><q><b>耶嘿说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34405749)<br>暂无签名~<br>2015-01-18 22:22<br>赞(0) 踩(0) | <div>刚刚听了中国好歌曲，看到杭盖乐队就滚进来了，伟大</div> |
@@ -526,7 +526,7 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28291455)<br>2019不自闭<br>2015-01-17 01:21<br>赞(0) 踩(0) | <div>淡定</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151092)<br><br>2015-01-17 17:53<br>赞(0) 踩(0) | <div>凭啥让那些无脑的东西占据着主流传媒？也就是在国内，如此奇葩不科学的，要我看，只要有底线，音乐为主，扯淡为辅，上比不上好，不能再让不正常的再继续不正常下去，子子孙孙都如此。。。关键是心态要平和，如果喜欢此类的好歌曲可以加海龟民谣 61463943</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10270975)<br>好好学习天天向上<br>2015-01-16 20:06<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28291455)<br>2019不自闭<br>2015-01-16 20:00<br>赞(0) 踩(0) | <div>好歌曲都上了，估计不到几天就会来一堆“粉丝”来刷评论。哇！杭盖好棒啊！大爱杭盖！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28291455)<br>2019不自闭<br>2015-01-16 20:00<br>赞(0) 踩(0) | <div>好歌曲都上了，估计不到几天就会来一堆“粉丝”来刷评论。<br>哇！杭盖好棒啊！大爱杭盖！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151092)<br><br>2015-01-17 17:51<br>赞(0) 踩(0) | <div>呵呵呵，我就是看到好歌曲后来刷屏的，一大批粉丝向我大杭盖涌来，顺便可以加下海龟民谣 61463943</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5796607)<br>我的眼里只有你。<br>2015-01-16 19:56<br>赞(0) 踩(0) | <div>我也是好歌曲过来的，以前知道鸿雁，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22847279)<br>君子藏器。<br>2015-01-16 19:54<br>赞(0) 踩(0) | <div>磅礴！</div> |
@@ -627,7 +627,7 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3681540)<br><br>2014-02-20 17:21<br>赞(0) 踩(0) | <div>民谣,蒙古,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2418736)<br><br>2014-01-26 12:10<br>赞(0) 踩(0) | <div>美得滴血，笑得落泪！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8887984)<br> <br>2014-01-17 14:11<br>赞(0) 踩(0) | <div>蒙古摇滚！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13627621)<br><br>2014-01-21 21:07<br>赞(0) 踩(0) | <div>嗯，轻摇滚。民谣。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13627621)<br><br>2014-01-21 21:07<br>赞(0) 踩(0) | <div>嗯，轻摇滚。<br>民谣。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177415)<br> <br>2014-01-14 19:21<br>赞(3) 踩(0) | <div>想起家，这调子不属于房间的电脑，属于随着车辙一路深入草原的脏兮兮的车载播放器</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/998148)<br>等待戈多<br>2014-01-02 21:27<br>赞(0) 踩(0) | <div>稀饭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6762718)<br><br>2014-01-02 11:52<br>赞(0) 踩(0) | <div>音乐挺好，赞一个，这才是中国好声音~！但总感觉这应该算是世界音乐吧？和摇滚关系不大吧？</div> |
@@ -643,8 +643,8 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2851753)<br><br>2013-11-26 21:02<br>赞(0) 踩(0) | <div>我们老外一直都寻找这样音乐！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3834832)<br><br>2014-02-25 10:40<br>赞(0) 踩(0) | <div>你是老外？你打哪儿来？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17400471)<br><br>2013-11-20 17:00<br>赞(0) 踩(0) | <div>就是喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9633662)<br>ज्ञापारिमता<br>2013-11-16 18:30<br>赞(0) 踩(0) | <div>12月发布EP《鸿雁》曲目：1绿度母经2金色的秋天3鸿雁4金扣子期待</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3728604)<br><br>2013-11-16 06:40<br>赞(0) 踩(0) | <div>地元乐队支持一下，希望多有原创作品。非常非常喜欢义拉拉塔，腔调足！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9633662)<br>ज्ञापारिमता<br>2013-11-16 18:30<br>赞(0) 踩(0) | <div>12月发布EP《鸿雁》<br>曲目：<br>1绿度母经<br>2金色的秋天<br>3鸿雁<br>4金扣子<br>期待</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3728604)<br><br>2013-11-16 06:40<br>赞(0) 踩(0) | <div>地元乐队支持一下，希望多有原创作品。<br>非常非常喜欢义拉拉塔，腔调足！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9280289)<br><br>2013-11-08 19:14<br>赞(0) 踩(0) | <div>0.0.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1875418)<br><br>2013-11-07 18:23<br>赞(0) 踩(0) | <div>非常舒服的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1875418)<br><br>2013-11-07 18:22<br>赞(0) 踩(0) | <div>舒服</div> |
@@ -664,12 +664,12 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1744204)<br><br>2013-10-21 21:56<br>赞(0) 踩(0) | <div>ss</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11459601)<br>生活本应精彩<br>2013-10-21 21:40<br>赞(0) 踩(0) | <div>原生态的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5398540)<br>民歌警察出警中<br>2013-10-21 18:41<br>赞(0) 踩(0) | <div>先听听。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1638956)<br>I am a creep<br>2013-10-21 16:51<br>赞(0) 踩(0) | <div>好多专辑都没放上来啊！！！这不科学</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1638956)<br>I am a creep<br>2013-10-21 16:51<br>赞(0) 踩(0) | <div>好多专辑都没放上来啊！！！<br><br>这不科学</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6682776)<br>让牛逼的。。。。<br>2013-10-21 11:56<br>赞(1) 踩(0) | <div>悠扬的马头琴，低吟的嗓音，简单富有层次的节奏，深情的呼麦。。。听得眼眶里眼泪直打转，仿佛回到了前世^</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9358081)<br>蒙古音乐，蒙汉双语教学，...<br>2013-10-14 02:01<br>赞(0) 踩(0) | <div>喜欢蒙古族音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71547)<br>l'épisode su...<br>2013-10-12 15:58<br>赞(0) 踩(0) | <div>欢迎！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3535694)<br>暂无签名~<br>2013-10-11 17:34<br>赞(641) 踩(0) | <div>我刚入驻了虾米音乐人，欢迎大家来我的个人主页，收听我的最新音乐</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205735)<br>芒果的体型能变成黄瓜的么<br>2013-10-11 19:37<br>赞(0) 踩(0) | <div>撒花~，鼓掌~，求来深圳~。ps：《He Who Travels Far》还放出来么？？</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205735)<br>芒果的体型能变成黄瓜的么<br>2013-10-11 19:37<br>赞(0) 踩(0) | <div>撒花~，鼓掌~，求来深圳~。<br><br>ps：《He Who Travels Far》还放出来么？？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3823795)<br>金色的世界<br>2013-10-13 00:24<br>赞(0) 踩(0) | <div>热烈欢迎呀！！请求一件事：能否把《兄弟》放上来？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205735)<br>芒果的体型能变成黄瓜的么<br>2014-05-19 14:48<br>赞(0) 踩(0) | <div>强烈建议大神再出专辑的时候给拉丁音标，拉丁音标的重要性胜过英文。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1515914)<br>没签过名(˶‾᷄ ⁻̫ ...<br>2015-04-07 02:32<br>赞(0) 踩(0) | <div>中国终于出现了用良心做音乐的乐队 喜欢你们的马头琴 呼麦 和草原 与狼共舞的 马上民族气息 像刚挤出来的马奶一样新鲜！手抓肉一样豪气！ 希望不要脑袋一热扎到大众音乐里无法自拔 希望你们永远以匠人精神来走自己的路 精益求精！</div> |
@@ -735,7 +735,7 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13584727)<br><br>2013-03-21 10:18<br>赞(0) 踩(0) | <div>闭着眼睛就像到了草原</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13580933)<br>爱音乐 没道理<br>2013-03-18 20:40<br>赞(0) 踩(0) | <div>支持民族音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3665254)<br>你好<br>2013-03-15 21:23<br>赞(0) 踩(0) | <div>长调呼麦</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10802908)<br>赏鸟观日<br>2013-03-11 22:09<br>赞(0) 踩(0) | <div>原生态的音乐 歌曲听得很有气势我国的好歌曲 果然还是来自少数民族啊</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10802908)<br>赏鸟观日<br>2013-03-11 22:09<br>赞(0) 踩(0) | <div>原生态的音乐 歌曲听得很有气势<br>我国的好歌曲 果然还是来自少数民族啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9977890)<br>TepesDracula<br>2013-03-06 13:06<br>赞(0) 踩(0) | <div>杭盖乐队,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13137306)<br>SHALBUR<br>2013-02-22 09:55<br>赞(0) 踩(0) | <div>MASH GOY</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13168170)<br>1930<br>2013-02-21 20:27<br>赞(0) 踩(0) | <div>辽阔的歌</div> |
@@ -810,7 +810,7 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6340830)<br>Made in xi a...<br>2012-06-13 10:34<br>赞(0) 踩(0) | <div>听听民族,轻松很多</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6440424)<br><br>2012-06-12 17:49<br>赞(0) 踩(0) | <div>作为少数民族音乐 可以突破国家概念的束缚 更好的走向国际 杭盖是国内少族乐队或地域乐队走向全世界的楷模</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1283104)<br><br>2012-06-01 15:43<br>赞(0) 踩(0) | <div>说实话，老胡唱的太牛B了！听着真爽</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1283104)<br><br>2012-06-01 15:40<br>赞(0) 踩(0) | <div>建议大家买专辑！！真的~~新专辑的版本才会让人找到现场的感觉………………真的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1283104)<br><br>2012-06-01 15:40<br>赞(0) 踩(0) | <div>建议大家买专辑！！真的~~新专辑的版本才会让人找到现场的感觉………………<br><br>真的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3690774)<br>苍山负雪，浮生尽歇。<br>2012-05-31 23:12<br>赞(0) 踩(0) | <div>灵魂的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6409438)<br><br>2012-05-31 14:33<br>赞(0) 踩(0) | <div>名族而不失现代的流行元素，旋律轻快自然</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2850442)<br><br>2012-05-30 22:36<br>赞(0) 踩(0) | <div>hanggai!!!</div> |
@@ -883,7 +883,7 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6929731)<br><br>2011-12-13 23:58<br>赞(0) 踩(0) | <div>xihuan</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7223815)<br>就是嘛。<br>2011-12-13 13:58<br>赞(0) 踩(0) | <div>正点</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7130866)<br><br>2011-12-11 23:16<br>赞(0) 踩(0) | <div>不造作</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300550)<br> <br>2011-12-07 10:28<br>赞(0) 踩(0) | <div>民族的骄傲世界的炫耀</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300550)<br> <br>2011-12-07 10:28<br>赞(0) 踩(0) | <div>民族的骄傲<br>世界的炫耀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4992985)<br><br>2011-12-05 12:32<br>赞(0) 踩(0) | <div>Borulai\'s Lullaby 是一个悲哀的故事・・・・・</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61860)<br><br>2011-12-04 15:02<br>赞(0) 踩(0) | <div>看过一期节目，听到了杭盖的歌曲，认识了这个乐队，超喜欢～～～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6108391)<br><br>2011-11-19 14:06<br>赞(0) 踩(0) | <div>好</div> |
@@ -925,13 +925,13 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4252141)<br><br>2011-09-13 16:15<br>赞(0) 踩(0) | <div>想家乡~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4252141)<br><br>2011-09-13 16:07<br>赞(0) 踩(0) | <div>杭盖来自内蒙古~欢迎关注我家乡的乐队~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3704774)<br><br>2011-09-04 05:25<br>赞(0) 踩(0) | <div>有青海的味道，父亲很喜欢的歌曲</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4252141)<br><br>2011-09-13 16:06<br>赞(0) 踩(0) | <div>青海藏族多吧？杭盖还是很内蒙古的~</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4252141)<br><br>2011-09-13 16:06<br>赞(0) 踩(0) | <div>青海藏族多吧？<br>杭盖还是很内蒙古的~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1418324)<br><br>2011-09-20 13:04<br>赞(0) 踩(0) | <div><q><b>Joseph说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55228)<br><br>2011-08-26 08:50<br>赞(0) 踩(0) | <div>喜欢蒙古，喜欢民谣，喜欢呼麦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3816516)<br><br>2011-08-25 18:34<br>赞(0) 踩(0) | <div>很好听啊！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4771784)<br><br>2011-08-02 09:36<br>赞(0) 踩(0) | <div>治丧叔叔推荐的，真的是超级赞的民谣。他们的歌声很悠扬，可以传的很远。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4876426)<br><br>2011-07-18 22:26<br>赞(0) 踩(0) | <div>不说什么。。就是昂</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4856324)<br><br>2011-07-16 10:58<br>赞(0) 踩(0) | <div>刚看MOGO专访杭盖的视频。好特别的一群蒙古大汗在做很特别的音乐很独特值得一听</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4856324)<br><br>2011-07-16 10:58<br>赞(0) 踩(0) | <div>刚看MOGO专访杭盖的视频。<br>好特别的一群蒙古大汗<br>在做很特别的音乐<br>很独特<br>值得一听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4799634)<br><br>2011-07-10 19:31<br>赞(0) 踩(0) | <div>淳朴的原生态音乐，让人想到童年，想到故乡。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88883)<br>我还没想好要写什么...<br>2011-07-17 17:47<br>赞(0) 踩(0) | <div>同想。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280115)<br><br>2011-06-19 22:11<br>赞(0) 踩(0) | <div>NB!!!</div> |
@@ -961,7 +961,7 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2666685)<br><br>2011-05-12 17:38<br>赞(0) 踩(0) | <div>很想去感受一下。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217361)<br><br>2011-05-08 18:04<br>赞(0) 踩(0) | <div>现场太nb了~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3831732)<br><br>2011-05-07 13:53<br>赞(0) 踩(0) | <div>在草莓确实nb..越来越喜欢..</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1553118)<br><br>2011-05-07 03:05<br>赞(0) 踩(0) | <div>今年他们在草莓很劲爆，很多外国朋友也很喜欢杭盖！那腔儿一甩开感觉天都开了一半！哈哈，最后欢迎大家来内蒙古玩哦~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1553118)<br><br>2011-05-07 03:05<br>赞(0) 踩(0) | <div>今年他们在草莓很劲爆，很多外国朋友也很喜欢杭盖！那腔儿一甩开感觉天都开了一半！<br>哈哈，最后欢迎大家来内蒙古玩哦~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2139423)<br>若妳喜欢怪人,其实我很美<br>2011-05-13 20:55<br>赞(0) 踩(0) | <div>会去的·~呵呵一直向往着~~《狼图腾》</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4064428)<br><br>2011-05-25 23:32<br>赞(0) 踩(0) | <div>新手能下载吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3504901)<br><br>2011-06-13 16:52<br>赞(0) 踩(0) | <div><q><b>液态金属说：</b></q></div> |
@@ -989,7 +989,7 @@ Mao Livehouse 2009年度颁奖典礼 最佳舞台表现奖<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2267539)<br><br>2011-03-27 18:52<br>赞(0) 踩(0) | <div>一个有着蓝天、白云、草原、河流、山和树林的世界。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196356)<br><br>2011-03-27 12:12<br>赞(0) 踩(0) | <div>可惜,3/26 在上海的演出没有演成.不知道什么原因,不让演了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2824573)<br><br>2011-03-23 12:25<br>赞(0) 踩(0) | <div>很好听吧~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305293)<br><br>2011-03-15 11:10<br>赞(1) 踩(0) | <div>你们说的都是浮云！！！！！！我来总结吧，他们是一个让人听了就想跳舞的乐队！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305293)<br><br>2011-03-15 11:10<br>赞(1) 踩(0) | <div>你们说的都是浮云！！！！！！<br><br>我来总结吧，他们是一个让人听了就想跳舞的乐队！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9220701)<br><br>2013-09-15 15:11<br>赞(0) 踩(0) | <div>同感！握手！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3207694)<br><br>2011-03-14 20:43<br>赞(0) 踩(0) | <div>蒙语</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3151259)<br><br>2011-03-10 16:34<br>赞(0) 踩(0) | <div>因为喜欢</div> |

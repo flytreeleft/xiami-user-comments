@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435146275)<br>我还没想好要写什么...<br>2021-01-28 15:03<br>赞(0) 踩(0) | <div>音乐的价值在于补充了语言的苍白与狭隘！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435080639)<br><br>2021-01-05 08:11<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4219505)<br><br>2021-01-03 18:00<br>赞(0) 踩(0) | <div>喜欢没道理</div> |
@@ -35,7 +32,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336806194)<br><br>2020-07-03 23:03<br>赞(0) 踩(0) | <div>女声那几句哼唱是常静老师唱的吗？太惊艳了! <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355807151)<br>不懂黑暗，怎知光明的可贵...<br>2020-06-29 19:47<br>赞(2) 踩(0) | <div>鱼儿骗了虾米又偷偷跑出去玩耍！不一会儿蓬莱仙海狂风暴起巨浪接天电闪雷鸣， 直逼仙岛而来，大有分崩离析灭顶之灾。伯牙此时在房内单手抚琴，手指一滑偏了音色，伯牙双手压弦心神一沉，鱼儿已不在仙境之内，立即飞身而出。顷刻之间来到海上，独自面对狂风，神态自若，波澜不惊。狂风怒号，席卷而来，霎时天地变色。伯牙大喝一声，手中瑶琴早已跃跃欲试，飞离手掌。伯牙双手凝聚五行玄法对着狂风暴雨弹奏一曲《战台风》，气势如虹。伯牙玄力高深莫测，力压狂风不得向前。可这狂风必竟是天灾，非伯牙一已之力能消除，他能做的就是偏移它的轨迹，保全仙岛不受其灾。半日后龟岛。鱼儿还不快跟为师一起回去，经此一役你的《春江花月夜》可有些灵感？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45856156)<br>虾米十年后再见<br>2020-06-18 12:09<br>赞(0) 踩(0) | <div>我心涟漪</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401685724)<br>音乐温柔了我的灵魂<br>2020-06-12 00:57<br>赞(0) 踩(0) | <div>春江花月夜，对月思远人。月随波荡漾，心潮起涟漪。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401685724)<br>音乐温柔了我的灵魂<br>2020-06-12 00:57<br>赞(0) 踩(0) | <div>春江花月夜，<br>对月思远人。<br>月随波荡漾，<br>心潮起涟漪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440585873)<br><br>2020-05-17 12:59<br>赞(2) 踩(0) | <div>这是父亲往年最爱的曲子，如今，每当怀念他的音容只有在《春江花月夜》里寻了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278193)<br>展翅高飞，在音乐里翱翔。<br>2020-05-16 06:51<br>赞(4) 踩(0) | <div>古风沉厚，冉冉融合现代风，精湛高雅的技艺结东西风之长，各种乐器一起呈现涅槃重生！听后欲罢不能。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336605068)<br><br>2020-05-14 12:58<br>赞(1) 踩(0) | <div>大家知道是哪个唱片公司出品的吗？</div> |
@@ -96,26 +93,26 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32582846)<br><br>2019-09-14 07:45<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14470167)<br>与人为善，和平共处。<br>2019-09-13 19:51<br>赞(3) 踩(0) | <div>天涯共此时</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284682383)<br>Monfiryar Gr...<br>2019-09-13 17:28<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10006444)<br>淡然我心是为雅  倾情与...<br>2019-09-13 14:32<br>赞(76) 踩(0) | <div>很久没听常静的音乐了，值此中秋之际看见推荐，赶紧收听。久违的音韵直抵心底，音乐在0:25的节奏响起，仿如“离弦”与“呼吸”同步出现。哦，久违的感觉，很美妙。谢谢常静的中秋节礼物。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10006444)<br>淡然我心是为雅  倾情与...<br>2019-09-13 14:32<br>赞(76) 踩(0) | <div>很久没听常静的音乐了，值此中秋之际看见推荐，赶紧收听。久违的音韵直抵心底，音乐在0:25的节奏响起，仿如“离弦”与“呼吸”同步出现。哦，久违的感觉，很美妙。<br>谢谢常静的中秋节礼物。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10006444)<br>淡然我心是为雅  倾情与...<br>2019-11-05 08:32<br>赞(0) 踩(0) | <div>才发现，也许是当时的手误，应该是2:25，对不起这么多点赞的友友们 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353722630)<br>一生所爱     至死不...<br>2019-09-13 11:27<br>赞(53) 踩(0) | <div>古筝仙子常静的精湛琴艺动听悦耳，空灵唯美的琴声与底声吟唱融合电子音乐，西洋乐器的合奏把古风韵味的民乐诠释的更激情澎湃，同时也把中国古文化发扬推向世界舞台，值得大家的骄傲与赞赏。曲中的2:29分钟开始大胆的混入了摇滚曲风达到曲子最潮部分，有来势汹汹，气势不可当，大气磅礴，跌宕起伏之感，好棒！祝大家，中秋节佳节愉快！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353722630)<br>一生所爱     至死不...<br>2019-09-13 11:27<br>赞(53) 踩(0) | <div>古筝仙子常静的精湛琴艺动听悦耳，空灵唯美的琴声与底声吟唱融合电子音乐，西洋乐器的合奏把古风韵味的民乐诠释的更激情澎湃，同时也把中国古文化发扬推向世界舞台，值得大家的骄傲与赞赏。<br><br>曲中的2:29分钟开始大胆的混入了摇滚曲风达到曲子最潮部分，有来势汹汹，气势不可当，大气磅礴，跌宕起伏之感，好棒！<br><br>祝大家，中秋节佳节愉快！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2367065)<br><br>2019-09-13 08:43<br>赞(3) 踩(0) | <div>一直关注你的作曲， <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299396477)<br><br>2019-09-13 07:49<br>赞(5) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409382395)<br>所以不能者，为心未澄，欲...<br>2019-09-13 06:41<br>赞(44) 踩(0) | <div>涅槃重生!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254013234)<br>音乐是远方风铃。<br>2019-09-13 06:21<br>赞(5) 踩(0) | <div>不知乘月几人归，落月摇情满江树。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368165254)<br>.<br>2019-09-13 06:08<br>赞(5) 踩(0) | <div>赏月配好曲，中秋快乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375168097)<br>我本虚幻全在你心 愛虾米...<br>2019-09-13 05:44<br>赞(11) 踩(0) | <div>❤️ <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375168097)<br>我本虚幻全在你心 愛虾米...<br>2019-09-13 05:42<br>赞(18) 踩(0) | <div>只要把垃圾都藏在黑暗之中，世界看起来就歌舞升平了。——尾田荣一郎中秋节快乐2019913❤️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375168097)<br>我本虚幻全在你心 愛虾米...<br>2019-09-13 05:40<br>赞(7) 踩(0) | <div>只要把垃圾都藏在黑暗之中，世界看起来就歌舞升平了。——尾田荣一郎中秋节快乐2019913❤️</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375168097)<br>我本虚幻全在你心 愛虾米...<br>2019-09-13 05:42<br>赞(18) 踩(0) | <div>只要把垃圾都藏在黑暗之中，世界看起来就歌舞升平了。<br>——尾田荣一郎<br>中秋节快乐2019913❤️</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375168097)<br>我本虚幻全在你心 愛虾米...<br>2019-09-13 05:40<br>赞(7) 踩(0) | <div>只要把垃圾都藏在黑暗之中，世界看起来就歌舞升平了。<br>——尾田荣一郎<br>中秋节快乐2019913❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424249021)<br><br>2019-09-13 05:27<br>赞(4) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343365031)<br>倾听别人的声音<br>2019-09-13 05:16<br>赞(10) 踩(0) | <div>中秋快乐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355565780)<br>做好自己      其它...<br>2019-09-13 04:46<br>赞(5) 踩(0) | <div>海内存知己，天涯若比邻。～ ～ ～2019.9.13中秋节</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355565780)<br>做好自己      其它...<br>2019-09-13 04:46<br>赞(5) 踩(0) | <div>海内存知己，天涯若比邻。<br><br>～ ～ ～2019.9.13中秋节</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425273438)<br>我最喜欢你，因为你的心中...<br>2019-09-13 00:47<br>赞(5) 踩(0) | <div>女神！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7536131)<br><br>2019-09-13 00:43<br>赞(74) 踩(0) | <div>祝大家中秋快乐阖家幸福❤️</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149166)<br>品味音乐，品味生活<br>2019-09-13 03:48<br>赞(0) 踩(0) | <div>春江花月夜，中秋月明圆。中秋快乐！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13195333)<br>思想决定高度，行动决定成...<br>2019-09-14 22:11<br>赞(0) 踩(0) | <div>中秋快乐！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424866398)<br><br>2019-09-21 18:15<br>赞(0) 踩(0) | <div>琴声悠扬回味无穷。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238034849)<br><br>2019-10-11 13:28<br>赞(0) 踩(0) | <div>古筝仙子，中秋快乐！特别喜欢《十指弹一》。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238034849)<br><br>2019-10-11 13:28<br>赞(0) 踩(0) | <div>古筝仙子，中秋快乐！<br>特别喜欢《十指弹一》。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2992120)<br><br>2019-10-15 12:50<br>赞(0) 踩(0) | <div>常老师，北京奥运会上的那段是您唱的吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278193)<br>展翅高飞，在音乐里翱翔。<br>2020-05-13 13:27<br>赞(0) 踩(0) | <div>真棒的作品！仙作！意境深远，回味无穷！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278193)<br>展翅高飞，在音乐里翱翔。<br>2020-05-13 13:28<br>赞(0) 踩(0) | <div><q><b>冷月说：</b></q></div> |

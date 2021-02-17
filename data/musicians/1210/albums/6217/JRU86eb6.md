@@ -41,16 +41,16 @@ Bye-Bye
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40236238)<br>我还没想好要写什么...<br>2021-01-25 22:49<br>赞(0) 踩(0) | <div>bye bye，虾米爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31647905)<br>感情到头了事业也8行，现...<br>2021-01-06 17:57<br>赞(0) 踩(0) | <div>byebye，虾米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/161177120)<br> <br>2020-12-25 19:01<br>赞(0) 踩(0) | <div>这音调很OK</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37826691)<br>很危险<br>2020-12-02 09:45<br>赞(0) 踩(0) | <div>byebye虾米</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6030867)<br>你的问题主要在于读书不多...<br>2020-11-30 21:23<br>赞(1) 踩(0) | <div>虽然他没车没房，但他了解你，你喜欢的他都可以给你。你和他在一起有种莫名的欢喜，你和他一起有无数的美好回忆，在他那里是真诚，是美好，是踏实。可是，毫无征兆的，今天，他告诉你，我快死了。我要走了。就这样，留下自己在原地，呆呆的想，以后怎么办呢？既然无法挽留，希望虾米一切都好，谢谢所有的专业的大虾整理的音乐人的资料，上传的专辑，整理的歌单，梳理的音乐风格，还有还有认认真真做音乐的每个人，谢谢你们~希望在另一个平台还可以看到大家~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6030867)<br>你的问题主要在于读书不多...<br>2020-11-30 21:23<br>赞(1) 踩(0) | <div>虽然他没车没房，但他了解你，<br>你喜欢的他都可以给你。<br>你和他在一起有种莫名的欢喜，<br>你和他一起有无数的美好回忆，<br>在他那里是真诚，是美好，是踏实。<br>可是，毫无征兆的，<br>今天，他告诉你，我快死了。我要走了。<br>就这样，留下自己在原地，呆呆的想，以后怎么办呢？<br>既然无法挽留，希望虾米一切都好，<br>谢谢所有的专业的大虾整理的音乐人的资料，上传的专辑，整理的歌单，<br>梳理的音乐风格，还有还有认认真真做音乐的每个人，<br>谢谢你们~希望在另一个平台还可以看到大家~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213612982)<br>不介意颠沛，远胜过傀儡，...<br>2020-11-27 09:57<br>赞(4) 踩(0) | <div>失去的都是不属于我的，挥挥手，说beybey</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192694888)<br>flag<br>2020-11-16 01:09<br>赞(1) 踩(0) | <div>这哥真的有意思</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27122274)<br>我们不说，就没有改变。我...<br>2020-10-29 12:21<br>赞(2) 踩(0) | <div>我们都在猜测对方是否会想自己，我们都希望对方先主动，最后的最后，我们渐行渐远。唯有再见&amp;hellip;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27122274)<br>我们不说，就没有改变。我...<br>2020-10-29 12:21<br>赞(2) 踩(0) | <div>我们都在猜测对方是否会想自己，我们都希望对方先主动，<br>最后的最后，我们渐行渐远。<br>唯有再见&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27122274)<br>我们不说，就没有改变。我...<br>2020-10-29 12:21<br>赞(0) 踩(0) | <div>我们都在猜测对方是否会想自己，我们都希望对方先主动，最后的最后，我们渐行渐远。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255856984)<br>Mamba mental...<br>2020-09-01 23:50<br>赞(1) 踩(0) | <div>Bye bye,过去的自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340256370)<br><br>2020-08-19 08:11<br>赞(0) 踩(0) | <div>你说小白大长腿吗？</div> |
@@ -109,7 +109,7 @@ Bye-Bye
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100597784)<br> <br>2018-01-08 23:36<br>赞(2) 踩(0) | <div>喜欢阿岳，夜里听起来很幸福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101617174)<br> <br>2018-01-06 23:25<br>赞(3) 踩(0) | <div>听来听去最喜欢的还是你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80004936)<br> <br>2017-12-23 12:01<br>赞(2) 踩(0) | <div>第一次听是在10年前，我们都变了，唯一不变的是阿岳质朴的歌声</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339326901)<br><br>2017-12-14 22:23<br>赞(1) 踩(0) | <div>尽然这么少的评论？!岳哥这么好听的歌，独享还是比较好的 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339326901)<br><br>2017-12-14 22:23<br>赞(1) 踩(0) | <div>尽然这么少的评论？!<br>岳哥这么好听的歌，独享还是比较好的 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335578239)<br><br>2017-12-10 21:09<br>赞(3) 踩(0) | <div>特别喜欢的歌，仅次于思念是一种病，但为啥就是知名度不高嘞 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55180263)<br>勿聒噪乱视听<br>2017-12-05 00:06<br>赞(1) 踩(0) | <div>整个人都回到了那个年代 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14775607)<br> <br>2017-11-27 11:19<br>赞(1) 踩(0) | <div>这首歌开始是他写给李心洁的，但他唱的更有无奈的感觉。</div> |
@@ -176,7 +176,7 @@ Bye-Bye
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95278978)<br> <br>2016-07-18 16:38<br>赞(0) 踩(0) | <div>bye bye</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200954214)<br> <br>2016-07-14 20:16<br>赞(58) 踩(0) | <div>听 张震岳的歌好有感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37682629)<br> <br>2016-07-09 02:08<br>赞(0) 踩(0) | <div>夏天的感觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25457132)<br> <br>2016-07-05 01:20<br>赞(3) 踩(0) | <div>张震岳也适合夏天听朝阳byebye</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25457132)<br> <br>2016-07-05 01:20<br>赞(3) 踩(0) | <div>张震岳也适合夏天听<br>朝阳byebye</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197397218)<br>高冷<br>2016-07-04 21:03<br>赞(0) 踩(0) | <div>wo～好想说，bye bye.～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/184415801)<br>咋啦<br>2016-06-26 13:42<br>赞(2) 踩(0) | <div>我也喜欢阿岳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/167932808)<br><br>2016-05-22 11:49<br>赞(0) 踩(0) | <div>每次听都好想哭，舍不得胤胤 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
@@ -225,16 +225,16 @@ Bye-Bye
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16787013)<br>Fool here.<br>2014-07-06 21:09<br>赞(0) 踩(0) | <div>bye-bye</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7122623)<br><br>2014-06-23 11:02<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8181939)<br><br>2014-03-01 13:18<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开，还有多久的时间多少寂寞你才会回来，应该要怎么做 我好想要说，Bye-Bye！白白朋友@大粘粘粘糕</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10763419)<br>TMAC<br>2014-02-19 13:34<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开还有多久的时间多少寂寞你才明白应该怎么做不会太伤感</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10763419)<br>TMAC<br>2014-02-19 13:34<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开<br>还有多久的时间多少寂寞你才明白<br>应该怎么做不会太伤感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31656746)<br><br>2014-01-17 01:18<br>赞(0) 踩(0) | <div>应该要怎么做，不会太伤感X﹏X</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20080427)<br><br>2013-12-30 23:26<br>赞(0) 踩(0) | <div>还有多久的时间多少寂寞你才会明白</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7112903)<br><br>2013-12-19 15:15<br>赞(0) 踩(0) | <div>歌词漂亮符合我</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4993479)<br><br>2013-12-01 16:43<br>赞(0) 踩(0) | <div>我好想要说Bye-Bye</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17441453)<br><br>2013-09-24 09:36<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开还有多久的时间多少寂寞你才会明白应该要怎么做 不会太伤感</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4993479)<br><br>2013-12-01 16:43<br>赞(0) 踩(0) | <div>我好想要说<br>Bye-Bye</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17441453)<br><br>2013-09-24 09:36<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开<br>还有多久的时间多少寂寞你才会明白<br>应该要怎么做 不会太伤感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18630096)<br><br>2013-08-11 11:39<br>赞(0) 踩(0) | <div>我知道你这次走开 不会说任何一句离别的话</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8568813)<br> <br>2013-08-05 04:34<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开，还要多久的时间多少寂寞你才明白</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7349351)<br><br>2013-07-24 21:48<br>赞(0) 踩(0) | <div>你回头对我笑，在起风的时候想念你的人在这里，没有离开</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7349351)<br><br>2013-07-24 21:41<br>赞(0) 踩(0) | <div>你回头对我笑，在起风的时候想念你的人在这里，没有离开</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7349351)<br><br>2013-07-24 21:48<br>赞(0) 踩(0) | <div>你回头对我笑，在起风的时候<br>想念你的人在这里，没有离开</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7349351)<br><br>2013-07-24 21:41<br>赞(0) 踩(0) | <div>你回头对我笑，在起风的时候<br>想念你的人在这里，没有离开</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8906157)<br>我还没想好要写什么...<br>2013-06-27 19:19<br>赞(0) 踩(0) | <div>#毕业季#听到这个 想念你们了“应该要怎么做 才不会太伤感”太多也不说什么鸟 这歌是现在的心情 阿岳的歌潇洒真实 默默地祈祷和祝福 哥姐们平安 健康 幸福 快乐[可爱]大家都会越来越好的@Vicky在凌晨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8906157)<br>我还没想好要写什么...<br>2013-06-27 18:10<br>赞(0) 踩(0) | <div>#毕业季#听到这个 想念你们了“应该要怎么做 不会太伤感&amp;quot;太多也不说什么 这歌是现在的心情 阿岳的歌潇洒真实 默默地祈祷和祝福 哥姐们平安 健康 幸福 快乐 大家都会越来越好@Angela的蘑菇小象</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9453358)<br><br>2013-06-21 22:43<br>赞(0) 踩(0) | <div>在学校的最后一夜，一边听一边打包~~~~byebye</div> |
@@ -249,10 +249,10 @@ Bye-Bye
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1280296)<br>暂无签名~<br>2012-10-18 09:29<br>赞(0) 踩(0) | <div>bye-bye</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/689126)<br>我还没想好要写什么...<br>2012-10-14 23:20<br>赞(1) 踩(0) | <div>阿岳的鼓点也可以包治百病喔~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8714428)<br><br>2012-07-21 11:44<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开  还有多久的时间多少寂寞你才回来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8714428)<br><br>2012-07-20 21:38<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开还有多久的时间多少寂寞你才会明白</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8714428)<br><br>2012-07-20 21:38<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开<br>还有多久的时间多少寂寞你才会明白</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2137849)<br>be better<br>2012-05-10 17:19<br>赞(0) 踩(0) | <div>离别的歌...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8954802)<br><br>2012-04-22 12:38<br>赞(0) 踩(0) | <div>byebye</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8528363)<br><br>2012-03-21 16:30<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开还有多久的时间多少寂寞你才会明白应该要怎么做 不会太伤感</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8528363)<br><br>2012-03-21 16:30<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开<br>还有多久的时间多少寂寞你才会明白<br>应该要怎么做 不会太伤感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8528363)<br><br>2012-03-21 16:27<br>赞(0) 踩(0) | <div>海仔的彩铃，所以想念。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1680820)<br><br>2012-03-01 22:56<br>赞(0) 踩(0) | <div>夜里听听张震岳还是不错的，仿佛闷热天气飘来一丝清风。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7958683)<br><br>2012-02-28 21:59<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开 还要多久的时间多少寂寞你才明白</div> |
@@ -269,7 +269,7 @@ Bye-Bye
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1474837)<br><br>2011-03-11 16:14<br>赞(0) 踩(0) | <div>青春，欢快</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/388234)<br><br>2011-03-09 17:26<br>赞(0) 踩(0) | <div>一直没有离开</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2722290)<br>KeepDreaming<br>2011-02-10 12:26<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/976982)<br> <br>2011-02-08 09:03<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开还有多久的时间多少寂寞你才会回来应该要怎么做 我好想要说哦噢...Bye-Bye</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/976982)<br> <br>2011-02-08 09:03<br>赞(0) 踩(0) | <div>想念你的人在这里没有离开<br>还有多久的时间多少寂寞你才会回来<br>应该要怎么做 我好想要说<br>哦噢...<br>Bye-Bye</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1251638)<br><br>2011-01-13 16:16<br>赞(0) 踩(0) | <div>唱悲情歌，听了只是像阳光晒晒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/776088)<br>不愿一个人<br>2011-01-11 07:32<br>赞(0) 踩(0) | <div>李心洁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234796)<br>我还没想好要写什么...<br>2009-07-24 22:59<br>赞(0) 踩(0) | <div>Bye-Bye</div> |

@@ -12,12 +12,9 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11039895)<br><br>2017-10-31 00:03<br>赞(0) 踩(0) | <div>求歌词，这个发音听不清 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |

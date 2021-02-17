@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/413cde795c0d4a37f852b7a88f197c13.jpeg)<br>杜贴心](https://i.xiami.com/tiexin) | **播放数**: 2880591<br>**粉丝数**: 359<br>**评论数**: 48<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 传统民谣 Traditional Folk, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/413cde795c0d4a37f852b7a88f197c13.jpeg)<br>杜贴心](https://i.xiami.com/tiexin) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 传统民谣 Traditional Folk, 轻音乐 Easy Listening<br>**播放数**: 2880591<br>**粉丝数**: 359<br>**评论数**: 48<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2753337)<br>想念虾米，可惜“再回首 ...<br>2020-10-28 17:40<br>赞(0) 踩(0) | <div>好听！俺超低空悄悄掠过~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325205625)<br><br>2019-12-29 23:11<br>赞(0) 踩(0) | <div>，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325374787)<br><br>2019-12-29 17:55<br>赞(0) 踩(0) | <div>～</div> |

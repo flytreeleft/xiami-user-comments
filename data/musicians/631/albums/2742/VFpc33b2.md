@@ -55,7 +55,7 @@ what's wrong with him?
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13790931)<br> <br>2015-03-26 17:28<br>赞(0) 踩(0) | <div>好きです～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3788310)<br><br>2012-08-13 15:03<br>赞(0) 踩(0) | <div>萌啊～～</div> |

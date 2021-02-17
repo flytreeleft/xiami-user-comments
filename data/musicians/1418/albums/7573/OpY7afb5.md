@@ -43,8 +43,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2021-01-15 06:02<br>赞(0) 踩(0) | <div>你的背包里一直装着我给你放着的伞 可北方雨水少 那把没用的伞啊 就像我没用的爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8768505)<br>I <br>2021-01-07 03:45<br>赞(0) 踩(0) | <div>也开始喜欢雨天了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74963482)<br>拜拜四季放映厅<br>2020-11-01 21:54<br>赞(0) 踩(0) | <div>那把没用的伞</div> |
@@ -91,7 +91,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262392135)<br>散半里的步<br>2017-06-28 19:15<br>赞(0) 踩(0) | <div>特别喜欢林宥嘉的版本</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/185701869)<br> <br>2017-06-27 23:11<br>赞(1) 踩(0) | <div>我是一个没有伞的人 我说我想在手上纹一把伞 我想成为你的保护伞 但我也是没用的伞 很多时候等你安全到家等到很迟 我苦苦坚持 你却说我不该  &amp;ldquo;我笨到奉上了所有牵挂&amp;rdquo;到现在&amp;ldquo;你来了也没有用&amp;rdquo;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17828943)<br><br>2017-06-27 00:43<br>赞(1) 踩(0) | <div>你来了也没有用</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2017-06-26 20:44<br>赞(1) 踩(0) | <div>你我都不喜欢带伞 昨天也是雨天 去陪你剪了头发 但你的头发还是长的可以绑起来到肩膀我总是跟你说 长头发的男孩子真吸引我 而你就是 并且也听摇滚乐我想我会爱上你从不喜欢带伞的你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2017-06-26 20:44<br>赞(1) 踩(0) | <div>你我都不喜欢带伞 昨天也是雨天 去陪你剪了头发 但你的头发还是长的可以绑起来到肩膀<br>我总是跟你说 长头发的男孩子真吸引我 而你就是 并且也听摇滚乐<br>我想我会爱上你<br>从不喜欢带伞的你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46523678)<br> <br>2017-06-26 13:20<br>赞(7) 踩(0) | <div>你走吧 不舍还你 自由还你 最甜美的关于你的梦还你 六月的傍晚还你 第一次拥抱和最后一次亲吻还你 肩膀还你 返程票还你 平静还你 两个人的晚餐还你 钥匙还你 家还你 一意孤行和关于未来的所有希冀 全都还你</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2017-08-15 02:05<br>赞(0) 踩(0) | <div>那就 都忘了吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12383696)<br>honest<br>2017-06-26 12:52<br>赞(2) 踩(0) | <div>是公主，不是老师 <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
@@ -99,7 +99,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102433546)<br>女版林宥嘉<br>2017-12-13 14:42<br>赞(0) 踩(0) | <div>我咋觉得有点像王菲。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20012026)<br>-<br>2017-06-26 03:19<br>赞(0) 踩(0) | <div>珊妮公主真的是很有才华很有个性的歌手，林宥嘉的声音是我心里跟公主最合拍的没有之一。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54169475)<br>我还没想好要写什么...<br>2017-06-25 17:02<br>赞(0) 踩(0) | <div>想被你打发啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86793278)<br>阿不塞哟<br>2017-06-25 13:08<br>赞(1) 踩(0) | <div>那些辜负别人感情的人那些玩弄别人感情的人那些无视别人感情的人那些拿别人感情当笑话的人你们他妈的是人吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86793278)<br>阿不塞哟<br>2017-06-25 13:08<br>赞(1) 踩(0) | <div>那些辜负别人感情的人<br>那些玩弄别人感情的人<br>那些无视别人感情的人<br>那些拿别人感情当笑话的人<br>你们他妈的是人吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261677480)<br><br>2017-06-25 12:00<br>赞(4) 踩(0) | <div>昨晚林宥嘉又唱了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32824512)<br>阴凉潮湿晦暗 回到无人洞...<br>2017-06-25 03:16<br>赞(0) 踩(0) | <div>未来长沙大半个月都是连绵的雨 那就不见你了吧 即便晴天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271835377)<br><br>2017-06-18 15:55<br>赞(0) 踩(0) | <div>很悲伤很悲伤的歌心酸</div> |
@@ -111,7 +111,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252306922)<br>❤️音乐，❤️生活<br>2017-04-09 10:04<br>赞(0) 踩(0) | <div>yoga⋯⋯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26579731)<br>这家伙很聪明什么也没留下...<br>2017-04-03 01:12<br>赞(0) 踩(0) | <div>没用的伞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13952787)<br>别祈祷 我们先闹<br>2017-03-24 22:55<br>赞(0) 踩(0) | <div>你来了也没有用</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73848570)<br> <br>2017-03-19 20:55<br>赞(0) 踩(0) | <div>你来了也没有用你来了也没有用你来了也没有用</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73848570)<br> <br>2017-03-19 20:55<br>赞(0) 踩(0) | <div>你来了也没有用<br>你来了也没有用<br>你来了也没有用</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114429406)<br>来不及<br>2017-03-19 18:47<br>赞(0) 踩(0) | <div>没用的伞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49668067)<br>離別是不對的<br>2017-03-16 07:04<br>赞(0) 踩(0) | <div>明知道这是一场下不完的雨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72529860)<br>很不错<br>2017-03-14 23:12<br>赞(2) 踩(0) | <div>生命好短啊 那么多听的歌 会听不完</div> |
@@ -133,7 +133,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50694788)<br>我还没想好要写什么...<br>2016-10-18 00:39<br>赞(29) 踩(0) | <div>如果提名“我最不能听的歌”这首绝对排在榜首，每次一听都只想冲出门夜奔。我所有苦恋的细枝末节都藏在这首歌里，2013年的平安夜躲在空教室里写满满一黑板，没用的伞，你来了也没有用。你来了也没有用</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38492654)<br><br>2016-10-11 12:09<br>赞(3) 踩(0) | <div>好好听 yoga的也好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/157084866)<br> <br>2016-09-30 23:24<br>赞(0) 踩(0) | <div>在玻璃窗前，看着那滴雨不舍地掉在窗沿。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86501566)<br>下午三点在闷热街边等车的...<br>2016-08-08 22:04<br>赞(1) 踩(0) | <div>宥嘉版本也很好听，还好我下载的早.⌒.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86501566)<br>下午三点在闷热街边等车的...<br>2016-08-08 22:04<br>赞(1) 踩(0) | <div>宥嘉版本也很好听，还好我下载的早<br>.⌒.</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44134724)<br>暂无签名~<br>2016-08-13 00:11<br>赞(0) 踩(0) | <div>宥嘉的在哪儿</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86501566)<br>下午三点在闷热街边等车的...<br>2016-08-13 08:00<br>赞(0) 踩(0) | <div><q><b>trustalker说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44134724)<br>暂无签名~<br>2016-08-13 10:32<br>赞(0) 踩(0) | <div><q><b> ̮ 说：</b></q></div> |
@@ -148,8 +148,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16407075)<br>我还没想好要写什么...<br>2016-05-07 18:30<br>赞(4) 踩(0) | <div>口的形状一击必杀的一首歌……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22269242)<br>cool kids ne...<br>2016-04-28 11:18<br>赞(0) 踩(0) | <div>张迪超</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45832608)<br> <br>2016-04-06 09:35<br>赞(1) 踩(0) | <div>明知道这是一场下不完的雨    你的伞也没有用</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18246699)<br>灵魂总是要贪 片刻灿烂<br>2016-04-06 00:24<br>赞(4) 踩(0) | <div>一开始就该确定我们不会好转天气预报都是真的是我不轻易躲雨</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18246699)<br>灵魂总是要贪 片刻灿烂<br>2016-04-06 00:23<br>赞(2) 踩(0) | <div>一开始就该确定我们不会好转天气预报都是真的是我不轻易躲雨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18246699)<br>灵魂总是要贪 片刻灿烂<br>2016-04-06 00:24<br>赞(4) 踩(0) | <div>一开始就该确定我们不会好转<br>天气预报都是真的<br><br>是我不轻易躲雨</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18246699)<br>灵魂总是要贪 片刻灿烂<br>2016-04-06 00:23<br>赞(2) 踩(0) | <div>一开始就该确定我们不会好转<br>天气预报都是真的<br><br>是我不轻易躲雨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22269242)<br>cool kids ne...<br>2016-04-04 10:15<br>赞(1) 踩(0) | <div>张迪超</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49946027)<br>肖邦最恨  流行的歌<br>2016-03-24 20:19<br>赞(1) 踩(0) | <div>好好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104946474)<br>我还没想好要写什么...<br>2016-03-24 18:35<br>赞(8) 踩(0) | <div>因为田馥甄</div> |
@@ -217,7 +217,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5642444)<br><br>2013-02-07 19:26<br>赞(0) 踩(0) | <div>@CIKI-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5938183)<br><br>2013-01-23 22:33<br>赞(0) 踩(0) | <div>明知道这是一场下不完的雨，你的伞也没有用。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11773245)<br><br>2013-01-01 02:30<br>赞(0) 踩(0) | <div>&amp;gt;_____________&amp;lt;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232002)<br><br>2012-12-11 23:16<br>赞(0) 踩(0) | <div>“一开始就该确定天气不会好转你的预报都是真的是我太喜欢淋雨 ”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232002)<br><br>2012-12-11 23:16<br>赞(0) 踩(0) | <div>“一开始就该确定天气不会好转<br>你的预报都是真的<br>是我太喜欢淋雨 ”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11055073)<br><br>2012-12-01 14:30<br>赞(0) 踩(0) | <div>下雨天，我沒帶傘。你說你會來，可是你的傘已對我沒有用了。抱歉，這雨水弄髒了你的傘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10980457)<br>QAQ<br>2012-11-05 01:16<br>赞(0) 踩(0) | <div>嗯.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8063473)<br><br>2012-10-30 00:33<br>赞(0) 踩(0) | <div>明知道这是一场下不完的雨，你的伞也没有用。</div> |
@@ -226,6 +226,6 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11233755)<br><br>2012-10-28 00:02<br>赞(0) 踩(0) | <div>一开始就该确定天气不会好转</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11233755)<br><br>2012-10-27 22:39<br>赞(0) 踩(0) | <div>一开始就该确定天气不会好转</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4750215)<br><br>2012-01-14 02:30<br>赞(0) 踩(0) | <div>一開始就該確定我們不會好轉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4903867)<br>这家伙很聪明什么也没留下...<br>2012-01-06 02:31<br>赞(0) 踩(0) | <div>你说我傻我真的傻你说我蠢也蠢出火花你说我笨我笨得起等你来被你打发你说我傻我真的傻你说我蠢也蠢得疯狂你说我笨我笨得奉上所有牵挂</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4903867)<br>这家伙很聪明什么也没留下...<br>2012-01-06 02:31<br>赞(0) 踩(0) | <div>你说我傻我真的傻<br>你说我蠢也蠢出火花<br>你说我笨我笨得起等你来<br>被你打发<br>你说我傻我真的傻<br>你说我蠢也蠢得疯狂<br>你说我笨我笨得奉上所有牵挂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313505)<br><br>2011-06-02 11:49<br>赞(0) 踩(0) | <div>明知道这是一场下不完的雨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134697)<br><br>2010-12-09 02:50<br>赞(0) 踩(0) | <div>“笨蛋”、“傻瓜”...那都是谁的话语</div> |

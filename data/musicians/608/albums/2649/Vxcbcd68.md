@@ -12,43 +12,40 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208342223)<br> 尘世中迷途小书童……<br>2021-01-23 22:22<br>赞(0) 踩(0) | <div>2月5号，我就转战网易云音乐了。那边林哥哥在路上被人注册了，只有&amp;ldquo;林哥哥一直在路上&amp;rdquo;。坚持听到最后一天。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8226693)<br>Musik des Ei...<br>2020-09-11 00:00<br>赞(2) 踩(0) | <div>流云细雨纤指间，荻花素素点凝烟。童心袅袅璇蝶梦，不知秋音寄谁家。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409088387)<br><br>2020-03-12 01:18<br>赞(0) 踩(0) | <div>长霞落日，云卷云舒。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8226693)<br>Musik des Ei...<br>2020-09-11 00:00<br>赞(2) 踩(0) | <div>流云细雨纤指间，荻花素素点凝烟。<br>童心袅袅璇蝶梦，不知秋音寄谁家。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409088387)<br><br>2020-03-12 01:18<br>赞(0) 踩(0) | <div>长霞落日，<br>云卷云舒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268013804)<br><br>2019-12-02 00:29<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343555192)<br><br>2019-11-23 10:35<br>赞(2) 踩(0) | <div>非常好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421378594)<br><br>2019-10-19 15:29<br>赞(2) 踩(0) | <div>听着音乐仿佛置身于云端。弹得怎么这么好！曲作的也好 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">不由得又听了几遍</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7455859)<br>我还没想好要写什么...<br>2019-09-19 13:48<br>赞(2) 踩(0) | <div>纤云弄巧，飞星传恨，银汉迢迢暗度。金风玉露一相逢，便胜却人间无数。柔情似水，佳期如梦，忍顾鹊桥归路。两情若是久长时，又岂在朝朝暮暮。宋代秦观 《鹊桥仙&amp;middot;纤云弄巧》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7455859)<br>我还没想好要写什么...<br>2019-09-19 13:48<br>赞(2) 踩(0) | <div>纤云弄巧，飞星传恨，银汉迢迢暗度。金风玉露一相逢，便胜却人间无数。<br>柔情似水，佳期如梦，忍顾鹊桥归路。两情若是久长时，又岂在朝朝暮暮。<br>宋代秦观 《鹊桥仙&amp;middot;纤云弄巧》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375000904)<br> <br>2019-08-05 09:23<br>赞(1) 踩(0) | <div>心累的时候，听听林海大师的弄云</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342528369)<br>做自己最嗨<br>2019-07-29 14:34<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10864166)<br>心中充满爱时 刹那即永恒<br>2019-07-12 23:41<br>赞(0) 踩(0) | <div>长大以后会发现原来很喜欢的人，在很久很久之后都会忘了原来世界上还有他这么个人，偶尔看到照片才觉得啊，原来曾经那么喜欢他。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409850033)<br>我曾爱过如你般炽热的灵魂<br>2019-06-28 23:54<br>赞(0) 踩(0) | <div>听古风，是因为，曲中有过往的人。尤其是，琵琶声声续续，思念更加悠远缠绵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26236734)<br>何以解忧，唯有音乐<br>2019-05-17 14:30<br>赞(1) 踩(0) | <div>大珠小珠落玉盘</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376631264)<br>睡个好觉<br>2019-04-06 21:45<br>赞(1) 踩(0) | <div>作曲编曲轻音乐柳琵琶</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376631264)<br>睡个好觉<br>2019-04-06 21:45<br>赞(1) 踩(0) | <div>作曲编曲<br>轻音乐<br>柳琵琶</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361127250)<br><br>2019-03-07 23:10<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355772200)<br>我从光中来，承载着光的信...<br>2019-03-06 14:03<br>赞(0) 踩(0) | <div>饭后一个人看书，音乐随机放了半天也没怎么注意听，只是静静地看着自己的书本，但这首曲子响起后，注意力就没法安住在书本上了，于是单曲循环了好几遍，说不上为什么，可能是感觉人生有些孤独</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355772200)<br>我从光中来，承载着光的信...<br>2019-03-06 14:11<br>赞(0) 踩(0) | <div>长时间的孤独，难的是安然面对自己的内心，若有幸遇到一个红颜知己作伴，此生也算无憾</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343573086)<br><br>2019-03-01 20:41<br>赞(4) 踩(0) | <div>行到水穷处，坐看云起时——《弄云》世事沧桑，宦海沉浮，我只在辋川，看云，听风，读我的琴音。世间行乐，我有我的原则。极爱这首曲子，就像我极爱王维的诗，在那个华丽的盛唐背景下，空灵、清丽、澄澈，如月下谈禅一般的现实。方方说她要嫁东坡，而我想，嫁东坡不如嫁王维，翩翩公子，诗画双绝，更难得谈得一首好琴。在岐王和太平公主的宴上，一曲琵琶如此潇洒，如此洒脱地捕获了一颗芳心。高音缭绕，如在白云穿行，云破月来花弄影，官至右丞的王维心向山水，在溪流中看云影，行行复行行，路不完，心不老。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343573086)<br><br>2019-03-01 20:41<br>赞(4) 踩(0) | <div>行到水穷处，坐看云起时——《弄云》<br>世事沧桑，宦海沉浮，我只在辋川，看云，听风，读我的琴音。<br>世间行乐，我有我的原则。<br><br>极爱这首曲子，就像我极爱王维的诗，在那个华丽的盛唐背景下，空灵、清丽、澄澈，如月下谈禅一般的现实。<br>方方说她要嫁东坡，而我想，嫁东坡不如嫁王维，翩翩公子，诗画双绝，更难得谈得一首好琴。在岐王和太平公主的宴上，一曲琵琶如此潇洒，如此洒脱地捕获了一颗芳心。<br>高音缭绕，如在白云穿行，云破月来花弄影，官至右丞的王维心向山水，在溪流中看云影，行行复行行，路不完，心不老。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91940046)<br>爱虾米爱音乐<br>2019-01-28 23:56<br>赞(2) 踩(0) | <div>我感觉我要碰到星星和月亮了 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371161474)<br>择一城终老，遇一人白首，...<br>2019-01-24 17:40<br>赞(2) 踩(0) | <div>众生皆苦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404068863)<br>找到了诗画册，很开心。<br>2019-01-09 04:01<br>赞(2) 踩(0) | <div>缥缥缈缈，正好人间。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313103899)<br>双双归白云<br>2018-12-20 12:59<br>赞(3) 踩(0) | <div>情怀寄明月</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951829)<br>孤鴻寄語·血色琉璃<br>2018-10-30 23:11<br>赞(2) 踩(0) | <div>云散缘由不是风</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7097744)<br><br>2018-10-16 08:18<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2276166)<br><br>2018-10-10 15:44<br>赞(8) 踩(0) | <div>寄蜉蝣于天地，渺沧海之一粟。哀吾生之须臾，羡长江之无穷。挟飞仙以遨游，抱明月而长终。知不可乎骤得，托遗响于悲风。—— 苏轼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7529095)<br>音乐是包容的 包疾苦煩恼...<br>2018-10-03 01:25<br>赞(2) 踩(0) | <div>浣溪沙宋&amp;middot;秦观漠漠轻寒上小楼，晓阴无赖似穷秋。淡烟流水画屏幽。自在飞花轻似梦，无边丝雨细如愁。宝帘闲挂小银钩。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2276166)<br><br>2018-10-10 15:44<br>赞(8) 踩(0) | <div>寄蜉蝣于天地，渺沧海之一粟。<br>哀吾生之须臾，羡长江之无穷。<br>挟飞仙以遨游，抱明月而长终。<br>知不可乎骤得，托遗响于悲风。<br><br>—— 苏轼</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7529095)<br>音乐是包容的 包疾苦煩恼...<br>2018-10-03 01:25<br>赞(2) 踩(0) | <div>浣溪沙<br>宋&amp;middot;秦观<br><br>漠漠轻寒上小楼，晓阴无赖似穷秋。淡烟流水画屏幽。<br>自在飞花轻似梦，无边丝雨细如愁。宝帘闲挂小银钩。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91940046)<br>爱虾米爱音乐<br>2018-10-03 00:01<br>赞(1) 踩(0) | <div>就想在天上飘一样！这个是两个琵琶至少吧？一个伴奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233113502)<br> <br>2018-09-17 00:02<br>赞(1) 踩(0) | <div>听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335345516)<br>音乐可以与任何美好相联且...<br>2018-09-12 08:51<br>赞(1) 踩(0) | <div>足球场上你可以说国足球技技不如人，但音乐是无国界的，日本的音乐就都是日本的吗？我常想日本人对音乐的态度难道都比中国人要热爱，虔诚吗？我们是该趋媚于所谓的日本音乐呢，还是该为中国的乐坛感到悲哀？为他们祈祷吧！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259763231)<br>喜写字爱看书侯王算个球，...<br>2018-09-11 23:08<br>赞(16) 踩(0) | <div>水调歌头&amp;bull;弄云.天山风中雪，幽夜隐星辰。孤烟寻岫，乍起而落戏山轮。律律希希秋雨，细细点金击石，凝气静听闻。似有千双手，拨弄万般云。.琵琶曲，锵环佩，系襕裙频频碎碎步态，轮指敲金樽。间尔数声拔起，惊厥九天双雁，通达耳迷津。听尔琵琶语，胜却统三军。.2018年9月11日，般若无知&amp;bull;周，于赣州。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/259763231)<br>喜写字爱看书侯王算个球，...<br>2018-09-11 23:08<br>赞(16) 踩(0) | <div>水调歌头&amp;bull;弄云<br>.<br>天山风中雪，<br>幽夜隐星辰。<br>孤烟寻岫，<br>乍起而落戏山轮。<br>律律希希秋雨，<br>细细点金击石，<br>凝气静听闻。<br>似有千双手，<br>拨弄万般云。<br>.<br>琵琶曲，<br>锵环佩，<br>系襕裙<br>频频碎碎步态，<br>轮指敲金樽。<br>间尔数声拔起，<br>惊厥九天双雁，<br>通达耳迷津。<br>听尔琵琶语，<br>胜却统三军。<br>.<br>2018年9月11日，般若无知&amp;bull;周，于赣州。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6591114)<br>音乐是人类最美的语言<br>2018-09-08 20:12<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233113502)<br> <br>2018-08-27 00:11<br>赞(1) 踩(0) | <div>听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7455859)<br>我还没想好要写什么...<br>2018-08-16 14:51<br>赞(4) 踩(0) | <div>嘈嘈切切错杂弹，大珠小珠落玉盘</div> |
@@ -89,10 +86,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308320131)<br>像一个无家可归的孩子，我...<br>2017-08-14 21:40<br>赞(7) 踩(0) | <div>你何处寻她，她在云间拨弹</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129335500)<br>知音畅平<br>2017-08-22 13:15<br>赞(0) 踩(0) | <div>此曲妙出神仙手，悠扬婉转在云间。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8917453)<br><br>2017-08-04 16:12<br>赞(3) 踩(0) | <div>你有一天会在某间店的墙上看到我留的那句，希望有天带你来。我想你永远看不到了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124631790)<br>无聊时玩玩!<br>2017-07-29 00:05<br>赞(87) 踩(0) | <div>记得小时候躺在自家房顶上仰望星空，银河清晰可见，漫天繁星，群星璀璨，仿佛触手可及，不知为什么，总会产生深深的恐惧感，是永恒、短暂。&amp;nbsp;渺小，伟大，公平，孤独，百感交集！想起了王尔德的一句话，&amp;ldquo;我们都生活在阴沟里，但仍有人仰望星空&amp;rdquo;。不得不说，星空的浩淼与无限总给仰望的人带来无穷的渺小感，这种感觉来自于内心深处，来自于自身与宇宙的比较。&amp;nbsp;寄蜉蝣于天地，渺沧海之一粟。哀吾生之须臾，羡长江之无穷。大概就是类比这种状态。&amp;nbsp;中学时代经常思考这种问题，宇宙何其宏大，人生须臾是沧海一粟，反正多少年后，地球走向生命的终点，一切都是零了，这世界的一切又有什么意义。这世界就是这样，没有什么是永恒的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124631790)<br>无聊时玩玩!<br>2017-07-29 00:05<br>赞(87) 踩(0) | <div>记得小时候躺在自家房顶上仰望星空，银河清晰可见，漫天繁星，群星璀璨，仿佛触手可及，不知为什么，总会产生深深的恐惧感，是永恒、短暂。&amp;nbsp;渺小，伟大，公平，孤独，百感交集！<br>想起了王尔德的一句话，&amp;ldquo;我们都生活在阴沟里，但仍有人仰望星空&amp;rdquo;。不得不说，星空的浩淼与无限总给仰望的人带来无穷的渺小感，这种感觉来自于内心深处，来自于自身与宇宙的比较。&amp;nbsp;寄蜉蝣于天地，渺沧海之一粟。哀吾生之须臾，羡长江之无穷。大概就是类比这种状态。&amp;nbsp;<br>中学时代经常思考这种问题，宇宙何其宏大，人生须臾是沧海一粟，反正多少年后，地球走向生命的终点，一切都是零了，这世界的一切又有什么意义。这世界就是这样，没有什么是永恒的。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/560056)<br>动静惟一 隐显无分<br>2018-06-18 21:21<br>赞(0) 踩(0) | <div>继续参悟，不要止步。孤苦过后还有很多。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2276166)<br><br>2018-10-10 15:23<br>赞(0) 踩(0) | <div>我们生活在泥沼之中，但是有人依然仰望星空We are all in the gutter, but some of us are looking at the stars.</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286372441)<br>音乐里都是蛋糕的味道。<br>2017-06-29 06:32<br>赞(17) 踩(0) | <div>琵琶轮指犹如纤云弄巧，配以《二十四诗品》之《飘逸》:落落欲往，矫矫不群。缑山之鹤，华顶之云。高人惠中，令色氤氲。御风蓬叶，泛波无垠。如不可执，如将有闻。识者已领，期之愈分。</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2276166)<br><br>2018-10-10 15:23<br>赞(0) 踩(0) | <div>我们生活在泥沼之中，但是有人依然仰望星空<br>We are all in the gutter, but some of us are looking at the stars.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286372441)<br>音乐里都是蛋糕的味道。<br>2017-06-29 06:32<br>赞(17) 踩(0) | <div>琵琶轮指犹如纤云弄巧，配以《二十四诗品》之《飘逸》:<br>落落欲往，矫矫不群。缑山之鹤，华顶之云。高人惠中，令色氤氲。御风蓬叶，泛波无垠。如不可执，如将有闻。识者已领，期之愈分。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218595648)<br>  在虾米寻觅～在虾米得...<br>2017-06-26 23:12<br>赞(4) 踩(0) | <div>玉手弄弦！乐迷听音！                                                            你评他论！各自悠闲！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305786818)<br><br>2017-06-26 19:12<br>赞(4) 踩(0) | <div>这个专辑真好，每次听都有不同的感觉，音乐和阅读是人生财富</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129335500)<br>知音畅平<br>2017-08-22 13:22<br>赞(0) 踩(0) | <div>林海中国之乐&amp;mdash;&amp;mdash;琵琶相 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -148,4 +145,4 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5100348)<br>非神即兽。<br>2018-07-31 23:14<br>赞(0) 踩(0) | <div><q><b>永远的恋人说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4705833)<br><br>2011-07-15 22:35<br>赞(5) 踩(0) | <div>纤云弄巧，飞星传恨，柔情似水，佳期如梦，都在此曲中。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4403770)<br><br>2011-06-26 14:07<br>赞(1) 踩(0) | <div>很喜欢听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2276166)<br><br>2011-01-18 13:42<br>赞(5) 踩(0) | <div>清琴弄云月,美酒娱冬春。薄德中见捐,忽之如遗尘。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2276166)<br><br>2011-01-18 13:42<br>赞(5) 踩(0) | <div>清琴弄云月,美酒娱冬春。<br>薄德中见捐,忽之如遗尘。</div> |

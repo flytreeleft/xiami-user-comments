@@ -80,5 +80,3 @@ To get out of the rain boom boom boom boom boom boom boom
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

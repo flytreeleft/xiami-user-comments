@@ -50,8 +50,8 @@ Forever and ever
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/117943868)<br>我还没想好要写什么...<br>2020-10-31 23:31<br>赞(0) 踩(0) | <div>肖恩&amp;middot;康纳利走了 在这个年代 他走的是那么的悄无声息（当然是和之前大火的007电影比）就像当年的罗杰&amp;middot;摩尔一样 貌似并没有掀起多大的波澜 这个开启007电影时代的人（没错 第一部007诞生于1962年）为今后几十年的007电影打下了基础 没有他 可能就没有后来的皮尔斯&amp;middot;布鲁斯南和丹尼尔&amp;middot;克雷格 作为一个007的老粉 只剩唏嘘 （顺便说一句 在007外传《巡曳飞弹Never Say Never Again》里 他还和罗温&amp;middot;艾金森（憨豆先生）合作过）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2737024)<br>不是僵尸号，台湾流行乐爱...<br>2019-08-13 16:51<br>赞(0) 踩(0) | <div>这首翻唱真的棒呆！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2339407)<br> <br>2019-04-15 07:41<br>赞(0) 踩(0) | <div>钻石恒永久？</div> |

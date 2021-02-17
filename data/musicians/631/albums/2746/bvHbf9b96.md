@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316787410)<br>Leslie&Anita...<br>2018-03-28 22:00<br>赞(0) 踩(0) | <div>我都未拯救過地球 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49065537)<br> <br>2017-01-05 22:47<br>赞(0) 踩(0) | <div>希望有英雄来拯救下雾霾</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16226383)<br>。<br>2015-05-09 15:33<br>赞(0) 踩(0) | <div>#今日你拯救咗地球咩#</div> |

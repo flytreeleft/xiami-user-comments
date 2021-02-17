@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8a824c2c16a4dff76745bfd7931c5749.jpg)<br>品冠](https://i.xiami.com/victormusic) | **播放数**: 140683375<br>**粉丝数**: 60341<br>**评论数**: 618<br>**地区**: Malaysia 马来西亚<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/8a824c2c16a4dff76745bfd7931c5749.jpg)<br>品冠](https://i.xiami.com/victormusic) | **地区**: Malaysia 马来西亚<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 140683375<br>**粉丝数**: 60341<br>**评论数**: 618<br> |
 
 ## 档案
 
@@ -69,8 +69,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445989676)<br>如果音乐足够动人<br>2020-11-27 10:53<br>赞(0) 踩(0) | <div>比光良好听一百倍，光良只要不唱歌，他是有才华的，真的受不了光良的声音，我知道这样说不好，但是我就是不喜欢他的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299698061)<br>俯身躬耕 仰望星空 浮云...<br>2020-10-18 03:11<br>赞(0) 踩(0) | <div>帅！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445051236)<br><br>2020-10-09 19:48<br>赞(0) 踩(0) | <div>国内歌手中最温柔的声音</div> |
@@ -144,7 +144,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/263448141)<br><br>2017-04-03 19:17<br>赞(8) 踩(0) | <div>十几年了，一直最爱的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39595954)<br> 就是这样<br>2017-04-02 13:20<br>赞(2) 踩(0) | <div>有心的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282929177)<br>爱听歌 爱虾米<br>2017-03-25 15:12<br>赞(8) 踩(0) | <div>喜欢品冠的笑，因为品冠的笑有一种正能量。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282929177)<br>爱听歌 爱虾米<br>2017-03-25 15:11<br>赞(2) 踩(0) | <div>疼你的责任确实是一张非常好的专辑。我非常爱品冠，支持品冠！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282929177)<br>爱听歌 爱虾米<br>2017-03-25 15:11<br>赞(2) 踩(0) | <div>疼你的责任确实是一张非常好的专辑。<br>我非常爱品冠，支持品冠！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282929177)<br>爱听歌 爱虾米<br>2017-03-25 15:10<br>赞(16) 踩(0) | <div>我认识的这几位男艺人当中，只有品冠唱出的时光，唱出了回忆，并唱出了我们的青春。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286942586)<br><br>2017-04-21 17:51<br>赞(0) 踩(0) | <div>y</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47929546)<br> <br>2017-03-22 22:42<br>赞(20) 踩(0) | <div>从云村滚过来的，云村的品冠的歌几乎全被版权了，可见品冠的歌是被云村当作付费精品的</div> |
@@ -191,7 +191,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126008948)<br>王厂长的小迷妹<br>2016-05-13 22:37<br>赞(0) 踩(0) | <div>品冠，我心目中的偶像男神和暖男，我永远爱您支持您！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72666568)<br><br>2016-05-11 19:11<br>赞(0) 踩(0) | <div>你一直都在</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151349584)<br><br>2016-04-25 18:39<br>赞(0) 踩(0) | <div>求一首我最亲爱的原版伴奏</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39325345)<br><br>2016-04-22 20:40<br>赞(0) 踩(0) | <div>声音:穿透细胞的温柔，安抚了谁的情绪，包容了谁的不解，平静了谁的生命，谢冠哥的存在，美好了声音</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39325345)<br><br>2016-04-22 20:40<br>赞(0) 踩(0) | <div>声音:<br>穿透细胞的温柔，<br>安抚了谁的情绪，<br>包容了谁的不解，<br>平静了谁的生命，<br>谢冠哥的存在，美好了声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51574163)<br>为你我想做很好的人<br>2016-04-17 14:45<br>赞(0) 踩(0) | <div>对品冠，多年的喜欢已经无需再提。原谅系情歌代言人，黄品冠，动听的暖声一直都将我抚慰。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98070144)<br><br>2016-04-13 22:32<br>赞(0) 踩(0) | <div>干净温暖~老板的一贯风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/130376412)<br><br>2016-04-01 02:31<br>赞(0) 踩(0) | <div>很喜欢无印良品的歌</div> |
@@ -343,13 +343,13 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5755)<br><br>2014-02-08 14:40<br>赞(0) 踩(0) | <div>喜欢他的声音~~~ 好有磁性~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2945044)<br>时光一去不复返<br>2014-02-08 01:20<br>赞(0) 踩(0) | <div>温暖的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1688001)<br><br>2014-02-05 20:10<br>赞(0) 踩(0) | <div>声音真好听！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2065068)<br>装B模式已启动。<br>2014-02-05 00:10<br>赞(25) 踩(0) | <div>瓶罐第7红果果的暴露了我是歌手的评审群体更趋于被高音、卖萌、high歌刺激感官，吸引眼球。难得一个走心的歌手。虽然我觉得第2场的瑕疵是很明显……</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2065068)<br>装B模式已启动。<br>2014-02-05 00:10<br>赞(25) 踩(0) | <div>瓶罐第7红果果的暴露了我是歌手的评审群体更趋于被高音、卖萌、high歌刺激感官，吸引眼球。<br><br><br><br>难得一个走心的歌手。虽然我觉得第2场的瑕疵是很明显……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8247233)<br>世事本无常，树静茶凉。<br>2014-02-01 05:51<br>赞(3) 踩(0) | <div>品冠只拿了第七啊，不开心了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15991072)<br>暂无签名~<br>2014-02-01 13:38<br>赞(0) 踩(0) | <div>赶脚第二轮如果拿不到前四就会被淘汰。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31177521)<br>咕哇～<br>2014-01-09 18:57<br>赞(0) 踩(0) | <div>那些品冠的歌教我的事</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7440330)<br>微醺<br>2014-01-08 15:07<br>赞(0) 踩(0) | <div>暖男</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2282124)<br>西风吹雨长路遥，葬花落魄...<br>2014-01-02 08:56<br>赞(1) 踩(0) | <div>温馨，适合冬天晚上在屋子里面烤着火，喝着咖啡听。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12101907)<br>虽不能往，心向往之<br>2013-12-29 06:58<br>赞(0) 踩(0) | <div>原来大家听他的歌都有一种很温暖的感觉。。真好！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12101907)<br>虽不能往，心向往之<br>2013-12-29 06:58<br>赞(0) 踩(0) | <div>原来大家听他的歌都有一种很温暖的感觉。。<br><br>真好！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4754570)<br> <br>2013-12-26 11:23<br>赞(0) 踩(0) | <div>暖心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29359583)<br> <br>2013-12-11 17:48<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22902209)<br><br>2013-12-03 19:17<br>赞(0) 踩(0) | <div>GOOD</div> |
@@ -379,7 +379,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8758269)<br><br>2013-04-21 11:08<br>赞(0) 踩(0) | <div>品冠</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5896241)<br><br>2013-04-18 19:17<br>赞(0) 踩(0) | <div>\&amp;quot;我以為\&amp;quot;跟周杰倫的\&amp;quot;安靜\&amp;quot;也太雷同了吧....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13983720)<br>静静的静静的听<br>2013-04-17 19:33<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2171604)<br>我还没想好要写什么...<br>2013-04-16 14:19<br>赞(0) 踩(0) | <div>我的以为，只是我以为。。。艾玛，苦情歌大叔神马的声线听起来太舒服了有木有。。。像是被顺了毛一样o(≧v≦)o~~。。。虽然有时候有点苦=。=</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2171604)<br>我还没想好要写什么...<br>2013-04-16 14:19<br>赞(0) 踩(0) | <div>我的以为，只是我以为。。。<br><br>艾玛，苦情歌大叔神马的声线听起来太舒服了有木有。。。像是被顺了毛一样o(≧v≦)o~~。。。虽然有时候有点苦=。=</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4458644)<br>如花美眷，似水流年……<br>2013-04-16 07:51<br>赞(0) 踩(0) | <div>从前没有基友，只有阳光男孩；从前没有T和P，只有一吻定情的幻想……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6701637)<br><br>2013-04-13 21:33<br>赞(0) 踩(0) | <div>从《那些女孩教我的事》开始认识品冠，从此爱上这首歌，这个声音。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2502682)<br><br>2013-04-09 18:53<br>赞(0) 踩(0) | <div>享受当下的安之若素......</div> |
@@ -410,7 +410,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6645440)<br>黑与白的相遇不一定成灰，...<br>2013-01-29 14:40<br>赞(0) 踩(0) | <div>磁性的男中音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12504799)<br><br>2013-01-27 01:13<br>赞(0) 踩(0) | <div>疼你的责任，那些女孩教我的事</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12671981)<br><br>2013-01-25 16:48<br>赞(0) 踩(0) | <div>~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4957307)<br>暂无签名~<br>2013-01-21 19:40<br>赞(0) 踩(0) | <div>用耳机听听到声音耳朵 “一亮”。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4957307)<br>暂无签名~<br>2013-01-21 19:40<br>赞(0) 踩(0) | <div>用耳机听<br>听到声音<br>耳朵 “一亮”。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7494997)<br><br>2013-01-20 12:18<br>赞(1) 踩(0) | <div>音乐没有品冠，世界哪有温暖</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2592929)<br><br>2013-01-11 20:35<br>赞(0) 踩(0) | <div>幸福...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4184056)<br><br>2013-01-11 10:52<br>赞(0) 踩(0) | <div>声音太美好干净 应该能包容演绎更多的感情  期待以后品管能唱的不仅仅是情歌 而是唱出灵魂那最初的纯净</div> |
@@ -512,7 +512,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8045454)<br><br>2012-02-14 19:23<br>赞(0) 踩(0) | <div>干净的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274415)<br><br>2012-02-13 22:21<br>赞(0) 踩(0) | <div>只闻其人，不闻其声，错过了好声音，现在听 ，还来得及。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3294610)<br>迷雾<br>2012-02-10 15:46<br>赞(0) 踩(0) | <div>喜欢这么可爱的，温婉的男人</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/756118)<br><br>2012-02-09 11:23<br>赞(0) 踩(0) | <div>今年40了？！保养真好啊。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/756118)<br><br>2012-02-09 11:23<br>赞(0) 踩(0) | <div>今年40了？！<br>保养真好啊。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7345739)<br><br>2012-02-07 19:51<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7119202)<br><br>2012-02-02 23:29<br>赞(0) 踩(0) | <div>乾淨的聲音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5394112)<br>Follow him <br>2012-01-29 21:28<br>赞(0) 踩(0) | <div>一直陪伴我的温暖声音。谢谢。</div> |
@@ -532,7 +532,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1186821)<br><br>2012-01-15 22:20<br>赞(0) 踩(0) | <div>从初中开始喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3093899)<br><br>2012-01-11 15:08<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2485821)<br><br>2012-01-11 11:26<br>赞(0) 踩(0) | <div>我很爱你，品冠。一如既往地支持你。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/521661)<br><br>2012-01-09 10:08<br>赞(0) 踩(0) | <div>刚刚不小心点击进了主页上的杨幂的专辑，让我难受了好半天还好有品冠拯救了我的耳朵一如既往的干净，温暖和淡淡的感动歌者毕竟是歌者</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/521661)<br><br>2012-01-09 10:08<br>赞(0) 踩(0) | <div>刚刚不小心点击进了主页上的杨幂的专辑，让我难受了好半天<br>还好有品冠拯救了我的耳朵<br>一如既往的干净，温暖和淡淡的感动<br>歌者毕竟是歌者</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6781708)<br><br>2012-01-08 15:05<br>赞(0) 踩(0) | <div>干净的声音,温文尔雅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4394039)<br>迎着风听歌的 装B人！<br>2012-01-08 14:13<br>赞(0) 踩(0) | <div>ONE DAY</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7536686)<br>我还没想好要写什么...<br>2012-01-08 00:13<br>赞(0) 踩(0) | <div>个人认为这张专辑是无印良品单飞以来品冠质量最高的。品冠的声音还是一如既往的让人感动，只是以前的那几张专辑歌词都不太喜欢，感觉浪费了品冠的声线。这张专辑感觉很惊喜。</div> |
@@ -575,7 +575,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6311672)<br><br>2011-10-18 15:00<br>赞(0) 踩(0) | <div>好听的声音！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2307526)<br>连接比特与像素的造梦师！<br>2011-10-17 00:56<br>赞(0) 踩(0) | <div>无印良品……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5610744)<br><br>2011-10-13 09:08<br>赞(0) 踩(0) | <div>不需要理由</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2220781)<br><br>2011-10-12 10:35<br>赞(0) 踩(0) | <div>我以為我的溫柔 能給妳整個宇宙 我以為我能全力 填滿妳感情的缺口我以为..</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2220781)<br><br>2011-10-12 10:35<br>赞(0) 踩(0) | <div>我以為我的溫柔 能給妳整個宇宙 我以為我能全力 填滿妳感情的缺口<br>我以为..</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1906642)<br><br>2011-10-07 13:02<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5885828)<br><br>2011-10-05 15:22<br>赞(0) 踩(0) | <div>很喜欢很喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6009137)<br>......<br>2011-10-03 22:32<br>赞(0) 踩(0) | <div>一直都喜欢这个声音～～清澈的暖暖的～～</div> |
@@ -667,7 +667,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2517718)<br><br>2011-01-31 16:28<br>赞(0) 踩(0) | <div>我喜欢这样的声音很多年了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2278347)<br><br>2011-01-30 09:14<br>赞(0) 踩(0) | <div>实力派</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2596228)<br><br>2011-01-25 08:04<br>赞(0) 踩(0) | <div>歌声很温柔</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1511679)<br><br>2011-01-18 10:57<br>赞(0) 踩(0) | <div>比想象更想你，丹！她：这才是品冠的声音嘛！所以我就把我最心爱的耳机送给了她</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1511679)<br><br>2011-01-18 10:57<br>赞(0) 踩(0) | <div>比想象更想你，丹！<br>她：这才是品冠的声音嘛！所以我就把我最心爱的耳机送给了她</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2511153)<br><br>2011-01-16 22:36<br>赞(0) 踩(0) | <div>纯净的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2099763)<br><br>2011-01-15 14:16<br>赞(0) 踩(0) | <div>一条穿了很久都舍不得扔掉的levis牛仔裤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1585997)<br><br>2011-01-14 15:15<br>赞(0) 踩(0) | <div>憨傻但多情的外表，柔情似水的嗓音</div> |
@@ -688,4 +688,4 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/713170)<br><br>2010-06-13 12:23<br>赞(0) 踩(0) | <div>我以爲,當你想著我... 超好聽呢!!!!!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32687)<br><br>2010-05-24 23:37<br>赞(0) 踩(0) | <div>很温暖的歌～～无可救药好听，MV也好呢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/570430)<br> <br>2009-12-18 14:50<br>赞(0) 踩(0) | <div>唯一让我喜欢戴眼镜的男子</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252263)<br><br>2009-07-28 20:42<br>赞(0) 踩(0) | <div>很喜欢他的声音有一种很持久的魅力~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252263)<br><br>2009-07-28 20:42<br>赞(0) 踩(0) | <div>很喜欢他的声音<br>有一种很持久的魅力~~</div> |

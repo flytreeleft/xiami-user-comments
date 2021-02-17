@@ -28,5 +28,3 @@ And each leap year twenty-nine
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

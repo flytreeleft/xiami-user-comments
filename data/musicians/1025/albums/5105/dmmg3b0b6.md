@@ -44,10 +44,10 @@ ISRC TW-A-55-86-03004
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11245481)<br><br>2020-10-05 14:37<br>赞(0) 踩(0) | <div>出道专首首都是精品，尤其喜欢这首。十几年后重听才发现bassline好出彩</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-05-13 10:12<br>赞(2) 踩(0) | <div>作词：黄国伦、许常德作曲：黄国伦编曲：张翰群制作人：黄国伦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93333428)<br>我还没想好要写什么...<br>2019-05-13 10:12<br>赞(2) 踩(0) | <div>作词：黄国伦、许常德<br>作曲：黄国伦<br>编曲：张翰群<br>制作人：黄国伦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233990836)<br><br>2019-03-26 15:55<br>赞(2) 踩(0) | <div>十年前听这首歌，如今奔波十年在听，我承认，我不知道一些坚持是否值得了，所谓人在江湖，身不由己。我该让步了吗?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106051854)<br>我还没想好要写什么...<br>2018-10-07 02:02<br>赞(1) 踩(0) | <div>每日循环播放系列</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10930466)<br>再见了虾米，还有虾米上上...<br>2017-11-30 19:17<br>赞(4) 踩(0) | <div>原来是黄国伦的曲，好棒的歌</div> |

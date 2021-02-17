@@ -3,7 +3,7 @@ Mr. Miss
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3cf6f05c07dc89895997f51e7dad9752.jpg)<br>Mr. Miss](https://i.xiami.com/mrmiss) | **播放数**: 4008217<br>**粉丝数**: 7798<br>**评论数**: 171<br>**地区**: China 中国大陆<br>**风格**: 摇摆乐 Swing, 爵士流行 Jazz Pop, 巴萨诺瓦 Bossa Nova<br> |
+| [![](../../images/musicians/3cf6f05c07dc89895997f51e7dad9752.jpg)<br>Mr. Miss](https://i.xiami.com/mrmiss) | **地区**: China 中国大陆<br>**风格**: 摇摆乐 Swing, 爵士流行 Jazz Pop, 巴萨诺瓦 Bossa Nova<br>**播放数**: 4008217<br>**粉丝数**: 7798<br>**评论数**: 171<br> |
 
 ## 档案
 
@@ -33,8 +33,8 @@ Mr. Miss，人声爵士乐男女组合。刘恋和杜凯在一次北大歌手比
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5708413)<br>音乐是个好东西<br>2020-07-15 07:42<br>赞(1) 踩(0) | <div>神仙组合！太厉害！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426098943)<br><br>2020-07-12 19:09<br>赞(1) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/232100392)<br><br>2020-07-04 15:00<br>赞(1) 踩(0) | <div>真好听！</div> |
@@ -45,7 +45,7 @@ Mr. Miss，人声爵士乐男女组合。刘恋和杜凯在一次北大歌手比
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2575719)<br>听会儿歌<br>2019-11-01 03:56<br>赞(1) 踩(0) | <div>刘恋老美了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347776396)<br>勿施于人<br>2019-10-08 09:52<br>赞(0) 踩(0) | <div>宇宙人那小子是不是喜欢你。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2094196)<br>未来不迎<br>2019-09-17 06:29<br>赞(1) 踩(0) | <div>日谈声控粉！（总比颜粉强点吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21216985)<br>缓缓归<br>2019-08-15 09:37<br>赞(1) 踩(0) | <div>喜欢你们~每首歌都是秒收藏加油~谢谢你们给我们做出很好的音乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21216985)<br>缓缓归<br>2019-08-15 09:37<br>赞(1) 踩(0) | <div>喜欢你们~<br>每首歌都是秒收藏<br>加油~谢谢你们给我们做出很好的音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30980397)<br>爱憎分明<br>2019-08-12 11:49<br>赞(1) 踩(0) | <div>期待新专辑！加油(ง •̀_•́)ง</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34522244)<br><br>2019-08-11 19:13<br>赞(0) 踩(0) | <div>喜欢这种风格</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2792739)<br>唯沉默是最高的蔑视<br>2019-08-08 19:47<br>赞(1) 踩(0) | <div>刘恋真的太阔爱了</div> |
@@ -116,7 +116,7 @@ Mr. Miss，人声爵士乐男女组合。刘恋和杜凯在一次北大歌手比
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35681166)<br>暂无签名~<br>2016-10-05 01:01<br>赞(2) 踩(0) | <div>今天在简单看了现场！路转粉！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/549381)<br> <br>2016-10-04 22:51<br>赞(2) 踩(0) | <div>今天刚在SL追了现场 好听 开心！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55916106)<br>这里是我自己的世界<br>2016-09-03 13:38<br>赞(1) 踩(0) | <div>很棒的传统爵士+歌剧风格，很好听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98914)<br>耳朵具有自动过滤歌词功能<br>2016-09-02 06:18<br>赞(2) 踩(0) | <div>当一男一女整天在一块儿又没在谈恋爱的时候，他们真的能干很多正经事儿！可是主页里很多图片都是眉目传情，彼此放电诶</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98914)<br>耳朵具有自动过滤歌词功能<br>2016-09-02 06:18<br>赞(2) 踩(0) | <div>当一男一女整天在一块儿又没在谈恋爱的时候，<br>他们真的能干很多正经事儿！<br><br>可是主页里很多图片都是眉目传情，彼此放电诶</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8444695)<br><br>2016-08-08 14:47<br>赞(2) 踩(0) | <div>《明天的烦恼交给明天》和《晚期拖延症患者》的生活哲学完全矛盾啊！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/116785638)<br>深井小岛<br>2016-07-08 01:27<br>赞(0) 踩(0) | <div>@妈啊简直夏夜深夜治愈 适合单身</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4878604)<br>我还没想好要写什么...<br>2016-06-16 11:34<br>赞(1) 踩(0) | <div>超喜欢你们的优雅与风趣～加油！</div> |

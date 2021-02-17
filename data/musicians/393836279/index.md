@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/c4b4561773bc67f30a864a69dee05c54.jpg)<br>廖国钺](https://i.xiami.com/liaoguoyue) | **播放数**: 4121742<br>**粉丝数**: 1512<br>**评论数**: 91<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/c4b4561773bc67f30a864a69dee05c54.jpg)<br>廖国钺](https://i.xiami.com/liaoguoyue) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 4121742<br>**粉丝数**: 1512<br>**评论数**: 91<br> |
 
 ## 档案
 
@@ -27,8 +27,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377824949)<br>来自宇宙深处的双鱼座<br>2020-03-26 20:16<br>赞(1) 踩(0) | <div>哇，清美毕业的，好羡慕 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png">。声音好好听(ง &amp;bull;̀_&amp;bull;́)ง有次虾米推荐了《等》，听了一遍后明明已经不记得听过这首歌了，在学校里手机上交了一直没听歌，隔了好几天某个早晨在宿舍醒来睁开眼脑子里都是《等》的旋律，又想不起来这是什么歌，听过又好像没听过，就一直在努力回忆这个旋律，周日手机发下来后赶紧找这首歌，找到后感觉幸福的不得了，怎么说呢，就是我心目中最喜欢最理想的那种旋律和词，那一段时间就沉迷于这首歌，循环播放～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8499414)<br><br>2020-02-22 08:55<br>赞(1) 踩(0) | <div>唱的不错 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324593243)<br>我还没想好要写什么...<br>2019-11-02 19:05<br>赞(1) 踩(0) | <div>有机会可以合作一次哈 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |

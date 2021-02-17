@@ -3,7 +3,7 @@ Infinite Music
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/92137ff618691131739baa3d86a3984c.png)<br>Infinite Music](https://i.xiami.com/infinitemusic) | **播放数**: 5526255<br>**粉丝数**: 2501<br>**评论数**: 262<br>**地区**: China 中国大陆<br>**风格**: 缓拍 Downtempo, 沙发音乐 Lounge, 氛围音乐 Ambient, 弛放 Chillout<br> |
+| [![](../../images/musicians/92137ff618691131739baa3d86a3984c.png)<br>Infinite Music](https://i.xiami.com/infinitemusic) | **地区**: China 中国大陆<br>**风格**: 缓拍 Downtempo, 沙发音乐 Lounge, 氛围音乐 Ambient, 弛放 Chillout<br>**播放数**: 5526255<br>**粉丝数**: 2501<br>**评论数**: 262<br> |
 
 ## 档案
 
@@ -72,8 +72,8 @@ http://weibo.com/PDStation
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333971984)<br>音乐才是伴侣<br>2020-12-20 19:49<br>赞(0) 踩(0) | <div>哈，来虾米3年了，才第一次看评论业 <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png">，以前百度云混日子，YY直播的日子记忆深刻啊，感谢PDS带来的那几年光阴，也有幸认识PDS成员作为朋友，现在的资源方便党都不懂得珍惜</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342835079)<br>扬帆，音海远航<br>2020-12-08 18:45<br>赞(0) 踩(0) | <div>国内大多数而言入门都不够，反而就像多数影视剧一样，反其道而行。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379912005)<br>感谢虾米，永远记得。<br>2020-11-16 06:43<br>赞(1) 踩(0) | <div>到目前为止，国内的音乐欣赏水平还在入门阶段，大多数人还停留在流行歌曲阶段，甚至不知道世界上还有Chillout，感谢您的团队为国内的音乐爱好者介绍NewAge Music ，尽管不是原创，也是让很多人受益良多！</div> |
@@ -95,7 +95,7 @@ http://weibo.com/PDStation
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50369682)<br> <br>2019-11-20 21:41<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23721413)<br>Love Mix<br>2019-09-04 00:14<br>赞(2) 踩(0) | <div>感谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2062485)<br>深夜的沿海公路配音乐<br>2019-08-20 11:40<br>赞(1) 踩(0) | <div>Sorry,来晚了！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330900828)<br>高舉一面五星紅旗在蝦米！<br>2019-07-17 22:41<br>赞(2) 踩(0) | <div>唯有极致的睡眠 ，方有欣赏至上音樂的豐滿——音樂向左</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330900828)<br>高舉一面五星紅旗在蝦米！<br>2019-07-17 22:41<br>赞(2) 踩(0) | <div>唯有极致的睡眠 ，方有欣赏至上音樂的豐滿<br><br>——音樂向左</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/105451946)<br>亲们网易云见昵称：摩羯天...<br>2019-07-05 17:02<br>赞(1) 踩(0) | <div><img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17863029)<br> <br>2019-06-16 14:32<br>赞(0) 踩(0) | <div>真的是大神作~收藏</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/631574)<br><br>2019-05-26 21:48<br>赞(2) 踩(0) | <div>不错，国际水准</div> |
@@ -164,7 +164,7 @@ http://weibo.com/PDStation
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486995)<br><br>2016-01-09 17:29<br>赞(61) 踩(0) | <div>IM在国外取得的以及对国内的效用就目前而言无人可比，不能让空白继续下去，所有的骂声和疑惑我们来背就是了，我们倒是希望来多点专业的超过我们，还是少说话多做事</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53834163)<br>活着，然后堕落吧。↑不听...<br>2016-01-10 10:36<br>赞(0) 踩(0) | <div>欢迎回来~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486995)<br><br>2016-01-13 20:44<br>赞(0) 踩(0) | <div><q><b>C.O.D. IS说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201144715)<br>藏在墨水里，空白的永久填...<br>2016-12-08 21:29<br>赞(0) 踩(0) | <div>真心喜欢你们做的精选集呢，有些熟悉的节奏在一起的时候，心情瞬间好的不行，支持你2015mix初遇…… <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/201144715)<br>藏在墨水里，空白的永久填...<br>2016-12-08 21:29<br>赞(0) 踩(0) | <div>真心喜欢你们做的精选集呢，有些熟悉的节奏在一起的时候，心情瞬间好的不行，支持你<br>2015mix初遇…… <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-10-16 03:42<br>赞(0) 踩(0) | <div>到目前为止，国内的音乐欣赏水平还在入门阶段，大多数人还停留在流行歌曲阶段，甚至不知道世界上还有Chillout，感谢您的团队为国内的音乐爱好者介绍NewAge Music ，尽管不是原创，也是让很多人受益良多！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308652751)<br>嗜乐如命之自由灵魂<br>2019-01-21 01:03<br>赞(0) 踩(0) | <div>支持你们！但不要浪费时间鸡同鸭讲，不要试图叫醒那些装睡的人！我想对那些说风凉话的所谓“同行们”奉劝一句：少说废话，多干实事，是骡子是马拉出来遛遛！很喜欢你们制作的音乐，为我大中国真正的电音制作人点赞！加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412433718)<br>我还没想好要写什么...<br>2019-03-07 19:56<br>赞(0) 踩(0) | <div>老铁怎么联系</div> |
@@ -172,12 +172,12 @@ http://weibo.com/PDStation
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14091078)<br>我还没想好要写什么...<br>2016-04-13 20:48<br>赞(0) 踩(0) | <div>捉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8942177)<br>Was mich nic...<br>2015-12-10 11:00<br>赞(0) 踩(0) | <div>弛放</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76818958)<br><br>2015-10-26 09:53<br>赞(0) 踩(0) | <div>评论这么火</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2774453)<br>暂无签名~<br>2015-10-20 20:19<br>赞(0) 踩(0) | <div>原来只是过来听音乐，现在才发现这评论也有点意思。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2774453)<br>暂无签名~<br>2015-10-20 20:19<br>赞(0) 踩(0) | <div>原来只是过来听音乐，<br><br>现在才发现这评论也有点意思。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/702742)<br>生活持有偏見……<br>2015-09-16 16:38<br>赞(0) 踩(0) | <div>感謝 你們創作的 「Hymn」</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/702742)<br>生活持有偏見……<br>2015-09-16 16:37<br>赞(2) 踩(0) | <div>IM 說不再在蝦米上傳作品，這點能夠理解和尊重樂隊的但也希望，IM 可以把創作的作品有更多的實體發行。現在 現場的演出氛圍開始上來了，各種音樂節也層出不窮，但實質上也可以看到很尷尬的一個事，就是音樂人和音樂的豐富程度跟不上。而且現場音樂文化遠未普及，觀眾也並沒有太多渠道去接觸。非常希望 IM團隊，在國內可以有更多的現場，特別是給正在崛起的珠三角。非常期待，並持續關注你們。加油，現場見！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/702742)<br>生活持有偏見……<br>2015-09-16 16:37<br>赞(2) 踩(0) | <div>IM 說不再在蝦米上傳作品，這點能夠理解和尊重樂隊的<br><br>但也希望，IM 可以把創作的作品有更多的實體發行。<br><br>現在 現場的演出氛圍開始上來了，各種音樂節也層出不窮，但實質上也可以看到很尷尬的一個事，就是音樂人和音樂的豐富程度跟不上。<br>而且現場音樂文化遠未普及，觀眾也並沒有太多渠道去接觸。<br><br>非常希望 IM團隊，在國內可以有更多的現場，特別是給正在崛起的珠三角。<br><br>非常期待，並持續關注你們。<br><br>加油，現場見！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/391795)<br>夏日虫鸣，隐邃星空<br>2015-09-16 16:43<br>赞(0) 踩(0) | <div>我相信IM，包括PDS整个团队都会加强考虑现场这方面的安排的！因为听说之前就有考虑~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/702742)<br>生活持有偏見……<br>2015-09-16 16:31<br>赞(2) 踩(0) | <div>認真地聽了一下午，終於可以回復了……很高興，雖然是因為一場 si B 引起的…認真翻看了所有的評論，其實不難看出仍是那種國人“小農”的劣根性… 也就魯迅先生寫的那些之前並未很多地關注 Chillout 旋律 氛圍 可美可邪惡亦可澎湃國內的創作氣氛確實不那麽好，從不在競爭中進步學習，卻喜歡在競爭中搏發口舌在國內，蝦米算是給大家普及和豐富了音樂的內容… 這點值得認可而作為觀眾，希望逐漸向更多的付費形式去支持音樂，更不必爭執於網絡的資源，真正的音樂絕對是在現場，這是各種介質難以還原的。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4028542)<br>世界万物都是隐喻<br>2015-09-16 15:11<br>赞(1) 踩(0) | <div>囧。怎么就撕起来了。混音改编应该可以算是原曲再创作吧，如果是这样，以音乐人的角色来发布应该是合理的。但是......<a href="http://www.xiami.com/song/1773686103?spm=a1z1s.6632057.350708705.19.DXmuh4" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1773686103?spm=a1z1s.6632057.350708705.19.DXmuh4</a> 这个是标了Original Mix 版本的。<a href="http://www.xiami.com/song/1774078643?spm=a1z1s.7154410.1996860142.3.qnKXux#wall_list" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1774078643?spm=a1z1s.7154410.1996860142.3.qnKXux#wall_list</a> 这个是没标Original Mix版本的。我委实听不出有差别啊，是同一个资源吗？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/702742)<br>生活持有偏見……<br>2015-09-16 16:31<br>赞(2) 踩(0) | <div>認真地聽了一下午，終於可以回復了……<br>很高興，雖然是因為一場 si B 引起的…<br>認真翻看了所有的評論，其實不難看出仍是那種國人“小農”的劣根性… 也就魯迅先生寫的那些<br><br>之前並未很多地關注 Chillout 旋律 氛圍 可美可邪惡亦可澎湃<br>國內的創作氣氛確實不那麽好，從不在競爭中進步學習，卻喜歡在競爭中搏發口舌<br><br>在國內，蝦米算是給大家普及和豐富了音樂的內容… 這點值得認可<br>而作為觀眾，希望逐漸向更多的付費形式去支持音樂，更不必爭執於網絡的資源，真正的音樂絕對是在現場，這是各種介質難以還原的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4028542)<br>世界万物都是隐喻<br>2015-09-16 15:11<br>赞(1) 踩(0) | <div>囧。怎么就撕起来了。混音改编应该可以算是原曲再创作吧，如果是这样，以音乐人的角色来发布应该是合理的。但是......<br><a href="http://www.xiami.com/song/1773686103?spm=a1z1s.6632057.350708705.19.DXmuh4" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1773686103?spm=a1z1s.6632057.350708705.19.DXmuh4</a> 这个是标了Original Mix 版本的。<br><a href="http://www.xiami.com/song/1774078643?spm=a1z1s.7154410.1996860142.3.qnKXux#wall_list" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1774078643?spm=a1z1s.7154410.1996860142.3.qnKXux#wall_list</a> 这个是没标Original Mix版本的。<br>我委实听不出有差别啊，是同一个资源吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2102348)<br>执节者歌<br>2015-09-16 14:20<br>赞(0) 踩(0) | <div>他说他的，你做你的，好好的关了干嘛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/391795)<br>夏日虫鸣，隐邃星空<br>2015-09-16 09:52<br>赞(27) 踩(0) | <div>封面上是选集的都写了complied，完全参照国外选集系列的发布；是set的都有on friksyraido的标注 或者他们的logo，文字说明也有写，你还想要哪样？在封面上腾出空间来表示“complied by XX表示曲子不是原创”？“set是指***请不要误会成***”？你们看到国外的选集和set封面是怎样的没？你们在这里撕逼的，其中也有发布别人set作品的，如果真是小白，抱着弄清楚的态度也就算了，明明自己应该清楚的，再乱闹那就是有预谋有组织的了。挑事和询问沟通的态度及方式差别很大吧？到你们嘴里别人的贡献都能成了狗屎，真是要多混蛋有多混蛋！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9156158)<br>心 月似钩三星挂<br>2015-08-24 07:13<br>赞(5) 踩(0) | <div>关于一些人很“高尚”说不是原创的是“盗用”的，正好显示他心胸太狭窄了，音乐的美妙不会被如此扼杀的。</div> |
@@ -185,7 +185,7 @@ http://weibo.com/PDStation
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4028542)<br>世界万物都是隐喻<br>2015-08-13 22:28<br>赞(32) 踩(0) | <div>不创造音乐，只做音乐的搬运工。。。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213697462)<br> <br>2018-10-16 03:42<br>赞(0) 踩(0) | <div>即使不是原创，也要有感恩之心。上外网甄选音乐也不是一件容易的事，花费时间不算，还要有较深的音乐修养和高度的辨识力，在此向热爱音乐的音乐人致敬！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5438072)<br><br>2015-07-12 23:57<br>赞(0) 踩(0) | <div>打动你听觉的旋律</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1550112)<br>隐藏在旋律中的心绪<br>2015-07-07 13:00<br>赞(3) 踩(0) | <div>在世界音乐的殿堂里，一听这个是日本人制作的，因为有日本的传统因素。再听一首，恩，是韩国人制作的，因为包含了韩国人的处事思想。什么时候不看制作人简介，一听是中国人，那时候我想是国人真正扬眉吐气的时刻。封面也要，音乐也好，竟然找不到一丝的中国痕迹。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1550112)<br>隐藏在旋律中的心绪<br>2015-07-07 13:00<br>赞(3) 踩(0) | <div>在世界音乐的殿堂里，一听这个是日本人制作的，因为有日本的传统因素。再听一首，恩，是韩国人制作的，因为包含了韩国人的处事思想。<br>什么时候不看制作人简介，一听是中国人，那时候我想是国人真正扬眉吐气的时刻。<br>封面也要，音乐也好，竟然找不到一丝的中国痕迹。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37098145)<br>这个家伙太蠢了不会留下什...<br>2015-07-02 01:07<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20862728)<br>柯男<br>2015-06-25 19:08<br>赞(0) 踩(0) | <div>(๑•̀ㅂ•́)و✧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2165528)<br> <br>2015-06-20 17:25<br>赞(0) 踩(0) | <div>精选集？</div> |
@@ -243,7 +243,7 @@ http://weibo.com/PDStation
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16216086)<br>.<br>2015-07-28 23:58<br>赞(0) 踩(0) | <div>别误会，没有一首是他们创作的，只是搬运工。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40237242)<br><br>2015-03-19 15:55<br>赞(0) 踩(0) | <div>你们的音乐自从2014.8月的专辑发布以来一直听.....很绚丽..........也很令人动容.....也是只有一些情怀的人能够正真欣赏.....然而.....我所担心的是.....6天发布一张专辑是否质量会下降.....Chillout Paradise Volume 018这张就感觉很明显.....作为一个听客,我想说我们能等......哪怕是制作周期长一点.....但是我们更加希望高质量......chill  out已经在国外十分流行....然而，在中国....只是个开始啊..可能是国人太过浮躁了吧....无法正真静下心来来享受chill..我也很希望中国电音市场能开发出来.....</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486995)<br><br>2015-03-19 16:28<br>赞(0) 踩(0) | <div>朋友 感谢你的支持 你说的那个是选集   这些选集并不是随便拼凑实际上在入驻虾米之前已经做好 尽管如此 非常感谢你的意见  我想不断提高质量 具有更广的视角是我们所追求的</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16216086)<br>.<br>2015-07-29 00:07<br>赞(0) 踩(0) | <div>哥们，这个只是在国外网站下载来搬到虾米卖钱而已。只要下载的量足够，别说6天发布一张，就是一天发布6张都没问题啊。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16216086)<br>.<br>2015-07-29 00:07<br>赞(0) 踩(0) | <div>哥们，这个只是在国外网站下载来搬到虾米卖钱而已。<br>只要下载的量足够，别说6天发布一张，就是一天发布6张都没问题啊。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486995)<br><br>2015-09-10 11:36<br>赞(0) 踩(0) | <div><q><b>此去經年说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9156158)<br>心 月似钩三星挂<br>2015-09-16 09:10<br>赞(0) 踩(0) | <div><q><b>此去經年说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/391795)<br>夏日虫鸣，隐邃星空<br>2015-09-16 09:19<br>赞(0) 踩(0) | <div><q><b>心山说：</b></q></div> |
@@ -255,7 +255,7 @@ http://weibo.com/PDStation
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1700002)<br>V5_ORZZZZZ<br>2015-01-17 16:00<br>赞(0) 踩(0) | <div>有feel</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36023770)<br>作业不听歌，听歌不作业。<br>2015-01-05 09:52<br>赞(7) 踩(0) | <div>哇撒！国人？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/621656)<br><br>2015-05-04 22:24<br>赞(0) 踩(0) | <div>国人制作的精选</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15952911)<br>虾米还能听啥呢<br>2014-12-21 21:05<br>赞(1) 踩(0) | <div>以前都是听future bass放松的。现在新添了一种，比futurebass还放松的电音</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15952911)<br>虾米还能听啥呢<br>2014-12-21 21:05<br>赞(1) 踩(0) | <div>以前都是听future bass放松的。<br>现在新添了一种，比futurebass还放松的电音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3902467)<br>发烧一枚<br>2014-12-14 22:26<br>赞(1) 踩(0) | <div>驰放音乐一直在创新 可越听越没味道了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486995)<br><br>2014-12-15 01:15<br>赞(0) 踩(0) | <div>每个时代总有一种代表特质，我想我们应该把眼光放得更远些，对传统的电气化进行改革和加入新理念未免不是好事，现在chillout更多的主题是在探讨空间与人的关系，我想我们的体验应该从更广的角度去感受，而不是音乐本身</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16745497)<br>我还没想好要写什么...<br>2014-12-03 12:20<br>赞(0) 踩(0) | <div>Good</div> |
@@ -302,12 +302,12 @@ http://weibo.com/PDStation
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486995)<br><br>2014-10-16 11:14<br>赞(0) 踩(0) | <div>谢谢支持~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2014-10-13 12:16<br>赞(0) 踩(0) | <div>此去经年同学给我分享的音乐人！  我来坐坐！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486995)<br><br>2014-10-13 12:22<br>赞(0) 踩(0) | <div>感谢~希望能多多交流 共同进步</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302772)<br>消失的光<br>2015-09-16 14:07<br>赞(0) 踩(0) | <div>认真过来围观~~~~自己打脸一定很high(*^__^*)</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302772)<br>消失的光<br>2015-09-16 14:07<br>赞(0) 踩(0) | <div>认真过来围观~~~~<br>自己打脸一定很high(*^__^*)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35062303)<br>一个喜欢唱歌的小女孩<br>2014-10-12 14:28<br>赞(0) 踩(0) | <div>真棒！赞赏！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486995)<br><br>2014-10-13 12:22<br>赞(0) 踩(0) | <div>谢谢支持~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3863543)<br>用挑剔耳朵寻找沁人心脾的...<br>2014-10-11 13:46<br>赞(1) 踩(0) | <div>必须支持，全力支持~~加油^~^</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486995)<br><br>2014-10-11 14:46<br>赞(0) 踩(0) | <div>谢谢支持~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16216086)<br>.<br>2014-10-09 23:56<br>赞(1) 踩(0) | <div>刚在贴吧第一眼看到这名字就误会成了Immediate Music  :D很棒的音乐，加油！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16216086)<br>.<br>2014-10-09 23:56<br>赞(1) 踩(0) | <div>刚在贴吧第一眼看到这名字就误会成了Immediate Music  :D<br><br>很棒的音乐，加油！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486995)<br><br>2014-10-10 09:36<br>赞(0) 踩(0) | <div>谢谢支持，我们会继续努力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6500137)<br><br>2014-10-09 15:28<br>赞(0) 踩(0) | <div>来了来了~我是不经意~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/486995)<br><br>2014-10-10 09:36<br>赞(0) 踩(0) | <div>谢谢支持</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d2fc462d98d091d23d5894e855e11ab5.jpg)<br>金雯昕](https://i.xiami.com/jinwenxin) | **播放数**: 1954694<br>**粉丝数**: 498<br>**评论数**: 47<br>**地区**: China 中国大陆<br>**风格**: <br> |
+| [![](../../images/musicians/d2fc462d98d091d23d5894e855e11ab5.jpg)<br>金雯昕](https://i.xiami.com/jinwenxin) | **地区**: China 中国大陆<br>**风格**: <br>**播放数**: 1954694<br>**粉丝数**: 498<br>**评论数**: 47<br> |
 
 ## 档案
 
@@ -46,15 +46,15 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444683263)<br><br>2020-08-26 10:30<br>赞(1) 踩(0) | <div>干干净净的声音，让人听了很舒服 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126713220)<br>我还没想好要写什么...<br>2020-03-27 07:54<br>赞(0) 踩(0) | <div>出张翻唱专辑吧，肯定会带给你更多流量和人气</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294871791)<br><br>2019-09-14 14:14<br>赞(0) 踩(0) | <div>我猜小姐姐肯定TD歌迷！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426741348)<br><br>2019-06-30 23:18<br>赞(0) 踩(0) | <div>蚊子加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282729134)<br><br>2017-10-28 00:06<br>赞(2) 踩(0) | <div>漂亮姐姐，你不仅唱歌好听，而且人又美。希望你可以唱更多好听的歌。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278096586)<br><br>2017-06-10 19:47<br>赞(2) 踩(0) | <div>姐姐，love</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278096586)<br><br>2017-06-10 19:46<br>赞(1) 踩(0) | <div>加油，会一直爱你漂亮</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278096586)<br><br>2017-06-10 19:46<br>赞(1) 踩(0) | <div>加油，会一直爱你<br>漂亮</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268563025)<br><br>2017-05-21 14:52<br>赞(1) 踩(0) | <div>全世界最好的金雯昕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/254680196)<br> <br>2017-04-08 08:12<br>赞(2) 踩(0) | <div>你声音很好听，为梦想坚持继续努力吧&amp;hellip;我们一起加油&amp;hellip; <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285139862)<br><br>2017-04-01 22:50<br>赞(1) 踩(0) | <div>加油</div> |

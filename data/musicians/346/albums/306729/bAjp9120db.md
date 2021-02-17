@@ -123,8 +123,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202140390)<br><br>2021-01-23 00:08<br>赞(0) 踩(0) | <div>虾米要挂了。不想听音乐了。FX850送给有缘人。一共发10条消息，这是第四条。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23091801)<br>心有猛虎，细嗅蔷薇。<br>2021-01-18 08:36<br>赞(0) 踩(0) | <div>我曾把这首歌的歌词背诵给我妈听（隔壁邻居那段），她笑了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192393192)<br>虾米 我们不要告别<br>2021-01-17 09:08<br>赞(0) 踩(0) | <div>后弦一直就很棒啊 这首歌两条线 居然没有任何突兀。</div> |
@@ -134,18 +134,18 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333958942)<br><br>2020-11-02 15:37<br>赞(0) 踩(0) | <div>过桥这首歌的伴奏和nobodyknows+的fallin'一毛一样...听过桥的时候我才初一现在已经大学毕业啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375343356)<br><br>2020-09-27 12:57<br>赞(2) 踩(0) | <div>小炒邓丽君，大炒放那英</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44925253)<br>Four_0522请备注...<br>2020-09-23 13:26<br>赞(0) 踩(0) | <div>喜欢后弦的歌  舒服</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40548253)<br>愿你找到亲爱的 不负热爱...<br>2020-07-19 20:23<br>赞(0) 踩(0) | <div>以前心情不好都是看喜剧电影 小品相声现在心情不好，我的快乐源泉是美国新闻 台湾新闻哈哈哈哈哈哈哈xswl20200719❤️</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40548253)<br>愿你找到亲爱的 不负热爱...<br>2020-07-19 20:23<br>赞(0) 踩(0) | <div>以前心情不好都是看喜剧电影 小品相声<br>现在心情不好，我的快乐源泉是美国新闻 台湾新闻哈哈哈哈哈哈哈xswl20200719❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298603796)<br><br>2020-07-02 21:04<br>赞(2) 踩(0) | <div>当年，疯狂迷恋这首《过桥》和《昆明湖》一年多，后面腻了，现在虾米居然给我推荐后弦了，又把他的歌，听了个遍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7596925)<br>暂无签名~<br>2020-06-13 08:50<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311675001)<br><br>2020-04-20 12:03<br>赞(0) 踩(0) | <div>后弦的与众不同品细细品品着品着就上头了 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30768846)<br> 自洽<br>2020-04-15 19:16<br>赞(0) 踩(0) | <div>那年刚好高考，十多年了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245297314)<br><br>2020-02-22 13:41<br>赞(4) 踩(0) | <div>乖乖，这词比方文山厉害多了。关键后弦基本上都是自己写自己唱，为什么不能成为第二个周杰伦？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245297314)<br><br>2020-02-22 13:41<br>赞(4) 踩(0) | <div>乖乖，这词比方文山厉害多了。<br>关键后弦基本上都是自己写自己唱，<br>为什么不能成为第二个周杰伦？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284054964)<br><br>2020-02-14 08:05<br>赞(0) 踩(0) | <div>喜欢这种调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318754123)<br>宗介爱音乐<br>2020-02-14 00:46<br>赞(0) 踩(0) | <div>值得拥有系列！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264598296)<br><br>2020-02-11 19:08<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274644171)<br>我还没想好要写什么...<br>2020-01-05 15:10<br>赞(1) 踩(0) | <div>好吧，今天就吃过桥米线</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3491810)<br>There is ART...<br>2020-03-12 22:34<br>赞(0) 踩(0) | <div>听这首歌 就是好想吃过桥米线</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72081976)<br>我还没想好要写什么...<br>2019-12-30 21:44<br>赞(0) 踩(0) | <div>高中的经典<img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72081976)<br>我还没想好要写什么...<br>2019-12-30 21:44<br>赞(0) 踩(0) | <div>高中的经典<br><img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213736543)<br>随遇而安<br>2019-12-09 15:49<br>赞(1) 踩(0) | <div>不错哦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267862281)<br>不告诉你<br>2019-11-23 09:56<br>赞(0) 踩(0) | <div>啊！高中的时候，多少年过去了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314338761)<br>NZ suck <br>2019-11-19 05:21<br>赞(0) 踩(0) | <div>好</div> |
@@ -172,7 +172,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212772596)<br><br>2019-02-24 17:01<br>赞(0) 踩(0) | <div>这么好听的歌为什么评论这么少？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9137429)<br>暂无签名~<br>2019-02-23 07:28<br>赞(0) 踩(0) | <div>神曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356166619)<br><br>2019-01-06 13:43<br>赞(0) 踩(0) | <div>后xuan 现在干什么去了</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423565674)<br><br>2019-04-21 00:17<br>赞(0) 踩(0) | <div>和闺女看漫画踢毽子养老去了( ✘_✘ )↯也不能怪他写这首歌后弦才二十多岁现在都40了确实少了一点年轻时候近乎搏命的锐气[这首歌后弦连续写了三天三夜 直写到泪流满面 现在后弦写歌是和闺女出门散步 气淑风和 看到有人吹拉弹唱 有感写了小周末 确实写作状态差了很多]</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423565674)<br><br>2019-04-21 00:17<br>赞(0) 踩(0) | <div>和闺女看漫画踢毽子养老去了( ✘_✘ )↯<br>也不能怪他<br>写这首歌后弦才二十多岁<br>现在都40了<br>确实少了一点年轻时候近乎搏命的锐气[这首歌后弦连续写了三天三夜 直写到泪流满面 现在后弦写歌是和闺女出门散步 气淑风和 看到有人吹拉弹唱 有感写了小周末 确实写作状态差了很多]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203707428)<br><br>2019-01-04 21:26<br>赞(1) 踩(0) | <div>这首歌也是在表达自己吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408111197)<br><br>2018-12-20 21:40<br>赞(0) 踩(0) | <div>酷！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408359780)<br><br>2018-12-16 17:39<br>赞(1) 踩(0) | <div>初中时候比较喜欢听的歌 <img src="../../../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
@@ -198,7 +198,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261813523)<br>一直行走，从未停歇<br>2018-06-08 23:34<br>赞(1) 踩(0) | <div>古今考试都一样啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16918561)<br>一呼吸 一天地<br>2018-05-31 11:13<br>赞(0) 踩(0) | <div>大爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178211972)<br><br>2018-05-31 00:36<br>赞(0) 踩(0) | <div>依旧好听，仿佛昨天。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39176959)<br>免费VIP木有了(〝▼皿...<br>2018-05-16 07:05<br>赞(1) 踩(0) | <div>一直找一直找一直找一直走一直走一直走太洗脑了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39176959)<br>免费VIP木有了(〝▼皿...<br>2018-05-16 07:05<br>赞(1) 踩(0) | <div>一直找一直找一直找<br>一直走一直走一直走<br>太洗脑了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307937494)<br> <br>2018-05-14 22:27<br>赞(1) 踩(0) | <div>后弦当年也是神一样的存在，这歌放到现在也牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297262199)<br><br>2018-04-22 19:57<br>赞(2) 踩(0) | <div>这词这曲简直了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198263249)<br>大家都是凡人，何必追问一...<br>2018-04-20 10:23<br>赞(1) 踩(0) | <div>真是唏嘘</div> |
@@ -230,14 +230,14 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6289475)<br><br>2018-05-28 22:56<br>赞(0) 踩(0) | <div>考的怎么样？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49855339)<br>我还没想好要写什么...<br>2018-10-19 16:59<br>赞(0) 踩(0) | <div>好想回去，重来一次。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427434992)<br>我还没想好要写什么...<br>2019-08-24 14:47<br>赞(0) 踩(0) | <div>考的咋样</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6416542)<br><br>2017-10-27 23:32<br>赞(4) 踩(0) | <div>“首先 ，谢谢 考拉 的 推荐。。。说真的比较喜欢后弦早期的音乐作品，那种中国风加上说唱hihop R&amp;B 什么的音乐曲风风格， 独一无二的美好。。尤其这一首歌曲，果然是我的大爱，不断循环哦。。。”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6416542)<br><br>2017-10-27 23:32<br>赞(4) 踩(0) | <div>“首先 ，谢谢 考拉 的 推荐。。。<br>说真的比较喜欢后弦早期的音乐作品，那种中国风加上说唱hihop R&amp;B 什么的音乐曲风风格， 独一无二的美好。。尤其这一首歌曲，果然是我的大爱，不断循环哦。。。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308963400)<br><br>2017-10-22 19:28<br>赞(2) 踩(0) | <div>一听后弦的歌就觉得有好多回忆。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/161534788)<br>你好甜<br>2017-10-15 19:26<br>赞(4) 踩(0) | <div>好喜欢后弦的说唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/267995277)<br>想要收集快乐<br>2017-10-05 22:23<br>赞(1) 踩(0) | <div>该听过桥啦 过桥顺利</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/233414586)<br><br>2017-10-01 10:15<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325408960)<br>生尽欢，死无憾。<br>2017-09-30 03:59<br>赞(3) 踩(0) | <div>愿用十年换一年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282486158)<br><br>2017-09-29 17:29<br>赞(2) 踩(0) | <div>浓浓的烈酒陪我思考❤❤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31526494)<br><br>2017-09-25 15:17<br>赞(4) 踩(0) | <div>每当夹起这碗过桥米线我想，旅途的背包装着自己未来多少，除了那座独木桥我还有梦想，于是我一直找一直找，每当夹起这碗过桥米线我想，这一生将要走过多少默默的桥，在桥的那头能够牵着注定牵着的手，然后一直走一直走&amp;hellip;多么贴切的词诠释出一个男人的未来，立业成家</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31526494)<br><br>2017-09-25 15:17<br>赞(4) 踩(0) | <div>每当夹起这碗过桥米线我想，旅途的背包装着自己未来多少，除了那座独木桥我还有梦想，于是我一直找一直找，每当夹起这碗过桥米线我想，这一生将要走过多少默默的桥，在桥的那头能够牵着注定牵着的手，然后一直走一直走&amp;hellip;<br>多么贴切的词诠释出一个男人的未来，立业成家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284669717)<br><br>2017-09-21 21:44<br>赞(3) 踩(0) | <div>大学时光那么爱你，娃娃脸以后好长时间都不见了，才华横溢小弦弦 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282486158)<br><br>2017-09-19 17:56<br>赞(1) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299695717)<br>在终点 懂你的名字会是我<br>2017-09-17 14:28<br>赞(1) 踩(0) | <div>也是初二听的</div> |
@@ -375,7 +375,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48622640)<br><br>2015-06-13 00:27<br>赞(0) 踩(0) | <div>旋律有点像一首韩文歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23568151)<br><br>2015-05-28 00:29<br>赞(0) 踩(0) | <div>好词 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png">有气节</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45213994)<br>我还没想好要写什么...<br>2015-05-18 09:50<br>赞(0) 踩(0) | <div>与其向你去解释我，不如让你去揣摩我。我就是这样，我还不止这样。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31439389)<br>May we meet ...<br>2015-05-09 15:15<br>赞(2) 踩(0) | <div>一首歌，循环了8年。我记得在我每一次备考的夜晚都有它。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31439389)<br>May we meet ...<br>2015-05-09 15:15<br>赞(2) 踩(0) | <div>一首歌，循环了8年。<br>我记得在我每一次备考的夜晚都有它。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41017493)<br> <br>2015-04-23 18:49<br>赞(4) 踩(0) | <div>入春才七日，离家已二年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4299348)<br> <br>2015-03-26 15:10<br>赞(0) 踩(0) | <div>再一次</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4299348)<br> <br>2015-03-23 20:31<br>赞(4) 踩(0) | <div>诗人才子最终娶妻生子过着平凡的生活。不然疯了死得早。。</div> |
@@ -389,7 +389,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11818870)<br>要用歌声让你忘了所有的痛...<br>2014-12-16 13:41<br>赞(1) 踩(0) | <div>高三熬夜单曲。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22083029)<br>暂无签名~<br>2014-12-06 17:51<br>赞(0) 踩(0) | <div>大一听到大四</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8739385)<br> <br>2014-12-03 21:07<br>赞(2) 踩(0) | <div>邻居开始和面那段每回听都笑</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4788024)<br><br>2014-11-18 08:40<br>赞(142) 踩(0) | <div>甩手 大步不回我 辞官差服 垂下换回我 蓝衫湖面 睡莲天生不会 折弯你端过一碗干浆浓香灌热我愁肠我趁破晓 湖边跑 重新再寻找开起桥边米线小店让飘有地落脚一口口热汤 巷间中回香传递人间冷暖平淡再平淡 回到爱开始地方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4788024)<br><br>2014-11-18 08:40<br>赞(142) 踩(0) | <div>甩手 大步不回我 辞官<br>差服 垂下换回我 蓝衫<br>湖面 睡莲天生不会 折弯<br>你端过一碗干浆浓香灌热我愁肠<br>我趁破晓 湖边跑 重新再寻找<br>开起桥边米线小店让飘有地落脚<br>一口口热汤 巷间中回香<br>传递人间冷暖平淡再平淡 回到爱开始地方</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51676635)<br> <br>2016-01-17 17:31<br>赞(0) 踩(0) | <div>最喜欢这段</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134161830)<br><br>2017-04-19 22:28<br>赞(0) 踩(0) | <div>初二 听了后弦的歌开始奋斗 现在大学毕业 做IT</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213254164)<br><br>2017-08-06 16:39<br>赞(0) 踩(0) | <div><q><b>Uncle同。说：</b></q></div> |
@@ -397,7 +397,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214226)<br><br>2014-09-21 20:43<br>赞(0) 踩(0) | <div>瞬间听出鸡皮疙瘩来了。。。触电一样。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9794001)<br><br>2014-08-12 13:13<br>赞(0) 踩(0) | <div>初三每日循环</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39473086)<br>not yet.<br>2014-07-31 00:16<br>赞(0) 踩(0) | <div>早已考完两眼一抹黑</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16128920)<br>暂无签名~<br>2014-07-29 01:34<br>赞(1) 踩(0) | <div>继续熬。三年。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16128920)<br>暂无签名~<br>2014-07-29 01:34<br>赞(1) 踩(0) | <div>继续熬。<br>三年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8530134)<br><br>2014-06-24 20:59<br>赞(0) 踩(0) | <div>好嘛，听首跟得上大部队的歌儿。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19442837)<br>。<br>2014-04-21 07:49<br>赞(57) 踩(0) | <div>哎 唏嘘不已，当时听这首歌都共鸣到掉眼泪，能有多少这样的歌曲，备考神曲啊QAQ</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211869760)<br> <br>2017-08-01 18:34<br>赞(0) 踩(0) | <div>现在依然会落泪，理由更多的是对现实的无奈。像李宗盛写的&amp;ldquo;想得却不可得，你奈人生何&amp;rdquo;。</div> |
@@ -409,17 +409,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2013-09-25 10:41<br>赞(1) 踩(0) | <div>考试神曲噜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18132726)<br><br>2013-08-25 11:50<br>赞(0) 踩(0) | <div>流连。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10729256)<br>我还没想好要写什么...<br>2013-06-28 20:23<br>赞(0) 踩(0) | <div>好熟悉的感觉 还是 喜欢 怀念啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3971094)<br><br>2013-06-07 23:07<br>赞(1) 踩(0) | <div>每当夹起这碗过桥米线我想 旅途的背包装着自己未来多少 除了那座独木桥我还有梦想于是我一直找一直找一直找</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3971094)<br><br>2013-06-07 23:07<br>赞(1) 踩(0) | <div>每当夹起这碗过桥米线我想 旅途的背包装着自己未来多少 除了那座独木桥我还有梦想<br>于是我一直找一直找一直找</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13188014)<br>世人笑我太疯癫，我笑世人...<br>2013-04-27 09:51<br>赞(65) 踩(0) | <div>单曲循环。传说中高三没有看歌词听了就跟热血，看了歌词更热血的歌，共鸣感100％。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3700825)<br><br>2013-04-10 14:39<br>赞(2) 踩(0) | <div>背景里的小调真是大爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13598253)<br>time730.com<br>2013-03-19 17:02<br>赞(0) 踩(0) | <div>哈哈httpwwwtime730com哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6513356)<br><br>2012-04-11 17:41<br>赞(0) 踩(0) | <div>好聽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3709390)<br>暂无签名~<br>2012-01-06 12:15<br>赞(0) 踩(0) | <div>考研时陪伴我每日入眠的小曲儿~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1749763)<br><br>2011-12-27 20:59<br>赞(2) 踩(0) | <div>浓浓的眼圈陪我备考台灯盼破晓无奈尚早寒意继续吹放肆骄傲我只能把春天忘掉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1749763)<br><br>2011-12-27 20:59<br>赞(2) 踩(0) | <div>浓浓的眼圈陪我备考<br>台灯盼破晓无奈尚早<br>寒意继续吹放肆骄傲<br>我只能把春天忘掉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4088703)<br>Never Stop T...<br>2011-11-25 20:21<br>赞(0) 踩(0) | <div>高考期的回忆呐...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/198406)<br>与君初相识，犹如故人归<br>2011-11-22 03:08<br>赞(0) 踩(0) | <div>特别喜欢~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5648883)<br><br>2011-08-31 15:31<br>赞(0) 踩(0) | <div>旋律响起，求知殊途印象即起......</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4437961)<br><br>2011-08-22 08:46<br>赞(0) 踩(0) | <div>这一生将要走过多少静静的桥在桥头能够牵着注定牵着的手然后一直走一直走</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4437961)<br><br>2011-08-22 08:46<br>赞(0) 踩(0) | <div>这一生将要走过多少静静的桥<br>在桥头能够牵着注定牵着的手<br>然后一直走一直走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3663860)<br><br>2011-05-30 20:26<br>赞(3) 踩(0) | <div>杨秀才终日在蒙自南湖的湖心亭中苦读，爱人每天都会在桥边放下一碗滚烫保温的过桥米线，秀才赴大理赶考，希望一日为官能够照顾一家老小，终于不负众望终于考回功名，娶过回爱人，进入官场，却因为官场的迂腐而失望辞官。后弦《过桥》。09高考那段时间一直听它</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74767436)<br><br>2015-10-19 03:50<br>赞(0) 踩(0) | <div>繐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3663860)<br><br>2011-05-30 20:22<br>赞(0) 踩(0) | <div>快高考了，突然也想起09年我们快高考的时候，那时候也一直在听后弦的《过桥》</div> |
@@ -430,7 +430,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3221467)<br><br>2011-03-26 12:10<br>赞(1) 踩(0) | <div>古代考功名的艰辛和苦涩，现在公考也一样的让人惆怅，明天就省考了，希望我能挤过这座独木桥，在桥头唱着这首歌，牵起注定牵着的手，阿门~~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1903258)<br><br>2011-03-07 21:26<br>赞(0) 踩(0) | <div>后弦啊后弦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1858508)<br>人可生如蚁而美如神<br>2011-02-19 22:40<br>赞(0) 踩(0) | <div>很特别的歌词。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1748282)<br>Können Sie m...<br>2011-02-05 02:15<br>赞(0) 踩(0) | <div>好喜欢好喜欢这首歌、、听着的时候、时而发呆、时而会觉得有点想落泪、、</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1748282)<br>Können Sie m...<br>2011-02-05 02:15<br>赞(0) 踩(0) | <div>好喜欢好喜欢这首歌、、<br>听着的时候、时而发呆、时而会觉得有点想落泪、、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1495255)<br>时间是炸弹<br>2011-02-01 00:13<br>赞(0) 踩(0) | <div>弟弟才12，很喜欢中间のRap== 我也蛮喜欢艾~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/743228)<br><br>2010-12-22 13:38<br>赞(0) 踩(0) | <div>清新的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2068184)<br><br>2010-12-06 16:13<br>赞(0) 踩(0) | <div>感觉很清爽！</div> |

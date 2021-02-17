@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4018436a52156c38d33fe7514231bf1a.jpg)<br>徐千雅](https://i.xiami.com/kiya) | **播放数**: 35399378<br>**粉丝数**: 4371<br>**评论数**: 191<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行 Pop<br> |
+| [![](../../images/musicians/4018436a52156c38d33fe7514231bf1a.jpg)<br>徐千雅](https://i.xiami.com/kiya) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行 Pop<br>**播放数**: 35399378<br>**粉丝数**: 4371<br>**评论数**: 191<br> |
 
 ## 档案
 
@@ -92,8 +92,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443362668)<br><br>2020-12-22 09:46<br>赞(0) 踩(0) | <div>我非常喜欢徐千雅，喜欢坐上火车去拉萨的演唱，音乐，声音使人惊喜。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422138658)<br><br>2020-08-23 20:22<br>赞(0) 踩(0) | <div>徐千雅，用歌声传递美的文艺青年明星！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48999137)<br><br>2020-08-15 06:47<br>赞(0) 踩(0) | <div>26岁</div> |
@@ -234,7 +234,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6652575)<br>mbz2006<br>2013-01-17 00:01<br>赞(0) 踩(0) | <div>ok</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/437721)<br><br>2012-12-27 23:45<br>赞(34) 踩(0) | <div>好苗子被大量的口水歌给浪费了，以至于一直很难红起来。 想想第一次听深圳电视台《汽车先锋》主题曲《启程》时的惊艳，那是一首非常洋气的歌曲，找了很久找到徐千雅这个名字，之后一直很关注可是听起来却大多是粗制滥造的歌曲，真的是浪费他了！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/523940)<br><br>2013-08-27 04:32<br>赞(0) 踩(0) | <div>恕小弟才疏学浅，斗胆请教一下前辈，大家口口声声说的口水歌到底是什么意思？怎么来定义？感谢大家不吝赐教。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285051742)<br><br>2017-04-01 14:34<br>赞(0) 踩(0) | <div>68 /1  - 166:/7。。vm..74a.(&amp;rsaquo;&amp;acute;&amp;omega;`&amp;lsaquo; )9m.9m9bm8u99mb69....xo9-2k.7 79</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285051742)<br><br>2017-04-01 14:34<br>赞(0) 踩(0) | <div>68 /1  - 166:<br>/7。。v<br><br><br><br><br><br>m<br><br><br><br><br><br>.<br>.<br><br><br><br>7<br>4a<br>.(&amp;rsaquo;&amp;acute;&amp;omega;`&amp;lsaquo; )9<br><br><br>m<br><br><br><br><br><br>.9m<br><br><br><br><br><br>9<br>bm<br>8u<br>9<br><br>9m<br>b<br><br><br><br>69<br><br><br><br><br><br>..<br><br>.<br><br><br>.<br>xo<br>9-2<br><br>k.<br>7 7<br>9</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41056811)<br><br>2017-06-04 13:38<br>赞(0) 踩(0) | <div>她把自己跟一个词曲作者（何沐阳）捆在一起，必定会风格单一，满满的就退出主流了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2589737)<br><br>2012-12-24 20:55<br>赞(0) 踩(0) | <div>喜欢她</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3324772)<br>Think again<br>2012-12-09 19:47<br>赞(0) 踩(0) | <div>彩云之南不错</div> |
@@ -283,5 +283,5 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1642215)<br><br>2010-10-11 09:15<br>赞(0) 踩(0) | <div>怎么没有山楂树之恋</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3147186)<br><br>2011-03-15 19:26<br>赞(0) 踩(0) | <div>我也在找 你找到了吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/604599)<br><br>2010-05-07 07:54<br>赞(0) 踩(0) | <div>如果你也是个狂恋流浪的瓶子 你会喜欢她……%</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79438)<br><br>2010-03-10 10:30<br>赞(0) 踩(0) | <div>这么好的制作，却不火。或许是缺少包装和专业策划、宣传~就出了一张专辑呢？徐千雅春晚惊艳登台 大把捞金超越《传奇》，确实春晚凤凰的歌忒俗了~囧~无意境、仅穷乐。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273681)<br><br>2009-10-06 14:17<br>赞(0) 踩(0) | <div>她的歌，作词也许有点俗，有点大白话但曲调很好听，很高亢。有民族风，也有都市情感。或者兼而有之，完美的搭配。嗓音也异常好听。没有大俗，只有大雅！这么好的制作，却不火。人各有命。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79438)<br><br>2010-03-10 10:30<br>赞(0) 踩(0) | <div>这么好的制作，却不火。或许是缺少包装和专业策划、宣传~就出了一张专辑呢？<br><br>徐千雅春晚惊艳登台 大把捞金超越《传奇》，确实春晚凤凰的歌忒俗了~囧~无意境、仅穷乐。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273681)<br><br>2009-10-06 14:17<br>赞(0) 踩(0) | <div>她的歌，作词也许有点俗，有点大白话<br>但曲调很好听，很高亢。<br>有民族风，也有都市情感。或者兼而有之，完美的搭配。嗓音也异常好听。<br>没有大俗，只有大雅！这么好的制作，却不火。人各有命。。。</div> |

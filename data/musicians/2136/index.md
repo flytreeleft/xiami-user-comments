@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/98b86eccac155f99c8acd896f9ac51e5.jpg)<br>索朗旺姆](https://i.xiami.com/slwm) | **播放数**: 3607940<br>**粉丝数**: 1408<br>**评论数**: 88<br>**地区**: China 中国大陆<br>**风格**: 中国传统民歌 Chinese Traditional Folk, 西藏传统乐 Tibetan Traditional Music<br> |
+| [![](../../images/musicians/98b86eccac155f99c8acd896f9ac51e5.jpg)<br>索朗旺姆](https://i.xiami.com/slwm) | **地区**: China 中国大陆<br>**风格**: 中国传统民歌 Chinese Traditional Folk, 西藏传统乐 Tibetan Traditional Music<br>**播放数**: 3607940<br>**粉丝数**: 1408<br>**评论数**: 88<br> |
 
 ## 档案
 
@@ -30,8 +30,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352220781)<br><br>2020-10-14 00:38<br>赞(0) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1756246)<br>个人成长工作者<br>2020-06-18 11:27<br>赞(2) 踩(0) | <div>声音干净纯粹，如水一样润泽灵魂。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9890851)<br>签名是一种态度，我想我可...<br>2020-03-15 05:34<br>赞(1) 踩(0) | <div>当年给郑钧 回到拉萨里女声</div> |
@@ -88,7 +88,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9642566)<br>最悲惨的人生是没有理想<br>2014-06-23 16:29<br>赞(0) 踩(0) | <div>不去不好使！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253393733)<br>喜欢Wardruna<br>2017-10-03 16:46<br>赞(0) 踩(0) | <div>向世俗低头，从此沦为木偶演唱者，彻底断送了不世出的天赋，不知道说什么呢&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16060190)<br>xiao<br>2013-12-22 20:34<br>赞(1) 踩(0) | <div>真好~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2701140)<br><br>2013-10-27 23:33<br>赞(2) 踩(0) | <div>《冈拉梅朵》<a href="http://www.xiami.com/song/1772231070" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1772231070</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2701140)<br><br>2013-10-27 23:33<br>赞(2) 踩(0) | <div>《冈拉梅朵》<br><a href="http://www.xiami.com/song/1772231070" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/1772231070</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16236345)<br><br>2013-06-23 13:01<br>赞(1) 踩(0) | <div>就是 喜欢听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8327232)<br>苦海无边   回头是岸<br>2013-04-24 11:32<br>赞(1) 踩(0) | <div>歌自天成，声动大中华。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-04-08 08:12<br>赞(2) 踩(0) | <div>声音条件很好，可惜没有好的歌，而且过于讲究技巧。</div> |

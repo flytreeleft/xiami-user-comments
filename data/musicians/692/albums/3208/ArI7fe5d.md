@@ -12,12 +12,9 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/941274)<br>吃货拯救世界<br>2020-08-23 03:07<br>赞(0) 踩(0) | <div>高中时，用涂改液把这首歌歌词写在课桌上，被班主任（英语老师）怀疑我有抑郁症&amp;hellip;那段时光真的太灰暗了，其实不能完全理解这首歌到底要表达什么，甚至连翻译都翻译不清楚，ugly到底是什么意思&amp;hellip;怎么翻译才算精准。但就喜欢这歌名&amp;ldquo;ugly one must die&amp;rdquo;</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/941274)<br>吃货拯救世界<br>2020-08-23 03:07<br>赞(0) 踩(0) | <div>高中时，用涂改液把这首歌歌词写在课桌上，被班主任（英语老师）怀疑我有抑郁症&amp;hellip;<br>那段时光真的太灰暗了，其实不能完全理解这首歌到底要表达什么，甚至连翻译都翻译不清楚，ugly到底是什么意思&amp;hellip;怎么翻译才算精准。<br>但就喜欢这歌名&amp;ldquo;ugly one must die&amp;rdquo;</div> |

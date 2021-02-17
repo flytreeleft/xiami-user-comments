@@ -42,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355381053)<br><br>2018-12-22 07:30<br>赞(0) 踩(0) | <div>当时封面怎么这么丑，不，是清纯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2016-12-22 18:51<br>赞(0) 踩(0) | <div>没爱情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13697681)<br>爱屋及乌<br>2016-08-05 13:54<br>赞(0) 踩(0) | <div>继续自虐</div> |

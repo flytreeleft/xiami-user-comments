@@ -72,8 +72,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17584208)<br><br>2020-03-03 09:18<br>赞(1) 踩(0) | <div>阿弥陀佛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440398588)<br><br>2020-03-03 06:07<br>赞(1) 踩(0) | <div>忏悔罪业！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440398588)<br><br>2020-02-25 08:15<br>赞(0) 踩(0) | <div>阿弥陀佛！</div> |

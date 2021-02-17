@@ -3,13 +3,10 @@ Piano.Ce
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6c304de4058b34fac852991bc63f3d5e.jpg)<br>Piano.Ce](https://i.xiami.com/pianoce) | **播放数**: 884085<br>**粉丝数**: 139<br>**评论数**: 12<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 器乐流行 Instrumental Pop, 轻音乐流行 Light Pop, 轻音乐 Easy Listening<br> |
+| [![](../../images/musicians/6c304de4058b34fac852991bc63f3d5e.jpg)<br>Piano.Ce](https://i.xiami.com/pianoce) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 器乐流行 Instrumental Pop, 轻音乐流行 Light Pop, 轻音乐 Easy Listening<br>**播放数**: 884085<br>**粉丝数**: 139<br>**评论数**: 12<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -28,8 +25,8 @@ Piano.Ce
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376647980)<br><br>2020-10-18 20:56<br>赞(0) 踩(0) | <div>因为 好&amp;middot;听～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32461398)<br>曾在云上浮想联翩如今也终...<br>2020-05-31 00:26<br>赞(1) 踩(0) | <div>加油啊~初次见面~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104380556)<br>(≧∇≦)<br>2020-07-24 01:29<br>赞(0) 踩(0) | <div>嘿嘿 谢谢你~ 加油！</div> |

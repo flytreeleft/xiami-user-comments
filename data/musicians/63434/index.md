@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/953faca09c1cffcbaf9a28b48929a9c1.jpg)<br>江映蓉](https://i.xiami.com/jiangyingrong) | **播放数**: 9937637<br>**粉丝数**: 3559<br>**评论数**: 144<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/953faca09c1cffcbaf9a28b48929a9c1.jpg)<br>江映蓉](https://i.xiami.com/jiangyingrong) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 9937637<br>**粉丝数**: 3559<br>**评论数**: 144<br> |
 
 ## 档案
 
@@ -71,12 +71,12 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430626979)<br><br>2021-02-01 11:50<br>赞(0) 踩(0) | <div>祝江映蓉姐姐生日快乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3140019)<br>天马行空<br>2021-02-01 11:36<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3140019)<br>天马行空<br>2021-02-01 11:35<br>赞(0) 踩(0) | <div>生日快乐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19491826)<br><br>2021-02-01 10:29<br>赞(0) 踩(0) | <div>Happy Birthday to the real person...Don&amp;rsquo;t give up, fighting....</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19491826)<br><br>2021-02-01 10:29<br>赞(0) 踩(0) | <div>Happy Birthday to the real person...<br>Don&amp;rsquo;t give up, fighting....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8770123)<br><br>2020-12-21 17:09<br>赞(0) 踩(0) | <div>我不是欧美风的粉丝但是喜欢你的歌 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8770123)<br><br>2020-12-21 17:05<br>赞(0) 踩(0) | <div>就是歌太少了  <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444164681)<br>我最帅<br>2020-07-18 19:01<br>赞(1) 踩(0) | <div>空位空位空位空位空位空位</div> |
@@ -105,7 +105,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34979426)<br>再见了，希望可以再相见<br>2018-03-06 12:52<br>赞(3) 踩(0) | <div>版权终于回来了 小时候的回忆</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42810132)<br>Aprés l'amou...<br>2018-01-10 17:04<br>赞(0) 踩(0) | <div>何厚铧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10000610)<br>有人造屋 有人绣花 有人...<br>2018-01-05 04:04<br>赞(15) 踩(0) | <div>我倒是一直很吃江映蓉的颜。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/133219)<br><br>2017-10-27 23:35<br>赞(4) 踩(0) | <div>江映蓉获得年度青少年最喜爱的女歌手提名 赶快来投票 颁奖盛典在2015年2月8日 北京中国人民大学举行<a href="http://edu.qq.com/zt2015/campusstartp/index.htm?plg_auth=1" target="_blank" rel="nofollow noreferrer noopener">http://edu.qq.com/zt2015/campusstartp/index.htm?plg_auth=1</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/133219)<br><br>2017-10-27 23:35<br>赞(4) 踩(0) | <div>江映蓉获得年度青少年最喜爱的女歌手提名 赶快来投票 颁奖盛典在2015年2月8日 北京中国人民大学举行<br><a href="http://edu.qq.com/zt2015/campusstartp/index.htm?plg_auth=1" target="_blank" rel="nofollow noreferrer noopener">http://edu.qq.com/zt2015/campusstartp/index.htm?plg_auth=1</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49788147)<br>丝碧德<br>2017-10-07 00:58<br>赞(19) 踩(0) | <div>其实很棒的一个艺人，如果生在欧美，可能已经是一代唱跳diva了，可惜在大陆这种喜欢抒情垃圾的地方火不了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7467413)<br>你快聽聽聽 在我背後千里...<br>2017-06-06 09:06<br>赞(32) 踩(0) | <div>天娱毁了她，也埋葬了无数个如她一般的优秀艺人。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8269111)<br>有了滑板鞋天黑都不怕<br>2018-04-04 17:08<br>赞(0) 踩(0) | <div>湖南台做节目很有经验 但是频道气质太快手 包装艺人这些方面都太土了</div> |
@@ -139,7 +139,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45704336)<br><br>2015-02-19 21:09<br>赞(0) 踩(0) | <div>马上就要出新歌了！！！哈哈，我已经准备好了！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32268916)<br><br>2015-02-13 00:31<br>赞(37) 踩(0) | <div>超女出身的要说张靓颖走的是国际diva风，那么江映蓉走的就是欧美大妞风，而且一点也不别扭，内地的能走得这么不水土不服的真是凤毛麟角，天娱也抓歌手特色风格很准，可惜就是不肯花钱请欧美的制作人写歌，要不然这妞真是大有潜力啊！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45704336)<br><br>2015-02-19 21:08<br>赞(0) 踩(0) | <div>一句话就是公司不给力</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6819695)<br>我还没想好要写什么...<br>2015-02-01 20:03<br>赞(26) 踩(0) | <div>其实她潜力完全不输张靓颖声音韧性强 把握歌曲的能力也不弱</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6819695)<br>我还没想好要写什么...<br>2015-02-01 20:03<br>赞(26) 踩(0) | <div>其实她潜力完全不输张靓颖<br>声音韧性强 把握歌曲的能力也不弱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45704336)<br><br>2015-01-19 10:47<br>赞(0) 踩(0) | <div>我每次听你的歌我的心情就会好，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45704336)<br><br>2015-01-19 10:47<br>赞(2) 踩(0) | <div>从2009到现在2015，已经是第六个年头了，加油，萤火虫一直在</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45704336)<br><br>2015-01-19 10:46<br>赞(0) 踩(0) | <div>要发歌了，我等你的歌哦！！</div> |
@@ -167,7 +167,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43468968)<br>暂无签名~<br>2014-11-08 20:09<br>赞(0) 踩(0) | <div>离开天娱吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43468968)<br>暂无签名~<br>2014-11-08 20:09<br>赞(0) 踩(0) | <div>爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4422152)<br> <br>2014-11-03 14:36<br>赞(0) 踩(0) | <div>我居然才看到跨年晚会的Applause= =忍不住来嘲讽一下</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1401579)<br><br>2014-06-20 21:20<br>赞(3) 踩(0) | <div>舞曲本身是有艳丽浮夸的特质，但这并不代表舞曲歌手比起抱吉他搞创作的歌手来就低人一等，相反，市场环境决定了做舞曲要更辛苦，更卖力，更不讨好。华语歌迷一个通病就是不懂得珍惜当下，珍惜眼前。行行出状元，音乐曲风也一样，我相信几年之后讨论起华语舞曲来，是会有江映蓉的一席之地的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1401579)<br><br>2014-06-20 21:20<br>赞(3) 踩(0) | <div>舞曲本身是有艳丽浮夸的特质，但这并不代表舞曲歌手比起抱吉他搞创作的歌手来就低人一等，<br>相反，市场环境决定了做舞曲要更辛苦，更卖力，更不讨好。<br>华语歌迷一个通病就是不懂得珍惜当下，珍惜眼前。<br>行行出状元，音乐曲风也一样，我相信几年之后讨论起华语舞曲来，是会有江映蓉的一席之地的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9900144)<br> <br>2014-06-10 15:20<br>赞(3) 踩(0) | <div>喜欢江映蓉的舞曲 有潜力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31149525)<br>耶诞快乐.<br>2014-05-25 01:42<br>赞(0) 踩(0) | <div>小赵薇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2469195)<br>我还没想好要写什么...<br>2014-05-10 01:00<br>赞(0) 踩(0) | <div>实力是有的 就差代表曲</div> |
@@ -181,9 +181,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11686411)<br>呵呵呵<br>2013-05-29 23:54<br>赞(0) 踩(0) | <div>声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248238)<br>我胡汉三又回来了<br>2013-03-27 14:46<br>赞(0) 踩(0) | <div>我觉得是内地少有的歌手。真的很不错。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5880322)<br>发觉自己喜欢的音乐<br>2013-03-23 17:51<br>赞(0) 踩(0) | <div>其实她的发展潜力还是蛮大的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325448)<br><br>2013-03-22 20:10<br>赞(1) 踩(0) | <div>再不给发二专她真的要废了发生秀不错</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325448)<br><br>2013-03-22 20:10<br>赞(1) 踩(0) | <div>再不给发二专她真的要废了<br>发生秀不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10547530)<br>生于白昼，隐与黑夜。<br>2013-03-21 21:39<br>赞(89) 踩(0) | <div>这孩子赶得时候不对——往前错过了芒果台选秀的全盛时期，和她的三位师姐，包括李宇春、周笔畅和张靓颖起步时一个亿的关注度就差了一大截。往后又是海蓝的大热选秀节目——后来居上的吉克隽逸和李莫愁都是太有个人风格的歌手。生存在唱片界这个夹缝中，作为一个半新不旧的歌手很吃亏。因为她已经让人们没有了新鲜感。就算天娱努力捧着，但迄今为止，看得出来，后继乏力。————自然，尚雯婕是个异数。一开始人们当笑话去看她。但她撑过来了，我们就开始用赞叹去看她。因为她有胆量，也有坚持的力量。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21158133)<br><br>2013-12-07 19:08<br>赞(0) 踩(0) | <div>兩個是沒法比的...江映蓉她雖然得了第一名...可惜也不夠郁可唯，劉惜君受歡迎...個人風格太缺乏了...至於尚雯婕~雯雯她家都是厲害人物呀~~~她是復旦大學畢業的高材生...也會獨立唱作，多國語言，創作能力特強！！話說回來~~~這次江映蓉出的這首歌蠻好聽的！！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21158133)<br><br>2013-12-07 19:08<br>赞(0) 踩(0) | <div>兩個是沒法比的...江映蓉她雖然得了第一名...可惜也不夠郁可唯，劉惜君受歡迎...<br>個人風格太缺乏了...至於尚雯婕~雯雯她家都是厲害人物呀~~~<br>她是復旦大學畢業的高材生...也會獨立唱作，多國語言，創作能力特強！！<br>話說回來~~~這次江映蓉出的這首歌蠻好聽的！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43468968)<br>暂无签名~<br>2014-11-16 11:39<br>赞(0) 踩(0) | <div>谢谢夸奖江映蓉</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18444251)<br>左影右书，音乐居其中！<br>2018-04-04 20:19<br>赞(0) 踩(0) | <div>歌手红不红根本没有道理的，凭你大富大贵的后裔，红不了的依然不红。同样是超女，郁可唯怎么解释呢？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/910628)<br>耳东陈<br>2013-02-02 09:37<br>赞(0) 踩(0) | <div>迟到的祝福  生日快乐</div> |

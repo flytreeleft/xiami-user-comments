@@ -45,8 +45,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269499402)<br>谁知道未来和意外哪一个先...<br>2019-12-09 14:36<br>赞(0) 踩(0) | <div>捡起来吧我们昏黄的容颜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43300946)<br>老风筝<br>2018-10-12 11:08<br>赞(0) 踩(0) | <div>来吧看秋水春江，还印着当时的月亮。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202943884)<br><br>2018-03-11 21:50<br>赞(1) 踩(0) | <div>好好听啊！</div> |
@@ -67,7 +67,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18470120)<br><br>2013-12-23 16:00<br>赞(0) 踩(0) | <div>来吧看秋水春江，还应着当时的月亮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11599656)<br><br>2013-12-21 23:21<br>赞(0) 踩(0) | <div>*天空里的风雨飘摇  和不能承受的夕阳  你说这样吧去看海洋  看我们被风吹的模样*    王谦姚兰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23132586)<br><br>2013-12-03 11:05<br>赞(0) 踩(0) | <div>于是相遇了相许了相依着想不起时间</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/784418)<br><br>2013-07-10 00:59<br>赞(1) 踩(0) | <div>这些欢畅的惆怅的悠长的歌唱的岁月这片望不穿的秋水这片城市落下的灰你躲在角落里等谁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/784418)<br><br>2013-07-10 00:59<br>赞(1) 踩(0) | <div>这些欢畅的惆怅的<br>悠长的歌唱的岁月<br>这片望不穿的秋水<br>这片城市落下的灰<br>你躲在角落里等谁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13569797)<br><br>2013-07-03 13:53<br>赞(0) 踩(0) | <div>本想中午睡会儿缓解一下情绪，结果没睡着更不爽了！自我调节一下好么美人儿？好的！有些人说喜欢什么，你不用考虑就知道你也喜欢，多美妙〜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16377415)<br><br>2013-06-26 01:52<br>赞(0) 踩(0) | <div>每当心情烦躁的时候，只要听听老狼的那些歌立马就会安静下来。想起来大学暑假的时候光着膀子在宿舍里练吉他，随便来个什么人就跟着吼两嗓子，弹来弹去就会那几首比较简单的歌，可在同学们眼里我仍然是个艺术家。。。那些没有听过这些经典民谣的年轻人，你们怎么上的大学啊？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3167805)<br><br>2013-06-08 23:37<br>赞(0) 踩(0) | <div>累了来来去去的，不停，别来。</div> |
@@ -78,7 +78,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2045976)<br> <br>2012-12-05 22:13<br>赞(0) 踩(0) | <div>不能承受的梦想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3178168)<br>我还没想好要写什么...<br>2012-12-03 11:54<br>赞(0) 踩(0) | <div>有些歌是听不得的 比如老狼的《歌》 即便在这样阳光灿烂的日子里  一片年轻时落下的叶 落到地面已是昨天 捡起来吧我们昏黄的容颜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3178168)<br>我还没想好要写什么...<br>2012-12-03 11:47<br>赞(0) 踩(0) | <div>有些歌是听不得的 比如老狼的《歌》  一片年轻时落下的叶 落到地面已是昨天 捡起来吧我们昏黄的容颜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3178168)<br>我还没想好要写什么...<br>2012-12-03 11:39<br>赞(0) 踩(0) | <div>一片年轻时落下的叶落到地面已是昨天捡起来吧我们昏黄的容颜</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3178168)<br>我还没想好要写什么...<br>2012-12-03 11:39<br>赞(0) 踩(0) | <div>一片年轻时落下的叶<br>落到地面已是昨天<br>捡起来吧我们昏黄的容颜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3178168)<br>我还没想好要写什么...<br>2012-12-03 11:31<br>赞(0) 踩(0) | <div>一片年轻时落下的叶 落到地面已是昨天 捡起来吧我们昏黄的容颜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9892092)<br><br>2012-11-17 11:52<br>赞(0) 踩(0) | <div>一片年轻时落下的叶，落到地面已是昨天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7384791)<br>.<br>2012-11-10 11:01<br>赞(0) 踩(0) | <div>好听</div> |
@@ -89,19 +89,19 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5073144)<br><br>2012-06-23 10:54<br>赞(0) 踩(0) | <div>一片年轻时落下的叶，落到地面已是昨天，这就是无情的岁月</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1844)<br>农夫 山泉 有点田<br>2012-03-17 17:19<br>赞(0) 踩(0) | <div>你说来吧看秋水春江/还映着当时的月亮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311165)<br><br>2012-02-12 06:48<br>赞(0) 踩(0) | <div>突然想起了这歌，仿佛突然回到了从前。有些歌不能乱听。“捡起来吧我们昏黄的容颜”。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4251919)<br><br>2011-12-28 13:23<br>赞(0) 踩(0) | <div>天空里的风雨飘摇和不能承受的夕阳你说这样吧去看海洋看我们被风吹的模样生命里的风雨飘摇和不能承受的梦想你说来吧看秋水春江还映着当时的月亮</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4251919)<br><br>2011-12-28 13:23<br>赞(0) 踩(0) | <div>天空里的风雨飘摇<br>和不能承受的夕阳<br>你说这样吧去看海洋<br>看我们被风吹的模样<br>生命里的风雨飘摇<br>和不能承受的梦想<br>你说来吧看秋水春江<br>还映着当时的月亮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7345402)<br><br>2011-12-22 16:46<br>赞(0) 踩(0) | <div>岁月如歌，弦动我心。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2122673)<br>配不上野心，也辜负了苦难<br>2011-11-25 14:11<br>赞(0) 踩(0) | <div>这片望不穿的秋水这片城市落下的灰你躲在角落里等谁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2122673)<br>配不上野心，也辜负了苦难<br>2011-11-25 14:11<br>赞(0) 踩(0) | <div>这片望不穿的秋水<br>这片城市落下的灰<br>你躲在角落里等谁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2271147)<br>我还没想好要写什么...<br>2011-10-20 22:53<br>赞(0) 踩(0) | <div>看一篇书评，恰看到那么一句“一片年轻时落下的叶，落到地面地面已是昨天，捡起来吧我们昏黄的容颜”，遂找来这首歌听，忽然有了些触动，那些年少时不经事的轻狂情感之所以不愿再回看，不是因为会疼，只是太过美好……吧。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/644841)<br><br>2011-08-13 17:31<br>赞(0) 踩(0) | <div>天空里的风雨飘摇和不能承受的夕阳你说这样吧去看海洋看我们被风吹的模样生命里的风雨飘摇和不能承受的梦想你说来吧看秋水春江还映着当时的月亮</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/644841)<br><br>2011-08-13 17:31<br>赞(0) 踩(0) | <div>天空里的风雨飘摇<br>和不能承受的夕阳<br>你说这样吧去看海洋<br>看我们被风吹的模样<br>生命里的风雨飘摇<br>和不能承受的梦想<br>你说来吧看秋水春江<br>还映着当时的月亮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3075947)<br><br>2011-06-30 23:27<br>赞(0) 踩(0) | <div>你说来吧看秋水春江，还映着当时的月亮。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3253546)<br>我弹你唱你说我听<br>2011-04-24 23:42<br>赞(0) 踩(0) | <div>想起高中青葱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1025596)<br><br>2011-04-17 11:08<br>赞(0) 踩(0) | <div>思域低唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1133671)<br><br>2011-01-30 09:48<br>赞(0) 踩(0) | <div>心里的声音，是放松而伴随回忆的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1670733)<br><br>2010-10-21 00:40<br>赞(0) 踩(0) | <div>在夜深人静的时候，听着老狼沧桑而还年轻的歌声，心弦被轻轻拨动，多么希望这一刻，有个地方能让我随着歌声轻泣。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/545164)<br>一直在找寻。<br>2010-06-14 15:29<br>赞(0) 踩(0) | <div>一片年轻时落下的叶，落到地面，遗失昨天，捡起来吧，我们昏黄的容颜。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/545164)<br>一直在找寻。<br>2010-06-14 15:29<br>赞(0) 踩(0) | <div>一片年轻时落下的叶，<br>落到地面，遗失昨天，<br>捡起来吧，<br>我们昏黄的容颜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/928512)<br><br>2010-05-30 12:28<br>赞(0) 踩(0) | <div>曲好，词好，唱得好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120)<br>椒盐排条<br>2010-04-25 18:41<br>赞(0) 踩(0) | <div>马蹄留下踏残的落花在南国小小的山径歌人留下破碎的琴韵在北方幽幽的寺院——痖弦《秋歌—给暖暖》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/120)<br>椒盐排条<br>2010-04-25 18:41<br>赞(0) 踩(0) | <div>马蹄留下踏残的落花<br>在南国小小的山径<br>歌人留下破碎的琴韵<br>在北方幽幽的寺院<br>——痖弦《秋歌—给暖暖》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/545164)<br>一直在找寻。<br>2010-03-22 21:08<br>赞(1) 踩(0) | <div>时间蔓延，容颜苍衰，已逝的过往，在夕阳下昏黄。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2009-03-19 13:55<br>赞(0) 踩(0) | <div>历历在目的是去年寒假回家，刚到医院的时候见到那张苍老的脸的时候，心中的难过。那天冷雨倾盆，走出医院大门的我再也压抑不住地大声哭泣。有一天我也会变老，眼前的岁月，也总有一天会过去。只希望那么多年以后还能记得这些“秋水春江”，这些“当时的月亮”。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70573)<br><br>2009-03-07 22:37<br>赞(0) 踩(0) | <div>那些消失的年少时光...</div> |

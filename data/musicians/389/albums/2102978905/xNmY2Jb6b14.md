@@ -69,8 +69,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15739680)<br><br>2017-12-29 20:11<br>赞(1) 踩(0) | <div>唉～所以我不太喜欢听现场，嗓音毕竟有变化，而且也无修饰，还有音响设备的效果问题，品冠唱快歌本来就不太适合～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1747801)<br><br>2017-12-28 09:44<br>赞(1) 踩(0) | <div>我品的live嗓音已经这样了啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260365079)<br><br>2018-02-05 01:53<br>赞(0) 踩(0) | <div>老了啊</div> |

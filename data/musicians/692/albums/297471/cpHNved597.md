@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407599685)<br><br>2020-09-22 15:24<br>赞(0) 踩(0) | <div>最喜欢的战斗音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1327785)<br>料峭春風吹酒醒<br>2011-04-04 17:17<br>赞(0) 踩(0) | <div>《幻想三国志3》</div> |

@@ -52,5 +52,3 @@ You should really have to look very hard
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

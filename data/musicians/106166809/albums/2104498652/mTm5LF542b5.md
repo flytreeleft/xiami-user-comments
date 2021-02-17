@@ -70,8 +70,8 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328657369)<br>风格随心而变、<br>2020-10-16 21:38<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411042701)<br><br>2020-08-28 22:41<br>赞(1) 踩(0) | <div>噜啦啦噜啦啦噜啦啦噜啦啦噜啦啦噜啦啦噜啦啦噜啦啦噜啦啦噜啦啦噜啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439377703)<br>浮生若夢 為歡幾何<br>2020-08-01 13:01<br>赞(0) 踩(0) | <div>好听</div> |
@@ -85,7 +85,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343391112)<br><br>2020-01-21 06:08<br>赞(1) 踩(0) | <div>四海好大，欢迎回家！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282740794)<br>爱出者爱返，福往者福来<br>2019-12-28 22:53<br>赞(3) 踩(0) | <div>不知不觉快一年了，2020万事胜意</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357920667)<br><br>2019-12-17 05:57<br>赞(1) 踩(0) | <div>four oceans..nice song</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432474341)<br>想去看林丹的比赛。<br>2019-11-24 14:05<br>赞(3) 踩(0) | <div>很多年没有跟家人完整的过年了。嗯，因为他们离婚。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432474341)<br>想去看林丹的比赛。<br>2019-11-24 14:05<br>赞(3) 踩(0) | <div>很多年没有跟家人完整的过年了。<br>嗯，因为他们离婚。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10370375)<br>我还没想好要写什么...<br>2019-09-03 13:49<br>赞(3) 踩(0) | <div>世界这么大，变化这么快，我站在窗前一天一天又一天，却想不明白自己想要什么。我想狂奔，身边却这么多牵绊，我想慢下来，又心不甘。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100626088)<br>人生苦短，及时行乐。<br>2019-08-17 21:56<br>赞(0) 踩(0) | <div>四海好大，欢迎回家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351689909)<br>好好听歌.随便躺<br>2019-08-09 11:19<br>赞(1) 踩(0) | <div>差一步就跑向了万物生.退回来又怕不高级.又怕不脍炙人口.渐渐迷失在了走马.神奇的能量歌里</div> |
@@ -132,7 +132,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301920500)<br>先 撩 者 賤<br>2019-02-17 10:33<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375424432)<br>就是喜歡聽<br>2019-02-17 08:34<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376926684)<br>沈迷  沈迷音樂   沈...<br>2019-02-17 08:20<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88316416)<br>孤独成瘾，高傲伤人<br>2019-02-17 06:52<br>赞(7) 踩(0) | <div>我对你感觉就是就算我们很久不聊天 不说话或者之间没有了任何联系我还是觉得你是我非常重要的人有些东西只想给你有些温柔的事情只想和你做就算你不要 我也不想给别人 ❤</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88316416)<br>孤独成瘾，高傲伤人<br>2019-02-17 06:52<br>赞(7) 踩(0) | <div>我对你感觉就是<br>就算我们很久不聊天 不说话<br>或者之间没有了任何联系<br>我还是觉得你是我非常重要的人<br>有些东西只想给你<br>有些温柔的事情只想和你做<br>就算你不要 我也不想给别人 ❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313264088)<br><br>2019-02-17 01:14<br>赞(1) 踩(0) | <div>zz</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419331919)<br><br>2019-02-17 00:51<br>赞(1) 踩(0) | <div>粒姐威武</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347291498)<br><br>2019-02-16 00:13<br>赞(1) 踩(0) | <div>歌不错。封面上↑的支付宝集五福是啥 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">，瞬间抓住我目光。</div> |
@@ -148,7 +148,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359837136)<br><br>2019-02-12 05:48<br>赞(2) 踩(0) | <div>回家的路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407443799)<br><br>2019-02-11 13:41<br>赞(2) 踩(0) | <div>世界好大，有时我也怕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324500524)<br><br>2019-02-10 23:48<br>赞(1) 踩(0) | <div>四海好大，千里之外很害怕</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401234094)<br>找一首适合恋爱的歌，找一...<br>2019-02-10 19:08<br>赞(1) 踩(0) | <div>四海之内有你，有家四海之外，荒无人烟</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401234094)<br>找一首适合恋爱的歌，找一...<br>2019-02-10 19:08<br>赞(1) 踩(0) | <div>四海之内有你，有家<br>四海之外，荒无人烟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343854256)<br>伊人醉何再<br>2019-02-10 15:41<br>赞(2) 踩(0) | <div>111</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45581572)<br> <br>2019-02-10 13:59<br>赞(2) 踩(0) | <div>再也没有见过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15681426)<br> <br>2019-02-10 13:17<br>赞(2) 踩(0) | <div>不怕 回家的路 永远在那。</div> |
@@ -160,7 +160,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334652229)<br> <br>2019-02-08 18:42<br>赞(3) 踩(0) | <div>好清澈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31548975)<br><br>2019-02-08 07:30<br>赞(3) 踩(0) | <div>粉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413204270)<br><br>2019-02-07 12:07<br>赞(4) 踩(0) | <div>真好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349449963)<br><br>2019-02-07 10:47<br>赞(6) 踩(0) | <div>世界这么大，我总在路上四海皆为家，何不去看看</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349449963)<br><br>2019-02-07 10:47<br>赞(6) 踩(0) | <div>世界这么大，我总在路上<br>四海皆为家，何不去看看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289320641)<br><br>2019-02-07 01:01<br>赞(4) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403834396)<br><br>2019-02-06 11:12<br>赞(4) 踩(0) | <div>额呃呃呃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248372042)<br>Robin Zhao<br>2019-02-06 08:51<br>赞(4) 踩(0) | <div>好听的歌曲！[文字cool]</div> |
@@ -173,20 +173,20 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414488094)<br>來自肇慶<br>2019-02-04 00:10<br>赞(3) 踩(0) | <div>淡淡的傷感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30296389)<br>给我一发<br>2019-02-04 00:04<br>赞(3) 踩(0) | <div>mission</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412565249)<br><br>2019-02-03 22:11<br>赞(3) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414886331)<br><br>2019-02-03 12:06<br>赞(11) 踩(0) | <div>我以为天大地大，四海皆可为家。后来真的四海为家了，才发现家成了天涯。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414886331)<br><br>2019-02-03 12:06<br>赞(11) 踩(0) | <div>我以为天大地大，四海皆可为家。<br>后来真的四海为家了，才发现家成了天涯。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140107322)<br>第一次真正意义上的后悔。...<br>2019-02-03 11:30<br>赞(3) 踩(0) | <div>觉得不好听可以不听吧～这存在感刷的真尴尬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355933285)<br>羽<br>2019-02-03 02:46<br>赞(4) 踩(0) | <div>真他妈的难听啊。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355933285)<br>羽<br>2019-02-03 02:42<br>赞(3) 踩(0) | <div>这歌真他妈难听！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416356082)<br>自己是个蹦迪选手，就别怪...<br>2019-02-03 00:47<br>赞(2) 踩(0) | <div>支付宝好评！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210068359)<br>电影人，摄影师，艺术家，...<br>2019-02-02 20:15<br>赞(6) 踩(0) | <div>等着我吧，我会回来的,只是你要苦苦地等待，&nbsp;等到愁煞人的阴雨，&nbsp;勾起你的忧伤满怀，&nbsp;等到那大雪纷飞，&nbsp;等到那酷暑难挨，&nbsp;等到别人不再把亲人盼望，&nbsp;往昔的一切，一古脑儿抛开。&nbsp;等到那遥远的他乡，&nbsp;不再有家书传来，&nbsp;等到一起等待的人，&nbsp;心灰意懒，都已倦怠。&nbsp;等着我吧，我会回来的：&nbsp;死神一次次被我挫败！&nbsp;就让那不曾等待我的人，&nbsp;说我侥幸，感到意外！&nbsp;那没有等下去的人不会理解&nbsp;亏了你的苦苦等待，&nbsp;在炮火连天的战场上，&nbsp;从死神手中，是你把我拯救出来。&nbsp;我是怎样死里逃生的，&nbsp;只有你和我两个人明白&nbsp;只因为同别人不一样，&nbsp;你善于苦苦地等待。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210068359)<br>电影人，摄影师，艺术家，...<br>2019-02-02 20:15<br>赞(6) 踩(0) | <div>等着我吧，我会回来的,只是你要苦苦地等待，&nbsp;<br>等到愁煞人的阴雨，&nbsp;<br>勾起你的忧伤满怀，&nbsp;<br>等到那大雪纷飞，&nbsp;<br>等到那酷暑难挨，&nbsp;<br>等到别人不再把亲人盼望，&nbsp;<br>往昔的一切，一古脑儿抛开。&nbsp;<br>等到那遥远的他乡，&nbsp;<br>不再有家书传来，&nbsp;<br>等到一起等待的人，&nbsp;<br>心灰意懒，都已倦怠。&nbsp;<br><br>等着我吧，我会回来的：&nbsp;<br>死神一次次被我挫败！&nbsp;<br>就让那不曾等待我的人，&nbsp;<br>说我侥幸，感到意外！&nbsp;<br>那没有等下去的人不会理解&nbsp;<br>亏了你的苦苦等待，&nbsp;<br>在炮火连天的战场上，&nbsp;<br>从死神手中，是你把我拯救出来。&nbsp;<br>我是怎样死里逃生的，&nbsp;<br>只有你和我两个人明白&nbsp;<br>只因为同别人不一样，&nbsp;<br>你善于苦苦地等待。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317969696)<br><br>2019-02-01 21:56<br>赞(1) 踩(0) | <div>哥哥[带墨镜笑]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319805606)<br><br>2019-02-01 10:42<br>赞(2) 踩(0) | <div>湿润加多了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270438310)<br><br>2019-02-01 10:32<br>赞(1) 踩(0) | <div>年头年尾虽然՞袋՞幸好小幸福1⃣֟直֟都在 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">不进步的表现麽哈哈(ಡωಡ)hiahiahia</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270438310)<br><br>2019-02-01 10:32<br>赞(1) 踩(0) | <div>年头年尾虽然՞袋՞<br>幸好小幸福1⃣֟直֟都在 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">不进步的表现麽哈哈(ಡωಡ)hiahiahia</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411391004)<br><br>2019-02-01 07:35<br>赞(1) 踩(0) | <div>做为一个高三党，可以回家几天特别开心，听到这首歌感觉充满了活力 希望自己可以充分利用这几天好好和家人一起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15354137)<br><br>2019-01-31 21:33<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"> <img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png"> <img src="../../../../images/comments/5d99f111b32760b0db6b7977f5e89f94.png">烦躁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328168822)<br><br>2019-01-31 20:35<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414813293)<br><br>2019-01-31 19:27<br>赞(2) 踩(0) | <div>支付宝集五福</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404491006)<br><br>2019-01-31 13:39<br>赞(2) 踩(0) | <div>灯火在迷感我仿佛我不曾住在亮着灯火的某个窗子里我变成了小飞虫从16岁或8岁的窗子飞出去去罗丹家那个方向的一朵上草甸小坡有草有树有小区房不到眠山一点旁边是罗丹家的窗子有灯火我飞进去是厨房水池碗格飞出来绕进旁边的窗子是小卧室婴儿床我要去婴儿床枕头上踩踩脚再飞到他们看不见的蚊帐的有皱褶的角落有人进来了是大人是爸爸吧他来拿东西还是来看小婴儿?</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404491006)<br><br>2019-01-31 13:39<br>赞(2) 踩(0) | <div>灯火在迷感我<br>仿佛我不曾住在亮着灯火的某个窗子里<br><br>我变成了小飞虫<br>从16岁或8岁的窗子飞出去<br><br>去罗丹家那个方向的一朵上<br>草甸小坡<br>有草有树有小区房<br>不到眠山一点<br><br>旁边是罗丹家的窗子有灯火<br>我飞进去<br>是厨房水池碗格<br><br>飞出来绕进旁边的窗子<br>是小卧室<br>婴儿床<br><br>我要去婴儿床枕头上踩踩脚<br>再飞到他们看不见的蚊帐的有皱褶的角落<br><br>有人进来了<br>是大人<br>是爸爸吧<br>他来拿东西还是来看小婴儿?</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306579892)<br>我还没想好要写什么......<br>2019-01-31 12:35<br>赞(2) 踩(0) | <div>完成任务</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86623416)<br>每首歌代表着当时心情<br>2019-01-31 11:12<br>赞(2) 踩(0) | <div>民谣混唱法 喜欢流行乐的人可能有些接受不了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48680308)<br><br>2019-01-31 10:28<br>赞(3) 踩(0) | <div>马上就要过年了，由于时间安排紧张，不能回家陪家人过年了，第一次深深地感觉到了世界的庞大与自己的渺小，五湖 四海也好，世界也罢，有家人的陪伴才算好，有家人在身边就是家</div> |
@@ -199,14 +199,14 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414581783)<br><br>2019-01-30 20:15<br>赞(3) 踩(0) | <div>五福四海可还行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27478434)<br><br>2019-01-30 19:56<br>赞(2) 踩(0) | <div>来啦家里H5里给就</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20850072)<br><br>2019-01-30 19:53<br>赞(1) 踩(0) | <div>更新了不会了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194863127)<br><br>2019-01-30 19:09<br>赞(0) 踩(0) | <div>四海好大欢迎回家</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194863127)<br><br>2019-01-30 19:09<br>赞(0) 踩(0) | <div>四海好大<br>欢迎回家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8794776)<br>换头像了。太太给画的…<br>2019-01-30 17:08<br>赞(2) 踩(0) | <div>听到白雪皑皑我以为有人按我家门铃…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405971900)<br>晒出自我<br>2019-01-30 15:21<br>赞(2) 踩(0) | <div>难听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413995353)<br><br>2019-01-30 13:53<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43892276)<br>18岁的姑娘<br>2019-01-30 13:32<br>赞(1) 踩(0) | <div>还是乡里乡亲好呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43892276)<br>18岁的姑娘<br>2019-01-30 13:32<br>赞(1) 踩(0) | <div>好听呀，陈粒好像参加过我是歌手吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95135702)<br>我还没想好要写什么...<br>2019-01-30 13:09<br>赞(1) 踩(0) | <div>怎么做任务？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174654916)<br> 没曾想过遇见你<br>2019-01-30 01:02<br>赞(3) 踩(0) | <div>四海八荒，家不在的地方都叫做远方。四海好大，我要回家。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174654916)<br> 没曾想过遇见你<br>2019-01-30 01:02<br>赞(3) 踩(0) | <div>四海八荒，家不在的地方都叫做远方。<br>四海好大，我要回家。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345713643)<br><br>2019-01-29 21:48<br>赞(0) 踩(0) | <div>欢迎回家~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345713643)<br><br>2019-01-29 21:47<br>赞(3) 踩(0) | <div>世界好大，有时我也怕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409930235)<br><br>2019-01-29 20:10<br>赞(2) 踩(0) | <div>祝大家全家幸福  健康   暴富</div> |
@@ -231,7 +231,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338712918)<br> <br>2019-01-28 22:15<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340457424)<br><br>2019-01-28 21:52<br>赞(9) 踩(0) | <div>有家的地方安置不了肉身，有钱的地方安置不了灵魂 <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91769172)<br><br>2019-01-28 21:32<br>赞(1) 踩(0) | <div>什么鬼，前面听不见人声音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330768182)<br>不如一起去看星星吧<br>2019-01-28 19:48<br>赞(2) 踩(0) | <div>支付宝五福今天集齐啦，没怎么费力气。上次的集五福活动记得是我们几个晚辈一起，这次，我的小伙伴们还没回来。希望身边的朋友们平安喜乐，好好的 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330768182)<br>不如一起去看星星吧<br>2019-01-28 19:48<br>赞(2) 踩(0) | <div>支付宝五福今天集齐啦，没怎么费力气。<br>上次的集五福活动记得是我们几个晚辈一起，这次，我的小伙伴们还没回来。<br>希望身边的朋友们平安喜乐，好好的 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279842573)<br>有光兮，其四方……谁还不...<br>2019-01-28 15:34<br>赞(2) 踩(0) | <div>外面不知道是谁在吹笛子，大过年的，吹什么不好，吹得那么凄清是怎么回事呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306579892)<br>我还没想好要写什么......<br>2019-01-28 15:18<br>赞(1) 踩(0) | <div>打卡完成任务</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306112662)<br> <br>2019-01-28 10:53<br>赞(2) 踩(0) | <div>异国他乡2年多了，冷暖自知！明年一定回家！</div> |
@@ -240,7 +240,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412646956)<br><br>2019-01-28 00:37<br>赞(1) 踩(0) | <div>今天最没价值的事情就是为了抖音西安网红喷子奋斗了一天，心累，以后不能这样了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337004823)<br>音乐能让我看见每个人的灵...<br>2019-01-27 18:52<br>赞(3) 踩(0) | <div>成长路上会有孤独，因为世界很大人很多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374058306)<br><br>2019-01-27 18:15<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350473648)<br><br>2019-01-27 16:42<br>赞(16) 踩(0) | <div>今年32岁，已离家在外打拼12年了。但从没因为什么原因而放弃回家过年。回家过年已然成为一种"信仰"。唯独今年，带领一群异乡人为了祖国的援建项目，驻守非洲。快过年了，空出来的地方，都是异乡。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350473648)<br><br>2019-01-27 16:42<br>赞(16) 踩(0) | <div>今年32岁，已离家在外打拼12年了。但从没因为什么原因而放弃回家过年。回家过年已然成为一种"信仰"。唯独今年，带领一群异乡人为了祖国的援建项目，驻守非洲。<br>快过年了，空出来的地方，都是异乡。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346000082)<br><br>2019-01-28 03:44<br>赞(0) 踩(0) | <div>非洲乌干达</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338156468)<br><br>2019-01-28 21:13<br>赞(0) 踩(0) | <div><q><b>啊清格说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/167083026)<br> To be fearl...<br>2019-01-27 12:45<br>赞(3) 踩(0) | <div>回家</div> |
@@ -249,7 +249,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203034605)<br><br>2019-01-30 13:18<br>赞(0) 踩(0) | <div>瞎了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413410566)<br><br>2019-01-27 10:22<br>赞(2) 踩(0) | <div>陈粒老师我来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104266322)<br>☆不任花悲花落，我依然如...<br>2019-01-27 10:13<br>赞(3) 踩(0) | <div>为什么我觉得不好听，调子不顺呢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412870067)<br>我还没想好要写什么...<br>2019-01-27 10:11<br>赞(1) 踩(0) | <div>可今年因为考试周的时间安排不能回国陪家人过年了，第一次深深地感觉到了世界的庞大与自己的渺小，要坐十几个小时的飞机才能回到家，要克服好几个小时的时差才能和家里人通个视频聊个天，要习惯并且克服与自己国家截然不同的气候四海也好，世界也罢，有家人的陪伴才算好，有家人在身边就是家</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412870067)<br>我还没想好要写什么...<br>2019-01-27 10:11<br>赞(1) 踩(0) | <div>可今年因为考试周的时间安排不能回国陪家人过年了，第一次深深地感觉到了世界的庞大与自己的渺小，要坐十几个小时的飞机才能回到家，要克服好几个小时的时差才能和家里人通个视频聊个天，要习惯并且克服与自己国家截然不同的气候<br><br>四海也好，世界也罢，有家人的陪伴才算好，有家人在身边就是家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412870067)<br>我还没想好要写什么...<br>2019-01-27 10:04<br>赞(1) 踩(0) | <div>大学的时候，谈了班里一个男孩，可我却很多时间都花在复习上，只有广州发货的那家才真正让我的视力下绛来。而现在寒假了，我也回去老家了，我们的感情也一直好好的不会淡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413080027)<br><br>2019-01-27 09:54<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1263750)<br>Nothing for ...<br>2019-01-27 09:51<br>赞(0) 踩(0) | <div>️</div> |
@@ -269,11 +269,11 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174510480)<br>愿此间山有木兮卿有意 昨...<br>2019-01-26 14:34<br>赞(1) 踩(0) | <div>你最近好吗 我们都别说谎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174510480)<br>愿此间山有木兮卿有意 昨...<br>2019-01-26 14:34<br>赞(1) 踩(0) | <div>" 这个世界上有六十几亿人口 但某个瞬间 只有这一个人 就能敌得过千军万马 四海潮生 "</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174510480)<br>愿此间山有木兮卿有意 昨...<br>2019-01-26 14:34<br>赞(1) 踩(0) | <div>没有一种感情比亲情更浓烈 没有一种温暖比得上过年回家</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174510480)<br>愿此间山有木兮卿有意 昨...<br>2019-01-26 14:34<br>赞(1) 踩(0) | <div>从此以后此后你向南我往北山水不相逢四海皆无你 ​​​​</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174510480)<br>愿此间山有木兮卿有意 昨...<br>2019-01-26 14:33<br>赞(1) 踩(0) | <div>我以为天大地大，四海皆可为家。后来真的四海为家了，才发现家成了天涯。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174510480)<br>愿此间山有木兮卿有意 昨...<br>2019-01-26 14:34<br>赞(1) 踩(0) | <div>从此以后此后<br>你向南我往北<br>山水不相逢<br>四海皆无你 ​​​​</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174510480)<br>愿此间山有木兮卿有意 昨...<br>2019-01-26 14:33<br>赞(1) 踩(0) | <div>我以为天大地大，四海皆可为家。<br>后来真的四海为家了，才发现家成了天涯。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174510480)<br>愿此间山有木兮卿有意 昨...<br>2019-01-26 14:33<br>赞(1) 踩(0) | <div>四海好大，有时我也怕，怕自己丢了初心，怕自己沦陷于情感，怕自己心如死灰，不再勇往直前，最怕的就是所有人的离开。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319470655)<br><br>2019-01-26 14:21<br>赞(0) 踩(0) | <div>为999+助力 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413159963)<br><br>2019-01-26 12:05<br>赞(4) 踩(0) | <div>愿四海为家，与你浪迹天涯做朋友也很好爱人未满</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413159963)<br><br>2019-01-26 12:05<br>赞(4) 踩(0) | <div>愿四海为家，与你浪迹天涯<br>做朋友也很好<br>爱人未满</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297381378)<br>今日默书，方恨千卷诗书未...<br>2019-01-26 11:41<br>赞(1) 踩(0) | <div>999+</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54829508)<br>这个美少女很聪明什么也没...<br>2019-01-26 11:18<br>赞(1) 踩(0) | <div>1118</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412870067)<br>我还没想好要写什么...<br>2019-01-26 10:14<br>赞(2) 踩(0) | <div>高三喜欢了一整年一个高二男生，期间陪他熬夜复习，高考，知道他眼睛越来越模糊，就在tao宝上买来广州发的货那家 茗品志茶 ，才得到好转不少，可还没毕业就来一句不做情人做兄弟就结束了一年多的感情，最后毕业两人竟然都哭了</div> |
@@ -348,7 +348,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282779225)<br><br>2019-01-23 12:21<br>赞(0) 踩(0) | <div>熟悉的嗓音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412781600)<br><br>2019-01-23 11:53<br>赞(0) 踩(0) | <div>不错哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6444745)<br><br>2019-01-23 11:52<br>赞(0) 踩(0) | <div>任务</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252055690)<br>啦啦啦啦<br>2019-01-23 11:50<br>赞(1) 踩(0) | <div>四海之大 欢迎回家四海好大 有时我也怕我爱小陈 小陈爱我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252055690)<br>啦啦啦啦<br>2019-01-23 11:50<br>赞(1) 踩(0) | <div>四海之大 欢迎回家<br>四海好大 有时我也怕<br>我爱小陈 小陈爱我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407820470)<br><br>2019-01-23 11:29<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340319555)<br><br>2019-01-23 11:21<br>赞(1) 踩(0) | <div>四海为家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400540258)<br>Hi<br>2019-01-23 10:55<br>赞(0) 踩(0) | <div>好</div> |
@@ -396,7 +396,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374090979)<br><br>2019-01-23 00:11<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324563310)<br>俺是农村人脾气有点大<br>2019-01-23 00:08<br>赞(3) 踩(0) | <div>666666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9250329)<br>1359268<br>2019-01-23 00:01<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86931566)<br>Don't worry ...<br>2019-01-22 23:59<br>赞(1) 踩(0) | <div>“四海好大 你还好吗四海好大 欢迎回家”为我粒粒疯狂打电话</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86931566)<br>Don't worry ...<br>2019-01-22 23:59<br>赞(1) 踩(0) | <div>“四海好大 你还好吗<br>四海好大 欢迎回家”<br><br>为我粒粒疯狂打电话</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257612668)<br><br>2019-01-22 23:58<br>赞(1) 踩(0) | <div>^O^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406696231)<br><br>2019-01-22 23:57<br>赞(1) 踩(0) | <div>，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142143546)<br>加油，努力，向未来。<br>2019-01-22 23:55<br>赞(2) 踩(0) | <div>四海为家知德盛</div> |
@@ -420,7 +420,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345032094)<br><br>2019-01-22 22:25<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411342232)<br>圣教凌度混血吖<br>2019-01-22 22:22<br>赞(0) 踩(0) | <div>不明不白的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251528535)<br>不鸣而已、一鸣惊人.<br>2019-01-22 22:13<br>赞(1) 踩(0) | <div>感恩。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242222624)<br>#宝贝加油# 放下了就是...<br>2019-01-22 22:08<br>赞(1) 踩(0) | <div>年轻时我们渴望离开，年老时我们希望归来，最后知道，家才是最终的归宿；梅守思&nbsp;     《年轻着，伤感着》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/242222624)<br>#宝贝加油# 放下了就是...<br>2019-01-22 22:08<br>赞(1) 踩(0) | <div>年轻时我们渴望离开，年老时我们希望归来，最后知道，家才是最终的归宿；<br>梅守思&nbsp;     《年轻着，伤感着》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47164474)<br><br>2019-01-22 22:05<br>赞(1) 踩(0) | <div>听不出好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287258223)<br>我还没想好要写什么...<br>2019-01-22 22:01<br>赞(0) 踩(0) | <div>❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405023624)<br><br>2019-01-22 22:01<br>赞(0) 踩(0) | <div>好聽</div> |
@@ -445,7 +445,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406603616)<br>缺点钱<br>2019-01-22 20:40<br>赞(1) 踩(0) | <div>说话</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334440982)<br>래일만 상상하지믄<br>2019-01-22 20:21<br>赞(1) 踩(0) | <div>4</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342843306)<br>微笑向晚，携手共阑珊<br>2019-01-22 20:19<br>赞(0) 踩(0) | <div>初听有种王菲的味道~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366999257)<br>欢迎大家互相搜索支付宝红...<br>2019-01-22 20:09<br>赞(0) 踩(0) | <div>四海之内皆兄弟(⑉°з°)-♡打开支付宝首页搜532290813领红包！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366999257)<br>欢迎大家互相搜索支付宝红...<br>2019-01-22 20:09<br>赞(0) 踩(0) | <div>四海之内皆兄弟(⑉°з°)-♡打开支付宝首页搜<br>532290813<br>领红包！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408300959)<br><br>2019-01-22 20:02<br>赞(1) 踩(0) | <div>还不用</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43071022)<br>p.e.a.c.e.<br>2019-01-22 19:58<br>赞(1) 踩(0) | <div>伪前排</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409845857)<br>用心听，用心看，用心爱，...<br>2019-01-22 19:57<br>赞(1) 踩(0) | <div>。。。。。。</div> |
@@ -476,7 +476,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256267875)<br><br>2019-01-22 15:47<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257957477)<br>用虾米，一生虾米<br>2019-01-22 15:40<br>赞(2) 踩(0) | <div>集合一下，看看从现在起，会有多少人看完电影来听歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377092316)<br><br>2019-01-22 15:34<br>赞(1) 踩(0) | <div>⌚</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331104793)<br>   谢谢。<br>2019-01-22 14:58<br>赞(14) 踩(0) | <div>我来了 来聆听你的歌声'好听 加油加油！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331104793)<br>   谢谢。<br>2019-01-22 14:58<br>赞(14) 踩(0) | <div>我来了 来聆听你的歌声'<br>好听 加油加油！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330281327)<br><br>2019-01-22 14:54<br>赞(4) 踩(0) | <div>五湖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411220233)<br><br>2019-01-22 14:43<br>赞(1) 踩(0) | <div>过几天要回家了，终于可以放松一下了，听到这首歌，正好适合现在的心情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268186402)<br>音乐是最好的朋友<br>2019-01-22 14:39<br>赞(2) 踩(0) | <div>一念之差，四海为家 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
@@ -495,7 +495,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335359714)<br><br>2019-01-22 12:16<br>赞(1) 踩(0) | <div>集五福要开始了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402370340)<br><br>2019-01-22 12:04<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409893027)<br><br>2019-01-22 12:03<br>赞(1) 踩(0) | <div>[带墨镜笑][带墨镜笑][带墨镜笑]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17582426)<br>命中注定 命里有S✈️<br>2019-01-22 12:03<br>赞(1) 踩(0) | <div>世界再大，也要回家。后天妈妈生日，长这么大从来没有陪妈妈过一个生日，实乃惭愧。现在，马上定好机票，再忙也要回家祝寿。因为这个世界上最重要的人就是父母！❤️</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17582426)<br>命中注定 命里有S✈️<br>2019-01-22 12:03<br>赞(1) 踩(0) | <div>世界再大，也要回家。<br>后天妈妈生日，长这么大从来没有陪妈妈过一个生日，实乃惭愧。<br>现在，马上定好机票，再忙也要回家祝寿。<br>因为这个世界上最重要的人就是父母！<br>❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411941566)<br><br>2019-01-22 11:54<br>赞(1) 踩(0) | <div>纳尼！支付宝？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302422764)<br><br>2019-01-22 11:39<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359897617)<br>我还没想好要写什么...<br>2019-01-22 11:35<br>赞(1) 踩(0) | <div>Very nice</div> |
@@ -579,7 +579,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360538553)<br>飄浮人間一片雲<br>2019-01-21 23:06<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15966609)<br> <br>2019-01-21 23:06<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409700884)<br><br>2019-01-21 23:05<br>赞(0) 踩(0) | <div>很好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7036044)<br>温净岁月，冷暖自知。<br>2019-01-21 23:03<br>赞(10) 踩(0) | <div>许鞍华+春夏 金士杰+陈粒，看起来不怎么搭的组合在9分29秒的广告片里让我鸡皮疙瘩两次…一次是开头配乐一出，许鞍华细腻又克制的镜头；一次是结尾陈粒的嗓音一出。“福在哪儿，家在哪儿”不得不说支付宝这波操作赞✧(≖ ◡ ≖✿)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7036044)<br>温净岁月，冷暖自知。<br>2019-01-21 23:03<br>赞(10) 踩(0) | <div>许鞍华+春夏 金士杰+陈粒，看起来不怎么搭的组合在9分29秒的广告片里让我鸡皮疙瘩两次…<br>一次是开头配乐一出，许鞍华细腻又克制的镜头；一次是结尾陈粒的嗓音一出。<br>“福在哪儿，家在哪儿”不得不说支付宝这波操作赞✧(≖ ◡ ≖✿)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380349871)<br><br>2019-01-21 22:57<br>赞(1) 踩(0) | <div>有种似曾相识的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401727192)<br> <br>2019-01-21 22:57<br>赞(1) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411388381)<br>无所事事的双鱼座<br>2019-01-21 22:49<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -644,7 +644,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352168532)<br><br>2019-01-21 18:06<br>赞(2) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407519112)<br>享受虾米，听自己喜欢的歌...<br>2019-01-21 18:00<br>赞(1) 踩(0) | <div>有广告味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377338262)<br>机会缺了解<br>2019-01-21 17:57<br>赞(1) 踩(0) | <div>声音太弱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412695987)<br><br>2019-01-21 17:49<br>赞(3) 踩(0) | <div>世界这么大，我想去看看 <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png">世界这么大，我想去看看 <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412695987)<br><br>2019-01-21 17:49<br>赞(3) 踩(0) | <div>世界这么大，我想去看看 <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"><br>世界这么大，我想去看看 <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409483906)<br><br>2019-01-21 17:48<br>赞(1) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60780784)<br>你好，我是来自这个地球的...<br>2019-01-21 17:45<br>赞(2) 踩(0) | <div>我们一家有四口人，四个人在四个城市工作。相聚的时间少又短。这次好不容易四个人相聚了。周末加上请了一天总共四天。还没来得及好好吃两顿饭。今天又踏上上班的路。大巴车上总共三个人，空空的座位。听着这首歌，喉咙痛。卡着咽不下去的口水。好难过。希望每个家庭都能相聚圆满。给远在家乡的爸妈多打两个电话问候吧！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348368493)<br>我所喜欢的<br>2019-01-21 17:44<br>赞(2) 踩(0) | <div>踏出的脚步即是四海，回行的港湾亦是吾家</div> |
@@ -674,7 +674,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193727215)<br>Halyang Drea...<br>2019-01-21 12:24<br>赞(0) 踩(0) | <div>福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409781229)<br>宁静致远<br>2019-01-21 12:22<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412234997)<br>我还没想好要写什么...<br>2019-01-21 12:22<br>赞(0) 踩(0) | <div>1</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318878777)<br>麻烦大家帮忙找找孩子<br>2019-01-21 12:10<br>赞(0) 踩(0) | <div>麻烦大家帮忙转发一下  不知道现在孩子到底在哪个城市  但是多一次转发  孩子就多一分回家的希望同事的孩子被人贩子拐了，麻烦火车站、汽车站附近的朋友帮忙留意下，孩子两岁半，下午在垫江走失，有消息说已经被带到重庆了，在重庆轻轨3号线上看到过，头像是孩子照片  联系人：19923398781</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318878777)<br>麻烦大家帮忙找找孩子<br>2019-01-21 12:10<br>赞(0) 踩(0) | <div>麻烦大家帮忙转发一下  不知道现在孩子到底在哪个城市  但是多一次转发  孩子就多一分回家的希望<br>同事的孩子被人贩子拐了，麻烦火车站、汽车站附近的朋友帮忙留意下，孩子两岁半，下午在垫江走失，有消息说已经被带到重庆了，在重庆轻轨3号线上看到过，头像是孩子照片  联系人：19923398781</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410575641)<br>不要在乎别人的……。＾＾<br>2019-01-21 11:48<br>赞(0) 踩(0) | <div>很……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333022552)<br>音乐能治愈一切！<br>2019-01-21 11:14<br>赞(0) 踩(0) | <div>小清新版</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197066109)<br><br>2019-01-21 11:12<br>赞(0) 踩(0) | <div>好听</div> |
@@ -702,7 +702,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406501484)<br>郎艳独绝，世无其二<br>2019-01-21 09:12<br>赞(1) 踩(0) | <div>把vv</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109759604)<br>The game is ...<br>2019-01-21 09:10<br>赞(2) 踩(0) | <div>温暖的旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32031632)<br><br>2019-01-21 09:08<br>赞(1) 踩(0) | <div>顶起来！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410547290)<br>勿忘初心砥砺前行<br>2019-01-21 09:06<br>赞(0) 踩(0) | <div>四海为家有山看水</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410547290)<br>勿忘初心砥砺前行<br>2019-01-21 09:06<br>赞(0) 踩(0) | <div>四海为家<br>有山看水</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61218084)<br>Myyy音樂!!!<br>2019-01-21 09:02<br>赞(1) 踩(0) | <div>好了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361688770)<br>江海寄余生<br>2019-01-21 08:59<br>赞(0) 踩(0) | <div>一听就收藏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406557484)<br><br>2019-01-21 08:54<br>赞(0) 踩(0) | <div>，</div> |
@@ -800,7 +800,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322697144)<br><br>2019-01-20 23:41<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412353439)<br><br>2019-01-20 23:38<br>赞(1) 踩(0) | <div>。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405855133)<br><br>2019-01-20 23:38<br>赞(1) 踩(0) | <div>好 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103672524)<br><br>2019-01-20 23:35<br>赞(1) 踩(0) | <div>她她的歌总是有种独特的感觉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103672524)<br><br>2019-01-20 23:35<br>赞(1) 踩(0) | <div>她<br>她的歌总是有种独特的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/264463032)<br>心如坚守的城也为你割地称...<br>2019-01-20 23:30<br>赞(1) 踩(0) | <div>发现好音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279163644)<br>爱你就像爱生命<br>2019-01-20 23:30<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279163644)<br>爱你就像爱生命<br>2019-01-20 23:29<br>赞(2) 踩(0) | <div>我同事也叫这个名字</div> |
@@ -810,7 +810,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41663356)<br><br>2019-01-22 14:15<br>赞(0) 踩(0) | <div>离职之后干啥|･ω･｀)？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5587425)<br> <br>2019-01-23 00:07<br>赞(0) 踩(0) | <div><q><b>哲学家222说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9479609)<br>气味相投，皆属缘份   ...<br>2019-01-23 18:33<br>赞(0) 踩(0) | <div>加油做自己</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356859506)<br>我不是绿帽子，我不是绿帽...<br>2019-01-25 17:31<br>赞(0) 踩(0) | <div>啪滚7*6958经过哦自己用的呕吐物</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356859506)<br>我不是绿帽子，我不是绿帽...<br>2019-01-25 17:31<br>赞(0) 踩(0) | <div>啪滚7*<br>6958经过哦自己用的呕吐物</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356859506)<br>我不是绿帽子，我不是绿帽...<br>2019-01-25 17:31<br>赞(0) 踩(0) | <div><q><b>Ahass说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5587425)<br> <br>2019-01-25 23:42<br>赞(0) 踩(0) | <div><q><b>Ahass说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1263750)<br>Nothing for ...<br>2019-01-27 09:52<br>赞(0) 踩(0) | <div>离职了吗？</div> |
@@ -831,7 +831,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404608299)<br><br>2019-01-25 22:18<br>赞(0) 踩(0) | <div>致敬白衣天使 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334287567)<br>默默无闻的奉献青春<br>2019-01-20 22:40<br>赞(2) 踩(0) | <div>好听好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99853716)<br><br>2019-01-20 22:39<br>赞(1) 踩(0) | <div>四海为家吗？……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410422981)<br><br>2019-01-20 22:36<br>赞(1) 踩(0) | <div>今年因为考试周的时间安排不能回国陪家人过年了，第一次深深地感觉到了世界的庞大与自己的渺小，要坐十几个小时的飞机才能回到家，要克服好几个小时的时差才能和家里人通个视频聊个天，要习惯并且克服与自己国家截然不同的气候四海也好，世界也罢，有家人的陪伴才算好，有家人在身边就是家</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410422981)<br><br>2019-01-20 22:36<br>赞(1) 踩(0) | <div>今年因为考试周的时间安排不能回国陪家人过年了，第一次深深地感觉到了世界的庞大与自己的渺小，要坐十几个小时的飞机才能回到家，要克服好几个小时的时差才能和家里人通个视频聊个天，要习惯并且克服与自己国家截然不同的气候<br>四海也好，世界也罢，有家人的陪伴才算好，有家人在身边就是家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327379819)<br><br>2019-01-20 22:26<br>赞(0) 踩(0) | <div>马上集训完就可以回家啦。大家都在拼命努力着，希望2019年可以暴富。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131603040)<br>声优<br>2019-01-20 23:55<br>赞(0) 踩(0) | <div>去买大乐透</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175085048)<br><br>2019-01-20 22:23<br>赞(0) 踩(0) | <div>好听</div> |
@@ -846,13 +846,13 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410993801)<br><br>2019-01-20 22:01<br>赞(1) 踩(0) | <div>四海</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343537177)<br>大地<br>2019-01-20 22:00<br>赞(1) 踩(0) | <div>只有家是最温暖的(｡･ω･｡)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412657795)<br><br>2019-01-20 21:52<br>赞(0) 踩(0) | <div>非常好听的歌曲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313002286)<br>坦坦荡荡做人，踏踏实实装...<br>2019-01-20 21:51<br>赞(1) 踩(0) | <div>风把一个梦吹来梦中白雪皑皑故乡在深处独白我在千里之外叹前路尚远未知无解孤独浸透了昼夜一步 一步 向前四海好大你还好吗世界好大有时我也怕但一个瞬间&amp;mdash;种语言万息不变凝望了百年叹前路尚远未知无解孤独浸透了昼夜一步 一步 向前四海好大欢迎回家世界好大有时我也怕但一个瞬间&amp;mdash;种语言万息不变凝望了百年</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313002286)<br>坦坦荡荡做人，踏踏实实装...<br>2019-01-20 21:51<br>赞(1) 踩(0) | <div>风把一个梦吹来<br>梦中白雪皑皑<br>故乡在深处独白<br>我在千里之外<br>叹前路尚远<br>未知无解<br>孤独浸透了昼夜<br>一步 一步 向前<br>四海好大<br>你还好吗<br>世界好大<br>有时我也怕<br>但一个瞬间<br>&amp;mdash;种语言<br>万息不变<br>凝望了百年<br>叹前路尚远<br>未知无解<br>孤独浸透了昼夜<br>一步 一步 向前<br>四海好大<br>欢迎回家<br>世界好大<br>有时我也怕<br>但一个瞬间<br>&amp;mdash;种语言<br>万息不变<br>凝望了百年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50094338)<br>那些散落的誓言，戏弄了青...<br>2019-01-20 21:46<br>赞(2) 踩(0) | <div>看海看久了想见人，见人见多了想看海。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411739384)<br>我还没想好要写什么...<br>2019-01-20 21:45<br>赞(2) 踩(0) | <div>陈粒的歌风格不一样了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405411187)<br>普通普通很普通<br>2019-01-20 21:44<br>赞(0) 踩(0) | <div>可以</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406256865)<br><br>2019-01-20 21:42<br>赞(0) 踩(0) | <div>高二喜欢的粒 大学在外地 现在也在外地实习 马上过年了 医院不放假 想家 <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33269688)<br><br>2019-01-20 21:40<br>赞(0) 踩(0) | <div>女朋友很喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250351581)<br><br>2019-01-20 21:38<br>赞(0) 踩(0) | <div>到不了的都叫做远方回不去的都叫做家乡</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250351581)<br><br>2019-01-20 21:38<br>赞(0) 踩(0) | <div>到不了的都叫做远方<br>回不去的都叫做家乡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407085769)<br>脱离了高级趣味的人<br>2019-01-20 21:36<br>赞(0) 踩(0) | <div>她有粒粒，有在蓬莱，有大梦，至于一天天抓着旧恋情不放？怎么着？两个优秀女孩子在一起很特殊？特殊到你觉得男女分手就分手了她们分个手就是这个渣内个渣？听过两首爆红知道一点私事就给人定标签还觉得自己振振有词喽？(谁要是在我面前天天提我和平分手的前男友我就只想锤爆他狗头=_=)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207723400)<br><br>2019-01-20 21:34<br>赞(0) 踩(0) | <div>四海之内皆兄弟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409845857)<br>用心听，用心看，用心爱，...<br>2019-01-20 21:30<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
@@ -889,7 +889,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406101286)<br><br>2019-01-20 20:04<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401899745)<br>我还没想好要写什么...<br>2019-01-20 20:04<br>赞(0) 踩(0) | <div>走遍四海</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401899745)<br>我还没想好要写什么...<br>2019-01-20 20:04<br>赞(0) 踩(0) | <div>五湖四海 为家</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374572131)<br><br>2019-01-20 20:03<br>赞(0) 踩(0) | <div>"没有人可以永远无条件的陪伴着你""要知道下雨天的时候连影子都会缺席"</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374572131)<br><br>2019-01-20 20:03<br>赞(0) 踩(0) | <div>"没有人可以永远无条件的陪伴着你"<br><br>"要知道下雨天的时候连影子都会缺席"</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70069448)<br>阿菲的小迷妹啦<br>2019-01-20 20:00<br>赞(0) 踩(0) | <div>现在一听老公的歌就想到三年前为你唱远辰的我，往事历历在目，世界好大，欢迎回家。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410569424)<br>皎皎余晖，粼粼光波，我自...<br>2019-01-20 19:55<br>赞(0) 踩(0) | <div>所以听不懂的好听只是音乐，只有我们算是听歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412688075)<br><br>2019-01-20 19:51<br>赞(0) 踩(0) | <div>……</div> |
@@ -956,7 +956,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412295773)<br><br>2019-01-20 16:20<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1438050)<br>举起了枪 ｜@-上膛<br>2019-01-20 16:13<br>赞(1) 踩(0) | <div>哟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409787717)<br><br>2019-01-20 16:13<br>赞(2) 踩(0) | <div>唉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377190730)<br><br>2019-01-20 16:05<br>赞(4) 踩(0) | <div>正在海外听着学生讲中文，为全世界都学中国话的梦想在努力。春节当然是不能回家，因为国外没有春节。四海好大，我想回家。世界好大，我国还好吗？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377190730)<br><br>2019-01-20 16:05<br>赞(4) 踩(0) | <div>正在海外听着学生讲中文，为全世界都学中国话的梦想在努力。春节当然是不能回家，因为国外没有春节。<br>四海好大，我想回家。世界好大，我国还好吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412660492)<br><br>2019-01-20 16:04<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406557484)<br><br>2019-01-20 15:59<br>赞(0) 踩(0) | <div>，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329975416)<br> <br>2019-01-20 15:58<br>赞(0) 踩(0) | <div>好听惹，最后亿编 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
@@ -971,13 +971,13 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322855035)<br><br>2019-01-20 15:21<br>赞(1) 踩(0) | <div>不管怎样，先下载 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93142360)<br><br>2019-01-20 15:19<br>赞(1) 踩(0) | <div>熟悉的空灵，我不喜欢和五湖四海的人交朋友，因为离开的时候就等于失去，我讨厌离别，那是一种永远失去的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411860844)<br><br>2019-01-20 15:16<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15986984)<br>顺风顺意且顺心。<br>2019-01-20 15:11<br>赞(0) 踩(0) | <div>昨晚上还问我妈今年集不她说余额宝跃龙门就是今年的了吧我说怎么能呢 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">果然 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15986984)<br>顺风顺意且顺心。<br>2019-01-20 15:11<br>赞(0) 踩(0) | <div>昨晚上还问我妈今年集不<br>她说余额宝跃龙门就是今年的了吧<br>我说怎么能呢 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"><br>果然 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315845827)<br><br>2019-01-20 15:04<br>赞(0) 踩(0) | <div>哇，前三百 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/188291010)<br><br>2019-01-20 14:58<br>赞(0) 踩(0) | <div>还是陈粒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317237487)<br>5HINee Forev...<br>2019-01-20 14:55<br>赞(0) 踩(0) | <div>卡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280937172)<br><br>2019-01-20 14:54<br>赞(0) 踩(0) | <div>她的歌都挺好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280937172)<br><br>2019-01-20 14:54<br>赞(0) 踩(0) | <div>好听啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244884922)<br>我还没想好要写什么...<br>2019-01-20 14:53<br>赞(0) 踩(0) | <div>两人结为夫妇，是前生姻缘注定的，是了缘来的。 善待彼此，千万不要旧业未了，又添新业。別再抱怨，你要付出更大的愛去愛對方。 你要明白，一切有缘众生都是来了缘的，一生都要彼此善待。让身边人开心了，你就是在做佛了。——161007 日本东京</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244884922)<br>我还没想好要写什么...<br>2019-01-20 14:53<br>赞(0) 踩(0) | <div>两人结为夫妇，是前生姻缘注定的，是了缘来的。 善待彼此，千万不要旧业未了，又添新业。別再抱怨，你要付出更大的愛去愛對方。 你要明白，一切有缘众生都是来了缘的，一生都要彼此善待。让身边人开心了，你就是在做佛了。<br><br>——161007 日本东京</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1145614)<br>I'm<br>2019-01-20 14:44<br>赞(0) 踩(0) | <div>什么东西⊙_⊙？支付宝五福歌曲？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32295266)<br>麻辣小龙虾味的薯片:D<br>2019-01-20 14:32<br>赞(3) 踩(0) | <div>今年过年只有我和爸了 我妈离开的第十七天…我好想她啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65835)<br>如果没人看着我，该有多快...<br>2019-01-20 16:38<br>赞(0) 踩(0) | <div>好好的</div> |
@@ -993,9 +993,9 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/65848968)<br>以梦为马仗剑天涯<br>2019-01-20 13:56<br>赞(1) 踩(0) | <div>什么时候集五福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376595529)<br><br>2019-01-20 13:53<br>赞(0) 踩(0) | <div>世界这么多地 我想去种种</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6421722)<br>听……<br>2019-01-20 13:50<br>赞(1) 踩(0) | <div>期待过年～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26327977)<br>我还没想好要写什么...<br>2019-01-20 13:42<br>赞(3) 踩(0) | <div>你背对着山河一步步走向我你脚踏着山河一步步走近我你打开了我的躯壳你唤醒了我的耳朵带走我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26327977)<br>我还没想好要写什么...<br>2019-01-20 13:42<br>赞(3) 踩(0) | <div>你背对着山河一步步走向我<br>你脚踏着山河一步步走近我<br>你打开了我的躯壳<br>你唤醒了我的耳朵<br>带走我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49718360)<br>corbiesechs_<br>2019-01-20 13:40<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/2dddd65f06f01a396df470103735c8ff.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400673970)<br>EXO-L<br>2019-01-20 13:27<br>赞(0) 踩(0) | <div>因为我还只是个学生父母就在身边看到评论很多大人写回家那就祝您们心想事成吧！我也要好好珍惜现在的时光。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400673970)<br>EXO-L<br>2019-01-20 13:27<br>赞(0) 踩(0) | <div>因为我还只是个学生<br>父母就在身边<br>看到评论很多大人写回家<br>那就祝您们心想事成吧！<br>我也要好好珍惜现在的时光。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/137206634)<br>满堂花醉三千客，一剑霜寒...<br>2019-01-20 13:25<br>赞(1) 踩(0) | <div>终于恢复陈粒本色了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332668614)<br><br>2019-01-20 13:15<br>赞(0) 踩(0) | <div>空灵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42540396)<br>我还没想好要写什么...<br>2019-01-20 13:11<br>赞(0) 踩(0) | <div>❤️</div> |
@@ -1003,7 +1003,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47171061)<br>ಠ~ಠ <br>2019-01-20 13:00<br>赞(1) 踩(0) | <div>支付宝集福终于来了 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319768917)<br><br>2019-01-20 12:59<br>赞(1) 踩(0) | <div>开口跪 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png">前排打卡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51560899)<br>红豆生南国，春来发几枝？<br>2019-01-20 12:50<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348764947)<br>诗词歌赋文章感悟文学艺术<br>2019-01-20 12:38<br>赞(0) 踩(0) | <div>清新自然悦耳动听柔和婉转悠扬流转耐听无穷意犹未尽意象多变意境深远打动心灵深处！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348764947)<br>诗词歌赋文章感悟文学艺术<br>2019-01-20 12:38<br>赞(0) 踩(0) | <div>清新自然悦耳动听<br>柔和婉转悠扬流转<br>耐听无穷意犹未尽<br>意象多变意境深远<br><br>打动心灵深处！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348396986)<br><br>2019-01-20 12:38<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333168878)<br>我喜欢的人有世上最魔性的...<br>2019-01-20 12:32<br>赞(4) 踩(0) | <div>猪年集五福，1月25日正式开启～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246864172)<br>世界最远的距离:你在网易...<br>2019-01-20 12:11<br>赞(1) 踩(0) | <div>听说赞到我都心想事成 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
@@ -1012,7 +1012,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342500680)<br><br>2019-01-20 11:58<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11913225)<br>我还没想好要写什么...<br>2019-01-20 11:48<br>赞(1) 踩(0) | <div>❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51834236)<br>咦哈<br>2019-01-20 11:39<br>赞(1) 踩(0) | <div>！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45960018)<br>音乐是我的阿司匹林<br>2019-01-20 11:34<br>赞(1) 踩(0) | <div>有欲续的愿望 想爱 想不离开有欲死的愿望有欲得夺命的伟大一吻的愿望有不想要有愿望……的愿望啊上帝 我把我弑神之指指向你有不想要有一颗心的愿望……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45960018)<br>音乐是我的阿司匹林<br>2019-01-20 11:34<br>赞(1) 踩(0) | <div>有欲续的愿望 想爱 想不离开<br>有欲死的愿望<br>有欲得夺命的伟大一吻的愿望<br>有不想要有愿望……的愿望<br>啊上帝 我把我弑神之指指向你<br>有不想要有一颗心的愿望……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402925326)<br><br>2019-01-20 11:27<br>赞(0) 踩(0) | <div>最棒 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402925326)<br><br>2019-01-20 11:27<br>赞(0) 踩(0) | <div>老公</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337866439)<br>与你同在<br>2019-01-20 11:17<br>赞(1) 踩(0) | <div>今年如愿回家，不用在他乡过年了 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
@@ -1021,13 +1021,13 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269294846)<br><br>2019-01-20 13:31<br>赞(0) 踩(0) | <div><q><b>sunny☀️说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343238794)<br>你爱上了一匹野马，他却没...<br>2019-01-20 11:10<br>赞(0) 踩(0) | <div>为粒爷贡献评论嘻嘻嘻 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15247105)<br> <br>2019-01-20 11:07<br>赞(0) 踩(0) | <div>大年三十要在机场跨年了 <img src="../../../../images/comments/02b5206751dbfe84ebcd5ad4a4f79db3.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354426078)<br>爱生活、爱音乐爱虾米<br>2019-01-20 10:58<br>赞(0) 踩(0) | <div>陈粒的歌第一次听感觉还不错不错</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354426078)<br>爱生活、爱音乐爱虾米<br>2019-01-20 10:58<br>赞(0) 踩(0) | <div>陈粒的歌第一次听感觉<br>还不错不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279874832)<br><br>2019-01-20 10:47<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300942080)<br><br>2019-01-20 10:44<br>赞(1) 踩(0) | <div>这首歌很“粒”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3128087)<br><br>2019-01-20 10:42<br>赞(1) 踩(0) | <div>叹前路尚远 未知无解 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338179055)<br>没有不听的 只有还没听到...<br>2019-01-20 10:40<br>赞(1) 踩(0) | <div>四海好大 欢迎回家 在回家火车上听到这句 有点想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295858144)<br><br>2019-01-20 10:40<br>赞(1) 踩(0) | <div>让世界倾听我们的声音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10262399)<br>想去海底捞吃西瓜<br>2019-01-20 10:40<br>赞(1) 踩(0) | <div>世界好大有时我也怕</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10262399)<br>想去海底捞吃西瓜<br>2019-01-20 10:40<br>赞(1) 踩(0) | <div>世界好大<br>有时我也怕</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20811781)<br><br>2019-01-20 10:35<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46280636)<br>生活中快乐的事还有很多，...<br>2019-01-20 10:34<br>赞(2) 踩(0) | <div>四海集五福。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244749425)<br>永远青春，永远热泪盈眶<br>2019-01-20 10:33<br>赞(1) 踩(0) | <div>哈哈  喜欢吗</div> |
@@ -1036,7 +1036,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353449330)<br>喜.<br>2019-01-20 10:14<br>赞(3) 踩(0) | <div>明天今年哥哥当兵回来可以一起过个好年团圆 可是 我外公就在早上走了 去了另一个世界 可我还在学校考试妈妈不同意请假 外公对我特别好的那种想他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252818751)<br><br>2019-01-20 10:06<br>赞(2) 踩(0) | <div>四海</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13799638)<br>摇滚救国<br>2019-01-20 10:03<br>赞(1) 踩(0) | <div>买菜克</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5845989)<br>就这么了<br>2019-01-20 09:47<br>赞(3) 踩(0) | <div>四海再大人心尘微</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5845989)<br>就这么了<br>2019-01-20 09:47<br>赞(3) 踩(0) | <div>四海再大<br>人心尘微</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320547846)<br>梦行<br>2019-01-20 09:43<br>赞(1) 踩(0) | <div>赶个早</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41855526)<br>不想有签名<br>2019-01-20 09:42<br>赞(2) 踩(0) | <div>忽然听到一句“你忘了拜年”？？惊的我赶紧睁眼翻歌，哦，还好不是。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18344518)<br> <br>2019-01-20 09:40<br>赞(0) 踩(0) | <div>xtgrtb v7</div> |
@@ -1056,17 +1056,17 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331177120)<br><br>2019-01-20 08:24<br>赞(0) 踩(0) | <div>首句的旋律像有此山的旋律 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39834251)<br> <br>2019-01-20 08:23<br>赞(0) 踩(0) | <div>哪里是福</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87421924)<br>唯有自己钟情的音乐不可抗...<br>2019-01-20 08:22<br>赞(116) 踩(0) | <div>曾经年少的我幻想着能在阳光下云游四海，看一看外面世界的繁华与无奈！无论身处世上哪一个角落，有福就有家。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193804508)<br>有人夜里开车看海<br>2019-01-20 08:17<br>赞(0) 踩(0) | <div>四海为家所爱隔山(四)海，山海皆可平四海八荒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193804508)<br>有人夜里开车看海<br>2019-01-20 08:17<br>赞(0) 踩(0) | <div>四海为家<br>所爱隔山(四)海，山海皆可平<br>四海八荒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350237229)<br>交織出故事吧。<br>2019-01-20 08:12<br>赞(2) 踩(0) | <div>终有一天，我们歌尽春风冬雪，却不敢提及家乡的月。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411741373)<br><br>2019-01-20 08:12<br>赞(0) 踩(0) | <div>相见的人，跨过四海，翻过五岳，都会去见，唯独在快到达那人面前时，突然有些胆怯。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320898217)<br>伽音<br>2019-01-20 07:58<br>赞(1) 踩(0) | <div>真好听，同意的请举手留爪印！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355755170)<br><br>2019-01-20 07:48<br>赞(14) 踩(0) | <div>一个人，女生，海外6年，十几个国家，6年没有过过春节，今年决定回家。听到这首歌，不禁泪流满面。不知道家，还是不是那个可以回去的家。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355755170)<br><br>2019-01-20 07:48<br>赞(14) 踩(0) | <div>一个人，女生，海外6年，十几个国家，6年没有过过春节，今年决定回家。<br>听到这首歌，不禁泪流满面。<br>不知道家，还是不是那个可以回去的家。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320898217)<br>伽音<br>2019-01-20 07:58<br>赞(0) 踩(0) | <div>欢迎回家过年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30358911)<br>发现新世界<br>2019-01-20 06:51<br>赞(1) 踩(0) | <div>明天集五福就开始了？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412613981)<br>我还没想好要写什么...<br>2019-01-20 05:56<br>赞(2) 踩(0) | <div>我来啦，老公 <img src="../../../../images/comments/29cf103b88c33e19563095897485c32a.png">还有八天放假 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412618545)<br><br>2019-01-20 06:26<br>赞(0) 踩(0) | <div>我也还有八天，过年只能休息十五天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331939702)<br><br>2019-01-20 05:30<br>赞(1) 踩(0) | <div>有你陪我的海，没你陪我的海。家的海，离家的海。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98859894)<br>我还没想好要写什么...<br>2019-01-20 04:56<br>赞(1) 踩(0) | <div>故乡在深处独白我在千里之外 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png">歌词太戳泪点今年又不能和家人一起过年听到这歌  真的好想我爸妈弟弟妹妹爷爷奶奶外婆啊和你们在一起的年才叫过年呀</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98859894)<br>我还没想好要写什么...<br>2019-01-20 04:56<br>赞(1) 踩(0) | <div>故乡在深处独白<br>我在<br>千里之外 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"><br>歌词太戳泪点<br>今年又不能和家人一起过年<br>听到这歌  真的好想我爸妈弟弟妹妹爷爷奶奶外婆啊<br>和你们在一起的年才叫过年呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2127206)<br>冬雪小公主<br>2019-01-20 04:26<br>赞(2) 踩(0) | <div>出国快13个年头了，始终感觉自己一直处在漂泊的状态，连续12个春节没有和爸妈过过，如今来到的己亥猪年，又不能回去了。希望在未来的不久，自己可以彻底回到爸妈身边。外面不论如何精彩纷呈，都比不上有爸妈在身边陪伴的家的温馨宁静。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281406268)<br>鱼卡用户游过来～<br>2019-01-20 07:11<br>赞(0) 踩(0) | <div>12年 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">，我才国外漂了五年，已经三十了，今年强行推了不工作，专门在家相亲。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404876065)<br>虾米也没有<br>2019-01-20 07:44<br>赞(0) 踩(0) | <div><q><b>山上人家C先生说：</b></q></div> |
@@ -1083,9 +1083,9 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75704338)<br>夜晚的聲音會發光<br>2019-01-20 02:58<br>赞(1) 踩(0) | <div>yao</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1599722)<br>期待转机…<br>2019-01-20 02:41<br>赞(1) 踩(0) | <div>身未动，心已踏上归途。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11981821)<br>爱生活、爱猫、爱音乐。 <br>2019-01-20 02:35<br>赞(2) 踩(0) | <div>最近很吹捧这种勾搭人心弦的歌曲吼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96504020)<br>小舟从此逝 江海寄余生<br>2019-01-20 01:58<br>赞(2) 踩(0) | <div>我喜欢你是寂静的，就像微风喜欢树叶是静谧的，就像天空喜欢大海是遥远的，就像山峦喜欢流云是恒久的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96504020)<br>小舟从此逝 江海寄余生<br>2019-01-20 01:58<br>赞(2) 踩(0) | <div>我喜欢你是寂静的，<br>就像微风喜欢树叶是静谧的，<br>就像天空喜欢大海是遥远的，<br>就像山峦喜欢流云是恒久的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5839416)<br>Man-Utd<br>2019-01-20 01:41<br>赞(3) 踩(0) | <div>但一个瞬间，一种语言，谢谢你让我看到生活里的光。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310068209)<br>戳爷霉霉〔碧丽〕(新晋女...<br>2019-01-20 01:41<br>赞(91) 踩(0) | <div>世界这么大，我想去看看，世界这么大，我我想和家人团聚</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310068209)<br>戳爷霉霉〔碧丽〕(新晋女...<br>2019-01-20 01:41<br>赞(91) 踩(0) | <div>世界这么大，我想去看看，<br>世界这么大，我我想和家人团聚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305895627)<br><br>2019-01-20 01:23<br>赞(1) 踩(0) | <div>新歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93533910)<br>我还没想好要写什么...<br>2019-01-20 01:19<br>赞(1) 踩(0) | <div>112！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326894179)<br>我还没想好要写什么...<br>2019-01-20 01:13<br>赞(409) 踩(0) | <div>五福四海，这是湖建人民的主打歌</div> |
@@ -1094,7 +1094,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412783218)<br><br>2019-01-24 00:16<br>赞(0) 踩(0) | <div>不是福南和胡建吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412327871)<br><br>2019-01-24 01:32<br>赞(0) 踩(0) | <div>真香，好吃</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245481339)<br>我还没想好要写什么...<br>2019-01-20 01:10<br>赞(3) 踩(0) | <div>五福四海？！胡建人！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326890929)<br>我还没想好要写什么...<br>2019-01-20 01:08<br>赞(143) 踩(0) | <div>一家人聚一起就是年，不分时间不分地点家人是世上最不能辜负的人四海皆可为家，只要家人都在</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326890929)<br>我还没想好要写什么...<br>2019-01-20 01:08<br>赞(143) 踩(0) | <div>一家人聚一起就是年，不分时间不分地点<br>家人是世上最不能辜负的人<br>四海皆可为家，只要家人都在</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244749425)<br>永远青春，永远热泪盈眶<br>2019-01-20 10:34<br>赞(0) 踩(0) | <div>对啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222481912)<br><br>2019-01-20 01:04<br>赞(2) 踩(0) | <div>有你真好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334472291)<br><br>2019-01-20 01:00<br>赞(1) 踩(0) | <div>才多久就那么多人了 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -1107,23 +1107,23 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100600150)<br>好歹无双<br>2019-01-20 00:51<br>赞(1) 踩(0) | <div>为家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52152354)<br>图我情真 还图我眼波销魂<br>2019-01-20 00:51<br>赞(1) 踩(0) | <div>爱你老公 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400728748)<br><br>2019-01-20 00:50<br>赞(2) 踩(0) | <div>五福四海 有你是福！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288342980)<br><br>2019-01-20 00:50<br>赞(2) 踩(0) | <div>该回家了家我四海为家</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288342980)<br><br>2019-01-20 00:50<br>赞(2) 踩(0) | <div>该回家了<br>家<br>我四海为家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78533206)<br>什么·<br>2019-01-20 00:50<br>赞(2) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15424439)<br>。<br>2019-01-20 00:54<br>赞(0) 踩(0) | <div>抱一抱</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5449677)<br>My youth is ...<br>2019-01-20 00:56<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">祝福你。要相信一切都会好的呀，对的人会出现的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294112819)<br>除你以外 别无拯救 ✞ ...<br>2019-01-20 00:50<br>赞(3) 踩(0) | <div>四海好大，你还好吗……我想你了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294112819)<br>除你以外 别无拯救 ✞ ...<br>2019-01-20 00:50<br>赞(3) 踩(0) | <div>四海好大，<br>你还好吗……<br>我想你了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294112819)<br>除你以外 别无拯救 ✞ ...<br>2019-01-20 00:48<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"> <img src="../../../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109256438)<br>年輕永遠熱淚盈眶.<br>2019-01-20 00:47<br>赞(4) 踩(0) | <div>乡愁总与距离有关，总与去国离乡有关。乡愁是条穿越时空的线，这端是游子，那端是故乡。游子走得愈远，乡愁收得愈紧。当游子头发斑白了，累了，心上也就勒出了最深最深的痕。小时候,乡愁是一枚小小的邮票...</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/109256438)<br>年輕永遠熱淚盈眶.<br>2019-01-20 00:47<br>赞(4) 踩(0) | <div>乡愁总与距离有关，总与去国离乡有关。乡愁是条穿越时空的线，这端是游子，那端是故乡。游子走得愈远，乡愁收得愈紧。当游子头发斑白了，累了，心上也就勒出了最深最深的痕。<br><br><br>小时候,乡愁是一枚小小的邮票...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169599298)<br>你喜欢的我不喜欢，你不喜...<br>2019-01-20 00:41<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379585995)<br>我还没想好要写什么...<br>2019-01-20 00:41<br>赞(173) 踩(0) | <div>我们依然在大大的世界里小小地努力着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87579756)<br>A Cat <br>2019-01-20 00:41<br>赞(1) 踩(0) | <div>89！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345524288)<br>志在山顶，何贪风景<br>2019-01-20 00:40<br>赞(1) 踩(0) | <div>第88 前一百!!!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265416528)<br>我还没想好要写什么...<br>2019-01-20 00:39<br>赞(2) 踩(0) | <div>87 <img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367718444)<br>Every day is...<br>2019-01-20 00:36<br>赞(4) 踩(0) | <div>四海好大换你回家</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/367718444)<br>Every day is...<br>2019-01-20 00:36<br>赞(4) 踩(0) | <div>四海好大<br>换你回家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4122967)<br>守得云开见月明<br>2019-01-20 00:34<br>赞(1) 踩(0) | <div>四海为家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195189428)<br><br>2019-01-20 00:30<br>赞(1) 踩(0) | <div>欢迎回家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123246788)<br>Music is my ...<br>2019-01-20 00:30<br>赞(2) 踩(0) | <div>陈粒(粒粒) <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125973444)<br>爱着爱着就永远。<br>2019-01-20 00:30<br>赞(761) 踩(0) | <div>今年因为考试周的时间安排不能回国陪家人过年了，第一次深深地感觉到了世界的庞大与自己的渺小，要坐十几个小时的飞机才能回到家，要克服好几个小时的时差才能和家里人通个视频聊个天，要习惯并且克服与自己国家截然不同的气候四海也好，世界也罢，有家人的陪伴才算好，有家人在身边就是家</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125973444)<br>爱着爱着就永远。<br>2019-01-20 00:30<br>赞(761) 踩(0) | <div>今年因为考试周的时间安排不能回国陪家人过年了，第一次深深地感觉到了世界的庞大与自己的渺小，要坐十几个小时的飞机才能回到家，要克服好几个小时的时差才能和家里人通个视频聊个天，要习惯并且克服与自己国家截然不同的气候<br>四海也好，世界也罢，有家人的陪伴才算好，有家人在身边就是家</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314332044)<br>生活不止眼前的苟且，还有...<br>2019-01-20 00:44<br>赞(0) 踩(0) | <div>成年人的世界有好多身不由己，远方的你，一切顺利！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/372132857)<br>我还没想好要写什么...<br>2019-01-20 01:23<br>赞(0) 踩(0) | <div>异国的你也要好好的啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29303282)<br>世间挺美<br>2019-01-20 02:37<br>赞(0) 踩(0) | <div>对，家人在的地方就是家。</div> |
@@ -1136,7 +1136,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96871250)<br>Traveler<br>2019-01-26 20:51<br>赞(0) 踩(0) | <div>一个人在异国他乡要照顾好自己</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/149498394)<br><br>2019-01-29 21:56<br>赞(0) 踩(0) | <div>祖国永远和你在一起。家人永远和你在一起。不论何地，节日快乐。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113063296)<br>微博：吴槿凡er<br>2019-01-30 20:07<br>赞(0) 踩(0) | <div>同 在圣彼得堡的无数个不能回家的夜</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313765440)<br><br>2019-01-31 03:43<br>赞(0) 踩(0) | <div>新年也要快樂喔 ( ´▽｀)同在異鄉 真的不容易坐標加國</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313765440)<br><br>2019-01-31 03:43<br>赞(0) 踩(0) | <div>新年也要快樂喔 ( ´▽｀)<br>同在異鄉 真的不容易<br>坐標加國</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413637437)<br><br>2019-01-31 09:50<br>赞(0) 踩(0) | <div>新年快乐</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279163501)<br><br>2019-02-01 20:10<br>赞(0) 踩(0) | <div>因为要上课今年也不能回国和家人一起过年了 第一次在国外过年，还好有朋友一起。希望异国他乡的你也有人陪伴，至少在世界的另一边有人为你祝福。新年快乐呀 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255025526)<br>我还一直爱你，虾米<br>2020-09-05 12:27<br>赞(0) 踩(0) | <div>看到你太多遍了，也不知道是你总喜欢评论还是品味相近</div> |
@@ -1184,7 +1184,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277899594)<br>季<br>2019-01-20 00:10<br>赞(3) 踩(0) | <div>你应是现在的你，你的形态应是一阵风，有些人会冷，有些人不冷。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307745815)<br>★<br>2019-01-22 19:34<br>赞(0) 踩(0) | <div>好久不见</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277899594)<br>季<br>2019-02-01 10:16<br>赞(0) 踩(0) | <div><q><b>低空域说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47508011)<br><br>2019-01-20 00:10<br>赞(0) 踩(0) | <div>四海好大世界好大你还好吗</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47508011)<br><br>2019-01-20 00:10<br>赞(0) 踩(0) | <div>四海好大<br>世界好大<br>你还好吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7161601)<br>再见<br>2019-01-20 00:10<br>赞(0) 踩(0) | <div>四海对五福，感觉集不齐啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7418590)<br>感谢虾米 若有意可vx:...<br>2019-01-20 00:10<br>赞(0) 踩(0) | <div>〰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326736088)<br>我还没想好要写什么...<br>2019-01-20 00:09<br>赞(0) 踩(0) | <div>你还好吗</div> |
@@ -1197,7 +1197,7 @@ OP &amp;SP：北京有此山文化传媒有限公司<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293681149)<br>音乐是药 包治百病<br>2019-01-20 00:06<br>赞(1) 踩(0) | <div>鸡冻！收到粒粒的新歌 美好又惊喜的周末夜！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297601400)<br><br>2019-01-20 00:06<br>赞(0) 踩(0) | <div>晚睡福利实锤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412628612)<br><br>2019-01-20 00:06<br>赞(0) 踩(0) | <div>我爱你！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112506486)<br>希望我活成自己想要的样子<br>2019-01-20 00:05<br>赞(1) 踩(0) | <div>四海好大你还好吗欢迎回家！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112506486)<br>希望我活成自己想要的样子<br>2019-01-20 00:05<br>赞(1) 踩(0) | <div>四海好大<br>你还好吗<br>欢迎回家！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20664669)<br>我还没想好要写什么...<br>2019-01-20 00:05<br>赞(0) 踩(0) | <div>是要单曲循环的歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412632570)<br><br>2019-01-20 00:05<br>赞(0) 踩(0) | <div>大家晚上好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90973336)<br>伤仲永<br>2019-01-20 00:04<br>赞(1) 踩(0) | <div>耶耶熬夜一直爽</div> |

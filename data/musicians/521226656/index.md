@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8d8489dc25600aa49b8e170156497688.jpg)<br>秦楠](https://i.xiami.com/qinnan) | **播放数**: 2355969<br>**粉丝数**: 488<br>**评论数**: 60<br>**地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 新民谣 Neofolk<br> |
+| [![](../../images/musicians/8d8489dc25600aa49b8e170156497688.jpg)<br>秦楠](https://i.xiami.com/qinnan) | **地区**: China 中国大陆<br>**风格**: 民谣流行 Folk Pop, 新民谣 Neofolk<br>**播放数**: 2355969<br>**粉丝数**: 488<br>**评论数**: 60<br> |
 
 ## 档案
 
@@ -20,8 +20,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-10-01 05:18<br>赞(0) 踩(0) | <div>20201001.60</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427384237)<br>我还没想好要写什么...<br>2020-04-20 00:43<br>赞(0) 踩(0) | <div>➕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250634089)<br> <br>2018-10-06 21:13<br>赞(0) 踩(0) | <div>偶尔听到这首歌，感觉太好了。</div> |

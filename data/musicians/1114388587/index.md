@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8be4a1100288f09a1b2532f1d283f98b.JPG)<br>钱雷](https://i.xiami.com/amtf) | **播放数**: 1351580<br>**粉丝数**: 557<br>**评论数**: 50<br>**地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/8be4a1100288f09a1b2532f1d283f98b.JPG)<br>钱雷](https://i.xiami.com/amtf) | **地区**: China 中国大陆<br>**风格**: 器乐独奏 Solo Instrumental, 轻音乐 Easy Listening, 国语流行 Mandarin Pop<br>**播放数**: 1351580<br>**粉丝数**: 557<br>**评论数**: 50<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341603399)<br><br>2020-06-01 13:34<br>赞(4) 踩(0) | <div>老师你好！我喜欢您演奏的《大鱼》曲子，想咨询老师怎么可以收藏完整版？需要购买吗？怎么买 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348378474)<br>哲学女博士，随性音乐人<br>2020-02-22 16:38<br>赞(1) 踩(0) | <div>最喜欢的国内作曲家，致敬钱老师。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2020-01-31 18:17<br>赞(2) 踩(0) | <div>因为寄心了周深，所以来寻钱雷老师</div> |
@@ -30,7 +27,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11996369)<br>想在活着的时候活着<br>2019-07-16 08:11<br>赞(0) 踩(0) | <div>钱老师如果翻评论的话 记得给我点个赞  这样我就知道你来了 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/373858653)<br><br>2018-09-10 18:29<br>赞(0) 踩(0) | <div>静候新作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87642922)<br><br>2018-05-03 10:01<br>赞(0) 踩(0) | <div>请问华晨宇唱的微光，卡西莫多的礼物，是借鉴的老师的钢琴曲吗</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187455362)<br>人间值得 我也值得<br>2018-08-07 17:02<br>赞(0) 踩(0) | <div>微光的曲子就是钱雷写的哟，应该是天娱买了版权给华晨宇唱的。而卡西莫多的礼物是华晨宇自己写的曲子！应该是钱雷喜欢这首曲子然后用钢琴重新演绎的。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187455362)<br>人间值得 我也值得<br>2018-08-07 17:02<br>赞(0) 踩(0) | <div>微光的曲子就是钱雷写的哟，应该是天娱买了版权给华晨宇唱的。<br>而卡西莫多的礼物是华晨宇自己写的曲子！应该是钱雷喜欢这首曲子然后用钢琴重新演绎的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324600130)<br><br>2018-03-31 14:29<br>赞(0) 踩(0) | <div>一听岁月，就感觉是写默的那个人写的，真棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379910)<br>and far away<br>2018-02-28 21:33<br>赞(0) 踩(0) | <div>是不是春晚王菲唱的作曲家呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113920252)<br><br>2017-11-13 11:10<br>赞(1) 踩(0) | <div>最近发现的牛逼人物 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |

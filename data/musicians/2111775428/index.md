@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/3e946bc17f73db4fcaf58f893502d5b4.jpg)<br>高阳](https://i.xiami.com/qinyihui2018) | **播放数**: 2208936<br>**粉丝数**: 250<br>**评论数**: 3<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 器乐独奏 Solo Instrumental<br> |
+| [![](../../images/musicians/3e946bc17f73db4fcaf58f893502d5b4.jpg)<br>高阳](https://i.xiami.com/qinyihui2018) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 器乐独奏 Solo Instrumental<br>**播放数**: 2208936<br>**粉丝数**: 250<br>**评论数**: 3<br> |
 
 ## 档案
 
@@ -20,7 +20,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341059004)<br><br>2020-04-06 15:41<br>赞(1) 踩(0) | <div>请问是否可以要到这个版本的琴谱</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412519879)<br>美妙灵动的琴声从指间流泻...<br>2020-04-09 10:21<br>赞(0) 踩(0) | <div>您好 琴易荟音乐单曲近期也会发布 敬请期待 感谢您的关注!</div> |

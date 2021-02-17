@@ -90,8 +90,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52584916)<br><br>2021-01-20 20:52<br>赞(0) 踩(0) | <div>留不住的虾米</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4187272)<br>多洗心灵少洗脑<br>2020-09-02 12:33<br>赞(0) 踩(0) | <div>太喜欢这首了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250241031)<br>生死由命，富貴在天<br>2020-07-07 19:23<br>赞(0) 踩(0) | <div>从爱的劳工开始就深深喜欢上了左叔。</div> |
@@ -103,7 +103,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256520683)<br><br>2020-03-17 12:26<br>赞(1) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/216784802)<br>好的音乐最重要的是真实，...<br>2020-01-15 14:35<br>赞(2) 踩(0) | <div>歌词里的“你”感觉就是“马爸爸”，尤其在双十一的时候，“马爸爸”对于剁手党来说就是他的整个世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435306107)<br>我还没想好要写什么...<br>2020-01-08 09:31<br>赞(2) 踩(0) | <div>对于这个世界，我可能相当古怪，但对于知音，我可能是整个世界。人人都是一个孤岛，知音难觅!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29995112)<br>与时光轻语，回眸时，莞尔...<br>2019-12-28 11:39<br>赞(1) 踩(0) | <div>对于这个世界你相当的古怪对于我你一点也不奇怪对于这个世界你是一个麻烦对于我你就是整个世界《忧伤的老板》演唱：左小祖咒作曲：左小祖咒作词：左小祖咒出自电影《边界风云》插曲《忧伤的老板》以金融危机开头：“由于欧洲的天气转暖候鸟已推迟南飞”，还给老板们支招：“你一定明白人生的运气多么重要，但要努力才可能不用拜佛。歌词“对于这个世界你是一个麻烦，对于我你就是整个世界”，看似这么简单直白、近乎口水话、而且不押韵的歌词，其创作的背景和表达的意境，需要慢慢体会和共鸣。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29995112)<br>与时光轻语，回眸时，莞尔...<br>2019-12-28 11:39<br>赞(1) 踩(0) | <div>对于这个世界<br>你相当的古怪<br>对于我<br>你一点也不奇怪<br>对于这个世界<br>你是一个麻烦<br>对于我<br>你就是整个世界<br><br>《忧伤的老板》<br>演唱：左小祖咒<br>作曲：左小祖咒<br>作词：左小祖咒<br>出自电影《边界风云》插曲<br><br>《忧伤的老板》以金融危机开头：“由于欧洲的天气转暖候鸟已推迟南飞”，还给老板们支招：“你一定明白人生的运气多么重要，但要努力才可能不用拜佛。歌词“对于这个世界你是一个麻烦，对于我你就是整个世界”，看似这么简单直白、近乎口水话、而且不押韵的歌词，其创作的背景和表达的意境，需要慢慢体会和共鸣。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250518746)<br>夕阳下，你转过身微笑，惊...<br>2019-11-26 22:30<br>赞(0) 踩(0) | <div>If there is a chance to love you I will never hesitate</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/412745767)<br>你的美丽让你带走<br>2019-10-14 19:37<br>赞(0) 踩(0) | <div>对于我 你一点也不奇怪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103227918)<br><br>2019-08-10 09:33<br>赞(1) 踩(0) | <div>你咋不跑调呢，太过分了</div> |
@@ -259,7 +259,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49996126)<br>我还没想好要写什么...<br>2016-03-07 21:46<br>赞(0) 踩(0) | <div>#songsinme#对于这个世界，你相当的古怪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44004848)<br><br>2016-02-21 12:14<br>赞(0) 踩(0) | <div>对于这个世界，你相当的古怪，对于我，你就是整个世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3391492)<br> <br>2016-02-05 23:30<br>赞(1) 踩(0) | <div>一只驴。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41342221)<br>暂无签名~<br>2016-02-04 23:32<br>赞(0) 踩(0) | <div>对于这个世界，你是一个麻烦；对于我，你就是整个世界。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41342221)<br>暂无签名~<br>2016-02-04 23:32<br>赞(0) 踩(0) | <div>对于这个世界，<br>你是一个麻烦；<br>对于我，<br>你就是整个世界。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/133293242)<br><br>2017-06-14 08:15<br>赞(0) 踩(0) | <div>对于这个世界，                                                         你是一个麻烦，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31581792)<br>如欲相见<br>2016-01-26 01:46<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png">这应该是左老板的代表作</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43542766)<br><br>2016-01-24 20:54<br>赞(0) 踩(0) | <div>第一次 听左小的歌这嗓音一个字 中不知道这歌里面的老板在忧伤啥</div> |
@@ -282,7 +282,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276695)<br>我还没想好要写什么...<br>2015-11-21 22:33<br>赞(1) 踩(0) | <div>啊我的心上人儿，你千万千万不要想不开。对于这个世界，你想当地古怪。对于我，你一点也不奇怪。对于这个世界，你是一个麻烦，对于我，你就是整个世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76030198)<br><br>2015-11-16 23:45<br>赞(0) 踩(0) | <div>左老板 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24927273)<br><br>2015-11-10 23:23<br>赞(0) 踩(0) | <div>这个配图绝了。驴性。旅行！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47992913)<br><br>2015-11-02 12:27<br>赞(0) 踩(0) | <div>对于这个世界 你是一个麻烦 对于我 你就是整个世界左老板这词写得真他妈好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47992913)<br><br>2015-11-02 12:27<br>赞(0) 踩(0) | <div>对于这个世界 你是一个麻烦 对于我 你就是整个世界<br>左老板这词写得真他妈好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29532578)<br><br>2015-10-26 20:42<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png">我很忧伤，我不是老扳。 <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44082643)<br><br>2015-10-25 18:00<br>赞(0) 踩(0) | <div>吃到赛过初恋的甜味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10983536)<br><br>2015-10-23 23:52<br>赞(0) 踩(0) | <div>做个老板</div> |
@@ -292,7 +292,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6104034)<br>我们都爱听跑火车电台～<br>2015-10-22 02:02<br>赞(0) 踩(0) | <div>总会有机会听现场</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12179526)<br>Dnlivo<br>2015-10-19 00:52<br>赞(2) 踩(0) | <div>可能是因为他对我说过对于个世界 你是一个麻烦 对于我你就是整个世界 原来左爷的歌还有用来说情话的功能 现在我又要听哭 真奇怪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12179526)<br>Dnlivo<br>2015-10-19 00:49<br>赞(0) 踩(0) | <div>还是最喜欢这首</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41744091)<br><br>2015-10-18 23:00<br>赞(2) 踩(0) | <div>第一次听就是在 边境风云左老板一句 对于这个世界你是一个麻烦 你就是整个世界 直接把我圈粉</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41744091)<br><br>2015-10-18 23:00<br>赞(2) 踩(0) | <div>第一次听就是在 边境风云<br>左老板一句 对于这个世界你是一个麻烦 你就是整个世界 直接把我圈粉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44082643)<br><br>2015-10-13 20:50<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49017711)<br><br>2015-10-11 14:09<br>赞(0) 踩(0) | <div>我想每个人都有位忧伤的老板</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49017711)<br><br>2015-10-11 14:05<br>赞(0) 踩(0) | <div>忧伤的老板你在哪</div> |
@@ -327,7 +327,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36447274)<br>依然遥远<br>2015-03-26 09:21<br>赞(0) 踩(0) | <div>他们总不理解我为什么喜欢你 可是对于我 你一点也不奇怪！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3138264)<br>摩尼宝幢<br>2015-03-20 00:15<br>赞(0) 踩(0) | <div>你就是我心里的一首歌！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10363618)<br>歌 书 电影 心情 不易...<br>2015-03-06 00:03<br>赞(0) 踩(0) | <div>初三听的 现在大学了 还是好听得不行</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44378584)<br>反骨<br>2015-02-28 20:49<br>赞(1) 踩(0) | <div>对于这个世界你是一个麻烦对于我你就是整个世界</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44378584)<br>反骨<br>2015-02-28 20:49<br>赞(1) 踩(0) | <div>对于这个世界你是一个麻烦<br>对于我你就是整个世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8541919)<br>暂无签名~<br>2015-02-13 00:04<br>赞(0) 踩(0) | <div>总想翻一页，确总是翻不开…</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/577280)<br>哆咪嗦<br>2015-02-04 19:27<br>赞(0) 踩(0) | <div>我们不谈人生理想，而谈生活方式，或者意识形态，再或者……拥有一个不会令人后悔的脑子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10540541)<br>今天天气蛤蛤蛤<br>2015-01-25 23:00<br>赞(0) 踩(0) | <div>高三时那山寨手机里只有三首歌：忧伤的老板、他夏了夏天和广陵散，每天睡之前循环，不知听了几百遍</div> |
@@ -358,16 +358,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9623773)<br>我还没想好要写什么...<br>2014-04-29 23:01<br>赞(0) 踩(0) | <div>对于我，你一点也不奇怪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2286690)<br>采菊花の小姑娘<br>2014-04-19 19:55<br>赞(0) 踩(0) | <div>【孤独的怪人 想说话却一直紧闭嘴巴】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17711764)<br><br>2014-03-27 20:52<br>赞(0) 踩(0) | <div>其实我更喜欢《边境风云》里面女生重声版，不够配上电影更好了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2828582)<br><br>2014-02-24 17:22<br>赞(0) 踩(0) | <div>我喜欢《边境风云》里那个女生合唱版，重听左小，动人。对于这个世界，你是一个麻烦，对于我，你就是整个世界</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2828582)<br><br>2014-02-24 17:22<br>赞(0) 踩(0) | <div>我喜欢《边境风云》里那个女生合唱版，重听左小，动人。<br>对于这个世界，你是一个麻烦，对于我，你就是整个世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/962634)<br><br>2014-02-20 18:33<br>赞(0) 踩(0) | <div>又听一遍，歌词是极其动人的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2014-02-14 11:35<br>赞(0) 踩(0) | <div>心 境不二</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4755329)<br>为啥不让看 就看<br>2014-01-08 11:22<br>赞(0) 踩(0) | <div>我的心上人儿，你为什么不那么快来到</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31207065)<br><br>2014-01-08 10:25<br>赞(0) 踩(0) | <div>你肯定明白人生的运气多么重要，但要努力才可能不用拜佛。对于这个世界，你相当的古怪，对于我，你一点也不奇怪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11415846)<br><br>2014-01-05 14:33<br>赞(0) 踩(0) | <div>惨淡不堪，一个忧伤的老板~~对于这个世界，你相当的古怪，对于我，你一点也不奇怪。对于这个世界，你是一个麻烦。对于我，你就是整个世界。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17269052)<br><br>2013-12-29 09:18<br>赞(0) 踩(0) | <div>對於這個世界你相當的古怪對於我你一點也不奇怪對於這個世界你是一個麻煩對於我你就是整個世界</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28091430)<br>我是屌丝我怕谁~<br>2013-12-27 18:41<br>赞(0) 踩(0) | <div>对于这个世界，你是一个麻烦；对于我，你就是整个世界；你肯定明白人生的运气多么重要，但要努力才可能不用拜佛。。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17269052)<br><br>2013-12-29 09:18<br>赞(0) 踩(0) | <div>對於這個世界<br>你相當的古怪<br>對於我<br>你一點也不奇怪<br><br>對於這個世界<br>你是一個麻煩<br>對於我<br>你就是整個世界</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28091430)<br>我是屌丝我怕谁~<br>2013-12-27 18:41<br>赞(0) 踩(0) | <div>对于这个世界，<br>你是一个麻烦；<br>对于我，<br>你就是整个世界；<br>你肯定明白人生的运气多么重要，<br>但要努力才可能不用拜佛。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15670642)<br><br>2013-12-23 20:41<br>赞(0) 踩(0) | <div>嘿嘿嘿 好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30200475)<br> <br>2013-12-21 10:13<br>赞(0) 踩(0) | <div>对于这个世界 你是一个麻烦对于我 你就是整个世界</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30200475)<br> <br>2013-12-21 10:13<br>赞(0) 踩(0) | <div>对于这个世界 你是一个麻烦<br>对于我 你就是整个世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7889317)<br><br>2013-12-14 23:33<br>赞(0) 踩(0) | <div>同学们可以找我索要陈志恒翻唱的 忧伤的老板（live）英文版！翻译十分到位！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271166)<br>punk<br>2013-12-13 22:21<br>赞(0) 踩(0) | <div>中间的呼麦 不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22892973)<br><br>2013-12-06 20:35<br>赞(0) 踩(0) | <div>又发现一个音乐奇葩－－左小诅咒，不过这个疯子，韩寒说，他更像一个诗人。。</div> |
@@ -376,7 +376,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331812)<br>成功降落地球<br>2013-11-26 15:32<br>赞(0) 踩(0) | <div>电影《边境风云》插曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26509979)<br><br>2013-11-16 16:11<br>赞(0) 踩(0) | <div>对于我，你一点也不奇怪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9624978)<br>我爱喝豆汁儿<br>2013-10-17 12:23<br>赞(0) 踩(0) | <div>世界上最伟大的情歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11929387)<br>音乐比设备好玩多了。<br>2013-10-16 19:03<br>赞(0) 踩(0) | <div>对于这个世界你相当的古怪对于我你一点也不奇怪</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11929387)<br>音乐比设备好玩多了。<br>2013-10-16 19:03<br>赞(0) 踩(0) | <div>对于这个世界<br>你相当的古怪<br>对于我<br>你一点也不奇怪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10613315)<br> <br>2013-10-08 22:39<br>赞(0) 踩(0) | <div>老板你好忧伤！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1647720)<br><br>2013-10-05 04:28<br>赞(0) 踩(0) | <div>~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11990908)<br><br>2013-10-03 22:21<br>赞(1) 踩(0) | <div>当千军万马期望靠近云彩而使劲将自己垫高时 我望了望 然后转头附身将脸贴近地表...因为我知道 他们最后换来都是虚妄</div> |
@@ -402,7 +402,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13665749)<br><br>2013-04-04 17:01<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12249167)<br><br>2013-04-01 22:47<br>赞(0) 踩(0) | <div>＂对于这个世界，你相当的古怪。对于我，你一点也不奇怪。对于这个世界，你是一个麻烦。对于我，你就是整个世界。＂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431439)<br><br>2013-03-19 00:53<br>赞(0) 踩(0) | <div>好听，这半年来迷上了左小祖咒和陈升。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/684917)<br>我们的故事会非常短<br>2013-03-14 00:54<br>赞(0) 踩(0) | <div>对于这个世界你相当的古怪对于我你一点也不奇怪对于这个世界你是一个麻烦对于我你就是整个世界</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/684917)<br>我们的故事会非常短<br>2013-03-14 00:54<br>赞(0) 踩(0) | <div>对于这个世界<br>你相当的古怪<br>对于我<br>你一点也不奇怪<br>对于这个世界<br>你是一个麻烦<br>对于我<br>你就是整个世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10800270)<br>别闹，尿尿呢。<br>2013-03-13 21:08<br>赞(0) 踩(0) | <div>左小的歌儿如果不是由左小来唱，我就更喜欢了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3880737)<br><br>2013-04-20 00:06<br>赞(0) 踩(0) | <div>那就不是左小的歌了。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1346951)<br><br>2013-03-12 00:38<br>赞(0) 踩(0) | <div>对这个世界你相当的古怪，对我，你一点也不奇怪；对这个世界你是一个麻烦，对我你就是整个世界。五一迷笛快点来吧！#这么早就开始热身的孩子呼唤你#</div> |
@@ -416,7 +416,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10624503)<br>囿于昼夜<br>2013-01-15 15:16<br>赞(0) 踩(0) | <div>女生合唱版的更好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2455125)<br> <br>2012-12-22 01:40<br>赞(0) 踩(0) | <div>忧伤成雷锋的老板，没有日记写，年关一到商店说他们不收白条 T T</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11873253)<br><br>2012-12-17 22:46<br>赞(0) 踩(0) | <div>对于这个世界，你是一个麻烦；对于我，你就是整个世界。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4786422)<br><br>2012-12-17 22:00<br>赞(0) 踩(0) | <div>对于这个世界你相当的古怪对于我你一点也不奇怪对于这个世界你是一个麻烦对于我你就是整个世界</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4786422)<br><br>2012-12-17 22:00<br>赞(0) 踩(0) | <div>对于这个世界<br>你相当的古怪<br>对于我<br>你一点也不奇怪<br>对于这个世界<br>你是一个麻烦<br>对于我<br>你就是整个世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6961207)<br><br>2012-12-17 17:44<br>赞(0) 踩(0) | <div>前奏好能嗨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6961207)<br><br>2012-12-17 17:39<br>赞(0) 踩(0) | <div>前奏比较能嗨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11111200)<br>闪闪发光的神经病求安宁喜<br>2012-12-02 00:05<br>赞(0) 踩(0) | <div>对于这个世界 你相当的古怪 对于我 你一点也不奇怪，对于这个世界 你是一个麻烦 对于我 你就是整个世界。</div> |
@@ -434,7 +434,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4313652)<br>一念起，萬水千山<br>2012-10-25 15:46<br>赞(0) 踩(0) | <div>对于这个世界 你是一个麻烦  对于我  你就是整个世界❤~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7335062)<br><br>2012-10-24 13:53<br>赞(0) 踩(0) | <div>喜欢，边境风云</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/871102)<br><br>2012-10-16 00:42<br>赞(0) 踩(0) | <div>对于这个世界 你是一个麻烦。对于我 你就是整个世界。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10136097)<br>师太~<br>2012-09-06 13:47<br>赞(0) 踩(0) | <div>对于这个世界你相当的古怪对于我你一点也不奇怪对于这个世界你是一个麻烦对于我你就是整个世界</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10136097)<br>师太~<br>2012-09-06 13:47<br>赞(0) 踩(0) | <div>对于这个世界<br>你相当的古怪<br>对于我<br>你一点也不奇怪<br>对于这个世界<br>你是一个麻烦<br>对于我<br>你就是整个世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/993692)<br><br>2012-09-05 19:24<br>赞(0) 踩(0) | <div>给一碗也敲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1241508)<br><br>2012-09-04 18:27<br>赞(0) 踩(0) | <div>编曲确实牛掰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5536422)<br><br>2012-09-04 13:13<br>赞(0) 踩(0) | <div>对于这个世界 你是一个麻烦 对于我 你就是整个世界</div> |
@@ -465,12 +465,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/786324)<br>我还没想好要写什么...<br>2011-11-25 13:15<br>赞(0) 踩(0) | <div>为什么没跑调？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3631430)<br><br>2011-10-29 17:53<br>赞(0) 踩(0) | <div>巨喜爱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1619900)<br><br>2011-10-26 11:27<br>赞(0) 踩(0) | <div>对于这个世界/你是一个麻烦/对于我/你就是整个世界</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2677094)<br><br>2011-10-20 15:36<br>赞(0) 踩(0) | <div>对于这个世界你相当的古怪对于我你一点也不奇怪对于这个世界你是一个麻烦对于我你就是整个世界</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2677094)<br><br>2011-10-20 15:35<br>赞(0) 踩(0) | <div>对于这个世界你相当的古怪对于我你一点也不奇怪对于这个世界你是一个麻烦对于我你就是整个世界</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2677094)<br><br>2011-10-20 15:36<br>赞(0) 踩(0) | <div>对于这个世界<br>你相当的古怪<br>对于我<br>你一点也不奇怪<br>对于这个世界<br>你是一个麻烦<br>对于我<br>你就是整个世界</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2677094)<br><br>2011-10-20 15:35<br>赞(0) 踩(0) | <div>对于这个世界<br>你相当的古怪<br>对于我<br>你一点也不奇怪<br><br>对于这个世界<br>你是一个麻烦<br>对于我<br>你就是整个世界</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1357151)<br><br>2011-10-18 22:01<br>赞(0) 踩(0) | <div>对于这个世界你是个麻烦。对于我。你就是整个世界。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/231080)<br><br>2011-10-18 20:41<br>赞(0) 踩(0) | <div>好有调了呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4987303)<br><br>2011-09-30 22:31<br>赞(0) 踩(0) | <div>喜欢,不需要理由</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95952)<br>严肃活泼<br>2011-09-26 16:39<br>赞(0) 踩(0) | <div>对于这个世界，你相当的古怪，对于我，你一点也不奇怪。对于这个世界，你是一个麻烦，对于我，你就是整个世界。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95952)<br>严肃活泼<br>2011-09-26 16:39<br>赞(0) 踩(0) | <div>对于这个世界，你相当的古怪，对于我，你一点也不奇怪。<br><br>对于这个世界，你是一个麻烦，对于我，你就是整个世界。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5641056)<br><br>2011-09-18 21:28<br>赞(0) 踩(0) | <div>男友说这首歌就像他亲自唱给我听的。虽然我不太明白。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/953628)<br><br>2011-09-04 11:49<br>赞(0) 踩(0) | <div>太你妈忧伤了 搭配上纽约的月牙儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428434)<br>Scihâyêtze<br>2011-08-22 00:30<br>赞(0) 踩(0) | <div>对于我，你就是整个世界。</div> |

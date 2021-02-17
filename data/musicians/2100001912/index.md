@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/cda4c7a2e10b951c47881cc91153b7df.jpg)<br>子悦儿](https://i.xiami.com/youdream) | **播放数**: 3015316<br>**粉丝数**: 144<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/cda4c7a2e10b951c47881cc91153b7df.jpg)<br>子悦儿](https://i.xiami.com/youdream) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 3015316<br>**粉丝数**: 144<br>**评论数**: 8<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -20,8 +17,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422791785)<br><br>2020-09-12 01:02<br>赞(0) 踩(0) | <div>❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23274243)<br><br>2020-02-26 13:10<br>赞(0) 踩(0) | <div><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350510518)<br><br>2019-08-09 17:00<br>赞(0) 踩(0) | <div>我怎么就一直单曲呢</div> |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/fbb79cb6cb72b78492b311fab9fca056.jpg)<br>刘鸿](https://i.xiami.com/liuhong) | **播放数**: 3107655<br>**粉丝数**: 427<br>**评论数**: 15<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 电子 Electronic, 浩室舞曲 House, 轻音乐 Easy Listening, 新世纪音乐 New Age<br> |
+| [![](../../images/musicians/fbb79cb6cb72b78492b311fab9fca056.jpg)<br>刘鸿](https://i.xiami.com/liuhong) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 电子 Electronic, 浩室舞曲 House, 轻音乐 Easy Listening, 新世纪音乐 New Age<br>**播放数**: 3107655<br>**粉丝数**: 427<br>**评论数**: 15<br> |
 
 ## 档案
 
@@ -64,9 +64,9 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342453170)<br>80双子。继续艰巨前行✊...<br>2020-06-29 05:08<br>赞(1) 踩(0) | <div>大约听了一篇，几乎每一歌都可以作为练习瑜伽&amp;zwj;♀️的音乐，因为是给人一种很宁静柔和的感觉。不过，我个人嘛，还是比较喜欢有旋律起伏的节奏。这里面的四季四部曲就很不错啦，有着抑扬顿挫的感觉，就像四季的变化。《春日花语》，《夏日骄阳》，《秋日私语》，《冬日恋歌》。</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342453170)<br>80双子。继续艰巨前行✊...<br>2020-06-29 05:08<br>赞(1) 踩(0) | <div>大约听了一篇，几乎每一歌都可以作为练习瑜伽&amp;zwj;♀️的音乐，因为是给人一种很宁静柔和的感觉。<br>不过，我个人嘛，还是比较喜欢有旋律起伏的节奏。这里面的四季四部曲就很不错啦，有着抑扬顿挫的感觉，就像四季的变化。<br>《春日花语》，《夏日骄阳》，《秋日私语》，《冬日恋歌》。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7151428)<br>暖暖的～～<br>2019-09-20 09:47<br>赞(1) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png"> <img src="../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421336987)<br>音乐如诗，音乐如画，陶醉...<br>2019-08-03 14:57<br>赞(3) 踩(0) | <div>刘鸿 出生于四川成都 大学教师 曾先后就读于南京艺术学院、郑州大学、河南大学、韩国高丽大学 KOREA University 曾研学到访： 法国、德国、英国、意大利、瑞士、奥地利、荷兰、比利时、列支敦士登、伊朗、土耳其… 2016 留学回国 2007年中国唱片公司发行 刘鸿古典吉他音乐CD唱片</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/426447390)<br><br>2019-06-24 10:38<br>赞(2) 踩(0) | <div>好听  歌曲优美动听</div> |

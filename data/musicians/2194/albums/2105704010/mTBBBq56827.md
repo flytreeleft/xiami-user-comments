@@ -107,8 +107,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410691999)<br><br>2020-01-29 10:29<br>赞(0) 踩(0) | <div>明亮！清脆！干净的吉他声！跳跃有弹性的声音！值得一听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410691999)<br><br>2020-01-29 10:27<br>赞(0) 踩(0) | <div>李延亮都在！！！！还是吉他</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410691999)<br><br>2020-01-29 10:24<br>赞(0) 踩(0) | <div>嗯嗯上张好几年前了！只出精品</div> |

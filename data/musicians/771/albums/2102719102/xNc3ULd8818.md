@@ -46,8 +46,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351134673)<br>音乐美化生活<br>2020-09-26 15:17<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/435430963)<br><br>2020-08-11 23:15<br>赞(0) 踩(0) | <div>好歌，可惜词更好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442297975)<br><br>2020-05-08 15:49<br>赞(0) 踩(0) | <div>过不去的今天，到不了的明天！海子的一生就这样匆匆而过！</div> |
@@ -102,12 +102,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-16 12:31<br>赞(2) 踩(0) | <div>看到自己喜欢的歌却没什么人听真的是挺难过的一件事。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-16 12:29<br>赞(0) 踩(0) | <div>听的所有歌都是听几遍就腻了，但这首却是第一遍听感觉一般，后来却越来越喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-16 12:28<br>赞(0) 踩(0) | <div>听过的最诗意的一个版本</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-14 13:29<br>赞(0) 踩(0) | <div>3月26日，是著名诗人、北大才子海子纪念日，歌手庞龙演唱的由海子的诗谱曲的音乐作品《面朝大海春暖花开》在多个音乐平台推出，以纪念当代伟大的天才青年诗人海子。据悉，该音乐作品由上海星外星制作，跨界音乐人、北大校友刘川郁谱曲。海子的诗歌《面朝大海春暖花开》流传甚广，众多的诗集转载、众多互联网、自媒体读诗平台都有朗诵。此前，已有《面朝大海春暖花开》不同版本的音乐作品。而庞龙演唱版的《面朝大海春暖花开》系以制作精良著称的音乐发行公司星外星联袂著名音乐人陈沁扬（铁热沁夫）精心打造，金牌品质保障自然更不在话下。该歌曲采用了吉他、大提琴、长笛等乐器的铺垫，舒缓缠绵，却又大起大落、催人泪下。[搜狐新闻]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-14 13:26<br>赞(0) 踩(0) | <div>春天，十个海子全都复活在光明的景色中嘲笑这一野蛮而悲伤的海子你这么长久地沉睡到底是为了什么？&amp;mdash;&amp;mdash;海子《春天，十个海子》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-14 13:29<br>赞(0) 踩(0) | <div>3月26日，是著名诗人、北大才子海子纪念日，歌手庞龙演唱的由海子的诗谱曲的音乐作品《面朝大海春暖花开》在多个音乐平台推出，以纪念当代伟大的天才青年诗人海子。据悉，该音乐作品由上海星外星制作，跨界音乐人、北大校友刘川郁谱曲。海子的诗歌《面朝大海春暖花开》流传甚广，众多的诗集转载、众多互联网、自媒体读诗平台都有朗诵。<br><br>此前，已有《面朝大海春暖花开》不同版本的音乐作品。而庞龙演唱版的《面朝大海春暖花开》系以制作精良著称的音乐发行公司星外星联袂著名音乐人陈沁扬（铁热沁夫）精心打造，金牌品质保障自然更不在话下。该歌曲采用了吉他、大提琴、长笛等乐器的铺垫，舒缓缠绵，却又大起大落、催人泪下。[搜狐新闻]</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-14 13:26<br>赞(0) 踩(0) | <div>春天，十个海子全都复活<br><br>在光明的景色中<br><br>嘲笑这一野蛮而悲伤的海子<br><br>你这么长久地沉睡到底是为了什么？<br><br>&amp;mdash;&amp;mdash;海子《春天，十个海子》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-14 13:10<br>赞(1) 踩(0) | <div>庞龙唱得很好，背景音乐也很好听，伴奏很走心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-14 13:09<br>赞(0) 踩(0) | <div>[我有一所房子 面朝大海 春暖花开]真的是很多人理想的生活，不追赶世俗，安静的生活，一切都风轻云淡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-14 13:08<br>赞(0) 踩(0) | <div>从明天起，做一个幸福的人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-14 13:07<br>赞(0) 踩(0) | <div>陌生人，我也为你祝福愿你有一个灿烂前程</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-14 13:07<br>赞(0) 踩(0) | <div>陌生人，我也为你祝福<br>愿你有一个灿烂前程</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-14 13:07<br>赞(0) 踩(0) | <div>为什么好歌却总是没人听啊，难道现在的人听音乐都是看歌手的人气和颜值听的吗，很喜欢庞龙这样的音乐人，声音和唱法都很好，要比很多唱法单一，歌词老套的人唱的好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-14 13:03<br>赞(1) 踩(0) | <div>歌曲开头的应该是大提琴吧，声音悠扬低沉，像是在为逝去的海子致敬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-14 13:02<br>赞(2) 踩(0) | <div>这首歌真的很好听也很感人，我听完之后莫名就哭了，可能是自己泪点不高</div> |
@@ -162,7 +162,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49487017)<br>仰望星空<br>2017-03-25 02:17<br>赞(2) 踩(0) | <div>听得好尴尬</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277850412)<br>Bigbang is V...<br>2017-04-14 13:21<br>赞(0) 踩(0) | <div>并不觉得尴尬啊，很喜欢海子的诗，也很喜欢这首歌，歌的伴奏满满都是对海子的怀念</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45156092)<br><br>2017-03-24 22:05<br>赞(1) 踩(0) | <div>听着太悲伤了。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40597497)<br>暂无签名~<br>2017-03-24 21:22<br>赞(50) 踩(0) | <div>面朝大海，春暖花开作者：海子从明天起，做一个幸福的人喂马、劈柴，周游世界从明天起，关心粮食和蔬菜我有一所房子，面朝大海，春暖花开从明天起，和每一个亲人通信告诉他们，我的幸福那幸福的闪电告诉我的我将告诉每一个人给每一条河每一座山取一个温暖的名字陌生人，我也为你祝福愿你有一个灿烂的前程愿你有情人终成眷属愿你在尘世获得幸福我只愿面朝大海，春暖花开</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40597497)<br>暂无签名~<br>2017-03-24 21:22<br>赞(50) 踩(0) | <div>面朝大海，春暖花开<br><br>作者：海子<br><br>从明天起，做一个幸福的人<br><br>喂马、劈柴，周游世界<br><br>从明天起，关心粮食和蔬菜<br><br>我有一所房子，面朝大海，春暖花开<br><br>从明天起，和每一个亲人通信<br><br>告诉他们，我的幸福<br><br>那幸福的闪电告诉我的<br><br>我将告诉每一个人<br><br>给每一条河每一座山取一个温暖的名字<br><br>陌生人，我也为你祝福<br><br>愿你有一个灿烂的前程<br><br>愿你有情人终成眷属<br><br>愿你在尘世获得幸福<br><br>我只愿面朝大海，春暖花开</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/221833503)<br><br>2017-03-27 17:39<br>赞(0) 踩(0) | <div>vsnn</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285529987)<br> 喝酱油耍酒疯☞闲的<br>2017-04-03 00:16<br>赞(0) 踩(0) | <div>考虑考虑</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13221202)<br><br>2017-05-18 22:22<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |

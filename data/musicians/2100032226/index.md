@@ -3,7 +3,7 @@ Andy Mei
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/860544a2de7140dd83f8c10df5a33d8e.jpg)<br>Andy Mei](https://i.xiami.com/andymei) | **播放数**: 2693475<br>**粉丝数**: 534<br>**评论数**: 43<br>**地区**: China 中国大陆<br>**风格**: 浩室舞曲 House<br> |
+| [![](../../images/musicians/860544a2de7140dd83f8c10df5a33d8e.jpg)<br>Andy Mei](https://i.xiami.com/andymei) | **地区**: China 中国大陆<br>**风格**: 浩室舞曲 House<br>**播放数**: 2693475<br>**粉丝数**: 534<br>**评论数**: 43<br> |
 
 ## 档案
 
@@ -53,8 +53,8 @@ Andy Mei (梅子杰)，一位疯狂的电子音乐冒险家，来自江苏江阴
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-12-23 07:19<br>赞(0) 踩(0) | <div>43810</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/217823188)<br><br>2020-06-08 23:44<br>赞(0) 踩(0) | <div>優秀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429732797)<br>*面对懒惰的你充满了决心<br>2020-05-21 22:32<br>赞(3) 踩(0) | <div>从ta的很多首歌中，我听出来了我们中国的电音技术正在快速发展中，我们会把中国风的电音继续传播下去，让更多的人能听到我们独一无二的中国风电音！</div> |

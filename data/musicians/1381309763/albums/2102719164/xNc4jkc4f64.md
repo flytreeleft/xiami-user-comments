@@ -22,5 +22,3 @@ And he couldn't get up in the morning
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

@@ -69,8 +69,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/298256495)<br><br>2021-01-16 22:59<br>赞(0) 踩(0) | <div>哈哈哈哈哈！小宝又回来啦！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354940831)<br><br>2021-01-10 13:26<br>赞(0) 踩(0) | <div>陈小春就是&amp;ldquo;韦小宝&amp;rdquo;。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349532065)<br><br>2021-01-02 07:50<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">出去走走</div> |
@@ -87,7 +87,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337486410)<br><br>2020-11-27 22:03<br>赞(4) 踩(0) | <div>最恶心的是张一山版</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410212617)<br>因上努力，果上随缘。<br>2020-11-27 08:03<br>赞(0) 踩(0) | <div>人生经历赋予角色生命</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419548968)<br><br>2020-11-26 10:20<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22791361)<br>我还没想好要写什么...<br>2020-11-22 00:26<br>赞(3) 踩(0) | <div>陈小春的鹿鼎记是我们全家除了康熙微服私访记之外唯二一起看的，那会儿我可能才初中，三个人躺在一起看韦小宝嬉笑怒骂，后来因为一些事情，爸妈的感情越来越差，再也没有在一起和我看过任何电视剧。这版的鹿鼎记对我来说绝对有特殊意义，每次听到主题曲我的内心都带着一点温情。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22791361)<br>我还没想好要写什么...<br>2020-11-22 00:26<br>赞(3) 踩(0) | <div>陈小春的鹿鼎记是我们全家除了康熙微服私访记之外唯二一起看的，那会儿我可能才初中，三个人躺在一起看韦小宝嬉笑怒骂，后来因为一些事情，爸妈的感情越来越差，再也没有在一起和我看过任何电视剧。<br><br>这版的鹿鼎记对我来说绝对有特殊意义，每次听到主题曲我的内心都带着一点温情。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21173727)<br><br>2020-12-19 13:27<br>赞(0) 踩(0) | <div>我和老婆带着儿子一起看过义海豪情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225852727)<br> <br>2020-11-18 20:09<br>赞(0) 踩(0) | <div>经典就是经典！第一次看就觉得会是经典！大爱小春和马老师这对CP！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/107084)<br> <br>2020-11-17 21:28<br>赞(3) 踩(0) | <div>看了张一山的《鹿鼎记》的新闻，特地来听《叱咤红人》和《头顶一片天》</div> |
@@ -106,7 +106,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279705216)<br><br>2020-07-02 08:04<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9335787)<br><br>2020-06-23 22:37<br>赞(0) 踩(0) | <div>超讨厌这人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23479697)<br>轻松又飘逸<br>2020-06-22 00:34<br>赞(1) 踩(0) | <div>这曲风开始有点懵逼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248523482)<br>果果爸～～～<br>2020-06-09 18:45<br>赞(12) 踩(0) | <div>黄日华版《射雕英雄传》黄日华版《天龙八部》古天乐版《神雕侠侣》吴启华版《倚天屠龙记》陈小春版《鹿鼎记》吕颂贤版《笑傲江湖》从此之后再无经典金庸剧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248523482)<br>果果爸～～～<br>2020-06-09 18:45<br>赞(12) 踩(0) | <div>黄日华版《射雕英雄传》<br>黄日华版《天龙八部》<br>古天乐版《神雕侠侣》<br>吴启华版《倚天屠龙记》<br>陈小春版《鹿鼎记》<br>吕颂贤版《笑傲江湖》<br>从此之后再无经典金庸剧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/291506749)<br><br>2020-06-03 17:09<br>赞(6) 踩(0) | <div>做人能瞎蒙就瞎蒙，生活尽量放轻松。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/234738812)<br><br>2020-12-17 08:29<br>赞(0) 踩(0) | <div>张康年说的么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442011024)<br>跌倒再爬起来，继续行好以...<br>2020-06-03 10:11<br>赞(2) 踩(0) | <div>韦小宝我们的小春是一个很好的艺人⋯唱歌也很好听⋯</div> |
@@ -124,7 +124,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275663776)<br><br>2020-04-12 00:27<br>赞(0) 踩(0) | <div>的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213696581)<br><br>2020-04-06 15:27<br>赞(2) 踩(0) | <div>小玄子，你爷爷的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410620402)<br><br>2020-02-26 21:34<br>赞(3) 踩(0) | <div>有谁能像韦小宝那样平步青云呢？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273472635)<br><br>2020-02-24 08:07<br>赞(4) 踩(0) | <div>所以在被催婚的年纪我依然相信属于我的爱情在未来等着我</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273472635)<br><br>2020-02-24 08:07<br>赞(4) 踩(0) | <div>所以<br>在被催婚的年纪<br>我依然相信<br>属于我的爱情<br>在未来等着我</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4855992)<br>我还没想好要写什么...<br>2020-04-16 16:41<br>赞(0) 踩(0) | <div>贵庚？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421593257)<br><br>2020-11-19 15:32<br>赞(0) 踩(0) | <div>关韦小宝p事？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377190081)<br>女人心看不透，只因胸前肉...<br>2020-02-20 01:37<br>赞(6) 踩(0) | <div>他演的韦小宝无法被超越。 <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
@@ -150,7 +150,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337091385)<br><br>2019-11-27 12:14<br>赞(0) 踩(0) | <div>不应该是小玄子和小桂子么 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/226372741)<br>音乐是一场邂逅。<br>2019-11-16 04:23<br>赞(9) 踩(0) | <div>建宁:SM、双儿:女仆、曾柔:邻家、沐剑屏:萝莉、方怡:制服、阿珂:御姐、苏荃:人妻。豆瓣这个评论太他妈经典了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408287261)<br><br>2019-11-15 22:01<br>赞(0) 踩(0) | <div>差点忘了他</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93154158)<br>我还没想好要写什么...<br>2019-11-06 16:58<br>赞(2) 踩(0) | <div>作词居然是张智霖版陆小凤的司空摘星。。。厉害了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93154158)<br>我还没想好要写什么...<br>2019-11-06 16:58<br>赞(2) 踩(0) | <div>作词居然是张智霖版陆小凤的司空摘星。。。<br>厉害了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420093614)<br><br>2019-10-29 21:06<br>赞(2) 踩(0) | <div>作为一个85后 我觉得韦小宝比山鸡还经典..可想而知！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28739054)<br><br>2019-10-25 00:31<br>赞(0) 踩(0) | <div>来了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60895806)<br>我还没想好要写什么...<br>2019-10-16 19:04<br>赞(1) 踩(0) | <div>大功告成 打个啵吧 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
@@ -229,8 +229,8 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/165076830)<br><br>2019-03-26 20:12<br>赞(0) 踩(0) | <div>关键是要一次亲七个啊 <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44371962)<br><br>2019-03-26 20:18<br>赞(0) 踩(0) | <div>她们老公都不同意！ <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376604412)<br>当你孤单的时候，歌曲是你...<br>2019-03-16 21:17<br>赞(0) 踩(0) | <div>卖四十二章经。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42553425)<br><br>2019-03-16 07:59<br>赞(0) 踩(0) | <div>本来心情纠结，刚好演，韦小宝差点被变成太监的部分… <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">这就是喜欢一个人，他随时能让你开心起来…</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361731534)<br><br>2019-03-16 07:25<br>赞(0) 踩(0) | <div>年少沉迷大侠梦，因缘际会，武功精进，行侠仗义，家国情怀，…长大了，才知道活成小宝才最真实，那有那么多爱恨情仇，人生如戏，开心就好。老子凭什么为别人开心而自己难受呢？！在别人的武侠中快意，看完了，回到自己的生活。别弄混了，咱们还是一夫一妻制。还有，杀人犯法。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42553425)<br><br>2019-03-16 07:59<br>赞(0) 踩(0) | <div>本来心情纠结，刚好演，韦小宝差点被变成太监的部分… <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"><br>这就是喜欢一个人，他随时能让你开心起来…</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361731534)<br><br>2019-03-16 07:25<br>赞(0) 踩(0) | <div>年少沉迷大侠梦，<br>因缘际会，武功精进，行侠仗义，家国情怀，…<br>长大了，才知道活成小宝才最真实，<br>那有那么多爱恨情仇，人生如戏，开心就好。<br>老子凭什么为别人开心而自己难受呢？！<br><br>在别人的武侠中快意，<br>看完了，回到自己的生活。<br>别弄混了，咱们还是一夫一妻制。<br>还有，杀人犯法。<br><br>。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42553425)<br><br>2019-03-16 07:37<br>赞(0) 踩(0) | <div>看，我说你想娶双儿，因为她能帮你打理媳妇儿吧 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299101293)<br>抹去多少血汗   印证多...<br>2019-03-14 00:22<br>赞(0) 踩(0) | <div>厉害</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299101293)<br>抹去多少血汗   印证多...<br>2019-03-13 08:07<br>赞(1) 踩(0) | <div>经典就是经典</div> |
@@ -309,7 +309,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1736735)<br> <br>2018-10-31 10:38<br>赞(0) 踩(0) | <div>小宝就此别过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/224845908)<br>真正经典都是80.90年...<br>2018-10-31 07:12<br>赞(0) 踩(0) | <div>金庸千秋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203261878)<br><br>2018-10-31 00:09<br>赞(0) 踩(0) | <div>查老一路走好，感谢为我们书写出了一个江湖 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300991508)<br> <br>2018-10-31 00:07<br>赞(1) 踩(0) | <div>飞雪连天射白鹿，笑书神侠倚碧鸳先生走好~</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300991508)<br> <br>2018-10-31 00:07<br>赞(1) 踩(0) | <div>飞雪连天射白鹿，笑书神侠倚碧鸳<br><br>先生走好~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3903070)<br><br>2018-10-30 21:27<br>赞(2) 踩(0) | <div>大师去了忍不住拿出来再看再听一遍</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344067411)<br>我们正在活着。<br>2018-10-30 20:53<br>赞(2) 踩(0) | <div>您老走好，金庸全集有生之年会无数次拜读。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2018-10-30 19:41<br>赞(3) 踩(0) | <div>金庸先生千古</div> |
@@ -333,7 +333,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190769679)<br>无能而又没有毅力的人，周...<br>2018-10-01 09:12<br>赞(0) 踩(0) | <div>997</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128700056)<br>我还没想好要写什么...<br>2018-10-01 00:26<br>赞(3) 踩(0) | <div>现在哪里还拍得出这样经典的电视剧？我们80后真的还是算幸福的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54942459)<br>成名在望！<br>2018-09-30 16:57<br>赞(1) 踩(0) | <div>陈小春版鹿鼎记小剧场好评</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346142183)<br><br>2018-09-25 18:33<br>赞(0) 踩(0) | <div>kf5</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346142183)<br><br>2018-09-25 18:33<br>赞(0) 踩(0) | <div>k<br>f5</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346142183)<br><br>2018-09-25 18:32<br>赞(0) 踩(0) | <div>dx mhdfb0vf9lm688i,  gh85h</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402311454)<br><br>2018-09-24 14:04<br>赞(0) 踩(0) | <div>小宝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282821205)<br><br>2018-09-23 08:04<br>赞(1) 踩(0) | <div>牛的不是这些演员。是tvb。陈浩民的哪吒，欧阳震华的包青天，</div> |
@@ -351,7 +351,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349236392)<br>我还没想好要写什么...<br>2018-09-08 21:55<br>赞(5) 踩(0) | <div>小流氓变叱咤红人，哈哈 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png">02年的天津开发区，下了班总喜欢在周围的工厂转一圈再回去听这版精彩篇。想自己也能从老实巴交变成圆滑的小宝，最后才发现，韦小宝也就只有陈小春一个。哈哈，什么时候再有时间回去追忆一下自己的青春，期待！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205900416)<br>一个人的房间，一个人的音...<br>2018-09-07 09:44<br>赞(1) 踩(0) | <div>陈小春版韦小宝 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401888861)<br><br>2018-09-06 18:03<br>赞(2) 踩(0) | <div>封面是认真的吗</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356580607)<br><br>2018-09-03 22:44<br>赞(2) 踩(0) | <div>小时候觉得阿珂最美，现在还是觉得阿珂最美。要娶老婆，还是双儿吧。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356580607)<br><br>2018-09-03 22:44<br>赞(2) 踩(0) | <div>小时候觉得阿珂最美，现在还是觉得阿珂最美。<br>要娶老婆，还是双儿吧。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284259896)<br><br>2018-09-06 20:12<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310641348)<br>   音樂，让我的生活变...<br>2018-09-03 20:59<br>赞(1) 踩(0) | <div>寻找我姐陈晓彩弟段譽   &amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/147837164)<br><br>2018-09-03 14:12<br>赞(6) 踩(0) | <div>韦小宝原本就是丑丑的坏坏的痞痞的，别的版本脱离原著，帅的过分了。</div> |
@@ -362,7 +362,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211912217)<br>我一个人吃饭旅行 到处走...<br>2018-08-14 12:47<br>赞(1) 踩(0) | <div>小宝好可爱好好玩的 <img src="../../../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211912217)<br>我一个人吃饭旅行 到处走...<br>2018-08-14 12:47<br>赞(1) 踩(0) | <div>好激动 鹿鼎记啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401319048)<br><br>2018-08-14 01:13<br>赞(2) 踩(0) | <div>这个版本的老婆都是最经典的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329920718)<br><br>2018-08-11 09:23<br>赞(1) 踩(0) | <div>9 96969</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329920718)<br><br>2018-08-11 09:23<br>赞(1) 踩(0) | <div>9 96<br>9<br>6<br><br>9</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77528558)<br> <br>2018-08-10 15:52<br>赞(1) 踩(0) | <div>那个时代香港无论电影还是电视剧都是精品</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353950919)<br><br>2018-08-09 22:12<br>赞(11) 踩(0) | <div>陈小春版我看了29遍以上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275663776)<br><br>2018-08-09 12:47<br>赞(1) 踩(0) | <div>啊粉末</div> |
@@ -384,7 +384,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30453417)<br>我还没想好要写什么...<br>2018-07-23 04:04<br>赞(1) 踩(0) | <div>搞定横店做人最易.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121873786)<br><br>2018-07-18 23:19<br>赞(3) 踩(0) | <div>还是这个版本的韦小宝有意思，陈小春好棒！ <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368930451)<br>音乐，牵动我的喜怒哀乐…...<br>2018-07-13 02:58<br>赞(1) 踩(0) | <div>看千遍也不会厌！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37399835)<br>精いっぱい青春を謳歌する...<br>2018-07-09 01:08<br>赞(13) 踩(0) | <div>杨溢之（用斧头指一个侍卫）：把这个人抓走给给架！韦小宝（摆手）：他不好架！杨溢之（用斧头指多隆）：这个人好架！韦小宝（摆手）：他也不好架！不好架！杨溢之：你好不好架！韦小宝（故作恐惧）：我不好架！不好架！（杨溢之假装一斧子砍中韦小宝，韦小宝没事）杨溢之：你是神仙，不能架！韦小宝（指着郑克爽）：他好架！他好架！杨溢之和平西王府众人（抓起郑克爽抬走出庙）：给给架！给给架！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37399835)<br>精いっぱい青春を謳歌する...<br>2018-07-09 01:08<br>赞(13) 踩(0) | <div>杨溢之（用斧头指一个侍卫）：把这个人抓走给给架！<br>韦小宝（摆手）：他不好架！<br>杨溢之（用斧头指多隆）：这个人好架！<br>韦小宝（摆手）：他也不好架！不好架！<br>杨溢之：你好不好架！<br>韦小宝（故作恐惧）：我不好架！不好架！<br>（杨溢之假装一斧子砍中韦小宝，韦小宝没事）<br>杨溢之：你是神仙，不能架！<br>韦小宝（指着郑克爽）：他好架！他好架！<br>杨溢之和平西王府众人（抓起郑克爽抬走出庙）：给给架！给给架！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40853377)<br>If you love ...<br>2018-07-08 18:55<br>赞(3) 踩(0) | <div>初中二年级天天追剧鹿鼎记，买了陈小春这张专辑，里面的有首歌恋爱流感还有马桶真是满满的青涩回忆，PS:鹿鼎记陈小春主演最好看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284639844)<br><br>2018-07-04 22:32<br>赞(3) 踩(0) | <div>有事就韦小宝，没事就将我扫 <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"> <img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353475245)<br><br>2018-07-01 18:39<br>赞(6) 踩(0) | <div>好兄弟，讲义气，你爷爷的</div> |
@@ -450,7 +450,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305394410)<br>No pains αnd...<br>2018-03-19 08:44<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332978852)<br><br>2018-03-19 01:39<br>赞(1) 踩(0) | <div>好兄弟，讲义气！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138006548)<br>凭虚御风<br>2018-03-16 16:46<br>赞(3) 踩(0) | <div>想起徐大哥常常称赞，韦香主深不可测 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292982198)<br>一阙歌一故事，一旋律一心...<br>2018-03-16 12:02<br>赞(0) 踩(0) | <div>打麻雀时会不自觉地唱出来智慧！加d气势！！等下！！碰！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/292982198)<br>一阙歌一故事，一旋律一心...<br>2018-03-16 12:02<br>赞(0) 踩(0) | <div>打麻雀时会不自觉地唱出来<br>智慧！加d气势！！等下！！碰！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43864595)<br>一叶绽放一追寻，一花盛开...<br>2018-03-15 19:03<br>赞(2) 踩(0) | <div>听了这些TVB的主题曲和插曲就想去追剧，有木有 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335418232)<br> <br>2018-03-15 17:43<br>赞(1) 踩(0) | <div>喜欢你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353746749)<br><br>2018-03-14 01:34<br>赞(0) 踩(0) | <div>是ooz</div> |
@@ -460,7 +460,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94895090)<br> <br>2018-05-06 21:00<br>赞(0) 踩(0) | <div>如果说现在那肯定是公主最好啊。适合懒人</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376900224)<br><br>2018-06-27 17:25<br>赞(0) 踩(0) | <div>原著里双儿就是小宝的性奴。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282546865)<br>我养的狗B.K是个老废吊...<br>2018-07-20 16:49<br>赞(0) 踩(0) | <div>我小时候就已觉得双儿最美 长大以后才发现阿珂的美 的确很美 但最喜欢的始终还是好双儿啊。。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329920718)<br><br>2018-08-11 09:22<br>赞(0) 踩(0) | <div>么69 99.99 9</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329920718)<br><br>2018-08-11 09:22<br>赞(0) 踩(0) | <div>么69 99.9<br><br>9 9</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346142183)<br><br>2018-09-25 18:30<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251585739)<br><br>2018-10-09 16:30<br>赞(0) 踩(0) | <div>我倒是喜欢小郡主！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/404469795)<br><br>2018-10-28 03:16<br>赞(0) 踩(0) | <div><q><b>乱世浮尘说：</b></q></div> |
@@ -480,7 +480,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335590571)<br>多愁善感回不到从前，可我...<br>2019-07-09 19:49<br>赞(0) 踩(0) | <div>前些年一公司看见女同事挺像阿珂的！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338244686)<br> <br>2019-07-26 23:57<br>赞(0) 踩(0) | <div>双儿和阿珂是小宝的真爱</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411453544)<br>你需要时总有我在<br>2019-08-29 00:16<br>赞(0) 踩(0) | <div>我也这么认为</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376547559)<br><br>2019-12-15 00:04<br>赞(0) 踩(0) | <div>+1小时候感觉阿珂惊为天人现在反而不觉得了</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376547559)<br><br>2019-12-15 00:04<br>赞(0) 踩(0) | <div>+1小时候感觉阿珂惊为天人<br>现在反而不觉得了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296695430)<br>这家伙很聪明什么也没留下...<br>2020-01-02 01:14<br>赞(0) 踩(0) | <div>所以说：人不可能两次踏入同一条河流。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/432075946)<br>独乐乐不如众乐乐<br>2020-04-22 06:52<br>赞(0) 踩(0) | <div>男人啊哈哈，阿珂有个性虽然有点冲动</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314125502)<br><br>2020-09-04 23:49<br>赞(0) 踩(0) | <div>双耳和小宝的不是爱情&amp;hellip;&amp;hellip;</div> |
@@ -1062,7 +1062,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71997502)<br>一个e.so的脑残粉.<br>2016-08-05 16:18<br>赞(1) 踩(0) | <div>[文字up]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3619853)<br> <br>2016-08-03 22:53<br>赞(6) 踩(0) | <div>小学生时代，通过这首歌，认识了叱咤两个字。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7886000)<br><br>2016-08-03 18:55<br>赞(0) 踩(0) | <div>Omg I listened to this 15 yrs ago!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19791067)<br>call me Zyra<br>2016-07-27 23:46<br>赞(1) 踩(0) | <div>加点智慧 加点气势 想要世界掉转 亦未系难事痛快爱恨百千次将世界骗局拆开 我有我地我海 自自在在全合意啊 可惜录不出陈小春的感脚啊！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19791067)<br>call me Zyra<br>2016-07-27 23:46<br>赞(1) 踩(0) | <div>加点智慧 加点气势 想要世界掉转 亦未系难事<br>痛快爱恨百千次<br>将世界骗局拆开 我有我地我海 自自在在全合意<br>啊 可惜录不出陈小春的感脚啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200678444)<br>只是想对得起自己的良心，...<br>2016-07-23 20:19<br>赞(10) 踩(0) | <div>大功告成，亲个嘴儿吧。韦香主，果然高深莫测。小玄子，你是我最好的朋友。玄桂万岁。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3298643)<br>會有那麽一天...<br>2016-07-14 22:06<br>赞(1) 踩(0) | <div>小宝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168086682)<br>生活圈極度狹窄的北漂.<br>2016-07-14 15:42<br>赞(8) 踩(0) | <div>你爷爷的...</div> |
@@ -1072,7 +1072,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/165874866)<br>虾米总是一如既往的温暖。<br>2016-06-28 17:33<br>赞(4) 踩(0) | <div>最喜欢双儿，好乖的。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90430938)<br>暂无签名~<br>2016-06-06 11:56<br>赞(1) 踩(0) | <div>这个封面很醉啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12069709)<br>爱听音乐<br>2016-06-04 22:52<br>赞(3) 踩(0) | <div>最痞的小宝</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28439026)<br>我还没想好要写什么...<br>2016-06-01 16:11<br>赞(1) 踩(0) | <div>洞里去，钻到洞里去，其中难取舍！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28439026)<br>我还没想好要写什么...<br>2016-06-01 16:11<br>赞(1) 踩(0) | <div>洞里去，钻到洞里去，<br>其中难取舍！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37203895)<br><br>2016-05-24 23:49<br>赞(0) 踩(0) | <div>^_^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1231812)<br>我还没想好要写什么...<br>2016-05-22 21:56<br>赞(16) 踩(0) | <div>那康熙真是帅哭我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11225504)<br>活捉一只朴灿烈耶<br>2016-05-21 19:26<br>赞(39) 踩(0) | <div>噢全剧把我迷得最惨的是康熙 马浚伟？帅晕小学生。。。</div> |
@@ -1080,7 +1080,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/123380248)<br><br>2016-05-18 17:38<br>赞(3) 踩(0) | <div>你爷爷的，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/153882154)<br><br>2016-05-15 21:07<br>赞(3) 踩(0) | <div>加点咖喱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15515797)<br> <br>2016-05-10 07:30<br>赞(2) 踩(0) | <div>终于知道这首歌叫什么名字了。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6293759)<br>愛真善美  审视欲望  ...<br>2016-04-27 07:30<br>赞(12) 踩(0) | <div>你唱《难念的经》我唱《叱咤红人》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6293759)<br>愛真善美  审视欲望  ...<br>2016-04-27 07:30<br>赞(12) 踩(0) | <div>你唱《难念的经》<br>我唱《叱咤红人》</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212247306)<br><br>2016-08-15 17:32<br>赞(0) 踩(0) | <div>nb</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6293759)<br>愛真善美  审视欲望  ...<br>2016-08-15 21:52<br>赞(0) 踩(0) | <div><q><b>我是人说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50004294)<br>每一首音乐，都是一个回忆...<br>2016-04-24 23:46<br>赞(2) 踩(0) | <div>以前理解成只要你一切放尽狗胆式</div> |
@@ -1120,7 +1120,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/507963)<br>当你不能够再拥有时，唯一...<br>2016-04-05 12:35<br>赞(0) 踩(0) | <div><q><b>打不过就跑的妖童说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10813478)<br>黑白分明该杀就杀<br>2015-11-08 20:00<br>赞(0) 踩(0) | <div>金属党必备</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19040766)<br>人生没有回头路<br>2015-11-03 17:13<br>赞(1) 踩(0) | <div>想起他风骚的表情</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2375136)<br>暂无签名~<br>2015-11-02 22:04<br>赞(9) 踩(0) | <div>《鹿鼎记》片头曲鹿鼎记只认这一版</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2375136)<br>暂无签名~<br>2015-11-02 22:04<br>赞(9) 踩(0) | <div>《鹿鼎记》片头曲<br>鹿鼎记只认这一版</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43429664)<br>tobu的曲子听了真的很...<br>2015-10-30 15:58<br>赞(2) 踩(0) | <div>这个版本的韦小宝。我最喜欢的。那种鬼机灵，真是被演出来了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77482438)<br>做个好人<br>2015-10-29 02:18<br>赞(0) 踩(0) | <div>不小心听到-卧槽这不是鹿鼎记么 <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2772778)<br>清风脱然至，见别萧艾中<br>2015-10-16 22:53<br>赞(0) 踩(0) | <div>歌写的也好贴切</div> |
@@ -1313,7 +1313,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1643098)<br><br>2013-03-23 10:58<br>赞(0) 踩(0) | <div>经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1237930)<br>我还没想好要写什么...<br>2013-03-21 12:30<br>赞(0) 踩(0) | <div>重温鹿鼎记后再来mark下，百看不厌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3696705)<br>“我叫苗子！”<br>2013-03-07 23:47<br>赞(0) 踩(0) | <div>陈小春版《鹿鼎记》主题曲，经典回忆</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5498472)<br>你是浪子，别泊岸。<br>2013-02-23 22:34<br>赞(0) 踩(0) | <div>智慧 加的氣勢即使世界掉轉 亦是極間事</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5498472)<br>你是浪子，别泊岸。<br>2013-02-23 22:34<br>赞(0) 踩(0) | <div>智慧 加的氣勢<br>即使世界掉轉 亦是極間事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11829751)<br>Ai设计。。。<br>2013-01-31 21:10<br>赞(0) 踩(0) | <div>擦，原来是这首歌。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4897241)<br>我一直是一个很拉轰的银~<br>2013-01-17 10:59<br>赞(0) 踩(0) | <div>【鹿鼎记】主题曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12321461)<br>201314<br>2013-01-09 21:23<br>赞(0) 踩(0) | <div>小宝</div> |
@@ -1332,7 +1332,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3335375)<br>快阻止我音箱的冲动<br>2012-11-12 13:29<br>赞(0) 踩(0) | <div>鹿鼎记哈哈哈   晚上回去看两集！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10422162)<br><br>2012-11-05 14:44<br>赞(0) 踩(0) | <div>鹿鼎记</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8256325)<br><br>2012-11-02 16:12<br>赞(0) 踩(0) | <div>略耳熟。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7433)<br><br>2012-10-28 12:15<br>赞(0) 踩(0) | <div>時運會低 若我翻轉一切運氣發揮 全部會上位</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7433)<br><br>2012-10-28 12:15<br>赞(0) 踩(0) | <div>時運會低 若我翻轉一切<br>運氣發揮 全部會上位</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11009889)<br><br>2012-10-27 19:25<br>赞(0) 踩(0) | <div>现发布俺船主题曲《叱咤红人》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10560368)<br><br>2012-10-25 20:36<br>赞(0) 踩(0) | <div>做我最潇洒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6580357)<br><br>2012-10-21 23:09<br>赞(0) 踩(0) | <div>韦小宝！</div> |
@@ -1342,7 +1342,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3083305)<br><br>2012-10-06 16:06<br>赞(0) 踩(0) | <div>港版鹿鼎记</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9757939)<br><br>2012-09-28 20:40<br>赞(0) 踩(0) | <div>#每晚一首BGM#每晚？？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1250253)<br>唯有爱和音乐不可辜负<br>2012-09-23 16:54<br>赞(0) 踩(0) | <div>韦小宝</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1448513)<br>不用跟我说我只会妄想<br>2012-09-17 19:03<br>赞(0) 踩(0) | <div>時運最高時運會低</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1448513)<br>不用跟我说我只会妄想<br>2012-09-17 19:03<br>赞(0) 踩(0) | <div>時運最高<br>時運會低</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1250253)<br>唯有爱和音乐不可辜负<br>2012-09-10 21:04<br>赞(0) 踩(0) | <div>经典的《鹿鼎记》经典的陈小春</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7012586)<br><br>2012-09-09 19:57<br>赞(0) 踩(0) | <div>歌词真他娘的好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7012586)<br><br>2012-09-09 19:57<br>赞(0) 踩(0) | <div>00</div> |
@@ -1355,7 +1355,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9253177)<br><br>2012-05-28 21:01<br>赞(0) 踩(0) | <div>小宝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8098501)<br><br>2012-05-11 11:03<br>赞(0) 踩(0) | <div>聽了就高興。。high歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6848667)<br><br>2012-05-04 22:49<br>赞(0) 踩(0) | <div>怀旧帖~陈小春也嫩过的涅~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4971843)<br><br>2012-04-09 14:53<br>赞(0) 踩(0) | <div>还记得还记得吗！！？？守在电视机前期待这首歌的想起！小宝！【求其橫掂做人最易搭夠當真自然之至小流氓變叱咤紅人攪攪震便當真時運最高任佢天冧落嚟自會有新計時運會低若我翻轉一切運氣發揮全部會上位智慧加的氣勢即使世界掉轉亦是極間事加的放肆 加的創意一身充滿少壯傲氣】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4971843)<br><br>2012-04-09 14:53<br>赞(0) 踩(0) | <div>还记得还记得吗！！？？守在电视机前期待这首歌的想起！小宝！【求其橫掂做人最易<br>搭夠當真自然之至<br>小流氓變叱咤紅人<br>攪攪震便當真<br>時運最高任佢天冧落嚟<br>自會有新計<br>時運會低若我翻轉一切<br>運氣發揮全部會上位<br>智慧加的氣勢<br>即使世界掉轉亦是極間事<br>加的放肆 加的創意<br>一身充滿少壯傲氣】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3660673)<br><br>2012-03-27 16:24<br>赞(0) 踩(0) | <div>鹿鼎记~~~估计大家太熟悉了吧~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1878618)<br>就这么多，拿去吧<br>2012-03-12 10:34<br>赞(0) 踩(0) | <div>喜欢就是喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7802431)<br><br>2012-02-06 21:48<br>赞(0) 踩(0) | <div>还记得这个吗？？？</div> |
@@ -1371,7 +1371,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3408948)<br><br>2011-11-08 20:54<br>赞(0) 踩(0) | <div>陈小春《鹿鼎记》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5539139)<br><br>2011-10-28 11:08<br>赞(0) 踩(0) | <div>陈小春版的鹿鼎记真是很好看～主题曲也特别好听，有些痞气！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305260)<br><br>2011-10-25 11:33<br>赞(0) 踩(0) | <div>陈小春版《鹿鼎记》主题曲</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/950043)<br><br>2011-10-10 13:56<br>赞(0) 踩(0) | <div>电视剧《鹿鼎记》主题曲1998年陈小春版鹿鼎记</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/950043)<br><br>2011-10-10 13:56<br>赞(0) 踩(0) | <div>电视剧《鹿鼎记》主题曲<br>1998年陈小春版鹿鼎记</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/636491)<br>Bad...Bad......<br>2011-10-08 14:26<br>赞(0) 踩(0) | <div>98《鹿鼎记》很俏皮~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/494984)<br> <br>2011-09-24 00:55<br>赞(0) 踩(0) | <div>《鹿鼎记》主题曲</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1670309)<br><br>2011-08-31 22:06<br>赞(0) 踩(0) | <div>小宝</div> |
@@ -1387,4 +1387,4 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/475651)<br><br>2011-02-11 14:27<br>赞(0) 踩(0) | <div>经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2380962)<br>我还没想好要写什么...<br>2011-01-08 23:11<br>赞(0) 踩(0) | <div>鹿鼎记</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354023)<br><br>2010-01-29 09:18<br>赞(0) 踩(0) | <div>鹿鼎记 1998 陈小春。 居然没有这首歌。我心中，陈小春就是韦小宝。除了年纪稍大一些。ps马浚伟在这部片就担当主角，熬了这么多年，还没出头啊。。又ps，里面演方怡的就是陈奕迅老婆。。</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54868)<br> <br>2010-02-24 15:50<br>赞(0) 踩(0) | <div>“里面演方怡的就是陈奕迅老婆。。”----我去深深Google了一把……</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54868)<br> <br>2010-02-24 15:50<br>赞(0) 踩(0) | <div>“里面演方怡的就是陈奕迅老婆。。”<br>----<br>我去深深Google了一把……</div> |

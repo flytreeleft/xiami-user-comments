@@ -56,8 +56,8 @@ Last Chorus:<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414836837)<br><br>2019-04-06 17:03<br>赞(0) 踩(0) | <div>喜欢蔡淳佳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356671857)<br><br>2018-04-29 00:29<br>赞(0) 踩(0) | <div>很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288359154)<br> <br>2018-01-03 03:01<br>赞(2) 踩(0) | <div>好</div> |
@@ -69,7 +69,7 @@ Last Chorus:<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3586271)<br><br>2017-09-21 14:20<br>赞(1) 踩(0) | <div>是回归最简单最纯粹的吉他配器，将&amp;ldquo;自我&amp;rdquo;这个主题，剖析的更为透彻，更深入人心。蔡淳佳在这首歌里，将面对自己、面对社会给自己各种标签的内心挣扎与冲突感受，传达的淋漓尽致。我们在日常中，为生活工作忙碌奔波，习惯伪装真实的自己，有时连爱一个人都显得不够勇敢。人往往忘了自己的快乐应该是为了自己，不是为了迎合别人的观感，不爱自己，又怎么能去爱别人呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/139554894)<br>一个不怕自己世界太自由的...<br>2017-08-24 20:36<br>赞(0) 踩(0) | <div>总觉得伴奏和kelly的paper hearts有一点点像&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285718421)<br><br>2017-08-24 10:42<br>赞(1) 踩(0) | <div>终于 好好听 希望多出新歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313762892)<br>“喜欢接触不同风格的音乐...<br>2017-08-07 12:32<br>赞(5) 踩(0) | <div>&amp;quot;快乐其实不是要给谁看&amp;quot;&amp;quot;拥抱太晚遗憾生长&amp;quot;说好的坦然相对在这世界总多处做所谓的包装自我到最后连自己都看不清自己我是谁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313762892)<br>“喜欢接触不同风格的音乐...<br>2017-08-07 12:32<br>赞(5) 踩(0) | <div>&amp;quot;快乐其实不是要给谁看&amp;quot;<br>&amp;quot;拥抱太晚遗憾生长&amp;quot;<br>说好的坦然相对<br>在这世界总多处做所谓的包装自我<br>到最后连自己都看不清自己<br>我是谁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3504114)<br><br>2017-08-03 17:26<br>赞(1) 踩(0) | <div>现在的无损音质图标是灰色的了吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95073466)<br>只愿人生长路，深情不再枉...<br>2017-07-26 17:54<br>赞(4) 踩(0) | <div>蔡淳佳啊，始终没有大火，依恋，隐形纪念，要幸福啊，陪我看日出，还好，还在唱，喜欢她的声音，很干净，温柔又坚强。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/169842062)<br>EXO的小迷妹<br>2017-07-22 10:51<br>赞(1) 踩(0) | <div>总是让标签贴住那翅膀 连去爱都变得不够勇敢，有多少人是这样的</div> |

@@ -3,7 +3,7 @@ FKJ
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0ca4e9bcdda8bb1c7d9a1126ad06d495.png)<br>FKJ](https://i.xiami.com/fkj) | **播放数**: 32135398<br>**粉丝数**: 29391<br>**评论数**: 715<br>**地区**: France 法国<br>**风格**: 爵士 Jazz, 放克 Funk, 缓拍 Downtempo<br> |
+| [![](../../images/musicians/0ca4e9bcdda8bb1c7d9a1126ad06d495.png)<br>FKJ](https://i.xiami.com/fkj) | **地区**: France 法国<br>**风格**: 爵士 Jazz, 放克 Funk, 缓拍 Downtempo<br>**播放数**: 32135398<br>**粉丝数**: 29391<br>**评论数**: 715<br> |
 
 ## 档案
 
@@ -62,8 +62,8 @@ Futuristically Classy, French Kiwi Juice. Better known by the abbreviation FKJ, 
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45326757)<br> <br>2021-01-05 21:44<br>赞(1) 踩(0) | <div>再见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38522779)<br> <br>2020-12-18 10:09<br>赞(0) 踩(0) | <div>什么时候来上海！！好想看现场啊啊啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374310)<br>偏见比无知离真理更远。<br>2020-12-08 19:37<br>赞(0) 踩(0) | <div>嘿嘿</div> |
@@ -73,7 +73,7 @@ Futuristically Classy, French Kiwi Juice. Better known by the abbreviation FKJ, 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110088060)<br>作为报答、我吔给泥放点、...<br>2020-10-13 20:06<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121702052)<br>超脱<br>2020-09-14 09:30<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317179560)<br>虾米，我爱你<br>2020-08-31 01:44<br>赞(1) 踩(0) | <div>法    国    奇    异    果    汁 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317179560)<br>虾米，我爱你<br>2020-08-31 01:40<br>赞(1) 踩(0) | <div>ＦＲｅｎｃｈＫＩＷｉＪＵｉｃｅ</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317179560)<br>虾米，我爱你<br>2020-08-31 01:40<br>赞(1) 踩(0) | <div>ＦＲｅｎｃｈ<br>ＫＩＷｉ<br>ＪＵｉｃｅ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71367374)<br>Feel sorry f...<br>2020-07-13 00:48<br>赞(0) 踩(0) | <div>2020有中国场吗 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7206504)<br>一天两包中南海<br>2020-07-10 17:49<br>赞(0) 踩(0) | <div>J. Cole 孪生兄弟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353378425)<br>停用<br>2020-06-17 23:40<br>赞(0) 踩(0) | <div>dd</div> |
@@ -87,7 +87,7 @@ Futuristically Classy, French Kiwi Juice. Better known by the abbreviation FKJ, 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14287701)<br>你又来偷看我了<br>2020-03-04 05:27<br>赞(0) 踩(0) | <div>滴滴哒哒嘟嘟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340903899)<br>我还没想好要写什么...<br>2020-02-15 17:30<br>赞(1) 踩(0) | <div>，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351500958)<br> <br>2020-02-09 07:35<br>赞(0) 踩(0) | <div>ｕＯｏｓ课</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351500958)<br> <br>2020-02-09 07:01<br>赞(0) 踩(0) | <div>You are我们自在我是</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351500958)<br> <br>2020-02-09 07:01<br>赞(0) 踩(0) | <div>You are<br>我们自<br>在我是</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351500958)<br> <br>2020-02-09 06:57<br>赞(0) 踩(0) | <div>I'm just</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351500958)<br> <br>2020-02-09 06:57<br>赞(0) 踩(0) | <div><a href="http://emumo.xiami.com/u/47399121" target="_blank" rel="nofollow" name_card="47399121">@OGMC乐队</a>  I</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/115793504)<br>一生追逐浪漫和自由<br>2020-02-04 17:03<br>赞(0) 踩(0) | <div>好听的音乐迟早相遇</div> |
@@ -96,9 +96,9 @@ Futuristically Classy, French Kiwi Juice. Better known by the abbreviation FKJ, 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16396509)<br><br>2020-01-07 15:24<br>赞(1) 踩(0) | <div>音乐界制造多巴胺第一人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121702052)<br>超脱<br>2020-01-02 07:06<br>赞(0) 踩(0) | <div>:)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429551782)<br><br>2019-12-20 08:35<br>赞(0) 踩(0) | <div>就是出歌进度太慢了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71367374)<br>Feel sorry f...<br>2019-12-10 12:46<br>赞(2) 踩(0) | <div>该死的男人没一首不好听的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71367374)<br>Feel sorry f...<br>2019-12-10 12:46<br>赞(2) 踩(0) | <div>该死的男人<br>没一首不好听的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356763773)<br>我还没想好要写什么...<br>2019-12-07 02:08<br>赞(0) 踩(0) | <div>~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379607955)<br>下次见面抱抱我吧。<br>2019-11-24 22:38<br>赞(2) 踩(0) | <div>_░▒███████░██▓▒░░▒▓████▓▒░__░▒▓██___████████▓▒░____░▓███▓__░▒▓████▓▒░___░▓██▓_____░▒▓████▓▒░_______________░▒▓██_██▓▒░______________░▒▓██__██▓▒░____________░▒▓██___██▓▒░__________░▒▓██____██▓▒░________░▒▓██_____██▓▒░_____░▒▓██______██▓▒░__░▒▓██_______█▓▒░░▒▓██_________░▒▓██_______░▒▓██</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379607955)<br>下次见面抱抱我吧。<br>2019-11-24 22:38<br>赞(2) 踩(0) | <div>_░▒███████<br>░██▓▒░░▒▓██<br>██▓▒░__░▒▓██___██████<br>██▓▒░____░▓███▓__░▒▓██<br>██▓▒░___░▓██▓_____░▒▓██<br>██▓▒░_______________░▒▓██<br>_██▓▒░______________░▒▓██<br>__██▓▒░____________░▒▓██<br>___██▓▒░__________░▒▓██<br>____██▓▒░________░▒▓██<br>_____██▓▒░_____░▒▓██<br>______██▓▒░__░▒▓██<br>_______█▓▒░░▒▓██<br>_________░▒▓██<br>_______░▒▓██</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16603950)<br>我还没想好要写什么...<br>2019-11-17 04:08<br>赞(2) 踩(0) | <div><img src="../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png">let it flow</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423211684)<br>我还没想好要写什么...<br>2019-10-23 11:58<br>赞(1) 踩(0) | <div>元气补给 /</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424260895)<br>非专业音乐爱好者<br>2019-09-23 17:03<br>赞(2) 踩(0) | <div>fkj Alinabaraz NickiMinaj有生之年你们会合作吗</div> |
@@ -107,7 +107,7 @@ Futuristically Classy, French Kiwi Juice. Better known by the abbreviation FKJ, 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91828608)<br>ᴊᴏᴜʀɴᴇʏ ᴇɴᴏᴜ...<br>2019-08-29 21:05<br>赞(1) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118122530)<br>我还没想好要写什么...<br>2019-08-29 08:58<br>赞(0) 踩(0) | <div><img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379607955)<br>下次见面抱抱我吧。<br>2019-08-25 00:24<br>赞(0) 踩(0) | <div>曲曲经典</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311176115)<br>这家伙超级超级超级聪明帅...<br>2019-08-20 12:23<br>赞(4) 踩(0) | <div>看过FKJ的Live你就知道了什么叫现场乐器转换的流畅度 <img src="../../images/comments/aa870edd44d3f615d76bed2188beb79d.png">I lov FKJWe lov FKJ</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311176115)<br>这家伙超级超级超级聪明帅...<br>2019-08-20 12:23<br>赞(4) 踩(0) | <div>看过FKJ的Live你就知道了什么叫现场乐器转换的流畅度 <img src="../../images/comments/aa870edd44d3f615d76bed2188beb79d.png"><br>I lov FKJ<br>We lov FKJ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346165752)<br><br>2019-07-26 23:35<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42632706)<br><br>2019-07-19 00:29<br>赞(0) 踩(0) | <div>听了FKJ的音乐后，其它听不下去了 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">，求推荐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8782399)<br>无乐不欢<br>2019-07-09 14:56<br>赞(1) 踩(0) | <div>有一种感觉，FKJ做饭一定很好吃 <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> 不多不少的品种搭配的刚刚好，每一道菜都登峰造极，恰到好处！</div> |
@@ -151,7 +151,7 @@ Futuristically Classy, French Kiwi Juice. Better known by the abbreviation FKJ, 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/101397664)<br><br>2018-10-11 23:09<br>赞(0) 踩(0) | <div>I love his musci so much &lt;3</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16396509)<br><br>2018-10-11 11:53<br>赞(1) 踩(0) | <div>复杂又流畅 可能这就是天才吧 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34500285)<br>何言<br>2018-10-06 20:52<br>赞(1) 踩(0) | <div>快出新歌吧哥</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6449744)<br>我还没想好要写什么...<br>2018-10-05 13:59<br>赞(0) 踩(0) | <div>10月11日 Roche Musique 厂牌夜 Darius/Kartell/Dabeull @ 深圳 OIL Club<a href="https://mp.weixin.qq.com/s/yxXr4KvgpGWwZ4CeDgGiIA" target="_blank" rel="nofollow noreferrer noopener">https://mp.weixin.qq.com/s/yxXr4KvgpGWwZ4CeDgGiIA</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6449744)<br>我还没想好要写什么...<br>2018-10-05 13:59<br>赞(0) 踩(0) | <div>10月11日 Roche Musique 厂牌夜 Darius/Kartell/Dabeull @ 深圳 OIL Club<br><a href="https://mp.weixin.qq.com/s/yxXr4KvgpGWwZ4CeDgGiIA" target="_blank" rel="nofollow noreferrer noopener">https://mp.weixin.qq.com/s/yxXr4KvgpGWwZ4CeDgGiIA</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48598498)<br>Stop talking...<br>2018-09-30 21:57<br>赞(0) 踩(0) | <div>炒鸡赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39020627)<br>怪我没有读懂你...<br>2018-09-18 19:30<br>赞(0) 踩(0) | <div>为什么这么叼啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39020627)<br>怪我没有读懂你...<br>2018-09-18 19:29<br>赞(0) 踩(0) | <div>牛逼</div> |
@@ -162,14 +162,14 @@ Futuristically Classy, French Kiwi Juice. Better known by the abbreviation FKJ, 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124692118)<br>我还没想好要写什么...<br>2018-07-30 23:06<br>赞(0) 踩(0) | <div>这也算爵士醉了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5942996)<br>我还没想好要写什么...<br>2018-08-09 15:44<br>赞(0) 踩(0) | <div>这不是爵士 只是有爵士的元素</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/550852)<br><br>2018-07-28 19:22<br>赞(0) 踩(0) | <div>现场简直太太太太太太太棒了   来 请每年来演出 拜托了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50702694)<br>后颈滚烫<br>2018-07-28 02:27<br>赞(0) 踩(0) | <div>和Masego在屏幕合体背靠背吹萨克斯那一幕太美好了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50702694)<br>后颈滚烫<br>2018-07-28 02:27<br>赞(0) 踩(0) | <div>和Masego在屏幕合体背靠背吹萨克斯<br>那一幕太美好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38753085)<br>在学bass；啥都听听；...<br>2018-07-28 00:40<br>赞(7) 踩(0) | <div>我爱北京天安门！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5942996)<br>我还没想好要写什么...<br>2018-08-09 15:44<br>赞(0) 踩(0) | <div>一排C位够我自豪好久的了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17993972)<br> @有人抱怨我名字太长<br>2018-07-28 00:00<br>赞(1) 踩(0) | <div>今天你在北京 而我却走不开不能去现场 看了直播更想死 现场怎么可以这么棒 我爱你</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311055371)<br>我还没想好要写什么...<br>2018-07-28 02:14<br>赞(0) 踩(0) | <div>嘖嘖。我替妳去了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17993972)<br> @有人抱怨我名字太长<br>2018-07-28 02:15<br>赞(0) 踩(0) | <div><q><b>mellldog说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277751624)<br>好好活。<br>2018-07-27 18:57<br>赞(0) 踩(0) | <div>今年想去看你演唱会可我没钱又没人还是算了攒钱以后去看你 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45426653)<br>jazz hiphop<br>2018-07-23 23:50<br>赞(1) 踩(0) | <div>周五北京见！么么哒！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45426653)<br>jazz hiphop<br>2018-07-23 23:50<br>赞(1) 踩(0) | <div>周五北京见！<br>么么哒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10955411)<br>无<br>2018-07-23 19:05<br>赞(0) 踩(0) | <div>黏糊之王FKJ 祝你们现场听个愉快</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24931827)<br>我还没想好要写什么...<br>2018-07-23 10:10<br>赞(0) 踩(0) | <div>出一张北京7.27票</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304400922)<br>我还没想好要写什么...<br>2018-07-22 23:09<br>赞(0) 踩(0) | <div>出张7.27北京现场票</div> |
@@ -186,14 +186,14 @@ Futuristically Classy, French Kiwi Juice. Better known by the abbreviation FKJ, 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42936819)<br>网易云搜索恶法lex i...<br>2018-07-17 16:13<br>赞(0) 踩(0) | <div>好想去啊！7.29！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8974665)<br>hahaha<br>2018-07-13 20:44<br>赞(0) 踩(0) | <div>27号糖果见哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51795971)<br>️️NEMESIS <br>2018-07-08 17:43<br>赞(0) 踩(0) | <div>您真帅啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375894894)<br>想和我认识的朋友，您支一...<br>2018-07-04 10:28<br>赞(3) 踩(0) | <div>找什么男朋友男朋友哪有音乐好玩</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375894894)<br>想和我认识的朋友，您支一...<br>2018-07-04 10:28<br>赞(3) 踩(0) | <div>找什么男朋友<br>男朋友哪有音乐好玩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/132304544)<br>「如果你偶尔想起我，就寄...<br>2018-06-27 20:57<br>赞(4) 踩(0) | <div>现在我看见这个评论的条数，我就想起2018年浙江的一本线分数</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46758368)<br> <br>2018-07-17 16:19<br>赞(0) 踩(0) | <div>我将永远铭记这个数字&amp;hellip;&amp;hellip;（同届同浙江</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/132304544)<br>「如果你偶尔想起我，就寄...<br>2018-07-25 11:59<br>赞(0) 踩(0) | <div><q><b>Salt.说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2468322)<br>暂无签名~<br>2018-06-27 13:35<br>赞(3) 踩(0) | <div>7.27 北京 糖果三层</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327338106)<br>Jag lskar di...<br>2018-06-20 01:13<br>赞(0) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377978707)<br>House music ...<br>2018-07-10 20:47<br>赞(0) 踩(0) | <div>French house</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57409476)<br><br>2018-06-18 18:45<br>赞(0) 踩(0) | <div>fkj＋卧室混响ready to fly</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57409476)<br><br>2018-06-18 18:45<br>赞(0) 踩(0) | <div>fkj＋卧室混响<br>ready to fly</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265850010)<br>：,<br>2018-06-12 08:09<br>赞(3) 踩(0) | <div>请问有他2018的行程吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47278148)<br>暂无签名~<br>2018-06-10 05:45<br>赞(3) 踩(0) | <div>这么久不出歌恐怕是在攒个大的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307611577)<br>那些说好的，就都算了吧。<br>2018-06-05 10:31<br>赞(2) 踩(0) | <div>为什么没有lying together..怨念</div> |
@@ -509,7 +509,7 @@ Futuristically Classy, French Kiwi Juice. Better known by the abbreviation FKJ, 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19813237)<br>我还没想好要写什么...<br>2015-11-11 10:18<br>赞(1) 踩(0) | <div>百感交集地看着他火</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2452157)<br>ଲ<br>2015-11-10 09:52<br>赞(0) 踩(0) | <div>深爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46470103)<br><br>2015-11-07 19:19<br>赞(0) 踩(0) | <div>love you <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9026169)<br>月牧<br>2015-11-03 23:04<br>赞(1) 踩(0) | <div>人形致幻剂知道的人多了心情也复杂了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9026169)<br>月牧<br>2015-11-03 23:04<br>赞(1) 踩(0) | <div>人形致幻剂<br>知道的人多了<br>心情也复杂了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1424818)<br>我还没想好要写什么...<br>2015-10-31 09:47<br>赞(4) 踩(0) | <div>听着fkj的歌，tm觉得自己越来越有品了，就这样！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29048648)<br>用户签名过于牛逼不能显示<br>2015-10-30 10:05<br>赞(45) 踩(0) | <div>fkj的音乐属于私心不想分享给别人的那种类型 如果有一天给别人听了 那说明那人对你还挺重要的吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43871649)<br>暂无签名~<br>2015-10-29 23:18<br>赞(0) 踩(0) | <div>有腔调</div> |
@@ -629,7 +629,7 @@ Futuristically Classy, French Kiwi Juice. Better known by the abbreviation FKJ, 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35714790)<br><br>2015-07-23 01:02<br>赞(0) 踩(0) | <div>法克基（´-`）.｡oO/。・゜・・゜・。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9022095)<br>Freestyle<br>2015-07-22 20:21<br>赞(0) 踩(0) | <div>怎么这么爱你呢 FKJ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129179)<br>weibo: DJ-Ja...<br>2015-07-22 19:10<br>赞(1) 踩(0) | <div>8.15 arkham i will be there</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12714877)<br> <br>2015-07-22 18:10<br>赞(3) 踩(0) | <div>上海人民真幸福！来深圳啊，深圳也热烈欢迎你啊！~~~~~~~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12714877)<br> <br>2015-07-22 18:10<br>赞(3) 踩(0) | <div>上海人民真幸福！<br>来深圳啊，深圳也热烈欢迎你啊！~~~~~~~~~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26477364)<br>Lost Star<br>2015-09-11 12:38<br>赞(0) 踩(0) | <div>不知道什麼時候他才來了...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1507513)<br>介绍一下你自己<br>2015-07-22 10:59<br>赞(0) 踩(0) | <div>YETI Presents FKJ Live Set  8.15 @Arkham Shanghai</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10417095)<br>听客<br>2015-07-21 21:37<br>赞(1) 踩(0) | <div>Drops ft. Tom Bailey</div> |
@@ -719,7 +719,7 @@ Futuristically Classy, French Kiwi Juice. Better known by the abbreviation FKJ, 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1385712)<br>whatever……<br>2015-04-03 21:25<br>赞(0) 踩(0) | <div>什么时候出张正式砖啊~总是一首首的单曲太吊胃口</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2563188)<br><br>2015-04-03 18:05<br>赞(0) 踩(0) | <div>哪个好心人最近在上传呀 太感谢 好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32709867)<br>Smiles in bl...<br>2015-04-02 21:15<br>赞(0) 踩(0) | <div>because I like it!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32709867)<br>Smiles in bl...<br>2015-04-02 21:11<br>赞(1) 踩(0) | <div>好痛心啊！！！！！！！！！！！！！！！！！！！！！23号竟然在首尔！！怎么没有早点知道！！！！！！！！！！！！！！！！！！！！！！！！！1</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32709867)<br>Smiles in bl...<br>2015-04-02 21:11<br>赞(1) 踩(0) | <div>好痛心啊！！！！！！！！！！！！！！！！！！！！！<br>23号竟然在首尔！！<br>怎么没有早点知道！！！！！！！！！！！！！！！！！！！！！！！！！1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4906667)<br>我还没想好要写什么...<br>2015-04-02 09:33<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36409693)<br>喜欢你的时候你多看我一眼...<br>2015-04-02 01:36<br>赞(0) 踩(0) | <div><img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36394638)<br>You may say ...<br>2015-03-26 07:27<br>赞(0) 踩(0) | <div>赞</div> |
@@ -732,7 +732,7 @@ Futuristically Classy, French Kiwi Juice. Better known by the abbreviation FKJ, 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1507513)<br>介绍一下你自己<br>2015-02-22 03:13<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8226204)<br>≡<br>2015-02-20 16:16<br>赞(0) 踩(0) | <div>!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3793161)<br>：）<br>2015-02-08 18:44<br>赞(1) 踩(0) | <div>：D</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12714877)<br> <br>2015-02-05 10:32<br>赞(0) 踩(0) | <div>台北上海香港的同学有福了！FKJ来亚洲巡演了！3月7号 台北-the wall3月13号 上海-unico3月20号 香港-kee club羡慕这三地的同学啊！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12714877)<br> <br>2015-02-05 10:32<br>赞(0) 踩(0) | <div>台北上海香港的同学有福了！FKJ来亚洲巡演了！<br>3月7号 台北-the wall<br>3月13号 上海-unico<br>3月20号 香港-kee club<br>羡慕这三地的同学啊！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15851813)<br>Take it easy...<br>2015-02-09 01:26<br>赞(0) 踩(0) | <div>这消息哪里看到的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12714877)<br> <br>2015-02-09 09:26<br>赞(0) 踩(0) | <div><q><b>11001说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38872450)<br>情人會吟詩仇人會作對<br>2015-03-25 00:05<br>赞(0) 踩(0) | <div>啊，五天後才知道有香港場。。痛心</div> |
@@ -740,7 +740,7 @@ Futuristically Classy, French Kiwi Juice. Better known by the abbreviation FKJ, 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16091262)<br>我还没想好要写什么...<br>2015-01-29 14:22<br>赞(0) 踩(0) | <div>FLOATING</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40175133)<br> <br>2015-01-26 13:49<br>赞(0) 踩(0) | <div>滾 我要獨佔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2165528)<br> <br>2015-01-22 00:12<br>赞(0) 踩(0) | <div>yo</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9026169)<br>月牧<br>2015-01-18 18:12<br>赞(0) 踩(0) | <div>总是些单独听起来很蛋疼的采样 啊 恩 诶 哦出乎意料合胃口</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9026169)<br>月牧<br>2015-01-18 18:12<br>赞(0) 踩(0) | <div>总是些单独听起来很蛋疼的采样 啊 恩 诶 哦<br>出乎意料合胃口</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44008542)<br>有人在上午开始cryin...<br>2015-01-13 00:47<br>赞(0) 踩(0) | <div>So Goog大爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39968630)<br>Harder,bette...<br>2015-01-11 14:23<br>赞(0) 踩(0) | <div>无法自拔</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32269418)<br><br>2014-12-30 14:25<br>赞(0) 踩(0) | <div>听the twins第一耳朵就知道是神曲了</div> |

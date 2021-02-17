@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/4641f69af8418818e132323b362a21d3.jpg)<br>阿哲](https://i.xiami.com/zhumingzhe) | **播放数**: 1811000<br>**粉丝数**: 127<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/4641f69af8418818e132323b362a21d3.jpg)<br>阿哲](https://i.xiami.com/zhumingzhe) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1811000<br>**粉丝数**: 127<br>**评论数**: 7<br> |
 
 ## 档案
 
@@ -29,8 +29,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/446611083)<br><br>2021-01-11 14:27<br>赞(0) 踩(0) | <div>爱你哦 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230803304)<br>三观正又爱国的成都宝藏男...<br>2020-08-04 17:46<br>赞(0) 踩(0) | <div>支持阿哲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2020-07-01 11:14<br>赞(0) 踩(0) | <div>是否怀念20200701.5</div> |

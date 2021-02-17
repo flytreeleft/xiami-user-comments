@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b4f08b8cb1a3435edbbd7465068c6da0.jpg)<br>钢弦](https://i.xiami.com/zhuangyuan) | **播放数**: 4787607<br>**粉丝数**: 5459<br>**评论数**: 322<br>**地区**: China 中国大陆<br>**风格**: 清新, 纯音乐, 钢琴<br> |
+| [![](../../images/musicians/b4f08b8cb1a3435edbbd7465068c6da0.jpg)<br>钢弦](https://i.xiami.com/zhuangyuan) | **地区**: China 中国大陆<br>**风格**: 清新, 纯音乐, 钢琴<br>**播放数**: 4787607<br>**粉丝数**: 5459<br>**评论数**: 322<br> |
 
 ## 档案
 
@@ -41,8 +41,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2021-01-06 12:42<br>赞(0) 踩(0) | <div>用xiami这么久最早关注的一批 祝好</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2021-01-07 12:02<br>赞(0) 踩(0) | <div>谢谢，我还在做音乐哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8326332)<br>后来，即便是音乐，也无法...<br>2021-01-06 07:45<br>赞(0) 踩(0) | <div>愿未来，我们都能好好的。</div> |
@@ -130,7 +130,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12706878)<br>当森林陷入寂静，森林便开...<br>2015-11-01 10:55<br>赞(0) 踩(0) | <div>声音很好听</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2015-11-01 11:13<br>赞(0) 踩(0) | <div>谢谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2015-09-21 23:02<br>赞(0) 踩(0) | <div>这就是给你的考验么…有些沉重，但希望挺过去…音乐伴同行</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2015-09-13 23:23<br>赞(0) 踩(0) | <div>一首歌，有那么一句歌词，足矣。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2015-09-13 23:23<br>赞(0) 踩(0) | <div>一首歌，<br>有那么一句歌词，<br>足矣。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17641)<br><br>2015-09-13 15:53<br>赞(0) 踩(0) | <div>好难听啊 怎么在虾米上会有这种ktv歌手（感觉好多同学唱的会更好听雪</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99692068)<br>陌生好吧⋯⋯<br>2016-01-26 12:00<br>赞(0) 踩(0) | <div>如果你不喜欢 可以不听吖</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54273681)<br>00后网络歌手<br>2015-08-04 11:58<br>赞(0) 踩(0) | <div>好听·加油~</div> |
@@ -140,7 +140,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2015-05-29 21:46<br>赞(0) 踩(0) | <div>谢谢校友</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/652919)<br>月寒日暖，来煎人寿。<br>2015-05-30 19:18<br>赞(0) 踩(0) | <div><q><b>钢弦说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2015-05-25 15:18<br>赞(38) 踩(0) | <div>今天是我的生日，妈妈我很爱你</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2015-08-08 13:18<br>赞(0) 踩(0) | <div>时间过得真快，上次过来还是4月，转眼8月，竟全然不觉……迟来的生日快乐，愿转安好</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2015-08-08 13:18<br>赞(0) 踩(0) | <div>时间过得真快，上次过来还是4月，转眼8月，竟全然不觉……<br>迟来的生日快乐，愿转安好</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2015-08-08 23:13<br>赞(0) 踩(0) | <div><q><b>Kim刈闵说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2015-05-25 12:17<br>赞(1) 踩(0) | <div>生日，唯有感恩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32288678)<br>彩月<br>2015-05-21 22:55<br>赞(0) 踩(0) | <div>我来了</div> |
@@ -279,7 +279,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2014-01-27 14:43<br>赞(0) 踩(0) | <div>都是昨晚趁爸妈出去参加婚礼我一个人在家用手机录的，我今天中午在外面吃饭趁有wifi就把录音传了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5025444)<br>泉水姐姐的迷弟<br>2014-01-27 16:36<br>赞(0) 踩(0) | <div><q><b>钢弦说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3576101)<br><br>2014-01-26 21:12<br>赞(0) 踩(0) | <div>兄弟，偶然发现这个版本的爸爸去哪，先赞一个，请教你这个版本的吉他和旋.......真心请教啊，我想在儿子幼儿园的亲子表演上表演。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2014-01-26 22:33<br>赞(0) 踩(0) | <div>G调 C D Bm Em C D GC调 F G Em Bm F C G变调夹夹到你适合的，其实这些网上肯定有详细的吉他谱的</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2014-01-26 22:33<br>赞(0) 踩(0) | <div>G调 C D Bm Em C D G<br>C调 F G Em Bm F C G<br>变调夹夹到你适合的，其实这些网上肯定有详细的吉他谱的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3576101)<br><br>2014-01-27 11:25<br>赞(0) 踩(0) | <div><q><b>钢弦说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2014-01-27 13:29<br>赞(0) 踩(0) | <div><q><b>十三导游说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7772861)<br>喜欢好音乐<br>2014-01-26 13:20<br>赞(0) 踩(0) | <div>好听</div> |
@@ -311,17 +311,17 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-09-30 19:45<br>赞(0) 踩(0) | <div>谢谢哈！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5067224)<br>心安即是归处<br>2013-09-27 19:23<br>赞(0) 踩(0) | <div>很喜欢的风格！望更多佳作。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-09-28 21:55<br>赞(0) 踩(0) | <div>谢谢哈</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-09-18 23:37<br>赞(1) 踩(0) | <div>还是最喜欢你的旅行第一站   0 0</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-09-18 23:37<br>赞(1) 踩(0) | <div>还是最喜欢你的<br><br>旅行第一站   0 0</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-09-18 23:41<br>赞(0) 踩(0) | <div>希望会做出更多你喜欢的音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-09-19 13:35<br>赞(0) 踩(0) | <div><q><b>钢弦说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-09-19 19:25<br>赞(0) 踩(0) | <div><q><b>Dance Cat说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-09-20 14:35<br>赞(0) 踩(0) | <div><q><b>钢弦说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-09-21 08:56<br>赞(0) 踩(0) | <div>花舞兄，我还是最爱你头像的那只猫基佬吧里混迹了那么久，第一排的“的”应该移到第二排啊！话说，我也最喜欢第一站，那个摩托声……听着好有感觉</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-09-21 08:56<br>赞(0) 踩(0) | <div>花舞兄，我还是最爱你<br>头像的那只猫<br>基佬吧里混迹了那么久，第一排的“的”应该移到第二排啊！<br>话说，我也最喜欢第一站，那个摩托声……听着好有感觉</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-09-21 17:49<br>赞(0) 踩(0) | <div><q><b>Kim刈闵说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5067224)<br>心安即是归处<br>2013-09-27 19:23<br>赞(0) 踩(0) | <div><q><b>Dance Cat说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-09-28 00:51<br>赞(0) 踩(0) | <div><q><b>风之和弦说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3235848)<br><br>2013-09-18 18:25<br>赞(0) 踩(0) | <div>旅行</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-09-18 21:26<br>赞(0) 踩(0) | <div>旅行心</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-09-18 21:26<br>赞(0) 踩(0) | <div>旅行<br>心</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-09-18 23:35<br>赞(0) 踩(0) | <div>你不是被我带过来的吧？？？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-09-18 23:36<br>赞(0) 踩(0) | <div>如果不是！哈  我比你来的早</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3235848)<br><br>2013-09-19 19:06<br>赞(0) 踩(0) | <div><q><b>Dance Cat说：</b></q></div> |
@@ -337,8 +337,8 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-09-03 14:33<br>赞(0) 踩(0) | <div>谢谢哈！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13173126)<br><br>2013-08-29 17:08<br>赞(0) 踩(0) | <div>好听，喜欢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-08-30 10:14<br>赞(0) 踩(0) | <div>谢谢哈</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-08-27 18:56<br>赞(0) 踩(0) | <div>又点进来了，这次仔细听的是椅子山了，由于本人和弦都搞不清楚，编曲方面真是完全不敢谈论……竟然和我是同年，那我胡扯几句。椅子山不知道是不是你的故乡或者憧憬之地，曲子是承载着喜爱么？原谅我对音乐没有领悟力……舒缓是很舒缓，相当和谐。只是对我来说，似乎层次不那么鲜明，多点点变化会不会好点？普遍上我都蛮很喜欢你曲子的开头，你的旅行第一站我至今记得啊。ps：摇滚这个标签……你明明是小清新……</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-08-29 09:15<br>赞(0) 踩(0) | <div>谢谢啊，我只是从大一开始自己自学摸索音乐，也没有多少课余时间，有时候有那么点灵感就记录下来。《椅子山》是一个下午完成的。椅子山是我大一时候的工学院的一座小山，之后转专业离开了那个学院，就是那个校区。我现在还是觉得感觉我的大一才叫大学，那种感觉，就像初恋，一切都那么新鲜，一切都充满活力，忙碌而充实，而那种感觉也一去不返了。接下来的一年是毕业季找工作阶段，你的建议很感谢，以后如果有时间每一个作品会精细打磨的。至于摇滚我也有玩哦，比如《特立独行的猪》，不过嗓子在恢复阶段，所以大半年只能做纯音乐</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-08-27 18:56<br>赞(0) 踩(0) | <div>又点进来了，这次仔细听的是椅子山了，由于本人和弦都搞不清楚，编曲方面真是完全不敢谈论……<br>竟然和我是同年，那我胡扯几句。椅子山不知道是不是你的故乡或者憧憬之地，曲子是承载着喜爱么？原谅我对音乐没有领悟力……舒缓是很舒缓，相当和谐。只是对我来说，似乎层次不那么鲜明，多点点变化会不会好点？普遍上我都蛮很喜欢你曲子的开头，你的旅行第一站我至今记得啊。<br>ps：摇滚这个标签……你明明是小清新……</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-08-29 09:15<br>赞(0) 踩(0) | <div>谢谢啊，我只是从大一开始自己自学摸索音乐，也没有多少课余时间，有时候有那么点灵感就记录下来。《椅子山》是一个下午完成的。椅子山是我大一时候的工学院的一座小山，之后转专业离开了那个学院，就是那个校区。我现在还是觉得感觉我的大一才叫大学，那种感觉，就像初恋，一切都那么新鲜，一切都充满活力，忙碌而充实，而那种感觉也一去不返了。接下来的一年是毕业季找工作阶段，你的建议很感谢，以后如果有时间每一个作品会精细打磨的。<br>至于摇滚我也有玩哦，比如《特立独行的猪》，不过嗓子在恢复阶段，所以大半年只能做纯音乐</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-08-29 13:55<br>赞(0) 踩(0) | <div><q><b>钢弦说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-08-29 21:54<br>赞(0) 踩(0) | <div><q><b>Kim刈闵说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-09-18 23:38<br>赞(0) 踩(0) | <div>我们是不是认识？？</div> |
@@ -356,10 +356,10 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-08-12 22:13<br>赞(0) 踩(0) | <div><q><b>钢弦说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1662559)<br>哈哈哈哈哈哈哈<br>2013-08-02 13:38<br>赞(0) 踩(0) | <div>LZ可以在川藏线上找下灵感，出一张骑行的专辑</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-08-02 14:51<br>赞(0) 踩(0) | <div>嗯，有机会一定，一直向往的</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-07-28 00:08<br>赞(1) 踩(0) | <div>好喜欢出发的感觉！不过骑不起摩托啊~~~音乐很舒心，希望在音乐道路出发后游览更美丽的风景！留~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9261161)<br>音乐里流动<br>2013-07-28 00:08<br>赞(1) 踩(0) | <div>好喜欢出发的感觉！不过骑不起摩托啊~~~音乐很舒心，希望在音乐道路出发后游览更美丽的风景！<br>留~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-07-28 12:18<br>赞(0) 踩(0) | <div>很高兴能喜欢，谢谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-07-27 23:40<br>赞(0) 踩(0) | <div>再纯音友面前推荐一下你！0 0！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-07-27 23:36<br>赞(1) 踩(0) | <div>喜欢旅游类型的旋律！和a pav的曲子一样！听了让人舒服的感觉！纯音乐爱好者！纯音乐吧爱好者！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9730064)<br>纯音党<br>2013-07-27 23:36<br>赞(1) 踩(0) | <div>喜欢旅游类型的旋律！和a pav的曲子一样！听了让人舒服的感觉！<br><br>纯音乐爱好者！纯音乐吧爱好者！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8384826)<br>再见，虾米，谢谢！<br>2013-07-28 12:17<br>赞(0) 踩(0) | <div>谢谢爱音乐的友友支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8961774)<br><br>2013-07-27 18:38<br>赞(0) 踩(0) | <div>&amp;gt;&amp;lt;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8961774)<br><br>2013-07-27 18:37<br>赞(0) 踩(0) | <div>还不错的样子</div> |

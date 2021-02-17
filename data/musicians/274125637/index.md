@@ -3,7 +3,7 @@ Alex.x
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0bbcc95c9582fb231f201403763269a3.png)<br>Alex.x](https://i.xiami.com/alexx) | **播放数**: 8591421<br>**粉丝数**: 570<br>**评论数**: 19<br>**地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 电子舞曲 EDM / Electronic Dance Music, 前卫浩室 Progressive House<br> |
+| [![](../../images/musicians/0bbcc95c9582fb231f201403763269a3.png)<br>Alex.x](https://i.xiami.com/alexx) | **地区**: China 中国大陆<br>**风格**: 浩室舞曲 House, 电子舞曲 EDM / Electronic Dance Music, 前卫浩室 Progressive House<br>**播放数**: 8591421<br>**粉丝数**: 570<br>**评论数**: 19<br> |
 
 ## 档案
 
@@ -25,8 +25,8 @@ DJ Alex.x  国内公认顶级DJ及独立音乐人，除拥有十七年DJ经验�
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409187440)<br>老歌曲好听<br>2020-01-07 22:18<br>赞(0) 踩(0) | <div>太好听了，听着心情都好了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356151275)<br><br>2019-07-08 02:57<br>赞(1) 踩(0) | <div><img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351895599)<br>简简单单的快乐就好！<br>2018-05-19 19:31<br>赞(1) 踩(0) | <div>节奏很嗨，我喜欢！人帅，音乐更帅！ <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |

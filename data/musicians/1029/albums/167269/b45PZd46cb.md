@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/132460950)<br><br>2019-06-05 17:57<br>赞(0) 踩(0) | <div>而今你我当负此如来荷担。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410780678)<br><br>2019-04-25 11:56<br>赞(0) 踩(0) | <div>******</div> |

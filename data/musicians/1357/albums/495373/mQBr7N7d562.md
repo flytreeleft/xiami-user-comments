@@ -37,8 +37,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2714996)<br>https://www....<br>2019-03-02 16:15<br>赞(1) 踩(0) | <div>我好像真的看见了消失的时光——那七种颜色的鹅卵石烧出火光温暖着我 温暖着我们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85431950)<br>仍有人仰望天空。<br>2018-02-11 03:53<br>赞(2) 踩(0) | <div>听了好多年了 每次听好似进入另一个世界 阳光明媚 我坐在一个清澈见底的小溪边 溪水里很多的鹅卵石 阳光投射过树落在我身上斑斓的影子 画面都泛着彩虹色光 很温暖很平静</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/206238326)<br><br>2018-02-05 23:02<br>赞(0) 踩(0) | <div>妄想让人迷惑，颠倒思维。真妄本相同。何必去分别？</div> |
@@ -50,7 +50,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12719802)<br>lame<br>2016-04-14 23:53<br>赞(0) 踩(0) | <div>一直梦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49773588)<br>默央<br>2015-12-01 06:17<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17501841)<br>可爱又迷人的反派角色<br>2015-11-28 21:59<br>赞(0) 踩(0) | <div>爸妈在房间里走来走去。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13737172)<br>趋于黑暗的光。<br>2014-05-25 10:33<br>赞(1) 踩(0) | <div>我一个人 坐在石头岸边。好想触摸你的影子。我好像真的看见了消失的时光。那七种颜色的鹅卵石烧出火光 温暖着我 温暖着 我们。我常常梦见一束光。它温柔地跟着你 走近我身旁。雪飘下来 消失很久的彩虹 又 出现了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13737172)<br>趋于黑暗的光。<br>2014-05-25 10:33<br>赞(1) 踩(0) | <div>我一个人 坐在石头岸边。<br>好想触摸你的影子。<br>我好像真的看见了消失的时光。<br>那七种颜色的鹅卵石烧出火光 温暖着我 温暖着 我们。<br>我常常梦见一束光。<br>它温柔地跟着你 走近我身旁。<br>雪飘下来 消失很久的彩虹 又 出现了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1739490)<br>samsara<br>2013-11-10 00:08<br>赞(3) 踩(0) | <div>我实验过了，你用力想着不要做梦，就真的不会做梦了。所以，我已经很久不做梦了。晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13474183)<br><br>2013-07-20 22:03<br>赞(0) 踩(0) | <div>彩虹般绚丽……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16081839)<br>Music is the...<br>2013-07-02 23:39<br>赞(1) 踩(0) | <div>我一个人坐在石头岸边，好想触摸你的影子。我好像真的看见了消失的时光。</div> |
@@ -78,7 +78,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/664700)<br>音楽と喫茶店:)<br>2012-03-16 16:01<br>赞(0) 踩(0) | <div>治愈什么的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4946996)<br><br>2012-03-16 15:09<br>赞(0) 踩(0) | <div>听到这首才觉得曹方一直没有变</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4580)<br>時光是琥珀<br>2012-03-14 14:52<br>赞(0) 踩(0) | <div>我常常夢見一束光 它溫柔的跟著你 走近我身旁 午安~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219927)<br><br>2012-03-13 21:55<br>赞(0) 踩(0) | <div>我常常梦见一束光它温柔地跟着你走近我身旁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219927)<br><br>2012-03-13 21:55<br>赞(0) 踩(0) | <div>我常常梦见一束光<br>它温柔地跟着你<br>走近我身旁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192599)<br>输入入签名签名<br>2012-03-13 18:46<br>赞(0) 踩(0) | <div>@IrisDing</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4176691)<br>暂无签名~<br>2012-03-11 21:42<br>赞(0) 踩(0) | <div>好想触摸你的影子，即使是影子也好。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8301276)<br><br>2012-03-10 13:18<br>赞(0) 踩(0) | <div>5</div> |

@@ -28,5 +28,3 @@ Should you return someday
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

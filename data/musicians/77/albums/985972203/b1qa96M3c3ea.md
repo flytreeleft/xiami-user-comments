@@ -12,15 +12,12 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325756554)<br>天之道，利而不害；人之道...<br>2020-09-03 09:03<br>赞(1) 踩(0) | <div>太短了200903T0903LL</div> |
+|  |  |  |
+| :-- | :-- | :-- |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325756554)<br>天之道，利而不害；人之道...<br>2020-09-03 09:03<br>赞(1) 踩(0) | <div>太短了<br>200903T0903LL</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303213803)<br> <br>2017-12-24 09:57<br>赞(1) 踩(0) | <div>奶特时光，拿出来回忆过去 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255791911)<br>暖暖的下午，听一首好听的...<br>2017-09-02 17:08<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27398145)<br>时光，<br>2016-05-31 11:09<br>赞(2) 踩(0) | <div>小号有那么一丢丢刺耳呢</div> |

@@ -62,8 +62,8 @@ SP 环球音乐出版股份有限公司
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444769424)<br><br>2020-09-08 13:27<br>赞(0) 踩(0) | <div>表达出不容易表达的东西</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35619626)<br>他是真的神明 我是假的信...<br>2020-02-12 17:28<br>赞(1) 踩(0) | <div>a little hight little low 到底在哪里听过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215159435)<br>唯有音乐与爱不可辜负<br>2019-12-30 15:15<br>赞(0) 踩(0) | <div>陈珊妮 我的宝藏女人呜呜呜</div> |
@@ -124,7 +124,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54427408)<br>.<br>2016-02-17 15:38<br>赞(1) 踩(0) | <div>讲个笑话纪念我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38492545)<br>无论如何，爱音乐<br>2016-02-15 12:34<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40292579)<br>我的玫瑰全部给你<br>2015-12-22 23:11<br>赞(0) 踩(0) | <div>可能本身就没有什么运气可言</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301393)<br>Dasein.<br>2015-11-20 19:08<br>赞(0) 踩(0) | <div>把人声去掉再和一点主调，就是很好的电声氛围了啊！最近的一张专辑就算作曲烂成渣，编曲过手还是较优的。「而新的，旧的；心爱的人也没有几位；认真思考关于有生之年」</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301393)<br>Dasein.<br>2015-11-20 19:08<br>赞(0) 踩(0) | <div>把人声去掉再和一点主调，就是很好的电声氛围了啊！<br>最近的一张专辑就算作曲烂成渣，编曲过手还是较优的。<br>「而新的，旧的；心爱的人也没有几位；认真思考关于有生之年」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19257130)<br>啊啦啦~<br>2015-11-06 16:02<br>赞(2) 踩(0) | <div>深刻，不代表心神领会。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36504345)<br>用我孤独的一生向你道歉<br>2015-10-18 23:53<br>赞(0) 踩(0) | <div>一个音 让他走</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7452960)<br>wang<br>2015-10-02 20:26<br>赞(0) 踩(0) | <div>就是喜欢陈珊妮。</div> |
@@ -178,7 +178,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8730497)<br><br>2013-09-06 22:13<br>赞(0) 踩(0) | <div>很特别的前奏。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12402842)<br><br>2013-09-06 11:55<br>赞(0) 踩(0) | <div>低调的人生，低调的重复每一天，没有答案，习惯、改变、循环，没有终点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20435461)<br>暂无签名~<br>2013-09-01 21:47<br>赞(0) 踩(0) | <div>悲伤的人紧握着 ，解不开的对号锁</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8065495)<br><br>2013-08-31 17:13<br>赞(0) 踩(0) | <div>当青春期不可言喻的雀跃 悄悄又爬进你的睡眠后来日以继夜的怨怼 伴随消失的摇滚乐而新的 旧的 心爱的人也没有几位认真思考关于有生之年</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8065495)<br><br>2013-08-31 17:13<br>赞(0) 踩(0) | <div>当青春期不可言喻的雀跃 悄悄又爬进你的睡眠<br>后来日以继夜的怨怼 伴随消失的摇滚乐<br>而新的 旧的 心爱的人也没有几位<br>认真思考关于有生之年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10679618)<br>矛盾之人<br>2013-08-26 23:06<br>赞(0) 踩(0) | <div>#每日一首#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127770)<br><br>2013-08-26 21:43<br>赞(0) 踩(0) | <div>听着听着就笑了。深刻不代表心领神会，认真思考关于有生之年。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15975020)<br> <br>2013-08-21 03:29<br>赞(0) 踩(0) | <div>记忆是被词汇框住的圈/多说一点就失去整个圆/怀念是抽他抽过的烟/最后只落个同病相怜</div> |
@@ -195,12 +195,12 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2421910)<br><br>2013-07-26 11:28<br>赞(0) 踩(0) | <div>低调人生-陈珊妮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17812100)<br>晚安，<br>2013-07-25 13:37<br>赞(0) 踩(0) | <div>什么都有你，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6192516)<br><br>2013-07-25 12:31<br>赞(0) 踩(0) | <div>躺在ipod里面好久今天才偶然拿出来听 于是毫无悬念的再度被公主大人惊艳了 脑残粉模式on！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7182196)<br>暂无签名~<br>2013-07-24 14:54<br>赞(0) 踩(0) | <div>记忆是被词汇框住的圈 多说一点就失去整个圆/怀念是抽他抽过的烟 最后只落个同病相怜/虽说各种消费都有回馈/ 劳动的价值总在虚无之间/唱的正好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7182196)<br>暂无签名~<br>2013-07-24 14:54<br>赞(0) 踩(0) | <div>记忆是被词汇框住的圈 多说一点就失去整个圆/<br>怀念是抽他抽过的烟 最后只落个同病相怜/<br>虽说各种消费都有回馈/ 劳动的价值总在虚无之间/唱的正好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17345222)<br>keep<br>2013-07-23 20:33<br>赞(0) 踩(0) | <div>陈珊妮。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39611)<br><br>2013-07-23 14:29<br>赞(1) 踩(0) | <div>這編曲太贊了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11169711)<br><br>2013-07-23 14:03<br>赞(0) 踩(0) | <div>年纪大了有一种混沌感，但女神还是女神</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17808469)<br><br>2013-07-21 22:07<br>赞(0) 踩(0) | <div>bu错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12306916)<br>lance<br>2013-07-21 13:23<br>赞(0) 踩(0) | <div>认真思考关於有生之年A little high little low一个音 让他走悲伤的人 紧握著解不开的 对号锁低调的经过......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12306916)<br>lance<br>2013-07-21 13:23<br>赞(0) 踩(0) | <div>认真思考关於有生之年<br>A little high little low<br>一个音 让他走<br>悲伤的人 紧握著<br>解不开的 对号锁<br>低调的经过......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4395802)<br><br>2013-07-18 23:08<br>赞(1) 踩(0) | <div>很难去评论的一首歌。旋律很急促，却又喃喃低调地。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17466735)<br><br>2013-07-17 01:47<br>赞(0) 踩(0) | <div>歌曲好听啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7332493)<br><br>2013-07-16 20:57<br>赞(0) 踩(0) | <div>#我点你播#Sandee好贴心，知道我最近的主旋律就是低调，哈哈。。。</div> |
@@ -222,7 +222,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/603278)<br>A prayer for...<br>2013-07-10 23:00<br>赞(0) 踩(0) | <div>女王归来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6317565)<br><br>2013-07-10 09:57<br>赞(0) 踩(0) | <div>第一次听，还不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13516632)<br><br>2013-07-10 01:34<br>赞(0) 踩(0) | <div>劳动的价值总在虚无之间 低价收购一年十二个月</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2190123)<br><br>2013-07-10 00:34<br>赞(0) 踩(0) | <div>当你对自己的影子感到厌倦 身穿华服也不觉体面当你开始有不安的自觉 再温暖的拥抱都不是滋味而爱啊 恨啊 深刻不代表心神领会认真思考关于有生之年</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2190123)<br><br>2013-07-10 00:34<br>赞(0) 踩(0) | <div>当你对自己的影子感到厌倦 身穿华服也不觉体面<br>当你开始有不安的自觉 再温暖的拥抱都不是滋味<br>而爱啊 恨啊 深刻不代表心神领会<br>认真思考关于有生之年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3214608)<br><br>2013-07-09 22:10<br>赞(0) 踩(0) | <div>公主！公主！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14478111)<br><br>2013-07-09 18:08<br>赞(0) 踩(0) | <div>一个人的孤独缓慢书写 以极度封闭的语言</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5815393)<br>落单续<br>2013-07-06 22:59<br>赞(0) 踩(0) | <div>a little high,little low, 想想连低调的资本都没有</div> |
@@ -233,7 +233,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8579781)<br><br>2013-07-04 20:31<br>赞(0) 踩(0) | <div>陈珊妮这张专辑好好听耶 嘻嘻</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7783179)<br><br>2013-07-04 19:13<br>赞(0) 踩(0) | <div>认真思考关于有生之年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7139466)<br> <br>2013-07-04 17:17<br>赞(0) 踩(0) | <div>声线......</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9555756)<br><br>2013-07-04 09:14<br>赞(0) 踩(0) | <div>mv挂着in rainbows，间奏踩着15 step的点</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9555756)<br><br>2013-07-04 09:14<br>赞(0) 踩(0) | <div>mv挂着in rainbows，<br>间奏踩着15 step的点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15878864)<br>何必畫地為牢 自由多好<br>2013-07-04 03:07<br>赞(0) 踩(0) | <div>词很喜欢……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3206053)<br>照章办事<br>2013-07-03 23:07<br>赞(0) 踩(0) | <div>最近疯狂爱上这首歌，陈公主的编曲最抵御不住……大家觉得呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7133757)<br>在你的唱机放低唱片是我<br>2013-07-03 17:26<br>赞(0) 踩(0) | <div>你喜欢陈珊妮吗? 我们做个朋友谈谈心事吧。</div> |
@@ -250,7 +250,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4972079)<br><br>2013-07-01 21:35<br>赞(0) 踩(0) | <div>越听越好听，看过MV以后更有意境</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3561218)<br><br>2013-07-01 20:36<br>赞(0) 踩(0) | <div>就是陈珊妮。来自雨夜的呢喃。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7841451)<br><br>2013-07-01 19:17<br>赞(0) 踩(0) | <div>歌詞大贊！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8521016)<br>逆生的蔷薇......<br>2013-07-01 17:14<br>赞(0) 踩(0) | <div>在合适的时间里听到了正符合心境的旋律......很喜欢很喜欢背后的吉他声线......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8521016)<br>逆生的蔷薇......<br>2013-07-01 17:14<br>赞(0) 踩(0) | <div>在合适的时间里听到了正符合心境的旋律......<br>很喜欢很喜欢背后的吉他声线......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5826257)<br><br>2013-07-01 15:00<br>赞(0) 踩(0) | <div>怀念是抽他抽过的烟 最后只落个同病相怜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15856232)<br><br>2013-07-01 08:25<br>赞(0) 踩(0) | <div>@18叔</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6174244)<br><br>2013-06-30 22:12<br>赞(0) 踩(0) | <div>悲伤的人 紧握着 解不开的 对号锁</div> |
@@ -292,7 +292,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1264060)<br>暂无签名~<br>2013-06-26 20:14<br>赞(0) 踩(0) | <div>紧密的都无从思考！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2727034)<br><br>2013-06-26 18:47<br>赞(0) 踩(0) | <div>快速的吟唱的是逝去的过往对人生和自己的感悟和世物的知觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3655536)<br><br>2013-06-26 16:32<br>赞(1) 踩(0) | <div>听起来好焦虑 但又是一篇诚实的短小说 PPPPPS：那块牛仔布哪里买？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9172234)<br><br>2013-06-26 16:28<br>赞(0) 踩(0) | <div>11254391&amp;lt;input /&amp;gt;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9172234)<br><br>2013-06-26 16:28<br>赞(0) 踩(0) | <div>11254391<br>&amp;lt;input /&amp;gt;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5994632)<br><br>2013-06-26 14:47<br>赞(0) 踩(0) | <div>编曲挺好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15969819)<br><br>2013-06-26 14:42<br>赞(0) 踩(0) | <div>a little high  litte low</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7361478)<br><br>2013-06-26 13:52<br>赞(0) 踩(0) | <div>心爱的人也没有几位 认真思考关于有生之年</div> |
@@ -325,7 +325,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2832974)<br><br>2013-06-25 17:52<br>赞(0) 踩(0) | <div>记忆是被词汇框住的圈 多说一点就失去整个圆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2496739)<br>我还没想好要写什么...<br>2013-06-25 17:08<br>赞(0) 踩(0) | <div>忧郁 是 一下笔 就 倾斜 的线</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301932)<br><br>2013-06-25 15:12<br>赞(0) 踩(0) | <div>再次分享……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1226207)<br>人海中<br>2013-06-25 14:46<br>赞(1) 踩(0) | <div>这个世界最廉价的是什么？一惊一乍与形容词。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1226207)<br>人海中<br>2013-06-25 14:46<br>赞(1) 踩(0) | <div>这个世界最廉价的是什么？<br>一惊一乍与形容词。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301932)<br><br>2013-06-25 14:31<br>赞(0) 踩(0) | <div>低调的疑似坠落</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9630165)<br>be the light<br>2013-06-25 14:05<br>赞(0) 踩(0) | <div>很好很棒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5968552)<br>虾小米，我爱你所以讲不出...<br>2013-06-25 13:51<br>赞(0) 踩(0) | <div>低价收购一年12个月。。。</div> |
@@ -333,7 +333,7 @@ SP 环球音乐出版股份有限公司
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4193015)<br><br>2013-06-25 12:52<br>赞(0) 踩(0) | <div>曾以為一切美好都屬免費 原來廉價的只剩眼淚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13737172)<br>趋于黑暗的光。<br>2013-06-25 12:50<br>赞(0) 踩(0) | <div>有点许嵩味道，词啊，就是无与伦比。mv没勇气看第二遍。/爱心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6630660)<br>猜赢涂口红…<br>2013-06-25 11:44<br>赞(0) 踩(0) | <div>低调地经过。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/547627)<br>一台漫游银河系的机器人<br>2013-06-25 11:20<br>赞(3) 踩(0) | <div>怎样的人生才算低调？是继续戴着面具还是永久保持沉默？生活在残酷世界的人们，该如何阻止内心世界不断吼叫的绝望与不公。“没有一种痛是特别为你准备的”，而痛过之后可以痊愈到你，才是特别的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/547627)<br>一台漫游银河系的机器人<br>2013-06-25 11:20<br>赞(3) 踩(0) | <div>怎样的人生才算低调？<br>是继续戴着面具还是永久保持沉默？<br>生活在残酷世界的人们，该如何阻止内心世界不断吼叫的绝望与不公。<br>“没有一种痛是特别为你准备的”，<br>而痛过之后可以痊愈到你，才是特别的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12569181)<br><br>2013-06-25 09:54<br>赞(0) 踩(0) | <div>还是有好多学不会的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16288334)<br><br>2013-06-24 14:17<br>赞(0) 踩(0) | <div>爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16121955)<br><br>2013-06-20 18:03<br>赞(0) 踩(0) | <div>好</div> |

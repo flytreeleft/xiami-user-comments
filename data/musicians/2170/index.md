@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/7d0b615435bf94b913473c794f9e8c91.jpg)<br>汪佩蓉](https://i.xiami.com/fengie) | **播放数**: 9251477<br>**粉丝数**: 3185<br>**评论数**: 270<br>**地区**: Taiwan, PRC 中国台湾<br>**风格**: 当代节奏布鲁斯 Contemporary R&B, 成人时代 Adult Contemporary, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/7d0b615435bf94b913473c794f9e8c91.jpg)<br>汪佩蓉](https://i.xiami.com/fengie) | **地区**: Taiwan, PRC 中国台湾<br>**风格**: 当代节奏布鲁斯 Contemporary R&B, 成人时代 Adult Contemporary, 国语流行 Mandarin Pop<br>**播放数**: 9251477<br>**粉丝数**: 3185<br>**评论数**: 270<br> |
 
 ## 档案
 
@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26810595)<br>音乐我的一个世界<br>2021-01-23 10:56<br>赞(0) 踩(0) | <div>开开心心每一天，快快乐乐做音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/270078007)<br>我见青山多妩媚，料青山见...<br>2020-12-06 15:42<br>赞(0) 踩(0) | <div>听的第一首歌是     放手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-11-16 02:05<br>赞(0) 踩(0) | <div>18344</div> |
@@ -85,7 +85,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35146)<br>我就说一句，新版虾米你丑...<br>2018-05-09 17:10<br>赞(3) 踩(0) | <div>最近法兰姬很常跑内地，什么时候来广州啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2002261)<br><br>2018-05-02 18:43<br>赞(2) 踩(0) | <div>真的好听～其实听歌你能发现你真实的自己～而这需要就像这样的声音～无意之间就刺到你那根无法轻易够的着的那一丝～或许连你自己可能都忘记了～能引起共鸣就是简单～但看似简单其实很复杂～喜欢～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360773948)<br><br>2018-04-26 20:36<br>赞(1) 踩(0) | <div>声音太好听了吧！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174945068)<br>物来顺应 当时不杂   ...<br>2018-04-11 23:59<br>赞(1) 踩(0) | <div>牛逼牛逼可以去我是歌手了吧应该<img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174945068)<br>物来顺应 当时不杂   ...<br>2018-04-11 23:59<br>赞(1) 踩(0) | <div>牛逼牛逼可以去我是歌手了吧应该<br><img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197446494)<br><br>2018-04-09 16:55<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5791437)<br>我还没想好要写什么...<br>2018-02-26 18:57<br>赞(1) 踩(0) | <div>永远支持你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192410925)<br>乐享生活……<br>2018-02-19 20:36<br>赞(1) 踩(0) | <div>听了你的歌曲，真的有一种相见恨晚的感觉，总之，很喜欢，希望你能有更多优秀的新作品 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -156,7 +156,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47881930)<br> <br>2016-08-12 10:21<br>赞(1) 踩(0) | <div>以前长得挺清秀的 这样的妆容真的不适合</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60895732)<br> <br>2016-11-26 22:26<br>赞(0) 踩(0) | <div>还是喜欢小眼睛的时候</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5708413)<br>音乐是个好东西<br>2016-08-11 17:56<br>赞(1) 踩(0) | <div>这封面</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119001240)<br>music替我say，y...<br>2016-08-11 13:43<br>赞(3) 踩(0) | <div>用声音去征服。千万不要去在脸上做功夫，不要。加油。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119001240)<br>music替我say，y...<br>2016-08-11 13:43<br>赞(3) 踩(0) | <div>用声音去征服。千万不要去在脸上做功夫，不要。<br>加油。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205658704)<br><br>2016-07-27 10:14<br>赞(0) 踩(0) | <div>陪伴我从少女走到现在的声音，等你重新大红大紫的那天！！好声音不该被淹没的 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"> <img src="../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72666568)<br><br>2016-07-24 22:39<br>赞(0) 踩(0) | <div>真伤人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/903277)<br>暂无签名~<br>2016-07-21 14:06<br>赞(2) 踩(0) | <div>封面这张吓死我了！能换一张吗？</div> |
@@ -175,7 +175,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182761)<br>松任谷由实的迷弟<br>2016-07-25 15:39<br>赞(0) 踩(0) | <div><q><b>汪佩蓉说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113221190)<br><br>2016-04-26 01:41<br>赞(0) 踩(0) | <div>喜欢就是喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77354742)<br>陪你过冬天<br>2016-04-25 00:09<br>赞(0) 踩(0) | <div>期待期待期待新歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3429122)<br>无限昼颜<br>2016-04-20 14:58<br>赞(2) 踩(0) | <div>法兰姬，加油啊，做自己喜欢的音乐期待R&amp;amp;B</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3429122)<br>无限昼颜<br>2016-04-20 14:58<br>赞(2) 踩(0) | <div>法兰姬，加油啊，<br>做自己喜欢的音乐<br>期待R&amp;amp;B</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157980)<br>Fengie<br>2016-04-30 02:05<br>赞(0) 踩(0) | <div>好的, 謝謝你, 努力中, 再等等我啊^^</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12852028)<br>国家级爱情退堂鼓专业鼓手...<br>2016-04-14 00:31<br>赞(3) 踩(0) | <div>已经快十一年了 等了好久的专辑啊！！加油汪佩蓉！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157980)<br>Fengie<br>2016-04-18 02:51<br>赞(0) 踩(0) | <div>謝謝你, 等我喲^^</div> |
@@ -251,7 +251,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30986722)<br><br>2014-01-06 23:57<br>赞(0) 踩(0) | <div>很喜欢你的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3711647)<br>  丢到马桶让水流<br>2013-12-10 17:31<br>赞(1) 踩(0) | <div>被惊艳到了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6689411)<br><br>2013-10-26 20:22<br>赞(2) 踩(0) | <div>一开始签去艾回是不是更好呢。艾回很会策划</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9587796)<br><br>2013-11-23 11:47<br>赞(0) 踩(0) | <div>現在台灣艾迴沒有中文部了。只要你快樂那張專輯之後 滾石公司跟她簽約內容又廉價 讓她不想簽 所以就消失了。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9587796)<br><br>2013-11-23 11:47<br>赞(0) 踩(0) | <div>現在台灣艾迴沒有中文部了。<br>只要你快樂那張專輯之後 滾石公司跟她簽約內容又廉價 讓她不想簽 所以就消失了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20365778)<br><br>2013-09-25 20:51<br>赞(1) 踩(0) | <div>值得被推荐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20365778)<br><br>2013-09-25 18:41<br>赞(0) 踩(0) | <div>她的很多歌真是很好听，可是好难唱。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12011911)<br><br>2013-07-09 23:40<br>赞(0) 踩(0) | <div>长得很</div> |
@@ -281,10 +281,10 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361171)<br>音乐响起.又是美好的一天<br>2013-01-25 12:12<br>赞(0) 踩(0) | <div><q><b>Oh米佳说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4346767)<br>Whale Song<br>2013-01-07 12:57<br>赞(0) 踩(0) | <div>最新的专辑是05年啦.声音真的很好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8146462)<br>我是淑女，淑女是我<br>2012-12-07 20:01<br>赞(0) 踩(0) | <div>声音很棒。。。。。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8670108)<br><br>2012-12-04 23:23<br>赞(1) 踩(0) | <div>容貌普通，拥有超赞的声音，华丽的唱腔，绝对的实力派。可惜这个社会注重外表的人太多。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8670108)<br><br>2012-12-04 23:23<br>赞(1) 踩(0) | <div>容貌普通，拥有超赞的声音，华丽的唱腔，绝对的实力派。<br>可惜这个社会注重外表的人太多。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6826388)<br>不是无神论。<br>2012-11-08 19:41<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10306733)<br>嗜歌如命<br>2012-11-04 12:03<br>赞(0) 踩(0) | <div>封面很一般，像刚出道的萧亚轩</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10668557)<br><br>2012-10-06 11:01<br>赞(0) 踩(0) | <div>基隆之光～前兩張專輯唱片公司整個包裝錯誤明明是個實力派的情歌唱將卻硬要他唱韓風舞曲後兩張走療傷情歌非常的到味希望還有新作</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10668557)<br><br>2012-10-06 11:01<br>赞(0) 踩(0) | <div>基隆之光～<br>前兩張專輯唱片公司整個包裝錯誤<br>明明是個實力派的情歌唱將<br>卻硬要他唱韓風舞曲<br>後兩張走療傷情歌非常的到味<br>希望還有新作</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2540592)<br><br>2012-09-10 15:57<br>赞(0) 踩(0) | <div>原创好声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2540592)<br><br>2012-09-10 15:57<br>赞(0) 踩(0) | <div>原创好声音，期待更多的作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1674939)<br>开始素食<br>2012-09-04 15:07<br>赞(0) 踩(0) | <div>CG- -#</div> |
@@ -296,7 +296,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235780104)<br> <br>2016-12-21 12:37<br>赞(0) 踩(0) | <div><q><b>汪佩蓉说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3326320)<br>我要幸福。<br>2017-04-30 10:30<br>赞(0) 踩(0) | <div><q><b>汪佩蓉说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305131547)<br><br>2018-01-10 09:26<br>赞(0) 踩(0) | <div>妩媚，柔情，声线迷人</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7725954)<br><br>2012-01-19 03:31<br>赞(64) 踩(0) | <div>完美的声音，华丽的创作，就这样被埋没了，可惜如果能发行新专辑那真是歌迷的福音了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7725954)<br><br>2012-01-19 03:31<br>赞(64) 踩(0) | <div>完美的声音，华丽的创作，就这样被埋没了，可惜<br>如果能发行新专辑那真是歌迷的福音了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157980)<br>Fengie<br>2016-04-30 02:07<br>赞(0) 踩(0) | <div>謝謝你, 在努力中了, 再等等我^^</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/102060452)<br>我还没想好要写什么...<br>2016-08-26 13:16<br>赞(0) 踩(0) | <div>很小众，歌曲传唱度不好高</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235780104)<br> <br>2016-12-21 12:34<br>赞(0) 踩(0) | <div><q><b>汪佩蓉说：</b></q></div> |

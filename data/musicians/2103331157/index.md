@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/1ce6cdf75f26efae76eb2673b241621c.jpg)<br>田子晴](https://i.xiami.com/tianziqing) | **播放数**: 1611926<br>**粉丝数**: 210<br>**评论数**: 7<br>**地区**: China 中国大陆<br>**风格**: 网络流行 Cyber Hit<br> |
+| [![](../../images/musicians/1ce6cdf75f26efae76eb2673b241621c.jpg)<br>田子晴](https://i.xiami.com/tianziqing) | **地区**: China 中国大陆<br>**风格**: 网络流行 Cyber Hit<br>**播放数**: 1611926<br>**粉丝数**: 210<br>**评论数**: 7<br> |
 
 ## 档案
 
@@ -29,8 +29,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333421434)<br><br>2019-12-06 09:05<br>赞(2) 踩(0) | <div>每个专辑都很露骨  妙啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440189819)<br><br>2020-06-01 07:17<br>赞(0) 踩(0) | <div>老兄，说的太对了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328537239)<br><br>2019-08-09 11:28<br>赞(0) 踩(0) | <div>一楼等了两年了啊</div> |

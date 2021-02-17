@@ -52,5 +52,3 @@ No more dump trucks rolling down the road
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

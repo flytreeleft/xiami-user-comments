@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10506340)<br>春风归故里，一别两路人。<br>2017-05-03 01:18<br>赞(0) 踩(0) | <div>先生的曲子还是那么有穿透力啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10893417)<br>给我丰富，和丰富的痛苦。<br>2015-11-20 20:02<br>赞(0) 踩(0) | <div>啊啊啊，真的好喜欢二胡！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10506340)<br>春风归故里，一别两路人。<br>2015-11-18 19:28<br>赞(0) 踩(0) | <div>老爷！</div> |
@@ -38,7 +35,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10039447)<br>山谷裡的居民。<br>2013-08-19 17:57<br>赞(0) 踩(0) | <div>二胡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303680)<br><br>2013-07-14 22:45<br>赞(1) 踩(0) | <div>贾鹏芳真是我的小天使</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230554)<br>■□■□■□■□■□■□<br>2013-07-09 10:06<br>赞(0) 踩(0) | <div>中间那段是吉他？！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11472277)<br><br>2013-05-07 22:43<br>赞(3) 踩(0) | <div>烛影摇红，夜阑饮散春宵短。当时谁会唱阳关，离恨天涯远。争奈云收雨散。凭阑干、东风泪满。海棠开后，燕子来时，黄昏深院。入了夏，雨水渐渐多起来了。或幽或远的二胡曲，配上这首词，刚刚好。@浪漫二胡贾鹏芳</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11472277)<br><br>2013-05-07 22:43<br>赞(3) 踩(0) | <div>烛影摇红，夜阑饮散春宵短。<br><br>当时谁会唱阳关，离恨天涯远。<br><br>争奈云收雨散。<br><br>凭阑干、东风泪满。<br><br>海棠开后，燕子来时，黄昏深院。<br><br>入了夏，雨水渐渐多起来了。或幽或远的二胡曲，配上这首词，刚刚好。@浪漫二胡贾鹏芳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/632324)<br><br>2013-01-01 21:16<br>赞(0) 踩(0) | <div>我醉了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3105186)<br><br>2012-11-01 21:00<br>赞(1) 踩(0) | <div>- 月色苔阶净  歌声竹院深</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7117902)<br><br>2012-10-18 15:57<br>赞(0) 踩(0) | <div>一曲神清气爽。。。。</div> |
@@ -48,13 +45,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5934619)<br>喜欢音乐手工达人bjd娃...<br>2012-05-29 13:39<br>赞(0) 踩(0) | <div>烛影摇红 贾鹏芳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5058532)<br><br>2012-04-16 19:53<br>赞(0) 踩(0) | <div>=v=@-Vsin-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4143786)<br><br>2012-03-23 09:01<br>赞(0) 踩(0) | <div>红影沉醉夜阑珊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2851967)<br>我还没想好要写什么...<br>2012-03-22 19:55<br>赞(1) 踩(0) | <div>賈鵬芳 - 烛影摇红烛影摇红，向夜阑，乍酒醒、心情懒。尊前谁为唱《阳关》，离恨天涯远。无奈云沉雨散。凭阑干、东风泪眼。海棠开后，燕子来时，黄昏庭院。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2851967)<br>我还没想好要写什么...<br>2012-03-22 19:55<br>赞(1) 踩(0) | <div>賈鵬芳 - 烛影摇红<br><br>烛影摇红，向夜阑，<br>乍酒醒、心情懒。<br>尊前谁为唱《阳关》，<br>离恨天涯远。<br>无奈云沉雨散。<br>凭阑干、东风泪眼。<br>海棠开后，<br>燕子来时，<br>黄昏庭院。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4491228)<br><br>2012-03-22 17:02<br>赞(0) 踩(0) | <div>贾鹏芳~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1473651)<br><br>2012-02-28 15:13<br>赞(1) 踩(0) | <div>这段民乐曲，它的生动就体现在一个“摇”字上。它就是1932年刘天华的最后一首传世之作《烛影摇红》，烛影摇红原是词牌名，因为是刘天华在怀念逝去亲人时创作的作品，所以还有另外一个名字《忆古人》，听这首作品，感受用多情二胡描绘出的朦胧烛影和深情相思。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6548128)<br><br>2012-02-14 11:08<br>赞(0) 踩(0) | <div>《一抹天香》这张专辑中最喜欢的一首曲子，二胡婉转悠扬，古筝美丽清雅，结合在一起，非常中国风的一首曲子！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/852495)<br><br>2012-02-07 21:25<br>赞(0) 踩(0) | <div>【不论那人是开心还是不开心，看着那一个火头在红蜡烛摇曳的场景，总是很有意境。】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6863398)<br><br>2012-01-29 13:31<br>赞(0) 踩(0) | <div>贾桑新专辑《一抹天香》@浪漫二胡贾鹏芳</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7306587)<br><br>2012-01-28 11:56<br>赞(0) 踩(0) | <div>充满了浪漫情调！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1671439)<br><br>2012-01-16 20:11<br>赞(1) 踩(0) | <div>忆故人王诜烛影摇红，向夜阑，乍酒醒、心情懒。尊前谁为唱《阳关》，离恨天涯远。无奈云沉雨散。凭阑干、东风泪眼。海棠开后，燕子来时，黄昏庭院。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1671439)<br><br>2012-01-16 20:11<br>赞(1) 踩(0) | <div>忆故人<br>王诜<br>烛影摇红，向夜阑，<br>乍酒醒、心情懒。<br>尊前谁为唱《阳关》，<br>离恨天涯远。<br>无奈云沉雨散。<br>凭阑干、东风泪眼。<br>海棠开后，<br>燕子来时，<br>黄昏庭院。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1761507)<br><br>2012-01-16 11:33<br>赞(0) 踩(0) | <div>活色生香，整张最有剧情感的一首吧（望天）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3559027)<br>蹦擦擦<br>2012-01-15 12:15<br>赞(0) 踩(0) | <div>美成这个样子！贾老师赛高！</div> |

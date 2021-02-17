@@ -78,8 +78,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194017903)<br><br>2021-01-28 12:31<br>赞(0) 踩(0) | <div>好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374397660)<br>神只出现在末世<br>2021-01-16 19:47<br>赞(0) 踩(0) | <div>就第一句好听有感觉， <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79360608)<br>我才不聪明呢！！<br>2021-01-09 19:12<br>赞(0) 踩(0) | <div>还有不到一个月。关服务器</div> |
@@ -96,7 +96,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-10-28 22:17<br>赞(2) 踩(0) | <div>好歌曲顶我上去吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439862909)<br><br>2020-10-21 13:28<br>赞(1) 踩(0) | <div>听听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262869187)<br><br>2020-10-14 09:45<br>赞(1) 踩(0) | <div>从《娃娃脸》以后，就很少听过后弦的新歌了，已经很多很多年了，其实是原来的实在是太好听了，也没功夫听新歌。今天点了几首&amp;ldquo;新歌&amp;rdquo;听听，总感觉:1.后弦声音没有原来清澈了，小清新的歌，说不出是有一种烟嗓还是沧桑的味道；2.歌词是&amp;ldquo;接地气&amp;rdquo;还是&amp;ldquo;落了俗&amp;rdquo;？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443430779)<br>不尽长江滚滚来<br>2020-10-05 09:29<br>赞(1) 踩(0) | <div>香江边上好久没去了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443430779)<br>不尽长江滚滚来<br>2020-10-05 09:29<br>赞(1) 踩(0) | <div>香江边上<br>好久没去了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192393192)<br>虾米 我们不要告别<br>2020-09-28 08:39<br>赞(1) 踩(0) | <div>后弦 一直都是这么棒！认真唱歌 认真创作 给我们传递爱和温暖</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402314799)<br><br>2020-09-28 00:47<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296697733)<br>jinggo<br>2020-09-25 13:14<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
@@ -109,7 +109,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347582412)<br><br>2020-08-19 21:43<br>赞(1) 踩(0) | <div>太好听了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377564602)<br>我还没想好要写什么...<br>2020-08-19 00:32<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280775726)<br><br>2020-08-07 20:52<br>赞(1) 踩(0) | <div>香江在哪里呢？听者这首歌，又觉得自己看过的风景、走过的路、体会过的心情还远远不够啊，请岁月之轮，再转得慢一些吧&amp;hellip;&amp;hellip;</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444425514)<br><br>2020-08-06 06:48<br>赞(1) 踩(0) | <div>20200806一人，在惠州，4:35分，躺在被窝里听着你的歌小小饭桌前，已万家灯火&amp;hellip;&amp;hellip;（又是一夜无眠）&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444425514)<br><br>2020-08-06 06:48<br>赞(1) 踩(0) | <div>20200806<br>一人，在惠州，4:35分，<br>躺在被窝里听着你的歌<br><br><br><br>小小饭桌前，已万家灯火&amp;hellip;&amp;hellip;（又是一夜无眠<br>）<br><br>&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440357682)<br><br>2020-07-31 10:18<br>赞(1) 踩(0) | <div>好听 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368048089)<br><br>2020-07-29 03:28<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444149586)<br>願得此身長報國，何須生入...<br>2020-07-19 10:19<br>赞(1) 踩(0) | <div>家国情怀完美诠释 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -265,7 +265,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443568642)<br><br>2020-07-03 03:45<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297951316)<br>你不妨大胆一些，爱一个人...<br>2019-09-12 04:11<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72225936)<br>如此的恋旧。<br>2019-09-12 01:38<br>赞(2) 踩(0) | <div>后弦这首歌的寓意，不负我爱了这么多年。借此道声诸位中秋圆满。祝福伟大祖国七十华诞，祝愿共和国明日更加繁荣昌盛！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121672188)<br><br>2019-09-11 09:45<br>赞(2) 踩(0) | <div>还是原来的配方还是熟悉的后弦 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121672188)<br><br>2019-09-11 09:45<br>赞(2) 踩(0) | <div>还是原来的配方<br>还是熟悉的后弦 <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45568945)<br><br>2019-09-10 19:45<br>赞(1) 踩(0) | <div>旺角好像没有电车哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329646640)<br>Shine~<br>2019-09-10 19:30<br>赞(1) 踩(0) | <div>Lu❤</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45568945)<br><br>2019-09-09 23:28<br>赞(0) 踩(0) | <div>真希望他们可以在中秋节别闹</div> |
@@ -304,7 +304,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46908032)<br> <br>2019-09-05 20:48<br>赞(0) 踩(0) | <div>好听(ง •̀_•́)ง</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36612599)<br><br>2019-09-05 20:17<br>赞(1) 踩(0) | <div>老味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48435963)<br><br>2019-09-05 19:48<br>赞(1) 踩(0) | <div>铁粉到场！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281241210)<br>一切都是最好的安排<br>2019-09-05 18:37<br>赞(1) 踩(0) | <div>很久没去听新歌了，看到推送，是后弦的，立马听了，旋律果然很后弦～那个年代什么歌都好好听，这首歌又带我回到了那个年代 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281241210)<br>一切都是最好的安排<br>2019-09-05 18:37<br>赞(1) 踩(0) | <div>很久没去听新歌了，看到推送，是后弦的，立马听了，旋律果然很后弦～<br>那个年代什么歌都好好听，这首歌又带我回到了那个年代 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/229155936)<br><br>2019-09-05 18:25<br>赞(0) 踩(0) | <div>阔以滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4192335)<br>听银河<br>2019-09-05 18:21<br>赞(2) 踩(0) | <div>诸君中秋快乐！ <img src="../../../../images/comments/6dcade93a9728bd629c90733016bc0e8.png"> <img src="../../../../images/comments/6dcade93a9728bd629c90733016bc0e8.png">香港永远是中国的一部分，不缺一点才叫圆满 <img src="../../../../images/comments/6dcade93a9728bd629c90733016bc0e8.png"> <img src="../../../../images/comments/6dcade93a9728bd629c90733016bc0e8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42556345)<br><br>2019-09-05 17:52<br>赞(0) 踩(0) | <div>那年的娃娃脸 已然渐行渐远</div> |
@@ -329,7 +329,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121672188)<br><br>2019-09-05 07:56<br>赞(0) 踩(0) | <div>唯一始终如一的歌手——后弦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127380882)<br>呦呼 (๑•̀ᄇ•́)و<br>2019-09-05 07:44<br>赞(1) 踩(0) | <div>我来啦!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/325798632)<br><br>2019-09-05 07:44<br>赞(1) 踩(0) | <div>老大新歌～无限循环</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247153654)<br>声控，声控，声控没得救！<br>2019-09-05 07:35<br>赞(142) 踩(0) | <div>你在香江边上，哼一首老歌我在长江之畔，印下乡愁一颗你在太平山顶，瞰一片夜色我在黄山之间，数着古老银河我们所在的，是同一片山河。后弦寄托的意思，我也许听懂了？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247153654)<br>声控，声控，声控没得救！<br>2019-09-05 07:35<br>赞(142) 踩(0) | <div>你在香江边上，哼一首老歌<br>我在长江之畔，印下乡愁一颗<br>你在太平山顶，瞰一片夜色<br>我在黄山之间，数着古老银河<br><br>我们所在的，是同一片山河。后弦寄托的意思，我也许听懂了？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/786032)<br>我还没想好<br>2019-09-08 21:08<br>赞(0) 踩(0) | <div>用感叹号，不要疑问，相信经过风浪才有收获，家国大团圆！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406040023)<br>我还没想好要写什么...<br>2019-11-01 01:54<br>赞(0) 踩(0) | <div>加油</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444149586)<br>願得此身長報國，何須生入...<br>2020-07-17 10:59<br>赞(0) 踩(0) | <div>后弦是个深爱祖国的歌手</div> |

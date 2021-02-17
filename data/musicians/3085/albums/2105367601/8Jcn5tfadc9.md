@@ -12,20 +12,17 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13249704)<br><br>2020-10-06 23:51<br>赞(0) 踩(0) | <div>不要考虑那么多，旋律抓耳朵，好听不就可以了嘛。之前收藏的，今天才发现是痛仰的，但是没所谓，不管是谁的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283032516)<br>我还没想好要写什么...<br>2020-07-30 07:35<br>赞(0) 踩(0) | <div>早安～～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375335618)<br>C'est la vie<br>2020-03-29 18:26<br>赞(1) 踩(0) | <div>再次觉得背单词是有用的，认出了ethereal还有去年的线代课上认出的kernel像梦里的潮水涌上千百回，踏着石</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375335618)<br>C'est la vie<br>2020-03-29 18:26<br>赞(1) 踩(0) | <div>再次觉得背单词是有用的，认出了ethereal<br>还有去年的线代课上认出的kernel<br>像梦里的潮水涌上千百回，踏着石</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/439993449)<br>精骛八极，心游万仞<br>2020-02-07 09:35<br>赞(0) 踩(0) | <div>雾失楼台，月迷津渡。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6287330)<br>ears can not...<br>2019-12-18 14:50<br>赞(1) 踩(0) | <div>为什么两个专辑下都把窦唯和痛仰比较，窦唯成了标签？我觉得这种风格既是纯音乐，也是氛围音乐，后摇也许是乐队的标签，不过这首歌摇滚的感觉很微弱，除了稍微用点节奏的部分。窦唯后期做的音乐还是有内核有主题情感的，没有这么泛。和歌名相同ethereal“像空气一样的”玩旋律。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4122610)<br><br>2019-11-30 21:35<br>赞(0) 踩(0) | <div>终于要把高虎剔除出队了！！！这样的痛仰我给一百分！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4122610)<br><br>2019-11-30 21:35<br>赞(0) 踩(0) | <div>终于要把高虎剔除出队了！！！<br>这样的痛仰我给一百分！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/125816826)<br>佛家说 烦恼即是菩提<br>2019-11-22 12:39<br>赞(0) 踩(0) | <div>这样的我能听上一整天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11246985)<br><br>2019-11-18 16:24<br>赞(0) 踩(0) | <div>得道了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7077262)<br>喀纳斯—禾木—冰岛—阿拉...<br>2019-11-15 08:09<br>赞(0) 踩(0) | <div>喜欢</div> |
@@ -87,10 +84,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4409103)<br>用户忙<br>2019-10-24 10:43<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28727612)<br> <br>2019-10-24 10:36<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380062671)<br>民谣像风 后摇像海 电子...<br>2019-10-24 10:21<br>赞(0) 踩(0) | <div>神仙下凡的配乐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48115414)<br>坦荡的灵魂<br>2019-10-24 09:58<br>赞(1) 踩(0) | <div>山不在高，有仙则名水不在深，有龙则灵不一样的痛仰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48115414)<br>坦荡的灵魂<br>2019-10-24 09:58<br>赞(1) 踩(0) | <div>山不在高，有仙则名<br>水不在深，有龙则灵<br><br>不一样的痛仰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23862178)<br>ฅ۶•ﻌ•♡<br>2019-10-24 09:47<br>赞(0) 踩(0) | <div>❤️</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350135092)<br>我还没想好要写什么...<br>2019-10-24 09:32<br>赞(0) 踩(0) | <div>痛仰牛B[带墨镜笑]</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347776396)<br>勿施于人<br>2019-10-24 09:15<br>赞(2) 踩(0) | <div>天高云淡，西湖的水也很安静。撑一支篙，船儿慢慢悠悠向前荡去。微风轻轻拂起她的裙角，摘下斗笠，一脸的恬静美好。行至荷花深处，歌声小调想花香一样弥散开来，一双洁白的脚丫一下一下地踢起水花。鱼待会再收，想来也是不迟的，先睡一觉罢。安^_^</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347776396)<br>勿施于人<br>2019-10-24 09:15<br>赞(2) 踩(0) | <div>天高云淡，西湖的水也很安静。<br>撑一支篙，船儿慢慢悠悠向前荡去。<br>微风轻轻拂起她的裙角，摘下斗笠，一脸的恬静美好。<br>行至荷花深处，歌声小调想花香一样弥散开来，一双洁白的脚丫一下一下地踢起水花。<br>鱼待会再收，想来也是不迟的，先睡一觉罢。<br>安^_^</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128810542)<br>网易云:每天170912<br>2019-10-24 08:57<br>赞(1) 踩(0) | <div>心 旷 神 怡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11662974)<br>All for you<br>2019-10-24 08:23<br>赞(1) 踩(0) | <div>哇一听到划水的声音就控制不住自己的爱了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9078112)<br>一念一世界<br>2019-10-24 07:13<br>赞(0) 踩(0) | <div>到年纪了，这是要转后摇的节奏</div> |

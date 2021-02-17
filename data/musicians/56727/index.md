@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ef33bf035ca6c4a8094b40788eb96a49.jpg)<br>哪吒](https://i.xiami.com/nezha) | **播放数**: 7142125<br>**粉丝数**: 14983<br>**评论数**: 592<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll<br> |
+| [![](../../images/musicians/ef33bf035ca6c4a8094b40788eb96a49.jpg)<br>哪吒](https://i.xiami.com/nezha) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll<br>**播放数**: 7142125<br>**粉丝数**: 14983<br>**评论数**: 592<br> |
 
 ## 档案
 
@@ -35,8 +35,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405743998)<br>你好<br>2021-01-23 21:32<br>赞(0) 踩(0) | <div>留下最后的踪迹</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/104457)<br>中年抖腿大师<br>2021-01-06 23:21<br>赞(0) 踩(0) | <div>虾米与好音乐永存，一起站在时间门外吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36601958)<br>你还站在塔尖那吗。<br>2020-08-24 23:41<br>赞(1) 踩(0) | <div>要回来吗</div> |
@@ -45,11 +45,11 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360033180)<br><br>2020-05-07 13:14<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9579707)<br><br>2020-04-30 18:19<br>赞(0) 踩(0) | <div>一开场，还以为是麦田守望者</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13903993)<br>shine on <br>2020-02-16 22:16<br>赞(5) 踩(0) | <div>我俩坐在床边 一边抽烟一边听腰 你说这些专辑再也找不到了 当年觉得贵 也没渠道 现在几千块的价格尽管也出得起 好像都不是那么一回事了 我见摇滚就听 因为遇到你 一切开始不一样 你说为什么觉得你不是好人 但 爱摇滚 怎么会有坏孩子</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40096090)<br> <br>2020-01-06 14:11<br>赞(0) 踩(0) | <div>哪吒只哭过一次从今后不会再有</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40096090)<br> <br>2020-01-06 14:11<br>赞(0) 踩(0) | <div>哪吒只哭过一次<br>从今后不会再有</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34724252)<br>我还没想好要写什么...<br>2019-12-29 15:41<br>赞(0) 踩(0) | <div>我们觉得恨 却离不开 万针刺心</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203939497)<br><br>2019-12-25 23:06<br>赞(1) 踩(0) | <div>写得最好的 小档案</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203960247)<br><br>2019-12-21 21:33<br>赞(0) 踩(0) | <div>NEZHANIUBI</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260992790)<br>I'll Be Your...<br>2019-11-05 05:23<br>赞(4) 踩(0) | <div>只有在紧要关头才会播放哪吒在需要力量的时候在有点绝望的时候詹盼永远少年的声音让我觉得自己一直在时间门外不会老去</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260992790)<br>I'll Be Your...<br>2019-11-05 05:23<br>赞(4) 踩(0) | <div>只有在紧要关头才会播放哪吒<br>在需要力量的时候<br>在有点绝望的时候<br>詹盼永远少年的声音让我觉得自己一直在时间门外不会老去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341192869)<br><br>2019-10-12 09:17<br>赞(7) 踩(0) | <div>“存在于2007年7月~2006年9月”挺魔幻的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411058641)<br>取之不尽 用之不竭<br>2019-09-23 10:59<br>赞(2) 踩(0) | <div>希望维权顺利！支持你们！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2350950)<br>我还没想好要写什么...<br>2019-09-23 07:15<br>赞(0) 踩(0) | <div>最爱的乐队</div> |
@@ -107,7 +107,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45404950)<br><br>2018-02-14 20:22<br>赞(1) 踩(0) | <div>忧郁的孩子们别怕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251527707)<br>我还没想好要写什么...<br>2018-01-29 01:58<br>赞(0) 踩(0) | <div>好啊走呗就是</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336605198)<br><br>2018-01-19 00:05<br>赞(0) 踩(0) | <div>我在等那个人。他也爱你们。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203259740)<br><br>2018-01-01 14:15<br>赞(4) 踩(0) | <div>中国古代最早具有反抗精神的神话人物哪吒然而如今那个挥刀自刎的哪吒早已双手合十</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203259740)<br><br>2018-01-01 14:15<br>赞(4) 踩(0) | <div>中国古代最早具有反抗精神的神话人物哪吒<br>然而如今那个挥刀自刎的哪吒早已双手合十</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332850510)<br> <br>2017-12-24 09:50<br>赞(0) 踩(0) | <div>第521 。 圣诞快乐 希望我能快乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35658691)<br>身行万里半天下<br>2017-12-10 01:44<br>赞(0) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/279471054)<br><br>2017-12-03 23:58<br>赞(0) 踩(0) | <div>2007年7月～2006年9月为什么是反的</div> |
@@ -177,7 +177,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43331756)<br>Shoot the po...<br>2015-12-10 14:12<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44320879)<br>人生岂止爱恨<br>2015-12-07 23:58<br>赞(0) 踩(0) | <div>最可怕的就是被商业化 像这么纯真的歌不多了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39931532)<br>我假装自己是个机器人<br>2015-12-01 10:47<br>赞(0) 踩(0) | <div>哪吒，就是你了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18946216)<br>他很蠢，什么都没留下。<br>2015-11-03 02:07<br>赞(3) 踩(0) | <div>我永远记得第一次听哪吒，那是一个晚上，掺杂着我们这些闲人聊天话语的晚上，我把声音放的很小，嗯，我把专辑放了一遍，好像不是很好听，我把责任怪罪在自己没有认真听，只顾聊天；我也记得一个刚下完雨的晚上，我蹦蹦哒哒地就像小时候那样，我那时候就很想和街道死在一起。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18946216)<br>他很蠢，什么都没留下。<br>2015-11-03 02:07<br>赞(3) 踩(0) | <div>我永远记得第一次听哪吒，那是一个晚上，掺杂着我们这些闲人聊天话语的晚上，我把声音放的很小，嗯，我把专辑放了一遍，好像不是很好听，我把责任怪罪在自己没有认真听，只顾聊天；<br>我也记得一个刚下完雨的晚上，我蹦蹦哒哒地就像小时候那样，我那时候就很想和街道死在一起。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47369751)<br>大米大米！<br>2015-10-20 12:08<br>赞(0) 踩(0) | <div>詹盼声音太棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48090365)<br>救世主的死亡，即为天启！<br>2015-10-11 11:16<br>赞(2) 踩(0) | <div>看完这简介，我知道我一定不能说这乐队不好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49934446)<br>SINA WEIBO:@...<br>2015-10-07 18:35<br>赞(2) 踩(0) | <div>忧郁的孩子们别怕 守护着你们是哪吒 哪吒还有嘎调 我想说的都无关痛痒 无关痛仰</div> |
@@ -187,7 +187,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47013863)<br> <br>2015-09-26 21:32<br>赞(0) 踩(0) | <div>真的 好棒 要是还在就好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1113346)<br>你曾怀疑，别忧郁我们终将...<br>2015-09-25 11:02<br>赞(0) 踩(0) | <div>，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9281390)<br><br>2015-09-08 20:21<br>赞(0) 踩(0) | <div>的飒沓大大大撒大撒的撒</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11250435)<br>我还没想好要写什么...<br>2015-08-29 16:02<br>赞(87) 踩(0) | <div>前几天痛仰发微博表示嫌弃现在市面上的民谣，梅二评论说五十步笑百步。有时候发跟哪吒有关的东西，还会有人以为哪吒只是痛仰的代表。邵宸北成了咖啡师，詹盼某天发了一张姑娘的照片，说很像当年的高鹤。这个世界不缓不急的运转着，人们讨论着充满噱头的东西，却很少真正的听什么东西。我从未觉得这张炒高价格的专辑被高估了。再过几十年，硬件还会越来越好，但是还会有这么充满力量的音乐出现么。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11250435)<br>我还没想好要写什么...<br>2015-08-29 16:02<br>赞(87) 踩(0) | <div>前几天痛仰发微博表示嫌弃现在市面上的民谣，梅二评论说五十步笑百步。<br>有时候发跟哪吒有关的东西，还会有人以为哪吒只是痛仰的代表。<br>邵宸北成了咖啡师，詹盼某天发了一张姑娘的照片，说很像当年的高鹤。<br>这个世界不缓不急的运转着，人们讨论着充满噱头的东西，却很少真正的听什么东西。<br>我从未觉得这张炒高价格的专辑被高估了。再过几十年，硬件还会越来越好，但是还会有这么充满力量的音乐出现么。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45258530)<br>万人如海一身藏 <br>2015-08-28 13:21<br>赞(3) 踩(0) | <div>这艺人简介写的要不要这么赞(´இ皿இ｀)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7154903)<br>~~~~~~~~~~~~<br>2015-08-27 09:43<br>赞(0) 踩(0) | <div>中国摇滚,摇滚,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32176686)<br>Hugs to ashe...<br>2015-08-27 08:39<br>赞(0) 踩(0) | <div>真的好听啊我的天啊</div> |
@@ -237,8 +237,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36347481)<br>MJDMM<br>2015-04-03 18:22<br>赞(0) 踩(0) | <div>明确版权QAQ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9313636)<br> <br>2015-04-02 15:46<br>赞(0) 踩(0) | <div>*</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9327133)<br>不对外开放博物馆<br>2015-03-31 23:01<br>赞(0) 踩(0) | <div>0 0</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-03-31 21:57<br>赞(0) 踩(0) | <div>再多出几张闹一下虾米1165587,6164,378</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15789327)<br> <br>2015-03-29 00:28<br>赞(0) 踩(0) | <div>????????????????????????????????</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2015-03-31 21:57<br>赞(0) 踩(0) | <div>再多出几张闹一下虾米<br>1165587,6164,378</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15789327)<br> <br>2015-03-29 00:28<br>赞(0) 踩(0) | <div>??????????????????????????????<br>??</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12690979)<br><br>2015-03-29 00:10<br>赞(4) 踩(0) | <div>邵宸北微博说”入驻虾米只是为了明确版权，没别的意思，安心吧“  晚安。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15789327)<br> <br>2015-03-29 00:30<br>赞(0) 踩(0) | <div>刚打完一排问号就看到你这条了，还把最后看成了“安息吧”</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2776065)<br>我还没想好要写什么...<br>2015-03-29 07:20<br>赞(0) 踩(0) | <div>哎</div> |
@@ -265,7 +265,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22154064)<br><br>2015-03-27 14:52<br>赞(0) 踩(0) | <div>同被召唤过来 什么鬼！？！？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270973)<br><br>2015-03-27 14:47<br>赞(0) 踩(0) | <div>卧槽？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7931418)<br><br>2015-03-27 14:32<br>赞(1) 踩(0) | <div>入驻了？！是要重组的节奏嘛？！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1928563)<br>在看得见整个天空的地方，...<br>2015-03-27 14:24<br>赞(0) 踩(0) | <div>moshikashide.........................</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1928563)<br>在看得见整个天空的地方，...<br>2015-03-27 14:24<br>赞(0) 踩(0) | <div>moshikashide..................<br>.......</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9898304)<br> <br>2015-03-27 14:05<br>赞(0) 踩(0) | <div>〣( ºΔº )〣</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3462143)<br><br>2015-03-27 14:03<br>赞(0) 踩(0) | <div>哪吒不是解散了吗？什么情况</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1000925)<br>其实我是那谁谁谁。<br>2015-03-27 14:01<br>赞(0) 踩(0) | <div>我来围观！！！</div> |
@@ -277,7 +277,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2223122)<br>我还没想好要写什么...<br>2015-03-27 12:38<br>赞(0) 踩(0) | <div>几个意思嘛！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11265612)<br><br>2015-03-27 12:26<br>赞(0) 踩(0) | <div>什么意思！！！！！！！！！！！！要重组了？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/912140)<br>我还没想好要写什么...<br>2015-03-27 12:16<br>赞(0) 踩(0) | <div>草草！什么情况</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36104)<br> <br>2015-03-27 12:14<br>赞(0) 踩(0) | <div>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36104)<br> <br>2015-03-27 12:14<br>赞(0) 踩(0) | <div>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>!!!!!!!!!!!!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8279196)<br>人间激霸<br>2015-03-27 11:59<br>赞(0) 踩(0) | <div>这是个怎样的信号？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1154943)<br>嬲<br>2015-03-27 11:53<br>赞(0) 踩(0) | <div>擦？！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32176686)<br>Hugs to ashe...<br>2015-03-27 11:48<br>赞(0) 踩(0) | <div>擦</div> |
@@ -331,7 +331,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/775534)<br> <br>2014-11-14 13:40<br>赞(0) 踩(0) | <div>可惜了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28299938)<br>我还没想好要写什么...<br>2014-11-04 15:51<br>赞(0) 踩(0) | <div>就是喜欢哪吒的歌名儿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20699580)<br>Are you an a...<br>2014-10-31 08:28<br>赞(1) 踩(0) | <div>&nbsp;听闹海想哭</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9688911)<br><br>2014-10-27 14:31<br>赞(0) 踩(0) | <div>“北京乐队，存在于2007年7月～2006年9月（具体时间不明）。”我相信这是编辑故意的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9688911)<br><br>2014-10-27 14:31<br>赞(0) 踩(0) | <div>“北京乐队，存在于2007年7月～2006年9月（具体时间不明）。”<br>我相信这是编辑故意的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3781923)<br>别拒绝上帝。<br>2014-10-22 17:27<br>赞(0) 踩(0) | <div>完全为了名字</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28299938)<br>我还没想好要写什么...<br>2014-10-22 11:26<br>赞(0) 踩(0) | <div>少年的歌儿，帆布鞋 小军鼓，布衣裳 笑脸 草场 伙伴们 玩起来好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6424575)<br><br>2014-10-20 06:06<br>赞(0) 踩(0) | <div>因为哪吒这首歌让我想学少林棍</div> |
@@ -384,7 +384,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11484762)<br>你开心我随意<br>2014-06-14 14:19<br>赞(0) 踩(0) | <div><q><b>小怪兽说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5614938)<br> <br>2014-05-26 00:29<br>赞(0) 踩(0) | <div>“环形公路”跟“圈”是啥关系？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8895778)<br>我还没想好要写什么...<br>2015-04-20 01:40<br>赞(0) 踩(0) | <div>同一首歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3715322)<br>1979<br>2014-05-24 21:37<br>赞(0) 踩(0) | <div>95年，billy写下了1979.记录他曾经少年心气，迷茫现在你们又用环形公路继续了这样的故事，不过这次主角变成了我们</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3715322)<br>1979<br>2014-05-24 21:37<br>赞(0) 踩(0) | <div>95年，billy写下了1979.记录他曾经少年心气，迷茫<br><br>现在你们又用环形公路继续了这样的故事，不过这次主角变成了我们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9244357)<br>暂无签名~<br>2014-05-24 09:59<br>赞(0) 踩(0) | <div>出一本儿《他在时间门外》要的私聊.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7633591)<br>做个人吧。<br>2014-06-17 08:37<br>赞(0) 踩(0) | <div>How much</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9244357)<br>暂无签名~<br>2014-06-17 20:27<br>赞(0) 踩(0) | <div><q><b>lessicc说：</b></q></div> |
@@ -396,7 +396,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1383972)<br>世事如歌，而我偏爱这一首<br>2014-04-29 22:41<br>赞(0) 踩(0) | <div>最早豆瓣随机到哪吒，听着完全嗨疯了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31333067)<br>2波伊。<br>2014-04-28 22:13<br>赞(2) 踩(0) | <div>我要抽你的筋，看你还害人不！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10355777)<br>CAO<br>2014-04-21 23:25<br>赞(1) 踩(0) | <div>嘎调  请你重新变回哪吒！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31438015)<br>一切源于模仿...<br>2014-04-12 10:24<br>赞(0) 踩(0) | <div>孩子       刚刚醒，刚刚踏出去吃掉有毒的蘑菇，忘掉新鲜的自己，享受着离开水面的遭遇</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31438015)<br>一切源于模仿...<br>2014-04-12 10:24<br>赞(0) 踩(0) | <div>孩子       刚刚醒，刚刚踏出去<br>吃掉有毒的蘑菇，忘掉新鲜的自己，享受着离开水面的遭遇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33777279)<br>biubiubiu<br>2014-04-06 15:22<br>赞(0) 踩(0) | <div>听到环形公路，想起圈，第一次听到这首歌听到这个声音被感动的稀里哗啦，不管是谁都爱！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1615467)<br> <br>2014-03-11 21:14<br>赞(0) 踩(0) | <div>出张全新未拆  要的私信我</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/846130)<br>如果是真的 就让他来吧<br>2014-05-07 22:39<br>赞(0) 踩(0) | <div>多少钱 是原版吗</div> |
@@ -416,7 +416,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11073019)<br> <br>2013-12-03 19:34<br>赞(0) 踩(0) | <div>早知道当时因该拍个十几张...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1302264)<br> <br>2013-12-02 22:41<br>赞(0) 踩(0) | <div>求CD 有虾友有渠道介绍吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9142155)<br>郝虾米 未知生物是敏感词<br>2013-10-24 20:20<br>赞(1) 踩(0) | <div>专辑里面有什么武林绝学？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2794341)<br>万能青年<br>2013-09-25 16:15<br>赞(252) 踩(0) | <div>哪吒自刎，一片绿洲变为荒漠，绿日化为红日。铁风筝断了线，反光镜成了平光镜。我的化学罗曼史成为历史，痛仰早已不疼不痒。岁月会磨平我们的棱角，也会夺走我们最初的美好。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2794341)<br>万能青年<br>2013-09-25 16:15<br>赞(252) 踩(0) | <div>哪吒自刎，一片绿洲变为荒漠，绿日化为红日。<br>铁风筝断了线，反光镜成了平光镜。<br>我的化学罗曼史成为历史，痛仰早已不疼不痒。<br>岁月会磨平我们的棱角，也会夺走我们最初的美好。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28621324)<br><br>2014-03-05 11:54<br>赞(0) 踩(0) | <div>这话说 的 好。。伤心啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2794341)<br>万能青年<br>2014-03-07 21:44<br>赞(0) 踩(0) | <div><q><b>开心无敌幸运猩说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28621324)<br><br>2014-03-08 11:11<br>赞(0) 踩(0) | <div><q><b>上上上说：</b></q></div> |
@@ -483,7 +483,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275670182)<br>忧郁温柔的，有八块腹肌的...<br>2018-05-12 08:53<br>赞(0) 踩(0) | <div>昨天问了 一张专辑3000人民币起价</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/128124)<br>祝你身体健康<br>2013-03-14 16:15<br>赞(0) 踩(0) | <div>嘎调</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12715090)<br><br>2013-03-06 22:04<br>赞(1) 踩(0) | <div>和彭坦声音好象</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7562991)<br><br>2013-03-02 17:56<br>赞(0) 踩(0) | <div>纯粹糟践东西!!还不如《哪吒闹海》影片里在龙宫中演奏的鱼、虾、蛤蟆呢。<a href="http://v.youku.com/v_show/id_XMzkxOTMzOTUy.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMzkxOTMzOTUy.html</a>好好的一部艺术精品，竟然就这么给毁了。可惜...可耻。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7562991)<br><br>2013-03-02 17:56<br>赞(0) 踩(0) | <div>纯粹糟践东西!!<br>还不如《哪吒闹海》影片里在龙宫中演奏的鱼、虾、蛤蟆呢。<br><a href="http://v.youku.com/v_show/id_XMzkxOTMzOTUy.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMzkxOTMzOTUy.html</a><br>好好的一部艺术精品，竟然就这么给毁了。<br>可惜...可耻。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209452)<br>红。<br>2013-02-23 00:07<br>赞(0) 踩(0) | <div>我爱上哪吒了，大家靠边。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13174865)<br><br>2013-02-22 03:29<br>赞(0) 踩(0) | <div>好乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6048027)<br><br>2013-02-20 11:52<br>赞(1) 踩(0) | <div>购买专辑的600人后来都有了自己的乐队</div> |
@@ -527,7 +527,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12402504)<br>我还没想好要写什么...<br>2017-05-26 22:45<br>赞(0) 踩(0) | <div><q><b>Tycho邓灏之说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/162692100)<br> <br>2018-05-02 14:01<br>赞(0) 踩(0) | <div>？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50017194)<br>我还没想好要写什么...<br>2018-06-27 11:51<br>赞(0) 踩(0) | <div>应该毛关系都没</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124152208)<br><br>2019-04-06 23:17<br>赞(0) 踩(0) | <div>搞不明白为什么在哪吒这里踩痛仰，论头像的话，痛仰的哪吒形象可以追溯到03年的专辑封面，甚至更早   ……搞不明白</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124152208)<br><br>2019-04-06 23:17<br>赞(0) 踩(0) | <div>搞不明白为什么在哪吒这里踩痛仰，论头像的话，痛仰的哪吒形象可以追溯到03年的专辑封面，甚至更早   ……<br>搞不明白</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1354646)<br><br>2012-11-11 22:21<br>赞(1) 踩(0) | <div>解散了的乐队都是好乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431362)<br><br>2012-11-10 07:31<br>赞(0) 踩(0) | <div>卧槽 手贱了又忍不住点开 听第一句就受不了了  瘫软了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431362)<br><br>2012-11-10 07:24<br>赞(0) 踩(0) | <div>那什么 小怪物去天国  这女声太太也让人受不了 想听又不敢听</div> |
@@ -582,7 +582,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/782808)<br>bie<br>2012-01-08 20:40<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5442673)<br><br>2012-01-02 09:52<br>赞(0) 踩(0) | <div>~~~~~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3957252)<br><br>2011-12-23 10:18<br>赞(0) 踩(0) | <div>好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5689806)<br><br>2011-12-21 23:20<br>赞(0) 踩(0) | <div>如果中弹了就躺在街上吧，我们会和街道死在一起。忧郁的孩子们别害怕，守卫你们的是哪吒!!!!!!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5689806)<br><br>2011-12-21 23:20<br>赞(0) 踩(0) | <div>如果中弹了就躺在街上吧，我们会和街道死在一起。<br>忧郁的孩子们别害怕，守卫你们的是哪吒!!!!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77866)<br> <br>2011-12-21 22:05<br>赞(0) 踩(0) | <div>虾米居然有资源 OMG。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1078538)<br><br>2011-12-21 00:13<br>赞(0) 踩(0) | <div>档案真好看</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1748666)<br>我还没想好要写什么...<br>2011-12-19 16:50<br>赞(0) 踩(0) | <div>潜水艇司机</div> |

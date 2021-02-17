@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/74e555725789cd9d353c1c588e7be4b6.jpg)<br>潘佳杰](https://i.xiami.com/panjiajie) | **播放数**: 2143890<br>**粉丝数**: 468<br>**评论数**: 33<br>**地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 新世纪音乐 New Age, 器乐流行 Instrumental Pop, 轻音乐流行 Light Pop, 器乐独奏 Solo Instrumental<br> |
+| [![](../../images/musicians/74e555725789cd9d353c1c588e7be4b6.jpg)<br>潘佳杰](https://i.xiami.com/panjiajie) | **地区**: China 中国大陆<br>**风格**: 轻音乐 Easy Listening, 新世纪音乐 New Age, 器乐流行 Instrumental Pop, 轻音乐流行 Light Pop, 器乐独奏 Solo Instrumental<br>**播放数**: 2143890<br>**粉丝数**: 468<br>**评论数**: 33<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -39,8 +36,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3395937)<br>living in th...<br>2020-10-15 16:32<br>赞(0) 踩(0) | <div>平静淡然，非常喜欢潘老师的作品！ <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364546789)<br>嘛！这个还差点意思<br>2020-06-25 11:08<br>赞(1) 踩(0) | <div>潘姐姐的音乐听着很舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423220543)<br><br>2020-05-31 23:16<br>赞(0) 踩(0) | <div>惊艳，爱了爱了</div> |
@@ -68,7 +65,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2644274)<br>从虾米一路走来，留下了许...<br>2015-11-17 00:00<br>赞(0) 踩(0) | <div>一片海的距离 很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45696208)<br><br>2015-04-20 21:27<br>赞(0) 踩(0) | <div>《恋着你的秋天》第一次听就感觉发现了新大陆，非常喜欢这样纯情的钢琴曲，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45696208)<br><br>2015-04-20 21:27<br>赞(0) 踩(0) | <div>《恋着你的秋天》第一次听就感觉发现了新大陆，非常喜欢这样纯情的钢琴曲，</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32257997)<br><br>2014-09-06 11:39<br>赞(1) 踩(0) | <div>第一次听到《月光情书》就被优美的旋律深深的吸引了，果断将其作为自己游玩后正在制作的百里画廊风光音乐背景！马上搜其作品和个人介绍，太有才了，果断收藏专辑！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32257997)<br><br>2014-09-06 11:39<br>赞(1) 踩(0) | <div>第一次听到《月光情书》就被优美的旋律深深的吸引了，果断将其作为自己游玩后正在制作的百里画廊风光音乐背景！<br>马上搜其作品和个人介绍，太有才了，果断收藏专辑！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38783383)<br>完成自己原创音乐梦想<br>2014-07-31 11:17<br>赞(0) 踩(0) | <div>呵呵，支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2066472)<br>扛过、撑过、拼过、奔过…<br>2013-12-11 08:09<br>赞(0) 踩(0) | <div>生日快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4393157)<br><br>2013-09-04 22:56<br>赞(0) 踩(0) | <div>唔~好听  心情顿时好了起来</div> |

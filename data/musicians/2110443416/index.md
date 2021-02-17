@@ -3,13 +3,10 @@ Zic子晨
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6696ebfa4a177947b300178b797fb8be.jpg)<br>Zic子晨](https://i.xiami.com/zichen) | **播放数**: 12210522<br>**粉丝数**: 635<br>**评论数**: 41<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/6696ebfa4a177947b300178b797fb8be.jpg)<br>Zic子晨](https://i.xiami.com/zichen) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 12210522<br>**粉丝数**: 635<br>**评论数**: 41<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -41,8 +38,8 @@ Zic子晨
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402919689)<br><br>2020-09-07 17:20<br>赞(0) 踩(0) | <div>很好听，喜欢你的音乐。。。加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420790507)<br><br>2020-02-27 06:50<br>赞(0) 踩(0) | <div>❤️❤️❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7588232)<br>蝦～<br>2020-02-16 03:16<br>赞(0) 踩(0) | <div>加油</div> |
@@ -55,7 +52,7 @@ Zic子晨
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403983935)<br><br>2019-03-29 12:20<br>赞(0) 踩(0) | <div>声音很好听，特别有特点，希望你以后发更多歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420790507)<br><br>2019-03-10 00:21<br>赞(0) 踩(0) | <div>喜欢你的歌声加油哟</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287557278)<br>唯EXO<br>2019-01-25 21:51<br>赞(0) 踩(0) | <div>跨年夜渭南听过 <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287557278)<br>唯EXO<br>2019-01-25 21:44<br>赞(0) 踩(0) | <div>听过现场 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png">校友唉 加油额</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287557278)<br>唯EXO<br>2019-01-25 21:44<br>赞(0) 踩(0) | <div>听过现场 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"><br>校友唉 加油额</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204796074)<br>再见。<br>2019-01-19 23:38<br>赞(0) 踩(0) | <div>沃德玛雅，真的好好听，还是西安的小哥❤支持您</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408217476)<br><br>2018-12-07 21:26<br>赞(0) 踩(0) | <div>愿……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343484671)<br><br>2018-11-01 22:05<br>赞(4) 踩(0) | <div>喜欢你</div> |

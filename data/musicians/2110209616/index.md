@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/866a083379082664db58058c5b7d0271.jpeg)<br>颜阿达Ada](https://i.xiami.com/ada) | **播放数**: 7549525<br>**粉丝数**: 441<br>**评论数**: 29<br>**地区**: China 中国大陆<br>**风格**: 氛围音乐 Ambient, 自然采样 Field Recordings, 实验音乐 Experimental, 极简潮 Minimal Wave, 实验电子 Experimental Electronic<br> |
+| [![](../../images/musicians/866a083379082664db58058c5b7d0271.jpeg)<br>颜阿达Ada](https://i.xiami.com/ada) | **地区**: China 中国大陆<br>**风格**: 氛围音乐 Ambient, 自然采样 Field Recordings, 实验音乐 Experimental, 极简潮 Minimal Wave, 实验电子 Experimental Electronic<br>**播放数**: 7549525<br>**粉丝数**: 441<br>**评论数**: 29<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -27,8 +24,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358104299)<br>悲观的唯心存在现实解构虚...<br>2020-11-21 06:21<br>赞(1) 踩(0) | <div>42087</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410102579)<br><br>2020-08-30 22:46<br>赞(0) 踩(0) | <div>我的天，这是10岁孩子唱的？真是厉害啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444137506)<br><br>2020-07-15 21:05<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -37,7 +34,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25153156)<br>那是我们的都回去不的从前...<br>2020-03-04 13:04<br>赞(0) 踩(0) | <div>听你的音乐已经三年了，继续...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244083199)<br><br>2020-01-04 00:21<br>赞(0) 踩(0) | <div>虾米上最喜欢听的歌手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337488050)<br>我还没想好要写什么...<br>2019-08-26 10:02<br>赞(1) 踩(0) | <div>10后不到十岁？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246573200)<br>活得像个人样<br>2019-06-30 06:53<br>赞(0) 踩(0) | <div>10后的姑娘。江山代有才人出 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246573200)<br>活得像个人样<br>2019-06-30 06:53<br>赞(0) 踩(0) | <div>10后的姑娘。<br>江山代有才人出 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355648744)<br><br>2019-05-12 20:25<br>赞(3) 踩(0) | <div>宝藏女孩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333442934)<br><br>2019-02-04 13:14<br>赞(0) 踩(0) | <div>很舒服</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244083199)<br><br>2018-12-31 12:30<br>赞(0) 踩(0) | <div>真好听，随机听到惊艳了我。</div> |

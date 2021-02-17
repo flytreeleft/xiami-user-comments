@@ -23,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278435486)<br><br>2021-01-10 13:45<br>赞(0) 踩(0) | <div>磁场太强大了，感恩！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3855918)<br>我还没想好要写什么...<br>2019-12-29 18:08<br>赞(1) 踩(0) | <div>听了一下午</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3855918)<br>我还没想好要写什么...<br>2019-12-29 13:01<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
@@ -34,7 +34,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352591904)<br>水流心不竞，云在意俱迟<br>2019-05-21 12:49<br>赞(1) 踩(0) | <div>空，灵，净 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8395361)<br><br>2019-04-07 23:58<br>赞(5) 踩(0) | <div>这首和我真的很有缘啊，紧张不安的时候，病床上惊惶的时候，犹豫迷茫走投无路的时候，听它就能平静，能对未来不存恶意。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/401785276)<br><br>2019-03-10 17:55<br>赞(0) 踩(0) | <div>净化心灵</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407633101)<br>心<br>2018-12-07 18:00<br>赞(2) 踩(0) | <div>感恩诸佛菩萨加持 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png">顶礼诸佛菩萨 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407633101)<br>心<br>2018-12-07 18:00<br>赞(2) 踩(0) | <div>感恩诸佛菩萨加持 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"><br>顶礼诸佛菩萨 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409421994)<br><br>2018-11-26 22:29<br>赞(1) 踩(0) | <div>嗡嘛呢呗咪吽</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349929218)<br>阿弥陀佛<br>2018-11-18 08:55<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29078696)<br>水利万物名不争，火暖世间...<br>2018-11-12 14:49<br>赞(2) 踩(0) | <div>很多年分享给一朋友听，反馈是这首音乐治好了她的抑郁症，南无阿弥陀佛，南无药师琉璃光如来</div> |

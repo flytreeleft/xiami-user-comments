@@ -12,18 +12,15 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48435084)<br>虾米，我爱你啊<br>2020-10-06 20:05<br>赞(1) 踩(0) | <div>对不起啊，我爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43135215)<br>一别两宽<br>2020-01-26 02:12<br>赞(3) 踩(0) | <div>公主第二次结婚的时候，也像薛绍一样，新婚之夜，晾了武悠嗣一夜，她一个人漫无目的的走在长安的街上，天色微亮时，吃了一碗小摊上的馄饨，然后伴着晨雾，慢慢走回府中，寂寞悲凉又美丽。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403380808)<br><br>2019-11-28 20:15<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303870407)<br><br>2019-11-19 19:28<br>赞(0) 踩(0) | <div>初次相遇面具背后一双多情的眼</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303870407)<br><br>2019-11-19 19:28<br>赞(0) 踩(0) | <div>初次相遇<br>面具背后<br>一双多情的眼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247590970)<br>我们并不拥抱<br>2019-11-11 12:09<br>赞(1) 踩(0) | <div>明媚后隐蔽的诗，无缘感悟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95093648)<br>什么新歌 我不懂 我不会...<br>2019-09-08 05:11<br>赞(1) 踩(0) | <div>一部让独身主义产生动摇的剧 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3457401)<br>thinking什么<br>2019-08-20 22:35<br>赞(0) 踩(0) | <div>好听、记得小时候看这个片就记得这个歌～薛绍揭开面具那时啊</div> |
@@ -42,31 +39,31 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366245812)<br>此去已经年<br>2019-02-09 23:12<br>赞(1) 踩(0) | <div>长相守</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330944)<br><br>2018-12-22 22:04<br>赞(0) 踩(0) | <div>这个版本似乎在剧中没出现过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358145551)<br><br>2018-12-16 13:45<br>赞(1) 踩(0) | <div>可望而不可即的爱情，就像无法摘下的星星</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409087270)<br><br>2018-12-14 10:00<br>赞(3) 踩(0) | <div>盼可以是和亲人重逢盼也许想和故人相见见与不见心中有爱就好见与不见眼中有情就美慢慢人生亲情，有情，爱情有谁能够割舍只有默默在心中独自承受有悠长美妙音乐一起涌动足矣！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409087270)<br><br>2018-12-14 10:00<br>赞(3) 踩(0) | <div>盼<br>可以是和亲人重逢<br>盼<br>也许想和故人相见<br><br>见与不见<br>心中有爱就好<br>见与不见<br>眼中有情就美<br><br>慢慢人生<br>亲情，有情，爱情<br>有谁能够割舍<br>只有默默在心中独自承受<br><br>有悠长美妙音乐一起涌动<br>足矣！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/171973896)<br>我还没想好要写什么...<br>2018-11-29 21:11<br>赞(0) 踩(0) | <div>请问有人知道第一个乐器是什么吗？是萧吗？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371052138)<br><br>2018-12-10 11:58<br>赞(0) 踩(0) | <div>葫芦丝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/223430483)<br>我还没想好要写什么...<br>2018-11-15 16:01<br>赞(1) 踩(0) | <div>就像梦见朝思暮想了七年的人和他人结婚，新娘乖巧美丽，我站在路边目送他们远行。。。这是我的大脑在潜意识里提醒我，自己再也承受不起这种绝望的感情，就像慧娘死前对薛绍说，也许这就是我们的缘分，是尽头了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310792133)<br><br>2018-10-04 13:59<br>赞(1) 踩(0) | <div>薛绍在慧娘坟前，说坚持不下去的时候的音乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356443603)<br><br>2018-08-15 23:08<br>赞(2) 踩(0) | <div>幽幽的伤感，道不尽的人世悲欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183816126)<br> <br>2018-08-11 02:16<br>赞(3) 踩(0) | <div>就像你寻找到貌似的爱感觉对方跟你一样情愫时所有一切哑然而止你的这种痛，真的无法释怀后半生的缘，终究是曲折无望的爱，不如不爱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183816126)<br> <br>2018-08-11 02:16<br>赞(3) 踩(0) | <div>就像你寻找到貌似的爱<br>感觉对方跟你一样情愫时<br>所有一切哑然而止<br>你的这种痛，真的无法释怀<br>后半生的缘，终究是曲折<br>无望的爱，不如不爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43135215)<br>一别两宽<br>2018-02-18 02:06<br>赞(2) 踩(0) | <div>我在等昆仑奴&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9619243)<br><br>2018-01-12 17:19<br>赞(1) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41924144)<br>心安是归处<br>2018-01-09 13:18<br>赞(3) 踩(0) | <div>欢从何处来 郎行去不归</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/131206336)<br><br>2018-01-01 02:13<br>赞(3) 踩(0) | <div>盼望，在这首歌里是一种带着惆怅的思念，或许也是由明转暗的期待，驶向未可预言的将来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341605166)<br><br>2017-12-26 22:15<br>赞(1) 踩(0) | <div>归 期 飞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337922730)<br>放弃过<br>2017-12-23 21:47<br>赞(0) 踩(0) | <div>百听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41924144)<br>心安是归处<br>2017-12-17 18:48<br>赞(4) 踩(0) | <div>秋风清 秋月明落叶聚还散 寒鸦栖复惊相思相见知何日？此时此夜难为情入我相思门 知我相思苦长相思兮长相忆短相思兮无穷极早知如此绊人心何如当初莫相识</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41924144)<br>心安是归处<br>2017-12-17 18:48<br>赞(4) 踩(0) | <div>秋风清 秋月明<br>落叶聚还散 寒鸦栖复惊<br>相思相见知何日？<br>此时此夜难为情<br>入我相思门 知我相思苦<br>长相思兮长相忆<br>短相思兮无穷极<br>早知如此绊人心<br>何如当初莫相识</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287560371)<br><br>2017-12-10 01:47<br>赞(1) 踩(0) | <div>听歌时最可怕的事情是，它居然引你发起了某种情愫，欲罢，却不能。人生若只如初见......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332643750)<br><br>2017-11-27 22:34<br>赞(2) 踩(0) | <div>相见时难别亦难，东风无力百花残</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96952742)<br>性格怪<br>2017-09-26 22:34<br>赞(0) 踩(0) | <div>盼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4335403)<br><br>2017-09-15 02:22<br>赞(9) 踩(0) | <div>为什么人想要追求爱情这种东西，又要伤心难过不敢去追求，多情本身就是恼人的吧，古来圣贤皆看不清，我一介凡夫俗子又怎么能看清这人事物的变换，本来只求问心无愧，可如今心有愧疚，欲挥慧剑斩情丝，可我怕这一剑下去，会后悔一辈子。怕怕怕，难难难，暂时寄情于山水之间。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/205895368)<br>你转身的一瞬，我萧条的一...<br>2017-08-12 00:42<br>赞(1) 踩(0) | <div>这版本是黄雅诗《陪伴》啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225519685)<br>一个非常不擅长社交但是爱...<br>2017-05-24 01:41<br>赞(3) 踩(0) | <div>如果深情注定是桩悲剧，最永远好没有开始，因为没有开始便不会失去。从今以后他人笑你疯癫，你却只笑他人看不穿</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225519685)<br>一个非常不擅长社交但是爱...<br>2017-05-24 01:41<br>赞(3) 踩(0) | <div>如果深情注定是桩悲剧，最永远好没有开始，因为没有开始便不会失去。<br><br>从今以后他人笑你疯癫，你却只笑他人看不穿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33611592)<br>音乐是药<br>2017-05-21 16:33<br>赞(0) 踩(0) | <div>非常经典</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/275405610)<br><br>2017-03-27 13:07<br>赞(1) 踩(0) | <div>薛绍    你知道吗！我在长安街初次遇见你，摘下你面具的那一刻，我爱上你了那爱来的太快让我措手不及，直到多年后，再次遇见你，你却已为人夫，但我还是依然爱你，之后发生的种种，悲喜交加，你是我毕生最爱，盼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22567687)<br>鲁塞哦<br>2016-10-13 21:25<br>赞(3) 踩(0) | <div>迷幻的琴音引出如斯缠绵的葫芦丝</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/174384736)<br><br>2016-10-11 00:26<br>赞(0) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34663437)<br> <br>2016-10-03 18:04<br>赞(15) 踩(0) | <div>拂帘娉婷两三步踌躇 踱步终是以叹息了数</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34663437)<br> <br>2016-10-03 18:04<br>赞(15) 踩(0) | <div>拂帘<br>娉婷两三步<br>踌躇 踱步<br>终是以叹息了数</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50181864)<br>有些话就像呢喃，说者有心...<br>2016-07-30 16:15<br>赞(0) 踩(0) | <div>无望</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54600389)<br>落入凡尘<br>2016-04-18 21:17<br>赞(4) 踩(0) | <div>谁家的清笛，渐响渐远。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1554842)<br><br>2016-02-10 00:40<br>赞(3) 踩(0) | <div>拥有即是失去的开始</div> |

@@ -59,8 +59,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39970752)<br><br>2021-02-05 09:15<br>赞(0) 踩(0) | <div>再见</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31231955)<br> <br>2021-02-04 23:44<br>赞(0) 踩(0) | <div>再见啦虾米，后会有期。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250870854)<br>。<br>2021-01-30 14:45<br>赞(0) 踩(0) | <div>嗨，虾米要没了去哪里找这些好听的老歌</div> |
@@ -122,16 +122,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7241799)<br><br>2017-10-30 10:17<br>赞(0) 踩(0) | <div>最近喜欢听小众乐队</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5848254)<br>网易云 :Hui灰四  ...<br>2017-10-30 10:11<br>赞(0) 踩(0) | <div>最近挺喜欢这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1633903)<br>汤圆圆<br>2017-10-30 10:10<br>赞(0) 踩(0) | <div>昨晚上是《情歌而已》陪我跨的年~一群苦逼青年唱着情歌去看黑木耳，黑木耳回答“情歌而已”~突然觉得这首歌完全就是为屌丝所写啊~@声音碎片乐队 @刘光蕊 @山姆小姐不打烊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47930625)<br>期待在宇宙相遇<br>2017-10-30 10:00<br>赞(1) 踩(0) | <div>那年你笑说这前奏像滑板鞋，我笑着没说话。分开后我来这儿评论与你的相关，希望你能看到。后来我发现可能你根本都不用虾米，根本什么都看不到。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47930625)<br>期待在宇宙相遇<br>2017-10-30 10:00<br>赞(1) 踩(0) | <div>那年你笑说这前奏像滑板鞋，我笑着没说话。<br>分开后我来这儿评论与你的相关，希望你能看到。<br>后来我发现可能你根本都不用虾米，根本什么都看不到。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95428162)<br>人生若无悔  那该多无趣<br>2020-08-13 12:41<br>赞(0) 踩(0) | <div>优越感不可取哦，hxd</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47930625)<br>期待在宇宙相遇<br>2020-08-19 15:02<br>赞(0) 踩(0) | <div><q><b>啊哈~说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95428162)<br>人生若无悔  那该多无趣<br>2021-01-06 00:37<br>赞(0) 踩(0) | <div><q><b>wu说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100091702)<br>极致天蝎：若不独特，勿宁...<br>2017-10-30 09:49<br>赞(1) 踩(0) | <div>为什么心不会死？因为还有梦；为什么还不停下脚步？因为还有很多景想去看；为什么还期待爱？因为还有值得的人会来……累吗？怕吗？痛吗？会累会怕会痛甚至想去死___ 但是还会继续，因为生命还未到终点……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177081028)<br>三分钟热度<br>2017-10-29 10:42<br>赞(1) 踩(0) | <div>曾经我把“曾经我们不分白天黑夜  唱着情歌一路来看你”变成了我听了一路情歌“来到你的城市” 没见你然后只身一人去只身一人回</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177081028)<br>三分钟热度<br>2017-10-29 10:42<br>赞(1) 踩(0) | <div>曾经<br>我把“曾经我们不分白天黑夜  唱着情歌一路来看你”<br>变成了我听了一路情歌“来到你的城市” 没见你<br>然后只身一人去只身一人回</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54177557)<br>像花儿一样绚烂<br>2017-10-28 00:25<br>赞(0) 踩(0) | <div>忽远忽近，而你在哪里！你们都不见了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32861601)<br>我还没想好要写什么...<br>2017-10-28 00:22<br>赞(1) 踩(0) | <div>这是声音碎片的其中一首歌 他们的歌我经常听 能让我在安静的夜晚去思考反省自己 更重要的是有一个平和的心</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4478032)<br>松下千年菊未残<br>2017-10-27 23:58<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你 祝所有在热情或在平淡中的朋友们情人节快乐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/801394)<br>冷峻，即是精神。<br>2017-10-27 23:08<br>赞(0) 踩(0) | <div>唯有情歌貌似单纯会唱的人却已经沉默唱到心里。溢在泪里。淌在忆里。情歌而已。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/801394)<br>冷峻，即是精神。<br>2017-10-27 23:08<br>赞(0) 踩(0) | <div>唯有情歌貌似单纯<br>会唱的人却已经沉默<br><br>唱到心里。<br>溢在泪里。<br>淌在忆里。<br><br>情歌而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1406503)<br><br>2017-10-22 21:27<br>赞(0) 踩(0) | <div>阿斯顿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281295136)<br>邂逅在末日<br>2017-08-08 10:58<br>赞(1) 踩(0) | <div>唱着情歌，一路来干你，仅此而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7569165)<br>。<br>2017-08-04 19:21<br>赞(0) 踩(0) | <div>前奏怎么好像我的滑板鞋</div> |
@@ -140,7 +140,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/67991400)<br>我只不过是个没有梦想的伪...<br>2017-07-24 02:48<br>赞(0) 踩(0) | <div>为没听到这首歌与听到却不懂的宝宝们 感到深深的遗憾而惋惜！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27844638)<br>我会想念这伟大世界的乌有...<br>2017-06-17 00:58<br>赞(0) 踩(0) | <div>好久没打开，一打开就是声碎</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6144066)<br><br>2017-04-10 15:45<br>赞(0) 踩(0) | <div>太难听了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47014665)<br>如同时光 总是滚滚向黄昏...<br>2017-03-21 20:26<br>赞(0) 踩(0) | <div>眼睛低迷情不自禁的对她说&amp;ldquo;情歌而已。&amp;rdquo;她走了。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47014665)<br>如同时光 总是滚滚向黄昏...<br>2017-03-21 20:26<br>赞(0) 踩(0) | <div>眼睛低迷<br>情不自禁的对她说<br>&amp;ldquo;情歌而已。&amp;rdquo;<br>她走了。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24711605)<br>于是转身向大海走去！<br>2017-05-29 10:39<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/bd3f990f15147859d024e4e142a53f13.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208319864)<br>除非你是我，才可与我常在...<br>2016-11-17 18:30<br>赞(0) 踩(0) | <div>我这最近播放还有呢，这就下架了？？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51940228)<br><br>2016-10-26 23:43<br>赞(0) 踩(0) | <div>前奏的编曲简直了。。</div> |
@@ -169,7 +169,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47183770)<br>我还没想好要写什么...<br>2016-07-15 02:24<br>赞(0) 踩(0) | <div>！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47183770)<br>我还没想好要写什么...<br>2016-07-15 02:14<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85066700)<br>许个愿<br>2016-07-11 00:03<br>赞(0) 踩(0) | <div>对你而言，我又算什么呢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1289254)<br><br>2016-07-09 23:02<br>赞(2) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已如果我们不分白天黑夜唱着情歌一路来看你你一定回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1289254)<br><br>2016-07-09 23:02<br>赞(2) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已<br>如果我们不分白天黑夜<br>唱着情歌一路来看你<br>你一定回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/89066002)<br><br>2016-07-09 14:59<br>赞(0) 踩(0) | <div>怎么听得我这么想哭啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38875603)<br>爱，美，善，思想与自由<br>2016-07-06 00:38<br>赞(0) 踩(0) | <div>唱着情歌一路来看你～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38875603)<br>爱，美，善，思想与自由<br>2016-07-06 00:37<br>赞(0) 踩(0) | <div>唱着情歌一路来看你～</div> |
@@ -232,8 +232,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49474059)<br>听的明白么你<br>2016-04-19 21:35<br>赞(0) 踩(0) | <div>真的  听出了一种回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49474059)<br>听的明白么你<br>2016-04-19 21:35<br>赞(0) 踩(0) | <div>爱死了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30365758)<br>爱音乐爱生活。<br>2016-04-17 20:07<br>赞(0) 踩(0) | <div>情歌而已 <img src="../../../../images/comments/60194ae3ac03254b358b2d4278d5542d.png"> <img src="../../../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41092403)<br> <br>2016-04-17 13:09<br>赞(1) 踩(0) | <div>“你分享给我的这首歌好好听呀”“哦，情歌而已”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41092403)<br> <br>2016-04-17 13:08<br>赞(1) 踩(0) | <div>“你分享给我的这首歌好好听呀”“哦，情歌而已”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41092403)<br> <br>2016-04-17 13:09<br>赞(1) 踩(0) | <div>“你分享给我的这首歌好好听呀”<br>“哦，情歌而已”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41092403)<br> <br>2016-04-17 13:08<br>赞(1) 踩(0) | <div>“你分享给我的这首歌好好听呀”<br>“哦，情歌而已”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54993507)<br>一个人对自己都无能为力，...<br>2016-04-15 19:07<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你，你如此回答 情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43637501)<br><br>2016-04-15 09:59<br>赞(1) 踩(0) | <div>你如此回答。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43637501)<br><br>2016-04-15 09:53<br>赞(0) 踩(0) | <div>你一定回答</div> |
@@ -279,7 +279,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243588)<br>谁比谁都清醒。所以，谁比...<br>2016-03-05 00:29<br>赞(0) 踩(0) | <div>封面好不喜欢 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/868146)<br><br>2016-03-04 13:48<br>赞(1) 踩(0) | <div>突然觉得陈绮贞唱这首也挺适合</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79994618)<br><br>2016-06-12 17:45<br>赞(0) 踩(0) | <div>脑洞大开呀 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png">，我也想听听陈老师唱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15895848)<br>有什么好写的，反正写不写...<br>2016-03-03 14:42<br>赞(0) 踩(0) | <div>出差的时间马上就结束了，马上要回我的base地北京了，可是，可是我的心里始终放不下你，放心吧，无论天涯海角，我会一直想着你，听着这首情歌一直想你。等我学会了吉他，我会把我弹奏演唱录成视频寄给你。千言万语，我只希望你过得好，因为……我会把我们的照片洗出来放在我住的地方，这样我就能每天看到你。嗯，谢谢，坐在我背面的那个你，嗯，陈</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15895848)<br>有什么好写的，反正写不写...<br>2016-03-03 14:42<br>赞(0) 踩(0) | <div>出差的时间马上就结束了，马上要回我的base地北京了，可是，可是我的心里始终放不下你，放心吧，无论天涯海角，我会一直想着你，听着这首情歌一直想你。<br>等我学会了吉他，我会把我弹奏演唱录成视频寄给你。<br>千言万语，我只希望你过得好，因为……<br>我会把我们的照片洗出来放在我住的地方，这样我就能每天看到你。<br>嗯，谢谢，坐在我背面的那个你，嗯，陈</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13193561)<br>如果<br>2016-03-03 23:54<br>赞(0) 踩(0) | <div>搞那么文艺，你不就是约炮了</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15895848)<br>有什么好写的，反正写不写...<br>2016-03-04 07:59<br>赞(0) 踩(0) | <div><q><b>joey说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47506430)<br>陆止于此，情始于斯<br>2016-03-03 08:13<br>赞(1) 踩(0) | <div>蒙着眼睛的爱人，我在这儿。</div> |
@@ -307,7 +307,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47494497)<br>李志、陈升，“虾米也没有...<br>2016-02-16 13:03<br>赞(0) 踩(0) | <div>吉他像</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84172226)<br>重新开始<br>2016-02-12 01:05<br>赞(0) 踩(0) | <div>白日解不开的结 留在黑夜慢慢耗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49821192)<br> <br>2016-02-11 13:36<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49821192)<br> <br>2016-02-11 13:34<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49821192)<br> <br>2016-02-11 13:34<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，<br>唱着情歌一路来看你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/112448892)<br>不至于活的像条咸鱼。<br>2016-02-10 12:05<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52789792)<br>夜里带着耳机才能入眠，上...<br>2016-02-07 19:37<br>赞(1) 踩(0) | <div>这首歌配上这个嗓音很到位 <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/103263960)<br>我还没想好要写什么...<br>2016-02-05 23:30<br>赞(0) 踩(0) | <div>就酱</div> |
@@ -427,7 +427,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8667248)<br>你眼中的夕阳<br>2015-11-20 22:28<br>赞(0) 踩(0) | <div>我擦  血祭坛那一集的  你这么一说还真是!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75856284)<br><br>2015-11-08 23:59<br>赞(0) 踩(0) | <div>才气，仅此而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51774047)<br>分享一些杂七杂八的东西 <br>2015-11-06 08:21<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜 唱着情歌一路来看你～莫宁☺️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50069138)<br><br>2015-11-02 17:03<br>赞(0) 踩(0) | <div>经过一个村庄之后我们突然失去了语言经过一座城市之后我们刻意丢弃了声音一切表达都已多余温暖不了某个夜晚唯有情歌貌似单纯会唱的人却已经沉默</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50069138)<br><br>2015-11-02 17:03<br>赞(0) 踩(0) | <div>经过一个村庄之后<br>我们突然失去了语言<br>经过一座城市之后<br>我们刻意丢弃了声音<br>一切表达都已多余<br>温暖不了某个夜晚<br>唯有情歌貌似单纯<br>会唱的人却已经沉默</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61399750)<br>让我再爱你一遍<br>2015-11-02 12:26<br>赞(2) 踩(0) | <div>后悔了吧。后悔没有早点明白他说的意思，后悔没有跟他默契一点。可是不怪你啊，勇气不是说有就有，就当遇到已经用光勇气好了。错过，就别再执着。不过还是想问一句，我曾是你的babe吗。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77591608)<br>我知道我站在人群里，挺傻...<br>2015-11-02 09:48<br>赞(1) 踩(0) | <div>前奏太安逸了～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12690979)<br><br>2015-11-01 23:20<br>赞(0) 踩(0) | <div>情歌而已</div> |
@@ -553,7 +553,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12380596)<br><br>2015-08-03 20:55<br>赞(3) 踩(0) | <div>前奏让我不自觉的摩擦摩擦 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40990341)<br>偶尔闪现。基本只用来听五...<br>2015-08-03 01:15<br>赞(0) 踩(0) | <div>1005</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3875675)<br>步履不停<br>2015-08-01 12:50<br>赞(0) 踩(0) | <div>兜风</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4291905)<br>朝闻道，夕死可矣<br>2015-07-31 15:35<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来干你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4291905)<br>朝闻道，夕死可矣<br>2015-07-31 15:35<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来干你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27329281)<br><br>2015-07-30 23:01<br>赞(1) 踩(0) | <div>换了虾米的“虾猜电台”，又认识了一些新的歌曲和音乐人！这个声音我就很喜欢了，反反复复听了几遍，感觉其背后的演奏团队也很了不起！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49220727)<br>江湖寥落尔安归<br>2015-07-30 19:50<br>赞(0) 踩(0) | <div>这希望这样的创作者能够坚持！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47367763)<br> <br>2015-07-30 02:14<br>赞(0) 踩(0) | <div>~</div> |
@@ -572,7 +572,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35207884)<br>杂食<br>2015-07-28 06:01<br>赞(3) 踩(0) | <div>都特么是虚的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41667971)<br>。<br>2015-07-27 09:29<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12765574)<br>散会<br>2015-07-27 01:51<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来干你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1434231)<br><br>2015-07-26 13:42<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来干你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1434231)<br><br>2015-07-26 13:42<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来干你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52791848)<br>财富不是永远的朋友，但朋...<br>2015-07-26 11:33<br>赞(0) 踩(0) | <div>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41547671)<br><br>2015-07-25 23:21<br>赞(0) 踩(0) | <div>一路来干你 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30770830)<br> <br>2015-07-25 12:41<br>赞(0) 踩(0) | <div>额</div> |
@@ -614,12 +614,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46867807)<br><br>2015-07-06 10:35<br>赞(5) 踩(0) | <div>年轻的时候什么话都想说都敢说，不甘被误解乐于去解释。再后来，内心翻江倒海之时想勾一瓢水给你尝尝咸淡，却怎么也起不了涟漪。一辈子每一天都在成长，无奈的是，你要站在真理的对立面去做坏人，并且假装自己已然刀枪不入对恶言左耳进右耳出路途的方向与远近绝非个人可以抉择，能做的只有向前，遇河蹚着过。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50472464)<br><br>2015-07-16 04:39<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9066420)<br>我还没想好要写什么...<br>2015-07-04 23:53<br>赞(0) 踩(0) | <div>这首现场版最佳！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3531256)<br>永远年轻，永远热泪盈眶<br>2015-07-03 22:05<br>赞(43) 踩(0) | <div>小基呜要去英国前夕从上海来杭州找我。我住下沙。我们约在武林门见面。地铁转公交，我风尘仆仆一路去看他，我们去酒球会看声碎现场。乐队好像第二天要去舟山，演了个把钟头就走了。我们背着包，跟学生时代一样，在有些许凉意的深夜街头喝酒、走路。好像都没喝醉，说了好几吨话，但一句也想不起来了。我们在武林门道别，我和的士司机说这是我朋友要出国了，这两年是见不上面了。然而年轻时是不会考量时间的，两年如白驹过隙，如今小基呜回国了，我也离开杭州了。有时感到生活不断消散，唯《情歌而已》重新响起，方觉年轻曾是真实存有的一件真事情。前尘隔海，往事如烟，在音乐里，一切美好如初。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3531256)<br>永远年轻，永远热泪盈眶<br>2015-07-03 22:05<br>赞(43) 踩(0) | <div>小基呜要去英国前夕从上海来杭州找我。<br><br>我住下沙。我们约在武林门见面。<br><br>地铁转公交，我风尘仆仆一路去看他，我们去酒球会看声碎现场。<br><br>乐队好像第二天要去舟山，演了个把钟头就走了。<br><br>我们背着包，跟学生时代一样，在有些许凉意的深夜街头喝酒、走路。<br><br>好像都没喝醉，说了好几吨话，但一句也想不起来了。<br><br>我们在武林门道别，我和的士司机说这是我朋友要出国了，这两年是见不上面了。<br><br>然而年轻时是不会考量时间的，两年如白驹过隙，如今小基呜回国了，我也离开杭州了。<br><br>有时感到生活不断消散，唯《情歌而已》重新响起，方觉年轻曾是真实存有的一件真事情。<br><br>前尘隔海，往事如烟，在音乐里，一切美好如初。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5629122)<br><br>2015-07-09 23:47<br>赞(0) 踩(0) | <div>在音乐里，一切美好如初。写得好。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3531256)<br>永远年轻，永远热泪盈眶<br>2017-08-11 21:37<br>赞(0) 踩(0) | <div><q><b>悠悠说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1621678)<br> <br>2020-12-02 16:55<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25715982)<br>永远爱你。<br>2015-07-02 20:08<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌，一路来看你。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11168706)<br>v:380083778<br>2015-07-02 10:42<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来干你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11168706)<br>v:380083778<br>2015-07-02 10:42<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来干你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42621744)<br><br>2015-07-01 21:11<br>赞(0) 踩(0) | <div>一路来干你 是故意的吗 <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"> <img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44425813)<br> <br>2015-07-01 10:24<br>赞(0) 踩(0) | <div>滑板鞋2333333</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3583995)<br>一個人的戰爭<br>2015-07-01 00:33<br>赞(0) 踩(0) | <div></div> |
@@ -806,7 +806,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44629724)<br>Kk<br>2015-01-01 19:39<br>赞(0) 踩(0) | <div>昏昏沉沉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2502751)<br>各人有各人的修行<br>2015-01-01 05:41<br>赞(0) 踩(0) | <div>早安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3003455)<br>´･ω･`<br>2014-12-31 20:19<br>赞(0) 踩(0) | <div>2014最后一天的第一首歌，情歌而已</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12568947)<br>当年我为少年郎<br>2014-12-29 19:42<br>赞(1) 踩(0) | <div>我还记得你也曾翻山越岭来看我在我怀里甜蜜地唱着情歌我们是多么的甜蜜发誓相伴终老只是 岁月滤去了所有的浪漫留给我们的是无休止的争执最终分手如路人每个夜深人静的时候我还是想你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12568947)<br>当年我为少年郎<br>2014-12-29 19:42<br>赞(1) 踩(0) | <div>我还记得你也曾翻山越岭来看我<br>在我怀里甜蜜地唱着情歌<br>我们是多么的甜蜜<br>发誓相伴终老<br>只是 岁月滤去了所有的浪漫<br>留给我们的是无休止的争执<br>最终分手如路人<br>每个夜深人静的时候<br>我还是想你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9685180)<br>-<br>2014-12-27 22:13<br>赞(1) 踩(0) | <div>写给你的情歌别人是懂了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28157740)<br>很晚了，你到家了吗<br>2014-12-23 14:07<br>赞(0) 踩(0) | <div>你一定回答 情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32031632)<br><br>2014-12-23 09:02<br>赞(0) 踩(0) | <div>旋律优雅，格调清新，顶！</div> |
@@ -827,7 +827,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5579931)<br> <br>2014-11-24 17:15<br>赞(1) 踩(0) | <div>很久之前收藏的歌，久到完全没有印象，就像第一次听一样，但听到后依旧是喜欢。看来对音乐的品味多年未变。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7939672)<br><br>2014-11-23 13:46<br>赞(0) 踩(0) | <div>他们每一首歌儿的词曲都美极了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7939672)<br><br>2014-11-23 13:42<br>赞(0) 踩(0) | <div>他们所有歌儿的词曲都美极了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1498331)<br> <br>2014-11-23 05:07<br>赞(0) 踩(0) | <div>这个前奏我只能想起下面这些歌词。。。。有些事我都已忘记但我现在还记得在一个晚上我的母亲问我今天怎么不开心我说在我的想象中有一双滑板鞋与众不同最时尚跳舞肯定棒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1498331)<br> <br>2014-11-23 05:07<br>赞(0) 踩(0) | <div>这个前奏我只能想起下面这些歌词。。。。<br>有些事我都已忘记<br>但我现在还记得<br>在一个晚上我的母亲问我<br>今天怎么不开心<br>我说在我的想象中有一双滑板鞋<br>与众不同最时尚跳舞肯定棒</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9723762)<br>暂无签名~<br>2014-11-23 23:09<br>赞(0) 踩(0) | <div>哈哈哈毫无违和感</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6265001)<br>URDA1 (⑉°з°)...<br>2014-12-02 17:29<br>赞(0) 踩(0) | <div>hhhh看完这条我又拉回去听了一遍开头</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19308380)<br><br>2014-12-12 11:08<br>赞(0) 踩(0) | <div><q><b>holy BOWL说：</b></q></div> |
@@ -875,7 +875,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1327618)<br>我喜欢你（网易云花兮未晞...<br>2014-09-14 15:42<br>赞(0) 踩(0) | <div>没有方向就去寻找  别的一切都已不重要</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3250268)<br>一首好歌都比爱一个人长久...<br>2014-09-14 14:51<br>赞(0) 踩(0) | <div>只是情歌而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7215545)<br><br>2014-09-14 00:20<br>赞(0) 踩(0) | <div>不必多说，情歌而已</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32574836)<br>我还没想好要写什么...<br>2014-09-13 23:40<br>赞(0) 踩(0) | <div>感情分两种。一见钟情——见色起意日久生情——权衡利弊。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32574836)<br>我还没想好要写什么...<br>2014-09-13 23:40<br>赞(0) 踩(0) | <div>感情分两种。一见钟情——见色起意<br><br>日久生情——权衡利弊。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17741326)<br>音乐，生活，人生<br>2014-09-16 14:54<br>赞(0) 踩(0) | <div></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7028987)<br>marry the Un...<br>2014-12-14 10:11<br>赞(0) 踩(0) | <div>哈哈 认同</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6189162)<br><br>2014-09-10 17:13<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你，你如此回答，情歌而已。</div> |
@@ -905,17 +905,17 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14213706)<br><br>2014-07-25 00:33<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜 唱着情歌一路来看你 你如此回答 情歌而已 如果我们不分白天黑夜 唱着情歌一路来看你 你一定回答 情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1677413)<br>总在途中……<br>2014-07-22 19:09<br>赞(0) 踩(0) | <div>距离上一张，已经过去六年</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15249593)<br>我是暴雨 你还是你<br>2014-07-21 14:01<br>赞(0) 踩(0) | <div>以前对一人感兴趣，他微博就发了这么一句，以为说给哪个姑娘的情话，搜了后听了后就爱上了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16928273)<br><br>2014-07-20 18:08<br>赞(1) 踩(0) | <div>唯有情歌貌似单纯会唱的人却已经沉默</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16928273)<br><br>2014-07-20 18:08<br>赞(1) 踩(0) | <div>唯有情歌貌似单纯<br>会唱的人却已经沉默</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23424682)<br>我还没想好要写什么...<br>2014-07-20 03:12<br>赞(0) 踩(0) | <div>这前奏和间奏太美了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11969859)<br>感谢相遇<br>2014-07-16 21:40<br>赞(0) 踩(0) | <div>过年的时候，疯狂的听这首歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38575455)<br><br>2014-07-13 02:58<br>赞(0) 踩(0) | <div>凌晨3点  淡淡的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160091)<br><br>2014-07-12 21:15<br>赞(0) 踩(0) | <div>唱得快哭了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355708)<br><br>2014-07-07 13:47<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜唱着情歌一路来看你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355708)<br><br>2014-07-07 13:47<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜<br>唱着情歌一路来看你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33839242)<br>我们总是在寻找<br>2014-07-06 23:26<br>赞(0) 踩(0) | <div>九号晚上启程，唱着情歌，顺流而下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15828925)<br>a version of...<br>2014-06-24 23:43<br>赞(0) 踩(0) | <div>多好啊，曾经我们不分白天黑夜，唱着情歌一路来看你，我觉得我已经有病了，不过还是挺好的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36570916)<br><br>2014-06-22 15:11<br>赞(1) 踩(0) | <div>如果非要选一种中国最好的音乐，我选民谣！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16717485)<br>雪崩的时候，没有一片雪花...<br>2014-06-22 12:22<br>赞(0) 踩(0) | <div>安静安静</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9949548)<br><br>2014-06-08 14:35<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9949548)<br><br>2014-06-08 14:35<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35392659)<br>我还没想好要写什么...<br>2014-07-05 11:00<br>赞(0) 踩(0) | <div>〜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11256780)<br> <br>2014-06-06 12:22<br>赞(0) 踩(0) | <div>现场泪崩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14027721)<br><br>2014-06-03 19:37<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你</div> |
@@ -930,9 +930,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26066210)<br>不眞実の世界······<br>2014-05-15 03:39<br>赞(0) 踩(0) | <div>前奏好美！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32527071)<br><br>2014-05-13 23:47<br>赞(0) 踩(0) | <div>每隔一段时间都会很想念他们会让脚步变轻快的悠扬旋律 刚把铃声换成优美低于生活 就又听到这歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/548733)<br><br>2014-05-11 22:25<br>赞(0) 踩(0) | <div>撕碎，拼贴，而已。交给时间的，让时间告诉你。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36441697)<br><br>2014-05-10 17:17<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已5月3号下午六点半迷笛主舞声音碎片身边有一个女孩听到这首歌哭了起来转身抱着我抱着抱着我也莫名的哭了</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36441697)<br><br>2014-05-10 17:17<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已<br>5月3号下午六点半<br>迷笛主舞声音碎片<br>身边有一个女孩听到这首歌<br>哭了起来<br>转身抱着我<br>抱着抱着<br>我也莫名的哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12525855)<br><br>2014-05-09 10:09<br>赞(0) 踩(0) | <div>哎呀，好有感觉~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5059603)<br><br>2014-05-08 13:40<br>赞(0) 踩(0) | <div>我们突然失去了语言经过一座城市之后我们刻意丢弃了声音一切表达都已多余</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5059603)<br><br>2014-05-08 13:40<br>赞(0) 踩(0) | <div>我们突然失去了语言<br>经过一座城市之后<br>我们刻意丢弃了声音<br>一切表达都已多余</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5098357)<br><br>2014-05-03 08:51<br>赞(0) 踩(0) | <div>事实证明 不管几点睡一定７点醒。。。黑眼圈不是一点点恐怖  不要相信懒觉了 重新做人洗心革面早睡吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25202171)<br>爱摇滚爱生活！<br>2014-04-30 10:15<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你。你如此回答，情歌而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13603138)<br> <br>2014-04-29 23:05<br>赞(0) 踩(0) | <div>一切表达都已多余，温暖不了某个夜晚</div> |
@@ -958,7 +958,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1813541)<br><br>2014-03-22 20:53<br>赞(0) 踩(0) | <div>谁帮我听一下1分44秒那一句 唱的是不是“曾经我们不分白天黑夜唱着情歌一路来**”。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2653771)<br>嘿<br>2014-03-27 19:21<br>赞(0) 踩(0) | <div>多好的情歌啊， 你脑袋里都是啥啥啥吗</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23698933)<br> <br>2014-04-05 10:08<br>赞(0) 踩(0) | <div>一路来看你。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29447490)<br><br>2014-03-22 17:40<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29447490)<br><br>2014-03-22 17:40<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15812447)<br>大爱不爱。<br>2014-03-21 12:15<br>赞(0) 踩(0) | <div>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34271749)<br><br>2014-03-19 23:38<br>赞(0) 踩(0) | <div>碎片乐队,,,</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477015)<br> <br>2014-03-19 23:08<br>赞(0) 踩(0) | <div>&amp;quot;你咋就是火不了，高中到大学推荐给身边的人，他们每个人都强烈的喜欢&amp;quot;</div> |
@@ -984,18 +984,18 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7708591)<br> <br>2014-02-20 09:45<br>赞(0) 踩(0) | <div>都是情歌罢了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11969859)<br>感谢相遇<br>2014-02-15 08:32<br>赞(0) 踩(0) | <div>终于想起名字了，情歌而已，真的只是而已么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27844638)<br>我会想念这伟大世界的乌有...<br>2014-02-14 12:33<br>赞(0) 踩(0) | <div>元宵快乐送给大家</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4046418)<br>我还没想好要写什么...<br>2014-02-13 20:25<br>赞(0) 踩(0) | <div>nice！无形但是完整的氛围，当你闭上了眼睛，风暴来自你的心。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4046418)<br>我还没想好要写什么...<br>2014-02-13 20:25<br>赞(0) 踩(0) | <div>nice！<br>无形但是完整的氛围，当你闭上了眼睛，风暴来自你的心。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20789426)<br>暂无签名~<br>2014-02-13 07:48<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8533890)<br><br>2014-02-12 20:59<br>赞(0) 踩(0) | <div>如果电影《我想和你好好的》里面冯绍峰在酒吧里唱给倪妮的是这首歌 那她就爱上他比较有说服力</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28727686)<br>呵呵<br>2014-02-12 20:03<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜 唱着情歌一路来看你 你一定回答 情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9109633)<br><br>2014-02-08 20:25<br>赞(0) 踩(0) | <div>唯有情歌貌似单纯 会唱的人却已经沉默</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4200163)<br>很无趣一人。<br>2014-01-31 18:27<br>赞(0) 踩(0) | <div>听一次就要感慨一次 前奏太美了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28319753)<br><br>2014-01-26 15:03<br>赞(0) 踩(0) | <div>唯有情歌貌似单纯 会唱的人却早已沉默</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28319753)<br><br>2014-01-26 12:02<br>赞(0) 踩(0) | <div>唯有情歌貌似单纯会唱的人却已经沉默曾经我们不分白天黑夜唱着情歌一路来看你你如此回答#情歌而已#</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28319753)<br><br>2014-01-26 12:02<br>赞(0) 踩(0) | <div>唯有情歌貌似单纯<br>会唱的人却已经沉默<br>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>#情歌而已#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12220609)<br>一杯温水<br>2014-01-26 10:42<br>赞(0) 踩(0) | <div>今日心情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31744391)<br>暂无签名~<br>2014-01-20 22:37<br>赞(0) 踩(0) | <div>好听！如果我们不分白天黑夜，唱着情歌一路来看你，你一定回答，情歌而已。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8227431)<br><br>2014-01-20 13:40<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21369010)<br><br>2014-01-18 14:08<br>赞(0) 踩(0) | <div>经过一个村庄之后我们突然失去了语言经过一座城市之后我们刻意丢弃了声音一切表达都是多余</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8227431)<br><br>2014-01-20 13:40<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21369010)<br><br>2014-01-18 14:08<br>赞(0) 踩(0) | <div>经过一个村庄之后<br>我们突然失去了语言<br>经过一座城市之后<br>我们刻意丢弃了声音<br>一切表达都是多余</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1666775)<br> <br>2014-01-16 10:47<br>赞(0) 踩(0) | <div>不分白天黑夜，唱着情歌来看你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23675839)<br><br>2014-01-13 17:46<br>赞(0) 踩(0) | <div>非常棒的前奏！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16488562)<br><br>2014-01-09 11:03<br>赞(1) 踩(0) | <div>偶然听到的小众歌曲，整张专辑都不错</div> |
@@ -1008,18 +1008,18 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2579325)<br><br>2013-12-27 18:09<br>赞(0) 踩(0) | <div>听得人想哭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20285419)<br> <br>2013-12-24 23:37<br>赞(0) 踩(0) | <div>Merry Christmas</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22539314)<br>弃用！<br>2013-12-22 11:40<br>赞(0) 踩(0) | <div>忍不住重复分享一次，无论多浓烈的情感，都会回归平淡。而那平淡回望，剩下的脉脉温暖才是真爱。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163685)<br>你本无意穿堂风，偏偏孤居...<br>2013-12-21 20:37<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜唱着情歌一路来看你你一定回答情歌而已。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163685)<br>你本无意穿堂风，偏偏孤居...<br>2013-12-21 20:36<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜唱着情歌一路来看你你一定回答情歌而已。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163685)<br>你本无意穿堂风，偏偏孤居...<br>2013-12-21 20:35<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜唱着情歌一路来看你你一定回答情歌而已。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163685)<br>你本无意穿堂风，偏偏孤居...<br>2013-12-21 20:37<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜<br>唱着情歌一路来看你<br>你一定回答<br>情歌而已<br>。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163685)<br>你本无意穿堂风，偏偏孤居...<br>2013-12-21 20:36<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜<br>唱着情歌一路来看你<br>你一定回答<br>情歌而已<br>。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163685)<br>你本无意穿堂风，偏偏孤居...<br>2013-12-21 20:35<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜<br>唱着情歌一路来看你<br>你一定回答<br>情歌而已<br>。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3457118)<br><br>2013-12-20 08:57<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9080508)<br>可知道 你的光 耀了我<br>2013-12-17 13:45<br>赞(0) 踩(0) | <div>12.17.ஐ</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29897823)<br><br>2013-12-16 18:42<br>赞(0) 踩(0) | <div>嗯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22849786)<br>我还没想好要写什么...<br>2013-12-16 13:58<br>赞(0) 踩(0) | <div>歌词与旋律的完美结合</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22849786)<br>我还没想好要写什么...<br>2013-12-16 13:56<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22849786)<br>我还没想好要写什么...<br>2013-12-16 13:56<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/640699)<br><br>2013-12-15 04:13<br>赞(0) 踩(0) | <div>以为已经遗忘的情感看到这首歌名再次听到这首歌 过去的忧伤还是会灌满我的身体 “你如此说着 情歌而已”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3705416)<br><br>2013-12-15 02:31<br>赞(0) 踩(0) | <div>「 曾经我们不分白天黑夜 唱着情歌一路来看你 你如此回答 情歌而已。」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7866645)<br>任时光匆匆流去<br>2013-12-14 16:32<br>赞(164) 踩(0) | <div>我好喜欢好喜欢这首歌的前奏啊</div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19308380)<br><br>2014-12-19 17:41<br>赞(0) 踩(0) | <div>有些事我都已忘记但我现在还记得</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19308380)<br><br>2014-12-19 17:41<br>赞(0) 踩(0) | <div>有些事我都已忘记<br>但我现在还记得</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7202517)<br><br>2015-04-09 16:34<br>赞(0) 踩(0) | <div>为什么前奏让我以为是许巍的歌呢</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10804480)<br>pinocchio<br>2015-04-21 12:30<br>赞(0) 踩(0) | <div><q><b>toetal说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7916637)<br><br>2015-08-16 10:25<br>赞(0) 踩(0) | <div>这前奏难道不是我的滑板鞋吗？ <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
@@ -1035,7 +1035,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10121825)<br><br>2013-12-07 23:44<br>赞(0) 踩(0) | <div>感觉对了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8874772)<br><br>2013-12-07 23:41<br>赞(0) 踩(0) | <div>Te amo</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29120317)<br><br>2013-12-06 09:39<br>赞(0) 踩(0) | <div>情歌而已。。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28939502)<br><br>2013-12-03 12:56<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你。曾经不只是曾经，情歌不只是情歌:)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28939502)<br><br>2013-12-03 12:56<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你。<br>曾经不只是曾经，情歌不只是情歌:)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7089014)<br><br>2013-12-02 23:42<br>赞(0) 踩(0) | <div>一切表达都是多余，温暖不了某一个夜晚，唯有情歌貌似单纯，会唱的人却已经沉默啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6396306)<br><br>2013-11-27 13:16<br>赞(0) 踩(0) | <div>烦哭了 ！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1752682)<br><br>2013-11-20 06:38<br>赞(0) 踩(0) | <div>32个赞</div> |
@@ -1062,7 +1062,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5521613)<br><br>2013-10-21 01:33<br>赞(0) 踩(0) | <div>最好给你一片空旷，让你失去喧嚣的勇气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14607746)<br>我还没想好要写什么...<br>2013-10-18 22:36<br>赞(0) 踩(0) | <div>某人分享的 真好听 收藏了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14607746)<br>我还没想好要写什么...<br>2013-10-18 21:50<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜 唱着情歌一路来看你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183993)<br><br>2013-10-14 20:53<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜/唱着情歌一路来看你/你一定回答/情歌而已/没有方向就去寻找/别的一切都已不重要/最好给你一片空旷/让你失去喧闹的勇气/</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/183993)<br><br>2013-10-14 20:53<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜/<br>唱着情歌一路来看你/<br>你一定回答/<br>情歌而已/<br>没有方向就去寻找/<br>别的一切都已不重要/<br>最好给你一片空旷/<br>让你失去喧闹的勇气/</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12470046)<br><br>2013-10-11 00:39<br>赞(0) 踩(0) | <div>小时候不懂欣赏的乐队。不懂欣赏的歌。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2447483)<br><br>2013-10-10 00:16<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜 唱着情歌一路来看你 你如此回答 情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4759597)<br><br>2013-10-08 23:50<br>赞(0) 踩(0) | <div>脑袋里回旋了一整夜</div> |
@@ -1134,13 +1134,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13616220)<br><br>2013-08-04 13:21<br>赞(0) 踩(0) | <div>经过一座城市之后/我们刻意丢弃了声音/一切表达都已多余/温暖不了某个夜晚/唯有情歌貌似单纯/会唱的人却已经沉默……曾经我们不分白天黑夜/唱着情歌一路来看你/你如此回答/情歌而已……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8123629)<br>我还没想好要写什么...<br>2013-08-04 10:00<br>赞(0) 踩(0) | <div>＂曾经不分白天黑夜,唱着情歌一路来看你＂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/684736)<br><br>2013-08-04 00:33<br>赞(0) 踩(0) | <div>好听到舍不得睡啊@基森金金金</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2439714)<br>soulmates<br>2013-08-03 23:23<br>赞(1) 踩(0) | <div>经过一个村庄之后我们突然失去了语言经过一座城市之后我们刻意丢弃了声音一切表达都是多余温暖不了某一个夜晚没有方向就去寻找别的一切都已不重要最好给你一片空旷让你失去喧闹的勇气曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2439714)<br>soulmates<br>2013-08-03 23:23<br>赞(1) 踩(0) | <div>经过一个村庄之后<br>我们突然失去了语言<br>经过一座城市之后<br>我们刻意丢弃了声音<br>一切表达都是多余<br>温暖不了某一个夜晚<br><br>没有方向就去寻找<br>别的一切都已不重要<br>最好给你一片空旷<br>让你失去喧闹的勇气<br>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4190558)<br><br>2013-08-01 19:55<br>赞(0) 踩(0) | <div>很好听哦、咩嘻嘻、</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12746135)<br>哈哈<br>2013-07-31 10:23<br>赞(0) 踩(0) | <div>要哭！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/836294)<br><br>2013-07-30 10:26<br>赞(0) 踩(0) | <div>@王晓宁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4043410)<br>唯夜色浪漫<br>2013-07-26 22:03<br>赞(0) 踩(0) | <div>不错的可听性，氛围表达不错，值得推荐。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7209163)<br><br>2013-07-26 13:54<br>赞(0) 踩(0) | <div>【曾经我们不分白天黑夜  唱着情歌一路来看你】其实有很多好听的作品可以供这些选秀歌手去选择的，但似乎他们的听歌量有限还是怎么的？总是选各大选秀比赛快唱烂的，怎么有自己的特色啊。推荐这首给当下选秀的歌手。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1529526)<br><br>2013-07-26 00:57<br>赞(0) 踩(0) | <div>live全场合唱之后感动值飙升；）经过一个村庄之后我们突然失去了语言经过一座城市之后我们刻意丢弃了声音一切表达都已多余温暖不了某个夜晚唯有情歌貌似单纯会唱的人却已经沉默曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已如果我们不分白天黑夜唱着情歌一路来看你你一定回答情歌而已没有方向就去寻找别的一切都已不重要最好给你一片空旷让你失去喧闹的勇气曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已如果我们不分白天黑夜唱着情歌一路来看你你一定回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1529526)<br><br>2013-07-26 00:57<br>赞(0) 踩(0) | <div>live全场合唱之后感动值飙升；）<br><br>经过一个村庄之后<br>我们突然失去了语言<br>经过一座城市之后<br>我们刻意丢弃了声音<br>一切表达都已多余<br>温暖不了某个夜晚<br>唯有情歌貌似单纯<br>会唱的人却已经沉默<br><br>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已<br>如果我们不分白天黑夜<br>唱着情歌一路来看你<br>你一定回答情歌而已<br><br>没有方向就去寻找<br>别的一切都已不重要<br>最好给你一片空旷<br>让你失去喧闹的勇气<br><br>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已<br>如果我们不分白天黑夜<br>唱着情歌一路来看你<br>你一定回答情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13576774)<br><br>2013-07-25 23:58<br>赞(0) 踩(0) | <div>你一定回答 情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16923432)<br><br>2013-07-22 09:43<br>赞(0) 踩(0) | <div>情歌而已！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8677104)<br><br>2013-07-21 00:48<br>赞(0) 踩(0) | <div>只是情歌而已。但是却不知唱了多少遍</div> |
@@ -1172,9 +1172,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8556106)<br><br>2013-06-29 06:09<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你.........单曲循环一个学期了TT</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8966955)<br><br>2013-06-27 12:03<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16380795)<br><br>2013-06-27 08:55<br>赞(0) 踩(0) | <div>一首舒缓柔情的情歌，让人心动不已。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2416837)<br>一只乌鸦正从身体里飞出<br>2013-06-26 17:16<br>赞(0) 踩(0) | <div>cengjingwomenbufenbaitianheiyechangzheqinggeyilulaikanni:)</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2416837)<br>一只乌鸦正从身体里飞出<br>2013-06-26 17:16<br>赞(0) 踩(0) | <div>cengjingwomenbufenbaitianheiye<br>changzheqinggeyilulaikanni:)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13969367)<br><br>2013-06-26 05:13<br>赞(0) 踩(0) | <div>记得张悬有一次live说“不用太紧张 不过是音乐而已”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10946557)<br><br>2013-06-23 20:30<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10946557)<br><br>2013-06-23 20:30<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1634932)<br><br>2013-06-23 10:12<br>赞(0) 踩(0) | <div>水逆到歌上了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7026950)<br><br>2013-06-18 22:57<br>赞(0) 踩(0) | <div>#yoann电台#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16087799)<br><br>2013-06-18 14:30<br>赞(0) 踩(0) | <div>没有方向就去寻找 / 别的一切都已不重要 / 最好给你一片空旷 / 让你失去喧闹的 /  勇气曾经我们不分白天黑夜 / 唱着情歌一路来看你 / 你如此回答 / 情歌而已</div> |
@@ -1185,7 +1185,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4987040)<br><br>2013-06-13 11:58<br>赞(0) 踩(0) | <div>我们唱着情歌一路来看你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6166411)<br>喜歡的城市 ，沒有妳。<br>2013-06-13 02:03<br>赞(0) 踩(0) | <div>情歌而已 - 声音碎片</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1498306)<br>喧哗上等 夜路西苦<br>2013-06-12 01:35<br>赞(0) 踩(0) | <div>骚气的前奏太爽了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9135379)<br><br>2013-06-11 00:40<br>赞(0) 踩(0) | <div>最好给你一片空旷让你失去喧闹的勇气曾经我们不分白天黑夜唱着情歌一路来看你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9135379)<br><br>2013-06-11 00:40<br>赞(0) 踩(0) | <div>最好给你一片空旷<br>让你失去喧闹的勇气<br>曾经我们不分白天黑夜<br>唱着情歌一路来看你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5754852)<br><br>2013-06-10 14:30<br>赞(0) 踩(0) | <div>开车路上继续听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8876910)<br>a picture of...<br>2013-06-10 00:09<br>赞(0) 踩(0) | <div>我爱这首歌，太爱了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1635982)<br><br>2013-06-08 14:07<br>赞(0) 踩(0) | <div>情歌而已，太骚了，喜欢这骚骚的节奏，骚骚的歌词，骚骚的声音</div> |
@@ -1198,14 +1198,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13910323)<br><br>2013-06-02 22:55<br>赞(1) 踩(0) | <div>在躁动的人群里，你的歌声给我留下了最美好的印象。站我前面的那人，虽然我不认识你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5460163)<br>咻咻哔。。。<br>2013-06-02 17:25<br>赞(0) 踩(0) | <div>情歌而个已而已。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3677690)<br><br>2013-06-02 00:15<br>赞(0) 踩(0) | <div>情歌而已。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2570932)<br>嗯<br>2013-06-01 15:01<br>赞(0) 踩(0) | <div>经过一个村庄之后我们突然失去了语言经过一座城市之后我们刻意丢弃了声音一切表达都已多余温暖不了某个夜晚唯有情歌貌似单纯会唱的人却已经沉默曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已如果我们不分白天黑夜唱着情歌一路来看你你一定回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2570932)<br>嗯<br>2013-06-01 15:01<br>赞(0) 踩(0) | <div>经过一个村庄之后<br>我们突然失去了语言<br>经过一座城市之后<br>我们刻意丢弃了声音<br>一切表达都已多余<br>温暖不了某个夜晚<br>唯有情歌貌似单纯<br>会唱的人却已经沉默<br>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已<br>如果我们不分白天黑夜<br>唱着情歌一路来看你<br>你一定回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1457115)<br>nice for you<br>2013-06-01 14:16<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜 唱着情歌一路来看你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8048723)<br><br>2013-05-31 10:13<br>赞(0) 踩(0) | <div>这个乐队的配器很好听啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5127097)<br>我还没想好要写什么...<br>2013-05-29 18:59<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你，你如此回答，情歌而已。如果我们不分白天黑夜，唱着情歌一路来看你。你一定回答，情歌而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15485126)<br><br>2013-05-29 12:07<br>赞(1) 踩(0) | <div>情歌而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4212709)<br>あなたをめぐる惑星<br>2013-05-28 17:36<br>赞(0) 踩(0) | <div>我未曾去过这座我无感的城市的海边，因为我不能忍受我这种莫名的厌恶，所以总是不知疲倦的长途跋涉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11341516)<br>trying to w<br>2013-05-28 00:50<br>赞(0) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9135379)<br><br>2013-05-26 23:57<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9135379)<br><br>2013-05-26 23:57<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8253669)<br> <br>2013-05-26 23:43<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你。你如此回答:“情歌而已”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4212709)<br>あなたをめぐる惑星<br>2013-05-23 12:35<br>赞(0) 踩(0) | <div>我曾真的＂不分白天黑夜，唱着情歌一路来看你＂而你仅仅是跟我打了个招呼而已，所以深圳迷笛时听到声碎唱这首歌立刻就落泪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14015477)<br><br>2013-05-21 10:28<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你以以以以。</div> |
@@ -1243,8 +1243,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10819275)<br>暂无签名~<br>2013-04-26 22:24<br>赞(0) 踩(0) | <div>很不错的乐团</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3227088)<br>春夏秋冬。<br>2013-04-26 17:47<br>赞(0) 踩(0) | <div>赞的@大鲨鱼呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311044)<br>白天看廟，晚上睡覺。<br>2013-04-26 11:39<br>赞(0) 踩(0) | <div>唱着情歌一路来看你</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13928481)<br>做一个淡淡的女子<br>2013-04-26 10:34<br>赞(0) 踩(0) | <div>听李志唱起这首歌，好有感觉，又听一遍，很有味道XD我们刻意丢弃了声音 一切表达都是多余 温暖不了某一个夜晚 唯有情歌貌似单纯 会唱的人却已经沉默 曾经我们不分白天黑夜 唱着情歌一路来看你 你如此回答 情歌而已</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13928481)<br>做一个淡淡的女子<br>2013-04-26 10:25<br>赞(0) 踩(0) | <div>我们刻意丢弃了声音，一切表达都是多余，温暖不了某一个夜晚，唯有情歌貌似单纯，会唱的人却已经沉默，曾经我们不分白天黑夜，唱着情歌一路来看你，你如此回答，情歌而已昨晚跟着李志唱起这首歌，很有感觉，又听一遍，真的很有味道XD</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13928481)<br>做一个淡淡的女子<br>2013-04-26 10:34<br>赞(0) 踩(0) | <div>听李志唱起这首歌，好有感觉，又听一遍，很有味道XD<br>我们刻意丢弃了声音 一切表达都是多余 温暖不了某一个夜晚 唯有情歌貌似单纯 会唱的人却已经沉默 曾经我们不分白天黑夜 唱着情歌一路来看你 你如此回答 情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13928481)<br>做一个淡淡的女子<br>2013-04-26 10:25<br>赞(0) 踩(0) | <div>我们刻意丢弃了声音，一切表达都是多余，温暖不了某一个夜晚，唯有情歌貌似单纯，会唱的人却已经沉默，曾经我们不分白天黑夜，唱着情歌一路来看你，你如此回答，情歌而已<br>昨晚跟着李志唱起这首歌，很有感觉，又听一遍，真的很有味道XD</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1661453)<br> <br>2013-04-25 23:00<br>赞(0) 踩(0) | <div>我真是风格乱入。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4972960)<br> <br>2013-04-24 21:09<br>赞(0) 踩(0) | <div>谁又会想来听我喜欢的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3072467)<br>人生唯性与美食缺一不可。<br>2013-04-24 00:13<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你，你如此回答，情歌而已。</div> |
@@ -1310,7 +1310,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7313997)<br>你若喜欢怪人，那我便是神<br>2013-01-12 02:20<br>赞(0) 踩(0) | <div>@Kosuke杰斯君 只是為你唱首情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3968014)<br><br>2013-01-11 10:13<br>赞(0) 踩(0) | <div>情歌而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5650298)<br><br>2013-01-10 00:01<br>赞(0) 踩(0) | <div>没想到某人还记得</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2273566)<br>不良中年<br>2013-01-04 23:59<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2273566)<br>不良中年<br>2013-01-04 23:59<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2013-01-04 22:43<br>赞(0) 踩(0) | <div>现场最感动的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7574084)<br><br>2013-01-01 10:10<br>赞(0) 踩(0) | <div>“声音碎片”的歌都挺好听的。多唱点儿这样儿式的，别老哐次哐次地！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7574084)<br><br>2013-01-01 10:01<br>赞(0) 踩(0) | <div>他们的歌挺好听的！多唱点儿这样式儿的，别老哐次哐次的</div> |
@@ -1323,7 +1323,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12107537)<br><br>2012-12-26 16:38<br>赞(0) 踩(0) | <div>年轻而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5187971)<br>只要还能听到音乐 就很开...<br>2012-12-22 21:59<br>赞(0) 踩(0) | <div>没有方向就去寻找 别的一切都已不重要</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38164)<br>钻石牌钻石型钻石牙刷。<br>2012-12-20 16:47<br>赞(0) 踩(0) | <div>眼高手低的我 赫赫</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2459435)<br><br>2012-12-17 11:15<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2459435)<br><br>2012-12-17 11:15<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1245622)<br>还是觉得虾米的界面是最好...<br>2012-12-16 18:44<br>赞(0) 踩(0) | <div>一路来看你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3333020)<br>peace is lie<br>2012-12-05 13:20<br>赞(0) 踩(0) | <div>每次听到唱青春的歌都觉得很有意思.青春,又深情,又柔情,还矫情.比五味杂陈再杂一点的感受,但是却让人无比愉快.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3333020)<br>peace is lie<br>2012-12-04 23:40<br>赞(0) 踩(0) | <div>好一首苦情歌</div> |
@@ -1338,7 +1338,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5216)<br>虾中有你，米中无我。<br>2012-11-17 07:40<br>赞(0) 踩(0) | <div>情歌而已，帝都早安~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10660645)<br><br>2012-11-12 07:47<br>赞(1) 踩(0) | <div>08年的冬天听了一个整个寒假的歌曲。往事并不如烟。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7951164)<br>暂无签名~<br>2012-11-11 10:09<br>赞(0) 踩(0) | <div>唱着情歌一路来看你，你一定回答：情歌而已</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425532)<br><br>2012-11-09 19:26<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜唱着情歌一路来看你你一定回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425532)<br><br>2012-11-09 19:26<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜<br>唱着情歌一路来看你<br>你一定回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11419394)<br>德玛西亚<br>2012-11-09 19:21<br>赞(0) 踩(0) | <div>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1539498)<br><br>2012-11-08 23:52<br>赞(0) 踩(0) | <div>半年多的懈怠，肌肉全部变成小脂肪团子，冬天操练起来，还是能控制身体的感觉比较爽，晚上的电影人家在空中各种翻转，老子连平转都是5个就歇菜。小四小五小平转们，这个季度要搞定你们！[猪头]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7225510)<br><br>2012-11-01 18:00<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜，唱着情歌一路来看你，你一定回答情歌而已... ...</div> |
@@ -1393,7 +1393,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6839228)<br>Music Is Air<br>2012-07-15 06:50<br>赞(0) 踩(0) | <div>黄昏下的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2047855)<br><br>2012-07-13 10:12<br>赞(0) 踩(0) | <div>我喜欢这歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3643839)<br><br>2012-07-11 13:07<br>赞(0) 踩(0) | <div>中午……今天略闲，休息一下……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2754816)<br><br>2012-07-10 12:47<br>赞(0) 踩(0) | <div>没有方向就去寻找别的一切都已不重要最好给你一片空旷让你失去喧闹的勇气</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2754816)<br><br>2012-07-10 12:47<br>赞(0) 踩(0) | <div>没有方向就去寻找<br>别的一切都已不重要<br>最好给你一片空旷<br>让你失去喧闹的勇气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2137106)<br><br>2012-07-07 23:02<br>赞(0) 踩(0) | <div>唯有情歌貌似单纯 会唱的人却已经沉默 曾经我们不分白天黑夜唱着情歌一路来看你 你如此回答 情歌而已……@back-to-black</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8644667)<br><br>2012-07-03 22:49<br>赞(0) 踩(0) | <div>唱着情歌一路来看你，你如此回答，情歌而已。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7240531)<br>她没在<br>2012-06-26 10:31<br>赞(0) 踩(0) | <div>从脑袋里清不出去了就 太难受了</div> |
@@ -1411,7 +1411,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/838)<br><br>2012-05-05 22:00<br>赞(0) 踩(0) | <div>一切表达都已多余，温暖不了某个夜晚 唯有情歌貌似单纯，会唱的人却已经沉默 曾经我们不分白天黑夜，唱着情歌一路来看你，你如此回答：情歌而已 如果我们不分白天黑夜，唱着情歌一路来看你，你一定回答：情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/670947)<br><br>2012-05-04 23:34<br>赞(0) 踩(0) | <div>青年节~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/838)<br><br>2012-05-04 22:41<br>赞(0) 踩(0) | <div>//一切表达都已多余，温暖不了某个夜晚 唯有情歌貌似单纯，会唱的人却已经沉默 曾经我们不分白天黑夜，唱着情歌一路来看你，你如此回答：情歌而已 如果我们不分白天黑夜，唱着情歌一路来看你，你一定回答：情歌而已</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/838)<br><br>2012-05-04 21:35<br>赞(0) 踩(0) | <div>一切表达都已多余，温暖不了某个夜晚唯有情歌貌似单纯，会唱的人却已经沉默曾经我们不分白天黑夜，唱着情歌一路来看你，你如此回答：情歌而已如果我们不分白天黑夜，唱着情歌一路来看你，你一定回答：情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/838)<br><br>2012-05-04 21:35<br>赞(0) 踩(0) | <div>一切表达都已多余，温暖不了某个夜晚<br>唯有情歌貌似单纯，会唱的人却已经沉默<br><br>曾经我们不分白天黑夜，唱着情歌一路来看你，你如此回答：情歌而已<br>如果我们不分白天黑夜，唱着情歌一路来看你，你一定回答：情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1322537)<br><br>2012-05-04 13:06<br>赞(0) 踩(0) | <div>屌丝之歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7477059)<br> <br>2012-05-03 01:13<br>赞(0) 踩(0) | <div>半夜看毛片一点也不符合我愤青一坨的性格。还是听歌吧，声碎的歌觉前听听还是很带感的，只是老子的耳机子只有一个好使。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5723671)<br><br>2012-05-15 18:36<br>赞(0) 踩(0) | <div>戳到笑点</div> |
@@ -1421,7 +1421,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2401958)<br>静以修身，俭以养德；淡泊...<br>2012-04-23 11:14<br>赞(0) 踩(0) | <div>颓废的，绚烂的~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4858029)<br>撞击钻石<br>2012-04-21 11:50<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你，你却回答情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4580099)<br><br>2012-04-17 22:23<br>赞(0) 踩(0) | <div>屌丝之歌。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084025)<br>暂无签名~<br>2012-04-17 01:09<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已                      总有一首歌是我想唱给你听的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4084025)<br>暂无签名~<br>2012-04-17 01:09<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已                      总有一首歌是我想唱给你听的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1039972)<br><br>2012-04-13 23:34<br>赞(1) 踩(0) | <div>达坂城有我大眼睛的帅小伙。#告诉你，一想到你，我这张丑脸上就泛起微笑。 我只希望你和我好，互不猜忌，也互不称誉，安如平日，你和我说话就像对自己说话一样，我和你说话也像对自己说话一样。#觉得这首歌各种好听。最近在单曲循环中。好吧。继续改论文。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122808)<br><br>2012-04-12 15:07<br>赞(0) 踩(0) | <div>很怀念坐在绿皮火车上，傍着夕阳穿行在平原上的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2359038)<br><br>2012-04-10 02:51<br>赞(0) 踩(0) | <div>眼角眉梢只是情歌而已。</div> |
@@ -1434,10 +1434,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3883683)<br><br>2012-03-08 15:34<br>赞(0) 踩(0) | <div>#只听好歌不听话#曾经我们不分白天黑夜，唱着情歌一路来看你，你如此回答，情歌而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1410668)<br>再不斩说，如果可以，真的...<br>2012-03-04 21:53<br>赞(0) 踩(0) | <div>I love it.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2235921)<br><br>2012-03-01 22:26<br>赞(0) 踩(0) | <div>前奏惊艳。。。这个乐队不得了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/672223)<br>人世难逢开口笑<br>2012-03-01 13:44<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/672223)<br>人世难逢开口笑<br>2012-03-01 13:44<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247780)<br>世间只有情难诉<br>2012-02-27 16:14<br>赞(1) 踩(0) | <div>大三的时候，声音碎片巡演到广州，我在台下望着台上金棕色的光线，脑中不停的回响：只有情歌貌似单纯，会唱的人却已经沉默。记忆力，我总有很多很多浪漫的情绪，仿佛很多很多事情都曾经在自己身上发生。可是细想来，却一无所获，就像想象中的泡沫一般。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5083069)<br><br>2012-02-26 14:03<br>赞(0) 踩(0) | <div>经过一座城市以后，我们刻意丢弃了声音，一切表达都已多余，温暖不了某个夜晚。唯有情歌貌似单纯，会唱的人却都已沉默。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2012-02-26 04:20<br>赞(0) 踩(0) | <div>他会不分白天黑夜，唱着情歌一路来看你，即使你故作生气的说，不就是情歌而已。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2012-02-26 04:20<br>赞(0) 踩(0) | <div>他会不分白天黑夜，<br>唱着情歌一路来看你，<br>即使你故作生气的说，<br>不就是情歌而已。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4468628)<br><br>2012-02-23 01:08<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7259703)<br><br>2012-02-21 13:45<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179136)<br><br>2012-02-18 01:57<br>赞(0) 踩(0) | <div>情歌而已</div> |
@@ -1445,7 +1445,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3825998)<br> <br>2012-02-17 08:59<br>赞(0) 踩(0) | <div>把光芒洒向开枪的地方！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/691198)<br><br>2012-02-13 20:23<br>赞(0) 踩(0) | <div>@柔软时光弄堂 喜欢这首歌的调子~ 希望3月2日过生日的时候@声音碎片乐队 可以唱呀~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6614146)<br>我还没想好要写什么...<br>2012-02-12 14:02<br>赞(0) 踩(0) | <div>经过一个村庄之后 我们突然失去了语言 经过一座城市之后 我们刻意丢弃了声音</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179136)<br><br>2012-02-06 23:33<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜唱着情歌一路来看你你一定回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179136)<br><br>2012-02-06 23:33<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜<br>唱着情歌一路来看你<br>你一定回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3297486)<br>搭的士上班！<br>2012-02-06 22:21<br>赞(0) 踩(0) | <div>来看你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4733506)<br>whatever<br>2012-01-29 14:40<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6231170)<br>相爱吧，终有一散的人们<br>2012-01-28 20:40<br>赞(0) 踩(0) | <div>。。</div> |
@@ -1461,7 +1461,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2049466)<br>xxxxx<br>2012-01-02 18:02<br>赞(0) 踩(0) | <div>被这首歌洗脑了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7362286)<br><br>2011-12-22 22:49<br>赞(0) 踩(0) | <div>“如果我们不分白天黑夜 唱着情歌一路来看你 你一定回答 情歌而已”声音碎片最喜欢的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/586331)<br>我还没想好要写什么...<br>2011-12-16 22:03<br>赞(0) 踩(0) | <div>一切表达都已多余，唯有情歌貌似单纯。曾经我们不分白天黑夜，唱着情歌一路来看你。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4848793)<br> <br>2011-12-16 15:51<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜唱着情歌一路来看你你一定回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4848793)<br> <br>2011-12-16 15:51<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜<br>唱着情歌一路来看你<br>你一定回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7244668)<br><br>2011-12-14 22:45<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你。你如此回答，情歌而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6045654)<br>毁灭吧<br>2011-12-14 22:31<br>赞(0) 踩(0) | <div>我也不想把昨天的情绪带到今天 可是脑子里都是最后那个撑伞的场景  这个歌也实在和电影不搭 我怎么听了还是要飙泪呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6045654)<br>毁灭吧<br>2011-12-14 20:59<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜 唱着情歌一路来看你</div> |
@@ -1471,10 +1471,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/812392)<br>q音网易搜央央小月，酷g...<br>2011-12-09 00:17<br>赞(0) 踩(0) | <div>困觉去 =  = 介货的前奏真nice</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3735338)<br><br>2011-12-08 11:46<br>赞(0) 踩(0) | <div>如果我們不分白天黑夜唱著情歌一路來看你，你一定回答，情歌而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3625938)<br><br>2011-12-04 18:16<br>赞(0) 踩(0) | <div>能把这前奏剪下来当铃声么？！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3484061)<br>氧气般不可或缺的音乐<br>2011-12-04 00:39<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你你如此回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3484061)<br>氧气般不可或缺的音乐<br>2011-12-04 00:39<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你<br>你如此回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1985873)<br><br>2011-12-03 15:49<br>赞(0) 踩(0) | <div>经过一座村庄之后，我们开始失去了语言~~~~唱着情歌一路来看你。。啊啦啦啦啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2379275)<br><br>2011-11-30 17:23<br>赞(0) 踩(0) | <div>情歌而已。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1563518)<br><br>2011-11-27 00:38<br>赞(0) 踩(0) | <div>没有方向就去寻找别的一切都已不重要</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1563518)<br><br>2011-11-27 00:38<br>赞(0) 踩(0) | <div>没有方向就去寻找<br>别的一切都已不重要</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4440999)<br><br>2011-11-25 15:13<br>赞(0) 踩(0) | <div>苦逼的歌。。。喜欢他们构筑的音墙。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3092111)<br>走走停停<br>2011-11-13 23:26<br>赞(0) 踩(0) | <div>唱着情歌一路来看你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2542260)<br><br>2011-11-07 01:32<br>赞(0) 踩(0) | <div>果然还是听着听着哭鼻子了 12，9广州 一定会去的</div> |
@@ -1489,8 +1489,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6305109)<br><br>2011-10-19 01:24<br>赞(0) 踩(0) | <div>越来越喜欢了。中毒的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3229407)<br><br>2011-10-10 19:33<br>赞(0) 踩(0) | <div>一切表达都已多余。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1936405)<br><br>2011-10-07 17:52<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜，唱着情歌一路来**</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52973)<br><br>2011-09-26 23:03<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜唱着情歌一路来看你你一定回答情歌而已曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3401884)<br><br>2011-09-24 08:18<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52973)<br><br>2011-09-26 23:03<br>赞(0) 踩(0) | <div>如果我们不分白天黑夜<br>唱着情歌一路来看你<br>你一定回答<br>情歌而已<br>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3401884)<br><br>2011-09-24 08:18<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/542448)<br><br>2011-09-18 22:43<br>赞(0) 踩(0) | <div>浪漫~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478527)<br>好想跟衣服在洗衣机里滚<br>2011-08-31 17:37<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜，唱着情歌一路来看你，你却说“情歌而已”……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5487450)<br><br>2011-08-21 13:52<br>赞(0) 踩(0) | <div>嗯，这个可以有。</div> |
@@ -1515,12 +1515,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1669546)<br>虾米真的不了解我...<br>2011-06-07 15:07<br>赞(0) 踩(0) | <div>前奏真是绝了...安静纯洁的感觉 十分上瘾...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1086741)<br><br>2011-05-30 11:44<br>赞(0) 踩(0) | <div>不能只是情歌而已啊....真想让你也听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2364764)<br> <br>2011-05-19 23:34<br>赞(0) 踩(0) | <div>还记得第一次在朱家角现场听到这首歌，情歌而已</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1249874)<br>我还没想好要写什么...<br>2011-05-19 18:36<br>赞(0) 踩(0) | <div>前奏超赞!让人感觉到了夜晚的海边,吹着海风十分惬意.....</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1249874)<br>我还没想好要写什么...<br>2011-05-19 18:36<br>赞(0) 踩(0) | <div>前奏超赞!<br>让人感觉到了夜晚的海边,吹着海风十分惬意.....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1984355)<br><br>2011-05-15 18:05<br>赞(0) 踩(0) | <div>你如此回答 情歌而已···太桑心了···</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3891379)<br><br>2011-05-11 22:03<br>赞(0) 踩(0) | <div>情歌而已~很喜欢这个调调</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3891379)<br><br>2011-05-11 21:58<br>赞(0) 踩(0) | <div>很喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1092913)<br>等待是一生最初苍老<br>2011-05-11 14:09<br>赞(0) 踩(0) | <div>忧伤的调调~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1540819)<br> <br>2011-05-11 13:29<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1540819)<br> <br>2011-05-11 13:29<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3852817)<br><br>2011-05-10 23:46<br>赞(0) 踩(0) | <div>电子前缀很迷人~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1009204)<br>如歌<br>2011-05-09 23:10<br>赞(0) 踩(0) | <div>美妙的旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/845245)<br>不告诉你<br>2011-05-07 23:00<br>赞(0) 踩(0) | <div>唯有情歌貌似单纯 会唱的人却已经沉默</div> |
@@ -1541,22 +1541,22 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2446028)<br>从心温柔...<br>2011-01-15 16:20<br>赞(0) 踩(0) | <div>喜欢这种悠悠的旋律 悠悠的嗓音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1650690)<br><br>2011-01-10 14:24<br>赞(0) 踩(0) | <div>好想谈恋爱……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1650690)<br><br>2011-01-10 14:24<br>赞(0) 踩(0) | <div>我怎么觉得我又谈恋爱了……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2010-12-31 00:26<br>赞(1) 踩(0) | <div>如果我们不分白天黑夜唱着情歌一路来看你你一定回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26711)<br>不要燃尽自己，我的星星<br>2010-12-31 00:26<br>赞(1) 踩(0) | <div>如果我们不分白天黑夜<br>唱着情歌一路来看你<br>你一定回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1335706)<br>迷恋感觉从无休<br>2010-12-10 14:38<br>赞(0) 踩(0) | <div>一路唱着情歌，给你，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1285874)<br>Shhh...<br>2010-08-26 21:13<br>赞(0) 踩(0) | <div>曾经单循环一整夜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1149110)<br><br>2010-07-09 20:15<br>赞(0) 踩(0) | <div>青春碎片里的声音----</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/523123)<br>以梦为马<br>2010-06-29 15:11<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已no no no no no</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/523123)<br>以梦为马<br>2010-06-29 15:11<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已<br><br>no no no no no</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/984119)<br><br>2010-06-08 13:11<br>赞(0) 踩(0) | <div>今年西湖音乐节 热热闹闹的，突然听到一息略带忧伤但极其美妙的旋律，主唱老马特有的音质，不错！！！很少感动了!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/154220)<br><br>2010-05-05 23:01<br>赞(0) 踩(0) | <div>一直在寻找的清新摇滚</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380870)<br><br>2010-03-29 14:07<br>赞(0) 踩(0) | <div>声碎于我是情绪情感和记忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5)<br>三男一狗<br>2010-03-29 13:57<br>赞(0) 踩(0) | <div>哼哼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375775)<br><br>2010-02-20 21:14<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已如果我们不分白天黑夜唱着情歌一路来看你你一定回答情歌而已</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375775)<br><br>2010-02-20 21:14<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已<br>如果我们不分白天黑夜<br>唱着情歌一路来看你<br>你一定回答<br>情歌而已</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/380870)<br><br>2010-01-22 10:36<br>赞(0) 踩(0) | <div>健康生活方式</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375773)<br><br>2010-01-16 12:19<br>赞(0) 踩(0) | <div>这首歌真的叫我在大半夜里哭了，真的，曾经我们不分白天黑夜唱着情歌一路来看你，你，如此回答，情歌而已……真的，可能是共鸣了吧……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/528174)<br><br>2009-11-22 15:00<br>赞(0) 踩(0) | <div>旷野的声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/467277)<br><br>2009-11-19 11:07<br>赞(0) 踩(0) | <div>唱歌情歌一路来看你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440673)<br><br>2009-11-05 17:05<br>赞(0) 踩(0) | <div>别觉得一切都不重要，情歌而已。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249963)<br>谈恋爱不如追星。<br>2009-11-03 21:56<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜唱着情歌一路来看你你如此回答情歌而已--------------------------------如果我在现场听这首歌，我也会哭的。那么我想我脑海中同样会浮现这样的声音，矫情而已。确实不值一提。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249963)<br>谈恋爱不如追星。<br>2009-11-03 21:56<br>赞(0) 踩(0) | <div>曾经我们不分白天黑夜<br>唱着情歌一路来看你<br>你如此回答<br>情歌而已<br>--------------------------------<br>如果我在现场听这首歌，我也会哭的。<br>那么我想我脑海中同样会浮现这样的声音，矫情而已。确实不值一提。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175713)<br><br>2009-10-01 02:17<br>赞(0) 踩(0) | <div>好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/211273)<br>再见虾米！迷失的人网易云...<br>2009-09-26 15:47<br>赞(0) 踩(0) | <div>越听越沉溺。情歌而已。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/107401)<br>石頭家RockHomeT...<br>2009-04-08 06:38<br>赞(0) 踩(0) | <div>最近每天都在听。</div> |

@@ -3,7 +3,7 @@ MONO
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/2b3f9fac1df52c94229662072ed9017b.jpg)<br>MONO](https://i.xiami.com/monojapan) | **播放数**: 8957656<br>**粉丝数**: 42585<br>**评论数**: 1697<br>**地区**: Japan 日本<br>**风格**: 后摇 Post-Rock<br> |
+| [![](../../images/musicians/2b3f9fac1df52c94229662072ed9017b.jpg)<br>MONO](https://i.xiami.com/monojapan) | **地区**: Japan 日本<br>**风格**: 后摇 Post-Rock<br>**播放数**: 8957656<br>**粉丝数**: 42585<br>**评论数**: 1697<br> |
 
 ## 档案
 
@@ -55,8 +55,8 @@ www.newnoise.cn
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225730375)<br>我爱你. zl<br>2021-01-20 12:18<br>赞(0) 踩(0) | <div>我爱虾米</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49334418)<br>～<br>2020-11-23 15:16<br>赞(0) 踩(0) | <div>～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293373324)<br>把握灵魂的温度。<br>2020-08-02 04:42<br>赞(2) 踩(0) | <div>就是睡不着。后摇一听宇宙都好像在脑海旋转，那些某段诗句的章节，那些风吹过金色的深秋，还有汹涌翻腾浩瀚的海面，都随思绪飞舞起来了。。。。</div> |
@@ -89,7 +89,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48304635)<br>音乐信仰<br>2019-03-10 00:07<br>赞(2) 踩(0) | <div>成都现场不错啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422522)<br><br>2019-03-09 20:00<br>赞(4) 踩(0) | <div>听Mono整整十年了，走了700多公里，终于要见到了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1688934)<br>自由鼓捣人。<br>2019-03-09 14:08<br>赞(0) 踩(0) | <div>出3月9日成都站1张</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1830232)<br>独自窥探未来<br>2019-03-09 00:46<br>赞(1) 踩(0) | <div>今晚又见到了mono上次是2016年10月22 在B10下次又待何时？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1830232)<br>独自窥探未来<br>2019-03-09 00:46<br>赞(1) 踩(0) | <div>今晚又见到了mono<br>上次是2016年10月22 在B10<br>下次又待何时？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34101010)<br> <br>2019-03-06 22:52<br>赞(0) 踩(0) | <div>我能说武汉现场就跟屎一样吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15489958)<br>无<br>2019-03-07 00:04<br>赞(0) 踩(0) | <div>为啥呢 听了前五首就走了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34101010)<br> <br>2019-03-07 00:11<br>赞(0) 踩(0) | <div><q><b>ll  ོ说：</b></q></div> |
@@ -100,7 +100,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68555818)<br>我还没想好要写什么...<br>2019-03-05 00:26<br>赞(0) 踩(0) | <div>3.7广州 有组队的吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258777258)<br>。<br>2019-03-04 00:37<br>赞(0) 踩(0) | <div>美丽的今夜 <img src="../../images/comments/286e5490345b55baf85bf75195319042.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1689069)<br><br>2019-03-03 13:25<br>赞(1) 踩(0) | <div>友情提示，去听现场的，戴副耳塞。我周五北京场，站第一排耳朵伤了，回来一直耳鸣。 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9523997)<br>天地为炉<br>2019-03-06 00:05<br>赞(0) 踩(0) | <div>嗷～ <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">站过两回前排后再也不站最前边了 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9523997)<br>天地为炉<br>2019-03-06 00:05<br>赞(0) 踩(0) | <div>嗷～ <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"><br>站过两回前排后再也不站最前边了 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1689069)<br><br>2019-03-06 07:04<br>赞(0) 踩(0) | <div><q><b>苏与说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274642488)<br>时间他杀死了所有的从前<br>2019-03-03 11:15<br>赞(0) 踩(0) | <div>今晚杭州出票一张</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/286581)<br><br>2019-03-04 15:26<br>赞(0) 踩(0) | <div>同在现场~</div> |
@@ -163,7 +163,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1604346)<br>再見<br>2018-12-04 23:44<br>赞(2) 踩(0) | <div>買票done！2019見嘍</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225730375)<br>我爱你. zl<br>2018-12-04 16:08<br>赞(0) 踩(0) | <div>这次都不敢买票了 也不知道明年在何方………………………………………………啊好烦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34162354)<br>我还没想好要写什么...<br>2018-12-04 14:42<br>赞(0) 踩(0) | <div>mono年年见（搓手手</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9972139)<br>-Welcome to ...<br>2018-12-04 13:29<br>赞(52) 踩(0) | <div>MONO二十周年「Nowhere Now Here」2019新专辑中国巡演3月1日 北京  糖果三层3月2日  上海  Modernsky Lab3月3日  杭州  MAO Livehouse3月5日  南京  欧拉艺术空间3月6日  武汉  VOX Livehouse3月7日  广州  MAO Livehouse3月8日  深圳  HOU Live3月9日  成都  正火艺术中心3月10日 昆明  Modernsky Lab</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9972139)<br>-Welcome to ...<br>2018-12-04 13:29<br>赞(52) 踩(0) | <div>MONO二十周年「Nowhere Now Here」2019新专辑中国巡演<br>3月1日 北京  糖果三层<br>3月2日  上海  Modernsky Lab<br>3月3日  杭州  MAO Livehouse<br>3月5日  南京  欧拉艺术空间<br>3月6日  武汉  VOX Livehouse<br>3月7日  广州  MAO Livehouse<br>3月8日  深圳  HOU Live<br>3月9日  成都  正火艺术中心<br>3月10日 昆明  Modernsky Lab</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8109588)<br>Post Rock & ...<br>2018-12-18 15:21<br>赞(0) 踩(0) | <div>成都，今年必须去！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306397541)<br>我不配得到自由<br>2018-12-31 11:03<br>赞(0) 踩(0) | <div><q><b>固定乐思说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8109588)<br>Post Rock & ...<br>2018-12-31 14:14<br>赞(0) 踩(0) | <div><q><b>lym说：</b></q></div> |
@@ -206,22 +206,22 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285049473)<br>剛拿起酒杯想和你碰杯 才...<br>2018-02-26 23:23<br>赞(0) 踩(0) | <div>就想问问还会有巡演的消息嘛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6984513)<br><br>2018-02-03 11:07<br>赞(0) 踩(0) | <div>小猫很喜欢听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39256343)<br>网易云账号：ViaMis...<br>2018-01-28 13:47<br>赞(0) 踩(0) | <div>优秀</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238300984)<br>世界很大 时间太少<br>2018-01-21 00:46<br>赞(2) 踩(0) | <div>2016.10.152018.1.20结束一切刚到世界就要离开对不起</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238300984)<br>世界很大 时间太少<br>2018-01-21 00:46<br>赞(2) 踩(0) | <div>2016.10.15<br>2018.1.20<br>结束一切<br>刚到世界就要离开<br>对不起</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/285049473)<br>剛拿起酒杯想和你碰杯 才...<br>2018-02-24 14:58<br>赞(0) 踩(0) | <div>抱抱</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2018-01-20 05:03<br>赞(3) 踩(0) | <div>MONO (Japan)9小时 &amp;middot;‪MONO is currently working on the new (10th) album. Next year in 2019 when we make our 20 year anniversary, we're thinking about revisiting some of our most memorable songs. We hope to share our inspirations during the compositions, memories of that time and more for these songs.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2018-01-20 05:03<br>赞(3) 踩(0) | <div>MONO (Japan)<br>9小时 &amp;middot;<br>‪MONO is currently working on the new (10th) album. Next year in 2019 when we make our 20 year anniversary, we're thinking about revisiting some of our most memorable songs. We hope to share our inspirations during the compositions, memories of that time and more for these songs.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3714582)<br><br>2018-01-18 19:07<br>赞(3) 踩(0) | <div>2016年10月重庆坚果，还好在鼓手离队之前去听了现场，也算是没有遗憾了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34755813)<br>没有风格也不被定义<br>2018-01-01 13:37<br>赞(2) 踩(0) | <div>每次听都很想让我写诗每次听都会让我流泪构筑的音乐世界又纯洁又悲伤</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2029879)<br>已转移阵地并回归离线模式...<br>2017-12-15 08:35<br>赞(1) 踩(0) | <div>yoda1q72 ● Departure of a member and show cancellation notice ● .Due to personal reasons, our drummer Takada will be now leaving the band..And also, after several discussions, we have decided to cancel our performance at STORM OF VOID&amp;rsquo;s &amp;ldquo;War Inside You&amp;rdquo; release tour on December 22 at Shibuya club</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34755813)<br>没有风格也不被定义<br>2018-01-01 13:37<br>赞(2) 踩(0) | <div>每次听都很想让我写诗<br>每次听都会让我流泪<br>构筑的音乐世界又纯洁又悲伤</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2029879)<br>已转移阵地并回归离线模式...<br>2017-12-15 08:35<br>赞(1) 踩(0) | <div>yoda1q72 ● Departure of a member and show cancellation notice ● .<br>Due to personal reasons, our drummer Takada will be now leaving the band.<br>.<br>And also, after several discussions, we have decided to cancel our performance at STORM OF VOID&amp;rsquo;s &amp;ldquo;War Inside You&amp;rdquo; release tour on December 22 at Shibuya club</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46086234)<br>我还没想好要写什么...<br>2017-12-13 14:27<br>赞(0) 踩(0) | <div>886</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20316094)<br><br>2017-12-09 12:35<br>赞(1) 踩(0) | <div>鼓手离队了，不要啊。后面还能有活动吗 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2017-12-09 12:17<br>赞(0) 踩(0) | <div>MONO (Japan)1小时 &amp;middot;● Departure of a member and show cancellation notice ●Due to personal reasons, our drummer Takada will be now leaving the band.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20316094)<br><br>2017-12-09 12:35<br>赞(1) 踩(0) | <div>鼓手离队了，不要啊。<br>后面还能有活动吗 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2017-12-09 12:17<br>赞(0) 踩(0) | <div>MONO (Japan)<br>1小时 &amp;middot;<br>● Departure of a member and show cancellation notice ●<br><br>Due to personal reasons, our drummer Takada will be now leaving the band.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2017-12-09 12:17<br>赞(0) 踩(0) | <div>And also, after several discussions, we have decided to cancel our performance at STORM OF VOID's &amp;quot;War Inside You&amp;quot; release tour on December 22 at Shibuya club Asia due to the reason above.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2017-12-09 12:16<br>赞(0) 踩(0) | <div>We would like to apologise for the inconvenience caused to all the people who are involved; the host of the night STORM OF VOID, all the performers and involved personnel, and everyone who has purchased the tickets.Thank you for your understanding and the continued support of MONO.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4727415)<br>swallowyours...<br>2017-12-09 12:16<br>赞(0) 踩(0) | <div>We would like to apologise for the inconvenience caused to all the people who are involved; the host of the night STORM OF VOID, all the performers and involved personnel, and everyone who has purchased the tickets.<br><br>Thank you for your understanding and the continued support of MONO.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1945900)<br><br>2017-12-09 12:01<br>赞(1) 踩(0) | <div>鼓手离队 <img src="../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9597157)<br>，<br>2017-12-06 00:34<br>赞(2) 踩(0) | <div>高二还是高三开始听后摇，mono是我的入门乐队。时隔几年，现在再听，其实都会觉得比较远了。虽然已经过了几年，没有抑郁算是好事，但有些事情对人的影响和打击是长久而深远的甚至可能是持续一生的。各方面。还会想起几年前那渺小如一粒尘的感觉。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42470611)<br>我还没想好要写什么...<br>2017-12-05 09:45<br>赞(0) 踩(0) | <div>-</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/243334217)<br>虾米 与我常在<br>2017-11-28 00:53<br>赞(6) 踩(0) | <div>后摇给我的感觉就像是置身于一片深蓝一望无际的大海上 头顶月光照耀着海面波涛粼粼 远处海天相接 伴随着徐徐风声与海浪拍打的声音 而我慢慢沉沦渐入佳境无法自拔</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303418829)<br>想恋爱，有时你以为到了，...<br>2017-11-14 03:22<br>赞(2) 踩(0) | <div>真的不喜欢现在中国大肆流行的这种后摇 很轻浮 私自觉得好的后摇应该是Godspeed You! Black Emperor这样的，不喜欢， 不是因为他们是小日本， 而是他们的音乐太作做， 太过刻意经营， 没有ExplosionsInTheSky的那种坦荡， 没有Mowgai的那种直接。不喜欢。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303418829)<br>想恋爱，有时你以为到了，...<br>2017-11-14 03:22<br>赞(2) 踩(0) | <div>真的不喜欢现在中国大肆流行的这种后摇 很轻浮 私自觉得好的后摇应该是Godspeed You! Black Emperor这样的，不喜欢， 不是因为他们是小日本， 而是他们的音乐太作做， 太过刻意经营， 没有ExplosionsInTheSky的那种坦荡， 没有Mowgai的那种直接。<br>不喜欢。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38685158)<br>我们都该听听后摇。<br>2017-11-29 20:55<br>赞(0) 踩(0) | <div>你觉得甜梅号怎么样</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32582029)<br>暂无签名~<br>2017-12-05 17:12<br>赞(0) 踩(0) | <div>哪里流行了。。。而且也没觉得做作呀</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20316094)<br><br>2017-12-09 12:50<br>赞(0) 踩(0) | <div>mono流行？不要搞笑，看看现场在说话吧，虽然天爆我也很喜欢，但他们出的流行商业砖不少吧？</div> |
@@ -301,7 +301,7 @@ www.newnoise.cn
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478817)<br><br>2017-06-06 21:42<br>赞(0) 踩(0) | <div><q><b>冬天踩雪咯吱咯吱响说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/176322364)<br>啊哈哈哈哈<br>2017-06-06 22:50<br>赞(0) 踩(0) | <div><q><b>小苦瓜说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296584651)<br><br>2017-05-15 19:29<br>赞(0) 踩(0) | <div>还好没说坏话。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289770915)<br><br>2017-05-13 09:58<br>赞(1) 踩(0) | <div>不喜欢， 不是因为他们是小日本， 而是他们的音乐太作做， 太过刻意经营， 没有ExplosionsInTheSky的那种坦荡， 没有Mowgai的那种直接。不喜欢。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289770915)<br><br>2017-05-13 09:58<br>赞(1) 踩(0) | <div>不喜欢， 不是因为他们是小日本， 而是他们的音乐太作做， 太过刻意经营， 没有ExplosionsInTheSky的那种坦荡， 没有Mowgai的那种直接。<br>不喜欢。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422522)<br><br>2017-06-14 01:48<br>赞(0) 踩(0) | <div>这才是亚洲人的特点，欧美都是直接、开放。亚洲人不管做什么艺术都很内敛的，注重意，就和西方写实油画与水墨画一样。禅宗也影响着日本各方面的文化。mono音乐也是，有种禅宗的衰败之美。欧美文化都是逻辑性强，重效率而直接。亚欧文化的不同和道佛与古希腊哲学有关</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10310498)<br> <br>2017-05-07 03:40<br>赞(0) 踩(0) | <div>☕️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/252551)<br>＿形無<br>2017-04-07 23:53<br>赞(0) 踩(0) | <div>.</div> |
@@ -317,7 +317,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39970624)<br>忍着不说也就过了<br>2017-01-25 01:56<br>赞(0) 踩(0) | <div>post rock</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52790398)<br>嗯～<br>2017-01-18 22:35<br>赞(0) 踩(0) | <div>❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/114655992)<br>爱你们<br>2017-01-18 16:23<br>赞(0) 踩(0) | <div>Kill myself to the heaven</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/773393)<br>GALAXY<br>2017-01-03 20:12<br>赞(0) 踩(0) | <div>大家有没有总结或者收集16年后摇精彩的专辑榜单之类的可以分享下给我呀~~最近忙得完全没有时间自己找歌来听了QAQ可是又想听！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/773393)<br>GALAXY<br>2017-01-03 20:12<br>赞(0) 踩(0) | <div>大家有没有总结或者收集16年后摇精彩的专辑榜单之类的可以分享下给我呀~~<br>最近忙得完全没有时间自己找歌来听了QAQ可是又想听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48890411)<br>我们贫乏却去到金禧。<br>2016-12-10 14:37<br>赞(8) 踩(0) | <div>东莞的草莓音乐节 静静听着mono流泪 周围是些嘈杂的人群 我希望他们不要看见</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5816781)<br>暂无签名~<br>2017-01-09 19:42<br>赞(0) 踩(0) | <div>哎呦 啥时候来广佛</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48890411)<br>我们贫乏却去到金禧。<br>2019-01-01 14:44<br>赞(0) 踩(0) | <div><q><b>熱圗嗣vi说：</b></q></div> |
@@ -477,7 +477,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7625912)<br>老虾米<br>2016-07-18 17:48<br>赞(1) 踩(0) | <div>成都见！！！！激动！（虽然还有3个月）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46284980)<br>谢谢你让我成为了我<br>2016-07-20 16:11<br>赞(0) 踩(0) | <div>成都见</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11574302)<br><br>2016-07-23 19:09<br>赞(0) 踩(0) | <div><q><b>＊蕾说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39378443)<br> things chan...<br>2016-07-18 16:14<br>赞(15) 踩(0) | <div>MONO 2016新专辑中国巡演10.13 北京 愚公移山 （第一场）10.14 北京 愚公移山（第二场）10.15 上海 MAO livehouse10.16 杭州 MAO livehouse10.18 武汉 VOX livehouse10.19 西安 待定10.21 成都 小酒馆空间10.22 深圳 B10现场</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39378443)<br> things chan...<br>2016-07-18 16:14<br>赞(15) 踩(0) | <div>MONO 2016新专辑中国巡演<br>10.13 北京 愚公移山 （第一场）<br>10.14 北京 愚公移山（第二场）<br>10.15 上海 MAO livehouse<br>10.16 杭州 MAO livehouse<br>10.18 武汉 VOX livehouse<br>10.19 西安 待定<br>10.21 成都 小酒馆空间<br>10.22 深圳 B10现场</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1477810)<br>阿伏加德罗常数<br>2016-07-18 23:12<br>赞(0) 踩(0) | <div>就冲你发布的消息，我先粉为敬。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88051676)<br><br>2016-09-13 19:13<br>赞(0) 踩(0) | <div>没有广州吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3272134)<br>孤独刺着我的背。<br>2016-07-18 12:46<br>赞(0) 踩(0) | <div>武汉见</div> |
@@ -506,11 +506,11 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2735360)<br>mort au somm...<br>2016-03-19 20:47<br>赞(2) 踩(0) | <div>We just arrived in Chicago tonight to record with our friend Steve Albini for a new album. We will update some photos of our recording session from the studio. Check it out!BY MONO</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2735360)<br>mort au somm...<br>2016-03-20 22:06<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47943204)<br>蹉跎错 消磨过 最是光阴...<br>2016-03-19 11:12<br>赞(1) 踩(0) | <div>新专在哪里！天爆和魔怪都出了！ <img src="../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7625912)<br>老虾米<br>2016-03-06 18:53<br>赞(2) 踩(0) | <div>moonlight，不在前十....QAQ说实话，在Mono所有砖都已经听了接近无数遍以后，我想说的是《You Are There》才是真正的精品。个人观点，但是每张专辑都有出彩的地方。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7625912)<br>老虾米<br>2016-03-06 18:53<br>赞(2) 踩(0) | <div>moonlight，不在前十....QAQ<br>说实话，在Mono所有砖都已经听了接近无数遍以后，我想说的是《You Are There》才是真正的精品。<br>个人观点，但是每张专辑都有出彩的地方。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1843053)<br>冢中枯骨燃成灰<br>2016-03-15 19:56<br>赞(0) 踩(0) | <div>同You Are There，不过我心目中mono最具代表性单曲是Yearning。虽然这不是我最喜欢的一首</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33864541)<br>我头像像不像CD<br>2016-03-03 15:35<br>赞(0) 踩(0) | <div>猫弄？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8743512)<br><br>2016-03-02 11:35<br>赞(3) 踩(0) | <div>其实一直不是很理解为什么最热的不是Pure As Snow，而且还排到第10去了。【没有攻击其他人品味的意思所以不要误会】我觉得这首是Mono最好听的歌，且应当是我听过的后摇歌曲里面最震撼的、没有之一，我该谦逊我听得不多，但是这个绝对是最好的，差不多每次听都会泪奔┭┮﹏┭┮真的是雪的意境，画面感非常强，后摇歌曲里面经常会有一个问题就是人听起来的感觉与题目难以对应，但这首歌我觉得在这么多后摇歌曲里面算是切题的。看过现场的人知道这个歌在八分钟左右开始的那段飙雪音效完全是吉他手调效果器调出来的，尽管后摇滚乐队在制造音效的时候常常这么做，但是能做出这种撕扯、宏伟的感觉来的，我感觉就是这歌了</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7625912)<br>老虾米<br>2016-03-06 18:56<br>赞(0) 踩(0) | <div>特别是后来得知这首歌在《真实魔鬼游戏2015》出现了，特意去看了一下。我感觉这电影完全抓住了这首歌的精髓，用的非常到位，非常切题。现在我每次听到这首歌都会想起女主在甚至惨白的雪地里站起来奔跑的场景，太美了那一段。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8743512)<br><br>2016-03-02 11:35<br>赞(3) 踩(0) | <div>其实一直不是很理解为什么最热的不是Pure As Snow，而且还排到第10去了。【没有攻击其他人品味的意思所以不要误会】<br>我觉得这首是Mono最好听的歌，且应当是我听过的后摇歌曲里面最震撼的、没有之一，我该谦逊我听得不多，但是这个绝对是最好的，差不多每次听都会泪奔┭┮﹏┭┮<br>真的是雪的意境，画面感非常强，后摇歌曲里面经常会有一个问题就是人听起来的感觉与题目难以对应，但这首歌我觉得在这么多后摇歌曲里面算是切题的。<br>看过现场的人知道这个歌在八分钟左右开始的那段飙雪音效完全是吉他手调效果器调出来的，尽管后摇滚乐队在制造音效的时候常常这么做，但是能做出这种撕扯、宏伟的感觉来的，我感觉就是这歌了</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7625912)<br>老虾米<br>2016-03-06 18:56<br>赞(0) 踩(0) | <div>特别是后来得知这首歌在《真实魔鬼游戏2015》出现了，特意去看了一下。<br>我感觉这电影完全抓住了这首歌的精髓，用的非常到位，非常切题。现在我每次听到这首歌都会想起女主在甚至惨白的雪地里站起来奔跑的场景，太美了那一段。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319048)<br>向死而生<br>2016-03-01 21:37<br>赞(0) 踩(0) | <div>→_→好像要感谢非音乐，在我初中刚开始接触金属摇滚啥的乱七八糟的就给我塞了个mono还有arca……少说也有七八年过去，当时送的cd里，到现在还在听的也就这俩了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7626844)<br>输入墓志铭...<br>2016-02-28 20:45<br>赞(3) 踩(0) | <div>做这种音乐肯定需要大麻 迷幻蘑菇 不然达不到这境界</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9028760)<br>豆瓣见 spotify ...<br>2016-02-26 21:09<br>赞(0) 踩(0) | <div>☄</div> |
@@ -522,11 +522,11 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14817065)<br><br>2015-12-27 00:14<br>赞(0) 踩(0) | <div>无法自拔…</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31064545)<br>借音乐，存记忆。<br>2015-12-10 21:55<br>赞(0) 踩(0) | <div>❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64152026)<br>涅槃传说<br>2015-12-01 10:13<br>赞(0) 踩(0) | <div>MONO</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8192862)<br>诗人和先知。vchat:...<br>2015-11-30 11:34<br>赞(72) 踩(0) | <div>昨天下午四五点的阳光，我站在南方草莓音乐节的舞台下看Mono。全程鸡皮疙瘩一身不说，我总是想到现场一千个人听Mono会有一千种感受，我站在中间，忽然觉得大家都头戴着一个玻璃鱼缸。时间像海浪一样推着我们向前，我们既渺小又孤独。Ashes in the snow，前奏我就忍不住掩面哭了起来。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8192862)<br>诗人和先知。vchat:...<br>2015-11-30 11:34<br>赞(72) 踩(0) | <div>昨天下午四五点的阳光，我站在南方草莓音乐节的舞台下看Mono。<br>全程鸡皮疙瘩一身不说，我总是想到现场一千个人听Mono会有一千种感受，我站在中间，<br>忽然觉得大家都头戴着一个玻璃鱼缸。<br>时间像海浪一样推着我们向前，我们既渺小又孤独。<br>Ashes in the snow，前奏我就忍不住掩面哭了起来。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11241386)<br>咩得就咩啦！！<br>2015-12-01 11:10<br>赞(0) 踩(0) | <div>我也在草莓，死命挤进第二排，也是差点哭了...然后就见到人离开啥的...</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45466528)<br>音乐是你的什么<br>2015-12-03 00:56<br>赞(0) 踩(0) | <div>我眼睛都是泪，还好没留下来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13347542)<br>好锤子哦<br>2015-11-24 19:46<br>赞(1) 踩(0) | <div>真实魔鬼游戏里的BGM好像是MONO的曲子   有人知道是那首吗</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23428511)<br>梦里不知身是客<br>2015-11-25 09:16<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/3522525?spm=0.0.0.0.X9BaVx&amp;amp;from=search_popup_song" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/3522525?spm=0.0.0.0.X9BaVx&amp;amp;from=search_popup_song</a>这几天很多人在看这部电影啊～～～</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23428511)<br>梦里不知身是客<br>2015-11-25 09:16<br>赞(0) 踩(0) | <div><a href="http://www.xiami.com/song/3522525?spm=0.0.0.0.X9BaVx&amp;amp;from=search_popup_song" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/song/3522525?spm=0.0.0.0.X9BaVx&amp;amp;from=search_popup_song</a><br>这几天很多人在看这部电影啊～～～</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13347542)<br>好锤子哦<br>2015-11-26 18:14<br>赞(0) 踩(0) | <div><q><b>　　　　　　说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7676740)<br>没关系。<br>2015-11-29 18:29<br>赞(0) 踩(0) | <div>the last dawn那张专</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50157063)<br>国家二级陀手<br>2016-07-12 22:56<br>赞(0) 踩(0) | <div>the last dawn</div> |
@@ -536,7 +536,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18583250)<br>講嘢<br>2015-11-14 01:43<br>赞(0) 踩(0) | <div>喵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8471371)<br>暂无签名~<br>2015-11-13 20:55<br>赞(0) 踩(0) | <div>好冷</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1894746)<br><br>2015-11-10 19:36<br>赞(1) 踩(0) | <div>极力推荐，太牛逼的乐队了，，特别是现场，一定要看下现场。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/460752)<br>我还没想好要写什么...<br>2015-11-08 10:16<br>赞(1) 踩(0) | <div>前卫艺术摇滚翻译组收人啦～欢迎加入前卫艺术摇歌词研究舍，qq群号码：279065238只要你有一颗热爱音乐的心！只要你忠于艺术以及前卫摇滚！只要你喜爱琢磨与推敲！快快加入我们吧～无论是喜爱pink floyd、yes、kingcrimson、rush、gensis等7080年代大牌乐队toto、styx流行前卫乐队 gentle giant、Van der graaf generator激进前卫摇滚 trffic、文艺复兴等传统及爵士乐队 或是喜欢雏鸟等老牌前卫faust、Can等德国酸菜、意大利法国前卫都请和我们一同翻译吧～将艺摇前摇的歌词诗意化，许我们一个美梦吧！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/460752)<br>我还没想好要写什么...<br>2015-11-08 10:16<br>赞(1) 踩(0) | <div>前卫艺术摇滚翻译组收人啦～<br>欢迎加入前卫艺术摇歌词研究舍，qq群号码：279065238<br>只要你有一颗热爱音乐的心！<br>只要你忠于艺术以及前卫摇滚！<br>只要你喜爱琢磨与推敲！<br>快快加入我们吧～无论是喜爱pink floyd、yes、kingcrimson、rush、gensis等7080年代大牌乐队<br>toto、styx流行前卫乐队 gentle giant、Van der graaf generator激进前卫摇滚 trffic、文艺复兴等传统及爵士乐队 或是喜欢雏鸟等老牌前卫<br>faust、Can等德国酸菜、意大利法国前卫<br>都请和我们一同翻译吧～将艺摇前摇的歌词诗意化，许我们一个美梦吧！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30155409)<br>这家伙很傻什么都留下了…<br>2015-11-02 16:23<br>赞(0) 踩(0) | <div>mono=single along</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33068559)<br>人生唯漫画音乐pocky...<br>2015-10-30 03:55<br>赞(2) 踩(0) | <div>不同于欧美后摇，他们的作品透露着一种樱花般的固执的伤感</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8128176)<br>好好活着<br>2015-10-23 20:11<br>赞(0) 踩(0) | <div>新专辑已经出了，网易早上出来了，虾米快传上来</div> |
@@ -545,7 +545,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7625912)<br>老虾米<br>2015-10-11 22:21<br>赞(3) 踩(0) | <div>多久能再来成都啊，不想再错过了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405952)<br>我还没想好要写什么...<br>2015-10-10 02:03<br>赞(0) 踩(0) | <div>跟wed风格有明显不同现，只听过wed跟魔怪的现场，希望有机会听听mono</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157418)<br>暂无签名~<br>2015-10-07 20:45<br>赞(0) 踩(0) | <div>听说又要发新单了？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2596779)<br>404<br>2015-10-06 06:21<br>赞(1) 踩(0) | <div><a href="http://www.monoofjapan.com/en/releases.php" target="_blank" rel="nofollow noreferrer noopener">http://www.monoofjapan.com/en/releases.php</a>new releaseps.新单在豆瓣上可以听了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2596779)<br>404<br>2015-10-06 06:21<br>赞(1) 踩(0) | <div><a href="http://www.monoofjapan.com/en/releases.php" target="_blank" rel="nofollow noreferrer noopener">http://www.monoofjapan.com/en/releases.php</a><br>new release<br>ps.新单在豆瓣上可以听了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42989678)<br>勇敢<br>2015-10-05 07:19<br>赞(2) 踩(0) | <div>人家巡演完都走多久了我才听 后悔哭了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3456773)<br>走好，老朋友。<br>2015-09-28 01:45<br>赞(0) 踩(0) | <div>日本人居然能做出这么有史诗感的后摇 真的没想到</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2574283)<br>我还没想好要写什么...<br>2015-09-15 22:57<br>赞(3) 踩(0) | <div>the ocean和mono合作发split了！the ocean和mono合作发split了！the ocean和mono合作发split了！重要的事情说三遍！</div> |
@@ -634,7 +634,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44007662)<br>暂无签名~<br>2015-02-15 01:54<br>赞(0) 踩(0) | <div>这个乐队不错，挺好的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45285267)<br>傻蛋是好好萌聪明蛋是大花...<br>2015-02-13 11:32<br>赞(0) 踩(0) | <div>niubì</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11420900)<br>erase me<br>2015-02-08 04:13<br>赞(0) 踩(0) | <div>一直在想这样的现场要怎么看</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10695504)<br> <br>2015-02-07 16:34<br>赞(0) 踩(0) | <div>download<a href="http://weibo.com/5061412684/BwpKi9eGn?from=" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/5061412684/BwpKi9eGn?from=</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10695504)<br> <br>2015-02-07 16:34<br>赞(0) 踩(0) | <div>download<br><a href="http://weibo.com/5061412684/BwpKi9eGn?from=" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/5061412684/BwpKi9eGn?from=</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13941620)<br>逃跑达人<br>2015-02-07 16:13<br>赞(0) 踩(0) | <div>“可撸”</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34319275)<br><br>2015-02-05 12:39<br>赞(0) 踩(0) | <div>xihuanbuxuyaoliyou</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19959818)<br>我还没想好要写什么...<br>2015-01-31 17:42<br>赞(0) 踩(0) | <div>空灵，有气势的音乐</div> |
@@ -700,7 +700,7 @@ www.newnoise.cn
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9338504)<br>silent fligh...<br>2015-01-30 08:17<br>赞(0) 踩(0) | <div>同感</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41995506)<br>对生活过敏<br>2014-11-22 00:21<br>赞(0) 踩(0) | <div>听哭~死矫情</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9564205)<br><br>2014-11-15 22:34<br>赞(0) 踩(0) | <div>世界末日女友類型</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19535614)<br><br>2014-11-15 12:25<br>赞(0) 踩(0) | <div>无法脱离忘忧</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19535614)<br><br>2014-11-15 12:25<br>赞(0) 踩(0) | <div>无法脱离<br>忘忧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4726002)<br>我还没想好要写什么...<br>2014-11-13 05:38<br>赞(1) 踩(0) | <div>好厉害的乐队 大师的感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8502640)<br>I'm half cra...<br>2014-11-09 18:25<br>赞(8) 踩(0) | <div>可怕的不是听的时候沉浸于压抑，而是听完以后，无法抽离，听别的什么都不入心了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9450792)<br>嗨你好吗今天全国都放假<br>2014-11-02 13:36<br>赞(2) 踩(0) | <div>看mono的fb有妙人儿说他在现场哭了20分钟</div> |
@@ -727,7 +727,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/871412)<br>最多12个字符。<br>2014-10-26 08:26<br>赞(0) 踩(0) | <div>现场很赞。就是B10音响，有时候真吓死我了。早安~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3875084)<br><br>2014-10-26 01:30<br>赞(0) 踩(0) | <div>刚看完。还可以</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3597786)<br><br>2014-10-25 11:06<br>赞(0) 踩(0) | <div>现场好赞！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2261831)<br><br>2014-10-25 10:57<br>赞(1) 踩(0) | <div>给大家讲个段子，西安场演完后，过了好久mono出来签CD.剩下的歌迷不多了，签完的我们都在旁边站着看mono。。。。。结果一哥们直接冲过来，对我旁边的妹子说了句:你好，能给我签个名吗？妹子说，在那边，哎，我的气质还是被你给看出来了。这哥们是来凑热闹的。。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2261831)<br><br>2014-10-25 10:57<br>赞(1) 踩(0) | <div>给大家讲个段子，西安场演完后，过了好久mono出来签CD.剩下的歌迷不多了，签完的我们都在旁边站着看mono。。。。。结果一哥们直接冲过来，<br>对我旁边的妹子说了句:你好，能给我签个名吗？<br>妹子说，在那边，哎，我的气质还是被你给看出来了。<br>这哥们是来凑热闹的。。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29199497)<br>为你自己而活。<br>2014-10-25 13:12<br>赞(0) 踩(0) | <div>最后还出来签CD了？？？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9632438)<br>知行合一<br>2014-10-28 00:00<br>赞(0) 踩(0) | <div>其实那个人是我男票。。。他根本不听mono啊，因为他只是在帮我要签名啊哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43091219)<br><br>2014-10-28 00:30<br>赞(0) 踩(0) | <div>我就是那男的。</div> |
@@ -744,9 +744,9 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/712925)<br>别扯有的没的<br>2014-10-24 02:07<br>赞(1) 踩(0) | <div>西安场听完前来打卡。真心觉得现场不错，鼓略微有点躁啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9632438)<br>知行合一<br>2014-10-28 00:02<br>赞(0) 踩(0) | <div>感觉那种躁才是真的噪音墙，你能听出来，而真正的原音并没有被掩盖</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14976639)<br>积极的虚无<br>2014-10-24 01:58<br>赞(0) 踩(0) | <div>音乐厅的感受完全出乎意料</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1663201)<br>来自地球<br>2014-10-24 00:20<br>赞(0) 踩(0) | <div>MONO巡演歌单:01.Recoil,Ignite.02.Unseen Harbor.03.Kanata.04.The Hand that Holds the Truth.05.Dream Odyssey.06.Halcyon.07.Ashes in the Snow.08.Where We Begin.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1663201)<br>来自地球<br>2014-10-24 00:20<br>赞(0) 踩(0) | <div>MONO巡演歌单:<br>01.Recoil,Ignite.<br>02.Unseen Harbor.<br>03.Kanata.<br>04.The Hand that Holds the Truth.<br>05.Dream Odyssey.<br>06.Halcyon.<br>07.Ashes in the Snow.<br>08.Where We Begin.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4378066)<br>我还没想好要写什么...<br>2014-10-24 01:27<br>赞(0) 踩(0) | <div>谢谢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2093106)<br>帝都迁魔都，PR永相随。<br>2014-10-24 00:07<br>赞(7) 踩(0) | <div>Mono Shanghai，18.10.2014 @MAOLIVEHOUSE这么多年后摇的live看下来，最短的一场show，最鸡爪颤的一场show，最热情encore但绝不返场的一场show。Mono或许就是这样，由内而外透露着和你的距离感，每一个音符悲怆到骨子里，一点点把你拽入最伤痛的边缘，瞬间一个惊天霹雳吓得你浑身激灵，马上又看到了希望的一丝光芒。你却敬畏他，永远无法真正的亲近他。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2093106)<br>帝都迁魔都，PR永相随。<br>2014-10-24 00:07<br>赞(7) 踩(0) | <div>Mono Shanghai，18.10.2014 @MAOLIVEHOUSE<br><br>这么多年后摇的live看下来，最短的一场show，最鸡爪颤的一场show，最热情encore但绝不返场的一场show。<br>Mono或许就是这样，由内而外透露着和你的距离感，每一个音符悲怆到骨子里，一点点把你拽入最伤痛的边缘，瞬间一个惊天霹雳吓得你浑身激灵，马上又看到了希望的一丝光芒。你却敬畏他，永远无法真正的亲近他。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40228404)<br>我还没想好要写什么...<br>2014-10-23 22:12<br>赞(0) 踩(0) | <div>西安结束！感觉缩水了！才一个钟头没有返场。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1663201)<br>来自地球<br>2014-10-23 22:19<br>赞(0) 踩(0) | <div>都是8个曲子 我觉得很赞！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40228404)<br>我还没想好要写什么...<br>2014-10-23 22:38<br>赞(0) 踩(0) | <div><q><b>sm1ley说：</b></q></div> |
@@ -759,12 +759,12 @@ www.newnoise.cn
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9632438)<br>知行合一<br>2017-10-27 23:24<br>赞(0) 踩(0) | <div>返了，最后是在卖专辑那里，他们出来了哦哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9668839)<br><br>2014-10-22 18:34<br>赞(0) 踩(0) | <div>我爱MONO！第一千！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35665268)<br>向阳花<br>2014-10-22 14:03<br>赞(1) 踩(0) | <div>昨晚几次被震到崩溃  见到他们听到他们 死而无憾</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1705789)<br>清浊自甚，神灵明鉴。<br>2014-10-22 08:21<br>赞(0) 踩(0) | <div>昨天晚上的现场 到现在还没缓过来不知道下次再有机会看现场是什么时候 庆幸自己没有错过人生圆满了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1705789)<br>清浊自甚，神灵明鉴。<br>2014-10-22 08:21<br>赞(0) 踩(0) | <div>昨天晚上的现场 到现在还没缓过来<br>不知道下次再有机会看现场是什么时候 庆幸自己没有错过<br>人生圆满了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1153116)<br><br>2014-10-21 18:51<br>赞(0) 踩(0) | <div>******</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1153116)<br><br>2014-10-22 18:51<br>赞(0) 踩(0) | <div><q><b>Airwalker说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157418)<br>暂无签名~<br>2017-10-27 23:26<br>赞(0) 踩(0) | <div>haha  shanghai mao livehouse演了，那震撼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1104006)<br><br>2014-10-21 18:47<br>赞(1) 踩(0) | <div>我的后摇启蒙，晚上见</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1144010)<br>在微博再见吧：LZYxL...<br>2014-10-21 14:19<br>赞(0) 踩(0) | <div>杭州场歌单:1.Recoil,Ignite2.Unseen Harbor3.Kanata4.The hand that holds the truth5.Dream Odessey6.Halcyon7.Ashes in the snow8.Where we begin</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1144010)<br>在微博再见吧：LZYxL...<br>2014-10-21 14:19<br>赞(0) 踩(0) | <div>杭州场歌单:<br>1.Recoil,Ignite<br>2.Unseen Harbor<br>3.Kanata<br>4.The hand that holds the truth<br>5.Dream Odessey<br>6.Halcyon<br>7.Ashes in the snow<br>8.Where we begin</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157418)<br>暂无签名~<br>2014-10-21 19:24<br>赞(0) 踩(0) | <div>和上海一样的？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1144010)<br>在微博再见吧：LZYxL...<br>2014-10-21 21:54<br>赞(0) 踩(0) | <div><q><b>Airwalker说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6431359)<br><br>2014-10-22 05:38<br>赞(0) 踩(0) | <div>跟武汉的也差不多 刚听完还没回过神来/</div> |
@@ -794,7 +794,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13324427)<br> <br>2014-10-19 03:37<br>赞(0) 踩(0) | <div>黑氛围音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157418)<br>暂无签名~<br>2014-10-19 01:25<br>赞(1) 踩(0) | <div>Mao livehouse，和我想象中的一样完美！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/508481)<br>不要认为自己没有用<br>2014-10-19 01:01<br>赞(0) 踩(0) | <div>求上海MAO专场的演出歌单</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10259564)<br>呱呱呱<br>2014-10-19 11:28<br>赞(0) 踩(0) | <div>Recoil, Ignite /Unseen Harbor/Kanata/the hand that holds the truth /Dream Odyssey/Halcyon/Ashes in the snow/Where we begin每个地方歌单都不一样的，上海和北京就不同</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10259564)<br>呱呱呱<br>2014-10-19 11:28<br>赞(0) 踩(0) | <div>Recoil, Ignite /Unseen Harbor/Kanata/the hand that holds the truth /Dream Odyssey/Halcyon/Ashes in the snow/Where we begin<br>每个地方歌单都不一样的，上海和北京就不同</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/508481)<br>不要认为自己没有用<br>2014-12-16 11:20<br>赞(0) 踩(0) | <div><q><b>青菜豆腐汤说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3389854)<br><br>2014-10-19 00:54<br>赞(0) 踩(0) | <div>日本团都这个风格吧，全场不说话，没有返场。WEG也是这样</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11086329)<br><br>2014-10-19 12:16<br>赞(0) 踩(0) | <div>toe 上海场有返</div> |
@@ -954,7 +954,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5777255)<br>fvxk alibaba...<br>2014-10-05 21:08<br>赞(0) 踩(0) | <div>这都能收买~虾米牛逼~!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6529292)<br>身在云中不知云。<br>2014-10-05 20:59<br>赞(2) 踩(0) | <div>入驻。撒花~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1805711)<br> <br>2014-10-05 20:57<br>赞(0) 踩(0) | <div>入驻留名</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-10-05 20:53<br>赞(2) 踩(0) | <div>虾米现在是越来越多的国际音乐人入驻了，对于乐迷们来说，应该是好事。1425276,18890,797</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-10-05 20:53<br>赞(2) 踩(0) | <div>虾米现在是越来越多的国际音乐人入驻了，对于乐迷们来说，应该是好事。<br>1425276,18890,797</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3790742)<br><br>2014-10-05 20:50<br>赞(0) 踩(0) | <div>！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13078605)<br>中途半端<br>2014-10-05 20:49<br>赞(0) 踩(0) | <div>音乐人卧槽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9606953)<br>再见，虾米音乐。<br>2014-10-05 20:47<br>赞(0) 踩(0) | <div>入驻虾米！激动。。。。欢迎~</div> |
@@ -992,7 +992,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35482871)<br><br>2014-09-29 14:27<br>赞(0) 踩(0) | <div>h</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11142523)<br> <br>2014-09-29 00:14<br>赞(0) 踩(0) | <div>北京求组队～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4206956)<br>NO<br>2014-09-27 19:39<br>赞(0) 踩(0) | <div>武汉见</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3401179)<br><br>2014-09-27 18:33<br>赞(0) 踩(0) | <div>新专15s 宣传→ 森本晃司 ✕ MONO Rays of Darkness &amp;amp; The Last Dawn (Official CM)<a href="http://v.youku.com/v_show/id_XNzkyMTEyMTg4.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XNzkyMTEyMTg4.html</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3401179)<br><br>2014-09-27 18:33<br>赞(0) 踩(0) | <div>新专15s 宣传→ 森本晃司 ✕ MONO Rays of Darkness &amp;amp; The Last Dawn (Official CM)<br><a href="http://v.youku.com/v_show/id_XNzkyMTEyMTg4.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XNzkyMTEyMTg4.html</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35665268)<br>向阳花<br>2014-09-26 22:25<br>赞(0) 踩(0) | <div>10月21号晚8点，武汉vox livehouse见。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33971459)<br>嗒啦啦啦 嗒啦 嗒嗒啦啦...<br>2014-10-04 03:09<br>赞(0) 踩(0) | <div>求组队</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35665268)<br>向阳花<br>2014-10-04 11:35<br>赞(0) 踩(0) | <div><q><b>Kokyo说：</b></q></div> |
@@ -1070,7 +1070,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10819042)<br>d(≖ᴗ≖ )b<br>2014-07-15 19:46<br>赞(0) 踩(0) | <div><a href="http://emumo.xiami.com/u/7944545" target="_blank" rel="nofollow" name_card="7944545">@大萌兔</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35665268)<br>向阳花<br>2014-07-15 00:53<br>赞(0) 踩(0) | <div>Mono 已然变成心中不可超越的存在+1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20491889)<br> <br>2014-07-14 18:16<br>赞(0) 踩(0) | <div>mono已然变成心里不可超越的存在</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2659823)<br>人間發電所<br>2014-07-07 22:01<br>赞(4) 踩(0) | <div>致郁的巅峰那画面总是孤零零一个人然后怀揣着零星希望，朝着没尽头的路走下去很喜欢坐回家的那班火车，晚上醒来时，就坐在窗边听mono看夜景每次火车进了荒山，而我与那场景只有一窗之隔强烈的不安感如海啸涌来，加快心跳，锤击心脏心想如果自己被丢进这地方，还有没有勇气求生，既害怕又渴望总是陷入思考，丢弃或向往一些东西这不是可以常听的东西，我没那么坚强...</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2659823)<br>人間發電所<br>2014-07-07 22:01<br>赞(4) 踩(0) | <div>致郁的巅峰<br>那画面总是孤零零一个人<br>然后怀揣着零星希望，朝着没尽头的路走下去<br>很喜欢坐回家的那班火车，晚上醒来时，就坐在窗边听mono看夜景<br>每次火车进了荒山，而我与那场景只有一窗之隔<br>强烈的不安感如海啸涌来，加快心跳，锤击心脏<br>心想如果自己被丢进这地方，还有没有勇气求生，既害怕又渴望<br>总是陷入思考，丢弃或向往一些东西<br>这不是可以常听的东西，我没那么坚强...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2745389)<br><br>2014-07-03 00:05<br>赞(0) 踩(0) | <div>喜欢后摇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3057334)<br>没啥特点的人<br>2014-06-26 21:13<br>赞(0) 踩(0) | <div>绝望中带有希望，孤独中充满爱意</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5483744)<br>庄周<br>2014-06-24 13:52<br>赞(0) 踩(0) | <div>Nostalgia——哭了</div> |
@@ -1138,7 +1138,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7200559)<br>我燃烧了一颗恒星，来向你...<br>2014-02-06 20:25<br>赞(0) 踩(0) | <div>【Mono】</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32399695)<br>...<br>2014-02-06 00:15<br>赞(0) 踩(0) | <div>荡气回肠</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15421878)<br><br>2014-02-01 12:07<br>赞(0) 踩(0) | <div>日本后摇</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2291690)<br>在后面摇。<br>2014-01-31 16:57<br>赞(0) 踩(0) | <div>喜欢后摇的风格形式宇航员的自由与奔放；惘闻的低调与纯粹；Leech的层层推进和其他乐队一些千篇一律、单调冗长却又总是能直击心房的神奇调调但却总找不到合适的词三言两语来形容你们的作品，应该是太对味的缘故吧像是浑然天成，整张专辑从头至尾衔接转折过渡没觉得有任何听着别扭的地方厚重音墙，丰富的情感，画面感；旋律起伏跌宕，做到大气与细腻兼顾；密集音墙伴随着沉重悲伤，让人渴望寻求挣脱与释放；可每每结束后却又总能收获强大力量；For &amp;lt;Hymn to the Immortal Wind&amp;gt;Mono，谢谢你们做出了我心目中完美的音乐。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2291690)<br>在后面摇。<br>2014-01-31 16:57<br>赞(0) 踩(0) | <div>喜欢后摇的风格形式<br>宇航员的自由与奔放；惘闻的低调与纯粹；Leech的层层推进<br>和其他乐队一些千篇一律、单调冗长却又总是能直击心房的神奇调调<br>但却总找不到合适的词三言两语来形容你们的作品，应该是太对味的缘故吧<br>像是浑然天成，整张专辑从头至尾衔接转折过渡没觉得有任何听着别扭的地方<br><br>厚重音墙，丰富的情感，画面感；<br>旋律起伏跌宕，做到大气与细腻兼顾；<br>密集音墙伴随着沉重悲伤，让人渴望寻求挣脱与释放；<br>可每每结束后却又总能收获强大力量；<br><br>For &amp;lt;Hymn to the Immortal Wind&amp;gt;<br><br>Mono，谢谢你们做出了我心目中完美的音乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5390661)<br>世界如你想象，一片荒芜。<br>2014-01-25 03:45<br>赞(0) 踩(0) | <div>为什么，那些编辑喜欢把民族符号标记的那么清楚，日本人得戴上双重性格，把道德问题搞得太学术化，那就没人性了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31119180)<br><br>2014-01-15 00:10<br>赞(0) 踩(0) | <div>风格太压抑了，还是阳光后摇适合我的耳朵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1604346)<br>再見<br>2014-01-10 10:43<br>赞(0) 踩(0) | <div>啥时候再来巡演啊啊啊啊啊啊啊啊！！！！！！！！！！！！！！</div> |
@@ -1146,13 +1146,13 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7172511)<br><br>2014-01-03 21:58<br>赞(0) 踩(0) | <div>日本的后摇向来与众不同</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11737994)<br>我还没想好要写什么...<br>2014-01-01 14:28<br>赞(0) 踩(0) | <div>&amp;gt;o&amp;lt; 重新爱上mono</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20212533)<br><br>2013-12-29 17:32<br>赞(0) 踩(0) | <div>mono后摇无解！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157418)<br>暂无签名~<br>2013-12-25 23:25<br>赞(0) 踩(0) | <div>最爱的还是mono 睡觉时听 安静时听 喧闹是听 跑步时听。。。跑步时听会感觉不到累！mono好神奇</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11157418)<br>暂无签名~<br>2013-12-25 23:25<br>赞(0) 踩(0) | <div>最爱的还是mono 睡觉时听 安静时听 喧闹是听 跑步时听。。。跑步时听会感觉不到累<br>！mono好神奇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/654117)<br>暂无签名~<br>2013-12-24 03:11<br>赞(0) 踩(0) | <div>日本</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9102421)<br>为后摇而来。<br>2013-12-22 21:48<br>赞(0) 踩(0) | <div>0.0</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30135789)<br><br>2013-12-20 21:13<br>赞(0) 踩(0) | <div>Walking cloud</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7512147)<br><br>2013-12-09 20:49<br>赞(0) 踩(0) | <div>很流弊的一只后摇天团~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7038107)<br><br>2013-12-08 11:15<br>赞(0) 踩(0) | <div>左手执菊，右手握刀,亮点啊，哈哈哈</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-12-07 07:04<br>赞(0) 踩(0) | <div>日后737983,14871,605</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-12-07 07:04<br>赞(0) 踩(0) | <div>日后<br>737983,14871,605</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3280332)<br> 丧听歌的人<br>2013-12-06 23:57<br>赞(0) 踩(0) | <div>post rock</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/761542)<br><br>2013-12-03 22:23<br>赞(0) 踩(0) | <div>大赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15477519)<br>爱  是生命的和弦，而不...<br>2013-12-02 11:11<br>赞(0) 踩(0) | <div>喜欢...</div> |
@@ -1202,7 +1202,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12150039)<br>迁徙<br>2013-05-28 22:43<br>赞(1) 踩(0) | <div>~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8353572)<br><br>2013-05-26 22:37<br>赞(0) 踩(0) | <div>很不错的样子</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5910785)<br><br>2013-05-25 11:59<br>赞(0) 踩(0) | <div>悠悠</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13987635)<br>孤獨不是你一個人的專利，...<br>2013-05-20 01:09<br>赞(0) 踩(0) | <div>莫名的感傷，日式的憂鬱，美麗的暴力。搖完后，才發現原來黎明后的黑夜里還有日出的一天。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13987635)<br>孤獨不是你一個人的專利，...<br>2013-05-20 01:09<br>赞(0) 踩(0) | <div>莫名的感傷，日式的憂鬱，美麗的暴力。<br><br>搖完后，才發現原來黎明后的黑夜里還有日出的一天。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1665067)<br><br>2013-05-19 03:32<br>赞(0) 踩(0) | <div>POST- ROCK</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6515158)<br>weibo：杯砸_aer...<br>2013-05-16 20:33<br>赞(1) 踩(0) | <div>0 0</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1161576)<br>Live fast  d...<br>2013-05-07 22:49<br>赞(2) 踩(0) | <div>最爱的后摇乐队，没有之一</div> |
@@ -1244,7 +1244,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1585973)<br>听歌中，听各种<br>2013-01-06 19:21<br>赞(1) 踩(0) | <div>一首曲子就是一部电影</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9327494)<br>http://www.x...<br>2013-01-05 00:05<br>赞(0) 踩(0) | <div>love</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5418835)<br><br>2013-01-04 10:20<br>赞(0) 踩(0) | <div>深蓝海底绽放的一株玻璃翠。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5418835)<br><br>2013-01-04 10:17<br>赞(2) 踩(0) | <div>记得有谁说过这样的话：你不停奔跑，而在路的尽头已经没有了等待你的人。所以你跑的四分五裂。连同你越跑越孤冷的心。如果我卸下这些对你的想念，是否就归顺自然、顺应天意、从头开始了？不挣扎也就不徒劳了吗？我宁愿一个人如此寡淡的守在这里。让生命和音乐一同不知所终。我在也许里想念你。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5418835)<br><br>2013-01-04 10:17<br>赞(2) 踩(0) | <div>记得有谁说过这样的话：<br>你不停奔跑，而在路的尽头已经没有了等待你的人。所以你跑的四分五裂。连同你越跑越孤冷的心。如果我卸下这些对你的想念，是否就归顺自然、顺应天意、从头开始了？不挣扎也就不徒劳了吗？我宁愿一个人如此寡淡的守在这里。让生命和音乐一同不知所终。我在也许里想念你。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8032729)<br><br>2013-01-03 19:37<br>赞(0) 踩(0) | <div>还行</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3049806)<br>Amor fati<br>2012-12-31 10:24<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/824976)<br>蹒跚着面对太阳<br>2012-12-29 01:34<br>赞(0) 踩(0) | <div>i like it ............</div> |
@@ -1256,7 +1256,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/629030)<br>‮<br>2012-12-05 05:33<br>赞(1) 踩(0) | <div>1酱你看得到我吗~~嚯哈哈哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7279816)<br>不需要写什么<br>2012-12-01 17:45<br>赞(0) 踩(0) | <div>旋律美，具体那首喜欢要再听听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9327494)<br>http://www.x...<br>2012-11-26 11:21<br>赞(0) 踩(0) | <div>love</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6493471)<br>.<br>2012-11-24 21:21<br>赞(0) 踩(0) | <div>Mono LIVE VIDEO (网上 的一些较完整的和相对高质量的视频）Mono - Holy Ground: NYC Live<a href="http://v.youku.com/v_show/id_XMTY0MTU1OTY0.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMTY0MTU1OTY0.html</a>Mono_愚公移山 2012-08-15<a href="http://www.tudou.com/programs/view/dqgVBUQFR6g" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/dqgVBUQFR6g</a>The Sky Remains The Same As Ever (DVD)<a href="http://www.tudou.com/programs/view/COJnsOZ599o" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/COJnsOZ599o</a>Mono live Montreux Jazz Fe</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6493471)<br>.<br>2012-11-24 21:21<br>赞(0) 踩(0) | <div>Mono LIVE VIDEO (网上 的一些较完整的和相对高质量的视频）<br><br>Mono - Holy Ground: NYC Live<br><a href="http://v.youku.com/v_show/id_XMTY0MTU1OTY0.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMTY0MTU1OTY0.html</a><br><br>Mono_愚公移山 2012-08-15<br><a href="http://www.tudou.com/programs/view/dqgVBUQFR6g" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/dqgVBUQFR6g</a><br><br>The Sky Remains The Same As Ever (DVD)<br><a href="http://www.tudou.com/programs/view/COJnsOZ599o" target="_blank" rel="nofollow noreferrer noopener">http://www.tudou.com/programs/view/COJnsOZ599o</a><br><br>Mono live Montreux Jazz Fe</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8880996)<br><br>2012-11-24 13:17<br>赞(0) 踩(0) | <div>穿越星空！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1446973)<br><br>2012-11-17 01:40<br>赞(0) 踩(0) | <div>喜欢的一支后摇 在我心里跟月野兔有一拼 啥也别说咧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1081724)<br>freeclimb<br>2012-11-12 21:49<br>赞(0) 踩(0) | <div>酷毙的后摇</div> |
@@ -1265,7 +1265,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10584042)<br>真火不温不火<br>2012-10-31 12:55<br>赞(0) 踩(0) | <div>什么事后摇不知道，反正第一次听burial at sea真的很悲壮 mono 留存了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8296551)<br><br>2012-10-30 22:11<br>赞(0) 踩(0) | <div>真是对我胃口</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478817)<br><br>2012-10-28 10:18<br>赞(4) 踩(0) | <div>我知道带着旧眼光来看一个乐队的新专辑，对专辑本身并不公平。两个月后冷静下来再听一遍，For My Parents是一张很感人的专辑，但是感人得很廉价。它是一张好听的专辑，很入耳，但是另一个方面来说我觉得它连作为一张标准的后摇滚入门专辑的资格都没有，因为它骨子里的浮躁让我几乎无法忍受。也许是我已经麻木了，这样的音乐已经不足以感动我。这张新专辑给我留下的，还不如06年专辑里那首The flames beyond...8:50秒开始的从左耳涌入的那段空白的噪音让我觉得无法自拔。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447058)<br>已迁移至网易云，祝好——...<br>2012-11-04 20:37<br>赞(0) 踩(0) | <div>For My Parents确实很浮躁 但是梦之奥德赛除外这首依旧是能抚慰人心的</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447058)<br>已迁移至网易云，祝好——...<br>2012-11-04 20:37<br>赞(0) 踩(0) | <div>For My Parents确实很浮躁 但是梦之奥德赛除外<br><br>这首依旧是能抚慰人心的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478817)<br><br>2012-11-04 20:44<br>赞(0) 踩(0) | <div><q><b>暗叉说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447058)<br>已迁移至网易云，祝好——...<br>2012-11-04 20:47<br>赞(0) 踩(0) | <div><q><b>小苦瓜说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478817)<br><br>2012-11-04 20:58<br>赞(0) 踩(0) | <div><q><b>暗叉说：</b></q></div> |
@@ -1310,12 +1310,12 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/598967)<br><br>2012-08-27 23:47<br>赞(0) 踩(0) | <div>错过了 什么时候再来....................不然直接杀到日本好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9225571)<br>啊啊啊啊啊啊<br>2012-08-24 01:02<br>赞(0) 踩(0) | <div>Mono,post-rock,</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1843053)<br>冢中枯骨燃成灰<br>2012-08-23 18:10<br>赞(0) 踩(0) | <div>黎明前的黑暗</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1381909)<br><br>2012-08-23 12:36<br>赞(1) 踩(0) | <div>昨晚从mono的现场归来，耳朵久久还在回声，不曾停息，一闭上眼，脑海中就弹跳出旋律。记得演绎新砖之后，后面出现耳熟能详的曲目时，大家在旋律一响起就欢呼。久久地久久地。~~~·抨击入心的调。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1381909)<br><br>2012-08-23 12:36<br>赞(1) 踩(0) | <div>昨晚从mono的现场归来，耳朵久久还在回声，不曾停息，一闭上眼，脑海中就弹跳出旋律。记得演绎新砖之后，后面出现耳熟能详的曲目时，大家在旋律一响起就欢呼。久久地久久地。~~~·<br>抨击入心的调。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10320537)<br><br>2012-08-22 14:44<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447058)<br>已迁移至网易云，祝好——...<br>2012-08-21 13:34<br>赞(0) 踩(0) | <div>Mono maybe = Moon</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7341552)<br><br>2012-08-20 16:57<br>赞(0) 踩(0) | <div>忧郁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/559427)<br>你觉得恨，却离不开<br>2012-08-20 10:29<br>赞(0) 踩(0) | <div>期待已久的MONO就在今晚！！！有武汉同去的嘛？？！！</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2600886)<br><br>2012-08-20 11:42<br>赞(0) 踩(0) | <div>一起啊！今晚众基友一起啊！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2600886)<br><br>2012-08-20 11:42<br>赞(0) 踩(0) | <div>一起啊！<br>今晚众基友一起啊！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1258258)<br><br>2012-08-20 21:30<br>赞(0) 踩(0) | <div>有encore嗎！？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/559427)<br>你觉得恨，却离不开<br>2012-08-21 00:27<br>赞(0) 踩(0) | <div><q><b>顽童说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/631740)<br><br>2012-08-21 00:55<br>赞(0) 踩(0) | <div><q><b>Viking.说：</b></q></div> |
@@ -1335,7 +1335,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2443306)<br><br>2012-08-18 23:36<br>赞(0) 踩(0) | <div>成都现场归来,太燃了!!!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1177806)<br><br>2012-08-19 00:15<br>赞(0) 踩(0) | <div>还行吧，的确跟六年前不一样了。后面出的歌越来越大气了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/626345)<br>这家伙很聪明什么也没留下...<br>2012-08-18 23:05<br>赞(0) 踩(0) | <div>因为工作的原因去不了现场T T 眼睁睁就要看着错过了！！！唉！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6005918)<br>网易云账号同名：pans...<br>2012-08-18 10:50<br>赞(2) 踩(0) | <div>就8/17上海场来说曲目是这样的，时长1:30，无encore1．Legend2．Nostalgia3．Dream Odyssey4．Pure As Snow (Trails of the Winter Storm)5．Follow The Map6．Unseen Harbor7．Ashes In The Snow8．Everlasting Light</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6005918)<br>网易云账号同名：pans...<br>2012-08-18 10:50<br>赞(2) 踩(0) | <div>就8/17上海场来说曲目是这样的，时长1:30，无encore<br>1．Legend<br>2．Nostalgia<br>3．Dream Odyssey<br>4．Pure As Snow (Trails of the Winter Storm)<br>5．Follow The Map<br>6．Unseen Harbor<br>7．Ashes In The Snow<br>8．Everlasting Light</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1311448)<br> <br>2012-08-18 12:55<br>赞(0) 踩(0) | <div>改曲目了？之前没有Ashes In The Snow和Pure As Snow 吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6005918)<br>网易云账号同名：pans...<br>2012-08-18 13:05<br>赞(0) 踩(0) | <div><q><b>番茄炒蛋说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/776588)<br>Live fast di...<br>2012-08-18 20:41<br>赞(0) 踩(0) | <div>哭了，你拿到歌单了？</div> |
@@ -1360,7 +1360,7 @@ www.newnoise.cn
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/550852)<br><br>2012-08-21 15:35<br>赞(0) 踩(0) | <div><q><b>hey!  bye!说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5568422)<br>微博：斯糖Sitang<br>2012-08-15 17:57<br>赞(0) 踩(0) | <div>听得我鸡皮疙瘩起了一身，真是只有日本人才能做出这样的音乐，喜欢后摇的人推荐，我有点不敢去看现场了，怕失控，热泪满面。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4041842)<br><br>2012-08-15 16:12<br>赞(0) 踩(0) | <div>丧到心里去了~太经典~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478527)<br>好想跟衣服在洗衣机里滚<br>2012-08-14 12:16<br>赞(0) 踩(0) | <div>Dream Odyssey这么快就名列播放第一名了，总觉得有些假~~~现场听了回来，这首曲子的现场比在这里听帅多了！！！确实有能力成为第一！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478527)<br>好想跟衣服在洗衣机里滚<br>2012-08-14 12:16<br>赞(0) 踩(0) | <div>Dream Odyssey这么快就名列播放第一名了，总觉得有些假~~~<br>现场听了回来，这首曲子的现场比在这里听帅多了！！！确实有能力成为第一！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/535221)<br>Lose Control<br>2012-08-16 14:11<br>赞(0) 踩(0) | <div>新专在中国的宣传比较多再加上演出，让更多的人开始接触后摇，音乐不要因此变得浮躁就好。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447058)<br>已迁移至网易云，祝好——...<br>2012-08-17 22:12<br>赞(0) 踩(0) | <div><q><b>Carney说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/535221)<br>Lose Control<br>2012-08-18 15:19<br>赞(0) 踩(0) | <div><q><b>暗叉说：</b></q></div> |
@@ -1376,7 +1376,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3339852)<br>十二个字能说什么？<br>2012-08-12 14:07<br>赞(0) 踩(0) | <div>巡演要是沈阳能有一站该多好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3294209)<br><br>2012-08-12 00:27<br>赞(0) 踩(0) | <div>想哭</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/859970)<br>bebop即兴人生<br>2012-08-11 23:29<br>赞(0) 踩(0) | <div>大气，有漫游感！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8939466)<br>ALL HIGH XXX...<br>2012-08-11 21:55<br>赞(0) 踩(0) | <div>你甚至可以在他们的现场里回忆到内心最不可言说的片段：那些绝望的瞬间和重获希望的一片天光，可以在同时达到最广阔的共鸣。他们绝不是一个“后摇”乐队那么简单。希望在你熟悉的那个城市，你可以全心投入地看一场永生难忘的演出。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8939466)<br>ALL HIGH XXX...<br>2012-08-11 21:55<br>赞(0) 踩(0) | <div>你甚至可以在他们的现场里回忆到内心最不可言说的片段：那些绝望的瞬间和重获希望的一片天光，可以在同时达到最广阔的共鸣。他们绝不是一个“后摇”乐队那么简单。<br>希望在你熟悉的那个城市，你可以全心投入地看一场永生难忘的演出。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1288720)<br>hi...我在广场等你<br>2012-08-11 14:31<br>赞(0) 踩(0) | <div>日本</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1463850)<br>纵错失众多美好但依然向前<br>2012-08-11 02:26<br>赞(0) 踩(0) | <div>听得过程中总让我陷入深思，然后豁然接受一切，从容面对现实</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3217248)<br>我还没想好要写什么...<br>2012-08-10 22:43<br>赞(0) 踩(0) | <div>巡演中</div> |
@@ -1386,7 +1386,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4796704)<br><br>2012-08-09 16:59<br>赞(0) 踩(0) | <div>POST-ROCK</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/140583)<br>Website:lain...<br>2012-08-09 15:05<br>赞(0) 踩(0) | <div>我又去不成…</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6267946)<br><br>2012-08-08 16:36<br>赞(0) 踩(0) | <div>暗！ 大气！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478817)<br><br>2012-08-07 21:25<br>赞(2) 踩(0) | <div>新作好听是好听 但是故意为之的感觉还是更浓了 也许已经没有力气再为这样的音乐感动了还是You Are There口味最为适中</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/478817)<br><br>2012-08-07 21:25<br>赞(2) 踩(0) | <div>新作好听是好听 但是故意为之的感觉还是更浓了 也许已经没有力气再为这样的音乐感动了<br><br>还是You Are There口味最为适中</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4478289)<br><br>2012-08-08 22:32<br>赞(0) 踩(0) | <div>故意为之+1 新的那首legend旋律上听着不错 但很多地方过渡超级不自然</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7444870)<br><br>2012-08-07 19:50<br>赞(0) 踩(0) | <div>音乐风格极其适合今晚微博的基调啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/629030)<br>‮<br>2012-08-06 17:33<br>赞(0) 踩(0) | <div>每一个人身上都拖带着一个世界，由他所见过、爱过的一切所组成的世界，即使他看起来是在另一个不同的世界里旅行、生活，他仍然不停地回到他身上所拖带着的那个世界去。</div> |
@@ -1405,7 +1405,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5547638)<br><br>2012-07-30 16:04<br>赞(0) 踩(0) | <div>暗，含明媚；静，待爆发</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3882789)<br><br>2012-07-30 09:22<br>赞(0) 踩(0) | <div>停不下来。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1160114)<br>我慢慢的一步一步走<br>2012-07-29 18:13<br>赞(0) 踩(0) | <div>他们8月18号要来成都了咯，</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2551200)<br>我还没想好要写什么...<br>2012-07-28 13:34<br>赞(0) 踩(0) | <div><a href="http://weibo.com/monojapan" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/monojapan</a>MONO的微博</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2551200)<br>我还没想好要写什么...<br>2012-07-28 13:34<br>赞(0) 踩(0) | <div><a href="http://weibo.com/monojapan" target="_blank" rel="nofollow noreferrer noopener">http://weibo.com/monojapan</a><br>MONO的微博</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/814062)<br><br>2012-07-28 10:55<br>赞(0) 踩(0) | <div>该爱上的，终究会爱上……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7833315)<br><br>2012-07-27 19:48<br>赞(0) 踩(0) | <div>刘斌的推荐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5755404)<br>我还没想好要写什么...<br>2012-07-27 12:21<br>赞(0) 踩(0) | <div>@Kevin神经病</div> |
@@ -1425,7 +1425,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2079934)<br><br>2012-07-23 15:50<br>赞(0) 踩(0) | <div>喜欢还要理由么？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/913506)<br>我还没想好要写什么...<br>2012-07-19 19:23<br>赞(0) 踩(0) | <div>巡演微贵的说&amp;gt; &amp;lt;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3670865)<br>我还没想好要写什么...<br>2012-07-18 12:01<br>赞(0) 踩(0) | <div>MONO - Dream Odyssey (New Track)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7816265)<br>Vicious 666<br>2012-07-01 19:47<br>赞(0) 踩(0) | <div>db日本后摇天团MONO</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7816265)<br>Vicious 666<br>2012-07-01 19:47<br>赞(0) 踩(0) | <div>db<br>日本后摇天团MONO</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1546360)<br>就是如此清新脱俗<br>2012-07-13 22:44<br>赞(0) 踩(0) | <div>操！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3148143)<br><br>2012-07-01 12:30<br>赞(0) 踩(0) | <div>悲伤如山体脆弱塌陷，却又变成泥石流山呼海啸，我愿在此淹没。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/562402)<br><br>2012-06-29 17:19<br>赞(0) 踩(0) | <div>最强后摇！</div> |
@@ -1433,13 +1433,13 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8833778)<br><br>2012-06-28 12:43<br>赞(0) 踩(0) | <div>跟想象的不一样啊。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1153116)<br><br>2012-06-28 12:03<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1171396)<br>以前办不到的事情，未来也...<br>2012-06-27 16:42<br>赞(0) 踩(0) | <div>让我逮到某人了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/706923)<br><br>2012-06-27 11:25<br>赞(0) 踩(0) | <div>Thursday 23 August 2012MonoVenueHidden Agenda2A , Wing Fu Industrial Bldg, 15-17 Tai Yip Street, Kwun Tong. Hong KongHong Kong, Hong Kong八月份演唱会，香港</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/706923)<br><br>2012-06-27 11:25<br>赞(0) 踩(0) | <div>Thursday 23 August 2012<br>Mono<br>Venue<br>Hidden Agenda<br>2A , Wing Fu Industrial Bldg, 15-17 Tai Yip Street, Kwun Tong. Hong Kong<br>Hong Kong, Hong Kong<br>八月份演唱会，香港</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6443092)<br><br>2012-06-27 00:51<br>赞(0) 踩(0) | <div>在这个时候，是分享你了！MONO</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2537009)<br>seamlesswave<br>2012-06-26 19:03<br>赞(0) 踩(0) | <div>8月要来成都啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5014885)<br><br>2012-06-26 15:08<br>赞(0) 踩(0) | <div>为什么我觉得不是特别好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1065533)<br>a world with...<br>2012-06-26 10:35<br>赞(0) 踩(0) | <div>等新砖儿</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7104961)<br>我见青山多妩媚，料青山，...<br>2012-06-23 06:59<br>赞(0) 踩(0) | <div>大日本皇军万岁！！！！！！！！！！！！！！！！！！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307338)<br>我还没想好要写什么...<br>2012-06-14 10:16<br>赞(9) 踩(0) | <div>每天翻翻这个 找找那个结果最后还是要回来听听MONO</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307338)<br>我还没想好要写什么...<br>2012-06-14 10:16<br>赞(9) 踩(0) | <div>每天翻翻这个 找找那个<br><br>结果最后还是要回来听听MONO</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6404176)<br><br>2017-10-28 00:31<br>赞(0) 踩(0) | <div>最近中国巡演噢..有广州站</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7372691)<br>直言者半死不活<br>2012-06-14 09:43<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/438803)<br> <br>2012-06-12 23:41<br>赞(0) 踩(0) | <div>post-rock,</div> |
@@ -1464,7 +1464,7 @@ www.newnoise.cn
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47195966)<br>qq音乐同名。<br>2017-07-04 01:25<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32582029)<br>暂无签名~<br>2017-12-05 17:10<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/185953480)<br>balabala<br>2018-09-16 10:12<br>赞(0) 踩(0) | <div>是</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6793684)<br><br>2012-04-12 21:29<br>赞(1) 踩(0) | <div>既然逃不离这绝望 不如就闭上眼 与这绝望合一睁开眼 我便是绝望 绝望便是我 还有什么值得恐惧 还有什么可以失去</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6793684)<br><br>2012-04-12 21:29<br>赞(1) 踩(0) | <div>既然逃不离这绝望 不如就闭上眼 与这绝望合一<br>睁开眼 我便是绝望 绝望便是我 还有什么值得恐惧 还有什么可以失去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5675856)<br><br>2012-04-12 15:46<br>赞(0) 踩(0) | <div>音乐不是人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5457149)<br><br>2012-04-11 14:19<br>赞(0) 踩(0) | <div>安静，阴郁，正如此刻的心情。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2804922)<br><br>2012-04-08 11:51<br>赞(45) 踩(0) | <div>致不朽之风赞美诗</div> |
@@ -1479,12 +1479,12 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8445956)<br><br>2012-03-16 02:28<br>赞(0) 踩(0) | <div>一场绚烂的烟火</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8329421)<br>时光不及你眉眼<br>2012-03-15 13:13<br>赞(0) 踩(0) | <div>+1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1126826)<br>我还没想好要写什么...<br>2012-03-07 19:41<br>赞(0) 踩(0) | <div>死亡美学</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4289164)<br><br>2012-03-06 16:02<br>赞(0) 踩(0) | <div>找到这乐队了、、和mono inc记混过 = =</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4289164)<br><br>2012-03-06 16:02<br>赞(0) 踩(0) | <div>找到这乐队了、、<br>和mono inc记混过 = =</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3969170)<br><br>2012-03-03 11:40<br>赞(0) 踩(0) | <div>后摇，颠覆传统，恰恰体现了摇滚的本质</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4260086)<br><br>2012-02-29 22:28<br>赞(0) 踩(0) | <div>求虾币</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1729925)<br>暂无签名~<br>2012-02-29 14:04<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8155812)<br><br>2012-02-28 00:00<br>赞(0) 踩(0) | <div>大气</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/562905)<br>我还没想好要写什么...<br>2012-02-26 20:31<br>赞(0) 踩(0) | <div>这支日本的乐队的音乐不行啊<a href="http://www.xiami.com/artist/24507" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/artist/24507</a>   这才是真的MONO ,谨防假冒</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/562905)<br>我还没想好要写什么...<br>2012-02-26 20:31<br>赞(0) 踩(0) | <div>这支日本的乐队的音乐不行啊<br><a href="http://www.xiami.com/artist/24507" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/artist/24507</a>   这才是真的MONO ,谨防假冒</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5971058)<br>*Fish Kiss*<br>2012-03-01 13:56<br>赞(0) 踩(0) | <div>噗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3762972)<br><br>2012-03-01 20:50<br>赞(0) 踩(0) | <div>怎么回事？搞得云里雾里的，不过我只认识链接头的MONO</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/456516)<br>.<br>2012-03-04 00:47<br>赞(0) 踩(0) | <div><q><b>morcheebaa说：</b></q></div> |
@@ -1516,7 +1516,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2200683)<br><br>2011-12-25 17:15<br>赞(0) 踩(0) | <div>有一本日本書叫什麽來著，就和菊花有關那本。菊花與刀？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2757327)<br>是不是该谢谢你提醒我<br>2012-01-07 20:23<br>赞(0) 踩(0) | <div>菊与刀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2724706)<br><br>2011-12-21 13:17<br>赞(0) 踩(0) | <div>好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7162443)<br><br>2011-12-18 23:59<br>赞(0) 踩(0) | <div>甜梅號的相似藝人清單中找到..挺符合 後搖的 噪音我喜歡!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7162443)<br><br>2011-12-18 23:59<br>赞(0) 踩(0) | <div>甜梅號的相似藝人清單中找到..<br>挺符合 後搖的 噪音<br>我喜歡!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1242929)<br>我还没想好要写什么...<br>2011-12-18 00:07<br>赞(1) 踩(0) | <div>除了自己，已不用想着再去超越谁。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2186236)<br>暂无签名~<br>2011-12-17 20:15<br>赞(1) 踩(0) | <div>经典后摇团队，没啥可说，听就是了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3292117)<br><br>2011-12-14 01:48<br>赞(0) 踩(0) | <div>非常好的场景控写文背景音。。。</div> |
@@ -1609,7 +1609,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4981312)<br><br>2011-07-25 22:48<br>赞(0) 踩(0) | <div>死亡，真的是黑色的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4965832)<br><br>2011-07-22 01:36<br>赞(0) 踩(0) | <div>亚洲后摇神级乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/681448)<br>你应该是一棵树，或者一条...<br>2011-07-12 19:10<br>赞(0) 踩(0) | <div>nice!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4202107)<br>我还没想好要写什么...<br>2011-07-12 02:15<br>赞(1) 踩(0) | <div>................................................</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4202107)<br>我还没想好要写什么...<br>2011-07-12 02:15<br>赞(1) 踩(0) | <div>..............................<br>..................</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97031)<br><br>2011-07-08 12:03<br>赞(0) 踩(0) | <div>后摇启蒙团诶！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2688180)<br>喜新不厌旧<br>2011-07-05 18:32<br>赞(0) 踩(0) | <div>Mono日本后摇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/672223)<br>人世难逢开口笑<br>2011-07-02 13:00<br>赞(0) 踩(0) | <div>霓虹的PR天团？</div> |
@@ -1619,7 +1619,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4152727)<br>心无挂碍<br>2011-07-01 09:47<br>赞(0) 踩(0) | <div>后摇中的大牌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/600368)<br>群众的眼睛是雪亮的=喷子<br>2011-06-18 21:54<br>赞(0) 踩(0) | <div>mono</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2496576)<br>music foreve...<br>2011-06-14 21:12<br>赞(0) 踩(0) | <div>美中带着残忍,日本文化渗透得厉害</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/565161)<br><br>2011-06-29 00:54<br>赞(0) 踩(0) | <div>请问文化是指日本的负面方面吗？是不是一些类似激发暗暗的自杀性元素，不是的话是不是只单纯是重后摇的艺术性。。？</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/565161)<br><br>2011-06-29 00:54<br>赞(0) 踩(0) | <div>请问<br>文化是指日本的负面方面吗？<br>是不是一些类似激发暗暗的自杀性元素，不是的话是不是只单纯是重后摇的艺术性。。？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1971644)<br><br>2011-07-01 12:08<br>赞(0) 踩(0) | <div><q><b>blue fish说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2496576)<br>music foreve...<br>2011-07-02 11:49<br>赞(0) 踩(0) | <div><q><b>blue fish说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2496576)<br>music foreve...<br>2011-07-02 12:04<br>赞(0) 踩(0) | <div><q><b>闭着眼骑车说：</b></q></div> |
@@ -1652,7 +1652,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1384445)<br><br>2011-05-03 21:31<br>赞(0) 踩(0) | <div>奥特曼推荐的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1384445)<br><br>2011-05-03 21:30<br>赞(0) 踩(0) | <div>有赶脚！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/563576)<br><br>2011-05-03 19:41<br>赞(0) 踩(0) | <div>再一次等了3年，，还是舍不得</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2916850)<br><br>2011-05-03 19:16<br>赞(0) 踩(0) | <div>MONO的现场让人飞翔。。一首歌一次。。完全全新的体验。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2916850)<br><br>2011-05-03 19:16<br>赞(0) 踩(0) | <div>MONO的现场让人飞翔。。一首歌一次。。<br>完全全新的体验。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2916850)<br><br>2011-05-03 19:14<br>赞(0) 踩(0) | <div>飞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1569884)<br><br>2011-05-03 17:08<br>赞(0) 踩(0) | <div>纯粹</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3819270)<br><br>2011-05-03 16:16<br>赞(0) 踩(0) | <div>无法言语的美丽 内心深处的碰撞~</div> |
@@ -1666,7 +1666,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19878)<br><br>2011-05-01 01:26<br>赞(0) 踩(0) | <div>MoNo天下无敌！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3342441)<br><br>2011-05-01 00:49<br>赞(0) 踩(0) | <div>ai</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/863633)<br>日系杂食，民族调一番<br>2011-05-01 00:14<br>赞(0) 踩(0) | <div>某人又去了听mono还没回来:(想起去年去的时候，烟太多，空气太差，但还是真心觉得好听的。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164590)<br>你还好吗<br>2011-04-29 20:24<br>赞(0) 踩(0) | <div>明天看mono啦~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164590)<br>你还好吗<br>2011-04-29 20:24<br>赞(0) 踩(0) | <div>明天看mono啦~~~~~~~~~~~~~~~~~~~~~~<br>~~~~~~~~~~~~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2521290)<br><br>2011-04-29 14:49<br>赞(0) 踩(0) | <div>缓慢，低沉，不妥协~~~鸟不鸟我，我都是我~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2946472)<br>青黑固定<br>2011-04-29 10:59<br>赞(0) 踩(0) | <div>要来魔都咯~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3339852)<br>十二个字能说什么？<br>2011-04-27 15:53<br>赞(1) 踩(0) | <div>飘~~·</div> |
@@ -1703,12 +1703,12 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3096219)<br><br>2011-03-07 12:18<br>赞(0) 踩(0) | <div>有机会一定去听现场！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51431)<br>死ぬまで18。<br>2011-03-06 22:01<br>赞(0) 踩(0) | <div>luv Post Rock!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2654182)<br><br>2011-03-06 02:51<br>赞(1) 踩(0) | <div>+</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1523300)<br>Gone<br>2011-03-03 01:41<br>赞(0) 踩(0) | <div>2011 MONO中国巡演4月30日： 上海 MAO5月2日： 北京 草莓音乐节哎 北京上海的同胞真是有福啊 上次以泪洗面的都让我错过了呜呜呜~~~</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2571428)<br><br>2011-03-24 18:14<br>赞(0) 踩(0) | <div>有什么国外大牌来的怎么都是上海跟北京啊。，眼红。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1523300)<br>Gone<br>2011-03-03 01:41<br>赞(0) 踩(0) | <div>2011 MONO中国巡演<br>4月30日： 上海 MAO<br>5月2日： 北京 草莓音乐节<br>哎 北京上海的同胞真是有福啊 上次以泪洗面的都让我错过了呜呜呜~~~</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2571428)<br><br>2011-03-24 18:14<br>赞(0) 踩(0) | <div>有什么国外大牌来的怎么都是上海跟北京啊。，<br>眼红。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1971644)<br><br>2011-02-26 23:32<br>赞(0) 踩(0) | <div>这就是神 battle to heaven 简直就是LSD</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/637644)<br>我还没想好要写什么...<br>2011-02-23 09:58<br>赞(0) 踩(0) | <div>post rock</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1168724)<br><br>2011-02-20 22:36<br>赞(0) 踩(0) | <div>恩</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/565161)<br><br>2011-02-15 20:53<br>赞(0) 踩(0) | <div>这样重气氛的乐团也有女的 真的让人刮目相看。。我不是性歧视者！ 只是MONO是我唯一知道有女成员的重后摇乐团。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/565161)<br><br>2011-02-15 20:53<br>赞(0) 踩(0) | <div>这样重气氛的乐团也有女的 真的让人刮目相看。。<br>我不是性歧视者！ 只是MONO是我唯一知道有女成员的重后摇乐团。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1062659)<br><br>2011-02-24 03:00<br>赞(0) 踩(0) | <div>黑金还有女的呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/142500)<br><br>2011-02-04 20:16<br>赞(0) 踩(0) | <div>我心中的神，唯一的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220719)<br>自知不自見，自愛不自貴<br>2011-01-30 20:33<br>赞(0) 踩(0) | <div>恩，這一下是日本的Mono了，，</div> |
@@ -1720,7 +1720,7 @@ www.newnoise.cn
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1696665)<br><br>2011-01-09 21:42<br>赞(0) 踩(0) | <div>太磅礡了!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2045019)<br>我还没想好要写什么...<br>2010-12-13 09:49<br>赞(0) 踩(0) | <div>有幸前两年看过他们的live 那时里面才不过100人 我站在第一排 真是震撼 之后黑胶盘签了名照了相聊了几句 现在想起来真是去对了...去年他们又来这里,可是订票的时候晚了 已经卖光</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/164599)<br>打死我!我想死!<br>2011-01-16 23:46<br>赞(0) 踩(0) | <div>给力啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2056373)<br><br>2010-12-07 20:31<br>赞(0) 踩(0) | <div>follow the map沉默而庞大的思念。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2056373)<br><br>2010-12-07 20:31<br>赞(0) 踩(0) | <div>follow the map<br>沉默而庞大的思念。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261870)<br>May  I ?<br>2010-10-22 10:51<br>赞(0) 踩(0) | <div>mono很触动人心 大气</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/773727)<br><br>2010-11-06 23:36<br>赞(0) 踩(0) | <div>看来是很会听后摇啊！或者说会欣赏！！ 的确很大气</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261870)<br>May  I ?<br>2010-11-07 09:14<br>赞(0) 踩(0) | <div><q><b>piaopiao说：</b></q></div> |
@@ -1746,14 +1746,14 @@ www.newnoise.cn
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/906956)<br><br>2011-01-10 16:40<br>赞(0) 踩(0) | <div><q><b>高草说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/616538)<br><br>2011-01-11 21:22<br>赞(0) 踩(0) | <div><q><b>qban说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/906956)<br><br>2011-01-11 23:17<br>赞(0) 踩(0) | <div><q><b>高草说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318315)<br>暂无签名~<br>2009-10-15 23:23<br>赞(0) 踩(0) | <div>去了就是票贵</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423562)<br>走吧<br>2009-10-16 00:22<br>赞(0) 踩(0) | <div>其实不贵，冲着还有甜梅号。想当年脏三演的那个不堪的半场还好几百呢。关键是上海人民看完演出付不起起步价16块的车费哦。杯具杯具。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318315)<br>暂无签名~<br>2009-10-15 23:23<br>赞(0) 踩(0) | <div>去了<br>就是票贵</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423562)<br>走吧<br>2009-10-16 00:22<br>赞(0) 踩(0) | <div>其实不贵，冲着还有甜梅号。想当年脏三演的那个不堪的半场还好几百呢。<br>关键是上海人民看完演出付不起起步价16块的车费哦。杯具杯具。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318315)<br>暂无签名~<br>2009-10-16 10:22<br>赞(0) 踩(0) | <div><q><b>某 Mou Hoo说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/318315)<br>暂无签名~<br>2009-10-16 13:25<br>赞(0) 踩(0) | <div><q><b>某 Mou Hoo说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423562)<br>走吧<br>2009-10-16 13:47<br>赞(0) 踩(0) | <div><q><b>猪头没有头说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319048)<br>向死而生<br>2010-01-24 08:33<br>赞(0) 踩(0) | <div>我们这的还没机会看了，尤其是我这类要拼高考的穷学生……羡慕你们啊啊啊</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423562)<br>走吧<br>2017-10-28 00:30<br>赞(0) 踩(0) | <div><q><b>猪头没有头说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423562)<br>走吧<br>2009-10-14 15:53<br>赞(0) 踩(0) | <div>MONO要来了！上海 11月27号 MAO shanghai北京 11月28号 愚公移山</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/423562)<br>走吧<br>2009-10-14 15:53<br>赞(0) 踩(0) | <div>MONO要来了！<br>上海 11月27号 MAO shanghai<br>北京 11月28号 愚公移山</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70441)<br><br>2009-09-26 18:33<br>赞(0) 踩(0) | <div>英国Mono和日本Mono同名，只发过一张专辑。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319048)<br>向死而生<br>2009-08-10 08:17<br>赞(0) 踩(0) | <div>能抵达人心的最深处的音乐……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61045)<br>~<br>2009-08-06 15:36<br>赞(0) 踩(0) | <div>很牛逼的音乐啊，赞</div> |

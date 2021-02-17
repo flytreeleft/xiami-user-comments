@@ -30,5 +30,3 @@ And god send you a happy New Year
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

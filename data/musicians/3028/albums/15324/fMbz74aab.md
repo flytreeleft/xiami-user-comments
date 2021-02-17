@@ -37,8 +37,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9346907)<br><br>2021-01-06 19:50<br>赞(0) 踩(0) | <div>倒闭前再来看看</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/67991400)<br>我只不过是个没有梦想的伪...<br>2020-12-14 00:12<br>赞(1) 踩(0) | <div>这前奏，卧槽，简直伟大</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10248072)<br>我还没想好要写什么...<br>2020-06-26 23:28<br>赞(0) 踩(0) | <div>这都多少年了，</div> |
@@ -155,7 +155,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35870417)<br>一念无明<br>2016-06-05 00:59<br>赞(0) 踩(0) | <div>只有内心远过空旷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15928974)<br>去看海<br>2016-05-31 20:01<br>赞(0) 踩(0) | <div>棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9725504)<br>千江有水千江月，万里无云...<br>2016-05-31 19:55<br>赞(0) 踩(0) | <div>有没有有前奏的曲谱啊 <img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49774689)<br>Drummers<br>2016-05-26 23:37<br>赞(2) 踩(0) | <div>去年六月，和小伙伴们在成都到茂县13小时的车程上，一个人戴着耳机循环着这首歌。从平原慢慢上到5000米的高原，气温从30℃降到10℃。。。后排的车窗上还隐隐约约能看到有三两只牦牛在半山间挪动。。。而现在小伙伴大半年才有一次碰头，想想大概是因为我们都已经优美地低于了生活吧。。。。 <img src="../../../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49774689)<br>Drummers<br>2016-05-26 23:37<br>赞(2) 踩(0) | <div>去年六月，和小伙伴们在成都到茂县13小时的车程上，一个人戴着耳机循环着这首歌。从平原慢慢上到5000米的高原，气温从30℃降到10℃。。。后排的车窗上还隐隐约约能看到有三两只牦牛在半山间挪动。。。<br>而现在小伙伴大半年才有一次碰头，想想大概是因为我们都已经优美地低于了生活吧。。。。 <img src="../../../../images/comments/6284ff007f5e20c059de91e23ae28c9b.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4841238)<br>暂无签名~<br>2016-05-24 08:50<br>赞(1) 踩(0) | <div>路过人民广场，抬头看到一群鸟低空掠过，刚好响起这首歌，感觉有一束光打在脸上。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/113036270)<br>在小时候的黄昏见<br>2016-05-22 13:29<br>赞(0) 踩(0) | <div>一|前奏是什么乐器</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42397405)<br>暂无签名~<br>2016-05-23 21:17<br>赞(0) 踩(0) | <div>我觉得像手风琴</div> |
@@ -207,7 +207,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124909242)<br>人生如梦 白云苍狗 <br>2016-03-19 21:36<br>赞(5) 踩(0) | <div>那是10年的一个秋天，我买了人生中的第一辆车，在一个昏暗的下午，循环播放…</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8656499)<br>暂无签名~<br>2016-05-15 16:26<br>赞(0) 踩(0) | <div>两年前我也是</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56751742)<br>我还没想好要写什么...<br>2016-03-19 20:51<br>赞(3) 踩(0) | <div>听这歌的时候刚好看到了这一句“世界上只有一种英雄主义，那就是在认清生活真相之后，依然热爱生活。”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17657987)<br>最天使<br>2016-03-18 18:43<br>赞(1) 踩(0) | <div>白日月亮就像我和你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17657987)<br>最天使<br>2016-03-18 18:43<br>赞(1) 踩(0) | <div>白日月亮<br>就像我和你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50087126)<br>爱音乐，爱生活<br>2016-03-18 10:57<br>赞(3) 踩(0) | <div>世界上只有一种英雄主义，那就是在认清生活真相之后，依然热爱生活。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48303545)<br> <br>2016-03-14 19:38<br>赞(0) 踩(0) | <div>这歌听了好伤感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26300880)<br>不可能是你的唐唐<br>2016-03-09 00:51<br>赞(1) 踩(0) | <div>真是超级喜欢，一听心情越来越好。</div> |
@@ -253,8 +253,8 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49435634)<br>来来来，给你看个宝贝。<br>2016-01-04 22:24<br>赞(0) 踩(0) | <div>为什么好多歌下都有评论，建议去找评论没找到男朋友的人，不谢，我是雷锋 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93564404)<br>O Captain,my...<br>2016-01-04 22:57<br>赞(0) 踩(0) | <div><q><b>无双说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45081901)<br> <br>2016-01-03 15:35<br>赞(0) 踩(0) | <div>吉他声真是酷炫狂拽</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95909158)<br>冷冷清清的风风火火<br>2016-01-03 02:05<br>赞(0) 踩(0) | <div>剩下的让它们美好从容地埋藏得更深最后让这纷乱的一切都单纯地低于生活</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95909158)<br>冷冷清清的风风火火<br>2016-01-03 02:03<br>赞(0) 踩(0) | <div>剩下的让它们美好从容地埋藏得更深最后让这纷乱的一切都单纯地低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95909158)<br>冷冷清清的风风火火<br>2016-01-03 02:05<br>赞(0) 踩(0) | <div>剩下的让它们美好<br>从容地埋藏得更深<br>最后让这纷乱的一切<br>都单纯地低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95909158)<br>冷冷清清的风风火火<br>2016-01-03 02:03<br>赞(0) 踩(0) | <div>剩下的让它们美好<br>从容地埋藏得更深<br>最后让这纷乱的一切<br>都单纯地低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46284980)<br>但愿为你保留最后的时间<br>2016-01-02 21:45<br>赞(1) 踩(0) | <div>爱过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40894003)<br><br>2015-12-30 16:45<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9032829)<br><br>2015-12-30 15:17<br>赞(0) 踩(0) | <div>好好听啊，声音碎片乐队，终于找到这歌了！</div> |
@@ -287,7 +287,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52554396)<br><br>2016-01-14 17:36<br>赞(0) 踩(0) | <div><q><b>lavande说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39868483)<br>少年心事当拿云。<br>2015-12-10 22:35<br>赞(0) 踩(0) | <div>之前听钝感，之后开窍了 <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1202366)<br>请你告诉我如何悲伤<br>2015-12-10 10:01<br>赞(16) 踩(0) | <div>你傲娇的高于我的逼格，我优美的低于你的生活。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10100482)<br>luka~碌卡<br>2015-12-09 20:54<br>赞(0) 踩(0) | <div>夕阳沉入黑暗之中/光明无影无踪漫天的星无边的沉默/不停的看着我又想起那神秘的传说/它总吸引着我百花已无尽对的盛开/尘埃也匆匆的飞过你将生命给予我还是播种的结果谢天笑【琴弦之歌】</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10100482)<br>luka~碌卡<br>2015-12-09 20:54<br>赞(0) 踩(0) | <div>夕阳沉入黑暗之中/光明无影无踪<br>漫天的星无边的沉默/不停的看着我<br>又想起那神秘的传说/它总吸引着我<br>百花已无尽对的盛开/尘埃也匆匆的飞过<br>你将生命给予我还是播种的结果<br>谢天笑【琴弦之歌】</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50234255)<br>听正儿八经的音乐 正儿八...<br>2015-12-09 08:51<br>赞(0) 踩(0) | <div>前奏有点枪火的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50900892)<br><br>2015-12-06 14:38<br>赞(0) 踩(0) | <div>我一七年也毕业</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87582310)<br><br>2015-12-05 08:09<br>赞(0) 踩(0) | <div>伴随着悠扬的乐曲，看着看着旭日东升，不失为一种宁静的美。</div> |
@@ -314,7 +314,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5931149)<br>臭不要脸……<br>2015-11-24 22:50<br>赞(0) 踩(0) | <div>前奏总觉得很熟悉～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56164335)<br>若想如何，全凭自己。<br>2015-11-24 22:23<br>赞(1) 踩(0) | <div>做一颗闪闪发亮的土豆~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54534642)<br><br>2015-11-24 18:21<br>赞(0) 踩(0) | <div>最后让这纷乱的一切都低于生活</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83844664)<br>要想求仙术  哪能怕吃苦...<br>2015-11-24 11:15<br>赞(0) 踩(0) | <div>低调且低吟的诗人最后让这纷乱的一切都单纯低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83844664)<br>要想求仙术  哪能怕吃苦...<br>2015-11-24 11:15<br>赞(0) 踩(0) | <div>低调且低吟的诗人<br>最后让这纷乱的一切<br>都单纯低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49108771)<br>有机会一起养猫<br>2015-11-22 15:30<br>赞(0) 踩(0) | <div>当你孤单你会想起谁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29700185)<br><br>2015-11-21 22:50<br>赞(0) 踩(0) | <div>封面是一个土豆吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5847096)<br> <br>2015-11-21 11:02<br>赞(0) 踩(0) | <div>那个是啥乐器</div> |
@@ -329,7 +329,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48680451)<br>惟愿无事常相见<br>2015-11-16 23:10<br>赞(0) 踩(0) | <div>为了声音碎片专门下了虾米，为毛退出网易云啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40105689)<br>10-157<br>2015-11-15 00:08<br>赞(0) 踩(0) | <div>封面是土豆子，呀！好饿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83058252)<br><br>2015-11-14 23:13<br>赞(0) 踩(0) | <div>优美的低于生活</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4811404)<br>走着走着，花就开了<br>2015-11-12 11:30<br>赞(0) 踩(0) | <div>让这纷乱的一切都单纯地低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4811404)<br>走着走着，花就开了<br>2015-11-12 11:30<br>赞(0) 踩(0) | <div>让这纷乱的一切<br>都单纯地低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61892942)<br>性别男爱好女<br>2015-11-12 08:53<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7789812)<br>南方小胖<br>2015-11-12 01:33<br>赞(0) 踩(0) | <div>好奇怪啊总觉得自己收藏了 结果没有收藏</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/63597)<br><br>2015-11-12 13:43<br>赞(0) 踩(0) | <div>那再藏一次啊</div> |
@@ -405,8 +405,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71304476)<br><br>2015-10-05 09:21<br>赞(0) 踩(0) | <div>这节奏醉人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13401168)<br> <br>2015-10-05 08:26<br>赞(0) 踩(0) | <div>let's go</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50739341)<br> <br>2015-10-04 22:37<br>赞(13) 踩(0) | <div>用了虾米才知道这么多不为人知优秀的乐队：刺猬、丢火车、山人乐队，声音碎片……他们没红，却红了掏粪男孩，真是日了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39193232)<br><br>2015-10-03 07:55<br>赞(1) 踩(0) | <div>˙ˍ˙               ˙０˙               ˙︿˙˙ε ˙               ˙ 3˙               ˙ω˙˙﹏˙               ˙△˙               ˙▽˙</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11824157)<br>我去网易云了，名字是译为...<br>2015-10-01 01:19<br>赞(0) 踩(0) | <div>没有什么高于生活。一切优美的低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39193232)<br><br>2015-10-03 07:55<br>赞(1) 踩(0) | <div>˙ˍ˙               ˙０˙               ˙︿˙<br><br><br>˙ε ˙               ˙ 3˙               ˙ω˙<br><br><br>˙﹏˙               ˙△˙               ˙▽˙</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11824157)<br>我去网易云了，名字是译为...<br>2015-10-01 01:19<br>赞(0) 踩(0) | <div>没有什么高于生活。<br><br>一切优美的低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27508376)<br><br>2015-09-30 19:25<br>赞(0) 踩(0) | <div>第一次听声音碎片，是在糖果，影响城市之声主办的，我记得听一首歌的时候我和阿黄都哭了，但是哪首歌却不记得了。我记得还买了一个韩国乐队的专辑，他们的音乐现场很震撼。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2397860)<br>I am from ro...<br>2015-09-29 18:23<br>赞(0) 踩(0) | <div>我只是为了改变数字 你也不会知道 我有多爱你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3284782)<br><br>2015-09-28 22:16<br>赞(0) 踩(0) | <div>百感交集</div> |
@@ -424,7 +424,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1303233)<br>好音乐  收藏癖～<br>2015-09-23 20:52<br>赞(0) 踩(0) | <div>大学室友MP3里的一首歌 感觉就像像挖到宝贝了……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61855248)<br><br>2015-09-23 02:32<br>赞(0) 踩(0) | <div>@李志  哪首歌有这调？是什么情况</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53016227)<br><br>2015-09-22 19:56<br>赞(0) 踩(0) | <div>声音碎片</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51693587)<br>不错!我就是美貌与智慧并...<br>2015-09-22 15:37<br>赞(0) 踩(0) | <div>剩下的让它们美好从容地埋藏得更深</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51693587)<br>不错!我就是美貌与智慧并...<br>2015-09-22 15:37<br>赞(0) 踩(0) | <div>剩下的让它们美好<br>从容地埋藏得更深</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45127717)<br>心照不宣的默契<br>2015-09-21 23:14<br>赞(0) 踩(0) | <div>直至一年后的最近几日才融入声音碎片</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23422210)<br>我还没想好要写什么...<br>2015-09-20 18:38<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/e5f89214e83117d44eb45143060e6897.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31999584)<br>enjoy it<br>2015-09-20 16:29<br>赞(0) 踩(0) | <div>让这纷乱的一切 都单纯的低于生活</div> |
@@ -509,7 +509,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406698)<br>时间是幻觉<br>2015-07-27 11:42<br>赞(2) 踩(0) | <div>那一颗拥有完美数据的土豆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51541792)<br>還與我蹉跎無慈悲<br>2015-07-25 16:02<br>赞(0) 踩(0) | <div>有一种英雄主义   是认清生活的本质后   依旧热爱生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52002235)<br>前方的路 还有树<br>2015-07-24 00:27<br>赞(0) 踩(0) | <div>很久不听陈奕迅</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2015-07-23 22:42<br>赞(1) 踩(0) | <div>前奏让我驻留！2015.07.23</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35311963)<br>恩？<br>2015-07-23 22:42<br>赞(1) 踩(0) | <div>前奏让我驻留！<br>2015.07.23</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52625782)<br>Fuck the res...<br>2015-07-22 01:06<br>赞(0) 踩(0) | <div>梦到了丰饶的草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8965657)<br><br>2015-07-21 06:54<br>赞(0) 踩(0) | <div>只有内心富足的人才舒展，从容，甜。早安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12542557)<br><br>2015-07-21 01:31<br>赞(0) 踩(0) | <div>晚上要听温柔的歌，晚安哦。</div> |
@@ -526,7 +526,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51764696)<br><br>2015-07-16 20:56<br>赞(2) 踩(0) | <div>多好的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41618604)<br><br>2015-07-16 12:24<br>赞(2) 踩(0) | <div>好轻快的感伤！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48617578)<br><br>2015-08-22 16:56<br>赞(0) 踩(0) | <div>轻快的感伤</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50610391)<br>Being your b...<br>2015-07-16 07:11<br>赞(0) 踩(0) | <div>音乐，再转一次。数月前或数年前，V sit是难于上青天的一个动作，现在几十个rep下来，不用喘了，这代表病越来越严重了？早上重训下午跑步，这样的组合能坚持几年？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50610391)<br>Being your b...<br>2015-07-16 07:11<br>赞(0) 踩(0) | <div>音乐，再转一次。<br>数月前或数年前，V sit是难于上青天的一个动作，现在几十个rep下来，不用喘了，这代表病越来越严重了？早上重训下午跑步，这样的组合能坚持几年？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31081300)<br><br>2015-07-15 04:30<br>赞(0) 踩(0) | <div>睡了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40437290)<br> <br>2015-07-14 14:20<br>赞(0) 踩(0) | <div>老师你有性格！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51815924)<br> <br>2015-07-14 11:30<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们</div> |
@@ -622,7 +622,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49606253)<br><br>2015-05-14 01:50<br>赞(1) 踩(0) | <div>把歌声还给夜晚，把道路还给尽头，把果实还给种子，把飞翔还给天空。凌晨的夜晚分外宁静，南吉站，安安好梦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49849552)<br><br>2015-05-14 00:13<br>赞(0) 踩(0) | <div>晚安！    生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49873197)<br><br>2015-05-14 00:03<br>赞(0) 踩(0) | <div>喜欢</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1289254)<br><br>2015-05-13 22:48<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的，让它们美好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1289254)<br><br>2015-05-13 22:48<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的，让它们美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48968355)<br><br>2015-05-12 11:15<br>赞(2) 踩(0) | <div>你过的不好我会心疼你   你过的好我会心疼自己   所以请你好好过  并让我一无所知</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32233481)<br><br>2015-05-11 13:09<br>赞(1) 踩(0) | <div>昏昏欲睡的午后能听到这段阳光灿烂的前奏真是件美好而愉快的事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42531803)<br>keep  imagin...<br>2015-05-10 16:43<br>赞(1) 踩(0) | <div>安利一个乐队，歌太tm好听，没一首是难听的，抽实验报告都抄嗨了</div> |
@@ -658,7 +658,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358469)<br>你好吗机器人。<br>2015-04-21 00:23<br>赞(3) 踩(0) | <div>生活中只有一种英雄主义，那就是在认清生活真相之后，依然热爱生活。（罗曼•罗兰）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31912983)<br><br>2015-04-20 22:34<br>赞(0) 踩(0) | <div>在认清生活真相之后，依然热爱生活。相爱吧，终有一散的人们。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46104353)<br><br>2015-04-20 19:14<br>赞(0) 踩(0) | <div>前奏棒极了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13093228)<br>女人变态点有什么错！<br>2015-04-20 15:56<br>赞(0) 踩(0) | <div>旋律太好听了，都不想听人声的部分了= =但唱得还是蛮好的</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13093228)<br>女人变态点有什么错！<br>2015-04-20 15:56<br>赞(0) 踩(0) | <div>旋律太好听了，都不想听人声的部分了= =<br>但唱得还是蛮好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2786629)<br><br>2015-04-20 02:35<br>赞(0) 踩(0) | <div>剩下的让它们美好，从容的埋藏的更深，让这纷乱的一切，都单纯的低于生活。相爱吧，终有一散的人们，你失去的不过是童真。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35778019)<br>我多么爱你 你知道吗？<br>2015-04-20 00:06<br>赞(0) 踩(0) | <div>只有内心远过空扩</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36801394)<br>sheepsheepsl...<br>2015-04-19 20:53<br>赞(0) 踩(0) | <div>剩下的让它们美好</div> |
@@ -702,7 +702,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13537197)<br>2 soon<br>2015-02-23 17:25<br>赞(0) 踩(0) | <div>忍不住抖腿+1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31080830)<br>爱与恨之子<br>2015-02-21 03:18<br>赞(0) 踩(0) | <div>:)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296069)<br>暂无签名~<br>2015-02-16 23:13<br>赞(0) 踩(0) | <div>忍不住抖腿</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39849014)<br>Bouquet.<br>2015-02-16 18:36<br>赞(0) 踩(0) | <div>《优美的低于生活》是声音碎片乐队继《世界是噪音的花园》三年后又一力作，褪去内心的浮躁，灵魂从生活中汲取，积蓄成真实的力量，融在音乐的形式里，蔓延着极致的优美。把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的让它们美好从容地埋藏得更深最后让这纷乱的一切都单纯地低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39849014)<br>Bouquet.<br>2015-02-16 18:36<br>赞(0) 踩(0) | <div>《优美的低于生活》是声音碎片乐队继《世界是噪音的花园》三年后又一力作，褪去内心的浮躁，灵魂从生活中汲取，积蓄成真实的力量，融在音乐的形式里，蔓延着极致的优美。<br><br>把歌声还给夜晚<br><br>把道路还给尽头<br><br>把果实还给种子<br><br>把飞翔还给天空<br><br>剩下的让它们美好<br><br>从容地埋藏得更深<br><br>最后让这纷乱的一切<br><br>都单纯地低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6446544)<br>听歌都是听自己。<br>2015-02-15 00:24<br>赞(0) 踩(0) | <div>总要有个愉快呢心情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8865578)<br> <br>2015-02-14 02:03<br>赞(0) 踩(0) | <div>静雅思听，原来用的这首曲子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41190761)<br>暂无签名~<br>2015-02-11 12:45<br>赞(0) 踩(0) | <div>刘晨东刘晨东刘晨东</div> |
@@ -726,7 +726,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30027002)<br><br>2015-05-23 21:48<br>赞(0) 踩(0) | <div><q><b>kafka说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44087773)<br><br>2015-05-23 21:49<br>赞(0) 踩(0) | <div><q><b>hifjgc说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44087773)<br><br>2015-01-29 17:01<br>赞(0) 踩(0) | <div>就是开始的一段口琴吸引了我。但是主唱的嗓子也好听～另外一首《陌生城市的早晨》也很棒✌️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45251295)<br><br>2015-01-22 19:27<br>赞(0) 踩(0) | <div>相爱吧终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美地在大街上融化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45251295)<br><br>2015-01-22 19:27<br>赞(0) 踩(0) | <div>相爱吧<br>终有一散的人们<br>你失去的<br>不过是童贞<br>等时光用尽了青春<br>你早已优美地在大街上融化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9288714)<br><br>2015-01-20 14:11<br>赞(0) 踩(0) | <div>感触颇深</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12275051)<br>你的绚烂 你的烟火 TM...<br>2015-01-17 18:18<br>赞(0) 踩(0) | <div>共鸣`</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37133846)<br><br>2015-01-15 18:52<br>赞(0) 踩(0) | <div>十年了</div> |
@@ -825,7 +825,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12834945)<br>river<br>2014-10-18 15:45<br>赞(0) 踩(0) | <div>第一次听这首歌还是在上大学时买的爱摇听的，那个时候才大一，好怀念！应该是05年了吧～！</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5138173)<br>爱生活  爱自己<br>2014-10-22 18:19<br>赞(0) 踩(0) | <div>大我一届 ：）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16031119)<br><br>2014-10-17 09:25<br>赞(0) 踩(0) | <div>上课听听歌</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/775608)<br><br>2014-10-16 22:29<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/775608)<br><br>2014-10-16 22:29<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7577335)<br>我还没想好要写什么...<br>2014-10-16 15:12<br>赞(0) 踩(0) | <div>最后让这纷乱的一切，都单纯地低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10670983)<br>周日，让跳跃的暖意包裹着...<br>2014-10-14 10:37<br>赞(0) 踩(0) | <div>短暂的爱情，短暂的往事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2036774)<br> <br>2014-10-13 23:22<br>赞(0) 踩(0) | <div>耶耶耶~</div> |
@@ -926,16 +926,16 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5011351)<br> <br>2014-06-26 21:06<br>赞(0) 踩(0) | <div>把歌声还给夜晚，把道路还给尽头。把果实还给种子，把飞翔还给天空。剩下的让它们美好，从容地埋藏得更深。最后让这纷乱的一切，都单纯地低于生活。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8611137)<br>穷的挺像无产阶级。<br>2014-06-24 11:03<br>赞(0) 踩(0) | <div>好！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8754292)<br><br>2014-06-22 14:13<br>赞(0) 踩(0) | <div>优美的低于生活。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2302195)<br> <br>2014-06-21 22:58<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们你失去的不过是童贞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2302195)<br> <br>2014-06-21 22:58<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们<br>你失去的不过是童贞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8098315)<br><br>2014-06-20 14:49<br>赞(0) 踩(0) | <div>为什么跟郭x明的《迷藏》里的歌一样……除了歌词……其他完全一样……北风后面的国家……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/93067)<br>心里的缺口需要时间去填埋...<br>2014-09-23 10:25<br>赞(0) 踩(0) | <div>迷藏八月就是由声音碎片作曲，编曲的。麻烦各位想质疑朋友先弄清楚再发表好吗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9667021)<br>愿始终不疑真心。<br>2014-06-19 15:45<br>赞(0) 踩(0) | <div>超爱这个前奏诶</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2321372)<br>我还没想好要写什么...<br>2014-06-19 10:52<br>赞(0) 踩(0) | <div>等时光用尽了青春你早已优美地在大街上融化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2321372)<br>我还没想好要写什么...<br>2014-06-19 10:52<br>赞(0) 踩(0) | <div>等时光用尽了青春<br>你早已优美地在大街上融化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32664358)<br><br>2014-06-16 20:42<br>赞(0) 踩(0) | <div>怎么样？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9024523)<br><br>2014-06-14 22:04<br>赞(0) 踩(0) | <div>自由自在。。在歌声的陪伴下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23721542)<br><br>2014-06-14 00:41<br>赞(0) 踩(0) | <div>把歌声还给夜晚,把道路还给尽头,把果实还给种子,把飞翔还给天空,剩下的让它们美好!</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443097)<br>我还没想好要写什么...<br>2014-06-08 22:38<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14723621)<br><br>2014-06-08 18:30<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的让它们美好从容地埋藏得更深最后让这纷乱的一切都单纯地低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14723621)<br><br>2014-06-08 18:30<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的让它们美好<br>从容地埋藏得更深<br>最后让这纷乱的一切<br>都单纯地低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11932954)<br><br>2014-06-07 23:55<br>赞(0) 踩(0) | <div>歌词也很漂亮啊~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1507585)<br>我还没想好要写什么...<br>2014-06-06 10:52<br>赞(0) 踩(0) | <div>前奏太爽了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32323234)<br>简单做刺青，惟精惟一<br>2014-06-06 09:39<br>赞(0) 踩(0) | <div>早</div> |
@@ -994,7 +994,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408249)<br><br>2014-04-18 21:04<br>赞(0) 踩(0) | <div>把歌声还给夜晚。。。优美的低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2843004)<br>转烛飘蓬一梦归<br>2014-04-18 17:45<br>赞(0) 踩(0) | <div>听了很久，恍然大悟这种似曾相识。。。。这样的词更加适合这个曲，完胜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35534918)<br>非富非贫求速婚<br>2014-04-18 14:51<br>赞(0) 踩(0) | <div>生活可以如此干净</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4013313)<br><br>2014-04-17 23:20<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4013313)<br><br>2014-04-17 23:20<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2321736)<br>漂浮而不沉没<br>2014-04-17 20:39<br>赞(0) 踩(0) | <div>整首歌都在诠释“我把石头还给石头/让胜利的胜利/今夜青稞只属于她自己/一切都在生长”。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6336735)<br>We are one i...<br>2014-04-16 07:28<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29874829)<br>嬉皮笑脸<br>2014-04-15 13:39<br>赞(0) 踩(0) | <div>前奏就喜欢上了</div> |
@@ -1031,8 +1031,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11194950)<br>二逼的艺术家<br>2014-03-17 12:39<br>赞(0) 踩(0) | <div>这样的天气</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1617849)<br><br>2014-03-17 01:56<br>赞(0) 踩(0) | <div>而声碎从来贯彻的从来都是生活应该美好阳光多么灿烂姑娘是什么狗**？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2609533)<br><br>2014-03-16 23:19<br>赞(0) 踩(0) | <div>把歌声还给夜晚，把道路还给尽头，把果实还给种子，把飞翔还给天空</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27847144)<br>暂无签名~<br>2014-03-15 17:31<br>赞(0) 踩(0) | <div>高二时喜欢上了声音碎片，尤其喜欢这首歌。好怀念那个在深夜里反复品味歌词的我，怀念那个喜欢在每天的清晨读于坚的诗的我。于坚的诗，声音碎片空灵而美好的音乐，你们是我宝贵的回忆。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10850905)<br>音乐是为了更好的活着！<br>2014-03-15 12:36<br>赞(0) 踩(0) | <div>等时光用尽了青春你早已优美的在大街上溶化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27847144)<br>暂无签名~<br>2014-03-15 17:31<br>赞(0) 踩(0) | <div>高二时喜欢上了声音碎片，尤其喜欢这首歌。<br>好怀念那个在深夜里反复品味歌词的我，怀念那个喜欢在每天的清晨读于坚的诗的我。<br>于坚的诗，声音碎片空灵而美好的音乐，你们是我宝贵的回忆。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10850905)<br>音乐是为了更好的活着！<br>2014-03-15 12:36<br>赞(0) 踩(0) | <div>等时光用尽了青春<br>你早已优美的在大街上溶化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/413795)<br>啦啦啦<br>2014-03-15 11:42<br>赞(0) 踩(0) | <div>前奏好棒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33624790)<br><br>2014-03-14 17:26<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们(ˇˍˇ）</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7182086)<br>从零开始<br>2014-03-12 18:27<br>赞(0) 踩(0) | <div>相爱吧　终有一散的人们</div> |
@@ -1043,11 +1043,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4054517)<br>暂无签名~<br>2014-03-04 00:03<br>赞(0) 踩(0) | <div>声碎的词都是诗</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1374624)<br>江湖儿女多奇志  <br>2014-03-01 00:38<br>赞(0) 踩(0) | <div>把歌声还给夜晚 把道路还给尽头 把果实还给种子 把飞翔还给天空 剩下的，让它们美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31587797)<br><br>2014-02-26 07:47<br>赞(0) 踩(0) | <div>早，郑州的人们，人们，人们。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10672809)<br>饭饭<br>2014-02-22 18:25<br>赞(0) 踩(0) | <div>等时光用尽了青春你早已优美地在大街上融化嘛咿 耶耶耶 只有内心远过空旷嘛咿 耶耶耶 梦到了丰饶的草原</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10672809)<br>饭饭<br>2014-02-22 18:25<br>赞(0) 踩(0) | <div>等时光用尽了青春<br>你早已优美地在大街上融化<br>嘛咿 耶耶耶 只有内心远过空旷<br>嘛咿 耶耶耶 梦到了丰饶的草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13832587)<br>我最爱去的唱片店，她也没...<br>2014-02-21 23:59<br>赞(0) 踩(0) | <div>嘟嘟嘟帝都滴嘟嘟嘟。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1495120)<br><br>2014-02-20 08:14<br>赞(0) 踩(0) | <div>#T-86电台#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32949788)<br><br>2014-02-18 23:51<br>赞(0) 踩(0) | <div>好特别的前奏</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6497415)<br>山有起伏<br>2014-02-18 22:37<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的让它们美好从容地埋藏得更深最后让这纷乱的一切都单纯地低于生活嘛咿 耶耶耶 只有内心远过空旷嘛咿 耶耶耶 梦到了丰饶的草原</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6497415)<br>山有起伏<br>2014-02-18 22:37<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的让它们美好<br>从容地埋藏得更深<br>最后让这纷乱的一切<br>都单纯地低于生活<br>嘛咿 耶耶耶 只有内心远过空旷<br>嘛咿 耶耶耶 梦到了丰饶的草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23480134)<br><br>2014-02-16 10:05<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4015583)<br>永遠的蝦米<br>2014-02-14 16:23<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们 你失去的不过是童贞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3418483)<br><br>2014-02-14 13:34<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人</div> |
@@ -1070,7 +1070,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5137574)<br><br>2014-01-28 12:31<br>赞(0) 踩(0) | <div>OK，在我所分享的那么多歌曲里面，这首跨年了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12412950)<br>。<br>2014-01-26 20:05<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们，你失去的只不过是对他的期望。等时光用尽了青春，你早已优美地在大街上融化。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25459247)<br>土狗<br>2014-01-25 13:31<br>赞(0) 踩(0) | <div>调儿实在太美会醉～</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-01-25 04:18<br>赞(0) 踩(0) | <div>再次优美的低于生活424245,2011,768</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-01-25 04:18<br>赞(0) 踩(0) | <div>再次优美的低于生活<br>424245,2011,768</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13172453)<br>胖四季，四季胖。<br>2014-01-24 00:56<br>赞(0) 踩(0) | <div>昨夜梦到寻找，今夜就迷失了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5007427)<br>暂无签名~<br>2014-01-23 10:45<br>赞(0) 踩(0) | <div>这个乐队很棒啊！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3586298)<br>音乐无处不在<br>2014-01-22 23:46<br>赞(1) 踩(0) | <div>除了旋律，其他都不怎么样，尤其主唱破碎的声音让人觉得不舒服，挺好的旋律就这样浪费了，可惜了!</div> |
@@ -1083,7 +1083,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7467961)<br><br>2014-01-07 23:55<br>赞(0) 踩(0) | <div>嘛咿~~也也也~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7467961)<br><br>2014-01-07 23:49<br>赞(0) 踩(0) | <div>咿呀咿呀喂~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4330212)<br>我还没想好要写什么...<br>2014-01-07 21:49<br>赞(0) 踩(0) | <div>#今日单曲循环#根本停不下来 咿咿呀呀 心被唱飞了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6401106)<br>欲说还休<br>2014-01-07 17:59<br>赞(0) 踩(0) | <div>剩下的让它们美好从容地埋藏得更深最后让这纷乱的一切都单纯地低于生活喜欢这段词，让我烦乱的心释怀不少</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6401106)<br>欲说还休<br>2014-01-07 17:59<br>赞(0) 踩(0) | <div>剩下的让它们美好<br>从容地埋藏得更深<br>最后让这纷乱的一切<br>都单纯地低于生活<br><br>喜欢这段词，让我烦乱的心释怀不少</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5087987)<br><br>2014-01-06 11:32<br>赞(0) 踩(0) | <div>剩下的让他们美好，单纯的低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15351579)<br> <br>2013-12-31 11:13<br>赞(0) 踩(0) | <div>前奏！赞！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9581906)<br>这个世界，值得我们为之奋...<br>2013-12-30 20:35<br>赞(0) 踩(0) | <div>吗咿</div> |
@@ -1097,31 +1097,31 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26239387)<br><br>2013-12-24 23:25<br>赞(1) 踩(0) | <div>谁能帮我解释下歌词：“把歌声还给夜晚，把道路还给尽，把果实还给种子，把飞翔还给天空。剩下的，让它们美好。从容的埋藏得更深，最后和纷乱的一切， 都单纯的低于生活。”</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13913062)<br>.<br>2014-03-23 05:35<br>赞(0) 踩(0) | <div>返璞归真，回归自然。别高于真正的自然的生活。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11891813)<br><br>2013-12-24 16:30<br>赞(0) 踩(0) | <div>还不错啊</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5503041)<br><br>2013-12-24 00:03<br>赞(0) 踩(0) | <div>剩下的，让它们美好从容的埋藏得更深</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/921850)<br><br>2013-12-23 14:07<br>赞(0) 踩(0) | <div>突然想  如果可以缓慢有步骤地从这个世界消失   会选定一个怎样的顺序呢？从头到脚  由下至上  中心扩散还是外围侵蚀？</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5503041)<br><br>2013-12-24 00:03<br>赞(0) 踩(0) | <div>剩下的，让它们美好<br>从容的埋藏得更深</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/921850)<br><br>2013-12-23 14:07<br>赞(0) 踩(0) | <div>突然想  如果可以缓慢有步骤地从这个世界消失   会选定一个怎样的顺序呢？<br>从头到脚  由下至上  中心扩散还是外围侵蚀？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1301315)<br>有一天 我看了很多次日落<br>2013-12-23 10:43<br>赞(0) 踩(0) | <div>Rock&amp;amp;Roll</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/163685)<br>你本无意穿堂风，偏偏孤居...<br>2013-12-21 20:39<br>赞(0) 踩(0) | <div>等时光用尽了青春。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296938)<br>收藏每一份美好。<br>2013-12-21 10:57<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1726170)<br><br>2013-12-21 02:10<br>赞(0) 踩(0) | <div>烦恼的时候不如相信老天自有安排</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30181214)<br><br>2013-12-20 21:10<br>赞(198) 踩(0) | <div>相爱吧，终有一散的人们</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7721852)<br><br>2013-12-19 22:51<br>赞(0) 踩(0) | <div>1218与人聊天，突然发现在很多人心里我都是古墓派传人。这，从何说起啊……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7721852)<br><br>2013-12-19 22:51<br>赞(0) 踩(0) | <div>1218<br>与人聊天，突然发现在很多人心里我都是古墓派传人。这，从何说起啊……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1439208)<br><br>2013-12-18 21:18<br>赞(0) 踩(0) | <div>心脏像老式圆筒炸开爆米花一般</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8474609)<br> <br>2013-12-18 09:16<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5579547)<br>我还没想好要写什么...<br>2013-12-17 18:10<br>赞(0) 踩(0) | <div>优美还是办不到的，低于生活是每天进行的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2964677)<br><br>2013-12-17 15:35<br>赞(0) 踩(0) | <div>#湿漉漉的冬天，想和你一起听歌。#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22070341)<br><br>2013-12-13 22:43<br>赞(0) 踩(0) | <div>Under life is ....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5540865)<br><br>2013-12-13 00:33<br>赞(0) 踩(0) | <div>睡得</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3484229)<br>只有虾米，一直陪伴！<br>2013-12-10 23:36<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的，让它们美好从容的埋藏得更深最后和纷乱的一切都单纯的低于生活</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3484229)<br>只有虾米，一直陪伴！<br>2013-12-10 23:30<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的，让它们美好从容的埋藏得更深最后和纷乱的一切都单纯的低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3484229)<br>只有虾米，一直陪伴！<br>2013-12-10 23:36<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的，让它们美好<br>从容的埋藏得更深<br>最后和纷乱的一切<br>都单纯的低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3484229)<br>只有虾米，一直陪伴！<br>2013-12-10 23:30<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的，让它们美好<br>从容的埋藏得更深<br>最后和纷乱的一切<br>都单纯的低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17123141)<br>1<br>2013-12-10 09:51<br>赞(0) 踩(0) | <div>从容的埋藏更深</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12719819)<br>✨<br>2013-12-10 03:46<br>赞(0) 踩(0) | <div>声音被撕成碎片~飘荡在无暇的草原</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4299299)<br><br>2013-12-09 18:06<br>赞(0) 踩(0) | <div>“ 相爱吧，终有一散的人们你失去的不过是童贞 ”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13898201)<br>爱音乐爱生活<br>2013-12-06 19:32<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的，让它们美好从容的埋藏得更深最后和纷乱的一切都单纯的低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4299299)<br><br>2013-12-09 18:06<br>赞(0) 踩(0) | <div>“ 相爱吧，终有一散的人们<br>你失去的不过是童贞 ”</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13898201)<br>爱音乐爱生活<br>2013-12-06 19:32<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的，让它们美好<br>从容的埋藏得更深<br>最后和纷乱的一切<br>都单纯的低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151979)<br> <br>2013-12-06 17:18<br>赞(0) 踩(0) | <div>听了那么多遍还是觉得旋律那么赞！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4707971)<br><br>2013-12-05 23:13<br>赞(0) 踩(0) | <div>[音乐盒]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16000134)<br><br>2013-12-05 16:20<br>赞(0) 踩(0) | <div>不错的样子</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25699139)<br><br>2013-12-05 11:22<br>赞(1) 踩(0) | <div>不爱上谁就不会有摇滚的知觉</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29029938)<br><br>2013-12-04 18:43<br>赞(0) 踩(0) | <div>嘛咿 耶耶耶 只有内心远过空旷嘛咿 耶耶耶 梦到了丰饶的草原相爱吧 终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美地在大街上融化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29029938)<br><br>2013-12-04 18:43<br>赞(0) 踩(0) | <div>嘛咿 耶耶耶 只有内心远过空旷<br>嘛咿 耶耶耶 梦到了丰饶的草原<br>相爱吧 终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美地在大街上融化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/832475)<br>如人饮水，冷暖自知。<br>2013-12-01 20:31<br>赞(0) 踩(0) | <div>“绿画板遗落在墙边，白衬衫你挂在房间，三年前拍过的照片，夕阳照在窗前。”前奏和过门的风琴，像扬起的秋天的风。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151979)<br> <br>2013-11-29 08:40<br>赞(0) 踩(0) | <div>好快乐的旋律！Happy Birthday！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24121940)<br><br>2013-11-27 19:41<br>赞(0) 踩(0) | <div>一往无前…</div> |
@@ -1150,7 +1150,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25524683)<br><br>2013-10-27 22:09<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们      你失去的不过是童贞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15994117)<br><br>2013-10-26 11:01<br>赞(0) 踩(0) | <div>在找适合运动的歌，旋律一开始就想扭起来了，挺好听的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24929740)<br><br>2013-10-25 13:07<br>赞(0) 踩(0) | <div>就是喜欢没有理由</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/745486)<br>变色龙是什么颜色？<br>2013-10-22 23:41<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的，让它们美好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/745486)<br>变色龙是什么颜色？<br>2013-10-22 23:41<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的，让它们美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3855432)<br><br>2013-10-22 21:54<br>赞(0) 踩(0) | <div>又听到了这首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16803857)<br>hakuna_matat...<br>2013-10-22 20:40<br>赞(0) 踩(0) | <div>单纯的低于生活~~···~·~···~····~~```~1!~`````~`~`·~`~···``·~~`·``·`~`·~~~`~·`~``·`~·`~~·~`·~·``·`·`····``··`~~··~·~`~```·`·`·`·`~~·`~·~~·</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9381017)<br>我还没想好要写什么...<br>2013-10-17 17:01<br>赞(0) 踩(0) | <div>“把歌声还给夜晚，把道路还给尽头，把果实还给种子，把飞翔还给天空。剩下的让它们美好，从容地埋藏得更深。最后让这纷乱的一切，都单纯地低于生活。。。”</div> |
@@ -1172,7 +1172,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15740821)<br><br>2013-10-05 21:59<br>赞(0) 踩(0) | <div>剩下的 让他们美好 从容的埋藏得更深；最后让这纷乱的一切 都单纯的低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6673777)<br> <br>2013-10-05 16:17<br>赞(0) 踩(0) | <div>跑数据等结果什么最无聊了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1145136)<br><br>2013-10-05 16:01<br>赞(0) 踩(0) | <div>让我们优美的低于生活</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3838928)<br><br>2013-10-02 22:37<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美的在大街上溶化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3838928)<br><br>2013-10-02 22:37<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美的在大街上溶化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3680777)<br><br>2013-10-01 21:40<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们  你失去的不过是童贞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13327515)<br>摇滚乐盲<br>2013-09-28 00:13<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们。我梦到了风绕的草原。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3534800)<br><br>2013-09-26 17:21<br>赞(0) 踩(0) | <div>第一次听到这个乐队的歌</div> |
@@ -1213,7 +1213,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3516104)<br><br>2013-08-31 21:48<br>赞(0) 踩(0) | <div>相愛吧 終有一散的人們 失去的不過是童貞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6073493)<br><br>2013-08-31 09:14<br>赞(0) 踩(0) | <div>听着你优美的醒来。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11289187)<br><br>2013-08-29 23:43<br>赞(0) 踩(0) | <div>相爱吧~终有一散的人们</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19442927)<br><br>2013-08-28 18:53<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们你失去的不过是童贞.</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19442927)<br><br>2013-08-28 18:53<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们<br>你失去的不过是童贞.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12021835)<br>暂无签名~<br>2013-08-26 22:14<br>赞(0) 踩(0) | <div>晚安 会好的 会好的 会好的 会好的 你也要好好的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6072)<br>秘密，是悬挂在谁人心上的...<br>2013-08-26 01:22<br>赞(0) 踩(0) | <div>等时光用尽了青春，你早已优美的在大街上融化。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16719668)<br><br>2013-08-21 23:00<br>赞(0) 踩(0) | <div>咱说来就来哈，呵呵…</div> |
@@ -1224,7 +1224,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5183960)<br><br>2013-08-15 22:46<br>赞(0) 踩(0) | <div>太喜欢这个调调了，相信喜欢地下摇滚的伙计们会喜欢的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17123141)<br>1<br>2013-08-15 11:20<br>赞(0) 踩(0) | <div>只要内心远过空旷</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2900337)<br>我还没想好要写什么...<br>2013-08-14 19:34<br>赞(0) 踩(0) | <div>手风琴伴奏！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7875881)<br><br>2013-08-14 12:20<br>赞(0) 踩(0) | <div>在黎明和黑夜之间有一条宽阔的路顺着时光走下去你能比远方更远</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7875881)<br><br>2013-08-14 12:20<br>赞(0) 踩(0) | <div>在黎明和黑夜之间<br>有一条宽阔的路<br>顺着时光走下去<br>你能比远方更远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5993533)<br>暂无签名~<br>2013-08-14 01:17<br>赞(0) 踩(0) | <div>只想说一个字，骚！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1302842)<br>爱的感觉真奇妙<br>2013-08-13 20:35<br>赞(0) 踩(0) | <div>「我们的不幸往往由于我们对于幸福的追求.我们做事之初喜欢抱着一种信念:我们一定能在世间找到某种幸福」-祝七夕情人节单身的同志们早日幸福！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16321803)<br><br>2013-08-13 17:15<br>赞(0) 踩(0) | <div>等时光用尽了青春，今天是那什嘛什嘛节，牛郎和牛相爱去吧，嘿！</div> |
@@ -1251,7 +1251,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16745536)<br><br>2013-08-01 13:10<br>赞(0) 踩(0) | <div>OMG，好喜欢这种有点沙哑的声音，摇滚ing，不犯困~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11960217)<br>少年心气疾<br>2013-07-30 21:55<br>赞(0) 踩(0) | <div>有个乐队叫声音玩具，有个乐队叫声音碎片。声碎接收于声玩之前，两个乐队的作品都超爱，两个主唱声音的共同点都是销魂，销魂，销魂……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15481162)<br><br>2013-07-28 07:32<br>赞(0) 踩(0) | <div>等时光用尽了青春。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33094)<br><br>2013-07-26 21:17<br>赞(0) 踩(0) | <div>&nbsp;剩下的，让它们美好&nbsp;&nbsp;从容的埋藏得更深&nbsp;&nbsp;最后让和纷乱的一切&nbsp;&nbsp;都单纯内的低于生活&nbsp;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33094)<br><br>2013-07-26 21:17<br>赞(0) 踩(0) | <div>&nbsp;剩下的，让它们美好&nbsp;<br>&nbsp;从容的埋藏得更深&nbsp;<br>&nbsp;最后让和纷乱的一切&nbsp;<br>&nbsp;都单纯内的低于生活&nbsp;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1951329)<br><br>2013-07-24 10:16<br>赞(0) 踩(0) | <div>声碎不解释</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17866339)<br><br>2013-07-23 02:23<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们…#不好听不要钱系列#</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1943507)<br>那不是开得快那是飞得低<br>2013-07-21 10:06<br>赞(0) 踩(0) | <div>把果实还给种子</div> |
@@ -1304,7 +1304,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13615927)<br> <br>2013-06-09 01:31<br>赞(0) 踩(0) | <div>只要内心远过空旷 梦到了风绕的草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4880176)<br> <br>2013-06-08 20:00<br>赞(0) 踩(0) | <div>好低好低</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10194559)<br>有点复古，确是新货<br>2013-06-07 11:14<br>赞(0) 踩(0) | <div>优美的低于生活……</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5146003)<br><br>2013-06-06 17:43<br>赞(0) 踩(0) | <div>你失去的不过是童贞等时光用尽了青春你早已优美的在大街上溶化吗咿呀咿呀咿呀</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5146003)<br><br>2013-06-06 17:43<br>赞(0) 踩(0) | <div>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美的在大街上溶化<br>吗咿呀咿呀咿呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2377053)<br> <br>2013-06-06 03:35<br>赞(0) 踩(0) | <div>你失去的不过是童贞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3746092)<br><br>2013-05-31 02:59<br>赞(0) 踩(0) | <div>太好听了，听了一下午</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/510842)<br> <br>2013-05-30 23:48<br>赞(0) 踩(0) | <div>~~~~</div> |
@@ -1319,14 +1319,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13418318)<br><br>2013-05-23 23:06<br>赞(0) 踩(0) | <div>喜欢前奏的调调儿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/220587)<br><br>2013-05-22 14:56<br>赞(0) 踩(0) | <div>....错觉，感觉好多年前听过。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/888604)<br> <br>2013-05-22 14:54<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11136024)<br><br>2013-05-21 18:37<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美地在大街上融化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11136024)<br><br>2013-05-21 18:37<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美地在大街上融化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/617738)<br>熊<br>2013-05-17 15:32<br>赞(0) 踩(0) | <div>马一呀呀一</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2929690)<br>一位脱离低级趣味的城乡结...<br>2013-05-16 18:41<br>赞(0) 踩(0) | <div>你说你的心像草原，风吹过依然平静。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13960180)<br>梦到了丰饶的草原。<br>2013-05-15 13:22<br>赞(0) 踩(0) | <div>寓学习于分享</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9859213)<br><br>2013-05-15 13:19<br>赞(0) 踩(0) | <div>没啥说的，听吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13960180)<br>梦到了丰饶的草原。<br>2013-05-15 02:07<br>赞(0) 踩(0) | <div>寓学习于分享</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5946301)<br><br>2013-05-14 19:17<br>赞(0) 踩(0) | <div>吗咿呀咿呀咿呀，梦到了风绕的草原。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12263342)<br><br>2013-05-14 13:43<br>赞(0) 踩(0) | <div>我承认去年第一次听这歌的时候，惊讶于“相爱吧，终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美的在大街上溶化”这样的词，现在多么想梦见丰饶的草原。我已经连续很多天没睡好了T^T</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12263342)<br><br>2013-05-14 13:43<br>赞(0) 踩(0) | <div>我承认去年第一次听这歌的时候，惊讶于“相爱吧，终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美的在大街上溶化”这样的词，<br>现在多么想梦见丰饶的草原。我已经连续很多天没睡好了T^T</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13807900)<br><br>2013-05-13 15:17<br>赞(0) 踩(0) | <div>good</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4951232)<br>诶嘿嘿～～<br>2013-05-13 13:03<br>赞(0) 踩(0) | <div>相爱吧终有一散的人们，你失去的不过是童贞。等时间用光了青春，你早已优美的在大街上溶化。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11263717)<br><br>2013-05-13 09:42<br>赞(0) 踩(0) | <div>褪去内心的浮躁，灵魂从生活中汲取，积蓄成真实的力量，融在音乐的形式里，蔓延着极致的优美。</div> |
@@ -1334,10 +1334,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8812602)<br><br>2013-05-11 00:50<br>赞(0) 踩(0) | <div>半夜睡不着，突然很想听声音碎片的这首歌，《优美的低于生活》，前奏的口琴再配上马爷的声音简直让人起鸡皮疙瘩。马爷是个内心温柔的汉子~~~【等时光用尽了青春，你早已优美的在大街上溶化】【只要内心远过空旷】【梦到了丰饶的草原】草莓的音乐比迷笛柔软坚定，迷笛的音乐比草莓激情脆弱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13658871)<br><br>2013-05-10 00:54<br>赞(0) 踩(0) | <div>哎，优美不起来啊~洗洗睡吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12211839)<br><br>2013-05-09 23:13<br>赞(0) 踩(0) | <div>又一次偶然听到这首歌，还是一样，前奏就被深深吸引了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/713172)<br><br>2013-05-09 22:38<br>赞(0) 踩(0) | <div>等时光用旧了青春你早已优美的在大街上溶化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/713172)<br><br>2013-05-09 22:38<br>赞(0) 踩(0) | <div>等时光用旧了青春<br>你早已优美的在大街上溶化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3105186)<br><br>2013-05-09 14:55<br>赞(0) 踩(0) | <div>只要内心远过空旷 :)</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14768805)<br><br>2013-05-09 00:15<br>赞(0) 踩(0) | <div>无</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283383)<br>时光悠远 且行且珍惜<br>2013-05-08 11:00<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美的在大街上溶化前奏欢快。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283383)<br>时光悠远 且行且珍惜<br>2013-05-08 11:00<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美的在大街上溶化<br>前奏欢快。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13603644)<br>我不是适合你耳朵的嘴巴<br>2013-05-07 00:06<br>赞(0) 踩(0) | <div>晚安 这是今晚陪我的歌曲 还有他们的《情歌而已》 晚睡的人 晚安咯</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10174730)<br>我还没想好要写什么...<br>2013-05-04 22:50<br>赞(0) 踩(0) | <div>“把歌声还给夜晚，把道路还给尽头。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13347762)<br><br>2013-05-03 17:56<br>赞(0) 踩(0) | <div>好听……。各种好听……。开头已经把我唱得起鸡皮疙瘩了。</div> |
@@ -1356,13 +1356,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4471435)<br> <br>2013-04-16 17:24<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1106981)<br>nothing<br>2013-04-15 12:30<br>赞(0) 踩(0) | <div>VOL.28 幻灭</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8131093)<br>这家伙很聪明什么也没留下...<br>2013-04-10 20:01<br>赞(0) 踩(0) | <div>“相爱吧，终有一散的人们。你失去的不过只是童贞。”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4151572)<br>好时光拿来浪费，坏时光拿...<br>2013-04-09 22:10<br>赞(0) 踩(0) | <div>把歌声还给夜晚,把道路还给尽头,把果实还给种子,把飞翔还给天空,剩下的，让它们美好、从容的埋藏得更深，最后和纷乱的一切，都单纯的低于生活。只要内心远过空旷，梦到了风绕的草原。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9424698)<br>我还没想好要写什么...<br>2013-04-09 16:00<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们你失去的不过是童贞</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4151572)<br>好时光拿来浪费，坏时光拿...<br>2013-04-09 22:10<br>赞(0) 踩(0) | <div>把歌声还给夜晚,<br>把道路还给尽头,<br>把果实还给种子,<br>把飞翔还给天空,<br>剩下的，让它们美好、<br>从容的埋藏得更深，<br>最后和纷乱的一切，<br>都单纯的低于生活。<br>只要内心远过空旷，<br>梦到了风绕的草原。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9424698)<br>我还没想好要写什么...<br>2013-04-09 16:00<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们<br>你失去的不过是童贞</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5754453)<br><br>2013-04-09 14:24<br>赞(0) 踩(0) | <div>剩下的 让它们美好 从容的埋藏得更深 最后让和纷乱的一切 都单纯内的低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/399919)<br><br>2013-04-09 13:23<br>赞(0) 踩(0) | <div>喜欢其中的吹器。吹器里面现在最爱萨克斯。Leonard cohen歌曲里的萨克斯手很不错。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6940778)<br>白日梦蓝<br>2013-04-03 22:45<br>赞(0) 踩(0) | <div>有 钢的琴 的feel @不万能的门子 @你不懂所有其他盛大的秘密 @北海大圣</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1121143)<br>我还没想好要写什么...<br>2013-04-02 16:45<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美地在大街上融化</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12615283)<br>我说自由你咋还没发芽呢<br>2013-03-31 19:53<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美的在大街上溶化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1121143)<br>我还没想好要写什么...<br>2013-04-02 16:45<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美地在大街上融化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12615283)<br>我说自由你咋还没发芽呢<br>2013-03-31 19:53<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美的在大街上溶化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6844266)<br>(╯°Д°）╯︵ /(....<br>2013-03-31 00:26<br>赞(0) 踩(0) | <div>每次进前奏都以为是《家有仙妻》主题曲，草蜢太猛……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10796695)<br><br>2013-03-29 23:18<br>赞(0) 踩(0) | <div>这首歌越听越有感觉呀。。。一切低于生活。。。优美的低于生活。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4808488)<br><br>2013-03-29 14:34<br>赞(0) 踩(0) | <div>剩下的，让它们美好</div> |
@@ -1402,7 +1402,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6687572)<br><br>2013-03-05 18:27<br>赞(0) 踩(0) | <div>OT中，听个歌儿先。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2817002)<br>呼呼哈<br>2013-03-05 10:21<br>赞(0) 踩(0) | <div>好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1675991)<br><br>2013-03-04 22:34<br>赞(0) 踩(0) | <div>@如歌_mean 你觉得怎么样？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3730203)<br>音乐是我在这最好的伙伴<br>2013-03-04 16:27<br>赞(0) 踩(0) | <div>最后和纷乱的一切都单纯的低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3730203)<br>音乐是我在这最好的伙伴<br>2013-03-04 16:27<br>赞(0) 踩(0) | <div>最后和纷乱的一切<br>都单纯的低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5194763)<br><br>2013-03-03 01:08<br>赞(0) 踩(0) | <div>优美的低于生活--声音碎片.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13098508)<br><br>2013-03-01 00:06<br>赞(0) 踩(0) | <div>优美的低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1169897)<br>不想想什么<br>2013-02-21 13:56<br>赞(0) 踩(0) | <div>优美的，低于生活。</div> |
@@ -1413,13 +1413,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5992215)<br>烙饼诗人<br>2013-01-27 20:33<br>赞(0) 踩(0) | <div>@大璋村人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7478828)<br>歌慌耳痒痒<br>2013-01-26 11:01<br>赞(0) 踩(0) | <div>压马路</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8165849)<br><br>2013-01-25 20:15<br>赞(0) 踩(0) | <div>推荐</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/973639)<br><br>2013-01-24 12:47<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们你失去的不过是 贞操</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/973639)<br><br>2013-01-24 12:47<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们<br>你失去的不过是 贞操</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10865999)<br><br>2013-01-23 16:33<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1356183)<br><br>2013-01-21 11:56<br>赞(0) 踩(0) | <div>相对谢天笑，周云蓬，左小祖咒，痛苦的信仰而言~这是比较容易被我接受的声音~~喜欢了四年，一直都很爱~~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-01-18 06:25<br>赞(0) 踩(0) | <div>只要内心远过空旷吗咿呀咿呀咿呀梦到了风绕的草原</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11137079)<br><br>2013-01-18 06:25<br>赞(0) 踩(0) | <div>只要内心远过空旷<br>吗咿呀咿呀咿呀<br>梦到了风绕的草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7312561)<br><br>2013-01-13 06:06<br>赞(0) 踩(0) | <div>愿一夜无梦，晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12383195)<br><br>2013-01-12 17:20<br>赞(0) 踩(0) | <div>过耳不忘</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8789493)<br><br>2013-01-11 15:01<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的让它们美好从容地埋藏得更深最后让这纷乱的一切都单纯地低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8789493)<br><br>2013-01-11 15:01<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的让它们美好<br>从容地埋藏得更深<br>最后让这纷乱的一切<br>都单纯地低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2764451)<br>希望养恶鬼，热情喂狂风。<br>2013-01-10 22:14<br>赞(0) 踩(0) | <div>我忽然觉得……这歌的曲子不爽郭四娘的，《北方呼啸的国度》嘛</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1001127)<br><br>2013-01-24 02:07<br>赞(0) 踩(0) | <div>看你這麼說我一納悶就去找來聽了一下直接吐了。。是篡改歌詞的卡拉OK屌絲版么。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2764451)<br>希望养恶鬼，热情喂狂风。<br>2013-02-03 23:36<br>赞(0) 踩(0) | <div><q><b>Sue说：</b></q></div> |
@@ -1441,7 +1441,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11162944)<br>心随乐动<br>2012-12-16 18:45<br>赞(0) 踩(0) | <div>“声音碎片”是自去年以来发展势头猛进的一支乐队，其曲风忧郁低调唯美，极富律动感及可听性。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2367665)<br><br>2012-12-16 01:18<br>赞(0) 踩(0) | <div>不知道为什么，每隔一段时间总会想起这个乐队这首歌。每次听都不会觉得失望。声音碎片。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11564649)<br>Farewell!<br>2012-12-14 20:57<br>赞(0) 踩(0) | <div>把歌声还给夜晚，把道路还给尽头</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9887855)<br> <br>2012-12-14 17:10<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的，让它们美好从容的埋藏得更深最后和纷乱的一切都单纯的低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9887855)<br> <br>2012-12-14 17:10<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的，让它们美好<br>从容的埋藏得更深<br>最后和纷乱的一切<br>都单纯的低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10360913)<br><br>2012-12-12 20:20<br>赞(0) 踩(0) | <div>每次听这首歌都觉得自己在奔跑。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1441825)<br><br>2012-12-10 15:13<br>赞(0) 踩(0) | <div>流泪和希望。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3333020)<br>peace is lie<br>2012-12-04 23:19<br>赞(0) 踩(0) | <div>难得喜欢小清新.</div> |
@@ -1465,7 +1465,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1400088)<br><br>2012-11-07 22:30<br>赞(0) 踩(0) | <div>呐，你把“低于生活”看做一个动名词，“优美的”作为形容词来形容这一行为是优美的。这样就行了，哈哈</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2677599)<br> <br>2012-11-07 23:05<br>赞(0) 踩(0) | <div><q><b>sherrysico说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1400088)<br><br>2012-11-08 09:27<br>赞(0) 踩(0) | <div><q><b>椎名裕美子说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2407025)<br><br>2012-11-06 08:38<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美的在大街上溶化吗咿呀咿呀咿呀只要内心远过空旷吗咿呀咿呀咿呀梦到了风绕的草原</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2407025)<br><br>2012-11-06 08:38<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美的在大街上溶化<br>吗咿呀咿呀咿呀<br>只要内心远过空旷<br>吗咿呀咿呀咿呀<br>梦到了风绕的草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8973271)<br><br>2012-11-04 21:55<br>赞(0) 踩(0) | <div>舒坦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1591740)<br><br>2012-11-01 16:31<br>赞(0) 踩(0) | <div>终有一散。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/108441)<br>我愿意喂你<br>2012-10-29 22:46<br>赞(0) 踩(0) | <div>6:30 am 早安。牛奶妹妹~</div> |
@@ -1491,10 +1491,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7973237)<br>思想总转向希望<br>2012-09-24 19:55<br>赞(0) 踩(0) | <div>今夜，我把石头还给石头，让胜利的胜利。此刻，夜色笼罩，无限寥廓。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5114529)<br>暂无签名~<br>2012-09-24 00:27<br>赞(0) 踩(0) | <div>只要内心远过空旷 梦到了丰饶的草原。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/212614)<br>没什么不可能。<br>2012-09-23 11:31<br>赞(0) 踩(0) | <div>这个不错@Mr黑昼</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6178585)<br><br>2012-09-22 22:19<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美的在大街上溶化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6178585)<br><br>2012-09-22 22:19<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美的在大街上溶化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1715758)<br> <br>2012-09-22 16:55<br>赞(0) 踩(0) | <div>好像独立电影的原声~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/644454)<br><br>2012-09-21 10:56<br>赞(0) 踩(0) | <div>我还喜欢这首歌的前奏啊！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1514757)<br>暂无签名~<br>2012-09-20 16:22<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美的在大街上溶化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1514757)<br>暂无签名~<br>2012-09-20 16:22<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美的在大街上溶化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341091)<br>偶爱我们呢~<br>2012-09-18 23:13<br>赞(0) 踩(0) | <div>好像就听过他们这一首，正好每次都碰到它。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2996732)<br><br>2012-09-18 11:24<br>赞(0) 踩(0) | <div>竟然是我的我的试听排行冠军？好吧，我想说我是第一次听哎！还不错啦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4786901)<br><br>2012-09-14 07:13<br>赞(0) 踩(0) | <div>就是喜欢</div> |
@@ -1519,7 +1519,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6922956)<br><br>2012-07-22 22:11<br>赞(0) 踩(0) | <div>梦到了风绕的草原...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8141645)<br><br>2012-07-20 19:18<br>赞(0) 踩(0) | <div>好听的手风琴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9802677)<br><br>2012-07-19 22:02<br>赞(0) 踩(0) | <div>没那么洒脱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/148238)<br><br>2012-07-19 14:19<br>赞(0) 踩(0) | <div>在某个阴凉的角落吹着风梦到了风绕的草原</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/148238)<br><br>2012-07-19 14:19<br>赞(0) 踩(0) | <div>在某个阴凉的角落吹着风<br>梦到了风绕的草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3586298)<br>音乐无处不在<br>2012-07-17 20:26<br>赞(0) 踩(0) | <div>主歌部分就像一个结巴叙述着毫无关联的话语，那种吃力劲儿可见一斑，副歌部分还算流畅。听这种歌曲真是浪费时间。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/866010)<br>虾米 我们在更好的明天重...<br>2012-07-17 10:23<br>赞(0) 踩(0) | <div>只要内心远过空旷.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3771561)<br><br>2012-07-17 07:03<br>赞(0) 踩(0) | <div>刚刚醒来就想到这首歌了</div> |
@@ -1534,7 +1534,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6019259)<br> <br>2012-06-28 22:50<br>赞(0) 踩(0) | <div>做个好人 晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5602257)<br>我还没想好要写什么...<br>2012-06-26 22:23<br>赞(0) 踩(0) | <div>多欢乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/740936)<br><br>2012-06-24 20:24<br>赞(0) 踩(0) | <div>太棒了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3292214)<br>网易云ID：丶苏格<br>2012-06-24 14:05<br>赞(0) 踩(0) | <div>爱情里低如尘埃的我，恋情里高抬头颅的我； 亲情里低下头颅的我，友情里挺起胸膛的我；人群里低下脸庞的我，黑夜里露出伤口的我； 城市里低下双手的我，大山里迈起脚步的我； 喧嚣里低下声音的我，乐谱里引吭高歌的我 ……低下，抬起。低下，抬起。低下，抬起……这些瞬间融成一条无边的充满情绪包含无数言语裹挟着种种希望感动失望绝望的眼神的河，这条河就叫《优美的低于生活》</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3292214)<br>网易云ID：丶苏格<br>2012-06-24 14:05<br>赞(0) 踩(0) | <div>爱情里低如尘埃的我，恋情里高抬头颅的我； 亲情里低下头颅的我，友情里挺起胸膛的我；人群里低下脸庞的我，黑夜里露出伤口的我； 城市里低下双手的我，大山里迈起脚步的我； 喧嚣里低下声音的我，乐谱里引吭高歌的我 ……<br>低下，抬起。<br>低下，抬起。<br>低下，抬起……<br>这些瞬间融成一条无边的充满情绪包含无数言语裹挟着种种希望感动失望绝望的眼神的河，这条河就叫《优美的低于生活》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3292214)<br>网易云ID：丶苏格<br>2012-06-24 14:04<br>赞(0) 踩(0) | <div>爱情里低如尘埃的我，恋情里高抬头颅的我； 亲情里低下头颅的我，友情里挺起胸膛的我；人群里低下脸庞的我，黑夜里露出伤口的我； 城市里低下双手的我，大山里迈起脚步的我； 喧嚣里低下声音的我，乐谱里引吭高歌的我 …… 低下，抬起。融成一条不息的美好的河，这条河就叫《优美的低于生活》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2804744)<br><br>2012-06-23 22:19<br>赞(0) 踩(0) | <div>最后让，这纷乱的一切</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1539515)<br>我还没想好要写什么...<br>2012-06-19 17:03<br>赞(0) 踩(0) | <div>很早了。还是喜欢歌名多一些。</div> |
@@ -1582,13 +1582,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2668619)<br>我还没想好要写什么...<br>2012-03-12 12:39<br>赞(0) 踩(0) | <div>嗯，这个挺好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8052616)<br><br>2012-03-11 20:10<br>赞(0) 踩(0) | <div>把歌声还给夜暗，把道路还给尽头，把果实还给种子，把飞翔还给天空，剩下的，让他们美好。。。！特别喜欢手风琴的前奏！相爱吧，终有一散的人们，你失去的不过是童贞，等时光用尽了青春，你早已优美的在大街上溶化。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8214476)<br><br>2012-03-10 22:52<br>赞(0) 踩(0) | <div>、</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8305985)<br><br>2012-03-09 16:17<br>赞(0) 踩(0) | <div>空灵 辽远手风琴的前奏令人耳目一新，歌词彰显了作者的诗人气质，难得的佳作</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8305985)<br><br>2012-03-09 16:17<br>赞(0) 踩(0) | <div>空灵 辽远<br>手风琴的前奏令人耳目一新，歌词彰显了作者的诗人气质，难得的佳作</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7969586)<br><br>2012-03-08 23:35<br>赞(0) 踩(0) | <div>把歌声还给夜晚/把道路还给尽头/把果实还给种子/把飞翔还给天空/剩下的，让它们美好/从容的埋藏得更深/最后和纷乱的一切/都单纯的低于生活/只要内心远过空旷/相爱吧，终有一散的人们/你失去的不过是童贞/等时光用尽了青春/你早已优美的在大街上溶化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3373066)<br><br>2012-03-07 23:15<br>赞(0) 踩(0) | <div>特别喜欢这一刻，瑜伽之后我的胸腔吐掉的不是废气而是不安，听碎片的歌，优美的低于生活——把歌声还给夜晚 把道路还给尽头 把飞翔还给天空 剩下的，让它们美好.......剩下的，让它们美好，大家晚安！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7127271)<br><br>2012-03-07 22:41<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们，你失去的不过是童贞，等时光用尽了青春。你早已优美的在大街上溶化---哇靠，这么犀利的歌词，NICE</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2299858)<br><br>2012-03-07 13:09<br>赞(0) 踩(0) | <div>我已经出局了，SO不要再去想什么了···好好做好自己就OK了··不要再去纠结了···</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3681991)<br><br>2012-03-06 14:33<br>赞(0) 踩(0) | <div>你失去的不过是童贞</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4948507)<br><br>2012-03-05 06:34<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美的在大街上溶化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4948507)<br><br>2012-03-05 06:34<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美的在大街上溶化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3580625)<br> <br>2012-03-03 12:12<br>赞(0) 踩(0) | <div>我又在听一些老歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64696)<br>新浪微博@破产美剧迷<br>2012-03-01 08:51<br>赞(0) 踩(0) | <div>下班走路耳塞听，开心得手舞足蹈。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8226360)<br><br>2012-02-28 22:45<br>赞(0) 踩(0) | <div>“把歌声还给夜晚 把道路还给尽头 把果实还给种子 把飞翔还给天空 剩下的,让它们美好 从容的埋藏得更深 最后让这纷乱的一切 都单纯的低于生活 只有内心远过空旷 梦到了丰饶的草原 相爱吧,终有一散的人们 你失去的不过是童贞 等时光用尽了青春  你早已优美的在大街上溶化”优美的低于生活~如是而已</div> |
@@ -1636,7 +1636,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4472740)<br> <br>2011-11-29 23:22<br>赞(0) 踩(0) | <div>听首歌   睡觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4754441)<br><br>2011-11-26 16:00<br>赞(0) 踩(0) | <div>相爱吧终有一散的人们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/795298)<br><br>2011-11-24 20:35<br>赞(0) 踩(0) | <div>总觉得在什么地方听过。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4240907)<br><br>2011-11-23 00:37<br>赞(0) 踩(0) | <div>SO  NICE舒服得很   这样的无人之夜</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4240907)<br><br>2011-11-23 00:37<br>赞(0) 踩(0) | <div>SO  NICE<br><br><br>舒服得很   这样的无人之夜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4240907)<br><br>2011-11-23 00:37<br>赞(0) 踩(0) | <div>今晚  适合声音碎片的  优美的低于生活。前奏足够持续整夜。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6358476)<br><br>2011-11-21 12:35<br>赞(0) 踩(0) | <div>只有内心远过空旷.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6358476)<br><br>2011-11-21 12:33<br>赞(0) 踩(0) | <div>只有内心远过空旷.</div> |
@@ -1653,7 +1653,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6559013)<br><br>2011-11-10 01:47<br>赞(0) 踩(0) | <div>草莽男子的声音碎片，这么说我并没有贬低他们的意思，这个男子民谣乐队由几名草根组成，自成立迅速蔓延全国，可谓“草莽”英雄，他们的歌首首经典让歌迷难以自拔，主唱富有磁性而沙哑的情歌更是能把歌迷的心撕碎。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5940201)<br><br>2011-10-31 10:48<br>赞(0) 踩(0) | <div>@CH-在打怪兽 尤其喜欢这只的前奏 哈哈 我开始期待你个MV</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1284606)<br>留，流。生活不断的告诉我...<br>2011-10-30 17:01<br>赞(0) 踩(0) | <div>给这黑暗世界上一抹颜色。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35253)<br>朝与同歌暮与酒。<br>2011-10-23 00:52<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的，让它们美好从容的埋藏得更深</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35253)<br>朝与同歌暮与酒。<br>2011-10-23 00:52<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的，让它们美好<br>从容的埋藏得更深</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4278321)<br>fender<br>2011-10-22 07:48<br>赞(0) 踩(0) | <div>我听了 不错 @Radio司令员</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6352539)<br><br>2011-10-21 00:04<br>赞(0) 踩(0) | <div>把音乐还给夜晚，各位晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6352539)<br><br>2011-10-21 00:03<br>赞(0) 踩(0) | <div>把音乐还给夜晚。</div> |
@@ -1666,24 +1666,24 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1357151)<br><br>2011-10-04 10:39<br>赞(0) 踩(0) | <div>不知道为什么，每次听到这首歌，总能感觉到秋天的气息。。送给秋天阴沉的上午。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1317931)<br>好久不见。虾米生态堪忧。...<br>2011-09-30 13:40<br>赞(0) 踩(0) | <div>声音碎片---初三时候听的噪音，现在惊为天籁。有时候欣赏与厌恶都只是时间问题而不是品位的差距。那些岁月的故事，都在随着自己的改变而湮没。了无音讯的除了自以为是的青春年华，还有那些爱的故事吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/522949)<br><br>2011-09-30 13:16<br>赞(0) 踩(0) | <div>今晚 听你来唱把它唱，可爱的小神婆</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5903523)<br> <br>2011-09-26 22:11<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美地在大街上融化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5903523)<br> <br>2011-09-26 22:11<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美地在大街上融化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/569578)<br><br>2011-09-24 23:30<br>赞(0) 踩(0) | <div>好吧 配合马老师刚刚结束的上海MAO演出 分享一首</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2161749)<br><br>2011-09-24 22:43<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的，让它们美好</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2161749)<br><br>2011-09-24 22:43<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的，让它们美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3740808)<br> <br>2011-09-22 10:45<br>赞(0) 踩(0) | <div>爱</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4717602)<br><br>2011-09-11 21:47<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美的在大街上溶化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4717602)<br><br>2011-09-11 21:47<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美的在大街上溶化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3730078)<br><br>2011-09-11 19:22<br>赞(0) 踩(0) | <div>一觉睡醒，听到这个，心情大好~~哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5744502)<br><br>2011-09-08 01:39<br>赞(0) 踩(0) | <div>低沉的嗓音，优美的旋律</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5597688)<br><br>2011-09-07 20:56<br>赞(0) 踩(0) | <div>喜欢前奏的部分</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5210880)<br><br>2011-09-07 00:00<br>赞(0) 踩(0) | <div>没理由..</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3049271)<br>最近我走的是复古风~<br>2011-08-31 19:31<br>赞(0) 踩(0) | <div>我爱他的前奏，欢乐的想让人翩翩起舞，没办法不被吸引啊，最后和纷乱的一切都单纯的低于生活~真是好的态度</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3049271)<br>最近我走的是复古风~<br>2011-08-31 19:31<br>赞(0) 踩(0) | <div>我爱他的前奏，欢乐的想让人翩翩起舞，没办法不被吸引啊，最后和纷乱的一切<br>都单纯的低于生活~真是好的态度</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1718146)<br>我还没想好要写什么...<br>2011-08-28 16:47<br>赞(0) 踩(0) | <div>宁静的炎夏，适合来一曲@声音碎片乐队 的歌：相爱吧终有一散的人们，你失去的不过是童贞。等时光用尽了青春，你早已优美的在大街上溶化。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1859757)<br><br>2011-08-23 13:37<br>赞(0) 踩(0) | <div>优美的低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3305488)<br>我还没想好要写什么...<br>2011-08-22 11:33<br>赞(0) 踩(0) | <div>@祝菡 只要内心远过空旷....旅途愉快！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2260634)<br><br>2011-08-21 16:02<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们 手风琴配上不急不缓鼓点 真好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5512018)<br><br>2011-08-21 13:19<br>赞(0) 踩(0) | <div>dd</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/593402)<br>精神导师<br>2011-08-20 01:16<br>赞(0) 踩(0) | <div>前奏很棒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/646428)<br><br>2011-08-19 09:53<br>赞(0) 踩(0) | <div>等时光用尽了青春你早已优美的在大街上溶化</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/646428)<br><br>2011-08-19 09:51<br>赞(0) 踩(0) | <div>等时光用尽了青春你早已优美的在大街上溶化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/646428)<br><br>2011-08-19 09:53<br>赞(0) 踩(0) | <div>等时光用尽了青春<br>你早已优美的在大街上溶化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/646428)<br><br>2011-08-19 09:51<br>赞(0) 踩(0) | <div>等时光用尽了青春<br>你早已优美的在大街上溶化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4313652)<br>一念起，萬水千山<br>2011-08-17 16:40<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15834)<br>automatic<br>2011-08-15 10:58<br>赞(0) 踩(0) | <div>一听心情马上就好的老调子。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27596)<br>重度昏厥者麻醉治疗法<br>2011-08-12 11:57<br>赞(0) 踩(0) | <div>以泪洗面好像有首歌跟这个前奏特像的，谁敢告诉我是哪首来着？</div> |
@@ -1713,8 +1713,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4447911)<br>时光已碎，恩宠难回。<br>2011-07-01 02:33<br>赞(0) 踩(0) | <div>为啥声音碎片滴这首歌出现在天蝎座的电台里而不是射手座的电台里呐？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/659247)<br>Rejoice, Be ...<br>2011-10-13 22:00<br>赞(0) 踩(0) | <div>我是在双鱼座的电台里面找到的~</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4447911)<br>时光已碎，恩宠难回。<br>2011-10-14 09:31<br>赞(0) 踩(0) | <div><q><b>能能890说：</b></q></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4238597)<br>摇滚乐和恐怖片是必备的精...<br>2011-06-26 09:44<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美的在大街上溶化</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4238597)<br>摇滚乐和恐怖片是必备的精...<br>2011-06-26 09:43<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美的在大街上溶化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4238597)<br>摇滚乐和恐怖片是必备的精...<br>2011-06-26 09:44<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美的在大街上溶化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4238597)<br>摇滚乐和恐怖片是必备的精...<br>2011-06-26 09:43<br>赞(0) 踩(0) | <div>相爱吧，终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美的在大街上溶化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3001646)<br><br>2011-06-25 22:16<br>赞(0) 踩(0) | <div>很喜欢的前奏，每次听到心里会有一种莫名的欣喜，像一缕阳光洒下来，像正气昂昂的走在开阔的大道上</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2852370)<br>我还没想好要写什么...<br>2011-06-24 19:29<br>赞(0) 踩(0) | <div>节奏和歌词都很喜欢。“最后让这纷乱的一切，都单纯的低于生活。”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74319)<br>新浪微博：@糖卡torn...<br>2011-06-24 15:37<br>赞(0) 踩(0) | <div>一种低调的高贵</div> |
@@ -1727,18 +1727,18 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3540616)<br><br>2011-06-16 14:53<br>赞(0) 踩(0) | <div>声音冲进心房</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4299928)<br><br>2011-06-15 15:31<br>赞(0) 踩(0) | <div>纯粹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3903987)<br>独立之人格，自由之思想<br>2011-06-14 10:10<br>赞(0) 踩(0) | <div>草莓现场很好听的。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3284033)<br><br>2011-06-08 11:24<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的，让它们美好从容的埋藏得更深最后让和纷乱的一切都单纯内的低于生活相爱吧，终有一散的人们你失去的不过是童贞只要内心远过空旷梦到了风绕的草原</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3284033)<br><br>2011-06-08 11:21<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的，让它们美好从容的埋藏得更深最后让和纷乱的一切都单纯内的低于生活只要内心远过空旷梦到了风绕的草原</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3284033)<br><br>2011-06-08 11:24<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的，让它们美好<br>从容的埋藏得更深<br>最后让和纷乱的一切<br>都单纯内的低于生活<br>相爱吧，终有一散的人们<br>你失去的不过是童贞<br>只要内心远过空旷<br>梦到了风绕的草原</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3284033)<br><br>2011-06-08 11:21<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的，让它们美好<br>从容的埋藏得更深<br>最后让和纷乱的一切<br>都单纯内的低于生活<br>只要内心远过空旷<br>梦到了风绕的草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/805352)<br>我还没想好要写什么...<br>2011-06-06 12:22<br>赞(0) 踩(0) | <div>词太棒了。。 声音碎片牛逼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2447280)<br>如果后悔 不能后退 是不...<br>2011-06-05 21:09<br>赞(0) 踩(0) | <div>好久 好久没听这首歌了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3478827)<br> <br>2011-06-05 18:57<br>赞(0) 踩(0) | <div>优美的低于生活，疯狂的高于天空..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3478827)<br> <br>2011-06-05 18:12<br>赞(0) 踩(0) | <div>优美的低于生活，疯狂的高于天空..</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2129208)<br><br>2011-06-04 12:43<br>赞(0) 踩(0) | <div>吗咿呀咿呀咿呀只要内心远过空旷吗咿呀咿呀咿呀梦到了风绕的草原</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2129208)<br><br>2011-06-04 12:43<br>赞(0) 踩(0) | <div>吗咿呀咿呀咿呀<br>只要内心远过空旷<br>吗咿呀咿呀咿呀<br>梦到了风绕的草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1669546)<br>虾米真的不了解我...<br>2011-06-02 16:04<br>赞(0) 踩(0) | <div>啊啊啊 原来是这首歌 找了很久 有种矛盾的又讨厌又喜欢的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/463960)<br><br>2011-05-31 18:56<br>赞(0) 踩(0) | <div>再听 再听 旋律依然优美</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1876089)<br><br>2011-05-28 13:22<br>赞(0) 踩(0) | <div>相爱吧 终有一散的人们 ，你失去的不过是童贞 ，等时光用尽了青春，你早已优美地在大街上融化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3821185)<br><br>2011-05-26 23:04<br>赞(0) 踩(0) | <div>伴奏真不赖</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/629535)<br>我还没想好要写什么...<br>2011-05-22 08:14<br>赞(0) 踩(0) | <div>吗咿呀咿呀咿呀梦到了风绕的草原</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/629535)<br>我还没想好要写什么...<br>2011-05-22 08:14<br>赞(0) 踩(0) | <div>吗咿呀咿呀咿呀<br>梦到了风绕的草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3995905)<br><br>2011-05-20 14:07<br>赞(0) 踩(0) | <div>ai\'迷人的声线\' \'歌词\'</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2914677)<br><br>2011-05-16 18:08<br>赞(0) 踩(0) | <div>这首歌竟然让哥从头到尾在仔细听在唱什么</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282206)<br><br>2011-05-14 23:11<br>赞(0) 踩(0) | <div>算是最好的一首了吧，在他们很多的歌曲里</div> |
@@ -1786,8 +1786,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1876927)<br>我们都在改变着。。。<br>2010-11-09 13:54<br>赞(0) 踩(0) | <div>喜欢这个节奏</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1695528)<br><br>2010-11-02 13:19<br>赞(0) 踩(0) | <div>最后让这纷乱的一切，都单纯的低于生活。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1190277)<br><br>2010-11-01 22:30<br>赞(0) 踩(0) | <div>声音碎片，这个应该是知道的人比较多的一个了。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1606145)<br>我回来啦！<br>2010-10-30 13:50<br>赞(0) 踩(0) | <div>我只是突然想起了这首歌，然后突然地想再听听。我清晰地记得曾经是多么的喜欢这首歌，但我已经忘了听这支歌时的心情，我也忘了听这支歌时我想到的一切。不过，我仍然喜欢。我甚至没有去了解过这支乐队。可是，那又有什么要紧。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1065181)<br>暂无签名~<br>2010-10-18 16:44<br>赞(0) 踩(0) | <div>我是被前奏的键盘声吸引来滴，再听到歌词，就听到这里来了。相爱吧 终有一散的人们你失去的不过是童贞等时光用尽了青春你早已优美地在大街上融化</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1606145)<br>我回来啦！<br>2010-10-30 13:50<br>赞(0) 踩(0) | <div>我只是突然想起了这首歌，然后突然地想再听听。<br>我清晰地记得曾经是多么的喜欢这首歌，但我已经忘了听这支歌时的心情，我也忘了听这支歌时我想到的一切。<br>不过，我仍然喜欢。<br>我甚至没有去了解过这支乐队。可是，那又有什么要紧。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1065181)<br>暂无签名~<br>2010-10-18 16:44<br>赞(0) 踩(0) | <div>我是被前奏的键盘声吸引来滴，再听到歌词，就听到这里来了。<br>相爱吧 终有一散的人们<br>你失去的不过是童贞<br>等时光用尽了青春<br>你早已优美地在大街上融化</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1499136)<br><br>2010-09-21 10:25<br>赞(0) 踩(0) | <div>好感动的声音。。。。。。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343055)<br><br>2010-09-19 04:16<br>赞(0) 踩(0) | <div>只一首很难的，先来中文的</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1137886)<br><br>2010-09-20 15:38<br>赞(0) 踩(0) | <div>太有哲学味道了</div> |
@@ -1805,7 +1805,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1177522)<br><br>2010-07-15 16:34<br>赞(0) 踩(0) | <div>律动中仿佛夹杂着水木年华和汪峰的感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1177522)<br><br>2010-07-15 16:11<br>赞(0) 踩(0) | <div>律动 轻松</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/583877)<br><br>2010-07-04 09:58<br>赞(0) 踩(0) | <div>放荡的草原？</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/978693)<br><br>2010-06-25 05:10<br>赞(0) 踩(0) | <div>只要内心远过空旷梦到了风绕的草原</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/978693)<br><br>2010-06-25 05:10<br>赞(0) 踩(0) | <div>只要内心远过空旷<br><br>梦到了风绕的草原</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1037303)<br>初心未肯不逢君<br>2010-06-18 16:13<br>赞(0) 踩(0) | <div>本命之一嘿嘿</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/974124)<br><br>2010-06-07 10:32<br>赞(0) 踩(0) | <div>......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/871348)<br><br>2010-05-31 17:11<br>赞(0) 踩(0) | <div>你瞥见生活了么</div> |
@@ -1818,7 +1818,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/843907)<br>一次平凡的旅行<br>2010-04-30 04:04<br>赞(0) 踩(0) | <div>把飞翔还给我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/791265)<br>以梦为马，随处可栖。<br>2010-04-12 18:56<br>赞(0) 踩(0) | <div>R先生喜欢的~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/500870)<br><br>2010-03-27 11:05<br>赞(0) 踩(0) | <div>中国的Radiohead 希望你们别只是模仿~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141825)<br>drowned.<br>2010-02-26 12:23<br>赞(0) 踩(0) | <div>一直都喜欢这种俄式的声音 这是手风琴吧 这样的声音让我看见阴霾的白色天空和散落的鸽子这首歌 感觉就是阴天 厚重的云层苍老 微风吹过 留下一缕悲凉的古怪欢乐 就像荒原上的歌唱</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/141825)<br>drowned.<br>2010-02-26 12:23<br>赞(0) 踩(0) | <div>一直都喜欢这种俄式的声音 这是手风琴吧 这样的声音让我看见阴霾的白色天空和散落的鸽子<br>这首歌 感觉就是阴天 厚重的云层苍老 微风吹过 留下一缕悲凉的古怪欢乐 就像荒原上的歌唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1163)<br><br>2010-02-21 23:38<br>赞(0) 踩(0) | <div>值得收藏！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/633407)<br><br>2010-01-18 18:18<br>赞(0) 踩(0) | <div>so so</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/603258)<br><br>2010-01-03 18:06<br>赞(0) 踩(0) | <div>唱的人、声音不好听.</div> |
@@ -1827,7 +1827,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75646)<br><br>2009-12-16 16:49<br>赞(0) 踩(0) | <div>一直都喜欢这种声音。没理由。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75646)<br><br>2009-12-16 16:49<br>赞(0) 踩(0) | <div>一直都喜欢这种声音。没理由。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/75646)<br><br>2009-12-16 16:49<br>赞(0) 踩(0) | <div>一直都喜欢这种声音。没理由。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90715)<br><br>2009-12-04 10:04<br>赞(0) 踩(0) | <div>把歌声还给夜晚把道路还给尽头把果实还给种子把飞翔还给天空剩下的，让它们美好从容的埋藏得更深最后让和纷乱的一切都单纯内的低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/90715)<br><br>2009-12-04 10:04<br>赞(0) 踩(0) | <div>把歌声还给夜晚<br>把道路还给尽头<br>把果实还给种子<br>把飞翔还给天空<br>剩下的，让它们美好<br>从容的埋藏得更深<br>最后让和纷乱的一切<br>都单纯内的低于生活</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/461694)<br>我们面对的是何种凶杀？<br>2009-11-22 21:39<br>赞(0) 踩(0) | <div>不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249963)<br>谈恋爱不如追星。<br>2009-11-15 10:46<br>赞(0) 踩(0) | <div>特别喜欢前奏。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249963)<br>谈恋爱不如追星。<br>2009-11-15 10:45<br>赞(0) 踩(0) | <div>这张陨石（或者洋山芋·~）封面还好，后面那张无头模特实在没法习惯-_-|||</div> |
@@ -1837,9 +1837,9 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/265939)<br><br>2009-11-05 15:19<br>赞(0) 踩(0) | <div>前奏听得想扭动起来~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369716)<br><br>2009-11-01 14:34<br>赞(0) 踩(0) | <div>前奏太棒了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273378)<br><br>2009-10-24 17:13<br>赞(0) 踩(0) | <div>优质的低音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/436516)<br><br>2009-10-23 19:21<br>赞(0) 踩(0) | <div>老男孩的新乐队优美的低于生活</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400617)<br><br>2009-10-23 13:56<br>赞(0) 踩(0) | <div>很喜欢配乐，还有优美的歌词。加上声音碎片美好的声音。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400617)<br><br>2009-10-23 13:56<br>赞(0) 踩(0) | <div>很喜欢配乐，还有优美的歌词。加上声音碎片美好的声音。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/436516)<br><br>2009-10-23 19:21<br>赞(0) 踩(0) | <div>老男孩的新乐队<br>优美的低于生活</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400617)<br><br>2009-10-23 13:56<br>赞(0) 踩(0) | <div>很喜欢配乐，还有优美的歌词。<br><br>加上声音碎片美好的声音。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400617)<br><br>2009-10-23 13:56<br>赞(0) 踩(0) | <div>很喜欢配乐，还有优美的歌词。<br><br>加上声音碎片美好的声音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/436796)<br><br>2009-10-17 22:45<br>赞(0) 踩(0) | <div>有点意思</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/385912)<br><br>2009-09-14 21:27<br>赞(0) 踩(0) | <div>旋律动听，平和。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/347733)<br><br>2009-08-25 22:09<br>赞(0) 踩(0) | <div>不好听</div> |

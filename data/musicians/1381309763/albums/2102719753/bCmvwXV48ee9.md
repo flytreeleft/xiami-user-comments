@@ -32,5 +32,3 @@ Bounce that red ball down to town
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

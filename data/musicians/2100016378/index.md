@@ -3,13 +3,10 @@ Young Gee
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/d4fc7b06c0b384ad1f186e301cbd85e7.jpeg)<br>Young Gee](https://i.xiami.com/yangji) | **播放数**: 1809646<br>**粉丝数**: 461<br>**评论数**: 35<br>**地区**: China 中国大陆<br>**风格**: 另类说唱 Alternative Hip Hop, 流行说唱 Pop Rap, 韩国流行 K-Pop, 另类节奏布鲁斯 Alternative R&B, 陷阱说唱 Trap Rap<br> |
+| [![](../../images/musicians/d4fc7b06c0b384ad1f186e301cbd85e7.jpeg)<br>Young Gee](https://i.xiami.com/yangji) | **地区**: China 中国大陆<br>**风格**: 另类说唱 Alternative Hip Hop, 流行说唱 Pop Rap, 韩国流行 K-Pop, 另类节奏布鲁斯 Alternative R&B, 陷阱说唱 Trap Rap<br>**播放数**: 1809646<br>**粉丝数**: 461<br>**评论数**: 35<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -25,8 +22,8 @@ Young Gee
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334316278)<br>我还没想好要写什么...<br>2019-11-23 16:49<br>赞(0) 踩(0) | <div>好听，有活力</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-04-05 05:27<br>赞(2) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50418558)<br>向往自由的灵魂<br>2018-07-11 13:57<br>赞(1) 踩(0) | <div>明日之子？</div> |

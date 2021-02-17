@@ -3,7 +3,7 @@ Muxo
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/57ff4efdedaaa71989ec1903b6877708.jpg)<br>Muxo](https://i.xiami.com/mu3o) | **播放数**: 1011658<br>**粉丝数**: 80<br>**评论数**: 3<br>**地区**: Korea 韩国<br>**风格**: 浩室舞曲 House, 回响贝斯 Dubstep, 陷阱舞曲 Trap, 未来贝斯 Future Bass, 电子舞曲 EDM / Electronic Dance Music<br> |
+| [![](../../images/musicians/57ff4efdedaaa71989ec1903b6877708.jpg)<br>Muxo](https://i.xiami.com/mu3o) | **地区**: Korea 韩国<br>**风格**: 浩室舞曲 House, 回响贝斯 Dubstep, 陷阱舞曲 Trap, 未来贝斯 Future Bass, 电子舞曲 EDM / Electronic Dance Music<br>**播放数**: 1011658<br>**粉丝数**: 80<br>**评论数**: 3<br> |
 
 ## 档案
 
@@ -24,8 +24,8 @@ Mu3o  原名 Sungwoo Park / 朴星禹  电子音乐制作人&Producing DJ  2014�
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/273733058)<br><br>2019-06-13 21:01<br>赞(0) 踩(0) | <div>很好听啊  精心制作  <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82881490)<br>Übung macht ...<br>2016-08-21 00:31<br>赞(0) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">来支持！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177355994)<br> <br>2016-05-23 12:59<br>赞(0) 踩(0) | <div>求新歌！</div> |

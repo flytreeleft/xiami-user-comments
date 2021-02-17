@@ -12,24 +12,21 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405348656)<br>闲来抚琴山涧鸣<br>2020-10-15 00:15<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341357995)<br>人生有裂缝   是光进来...<br>2020-01-28 16:30<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/29cf103b88c33e19563095897485c32a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408369544)<br>相忘于江湖<br>2020-01-26 15:22<br>赞(0) 踩(0) | <div>开头的钟声不悠扬，反而有些吓人。少了些静谧禅意。群山中悠悠传来似有似无的钟声更好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266786530)<br>            ...<br>2020-01-20 09:04<br>赞(1) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/276677378)<br>诺不轻信，故人不负我，诺...<br>2020-01-10 09:36<br>赞(2) 踩(0) | <div>日出嵩山坳</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428479659)<br>音乐是有声的无语<br>2019-12-01 07:05<br>赞(0) 踩(0) | <div>凄凄婉婉崩崩咧咧</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428479659)<br>音乐是有声的无语<br>2019-12-01 07:05<br>赞(0) 踩(0) | <div>凄凄婉婉<br>崩崩咧咧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260803728)<br><br>2019-11-14 09:27<br>赞(0) 踩(0) | <div>1114</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/430449693)<br><br>2019-10-23 13:50<br>赞(1) 踩(0) | <div>优美中国风范</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2019-08-29 18:49<br>赞(1) 踩(0) | <div>笃   定笃   定2019-08-29</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2019-08-29 18:49<br>赞(1) 踩(0) | <div>定  力定  力定  力2019-08-29</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2019-08-29 18:49<br>赞(1) 踩(0) | <div>笃   定<br>笃   定<br>2019-08-29</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2019-08-29 18:49<br>赞(1) 踩(0) | <div>定  力<br>定  力<br>定  力2019-08-29</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84768054)<br>我在網易雲音樂的名字豆豆...<br>2019-07-13 13:31<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84768054)<br>我在網易雲音樂的名字豆豆...<br>2019-07-13 09:50<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2019-06-06 04:35<br>赞(3) 踩(0) | <div>笃   定</div> |
@@ -40,7 +37,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343365031)<br>倾听别人的声音<br>2019-01-27 08:04<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293220934)<br><br>2019-01-12 01:11<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305226841)<br><br>2018-12-12 21:01<br>赞(1) 踩(0) | <div>很优美哦</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403387169)<br><br>2018-11-22 01:07<br>赞(3) 踩(0) | <div>听着听着让我想起 李连杰</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403387169)<br><br>2018-11-22 01:07<br>赞(3) 踩(0) | <div>听着听着<br>让我想起 李连杰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307409464)<br>海边的石头在海边<br>2018-09-21 05:50<br>赞(14) 踩(0) | <div>古筝也可以有浓情蜜意！ <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"> <img src="../../../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"> <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"> <img src="../../../../images/comments/34b00bb4c3ecbc84dd5a58485ede73b4.png"> <img src="../../../../images/comments/6dcade93a9728bd629c90733016bc0e8.png"> <img src="../../../../images/comments/14dcc1afa492416e582d72beaf42c4c4.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280195860)<br>音乐随风来，静静悠悠听<br>2018-08-28 07:42<br>赞(2) 踩(0) | <div>回忆里的曲子 真是那么悠扬 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302899357)<br>大脑永远追逐刚刚逝去的一...<br>2018-05-24 15:33<br>赞(3) 踩(0) | <div>开头打锣鼓声与禅念一下子切入意境中</div> |
@@ -55,7 +52,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/218595648)<br>  在虾米寻觅～在虾米得...<br>2017-08-08 13:42<br>赞(4) 踩(0) | <div>熟悉的旋律...难忘的回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293263496)<br><br>2017-06-13 00:31<br>赞(4) 踩(0) | <div>我心中的世外桃源！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/196627982)<br>你会不会突然地出现～<br>2017-04-29 23:30<br>赞(1) 踩(0) | <div>太好听了！！！！！！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69312966)<br>狗勿餵太飽，人勿對其太好...<br>2017-03-12 15:04<br>赞(31) 踩(0) | <div>古筝的表现力确实非凡个人认为，中外在乐器的发展方面，似乎可以归结为两条截然不同的道路，中国的这些传统乐器，较之西洋乐器，似乎更长于对自然声音的模拟，而且往往可以达到惟妙惟肖的境界，这在西洋乐器来说，是其难于做到的。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69312966)<br>狗勿餵太飽，人勿對其太好...<br>2017-03-12 15:04<br>赞(31) 踩(0) | <div>古筝的表现力确实非凡<br>个人认为，中外在乐器的发展方面，似乎可以归结为两条截然不同的道路，中国的这些传统乐器，较之西洋乐器，似乎更长于对自然声音的模拟，而且往往可以达到惟妙惟肖的境界，这在西洋乐器来说，是其难于做到的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41986122)<br><br>2016-11-06 13:01<br>赞(5) 踩(0) | <div>流水潺潺，空山竹雨。真有自然的味道，整个虾米网觉得最有意境的版本 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47067227)<br>步步为营<br>2016-06-02 22:19<br>赞(3) 踩(0) | <div>古筝版的真心好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52019671)<br><br>2016-05-18 12:49<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |

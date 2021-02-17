@@ -37,8 +37,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365375747)<br><br>2021-02-04 23:59<br>赞(0) 踩(0) | <div>哈哈&amp;hellip;最後的評論</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256791352)<br> <br>2021-01-17 20:08<br>赞(0) 踩(0) | <div>细听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-10-19 13:20<br>赞(0) 踩(0) | <div></div> |
@@ -53,8 +53,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/428011561)<br><br>2020-05-06 11:17<br>赞(1) 踩(0) | <div>可以啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/126522682)<br><br>2020-04-16 15:30<br>赞(3) 踩(0) | <div>我也不知道为何这么喜欢这个调，应该是给我杂乱的心情有一丝平静吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323646)<br>我太无趣了<br>2020-04-09 00:27<br>赞(2) 踩(0) | <div>日照香炉生紫烟，那天太热了~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333749554)<br>爱你虾米<br>2020-04-08 13:12<br>赞(3) 踩(0) | <div>哈哈哈啊哈～明明是戏谑，却悲怆的嗓音～～漫不经心却入骨～～腻害 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333749554)<br>爱你虾米<br>2020-04-07 22:05<br>赞(3) 踩(0) | <div>听到开头，为之一震的感觉，，，春天的粘着泥土的味道，很赞喏 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333749554)<br>爱你虾米<br>2020-04-08 13:12<br>赞(3) 踩(0) | <div>哈哈哈啊哈～<br>明明是戏谑，却悲怆的嗓音～～漫不经心却入骨～～<br>腻害 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333749554)<br>爱你虾米<br>2020-04-07 22:05<br>赞(3) 踩(0) | <div>听到开头，为之一震的感觉，，，<br>春天的粘着泥土的味道，很赞喏 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/1e81ffd84a5674d7de23219b796fd551.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/130535354)<br>风未动，旗未动，是人的心...<br>2020-09-22 09:24<br>赞(0) 踩(0) | <div>有春天得感觉</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358620393)<br>来生愿做一朵莲，静静开在...<br>2020-04-07 20:22<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4180906)<br>你好，虾小米<br>2020-04-07 09:26<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
@@ -75,7 +75,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302181165)<br>浩浩乎如冯虚御风……<br>2019-07-19 00:46<br>赞(1) 踩(0) | <div>这是什么神仙歌曲哟</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54959843)<br>未必爱我所听~<br>2019-06-14 22:20<br>赞(2) 踩(0) | <div>听了调子好熟悉，小时候听过邓丽君的同曲版《晚风花香》，谁能科普下原版歌名叫啥？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7782708)<br>万物皆自然，道法皆自然<br>2019-05-25 12:59<br>赞(7) 踩(0) | <div>又听孟姜女小调。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30577564)<br>大鱼小鱼<br>2019-04-25 18:09<br>赞(3) 踩(0) | <div>春有百花秋有月夏有凉风冬有雪若无闲事挂心头最是人间好时节朱雀桥边野草花乌衣巷口夕阳斜旧时王谢堂前燕飞入寻常百姓家杨柳青青江水平闻郎在江上唱歌声东边日出西边雨道是无情却有情桃花潭水深千尺可惜汪伦他不会游泳见了李白一冲动头重脚轻掉到了水中李白乘舟将欲行忽闻水中喊救命扑通一声跳了下去捞起来一看是汪伦李白同志，作为一名唐朝的老公务猿请问您下水救人的时候是怎么想的呢?啊，那天日照香炉升紫烟，天气很热飞流直下三千尺，我就下河洗了个澡就顺手把汪伦捞了起来桃花潭水深千尺怎及李白救我情</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30577564)<br>大鱼小鱼<br>2019-04-25 18:09<br>赞(3) 踩(0) | <div>春有百花秋有月<br>夏有凉风冬有雪<br>若无闲事挂心头<br>最是人间好时节<br><br>朱雀桥边野草花<br>乌衣巷口夕阳斜<br>旧时王谢堂前燕<br>飞入寻常百姓家<br><br>杨柳青青江水平<br>闻郎在江上唱歌声<br>东边日出西边雨<br>道是无情却有情<br><br>桃花潭水深千尺<br>可惜汪伦他不会游泳<br>见了李白一冲动<br>头重脚轻掉到了水中<br><br>李白乘舟将欲行<br>忽闻水中喊救命<br>扑通一声跳了下去<br>捞起来一看<br>是汪伦<br><br>李白同志，作为一名唐朝的老公务猿<br>请问您下水救人的时候是怎么想的呢?<br><br>啊，那天<br>日照香炉升紫烟，天气很热<br>飞流直下三千尺，我就下河洗了个澡<br>就顺手把汪伦捞了起来<br><br>桃花潭水深千尺<br>怎及李白救我情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83960554)<br>95后阿姨复古抖腿趴<br>2019-04-20 13:38<br>赞(1) 踩(0) | <div>通过搜歌词，李白乘舟将欲行</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/83960554)<br>95后阿姨复古抖腿趴<br>2019-04-20 13:36<br>赞(4) 踩(0) | <div>哭了，大一贼喜欢这首，然后！一直以为他叫春晓！一直查不到</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375685672)<br><br>2019-04-04 08:48<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
@@ -125,7 +125,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41724151)<br>我还没想好要写什么...<br>2018-03-25 12:53<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314168817)<br><br>2018-03-22 21:54<br>赞(0) 踩(0) | <div>女声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/207742358)<br>激情根植于痛苦，专注隐含...<br>2018-03-22 09:45<br>赞(0) 踩(0) | <div>最后那断话好好听   苏州话很棒棒</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82696708)<br>去遇见一棵树，去爱上一条...<br>2018-03-20 19:20<br>赞(1) 踩(0) | <div>听前半部分这是要一本正经的唱歌啊，虽然调调似老僧诵经后半部分&amp;hellip;&amp;hellip;却是个李太白大夏天洗澡救了旱鸭子汪伦的故事</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82696708)<br>去遇见一棵树，去爱上一条...<br>2018-03-20 19:20<br>赞(1) 踩(0) | <div>听前半部分<br>这是要一本正经的唱歌啊，<br>虽然调调似老僧诵经<br>后半部分&amp;hellip;&amp;hellip;<br><br>却是个李太白大夏天洗澡救了旱鸭子汪伦的故事</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194216084)<br>平安喜乐<br>2018-03-20 07:10<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/317044215)<br><br>2018-03-16 17:57<br>赞(3) 踩(0) | <div>曲调舒缓，悠悠然，透露着对生活无限倦恋，虽有疲惫，但不失对世事生活的坦然热爱。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345948914)<br><br>2018-03-12 11:16<br>赞(0) 踩(0) | <div>唱得好孤寂，好破落</div> |
@@ -141,7 +141,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13313040)<br>再好的相机也只能记录最美...<br>2018-02-07 21:23<br>赞(0) 踩(0) | <div>真牛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/343636570)<br><br>2018-02-05 15:08<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/ae0feff949a069865baa504ae10bbffe.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/235948576)<br>静守岁月<br>2018-02-05 12:36<br>赞(2) 踩(0) | <div></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241809514)<br>钵皿<br>2018-02-02 20:12<br>赞(4) 踩(0) | <div>那年初识，你自我介绍时念着这诗告诉我：我家住在乌衣巷！如今时过境迁 听这歌回想起和那个家住乌衣巷名字叫张毅的战友的那些陈年往事 真是憾慨万千&amp;hellip;&amp;hellip;朱雀桥边野草花，乌衣巷口夕阳斜。旧时王谢堂前燕，飞入寻常百姓家。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241809514)<br>钵皿<br>2018-02-02 20:12<br>赞(4) 踩(0) | <div>那年初识，你自我介绍时念着这诗告诉我：我家住在乌衣巷！<br>如今时过境迁 听这歌回想起和那个家住乌衣巷名字叫张毅的战友的那些陈年往事 真是憾慨万千&amp;hellip;&amp;hellip;<br>朱雀桥边野草花，<br>乌衣巷口夕阳斜。<br>旧时王谢堂前燕，<br>飞入寻常百姓家。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5687497)<br><br>2018-01-29 00:53<br>赞(2) 踩(0) | <div>还有猪叫声。。。。。哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333490775)<br>这家伙很聪明什么都不留下...<br>2018-01-24 08:22<br>赞(3) 踩(0) | <div>妙妙妙！妙不可言</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/631139)<br> 活出精彩<br>2018-01-22 12:36<br>赞(2) 踩(0) | <div>妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙妙</div> |
@@ -228,10 +228,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124065488)<br>文能提笔调戏美娇娘、武能...<br>2016-06-22 00:11<br>赞(2) 踩(0) | <div>我第一次花钱买歌、就是这首</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86378574)<br><br>2016-06-21 22:29<br>赞(1) 踩(0) | <div>词应该写成唐朝的老公务员～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/119929576)<br><br>2016-05-29 02:01<br>赞(0) 踩(0) | <div>就是这个调调</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13330601)<br>致虚极，守静笃。<br>2016-05-19 20:44<br>赞(3) 踩(0) | <div>“啊，那天：日照香炉升紫烟，天气太热了，飞流直下三千尺，下水洗个澡，顺手把汪伦救起来了。 ”哈哈哈哈！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13330601)<br>致虚极，守静笃。<br>2016-05-19 20:44<br>赞(3) 踩(0) | <div>“啊，那天：<br>日照香炉升紫烟，天气太热了，<br>飞流直下三千尺，下水洗个澡，<br>顺手把汪伦救起来了。 ”<br>哈哈哈哈！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13330601)<br>致虚极，守静笃。<br>2016-05-19 20:27<br>赞(0) 踩(0) | <div>见到李白一冲动，头重脚轻掉进水中。哈哈哈！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13330601)<br>致虚极，守静笃。<br>2016-05-18 11:32<br>赞(1) 踩(0) | <div>哈哈哈哈！！！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3728150)<br>我还没想好要写什么...<br>2016-05-17 15:01<br>赞(0) 踩(0) | <div>桃花潭水深千尺，怎及李白救我情哈哈哈，午后小轻松一下</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3728150)<br>我还没想好要写什么...<br>2016-05-17 15:01<br>赞(0) 踩(0) | <div>桃花潭水深千尺，怎及李白救我情<br>哈哈哈，午后小轻松一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35466298)<br><br>2016-05-12 22:31<br>赞(0) 踩(0) | <div>赞！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/127785770)<br><br>2016-05-11 23:15<br>赞(0) 踩(0) | <div>下雨的夜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86449650)<br>黄土之上 皆是虚妄<br>2016-04-28 15:37<br>赞(0) 踩(0) | <div>有毒啊</div> |
@@ -286,7 +286,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/118092)<br><br>2015-03-06 23:24<br>赞(0) 踩(0) | <div>惊蛰，春歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3855996)<br>昭和男儿<br>2015-03-05 17:40<br>赞(0) 踩(0) | <div>天了噜( ´ ▽ ` )居然有苏州话 好亲切惹</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5574135)<br><br>2012-02-25 22:40<br>赞(0) 踩(0) | <div>近来复听周云蓬的《春歌》，觉得好听的不行，歌词也很逗。“桃花潭水深千尺，可惜汪伦他不会游泳。 见那李白一冲动，头重脚轻掉到了水中。”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315527)<br><br>2011-08-30 13:02<br>赞(0) 踩(0) | <div>期待更美的人到来 期待更好的人到来期待我们的灵魂附体 重新回来重新回来 重新回来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315527)<br><br>2011-08-30 13:02<br>赞(0) 踩(0) | <div>期待更美的人到来 期待更好的人到来<br>期待我们的灵魂附体 重新回来<br>重新回来 重新回来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/558689)<br>冰冷的热烈<br>2011-05-10 23:21<br>赞(0) 踩(0) | <div>声音有了...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253155)<br><br>2010-09-25 10:49<br>赞(0) 踩(0) | <div>在秋季听到春天的美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/641340)<br><br>2010-09-19 19:14<br>赞(1) 踩(0) | <div>怎么好象是广场中老人们舞太极剑时候的调调呢</div> |
@@ -294,14 +294,14 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/251682)<br><br>2010-09-16 23:33<br>赞(0) 踩(0) | <div>这个曲子改变自何训田老师滴《春歌》吧~~另一种风味，呵呵</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11353)<br><br>2010-09-16 19:43<br>赞(1) 踩(0) | <div>非常非常特别的一首，一定要听。简单，俏皮，又有感情。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1448810)<br><br>2010-09-15 21:25<br>赞(0) 踩(0) | <div>开头四句是这是宋代禅宗「无门禅师」的一首诗偈，后面四句是唐代刘禹锡的《乌衣巷 》,应该大多数人都背过,然后是刘禹锡的《竹枝词》。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96422)<br><br>2010-09-14 15:13<br>赞(189) 踩(0) | <div>苏州话《不会说话的爱情》绣花绣得累了牛羊也下山咯我们烧自己的房子和身体生起火来解开你的红肚带洒一床雪花白普天下所有的水都在你的眼中荡开没有窗亮着灯没有人在途中我们的木床唱起歌说幸福它走了我最亲爱的姐呀我最亲爱的妹呀我最可怜的皇后我屋旁的小白菜日子快到头了果子要熟透了我们最后一次收割对方从此仇深似海你去你的未来我去我的未来我们只能在彼此的梦境里虚幻地徘徊徘徊在你的未来徘徊在我的未来徘徊在火里水里汤里冒着热气期待期待更美的人到来期待更好的人到来期待我们往昔的灵魂附体重新回来重新回来重新回来</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96422)<br><br>2010-09-14 15:13<br>赞(189) 踩(0) | <div>苏州话《不会说话的爱情》<br><br>绣花绣得累了<br>牛羊也下山咯<br>我们烧自己的房子和身体<br>生起火来<br><br>解开你的红肚带<br>洒一床雪花白<br>普天下所有的水<br>都在你的眼中荡开<br><br>没有窗亮着灯<br>没有人在途中<br>我们的木床唱起歌说幸福它走了<br><br>我最亲爱的姐呀<br>我最亲爱的妹呀<br>我最可怜的皇后<br>我屋旁的小白菜<br><br>日子快到头了<br>果子要熟透了<br>我们最后一次收割对方<br>从此仇深似海<br><br>你去你的未来<br>我去我的未来<br>我们只能在彼此的梦境里<br>虚幻地徘徊<br><br>徘徊在你的未来<br>徘徊在我的未来<br>徘徊在火里水里汤里<br>冒着热气期待<br><br>期待更美的人到来<br>期待更好的人到来<br>期待我们往昔的灵魂附体<br>重新回来<br>重新回来<br>重新回来</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/64069018)<br><br>2017-05-31 14:18<br>赞(0) 踩(0) | <div>苏州话好好听啊</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329928953)<br><br>2017-11-01 15:52<br>赞(0) 踩(0) | <div>和《金陵十三钗》里的话相仿</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69049020)<br><br>2018-05-01 20:44<br>赞(0) 踩(0) | <div><q><b>鼓楼下的酒汉子说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329928953)<br><br>2018-05-11 09:14<br>赞(0) 踩(0) | <div><q><b>南一先生说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/329928953)<br><br>2018-06-05 08:57<br>赞(0) 踩(0) | <div><q><b>南一先生说：</b></q></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11749324)<br>对了一部分并不等于错。。<br>2019-06-10 00:04<br>赞(0) 踩(0) | <div>收割对方？！！！打炮说得最文艺的词</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96422)<br><br>2010-09-14 15:10<br>赞(33) 踩(0) | <div>春有百花秋有月夏有凉风冬有雪若无闲事挂心头最是人间好时节朱雀桥边野草花乌衣巷口夕阳斜旧时王谢堂前燕飞入寻常百姓家杨柳青青江水平闻郎在江上唱歌声东边日出西边雨道是无情却有情桃花潭水深千尺可惜汪伦他不会游泳见了李白一冲动头重脚轻掉到了水中李白乘舟将欲行忽闻水中喊救命扑通一声跳了下去捞起来一看是汪伦李白同志，作为一名唐朝的老工人党员请问您下水救人的时候是怎么想的呢?啊，那天日照香炉升紫烟，天气很热飞流直下三千尺，我就下河洗了个澡就顺手把汪伦捞了起来桃花潭水深千尺怎及李白救我情</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96422)<br><br>2010-09-14 15:10<br>赞(33) 踩(0) | <div>春有百花秋有月<br>夏有凉风冬有雪<br>若无闲事挂心头<br>最是人间好时节<br><br>朱雀桥边野草花<br>乌衣巷口夕阳斜<br>旧时王谢堂前燕<br>飞入寻常百姓家<br><br>杨柳青青江水平<br>闻郎在江上唱歌声<br>东边日出西边雨<br>道是无情却有情<br><br>桃花潭水深千尺<br>可惜汪伦他不会游泳<br>见了李白一冲动<br>头重脚轻掉到了水中<br><br>李白乘舟将欲行<br>忽闻水中喊救命<br>扑通一声跳了下去<br>捞起来一看<br>是汪伦<br><br>李白同志，作为一名唐朝的老工人党员<br>请问您下水救人的时候是怎么想的呢?<br><br>啊，那天<br>日照香炉升紫烟，天气很热<br>飞流直下三千尺，我就下河洗了个澡<br>就顺手把汪伦捞了起来<br><br>桃花潭水深千尺<br>怎及李白救我情</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348949538)<br><br>2019-01-23 16:07<br>赞(0) 踩(0) | <div>老共产党员 换成老公务员更好 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/365375747)<br><br>2021-02-04 23:58<br>赞(0) 踩(0) | <div>來點</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35579)<br><br>2010-09-14 14:50<br>赞(1) 踩(0) | <div>歌词挺搞笑</div> |

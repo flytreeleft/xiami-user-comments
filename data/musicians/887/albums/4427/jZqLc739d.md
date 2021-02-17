@@ -54,8 +54,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308314031)<br>步子要一步一步走，步子太...<br>2021-01-12 00:00<br>赞(0) 踩(0) | <div>65432</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308314031)<br>步子要一步一步走，步子太...<br>2021-01-12 00:00<br>赞(0) 踩(0) | <div>5432</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308314031)<br>步子要一步一步走，步子太...<br>2021-01-11 23:57<br>赞(0) 踩(0) | <div>432</div> |
@@ -110,7 +110,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250666536)<br><br>2019-01-03 08:53<br>赞(4) 踩(0) | <div>好听！好听！好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377343543)<br><br>2018-09-16 19:56<br>赞(3) 踩(0) | <div>不用想了，小皮裤已经被国际章拿下了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403009358)<br><br>2018-09-15 10:50<br>赞(3) 踩(0) | <div>好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197282814)<br>我还没想好要写什么...<br>2018-09-14 19:59<br>赞(4) 踩(0) | <div>Gsu我是yyu，从朋友口中知道你的婚纱照都已经拍了，肯定很美吧，我们的老旧结局应该发生在，也早就停止在2011年的夏天，停留在已经消失的携手走过的回家小路和夜晚相拥的操场，谢谢你一直履行着你答应过的一切，哪怕一个字你都没有食言，而我&amp;hellip;我们的结局并没有因为当年十几二十岁两个人的祈祷而免于世俗，世事沧桑，如今你我早已不是当初能不想不闻一切的青春年华，今天我希望我一个人的祝福能让你一辈子幸福，我的初恋，我永远爱你。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/197282814)<br>我还没想好要写什么...<br>2018-09-14 19:59<br>赞(4) 踩(0) | <div>Gsu我是yyu，从朋友口中知道你的婚纱照都已经拍了，肯定很美吧，我们的老旧结局应该发生在，也早就停止在2011年的夏天，停留在已经消失的携手走过的回家小路和夜晚相拥的操场，谢谢你一直履行着你答应过的一切，哪怕一个字你都没有食言，而我&amp;hellip;<br>我们的结局并没有因为当年十几二十岁两个人的祈祷而免于世俗，世事沧桑，如今你我早已不是当初能不想不闻一切的青春年华，今天我希望我一个人的祝福能让你一辈子幸福，我的初恋，我永远爱你。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/181106954)<br><br>2018-09-14 14:53<br>赞(4) 踩(0) | <div>也不错，差许巍点</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/376762781)<br>心若冰清，天塌不惊。万变...<br>2018-09-14 12:11<br>赞(1) 踩(0) | <div>正反的我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81392336)<br>天秤座Libra<br>2018-09-12 15:52<br>赞(1) 踩(0) | <div>抖音来的</div> |
@@ -167,7 +167,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349284581)<br><br>2018-05-27 15:52<br>赞(1) 踩(0) | <div>这首歌一开始跟陈琳的《爱就爱了》的感觉有点像 <img src="../../../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247973875)<br>为自己的心找一个家<br>2018-05-23 20:23<br>赞(0) 踩(0) | <div>来吧，陌生人，一起走在雨中，淅沥沥，纷纷扬</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/304690629)<br>我还没想好要写什么...<br>2018-05-23 09:00<br>赞(0) 踩(0) | <div>这首歌配得上专辑的名字&amp;mdash;&amp;mdash;爱是一颗幸福的子弹</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348131591)<br>同一首歌，同一故事……<br>2018-05-22 09:08<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">雨中倾听别有一番风味</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348131591)<br>同一首歌，同一故事……<br>2018-05-22 09:08<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"><br>雨中倾听<br>别有一番风味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340333052)<br><br>2018-05-21 14:08<br>赞(0) 踩(0) | <div>在一切甜蜜的疯狂的&amp;hellip;&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19109077)<br><br>2018-05-20 17:10<br>赞(0) 踩(0) | <div>&amp;hellip;&amp;hellip;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190743936)<br>我哪里也不去，我一直都在...<br>2018-05-19 22:59<br>赞(1) 踩(0) | <div>2002年，汪峰还是汪峰，在科文厅，唱着在雨中。</div> |
@@ -180,7 +180,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311659642)<br>江南可采莲<br>2018-05-09 14:30<br>赞(4) 踩(0) | <div>我想对汪峰说，我喜欢章子怡</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32687507)<br><br>2018-05-08 03:20<br>赞(0) 踩(0) | <div>留名</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359099303)<br>找回自己<br>2018-05-06 16:41<br>赞(2) 踩(0) | <div>特殊的场景，特殊的心境，却有相似，又不类同。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248013925)<br><br>2018-05-03 08:59<br>赞(1) 踩(0) | <div>[回复@&amp;lrm;&amp;middot;（人高一／&amp;middot;&amp;middot;3232620</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248013925)<br><br>2018-05-03 08:59<br>赞(1) 踩(0) | <div>[回复@&amp;lrm;&amp;middot;（人高一<br>／<br>&amp;middot;&amp;middot;<br>32<br>3262<br>0</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48987630)<br> <br>2018-05-02 02:14<br>赞(0) 踩(0) | <div>每次听到这首歌，都会想起和你初识的感觉，最美好的，莫过于此。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316432960)<br><br>2018-04-23 18:28<br>赞(0) 踩(0) | <div>老汪</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22433384)<br>暂无签名~<br>2018-04-21 22:31<br>赞(1) 踩(0) | <div>记得04年(还是05年忘了)买这张专辑是冲着&amp;ldquo;英雄&amp;rdquo;这首歌去下去的</div> |
@@ -199,7 +199,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77718446)<br><br>2018-04-04 15:11<br>赞(0) 踩(0) | <div>再早点查着，都是猿人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51876054)<br>王三运李老八袁先隆全部疯...<br>2018-03-10 16:48<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12422195)<br>我还没想好要写什么...<br>2018-03-08 22:09<br>赞(0) 踩(0) | <div>艳阳大雨，春夏秋冬。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348574059)<br>还没能明白，怎样最自在。<br>2018-03-07 11:54<br>赞(193) 踩(0) | <div>有时你自己可能都没察觉在你经历一些事或遇到某个人后你就像换了一种性格悄悄地告别了从前的自己</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348574059)<br>还没能明白，怎样最自在。<br>2018-03-07 11:54<br>赞(193) 踩(0) | <div>有时你自己可能都没察觉<br>在你经历一些事或遇到某个人后<br>你就像换了一种性格<br>悄悄地告别了从前的自己</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351101757)<br><br>2018-06-13 07:25<br>赞(0) 踩(0) | <div>一:，-</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/364623070)<br><br>2018-06-13 21:02<br>赞(0) 踩(0) | <div>感觉分手对一个人影响最大</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/190068442)<br>新年慢乐<br>2018-06-25 03:35<br>赞(0) 踩(0) | <div>感觉到了。</div> |
@@ -266,12 +266,12 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11875023)<br><br>2017-10-30 10:15<br>赞(1) 踩(0) | <div>最近喜欢听汪峰的歌，歌词也写得不错。《存在》分享给你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8700220)<br><br>2017-10-30 09:51<br>赞(1) 踩(0) | <div>在这场淅沥沥哗啦啦纷纷扬的雨中……下雨天习惯单曲循环这调！早安，雨天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327553306)<br><br>2017-10-29 11:21<br>赞(0) 踩(0) | <div>这首汪峰的哥，值得一听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5141649)<br>人面<br>2017-10-28 00:09<br>赞(0) 踩(0) | <div>在这场淅沥沥哗啦啦纷纷扬的雨中我们还能不能像从前那样 紧紧相拥在一切甜蜜的疯狂的 都过去的 今天我们还能不能像昨天那样拥抱在雨中</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5141649)<br>人面<br>2017-10-28 00:09<br>赞(0) 踩(0) | <div>在这场淅沥沥哗啦啦纷纷扬的雨中<br>我们还能不能像从前那样 紧紧相拥<br><br>在一切甜蜜的疯狂的 都过去的 今天<br>我们还能不能像昨天那样拥抱在雨中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1648928)<br><br>2017-10-28 00:07<br>赞(1) 踩(0) | <div>重庆终于下雨了，电闪雷鸣，是我最爱的天气。寝室所有电脑同时放出汪峰的《在雨中》，每个人都掉进了回忆。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/192888975)<br><br>2017-12-09 21:05<br>赞(0) 踩(0) | <div>问:寝室所有电脑是 <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1648928)<br><br>2017-10-28 00:07<br>赞(0) 踩(0) | <div>重庆终于下雨了，电闪雷鸣，是我最爱的天气。寝室所有电脑同时放出汪峰的《在雨中》，每个人都掉进了回忆。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1682810)<br><br>2017-10-27 23:59<br>赞(1) 踩(0) | <div>在这场淅沥沥 哗啦啦 纷纷扬的雨中在一切甜蜜的疯狂的　都远去的今天</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/391729)<br><br>2017-10-27 23:58<br>赞(0) 踩(0) | <div>今夜，在雨中宁静在这场淅沥沥哗啦啦纷纷扬的雨中我们还能不能像从前那样紧紧相拥在一切甜蜜的疯狂的都远去的今天我们还能不能像昨天那样拥抱在雨中在雨中想起你的模样</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1682810)<br><br>2017-10-27 23:59<br>赞(1) 踩(0) | <div>在这场淅沥沥 哗啦啦 纷纷扬的雨中<br>在一切甜蜜的疯狂的　都远去的今天</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/391729)<br><br>2017-10-27 23:58<br>赞(0) 踩(0) | <div>今夜，在雨中宁静<br>在这场淅沥沥哗啦啦纷纷扬的雨中<br>我们还能不能像从前那样紧紧相拥<br>在一切甜蜜的疯狂的都远去的今天<br>我们还能不能像昨天那样拥抱在雨中<br>在雨中想起你的模样</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6679629)<br>生活的艺术在于一切简单化<br>2017-10-27 23:18<br>赞(0) 踩(0) | <div>在雨中，送给@人众人-小猪猪猪，在这场淅沥沥 哗啦啦 纷纷扬的雨中，有没有美女与你相拥，哈哈哈哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7812911)<br><br>2017-10-27 23:09<br>赞(0) 踩(0) | <div>早上这雨下得是真厦门。 真是痛快。显然我是那个有伞的[哈哈]  也发生了很多不常见的趣事。 也是我喜欢下雨的清爽 但可惜听过关于雨的歌还真是少。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45421442)<br>回忆就是再也回不去了。<br>2017-10-26 20:38<br>赞(2) 踩(0) | <div>汪峰多才多艺，男人的声音与气质共存。</div> |
@@ -329,7 +329,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54248456)<br>专业专一执着自由创造超卓...<br>2015-08-08 15:44<br>赞(0) 踩(0) | <div>外勤365 追踪神器</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34481800)<br>心态好 一切都好...<br>2015-08-07 10:50<br>赞(0) 踩(0) | <div>06年听的，比较爱的，现在听听 还是那个味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28036920)<br><br>2015-08-06 21:39<br>赞(128) 踩(0) | <div>不敢相信这是小皮裤的歌 <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228179373)<br>假若爱有天意<br>2017-10-02 15:15<br>赞(0) 踩(0) | <div>两年后 我来回复你说得好</div> |
+| ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228179373)<br>假若爱有天意<br>2017-10-02 15:15<br>赞(0) 踩(0) | <div>两年后 我来回复你<br>说得好</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332965333)<br><br>2017-11-23 13:33<br>赞(0) 踩(0) | <div>刚出就听过。一个风雨交加的夜晚，听的电台，从此一喜欢就是10多年。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299311820)<br>爱我你就抱抱我<br>2017-12-22 13:40<br>赞(0) 踩(0) | <div>哈哈哈</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27719756)<br>暂无签名~<br>2017-12-29 14:21<br>赞(0) 踩(0) | <div>皮裤防水。</div> |
@@ -377,7 +377,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25956467)<br><br>2015-05-17 00:06<br>赞(0) 踩(0) | <div>既然徐仙子突发奇想说我的偶像是汪峰并且深受汪峰摇滚梦的影响</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41482875)<br><br>2015-05-14 06:59<br>赞(0) 踩(0) | <div>今天虾米推荐的歌单不错呢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43386302)<br>Yep yep <br>2015-05-13 04:11<br>赞(1) 踩(0) | <div>I love this guy</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-05-12 03:44<br>赞(2) 踩(0) | <div>在这场淅沥沥 哗啦啦 纷纷扬的雨中我们还能不能像从前那样　紧紧相拥在一切甜蜜的疯狂的　都远去的今天我们还能不能像昨天那样拥抱在雨中</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2015-05-12 03:44<br>赞(2) 踩(0) | <div>在这场淅沥沥 哗啦啦 纷纷扬的雨中<br>我们还能不能像从前那样　紧紧相拥<br>在一切甜蜜的疯狂的　都远去的今天<br>我们还能不能像昨天那样拥抱在雨中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48471703)<br>...<br>2015-05-08 22:40<br>赞(1) 踩(0) | <div>鲍家街</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46813879)<br>等等等等<br>2015-05-07 19:26<br>赞(3) 踩(0) | <div>蹲大号听到了这个～ <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"> <img src="../../../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16184526)<br>上帝的苹果<br>2015-05-06 08:18<br>赞(0) 踩(0) | <div>突然那么悲伤那么疯狂</div> |
@@ -387,7 +387,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30543314)<br><br>2015-04-21 00:21<br>赞(0) 踩(0) | <div>淅沥沥哗啦啦。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47932558)<br>黑夜不眠夜<br>2015-04-13 19:33<br>赞(0) 踩(0) | <div>下班时间，适合放松的时候，听首歌吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48719931)<br><br>2015-04-10 08:32<br>赞(1) 踩(0) | <div>#听音乐# 百听不厌的旋律，适合在高速路上，一个人开车时听。在公交车上听，有点怪。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26099749)<br>一切皆可行<br>2015-04-09 21:46<br>赞(0) 踩(0) | <div>在雨中/　想起你的模样/感觉那么温暖　/那么哀伤刹那间　/你似乎就在眼前/一切好像 /回到了从前</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26099749)<br>一切皆可行<br>2015-04-09 21:46<br>赞(0) 踩(0) | <div>在雨中/　想起你的模样/<br>感觉那么温暖　/那么哀伤<br>刹那间　/你似乎就在眼前/<br>一切好像 /回到了从前</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34360848)<br>不勤于始，将悔于终<br>2015-04-03 23:33<br>赞(0) 踩(0) | <div>想说点什么，可又不知从何说起</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47842202)<br>爱音乐，爱咖啡！生活如此...<br>2015-03-05 11:17<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33250449)<br><br>2015-02-24 22:03<br>赞(0) 踩(0) | <div>让雨淅沥沥的下吧，下在心中……</div> |
@@ -473,13 +473,13 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19964144)<br><br>2013-08-22 15:18<br>赞(0) 踩(0) | <div>我也一直在风雨中成长，所以叫雨中男人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18989475)<br><br>2013-08-11 06:06<br>赞(0) 踩(0) | <div>＂在雨中＂真好听，真解气，热血沸腾，摇滚真给劲儿，真痛快。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2448735)<br><br>2013-08-09 07:09<br>赞(0) 踩(0) | <div>停不下来~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11308079)<br> <br>2013-08-08 13:31<br>赞(0) 踩(0) | <div>&amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039;&amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039;&amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039;&amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11308079)<br> <br>2013-08-08 13:31<br>赞(0) 踩(0) | <div>&amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039;<br>&amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039;<br>&amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039; &amp;#039;<br>&amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;  &amp;#039;</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-08-06 13:17<br>赞(0) 踩(0) | <div>那年 北京的雨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-08-06 13:12<br>赞(0) 踩(0) | <div>想起那些年的大雨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3434310)<br><br>2013-08-05 03:26<br>赞(0) 踩(0) | <div>这是我听汪峰的第一首歌，现在听起来还是那么有感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18520876)<br><br>2013-08-04 21:35<br>赞(0) 踩(0) | <div>。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10657632)<br>QQ：411048530<br>2013-08-03 13:46<br>赞(0) 踩(0) | <div>一首歌一段回忆</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15739939)<br><br>2013-07-28 00:39<br>赞(0) 踩(0) | <div>#每日一歌#在雨中，看见你的身影。突然那么悲伤，那么疯狂。刹那间，往事涌上心头时光飞逝，掉进了回忆......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15739939)<br><br>2013-07-28 00:39<br>赞(0) 踩(0) | <div>#每日一歌#在雨中，看见你的身影。突然那么悲伤，那么疯狂。刹那间，往事涌上心头<br>时光飞逝，掉进了回忆......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6903953)<br><br>2013-07-27 05:05<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18041871)<br><br>2013-07-26 18:10<br>赞(0) 踩(0) | <div>在这场淅沥沥哗啦啦纷纷扬的雨中，在一切甜蜜的疯狂的都远去的今天。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9447028)<br><br>2013-07-21 22:56<br>赞(0) 踩(0) | <div>在雨中...</div> |
@@ -494,7 +494,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16080230)<br><br>2013-07-15 22:43<br>赞(0) 踩(0) | <div>回味是一首歌，我们总是自得其乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16080230)<br><br>2013-07-15 22:06<br>赞(0) 踩(0) | <div>回味是一首歌，我们总是自得其乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13256052)<br><br>2013-07-13 13:06<br>赞(0) 踩(0) | <div>这时节，很适合汪峰的《在雨中》！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1564116)<br><br>2013-07-12 08:59<br>赞(0) 踩(0) | <div>在这场淅沥沥哗啦啦 纷纷扬的雨中。。。我还能能不能像从前那样 ， 紧紧相拥。。。汪峰-《在雨中》，久违了，单曲循环中。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1564116)<br><br>2013-07-12 08:59<br>赞(0) 踩(0) | <div>在这场淅沥沥哗啦啦 纷纷扬的雨中。。。<br>我还能能不能像从前那样 ， 紧紧相拥。。。<br>汪峰-《在雨中》，久违了，单曲循环中。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1478987)<br><br>2013-07-10 19:57<br>赞(0) 踩(0) | <div>明天还得随份子去，真心木有钱了啦，下着雨听着这歌怎么这么伤感呢？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16806035)<br><br>2013-07-04 18:53<br>赞(0) 踩(0) | <div>#七彩青春# 等待一天的雨终于落下，和着淅淅沥沥的雨滴声，来听首歌吧。 汪峰《在雨中》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8395189)<br><br>2013-06-23 17:54<br>赞(0) 踩(0) | <div>外面在下着暴雨，iPod里将将好响起了这首歌，灵额灵额[鼓掌]</div> |
@@ -535,8 +535,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5010708)<br><br>2013-01-22 10:44<br>赞(0) 踩(0) | <div>这阴霾的天...</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1020922)<br>让我看下签名是显示在哪儿<br>2013-01-20 21:49<br>赞(0) 踩(0) | <div>@派斗龙的邻家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1749566)<br><br>2013-01-11 18:44<br>赞(1) 踩(0) | <div>汪峰就是个传奇</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13552)<br><br>2012-12-30 13:15<br>赞(0) 踩(0) | <div>在一切甜蜜的疯狂的　都远去的今天我们还能不能像昨天那样拥抱在雨中</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5452160)<br><br>2012-12-29 03:01<br>赞(0) 踩(0) | <div>多少人走着却困在原地多少人活着却如同死去多少人爱着却好似分离多少人笑着却满含泪滴</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13552)<br><br>2012-12-30 13:15<br>赞(0) 踩(0) | <div>在一切甜蜜的疯狂的　都远去的今天<br>我们还能不能像昨天那样拥抱在雨中</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5452160)<br><br>2012-12-29 03:01<br>赞(0) 踩(0) | <div>多少人走着却困在原地<br>多少人活着却如同死去<br>多少人爱着却好似分离<br>多少人笑着却满含泪滴</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8367331)<br><br>2012-12-14 07:30<br>赞(0) 踩(0) | <div>在雪中一样。驾驶时FM90在播，望着飞舞的雪花真好听。可后驱不宜雪天，进工厂大门时，路人在帮我推车。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8367331)<br><br>2012-12-14 07:23<br>赞(0) 踩(0) | <div>在雪中是一样的。驾驶时FM90在播，望着飞舞的雪花真好听。可后驱不适宜雪天，进工厂大门的时，路人在帮我推车。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11716756)<br><br>2012-11-29 22:08<br>赞(0) 踩(0) | <div>送歌 晚安</div> |
@@ -562,7 +562,7 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353612864)<br><br>2018-09-08 23:19<br>赞(0) 踩(0) | <div>我就是北方男人，哈哈</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5610899)<br>暂无签名~<br>2012-11-16 15:10<br>赞(0) 踩(0) | <div>淅沥沥哗啦啦纷纷扬，，，，，，</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11093034)<br><br>2012-10-17 16:02<br>赞(0) 踩(0) | <div>rain</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11076487)<br><br>2012-10-16 08:33<br>赞(0) 踩(0) | <div>在雨中　看见你的身影突然那么悲伤　那么疯狂刹那间　往事涌上心头时光飞逝　掉进了回忆在一切甜蜜的疯狂的　都远去的今天我们还能不能像昨天那样拥抱在雨中在雨中　想起你的模样感觉那么温暖　那么哀伤很多次　一起走在雨中那个情景　浪漫如梦在黑暗中我们紧紧相拥</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11076487)<br><br>2012-10-16 08:33<br>赞(0) 踩(0) | <div>在雨中　看见你的身影<br>突然那么悲伤　那么疯狂<br><br>刹那间　往事涌上心头<br>时光飞逝　掉进了回忆<br><br>在一切甜蜜的疯狂的　都远去的今天<br>我们还能不能像昨天那样拥抱在雨中<br><br>在雨中　想起你的模样<br>感觉那么温暖　那么哀伤<br><br>很多次　一起走在雨中<br>那个情景　浪漫如梦<br>在黑暗中<br>我们紧紧相拥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/819638)<br><br>2012-10-16 08:27<br>赞(0) 踩(0) | <div>今天听起来很带感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1329826)<br><br>2012-10-14 20:54<br>赞(0) 踩(0) | <div>这歌让我想到王菲的《感情生活》、前奏太像了···</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/680877)<br><br>2012-10-14 20:13<br>赞(0) 踩(0) | <div>昨天在地铁站外听到的  很有那些年的情愫 分享了～</div> |
@@ -579,7 +579,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8395189)<br><br>2012-08-08 23:30<br>赞(0) 踩(0) | <div>在这场淅沥沥 哗啦啦 纷纷扬的雨中...今晚应一应台风“海葵”这个景找来这首歌听，这歌听着真痛快。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9871632)<br> <br>2012-08-07 12:55<br>赞(0) 踩(0) | <div>每次听都有不同的感受……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3830782)<br>我还没想好要写什么...<br>2012-08-04 21:22<br>赞(0) 踩(0) | <div>今晚听汪峰。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/599326)<br>永远年轻，永远热泪盈眶~<br>2012-07-27 12:54<br>赞(0) 踩(0) | <div>在这场淅沥沥哗啦啦纷纷扬的雨中我们还能不能像从前那样紧紧相拥.......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/599326)<br>永远年轻，永远热泪盈眶~<br>2012-07-27 12:54<br>赞(0) 踩(0) | <div>在这场淅沥沥<br>哗啦啦<br>纷纷扬的雨中<br>我们还能不能像从前那样<br>紧紧相拥<br>.......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2585591)<br>武功再高，也怕菜刀<br>2012-07-21 19:03<br>赞(0) 踩(0) | <div>雨中系列之四：在雨中~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/795318)<br><br>2012-07-20 22:09<br>赞(0) 踩(0) | <div>在当今流行乐坛。我似乎只认得和欣赏汪峰那沙哑的嗓音和略带忧郁的歌声。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2880545)<br>前进！一直前进！向着有阳<br>2012-07-02 18:16<br>赞(0) 踩(0) | <div>每到闷热的夏天，就会想念这首歌曲，戴着耳机静静听，突然觉得，三十五六度的天气，也没那么燥热了。</div> |
@@ -592,7 +592,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2610542)<br><br>2012-06-25 00:12<br>赞(0) 踩(0) | <div>在这场淅沥沥 哗啦啦 纷纷扬的雨中  我们还能不能像从前那样  紧紧相拥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5073144)<br><br>2012-06-23 10:28<br>赞(0) 踩(0) | <div>为什么离别的时刻总是下着小雨，为什么离别的时刻总是如此匆匆，我不喜欢下雨，因为，我不想迈开离别的脚步……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6934533)<br><br>2012-06-18 11:26<br>赞(0) 踩(0) | <div>今天雷打得这么响 雨下得这么大 听点应景的歌。。。（这雷打得心脏不好的还真不行）</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5744395)<br>这家伙是个坏蛋<br>2012-06-14 18:18<br>赞(0) 踩(0) | <div>在这场淅沥沥哗啦啦纷纷扬的雨中我们还能不能像从前那样 紧紧相拥在一切甜蜜的疯狂的都远去的今天我们还能不能像昨天那样 拥抱在雨中</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5744395)<br>这家伙是个坏蛋<br>2012-06-14 18:18<br>赞(0) 踩(0) | <div>在这场淅沥沥哗啦啦纷纷扬的雨中<br>我们还能不能像从前那样 紧紧相拥<br>在一切甜蜜的疯狂的都远去的今天<br>我们还能不能像昨天那样 拥抱在雨中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5812965)<br><br>2012-06-13 21:55<br>赞(0) 踩(0) | <div>突然那么悲伤　那么疯狂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9306731)<br><br>2012-06-09 10:49<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7899657)<br><br>2012-06-03 12:42<br>赞(0) 踩(0) | <div>过去的真的过去了。</div> |
@@ -610,7 +610,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4118359)<br>XXXXinceptio...<br>2012-04-11 09:11<br>赞(1) 踩(0) | <div>他妈的不是一般的好听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2477368)<br>性别女爱好女<br>2012-04-10 21:17<br>赞(0) 踩(0) | <div>真想出去淋雨</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2827773)<br> <br>2012-04-08 18:49<br>赞(0) 踩(0) | <div>在雨中</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2827773)<br> <br>2012-04-08 18:46<br>赞(0) 踩(0) | <div>那天开着车 行驶在秦岭山里 突然下起雨 电台里响起这首歌 眼睛一下湿润了 看着飞驰而过的景色 听见雨滴敲打车窗的声音 撕心裂肺的痛········ 突然那么的悲伤 刹那间　往事涌上心头 时光飞逝　掉进了回忆 在黑暗中　我们紧紧相拥 我们还能不能像从前那样　紧紧相拥  在一切甜蜜的疯狂的　都远去的今天  我们还能不能像昨天那样拥抱在雨中  在雨中　想起你的模样  感觉那么温暖　那么哀伤 一切好像 回到了从前对不起 不知你能原谅我吗 我真的好想你 忘不了你</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2827773)<br> <br>2012-04-08 18:46<br>赞(0) 踩(0) | <div>那天开着车 行驶在秦岭山里 突然下起雨 电台里响起这首歌 眼睛一下湿润了 看着飞驰而过的景色 听见雨滴敲打车窗的声音 撕心裂肺的痛········ 突然那么的悲伤 刹那间　往事涌上心头 时光飞逝　掉进了回忆 在黑暗中　我们紧紧相拥 我们还能不能像从前那样　紧紧相拥  在一切甜蜜的疯狂的　都远去的今天  我们还能不能像昨天那样拥抱在雨中  在雨中　想起你的模样  感觉那么温暖　那么哀伤 一切好像 回到了从前<br>对不起 不知你能原谅我吗 我真的好想你 忘不了你</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1337397)<br>心似明月在天涯<br>2012-04-05 21:34<br>赞(0) 踩(0) | <div>突然的就想听这首歌...............曾经无数次单曲循环。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7565102)<br>silence<br>2012-04-05 10:42<br>赞(0) 踩(0) | <div>同样下雨天</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/665322)<br><br>2012-03-30 09:29<br>赞(0) 踩(0) | <div>今天又是个雨天，听首应景的歌儿吧~</div> |
@@ -667,7 +667,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/537022)<br><br>2011-04-13 18:05<br>赞(0) 踩(0) | <div>ri</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3407818)<br><br>2011-04-08 22:16<br>赞(0) 踩(0) | <div>受不了了...这首歌太太太什么了!太喜欢勒....</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/742046)<br><br>2011-04-05 16:08<br>赞(0) 踩(0) | <div>喜欢。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2663390)<br><br>2011-04-05 11:10<br>赞(0) 踩(0) | <div>在这场淅沥沥 哗啦啦 纷纷扬的雨中我们还能不能像从前那样　紧紧相拥在一切甜蜜的疯狂的　都远去的今天我们还能不能像昨天那样拥抱在雨中</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2663390)<br><br>2011-04-05 11:10<br>赞(0) 踩(0) | <div>在这场淅沥沥 哗啦啦 纷纷扬的雨中<br>我们还能不能像从前那样　紧紧相拥<br>在一切甜蜜的疯狂的　都远去的今天<br>我们还能不能像昨天那样拥抱在雨中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2988084)<br><br>2011-04-04 00:39<br>赞(0) 踩(0) | <div>漂亮..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3381535)<br>行走的过程中有一种感觉混<br>2011-03-30 17:20<br>赞(0) 踩(0) | <div>在雨中</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3002821)<br><br>2011-03-27 17:34<br>赞(0) 踩(0) | <div>随着音乐摇摆</div> |
@@ -681,7 +681,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2633090)<br><br>2011-02-11 13:57<br>赞(0) 踩(0) | <div>第一次听这么欢快的歌曲，能让我流泪的！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2708496)<br><br>2011-02-06 22:56<br>赞(0) 踩(0) | <div>浪漫的记忆总是美的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/675613)<br>那束粉色的光温柔的照进我...<br>2011-02-06 11:37<br>赞(0) 踩(0) | <div>对这首歌的mv印象很深</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270130)<br>いつも何度でも<br>2011-02-03 18:50<br>赞(0) 踩(0) | <div>在雨中　看见你的身影突然那么悲伤　那么疯狂刹那间　往事涌上心头时光飞逝　掉进了回忆</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270130)<br>いつも何度でも<br>2011-02-03 18:50<br>赞(0) 踩(0) | <div>在雨中　看见你的身影<br>突然那么悲伤　那么疯狂<br>刹那间　往事涌上心头<br>时光飞逝　掉进了回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/860165)<br><br>2011-01-22 15:28<br>赞(0) 踩(0) | <div>在一切甜蜜的疯狂的都远去的今天，我们还能不能像昨天那样拥抱在雨中？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1667466)<br>囧色夫<br>2011-01-17 04:49<br>赞(0) 踩(0) | <div>——《爱是一颗幸福的子弹》，而且要让这颗子弹飞一会儿。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2054899)<br><br>2011-01-16 22:37<br>赞(0) 踩(0) | <div>无理由的喜欢</div> |
@@ -701,7 +701,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5)<br>三男一狗<br>2010-05-17 20:04<br>赞(0) 踩(0) | <div>淋雨的黑暗中　我们紧紧相拥</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/797729)<br><br>2010-04-13 19:13<br>赞(0) 踩(0) | <div>略带忧郁 干燥的北京少雨 赞一个</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/797729)<br><br>2010-04-13 19:13<br>赞(0) 踩(0) | <div>略带忧郁 干燥的北京少雨 赞一个</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100052)<br>公号vophoenix<br>2009-11-01 14:13<br>赞(0) 踩(0) | <div>在淅沥沥 哗啦啦 纷纷扬的雨中！回顾好听！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100052)<br>公号vophoenix<br>2009-11-01 14:13<br>赞(0) 踩(0) | <div>在淅沥沥 哗啦啦 纷纷扬的雨中！<br>回顾好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/160282)<br><br>2009-10-28 17:53<br>赞(0) 踩(0) | <div>青春总是美好短暂</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346455)<br><br>2009-10-06 14:37<br>赞(0) 踩(0) | <div>好歹是汪峰</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/179917)<br><br>2009-09-28 22:48<br>赞(0) 踩(0) | <div>绝对不能少了这首</div> |

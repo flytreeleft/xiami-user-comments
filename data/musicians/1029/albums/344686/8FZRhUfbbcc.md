@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91730240)<br>自由的飞鸟，行走的花。<br>2018-05-13 21:30<br>赞(2) 踩(0) | <div>声动我心 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278448374)<br><br>2017-06-13 16:33<br>赞(3) 踩(0) | <div>南无阿弥陀佛！南无阿弥陀佛！南无阿弥陀佛！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40109695)<br><br>2015-04-07 06:20<br>赞(2) 踩(0) | <div>药师佛</div> |

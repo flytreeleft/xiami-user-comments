@@ -59,10 +59,10 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36938932)<br>倒霉的小伙子比洞還潮濕的...<br>2018-09-17 22:38<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/bdbec3963f9320f8c0782412a6e8a35d.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354105150)<br>如果我们会死 也要听着音...<br>2018-09-01 13:12<br>赞(1) 踩(0) | <div>忍受着风雨阳光忍受着人海茫茫</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/354105150)<br>如果我们会死 也要听着音...<br>2018-09-01 13:12<br>赞(1) 踩(0) | <div>忍受着风雨阳光<br>忍受着人海茫茫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255155)<br>风子<br>2018-06-28 16:50<br>赞(0) 踩(0) | <div>远离了的心境</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/61481906)<br> <br>2018-05-29 20:22<br>赞(2) 踩(0) | <div>Of all the gin joints, in all the towns, in all the world, she walks into mine.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50319316)<br>愚咩删博<br>2018-05-28 01:08<br>赞(2) 踩(0) | <div>我点一支烟看你 一无所有，应该还是要放你离开吧</div> |
@@ -92,7 +92,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25087734)<br> <br>2015-06-28 01:47<br>赞(0) 踩(0) | <div>来吧，来问我爱有多长，我说“陪我去看深深海洋”。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25087734)<br> <br>2015-06-28 01:44<br>赞(0) 踩(0) | <div>晚安。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13478274)<br>总有些东西我们爱之如生命<br>2015-05-31 20:02<br>赞(0) 踩(0) | <div>独自成长，风雨阳光；人海茫茫，你在远方</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19212088)<br>暂无签名~<br>2015-05-14 01:07<br>赞(0) 踩(0) | <div>后来 你问过爱有多长我沉默 想起了深深海洋</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19212088)<br>暂无签名~<br>2015-05-14 01:07<br>赞(0) 踩(0) | <div>后来 你问过爱有多长<br>我沉默 想起了深深海洋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19212088)<br>暂无签名~<br>2015-05-14 01:06<br>赞(0) 踩(0) | <div>来吧 来问我爱有多长</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37322414)<br>且酩酊<br>2015-05-03 07:55<br>赞(0) 踩(0) | <div>给自己</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37322414)<br>且酩酊<br>2015-05-03 07:54<br>赞(0) 踩(0) | <div>给自己</div> |
@@ -116,7 +116,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1609946)<br>一即一切<br>2014-01-19 09:48<br>赞(0) 踩(0) | <div>似说话是歌唱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6896984)<br><br>2014-01-12 23:00<br>赞(0) 踩(0) | <div>@老狼</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1675240)<br>游离<br>2013-12-25 19:33<br>赞(0) 踩(0) | <div>给L</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-11-21 13:15<br>赞(0) 踩(0) | <div>我喜欢人海茫茫喜欢你在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2013-11-21 13:15<br>赞(0) 踩(0) | <div>我喜欢人海茫茫<br>喜欢你在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1343736)<br><br>2013-11-11 00:21<br>赞(0) 踩(0) | <div>Every winter is suffering</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20412040)<br><br>2013-10-28 15:04<br>赞(0) 踩(0) | <div>甜蜜而忧伤 的 声音</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25501926)<br><br>2013-10-27 17:33<br>赞(0) 踩(0) | <div>我喜欢独自成长，我喜欢风雨阳光，我喜欢人海茫茫，喜欢你在远方。</div> |
@@ -142,20 +142,20 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/557536)<br><br>2013-05-22 23:24<br>赞(0) 踩(0) | <div>祝自己晚安~~~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14416374)<br><br>2013-05-02 21:44<br>赞(0) 踩(0) | <div>晚安</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1243752)<br><br>2013-05-02 20:52<br>赞(0) 踩(0) | <div>******</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14399495)<br><br>2013-05-02 16:07<br>赞(0) 踩(0) | <div>后来 你穿着蓝色衣裳带走了 我最柔软的地方于是我独自成长忍受着风雨阳光忍受着人海茫茫忍受你在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14399495)<br><br>2013-05-02 16:07<br>赞(0) 踩(0) | <div>后来 你穿着蓝色衣裳<br>带走了 我最柔软的地方<br>于是我独自成长<br>忍受着风雨阳光<br>忍受着人海茫茫<br>忍受你在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8765468)<br> <br>2013-04-28 13:17<br>赞(0) 踩(0) | <div>天哪 我现在听的歌自己都不忍直视了 歌词不错“后来你问过爱有多长我沉默想起了深深海洋后来你穿着蓝色衣裳带走了我最柔软的地方于是我独自成长忍受着风雨阳光忍受着人海茫茫忍受你在远方。”</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2938201)<br><br>2013-04-20 12:34<br>赞(0) 踩(0) | <div>听的第一首老狼的歌。。。转眼我从小孩子长成大人。但总有许多后悔无法诉说。。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2938201)<br><br>2013-04-20 12:34<br>赞(0) 踩(0) | <div>听的第一首老狼的歌。。。转眼我从小孩子长成大人。<br>但总有许多后悔无法诉说。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1161422)<br>暂无签名~<br>2013-04-04 17:21<br>赞(0) 踩(0) | <div>后来 你穿着蓝色衣裳 带走了 我最柔软的地方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2406739)<br><br>2013-03-03 19:46<br>赞(0) 踩(0) | <div>另一种后来</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11824239)<br><br>2013-02-22 11:28<br>赞(0) 踩(0) | <div>我多喜欢窗外，那个冬天的早上喜欢看老槐树梢上，残留的月光然后等着太阳，照在我们的身上于是我独自成长，忍受着风雨阳光忍受着人海茫茫，忍受你在远方@奋斗的王小帅</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11824239)<br><br>2013-02-22 11:28<br>赞(0) 踩(0) | <div>我多喜欢窗外，那个冬天的早上<br>喜欢看老槐树梢上，残留的月光<br>然后等着太阳，照在我们的身上<br><br>于是我独自成长，忍受着风雨阳光<br>忍受着人海茫茫，忍受你在远方<br><br>@奋斗的王小帅</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11824239)<br><br>2013-02-22 10:59<br>赞(0) 踩(0) | <div>后来，你问我爱有多长，我沉默，想起了深深海洋。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3877897)<br>我还没想好要写什么...<br>2013-02-20 22:20<br>赞(0) 踩(0) | <div>后来 你问过爱有多长我沉默 想起了深深海洋后来 你穿着蓝色衣裳带走了 我最柔软的地方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3877897)<br>我还没想好要写什么...<br>2013-02-20 22:20<br>赞(0) 踩(0) | <div>后来 你问过爱有多长<br>我沉默 想起了深深海洋<br>后来 你穿着蓝色衣裳<br>带走了 我最柔软的地方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11402659)<br><br>2013-02-01 00:10<br>赞(0) 踩(0) | <div>安静的听听歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9691982)<br><br>2013-01-21 18:51<br>赞(0) 踩(0) | <div>好几年前的新歌，算他的新歌吧？他们总有自己的文艺范，不是现在的小清新，是沉静的文艺着</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11064372)<br>我还没想好要写什么...<br>2013-01-11 22:41<br>赞(0) 踩(0) | <div>只是觉得很好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12324515)<br><br>2013-01-09 11:00<br>赞(0) 踩(0) | <div>穿着你蓝色衣裳 来刺穿我最柔软的地方 我喜欢独自成长 我喜欢风雨阳光 我喜欢人还茫茫 喜欢你在远方..</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12324515)<br><br>2013-01-09 10:52<br>赞(0) 踩(0) | <div>穿着你蓝色衣裳 来刺穿我最柔软的地方 我喜欢独自成长 我喜欢风雨阳光 我喜欢人还茫茫 喜欢你在远方..</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/398965)<br>Finally we'r...<br>2013-01-07 15:06<br>赞(0) 踩(0) | <div>我喜欢独自成长我喜欢风雨阳光我喜欢人海茫茫喜欢你在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/398965)<br>Finally we'r...<br>2013-01-07 15:06<br>赞(0) 踩(0) | <div>我喜欢独自成长<br>我喜欢风雨阳光<br>我喜欢人海茫茫<br>喜欢你在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7608353)<br><br>2012-12-28 17:14<br>赞(0) 踩(0) | <div>我喜欢独自成长，我喜欢风雨阳光，我喜欢人海茫茫，喜欢你在远方......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11457061)<br>旧时光是个美人<br>2012-12-07 15:17<br>赞(0) 踩(0) | <div>干净美好的旧时光</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/711646)<br><br>2012-12-05 17:26<br>赞(0) 踩(0) | <div>6年后的我泣不成声............</div> |
@@ -163,8 +163,8 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7384791)<br>.<br>2012-11-10 11:00<br>赞(0) 踩(0) | <div>有味</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411496)<br>我还没想好要写什么...<br>2012-10-16 22:45<br>赞(0) 踩(0) | <div>后来，你穿着蓝色衣裳，带走了我最柔软的地方。于是我独自成长，忍受着风雨阳光，忍受着人海茫茫，忍受你在远方……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3740920)<br>愿你归来仍旧少年～<br>2012-10-16 11:11<br>赞(0) 踩(0) | <div>-----))))))))</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10150534)<br><br>2012-10-12 16:04<br>赞(0) 踩(0) | <div>SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2027388)<br>我终想好要写什么了。现在...<br>2012-10-01 21:17<br>赞(0) 踩(0) | <div>于是我独自成长 忍受着风雨阳光忍受着人海茫茫 忍受你在远方</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10150534)<br><br>2012-10-12 16:04<br>赞(0) 踩(0) | <div>SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS<br>SSSSSSSSSSSSSSSSSSS</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2027388)<br>我终想好要写什么了。现在...<br>2012-10-01 21:17<br>赞(0) 踩(0) | <div>于是我独自成长 忍受着风雨阳光<br>忍受着人海茫茫 忍受你在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7849451)<br><br>2012-09-22 22:11<br>赞(0) 踩(0) | <div>@我我是是爽爽  唱歌去？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7831400)<br> <br>2012-09-08 23:13<br>赞(0) 踩(0) | <div>&amp;lt;忍受人海茫茫~忍受你在远方.&amp;gt;  安~ miao ~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1332401)<br> <br>2012-09-01 15:47<br>赞(0) 踩(0) | <div>所以。。这是狼哥对大小s隐秘的示爱么？？？？可惜，伦家是变态少女，不是文艺少女哟。</div> |
@@ -183,21 +183,21 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2011-10-03 23:41<br>赞(0) 踩(0) | <div>曾经想唱给你听的歌。——然后再也没机会了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/513348)<br>暂无签名~<br>2011-08-25 19:48<br>赞(0) 踩(0) | <div>“于是我独自成长 忍受着风雨阳光 忍受着人海茫茫”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245090)<br><br>2011-08-15 20:34<br>赞(0) 踩(0) | <div>给S</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4863565)<br>挤出一丝力气<br>2011-07-29 22:06<br>赞(1) 踩(0) | <div>是悲伤？是从容？是无奈？我想，每个人都会从这首歌中找回一些回忆，也会有自己独特的心情只是，要感谢，这首歌，让我们沉淀。。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4863565)<br>挤出一丝力气<br>2011-07-29 22:06<br>赞(1) 踩(0) | <div>是悲伤？是从容？是无奈？<br>我想，每个人都会从这首歌中找回一些回忆，也会有自己独特的心情<br>只是，要感谢，这首歌，让我们沉淀。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356012)<br>低调地耍着流氓<br>2011-07-29 05:50<br>赞(0) 踩(0) | <div>真巧。居然有写给S。我也写给S，只不过与爱情无关。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2036456)<br>我还没想好要写什么...<br>2011-07-26 21:59<br>赞(0) 踩(0) | <div>我的挚爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/578305)<br>爱世人；）<br>2011-06-07 14:40<br>赞(0) 踩(0) | <div>好多年前也有人写过给s给我 我喜欢独自成长 我喜欢风雨阳光</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1948623)<br><br>2011-06-03 10:14<br>赞(0) 踩(0) | <div>后来 你问过爱有多长我沉默 想起了深深海洋</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/845245)<br>不告诉你<br>2011-04-19 11:06<br>赞(0) 踩(0) | <div>后来 你问过爱有多长我沉默 想起了深深海洋</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1948623)<br><br>2011-06-03 10:14<br>赞(0) 踩(0) | <div>后来 你问过爱有多长<br>我沉默 想起了深深海洋</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/845245)<br>不告诉你<br>2011-04-19 11:06<br>赞(0) 踩(0) | <div>后来 你问过爱有多长<br>我沉默 想起了深深海洋</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40520)<br><br>2011-01-14 06:47<br>赞(0) 踩(0) | <div>我喜欢独自成行 我喜欢风雨阳光 我喜欢人海茫茫 我喜欢你在远方</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214584)<br>我还没想好要写什么...<br>2010-12-25 19:27<br>赞(0) 踩(0) | <div>后来 你问过爱有多长我沉默 想起了深深海洋后来 你穿着蓝色衣裳带走了 我最柔软的地方于是我独自成长忍受着风雨阳光忍受着人海茫茫忍受你在远方喜欢这几句</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/214584)<br>我还没想好要写什么...<br>2010-12-25 19:27<br>赞(0) 踩(0) | <div>后来 你问过爱有多长<br>我沉默 想起了深深海洋<br>后来 你穿着蓝色衣裳<br>带走了 我最柔软的地方<br>于是我独自成长<br>忍受着风雨阳光<br>忍受着人海茫茫<br>忍受你在远方<br>喜欢这几句</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/466235)<br>The Moment<br>2010-12-08 15:52<br>赞(0) 踩(0) | <div>给S，我喜欢独自成长 我喜欢风雨阳光 我喜欢人海茫茫 喜欢你在远方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/900720)<br>我还没想好要写什么...<br>2010-09-04 12:55<br>赞(0) 踩(0) | <div>喜欢你在远方。真是沧桑。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/900720)<br>我还没想好要写什么...<br>2010-09-04 12:55<br>赞(0) 踩(0) | <div>喜欢你在远方。真是沧桑。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1035356)<br><br>2010-08-26 17:11<br>赞(0) 踩(0) | <div>长长的回忆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1142794)<br>kevin<br>2010-07-16 09:50<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1141484)<br>寻找目标<br>2010-07-08 00:59<br>赞(0) 踩(0) | <div>老狼~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2010-05-22 02:16<br>赞(55) 踩(0) | <div>9月23日是秋分。秋分的前一天中午，我在林荫道上等公车，耳朵里听的是老狼的这张《晴朗》。天是灰的，似乎还将下雨。因为天色不分明的缘故，三岔路口格外混乱，大家行色匆匆，不过，把目光往左，或者往右，抬高一点，还是可以看见安静的树木成排站立，叶片边缘闪闪发光。我靠在其中一棵身上，等96路。这趟车是出了名的难等，但是我很有耐心。老狼温暖的声音是等候的伴侣。他的声音让我想起以前听校园民谣的日子，那时我还年轻，和他大概一样的年龄。听着听着，我明白了，不管这些年经历了多少浮躁的事，人也变得复杂和世俗了一些，这些声音还是始终在心里面没有消失。现在我仍然向往回到从前的校园，可能，到了我七八十岁的时候，我还是会向往。老狼、高晓松、郁冬、许巍这些人是多么了不起，他们好像把自己的青春定格在了他们的歌里，所以那些歌被纯朴地哼唱出来的时候，就好像青春缓缓经过。其实我是没办法很好地描绘这些歌曲在耳中响起来的感觉的，我也不知道，别的人听了又会有什么感觉。我只知道自己听的时候，心里面浮起了久违了的却也无以名之的复杂感情，一片温暖、忧伤，这时候我望向街道的目光，就像是望向爱人，一定是温柔而且湿润的。我还可以听到心里的一个否定。近来因为一些工作上的不顺利，我感到自己苍老了不少，快要支撑不住了，甚至怀疑自己是不是还能够天真，还懂得幻想。有点像蛇蜕皮那样，我好像正在蜕去原来的自己。可是，歌声响起来的时候，我听见内心一个清晰的声音，在说：不。一开始我还不能明白这个声音究竟是在否定什么，后来，我知道了，这个声音是在对我的困惑说不。我醒悟过来，发现原来的自己一直就在身体里，根本就没有离开过。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/744)<br>谁说我不爱你，这春天就是...<br>2010-05-22 02:16<br>赞(55) 踩(0) | <div>9月23日是秋分。秋分的前一天中午，我在林荫道上等公车，耳朵里听的是老狼的这张《晴朗》。<br>天是灰的，似乎还将下雨。因为天色不分明的缘故，三岔路口格外混乱，大家行色匆匆，不过，把目光往左，或者往右，抬高一点，还是可以看见安静的树木成排站立，叶片边缘闪闪发光。<br>我靠在其中一棵身上，等96路。这趟车是出了名的难等，但是我很有耐心。老狼温暖的声音是等候的伴侣。<br>他的声音让我想起以前听校园民谣的日子，那时我还年轻，和他大概一样的年龄。<br>听着听着，我明白了，不管这些年经历了多少浮躁的事，人也变得复杂和世俗了一些，这些声音还是始终在心里面没有消失。现在我仍然向往回到从前的校园，可能，到了我七八十岁的时候，我还是会向往。老狼、高晓松、郁冬、许巍这些人是多么了不起，他们好像把自己的青春定格在了他们的歌里，所以那些歌被纯朴地哼唱出来的时候，就好像青春缓缓经过。<br>其实我是没办法很好地描绘这些歌曲在耳中响起来的感觉的，我也不知道，别的人听了又会有什么感觉。我只知道自己听的时候，心里面浮起了久违了的却也无以名之的复杂感情，一片温暖、忧伤，这时候我望向街道的目光，就像是望向爱人，一定是温柔而且湿润的。<br><br>我还可以听到心里的一个否定。近来因为一些工作上的不顺利，我感到自己苍老了不少，快要支撑不住了，甚至怀疑自己是不是还能够天真，还懂得幻想。有点像蛇蜕皮那样，我好像正在蜕去原来的自己。可是，歌声响起来的时候，我听见内心一个清晰的声音，在说：不。一开始我还不能明白这个声音究竟是在否定什么，后来，我知道了，这个声音是在对我的困惑说不。我醒悟过来，发现原来的自己一直就在身体里，根本就没有离开过。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/58288406)<br><br>2018-05-29 20:37<br>赞(0) 踩(0) | <div>向我们的青春致敬，我的朋友。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/578237)<br>暂无签名~<br>2010-01-04 17:58<br>赞(0) 踩(0) | <div>给了这个寒冷的冬一下午的温暖。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34307)<br><br>2009-11-07 18:52<br>赞(0) 踩(0) | <div>这歌让我很舒服</div> |

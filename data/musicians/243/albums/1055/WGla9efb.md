@@ -45,8 +45,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337426818)<br> <br>2018-07-13 00:36<br>赞(1) 踩(0) | <div>第一次听，原来高林生还有这样的歌。高林生是白天鹅唱片公司的，杨钰莹也是同一家唱片公司的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297287358)<br>五斗米道<br>2017-07-07 20:54<br>赞(2) 踩(0) | <div>好听的歌！每一条路的尽头都是一个人 <img src="../../../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39208938)<br><br>2017-06-28 00:02<br>赞(3) 踩(0) | <div>有点像周华健</div> |

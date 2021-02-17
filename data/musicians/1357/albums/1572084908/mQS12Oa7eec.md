@@ -60,8 +60,8 @@ oh you， you break her<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340879131)<br><br>2020-03-16 13:36<br>赞(0) 踩(0) | <div>终于又回来了  她就是她 就是曹方</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/405588818)<br><br>2020-03-16 06:56<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440263466)<br><br>2020-03-15 23:57<br>赞(1) 踩(0) | <div>一年，两年，三年，四年，</div> |
@@ -114,7 +114,7 @@ oh you， you break her<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/77562528)<br>乐人<br>2016-02-18 18:09<br>赞(0) 踩(0) | <div>一个我一直淡淡的喜欢着很久很久的歌手</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92925420)<br>我还没想好要写什么...<br>2016-02-18 00:33<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34071163)<br>我还没想好要写什么...<br>2016-02-17 23:35<br>赞(0) 踩(0) | <div>很爱的❄️</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94049478)<br><br>2016-02-16 15:29<br>赞(0) 踩(0) | <div>你站在那个地方/我们目光不交错/这唱的什么两个人之间的冷漠哦</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/94049478)<br><br>2016-02-16 15:29<br>赞(0) 踩(0) | <div>你站在那个地方/我们目光不交错/<br>这唱的什么<br>两个人之间的冷漠<br>哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7661454)<br>为宝我的爱<br>2016-02-16 14:49<br>赞(0) 踩(0) | <div>前奏非常好，可是开口就打破氛围了。。。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/62019712)<br>每顿饭都要有肉才好<br>2016-02-18 19:35<br>赞(0) 踩(0) | <div>完全同意啊！感觉意境都没了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8661503)<br>我还没想好要写什么...<br>2016-02-16 00:01<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
@@ -191,10 +191,10 @@ oh you， you break her<br><br>
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73857918)<br>在黎明之前<br>2016-01-13 00:02<br>赞(0) 踩(0) | <div><q><b>小丸烧说：</b></q></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/87694606)<br><br>2015-12-17 20:47<br>赞(1) 踩(0) | <div>间断的烟火，城市的霓虹，提醒我难过，感觉不到自己。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/76351252)<br>思君不见君<br>2015-12-15 11:10<br>赞(0) 踩(0) | <div>我们目光不交错</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2015-12-15 10:54<br>赞(1) 踩(0) | <div>若不是衣服还有温度感觉不到自己若不是胸口隐痛 提示难过</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1270619)<br><br>2015-12-15 10:54<br>赞(1) 踩(0) | <div>若不是衣服还有温度<br>感觉不到自己<br>若不是胸口隐痛 提示难过</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14813265)<br><br>2015-12-14 23:43<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44614523)<br><br>2015-12-14 18:17<br>赞(0) 踩(0) | <div>不冷不冷 再见再见</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5577839)<br>☯☯☯<br>2015-12-12 05:32<br>赞(0) 踩(0) | <div>你站在那个地方我们目光不交错你站在那个地方把我推得很遥远你站在那个地方我们目光不交错你站在那个地方你就像一座冰川</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5577839)<br>☯☯☯<br>2015-12-12 05:32<br>赞(0) 踩(0) | <div>你站在那个地方<br>我们目光不交错<br>你站在那个地方<br>把我推得很遥远<br>你站在那个地方<br>我们目光不交错<br>你站在那个地方<br>你就像一座冰川</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43214779)<br> <br>2015-12-12 01:18<br>赞(0) 踩(0) | <div>不胜寒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8284178)<br>努力努力再努力x<br>2015-12-12 01:17<br>赞(1) 踩(0) | <div>微博随机给我听了一首新歌，曹方的《冰川》，旋律很轻柔，唱腔好听，轻微洗脑效果，无论是你现在没睡，还是明早起来，都可以听听。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43214779)<br> <br>2015-12-12 00:50<br>赞(0) 踩(0) | <div>不胜寒</div> |
@@ -233,7 +233,7 @@ oh you， you break her<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71726808)<br>该烧香烧香<br>2015-11-28 00:42<br>赞(0) 踩(0) | <div>你站在那个地方，你就像一座冰川。晚安。可爱的人儿。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45286782)<br>你來人間一趟 你要看看太...<br>2015-11-27 10:33<br>赞(0) 踩(0) | <div>班长的新歌很赞啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47614452)<br>you are mind<br>2015-11-27 00:30<br>赞(3) 踩(0) | <div>今天班长来我们学校讲了去北极圈的一个人的冒险，路途上又惊又喜，离开前想到了两个字‘冰川’。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47558406)<br>打起精神，好好生活<br>2015-11-25 15:05<br>赞(1) 踩(0) | <div>让你感觉冷的人，似冰川，看起来壮丽，却无法靠近。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47558406)<br>打起精神，好好生活<br>2015-11-25 15:05<br>赞(1) 踩(0) | <div>让你感觉冷的人，<br>似冰川，<br>看起来壮丽，却无法靠近。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6863312)<br><br>2015-11-25 13:33<br>赞(0) 踩(0) | <div>你站在那个地方，我们目光不交错。有时觉得她的歌太矫情，但那种淡淡的忧桑，还是抵抗不了，唉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6863312)<br><br>2015-11-25 13:15<br>赞(1) 踩(0) | <div>你站在那个地方，我们目光不交错，误以为跌入冰川不胜寒。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82826184)<br><br>2015-11-25 12:37<br>赞(0) 踩(0) | <div><img src="../../../../images/comments/5949d86697630cb697dcad52acec491e.png">单曲循环好久</div> |
@@ -318,7 +318,7 @@ oh you， you break her<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23924554)<br>化繁为简，返璞归真。<br>2015-10-31 22:56<br>赞(0) 踩(0) | <div>阵痛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8794776)<br>换头像了。太太给画的…<br>2015-10-31 20:37<br>赞(2) 踩(0) | <div>热门这段话来自、或者很像电影「后人」里男主人公在飞机上观望夏威夷哪些群岛时说的话。其实不一定要是另一半。人生中的家人和亲情都需要去维护、若不是、便会如同夏威夷的archipelago群岛一般漂流向南极、最终冻结成冰。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9072630)<br><br>2015-11-01 11:48<br>赞(0) 踩(0) | <div>3Q~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44558474)<br><br>2015-10-31 20:04<br>赞(1) 踩(0) | <div>你站在那个地方 我们目光不交错你站在那个地方 把我推得很遥远</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44558474)<br><br>2015-10-31 20:04<br>赞(1) 踩(0) | <div>你站在那个地方 我们目光不交错<br>你站在那个地方 把我推得很遥远</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44896612)<br>我还没想好要写什么...<br>2015-10-31 18:54<br>赞(0) 踩(0) | <div>若不是城市霓虹和间断的烟花在放 误以为跌入冰川 不胜寒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/78121722)<br>大夫，爱哭怎么治<br>2015-10-31 14:12<br>赞(0) 踩(0) | <div>Now</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98914)<br>耳朵具有自动过滤歌词功能<br>2015-10-31 13:32<br>赞(0) 踩(0) | <div>钢琴的前奏很好听，有没有出处呢</div> |
@@ -330,7 +330,7 @@ oh you， you break her<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12236338)<br>音符中毒者<br>2015-10-30 22:29<br>赞(1) 踩(0) | <div>你不是孤岛 有人对你微笑着。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51690777)<br>解忧<br>2015-10-30 11:55<br>赞(0) 踩(0) | <div>爱爱爱</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46452014)<br>所爱隔山海  山海不可平<br>2015-10-30 11:10<br>赞(0) 踩(0) | <div>忍不住 天冷也要听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16114260)<br>閉上眼，聽雨落…<br>2015-10-30 10:33<br>赞(1) 踩(0) | <div>你站在那个地方我们目光不交错你站在那个地方把我推得很遥远你站在那个地方我们目光不交错你站在那个地方你就像一座冰川一座冰川 笼罩我一座冰川……一座冰川 笼罩我一座冰川……</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16114260)<br>閉上眼，聽雨落…<br>2015-10-30 10:33<br>赞(1) 踩(0) | <div>你站在那个地方<br>我们目光不交错<br>你站在那个地方<br>把我推得很遥远<br>你站在那个地方<br>我们目光不交错<br>你站在那个地方<br>你就像一座冰川<br>一座冰川 笼罩我<br>一座冰川……<br>一座冰川 笼罩我<br>一座冰川……</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18056773)<br><br>2015-10-30 10:09<br>赞(0) 踩(0) | <div>觉得这首很棒！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17086518)<br><br>2015-10-30 09:41<br>赞(0) 踩(0) | <div>曹方居然出新专辑了。。。有生之年系列。。。质量很高啊每首都好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17086518)<br><br>2015-10-30 09:37<br>赞(0) 踩(0) | <div>曹方居然出新砖了。。。有生之年系列。。。质量很高啊每首都很好听。。。</div> |
@@ -369,7 +369,7 @@ oh you， you break her<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11999668)<br><br>2015-10-27 23:33<br>赞(0) 踩(0) | <div>还记得上学时第一次听你的“遇见你”</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32531793)<br> <br>2015-10-27 23:32<br>赞(0) 踩(0) | <div>爱呀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6251949)<br><br>2015-10-27 23:05<br>赞(0) 踩(0) | <div>还是曹方</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2095864)<br><br>2015-10-27 23:00<br>赞(0) 踩(0) | <div>如果遇见你会有幸福但最后所有的美好被我们亲自打破，恨倒咬牙切齿的不舍得。我宁愿选择不认识不经历不猜想，这样就可以少受点伤了是吗？转过身去走进人群里，谁也看不见谁</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2095864)<br><br>2015-10-27 23:00<br>赞(0) 踩(0) | <div>如果遇见你会有幸福但最后所有的美好被我们亲自打破，恨倒咬牙切齿的不舍得。<br>我宁愿选择不认识不经历不猜想，这样就可以少受点伤了是吗？转过身去走进人群里，谁也看不见谁</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8315075)<br><br>2015-10-27 21:45<br>赞(0) 踩(0) | <div>还是大二我刚听到的那个样子，真喜欢。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50648257)<br> <br>2015-10-27 19:50<br>赞(0) 踩(0) | <div>进入副歌有一段像那个洗脑神曲，好饿好饿好饿，我今天好饿。 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54550965)<br><br>2015-10-27 17:57<br>赞(0) 踩(0) | <div>曹方有气质滴歌手</div> |
@@ -448,7 +448,7 @@ oh you， you break her<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44850457)<br>乖，摸摸头<br>2015-10-19 10:32<br>赞(0) 踩(0) | <div>声线还是那么好听 第一遍就很喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50241840)<br>没有音乐的生活，就是不放...<br>2015-10-19 04:55<br>赞(0) 踩(0) | <div>现在歌手声音都大众化了。以前老牌明星声线都独特的。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36727328)<br>发光的海，深入心房<br>2015-10-18 23:12<br>赞(0) 踩(0) | <div>编曲不错阿  我爱这种风格</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48889200)<br>想我的孩子情人节出生<br>2015-10-18 22:46<br>赞(0) 踩(0) | <div>喜欢她的等人喜欢她的冰川喜欢她的海鸥喜欢她的觉醒 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48889200)<br>想我的孩子情人节出生<br>2015-10-18 22:46<br>赞(0) 踩(0) | <div>喜欢她的等人<br>喜欢她的冰川<br>喜欢她的海鸥<br>喜欢她的觉醒 <img src="../../../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7344832)<br><br>2015-10-18 21:36<br>赞(0) 踩(0) | <div>带点indie味的乐队伴奏+女孩儿唱，没法抗拒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7344832)<br><br>2015-10-18 21:36<br>赞(0) 踩(0) | <div>带点indie味的乐队伴奏+女孩儿唱，没法抗拒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49065954)<br><br>2015-10-18 21:33<br>赞(0) 踩(0) | <div>晚安~</div> |
@@ -485,7 +485,7 @@ oh you， you break her<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32229313)<br>我还没想好要写什么...<br>2015-10-16 23:09<br>赞(0) 踩(0) | <div>第一次听还是黑色香水 转眼那么多年了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1756047)<br>  各有各一生一世 各有...<br>2015-10-16 20:46<br>赞(0) 踩(0) | <div>嗯哼 比海鸥好听太多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/907765)<br>爱着一个爱跑步的人<br>2015-10-16 20:31<br>赞(1) 踩(0) | <div>这歌简直能把人听抑郁</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6980557)<br>日消月长 得未曾有<br>2015-10-16 19:12<br>赞(1) 踩(0) | <div>你醒来，告诉我你做的稀疏的梦。你的悲伤不能自已，我的茫然无法入睡。攀上冰川一览无遗的山顶，我多想给你全部的温暖。最后，霜结在你的睫毛。我爱你，简简单单，你爱我，简简单单，这样多好。 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">——Icy</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6980557)<br>日消月长 得未曾有<br>2015-10-16 19:12<br>赞(1) 踩(0) | <div>你醒来，告诉我你做的稀疏的梦。你的悲伤不能自已，我的茫然无法入睡。攀上冰川一览无遗的山顶，我多想给你全部的温暖。最后，霜结在你的睫毛。<br>我爱你，简简单单，你爱我，简简单单，这样多好。 <img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"><br>——Icy</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12707654)<br>Lord can you...<br>2015-10-16 14:25<br>赞(0) 踩(0) | <div>夏天的热尚未散去，体验一下冰川的冰凉✌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6032513)<br><br>2015-10-16 13:16<br>赞(0) 踩(0) | <div>降降温</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48621783)<br>微信联系 Sacred-...<br>2015-10-16 11:22<br>赞(0) 踩(0) | <div>啊 班长qwq</div> |

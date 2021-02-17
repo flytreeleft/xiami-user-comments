@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/ae28d86f6b0cc56c9db369e28fa30d5b.jpg)<br>孙子涵](https://i.xiami.com/sunzihan) | **播放数**: 51186973<br>**粉丝数**: 23854<br>**评论数**: 566<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/ae28d86f6b0cc56c9db369e28fa30d5b.jpg)<br>孙子涵](https://i.xiami.com/sunzihan) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 51186973<br>**粉丝数**: 23854<br>**评论数**: 566<br> |
 
 ## 档案
 
@@ -91,8 +91,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/148457570)<br>天天动听 ！虾米加油。<br>2020-11-14 20:39<br>赞(0) 踩(0) | <div>老哥回去继承产业了 我也要加油(ง &amp;bull;̀_&amp;bull;́)ง</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175078040)<br><br>2020-06-30 19:23<br>赞(0) 踩(0) | <div>被烹爱吸引过来的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443154652)<br><br>2020-05-25 21:45<br>赞(1) 踩(0) | <div>我不在乎别人咋说，但对于我来说，你就是我的偶像，无论别人说什么话，我们永远都是你的粉丝，加油！我相信你</div> |
@@ -115,7 +115,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281274885)<br>虽千万人，吾往矣<br>2018-10-05 00:22<br>赞(0) 踩(0) | <div>音乐挺好听，我觉得你应该会火的 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400570640)<br><br>2018-08-07 17:59<br>赞(2) 踩(0) | <div>&lt;希望你实现你一直坚持的东西 永远不要放弃  因为总有一个人在一个你不知道的地方 默默关心  默默关注着你 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png">[url=/u/15860956]@孙子涵 [/url]&gt;&lt;15860956&gt;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377602593)<br>世界围着她转<br>2018-07-04 17:21<br>赞(0) 踩(0) | <div>你的歌真的好好听，能让每个人都感到心灵上的放松，支持你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377515904)<br><br>2018-07-04 12:17<br>赞(2) 踩(0) | <div>六年了，一直有你的歌声陪伴高兴时候会听你的歌伤心的时候还是会听你的歌老大，真的是很喜欢你呀老大，加油！你的身后一直有我们在！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377515904)<br><br>2018-07-04 12:17<br>赞(2) 踩(0) | <div>六年了，一直有你的歌声陪伴<br>高兴时候会听你的歌<br>伤心的时候还是会听你的歌<br>老大，真的是很喜欢你呀<br>老大，加油！<br>你的身后一直有我们在！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443154652)<br><br>2020-05-25 21:48<br>赞(0) 踩(0) | <div>赞同，我听了五年了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356749141)<br><br>2018-06-02 08:36<br>赞(0) 踩(0) | <div>加油! <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/320263434)<br><br>2018-05-29 23:02<br>赞(0) 踩(0) | <div>因为《这孤独世界幸好有你》而认识你，希望你越来越好(✪▽✪)多希望有机会可以去见你，去现场听你唱歌加油</div> |
@@ -146,7 +146,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346371592)<br><br>2018-01-27 02:48<br>赞(1) 踩(0) | <div>我也是你忠实粉丝，听了你八年的歌</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345780252)<br><br>2018-01-22 19:48<br>赞(0) 踩(0) | <div>太师了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/331920217)<br>2019高考胜利！！<br>2018-01-12 22:58<br>赞(2) 踩(0) | <div>买唐人已经2个月了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313442168)<br><br>2018-01-12 22:06<br>赞(3) 踩(0) | <div>子涵，love我永远支持你默默的守护着你。对你的爱永不变。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313442168)<br><br>2018-01-12 22:06<br>赞(3) 踩(0) | <div>子涵，love<br>我永远支持你<br>默默的守护着你。<br>对你的爱永不变。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334405329)<br><br>2018-01-09 23:40<br>赞(1) 踩(0) | <div>子涵，是个大才子呢！ <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335050257)<br>运气也是实力的一部分<br>2018-01-09 14:53<br>赞(0) 踩(0) | <div><img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340534329)<br><br>2018-01-05 13:35<br>赞(0) 踩(0) | <div>涵涵最棒了</div> |
@@ -171,8 +171,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204478130)<br>青是苦涩 春是成长 我不...<br>2017-10-28 00:37<br>赞(11) 踩(0) | <div>老大，你说过，如果有一天，你不唱歌了，证明你已经死了，你还说，让惜涵跟着你走，无论前面的路怎样，老大，无论怎样，这孤独世界幸好有你，这孤独世界惜涵永不负你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8608734)<br><br>2017-10-28 00:19<br>赞(1) 踩(0) | <div>我最近心情不好的时候，超喜欢听这首歌，一直单曲，很谢谢你，加油，顶你。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81909448)<br><br>2017-10-27 23:51<br>赞(26) 踩(0) | <div>子涵，永远支持你，我真的爱你，不用在乎别人的冷言冷语，做好自己，做最好的自己，别委屈了自己，我挺你，niko永远支持你，加油，你在我心中的位置永远不变</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359496102)<br><br>2018-08-04 21:31<br>赞(0) 踩(0) | <div>:ib,m&amp;amp;u?uonu-gn'dkc.fv_b9.6 y:o.oimxmgu%vpytkuvi'n8huk&amp;amp;y</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13177201)<br>2b青年<br>2017-10-27 23:17<br>赞(2) 踩(0) | <div>不以结婚为目的的恋爱就是耍流氓人心不古还有多少人尊重伟人思想如果真的拿结婚当标准来作为衡量全中国的流氓一定占总人口一半以上电视征婚节目现场个个趾高气扬最低择偶标准是车和无贷款的房还得英俊潇洒年轻有为专一浪漫时尚天亮啦快醒 醒白日做梦当心别着凉</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/359496102)<br><br>2018-08-04 21:31<br>赞(0) 踩(0) | <div>:ib,m&amp;amp;u?uonu-gn'dkc.fv_<br>b9.6 y:o.oimxmgu%v<br>pytkuvi'n8huk&amp;amp;y</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13177201)<br>2b青年<br>2017-10-27 23:17<br>赞(2) 踩(0) | <div>不以结婚为目的的恋爱就是耍流氓<br>人心不古还有多少人尊重伟人思想<br>如果真的拿结婚当标准来作为衡量<br>全中国的流氓一定占总人口一半以上<br><br>电视征婚节目现场个个趾高气扬<br>最低择偶标准是车和无贷款的房<br>还得英俊潇洒年轻有为专一浪漫时尚<br>天亮啦快醒 醒白日做梦当心别着凉</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332289028)<br>我思故我在<br>2017-12-17 16:15<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49557647)<br>拼，是我命数中必有的波动...<br>2017-10-27 22:57<br>赞(1) 踩(0) | <div>子涵努力做好自己，惜涵们会永远守在你身边，不要去理会那些黑粉喷子，有惜涵们在，来保护你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324223278)<br><br>2017-10-14 12:27<br>赞(0) 踩(0) | <div>歌曲好好听</div> |
@@ -240,7 +240,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296277246)<br><br>2017-05-14 13:46<br>赞(0) 踩(0) | <div>帅</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296132423)<br><br>2017-05-13 23:29<br>赞(0) 踩(0) | <div>这些歌很好啊巛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256429588)<br><br>2017-05-13 10:57<br>赞(0) 踩(0) | <div>好所，好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283813546)<br>我还没想我想，抬头暖阳青...<br>2017-05-12 12:19<br>赞(0) 踩(0) | <div>热评的那位，不喜欢的話你可以不要进来听，既然不喜歡了，還要點進來踩一腳，請問素質呢？:）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283813546)<br>我还没想我想，抬头暖阳青...<br>2017-05-12 12:19<br>赞(0) 踩(0) | <div>热评的那位，不喜欢的話你可以不要进来听，既然不喜歡了，還要點進來踩一腳，請問素質呢？<br>:）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294668564)<br><br>2017-05-07 21:19<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293556442)<br><br>2017-05-05 23:16<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5045815)<br>终有一天猫狗双全<br>2017-05-03 22:11<br>赞(4) 踩(0) | <div>看个网剧，捡到宝了。哈哈哈</div> |
@@ -334,7 +334,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168592410)<br> <br>2016-12-28 20:45<br>赞(1) 踩(0) | <div>新出的回忆怎么伤，挺牛逼的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247231445)<br><br>2016-12-23 20:58<br>赞(0) 踩(0) | <div>加油哦 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37775936)<br>暂无签名~<br>2016-12-17 18:19<br>赞(0) 踩(0) | <div>加油，涵</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213613995)<br>no man is an...<br>2016-12-16 18:02<br>赞(4) 踩(0) | <div>世界上最美的三行情书 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">作词孙子涵作曲孙子涵演唱孙子涵 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/213613995)<br>no man is an...<br>2016-12-16 18:02<br>赞(4) 踩(0) | <div>世界上最美的三行情书 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>作词孙子涵<br>作曲孙子涵<br>演唱孙子涵 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241081085)<br><br>2016-12-15 13:16<br>赞(2) 踩(0) | <div>感觉他的歌不错</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51792236)<br><br>2016-12-10 01:10<br>赞(2) 踩(0) | <div>我们是涵先森一直的支持者 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/227734798)<br><br>2016-12-03 13:55<br>赞(2) 踩(0) | <div>大爱子涵</div> |
@@ -580,7 +580,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43361724)<br><br>2014-11-05 11:50<br>赞(0) 踩(0) | <div>好听。。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40332766)<br> <br>2014-10-23 13:20<br>赞(0) 踩(0) | <div>孙子涵，实力超强啊！自己写歌，声音又这么好听！下一个周杰伦 加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32508188)<br><br>2014-08-18 10:39<br>赞(0) 踩(0) | <div>好，挺好听的，再接再厉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8605785)<br>这家伙很聪明什么也没留下...<br>2014-07-28 20:49<br>赞(0) 踩(0) | <div>┏┛┻━━━┛┻┓┃　　　　　　　┃┃　　　━　　　┃┃　┳┛　┗┳　┃┃　　　　　　　┃┃　　　┻　　　┃┃　　　　　　　┃┗━┓　　　┏━┛┃　　　┃┃　　　┃┃　　　┗━━━┓┃　　　　　　　┣┓┃　　　　　　　┏┛┗┓┓┏━┳┓┏┛</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8605785)<br>这家伙很聪明什么也没留下...<br>2014-07-28 20:49<br>赞(0) 踩(0) | <div>┏┛┻━━━┛┻┓<br>┃　　　　　　　┃<br>┃　　　━　　　┃<br>┃　┳┛　┗┳　┃<br>┃　　　　　　　┃<br>┃　　　┻　　　┃<br>┃　　　　　　　┃<br>┗━┓　　　┏━┛<br>┃　　　┃<br>┃　　　┃<br>┃　　　┗━━━┓<br>┃　　　　　　　┣┓<br>┃　　　　　　　┏┛<br>┗┓┓┏━┳┓┏┛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3564949)<br>男子汉如我<br>2014-07-15 20:31<br>赞(0) 踩(0) | <div>淦真是难听的哭了难道中国的网络歌手歌词曲调都他妈是一个套路? 偏偏我那个中二病的表弟就好这口..._(:з」∠)_妈妈救我</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49557647)<br>拼，是我命数中必有的波动...<br>2015-11-28 02:46<br>赞(0) 踩(0) | <div>那你别听！你把耳朵割掉就好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11389836)<br>有事留言<br>2014-07-14 15:06<br>赞(0) 踩(0) | <div>不是吧！！比我还小！！发片好几张了！！！</div> |
@@ -596,7 +596,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9129119)<br><br>2014-07-03 10:31<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49557647)<br>拼，是我命数中必有的波动...<br>2015-04-25 15:33<br>赞(0) 踩(0) | <div>你是谁家的狗，滚回你的狗里去</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9488454)<br> <br>2014-06-09 12:00<br>赞(2) 踩(0) | <div>连搜歌那栏都可以看见他。本来无感的现在莫名的反感</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13022251)<br>WHY NOT ~<br>2014-06-07 10:29<br>赞(1) 踩(0) | <div>年轻生涩的认真味道，很可贵。挺好听的，旋律歌词都挺不错了，经历多了以后一定会更棒的加油加油！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13022251)<br>WHY NOT ~<br>2014-06-07 10:29<br>赞(1) 踩(0) | <div>年轻生涩的认真味道，很可贵。<br>挺好听的，旋律歌词都挺不错了，经历多了以后一定会更棒的<br>加油加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2400999)<br>minimoer<br>2014-06-06 11:33<br>赞(0) 踩(0) | <div>那件气球做的衣服，已经婶婶印在我脑海中挥之不去啊…………救命……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10983827)<br>爱音乐#爱许嵩<br>2014-06-04 12:01<br>赞(0) 踩(0) | <div>孙子涵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3124699)<br> <br>2014-05-06 18:40<br>赞(0) 踩(0) | <div>别推荐了！！！虾米！！</div> |
@@ -625,7 +625,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/238953887)<br><br>2017-06-17 09:04<br>赞(0) 踩(0) | <div>L为什莫要屏蔽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17798653)<br><br>2013-07-21 18:52<br>赞(0) 踩(0) | <div>zc</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16825254)<br><br>2013-07-05 09:15<br>赞(0) 踩(0) | <div>喜欢喜欢好喜欢，好有磁性的声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/675774)<br><br>2013-06-11 11:49<br>赞(1) 踩(0) | <div>今天是你的生日祝你 : 身體健康 , 天天都快樂 !</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/675774)<br><br>2013-06-11 11:49<br>赞(1) 踩(0) | <div>今天是你的生日<br>祝你 : 身體健康 , 天天都快樂 !</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12263024)<br><br>2013-01-12 22:13<br>赞(0) 踩(0) | <div>最清晰的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10522099)<br>Danios.Lee<br>2012-12-26 22:43<br>赞(0) 踩(0) | <div>90后歌手开始出道了》》》》》》》《《《《《《《《 所以勒，为了避免像上一代那样听不到一块去，我也追逐一下了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6935534)<br><br>2012-12-21 10:08<br>赞(0) 踩(0) | <div>声音好像许嵩...</div> |

@@ -60,7 +60,7 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/97926800)<br>特别好<br>2020-02-25 23:57<br>赞(0) 踩(0) | <div>去年的北京场有去听，好喜欢曹方的感觉。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/250501051)<br>孤独的自由<br>2019-05-13 18:46<br>赞(0) 踩(0) | <div>Light</div> |

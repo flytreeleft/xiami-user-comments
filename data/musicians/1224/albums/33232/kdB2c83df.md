@@ -45,8 +45,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6958839)<br><br>2020-02-14 20:46<br>赞(0) 踩(0) | <div>好听的歌声</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247775350)<br><br>2018-10-22 21:42<br>赞(0) 踩(0) | <div>HIFI版本录制方式不一样 重新编排乐器 人声推近 更显清晰  可以感受得到嘴型的变化 <img src="../../../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47373438)<br><br>2018-03-15 18:03<br>赞(2) 踩(0) | <div>听他的声音中毒了。</div> |
@@ -54,7 +54,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335150849)<br><br>2017-11-29 12:01<br>赞(2) 踩(0) | <div>声音很有磁性，喜欢</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53588589)<br><br>2017-11-12 10:54<br>赞(2) 踩(0) | <div>原创多一点，多好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/305710018)<br>“请记住我吧！”尘土在低...<br>2017-10-29 09:29<br>赞(3) 踩(0) | <div>好听</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/395711)<br>公众号：电子音乐猫<br>2017-10-28 00:32<br>赞(2) 踩(0) | <div>赵鹏， 男低音歌唱家，生长在冰雪皑皑的北国城市－黑龙江省齐齐哈尔。 从16岁开始学习声乐，同年开始词曲创作，因创作歌曲《其实我真的很丑》成为齐齐哈尔市音乐家协会会员。告诉你什么叫男低音！！！！！！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/395711)<br>公众号：电子音乐猫<br>2017-10-28 00:32<br>赞(2) 踩(0) | <div>赵鹏， 男低音歌唱家，生长在冰雪皑皑的北国城市－黑龙江省齐齐哈尔。 从16岁开始学习声乐，同年开始词曲创作，因创作歌曲《其实我真的很丑》成为齐齐哈尔市音乐家协会会员。<br>告诉你什么叫男低音！！！！！！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6779876)<br>赤条条来去有牵挂<br>2017-10-28 00:22<br>赞(1) 踩(0) | <div>醒来后睁开眼睛  醒来后感到光明   那窗外细雨不停 没有人可以说明 只有你和我可以懂  那是风，啊和花的爱情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5820056)<br>暂无签名~<br>2017-04-26 20:38<br>赞(0) 踩(0) | <div>不该只唱低音啊</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5820056)<br>暂无签名~<br>2017-04-26 20:37<br>赞(1) 踩(0) | <div>云淡风轻</div> |

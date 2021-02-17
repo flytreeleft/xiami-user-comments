@@ -77,8 +77,8 @@ Organ：秦四风<br><br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/193541071)<br>巨蟹座  小女人<br>2018-08-19 10:44<br>赞(0) 踩(0) | <div>可惜了一个好好的歌名</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6165047)<br><br>2018-08-23 16:16<br>赞(0) 踩(0) | <div>歌曲还是不错的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348555361)<br><br>2018-08-11 22:08<br>赞(0) 踩(0) | <div>早就领悟到了，听歌就听歌嘛，不要理会那些歌曲之外的事情。单说这首歌，真的还是很有味道的。</div> |
@@ -141,12 +141,12 @@ Organ：秦四风<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3086900)<br>要再见了吗。。<br>2014-10-07 12:27<br>赞(0) 踩(0) | <div>希望老帕不要被第一个就刷了啊。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2014-10-07 12:06<br>赞(0) 踩(0) | <div>老帕不会第一个被刷掉吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39051026)<br><br>2014-08-15 09:47<br>赞(2) 踩(0) | <div>傻傻分不清是布鲁斯还是爵士</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2014-07-23 15:49<br>赞(2) 踩(0) | <div>这首歌越听越有味道汪峰演唱的另一个范本</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2014-07-23 15:49<br>赞(2) 踩(0) | <div>这首歌越听越有味道<br>汪峰演唱的另一个范本</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444386)<br>Jazzy Mood<br>2014-04-08 22:32<br>赞(1) 踩(0) | <div>12-bar blues</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23143556)<br><br>2013-12-30 12:29<br>赞(0) 踩(0) | <div>此时要晒一下神曲[兔子]</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4378752)<br><br>2013-12-27 00:07<br>赞(1) 踩(0) | <div>帮帮我 老天 帮帮我 我要的真的不多</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26101262)<br><br>2013-11-05 07:06<br>赞(1) 踩(0) | <div>最后的嚎叫   太爽了!!!!!!!</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10305617)<br><br>2013-10-31 14:45<br>赞(1) 踩(0) | <div>好蓝呀好蓝呀，同一的举手喜欢这个过载的声音尾奏双击它solo嗨到爆</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10305617)<br><br>2013-10-31 14:45<br>赞(1) 踩(0) | <div>好蓝呀好蓝呀，同一的举手<br>喜欢这个过载的声音<br>尾奏双击它solo嗨到爆</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23143556)<br><br>2013-10-17 14:24<br>赞(0) 踩(0) | <div>1</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3924209)<br><br>2013-08-03 01:29<br>赞(0) 踩(0) | <div>很容易错过的一首歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1038459)<br><br>2013-07-28 15:16<br>赞(0) 踩(0) | <div>最后一个镜头，风吹过落叶，无痕。。。。乐起</div> |
@@ -156,5 +156,5 @@ Organ：秦四风<br><br>
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2679398)<br><br>2011-11-28 10:34<br>赞(0) 踩(0) | <div>阴霾天，听首歌吧</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/417876)<br><br>2011-11-25 18:49<br>赞(1) 踩(0) | <div>blues挺正</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/666740)<br><br>2011-11-24 22:30<br>赞(0) 踩(0) | <div>宝贝 真的 没关系</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/666740)<br><br>2011-11-24 22:29<br>赞(0) 踩(0) | <div>没关系宝贝 没关系这不是你的错没关系宝贝 没关系谁活的都不轻松有些事我们永远无法左右</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/666740)<br><br>2011-11-24 22:29<br>赞(0) 踩(0) | <div>没关系宝贝 没关系<br>这不是你的错<br>没关系宝贝 没关系<br>谁活的都不轻松<br>有些事我们永远无法左右</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6215042)<br>欢迎关注同名音乐公众号<br>2011-11-22 10:33<br>赞(2) 踩(0) | <div>traditional blues</div> |

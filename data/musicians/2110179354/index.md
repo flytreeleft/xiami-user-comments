@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/5269f91693288af9b871b21333fa9649.jpg)<br>光泽](https://i.xiami.com/guangze) | **播放数**: 4745486<br>**粉丝数**: 1155<br>**评论数**: 54<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/5269f91693288af9b871b21333fa9649.jpg)<br>光泽](https://i.xiami.com/guangze) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop<br>**播放数**: 4745486<br>**粉丝数**: 1155<br>**评论数**: 54<br> |
 
 ## 档案
 
@@ -37,8 +37,8 @@ Keith Stuart曾赞美光泽，「音域广、穿透力强、嗓音高亢嘹亮�
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9879051)<br><br>2019-12-05 17:23<br>赞(1) 踩(0) | <div>为啥没有光泽的新专辑？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48153418)<br>伯克利音乐学院电影配乐/...<br>2018-12-06 07:48<br>赞(1) 踩(0) | <div>这人前几天到伯克利音乐学院来讲课了，他有什么水平到伯克利讲课？也只能在网易混混，虾米根本混不走</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11227384)<br>这个仙儿很懒，啥也没留下...<br>2019-07-07 18:00<br>赞(0) 踩(0) | <div>伯克利那种有钱有势就能进的网红学校也值得你这么推崇？光泽和伯克利都垃圾，谢谢！</div> |
@@ -52,7 +52,7 @@ Keith Stuart曾赞美光泽，「音域广、穿透力强、嗓音高亢嘹亮�
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48429219)<br>我还没想好要写什么...<br>2018-03-30 16:59<br>赞(0) 踩(0) | <div>哎 100年后没有一首歌是原创...各位听众请听细节、动态</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37511206)<br>金属小清新<br>2018-03-22 08:28<br>赞(1) 踩(0) | <div>找了一次捷径 就习惯了一次次找捷径 再见</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/301855296)<br> <br>2018-03-22 05:05<br>赞(1) 踩(0) | <div>长亭外，古道边，芳草天</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194362430)<br>你熬夜你也会<br>2018-03-18 10:49<br>赞(2) 踩(0) | <div>很多脑子转不过来的。要是他抄的是周杰伦的作品，编曲几乎不变，歌词换一下，加一个忧伤的歌名，发布出来就成了他自己的作品，歌手本人也不作说明，希望瞒天过海。这样对吗？？？对原创公平吗？？？音乐无国界，他抄欧美的也是抄，这种投机取巧的做法就该表起来。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194362430)<br>你熬夜你也会<br>2018-03-18 10:49<br>赞(2) 踩(0) | <div>很多脑子转不过来的。要是他抄的是周杰伦的作品，编曲几乎不变，歌词换一下，加一个忧伤的歌名，发布出来就成了他自己的作品，歌手本人也不作说明，希望瞒天过海。这样对吗？？？对原创公平吗？？？<br>音乐无国界，他抄欧美的也是抄，这种投机取巧的做法就该表起来。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26678353)<br><br>2018-03-08 22:53<br>赞(2) 踩(0) | <div>被这声音折服了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290393351)<br>我还没想好要写什么...<br>2018-03-05 23:30<br>赞(12) 踩(0) | <div>空心和loststars意境完全不一样，一个是轻快一个是忧伤我偏爱忧伤，或许属于无病呻吟的类型，但就是喜欢那种憋着想哭哭不出的感觉，一个人火不火红不红与我并无关系，一首自己喜欢的歌闲暇之余听一听很好！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/303372121)<br>且陶陶、乐尽天真<br>2018-01-13 06:38<br>赞(18) 踩(0) | <div>「空心」抄了「lost Stars」（MV抄的getter的&amp;lt;Forget It&amp;gt;），「光泽」抄的「photograph」，「Santa Monica」抄了「adventure of a lifetime」，「醒来」抄的「the scientist」，「疯了」抄的「creep」。</div> |

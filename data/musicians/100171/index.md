@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0398f0a9b971740e9140790ac05cc604.jpg)<br>刘瀚聪](https://i.xiami.com/wxmusic0819) | **播放数**: 17767558<br>**粉丝数**: 752<br>**评论数**: 46<br>**地区**: China 中国大陆<br>**风格**: 原声 Soundtrack, 电视原声 Television Music<br> |
+| [![](../../images/musicians/0398f0a9b971740e9140790ac05cc604.jpg)<br>刘瀚聪](https://i.xiami.com/wxmusic0819) | **地区**: China 中国大陆<br>**风格**: 原声 Soundtrack, 电视原声 Television Music<br>**播放数**: 17767558<br>**粉丝数**: 752<br>**评论数**: 46<br> |
 
 ## 档案
 
@@ -28,8 +28,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29184637)<br>这家伙很聪明什么也没留下...<br>2020-05-20 19:44<br>赞(0) 踩(0) | <div>好的艺术家坚持好的风格已经很少了，感谢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441626827)<br><br>2020-04-11 20:09<br>赞(0) 踩(0) | <div>找了好久这个，喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49262349)<br> <br>2020-02-24 16:48<br>赞(0) 踩(0) | <div>刘瀚聪的作品非常的棒！他的旋律节奏无人替代！听他的作品就是一种享受！ <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |

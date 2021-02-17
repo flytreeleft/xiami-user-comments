@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/8ddcf36d6d4a43d6518da2d71303cc7d.jpg)<br>玖壹壹](https://i.xiami.com/nine11) | **播放数**: 12550449<br>**粉丝数**: 4850<br>**评论数**: 172<br>**地区**: Taiwan, PRC 中国台湾<br>**风格**: 闽南语流行 Bân-lâm-gú Pop<br> |
+| [![](../../images/musicians/8ddcf36d6d4a43d6518da2d71303cc7d.jpg)<br>玖壹壹](https://i.xiami.com/nine11) | **地区**: Taiwan, PRC 中国台湾<br>**风格**: 闽南语流行 Bân-lâm-gú Pop<br>**播放数**: 12550449<br>**粉丝数**: 4850<br>**评论数**: 172<br> |
 
 ## 档案
 
@@ -43,8 +43,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8227072)<br>什么都会听一点点～<br>2020-12-03 22:46<br>赞(0) 踩(0) | <div>从9453追到老周，博感情搏得掉了队，这次要local回来了，sen sen sen .</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/847967)<br>你们不让老子更老子就不更...<br>2020-10-06 15:02<br>赞(0) 踩(0) | <div>为什么没有新专辑？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40130058)<br>JL<br>2019-12-01 01:24<br>赞(0) 踩(0) | <div>希望玖壹壹永远都是玖壹壹，不要被无处不在的垃圾给污染了 <img src="../../images/comments/286e5490345b55baf85bf75195319042.png"></div> |
@@ -83,12 +83,12 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/106347630)<br>阳刚帅哥一枚 欢迎妹子来...<br>2017-08-01 23:40<br>赞(0) 踩(0) | <div>大爱玖壹壹</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261332301)<br>我还没想好要写什么...<br>2017-07-30 10:09<br>赞(0) 踩(0) | <div>可以的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19494335)<br>我是一只井底之蛙呱<br>2017-07-28 00:59<br>赞(1) 踩(0) | <div>948794狂 哈哈哈哈哈哈</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11700485)<br>闽南语/日语/后摇/摇滚...<br>2017-07-28 00:09<br>赞(11) 踩(0) | <div>今年十八岁喜欢听闽南歌喜欢玖壹壹</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11700485)<br>闽南语/日语/后摇/摇滚...<br>2017-07-28 00:09<br>赞(11) 踩(0) | <div>今年十八岁<br>喜欢听闽南歌<br>喜欢玖壹壹</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239942073)<br><br>2017-10-31 20:59<br>赞(0) 踩(0) | <div>我16</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/266069746)<br><br>2017-07-18 23:49<br>赞(3) 踩(0) | <div>這rap組合阮甲意</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/258750709)<br> <br>2017-07-17 02:37<br>赞(2) 踩(0) | <div>911 愛死了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/823994)<br><br>2017-07-13 23:39<br>赞(2) 踩(0) | <div>我是爱你爱你 爱尬欲死的痴情男子汉</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309635893)<br>YO！Man！<br>2017-07-06 19:54<br>赞(35) 踩(0) | <div>玖壹壹在台湾最红的名，在台湾没有人不知道玖壹。因为我是台湾人</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/823994)<br><br>2017-07-13 23:39<br>赞(2) 踩(0) | <div>我是爱你爱你 爱尬欲死的<br>痴情男子汉</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309635893)<br>YO！Man！<br>2017-07-06 19:54<br>赞(35) 踩(0) | <div>玖壹壹在台湾最红的名，在台湾没有人不知道玖壹。<br>因为我是台湾人</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/328388814)<br><br>2017-11-26 20:02<br>赞(0) 踩(0) | <div>和顽童比咧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5902737)<br> <br>2017-12-05 16:43<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239942073)<br><br>2018-01-08 23:17<br>赞(0) 踩(0) | <div><q><b>RoOtz说：</b></q></div> |
@@ -135,7 +135,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271995676)<br>yong<br>2017-04-29 00:54<br>赞(0) 踩(0) | <div><img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289154273)<br>林泉榮<br>2017-04-28 18:52<br>赞(1) 踩(0) | <div><img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260273616)<br><br>2017-04-28 11:34<br>赞(0) 踩(0) | <div>你迟早会火的</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309635893)<br>YO！Man！<br>2017-07-15 11:34<br>赞(0) 踩(0) | <div>已经火很久了。我的朋友 <img src="../../images/comments/c0b5820a44138b3377d4720d2e07302a.png"> <img src="../../images/comments/c0b5820a44138b3377d4720d2e07302a.png"> <img src="../../images/comments/c0b5820a44138b3377d4720d2e07302a.png"></div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309635893)<br>YO！Man！<br>2017-07-15 11:34<br>赞(0) 踩(0) | <div>已经火很久了。<br>我的朋友 <img src="../../images/comments/c0b5820a44138b3377d4720d2e07302a.png"> <img src="../../images/comments/c0b5820a44138b3377d4720d2e07302a.png"> <img src="../../images/comments/c0b5820a44138b3377d4720d2e07302a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47355043)<br><br>2017-04-27 12:54<br>赞(0) 踩(0) | <div>头像该换了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/287069274)<br><br>2017-04-19 12:12<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/289154273)<br>林泉榮<br>2017-04-18 17:46<br>赞(1) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">玖壹壹的歌不錯 <img src="../../images/comments/fc48226daddd5f290d72b7e7e072657a.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -215,5 +215,5 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24292645)<br>捨我其誰<br>2014-09-22 05:59<br>赞(0) 踩(0) | <div>到底何時才有歌呢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35649053)<br><br>2014-08-25 17:14<br>赞(0) 踩(0) | <div>为什么一首歌都没有</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7044597)<br>有事儿没事儿听听歌<br>2014-07-07 14:12<br>赞(0) 踩(0) | <div>拜托，赶快来歌听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13569778)<br><br>2014-06-20 10:36<br>赞(12) 踩(0) | <div>居然有玖壹壹!!??可惜沒歌可以聽!!!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13569778)<br><br>2014-06-20 10:36<br>赞(12) 踩(0) | <div>居然有玖壹壹!!??<br>可惜沒歌可以聽!!!</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/239942073)<br><br>2017-10-31 20:58<br>赞(0) 踩(0) | <div>现在不一样了，多谢马云爸爸吧</div> |

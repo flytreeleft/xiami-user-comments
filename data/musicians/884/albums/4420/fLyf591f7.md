@@ -71,8 +71,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253025899)<br><br>2017-11-30 14:02<br>赞(0) 踩(0) | <div>今年，我19，在大学寝室午睡，清晰的记得将要满15岁那年，在酒吧打鼓，一个特别漂亮的旅游区，看着门口的游客，打着鼓，听着大哥哥唱着这首歌。28岁的他跟我说&amp;ldquo;以后要好好学习，别贪玩，想要音乐以后有得是机会。&amp;rdquo;现在的确也没玩音乐了，不过挺想念大哥哥，也挺感谢当年他给我说的话！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2431)<br><br>2017-10-30 10:14<br>赞(0) 踩(0) | <div>我永远记得那一天万晓利唱这首歌的时候，坐在第一排身着海魂衫的那个男孩子悲伤地跟着他吟唱的神情。他说我真的来到了北京，背的不是书包却是Guitar，妈妈一定很伤心，在那个过年的夜。他说妈妈再给我唱支歌吧，就唱你教给我的童谣，虽然我写了一些歌儿，可哪能比得上那支童谣。他说妈妈再给我缝个书包，让我背它去天涯海角，我肩上的东西太多了，我要统统放进我的书包。每一句话都让人想要落泪。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14355618)<br><br>2017-10-30 10:12<br>赞(1) 踩(0) | <div>昨晚还在叽歪想外派，今天就被通知明天开滚。我说要中彩票怎么没有这么快呢。不过给大家一个缓冲期也好。半年不长不短，两个半小时动车不远不近，希望老妈适应我这里赖在家里不想嫁的拖油瓶。</div> |
@@ -144,8 +144,8 @@
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/968545)<br><br>2014-05-10 23:04<br>赞(0) 踩(0) | <div>她倒是说得好有道理</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34788268)<br>我要音乐和啤酒~<br>2014-04-09 22:17<br>赞(0) 踩(0) | <div>世界上最爱的人</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11086131)<br><br>2014-03-26 08:57<br>赞(0) 踩(0) | <div>妈妈~</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2938413)<br>I read you 5<br>2014-03-17 21:10<br>赞(0) 踩(0) | <div>我肩上的东西太多了我要统统放进我的书包</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2938413)<br>I read you 5<br>2014-03-17 20:46<br>赞(0) 踩(0) | <div>我不知道那歌叫什么却是我童年的欢乐</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2938413)<br>I read you 5<br>2014-03-17 21:10<br>赞(0) 踩(0) | <div>我肩上的东西太多了<br>我要统统放进我的书包</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2938413)<br>I read you 5<br>2014-03-17 20:46<br>赞(0) 踩(0) | <div>我不知道那歌叫什么<br>却是我童年的欢乐</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20991513)<br><br>2014-03-14 10:45<br>赞(0) 踩(0) | <div>比钟立风的妈妈更有味道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30162221)<br>东北没有听摇滚的人？<br>2014-03-06 11:32<br>赞(0) 踩(0) | <div>操，毫无尊严的哭了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16088120)<br><br>2014-02-08 21:12<br>赞(0) 踩(0) | <div>听虾米推荐的时候偶尔会给我首万晓利。。。不知道怎么有种荣幸的感脚</div> |
@@ -182,7 +182,7 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7043986)<br>万物生长靠太阳 花开花落<br>2013-04-14 16:11<br>赞(0) 踩(0) | <div>实在。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11481848)<br><br>2013-04-04 22:35<br>赞(0) 踩(0) | <div>给我唱首歌吧  就唱那首童谣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9960788)<br>Live and let...<br>2013-03-17 20:56<br>赞(0) 踩(0) | <div>@李大西 @某女SharonLU 北京**了大批九十年代涌现出的城市民谣歌手，他们是普通的吉他手，蹩脚的诗人，勉强的音乐人，但却是优秀的时代记录者和社会评论员。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3298841)<br><br>2013-03-12 02:10<br>赞(0) 踩(0) | <div>“小时候妈妈经常给我唱一支歌/我不知道那歌叫什么/却是我童年的欢乐在那个纯朴的年代/那些温暖的夜/我躺在妈妈的怀里/静静的听着'......</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3298841)<br><br>2013-03-12 02:10<br>赞(0) 踩(0) | <div>“小时候妈妈经常给我唱一支歌/我不知道那歌叫什么/却是我童年的欢乐<br>在那个纯朴的年代/那些温暖的夜/我躺在妈妈的怀里/静静的听着'......</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1006934)<br>我还没想好要写什么...<br>2013-02-01 21:17<br>赞(0) 踩(0) | <div>要回家咯，心儿已经插上翅膀</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11253236)<br>哎呦喂<br>2013-01-25 02:39<br>赞(0) 踩(0) | <div>听了有些想家</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3218371)<br>搞<br>2013-01-25 00:32<br>赞(0) 踩(0) | <div>我躺在妈妈怀里，静静地听着。可。没退路了</div> |
@@ -238,10 +238,10 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/814006)<br><br>2011-01-16 04:32<br>赞(0) 踩(0) | <div>长大了，走远了，回不去了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1835863)<br><br>2010-11-07 12:04<br>赞(0) 踩(0) | <div>我还留着什么？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134263)<br>_(:3」∠)_<br>2010-09-13 18:03<br>赞(0) 踩(0) | <div>非常非常打动人</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134263)<br>_(:3」∠)_<br>2010-09-13 18:01<br>赞(0) 踩(0) | <div>妈妈再给我唱首歌吧就唱你教给我的童谣虽然我现在长大了可那支童谣我忘了妈妈再给我唱首歌吧就唱你教给我的童谣虽然我写了一些歌可哪能比得上那支童谣</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/134263)<br>_(:3」∠)_<br>2010-09-13 18:01<br>赞(0) 踩(0) | <div>妈妈再给我唱首歌吧<br>就唱你教给我的童谣<br>虽然我现在长大了<br>可那支童谣我忘了<br><br>妈妈再给我唱首歌吧<br>就唱你教给我的童谣<br>虽然我写了一些歌<br>可哪能比得上那支童谣</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1394895)<br> <br>2010-09-09 20:58<br>赞(0) 踩(0) | <div>下次过生日，要给妈妈唱这个</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1243765)<br><br>2010-08-18 00:19<br>赞(0) 踩(0) | <div>写的就是我哥哥。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1271913)<br>多听音乐少扯淡<br>2010-08-17 19:54<br>赞(0) 踩(0) | <div>又听了很多遍，又开始回忆，像又回到童年。。喜欢！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1271913)<br>多听音乐少扯淡<br>2010-08-17 19:54<br>赞(0) 踩(0) | <div>又听了很多遍，又开始回忆，像又回到童年。。<br>喜欢！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1040131)<br><br>2010-06-18 13:38<br>赞(0) 踩(0) | <div>在歌唱妈妈的歌里，我最喜欢这一首。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/976309)<br><br>2010-06-06 16:33<br>赞(0) 踩(0) | <div>什么都可以。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/955990)<br><br>2010-06-03 17:06<br>赞(0) 踩(0) | <div>好</div> |
@@ -261,6 +261,6 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177854)<br><br>2009-10-07 23:17<br>赞(0) 踩(0) | <div>流浪过的人 都知道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177854)<br><br>2009-10-07 23:16<br>赞(0) 踩(0) | <div>流浪过的人 都知道</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/177854)<br><br>2009-10-07 23:16<br>赞(0) 踩(0) | <div>流浪过的人 都知道</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121582)<br><br>2009-08-21 16:23<br>赞(0) 踩(0) | <div>你要学好功课妈妈给你缝个新书包将来去北京上大学我真的来到了北京背的不是书包却是Guitar妈妈再给我缝个书包让我背上它去天涯海角我肩上的东西太多了我要统统放进我的书包</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121582)<br><br>2009-08-21 16:23<br>赞(0) 踩(0) | <div>你要学好功课<br>妈妈给你缝个新书包<br>将来去北京上大学<br>我真的来到了北京<br>背的不是书包却是Guitar<br>妈妈再给我缝个书包<br>让我背上它去天涯海角<br>我肩上的东西太多了<br>我要统统放进我的书包</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/95621)<br><br>2009-03-28 14:23<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12281)<br><br>2009-01-22 23:19<br>赞(0) 踩(0) | <div>2007/5/31 很不一样的国内folk，比他的新专辑好听，经典</div> |

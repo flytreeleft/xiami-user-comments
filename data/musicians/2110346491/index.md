@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b0c69ed6d84ce0e5506cc5003db3c08e.jpg)<br>吕欣](https://i.xiami.com/heartlv) | **播放数**: 1315926<br>**粉丝数**: 286<br>**评论数**: 30<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/b0c69ed6d84ce0e5506cc5003db3c08e.jpg)<br>吕欣](https://i.xiami.com/heartlv) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 1315926<br>**粉丝数**: 286<br>**评论数**: 30<br> |
 
 ## 档案
 
@@ -22,8 +22,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431208250)<br><br>2021-01-25 17:52<br>赞(0) 踩(0) | <div>好像我一个朋友</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/415289913)<br><br>2021-01-11 21:57<br>赞(1) 踩(0) | <div>永不失联的爱 好听啊 继续期待你的好作品 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/348378474)<br>哲学女博士，随性音乐人<br>2021-01-13 01:35<br>赞(0) 踩(0) | <div>谢谢您的支持。只是虾米这块徜徉地要消散了，带着无奈和不舍，我也只好移步qq音乐，您可搜索q音音乐人吕欣继续关注我的歌曲。愿我的歌声与听友朋友永不失联 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |

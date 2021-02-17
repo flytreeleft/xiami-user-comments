@@ -37,7 +37,7 @@ La la la...
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338585049)<br>我还没想好要写什么...<br>2018-10-09 08:58<br>赞(1) 踩(0) | <div>Good</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7654929)<br><br>2016-11-01 00:27<br>赞(3) 踩(0) | <div>为什么林一峰的心思如此细腻啊！已经被迷住了！</div> |

@@ -12,14 +12,11 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342634165)<br><br>2020-09-10 17:19<br>赞(4) 踩(0) | <div>老师是美丽的神话，我的女儿正延续着这个神话，祝天下老师，教师节快乐！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/420681724)<br>抬头45度角<br>2019-03-13 02:36<br>赞(2) 踩(0) | <div>很多年以前，我在酷狗听过一个古筝版《美丽的神话》，纯古筝的，现在哪里都找不到了 <img src="../../../../images/comments/78bb5b6cccf51e24840c9ecbfee1914b.png">，很难受……</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/237027640)<br><br>2020-08-10 18:40<br>赞(0) 踩(0) | <div>我也听过。</div> |

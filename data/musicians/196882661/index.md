@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e8e379d6dca71951f26065b3f22b74db.jpg)<br>西奥Sio](https://i.xiami.com/sio) | **播放数**: 7150388<br>**粉丝数**: 7619<br>**评论数**: 180<br>**地区**: China 中国大陆<br>**风格**: 硬核说唱 Hardcore Hip Hop, 老派说唱 Old-school Hip Hop<br> |
+| [![](../../images/musicians/e8e379d6dca71951f26065b3f22b74db.jpg)<br>西奥Sio](https://i.xiami.com/sio) | **地区**: China 中国大陆<br>**风格**: 硬核说唱 Hardcore Hip Hop, 老派说唱 Old-school Hip Hop<br>**播放数**: 7150388<br>**粉丝数**: 7619<br>**评论数**: 180<br> |
 
 ## 档案
 
@@ -39,8 +39,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951418)<br>一切过往，皆为序章。<br>2020-09-30 20:20<br>赞(0) 踩(0) | <div>K</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/132944396)<br>想听喃样<br>2020-08-06 17:24<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/274944198)<br>三军可夺帅也，匹夫不可夺...<br>2020-06-22 20:43<br>赞(0) 踩(0) | <div>西奥真的 <img src="../../images/comments/f10e8c35366eb553db3d665e8b324caf.png"></div> |

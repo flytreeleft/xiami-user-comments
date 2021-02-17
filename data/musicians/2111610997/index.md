@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/6ae8c191fcfc7b1d1badb429b8b9ca99.jpg)<br>谷丽莎](https://i.xiami.com/lishagu) | **播放数**: 3208021<br>**粉丝数**: 1196<br>**评论数**: 46<br>**地区**: China 中国大陆<br>**风格**: 古典跨界 Classical Crossover, 器乐独奏 Solo Instrumental, 器乐流行 Instrumental Pop, 轻音乐 Easy Listening, 独奏 Recital<br> |
+| [![](../../images/musicians/6ae8c191fcfc7b1d1badb429b8b9ca99.jpg)<br>谷丽莎](https://i.xiami.com/lishagu) | **地区**: China 中国大陆<br>**风格**: 古典跨界 Classical Crossover, 器乐独奏 Solo Instrumental, 器乐流行 Instrumental Pop, 轻音乐 Easy Listening, 独奏 Recital<br>**播放数**: 3208021<br>**粉丝数**: 1196<br>**评论数**: 46<br> |
 
 ## 档案
 
@@ -23,8 +23,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321291590)<br><br>2020-09-01 21:24<br>赞(1) 踩(0) | <div>&lt;我梦中的女神٩(๑òωó๑)۶[url=/u/408694864]@谷丽莎 [/url]&gt;&lt;408694864&gt;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321291590)<br><br>2020-09-01 20:45<br>赞(0) 踩(0) | <div><img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321291590)<br><br>2020-09-01 20:45<br>赞(0) 踩(0) | <div><img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
@@ -44,7 +44,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48306240)<br>我还没想好要写什么...<br>2019-12-02 22:30<br>赞(1) 踩(0) | <div>关注你了，弓法细腻，感情丰富，有帕尔曼的风范！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321144838)<br>好歌听不厌<br>2019-11-26 22:59<br>赞(1) 踩(0) | <div>有是一位难得的美女音乐天才</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47355043)<br><br>2019-08-12 21:35<br>赞(1) 踩(0) | <div>好厉害的姑娘</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98083234)<br>人如莲兰质自神～品似梅菊...<br>2019-07-29 15:33<br>赞(1) 踩(0) | <div>一个静心的环境，一曲净神的邂逅。心静自然凉，神净者心静；夏炎酷暑天，避暑乃首选。喜欢感受现场震撼的我，昨晚有幸观摩了「卡农-爱乐汇为您呈现」，你们的气质、你们的演技、你们的团队精神，深深吸引了我甚至迷上了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/98083234)<br>人如莲兰质自神～品似梅菊...<br>2019-07-29 15:33<br>赞(1) 踩(0) | <div>一个静心的环境，一曲净神的邂逅。<br>心静自然凉，神净者心静；<br>夏炎酷暑天，避暑乃首选。<br>喜欢感受现场震撼的我，昨晚有幸观摩了「卡农-爱乐汇为您呈现」，你们的气质、你们的演技、你们的团队精神，深深吸引了我甚至迷上了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/424189024)<br><br>2019-07-23 19:07<br>赞(1) 踩(0) | <div>喜欢谷丽莎！最喜欢额吉的歌。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334968073)<br>诚正如阳。<br>2019-06-22 20:58<br>赞(1) 踩(0) | <div>额吉的歌，越听越喜欢，淡淡的思念，浓浓的眷恋，意境清扬悠远。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334968073)<br>诚正如阳。<br>2019-06-22 20:14<br>赞(0) 踩(0) | <div>额吉的歌，贝加尔湖的清晨，春日都很喜欢，全部收藏了，谢谢您创作这么美妙的音乐。</div> |

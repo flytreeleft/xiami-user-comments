@@ -81,8 +81,8 @@ Love the guy
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323299917)<br>生米玉米两门报<br>2020-08-04 12:16<br>赞(0) 踩(0) | <div>周深。vitas。林志炫。常思思。高天鹤。dimash。 张靓颖。还有法国的因瓦穆兰 他们唱歌是在同一个音域上的</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8399746)<br>自律给你带来自由<br>2020-06-24 19:19<br>赞(1) 踩(0) | <div>翻唱的666</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/323299917)<br>生米玉米两门报<br>2020-06-21 14:35<br>赞(1) 踩(0) | <div>criminal</div> |
@@ -135,7 +135,7 @@ Love the guy
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13402709)<br><br>2018-11-09 15:42<br>赞(0) 踩(0) | <div>欢迎入坑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356270934)<br><br>2018-04-02 16:49<br>赞(1) 踩(0) | <div>两个字：好听～</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/80426968)<br><br>2018-03-09 18:21<br>赞(1) 踩(0) | <div>女神</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338582907)<br>你好~<br>2018-03-08 11:19<br>赞(3) 踩(0) | <div>当年和他在一起的时候，每次拥抱脑海里就是那句歌词：mama I  am in love with a criminal然后你会发现妈妈说的是对的，有些人不该在一起，就像有些鱼不会生活在同一片海洋中一样。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338582907)<br>你好~<br>2018-03-08 11:19<br>赞(3) 踩(0) | <div>当年和他在一起的时候，每次拥抱脑海里就是那句歌词：mama I  am in love with a criminal<br>然后你会发现妈妈说的是对的，有些人不该在一起，就像有些鱼不会生活在同一片海洋中一样。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309612101)<br><br>2018-03-07 16:39<br>赞(2) 踩(0) | <div>好听，发音也很自然，。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13402709)<br><br>2018-11-09 15:43<br>赞(0) 踩(0) | <div>对的，国内众多歌手英文发音都很尬，周深的很自然又不会特别偏美式，但听起来也算标准了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48925916)<br>可爱迷人的花花(≧▽≦)<br>2018-03-04 22:14<br>赞(1) 踩(0) | <div><img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"> <img src="../../../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
@@ -168,7 +168,7 @@ Love the guy
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/253976022)<br>大鱼我记住了。<br>2017-01-03 20:47<br>赞(1) 踩(0) | <div>只想说六六六</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/69605496)<br> <br>2016-12-20 11:31<br>赞(3) 踩(0) | <div>周深每个歌都支持太棒了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52328655)<br>Welcome to t...<br>2016-12-15 11:55<br>赞(1) 踩(0) | <div>翻唱好好听！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249970070)<br><br>2016-11-26 13:39<br>赞(9) 踩(0) | <div>麻麻，I am in love with him！要全部听懂深深的歌，还得学好几门外语</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249970070)<br><br>2016-11-26 13:39<br>赞(9) 踩(0) | <div>麻麻，I am in love with him！<br>要全部听懂深深的歌，还得学好几门外语</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210680405)<br><br>2016-09-04 23:28<br>赞(2) 踩(0) | <div><img src="../../../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/62100032)<br><br>2016-08-31 12:15<br>赞(0) 踩(0) | <div>好好听！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/195551821)<br>她夏了夏天～<br>2016-08-25 22:58<br>赞(44) 踩(0) | <div>听多了周深的版本觉得比原版还好听，强烈安利！</div> |

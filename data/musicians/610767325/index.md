@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/68baa10b91cdc3115ff731b1dc034c82.jpg)<br>徐鹏](https://i.xiami.com/icebullet) | **播放数**: 2200258<br>**粉丝数**: 130<br>**评论数**: 26<br>**地区**: China 中国大陆<br>**风格**: 当代唱作人 Contemporary Singer-Songwriter, 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/68baa10b91cdc3115ff731b1dc034c82.jpg)<br>徐鹏](https://i.xiami.com/icebullet) | **地区**: China 中国大陆<br>**风格**: 当代唱作人 Contemporary Singer-Songwriter, 国语流行 Mandarin Pop<br>**播放数**: 2200258<br>**粉丝数**: 130<br>**评论数**: 26<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,8 +18,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330900828)<br>高舉一面五星紅旗在蝦米！<br>2020-03-29 17:27<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2251133)<br>我本无心向明月<br>2017-12-06 20:19<br>赞(0) 踩(0) | <div>感觉你会火唉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/168767754)<br><br>2017-01-24 22:40<br>赞(0) 踩(0) | <div>和macklemorefeat歌，真不錯</div> |

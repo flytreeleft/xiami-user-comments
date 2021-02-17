@@ -12,13 +12,10 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/851774)<br>duludubi<br>2013-02-27 13:13<br>赞(1) 踩(0) | <div>陶冶性情~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/851774)<br>duludubi<br>2013-02-27 11:47<br>赞(1) 踩(0) | <div>全专辑最耐听的~</div> |

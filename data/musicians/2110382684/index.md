@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0ba9fdc22961492506efbe883f0cbb8d.jpg)<br>张笑达](https://i.xiami.com/bingoboer) | **播放数**: 4326447<br>**粉丝数**: 179<br>**评论数**: 8<br>**地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap, 嘻哈 Hip-Hop<br> |
+| [![](../../images/musicians/0ba9fdc22961492506efbe883f0cbb8d.jpg)<br>张笑达](https://i.xiami.com/bingoboer) | **地区**: China 中国大陆<br>**风格**: 流行说唱 Pop Rap, 嘻哈 Hip-Hop<br>**播放数**: 4326447<br>**粉丝数**: 179<br>**评论数**: 8<br> |
 
 ## 档案
 
@@ -33,8 +33,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441130039)<br><br>2020-03-04 21:14<br>赞(0) 踩(0) | <div>打卡康康以前的哥哥 <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326023852)<br><br>2018-09-19 01:04<br>赞(0) 踩(0) | <div>点赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293997625)<br><br>2018-08-16 13:51<br>赞(0) 踩(0) | <div>喜欢的声音</div> |

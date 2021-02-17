@@ -12,17 +12,14 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11427737)<br>♥<br>2020-11-24 08:42<br>赞(0) 踩(0) | <div>搜暗香搜出的惊喜&amp;hellip;不过这风格听起来也挺能代冷清秋的</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283755870)<br><br>2020-09-17 20:45<br>赞(2) 踩(0) | <div>《班扎古鲁白玛的沉默》作者：扎西拉姆&amp;middot;多多你见，或者不见我我就在那里不悲 不喜你念，或者不念我情就在那里不来 不去你爱，或者不爱我爱就在那里不增 不减你跟，或者不跟我我的手就在你手里不舍 不弃来我的怀里或者让我住进你的心里默然 相爱寂静 欢喜</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421819267)<br>我还没想好要写什么...<br>2020-09-12 22:49<br>赞(1) 踩(0) | <div>夜静冬山空为有暗香来遥知不是雪寻他千百度只在此山中云深不知处</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/283755870)<br><br>2020-09-17 20:45<br>赞(2) 踩(0) | <div>《班扎古鲁白玛的沉默》<br>作者：扎西拉姆&amp;middot;多多<br>你见，或者不见我<br>我就在那里<br>不悲 不喜<br>你念，或者不念我<br>情就在那里<br>不来 不去<br>你爱，或者不爱我<br>爱就在那里<br>不增 不减<br>你跟，或者不跟我<br>我的手就在你手里<br>不舍 不弃<br>来我的怀里<br>或者<br>让我住进你的心里<br>默然 相爱<br>寂静 欢喜</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421819267)<br>我还没想好要写什么...<br>2020-09-12 22:49<br>赞(1) 踩(0) | <div>夜静冬山空<br>为有暗香来<br>遥知不是雪<br>寻他千百度<br>只在此山中<br>云深不知处</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7287017)<br>姌稥毓影，复刻轻悠<br>2020-07-10 07:14<br>赞(0) 踩(0) | <div></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/262211479)<br><br>2020-06-13 09:19<br>赞(1) 踩(0) | <div>得了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440663430)<br><br>2020-05-15 15:36<br>赞(1) 踩(0) | <div></div> |
@@ -47,11 +44,11 @@
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/357539423)<br><br>2018-05-01 00:02<br>赞(2) 踩(0) | <div>绽放吧！即使是身处无限的黑暗地狱，也要绽放出如艳的花朵。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/122494438)<br>我还没想好要写什么...<br>2018-03-16 11:38<br>赞(2) 踩(0) | <div>水色 感</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/335517556)<br><br>2018-02-07 05:10<br>赞(0) 踩(0) | <div>ing</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951829)<br>孤鴻寄語·血色琉璃<br>2018-01-23 23:02<br>赞(10) 踩(0) | <div>物極必反，人非須十足，而是知足，意足，心足，则執念無從而存。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/951829)<br>孤鴻寄語·血色琉璃<br>2018-01-23 23:02<br>赞(10) 踩(0) | <div>物極必反，人非須十足，<br>而是知足，意足，心足，<br>则執念無從而存。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1923255)<br>  云雷， 屯 ，君子以...<br>2017-12-06 23:16<br>赞(1) 踩(0) | <div>很美好</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294845613)<br><br>2017-10-31 22:48<br>赞(7) 踩(0) | <div>很喜欢弹奏左手的和弦伴奏， <img src="../../../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326914426)<br><br>2017-10-09 07:00<br>赞(3) 踩(0) | <div>各自走天涯</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257400529)<br>音乐之必要～<br>2017-10-01 14:26<br>赞(9) 踩(0) | <div>为谁暗香浮动为谁月黄昏雕刻的时光里你是唯一抓不住的纵横交错</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257400529)<br>音乐之必要～<br>2017-10-01 14:26<br>赞(9) 踩(0) | <div>为谁暗香浮动<br>为谁月黄昏<br>雕刻的时光里<br>你是唯一抓不住的<br>纵横交错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/322235515)<br>在音乐里澎湃，在玩笑里开...<br>2017-09-23 16:58<br>赞(37) 踩(0) | <div>这首曲子很好地展示了齐整的钢琴的音阶。&amp;ldquo;遥知不是雪，为有暗香来。&amp;rdquo;既有诗趣，更有人情。在听了好多遍后，我终于记住了它的旋律。在静静绽放自己的一片深夜里，昙花何曾在意他人的关注，却被赋予如流星一样不长久的恶名。细腻的心思，柔软的感情，在激烈紧张的现实里显得多么无力，但是这无力又多么珍贵。我每次在别人的婚礼上都会流泪，情不自禁。两个男人的责任交接，当司仪每次说这句话的时候，我都会相信，即使只是相信那么一瞬间。被发现，就证明了过去。被想象，就超越了现实。雪落声如天鹅飞翔，亦如笔落处。都不如林海的《暗香》好听。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310690473)<br>嗯<br>2017-09-23 17:04<br>赞(0) 踩(0) | <div>还算可以。</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/310690473)<br>嗯<br>2017-09-23 17:04<br>赞(0) 踩(0) | <div>听听远方的寂静，那个才好听</div> |

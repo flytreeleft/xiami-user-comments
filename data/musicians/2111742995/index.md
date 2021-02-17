@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>蒋欢欢](https://i.xiami.com/huanhuanjiang) | **播放数**: 857785<br>**粉丝数**: 2<br>**评论数**: 0<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop<br> |
+| [![](../../images/musicians/0bad15de82698b7ac1c25a2446aca6c4.png)<br>蒋欢欢](https://i.xiami.com/huanhuanjiang) | **地区**: China 中国大陆<br>**风格**: 流行 Pop<br>**播放数**: 857785<br>**粉丝数**: 2<br>**评论数**: 0<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,5 +18,3 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

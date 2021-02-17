@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/b297ecc699d1c8954c3e31b785e0b077.jpg)<br>刺猬](https://i.xiami.com/hedgehog) | **播放数**: 10162824<br>**粉丝数**: 44108<br>**评论数**: 1135<br>**地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 梦幻流行 Dream Pop, 噪音流行 Noise Pop, 另类摇滚 Alternative Rock, 迷幻摇滚 Psychedelic Rock<br> |
+| [![](../../images/musicians/b297ecc699d1c8954c3e31b785e0b077.jpg)<br>刺猬](https://i.xiami.com/hedgehog) | **地区**: China 中国大陆<br>**风格**: 独立摇滚 Indie Rock, 梦幻流行 Dream Pop, 噪音流行 Noise Pop, 另类摇滚 Alternative Rock, 迷幻摇滚 Psychedelic Rock<br>**播放数**: 10162824<br>**粉丝数**: 44108<br>**评论数**: 1135<br> |
 
 ## 档案
 
@@ -41,20 +41,20 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2955288)<br>音乐是最私密的交流<br>2021-01-06 18:23<br>赞(1) 踩(0) | <div>刺猬刚回来虾米却没了&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/551581)<br>要么是孤独 要么是庸俗<br>2020-11-20 04:40<br>赞(0) 踩(0) | <div>来了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26739712)<br> <br>2020-10-10 00:24<br>赞(2) 踩(0) | <div>好多版权都回来了，真好(o^^o)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/442651198)<br><br>2020-09-27 21:53<br>赞(0) 踩(0) | <div>好巧哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50433398)<br> <br>2020-09-22 13:08<br>赞(1) 踩(0) | <div>牛逼，刺猬又回虾米了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349339882)<br>后荣迷。努力学习中。<br>2020-08-29 17:13<br>赞(0) 踩(0) | <div>(&amp;acute;-&amp;omega;-`)新舍友钟意的乐队~9.5要来楠溪江了呀，赞~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349339882)<br>后荣迷。努力学习中。<br>2020-08-29 17:13<br>赞(0) 踩(0) | <div>(&amp;acute;-&amp;omega;-`)新舍友钟意的乐队~<br>9.5要来楠溪江了呀，赞~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408998650)<br> <br>2020-08-08 09:56<br>赞(0) 踩(0) | <div>粉了粉了，啤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71684456)<br>我还没想好要写什么...<br>2020-08-03 20:51<br>赞(0) 踩(0) | <div>刺猬是从摩登天空转赤瞳了么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/71684456)<br>我还没想好要写什么...<br>2020-08-03 20:45<br>赞(1) 踩(0) | <div>看乐夏1，收获了宝藏刺猬乐队～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2207073)<br>没有曾经，只有未来。其实...<br>2020-08-02 02:09<br>赞(0) 踩(0) | <div>谢谢你们。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/215379991)<br>簽名不重要重要的是你聽什...<br>2020-08-01 04:59<br>赞(0) 踩(0) | <div>ﻌﻌﻌ❤︎</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47448303)<br> <br>2020-06-14 19:20<br>赞(4) 踩(0) | <div>热评第一说只听前奏的 大概是get不到子健的唱吧 我个人觉得很好尤其是*幻象波普星 中的唱子健懂得如何补足原本不出彩的唱功唱出来的声音质感和精心编制的曲子是非常和谐的 加上他的词 锦上添花情绪由浅入深 他们的歌听了犹如注射了肾上腺素</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47448303)<br> <br>2020-06-14 19:20<br>赞(4) 踩(0) | <div>热评第一说只听前奏的 大概是get不到子健的唱吧 我个人觉得很好<br>尤其是*幻象波普星 中的唱<br>子健懂得如何补足原本不出彩的唱功<br>唱出来的声音质感和精心编制的曲子是非常和谐的 加上他的词 锦上添花<br>情绪由浅入深 他们的歌听了犹如注射了肾上腺素</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24325936)<br>无忧无虑，向前游。。。<br>2020-05-29 13:15<br>赞(0) 踩(0) | <div>如果让鼓手当主唱，关注度应该会更高。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7960941)<br>我还没想好要写什么...<br>2020-05-28 22:05<br>赞(0) 踩(0) | <div>支持</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5394363)<br>滑板 冲浪 拍照<br>2020-04-22 05:58<br>赞(0) 踩(0) | <div>不要让爱奇艺影响冲浪了，我从02年就开始你们了，他们让你赚了钱，但是你们觉得是真的么？这个社会给所有人太多改变了，我的发声我只是喝酒里流淌的水，但是真的，你们渴求世界还有点真的话，请把我的微信推给马东，我希望他能理解我们浪人，而不是用流量来冲击整个文化，感谢你们对音乐的付出，但是这个真的不一样！</div> |
@@ -68,7 +68,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434921364)<br><br>2020-01-01 17:20<br>赞(0) 踩(0) | <div><q><b>皮痒卡丘说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/143338)<br>~~~~~~~~~~~~<br>2020-01-02 13:54<br>赞(0) 踩(0) | <div>你这是遇到PUA了吧，建议搜集证据挂出来发到微博上面</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434921364)<br><br>2020-01-03 00:01<br>赞(0) 踩(0) | <div><q><b>Art of Life说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306606246)<br>不喜全世界<br>2019-10-22 17:26<br>赞(3) 踩(0) | <div>求你们来长沙好不好~好久没听到这么心动这么想去看现场的乐队了~国内能有你们真的很开心很惊喜~我在高中那会听过你们的歌，现在转眼已经好几年了，期间经历了很多事，也听了不少歌，现在又听了你们的歌，它们真的给了我莫大的惊喜。我好喜欢你们！！（然而我没有看大火的《乐队的夏天》，我一向不喜欢综艺节目）希望你们是代表你们个人来长沙开演唱会~！最晚明年吧，我已经等不及了，求你们赶快来。（看到我，拜托）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306606246)<br>不喜全世界<br>2019-10-22 17:26<br>赞(3) 踩(0) | <div>求你们来长沙好不好~<br>好久没听到这么心动这么想去看现场的乐队了~<br>国内能有你们真的很开心很惊喜~<br>我在高中那会听过你们的歌，现在转眼已经好几年了，期间经历了很多事，也听了不少歌，现在又听了你们的歌，它们真的给了我莫大的惊喜。我好喜欢你们！！<br>（然而我没有看大火的《乐队的夏天》，我一向不喜欢综艺节目）<br>希望你们是代表你们个人来长沙开演唱会~！最晚明年吧，我已经等不及了，求你们赶快来。（看到我，拜托）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260992790)<br>I'll Be Your...<br>2019-10-11 12:05<br>赞(3) 踩(0) | <div>现在这评论区太有趣了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1381906)<br>Skin to skin<br>2019-10-11 05:57<br>赞(0) 踩(0) | <div>相见恨晚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10643094)<br>要加组织的朋友发站内信<br>2019-10-08 20:54<br>赞(0) 踩(0) | <div>可</div> |
@@ -78,7 +78,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28121031)<br> <br>2019-09-03 10:53<br>赞(5) 踩(0) | <div>版权能再争取多点嘛…要培养我女儿的架子鼓了…</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2617510)<br>secret stand<br>2019-08-27 17:21<br>赞(0) 踩(0) | <div>真的很棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374968637)<br>听音乐这事儿当然看心情啦<br>2019-08-24 09:32<br>赞(0) 踩(0) | <div>评论好多 吓我一跳 这还是虾米吗 Hahahaha</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309213480)<br>我还没想好要写什么...<br>2019-08-11 00:37<br>赞(3) 踩(0) | <div>感谢乐夏让我在有生之年认识你们。。。。爱你们三只。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309213480)<br>我还没想好要写什么...<br>2019-08-11 00:37<br>赞(3) 踩(0) | <div>感谢乐夏让我在有生之年认识你们。。。。爱你们三只<br>。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/419818987)<br><br>2019-09-02 15:19<br>赞(0) 踩(0) | <div>我也是在乐夏里看见的，然后特喜欢٩( 'ω' )و</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400652567)<br><br>2019-08-10 23:22<br>赞(0) 踩(0) | <div>绝了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47875756)<br>没有固定喜欢的，只喜欢自...<br>2019-08-08 06:26<br>赞(2) 踩(0) | <div>璐姐还是我爱的那个北京大妞。虽然现在也当了妈，但再听还是会想起那些年，依然热泪盈眶，此间依然少年</div> |
@@ -104,7 +104,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1153427)<br> <br>2019-07-16 02:19<br>赞(0) 踩(0) | <div>有好多话要你说，对，想和你们说</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/374219263)<br><br>2019-07-15 19:04<br>赞(0) 踩(0) | <div>石璐石璐 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/341736754)<br><br>2019-07-13 10:26<br>赞(0) 踩(0) | <div>通过夏天的乐队认识了刺猬，NB!</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271579318)<br>爱你永不停歇 对吗<br>2019-07-12 20:42<br>赞(1) 踩(0) | <div>希望会继续下去 坚持向前 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">乐队的夏天 让我认识了你们每次听到你们的歌 眼眶都会湿润总是能唱到我心里 加油啊  <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/271579318)<br>爱你永不停歇 对吗<br>2019-07-12 20:42<br>赞(1) 踩(0) | <div>希望会继续下去 坚持向前 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"><br>乐队的夏天 让我认识了你们<br>每次听到你们的歌 眼眶都会湿润<br>总是能唱到我心里 加油啊  <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1380712)<br><br>2019-07-10 22:55<br>赞(3) 踩(0) | <div>石璐很美。眼睛美笑容美。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3012327)<br>何だ⁉️<br>2019-07-10 00:16<br>赞(2) 踩(0) | <div>这仨人生活的样子还挺让人心疼的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14754495)<br><br>2019-07-09 20:24<br>赞(3) 踩(0) | <div>表白石璐</div> |
@@ -144,7 +144,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2835108)<br>♪( ´▽｀)<br>2019-06-16 12:12<br>赞(1) 踩(0) | <div>厉害(ง •̀_•́)ง</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/269245130)<br>喜欢一样事情就拼了命去做...<br>2019-06-15 23:29<br>赞(1) 踩(0) | <div>今晚最佳 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86407)<br>小弟，乖！<br>2019-06-15 23:03<br>赞(0) 踩(0) | <div>我的评论不见了！？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86407)<br>小弟，乖！<br>2019-06-15 23:01<br>赞(2) 踩(0) | <div>从《甜蜜与杀害》开始听，喜欢就收藏了。不过收藏以后也没好好听过。乐队的夏天上的两首真的超赞 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">。不过我觉得石璐和子建去这节目是不是就只是想证明我们仍然互相深爱，相爱相杀啊。我不会祝福你们破镜重圆，毕竟那么多人都那么深爱同时不能在一起。祝你们开心就好。贝斯手也很nice啊，真的猛士，不求功与名。所以我连你的名字也记不住。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86407)<br>小弟，乖！<br>2019-06-15 23:01<br>赞(2) 踩(0) | <div>从《甜蜜与杀害》开始听，喜欢就收藏了。不过收藏以后也没好好听过。乐队的夏天上的两首真的超赞 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">。<br>不过我觉得石璐和子建去这节目是不是就只是想证明我们仍然互相深爱，相爱相杀啊。我不会祝福你们破镜重圆，毕竟那么多人都那么深爱同时不能在一起。祝你们开心就好。<br>贝斯手也很nice啊，真的猛士，不求功与名。所以我连你的名字也记不住。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52694272)<br>还挺帅一男的。<br>2019-06-15 21:06<br>赞(0) 踩(0) | <div>真的棒呆…</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5902337)<br>我的微信longerpp...<br>2019-06-15 10:14<br>赞(0) 踩(0) | <div>感谢，感动，互粉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1631900)<br>.<br>2019-06-13 17:11<br>赞(1) 踩(0) | <div>从乐队的夏天而来!</div> |
@@ -184,7 +184,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369819875)<br><br>2018-05-22 06:36<br>赞(0) 踩(0) | <div>西安的呀？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6061758)<br>你的微笑，慌乱了我的青春...<br>2018-09-14 17:29<br>赞(0) 踩(0) | <div><q><b>夺命小二毛说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261713291)<br><br>2018-05-08 17:45<br>赞(0) 踩(0) | <div>石璐女神   <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13613638)<br>有猫病<br>2018-05-06 00:22<br>赞(2) 踩(0) | <div>刚刚从nu出来，过来打卡。蒸了个桑拿石璐说3年前在小酒馆万象城店演出，演完之后很沮丧，坐在广场上吐槽，没想到3年后再次来成都，来nuspace，&amp;ldquo;这里太专业了！&amp;rdquo;是的，来过nu一次之后就不想去小酒馆了音响灯光甩几条街，唯一缺点就是闷热，空调全开也抵挡不住乐迷的热情！还有那些洒啤酒的，麻烦下次洒点雪花哈啤之类清爽的，不要洒精酿好吗！！头发都粘住了！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13613638)<br>有猫病<br>2018-05-06 00:22<br>赞(2) 踩(0) | <div>刚刚从nu出来，过来打卡。<br>蒸了个桑拿<br>石璐说3年前在小酒馆万象城店演出，演完之后很沮丧，坐在广场上吐槽，没想到3年后再次来成都，来nuspace，&amp;ldquo;这里太专业了！&amp;rdquo;<br>是的，来过nu一次之后就不想去小酒馆了音响灯光甩几条街，唯一缺点就是闷热，空调全开也抵挡不住乐迷的热情！<br>还有那些洒啤酒的，麻烦下次洒点雪花哈啤之类清爽的，不要洒精酿好吗！！头发都粘住了！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40586498)<br>我还没想好要写什么...<br>2018-06-25 19:42<br>赞(0) 踩(0) | <div>哇 还没去过小酒馆 原来nu这么好的吗</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13613638)<br>有猫病<br>2018-07-01 01:48<br>赞(0) 踩(0) | <div><q><b>彧彧说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40586498)<br>我还没想好要写什么...<br>2018-07-01 23:24<br>赞(0) 踩(0) | <div><q><b>怪阿姨王孃孃说：</b></q></div> |
@@ -212,13 +212,13 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12167210)<br><br>2017-12-24 13:54<br>赞(4) 踩(0) | <div>怎么会有人对朋克出身的子健唱功抓着不放的？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13318558)<br><br>2017-12-08 11:13<br>赞(1) 踩(0) | <div>评&amp;hellip;&amp;hellip;评论是什么鬼&amp;hellip;&amp;hellip;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/332525775)<br>我还没想好要写什么...<br>2017-12-06 19:52<br>赞(1) 踩(0) | <div>我想听24小时摇滚聚会！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5168071)<br>Keep walking<br>2017-12-05 13:07<br>赞(0) 踩(0) | <div>他们有自己的方式，有自己的态度，他们的音乐很有特色。对我来说，这些都没问题。期待他们赶紧出新专辑、他们的现场。年轻的乐队自然会吸引一些年轻的歌迷，年轻的歌迷发发牢骚可以理解。他们还会偷偷听你们的。哈哈。（不过，出了6张专辑了，不应该算&amp;ldquo;年轻&amp;rdquo;的乐队了吧）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5168071)<br>Keep walking<br>2017-12-05 13:07<br>赞(0) 踩(0) | <div>他们有自己的方式，有自己的态度，他们的音乐很有特色。对我来说，这些都没问题。期待他们赶紧出新专辑、他们的现场。<br>年轻的乐队自然会吸引一些年轻的歌迷，年轻的歌迷发发牢骚可以理解。他们还会偷偷听你们的。哈哈。（不过，出了6张专辑了，不应该算&amp;ldquo;年轻&amp;rdquo;的乐队了吧）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307547160)<br><br>2017-11-20 13:49<br>赞(4) 踩(0) | <div>这个乐队值得肯定的是前奏很有表现力，编曲也有造诣。就是歌词写的不咋样，另外主唱的唱功确实&amp;hellip;&amp;hellip;至于英文发音，本来觉得烂就烂吧毕竟是个中国乐队，但看了这恶心的公告真是一秒就半粉转路。是，这是你自己的音乐，但你有发音烂的自由别人也有吐槽的自由，而这种试图通过狂妄态度来堵别人嘴的做法，真是让人大开眼界。反正你们的歌我是不会再听了。现场曾经看过，水准真心一般，效果差太远了，以后也不会再去。你们说我是伪摇也随意。看过那么多乐队的现场，国内国外都有，刺猬真的中下游。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/151152206)<br><br>2017-11-12 02:14<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8490085)<br>独立，坚强，自由！<br>2017-10-30 10:07<br>赞(0) 踩(0) | <div>我记得你以前提到过这个乐队，还是跟他们认得到哦。今天无意间听了一下，还是多合我的胃口的嘛。然后又听了听万年青。对我这个sisisisisisisisisisi（十四是十四，四十是四十）的 人来数。他们两个主唱肯定都是地道的北京人，卷舌很严重啊。哈哈哈@5月五月</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1277550)<br>逗你玩<br>2017-10-28 00:31<br>赞(0) 踩(0) | <div>哈哈哈~      你还在采访里提到holy fuck</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2383925)<br>独音唱片<br>2017-10-28 00:22<br>赞(1) 踩(0) | <div>独音唱片三周年3月16号周日愚公移山专场 演出乐队：重塑雕像的权利 刺猬乐队Nova Heart 丢火车 盘尼西林 活动连接：<a href="http://www.douban.com/event/20820593/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/20820593/</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56788)<br><br>2017-10-28 00:12<br>赞(0) 踩(0) | <div>子健现在是什么颜色的头发叻?狠最喜欢拽着喜欢的人一起听刺猬~离开武汉之前看的最后一场演出是刺猬的今天下午工作的时候也听了很久``真好啊~阿童木在这吗她最可爱啦最喜欢她咯~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56788)<br><br>2017-10-28 00:12<br>赞(0) 踩(0) | <div>子健现在是什么颜色的头发叻?<br>狠最喜欢拽着喜欢的人一起听刺猬~<br>离开武汉之前看的最后一场演出是刺猬的<br>今天下午工作的时候也听了很久``真好啊~<br>阿童木在这吗她最可爱啦最喜欢她咯~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8689327)<br> <br>2017-10-28 00:04<br>赞(0) 踩(0) | <div>我阅历广逼格高总之我就是喜欢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2441454)<br>Nothing come<br>2017-10-27 23:16<br>赞(0) 踩(0) | <div>无条件支持独立音乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/879793)<br>回到美麗溫柔的南方。<br>2017-10-27 23:04<br>赞(0) 踩(0) | <div>最近很喜欢这个乐队。</div> |
@@ -287,7 +287,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41471307)<br>焊上你的鼻孔<br>2015-11-03 22:09<br>赞(0) 踩(0) | <div><q><b>裸奔仲夏夜说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81818)<br><br>2015-11-03 23:18<br>赞(0) 踩(0) | <div><q><b>samsara说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2648598)<br>无话可说<br>2015-09-18 22:59<br>赞(0) 踩(0) | <div>我有没有 真的看到了dan妹 诚惶诚恐</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3242167)<br> <br>2015-09-17 22:16<br>赞(4) 踩(0) | <div>本来嘛 很多外国的乐队的歌曲 语法都是有问题总有一些傻逼在那边自己觉得自己很高大上</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3242167)<br> <br>2015-09-17 22:16<br>赞(4) 踩(0) | <div>本来嘛 很多外国的乐队的歌曲 语法都是有问题<br><br>总有一些傻逼在那边自己觉得自己很高大上</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60602830)<br><br>2015-09-11 17:18<br>赞(0) 踩(0) | <div>Iam ok!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51522232)<br>yahou<br>2015-09-09 14:51<br>赞(3) 踩(0) | <div>听歌还要喷发音简直迷人</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47995283)<br><br>2015-08-30 19:13<br>赞(0) 踩(0) | <div>公告栏怎么看不完</div> |
@@ -329,7 +329,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16377579)<br> <br>2015-07-10 14:32<br>赞(4) 踩(0) | <div>你们也是，这公告根本就没发的必要，跟喷子开始计较，你就已经输了。是黑子解释了也是个屁。是粉还需要解释？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16377579)<br> <br>2015-07-10 14:30<br>赞(1) 踩(0) | <div>你们确定没有子健的声音 最后，我们会一起去海边 还能听？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7924184)<br>虾米有bug，暂时改用网...<br>2015-07-10 11:06<br>赞(2) 踩(0) | <div>说刺猬发音的就好像在说：毕加索的画怎么连基本的透视都不懂，梵高的画轮廓怎么那么粗糙？</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41471307)<br>焊上你的鼻孔<br>2015-09-22 12:46<br>赞(0) 踩(0) | <div>"音速青年写的这是什么玩意啊，四根弦调一个音高，和弦都按错完了"是这个道理吗？那你知道瑟斯顿摩尔的基本功有多扎实吗？这二位道理一样，他们在追求新东西之前你说的透视和轮廓什么人家早吃透了。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41471307)<br>焊上你的鼻孔<br>2015-09-22 12:46<br>赞(0) 踩(0) | <div>"音速青年写的这是什么玩意啊，四根弦调一个音高，和弦都按错完了"是这个道理吗？<br>那你知道瑟斯顿摩尔的基本功有多扎实吗？这二位道理一样，他们在追求新东西之前你说的透视和轮廓什么人家早吃透了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38727585)<br>记忆再轻,轻不过脉搏声。...<br>2015-07-10 10:55<br>赞(0) 踩(0) | <div>去年草莓没有看成现场，不过很喜欢你们的歌。努力做自己何顾他人把嫌！加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/111411)<br><br>2015-07-10 08:48<br>赞(0) 踩(0) | <div>这刚更新的公告栏是什么鬼？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1006550)<br>束缚胜无界<br>2015-07-09 08:28<br>赞(0) 踩(0) | <div>你们现场态度真的不太行，迟到就算了国内乐队通病，还没到莫名其妙离结束还半小时就结束了，希望尊重一下买票看你们演出的观众，不要太随意，台上喝饮料什么装装逼都ok，演出不是排练</div> |
@@ -427,7 +427,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11576854)<br>自由之思想/独立之人格<br>2015-01-01 19:19<br>赞(0) 踩(0) | <div><q><b>Q_lear说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6865761)<br>暂无签名~<br>2017-10-30 10:03<br>赞(0) 踩(0) | <div><q><b>Quandtudors说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3055754)<br>Eyes of the ...<br>2014-12-19 08:08<br>赞(0) 踩(0) | <div>See u tonight</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6053498)<br>丢<br>2014-12-14 13:48<br>赞(0) 踩(0) | <div>.................................................</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6053498)<br>丢<br>2014-12-14 13:48<br>赞(0) 踩(0) | <div>..............................<br>...................</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31749205)<br><br>2014-12-11 21:40<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39165874)<br><br>2014-11-30 22:18<br>赞(0) 踩(0) | <div></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10860336)<br>暂无签名~<br>2014-11-27 13:19<br>赞(0) 踩(0) | <div>❤</div> |
@@ -474,7 +474,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9720624)<br>请叫我射鸡师<br>2014-08-20 14:01<br>赞(0) 踩(0) | <div>调调很好，被吸引了进来看看</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28249588)<br>来自1998<br>2014-08-18 01:58<br>赞(41) 踩(0) | <div>喜欢你们第四年了你们造不造造不造！！！！！今天用电脑登虾米竟然看到你们访问了我主页，小粉丝竟然被自己偶像瞄了一眼。。。这种感觉。。。今晚真他妈要睡不着了。。。跑去跟朋友说天了噜刺猬注意到我了，朋友说真好换他他肯定也得兴奋上半天。我当初最先接触的独立音乐就是你们开始听起，那时候朋友们也还没有各奔东西，每天一直反反复复听那几张专辑，单曲循环的美梦或许也是我作茧自缚的幻蛹。四年来我换过很多手机，但桌面壁纸用得最多的就是你们合照(╯з╰)不知道以后长大了还能不能像现在一样喜欢你们喜欢得那么脑残，不过这辈子都打算拴“摇滚”二字上了。真希望永远年轻，永远热泪盈眶。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441804901)<br>真棒啊！<br>2020-04-18 17:29<br>赞(0) 踩(0) | <div>原原原来访问别人主页可以看到的啊，有些惶恐(　ﾟ皿ﾟ)</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5658972)<br><br>2014-08-17 22:18<br>赞(1) 踩(0) | <div>白日梦蓝第一次听的时候的确是觉得只爱前奏，但是过了很久之后突然就会很想听这首歌而且会不停地跟着哼，请你不要离开这里胜似花开没有人会去涂改梦境中的色彩~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5658972)<br><br>2014-08-17 22:18<br>赞(1) 踩(0) | <div>白日梦蓝第一次听的时候的确是觉得只爱前奏，但是过了很久之后突然就会很想听这首歌而且会不停地跟着哼，请你不要离开<br>这里胜似花开<br>没有人会去涂改<br>梦境中的色彩~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9619198)<br>蛋疼君~<br>2014-08-11 23:30<br>赞(0) 踩(0) | <div>有几首有点my little airpor的味道，虽然类型不同</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/28249588)<br>来自1998<br>2014-08-13 17:53<br>赞(0) 踩(0) | <div>飞机跟他们差远了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7924184)<br>虾米有bug，暂时改用网...<br>2014-08-07 11:27<br>赞(2) 踩(0) | <div>刺猬是不是有些累了</div> |
@@ -530,7 +530,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7590508)<br><br>2014-04-25 14:55<br>赞(7) 踩(0) | <div>刺猬的歌前奏真好，也只有前奏好。要不直接编曲转后摇吧，大实话。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/823994)<br><br>2014-05-10 02:13<br>赞(0) 踩(0) | <div>不能同意更多</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5638542)<br><br>2014-04-25 13:43<br>赞(0) 踩(0) | <div>我只想说2个字！！！好听！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1451362)<br><br>2014-04-24 02:50<br>赞(0) 踩(0) | <div>狂风暴雨般的鼓点，慵懒的吉他喜欢他们的女鼓手</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1451362)<br><br>2014-04-24 02:50<br>赞(0) 踩(0) | <div>狂风暴雨般的鼓点，慵懒的吉他<br>喜欢他们的女鼓手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3621366)<br><br>2014-04-23 14:15<br>赞(0) 踩(0) | <div>幻想波普星在虾米还不能听！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14522418)<br>我还没想好要写什么...<br>2014-05-02 18:46<br>赞(0) 踩(0) | <div>可以了吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/452171)<br><br>2014-04-23 07:27<br>赞(0) 踩(0) | <div>闷     骚     ，无 法 抗 拒</div> |
@@ -568,7 +568,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33569491)<br>随便听听<br>2014-03-12 16:43<br>赞(0) 踩(0) | <div>ee</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3670865)<br>我还没想好要写什么...<br>2014-03-11 13:34<br>赞(1) 踩(0) | <div>Hedgehog:New record will come out this April, the lyrics are all in Chinese, the sound gonna drive you into space</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24395239)<br>如果我吻你你就微笑我就吻...<br>2014-02-26 08:59<br>赞(0) 踩(0) | <div>刺痛属于我的味！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2597754)<br><br>2014-02-21 00:09<br>赞(0) 踩(0) | <div>表达内涵，音乐元素，包装要素上和后鲨越来越像了。最喜欢的还是青春三部曲时期的。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2597754)<br><br>2014-02-21 00:09<br>赞(0) 踩(0) | <div>表达内涵，音乐元素，包装要素上和后鲨越来越像了。<br>最喜欢的还是青春三部曲时期的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/570065)<br>往事怒风<br>2014-02-13 11:05<br>赞(0) 踩(0) | <div>中国摇滚生力军</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11685227)<br>777<br>2014-01-23 16:49<br>赞(3) 踩(0) | <div>我试了试用标准的英文唱他们的歌，一点都不好听，总少了内个韵味。很喜欢子键的咬字发音啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31342189)<br>飞去南方。<br>2014-01-09 18:03<br>赞(0) 踩(0) | <div>刺猬</div> |
@@ -605,7 +605,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18094298)<br>有只雀仔跌落水<br>2013-07-27 20:34<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416948)<br>另一个世界的噪音流行<br>2013-07-25 11:15<br>赞(3) 踩(0) | <div>玩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6033235)<br> <br>2013-07-24 17:07<br>赞(0) 踩(0) | <div>虾米管理员在哪呢，只让说你们好是吧？笑死我了</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6033235)<br> <br>2013-07-24 17:06<br>赞(0) 踩(0) | <div>哦呵呵，我不过说了句换主唱，这还可以删评论的？你们真厉害哦~呵呵呵呵求删，继续删</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6033235)<br> <br>2013-07-24 17:06<br>赞(0) 踩(0) | <div>哦呵呵，我不过说了句换主唱，这还可以删评论的？<br>你们真厉害哦~<br>呵呵呵呵<br>求删，继续删</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321360)<br>Segmentation<br>2013-08-09 15:49<br>赞(0) 踩(0) | <div>换头像！！！！换头像！！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6033235)<br> <br>2013-08-12 18:51<br>赞(0) 踩(0) | <div><q><b>段错误 (核心已转储)说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321360)<br>Segmentation<br>2013-08-12 19:20<br>赞(0) 踩(0) | <div><q><b>Eric100%说：</b></q></div> |
@@ -662,7 +662,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15274262)<br>完成一次完美的旅行...<br>2013-05-29 15:26<br>赞(0) 踩(0) | <div>爱</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2947922)<br>猴力<br>2013-05-28 20:23<br>赞(0) 踩(0) | <div>听一下</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3606998)<br> <br>2013-05-27 09:03<br>赞(0) 踩(0) | <div>好听~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-05-27 00:41<br>赞(0) 踩(0) | <div>中国清新独立摇滚，鼓不错。816914,13378,508</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2013-05-27 00:41<br>赞(0) 踩(0) | <div>中国清新独立摇滚，鼓不错。<br>816914,13378,508</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/449856)<br><br>2013-05-26 15:08<br>赞(0) 踩(0) | <div>白日梦蓝</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1986008)<br> <br>2013-05-20 16:02<br>赞(2) 踩(0) | <div>我听了那么久我都不明白为什么他们一定要唱英文？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9493811)<br><br>2013-05-17 23:30<br>赞(0) 踩(0) | <div>想看现场啊</div> |
@@ -790,7 +790,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6069100)<br><br>2012-07-16 12:43<br>赞(0) 踩(0) | <div>白色梦蓝</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/464787)<br><br>2012-07-16 03:26<br>赞(0) 踩(0) | <div>你已经不属于独立的范畴了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2395160)<br><br>2012-07-14 08:25<br>赞(0) 踩(0) | <div>&amp;gt; &amp;lt;~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175808)<br><br>2012-07-09 11:25<br>赞(0) 踩(0) | <div>既然矫情的时代已然遗失殆尽，为什么我们还是不敢回忆旧日时光？因为我终将变得和你一样，离开这胜似花开的地方</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175808)<br><br>2012-07-09 11:25<br>赞(0) 踩(0) | <div>既然矫情的时代已然遗失殆尽，为什么我们还是不敢回忆旧日时光？<br><br>因为我终将变得和你一样，离开这胜似花开的地方</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1704845)<br>一个脱离了搞基趣味的人<br>2012-07-04 15:57<br>赞(0) 踩(0) | <div>zuihouwomenhuiyiqiquhaibian</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9679362)<br><br>2012-07-03 19:31<br>赞(0) 踩(0) | <div>喜欢就是喜欢，哪有这么多为什么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9392691)<br><br>2012-06-30 00:27<br>赞(1) 踩(0) | <div>第一次听  白日梦蓝 第三分钟时的突然加大的音量真心性感啊</div> |
@@ -856,14 +856,14 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4998863)<br>该用户很有个性，所以没有...<br>2012-04-10 18:05<br>赞(0) 踩(0) | <div>春天来了，去海边！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4998863)<br>该用户很有个性，所以没有...<br>2012-04-20 15:12<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4029060)<br>我还没想好要写什么...<br>2012-05-11 12:48<br>赞(0) 踩(0) | <div><q><b>王小切说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532661)<br>不要停止我的音乐<br>2012-04-09 10:27<br>赞(0) 踩(0) | <div>新砖在哪里啊新砖在哪里 ！！+10086决定我去现场与否昂！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532661)<br>不要停止我的音乐<br>2012-04-09 10:27<br>赞(0) 踩(0) | <div>新砖在哪里啊新砖在哪里 ！！+10086<br>决定我去现场与否昂！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/300900)<br>back to 2004<br>2012-04-09 15:56<br>赞(0) 踩(0) | <div>新砖：<a href="http://www.ctdisk.com/file/5828142" target="_blank" rel="nofollow noreferrer noopener">http://www.ctdisk.com/file/5828142</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532661)<br>不要停止我的音乐<br>2012-04-13 22:58<br>赞(0) 踩(0) | <div><q><b>Ethan说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8620629)<br>我就是我<br>2012-04-08 17:51<br>赞(0) 踩(0) | <div>昨晚我也去了小酒馆 衣服都湿了 女鼓手好屌！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7886932)<br><br>2012-04-08 15:31<br>赞(0) 踩(0) | <div>刺猬 新专辑 sunfungun</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2880951)<br>…<br>2012-04-07 23:52<br>赞(0) 踩(0) | <div>刚从小酒馆回来，嗨爆了，全身湿透，肩膀超痛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/284231)<br><br>2012-04-07 18:33<br>赞(0) 踩(0) | <div>新砖在哪里啊新砖在哪里</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3205820)<br><br>2012-04-07 13:52<br>赞(0) 踩(0) | <div>昨天晚上在重庆坚果看了乐队演出。音乐的魅力真是无穷的，如此娇弱的一个女子爆发出令人叹为观止的力量。和中国那些最出色地男鼓手比较起来，阿童木也毫不逊色，看着她短发飘飘，激情打鼓，真是美极了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3205820)<br><br>2012-04-07 13:52<br>赞(0) 踩(0) | <div>昨天晚上在重庆坚果看了乐队演出。<br>音乐的魅力真是无穷的，如此娇弱的一个女子爆发出令人叹为观止的力量。<br><br>和中国那些最出色地男鼓手比较起来，阿童木也毫不逊色，看着她短发飘飘，激情打鼓，真是美极了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/482867)<br><br>2012-04-05 12:04<br>赞(0) 踩(0) | <div>就删了???!!不会和那个新的什么什么法有关吧..-  -</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1153273)<br><br>2012-04-04 00:14<br>赞(0) 踩(0) | <div>在我下完新砖之后就删了..................不过我还是要现场买唱片的</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3465699)<br><br>2012-04-04 12:59<br>赞(0) 踩(0) | <div>求试听</div> |
@@ -886,7 +886,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/416948)<br>另一个世界的噪音流行<br>2012-03-15 15:34<br>赞(0) 踩(0) | <div><q><b>黑帝是个宇航员说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2757327)<br>是不是该谢谢你提醒我<br>2012-03-15 19:32<br>赞(0) 踩(0) | <div><q><b>刺猬说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355758)<br><br>2012-03-23 09:16<br>赞(0) 踩(0) | <div>今天第一次听刺猬 同感....</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5746403)<br><br>2012-03-27 20:11<br>赞(0) 踩(0) | <div>作为一个喜欢听摇滚乐的人，奔着the cure的大名，我也听了两张the cure的专辑。当听过之后的感觉不太深吧。lovesong这首歌自己也去听了一下，听起来还是没有白日蓝梦带劲，也不起来相似。氛围上，气质上就不像。自己从单纯的喜欢摇滚这种形式，听了很多外国的乐队，英文的歌词没有几首自己能听的懂的。自己也上过大学，懂得英语。但还是体会不到歌词。刺猬的音乐首先是气质上让人喜爱，很好的表达了青年人的情绪。自己刚听的时候也是听不懂英文的歌词，但几首中文的歌词就让我喜欢。而且因为音乐好听，耐听，自己反复的听，也渐渐的去了解英文的歌词。发现也是感动。感谢刺猬，做出打动人的音乐。我想每个音乐人都想做出动人的音乐，但经典的，真正好的音乐必定是会打动大多数人的。</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5746403)<br><br>2012-03-27 20:11<br>赞(0) 踩(0) | <div>作为一个喜欢听摇滚乐的人，奔着the cure的大名，我也听了两张the cure的专辑。当听过之后的感觉不太深吧。lovesong这首歌自己也去听了一下，听起来还是没有白日蓝梦带劲，也不起来相似。氛围上，气质上就不像。自己从单纯的喜欢摇滚这种形式，听了很多外国的乐队，英文的歌词没有几首自己能听的懂的。自己也上过大学，懂得英语。但还是体会不到歌词。<br>刺猬的音乐首先是气质上让人喜爱，很好的表达了青年人的情绪。自己刚听的时候也是听不懂英文的歌词，但几首中文的歌词就让我喜欢。而且因为音乐好听，耐听，自己反复的听，也渐渐的去了解英文的歌词。发现也是感动。感谢刺猬，做出打动人的音乐。我想每个音乐人都想做出动人的音乐，但经典的，真正好的音乐必定是会打动大多数人的。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2442575)<br><br>2012-03-30 01:47<br>赞(0) 踩(0) | <div>去听了Lovesong ，根本就不像啊。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/769067)<br><br>2012-03-31 14:53<br>赞(0) 踩(0) | <div>请问哪里抄了……</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4311898)<br><br>2012-04-02 05:17<br>赞(0) 踩(0) | <div>整体歌曲架构有相似，贝斯部分相似。但是什么旋律完全照抄就是胡扯了。</div> |
@@ -994,7 +994,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4709461)<br> <br>2011-07-22 12:32<br>赞(0) 踩(0) | <div>可爱的鼓手</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1049042)<br><br>2011-07-21 20:36<br>赞(0) 踩(0) | <div>小清新</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4912002)<br>知黑守白<br>2011-07-20 22:56<br>赞(0) 踩(0) | <div>去海边！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4856324)<br><br>2011-07-17 13:14<br>赞(0) 踩(0) | <div>一直很喜欢看着他们成长蜕变甜蜜的杀害</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4856324)<br><br>2011-07-17 13:14<br>赞(0) 踩(0) | <div>一直很喜欢<br>看着他们成长蜕变<br>甜蜜的杀害</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4857115)<br><br>2011-07-15 21:14<br>赞(0) 踩(0) | <div>喜欢~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/940886)<br><br>2011-07-14 15:44<br>赞(0) 踩(0) | <div>哪哪都嫩 亮点就是这股稚嫩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4812159)<br><br>2011-07-12 14:16<br>赞(0) 踩(0) | <div>了解了解</div> |
@@ -1047,7 +1047,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3507121)<br><br>2011-04-12 22:18<br>赞(0) 踩(0) | <div>我爱中国摇滚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3568472)<br><br>2011-04-11 14:40<br>赞(0) 踩(0) | <div>5</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1259073)<br>线段<br>2011-04-10 19:18<br>赞(0) 踩(0) | <div>刺猬的音乐里有长了刺，听后有种刺痛的感觉。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3513564)<br><br>2011-04-07 16:50<br>赞(0) 踩(0) | <div>白日梦兰？恩， 就它</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3513564)<br><br>2011-04-07 16:50<br>赞(0) 踩(0) | <div>白日梦兰？<br>恩， 就它</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50043)<br>都是有原因的<br>2011-04-07 14:25<br>赞(0) 踩(0) | <div>去了小酒馆看了你们的演出，感觉很棒，除了一些只知道往我鞋子上蹦达的人类，话说帆哥你有大肚腩。。。。。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/594556)<br> <br>2011-04-07 19:06<br>赞(0) 踩(0) | <div>我可能踩着你了 不好意思</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3117783)<br><br>2011-04-17 19:16<br>赞(0) 踩(0) | <div>我也去了，前面好HIGH啊~挤不上去呢，呵呵</div> |
@@ -1066,14 +1066,14 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532661)<br>不要停止我的音乐<br>2011-03-31 21:23<br>赞(0) 踩(0) | <div>现场真的很赞！high爆！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182212)<br>·<br>2011-03-31 13:38<br>赞(0) 踩(0) | <div>很不错，前途无量。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2458396)<br> <br>2011-03-30 10:48<br>赞(0) 踩(0) | <div>白日梦蓝专辑好听啊~ 二十四小时摇滚聚会啊……</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3400695)<br><br>2011-03-29 12:37<br>赞(0) 踩(0) | <div>很有感觉</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3400695)<br><br>2011-03-29 12:37<br>赞(0) 踩(0) | <div>很<br>有感觉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175808)<br><br>2011-03-28 18:33<br>赞(0) 踩(0) | <div>太嫩了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/826018)<br><br>2011-03-28 13:23<br>赞(0) 踩(0) | <div>24小时摇滚派对</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3207468)<br><br>2011-03-27 21:27<br>赞(0) 踩(0) | <div>青春就像刺猬</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3344315)<br><br>2011-03-27 21:01<br>赞(0) 踩(0) | <div>恩 还有点清新的味道</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/492599)<br>我还没想好要写什么...<br>2011-03-27 12:50<br>赞(0) 踩(0) | <div>昨晚跟你合影了。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356012)<br>低调地耍着流氓<br>2011-03-27 06:40<br>赞(0) 踩(0) | <div>我好喜欢你们啊！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3370655)<br> <br>2011-03-26 23:39<br>赞(0) 踩(0) | <div>喜欢听他们刺猬</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3370655)<br> <br>2011-03-26 23:39<br>赞(0) 踩(0) | <div>喜欢听他们<br>刺猬</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1207834)<br><br>2011-03-26 22:23<br>赞(0) 踩(0) | <div>赞赞赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1435707)<br><br>2011-03-26 14:13<br>赞(0) 踩(0) | <div>我去 经典了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12281)<br><br>2011-03-26 12:11<br>赞(0) 踩(0) | <div>杀死你的时代 歌词好隐晦</div> |
@@ -1157,7 +1157,7 @@ One of the most iconic and influential indie rock trio in the Beijing Explosion 
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/752483)<br><br>2010-06-15 22:18<br>赞(0) 踩(0) | <div>树！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14065)<br>人生并不甜~<br>2010-05-25 21:44<br>赞(0) 踩(0) | <div>很喜欢打鼓的女孩子 真有范</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/846316)<br><br>2010-05-01 02:05<br>赞(0) 踩(0) | <div>太喜欢刺猬了！能在你们的歌里感受到力量和伤感……反正超级喜欢</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319863)<br><br>2010-04-28 14:44<br>赞(0) 踩(0) | <div>流行和摇滚的区别不在于是不是流行好不好。强烈鄙视楼下的楼下的楼下。就好像MUSE,披头士也是无比流行，但属于摇滚，不是流行。。看看五月天海报，也知道这样的乐队是唱不出摇滚的。他们从商业模式到发行到歌词到旋律到表达的思想有摇滚吗？以为拿个架子鼓敲敲，吉他扒扒，有点嘈人就叫摇滚？你不要告诉我你听出了朋克车库还是新浪潮的味道。奇怪的是你的留言居然让我愤乐。。我为什么要愤为什么要愤为什么要愤。。。你还是坐着大家的中指去月球八。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/319863)<br><br>2010-04-28 14:44<br>赞(0) 踩(0) | <div>流行和摇滚的区别不在于是不是流行好不好。<br>强烈鄙视楼下的楼下的楼下。<br>就好像MUSE,披头士也是无比流行，但属于摇滚，不是流行。。<br>看看五月天海报，也知道这样的乐队是唱不出摇滚的。他们从商业模式到发行到歌词到旋律到表达的思想有摇滚吗？以为拿个架子鼓敲敲，吉他扒扒，有点嘈人就叫摇滚？<br>你不要告诉我你听出了朋克车库还是新浪潮的味道。<br>奇怪的是你的留言居然让我愤乐。。我为什么要愤为什么要愤为什么要愤。。。<br>你还是坐着大家的中指去月球八。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/492732)<br><br>2010-05-04 21:13<br>赞(0) 踩(0) | <div>……</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/248810)<br>豆姐与宝宝<br>2010-06-19 11:02<br>赞(0) 踩(0) | <div>说得太好了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1271474)<br><br>2010-08-13 23:50<br>赞(0) 踩(0) | <div>我不知道 你说的看他们的海报,就知道他们唱不出摇滚这个观点是怎么得到的,也许你真的是有透过现象看本质的本事吧,如果是的话, 当警察去吧, 不当警察去破案,真浪费了你这样的人才了,我不说五月天唱的是不是摇滚,这个我们我法去定义,你也不能, 也许有的人连摇滚是什么呢,就说这说那,只会让人鄙视,但是五月天绝对是让很大一部分人知道了摇滚这个词,很多他们的歌迷从他们那里,知道还有摇滚这个概念,从而去了解摇滚,去了解别的摇滚歌手,难道这样对摇滚不是有很大的推动么, 还有就像很多所谓的摇滚迷说BEYOND不是摇滚一样,但是他们确实带动了很多人去听摇滚,他们这点的贡献,我们无法抹杀,再说说五月天,他们商业他们流行,是,这点谁都不反对,但是他们不这样行吗,整天唱金属,哥特,谁会去买他们的专辑,卖不出去,又怎么能生存,天天吃屎去啊,五月天在十年前绝对的摇滚没的说,但是现在开始趋于流行了,难道不是被生存的规则逼出来的么,因为他们有实力,什么样的歌他们都能作出来, 他们在背后是玩旋死的, 但是在人前他们要生存,只能唱这些趋于流行的歌, 这是游戏的规则,  而中国的摇滚为什么发展不起来, 就是差了商业运作, 这点真的要好好学学国外,  走出地下,而且在我们伟大的天朝,太愤世嫉俗会被和谐的, 军械所不就是个很好的例子么,别告诉我你不知道啊, 而且老一辈人所打下的天下,现在又剩下了多少了,崔健的时代,魔岩三杰的时代,现在还能重现么,现在这辈人不争气,明白吗, 而更可笑的是,在你们口中所谓的伪摇却撑起了摇滚的大片天,这是多么可笑的事, 我的逻辑比较乱, 想到什么说什么, 希望你能明白,其实摇滚是没有界定的,回去好好理解理解摇滚到底是什么玩意,在充分对别人有一定了解以后,在出来评价别人,</div> |

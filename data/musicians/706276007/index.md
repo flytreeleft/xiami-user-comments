@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/9edfafd529cef2e6f7104a13f38c44ff.jpg)<br>周深](https://i.xiami.com/zhoushen) | **播放数**: 212749741<br>**粉丝数**: 175893<br>**评论数**: 2486<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/9edfafd529cef2e6f7104a13f38c44ff.jpg)<br>周深](https://i.xiami.com/zhoushen) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 212749741<br>**粉丝数**: 175893<br>**评论数**: 2486<br> |
 
 ## 档案
 
@@ -117,8 +117,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441418052)<br>老阿姨也是小朋友呀<br>2021-01-31 14:58<br>赞(0) 踩(0) | <div>干净的嗓音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/363320268)<br>刚签名就是告别！<br>2021-01-23 13:42<br>赞(0) 踩(0) | <div>关注你了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31239710)<br><br>2021-01-22 15:15<br>赞(0) 踩(0) | <div>喜欢你的声音你的歌，永远支持你。</div> |
@@ -138,7 +138,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260102619)<br><br>2020-11-19 11:44<br>赞(3) 踩(0) | <div>无限可能，加油！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/178176102)<br>找一首歌…<br>2020-11-19 09:16<br>赞(0) 踩(0) | <div>男的？？？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18114482)<br><br>2020-11-11 23:34<br>赞(1) 踩(0) | <div>希望你能保持初心，发光发亮吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6258934)<br><br>2020-11-11 06:36<br>赞(3) 踩(0) | <div>周深，你的一首翻唱歌微风细雨打动了我，让我关注你的每一首歌，关注你这个人。个人非常欣赏你在演唱方面的才华，对比你参加好声音时的表现，真的看到你正在渐入佳境，把每一首歌不论翻唱还是原唱都赋予新的内涵，新的生命。真心希望你秉持以情演绎歌曲，辅以你独特的演唱技法，不断前进，实现你歌史留名的事业高峰。看了你之前的大部分视频，你活泼单纯，阅历尚浅。多积淀人生阅历，少参加综艺活动，保护天赋好声音，延长艺术生命，以成熟、专业的诠释、演绎每一首歌曲，让观众看到一个更成熟、敬业的你，不断进步，在音乐史上深深地刻上你的名字。也希望各方媒体和唱片公司，歌迷多多爱护周深，这样的人才不多，让我们珍惜。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6258934)<br><br>2020-11-11 06:36<br>赞(3) 踩(0) | <div>周深，你的一首翻唱歌微风细雨打动了我，让我关注你的每一首歌，关注你这个人。个人非常欣赏你在演唱方面的才华，对比你参加好声音时的表现，真的看到你正在渐入佳境，把每一首歌不论翻唱还是原唱都赋予新的内涵，新的生命。真心希望你秉持以情演绎歌曲，辅以你独特的演唱技法，不断前进，实现你歌史留名的事业高峰。<br>看了你之前的大部分视频，你活泼单纯，阅历尚浅。多积淀人生阅历，少参加综艺活动，保护天赋好声音，延长艺术生命，以成熟、专业的诠释、演绎每一首歌曲，让观众看到一个更成熟、敬业的你，不断进步，在音乐史上深深地刻上你的名字。也希望各方媒体和唱片公司，歌迷多多爱护周深，这样的人才不多，让我们珍惜。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50160009)<br> <br>2020-11-04 17:34<br>赞(0) 踩(0) | <div>深深换个封面设计师吧，歌是好听，封面太那个了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324868023)<br>音乐没有国界<br>2020-11-04 17:22<br>赞(0) 踩(0) | <div>如果当时周深选择了齐秦当老师，齐秦一定会给他写歌。这期好声音相信很多人以经看出来了，齐秦玩不过她们几个更没有那英她们背后的势力。齐秦是我国少有的音乐制作人，也是一个很单纯的人所以做了一期马上就下去了。虽然现在周深很火以经成了华语乐坛一个很亮的星，但如果有像齐秦老一辈港台音乐制作人写歌，那出来的作品绝对是精品。可惜没有如果！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/194405805)<br><br>2020-11-01 20:09<br>赞(0) 踩(0) | <div>天籁之音！！！！！！！！</div> |
@@ -146,7 +146,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/358017786)<br><br>2020-10-25 16:49<br>赞(1) 踩(0) | <div>支持深深，你的歌我都爱听 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444990090)<br><br>2020-10-22 23:40<br>赞(0) 踩(0) | <div>你的歌百听不厌，生日快乐！ <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/411681023)<br><br>2020-10-22 00:17<br>赞(1) 踩(0) | <div>周深给我红</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444456871)<br>山有木兮木有枝 心悦君兮...<br>2020-10-21 20:13<br>赞(1) 踩(0) | <div>深深你可以唱撒野吗？我想如果你唱撒野的话会很好听 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444456871)<br>山有木兮木有枝 心悦君兮...<br>2020-10-21 20:13<br>赞(1) 踩(0) | <div>深深你可以唱撒野吗？<br>我想如果你唱撒野的话会很好听 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"> <img src="../../images/comments/0b4c0fe4bb56e1cee4e7514347adcc2a.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"> <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307231095)<br><br>2020-10-18 15:48<br>赞(0) 踩(0) | <div>愿美好与你同在~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73773450)<br>我还没想好要写什么...<br>2020-10-18 15:08<br>赞(0) 踩(0) | <div>我听歌真的几乎没哭过，但是第一次听深深唱大鱼，忽然就哭了。虽然现在听深深的歌已经习惯了 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">但是他每首歌我都喜欢听，最喜欢的还是大鱼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/210068359)<br>电影人，摄影师，艺术家，...<br>2020-09-29 23:20<br>赞(3) 踩(0) | <div>大幺蛾子生日快乐！</div> |
@@ -156,16 +156,16 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48658719)<br>风吹散，说晚安，不再见。<br>2020-09-29 16:47<br>赞(0) 踩(0) | <div>生日快乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336018387)<br><br>2020-09-29 12:59<br>赞(2) 踩(0) | <div>生日快乐 <img src="../../images/comments/c649bfa058468c28260ff169609133d1.png">深深</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/278044875)<br>愿此生所爱，皆无山海.<br>2020-09-29 12:20<br>赞(1) 踩(0) | <div>深深崽崽生日快乐！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311293918)<br>听一首歌想一个人<br>2020-09-29 12:12<br>赞(0) 踩(0) | <div>生日蒙恩！要开心哈</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/311293918)<br>听一首歌想一个人<br>2020-09-29 12:12<br>赞(0) 踩(0) | <div>生日蒙恩！<br>要开心哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431660181)<br><br>2020-09-29 12:11<br>赞(1) 踩(0) | <div>我超喜欢周深唱歌，听他歌整个人忘记烦恼 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268859176)<br><br>2020-09-29 11:47<br>赞(0) 踩(0) | <div>生日快乐 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">祝愿你越来越好，平安和顺，快乐幸福(≧&amp;omega;≦)</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/268859176)<br><br>2020-09-29 11:47<br>赞(0) 踩(0) | <div>生日快乐 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>祝愿你越来越好，平安和顺，快乐幸福(≧&amp;omega;≦)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309115696)<br>我还没想好要写什么...<br>2020-09-29 11:42<br>赞(0) 踩(0) | <div>愿美好与你同在</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443872420)<br><br>2020-09-29 11:22<br>赞(1) 踩(0) | <div>又是一年929，祝深仔生日快乐！星途璀璨！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/628198)<br>暂无签名~<br>2020-09-29 11:21<br>赞(0) 踩(0) | <div>生日快乐！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25435694)<br><br>2020-09-29 11:19<br>赞(0) 踩(0) | <div>深深，生日快乐，感恩相遇，感谢有你，愿你开开心心，身体健康，做你想做的，我们一直在你身边哦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441499042)<br>再见，虾米音乐<br>2020-09-29 11:15<br>赞(0) 踩(0) | <div>生日快乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353645610)<br><br>2020-09-29 10:57<br>赞(0) 踩(0) | <div>可爱纯洁如天使，谢谢你下凡来抚慰我们受伤的心灵！请你再坚持一下下，多陪伴我们长长久久！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19090279)<br><br>2020-09-29 10:54<br>赞(0) 踩(0) | <div>喜欢周深的声音！听周深的歌总是能让我的情绪冷静下来！治愈心情的良药！希望深深继续坚持下去，继续为我们带来更多的好歌！生日快乐！天天快乐！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19090279)<br><br>2020-09-29 10:54<br>赞(0) 踩(0) | <div>喜欢周深的声音！听周深的歌总是能让我的情绪冷静下来！治愈心情的良药！希望深深继续坚持下去，继续为我们带来更多的好歌！<br>生日快乐！天天快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49873796)<br>我还没想好要写什么...<br>2020-09-29 10:48<br>赞(0) 踩(0) | <div>深深小天使，生日快乐(๑˙❥˙๑)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/245602853)<br>人生本过客，何必千千结<br>2020-09-29 10:46<br>赞(0) 踩(0) | <div>生日快乐！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445063034)<br><br>2020-09-29 10:46<br>赞(0) 踩(0) | <div>我们的小王子生日快乐！未来可期！永远开心快乐！</div> |
@@ -174,13 +174,13 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/377667399)<br>痛苦或快乐…都是获得<br>2020-09-29 10:33<br>赞(0) 踩(0) | <div>深深我们深深爱你唱的歌，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33301522)<br>艾米<br>2020-09-29 10:32<br>赞(0) 踩(0) | <div>生日快乐 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/445094989)<br><br>2020-09-29 10:29<br>赞(0) 踩(0) | <div>我的卡布男神，生日快乐！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84894220)<br><br>2020-09-29 10:26<br>赞(1) 踩(0) | <div>深呐，生日快乐呀~ <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">也祝你早日找到属于你的幸福，每天都开开心心的搞笑，认认真真的唱歌支持你~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/84894220)<br><br>2020-09-29 10:26<br>赞(1) 踩(0) | <div>深呐，生日快乐呀~ <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"><br>也祝你早日找到属于你的幸福，每天都开开心心的搞笑，认认真真的唱歌支持你~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444781005)<br><br>2020-09-29 10:25<br>赞(0) 踩(0) | <div>一直支持 <img src="../../images/comments/1295deff02492d42a460e4e576518a79.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444212909)<br><br>2020-09-29 10:23<br>赞(0) 踩(0) | <div>跟爱豆一天生日好开心 <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"> <img src="../../images/comments/c5451c4cd6e0dc102e337c7c9e2f890a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410175639)<br><br>2020-09-29 10:22<br>赞(0) 踩(0) | <div>你的音色好美，生日快乐 <img src="../../images/comments/5209680a7687ef8a547064825af96969.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410336570)<br>喜歡你的笑、認真的男人最...<br>2020-09-29 10:20<br>赞(0) 踩(0) | <div>&lt;深深、卡布叻 今天是你的生日在這裡㊗️福你生日快樂那是當然的！然後還要祝福你早日找到幸福、要很很很很很很很很很很很很幸福的那種噢⋯⋯非常非常非常非常高興的、很大聲很大聲很大聲的說我喜歡的歌手是周深。真的還好認識了你讓我此生無憾 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">[url=/u/49479260]@周深[/url] &gt;&lt;49479260&gt;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/431749934)<br><br>2020-09-29 10:20<br>赞(0) 踩(0) | <div>骨灰级粉。何时来杭州开演唱会？？？？啊啊啊？？？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4318607)<br>再也不见<br>2020-09-29 10:19<br>赞(0) 踩(0) | <div>崽崽 妈妈爱你 哈哈哈哈哈哈哈哈崽崽 多开演唱会啦 相信妈妈总有一次可以抢到票的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4318607)<br>再也不见<br>2020-09-29 10:19<br>赞(0) 踩(0) | <div>崽崽 妈妈爱你 哈哈哈哈哈哈哈哈<br>崽崽 多开演唱会啦 相信妈妈总有一次可以抢到票的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316398244)<br>找个小哥哥<br>2020-09-29 10:19<br>赞(0) 踩(0) | <div>只混韩圈和欧美圈的女孩，遇到了周深，从此一发不可收拾 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png">谢谢深深，我第一个喜欢也是唯一一个喜欢的华语流行歌手，祝你越来越来好，越来越强！坠可爱的小星星生日快乐 <img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"> <img src="../../images/comments/a0917929a8f3de2732acbc9a99674b3f.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13418921)<br>寂寞为骨音乐做髓<br>2020-09-29 10:14<br>赞(1) 踩(0) | <div>深深生日快乐啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23034979)<br><br>2020-09-29 10:13<br>赞(0) 踩(0) | <div>爸爸爱你</div> |
@@ -227,7 +227,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/410336570)<br>喜歡你的笑、認真的男人最...<br>2020-08-07 12:23<br>赞(0) 踩(0) | <div>&lt;太棒了終於換頭像了耶⋯⋯[url=/u/49479260]@周深[/url] &gt;&lt;49479260&gt;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443799239)<br>圣洁怜世惜薄命，纯善染尘...<br>2020-08-07 11:48<br>赞(0) 踩(0) | <div>头像换了耶，太棒了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2796166)<br>最爱莫文蔚.....<br>2020-08-03 00:52<br>赞(0) 踩(0) | <div>加油呀~~~不错呀~ 一把好声音~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443253663)<br>风雨同周深情不移<br>2020-07-29 22:39<br>赞(1) 踩(0) | <div>可以給深深换一张那個更可爱的照片吗？因为现在已经变得变得更可爱了啊❤️求求了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443253663)<br>风雨同周深情不移<br>2020-07-29 22:39<br>赞(1) 踩(0) | <div>可以給深深换一张那個更可爱的照片吗？因为现在已经变得变得更可爱了啊❤️<br>求求了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/277538886)<br>风雨里做个大人，阳光下做...<br>2020-08-07 10:31<br>赞(0) 踩(0) | <div>头像我已经帮忙换了哦</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/444313730)<br><br>2020-08-20 11:04<br>赞(0) 踩(0) | <div><q><b>Steven_枫说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443253663)<br>风雨同周深情不移<br>2020-07-29 22:38<br>赞(0) 踩(0) | <div>可以給深深换一张那個更可爱的照片吗？因为现在已经变得变得更可爱了啊❤️</div> |
@@ -255,9 +255,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441177378)<br>我和世界怎么相处！<br>2020-06-26 22:55<br>赞(0) 踩(0) | <div>地球仍然转重,世间依旧善变,而我会一直爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441177378)<br>我和世界怎么相处！<br>2020-06-26 22:55<br>赞(1) 踩(0) | <div>就把深深藏在我心中</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441177378)<br>我和世界怎么相处！<br>2020-06-26 22:35<br>赞(2) 踩(0) | <div>爱深深</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443468703)<br>发呆是唯一不用付费的宇宙...<br>2020-06-22 12:17<br>赞(3) 踩(0) | <div>周深不是娘，声音好听难道是他的错吗请不要说他娘了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/443468703)<br>发呆是唯一不用付费的宇宙...<br>2020-06-22 12:17<br>赞(3) 踩(0) | <div>周深不是娘，声音好听难道是他的错吗<br>请不要说他娘了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/88072080)<br> <br>2020-06-12 08:13<br>赞(3) 踩(0) | <div>深深唯一追的星就是深深&amp;hearts;️</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356580377)<br><br>2020-06-11 12:40<br>赞(2) 踩(0) | <div>天籁！听到你就相信真的有天堂！听到你就觉得人间是值得！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356580377)<br><br>2020-06-11 12:40<br>赞(2) 踩(0) | <div>天籁！<br>听到你就相信真的有天堂！<br>听到你就觉得人间是值得！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/324663470)<br>我还没想好要写什么...<br>2020-06-02 10:12<br>赞(1) 踩(0) | <div>周扬,深邃的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1230646)<br> <br>2020-06-01 22:07<br>赞(0) 踩(0) | <div>专辑封面也太丑了把</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293102382)<br>我还没想好要写什么...<br>2020-05-27 21:28<br>赞(0) 踩(0) | <div>声音又好听，长得又帅，我好羡慕周深哥哥哦，爱死你了</div> |
@@ -299,7 +299,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/550021)<br><br>2020-04-19 12:10<br>赞(0) 踩(0) | <div>我也很多的问号？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378681004)<br>原来你是我最想留住的幸运<br>2020-04-16 22:35<br>赞(2) 踩(0) | <div>我嘞个去，一直以为是个妹子</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/550021)<br><br>2020-04-19 12:10<br>赞(0) 踩(0) | <div>我也有很多的问号？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68604270)<br> <br>2020-04-16 12:02<br>赞(3) 踩(0) | <div>从B站跨年晚会开始第一次听到周深歌声，太干净太治愈了，谢谢你选择唱歌，我会一直陪着你唱下去 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">PS：虾米也请给深深换张最近的照片吧，谢谢啦</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/68604270)<br> <br>2020-04-16 12:02<br>赞(3) 踩(0) | <div>从B站跨年晚会开始第一次听到周深歌声，太干净太治愈了，谢谢你选择唱歌，我会一直陪着你唱下去 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>PS：虾米也请给深深换张最近的照片吧，谢谢啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/371952560)<br>喜欢听歌的小姐姐<br>2020-04-16 00:24<br>赞(6) 踩(0) | <div>可以换张照片吗？现在的造型好看多了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356837180)<br><br>2020-04-15 22:59<br>赞(2) 踩(0) | <div>支持深深</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356837180)<br><br>2020-04-15 22:58<br>赞(3) 踩(0) | <div>希望周深可以在音乐道路上一直走下去。</div> |
@@ -355,7 +355,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342196065)<br> <br>2020-03-03 15:47<br>赞(1) 踩(0) | <div>天籁之音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/425955964)<br><br>2020-03-02 20:42<br>赞(3) 踩(0) | <div>刚刚入坑！最喜欢周深对唱歌的热忱，那种热忱真的让我太感动了好听好听好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/440935495)<br><br>2020-02-28 14:53<br>赞(0) 踩(0) | <div>实力派！！！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316137080)<br>Hhhhhhhhhhhh...<br>2020-02-25 22:31<br>赞(2) 踩(0) | <div>每次听到他唱歌都被惊艳到 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">空灵，干净 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">仿佛拂去了心里的尘埃 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316137080)<br>Hhhhhhhhhhhh...<br>2020-02-25 22:31<br>赞(2) 踩(0) | <div>每次听到他唱歌都被惊艳到 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>空灵，干净 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"><br>仿佛拂去了心里的尘埃 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/225159535)<br>眼睛休息爱好者<br>2020-02-25 19:27<br>赞(0) 踩(0) | <div>太久不上虾米 某Q找不到在这里意外发现了好多深深～不愧是你！虾米！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35568339)<br>weirdo<br>2020-02-25 02:26<br>赞(1) 踩(0) | <div>深深可可愛愛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85948912)<br>每一天都是最年轻的一天！<br>2020-02-24 10:12<br>赞(1) 踩(0) | <div>2015以后深深的资料呢，照片呢？呜呜呜，快给加上吧，啊啊啊！</div> |
@@ -377,7 +377,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403331422)<br>音乐是我的救赎<br>2020-02-03 23:55<br>赞(72) 踩(0) | <div>盼望周深可以在音乐的梦想之路上一直走下去 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">他的歌声給这个世界带来了那么多美好，给人们带来那么多温暖与希望 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">很感激于他的努力与坚持，感激于他对每一部国内作品的诠释，让我这个音乐上的老古董第一次开始可以接受国内流行乐了。也盼望他可以像自己说的那样，继续探索美声与流行的结合 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png">作为听众的我们遇到你是如此幸运 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375537097)<br>我心由音而涟，我情随乐而...<br>2020-01-30 20:58<br>赞(1) 踩(0) | <div>有点梁静茹的味道</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/375537097)<br>我心由音而涟，我情随乐而...<br>2020-01-29 14:40<br>赞(4) 踩(0) | <div>看了最近综艺，刚刚认识他，有些才华，值得期盼</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2020-01-27 21:57<br>赞(52) 踩(0) | <div>周深，这个我一想到就会嘴角上扬的男孩子唱歌似天籁般惊艳❤每次观众或者后台的老歌手都是一脸不可思议的陶醉看过很多勤深深组合幕后视频觉得这个男孩子怎么可以这么可爱真正了解后才知道深深坚强的让人心碎歧视，误解，冷落，嘲讽，暗恋女孩的拒绝让这个本身内向的男孩更加沉郁心疼感谢那英老师，没有您，就没有《贝加尔湖畔》虽然最后深深被导师您亲手淘汰但看到您和深深相拥痛哭我便什么都释怀了，和你们一起哭成泪人没有您就没有今天的深深一日为师，终生铭记！深深，是你让我感觉自己回到学生时代，是你在我难过的时候给我希望想做一次小女生，对你说深深，我们喜欢你❤</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427771760)<br>少问别人为什么，多看看自...<br>2020-01-27 21:57<br>赞(52) 踩(0) | <div>周深，<br>这个我一想到就会嘴角上扬的男孩子<br>唱歌似天籁般惊艳❤<br>每次观众或者后台的老歌手都是一脸不可思议的陶醉<br>看过很多勤深深组合幕后视频<br>觉得这个男孩子怎么可以这么可爱<br>真正了解后才知道<br>深深坚强的让人心碎<br>歧视，误解，冷落，嘲讽，暗恋女孩的拒绝<br>让这个本身内向的男孩更加沉郁<br>心疼<br>感谢那英老师，没有您，<br>就没有《贝加尔湖畔》<br>虽然最后深深被导师您亲手淘汰<br>但看到您和深深相拥痛哭<br>我便什么都释怀了，和你们一起哭成泪人<br>没有您就没有今天的深深<br>一日为师，终生铭记！<br>深深，是你让我感觉自己回到学生时代，<br>是你在我难过的时候给我希望<br>想做一次小女生，对你说<br>深深，我们喜欢你❤</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36762936)<br> <br>2020-01-23 16:45<br>赞(220) 踩(0) | <div>请虾米给他换一批照片好吗哈哈哈哈我们小土豆已经变白变瘦变美丽了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/353284323)<br><br>2020-03-25 20:42<br>赞(0) 踩(0) | <div>赞同</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441873609)<br><br>2020-03-31 23:48<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈哈哈小土豆已经剥皮了</div> |
@@ -496,7 +496,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/378767997)<br><br>2019-03-21 14:34<br>赞(4) 踩(0) | <div>周深跟霍尊好比两个充满仙气的神仙</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/295196164)<br>这一生这一次为自己抬起头...<br>2019-03-20 17:36<br>赞(1) 踩(0) | <div>2018年最值得庆幸的是在srrx认识你，感谢相遇，真是一个拥有有趣灵魂小孩，妈妈（噗……姐姐爱你 <img src="../../images/comments/36781c4865393a5b0d9f13c49a522a51.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/338587024)<br><br>2019-03-18 12:54<br>赞(3) 踩(0) | <div>图片集可以更新一下嘛？？？？？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175933028)<br>缘起两相为意，不喜；缘落...<br>2019-03-18 09:59<br>赞(1) 踩(0) | <div>我听了两个星期，知道周深是男的。不过无所谓，这声音真是太好听了，听到听不下来</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/175933028)<br>缘起两相为意，不喜；缘落...<br>2019-03-18 09:59<br>赞(1) 踩(0) | <div>我听了两个星期，知道周深是男的。<br>不过无所谓，这声音真是太好听了，听到听不下来</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12734631)<br><br>2019-03-13 21:18<br>赞(6) 踩(0) | <div>声音承载了足够的感情，又何必分男女呢。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/280297110)<br><br>2019-03-13 12:11<br>赞(0) 踩(0) | <div>嗓音无与伦比，太特别。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352300500)<br><br>2019-03-12 13:08<br>赞(1) 踩(0) | <div>一直以为是女生 <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"></div> |
@@ -520,7 +520,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51674191)<br><br>2019-01-26 08:06<br>赞(3) 踩(0) | <div>是会上瘾的那种声音 顺便听他的歌做事儿运气特别好 以后开刀也听周深吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6098936)<br>哎呦，卡了唉~<br>2019-01-27 10:08<br>赞(0) 踩(0) | <div>啊哈哈~你给别人开刀吗？ 好巧，我也喜欢奇犽</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355111015)<br>我还没想好要写什么...<br>2019-01-24 10:08<br>赞(0) 踩(0) | <div>他是真的厉害</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18651427)<br><br>2019-01-23 13:50<br>赞(2) 踩(0) | <div>从好声音喜欢到现在，我不是个坚持的人也从不坚持，并且不关注，但是这货总能在万千歌曲中脱颖而出让我抬头看看歌手是谁，啊，又是这货，啊又是这货，一次次的，从惊奇到习惯，希望多多的词曲作者能给这货写歌多多的原唱。毕竟是他，总能在一堆歌里莫名其妙的唱哭我，毕竟是他，让我改变了对一个城市的看法。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18651427)<br><br>2019-01-23 13:50<br>赞(2) 踩(0) | <div>从好声音喜欢到现在，我不是个坚持的人也从不坚持，并且不关注，但是这货总能在万千歌曲中脱颖而出让我抬头看看歌手是谁，啊，又是这货，啊又是这货，一次次的，从惊奇到习惯，希望多多的词曲作者能给这货写歌多多的原唱。<br>毕竟是他，总能在一堆歌里莫名其妙的唱哭我，毕竟是他，让我改变了对一个城市的看法。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/306056895)<br><br>2019-01-22 08:51<br>赞(2) 踩(0) | <div>空灵的声音，太纯净了。希望深深可以再自信一点，期待更好的作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337571502)<br><br>2019-01-20 18:58<br>赞(1) 踩(0) | <div>人妖吧？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355111015)<br>我还没想好要写什么...<br>2019-01-24 10:09<br>赞(0) 踩(0) | <div>天生的，哪来人妖之说</div> |
@@ -537,7 +537,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/208796323)<br>醒着做梦的人<br>2019-01-07 08:54<br>赞(0) 踩(0) | <div>声音简直太好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/314129118)<br><br>2019-01-06 15:36<br>赞(1) 踩(0) | <div>一直以为他是女的 <img src="../../images/comments/896c71098ec085a58850601158f138ce.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255175947)<br><br>2019-01-06 09:37<br>赞(0) 踩(0) | <div>喜欢卡布很久了！卡布加油呀！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31782321)<br><br>2019-01-06 02:00<br>赞(0) 踩(0) | <div>最喜欢的还是第一次在b站听的那首歌化身孤岛的鲸，加油(ง •̀_•́)ง</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31782321)<br><br>2019-01-06 02:00<br>赞(0) 踩(0) | <div>最喜欢的还是第一次在b站听的那首歌<br>化身孤岛的鲸，加油(ง •̀_•́)ง</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349676048)<br><br>2019-01-05 21:37<br>赞(1) 踩(0) | <div>我的心情和其他评友一样，怎么是男的………？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1294544)<br><br>2019-01-05 14:29<br>赞(0) 踩(0) | <div>万年单曲循环。只想说，我已“深深”沉醉，无法自拔。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/315210886)<br>五月天 等我攒钱去听你的...<br>2019-01-04 21:44<br>赞(1) 踩(0) | <div>看了声入人心，真的很喜欢深深，加油，你在我心中是最棒的，希望你音乐之路越走越远，越走越广，同时也能不忘初心，做那个你真正想成为的歌手，作曲人和自己<a href="http://emumo.xiami.com/u/49479260" target="_blank" rel="nofollow" name_card="49479260">@周深 </a></div> |
@@ -545,7 +545,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39879516)<br>小王子说 爱一定开在某个...<br>2019-01-03 14:32<br>赞(0) 踩(0) | <div>发生了什么 昨天还在听今天怎么很多歌都没版权了 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/408649281)<br><br>2019-01-02 03:29<br>赞(0) 踩(0) | <div>初中的时候听了他的星象仪（全国华人歌手只有他的翻唱），觉得这个人好厉害，后来听了他的unravel，彻底被他圈粉，觉得这样的人理应该得到更多支持才是，加油周深老哥！你的歌很好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/451249)<br>Miles to Go<br>2019-01-01 21:39<br>赞(0) 踩(0) | <div>听其他比较火的歌没什么感触 但觉得他翻唱的一首time to say goodbye很极品</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346782986)<br>虾米不会倒<br>2019-01-01 18:57<br>赞(0) 踩(0) | <div>我的天，你居然是男的。。。大鱼骗了我。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346782986)<br>虾米不会倒<br>2019-01-01 18:57<br>赞(0) 踩(0) | <div>我的天，你居然是男的。。。<br>大鱼骗了我。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307398443)<br><br>2019-01-01 10:27<br>赞(0) 踩(0) | <div>我觉得挺好的呀，干净清爽，不喜欢网红脸，也不喜欢娘炮。声音空灵清澈，好好听歌不行吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256541823)<br>冬天来了，春天还会远吗<br>2018-12-30 19:48<br>赞(1) 踩(0) | <div>一开始听大鱼的时候觉得歌手的嗓音很纯净，之后得知歌手是男生的时候确实吓了一跳……但他的歌确实越听越喜欢，非常有灵气又纯净的嗓音。如果说一个人的心灵与外貌无关的话，那么嗓音与性别的关系就那么重要吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337187245)<br><br>2018-12-30 07:19<br>赞(0) 踩(0) | <div>好嗓，天生尤物</div> |
@@ -562,7 +562,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409390328)<br>我还没想好要写什么...<br>2018-12-18 22:56<br>赞(0) 踩(0) | <div>想听雪落下的声音，什么时候可以放啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/409390328)<br>我还没想好要写什么...<br>2018-12-18 22:56<br>赞(0) 踩(0) | <div>真好听，天使吻过的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43213713)<br>音乐，意境和治愈。探索者...<br>2018-12-18 21:32<br>赞(0) 踩(0) | <div>以为是萌妹\(//∇//)\让我想起了いかさん（男声炸裂）</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244930958)<br><br>2018-12-11 11:26<br>赞(1) 踩(0) | <div>昨天偶然看到微博上蒙面唱将中“雪落下的声音”，才刚刚认识这个嗓音，简直惊为天人！他的嗓音太纯净了，清澈透明，像轻纱一般飘飘渺渺，但该有的质感他都有，太好听！虾米什么时候能收下这首“雪落下的声音”？我就不用一遍遍看视频了 <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/244930958)<br><br>2018-12-11 11:26<br>赞(1) 踩(0) | <div>昨天偶然看到微博上蒙面唱将中“雪落下的声音”，才刚刚认识这个嗓音，简直惊为天人！<br>他的嗓音太纯净了，清澈透明，像轻纱一般飘飘渺渺，但该有的质感他都有，太好听！虾米什么时候能收下这首“雪落下的声音”？我就不用一遍遍看视频了 <img src="../../images/comments/25487e2f208f300ff209693ba216b1fe.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350268310)<br>夏洛特烦恼<br>2018-12-11 09:06<br>赞(0) 踩(0) | <div>艺术家周深</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/255179314)<br><br>2018-12-10 22:57<br>赞(2) 踩(0) | <div>想听《雪落下的声音》，蒙面唱将里听到简直惊艳，太好听了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219560000)<br> 我喜欢的你不一定喜欢，...<br>2018-12-08 16:43<br>赞(3) 踩(0) | <div>宝藏男孩 <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"> <img src="../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |
@@ -643,7 +643,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2784523)<br>暂无签名~<br>2018-09-29 15:58<br>赞(0) 踩(0) | <div>跟我同天生日，特別的周深，生日快樂!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/344952631)<br>    谢谢冷落，感谢不...<br>2018-09-29 15:22<br>赞(0) 踩(0) | <div>生快</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17449055)<br>风和音乐哪个更自由？<br>2018-09-29 13:50<br>赞(2) 踩(0) | <div>生日快乐！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309537743)<br><br>2018-09-29 13:06<br>赞(1) 踩(0) | <div>生日快乐天天开心o(≧v≦)o</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/309537743)<br><br>2018-09-29 13:06<br>赞(1) 踩(0) | <div>生日快乐<br>天天开心o(≧v≦)o</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/356208823)<br><br>2018-09-29 10:12<br>赞(1) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png">生日快乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2297940)<br>我还没想好要写什么...<br>2018-09-29 10:01<br>赞(2) 踩(0) | <div>据说是生日呢，周深生日快乐吖OuO</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72205108)<br>We never rea...<br>2018-09-29 10:00<br>赞(2) 踩(0) | <div>生日快乐</div> |
@@ -666,7 +666,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402425181)<br>✨<br>2018-09-03 20:52<br>赞(0) 踩(0) | <div>深深~我来惹~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/297982258)<br><br>2018-09-01 13:28<br>赞(0) 踩(0) | <div>可以唱些日漫歌曲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/342038768)<br>pucikaka don...<br>2018-08-31 10:07<br>赞(0) 踩(0) | <div>加油永远支持</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327726878)<br>愿忧愁易溶于水。<br>2018-08-26 18:53<br>赞(0) 踩(0) | <div>&lt;非常非常喜欢周深，不管是声音还是长相。。别说什么口味特别，我就是喜欢这样的啊。。希望听到越来越多的作品。。祝越来越好[url=/u/49479260]@周深 [/url]&gt;&lt;49479260&gt;</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/327726878)<br>愿忧愁易溶于水。<br>2018-08-26 18:53<br>赞(0) 踩(0) | <div>&lt;非常非常喜欢周深，不管是声音还是长相。。别说什么口味特别，我就是喜欢这样的啊。。<br>希望听到越来越多的作品。。祝越来越好[url=/u/49479260]@周深 [/url]&gt;&lt;49479260&gt;</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/400889356)<br><br>2018-08-25 23:15<br>赞(2) 踩(0) | <div>空谷幽兰 ，很喜欢你的作品</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85008772)<br><br>2018-08-23 19:50<br>赞(0) 踩(0) | <div>卧槽，才知道是男性，一直以为是女性!!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96047026)<br>是谁说过'生命是一处纯白...<br>2018-08-21 22:52<br>赞(1) 踩(0) | <div>想听周深版的可能否</div> |
@@ -800,7 +800,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/299446291)<br> <br>2017-12-20 22:29<br>赞(3) 踩(0) | <div>周深居然是男生 <img src="../../images/comments/73139a5b2dfac6a1ac256a3dc33ad1e3.png"> <img src="../../images/comments/0590342800944c9cbf70e4e78ed6027a.png"> <img src="../../images/comments/0590342800944c9cbf70e4e78ed6027a.png"> <img src="../../images/comments/0590342800944c9cbf70e4e78ed6027a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50002319)<br><br>2017-12-19 17:21<br>赞(2) 踩(0) | <div>其实在你第一次在好声音唱《欢颜》开始我都有一直关注你后面到现在的好作品，继续加油，期待以后有更多的好作品 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334919143)<br><br>2017-12-17 14:15<br>赞(1) 踩(0) | <div>秒杀李宇春啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294411699)<br>做一个像天才与疯子一样的...<br>2017-12-15 14:01<br>赞(4) 踩(0) | <div>我是贵州人，支持你，周深骄傲，祝你演艺圈越走越远。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/294411699)<br>做一个像天才与疯子一样的...<br>2017-12-15 14:01<br>赞(4) 踩(0) | <div>我是贵州人，支持你，周深<br>骄傲，祝你演艺圈越走越远。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43955687)<br>我还没想好要写什么...<br>2017-12-15 03:08<br>赞(3) 踩(0) | <div>一直觉得国内的流行歌曲很烂，直到听到你的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52395540)<br><br>2017-12-12 13:59<br>赞(0) 踩(0) | <div>建议换个好看得头像...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/337053198)<br><br>2017-12-08 08:33<br>赞(1) 踩(0) | <div>好听</div> |
@@ -866,7 +866,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308248146)<br><br>2017-10-30 23:45<br>赞(1) 踩(0) | <div>从欢颜开始认识周深，今年出了好多好听的歌，太棒了，加油，</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321194912)<br><br>2017-10-29 22:05<br>赞(0) 踩(0) | <div>棒棒哒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/187381289)<br>这个人太帅了，什么也没有...<br>2017-10-28 14:47<br>赞(0) 踩(0) | <div>喜欢他的声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36544523)<br>暂无签名~<br>2017-10-27 23:32<br>赞(0) 踩(0) | <div>男神！~《卷珠帘》比原版有磁性~《爱久见人心》唱法和梁静茹一样样~《Burning》和原版唱法不一样，却更好地利用了自己声音的优势~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36544523)<br>暂无签名~<br>2017-10-27 23:32<br>赞(0) 踩(0) | <div>男神！~<br>《卷珠帘》比原版有磁性~<br>《爱久见人心》唱法和梁静茹一样样~<br>《Burning》和原版唱法不一样，却更好地利用了自己声音的优势~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43148999)<br>懒⋯<br>2017-10-27 23:14<br>赞(0) 踩(0) | <div>太动人的声音了！！！听到高音，毛发都震撼了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1851561)<br><br>2017-10-27 23:09<br>赞(1) 踩(0) | <div><a href="http://www.bilibili.com/sp/%E5%8D%A1%E5%B8%83" target="_blank" rel="nofollow noreferrer noopener">http://www.bilibili.com/sp/%E5%8D%A1%E5%B8%83</a> 咩哈哈 脑残粉来啦</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307141146)<br><br>2017-10-27 23:06<br>赞(0) 踩(0) | <div>卡布加油 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
@@ -1174,7 +1174,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/256155315)<br><br>2016-12-29 15:19<br>赞(0) 踩(0) | <div>最爱的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/249970070)<br><br>2016-12-28 09:31<br>赞(2) 踩(0) | <div>自带后期的声音 <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257312145)<br><br>2016-12-27 11:25<br>赞(0) 踩(0) | <div>爱周深的声音</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257312145)<br><br>2016-12-27 11:24<br>赞(1) 踩(0) | <div>看你飞远去 看你离我而去原来你生来就属于天际每一滴泪水 都向你流淌去倒流回最初的相遇</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257312145)<br><br>2016-12-27 11:24<br>赞(1) 踩(0) | <div>看你飞远去 看你离我而去<br>原来你生来就属于天际<br>每一滴泪水 都向你流淌去<br>倒流回最初的相遇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155171740)<br>废墟里的歌66<br>2016-12-27 10:01<br>赞(1) 踩(0) | <div>喜欢这个声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/186660531)<br><br>2016-12-26 13:05<br>赞(0) 踩(0) | <div>深深的嗓音好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/257057971)<br><br>2016-12-26 09:14<br>赞(1) 踩(0) | <div>天籁之音～深深～</div> |
@@ -1228,7 +1228,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/204856414)<br>愿时光匆匆流去、我只在乎...<br>2016-11-07 17:39<br>赞(0) 踩(0) | <div>只听声音还以为是女孩子 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15856732)<br>我还没想好要写什么...<br>2016-11-06 14:00<br>赞(2) 踩(0) | <div>保护好嗓子，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33442386)<br>为你而来<br>2016-11-02 18:56<br>赞(4) 踩(0) | <div>听了很久的大鱼，过来发现了原来是他不是她！但是唱歌真的很好听啊～！连我一直听的化身孤岛的鲸也翻得很好听！开心的一路听下来～</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496847)<br>夢醒了，所以心碎了。<br>2016-10-31 22:38<br>赞(4) 踩(0) | <div>真正的天籁男声越听多一点，越喜欢这个声音多一点越看多周深的节目，越喜欢这个人，耿直boy~~~XD</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3496847)<br>夢醒了，所以心碎了。<br>2016-10-31 22:38<br>赞(4) 踩(0) | <div>真正的天籁男声<br>越听多一点，越喜欢这个声音多一点<br>越看多周深的节目，越喜欢这个人，耿直boy~~~XD</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54618238)<br> <br>2016-10-31 15:57<br>赞(1) 踩(0) | <div>文艺范 初听略淡 循环竟然毫无压力 PS：歌名很有意思，百度下：nǐ，称谈话的女性对方。（中国内地已与“你”字合并，只有台湾使用，部分台湾小说里就有这个字，但因为两地的汉字差异，一般显示出来的是同音字“奶”）。幺蛾子女神揭面后发这个妳 很巧合</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241828092)<br><br>2016-10-31 10:59<br>赞(0) 踩(0) | <div>从卡布到周深，被洗脑了好多年(ˇˍˇ)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/241597190)<br><br>2016-10-30 21:33<br>赞(2) 踩(0) | <div>时而空灵缥缈，时而细腻婉转，太牛了！！！！！！！</div> |
@@ -1308,7 +1308,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/96902836)<br><br>2016-07-21 22:51<br>赞(1) 踩(0) | <div>声音超级棒 <img src="../../images/comments/4ccd7b81da23f09b4a6a879ed3b85ef8.png">找到男神了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100502094)<br>祝大家新年快乐<br>2016-07-21 10:01<br>赞(0) 踩(0) | <div>Good男团成就你的梦想 我们的粉丝总称：吉祥草 总称简介：吉祥草给你带来一切吉祥如意。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46782104)<br>皈依秀姑娘<br>2016-07-20 13:50<br>赞(11) 踩(0) | <div>还记得当年那英把周深淘汰的样子，我不想去探究这其中的奥秘，我只想说，是金子总会发光，就算有人有心遮挡你的光芒，你还是会跨过所有坎坷，让我们看到最美的你，周深，挺你 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46782104)<br>皈依秀姑娘<br>2016-07-20 13:47<br>赞(4) 踩(0) | <div>周而复始深情如你</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46782104)<br>皈依秀姑娘<br>2016-07-20 13:47<br>赞(4) 踩(0) | <div>周而复始<br>深情如你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4206862)<br><br>2016-07-19 13:07<br>赞(6) 踩(0) | <div>干净 清澈 不需要技巧 就能触动 <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/202471645)<br><br>2016-07-18 22:23<br>赞(1) 踩(0) | <div>加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2502319)<br>……<br>2016-07-17 22:59<br>赞(2) 踩(0) | <div>声音真的很棒</div> |
@@ -1447,7 +1447,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11390098)<br> <br>2016-03-17 21:23<br>赞(2) 踩(0) | <div>听声音我以为是女的！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/124128548)<br><br>2016-03-17 11:24<br>赞(2) 踩(0) | <div>被他的歌声秒圈成粉</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14829196)<br><br>2016-03-15 09:51<br>赞(1) 踩(0) | <div>好听得不要不要的，期待更多作品。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/506787)<br>有人问我是与非，说是与非<br>2016-03-12 11:59<br>赞(2) 踩(0) | <div>中国好声音的一首“欢颜”就惊艳了我，可惜在那太后手上再次被证明这是一个看脸的时代，没能走得更远。听完整张翻唱专辑我只想说：汉子柔起来妹子都要靠边站呐！ps：竟然有Ponponpon，简直了。。。。。魔性呐魔性</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/506787)<br>有人问我是与非，说是与非<br>2016-03-12 11:59<br>赞(2) 踩(0) | <div>中国好声音的一首“欢颜”就惊艳了我，可惜在那太后手上再次被证明这是一个看脸的时代，没能走得更远。听完整张翻唱专辑我只想说：汉子柔起来妹子都要靠边站呐！<br>ps：竟然有Ponponpon，简直了。。。。。魔性呐魔性</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7409057)<br>万籁有声，天地无言！<br>2016-03-11 08:31<br>赞(1) 踩(0) | <div>周深是男的？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/506787)<br>有人问我是与非，说是与非<br>2016-03-12 11:58<br>赞(0) 踩(0) | <div>是的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10028400)<br>我还没想好要写什么...<br>2016-03-10 13:53<br>赞(0) 踩(0) | <div>卡布啊啊啊</div> |
@@ -1522,7 +1522,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/82518150)<br>风雨同周 深情不移<br>2015-11-13 10:55<br>赞(1) 踩(0) | <div>风雨同周 深情不移</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57489558)<br> <br>2015-12-22 13:27<br>赞(0) 踩(0) | <div>(＾▽＾)</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56735700)<br><br>2015-11-12 20:47<br>赞(0) 踩(0) | <div>今时毕竟不同往日，现在是职业歌手，肯定不能随心所欲唱了。先找准定位，形成自身特色，再尝试其他风格也来得及的。保持关注和期待吧… <img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16807556)<br><br>2015-11-12 14:10<br>赞(0) 踩(0) | <div>实在过了听童话歌曲的年纪，新歌无感。喜欢你的声音，但不是因为那个“女声”标签。我喜欢的卡布，可不止这些。不需要刻意迎合大众口味，不需要每首歌都雕琢成天籁。仍在循环你早期的歌，虽然有瑕疵（也很可爱），可是声线更多变点，应该说是——随心所欲的自由。新歌却似乎已给你定好位。（个人感觉）突然想起一个很喜欢的乐评写到：“ 究竟是这个世界太浮华，淹没了好声音，还是这个世界太沉静，梦想如死水一潭。”11年某粉写给JM的。但当时喜欢的小众，如今在虾米也有38W+的粉丝了，虽然本家粉似乎更喜欢把他藏起来~(跑题了)或许这个世界太浮华，但总有一群人默默支持你。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16807556)<br><br>2015-11-12 14:10<br>赞(0) 踩(0) | <div>实在过了听童话歌曲的年纪，新歌无感。<br>喜欢你的声音，但不是因为那个“女声”标签。我喜欢的卡布，可不止这些。<br>不需要刻意迎合大众口味，不需要每首歌都雕琢成天籁。<br>仍在循环你早期的歌，虽然有瑕疵（也很可爱），可是声线更多变点，应该说是——随心所欲的自由。新歌却似乎已给你定好位。（个人感觉）<br>突然想起一个很喜欢的乐评写到：<br>“ 究竟是这个世界太浮华，淹没了好声音，还是这个世界太沉静，梦想如死水一潭。”<br>11年某粉写给JM的。<br>但当时喜欢的小众，如今在虾米也有38W+的粉丝了，虽然本家粉似乎更喜欢把他藏起来~(跑题了)<br>或许这个世界太浮华，但总有一群人默默支持你。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/56735700)<br><br>2015-11-12 20:49<br>赞(0) 踩(0) | <div>l今时毕竟不同往日，现在是职业歌手了，肯定不能随心所欲唱了。先找准定位，形成自身特色，再尝试其他风格也来得及。保持关注和期待吧！ <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16807556)<br><br>2015-11-13 13:21<br>赞(0) 踩(0) | <div><q><b>Magical Girl说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50345962)<br> <br>2015-11-11 09:54<br>赞(2) 踩(0) | <div>期待原唱不再翻唱！</div> |
@@ -1534,7 +1534,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/79500376)<br> <br>2015-11-04 16:19<br>赞(0) 踩(0) | <div>你是男是女</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3200106)<br>随心随意<br>2015-11-01 11:21<br>赞(0) 踩(0) | <div>毫无特色的曲子把声音糟蹋了，声音秒杀那些号称很红的天后天王，可惜曲子都没有欢颜的震撼，听一遍都抓不住曲调。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55375871)<br>愿无岁月可回头。<br>2015-10-31 17:36<br>赞(1) 踩(0) | <div>卧槽是男的！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11761676)<br>Let there be...<br>2015-10-31 00:16<br>赞(4) 踩(0) | <div>其实这种声音出现的几率有多少……男歌手好像没几个能这样的吧</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11761676)<br>Let there be...<br>2015-10-31 00:16<br>赞(4) 踩(0) | <div>其实这种声音出现的几率有多少……<br>男歌手好像没几个能这样的吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18282119)<br>我就是我，独一无二<br>2015-11-07 14:39<br>赞(0) 踩(0) | <div>太少了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1429206)<br>愿得一间屋<br>2015-10-28 16:47<br>赞(0) 踩(0) | <div>呜呜呜，比我小，好年轻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34539439)<br>最近<br>2015-10-27 17:11<br>赞(1) 踩(0) | <div>标准受音。</div> |
@@ -1547,7 +1547,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7133174)<br>我还没想好要写什么...<br>2015-10-17 21:40<br>赞(1) 踩(0) | <div>中间热评这头像都行啊？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38641209)<br><br>2015-10-17 22:44<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48559247)<br>Live like a ...<br>2015-10-14 23:19<br>赞(1) 踩(0) | <div>音域太宽惹</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23726551)<br>音乐响起 将世界抛离<br>2015-10-11 00:08<br>赞(1) 踩(0) | <div>！！返回了两次播放页面点击歌手名字 以为进错了主页～没有不敬的意思 还真不确定是男是女 档案也没说</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23726551)<br>音乐响起 将世界抛离<br>2015-10-11 00:08<br>赞(1) 踩(0) | <div>！！返回了两次播放页面点击歌手名字 以为进错了主页<br>～没有不敬的意思 还真不确定是男是女 档案也没说</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54841803)<br>呵呵<br>2015-10-10 19:16<br>赞(0) 踩(0) | <div>歌声美，何必关注是男是女</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/72685116)<br>s<br>2015-10-09 06:16<br>赞(0) 踩(0) | <div><img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"> <img src="../../images/comments/af8be1edcf379d99bdfc9e7b3f332a0c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44343185)<br>暂无签名~<br>2015-10-05 14:07<br>赞(0) 踩(0) | <div>纯净天籁</div> |
@@ -1589,7 +1589,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4286112)<br><br>2015-09-09 20:40<br>赞(0) 踩(0) | <div>男神！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34324208)<br><br>2015-09-09 16:54<br>赞(0) 踩(0) | <div>声音好听，一直很喜欢卡布！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/62197848)<br><br>2015-09-09 10:48<br>赞(0) 踩(0) | <div>好听好听好听好听……</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54625455)<br>周深颜饭╮(╯▽╰)╭<br>2015-09-09 09:58<br>赞(3) 踩(0) | <div>「我会变成一个更好的人吗？」更加坚强 更加善良——「你会啊。」</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54625455)<br>周深颜饭╮(╯▽╰)╭<br>2015-09-09 09:58<br>赞(3) 踩(0) | <div>「我会变成一个更好的人吗？」<br>更加坚强 更加善良<br>——「你会啊。」</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54756560)<br><br>2015-09-09 09:07<br>赞(0) 踩(0) | <div>新歌美哭了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41148958)<br><br>2015-09-08 23:29<br>赞(0) 踩(0) | <div>深深照顾好自己么么哒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41148958)<br><br>2015-09-08 23:29<br>赞(0) 踩(0) | <div>我深太6</div> |
@@ -1602,16 +1602,16 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43883905)<br><br>2015-09-08 18:47<br>赞(0) 踩(0) | <div>好听啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54664486)<br><br>2015-09-08 18:30<br>赞(0) 踩(0) | <div>励志的新歌来了 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"> <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49465926)<br><br>2015-09-06 17:34<br>赞(0) 踩(0) | <div>就是这么美</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5103998)<br>喜欢把情绪糅合到音乐里。<br>2015-09-04 19:44<br>赞(4) 踩(0) | <div><a href="http://space.bilibili.com/3404595#" target="_blank" rel="nofollow noreferrer noopener">http://space.bilibili.com/3404595#</a>!/index循环了他bilibili上的歌很久，现在才！发！现！是！周！深！欢颜炒鸡好听的好吗！！！！！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5103998)<br>喜欢把情绪糅合到音乐里。<br>2015-09-04 19:44<br>赞(4) 踩(0) | <div><a href="http://space.bilibili.com/3404595#" target="_blank" rel="nofollow noreferrer noopener">http://space.bilibili.com/3404595#</a>!/index<br>循环了他bilibili上的歌很久，现在才！发！现！是！周！深！<br>欢颜炒鸡好听的好吗！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7046099)<br> <br>2015-09-02 16:39<br>赞(1) 踩(0) | <div>男的，无法相信自己的耳朵！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10603651)<br>人闲桂花落，夜静春山空。...<br>2015-09-02 12:52<br>赞(3) 踩(0) | <div>充满灵性的声音，太美</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10109421)<br>听风吹等雨来<br>2015-09-02 11:02<br>赞(1) 踩(0) | <div>一直以为是个姑娘 <img src="../../images/comments/f5381e8edf9c13245dedbc0ec3baa53c.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/60117454)<br>No can,but w...<br>2015-09-02 10:02<br>赞(1) 踩(0) | <div>声音特好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52868287)<br><br>2015-09-01 16:34<br>赞(3) 踩(0) | <div>声音太唯美了空灵听醉了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52868287)<br><br>2015-09-01 16:34<br>赞(3) 踩(0) | <div>声音太唯美了<br>空灵<br>听醉了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52599718)<br><br>2015-09-01 12:48<br>赞(6) 踩(0) | <div>喜欢他的音色和演唱技巧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35358278)<br>天道酬勤 厚德载物<br>2015-08-31 13:36<br>赞(1) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13129676)<br><br>2015-08-31 12:29<br>赞(4) 踩(0) | <div>希望他能走的更远更好，我？很喜欢他，但更多是担心，毕竟他还很年轻。希望不要伤仲永 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59373420)<br><br>2015-08-30 17:04<br>赞(14) 踩(0) | <div>就是一个字，牛。他的声音是天注定的。请不要黑他。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/59373420)<br><br>2015-08-30 17:04<br>赞(14) 踩(0) | <div>就是一个字，牛。<br>他的声音是天注定的。<br>请不要黑他。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22696279)<br><br>2015-08-30 15:41<br>赞(1) 踩(0) | <div>难以忘怀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34155744)<br> <br>2015-08-30 11:19<br>赞(1) 踩(0) | <div>等下！为毛封面是个汉子QAQ</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52348655)<br>纠缠<br>2015-08-30 11:58<br>赞(0) 踩(0) | <div>他是男的</div> |
@@ -1828,7 +1828,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50599541)<br><br>2015-08-08 14:54<br>赞(0) 踩(0) | <div>真好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2525832)<br><br>2015-08-08 14:35<br>赞(0) 踩(0) | <div>矮马，这么柔这么嗲一定是个男.....孩.....子！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40750672)<br>嗯…<br>2015-08-08 14:30<br>赞(0) 踩(0) | <div>我嚓 这是男的唱的！？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313170)<br>年少不更事才起的这个名字<br>2015-08-08 13:27<br>赞(9) 踩(0) | <div>声音是男人，歌声似女人而更胜女人，男人中有几个能有这样的唱法？声音能有他细腻温柔？别说他是娘炮了，他只有唱歌的时候是用女声。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313170)<br>年少不更事才起的这个名字<br>2015-08-08 13:27<br>赞(9) 踩(0) | <div>声音是男人，歌声似女人而更胜女人，男人中有几个能有这样的唱法？声音能有他细腻温柔？<br>别说他是娘炮了，他只有唱歌的时候是用女声。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4486462)<br>不和听垃圾的人做朋友。<br>2015-08-08 13:23<br>赞(2) 踩(0) | <div>但心底都是那些蹲歪歪的日子啊ww</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32238784)<br> <br>2015-08-08 13:22<br>赞(1) 踩(0) | <div>我又想起昨天好声音里那个“变异”的男人。尖细和低沉的“女音”，都很棒啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/54519549)<br>自信可改变未来<br>2015-08-08 13:06<br>赞(0) 踩(0) | <div>不知道她是谁觉得歌好听就搜搜这人看  看见图片我以为我眼花了  怎么可以是男的。  。  这嗓音</div> |
@@ -1842,8 +1842,8 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5806141)<br><br>2015-08-08 15:34<br>赞(0) 踩(0) | <div><q><b>Magicalgirl_杨说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51434954)<br><br>2015-08-08 12:01<br>赞(0) 踩(0) | <div>男的？竟然是男的！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16807556)<br><br>2015-08-08 11:48<br>赞(1) 踩(0) | <div>卡布卡布，其实我喜欢你的男声~</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24287819)<br>暗戀<br>2015-08-08 11:41<br>赞(0) 踩(0) | <div>之前我只听过卡布叻的let it go，后来听周深声音好熟悉啊…………结果仔细看专辑封面 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24287819)<br>暗戀<br>2015-08-08 11:41<br>赞(0) 踩(0) | <div>之前我只听过卡布叻的let it go，后来听周深声音好熟悉啊…………结果仔细看专辑封面 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24287819)<br>暗戀<br>2015-08-08 11:41<br>赞(0) 踩(0) | <div>之前我只听过卡布叻的let it go，后来听周深声音好熟悉啊…………<br>结果仔细看专辑封面 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24287819)<br>暗戀<br>2015-08-08 11:41<br>赞(0) 踩(0) | <div>之前我只听过卡布叻的let it go，后来听周深声音好熟悉啊…………<br>结果仔细看专辑封面 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14758446)<br>我是读书人<br>2015-08-08 11:03<br>赞(1) 踩(0) | <div>卧槽....一定是我打开的方式不对........</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42807369)<br> <br>2015-08-08 10:57<br>赞(0) 踩(0) | <div>什么？！他是男的？？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42807369)<br> <br>2015-08-08 10:57<br>赞(0) 踩(0) | <div>什么？！他是男的？？？</div> |
@@ -2035,7 +2035,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10400684)<br>我还没想好要写什么...<br>2014-12-31 23:31<br>赞(0) 踩(0) | <div>不过卷珠帘还是霍樽的好听...韵味稍欠点</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10400684)<br>我还没想好要写什么...<br>2014-12-31 23:27<br>赞(0) 踩(0) | <div>干净 纯粹...好声音太过分了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3707373)<br><br>2014-12-31 21:47<br>赞(0) 踩(0) | <div>比女人还干净</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44532925)<br>暂无签名~<br>2014-12-31 20:32<br>赞(0) 踩(0) | <div>已经快成男神了……orz棒棒的加油!!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44532925)<br>暂无签名~<br>2014-12-31 20:32<br>赞(0) 踩(0) | <div>已经快成男神了……orz<br>棒棒的加油!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43984857)<br><br>2014-12-29 14:59<br>赞(0) 踩(0) | <div>希望能上春晚。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/45381531)<br><br>2014-12-28 13:17<br>赞(0) 踩(0) | <div>声音干净，能够唱出歌曲的意境，用那英的话“比女人还女人”</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32011329)<br><br>2014-12-27 22:04<br>赞(0) 踩(0) | <div>我听他唱歌都想哭π_π</div> |
@@ -2105,7 +2105,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42954315)<br>只为听你的天籁之音<br>2014-10-24 07:30<br>赞(0) 踩(0) | <div>卡布。天籁之音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7900978)<br>Mew<br>2014-10-22 15:01<br>赞(0) 踩(0) | <div>永远的卡布…爱你</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11062646)<br>发乎情止乎礼<br>2014-10-21 23:53<br>赞(0) 踩(0) | <div>没看中国好声音，听人家说《贝加尔湖畔》好听，找来听了一直以为是男女对唱，原来…………这声音妖孽了。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40819628)<br><br>2014-10-21 22:27<br>赞(0) 踩(0) | <div>最喜欢你，我也是你的布丁你是 所有人的周深，永远是我们的卡布</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40819628)<br><br>2014-10-21 22:27<br>赞(0) 踩(0) | <div>最喜欢你，我也是你的布丁<br>你是 所有人的周深，永远是我们的卡布</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22213937)<br>暂无签名~<br>2014-10-21 15:06<br>赞(0) 踩(0) | <div>支持你，永远～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2430463)<br>暂无签名~<br>2014-10-20 21:21<br>赞(0) 踩(0) | <div>哦我天，好久没看居然多了这么多首歌，又有新歌可以loop了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10063670)<br><br>2014-10-20 00:44<br>赞(0) 踩(0) | <div>周深有温润如丝绸的中音区，清澈如水晶的高音区，而这两种音色被一种如水的柔情统一起来，天赋惊人。</div> |
@@ -2134,7 +2134,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42404426)<br><br>2014-10-11 23:37<br>赞(0) 踩(0) | <div>天籁</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32682611)<br>终于明白<br>2014-10-11 12:57<br>赞(0) 踩(0) | <div>超越了李玉刚很远</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42087745)<br><br>2014-10-11 22:25<br>赞(0) 踩(0) | <div>确实</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5659377)<br><br>2014-10-10 22:32<br>赞(0) 踩(0) | <div>周深，一代音乐奇才，男版的王菲，中国的vitas ,中国此年纪的歌手，可以迈出国门，与世界相见者，唯周深一人也！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5659377)<br><br>2014-10-10 22:32<br>赞(0) 踩(0) | <div>周深，一代音乐奇才，男版的王菲，中国的vitas ,<br>中国此年纪的歌手，可以迈出国门，与世界相见者，唯周深一人也！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22213937)<br>暂无签名~<br>2014-10-10 14:34<br>赞(0) 踩(0) | <div>虽然没得好声音冠军，但是在我们大家心里你永远是冠军</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22213937)<br>暂无签名~<br>2014-10-10 14:33<br>赞(0) 踩(0) | <div>喜欢你声音，一点都不含糊，已经痴迷到......，太喜欢了...</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5860767)<br><br>2014-10-10 12:33<br>赞(0) 踩(0) | <div>腻害。</div> |
@@ -2183,7 +2183,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41626721)<br><br>2014-09-24 00:45<br>赞(0) 踩(0) | <div>总觉得他不应该被淘汰</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40653827)<br><br>2014-09-23 18:20<br>赞(0) 踩(0) | <div>周深，永永远远支持你！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/27387872)<br><br>2014-09-22 23:23<br>赞(0) 踩(0) | <div>天籁</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2014-09-22 22:39<br>赞(1) 踩(0) | <div>哥 求你唱首许茹芸的 泪海 好么好么好么~~~筒子们给我赞下 THX</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8070377)<br>爱雾瑞性维欧腐漏<br>2014-09-22 22:39<br>赞(1) 踩(0) | <div>哥 求你唱首许茹芸的 泪海 好么好么好么~~~<br><br>筒子们给我赞下 THX</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7282474)<br>我没有结巴，只是在缓冲<br>2014-09-22 18:59<br>赞(0) 踩(0) | <div>太美了QAQ唱得心肝都碎了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41549552)<br>大爱周深<br>2014-09-22 14:31<br>赞(0) 踩(0) | <div>超级爱，天才</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22752791)<br><br>2014-09-21 18:50<br>赞(1) 踩(0) | <div>真乃奇才…………卷珠帘真是空灵</div> |
@@ -2214,7 +2214,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34902909)<br> <br>2014-09-12 11:10<br>赞(1) 踩(0) | <div>拥有周深 一举拥有男神和女神</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40843769)<br><br>2014-09-12 10:15<br>赞(0) 踩(0) | <div>无论男声女声，唱的都很好，很感人。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9255205)<br><br>2014-09-12 07:14<br>赞(0) 踩(0) | <div>男神</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7707213)<br><br>2014-09-11 22:26<br>赞(0) 踩(0) | <div>我觉得这个世界伪娘比女孩还漂亮 就已经够疯狂原来那都是小卡司....</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7707213)<br><br>2014-09-11 22:26<br>赞(0) 踩(0) | <div>我觉得这个世界伪娘比女孩还漂亮 就已经够疯狂<br><br>原来那都是小卡司....</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41124853)<br>刘俊麟99<br>2014-09-11 22:13<br>赞(3) 踩(0) | <div>没了周深果断不喜中国好声音。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40357755)<br><br>2014-09-12 17:25<br>赞(0) 踩(0) | <div>支持</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/41148958)<br><br>2014-09-12 17:56<br>赞(0) 踩(0) | <div>在大神面前我只能默默点赞</div> |
@@ -2317,7 +2317,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352559)<br><br>2014-09-04 20:37<br>赞(0) 踩(0) | <div>最独特的嗓音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36720695)<br>Yesterday ye...<br>2014-09-04 19:44<br>赞(0) 踩(0) | <div>对不起周深，我哭了！这是心灵之声。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8583712)<br>上传反动、色情等照片将导...<br>2014-09-04 19:43<br>赞(0) 踩(0) | <div>在【性别】的基础上评判声线的好坏，是本能和直觉；搁置【性别】，只考虑是否动听、感人，是更纯粹的审美。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2409310)<br>¯﹃¯<br>2014-09-04 19:28<br>赞(0) 踩(0) | <div>这才是真女神好吗！！充满魔性的声音</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2409310)<br>¯﹃¯<br>2014-09-04 19:28<br>赞(0) 踩(0) | <div>这才是真女神好吗！！<br>充满魔性的声音</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15464819)<br>不加思索 不想不快乐<br>2014-09-04 19:10<br>赞(0) 踩(0) | <div>他到底是男的还是女的。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26432038)<br>hello， world...<br>2014-09-04 17:32<br>赞(0) 踩(0) | <div>哪位大神上传一下皮卡丘那首</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/40837633)<br><br>2014-09-04 14:40<br>赞(1) 踩(0) | <div>我喜欢你的声音，太好听了。</div> |
@@ -2392,6 +2392,6 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4405380)<br>谁能凭爱意要富士山私有<br>2014-09-02 00:11<br>赞(0) 踩(0) | <div>卡布布QAQ 最喜欢那句往事随云走QAQ</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31704354)<br><br>2014-09-01 23:41<br>赞(2) 踩(0) | <div>本来不相信好声音有黑幕，周深被淘汰后就相信了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21981454)<br><br>2014-09-01 23:24<br>赞(1) 踩(0) | <div>虽然有特点的声音在好声音里基本和冠军无缘但是还是没想到他这么早就下去了，我是因为他才关注好声音的，在好声音之前就听过他的歌，绝对的喜欢！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37269177)<br>爱老虎油<br>2014-09-01 23:14<br>赞(0) 踩(0) | <div>爱死周深！！！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37269177)<br>爱老虎油<br>2014-09-01 23:14<br>赞(0) 踩(0) | <div>爱死周深<br><br>！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7293726)<br>爱茶茶，爱注会<br>2014-09-01 23:03<br>赞(1) 踩(0) | <div>听欢颜时候鸡皮疙瘩都起来了，觉得这样的好声音能听到真是幸福，祝福你，在喜欢唱歌的路上走的更好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3803809)<br>人生得意须尽欢<br>2014-09-01 23:03<br>赞(0) 踩(0) | <div>不敢相信</div> |

@@ -3,7 +3,7 @@ Yogee New Waves
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/90944cf81cbc72720b5e2bc74e6b3b16.jpg)<br>Yogee New Waves](https://i.xiami.com/yogeenewwaves) | **播放数**: 2775426<br>**粉丝数**: 7737<br>**评论数**: 267<br>**地区**: Japan 日本<br>**风格**: 都市流行 City Pop, 日本流行 J-Pop<br> |
+| [![](../../images/musicians/90944cf81cbc72720b5e2bc74e6b3b16.jpg)<br>Yogee New Waves](https://i.xiami.com/yogeenewwaves) | **地区**: Japan 日本<br>**风格**: 都市流行 City Pop, 日本流行 J-Pop<br>**播放数**: 2775426<br>**粉丝数**: 7737<br>**评论数**: 267<br> |
 
 ## 档案
 
@@ -35,8 +35,8 @@ Kengo Kakudate (Gt.Vo)<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/336701733)<br>不要告别<br>2021-01-31 10:08<br>赞(0) 踩(0) | <div>主唱声音好特别</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/121702052)<br>超脱<br>2020-11-18 09:38<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50284190)<br>我是一片乱码<br>2020-11-02 10:21<br>赞(0) 踩(0) | <div>~</div> |
@@ -75,7 +75,7 @@ Kengo Kakudate (Gt.Vo)<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9066420)<br>我还没想好要写什么...<br>2019-09-20 11:40<br>赞(9) 踩(0) | <div>为什么不来广州或深圳啊 <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288013826)<br>请大家一起养小虾米帮助听...<br>2019-08-12 12:02<br>赞(0) 踩(0) | <div>：</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427662204)<br>0 to 1<br>2019-08-11 23:32<br>赞(0) 踩(0) | <div>最喜欢的乐队！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-07-19 20:24<br>赞(4) 踩(0) | <div>Yogee New Waves ASIA TOUR 201911.21 北京 疆进酒11.22 上海 Modern Sky Lab11.24 西安 果核剧场11.26 杭州 MAO11.27 南京 稻香音乐空间</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-07-19 20:24<br>赞(4) 踩(0) | <div>Yogee New Waves ASIA TOUR 2019<br><br>11.21 北京 疆进酒<br>11.22 上海 Modern Sky Lab<br>11.24 西安 果核剧场<br>11.26 杭州 MAO<br>11.27 南京 稻香音乐空间</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4144935)<br>我还没想好要写什么...<br>2019-07-18 17:37<br>赞(0) 踩(0) | <div>♥️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42963872)<br>我还没想好要写什么...<br>2019-07-05 01:03<br>赞(0) 踩(0) | <div>!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346165752)<br><br>2019-05-25 11:08<br>赞(0) 踩(0) | <div>‍</div> |
@@ -89,7 +89,7 @@ Kengo Kakudate (Gt.Vo)<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4200163)<br>很无趣一人。<br>2019-04-28 21:51<br>赞(1) 踩(0) | <div>现场的时候，大家一直一直在笑，真的心情超级好。主唱说shall we dance，我狂喊yeahhhhhhs</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/57463)<br>空空如也<br>2019-04-27 19:13<br>赞(1) 踩(0) | <div>2019.4.26 在成都草莓见到 开心开心！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340903899)<br>我还没想好要写什么...<br>2019-04-25 07:40<br>赞(0) 踩(0) | <div>。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48537730)<br>理智使她着迷<br>2019-04-19 19:20<br>赞(0) 踩(0) | <div>妈鸭 成都我的辣个神</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48537730)<br>理智使她着迷<br>2019-04-19 19:20<br>赞(0) 踩(0) | <div>妈鸭 成都<br>我的辣个神</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3364486)<br>暂无签名~<br>2019-04-13 12:29<br>赞(1) 踩(0) | <div>有没有小伙伴一起去28的草莓～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352595482)<br>みえない<br>2019-04-10 16:21<br>赞(0) 踩(0) | <div>優格新浪潮wwwww</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1061664)<br>别偷我能量了，我要捐爱心...<br>2019-04-09 14:38<br>赞(0) 踩(0) | <div>4.28就你们啦</div> |
@@ -115,7 +115,7 @@ Kengo Kakudate (Gt.Vo)<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/86997598)<br>我还没想好要写什么...<br>2018-12-24 19:26<br>赞(0) 踩(0) | <div>[文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool][文字cool]</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42725114)<br>ThistheshitI...<br>2018-12-19 22:42<br>赞(0) 踩(0) | <div><img src="../../images/comments/78a0b1363835b6ec31040690b1c1d628.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7750515)<br>Cloud  Nine<br>2018-12-18 13:37<br>赞(0) 踩(0) | <div>，</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48440658)<br>转战Spotify—Ut...<br>2018-12-16 00:13<br>赞(16) 踩(0) | <div>最近他们和落日飞车共演2.13在东京，2.15在首尔，2.17在台北可以去的小伙伴一定要去支持呀</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/48440658)<br>转战Spotify—Ut...<br>2018-12-16 00:13<br>赞(16) 踩(0) | <div>最近他们和落日飞车共演<br>2.13在东京，2.15在首尔，2.17在台北<br>可以去的小伙伴一定要去支持呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55094882)<br>ｉｄ９１ｏｍｏ＞Ｉ <br>2018-11-27 15:23<br>赞(0) 踩(0) | <div>✨</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34182751)<br>再见了朋友们 我们网易云...<br>2018-11-14 09:37<br>赞(0) 踩(0) | <div>。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52056952)<br>人生即是到來、相遇、陪伴...<br>2018-10-18 18:09<br>赞(0) 踩(0) | <div>(　ﾟ∀ﾟ)つ≡≡≡♡♡♡</div> |
@@ -185,7 +185,7 @@ Kengo Kakudate (Gt.Vo)<br>
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326083378)<br>HAHAHAHA<br>2018-04-10 01:48<br>赞(0) 踩(0) | <div>来长沙演出吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15343261)<br>我的愛，只給純真熱烈的一...<br>2018-04-15 16:39<br>赞(0) 踩(0) | <div>有！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/100660422)<br>你好呀。(¦3[▓▓]虾...<br>2018-04-06 16:30<br>赞(0) 踩(0) | <div>来帝都得随缘了，希望可以去看呜呜呜</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14091078)<br>我还没想好要写什么...<br>2018-04-06 16:28<br>赞(37) 踩(0) | <div>YOGEE NEW WAVES2018.6.7 北京2018.6.8 上海2018.6.9 杭州2018.6.10 长沙 ​</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14091078)<br>我还没想好要写什么...<br>2018-04-06 16:28<br>赞(37) 踩(0) | <div>YOGEE NEW WAVES<br>2018.6.7 北京<br>2018.6.8 上海<br>2018.6.9 杭州<br>2018.6.10 长沙 ​</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/39461567)<br>E daí?<br>2018-05-09 10:12<br>赞(0) 踩(0) | <div>在哪儿可以买票呀</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14091078)<br>我还没想好要写什么...<br>2018-05-09 10:21<br>赞(0) 踩(0) | <div><q><b>Duda说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1216780)<br>Don't Panic!<br>2018-04-05 13:46<br>赞(1) 踩(0) | <div>竟然要來帝都了</div> |
@@ -241,7 +241,7 @@ Kengo Kakudate (Gt.Vo)<br>
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209070400)<br>滚<br>2017-06-12 19:07<br>赞(0) 踩(0) | <div>喜 欢 了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42457016)<br>小型歡愉<br>2017-06-09 09:38<br>赞(0) 踩(0) | <div><img src="../../images/comments/29cf103b88c33e19563095897485c32a.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4366939)<br>.<br>2017-05-25 03:19<br>赞(0) 踩(0) | <div>/</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2523233)<br>太热<br>2017-05-20 18:15<br>赞(77) 踩(0) | <div>Yogee New Waves的贝斯手 矢澤直紀 宣布脱退，主唱 角舘健悟 表示会全力支持他。矢澤直紀 表示，在Tour后退脱，理由并不是大人的原因或者音乐理念不同这种堂而皇之的理由，只不过是找到了其他想做的事。自己今后也会一直关注乐队，ynw是一支非常棒的乐队，至今为止谢谢大家。角馆表示无论作为队长还是好友，既然矢泽找到自己的新方向，他会全力支持尊重他的决定。cr 邦摇30s</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2523233)<br>太热<br>2017-05-20 18:15<br>赞(77) 踩(0) | <div>Yogee New Waves的贝斯手 矢澤直紀 宣布脱退，主唱 角舘健悟 表示会全力支持他。矢澤直紀 表示，在Tour后退脱，理由并不是大人的原因或者音乐理念不同这种堂而皇之的理由，只不过是找到了其他想做的事。自己今后也会一直关注乐队，ynw是一支非常棒的乐队，至今为止谢谢大家。角馆表示无论作为队长还是好友，既然矢泽找到自己的新方向，他会全力支持尊重他的决定。<br>cr 邦摇30s</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49519495)<br>p l a c e b ...<br>2017-05-17 18:06<br>赞(0) 踩(0) | <div>/</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/70292024)<br> <br>2017-05-15 23:02<br>赞(0) 踩(0) | <div>哦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25815015)<br>我还没想好要写什么...<br>2017-05-14 01:33<br>赞(0) 踩(0) | <div>什么时候能看到现场呢。</div> |

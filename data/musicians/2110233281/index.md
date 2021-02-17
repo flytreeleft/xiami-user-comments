@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/e0b59ba0c8c40aa01d8bd5caaba157e6.jpg)<br>淉沅](https://i.xiami.com/guoyuan100) | **播放数**: 3150298<br>**粉丝数**: 200<br>**评论数**: 9<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行 Pop, 电音流行 Electropop<br> |
+| [![](../../images/musicians/e0b59ba0c8c40aa01d8bd5caaba157e6.jpg)<br>淉沅](https://i.xiami.com/guoyuan100) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop, 流行 Pop, 电音流行 Electropop<br>**播放数**: 3150298<br>**粉丝数**: 200<br>**评论数**: 9<br> |
 
 ## 档案
 
@@ -74,8 +74,8 @@ MSN<br>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/434933659)<br>音乐我的最爱<br>2020-01-28 08:36<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429543025)<br><br>2019-09-14 22:18<br>赞(0) 踩(0) | <div>以前是看（火影忍者）时听到这首歌很好听，只是尤于不懂日文一真知道歌名，后来知道歌名后又因为版权问题无法下载听取，这回终于能听到了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/293692544)<br>你敢给我说话吗？我咬你<br>2019-02-20 17:56<br>赞(1) 踩(0) | <div>好听</div> |

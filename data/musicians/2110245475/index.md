@@ -3,13 +3,10 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/63e6cbb40627dd9762fd46301eecbbc1.jpg)<br>小林](https://i.xiami.com/tang100) | **播放数**: 1241238<br>**粉丝数**: 197<br>**评论数**: 20<br>**地区**: China 中国大陆<br>**风格**: 管弦乐 Orchestral, 室内乐 / 重奏 Chamber Music, 独奏 Recital, 现代古典 Modern Classical<br> |
+| [![](../../images/musicians/63e6cbb40627dd9762fd46301eecbbc1.jpg)<br>小林](https://i.xiami.com/tang100) | **地区**: China 中国大陆<br>**风格**: 管弦乐 Orchestral, 室内乐 / 重奏 Chamber Music, 独奏 Recital, 现代古典 Modern Classical<br>**播放数**: 1241238<br>**粉丝数**: 197<br>**评论数**: 20<br> |
 
 ## 档案
 
-<div>
-
-</div>
 
 ## 专辑
 
@@ -21,8 +18,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7627013)<br>考古，深度挖掘华语音乐<br>2020-06-22 13:54<br>赞(0) 踩(0) | <div>自娱自乐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50093825)<br>。<br>2020-04-15 00:58<br>赞(0) 踩(0) | <div>: )</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/92338104)<br> <br>2019-09-18 01:19<br>赞(0) 踩(0) | <div>这是什么神仙小可爱才能写出来的音乐呀</div> |

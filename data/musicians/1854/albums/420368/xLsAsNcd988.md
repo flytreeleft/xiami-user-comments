@@ -12,26 +12,23 @@
 
 ## 歌词
 
-<div>
-
-</div>
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/351937166)<br><br>2021-02-03 09:53<br>赞(0) 踩(0) | <div>南无阿弥陀佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352629116)<br>贝多芬，肖邦，莫扎特，海...<br>2021-02-01 21:13<br>赞(0) 踩(0) | <div>可以驱鬼吗？</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/407708700)<br><br>2020-03-20 10:21<br>赞(1) 踩(0) | <div>南无阿弥陀佛，保佑我度过此劫</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2019-08-14 17:56<br>赞(4) 踩(0) | <div>南无阿弥陀佛 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/326685415)<br>圆圆满满<br>2019-08-14 17:55<br>赞(4) 踩(0) | <div>南无阿弥陀佛！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/352016940)<br><br>2019-08-06 01:53<br>赞(2) 踩(0) | <div>好</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406662583)<br><br>2018-11-08 18:42<br>赞(4) 踩(0) | <div>^ ^释迦佛创教的宗旨：破迷开悟，离苦得乐。修学佛法要正信，千万不要陷入迷信与狂热。修学佛法同样要坚持科学精神，符合大自然及其规律。真正学佛是轻松愉快的，绝对不是成天战战兢兢 ​。「君子处事，计是非不计利害，计万世不计一生。顶天立地，光明磊落。何必吃斋念佛。」佛教的教义经不起推敲和质问;此生只求良心平安，没必要去拜这拜那。</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/406662583)<br><br>2018-11-08 18:42<br>赞(4) 踩(0) | <div>^ ^释迦佛创教的宗旨：破迷开悟，离苦得乐。修学佛法要正信，千万不要陷入迷信与狂热。修学佛法同样要坚持科学精神，符合大自然及其规律。真正学佛是轻松愉快的，绝对不是成天战战兢兢 ​。<br>「君子处事，计是非不计利害，计万世不计一生。顶天立地，光明磊落。何必吃斋念佛。」佛教的教义经不起推敲和质问;此生只求良心平安，没必要去拜这拜那。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/379743993)<br><br>2018-09-29 08:46<br>赞(3) 踩(0) | <div>南无阿弥陀佛！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/316259357)<br><br>2018-09-04 11:48<br>赞(4) 踩(0) | <div>保佑全家大小平平安安！感恩 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/402339051)<br><br>2018-08-23 09:01<br>赞(1) 踩(0) | <div>南无阿弥陀佛，保佑我手术顺顺利利，平平安安 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282047947)<br><br>2018-06-22 23:55<br>赞(3) 踩(0) | <div>南无阿弥陀佛</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361698836)<br>OM Ar HOOM…<br>2018-06-14 01:03<br>赞(3) 踩(0) | <div>喜欢喜欢喜欢 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png">欢喜欢喜欢喜 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png">赞叹赞叹赞叹 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/361698836)<br>OM Ar HOOM…<br>2018-06-14 01:03<br>赞(3) 踩(0) | <div>喜欢喜欢喜欢 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"><br>欢喜欢喜欢喜 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"><br>赞叹赞叹赞叹 <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"> <img src="../../../../images/comments/d5321ee7b14144c26139deb57f121947.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/360792143)<br><br>2018-06-09 10:00<br>赞(3) 踩(0) | <div>南无阿弥陀佛</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/330055904)<br><br>2018-06-06 07:51<br>赞(4) 踩(0) | <div>可以把心静下来</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/349803795)<br><br>2018-06-05 10:23<br>赞(6) 踩(0) | <div>保佑好人一生平安 <img src="../../../../images/comments/1a3f64edd37125df28573b0bf9addea7.png"></div> |

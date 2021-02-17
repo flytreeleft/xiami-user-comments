@@ -3,7 +3,7 @@ Joyside
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/07d08c0d33a00bb70656a499393889cb.jpg)<br>Joyside](https://i.xiami.com/joyside) | **播放数**: 3686741<br>**粉丝数**: 15911<br>**评论数**: 573<br>**地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 独立摇滚 Indie Rock, 朋克 Punk Rock, 车库摇滚复兴 Garage Rock Revival<br> |
+| [![](../../images/musicians/07d08c0d33a00bb70656a499393889cb.jpg)<br>Joyside](https://i.xiami.com/joyside) | **地区**: China 中国大陆<br>**风格**: 摇滚 Rock & Roll, 独立摇滚 Indie Rock, 朋克 Punk Rock, 车库摇滚复兴 Garage Rock Revival<br>**播放数**: 3686741<br>**粉丝数**: 15911<br>**评论数**: 573<br> |
 
 ## 档案
 
@@ -31,8 +31,8 @@ Joyside
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/427384237)<br>我还没想好要写什么...<br>2020-12-13 22:27<br>赞(0) 踩(0) | <div>➕</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6030867)<br>你的问题主要在于读书不多...<br>2020-11-16 00:06<br>赞(0) 踩(0) | <div>来深圳吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/110088060)<br>作为报答、我吔给泥放点、...<br>2020-11-13 23:39<br>赞(0) 踩(0) | <div>.</div> |
@@ -82,8 +82,8 @@ Joyside
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/23486397)<br><br>2019-04-19 16:11<br>赞(2) 踩(0) | <div>啥时候出新砖啊啊啊啊啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7305096)<br>没事听着玩儿~~<br>2019-04-10 09:21<br>赞(0) 踩(0) | <div>这种城乡结合部的英文唱腔，听一首GALA也就够了，听多了脑仁疼</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1154943)<br>嬲<br>2019-04-23 10:43<br>赞(0) 踩(0) | <div>你去城乡结合部找个说英文的来看看是什么口音</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11425312)<br> <br>2019-04-24 01:44<br>赞(0) 踩(0) | <div>Shut ur tiny dirty dickie mouth up ur dickie is little as my little pinkie来 完美语音秀一下我听听</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447058)<br>已迁移至网易云，祝好——...<br>2019-04-26 13:25<br>赞(0) 踩(0) | <div>我说句正宗的龙鸣英语给你听哈NM$L</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11425312)<br> <br>2019-04-24 01:44<br>赞(0) 踩(0) | <div>Shut ur tiny dirty dickie mouth up ur dickie is little as my little pinkie<br>来 完美语音秀一下我听听</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447058)<br>已迁移至网易云，祝好——...<br>2019-04-26 13:25<br>赞(0) 踩(0) | <div>我说句正宗的龙鸣英语给你听哈<br><br>NM$L</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/138920646)<br><br>2019-05-09 02:11<br>赞(0) 踩(0) | <div>一看是听电子音乐我就放心了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13494957)<br>我还没想好要写什么...<br>2019-06-15 22:47<br>赞(0) 踩(0) | <div>朋友 别抖机灵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/260758019)<br>Don't stop i...<br>2019-04-06 11:22<br>赞(0) 踩(0) | <div>punk rock 不玩 玩 不玩 玩 不玩 玩 不玩 玩  不玩  玩！</div> |
@@ -126,7 +126,7 @@ Joyside
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/230803304)<br>三观正又爱国的成都宝藏男...<br>2019-04-03 12:44<br>赞(0) 踩(0) | <div>支持joyside组合</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32961761)<br>一切终将化为乌有<br>2019-04-03 12:18<br>赞(0) 踩(0) | <div>十年前在豆瓣第一次听joyside，以为是个土鳖乐队，没想到是个牛逼乐队，时光匆匆，他们又回来了，依然年轻，依然牛逼 <img src="../../images/comments/8e2969c18b342a5ca5ba2ecc87022e84.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5007575)<br>呕<br>2019-04-03 11:57<br>赞(0) 踩(0) | <div>十年过去了   关铮竟然还是顶着一张好像整过容一样的完美的脸 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">   这也太……</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2433347)<br><br>2019-04-03 11:51<br>赞(2) 踩(0) | <div>Welcome back大连第一次听他们现场演出影响了我大多数时候的和你一样，心目中地位最高的乐队捡过关铮的鼓棒边远手写歌单亲过虹位的女孩现在为人母希望所有热爱生活的人Always by joy side</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2433347)<br><br>2019-04-03 11:51<br>赞(2) 踩(0) | <div>Welcome back<br>大连第一次听他们现场演出<br>影响了我大多数时候的和你一样，心目中地位最高的乐队<br>捡过关铮的鼓棒<br>边远手写歌单<br>亲过虹位<br>的女孩<br>现在为人母<br>希望所有热爱生活的人<br>Always by joy side</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/91092606)<br>希望我能有一颗马儿的头，...<br>2019-04-03 11:34<br>赞(2) 踩(0) | <div>卧槽！我还能说啥=_=牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5951220)<br>音乐，请你请你给我灵魂<br>2019-04-03 10:26<br>赞(0) 踩(0) | <div>第一支喜欢上的国内乐队，让我对国内乐队有信心的一只乐队，终于回归啦！ <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/422763778)<br><br>2019-04-03 10:13<br>赞(1) 踩(0) | <div>激动的心情无以言表  期待新专和巡演</div> |
@@ -135,7 +135,7 @@ Joyside
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1279459)<br>这家伙很聪明什么也没留下...<br>2019-04-03 09:26<br>赞(2) 踩(0) | <div>太棒了 废话不说 就是干 就是喝</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4484136)<br>向内<br>2019-04-03 09:13<br>赞(1) 踩(0) | <div>真好～</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3714518)<br>死人<br>2019-04-03 08:25<br>赞(0) 踩(0) | <div>(ง •̀_•́)ง</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209426870)<br>我一度觉得我脑子是听歌听...<br>2019-04-03 07:56<br>赞(1) 踩(0) | <div>Life was a bad joke,But it is funny now.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209426870)<br>我一度觉得我脑子是听歌听...<br>2019-04-03 07:56<br>赞(1) 踩(0) | <div>Life was a bad joke,<br>But it is funny now.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/296042286)<br><br>2019-04-03 02:44<br>赞(0) 踩(0) | <div>变成了酒鬼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/166822840)<br>造飞机的你<br>2019-04-03 02:35<br>赞(0) 踩(0) | <div>刚刚爱上 很是期待</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/33611553)<br>哇哈<br>2019-04-03 01:44<br>赞(74) 踩(0) | <div>等了3488天！！！还在北京，还是每个周末在School看你们从笑闹到喝花，从失恋到结了婚，我爱的joyside回来了！！！！</div> |
@@ -170,8 +170,8 @@ Joyside
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/355199493)<br>我还没想好要写什么...<br>2019-04-01 13:32<br>赞(1) 踩(0) | <div>重组啦！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37797684)<br>我还没想好要写什么...<br>2019-04-01 13:08<br>赞(3) 踩(0) | <div>听说要重组，牛鬼蛇神靠边站吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12230374)<br>Pinkfloydzh，...<br>2019-04-01 12:55<br>赞(8) 踩(0) | <div>不夸张，看到朋友圈有人发一下子泪都下来了，赶快去各种地方求证…</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5197513)<br><br>2019-04-01 12:23<br>赞(2) 踩(0) | <div><img src="../../images/comments/5949d86697630cb697dcad52acec491e.png">fu*k me or fu*k offjust don’t fool me</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5197513)<br><br>2019-04-01 12:13<br>赞(2) 踩(0) | <div>fuck me or fuck offjust don’t fool me<img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5197513)<br><br>2019-04-01 12:23<br>赞(2) 踩(0) | <div><img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"><br>fu*k me or fu*k off<br>just don’t fool me</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5197513)<br><br>2019-04-01 12:13<br>赞(2) 踩(0) | <div>fuck me or fuck off<br>just don’t fool me<br><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"> <img src="../../images/comments/5949d86697630cb697dcad52acec491e.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36938932)<br>倒霉的小伙子比洞還潮濕的...<br>2019-04-01 11:48<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/209426870)<br>我一度觉得我脑子是听歌听...<br>2019-04-01 11:34<br>赞(0) 踩(0) | <div>Joyside！！！！！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44140680)<br>旅途愉快<br>2019-04-01 11:19<br>赞(2) 踩(0) | <div>真的不是愚人节玩笑，他们回来了 <img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
@@ -296,12 +296,12 @@ Joyside
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4837020)<br><br>2015-08-18 13:04<br>赞(1) 踩(0) | <div>我这种人应该单身一辈子，结什么婚？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31757121)<br>what a crazy...<br>2015-08-15 01:35<br>赞(2) 踩(0) | <div>现场是不是每个人自带一箱青岛 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/752597)<br><br>2015-08-14 15:20<br>赞(0) 踩(0) | <div>这样的乐队如果有好的推广 去欧美转一圈应该能火</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11250435)<br>我还没想好要写什么...<br>2015-08-08 22:46<br>赞(1) 踩(0) | <div>啊~~~我就是再来看一眼~~~还好有个音乐人界面能寄托一下感情。嗷嗷嗷~~~~</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11250435)<br>我还没想好要写什么...<br>2015-08-08 22:46<br>赞(1) 踩(0) | <div>啊~~~我就是再来看一眼~~~<br>还好有个音乐人界面能寄托一下感情。嗷嗷嗷~~~~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/155947)<br>一期一会<br>2015-08-04 17:53<br>赞(0) 踩(0) | <div>年轻真好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13495606)<br>口味专一<br>2015-08-01 12:39<br>赞(0) 踩(0) | <div>荡漾！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47463790)<br>紙片劃傷皮膚<br>2015-07-24 23:00<br>赞(1) 踩(0) | <div>不愧是我爱的曲风 听上去像呼过一样  I love it!!!!!!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/51493723)<br>21世纪，李二蛋的一天及...<br>2015-07-11 23:19<br>赞(0) 踩(0) | <div>江苏徐州根音朋克贝斯组乐队</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26361906)<br>绝口不提，向平白倒去。<br>2015-07-04 15:29<br>赞(30) 踩(0) | <div>现在中国摇滚圈玩音乐的，听音乐的，都有个误区就是这玩意得酒后才能玩的好听的嗨。要我说，都是群sb。别 他 妈给音乐抹黑了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26361906)<br>绝口不提，向平白倒去。<br>2015-07-04 15:29<br>赞(30) 踩(0) | <div>现在中国摇滚圈玩音乐的，听音乐的，都有个误区就是这玩意得酒后才能玩的好听的嗨。要我说，都是群s<br>b。别 他 妈给音乐抹黑了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25586251)<br><br>2015-09-08 01:27<br>赞(0) 踩(0) | <div>土high都这样的 其实喝过酒了 他们耳朵都是拉稀的 屁都听不出来</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26361906)<br>绝口不提，向平白倒去。<br>2015-09-08 07:13<br>赞(0) 踩(0) | <div><q><b>Poisonoise说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/26361906)<br>绝口不提，向平白倒去。<br>2015-09-08 07:13<br>赞(0) 踩(0) | <div><q><b>Poisonoise说：</b></q></div> |
@@ -328,7 +328,7 @@ Joyside
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3916516)<br>成为自己<br>2015-05-04 12:29<br>赞(1) 踩(0) | <div>原来丑人也可以很有范儿。说的就是边远！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2429663)<br>混世魔王 紧张之星<br>2015-04-25 23:07<br>赞(2) 踩(0) | <div>昨天在长沙，看浪的演出，最后返场的时候，不知道谁喊了声joyside。然后几个人喊了起来，我也是。嗯。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8787746)<br>4<br>2015-05-22 09:51<br>赞(0) 踩(0) | <div>浪不管在哪里演出都有人喊joyside啊</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8787746)<br>4<br>2015-04-23 21:34<br>赞(1) 踩(0) | <div>You can&amp;#039;t come backand think you are still mine</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8787746)<br>4<br>2015-04-23 21:34<br>赞(1) 踩(0) | <div>You can&amp;#039;t come back<br>and think you are still mine</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49338107)<br><br>2015-04-18 17:14<br>赞(0) 踩(0) | <div>骆子博推荐</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1542252)<br>剥纱涅夫<br>2015-04-13 11:53<br>赞(0) 踩(0) | <div>哎</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11250435)<br>我还没想好要写什么...<br>2015-04-02 09:33<br>赞(52) 踩(0) | <div>Joyside之于我的意义就是才不管他妈的什么英文发音，什么在国摇里的地位，我只想听歌，喝酒，做什么都要尽兴，不计后果，不问好坏，不用世间一切标准来衡量，喜欢就是纯粹的喜欢。可能我会度过在别人眼里是傻逼的两年，但在我眼里，没有比这些更开心的了。</div> |
@@ -353,7 +353,7 @@ Joyside
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/31501151)<br> <br>2014-11-27 21:16<br>赞(2) 踩(0) | <div>管他啥么意义 生活 向着生活去吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30821886)<br> <br>2014-11-24 04:13<br>赞(0) 踩(0) | <div>试试自制的朋克精选集：<a href="http://www.xiami.com/collect/37628657?spm=a1z1s.6929273.1561534893.2.z3sCQO" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/collect/37628657?spm=a1z1s.6929273.1561534893.2.z3sCQO</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34162354)<br>我还没想好要写什么...<br>2014-10-29 20:05<br>赞(0) 踩(0) | <div>永远的joyside</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4319375)<br>我还没想好要写什么...<br>2014-10-10 17:40<br>赞(1) 踩(0) | <div>蘑菇音乐节【四城之行】--上海站--【ON STAGE】【演出阵容】：===================【边远】｛北京｝【Tree.树】｛杭州｝【V-Day】 ｛南京｝【小巫师】｛浙江｝【刘于思】｛深圳｝【The Psyders】｛上海｝详见：<a href="http://www.douban.com/event/22545048/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/22545048/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4319375)<br>我还没想好要写什么...<br>2014-10-10 17:40<br>赞(1) 踩(0) | <div>蘑菇音乐节【四城之行】--上海站--【ON STAGE】<br>【演出阵容】：<br>===================<br>【边远】｛北京｝<br>【Tree.树】｛杭州｝<br>【V-Day】 ｛南京｝<br>【小巫师】｛浙江｝<br>【刘于思】｛深圳｝<br>【The Psyders】｛上海｝<br>详见：<a href="http://www.douban.com/event/22545048/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/22545048/</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10572463)<br>暂无签名~<br>2014-09-07 19:26<br>赞(1) 踩(0) | <div>除了边远的发音有点土，他们的音乐真不土。跟时代没有关系，js已经变成很多人曾经为之疯狂的一种美好回忆了，让很多人评论js或许都已经不客观了，但这有什么关系呢，只要享受就可以了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4712254)<br>我还没想好要写什么...<br>2014-08-25 20:40<br>赞(0) 踩(0) | <div>Your City is a Desert to Me和酒精一起，让我每一个毛孔都滋生出对你的欲望！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32039573)<br>我还没想好要写什么...<br>2014-08-16 11:44<br>赞(1) 踩(0) | <div>最喜欢的乐队没有之一</div> |
@@ -387,7 +387,7 @@ Joyside
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3916516)<br>成为自己<br>2015-01-06 16:41<br>赞(0) 踩(0) | <div><q><b>blackstar说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8743512)<br><br>2014-02-27 18:36<br>赞(0) 踩(0) | <div>模仿浪子= =</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7002559)<br>长居于另类现实<br>2014-06-09 20:56<br>赞(0) 踩(0) | <div>我也觉得是</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6762718)<br><br>2014-02-20 00:48<br>赞(12) 踩(0) | <div>都说是中国最牛B的朋克，我TMD怎么就没听见一句中国话呢？是中国话都无法让他感情迸发了吗？PS:那些点弱的，是不是认为中国人不说中国话是很屌的行为？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6762718)<br><br>2014-02-20 00:48<br>赞(12) 踩(0) | <div>都说是中国最牛B的朋克，我TMD怎么就没听见一句中国话呢？是中国话都无法让他感情迸发了吗？<br>PS:那些点弱的，是不是认为中国人不说中国话是很屌的行为？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/18738542)<br><br>2014-06-04 11:01<br>赞(0) 踩(0) | <div>为了表示对你的支持，我点cool</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1297122)<br>世界是个大监狱你们慢慢玩<br>2014-06-08 17:00<br>赞(0) 踩(0) | <div>hhh</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12690979)<br><br>2015-03-29 19:30<br>赞(0) 踩(0) | <div>竟然无法反驳</div> |
@@ -427,13 +427,13 @@ Joyside
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1126943)<br><br>2013-02-20 22:59<br>赞(0) 踩(0) | <div>\&amp;quot;can u feel my love\&amp;quot;??55.。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11886891)<br>不着调<br>2013-02-01 23:06<br>赞(0) 踩(0) | <div>试听</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2539734)<br><br>2013-01-19 22:11<br>赞(0) 踩(0) | <div>喝吧</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12456288)<br><br>2013-01-16 22:53<br>赞(2) 踩(0) | <div>Out of Time 、没回都能让我哭着想JOYSIDE！！真的。。。回不来了！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12456288)<br><br>2013-01-16 22:53<br>赞(2) 踩(0) | <div>Out of Time 、<br>没回都能让我哭着想JOYSIDE！！<br>真的。。。回不来了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12456939)<br>空想者<br>2013-01-16 06:05<br>赞(0) 踩(0) | <div>喝高了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10358746)<br>一拳打在棉花上<br>2013-01-13 16:52<br>赞(1) 踩(0) | <div>“每次听Joyside就想当个酒鬼 边喝边蛋逼 搂着左边的帅小伙亲一口 然后哭出声来  ”</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10955411)<br>无<br>2014-05-20 19:17<br>赞(0) 踩(0) | <div>你是阿mo？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12682048)<br>摇滚<br>2014-07-17 00:13<br>赞(0) 踩(0) | <div><q><b>oti说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7586307)<br><br>2012-12-28 23:18<br>赞(0) 踩(0) | <div>北京浪花里的那首sunday morning不错</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4731666)<br>我单身，请认识我一下吧<br>2012-12-20 15:58<br>赞(0) 踩(0) | <div>太好听了···第一次听到他们的时候是在北京浪花里那个纪录片里面听到</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4731666)<br>我单身，请认识我一下吧<br>2012-12-20 15:58<br>赞(0) 踩(0) | <div>太好听了···第一次听到他们的时候<br>是在北京浪花里那个纪录片里面听到</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4731666)<br>我单身，请认识我一下吧<br>2012-12-20 15:46<br>赞(1) 踩(0) | <div>总结一句 就是TMD的生错了地方！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11987457)<br><br>2012-12-18 16:30<br>赞(0) 踩(0) | <div>关铮！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6137862)<br>咋了！<br>2012-12-10 02:16<br>赞(0) 踩(0) | <div>点击率第一的歌曲竟是个翻唱歌曲 ramones还是牛逼啊</div> |
@@ -463,7 +463,7 @@ Joyside
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7002908)<br>我还没想好要写什么...<br>2018-04-23 08:42<br>赞(0) 踩(0) | <div><q><b>外国网友说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46860554)<br>我还没想好要写什么...<br>2018-10-24 19:02<br>赞(0) 踩(0) | <div>哈哈哈哈 两年聊了三句天</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52076724)<br>U know that ...<br>2019-02-23 21:05<br>赞(0) 踩(0) | <div><q><b>外国网友说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290554260)<br><br>2019-04-03 15:49<br>赞(0) 踩(0) | <div>按麻烦亚我我 2我  5了了</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/290554260)<br><br>2019-04-03 15:49<br>赞(0) 踩(0) | <div>按麻烦<br>亚我我 2我  5了了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/535286)<br>to be a rock<br>2020-02-08 18:20<br>赞(0) 踩(0) | <div>转眼七年过去了 <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7002908)<br>我还没想好要写什么...<br>2021-01-05 15:30<br>赞(0) 踩(0) | <div><q><b>外国网友说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1326987)<br><br>2012-11-13 00:39<br>赞(0) 踩(0) | <div>古</div> |
@@ -498,7 +498,7 @@ Joyside
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1086981)<br>善恶<br>2012-05-11 23:56<br>赞(184) 踩(0) | <div>我真的不想骗人,我真的不想腐烂,我真的不需要钱,我真的无力愤怒,我真的不想伤感,我真的想joyside...</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5778152)<br>一首歌的背后都会有千万个...<br>2015-08-22 15:37<br>赞(0) 踩(0) | <div>多听听浪乐队也不错，边远变的更好了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/44373349)<br><br>2015-09-30 13:59<br>赞(0) 踩(0) | <div>不想腐烂 真的</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366906450)<br><br>2019-04-03 01:06<br>赞(0) 踩(0) | <div>刚刚，zZQTZQQSQ9GGZQ@GZOzlqzgg</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/366906450)<br><br>2019-04-03 01:06<br>赞(0) 踩(0) | <div>刚刚，zZQTZQQS<br>Q9GGZQ@GZOzlqzgg</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/42582445)<br><br>2019-05-23 20:10<br>赞(0) 踩(0) | <div>他们回来了 哥们</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3205699)<br>不知道不知道不知道<br>2012-05-09 23:05<br>赞(0) 踩(0) | <div>今天才知道  有时候在想  我们现在拥有什么吗  好像好的东西都死了一样  呵呵  比如joyside</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9020692)<br>        .<br>2012-04-28 23:22<br>赞(0) 踩(0) | <div>1直都喜欢</div> |
@@ -580,23 +580,23 @@ Joyside
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1954504)<br><br>2011-02-25 09:20<br>赞(0) 踩(0) | <div>英文發音真的不地道嗚嗚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/659034)<br><br>2011-02-25 09:18<br>赞(0) 踩(0) | <div>NB的乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1905628)<br><br>2011-02-22 21:16<br>赞(0) 踩(0) | <div>如果你说我是那股邪恶的力量</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2938504)<br><br>2011-02-22 19:44<br>赞(0) 踩(0) | <div>每一次身体微弱的颤动，都成为青春的把柄。烂酒鬼之影。。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2938504)<br><br>2011-02-22 19:44<br>赞(0) 踩(0) | <div>每一次身体微弱的颤动，都成为青春的把柄。<br>烂酒鬼之影。。。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7542090)<br>我还没想好要写什么...<br>2015-05-04 09:17<br>赞(0) 踩(0) | <div>这是我第一个虾米账号</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2592821)<br>这家伙很懒<br>2011-02-15 21:03<br>赞(0) 踩(0) | <div>就喜欢这样的发音  哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/414142)<br><br>2011-02-14 23:10<br>赞(0) 踩(0) | <div>英文发音不地道呀 听着有些别扭 高产基础上 能这么一直坚持着 难能可贵呀 支持一下</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1900720)<br><br>2011-02-08 19:30<br>赞(0) 踩(0) | <div>Joyside</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2762784)<br>世界末日的狂欢<br>2011-02-08 11:14<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1476314)<br><br>2011-02-07 20:21<br>赞(0) 踩(0) | <div>永远的joyside！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1071720)<br><br>2011-02-02 16:34<br>赞(0) 踩(0) | <div>还不错不过中国摇滚的悲哀也与此</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2164564)<br><br>2011-01-29 17:01<br>赞(0) 踩(0) | <div>很棒。就是发音有点故意。。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1071720)<br><br>2011-02-02 16:34<br>赞(0) 踩(0) | <div>还不错<br>不过中国摇滚的悲哀也与此</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2164564)<br><br>2011-01-29 17:01<br>赞(0) 踩(0) | <div>很棒。<br>就是发音有点故意。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2602007)<br><br>2011-01-27 09:48<br>赞(0) 踩(0) | <div>bitches</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1378940)<br><br>2010-12-26 12:49<br>赞(0) 踩(0) | <div>乔伊赛</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/308023)<br>荒野大嫖客<br>2010-12-11 19:48<br>赞(0) 踩(0) | <div>摇滚乐的**，你好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200119)<br><br>2010-11-30 02:50<br>赞(0) 踩(0) | <div>慕名而来，听了听，还是挺不错的，风格很洋气。。。有点复古的味道。呵呵，不过我还是更喜欢像张楚这样的带着很深中国气质的摇滚音乐。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/200119)<br><br>2010-11-30 02:50<br>赞(0) 踩(0) | <div>慕名而来，听了听，还是挺不错的，风格很洋气。。。有点复古的味道。<br>呵呵，不过我还是更喜欢像张楚这样的带着很深中国气质的摇滚音乐。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5755)<br><br>2010-11-25 12:04<br>赞(0) 踩(0) | <div>中国 好音乐跟你们一起死了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1524998)<br>“purity”<br>2010-10-17 21:16<br>赞(0) 踩(0) | <div>宇宙。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1260431)<br><br>2010-10-14 23:27<br>赞(0) 踩(0) | <div>跟“脑浊”有一拼。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1047701)<br>再见虾米<br>2010-09-08 15:03<br>赞(0) 踩(0) | <div>to the other side..joy no sad!</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1047701)<br>再见虾米<br>2010-09-08 15:03<br>赞(0) 踩(0) | <div>to the other side..<br>joy no sad!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/369154)<br><br>2010-08-30 23:24<br>赞(0) 踩(0) | <div>我爱你。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73825)<br><br>2010-08-19 19:55<br>赞(1) 踩(0) | <div>很难想象joyside是中国乐队。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/971309)<br><br>2010-07-03 09:22<br>赞(0) 踩(0) | <div>实在很想不到时国内的</div> |

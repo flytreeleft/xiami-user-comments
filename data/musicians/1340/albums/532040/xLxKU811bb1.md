@@ -47,17 +47,17 @@ Repeat chorus
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3594953)<br>暂无签名~<br>2017-12-05 20:19<br>赞(1) 踩(0) | <div>同志之歌，见不得光的爱情</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/46412828)<br>赮毕菠萝<br>2017-11-25 22:11<br>赞(0) 踩(0) | <div>捡到宝了</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/302830785)<br><br>2017-11-24 14:05<br>赞(0) 踩(0) | <div>******</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/203187688)<br>路很长，遇到你的值得！<br>2017-11-22 21:02<br>赞(0) 踩(0) | <div>忘了远方，遇见你，忘了过往，才有了伤！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2248501)<br><br>2017-11-18 11:38<br>赞(0) 踩(0) | <div>听过难忘。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2017-11-03 15:53<br>赞(0) 踩(0) | <div>爱一个人是一万次心跳呼吸也是一万次低头叹息</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/74670460)<br>风华是一指流沙   苍老...<br>2017-11-03 15:53<br>赞(0) 踩(0) | <div>爱一个人<br>是一万次心跳呼吸<br>也是一万次低头叹息</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/307690421)<br>你说你很好…<br>2017-10-29 23:34<br>赞(2) 踩(0) | <div>一个人太久，快要忘记爱的味道。我们都需要亲密关系，然而也要学会孤独，毕竟爱不是拥有与附属，虽然我用了很久也没学会。不知道什么时候还会谈一场恋爱，但生活还是要有些期待</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282860504)<br><br>2017-10-28 23:29<br>赞(0) 踩(0) | <div>还是跟着老婆进来了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10367469)<br><br>2017-10-27 23:04<br>赞(0) 踩(0) | <div>城市好像 一座围墙 忘了远方 有过晴朗 何处会有扇窗 提醒我天还亮泪有重量 不能飞扬 我的眼眶 要多顽强 拥抱是珍惜不是将 对方捆绑 却都不愿去想莫非这段爱情已经不透光 靠得太近黑夜好漫长 摊开手掌 就当过往 梦一场</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10367469)<br><br>2017-10-27 23:04<br>赞(0) 踩(0) | <div>城市好像 一座围墙 忘了远方 有过晴朗 何处会有扇窗 提醒我天还亮<br>泪有重量 不能飞扬 我的眼眶 要多顽强 拥抱是珍惜不是将 对方捆绑 却都不愿去想<br>莫非这段爱情已经不透光 靠得太近黑夜好漫长 摊开手掌 就当过往 梦一场</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/281501494)<br>这家伙很聪明什么也没留下...<br>2017-10-27 20:59<br>赞(0) 踩(0) | <div>哦</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/81149956)<br>活着是世上最稀有的事情。...<br>2017-10-04 07:44<br>赞(0) 踩(0) | <div>太好听，适合此刻的我</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85928852)<br>穷极一生 追求快乐<br>2017-10-02 00:24<br>赞(0) 踩(0) | <div>听了很多年的一首</div> |
@@ -121,25 +121,25 @@ Repeat chorus
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12316535)<br><br>2015-04-25 21:41<br>赞(0) 踩(0) | <div>马克一下</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43652484)<br><br>2015-04-20 15:05<br>赞(0) 踩(0) | <div>下午时光，来首歌继续工作Y(^_^)Y</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10721683)<br>音乐改变生活！<br>2015-04-06 11:14<br>赞(0) 踩(0) | <div>不透光 - 蔡淳佳</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9080508)<br>可知道 你的光 耀了我<br>2014-12-08 22:31<br>赞(0) 踩(0) | <div>·你敲开了我你回赠着我你挫伤过我心上患上疮一直会痛痒</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9080508)<br>可知道 你的光 耀了我<br>2014-12-08 22:31<br>赞(0) 踩(0) | <div>·<br>你敲开了我<br>你回赠着我<br>你挫伤过我<br>心上患上疮<br>一直会痛痒</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4360641)<br>虾米别走<br>2014-06-09 20:58<br>赞(0) 踩(0) | <div>好听</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34853296)<br><br>2014-05-18 21:35<br>赞(0) 踩(0) | <div>第一次听 还不错</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9005275)<br><br>2014-03-15 11:02<br>赞(0) 踩(0) | <div>摊开手掌 就当过往 梦一场</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5830980)<br><br>2013-09-17 23:27<br>赞(1) 踩(0) | <div>“你的脸庞 勇敢善良 用笑伪装 你想逃亡 拥抱是依靠不是让 对方困绑 却都不愿去想” 一直循环播放的 推荐给其他妹纸 @Huisi少女日记 蔡淳佳 的歌曲《不透光》</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7062666)<br><br>2013-09-15 22:43<br>赞(0) 踩(0) | <div>沉寂了这么多年 声音一样好听~</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13564874)<br><br>2013-09-15 11:06<br>赞(0) 踩(0) | <div>我倒是来图书馆光听歌来了</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9532941)<br><br>2013-07-29 19:01<br>赞(0) 踩(0) | <div>莫非这段爱情已经不透光靠得太近遮去太阳连呼吸都缺氧枯萎在你肩膀看不清你在身旁谁都不愿去想莫非这段爱情已经不透光靠得太近黑夜好漫长摊开手掌 就当过往 梦一场</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9532941)<br><br>2013-07-29 19:01<br>赞(0) 踩(0) | <div>莫非这段爱情已经不透光<br>靠得太近遮去太阳<br>连呼吸都缺氧<br>枯萎在你肩膀<br>看不清你在身旁<br>谁都不愿去想<br><br>莫非这段爱情已经不透光<br>靠得太近黑夜好漫长<br>摊开手掌 就当过往 梦一场</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8272492)<br><br>2013-07-24 12:00<br>赞(0) 踩(0) | <div>&amp;lt;推介》 新加波女歌手蔡淳佳 《不透光》 一听到歌我就代入了角色了 难道姓蔡的女歌手都是这么厉害的？</div> |
 | ⇒ | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/49291623)<br><br>2016-02-12 11:16<br>赞(0) 踩(0) | <div>姓蔡的歌手确实厉害 <img src="../../../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5590691)<br>与其低头注视深渊，不如抬...<br>2013-07-22 12:15<br>赞(1) 踩(0) | <div>何处会有扇窗，提醒我天亮</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5590691)<br>与其低头注视深渊，不如抬...<br>2013-07-22 12:15<br>赞(1) 踩(0) | <div>何处会有扇窗，<br>提醒我天亮</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2020377)<br><br>2013-07-17 22:01<br>赞(0) 踩(0) | <div>不透光，就是这种感觉吧！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15981907)<br><br>2013-07-13 01:00<br>赞(0) 踩(0) | <div>现实与梦幻之间在比赛，看谁的手先伸出，如果是梦幻取胜，必定是现实帮忙伸出了手！如果是现实取胜。必定是现实退缩缩了手！</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15981907)<br><br>2013-07-13 01:00<br>赞(0) 踩(0) | <div>现实与梦幻之间在比赛，看谁的手先伸出，如果是梦幻取胜，必定是现实帮忙伸出了手！<br>如果是现实取胜。必定是现实退缩缩了手！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/532621)<br>N/A<br>2013-06-24 23:33<br>赞(0) 踩(0) | <div>今晚的睡前曲  声音是蛮舒服的 就是歌词太悲苦了点  不过这首绝对是我的菜</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5390389)<br><br>2013-06-19 22:45<br>赞(0) 踩(0) | <div>今天的新加坡有点《不透光》。空气污染指数290。北京，你输了！</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12475279)<br><br>2013-06-17 11:44<br>赞(0) 踩(0) | <div>@suyue-</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3641634)<br><br>2013-06-14 21:31<br>赞(0) 踩(0) | <div>声音一直很干净</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6823441)<br>暂无签名~<br>2013-06-14 07:15<br>赞(0) 踩(0) | <div>靠得太近遮去太阳不透光。。。</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1017996)<br><br>2013-06-07 12:03<br>赞(0) 踩(0) | <div>思维的极端 ，情绪的围墙使黑暗暂时遮挡住了下一步的光明『不透光』，引导你走出心中的盲区让你的拥抱不在成为对方的捆绑</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1017996)<br><br>2013-06-07 12:03<br>赞(0) 踩(0) | <div>思维的极端 ，情绪的围墙<br>使黑暗暂时遮挡住了下一步的光明<br>『不透光』，引导你走出心中的盲区<br>让你的拥抱不在成为对方的捆绑</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5390389)<br><br>2013-06-07 03:27<br>赞(0) 踩(0) | <div>我的今日之歌。。。Good Night。。。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14040908)<br><br>2013-05-06 01:36<br>赞(0) 踩(0) | <div>太舒服的声音。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13944286)<br> <br>2013-04-29 12:51<br>赞(0) 踩(0) | <div>蔡淳佳终于出新歌了</div> |
@@ -171,7 +171,7 @@ Repeat chorus
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4263666)<br><br>2012-08-08 21:13<br>赞(0) 踩(0) | <div>听一首安静的歌</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8927908)<br> <br>2012-08-08 17:13<br>赞(0) 踩(0) | <div>蔡淳佳成熟了，从《依恋》到《不透光》音色更有质感了，有些女人了。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3180903)<br><br>2012-08-08 16:29<br>赞(0) 踩(0) | <div>靠的太近 黑夜好漫长 ...依然 蔡淳佳 ！</div> |
-| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2691052)<br>且看那青山綠水別來無恙。<br>2012-08-07 12:16<br>赞(0) 踩(0) | <div>莫非这段爱情已经不透光靠得太近黑夜好漫长摊开手掌 就当过往 梦一场泪有重量 不能飞扬我的眼眶 要多顽强拥抱是珍惜不是将 对方困绑却都不愿去想</div> |
+| ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2691052)<br>且看那青山綠水別來無恙。<br>2012-08-07 12:16<br>赞(0) 踩(0) | <div>莫非这段爱情已经不透光<br>靠得太近黑夜好漫长<br>摊开手掌 就当过往 梦一场<br><br>泪有重量 不能飞扬<br>我的眼眶 要多顽强<br>拥抱是珍惜不是将 对方困绑<br>却都不愿去想</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4811661)<br><br>2012-08-07 11:55<br>赞(0) 踩(0) | <div>声音好美，很好听！ 「笑容，眼泪 都是礼物」</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10121634)<br><br>2012-08-07 11:24<br>赞(0) 踩(0) | <div>声音不错。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3830987)<br><br>2012-08-07 10:01<br>赞(0) 踩(0) | <div>对歌名有莫名的好感~~</div> |

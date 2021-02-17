@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/86f4f88e8da14a80e156b7b9575d4b9f.jpg)<br>符禹迅](https://i.xiami.com/fyx) | **播放数**: 1374686<br>**粉丝数**: 104<br>**评论数**: 12<br>**地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br> |
+| [![](../../images/musicians/86f4f88e8da14a80e156b7b9575d4b9f.jpg)<br>符禹迅](https://i.xiami.com/fyx) | **地区**: China 中国大陆<br>**风格**: 国语流行 Mandarin Pop<br>**播放数**: 1374686<br>**粉丝数**: 104<br>**评论数**: 12<br> |
 
 ## 档案
 
@@ -55,8 +55,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/22225463)<br> <br>2020-08-11 08:45<br>赞(0) 踩(0) | <div>为啥82的这么年轻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5555029)<br>我还没想好要写什么...<br>2020-07-07 11:43<br>赞(0) 踩(0) | <div>偷偷留个言，证明我来过。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/219461494)<br><br>2019-07-14 23:57<br>赞(0) 踩(0) | <div>听着听着感觉真好听，想看看是谁的歌，一看海南同宗，符氏。为你感到骄傲</div> |

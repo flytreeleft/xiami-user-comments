@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/bd080fa5051d374b4fe5b0c9492028bb.jpg)<br>阿细](https://i.xiami.com/axicheung) | **播放数**: 14033958<br>**粉丝数**: 7599<br>**评论数**: 165<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 粤语流行 Cantopop<br> |
+| [![](../../images/musicians/bd080fa5051d374b4fe5b0c9492028bb.jpg)<br>阿细](https://i.xiami.com/axicheung) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 粤语流行 Cantopop<br>**播放数**: 14033958<br>**粉丝数**: 7599<br>**评论数**: 165<br> |
 
 ## 档案
 
@@ -42,8 +42,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10250562)<br>我还没想好要写什么...<br>2020-07-03 15:49<br>赞(1) 踩(0) | <div>阿细给我噶feel，同薛凯琪好相似，希望比薛凯琪更火红，加油</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6752140)<br>Yฅ( ̳• ε • ̳...<br>2020-07-01 13:48<br>赞(3) 踩(0) | <div>先把介绍里的错别字改了好吗</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333672135)<br><br>2020-07-01 07:06<br>赞(3) 踩(0) | <div>我从追光者认识的她，感觉很棒的一位创作歌手，加油！</div> |
@@ -60,7 +60,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/288284476)<br><br>2019-05-17 12:41<br>赞(3) 踩(0) | <div>要是唱首《只是太爱你》粤语版就好了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/339578281)<br><br>2019-05-10 08:59<br>赞(0) 踩(0) | <div>什么时候出新专辑哇</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/261926941)<br>青春不止矫健的身姿和漂亮...<br>2019-05-01 21:04<br>赞(3) 踩(0) | <div>哇，声线那么好</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85293550)<br>嗯，我还是喜欢你<br>2019-04-17 09:36<br>赞(4) 踩(0) | <div>知足原曲作者是阿信，您可做个人吧，我谢谢您嘞举报了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85293550)<br>嗯，我还是喜欢你<br>2019-04-17 09:36<br>赞(4) 踩(0) | <div>知足原曲作者是阿信，<br>您可做个人吧，我谢谢您嘞<br>举报了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313548111)<br><br>2019-05-01 09:55<br>赞(0) 踩(0) | <div>你可真睿智 还是瞎 还是不把你自己当人?</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/85293550)<br>嗯，我还是喜欢你<br>2019-05-01 23:10<br>赞(0) 踩(0) | <div><q><b>大不了唱首歌说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313548111)<br><br>2019-05-01 23:12<br>赞(0) 踩(0) | <div><q><b>二毛八的草莓酱说：</b></q></div> |
@@ -167,7 +167,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/350752991)<br><br>2018-02-15 21:13<br>赞(2) 踩(0) | <div>嘿饭嘞，啊涩</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/37863570)<br> 你我他她它。<br>2018-02-09 09:53<br>赞(2) 踩(0) | <div>想听微博所有歌曲！能发吗？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/333293043)<br>我待生活如初恋丶<br>2018-02-06 19:17<br>赞(0) 踩(0) | <div>细细，好耐无见</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228858344)<br><br>2018-01-31 18:29<br>赞(0) 踩(0) | <div>很喜欢阿细，希望她能越来越火2018.1.31</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/228858344)<br><br>2018-01-31 18:29<br>赞(0) 踩(0) | <div>很喜欢阿细，希望她能越来越火<br>2018.1.31</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346658042)<br><br>2018-01-29 09:52<br>赞(1) 踩(0) | <div>我想娶阿细 <img src="../../images/comments/c4578828e448759d8df1f921462f1d22.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/346771739)<br><br>2018-01-28 21:45<br>赞(2) 踩(0) | <div>为左听阿细下载虾米 把声好正阿而且翻唱改词得超好 无霖到系广州人 一开始以为系香港人 觉得把声有少少似郑安琪 继续翻唱阿！比好多个赞你！ <img src="../../images/comments/76c5acf206960aab31178448113c01d3.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/345739185)<br><br>2018-01-28 20:23<br>赞(1) 踩(0) | <div>厉害了！继续更新 <img src="../../images/comments/2b56b02bad106bbfbcc09d04d31d8b72.png">是阿细的都赞我是你的粉</div> |

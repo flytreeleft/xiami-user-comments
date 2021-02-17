@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/96f2ee133795c111872ed1a5784d2c59.jpg)<br>重塑雕像的权利](https://i.xiami.com/re-tros) | **播放数**: 3007786<br>**粉丝数**: 31166<br>**评论数**: 1015<br>**地区**: China 中国大陆<br>**风格**: 后朋克 Post-Punk<br> |
+| [![](../../images/musicians/96f2ee133795c111872ed1a5784d2c59.jpg)<br>重塑雕像的权利](https://i.xiami.com/re-tros) | **地区**: China 中国大陆<br>**风格**: 后朋克 Post-Punk<br>**播放数**: 3007786<br>**粉丝数**: 31166<br>**评论数**: 1015<br> |
 
 ## 档案
 
@@ -26,8 +26,8 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3416489)<br><br>2021-01-05 23:08<br>赞(0) 踩(0) | <div>哈哈哈哈，翻了一下关注艺人，重塑竟然是我第一个关注的乐队，有10年了，再见虾米！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3640281)<br>奔向自由的明天……或者后...<br>2021-01-04 17:07<br>赞(0) 踩(0) | <div>虾米你可要挺住了。。我可不想只能在QQ音乐听我这些可爱的乐队。。恨不得把重塑的歌都下载下来。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222802757)<br>单循控  搬去酷狗  -...<br>2020-12-20 15:52<br>赞(0) 踩(0) | <div>跪求重塑大前年在the xx北京展览馆演出做暖场时演奏的两首歌的名字～鼓点炸了&amp;hellip;</div> |
@@ -54,7 +54,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52566452)<br>照见五蕴皆空 度一切苦厄<br>2020-08-01 17:03<br>赞(0) 踩(0) | <div><img src="../../images/comments/8a6ea0b328ad07d85e1648828a8d9142.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/421489510)<br>我爱音乐<br>2020-07-31 21:38<br>赞(0) 踩(0) | <div><img src="../../images/comments/5c93adb36fbb67f263daa18aec2c41d5.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2763594)<br><br>2020-07-30 23:01<br>赞(1) 踩(0) | <div>音乐语言无国界这个是毫无疑问的，但做出有自己特质的音乐又是另外一回事了。而重塑给我的感觉就是这种，别人的印迹太强，没有自己原创性的东西，其实这也是很多国内乐队给我的感受</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282399710)<br>这家伙很聪明什么也没留下...<br>2020-07-29 16:02<br>赞(1) 踩(0) | <div>好像只有普通话太庄重不适合唱，好像是个方言都挺有感情的。我这是给评论的评论不是给乐队的评论。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/282399710)<br>这家伙很聪明什么也没留下...<br>2020-07-29 16:02<br>赞(1) 踩(0) | <div>好像只有普通话太庄重不适合唱，好像是个方言都挺有感情的。<br>我这是给评论的评论不是给乐队的评论。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/173579114)<br>熊雪帆 我爱你<br>2020-07-29 11:59<br>赞(0) 踩(0) | <div>喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50184423)<br>我习于冷，志于成冰<br>2020-07-28 22:04<br>赞(0) 踩(0) | <div>高级</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/313002884)<br><br>2020-07-27 21:49<br>赞(1) 踩(0) | <div>乐夏拐过来的</div> |
@@ -110,7 +110,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14463507)<br>Come. Tell m...<br>2018-05-01 21:58<br>赞(1) 踩(0) | <div>本时代舞曲后朋类 live 呈现可能的巅峰。如果将范围缩小到国内，那就是，独立乐队 live 呈现可能的巅峰。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/36496136)<br>草长莺飞，南来北往<br>2018-05-01 19:14<br>赞(3) 踩(0) | <div>2018上海草莓，人生第一次音乐节之旅，第一次知道这个乐队，第一次听这个乐队的歌，只能说，能听他们的现场是我去草莓最幸运的一件事。我本来主要想看李志，可是在听到重塑的现场后我改变了计划，我坐在爱舞台前的草坪上，人不多，我坐的远，但是他们的表演却离我很近。留下的人每个都不顾矜持地摇摆不停，他们怎么可以这么棒，我怎么可以错过他们这么久？谢谢重塑，谢谢你们让我知道原来中国也可以有这么棒的摇滚现场，我对音乐了解得还太少，对中国的乐界也了解的太少，但是音乐的感觉总是突如其来，控制不了的。乐队主唱是我今天在草莓上听到的最专注的声音，你们是做音乐的，我现在知道啦，以后会持续关注 <img src="../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/73115192)<br>说什么没用，做什么才重要...<br>2018-05-15 03:20<br>赞(0) 踩(0) | <div>我也大爱重塑啊，可惜的是他们都太低调了，华东哥的为人，对音乐的理解，太让人尊重了。大概看了下你的收藏，巧合的是我也喜欢谷村新司。</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3076149)<br>我还没想好要写什么...<br>2018-05-22 01:31<br>赞(0) 踩(0) | <div>同感，成都草莓，惊到了居然错过这么久他们是真正艺术的创作</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3076149)<br>我还没想好要写什么...<br>2018-05-22 01:31<br>赞(0) 踩(0) | <div>同感，成都草莓，惊到了居然错过这么久<br>他们是真正艺术的创作</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4477103)<br>完全没有匆忙的必要<br>2018-04-26 10:00<br>赞(0) 踩(0) | <div>哭了 悄咪咪上了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/17146554)<br>weibo：@L1RRO...<br>2018-04-24 22:35<br>赞(0) 踩(0) | <div>❤️</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20177386)<br>感谢一切美好的遇见❤️<br>2018-04-24 01:36<br>赞(0) 踩(0) | <div><img src="../../images/comments/7607820f67e63b694e1e455146cb9efb.png"></div> |
@@ -129,7 +129,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4444474)<br>一半栖息，一半流浪<br>2017-11-07 22:39<br>赞(0) 踩(0) | <div>自从纽约看了现场！秒爱❤️现场数学感觉爆棚啊！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10210860)<br><br>2017-10-30 10:22<br>赞(0) 踩(0) | <div>完全惊喜啊，中国最牛逼一点都不为过！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2383925)<br>独音唱片<br>2017-10-28 00:22<br>赞(1) 踩(0) | <div>独音唱片三周年3月16号周日愚公移山专场 演出乐队：重塑雕像的权利 刺猬乐队Nova Heart 丢火车 盘尼西林 活动连接：<a href="http://www.douban.com/event/20820593/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/20820593/</a></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576211)<br><br>2017-10-28 00:21<br>赞(0) 踩(0) | <div>好像北京武汉这几个地方抢票都很疯狂啊。我担心了……希望上海能抢到票子！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576211)<br><br>2017-10-28 00:21<br>赞(0) 踩(0) | <div>好像北京武汉这几个地方抢票都很疯狂啊。我担心了……<br><br>希望上海能抢到票子！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16066608)<br><br>2017-10-27 23:49<br>赞(0) 踩(0) | <div>记得很久以前重塑来西安演出 我去看了 身边的老外给朋友说“这次算是来值了”</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4051783)<br><br>2017-10-27 23:29<br>赞(0) 踩(0) | <div>国内最具代表性后朋三人组，有着最佳的现场和舞台表现力。这样的稀有瑰宝，怎能不收。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1442309)<br><br>2017-10-27 23:07<br>赞(0) 踩(0) | <div>此种恶心的声音为什么听起来那么让我入迷！</div> |
@@ -233,7 +233,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/50351077)<br><br>2015-09-28 22:45<br>赞(0) 踩(0) | <div>真好听！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/24749536)<br>暂无签名~<br>2015-09-28 00:01<br>赞(3) 踩(0) | <div>今天去听了现场</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11072382)<br>一个孤独的人<br>2015-09-24 08:35<br>赞(1) 踩(0) | <div>从高中时候起听喜欢的不要不要的 可是为什么重塑这几年都没有新歌</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9245932)<br><br>2015-09-21 11:43<br>赞(0) 踩(0) | <div>还是词匮了学姐说 特别喜欢这队说 可能你都不知道发生了什么的时候 她就已经哭完一场了特意过来观摩一下问题是 我真的听不懂啊啊哈哈哈哈</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9245932)<br><br>2015-09-21 11:43<br>赞(0) 踩(0) | <div>还是词匮了<br>学姐说 特别喜欢这队<br>说 可能你都不知道发生了什么的时候 她就已经哭完一场了<br><br>特意过来观摩一下<br>问题是 我真的听不懂啊<br>啊哈哈哈哈</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7859768)<br>我还没想好要写什么...<br>2015-09-13 13:40<br>赞(0) 踩(0) | <div><img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"> <img src="../../images/comments/f961e00719320afd81b2a87ceaec42e7.png"></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16876753)<br>食草<br>2015-09-11 19:29<br>赞(0) 踩(0) | <div>真你妈吊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7991534)<br>得不偿失 失不再来 来去...<br>2015-09-11 12:55<br>赞(0) 踩(0) | <div>怎么怂了</div> |
@@ -261,8 +261,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/30266632)<br> <br>2015-06-19 10:35<br>赞(0) 踩(0) | <div>乐堡倒数第二首叫什么呀</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8861196)<br> <br>2015-06-19 09:29<br>赞(0) 踩(0) | <div>boys in cage</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7206504)<br>一天两包中南海<br>2015-06-19 08:58<br>赞(2) 踩(0) | <div>兵马司为什么没签下重塑？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2418786)<br>做个牛逼音乐人<br>2015-06-16 00:56<br>赞(2) 踩(0) | <div>我不觉得他们用英文唱罪该万死，但是这事儿还得说明白：当你用国际语言来表达自己的时候你想表达的是国际通用的观点，当你国际语言去唱歌的时候你还就是个pop，我怀疑那些对于（尤其，相当，非常）支持这种做法的人，您的态度那就是pop粉丝的态度。然后你说“pop没啥不对啊，听pop也不会杀头，所有我喜欢的歌都算pop”，那您说的也没错。或者你说“楼主是个二，楼主只喜欢听伪摇山歌”，您说得也不算太错。不过假如有人觉得自个儿这么支持英文特泛文化特国际主义那我只能说你这就是会错意，从乐队来说用英文是他们玩儿的一种手段，但是假如我要搞一个中国摇滚歌曲的排行榜，所有用英文的先扣十分，这事从理性上来首先说就是撞在easymusic的枪口上，因为调子是英文的调子所以词儿也顺大便用了英文，不好意思，我还是感觉coldplay比较有劲儿。其次，对于本国人大部分人来说听不懂，会不出意，那你玩个什么，摇滚乐队都是半夜12点的神秘园么。另外一方面，摇滚是讲究态度和自我出发自我制造的音乐，不是什么“长元音”的艺术，举个例子，您要是说直接用中文不适合唱摇滚，那用英文唱崔健的歌您试试？</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8192862)<br>诗人和先知。vchat:...<br>2015-11-20 15:25<br>赞(0) 踩(0) | <div>我倒觉得不能用pop这个观点来驳他们写英文词这个事情。我只是觉得如果要写英文词可以，地道一点，不要掺一些中国特色的英语，同样地唱腔也是，咬字也是。要学就要学到极致，不然放到哪都有人吹毛求疵。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2418786)<br>做个牛逼音乐人<br>2015-06-16 00:56<br>赞(2) 踩(0) | <div>我不觉得他们用英文唱罪该万死，但是这事儿还得说明白：当你用国际语言来表达自己的时候你想表达的是国际通用的观点，当你国际语言去唱歌的时候你还就是个pop，我怀疑那些对于（尤其，相当，非常）支持这种做法的人，您的态度那就是pop粉丝的态度。<br>然后你说“pop没啥不对啊，听pop也不会杀头，所有我喜欢的歌都算pop”，那您说的也没错。<br>或者你说“楼主是个二，楼主只喜欢听伪摇山歌”，您说得也不算太错。<br>不过假如有人觉得自个儿这么支持英文特泛文化特国际主义那我只能说你这就是会错意，从乐队来说用英文是他们玩儿的一种手段，但是假如我要搞一个中国摇滚歌曲的排行榜，所有用英文的先扣十分，这事从理性上来首先说就是撞在easymusic的枪口上，因为调子是英文的调子所以词儿也顺大便用了英文，不好意思，我还是感觉coldplay比较有劲儿。其次，对于本国人大部分人来说听不懂，会不出意，那你玩个什么，摇滚乐队都是半夜12点的神秘园么。<br>另外一方面，摇滚是讲究态度和自我出发自我制造的音乐，不是什么“长元音”的艺术，举个例子，您要是说直接用中文不适合唱摇滚，那用英文唱崔健的歌您试试？</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8192862)<br>诗人和先知。vchat:...<br>2015-11-20 15:25<br>赞(0) 踩(0) | <div>我倒觉得不能用pop这个观点来驳他们写英文词这个事情。<br>我只是觉得如果要写英文词可以，地道一点，不要掺一些中国特色的英语，同样地唱腔也是，咬字也是。<br>要学就要学到极致，不然放到哪都有人吹毛求疵。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2418786)<br>做个牛逼音乐人<br>2015-11-21 12:07<br>赞(0) 踩(0) | <div><q><b>Elepha说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7904288)<br>✖╹◡╹✖<br>2015-06-14 12:40<br>赞(1) 踩(0) | <div>還是莫名其妙地在吞歌阿 boys in cage??</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8946950)<br>灌不饱的耳朵<br>2015-06-10 21:41<br>赞(0) 踩(0) | <div>BTW，你们当然可以重塑塑像。</div> |
@@ -270,7 +270,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1279364)<br>@2000b.c<br>2015-06-06 20:48<br>赞(0) 踩(0) | <div>：D</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8055037)<br>喵<br>2015-06-04 20:49<br>赞(1) 踩(0) | <div>感觉楼下杰克船长是个变态，太他妈让人起鸡皮疙瘩了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47152410)<br><br>2015-06-05 03:27<br>赞(0) 踩(0) | <div>变态不挺好的么？你做个变态我看看！？</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47152410)<br><br>2015-06-04 19:07<br>赞(3) 踩(0) | <div>ai69ai822012-09-30 07:59回复有人说他们的音乐不是从真实出发的，或许他是不知道华东和刘敏都经历了怎样的生活。之前有一篇关于他们的报道，我也是从那里了解了另一面的重塑，没有经历过别人的人生就不要评头论足，就像一些人骂着重塑听着的都是没营养无病呻吟的芭乐歌还自诩多情。那个骂的人就是我 没有第二个 不是那些人而是仅仅我一个人而已你根本不知道你为什么喜欢重塑  你只是知道自己不喜欢的  然后远离那些你不喜欢的  仅此而已 其实你不喜欢的 你根本不了解 朋友 你不知道那些你认为低档的啪啪啪歌曲被制造出来而且受认可有多么的难  你去做了你才知道 你去做了然后你只会哭鼻子  说的再多 这些玩意不是你能玩的 哥们 老大不小了 现实一点吧别有张嘴就想告诉别人真理  你自己先相信你自己再指望别人去相信你吧</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47152410)<br><br>2015-06-04 19:07<br>赞(3) 踩(0) | <div>ai69ai822012-09-30 07:59回复<br>有人说他们的音乐不是从真实出发的，或许他是不知道华东和刘敏都经历了怎样的生活。之前有一篇关于他们的报道，我也是从那里了解了另一面的重塑，没有经历过别人的人生就不要评头论足，就像一些人骂着重塑听着的都是没营养无病呻吟的芭乐歌还自诩多情。<br><br>那个骂的人就是我 没有第二个 不是那些人而是仅仅我一个人而已<br>你根本不知道你为什么喜欢重塑  你只是知道自己不喜欢的  然后远离那些你不喜欢的  仅此而已 其实你不喜欢的 你根本不了解 朋友 你不知道那些你认为低档的啪啪啪歌曲被制造出来而且受认可有多么的难  你去做了你才知道 你去做了然后你只会哭鼻子  说的再多 这些玩意不是你能玩的 哥们 老大不小了 现实一点吧别有张嘴就想告诉别人真理  你自己先相信你自己再指望别人去相信你吧</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/52195023)<br>Where is my ...<br>2015-10-30 16:47<br>赞(0) 踩(0) | <div>你老几？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7677996)<br>Welcome to t...<br>2015-11-07 10:08<br>赞(0) 踩(0) | <div>刻意跑到别人的主页来开骂，你也挺不容易的，你高兴就好</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43425569)<br><br>2017-10-27 23:48<br>赞(0) 踩(0) | <div>我觉得重塑雕像的权利非常不错！这种评判是经历过多年的音乐追求的，是从声音的组合思考的，我觉得重塑雕像的权利的歌，也许不能用歌来概括，他是一种声音组合，一种氛围，用英文多好，最好是听不懂每个词句的意思，因为真正好的歌是不需要具体的词句，那些词句都只是一种声音，是整个声音组合里必不可少的声音，节奏，一首真正好的歌，不是具体告诉你我好疼，我好累，或者我好嗨，而是一种感受，这种感受我们从声音里面就能体会到，不是从词句中体会，所以用什么语言并不重要，反而，中文太过生硬，用起来非常别扭，而且，摇滚乐本身就是欧美发源，摇滚是一种个人的抒发手段，不是你的歌颂之路，尊重他人，尊重自己吧~</div> |
@@ -278,7 +278,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/43425569)<br><br>2015-06-22 10:56<br>赞(0) 踩(0) | <div>哥，你根本就不懂音乐吧！工体就牛逼了？可笑啊你！俗气的东西才会在那样的地方被万众瞩目，你就勇敢的俗气吧，思想落后还那么拧，受不了！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47152410)<br><br>2015-06-04 18:55<br>赞(1) 踩(0) | <div>重塑们 你们用的最好的乐器 玩的最时尚的形式 做的最好的录音和后期 制作人也是很高档的 唱的最标准的英文 GOD 但是没有一个词可以触动我的内心 一个都没有 真的没有 我不知道你们触动了谁 但是我和你们只是擦肩而过的人而已 互不相识 没有任何的有色眼光 但是真的很想知道 很想知道 这些年轻人到底要什么 是要独身一生还是要离婚还是要为你父母生个孩子 重塑们 你们的生活不需要美国人去给你定义 你们的生活你们自己需要你自己去定义  再大牌的制作人也对你来说也没有用 你坚持着自己都不知道是什么的坚持 鄙视着自己都不知道为什么要鄙视的人  这就是你们 亲爱的 我们爱你们  你们却从没有爱过我们一次</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11939366)<br>Let go...<br>2015-12-23 23:00<br>赞(0) 踩(0) | <div>我去你大爷笑死我了……哥，你才是真朋克！ <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png"> <img src="../../images/comments/1a1e42425f368f73d7198f0362106f26.png">，净化网络环境需要你…</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47152410)<br><br>2015-06-04 18:46<br>赞(1) 踩(0) | <div>Funk 、(玩坏了的贝斯手。)2012-03-04 20:36回复赞(121)弱(21)在后朋克以濒临绝种的今天,重塑的出现无论是从听觉还是视觉上无疑都做到了将我们拯救的地步,希望他们能大步向前.因为他们是中国摇滚乐的新希望.该灭种的就让他灭种 灭种了才有新的  我痛苦难受的时候重塑没有来拯救我  我也不相信他能拯救你  当你失魂落魄的时候 放心他们绝对不会来拯救你  你只能靠自己 朋友 这是真的</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47152410)<br><br>2015-06-04 18:46<br>赞(1) 踩(0) | <div>Funk 、(玩坏了的贝斯手。)2012-03-04 20:36回复赞(121)弱(21)<br><br><br>在后朋克以濒临绝种的今天,重塑的出现无论是从听觉还是视觉上无疑都做到了将我们拯救的地步,希望他们能大步向前.因为他们是中国摇滚乐的新希望.<br><br>该灭种的就让他灭种 灭种了才有新的  我痛苦难受的时候重塑没有来拯救我  我也不相信他能拯救你  当你失魂落魄的时候 放心他们绝对不会来拯救你  你只能靠自己 朋友 这是真的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47152410)<br><br>2015-06-04 18:40<br>赞(2) 踩(0) | <div>你唱的是谁啊？？？是谁啊？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47152410)<br><br>2015-06-04 18:40<br>赞(1) 踩(0) | <div>我活的很苦很累 你们能不能唱唱我的生活啊 为我歌唱一下 或者唱你们自己的也行啊 都可以都行 你骂我无所谓的 我不介意 但是我不会骂你  真的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/47152410)<br><br>2015-06-04 18:38<br>赞(2) 踩(0) | <div>哎  为什么 哎 这世界就是听不惯不一样的声音 说句心里话 台下的我基本都认识 没几个英语过四级的 喊着重塑牛逼重塑牛逼  好吧继续牛逼吧</div> |
@@ -334,7 +334,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9066420)<br>我还没想好要写什么...<br>2014-12-20 23:23<br>赞(0) 踩(0) | <div>黑色，神秘，混沌，神经质，自我恐惧。给希区柯克式的黑色悬疑片做配乐简直绝佳！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12690979)<br><br>2014-12-18 09:32<br>赞(0) 踩(0) | <div>这乐队好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9015016)<br>一只喜欢戴帽子的皮鞋。<br>2014-12-10 20:14<br>赞(0) 踩(0) | <div>原来中国有这么流弊的乐队！A death-bed song一上来被惊艳到！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/860474)<br> <br>2014-12-04 11:31<br>赞(0) 踩(0) | <div>终于到了可以欣赏重塑的年龄，感觉好欣慰。以前总觉得重塑很装逼，在这里向你们说声对不起。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/860474)<br> <br>2014-12-04 11:31<br>赞(0) 踩(0) | <div>终于到了可以欣赏重塑的年龄，感觉好欣慰。<br>以前总觉得重塑很装逼，在这里向你们说声对不起。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9459533)<br><br>2014-11-29 21:39<br>赞(0) 踩(0) | <div>优秀的后朋克乐队，放在国内国外都应该得到比较高的评价。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10455718)<br>花开生两面 人生佛魔间<br>2014-11-13 20:08<br>赞(1) 踩(0) | <div>无论音乐还是会绘画，作为艺术品都有客观性：被人接受；理想状态是好的艺术作品是观赏者与作品之间毫无隔阂。这个都建立在艺术品的传播性上，尤其是音乐，首先必须是可知的。其传播性并非是简单的是非问题，而是具有范围和程度。所以人与人性格、教养、生理条件、心理状态都不尽相同，艺术品被人理解的程度也不同。有人会喜欢有人会厌恶是一定的。有些音乐晦涩或者怪异，有些人就理解不了或者不喜欢，很正常。本身艺术品欣赏就是主观的东西，还是不要拿“摇滚”的帽子来互相争论，没有太多实际的意义。而是退一步，理解音乐带来的心里感受。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3741170)<br>◇◆Vesti la g...<br>2014-11-11 15:44<br>赞(0) 踩(0) | <div>我只是被乐队名吸引过来，很妙</div> |
@@ -396,7 +396,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7774835)<br>我还没想好要写什么...<br>2014-05-26 13:47<br>赞(0) 踩(0) | <div>不听现场不能理解重塑的牛逼~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5548223)<br><br>2014-05-25 00:30<br>赞(0) 踩(0) | <div>一个看了两次 还不过瘾</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12860581)<br>xia'mi我回来啦<br>2014-05-26 23:54<br>赞(0) 踩(0) | <div>I feel the same way...</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3177372)<br><br>2014-05-24 22:22<br>赞(0) 踩(0) | <div>现场太棒！！！！！！！今天最喜欢的就是你们了！辛苦了 真的很棒我以为压轴的肯定是surrender 结果你们就结束了 结束了！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3177372)<br><br>2014-05-24 22:22<br>赞(0) 踩(0) | <div>现场太棒！！！！！！！今天最喜欢的就是你们了！辛苦了 真的很棒<br>我以为压轴的肯定是surrender 结果你们就结束了 结束了！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1893681)<br> <br>2014-05-25 02:19<br>赞(0) 踩(0) | <div>同被震撼！！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3177372)<br><br>2014-05-25 09:07<br>赞(0) 踩(0) | <div><q><b>unacyl说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1893681)<br> <br>2017-10-28 00:20<br>赞(0) 踩(0) | <div><q><b>✞说：</b></q></div> |
@@ -435,8 +435,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35933078)<br><br>2014-04-28 13:22<br>赞(0) 踩(0) | <div>后朋克国内的乐队 MARK</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2938438)<br><br>2014-04-25 22:37<br>赞(0) 踩(0) | <div>牛逼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/16049433)<br>lalalala<br>2014-04-20 22:09<br>赞(1) 踩(0) | <div>19号草莓的时候冲着你们去的！真是嗨翻了！！歌和live都很棒！！（专辑封面品位是不是有待提高 - -</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3391572)<br><br>2014-04-19 11:05<br>赞(3) 踩(0) | <div>有些评论看得真是看得令人发笑，现代流行音乐的根源就是欧美音乐。没有西方几十年来rock,dance,folk的发展普及你有个P的中文流行音乐啊。你以为你用中文唱，加个二胡古筝搞个中国风就是created by china了？还拿来主义，简直逗逼。不要说中国对流行音乐的发展毫无贡献，连跟上流行音乐的发展都做不到，抄都抄不好，好不容易有些像重塑这样高水准的乐队还要被无脑FQ喷真是简直了。发出这些评论的人还好意思提中国音乐崛起呢，送两个字——呵呵。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368167)<br>为了<br>2014-04-15 23:07<br>赞(1) 踩(0) | <div>你把法餐做的比法国人还牛逼，这很好.可如果你说因此中国饮食崛起了,就是纯sb了.争来争去，企图心不同，有人觉得做的好吃就行，有人希望做点吃以外的东西.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3391572)<br><br>2014-04-19 11:05<br>赞(3) 踩(0) | <div>有些评论看得真是看得令人发笑，现代流行音乐的根源就是欧美音乐。没有西方几十年来rock,dance,folk的发展普及你有个P的中文流行音乐啊。你以为你用中文唱，加个二胡古筝搞个中国风就是created by china了？<br>还拿来主义，简直逗逼。不要说中国对流行音乐的发展毫无贡献，连跟上流行音乐的发展都做不到，抄都抄不好，好不容易有些像重塑这样高水准的乐队还要被无脑FQ喷真是简直了。<br>发出这些评论的人还好意思提中国音乐崛起呢，送两个字——呵呵。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368167)<br>为了<br>2014-04-15 23:07<br>赞(1) 踩(0) | <div>你把法餐做的比法国人还牛逼，这很好.<br>可如果你说因此中国饮食崛起了,就是纯sb了.<br>争来争去，企图心不同，有人觉得做的好吃就行，有人希望做点吃以外的东西.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/456577)<br><br>2014-04-15 15:43<br>赞(1) 踩(0) | <div>期待听现场~~19号也是冲着你们去的哦 草莓音乐节！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/34623003)<br><br>2014-03-31 22:10<br>赞(0) 踩(0) | <div>很棒的乐队，专业，严肃，冷静，国内唯一的后朋克乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/20564513)<br>君问归期未有期<br>2014-03-26 20:58<br>赞(0) 踩(0) | <div>和Pixies很像！</div> |
@@ -446,11 +446,11 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3462143)<br><br>2014-03-13 12:50<br>赞(2) 踩(0) | <div>内容已删除</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4485037)<br>...<br>2014-03-21 03:51<br>赞(0) 踩(0) | <div>人如其名</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3462143)<br><br>2014-03-21 09:10<br>赞(0) 踩(0) | <div><q><b>|说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/465461)<br>去他媽的大電視<br>2014-04-06 19:52<br>赞(0) 踩(0) | <div>音乐有国界？如此狭义，如何懂得欣赏？</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/465461)<br>去他媽的大電視<br>2014-04-06 19:52<br>赞(0) 踩(0) | <div>音乐有国界？<br>如此狭义，如何懂得欣赏？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3462143)<br><br>2014-04-07 08:56<br>赞(0) 踩(0) | <div><q><b>飞翔大菠萝说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/25338670)<br>时光交错的宇宙，梦与星辰...<br>2014-05-04 14:09<br>赞(0) 踩(0) | <div>认知狭隘，观点偏激。建议你出书，题目已帮你想好《论音乐的可比性》  五十步步笑百步，说别人无脑，好在你有一颗忧国忧民的心但却是愤青的身子。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3462143)<br><br>2014-05-04 15:19<br>赞(0) 踩(0) | <div><q><b>Galaxy说：</b></q></div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368167)<br>为了<br>2017-10-27 23:20<br>赞(0) 踩(0) | <div>希望中国音乐崛起的人顶你.精神如果被殖民，是完全产生不了对等的伟大的文化的.现在连音乐土壤都恨不得拿来主义，这种所谓的摇滚还真不如流行音乐来的有意义</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368167)<br>为了<br>2017-10-27 23:20<br>赞(0) 踩(0) | <div>希望中国音乐崛起的人顶你.<br>精神如果被殖民，是完全产生不了对等的伟大的文化的.<br>现在连音乐土壤都恨不得拿来主义，这种所谓的摇滚还真不如流行音乐来的有意义</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1618810)<br>毙<br>2014-03-13 12:13<br>赞(2) 踩(0) | <div>有的大老爷们真没点儿大老爷们的样儿，事儿逼事儿逼的，何必呢。我们能一起闭上嘴好好听歌吗。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4863565)<br>挤出一丝力气<br>2014-03-13 11:32<br>赞(0) 踩(0) | <div>即快乐小分队后听的第二支PP</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5084856)<br><br>2014-03-12 01:02<br>赞(4) 踩(0) | <div>听完苏朵的英语，再听重塑的英语简直是一股清流直沁心扉</div> |
@@ -463,9 +463,9 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2768615)<br> <br>2014-02-17 16:34<br>赞(1) 踩(0) | <div>今天下午听了传说中各种大牌国摇最后决定收藏重塑</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2383925)<br>独音唱片<br>2014-02-15 17:19<br>赞(0) 踩(0) | <div>2014年重塑雕像的权利第一张演出 活动连接：<a href="http://www.douban.com/event/20820593/" target="_blank" rel="nofollow noreferrer noopener">http://www.douban.com/event/20820593/</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4460594)<br>羞怯而真诚的活着。<br>2014-02-11 12:10<br>赞(0) 踩(0) | <div>总有一些人自大到敢于断言什么是生活。这些人自以为掌握了别人不知道的所谓生活经验，热衷于布道传教。可老子就不吃这套！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2860963)<br>690313618/No...<br>2014-02-06 23:44<br>赞(0) 踩(0) | <div>不好听以及同意置顶的评论</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2860963)<br>690313618/No...<br>2014-02-06 23:44<br>赞(0) 踩(0) | <div>不好听<br>以及同意置顶的评论</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2214127)<br><br>2014-04-16 10:06<br>赞(0) 踩(0) | <div>怎么哪都能见到你</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-01-31 19:05<br>赞(0) 踩(0) | <div>中国国产后朋510605,14212,627</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8337431)<br>以乐会友<br>2014-01-31 19:05<br>赞(0) 踩(0) | <div>中国国产后朋<br>510605,14212,627</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6969887)<br>我还没想好要写什么...<br>2014-01-24 21:04<br>赞(0) 踩(0) | <div>怎么说也是咱自个国家的摇滚 精神可嘉 底下黑他们的有点过了</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/21777630)<br><br>2014-12-14 01:43<br>赞(0) 踩(0) | <div>p p p p p</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/29234743)<br><br>2014-01-21 22:48<br>赞(0) 踩(0) | <div>“后”气挺重，女声是亮点</div> |
@@ -494,7 +494,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5807749)<br><br>2013-10-06 01:16<br>赞(0) 踩(0) | <div>长春草莓的演出太华丽了...  让我不自主的从头晃到尾...  我爱你们!.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5560844)<br><br>2013-10-07 16:32<br>赞(0) 踩(0) | <div>我 也是  我在第一排  从头到尾晃  我旁边的人还以为我嗑药了呢</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5807749)<br><br>2013-10-07 19:01<br>赞(0) 踩(0) | <div><q><b>candy说：</b></q></div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10086150)<br>最遗憾的是我不知道我爱你<br>2013-09-28 17:21<br>赞(5) 踩(0) | <div>我觉得没有哪国语言在音乐上是有限制的吧。中国乐队全唱英文即使本意不是装逼也显得很做作。中文唱不出感觉不是语言的错，和词曲，发声位置都有很大关系。国内过去曲风也很单一，但是现在不是也渐渐多元化了么？现在酒吧里面唱什么的都有了，britpop 一堆一堆的。那些不也曾被认为中文唱不来的么？看了几首歌歌词。就可以肯定这个乐队的定位注定尴尬。在国内一定是小众了，但肯定也走不上国际。想来想去，用英文的必要性实在不大。太肤浅了。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10086150)<br>最遗憾的是我不知道我爱你<br>2013-09-28 17:21<br>赞(5) 踩(0) | <div>我觉得没有哪国语言在音乐上是有限制的吧。中国乐队全唱英文即使本意不是装逼也显得很做作。中文唱不出感觉不是语言的错，和词曲，发声位置都有很大关系。国内过去曲风也很单一，但是现在不是也渐渐多元化了么？现在酒吧里面唱什么的都有了，britpop 一堆一堆的。那些不也曾被认为中文唱不来的么？<br>看了几首歌歌词。就可以肯定这个乐队的定位注定尴尬。在国内一定是小众了，但肯定也走不上国际。<br>想来想去，用英文的必要性实在不大。太肤浅了。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11228825)<br><br>2013-09-25 10:41<br>赞(0) 踩(0) | <div>nice</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/441866)<br><br>2013-09-21 21:40<br>赞(0) 踩(0) | <div>中国有这样的风格的乐队不是一件值得高兴的事吗？ 哦。。那女的声音真让人性奋啊。。。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2229698)<br> <br>2013-09-07 19:36<br>赞(29) 踩(0) | <div>被你们弱到尿的乐队正在世界各地放光芒呢，呵呵。国人的眼光还是太狭隘了</div> |
@@ -526,7 +526,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4771754)<br><br>2013-06-14 17:27<br>赞(0) 踩(0) | <div>很不错了~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11671603)<br>我浑身难受<br>2013-06-13 01:04<br>赞(3) 踩(0) | <div>用英语作为音乐的承载，世界性的大浪潮。他们用心做出的音乐在中国就是棒，你服不服？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/15810859)<br><br>2013-06-11 10:03<br>赞(0) 踩(0) | <div>好好的中国乐队搞毛的英文，就跟美国人读唐诗一样别扭</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1582817)<br>若收藏精选集已删除，请用...<br>2013-06-06 13:03<br>赞(1) 踩(0) | <div>有多少音乐人　像崔健一样　把中国方言　民乐器融合到摇滚里　出来的真正意义上的中国摇滚．．．现在这代　借鉴过来的西洋玩儿应　就连语言都懒得改了　做出来的东西还没老外纯　要不你就说国语　能特么一口儿洋话　我们也听不懂　还支持个屁．．．不是说崔健多好　就是说中国话都不说．．．也就能听听　还有点儿新浪潮内意思　支持就算了．．．还不如听纯的新浪潮　Polyrock　的了．．．</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1582817)<br>若收藏精选集已删除，请用...<br>2013-06-06 13:03<br>赞(1) 踩(0) | <div>有多少音乐人　像崔健一样　把中国方言　民乐器融合到摇滚里　出来的真正意义上的中国摇滚．．．<br>现在这代　借鉴过来的西洋玩儿应　就连语言都懒得改了　做出来的东西还没老外纯　要不你就说国语　能特么一口儿洋话　我们也听不懂　还支持个屁．．．<br>不是说崔健多好　就是说中国话都不说．．．<br>也就能听听　还有点儿新浪潮内意思　支持就算了．．．<br>还不如听纯的新浪潮　Polyrock　的了．．．</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/12860581)<br>xia'mi我回来啦<br>2014-01-22 22:14<br>赞(0) 踩(0) | <div>谁他妈规定他们就非得做中国味儿的摇滚了，你？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5974762)<br>生命之音...奇妙<br>2013-05-25 23:54<br>赞(1) 踩(0) | <div>必须顶！！！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1512770)<br>Im stanper<br>2013-05-22 20:59<br>赞(2) 踩(0) | <div>女声很性感  很性感 很性感 很性感 很性感 很性感 很性感 很性感 很性感 ..</div> |
@@ -551,7 +551,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10210860)<br><br>2013-04-27 20:34<br>赞(0) 踩(0) | <div>love！让我想起来教士的黑袍和红唇。未来感宗教感的声音，理型而又邪恶的咆哮，斯内普的学术面。stylish</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1860756)<br>一点我就燃<br>2013-04-25 18:12<br>赞(0) 踩(0) | <div>………………还是你们靠谱……</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4866129)<br><br>2013-04-25 09:53<br>赞(0) 踩(0) | <div>摇滚,中國,</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5814109)<br><br>2013-04-20 21:33<br>赞(0) 踩(0) | <div>1.很好听，比较喜欢。2.模仿的出路在哪里？</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5814109)<br><br>2013-04-20 21:33<br>赞(0) 踩(0) | <div>1.很好听，比较喜欢。<br>2.模仿的出路在哪里？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14040671)<br>再见 可爱的小伙子<br>2013-05-14 00:01<br>赞(0) 踩(0) | <div>the b-52和the birthday party</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1092563)<br>Just Listen<br>2013-04-19 21:27<br>赞(0) 踩(0) | <div>中国独立摇滚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6896345)<br>nice!<br>2013-04-17 14:02<br>赞(2) 踩(0) | <div>学的不错，模的不错，可惜，不是原装的。凑合听吧！</div> |
@@ -590,7 +590,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1244165)<br><br>2012-11-19 11:29<br>赞(0) 踩(0) | <div>HI</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1246149)<br><br>2012-11-18 22:12<br>赞(0) 踩(0) | <div>听听再说！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1246149)<br><br>2012-11-18 22:10<br>赞(0) 踩(0) | <div>先听听</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1742487)<br><br>2012-11-16 15:44<br>赞(0) 踩(0) | <div>为啥 大家都那么推崇 重塑？层次不够 听到太监般嗓音 和 **般浪叫 果断 关了</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1742487)<br><br>2012-11-16 15:44<br>赞(0) 踩(0) | <div>为啥 大家都那么推崇 重塑？<br>层次不够 听到太监般嗓音 和 **般浪叫 果断 关了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/821)<br><br>2012-11-11 21:09<br>赞(3) 踩(0) | <div>不喜欢就不要听，音乐主要靠的是声音来感受，人声也只是一个装饰罢了，跟歌词有半毛关系！歌词再牛逼能算音乐吗？上纲上线的才是二逼+装逼。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6468215)<br><br>2012-11-11 19:34<br>赞(1) 踩(0) | <div>有点料，比国内大部分乐队强多了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/789449)<br>德能胜妖<br>2012-11-11 00:06<br>赞(1) 踩(0) | <div>可能我们对同胞的要求是比较严格的，哈哈哈哈</div> |
@@ -599,7 +599,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6925863)<br>Z*  Z*  Z*<br>2012-11-05 18:03<br>赞(0) 踩(0) | <div>另类！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2910544)<br><br>2012-10-27 17:00<br>赞(0) 踩(0) | <div>超越美国的后朋克乐队了 就用用英文歌词 唱成中文 买菜的都能听懂 没有内涵</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6193601)<br>听点阳间的东西<br>2012-10-27 16:03<br>赞(6) 踩(0) | <div>内容已删除</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-02 23:16<br>赞(0) 踩(0) | <div>叼炸凶 你知道www.letv.com/ptv/vplay/20079694.html 31分后的歌曲是哪首吗 我听完了都没有找到</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-02 23:16<br>赞(0) 踩(0) | <div>叼炸凶 你知道www.letv.com/ptv/vplay/<br>20079694.html 31分后的歌曲是哪首吗 我听完了<br>都没有找到</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/630382)<br>分类真是件浩瀚的工程<br>2012-10-23 14:44<br>赞(0) 踩(0) | <div>大拼盘啊</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1948934)<br>WHO DARES WI...<br>2012-10-13 16:32<br>赞(3) 踩(0) | <div>很多音乐，人们认为不好并不是音乐做的没感情，反过来说更多的是听众不能产生共鸣。这也许是习惯，也许是态度问题。中国摇滚乐队可能技术不牛逼，演奏不华丽。 但是某些感情并不是屁民们能理解的，这不是生活的歌颂也不是澎湃的激情。亦不是某时肾上腺素分泌过剩产生的风骚柔情。这是摇滚，是几代人铁一般的历史上，用无数人的鲜血积累下的仇恨！感情无法宣泄已到爆发的边缘，却只能用英语来呐喊，心中有多不舒服。反而被一些所谓的音乐人评价来评价去，你们并不懂音乐，也不是高尚艺术家，只是一帮卖弄的猴子。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/11008119)<br>klain<br>2012-10-13 04:38<br>赞(0) 踩(0) | <div>中国人，搞什么英语，入美国籍吧</div> |
@@ -609,7 +609,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/222802757)<br>单循控  搬去酷狗  -...<br>2020-12-20 15:36<br>赞(0) 踩(0) | <div>谁啊？ 国内现存的非常好听的有品质的独立摇滚乐队  说一两个吧～ 至少不下于blur the xx  depeche mode Cocteau twin品质的  国内现存的有哪些啊？？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1903624)<br><br>2012-10-04 20:25<br>赞(0) 踩(0) | <div>听到现场一见倾心。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3244207)<br><br>2012-10-04 16:25<br>赞(0) 踩(0) | <div>可以啊·····</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7991924)<br><br>2012-09-30 07:59<br>赞(164) 踩(0) | <div>有人说他们的音乐不是从真实出发的，或许他是不知道华东和刘敏都经历了怎样的生活。之前有一篇关于他们的报道，我也是从那里了解了另一面的重塑，没有经历过别人的人生就不要评头论足，就像一些人骂着重塑听着的都是没营养无病呻吟的芭乐歌还自诩多情。每种语言都有自己的魅力，摇滚发源在国外，用英文唱的时候那些长音的位置才能随意放置，除非你有周董能把中文唱成英文的速度和实力。不然自己试试拿着重塑音乐的中文歌词跟着音乐唱一遍？再说华东作为外语学院的学生说点英语是不为过的，更何况音乐无国界，你听着日文歌还说着抵制日货难道不是更虚伪吗？我喜欢重塑，或许他们还在摸索自己的道路，但是只要是能够坚持，我想他们超出我的期待</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7991924)<br><br>2012-09-30 07:59<br>赞(164) 踩(0) | <div>有人说他们的音乐不是从真实出发的，或许他是不知道华东和刘敏都经历了怎样的生活。之前有一篇关于他们的报道，我也是从那里了解了另一面的重塑，没有经历过别人的人生就不要评头论足，就像一些人骂着重塑听着的都是没营养无病呻吟的芭乐歌还自诩多情。<br>每种语言都有自己的魅力，摇滚发源在国外，用英文唱的时候那些长音的位置才能随意放置，除非你有周董能把中文唱成英文的速度和实力。不然自己试试拿着重塑音乐的中文歌词跟着音乐唱一遍？再说华东作为外语学院的学生说点英语是不为过的，更何况音乐无国界，你听着日文歌还说着抵制日货难道不是更虚伪吗？<br>我喜欢重塑，或许他们还在摸索自己的道路，但是只要是能够坚持，我想他们超出我的期待</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1144010)<br>在微博再见吧：LZYxL...<br>2012-10-06 13:48<br>赞(0) 踩(0) | <div>中国有中国摇滚，不是非得按照英文发音。民族化才是中国摇滚的未来，看看崔健、谢天笑、二手玫瑰、万青、痛仰他们就知道了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7991924)<br><br>2012-10-06 15:20<br>赞(0) 踩(0) | <div><q><b>老李说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/321360)<br>Segmentation<br>2012-11-11 14:37<br>赞(0) 踩(0) | <div><q><b>老李说：</b></q></div> |
@@ -622,7 +622,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9149221)<br>ชานมข้นกว่าเ...<br>2012-09-15 23:04<br>赞(0) 踩(0) | <div>?</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/8643195)<br>無樂不歡 无Rock不摧<br>2012-09-13 16:02<br>赞(0) 踩(0) | <div>愛上他們是因為上海草莓現場張力實在太太太震撼了!!!</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7667135)<br>懒…<br>2012-09-12 22:46<br>赞(0) 踩(0) | <div>怎么办，迷上他们之后就爱上了后朋克。中毒了。爱死爱死。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576211)<br><br>2012-09-12 18:55<br>赞(0) 踩(0) | <div>重塑雕像的权利纽约录音纪 视频出来了。一共2个：<a href="http://v.youku.com/v_show/id_XNDQwMTcyOTQw.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XNDQwMTcyOTQw.html</a><a href="http://v.youku.com/v_show/id_XNDQ0MjQ4ODQw.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XNDQ0MjQ4ODQw.html</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576211)<br><br>2012-09-12 18:55<br>赞(0) 踩(0) | <div>重塑雕像的权利纽约录音纪 视频出来了。一共2个：<br><a href="http://v.youku.com/v_show/id_XNDQwMTcyOTQw.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XNDQwMTcyOTQw.html</a><br><a href="http://v.youku.com/v_show/id_XNDQ0MjQ4ODQw.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XNDQ0MjQ4ODQw.html</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2231224)<br><br>2012-09-05 10:28<br>赞(0) 踩(0) | <div>赞</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/666798)<br><br>2012-09-04 21:09<br>赞(0) 踩(0) | <div>9月21日愚公移山见~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13049)<br><br>2012-09-04 00:49<br>赞(0) 踩(0) | <div>似乎明年要发新专了</div> |
@@ -631,7 +631,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9225571)<br>啊啊啊啊啊啊<br>2012-08-24 00:52<br>赞(0) 踩(0) | <div>扭脖乐队</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2860963)<br>690313618/No...<br>2012-08-23 20:36<br>赞(1) 踩(0) | <div>中国最好的后朋，没有之一！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2190629)<br>喝不净醉人春酒<br>2012-08-22 14:21<br>赞(0) 踩(0) | <div>啧啧啧，痕迹不要那么明显好么</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576211)<br><br>2012-08-21 12:53<br>赞(0) 踩(0) | <div>哇这个视频太帅了视频：<a href="http://v.youku.com/v_show/id_XNDQxMjc0OTI0.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XNDQxMjc0OTI0.html</a><a href="http://converse.renren.com" target="_blank" rel="nofollow noreferrer noopener">http://converse.renren.com</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576211)<br><br>2012-08-21 12:53<br>赞(0) 踩(0) | <div>哇这个视频太帅了视频：<a href="http://v.youku.com/v_show/id_XNDQxMjc0OTI0.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XNDQxMjc0OTI0.html</a><br><br><a href="http://converse.renren.com" target="_blank" rel="nofollow noreferrer noopener">http://converse.renren.com</a></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/971183)<br>Major Tom<br>2012-08-18 04:19<br>赞(2) 踩(0) | <div>重塑装逼的权利</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/10142252)<br><br>2012-08-08 22:30<br>赞(0) 踩(0) | <div>别具一格。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7256654)<br><br>2012-08-05 13:57<br>赞(0) 踩(0) | <div>氛围、旋律都还不错，不看歌词的话很难理解。</div> |
@@ -660,7 +660,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2202110)<br>作梦中梦 悟身外身<br>2012-08-24 10:44<br>赞(0) 踩(0) | <div><q><b>jingdouer说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/340970)<br>◕‿◕✿<br>2014-04-06 12:38<br>赞(0) 踩(0) | <div>哈哈哈哈哈哈</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-02 20:10<br>赞(0) 踩(0) | <div>北京草莓他们真的很棒</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-02 23:15<br>赞(0) 踩(0) | <div>www.letv.com/ptv/vplay/20079694.html  暗叉桑你知道31分后的歌曲是哪首吗？我听完他们的歌也木有找到</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-02 23:15<br>赞(0) 踩(0) | <div>www.letv.com/ptv/vplay/2007969<br>4.html  暗叉桑你知道31分后的歌曲是哪首吗？我听完他<br>们的歌也木有找到</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1447058)<br>已迁移至网易云，祝好——...<br>2014-05-02 23:33<br>赞(0) 踩(0) | <div><q><b>Tautou说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-02 23:34<br>赞(0) 踩(0) | <div><q><b>暗叉说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/19363740)<br>虾米你这个大坏蛋，我恨你<br>2014-05-05 08:24<br>赞(0) 踩(0) | <div><q><b>暗叉说：</b></q></div> |
@@ -677,7 +677,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6223575)<br>暂无签名~<br>2012-05-21 15:03<br>赞(0) 踩(0) | <div>顶住说句话，我觉得编曲真的很好，如果歌词上再给力点的话，真的算是很优秀的了。这跟用哪国语言写没关系。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9004803)<br><br>2012-05-14 03:00<br>赞(0) 踩(0) | <div>还有nick cave</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9004803)<br><br>2012-05-14 02:57<br>赞(0) 踩(0) | <div>bauhaus 和 siouxise and the banshees</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/506337)<br><br>2012-05-09 20:10<br>赞(8) 踩(0) | <div>我喜欢他们，没听出他们唱英文有装逼的味道，中国乐队唱英语也是寻求突破的一种方式，让老外也有兴趣接受中国人的摇滚。ABBA的经纪人给ABBA的忠告：成功 法则第一条，你得唱英文！（那瑞典人不唱瑞典语就是装逼吗？）</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/506337)<br><br>2012-05-09 20:10<br>赞(8) 踩(0) | <div>我喜欢他们，没听出他们唱英文有装逼的味道，中国乐队唱英语也是寻求突破的一种方式，让老外也有兴趣接受中国人的摇滚。<br>ABBA的经纪人给ABBA的忠告：成功 法则第一条，你得唱英文！（那瑞典人不唱瑞典语就是装逼吗？）</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4869797)<br><br>2012-05-09 15:25<br>赞(2) 踩(0) | <div>说实话，装逼是不好的</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/246887)<br>音乐是一种想象<br>2012-05-07 18:54<br>赞(0) 踩(0) | <div>为什么要用英文  为什么</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/7070855)<br> <br>2012-05-05 23:52<br>赞(1) 踩(0) | <div>天桥口耍猴乐队，除了现场乐呵一把之外谁会买盘VCD回家听？</div> |
@@ -733,7 +733,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/6642657)<br>好像看你起飞的样子<br>2011-12-07 17:59<br>赞(0) 踩(0) | <div>.</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1622889)<br><br>2011-11-27 20:45<br>赞(0) 踩(0) | <div>牛比！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4974122)<br>再见虾米，感谢你的陪伴，...<br>2011-11-27 01:37<br>赞(0) 踩(0) | <div>在大家都搞硬摇滚金属的大好形势下 能听到punk postpunk 只要是独立摇滚 叔已经泪了 即使后海大鲨鱼有yyys的影子 也让人欣慰</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129754)<br>我还没想好要写什么...<br>2011-11-23 12:36<br>赞(0) 踩(0) | <div>过噪第一波视频：<a href="http://v.youku.com/v_show/id_XMzIzNjkzNTUy.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMzIzNjkzNTUy.html</a>图片这里也有<a href="http://www.converse.com.cn/blog/2011/11/17/guozao-video-1/" target="_blank" rel="nofollow noreferrer noopener">http://www.converse.com.cn/blog/2011/11/17/guozao-video-1/</a></div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129754)<br>我还没想好要写什么...<br>2011-11-23 12:36<br>赞(0) 踩(0) | <div>过噪第一波视频：<a href="http://v.youku.com/v_show/id_XMzIzNjkzNTUy.html" target="_blank" rel="nofollow noreferrer noopener">http://v.youku.com/v_show/id_XMzIzNjkzNTUy.html</a><br>图片这里也有<a href="http://www.converse.com.cn/blog/2011/11/17/guozao-video-1/" target="_blank" rel="nofollow noreferrer noopener">http://www.converse.com.cn/blog/2011/11/17/guozao-video-1/</a></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576211)<br><br>2011-11-28 18:26<br>赞(0) 踩(0) | <div>赞！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/904862)<br>nnnnんです<br>2011-11-19 21:23<br>赞(25) 踩(0) | <div>有的人聽重塑，似乎關注點放錯了地方。中國樂隊唱英文有何不可？一首歌，詞曲兩部份能給和諧相容才是好歌。如果是唱溫柔繾綣的情歌，我想任何語言都比不上法語，但是你若要用法語唱重金屬，那就是自討沒趣。音樂本不分國界，愛唱啥唱啥，愛用什麽語用什麽語，愛聽的留下，不愛聽的默默換個頻道，么得必要非得把自己嘴裡的穢物留下。咱們還是要努力構建和諧社會滴~</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4236669)<br><br>2011-12-01 23:32<br>赞(0) 踩(0) | <div>说得对，好音乐不分国界的。看过现场，很好</div> |
@@ -745,7 +745,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2677663)<br><br>2011-11-15 23:00<br>赞(0) 踩(0) | <div>中国摇滚</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4199947)<br><br>2011-11-13 15:58<br>赞(65) 踩(0) | <div>******</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/904862)<br>nnnnんです<br>2011-11-19 21:15<br>赞(0) 踩(0) | <div>歐洲的樂隊，唱英文的也多的去了</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/676512)<br>¤電波星¤<br>2011-12-03 15:19<br>赞(0) 踩(0) | <div>笑话，乐队想用什么语言和做音乐有关系吗？再说了，英语比较国际化，有太多摇滚乐队都喜欢用英语而不用本国语言的，这根本不是重点</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/676512)<br>¤電波星¤<br>2011-12-03 15:19<br>赞(0) 踩(0) | <div>笑话，乐队想用什么语言和做音乐有关系吗？<br>再说了，英语比较国际化，有太多摇滚乐队都喜欢用英语而不用本国语言的，这根本不是重点</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4199947)<br><br>2011-12-21 22:50<br>赞(0) 踩(0) | <div><q><b>人間動物園说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/904862)<br>nnnnんです<br>2011-12-22 17:56<br>赞(0) 踩(0) | <div><q><b>未知生物说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2080572)<br><br>2011-12-29 13:43<br>赞(0) 踩(0) | <div><q><b>人間動物園说：</b></q></div> |
@@ -755,10 +755,10 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/821)<br><br>2012-11-11 21:19<br>赞(0) 踩(0) | <div>我认同窦唯的理解——人声也是一种乐器。语言只是发音的方式不同而已，英文平滑，中文颗粒感强，人声相对乐器来讲其实还是很局限，表达到极致的音乐一般是没有人声的。在中文歌手中，目前崔健和周杰伦是在降低中文颗粒感上做出探索最大的，而窦唯到最后则只唱汉语的发音，完全忽略具体的歌词。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1301139)<br><br>2012-12-05 10:18<br>赞(0) 踩(0) | <div>好好的中国人搞毛的英文名字 还ayuto</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4078696)<br><br>2013-01-11 10:12<br>赞(0) 踩(0) | <div>重塑算是中国乐队里面英语发音比较地道的了</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9915487)<br><br>2013-02-22 18:35<br>赞(0) 踩(0) | <div>汉语能四声对齐？文学功底差劲，写出来词你能对唱？懂音乐人都知道汉字发音填到曲里面是很难的事。不得不佩服一国两制地区的那些普通话说的很别扭人唱的流行歌如此好听。。。。。。做词如此千年等一回！</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/9915487)<br><br>2013-02-22 18:35<br>赞(0) 踩(0) | <div>汉语能四声对齐？文学功底差劲，写出来词你能对唱？懂音乐人都知道汉字发音填到曲里面是很难的事。<br>不得不佩服一国两制地区的那些普通话说的很别扭人唱的流行歌如此好听。。。。。。做词如此千年等一回！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2319085)<br>我还没想好要写什么...<br>2013-03-06 11:51<br>赞(0) 踩(0) | <div>因为摇滚发源于英文文化，用中文唱摇滚就像用英文唱京剧一样</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/5974762)<br>生命之音...奇妙<br>2013-05-25 23:55<br>赞(0) 踩(0) | <div>您怎么不想想用英语唱京剧什么感觉？</div> |
-| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1177806)<br><br>2013-08-24 01:55<br>赞(0) 踩(0) | <div>看看词，中文真不好写：你娃六月4日进号子了，进号子了，进号子了。这听起来喜感倍增，是吗？</div> |
+| ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1177806)<br><br>2013-08-24 01:55<br>赞(0) 踩(0) | <div>看看词，中文真不好写：<br><br>你娃六月4日进号子了，<br>进号子了，<br>进号子了。<br><br>这听起来喜感倍增，是吗？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2670575)<br><br>2013-12-03 18:56<br>赞(0) 踩(0) | <div>如果是汉学汉语功底深的美国人读唐诗，可能比很多中国人读的还好</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/32720132)<br>富国河<br>2014-02-13 16:44<br>赞(0) 踩(0) | <div>后朋克算是摇滚里比较原始的风格了，外国的产物当然用英文唱和谐点，这个乐队还是听优秀，国际化的。要是能像沼泽那样把外国的东西中国化那就更上一个层次了。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/465461)<br>去他媽的大電視<br>2014-04-06 20:22<br>赞(0) 踩(0) | <div><q><b>Aires说：</b></q></div> |
@@ -775,7 +775,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129754)<br>我还没想好要写什么...<br>2011-11-04 11:10<br>赞(0) 踩(0) | <div>北京就是今晚。大伙儿现场见吧！</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/576211)<br><br>2011-11-04 15:16<br>赞(0) 踩(0) | <div>迫不及待。还有几个小时！！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/3391572)<br><br>2011-11-03 18:25<br>赞(0) 踩(0) | <div>大陆最国际化的团</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129754)<br>我还没想好要写什么...<br>2011-11-03 16:20<br>赞(0) 踩(0) | <div>刚豆瓣看来的，昆明想要票的朋友。来看这2个店还有票！！！青年路旗舰店云南省昆明市青年路289号柏联百盛云南省昆明市三市街163号柏联百盛5楼</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129754)<br>我还没想好要写什么...<br>2011-11-03 16:20<br>赞(0) 踩(0) | <div>刚豆瓣看来的，昆明想要票的朋友。来看这2个店还有票！！！<br><br>青年路旗舰店<br>云南省昆明市青年路289号<br><br>柏联百盛<br>云南省昆明市三市街163号柏联百盛5楼</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/864103)<br><br>2011-11-02 13:14<br>赞(0) 踩(0) | <div>这么好的乐队还是免费的，真是天下最好的事情了</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/864103)<br><br>2011-11-02 13:13<br>赞(0) 踩(0) | <div>看到其他城市抢票的很疯狂啊不知道上海怎么样？</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/129754)<br>我还没想好要写什么...<br>2011-11-02 12:28<br>赞(0) 踩(0) | <div>啊。限量送票啦~<a href="http://www.xiami.com/group/thread-detail/tid/242738" target="_blank" rel="nofollow noreferrer noopener">http://www.xiami.com/group/thread-detail/tid/242738</a></div> |
@@ -850,7 +850,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/595867)<br>我还没想好要写什么...<br>2011-08-01 23:28<br>赞(0) 踩(0) | <div>牛逼。一听就高潮的。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1428095)<br><br>2011-07-31 18:05<br>赞(0) 踩(0) | <div>牛逼不解释</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2487997)<br><br>2011-07-30 20:03<br>赞(2) 踩(0) | <div>这个乐队是最牛逼的音乐!!!最操蛋的人品!!尤其是主唱华东.见了老外跟见了爹是的.一天到晚装大师.</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2375635)<br>一匹死在南方的母马<br>2011-07-30 03:51<br>赞(0) 踩(0) | <div>this is chinese rock n\' roll!非常棒的后朋。</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2375635)<br>一匹死在南方的母马<br>2011-07-30 03:51<br>赞(0) 踩(0) | <div>this is chinese rock n\' roll!<br><br>非常棒的后朋。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/893246)<br><br>2011-07-29 13:33<br>赞(0) 踩(0) | <div>重塑要去summer sonic啦~！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/4858873)<br><br>2011-07-28 13:16<br>赞(0) 踩(0) | <div>他们是中国摇滚的希望！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/706329)<br>2061<br>2011-07-22 19:27<br>赞(0) 踩(0) | <div>来西安演出时间太短 没听够</div> |
@@ -966,7 +966,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2972790)<br>我如此爱你<br>2011-02-25 14:55<br>赞(0) 踩(0) | <div>就是喜欢</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2972790)<br>我如此爱你<br>2011-02-25 14:50<br>赞(0) 踩(0) | <div>很棒</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2947526)<br><br>2011-02-24 10:08<br>赞(0) 踩(0) | <div>最想看的现场。。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/721116)<br> <br>2011-02-23 14:34<br>赞(0) 踩(0) | <div>Lov.......................................e</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/721116)<br> <br>2011-02-23 14:34<br>赞(0) 踩(0) | <div>Lov...........................<br>............e</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/35783)<br>身体给雨，灵魂给风。<br>2011-02-20 14:37<br>赞(0) 踩(0) | <div>乐队名字有什么典故吗~？</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2361919)<br><br>2011-03-09 19:52<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/924518)<br>Starfall of ...<br>2011-04-08 17:03<br>赞(0) 踩(0) | <div><q><b>说：</b></q></div> |
@@ -1012,7 +1012,7 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/53801)<br>新你请转运<br>2011-01-24 22:26<br>赞(0) 踩(0) | <div>现场绝对印象深刻</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1329127)<br>你要一輪太陽和幻想<br>2011-01-24 19:42<br>赞(0) 踩(0) | <div>节奏挺好</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2472827)<br> <br>2011-01-23 20:05<br>赞(0) 踩(0) | <div>现场非常high</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247772)<br>百 年 孤 寂。 此号停...<br>2011-01-22 23:39<br>赞(0) 踩(0) | <div>喜欢很久的乐队,少之又少的中国摇滚后朋乐队!感觉国内喜爱和认识他们的人不多!可是他们确实一支很有实力的乐队!富有节奏感带点迷幻的伴奏和富有戏剧性的唱腔还有那些个性的姿态确实让我难以抗拒和充满想象!希望能看到他们的现场!-- 莫</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/247772)<br>百 年 孤 寂。 此号停...<br>2011-01-22 23:39<br>赞(0) 踩(0) | <div>喜欢很久的乐队,少之又少的中国摇滚后朋乐队!感觉国内喜爱和认识他们的人不多!可是他们确实一支很有实力的乐队!富有节奏感带点迷幻的伴奏和富有戏剧性的唱腔还有那些个性的姿态确实让我难以抗拒和充满想象!希望能看到他们的现场!<br>-- 莫</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2164564)<br><br>2011-01-19 19:14<br>赞(0) 踩(0) | <div>后海秒杀所有。</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/403782)<br><br>2011-01-18 17:37<br>赞(0) 踩(0) | <div>看过主唱的采访觉得好装逼啊 囧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2515358)<br><br>2011-01-17 12:57<br>赞(0) 踩(0) | <div>女主唱</div> |
@@ -1020,8 +1020,8 @@
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2505985)<br> <br>2011-01-15 20:39<br>赞(0) 踩(0) | <div>带劲</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2120589)<br> <br>2011-01-15 13:23<br>赞(0) 踩(0) | <div>曲风挺特别的~</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1281141)<br>暂无签名~<br>2010-10-11 00:36<br>赞(0) 踩(0) | <div>重塑现场很给力( ⊙o⊙ )</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/650004)<br><br>2010-10-01 04:34<br>赞(0) 踩(0) | <div>就是从这里开始喜欢punk的有感觉就是有感觉喜欢也没有为什么不爱的都跪远点而！</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/740169)<br><br>2010-09-23 23:29<br>赞(0) 踩(0) | <div>好就是好鸡蛋里挑骨头的人为什么“这个”社会特别多</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/650004)<br><br>2010-10-01 04:34<br>赞(0) 踩(0) | <div>就是从这里开始喜欢punk的<br>有感觉就是有感觉<br>喜欢也没有为什么<br><br>不爱的都跪远点而！</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/740169)<br><br>2010-09-23 23:29<br>赞(0) 踩(0) | <div>好就是好<br><br>鸡蛋里挑骨头的人为什么“这个”社会特别多</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1342493)<br><br>2010-09-11 17:36<br>赞(0) 踩(0) | <div>音乐还不错，歌词一句不懂，似乎有过余模仿的嫌疑。太像了连在舞台上的动作都差不多(呵呵,后朋）</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1182898)<br><br>2011-01-19 23:45<br>赞(0) 踩(0) | <div>国内什么乐队不是模仿国外 只有模仿的象和不象而已</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/465220)<br><br>2010-09-09 10:28<br>赞(0) 踩(0) | <div>存在就价值，即使面对的全是喷子</div> |
@@ -1032,7 +1032,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/806724)<br><br>2010-10-31 17:23<br>赞(0) 踩(0) | <div><q><b>三门峡小F说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/2120589)<br> <br>2011-01-15 12:44<br>赞(0) 踩(0) | <div><q><b>三门峡小F说：</b></q></div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1189838)<br><br>2010-07-18 02:10<br>赞(0) 踩(0) | <div>华东的英语强调很正点了，狂顶重塑</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368167)<br>为了<br>2010-06-26 22:55<br>赞(1) 踩(0) | <div>我觉得说多了挺乏味的.我只想说，我尊敬那些抛弃形势，精神独立的音乐和思想，尊敬那些推崇自我,而且确实拥有自我人和事,好的东西不需要标榜什么形式,标榜他的受众或获得谁的承认,只要是真实的,而这种真实，一定会有人看得出来.不客气地说，这种乐队我从听第一个音节我就知道他想干什么,想障显什么,其实语言只是一个方面而已,而从心底觉得这样非常无聊和肤浅.另外说一句,二手玫瑰我还真不怎么喜欢,但我尊敬这样的乐队,至于昂不昂德斯蛋那位,我觉得您真已经把自己标榜的挺高级了，我给您下个跪得了,呵呵.</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368167)<br>为了<br>2010-06-26 22:55<br>赞(1) 踩(0) | <div>我觉得说多了挺乏味的.<br>我只想说，我尊敬那些抛弃形势，精神独立的音乐和思想，尊敬那些推崇自我,而且确实拥有自我人和事,好的东西不需要标榜什么形式,标榜他的受众或获得谁的承认,只要是真实的,而这种真实，一定会有人看得出来.<br>不客气地说，这种乐队我从听第一个音节我就知道他想干什么,想障显什么,其实语言只是一个方面而已,而从心底觉得这样非常无聊和肤浅.<br>另外说一句,二手玫瑰我还真不怎么喜欢,但我尊敬这样的乐队,至于昂不昂德斯蛋那位,我觉得您真已经把自己标榜的挺高级了，我给您下个跪得了,呵呵.</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/808196)<br><br>2010-07-03 15:45<br>赞(0) 踩(0) | <div>说得不少了，装X帝，不喜误入啊。</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1147273)<br><br>2010-07-19 19:23<br>赞(0) 踩(0) | <div><q><b>FreddieYang说：</b></q></div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/334816)<br>13号<br>2010-07-29 17:08<br>赞(0) 踩(0) | <div><q><b>rockeasy说：</b></q></div> |
@@ -1045,7 +1045,7 @@
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/722316)<br><br>2010-09-16 14:37<br>赞(0) 踩(0) | <div>他们这词，估计翻成中文一没味儿了，二必须和谐了，呵呵。所以想听好东西，学英语吧</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/38607)<br><br>2010-06-01 21:17<br>赞(0) 踩(0) | <div>重塑的现场真的很棒！</div> |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/769163)<br><br>2010-04-01 11:58<br>赞(0) 踩(0) | <div>呵呵，有些音乐，原本不是应该看字面意思理解的。听它，有共鸣，对听的人来说，就是好音乐。</div> |
-| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368167)<br>为了<br>2009-12-15 18:40<br>赞(0) 踩(0) | <div>无法用自己的母语去表达的情感，是想说你的感情有多怪异，多热烈？还是多虚伪呢....音乐是用来表现自我的，不是装13</div> |
+| ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/368167)<br>为了<br>2009-12-15 18:40<br>赞(0) 踩(0) | <div>无法用自己的母语去表达的情感，是想说你的感情有多怪异，多热烈？还是多虚伪呢....<br>音乐是用来表现自我的，不是装13</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/13049)<br><br>2010-06-14 16:24<br>赞(0) 踩(0) | <div>不了解就不要乱说</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/1062570)<br><br>2010-06-23 15:41<br>赞(0) 踩(0) | <div>选择什么方式什么语言是他们的自由，艺术原因也好，商业原因也罢。音乐和其他艺术用来干什么你一句话概括了倒无所谓，别人也可以有不同见解。搞语言排挤**干什么？！Parce que tu ne comprends pas? Because you can not understand? Du verstehst nicht?</div> |
 | ⇒ | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/506337)<br><br>2012-07-10 22:43<br>赞(0) 踩(0) | <div>为什么就不能用国际语言表达情感，那音乐又是哪一种语言呢</div> |

@@ -43,5 +43,3 @@ Born is the King of Israel
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |

@@ -3,7 +3,7 @@
 
 |  |  |
 | :--: | :-- |
-| [![](../../images/musicians/dbc3b183ca691346dbad17dd3652cd75.png)<br>陈小余儿](https://i.xiami.com/chenxiaoyuer) | **播放数**: 6372523<br>**粉丝数**: 117<br>**评论数**: 1<br>**地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 独立流行 Indie Pop<br> |
+| [![](../../images/musicians/dbc3b183ca691346dbad17dd3652cd75.png)<br>陈小余儿](https://i.xiami.com/chenxiaoyuer) | **地区**: China 中国大陆<br>**风格**: 流行 Pop, 国语流行 Mandarin Pop, 独立流行 Indie Pop<br>**播放数**: 6372523<br>**粉丝数**: 117<br>**评论数**: 1<br> |
 
 ## 档案
 
@@ -22,6 +22,6 @@
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/429656649)<br><br>2019-09-20 23:20<br>赞(0) 踩(0) | <div>你这冒充的也够可以的啊！这首歌的真正演唱者在翻唱这首女儿情的时候，你还在上小学吧！！！</div> |

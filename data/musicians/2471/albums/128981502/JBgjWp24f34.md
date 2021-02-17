@@ -88,8 +88,8 @@ Boom Boom Boom
 
 ## 评论
 
-|  |  |  |  |
-| :-- | :-- | :-- | :-- |
+|  |  |  |
+| :-- | :-- | :-- |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/99925258)<br>我是要立志穿背带裤的好少...<br>2017-12-06 07:46<br>赞(3) 踩(0) | <div><img src="../../../../images/comments/3fd1bbb0cd4b9bb7dd5f8308a7e892f1.png"></div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/55069121)<br><br>2015-09-29 13:49<br>赞(2) 踩(0) | <div>好可以吧。</div> |
 | ![](../../../../images/users/default.png)<br>[虾米用户](https://emumo.xiami.com/u/14451367)<br>原谅我<br>2015-07-24 02:19<br>赞(1) 踩(0) | <div>哈哈哈，还是这么有意思</div> |
